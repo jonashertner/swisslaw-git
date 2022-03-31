@@ -4,11 +4,11 @@ title: Ordonnance du 19 juin 1995 concernant les exigences techniques requises p
 short: OETV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425"
 language: fr
-version: 2022-01-01
+version: 2022-04-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4425_4425_4425-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4425_4425_4425-20220401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr"
 
 (OETV)
 
-du 19 juin 1995 (Etat le 1<sup>er</sup> janvier 2022)
+du 19 juin 1995 (Etat le 1<sup>er</sup> avril 2022)
 
 Le Conseil fédéral suisse,
 
@@ -319,6 +319,24 @@ Le «poids à vide» équivaut au poids du véhicule non chargé et prêt à rou
 [^9-4]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 [^9-5]: Introduit par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 
+#### Art. 9a
+
+**Véhicules à propulsion alternative ou à propulsion non polluante**[^9a-1]
+
+<sup>1</sup>
+
+Sont réputés «véhicules à propulsion alternative» les véhicules dont tout ou partie de la propulsion est assurée par l’une des sources d’énergie suivantes:
+
+- a. l’électricité;
+- b. l’hydrogène;
+- c. le gaz naturel, y compris le biogaz;
+- d. le gaz de pétrole liquéfié;
+- e. l’énergie mécanique provenant d’un stockage embarqué ou d’une source embarquée, y compris la chaleur résiduelle.
+
+<sup>2</sup> Sont réputés «véhicules à propulsion non polluante» les véhicules dépourvus de moteur à combustion ou dont le moteur à combustion émet moins de 1 g CO<sub>2</sub>/kWh ou moins de 1 g CO<sub>2</sub>/km, en particulier les véhicules dont la propulsion est assurée exclusivement par de l’électricité ou de l’hydrogène. Le calcul des émissions de CO<sub>2</sub> se fonde sur le règlement (CE) n<sup>o</sup> 595/2009 ou n<sup>o</sup> 715/2007.
+
+[^9a-1]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+
 ### Chapitre 2 Voitures automobiles
 
 #### Art. 10
@@ -380,7 +398,7 @@ On distingue les voitures automobiles de transport des genres suivants:[^11-2]
 
 <sup>1</sup>
 
-Les voitures automobiles de transport visées dans la directive 2007/46/CE sont classées dans les catégories M et N. Les voitures automobiles de transport de la catégorie M sont des voitures automobiles affectées au transport de personnes; celles de la catégorie N sont des voitures automobiles affectées au transport de choses. Elles sont classées dans les catégories suivantes:
+Les voitures automobiles de transport visées dans le règlement (UE) 2018/858[^12-2] sont classées dans les catégories M et N. Les voitures automobiles de transport de la catégorie M sont des voitures automobiles affectées au transport de personnes; celles de la catégorie N sont des voitures automobiles affectées au transport de choses. Elles sont classées dans les catégories suivantes:
 
 - a. catégorie M<sub>1</sub>: véhicules comptant neuf places assises au maximum, conducteur compris;
 - b. catégorie M<sub>2:</sub> véhicules comptant plus de neuf places assises, conducteur compris, dont le poids garanti ne dépasse pas 5,00 t;
@@ -389,7 +407,7 @@ Les voitures automobiles de transport visées dans la directive 2007/46/CE sont 
 - e. catégorie N<sub>2:</sub> véhicules dont le poids garanti est supérieur à 3,50 t, mais ne dépasse pas 12,00 t;
 - f. catégorie N<sub>3:</sub> véhicules dont le poids garanti est supérieur à 12,00 t.
 
-<sup>2</sup> Les véhicules des catégories M ou N qui satisfont aux conditions énoncées à l’annexe II, let. A, ch. 4, de la directive 2007/46/CE sont considérés comme des véhicules tout terrain. La lettre «G» est ajoutée à leur indicatif de catégorie.
+<sup>2</sup> Les véhicules des catégories M ou N qui satisfont aux conditions énoncées à l’annexe I, appendice 1, ch. 4, du règlement (UE) 2018/858 sont considérés comme des véhicules tout terrain. La lettre «G» est ajoutée à leur indicatif de catégorie.[^12-3]
 
 <sup>3</sup>
 
@@ -418,6 +436,8 @@ Un indice est ajouté à l’indicatif de catégorie des tracteurs des catégori
 <sup>6</sup> Pour la classification d’un véhicule tracteur destiné à tirer une semi-remorque, une remorque à timon rigide ou une remorque à essieu central, il y a lieu de prendre en considération la charge du timon ou la charge de la sellette d’appui.
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
+[^12-2]: Nouvelle expression selon ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^12-3]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 #### Art. 13
 
@@ -602,7 +622,7 @@ D’après leur construction, on distingue les remorques de transport suivantes:
 
 <sup>1</sup>
 
-Les remorques de la catégorie O sont des remorques de transport au sens de la directive 2007/46/CE. Elles sont classées dans les catégories suivantes:
+Les remorques de la catégorie O sont des remorques de transport au sens du règlement (UE) 2018/858. Elles sont classées dans les catégories suivantes:
 
 - a. catégorie O<sub>1:</sub> remorques dont le poids garanti ne dépasse pas 0,75 t;
 - b. catégorie O<sub>2:</sub> remorques dont le poids garanti dépasse 0,75 t, mais n’excède pas 3,50 t;
@@ -727,7 +747,7 @@ Les prescriptions relatives aux voitures à bras (art. 211) s’appliquent par a
 
 <sup>1</sup> Les chariots de travail agricoles et forestiers et les remorques de travail agricoles et forestières ayant une largeur hors normes sont immatriculés comme les véhicules spéciaux (art. 25) si cette largeur ne dépasse pas 3,50 m.[^27-2]
 
-<sup>1bis</sup> Les autres véhicules agricoles et forestiers dont la largeur n’excède 2,55 m qu’en raison du montage de pneumatiques larges (art. 60, al. 6), de chenilles en caoutchouc, d’éventuels dispositifs de recouvrement des roues en matériau mou ou d’engins de travail sont admis comme des véhicules spéciaux jusqu’à une largeur de 3,00 m. En ce qui concerne les pneumatiques et les chenilles, il doit exister, du type de véhicule en question, un modèle dont la largeur atteint 2,55 m au maximum.[^27-3]
+<sup>1bis</sup> Les autres véhicules agricoles et forestiers dont la largeur n’excède 2,55 m qu’en raison du montage de pneumatiques larges (art. 60, al. 6), de chenilles en caoutchouc, d’éventuels dispositifs de recouvrement des roues ou d’engins de travail nécessaires sont admis comme des véhicules spéciaux jusqu’à une largeur de 3,00 m. En ce qui concerne les pneumatiques et les chenilles, y compris les dispositifs de recouvrement des roues, il doit exister, pour le type de véhicule en question, un modèle dont la largeur atteint 2,55 m au maximum.[^27-3]
 
 <sup>1ter</sup> La largeur d’une remorque spéciale conforme à l’al. 1<sup>bis</sup> ne doit pas dépasser celle du véhicule tracteur (art. 38, al. 1<sup>bis</sup>), sauf si ce dernier est muni de pneumatiques larges, de pneus jumelés ou de chenilles en caoutchouc. Dans ce cas, la largeur de la remorque doit être indiquée de manière bien visible sur le véhicule tracteur.[^27-4]
 
@@ -743,7 +763,7 @@ Les véhicules agricoles et forestiers suivants présentant une largeur hors nor
 
 [^27-1]: Nouvelle expression selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)). Il n’a été tenu compte de cette mod. que dans les dispositions mentionnées au RO.
 [^27-2]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> oct. 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
-[^27-3]: Introduit par le ch. I de l’O du 10 juin 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)). Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
+[^27-3]: Introduit par le ch. I de l’O du 10 juin 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^27-4]: Introduit par le ch. I de l’O du 2 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^27-5]: Nouvelle teneur selon le ch. I de l’O du 2 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^27-6]: Introduit par le ch. I de l’O du 2 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
@@ -973,10 +993,10 @@ Les contrôles sont effectués aux intervalles suivants:
   - 3\. les véhicules agricoles et forestiers,
   - 4\. les monoaxes,
   - 5\.[^33-12] les remorques dont le poids total excède 0,75 t attelées aux véhicules visés aux ch. 1 à 4,
-  - 6\.[^33-13] les remorques de travail, à l’exception des remorques dont le poids total n’excède pas 0,75 t ainsi que les remorques du service du feu et de la protection civile.
-  - 7\.[^33-14] les remorques de forains et de cirques qui sont désignées comme telles dans le permis de circulation et transportent exclusivement du matériel de forains et de cirque.
+  - 6\.[^33-13] les remorques de travail, à l’exception des remorques dont le poids total n’excède pas 0,75 t ainsi que les remorques du service du feu et de la protection civile,
+  - 7\.[^33-14] les remorques de forains et de cirques dont le poids total excède 0,75 t, désignées comme telles dans le permis de circulation et transportant exclusivement du matériel de forains et de cirques.
 
-<sup>2bis</sup> Si des véhicules visés à l’al. 2, let. a<sup>bis</sup>, ne sont pas utilisés uniquement pour le trafic intérieur, le dernier contrôle officiel du véhicule ne doit pas remonter à plus d’une année. Les détenteurs doivent veiller eux-mêmes à ce que le contrôle subséquent soit effectué en temps utile.[^33-15]
+<sup>2bis</sup> Si des véhicules visés à l’al. 2, let. a<sup>bis</sup> ou e, ch. 7, et de plus de 3,5 t ne sont pas utilisés uniquement pour le trafic intérieur, le dernier contrôle officiel du véhicule ne doit pas remonter à plus d’une année. Les détenteurs doivent veiller eux-mêmes à ce que le contrôle subséquent soit effectué en temps utile.[^33-15]
 
 <sup>3</sup> Un véhicule peut faire l’objet d’un contrôle subséquent en tout temps, si le détenteur le demande.[^33-16]
 
@@ -986,7 +1006,7 @@ Les contrôles sont effectués aux intervalles suivants:
 
 <sup>6</sup> Les véhicules dont les détenteurs bénéficient de privilèges et d’immunités diplomatiques ou consulaires sont dispensés du contrôle périodique obligatoire.[^33-19]
 
-<sup>7</sup> S’agissant des moyens de contrôle, l’art. 29, al. 4, est applicable.[^33-20]
+<sup>7</sup> ...[^33-20]
 
 <sup>8</sup> Les contrôles subséquents doivent se faire conformément au système d’assurance qualité fixé conjointement par les cantons.[^33-21]
 
@@ -1003,13 +1023,13 @@ Les contrôles sont effectués aux intervalles suivants:
 [^33-11]: Nouvelle teneur selon le ch. I de l’O du 21 janv. 2015, en vigueur depuis le 1<sup>er</sup> fév. 2017 ([RO 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)).
 [^33-12]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^33-13]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^33-14]: Introduit par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> mai 2019 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
-[^33-15]: Introduit par le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^33-14]: Introduit par le ch. I de l’O du 21 nov. 2018 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^33-15]: Introduit par le ch. I de l’O du 16 nov. 2016 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^33-16]: Nouvelle teneur selon le ch. I de l’O du 21 janv. 2015, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)).
 [^33-17]: Abrogé par le ch. I de l’O du 15 avr. 2015, avec effet au 1<sup>er</sup> juin 2015 ([RO 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)).
 [^33-18]: Nouvelle teneur selon le ch. II 3 de l’annexe à l’O du 23 fév. 2005 concernant les véhicules automobiles de la Confédération et leurs conducteurs, en vigueur depuis le 1<sup>er</sup> mars 2005 ([RO 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
 [^33-19]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
-[^33-20]: Introduit par le ch. I de l’O du 15 juin 2001, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1181](https://fedlex.data.admin.ch/eli/oc/2002/195)).
+[^33-20]: Introduit par le ch. I de l’O du 15 juin 2001 ([RO 2002 1181](https://fedlex.data.admin.ch/eli/oc/2002/195)). Abrogé par le ch. I de l’O du 17 déc. 2021, avec effet au 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^33-21]: Introduit par le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
 
 #### Art. 33a
@@ -1052,7 +1072,7 @@ Le détenteur est tenu de notifier à l’autorité d’immatriculation les tran
 
 <sup>5bis</sup> ...[^34-10]
 
-<sup>6</sup> Les autorités d’immatriculation peuvent déléguer l’examen requis pour le montage, sur des voitures de tourisme ou de livraison, de dispositifs d’attelage de remorques dépourvus de système de freinage continu autorisés pour le type de véhicule à des personnes habilitées à procéder au contrôle garage (art. 32). Cette délégation de compétence peut être étendue aux véhicules qui possèdent une réception par type suisse, une fiche de données ou un certificat de conformité selon la directive 2007/46/CE.[^34-11]
+<sup>6</sup> Les autorités d’immatriculation peuvent déléguer l’examen requis pour le montage, sur des voitures de tourisme ou de livraison, de dispositifs d’attelage de remorques dépourvus de système de freinage continu autorisés pour le type de véhicule à des personnes habilitées à procéder au contrôle garage (art. 32). Cette délégation de compétence peut être étendue aux véhicules qui possèdent une réception par type suisse, une fiche de données ou un certificat de conformité selon le règlement (UE) 2018/858.[^34-11]
 
 [^34-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 [^34-2]: Nouvelle teneur selon le ch. I de l’O du 6 sept. 2000, en vigueur depuis le 15 oct. 2000 ([RO 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)).
@@ -1167,19 +1187,20 @@ On ordonne un nouveau service d’entretien ou un nouveau contrôle subséquent 
 
 <sup>1</sup> Les véhicules doivent satisfaire aux exigences techniques définies dans la présente partie ou à celles fixées dans l’OETV 1[^36a-1], l’OETV 2[^36a-2] ou l’OETV 3[^36a-3].
 
-<sup>2</sup> Les véhicules bénéficiant d’une réception générale UE ou d’une déclaration de conformité idoine délivrée par le constructeur ainsi que les véhicules qui satisfont aux exigences techniques fixées dans l’OETV 1, l’OETV 2 ou l’OETV 3 doivent satisfaire en outre aux art. 45, 66, al. 1<sup>bis</sup>, 68, al. 1 et 4, 69, al. 2<sup>bis</sup>, 90, 100 à 102, 114, 117, al. 2, 123, al. 4, et 195, al. 3 et 5, de la présente ordonnance.
+<sup>2</sup> Les art. 45, 58, al. 4, 66, al. 1<sup>bis</sup>, 68, al. 1 et 4, 69, al. 2<sup>bis</sup>, 90, 99*a* à 102, 114, 117, al. 2, 123, al. 4, 134, al. 1, 163, al. 4, let. b, et 195, al. 3 et 5, de la présente ordonnance s’appliquent en plus aux véhicules bénéficiant d’une réception générale UE ou d’une déclaration de conformité idoine délivrée par le constructeur et aux véhicules qui satisfont aux exigences techniques fixées dans l’OETV 1, l’OETV 2 ou l’OETV 3.[^36a-4]
 
-<sup>3</sup> Les véhicules servant au transport de marchandises dangereuses doivent satisfaire en outre aux exigences techniques de la SDR[^36a-4].
+<sup>3</sup> Les véhicules servant au transport de marchandises dangereuses doivent satisfaire en outre aux exigences techniques de la SDR[^36a-5].
 
 <sup>4</sup> Les véhicules étrangers doivent satisfaire aux exigences techniques définies dans la présente partie si celles-ci n’outrepassent pas les exigences des conventions internationales ou les règles de droit du pays d’immatriculation.
 
-<sup>5</sup> Les véhicules des détenteurs bénéficiant de privilèges et d’immunités diplomatiques ou consulaires doivent uniquement satisfaire aux exigences techniques de l’annexe 5 de la Convention du 8 novembre 1968 sur la circulation routière[^36a-5].
+<sup>5</sup> Les véhicules des détenteurs bénéficiant de privilèges et d’immunités diplomatiques ou consulaires doivent uniquement satisfaire aux exigences techniques de l’annexe 5 de la Convention du 8 novembre 1968 sur la circulation routière[^36a-6].
 
 [^36a-1]: [RS 741.412](https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145)
 [^36a-2]: [RS 741.413](https://fedlex.data.admin.ch/eli/cc/2016/821)
 [^36a-3]: [RS 741.414](https://fedlex.data.admin.ch/eli/cc/2016/822)
-[^36a-4]: [RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
-[^36a-5]: [RS 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)
+[^36a-4]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^36a-5]: [RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
+[^36a-6]: [RS 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)
 
 #### Art. 37
 
@@ -1218,66 +1239,51 @@ La longueur du véhicule se mesure sur les parties extérieures fixes du véhicu
 - p.[^38-9] perches de contact des véhicules électriques en trafic de ligne;
 - q.[^38-10] pare-soleil montés à l’extérieur du véhicule;
 - r.[^38-11] porte-vélos escamotables;
-- s.[^38-12]
-
-  dispositifs escamotables visant à atténuer la résistance à l’air sur les véhicules des catégories M<sub>2</sub><sub>,</sub> M<sub>3</sub><sub>,</sub> N<sub>2</sub>, N<sub>3</sub>, O<sub>3</sub> et O<sub>4</sub>, pour autant qu’ils:
-
-  - 1\. dépassent le véhicule de 500 mm au maximum, à l’arrière,
-  - 2\. n’augmentent pas la surface de chargement, et
-  - 3\. puissent, lorsque le véhicule est à l’arrêt, être escamotés complètement et n’entravent pas l’utilisation du véhicule pour le transport combiné non accompagné (art. 67, al. 1<sup>bis</sup>, OCR[^38-13]);
-
-- t.[^38-14] mâts de charge rétractables non rétractés servant exclusivement au transport d’un chariot élévateur embarqué à l’arrière de poids lourds et de remorques.[^38-15]
+- s.[^38-12] dispositifs escamotables ou rétractables visant à atténuer la résistance à l’air sur les voitures automobiles lourdes, les minibus et les remorques des catégories O<sub>3</sub> et O<sub>4</sub>, pour autant que ces dispositifs soient conformes à l’annexe I du règlement (UE) n<sup>o</sup> 1230/2012;
+- t.[^38-13] mâts de charge rétractables non rétractés servant exclusivement au transport d’un chariot élévateur embarqué à l’arrière de poids lourds et de remorques.[^38-14]
 
 <sup>1bis</sup>
 
 La largeur du véhicule se mesure sur les parties extérieures fixes du véhicule, à l’exclusion des:
 
 - a. dispositifs de protection et d’attache des sceaux de douane;
-- b.[^38-16] dispositifs de sécurité des bâches de véhicules et des dispositifs de protection y relatifs, à une hauteur
+- b.[^38-15] dispositifs de sécurité des bâches de véhicules et des dispositifs de protection y relatifs, à une hauteur
   - 1\. maximale de 2,00 m au-dessus du sol, pour autant qu’ils dépassent de 20 mm au maximum de chaque côté,
   - 2\. supérieure à 2,00 mais ne dépassant pas 2,50 m au-dessus du sol, pour autant qu’ils dépassent de 50 mm au maximum de chaque côté,
   - 3\. supérieure à 2,50 m au-dessus du sol, pour autant qu’ils dépassent de 150 mm au maximum de chaque côté;
 
-- c.[^38-17] indicateurs de pression et de défaillance des pneumatiques, pour autant qu’ils dépassent au maximum de 100 mm au total des deux côtés;
+- c.[^38-16] indicateurs de pression et de défaillance des pneumatiques, pour autant qu’ils dépassent au maximum de 100 mm au total des deux côtés;
 - d. bavettes de protection souples ou dispositifs antiprojections;
 - e. dispositifs d’éclairage;
-- f.[^38-18] plate-formes de levage, ponts de chargement et dispositifs de levage similaires sur des véhicules des catégories M<sub>2</sub><sub>,</sub> M<sub>3</sub><sub>,</sub> N<sub>2</sub>, N<sub>3</sub> et O, pour autant qu’ils dépassent de 10 mm au maximum de chaque côté lorsqu’ils ne sont pas déployés;
-- g.[^38-19] rétroviseurs et autres systèmes de vision indirecte ainsi que de leurs supports, aides à la vision, témoins de profil;
+- f.[^38-17] plate-formes de levage, ponts de chargement et dispositifs de levage similaires sur des véhicules des catégories M<sub>2</sub><sub>,</sub> M<sub>3</sub><sub>,</sub> N<sub>2</sub>, N<sub>3</sub> et O, pour autant qu’ils dépassent de 10 mm au maximum de chaque côté lorsqu’ils ne sont pas déployés;
+- g.[^38-18] rétroviseurs et autres systèmes de vision indirecte ainsi que de leurs supports, aides à la vision, témoins de profil;
 - h. marchepieds escamotables ou pouvant être abaissés;
 - i. zones aplaties des pneumatiques;
 - k. chaînes à neige;
-- <sup>l.</sup>[^38-20] stabilisateurs aérodynamiques fixés latéralement aux bâches des véhicules, constitués de matériaux mous et mesurant au maximum 50 × 50 mm de section;
-- m.[^38-21] dispositifs rétractables de guidage latéral équipant les autocars (y compris bus à plate-forme pivotante et les trolleybus) destinés â être exploités dans les systèmes guidés, s’ils ne sont rétractés,
-- n.[^38-22] aides visuelles et dispositifs d’orientation, appareils radar compris, pour autant qu’ils dépassent au maximum de 100 mm au total des deux côtés sur des véhicules des catégories M<sub>2</sub><sub>,</sub> M<sub>3</sub><sub>,</sub> N<sub>2</sub>, N<sub>3</sub> et O;
-- o.[^38-23]
-
-  dispositifs escamotables destinés à atténuer la résistance à l’air sur des véhicules des catégories N et O, pour autant qu’ils:
-
-  - 1\. dépassent le véhicule de 50 mm au maximum, des deux côtés,
-  - 2\. n’augmentent pas la surface de chargement,
-  - 3\. puissent, lorsque le véhicule est à l’arrêt, être escamotés complètement et n’entravent pas l’utilisation du véhicule pour le transport combiné non accompagné (art. 67, al. 1<sup>bis</sup>, OCR),
-  - 4\. n’augmentent pas la largeur du véhicule à plus de 2,65 m en état de fonctionnement;
-
-- p.[^38-24]
+- <sup>l.</sup>[^38-19] stabilisateurs aérodynamiques fixés latéralement aux bâches des véhicules, constitués de matériaux mous et mesurant au maximum 50 × 50 mm de section;
+- m.[^38-20] dispositifs rétractables de guidage latéral équipant les autocars (y compris bus à plate-forme pivotante et les trolleybus) destinés â être exploités dans les systèmes guidés, s’ils ne sont rétractés,
+- n.[^38-21] aides visuelles et dispositifs d’orientation, appareils radar compris, pour autant qu’ils dépassent au maximum de 100 mm au total des deux côtés sur des véhicules des catégories M<sub>2</sub><sub>,</sub> M<sub>3</sub><sub>,</sub> N<sub>2</sub>, N<sub>3</sub> et O;
+- o.[^38-22] dispositifs escamotables ou rétractables visant à atténuer la résistance à l’air sur les voitures automobiles lourdes, les minibus et les remorques des catégories O<sub>3</sub> et O<sub>4</sub>, pour autant que ces dispositifs soient conformes à l’annexe I du règlement (UE) n<sup>o</sup> 1230/2012;
+- p.[^38-23]
 
   parapets de sécurité sur des véhicules affectés au transport d’au moins deux véhicules automobiles à voies multiples, pour autant qu’ils:
 
   - 1\. se trouvent à 2,00 m au moins, mais 3,70 m au plus au-dessus du sol,
   - 2\. dépassent d’au maximum 50 mm sur le côté du véhicule, et
-  - 3\. n’augmentent pas la largeur du véhicule à plus de 2,65 m.[^38-25]
+  - 3\. n’augmentent pas la largeur du véhicule à plus de 2,65 m.[^38-24]
 
 <sup>1ter</sup>
 
-La hauteur du véhicule se mesure lorsqu’il est en état de rouler, en position de marche normale pour les véhicules à suspension avec régulation de niveau. Elle se mesure sur les parties extérieures fixes du véhicule, à l’exclusion des:[^38-26]
+La hauteur du véhicule se mesure lorsqu’il est en état de rouler, en position de marche normale pour les véhicules à suspension avec régulation de niveau. Elle se mesure sur les parties extérieures fixes du véhicule, à l’exclusion des:[^38-25]
 
-- a.[^38-27] antennes radio et antennes de radionavigation;
-- b. perches de contact, en position relevée, des véhicules en trafic de ligne.[^38-28]
+- a.[^38-26] antennes radio et antennes de radionavigation;
+- b. perches de contact, en position relevée, des véhicules en trafic de ligne.[^38-27]
 
-<sup>2</sup> La longueur des remorques est mesurée avec le dispositif d’attelage (timon) en extension et placé en position horizontale.[^38-29]
+<sup>2</sup> La longueur des remorques est mesurée avec le dispositif d’attelage (timon) en extension et placé en position horizontale.[^38-28]
 
 <sup>3</sup> Les composants de véhicules ou les engins de travail peuvent dépasser de 3,00 m au maximum vers l’avant, à compter du centre du dispositif de direction.
 
-<sup>4</sup> La longueur, la largeur et la hauteur des véhicules dont les superstructures sont interchangeables sont mesurées compte tenu de la superstructure elle-même et du dispositif qui l’accueille.[^38-30]
+<sup>4</sup> La longueur, la largeur et la hauteur des véhicules dont les superstructures sont interchangeables sont mesurées compte tenu de la superstructure elle-même et du dispositif qui l’accueille.[^38-29]
 
 [^38-1]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> oct. 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
 [^38-2]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
@@ -1290,25 +1296,24 @@ La hauteur du véhicule se mesure lorsqu’il est en état de rouler, en positio
 [^38-9]: Introduite par le ch. I de l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> oct. 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
 [^38-10]: Introduite par le ch. I de l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> oct. 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
 [^38-11]: Introduite par le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^38-12]: Introduite par le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^38-13]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^38-14]: Introduite par le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^38-15]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
+[^38-12]: Introduite par le ch. I de l’O du 16 nov. 2016 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^38-13]: Introduite par le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^38-14]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
+[^38-15]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^38-16]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^38-17]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^38-18]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^38-19]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> oct. 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
-[^38-20]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^38-21]: Introduite par le ch. I de l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> oct. 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
-[^38-22]: Introduite par le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^38-18]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> oct. 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
+[^38-19]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^38-20]: Introduite par le ch. I de l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> oct. 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
+[^38-21]: Introduite par le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^38-22]: Introduite par le ch. I de l’O du 16 nov. 2016 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^38-23]: Introduite par le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^38-24]: Introduite par le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^38-25]: Introduit par le ch. I de l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
-[^38-26]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2009, en vigueur depuis le 1<sup>er</sup> avr. 2010 ([RO 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
-[^38-27]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^38-28]: Introduit par le ch. I de l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> oct. 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
-[^38-29]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2009, en vigueur depuis le 1<sup>er</sup> avr. 2010 ([RO 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
-[^38-30]: Introduit par le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
+[^38-24]: Introduit par le ch. I de l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
+[^38-25]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2009, en vigueur depuis le 1<sup>er</sup> avr. 2010 ([RO 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
+[^38-26]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^38-27]: Introduit par le ch. I de l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> oct. 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
+[^38-28]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2009, en vigueur depuis le 1<sup>er</sup> avr. 2010 ([RO 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
+[^38-29]: Introduit par le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
 
 #### Art. 39
 
@@ -1316,7 +1321,7 @@ La hauteur du véhicule se mesure lorsqu’il est en état de rouler, en positio
 
 <sup>1</sup>
 
-S’agissant des véhicules des catégories M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub>, N<sub>3</sub>, O<sub>3</sub> et O<sub>4</sub>, les dimensions et les poids indiqués comme caractéristiques techniques dans les réglementations suivantes sont déterminants, même s’ils divergent des prescriptions suisses:[^39-1]
+S’agissant des véhicules des catégories M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub>, N<sub>3</sub>, O<sub>3</sub> et O<sub>4</sub>, il est possible d’utiliser les dimensions et les poids fixés dans les réglementations ci-après comme caractéristiques techniques déterminantes, même s’ils divergent des prescriptions suisses:[^39-1]
 
 - a. la directive n<sup>o</sup> 96/53 du Conseil, du 25 juillet 1996, fixant les dimensions maximales autorisées en trafic national et international ainsi que les poids maximaux autorisés en trafic international pour certains véhicules routiers;
 - b.[^39-2] règlement (UE) n<sup>o</sup> 1230/2012.[^39-3]
@@ -1325,7 +1330,7 @@ S’agissant des véhicules des catégories M<sub>2</sub>, M<sub>3</sub>, N<sub>
 
 <sup>3</sup> Lorsque le véhicule est vide et occupé uniquement par le conducteur, le poids d’adhérence ne doit pas être inférieur à 25 % du poids effectif du véhicule ou de l’ensemble de véhicules.
 
-[^39-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^39-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^39-2]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^39-3]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
 
@@ -1360,7 +1365,7 @@ Une garantie selon l’al. 2 est reconnue lorsque:
 
 <sup>2ter</sup> Les véhicules dont le poids est minime ou dont la vitesse maximale est limitée ne sont pas tenus de satisfaire aux exigences de l’al. 2<sup>bis</sup> si la déclaration de garantie est délivrée par une entreprise qualifiée.[^41-6]
 
-<sup>3</sup> Le poids garanti doit être identique pour tous les véhicules de la même version d’une variante d’un type donné. Sont applicables, s’agissant des termes de version, variante et type, les définitions de l’annexe II, let. B, de la directive 2007/46/CE. Pour les motocycles, les quadricycles légers à moteur, les quadricycles à moteur et les tricycles à moteur, sont applicables les définitions énoncées à l’art. 3 du règlement (UE) n<sup>o</sup> 168/2013. Les modifications du poids garanti apportées par le constructeur à l’occasion d’un changement de modèle sont admises.[^41-7]
+<sup>3</sup> Le poids garanti doit être identique pour tous les véhicules de la même version d’une variante d’un type donné. Sont applicables, s’agissant des termes de version, variante et type, les définitions de l’annexe I, partie B, du règlement (UE) 2018/858. Pour les motocycles, les quadricycles légers à moteur, les quadricycles à moteur et les tricycles à moteur, sont applicables les définitions énoncées à l’art. 3 du règlement (UE) n<sup>o</sup> 168/2013. Les modifications du poids garanti apportées par le constructeur à l’occasion d’un changement de modèle sont admises.[^41-7]
 
 <sup>4</sup> Si une garantie soulève des doutes, l’OFROU ou, pour les véhicules dispensés de la réception par type, l’autorité d’immatriculation peut exiger qu’un organe d’expertise agréé par l’OFROU procède à une expertise. Les garanties fixées manifestement trop bas sont refusées. La garantie est également refusée si le constructeur l’a fixée notablement plus bas pour la Suisse que pour l’étranger.[^41-8]
 
@@ -1372,7 +1377,7 @@ Une garantie selon l’al. 2 est reconnue lorsque:
 [^41-4]: Le texte de cette norme peut être obtenu contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
 [^41-5]: Introduit par le ch. I de l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
 [^41-6]: Introduit par le ch. I de l’O du 2 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
-[^41-7]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^41-7]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^41-8]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^41-9]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 
@@ -1580,14 +1585,14 @@ Les tuyaux d’échappement ne dépassent pas la surface latérale du véhicule.
 - b. des véhicules de la catégorie N conformes au règlement (CE) n<sup>o</sup> 661/2009 ou au règlement CEE-ONU n<sup>o</sup> 61;
 - c. des quadricycles légers à moteur, quadricycles à moteur et tricycles à moteur carrossés conformes au règlement (UE) n<sup>o</sup> 168/3013 et au règlement délégué (UE) n<sup>o</sup> 44/2014.[^52-3]
 
-<sup>5</sup> Les moteurs de propulsion et leurs installations d’échappement doivent être conformes aux prescriptions mentionnées à l’annexe 5 qui concernent la fumée, les gaz d’échappement et la reconduction des gaz provenant du carter. Le ch. 211*a* de ladite annexe s’applique aussi aux moteurs à allumage par compression équipant des voitures automobiles de travail et aux moteurs de travail qui ne servent pas à la propulsion du véhicule.[^52-4]
+<sup>5</sup> Les moteurs de propulsion et leurs installations d’échappement doivent être conformes aux prescriptions mentionnées à l’annexe 5 qui concernent la fumée, les gaz d’échappement et la reconduction des gaz provenant du carter. Le ch. 211*a* de ladite annexe s’applique aussi aux moteurs à allumage commandé ou à allumage par compression équipant des voitures automobiles de travail et aux moteurs de travail qui ne servent pas à la propulsion du véhicule.[^52-4]
 
 <sup>6</sup> Les catalyseurs et filtres à particules défectueux doivent être remplacés par des dispositifs agréés pour le type de véhicule réceptionné.[^52-5]
 
 [^52-1]: Nouvelle teneur selon le ch. I de l’O du 21 janv. 2015, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)).
 [^52-2]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^52-3]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^52-4]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
+[^52-4]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^52-5]: Introduit par le ch. I de l’O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Nouvelle teneur selon le ch. I de l’O du 21 janv. 2015, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)).
 
 #### Art. 53
@@ -2403,18 +2408,26 @@ Les indications suivantes doivent figurer de manière durable et clairement lisi
 
 <sup>1bis</sup> Les accessoires amovibles, tels que les coffres à skis, fixés sur les bus à plate-forme pivotante et les autres autocars, sont régis par l’art. 65, al. 2, OCR.[^94-2]
 
+<sup>1ter</sup>
+
+La longueur des voitures automobiles lourdes ci-après peut dépasser celle visée à l’al. 1, let. a, si les dispositions de l’art. 40, al. 1, concernant le mouvement giratoire et de l’art. 40, al. 3, sur le débordement sont satisfaites, et si la surface de chargement derrière la cabine ne dépasse pas 10,5 m:
+
+- a. voitures automobiles disposant d’une cabine aérodynamique allongée, conforme à l’annexe I, appendice 5, du règlement (UE) n<sup>o</sup> 1230/2012;
+- b. voitures automobiles dotées de réservoirs d’hydrogène ou de batteries pour la propulsion du véhicule, si seule la diminution de la surface de charge imputable au dispositif de stockage d’énergie est compensée et que la capacité de chargement ne s’en trouve pas augmentée.[^94-3]
+
 <sup>2</sup> La largeur des voitures automobiles ne doit pas dépasser:
 
 <table>
 <tr><th></th><th>Mètres</th></tr>
 <tr><td>a. pour les véhicules climatisés</td><td>2,60</td></tr>
-<tr><td>b. pour les autres voitures automobiles</td><td>2,55.[^94-3]</td></tr>
+<tr><td>b. pour les autres voitures automobiles</td><td>2,55.[^94-4]</td></tr>
 <tr><td><sup>3</sup> La hauteur des voitures automobiles ne doit pas dépasser:</td><td>4,00</td></tr>
 </table>
 
 [^94-1]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3567](https://fedlex.data.admin.ch/eli/oc/2002/535)).
 [^94-2]: Introduit par le ch. I de l’O du 16 oct. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3567](https://fedlex.data.admin.ch/eli/oc/2002/535)).
-[^94-3]: Nouvelle teneur selon le ch. II de l’O du 6 mai 1998, en vigueur depuis le 15 mai 1998 ([RO 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
+[^94-3]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^94-4]: Nouvelle teneur selon le ch. II de l’O du 6 mai 1998, en vigueur depuis le 15 mai 1998 ([RO 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
 
 #### Art. 95
 
@@ -2438,32 +2451,26 @@ Les indications suivantes doivent figurer de manière durable et clairement lisi
 <tr><td>k.[^95-8] ...</td><td></td></tr>
 </table>
 
-<sup>1</sup>
+<sup>1bis</sup> Le poids total des véhicules visés à l’al. 1, let. d, e à g et j, et dotés d’une propulsion alternative peut être relevé à hauteur du surplus de poids induit par le système de propulsion alternative, dans la limite de 1 t toutefois ou de 2 t pour les véhicules à propulsion non polluante.[^95-9]
 
-<sup>bis</sup> Le poids total des véhicules visés à l’al. 1, let. d, e, f et j, et dotés d’une propulsion alternative peut être relevé à hauteur du poids supplémentaire requis par le système de propulsion alternative, dans la limite d’une tonne toutefois. Les véhicules à propulsion alternative sont ceux qui utilisent au moins partiellement une des sources d’énergie énumérées ci-après:
+<sup>1ter</sup> Le poids total des véhicules visés à l’al. 1, let. h et i, et dotés d’une propulsion alternative peut être relevé par rapport aux valeurs indiquées à l’al. 1 et à l’art. 9, al. 1, LCR, à hauteur du surplus de poids induit par le système de propulsion alternative, dans la limite de 1 t toutefois ou de 2 t pour les véhicules à propulsion non polluante.[^95-10]
 
-- a. l’électricité;
-- b. l’hydrogène;
-- c. le gaz naturel, y compris le biogaz;
-- d. le gaz de pétrole liquéfié, ou
-- e. l’énergie mécanique provenant d’un stockage embarqué ou d’une source embarquée, y compris la chaleur résiduelle.[^95-9]
-
-<sup>2</sup> La charge par essieu, sans tenir compte d’un système de démarrage conforme à l’art. 57, al. 2, ne doit pas dépasser:[^95-10]
+<sup>2</sup> La charge par essieu, sans tenir compte d’un système de démarrage conforme à l’art. 57, al. 2, ne doit pas dépasser:[^95-11]
 
 <table>
 <tr><th></th><th>en tonnes</th></tr>
-<tr><td>a.[^95-11] pour un essieu simple non entrainé</td><td>10,00</td></tr>
-<tr><td>b.[^95-12] pour un essieu simple entraîné:</td><td></td></tr>
+<tr><td>a.[^95-12] pour un essieu simple non entrainé</td><td>10,00</td></tr>
+<tr><td>b.[^95-13] pour un essieu simple entraîné:</td><td></td></tr>
 <tr><td>1. d’une récolteuse agricole et forestière munie de pneumatiques larges (art. 60, al. 6)</td><td>14,00</td></tr>
 <tr><td>2. d’un chariot de travail muni de pneumatiques larges (art. 60, al. 6)</td><td>14,00</td></tr>
 <tr><td>3. d’une autre voiture automobile</td><td>11,50</td></tr>
 <tr><td>c. pour un essieu double dont l’empattement est inférieur à 1,00 m</td><td>11,50</td></tr>
 <tr><td>d. pour un essieu double dont l’empattement est compris entre 1,00 m et moins de 1,30 m</td><td>16,00</td></tr>
 <tr><td>e. pour un essieu double dont l’empattement est compris entre 1,30 m et moins de 1,80 m</td><td>18,00</td></tr>
-<tr><td>f.[^95-13] pour un essieu double dont l’empattement est compris entre 1,30 m et moins de 1,80 m, lorsque l’essieu moteur est équipé de pneus jumelés et d’une suspension pneumatique conforme à l’art. 57, al. 1, ou lorsque chaque essieu moteur est équipé de pneus jumelés et que la charge de chaque essieu n’excède pas 9,50 t</td><td>19,00</td></tr>
-<tr><td>g.[^95-14] pour un essieu triple dont les empattements sont inférieurs ou égaux à 1,30 m</td><td>21,00</td></tr>
-<tr><td>h.[^95-15] pour un essieu triple dont les empattements sont supérieurs à 1,30 m, sans toutefois dépasser 1,40 m</td><td>24,00</td></tr>
-<tr><td>i.[^95-16] pour un essieu triple dont un empattement est supérieur à 1,40 m</td><td>27,00</td></tr>
+<tr><td>f.[^95-14] pour un essieu double dont l’empattement est compris entre 1,30 m et moins de 1,80 m, lorsque l’essieu moteur est équipé de pneus jumelés et d’une suspension pneumatique conforme à l’art. 57, al. 1, ou lorsque chaque essieu moteur est équipé de pneus jumelés et que la charge de chaque essieu n’excède pas 9,50 t</td><td>19,00</td></tr>
+<tr><td>g.[^95-15] pour un essieu triple dont les empattements sont inférieurs ou égaux à 1,30 m</td><td>21,00</td></tr>
+<tr><td>h.[^95-16] pour un essieu triple dont les empattements sont supérieurs à 1,30 m, sans toutefois dépasser 1,40 m</td><td>24,00</td></tr>
+<tr><td>i.[^95-17] pour un essieu triple dont un empattement est supérieur à 1,40 m</td><td>27,00</td></tr>
 </table>
 
 [^95-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2888](https://fedlex.data.admin.ch/eli/oc/2000/501)).
@@ -2474,14 +2481,15 @@ Les indications suivantes doivent figurer de manière durable et clairement lisi
 [^95-6]: Introduite par le ch. I de l’O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3525](https://fedlex.data.admin.ch/eli/oc/2004/473)).
 [^95-7]: Introduite par le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3525](https://fedlex.data.admin.ch/eli/oc/2004/473)).
 [^95-8]: Introduite par le ch. I de l’O du 30 juin 2004 ([RO 2004 3525](https://fedlex.data.admin.ch/eli/oc/2004/473)). Abrogée par le ch. I de l’O du 28 mars 2007, avec effet au 1<sup>er</sup> juil. 2007 ([RO 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
-[^95-9]: Introduit par le ch. I de l’O du 5 avr. 2017, en vigueur depuis le 7 mai 2017 ([RO 2017 2651](https://fedlex.data.admin.ch/eli/oc/2017/263))
-[^95-10]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^95-11]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
-[^95-12]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^95-13]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2009, en vigueur depuis le 1<sup>er</sup> avr. 2010 ([RO 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
-[^95-14]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3525](https://fedlex.data.admin.ch/eli/oc/2004/473)).
+[^95-9]: Introduit par le ch. I de l’O du 5 avr. 2017 ([RO 2017 2651](https://fedlex.data.admin.ch/eli/oc/2017/263)) Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^95-10]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 au 31 déc. 2030 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^95-11]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^95-12]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
+[^95-13]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^95-14]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2009, en vigueur depuis le 1<sup>er</sup> avr. 2010 ([RO 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
 [^95-15]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3525](https://fedlex.data.admin.ch/eli/oc/2004/473)).
-[^95-16]: Introduite par le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3525](https://fedlex.data.admin.ch/eli/oc/2004/473)).
+[^95-16]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3525](https://fedlex.data.admin.ch/eli/oc/2004/473)).
+[^95-17]: Introduite par le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3525](https://fedlex.data.admin.ch/eli/oc/2004/473)).
 
 #### Art. 96
 
@@ -2507,7 +2515,7 @@ La puissance (art. 46, al. 1 et 3) du moteur de propulsion doit atteindre au min
 
 <sup>3</sup> Une augmentation de la puissance du moteur excédant 20 % ne peut être exécutée que par le constructeur ou lorsque celui-ci déclare que le véhicule s’y prête.
 
-<sup>4</sup> Pour les véhicules des catégories M et N ainsi que pour les motocycles, les quadricycles légers à moteur, les quadricycles à moteur et les tricycles à moteur, il y a lieu de déterminer la consommation de carburant ou d’énergie et les émissions de CO<sub>2</sub> lors de la procédure de réception par type. Font exception les véhicules de la catégorie M<sub>1</sub> ayant une affectation particulière au sens de l’annexe XI de la directive 2007/46/CE.[^97-6]
+<sup>4</sup> Pour les véhicules des catégories M et N ainsi que pour les motocycles, les quadricycles légers à moteur, les quadricycles à moteur et les tricycles à moteur, il y a lieu de déterminer la consommation de carburant ou d’énergie et les émissions de CO<sub>2</sub> lors de la procédure de réception par type. Font exception les véhicules de la catégorie M<sub>1</sub> ayant une affectation particulière au sens de l’annexe XI du règlement (UE) 2018/858.[^97-6]
 
 <sup>5</sup> Le calcul de la consommation de carburant ou d’énergie et des émissions de CO<sub>2</sub> se fonde sur le règlement (CE) n<sup>o</sup> 715/2007, le règlement (CE) n<sup>o</sup> 595/2009 ou sur le règlement (UE) n<sup>o</sup> 168/013 et le règlement délégué (UE) n<sup>o</sup> 134/2014.[^97-7]
 
@@ -2546,15 +2554,16 @@ Ne sont pas visés par l’al. 1:
 - c.[^99-3] les voitures automobiles en service public et circulant exclusivement à l’intérieur des localités;
 - d.[^99-4] les véhicules des catégories T et C dont la vitesse maximale par construction n’excède pas 60 km/h.
 
-<sup>3</sup> Les vitesses réglées se fondent sur la directive n<sup>o</sup> 92/6 du Conseil, du 10 février 1992, relative à l’installation et à l’utilisation, dans la Communauté, de limiteurs de vitesse sur certaines catégories de véhicules à moteur.
+<sup>3</sup> Les vitesses de réglage se fondent sur la directive n<sup>o</sup> 92/6/CEE pour les véhicules des catégories M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub> et N<sub>3</sub>. Pour les véhicules des catégories T et C, elles se fondent sur la vitesse maximale par construction.[^99-5]
 
-<sup>4</sup> Les dispositifs limiteurs de vitesse et les éléments de raccordement doivent toujours être munis des plombs nécessaires d’un atelier agréé. Une plaquette visible placée à un endroit facilement accessible doit indiquer la présence du dispositif limiteur de vitesse et comporter au minimum la marque de réception par type, la vitesse réglée et la date du dernier étalonnage. Si des travaux ont été effectués sur le véhicule, le détenteur doit s’assurer que les plombs ne sont pas détériorés.[^99-5]
+<sup>4</sup> Les dispositifs limiteurs de vitesse et les éléments de raccordement doivent toujours être munis des plombs nécessaires d’un atelier agréé. Une plaquette visible placée à un endroit facilement accessible doit indiquer la présence du dispositif limiteur de vitesse et comporter au minimum la marque de réception par type, la vitesse réglée et la date du dernier étalonnage. Si des travaux ont été effectués sur le véhicule, le détenteur doit s’assurer que les plombs ne sont pas détériorés.[^99-6]
 
 [^99-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 [^99-2]: Nouvelle teneur selon le ch. I de l’O du 2 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^99-3]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
 [^99-4]: Introduite par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
-[^99-5]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
+[^99-5]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^99-6]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 
 #### Art. 99a
 
@@ -2788,7 +2797,7 @@ Ne sont pas visés par l’al. 1:
 
 **Ceintures de sécurité, sièges pour enfants, appuie-tête[^106-2]**[^106-1]
 
-<sup>1</sup> Les véhicules des catégories M et N doivent être équipés de ceintures de sécurité répondant aux exigences du règlement (CE) n<sup>o</sup> 661/2009 ou du règlement CEE-ONU n<sup>o</sup> 16. Les dispositions figurant à l’annexe XI de la directive 2007/46/CE s’appliquent aux véhicules de la catégorie M<sub>1</sub> ayant une affectation particulière.[^106-3]
+<sup>1</sup> Les véhicules des catégories M et N doivent être équipés de ceintures de sécurité répondant aux exigences du règlement (CE) n<sup>o</sup> 661/2009 ou du règlement CEE-ONU n<sup>o</sup> 16. Les dispositions figurant à l’annexe XI du règlement (UE) 2018/858 s’appliquent aux véhicules de la catégorie M<sub>1</sub> ayant une affectation particulière.[^106-3]
 
 <sup>2</sup> Dans les véhicules des catégories M et N, les sièges disposés perpendiculairement au sens de la marche doivent être équipés de ceintures de sécurité abdominales. Font exception les véhicules affectés exclusivement au trafic régional exploité selon l’horaire par des entreprises concessionnaires ou au remplacement de trains. Les sièges disposés selon un angle inférieur ou égal à 45 degrés par rapport à l’axe longitudinal du véhicule sont réputés dirigés vers l’avant ou, le cas échéant, vers l’arrière; les autres sont réputés perpendiculaires au sens de la marche.[^106-4]
 
@@ -3092,7 +3101,7 @@ Pour les voitures automobiles dont la vitesse maximale ne peut dépasser 30 km/h
 - c.[^119-2] le compteur de vitesse (art. 55) n’est pas nécessaire;
 - d. il n’est pas nécessaire que les pneumatiques aient un profil (art. 58, al. 4);
 - e. il n’est pas nécessaire que les pneus à clous soient montés sur toutes les roues d’un véhicule (art. 61, al. 2);
-- f.[^119-3] le frein de service ne peut agir que sur les roues d’un seul essieu. Lorsque deux essieux sont freinés, le frein de service peut être placé à l’avant des différentiels. Il n’est pas nécessaire que le frein auxiliaire soit modérable, et tous les mécaniques de transmission du frein de service peuvent être utilisés pour le frein auxiliaire;
+- [tab] f.[^119-3] le frein de service doit agir au moins sur les roues d’un essieu. Lorsque deux essieux sont freinés, le frein de service peut être placé à l’avant des différentiels. Il n’est pas nécessaire que le frein auxiliaire soit modérable, et tous les mécaniques de transmission du frein de service peuvent être utilisés pour le frein auxiliaire;
 - g. les dispositifs de recouvrement des roues ne sont pas nécessaires (art. 66, al. 2);
 - h. le siège du conducteur n’est pas nécessaire. Le conducteur peut être debout. Si le siège du conducteur existe, il n’est pas nécessaire qu’il soit réglable ni qu’il ait un dossier (art. 107, al. 1);
 - i.[^119-4] les ceintures de sécurité ne sont pas nécessaires, sauf pour les tracteurs et les chariots à moteur dotés d’un dispositif homologué de protection contre le retournement;
@@ -3109,7 +3118,7 @@ Pour les voitures automobiles dont la vitesse maximale ne peut dépasser 30 km/h
 
 [^119-1]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
 [^119-2]: Nouvelle teneur selon le ch. I de l’O du 2 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
-[^119-3]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^119-3]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^119-4]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^119-5]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^119-6]: Introduite par le ch. I de l’O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Nouvelle teneur selon le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4515](https://fedlex.data.admin.ch/eli/oc/2005/583)).
@@ -3205,7 +3214,7 @@ Sur les voitures automobiles dont la vitesse ne peut dépasser 10 km/h, les faci
 
 <sup>3</sup> Chaque autocar ou minibus doit être muni de sorties de secours, dont l’espace libre doit avoir au moins 0,60 m sur 0,43 m. Leur nombre (n) se détermine selon la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image1.png)
 
 Les portes sont également considérées comme des sorties de secours. Celles-ci doivent être indiquées clairement et réparties le plus régulièrement possible sur les deux côtés du véhicule. Elles doivent pouvoir s’ouvrir ou se libérer facilement et rapidement; les outils nécessaires à cet effet doivent être bien visibles et à portée de main.[^123-3]
 
@@ -3290,12 +3299,12 @@ Les portes sont également considérées comme des sorties de secours. Celles-ci
 Si l’efficacité de freinage prescrite n’est atteinte qu’au moyen d’air comprimé, les conditions suivantes doivent être remplies:
 
 - a. le système à air comprimé du frein doit être assuré contre toute perte de pression provoquée par des appareils accessoires fonctionnant à l’air comprimé et doit être protégé contre le gel;
-- b.[^127-2] la pression de service à la tête du coupleur de la conduite de frein de la remorque ainsi que la pression à la tête du coupleur de la conduite d’alimentation sont définies dans l’annexe 7;
+- b.[^127-2] la pression à la tête d’accouplement de la conduite de commande ainsi que la pression à la tête d’accouplement de la conduite d’alimentation sont définies à l’annexe 7;
 - c. un dispositif (p. ex. un manomètre ou un dispositif d’alarme optique ou acoustique) doit avertir le conducteur lorsque la réserve de pression baisse de plus d’un tiers au-dessous de la valeur exigée;
 - d.[^127-3] lorsque le frein de remorque est actionné sous l’effet d’une baisse de pression, le raccord de la conduite de commande doit être peint en jaune et celui de la conduite d’alimentation en rouge; le raccord de la conduite d’alimentation doit être placé à gauche par rapport au sens de marche du véhicule.
 
 [^127-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
-[^127-2]: Nouvelle teneur selon le ch. I de l’O du 2 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
+[^127-2]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^127-3]: Introduite par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 
 #### Art. 128
@@ -3362,14 +3371,14 @@ Si l’efficacité de freinage prescrite n’est atteinte qu’au moyen d’air 
 
 **Immatriculation, surface de charge[^133-1]**
 
-<sup>1</sup> L’immatriculation des tracteurs qui répondent aux exigences requises pour les tracteurs agricoles et forestiers, est réglée à l’art. 161, al. 4.[^133-2]
+<sup>1</sup> L’immatriculation des tracteurs qui répondent aux exigences requises pour les tracteurs agricoles et forestiers est réglée à l’art. 161, al. 5.[^133-2]
 
 <sup>2</sup> ...[^133-3]
 
 <sup>3</sup> Les exigences requises pour la surface de charge des tracteurs sont réglées à l’art. 131, al. 1. Dans le cas des tracteurs de la catégorie T4.3, la longueur de la surface de charge ne doit pas être supérieure à 2,5 fois la voie la plus large. La limitation de la longueur et de la largeur de la surface de charge ne s’applique pas aux engins agricoles et forestiers montés sur le véhicule et actionnés par celui-ci, tels que les véhicules de chargement et les épandeurs de fumier.[^133-4]
 
 [^133-1]: Nouvelle teneur selon le ch. I de l’O du 2 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
-[^133-2]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
+[^133-2]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^133-3]: Abrogé par le ch. I de l’O du 2 mars 2012, avec effet au 1<sup>er</sup> mai 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^133-4]: Nouvelle teneur selon le ch. I de l’O du 2 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 
@@ -3461,7 +3470,7 @@ Sont en outre applicables aux dameuses de pistes, en complément à l’al. 1, l
 
 **Poids, poids remorquable, plaque de contrôle**
 
-<sup>1</sup> Pour les motocycles, les quadricycles légers à moteur, les quadricycles à moteur et les tricycles à moteur, le poids des véhicules déterminant pour leur classification est le poids à vide (art. 7, al. 1), mais sans l’équipement spécial, sans les poids pour le stockage de carburants alternatifs et sans conducteur.[^136-1]
+<sup>1</sup> Pour les motocycles, les quadricycles légers à moteur, les quadricycles à moteur et les tricycles à moteur, le poids en ordre de marche est déterminant pour la classification. Il s’agit du poids à vide (art. 7, al. 1), mais sans l’équipement spécial, sans les poids pour le stockage de carburants alternatifs et sans le conducteur.[^136-1]
 
 <sup>1bis</sup> Pour les quadricycles légers à moteur, les quadricycles à moteur et les tricycles à moteur ainsi que les motocycles légers visés à l’art. 14, let. b, ch. 2, le poids de l’équipement spécial peut représenter au maximum 10 % du poids visé à l’al. 1. Est considéré comme équipement spécial l’équipement surpassant l’équipement standard proposé par le constructeur. La carrosserie, la cabine, les vitres et les portières ne sont pas considérées comme équipement spécial.[^136-2]
 
@@ -3497,7 +3506,7 @@ Un poids remorquable n’excédant pas la moitié du poids total du véhicule tr
 
 <sup>4</sup> Sur les motocycles, les quadricycles légers à moteur, les quadricycles à moteur et les tricycles à moteur, la plaque de contrôle doit être fixée à l’arrière.[^136-13]
 
-[^136-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^136-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^136-2]: Introduit par le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^136-3]: Introduit par le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^136-4]: Introduit par le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
@@ -3647,11 +3656,11 @@ Sont en outre admis, sous réserve d’une autorisation de l’autorité d’imm
 
 **Dispositifs d’éclairage par paire**[^142-1]
 
-<sup>1</sup> Lorsqu’ils mesurent plus de 1,00 m de large, les quadricycles légers à moteur, les quadricycles à moteur, les tricycles à moteur, les luges à moteur et les motocycles avec side-car doivent être équipés de deux catadioptres arrière. S’ils sont munis de catadioptres avant, ceux-ci doivent également être au nombre de deux.
+<sup>1</sup> Lorsqu’ils mesurent plus de 1,00 m de large, les motocycles légers à voies multiples, les quadricycles légers à moteur, les quadricycles à moteur, les tricycles à moteur, les luges à moteur et les motocycles avec side-car doivent être équipés de deux catadioptres arrière. S’ils sont munis de catadioptres avant, ceux-ci doivent également être au nombre de deux.
 
-<sup>2</sup> Lorsqu’ils mesurent plus de 1,30 m de large, les quadricycles légers à moteur, les quadricycles à moteur et les tricycles à moteur doivent être équipés de deux feux de route, de deux feux de croisement, de deux feux de position, de deux feux arrière et de deux feux-stop. S’ils sont munis de feux de circulation diurne et de feux de brouillard, ceux-ci doivent également être au nombre de deux.
+<sup>2</sup> Lorsqu’ils mesurent plus de 1,30 m de large, les motocycles légers à voies multiples, les quadricycles légers à moteur, les quadricycles à moteur et les tricycles à moteur doivent être équipés de deux feux de route, de deux feux de croisement, de deux feux de position, de deux feux arrière et de deux feux-stop. S’ils sont munis de feux de circulation diurne et de feux de brouillard, ceux-ci doivent également être au nombre de deux.
 
-[^142-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^142-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 ### Chapitre 5 Autres exigences et équipements complémentaires
 
@@ -3696,7 +3705,11 @@ Sont en outre admis, sous réserve d’une autorisation de l’autorité d’imm
 
 ### Chapitre 6 Dispositions spéciales
 
-### Section 1 Motocycles
+### Section 1 Motocycles visés à l’art. 14, let. a ****
+
+[^part3-tit3-chap6-sec1-1]
+
+[^part3-tit3-chap6-sec1-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 #### Art. 145
 
@@ -4189,13 +4202,13 @@ L’éclairage doit comprendre, aussi près que possible du bord:
 
 <sup>1</sup> Un numéro individuel, facilement lisible, doit être frappé sur le cadre, qui doit en outre porter le nom du constructeur ou une marque inscrits de manière indélébile.
 
-<sup>2</sup> Dans le cas des moteurs à combustion, un composant du moteur dont l’échange ne peut se faire facilement doit porter la désignation du type de moteur, l’indication de la cylindrée ainsi que le nom du constructeur ou la marque. Les indications à faire figurer sur les moteurs électriques sont régies par l’art. 51, al. 1, let. a et c.[^176-1]
+<sup>2</sup> Dans le cas des moteurs à combustion, un composant du moteur dont l’échange ne peut se faire facilement doit porter la désignation du type de moteur, l’indication de la cylindrée ainsi que le nom du constructeur ou la marque. L’art. 51, al. 1, s’applique au marquage des moteurs électriques.[^176-1]
 
 <sup>3</sup> Sur tous les véhicules du même type, les marquages nécessaires doivent être apposés de la même manière et au même endroit, et être indélébiles.
 
 <sup>4</sup> Sur les cyclomoteurs qui doivent porter une plaque de contrôle, cette dernière doit être fixée à l’arrière, le plus verticalement possible et de manière bien visible. La plaque de contrôle ne doit pas être modifiée, déformée, découpée ou rendue illisible.
 
-[^176-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^176-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 #### Art. 177
 
@@ -4331,7 +4344,11 @@ Les clignoteurs de direction sont soumis aux exigences énoncées à l’art. 17
 
 [^180-1]: Nouvelle teneur selon le ch. I de l’O du 15 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)).
 
-### Section 4 Dispositions spéciales pour les chaises de handicapé
+### Section 4 Dispositions spéciales pour les fauteuils roulants motorisés****
+
+[^part3-tit5-chap3-sec4-1]
+
+[^part3-tit5-chap3-sec4-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 #### Art. 181
 
@@ -4415,6 +4432,10 @@ Le frein de service peut être constitué:
 <tr><td>a.[^183-2] ...</td><td></td></tr>
 <tr><td>b.[^183-3] pour les remorques à deux essieux, semi-remorques, remorques à timon rigide et remorques à essieu central exceptées</td><td>18,00</td></tr>
 <tr><td>c.[^183-4] pour les remorques à trois essieux, semi-remorques, remorques à timon rigide et remorques à essieu central exceptées</td><td>24,00</td></tr>
+</table>
+
+<table>
+<tr><th></th><th>en tonnes</th></tr>
 <tr><td>[tab] d.[^183-5]pour les remorques à plus de trois essieux, semi-remorques, remorques à timon rigide et remorques à essieu central exceptées</td><td>32,00</td></tr>
 </table>
 
@@ -4911,7 +4932,7 @@ Les remorques de travail agricoles et forestières peuvent être dépourvues:
 
 <sup>2</sup> À l’avant et à l’arrière, un catadioptre non triangulaire doit être fixé à demeure, aussi près que possible du bord, à gauche et à droite. Les clignoteurs de direction ne sont autorisés que si le véhicule tracteur en est équipé. De nuit, la remorque doit être équipée d’un feu rouge ou orange à l’arrière, si le feu arrière du cycle est masqué par la remorque ou son chargement.
 
-<sup>3</sup> L’essieu de la remorque doit se trouver derrière le milieu de la surface de charge.
+<sup>3</sup> ...[^210-3]
 
 <sup>4</sup> Les remorques doivent être reliées au véhicule tracteur par un dispositif d’attelage pivotant et sûr.
 
@@ -4921,12 +4942,13 @@ Les éléments remorqués sont également considérés comme des remorques. Les 
 
 - a. des structures attelées articulées à une ou deux roues, équipées de pédales, de sièges et d’un dispositif de maintien;
 - b. des cycles pour enfants dont la roue avant est relevée ou retirée et qui sont accrochés à un véhicule tracteur au moyen d’un dispositif d’attelage offrant toute sécurité, ou
-- c.[^210-3] les chaises de handicapé qui sont accrochées au véhicule tracteur au moyen d’un dispositif d’attelage offrant toute sécurité.[^210-4]
+- c.[^210-4] les chaises de handicapé qui sont accrochées au véhicule tracteur au moyen d’un dispositif d’attelage offrant toute sécurité.[^210-5]
 
 [^210-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 [^210-2]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2473](https://fedlex.data.admin.ch/eli/oc/2015/462)).
-[^210-3]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
-[^210-4]: Introduit par le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4515](https://fedlex.data.admin.ch/eli/oc/2005/583)).
+[^210-3]: Abrogé par le ch. I de l’O du 17 déc. 2021, avec effet au 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^210-4]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
+[^210-5]: Introduit par le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4515](https://fedlex.data.admin.ch/eli/oc/2005/583)).
 
 ### Section 10**** Traîneaux
 
@@ -5562,11 +5584,11 @@ Sont abrogées:
 
 Annexe 2*[^t-1]*
 
-(art. 3*a*, al. 1, 3*b*, al. 1, 5, al. 1, let. a, 30*a*, al. 1, let. b, ch. 2 et 4, 49, al. 5, et 164, al. 2)
+(art. 3*a,* al. 1, 3*b,* al. 1, 5, al. 1, let. a, 30*a,* al. 1, let. b, ch. 2 et 4, 49, al. 5, et 164, al. 2)
 
 ## Versions contraignantes pour la Suisse des réglementations internationales
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du 21 janv. 2015 ([RO 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)). Mise à jour selon le ch. II al. 1 des O du 15 avr. 2015 ([RO 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)), du 16 nov. 2016 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), le ch. I de l’O du 27 juin 2018 ([RO 2018 2675](https://fedlex.data.admin.ch/eli/oc/2018/389)) et le ch. II al. 1 de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
+[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du 21 janv. 2015 ([RO 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)). Mise à jour par le ch. II al. 1 des O du 15 avr. 2015 ([RO 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)), du 16 nov. 2016 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), le ch. I de l’O du 27 juin 2018 ([RO 2018 2675](https://fedlex.data.admin.ch/eli/oc/2018/389)), le ch. II al. 1 de l’O du 21 nov. 2018 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)) et le ch. II de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 ### 1 Voitures automobiles de transport et leurs remorques, tracteurs agricoles et forestiers, motocycles, quadricycles légers à moteur, quadricycles à moteur et tricycles à moteur, cyclomoteurs
 
@@ -5577,11 +5599,12 @@ Annexe 2*[^t-1]*
 <table>
 <tr><th>Texte législatif de base UE</th><th>Titre et informations relatives à la publication du texte législatif de base et des actes modificateurs</th></tr>
 <tr><td>Directive 2003/37/CE</td><td>Directive 2003/37/CE du Parlement européen et du Conseil, du 26 mai 2003, concernant la réception par type des tracteurs agricoles ou forestiers, de leurs remorques et de leurs engins interchangeables tractés, ainsi que des systèmes, composants et entités techniques de ces véhicules, et abrogeant la directive 74/150/CEE, JO L 171 du 9.7.2003, p. 1; modifiée en dernier lieu par la directive 2014/44/UE, JO L 82 du 20.3.2014, p. 20.</td></tr>
-<tr><td>Directive 2007/46/CE</td><td>Directive 2007/46/CE du Parlement européen et du Conseil du 5 septembre 2007 établissant un cadre pour la réception des véhicules à moteur, de leurs remorques et des systèmes, des composants et des entités techniques destinés à ces véhicules (directive-cadre), JO L 263 du 9.10.2007, p. 1; modifiée en dernier lieu par le règlement (UE) 2017/2400, JO L 349 du 29.12.2017, p. 1.</td></tr>
-<tr><td>Règlement (UE) n<sup>o</sup> 167/2013</td><td>Règlement (UE) n<sup>o</sup> 167/2013 du Parlement européen et du Conseil du 5 février 2013 relatif à la réception et à la surveillance du marché des véhicules agricoles et forestiers, JO L 60 du 2.3.2013, p. 1; modifié en dernier lieu par le règlement (UE) 2018/985, JO L 182 du 18.7.2018, p. 1. Font exception les dispositions sur la surveillance de marché, notamment les art. 1, al. 2, 5, al. 4, et 8, al. 4 et 5.</td></tr>
-<tr><td>Règlement (UE) n<sup>o</sup> 168/2013</td><td>Règlement (UE) n<sup>o</sup> 168/2013 du Parlement européen et du Conseil du 15 janvier 2013 relatif à la réception et à la surveillance du marché des véhicules à deux ou trois roues et des quadricycles, JO L 60 du 2.3.2013, p. 52; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 134/2014, JO L 53 du 21.2.2014, p. 1. Font exception les dispositions sur la surveillance de marché, notamment les art. 1, al. 2, 6, al. 4, et 9, al. 4 et 5.</td></tr>
-<tr><td>Règlement (UE) n<sup>o</sup> 901/2014</td><td>Règlement d\`exécution (UE) n<sup>o</sup> 901/2014 de la Commission du 18 juillet 2014 portant exécution du règlement (UE) n<sup>o</sup> 168/2013 du Parlement européen et du Conseil en ce qui concerne les prescriptions administratives relatives à la réception et à la surveillance du marché des véhicules à deux ou trois roues et des quadricycles, JO L 249 du 22.8.2014, p. 1; modifié par le règlement (UE) 2016/1825, JO L 279 du 15.10.2016, p. 47.</td></tr>
+<tr><td>Règlement (UE) n<sup>o</sup> 167/2013</td><td>Règlement (UE) n<sup>o</sup> 167/2013 du Parlement européen et du Conseil du 5 février 2013 relatif à la réception et à la surveillance du marché des véhicules agricoles et forestiers, JO L 60 du 2.3.2013, p. 1; modifié en dernier lieu par le règlement (UE) 2019/519, JO L 91 du 29.3.2019, p. 42. Font exception les dispositions sur la surveillance de marché, notamment les art. 1, al. 2, 5, al. 4 ainsi que 8, al. 4 et 5.</td></tr>
+<tr><td>Règlement (UE) n<sup>o</sup> 168/2013</td><td>Règlement (UE) n<sup>o</sup> 168/2013 du Parlement européen et du Conseil du 15 janvier 2013 relatif à la réception et à la surveillance du marché des véhicules à deux ou trois roues et des quadricycles, JO L 60 du 2.3.2013, p. 52; modifié en dernier lieu par le règlement (UE) 2020/1694, JO L 381 du 13.11.2020, p. 4. Font exception les dispositions sur la surveillance de marché, notamment les art. 1, al. 2, 6, al. 4 ainsi que 9, al. 4 et 5.</td></tr>
+<tr><td>Règlement (UE) n<sup>o</sup> 901/2014</td><td>Règlement d\`exécution (UE) n<sup>o</sup> 901/2014 de la Commission du 18 juillet 2014 portant exécution du règlement (UE) n<sup>o</sup> 168/2013 du Parlement européen et du Conseil en ce qui concerne les prescriptions administratives relatives à la réception et à la surveillance du marché des véhicules à deux ou trois roues et des quadricycles, JO L 249 du 22.8.2014, p. 1; modifié en dernier lieu par le règlement d\`exécution (UE) 2020/239, JO L 48 du 21.2.2020, p. 6.</td></tr>
 <tr><td>Règlement (UE) 2015/504</td><td>Règlement d\`exécution (UE) 2015/504 de la Commission du 11 mars 2015 portant exécution du règlement (UE) n<sup>o</sup> 167/2013 du Parlement européen et du Conseil en ce qui concerne les prescriptions administratives relatives à la réception et à la surveillance du marché des véhicules agricoles et forestiers, JO L 85 du 28.3.2015, p. 1; modifié en dernier lieu par le règlement (UE) 2018/986, JO L 182 du 18.7.2018, p. 16.</td></tr>
+<tr><td>Règlement (UE) 2018/858</td><td>Règlement (UE) 2018/858 du Parlement européen et du Conseil du 30 mai 2018 relatif à la réception et à la surveillance du marché des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, modifiant les règlements (CE) n<sup>o</sup> 715/2007 et (CE) n<sup>o</sup> 595/2009 et abrogeant la directive 2007/46/CE, JO L 151 du 14.6.2018, p. 1; modifié en dernier lieu par le règlement délégué (UE) 2021/1445, JO L 313 du 6.9.2021, p. 4. Font exception les dispositions sur la surveillance de marché, notamment les art. 1, al. 2, 6 à 11 ainsi que 13, al. 4.</td></tr>
+<tr><td>Règlement (UE) 2020/683</td><td>Règlement d\`exécution (UE) 2020/683 de la Commission du 15 avril 2020 relatif à l’exécution du règlement (UE) 2018/858 du Parlement européen et du Conseil en ce qui concerne les prescriptions administratives pour la réception et la surveillance du marché des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, version du JO L 163 du 26.5.2020, p. 1.</td></tr>
 <tr><td>Règlement (UE) 2018/858</td><td>Règlement (UE) 2018/858 du Parlement européen et du Conseil du 30 mai 2018 relatif à la réception et à la surveillance du marché des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, modifiant les règlements (CE) n<sup>o</sup> 715/2007 et (CE) n<sup>o</sup> 595/2009 et abrogeant la directive 2007/46/CE, version du JO L 151 du 14.6.2018, p. 1. Font exception les dispositions sur la surveillance de marché, notamment les art. 1, al. 2, 6 à 11 et 13, al. 4.</td></tr>
 </table>
 
@@ -5607,7 +5630,7 @@ Annexe 2*[^t-1]*
 <tr><td>Règlement (CE) n<sup>o</sup> 706/2007</td><td>Règlement (CE) n<sup>o</sup> 706/2007 de la Commission du 21 juin 2007 établissant conformément à la directive 2006/40/CE du Parlement européen et du Conseil les dispositions administratives relatives à la réception CE des véhicules ainsi qu’un essai harmonisé pour mesurer les fuites de certains systèmes de climatisation, JO L 161 du 22.6.2007, p. 33; modifié par le règlement (UE) n<sup>o</sup> 519/2013, JO L 158 du 10.6.2013, p. 74.</td></tr>
 <tr><td>Règlement (CE) n<sup>o</sup> 715/2007</td><td>Règlement (CE) n<sup>o</sup> 715/2007 du Parlement européen et du Conseil du 20 juin 2007 relatif à la réception des véhicules à moteur au regard des émissions des véhicules particuliers et utilitaires légers (Euro 5 et Euro 6) et aux informations sur la réparation et l’entretien des véhicules, JO L 171 du 29.6.2007, p. 1; modifié en dernier lieu par le règlement (UE) 2018/858, JO L 151 du 14.6.2018, p. 1.</td></tr>
 <tr><td>Directive 2008/2/CE</td><td>Directive 2008/2/CE du Parlement européen et du Conseil du 15 janvier 2008 relative au champ de vision et aux essuie-glaces des tracteurs agricoles ou forestiers à roues (version codifiée), version du JO L 24 du 29.1.2008, p. 30.</td></tr>
-<tr><td>Règlement (CE) n<sup>o</sup> 692/2008</td><td>Règlement (CE) n<sup>o</sup> 692/2008 de la Commission du 18 juillet 2008 portant application et modification du règlement (CE) n<sup>o</sup> 715/2007 du Parlement européen et du Conseil du 20 juin 2007 relatif à la réception des véhicules à moteur au regard des émissions des véhicules particuliers et utilitaires légers (Euro 5 et Euro 6) et aux informations sur la réparation et l’entretien des véhicules, JO L 199 du 28.7.2008, p. 1; modifié en dernier lieu par le règlement (UE) 2017/1221, JO L 174 du 7.7.2017, p. 3.</td></tr>
+<tr><td>Règlement (CE) n<sup>o</sup> 692/2008</td><td colspan="2">Règlement (CE) n<sup>o</sup> 692/2008 de la Commission du 18 juillet 2008 portant application et modification du règlement (CE) n<sup>o</sup> 715/2007 du Parlement européen et du Conseil du 20 juin 2007 relatif à la réception des véhicules à moteur au regard des émissions des véhicules particuliers et utilitaires légers (Euro 5 et Euro 6) et aux informations sur la réparation et l’entretien des véhicules, JO L 199 du 28.7.2008, p. 1; modifié en dernier lieu par le règlement (UE) 2018/1832, JO L 301 du 27.11.2018, p. 1.</td></tr>
 <tr><td>Directive 2009/57/CE</td><td>Directive 2009/57/CE du Parlement européen et du Conseil du 13 juillet 2009 relative aux dispositifs de protection en cas de renversement des tracteurs agricoles ou forestiers à roues (version codifiée), JO L 261 du 3.10.2009, p. 1; modifiée par la directive 2013/15/UE, JO L 158 du 10.6.2013, p. 172.</td></tr>
 <tr><td>Directive 2009/58/CE</td><td>Directive 2009/58/CE du Parlement européen et du Conseil du 13 juillet 2009 relative aux dispositifs de remorquage et de marche arrière des tracteurs agricoles ou forestiers à roues (version codifiée), version du JO L 198 du 30.7.2009, p. 4.</td></tr>
 <tr><td>Directive 2009/59/CE</td><td>Directive 2009/59/CE du Parlement européen et du Conseil du 13 juillet 2009 relative aux rétroviseurs des tracteurs agricoles ou forestiers à roues (version codifiée), version du JO L 198 du 30.7.2009, p. 9.</td></tr>
@@ -5623,9 +5646,9 @@ Annexe 2*[^t-1]*
 <tr><td>Directive 2009/144/CE</td><td>Directive 2009/144/CE du Parlement européen et du Conseil du 30 novembre 2009 concernant certains éléments et caractéristiques des tracteurs agricoles ou forestiers à roues (version codifiée), JO L 27 du 30.1.2010, p. 33; modifiée en dernier lieu par la directive 2013/15/UE, JO L 158 du 10.6.2013, p. 172.</td></tr>
 <tr><td>Règlement (CE) n<sup>o</sup> 78/2009</td><td>Règlement (CE) n<sup>o</sup> 78/2009 du Parlement européen et du Conseil du 14 janvier 2009 relatif à la réception par type des véhicules à moteur au regard de la protection des piétons et autres usagers vulnérables de la route, modifiant la directive 2007/46/CE et abrogeant les directives 2003/102/CE et 2005/66/CE, JO L 35 du 4.2.2009, p. 1; modifié par le règlement (UE) n<sup>o</sup> 517/2013, JO L 158 du 10.6.2013, p. 1.</td></tr>
 <tr><td>Règlement (CE) n<sup>o</sup> 79/2009</td><td>Règlement (CE) n<sup>o</sup> 79/2009 du Parlement européen et du Conseil du 14 janvier 2009 concernant la réception par type des véhicules à moteur fonctionnant à l’hydrogène et modifiant la directive 2007/46/CE, version du JO L 35 du 4.2.2009, p. 32.</td></tr>
-<tr><td>Règlement (CE) n<sup>o</sup> 595/2009</td><td>Règlement (CE) n<sup>o</sup> 595/2009 du Parlement européen et du Conseil du 18 juin 2009 relatif à la réception des véhicules à moteur et des moteurs au regard des émissions des véhicules utilitaires lourds (Euro VI) et à l’accès aux informations sur la réparation et l’entretien des véhicules, et modifiant le règlement (CE) n<sup>o</sup> 715/2007 et la directive 2007/46/CE, et abrogeant les directives 80/1269/CEE, 2005/55/CE et 2005/78/CE, JO L 188 du 18.7.2009, p. 1; modifié en dernier lieu par le règlement (UE) 2018/858, JO L 151 du 14.6.2018, p. 1.</td></tr>
+<tr><td>Règlement (CE) n<sup>o</sup> 595/2009</td><td colspan="2">Règlement (CE) n<sup>o</sup> 595/2009 du Parlement européen et du Conseil du 18 juin 2009 relatif à la réception des véhicules à moteur et des moteurs au regard des émissions des véhicules utilitaires lourds (Euro VI) et à l’accès aux informations sur la réparation et l’entretien des véhicules, et modifiant le règlement (CE) n<sup>o</sup> 715/2007 et la directive 2007/46/CE, et abrogeant les directives 80/1269/CEE, 2005/55/CE et 2005/78/CE, JO L 188 du 18.7.2009, p. 1; modifié en dernier lieu par le règlement (UE) 2019/1242, JO L 198 du 25.7.2019, p. 202.</td></tr>
 <tr><td>Règlement (CE) n<sup>o</sup> 631/2009</td><td>Règlement (CE) n<sup>o</sup> 631/2009 de la Commission du 22 juillet 2009 arrêtant les prescriptions détaillées pour la mise en œuvre de l’annexe I du règlement (CE) n<sup>o</sup> 78/2009 du Parlement européen et du Conseil relative à la protection des piétons et autres usagers vulnérables de la route, modifiant la directive 2007/46/CE et abrogeant les directives 2003/102/CE et 2005/66/CE, JO L 195 du 25.7.2009, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 459/2011, JO L 124 du 13.5.2011, p. 21.</td></tr>
-<tr><td>Règlement (CE) n<sup>o</sup> 661/2009</td><td>Règlement (CE) n<sup>o</sup> 661/2009 du Parlement européen et du Conseil du 13 juillet 2009 concernant les prescriptions pour l’homologation relatives à la sécurité générale des véhicules à moteur, de leurs remorques et des systèmes, composants et entités techniques distinctes qui leur sont destinés, JO L 200 du 31.7.2009, p. 1; modifié en dernier lieu par le règlement (UE) 2016/1004, JO L 165 du 23.6.2016, p. 1.</td></tr>
+<tr><td>Règlement (CE) n<sup>o</sup> 661/2009</td><td>Règlement (CE) n<sup>o</sup> 661/2009 du Parlement européen et du Conseil du 13 juillet 2009 concernant les prescriptions pour l’homologation relatives à la sécurité générale des véhicules à moteur, de leurs remorques et des systèmes, composants et entités techniques distinctes qui leur sont destinés, JO L 200 du 31.7.2009, p. 1; modifié en dernier lieu par le règlement (UE) 2019/543, JO L 95 du 4.4.2019, p. 1.</td></tr>
 <tr><td>Règlement (UE) n<sup>o</sup> 406/2010</td><td>Règlement (UE) n<sup>o</sup> 406/2010 de la Commission du 26 avril 2010 portant application du règlement (CE) n<sup>o</sup> 79/2009 du Parlement européen et du Conseil concernant la réception par type des véhicules à moteur fonctionnant à l’hydrogène, JO L 122 du 18.5.2010, p. 1; modifié par le règlement (UE) n<sup>o</sup> 519/2013, JO L 158 du 10.6.2013, p. 74.</td></tr>
 <tr><td>Règlement (UE) n<sup>o</sup> 672/2010</td><td>Règlement (UE) n<sup>o</sup> 672/2010 de la Commission du 27 juillet 2010 concernant les exigences pour la réception des dispositifs de dégivrage et de désembuage du pare-brise de certains véhicules à moteur et mettant en œuvre le règlement (CE) n<sup>o</sup> 661/2009 du Parlement européen et du Conseil concernant les prescriptions pour l’homologation relatives à la sécurité générale des véhicules à moteur, de leurs remorques et des systèmes, composants et entités techniques distinctes qui leur sont destinés, version du JO L 196 du 28.7.2010, p. 5.</td></tr>
 <tr><td>Règlement (UE) n<sup>o</sup> 1003/2010</td><td>Règlement (UE) n<sup>o</sup> 1003/2010 de la Commission du 8 novembre 2010 concernant les exigences pour la réception relatives à l’emplacement et au montage des plaques d’immatriculation arrière des véhicules à moteur et de leurs remorques et mettant en œuvre le règlement (CE) n<sup>o</sup> 661/2009 du Parlement européen et du Conseil concernant les prescriptions pour l’homologation relatives à la sécurité générale des véhicules à moteur, de leurs remorques et des systèmes, composants et entités techniques distinctes qui leur sont destinés, JO L 291 du 9.11.2010, p. 22; modifié par le règlement (UE) 2015/166, JO L 28 du 4.2.2015, p. 3.</td></tr>
@@ -5636,26 +5659,29 @@ Annexe 2*[^t-1]*
 <tr><td>Règlement (UE) n<sup>o</sup> 109/2011</td><td>Règlement (UE) n<sup>o</sup> 109/2011 de la Commission du 27 janvier 2011 portant application du règlement (CE) n<sup>o</sup> 661/2009 du Parlement européen et du Conseil en ce qui concerne les prescriptions pour la réception par type de certaines catégories de véhicules à moteur et de leurs remorques en matière de systèmes antiprojections, JO L 34 du 9.2.2011, p. 2; modifié en dernier lieu par le règlement (UE) 2015/166, JO L 28 du 4.2.2015, p. 3.</td></tr>
 <tr><td>Règlement (UE) n<sup>o</sup> 458/2011</td><td>Règlement (UE) n<sup>o</sup> 458/2011 de la Commission du 12 mai 2011 portant prescriptions pour la réception par type des véhicules à moteur et de leurs remorques en ce qui concerne le montage de leurs pneumatiques et mettant en œuvre le règlement (CE) n<sup>o</sup> 661/2009 du Parlement européen et du Conseil concernant les prescriptions pour l’homologation relatives à la sécurité générale des véhicules à moteur, de leurs remorques et des systèmes, composants et entités techniques distinctes qui leur sont destinés, JO L 124 du 13.5.2011, p. 11; modifié par le règlement (UE) 2015/166, JO L 28 du 4.2.2015, p. 3.</td></tr>
 <tr><td>Règlement (UE) n<sup>o</sup> 459/2011</td><td>Règlement (UE) n<sup>o</sup> 459/2011 de la Commission du 12 mai 2011 modifiant l’annexe du règlement (CE) n<sup>o</sup> 631/2009 arrêtant les prescriptions détaillées pour la mise en œuvre de l’annexe I du règlement (CE) n<sup>o</sup> 78/2009 du Parlement européen et du Conseil relatif à la réception par type des véhicules à moteur au regard de la protection des piétons et autres usagers vulnérables de la route, version du JO L 124 du 13.5.2011, p. 21.</td></tr>
-<tr><td>Règlement (UE) n<sup>o</sup> 582/2011</td><td>Règlement (UE) n<sup>o</sup> 582/2011 de la Commission du 25 mai 2011 portant modalités d’application et modification du règlement (CE) n<sup>o</sup> 595/2009 du Parlement européen et du Conseil au regard des émissions des véhicules utilitaires lourds (Euro VI) et modifiant les annexes I et III de la directive 2007/46/CE du Parlement européen et du Conseil, JO L 167 du 25.6.2011, p. 1; modifié en dernier lieu par le règlement (UE) 2018/932, JO L 165 du 2.7.2018, p. 32.</td></tr>
+<tr><td>Règlement (UE) n<sup>o</sup> 582/2011</td><td colspan="2">Règlement (UE) n<sup>o</sup> 582/2011 de la Commission du 25 mai 2011 portant modalités d’application et modification du règlement (CE) n<sup>o</sup> 595/2009 du Parlement européen et du Conseil au regard des émissions des véhicules utilitaires lourds (Euro VI) et modifiant les annexes I et III de la directive 2007/46/CE du Parlement européen et du Conseil, JO L 167 du 25.6.2011, p. 1; modifié en dernier lieu par le règlement (UE) 2020/1181, JO L 263 du 12.8.2020, p. 1</td></tr>
 <tr><td>Règlement (UE) n<sup>o</sup> 65/2012</td><td>Règlement (UE) n<sup>o</sup> 65/2012 de la Commission du 24 janvier 2012 mettant en œuvre le règlement (CE) n<sup>o</sup> 661/2009 du Parlement européen et du Conseil en ce qui concerne les indicateurs de changement de vitesse et modifiant la directive 2007/46/CE du Parlement européen et du Conseil, version du JO L 28 du 31.1.2012, p. 24.</td></tr>
 <tr><td>Règlement (UE) n<sup>o</sup> 130/2012</td><td>Règlement (UE) n<sup>o</sup> 130/2012 de la Commission du 15 février 2012 concernant les prescriptions pour la réception par type des véhicules à moteur relatives à l’accès au véhicule et à sa manœuvrabilité et mettant en œuvre le règlement (CE) n<sup>o</sup> 661/2009 du Parlement européen et du Conseil concernant les prescriptions pour l’homologation relatives à la sécurité générale des véhicules à moteur, de leurs remorques et des systèmes, composants et entités techniques distinctes qui leur sont destinés, version du JO L 43 du 16.2.2012, p. 6.</td></tr>
 <tr><td>Règlement (UE) n<sup>o</sup> 347/2012</td><td>Règlement (UE) n<sup>o</sup> 347/2012 de la Commission du 16 avril 2012 portant application du règlement (CE) n<sup>o</sup> 661/2009 du Parlement européen et du Conseil en ce qui concerne les prescriptions pour la réception par type de certaines catégories de véhicules à moteur en matière de systèmes avancés de freinage d’urgence, JO L 109 du 21.4.2012, p. 1; modifié par le règlement (UE) 2015/562, JO L 93 du 9.4.2015, p. 35.</td></tr>
 <tr><td>Règlement (UE) n<sup>o</sup> 351/2012</td><td>Règlement (UE) n<sup>o</sup> 351/2012 de la Commission du 23 avril 2012 mettant en œuvre le règlement (CE) n<sup>o</sup> 661/2009 du Parlement européen et du Conseil en ce qui concerne les prescriptions pour la réception par type relatives au montage de systèmes d’avertissement de franchissement de ligne sur les véhicules à moteur, version du JO L 110 du 24.4.2012, p. 18 :</td></tr>
 <tr><td>Règlement (UE) n<sup>o</sup> 630/2012</td><td>Règlement (UE) n<sup>o</sup> 630/2012 de la Commission du 12 juillet 2012 modifiant le règlement (CE) n<sup>o</sup> 692/2008 en ce qui concerne, d’une part, les prescriptions pour la réception par type des véhicules à moteur fonctionnant à l’hydrogène ou avec des mélanges d’hydrogène et de gaz naturel au regard des émissions, et, d’autre part, l’inclusion d’informations spécifiques concernant les véhicules équipés d’une chaîne de traction électrique dans la fiche de renseignements pour la réception CE par type, version du JO L 182 du 13.7.2012, p. 14.</td></tr>
-<tr><td>Règlement (UE) n<sup>o</sup> 1230/2012</td><td>Règlement (UE) n<sup>o</sup> 1230/2012 de la Commission du 12 décembre 2012 portant application du règlement (CE) n<sup>o</sup> 661/2009 du Parlement européen et du Conseil en ce qui concerne les prescriptions pour la réception par type relatives aux masses et dimensions des véhicules à moteur et de leurs remorques et modifiant la directive 2007/46/CE du Parlement européen et du Conseil, JO L 353 du 21.12.2012, p. 31; modifié par le règlement (UE) 2017/1151, JO L 175 du 7.7.2017, p. 1.</td></tr>
+<tr><td>Règlement (UE) n<sup>o</sup> 1230/2012</td><td colspan="2">Règlement (UE) n<sup>o</sup> 1230/2012 de la Commission du 12 décembre 2012 portant application du règlement (CE) n<sup>o</sup> 661/2009 du Parlement européen et du Conseil en ce qui concerne les prescriptions pour la réception par type relatives aux masses et dimensions des véhicules à moteur et de leurs remorques et modifiant la directive 2007/46/CE du Parlement européen et du Conseil, JO L 353 du 21.12.2012, p. 31; modifié en dernier lieu par le règlement (UE) 2019/1892, JO L 291 du 12.11.2019, p. 17.</td></tr>
 <tr><td>Règlement (UE) n<sup>o</sup> 3/2014</td><td>Règlement délégué (UE) n<sup>o</sup> 3/2014 de la Commission du 24 octobre 2013 complétant le règlement (UE) n o 168/2013 du Parlement européen et du Conseil en ce qui concerne les exigences de sécurité fonctionnelle aux fins de la réception des véhicules à deux ou trois roues et des quadricycles, JO L 7 du 10.1.2014, p. 1; modifié par le règlement (UE) 2016/1824, JO L 279 du 15.10.2016, p. 1.</td></tr>
 <tr><td>Règlement (UE) n<sup>o</sup> 44/2014</td><td>Règlement délégué (UE) n<sup>o</sup> 44/2014 de la Commission du 21 novembre 2013 complétant le règlement (UE) n o 168/2013 du Parlement européen et du Conseil en ce qui concerne la construction des véhicules et les exigences générales relatives à la réception des véhicules à deux ou trois roues et des quadricycles, JO L 25 du 28.1.2014, p. 1; modifié en dernier lieu par le règlement (UE) 2018/295, JO L 56 du 28.2.2018, p. 1.</td></tr>
 <tr><td>Règlement (UE) n<sup>o</sup> 134/2014</td><td>Règlement délégué (UE) n<sup>o</sup> 134/2014 de la Commission du 16 décembre 2013 complétant le règlement (UE) n o 168/2013 du Parlement européen et du Conseil en ce qui concerne les exigences en matière de performances environnementales et de l’unité de propulsion et modifiant son annexe V, JO L 53 du 21.2.2014, p. 1; modifié en dernier lieu par le règlement (UE) 2018/295, JO L 56 du 28.2.2018, p. 1.</td></tr>
-<tr><td>Règlement (UE) n<sup>o</sup> 540/2014</td><td>Règlement (UE) n<sup>o</sup> 540/2014 du Parlement européen et du Conseil du 16 avril 2014 concernant le niveau sonore des véhicules à moteur et des systèmes de silencieux de remplacement, et modifiant la directive 2007/46/CE et abrogeant la directive 70/157/CEE, JO L 158 du 27.5.2014, p. 131; modifié par le règlement (UE) 2017/1576, JO L 239 du 19.9.2017, p. 3.</td></tr>
+<tr><td>Règlement (UE) n<sup>o</sup> 540/2014</td><td colspan="2">Règlement (UE) n<sup>o</sup> 540/2014 du Parlement européen et du Conseil du 16 avril 2014 concernant le niveau sonore des véhicules à moteur et des systèmes de silencieux de remplacement, et modifiant la directive 2007/46/CE et abrogeant la directive 70/157/CEE, JO L 158 du 27.5.2014, p. 131; modifié en dernier lieu par le règlement (UE) 2019/839, JO L 138 du 24.5.2019, p. 70.</td></tr>
 <tr><td>Règlement (UE) n<sup>o</sup> 1322/2014</td><td>Règlement délégué (UE) n<sup>o</sup> 1322/2014 de la Commission du 19 septembre 2014 complétant et modifiant le règlement (UE) n<sup>o</sup> 167/2013 du Parlement européen et du Conseil en ce qui concerne la construction des véhicules et les prescriptions générales relatives à la réception des véhicules agricoles et forestiers, JO L 364 du 18.12.2014, p. 1; modifié en dernier lieu par le règlement (UE) 2018/830, JO L 140 du 6.6.2018, p. 15.</td></tr>
 <tr><td>Règlement (UE) 2015/68</td><td>Règlement délégué (UE) 2015/68 de la Commission du 15 octobre 2014 complétant le règlement (UE) n<sup>o</sup> 167/2013 du Parlement européen et du Conseil en ce qui concerne les prescriptions en matière de freinage des véhicules pour la réception des véhicules agricoles et forestiers, JO L 17 du 23.1.2015, p. 1; modifié en dernier lieu par le règlement (UE) 2018/828, JO L 140 du 6.6.2018, p. 5.</td></tr>
-<tr><td>Règlement (UE) 2015/208</td><td>Règlement délégué (UE) 2015/208 de la Commission du 8 décembre 2014 complétant le règlement (UE) n<sup>o</sup> 167/2013 du Parlement européen et du Conseil en ce qui concerne les prescriptions relatives à la sécurité fonctionnelle des véhicules pour la réception des véhicules agricoles et forestiers, JO L 42 du 17.2.2015, p. 1; modifié en dernier lieu par le règlement (UE) 2018/829, JO L 140 du 6.6.2018, p. 8.</td></tr>
+<tr><td>Règlement (UE) 2015/208</td><td>Règlement délégué (UE) 2015/208 de la Commission du 8 décembre 2014 complétant le règlement (UE) n<sup>o</sup> 167/2013 du Parlement européen et du Conseil en ce qui concerne les prescriptions relatives à la sécurité fonctionnelle des véhicules pour la réception des véhicules agricoles et forestiers, JO L 42 du 17.2.2015, p. 1; modifié en dernier lieu par le règlement (UE) 2020/540, JO L 121 du 20.4.2020, p. 1.</td></tr>
 <tr><td>Règlement (UE) 2015/758</td><td>Règlement (UE) 2015/758 du Parlement européen et du Conseil du 29 avril 2015 concernant les exigences en matière de réception par type pour le déploiement du système eCall embarqué fondé sur le service 112 et modifiant la directive 2007/46/CE, JO L 123 du 19.5.2015, p. 77; modifié par le règlement (UE) 2017/79, JO L 12 du 17.1.2017, p. 44.</td></tr>
 <tr><td>Règlement (UE) 2017/78</td><td>Règlement d’exécution (UE) 2017/78 de la commission du 15 juillet 2016 établissant les dispositions administratives relatives à la réception CE par type des véhicules à moteur en ce qui concerne leurs systèmes eCall embarqués fondés sur le numéro 112 et des conditions uniformes d’exécution du règlement (UE) 2015/758 du Parlement européen et du Conseil en ce qui concerne la protection des données et de la vie privée des utilisateurs de ces systèmes, version du JO L 12 du 17.1.2017, p. 26.</td></tr>
-<tr><td>Règlement (UE) 2017/1151</td><td>Règlement (UE) 2017/1151 de la commission du 1 juin 2017 complétant le règlement (CE) n<sup>o</sup> 715/2007 du Parlement européen et du Conseil relatif à la réception des véhicules à moteur au regard des émissions des véhicules particuliers et utilitaires légers (Euro 5 et Euro 6) et aux informations sur la réparation et l’entretien des véhicules, modifiant la directive 2007/46/CE du Parlement européen et du Conseil, le règlement (CE) n<sup>o</sup> 692/2008 de la Commission et le règlement (UE) n<sup>o</sup> 1230/2012 de la Commission et abrogeant le règlement (CE) n<sup>o</sup> 692/2008, JO L 175 du 7.7.2017, p. 1; modifiéen dernier lieu par le règlement (UE) 2017/1347, JO L 192 du 24.7.2017, p. 1.</td></tr>
+<tr><td>Règlement (UE) 2017/1151</td><td colspan="2">Règlement (UE) 2017/1151 de la commission du 1<sup>er</sup> juin 2017 complétant le règlement (CE) n<sup>o</sup> 715/2007 du Parlement européen et du Conseil relatif à la réception des véhicules à moteur au regard des émissions des véhicules particuliers et utilitaires légers (Euro 5 et Euro 6) et aux informations sur la réparation et l’entretien des véhicules, modifiant la directive 2007/46/CE du Parlement européen et du Conseil, le règlement (CE) n<sup>o</sup> 692/2008 de la Commission et le règlement (UE) n<sup>o</sup> 1230/2012 de la Commission et abrogeant le règlement (CE) n<sup>o</sup> 692/2008, JO L 175 du 7.7.2017, p. 1; modifié en dernier lieu par le règlement (UE) 2020/49, JO L 17 du 22.1.2020, p. 1.</td></tr>
 <tr><td>Règlement (UE) 2017/1347</td><td>Règlement (UE) 2017/1347 de la commission du 13 juillet 2017 rectifiant la directive 2007/46/CE du Parlement européen et du Conseil, le règlement (UE) n<sup>o</sup> 582/2011 de la Commission et le règlement (UE) 2017/1151 de la Commission complétant le règlement (CE) n<sup>o</sup> 715/2007 du Parlement européen et du Conseil relatif à la réception des véhicules à moteur au regard des émissions des véhicules particuliers et utilitaires légers (Euro 5 et Euro 6) et aux informations sur la réparation et l’entretien des véhicules, modifiant la directive 2007/46/CE du Parlement européen et du Conseil, le règlement (CE) n<sup>o</sup> 692/2008 de la Commission et le règlement (UE) n<sup>o</sup> 1230/2012 de la Commission et abrogeant le règlement (CE) n<sup>o</sup> 692/2008, version du JO L 192 du 24.7.2017, p. 1.</td></tr>
-<tr><td>Règlement (UE) 2017/2400</td><td>Règlement (UE) 2017/2400 de la commission du 12 décembre 2017 portant application du règlement (CE) n<sup>o</sup> 595/2009 du Parlement européen et du Conseil en ce qui concerne la détermination des émissions de CO<sub>2</sub> et de la consommation de carburant des véhicules utilitaires lourds et modifiant la directive 2007/46/CE du Parlement européen et du Conseil ainsi que le règlement (UE) n<sup>o</sup> 582/2011 de la Commission, version du JO L 349 du 29.12.2017, p. 1.</td></tr>
-<tr><td>Règlement (UE) 2018/985</td><td>Règlement délégué (UE) 2018/985 de la Commission du 12 février 2018 complétant le règlement (UE) n<sup>o</sup> 167/2013 du Parlement européen et du Conseil en ce qui concerne les prescriptions relatives aux performances environnementales et aux performances de l’unité de propulsion des véhicules agricoles et forestiers et de leurs moteurs et abrogeant le règlement délégué (UE) 2015/96 de la Commission, version du JO L 182 du 18.7.2018, p. 1.</td></tr>
+<tr><td>Règlement (UE) 2017/2400</td><td>Règlement (UE) 2017/2400 de la commission du 12 décembre 2017 portant application du règlement (CE) n<sup>o</sup> 595/2009 du Parlement européen et du Conseil en ce qui concerne la détermination des émissions de CO<sub>2</sub> et de la consommation de carburant des véhicules utilitaires lourds et modifiant la directive 2007/46/CE du Parlement européen et du Conseil ainsi que le règlement (UE) n<sup>o</sup> 582/2011 de la Commission, JO L 349 du 29.12.2017, p. 1; modifié en dernier lieu par le règlement (UE) 2020/1181, JO L 263 du 12.8.2020, p. 1.</td></tr>
+<tr><td>Règlement (UE) 2018/985</td><td>Règlement délégué (UE) 2018/985 de la Commission du 12 février 2018 complétant le règlement (UE) n<sup>o</sup> 167/2013 du Parlement européen et du Conseil en ce qui concerne les prescriptions relatives aux performances environnementales et aux performances de l’unité de propulsion des véhicules agricoles et forestiers et de leurs moteurs et abrogeant le règlement délégué (UE) 2015/96 de la Commission, JO L 182 du 18.7.2018, p. 1; modifié par le règlement (UE) 2020/1564, JO L 358 du 28.10.2020, p. 1.</td></tr>
+<tr><td>Règlement (UE) 2019/2144</td><td>Règlement (UE) 2019/2144 du Parlement européen et du Conseil du 27 novembre 2019 relatif aux prescriptions applicables à la réception par type des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, en ce qui concerne leur sécurité générale et la protection des occupants des véhicules et des usagers vulnérables de la route, modifiant le règlement (UE) 2018/858 du Parlement européen et du Conseil et abrogeant les règlements (CE) n<sup>o</sup> 78/2009, (CE) n<sup>o</sup> 79/2009 et (CE) n<sup>o</sup> 661/2009 du Parlement européen et du Conseil et les règlements (CE) n<sup>o</sup> 631/2009, (UE) n<sup>o</sup> 406/2010, (UE) n<sup>o</sup> 672/2010, (UE) n<sup>o</sup> 1003/2010, (UE) n<sup>o</sup> 1005/2010, (UE) n<sup>o</sup> 1008/2010, (UE) n<sup>o</sup> 1009/2010, (UE) n<sup>o</sup> 19/2011, (UE) n<sup>o</sup> 109/2011, (UE) n<sup>o</sup> 458/2011, (UE) n<sup>o</sup> 65/2012, (UE) n<sup>o</sup> 130/2012, (UE) n<sup>o</sup> 347/2012, (UE) n<sup>o</sup> 351/2012, (UE) n<sup>o</sup> 1230/2012 et (UE) 2015/166 de la Commission, JO L 325 du 16.12.2019, p. 1; modifié en dernier lieu par le règlement délégué (UE) 2021/1341, JO L 292 du 16.8.2021, p. 4.</td></tr>
+<tr><td>Règlement (UE) 2021/535</td><td>Règlement d’exécution (UE) 2021/535 de la commission du 31 mars 2021 établissant des règles relatives à l’application du règlement (UE) 2019/2144 du Parlement européen et du Conseil eu égard aux procédures uniformes et aux spécifications techniques pour la réception par type des véhicules, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, en ce qui concerne leurs caractéristiques générales de construction et leur sécurité, version du JO L 117 du 6.4.2021, p. 1.</td></tr>
+<tr><td>Règlement (UE) 2021/646</td><td>Règlement d’exécution (UE) 2021/646 de la commission du 19 avril 2021 établissant des règles relatives à l’application du règlement (UE) 2019/2144 du Parlement européen et du Conseil en ce qui concerne les procédures uniformes et les spécifications techniques pour la réception par type des véhicules à moteur eu égard à leur système d’urgence de maintien de la trajectoire (ELKS), version du JO L 133 du 20.4.2021, p. 31.</td></tr>
 </table>
 
 ### 113 Prescriptions de l’UE hors des textes législatifs concernant la réception générale
@@ -5670,11 +5696,12 @@ Annexe 2*[^t-1]*
 <tr><td colspan="2">Directive 2009/105/CE</td><td>Directive 2009/105/CE du Parlement européen et du Conseil du 16 septembre 2009 relative aux récipients à pression simples, version du JO L 264 du 8.10.2009, p. 12.</td></tr>
 <tr><td colspan="2">Règlement (CE) n<sup>o</sup> 1222/2009</td><td>Règlement (CE) n<sup>o</sup> 1222/2009 du Parlement européen et du Conseil du 25 novembre 2009 sur l’étiquetage des pneumatiques en relation avec l’efficacité en carburant et d’autres paramètres essentiels, JO L 342 du 22.12.2009, p. 46; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 1235/2011, JO L 317 du 30.11.2011, p. 17.</td></tr>
 <tr><td colspan="2">Directive 2014/29/UE</td><td>Directive 2014/29/UE du Parlement européen et du Conseil du 26 février 2014 relative à l’harmonisation des législations des États membres concernant la mise à disposition sur le marché des récipients à pression simples et abrogeant la directive 2009/105/CE, JO L 96 du 29.3.2014, p. 45.</td></tr>
-<tr><td colspan="2">Directive 2014/30/UE</td><td>Directive 2014/30/UE du Parlement européen et du Conseil du 26 février 2014 relative à l’harmonisation des législations des États membres concernant la compatibilité électromagnétique et abrogeant la directive 2004/108/CE, JO L 96 du 29.3.2014, p. 79.</td></tr>
-<tr><td>Règlement (UE) 2016/1628</td><td colspan="2">Règlement (UE) 2016/1628 du Parlement européen et du Conseil 14 septembre 2016 relatif aux exigences concernant les limites d’émission pour les gaz polluants et les particules polluantes et la réception par type pour les moteurs à combustion interne destiné aux engins mobiles non routiers, modifiant les règlements (UE) n<sup>o</sup> 1024/2012 et (UE) n<sup>o</sup> 167/2013 et modifiant et abrogeant la directive 97/68/CE, JO L 252 du 16.9.2016, p. 53; modifié par le règlement (UE) 2017/656, JO L 102 du 13.4.2017, p. 364.</td></tr>
-<tr><td>Règlement (UE) 2017/654</td><td colspan="2">Règlement délégué (UE) 2017/654 de la Commission du 19 décembre 2016 complétant le règlement (UE) 2016/1628 du Parlement européen et du Conseil en ce qui concerne les prescriptions techniques et générales relatives aux limites d’émissions et à la réception par type pour les moteurs à combustion interne destinés aux engins mobiles non routiers, JO L 102 du 13.4.2017, p. 1; modifié par le règlement (UE) 2018/989, JO L 182 du 18.7.2018, p. 61.</td></tr>
+<tr><td colspan="2">Directive 2014/30/UE</td><td>Directive 2014/30/UE du Parlement européen et du Conseil du 26 février 2014 relative à l’harmonisation des législations des États membres concernant la compatibilité électromagnétique et abrogeant la directive 2004/108/CE, JO L 96 du 29.3.2014, p. 79; modifiée en dernier lieu par la décision d’exécution (UE) 2019/1326, JO L 206 du 6.8.2019, p. 27.</td></tr>
+<tr><td colspan="2">Règlement (UE) 2016/1628</td><td>Règlement (UE) 2016/1628 du Parlement européen et du Conseil 14 septembre 2016 relatif aux exigences concernant les limites d’émission pour les gaz polluants et les particules polluantes et la réception par type pour les moteurs à combustion interne destiné aux engins mobiles non routiers, modifiant les règlements (UE) n<sup>o</sup> 1024/2012 et (UE) n<sup>o</sup> 167/2013 et modifiant et abrogeant la directive 97/68/CE, JO L 252 du 16.9.2016, p. 53; modifié en dernier lieu par le règlement (UE) 2021/1068, JO L 230 du 30.6.2021, p. 1.</td></tr>
+<tr><td colspan="2">Règlement (UE) 2017/654</td><td>Règlement délégué (UE) 2017/654 de la Commission du 19 décembre 2016 complétant le règlement (UE) 2016/1628 du Parlement européen et du Conseil en ce qui concerne les prescriptions techniques et générales relatives aux limites d’émissions et à la réception par type pour les moteurs à combustion interne destinés aux engins mobiles non routiers, JO L 102 du 13.4.2017, p. 1; modifié en dernier lieu par le règlement délégué (UE) 2021/1398, JO L 299 du 24.8.2021, p. 1.</td></tr>
 <tr><td>Règlement (UE) 2017/655</td><td colspan="2">Règlement délégué (UE) 2017/655 de la Commission du 19 décembre 2016 complétant le règlement (UE) 2016/1628 du Parlement européen et du Conseil en ce qui concerne la surveillance des émissions de gaz polluants des moteurs à combustion interne en service installés sur des engins mobiles non routiers, JO L 102 du 13.4.2017, p. 334; modifié par le règlement (UE) 2018/987, JO L 182 du 18.7.2018, p. 40.</td></tr>
 <tr><td>Règlement (UE) 2017/656</td><td colspan="2">Règlement d’exécution (UE) 2017/656 de la Commission du 19 décembre 2016 établissant les prescriptions administratives relatives aux limites d’émissions et à la réception par type pour les moteurs à combustion interne destinés aux engins mobiles non routiers conformément au règlement (UE) 2016/1628 du Parlement européen et du Conseil, JO L 102 du 13.4.2017, p. 364; modifié par le règlement (UE) 2018/988, JO L 182 du 18.7.2018, p. 46.</td></tr>
+<tr><td colspan="2">Règlement (UE) 2020/740</td><td>Règlement (UE) 2020/740 du Parlement européen et du Conseil 25 mai 2020 sur l’étiquetage des pneumatiques en relation avec l’efficacité en carburant et d’autres paramètres, modifiant le règlement (UE) 2017/1369 et abrogeant le règlement (CE) n<sup>o</sup> 1222/2009, version du JO L 177 du 5.6.2020, p. 1.</td></tr>
 </table>
 
 ### 114 Droit de l’UE concernant le tachygraphe
@@ -5685,9 +5712,9 @@ Annexe 2*[^t-1]*
 <tr><td>Décision 93/172/CEE</td><td>Décision 93/172/CEE de la Commission, du 22 février 1993, établissant le formulaire normalisé prévu à l’art. 6 de la directive 88/599/CEE du Conseil dans le domaine des transports par route, version du JO L 72 du 25.3.1993, p. 30.</td></tr>
 <tr><td>Décision 93/173/CEE</td><td>Décision 93/173/CEE de la Commission, du 22 février 1993, établissant le compte-rendu type prévu à l’art. 16 du règlement (CEE) n<sup>o</sup> 3820/85 du Conseil relatif à l’harmonisation de certaines dispositions en matière sociale dans le domaine des transports par route, version du JO L 72 du 25.3.1993, p. 33.</td></tr>
 <tr><td>Directive 2006/22/CE</td><td>Directive 2006/22/CE du Parlement européen et du Conseil du 15 mars 2006 établissant les conditions minimales à respecter pour la mise en œuvre des règlements du Conseil (CEE) n<sup>o</sup> 3820/85 et (CEE) n<sup>o</sup> 3821/85 concernant la législation sociale relative aux activités de transport routier et abrogeant la directive 88/599/CEE du Conseil, JO L 102 du 11.4.2006, p. 35; modifiée par la directive 2009/4/CE, JO L 21 du 24.1.2009, p. 39.</td></tr>
-<tr><td>Règlement (CE) n<sup>o</sup> 561/2006</td><td>Règlement (CE) n<sup>o</sup> 561/2006 du Parlement européen et du Conseil du 15 mars 2006 relatif à l’harmonisation de certaines dispositions de la législation sociale dans le domaine des transports par route, modifiant les règlements (CEE) n<sup>o</sup> 3821/85 et (CE) n<sup>o</sup> 2135/98 du Conseil et abrogeant le règlement (CEE) n<sup>o</sup> 3820/85 du Conseil, JO L 102 du 11.4.2006, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 165/2014, JO L 60 du 28.2.2014, p. 1.</td></tr>
-<tr><td>Règlement (UE) n<sup>o</sup> 165/2014</td><td>Règlement (UE) n<sup>o</sup> 165/2014 du Parlement européen et du Conseil du 4 février 2014 relatif aux tachygraphes dans les transports routiers, abrogeant le règlement (CEE) n<sup>o</sup> 3821/85 du Conseil concernant l’appareil de contrôle dans le domaine des transports par route et modifiant le règlement (CE) n<sup>o</sup> 561/2006 du Parlement européen et du Conseil relatif à l’harmonisation de certaines dispositions de la législation sociale dans le domaine des transports par route, JO L 60 du 28.2.2014, p. 1.</td></tr>
-<tr><td>Règlement (UE) 2016/799</td><td>Règlement d’exécution (UE) 2016/799 de la commission du 18 mars 2016 mettant en oeuvre le règlement (UE) n<sup>o</sup> 165/2014 du Parlement européen et du Conseil en ce qui concerne les exigences applicables à la construction, aux essais, à l’installation, à l’utilisation et à la réparation des tachygraphes et de leurs composants, JO L 139 du 26.5.2016, p. 1; modifié par le règlement d’exécution (UE) 2018/502, JO L 85 du 28.3.2018, p. 1.</td></tr>
+<tr><td>Règlement (CE) n<sup>o</sup> 561/2006</td><td>Règlement (CE) n<sup>o</sup> 561/2006 du Parlement européen et du Conseil du 15 mars 2006 relatif à l’harmonisation de certaines dispositions de la législation sociale dans le domaine des transports par route, modifiant les règlements (CEE) n<sup>o</sup> 3821/85 et (CE) n<sup>o</sup> 2135/98 du Conseil et abrogeant le règlement (CEE) n<sup>o</sup> 3820/85 du Conseil, JO L 102 du 11.4.2006, p. 1; modifié en dernier lieu par le règlement (UE) 2020/1054, JO L 249 du 31.7.2020, p. 1.</td></tr>
+<tr><td>Règlement (UE) n<sup>o</sup> 165/2014</td><td>Règlement (UE) n<sup>o</sup> 165/2014 du Parlement européen et du Conseil du 4 février 2014 relatif aux tachygraphes dans les transports routiers, abrogeant le règlement (CEE) n<sup>o</sup> 3821/85 du Conseil concernant l’appareil de contrôle dans le domaine des transports par route et modifiant le règlement (CE) n<sup>o</sup> 561/2006 du Parlement européen et du Conseil relatif à l’harmonisation de certaines dispositions de la législation sociale dans le domaine des transports par route, JO L 60 du 28.2.2014, p. 1; modifié par le règlement (UE) 2020/1054, JO L 249 du 31.7.2020, p. 1. Font exception les dispositions sur la protection des données et les dates d’entrée en vigueur des obligations en matière d’équipement, notamment les art. 1er, par. 1, al. 1, 3, par. 4 et 4bis, 7, 8, par. 1, al. 3 et 4, 9, par. 4, dernier tiret, 11, par. 2 et 3, 22, par. 5, à partir de l’al. 3, 2e phrase, ainsi que 26, par. 7bis.</td></tr>
+<tr><td>Règlement (UE) 2016/799</td><td>Règlement d’exécution (UE) 2016/799 de la commission du 18 mars 2016 mettant en œuvre le règlement (UE) n<sup>o</sup> 165/2014 du Parlement européen et du Conseil en ce qui concerne les exigences applicables à la construction, aux essais, à l’installation, à l’utilisation et à la réparation des tachygraphes et de leurs composants, JO L 139 du 26.5.2016, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2021/1228, JO L 273 du 30.7.2021, p. 1.</td></tr>
 <tr><td>Règlement (UE) 2017/548</td><td>Règlement d’exécution (UE) 2017/548 de la commission du 23 mars 2017 établissant un formulaire standard pour la déclaration écrite concernant le retrait ou la casse d’un scellement de tachygraphe, version du JO L 79 du 24.3.2017, p. 1.</td></tr>
 </table>
 
@@ -5699,163 +5726,180 @@ Annexe 2*[^t-1]*
 
 <table>
 <tr><th>N<sup>o</sup> du règlement CEE-ONU</th><th colspan="2">Titre du règlement avec compléments</th></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 0</td><td>Règlement CEE-ONU n<sup>o</sup> 0, du 19 juillet 2018, énonçant des prescriptions uniformes concernant un régime d’homologation de type internationale de l’ensemble du véhicule (Add.0).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 1[^annex2-lvlu1-lvl1-lvl12-2]</td><td>Règlement CEE-ONU n<sup>o</sup> 1, du 8 août 1960, sur les prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules à moteur, émettant un faisceau-croisement asymétrique et/ou un faisceau-route, et équipés de lampes à incandescence catégorie R2 et/ou HS1; modifié en dernier lieu par la série d’amendements 02, en vigueur dès le 8 septembre 2001 (Add.1 Rév.4 Amend.5).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 3[^annex2-lvlu1-lvl1-lvl12-3]</td><td>Règlement CEE-ONU n<sup>o</sup> 3, du 1<sup>er</sup> novembre 1963, sur les prescriptions uniformes relatives à l’homologation des dispositifs catadioptriques pour véhicules à moteur et leurs remorques; modifié en dernier lieu par la série d’amendements 02, complément 17, en vigueur dès le 10 octobre 2017 (Add.2 Rév.4 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 4[^annex2-lvlu1-lvl1-lvl12-4]</td><td>Règlement CEE-ONU n<sup>o</sup> 4, du 15 avril 1964, sur les prescriptions uniformes relatives à l’homologation des dispositifs d’éclairage des plaques d’immatriculation arrière des véhicules à moteur et de leurs remorques; modifié en dernier lieu par le complément 19, en vigueur dès le 10 février 2018 (Add.3 Rév.3 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 5[^annex2-lvlu1-lvl1-lvl12-5]</td><td>Règlement CEE-ONU n<sup>o</sup> 5, du 30 septembre 1967, sur les prescriptions uniformes relatives à l’homologation des projecteurs scellés «Sealed-Beam» pour véhicules à moteur émettant un faisceau-croisement asymétrique européen ou un faisceau-route ou les deux faisceaux; modifié en dernier lieu par la série d’amendements 03, en vigueur dès le 10 juin 2014 (Add.4 Rév.5).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 6[^annex2-lvlu1-lvl1-lvl12-6]</td><td>Règlement CEE-ONU n<sup>o</sup> 6, du 15 octobre 1967, sur les prescriptions uniformes relatives à l’homologation des indicateurs de direction des véhicules à moteur et de leurs remorques; modifié en dernier lieu par la série d’amendements 01, complément 28, en vigueur dès le 10 février 2018 (Add.5 Rév.6 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 7[^annex2-lvlu1-lvl1-lvl12-7]</td><td>Règlement CEE-ONU n<sup>o</sup> 7, du 15 octobre 1967, sur les prescriptions uniformes relatives à l’homologation des feux-position (latéraux) avant et arrière, des feux-stop et des feux-encombrement pour véhicules à moteur et de leurs remorques; modifié en dernier lieu par la série d’amendements 02, complément 27, en vigueur dès le 10 février 2018 (Add.6 Rév.6 Amend.7).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 8[^annex2-lvlu1-lvl1-lvl12-8]</td><td>Règlement CEE-ONU n<sup>o</sup> 8, du 15 novembre 1967, sur les prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules à moteur émettant un faisceau-croisement asymétrique et/ou un faisceau-route, et équipés de lampes à incandescence halogènes (H1, H2, H3, HB3, HB4, H7, H8, H9, HIR1, HIR2 et/ou H11); modifié en dernier lieu par la révision 4, rectificatif 1, en vigueur dès le 12 mars 2003 (Add.7 Rév.4 Corr.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 10[^annex2-lvlu1-lvl1-lvl12-9]</td><td>Règlement CEE-ONU n<sup>o</sup> 10, du 1<sup>er</sup> avril 1969, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne la compatibilité électromagnétique; modifié en dernier lieu par la série d’amendements 05, complément 1, en vigueur dès le 8 octobre 2016 (Add.9 Rév.5 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 11</td><td>Règlement CEE-ONU n<sup>o</sup> 11, du 1<sup>er</sup> juin 1969, sur les prescriptions uniformes relatives à l’homologation des véhicules à moteur en ce qui concerne la résistance des serrures et charnières de portes; modifié en dernier lieu par la série d’amendements 04, complément 1, en vigueur dès le 9 février 2017 (Add.10 Rév.3 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 12[^annex2-lvlu1-lvl1-lvl12-10]</td><td>Règlement CEE-ONU n<sup>o</sup> 12, du 1<sup>er</sup> juillet 1969, sur les prescriptions uniformes relatives à l’homologation des véhicules à moteur en ce qui concerne la protection du conducteur contre le dispositif de conduite en cas de choc; modifié en dernier lieu par la série d’amendements 04, complément 5, en vigueur dès le 19 juillet 2018 (Add.11 Rév.4 Amend.4).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 13[^annex2-lvlu1-lvl1-lvl12-11]</td><td>Règlement CEE-ONU n<sup>o</sup> 13, du 1<sup>er</sup> juin 1970, sur les prescriptions uniformes relatives à l’homologation des véhicules des catégories M, N et O en ce qui concerne le freinage; modifié en dernier lieu par la série d’amendements 11, complément 14, en vigueur dès le 2 février 2017 (Add.12 Rév.8 Amend.4).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 13-H[^annex2-lvlu1-lvl1-lvl12-12]</td><td>Règlement CEE-ONU n<sup>o</sup> 13-H, du 11 mai 1998, sur les prescriptions uniformes relatives à l’homologation des voitures particulières en ce qui concerne le freinage; modifié en dernier lieu par la série d’amendements 01, en vigueur dès le 9 février 2017 (Add.12H Rév.4)</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 14[^annex2-lvlu1-lvl1-lvl12-13]</td><td>Règlement CEE-ONU n<sup>o</sup> 14, du 1er avril 1970, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne les ancrages de ceintures de sécurité, les ancrages ISOFIX, les ancrages pour fixation supérieure ISOFIX et les positions i-Size; modifié en dernier lieu par la série d’amendements 08, en vigueur dès le 19 juillet 2018 (Add.13 Rév.6).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 16[^annex2-lvlu1-lvl1-lvl12-14]</td><td>Règlement CEE-ONU n<sup>o</sup> 16, du 1<sup>er</sup> décembre 1970, sur les prescriptions uniformes relatives à l’homologation des ceintures de sécurité et systèmes de retenue pour les occupants adultes des véhicules à moteur: I Ceintures de sécurité, systèmes de retenue, dispositifs de retenue pour enfants et dispositifs de retenue pour enfants ISOFIX pour les occupants des véhicules à moteur; II Véhicules équipés de ceintures de sécurité, témoins de port de ceinture, systèmes de retenue, dispositifs de retenue pour enfants, dispositifs de retenue pour enfants ISOFIX et dispositifs de retenue pour enfants i-Size; modifié en dernier lieu par la série d’amendements 07, complément 2, en vigueur dès le 19 juillet 2018 (Add.15 Rév.9 Amend.2).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 17[^annex2-lvlu1-lvl1-lvl12-15]</td><td>Règlement CEE-ONU n<sup>o</sup> 17, du 1<sup>er</sup> décembre 1970, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne les sièges, leur ancrage et les appuie-tête; modifié en dernier lieu par la série d’amendements 08, complément 4, en vigueur dès le 19 juillet 2018 (Add.16 Rév.5 Amend.2).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 18</td><td>Règlement CEE-ONU n<sup>o</sup> 18, du 1<sup>er</sup> mars 1971, sur les prescriptions uniformes relatives à l’homologation des véhicules à moteur en ce qui concerne leur protection contre une utilisation non autorisée; modifié en dernier lieu par la série d’amendements 03, complément 3, en vigueur dès le 9 octobre 2014 (Add.17 Rév.3 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 19[^annex2-lvlu1-lvl1-lvl12-16]</td><td>Règlement CEE-ONU n<sup>o</sup> 19, du 1<sup>er</sup> mars 1971, sur les prescriptions uniformes relatives à l’homologation des feux-brouillard avant pour véhicules à moteur; modifié en dernier lieu par la série d’amendements 04, complément 10, en vigueur dès le 10 février 2018 (Add.18 Rév.7 Amend.5).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 20[^annex2-lvlu1-lvl1-lvl12-17]</td><td>Règlement CEE-ONU n<sup>o</sup> 20, du 1<sup>er</sup> mai 1971, sur les prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules à moteur émettant un faisceau-croisement asymétrique et/ou un faisceau-route, et équipés de lampes halogènes à incandescence (lampes H4); modifié en dernier lieu par la série d’amendements 03, en vigueur dès le 9 septembre 2001 (Add.19 Rév.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 21[^annex2-lvlu1-lvl1-lvl12-18]</td><td>Règlement CEE-ONU n<sup>o</sup> 21, du 1<sup>er</sup> décembre 1971, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne leur aménagement intérieur; modifié en dernier lieu par la série d’amendements 01, complément 3, en vigueur dès le 31 janvier 2003 (Add.20 Rév.2 Amend.2).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 22[^annex2-lvlu1-lvl1-lvl12-19]</td><td>Règlement CEE-ONU n<sup>o</sup> 22, du 1<sup>er</sup> juin 1972, concernant les prescriptions uniformes relatives à l’homologation des casques de protection et de leurs écrans pour conducteurs et passagers de motocycles et de cyclomoteurs; modifié en dernier lieu par la série d’amendements 05, complément 2, en vigueur dès le 26 juillet 2012 (Add.21 Rév.4 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 23[^annex2-lvlu1-lvl1-lvl12-20]</td><td>Règlement CEE-ONU n<sup>o</sup> 23, du 1<sup>er</sup> décembre 1971, sur les prescriptions uniformes relatives à l’homologation des feux-marche arrière et feux de manœuvre pour véhicules à moteur et pour leurs remorques; modifié en dernier lieu par le complément 22, en vigueur dès le 10 février 2018 (Add.22 Rév.4 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 24[^annex2-lvlu1-lvl1-lvl12-21]</td><td>Règlement CEE-ONU n<sup>o</sup> 24, du 1<sup>er</sup> décembre 1971, sur les prescriptions uniformes relatives: I à l’homologation des moteurs à allumage par compression (APC) en ce qui concerne les émissions de polluants visibles; II à l’homologation des véhicules à moteur en ce qui concerne l’installation d’un moteur APC d’un type homologué; III à l’homologation des véhicules à moteur équipés d’un moteur APC en ce qui concerne les émissions de polluant visibles du moteur; IV à la mesure de la puissance des moteurs APC; modifié en dernier lieu par la série d’amendements 03, complément 3, en vigueur dès le 2 février 2007 (Add.23 Rév.2 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 25[^annex2-lvlu1-lvl1-lvl12-22]</td><td>Règlement CEE-ONU n<sup>o</sup> 25, du 1<sup>er</sup> mars 1972, sur les prescriptions uniformes relatives à l’homologation des appuie-tête incorporés ou non dans les sièges des véhicules; modifié en dernier lieu par la série d’amendements 04, complément 1, en vigueur dès le 15 juin 2015 (Add.24 Rév.1 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 26</td><td>Règlement CEE-ONU n<sup>o</sup> 26, du 1<sup>er</sup> juillet 1972, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne leurs saillies extérieures; modifié en dernier lieu par la série d’amendements 03, complément 3, en vigueur dès le 18 juin 2016 (Add.25 Rév.1 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 27[^annex2-lvlu1-lvl1-lvl12-23]</td><td>Règlement CEE-ONU n<sup>o</sup> 27, du 15 septembre 1972, sur les prescriptions uniformes relatives à l’homologation des triangles de présignalisation; modifié en dernier lieu par la série d’amendements 04, complément 1, en vigueur dès le 10 octobre 2017 (Add.26 Rév.2 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 28[^annex2-lvlu1-lvl1-lvl12-24]</td><td>Règlement CEE-ONU n<sup>o</sup> 28, du 15 janvier 1973, sur les prescriptions uniformes relatives à l’homologation des avertisseurs sonores et des véhicules à moteur en ce qui concerne leur signalisation sonore; modifié en dernier lieu par le complément 5, en vigueur dès le 10 octobre 2017 (Add.27 Amend.5).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 29[^annex2-lvlu1-lvl1-lvl12-25]</td><td>Règlement CEE-ONU n<sup>o</sup> 29, du 15 juin 1974, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne la protection des occupants d’une cabine de véhicule utilitaire; modifié en dernier lieu par la série d’amendements 03, complément 3, en vigueur dès le 20 janvier 2016 (Add.28 Rév.2 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 30[^annex2-lvlu1-lvl1-lvl12-26]</td><td>Règlement CEE-ONU n<sup>o</sup> 30, du 1<sup>er</sup> avril 1974, sur les prescriptions uniformes relatives à l’homologation des pneumatiques pour les véhicules à moteur et leurs remorques; modifié en dernier lieu par la série d’amendements 02, complément 19, en vigueur dès le 10 février 2018 (Add.29 Rév.3 Amend.5).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 31[^annex2-lvlu1-lvl1-lvl12-27]</td><td>Règlement CEE-ONU n<sup>o</sup> 31, du 1<sup>er</sup> mai 1975, sur les prescriptions uniformes relatives à l’homologation des projecteurs scellés halogènes pour véhicules à moteur émettant un faisceau de croisement asymétrique européen ou un faisceau de route, ou les deux à la fois; modifié en dernier lieu par la série d’amendements 03, en vigueur dès le 10 juin 2014 (Add.30 Rév.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 32[^annex2-lvlu1-lvl1-lvl12-28]</td><td>Règlement CEE-ONU n<sup>o</sup> 32, du 1<sup>er</sup> juillet 1975, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne le comportement de la structure du véhicule heurté en cas de collision par l’arrière; modifié en dernier lieu par la révision 1, rectificatif 1, en vigueur dès le 24 juin 2009 (Add.24 Rév.1 Corr.2).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 33[^annex2-lvlu1-lvl1-lvl12-29]</td><td>Règlement CEE-ONU n<sup>o</sup> 33, du 1<sup>er</sup> juillet 1975, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne le comportement de la structure du véhicule heurté en cas de collision frontale; modifié en dernier lieu par la révision 1, rectificatif 1, en vigueur dès le 24 juin 2009 (Add.32 Rév.1 Corr.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU no 34</td><td>Règlement CEE-ONU n<sup>o</sup> 34, du 1<sup>er</sup> juillet 1975, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne la prévention des risques d’incendie; modifié en dernier lieu par la série d’amendements 03, complément 1, en vigueur dès le 8 octobre 2016 (Add.33 Rév.2 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 35</td><td>Règlement CEE-ONU n<sup>o</sup> 35, du 10 novembre 1975, sur les prescriptions uniformes relatives à l’homologation des véhicules à moteur en ce qui concerne la disposition des pédales de commande; modifié en dernier lieu par le complément 1, en vigueur dès le 10 octobre 2006 (Add.34 Rév.1 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 0[^annex2-lvlu1-lvl1-lvl12-2]</td><td>Règlement CEE-ONU n<sup>o</sup> 0, du 19 juillet 2018, énonçant des prescriptions uniformes concernant un régime d’homologation de type internationale de l’ensemble du véhicule; modifié par la série d’amendements 03, en vigueur dès le 10 juin 2021 (Add.0 Rév.3).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 1[^annex2-lvlu1-lvl1-lvl12-3]</td><td>Règlement CEE-ONU n<sup>o</sup> 1, du 8 août 1960, sur les prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules à moteur, émettant un faisceau-croisement asymétrique et/ou un faisceau-route, et équipés de lampes à incandescence catégorie R2 et/ou HS1; modifié en dernier lieu par la série d’amendements 02, en vigueur dès le 8 septembre 2001 (Add.1 Rév.4 Amend.5).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 3[^annex2-lvlu1-lvl1-lvl12-4]</td><td>Règlement CEE-ONU n<sup>o</sup> 3, du 1<sup>er</sup> novembre 1963, sur les prescriptions uniformes relatives à l’homologation des dispositifs catadioptriques pour véhicules à moteur et leurs remorques; modifié en dernier lieu par la série d’amendements 03, en vigueur dès le 15 octobre 2019 (Add.2 Rév.5).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 4[^annex2-lvlu1-lvl1-lvl12-5]</td><td>Règlement CEE-ONU n<sup>o</sup> 4, du 15 avril 1964, sur les prescriptions uniformes relatives à l’homologation des dispositifs d’éclairage des plaques d’immatriculation arrière des véhicules à moteur et de leurs remorques; modifié en dernier lieu par la série d’amendements 01, en vigueur dès le 15 octobre 2019 (Add.3 Rév.4).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 5[^annex2-lvlu1-lvl1-lvl12-6]</td><td>Règlement CEE-ONU n<sup>o</sup> 5, du 30 septembre 1967, sur les prescriptions uniformes relatives à l’homologation des projecteurs scellés «Sealed-Beam» pour véhicules à moteur émettant un faisceau-croisement asymétrique européen ou un faisceau-route ou les deux faisceaux; modifié en dernier lieu par la série d’amendements 03, en vigueur dès le 10 juin 2014 (Add.4 Rév.5).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 6[^annex2-lvlu1-lvl1-lvl12-7]</td><td>Règlement CEE-ONU n<sup>o</sup> 6, du 15 octobre 1967, sur les prescriptions uniformes relatives à l’homologation des indicateurs de direction des véhicules à moteur et de leurs remorques; modifié en dernier lieu par la série d’amendements 02, en vigueur dès le 15 octobre 2019 (Add.5 Rév.7).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 7[^annex2-lvlu1-lvl1-lvl12-8]</td><td>Règlement CEE-ONU n<sup>o</sup> 7, du 15 octobre 1967, sur les prescriptions uniformes relatives à l’homologation des feux-position (latéraux) avant et arrière, des feux-stop et des feux-encombrement pour véhicules à moteur et de leurs remorques; modifié en dernier lieu par la série d’amendements 03, en vigueur dès le 15 octobre 2019 (Add.6 Rév.7).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 8[^annex2-lvlu1-lvl1-lvl12-9]</td><td>Règlement CEE-ONU n<sup>o</sup> 8, du 15 novembre 1967, sur les prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules à moteur émettant un faisceau-croisement asymétrique et/ou un faisceau-route, et équipés de lampes à incandescence halogènes (H1, H2, H3, HB3, HB4, H7, H8, H9, HIR1, HIR2 et/ou H11); modifié en dernier lieu par la révision 4, rectificatif 1, en vigueur dès le 12 mars 2003 (Add.7 Rév.4 Corr.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 9</td><td>Règlement CEE-ONU n<sup>o</sup> 9, du 26 janvier 1994, sur les prescriptions uniformes relatives à l’homologation des véhicules des catégories L2, L4 et L5 en ce qui concerne les émissions sonores; modifié par la série d’amendements 08, complément 1, en vigueur dès le 25 septembre 2020 (Add.8 Rév.4 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 10[^annex2-lvlu1-lvl1-lvl12-10]</td><td>Règlement CEE-ONU n<sup>o</sup> 10, du 1er avril 1969, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne la compatibilité électromagnétique; modifié en dernier lieu par la série d’amendements 06, complément 1, en vigueur dès le 25 septembre 2020 (Add.9 Rév.6 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 11</td><td>Règlement CEE-ONU n<sup>o</sup> 11, du 1er juin 1969, sur les prescriptions uniformes relatives à l’homologation des véhicules à moteur en ce qui concerne la résistance des serrures et charnières de portes; modifié en dernier lieu par la série d’amendements 04, complément 2, en vigueur dès le 28 mai 2019 (Add.10 Rév.3 Amend.2).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 12[^annex2-lvlu1-lvl1-lvl12-11]</td><td>Règlement CEE-ONU n<sup>o</sup> 12, du 1<sup>er</sup> juillet 1969, sur les prescriptions uniformes relatives à l’homologation des véhicules à moteur en ce qui concerne la protection du conducteur contre le dispositif de conduite en cas de choc; modifié en dernier lieu par la série d’amendements 04, complément 5, en vigueur dès le 19 juillet 2018 (Add.11 Rév.4 Amend.4).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 13[^annex2-lvlu1-lvl1-lvl12-12]</td><td>Règlement CEE-ONU n<sup>o</sup> 13, du 1er juin 1970, sur les prescriptions uniformes relatives à l’homologation des véhicules des catégories M, N et O en ce qui concerne le freinage; modifié en dernier lieu par la série d’amendements 11, complément 18, en vigueur dès le 30 septembre 2021 (Add.12 Rév.8 Amend.8).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 13-H[^annex2-lvlu1-lvl1-lvl12-13]</td><td>Règlement CEE-ONU n<sup>o</sup> 13-H, du 11 mai 1998, sur les prescriptions uniformes relatives à l’homologation des voitures particulières en ce qui concerne le freinage; modifié en dernier lieu par la série d’amendements 01, complément 2, en vigueur dès le 30 septembre 2021 (Add.12H Rév.4 Amend.2)</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 14[^annex2-lvlu1-lvl1-lvl12-14]</td><td>Règlement CEE-ONU n<sup>o</sup> 14, du 1er avril 1970, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne les ancrages de ceintures de sécurité, les ancrages ISOFIX, les ancrages pour fixation supérieure ISOFIX et les positions i-Size; modifié en dernier lieu par la série d’amendements 09, complément 1, en vigueur dès le 3 janvier 2021 (Add.13 Rév.7 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 16[^annex2-lvlu1-lvl1-lvl12-15]</td><td>Règlement CEE-ONU n<sup>o</sup> 16, du 1er décembre 1970, sur les prescriptions uniformes relatives à l’homologation des ceintures de sécurité et systèmes de retenue pour les occupants adultes des véhicules à moteur: I Ceintures de sécurité, systèmes de retenue, dispositifs de retenue pour enfants et dispositifs de retenue pour enfants ISOFIX pour les occupants des véhicules à moteur; II Véhicules équipés de ceintures de sécurité, témoins de port de ceinture, systèmes de retenue, dispositifs de retenue pour enfants, dispositifs de retenue pour enfants ISOFIX et dispositifs de retenue pour enfants i-Size; modifié en dernier lieu par la série d’amendements 08, complément 2, en vigueur dès le 9 juin 2021 (Add.15 Rév.10 Amend.2).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 17[^annex2-lvlu1-lvl1-lvl12-16]</td><td>Règlement CEE-ONU n<sup>o</sup> 17, du 1er décembre 1970, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne les sièges, leur ancrage et les appuie-tête; modifié en dernier lieu par la série d’amendements 10, en vigueur dès le 9 juin 2021 (Add.16 Rév.7).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 18</td><td>Règlement CEE-ONU n<sup>o</sup> 18, du 1er mars 1971, sur les prescriptions uniformes relatives à l’homologation des véhicules à moteur en ce qui concerne leur protection contre une utilisation non autorisée; modifié en dernier lieu par la série d’amendements 03, complément 4, en vigueur dès le 30 septembre 2021 (Add.17 Rév.3 Amend.4).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 19[^annex2-lvlu1-lvl1-lvl12-17]</td><td>Règlement CEE-ONU n<sup>o</sup> 19, du 1er mars 1971, sur les prescriptions uniformes relatives à l’homologation des feux-brouillard avant pour véhicules à moteur; modifié en dernier lieu par la série d’amendements 05, en vigueur dès le 15 octobre 2019 (Add.18 Rév.8).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 20[^annex2-lvlu1-lvl1-lvl12-18]</td><td>Règlement CEE-ONU n<sup>o</sup> 20, du 1<sup>er</sup> mai 1971, sur les prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules à moteur émettant un faisceau-croisement asymétrique et/ou un faisceau-route, et équipés de lampes halogènes à incandescence (lampes H4); modifié en dernier lieu par la série d’amendements 03, en vigueur dès le 9 septembre 2001 (Add.19 Rév.3).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 21[^annex2-lvlu1-lvl1-lvl12-19]</td><td>Règlement CEE-ONU n<sup>o</sup> 21, du 1er décembre 1971, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne leur aménagement intérieur; modifié en dernier lieu par la série d’amendements 01, complément 4, en vigueur dès le 29 mai 2020 (Add.20 Rév.2 Amend.3).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 22[^annex2-lvlu1-lvl1-lvl12-20]</td><td>Règlement CEE-ONU n<sup>o</sup> 22, du 1er juin 1972, concernant les prescriptions uniformes relatives à l’homologation des casques de protection et de leurs écrans pour conducteurs et passagers de motocycles et de cyclomoteurs; modifié en dernier lieu par la série d’amendements 06, en vigueur dès le 3 janvier 2021 (Add.21 Rév.5).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 23[^annex2-lvlu1-lvl1-lvl12-21]</td><td>Règlement CEE-ONU n<sup>o</sup> 23, du 1er décembre 1971, sur les prescriptions uniformes relatives à l’homologation des feux-marche arrière et feux de manœuvre pour véhicules à moteur et pour leurs remorques; modifié en dernier lieu par la série d’amendements 01, en vigueur dès le 15 octobre 2019 (Add.22 Rév.5).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 24[^annex2-lvlu1-lvl1-lvl12-22]</td><td>Règlement CEE-ONU n<sup>o</sup> 24, du 1er décembre 1971, sur les prescriptions uniformes relatives: I à l’homologation des moteurs à allumage par compression (APC) en ce qui concerne les émissions de polluants visibles; II à l’homologation des véhicules à moteur en ce qui concerne l’installation d’un moteur APC d’un type homologué; III à l’homologation des véhicules à moteur équipés d’un moteur APC en ce qui concerne les émissions de polluant visibles du moteur; IV à la mesure de la puissance des moteurs APC; modifié en dernier lieu par la série d’amendements 03, complément 5, en vigueur dès le 11 janvier 2020 (Add.23 Rév.2 Amend.5).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 25[^annex2-lvlu1-lvl1-lvl12-23]</td><td>Règlement CEE-ONU n<sup>o</sup> 25, du 1er mars 1972, sur les prescriptions uniformes relatives à l’homologation des appuie-tête incorporés ou non dans les sièges des véhicules; modifié en dernier lieu par la série d’amendements 04, complément 1, en vigueur dès le 15 juin 2015 (Add.24 Rév.1 Amend.3).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 26</td><td>Règlement CEE-ONU n<sup>o</sup> 26, du 1er juillet 1972, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne leurs saillies extérieures; modifié en dernier lieu par la série d’amendements 04, en vigueur dès le 25 septembre 2020 (Add.25 Rév.2).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 27[^annex2-lvlu1-lvl1-lvl12-24]</td><td>Règlement CEE-ONU n<sup>o</sup> 27, du 15 septembre 1972, sur les prescriptions uniformes relatives à l’homologation des triangles de présignalisation; modifié en dernier lieu par la série d’amendements 05, en vigueur dès le 15 octobre 2019 (Add.26 Rév.2 Amend.2).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 28[^annex2-lvlu1-lvl1-lvl12-25]</td><td>Règlement CEE-ONU n<sup>o</sup> 28, du 15 janvier 1973, sur les prescriptions uniformes relatives à l’homologation des avertisseurs sonores et des véhicules à moteur en ce qui concerne leur signalisation sonore; modifié en dernier lieu par le complément 6, en vigueur dès le 25 septembre 2020 (Add.27 Amend.6).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 29[^annex2-lvlu1-lvl1-lvl12-26]</td><td>Règlement CEE-ONU n<sup>o</sup> 29, du 15 juin 1974, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne la protection des occupants d’une cabine de véhicule utilitaire; modifié en dernier lieu par la série d’amendements 03, complément 5, en vigueur dès le 29 mai 2020 (Add.28 Rév.2 Amend.5).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 30[^annex2-lvlu1-lvl1-lvl12-27]</td><td>Règlement CEE-ONU n<sup>o</sup> 30, du 1er avril 1974, sur les prescriptions uniformes relatives à l’homologation des pneumatiques pour les véhicules à moteur et leurs remorques; modifié en dernier lieu par la série d’amendements 02, complément 23, en vigueur dès le 30 septembre 2021 (Add.29 Rév.3 Amend.9).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 31[^annex2-lvlu1-lvl1-lvl12-28]</td><td>Règlement CEE-ONU n<sup>o</sup> 31, du 1<sup>er</sup> mai 1975, sur les prescriptions uniformes relatives à l’homologation des projecteurs scellés halogènes pour véhicules à moteur émettant un faisceau de croisement asymétrique européen ou un faisceau de route, ou les deux à la fois; modifié en dernier lieu par la série d’amendements 03, en vigueur dès le 10 juin 2014 (Add.30 Rév.3).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 32[^annex2-lvlu1-lvl1-lvl12-29]</td><td>Règlement CEE-ONU n<sup>o</sup> 32, du 1<sup>er</sup> juillet 1975, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne le comportement de la structure du véhicule heurté en cas de collision par l’arrière; modifié en dernier lieu par la révision 1, rectificatif 1, en vigueur dès le 24 juin 2009 (Add.24 Rév.1 Corr.2).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 33[^annex2-lvlu1-lvl1-lvl12-30]</td><td>Règlement CEE-ONU n<sup>o</sup> 33, du 1<sup>er</sup> juillet 1975, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne le comportement de la structure du véhicule heurté en cas de collision frontale; modifié en dernier lieu par la révision 1, rectificatif 1, en vigueur dès le 24 juin 2009 (Add.32 Rév.1 Corr.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 34</td><td>Règlement CEE-ONU n<sup>o</sup> 34, du 1er juillet 1975, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne la prévention des risques d’incendie; modifié en dernier lieu par la série d’amendements 03, complément 2, en vigueur dès le 25 mai 2019 (Add.33 Rév.2 Amend.5).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 35</td><td>Règlement CEE-ONU n<sup>o</sup> 35, du 10 novembre 1975, sur les prescriptions uniformes relatives à l’homologation des véhicules à moteur en ce qui concerne la disposition des pédales de commande; modifié en dernier lieu par la série d’amendements 01, en vigueur dès le 9 juin 2021 (Add.34 Rév.2).</td></tr>
 <tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 36</td><td>Règlement CEE-ONU n<sup>o</sup> 36, du 1<sup>er</sup> mars 1976, sur les prescriptions uniformes relatives à l’homologation des véhicules de transport en commun de grandes dimensions en ce qui concerne leurs caractéristiques générales de construction; modifié en dernier lieu par la série d’amendements 03, complément 12, en vigueur dès le 10 novembre 2007 (Add.35 Rév.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 37[^annex2-lvlu1-lvl1-lvl12-30]</td><td>Règlement CEE-ONU n<sup>o</sup> 37, du 1<sup>er</sup> février 1978, sur les prescriptions uniformes relatives à l’homologation des lampes à incandescence utilisées dans les projecteurs homologués pour les véhicules à moteur et leurs remorques; modifié en dernier lieu par la série d’amendements 03, complément 45, en vigueur dès le 22 juin 2017 (Add.36 Rév.7 Amend.8).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 38[^annex2-lvlu1-lvl1-lvl12-31]</td><td>Règlement CEE-ONU n<sup>o</sup> 38, du 1<sup>er</sup> août 1978, sur les prescriptions uniformes relatives à l’homologation des feux-brouillard arrière pour les véhicules à moteur et leurs remorques; modifié en dernier lieu par le complément 19, en vigueur dès le 10 février 2018 (Add.37 Rév.3 Amend.3).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 37[^annex2-lvlu1-lvl1-lvl12-31]</td><td>Règlement CEE-ONU n<sup>o</sup> 37, du 1er février 1978, sur les prescriptions uniformes relatives à l’homologation des lampes à incandescence utilisées dans les projecteurs homologués pour les véhicules à moteur et leurs remorques; modifié en dernier lieu par la série d’amendements 03, complément 47, en vigueur dès le 28 mai 2019 (Add.36 Rév.7 Amend.10).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 38[^annex2-lvlu1-lvl1-lvl12-32]</td><td>Règlement CEE-ONU n<sup>o</sup> 38, du 1er août 1978, sur les prescriptions uniformes relatives à l’homologation des feux-brouillard arrière pour les véhicules à moteur et leurs remorques; modifié en dernier lieu par la série d’amendements 01, en vigueur dès le 15 octobre 2019 (Add.37 Rév.3 Amend.4).</td></tr>
 <tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 39</td><td>Règlement CEE-ONU n<sup>o</sup> 39, du 20 novembre 1978, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne l’appareil indicateur de vitesse, y compris son installation; modifié en dernier lieu par la série d’amendements 01, complément 1, en vigueur dès le 10 octobre 2017 (Add.38 Rév.2 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 41</td><td>Règlement CEE-ONU n<sup>o</sup> 41, du 1<sup>er</sup> juin 1980, sur les prescriptions uniformes relatives à l’homologation des motocycles en ce qui concerne le bruit; modifié en dernier lieu par la série d’amendements 04, complément 5, en vigueur dès le 9 février 2017 (Add.40 Rév.2 Amend.5).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 42</td><td>Règlement CEE-ONU n<sup>o</sup> 42, du 1<sup>er</sup> juin 1980, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne leurs dispositifs de protection (pare-chocs, etc.) à l’avant et à l’arrière de ces véhicules; modifié en dernier lieu par le complément 1, en vigueur dès le 12 juin 2007 (Add.41 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 43</td><td>Règlement CEE-ONU n<sup>o</sup> 43, du 15 février 1981, sur les prescriptions uniformes relatives à l’homologation des vitrages de sécurité et de l’installation de ces vitrages sur les véhicules; modifié en dernier lieu par la série d’amendements 01, complément 6, en vigueur dès le 19 juillet 2018 (Add.42 Rév.4 Amend.2).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 44[^annex2-lvlu1-lvl1-lvl12-32]</td><td>Règlement CEE-ONU n<sup>o</sup> 44, du 1<sup>er</sup> février 1981, sur les prescriptions uniformes relatives à l’homologation des dispositifs de retenue pour enfants à bord des véhicules à moteur; modifié par la série d’amendements 03, en vigueur dès le 12 septembre 1995 (Add.43 Rév.1), inclus tous les amendements suivants jusque-là: – série d’amendements 04, complément 13, en vigueur dès le 19 juillet 2018 (Add.43 Rév.3 Amend.6).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 41</td><td>Règlement CEE-ONU n<sup>o</sup> 41, du 1er juin 1980, sur les prescriptions uniformes relatives à l’homologation des motocycles en ce qui concerne le bruit; modifié en dernier lieu par la série d’amendements 05, en vigueur dès le 30 septembre 2021 (Add.40 Rév.3).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 42</td><td>Règlement CEE-ONU n<sup>o</sup> 42, du 1er juin 1980, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne leurs dispositifs de protection (pare-chocs, etc.) à l’avant et à l’arrière de ces véhicules; modifié en dernier lieu par le complément 2, en vigueur dès le 3 janvier 2021 (Add.41 Amend.2).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 43</td><td>Règlement CEE-ONU n<sup>o</sup> 43, du 15 février 1981, sur les prescriptions uniformes relatives à l’homologation des vitrages de sécurité et de l’installation de ces vitrages sur les véhicules; modifié en dernier lieu par la série d’amendements 01, complément 9, en vigueur dès le 29 mai 2020 (Add.42 Rév.4 Amend.5).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 44[^annex2-lvlu1-lvl1-lvl12-33]</td><td>Règlement CEE-ONU n<sup>o</sup> 44, du 1<sup>er</sup> février 1981, sur les prescriptions uniformes relatives à l’homologation des dispositifs de retenue pour enfants à bord des véhicules à moteur; modifié par la série d’amendements 03, en vigueur dès le 12 septembre 1995 (Add.43 Rév.1), inclus tous les amendements suivants jusque-là: – série d’amendements 04, complément 18, en vigueur dès le 9 juin 2021 (Add.43 Rév.3 Amend.11).</td></tr>
 <tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 45</td><td>Règlement CEE-ONU n<sup>o</sup> 45, du 1<sup>er</sup> juillet 1981, sur les prescriptions uniformes relatives à l’homologation des nettoie-projecteurs et des véhicules à moteur en ce qui concerne les nettoie-projecteurs; modifié en dernier lieu par la série d’amendements 01, complément 11, en vigueur dès le 10 octobre 2017 (Add.44 Rév.2 Amend.5).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 46</td><td>Règlement CEE-ONU n<sup>o</sup> 46, du 1<sup>er</sup> septembre 1981, sur les prescriptions uniformes relatives à l’homologation des systèmes de vision indirecte, et des véhicules à moteur en ce qui concerne le montage de ces systèmes; modifié en dernier lieu par la série d’amendements 04, complément 5, en vigueur dès le 19 juillet 2018 (Add.45 Rév.6 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 48</td><td>Règlement CEE-ONU n<sup>o</sup> 48, du 1<sup>er</sup> janvier 1982, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne l’installation des dispositifs d’éclairage et de signalisation lumineuse; modifié en dernier lieu par la série d’amendements 06, complément 10, en vigueur dès le 19 juillet 2018 (Add.47 Rév.12 Amend.6).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 49[^annex2-lvlu1-lvl1-lvl12-33]</td><td>Règlement CEE-ONU n<sup>o</sup> 49, du 15 avril 1982, sur les prescriptions uniformes concernant les mesures à prendre pour réduire les émissions de gaz polluants et de particules émises par les moteurs à allumage par compression utilisés pour la propulsion des véhicules et les émissions de gaz polluants émises par les moteurs à allumage commandé fonctionnant au gaz naturel ou au gaz de pétrole liquéfié utilisés pour la propulsion des véhicules; modifié en dernier lieu par la série d’amendements 06, complément 5, en vigueur dès le 19 juillet 2018 (Add.48 Rév.6 Amend.5).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 50[^annex2-lvlu1-lvl1-lvl12-34]</td><td>Règlement CEE-ONU n<sup>o</sup> 50, du 1<sup>er</sup> juin 1982, concernant les prescriptions uniformes relatives à l’homologation des feux-position, des feux-arrière, des feux-stop, des indicateurs de direction et des dispositifs d’éclairage de la plaque d’immatriculation arrière pour véhicules de la catégorie L; modifié en dernier lieu par le complément 20, en vigueur dès le 10 février 2018 (Add.49 Rév.3 Amend.4).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 51[^annex2-lvlu1-lvl1-lvl12-35]</td><td>Règlement CEE-ONU n<sup>o</sup> 51, du 15 juillet 1982, sur les prescriptions uniformes relatives à l’homologation des véhicules à moteur ayant au moins quatre roues, en ce qui concerne les émissions sonores; modifié en dernier lieu par la série d’amendements 03, complément 2, en vigueur dès le 10 février 2018 (Add.50 Rév.3 Amend.2).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 46</td><td>Règlement CEE-ONU n<sup>o</sup> 46, du 1er septembre 1981, sur les prescriptions uniformes relatives à l’homologation des systèmes de vision indirecte, et des véhicules à moteur en ce qui concerne le montage de ces systèmes; modifié en dernier lieu par la série d’amendements 04, complément 9, en vigueur dès le 30 septembre 2021 (Add.45 Rév.6 Amend.7).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 48</td><td>Règlement CEE-ONU n<sup>o</sup> 48, du 1er janvier 1982, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne l’installation des dispositifs d’éclairage et de signalisation lumineuse; modifié en dernier lieu par la série d’amendements 07, complément 1, en vigueur dès le 30 septembre 2021 (Add.47 Rév.13 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 49[^annex2-lvlu1-lvl1-lvl12-34]</td><td>Règlement CEE-ONU n<sup>o</sup> 49, du 15 avril 1982, sur les prescriptions uniformes concernant les mesures à prendre pour réduire les émissions de gaz polluants et de particules émises par les moteurs à allumage par compression utilisés pour la propulsion des véhicules et les émissions de gaz polluants émises par les moteurs à allumage commandé fonctionnant au gaz naturel ou au gaz de pétrole liquéfié utilisés pour la propulsion des véhicules; modifié en dernier lieu par la série d’amendements 06, complément 6, en vigueur dès le 29 décembre 2018 (Add.48 Rév.6 Amend.6).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 50[^annex2-lvlu1-lvl1-lvl12-35]</td><td>Règlement CEE-ONU n<sup>o</sup> 50, du 1er juin 1982, concernant les prescriptions uniformes relatives à l’homologation des feux-position, des feux-arrière, des feux-stop, des indicateurs de direction et des dispositifs d’éclairage de la plaque d’immatriculation arrière pour véhicules de la catégorie L; modifié en dernier lieu par la série d’amendements 01, en vigueur dès le 15 octobre 2019 (Add.49 Rév.3 Amend.5).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 51[^annex2-lvlu1-lvl1-lvl12-36]</td><td>Règlement CEE-ONU n<sup>o</sup> 51, du 15 juillet 1982, sur les prescriptions uniformes relatives à l’homologation des véhicules à moteur ayant au moins quatre roues, en ce qui concerne les émissions sonores; modifié en dernier lieu par la série d’amendements 03, complément 6, en vigueur dès le 25 septembre 2020 (Add.50 Rév.3 Amend.6).</td></tr>
 <tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 52</td><td>Règlement CEE-ONU n<sup>o</sup> 52, du 1<sup>er</sup> novembre 1982, sur les prescriptions uniformes relatives aux caractéristiques de construction des minibus et des autocars (M<sub>2</sub>, M<sub>3</sub>) destinés au trafic de ligne de faible capacité (23 places conducteur compris); modifié en dernier lieu par la série d’amendements 01, complément 9, en vigueur dès le 10 novembre 2007 (Add.51 Rév.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n° 53</td><td>Règlement CEE-ONU n<sup>o</sup> 53, du 1<sup>er</sup> février 1983, concernant les prescriptions uniformes relatives à l’homologation des véhicules de la catégorie L<sub>3</sub> (motocycles) en ce qui concerne l’installation des dispositifs d’éclairage et de signalisation lumineuse; modifié en dernier lieu par la série d’amendements 02, complément 1, en vigueur dès le 22 juin 2017 (Add.52 Rév.4 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 54[^annex2-lvlu1-lvl1-lvl12-36]</td><td>Règlement CEE-ONU n<sup>o</sup> 54, du 1<sup>er</sup> mars 1983, sur les prescriptions uniformes relatives à l’homologation des pneumatiques pour véhicules utilitaires et leurs remorques; modifié en dernier lieu par le complément 22, en vigueur dès le 10 février 2018 (Add.53 Rév.3 Amend.4).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n° 55[^annex2-lvlu1-lvl1-lvl12-37]</td><td>Règlement CEE-ONU n<sup>o</sup> 55, du 1<sup>er</sup> mars 1983, sur les prescriptions uniformes relatives à l’homologation des pièces mécaniques d’attelage des ensembles de véhicules; modifié en dernier lieu par la série d’amendements 01, complément 7, en vigueur dès le 10 février 2018 (Add.54 Rév.2 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 56[^annex2-lvlu1-lvl1-lvl12-38]</td><td>Règlement CEE-ONU n<sup>o</sup> 56, du 15 juin 1983, concernant les prescriptions uniformes relatives à l’homologation des projecteurs pour cyclomoteurs et véhicules y assimilés; modifié en dernier lieu par la série d’amendements 01, en vigueur dès le 12 septembre 2001 (Add.55 Rév.1 Amend.2).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 57[^annex2-lvlu1-lvl1-lvl12-39]</td><td>Règlement CEE-ONU n<sup>o</sup> 57, du 15 juin 1983, concernant les prescriptions uniformes relatives à l’homologation des projecteurs pour motocycles et véhicules y assimilés; modifié en dernier lieu par la série d’amendements 02, en vigueur dès le 12 septembre 2001 (Add.56 Rév.1 Amend.2).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 58[^annex2-lvlu1-lvl1-lvl12-40]</td><td>Règlement CEE-ONU n<sup>o</sup> 58, du 1<sup>er</sup> juillet 1983, sur les prescriptions uniformes relatives à l’homologation: I des dispositifs arrière de protection anti-encastrement; II des véhicules en ce qui concerne le montage d’un dispositif arrière de protection anti-encastrement d’un type homologué; III des véhicules en ce qui concerne leur protection contre l’encastrement à l’arrière; modifié en dernier lieu par la série d’amendements 03, en vigueur dès le 18 juin 2016 (Add.57 Rév.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 59</td><td>Règlement CEE-ONU n<sup>o</sup> 59, du 1<sup>er</sup> octobre 1983, sur les prescriptions uniformes relatives à l’homologation des dispositifs silencieux d’échappement de remplacement des véhicules des catégories M<sub>1</sub> et N<sub>1;</sub> modifié en dernier lieu par la série d’amendements 02, complément 1, en vigueur dès le 20 janvier 2016 (Add.58 Rév.2 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 53</td><td>Règlement CEE-ONU n<sup>o</sup> 53, du 1<sup>er</sup> février 1983, concernant les prescriptions uniformes relatives à l’homologation des véhicules de la catégorie L<sub>3</sub> (motocycles) en ce qui concerne l’installation des dispositifs d’éclairage et de signalisation lumineuse; modifié en dernier lieu par la série d’amendements 03, complément 1, en vigueur dès 30 septembre 2021 (Add.52 Rév.5 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 54[^annex2-lvlu1-lvl1-lvl12-37]</td><td>Règlement CEE-ONU n<sup>o</sup> 54, du 1<sup>er</sup> mars 1983, sur les prescriptions uniformes relatives à l’homologation des pneumatiques pour véhicules utilitaires et leurs remorques; modifié en dernier lieu par le complément 24, en vigueur dès le 30 septembre 2021 (Add.53 Rév.3 Amend.6).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 55[^annex2-lvlu1-lvl1-lvl12-38]</td><td>Règlement CEE-ONU n<sup>o</sup> 55, du 1<sup>er</sup> mars 1983, sur les prescriptions uniformes relatives à l’homologation des pièces mécaniques d’attelage des ensembles de véhicules; modifié en dernier lieu par la série d’amendements 02, complément 1, en vigueur dès le 9 juin 2021 (Add.54 Rév.3 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 56[^annex2-lvlu1-lvl1-lvl12-39]</td><td>Règlement CEE-ONU n<sup>o</sup> 56, du 15 juin 1983, concernant les prescriptions uniformes relatives à l’homologation des projecteurs pour cyclomoteurs et véhicules y assimilés; modifié en dernier lieu par la série d’amendements 01, en vigueur dès le 12 septembre 2001 (Add.55 Rév.1 Amend.2).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 57[^annex2-lvlu1-lvl1-lvl12-40]</td><td>Règlement CEE-ONU n<sup>o</sup> 57, du 15 juin 1983, concernant les prescriptions uniformes relatives à l’homologation des projecteurs pour motocycles et véhicules y assimilés; modifié en dernier lieu par la série d’amendements 02, en vigueur dès le 12 septembre 2001 (Add.56 Rév.1 Amend.2).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 58[^annex2-lvlu1-lvl1-lvl12-41]</td><td>Règlement CEE-ONU n<sup>o</sup> 58, du 1<sup>er</sup> juillet 1983, sur les prescriptions uniformes relatives à l’homologation: I des dispositifs arrière de protection anti-encastrement; II des véhicules en ce qui concerne le montage d’un dispositif arrière de protection anti-encastrement d’un type homologué; III des véhicules en ce qui concerne leur protection contre l’encastrement à l’arrière; modifié en dernier lieu par la série d’amendements 03, complément 2, en vigueur dès le 25 septembre 2020 (Add.57 Rév.3 Amend.2).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 59</td><td>Règlement CEE-ONU n<sup>o</sup> 59, du 1er octobre 1983, sur les prescriptions uniformes relatives à l’homologation des dispositifs silencieux d’échappement de remplacement des véhicules des catégories M1 et N1; modifié en dernier lieu par la série d’amendements 03, en vigueur dès le 25 septembre 2020 (Add.58 Rév.3).</td></tr>
 <tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 60</td><td>Règlement CEE-ONU n<sup>o</sup> 60, du 1<sup>er</sup> juillet 1984, concernant les prescriptions uniformes relatives à l’homologation des motocycles et des cyclomoteurs (à deux roues) en ce qui concerne les commandes actionnées par le conducteur, y compris l’identification des commandes, témoins et indicateurs; modifié en dernier lieu par le complément 5, en vigueur dès le 9 février 2017 (Add.59 Rév.1 Amend.1).</td></tr>
 <tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 61</td><td>Règlement CEE-ONU n<sup>o</sup> 61, du 15 juillet 1984, sur les prescriptions uniformes relatives à l’homologation des véhicules utilitaires en ce qui concerne leurs saillies extérieures à l’avant de la cloison postérieure de la cabine; modifié en dernier lieu par le complément 3, en vigueur dès le 18 juin 2016 (Add.60 Rév.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 62</td><td>Règlement CEE-ONU n<sup>o</sup> 62, du 1<sup>er</sup> septembre 1984, concernant les prescriptions uniformes relatives à l’homologation des véhicules à moteur à guidon en ce qui concerne leur protection contre une utilisation non autorisée; modifié en dernier lieu par le complément 2, en vigueur dès le 10 octobre 2006 (Add.61 Rév.2).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 63</td><td>Règlement CEE-ONU no 63, du 15 août 1985, sur les prescriptions uniformes relatives à l’homologation des cyclomoteurs et motocycles légers à deux roues en ce qui concerne le bruit; modifié par la série d’amendements 02, complément 3, en vigueur dès le 10 octobre 2017 (Add. 62 Rév. 1 Amend. 3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 64</td><td>Règlement CEE-ONU n<sup>o</sup> 64, du 1<sup>er</sup> octobre 1985, sur les prescriptions uniformes relatives à l’homologation des véhicules munis de roues et pneumatiques de secours à usage temporaire; modifié en dernier lieu par la série d’amendements 03, en vigueur dès le 9 février (Add.63 Rév.1 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 65[^annex2-lvlu1-lvl1-lvl12-41]</td><td>Règlement CEE-ONU n<sup>o</sup> 65, du 15 juin 1986, sur les prescriptions uniformes relatives à l’homologation des feux spéciaux d’avertissement pour véhicules à moteur; modifié en dernier lieu par le complément 10, en vigueur dès le 10 octobre 2017 (Add.64 Rév.2 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 66[^annex2-lvlu1-lvl1-lvl12-42]</td><td>Règlement CEE-ONU n<sup>o</sup> 66, du 1<sup>er</sup> décembre 1986, sur les prescriptions uniformes relatives à l’homologation des autocars en ce qui concerne la résistance mécanique de leur superstructure; modifié en dernier lieu par la série d’amendements 02, en vigueur dès le 19 août 2010 (Add.65 Rév.1 Amend.2).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 67</td><td>Règlement CEE-ONU n<sup>o</sup> 67, du 1<sup>er</sup> juin 1987, sur les prescriptions uniformes relatives à l’homologation: I des équipements spéciaux pour l’alimentation du moteur aux gaz de pétrole liquéfiés sur les véhicules des catégories M et N; II des véhicules des catégories M et N munis d’un équipement spécial pour l’alimentation du moteur aux gaz de pétrole liquéfiés en ce qui concerne l’installation de cet équipement; modifié par la série d’amendements 01, en vigueur dès le 13 novembre 1999 (Add.66 Rév.1), inclus tous les amendements suivants jusque-là: – série d’amendements 01, complément 14, en vigueur dès le 9 octobre 2014 (Add.66 Rév.4).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 69[^annex2-lvlu1-lvl1-lvl12-43]</td><td>Règlement CEE-ONU n<sup>o</sup> 69, du 15 mai 1987, sur les prescriptions uniformes relatives à l’homologation des plaques d’identification arrière pour véhicules à moteur lents (par construction) et leurs remorques; modifié en dernier lieu par la série d’amendements 01, complément 6, en vigueur dès le 10 octobre 2017 (Add.68 Rév.1 Amend.2).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 70[^annex2-lvlu1-lvl1-lvl12-44]</td><td>Règlement CEE-ONU n<sup>o</sup> 70, du 15 mai 1987, sur les prescriptions uniformes relatives à l’homologation des plaques d’identification arrière pour véhicules lourds et longs; modifié en dernier lieu par la série d’amendements 01, complément 10, en vigueur dès le 10 octobre 2017 (Add.69 Rév.1 Amend.4).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 62</td><td>Règlement CEE-ONU n<sup>o</sup> 62, du 1er septembre 1984, concernant les prescriptions uniformes relatives à l’homologation des véhicules à moteur à guidon en ce qui concerne leur protection contre une utilisation non autorisée; modifié en dernier lieu par la série d’amendements 01, en vigueur dès le 25 septembre 2020 (Add.61 Rév.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 63</td><td>Règlement CEE-ONU n<sup>o</sup> 63, du 15 août 1985, sur les prescriptions uniformes relatives à l’homologation des cyclomoteurs et motocycles légers à deux roues en ce qui concerne le bruit; modifié par la série d’amendements 02, complément 4, en vigueur dès le 29 décembre 2018 (Add.62 Rév.1 Amend.4).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 64</td><td>Règlement CEE-ONU n<sup>o</sup> 64, du 1er octobre 1985, sur les prescriptions uniformes relatives à l’homologation des véhicules munis de roues et pneumatiques de secours à usage temporaire; modifié en dernier lieu par la série d’amendements 03, complément 1, en vigueur dès le 11 janvier 2020 (Add.63 Rév.2 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 65[^annex2-lvlu1-lvl1-lvl12-42]</td><td>Règlement CEE-ONU n<sup>o</sup> 65, du 15 juin 1986, sur les prescriptions uniformes relatives à l’homologation des feux spéciaux d’avertissement pour véhicules à moteur; modifié en dernier lieu par le complément 11, en vigueur dès le 30 septembre 2021 (Add.64 Rév.2 Amend.4).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 66[^annex2-lvlu1-lvl1-lvl12-43]</td><td>Règlement CEE-ONU n<sup>o</sup> 66, du 1<sup>er</sup> décembre 1986, sur les prescriptions uniformes relatives à l’homologation des autocars en ce qui concerne la résistance mécanique de leur superstructure; modifié en dernier lieu par la série d’amendements 02, en vigueur dès le 19 août 2010 (Add.65 Rév.1 Amend.2).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 67</td><td>Règlement CEE-ONU n<sup>o</sup> 67, du 1er juin 1987, sur les prescriptions uniformes relatives à l’homologation: I des équipements spéciaux pour l’alimentation du moteur aux gaz de pétrole liquéfiés sur les véhicules des catégories M et N; II des véhicules des catégories M et N munis d’un équipement spécial pour l’alimentation du moteur aux gaz de pétrole liquéfiés en ce qui concerne l’installation de cet équipement; modifié par la série d’amendements 01, en vigueur dès le 13 novembre 1999 (Add.66 Rév.1), inclus tous les amendements suivants jusque-là: – série d’amendements 03, complément 1, en vigueur dès le 30 septembre 2021 (Add.66 Rév.6 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 69[^annex2-lvlu1-lvl1-lvl12-44]</td><td>Règlement CEE-ONU n<sup>o</sup> 69, du 15 mai 1987, sur les prescriptions uniformes relatives à l’homologation des plaques d’identification arrière pour véhicules à moteur lents (par construction) et leurs remorques; modifié en dernier lieu par la série d’amendements 02, en vigueur dès le 15 octobre 2019 (Add.68 Rév.1 Amend.3).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 70[^annex2-lvlu1-lvl1-lvl12-45]</td><td>Règlement CEE-ONU n<sup>o</sup> 70, du 15 mai 1987, sur les prescriptions uniformes relatives à l’homologation des plaques d’identification arrière pour véhicules lourds et longs; modifié en dernier lieu par la série d’amendements 02, en vigueur dès le 15 octobre 2019 (Add.69 Rév.1 Amend.5).</td></tr>
 <tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 71</td><td>Règlement CEE-ONU n<sup>o</sup> 71, du 1<sup>er</sup> août 1987, sur les prescriptions uniformes relatives à l’homologation des tracteurs agricoles en ce qui concerne le champ de vision du conducteur (Add.70).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 72[^annex2-lvlu1-lvl1-lvl12-45]</td><td>Règlement CEE-ONU n<sup>o</sup> 72, du 15 février 1988, concernant les prescriptions uniformes relatives à l’homologation des projecteurs pour motocycles émettant un faisceau-croisement asymétrique et un faisceau-route, et équipés de lampes halogènes (lampes HS1); modifié en dernier lieu par la série d’amendements 01, en vigueur dès le 12 septembre 2001 (Add.71 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 73[^annex2-lvlu1-lvl1-lvl12-46]</td><td>Règlement CEE-ONU n<sup>o</sup> 73, du 1<sup>er</sup> janvier 1988, sur les prescriptions uniformes relatives à l’homologation des véhicules utilitaires, des remorques et des semi-remorques, en ce qui concerne leur protection latérale (dispositifs de protection latérale); modifié en dernier lieu par la série d’amendements 01, complément 1, en vigueur dès le 10 octobre 2017 (Add.72 Rév.1 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 74</td><td>Règlement CEE-ONU n<sup>o</sup> 74, du 15 juin 1988, sur les prescriptions uniformes relatives à l’homologation des cyclomoteurs en ce qui concerne l’installation des dispositifs d’éclairage et de signalisation lumineuse; modifié en dernier lieu par la série d’amendements 01, complément 9, en vigueur dès le 18 juin 2016 (Add.73 Rév.2 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 75</td><td>Règlement CEE-ONU n<sup>o</sup> 75, du 1<sup>er</sup> avril 1988, concernant les prescriptions uniformes relatives à l’homologation des pneumatiques pour motocycles; modifié en dernier lieu par le complément 17, en vigueur dès le 10 octobre 2017 (Add.74 Rév.2 Amend.4).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 76[^annex2-lvlu1-lvl1-lvl12-47]</td><td>Règlement CEE-ONU n<sup>o</sup> 76, du 1er juillet 1988, sur les prescriptions uniformes relatives à l’homologation des projecteurs pour cyclomoteurs émettant un faisceau-croisement et un faisceau-route; modifié en dernier lieu par la série d’amendements 01, en vigueur dès le 12 septembre 2001 (Add.75 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 77[^annex2-lvlu1-lvl1-lvl12-48]</td><td>Règlement CEE-ONU n<sup>o</sup> 77, du 30 septembre 1988, sur les prescriptions uniformes relatives à l’homologation des feux de stationnement pour les véhicules à moteur; modifié en dernier lieu par le complément 18, en vigueur dès le 10 février 2018 (Add.76 Rév.3 Amend.2).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 78</td><td>Règlement CEE-ONU n<sup>o</sup> 78, du 15 octobre 1988, concernant les prescriptions uniformes relatives à l’homologation des véhicules de la catégorie L en ce qui concerne le freinage; modifié en dernier lieu par la série d’amendements 04, en vigueur dès le 22 juin 2017 (Add.77 Rév.1 Amend.4).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 79[^annex2-lvlu1-lvl1-lvl12-49]</td><td>Règlement CEE-ONU n<sup>o</sup> 79, du 1<sup>er</sup> décembre 1988, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne l’équipement de direction; modifié en dernier lieu par la série d’amendements 02, en vigueur dès le 10 octobre 2017 (Add.78 Rév.2 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 80[^annex2-lvlu1-lvl1-lvl12-50]</td><td>Règlement CEE-ONU n<sup>o</sup> 80, du 23 février 1989, sur les prescriptions uniformes relatives à l’homologation des sièges des autocars et de ces véhicules en ce qui concerne la résistance des sièges et de leurs ancrages; modifié en dernier lieu par la série d’amendements 03, complément 3, en vigueur dès le 10 février 2018 (Add.79 Rév.2 Amend.3).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 72[^annex2-lvlu1-lvl1-lvl12-46]</td><td>Règlement CEE-ONU n<sup>o</sup> 72, du 15 février 1988, concernant les prescriptions uniformes relatives à l’homologation des projecteurs pour motocycles émettant un faisceau-croisement asymétrique et un faisceau-route, et équipés de lampes halogènes (lampes HS1); modifié en dernier lieu par la série d’amendements 01, en vigueur dès le 12 septembre 2001 (Add.71 Amend.3).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 73[^annex2-lvlu1-lvl1-lvl12-47]</td><td>Règlement CEE-ONU n<sup>o</sup> 73, du 1er janvier 1988, sur les prescriptions uniformes relatives à l’homologation des véhicules utilitaires, des remorques et des semi-remorques, en ce qui concerne leur protection latérale (dispositifs de protection latérale); modifié en dernier lieu par la série d’amendements 01, complément 2, en vigueur dès le 15 octobre 2019 (Add.72 Rév.1 Amend.2).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 74</td><td>Règlement CEE-ONU n<sup>o</sup> 74, du 15 juin 1988, sur les prescriptions uniformes relatives à l’homologation des cyclomoteurs en ce qui concerne l’installation des dispositifs d’éclairage et de signalisation lumineuse; modifié en dernier lieu par la série d’amendements 02, complément 1, en vigueur dès le 30 septembre 2021 (Add.73 Rév.3 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 75</td><td>Règlement CEE-ONU n<sup>o</sup> 75, du 1er avril 1988, concernant les prescriptions uniformes relatives à l’homologation des pneumatiques pour motocycles; modifié en dernier lieu par le complément 19, en vigueur dès le 30 septembre 2021 (Add.74 Rév.2 Amend.6).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 76[^annex2-lvlu1-lvl1-lvl12-48]</td><td>Règlement CEE-ONU n<sup>o</sup> 76, du 1er juillet 1988, sur les prescriptions uniformes relatives à l’homologation des projecteurs pour cyclomoteurs émettant un faisceau-croisement et un faisceau-route; modifié en dernier lieu par la série d’amendements 01, en vigueur dès le 12 septembre 2001 (Add.75 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 77[^annex2-lvlu1-lvl1-lvl12-49]</td><td>Règlement CEE-ONU n<sup>o</sup> 77, du 30 septembre 1988, sur les prescriptions uniformes relatives à l’homologation des feux de stationnement pour les véhicules à moteur; modifié en dernier lieu par la série d’amendements 01, en vigueur dès le 15 octobre 2019 (Add.76 Rév.4).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 78</td><td>Règlement CEE-ONU n<sup>o</sup> 78, du 15 octobre 1988, concernant les prescriptions uniformes relatives à l’homologation des véhicules de la catégorie L en ce qui concerne le freinage; modifié en dernier lieu par la série d’amendements 05, en vigueur dès le 3 janvier 2021 (Add.77 Rév.3).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 79[^annex2-lvlu1-lvl1-lvl12-50]</td><td>Règlement CEE-ONU n<sup>o</sup> 79, du 1er décembre 1988, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne l’équipement de direction; modifié en dernier lieu par la série d’amendements 03, complément 4, en vigueur dès le 30 septembre 2021 (Add.78 Rév.4 Amend.4).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 80[^annex2-lvlu1-lvl1-lvl12-51]</td><td>Règlement CEE-ONU n<sup>o</sup> 80, du 23 février 1989, sur les prescriptions uniformes relatives à l’homologation des sièges des autocars et de ces véhicules en ce qui concerne la résistance des sièges et de leurs ancrages; modifié en dernier lieu par la série d’amendements 04, en vigueur dès le 29 mai 2020 (Add.79 Rév.3).</td></tr>
 <tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 81</td><td>Règlement CEE-ONU n<sup>o</sup> 81, du 1<sup>er</sup> mars 1989, sur les prescriptions uniformes relatives à l’homologation des rétroviseurs et des véhicules à moteur à deux roues, avec ou sans side-car, en ce qui concerne le montage des rétroviseurs sur les guidons; modifié en dernier lieu par le complément 2, en vigueur dès le 18 juin 2007 (Add.80 Amend.2).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 82[^annex2-lvlu1-lvl1-lvl12-51]</td><td>Règlement CEE-ONU n<sup>o</sup> 82, du 17 mars 1989, concernant les prescriptions uniformes relatives à l’homologation des projecteurs pour cyclomoteurs équipés de lampes halogènes à incandescence (lampes HS2); modifié par la série d’amendements 01, en vigueur dès le 12 septembre 2001 (Add.81 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n° 83[^annex2-lvlu1-lvl1-lvl12-52]</td><td>Règlement CEE-ONU n<sup>o</sup> 83, du 5 novembre 1989, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne l’émission de polluants selon les exigences du moteur en matière de carburant; modifié en dernier lieu par la série d’amendements 07, complément 6, en vigueur dès le 10 février 2018 (Add.82 Rév.5 Amend.6).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 84[^annex2-lvlu1-lvl1-lvl12-53]</td><td>Règlement CEE-ONU n<sup>o</sup> 84, du 15 juillet 1990, sur les prescriptions uniformes relatives à l’homologation des véhicules à moteur équipés d’un moteur à combustion interne en ce qui concerne la mesure de la consommation de carburant, en vigueur dès le 15 juillet 1990 (Add.83).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 85[^annex2-lvlu1-lvl1-lvl12-54]</td><td>Règlement CEE-ONU n<sup>o</sup> 85, du 15 septembre 1990, sur les prescriptions uniformes relatives à l’homologation des moteurs à combustion interne destinés à la propulsion des véhicules à moteur des catégories M et N en ce qui concerne la mesure de leur puissance nette; modifié en dernier lieu par le complément 7, en vigueur dès le 18 juin 2016 (Add.84 Rév.1 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 86</td><td>Règlement CEE-ONU n<sup>o</sup> 86, du 1<sup>er</sup> août 1990, sur les prescriptions uniformes relatives à l’homologation des véhicules agricoles ou forestiers en ce qui concerne l’installation des dispositifs d’éclairage et de signalisation lumineuse; modifié en dernier lieu par la série d’amendements 01, en vigueur dès le 22 juin 2017 (Add.85 Rév.2 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 87[^annex2-lvlu1-lvl1-lvl12-55]</td><td>Règlement CEE-ONU n<sup>o</sup> 87 du 1<sup>er</sup> novembre 1990 sur les prescriptions uniformes relatives à l’homologation des feux-circulation diurnes pour véhicules à moteur; modifié en dernier lieu par le complément 20, en vigueur dès le 10 février 2018 (Add.86 Rév.3 Amend.4).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 88[^annex2-lvlu1-lvl1-lvl12-56]</td><td>Règlement CEE-ONU n<sup>o</sup> 88, du 10 avril 1991, sur les prescriptions uniformes relatives à l’homologation des pneus rétroréfléchissants pour véhicules à deux roues; modifié en dernier lieu par le complément 1, en vigueur dès le 18 juin 2007 (Add.87 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 89</td><td>Règlement CEE-ONU n<sup>o</sup> 89, du 1<sup>er</sup> octobre 1992, sur les prescriptions uniformes relatives à l’homologation des: I véhicules, en ce qui concerne la limitation de leur vitesse maximale; II véhicules, en ce qui concerne l’installation d’un dispositif limiteur de vitesse (DLV) de type homologué; III dispositifs limiteurs de vitesse (DLV); modifié en dernier lieu par le complément 2, en vigueur dès le 30 janvier 2011 (Add.88 Amend.2).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 90</td><td>Règlement CEE-ONU n<sup>o</sup> 90, du 1<sup>er</sup> novembre 1992, sur les prescriptions uniformes relatives à l’homologation des plaquettes de frein de rechange, des garnitures de frein à tambour de rechange et des disques et tambours de rechange pour les véhicules à moteur et leurs remorques; modifié en dernier lieu par la série d’amendements 02, complément 3, en vigueur dès le 9 février 2017 (Add.89 Rév.3 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 91[^annex2-lvlu1-lvl1-lvl12-57]</td><td>Règlement CEE-ONU n<sup>o</sup> 91, du 15 octobre 1993, sur les prescriptions uniformes relatives à l’homologation des feux-position latéraux pour les véhicules à moteur et leurs remorques; modifié en dernier lieu par le complément 17, en vigueur dès le 10 février 2018 (Add.90 Rév.3 Amend.2).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 92</td><td>Règlement CEE-ONU n<sup>o</sup> 92, du 1<sup>er</sup> novembre 1993, sur les prescriptions uniformes relatives à l’homologation des dispositifs silencieux d’échappement de remplacement non d’origine des motocycles, cyclomoteurs et véhicules à trois roues; modifié en dernier lieu par la série d’amendements 01, complément 2, en vigueur dès le 10 octobre 2017 (Add.91 Rév.1 Amend.2).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 93</td><td>Règlement CEE-ONU n<sup>o</sup> 93, du 27 février 1994, sur les prescriptions uniformes relatives à l’homologation: I des dispositifs contre l’encastrement à l’avant (FUPDs); II de véhicules en ce qui concerne le montage d’un dispositif contre l’encastrement à l’avant d’un type homologué; III de véhicules en ce qui concerne leur protection contre l’encastrement à l’avant (FUP); (Add.92).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 94</td><td>Règlement CEE-ONU n<sup>o</sup> 94, du 1<sup>er</sup> octobre 1995, sur les prescriptions uniformes relatives à l’homologation de véhicules à moteur (M<sub>1</sub> ≤ 2,5 t) en ce qui concerne la protection des occupants en cas de collision frontale; modifié en dernier lieu par la série d’amendements 03, en vigueur dès le 18 juin 2016 (Add.93 Rév.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 95</td><td>Règlement CEE-ONU n<sup>o</sup> 95, du 6 juillet 1995, sur les prescriptions uniformes relatives à l’homologation de véhicules à moteur (M<sub>1</sub> et N<sub>1</sub>) en ce qui concerne la protection des occupants en cas de collision latérale; modifié en dernier lieu par la série d’amendements 03, complément 6, en vigueur dès le 18 juin 2016 (Add.94 Rév.2 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 96</td><td>Règlement CEE-ONU n<sup>o</sup> 96, du 15 décembre 1995, sur les prescriptions uniformes relatives à l’homologation des moteurs destinés aux tracteurs agricoles et forestiers ainsi qu’aux engins mobiles non routiers en ce qui concerne les émissions de polluants provenant du moteur; modifié en dernier lieu par la série d’amendements 04, complément 1, en vigueur dès le 15 juin 2015 (Add.95 Rév.3 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 97</td><td>Règlement CEE-ONU n<sup>o</sup> 97, du 1<sup>er</sup> janvier 1996, sur les dispositions uniformes relatives à l’homologation des systèmes d’alarme pour véhicules à moteur (SAV) et des véhicules à moteur en ce qui concerne leurs systèmes d’alarme (SA); modifié en dernier lieu par la série d’amendements 01, complément 8, en vigueur dès le 18 juin 2016 (Add.96 Rév.1 Amend.4).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 98[^annex2-lvlu1-lvl1-lvl12-58]</td><td>Règlement CEE-ONU n<sup>o</sup> 98, du 15 avril 1996, sur les dispositions uniformes concernant l’homologation des projecteurs de véhicules à moteur munis de sources lumineuses à décharge; modifié en dernier lieu par la série d’amendements 01, complément 9, en vigueur dès le 10 février 2018 (Add.97 Rév.3 Amend.8).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 99[^annex2-lvlu1-lvl1-lvl12-59]</td><td>Règlement CEE-ONU n<sup>o</sup> 99, du 15 avril 1996, sur les prescriptions uniformes relatives à l’homologation des sources lumineuses à décharge pour projecteurs homologués de véhicules à moteur; modifié en dernier lieu par le complément 13, en vigueur dès le 10 octobre 2017 (Add.98 Rév.3 Amend.4).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 100[^annex2-lvlu1-lvl1-lvl12-60]</td><td>Règlement CEE-ONU n<sup>o</sup> 100, du 23 août 1996, sur les prescriptions uniformes relatives à l’homologation des véhicules électriques à batterie en ce qui concerne les prescriptions applicables à la construction et à la sécurité fonctionnelle; modifié en dernier lieu par la série d’amendements 02, complément 3, en vigueur dès le 18 juin 2016 (Add.99 Rév.2 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 101[^annex2-lvlu1-lvl1-lvl12-61]</td><td>Règlement CEE-ONU n<sup>o</sup> 101, du 1<sup>er</sup> janvier 1997, sur les prescriptions uniformes relatives à l’homologation des voitures particulières mues uniquement par un moteur à combustion interne ou mues par une chaîne de traction électrique hybride en ce qui concerne la mesure des émissions de dioxyde de carbone et de la consommation d’énergie électrique et de l’autonomie en mode électrique, et des véhicules des catégories M<sub>1</sub> et N<sub>1</sub> mus uniquement par une chaîne de traction électrique en ce qui concerne la mesure de la consommation d’énergie électrique et de l’autonomie; modifié en dernier lieu par la série d’amendements 01, complément 7, en vigueur dès le 10 octobre 2017 (Add.100 Rév.3 Amend.6).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 102[^annex2-lvlu1-lvl1-lvl12-62]</td><td>Règlement ECE n<sup>o</sup> 102, du 13 décembre 1996, sur les prescriptions uniformes relatives à l’homologation: I d’un dispositif d’attelage court (DAC); II de véhicules en ce qui concerne l’installation d’un type homologué de DAC (Add.101).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 103[^annex2-lvlu1-lvl1-lvl12-63]</td><td>Règlement CEE-ONU n<sup>o</sup> 103, du 23 février 1997, sur les prescriptions uniformes relatives à l’homologation de catalyseurs de remplacement pour les véhicules à moteur; modifié en dernier lieu par le complément 4, en vigueur dès le 10 juin 2014 (Add.102 Rév.1 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 104[^annex2-lvlu1-lvl1-lvl12-64]</td><td>Règlement CEE-ONU n<sup>o</sup> 104, du 15 janvier 1998, sur les prescriptions uniformes relatives à l’homologation des marquages rétroréfléchissants pour véhicules des catégories M, N et O; modifié en dernier lieu par le complément 9, en vigueur dès le 10 octobre 2017 (Add.103 Rév.1 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 105[^annex2-lvlu1-lvl1-lvl12-65]</td><td>Règlement CEE-ONU n<sup>o</sup> 105, du 7 mai 1998, sur les prescriptions uniformes relatives à l’homologation des véhicules destinés au transport de marchandises dangereuses en ce qui concerne leurs caractéristiques particulières de construction; modifié en dernier lieu par la série d’amendements 06, en vigueur dès le 22 juin 2017 (Add.104 Rév.2 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 106[^annex2-lvlu1-lvl1-lvl12-66]</td><td>Règlement CEE-ONU n<sup>o</sup> 106, du 7 mai 1998, sur les prescriptions uniformes concernant l’homologation des pneumatiques pour véhicules agricoles et leurs remorques; modifié en dernier lieu par le complément 15, en vigueur dès le 10 février 2018 (Add.105 Rév.2 Amend.5).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 107[^annex2-lvlu1-lvl1-lvl12-67]</td><td>Règlement CEE-ONU n<sup>o</sup> 107, du 18 juin 1998, sur les prescriptions uniformes relatives à l’homologation des véhicules des catégories M<sub>2</sub> et M<sub>3</sub> en ce qui concerne leurs caractéristiques générales de construction; modifié en dernier lieu par la série d’amendements 07, complément 1, en vigueur dès le 22 juin 2017 (Add.106 Rév.7 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 108[^annex2-lvlu1-lvl1-lvl12-68]</td><td>Règlement CEE-ONU n<sup>o</sup> 107, du 18 juin 1998, sur les prescriptions uniformes relatives à l’homologation des véhicules des catégories M<sub>2</sub> et M<sub>3</sub> en ce qui concerne leurs caractéristiques générales de construction; modifié en dernier lieu par le complément 3, en vigueur dès le 17 mars 2010 (Add.107 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 109[^annex2-lvlu1-lvl1-lvl12-69]</td><td>Règlement CEE-ONU n<sup>o</sup> 109, du 23 juin 1998, sur les prescriptions uniformes relatives à l’homologation de la fabrication de pneumatiques rechapés pour les véhicules utilitaires et leurs remorques; modifié en dernier lieu par le complément 8, en vigueur dès le 10 octobre 2017 (Add.108 Rév.1 Amend.2).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n° 110[^annex2-lvlu1-lvl1-lvl12-70]</td><td>Règlement CEE-ONU n<sup>o</sup> 110, du 28 décembre 2000, sur les prescriptions uniformes relatives à l’homologation: I des organes spéciaux pour l’alimentation du moteur au gaz naturel comprimé (GNC) sur les véhicules; II des véhicules munis d’organes spéciaux d’un type homologué pour l’alimentation du moteur au gaz naturel comprimé (GNC) en ce qui concerne l’installation de ces organes; modifié en dernier lieu par la série d’amendements 02, complément 1, en vigueur dès le 19 juillet 2018 (Add.109 Rév.4 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 111[^annex2-lvlu1-lvl1-lvl12-71]</td><td>Règlement CEE-ONU n<sup>o</sup> 111, du 28 décembre 2000, sur les prescriptions uniformes relatives à l’homologation des véhicules-citernes des catégories N et O en ce qui concerne la stabilité au retournement; modifié en dernier lieu par le complément 1, en vigueur dès le 4 avril 2005 (Add.110 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 112[^annex2-lvlu1-lvl1-lvl12-72]</td><td>Règlement CEE-ONU n<sup>o</sup> 112, du 21 septembre 2001, sur les prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules automobiles émettant un faisceau de croisement asymétrique ou un faisceau de route ou les deux à la fois et équipés de lampes à incandescence et/ou de modules à diode électroluminescente (DEL); modifié en dernier lieu par la série d’amendements 01, complément 8, en vigueur dès le 10 février 2018 (Add.111 Rév.3 Amend.5).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 113[^annex2-lvlu1-lvl1-lvl12-73]</td><td>Règlement CEE-ONU n<sup>o</sup> 113, du 21 septembre 2001, sur les prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules automobiles émettant un faisceau de croisement symétrique ou un faisceau de route ou les deux à la fois et équipés de lampes à incandescence, de sources lumineuses à décharge ou de modules DEL; modifié en dernier lieu par la série d’amendements 02, en vigueur dès le 10 février 2018 (Add.112 Rév.3 Amend.6).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 114[^annex2-lvlu1-lvl1-lvl12-74]</td><td>Règlement CEE-ONU n<sup>o</sup> 114 du 1<sup>er</sup> février 2003, sur les prescriptions uniformes relatives à l’homologation: I d’un module de coussin gonflable pour systèmes de coussin(s) gonflable(s) de deuxième monte; II d’un volant de direction de deuxième monte muni d’un module de coussin gonflable d’un type homologué; III d’un système de coussin(s) gonflable(s) de deuxième monte autre qu’un système monté sur un volant de direction; (Add.113).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 115[^annex2-lvlu1-lvl1-lvl12-75]</td><td>Règlement CEE-ONU n<sup>o</sup> 115 du 30 octobre 2003 sur les prescriptions uniformes relatives à l’homologation: I des systèmes spéciaux d’adaptation au GPL (gaz de pétrole liquéfié) pour véhicules automobiles leur permettant d’utiliser ce carburant dans leur système de propulsion; II des systèmes spéciaux d’adaptation au GNC (gaz naturel comprimé) pour véhicules automobiles leur permettant d’utiliser ce carburant dans leur système de propulsion; modifié en dernier lieu par le complément 7, en vigueur dès le 9 février 2017 (Add.114 Rév.1 Amend.2).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 116[^annex2-lvlu1-lvl1-lvl12-76]</td><td>Règlement CEE-ONU n<sup>o</sup> 116, du 6 avril 2005, sur les prescriptions techniques uniformes relatives à la protection des véhicules automobiles contre une utilisation non autorisée; modifié en dernier lieu par le complément 5, en vigueur dès le 18 juin. 2016 (Add.115 Rév.5).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 117[^annex2-lvlu1-lvl1-lvl12-77]</td><td>Règlement CEE-ONU n<sup>o</sup> 117, du 6 avril 2005, sur les prescriptions uniformes relatives à l’homologation de pneumatiques en ce qui concerne les émissions de bruit de roulement et/ou l’adhérence sur sol mouillé et/ou la résistance au roulement; modifié en dernier lieu par la série d’amendements 02, complément 9, en vigueur dès le 9 février 2017 (Add.116 Rév.4 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 118[^annex2-lvlu1-lvl1-lvl12-78]</td><td>Règlement CEE-ONU n<sup>o</sup> 118, du 6 avril 2005, sur les prescriptions uniformes relatives au comportement au feu et/ou à l’imperméabilité aux carburants ou aux lubrifiants des matériaux utilisés dans la construction de certaines catégories de véhicules à moteur; modifié en dernier lieu par la série d’amendements 03, en vigueur dès le 10 octobre 2017 (Add.117 Rév.1 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 119[^annex2-lvlu1-lvl1-lvl12-79]</td><td>Règlement CEE-ONU n<sup>o</sup> 119, du 6 avril 2005, sur les prescriptions uniformes relatives à l’homologation des feux d’angle pour les véhicules à moteur; modifié en dernier lieu par la série d’amendements 01, complément 6, en vigueur dès le 10 février 2018 (Add.118 Rév.1 Amend.6).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 120[^annex2-lvlu1-lvl1-lvl12-80]</td><td>Règlement CEE-ONU n<sup>o</sup> 120, du 6 avril 2005, sur les prescriptions uniformes relatives à l’homologation des moteurs à combustion interne destinés aux tracteurs agricoles et forestiers ainsi qu’aux engins mobiles non routiers en ce qui concerne la puissance nette, le couple net et la consommation spécifique; modifié en dernier lieu par la série d’amendements 01, en vigueur dès le 26 juillet 2012 (Add.119 Rév.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 121[^annex2-lvlu1-lvl1-lvl12-81]</td><td>Règlement CEE-ONU n<sup>o</sup> 121, du 18 janvier 2006, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne l’emplacement et les moyens d’identification des commandes manuelles, des témoins et des indicateurs; modifié en dernier lieu par la série d’amendements 01, complément 2, en vigueur dès le 19 juillet 2018 (Add.120 Rév.2 Amend.2).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 122[^annex2-lvlu1-lvl1-lvl12-82]</td><td>Règlement CEE-ONU n<sup>o</sup> 122, du 18 janvier 2006, sur les prescriptions uniformes concernant l’homologation des véhicules des catégories M, N et O en ce qui concerne leur système de chauffage; modifié en dernier lieu par le complément 3, en vigueur dès le 26 juillet (Add.121 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 123[^annex2-lvlu1-lvl1-lvl12-83]</td><td>Règlement CEE-ONU n<sup>o</sup> 123, du 2 février 2007, sur les prescriptions uniformes concernant l’homologation des systèmes d’éclairage avant adaptifs (AFS) destinés aux véhicules automobiles; modifié en dernier lieu par la série d’amendements 01, complément 9, en vigueur dès le 10 février 2018 (Add.122 Rév.2 Amend.5).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 124[^annex2-lvlu1-lvl1-lvl12-84]</td><td>Règlement CEE-ONU n<sup>o</sup> 124, du 2 février 2007, sur les prescriptions uniformes relatives à l’homologation des roues pour voitures particulières et leurs remorques; modifié par le complément 1, en vigueur dès le 30 janvier 2011 (Add.123 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 125[^annex2-lvlu1-lvl1-lvl12-85]</td><td>Règlement CEE-ONU n<sup>o</sup> 125, du 9 novembre 2007, sur les prescriptions uniformes concernant l’homologation des véhicules automobiles en ce qui concerne le champ de vision vers l’avant du conducteur; modifié en dernier lieu par la série d’amendements 01, complément 1, en vigueur dès le 8 octobre 2016 (Add.124 Rév.2 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 126[^annex2-lvlu1-lvl1-lvl12-86]</td><td>Règlement CEE-ONU n<sup>o</sup> 126, du 9 novembre 2007, sur les prescriptions uniformes concernant l’homologation de systèmes de cloisonnement visant à protéger les passagers contre les déplacements de bagages et ne faisant pas partie des équipements d’origine du véhicule (Add.125).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 127[^annex2-lvlu1-lvl1-lvl12-87]</td><td>Règlement CEE-ONU n<sup>o</sup> 127, du 17 novembre 2012, sur les prescriptions uniformes concernant l’homologation des véhicules automobiles en ce qui concerne la sécurité des piétons; modifié en dernier lieu par la série d’amendements 02, en vigueur dès le 18 juin 2016 (Add.126 Rév.2).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 128[^annex2-lvlu1-lvl1-lvl12-88]</td><td>Règlement CEE-ONU n<sup>o</sup> 128, du 17 novembre 2012, sur les prescriptions uniformes concernant l’homologation des sources lumineuses à diodes électroluminescentes (DEL) destinées à être utilisées dans les feux homologués des véhicules à moteur et leur remorques; modifié en dernier lieu par le complément 6, en vigueur dès le 22 juin 2017 (Add.127 Amend.6).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 129[^annex2-lvlu1-lvl1-lvl12-89]</td><td>Règlement CEE-ONU n<sup>o</sup> 129, du 9 juillet 2013, sur les prescriptions uniformes relatives à l’homologation des dispositifs renforcés de retenue pour enfants (ECRS); modifié en dernier lieu par la série d’amendements 02, complément 2, en vigueur dès le 19 juillet 2018 (Add.128 Rév.2 Amend.2).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 130[^annex2-lvlu1-lvl1-lvl12-90]</td><td>Règlement CEE-ONU n<sup>o</sup> 130, du 9 juillet 2013, sur les prescriptions uniformes relatives à l’homologation des véhicules à moteur en ce qui concerne le système d’avertissement de franchissement de ligne (LDWS); modifié par le complément 1, en vigueur dès le 8 octobre 2016 (Add.129 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 131[^annex2-lvlu1-lvl1-lvl12-91]</td><td>Règlement CEE-ONU n<sup>o</sup> 131, du 9 juillet 2013, sur les prescriptions uniformes relatives à l’homologation des véhicules à moteur en ce qui concerne les systèmes avancés de freinage d’urgence (AEBS); modifié en dernier lieu par la série d’amendements 01, complément 2, en vigueur dès le 8 octobre 2016 (Add.130 Rév.1 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 132[^annex2-lvlu1-lvl1-lvl12-92]</td><td>Règlement CEE-ONU n<sup>o</sup> 132, du 17 juin 2014, sur les prescriptions uniformes relatives à l’homologation des dispositifs antipollution de mise à niveau (DAM) destinés aux véhicules utilitaires lourds, tracteurs agricoles et forestiers et engins mobiles non routiers à moteurs à allumage par compression; modifié par la série d’amendements 01, en vigueur dès le 22 janvier 2015 (Add.131 Rév.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 133[^annex2-lvlu1-lvl1-lvl12-93]</td><td>Règlement CEE-ONU n<sup>o</sup> 133, du 17 juin 2014, sur les prescriptions uniformes relatives à l’homologation des véhicules automobiles en ce qui concerne leur aptitude à la réutilisation, au recyclage et à la valorisation (Add.132).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 134[^annex2-lvlu1-lvl1-lvl12-94]</td><td>Règlement CEE-ONU n<sup>o</sup> 134, du 15 juin 2015, sur les prescriptions uniformes relatives à l’homologation des véhicules automobiles et de leurs composants en ce qui concerne les prescriptions de sécurité des véhicules fonctionnant à l’hydrogène; modifié en dernier lieu par le complément 3, en vigueur dès le 19 juillet 2018 (Add.133 Amend.3).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 135[^annex2-lvlu1-lvl1-lvl12-95]</td><td>Règlement CEE-ONU n<sup>o</sup> 135, du 15 juin 2015, sur les prescriptions uniformes concernant l’homologation des véhicules en ce qui concerne leur comportement lors des essais de choc latéral contre un poteau; modifié par la série d’amendements 01, complément 1, en vigueur dès le 25 août 2016 (Add.134 Rév.1 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 82[^annex2-lvlu1-lvl1-lvl12-52]</td><td>Règlement CEE-ONU n<sup>o</sup> 82, du 17 mars 1989, concernant les prescriptions uniformes relatives à l’homologation des projecteurs pour cyclomoteurs équipés de lampes halogènes à incandescence (lampes HS2); modifié par la série d’amendements 01, en vigueur dès le 12 septembre 2001 (Add.81 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 83[^annex2-lvlu1-lvl1-lvl12-53]</td><td>Règlement CEE-ONU n<sup>o</sup> 83, du 5 novembre 1989, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne l’émission de polluants selon les exigences du moteur en matière de carburant; modifié en dernier lieu par la série d’amendements 07, complément 12, en vigueur dès le 9 juin 2021 (Add.82 Rév.5 Amend.12).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 84[^annex2-lvlu1-lvl1-lvl12-54]</td><td>Règlement CEE-ONU n<sup>o</sup> 84, du 15 juillet 1990, sur les prescriptions uniformes relatives à l’homologation des véhicules à moteur équipés d’un moteur à combustion interne en ce qui concerne la mesure de la consommation de carburant, en vigueur dès le 15 juillet 1990 (Add.83).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 85[^annex2-lvlu1-lvl1-lvl12-55]</td><td>Règlement CEE-ONU n<sup>o</sup> 85, du 15 septembre 1990, sur les prescriptions uniformes relatives à l’homologation des moteurs à combustion interne destinés à la propulsion des véhicules à moteur des catégories M et N en ce qui concerne la mesure de leur puissance nette; modifié en dernier lieu par le complément 10, en vigueur dès le 29 mai 2020 (Add.84 Rév.1 Amend.4).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 86</td><td>Règlement CEE-ONU n<sup>o</sup> 86, du 1er août 1990, sur les prescriptions uniformes relatives à l’homologation des véhicules agricoles ou forestiers en ce qui concerne l’installation des dispositifs d’éclairage et de signalisation lumineuse; modifié en dernier lieu par la série d’amendements 01, complément 3, en vigueur dès le 30 septembre 2021 (Add.85 Rév.3 Amend.3).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 87[^annex2-lvlu1-lvl1-lvl12-56]</td><td>Règlement CEE-ONU n<sup>o</sup> 87 du 1er novembre 1990 sur les prescriptions uniformes relatives à l’homologation des feux-circulation diurnes pour véhicules à moteur; modifié en dernier lieu par la série d’amendements 01, en vigueur dès le 15 octobre 2019 (Add.86 Rév.3 Amend.5).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 88[^annex2-lvlu1-lvl1-lvl12-57]</td><td>Règlement CEE-ONU n<sup>o</sup> 88, du 10 avril 1991, sur les prescriptions uniformes relatives à l’homologation des pneus rétroréfléchissants pour véhicules à deux roues; modifié en dernier lieu par le complément 1, en vigueur dès le 18 juin 2007 (Add.87 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 89</td><td>Règlement CEE-ONU n<sup>o</sup> 89, du 1er octobre 1992, sur les prescriptions uniformes relatives à l’homologation des: I véhicules, en ce qui concerne la limitation de leur vitesse maximale; II véhicules, en ce qui concerne l’installation d’un dispositif limiteur de vitesse (DLV) de type homologué; III dispositifs limiteurs de vitesse (DLV); modifié en dernier lieu par le complément 3, en vigueur dès le 29 décembre 2019 (Add.88 Amend.3).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 90</td><td>Règlement CEE-ONU n<sup>o</sup> 90, du 1<sup>er</sup> novembre 1992, sur les prescriptions uniformes relatives à l’homologation des plaquettes de frein de rechange, des garnitures de frein à tambour de rechange et des disques et tambours de rechange pour les véhicules à moteur et leurs remorques; modifié en dernier lieu par la série d’amendements 02, complément 6, en vigueur dès le 25 septembre 2020 (Add.89 Rév.3 Amend.6).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 91[^annex2-lvlu1-lvl1-lvl12-58]</td><td>Règlement CEE-ONU n<sup>o</sup> 91, du 15 octobre 1993, sur les prescriptions uniformes relatives à l’homologation des feux-position latéraux pour les véhicules à moteur et leurs remorques; modifié en dernier lieu par la série d’amendements 01, en vigueur dès le 15 octobre 2019 (Add.90 Rév.3 Amend.3).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 92</td><td>Règlement CEE-ONU n<sup>o</sup> 92, du 1er novembre 1993, sur les prescriptions uniformes relatives à l’homologation des dispositifs silencieux d’échappement de remplacement non d’origine des motocycles, cyclomoteurs et véhicules à trois roues; modifié en dernier lieu par la série d’amendements 02, en vigueur dès le 15 octobre 2019 (Add.91 Rév.1 Amend.3).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 93</td><td>Règlement CEE-ONU n<sup>o</sup> 93, du 27 février 1994, sur les prescriptions uniformes relatives à l’homologation: I des dispositifs contre l’encastrement à l’avant (FUPDs); II de véhicules en ce qui concerne le montage d’un dispositif contre l’encastrement à l’avant d’un type homologué; III de véhicules en ce qui concerne leur protection contre l’encastrement à l’avant (FUP); modifié par le complément 1, en vigueur dès le 9 juin 2021 (Add.92 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 94</td><td>Règlement CEE-ONU n<sup>o</sup> 94, du 1er octobre 1995, sur les prescriptions uniformes relatives à l’homologation de véhicules à moteur (M1 ≤ 2,5 t) en ce qui concerne la protection des occupants en cas de collision frontale; modifié en dernier lieu par la série d’amendements 04, en vigueur dès le 9 juin 2021 (Add.93 Rév.4).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 95</td><td>Règlement CEE-ONU n<sup>o</sup> 95, du 6 juillet 1995, sur les prescriptions uniformes relatives à l’homologation de véhicules à moteur (M1 et N1) en ce qui concerne la protection des occupants en cas de collision latérale; modifié en dernier lieu par la série d’amendements 05, en vigueur dès le 9 juin 2021 (Add.94 Rév.4).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 96</td><td>Règlement CEE-ONU n<sup>o</sup> 96, du 15 décembre 1995, sur les prescriptions uniformes relatives à l’homologation des moteurs destinés aux tracteurs agricoles et forestiers ainsi qu’aux engins mobiles non routiers en ce qui concerne les émissions de polluants provenant du moteur; modifié en dernier lieu par la série d’amendements 05, en vigueur dès le 29 décembre 2018 (Add.95 Rév.3 Amend.2).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 97</td><td>Règlement CEE-ONU n<sup>o</sup> 97, du 1er janvier 1996, sur les dispositions uniformes relatives à l’homologation des systèmes d’alarme pour véhicules à moteur (SAV) et des véhicules à moteur en ce qui concerne leurs systèmes d’alarme (SA); modifié en dernier lieu par la série d’amendements 01, complément 9, en vigueur dès le 30 septembre 2021 (Add.96 Rév.1 Amend.5).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 98[^annex2-lvlu1-lvl1-lvl12-59]</td><td>Règlement CEE-ONU n<sup>o</sup> 98, du 15 avril 1996, sur les dispositions uniformes concernant l’homologation des projecteurs de véhicules à moteur munis de sources lumineuses à décharge; modifié en dernier lieu par la série d’amendements 02, complément 2, en vigueur dès le 30 septembre 2021 (Add.97 Rév.4).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 99[^annex2-lvlu1-lvl1-lvl12-60]</td><td>Règlement CEE-ONU n<sup>o</sup> 99, du 15 avril 1996, sur les prescriptions uniformes relatives à l’homologation des sources lumineuses à décharge pour projecteurs homologués de véhicules à moteur; modifié en dernier lieu par le complément 14, en vigueur dès le 28 mai 2019 (Add.98 Rév.3 Amend.5).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 100[^annex2-lvlu1-lvl1-lvl12-61]</td><td>Règlement CEE-ONU n<sup>o</sup> 100, du 23 août 1996, sur les prescriptions uniformes relatives à l’homologation des véhicules électriques à batterie en ce qui concerne les prescriptions applicables à la construction et à la sécurité fonctionnelle; modifié en dernier lieu par la série d’amendements 03, en vigueur dès le 9 juin 2021 (Add.99 Rév.3).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 101[^annex2-lvlu1-lvl1-lvl12-62]</td><td>Règlement CEE-ONU n<sup>o</sup> 101, du 1er janvier 1997, sur les prescriptions uniformes relatives à l’homologation des voitures particulières mues uniquement par un moteur à combustion interne ou mues par une chaîne de traction électrique hybride en ce qui concerne la mesure des émissions de dioxyde de carbone et de la consommation d’énergie électrique et de l’autonomie en mode électrique, et des véhicules des catégories M1 et N1 mus uniquement par une chaîne de traction électrique en ce qui concerne la mesure de la consommation d’énergie électrique et de l’autonomie; modifié en dernier lieu par la série d’amendements 01, complément 9, en vigueur dès le 3 juin 2021 (Add.100 Rév.3 Amend.8).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 102[^annex2-lvlu1-lvl1-lvl12-63]</td><td>Règlement ECE n<sup>o</sup> 102, du 13 décembre 1996, sur les prescriptions uniformes relatives à l’homologation: I d’un dispositif d’attelage court (DAC); II de véhicules en ce qui concerne l’installation d’un type homologué de DAC (Add.101).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 103[^annex2-lvlu1-lvl1-lvl12-64]</td><td>Règlement CEE-ONU n<sup>o</sup> 103, du 23 février 1997, sur les prescriptions uniformes relatives à l’homologation de catalyseurs de remplacement pour les véhicules à moteur; modifié en dernier lieu par le complément 4, en vigueur dès le 10 juin 2014 (Add.102 Rév.1 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 104[^annex2-lvlu1-lvl1-lvl12-65]</td><td>Règlement CEE-ONU n<sup>o</sup> 104, du 15 janvier 1998, sur les prescriptions uniformes relatives à l’homologation des marquages rétroréfléchissants pour véhicules des catégories M, N et O; modifié en dernier lieu par la série d’amendements 01, en vigueur dès le 15 octobre 2019 (Add.103 Rév.1 Amend.4).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 105[^annex2-lvlu1-lvl1-lvl12-66]</td><td>Règlement CEE-ONU n<sup>o</sup> 105, du 7 mai 1998, sur les prescriptions uniformes relatives à l’homologation des véhicules destinés au transport de marchandises dangereuses en ce qui concerne leurs caractéristiques particulières de construction; modifié en dernier lieu par la série d’amendements 06, complément 1, en vigueur dès le 28 mai 2019 (Add.104 Rév.3 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 106[^annex2-lvlu1-lvl1-lvl12-67]</td><td>Règlement CEE-ONU n<sup>o</sup> 106, du 7 mai 1998, sur les prescriptions uniformes concernant l’homologation des pneumatiques pour véhicules agricoles et leurs remorques; modifié en dernier lieu par le complément 19, en vigueur dès le 30 septembre 2021 (Add.105 Rév.2 Amend.9).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 107[^annex2-lvlu1-lvl1-lvl12-68]</td><td>Règlement CEE-ONU n<sup>o</sup> 107, du 18 juin 1998, sur les prescriptions uniformes relatives à l’homologation des véhicules des catégories M2 et M3 en ce qui concerne leurs caractéristiques générales de construction; modifié en dernier lieu par la série d’amendements 09, en vigueur dès le 30 septembre 2021 (Add.106 Rév.9).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 108[^annex2-lvlu1-lvl1-lvl12-69]</td><td>Règlement CEE-ONU n<sup>o</sup> 107, du 18 juin 1998, sur les prescriptions uniformes relatives à l’homologation des véhicules des catégories M2 et M3 en ce qui concerne leurs caractéristiques générales de construction; modifié en dernier lieu par le complément 5, en vigueur dès le 3 juin 2021 (Add.107 Amend.5).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 109[^annex2-lvlu1-lvl1-lvl12-70]</td><td>Règlement CEE-ONU n<sup>o</sup> 109, du 23 juin 1998, sur les prescriptions uniformes relatives à l’homologation de la fabrication de pneumatiques rechapés pour les véhicules utilitaires et leurs remorques; modifié en dernier lieu par le complément 10, en vigueur dès le 3 janvier 2021 (Add.108 Rév.1 Amend.4).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 110[^annex2-lvlu1-lvl1-lvl12-71]</td><td>Règlement CEE-ONU n<sup>o</sup> 110, du 28 décembre 2000, sur les prescriptions uniformes relatives à l’homologation: I des organes spéciaux pour l’alimentation du moteur au gaz naturel comprimé (GNC) sur les véhicules; II des véhicules munis d’organes spéciaux d’un type homologué pour l’alimentation du moteur au gaz naturel comprimé (GNC) en ce qui concerne l’installation de ces organes; modifié en dernier lieu par la série d’amendements 04, complément 2, en vigueur dès le 25 septembre 2020 (Add.109 Rév.6 Amend.2).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 111[^annex2-lvlu1-lvl1-lvl12-72]</td><td>Règlement CEE-ONU n<sup>o</sup> 111, du 28 décembre 2000, sur les prescriptions uniformes relatives à l’homologation des véhicules-citernes des catégories N et O en ce qui concerne la stabilité au retournement; modifié en dernier lieu par le complément 1, en vigueur dès le 4 avril 2005 (Add.110 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 112[^annex2-lvlu1-lvl1-lvl12-73]</td><td>Règlement CEE-ONU n<sup>o</sup> 112, du 21 septembre 2001, sur les prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules automobiles émettant un faisceau de croisement asymétrique ou un faisceau de route ou les deux à la fois et équipés de lampes à incandescence et/ou de modules à diode électroluminescente (DEL); modifié en dernier lieu par la série d’amendements 02, complément 1, en vigueur dès le 29 mai 2020 (Add.111 Rév.3 Amend.7).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 113[^annex2-lvlu1-lvl1-lvl12-74]</td><td>Règlement CEE-ONU n<sup>o</sup> 113, du 21 septembre 2001, sur les prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules automobiles émettant un faisceau de croisement symétrique ou un faisceau de route ou les deux à la fois et équipés de lampes à incandescence, de sources lumineuses à décharge ou de modules DEL; modifié en dernier lieu par la série d’amendements 03, complément 2, en vigueur dès le 30 septembre 2021 (Add.112 Rév.5).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 114[^annex2-lvlu1-lvl1-lvl12-75]</td><td>Règlement CEE-ONU n<sup>o</sup> 114 du 1<sup>er</sup> février 2003, sur les prescriptions uniformes relatives à l’homologation: I d’un module de coussin gonflable pour systèmes de coussin(s) gonflable(s) de deuxième monte; II d’un volant de direction de deuxième monte muni d’un module de coussin gonflable d’un type homologué; III d’un système de coussin(s) gonflable(s) de deuxième monte autre qu’un système monté sur un volant de direction; (Add.113).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 115[^annex2-lvlu1-lvl1-lvl12-76]</td><td>Règlement CEE-ONU n<sup>o</sup> 115 du 30 octobre 2003 sur les prescriptions uniformes relatives à l’homologation: I des systèmes spéciaux d’adaptation au GPL (gaz de pétrole liquéfié) pour véhicules automobiles leur permettant d’utiliser ce carburant dans leur système de propulsion; II des systèmes spéciaux d’adaptation au GNC (gaz naturel comprimé) pour véhicules automobiles leur permettant d’utiliser ce carburant dans leur système de propulsion; modifié en dernier lieu par le complément 10, en vigueur dès le 9 juin 2021 (Add.114 Rév.1 Amend.5).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 116[^annex2-lvlu1-lvl1-lvl12-77]</td><td>Règlement CEE-ONU n<sup>o</sup> 116, du 6 avril 2005, sur les prescriptions techniques uniformes relatives à la protection des véhicules automobiles contre une utilisation non autorisée; modifié en dernier lieu par le complément 8, en vigueur dès le 30 septembre 2021 (Add.115 Rév.8).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 117[^annex2-lvlu1-lvl1-lvl12-78]</td><td>Règlement CEE-ONU n<sup>o</sup> 117, du 6 avril 2005, sur les prescriptions uniformes relatives à l’homologation de pneumatiques en ce qui concerne les émissions de bruit de roulement et/ou l’adhérence sur sol mouillé et/ou la résistance au roulement; modifié en dernier lieu par la série d’amendements 02, complément 13, en vigueur dès le 30 septembre 2021 (Add.116 Rév.4 Amend.5).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 118[^annex2-lvlu1-lvl1-lvl12-79]</td><td>Règlement CEE-ONU n<sup>o</sup> 118, du 6 avril 2005, sur les prescriptions uniformes relatives au comportement au feu et/ou à l’imperméabilité aux carburants ou aux lubrifiants des matériaux utilisés dans la construction de certaines catégories de véhicules à moteur; modifié en dernier lieu par la série d’amendements 04, en vigueur dès le 30 septembre 2021 (Add.117 Rév.3)</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 119[^annex2-lvlu1-lvl1-lvl12-80]</td><td>Règlement CEE-ONU n<sup>o</sup> 119, du 6 avril 2005, sur les prescriptions uniformes relatives à l’homologation des feux d’angle pour les véhicules à moteur; modifié en dernier lieu par la série d’amendements 02, en vigueur dès le 15 octobre 2019 (Add.118 Rév.3).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 120[^annex2-lvlu1-lvl1-lvl12-81]</td><td>Règlement CEE-ONU n<sup>o</sup> 120, du 6 avril 2005, sur les prescriptions uniformes relatives à l’homologation des moteurs à combustion interne destinés aux tracteurs agricoles et forestiers ainsi qu’aux engins mobiles non routiers en ce qui concerne la puissance nette, le couple net et la consommation spécifique; modifié en dernier lieu par la série d’amendements 02, en vigueur dès le 29 décembre 2018 (Add.119 Rév.2).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 121[^annex2-lvlu1-lvl1-lvl12-82]</td><td>Règlement CEE-ONU n<sup>o</sup> 121, du 18 janvier 2006, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne l’emplacement et les moyens d’identification des commandes manuelles, des témoins et des indicateurs; modifié en dernier lieu par la série d’amendements 01, complément 4, en vigueur dès le 25 septembre 2020 (Add.120 Rév.2 Amend.4).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 122[^annex2-lvlu1-lvl1-lvl12-83]</td><td>Règlement CEE-ONU n<sup>o</sup> 122, du 18 janvier 2006, sur les prescriptions uniformes concernant l’homologation des véhicules des catégories M, N et O en ce qui concerne leur système de chauffage; modifié en dernier lieu par le complément 6, en vigueur dès le 25 septembre 2020 (Add.121 Amend.6).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 123[^annex2-lvlu1-lvl1-lvl12-84]</td><td>Règlement CEE-ONU n<sup>o</sup> 123, du 2 février 2007, sur les prescriptions uniformes concernant l’homologation des systèmes d’éclairage avant adaptifs (AFS) destinés aux véhicules automobiles; modifié en dernier lieu par la série d’amendements 02, complément 2, en vigueur dès le 30 septembre 2021 (Add.122 Rév.2 Amend.9).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 124[^annex2-lvlu1-lvl1-lvl12-85]</td><td>Règlement CEE-ONU n<sup>o</sup> 124, du 2 février 2007, sur les prescriptions uniformes relatives à l’homologation des roues pour voitures particulières et leurs remorques; modifié en dernier lieu par le complément 2, en vigueur dès le 30 septembre 2021 (Add.123 Amend.2).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 125[^annex2-lvlu1-lvl1-lvl12-86]</td><td>Règlement CEE-ONU n<sup>o</sup> 125, du 9 novembre 2007, sur les prescriptions uniformes concernant l’homologation des véhicules automobiles en ce qui concerne le champ de vision vers l’avant du conducteur; modifié en dernier lieu par la série d’amendements 01, complément 2, en vigueur dès le 30 septembre 2021 (Add.124 Rév.2 Amend.2).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 126[^annex2-lvlu1-lvl1-lvl12-87]</td><td>Règlement CEE-ONU n<sup>o</sup> 126, du 9 novembre 2007, sur les prescriptions uniformes concernant l’homologation de systèmes de cloisonnement visant à protéger les passagers contre les déplacements de bagages et ne faisant pas partie des équipements d’origine du véhicule (Add.125).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 127[^annex2-lvlu1-lvl1-lvl12-88]</td><td>Règlement CEE-ONU n<sup>o</sup> 127, du 17 novembre 2012, sur les prescriptions uniformes concernant l’homologation des véhicules automobiles en ce qui concerne la sécurité des piétons; modifié en dernier lieu par la série d’amendements 02, en vigueur dès le 18 juin 2016 (Add.126 Rév.2).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 128[^annex2-lvlu1-lvl1-lvl12-89]</td><td>Règlement CEE-ONU n<sup>o</sup> 128, du 17 novembre 2012, sur les prescriptions uniformes concernant l’homologation des sources lumineuses à diodes électroluminescentes (DEL) destinées à être utilisées dans les feux homologués des véhicules à moteur et leur remorques; modifié en dernier lieu par le complément 10, en vigueur dès le 25 septembre 2020 (Add.127 Amend.10).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 129[^annex2-lvlu1-lvl1-lvl12-90]</td><td>Règlement CEE-ONU n<sup>o</sup> 129, du 9 juillet 2013, sur les prescriptions uniformes relatives à l’homologation des dispositifs renforcés de retenue pour enfants (ECRS); modifié en dernier lieu par la série d’amendements 03, complément 4, en vigueur dès le 3 janvier 2021 (Add.128 Rév.4 Amend.4).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 130[^annex2-lvlu1-lvl1-lvl12-91]</td><td>Règlement CEE-ONU n<sup>o</sup> 130, du 9 juillet 2013, sur les prescriptions uniformes relatives à l’homologation des véhicules à moteur en ce qui concerne le système d’avertissement de franchissement de ligne (LDWS); modifié par le complément 1, en vigueur dès le 8 octobre 2016 (Add.129 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 131[^annex2-lvlu1-lvl1-lvl12-92]</td><td>Règlement CEE-ONU n<sup>o</sup> 131, du 9 juillet 2013, sur les prescriptions uniformes relatives à l’homologation des véhicules à moteur en ce qui concerne les systèmes avancés de freinage d’urgence (AEBS); modifié en dernier lieu par la série d’amendements 01, complément 2, en vigueur dès le 8 octobre 2016 (Add.130 Rév.1 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 132[^annex2-lvlu1-lvl1-lvl12-93]</td><td>Règlement CEE-ONU n<sup>o</sup> 132, du 17 juin 2014, sur les prescriptions uniformes relatives à l’homologation des dispositifs antipollution de mise à niveau (DAM) destinés aux véhicules utilitaires lourds, tracteurs agricoles et forestiers et engins mobiles non routiers à moteurs à allumage par compression; modifié par la série d’amendements 01, complément 1, en vigueur dès le 28 mai 2019 (Add.131 Rév.1 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 133[^annex2-lvlu1-lvl1-lvl12-94]</td><td>Règlement CEE-ONU n<sup>o</sup> 133, du 17 juin 2014, sur les prescriptions uniformes relatives à l’homologation des véhicules automobiles en ce qui concerne leur aptitude à la réutilisation, au recyclage et à la valorisation (Add.132).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 134[^annex2-lvlu1-lvl1-lvl12-95]</td><td>Règlement CEE-ONU n<sup>o</sup> 134, du 15 juin 2015, sur les prescriptions uniformes relatives à l’homologation des véhicules automobiles et de leurs composants en ce qui concerne les prescriptions de sécurité des véhicules fonctionnant à l’hydrogène; modifié en dernier lieu par le complément 3, en vigueur dès le 19 juillet 2018 (Add.133 Amend.3).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 135[^annex2-lvlu1-lvl1-lvl12-96]</td><td>Règlement CEE-ONU n<sup>o</sup> 135, du 15 juin 2015, sur les prescriptions uniformes concernant l’homologation des véhicules en ce qui concerne leur comportement lors des essais de choc latéral contre un poteau; modifié en dernier lieu par la série d’amendements 01, complément 2, en vigueur dès le 29 mai 2020 (Add.134 Rév.1 Amend.2).</td></tr>
 <tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 136</td><td>Règlement CEE-ONU n<sup>o</sup> 136, du 20 janvier 2016, sur les prescriptions uniformes relatives à l’homologation des véhicules de la catégorie L en ce qui concerne les dispositions particulières applicables à la chaîne de traction électrique (Add.135).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 137</td><td>Règlement CEE-ONU n<sup>o</sup> 137, du 9 juin 2016, sur les prescriptions uniformes relatives à l’homologation des voitures particulières en ce qui concerne la protection des occupants en cas de collision frontale, axé sur le système de retenue; modifié par la série d’amendements 01, en vigueur dès le 17 décembre 2017 (Add.136 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 138</td><td>Règlement CEE-ONU n<sup>o</sup> 138, du 5 octobre 2016, sur les prescriptions uniformes relatives à l’homologation des véhicules à moteur silencieux en ce qui concerne leur audibilité réduite; modifié par la série d’amendements 01, en vigueur dès le 10 octobre 2017 (Add.137 Amend.2).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 139[^annex2-lvlu1-lvl1-lvl12-96]</td><td>Règlement CEE-ONU n<sup>o</sup> 139, du 22 janvier 2017, sur les prescriptions uniformes relatives à l’homologation des voitures particulières en ce qui concerne le système d’assistance au freinage d’urgence (Add.138).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 140[^annex2-lvlu1-lvl1-lvl12-97]</td><td>Règlement CEE-ONU n<sup>o</sup> 140, du 22 janvier 2017, sur les prescriptions uniformes relatives à l’homologation des voitures particulières en ce qui concerne les systèmes de contrôle électronique de la stabilité (ESC) (Add.139).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 141[^annex2-lvlu1-lvl1-lvl12-98]</td><td>Règlement CEE-ONU n<sup>o</sup> 141, du 22 janvier 2017, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne leur système de surveillance de la pression des pneumatiques (TPMS) (Add.140).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 142[^annex2-lvlu1-lvl1-lvl12-99]</td><td>Règlement CEE-ONU n<sup>o</sup> 142, du 22 janvier 2017, sur les prescriptions uniformes relatives à l’homologation des voitures particulières en ce qui concerne le montage des pneumatiques (Add.141).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 143[^annex2-lvlu1-lvl1-lvl12-100]</td><td>Règlement CEE-ONU n<sup>o</sup> 143, du 19 juin 2017, sur les prescriptions uniformes relatives à l’homologation des systèmes d’adaptation des moteurs de véhicules utilitaires lourds à la bicarburation, conçus pour les moteurs diesel des véhicules utilitaires lourds et des véhicules utilitaires lourds à moteur diesel; modifié par le complément 1, en vigueur dès le 10 février 2018 (Add.142 Amend.1).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 144</td><td>Règlement CEE-ONU n<sup>o</sup> 144, du 19 juillet 2018, sur les prescriptions uniformes relatives à l’homologation des systèmes automatiques d’appel d’urgence (AECS) (Add.143).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 145</td><td>Règlement CEE-ONU n<sup>o</sup> 145, du 19 juillet 2018, sur les prescriptions uniformes relatives à l’homologation des systèmes d’ancrages ISOFIX, les ancrages pour fixation supérieure ISOFIX et les positions i-Size (Add.144).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 146</td><td>Règlement CEE-ONU n<sup>o</sup> 146, du 2 janvier 2019, sur les prescriptions uniformes relatives à l’homologation des véhicules automobiles et de leurs composants en ce qui concerne la sécurité des véhicules des catégories L<sub>1</sub>, L<sub>2</sub>, L<sub>3</sub>, L<sub>4</sub> et L<sub>5</sub> fonctionnant à l’hydrogène (Add.145).</td></tr>
-<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 147</td><td>Règlement CEE-ONU n<sup>o</sup> 147, du 2 janvier 2019, sur les prescriptions uniformes relatives à l’homologation des pièces mécaniques d’attelage des ensembles de véhicules agricoles (Add.146).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 137[^annex2-lvlu1-lvl1-lvl12-97]</td><td>Règlement CEE-ONU n<sup>o</sup> 137, du 9 juin 2016, sur les prescriptions uniformes relatives à l’homologation des voitures particulières en ce qui concerne la protection des occupants en cas de collision frontale, axé sur le système de retenue; modifié en dernier lieu par la série d’amendements 02, en vigueur dès le 9 juin 2021 (Add.136 Rév.2).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 138[^annex2-lvlu1-lvl1-lvl12-98]</td><td>Règlement CEE-ONU n<sup>o</sup> 138, du 5 octobre 2016, sur les prescriptions uniformes relatives à l’homologation des véhicules à moteur silencieux en ce qui concerne leur audibilité réduite; modifié en dernier lieu par la série d’amendements 01, complément 2, en vigueur dès le 3 janvier 2021 (Add.137 Rév.1 Amend.2).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 139[^annex2-lvlu1-lvl1-lvl12-99]</td><td>Règlement CEE-ONU n<sup>o</sup> 139, du 22 janvier 2017, sur les prescriptions uniformes relatives à l’homologation des voitures particulières en ce qui concerne le système d’assistance au freinage d’urgence; modifié par le complément 1, en vigueur dès le 29 décembre 2018 (Add.138 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 140[^annex2-lvlu1-lvl1-lvl12-100]</td><td>Règlement CEE-ONU n<sup>o</sup> 140, du 22 janvier 2017, sur les prescriptions uniformes relatives à l’homologation des voitures particulières en ce qui concerne les systèmes de contrôle électronique de la stabilité (ESC); modifié en dernier lieu par le complément 4, en vigueur dès le 3 janvier 2021 (Add.139 Amend.4).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 141[^annex2-lvlu1-lvl1-lvl12-101]</td><td>Règlement CEE-ONU n<sup>o</sup> 141, du 22 janvier 2017, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne leur système de surveillance de la pression des pneumatiques (TPMS); modifié par la série d’amendements 01, en vigueur dès le 30 septembre 2021 (Add.140 Rév.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 142[^annex2-lvlu1-lvl1-lvl12-102]</td><td>Règlement CEE-ONU n<sup>o</sup> 142, du 22 janvier 2017, sur les prescriptions uniformes relatives à l’homologation des voitures particulières en ce qui concerne le montage des pneumatiques; modifié en dernier lieu par la série d’amendements 01, en vigueur dès le 30 septembre 2021 (Add.141 Rev.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 143[^annex2-lvlu1-lvl1-lvl12-103]</td><td>Règlement CEE-ONU n<sup>o</sup> 143, du 19 juin 2017, sur les prescriptions uniformes relatives à l’homologation des systèmes d’adaptation des moteurs de véhicules utilitaires lourds à la bicarburation, conçus pour les moteurs diesel des véhicules utilitaires lourds et des véhicules utilitaires lourds à moteur diesel; modifié par le complément 1, en vigueur dès le 10 février 2018 (Add.142 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 144[^annex2-lvlu1-lvl1-lvl12-104]</td><td>Règlement CEE-ONU n<sup>o</sup> 144, du 19 juillet 2018, sur les prescriptions uniformes relatives à l’homologation des systèmes automatiques d’appel d’urgence (AECS); modifié en dernier lieu par la série d’amendements 01, complément 1, en vigueur dès le 9 juin 2021 (Add.143 Rev.1 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 145[^annex2-lvlu1-lvl1-lvl12-105]</td><td>Règlement CEE-ONU n<sup>o</sup> 145, du 19 juillet 2018, sur les prescriptions uniformes relatives à l’homologation des systèmes d’ancrages ISOFIX, les ancrages pour fixation supérieure ISOFIX et les positions i-Size (Add.144).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 146[^annex2-lvlu1-lvl1-lvl12-106]</td><td>Règlement CEE-ONU n<sup>o</sup> 146, du 2 janvier 2019, sur les prescriptions uniformes relatives à l’homologation des véhicules automobiles et de leurs composants en ce qui concerne la sécurité des véhicules des catégories L1, L2, L3, L4 et L5 fonctionnant à l’hydrogène (Add.145).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 147[^annex2-lvlu1-lvl1-lvl12-107]</td><td>Règlement CEE-ONU n<sup>o</sup> 147, du 2 janvier 2019, sur les prescriptions uniformes relatives à l’homologation des pièces mécaniques d’attelage des ensembles de véhicules agricoles (Add.146).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 148[^annex2-lvlu1-lvl1-lvl12-108]</td><td>Règlement CEE-ONU n<sup>o</sup> 148, du 15 novembre 2019, énonçant des prescriptions uniformes relatives à l’homologation des dispositifs (feux) de signalisation lumineuse pour les véhicules à moteur et leurs remorques; modifié en dernier lieu par le complément 3, en vigueur dès le 30 septembre 2021 (Add.147 Amend.3).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 149[^annex2-lvlu1-lvl1-lvl12-109]</td><td>Règlement CEE-ONU n<sup>o</sup> 149, du 15 novembre 2019, énonçant des prescriptions uniformes relatives à l’homologation des dispositifs (feux) et systèmes d’éclairage de la route pour les véhicules à moteur; modifié en dernier lieu par le complément 3, en vigueur dès le 30 septembre 2021 (Add.148 Amend.3).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 150[^annex2-lvlu1-lvl1-lvl12-110]</td><td>Règlement CEE-ONU n<sup>o</sup> 150, du 15 novembre 2019, énonçant des prescriptions uniformes relatives à l’homologation des dispositifs et marquages rétro réfléchissants pour les véhicules à moteur et leurs remorques; modifié en dernier lieu par le complément 3, en vigueur dès le 30 septembre 2021 (Add.149 Amend.3).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 151[^annex2-lvlu1-lvl1-lvl12-111]</td><td>Règlement CEE-ONU n<sup>o</sup> 151, du 15 novembre 2019, énonçant des prescriptions uniformes relatives à l’homologation des véhicules à moteur en ce qui concerne le système de surveillance de l’angle mort pour la détection des vélos; modifié en dernier lieu par le complément 2, en vigueur dès le 9 juin 2021 (Add.150 Amend.2).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 152[^annex2-lvlu1-lvl1-lvl12-112]</td><td>Règlement CEE-ONU n<sup>o</sup> 152, du 23 janvier 2020, énonçant des prescriptions uniformes relatives à l’homologation des véhicules des catégories M1 et N1 en ce qui concerne leur système actif de freinage d’urgence; modifié en dernier lieu par la série d’amendements 02, en vigueur dès le 30 septembre 2021 (Add.151 Rev.2).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 153[^annex2-lvlu1-lvl1-lvl12-113]</td><td>Règlement CEE-ONU n<sup>o</sup> 153, du 22 janvier 2021, énonçant des prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne l’intégrité du système d’alimentation en carburant et la sécurité de la chaîne de traction électrique en cas de choc arrière; modifié par le complément 1, en vigueur dès le 9 juin 2021 (Add.152 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 154[^annex2-lvlu1-lvl1-lvl12-114]</td><td>Règlement CEE-ONU n<sup>o</sup> 154, du 22 janvier 2021, énonçant des prescriptions uniformes relatives à l’homologation des voitures particulières et des véhicules utilitaires légers en ce qui concerne les émissions de référence, les émissions de dioxyde de carbone et la consommation de carburant et/ou la mesure de la consommation d’énergie électrique et de l’autonomie en mode électrique (WLTP); modifié en dernier lieu par la série d’amendements 01, complément 1, en vigueur dès le 30 septembre 2021 (Add.153 Rev.1 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 155[^annex2-lvlu1-lvl1-lvl12-115]</td><td>Règlement CEE-ONU n<sup>o</sup> 155, du 22 janvier 2021, énonçant des prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne la cybersécurité et le système de gestion de la cybersécurité (Add.154).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 156[^annex2-lvlu1-lvl1-lvl12-116]</td><td>Règlement CEE-ONU n<sup>o</sup> 156, du 22 janvier 2021, énonçant des prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne les processus de mise à jour logicielle et le système de gestion des mises à jour logicielles (Add.155).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 157[^annex2-lvlu1-lvl1-lvl12-117]</td><td>Règlement CEE-ONU n<sup>o</sup> 157, du 22 janvier 2021, énonçant des prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne leur système automatisé de maintien dans la voie; modifié par le complément 1, en vigueur dès le 30 septembre 2021 (Add.156 Amend.1).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 158</td><td>Règlement CEE-ONU n<sup>o</sup> 158, du 10 juin 2021, sur les prescriptions uniformes relatives à l’homologation des dispositifs d’aide à la vision lors des manœuvres en marche arrière et des véhicules à moteur en ce qui concerne la détection par le conducteur d’usagers de la route vulnérables derrière le véhicule (Add. 157).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 159</td><td>Règlement CEE-ONU n<sup>o</sup> 159, du 10 juin 2021, sur les prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne les systèmes de détection de piétons et de cyclistes au démarrage (Add. 158).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 160</td><td>Règlement CEE-ONU n<sup>o</sup> 160, du 30 septembre 2021, sur les prescriptions uniformes relatives à l’homologation des véhicules à moteur en ce qui concerne l’enregistreur de données de route (Add. 159).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 161</td><td>Règlement CEE-ONU n<sup>o</sup> 161, du 30 septembre 2021, sur les prescriptions uniformes relatives à la protection des véhicules à moteur contre une utilisation non autorisée et à l’homologation de leurs dispositifs de protection contre une utilisation non autorisée (au moyen d’un système de verrouillage) (Add. 160).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 162</td><td>Règlement CEE-ONU n<sup>o</sup>162, du 30 septembre 2021, sur les prescriptions techniques uniformes relatives à l’homologation des dispositifs d’immobilisation et à l’homologation d’un véhicule en ce qui concerne son dispositif d’immobilisation (Add. 161).</td></tr>
+<tr><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 163</td><td>Règlement CEE-ONU n<sup>o</sup> 163, du 30 septembre 2021, sur les prescriptions uniformes concernant un régime d’homologation des systèmes d’alarme pour véhicules et à l’homologation d’un véhicule en ce qui concerne son système d’alarme (Add. 162).</td></tr>
 </table>
 
-[^annex2-lvlu1-lvl1-lvl12-2]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-2]: [RO 2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85)
 [^annex2-lvlu1-lvl1-lvl12-3]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-4]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-5]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-6]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-7]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-8]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
-[^annex2-lvlu1-lvl1-lvl12-9]: [RO 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
-[^annex2-lvlu1-lvl1-lvl12-10]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-9]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-10]: [RO 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
 [^annex2-lvlu1-lvl1-lvl12-11]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
-[^annex2-lvlu1-lvl1-lvl12-12]: [RO 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
-[^annex2-lvlu1-lvl1-lvl12-13]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-12]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-13]: [RO 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
 [^annex2-lvlu1-lvl1-lvl12-14]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-15]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-16]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
@@ -5877,8 +5921,8 @@ Annexe 2*[^t-1]*
 [^annex2-lvlu1-lvl1-lvl12-32]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-33]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-34]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
-[^annex2-lvlu1-lvl1-lvl12-35]: [RO 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
-[^annex2-lvlu1-lvl1-lvl12-36]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-35]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-36]: [RO 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
 [^annex2-lvlu1-lvl1-lvl12-37]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-38]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-39]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
@@ -5892,17 +5936,17 @@ Annexe 2*[^t-1]*
 [^annex2-lvlu1-lvl1-lvl12-47]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-48]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-49]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
-[^annex2-lvlu1-lvl1-lvl12-50]: [RO 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
-[^annex2-lvlu1-lvl1-lvl12-51]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-50]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-51]: [RO 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
 [^annex2-lvlu1-lvl1-lvl12-52]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-53]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-54]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
-[^annex2-lvlu1-lvl1-lvl12-55]: [RO 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
-[^annex2-lvlu1-lvl1-lvl12-56]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-55]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-56]: [RO 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
 [^annex2-lvlu1-lvl1-lvl12-57]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
-[^annex2-lvlu1-lvl1-lvl12-58]: [RO 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
+[^annex2-lvlu1-lvl1-lvl12-58]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-59]: [RO 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
-[^annex2-lvlu1-lvl1-lvl12-60]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-60]: [RO 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
 [^annex2-lvlu1-lvl1-lvl12-61]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-62]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-63]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
@@ -5918,7 +5962,7 @@ Annexe 2*[^t-1]*
 [^annex2-lvlu1-lvl1-lvl12-73]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-74]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-75]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
-[^annex2-lvlu1-lvl1-lvl12-76]: [RO 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
+[^annex2-lvlu1-lvl1-lvl12-76]: [RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-77]: [RO 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
 [^annex2-lvlu1-lvl1-lvl12-78]: [RO 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
 [^annex2-lvlu1-lvl1-lvl12-79]: [RO 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
@@ -5929,20 +5973,37 @@ Annexe 2*[^t-1]*
 [^annex2-lvlu1-lvl1-lvl12-84]: [RO 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
 [^annex2-lvlu1-lvl1-lvl12-85]: [RO 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
 [^annex2-lvlu1-lvl1-lvl12-86]: [RO 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
-[^annex2-lvlu1-lvl1-lvl12-87]: [RO 2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458)
+[^annex2-lvlu1-lvl1-lvl12-87]: [RO 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
 [^annex2-lvlu1-lvl1-lvl12-88]: [RO 2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458)
 [^annex2-lvlu1-lvl1-lvl12-89]: [RO 2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458)
 [^annex2-lvlu1-lvl1-lvl12-90]: [RO 2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458)
 [^annex2-lvlu1-lvl1-lvl12-91]: [RO 2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458)
 [^annex2-lvlu1-lvl1-lvl12-92]: [RO 2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458)
 [^annex2-lvlu1-lvl1-lvl12-93]: [RO 2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458)
-[^annex2-lvlu1-lvl1-lvl12-94]: [RO 2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454)
+[^annex2-lvlu1-lvl1-lvl12-94]: [RO 2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458)
 [^annex2-lvlu1-lvl1-lvl12-95]: [RO 2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454)
-[^annex2-lvlu1-lvl1-lvl12-96]: [RO 2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444)
-[^annex2-lvlu1-lvl1-lvl12-97]: [RO 2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444)
-[^annex2-lvlu1-lvl1-lvl12-98]: [RO 2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444)
+[^annex2-lvlu1-lvl1-lvl12-96]: [RO 2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454)
+[^annex2-lvlu1-lvl1-lvl12-97]: [RO 2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620)
+[^annex2-lvlu1-lvl1-lvl12-98]: [RO 2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620)
 [^annex2-lvlu1-lvl1-lvl12-99]: [RO 2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444)
 [^annex2-lvlu1-lvl1-lvl12-100]: [RO 2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444)
+[^annex2-lvlu1-lvl1-lvl12-101]: [RO 2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444)
+[^annex2-lvlu1-lvl1-lvl12-102]: [RO 2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444)
+[^annex2-lvlu1-lvl1-lvl12-103]: [RO 2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444)
+[^annex2-lvlu1-lvl1-lvl12-104]: [RO 2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85)
+[^annex2-lvlu1-lvl1-lvl12-105]: [RO 2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85)
+[^annex2-lvlu1-lvl1-lvl12-106]: [RO 2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85)
+[^annex2-lvlu1-lvl1-lvl12-107]: [RO 2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85)
+[^annex2-lvlu1-lvl1-lvl12-108]: [RO 2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88)
+[^annex2-lvlu1-lvl1-lvl12-109]: [RO 2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88)
+[^annex2-lvlu1-lvl1-lvl12-110]: [RO 2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88)
+[^annex2-lvlu1-lvl1-lvl12-111]: [RO 2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88)
+[^annex2-lvlu1-lvl1-lvl12-112]: [RO 2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88)
+[^annex2-lvlu1-lvl1-lvl12-113]: [RO 2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211)
+[^annex2-lvlu1-lvl1-lvl12-114]: [RO 2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211)
+[^annex2-lvlu1-lvl1-lvl12-115]: [RO 2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211)
+[^annex2-lvlu1-lvl1-lvl12-116]: [RO 2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211)
+[^annex2-lvlu1-lvl1-lvl12-117]: [RO 2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211)
 
 ### 13 Codes normalisés de l’OCDE
 
@@ -5983,20 +6044,20 @@ Annexe 2*[^t-1]*
 ### 21 Droit UE
 
 <table>
-<tr><th colspan="2">Texte législatif de base UE</th><th>Titre et informations relatives à la publication du texte législatif de base et des actes modificateurs</th></tr>
-<tr><td colspan="2">Directive 97/68/CE</td><td>Directive 97/68/CE du Parlement européen et du Conseil du 16 décembre 1997 sur le rapprochement des législations des États membres relatives aux mesures contre les émissions de gaz et de particules polluants provenant des moteurs à combustion interne destinés aux engins mobiles non routiers, JO L 59 du 27.2.1998, p. 1; modifié en dernier lieu par le règlement (UE) 2016/1628, JO L 252 du 16.9.2016, p. 53.</td></tr>
-<tr><td>Règlement (UE) 2016/1628</td><td colspan="2">Règlement (UE) 2016/1628 du Parlement européen et du Conseil 14 septembre 2016 relatif aux exigences concernant les limites d’émission pour les gaz polluants et les particules polluantes et la réception par type pour les moteurs à combustion interne destiné aux engins mobiles non routiers, modifiant les règlements (UE) n<sup>o</sup> 1024/2012 et (UE) n<sup>o</sup> 167/2013 et modifiant et abrogeant la directive 97/68/CE, JO L 252 du 16.9.2016, p. 53; modifié par le règlement (UE) 2017/656, JO L 102 du 13.4.2017, p. 364.</td></tr>
-<tr><td>Règlement (UE) 2017/654</td><td colspan="3">Règlement délégué (UE) 2017/654 de la Commission du 19 décembre 2016 complétant le règlement (UE) 2016/1628 du Parlement européen et du Conseil en ce qui concerne les prescriptions techniques et générales relatives aux limites d’émissions et à la réception par type pour les moteurs à combustion interne destinés aux engins mobiles non routiers, JO L 102 du 13.4.2017, p. 1; modifié par le règlement (UE) 2018/989, JO L 182 du 18.7.2018, p. 61.</td></tr>
-<tr><td>Règlement (UE) 2017/655</td><td colspan="3">Règlement délégué (UE) 2017/655 de la Commission du 19 décembre 2016 complétant le règlement (UE) 2016/1628 du Parlement européen et du Conseil en ce qui concerne la surveillance des émissions de gaz polluants des moteurs à combustion interne en service installés sur des engins mobiles non routiers, JO L 102 du 13.4.2017, p. 334; modifié par le règlement (UE) 2018/987, JO L 182 du 18.7.2018, p. 40.</td></tr>
-<tr><td>Règlement (UE) 2017/656</td><td colspan="3">Règlement d’exécution (UE) 2017/656 de la Commission du 19 décembre 2016 établissant les prescriptions administratives relatives aux limites d’émissions et à la réception par type pour les moteurs à combustion interne destinés aux engins mobiles non routiers conformément au règlement (UE) 2016/1628 du Parlement européen et du Conseil, JO L 102 du 13.4.2017, p. 364; modifié par le règlement (UE) 2018/988, JO L 182 du 18.7.2018, p. 46.</td></tr>
+<tr><th>Texte législatif de base UE</th><th>Titre et informations relatives à la publication du texte législatif de base et des actes modificateurs</th></tr>
+<tr><td>Directive 97/68/CE</td><td>Directive 97/68/CE du Parlement européen et du Conseil du 16 décembre 1997 sur le rapprochement des législations des États membres relatives aux mesures contre les émissions de gaz et de particules polluants provenant des moteurs à combustion interne destinés aux engins mobiles non routiers, JO L 59 du 27.2.1998, p. 1; modifié en dernier lieu par le règlement (UE) 2016/1628, JO L 252 du 16.9.2016, p. 53.</td></tr>
+<tr><td>Règlement (UE) 2016/1628</td><td>Règlement (UE) 2016/1628 du Parlement européen et du Conseil 14 septembre 2016 relatif aux exigences concernant les limites d’émission pour les gaz polluants et les particules polluantes et la réception par type pour les moteurs à combustion interne destiné aux engins mobiles non routiers, modifiant les règlements (UE) n<sup>o</sup> 1024/2012 et (UE) n<sup>o</sup> 167/2013 et modifiant et abrogeant la directive 97/68/CE, JO L 252 du 16.9.2016, p. 53; modifié en dernier lieu par le règlement (UE) 2021/1068, JO L 230 du 30.6.2021, p. 1.</td></tr>
+<tr><td>Règlement (UE) 2017/654</td><td>Règlement délégué (UE) 2017/654 de la Commission du 19 décembre 2016 complétant le règlement (UE) 2016/1628 du Parlement européen et du Conseil en ce qui concerne les prescriptions techniques et générales relatives aux limites d’émissions et à la réception par type pour les moteurs à combustion interne destinés aux engins mobiles non routiers, JO L 102 du 13.4.2017, p. 1; modifié en dernier lieu par le règlement délégué (UE) 2021/1398, JO L 299 du 24.8.2021, p. 1.</td></tr>
+<tr><td>Règlement (UE) 2017/655</td><td>Règlement délégué (UE) 2017/655 de la Commission du 19 décembre 2016 complétant le règlement (UE) 2016/1628 du Parlement européen et du Conseil en ce qui concerne la surveillance des émissions de gaz polluants des moteurs à combustion interne en service installés sur des engins mobiles non routiers, JO L 102 du 13.4.2017, p. 334; modifié par le règlement (UE) 2018/987, JO L 182 du 18.7.2018, p. 40.</td></tr>
+<tr><td>Règlement (UE) 2017/656</td><td>Règlement d’exécution (UE) 2017/656 de la Commission du 19 décembre 2016 établissant les prescriptions administratives relatives aux limites d’émissions et à la réception par type pour les moteurs à combustion interne destinés aux engins mobiles non routiers conformément au règlement (UE) 2016/1628 du Parlement européen et du Conseil, JO L 102 du 13.4.2017, p. 364; modifié par le règlement (UE) 2018/988, JO L 182 du 18.7.2018, p. 46.</td></tr>
 </table>
 
 ### 22 Règlements de l’UNECE
 
 <table>
 <tr><th>N<sup>o</sup> du règlement CEE-ONU</th><th>Titre du règlement avec compléments</th></tr>
-<tr><td>Règlement CEE-ONU n<sup>o</sup> 96</td><td>Règlement CEE-ONU n<sup>o</sup> 96, du 15 décembre 1995, sur les prescriptions uniformes relatives à l’homologation des moteurs destinés aux tracteurs agricoles et forestiers ainsi qu’aux engins mobiles non routiers en ce qui concerne les émissions de polluants provenant du moteur; modifié en dernier lieu par la série d’amendements 04, complément 1, en vigueur dès le 15 juin 2015 (Add.95 Rév.3 Amend.1).</td></tr>
-<tr><td>Règlement CEE-ONU n<sup>o</sup> 120[^annex2-lvlu1-lvl2-lvl22-1]</td><td>Règlement CEE-ONU n<sup>o</sup> 120, du 6 avril 2005, sur les prescriptions uniformes relatives à l’homologation des moteurs à combustion interne destinés aux tracteurs agricoles et forestiers ainsi qu’aux engins mobiles non routiers en ce qui concerne la puissance nette, le couple net et la consommation spécifique; modifié en dernier lieu par la série d’amendements 01, en vigueur dès le 26 juillet 2012 (Add.119 Rév.1).</td></tr>
+<tr><td>Règlement CEE-ONU n<sup>o</sup> 96</td><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 96, du 15 décembre 1995, sur les prescriptions uniformes relatives à l’homologation des moteurs destinés aux tracteurs agricoles et forestiers ainsi qu’aux engins mobiles non routiers en ce qui concerne les émissions de polluants provenant du moteur; modifié en dernier lieu par la série d’amendements 05, en vigueur dès le 29 décembre 2018 (Add.95 Rév.3 Amend.2).</td></tr>
+<tr><td>Règlement CEE-ONU n<sup>o</sup> 120[^annex2-lvlu1-lvl2-lvl22-1]</td><td colspan="2">Règlement CEE-ONU n<sup>o</sup> 120, du 6 avril 2005, sur les prescriptions uniformes relatives à l’homologation des moteurs à combustion interne destinés aux tracteurs agricoles et forestiers ainsi qu’aux engins mobiles non routiers en ce qui concerne la puissance nette, le couple net et la consommation spécifique; modifié en dernier lieu par la série d’amendements 02, en vigueur dès le 29 décembre 2018 (Add.119 Rév.1 Amend.1).</td></tr>
 </table>
 
 [^annex2-lvlu1-lvl2-lvl22-1]: [RO 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
@@ -6011,14 +6072,14 @@ Annexe 4*[^t-3]*
 
 ## Disques et signes
 
-[^t-3]: Mise à jour selon le ch. II des O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), du 6 sept. 2000 ([RO 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), le ch. I de l’O du 20 sept. 2002 ([RO 2002 3176](https://fedlex.data.admin.ch/eli/oc/2002/471)), le ch. II de l’O du 16 janv. 2008 ([RO 2008 355](https://fedlex.data.admin.ch/eli/oc/2008/95)), le ch. II al. 1 de l’O du 14 oct. 2009 ([RO 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)) et le ch. II de l’O du 2 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
+[^t-3]: Mise à jour par le ch. II des O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), du 6 sept. 2000 ([RO 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), le ch. I de l’O du 20 sept. 2002 ([RO 2002 3176](https://fedlex.data.admin.ch/eli/oc/2002/471)), le ch. II de l’O du 16 janv. 2008 ([RO 2008 355](https://fedlex.data.admin.ch/eli/oc/2008/95)), le ch. II al. 1 de l’O du 14 oct. 2009 ([RO 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)) et le ch. II de l’O du 2 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 
 ### 1 Disque indiquant la vitesse maximale
 
 ### (art. 117, al. 2, 62, al. 2, 144, al. 7, et 195, al. 5)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image2.png)</td><td>Le disque a une bordure rouge et porte des chiffres noirs sur fond blanc. Il peut être rétroréfléchissant.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image2.png)</td><td>Le disque a une bordure rouge et porte des chiffres noirs sur fond blanc. Il peut être rétroréfléchissant.</td></tr>
 </table>
 
 <table>
@@ -6036,7 +6097,7 @@ Annexe 4*[^t-3]*
 ### (art. 92, al. 2)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image3.png)</td><td>Le fond du signe est bleu, le symbole est blanc Côté du carré 8 cm Hauteur du symbole 6,5 cm Largeur du symbole 6,5 cm Épaisseur du trait 0,4 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image3.png)</td><td>Le fond du signe est bleu, le symbole est blanc Côté du carré 8 cm Hauteur du symbole 6,5 cm Largeur du symbole 6,5 cm Épaisseur du trait 0,4 cm</td></tr>
 </table>
 
 ### 3 Signe pour les véhicules des sourds
@@ -6044,7 +6105,7 @@ Annexe 4*[^t-3]*
 ### (art. 92, al. 2)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image4.png)</td><td>Le fond du signe carré de 8 cm de côté est bleu, le symbole est blanc.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image4.png)</td><td>Le fond du signe carré de 8 cm de côté est bleu, le symbole est blanc.</td></tr>
 </table>
 
 ### 4 Signe distinctif de nationalité
@@ -6054,7 +6115,7 @@ Annexe 4*[^t-3]*
 Le signe suisse de nationalité se compose de deux grandes lettres latines «CH». Les lettres de couleur noire doivent être appliquées sur un fond de forme elliptique de couleur blanche, l’axe principal de l’ellipse étant horizontal.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image5.png)</td><td>Dimensions minimales: Hauteur de l’ellipse Largeur de l’ellipse Hauteur des lettres Largeur des lettres Épaisseur du trait</td><td>11,5 cm 17,5 cm 8 cm 4 cm 1 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image5.png)</td><td>Dimensions minimales: Hauteur de l’ellipse Largeur de l’ellipse Hauteur des lettres Largeur des lettres Épaisseur du trait</td><td>11,5 cm 17,5 cm 8 cm 4 cm 1 cm</td></tr>
 </table>
 
 ### 5 Signes pour véhicules automobiles servant à des courses d’apprentissage
@@ -6064,7 +6125,7 @@ Le signe suisse de nationalité se compose de deux grandes lettres latines «CH�
 La plaquette carrée sera placée, à l’arrière du véhicule, le plus verticalement possible et de manière bien visible. Le fond de la plaquette est bleu, la lettre «L» est blanche.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image6.png)</td><td></td><td colspan="2">Dimensions de la plaquette «L» pour:</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image6.png)</td><td></td><td colspan="2">Dimensions de la plaquette «L» pour:</td></tr>
 <tr><td></td><td></td><td>Véhicules à quatre roues</td><td>Motocycles à deux roues, tricycles, quadricycles et quadricycles légers à moteur</td></tr>
 <tr><td></td><td>Côté du carré</td><td>16,0 cm</td><td>12,0 cm</td></tr>
 <tr><td></td><td>Hauteur du «L»</td><td>10,0 cm</td><td>8,0 cm</td></tr>
@@ -6078,14 +6139,14 @@ La plaquette carrée sera placée, à l’arrière du véhicule, le plus vertica
 
 La palette porte une flèche blanche sur fond rouge. Les deux couleurs doivent être en matière rétroréfléchissante.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image7.png)
 
 ### 7 Signe pour transports scolaires
 
 ### (art. 123*a*, al. 2)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image8.png)</td><td>Le fond du panneau carré aux coins arrondis est jaune (jaune sélectif) ou orange (jaune-auto), le symbole et la bordure sont noirs. Le symbole doit correspondre au signal de danger 1.23. Longueur du côté 40 cm Largeur de la bordure 2 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image8.png)</td><td>Le fond du panneau carré aux coins arrondis est jaune (jaune sélectif) ou orange (jaune-auto), le symbole et la bordure sont noirs. Le symbole doit correspondre au signal de danger 1.23. Longueur du côté 40 cm Largeur de la bordure 2 cm</td></tr>
 </table>
 
 ### 7*a* Exemples de panneaux indicateurs concernant le port obligatoire de la ceinture de sécurité
@@ -6093,7 +6154,7 @@ La palette porte une flèche blanche sur fond rouge. Les deux couleurs doivent �
 ### (art. 3*a*, al. 3, OCR)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image9.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image10.png)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image9.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image10.png)</td></tr>
 <tr><td colspan="2">Les symboles sont blancs, le fond est bleu.</td></tr>
 </table>
 
@@ -6103,19 +6164,19 @@ La palette porte une flèche blanche sur fond rouge. Les deux couleurs doivent �
 
 Figure I
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image11.png)
 
 Figure II
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image12.png)
 
 Figure III
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image13.png)
 
 Figure IV
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image14.png)
 
 ### 9 Plaques d’identification arrière pour remorques et semi-remorques
 
@@ -6123,25 +6184,25 @@ Figure IV
 
 Figure I
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image15.png)
 
 Figure II
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image16.png)
 
 Figure III
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image17.png)
 
 Figure IV
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image18.png)
 
 ### 10 Plaque d’identification arrière pour véhicules dont la vitesse maximale n’excède pas 45 km/h
 
 ### (art. 68, al. 4)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image19.png)
 
 (1) matériau rouge rétroréfléchissant ou réflecteur prismatique (classe 1 ou classe 2)
 
@@ -6174,7 +6235,7 @@ Si les prescriptions relatives à l’emplacement ne peuvent pas être respecté
 Le signe sera placé à l’avant et à l’arrière du véhicule ou de l’ensemble, le plus verticalement possible et de manière bien visible. Le fond du signe carré est rouge, le «S» jaune. Les dimensions minimales sont
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image20.png)</td><td>Côté du carré: 25 cm Hauteur du «S»: <sup>2</sup>/<sub>3</sub> du côté du carré Largeur du «S»: <sup>1</sup>/<sub>2</sub> du côté du carré Épaisseur du trait: <sup>1</sup>/<sub>10</sub> du côté du carré</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image20.png)</td><td>Côté du carré: 25 cm Hauteur du «S»: <sup>2</sup>/<sub>3</sub> du côté du carré Largeur du «S»: <sup>1</sup>/<sub>2</sub> du côté du carré Épaisseur du trait: <sup>1</sup>/<sub>10</sub> du côté du carré</td></tr>
 </table>
 
 [^annex4-lvlu1-lvl11-1]: [RS 741.631](https://fedlex.data.admin.ch/eli/cc/2002/475)
@@ -6185,7 +6246,7 @@ Annexe 5*[^t-4]*
 
 ## Mesure de la fumée, des gaz d’échappement et de l’évaporation
 
-[^t-4]: Mise à jour selon le ch. II des O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), du 6 sept. 2000 ([RO 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), du 21 août 2002 ([RO 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), du 16 juin 2003 ([RO 2003 1819](https://fedlex.data.admin.ch/eli/oc/2003/271)), le ch. II al. 1 de l’O du 10 juin 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), le ch. II des O du 28 mars 2007 ([RO 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)), du 16 janv. 2008 ([RO 2008 355](https://fedlex.data.admin.ch/eli/oc/2008/95)), le ch. II al. 1 de l’O du 14 oct. 2009 ([RO 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), le ch. II de l’O du 2 mars 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), le ch. II al. 2 de l’O du 21 janv. 2015 ([RO 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)), le ch. II al. 1 des O du 16 nov. 2016 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)) et du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> mai 2019 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
+[^t-4]: Mise à jour par le ch. II des O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), du 6 sept. 2000 ([RO 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), du 21 août 2002 ([RO 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), du 16 juin 2003 ([RO 2003 1819](https://fedlex.data.admin.ch/eli/oc/2003/271)), le ch. II al. 1 de l’O du 10 juin 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), le ch. II des O du 28 mars 2007 ([RO 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)), du 16 janv. 2008 ([RO 2008 355](https://fedlex.data.admin.ch/eli/oc/2008/95)), le ch. II al. 1 de l’O du 14 oct. 2009 ([RO 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), le ch. II de l’O du 2 mars 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), le ch. II al. 2 de l’O du 21 janv. 2015 ([RO 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)), le ch. II al. 1 des O du 16 nov. 2016 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), du 21 nov. 2018 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)) et le ch. II de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 ### 1 Mesure de la fumée des moteurs à allumage par compression
 
@@ -6227,7 +6288,7 @@ Annexe 5*[^t-4]*
   - d. les tracteurs;
   - e. les véhicules à chenilles.
 
-- 211\.2 Il est suffisant qu’en matière d’émissions de gaz d’échappement les véhicules de la catégorie M<sub>1</sub> ayant une affectation particulière (directive 2007/46/CE, annexe XI), qui sont construits sur la base de véhicules d’une autre catégorie, répondent aux exigences applicables au véhicule de base.
+- 211\.2 Il est suffisant qu’en matière d’émissions de gaz d’échappement les véhicules de la catégorie M<sub>1</sub> ayant une affectation particulière (règlement (UE) 2018/858), qui sont construits sur la base de véhicules d’une autre catégorie, répondent aux exigences applicables au véhicule de base.
 - 211*a* Les moteurs à allumage commandé ou à allumage par compression des voitures automobiles de travail ainsi que les moteurs de travail doivent satisfaire à la directive 97/68/CE, au règlement (UE) 2016/1628 ou au règlement CEE-ONU n<sup>o</sup> 96.
 - 211*a*.1 ...
 - 211*a*.2 Si des véhicules des catégories M ou N répondant au règlement (CE) n<sup>o</sup> 715/2007 ou au règlement CEE-ONU n<sup>o</sup> 83 sont transformés a posteriori en voitures automobiles de travail ou si leur vitesse maximale est abaissée sans modification de l’équipement influant sur les émissions de gaz d’échappement, il suffit qu’ils soient conformes aux exigences applicables au véhicule de base en matière de gaz d’échappement.
@@ -6256,7 +6317,7 @@ Annexe 5*[^t-4]*
 
 ### 22 Contrôles individuels
 
-Lors des contrôles individuels (art. 105, al. 1, OAC) des voitures automobiles légères, il faut en règle générale effectuer un contrôle subséquent des gaz d’échappement, selon l’art. 36, en utilisant des appareils mesureurs réceptionnés.
+Lors des contrôles individuels des voitures automobiles légères, il faut en règle générale effectuer un contrôle subséquent des gaz d’échappement, selon l’art. 36, en utilisant des appareils mesureurs réceptionnés.
 
 ### 23 Réaspiration des gaz du carter
 
@@ -6269,7 +6330,7 @@ Annexe 6*[^t-5]*
 
 ## Mesurage du niveau sonore
 
-[^t-5]: Mise à jour selon le ch. II des O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), du 21 août 2002 ([RO 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), le ch. II al. 1 de l’O du 10 juin 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), le ch. I de l’O du 22 oct. 2008 ([RO 2008 5567](https://fedlex.data.admin.ch/eli/oc/2008/768), le ch. II al. 1 de l’O du 14 oct. 2009 ([RO 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), le ch. I 1 de l’O du 8 sept. 2010 portant mod. de certaines dispositions concernant les instruments de mesure des émissions sonores ([RO 2010 4489](https://fedlex.data.admin.ch/eli/oc/2010/635)), le ch. II de l’O du 2 mars 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), le ch. II al. 1 des O du 16 nov. 2016 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)) et du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> mai 2019 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
+[^t-5]: Mise à jour par le ch. II des O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), du 21 août 2002 ([RO 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), le ch. II al. 1 de l’O du 10 juin 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), le ch. I de l’O du 22 oct. 2008 ([RO 2008 5567](https://fedlex.data.admin.ch/eli/oc/2008/768), le ch. II al. 1 de l’O du 14 oct. 2009 ([RO 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), le ch. I 1 de l’O du 8 sept. 2010 portant mod. de certaines dispositions concernant les instruments de mesure des émissions sonores ([RO 2010 4489](https://fedlex.data.admin.ch/eli/oc/2010/635)), le ch. II de l’O du 2 mars 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), le ch. II al. 1 des O du 16 nov. 2016 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), du 21 nov. 2018 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)) et le ch. II de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 ### 1 Étendue du mesurage
 
@@ -6293,7 +6354,7 @@ Annexe 6*[^t-5]*
   - b. les chariots à moteur,
   - c. les véhicules dont la vitesse maximale ne peut, de par leur construction, atteindre plus de 25 km/h.
 
-- 111\.12 Il est suffisant qu’en matière d’émissions sonores les véhicules de la catégorie M<sub>1</sub> ayant une affectation particulière (directive 2007/46/CE, annexe XI), qui sont construits sur la base de véhicules d’une autre catégorie, répondent aux exigences applicables au véhicule de base.
+- 111\.12 Il est suffisant qu’en matière d’émissions sonores les véhicules de la catégorie M<sub>1</sub> ayant une affectation particulière (règlement (UE) 2018/858), qui sont construits sur la base de véhicules d’une autre catégorie, répondent aux exigences applicables au véhicule de base.
 - 111\.2 Les tracteurs doivent être conformes aux exigences du règlement (UE) n<sup>o</sup> 167/2013 et du règlement délégué (UE) 2018/985.
 - 111\.3
 
@@ -6320,7 +6381,7 @@ Annexe 6*[^t-5]*
 
 ### 12 Contrôles individuels
 
-Lors du contrôle individuel (art. 105, al. 1, OAC), on procède à un mesurage avec le véhicule à l’arrêt conformément au ch. 4. Les valeurs inscrites sur la fiche de réception, la fiche de données ou dans le permis de circulation peuvent alors être dépassées de 5 dB(A) au maximum lors des mesurages à proximité de l’échappement et de 2 dB(A) au maximum lors des mesurages «à 7 mètres». S’il subsiste des doutes quant à la conformité du véhicule contrôlé, même si ces valeurs sont respectées, on peut ordonner un mesurage au passage du véhicule.
+Lors du contrôle individuel, on procède à un mesurage avec le véhicule à l’arrêt conformément au ch. 4. Les valeurs inscrites sur la fiche de réception, la fiche de données ou dans le permis de circulation peuvent alors être dépassées de 5 dB(A) au maximum lors des mesurages à proximité de l’échappement et de 2 dB(A) au maximum lors des mesurages «à 7 mètres». Un mesurage au passage du véhicule peut être ordonné en plus.
 
 ### 13 Contrôle de conformité
 
@@ -6364,7 +6425,7 @@ Figure 1
 
 **Position du microphone pour le mesurage du niveau sonore au passage du véhicule**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image21.png)
 
 ### 34 Position de mesurage
 
@@ -6399,10 +6460,10 @@ Figure 1
 - 351\.212 Les voitures automobiles légères équipées d’une boîte de vitesses à plus de quatre rapports (en marche avant) sont essayées successivement sur les deuxième et troisième rapports. Seule la totalité des rapports de transmission destinés à une utilisation normale sur route doivent être pris en considération. On prend la moyenne arithmétique des deux niveaux sonores relevés.
 - 351\.213 Les voitures automobiles lourdes dont le nombre total de rapports (toutes les possibilités de marche avant) est X (y compris les rapports obtenus au moyen d’une boîte de vitesses auxiliaire ou d’un pont à plusieurs rapports), sont essayées successivement dans les rapports dont le rang est supérieur ou égal à
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image22.png)
 
 <table>
-<tr><td>(si</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image22.png)</td><td>ne correspond pas à un nombre entier, on choisit le rapport immédiatement supérieur).</td></tr>
+<tr><td>(si</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image22.png)</td><td>ne correspond pas à un nombre entier, on choisit le rapport immédiatement supérieur).</td></tr>
 </table>
 
 - Est déterminant le niveau sonore maximal mesuré.
@@ -6482,7 +6543,7 @@ Figure 2
 
 **Position de mesurage**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image23.png)
 
 - 422 Conditions de fonctionnement
 - 422\.1 À l’exception des véhicules mentionnés au ch. 422.2, le mesurage du niveau sonore est effectué aux trois quarts du régime maximal stabilisé auquel le moteur développe la plus grande puissance utile. S’il est impossible, techniquement, d’effectuer le mesurage, celui-ci doit être effectué au régime stabilisable le plus proche du régime prescrit.
@@ -6521,7 +6582,7 @@ Figure 6
 
 **Position de mesurage**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image24.png)
 
 - 442 Conditions de fonctionnement
 - 442\.1 Avant chaque mesure, l’installation à air comprimé est portée à la pression de fonctionnement maximale; la mesure est effectuée moteur arrêté.
@@ -6540,7 +6601,7 @@ Annexe 7*[^t-6]*
 
 ## Freins Mode d’expertise et prescriptions relatives à l’efficacité
 
-[^t-6]: Mise à jour selon le ch. II des O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), du 6 sept. 2000 ([RO 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), du 21 août 2002 ([RO 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), le ch. II al. 1 des O du 10 juin 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), du 14 oct. 2009 ([RO 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), le ch. II de l’O du 2 mars 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), le ch. II al. 2 de l’O du 21 janv. 2015 ([RO 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)), le ch. II al. 2 de l’O du 15 avr. 2015 ([RO 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)), le ch. II al. 1 des O du 16 nov. 2016 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)) et du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> mai 2019 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
+[^t-6]: Mise à jour par le ch. II des O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), du 6 sept. 2000 ([RO 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), du 21 août 2002 ([RO 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), le ch. II al. 1 des O du 10 juin 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), du 14 oct. 2009 ([RO 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), le ch. II de l’O du 2 mars 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), le ch. II al. 2 de l’O du 21 janv. 2015 ([RO 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)), le ch. II al. 2 de l’O du 15 avr. 2015 ([RO 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)), le ch. II al. 1 des O du 16 nov. 2016 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), du 21 nov. 2018 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)) et le ch. II de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 ### 1 Mode d’expertise pour les véhicules soumis aux prescriptions internationales
 
@@ -6614,13 +6675,13 @@ Les systèmes antiblocage automatiques équipant les voitures automobiles et leu
 
 ### 19 Véhicules transformés à partir de véhicules d’une autre catégorie
 
-Les véhicules de la catégorie M<sub>1</sub> ayant une affectation particulière (annexe XI de la directive 2007/46/CE) et construits à partir de véhicules d’une autre catégorie doivent seulement satisfaire aux exigences applicables au véhicule de base en matière de freinage.
+Les véhicules de la catégorie M<sub>1</sub> ayant une affectation particulière (règlement (UE) 2018/858) et construits à partir de véhicules d’une autre catégorie doivent seulement satisfaire aux exigences applicables au véhicule de base en matière de freinage.
 
 ### 2 Prescriptions relatives à l’efficacité des véhicules soumis aux prescriptions internationales
 
 L’efficacité des freins peut aussi être calculée, notamment lors du contrôle subséquent, en établissant le taux de freinage selon la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image25.png)
 
 ### 21 Véhicules des catégories M, N, T et C
 
@@ -6686,8 +6747,8 @@ Les contrôles de freins selon les ch. 211, 212 et 214 doivent être effectués 
 - les remorques normales 50 %
 - les semi-remorques 45 %
 - les remorques à timon rigide et les remorques à essieu central 50 %
-- les remorques dont la v<sub>max</sub> n’excède pas 30 km/h 35 %
-- Sur les remorques équipées de freins à air comprimé, la pression dans la conduite de frein ne doit pas dépasser 6,5 bars et, dans la conduite d’alimentation, 7,0 bars pendant l’essai de freinage.
+- les remorques dont la vmax n’excède pas 30 km/h 35 %
+- Sur les remorques équipées de freins à air comprimé, la pression dans la conduite de commande ne doit pas dépasser 6,5 bars et, dans la conduite d’alimentation, 7,0 bars pendant l’essai de freinage.
 - Sur les remorques équipées de freins hydrauliques à double conduite, la pression dans la conduite de commande ne doit pas dépasser 115 bars et doit être comprise entre 15 et 18 bars dans la conduite auxiliaire pendant l’essai de freinage.
 - *222* *Frein de stationnement*
 - Le système du frein de stationnement de la remorque ou de la semi-remorque doit pouvoir empêcher la remorque ou la semi-remorque chargée, désaccouplée du véhicule tracteur, de se mettre en mouvement sur une rampe ou une déclivité de 18 %. La force exercée sur le dispositif de commande ne doit pas dépasser 600 N.
@@ -6756,7 +6817,7 @@ Les contrôles de freins selon les ch. 211, 212 et 214 doivent être effectués 
 - 311\.1 La décélération doit être atteinte par le véhicule vide, et par le véhicule complètement chargé, sur une route horizontale et sèche, à revêtement dur. L’efficacité de freinage doit être atteinte par freinage à froid (température mesurée aux tambours ou disques de frein inférieure à 100 °C). On mesure la décélération moyenne, définie comme la diminution moyenne de la vitesse en m/s<sup>2</sup> sur le trajet parcouru entre la mise en action du système de freinage (y compris le temps de réponse) et le moment où le véhicule est arrêté. Si un appareil mesureur ne permet d’enregistrer que la décélération maximale, celle-ci doit être de 20 % plus élevée que la décélération moyenne prescrite.
 - L’efficacité des freins peut être calculée en établissant le freinage selon la formule ci-après, notamment lors du contrôle subséquent:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image26.png)
 
 - 311\.2 Vitesse d’essai
 - Pour le contrôle du frein de service, la vitesse d’essai est de 50 km/h et lors du contrôle du frein auxiliaire, de 30 km/h. Si le véhicule n’atteint pas ces vitesses, le contrôle est effectué à la vitesse maximale du véhicule.
@@ -6888,7 +6949,7 @@ Annexe 8*[^t-7]*
 
 ## Composants dangereux des véhicules
 
-[^t-7]: Mise à jour selon le ch. II de l’O du 28 mars 2007 ([RO 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)), le ch. II al. 1 de l’O du 14 oct. 2009 ([RO 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), le ch. II de l’O du 2 mars 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), le ch. II al. 2 de l’O du 21 janv. 2015 ([RO 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)), le ch. II al. 1 des O du 16 nov. 2016 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)) et du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
+[^t-7]: Mise à jour par le ch. II de l’O du 28 mars 2007 ([RO 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)), le ch. II al. 1 de l’O du 14 oct. 2009 ([RO 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), le ch. II de l’O du 2 mars 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), le ch. II al. 2 de l’O du 21 janv. 2015 ([RO 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)), le ch. II al. 1 des O du 16 nov. 2016 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)) et du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 
 ### 1 Composants inutiles
 
@@ -6915,7 +6976,7 @@ Annexe 9*[^t-8]*
 
 ## Dimensions intérieures des véhicules déterminantes, établissement du nombre de places et calcul du poids des bagages
 
-[^t-8]: Mise à jour selon le ch. II des O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), du 21 août 2002 ([RO 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), le ch. II al. 1 des O du 10 juin 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), du 14 oct. 2009 ([RO 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), le ch. II de l’O du 2 mars 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)) et le ch. II al. 1 de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^t-8]: Mise à jour par le ch. II des O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), du 21 août 2002 ([RO 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), le ch. II al. 1 des O du 10 juin 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), du 14 oct. 2009 ([RO 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), le ch. II de l’O du 2 mars 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)) et le ch. II al. 1 de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 
 ### 1 Dispositions générales pour les voitures automobiles
 
@@ -7070,7 +7131,7 @@ La surface de base d’une place debout doit atteindre au moins 0,125 m<sup>2</s
 
 - 341 Le nombre total de places (N) se calcule de la manière suivante:
 
-<sup>N = A +</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image27.png)
+<sup>N = A +</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image27.png)
 
 - 342 N = nombre total de places
   - A = nombre de places assises
@@ -7092,11 +7153,15 @@ La surface de base d’une place debout doit atteindre au moins 0,125 m<sup>2</s
 
 Annexe 10*[^t-9]*
 
-(art. 73, al. 5, 78, al. 2, 110, al. 1, let. b, ch. 4 à 6, et c, ainsi que 3, let. c, 119, let. m, 148, al. 2, 178*a*, al. 5, 179*a*, al. 2, let. d, 193, al. 1, let. n à p, 216, al. 3 et 4, ainsi que 217, al. 3)
+(art. 73, al. 5, 78, al. 2, 110, al. 1, let. b, ch. 4 à 6, et c, ainsi que 3, let. c,
+
+119, let. m, 148, al. 2, 178a, al. 5, 179a, al. 2, let. d, 193, al. 1, let. n à p,
+
+216, al. 3 et 4, 217, al. 3)
 
 ## Feux, clignoteurs de direction et catadioptres
 
-[^t-9]: Mise à jour selon le ch. II des O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), du 6 sept. 2000 ([RO 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), du 21 août 2002 ([RO 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), le ch. II al. 1 de l’O du 10 juin 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), le ch. II des O du 28 mars 2007 ([RO 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)), du 2 mars 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), le ch. II al. 2 de l’O du 21 janv. 2015, ([RO 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)), le ch. II al. 1 des O du 16 nov. 2016 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)) et du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
+[^t-9]: Mise à jour par le ch. II des O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), du 6 sept. 2000 ([RO 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), du 21 août 2002 ([RO 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), le ch. II al. 1 de l’O du 10 juin 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), le ch. II des O du 28 mars 2007 ([RO 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)), du 2 mars 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), le ch. II al. 2 de l’O du 21 janv. 2015, ([RO 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)), le ch. II al. 1 des O du 16 nov. 2016 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), du 21 nov. 2018 ([RO 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)) et le ch. II de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 ### 1 Couleur
 
@@ -7218,42 +7283,42 @@ Annexe 10*[^t-9]*
 ### 43 Feux de position, feux arrière, feux-stop, feux de gabarit, feux de stationnement et clignoteurs de direction
 
 <table>
-<tr><th>Genre de dispositif</th><th colspan="2">Intensité lumineuse en candelas (cd) dans l’axe de référence</th></tr>
-<tr><th></th><th>minimum</th><th>maximum</th></tr>
-<tr><td>*Feux de position et feux de gabarit* dirigés vers l’avant</td><td>4</td><td>60</td></tr>
-<tr><td>*Feux arrière*\* et *feux de gabarit* dirigés vers l’arrière</td><td>4</td><td>12</td></tr>
-<tr><td>Feux de stationnement</td><td></td><td></td></tr>
-<tr><td>– dirigés vers l’avant</td><td>2</td><td>60</td></tr>
-<tr><td>– dirigés vers l’arrière</td><td>2</td><td>30</td></tr>
-<tr><td>Feux-stop\*</td><td></td><td></td></tr>
-<tr><td>Motocycles, quadricycles légers à moteur, quadricycles à moteur et tricycles à moteur et leur remorque</td><td>40</td><td>100</td></tr>
-<tr><td>Autres véhicules</td><td></td><td></td></tr>
-<tr><td>– feux-stop avec un niveau d’intensité lumineuse</td><td>60</td><td>185</td></tr>
-<tr><td>– feux-stop avec deux niveaux d’intensité lumineuse</td><td></td><td></td></tr>
-<tr><td>de jour</td><td>130</td><td>520</td></tr>
-<tr><td>de nuit</td><td>30</td><td>80</td></tr>
-<tr><td>– 1 feu-stop supplémentaire</td><td>25</td><td>80</td></tr>
-<tr><td>– 2 feux-stop supplémentaires</td><td>25 chacun</td><td>110</td></tr>
-<tr><td>Clignoteurs de direction</td><td></td><td></td></tr>
-<tr><td>Motocycles, quadricycles légers à moteur, quadricycles à moteur et tricycles à moteur</td><td></td><td></td></tr>
-<tr><td>– selon les schémas I et II</td><td></td><td></td></tr>
-<tr><td>dirigés vers l’avant</td><td>90</td><td>700</td></tr>
-<tr><td>dirigés vers l’arrière</td><td>50</td><td>200</td></tr>
-<tr><td>Autres véhicules</td><td></td><td></td></tr>
-<tr><td>– à l’avant</td><td>175</td><td>700</td></tr>
-<tr><td>– à l’arrière – avec un niveau d’intensité lumineuse</td><td>50</td><td>350</td></tr>
-<tr><td>– avec deux niveaux d’intensité lumineuse</td><td></td><td></td></tr>
-<tr><td>de jour</td><td>175</td><td>700</td></tr>
-<tr><td>de nuit</td><td>40</td><td>120</td></tr>
-<tr><td>– Sur les côtés</td><td></td><td></td></tr>
-<tr><td>– selon le schéma I</td><td></td><td></td></tr>
-<tr><td>dirigés vers l’avant</td><td>175</td><td>700</td></tr>
-<tr><td>dirigés vers l’arrière</td><td>50</td><td>350</td></tr>
-<tr><td>– selon le schéma III</td><td></td><td></td></tr>
-<tr><td>dirigés vers l’avant</td><td>175</td><td>700</td></tr>
-<tr><td>dirigés vers l’arrière</td><td>0,3</td><td>200</td></tr>
-<tr><td>– selon le schéma IV</td><td>0,3</td><td>200</td></tr>
-<tr><td colspan="3">\* Si des feux arrière et des feux-stop de même couleur sont réunis dans le même dispositif, l’intensité lumineuse doit être 5 fois plus grande pour le feu-stop que pour le feu arrière.</td></tr>
+<tr><th>Genre de dispositif</th><th colspan="2">Intensité lumineuse en candelas (cd) dans l’axe de référence</th><th></th></tr>
+<tr><th></th><th>minimum</th><th colspan="2">maximum</th></tr>
+<tr><td>*Feux de position* et *feux de gabarit* dirigés vers l’avant</td><td>4</td><td colspan="2">60</td></tr>
+<tr><td>*Feux arrière*\* et *feux de gabarit* dirigés vers l’arrière</td><td>4</td><td colspan="2">12</td></tr>
+<tr><td>*Feux de stationnement*</td><td></td><td colspan="2"></td></tr>
+<tr><td>– dirigés vers l’avant</td><td>2</td><td colspan="2">60</td></tr>
+<tr><td>– dirigés vers l’arrière</td><td>2</td><td colspan="2">30</td></tr>
+<tr><td>*Feux-stop*\*</td><td></td><td colspan="2"></td></tr>
+<tr><td>Motocycles, quadricycles légers à moteur, quadricycles à moteur et tricycles à moteur et leur remorque</td><td>40</td><td colspan="2">100</td></tr>
+<tr><td>Autres véhicules</td><td></td><td colspan="2"></td></tr>
+<tr><td>– feux-stop avec un niveau d’intensité lumineuse</td><td>60</td><td colspan="2">185</td></tr>
+<tr><td>– feux-stop avec deux niveaux d’intensité lumineuse</td><td></td><td colspan="2"></td></tr>
+<tr><td>de jour</td><td>130</td><td colspan="2">520</td></tr>
+<tr><td>de nuit</td><td>30</td><td colspan="2">80</td></tr>
+<tr><td>– 1 feu-stop supplémentaire</td><td>25</td><td colspan="2">80</td></tr>
+<tr><td>– 2 feux-stop supplémentaires</td><td>je 25</td><td colspan="2">110</td></tr>
+<tr><td>*Clignoteurs de direction*</td><td></td><td colspan="2"></td></tr>
+<tr><td>Motocycles, quadricycles légers à moteur, quadricycles à moteur et tricycles à moteur</td><td></td><td colspan="2"></td></tr>
+<tr><td>– selon le schéma II</td><td></td><td colspan="2"></td></tr>
+<tr><td>dirigés vers l’avant</td><td>90</td><td colspan="2">700</td></tr>
+<tr><td>dirigés vers l’arrière</td><td>50</td><td colspan="2">200</td></tr>
+<tr><td>Autres véhicules</td><td></td><td colspan="2"></td></tr>
+<tr><td>– à l’avant</td><td>175</td><td colspan="2">700</td></tr>
+<tr><td>– à l’arrière – avec un niveau d’intensité lumineuse</td><td>50</td><td colspan="2">350</td></tr>
+<tr><td>– avec deux niveaux d’intensité lumineuse</td><td></td><td colspan="2"></td></tr>
+<tr><td>de jour</td><td>175</td><td colspan="2">700</td></tr>
+<tr><td>de nuit</td><td>40</td><td colspan="2">120</td></tr>
+<tr><td>– sur les côtés</td><td></td><td colspan="2"></td></tr>
+<tr><td>– selon le schéma I</td><td></td><td colspan="2"></td></tr>
+<tr><td>dirigés vers l’avant</td><td>175</td><td colspan="2">700</td></tr>
+<tr><td>dirigés vers l’arrière</td><td>50</td><td colspan="2">350</td></tr>
+<tr><td>– selon le schéma III</td><td></td><td colspan="2"></td></tr>
+<tr><td>dirigés vers l’avant</td><td>175</td><td colspan="2">700</td></tr>
+<tr><td>dirigés vers l’arrière</td><td>0,3</td><td colspan="2">200</td></tr>
+<tr><td>– selon le schéma IV</td><td>0,3</td><td colspan="2">200</td></tr>
+<tr><td colspan="4">\* Si des feux arrière et des feux-stop de même couleur sont réunis dans le même dispositif, l’intensité lumineuse doit être 5 fois plus grande pour le feu-stop que pour le feu arrière.</td></tr>
 </table>
 
 ### 44 Catadioptres
@@ -7282,31 +7347,31 @@ Annexe 10*[^t-9]*
 Schéma I
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image28.png)</td><td>Valable seulement pour les véhicules d’une longueur maximale de 4 m qui n’appartiennent pas aux catégories M ou N</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image28.png)</td><td>Valable seulement pour les véhicules d’une longueur maximale de 4 m qui n’appartiennent pas aux catégories M ou N</td></tr>
 </table>
 
 Schéma II
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image29.png)</td><td>Valable seulement pour les véhicules d’une longueur maximale de 6 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image29.png)</td><td>Valable seulement pour les véhicules d’une longueur maximale de 6 m</td></tr>
 </table>
 
 Schéma III
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image30.png)</td><td>Valable seulement pour les véhicules qui n’appartiennent pas aux catégories M ou N. Distance entre les clignoteurs et la limite frontale du véhicule: 1,80 m au plus</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image30.png)</td><td>Valable seulement pour les véhicules qui n’appartiennent pas aux catégories M ou N. Distance entre les clignoteurs et la limite frontale du véhicule: 1,80 m au plus</td></tr>
 </table>
 
 Schéma IV
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image31.png)</td><td>Valable pour tous les véhicules. Distance entre les clignoteurs latéraux et la limite frontale du véhicule: 2,50 m au plus</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image31.png)</td><td>Valable pour tous les véhicules. Distance entre les clignoteurs latéraux et la limite frontale du véhicule: 2,50 m au plus</td></tr>
 </table>
 
 Schéma V
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image32.png)</td><td>Valable seulement pour les véhicules d’une longueur maximale de 6 m. Distance entre les clignoteurs latéraux et la limite frontale du véhicule: 2,50 m au plus. La plage éclairante des feux de gabarit latéraux clignotant simultanément doit être de 12,5 cm<sup>2</sup> au minimum pour chacun d’eux.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image32.png)</td><td>Valable seulement pour les véhicules d’une longueur maximale de 6 m. Distance entre les clignoteurs latéraux et la limite frontale du véhicule: 2,50 m au plus. La plage éclairante des feux de gabarit latéraux clignotant simultanément doit être de 12,5 cm<sup>2</sup> au minimum pour chacun d’eux.</td></tr>
 </table>
 
 ### 52 Motocycles
@@ -7318,7 +7383,7 @@ Schéma I
 Schéma II
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image33.png)</td><td>Distance minimale entre les clignoteurs: à l’avant 24 cm à l’arrière 18 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image33.png)</td><td>Distance minimale entre les clignoteurs: à l’avant 24 cm à l’arrière 18 cm</td></tr>
 </table>
 
 ### 53 Motocycles avec side-car
@@ -7330,26 +7395,26 @@ Schéma I
 Schéma II
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image36.png)</td><td>La valeur de 5° donnée pour l’angle mort de visibilité vers l’arrière du clignoteur de direction latéral complémentaire est une limite supérieure. Cette valeur peut être portée à 10° s’il est impossible de respecter les 5°. d ≤ 1,80 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image36.png)</td><td>La valeur de 5° donnée pour l’angle mort de visibilité vers l’arrière du clignoteur de direction latéral complémentaire est une limite supérieure. Cette valeur peut être portée à 10° s’il est impossible de respecter les 5°. d ≤ 1,80 m</td></tr>
 </table>
 
 Schéma III
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image37.png)</td><td>La valeur de 5° donnée pour l’angle mort de visibilité vers l’arrière du clignoteur de direction latéral complémentaire est une limite supérieure. Cette valeur peut être portée à 10° s’il est impossible de respecter les 5°. d ≤ 2,60 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image37.png)</td><td>La valeur de 5° donnée pour l’angle mort de visibilité vers l’arrière du clignoteur de direction latéral complémentaire est une limite supérieure. Cette valeur peut être portée à 10° s’il est impossible de respecter les 5°. d ≤ 2,60 m</td></tr>
 </table>
 
 Schéma IV
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image38.png)</td><td>La valeur de 10° donnée pour l’angle mort de visibilité vers l’intérieur des clignoteurs de direction avant peut être ramenée à 3° pour les tracteurs dont la largeur «hors tout» ne dépasse pas 1,40 m.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image38.png)</td><td>La valeur de 10° donnée pour l’angle mort de visibilité vers l’intérieur des clignoteurs de direction avant peut être ramenée à 3° pour les tracteurs dont la largeur «hors tout» ne dépasse pas 1,40 m.</td></tr>
 <tr><td>Catégories de clignoteurs de direction (CE): Catégorie 1 clignoteurs de direction avant Catégorie 2 clignoteurs de direction arrière Catégorie 5 clignoteurs de direction latéraux complémentaires</td><td></td></tr>
 </table>
 
 ### 55 Remorques
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image39.png)</td><td>.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image39.png)</td><td>.</td></tr>
 </table>
 
 ### 6 Angle de visibilité des feux de position, feux arrière, feux-stop, feux de gabarit, feux de stationnement et feux arrière de brouillard
@@ -7359,25 +7424,25 @@ Schéma IV
 
 ### 63 Pour les feux de position et les feux arrière
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image40.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image40.png)
 
 - Pour les véhicules des catégories M<sub>1</sub> et N<sub>1</sub>, les angles de visibilité horizontaux peuvent être réduits à 45° vers l’extérieur, lorsque des feux de gabarit latéraux supplémentaires ayant chacun une plage éclairante d’au moins 12,5 cm<sup>2</sup> sont montés à l’avant ou à l’arrière. Pour les remorques, l’angle de visibilité vers l’intérieur doit être d’au moins 5°.
 
 ### 64 Pour les feux-stop
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image41.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image41.png)
 
 ### 65 Pour les feux-stop supplémentaires
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image42.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image42.png)
 
 ### 66 Pour les feux de stationnement
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image43.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image43.png)
 
 ### 67 Pour les feux arrière de brouillard
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image44.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image44.png)
 
 ### 7 Réglage
 
@@ -7388,7 +7453,7 @@ Schéma IV
 - 713 La ligne horizontale doit se trouver à la même hauteur du sol et la ligne verticale à la même distance de l’axe longitudinal du véhicule que le filament à contrôler.
 - 714 Pour les véhicules dont le montage des dispositifs d’éclairage est approuvé conformément à des prescriptions internationales reconnues, le réglage se fonde sur ces prescriptions.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/fr/xml/image/image45.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/fr/xml/image/image45.png)
 
 ### 72 Feux de route
 
@@ -7434,7 +7499,7 @@ Annexe 11*[^t-10]*
 
 ## Avertisseurs acoustiques et dispositifs d’alarme
 
-[^t-10]: Mise à jour selon le ch. II des O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), du 21 août 2002 ([RO 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), le ch. II al. 1 de l’O du 10 juin 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)) et le ch. II de l’O du 2 mars 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)) et le ch. II al. 1 de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^t-10]: Mise à jour par le ch. II des O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), du 21 août 2002 ([RO 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), le ch. II al. 1 de l’O du 10 juin 2005 ([RO 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)) et le ch. II de l’O du 2 mars 2012 ([RO 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)) et le ch. II al. 1 de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 
 ### 1 Exigences générales
 
@@ -7489,7 +7554,7 @@ Les avertisseurs électriques sont mesurés moteur à l’arrêt. Ils doivent ê
 - **63** Pour les avertisseurs acoustiques qui émettent un son oscillant continu, les exigences de la partie I des prescriptions internationales mentionnées au ch. 1 sont applicables par analogie.
 - **64** Pour déterminer la pression acoustique maximale (intensité sonore), les dispositions applicables sont les mêmes que pour les avertisseurs acoustiques obligatoires (ch. 2). Pour les avertisseurs acoustiques qui émettent un son oscillant continu, l’intensité sonore minimale mesurée en laboratoire (partie I du règlement ECE) est de 100 dB(A).
 
-Annexe 12[^t-11]
+Annexe 12*[^t-11]*
 
 (art. 80, al. 3)
 

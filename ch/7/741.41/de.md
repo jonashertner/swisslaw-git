@@ -4,11 +4,11 @@ title: Verordnung vom 19. Juni 1995 über die technischen Anforderungen an Stras
 short: VTS
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425"
 language: de
-version: 2022-01-01
+version: 2022-04-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1995-4425_4425_4425-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/fedlex-data-admin-ch-eli-cc-1995-4425_4425_4425-20220401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de"
 
 (VTS)
 
-vom 19. Juni 1995 (Stand am 1. Januar 2022)
+vom 19. Juni 1995 (Stand am 1. April 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -317,6 +317,24 @@ Das UVEK wird ermächtigt:
 [^9-4]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 [^9-5]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 
+#### Art. 9a
+
+**Fahrzeuge mit alternativem Antrieb und mit emissionsfreiem Antrieb**[^9a-1]
+
+<sup>1</sup>
+
+«Fahrzeuge mit alternativem Antrieb» sind Fahrzeuge, die teilweise oder ausschliesslich mit einer der folgenden Energiequellen angetrieben werden:
+
+- a. Elektrizität;
+- b. Wasserstoff;
+- c. Erdgas, einschliesslich Biogas;
+- d. Flüssiggas; oder
+- e. mechanische Energie aus bordeigenen Speichern oder bordeigenen Quellen, einschliesslich Abwärme.
+
+<sup>2</sup> «Fahrzeuge mit emissionsfreiem Antrieb» sind Fahrzeuge ohne Verbrennungsmotor oder mit einem Verbrennungsmotor, dessen Emissionen weniger als 1 g CO<sub>2</sub>/kWh oder weniger als 1 g CO<sub>2</sub>/km betragen, insbesondere Fahrzeuge, die ausschliesslich mit Elektrizität oder Wasserstoff angetrieben werden. Die Ermittlung der CO<sub>2</sub>-Emissionen richtet sich dabei nach der Verordnung (EG) Nr. 595/2009 oder nach der Verordnung (EG) Nr. 715/2007.
+
+[^9a-1]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+
 ### 2. Kapitel: Motorwagen
 
 #### Art. 10
@@ -378,7 +396,7 @@ Es werden die nachstehenden Arten von Transportmotorwagen unterschieden:[^11-2]
 
 <sup>1</sup>
 
-Transportmotorwagen nach der Richtlinie 2007/46/EG werden in die Klassen M und N eingeteilt. Transportmotorwagen der Klasse M sind Motorwagen zum Personentransport, diejenigen der Klasse N Motorwagen zum Sachentransport. Sie werden in folgende Klassen eingeteilt:
+Transportmotorwagen nach der Verordnung (EU) 2018/858[^12-2] werden in die Klassen M und N eingeteilt. Transportmotorwagen der Klasse M sind Motorwagen zum Personentransport, diejenigen der Klasse N Motorwagen zum Sachentransport. Sie werden in folgende Klassen eingeteilt:
 
 - a. Klasse M<sub>1</sub>: Fahrzeuge mit höchstens neun Sitzplätzen einschliesslich Führer oder Führerin;
 - b. Klasse M<sub>2</sub>: Fahrzeuge mit mehr als neun Sitzplätzen einschliesslich Führer oder Führerin und mit einem Garantiegewicht von höchstens 5,00 t;
@@ -387,7 +405,7 @@ Transportmotorwagen nach der Richtlinie 2007/46/EG werden in die Klassen M und N
 - e. Klasse N<sub>2</sub>: Fahrzeuge mit einem Garantiegewicht von über 3,50 t bis höchstens 12,00 t;
 - f. Klasse N<sub>3</sub>: Fahrzeuge mit einem Garantiegewicht von über 12,00 t.
 
-<sup>2</sup> Fahrzeuge der Klasse M oder N, die den Bedingungen von Anhang II Buchstabe A Ziffer 4 der Richtlinie 2007/46/EG entsprechen, gelten als Geländefahrzeuge. Ihrer Klassenbezeichnung wird der Buchstabe «G» angefügt.
+<sup>2</sup> Fahrzeuge der Klasse M oder N, die den Bedingungen von Anhang I Anlage 1 Ziffer 4 der Verordnung (EU) 2018/858 entsprechen, gelten als Geländefahrzeuge. Ihrer Klassenbezeichnung wird der Buchstabe «G» angefügt.[^12-3]
 
 <sup>3</sup>
 
@@ -416,6 +434,8 @@ Der Klassenbezeichnung von Traktoren der Klassen T und C wird in Abhängigkeit v
 <sup>6</sup> Für die Klasseneinteilung eines Zugfahrzeuges, das zum Ziehen eines Sattelanhängers, eines Starrdeichselanhängers oder eines Zentralachsanhängers bestimmt ist, ist die Sattel- beziehungsweise Stützlast mitzuberücksichtigen.
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
+[^12-2]: Ausdruck gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^12-3]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 #### Art. 13
 
@@ -600,7 +620,7 @@ Nach der Bauweise werden unterschieden:
 
 <sup>1</sup>
 
-Anhänger der Klasse O sind Transportanhänger nach der Richtlinie 2007/46/EG. Sie werden in folgende Klassen eingeteilt:
+Anhänger der Klasse O sind Transportanhänger nach der Verordnung (EU) 2018/858. Sie werden in folgende Klassen eingeteilt:
 
 - a. Klasse O<sub>1</sub>: Anhänger mit einem Garantiegewicht von höchstens 0,75 t;
 - b. Klasse O<sub>2</sub>: Anhänger mit einem Garantiegewicht von über 0,75 t bis höchstens 3,50 t;
@@ -726,7 +746,7 @@ Für Rollstühle ohne Motor, die von einer Begleitperson gestossen oder von der 
 
 <sup>1</sup> Land- und forstwirtschaftliche Arbeitskarren und Arbeitsanhänger mit Überbreite werden als Ausnahmefahrzeuge (Art. 25) bis zu einer Breite von 3,50 m zugelassen.[^27-2]
 
-<sup>1bis</sup> Andere land- und forstwirtschaftliche Fahrzeuge, welche die Breite von 2,55 m nur wegen der montierten Breitreifen (Art. 60 Abs. 6), Gummiraupen-Laufwerken, allenfalls vorhandenen Radabdeckungen aus nachgiebigem Material oder notwendigen Arbeitsgeräten überschreiten, werden als Ausnahmefahrzeuge bis zu einer Breite von 3,00 m zugelassen. In Bezug auf die Reifen oder Raupen muss vom betreffenden Fahrzeugtyp eine Ausführung mit einer Breite von maximal 2,55 m existieren.[^27-3]
+<sup>1bis</sup> Andere land- und forstwirtschaftliche Fahrzeuge, welche die Breite von 2,55 m nur wegen der montierten Breitreifen (Art. 60 Abs. 6), Gummiraupen-Laufwerken, allenfalls vorhandenen Radabdeckungen oder notwendigen Arbeitsgeräten überschreiten, werden als Ausnahmefahrzeuge bis zu einer Breite von 3,00 m zugelassen. In Bezug auf die Reifen oder Raupen einschliesslich Radabdeckungen muss vom betreffenden Fahrzeugtyp eine Ausführung mit einer Breite von maximal 2,55 m existieren.[^27-3]
 
 <sup>1ter</sup> Ein Ausnahmeanhänger nach Absatz 1<sup>bis</sup> darf die Breite des Zugfahrzeugs (Art. 38 Abs. 1<sup>bis</sup>) nicht überschreiten, ausser bei Zugfahrzeugen, die mit Breitreifen oder Doppelbereifungen oder mit Gummiraupen-Laufwerken ausgerüstet sind. In diesem Fall ist die Breite des Anhängers am Zugfahrzeug auffällig zu markieren.[^27-4]
 
@@ -742,7 +762,7 @@ Folgende land- und forstwirtschaftliche Fahrzeuge mit Überbreite dürfen ohne B
 
 [^27-1]: Ausdruck gemäss Ziff. I Abs. 1 der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 [^27-2]: Fassung gemäss Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
-[^27-3]: Eingefügt durch Ziff. I der V vom 10. Juni 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)). Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
+[^27-3]: Eingefügt durch Ziff. I der V vom 10. Juni 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^27-4]: Eingefügt durch Ziff. I der V vom 2. März 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^27-5]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^27-6]: Eingefügt durch Ziff. I der V vom 2. März 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
@@ -973,9 +993,9 @@ Es gelten folgende Prüfungsintervalle:
   - 4\. Motoreinachser,
   - 5\.[^33-12] Anhänger mit einem Gesamtgewicht über 0,75 t von Fahrzeugen nach den Ziffern 1–4,
   - 6\.[^33-13] Arbeitsanhänger, ausgenommen Anhänger mit einem Gesamtgewicht bis 0,75 t sowie die Anhänger der Feuerwehr und des Zivilschutzes,
-  - 7\.[^33-14] Anhänger von Schaustellern und Zirkussen, die im Fahrzeugausweis entsprechend bezeichnet sind und ausschliesslich Schausteller- und Zirkusmaterial transportieren.
+  - 7\.[^33-14] Anhänger von Schaustellern und Zirkussen mit einem Gesamtgewicht über 0,75 t, die im Fahrzeugausweis entsprechend bezeichnet sind und ausschliesslich Schausteller- und Zirkusmaterial transportieren.
 
-<sup>2bis</sup> Werden Fahrzeuge nach Absatz 2 Buchstabe a<sup>bis</sup> nicht nur im Binnenverkehr eingesetzt, so darf die letzte amtliche Fahrzeugprüfung nicht mehr als ein Jahr zurückliegen. Die Halter und Halterinnen müssen selbst dafür sorgen, dass die Fahrzeuge rechtzeitig nachgeprüft werden.[^33-15]
+<sup>2bis</sup> Werden Fahrzeuge nach Absatz 2 Buchstabe a<sup>bis</sup> und Fahrzeuge nach Absatz 2 Buchstabe e Ziffer 7 über 3,5 t nicht nur im Binnenverkehr eingesetzt, so darf die letzte amtliche Fahrzeugprüfung nicht mehr als ein Jahr zurückliegen. Die Halter und Halterinnen müssen selbst dafür sorgen, dass die Fahrzeuge rechtzeitig nachgeprüft werden.[^33-15]
 
 <sup>3</sup> Auf Begehren des Halters oder der Halterin kann ein Fahrzeug jederzeit nachgeprüft werden.[^33-16]
 
@@ -985,7 +1005,7 @@ Es gelten folgende Prüfungsintervalle:
 
 <sup>6</sup> Fahrzeuge von Haltern oder Halterinnen, die diplomatische oder konsularische Vorrechte und Immunitäten geniessen, sind von der periodischen Prüfpflicht befreit.[^33-19]
 
-<sup>7</sup> Hinsichtlich der Prüfmittel gilt Artikel 29 Absatz 4.[^33-20]
+<sup>7</sup> …[^33-20]
 
 <sup>8</sup> Die Nachprüfung muss nach einem von den Kantonen gemeinsam festgelegten Qualitätssicherungssystem durchgeführt werden.[^33-21]
 
@@ -1002,13 +1022,13 @@ Es gelten folgende Prüfungsintervalle:
 [^33-11]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. Febr. 2017 ([AS 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)).
 [^33-12]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Juli 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^33-13]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Juli 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^33-14]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Mai 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
-[^33-15]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Juli 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^33-14]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^33-15]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^33-16]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. April 2015 ([AS 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)).
 [^33-17]: Aufgehoben durch Ziff. I der V vom 15. April 2015, mit Wirkung seit 1. Juni 2015 ([AS 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)).
 [^33-18]: Fassung gemäss Anhang Ziff. II 3 der V vom 23. Febr. 2005 über die Fahrzeuge des Bundes und ihre Führer und Führerinnen, in Kraft seit 1. März 2005 ([AS 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
 [^33-19]: Fassung gemäss Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
-[^33-20]: Eingefügt durch Ziff. I vom 15. Juni 2001, in Kraft seit 1. Juni 2002 ([AS 2002 1181](https://fedlex.data.admin.ch/eli/oc/2002/195)).
+[^33-20]: Eingefügt durch Ziff. I vom 15. Juni 2001 ([AS 2002 1181](https://fedlex.data.admin.ch/eli/oc/2002/195)). Aufgehoben durch Ziff. I der V vom 17. Dez. 2021, mit Wirkung seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^33-21]: Eingefügt durch Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
 
 #### Art. 33a
@@ -1051,7 +1071,7 @@ Der Halter oder die Halterin hat der Zulassungsbehörde Änderungen an den Fahrz
 
 <sup>5bis</sup> …[^34-10]
 
-<sup>6</sup> Die Zulassungsbehörden können die Prüfung für das Anbringen von für den Fahrzeugtyp genehmigten Anhängerkupplungen an Personen- und Lieferwagen ohne durchgehende Bremsanlage an zur Selbstabnahme berechtigte Personen (Art. 32) delegieren. Diese Ermächtigung kann sich auf Fahrzeuge erstrecken, die über eine schweizerische Typengenehmigung, ein Datenblatt oder eine Übereinstimmungsbescheinigung nach der Richtlinie 2007/46/EG verfügen.[^34-11]
+<sup>6</sup> Die Zulassungsbehörden können die Prüfung für das Anbringen von für den Fahrzeugtyp genehmigten Anhängerkupplungen an Personen- und Lieferwagen ohne durchgehende Bremsanlage an zur Selbstabnahme berechtigte Personen (Art. 32) delegieren. Diese Ermächtigung kann sich auf Fahrzeuge erstrecken, die über eine schweizerische Typengenehmigung, ein Datenblatt oder eine Übereinstimmungsbescheinigung nach der Verordnung (EU) 2018/858 verfügen.[^34-11]
 
 [^34-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 [^34-2]: Fassung gemäss Ziff. I der V vom 6. Sept. 2000, in Kraft seit 15. Okt. 2000 ([AS 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)).
@@ -1166,19 +1186,20 @@ Eine erneute Wartung oder Nachkontrolle wird angeordnet, wenn:
 
 <sup>1</sup> Fahrzeuge müssen den technischen Anforderungen nach diesem Teil oder den technischen Anforderungen nach der TAFV 1[^36a-1], der TAFV 2[^36a-2] oder der TAFV 3[^36a-3] entsprechen.
 
-<sup>2</sup> Fahrzeuge mit EU-Gesamtgenehmigung oder mit entsprechender Konformitätserklärung des Herstellers oder der Herstellerin sowie Fahrzeuge, die den technischen Anforderungen nach der TAFV 1, der TAFV 2 oder der TAFV 3 entsprechen, müssen zusätzlich den Artikeln 45, 66 Absatz 1<sup>bis</sup>, 68 Absätze 1 und 4, 69 Absatz 2<sup>bis</sup>, 90, 100–102, 114, 117 Absatz 2, 123 Absatz 4 sowie 195 Absätze 3 und 5 der vorliegenden Verordnung entsprechen.
+<sup>2</sup> Für Fahrzeuge mit EU-Gesamtgenehmigung oder mit entsprechender Konformitätserklärung des Herstellers oder der Herstellerin sowie für Fahrzeuge, die den technischen Anforderungen nach der TAFV 1, der TAFV 2 oder der TAFV 3 entsprechen, gelten zusätzlich die Artikel 45, 58 Absatz 4, 66 Absatz 1<sup>bis</sup>, 68 Absätze 1 und 4, 69 Absatz 2<sup>bis</sup>, 90, 99*a*–102, 114, 117 Absatz 2, 123 Absatz 4, 134 Absatz 1, 163 Absatz 4 Buchstabe b sowie 195 Absätze 3 und 5 der vorliegenden Verordnung.[^36a-4]
 
-<sup>3</sup> Fahrzeuge zum Transport gefährlicher Güter müssen zusätzlich den technischen Anforderungen der SDR[^36a-4] entsprechen.
+<sup>3</sup> Fahrzeuge zum Transport gefährlicher Güter müssen zusätzlich den technischen Anforderungen der SDR[^36a-5] entsprechen.
 
 <sup>4</sup> Ausländische Fahrzeuge müssen den technischen Anforderungen nach diesem Teil entsprechen, soweit er nicht strengere Anforderungen aufstellt als die internationalen Vereinbarungen oder das Recht des Immatrikulationslandes.
 
-<sup>5</sup> Fahrzeuge von Haltern oder Halterinnen, die diplomatische oder konsularische Vorrechte und Immunitäten geniessen, müssen lediglich die technischen Anforderungen von Anhang 5 des Übereinkommens vom 8. November 1968[^36a-5] über den Strassenverkehr erfüllen.
+<sup>5</sup> Fahrzeuge von Haltern oder Halterinnen, die diplomatische oder konsularische Vorrechte und Immunitäten geniessen, müssen lediglich die technischen Anforderungen von Anhang 5 des Übereinkommens vom 8. November 1968[^36a-6] über den Strassenverkehr erfüllen.
 
 [^36a-1]: [SR 741.412](https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145)
 [^36a-2]: [SR 741.413](https://fedlex.data.admin.ch/eli/cc/2016/821)
 [^36a-3]: [SR 741.414](https://fedlex.data.admin.ch/eli/cc/2016/822)
-[^36a-4]: [SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
-[^36a-5]: [SR 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)
+[^36a-4]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^36a-5]: [SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
+[^36a-6]: [SR 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)
 
 #### Art. 37
 
@@ -1217,22 +1238,15 @@ Die Fahrzeuglänge ist zu messen über die äussersten fest mit dem Fahrzeug ver
 - p.[^38-10] Stromabnehmer von Elektrofahrzeugen im Linienverkehr;
 - q.[^38-11] aussen am Fahrzeug angebrachte Sonnenblenden.[^38-12]
 - r.[^38-13] einklappbare Fahrradträger;
-- s.[^38-14]
-
-  einklappbare Einrichtungen zur Verringerung des Luftwiderstands an Fahrzeugen der Klassen M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub>, N<sub>3</sub>, O<sub>3</sub> und O<sub>4</sub>, sofern sie:
-
-  - 1\. hinten höchstens 500 mm über das Fahrzeug hinausragen,
-  - 2\. die Ladefläche nicht vergrössern, und
-  - 3\. bei stehendem Fahrzeug vollständig einziehbar sind und die Möglichkeit, das Fahrzeug für den unbegleiteten kombinierten Verkehr (Art. 67 Abs. 1<sup>bis</sup> VRV[^38-15]) zu verwenden, nicht beeinträchtigen;
-
-- t.[^38-16] einziehbare Ladestützen in ausgefahrener Stellung zum ausschliesslichen Transport eines Mitnahmestaplers am Heck von Lastwagen und Anhängern.[^38-17]
+- s.[^38-14] einklappbare oder einziehbare Einrichtungen zur Verringerung des Luftwiderstands an schweren Motorwagen, Kleinbussen und Anhängern der Klassen O<sub>3</sub> und O<sub>4</sub>, sofern diese Einrichtungen Anhang I der Verordnung (EU) Nr. 1230/2012 entsprechen;
+- t.[^38-15] einziehbare Ladestützen in ausgefahrener Stellung zum ausschliesslichen Transport eines Mitnahmestaplers am Heck von Lastwagen und Anhängern.[^38-16]
 
 <sup>1bis</sup>
 
-Die Fahrzeugbreite ist zu messen über die äussersten fest mit dem Fahrzeug verbundenen Teile, jedoch ohne:[^38-18]
+Die Fahrzeugbreite ist zu messen über die äussersten fest mit dem Fahrzeug verbundenen Teile, jedoch ohne:[^38-17]
 
 - a. Schutz- und Befestigungsvorrichtungen für Zollplomben;
-- b.[^38-19]
+- b.[^38-18]
 
   Einrichtungen zur Sicherung der Fahrzeugblachen und dazugehörende Schutzvorrichtungen in einer Höhe:
 
@@ -1240,46 +1254,38 @@ Die Fahrzeugbreite ist zu messen über die äussersten fest mit dem Fahrzeug ver
   - 2\. von mehr als 2,00 m bis 2,50 m über dem Boden, sofern sie höchstens 50 mm je Seite überstehen,
   - 3\. von mehr als 2,50 m über dem Boden, sofern sie höchstens 150 mm je Seite überstehen;
 
-- c.[^38-20] Reifendruck- und Reifenschadensanzeiger, sofern sie für beide Seiten zusammen insgesamt höchstens 100 mm überstehen;
+- c.[^38-19] Reifendruck- und Reifenschadensanzeiger, sofern sie für beide Seiten zusammen insgesamt höchstens 100 mm überstehen;
 - d. biegsame Kotschutzlappen oder Spritzschutzvorrichtungen;
 - e. Beleuchtungsvorrichtungen;
-- f.[^38-21] Hebebühnen, Beladerampen und vergleichbare Einrichtungen an Fahrzeugen der Klassen M<sub>2</sub><sub>,</sub> M<sub>3</sub><sub>,</sub> N<sub>2</sub>, N<sub>3</sub> und O, sofern sie in nicht entfaltetem Zustand höchstens 10 mm pro Seite überstehen;
-- g.[^38-22] Spiegel und andere Systeme für indirekte Sicht sowie deren Halterungen, Sichthilfen, Profilanzeiger;
+- f.[^38-20] Hebebühnen, Beladerampen und vergleichbare Einrichtungen an Fahrzeugen der Klassen M<sub>2</sub><sub>,</sub> M<sub>3</sub><sub>,</sub> N<sub>2</sub>, N<sub>3</sub> und O, sofern sie in nicht entfaltetem Zustand höchstens 10 mm pro Seite überstehen;
+- g.[^38-21] Spiegel und andere Systeme für indirekte Sicht sowie deren Halterungen, Sichthilfen, Profilanzeiger;
 - h. einziehbare oder ausklappbare Trittstufen;
 - i. Reifenabplattungen;
 - k. Schneeketten;
-- l.[^38-23] an Fahrzeugblachen seitlich angebrachte Luftstabilisatoren aus weichem Material mit einem Querschnitt von höchstens 50 mm × 50 mm;
-- m.[^38-24] einziehbare Spurführungseinrichtungen (in ausgefahrener Stellung) von Gesellschaftswagen (einschliesslich Gelenk- und Trolleybussen), die in Spurbussystemen verwendet werden.[^38-25]
-- n.[^38-26] Sichthilfen und Ortungseinrichtungen einschliesslich Radargeräten an Fahrzeugen der Klassen M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub>, N<sub>3</sub> und O, sofern sie für beide Seiten zusammen insgesamt höchstens 100 mm überstehen;
-- o.[^38-27]
-
-  einklappbare Einrichtungen zur Verringerung des Luftwiderstands an Fahrzeugen der Klassen N und O, sofern sie:
-
-  - 1\. an den beiden Seiten des Fahrzeugs höchstens 50 mm über das Fahrzeug hinausragen,
-  - 2\. die Ladekapazität nicht vergrössern,
-  - 3\. bei stehendem Fahrzeug vollständig einziehbar sind und die Möglichkeit, das Fahrzeug für den unbegleiteten kombinierten Verkehr (Art. 67 Abs. 1<sup>bis</sup> VRV) zu verwenden, nicht beeinträchtigen, und
-  - 4\. in betriebsbereitem Zustand die Fahrzeugbreite nicht auf über 2,65 m vergrössern;
-
-- p.[^38-28]
+- l.[^38-22] an Fahrzeugblachen seitlich angebrachte Luftstabilisatoren aus weichem Material mit einem Querschnitt von höchstens 50 mm × 50 mm;
+- m.[^38-23] einziehbare Spurführungseinrichtungen (in ausgefahrener Stellung) von Gesellschaftswagen (einschliesslich Gelenk- und Trolleybussen), die in Spurbussystemen verwendet werden.[^38-24]
+- n.[^38-25] Sichthilfen und Ortungseinrichtungen einschliesslich Radargeräten an Fahrzeugen der Klassen M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub>, N<sub>3</sub> und O, sofern sie für beide Seiten zusammen insgesamt höchstens 100 mm überstehen;
+- o.[^38-26] einklappbare oder einziehbare Einrichtungen zur Verringerung des Luftwiderstands an schweren Motorwagen, Kleinbussen und Anhängern der Klassen O<sub>3</sub> und O<sub>4</sub>, sofern diese Einrichtungen Anhang I der Verordnung (EU) Nr. 1230/2012 entsprechen;
+- p.[^38-27]
 
   Sicherheitsgeländer an Fahrzeugen zum Transport von mindestens zwei mehrspurigen Fahrzeugen, sofern diese Geländer:
 
   - 1\. mindestens 2,00 m und höchstens 3,70 m über dem Boden sind,
   - 2\. höchstens 50 mm über die Fahrzeugseite hinausragen, und
-  - 3\. die Fahrzeugbreite nicht auf über 2,65 m vergrössern.[^38-29]
+  - 3\. die Fahrzeugbreite nicht auf über 2,65 m vergrössern.[^38-28]
 
 <sup>1ter</sup>
 
-Die Fahrzeughöhe ist im fahrbereiten Zustand, bei Fahrzeugen mit Fahrwerkniveauregulierung in normaler Fahrstellung zu messen. Sie ist über die äussersten fest mit dem Fahrzeug verbundenen Teile zu messen, jedoch ohne:[^38-30]
+Die Fahrzeughöhe ist im fahrbereiten Zustand, bei Fahrzeugen mit Fahrwerkniveauregulierung in normaler Fahrstellung zu messen. Sie ist über die äussersten fest mit dem Fahrzeug verbundenen Teile zu messen, jedoch ohne:[^38-29]
 
-- a.[^38-31] Rundfunk- und Funknavigationsantennen;
-- b. Stromabnehmer in gehobener Stellung für Fahrzeuge im Linienverkehr.[^38-32]
+- a.[^38-30] Rundfunk- und Funknavigationsantennen;
+- b. Stromabnehmer in gehobener Stellung für Fahrzeuge im Linienverkehr.[^38-31]
 
-<sup>2</sup> Die Länge der Anhänger schliesst die ausgezogene Zugvorrichtung (Deichsel) in waagrechter Stellung ein.[^38-33]
+<sup>2</sup> Die Länge der Anhänger schliesst die ausgezogene Zugvorrichtung (Deichsel) in waagrechter Stellung ein.[^38-32]
 
 <sup>3</sup> Nach vorne dürfen Fahrzeugteile oder Arbeitsgeräte höchstens 3,00 m vor die Mitte der Lenkvorrichtung reichen.
 
-<sup>4</sup> Die Länge, Breite und Höhe bei Fahrzeugen mit Wechselaufbauten schliesst die Vorrichtungen für die Aufnahme der Aufbauten sowie den Aufbau selber ein.[^38-34]
+<sup>4</sup> Die Länge, Breite und Höhe bei Fahrzeugen mit Wechselaufbauten schliesst die Vorrichtungen für die Aufnahme der Aufbauten sowie den Aufbau selber ein.[^38-33]
 
 [^38-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^38-2]: Fassung gemäss Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
@@ -1294,27 +1300,26 @@ Die Fahrzeughöhe ist im fahrbereiten Zustand, bei Fahrzeugen mit Fahrwerkniveau
 [^38-11]: Eingefügt durch Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
 [^38-12]: Fassung gemäss Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
 [^38-13]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^38-14]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^38-15]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^38-16]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^38-17]: Fassung gemäss Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
+[^38-14]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^38-15]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^38-16]: Fassung gemäss Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
+[^38-17]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^38-18]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^38-19]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^38-20]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^38-21]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^38-22]: Fassung gemäss Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
-[^38-23]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^38-24]: Eingefügt durch Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
-[^38-25]: Eingefügt durch Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
-[^38-26]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^38-21]: Fassung gemäss Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
+[^38-22]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^38-23]: Eingefügt durch Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
+[^38-24]: Eingefügt durch Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
+[^38-25]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^38-26]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^38-27]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^38-28]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^38-29]: Eingefügt durch Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
+[^38-28]: Eingefügt durch Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
+[^38-29]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^38-30]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^38-31]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^38-32]: Eingefügt durch Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
-[^38-33]: Fassung gemäss Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
-[^38-34]: Eingefügt durch Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
+[^38-31]: Eingefügt durch Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
+[^38-32]: Fassung gemäss Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
+[^38-33]: Eingefügt durch Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
 
 #### Art. 39
 
@@ -1322,7 +1327,7 @@ Die Fahrzeughöhe ist im fahrbereiten Zustand, bei Fahrzeugen mit Fahrwerkniveau
 
 <sup>1</sup>
 
-Für Fahrzeuge der Klassen M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub>, N<sub>3</sub>, O<sub>3</sub> und O<sub>4</sub> sind die in den folgenden Regelungen festgelegten Abmessungen und Gewichte als technische Parameter massgebend, auch wenn sie von den schweizerischen Vorschriften abweichen:[^39-1]
+Für Fahrzeuge der Klassen M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub>, N<sub>3</sub>, O<sub>3</sub> und O<sub>4</sub> können die in den folgenden Regelungen festgelegten Abmessungen und Gewichte als massgebende technische Parameter verwendet werden, auch wenn sie von den schweizerischen Vorschriften abweichen:[^39-1]
 
 - a. Richtlinie Nr. 96/53 des Rates vom 25. Juli 1996 zur Festlegung der höchstzulässigen Abmessungen für bestimmte Strassenfahrzeuge im innerstaatlichen und grenzüberschreitenden Verkehr in der Gemeinschaft sowie zur Festlegung der höchstzulässigen Gewichte im grenzüberschreitenden Verkehr;
 - b.[^39-2] Verordnung (EU) Nr. 1230/2012.[^39-3]
@@ -1331,7 +1336,7 @@ Für Fahrzeuge der Klassen M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub>, N<sub>3<
 
 <sup>3</sup> Beim leeren, nur mit dem Fahrzeugführer oder der -führerin besetzten Fahrzeug darf das Adhäsionsgewicht nicht weniger als 25 Prozent des Betriebsgewichts des Fahrzeuges oder der Fahrzeugkombination betragen.
 
-[^39-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^39-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^39-2]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^39-3]: Fassung gemäss Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
 
@@ -1366,7 +1371,7 @@ Eine Garantieerklärung nach Absatz 2 wird anerkannt, wenn:
 
 <sup>2ter</sup> Bei Fahrzeugen mit geringem Gewicht oder beschränkter Höchstgeschwindigkeit müssen die Voraussetzungen nach Absatz 2<sup>bis</sup> nicht erfüllt sein, wenn ein ausgewiesener Fachbetrieb die Garantieerklärung ausstellt.[^41-7]
 
-<sup>3</sup> Das Garantiegewicht muss für alle Fahrzeuge gleicher Version einer Variante des Typs gleich gross sein. Für die Begriffe Version, Variante und Typ gelten die Definitionen von Anhang II Buchstabe B der Richtlinie 2007/46/EG. Für Motorräder, Leicht-, Klein- und dreirädrige Motorfahrzeuge gelten die Definitionen nach Artikel 3 der Verordnung (EU) Nr. 168/2013. Zulässig sind Änderungen des Garantiegewichtes durch den Fahrzeughersteller oder die -herstellerin im Zusammenhang mit einem Modellwechsel.[^41-8]
+<sup>3</sup> Das Garantiegewicht muss für alle Fahrzeuge gleicher Version einer Variante des Typs gleich gross sein. Für die Begriffe Version, Variante und Typ gelten die Definitionen von Anhang I Teil B der Verordnung (EU) 2018/858. Für Motorräder, Leicht-, Klein- und dreirädrige Motorfahrzeuge gelten die Definitionen nach Artikel 3 der Verordnung (EU) Nr. 168/2013. Zulässig sind Änderungen des Garantiegewichtes durch den Fahrzeughersteller oder die -herstellerin im Zusammenhang mit einem Modellwechsel.[^41-8]
 
 <sup>4</sup> Erweckt eine Garantie Zweifel, so kann das ASTRA oder bei Fahrzeugen, die von der Typengenehmigungspflicht befreit sind, die Zulassungsbehörde eine Untersuchung durch eine vom ASTRA anerkannte Prüfstelle verlangen. Garantien, die offensichtlich zu tief angesetzt sind, werden zurückgewiesen. Die Garantie wird ebenfalls zurückgewiesen, wenn der Hersteller oder die Herstellerin sie für die Schweiz erheblich tiefer ansetzt als im Ausland.[^41-9]
 
@@ -1379,7 +1384,7 @@ Eine Garantieerklärung nach Absatz 2 wird anerkannt, wenn:
 [^41-5]: Die Texte dieser Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 [^41-6]: Eingefügt durch Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
 [^41-7]: Eingefügt durch Ziff. I der V vom 2. März 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
-[^41-8]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^41-8]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^41-9]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^41-10]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 
@@ -1587,14 +1592,14 @@ Die Auspuffrohre dürfen seitlich nicht vorstehen. Ausgenommen sind Auspuffrohre
 - b. Fahrzeugen der Klasse N, die der Verordnung (EG) Nr. 661/2009 oder dem UNECE-Reglement Nr. 61entsprechen;
 - c. Leicht-, Klein- und dreirädrigen Motorfahrzeugen mit Aufbau, die der Verordnung (EU) Nr. 168/2013 und der delegierten Verordnung (EU) Nr. 44/2014 entsprechen.[^52-3]
 
-<sup>5</sup> Antriebsmotoren und ihre Auspuffanlagen müssen die Vorschriften über Rauch, Abgase und Kurbelgehäuse-Entlüftung nach Anhang 5 einhalten. Ziffer 211*a* dieses Anhangs gilt auch für Selbstzündungsmotoren von Arbeitsmotorwagen sowie für Arbeitsmotoren, die nicht dem Antrieb des Fahrzeugs dienen.[^52-4]
+<sup>5</sup> Antriebsmotoren und ihre Auspuffanlagen müssen die Vorschriften über Rauch, Abgase und Kurbelgehäuse-Entlüftung nach Anhang 5 einhalten. Ziffer 211*a* dieses Anhangs gilt auch für Fremd- und Selbstzündungsmotoren von Arbeitsmotorwagen sowie für Arbeitsmotoren, die nicht dem Antrieb des Fahrzeugs dienen.[^52-4]
 
 <sup>6</sup> Schadhafte Katalysatoren und Partikelfilter sind durch für den Fahrzeugtyp genehmigte zu ersetzen.[^52-5]
 
 [^52-1]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. April 2015 ([AS 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)).
 [^52-2]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^52-3]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^52-4]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
+[^52-4]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^52-5]: Eingefügt durch Ziff. I der V vom 2. Sept. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. April 2015 ([AS 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)).
 
 #### Art. 53
@@ -2409,18 +2414,26 @@ Verbindungseinrichtungen müssen auch in eingebautem Zustand dauerhaft und deutl
 
 <sup>1bis</sup> Für abnehmbare Zubehörteile wie Skiboxen an den Gelenkbussen und den anderen Gesellschaftswagen gilt Artikel 65 Absatz 2 VRV.[^94-2]
 
+<sup>1ter</sup>
+
+Die folgenden schweren Motorwagen dürfen die Länge nach Absatz 1 Buchstabe a überschreiten, sofern die Kreisfahrtbedingungen nach Artikel 40 Absatz 1 und das Ausschwenkmass nach Artikel 40 Absatz 3 eingehalten werden und der Ladebereich hinter der Kabine höchstens 10,5 m lang ist:
+
+- a. Motorwagen mit einer verlängerten aerodynamischen Führerkabine, die Anhang I Anlage 5 der Verordnung (EU) Nr. 1230/2012 entspricht;
+- b. Motorwagen mit Wasserstoffbehältern oder Batterien für den Antrieb des Fahrzeugs, sofern nur der durch die Energiespeicher verursachte Ladeflächenverlust kompensiert wird und kein grösseres Ladevermögen entsteht.[^94-3]
+
 <sup>2</sup> Die Breite von Motorwagen darf höchstens betragen:
 
 <table>
 <tr><td></td><td>Meter</td></tr>
 <tr><td>a. klimatisierte Fahrzeuge</td><td>2,60</td></tr>
-<tr><td>b. übrige Motorwagen</td><td>2,55.[^94-3]</td></tr>
+<tr><td>b. übrige Motorwagen</td><td>2,55.[^94-4]</td></tr>
 <tr><td><sup>3</sup> Die Höhe der Motorwagen darf höchstens betragen:</td><td colspan="2">4,00</td></tr>
 </table>
 
 [^94-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2002, in Kraft seit 1. Dez. 2002 ([AS 2002 3567](https://fedlex.data.admin.ch/eli/oc/2002/535)).
 [^94-2]: Eingefügt durch Ziff. I der V vom 16. Okt. 2002, in Kraft seit 1. Dez. 2002 ([AS 2002 3567](https://fedlex.data.admin.ch/eli/oc/2002/535)).
-[^94-3]: Fassung gemäss Ziff. II der V vom 6. Mai 1998, in Kraft seit 15. Mai 1998 ([AS 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
+[^94-3]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^94-4]: Fassung gemäss Ziff. II der V vom 6. Mai 1998, in Kraft seit 15. Mai 1998 ([AS 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
 
 #### Art. 95
 
@@ -2434,6 +2447,7 @@ Verbindungseinrichtungen müssen auch in eingebautem Zustand dauerhaft und deutl
 <tr><td>b. Kleinbusse</td><td>3,50</td></tr>
 <tr><td>c. Lieferwagen</td><td>3,50</td></tr>
 <tr><td>d. Motorwagen mit zwei Achsen</td><td>18,00</td></tr>
+<tr><td>[tab]</td><td></td></tr>
 <tr><td>d<sup>bis</sup>.[^95-2] zweiachsige Gesellschaftswagen</td><td>19,50</td></tr>
 <tr><td>e. Motorwagen mit drei Achsen</td><td>25,00</td></tr>
 <tr><td>[tab] f.[^95-3] Motorwagen mit drei Achsen (ausgenommen dreiachsige Gelenkbusse), bei denen die Antriebsachse mit Doppelbereifung und einer Federung nach Artikel 57 Absatz 1 ausgerüstet ist oder beide hinteren Antriebsachsen mit Doppelbereifung ausgerüstet sind und die Achslast von 9,50 t je Achse nicht überschritten wird</td><td>26,00</td></tr>
@@ -2444,32 +2458,26 @@ Verbindungseinrichtungen müssen auch in eingebautem Zustand dauerhaft und deutl
 <tr><td>[tab] k.[^95-8] …</td><td></td></tr>
 </table>
 
-<sup>1bis</sup>
+<sup>1bis</sup> Das Gesamtgewicht von Fahrzeugen nach Absatz 1 Buchstaben d, e–g und j mit alternativem Antrieb darf um das für die alternative Antriebstechnik erforderliche Mehrgewicht, höchstens jedoch 1 t und bei Fahrzeugen mit emissionsfreiem Antrieb höchstens 2 t, höher sein.[^95-9]
 
-Das Gesamtgewicht von Fahrzeugen nach Absatz 1 Buchstaben d, e, f und j mit alternativem Antrieb darf um das zusätzliche, für die alternative Antriebstechnik erforderliche Gewicht, höchstens jedoch 1 t, höher sein. Fahrzeuge mit alternativem Antrieb sind Fahrzeuge, die zumindest teilweise mit einer der folgenden Energiequellen angetrieben werden:
+<sup>1ter</sup> Das Gesamtgewicht von Fahrzeugen nach Absatz 1 Buchstaben h und i mit alternativem Antrieb darf um das für die alternative Antriebstechnik erforderliche Mehrgewicht, höchstens jedoch 1 t und bei Fahrzeugen mit emissionsfreiem Antrieb höchstens 2 t, höher sein als die in Absatz 1 und in Artikel 9 Absatz 1 SVG genannten Werte.[^95-10]
 
-- a. Elektrizität;
-- b. Wasserstoff;
-- c. Erdgas, einschliesslich Biogas;
-- d. Flüssiggas; oder
-- e. mechanische Energie aus bordeigenen Speichern oder bordeigenen Quellen, einschliesslich Abwärme.[^95-9]
-
-<sup>2</sup> Die Achslasten dürfen, ohne Berücksichtigung einer Anfahrhilfe nach Artikel 57 Absatz 2, höchstens betragen für:[^95-10]
+<sup>2</sup> Die Achslasten dürfen, ohne Berücksichtigung einer Anfahrhilfe nach Artikel 57 Absatz 2, höchstens betragen für:[^95-11]
 
 <table>
 <tr><th></th><th>Tonnen</th></tr>
-<tr><td>a.[^95-11] nicht angetriebene Einzelachsen</td><td>10,00</td></tr>
-<tr><td>b.[^95-12] angetriebene Einzelachsen bei:</td><td></td></tr>
+<tr><td>a.[^95-12] nicht angetriebene Einzelachsen</td><td>10,00</td></tr>
+<tr><td>b.[^95-13] angetriebene Einzelachsen bei:</td><td></td></tr>
 <tr><td>1. land- und forstwirtschaftlichen Erntemaschinen mit Breitreifen (Art. 60 Abs. 6)</td><td>14,00</td></tr>
 <tr><td>2. Arbeitskarren mit Breitreifen (Art. 60 Abs. 6)</td><td>14,00</td></tr>
 <tr><td>3. den übrigen Motorwagen</td><td>11,50</td></tr>
 <tr><td>c. Doppelachsen mit einem Achsabstand von weniger als 1,00 m</td><td>11,50</td></tr>
 <tr><td>d. Doppelachsen mit einem Achsabstand von 1,00 m bis weniger als 1,30 m</td><td>16,00</td></tr>
 <tr><td>e. Doppelachsen mit einem Achsabstand von 1,30 m bis weniger als 1,80 m</td><td>18,00</td></tr>
-<tr><td>[tab] f.[^95-13] Doppelachsen mit einem Achsabstand von 1,30 m bis weniger als 1,80 m, bei denen die Antriebsachse mit Doppelbereifung und einer Federung nach Artikel 57 Absatz 1 ausgerüstet ist oder jede Antriebsachse mit Doppelbereifung ausgerüstet ist und die Achslast von 9,50 t je Achse nicht überschritten wird</td><td>19,00</td></tr>
-<tr><td>[tab] g.[^95-14] Dreifachachsen mit Achsabständen bis zu 1,30 m</td><td>21,00</td></tr>
-<tr><td>[tab] h.[^95-15] Dreifachachsen mit Achsabständen von über 1,30 m bis zu 1,40 m</td><td>24,00</td></tr>
-<tr><td>[tab] i.[^95-16] Dreifachachsen mit einem Achsabstand von über 1,40 m</td><td>27,00</td></tr>
+<tr><td>[tab] f.[^95-14] Doppelachsen mit einem Achsabstand von 1,30 m bis weniger als 1,80 m, bei denen die Antriebsachse mit Doppelbereifung und einer Federung nach Artikel 57 Absatz 1 ausgerüstet ist oder jede Antriebsachse mit Doppelbereifung ausgerüstet ist und die Achslast von 9,50 t je Achse nicht überschritten wird</td><td>19,00</td></tr>
+<tr><td>[tab] g.[^95-15] Dreifachachsen mit Achsabständen bis zu 1,30 m</td><td>21,00</td></tr>
+<tr><td>[tab] h.[^95-16] Dreifachachsen mit Achsabständen von über 1,30 m bis zu 1,40 m</td><td>24,00</td></tr>
+<tr><td>[tab] i.[^95-17] Dreifachachsen mit einem Achsabstand von über 1,40 m</td><td>27,00</td></tr>
 </table>
 
 [^95-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2888](https://fedlex.data.admin.ch/eli/oc/2000/501)).
@@ -2480,14 +2488,15 @@ Das Gesamtgewicht von Fahrzeugen nach Absatz 1 Buchstaben d, e, f und j mit alte
 [^95-6]: Eingefügt durch Ziff. I der V vom 2. Sept. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Fassung gemäss Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3525](https://fedlex.data.admin.ch/eli/oc/2004/473)).
 [^95-7]: Eingefügt durch Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3525](https://fedlex.data.admin.ch/eli/oc/2004/473)).
 [^95-8]: Eingefügt durch Ziff. I der V vom 30. Juni 2004 ([AS 2004 3525](https://fedlex.data.admin.ch/eli/oc/2004/473)). Aufgehoben durch Ziff. I der V vom 28. März 2007, mit Wirkung seit 1. Juli 2007 ([AS 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
-[^95-9]: Eingefügt durch Ziff. I der V vom 5. April 2017, in Kraft seit 7. Mai 2017 ([AS 2017 2651](https://fedlex.data.admin.ch/eli/oc/2017/263)).
-[^95-10]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^95-11]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
-[^95-12]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^95-13]: Fassung gemäss Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
-[^95-14]: Fassung gemäss Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
+[^95-9]: Eingefügt durch Ziff. I der V vom 5. April 2017 ([AS 2017 2651](https://fedlex.data.admin.ch/eli/oc/2017/263)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^95-10]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. April 2022 bis zum 31. Dez. 2030 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^95-11]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^95-12]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
+[^95-13]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^95-14]: Fassung gemäss Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
 [^95-15]: Fassung gemäss Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
-[^95-16]: Eingefügt durch Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3525](https://fedlex.data.admin.ch/eli/oc/2004/473)).
+[^95-16]: Fassung gemäss Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
+[^95-17]: Eingefügt durch Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3525](https://fedlex.data.admin.ch/eli/oc/2004/473)).
 
 #### Art. 96
 
@@ -2513,7 +2522,7 @@ Die Motorleistung (Art. 46 Abs. 1 und 3) desAntriebsmotors muss je Tonne des Ges
 
 <sup>3</sup> Eine Steigerung der Motorleistung um mehr als 20 Prozent darf nur vom Fahrzeughersteller oder von der -herstellerin vorgenommen werden oder wenn er oder sie erklärt, dass sich das Fahrzeug dafür eignet.
 
-<sup>4</sup> Bei Fahrzeugen der Klassen M und N sowie bei Motorrädern, Leicht- Klein- und dreirädrigen Motorfahrzeugen sind anlässlich des Typengenehmigungsverfahrens der Treibstoff- oder Energieverbrauch und die CO<sub>2</sub>-Emissionen festzustellen. Davon ausgenommen sind Fahrzeuge der Klasse M<sub>1</sub> mit besonderer Zweckbestimmung nach Anhang XI der Richtlinie 2007/46/EG.[^97-6]
+<sup>4</sup> Bei Fahrzeugen der Klassen M und N sowie bei Motorrädern, Leicht- Klein- und dreirädrigen Motorfahrzeugen sind anlässlich des Typengenehmigungsverfahrens der Treibstoff- oder Energieverbrauch und die CO<sub>2</sub>-Emissionen festzustellen. Davon ausgenommen sind Fahrzeuge der Klasse M<sub>1</sub> mit besonderer Zweckbestimmung nach der Verordnung (EU) 2018/858.[^97-6]
 
 <sup>5</sup> Die Ermittlung des Treibstoff- oder Energieverbrauches und der CO<sub>2</sub>-Emissionen richtet sich dabei nach der Verordnung (EG) Nr. 715/2007, nach der Verordnung (EG) Nr. 595/2009 oder nach der Verordnung (EU) Nr. 168/2013 und der delegierten Verordnung (EU) Nr. 134/2014.[^97-7]
 
@@ -2552,15 +2561,16 @@ Von Absatz 1 ausgenommen sind:
 - c.[^99-3] Motorwagen, die eine öffentliche Dienstleistung erbringen und ausschliesslich innerorts verkehren;
 - d.[^99-4] Fahrzeuge der Klassen T und C mit einer bauartbedingten Höchstgeschwindigkeit bis 60 km/h.
 
-<sup>3</sup> Die Regelgeschwindigkeiten richten sich nach der Richtlinie Nr. 92/6 des Rates vom 10. Februar 1992 über Einbau und Benutzung von Geschwindigkeitsbegrenzungseinrichtungen für bestimmte Kraftfahrzeugklassen in der Gemeinschaft.
+<sup>3</sup> Für Fahrzeuge der Klassen M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub> und N<sub>3</sub> richten sich die Regelgeschwindigkeiten nach der Richtlinie Nr. 92/6/EWG. Für Fahrzeuge der Klassen T und C richtet sich die Regelgeschwindigkeit nach der bauartbedingten Höchstgeschwindigkeit.[^99-5]
 
-<sup>4</sup> Geschwindigkeitsbegrenzungseinrichtungen und Anschlussteile müssen ständig mit den erforderlichen Plomben einer bewilligten Werkstätte versehen sein. Ein sichtbar an gut zugänglicher Stelle angebrachtes Schild muss auf die eingebaute Geschwindigkeitsbegrenzungseinrichtung hinweisen und mindestens das Typengenehmigungszeichen, die eingestellte Geschwindigkeit und das Datum der letzten Kalibrierung enthalten. Nach Arbeiten am Fahrzeug muss der Halter oder die Halterin sich vergewissern, dass die Plomben unverletzt sind.[^99-5]
+<sup>4</sup> Geschwindigkeitsbegrenzungseinrichtungen und Anschlussteile müssen ständig mit den erforderlichen Plomben einer bewilligten Werkstätte versehen sein. Ein sichtbar an gut zugänglicher Stelle angebrachtes Schild muss auf die eingebaute Geschwindigkeitsbegrenzungseinrichtung hinweisen und mindestens das Typengenehmigungszeichen, die eingestellte Geschwindigkeit und das Datum der letzten Kalibrierung enthalten. Nach Arbeiten am Fahrzeug muss der Halter oder die Halterin sich vergewissern, dass die Plomben unverletzt sind.[^99-6]
 
 [^99-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 [^99-2]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^99-3]: Fassung gemäss Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
 [^99-4]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
-[^99-5]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
+[^99-5]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^99-6]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 
 #### Art. 99a
 
@@ -2794,7 +2804,7 @@ Von Absatz 1 ausgenommen sind:
 
 **Sicherheitsgurten, Kindersitze, Kopfstützen[^106-2]**[^106-1]
 
-<sup>1</sup> Die Ausrüstungspflicht und die Anforderungen an Sicherheitsgurten von Fahrzeugen der Klassen M und N richten sich nach der Verordnung (EG) Nr. 661/2009 oder dem UNECE‑Reglement Nr. 16. Für Fahrzeuge der Klasse M<sub>1</sub> mit besonderer Zweckbestimmung gelten die in Anhang XI der Richtlinie 2007/46/EG enthaltenen Regelungen.[^106-3]
+<sup>1</sup> Die Ausrüstungspflicht und die Anforderungen an Sicherheitsgurten von Fahrzeugen der Klassen M und N richten sich nach der Verordnung (EG) Nr. 661/2009 oder dem UNECE‑Reglement Nr. 16. Für Fahrzeuge der Klasse M<sub>1</sub> mit besonderer Zweckbestimmung gelten die in der Verordnung (EU) 2018/858 enthaltenen Regelungen.[^106-3]
 
 <sup>2</sup> Sitze in Fahrzeugen der Klassen M und N, die quer zur Fahrtrichtung angeordnet sind, müssen mit Beckengurten versehen sein. Ausgenommen sind Fahrzeuge, die ausschliesslich im regionalen fahrplanmässigen Verkehr konzessionierter Transportunternehmungen oder für den Bahnersatz verwendet werden. Sitze, die bis 45 Grad zur Längsachse des Fahrzeugs angeordnet sind, gelten als nach vorne beziehungsweise nach hinten gerichtet, die übrigen als quer zur Fahrtrichtung angeordnet.[^106-4]
 
@@ -3163,6 +3173,7 @@ Für Motorwagen, deren Höchstgeschwindigkeit 10 km/h nicht überschreiten kann,
 <table>
 <tr><td>a.[^121-3] bei einstöckigen Gesellschaftswagen mit mehr als 23 Sitzplätzen einschliesslich Führer oder Führerin sowie bei Stehplätzen</td><td>1,80 m</td></tr>
 <tr><td>b.[^121-4] bei Gesellschaftswagen mit höchstens 23 Sitzplätzen einschliesslich Führer oder Führerin</td><td>1,50 m</td></tr>
+<tr><td>[tab]</td><td></td></tr>
 <tr><td>c.[^121-5] bei doppelstöckigen Gesellschaftswagen</td><td></td></tr>
 <tr><td>1. im oberen Stock</td><td>1,50 m</td></tr>
 <tr><td>2. im unteren Stock</td><td>1,77 m</td></tr>
@@ -3209,7 +3220,7 @@ Für Motorwagen, deren Höchstgeschwindigkeit 10 km/h nicht überschreiten kann,
 
 <sup>3</sup> Gesellschaftswagen und Kleinbusse benötigen Notausstiege mit einer lichten Weite von mindestens 0,60 m auf 0,43 m. Die Anzahl (n) richtet sich nach folgender Formel:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image1.png)Türen zählen ebenfalls als Notausstiege. Die Notausstiege sind deutlich zu kennzeichnen und möglichst gleichmässig auf beiden Fahrzeugseiten anzuordnen. Sie müssen sich rasch und leicht öffnen oder freimachen lassen. Erforderliche Werkzeuge sind gut sichtbar und griffbereit anzuordnen.[^123-3]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image1.png)Türen zählen ebenfalls als Notausstiege. Die Notausstiege sind deutlich zu kennzeichnen und möglichst gleichmässig auf beiden Fahrzeugseiten anzuordnen. Sie müssen sich rasch und leicht öffnen oder freimachen lassen. Erforderliche Werkzeuge sind gut sichtbar und griffbereit anzuordnen.[^123-3]
 
 <sup>4</sup> In Gesellschaftswagen muss eine Bordapotheke mit noch nicht überschrittenem Ablaufdatum nach der DIN-Norm 13164 vorhanden sein.[^123-4]
 
@@ -3365,14 +3376,14 @@ Wird die vorgeschriebene Bremswirkung nur mit Hilfe von Druckluft erreicht, so g
 
 **Zulassung, Ladefläche[^133-1]**
 
-<sup>1</sup> Die Zulassung von Traktoren, die den Anforderungen an land- und forstwirtschaftliche Traktoren entsprechen, richtet sich nach Artikel 161 Absatz 4.[^133-2]
+<sup>1</sup> Die Zulassung von Traktoren, die den Anforderungen an land- und forstwirtschaftliche Traktoren entsprechen, richtet sich nach Artikel 161 Absatz 5.[^133-2]
 
 <sup>2</sup> …[^133-3]
 
 <sup>3</sup> Für die Anforderungen an Ladeflächen von Traktoren gilt Artikel 131 Absatz 1. Bei Traktoren der Klasse T4.3 darf die Länge der Ladefläche das 2,5-Fache der grössten Spurweite nicht überschreiten. Die Beschränkung von Länge und Breite der Ladefläche gilt nicht für aufgebaute und vom Fahrzeug angetriebene Geräte wie Ladewagen, Mistzetter und dergleichen.[^133-4]
 
 [^133-1]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
-[^133-2]: Fassung gemäss Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
+[^133-2]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^133-3]: Aufgehoben durch Ziff. I der V vom 2. März 2012, mit Wirkung seit 1. Mai 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^133-4]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 
@@ -3464,7 +3475,7 @@ Für Pistenfahrzeuge gelten zusätzlich zu Absatz 1 folgende Erleichterungen:
 
 **Gewichte, Anhängelast, Kontrollschild**
 
-<sup>1</sup> Bei Motorrädern, Leicht-, Klein- und dreirädrigen Motorfahrzeugen ist das für die Kategorieneinteilung massgebende Gewicht der Fahrzeuge das Leergewicht (Art. 7 Abs. 1), jedoch ohne Sonderzubehör, ohne die Gewichte für die Speicherung von Alternativtreibstoffen und ohne Fahrzeugführer oder ‑führerin.[^136-1]
+<sup>1</sup> Bei Motorrädern, Leicht-, Klein- und dreirädrigen Motorfahrzeugen ist für die Kategorieneinteilung das Gewicht in fahrbereitem Zustand massgebend. Das Gewicht in fahrbereitem Zustand ist das Leergewicht (Art. 7 Abs. 1), jedoch ohne Sonderzubehör, ohne die Gewichte für die Speicherung von Alternativtreibstoffen und ohne Fahrzeugführer oder -führerin.[^136-1]
 
 <sup>1bis</sup> Bei Leicht-, Klein- und dreirädrigen Motorfahrzeugen sowie bei Kleinmotorrädern nach Artikel 14 Buchstabe b Ziffer 2 darf das Gewicht des Sonderzubehörs maximal 10 Prozent des Gewichts nach Absatz 1 betragen. Als Sonderzubehör gilt die Ausrüstung, die über die vom Hersteller angebotene Standardausrüstung hinausgeht. Aufbau, Führerkabine, Scheiben und Türen gelten nicht als Sonderzubehör.[^136-2]
 
@@ -3501,7 +3512,7 @@ Für Leicht-, Klein- und dreirädrige Motorfahrzeuge sowie für Kleinmotorräder
 
 <sup>4</sup> Bei Motorrädern, Leicht‑, Klein- und dreirädrigen Motorfahrzeugen muss das Kontrollschild hinten angebracht werden.[^136-13]
 
-[^136-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^136-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^136-2]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^136-3]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^136-4]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
@@ -3651,11 +3662,11 @@ Mit Bewilligung der Zulassungsbehörde, durch Eintrag im Fahrzeugausweis, sind w
 
 **Verdoppelung der Beleuchtungsvorrichtungen**[^142-1]
 
-<sup>1</sup> Bei einer Breite von mehr als 1,00 m benötigen Leicht-, Klein- und dreirädrige Motorfahrzeuge, Motorschlitten und Motorräder mit Seitenwagen je zwei hintere Rückstrahler. Sind vordere Rückstrahler vorhanden, so müssen es ebenfalls zwei sein.
+<sup>1</sup> Bei einer Breite von mehr als 1,00 m benötigen mehrspurige Kleinmotorräder, Leicht-, Klein- und dreirädrige Motorfahrzeuge, Motorschlitten und Motorräder mit Seitenwagen je zwei hintere Rückstrahler. Sind vordere Rückstrahler vorhanden, so müssen es ebenfalls zwei sein.
 
-<sup>2</sup> Bei einer Breite von mehr als 1,30 m benötigen Leicht-, Klein- und dreirädrige Motorfahrzeuge je zwei Fernlichter, zwei Abblendlichter, zwei Standlichter, zwei Schlusslichter und zwei Bremslichter. Sind Tagfahrlichter und Nebellichter vorhanden, so müssen es ebenfalls je zwei sein.
+<sup>2</sup> Bei einer Breite von mehr als 1,30 m benötigen mehrspurige Kleinmotorräder, Leicht-, Klein- und dreirädrige Motorfahrzeuge je zwei Fernlichter, zwei Abblendlichter, zwei Standlichter, zwei Schlusslichter und zwei Bremslichter. Sind Tagfahrlichter und Nebellichter vorhanden, so müssen es ebenfalls je zwei sein.
 
-[^142-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^142-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 ### 5. Kapitel: Weitere Anforderungen und Zusatzausrüstungen
 
@@ -3700,7 +3711,11 @@ Mit Bewilligung der Zulassungsbehörde, durch Eintrag im Fahrzeugausweis, sind w
 
 ### 6. Kapitel: Besondere Bestimmungen
 
-### 1. Abschnitt: Motorräder
+### 1. Abschnitt: Motorräder nach Artikel 14 Buchstabe a****
+
+[^part3-tit3-chap6-sec1-1]
+
+[^part3-tit3-chap6-sec1-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 #### Art. 145
 
@@ -4192,13 +4207,13 @@ Als Beleuchtung sind, möglichst weit aussen angebracht, erforderlich:
 
 <sup>1</sup> Am Rahmen muss eine leicht feststellbare, individuelle Nummer eingeschlagen und der Name des Herstellers oder der Name der Herstellerin oder eine Marke unverwischbar aufgetragen sein.
 
-<sup>2</sup> Bei Verbrennungsmotoren muss ein nicht leicht auswechselbarer Teil des Motors ein Typenzeichen des Motors, die Angabe des Hubraumes und den Namen des Herstellers oder der Herstellerin oder die Fabrikmarke aufweisen. Für die Kennzeichnung von Elektromotoren gilt Artikel 51 Absatz 1 Buchstaben a und c.[^176-1]
+<sup>2</sup> Bei Verbrennungsmotoren muss ein nicht leicht auswechselbarer Teil des Motors ein Typenzeichen des Motors, die Angabe des Hubraumes und den Namen des Herstellers oder der Herstellerin oder die Fabrikmarke aufweisen. Für die Kennzeichnung von Elektromotoren gilt Artikel 51 Absatz 1.[^176-1]
 
 <sup>3</sup> Bei allen Fahrzeugen des gleichen Typs müssen die erforderlichen Kennzeichnungen auf die gleiche Weise, an derselben Stelle und unverwischbar angebracht sein.
 
 <sup>4</sup> Bei Motorfahrrädern, die ein Kontrollschild benötigen, muss dieses hinten möglichst senkrecht und von hinten gut sichtbar angebracht sein. Das Kontrollschild darf nicht verändert, verbogen, zerschnitten oder unleserlich gemacht werden.
 
-[^176-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^176-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 #### Art. 177
 
@@ -4334,7 +4349,11 @@ Die Anforderungen an Richtungsblinker richten sich nach Artikel 179*a* Absatz 2 
 
 [^180-1]: Fassung gemäss Ziff. I der V vom 15. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)).
 
-### 4. Abschnitt: Besondere Bestimmungen für Rollstühle
+### 4. Abschnitt: Besondere Bestimmungen für motorisierte Rollstühle****
+
+[^part3-tit5-chap3-sec4-1]
+
+[^part3-tit5-chap3-sec4-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 #### Art. 181
 
@@ -4908,7 +4927,7 @@ Bei land- und forstwirtschaftlichen Arbeitsanhängern dürfen fehlen:
 
 <sup>2</sup> An der Vorder- und an der Rückseite muss rechts und links möglichst weit aussen ein nicht dreieckiger Rückstrahler fest angebracht sein. Richtungsblinker sind nur zulässig, wenn das Zugfahrzeug damit ausgerüstet ist. Wird das hintere Licht des Fahrrades durch den Anhänger oder seine Ladung verdeckt, so muss der Anhänger in der Nacht hinten ein rotes oder gelbes Licht tragen.
 
-<sup>3</sup> Die Anhängerachse muss hinter der Mitte der Ladefläche liegen.
+<sup>3</sup> …[^210-3]
 
 <sup>4</sup> Anhänger sind mit einer betriebssicheren Kupplung am Zugfahrzeug schwenkbar zu befestigen.
 
@@ -4918,12 +4937,13 @@ Nachlaufteile gelten als Anhänger. Nachlaufteile sind:
 
 - a. schwenkbar angekuppelte Rahmenkonstruktionen mit einem oder zwei Rädern, die mit Pedalen, Sitzgelegenheit und einer Festhalteeinrichtung ausgerüstet sind;
 - b. für Kinder vorgesehene Fahrräder, die mit angehobenem oder demontiertem Vorderrad mittels einer betriebssicheren Verbindungseinrichtung am Zugfahrzeug angehängt sind; oder
-- c.[^210-3] Rollstühle, die mittels einer betriebssicheren Verbindungseinrichtung am Zugfahrzeug angehängt sind.[^210-4]
+- c.[^210-4] Rollstühle, die mittels einer betriebssicheren Verbindungseinrichtung am Zugfahrzeug angehängt sind.[^210-5]
 
 [^210-1]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 [^210-2]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2473](https://fedlex.data.admin.ch/eli/oc/2015/462)).
-[^210-3]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
-[^210-4]: Eingefügt durch Ziff. I der V vom 17. Aug. 2005, in Kraft seit 1. März 2006 ([AS 2005 4515](https://fedlex.data.admin.ch/eli/oc/2005/583)).
+[^210-3]: Aufgehoben durch Ziff. I der V vom 17. Dez. 2021, mit Wirkung seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^210-4]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
+[^210-5]: Eingefügt durch Ziff. I der V vom 17. Aug. 2005, in Kraft seit 1. März 2006 ([AS 2005 4515](https://fedlex.data.admin.ch/eli/oc/2005/583)).
 
 ### 10. Abschnitt:**** Schlittenanhänger
 
@@ -5560,7 +5580,7 @@ Anhang 2*[^t-1]*
 
 ## Für die Schweiz verbindliche Fassungen internationaler Regelungen
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V vom 21. Jan. 2015 ([AS 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 15. April 2015 ([AS 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)), vom 16. Nov. 2016 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), Ziff. I der V vom 27. Juni 2018 ([AS 2018 2675](https://fedlex.data.admin.ch/eli/oc/2018/389)) und Ziff. II Abs. 1 der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V vom 21. Jan. 2015 ([AS 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 15. April 2015 ([AS 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)), vom 16. Nov. 2016 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), Ziff. I der V vom 27. Juni 2018 ([AS 2018 2675](https://fedlex.data.admin.ch/eli/oc/2018/389)), Ziff. II Abs. 1 der V vom 21. Nov. 2018 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)) und Ziff. II der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 ### 1 Transportmotorwagen und ihre Anhänger, land- und forstwirtschaftliche Traktoren, Motorräder, Leicht-, Klein- und dreirädrige Motorfahrzeuge, Motorfahrräder
 
@@ -5571,12 +5591,12 @@ Anhang 2*[^t-1]*
 <table>
 <tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
 <tr><td>Richtlinie 2003/37/EG</td><td>Richtlinie 2003/37/EG des Europäischen Parlaments und des Rates vom 26. Mai 2003 über die Typgenehmigung für land- oder forstwirtschaftliche Zugmaschinen, ihre Anhänger und die von ihnen gezogenen auswechselbaren Maschinen sowie für Systeme, Bauteile und selbstständige technische Einheiten dieser Fahrzeuge und zur Aufhebung der Richtlinie 74/150/EWG, ABl. L 171 vom 9.7.2003, S. 1; zuletzt geändert durch Richtlinie 2014/44/EU, ABl. L 82 vom 20.3.2014, S. 12.</td></tr>
-<tr><td>Richtlinie 2007/46/EG</td><td>Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (Rahmenrichtlinie), ABl. L 263 vom 9.10.2007, S. 1; zuletzt geändert durch Verordnung (EU) 2017/2400, ABl. L 349 vom 29.12.2017, S. 1.</td></tr>
-<tr><td>Verordnung (EU) Nr. 167/2013</td><td>Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates vom 5. Februar 2013 über die Genehmigung und Marktüberwachung von land- und forstwirtschaftlichen Fahrzeugen, ABl. L 60 vom 2.3.2013, S. 1; zuletzt geändert durch Verordnung (EU) 2018/985, ABl. L 182 vom 18.7.2018, S. 1. Ausgenommen sind die Bestimmungen über die Marktüberwachung, namentlich die Artikel 1 Absatz 2, 5 Absatz 4 sowie 8 Absätze 4 und 5.</td></tr>
-<tr><td>Verordnung (EU) Nr. 168/2013</td><td>Verordnung (EU) Nr. 168/2013 des Europäischen Parlaments und des Rates vom 15. Januar 2013 über die Genehmigung und Marktüberwachung von zwei- oder dreirädrigen und vierrädrigen Fahrzeugen, ABl. L 60 vom 2.3.2013, S. 52; zuletzt geändert durch Verordnung (EU) Nr. 134/2014, ABl. L 53 vom 21.2.2014, S. 1. Ausgenommen sind die Bestimmungen über die Marktüberwachung, namentlich die Artikel 1 Absatz 2, 6 Absatz 4 sowie 9 Absätze 4 und 5.</td></tr>
-<tr><td>Verordnung (EU) Nr. 901/2014</td><td>Durchführungsverordnung (EU) Nr. 901/2014 der Kommission vom 18. Juli 2014 zur Durchführung der Verordnung (EG) Nr. 168/2013 des Europäischen Parlaments und des Rates hinsichtlich der Verwaltungsvorschriften für die Genehmigung und Marktüberwachung von zwei- oder dreirädrigen und vierrädrigen Fahrzeugen, ABl. L 249 vom 22.8.2014, S. 1; geändert durch Verordnung (EU) 2016/1825, ABl. L 279 vom 15.10.2016, S. 47.</td></tr>
+<tr><td>Verordnung (EU) Nr. 167/2013</td><td>Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates vom 5. Februar 2013 über die Genehmigung und Marktüberwachung von land- und forstwirtschaftlichen Fahrzeugen, ABl. L 60 vom 2.3.2013, S. 1; zuletzt geändert durch Verordnung (EU) 2019/519, ABl. L 91 vom 29.3.2019, S. 42. Ausgenommen sind die Bestimmungen über die Marktüberwachung, namentlich die Artikel 1 Absatz 2, 5 Absatz 4 sowie 8 Absätze 4 und 5.</td></tr>
+<tr><td>Verordnung (EU) Nr. 168/2013</td><td>Verordnung (EU) Nr. 168/2013 des Europäischen Parlaments und des Rates vom 15. Januar 2013 über die Genehmigung und Marktüberwachung von zwei- oder dreirädrigen und vierrädrigen Fahrzeugen, ABl. L 60 vom 2.3.2013, S. 52; zuletzt geändert durch Verordnung (EU) 2020/1694, ABl. L 381 vom 13.11.2020, S. 4. Ausgenommen sind die Bestimmungen über die Marktüberwachung, namentlich die Artikel 1 Absatz 2, 6 Absatz 4 sowie 9 Absätze 4 und 5.</td></tr>
+<tr><td>Verordnung (EU) Nr. 901/2014</td><td>Durchführungsverordnung (EU) Nr. 901/2014 der Kommission vom 18. Juli 2014 zur Durchführung der Verordnung (EU) Nr. 168/2013 des Europäischen Parlaments und des Rates hinsichtlich der Verwaltungsvorschriften für die Genehmigung und Marktüberwachung von zwei- oder dreirädrigen und vierrädrigen Fahrzeugen, ABl. L 249 vom 22.8.2014, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2020/239, ABl. L 48 vom 21.2.2020, S. 6.</td></tr>
 <tr><td>Verordnung (EU) 2015/504</td><td>Durchführungsverordnung (EU) 2015/504 der Kommission vom 11. März 2015 zur Durchführung der Verordnung (EG) Nr. 167/2013 des Europäischen Parlaments und des Rates hinsichtlich der Verwaltungsvorschriften für die Genehmigung und Marktüberwachung von land- und forstwirtschaftlichen Fahrzeugen, ABl. L 85 vom 28.3.2015, S. 1; zuletzt geändert durch Verordnung (EU) 2018/986, ABl. L 182 vom 18.7.2018, S. 16.</td></tr>
-<tr><td>Verordnung (EU) 2018/858</td><td>Verordnung (EU) 2018/858 des Europäischen Parlaments vom 30. Mai 2018 über die Genehmigung und die Marktüberwachung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge, zur Änderung der Verordnungen (EG) Nr. 715/2007 und (EG) Nr. 595/2009 und zur Aufhebung der Richtlinie 2007/46/EG, Fassung gemäss ABl. L 151 vom 14.6.2018, S. 1. Ausgenommen sind die Bestimmungen über die Marktüberwachung, namentlich die Artikel 1 Absatz 2, 6–11 sowie 13 Absatz 4.</td></tr>
+<tr><td>Verordnung (EU) 2018/858</td><td>Verordnung (EU) 2018/858 des Europäischen Parlaments vom 30. Mai 2018 über die Genehmigung und die Marktüberwachung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge, zur Änderung der Verordnungen (EG) Nr. 715/2007 und (EG) Nr. 595/2009 und zur Aufhebung der Richtlinie 2007/46/EG, ABl. L 151 vom 14.6.2018, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2021/1445, ABl. L 313 vom 6.9.2021, S. 4. Ausgenommen sind die Bestimmungen über die Marktüberwachung, namentlich die Artikel 1 Absatz 2, 6 – 11 sowie 13 Absatz 4.</td></tr>
+<tr><td>Verordnung (EU) 2020/683</td><td>Durchführungsverordnung (EU) 2020/683 der Kommission vom 15. April 2020 zur Durchführung der Verordnung (EU) 2018/858 des Europäischen Parlaments und des Rates hinsichtlich der administrativen Anforderungen für die Genehmigung und Marktüberwachung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge, Fassung gemäss ABl. L 163 vom 26.5.2020, S. 1.</td></tr>
 </table>
 
 ### 112 EU-Recht innerhalb der Gesamtgenehmigungserlasse
@@ -5601,7 +5621,7 @@ Anhang 2*[^t-1]*
 <tr><td>Verordnung (EG) Nr. 706/2007</td><td colspan="2">Verordnung (EG) Nr. 706/2007 der Kommission vom 21. Juni 2007 zur Festlegung von Verwaltungsvorschriften für die EG-Typgenehmigung von Kraftfahrzeugen und eines harmonisierten Verfahrens für die Messung von Leckagen aus bestimmten Klimaanlagen nach der Richtlinie 2006/40/EG des Europäischen Parlaments und des Rates, ABl. L 161 vom 22.6.2007, S. 33; geändert durch Verordnung (EU) Nr. 519/2013, ABl. L 158 vom 10.6.2013, S. 74.</td></tr>
 <tr><td>Verordnung (EG) Nr. 715/2007</td><td colspan="2">Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge, ABl. L 171 vom 29.6.2007, S. 1; zuletzt geändert durch Verordnung (EU) 2018/858, ABl. L 151 vom 14.6.2018, S. 1.</td></tr>
 <tr><td>Richtlinie 2008/2/EG</td><td colspan="2">Richtlinie 2008/2/EG des Europäischen Parlaments und des Rates vom 15. Januar 2008 über das Sichtfeld und die Scheibenwischer von land- oder forstwirtschaftlichen Zugmaschinen auf Rädern (kodifizierte Fassung), Fassung gemäss ABl. L 24 vom 29.1.2008, S. 30.</td></tr>
-<tr><td>Verordnung (EG) Nr. 692/2008</td><td colspan="2">Verordnung (EG) Nr. 692/2008 der Kommission vom 18. Juli 2008 zur Durchführung und Änderung der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge, ABl. L 199 vom 28.7.2008, S. 1; zuletzt geändert durch Verordnung (EU) 2017/1221, ABl. L 174 vom 7.7.2017, S. 3.</td></tr>
+<tr><td>Verordnung (EG) Nr. 692/2008</td><td colspan="2">Verordnung (EG) Nr. 692/2008 der Kommission vom 18. Juli 2008 zur Durchführung und Änderung der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge, ABl. L 199 vom 28.7.2008, S. 1; zuletzt geändert durch Verordnung (EU) 2018/1832, ABl. L 301 vom 27.11.2018, S. 1.</td></tr>
 <tr><td>Richtlinie 2009/57/EG</td><td colspan="2">Richtlinie 2009/57/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009 über Umsturzschutzvorrichtungen für land- und forstwirtschaftliche Zugmaschinen auf Rädern (kodifizierte Fassung), ABl. L 261 vom 3.10.2009, S. 1; geändert durch Richtlinie 2013/15/EU, ABl. L 158 vom 10.6.2013, S. 172.</td></tr>
 <tr><td>Richtlinie 2009/58/EG</td><td colspan="2">Richtlinie 2009/58/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009 über die Abschleppeinrichtung und den Rückwärtsgang von land- oder forstwirtschaftlichen Zugmaschinen auf Rädern (kodifizierte Fassung), Fassung gemäss ABl. L 198 vom 30.7.2009, S. 4.</td></tr>
 <tr><td>Richtlinie 2009/59/EG</td><td colspan="2">Richtlinie 2009/59/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009 über Rückspiegel von land- oder forstwirtschaftlichen Zugmaschinen auf Rädern (kodifizierte Fassung), Fassung gemäss ABl. L 198 vom 30.7.2009, S. 9.</td></tr>
@@ -5616,9 +5636,9 @@ Anhang 2*[^t-1]*
 <tr><td>Richtlinie 2009/144/EG</td><td colspan="2">Richtlinie 2009/144/EG des Europäischen Parlaments und des Rates vom 30. November 2009 über bestimmte Bauteile und Merkmale von land- oder forstwirtschaftlichen Zugmaschinen auf Rädern (kodifizierte Fassung), ABl. L 27 vom 30.1.2010, S. 33; zuletzt geändert durch Richtlinie 2013/15/EU, ABl. L 158 vom 10.6.2013, S. 172.</td></tr>
 <tr><td>Verordnung (EG) Nr. 78/2009</td><td colspan="2">Verordnung (EG) Nr. 78/2009 des Europäischen Parlaments und des Rates vom 14. Januar 2009 über die Typgenehmigung von Kraftfahrzeugen im Hinblick auf den Schutz von Fussgängern und anderen ungeschützten Verkehrsteilnehmern, zur Änderung der Richtlinie 2007/46/EG und zur Aufhebung der Richtlinien 2003/102/EG und 2005/66/EG, ABl. L 35 vom 4.2.2009, S. 1; geändert durch Verordnung (EU) Nr. 517/2013, ABl. L 158 vom 10.6.2013, S. 1.</td></tr>
 <tr><td>Verordnung (EG) Nr. 79/2009</td><td colspan="2">Verordnung (EG) Nr. 79/2009 des Europäischen Parlaments und des Rates vom 14. Januar 2009 über die Typgenehmigung von wasserstoffbetriebenen Kraftfahrzeugen und zur Änderung der Richtlinie 2007/46/EG, Fassung gemäss ABl. L 35 vom 4.2.2009, S. 32.</td></tr>
-<tr><td>Verordnung (EG) Nr. 595/2009</td><td colspan="2">Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Typgenehmigung von Kraftfahrzeugen und Motoren hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Verordnung (EG) Nr. 715/2007 und der Richtlinie 2007/46/EG sowie zur Aufhebung der Richtlinien 80/1269/EWG, 2005/55/EG und 2005/78/EG, ABl. L 188 vom 18.7.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2018/858, ABl. L 151 vom 14.6.2018, S. 1.</td></tr>
+<tr><td>Verordnung (EG) Nr. 595/2009</td><td colspan="2">Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Typgenehmigung von Kraftfahrzeugen und Motoren hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Verordnung (EG) Nr. 715/2007 und der Richtlinie 2007/46/EG sowie zur Aufhebung der Richtlinien 80/1269/EWG, 2005/55/EG und 2005/78/EG, ABl. L 188 vom 18.7.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2019/1242, ABl. L 198 vom 25.7.2019, S. 202.</td></tr>
 <tr><td>Verordnung (EG) Nr. 631/2009</td><td colspan="2">Verordnung (EG) Nr. 631/2009 der Kommission vom 22. Juli 2009 mit Durchführungsbestimmungen für Anhang I der Verordnung (EG) Nr. 78/2009 des Europäischen Parlaments und des Rates über die Typgenehmigung von Kraftfahrzeugen hinsichtlich des Schutzes von Fussgängern und anderen ungeschützten Verkehrsteilnehmern sowie zur Änderung der Richtlinie 2007/46/EG und zur Aufhebung der Richtlinien 2003/102/EG und 2005/66/EG, ABl. L. 195 vom 25.7.2009, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 459/2011, ABl. L 124 vom 13.5.2011, S. 21.</td></tr>
-<tr><td>Verordnung (EG) Nr. 661/2009</td><td colspan="2">Verordnung (EG) Nr. 661/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über die Typgenehmigung von Kraftfahrzeugen, Kraftfahrzeuganhängern und von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge hinsichtlich ihrer allgemeinen Sicherheit, ABl. L 200 vom 31.7.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2016/1004, ABl. L 165 vom 23.6.2016, S. 1.</td></tr>
+<tr><td>Verordnung (EG) Nr. 661/2009</td><td colspan="2">Verordnung (EG) Nr. 661/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über die Typgenehmigung von Kraftfahrzeugen, Kraftfahrzeuganhängern und von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge hinsichtlich ihrer allgemeinen Sicherheit, ABl. L 200 vom 31.7.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2019/543, ABl. L 95 vom 4.4.2019, S. 1.</td></tr>
 <tr><td>Verordnung (EU) Nr. 406/2010</td><td colspan="2">Verordnung (EU) Nr. 406/2010 der Kommission vom 26. April 2010 zur Durchführung der Verordnung (EG) Nr. 79/2009 des Europäischen Parlaments und des Rates über die Typgenehmigung von wasserstoffbetriebenen Kraftfahrzeugen, ABl. L 122 vom 18.5.2010, S. 1; geändert durch Verordnung (EU) Nr. 519/2013, ABl. L 158 vom 10.6.2013, S. 74.</td></tr>
 <tr><td>Verordnung (EU) Nr. 672/2010</td><td colspan="2">Verordnung (EU) Nr. 672/2010 der Kommission vom 27. Juli 2010 über die Typgenehmigung von Entfrostungs- und Trocknungsanlagen bestimmter Kraftfahrzeuge und zur Durchführung der Verordnung (EG) Nr. 661/2009 des Europäischen Parlaments und des Rates über die Typgenehmigung von Kraftfahrzeugen, Kraftfahrzeuganhängern und von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge hinsichtlich ihrer allgemeinen Sicherheit, Fassung gemäss ABl. L 196 vom 28.7.2010, S. 5.</td></tr>
 <tr><td>Verordnung (EU) Nr. 1003/2010</td><td colspan="2">Verordnung (EU) Nr. 1003/2010 der Kommission vom 8. November 2010 über die Typgenehmigung der Anbringungsstelle und der Anbringung der hinteren amtlichen Kennzeichen an Kraftfahrzeugen und Kraftfahrzeuganhängern und zur Durchführung der Verordnung (EG) Nr. 661/2009 des Europäischen Parlaments und des Rates über die Typgenehmigung von Kraftfahrzeugen, Kraftfahrzeuganhängern und von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge hinsichtlich ihrer allgemeinen Sicherheit, ABl. L 291 vom 9.11.2010, S. 22; geändert durch Verordnung (EU) 2015/166, ABl. L 28 vom 4.2.2015, S. 3.</td></tr>
@@ -5629,27 +5649,29 @@ Anhang 2*[^t-1]*
 <tr><td>Verordnung (EU) Nr. 109/2011</td><td colspan="2">Verordnung (EU) Nr. 109/2011 der Kommission vom 27. Januar 2011 zur Durchführung der Verordnung (EG) Nr. 661/2009 des Europäischen Parlaments und des Rates über die Typgenehmigung bestimmter Klassen von Kraftfahrzeugen und ihrer Anhänger hinsichtlich der Spritzschutzsysteme, ABl. L 34 vom 9.2.2011, S. 2; zuletzt geändert durch Verordnung (EU) 2015/166, ABl. L 28 vom 4.2.2015, S. 3.</td></tr>
 <tr><td>Verordnung (EU) Nr. 458/2011</td><td colspan="2">Verordnung (EU) Nr. 458/2011 der Kommission vom 12. Mai 2011 über die Typgenehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern hinsichtlich der Montage von Reifen und zur Durchführung der Verordnung (EG) Nr. 661/2009 des Europäischen Parlaments und des Rates über die Typgenehmigung von Kraftfahrzeugen, Kraftfahrzeuganhängern und von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge hinsichtlich ihrer allgemeinen Sicherheit, ABl. L 124 vom 13.5.2011, S. 11; geändert durch Verordnung (EU) 2015/166, ABl. L 28 vom 4.2.2015, S. 3.</td></tr>
 <tr><td>Verordnung (EU) Nr. 459/2011</td><td colspan="2">Verordnung (EU) Nr. 459/2011 der Kommission vom 12. Mai 2011 zur Änderung des Anhangs der Verordnung (EG) Nr. 631/2009 mit Durchführungsbestimmungen für Anhang I der Verordnung (EG) Nr. 78/2009 des Europäischen Parlaments und des Rates über die Typgenehmigung von Kraftfahrzeugen hinsichtlich des Schutzes von Fussgängern und anderen ungeschützten Verkehrsteilnehmern, Fassung gemäss ABl. L 124 vom 13.5.2011, S. 21.</td></tr>
-<tr><td>Verordnung (EU) Nr. 582/2011</td><td colspan="2">Verordnung (EU) Nr. 582/2011 der Kommission vom 25. Mai 2011 zur Durchführung und Änderung der Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und zur Änderung der Anhänge I und III der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates, ABl. L 167 vom 25.6.2011, S. 1; zuletzt geändert durch Verordnung (EU) 2018/932, ABl. L 165 vom 2.7.2018, S. 32.</td></tr>
+<tr><td>Verordnung (EU) Nr. 582/2011</td><td colspan="2">Verordnung (EU) Nr. 582/2011 der Kommission vom 25. Mai 2011 zur Durchführung und Änderung der Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und zur Änderung der Anhänge I und III der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates, ABl. L 167 vom 25.6.2011, S. 1; zuletzt geändert durch Verordnung (EU) 2020/1181, ABl. L 263 vom 12.8.2020, S. 1.</td></tr>
 <tr><td>Verordnung (EU) Nr. 65/2012</td><td colspan="2">Verordnung (EU) Nr. 65/2012 der Kommission vom 24. Januar 2012 zur Durchführung der Verordnung (EG) Nr. 661/2009 des Europäischen Parlaments und des Rates im Hinblick auf Gangwechselanzeiger und zur Änderung der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates, Fassung gemäss ABl. L 28 vom 31.1.2012, S. 24.</td></tr>
 <tr><td>Verordnung (EU) Nr. 130/2012</td><td colspan="2">Verordnung (EU) Nr. 130/2012 der Kommission vom 15. Februar 2012 über die Typgenehmigung für Kraftfahrzeuge hinsichtlich des Einstiegs ins Fahrzeug und der Manövriereigenschaften und zur Durchführung der Verordnung (EG) Nr. 661/2009 des Europäischen Parlaments und des Rates über die Typgenehmigung von Kraftfahrzeugen, Kraftfahrzeuganhängern und von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge hinsichtlich ihrer allgemeinen Sicherheit, Fassung gemäss ABl. L 43 vom 16.2.2012, S. 6.</td></tr>
 <tr><td>Verordnung (EU) Nr. 347/2012</td><td colspan="2">Verordnung (EU) Nr. 347/2012 der Kommission vom 16. April 2012 zur Durchführung der Verordnung (EG) Nr. 661/2009 des Europäischen Parlaments und des Rates über die Typgenehmigung von Notbremsassistenzsystemen für bestimmte Kraftfahrzeugklassen, ABl. L 109 vom 21.4.2012, S. 1; geändert durch Verordnung (EU) 2015/562, ABl. L 93 vom 9.4.2015, S. 35.</td></tr>
 <tr><td>Verordnung (EU) Nr. 351/2012</td><td colspan="2">Verordnung (EU) Nr. 351/2012 der Kommission vom 23. April 2012 zur Durchführung der Verordnung (EG) Nr. 661/2009 des Europäischen Parlaments und des Rates hinsichtlich der Anforderungen an die Typgenehmigung von Spurhaltewarnsystemen in Kraftfahrzeugen, Fassung gemäss ABl. L 110 vom 24.4.2012, S. 18.</td></tr>
 <tr><td>Verordnung (EU) Nr. 630/2012</td><td colspan="2">Verordnung (EU) Nr. 630/2012 der Kommission vom 12. Juli 2012 zur Änderung der Verordnung (EG) Nr. 692/2008 bezüglich der Anforderungen für die Typgenehmigung von mit Wasserstoff und Gemischen aus Wasserstoff und Erdgas betriebenen Kraftfahrzeugen hinsichtlich der Emissionen und bezüglich der Aufnahme spezifischer Informationen zu Fahrzeugen mit Elektroantrieb in den Beschreibungsbogen für die EG-Typgenehmigung, Fassung gemäss ABl. L 182 vom 13.7.2012, S. 14.</td></tr>
-<tr><td>Verordnung (EU) Nr. 1230/2012</td><td colspan="2">Verordnung (EU) Nr. 1230/2012 der Kommission vom 12. Dezember 2012 zur Durchführung der Verordnung (EG) Nr. 661/2009 des Europäischen Parlaments und des Rates hinsichtlich der Anforderungen an die Typgenehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern bezüglich ihrer Massen und Abmessungen und zur Änderung der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates, ABl. L 353 vom 21.12.2012, S. 31; geändert durch Verordnung (EU) 2017/1151, ABl. L 175 vom 7.7.2017, S. 1.</td></tr>
+<tr><td>Verordnung (EU) Nr. 1230/2012</td><td colspan="2">Verordnung (EU) Nr. 1230/2012 der Kommission vom 12. Dezember 2012 zur Durchführung der Verordnung (EG) Nr. 661/2009 des Europäischen Parlaments und des Rates hinsichtlich der Anforderungen an die Typgenehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern bezüglich ihrer Massen und Abmessungen und zur Änderung der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates, ABl. L 353 vom 21.12.2012, S. 31; zuletzt geändert durch Verordnung (EU) 2019/1892, ABl. L 291 vom 12.11.2019, S. 17.</td></tr>
 <tr><td>Verordnung (EU) Nr. 3/2014</td><td colspan="2">Delegierte Verordnung (EU) Nr. 3/2014 der Kommission vom 24. Oktober 2013 zur Ergänzung der Verordnung (EU) Nr. 168/2013 des Europäischen Parlaments und des Rates hinsichtlich der Anforderungen an die funktionale Sicherheit von Fahrzeugen für die Genehmigung von zwei- oder dreirädrigen und vierrädrigen Fahrzeugen, ABl. L 7 vom 10.1.2014, S. 1; geändert durch Verordnung (EU) 2016/1824, ABl. L 279 vom 15.10.2016, S. 1.</td></tr>
 <tr><td>Verordnung (EU) Nr. 44/2014</td><td colspan="2">Delegierte Verordnung (EU) Nr. 44/2014 der Kommission vom 21. November 2013 zur Ergänzung der Verordnung (EU) Nr. 168/2013 des Europäischen Parlaments und des Rates hinsichtlich der Anforderungen an die Bauweise von Fahrzeugen und der allgemeinen Anforderungen im Zusammenhang mit der Typgenehmigung von zwei-, drei- und vierrädrigen Fahrzeugen, ABl. L 25 vom 28.1.2014, S. 1; zuletzt geändert durch Verordnung (EU) 2018/295, ABl. L 56 vom 28.2.2018, S. 1.</td></tr>
 <tr><td>Verordnung (EU) Nr. 134/2014</td><td colspan="2">Delegierte Verordnung (EU) Nr. 134/2014 der Kommission vom 16. Dezember 2013 zur Ergänzung der Verordnung (EU) Nr. 168/2013 des Europäischen Parlaments und des Rates in Bezug auf die Anforderungen an die Umweltverträglichkeit und die Leistung der Antriebseinheit sowie zur Änderung ihres Anhangs V, ABl. L 53 vom 21.2.2014, S. 1; zuletzt geändert durch Verordnung (EU) 2018/295, ABl. L 56 vom 28.2.2018, S. 1.</td></tr>
-<tr><td>Verordnung (EU) Nr. 540/2014</td><td colspan="2">Verordnung (EU) Nr. 540/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über den Geräuschpegel von Kraftfahrzeugen und von Austauschschalldämpferanlagen sowie zur Änderung der Richtlinie 2007/46/EG und zur Aufhebung der Richtlinie 70/157/EWG, ABl. L 158 vom 27.5.2014, S. 131; geändert durch Verordnung (EU) 2017/1576, ABl. L 239 vom 19.9.2017, S. 3.</td></tr>
+<tr><td>Verordnung (EU) Nr. 540/2014</td><td colspan="2">Verordnung (EU) Nr. 540/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über den Geräuschpegel von Kraftfahrzeugen und von Austauschschalldämpferanlagen sowie zur Änderung der Richtlinie 2007/46/EG und zur Aufhebung der Richtlinie 70/157/EWG, ABl. L 158 vom 27.5.2014, S. 131; zuletzt geändert durch Verordnung (EU) 2019/839, ABl. L 138 vom 24.5.2019, S. 70.</td></tr>
 <tr><td>Verordnung (EU) Nr. 1322/2014</td><td colspan="2">Delegierte Verordnung (EU) Nr. 1322/2014 der Kommission vom 19. September 2014 zur Ergänzung und Änderung der Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates hinsichtlich der Anforderungen an die Bauweise von Fahrzeugen und der allgemeinen Anforderungen im Zusammenhang mit der Typgenehmigung von land- und forstwirtschaftlichen Fahrzeugen, ABl. L 364 vom 18.12.2014, S. 1; zuletzt geändert durch Verordnung (EU) 2018/830, ABl. L 140 vom 6.6.2018, S. 15.</td></tr>
 <tr><td>Verordnung (EU) 2015/68</td><td colspan="2">Delegierte Verordnung (EU) 2015/68 der Kommission vom 15. Oktober 2014 zur Ergänzung der Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates hinsichtlich der Anforderungen für die Bremsen von Fahrzeugen im Zusammenhang mit der Typgenehmigung von land- und forstwirtschaftlichen Fahrzeugen, ABl. L 17 vom 23.1.2015, S. 1; zuletzt geändert durch Verordnung (EU) 2018/828, ABl. L 140 vom 6.6.2018, S. 5.</td></tr>
-<tr><td>Verordnung (EU) 2015/96</td><td colspan="2">Delegierte Verordnung (EU) 2015/96 der Kommission vom 1. Oktober 2014 zur Ergänzung der Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates hinsichtlich der Anforderungen an die Umweltverträglichkeit und die Leistung der Antriebseinheit von land- und forstwirtschaftlichen Fahrzeugen, Fassung gemäss ABl. L 16 vom 23.1.2015, S. 1.</td></tr>
-<tr><td>Verordnung (EU) 2015/208</td><td colspan="2">Delegierte Verordnung (EU) 2015/208 der Kommission vom 8. Dezember 2014 zur Ergänzung der Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates hinsichtlich der Anforderungen an die funktionale Sicherheit von Fahrzeugen für die Genehmigung von land- und forstwirtschaftlichen Fahrzeugen, ABl. L 42 vom 23.2.2015, S. 1; zuletzt geändert durch Verordnung (EU) 2018/829, ABl. L 140 vom 6.6.2018, S. 8.</td></tr>
+<tr><td>Verordnung (EU) 2015/208</td><td colspan="2">Delegierte Verordnung (EU) 2015/208 der Kommission vom 8. Dezember 2014 zur Ergänzung der Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates hinsichtlich der Anforderungen an die funktionale Sicherheit von Fahrzeugen für die Genehmigung von land- und forstwirtschaftlichen Fahrzeugen, ABl. L 42 vom 17.2.2015, S. 1; zuletzt geändert durch Verordnung (EU) 2020/540, ABl. L 121 vom 20.4.2020, S. 1.</td></tr>
 <tr><td>Verordnung (EU) 2015/758</td><td colspan="2">Verordnung (EU) 2015/758 des Europäischen Parlaments und des Rates vom 29. April 2015 über Anforderungen für die Typengenehmigung zur Einführung des auf dem 112-Notruf basierenden bordeigenen eCall-Systems in Fahrzeugen und zur Änderung der Richtlinie 2007/46/EG, ABl. L 123 vom 19.5.2015, S. 77; geändert durch Verordnung (EU) 2017/79, ABl. L 12 vom 17.1.2017, S. 44.</td></tr>
 <tr><td>Verordnung (EU) 2017/78</td><td colspan="2">Durchführungsverordnung (EU) 2017/78 der Kommission vom 15. Juli 2016 zur Festlegung der Verwaltungsvorschriften für die EG-Typgenehmigung von Kraftfahrzeugen bezüglich der auf den 112-Notruf basierenden bordeigenen eCall-Systeme und einheitlicher Bedingungen für die Durchführung der Verordnung (EU) 2015/758 des Europäischen Parlaments und des Rates hinsichtlich der Privatsphäre und des Datenschutzes für die Benutzer solcher Systeme, Fassung gemäss ABl. L 12 vom 17.1.2017, S. 26.</td></tr>
-<tr><td>Verordnung (EU) 2017/1151</td><td colspan="3">Verordnung (EU) 2017/1151 der Kommission vom 1. Juni 2017 zur Ergänzung der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates, der Verordnung (EG) Nr. 692/2008 der Kommission sowie der Verordnung (EU) Nr. 1230/2012 der Kommission und zur Aufhebung der Verordnung (EG) Nr. 692/2008 der Kommission, ABl. L 175 vom 7.7.2017, S. 1; zuletzt geändert durch Verordnung (EU) 2017/1347, ABl. L 192 vom 24.7.2017, S. 1.</td></tr>
+<tr><td>Verordnung (EU) 2017/1151</td><td colspan="3">Verordnung (EU) 2017/1151 der Kommission vom 1. Juni 2017 zur Ergänzung der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates, der Verordnung (EG) Nr. 692/2008 der Kommission sowie der Verordnung (EU) Nr. 1230/2012 der Kommission und zur Aufhebung der Verordnung (EG) Nr. 692/2008 der Kommission, ABl. L 175 vom 7.7.2017, S. 1; zuletzt geändert durch Verordnung (EU) 2020/49, ABl. L 17 vom 22.1.2020, S. 1.</td></tr>
 <tr><td>Verordnung (EU) 2017/1347</td><td colspan="2">Verordnung (EU) 2017/1347 der Kommission vom 13. Juli 2017 zur Berichtigung der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates, der Verordnung (EU) Nr. 582/2011 der Kommission und der Verordnung (EU) 2017/1151 der Kommission zur Ergänzung der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge, zur Änderung der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates, der Verordnung (EG) Nr. 692/2008 der Kommission sowie der Verordnung (EU) Nr. 1230/2012 der Kommission und zur Aufhebung der Verordnung (EG) Nr. 692/2008, Fassung gemäss ABl. L 192 vom 24.7.2017, S. 1.</td></tr>
-<tr><td>Verordnung (EU) 2017/2400</td><td colspan="3">Verordnung (EU) 2017/2400 der Kommission vom 12. Dezember 2017 zur Durchführung der Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates hinsichtlich der Bestimmung der CO<sub>2</sub>-Emissionen und des Kraftstoffverbrauchs von schweren Nutzfahrzeugen sowie zur Änderung der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates sowie der Verordnung (EU) Nr. 582/2011 der Kommission, Fassung gemäss ABl. L 349 vom 29.12.2017, S. 1.</td></tr>
-<tr><td>Verordnung (EU) 2018/985</td><td colspan="2">Delegierte Verordnung (EU) 2018/985 der Kommission vom 12. Februar 2018 zur Ergänzung der Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates in Bezug auf die Anforderungen an die Umweltverträglichkeit und die Leistung der Antriebseinheit land- und forstwirtschaftlicher Fahrzeuge und ihrer Motoren und zur Aufhebung der Delegierten Verordnung (EU) 2015/96 der Kommission, Fassung gemäss ABl. L 182 vom 18.7.2018, S. 1.</td></tr>
+<tr><td>Verordnung (EU) 2017/2400</td><td colspan="3">Verordnung (EU) 2017/2400 der Kommission vom 12. Dezember 2017 zur Durchführung der Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates hinsichtlich der Bestimmung der CO2-Emissionen und des Kraftstoffverbrauchs von schweren Nutzfahrzeugen sowie zur Änderung der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates sowie der Verordnung (EU) Nr. 582/2011 der Kommission, ABl. L 349 vom 29.12.2017, S. 1; zuletzt geändert durch Verordnung (EU) 2020/1181, ABl. L 263 vom 12.8.2020, S. 1.</td></tr>
+<tr><td>Verordnung (EU) 2018/985</td><td colspan="3">Delegierte Verordnung (EU) 2018/985 der Kommission vom 12. Februar 2018 zur Ergänzung der Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates in Bezug auf die Anforderungen an die Umweltverträglichkeit und die Leistung der Antriebseinheit land- und forstwirtschaftlicher Fahrzeuge und ihrer Motoren und zur Aufhebung der Delegierten Verordnung (EU) 2015/96 der Kommission, ABl. L 182 vom 18.7.2018, S. 1; geändert durch Verordnung (EU) 2020/1564, ABl. L 358 vom 28.10.2020, S. 1.</td></tr>
+<tr><td>Verordnung (EU) 2019/2144</td><td colspan="3">Verordnung (EU) 2019/2144 des Europäischen Parlaments und des Rates vom 27. November 2019 über die Typgenehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge im Hinblick auf ihre allgemeine Sicherheit und den Schutz der Fahrzeuginsassen und von ungeschützten Verkehrsteilnehmern, zur Änderung der Verordnung (EU) 2018/858 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 78/2009, (EG) Nr. 79/2009 und (EG) Nr. 661/2009 des Europäischen Parlaments und des Rates sowie der Verordnungen (EG) Nr. 631/2009, (EU) Nr. 406/2010, (EU) Nr. 672/2010, (EU) Nr. 1003/2010, (EU) Nr. 1005/2010, (EU) Nr. 1008/2010, (EU) Nr. 1009/2010, (EU) Nr. 19/2011, (EU) Nr. 109/2011, (EU) Nr. 458/2011, (EU) Nr. 65/2012, (EU) Nr. 130/2012, (EU) Nr. 347/2012, (EU) Nr. 351/2012, (EU) Nr. 1230/2012 und (EU) 2015/166 der Kommission, ABl. L 325 vom 16.12.2019, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2021/1341, ABl. L 292 vom 16.8.2021, S. 4.</td></tr>
+<tr><td>Verordnung (EU) 2021/535</td><td colspan="3">Durchführungsverordnung (EU) 2021/535 der Kommission vom 31. März 2021 mit Durchführungsbestimmungen zur Verordnung (EU) 2019/2144 des Europäischen Parlaments und des Rates hinsichtlich einheitlicher Verfahren und technischer Spezifikationen für die Typgenehmigung von Fahrzeugen sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge im Hinblick auf ihre allgemeinen Baumerkmale und ihre Sicherheit, Fassung gemäss ABl. L 117 vom 6.4.2021, S. 1.</td></tr>
+<tr><td>Verordnung (EU) 2021/646</td><td colspan="2">Durchführungsverordnung (EU) 2021/646 der Kommission vom 19. April 2021 mit Durchführungsbestimmungen zur Verordnung (EU) 2019/2144 des Europäischen Parlaments und des Rates in Bezug auf einheitliche Verfahren und technische Spezifikationen für die Typgenehmigung von Kraftfahrzeugen hinsichtlich ihrer Notfall-Spurhalteassistenten, Fassung gemäss ABl. L 133 vom 20.4.2021, S. 31.</td></tr>
 </table>
 
 ### 113 EU-Recht ausserhalb der Gesamtgenehmigungserlasse
@@ -5664,11 +5686,12 @@ Anhang 2*[^t-1]*
 <tr><td>Richtlinie 2009/105/EG</td><td colspan="2">Richtlinie 2009/105/EG des Europäischen Parlaments und des Rates vom 16. September 2009 über einfache Druckbehälter, Fassung gemäss ABl. L 264 vom 8.10.2009, S. 12.</td></tr>
 <tr><td>Verordnung (EG) Nr. 1222/2009</td><td colspan="2">Verordnung (EG) Nr. 1222/2009 des Europäischen Parlaments und des Rates vom 25. November 2009 über die Kennzeichnung von Reifen in Bezug auf die Kraftstoffeffizienz und andere wesentliche Parameter, ABl. L 342 vom 22.12.2009, S. 46; zuletzt geändert durch Verordnung (EU) Nr. 1235/2011, ABl. L 317 vom 30.11.2011, S. 17.</td></tr>
 <tr><td>Richtlinie 2014/29/EU</td><td colspan="2">Richtlinie 2014/29/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die Bereitstellung einfacher Druckbehälter auf dem Markt und zur Aufhebung der Richtlinie 2009/105/EG, ABl. L 96 vom 29.3.2014, S. 45.</td></tr>
-<tr><td>Richtlinie 2014/30/EU</td><td colspan="2">Richtlinie 2014/30/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die elektromagnetische Verträglichkeit und zur Aufhebung der Richtlinie 2004/108/EG, ABl. L 96 vom 29.3.2014, S. 79.</td></tr>
-<tr><td>Verordnung (EU) 2016/1628</td><td colspan="2">Verordnung (EU) 2016/1628 des Europäischen Parlaments und des Rates vom 14. September 2016 über die Anforderungen im Bezug auf die Emissionsgrenzwerte für gasförmige Schadstoffe und luftverunreinigende Partikel und die Typengenehmigung für Verbrennungsmotoren für nicht für den Strassenverkehr bestimmte mobile Maschinen und Geräte, zur Änderung der Verordnung (EU) Nr. 1024/2012 und (EU) Nr. 167/2013 und zur Änderung und Aufhebung der Richtlinie 97/68/EG, ABl. L 252 vom 16.9.2016, S. 53; geändert durch Verordnung (EU) 2017/656, ABl. L 102 vom 13.4.2017, S. 364.</td></tr>
-<tr><td>Verordnung (EU) 2017/654</td><td>Delegierte Verordnung (EU) 2017/654 der Kommission vom 19. Dezember 2016 zur Ergänzung der Verordnung (EU) 2016/1628 des Europäischen Parlaments und des Rates hinsichtlich technischer und allgemeiner Anforderungen in Bezug auf die Emissionsgrenzwerte und die Typgenehmigung von Verbrennungsmotoren für nicht für den Strassenverkehr bestimmte mobile Maschinen und Geräte, ABl. L 102 vom 13.4.2017, S. 1; geändert durch Verordnung (EU) 2018/989, ABl. L 182 vom 18.7.2018, S. 61.</td></tr>
+<tr><td>Richtlinie 2014/30/EU</td><td colspan="2">Richtlinie 2014/30/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die elektromagnetische Verträglichkeit, ABl. L 96 vom 29.3.2014, S. 79; zuletzt geändert durch Durchführungsbeschluss (EU) 2019/1326, ABl. L 206 vom 6.8.2019, S. 27.</td></tr>
+<tr><td>Verordnung (EU) 2016/1628</td><td colspan="2">Verordnung (EU) 2016/1628 des Europäischen Parlaments und des Rates vom 14. September 2016 über die Anforderungen in Bezug auf die Emissionsgrenzwerte für gasförmige Schadstoffe und luftverunreinigende Partikel und die Typgenehmigung für Verbrennungsmotoren für nicht für den Strassenverkehr bestimmte mobile Maschinen und Geräte, zur Änderung der Verordnung (EU) Nr. 1024/2012 und (EU) Nr. 167/2013 und zur Änderung und Aufhebung der Richtlinie 97/68/EG, ABl. L 252 vom 16.9.2016, S. 53; zuletzt geändert durch Verordnung (EU) 2021/1068, ABl. L 230 vom 30.6.2021, S. 1.</td></tr>
+<tr><td>Verordnung (EU) 2017/654</td><td>Delegierte Verordnung (EU) 2017/654 der Kommission vom 19. Dezember 2016 zur Ergänzung der Verordnung (EU) 2016/1628 des Europäischen Parlaments und des Rates hinsichtlich technischer und allgemeiner Anforderungen in Bezug auf die Emissionsgrenzwerte und die Typgenehmigung von Verbrennungsmotoren für nicht für den Strassenverkehr bestimmte mobile Maschinen und Geräte, ABl. L 102 vom 13.4.2017, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2021/1398, ABl. L 299 vom 24.8.2021, S. 1.</td></tr>
 <tr><td>Verordnung (EU) 2017/655</td><td colspan="2">Delegierte Verordnung (EU) 2017/655 der Kommission vom 19. Dezember 2016 zur Ergänzung der Verordnung (EU) 2016/1628 des Europäischen Parlaments und des Rates im Hinblick auf die Überwachung der Emissionen gasförmiger Schadstoffe von in Betrieb befindlichen Verbrennungsmotoren in nicht für den Strassenverkehr bestimmten mobilen Maschinen und Geräten, ABl. L 102 vom 13.4.2017, S. 334; geändert durch Verordnung (EU) 2018/987, ABl. L 182 vom 18.7.2018, S. 40.</td></tr>
 <tr><td>Verordnung (EU) 2017/656</td><td colspan="2">Durchführungsverordnung (EU) 2017/656 der Kommission vom 19. Dezember 2016 zur Festlegung der verwaltungstechnischen Anforderungen für die Emissionsgrenzwerte und die Typgenehmigung von Verbrennungsmotoren für nicht für den Strassenverkehr bestimmte mobile Maschinen und Geräte gemäss der Verordnung (EU) 2016/1628 des Europäischen Parlaments und des Rates, ABl. L 102 vom 13.4.2017, S. 364; geändert durch Verordnung (EU) 2018/988, ABl. L 182 vom 18.7.2018, S. 46.</td></tr>
+<tr><td>Verordnung (EU) 2020/740</td><td colspan="2">Verordnung (EU) 2020/740 des Europäischen Parlaments und des Rates vom 25. Mai 2020 über die Kennzeichnung von Reifen in Bezug auf die Kraftstoffeffizienz und andere Parameter, zur Änderung der Verordnung (EU) 2017/1369 und zur Aufhebung der Verordnung (EG) Nr. 1222/2009, Fassung gemäss ABl. L 177 vom 5.6.2020, S. 1.</td></tr>
 </table>
 
 ### 114 EU-Recht betreffend das Kontrollgerät im Strassenverkehr
@@ -5679,9 +5702,9 @@ Anhang 2*[^t-1]*
 <tr><td>Entscheidung 93/172/EWG</td><td>Entscheidung 93/172/EWG der Kommission vom 22. Februar 1993 zur Festlegung des in Artikel 6 der Richtlinie 88/599/EWG des Rates auf dem Gebiet des Strassenverkehrs vorgesehenen Einheitsformulars, Fassung gemäss ABl. L 72 vom 25.3.1993, S. 30.</td></tr>
 <tr><td>Entscheidung 93/173/EWG</td><td>Entscheidung 93/173/EWG der Kommission vom 22. Februar 1993 zur Festlegung des in Artikel 16 der Verordnung (EWG) Nr. 3820/85 des Rates über die Harmonisierung bestimmter Sozialvorschriften im Strassenverkehr vorgesehenen Berichtsmusters, Fassung gemäss ABl. L 72 vom 25.3.1993, S. 33.</td></tr>
 <tr><td>Richtlinie 2006/22/EG</td><td>Richtlinie 2006/22/EG des Europäischen Parlaments und des Rates vom 15. März 2006 über Mindestbedingungen für die Durchführung der Verordnungen (EWG) Nr. 3820/85 und (EWG) Nr. 3821/85 des Rates über Sozialvorschriften für Tätigkeiten im Kraftverkehr sowie zur Aufhebung der Richtlinie 88/599/EWG des Rates, ABl. L 102 vom 11.4.2006, S. 35; geändert durch Richtlinie 2009/4/EG, ABl. L 21 vom 24.1.2009, S. 39.</td></tr>
-<tr><td>Verordnung (EG) Nr. 561/2006</td><td>Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates vom 15. März 2006 zur Harmonisierung bestimmter Sozialvorschriften im Strassenverkehr und zur Änderung der Verordnungen (EWG) Nr. 3821/85 und (EG) Nr. 2135/98 des Rates sowie zur Aufhebung der Verordnung (EWG) Nr. 3820/85 des Rates, ABl. L 102 vom 11.4.2006, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 165/2014, ABl. L 60 vom 28.2.2014, S. 1.</td></tr>
-<tr><td>Verordnung (EU) Nr. 165/2014</td><td>Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Fahrtenschreiber im Strassenverkehr, zur Aufhebung der Verordnung (EWG) Nr. 3821/85 des Rates über das Kontrollgerät im Strassenverkehr und zur Änderung der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates zur Harmonisierung bestimmter Sozialvorschriften im Strassenverkehr, ABl. L 60 vom 28.2.2014, S. 1.</td></tr>
-<tr><td>Verordnung (EU) 2016/799</td><td>Durchführungsverordnung (EU) 2016/799 der Kommission vom 18. März 2016 zur Durchführung der Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates zur Festlegung der Vorschriften über Bauart, Prüfung, Einbau, Betrieb und Reparatur von Fahrtenschreibern und ihren Komponenten, ABl. L 139 vom 26.5.2016, S. 1; geändert durch Durchführungsverordnung (EU) 2018/502, ABl. L 85 vom 28.3.2018, S. 1.</td></tr>
+<tr><td>Verordnung (EG) Nr. 561/2006</td><td>Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates vom 15. März 2006 zur Harmonisierung bestimmter Sozialvorschriften im Strassenverkehr und zur Änderung der Verordnungen (EWG) Nr. 3821/85 und (EG) Nr. 2135/98 des Rates sowie zur Aufhebung der Verordnung (EWG) Nr. 3820/85 des Rates, ABl. L 102 vom 11.4.2006, S. 1; zuletzt geändert durch Verordnung (EU) 2020/1054, ABl. L 249 vom 31.7.2020, S. 1.</td></tr>
+<tr><td>Verordnung (EU) Nr. 165/2014</td><td>Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Fahrtenschreiber im Strassenverkehr, zur Aufhebung der Verordnung (EWG) Nr. 3821/85 des Rates über das Kontrollgerät im Strassenverkehr und zur Änderung der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates zur Harmonisierung bestimmter Sozialvorschriften im Strassenverkehr, ABl. L 60 vom 28.2.2014, S. 1; geändert durch Verordnung (EU) 2020/1054, ABl. L 249 vom 31.7.2020, S. 1. Ausgenommen sind die Bestimmungen über den Datenschutz und die Zeitpunkte der Ausrüstungspflichten, namentlich die Artikel 1 Absatz 1 Unterabsatz 1, 3 Absätze 4 und 4a, 7, 8 Absatz 1 Unterabsätze 3 und 4, 9 Absatz 4 letztes Lemma, 11 Absätze 2 und 3, 22 Absatz 5 ab Unterabsatz 3 zweiter Satz sowie 26 Absatz 7a.</td></tr>
+<tr><td>Verordnung (EU) 2016/799</td><td>Durchführungsverordnung (EU) 2016/799 der Kommission vom 18. März 2016 zur Durchführung der Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates zur Festlegung der Vorschriften über Bauart, Prüfung, Einbau, Betrieb und Reparatur von Fahrtenschreibern und ihren Komponenten, ABl. L 139 vom 26.5.2016, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2021/1228, ABl. L 273 vom 30.7.2021, S. 1.</td></tr>
 <tr><td>Verordnung (EU) 2017/548</td><td>Durchführungsverordnung (EU) 2017/548 der Kommission vom 23. März 2017 zur Festlegung eines Musterformulars für die schriftliche Erklärung zu Entfernung oder Aufbrechen der Plombierung eines Fahrtenschreibers, Fassung gemäss ABl. L 79 vom 24.3.2017, S. 1.</td></tr>
 </table>
 
@@ -5689,163 +5712,180 @@ Anhang 2*[^t-1]*
 
 <table>
 <tr><th>UNECE-Reglement</th><th colspan="2">Titel des Reglements mit Ergänzungen</th></tr>
-<tr><td>UNECE-Reglement Nr. 0</td><td>UNECE-Reglement Nr. 0 vom 19. Juli 2018 über einheitliche Vorschriften hinsichtlich die Internationale Gesamtfahrzeug-Typengenehmigung (Add.0).</td></tr>
-<tr><td>UNECE-Reglement Nr. 1[^annex2-lvlu1-lvl1-lvl12-1]</td><td colspan="2">UNECE-Reglement Nr. 1 vom 8. August 1960 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugscheinwerfern für asymmetrisches Abblendlicht und/oder Fernlicht, die mit Glühlampen der Kategorie R2 und/oder HS1 ausgerüstet sind; zuletzt geändert durch Änderungsserie 02, in Kraft seit 8. September 2001 (Add.1 Rev.4 Änd.5).</td></tr>
-<tr><td>UNECE-Reglement Nr. 3[^annex2-lvlu1-lvl1-lvl12-2]</td><td colspan="2">UNECE-Reglement Nr. 3 vom 1. November 1963 über einheitliche Vorschriften für die Genehmigung der Rückstrahler für Motorfahrzeuge und ihre Anhänger; zuletzt geändert durch Änderungsserie 02 Ergänzung 17, in Kraft seit 10. Oktober 2017 (Add.2 Rev.4 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 4[^annex2-lvlu1-lvl1-lvl12-3]</td><td colspan="2">UNECE-Reglement Nr. 4 vom 15. April 1964 über einheitliche Vorschriften für die Genehmigung der Beleuchtungseinrichtungen für das hintere Kennzeichenschild von Motorfahrzeugen und ihren Anhängern; zuletzt geändert durch Ergänzung 19, in Kraft seit 10. Februar 2018 (Add.3 Rev.3 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 5[^annex2-lvlu1-lvl1-lvl12-4]</td><td colspan="2">UNECE-Reglement Nr. 5 vom 30. September 1967 über einheitliche Vorschriften für die Genehmigung der Motorfahrzeug-«Sealed-Beam»-Scheinwerfer (SB-Scheinwerfer) für europäisches asymmetrisches Abblendlicht oder Fernlicht oder für beides; zuletzt geändert durch Änderungsserie 03, in Kraft seit 10. Juni 2014 (Add.4 Rev.5).</td></tr>
-<tr><td>UNECE-Reglement Nr. 6[^annex2-lvlu1-lvl1-lvl12-5]</td><td colspan="2">UNECE-Reglement Nr. 6 vom 15. Oktober 1967 über einheitliche Vorschriften für die Genehmigung der Richtungsblinker für Motorfahrzeuge und ihre Anhänger; zuletzt geändert durch Änderungsserie 01 Ergänzung 28, in Kraft seit 10. Februar 2018 (Add.5 Rev.6 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 7[^annex2-lvlu1-lvl1-lvl12-6]</td><td colspan="2">UNECE-Reglement Nr. 7 vom 15. Oktober 1967 über einheitliche Vorschriften für die Genehmigung von Begrenzungsleuchten, Schlussleuchten, Bremsleuchten und Umrissleuchten für Motorfahrzeuge (ausgenommen Motorräder) und ihre Anhänger; zuletzt geändert durch Änderungsserie 02 Ergänzung 27, in Kraft seit 10. Februar 2018 (Add.6 Rev.6 Änd.7).</td></tr>
-<tr><td>UNECE-Reglement Nr. 8[^annex2-lvlu1-lvl1-lvl12-7]</td><td colspan="2">UNECE-Reglement Nr. 8 vom 15. November 1967 über einheitliche Vorschriften für die Genehmigung der Motorfahrzeugscheinwerfer mit Halogenlampen (H1-, H2-, H3-, HB3-, HB4-, H7-, H8-, H9-, HIR1-, HIR2- und/oder H11-Glühlampen) für asymmetrisches Abblendlicht oder für Fernlicht oder für beides; zuletzt geändert durch Revision 4 Korrigendum 1, in Kraft seit 12. März 2003 (Add.7 Rev.4 Korr.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 10[^annex2-lvlu1-lvl1-lvl12-8]</td><td colspan="2">UNECE-Reglement Nr. 10 vom 1. April 1969 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich der elektromagnetischen Verträglichkeit; zuletzt geändert durch Änderungsserie 05 Ergänzung 1, in Kraft seit 8. Oktober 2016 (Add.9 Rev.5 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 11</td><td colspan="2">UNECE-Reglement Nr. 11 vom 1. Juni 1969 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen hinsichtlich der Türschlösser und Türaufhängungen; zuletzt geändert durch Änderungsserie 04, Ergänzung 1, in Kraft seit 9. Februar 2017 (Add.10 Rev.3 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 12[^annex2-lvlu1-lvl1-lvl12-9]</td><td colspan="2">UNECE-Reglement Nr. 12 vom 1. Juli 1969 über einheitliche Vorschriften für die Genehmigung der Motorfahrzeuge hinsichtlich des Schutzes des Fahrzeugführers vor der Lenkanlage bei Unfallstössen; zuletzt geändert durch Änderungsserie 04 Ergänzung 5, in Kraft seit 19. Juli 2018 (Add.11 Rev.4 Änd.4).</td></tr>
-<tr><td>UNECE-Reglement Nr. 13[^annex2-lvlu1-lvl1-lvl12-10]</td><td colspan="2">UNECE-Reglement Nr. 13 vom 1. Juni 1970 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge der Klassen M, N und O hinsichtlich der Bremsen; zuletzt geändert durch Änderungsserie 11 Ergänzung 14, in Kraft seit 9. Februar 2017 (Add.12 Rev.8 Änd.4).</td></tr>
-<tr><td>UNECE-Reglement Nr. 13-H[^annex2-lvlu1-lvl1-lvl12-11]</td><td colspan="2">UNECE-Reglement Nr. 13-H vom 11. Mai 1998 über einheitliche Vorschriften für die Genehmigung der Personenwagen hinsichtlich der Bremsen; zuletzt geändert durch Änderungsserie 01, in Kraft seit 9. Februar 2017 (Add.12H Rev.3 Änd.2).</td></tr>
-<tr><td>UNECE-Reglement Nr. 14[^annex2-lvlu1-lvl1-lvl12-12]</td><td colspan="2">UNECE-Reglement Nr. 14 vom 1. April 1970 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich der Sicherheitsgurtverankerungen, der ISOFIX-Verankerungen, der Verankerungen für den oberen ISOFIX-Haltegurt und der i-Size-Sitzpositionen; zuletzt geändert durch Änderungsserie 08, in Kraft seit 19. Juli 2018 (Add.13 Rev.5 Änd.6).</td></tr>
-<tr><td>UNECE-Reglement Nr. 16[^annex2-lvlu1-lvl1-lvl12-13]</td><td colspan="2">UNECE-Reglement Nr. 16 vom 1. Dezember 1970 über einheitliche Vorschriften für die Genehmigung der: I Sicherheitsgurte, Rückhaltesysteme, Kinder-Rückhaltesysteme und ISOFIX-Kinder-Rückhaltesysteme für Personen in Motorfahrzeugen; II Fahrzeuge mit Sicherheitsgurten, Gurtwarnleuchten, Rückhaltesysteme, Kinder-Rückhaltesysteme, ISOFIX-Kinder-Rückhaltesysteme und i-Size-Kinder-Rückhaltesysteme; zuletzt geändert durch Änderungsserie 07 Ergänzung 2, in Kraft seit 19. Juli 2018 (Add.15 Rev.9 Änd.2).</td></tr>
-<tr><td>UNECE-Reglement Nr. 17[^annex2-lvlu1-lvl1-lvl12-14]</td><td colspan="2">UNECE-Reglement Nr. 17 vom 1. Dezember 1970 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen hinsichtlich der Widerstandsfähigkeit der Sitze und ihrer Verankerungen sowie der Eigenschaften der für diese Sitze vorgesehenen Kopfstützen; zuletzt geändert durch Änderungsserie 08 Ergänzung 4, in Kraft seit 19. Juli 2018 (Add.16 Rev.5 Änd.2).</td></tr>
-<tr><td>UNECE-Reglement Nr. 18</td><td colspan="2">UNECE-Reglement Nr. 18 vom 1. März 1971 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen hinsichtlich ihrer Sicherheit gegen unbefugte Benützung; zuletzt geändert durch Änderungsserie 03 Ergänzung 3, in Kraft seit 9. Oktober 2014 (Add.17 Rev.3 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 19[^annex2-lvlu1-lvl1-lvl12-15]</td><td colspan="2">UNECE-Reglement Nr. 19 vom 1. März 1971 über einheitliche Vorschriften für die Genehmigung der Nebelscheinwerfer für Motorfahrzeuge; zuletzt geändert durch Änderungsserie 04 Ergänzung 10, in Kraft seit 10. Februar 2018 (Add.18 Rev.7 Änd.5).</td></tr>
-<tr><td>UNECE-Reglement Nr. 20[^annex2-lvlu1-lvl1-lvl12-16]</td><td colspan="2">UNECE-Reglement Nr. 20 vom 1. Mai 1971 über einheitliche Vorschriften für die Genehmigung der Motorfahrzeugscheinwerfer mit Halogenglühlampen (H4-Glühlampen) für asymmetrisches Abblendlicht oder Fernlicht oder für beides; zuletzt geändert durch Änderungsserie 03, in Kraft seit 9. September 2001 (Add.19 Rev.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 21[^annex2-lvlu1-lvl1-lvl12-17]</td><td colspan="2">UNECE-Reglement Nr. 21 vom 1. Dezember 1971 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich ihrer Innenausstattung; zuletzt geändert durch Änderungsserie 01 Ergänzung 3, in Kraft seit 31. Januar 2003 (Add.20 Rev.2 Änd.2).</td></tr>
-<tr><td>UNECE-Reglement Nr. 22[^annex2-lvlu1-lvl1-lvl12-18]</td><td colspan="2">UNECE-Reglement Nr. 22 vom 1. Juni 1972 über einheitliche Vorschriften für die Genehmigung der Schutzhelme und ihrer Visiere für Fahrer und Mitfahrer von Motorrädern und Motorfahrrädern; zuletzt geändert durch Änderungsserie 05 Ergänzung 2, in Kraft seit 26. Juli 2012 (Add.21 Rev.4 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 23[^annex2-lvlu1-lvl1-lvl12-19]</td><td colspan="2">UNECE-Reglement Nr. 23 vom 1. Dezember 1971 über einheitliche Vorschriften für die Genehmigung der Rückfahrscheinwerfer und der Manövrierlampen für Motorfahrzeuge und ihre Anhänger; zuletzt geändert durch Ergänzung 22, in Kraft seit 10. Februar 2018 (Add.22 Rev.4 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 24[^annex2-lvlu1-lvl1-lvl12-20]</td><td colspan="2">UNECE-Reglement Nr. 24 vom 1. Dezember 1971 über einheitliche Vorschriften für: I die Genehmigung der Motoren mit Kompressionszündung (Dieselmotoren) hinsichtlich der Emission sichtbarer luftverunreinigender Stoffe; II die Genehmigung der Motorfahrzeuge hinsichtlich des Einbaus eines Motors mit Kompressionszündung (Dieselmotor) eines genehmigten Typs; III die Genehmigung der mit einem Motor mit Kompressionszündung (Dieselmotor) ausgerüsteten Motorfahrzeuge hinsichtlich der Emission sichtbarer luftverunreinigender Stoffe aus dem Motor; IV die Messung der Leistung von Motoren mit Kompressionszündung (Dieselmotoren); zuletzt geändert durch Änderungsserie 03 Ergänzung 3, in Kraft seit 2. Februar 2007 (Add.23 Rev.2 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 25[^annex2-lvlu1-lvl1-lvl12-21]</td><td colspan="2">UNECE-Reglement Nr. 25 vom 1. März 1972 über einheitliche Vorschriften für die Genehmigung von in Fahrzeugsitzen einbezogenen und von nicht einbezogenen Kopfstützen; zuletzt geändert durch Revision 1 Korrigendum 2, in Kraft seit 12. November 2008 (Add.24 Rev.1 Korr.2).</td></tr>
-<tr><td>UNECE-Reglement Nr. 26</td><td colspan="2">UNECE-Reglement Nr. 26 vom 1. Juli 1972 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich ihrer vorstehenden Aussenkanten; zuletzt geändert durch Änderungsserie 03 Ergänzung 3, in Kraft seit 18. Juni 2016 (Add.25 Rev.1 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 27[^annex2-lvlu1-lvl1-lvl12-22]</td><td colspan="2">UNECE-Reglement Nr. 27 vom 15. September 1972 über einheitliche Vorschriften für die Genehmigung der Warndreiecke; zuletzt geändert durch Änderungsserie 04, Ergänzung 1, in Kraft seit 10. Oktober 2017 (Add.26 Rev.2 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 28[^annex2-lvlu1-lvl1-lvl12-23]</td><td colspan="2">UNECE-Reglement Nr. 28 vom 15. Januar 1973 über einheitliche Vorschriften für die Genehmigung der akustischen Warnvorrichtungen und der Motorfahrzeuge hinsichtlich ihrer akustischen Warnsignale; zuletzt geändert durch Ergänzung 5, in Kraft seit 10. Oktober 2017 (Add.27 Änd.5).</td></tr>
-<tr><td>UNECE-Reglement Nr. 29[^annex2-lvlu1-lvl1-lvl12-24]</td><td colspan="2">UNECE-Reglement Nr. 29 vom 15. Juni 1974 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich des Schutzes der Insassen der Führerkabine von Nutzfahrzeugen; zuletzt geändert durch Änderungsserie 03 Ergänzung 3, in Kraft seit 20. Januar 2016 (Add.28 Rev.2 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 30[^annex2-lvlu1-lvl1-lvl12-25]</td><td colspan="2">UNECE-Reglement Nr. 30 vom 1. April 1974 über einheitliche Vorschriften für die Genehmigung der Luftreifen für Motorfahrzeuge und ihre Anhänger; zuletzt geändert durch Änderungsserie 02 Ergänzung 19, in Kraft seit 10. Februar 2018 (Add.29 Rev.3 Änd.5).</td></tr>
-<tr><td>UNECE-Reglement Nr. 31[^annex2-lvlu1-lvl1-lvl12-26]</td><td colspan="2">UNECE-Reglement Nr. 31 vom 1. Mai 1975 über einheitliche Vorschriften für die Genehmigung der Sealed-Beam-Scheinwerfer (SB) für Motorfahrzeuge für europäisches asymmetrisches Abblendlicht und/oder Fernlicht; zuletzt geändert durch Änderungsserie 03, in Kraft seit 10. Juni 2014 (Add.30 Rev.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 32[^annex2-lvlu1-lvl1-lvl12-27]</td><td colspan="2">UNECE-Reglement Nr. 32 vom 1. Juli 1975 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich des Verhaltens des Fahrzeugaufbaus bei einem Auffahrunfall; zuletzt geändert durch Revision 1 Korrigendum 1, in Kraft seit 24. Juni 2009 (Add.31 Rev.1 Korr.2).</td></tr>
-<tr><td>UNECE-Reglement Nr. 33[^annex2-lvlu1-lvl1-lvl12-28]</td><td colspan="2">UNECE-Reglement Nr. 33 vom 1. Juli 1975 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich des Verhaltens des angestossenen Fahrzeugaufbaus bei einem Frontalaufprall; zuletzt geändert durch Revision 1 Korrigendum 1, in Kraft seit 24. Juni 2009 (Add.32 Rev.1 Korr.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 34</td><td colspan="2">UNECE-Reglement Nr. 34 vom 1. Juli 1975 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich der Verhütung von Bränden; zuletzt geändert durch Änderungsserie 03 Ergänzung 1, in Kraft seit 8. Oktober 2016 (Add.33 Rev.2 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 35</td><td colspan="2">UNECE-Reglement Nr. 35 vom 10. November 1975 über einheitliche Vorschriften für die Genehmigung der Motorfahrzeuge hinsichtlich der Anordnung der Pedale; zuletzt geändert durch Ergänzung 1, in Kraft seit 10. Oktober 2006 (Add.34 Rev.1 Änd.1).</td></tr>
+<tr><td>UNECE- Reglement Nr. 0[^annex2-lvlu1-lvl1-lvl12-1]</td><td>UNECE-Reglement Nr. 0 vom 19. Juli 2018 über einheitliche Vorschriften hinsichtlich die Internationale Gesamtfahrzeug-Typengenehmigung; geändert durch Änderungsserie 03, in Kraft seit 10. Juni 2021 (Add.0 Rev.3).</td></tr>
+<tr><td>UNECE-Reglement Nr. 1[^annex2-lvlu1-lvl1-lvl12-2]</td><td colspan="2">UNECE-Reglement Nr. 1 vom 8. August 1960 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugscheinwerfern für asymmetrisches Abblendlicht und/oder Fernlicht, die mit Glühlampen der Kategorie R2 und/oder HS1 ausgerüstet sind; zuletzt geändert durch Änderungsserie 02, in Kraft seit 8. September 2001 (Add.1 Rev.4 Änd.5).</td></tr>
+<tr><td>UNECE-Reglement Nr. 3[^annex2-lvlu1-lvl1-lvl12-3]</td><td colspan="2">UNECE-Reglement Nr. 3 vom 1. November 1963 über einheitliche Vorschriften für die Genehmigung der Rückstrahler für Motorfahrzeuge und ihre Anhänger; zuletzt geändert durch Änderungsserie 03, in Kraft seit 15. Oktober 2019 (Add.2 Rev.5).</td></tr>
+<tr><td>UNECE-Reglement Nr. 4[^annex2-lvlu1-lvl1-lvl12-4]</td><td colspan="2">UNECE-Reglement Nr. 4 vom 15. April 1964 über einheitliche Vorschriften für die Genehmigung der Beleuchtungseinrichtungen für das hintere Kennzeichenschild von Motorfahrzeugen und ihren Anhängern; zuletzt geändert durch Änderungsserie 01, in Kraft seit 15. Oktober 2019 (Add.3 Rev.4).</td></tr>
+<tr><td>UNECE-Reglement Nr. 5[^annex2-lvlu1-lvl1-lvl12-5]</td><td colspan="2">UNECE-Reglement Nr. 5 vom 30. September 1967 über einheitliche Vorschriften für die Genehmigung der Motorfahrzeug-«Sealed-Beam»-Scheinwerfer (SB-Scheinwerfer) für europäisches asymmetrisches Abblendlicht oder Fernlicht oder für beides; zuletzt geändert durch Änderungsserie 03, in Kraft seit 10. Juni 2014 (Add.4 Rev.5).</td></tr>
+<tr><td>UNECE-Reglement Nr. 6[^annex2-lvlu1-lvl1-lvl12-6]</td><td colspan="2">UNECE-Reglement Nr. 6 vom 15. Oktober 1967 über einheitliche Vorschriften für die Genehmigung der Richtungsblinker für Motorfahrzeuge und ihre Anhänger; zuletzt geändert durch Änderungsserie 02, in Kraft seit 15. Oktober 2019 (Add.5 Rev.7).</td></tr>
+<tr><td>UNECE-Reglement Nr. 7[^annex2-lvlu1-lvl1-lvl12-7]</td><td colspan="2">UNECE-Reglement Nr. 7 vom 15. Oktober 1967 über einheitliche Vorschriften für die Genehmigung von Begrenzungsleuchten, Schlussleuchten, Bremsleuchten und Umrissleuchten für Motorfahrzeuge (ausgenommen Motorräder) und ihre Anhänger; zuletzt geändert durch Änderungsserie 03, in Kraft seit 15. Oktober 2019 (Add.6 Rev.7).</td></tr>
+<tr><td>UNECE-Reglement Nr. 8[^annex2-lvlu1-lvl1-lvl12-8]</td><td colspan="2">UNECE-Reglement Nr. 8 vom 15. November 1967 über einheitliche Vorschriften für die Genehmigung der Motorfahrzeugscheinwerfer mit Halogenlampen (H1-, H2-, H3-, HB3-, HB4-, H7-, H8-, H9-, HIR1-, HIR2- und/oder H11-Glühlampen) für asymmetrisches Abblendlicht oder für Fernlicht oder für beides; zuletzt geändert durch Revision 4 Korrigendum 1, in Kraft seit 12. März 2003 (Add.7 Rev.4 Korr.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 9</td><td colspan="2">UNECE-Reglement Nr. 9 vom 26. Januar 1994 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen der Klassen L<sub>2</sub>, L<sub>4</sub> und L<sub>5</sub> hinsichtlich ihrer Geräuschentwicklung; geändert durch Änderungsserie 08 Ergänzung 1, in Kraft seit 25. September 2020 (Add.8 Rev.4 Änd.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 10[^annex2-lvlu1-lvl1-lvl12-9]</td><td colspan="2">UNECE-Reglement Nr. 10 vom 1. April 1969 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich der elektromagnetischen Verträglichkeit; zuletzt geändert durch Änderungsserie 06 Ergänzung 1, in Kraft seit 25. September 2020 (Add.9 Rev.6 Änd.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 11</td><td colspan="2">UNECE-Reglement Nr. 11 vom 1. Juni 1969 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen hinsichtlich der Türschlösser und Türaufhängungen; zuletzt geändert durch Änderungsserie 04 Ergänzung 2, in Kraft seit 28. Mai 2019 (Add.10 Rev.3 Änd.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 12[^annex2-lvlu1-lvl1-lvl12-10]</td><td colspan="2">UNECE-Reglement Nr. 12 vom 1. Juli 1969 über einheitliche Vorschriften für die Genehmigung der Motorfahrzeuge hinsichtlich des Schutzes des Fahrzeugführers vor der Lenkanlage bei Unfallstössen; zuletzt geändert durch Änderungsserie 04 Ergänzung 5, in Kraft seit 19. Juli 2018 (Add.11 Rev.4 Änd.4).</td></tr>
+<tr><td>UNECE-Reglement Nr. 13[^annex2-lvlu1-lvl1-lvl12-11]</td><td colspan="2">UNECE-Reglement Nr. 13 vom 1. Juni 1970 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge der Klassen M, N und O hinsichtlich der Bremsen; zuletzt geändert durch Änderungsserie 11 Ergänzung 18, in Kraft seit 30. September 2021 (Add.12 Rev.8 Änd.8).</td></tr>
+<tr><td>UNECE-Reglement Nr. 13-H[^annex2-lvlu1-lvl1-lvl12-12]</td><td colspan="2">UNECE-Reglement Nr. 13-H vom 11. Mai 1998 über einheitliche Vorschriften für die Genehmigung der Personenwagen hinsichtlich der Bremsen; zuletzt geändert durch Änderungsserie 01 Ergänzung 2, in Kraft seit 30. September 2021 (Add.12H Rev.4 Änd.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 14[^annex2-lvlu1-lvl1-lvl12-13]</td><td colspan="2">UNECE-Reglement Nr. 14 vom 1. April 1970 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich der Sicherheitsgurtverankerungen, der ISOFIX-Verankerungen, der Verankerungen für den oberen ISOFIX-Haltegurt und der i-Size-Sitzpositionen; zuletzt geändert durch Änderungsserie 09 Ergänzung 1, in Kraft seit 3. Januar 2021 (Add.13 Rev.7 Änd.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 16[^annex2-lvlu1-lvl1-lvl12-14]</td><td colspan="2">UNECE-Reglement Nr. 16 vom 1. Dezember 1970 über einheitliche Vorschriften für die Genehmigung der: I Sicherheitsgurte, Rückhaltesysteme, Kinder-Rückhaltesysteme und ISOFIX-Kinder-Rückhaltesysteme für Personen in Motorfahrzeugen; II Fahrzeuge mit Sicherheitsgurten, Gurtwarnleuchten, Rückhaltesysteme, Kinder-Rückhaltesysteme, ISOFIX-Kinder-Rückhaltesysteme und i-Size-Kinder-Rückhaltesysteme; zuletzt geändert durch Änderungsserie 08 Ergänzung 2, in Kraft seit 9. Juni 2021 (Add.15 Rev.10 Änd.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 17[^annex2-lvlu1-lvl1-lvl12-15]</td><td colspan="2">UNECE-Reglement Nr. 17 vom 1. Dezember 1970 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen hinsichtlich der Widerstandsfähigkeit der Sitze und ihrer Verankerungen sowie der Eigenschaften der für diese Sitze vorgesehenen Kopfstützen; zuletzt geändert durch Änderungsserie 10, in Kraft seit 9. Juni 2021 (Add.16 Rev.7).</td></tr>
+<tr><td>UNECE-Reglement Nr. 18</td><td colspan="2">UNECE-Reglement Nr. 18 vom 1. März 1971 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen hinsichtlich ihrer Sicherheit gegen unbefugte Benützung; zuletzt geändert durch Änderungsserie 03 Ergänzung 4, in Kraft seit 30. September 2021 (Add.17 Rev.3 Änd.4).</td></tr>
+<tr><td>UNECE-Reglement Nr. 19[^annex2-lvlu1-lvl1-lvl12-16]</td><td colspan="2">UNECE-Reglement Nr. 19 vom 1. März 1971 über einheitliche Vorschriften für die Genehmigung der Nebelscheinwerfer für Motorfahrzeuge; zuletzt geändert durch Änderungsserie 05, in Kraft seit 15. Oktober 2019 (Add.18 Rev.8).</td></tr>
+<tr><td>UNECE-Reglement Nr. 20[^annex2-lvlu1-lvl1-lvl12-17]</td><td colspan="2">UNECE-Reglement Nr. 20 vom 1. Mai 1971 über einheitliche Vorschriften für die Genehmigung der Motorfahrzeugscheinwerfer mit Halogenglühlampen (H4-Glühlampen) für asymmetrisches Abblendlicht oder Fernlicht oder für beides; zuletzt geändert durch Änderungsserie 03, in Kraft seit 9. September 2001 (Add.19 Rev.3).</td></tr>
+<tr><td>UNECE-Reglement Nr. 21[^annex2-lvlu1-lvl1-lvl12-18]</td><td colspan="2">UNECE-Reglement Nr. 21 vom 1. Dezember 1971 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich ihrer Innenausstattung; zuletzt geändert durch Änderungsserie 01 Ergänzung 4, in Kraft seit 29. Mai 2020 (Add.20 Rev.2 Änd.3).</td></tr>
+<tr><td>UNECE-Reglement Nr. 22[^annex2-lvlu1-lvl1-lvl12-19]</td><td colspan="2">UNECE-Reglement Nr. 22 vom 1. Juni 1972 über einheitliche Vorschriften für die Genehmigung der Schutzhelme und ihrer Visiere für Fahrer und Mitfahrer von Motorrädern und Motorfahrrädern; zuletzt geändert durch Änderungsserie 06, in Kraft seit 3. Januar 2021 (Add.21 Rev.5).</td></tr>
+<tr><td>UNECE-Reglement Nr. 23[^annex2-lvlu1-lvl1-lvl12-20]</td><td colspan="2">UNECE-Reglement Nr. 23 vom 1. Dezember 1971 über einheitliche Vorschriften für die Genehmigung der Rückfahrscheinwerfer und der Manövrierlampen für Motorfahrzeuge und ihre Anhänger; zuletzt geändert durch Änderungsserie 01, in Kraft seit 15. Oktober 2019 (Add.22 Rev.5).</td></tr>
+<tr><td>UNECE-Reglement Nr. 24[^annex2-lvlu1-lvl1-lvl12-21]</td><td colspan="2">UNECE-Reglement Nr. 24 vom 1. Dezember 1971 über einheitliche Vorschriften für: I die Genehmigung der Motoren mit Kompressionszündung (Dieselmotoren) hinsichtlich der Emission sichtbarer luftverunreinigender Stoffe; II die Genehmigung der Motorfahrzeuge hinsichtlich des Einbaus eines Motors mit Kompressionszündung (Dieselmotor) eines genehmigten Typs; III die Genehmigung der mit einem Motor mit Kompressionszündung (Dieselmotor) ausgerüsteten Motorfahrzeuge hinsichtlich der Emission sichtbarer luftverunreinigender Stoffe aus dem Motor; IV die Messung der Leistung von Motoren mit Kompressionszündung (Dieselmotoren); zuletzt geändert durch Änderungsserie 03 Ergänzung 5, in Kraft seit 11. Januar 2020 (Add.23 Rev.2 Änd.5).</td></tr>
+<tr><td>UNECE-Reglement Nr. 25[^annex2-lvlu1-lvl1-lvl12-22]</td><td colspan="2">UNECE-Reglement Nr. 25 vom 1. März 1972 über einheitliche Vorschriften für die Genehmigung von in Fahrzeugsitzen einbezogenen und von nicht einbezogenen Kopfstützen; zuletzt geändert durch Änderungsserie 04 Ergänzung 1, in Kraft seit 15. Juni 2015 (Add.24 Rev.1 Änd.3).</td></tr>
+<tr><td>UNECE-Reglement Nr. 26</td><td colspan="2">UNECE-Reglement Nr. 26 vom 1. Juli 1972 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich ihrer vorstehenden Aussenkanten; zuletzt geändert durch Änderungsserie 04, in Kraft seit 25. September 2020 (Add.25 Rev.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 27[^annex2-lvlu1-lvl1-lvl12-23]</td><td colspan="2">UNECE-Reglement Nr. 27 vom 15. September 1972 über einheitliche Vorschriften für die Genehmigung der Warndreiecke; zuletzt geändert durch Änderungsserie 05, in Kraft seit 15. Oktober 2019 (Add.26 Rev.2 Änd.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 28[^annex2-lvlu1-lvl1-lvl12-24]</td><td colspan="2">UNECE-Reglement Nr. 28 vom 15. Januar 1973 über einheitliche Vorschriften für die Genehmigung der akustischen Warnvorrichtungen und der Motorfahrzeuge hinsichtlich ihrer akustischen Warnsignale; zuletzt geändert durch Ergänzung 6, in Kraft seit 25. September 2020 (Add.27 Änd.6).</td></tr>
+<tr><td>UNECE-Reglement Nr. 29[^annex2-lvlu1-lvl1-lvl12-25]</td><td colspan="2">UNECE-Reglement Nr. 29 vom 15. Juni 1974 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich des Schutzes der Insassen der Führerkabine von Nutzfahrzeugen; zuletzt geändert durch Änderungsserie 03 Ergänzung 5, in Kraft seit 29. Mai 2020 (Add.28 Rev.2 Änd.5).</td></tr>
+<tr><td>UNECE-Reglement Nr. 30[^annex2-lvlu1-lvl1-lvl12-26]</td><td colspan="2">UNECE-Reglement Nr. 30 vom 1. April 1974 über einheitliche Vorschriften für die Genehmigung der Luftreifen für Motorfahrzeuge und ihre Anhänger; zuletzt geändert durch Änderungsserie 02 Ergänzung 23, in Kraft seit 30. September 2021 (Add.29 Rev.3 Änd.9).</td></tr>
+<tr><td>UNECE-Reglement Nr. 31[^annex2-lvlu1-lvl1-lvl12-27]</td><td colspan="2">UNECE-Reglement Nr. 31 vom 1. Mai 1975 über einheitliche Vorschriften für die Genehmigung der Sealed-Beam-Scheinwerfer (SB) für Motorfahrzeuge für europäisches asymmetrisches Abblendlicht und/oder Fernlicht; zuletzt geändert durch Änderungsserie 03, in Kraft seit 10. Juni 2014 (Add.30 Rev.3).</td></tr>
+<tr><td>UNECE-Reglement Nr. 32[^annex2-lvlu1-lvl1-lvl12-28]</td><td colspan="2">UNECE-Reglement Nr. 32 vom 1. Juli 1975 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich des Verhaltens des Fahrzeugaufbaus bei einem Auffahrunfall; zuletzt geändert durch Revision 1 Korrigendum 1, in Kraft seit 24. Juni 2009 (Add.31 Rev.1 Korr.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 33[^annex2-lvlu1-lvl1-lvl12-29]</td><td colspan="2">UNECE-Reglement Nr. 33 vom 1. Juli 1975 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich des Verhaltens des angestossenen Fahrzeugaufbaus bei einem Frontalaufprall; zuletzt geändert durch Revision 1 Korrigendum 1, in Kraft seit 24. Juni 2009 (Add.32 Rev.1 Korr.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 34</td><td colspan="2">UNECE-Reglement Nr. 34 vom 1. Juli 1975 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich der Verhütung von Bränden; zuletzt geändert durch Änderungsserie 03 Ergänzung 2, in Kraft seit 28. Mai 2019 (Add.33 Rev.2 Änd.5).</td></tr>
+<tr><td>UNECE-Reglement Nr. 35</td><td colspan="2">UNECE-Reglement Nr. 35 vom 10. November 1975 über einheitliche Vorschriften für die Genehmigung der Motorfahrzeuge hinsichtlich der Anordnung der Pedale; zuletzt geändert durch Änderungsserie 01, in Kraft seit 9. Juni 2021 (Add.34 Rev.2).</td></tr>
 <tr><td>UNECE-Reglement Nr. 36</td><td colspan="2">UNECE-Reglement Nr. 36 vom 1. März 1976 über einheitliche Vorschriften hinsichtlich der Konstruktion von Gesellschaftswagen; zuletzt geändert durch Änderungsserie 03 Ergänzung 12, in Kraft seit 10. November 2007 (Add.35 Rev.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 37[^annex2-lvlu1-lvl1-lvl12-29]</td><td colspan="2">UNECE-Reglement Nr. 37 vom 1. Februar 1978 über einheitliche Vorschriften für die Genehmigung von Glühlampen zur Verwendung in genehmigten Leuchten von Motorfahrzeugen und ihren Anhängern; zuletzt geändert durch Änderungsserie 03 Ergänzung 45, in Kraft seit 22. Juni 2017 (Add.36 Rev.7 Änd.8).</td></tr>
-<tr><td>UNECE-Reglement Nr. 38[^annex2-lvlu1-lvl1-lvl12-30]</td><td colspan="2">UNECE-Reglement Nr. 38 vom 1. August 1978 über einheitliche Vorschriften für die Genehmigung von Nebelschlussleuchten für Motorfahrzeuge und ihre Anhänger; zuletzt geändert durch Ergänzung 19, in Kraft seit 10. Februar 2018 (Add.37 Rev.3 Änd.3).</td></tr>
+<tr><td>UNECE-Reglement Nr. 37[^annex2-lvlu1-lvl1-lvl12-30]</td><td colspan="2">UNECE-Reglement Nr. 37 vom 1. Februar 1978 über einheitliche Vorschriften für die Genehmigung von Glühlampen zur Verwendung in genehmigten Leuchten von Motorfahrzeugen und ihren Anhängern; zuletzt geändert durch Änderungsserie 03 Ergänzung 47, in Kraft seit 28. Mai 2019 (Add.36 Rev.7 Änd.10).</td></tr>
+<tr><td>UNECE-Reglement Nr. 38[^annex2-lvlu1-lvl1-lvl12-31]</td><td colspan="2">UNECE-Reglement Nr. 38 vom 1. August 1978 über einheitliche Vorschriften für die Genehmigung von Nebelschlussleuchten für Motorfahrzeuge und ihre Anhänger; zuletzt geändert durch Änderungsserie 01, in Kraft seit 15. Oktober 2019 (Add.37 Rev.3 Änd.4).</td></tr>
 <tr><td>UNECE-Reglement Nr. 39</td><td colspan="2">UNECE-Reglement Nr. 39 vom 20. November 1978 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich der Geschwindigkeitsmessgeräte und ihres Einbaus; zuletzt geändert durch Änderungsserie 01, Ergänzung 1, in Kraft seit 10. Oktober 2017 (Add.38 Rev.2 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 41</td><td colspan="2">UNECE-Reglement Nr. 41 vom 1. Juni 1980 über einheitliche Vorschriften für die Genehmigung von Motorrädern hinsichtlich ihrer Geräuschentwicklung; zuletzt geändert durch Änderungsserie 04 Ergänzung 5, in Kraft seit 9. Februar 2017 (Add.40 Rev.2 Änd.5).</td></tr>
-<tr><td>UNECE-Reglement Nr. 42</td><td colspan="2">UNECE-Reglement Nr. 42 vom 1. Juni 1980 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen hinsichtlich ihrer vorderen und hinteren Schutzeinrichtungen (Stossstangen usw.); zuletzt geändert durch Ergänzung 1, in Kraft seit 12. Juni 2007 (Add.41 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 43</td><td colspan="2">UNECE-Reglement Nr. 43 vom 15. Februar 1981 über einheitliche Vorschriften für die Genehmigung der Sicherheitsverglasungswerkstoffe und ihres Einbaus in Fahrzeuge; zuletzt geändert durch Änderungsserie 01 Ergänzung 6, in Kraft seit 19. Juli 2018 (Add.42 Rev.4 Änd.2).</td></tr>
-<tr><td>UNECE-Reglement Nr. 44[^annex2-lvlu1-lvl1-lvl12-31]</td><td colspan="2">UNECE-Reglement Nr. 44 vom 1. Februar 1981 über einheitliche Vorschriften für die Genehmigung von Rückhaltesystemen für Kinder in Motorfahrzeugen; geändert durch Änderungsserie 03, in Kraft seit 12. September 1995 (Add.43 Rev.1), einschliesslich sämtlicher folgender Änderungen bis: – Änderungsserie 04 Ergänzung 13, in Kraft seit 19. Juli 2018 (Add.43 Rev.3 Änd.6).</td></tr>
+<tr><td>UNECE-Reglement Nr. 41</td><td colspan="2">UNECE-Reglement Nr. 41 vom 1. Juni 1980 über einheitliche Vorschriften für die Genehmigung von Motorrädern hinsichtlich ihrer Geräuschentwicklung; zuletzt geändert durch Änderungsserie 05, in Kraft seit 30. September 2021 (Add.40 Rev.3).</td></tr>
+<tr><td>UNECE-Reglement Nr. 42</td><td colspan="2">UNECE-Reglement Nr. 42 vom 1. Juni 1980 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen hinsichtlich ihrer vorderen und hinteren Schutzeinrichtungen (Stossstangen usw.); zuletzt geändert durch Ergänzung 2, in Kraft seit 3. Januar 2021 (Add.41 Änd.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 43</td><td colspan="2">UNECE-Reglement Nr. 43 vom 15. Februar 1981 über einheitliche Vorschriften für die Genehmigung der Sicherheitsverglasungswerkstoffe und ihres Einbaus in Fahrzeuge; zuletzt geändert durch Änderungsserie 01 Ergänzung 9, in Kraft seit 29. Mai 2020 (Add.42 Rev.4 Änd.5).</td></tr>
+<tr><td>UNECE-Reglement Nr. 44[^annex2-lvlu1-lvl1-lvl12-32]</td><td colspan="2">UNECE-Reglement Nr. 44 vom 1. Februar 1981 über einheitliche Vorschriften für die Genehmigung von Rückhaltesystemen für Kinder in Motorfahrzeugen; geändert durch Änderungsserie 03, in Kraft seit 12. September 1995 (Add.43 Rev.1), einschliesslich sämtlicher folgender Änderungen bis: – Änderungsserie 04 Ergänzung 18, in Kraft seit 9. Juni 2021 (Add.43 Rev.3 Änd.11).</td></tr>
 <tr><td>UNECE-Reglement Nr. 45</td><td colspan="2">UNECE-Reglement Nr. 45 vom 1. Juli 1981 über einheitliche Vorschriften für die Genehmigung von Scheinwerfer-Reinigungsanlagen und der Motorfahrzeuge mit Scheinwerfer-Reinigungsanlagen; zuletzt geändert durch Änderungsserie 01 Ergänzung 11, in Kraft seit 10. Oktober 2017 (Add.44 Rev.2 Änd.5).</td></tr>
-<tr><td>UNECE-Reglement Nr. 46</td><td colspan="2">UNECE-Reglement Nr. 46 vom 1. September 1981 über einheitliche Vorschriften für die Genehmigung von Einrichtungen für indirekte Sicht und der Motorfahrzeuge hinsichtlich der Anbringung von Einrichtungen für indirekte Sicht; zuletzt geändert durch Änderungsserie 04 Ergänzung 5, in Kraft seit 19. Juli 2018 (Add.45 Rev.6 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 48</td><td colspan="2">UNECE-Reglement Nr. 48 vom 1. Januar 1982 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich des Anbaus der Beleuchtungs- und Lichtsignaleinrichtungen; zuletzt geändert durch Änderungsserie 06 Ergänzung 10, in Kraft seit 19. Juli 2018 (Add.47 Rev.12 Änd.6).</td></tr>
-<tr><td>UNECE-Reglement Nr. 49[^annex2-lvlu1-lvl1-lvl12-32]</td><td colspan="2">UNECE-Reglement Nr. 49 vom 15. April 1982 über einheitliche Vorschriften der zu ergreifenden Massnahmen zur Reduktion der gasförmigen Schadstoffemissionen sowie der Partikelemissionen von Selbstzündungsmotoren zum Antrieb von Fahrzeugen sowie zur Reduktion von gasförmigen Schadstoffemissionen von Fremdzündungsmotoren zum Antrieb von Fahrzeugen, die mit Erdgas oder mit Flüssiggas betrieben werden; zuletzt geändert durch Änderungsserie 06 Ergänzung 5, in Kraft seit 19. Juli 2018 (Add.48 Rev.6 Änd.5).</td></tr>
-<tr><td>UNECE-Reglement Nr. 50[^annex2-lvlu1-lvl1-lvl12-33]</td><td colspan="2">UNECE-Reglement Nr. 50 vom 1. Juni 1982 über einheitliche Vorschriften für die Genehmigung der Standleuchten, Schlussleuchten, Bremsleuchten, Richtungsblinker und Beleuchtungseinrichtungen für das hintere Kontrollschild für Fahrzeuge der Klasse L; zuletzt geändert durch Ergänzung 20, in Kraft seit 10. Februar 2018 (Add.49 Rev.3 Änd.4).</td></tr>
-<tr><td>UNECE-Reglement Nr. 51[^annex2-lvlu1-lvl1-lvl12-34]</td><td colspan="2">UNECE-Reglement Nr. 51 vom 15. Juli 1982 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen mit mindestens vier Rädern hinsichtlich ihrer Geräuschentwicklung; zuletzt geändert durch Änderungsserie 03 Ergänzung 2, in Kraft seit 10. Februar 2018 (Add.50 Rev.3 Änd.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 46</td><td colspan="2">UNECE-Reglement Nr. 46 vom 1. September 1981 über einheitliche Vorschriften für die Genehmigung von Einrichtungen für indirekte Sicht und der Motorfahrzeuge hinsichtlich der Anbringung von Einrichtungen für indirekte Sicht; zuletzt geändert durch Änderungsserie 04 Ergänzung 9, in Kraft seit 30. September 2021 (Add.45 Rev.6 Änd.7).</td></tr>
+<tr><td>UNECE-Reglement Nr. 48</td><td colspan="2">UNECE-Reglement Nr. 48 vom 1. Januar 1982 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich des Anbaus der Beleuchtungs- und Lichtsignaleinrichtungen; zuletzt geändert durch Änderungsserie 07 Ergänzung 1, in Kraft seit 30. September 2021 (Add.47 Rev.13 Änd.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 49[^annex2-lvlu1-lvl1-lvl12-33]</td><td colspan="2">UNECE-Reglement Nr. 49 vom 15. April 1982 über einheitliche Vorschriften der zu ergreifenden Massnahmen zur Reduktion der gasförmigen Schadstoffemissionen sowie der Partikelemissionen von Selbstzündungsmotoren zum Antrieb von Fahrzeugen sowie zur Reduktion von gasförmigen Schadstoffemissionen von Fremdzündungsmotoren zum Antrieb von Fahrzeugen, die mit Erdgas oder mit Flüssiggas betrieben werden; zuletzt geändert durch Änderungsserie 06 Ergänzung 6, in Kraft seit 29. Dezember 2018 (Add.48 Rev.6 Änd.6).</td></tr>
+<tr><td>UNECE-Reglement Nr. 50[^annex2-lvlu1-lvl1-lvl12-34]</td><td colspan="2">UNECE-Reglement Nr. 50 vom 1. Juni 1982 über einheitliche Vorschriften für die Genehmigung der Standleuchten, Schlussleuchten, Bremsleuchten, Richtungsblinker und Beleuchtungseinrichtungen für das hintere Kontrollschild für Fahrzeuge der Klasse L; zuletzt geändert durch Änderungsserie 01, in Kraft seit 15. Oktober 2019 (Add.49 Rev.3 Änd.5).</td></tr>
+<tr><td>UNECE-Reglement Nr. 51[^annex2-lvlu1-lvl1-lvl12-35]</td><td colspan="2">UNECE-Reglement Nr. 51 vom 15. Juli 1982 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen mit mindestens vier Rädern hinsichtlich ihrer Geräuschentwicklung; zuletzt geändert durch Änderungsserie 03 Ergänzung 6, in Kraft seit 25. September 2020 (Add.50 Rev.3 Änd.6).</td></tr>
 <tr><td>UNECE-Reglement Nr. 52</td><td colspan="2">UNECE-Reglement Nr. 52 vom 1. November 1982 hinsichtlich der konstruktiven Merkmale von Kleinbussen und Gesellschaftswagen (M<sub>2</sub>, M<sub>3</sub>) mit geringer Sitzplatzzahl (max. 23 inkl. Führer); zuletzt geändert durch Änderungsserie 01 Ergänzung 9, in Kraft seit 10. November 2007 (Add.51 Rev.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 53</td><td colspan="2">UNECE-Reglement Nr. 53 vom 1. Februar 1983 über einheitliche Vorschriften für die Genehmigung von L<sub>3</sub>-Fahrzeugen (Motorrädern) hinsichtlich des Anbaus der Beleuchtungs- und Lichtsignaleinrichtungen; zuletzt geändert durch Änderungsserie 02, Ergänzung 1, in Kraft seit 22. Juni 2017 (Add.52 Rev.4 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 54[^annex2-lvlu1-lvl1-lvl12-35]</td><td colspan="2">UNECE-Reglement Nr. 54 vom 1. März 1983 über einheitliche Vorschriften für die Genehmigung der Luftreifen für Nutzfahrzeuge und ihre Anhänger; zuletzt geändert durch Ergänzung 22, in Kraft seit 10. Februar 2018 (Add.53 Rev.3 Änd.4).</td></tr>
-<tr><td>UNECE-Reglement Nr. 55[^annex2-lvlu1-lvl1-lvl12-36]</td><td colspan="2">UNECE-Reglement Nr. 55 vom 1. März 1983 über einheitliche Vorschriften für die Genehmigung von mechanischen Verbindungseinrichtungen für Fahrzeugkombinationen; zuletzt geändert durch Änderungsserie 01 Ergänzung 7, in Kraft seit 10. Februar 2018 (Add.54 Rev.2 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 56[^annex2-lvlu1-lvl1-lvl12-37]</td><td colspan="2">UNECE-Reglement Nr. 56 vom 15. Juni 1983 über einheitliche Vorschriften für die Genehmigung der Scheinwerfer für Motorfahrräder und ihnen gleichgestellte Fahrzeuge; zuletzt geändert durch Änderungsserie 01, in Kraft seit 12. September 2001 (Add.55 Rev.1 Änd.2).</td></tr>
-<tr><td>UNECE-Reglement Nr. 57[^annex2-lvlu1-lvl1-lvl12-38]</td><td colspan="2">UNECE-Reglement Nr. 57 vom 15. Juni 1983 über einheitliche Vorschriften für die Genehmigung der Scheinwerfer für Motorräder und ihnen gleichgestellte Fahrzeuge; zuletzt geändert durch Änderungsserie 02, in Kraft seit 12. September 2001 (Add.56 Rev.1 Änd.2).</td></tr>
-<tr><td>UNECE-Reglement Nr. 58[^annex2-lvlu1-lvl1-lvl12-39]</td><td colspan="2">UNECE-Reglement Nr. 58 vom 1. Juli 1983 über einheitliche Vorschriften für die Genehmigung von: I Einrichtungen für den hinteren Unterfahrschutz; II Fahrzeugen hinsichtlich der Anbringung von Einrichtungen eines genehmigten Typs für den hinteren Unterfahrschutz; III Fahrzeugen hinsichtlich ihres hinteren Unterfahrschutzes; zuletzt geändert durch Änderungsserie 03, in Kraft seit 18. Juni 2016 (Add.57 Rev.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 59</td><td colspan="2">UNECE-Reglement Nr. 59 vom 1. Oktober 1983 über einheitliche Vorschriften für die Genehmigung von Austauschschalldämpfern für Fahrzeuge der Klassen M<sub>1</sub> und N<sub>1</sub>; zuletzt geändert durch Änderungsserie 02 Ergänzung 1, in Kraft seit 20. Januar 2016 (Add.58 Rev.2 Änd.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 53</td><td colspan="2">UNECE-Reglement Nr. 53 vom 1. Februar 1983 über einheitliche Vorschriften für die Genehmigung von L3-Fahrzeugen (Motorrädern) hinsichtlich des Anbaus der Beleuchtungs- und Lichtsignaleinrichtungen; zuletzt geändert durch Änderungsserie 03 Ergänzung 1, in Kraft seit 30. September 2021 (Add.52 Rev.5 Änd.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 54[^annex2-lvlu1-lvl1-lvl12-36]</td><td colspan="2">UNECE-Reglement Nr. 54 vom 1. März 1983 über einheitliche Vorschriften für die Genehmigung der Luftreifen für Nutzfahrzeuge und ihre Anhänger; zuletzt geändert durch Ergänzung 24, in Kraft seit 30. September 2021 (Add.53 Rev.3 Änd.6).</td></tr>
+<tr><td>UNECE-Reglement Nr. 55[^annex2-lvlu1-lvl1-lvl12-37]</td><td colspan="2">UNECE-Reglement Nr. 55 vom 1. März 1983 über einheitliche Vorschriften für die Genehmigung von mechanischen Verbindungseinrichtungen für Fahrzeugkombinationen; zuletzt geändert durch Änderungsserie 02 Ergänzung 1, in Kraft seit 9. Juni 2021 (Add.54 Rev.3 Änd.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 56[^annex2-lvlu1-lvl1-lvl12-38]</td><td colspan="2">UNECE-Reglement Nr. 56 vom 15. Juni 1983 über einheitliche Vorschriften für die Genehmigung der Scheinwerfer für Motorfahrräder und ihnen gleichgestellte Fahrzeuge; zuletzt geändert durch Änderungsserie 01, in Kraft seit 12. September 2001 (Add.55 Rev.1 Änd.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 57[^annex2-lvlu1-lvl1-lvl12-39]</td><td colspan="2">UNECE-Reglement Nr. 57 vom 15. Juni 1983 über einheitliche Vorschriften für die Genehmigung der Scheinwerfer für Motorräder und ihnen gleichgestellte Fahrzeuge; zuletzt geändert durch Änderungsserie 02, in Kraft seit 12. September 2001 (Add.56 Rev.1 Änd.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 58[^annex2-lvlu1-lvl1-lvl12-40]</td><td colspan="2">UNECE-Reglement Nr. 58 vom 1. Juli 1983 über einheitliche Vorschriften für die Genehmigung von: I Einrichtungen für den hinteren Unterfahrschutz; II Fahrzeugen hinsichtlich der Anbringung von Einrichtungen eines genehmigten Typs für den hinteren Unterfahrschutz; III Fahrzeugen hinsichtlich ihres hinteren Unterfahrschutzes; zuletzt geändert durch Änderungsserie 03 Ergänzung 2, in Kraft seit 25. September 2020 (Add.57 Rev.3 Änd.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 59</td><td colspan="2">UNECE-Reglement Nr. 59 vom 1. Oktober 1983 über einheitliche Vorschriften für die Genehmigung von Austauschschalldämpfern für Fahrzeuge der Klassen M1 und N1; zuletzt geändert durch Änderungsserie 03, in Kraft seit 25. September 2020 (Add.58 Rev.3).</td></tr>
 <tr><td>UNECE-Reglement Nr. 60</td><td colspan="2">UNECE-Reglement Nr. 60 vom 1. Juli 1984 über einheitliche Vorschriften für die Genehmigung von zweirädrigen Motorfahrrädern und Motorrädern hinsichtlich der vom Fahrzeugführer zu betätigenden Bedienungsteile sowie der Kennzeichnung von Bedienungsteilen, Kontrollleuchten und Anzeigern; zuletzt geändert durch Ergänzung 5, in Kraft seit 9. Februar 2017 (Add.59 Rev.1 Änd. 1).</td></tr>
 <tr><td>UNECE-Reglement Nr. 61</td><td colspan="2">UNECE-Reglement Nr. 61 vom 15. Juli 1984 für die Genehmigung der Nutzfahrzeuge hinsichtlich der aussen vorstehenden Teile vor der Rückwand der Führerkabine; zuletzt geändert durch Ergänzung 3, in Kraft seit 18. Juni 2016 (Add.60 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 62</td><td colspan="2">UNECE-Reglement Nr. 62 vom 1. September 1984 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen mit Lenkstange hinsichtlich ihrer Sicherung gegen unbefugte Benützung; zuletzt geändert durch Ergänzung 2, in Kraft seit 10. Oktober 2006 (Add.61 Änd.2).</td></tr>
-<tr><td>UNECE-Reglement Nr. 63</td><td>UNECE-Reglement Nr. 63 vom 15. August 1985 über einheitliche Vorschriften für die Genehmigung von zweirädrigen Motorfahrrädern und Kleinmotorrädern hinsichtlich ihrer Geräuschentwicklung; geändert durch Änderungsserie 02 Ergänzung 3, in Kraft seit 10. Oktober 2017 (Add. 62 Rev.1 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 64</td><td>UNECE-Reglement Nr. 64 vom 1. Oktober 1985 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen, die mit Noträdern/-reifen ausgerüstet sind; zuletzt geändert durch Änderungsserie 03, in Kraft seit 9. Februar 2017 (Add.63 Rev.1 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 65[^annex2-lvlu1-lvl1-lvl12-40]</td><td>UNECE-Reglement Nr. 65 vom 15. Juni 1986 über einheitliche Vorschriften für die Genehmigung von besonderen Warnlichtern für Motorfahrzeuge; zuletzt geändert durch Ergänzung 10, in Kraft seit 10. Oktober 2017 (Add.64 Rev.2 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 66[^annex2-lvlu1-lvl1-lvl12-41]</td><td colspan="2">UNECE-Reglement Nr. 66 vom 1. Dezember 1986 über einheitliche Vorschriften für die Genehmigung von Gesellschaftswagen hinsichtlich der Festigkeit ihres Aufbaus; zuletzt geändert durch Änderungsserie 02, in Kraft seit 19. August 2010 (Add.65 Rev.1 Änd.2).</td></tr>
-<tr><td>UNECE-Reglement Nr. 67</td><td colspan="2">UNECE-Reglement Nr. 67 vom 1. Juni 1987 über einheitliche Vorschriften für die: I Genehmigung der speziellen Ausrüstung in Motorfahrzeugen der Klassen M und N, in deren Antriebssystem verflüssigte Gase verwendet werden; II Genehmigung von Fahrzeugen der Klassen M und N, die mit der speziellen Ausrüstung für die Verwendung von verflüssigten Gasen in einem Antriebssystem ausgestattet sind, in Bezug auf den Einbau dieser Ausrüstung; geändert durch Änderungsserie 01, in Kraft seit 13. November 1999 (Add.66 Rev.1), einschliesslich sämtlicher folgender Änderungen bis: – Änderungsserie 01 Ergänzung 14, in Kraft seit 9. Oktober 2014 (Add.66 Rev.4).</td></tr>
-<tr><td>UNECE-Reglement Nr. 69[^annex2-lvlu1-lvl1-lvl12-42]</td><td colspan="2">UNECE-Reglement Nr. 69 vom 15. Mai 1987 über einheitliche Vorschriften für die Genehmigung von Tafeln zur hinteren Kennzeichnung bauartbedingt langsam fahrender Motorfahrzeuge und ihrer Anhänger; zuletzt geändert durch Änderungsserie 01 Ergänzung 6, in Kraft seit 10. Oktober 2017 (Add.68 Rev.1 Änd.2).</td></tr>
-<tr><td>UNECE-Reglement Nr. 70[^annex2-lvlu1-lvl1-lvl12-43]</td><td colspan="2">UNECE-Reglement Nr. 70 vom 15. Mai 1987 über einheitliche Vorschriften für die Genehmigung von Tafeln zur hinteren Kennzeichnung schwerer und langer Fahrzeuge; zuletzt geändert durch Änderungsserie 01 Ergänzung 10, in Kraft seit 10. Oktober 2017 (Add.69 Rev.1 Änd.4).</td></tr>
+<tr><td>UNECE-Reglement Nr. 62</td><td colspan="2">UNECE-Reglement Nr. 62 vom 1. September 1984 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen mit Lenkstange hinsichtlich ihrer Sicherung gegen unbefugte Benützung; zuletzt geändert durch Änderungsserie 01, in Kraft seit 25. September 2020 (Add.61 Rev.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 63</td><td>UNECE-Reglement Nr. 63 vom 15. August 1985 über einheitliche Vorschriften für die Genehmigung von zweirädrigen Motorfahrrädern und Kleinmotorrädern hinsichtlich ihrer Geräuschentwicklung; geändert durch Änderungsserie 02 Ergänzung 4, in Kraft seit 29. Dezember 2018 (Add. 62 Rev.1 Änd. 4).</td></tr>
+<tr><td>UNECE-Reglement Nr. 64</td><td>UNECE-Reglement Nr. 64 vom 1. Oktober 1985 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen, die mit Noträdern/-reifen ausgerüstet sind; zuletzt geändert durch Änderungsserie 03 Ergänzung 1, in Kraft seit 11. Januar 2020 (Add.63 Rev.2 Änd.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 65[^annex2-lvlu1-lvl1-lvl12-41]</td><td>UNECE-Reglement Nr. 65 vom 15. Juni 1986 über einheitliche Vorschriften für die Genehmigung von besonderen Warnlichtern für Motorfahrzeuge; zuletzt geändert durch Ergänzung 11, in Kraft seit 30. September 2021 (Add.64 Rev.2 Änd.4).</td></tr>
+<tr><td>UNECE-Reglement Nr. 66[^annex2-lvlu1-lvl1-lvl12-42]</td><td colspan="2">UNECE-Reglement Nr. 66 vom 1. Dezember 1986 über einheitliche Vorschriften für die Genehmigung von Gesellschaftswagen hinsichtlich der Festigkeit ihres Aufbaus; zuletzt geändert durch Änderungsserie 02, in Kraft seit 19. August 2010 (Add.65 Rev.1 Änd.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 67</td><td colspan="2">UNECE-Reglement Nr. 67 vom 1. Juni 1987 über einheitliche Vorschriften für die: I Genehmigung der speziellen Ausrüstung in Motorfahrzeugen der Klassen M und N, in deren Antriebssystem verflüssigte Gase verwendet werden; II Genehmigung von Fahrzeugen der Klassen M und N, die mit der speziellen Ausrüstung für die Verwendung von verflüssigten Gasen in einem Antriebssystem ausgestattet sind, in Bezug auf den Einbau dieser Ausrüstung; geändert durch Änderungsserie 01, in Kraft seit 13. November 1999 (Add.66 Rev.1), einschliesslich sämtlicher folgender Änderungen bis: – Änderungsserie 03 Ergänzung 1, in Kraft seit 30. September 2021 (Add.66 Rev.6 Änd.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 69[^annex2-lvlu1-lvl1-lvl12-43]</td><td colspan="2">UNECE-Reglement Nr. 69 vom 15. Mai 1987 über einheitliche Vorschriften für die Genehmigung von Tafeln zur hinteren Kennzeichnung bauartbedingt langsam fahrender Motorfahrzeuge und ihrer Anhänger; zuletzt geändert durch Änderungsserie 02, in Kraft seit 15. Oktober 2019 (Add.68 Rev.1 Änd.3).</td></tr>
+<tr><td>UNECE-Reglement Nr. 70[^annex2-lvlu1-lvl1-lvl12-44]</td><td colspan="2">UNECE-Reglement Nr. 70 vom 15. Mai 1987 über einheitliche Vorschriften für die Genehmigung von Tafeln zur hinteren Kennzeichnung schwerer und langer Fahrzeuge; zuletzt geändert durch Änderungsserie 02, in Kraft seit 15. Oktober 2019 (Add.69 Rev.1 Änd.5).</td></tr>
 <tr><td>UNECE-Reglement Nr. 71</td><td colspan="2">UNECE-Reglement Nr. 71 vom 1. August 1987 über einheitliche Vorschriften für die Genehmigung von landwirtschaftlichen Traktoren hinsichtlich des Sichtfeldes für den Fahrzeugführer (Add.70).</td></tr>
-<tr><td>UNECE-Reglement Nr. 72[^annex2-lvlu1-lvl1-lvl12-44]</td><td colspan="2">UNECE-Reglement Nr. 72 vom 15. Februar 1988 über einheitliche Vorschriften für die Genehmigung von Scheinwerfern mit Halogenlampen (HS1-Glühlampen) für asymmetrisches Abblendlicht und Fernlicht für Motorräder; zuletzt geändert durch Änderungsserie 01, in Kraft seit 12. September 2001 (Add.71 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 73[^annex2-lvlu1-lvl1-lvl12-45]</td><td colspan="2">UNECE-Reglement Nr. 73 vom 1. Januar 1988 über einheitliche Vorschriften für die Genehmigung von schweren Motorwagen, Anhängern und Sattelanhängern hinsichtlich ihres Seitenschutzes (seitliche Schutzvorrichtung); zuletzt geändert durch Änderungsserie 01, Ergänzung 1, in Kraft seit 10. Oktober 2017 (Add.72 Rev.1 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 74</td><td colspan="2">UNECE-Reglement Nr. 74 vom 15. Juni 1988 über einheitliche Vorschriften für die Genehmigung von Motorfahrrädern hinsichtlich des Anbaus von Beleuchtungs- und Lichtsignaleinrichtungen; zuletzt geändert durch Änderungsserie 01 Ergänzung 9, in Kraft seit 18. Juni 2016 (Add.73 Rev.2 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 75</td><td colspan="2">UNECE-Reglement Nr. 75 vom 1. April 1988 über einheitliche Vorschriften für die Genehmigung von Luftreifen für Motorräder; zuletzt geändert durch Ergänzung 17, in Kraft seit 10. Oktober 2017 (Add.74 Rev.2 Änd.4).</td></tr>
-<tr><td>UNECE-Reglement Nr. 76[^annex2-lvlu1-lvl1-lvl12-46]</td><td colspan="2">UNECE-Reglement Nr. 76 vom 1. Juli 1988 über einheitliche Vorschriften für die Genehmigung von Scheinwerfern für Abblendlicht und Fernlicht von Motorfahrrädern; zuletzt geändert durch Änderungsserie 01, in Kraft seit 12. September 2001 (Add.75 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 77[^annex2-lvlu1-lvl1-lvl12-47]</td><td colspan="2">UNECE-Reglement Nr. 77 vom 30. September 1988 über einheitliche Vorschriften für die Genehmigung von Parkleuchten für Motorfahrzeuge; zuletzt geändert durch Ergänzung 18, in Kraft seit 10. Februar 2018 (Add.76 Rev.3 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 78</td><td colspan="2">UNECE-Reglement Nr. 78 vom 15. Oktober 1988 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen der Klasse L hinsichtlich der Bremsen; zuletzt geändert durch Änderungsserie 04, in Kraft seit 22. Juni 2017 (Add.77 Rev.1 Änd.4).</td></tr>
-<tr><td>UNECE-Reglement Nr. 79[^annex2-lvlu1-lvl1-lvl12-48]</td><td colspan="2">UNECE-Reglement Nr. 79 vom 1. Dezember 1988 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen hinsichtlich ihrer Lenkanlage; zuletzt geändert durch Änderungsserie 02, in Kraft seit 10. Oktober 2017 (Add.78 Rev.2 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 80[^annex2-lvlu1-lvl1-lvl12-49]</td><td colspan="2">UNECE-Reglement Nr. 80 vom 23. Februar 1989 über einheitliche Vorschriften für die Genehmigung der Sitze von Gesellschaftswagen sowie dieser Fahrzeuge hinsichtlich der Widerstandsfähigkeit der Sitze und ihrer Verankerungen; zuletzt geändert durch Änderungsserie 03 Ergänzung 3, in Kraft seit 10. Februar 2018 (Add.79 Rev.2 Änd.3).</td></tr>
+<tr><td>UNECE-Reglement Nr. 72[^annex2-lvlu1-lvl1-lvl12-45]</td><td colspan="2">UNECE-Reglement Nr. 72 vom 15. Februar 1988 über einheitliche Vorschriften für die Genehmigung von Scheinwerfern mit Halogenlampen (HS1-Glühlampen) für asymmetrisches Abblendlicht und Fernlicht für Motorräder; zuletzt geändert durch Änderungsserie 01, in Kraft seit 12. September 2001 (Add.71 Änd.3).</td></tr>
+<tr><td>UNECE-Reglement Nr. 73[^annex2-lvlu1-lvl1-lvl12-46]</td><td colspan="2">UNECE-Reglement Nr. 73 vom 1. Januar 1988 über einheitliche Vorschriften für die Genehmigung von schweren Motorwagen, Anhängern und Sattelanhängern hinsichtlich ihres Seitenschutzes (seitliche Schutzvorrichtung); zuletzt geändert durch Änderungsserie 01 Ergänzung 2, in Kraft seit 15. Oktober 2019 (Add.72 Rev.1 Änd.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 74</td><td colspan="2">UNECE-Reglement Nr. 74 vom 15. Juni 1988 über einheitliche Vorschriften für die Genehmigung von Motorfahrrädern hinsichtlich des Anbaus von Beleuchtungs- und Lichtsignaleinrichtungen; zuletzt geändert durch Änderungsserie 02 Ergänzung 1, in Kraft seit 30. September 2021 (Add.73 Rev.3 Änd.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 75</td><td colspan="2">UNECE-Reglement Nr. 75 vom 1. April 1988 über einheitliche Vorschriften für die Genehmigung von Luftreifen für Motorräder; zuletzt geändert durch Ergänzung 19, in Kraft seit 30. September 2021 (Add.74 Rev.2 Änd.6).</td></tr>
+<tr><td>UNECE-Reglement Nr. 76[^annex2-lvlu1-lvl1-lvl12-47]</td><td colspan="2">UNECE-Reglement Nr. 76 vom 1. Juli 1988 über einheitliche Vorschriften für die Genehmigung von Scheinwerfern für Abblendlicht und Fernlicht von Motorfahrrädern; zuletzt geändert durch Änderungsserie 01, in Kraft seit 12. September 2001 (Add.75 Änd.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 77[^annex2-lvlu1-lvl1-lvl12-48]</td><td colspan="2">UNECE-Reglement Nr. 77 vom 30. September 1988 über einheitliche Vorschriften für die Genehmigung von Parkleuchten für Motorfahrzeuge; zuletzt geändert durch Änderungsserie 01, in Kraft seit 15. Oktober 2019 (Add.76 Rev.4).</td></tr>
+<tr><td>UNECE-Reglement Nr. 78</td><td colspan="2">UNECE-Reglement Nr. 78 vom 15. Oktober 1988 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen der Klasse L hinsichtlich der Bremsen; zuletzt geändert durch Änderungsserie 05, in Kraft seit 3. Januar 2021 (Add.77 Rev.3).</td></tr>
+<tr><td>UNECE-Reglement Nr. 79[^annex2-lvlu1-lvl1-lvl12-49]</td><td colspan="2">UNECE-Reglement Nr. 79 vom 1. Dezember 1988 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen hinsichtlich ihrer Lenkanlage; zuletzt geändert durch Änderungsserie 03 Ergänzung 4, in Kraft seit 30. September 2021 (Add.78 Rev.4 Änd.4).</td></tr>
+<tr><td>UNECE-Reglement Nr. 80[^annex2-lvlu1-lvl1-lvl12-50]</td><td colspan="2">UNECE-Reglement Nr. 80 vom 23. Februar 1989 über einheitliche Vorschriften für die Genehmigung der Sitze von Gesellschaftswagen sowie dieser Fahrzeuge hinsichtlich der Widerstandsfähigkeit der Sitze und ihrer Verankerungen; zuletzt geändert durch Änderungsserie 04, in Kraft seit 29. Mai 2020 (Add.79 Rev.3).</td></tr>
 <tr><td>UNECE-Reglement Nr. 81</td><td colspan="2">UNECE-Reglement Nr. 81 vom 1. März 1989 über einheitliche Vorschriften für die Genehmigung von Rückspiegeln für zweirädrige Motorfahrzeuge mit oder ohne Seitenwagen und hinsichtlich der Anbringung der Rückspiegel an der Lenkstange; zuletzt geändert durch Ergänzung 2, in Kraft seit 18. Juni 2007 (Add.80 Änd.2).</td></tr>
-<tr><td>UNECE-Reglement Nr. 82[^annex2-lvlu1-lvl1-lvl12-50]</td><td colspan="2">UNECE-Reglement Nr. 82 vom 17. März 1989 über einheitliche Vorschriften für die Genehmigung von Scheinwerfern mit Halogenlampen (HS2-Glühlampen) für Motorfahrräder und ihnen gleichgestellte Fahrzeuge; geändert durch Änderungsserie 01, in Kraft seit 12. September 2001 (Add.81 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 83[^annex2-lvlu1-lvl1-lvl12-51]</td><td colspan="2">UNECE-Reglement Nr. 83 vom 5. November 1989 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich der Emission gasförmiger Schadstoffe aus dem Motor entsprechend den Treibstofferfordernissen des Motors; zuletzt geändert durch Änderungsserie 07 Ergänzung 6, in Kraft seit 10. Februar 2018 (Add.82 Rev.5 Änd.6).</td></tr>
-<tr><td>UNECE-Reglement Nr. 84[^annex2-lvlu1-lvl1-lvl12-52]</td><td colspan="2">UNECE-Reglement Nr. 84 vom 15. Juli 1990 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen, die mit einem Verbrennungsmotor ausgerüstet sind, hinsichtlich des Treibstoffverbrauchs (Add.83).</td></tr>
-<tr><td>UNECE-Reglement Nr. 85[^annex2-lvlu1-lvl1-lvl12-53]</td><td colspan="2">UNECE-Reglement Nr. 85 vom 15. September 1990 über einheitliche Vorschriften für die Genehmigung von Verbrennungsmotoren oder elektrischen Antriebssystemen für den Antrieb von Motorfahrzeugen der Klassen M und N hinsichtlich der Messung der Nutzleistung und der höchsten Dreissig-Minuten-Leistung elektrischer Antriebssysteme; zuletzt geändert durch Ergänzung 7, in Kraft seit 18. Juni 2016 (Add.84 Rev.1 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 86</td><td colspan="2">UNECE-Reglement Nr. 86 vom 1. August 1990 über einheitliche Vorschriften für die Genehmigung von land- und forstwirtschaftlichen Fahrzeugen hinsichtlich des Anbaus der Beleuchtungs- und Lichtsignaleinrichtungen; zuletzt geändert durch Änderungsserie 01, in Kraft seit 22. Juni 2017 (Add.85 Rev.2 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 87[^annex2-lvlu1-lvl1-lvl12-54]</td><td colspan="2">UNECE-Reglement Nr. 87 vom 1. November 1990 über einheitliche Vorschriften für die Genehmigung von Tagfahrleuchten für Motorfahrzeuge; zuletzt geändert durch Ergänzung 20, in Kraft seit 10. Februar 2018 (Add.86 Rev.3 Änd.4).</td></tr>
-<tr><td>UNECE-Reglement Nr. 88[^annex2-lvlu1-lvl1-lvl12-55]</td><td colspan="2">UNECE-Reglement Nr. 88 vom 10. April 1991 über einheitliche Vorschriften für die Genehmigung von retroreflektierenden Reifen für Zweiradfahrzeuge; zuletzt geändert durch Ergänzung 1, in Kraft seit 18. Juni 2007 (Add.87 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 89</td><td colspan="2">UNECE-Reglement Nr. 89 vom 1. Oktober 1992 über einheitliche Vorschriften für die Genehmigung von: I Fahrzeugen hinsichtlich der Begrenzung ihrer Höchstgeschwindigkeit; II Fahrzeugen hinsichtlich des Einbaus einer Geschwindigkeits-Begrenzungsanlage (SLD) eines genehmigten Typs; III Geschwindigkeits-Begrenzungseinrichtungen (SLD); zuletzt geändert durch Ergänzung 2, in Kraft seit 30. Januar 2011 (Add.88 Änd.2).</td></tr>
-<tr><td>UNECE-Reglement Nr. 90</td><td colspan="2">UNECE-Reglement Nr. 90 vom 1. November 1992 über einheitliche Vorschriften für die Genehmigung von Ersatz-Bremsbelag-Einheiten, Ersatz-Trommelbremsbelägen sowie Ersatz-Bremsscheiben und Ersatz-Bremstrommeln für Motorfahrzeuge und ihre Anhänger; zuletzt geändert durch Änderungsserie 02 Ergänzung 3, in Kraft seit 9. Februar 2017 (Add.89 Rev.3 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 91[^annex2-lvlu1-lvl1-lvl12-56]</td><td colspan="2">UNECE-Reglement Nr. 91 vom 15. Oktober 1993 über einheitliche Vorschriften für die Genehmigung von Seitenmarkierungsleuchten für Motorfahrzeuge und ihre Anhänger; zuletzt geändert durch Ergänzung 17, in Kraft seit 10. Februar 2018 (Add.90 Rev.3 Änd.2).</td></tr>
-<tr><td>UNECE-Reglement Nr. 92</td><td colspan="2">UNECE-Reglement Nr. 92 vom 1. November 1993 über einheitliche Vorschriften für die Genehmigung von nichtoriginalen Austauschschalldämpferanlagen für Motorräder, Motorfahrräder und Dreiradfahrzeuge; zuletzt geändert durch Änderungsserie 01, Ergänzung 2, in Kraft seit 10. Oktober 2017 (Add.91 Rev.1 Änd.2).</td></tr>
-<tr><td>UNECE-Reglement Nr. 93</td><td colspan="2">UNECE-Reglement Nr. 93 vom 27. Februar 1994 über einheitliche Vorschriften für die Genehmigung von: I Einrichtungen für den vorderen Unterfahrschutz (FUPDs); II Fahrzeugen hinsichtlich des Anbaus einer Einrichtung eines genehmigten Typs für den vorderen Unterfahrschutz; III Fahrzeugen hinsichtlich ihres vorderen Unterfahrschutzes (FUP); (Add.92).</td></tr>
-<tr><td>UNECE-Reglement Nr. 94</td><td colspan="2">UNECE-Reglement Nr. 94 vom 1. Oktober 1995 über einheitliche Vorschriften für die Genehmigung der Motorfahrzeuge (M<sub>1</sub> &lt; 2,5 t) hinsichtlich des Schutzes der Insassen bei einem Frontalaufprall; zuletzt geändert durch Änderungsserie 03, in Kraft seit 18. Juni 2016 (Add.93 Rev.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 95</td><td colspan="2">UNECE-Reglement Nr. 95 vom 6. Juli 1995 über einheitliche Vorschriften für die Genehmigung der Motorfahrzeuge (M<sub>1</sub> und N<sub>1</sub>) hinsichtlich des Schutzes der Insassen bei einem Seitenaufprall; zuletzt geändert durch Änderungsserie 03 Ergänzung 6, in Kraft seit 18. Juni 2016 (Add.94 Rev.2 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 96</td><td colspan="2">UNECE-Reglement Nr. 96 vom 15. Dezember 1995 über einheitliche Vorschriften für die Genehmigung der Motoren für land- und forstwirtschaftliche Traktoren und mobile Maschinen, die nicht für den Strassenverkehr bestimmt sind, hinsichtlich der Emissionen von Schadstoffen aus dem Motor; zuletzt geändert durch Änderungsserie 04, Ergänzung 1, in Kraft seit 15. Juni 2015 (Add.95 Rev.3 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 97</td><td colspan="2">UNECE-Reglement Nr. 97 vom 1. Januar 1996 über einheitliche Vorschriften für die Genehmigung von Fahrzeugalarmsystemen (FAS) und Motorfahrzeugen hinsichtlich ihrer Alarmsysteme (AS); zuletzt geändert durch Änderungsserie 01 Ergänzung 8, in Kraft seit 18. Juni 2016 (Add.96 Rev.1 Änd.4).</td></tr>
-<tr><td>UNECE-Reglement Nr. 98[^annex2-lvlu1-lvl1-lvl12-57]</td><td colspan="2">UNECE-Reglement Nr. 98 vom 15. April 1996 über einheitliche Vorschriften für die Genehmigung der Motorfahrzeug-Scheinwerfer mit Gasentladungs-Lichtquellen; zuletzt geändert durch Änderungsserie 01 Ergänzung 9, in Kraft seit 10. Februar 2018 (Add.97 Rev.3 Änd.8).</td></tr>
-<tr><td>UNECE-Reglement Nr. 99[^annex2-lvlu1-lvl1-lvl12-58]</td><td colspan="2">UNECE-Reglement Nr. 99 vom 15. April 1996 über einheitliche Vorschriften für die Genehmigung von Gasentladungs-Lichtquellen für genehmigte Gasentladungs-Leuchteinheiten von Motorfahrzeugen; zuletzt geändert durch Ergänzung 13, in Kraft seit 10. Oktober 2017 (Add.98 Rev.3 Änd.4).</td></tr>
-<tr><td>UNECE-Reglement Nr. 100[^annex2-lvlu1-lvl1-lvl12-59]</td><td colspan="2">UNECE-Reglement Nr. 100 vom 23. August 1996 über einheitliche Vorschriften für die Genehmigung der batteriebetriebenen Elektrofahrzeuge hinsichtlich der besonderen Anforderungen an die Bauweise und die Betriebssicherheit; zuletzt geändert durch Änderungsserie 02 Ergänzung 3, in Kraft seit 18. Juni 2016 (Add.99 Rev.2 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 101[^annex2-lvlu1-lvl1-lvl12-60]</td><td colspan="2">UNECE-Reglement Nr. 101 vom 1. Januar 1997 über einheitliche Vorschriften für die Genehmigung der Personenwagen, die nur mit einem Verbrennungsmotor oder mit Hybrid-Elektro-Antrieb betrieben werden, hinsichtlich der Messung der Kohlendioxidemission und des Kraftstoffverbrauchs und/oder der Messung des Stromverbrauchs und der elektrischen Reichweite sowie der nur mit Elektroantrieb betriebenen Fahrzeuge der Klassen M<sub>1</sub> und N<sub>1</sub> hinsichtlich der Messung des Stromverbrauchs und der elektrischen Reichweite; zuletzt geändert durch Änderungsserie 01 Ergänzung 7, in Kraft seit 10. Oktober 2017 (Add.100 Rev.3 Änd.6).</td></tr>
-<tr><td>UNECE-Reglement Nr. 102[^annex2-lvlu1-lvl1-lvl12-61]</td><td colspan="2">UNECE-Reglement Nr. 102 vom 13. Dezember 1996 über einheitliche Vorschriften für die Genehmigung: I einer Kurzkupplungseinrichtung; II von Fahrzeugen hinsichtlich des Anbaus eines genehmigten Typs einer Kurzkupplungseinrichtung; (Add.101).</td></tr>
-<tr><td>UNECE-Reglement Nr. 103[^annex2-lvlu1-lvl1-lvl12-62]</td><td colspan="2">UNECE-Reglement Nr. 103 vom 23. Februar 1997 über einheitliche Vorschriften für die Genehmigung von Austauschkatalysatoren; zuletzt geändert durch Ergänzung 4, in Kraft seit 10. Juni 2014 (Add.102 Rev.1 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 104[^annex2-lvlu1-lvl1-lvl12-63]</td><td colspan="2">UNECE-Reglement Nr. 104 vom 15. Januar 1998 über einheitliche Vorschriften für die Genehmigung retroreflektierender Markierungen für Fahrzeuge der Klassen M, N und O; zuletzt geändert durch Ergänzung 9, in Kraft seit 10. Oktober 2017 (Add.103 Rev.1 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 105[^annex2-lvlu1-lvl1-lvl12-64]</td><td colspan="2">UNECE-Reglement Nr. 105 vom 7. Mai 1998 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen für den Transport gefährlicher Güter hinsichtlich ihrer speziellen Konstruktionsmerkmale; zuletzt geändert durch Änderungsserie 06, in Kraft seit 22. Juni 2017 (Add.104 Rev.2 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 106[^annex2-lvlu1-lvl1-lvl12-65]</td><td colspan="2">UNECE-Reglement Nr. 106 vom 7. Mai 1998 über einheitliche Vorschriften für die Genehmigung der Luftreifen für landwirtschaftliche Fahrzeuge und ihre Anhänger; zuletzt geändert durch Ergänzung 15, in Kraft seit 10. Februar 2018 (Add.105 Rev.2 Änd.5).</td></tr>
-<tr><td>UNECE-Reglement Nr. 107[^annex2-lvlu1-lvl1-lvl12-66]</td><td colspan="2">UNECE-Reglement Nr. 107 vom 18. Juni 1998 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen der Klassen M<sub>2</sub> und M<sub>3</sub> hinsichtlich ihrer allgemeinen Konstruktionsmerkmale; zuletzt geändert durch Änderungsserie 07, Ergänzung 1, in Kraft seit 22. Juni 2017 (Add.106 Rev.7 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 108[^annex2-lvlu1-lvl1-lvl12-67]</td><td colspan="2">UNECE-Reglement Nr. 108 vom 23. Juni 1998 über einheitliche Vorschriften für die Genehmigung der Herstellung runderneuerter Luftreifen für Motorfahrzeuge und ihre Anhänger; zuletzt geändert durch Ergänzung 3, in Kraft seit 17. März 2010 (Add.107 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 109[^annex2-lvlu1-lvl1-lvl12-68]</td><td colspan="2">UNECE-Reglement Nr. 109 vom 23. Juni 1998 über einheitliche Vorschriften für die Genehmigung der Herstellung runderneuerter Luftreifen für Nutzfahrzeuge und ihre Anhänger; zuletzt geändert durch Ergänzung 8, in Kraft seit 10. Oktober 2017 (Add.108 Rev.1 Änd.2).</td></tr>
-<tr><td>UNECE-Reglement Nr. 110[^annex2-lvlu1-lvl1-lvl12-69]</td><td colspan="2">UNECE-Reglement Nr. 110 vom 28. Dezember 2000 über einheitliche Vorschriften für die Genehmigung der: I speziellen Bauteile von Motorfahrzeugen, in deren Antriebssystem komprimiertes Erdgas (CNG) verwendet wird; II Fahrzeuge hinsichtlich des Einbaus spezieller Bauteile eines genehmigten Typs für die Verwendung von komprimiertem Erdgas (CNG) in ihrem Antriebssystem; zuletzt geändert durch Änderungsserie 02, Ergänzung 1, in Kraft seit 19. Juli 2018 (Add.109 Rev.4 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 111[^annex2-lvlu1-lvl1-lvl12-70]</td><td colspan="2">UNECE-Reglement Nr. 111 vom 28. Dezember 2000 über einheitliche Vorschriften für die Genehmigung von Tankfahrzeugen der Klassen N und O hinsichtlich der Überschlagsicherheit; geändert durch Ergänzung 1, in Kraft seit 4. April 2005 (Add.110 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 112[^annex2-lvlu1-lvl1-lvl12-71]</td><td colspan="2">UNECE-Reglement Nr. 112 vom 21. September 2001 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeug-Scheinwerfern für asymmetrisches Abblendlicht und/oder Fernlicht, ausgerüstet mit Glühlampen und/oder Leuchtdioden-Modulen (LED); zuletzt geändert durch Änderungsserie 01 Ergänzung 8, in Kraft seit 10. Februar 2018 (Add.111 Rev.3 Änd.5).</td></tr>
-<tr><td>UNECE-Reglement Nr. 113[^annex2-lvlu1-lvl1-lvl12-72]</td><td colspan="2">UNECE-Reglement Nr. 113 vom 21. September 2001 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeug-Scheinwerfern für symmetrisches Abblendlicht und/oder Fernlicht, ausgerüstet mit Glühlampen, Gasentladungs-Lichtquellen oder LED-Modulen; zuletzt geändert durch Änderungsserie 02, in Kraft seit 10. Februar 2018 (Add.112 Rev.3 Änd.6).</td></tr>
-<tr><td>UNECE-Reglement Nr. 114[^annex2-lvlu1-lvl1-lvl12-73]</td><td colspan="2">UNECE-Reglement Nr. 114 vom 1. Februar 2003 über einheitliche Vorschriften für die Genehmigung: I eines Airbag-Moduls für ein Ersatz-Airbag-System; II eines Ersatz-Lenkrades, ausgestattet mit einem genehmigten Typ eines Airbag-Moduls; III eines Ersatz-Airbag-Systems, welches nicht in einem Ersatz-Lenkrad eingebaut ist; (Add.113).</td></tr>
-<tr><td>UNECE-Reglement Nr. 115[^annex2-lvlu1-lvl1-lvl12-74]</td><td colspan="2">UNECE-Reglement Nr. 115 vom 30. Oktober 2003 über einheitliche Vorschriften für die Genehmigung der: I speziellen Nachrüstsysteme für Flüssiggas (LPG) zum Einbau in Motorfahrzeuge zur Verwendung von Flüssiggas in ihrem Antriebssystem; II speziellen Nachrüstsysteme für komprimiertes Erdgas (CNG) zum Einbau in Motorfahrzeuge zur Verwendung von komprimiertem Erdgas in ihrem Antriebssystem; zuletzt geändert durch Ergänzung 7, in Kraft seit 9. Februar 2017 (Add.114 Rev.1 Änd.2).</td></tr>
-<tr><td>UNECE-Reglement Nr. 116[^annex2-lvlu1-lvl1-lvl12-75]</td><td colspan="2">UNECE-Reglement Nr. 116 vom 6. April 2005 über einheitliche technische Vorschriften hinsichtlich des Schutzes von Motorfahrzeugen gegen die unbefugte Verwendung; zuletzt geändert durch Ergänzung 5, in Kraft seit 18. Juni 2016 (Add.115 Änd.5).</td></tr>
-<tr><td>UNECE-Reglement Nr. 117[^annex2-lvlu1-lvl1-lvl12-76]</td><td colspan="2">UNECE-Reglement Nr. 117 vom 6. April 2005 über einheitliche Vorschriften für die Genehmigung von Reifen hinsichtlich der Rollgeräuschemissionen und/oder der Haftung auf nassen Oberflächen und/oder des Rollwiderstandes; zuletzt geändert durch Änderungsserie 02 Ergänzung 9, in Kraft seit 9. Februar 2017 (Add.116 Rev.4 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 118[^annex2-lvlu1-lvl1-lvl12-77]</td><td colspan="2">UNECE-Reglement Nr. 118 vom 6. April 2005 über einheitliche Vorschriften über das Brennverhalten und/oder die Dichtigkeit gegenüber Treibstoffen und Schmiermitteln von verwendeten Ausstattungen in der Konstruktion von Motorfahrzeugen bestimmter Klassen; zuletzt geändert durch Änderungsserie 03, in Kraft seit 10. Oktober 2017 (Add.117 Rev.1 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 119[^annex2-lvlu1-lvl1-lvl12-78]</td><td colspan="2">UNECE-Reglement Nr. 119 vom 6. April 2005 über einheitliche Vorschriften für die Genehmigung von Abbiegescheinwerfern für Motorfahrzeuge; zuletzt geändert durch Änderungsserie 01 Ergänzung 6, in Kraft seit 10. Februar 2018 (Add.118 Rev.1 Änd.6).</td></tr>
-<tr><td>UNECE-Reglement Nr. 120[^annex2-lvlu1-lvl1-lvl12-79]</td><td colspan="2">UNECE-Reglement Nr. 120 vom 6. April 2005 über einheitliche Vorschriften für die Genehmigung von Verbrennungsmotoren für land- und forstwirtschaftliche Traktoren sowie für mobile Maschinen und Geräte, die nicht für den Strassenverkehr bestimmt sind, hinsichtlich der Messung der Nutzleistung, des Nutzdrehmoments und des spezifischen Kraftstoffverbrauchs; zuletzt geändert durch Änderungsserie 01, in Kraft seit 26. Juli 2012 (Add.119 Rev.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 121[^annex2-lvlu1-lvl1-lvl12-80]</td><td colspan="2">UNECE-Reglement Nr. 121 vom 18. Januar 2006 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen hinsichtlich der Anordnung und Kennzeichnung der Handbetätigungseinrichtungen, Kontrollleuchten und Anzeiger; zuletzt geändert durch Änderungsserie 01, Ergänzung 2, in Kraft seit 19. Juli 2018 (Add.120 Rev.2 Änd.2).</td></tr>
-<tr><td>UNECE-Reglement Nr. 122[^annex2-lvlu1-lvl1-lvl12-81]</td><td colspan="2">UNECE-Reglement Nr. 122 vom 18. Januar 2006 über einheitliche technische Vorschriften für die Typengenehmigung von Fahrzeugen der Klassen M, N und O hinsichtlich ihrer Heizungssysteme; zuletzt geändert durch Ergänzung 3, in Kraft seit 26. Juli 2012 (Add.121 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 123[^annex2-lvlu1-lvl1-lvl12-82]</td><td colspan="2">UNECE-Reglement Nr. 123 vom 2. Februar 2007 über einheitliche Vorschriften für die Genehmigung von adaptiven Frontbeleuchtungssystemen (AFS) für Motorfahrzeuge; zuletzt geändert durch Änderungsserie 01 Ergänzung 9, in Kraft seit 10. Februar 2018 (Add.122 Rev.2 Änd.5).</td></tr>
-<tr><td>UNECE-Reglement Nr. 124[^annex2-lvlu1-lvl1-lvl12-83]</td><td colspan="2">UNECE-Reglement Nr. 124 vom 2. Februar 2007 über einheitliche Vorschriften für die Genehmigung von Rädern für Personenwagen und ihre Anhänger; geändert durch Ergänzung 1, in Kraft seit 30. Januar 2011 (Add.123 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 125[^annex2-lvlu1-lvl1-lvl12-84]</td><td colspan="2">UNECE-Reglement Nr. 125 vom 9. November 2007 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen hinsichtlich des Sichtfeldes des Fahrzeugführers nach vorn; zuletzt geändert durch Änderungsserie 01 Ergänzung 1, in Kraft seit 8. Oktober 2016 (Add.124 Rev.2 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 126[^annex2-lvlu1-lvl1-lvl12-85]</td><td colspan="2">UNECE-Reglement Nr. 126 vom 9. November 2007 über einheitliche Vorschriften für die Genehmigung von nachrüstbaren Trennsystemen zum Schutz von Fahrzeuginsassen vor Gepäck, das sich aus seiner Lage verschiebt (Add.125).</td></tr>
-<tr><td>UNECE-Reglement Nr. 127[^annex2-lvlu1-lvl1-lvl12-86]</td><td colspan="2">UNECE-Reglement Nr. 127 vom 17. November 2012 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen hinsichtlich ihrer Eigenschaften in Bezug auf den Fussgängerschutz; zuletzt geändert durch Änderungsserie 02, in Kraft seit 18. Juni 2016 (Add.126 Rev.2).</td></tr>
-<tr><td>UNECE-Reglement Nr. 128[^annex2-lvlu1-lvl1-lvl12-87]</td><td colspan="2">UNECE-Reglement Nr. 128 vom 17. November 2012 über einheitliche Vorschriften für die Genehmigung von Leuchtdioden-Lichtquellen (LED) zur Verwendung in genehmigten Leuchteinheiten von Motorfahrzeugen und ihren Anhängern; zuletzt geändert durch Ergänzung 6, in Kraft seit 22. Juni 2017 (Add.127 Änd.6).</td></tr>
-<tr><td>UNECE-Reglement Nr. 129[^annex2-lvlu1-lvl1-lvl12-88]</td><td colspan="2">UNECE-Reglement Nr. 129 vom 9. Juli 2013 über einheitliche Vorschriften für die Genehmigung von weiterentwickelten Kinderrückhaltesystemen (ECRS); zuletzt geändert durch Änderungsserie 02 Ergänzung 2, in Kraft seit 19. Juli 2018 (Add.128 Rev.2 Änd.2).</td></tr>
-<tr><td>UNECE-Reglement Nr. 130[^annex2-lvlu1-lvl1-lvl12-89]</td><td colspan="2">UNECE-Reglement Nr. 130 vom 9. Juli 2013 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen hinsichtlich ihres Spurhaltewarnsystems (LDWS); geändert durch Ergänzung 1, in Kraft seit 8. Oktober 2016 (Add.129 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 131[^annex2-lvlu1-lvl1-lvl12-90]</td><td colspan="2">UNECE-Reglement Nr. 131 vom 9. Juli 2013 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen hinsichtlich ihres Notbrems-Assistenzsystems (AEBS); zuletzt geändert durch Änderungsserie 01 Ergänzung 2, in Kraft seit 8. Oktober 2016 (Add.130 Rev.1 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 132[^annex2-lvlu1-lvl1-lvl12-91]</td><td colspan="2">UNECE-Reglement Nr. 132 vom 17. Juni 2014 über einheitliche Vorschriften für die Genehmigung von Nachrüst-Abgasreinigungsanlagen (REC) für schwere Nutzfahrzeuge, land- und forstwirtschaftliche Traktoren und für mobile Maschinen und Geräte, ausgerüstet mit Kompressionszündungsmotoren; geändert durch Änderungsserie 01, in Kraft seit 22. Januar 2015 (Add.131 Rev.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 133[^annex2-lvlu1-lvl1-lvl12-92]</td><td colspan="2">UNECE-Reglement Nr. 133 vom 17. Juni 2014 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen hinsichtlich ihrer Wiederverwendbarkeit, Rezyklierbarkeit und Verwertbarkeit (Add.132).</td></tr>
-<tr><td>UNECE-Reglement Nr. 134[^annex2-lvlu1-lvl1-lvl12-93]</td><td colspan="2">UNECE-Reglement Nr. 134 vom 15. Juni 2015 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen und ihrer Bauteile hinsichtlich den Sicherheitsvorschriften für wasserstoffbetriebene Fahrzeuge; zuletzt geändert durch Ergänzung 3, in Kraft seit 19. Juli 2018 (Add.133 Änd.3).</td></tr>
-<tr><td>UNECE-Reglement Nr. 135[^annex2-lvlu1-lvl1-lvl12-94]</td><td colspan="2">UNECE-Reglement Nr. 135 vom 15. Juni 2015 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen hinsichtlich ihres Verhaltens bei Seitenaufprall-Tests gegen einen Pfahl; geändert durch Änderungsserie 01 Ergänzung 1, in Kraft seit 25. August 2016 (Add.134 Rev.1 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 136[^annex2-lvlu1-lvl1-lvl12-95]</td><td>UNECE-Reglement Nr. 136 vom 20. Januar 2016 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen der Klasse L hinsichtlich der besonderen Anforderungen an den elektrischen Antriebsstrang (Add.135).</td></tr>
-<tr><td>UNECE-Reglement Nr. 137[^annex2-lvlu1-lvl1-lvl12-96]</td><td>UNECE-Reglement Nr. 137 vom 9. Juni 2016 über einheitliche Vorschriften für die Genehmigung von Personenwagen in Bezug auf den Insassenschutz bei einem Frontaufprall, mit Schwerpunkt auf Rückhaltesysteme; geändert durch Änderungsserie 01, in Kraft seit 17. Dezember 2016 (Add.136 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 138[^annex2-lvlu1-lvl1-lvl12-97]</td><td>UNECE-Reglement Nr. 138 vom 5. Oktober 2016 über einheitliche Vorschriften für die Genehmigung von geräuscharmen Strassenfahrzeugen im Hinblick auf ihre reduzierte Wahrnehmbarkeit; geändert durch Änderungsserie 01, in Kraft seit 10. Oktober 2017 (Add.137 Änd.2).</td></tr>
-<tr><td>UNECE-Reglement Nr. 139[^annex2-lvlu1-lvl1-lvl12-98]</td><td>UNECE-Reglement Nr. 139 vom 22. Januar 2017 über einheitliche Vorschriften für die Genehmigung von Personenwagen im Hinblick auf das Bremsassistenzsystem (BAS) (Add.138).</td></tr>
-<tr><td>UNECE-Reglement Nr. 140[^annex2-lvlu1-lvl1-lvl12-99]</td><td>UNECE-Reglement Nr. 140 vom 22. Januar 2017 über einheitliche Vorschriften für die Genehmigung von Personenwagen im Hinblick auf das Fahrdynamik-Regelsystem (Add.139).</td></tr>
-<tr><td>UNECE-Reglement Nr. 141[^annex2-lvlu1-lvl1-lvl12-100]</td><td>UNECE-Reglement Nr. 141 vom 22. Januar 2017 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen im Hinblick auf das Reifendruck-Überwachungssystem (Add.140).</td></tr>
-<tr><td>UNECE-Reglement Nr. 142[^annex2-lvlu1-lvl1-lvl12-101]</td><td>UNECE-Reglement Nr. 142 vom 22. Januar 2017 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen im Hinblick auf die Montage ihrer Reifen (Add.141).</td></tr>
-<tr><td>UNECE-Reglement Nr. 143[^annex2-lvlu1-lvl1-lvl12-102]</td><td>UNECE-Reglement Nr. 143 vom 19. Juni 2017 über einheitliche Vorschriften für die Genehmigung von Nachrüstsystemen für Dual-Fuel-Motoren von schweren Motorfahrzeugen, bestimmt zum Einbau in deren Dieselmotoren und schwere Motorfahrzeuge (HDDF-ERS); geändert durch Ergänzung 1, in Kraft seit 10. Februar 2018 (Add.142 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 144</td><td>UNECE-Reglement Nr. 144 vom 19. Juli 2018 über einheitliche Vorschriften für die Genehmigung von Unfall-Notrufsystemen (AECS) (Add.143).</td></tr>
-<tr><td>UNECE-Reglement Nr. 145</td><td>UNECE-Reglement Nr. 145 vom 19. Juli 2018 über einheitliche Vorschriften für die Genehmigung von ISOFIX-Verankerungssystemen, obere ISOFIX-Verankerungspunkte und i-Size-Sitzpositionen (Add.144).</td></tr>
-<tr><td>UNECE-Reglement Nr. 146</td><td>UNECE-Reglement Nr. 146 vom 2. Januar 2019 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen und ihrer Bauteile hinsichtlich deren Sicherheit, für wasserstoffbetriebene Fahrzeuge der Klassen L<sub>1</sub>, L<sub>2</sub>, L<sub>3</sub>, L<sub>4</sub> und L<sub>5</sub> (Add. 145).</td></tr>
-<tr><td>UNECE-Reglement Nr. 147</td><td>UNECE-Reglement Nr. 147 vom 2. Januar 2019 über einheitliche Vorschriften für die Genehmigung von mechanischen Verbindungseinrichtungen für landwirtschaftliche Fahrzeugkombinationen (Add. 146).</td></tr>
+<tr><td>UNECE-Reglement Nr. 82[^annex2-lvlu1-lvl1-lvl12-51]</td><td colspan="2">UNECE-Reglement Nr. 82 vom 17. März 1989 über einheitliche Vorschriften für die Genehmigung von Scheinwerfern mit Halogenlampen (HS2-Glühlampen) für Motorfahrräder und ihnen gleichgestellte Fahrzeuge; geändert durch Änderungsserie 01, in Kraft seit 12. September 2001 (Add.81 Änd.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 83[^annex2-lvlu1-lvl1-lvl12-52]</td><td colspan="2">UNECE-Reglement Nr. 83 vom 5. November 1989 über einheitliche Vorschriften für die Genehmigung der Fahrzeuge hinsichtlich der Emission gasförmiger Schadstoffe aus dem Motor entsprechend den Treibstofferfordernissen des Motors; zuletzt geändert durch Änderungsserie 07 Ergänzung 12, in Kraft seit 9. Juni 2021 (Add.82 Rev.5 Änd.12).</td></tr>
+<tr><td>UNECE-Reglement Nr. 84[^annex2-lvlu1-lvl1-lvl12-53]</td><td colspan="2">UNECE-Reglement Nr. 84 vom 15. Juli 1990 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen, die mit einem Verbrennungsmotor ausgerüstet sind, hinsichtlich des Treibstoffverbrauchs (Add.83).</td></tr>
+<tr><td>UNECE-Reglement Nr. 85[^annex2-lvlu1-lvl1-lvl12-54]</td><td colspan="2">UNECE-Reglement Nr. 85 vom 15. September 1990 über einheitliche Vorschriften für die Genehmigung von Verbrennungsmotoren oder elektrischen Antriebssystemen für den Antrieb von Motorfahrzeugen der Klassen M und N hinsichtlich der Messung der Nutzleistung und der höchsten Dreissig-Minuten-Leistung elektrischer Antriebssysteme; zuletzt geändert durch Ergänzung 10, in Kraft seit 29. Mai 2020 (Add.84 Rev.1 Änd.4).</td></tr>
+<tr><td>UNECE-Reglement Nr. 86</td><td colspan="2">UNECE-Reglement Nr. 86 vom 1. August 1990 über einheitliche Vorschriften für die Genehmigung von land- und forstwirtschaftlichen Fahrzeugen hinsichtlich des Anbaus der Beleuchtungs- und Lichtsignaleinrichtungen; zuletzt geändert durch Änderungsserie 01 Ergänzung 3, in Kraft seit 30. September 2021 (Add.85 Rev.3 Änd.3).</td></tr>
+<tr><td>UNECE-Reglement Nr. 87[^annex2-lvlu1-lvl1-lvl12-55]</td><td colspan="2">UNECE-Reglement Nr. 87 vom 1. November 1990 über einheitliche Vorschriften für die Genehmigung von Tagfahrleuchten für Motorfahrzeuge; zuletzt geändert durch Änderungsserie 01, in Kraft seit 15. Oktober 2019 (Add.86 Rev.3 Änd.5).</td></tr>
+<tr><td>UNECE-Reglement Nr. 88[^annex2-lvlu1-lvl1-lvl12-56]</td><td colspan="2">UNECE-Reglement Nr. 88 vom 10. April 1991 über einheitliche Vorschriften für die Genehmigung von retroreflektierenden Reifen für Zweiradfahrzeuge; zuletzt geändert durch Ergänzung 1, in Kraft seit 18. Juni 2007 (Add.87 Änd.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 89</td><td colspan="2">UNECE-Reglement Nr. 89 vom 1. Oktober 1992 über einheitliche Vorschriften für die Genehmigung von: I Fahrzeugen hinsichtlich der Begrenzung ihrer Höchstgeschwindigkeit; II Fahrzeugen hinsichtlich des Einbaus einer Geschwindigkeits-Begrenzungsanlage (SLD) eines genehmigten Typs; III Geschwindigkeits-Begrenzungseinrichtungen (SLD); zuletzt geändert durch Ergänzung 3, in Kraft seit 29. Dezember 2018 (Add.88 Änd.3).</td></tr>
+<tr><td>UNECE-Reglement Nr. 90</td><td colspan="2">UNECE-Reglement Nr. 90 vom 1. November 1992 über einheitliche Vorschriften für die Genehmigung von Ersatz-Bremsbelag-Einheiten, Ersatz-Trommelbremsbelägen sowie Ersatz-Bremsscheiben und Ersatz-Bremstrommeln für Motorfahrzeuge und ihre Anhänger; zuletzt geändert durch Änderungsserie 02 Ergänzung 6, in Kraft seit 25. September 2020 (Add.89 Rev.3 Änd.6).</td></tr>
+<tr><td>UNECE-Reglement Nr. 91[^annex2-lvlu1-lvl1-lvl12-57]</td><td colspan="2">UNECE-Reglement Nr. 91 vom 15. Oktober 1993 über einheitliche Vorschriften für die Genehmigung von Seitenmarkierungsleuchten für Motorfahrzeuge und ihre Anhänger; zuletzt geändert durch Änderungsserie 01, in Kraft seit 15. Oktober 2019 (Add.90 Rev.3 Änd.3).</td></tr>
+<tr><td>UNECE-Reglement Nr. 92</td><td colspan="2">UNECE-Reglement Nr. 92 vom 1. November 1993 über einheitliche Vorschriften für die Genehmigung von nichtoriginalen Austauschschalldämpferanlagen für Motorräder, Motorfahrräder und Dreiradfahrzeuge; zuletzt geändert durch Änderungsserie 02, in Kraft seit 15. Oktober 2019 (Add.91 Rev.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 93</td><td colspan="2">UNECE-Reglement Nr. 93 vom 27. Februar 1994 über einheitliche Vorschriften für die Genehmigung von: I Einrichtungen für den vorderen Unterfahrschutz (FUPDs); II Fahrzeugen hinsichtlich des Anbaus einer Einrichtung eines genehmigten Typs für den vorderen Unterfahrschutz; III Fahrzeugen hinsichtlich ihres vorderen Unterfahrschutzes (FUP); geändert durch Ergänzung 1, in Kraft seit 9. Juni 2021 (Add.92 Änd.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 94</td><td colspan="2">UNECE-Reglement Nr. 94 vom 1. Oktober 1995 über einheitliche Vorschriften für die Genehmigung der Motorfahrzeuge (M1 &lt; 2,5 t) hinsichtlich des Schutzes der Insassen bei einem Frontalaufprall; zuletzt geändert durch Änderungsserie 04, in Kraft seit 9. Juni 2021 (Add.93 Rev.4).</td></tr>
+<tr><td>UNECE-Reglement Nr. 95</td><td colspan="2">UNECE-Reglement Nr. 95 vom 6. Juli 1995 über einheitliche Vorschriften für die Genehmigung der Motorfahrzeuge (M1 und N1) hinsichtlich des Schutzes der Insassen bei einem Seitenaufprall; zuletzt geändert durch Änderungsserie 05, in Kraft seit 9. Juni 2021 (Add.94 Rev.4).</td></tr>
+<tr><td>UNECE-Reglement Nr. 96</td><td colspan="2">UNECE-Reglement Nr. 96 vom 15. Dezember 1995 über einheitliche Vorschriften für die Genehmigung der Motoren für land- und forstwirtschaftliche Traktoren und mobile Maschinen, die nicht für den Strassenverkehr bestimmt sind, hinsichtlich der Emissionen von Schadstoffen aus dem Motor; zuletzt geändert durch Änderungsserie 05, in Kraft seit 29. Mai 2018 (Add.95 Rev.3 Änd.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 97</td><td colspan="2">UNECE-Reglement Nr. 97 vom 1. Januar 1996 über einheitliche Vorschriften für die Genehmigung von Fahrzeugalarmsystemen (FAS) und Motorfahrzeugen hinsichtlich ihrer Alarmsysteme (AS); zuletzt geändert durch Änderungsserie 01 Ergänzung 9, in Kraft seit 30. September 2021 (Add.96 Rev.1 Änd.5).</td></tr>
+<tr><td>UNECE-Reglement Nr. 98[^annex2-lvlu1-lvl1-lvl12-58]</td><td colspan="2">UNECE-Reglement Nr. 98 vom 15. April 1996 über einheitliche Vorschriften für die Genehmigung der Motorfahrzeug-Scheinwerfer mit Gasentladungs-Lichtquellen; zuletzt geändert durch Änderungsserie 02 Ergänzung 2, in Kraft seit 30. September 2021 (Add.97 Rev.4).</td></tr>
+<tr><td>UNECE-Reglement Nr. 99[^annex2-lvlu1-lvl1-lvl12-59]</td><td colspan="2">UNECE-Reglement Nr. 99 vom 15. April 1996 über einheitliche Vorschriften für die Genehmigung von Gasentladungs-Lichtquellen für genehmigte Gasentladungs-Leuchteinheiten von Motorfahrzeugen; zuletzt geändert durch Ergänzung 14, in Kraft seit 28. Mai 2019 (Add.98 Rev.3 Änd.5).</td></tr>
+<tr><td>UNECE-Reglement Nr. 100[^annex2-lvlu1-lvl1-lvl12-60]</td><td colspan="2">UNECE-Reglement Nr. 100 vom 23. August 1996 über einheitliche Vorschriften für die Genehmigung der batteriebetriebenen Elektrofahrzeuge hinsichtlich der besonderen Anforderungen an die Bauweise und die Betriebssicherheit; zuletzt geändert durch Änderungsserie 03, in Kraft seit 9. Juni 2021 (Add.99 Rev.3).</td></tr>
+<tr><td>UNECE-Reglement Nr. 101[^annex2-lvlu1-lvl1-lvl12-61]</td><td colspan="2">UNECE-Reglement Nr. 101 vom 1. Januar 1997 über einheitliche Vorschriften für die Genehmigung der Personenwagen, die nur mit einem Verbrennungsmotor oder mit Hybrid-Elektro-Antrieb betrieben werden, hinsichtlich der Messung der Kohlendioxidemission und des Kraftstoffverbrauchs und/oder der Messung des Stromverbrauchs und der elektrischen Reichweite sowie der nur mit Elektroantrieb betriebenen Fahrzeuge der Klassen M1 und N1 hinsichtlich der Messung des Stromverbrauchs und der elektrischen Reichweite; zuletzt geändert durch Änderungsserie 01 Ergänzung 9, in Kraft seit 3. Januar 2021 (Add.100 Rev.3 Änd.8).</td></tr>
+<tr><td>UNECE-Reglement Nr. 102[^annex2-lvlu1-lvl1-lvl12-62]</td><td colspan="2">UNECE-Reglement Nr. 102 vom 13. Dezember 1996 über einheitliche Vorschriften für die Genehmigung: I einer Kurzkupplungseinrichtung; II von Fahrzeugen hinsichtlich des Anbaus eines genehmigten Typs einer Kurzkupplungseinrichtung; (Add.101).</td></tr>
+<tr><td>UNECE-Reglement Nr. 103[^annex2-lvlu1-lvl1-lvl12-63]</td><td colspan="2">UNECE-Reglement Nr. 103 vom 23. Februar 1997 über einheitliche Vorschriften für die Genehmigung von Austauschkatalysatoren; zuletzt geändert durch Ergänzung 4, in Kraft seit 10. Juni 2014 (Add.102 Rev.1 Änd.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 104[^annex2-lvlu1-lvl1-lvl12-64]</td><td colspan="2">UNECE-Reglement Nr. 104 vom 15. Januar 1998 über einheitliche Vorschriften für die Genehmigung retroreflektierender Markierungen für Fahrzeuge der Klassen M, N und O; zuletzt geändert durch Änderungsserie 01, in Kraft seit 15. Oktober 2019 (Add.103 Rev.1 Änd.4).</td></tr>
+<tr><td>UNECE-Reglement Nr. 105[^annex2-lvlu1-lvl1-lvl12-65]</td><td colspan="2">UNECE-Reglement Nr. 105 vom 7. Mai 1998 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen für den Transport gefährlicher Güter hinsichtlich ihrer speziellen Konstruktionsmerkmale; zuletzt geändert durch Änderungsserie 06 Ergänzung 1, in Kraft seit 28. Mai 2019 (Add.104 Rev.3 Änd.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 106[^annex2-lvlu1-lvl1-lvl12-66]</td><td colspan="2">UNECE-Reglement Nr. 106 vom 7. Mai 1998 über einheitliche Vorschriften für die Genehmigung der Luftreifen für landwirtschaftliche Fahrzeuge und ihre Anhänger; zuletzt geändert durch Ergänzung 19, in Kraft seit 30. September 2021 (Add.105 Rev.2 Änd.9).</td></tr>
+<tr><td>UNECE-Reglement Nr. 107[^annex2-lvlu1-lvl1-lvl12-67]</td><td colspan="2">UNECE-Reglement Nr. 107 vom 18. Juni 1998 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen der Klassen M2 und M3 hinsichtlich ihrer allgemeinen Konstruktionsmerkmale; zuletzt geändert durch Änderungsserie 09, in Kraft seit 30. September 2021 (Add.106 Rev.9).</td></tr>
+<tr><td>UNECE-Reglement Nr. 108[^annex2-lvlu1-lvl1-lvl12-68]</td><td colspan="2">UNECE-Reglement Nr. 108 vom 23. Juni 1998 über einheitliche Vorschriften für die Genehmigung der Herstellung runderneuerter Luftreifen für Motorfahrzeuge und ihre Anhänger; zuletzt geändert durch Ergänzung 5, in Kraft seit 3. Januar 2021 (Add.107 Änd.5).</td></tr>
+<tr><td>UNECE-Reglement Nr. 109[^annex2-lvlu1-lvl1-lvl12-69]</td><td colspan="2">UNECE-Reglement Nr. 109 vom 23. Juni 1998 über einheitliche Vorschriften für die Genehmigung der Herstellung runderneuerter Luftreifen für Nutzfahrzeuge und ihre Anhänger; zuletzt geändert durch Ergänzung 10, in Kraft seit 3. Juni 2021 (Add.108 Rev.1 Änd.4).</td></tr>
+<tr><td>UNECE-Reglement Nr. 110[^annex2-lvlu1-lvl1-lvl12-70]</td><td colspan="2">UNECE-Reglement Nr. 110 vom 28. Dezember 2000 über einheitliche Vorschriften für die Genehmigung der: I speziellen Bauteile von Motorfahrzeugen, in deren Antriebssystem komprimiertes Erdgas (CNG) verwendet wird; II Fahrzeuge hinsichtlich des Einbaus spezieller Bauteile eines genehmigten Typs für die Verwendung von komprimiertem Erdgas (CNG) in ihrem Antriebssystem; zuletzt geändert durch Änderungsserie 04 Ergänzung 2, in Kraft seit 25. September 2020 (Add.109 Rev.6 Änd.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 111[^annex2-lvlu1-lvl1-lvl12-71]</td><td colspan="2">UNECE-Reglement Nr. 111 vom 28. Dezember 2000 über einheitliche Vorschriften für die Genehmigung von Tankfahrzeugen der Klassen N und O hinsichtlich der Überschlagsicherheit; geändert durch Ergänzung 1, in Kraft seit 4. April 2005 (Add.110 Änd.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 112[^annex2-lvlu1-lvl1-lvl12-72]</td><td colspan="2">UNECE-Reglement Nr. 112 vom 21. September 2001 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeug-Scheinwerfern für asymmetrisches Abblendlicht und/oder Fernlicht, ausgerüstet mit Glühlampen und/oder Leuchtdioden-Modulen (LED); zuletzt geändert durch Änderungsserie 02 Ergänzung 1, in Kraft seit 29. Mai 2020 (Add.111 Rev.3 Änd.7).</td></tr>
+<tr><td>UNECE-Reglement Nr. 113[^annex2-lvlu1-lvl1-lvl12-73]</td><td colspan="2">UNECE-Reglement Nr. 113 vom 21. September 2001 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeug-Scheinwerfern für symmetrisches Abblendlicht und/oder Fernlicht, ausgerüstet mit Glühlampen, Gasentladungs-Lichtquellen oder LED-Modulen; zuletzt geändert durch Änderungsserie 03 Ergänzung 2, in Kraft seit 30. September 2021 (Add.112 Rev.5).</td></tr>
+<tr><td>UNECE-Reglement Nr. 114[^annex2-lvlu1-lvl1-lvl12-74]</td><td colspan="2">UNECE-Reglement Nr. 114 vom 1. Februar 2003 über einheitliche Vorschriften für die Genehmigung: I eines Airbag-Moduls für ein Ersatz-Airbag-System; II eines Ersatz-Lenkrades, ausgestattet mit einem genehmigten Typ eines Airbag-Moduls; III eines Ersatz-Airbag-Systems, welches nicht in einem Ersatz-Lenkrad eingebaut ist; (Add.113).</td></tr>
+<tr><td>UNECE-Reglement Nr. 115[^annex2-lvlu1-lvl1-lvl12-75]</td><td colspan="2">UNECE-Reglement Nr. 115 vom 30. Oktober 2003 über einheitliche Vorschriften für die Genehmigung der: I speziellen Nachrüstsysteme für Flüssiggas (LPG) zum Einbau in Motorfahrzeuge zur Verwendung von Flüssiggas in ihrem Antriebssystem; II speziellen Nachrüstsysteme für komprimiertes Erdgas (CNG) zum Einbau in Motorfahrzeuge zur Verwendung von komprimiertem Erdgas in ihrem Antriebssystem; zuletzt geändert durch Ergänzung 10, in Kraft seit 9. Juni 2021 (Add.114 Rev.1 Änd.5).</td></tr>
+<tr><td>UNECE-Reglement Nr. 116[^annex2-lvlu1-lvl1-lvl12-76]</td><td colspan="2">UNECE-Reglement Nr. 116 vom 6. April 2005 über einheitliche technische Vorschriften hinsichtlich des Schutzes von Motorfahrzeugen gegen die unbefugte Verwendung; zuletzt geändert durch Ergänzung 8, in Kraft seit 30. September 2021 (Add.115 Änd.8).</td></tr>
+<tr><td>UNECE-Reglement Nr. 117[^annex2-lvlu1-lvl1-lvl12-77]</td><td colspan="2">UNECE-Reglement Nr. 117 vom 6. April 2005 über einheitliche Vorschriften für die Genehmigung von Reifen hinsichtlich der Rollgeräuschemissionen und/oder der Haftung auf nassen Oberflächen und/oder des Rollwiderstandes; zuletzt geändert durch Änderungsserie 02 Ergänzung 13, in Kraft seit 30. September 2021 (Add.116 Rev.4 Änd.5).</td></tr>
+<tr><td>UNECE-Reglement Nr. 118[^annex2-lvlu1-lvl1-lvl12-78]</td><td colspan="2">UNECE-Reglement Nr. 118 vom 6. April 2005 über einheitliche Vorschriften über das Brennverhalten und/oder die Dichtigkeit gegenüber Treibstoffen und Schmiermitteln von verwendeten Ausstattungen in der Konstruktion von Motorfahrzeugen bestimmter Klassen; zuletzt geändert durch Änderungsserie 04, in Kraft seit 30. September 2021 (Add.117 Rev.3).</td></tr>
+<tr><td>UNECE-Reglement Nr. 119[^annex2-lvlu1-lvl1-lvl12-79]</td><td colspan="2">UNECE-Reglement Nr. 119 vom 6. April 2005 über einheitliche Vorschriften für die Genehmigung von Abbiegescheinwerfern für Motorfahrzeuge; zuletzt geändert durch Änderungsserie 02, in Kraft seit 15. Oktober 2019 (Add.118 Rev.3).</td></tr>
+<tr><td>UNECE-Reglement Nr. 120[^annex2-lvlu1-lvl1-lvl12-80]</td><td colspan="2">UNECE-Reglement Nr. 120 vom 6. April 2005 über einheitliche Vorschriften für die Genehmigung von Verbrennungsmotoren für land- und forstwirtschaftliche Traktoren sowie für mobile Maschinen und Geräte, die nicht für den Strassenverkehr bestimmt sind, hinsichtlich der Messung der Nutzleistung, des Nutzdrehmoments und des spezifischen Kraftstoffverbrauchs; zuletzt geändert durch Änderungsserie 02, in Kraft seit 29. Dezember 2018 (Add.119 Rev.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 121[^annex2-lvlu1-lvl1-lvl12-81]</td><td colspan="2">UNECE-Reglement Nr. 121 vom 18. Januar 2006 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen hinsichtlich der Anordnung und Kennzeichnung der Handbetätigungseinrichtungen, Kontrollleuchten und Anzeiger; zuletzt geändert durch Änderungsserie 01 Ergänzung 4, in Kraft seit 25. September 2020 (Add.120 Rev.2 Änd.4).</td></tr>
+<tr><td>UNECE-Reglement Nr. 122[^annex2-lvlu1-lvl1-lvl12-82]</td><td colspan="2">UNECE-Reglement Nr. 122 vom 18. Januar 2006 über einheitliche technische Vorschriften für die Typengenehmigung von Fahrzeugen der Klassen M, N und O hinsichtlich ihrer Heizungssysteme; zuletzt geändert durch Ergänzung 6, in Kraft seit 25. September 2020 (Add.121 Änd.6).</td></tr>
+<tr><td>UNECE-Reglement Nr. 123[^annex2-lvlu1-lvl1-lvl12-83]</td><td colspan="2">UNECE-Reglement Nr. 123 vom 2. Februar 2007 über einheitliche Vorschriften für die Genehmigung von adaptiven Frontbeleuchtungssystemen (AFS) für Motorfahrzeuge; zuletzt geändert durch Änderungsserie 02 Ergänzung 2, in Kraft seit 30. September 2021 (Add.122 Rev.3).</td></tr>
+<tr><td>UNECE-Reglement Nr. 124[^annex2-lvlu1-lvl1-lvl12-84]</td><td colspan="2">UNECE-Reglement Nr. 124 vom 2. Februar 2007 über einheitliche Vorschriften für die Genehmigung von Rädern für Personenwagen und ihre Anhänger; zuletzt geändert durch Ergänzung 2, in Kraft seit 30. September 2021 (Add.123 Änd.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 125[^annex2-lvlu1-lvl1-lvl12-85]</td><td colspan="2">UNECE-Reglement Nr. 125 vom 9. November 2007 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen hinsichtlich des Sichtfeldes des Fahrzeugführers nach vorn; zuletzt geändert durch Änderungsserie 01 Ergänzung 2, in Kraft seit 30. September 2021 (Add.124 Rev.2 Änd.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 126[^annex2-lvlu1-lvl1-lvl12-86]</td><td colspan="2">UNECE-Reglement Nr. 126 vom 9. November 2007 über einheitliche Vorschriften für die Genehmigung von nachrüstbaren Trennsystemen zum Schutz von Fahrzeuginsassen vor Gepäck, das sich aus seiner Lage verschiebt (Add.125).</td></tr>
+<tr><td>UNECE-Reglement Nr. 127[^annex2-lvlu1-lvl1-lvl12-87]</td><td colspan="2">UNECE-Reglement Nr. 127 vom 17. November 2012 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen hinsichtlich ihrer Eigenschaften in Bezug auf den Fussgängerschutz; zuletzt geändert durch Änderungsserie 02, in Kraft seit 18. Juni 2016 (Add.126 Rev.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 128[^annex2-lvlu1-lvl1-lvl12-88]</td><td colspan="2">UNECE-Reglement Nr. 128 vom 17. November 2012 über einheitliche Vorschriften für die Genehmigung von Leuchtdioden-Lichtquellen (LED) zur Verwendung in genehmigten Leuchteinheiten von Motorfahrzeugen und ihren Anhängern; zuletzt geändert durch Ergänzung 10, in Kraft seit 25. September 2020 (Add.127 Änd.10).</td></tr>
+<tr><td>UNECE-Reglement Nr. 129[^annex2-lvlu1-lvl1-lvl12-89]</td><td colspan="2">UNECE-Reglement Nr. 129 vom 9. Juli 2013 über einheitliche Vorschriften für die Genehmigung von weiterentwickelten Kinderrückhaltesystemen (ECRS); zuletzt geändert durch Änderungsserie 03 Ergänzung 4, in Kraft seit 3. Januar 2021 (Add.128 Rev.4 Änd.4).</td></tr>
+<tr><td>UNECE-Reglement Nr. 130[^annex2-lvlu1-lvl1-lvl12-90]</td><td colspan="2">UNECE-Reglement Nr. 130 vom 9. Juli 2013 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen hinsichtlich ihres Spurhaltewarnsystems (LDWS); geändert durch Ergänzung 1, in Kraft seit 8. Oktober 2016 (Add.129 Änd.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 131[^annex2-lvlu1-lvl1-lvl12-91]</td><td colspan="2">UNECE-Reglement Nr. 131 vom 9. Juli 2013 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen hinsichtlich ihres Notbrems-Assistenzsystems (AEBS); zuletzt geändert durch Änderungsserie 01 Ergänzung 2, in Kraft seit 8. Oktober 2016 (Add.130 Rev.1 Änd.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 132[^annex2-lvlu1-lvl1-lvl12-92]</td><td colspan="2">UNECE-Reglement Nr. 132 vom 17. Juni 2014 über einheitliche Vorschriften für die Genehmigung von Nachrüst-Abgasreinigungsanlagen (REC) für schwere Nutzfahrzeuge, land- und forstwirtschaftliche Traktoren und für mobile Maschinen und Geräte, ausgerüstet mit Kompressionszündungsmotoren; geändert durch Änderungsserie 01 Ergänzung 1, in Kraft seit 28. Mai 2019 (Add.131 Rev.1 Änd.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 133[^annex2-lvlu1-lvl1-lvl12-93]</td><td colspan="2">UNECE-Reglement Nr. 133 vom 17. Juni 2014 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen hinsichtlich ihrer Wiederverwendbarkeit, Rezyklierbarkeit und Verwertbarkeit (Add.132).</td></tr>
+<tr><td>UNECE-Reglement Nr. 134[^annex2-lvlu1-lvl1-lvl12-94]</td><td colspan="2">UNECE-Reglement Nr. 134 vom 15. Juni 2015 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen und ihrer Bauteile hinsichtlich den Sicherheitsvorschriften für wasserstoffbetriebene Fahrzeuge; zuletzt geändert durch Ergänzung 3, in Kraft seit 19. Juli 2018 (Add.133 Änd.3).</td></tr>
+<tr><td>UNECE-Reglement Nr. 135[^annex2-lvlu1-lvl1-lvl12-95]</td><td colspan="2">UNECE-Reglement Nr. 135 vom 15. Juni 2015 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen hinsichtlich ihres Verhaltens bei Seitenaufprall-Tests gegen einen Pfahl; zuletzt geändert durch Änderungsserie 01 Ergänzung 2, in Kraft seit 29. Mai 2020 (Add.134 Rev.1 Änd.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 136[^annex2-lvlu1-lvl1-lvl12-96]</td><td>UNECE-Reglement Nr. 136 vom 20. Januar 2016 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen der Klasse L hinsichtlich der besonderen Anforderungen an den elektrischen Antriebsstrang (Add.135).</td></tr>
+<tr><td>UNECE-Reglement Nr. 137[^annex2-lvlu1-lvl1-lvl12-97]</td><td>UNECE-Reglement Nr. 137 vom 9. Juni 2016 über einheitliche Vorschriften für die Genehmigung von Personenwagen in Bezug auf den Insassenschutz bei einem Frontaufprall, mit Schwerpunkt auf Rückhaltesysteme; zuletzt geändert durch Änderungsserie 02, in Kraft seit 9. Juni 2021 (Add.136 Rev.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 138[^annex2-lvlu1-lvl1-lvl12-98]</td><td>UNECE-Reglement Nr. 138 vom 5. Oktober 2016 über einheitliche Vorschriften für die Genehmigung von geräuscharmen Strassenfahrzeugen im Hinblick auf ihre reduzierte Wahrnehmbarkeit; zuletzt geändert durch Änderungsserie 01 Ergänzung 2, in Kraft seit 3. Januar 2021 (Add.137 Rev.1 Änd.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 139[^annex2-lvlu1-lvl1-lvl12-99]</td><td>UNECE-Reglement Nr. 139 vom 22. Januar 2017 über einheitliche Vorschriften für die Genehmigung von Personenwagen im Hinblick auf das Bremsassistenzsystem (BAS); geändert durch Ergänzung 1, in Kraft seit 29. Dezember 2018 (Add.138 Änd.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 140[^annex2-lvlu1-lvl1-lvl12-100]</td><td>UNECE-Reglement Nr. 140 vom 22. Januar 2017 über einheitliche Vorschriften für die Genehmigung von Personenwagen im Hinblick auf das Fahrdynamik-Regelsystem; zuletzt geändert durch Ergänzung 4, in Kraft seit 3. Januar 2021 (Add.139 Änd.4).</td></tr>
+<tr><td>UNECE-Reglement Nr. 141[^annex2-lvlu1-lvl1-lvl12-101]</td><td>UNECE-Reglement Nr. 141 vom 22. Januar 2017 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen im Hinblick auf das Reifendruck-Überwachungssystem; geändert durch Änderungsserie 01, in Kraft seit 30. September 2021 (Add.140 Rev.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 142[^annex2-lvlu1-lvl1-lvl12-102]</td><td>UNECE-Reglement Nr. 142 vom 22. Januar 2017 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen im Hinblick auf die Montage ihrer Reifen; zuletzt geändert durch Änderungsserie 01, in Kraft seit 30. September 2021 (Add.141 Rev.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 143[^annex2-lvlu1-lvl1-lvl12-103]</td><td>UNECE-Reglement Nr. 143 vom 19. Juni 2017 über einheitliche Vorschriften für die Genehmigung von Nachrüstsystemen für Dual-Fuel-Motoren von schweren Motorfahrzeugen, bestimmt zum Einbau in deren Dieselmotoren und schwere Motorfahrzeuge (HDDF-ERS); geändert durch Ergänzung 1, in Kraft seit 10. Februar 2018 (Add.142 Änd.1).</td></tr>
+<tr><td>UNECE- Reglement Nr. 144[^annex2-lvlu1-lvl1-lvl12-104]</td><td>UNECE-Reglement Nr. 144 vom 19. Juli 2018 über einheitliche Vorschriften für die Genehmigung von Unfall-Notrufsystemen (AECS); zuletzt geändert durch Änderungsserie 01 Ergänzung 1, in Kraft seit 9. Juni 2021 (Add.143 Rev.1 Änd.1).</td></tr>
+<tr><td>UNECE- Reglement Nr. 145[^annex2-lvlu1-lvl1-lvl12-105]</td><td>UNECE-Reglement Nr. 145 vom 19. Juli 2018 über einheitliche Vorschriften für die Genehmigung von ISOFIX-Verankerungssystemen, obere ISOFIX-Verankerungspunkte und i-Size-Sitzpositionen (Add.144).</td></tr>
+<tr><td>UNECE- Reglement Nr. 146[^annex2-lvlu1-lvl1-lvl12-106]</td><td>UNECE-Reglement Nr. 146 vom 2. Januar 2019 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen und ihrer Bauteile hinsichtlich deren Sicherheit, für wasserstoffbetriebene Fahrzeuge der Klassen L1, L2, L3, L4 und L5 (Add. 145).</td></tr>
+<tr><td>UNECE- Reglement Nr. 147[^annex2-lvlu1-lvl1-lvl12-107]</td><td>UNECE-Reglement Nr. 147 vom 2. Januar 2019 über einheitliche Vorschriften für die Genehmigung von mechanischen Verbindungseinrichtungen für landwirtschaftliche Fahrzeugkombinationen (Add. 146).</td></tr>
+<tr><td>UNECE-Reglement Nr. 148[^annex2-lvlu1-lvl1-lvl12-108]</td><td>UNECE-Reglement Nr. 148 vom 15. November 2019 über einheitliche Vorschriften für die Genehmigung von Lichtsignaleinrichtungen für Motorfahrzeuge und ihre Anhänger; zuletzt geändert durch Ergänzung 3, in Kraft seit 30. September 2021 (Add.147 Änd.3).</td></tr>
+<tr><td>UNECE- Reglement Nr. 149[^annex2-lvlu1-lvl1-lvl12-109]</td><td>UNECE-Reglement Nr. 149 vom 15. November 2019 über einheitliche Vorschriften für die Genehmigung von Fahrbahnbeleuchtungseinrichtungen für Motorfahrzeuge; zuletzt geändert durch Ergänzung 3, in Kraft seit 30. September 2021 (Add.148 Änd.3).</td></tr>
+<tr><td>UNECE- Reglement Nr. 150[^annex2-lvlu1-lvl1-lvl12-110]</td><td>UNECE-Reglement Nr. 150 vom 15. November 2019 über einheitliche Vorschriften für die Genehmigung von retroreflektierenden Einrichtungen für Motorfahrzeuge und ihre Anhänger; zuletzt geändert durch Ergänzung 3, in Kraft seit 30. September 2021 (Add.149 Änd.3).</td></tr>
+<tr><td>UNECE- Reglement Nr. 151[^annex2-lvlu1-lvl1-lvl12-111]</td><td>UNECE-Reglement Nr. 151 vom 15. November 2019 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen hinsichtlich des Totwinkel-Assistenzsystems zur Erkennung von Fahrrädern; zuletzt geändert durch Ergänzung 2, in Kraft seit 9. Juni 2021 (Add.150 Änd.2).</td></tr>
+<tr><td>UNECE- Reglement Nr. 152[^annex2-lvlu1-lvl1-lvl12-112]</td><td>UNECE-Reglement Nr. 152 vom 23. Januar 2020 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen der Klassen M1 und N1 hinsichtlich ihres Notbrems-Assistenzsystems (AEBS); zuletzt geändert durch Änderungsserie 02, in Kraft seit 30. September 2021 (Add.151 Rev.2).</td></tr>
+<tr><td>UNECE- Reglement Nr. 153[^annex2-lvlu1-lvl1-lvl12-113]</td><td>UNECE-Reglement Nr. 153 vom 22. Januar 2021 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen hinsichtlich der Integrität des Kraftstoffversorgungssystems und der Sicherheit des elektrischen Antriebsstrangs bei einem Heckaufprall; geändert durch Ergänzung 1, in Kraft seit 9. Juni 2021 (Add.152 Änd.1).</td></tr>
+<tr><td>UNECE- Reglement Nr. 154[^annex2-lvlu1-lvl1-lvl12-114]</td><td>UNECE-Reglement Nr. 154 vom 22. Januar 2021 über einheitliche Vorschriften für die Genehmigung von Personenwagen und leichten Nutzfahrzeugen hinsichtlich der Emissionen gasförmiger Schadstoffe aus dem Motor, der Kohlendioxidemissionen und des Kraftstoffverbrauchs und/oder der Messung des elektrischen Energieverbrauchs und der elektrischen Reichweite (WLTP); zuletzt geändert durch Änderungsserie 01 Ergänzung 1, in Kraft seit 30. September 2021 (Add.153 Rev.1 Änd.1).</td></tr>
+<tr><td>UNECE- Reglement Nr. 155[^annex2-lvlu1-lvl1-lvl12-115]</td><td>UNECE-Reglement Nr. 155 vom 22. Januar 2021 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen hinsichtlich der Cybersicherheit und des Cybersicherheits-Managementsystems (Add.154).</td></tr>
+<tr><td>UNECE- Reglement Nr. 156[^annex2-lvlu1-lvl1-lvl12-116]</td><td>UNECE-Reglement Nr. 156 vom 22. Januar 2021 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen hinsichtlich der Softwareaktualisierung und des Softwareaktualisierungs-Managementsystems (Add.155).</td></tr>
+<tr><td>UNECE- Reglement Nr. 157[^annex2-lvlu1-lvl1-lvl12-117]</td><td>UNECE-Reglement Nr. 157 vom 22. Januar 2021 über einheitliche Vorschriften für die Genehmigung von Fahrzeugen hinsichtlich des automatisierten Spurhaltesystems; geändert durch Ergänzung 1, in Kraft seit 30. September 2021 (Add.156 Änd.1).</td></tr>
+<tr><td>UNECE- Reglement Nr. 158</td><td>UNECE-Reglement Nr. 158 vom 10. Juni 2021 über einheitliche Vorschriften für die Genehmigung von Einrichtungen zur Unterstützung der Sicht beim Rückwärtsfahren, und von Motorfahrzeugen im Hinblick auf das Erkennen ungeschützter Verkehrsteilnehmer hinter dem Fahrzeug, durch den Fahrer (Add. 157).</td></tr>
+<tr><td>UNECE- Reglement Nr. 159</td><td>UNECE-Reglement Nr. 159 vom 10. Juni 2021 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen im Hinblick auf das Anfahr-Informationssystem zur Erkennung von Fussgängern und Radfahrern (Add. 158).</td></tr>
+<tr><td>UNECE- Reglement Nr. 160</td><td>UNECE-Reglement Nr. 160 vom 30. September 2021 über einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen im Hinblick auf den Ereignisdatenspeicher (Unfalldatenschreiber) (Add. 159).</td></tr>
+<tr><td>UNECE- Reglement Nr. 161</td><td>UNECE-Reglement Nr. 161 vom 30. September 2021 über einheitliche Vorschriften über den Schutz von Motorfahrzeugen gegen unbefugte Benutzung und die Genehmigung der Schutzeinrichtung gegen unbefugte Benutzung (mittels einer Schließanlage) (Add. 160).</td></tr>
+<tr><td>UNECE- Reglement Nr. 162</td><td>UNECE-Reglement Nr. 162 vom 30. September 2021 über einheitliche Vorschriften für die Genehmigung von Wegfahrsperren und für die Genehmigung eines Fahrzeugs hinsichtlich seiner Wegfahrsperre (Add. 161).</td></tr>
+<tr><td>UNECE- Reglement Nr. 163</td><td>UNECE-Reglement Nr. 163 vom 30. September 2021 über einheitliche Vorschriften für die Genehmigung von Fahrzeugalarmanlagen und die Genehmigung eines Fahrzeugs hinsichtlich seiner Alarmanlage (Add. 162).</td></tr>
 </table>
 
-[^annex2-lvlu1-lvl1-lvl12-1]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-1]: [AS 2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85)
 [^annex2-lvlu1-lvl1-lvl12-2]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-3]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-4]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-5]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-6]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-7]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
-[^annex2-lvlu1-lvl1-lvl12-8]: [AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
-[^annex2-lvlu1-lvl1-lvl12-9]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-8]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-9]: [AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
 [^annex2-lvlu1-lvl1-lvl12-10]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
-[^annex2-lvlu1-lvl1-lvl12-11]: [AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
-[^annex2-lvlu1-lvl1-lvl12-12]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-11]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-12]: [AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
 [^annex2-lvlu1-lvl1-lvl12-13]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-14]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-15]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
@@ -5867,8 +5907,8 @@ Anhang 2*[^t-1]*
 [^annex2-lvlu1-lvl1-lvl12-31]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-32]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-33]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
-[^annex2-lvlu1-lvl1-lvl12-34]: [AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
-[^annex2-lvlu1-lvl1-lvl12-35]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-34]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-35]: [AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
 [^annex2-lvlu1-lvl1-lvl12-36]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-37]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-38]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
@@ -5882,17 +5922,17 @@ Anhang 2*[^t-1]*
 [^annex2-lvlu1-lvl1-lvl12-46]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-47]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-48]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
-[^annex2-lvlu1-lvl1-lvl12-49]: [AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
-[^annex2-lvlu1-lvl1-lvl12-50]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-49]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-50]: [AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
 [^annex2-lvlu1-lvl1-lvl12-51]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-52]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-53]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
-[^annex2-lvlu1-lvl1-lvl12-54]: [AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
-[^annex2-lvlu1-lvl1-lvl12-55]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-54]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-55]: [AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
 [^annex2-lvlu1-lvl1-lvl12-56]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
-[^annex2-lvlu1-lvl1-lvl12-57]: [AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
+[^annex2-lvlu1-lvl1-lvl12-57]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-58]: [AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
-[^annex2-lvlu1-lvl1-lvl12-59]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
+[^annex2-lvlu1-lvl1-lvl12-59]: [AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
 [^annex2-lvlu1-lvl1-lvl12-60]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-61]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-62]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
@@ -5908,7 +5948,7 @@ Anhang 2*[^t-1]*
 [^annex2-lvlu1-lvl1-lvl12-72]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-73]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-74]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
-[^annex2-lvlu1-lvl1-lvl12-75]: [AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
+[^annex2-lvlu1-lvl1-lvl12-75]: [AS 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527)
 [^annex2-lvlu1-lvl1-lvl12-76]: [AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
 [^annex2-lvlu1-lvl1-lvl12-77]: [AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
 [^annex2-lvlu1-lvl1-lvl12-78]: [AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
@@ -5919,23 +5959,38 @@ Anhang 2*[^t-1]*
 [^annex2-lvlu1-lvl1-lvl12-83]: [AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
 [^annex2-lvlu1-lvl1-lvl12-84]: [AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
 [^annex2-lvlu1-lvl1-lvl12-85]: [AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
-[^annex2-lvlu1-lvl1-lvl12-86]: [AS 2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458)
+[^annex2-lvlu1-lvl1-lvl12-86]: [AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
 [^annex2-lvlu1-lvl1-lvl12-87]: [AS 2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458)
 [^annex2-lvlu1-lvl1-lvl12-88]: [AS 2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458)
 [^annex2-lvlu1-lvl1-lvl12-89]: [AS 2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458)
 [^annex2-lvlu1-lvl1-lvl12-90]: [AS 2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458)
 [^annex2-lvlu1-lvl1-lvl12-91]: [AS 2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458)
 [^annex2-lvlu1-lvl1-lvl12-92]: [AS 2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458)
-[^annex2-lvlu1-lvl1-lvl12-93]: [AS 2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454)
+[^annex2-lvlu1-lvl1-lvl12-93]: [AS 2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458)
 [^annex2-lvlu1-lvl1-lvl12-94]: [AS 2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454)
-[^annex2-lvlu1-lvl1-lvl12-95]: [AS 2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620)
+[^annex2-lvlu1-lvl1-lvl12-95]: [AS 2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454)
 [^annex2-lvlu1-lvl1-lvl12-96]: [AS 2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620)
 [^annex2-lvlu1-lvl1-lvl12-97]: [AS 2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620)
-[^annex2-lvlu1-lvl1-lvl12-98]: [AS 2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444)
+[^annex2-lvlu1-lvl1-lvl12-98]: [AS 2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620)
 [^annex2-lvlu1-lvl1-lvl12-99]: [AS 2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444)
 [^annex2-lvlu1-lvl1-lvl12-100]: [AS 2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444)
 [^annex2-lvlu1-lvl1-lvl12-101]: [AS 2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444)
 [^annex2-lvlu1-lvl1-lvl12-102]: [AS 2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444)
+[^annex2-lvlu1-lvl1-lvl12-103]: [AS 2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444)
+[^annex2-lvlu1-lvl1-lvl12-104]: [AS 2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85)
+[^annex2-lvlu1-lvl1-lvl12-105]: [AS 2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85)
+[^annex2-lvlu1-lvl1-lvl12-106]: [AS 2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85)
+[^annex2-lvlu1-lvl1-lvl12-107]: [AS 2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85)
+[^annex2-lvlu1-lvl1-lvl12-108]: [AS 2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88)
+[^annex2-lvlu1-lvl1-lvl12-109]: [AS 2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88)
+[^annex2-lvlu1-lvl1-lvl12-110]: [AS 2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88)
+[^annex2-lvlu1-lvl1-lvl12-111]: [AS 2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88)
+[^annex2-lvlu1-lvl1-lvl12-112]: [AS 2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88)
+[^annex2-lvlu1-lvl1-lvl12-113]: [AS 2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211)
+[^annex2-lvlu1-lvl1-lvl12-114]: [AS 2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211)
+[^annex2-lvlu1-lvl1-lvl12-115]: [AS 2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211)
+[^annex2-lvlu1-lvl1-lvl12-116]: [AS 2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211)
+[^annex2-lvlu1-lvl1-lvl12-117]: [AS 2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211)
 
 ### 13 OECD-Normenkodizes
 
@@ -5977,9 +6032,9 @@ Anhang 2*[^t-1]*
 
 <table>
 <tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
-<tr><th>Richtlinie 97/68/EG</th><th>Richtlinie 97/68/EG des Europäischen Parlaments und des Rates vom 16. Dezember 1997 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Massnahmen zur Bekämpfung der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln aus Verbrennungsmotoren für mobile Maschinen und Geräte, ABl. L 59 vom 27.2.1998, S. 1; zuletzt geändert durch Verordnung (EU) 2016/1628, ABl. L 252 vom 16.9.2016, S. 53.</th></tr>
-<tr><td>Verordnung (EU) 2016/1628</td><td colspan="2">Verordnung (EU) 2016/1628 des Europäischen Parlaments und des Rates vom 14. September 2016 über die Anforderungen in Bezug auf die Emissionsgrenzwerte für gasförmige Schadstoffe und luftverunreinigende Partikel und die Typengenehmigung für Verbrennungsmotoren für nicht für den Strassenverkehr bestimmte mobile Maschinen und Geräte, zur Änderung der Verordnungen (EU) Nr. 1024/2012 und (EU) Nr. 167/2013 und zur Änderung und Aufhebung der Richtlinie 97/68/EG, ABl. L 252 vom 16.9.2016, S. 53; geändert durch Verordnung (EU) 2017/656, ABl. L 102 vom 13.4.2017, S. 364.</td></tr>
-<tr><td>Verordnung (EU) 2017/654</td><td>Delegierte Verordnung (EU) 2017/654 der Kommission vom 19. Dezember 2016 zur Ergänzung der Verordnung (EU) 2016/1628 des Europäischen Parlaments und des Rates hinsichtlich technischer und allgemeiner Anforderungen in Bezug auf die Emissionsgrenzwerte und die Typgenehmigung von Verbrennungsmotoren für nicht für den Strassenverkehr bestimmte mobile Maschinen und Geräte, ABl. L 102 vom 13.4.2017, S. 1; geändert durch Verordnung (EU) 2018/989, ABl. L 182 vom 18.7.2018, S. 61.</td></tr>
+<tr><td>Richtlinie 97/68/EG</td><td>Richtlinie 97/68/EG des Europäischen Parlaments und des Rates vom 16. Dezember 1997 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Massnahmen zur Bekämpfung der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln aus Verbrennungsmotoren für mobile Maschinen und Geräte, ABl. L 59 vom 27.2.1998, S. 1; zuletzt geändert durch Verordnung (EU) 2016/1628, ABl. L 252 vom 16.9.2016, S. 53.</td></tr>
+<tr><td>Verordnung (EU) 2016/1628</td><td colspan="2">Verordnung (EU) 2016/1628 des Europäischen Parlaments und des Rates vom 14. September 2016 über die Anforderungen in Bezug auf die Emissionsgrenzwerte für gasförmige Schadstoffe und luftverunreinigende Partikel und die Typgenehmigung für Verbrennungsmotoren für nicht für den Strassenverkehr bestimmte mobile Maschinen und Geräte, zur Änderung der Verordnungen (EU) Nr. 1024/2012 und (EU) Nr. 167/2013 und zur Änderung und Aufhebung der Richtlinie 97/68/EG, ABl. L 252 vom 16.9.2016, S. 53; zuletzt geändert durch Verordnung (EU) 2021/1068, ABl. L 230 vom 30.6.2021, S. 1.</td></tr>
+<tr><td>Verordnung (EU) 2017/654</td><td>Delegierte Verordnung (EU) 2017/654 der Kommission vom 19. Dezember 2016 zur Ergänzung der Verordnung (EU) 2016/1628 des Europäischen Parlaments und des Rates hinsichtlich technischer und allgemeiner Anforderungen in Bezug auf die Emissionsgrenzwerte und die Typgenehmigung von Verbrennungsmotoren für nicht für den Strassenverkehr bestimmte mobile Maschinen und Geräte, ABl. L 102 vom 13.4.2017, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2021/1398, ABl. L 299 vom 24.8.2021, S. 1.</td></tr>
 <tr><td>Verordnung (EU) 2017/655</td><td colspan="2">Delegierte Verordnung (EU) 2017/655 der Kommission vom 19. Dezember 2016 zur Ergänzung der Verordnung (EU) 2016/1628 des Europäischen Parlaments und des Rates im Hinblick auf die Überwachung der Emissionen gasförmiger Schadstoffe von in Betrieb befindlichen Verbrennungsmotoren in nicht für den Strassenverkehr bestimmten mobilen Maschinen und Geräten, ABl. L 102 vom 13.4.2017, S. 334; geändert durch Verordnung (EU) 2018/987, ABl. L 182 vom 18.7.2018, S. 40.</td></tr>
 <tr><td>Verordnung (EU) 2017/656</td><td colspan="2">Durchführungsverordnung (EU) 2017/656 der Kommission vom 19. Dezember 2016 zur Festlegung der verwaltungstechnischen Anforderungen für die Emissionsgrenzwerte und die Typgenehmigung von Verbrennungsmotoren für nicht für den Strassenverkehr bestimmte mobile Maschinen und Geräte gemäss der Verordnung (EU) 2016/1628 des Europäischen Parlaments und des Rates, ABl. L 102 vom 13.4.2017, S. 364; geändert durch Verordnung (EU) 2018/988, ABl. L 182 vom 18.7.2018, S. 46.</td></tr>
 </table>
@@ -5988,8 +6043,8 @@ Anhang 2*[^t-1]*
 
 <table>
 <tr><th>UNECE-Reglement</th><th>Titel des Reglements mit Ergänzungen</th></tr>
-<tr><td>UNECE-Reglement Nr. 96</td><td>UNECE-Reglement Nr. 96 vom 15. Dezember 1995 über einheitliche Vorschriften für die Genehmigung der Motoren für land- und forstwirtschaftliche Traktoren und mobile Maschinen, die nicht für den Strassenverkehr bestimmt sind, hinsichtlich der Emissionen von Schadstoffen aus dem Motor; zuletzt geändert durch Änderungsserie 04, Ergänzung 1, in Kraft seit 15. Juni 2015 (Add.95 Rev.3 Änd.1).</td></tr>
-<tr><td>UNECE-Reglement Nr. 120[^annex2-lvlu1-lvl2-lvl22-1]</td><td>UNECE-Reglement Nr. 120 vom 6. April 2005 über einheitliche Vorschriften für die Genehmigung von Verbrennungsmotoren für land- und forstwirtschaftliche Traktoren sowie für mobile Maschinen und Geräte, die nicht für den Strassenverkehr bestimmt sind, hinsichtlich der Messung der Nutzleistung, des Nutzdrehmoments und des spezifischen Kraftstoffverbrauchs; zuletzt geändert durch Änderungsserie 01, in Kraft seit 26. Juli 2012 (Add.119 Rev.1).</td></tr>
+<tr><td>UNECE-Reglement Nr. 96</td><td>UNECE-Reglement Nr. 96 vom 15. Dezember 1995 über einheitliche Vorschriften für die Genehmigung der Motoren für land- und forstwirtschaftliche Traktoren und mobile Maschinen, die nicht für den Strassenverkehr bestimmt sind, hinsichtlich der Emissionen von Schadstoffen aus dem Motor; zuletzt geändert durch Änderungsserie 05, in Kraft seit 29. Dezember 2018 (Add.95 Rev.3 Änd.2).</td></tr>
+<tr><td>UNECE-Reglement Nr. 120[^annex2-lvlu1-lvl2-lvl22-1]</td><td>UNECE-Reglement Nr. 120 vom 6. April 2005 über einheitliche Vorschriften für die Genehmigung von Verbrennungsmotoren für land- und forstwirtschaftliche Traktoren sowie für mobile Maschinen und Geräte, die nicht für den Strassenverkehr bestimmt sind, hinsichtlich der Messung der Nutzleistung, des Nutzdrehmoments und des spezifischen Kraftstoffverbrauchs; zuletzt geändert durch Änderungsserie 02, in Kraft seit 29. Dezember 2018 (Add.119 Rev.2).</td></tr>
 </table>
 
 [^annex2-lvlu1-lvl2-lvl22-1]: [AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135)
@@ -6011,7 +6066,7 @@ Anhang 4*[^t-3]*
 (Art. 117 Abs. 2 sowie 62 Abs. 2, 144 Abs. 7 und 195 Abs. 5)
 
 <table>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image2.png)</td><td>Das Zeichen weist schwarze Zahlen auf weissem Grund und einen roten Rand auf.Es darf retroreflektierend sein.</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image2.png)</td><td>Das Zeichen weist schwarze Zahlen auf weissem Grund und einen roten Rand auf.Es darf retroreflektierend sein.</td></tr>
 </table>
 
 <table>
@@ -6029,7 +6084,7 @@ Anhang 4*[^t-3]*
 (Art. 92 Abs. 2)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image3.png)</td><td>Der Grund des Zeichens ist blau, das Symbol weiss. Seitenlänge des Quadrates 8 cm Höhe des Symbols 6,5 cm Breite des Symbols 6,5 cm Strichbreite 0,4 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image3.png)</td><td>Der Grund des Zeichens ist blau, das Symbol weiss. Seitenlänge des Quadrates 8 cm Höhe des Symbols 6,5 cm Breite des Symbols 6,5 cm Strichbreite 0,4 cm</td></tr>
 </table>
 
 ### 3 Zeichen für Fahrzeuge von Gehörlosen
@@ -6037,7 +6092,7 @@ Anhang 4*[^t-3]*
 (Art. 92 Abs. 2)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image4.png)</td><td>Der Grund des quadratischen Zeichens (Seitenlänge gleich 8 cm) ist blau, das Symbol weiss.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image4.png)</td><td>Der Grund des quadratischen Zeichens (Seitenlänge gleich 8 cm) ist blau, das Symbol weiss.</td></tr>
 </table>
 
 ### 4 Schweizerisches Landeszeichen
@@ -6047,7 +6102,7 @@ Anhang 4*[^t-3]*
 Das Landeszeichen setzt sich aus den zwei lateinischen grossen Buchstaben «CH» zusammen. Sie müssen schwarz auf einer elliptischen weissen Fläche angebracht sein, deren Hauptachse waagrecht liegt.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image5.png)</td><td>Mindestmasse: Höhe der Ellipse 11,5 cm Breite der Ellipse 17,5 cm Höhe der Buchstaben 8 cm Breite der Buchstaben 4 cm Strichbreite 1 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image5.png)</td><td>Mindestmasse: Höhe der Ellipse 11,5 cm Breite der Ellipse 17,5 cm Höhe der Buchstaben 8 cm Breite der Buchstaben 4 cm Strichbreite 1 cm</td></tr>
 </table>
 
 ### 5 Zeichen für Lernfahrzeuge
@@ -6057,7 +6112,7 @@ Das Landeszeichen setzt sich aus den zwei lateinischen grossen Buchstaben «CH»
 Die quadratförmige Tafel ist möglichst senkrecht und gut sichtbar an der Rückseite des Fahrzeuges zu befestigen. Der Grund der Tafel ist von blauer, das «L» von weisser Farbe.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image6.png)</td><td></td><td colspan="2">Masse der L-Tafel für:</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image6.png)</td><td></td><td colspan="2">Masse der L-Tafel für:</td></tr>
 <tr><td></td><td></td><td>vierrädrige Fahrzeuge</td><td>zwei- u. dreirädrige Fzge sowie Klein- u. Leichtmotorfzge.</td></tr>
 <tr><td></td><td>Seitenlänge des Quadrates Höhe des «L» Länge des waagrechten «L»-Striches Strichbreite des «L»</td><td>16,0 cm 10,0 cm 6,0 cm 2,0 cm</td><td>12,0 cm 8,0 cm 5,0 cm 1,5 cm</td></tr>
 </table>
@@ -6068,14 +6123,14 @@ Die quadratförmige Tafel ist möglichst senkrecht und gut sichtbar an der Rück
 
 Die Anzeigetafel trägt einen weissen Pfeil auf rotem Grund; beide Farben müssen aus retroreflektierendem Material sein.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image7.png)
 
 ### 7 Zeichen für Schülertransporte
 
 (Art. 123*a* Abs. 2)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image8.png)</td><td>Der Grund der quadratischen Tafel mit abgerundeten Ecken ist hellgelb (selektivgelb) oder gelb (orangenfarbig), das Symbol und der Rand sind schwarz. Das Symbol hat demjenigen des Gefahrensignals 1.23 zu entsprechen. Seitenlänge 40 cm Randbreite 2 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image8.png)</td><td>Der Grund der quadratischen Tafel mit abgerundeten Ecken ist hellgelb (selektivgelb) oder gelb (orangenfarbig), das Symbol und der Rand sind schwarz. Das Symbol hat demjenigen des Gefahrensignals 1.23 zu entsprechen. Seitenlänge 40 cm Randbreite 2 cm</td></tr>
 </table>
 
 ### 7*a* Beispiele für Hinweisschilder betreffend Gurtentragpflicht
@@ -6083,7 +6138,7 @@ Die Anzeigetafel trägt einen weissen Pfeil auf rotem Grund; beide Farben müsse
 (Art. 3*a* Abs. 3 VRV)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image9.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image10.png)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image9.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image10.png)</td></tr>
 <tr><td colspan="2">Die Symbole sind weiss, der Grund blau**.**</td></tr>
 </table>
 
@@ -6093,19 +6148,19 @@ Die Anzeigetafel trägt einen weissen Pfeil auf rotem Grund; beide Farben müsse
 
 Anordnung I
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image11.png)
 
 Anordnung II
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image12.png)
 
 Anordnung III
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image13.png)
 
 Anordnung IV
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image14.png)
 
 ### 9 Hintere Markierungstafeln für Anhänger und Sattelanhänger
 
@@ -6113,25 +6168,25 @@ Anordnung IV
 
 Anordnung I
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image15.png)
 
 Anordnung II
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image16.png)
 
 Anordnung III
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image17.png)
 
 Anordnung IV
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image18.png)
 
 ### 10 Heckmarkierungstafel für Fahrzeuge mit einer Höchstgeschwindigkeit bis 45 km/h
 
 (Art. 68 Abs. 4)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image19.png)
 
 (1) rotes retroreflektierendes Material oder prismatische Rückstrahler (Klasse 1 und Klasse 2)
 
@@ -6162,7 +6217,7 @@ Können bei besonderen Fahrzeugen, namentlich bei Arbeitsfahrzeugen, wegen ihrer
 Das Zeichen ist möglichst senkrecht und gut sichtbar an der Vorder- und Rückseite des Fahrzeugs resp. der Fahrzeugkombination zu befestigen. Der Grund des quadratischen Zeichens ist rot, das «S» gelb. Die Mindestmasse betragen:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image20.png)</td><td>Seitenlänge: Höhe des «S»: Breite des «S»: Strichbreite des «S»:</td><td>25 cm <sup>2</sup>/<sub>3</sub> Seitenlänge <sup>1</sup>/<sub>2</sub> Seitenlänge <sup>1</sup>/<sub>10</sub> Seitenlänge</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image20.png)</td><td>Seitenlänge: Höhe des «S»: Breite des «S»: Strichbreite des «S»:</td><td>25 cm <sup>2</sup>/<sub>3</sub> Seitenlänge <sup>1</sup>/<sub>2</sub> Seitenlänge <sup>1</sup>/<sub>10</sub> Seitenlänge</td></tr>
 </table>
 
 [^annex4-lvlu1-lvl11-1]: [SR 741.631](https://fedlex.data.admin.ch/eli/cc/2002/475)
@@ -6171,9 +6226,9 @@ Anhang 5*[^t-4]*
 
 (Art. 50 Abs. 2, 52 Abs. 5, 177 Abs. 3)
 
-## Rauch‑ Abgas- und Verdampfungsmessung
+## Rauch‑, Abgas- und Verdampfungsmessung
 
-[^t-4]: Bereinigt gemäss Ziff. II der V vom 2. Sept. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), 6. Sept. 2000 ([AS 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), vom 21. Aug. 2002 ([AS 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), vom 16. Juni 2003 ([AS 2003 1819](https://fedlex.data.admin.ch/eli/oc/2003/271)), Ziff. II Abs. 1 der V vom 10. Juni 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), Ziff. II der V vom 28. März 2007 ([AS 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)), vom 16. Jan. 2008 ([AS 2008 355](https://fedlex.data.admin.ch/eli/oc/2008/95)), Ziff. II Abs. 1 der V vom 14. Okt. 2009 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), Ziff. II der V vom 2. März 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), Ziff. II Abs. 2 der V vom 21. Jan. 2015 ([AS 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)), Ziff. II Abs. 1 der V vom 16. Nov. 2016 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)) und der V vom 21. Nov. 2018, in Kraft seit 1. Mai 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
+[^t-4]: Bereinigt gemäss Ziff. II der V vom 2. Sept. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), 6. Sept. 2000 ([AS 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), vom 21. Aug. 2002 ([AS 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), vom 16. Juni 2003 ([AS 2003 1819](https://fedlex.data.admin.ch/eli/oc/2003/271)), Ziff. II Abs. 1 der V vom 10. Juni 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), Ziff. II der V vom 28. März 2007 ([AS 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)), vom 16. Jan. 2008 ([AS 2008 355](https://fedlex.data.admin.ch/eli/oc/2008/95)), Ziff. II Abs. 1 der V vom 14. Okt. 2009 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), Ziff. II der V vom 2. März 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), Ziff. II Abs. 2 der V vom 21. Jan. 2015 ([AS 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)), Ziff. II Abs. 1 der V vom 16. Nov. 2016 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), vom 21. Nov. 2018 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)) und Ziff. II der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 ### 1 Rauchmessung bei Selbstzündungsmotoren
 
@@ -6215,7 +6270,7 @@ Anhang 5*[^t-4]*
   - d. Traktoren;
   - e. Raupenfahrzeuge.
 
-- 211\.2 Für Fahrzeuge der Klasse M<sub>1</sub> mit besonderer Zweckbestimmung (Richtlinie 2007/46/EG Anhang XI), die auf der Basis von Fahrzeugen einer anderen Klasse aufgebaut sind, genügt es, wenn sie hinsichtlich der Abgasemissionen den für das Basisfahrzeug geltenden Anforderungen entsprechen.
+- 211\.2 Für Fahrzeuge der Klasse M<sub>1</sub> mit besonderer Zweckbestimmung (Verordnung (EU) 2018/858), die auf der Basis von Fahrzeugen einer anderen Klasse aufgebaut sind, genügt es, wenn sie hinsichtlich der Abgasemissionen den für das Basisfahrzeug geltenden Anforderungen entsprechen.
 - 211*a* Fremd- und Selbstzündungsmotoren von Arbeitsmotorwagen sowie Arbeitsmotoren müssen der Richtlinie 97/68/EG, der Verordnung (EU) 2016/1628 oder dem UNECE-Reglement Nr. 96 entsprechen.
 - 211*a*.1 …
 - 211*a*.2 Werden Fahrzeuge der Klasse M oder N, die der Verordnung (EG) Nr. 715/2007 oder dem UNECE-Reglement Nr. 83 entsprechen, nachträglich zu Arbeitsmotorwagen umgebaut oder wird ihre Höchstgeschwindigkeit ohne Änderung an der abgasrelevanten Ausrüstung herabgesetzt, so genügt es, wenn sie hinsichtlich der Abgasemissionen den für das Basisfahrzeug geltenden Anforderungen entsprechen.
@@ -6244,7 +6299,7 @@ Anhang 5*[^t-4]*
 
 ### 22 Einzelprüfungen
 
-Bei Einzelprüfungen (Art. 105 Abs. 1 VZV) von leichten Motorwagen ist in der Regel eine Abgas-Nachkontrolle nach Artikel 36 unter Verwendung typengenehmigter Messgeräte durchzuführen.
+- Bei Einzelprüfungen von leichten Motorwagen ist in der Regel eine Abgas-Nachkontrolle nach Artikel 36 unter Verwendung typengenehmigter Messgeräte durchzuführen.
 
 ### 23 Kurbelgehäuse-Entlüftung
 
@@ -6257,7 +6312,7 @@ Anhang 6*[^t-5]*
 
 ## Geräuschmessung
 
-[^t-5]: Bereinigt gemäss Ziff. II der V vom 2. Sept. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), vom 21. Aug. 2002 ([AS 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)) und Ziff. II Abs. 1 der V vom 10. Juni 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), Ziff. I der V vom 22. Okt. 2008 ([AS 2008 5567](https://fedlex.data.admin.ch/eli/oc/2008/768)), Ziff. II Abs. 1 der V vom 14. Okt. 2009 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), Ziff. I 1 der V vom 8. Sept. 2010 über die Änderung von Bestimmungen über Messmittel für die Schallmessung ([AS 2010 4489](https://fedlex.data.admin.ch/eli/oc/2010/635)), Ziff. II der V vom 2. März 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), Ziff. II Abs. 1 der V vom 16. Nov. 2016 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)) und der V vom 21. Nov. 2018, in Kraft seit 1. Mai 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
+[^t-5]: Bereinigt gemäss Ziff. II der V vom 2. Sept. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), vom 21. Aug. 2002 ([AS 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)) und Ziff. II Abs. 1 der V vom 10. Juni 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), Ziff. I der V vom 22. Okt. 2008 ([AS 2008 5567](https://fedlex.data.admin.ch/eli/oc/2008/768)), Ziff. II Abs. 1 der V vom 14. Okt. 2009 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), Ziff. I 1 der V vom 8. Sept. 2010 über die Änderung von Bestimmungen über Messmittel für die Schallmessung ([AS 2010 4489](https://fedlex.data.admin.ch/eli/oc/2010/635)), Ziff. II der V vom 2. März 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), Ziff. II Abs. 1 der V vom 16. Nov. 2016 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), vom 21. Nov. 2018 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)) und Ziff. II der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 ### 1 Umfang
 
@@ -6281,7 +6336,7 @@ Anhang 6*[^t-5]*
   - b. Motorkarren;
   - c. Fahrzeuge mit einer bauartbedingten Höchstgeschwindigkeit von nicht mehr als 25 km/h.
 
-- 111\.12 Für Fahrzeuge der Klasse M<sub>1</sub> mit besonderer Zweckbestimmung (Richtlinie 2007/46/EG Anhang XI), die auf der Basis von Fahrzeugen einer anderen Klasse aufgebaut sind, genügt es, wenn sie hinsichtlich der Geräuschemissionen den für das Basisfahrzeug geltenden Anforderungen entsprechen.
+- 111\.12 Für Fahrzeuge der Klasse M<sub>1</sub> mit besonderer Zweckbestimmung (Verordnung (EU) 2018/858), die auf der Basis von Fahrzeugen einer anderen Klasse aufgebaut sind, genügt es, wenn sie hinsichtlich der Geräuschemissionen den für das Basisfahrzeug geltenden Anforderungen entsprechen.
 - 111\.2 Traktoren müssen den Anforderungen der Verordnung (EU) Nr. 167/2013 und der delegierten Verordnung (EU) 2018/985 entsprechen.
 - 111\.3
 
@@ -6308,7 +6363,7 @@ Anhang 6*[^t-5]*
 
 ### 12 Einzelprüfungen
 
-Bei Einzelprüfungen (Art. 105 Abs. 1 VZV) ist eine Standmessung nach Ziffer 4 durchzuführen. Dabei dürfen die in der Typengenehmigung oder im Datenblatt oder im Fahrzeugausweis eingetragenen Werte bei der Nahfeldmessung um höchstens 5 dB(A) und bei der «7-Meter-Messung» um höchstens 2 dB(A) überschritten werden. Bestehen trotz Einhaltung dieser Werte Zweifel an der Konformität des gemessenen Fahrzeugs, so kann eine Vorbeifahrtmessung angeordnet werden.
+Bei Einzelprüfungen ist eine Standmessung nach Ziffer 4 durchzuführen. Dabei dürfen die in der Typengenehmigung oder im Datenblatt oder im Fahrzeugausweis eingetragenen Werte bei der Nahfeldmessung um höchstens 5 dB(A) und bei der «7-Meter-Messung» um höchstens 2 dB(A) überschritten werden. Eine zusätzliche Vorbeifahrtmessung kann angeordnet werden.
 
 ### 13 Konformitätsprüfung
 
@@ -6352,7 +6407,7 @@ Abbildung 1
 
 **Messanordnung für die Vorbeifahrtmessung**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image21.png)
 
 ### 34 Messanordnung
 
@@ -6387,7 +6442,7 @@ Abbildung 1
 - 351\.212 Leichte Motorwagen mit einem Getriebe, das mehr als vier Abstufungen (Vorwärtsfahrmöglichkeiten) aufweist, werden nacheinander in der zweiten und dritten Abstufung geprüft. Dabei sind lediglich diejenigen Gesamtübersetzungsverhältnisse zu berücksichtigen, die für normalen Strassenbetrieb bestimmt sind. Aus den beiden ermittelten Schallpegeln wird das arithmetische Mittel gebildet.
 - 351\.213 Schwere Motorwagen, bei denen die Anzahl Abstufungen (Vorwärtsfahrmöglichkeiten) X beträgt (einschliesslich derjenigen Abstufungen, die durch ein Zusatzgetriebe oder durch eine Achse mit mehreren Überset-
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image22.png)
 
 - nächsten darüber gelegene Abstufung für die erste Messung zu wählen). Massgebend ist der dabei gemessene höchste Schallpegel.
 - 351\.214 Bei leichten Motorwagen sind allfällig vorhandene Geländegänge (Ziff. 351.215) weder für die Bestimmung der Anzahl Abstufungen noch für die Wahl der Abstufung für die Prüfung zu berücksichtigen. Bei schweren Motorwagen sind Abstufungen, die nur mit eingeschaltetem Zusatzantrieb (Ziff. 333) eingelegt werden können oder die diesen automatisch einschalten, für die Prüfung nicht zu berücksichtigen.
@@ -6458,7 +6513,7 @@ Abbildung 2
 
 **Messanordnung**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image23.png)
 
 - 422 Betriebszustand
 - 422\.1 Die Geräuschmessung ist, ausgenommen bei Fahrzeugen nach Ziffer 422.2, bei Dreiviertel der stabilisierten höchsten Drehzahl der grössten Motornutzleistung durchzuführen. Ist die Messung technisch nicht möglich, ist bei der noch stabilisierbaren Drehzahl zu messen, die der vorgeschriebenen Drehzahl am nächsten liegt.
@@ -6493,7 +6548,7 @@ Abbildung 6
 
 **Messanordnung**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image24.png)
 
 - 442 Betriebszustand
 - 442\.1 Die Druckluftanlage muss vor jeder Messung auf den höchsten Betriebsdruck gebracht werden; die Messung erfolgt bei abgestelltem Motor.
@@ -6512,7 +6567,7 @@ Anhang 7*[^t-6]*
 
 ## Bremsen Prüfverfahren und Wirkvorschriften
 
-[^t-6]: Bereinigt gemäss Ziff. II der V vom 2. Sept. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), vom 6. Sept. 2000 ([AS 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), vom 21 Aug. 2002 ([AS 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), Ziff. II Abs. 1 der V vom 10. Juni 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), vom 14. Okt. 2009 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), Ziff. II der V vom 2. März 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), Ziff. II Abs. 2 der V vom 21. Jan. 2015 ([AS 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)) vom 15. April 2015 ([AS 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)), Ziff. II Abs. 1 der V vom 16. Nov. 2016 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)) und der V vom 21. Nov. 2018, in Kraft seit 1. Mai 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
+[^t-6]: Bereinigt gemäss Ziff. II der V vom 2. Sept. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), vom 6. Sept. 2000 ([AS 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), vom 21 Aug. 2002 ([AS 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), Ziff. II Abs. 1 der V vom 10. Juni 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), vom 14. Okt. 2009 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), Ziff. II der V vom 2. März 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), Ziff. II Abs. 2 der V vom 21. Jan. 2015 ([AS 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)) vom 15. April 2015 ([AS 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)), Ziff. II Abs. 1 der V vom 16. Nov. 2016 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), vom 21. Nov. 2018 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)) und Ziff. II der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 ### 1 Prüfverfahren für Fahrzeuge, die unter internationale Vorschriften fallen
 
@@ -6586,13 +6641,13 @@ ABV-Einrichtungen an Motorwagen und deren Anhängern müssen der Verordnung (EG)
 
 ### 19 Umgebaute Fahrzeuge, die auf Fahrzeugen einer anderen Klasse basieren
 
-Für Fahrzeuge der Klasse M<sub>1</sub> mit besonderer Zweckbestimmung (Anhang XI der Richtlinie 2007/46/EG), die auf der Basis von Fahrzeugen einer anderen Klasse aufgebaut sind, genügt es, wenn sie hinsichtlich der Bremsen den für das Basisfahrzeug geltenden Anforderungen entsprechen.
+Für Fahrzeuge der Klasse M<sub>1</sub> mit besonderer Zweckbestimmung (Verordnung (EU) 2018/858), die auf der Basis von Fahrzeugen einer anderen Klasse aufgebaut sind, genügt es, wenn sie hinsichtlich der Bremsen den für das Basisfahrzeug geltenden Anforderungen entsprechen.
 
 ### 2 Wirkvorschriften für Fahrzeuge, die unter internationale Vorschriften fallen
 
 Die Wirksamkeit der Bremsen kann insbesondere auch anlässlich der Nachprüfung über die Abbremsung nach dem folgenden Verfahren ermittelt werden:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image25.png)
 
 ### 21 Fahrzeuge der Klassen M, N, T und C
 
@@ -6719,7 +6774,7 @@ Die Bremsprüfungen nach den Ziffern 211, 212 und 214 sind mit ausgekuppeltem Mo
 - 311\.1 Die Bremsverzögerung muss vom leeren und vom beladenen Fahrzeug auf ebener Strasse mit trockenem Hartbelag erreicht werden. Die Bremswirkung muss bei kalten Bremsen (Temperatur an den Bremstrommeln oder Bremsscheiben unter 100 °C) erreicht werden. Gemessen wird die mittlere Verzögerung, die definiert ist als die durchschnittliche Geschwindigkeitsminderung in m/s<sup>2</sup> auf der Strecke, die vom Beginn der Betätigung der Bremsanlage (inklusive der Ansprech- und Schwellzeit) bis zum Stillstand des Fahrzeuges zurückgelegt wird. Kann mit einem Messgerät nur die maximale Verzögerung ermittelt werden, so muss sie mindestens 20 Prozent höher sein als die vorgeschriebene mittlere Verzögerung.
 - Die Wirksamkeit der Bremsen kann, insbesondere anlässlich der Nachprüfung, über die Abbremsung nach dem folgenden Verfahren ermittelt werden:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image26.png)
 
 - 311\.2 Prüfgeschwindigkeit
 - Die Prüfgeschwindigkeit für die Prüfung der Betriebsbremse beträgt 50 km/h und für die Prüfung der Hilfsbremse 30 km/h. Erreicht ein Fahrzeug diese Geschwindigkeiten nicht, so ist es bei der möglichen Höchstgeschwindigkeit zu prüfen.
@@ -7028,7 +7083,7 @@ Die Grundfläche eines Stehplatzes muss mindestens 0,125 m<sup>2</sup> betragen.
 
 - 341 Die Gesamtzahl der Plätze (N) ist wie folgt zu berechnen:
 
-<sup>N = A +</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image27.png)
+<sup>N = A +</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image27.png)
 
 - 342 N = Gesamtanzahl der Plätze
   - [tab] A = Anzahl Sitzplätze
@@ -7054,7 +7109,7 @@ Anhang 10*[^t-9]*
 
 ## Lichter, Richtungsblinker und Rückstrahler
 
-[^t-9]: Bereinigt gemäss Ziff. II der V vom 2. Sept. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), 6. Sept. 2000 ([AS 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), vom 21. Aug. 2002 ([AS 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), Ziff. II Abs. 1 der V vom 10. Juni 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), Ziff. II der V vom 28. März 2007 ([AS 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)), vom 2. März 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), Ziff. II Abs. 2 der V vom 21. Jan. 2015 ([AS 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)), Ziff. II Abs. 1 der V vom 16. Nov. 2016 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)) und vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
+[^t-9]: Bereinigt gemäss Ziff. II der V vom 2. Sept. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), 6. Sept. 2000 ([AS 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), vom 21. Aug. 2002 ([AS 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), Ziff. II Abs. 1 der V vom 10. Juni 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), Ziff. II der V vom 28. März 2007 ([AS 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)), vom 2. März 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), Ziff. II Abs. 2 der V vom 21. Jan. 2015 ([AS 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)), Ziff. II Abs. 1 der V vom 16. Nov. 2016 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), vom 21. Nov. 2018 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)) und Ziff. II der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 ### 1 Farbe
 
@@ -7179,12 +7234,12 @@ Anhang 10*[^t-9]*
 <table>
 <tr><th>Art der Vorrichtung</th><th colspan="2">Lichtstärke in Candela (cd) in der optischen Achse</th><th></th></tr>
 <tr><th></th><th>mindestens</th><th colspan="2">höchstens</th></tr>
-<tr><td>*Standlichter* und nach vorn gerichtete Markierlichter</td><td>4</td><td colspan="2">60</td></tr>
-<tr><td>*Schlusslichter*<sup>\*</sup> sowie nach hinten gerichtete Markierlichter</td><td>4</td><td colspan="2">12</td></tr>
+<tr><td>*Standlichter* und nach vorn gerichtete *Markier**lichter*</td><td>4</td><td colspan="2">60</td></tr>
+<tr><td>*Schlusslichter*\* sowie *nach* hinten gerichtete Markierlichter</td><td>4</td><td colspan="2">12</td></tr>
 <tr><td>*Parklichter*</td><td></td><td colspan="2"></td></tr>
 <tr><td>– nach vorne</td><td>2</td><td colspan="2">60</td></tr>
 <tr><td>– nach hinten</td><td>2</td><td colspan="2">30</td></tr>
-<tr><td>*Bremslichter*<sup>1</sup></td><td></td><td colspan="2"></td></tr>
+<tr><td>*Bremslichter*\*</td><td></td><td colspan="2"></td></tr>
 <tr><td>Motorräder, Leicht‑, Klein- und dreirädrige Motorfahrzeuge und ihre Anhänger</td><td>40</td><td colspan="2">100</td></tr>
 <tr><td>Übrige Fahrzeuge</td><td></td><td colspan="2"></td></tr>
 <tr><td>– Bremslichter mit einer Lichtstärke</td><td>60</td><td colspan="2">185</td></tr>
@@ -7195,7 +7250,7 @@ Anhang 10*[^t-9]*
 <tr><td>– 2 zusätzliche Bremslichter</td><td>je 25</td><td colspan="2">110</td></tr>
 <tr><td>*Richtungsblinker*</td><td></td><td colspan="2"></td></tr>
 <tr><td>Motorräder, Leicht‑, Klein- und dreirädrige Motorfahrzeuge</td><td></td><td colspan="2"></td></tr>
-<tr><td>– gemäss Anordnung I und II</td><td></td><td colspan="2"></td></tr>
+<tr><td>– gemäss Anordnung II</td><td></td><td colspan="2"></td></tr>
 <tr><td>nach vorne</td><td>90</td><td colspan="2">700</td></tr>
 <tr><td>nach hinten</td><td>50</td><td colspan="2">200</td></tr>
 <tr><td>Übrige Fahrzeuge</td><td></td><td colspan="2"></td></tr>
@@ -7210,9 +7265,14 @@ Anhang 10*[^t-9]*
 <tr><td>nach hinten</td><td>50</td><td colspan="2">350</td></tr>
 <tr><td>– gemäss Anordnung III</td><td></td><td colspan="2"></td></tr>
 <tr><td>nach vorn</td><td>175</td><td colspan="2">700</td></tr>
+<tr><td>[tab]</td><td></td><td colspan="2"></td></tr>
+<tr><td>[tab]</td><td></td><td colspan="2"></td></tr>
+<tr><td>[tab]</td><td></td><td colspan="2"></td></tr>
+<tr><td>[tab]</td><td></td><td colspan="2"></td></tr>
+<tr><td>[tab]</td><td></td><td colspan="2"></td></tr>
 <tr><td>nach hinten</td><td>0,3</td><td colspan="2">200</td></tr>
 <tr><td>– gemäss Anordnung IV</td><td>0,3</td><td colspan="2">200</td></tr>
-<tr><td colspan="4">\* Sind Schluss- und Bremslichter gleicher Farbe in einer Vorrichtung vereinigt, so muss die Lichtstärke des Brems-lichtes fünfmal grösser sein als diejenige des Schlusslichtes.</td></tr>
+<tr><td colspan="4">\* Sind Schluss- und Bremslichter gleicher Farbe in einer Vorrichtung vereinigt, so muss die Lichtstärke des Bremslichtes fünfmal grösser sein als diejenige des Schlusslichtes.</td></tr>
 </table>
 
 ### 44 Rückstrahler
@@ -7241,31 +7301,31 @@ Anhang 10*[^t-9]*
 Anordnung I
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image28.png)</td><td>Nur für Fahrzeuge bis 4 m Länge zulässig, die nicht den Klassen M oder N angehören.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image28.png)</td><td>Nur für Fahrzeuge bis 4 m Länge zulässig, die nicht den Klassen M oder N angehören.</td></tr>
 </table>
 
 Anordnung II
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image29.png)</td><td>Nur für Fahrzeuge bis 6 m Länge zulässig</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image29.png)</td><td>Nur für Fahrzeuge bis 6 m Länge zulässig</td></tr>
 </table>
 
 Anordnung III
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image30.png)</td><td>Nur für Fahrzeuge zulässig, die nicht den Klassen M oder N angehören. Distanz der Blinker vom vorderen Fahrzeugrand höchstens 1,80 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image30.png)</td><td>Nur für Fahrzeuge zulässig, die nicht den Klassen M oder N angehören. Distanz der Blinker vom vorderen Fahrzeugrand höchstens 1,80 m</td></tr>
 </table>
 
 Anordnung IV
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image31.png)</td><td>Für alle Fahrzeuge zulässig. Distanz der seitlichen Blinker vom vorderen Fahrzeugrand höchstens 2,50 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image31.png)</td><td>Für alle Fahrzeuge zulässig. Distanz der seitlichen Blinker vom vorderen Fahrzeugrand höchstens 2,50 m</td></tr>
 </table>
 
 Anordnung V
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image32.png)</td><td>Nur für Fahrzeuge bis 6 m Länge zulässig. Distanz der seitlichen Blinker vom vorderen Fahrzeugrand höchstens 2,50 m. Die leuchtende Fläche der mitblinkenden seitlichen Markierlichter muss mindestens je 12,5 cm<sup>2</sup> betragen.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image32.png)</td><td>Nur für Fahrzeuge bis 6 m Länge zulässig. Distanz der seitlichen Blinker vom vorderen Fahrzeugrand höchstens 2,50 m. Die leuchtende Fläche der mitblinkenden seitlichen Markierlichter muss mindestens je 12,5 cm<sup>2</sup> betragen.</td></tr>
 </table>
 
 ### 52 Motorräder
@@ -7275,7 +7335,7 @@ Anordnung I …
 Anordnung II
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image33.png)</td><td>Minimalabstand zwischen den Blinkern vorne 24 cm hinten 18 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image33.png)</td><td>Minimalabstand zwischen den Blinkern vorne 24 cm hinten 18 cm</td></tr>
 </table>
 
 ### 53 Motorräder mit Seitenwagen
@@ -7287,19 +7347,19 @@ Anordnung I
 Anordnung II
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image36.png)</td><td>Der Wert von 5° für den toten Winkel der Sichtbarkeit des seitlichen Zusatz-Richtungsblinkers nach hinten ist eine obere Grenze. Dieser Wert kann auf 10° erhöht werden, wenn 5° nicht eingehalten werden können. d ≤ 1,80 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image36.png)</td><td>Der Wert von 5° für den toten Winkel der Sichtbarkeit des seitlichen Zusatz-Richtungsblinkers nach hinten ist eine obere Grenze. Dieser Wert kann auf 10° erhöht werden, wenn 5° nicht eingehalten werden können. d ≤ 1,80 m</td></tr>
 </table>
 
 Anordnung III
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image37.png)</td><td>Der Wert von 5° für den toten Winkel der Sichtbarkeit des seitlichen Zusatz-Richtungsblinkers nach hinten ist eine obere Grenze. Dieser Wert kann auf 10° erhöht werden, wenn 5° nicht eingehalten werden können. d ≤ 2,60 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image37.png)</td><td>Der Wert von 5° für den toten Winkel der Sichtbarkeit des seitlichen Zusatz-Richtungsblinkers nach hinten ist eine obere Grenze. Dieser Wert kann auf 10° erhöht werden, wenn 5° nicht eingehalten werden können. d ≤ 2,60 m</td></tr>
 </table>
 
 Anordnung IV
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image38.png)</td><td>Der Wert von 10° für die Sichtbarkeit der vorderen Richtungsblinker nach innen kann bei Fahrzeugen mit einer Breite über alles von nicht mehr als 1,40 m auf 3° verringert werden.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image38.png)</td><td>Der Wert von 10° für die Sichtbarkeit der vorderen Richtungsblinker nach innen kann bei Fahrzeugen mit einer Breite über alles von nicht mehr als 1,40 m auf 3° verringert werden.</td></tr>
 </table>
 
 - Kategorien der Richtungsblinker:
@@ -7310,7 +7370,7 @@ Anordnung IV
 ### 55 Anhänger
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220101/de/xml/image/image39.png)</td><td>.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20220401/de/xml/image/image39.png)</td><td>.</td></tr>
 </table>
 
 ### 6 Sichtwinkel für Stand‑, Schluss‑, Brems‑, Markier‑, Park- und Nebelschlusslichter
