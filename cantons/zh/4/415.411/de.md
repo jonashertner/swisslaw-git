@@ -4,24 +4,25 @@ number: "415.411"
 title: Organisationsreglement der Rechtswissenschaftlichen Fakultät der Universität Zürich (OrgR RWF)
 short: OrgR RWF
 language: de
-version: "2020-08-01"
-nachtrag: "110"
-valid_until: 2022-04-01
+version: "2022-04-01"
+nachtrag: "116"
+valid_until: 2023-02-01
 adopted: 2022-10-26
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_411-2018_07_03-2018_09_01-110.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_411-2018_07_03-2018_09_01-116.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Organisationsreglement der Rechtswissenschaftlichen Fakultät der Universität Zürich
+# Organisationsreglement der Rechtswissenschaftlichen Fakultät der Universität Zürich (OrgR RWF)
 
-(vom 3. Juli 2018)[^t-1],[^t-2]
+(vom 3. Juli 2018)[^t-2],[^t-3][^t-1]
 
 Die Erweiterte Universitätsleitung beschliesst:
 
-[^t-1]: OS 73, 340; Begründung siehe ABl 2018-07-13.
-[^t-2]: Inkrafttreten: 1. September 2018.
+[^t-1]: Fassung gemäss B vom 27. Oktober 2021 (OS 77, 148; ABl 2022-02-11). In Kraft seit 1. April 2022.
+[^t-2]: OS 73, 340; Begründung siehe ABl 2018-07-13.
+[^t-3]: Inkrafttreten: 1. September 2018.
 
 ### 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -69,7 +70,9 @@ Die Organe der Fakultät sind:
 
 **1**
 
-1.10. 20 - 110 2. das Rechtswissenschaftliche Institut,
+- 1\. 4. 22 - 116
+
+- 2\. das Rechtswissenschaftliche Institut,
 
 - 3\. die Fachgruppen.
 
@@ -169,7 +172,7 @@ Die Organe der Fakultät sind:
 
 **3**
 
-1.10. 20 - 110 § 9. <sup>1</sup> Der Fakultätsausschuss ist insbesondere zuständig für:
+- 1\. 4. 22 - 116 § 9. <sup>1</sup> Der Fakultätsausschuss ist insbesondere zuständig für:
 
 **Aufgaben**
 
@@ -183,15 +186,15 @@ Die Organe der Fakultät sind:
 
 ### C. Fakultätsvorstand
 
-[^hCFakultätsvorstand-1]: Fassung gemäss B vom 1. April 2020 (OS 75, 360; ABl 2020-06-19). In Kraft seit 1. August 2020.
+[^hCFakultätsvorstand-1]: Fassung gemäss B vom 27. Oktober 2021 (OS 77, 148; ABl 2022-02-11). In Kraft seit 1. April 2022.
 
 #### § 10
 
 **Zusammensetzung und Wahl**
 
-<sup>1</sup> Der Fakultätsvorstand setzt sich zusammen aus:[^hCFakultätsvorstand-1] 1. der Dekanin oder dem Dekan,
+Der Fakultätsvorstand setzt sich zusammen aus:[^hCFakultätsvorstand-1] 1. der Dekanin oder dem Dekan,
 
-- 2\. der Studiendekanin oder dem Studiendekan (Prodekanin oder Prodekan Lehre und Weiterbildung),
+- 2\. der Studiendekanin oder dem Studiendekan (Prodekanin oder Prodekan Lehre),
 
 - 3\. der Prodekanin oder dem Prodekan Forschung und Nachwuchsförderung,
 
@@ -258,21 +261,21 @@ Die Organe der Fakultät sind:
 
 <sup>1</sup> Der Fakultätsvorstand erfüllt seine Aufgaben in kollegialer Zusammenarbeit.
 
-<sup>2</sup> Die einzelnen Aufgaben des Fakultätsvorstands werden nach dem Konsensprinzip auf der Grundlage der §§ 13–15 unter den Mitgliedern verteilt. Kommt kein Konsens zustande, entscheidet die Dekanin oder der Dekan nach § 75 Abs. 2 UniO[^12-1].
+<sup>2</sup> Die einzelnen Aufgaben des Fakultätsvorstands werden nach dem Konsensprinzip auf der Grundlage von §§ 13–15 unter den Mitgliedern verteilt. Der Bereich Weiterbildung wird einem Fakultätsvorstandsmitglied zugeteilt. Kommt kein Konsens zustande, entscheidet die Dekanin oder der Dekan nach § 75 Abs. 2 UniO[^12-1].[^12-2]
 
 <sup>3</sup> Wichtige Geschäfte werden gemeinsam beraten und entschieden.
 
-<sup>4</sup> Der Fakultätsvorstand regelt die Einzelheiten der Zusammenarbeit sowie der Aufgabenverteilung in einer Geschäftsordnung.[^12-2]
+<sup>4</sup> Der Fakultätsvorstand regelt die Einzelheiten der Zusammenarbeit sowie der Aufgabenverteilung in einer Geschäftsordnung.[^12-3]
 
 **Dekanin oder Dekan**
 
-§ 13.[^12-2] <sup>1</sup> Die Dekanin oder der Dekan leitet die Fakultät und vertritt sie gegen aussen.
-
-<sup>1bis</sup> Sie oder er erfüllt die ihr oder ihm zugewiesenen Aufgaben gemäss Universitätsgesetz (UniG)[^12-3], Universitätsordnung der Universität Zürich (UniO)[^12-1] und Personalverordnung der Universität Zürich (PVO-UZH)[^12-4].
+§ 13.[^12-3] <sup>1</sup> Die Dekanin oder der Dekan leitet die Fakultät und vertritt sie gegen aussen.
 
 **5**
 
-1.10. 20 - 110
+- 1\. 4. 22 - 116
+
+<sup>1bis</sup> Sie oder er erfüllt die ihr oder ihm zugewiesenen Aufgaben gemäss Universitätsgesetz (UniG)[^12-4], Universitätsordnung der Universität Zürich (UniO)[^12-1] und Personalverordnung der Universität Zürich (PVO-UZH)[^12-5].
 
 <sup>2</sup> Sie oder er leitet die Fakultätsversammlung, den Fakultätsausschuss sowie den Fakultätsvorstand.
 
@@ -284,17 +287,17 @@ Die Organe der Fakultät sind:
 
 **Studiendekanin oder Studiendekan**
 
-§ 14.[^12-2] <sup>1</sup> Die Studiendekanin oder der Studiendekan ist zuständig für Lehre und Studium sowie für die Weiterbildung auf Stufe der Fakultät.
+§ 14.[^12-2] <sup>1</sup> Die Studiendekanin oder der Studiendekan ist zuständig für Lehre auf Stufe der Fakultät.
 
 <sup>1bis</sup> Sie oder er ist insbesondere zuständig für:
 
-- 1\. die Entwicklung und Umsetzung der Strategien in den Bereichen Lehre, Studium und Weiterbildung,
+- 1\. die Entwicklung und Umsetzung der Strategien in den Bereichen Lehre und Studium,
 
 - 2\. den reibungslosen Prozessablauf sowie die Qualitätssicherung im Bereich Lehre und Studium einschliesslich Prüfungswesen.
 
-<sup>1ter</sup> Sie oder er leitet die Kommissionen Lehre und Weiterbildung sowie die Bolognakommission.
+<sup>1ter</sup> Sie oder er leitet die Kommission Lehre.
 
-<sup>1quater</sup> Sie oder er vertritt die Fakultät in den Gremien für Lehre und Weiterbildung der Universität.
+<sup>1quater</sup> Sie oder er vertritt die Fakultät in den Gremien der Universität für Lehre.
 
 <sup>1quinquies</sup> Sie oder er nimmt auch die Funktion der Studienprogrammdirektorin oder des Studienprogrammdirektors wahr.
 
@@ -302,7 +305,7 @@ Die Organe der Fakultät sind:
 
 **Prodekanin oder Prodekan Forschung und Nachwuchsförderung**
 
-§ 14 a.[^12-5] <sup>1</sup> Die Prodekanin oder der Prodekan Forschung und Nachwuchsförderung ist zuständig für die Betreuung und Entwicklung der Forschung und Nachwuchsförderung auf Stufe der Fakultät.
+§ 14 a.[^12-6] <sup>1</sup> Die Prodekanin oder der Prodekan Forschung und Nachwuchsförderung ist zuständig für die Betreuung und Entwicklung der Forschung und Nachwuchsförderung auf Stufe der Fakultät.
 
 <sup>2</sup> Sie oder er ist insbesondere zuständig für:
 
@@ -316,7 +319,7 @@ Die Organe der Fakultät sind:
 
 **Prodekanin oder Prodekan Aussenbeziehungen**
 
-§ 14 b.[^12-5] <sup>1</sup> Die Prodekanin oder der Prodekan Aussenbeziehungen ist zuständig für die Pflege und Entwicklung der Aussenbeziehungen auf Stufe der Fakultät.
+§ 14 b.[^12-6] <sup>1</sup> Die Prodekanin oder der Prodekan Aussenbeziehungen ist zuständig für die Pflege und Entwicklung der Aussenbeziehungen auf Stufe der Fakultät.
 
 <sup>2</sup> Sie oder er ist insbesondere zuständig für:
 
@@ -329,10 +332,11 @@ Die Organe der Fakultät sind:
 <sup>4</sup> Sie oder er vertritt die Fakultät in den Gremien der Universität für Aussenbeziehungen.
 
 [^12-1]: LS 415.111.
-[^12-2]: Fassung gemäss B vom 1. April 2020 (OS 75, 360; ABl 2020-06-19). In Kraft seit 1. August 2020.
-[^12-3]: LS 415.11.
-[^12-4]: LS 415.21.
-[^12-5]: Eingefügt durch B vom 1. April 2020 (OS 75, 360; ABl 2020-06-19). In Kraft seit 1. August 2020.
+[^12-2]: Fassung gemäss B vom 27. Oktober 2021 (OS 77, 148; ABl 2022-02-11). In Kraft seit 1. April 2022.
+[^12-3]: Fassung gemäss B vom 1. April 2020 (OS 75, 360; ABl 2020-06-19). In Kraft seit 1. August 2020.
+[^12-4]: LS 415.11.
+[^12-5]: LS 415.21.
+[^12-6]: Eingefügt durch B vom 1. April 2020 (OS 75, 360; ABl 2020-06-19). In Kraft seit 1. August 2020.
 
 #### § 15
 
@@ -342,21 +346,38 @@ Die Organe der Fakultät sind:
 
 <sup>2</sup> Sie oder er ist die Vorsteherin oder der Vorsteher des Rechtswissenschaftlichen Instituts und hat die Aufsicht über die Tätigkeit der Geschäftsleiterin oder des Geschäftsleiters des Instituts.
 
-[^15-1]: Fassung gemäss B vom 1. April 2020 (OS 75, 360; ABl 2020-06-19). In Kraft seit 1. August 2020.
+**Bereich Weiterbildung**
+
+§ 15 a.[^15-1] <sup>1</sup> Das für den Bereich Weiterbildung zuständige Fakultätsvorstandsmitglied ist verantwortlich für die Weiterbildung auf Stufe der Fakultät.
+
+<sup>2</sup> Sie oder er ist insbesondere zuständig für:
+
+- 1\. die Entwicklung und Umsetzung der Strategien im Bereich Weiterbildung,
+
+- 2\. die Qualitätssicherung und die Kontaktpflege im Bereich Weiterbildung.
+
+<sup>3</sup> Sie oder er leitet die Kommission Weiterbildung.
+
+<sup>4</sup> Sie oder er vertritt die Fakultät in den Gremien der Universität für Weiterbildung.
+
+[^15-1]: Eingefügt durch B vom 27. Oktober 2021 (OS 77, 148; ABl 2022-02-11). In Kraft seit 1. April 2022.
+[^15-2]: Fassung gemäss B vom 1. April 2020 (OS 75, 360; ABl 2020-06-19). In Kraft seit 1. August 2020.
 
 #### § 16
 
 **Stellvertretung**
 
-<sup>1</sup> Ist die Dekanin oder der Dekan an der Amtsausübung verhindert, wird sie oder er durch eine Prodekanin oder einen Prodekan vertreten.[^15-1]
+<sup>1</sup> Ist die Dekanin oder der Dekan an der Amtsausübung verhindert, wird sie oder er durch eine Prodekanin oder einen Prodekan vertreten.[^15-2]
 
 <sup>2</sup> Sind auch die Prodekaninnen oder Prodekane verhindert, so erfolgt die Vertretung durch die Altdekaninnen oder -dekane in rückwärts gerichteter Reihenfolge.
 
 § 17.[^16-1]
 
-**Delegation von Einzelaufgaben**
+**7**
 
-§ 18.[^16-2] Der Fakultätsvorstand kann einzelne Aufgaben delegieren an:
+- 1\. 4. 22 - 116 § 18.[^16-2] Der Fakultätsvorstand kann einzelne Aufgaben delegieren an:
+
+**Delegation von Einzelaufgaben**
 
 - 1\. andere Fakultätsmitglieder,
 
@@ -370,10 +391,6 @@ Die Organe der Fakultät sind:
 **Dekanat**
 
 § 19.[^h3AbschnittOrgani-1] <sup>1</sup> Das Dekanat unterstützt die Dekanin oder den Dekan sowie die übrigen Fakultätsorgane bei der Erfüllung ihrer Aufgaben.
-
-**7**
-
-1.10. 20 - 110
 
 <sup>2</sup> Ihm obliegen insbesondere:
 
@@ -389,7 +406,7 @@ Die Organe der Fakultät sind:
 
 **Studiendekanat**
 
-§ 19 a.[^h3AbschnittOrgani-2] <sup>1</sup> Das Studiendekanat ist für die Sicherstellung des Lehr- und Studienbetriebs sowie die Koordination des Weiterbildungsangebots zuständig.
+§ 19 a.[^h3AbschnittOrgani-2] <sup>1</sup> Das Studiendekanat ist für die Sicherstellung des Lehr- und Studienbetriebs zuständig.
 
 <sup>2</sup> Es unterstützt die Studiendekanin oder den Studiendekan bei der Erfüllung ihrer oder seiner Aufgaben.
 
@@ -399,23 +416,19 @@ Die Organe der Fakultät sind:
 
 - 2\. die Planung und Organisation der Prüfungen,
 
-- 3\. die Studienberatung,
-
-- 4\. die Förderung der Weiterbildung in Zusammenarbeit und Koordination mit internen und externen Anbietern von Weiterbildungsveranstaltungen.
+- 3\. die Studienberatung.
 
 **Prodekanat Forschung und Nachwuchsförderung**
 
-§ 19 b.[^h3AbschnittOrgani-2] <sup>1</sup> Das Prodekanat Forschung und Nachwuchsförderung ist insbesondere zuständig für:
+§ 19 b.[^h3AbschnittOrgani-3] <sup>1</sup> Das Prodekanat Forschung und Nachwuchsförderung ist insbesondere zuständig für:
 
 - 1\. die Unterstützung bei der Planung und Durchführung von Forschungsprojekten an der Fakultät,
 
 - 2\. die Unterstützung von Nachwuchskräften der Fakultät bei der Planung und Durchführung von wissenschaftlichen Aktivitäten.
 
-<sup>2</sup> Es unterstützt die Prodekanin oder den Prodekan Forschung und Nachwuchsförderung bei der Erfüllung ihrer oder seiner Aufgaben.
+<sup>2</sup> Es unterstützt die Prodekanin oder den Prodekan Forschung und Nachwuchsförderung bei der Erfüllung ihrer oder seiner Aufgaben. § 19 c.[^h3AbschnittOrgani-3] <sup>1</sup> Das Prodekanat Aussenbeziehungen ist insbesondere zuständig für:
 
 **Prodekanat Aussenbeziehungen**
-
-§ 19 c.[^h3AbschnittOrgani-2] <sup>1</sup> Das Prodekanat Aussenbeziehungen ist insbesondere zuständig für:
 
 - 1\. die Entwicklung von Strategien für die Beziehungen zu rechtswissenschaftlichen Einrichtungen für Lehre und Forschung im In- und Ausland,
 
@@ -425,7 +438,7 @@ Die Organe der Fakultät sind:
 
 **Rechtsstelle**
 
-§ 19 d.[^h3AbschnittOrgani-2] <sup>1</sup> Die Rechtsstelle ist zuständig für die rechtlichen Belange der Fakultät.
+§ 19 d.[^h3AbschnittOrgani-3] <sup>1</sup> Die Rechtsstelle ist zuständig für die rechtlichen Belange der Fakultät.
 
 <sup>2</sup> Ihr obliegen insbesondere:
 
@@ -439,10 +452,11 @@ Die Organe der Fakultät sind:
 
 **Prodekanat Ressourcen**
 
-§ 19 e.[^h3AbschnittOrgani-2] Die Aufgaben des Prodekanats Ressourcen werden von der Verwaltung des Rechtswissenschaftlichen Instituts erfüllt.
+§ 19 e.[^h3AbschnittOrgani-3] Die Aufgaben des Prodekanats Ressourcen werden von der Verwaltung des Rechtswissenschaftlichen Instituts erfüllt.
 
 [^h3AbschnittOrgani-1]: Fassung gemäss B vom 1. April 2020 (OS 75, 360; ABl 2020-06-19). In Kraft seit 1. August 2020.
-[^h3AbschnittOrgani-2]: Eingefügt durch B vom 1. April 2020 (OS 75, 360; ABl 2020-06-19). In Kraft seit 1. August 2020.
+[^h3AbschnittOrgani-2]: Fassung gemäss B vom 27. Oktober 2021 (OS 77, 148; ABl 2022-02-11). In Kraft seit 1. April 2022.
+[^h3AbschnittOrgani-3]: Eingefügt durch B vom 1. April 2020 (OS 75, 360; ABl 2020-06-19). In Kraft seit 1. August 2020.
 
 #### § 20
 
@@ -466,6 +480,10 @@ Die Organe der Fakultät sind:
 
 <sup>3</sup> Die Fachgruppen können die Titularprofessorinnen und -professoren sowie die Privatdozentinnen und -dozenten, die ihnen zugewiesen sind, als Gäste mit beratender Stimme zu ihren Sitzungen einladen.[^21-1]
 
+**9**
+
+- 1\. 4. 22 - 116
+
 <sup>4</sup> Über die Zugehörigkeit der Professorinnen und Professoren zur Fachgruppe, die das Stimmrecht einschliesst, sowie der Titularprofessorinnen und -professoren und der Privatdozentinnen und -dozenten zu einer Fachgruppe entscheidet die Fakultätsversammlung.
 
 <sup>5</sup> Fachgruppen sind:
@@ -479,10 +497,6 @@ Die Organe der Fakultät sind:
 - 4\. Strafrecht,
 
 - 5\. Staats-, Verwaltungs- und Völkerrecht.
-
-**9**
-
-1.10. 20 - 110
 
 <sup>6</sup> Die Fachgruppen bestimmen eines oder zwei ihrer Mitglieder als Vorsitzende bzw. Vorsitzenden sowie deren bzw. dessen Amtsdauer.
 
@@ -583,6 +597,10 @@ Der Fakultät sind gestützt auf übergeordnetes Recht weitere Organisationseinh
 
 <sup>3</sup> Abstimmungen erfolgen offen, wenn nicht ein Viertel der anwesenden Stimmberechtigten eine geheime Abstimmung verlangt.
 
+**11**
+
+- 1\. 4. 22 - 116
+
 <sup>4</sup> Abstimmungen über Anträge in Berufungs- und Beförderungsgeschäften sowie über Ehrenpromotionen sind geheim.
 
 #### § 29
@@ -598,10 +616,6 @@ Zu den Abstimmungsverfahren erlässt der Fakultätsvorstand einen Leitfaden.
 <sup>1</sup> Eine Wahl bedarf des absoluten Mehrs der anwesenden Stimmberechtigten.
 
 <sup>2</sup> Wird im zweiten Wahlgang das absolute Mehr nicht erreicht, so genügt im dritten Wahlgang die relative Mehrheit.
-
-**11**
-
-1.10. 20 - 110
 
 <sup>3</sup> Wahlen erfolgen offen, wenn nicht ein Viertel der anwesenden Mitglieder eine geheime Wahl verlangt.
 
@@ -629,11 +643,9 @@ Zu den Abstimmungsverfahren erlässt der Fakultätsvorstand einen Leitfaden.
 
 <sup>2</sup> Sie oder er kann diese Zuständigkeit für einzelne Bereiche delegieren.
 
-<sup>3</sup> In ihren Verantwortungsbereichen sind die Prodekaninnen und Prodekane in Abstimmung mit der Dekanin oder dem Dekan für die Kommunikation zuständig.[^32-1]
+<sup>3</sup> In ihren Verantwortungsbereichen sind die Prodekaninnen und Prodekane in Abstimmung mit der Dekanin oder dem Dekan für die Kommunikation zuständig.[^32-1] § 33. <sup>1</sup> Der Geheimhaltungspflicht unterstehen:
 
 **Geheimhaltung**
-
-§ 33. <sup>1</sup> Der Geheimhaltungspflicht unterstehen:
 
 - 1\. Berufung, Beförderung und Entlassung von Professorinnen und Professoren,
 
@@ -669,6 +681,10 @@ Zu den Abstimmungsverfahren erlässt der Fakultätsvorstand einen Leitfaden.
 
 <sup>4</sup> In Angelegenheiten von Ernennungen, Beförderungen und Lehranstellungen dürfen die Delegierten der Stände über die Anträge der Fakultätsgremien an die oberen Instanzen sowie über ihre eigenen, in den Sitzungen der Fakultätsgremien gestellten Anträge und geäusserten Meinungen orientieren. Vorbehalten bleiben Beschlüsse der Fakultätsgremien über Beschränkungen der Information mit Rücksicht auf Persönlichkeitsrechte der Betroffenen.[^34-1]
 
+**13**
+
+- 1\. 4. 22 - 116
+
 [^34-1]: Fassung gemäss B vom 1. April 2020 (OS 75, 360; ABl 2020-06-19). In Kraft seit 1. August 2020.
 [^34-2]: Eingefügt durch B vom 1. April 2020 (OS 75, 360; ABl 2020-06-19). In Kraft seit 1. August 2020.
 
@@ -683,10 +699,6 @@ Zu den Abstimmungsverfahren erlässt der Fakultätsvorstand einen Leitfaden.
 **Übergangsregelung**
 
 § 36.[^h6AbschnittSchlus-1] <sup>1</sup> Die nach bisherigem Recht gewählten oder ernannten Funktionsträgerinnen und Funktionsträger bleiben ohne neue Wahl oder Ernennung bis zum Ablauf ihrer Amtszeit oder bis zur Beendigung ihrer Anstellung im Amt.
-
-**13**
-
-1.10. 20 - 110
 
 <sup>2</sup> Die bisherigen Delegierten für Forschung, Nachwuchsförderung und Aussenbeziehungen bleiben im Amt, bis die Prodekaninnen oder Prodekane Forschung und Nachwuchsförderung bzw. Aussenbeziehungen ihr Amt antreten.
 
