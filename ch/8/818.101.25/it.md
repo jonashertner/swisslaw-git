@@ -1,0 +1,105 @@
+---
+sr: "818.101.25"
+title: Ordinanza del 30 marzo 2022 sulla sospensione del sistema di tracciamento della prossimità per il coronavirus SARS-CoV-2 e del sistema di segnalazione di un possibile contagio da coronavirus SARS CoV-2 durante una manifestazione
+eli: "https://fedlex.data.admin.ch/eli/cc/2022/207"
+language: it
+version: 2022-04-01
+adopted: 2022-03-30
+in_force: 2022-04-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/207/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2022-207-20220401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/207/20220401/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sulla sospensione del sistema di tracciamento della prossimità per il coronavirus SARS-CoV-2 e del sistema di segnalazione di un possibile contagio da coronavirus SARS‑CoV-2 durante una manifestazione
+
+del 30 marzo 2022 (Stato 1° aprile 2022)
+
+Il Consiglio federale svizzero,
+
+visto l’articolo 60*a* capoverso 8 della legge del 28 settembre 2012[^ingress-1] sulle epidemie (LEp); visto l’articolo 3 capoverso 7 lettera a della legge COVID-19 del 25 settembre 2020[^ingress-2],
+
+ordina:
+
+[^ingress-1]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^ingress-2]: [RS 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
+
+#### Art. 1
+
+**Principio**
+
+L’esercizio dei seguenti sistemi, compreso il relativo software sui telefoni cellulari dei partecipanti (app SwissCovid), è sospeso:
+
+- a. il sistema di tracciamento della prossimità per il coronavirus SARS-CoV-2 (sistema TP) secondo l’articolo 60*a* LEp e l’ordinanza del 24 giugno 2020[^1-1] sul sistema di tracciamento della prossimità per il coronavirus SARS-CoV-2;
+- b. il sistema secondo l’ordinanza del 30 giugno 2021[^1-2] su un sistema di segnalazione di un possibile contagio da coronavirus SARS-CoV-2 durante una manifestazione.
+
+[^1-1]: . [RU 2020 2553](https://fedlex.data.admin.ch/eli/oc/2020/468),[4733](https://fedlex.data.admin.ch/eli/oc/2020/852);[2021 144](https://fedlex.data.admin.ch/eli/oc/2021/144)
+[^1-2]: [RU 2021 411](https://fedlex.data.admin.ch/eli/oc/2021/411)
+
+#### Art. 2
+
+**Componenti gestiti dalla Confederazione e dati ivi conservati**
+
+<sup>1</sup>
+
+L’Ufficio federale della sanità pubblica disattiva i seguenti componenti del sistema:
+
+- a. il sistema di back end per la gestione dei dati relativi alla prossimità tra telefoni cellulari con app SwissCovid attiva;
+- b. il sistema di back end per la gestione dei dati relativi alla partecipazione a manifestazioni;
+- c. il sistema di gestione dei codici di attivazione delle segnalazioni di altri utenti (codici di attivazione) per i sistemi di cui alle lettere a e b.
+
+<sup>2</sup>
+
+I dati trasmessi dall’app SwissCovid memorizzati in questi sistemi saranno distrutti, in particolare:
+
+- a. le chiavi private dei partecipanti infetti;
+- b. i codici d’identificazione delle manifestazioni;
+- c. i codici di attivazione.
+
+<sup>3</sup> Il sistema di collegamento per lo scambio delle chiavi private tra il sistema TP con un sistema estero corrispondente resta in funzione finché questo sarà necessario ai fini dell’adempimento degli impegni derivanti dai trattati internazionali da parte della Svizzera. Lo scambio di dati tra il sistema di back end per la gestione dei dati relativi alla prossimità e il sistema di collegamento sarà sospeso.
+
+#### Art. 3
+
+**App SwissCovid**
+
+1 I partecipanti che richiamano l’app SwissCovid ottengono un messaggio indicante che le funzioni sono state sospese e che non riceveranno più segnalazioni, né potranno più immettere codici di attivazione.
+
+<sup>2</sup> Sono invitati a disinstallare l’app.
+
+#### Art. 4
+
+**Registro degli accessi**
+
+Alla memorizzazione e all’analisi dei registri degli accessi ai sistemi di cui all’articolo 2 capoverso 1, nonché all’elenco dei dati necessari per le informazioni di questi sistemi sono applicabili gli articoli 57*i*–57*q* della legge del 21 marzo 1997[^4-1] sull’organizzazione del Governo e dell’Amministrazione e l’ordinanza del 22 febbraio 2012[^4-2] sul trattamento di dati personali derivanti dall’utilizzazione dell’infrastruttura elettronica della Confederazione.
+
+[^4-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^4-2]: [RS 172.010.442](https://fedlex.data.admin.ch/eli/cc/2012/160)
+
+#### Art. 5
+
+**Abrogazione di altri atti normativi**
+
+Sono abrogate:
+
+- a. l’ordinanza del 24 giugno 2020[^5-1] sul sistema di tracciamento della prossimità per il coronavirus SARS-CoV-2;
+- b. l’ordinanza del 30 giugno 2021[^5-2] su un sistema di segnalazione di un possibile contagio da coronavirus SARS-CoV-2 durante una manifestazione.
+
+[^5-1]: [[RU 2020 2553](https://fedlex.data.admin.ch/eli/oc/2020/468),[4733](https://fedlex.data.admin.ch/eli/oc/2020/852);[2021 144](https://fedlex.data.admin.ch/eli/oc/2021/144)]
+[^5-2]: [[RU 2021 411](https://fedlex.data.admin.ch/eli/oc/2021/411)]
+
+#### Art. 6
+
+**Modifica di un altro atto normativo**
+
+*...*[^6-1]
+
+[^6-1]: La mod. può essere consultata alla [RU 2022 207](https://fedlex.data.admin.ch/eli/oc/2022/207).
+
+#### Art. 7
+
+**Entrata in vigore**
+
+<sup>1</sup> La presente ordinanza entra in vigore il 1° aprile 2022 alle ore 00.00 e, fatto salvo il capoverso 2, ha effetto sino al 31 dicembre 2022.
+
+<sup>2</sup> Gli articoli 5 e 6 restano in vigore a tempo indeterminato.
