@@ -2,67 +2,64 @@
 canton: VS
 number: "414.702"
 title: Verordnung betreffend die Besoldung des Personals der Fachhochschule Westschweiz Valais/Wallis
-short: HES-SO Valais/Wallis
 language: de
-version: 2016-09-01
-corrected: 2017-09-06
-version_adopted: 2016-08-17
+version: 2022-04-01
+version_adopted: 2022-03-30
 adopted: 2014-12-16
 in_force: 2015-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/414.702"
-pdf: "https://lex.vs.ch/api/de/versions/498/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3023/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung betreffend die Besoldung des Personals der Fachhochschule Westschweiz Valais/Wallis (HES-SO Valais/Wallis)
+# Verordnung betreffend die Besoldung des Personals der Fachhochschule Westschweiz Valais/Wallis
 
-vom 16. Dezember 2014
+vom 16.12.2014 (Stand 01.04.2022)
 
 Der Staatsrat des Kantons Wallis
 
 eingesehen Artikel 57 der Kantonsverfassung;
 
-eingesehen die Interkantonale Vereinbarung über die Fachhochschule Westschweiz (HES-SO) vom 26. Mai 2011;
+eingesehen die Interkantonale Vereinbarung über die Fachhochschule Westschweiz vom 26. Mai 2011 (HES-SO);
 
-eingesehen das Gesetz über die Fachhochschule Westschweiz Valais/Wallis (HES-SO Valais/Wallis) vom 16. November 2012;
+eingesehen das Gesetz über die Fachhochschule Westschweiz Valais/Wallis vom 16. November 2012;
 
-eingesehen die Verordnung betreffend das Statut des Personals der Fachhochschule Westschweiz Valais/Wallis (HES-SO Valais/Wallis) vom 16. Dezember 2014;
+eingesehen die Verordnung betreffend das Statut des Personals der Fachhochschule Westschweiz Valais/Wallis vom 16. Dezember 2014;
 
-auf Antrag des Departements für Bildung und Sicherheit,
+auf Antrag des für die Bildung zuständigen Departements,
 
 verordnet:
 
-### 1. Kapitel: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Anwendungsbereich**
 
-Die vorliegende Verordnung setzt unter Vorbehalt von Sonderbestimmungen die Besoldung aller Personen fest, die gemäss Artikel 18 der Verordnung betreffend das Statut des Personals der HES-SO Valais/Wallis vom 16. Dezember 2014 als Angestellte der Fachhochschule Westschweiz Valais/Wallis (nachfolgend: die HES-SO Valais/Wallis) gelten.
+<sup>1</sup> Die vorliegende Verordnung setzt unter Vorbehalt von Sonderbestimmungen die Besoldung aller Personen fest, die gemäss Artikel 18 der Verordnung betreffend das Statut des Personals der HES-SO Valais/Wallis vom 16. Dezember 2014 als Angestellte der Fachhochschule Westschweiz Valais/Wallis (nachfolgend: die HES-SO Valais/Wallis) gelten.
 
 #### Art. 2
 
 **Gleichstellung von Mann und Frau**
 
-Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
+<sup>1</sup> Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
 
 #### Art. 3
 
 **Meldung persönlicher Veränderung**
 
-Der Angestellte ist verpflichtet, jede Veränderung seiner persönlichen Verhältnisse (Adressänderung, Zivilstand usw.) unverzüglich der entsprechenden Instanz zu melden.
+<sup>1</sup> Der Angestellte ist verpflichtet, jede Veränderung seiner persönlichen Verhältnisse (Adressänderung, Zivilstand usw.) unverzüglich der entsprechenden Instanz zu melden.
 
 #### Art. 4
 
 **Sozialpartner**
 
-<sup>1</sup> Gemäss Artikel 6 der Verordnung betreffend das Statut des Personals der HES-SO Valais/Wallis vom16. Dezember 2014 müssen die anerkannten Personalverbände von der Generaldirektion der HES-SO Valais/Wallis (nachfolgend: die Generaldirektion) vorgängig über Entscheide und gesetzliche Bestimmungen mit wesentlichen Auswirkungen auf das Personal, namentlich was Lohnfragen betrifft, informiert und miteinbezogen werden.
+<sup>1</sup> Gemäss Artikel 6 der Verordnung betreffend das Statut des Personals der HES-SO Valais/Wallis vom 16. Dezember 2014 müssen die anerkannten Personalverbände von der Generaldirektion der HES-SO Valais/Wallis (nachfolgend: die Generaldirektion) vorgängig über Entscheide und gesetzliche Bestimmungen mit wesentlichen Auswirkungen auf das Personal, namentlich was Lohnfragen betrifft, informiert und miteinbezogen werden.
 
 <sup>2</sup> Vor der Erhöhung oder Kürzung der Besoldung gemäss Artikel 7 Absätze 3 und 4 der vorliegenden Verordnung werden sie systematisch konsultiert.
 
-### 2. Kapitel: Besoldung der Angestellten
+## 2 Besoldung der Angestellten
 
 #### Art. 5
 
@@ -71,15 +68,10 @@ Der Angestellte ist verpflichtet, jede Veränderung seiner persönlichen Verhäl
 <sup>1</sup> Der Angestellte hat Anspruch auf eine Besoldung. Diese wird mit Ausnahme des dreizehnten Monatslohns am Monatsende ausbezahlt und setzt sich zusammen aus:
 
 - a) Grundbesoldung;
-
-- b) Erfahrungsanteile / individuelle Erhöhung aufgrund der Leistung;
-
+- b) Erfahrungsanteile/individuelle Erhöhung aufgrund der Leistung;
 - c) Leistungsprämie;
-
 - d) dreizehnter Monatslohn;
-
 - e) verschiedene Sozialzulagen;
-
 - f) andere Zulagen.
 
 <sup>2</sup> Der teilzeitbeschäftigte Angestellte erhält eine seinem Beschäftigungsgrad entsprechende Besoldung.
@@ -90,9 +82,9 @@ Der Angestellte ist verpflichtet, jede Veränderung seiner persönlichen Verhäl
 
 **Beginn und Ende des Besoldungsanspruchs**
 
-Der Anspruch auf Besoldung beginnt mit dem Tag des Dienstantritts und endet mit dem Tag der Auflösung des Dienstverhältnisses.
+<sup>1</sup> Der Anspruch auf Besoldung beginnt mit dem Tag des Dienstantritts und endet mit dem Tag der Auflösung des Dienstverhältnisses.
 
-### 1. Abschnitt: Grundbesoldung
+### 2.1 Grundbesoldung
 
 #### Art. 7
 
@@ -118,7 +110,7 @@ Der Anspruch auf Besoldung beginnt mit dem Tag des Dienstantritts und endet mit 
 
 <sup>4</sup> Die Besoldung wird während 720 Tagen voll ausbezahlt.
 
-<sup>5</sup> Angestellte mit einer befristeten Anstellung erhalten die Leistungen für die Dauer ihres Arbeitsvertrags ausbezahlt.
+<sup>5</sup> Angestellte mit einer befristeten Anstellung erhalten die Leistungen für die Dauer ihres Arbeitsvertrags ausbezahlt, höchstens jedoch für die Dauer von 720 Tagen.
 
 <sup>6</sup> Die Versicherungsleistungen gehören dem Arbeitgeber.
 
@@ -130,13 +122,15 @@ Der Anspruch auf Besoldung beginnt mit dem Tag des Dienstantritts und endet mit 
 
 <sup>1</sup> Die HES-SO Valais/Wallis schliesst für das unter Artikel 1 der vorliegenden Verordnung aufgeführte Personal eine Taggeldversicherung bei Unfall ab.
 
+<sup>1<sup>bis</sup></sup> Jede Abwesenheit infolge Unfall des Angestellten ist durch eine Unfallmeldung (ab dem 3. Tag durch ein ärztliches Zeugnis) zu rechtfertigen.
+
 <sup>2</sup> Die Besoldung wird während 720 Tagen voll ausbezahlt.
 
-<sup>3</sup> Angestellte mit einer befristeten Anstellung erhalten die Leistungen für die Dauer ihres Arbeitsvertrags ausbezahlt.
+<sup>3</sup> Angestellte mit einer befristeten Anstellung erhalten die Leistungen für die Dauer ihres Arbeitsvertrags ausbezahlt, höchstens jedoch für die Dauer von 720 Tagen.
 
 <sup>4</sup> Die Versicherungsleistungen gehören dem Arbeitgeber.
 
-<sup>5</sup> Nach Ablauf der in den obigen Absätzen erwähnten Lohnleistungen kommen die einschlägigen Bestimmungen der Vorsorgekasse zur Anwendung.
+<sup>5</sup> Nach Ablauf der in den obigen Absätzen erwähnten Lohnleistungen kommen die einschlägigen Bestimmungen der Unfallversicherung und der Vorsorgekasse zur Anwendung.
 
 #### Art. 10
 
@@ -156,7 +150,7 @@ Der Anspruch auf Besoldung beginnt mit dem Tag des Dienstantritts und endet mit 
 
 <sup>3</sup> Die nicht vorgenommene Anpassung an die Teuerung kann je nach finanzieller Situation der Institution ohne Kompensation ganz oder teilweise nachgeholt werden.
 
-### 2. Abschnitt: Verfahren zur Beurteilung von Leistung und Verhalten
+### 2.2 Verfahren zur Beurteilung von Leistung und Verhalten
 
 #### Art. 12
 
@@ -171,11 +165,8 @@ Der Anspruch auf Besoldung beginnt mit dem Tag des Dienstantritts und endet mit 
 <sup>4</sup> Sie zielt vorwiegend darauf ab:
 
 - a) den Umfang der realisierten Aufgaben zu bestimmen;
-
 - b) das Potenzial, die Bedürfnisse im Bereich der Bildung und Weiterbildung sowie die Möglichkeiten der Laufbahnplanung und der beruflichen Mobilität zu ermitteln;
-
 - c) die Verantwortung auf allen Stufen zu fördern und;
-
 - d) die Effizienz des Personals durch eine Erhöhung der Kompetenzen und eine Förderung der Motivation im Rahmen einer vorausschauenden Kompetenzplanung zu steigern.
 
 <sup>5</sup> Was die Mitglieder des Mittelbaus und des administrativen und technischen Personals betrifft, erlaubt die Beurteilung darüber hinaus die Anwendung eines individuellen Lohnsystems aufgrund der Leistung.
@@ -191,13 +182,9 @@ Der Anspruch auf Besoldung beginnt mit dem Tag des Dienstantritts und endet mit 
 <sup>3</sup> Die Beurteilung wird dem Angestellten in einem Gespräch mitgeteilt, in dem der Angestellte seine Bemerkungen anbringen kann. Anlässlich dieses Gesprächs müssen grundsätzlich ebenfalls besprochen werden:
 
 - a) die Realisierung der gesetzten Ziele und die Abweichungen;
-
 - b) die Beurteilung der Leistungen und des Verhaltens sowie der Abweichungen;
-
 - c) die allenfalls notwendigen Massnahmen;
-
 - d) die Festlegung der künftigen Arbeitsziele;
-
 - e) die Zufriedenheit des Angestellten.
 
 <sup>4</sup> Bei Versetzungen und Beförderungen, die zum Zeitpunkt der Beurteilung erfolgen, ist der neue direkte Vorgesetzte für dieselbe zuständig und arbeitet dabei mit dem bisherigen Vorgesetzten zusammen.
@@ -210,17 +197,22 @@ Der Anspruch auf Besoldung beginnt mit dem Tag des Dienstantritts und endet mit 
 
 **Überprüfungsgesuch**
 
-Innert zehn Tagen nach dem Beurteilungsgespräch kann der Angestellte ein schriftliches Überprüfungsgesuch an die Anstellungsbehörde richten. Unter Vorbehalt der Einhaltung des Globalbudgets entscheidet diese nach Anhören des Angestellten letztinstanzlich. Der Angestellte kann sich auf sein Gesuch hin begleiten lassen. Die Anstellungsbehörde kann die Überprüfung des Falles an eine von ihr bezeichnete Arbeitsgruppe delegieren.
+<sup>1</sup> Innert zehn Tagen nach dem Beurteilungsgespräch kann der Angestellte ein schriftliches Überprüfungsgesuch an die Anstellungsbehörde richten. Unter Vorbehalt der Einhaltung des Globalbudgets entscheidet diese nach Anhören des Angestellten letztinstanzlich. Der Angestellte kann sich auf sein Gesuch hin begleiten lassen. Die Anstellungsbehörde kann die Überprüfung des Falles an eine von ihr bezeichnete Arbeitsgruppe delegieren.
 
 #### Art. 15
 
-Beurteilungsstufen für den Mittelbau und das administrative und technische Personal Die Beurteilungsstufen reichen für jedes Kriterium von A+ bis C und werden wie folgt umschrieben:
+**Beurteilungsstufen für den Mittelbau und das administrative und technische Personal**
 
-A+ Anforderungen der Stelle deutlich übertroffen A Anforderungen der Stelle erfüllt oder teilweise übertroffen B Anforderungen der Stelle teilweise erfüllt C Anforderungen der Stelle nicht erfüllt
+<sup>1</sup> Die Beurteilungsstufen reichen für jedes Kriterium von A+ bis C und werden wie folgt umschrieben:
+
+- a) A+: Anforderungen der Stelle deutlich übertroffen;
+- b) A: Anforderungen der Stelle erfüllt oder teilweise übertroffen;
+- c) B: Anforderungen der Stelle teilweise erfüllt;
+- d) C: Anforderungen der Stelle nicht erfüllt.
 
 #### Art. 16
 
-Einzel- und Gesamtbeurteilung des Mittelbaus und des administrativen und technischen Personals
+**Einzel- und Gesamtbeurteilung des Mittelbaus und des administrativen und technischen Personals**
 
 <sup>1</sup> Für jedes Kriterium und jedes Unterkriterium wird eine Einzelbeurteilung in ganzen Stufen (A+, A, B, oder C) vorgenommen.
 
@@ -230,11 +222,9 @@ Einzel- und Gesamtbeurteilung des Mittelbaus und des administrativen und technis
 
 **Zuständigkeit**
 
-Die Anstellungsbehörde genehmigt die Gewährung einer individuellen Erhöhung aufgrund der Leistung.
+<sup>1</sup> Die Anstellungsbehörde genehmigt die Gewährung einer individuellen Erhöhung aufgrund der Leistung.
 
-### 3. Abschnitt: Erfahrungsanteile und individuelle Erhöhung
-
-aufgrund der Leistung
+### 2.3 Erfahrungsanteile und individuelle Erhöhung aufgrund der Leistung
 
 #### Art. 18
 
@@ -243,14 +233,12 @@ aufgrund der Leistung
 <sup>1</sup> Die anfängliche Erhöhung eines neuangestellten Mitarbeitenden wird wie folgt festgelegt:
 
 - a) gleiche oder ähnliche frühere Tätigkeit: 2 Prozent pro Jahr;
-
 - b) teilweise vergleichbare frühere Tätigkeit: 1 Prozent pro Jahr;
-
-- c) frühere Tätigkeit ohne Zusammenhang, insbesondere Jahre, die der Kindererziehung oder Pflege abhängiger Personen gewidmet waren: 0,5 Prozent pro Jahr.
+- c) frühere Tätigkeit ohne Zusammenhang, insbesondere Jahre, die der Kindererziehung oder Pflege abhängiger Personen gewidmet waren: 0.5 Prozent pro Jahr.
 
 <sup>2</sup> Teile eines Jahres, in Monaten ausgedrückt, werden pro rata angerechnet.
 
-<sup>3</sup> Das Schlusstotal wird auf 0,5 Prozent aufgerundet.
+<sup>3</sup> Das Schlusstotal wird auf 0.5 Prozent aufgerundet.
 
 <sup>4</sup> Die Direktion erlässt ein Reglement, welches die Modalitäten für die Berechnung der anfänglichen Erhöhung festlegt. Dieses präzisiert namentlich, inwiefern die früheren, teilzeitlichen Tätigkeiten berücksichtigt werden.
 
@@ -270,11 +258,10 @@ aufgrund der Leistung
 
 <sup>2</sup> Den Mitgliedern der Professorenschaft werden per 1. September gemäss Entscheid der Generaldirektion grundsätzlich Erfahrungsanteile gewährt, wobei folgender Grundsatz gilt:
 
-- a) 2,5 Prozent der Grundbesoldung bis zu 135 Prozent;
-
+- a) 2.5 Prozent der Grundbesoldung bis zu 135 Prozent;
 - b) anschliessend 1 Prozent bis zu 145 Prozent.
 
-<sup>3</sup> Die Mitglieder der Professorenschaft mit Erfahrungsa nteilen zwischen 32,5 und 34 Prozent erhalten im folgenden Jahr einen so hohen Erfahrungsanteil, dass sie auf insgesamt 35 Prozent kommen. Die Mitglieder der Professorenschaft mit Erfahrungsanteilen zwischen 34 und 35 Prozent erhalten im folgenden Jahr einen Erfahrungsanteil von 1 Prozent. Vorbehalten bleibt die Anwendung eines Koeffizienten gemäss Artikel 17 der vorliegenden Verordnung.
+<sup>3</sup> Die Mitglieder der Professorenschaft mit Erfahrungsa nteilen zwischen 32.5 und 34 Prozent erhalten im folgenden Jahr einen so hohen Erfahrungsanteil, dass sie auf insgesamt 35 Prozent kommen. Die Mitglieder der Professorenschaft mit Erfahrungsanteilen zwischen 34 und 35 Prozent erhalten im folgenden Jahr einen Erfahrungsanteil von 1 Prozent. Vorbehalten bleibt die Anwendung eines Koeffizienten gemäss Artikel 17 der vorliegenden Verordnung.
 
 <sup>4</sup> Bei nachweislich ungenügenden Leistungen zum Zeitpunkt des Beurteilungsgesprächs kann die Anstellungsbehörde die Erhöhung der Erfahrungsanteile kürzen oder streichen.
 
@@ -292,8 +279,7 @@ aufgrund der Leistung
 
 <sup>3</sup> Den Mitgliedern der Generaldirektion werden per 1. September grundsätzlich Erfahrungsanteile gewährt, wobei folgender Grundsatz gilt:
 
-- a) 0,5 Prozent der Grundbesoldung bis zu 105 Prozent;
-
+- a) 0.5 Prozent der Grundbesoldung bis zu 105 Prozent;
 - b) anschliessend 1 Prozent bis zur Maximalbesoldung gemäss Absätzen 1 und 2 des vorliegenden Artikels.
 
 <sup>4</sup> Vorbehalten bleibt die Anwendung eines Koeffizienten gemäss Artikel 17 der vorliegenden Verordnung.
@@ -302,13 +288,19 @@ aufgrund der Leistung
 
 #### Art. 22
 
-Individuelle Erhöhung aufgrund der Leistung für den Mittelbau und das administrative und technische Personal
+**Individuelle Erhöhung aufgrund der Leistung für den Mittelbau und das administrative und technische Personal**
 
 <sup>1</sup> Die individuelle Erhöhung aufgrund der Leistung kann bei den Mitgliedern des Mittelbaus und dem administrativen und technischen Personal bis zur Maximalbesoldung von 140 Prozent erfolgen.
 
 <sup>2</sup> Alljährlich am 1. Januar erhält der Angestellte auf Vorschlag des direkten Vorgesetzten gemäss Entscheid der Generaldirektion und im Rahmen des Globalbudgets eine progressive individuelle Erhöhung aufgrund seiner Leistung, die anhand der Gesamtbeurteilung des Vorjahres wie folgt berechnet wird:
 
-Gesamtbeurteilung Individuelle Erhöhung (auf den Zehntel gerundet) A+ 2,5 - 3,0% A 1,5 - 2,5% B 0 - 1,5% C 0%
+<table>
+<tr><th>Gesamtbeurteilung Individuelle</th><th>Erhöhung (auf den Zehntel gerundet)</th></tr>
+<tr><td>A+</td><td>2.5 - 3.0%</td></tr>
+<tr><td>A</td><td>1.5 - 2.5%</td></tr>
+<tr><td>B</td><td>0 - 1.5%</td></tr>
+<tr><td>C</td><td>0%</td></tr>
+</table>
 
 <sup>3</sup> Bei jeder Neueinstufung einer Funktion behält der Angestellte in der Regel seine erworbenen Erhöhungen.
 
@@ -318,11 +310,9 @@ Gesamtbeurteilung Individuelle Erhöhung (auf den Zehntel gerundet) A+ 2,5 - 3,0
 
 **Koeffizient**
 
-Je nach Finanzlage der HES-SO Valais/Wallis kann die Generaldirektion auf den Prozentsatz der Erfahrungsanteile bzw. auf die individuelle Erhöhung aufgrund der Leistung für das gesamte Personal der Institution einen Koeffizienten von 0,6 bis 1,4 anwenden. Ohne gegenteiligen Beschluss ist der massgebende Koeffizient 1.
+<sup>1</sup> Je nach Finanzlage der HES-SO Valais/Wallis kann die Generaldirektion auf den Prozentsatz der Erfahrungsanteile bzw. auf die individuelle Erhöhung aufgrund der Leistung für das gesamte Personal der Institution einen Koeffizienten von 0.6 bis 1.4 anwenden. Ohne gegenteiligen Beschluss ist der massgebende Koeffizient 1.
 
-### 4. Abschnitt: Leistungsprämie für den Mittelbau und das
-
-administrative und technische Personal
+### 2.4 Leistungsprämie für den Mittelbau und das administrative und technische Personal
 
 #### Art. 24
 
@@ -345,9 +335,7 @@ administrative und technische Personal
 <sup>1</sup> Anspruch auf eine Leistungsprämie hat das Mitglied des Mittelbaus oder des administrativen und technischen Personals, das am 1. Januar eines Jahres nachfolgende Voraussetzungen kumulativ erfüllt:
 
 - a) Amtsinhaber seit mindestens einem Jahr;
-
 - b) Erreichung der Maximalbesoldung von 140 Prozent sowie;
-
 - c) genügende Qualifikation.
 
 <sup>2</sup> Ausnahmsweise hat der Angestellte, dem die letzte individuelle Erhöhung aufgrund der Leistung wegen dem Grenzwert von 140 Prozent nicht mehr vollumfänglich gewährt werden kann, Anspruch auf eine Leistungsprämie in jenem Jahr, in dem das Maximum erreicht wird; dies sofern alle Voraussetzungen erfüllt sind. Der Prozentsatz der Leistungsprämie entspricht jenem der nicht gewährten individuellen Erhöhung.
@@ -360,25 +348,31 @@ administrative und technische Personal
 
 <sup>1</sup> Die Leistungsprämie wird auf der Grundlage der Grundbesoldung und der individuellen Erhöhung aufgrund der Leistung gemäss Entscheid der Anstellungsbehörde und im Rahmen des festgelegten Globalbudgets nach folgender Abstufung berechnet:
 
-Gesamtbeurteilung Leistungsprämie (auf den Zehntel gerundet) A+ 5,0 - 7,0% A 2,5 - 5,0% B 0/2,0 - 2,5% C 0%
+<table>
+<tr><th>Gesamtbeurteilung</th><th>Leistungsprämie (auf den Zehntel gerundet)</th></tr>
+<tr><td>A+</td><td>5.0 - 7.0%</td></tr>
+<tr><td>A</td><td>2.5 - 5.0%</td></tr>
+<tr><td>B</td><td>0/2.0 - 2.5%</td></tr>
+<tr><td>C</td><td>0%</td></tr>
+</table>
 
 <sup>2</sup> Bei Beförderungen wird die Leistungsprämie bis Ende des laufenden Kalenderjahres auf maximal vier Prozent begrenzt; dasselbe gilt für das nachfolgende Kalenderjahr, wenn die Beförderung nach dem 30. Juni erfolgte. Während dieser Zeit bleibt die frühere Besoldung in jedem Fall garantiert.
 
-<sup>3</sup> Je nach Finanzlage der Institution kann die Anstellungsbehörde auf die Skala in Absatz 1 einen Koeffizienten von 0,6 bis 1,4 anwenden. Ohne gegenteiligen Beschluss gilt der Koeffizient 1.
+<sup>3</sup> Je nach Finanzlage der Institution kann die Anstellungsbehörde auf die Skala in Absatz 1 einen Koeffizienten von 0.6 bis 1.4 anwenden. Ohne gegenteiligen Beschluss gilt der Koeffizient 1.
 
 #### Art. 27
 
 **Entzug**
 
-Im Falle eines Versäumnisses wird die für ein Jahr gewährte Leistungsprämie auf Vorschlag des Vorgesetzten durch Entscheid der Anstellungsbehörde herabgesetzt oder entzogen. Der Angestellte muss angehört werden.
+<sup>1</sup> Im Falle eines Versäumnisses wird die für ein Jahr gewährte Leistungsprämie auf Vorschlag des Vorgesetzten durch Entscheid der Anstellungsbehörde herabgesetzt oder entzogen. Der Angestellte muss angehört werden.
 
 #### Art. 28
 
 **Zuständigkeit**
 
-Die Anstellungsbehörde genehmigt die Gewährung von Leistungsprämien.
+<sup>1</sup> Die Anstellungsbehörde genehmigt die Gewährung von Leistungsprämien.
 
-### Abschnitt: Dreizehnter Monatslohn
+### 2.5 Dreizehnter Monatslohn
 
 #### Art. 29
 
@@ -389,12 +383,11 @@ Die Anstellungsbehörde genehmigt die Gewährung von Leistungsprämien.
 <sup>2</sup> Dieser entspricht einem Zwölftel der jährlichen Besoldung, die sich zusammensetzt aus:
 
 - a) Grundbesoldung;
-
 - b) individuelle Erhöhung oder Erfahrungsanteil.
 
 <sup>3</sup> Er wird im Monat Dezember ausbezahlt.
 
-### Abschnitt: Verschiedene Zulagen
+### 2.6 Verschiedene Zulagen
 
 #### Art. 30
 
@@ -404,7 +397,7 @@ Die Anstellungsbehörde genehmigt die Gewährung von Leistungsprämien.
 
 <sup>2</sup> Endet das Arbeitsverhältnis auf den Zeitpunkt der Niederkunft, besteht ein Besoldungsanspruch von höchstens acht Wochen.
 
-<sup>3</sup> Endet das Arbeitsverhältnis sechs Monate nach der Niederkunft, wird der Besoldungsanspruch um den entsprechenden pro rata Anteil gekürzt.
+<sup>3</sup> Endet das Arbeitsverhältnis sechs Monate nach der Niederkunft, wird der Besoldungsanspruch um den entsprechenden prorata Anteil gekürzt.
 
 <sup>4</sup> Dem Angestellten, der ein noch nicht schulpflichtiges Kind zur Adoption aufnimmt, wird Urlaub zur Adoption gewährt.
 
@@ -420,7 +413,7 @@ Die Anstellungsbehörde genehmigt die Gewährung von Leistungsprämien.
 
 **Mutterschaftsentschädigung**
 
-<sup>1</sup> Die im Art. 16bis des Bundesgesetzes über den Erwerbersatz für Dienstleistende und bei Mutterschaft vom 25. September 1952 vorgesehene Mutterschaftsentschädigung fällt an die HES-SO Valais/Wallis, solange diese die Besoldung ausrichtet.
+<sup>1</sup> Die im Art. 16<sup>bis</sup> des Bundesgesetzes über den Erwerbersatz für Dienstleistende und bei Mutterschaft vom 25. September 1952 vorgesehene Mutterschaftsentschädigung fällt an die HES-SO Valais/Wallis, solange diese die Besoldung ausrichtet.
 
 <sup>2</sup> Wird die Besoldung nicht mehr ausbezahlt, so ist ein eventueller Saldo der Mutterschaftsentschädigung direkt durch die Angestellte einzufordern.
 
@@ -444,7 +437,9 @@ Die Anstellungsbehörde genehmigt die Gewährung von Leistungsprämien.
 
 #### Art. 34
 
-Einrichtung der Arbeitsbedingungen in der Schwangerschaft Spezielle Arbeitsbedingungen können für schwangere Frauen vorgesehen werden, um ihre Gesundheit und diejenige des Kindes zu schützen.
+**Einrichtung der Arbeitsbedingungen in der Schwangerschaft**
+
+<sup>1</sup> Spezielle Arbeitsbedingungen können für schwangere Frauen vorgesehen werden, um ihre Gesundheit und diejenige des Kindes zu schützen.
 
 #### Art. 35
 
@@ -474,7 +469,29 @@ Einrichtung der Arbeitsbedingungen in der Schwangerschaft Spezielle Arbeitsbedin
 
 **Vaterschaftsurlaub**
 
-Ein Vaterschaftsurlaub von zehn Arbeitstagen wird gegen Vorweisung einer Kopie der Geburtsurkunde oder der Vaterschaftsanerkennung gewährt, wobei der Sonderurlaub spätestens in den zwei auf das Datum der Niederkunft folgenden Monaten oder der Rückkehr des Kindes bei verlängertem Spitalaufenthalt desselben an den Familienwohnsitz zu beziehen ist.
+<sup>1</sup> Ein Vaterschaftsurlaub von 10 Arbeitstagen wird gegen Vorweisung einer Kopie der Geburtsurkunde oder der Vaterschaftsanerkennung gewährt, wobei der Sonderurlaub spätestens in den 6 auf das Datum der Niederkunft folgenden Monaten oder der Rückkehr des Kindes bei verlängertem Spitalaufenthalt desselben an den Familienwohnsitz zu beziehen ist.
+
+<sup>2</sup> Diese Tage können unter Berücksichtigung der Organisation der Abteilung wochenweise oder einzeln bezogen werden.
+
+<sup>3</sup> Die Entschädigung der Ausgleichskasse gehört dem Arbeitgeber, der weiterhin den vollen Lohn auszahlt.
+
+#### Art. 37a
+
+**Urlaub für die Betreuung eines Kindes, das durch Krankheit oder Unfall in seiner Gesundheit stark beeinträchtigt ist**
+
+<sup>1</sup> Hat der Angestellte Anspruch auf eine Betreuungsentschädigung im Sinne der Artikel 16n bis 16s des EOG, weil sein Kind wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist, so hat er Anspruch auf einen Betreuungsurlaub von höchstens 14 Wochen.
+
+<sup>2</sup> Der Betreuungsurlaub ist innerhalb einer Rahmenfrist von 18 Monaten zu beziehen. Die Rahmenfrist beginnt mit dem Tag, für den die erste Entschädigung ausbezahlt wird.
+
+<sup>3</sup> Wenn beide Elternteile arbeiten, hat jeder Anspruch auf einen Betreuungsurlaub von bis zu 7 Wochen. Sie können vereinbaren, den Urlaub auf andere Weise zu teilen.
+
+<sup>4</sup> Der Urlaub kann auf einmal oder tageweise bezogen werden, wobei die Organisation der Abteilung so weit wie möglich zu berücksichtigen ist.
+
+<sup>5</sup> Die Entschädigung der Ausgleichskasse gehört dem Arbeitgeber, welcher weiterhin den vollen Lohn auszahlt.
+
+<sup>6</sup> Stellt die Ausgleichskasse fest, dass der Mitarbeiter die Kriterien für die Gewährung einer Betreuungsentschädigung im Sinne der Artikel 16n bis 16s EOG nicht erfüllt, so gilt der Urlaub, den er genommen hätte, als unbezahlter Urlaub beziehungsweise als Kompensation seines Zeitguthabens, seiner Urlaubstage und/oder seines Diensttreueurlaubs.
+
+<sup>7</sup> Die Artikel 16n bis 16s EOG sind anwendbar.
 
 #### Art. 38
 
@@ -492,9 +509,9 @@ Ein Vaterschaftsurlaub von zehn Arbeitstagen wird gegen Vorweisung einer Kopie d
 
 **Lohnfortzahlung im Todesfall**
 
-Stirbt ein Angestellter im Dienste der HES-SO Valais/Wallis, so wird der Familie, sofern der Angestellte ihr gegenüber eine Unterstützungspflicht erfüllt hat, während dreier Monaten weiterhin Lohn ausbezahlt, wobei die Leistungen der Vorsorgekasse abgezogen werden.
+<sup>1</sup> Stirbt ein Angestellter im Dienste der HES-SO Valais/Wallis, so wird der Familie, sofern der Angestellte ihr gegenüber eine Unterstützungspflicht erfüllt hat, während dreier Monaten weiterhin Lohn ausbezahlt, wobei die Leistungen der Vorsorgekasse abgezogen werden.
 
-### 7. Abschnitt: Ausserordentliche Anerkennung
+### 2.7 Ausserordentliche Anerkennung
 
 #### Art. 40
 
@@ -512,11 +529,11 @@ Stirbt ein Angestellter im Dienste der HES-SO Valais/Wallis, so wird der Familie
 
 <sup>6</sup> Es besteht kein Anrecht auf eine ausserordentliche Anerkennung und deren Gewährung bzw. Nicht-Gewährung kann nicht angefochten werden.
 
-### 8. Abschnitt: Andere Entschädigungen
+### 2.8 Andere Entschädigungen
 
 #### Art. 41
 
-Vertretung bei Abwesenheit, befristete Vertretung und Entschädigung für die Stellvertretung
+**Vertretung bei Abwesenheit eines Mitglieds des administrativen oder technischen Personals oder des Mittelbaus, befristete Vertretung und Entschädigung für die Stellvertretung**
 
 <sup>1</sup> Im Falle vorübergehender Abwesenheit eines Mitglieds des administrativen oder technischen Personals oder des Mittelbaus infolge Krankheit, Unfall, Militärdienst, Ferien, bezahltem Urlaub oder ähnlichen Gründen hat der für die Vertretung bezeichnete Angestellte die Arbeit des Abwesenden ohne Anspruch auf besonderes Entgelt zu erledigen. Ausgenommen ist die Ausübung einer Führungsaufgabe.
 
@@ -526,31 +543,41 @@ Vertretung bei Abwesenheit, befristete Vertretung und Entschädigung für die St
 
 <sup>4</sup> Die Gewährung einer Entschädigung wird von der Anstellungsbehörde auf Vorschlag der HR-Abteilung der HES-SO Valais/Wallis entschieden.
 
+#### Art. 41a
+
+**Vertretung bei Abwesenheit eines Mitglieds der Professorenschaft, befristete Vertretung und Entschädigung für die Stellvertretung**
+
+<sup>1</sup> Im Falle einer vorübergehenden längeren Abwesenheit eines Mitglieds der Professorenschaft infolge Krankheit, Unfalls, Militärdienstes, Studienurlaubs, unbezahlten Urlaubs oder aus ähnlichen Gründen hat der für die Vertretung bezeichnete Angestellte die Arbeit des Abwesenden zu erledigen. Der Vorgesetzte vergewissert sich der Kompetenzen des für die Vertretung bezeichneten Angestellten und nimmt die Vertretungsstunden in das Pflichtenblatt des laufenden, möglicherweise des folgenden akademischen Jahres auf.
+
+<sup>2</sup> Ausnahmsweise kann für die Dauer der Vertretung eines Mitglieds der Professorenschaft eine Entschädigung gewährt werden. Diese wird auf der Grundlage des Stundenansatzes des bezeichneten Angestellten berechnet.
+
+<sup>3</sup> Die Gewährung einer Entschädigung wird von der Anstellungsbehörde auf Vorschlag der HR-Abteilung der HES-SO Valais/Wallis entschieden.
+
 #### Art. 42
 
-<sup>1</sup> Ausserordentliche Anerkennung
+**Ausserordentliche Anerkennung**
 
-<sup>1</sup> Als Zeichen einer ausserordentlichen Anerkennung kann einem Angestellten, der Mitglied des Lehrkörpers ist, eine Prämie bis maximal 5'000 Franken gewährt werden.<sup>1</sup>
+<sup>1</sup> Als Zeichen einer ausserordentlichen Anerkennung kann einem Angestellten, der Mitglied des Lehrkörpers ist, eine Prämie bis maximal 5'000 Franken gewährt werden.
 
-<sup>2</sup> Die ausserordentliche Anerkennung wird für aussergewöhnliche Leistungen oder aussergewöhnliches Verhalten gewährt.<sup>1</sup>
+<sup>2</sup> Die ausserordentliche Anerkennung wird für aussergewöhnliche Leistungen oder aussergewöhnliches Verhalten gewährt.
 
-<sup>3</sup> Ein Angestellter oder maximal fünf Prozent der Angestellten, die Mitglieder des Lehrkörpers einer Hochschule sind, können pro Jahr in den Genuss einer ausserordentlichen Anerkennung kommen.<sup>1</sup>
+<sup>3</sup> Ein Angestellter oder maximal fünf Prozent der Angestellten, die Mitglieder des Lehrkörpers einer Hochschule sind, können pro Jahr in den Genuss einer ausserordentlichen Anerkennung kommen.
 
-<sup>4</sup> Auf Vorschlag der betreffenden Vorgesetzten wird diese Anerkennung von der Anstellungsbehörde im Rahmen des dazu zur Verfügung stehenden Budgetbetrags gewährt.<sup>1</sup>
+<sup>4</sup> Auf Vorschlag der betreffenden Vorgesetzten wird diese Anerkennung von der Anstellungsbehörde im Rahmen des dazu zur Verfügung stehenden Budgetbetrags gewährt.
 
-<sup>5</sup> Die Anstellungsbehörde kann eine aussergewöhnliche Anerkennung ebenfalls zwischen mehreren Angestellten aufteilen, wobei pro Angestellter mindestens 1'000 Franken gewährt werden. In diesem Fall kann von der Höchstzahl der Begünstigten, wie in Absatz 3 des vorliegenden Artikels definiert, unter Vorbehalt des dazu zur Verfügung stehenden Budgetbetrags abgewichen werden.<sup>1</sup>
+<sup>5</sup> Die Anstellungsbehörde kann eine aussergewöhnliche Anerkennung ebenfalls zwischen mehreren Angestellten aufteilen, wobei pro Angestellter mindestens 1'000 Franken gewährt werden. In diesem Fall kann von der Höchstzahl der Begünstigten, wie in Absatz 3 des vorliegenden Artikels definiert, unter Vorbehalt des dazu zur Verfügung stehenden Budgetbetrags abgewichen werden.
 
-<sup>6</sup> Es besteht kein Anrecht auf eine ausserordentliche Anerkennung und deren Gewährung bzw. Nicht-Gewährung kann nicht angefochten werden.<sup>1</sup>
+<sup>6</sup> Es besteht kein Anrecht auf eine ausserordentliche Anerkennung und deren Gewährung bzw. Nicht-Gewährung kann nicht angefochten werden.
 
 #### Art. 43
 
 **Entschädigungen für zusätzliche Verantwortlichkeiten**
 
-<sup>1</sup> Die FH-Professoren, welche die Verantwortung für einen Studiengang oder ein Institut tragen, können für die zusätzliche Verantwortung entschädigt werden, wobei diese Entschädigung höchstens 5 Prozent des Lohnmaximums eines ordentlichen FH-Professors, exkl. 13. Monatslohn, beträgt. Sie wird in in zwölf Monatsraten ausbezahlt.<sup>1</sup>
+<sup>1</sup> Die FH-Professoren, welche die Verantwortung für einen Studiengang oder ein Institut tragen, können für die zusätzliche Verantwortung entschädigt werden, wobei diese Entschädigung höchstens 5 Prozent des Lohnmaximums eines ordentlichen FH-Professors, exkl. 13. Monatslohn, beträgt. Sie wird in in zwölf Monatsraten ausbezahlt.
 
-<sup>2</sup> Die von der Anstellungsbehörde festgelegte Entschädigung ist kein Lohnbestandteil und daher auch nicht pensionskassenbeitragspflichtig.<sup>1</sup>
+<sup>2</sup> Die von der Anstellungsbehörde festgelegte Entschädigung ist kein Lohnbestandteil und daher auch nicht pensionskassenbeitragspflichtig.
 
-<sup>3</sup> Aufgehoben<sup>1</sup>
+<sup>3</sup> …
 
 #### Art. 44
 
@@ -564,7 +591,7 @@ Vertretung bei Abwesenheit, befristete Vertretung und Entschädigung für die St
 
 <sup>4</sup> Jährlich am 31. Dezember werden die Überstunden, welche 100 Stunden übersteigen, gestrichen.
 
-<sup>5</sup> Angestellte, die in den Besoldungsklassen 1 - 6 eingereiht sind, dürfen Überzeit nur durch Freizeit kompensieren.
+<sup>5</sup> Angestellte, die in den Besoldungsklassen 1 bis 6 eingereiht sind, dürfen Überzeit nur durch Freizeit kompensieren.
 
 <sup>6</sup> Beim Tod eines Angestellten ist der Saldo der Überzeit vollumfänglich geschuldet und wird mit einem Zuschlag von 25 Prozent ausbezahlt.
 
@@ -586,13 +613,19 @@ Vertretung bei Abwesenheit, befristete Vertretung und Entschädigung für die St
 
 **Pikettdienst - Entschädigung und Zeitausgleich**
 
-Die Modalitäten zur pauschalen Vergütung von Bereitschaftsdienst und Einsatzzeit einschliesslich Reisezeit werden von der Generaldirektion festgelegt.
+<sup>1</sup> Die Modalitäten zur pauschalen Vergütung von Bereitschaftsdienst und Einsatzzeit einschliesslich Reisezeit werden von der Generaldirektion festgelegt.
+
+#### Art. 46a
+
+**Flexibles Rentenalter**
+
+<sup>1</sup> Die HES-SO Valais/Wallis bietet ihren Angestellten die Möglichkeit eines flexiblen Rentenalters zwischen 58 und 70 Jahren.
 
 #### Art. 47
 
 **Herabsetzung des Beschäftigungsgrades vor der Pensionierung**
 
-<sup>1</sup> Der Angestellte, der in den letzten fünf Jahren einen Beschäftigungsgrad von über 50 Prozent hatte, kann auf sein Gesuch hin ermächtigt werden, seine Tätigkeit in den letzten fünf Jahren vor Erreichung der ordentlichen Alterslimite um höchstens 20 Prozent im Vergleich zum durchschnittlichen Beschäftigungsgrad herabzusetzen.
+<sup>1</sup> Derm Angestellten, der in den 5 Jahren vor Erreichen des flexiblen Rentenalters einen durchschnittlichen Beschäftigungsgrad von mindestens 50 Prozent hatte, kann erlaubt werden, seine Tätigkeit während höchstens 5 aufeinanderfolgenden Jahren um höchstens 20 Prozent im Vergleich zu seinem ordentlichen Beschäftigungsgrad herabzusetzen.
 
 <sup>2</sup> Nach der Herabsetzung muss der Beschäftigungsgrad mindestens 50 Prozent betragen.
 
@@ -600,15 +633,29 @@ Die Modalitäten zur pauschalen Vergütung von Bereitschaftsdienst und Einsatzze
 
 <sup>4</sup> Die HES-SO Valais/Wallis übernimmt für den Teil des herabgesetzten Beschäftigungsgrades die Bezahlung sämtlicher Beiträge an die berufliche Vorsorge, nämlich der Arbeitgeber- und Arbeitnehmerbeiträge, um das versicherte Gehalt auf dem früheren Stand zu halten.
 
-### 3. Kapitel: Spesenentschädigung
+#### Art. 47a
+
+**Herabsetzung des Beschäftigungsgrades nach Geburt oder Adoption**
+
+<sup>1</sup> Die Mitarbeitenden haben nach der Geburt oder Adoption eines oder mehrerer Kinder Anspruch auf eine Herabsetzung des Beschäftigungsgrades in ihrer Funktion um bis zu 20 Prozent bis zu einem verbleibenden Beschäftigungsgrad von 60 Prozent.
+
+<sup>2</sup> Der Anspruch auf Herabsetzung des Beschäftigungsgrades muss innerhalb von 12 Monaten nach der Geburt oder der Adoption des Kindes geltend gemacht werden.
+
+<sup>3</sup> Die Arbeit mit herabgesetztem Beschäftigungsgrad beginnt spätestens am ersten Tag nach Ablauf der in Absatz 2 erwähnten Frist von 12 Monaten.
+
+<sup>4</sup> Die Anstellungsbehörde kann mittels Richtlinie Kategorien von Mitarbeitenden festlegen, die von der Anwendung der Bestimmungen dieses Artikels ausgenommen sind.
+
+<sup>5</sup> Falls die Organisation es erlaubt, kann die Anstellungsbehörde einen Beschäftigungsgrad von weniger als 60 Prozent genehmigen.
+
+## 3 Spesenentschädigung
 
 #### Art. 48
 
 **Spesenentschädigung**
 
-Die Generaldirektion ist dafür zuständig, auf dem Reglementsweg die für die Spesenentschädigung des Personals geltenden Bestimmungen festzulegen.
+<sup>1</sup> Die Generaldirektion ist dafür zuständig, auf dem Reglementsweg die für die Spesenentschädigung des Personals geltenden Bestimmungen festzulegen.
 
-### 4. Kapitel: Klassifikation
+## 4 Klassifikation
 
 #### Art. 49
 
@@ -617,11 +664,8 @@ Die Generaldirektion ist dafür zuständig, auf dem Reglementsweg die für die S
 <sup>1</sup> Die Klassifikationskommission wird von der Generaldirektion nach Anhören der betroffenen Kreise gebildet. Den Vorsitz übernimmt der Verantwortliche der HR-Abteilung der HES-SO Valais/Wallis. Sie besteht aus fünf Mitgliedern und setzt sich wie folgt zusammen:
 
 - a) der Verantwortliche der HR-Abteilung der HES-SO Valais/Wallis;
-
-- b) ein Vertreter des anerkannten Verbands des Personals;
-
-- c) ein Vertreter des Verbands für Höheres Berufsschulwesen;
-
+- b) 2 Vertreter eines anerkannten Personalverbands (1x Lehr- und Forschungspersonal, 1x administratives und technisches Personal);
+- c) …
 - d) zwei Vertreter aus dem Kader der HES-SO Valais/Wallis, nämlich der Studiengangsleiter, der Institutsleiter oder der Verantwortliche eines zentralen Dienstes.
 
 <sup>2</sup> Die Kommission kann externe Fachkräfte hinzuziehen.
@@ -642,7 +686,7 @@ Die Generaldirektion ist dafür zuständig, auf dem Reglementsweg die für die S
 
 **Lohnbegehren**
 
-Sämtliche Lohnbegehren werden einmal jährlich geprüft. Diese Begehren sind bis zum 31. Januar bei der HR-Abteilung der HES-SO Valais/Wallis einzureichen. Sie werden durch die Klassifikationskommission zuhanden der Anstellungsbehörde behandelt, womit eine allfällige Änderung auf den 1. Januar des Folgejahres in Kraft treten kann.
+<sup>1</sup> Sämtliche Lohnbegehren werden einmal jährlich geprüft. Diese Begehren sind bis zum 31. Januar bei der HR-Abteilung der HES-SO Valais/Wallis einzureichen. Sie werden durch die Klassifikationskommission zuhanden der Anstellungsbehörde behandelt, womit eine allfällige Änderung auf den 1. Januar des Folgejahres in Kraft treten kann.
 
 #### Art. 52
 
@@ -652,7 +696,7 @@ Sämtliche Lohnbegehren werden einmal jährlich geprüft. Diese Begehren sind bi
 
 <sup>2</sup> Die Anstellungsbehörde ist dafür zuständig, die Funktionsketten der Institution umzusetzen und anzupassen. Dabei stützt sie sich grundsätzlich auf die entsprechenden Funktionsketten des Staates Wallis und holt die Vormeinung der Klassifikationskommission ein.
 
-### 5. Kapitel: Arbeitszeit, Ferien, Sonderurlaube und andere Urlaube
+## 5 Arbeitszeit, Ferien, Sonderurlaube und andere Urlaube
 
 #### Art. 53
 
@@ -662,7 +706,7 @@ Sämtliche Lohnbegehren werden einmal jährlich geprüft. Diese Begehren sind bi
 
 <sup>2</sup> Teilzeitangestellte, deren Beschäftigungsgrad in einer Anstellungsverfügung festgelegt ist, widmen ihren Aufgaben jene Zeit, für die sie angestellt wurden.
 
-<sup>3</sup> Die Direktoren der Hochschulen und die Mitglieder der Professorenschaft setzen mindestens 160 Stunden ihres massgebenden Jahresaufwands gemäss Pflichtenblatt für ihre individuelle Weiterbildung ein. Dieser Anspruch ist proportional zum Beschäftigungsgrad und kann sich gestützt auf die von der HES-SO erlassenen Bestimmungen ändern.
+<sup>3</sup> Die Direktoren der Hochschulen und die Mitglieder der Professorenschaft, mit Ausnahme der Lehrbeauftragten, setzen mindestens 160 Stunden ihres massgebenden Jahresaufwands gemäss Pflichtenblatt für ihre individuelle Weiterbildung ein. Dieser Anspruch ist proportional zum Beschäftigungsgrad und kann sich gestützt auf die von der HES-SO erlassenen Bestimmungen ändern.
 
 #### Art. 54
 
@@ -672,11 +716,13 @@ Sämtliche Lohnbegehren werden einmal jährlich geprüft. Diese Begehren sind bi
 
 <sup>2</sup> Der Direktor der HES-SO Valais/Wallis, die Mitglieder des Mittelbaus und des administrativen und technischen Personals haben Anspruch auf jährliche Ferien gemäss folgender Tabelle:
 
-**Anzahl Ferientage pro Jahr 25 Tage 27 Tage 30 Tage 32 Tage**
-
-Alter (Altersjahr) Bis zum 44.
-
-vom 45. bis zum 49. Altersjahr vom 50. bis zum 56. Altersjahr ab dem 57. Altersjahr
+<table>
+<tr><th>Alter (Altersjahr)</th><th>Anzahl Ferientage pro Jahr</th></tr>
+<tr><td>Bis zum 44.</td><td>25 Tage</td></tr>
+<tr><td>vom 45. bis zum 49. Altersjahr</td><td>27 Tage</td></tr>
+<tr><td>vom 50. bis zum 56. Altersjahr</td><td>30 Tage</td></tr>
+<tr><td>ab dem 57. Altersjahr</td><td>32 Tage</td></tr>
+</table>
 
 <sup>3</sup> Bei Angestellten mit einer Teilzeitanstellung werden die Anzahl Ferientage im Verhältnis zu ihrem Beschäftigungsgrad festgelegt.
 
@@ -689,18 +735,16 @@ vom 45. bis zum 49. Altersjahr vom 50. bis zum 56. Altersjahr ab dem 57. Altersj
 <sup>1</sup> Den Angestellten werden Sonderurlaube, die im Zusammenhang mit dem Ereignis zu beziehen sind, gemäss folgender Tabelle gewährt:
 
 - a) im Todesfall:
-
-fünf Arbeitstage: Ehegatte, Konkubinatspartner, eigene Kinder drei Arbeitstage: Vater, Mutter zwei Arbeitstage: Bruder, Schwester, Schwiegermutter
-
-**Schwiegervater,**
-
+  - 1\. fünf Arbeitstage: Ehegatte, Konkubinatspartner, eigene Kinder,
+  - 2\. drei Arbeitstage: Vater, Mutter,
+  - 3\. zwei Arbeitstage: Bruder, Schwester, Schwiegervater, Schwiegermutter;
 - b) im Todesfall, wenn die Beerdigung auf einen Arbeitstag fällt:
-
-ein Tag: Grosskinder, Grosseltern, Urgrosseltern, Schwager oder Schwägerin, Onkel, Tante, Neffe, Nichte ein halber Tag: Vetter oder Base im 1. Grad, Pate, Patin, Patenkind
-
+  - 1\. in Tag: Grosskinder, Grosseltern, Urgrosseltern, Schwager oder Schwägerin, Onkel, Tante, Neffe, Nichte,
+  - 2\. ein halber Tag: Vetter oder Base im 1. Grad, Pate, Patin, Patenkind;
 - c) bei Hochzeit:
-
-sechs Arbeitstage: bei der eigenen Heirat (zu beziehen spätestens ein Jahr nach der zivilen Hochzeit) ein Tag: bei Familienangehörigen in aufsteigender und absteigen der Linie (Kinder und Grosskinder, Bruder oder Schwes- ter, Schwager oder Schwägerin), unter der Bedingung, dass die Feier an einem Arbeitstag stattfindet d) Umzug der Hauptwohnung: ein Tag
+  - 1\. sechs Arbeitstage: bei der eigenen Heirat (zu beziehen spätestens ein Jahr nach der zivilen Hochzeit),
+  - 2\. ein Tag: bei Familienangehörigen in aufsteigender und absteigen der Linie (Kinder und Grosskinder, Bruder oder Schwester, Schwager oder Schwägerin), unter der Bedingung, dass die Feier an einem Arbeitstag stattfindet;
+- d) Umzug der Hauptwohnung: ein Tag.
 
 <sup>2</sup> Bei Krankheit oder Unfall eines nahen Verwandten ist der Direktor der betreffenden Hochschule oder der Direktor der HES-SO Valais/Wallis ermächtigt, einen Sonderurlaub von höchstens fünf Arbeitstagen für ein und dieselbe Krankheit oder ein und denselben Unfall zu gewähren. Diese Anzahl Tage wird aufgrund der Bedürfnisse und der Schwere der Krankheit oder des Unfalls festgelegt. Einem Angestellten können allerdings maximal zehn Tage pro Jahr bewilligt werden.
 
@@ -714,18 +758,13 @@ sechs Arbeitstage: bei der eigenen Heirat (zu beziehen spätestens ein Jahr nach
 
 **Reglement über die Arbeitszeit**
 
-Die Anstellungsbehörde erlässt ein Reglement mit Bestimmungen zu:
+<sup>1</sup> Die Anstellungsbehörde erlässt ein Reglement mit Bestimmungen zu:
 
 - a) Arbeitsdauer;
-
 - b) Arbeitszeitmodellen;
-
 - c) Kontroll- und Aufsichtspflichten;
-
 - d) Grundsätzen der Arbeitszeitverwaltung;
-
 - e) Sonderurlauben und Ferien;
-
 - f) Austritt oder Hinschied.
 
 #### Art. 57
@@ -766,7 +805,7 @@ Die Anstellungsbehörde erlässt ein Reglement mit Bestimmungen zu:
 
 <sup>1</sup> Der Angestellte, der ein öffentliches Amt bekleidet, hat Anspruch auf Sonderurlaub von höchstens zehn Tagen pro Jahr, berechnet pro rata temporis, sofern er diese Aufgabe nicht ausserhalb der ordentlichen Arbeitszeit erfüllen kann.
 
-<sup>2</sup> Als öffentliches Amt gilt jenes, das Gegenstand einer Wahl und nicht einer Anstellung bildet.
+<sup>2</sup> Als öffentliches Amt gilt jenes, das Gegenstand einer Wahl und nicht einer Ernennung bildet.
 
 <sup>3</sup> Der Urlaub untersteht der Bewilligung der Anstellungsbehörde.
 
@@ -790,13 +829,13 @@ Die Anstellungsbehörde erlässt ein Reglement mit Bestimmungen zu:
 
 **Unbezahlter Urlaub**
 
-<sup>1</sup> Die HES-SO Valais/Wallis unterstützt die Gewährung von unbezahlten Urlauben.
+<sup>1</sup> Um die Vereinbarkeit von Berufs- und Privatleben zu fördern, unterstützt die HES-SO Valais/Wallis für ihr gesamtes Personal die Gewährung von unbezahlten Urlauben.
 
-<sup>2</sup> Um die Vereinbarkeit von Berufs- und Privatleben zu fördern, werden die Angestellten berechtigt, nach einem Mutterschafts-, Vaterschafts- oder Adoptionsurlaub einen unbezahlten Urlaub, berechnet pro rata temporis zu beziehen. Der Arbeitgeber übernimmt für die Dauer eines solchen unbezahlten Urlaubs die Bezahlung sämtlicher Beiträge an die berufliche Vorsorge, nämlich Arbeitgeber- und Arbeitnehmerbeiträge, aber im Maximum während drei Monaten. Bei einem Antrag für einen unbezahlten Urlaub nach einem Schwangerschaftsurlaub oder einer Adoption wird das Personal darauf aufmerksam gemacht, dass sein Recht auf den Lohnanspruch während dem obenerwähnten Urlaub vermindert wird, sofern es seine Tätigkeit nicht innerhalb von sechs Monaten nach der Geburt oder Adoption wieder aufnimmt. Die Dauer dieser unbezahlten Urlaube wird im Einverständnis mit dem Vorgesetzten festgelegt.
+<sup>2</sup> Für die Angestellten, die nach einem Mutterschafts-, Vaterschafts- oder Adoptionsurlaub einen unbezahlten Urlaub beziehen, übernimmt der Arbeitgeber für die Dauer eines solchen unbezahlten Urlaubs die Bezahlung sämtlicher Beiträge an die berufliche Vorsorge, nämlich Arbeitgeber- und Arbeitnehmerbeiträge, aber im Maximum während 3 Monaten.
 
-<sup>3</sup> Die Anstellungsbehörde ist dafür zuständig, einem Angestellten einen unbezahlten Urlaub zu gewähren.
+<sup>3</sup> Die Dauer eines unbezahlten Urlaubs wird im Einvernehmen mit dem Vorgesetzten per Entscheid der Anstellungsbehörde festgelegt.
 
-<sup>4</sup> Für den Antragsteller ist Art. 5ff der vorliegenden Verordnung für die Dauer des unbezahlten Urlaubs nicht anwendbar. Während dieser Zeitspanne ebenfalls aufgehoben sind die gesetzlichen Bestimmungen über die Haftpflicht der HES-SO Valais/Wallis.
+<sup>4</sup> Für den Antragsteller ist Artikel 5 und folgende der vorliegenden Verordnung für die Dauer des unbezahlten Urlaubs nicht anwendbar. Während dieser Zeitspanne ebenfalls aufgehoben sind die gesetzlichen Bestimmungen über die Haftpflicht der HES-SO Valais/Wallis.
 
 <sup>5</sup> Während seines unbezahlten Urlaubs muss der Angestellte alle notwendigen Schritte zur Deckung der Sozialversicherungen unternehmen, namentlichin SachenUnfallversicherung, oder allenfalls Berufsvorsorgeversicherung.
 
@@ -804,7 +843,7 @@ Die Anstellungsbehörde erlässt ein Reglement mit Bestimmungen zu:
 
 **Elternurlaub**
 
-<sup>1</sup> Angestellte mit Kindern zwischen 0 und 12 Jahren haben Anspruch auf einen unbezahlten Elternurlaub von maximal zehn Tagen pro Jahr (pro rata temporis).
+<sup>1</sup> Angestellte mit Kindern zwischen 0 und 12 Jahren haben Anspruch auf einen unbezahlten Elternurlaub von maximal zehn Tagen pro Jahr (prorata temporis).
 
 <sup>2</sup> Für die Dauer des unbezahlten Urlaubs übernimmt der Arbeitgeber während dieser Zeitspanne die Bezahlung sämtlicher Beiträge an die berufliche Vorsorge (Arbeitgeber- und Arbeitnehmerbeiträge).
 
@@ -814,15 +853,15 @@ Die Anstellungsbehörde erlässt ein Reglement mit Bestimmungen zu:
 
 **Anerkennung der Diensttreue und Pensionierung**
 
-Die Anerkennung der Diensttreue der aktiven Mitarbeiter und derjenigen Mitarbeiter, welche in den Ruhestand treten, wird von der Generaldirektion in einem Sonderreglement behandelt.
+<sup>1</sup> Die Anerkennung der Diensttreue der aktiven Mitarbeiter und derjenigen Mitarbeiter, welche in den Ruhestand treten, wird von der Generaldirektion in einem Sonderreglement behandelt.
 
-### 6. Kapitel: Übergangs- und Schlussbestimmungen
+## 6 Übergangs- und Schlussbestimmungen
 
 #### Art. 65
 
 **Wohlerworbene Rechte**
 
-Das Inkrafttreten der vorliegenden Verordnung vermindert das Gehalt des bereits an der HES-SO Valais/Wallis ehemals FH-Wallis und FHW-GS angestellten Personals nicht. Die Gehälter der Inhaber hierarchischer Funktionen wie Direktor und Bereichsdirektoren oder anderer leitender Stellen, wie sie in der früheren Regelung des Gesetzesüber die Besoldung des Lehrpersonals der Lehranstalten für eine höhere berufliche Ausbildung vom 17. November 1988 oder des Reglementes über die Besoldung des Personals der Fachhochschule Wallis für Gesundheit und Soziale Arbeit (FHW-GS) vom 4. Dezember 2002 festgelegt sind, gelten nicht als durch den Stelleninhaber erworben, soweit die genannten Stellen umgewandelt, aufgehoben oder beschränkt werden. Gleiches trifft in Fällen von individuellem Funktionswechsel zu.
+<sup>1</sup> Das Inkrafttreten der vorliegenden Verordnung vermindert das Gehalt des bereits an der HES-SO Valais/Wallis ehemals FH-Wallis und FHW-GS angestellten Personals nicht. Die Gehälter der Inhaber hierarchischer Funktionen wie Direktor und Bereichsdirektoren oder anderer leitender Stellen, wie sie in der früheren Regelung des Gesetzesüber die Besoldung des Lehrpersonals der Lehranstalten für eine höhere berufliche Ausbildung vom 17. November 1988 oder des Reglementes über die Besoldung des Personals der Fachhochschule Wallis für Gesundheit und Soziale Arbeit (FHW-GS) vom 4. Dezember 2002 festgelegt sind, gelten nicht als durch den Stelleninhaber erworben, soweit die genannten Stellen umgewandelt, aufgehoben oder beschränkt werden. Gleiches trifft in Fällen von individuellem Funktionswechsel zu.
 
 #### Art. 66
 
@@ -836,7 +875,7 @@ Das Inkrafttreten der vorliegenden Verordnung vermindert das Gehalt des bereits 
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Mit dem Inkrafttreten der vorliegenden Verordnung werden alle dieser widersprechenden kantonalen Bestimmungen aufgehoben, insbesondere Artikel 2bis und 6 der Verordnung über die Besoldung des Lehrpersonals der Lehranstalten für eine höhere berufliche Ausbildung vom 13. Dezember 1995 sowie das Reglement über die Besoldung des Personals der Fachhochschule Wallis für Gesundheit und Soziale Arbeit (FHW-GS) vom 4. Dezember 2002.
+<sup>1</sup> Mit dem Inkrafttreten der vorliegenden Verordnung werden alle dieser widersprechenden kantonalen Bestimmungen aufgehoben, insbesondere Artikel 2a und 6 der Verordnung über die Besoldung des Lehrpersonals der Lehranstalten für eine höhere berufliche Ausbildung vom 13. Dezember 1995 sowie das Reglement über die Besoldung des Personals der Fachhochschule Wallis für Gesundheit und Soziale Arbeit (FHW-GS) vom 4. Dezember 2002.
 
 <sup>2</sup> Vorbehalten bleibt die Anwendung von Artikel 68 der vorliegenden Verordnung.
 
@@ -848,88 +887,108 @@ Das Inkrafttreten der vorliegenden Verordnung vermindert das Gehalt des bereits 
 
 <sup>2</sup> Die Besoldungsentwicklung nach Inkrafttreten der vorliegenden Verordnung unterliegt grundsätzlich den neuen Bestimmungen.
 
-<sup>3</sup> Die Empfänger einer Leistungsprämie vor Inkrafttreten der vorliegenden Verordnung bleiben den alten Bestimmungen über die Erfahrungsanteile und die Leistungsprämie unterstellt, bis sie die maximale Besoldung erreichen. Für das Beurteilungsverfahren und die Berechnungsgrundlagen gelten die neuen Bestimmungen. Der Staatsrat hat hingegen die Möglichkeit, auf diese Elemente einen Koeffizienten zwischen 0,6 und 1,4 anzuwenden.
+<sup>3</sup> Die Empfänger einer Leistungsprämie vor Inkrafttreten der vorliegenden Verordnung bleiben den alten Bestimmungen über die Erfahrungsanteile und die Leistungsprämie unterstellt, bis sie die maximale Besoldung erreichen. Für das Beurteilungsverfahren und die Berechnungsgrundlagen gelten die neuen Bestimmungen. Der Staatsrat hat hingegen die Möglichkeit, auf diese Elemente einen Koeffizienten zwischen 0.6 und 1.4 anzuwenden.
 
 <sup>4</sup> Der Übergang vom alten zum neuen Statut erfolgt ex lege ohne neuen individuellen Entscheid.
 
 <sup>5</sup> Für Sonderfälle, so wie namentlich die Anstellung auf Probe, die Krankheit, die Änderung der Funktionsbezeichnung können individuelle Entscheide getroffen werden.
 
+<sup>6</sup> Die mit der Verantwortung für eine Einheit betrauten FH-Professoren, die am 1. Januar 2016 im Amt waren, erhalten eine Entschädigung für zusätzliche Verantwortlichkeiten im Sinne von Artikel 43 der vorliegenden Verordnung. Diese Entschädigung wird im Falle eines Wechsels der Funktion oder einerinternen Neuorganisation durch den Arbeitgeber nicht mehr geschuldet.
+
 #### Art. 69
 
 **Bestehende Dienstverhältnisse**
 
-Vor Inkrafttreten der vorliegenden Verordnung bereits bestehende Dienstverhältnisse werden automatisch gemäss den neuen Gesetzesbestimmungen übernommen, ausser wenn sie aufgrund des alten Gesetzes durch eine Auflösung oder Nichterneuerung aufgehoben wurden.
+<sup>1</sup> Vor Inkrafttreten der vorliegenden Verordnung bereits bestehende Dienstverhältnisse werden automatisch gemäss den neuen Gesetzesbestimmungen übernommen, ausser wenn sie aufgrund des alten Gesetzes durch eine Auflösung oder Nichterneuerung aufgehoben wurden.
 
 #### Art. 70
 
 **Funktionsstufen**
 
-Die an der HES-SO Valais/Wallis vor dem Inkrafttreten der Verordnung gebräuchlichen Funktionsstufen werden mit Ausnahme der Anstellungsbehörde ohne Änderung übernommen.
+<sup>1</sup> Die an der HES-SO Valais/Wallis vor dem Inkrafttreten der Verordnung gebräuchlichen Funktionsstufen werden mit Ausnahme der Anstellungsbehörde ohne Änderung übernommen.
 
 #### Art. 71
 
 **Hängige Verfahren**
 
-Die beim Inkrafttreten der Verordnung hängigen Verfahren werden nach altem Recht zu Ende geführt.
+<sup>1</sup> Die beim Inkrafttreten der Verordnung hängigen Verfahren werden nach altem Recht zu Ende geführt.
 
 #### Art. 72
 
 **Ausführungsbestimmungen**
 
-Die Generaldirektion erlässt auf dem Reglementsweg sämtliche Bestimmungen im Hinblick auf die Anwendung und Ausführung der vorliegenden Verordnung.
+<sup>1</sup> Die Generaldirektion erlässt auf dem Reglementsweg sämtliche Bestimmungen im Hinblick auf die Anwendung und Ausführung der vorliegenden Verordnung.
 
 #### Art. 73
 
 **Inkrafttreten**
 
-Die vorliegende Verordnung wird im Amtsblatt publiziert und tritt gleichzeitig mit dem Gesetz über die Fachhochschule Westschweiz Valais/Wallis (HES-SO Valais/Wallis) vom 16. November 2012 in Kraft.
+<sup>1</sup> Die vorliegende Verordnung wird im Amtsblatt publiziert und tritt gleichzeitig mit dem Gesetz über die Fachhochschule Westschweiz Valais/Wallis vom 16. November 2012 in Kraft.
 
-So angenommen im Staatsrat zu Sitten, den 16. Dezember 2014.
+## T1 Übergangsbestimmungen der Änderung vom 30.03.2022
 
-Der Präsident des Staatsrates: Jean-Michel Cina Der Staatskanzler: Philipp Spörri
+#### Art. T1-1
 
-### Titel und Änderungen Veröffentlichung Inkrafftreten
+**Übergangsbestimmungen**
 
-Verordnung betreffend die Besoldung des Abl. Nr. 52/2014 01.01.2015
+<sup>1</sup> Die beim Inkrafttreten der Änderung der vorliegenden Verordnung hängigen Verfahren werden nach altem Recht zu Ende geführt.
 
-### Personals der Fachhochschule Westschweiz Valais/Wallis vom 16. Dezember 2014
+## A1 Anhang 1 zu Artikel 7 Absatz 1
 
-## Anhang 1
+#### Art. A1-1
 
-### Lohntabelle des Mittelbaus und des administrativen und
+**Lohntabelle (inklusive 13. Monatslohn) des Mittelbaus und des administrativen und technischen Personals der HES-SO Valais/Wallis**
 
-technischen Personals der HES-SO Valais/Wallis
+<sup>1</sup> Jahreslohn Index 100 Punkte (Stand 01.01.2014)
 
-### Jahreslohn Index 100 Punkte (Stand 01.01.2014)
+<table>
+<tr><th>Klasse</th><th>Minimum</th><th>Maximum</th></tr>
+<tr><td>1</td><td>Fr. 128'449.75</td><td>Fr. 179'829.65</td></tr>
+<tr><td>2</td><td>Fr. 124'224.10</td><td>Fr. 173'913.75</td></tr>
+<tr><td>3</td><td>Fr. 120'140.15</td><td>Fr. 168'196.20</td></tr>
+<tr><td>4</td><td>Fr. 116'192.05</td><td>Fr. 162'668.85</td></tr>
+<tr><td>5</td><td>Fr. 112'370.05</td><td>Fr. 157'318.05</td></tr>
+<tr><td>6</td><td>Fr. 108'676.75</td><td>Fr. 152'147.45</td></tr>
+<tr><td>7</td><td>Fr. 105'100.45</td><td>Fr. 147'140.65</td></tr>
+<tr><td>8</td><td>Fr. 101'647.00</td><td>Fr. 142'305.80</td></tr>
+<tr><td>9</td><td>Fr. 98'304.70</td><td>Fr. 137'626.60</td></tr>
+<tr><td>10</td><td>Fr. 93'711.80</td><td>Fr. 131'196.50</td></tr>
+<tr><td>11</td><td>Fr. 89'336.00</td><td>Fr. 125'070.40</td></tr>
+<tr><td>12</td><td>Fr. 85'161.70</td><td>Fr. 119'226.40</td></tr>
+<tr><td>13</td><td>Fr. 81'183.05</td><td>Fr. 113'656.25</td></tr>
+<tr><td>14</td><td>Fr. 77'390.95</td><td>Fr. 108'347.35</td></tr>
+<tr><td>15</td><td>Fr. 73'776.30</td><td>Fr. 103'286.80</td></tr>
+<tr><td>16</td><td>Fr. 70'330.00</td><td>Fr. 98'462.00</td></tr>
+<tr><td>17</td><td>Fr. 67'044.25</td><td>Fr. 93'861.95</td></tr>
+<tr><td>18</td><td>Fr. 63'913.20</td><td>Fr. 89'478.50</td></tr>
+<tr><td>19</td><td>Fr. 60'926.45</td><td>Fr. 85'297.05</td></tr>
+<tr><td>20</td><td>Fr. 58'080.75</td><td>Fr. 81'313.05</td></tr>
+<tr><td>21</td><td>Fr. 55'368.95</td><td>Fr. 77'516.55</td></tr>
+<tr><td>22</td><td>Fr. 52'781.95</td><td>Fr. 73'894.75</td></tr>
+<tr><td>23</td><td>Fr. 50'316.50</td><td>Fr. 70'443.10</td></tr>
+<tr><td>24</td><td>Fr. 47'965.45</td><td>Fr. 67'151.65</td></tr>
+<tr><td>25</td><td>Fr. 45'726.20</td><td>Fr. 64'016.70</td></tr>
+<tr><td>26</td><td>Fr. 43'590.30</td><td>Fr. 61'026.40</td></tr>
+</table>
 
-**Maximum 179'829.65 173'913.75 168'196.20 162'668.85 157'318.05 152'147.45 147'140.65 142'305.80 137'626.60 131'196.50 125'070.40 119'226.40 113'656.25 108'347.35 103'286.80 98'462.00 93'861.95 89'478.50 85'297.05 81'313.05 77'516.55 73'894.75 70'443.10 67'151.65 64'016.70 61'026.40**
+## A2 Anhang 2 zu Artikel 7 Absatz 2
 
-Klasse Minimum 1 128'449.75 2 124'224.10 3 120'140.15 4 116'192.05 5 112'370.05 6 108'676.75 7 105'100.45 8 101'647.00 9 98'304.70 10 93'711.80 11 89'336.00 12 85'161.70 13 81'183.05 14 77'390.95 15 73'776.30 16 70'330.00 17 67'044.25 18 63'913.20 19 60'926.45 20 58'080.75 21 55'368.95 22 52'781.95 23 50'316.50 24 47'965.45 25 45'726.20 26 43'590.30
+#### Art. A2-2
 
-## Anhang 2
+**Lohntabelle (inklusive 13. Monatslohn) der Mitglieder der Generaldirektion und der Professorenschaft der HES-SO Valais/Wallis**
 
-[^hAnhang2-1]: Änderung vom 17. August 2016 (Abl. Nr. 35/2016)
+<sup>1</sup> Jahreslohn Index 100 Punkte (Stand 01.01.2014)
 
-### Lohntabelle der Mitglieder der Generaldirektion und der Professorenschaft der HES-SO Valais/Wallis
+<table>
+<tr><th>Klasse</th><th>Bezeichnung</th><th>Minimum</th><th>Maximum</th></tr>
+<tr><td>E92</td><td>Direktor(in) der HES-SO Valais/Wallis</td><td>Fr. 189'335</td><td>Fr. 223'415</td></tr>
+<tr><td>E91</td><td>Direktor(in) einer Hochschule</td><td>Fr. 173'557</td><td>Fr. 199'590</td></tr>
+<tr><td>E89</td><td>Ordentliche(r) Professor(in) FH</td><td>Fr. 117'598</td><td>Fr. 170'517</td></tr>
+<tr><td>E88</td><td>Assoziierte(r) Professor(in) FH</td><td>Fr. 112'533</td><td>Fr. 163'174</td></tr>
+<tr><td>E87</td><td>Dozent(in) FH</td><td>Fr. 107'742</td><td>Fr. 156'225</td></tr>
+<tr><td>E39</td><td>Dozent(in) HF</td><td>Fr. 105'421</td><td>Fr. 152'860</td></tr>
+<tr><td>E86</td><td>Assistenzprofessor(in) FH</td><td>Fr. 103'531</td><td>Fr. 150'120</td></tr>
+<tr><td>E85</td><td>Lehrbeauftragte(r) FH</td><td>Fr. 101'277</td><td>Fr. 146'851</td></tr>
+</table>
 
-[^hAnhang2-1]
-
-Jahreslohn Index 100 Punkte (Stand 01.01.2014)
-
-**Maximum 223'415**
-
-**199'590**
-
-**170'517**
-
-**163'174**
-
-**156'225 152'860 150'120**
-
-**146'851**
-
-Klasse Bezeichnung Minimum E92 Direktor/in der 189'335 HES-SO Valais/Wallis E91 Direktor/in einer 173'557 Hochschule E89 Ordentliche/r 117'598 Professor/in FH E88 Assoziierte/r 112'533 Professor/in FH E87 Dozent/in FH 107'742 E39 Dozent/in HF 105'421 E86 Assistenzprofessor 103'531 /in FH E85 Lehrbeauftragte/r 101'277 FH
-
-## Weitere Fussnoten
-
-- [1] Änderung vom 17. August 2016 Abl. Nr. 35/2016 01.09.16
+CSW BO/Abl. 52/2014, 52/2014
