@@ -4,13 +4,13 @@ number: "215.341.4"
 title: Ordonnance portant introduction de l’ordonnance fédérale sur le cadastre des restrictions de droit public à la propriété foncière
 short: OiOCRDP
 language: fr
-version: 2020-11-01
-valid_until: 2022-03-31
-version_adopted: 2020-09-02
+version: 2022-04-01
+valid_until: 2025-10-31
+version_adopted: 2022-02-23
 adopted: 2013-09-18
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/215.341.4"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1974/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2568/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1974/pdf_file"
 
 (OiOCRDP)
 
-du 18.09.2013 (état au 01.11.2020)
+du 18.09.2013 (état au 01.04.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -68,11 +68,15 @@ arrête:
 
 **Mise à jour du cadastre**
 
-<sup>1</sup> Le service compétent selon les annexes 1 et 2 OCGéo met à disposition de l’Office de l’information géographique les données mises à jour dans les 30 jours qui suivent l’entrée en force de la décision qui s’y rapporte. En présence de circonstances particulières, l’Office de l’information géographique peut accorder une prorogation de délai appropriée.
+<sup>1</sup> Le service compétent selon les annexes 1 et 2 OCGéo met à la disposition de l’Office de l’information géographique les données mises à jour dans les 30 jours qui suivent l’entrée en force de la décision qui s’y rapporte.
 
 <sup>2</sup> L’Office de l’information géographique vérifie les données en sa possession. En cas de lacunes, il demande leur correction avant de les inscrire au cadastre.
 
-<sup>3</sup> L’Office de l’information géographique édicte les règles régissant les annonces et les publie en ligne.
+<sup>3</sup> Le service compétent selon les annexes 1 et 2 OCGéo reconnaît les données vérifiées dans les 30 jours qui suivent la requête formulée par l’Office de l’information géographique.
+
+<sup>4</sup> En présence de circonstances particulières, l’Office de l’information géographique peut accorder sur demande une prolongation des délais fixés aux alinéas 1 et 3.
+
+<sup>5</sup> Il édicte les règles régissant les annonces et les publie en ligne.
 
 #### Art. 7
 
@@ -86,17 +90,23 @@ arrête:
 
 #### Art. 8
 
-**Introduction du cadastre**
+**Mesures de substitution**
 
-<sup>1</sup> L’Office de l’information géographique désigne certaines communes qui procèdent à l’introduction du cadastre dans le cadre d’un projet-pilote au moment de l’entrée en vigueur de la présente ordonnance. La durée du projet-pilote est limitée au 31 décembre 2015.
+<sup>1</sup> Si le service compétent selon les annexes 1 et 2 OCGéo ne remplit pas son obligation de fournir les données ou de les reconnaître conformément à l’article 6, alinéas 1 et 3, l’Office de l’information géographique peut, après sommation, ordonner des mesures de substitution.
 
-<sup>2</sup> Les autres communes procèdent à l’introduction du cadastre à partir du 1<sup>er</sup> janvier 2016. L’Office de l’information géographique convient avec chacune des communes de la date de son introduction. Cette date est soumise à l’approbation des services spécialisés selon les annexes 1 et 2 OCGéo.
+<sup>2–4</sup> …
 
-<sup>3</sup> Les données pour le cadastre se fondent sur le système de référence planimétrique CH1903+ avec le cadre de référence MN95.
+#### Art. 8a
 
-<sup>4</sup> Le cadastre des sites pollués de même que les zones et les périmètres de protection des eaux souterraines (annexe 1, identificateurs 116 à 119 de même que 131 et 132 de l’ordonnance fédérale du 21 mai 2008 sur la géoinformation [OGéo][^8-1]) sont intégrés au cadastre RDPPF à partir du 1<sup>er</sup> janvier 2016 à l’échelle cantonale.
+**Informations supplémentaires**
 
-[^8-1]: RS 510.620
+<sup>1</sup> Les services cantonaux compétents ou les services spécialisés cantonaux selon les annexes 1 et 2 OCGéo peuvent annoncer à l’Office de l’information géographique que des modifications en cours ou prévues de restrictions de droit public à la propriété foncière doivent être intégrées au cadastre.
+
+<sup>2</sup> Afin que des modifications en cours ou prévues de restrictions de droit public à la propriété foncière puissent être intégrées au cadastre, le service compétent doit confirmer à l’Office de l’information géographique que les modifications
+
+- a. constituent des modifications en cours ou prévues de restrictions de droit public à la propriété foncière qui ont été demandées par l’organe compétent dans le respect de la procédure prescrite par la législation spécialisée;
+- b. font l’objet d’un dépôt public;
+- c. ont été vérifiées, pour ce qui concerne leur conformité avec les documents déposés publiquement, sous la responsabilité de l’organe compétent.
 
 #### Art. 9
 
