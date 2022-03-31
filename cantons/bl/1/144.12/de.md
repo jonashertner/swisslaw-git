@@ -3,20 +3,20 @@ canton: BL
 number: "144.12"
 title: Dienstordnung der Bau- und Umweltschutzdirektion
 language: de
-version: 2021-03-01
-valid_until: 2022-03-31
-version_adopted: 2021-01-19
+version: 2022-04-01
+valid_until: 2023-06-30
+version_adopted: 2022-02-22
 adopted: 2018-10-23
 in_force: 2019-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/144.12"
-pdf: "https://bl.clex.ch/api/de/versions/2887/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3261/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dienstordnung der Bau- und Umweltschutzdirektion
 
-Vom 23.10.2018 (Stand 01.03.2021)
+Vom 23.10.2018 (Stand 01.04.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -104,7 +104,7 @@ beschliesst:
 - b. Verfügungen, Entscheide und Ausgabenbewilligungen, welche nicht an eine Dienststelle delegiert sind;
 - c. Korrespondenz mit grundsätzlichem, politischem oder öffentlichkeitswirksamem Inhalt;
 - d. Entscheide über öffentliche Vergaben im Bauhauptgewerbe, Baunebengewerbe, für Lieferungen und Dienstleistungen ab einem Auftragswert von CHF 100'000.– (exkl. MWST);
-- e. Anstellungsverträge von Dienststellenleiterinnen und Dienststellenleitern sowie von diesen direkt unterstellten Mitarbeiterinnen und Mitarbeitern.
+- e. Anstellungsverträge von Dienststellenleiterinnen und Dienststellenleitern sowie deren Stellvertreterinnen oder Stellvertreter.
 
 <sup>2</sup> Die Dienststellen legen der Direktionsvorsteherin oder dem Direktionsvorsteher über ihre Bereichsleitung Funktionsänderungsanträge zur Genehmigung vor. Die Genehmigung kann an die Generalsekretärin oder den Generalsekretär delegiert werden.
 
