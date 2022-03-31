@@ -4,13 +4,13 @@ number: "150.1"
 title: Dekret zum Personalgesetz
 short: Personaldekret
 language: de
-version: 2022-01-01
-valid_until: 2022-03-31
-version_adopted: 2021-12-02
+version: 2022-04-01
+valid_until: 2022-12-31
+version_adopted: 2022-01-13
 adopted: 2000-06-08
 in_force: 2001-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/150.1"
-pdf: "https://bl.clex.ch/api/de/versions/3221/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3511/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3221/pdf_file"
 
 (Personaldekret)
 
-Vom 08.06.2000 (Stand 01.01.2022)
+Vom 08.06.2000 (Stand 01.04.2022)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -27,8 +27,8 @@ gestützt auf § 67 Abs. 1 Bst. d der Verfassung des Kantons Basel-Landschaft vo
 
 beschliesst:
 
-[^ingress-1]: GS 29.276, SGS [100](https://bl.clex.ch/data/100/de/art67)
-[^ingress-2]: GS 32.1008, SGS [150](https://bl.clex.ch/data/150/de/art30)
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art67)
+[^ingress-2]: [SGS 150](https://bl.clex.ch/data/150/de/art30)
 
 ## 1 Allgemeines
 
@@ -384,11 +384,9 @@ beschliesst:
 
 #### § 29a
 
-**Meldepflicht[^29a-1]**
+**Meldepflicht**
 
 <sup>1</sup> Tatsachen, die einen Anspruch auf Familien- oder Erziehungszulagen begründen, verändern oder erlöschen lassen, sind der Anstellungsbehörde unverzüglich zu melden.
-
-[^29a-1]: Ergänzung vom 22. März 2007 (GS 36.68), in Kraft seit 1. April 2007.
 
 ### 2.4.4 Weitere Zulagen
 
@@ -465,7 +463,7 @@ beschliesst:
 
 - a. Der Vorsteherin bzw. dem Vorsteher der Finanzkontrolle gemäss Anhang II Ziff. 2 — Ansatz D1,
 - b. der Vorsteherin bzw. dem Vorsteher der Datenschutzstelle gemäss Anhang II Ziff. 2 — Ansatz D2,
-- c. dem Ombudsman gemäss Anhang II Ziff. 2 — Ansatz D2,
+- c. der Ombudsperson gemäss Anhang II Ziff. 2 — Ansatz D2,
 - d. der Ersten Staatsanwältin bzw. dem Ersten Staatsanwalt gemäss Anhang II Ziff. 2 — Ansatz D3,
 - e. den Leitenden Staatsanwältinnen I und den Leitenden Staatsanwälten I gemäss Anhang II Ziff. 2 — Ansatz D4,
 - f. der Leitenden Jugendanwältin bzw. dem Leitenden Jugendanwalt gemäss Anhang II Ziff. 2 — Ansatz D4,
@@ -520,7 +518,7 @@ beschliesst:
 
 <sup>2</sup> Die Mitglieder und die Ersatzmitglieder der Zivilkreisgerichte, des Strafgerichts, des Jugendgerichts und des Steuer- und Enteignungsgerichts, mit Ausnahme der Präsidentinnen und Präsidenten, erhalten für Sitzungen, Augenscheine und amtliche Verrichtungen ein Sitzungsgeld gemäss Anhang II Ziff. 2 Ansatz C 5.1 pro halben Tag (entsprechend 4 Stunden) und gemäss Ansatz C 2 für jede weitere Stunde.
 
-[^34-1]: GS 32.581, SGS [112](https://bl.clex.ch/data/112/de/art3)
+[^34-1]: [SGS 112](https://bl.clex.ch/data/112/de/art3)
 
 #### § 35
 
@@ -690,7 +688,7 @@ beschliesst:
 
 <sup>1</sup> Die Sicherung der Mitarbeiterinnen und Mitarbeiter gegen die wirtschaftlichen Folgen von Alter, Invalidität und Tod wird im Dekret vom 16. Mai 2013[^50-1] über die berufliche Vorsorge durch die Basellandschaftliche Pensionskasse (Pensionskassendekret) und im entsprechenden Vorsorgereglement der Basellandschaftlichen Pensionskasse geregelt.
 
-[^50-1]: GS 38.0281, SGS [834.1](https://bl.clex.ch/data/834.1/de)
+[^50-1]: [SGS 834.1](https://bl.clex.ch/data/834.1/de)
 
 #### § 50a
 
@@ -962,8 +960,8 @@ beschliesst:
 
 <sup>3</sup> § 32 Abs. 1–3 des Dekrets vom 3. Dezember 1979[^78-2] zum Schulgesetz werden per Schuljahresbeginn 2001/2002 unter dem Vorbehalt von § 79 Abs 2–4 aufgehoben
 
-[^78-1]: GS 33.17, SGS 150.1
-[^78-2]: GS 27.245, SGS 640.1
+[^78-1]: GS 33.17
+[^78-2]: GS 27.245
 
 #### § 79
 
