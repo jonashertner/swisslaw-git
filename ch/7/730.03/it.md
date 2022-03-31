@@ -4,11 +4,11 @@ title: "Ordinanza del 1° novembre 2017 sulla promozione della produzione di ele
 short: OPEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: it
-version: 2022-01-01
+version: 2022-04-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20220401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20220101/it"
 
 (Ordinanza sulla promozione dell’energia, OPEn)
 
-del 1° novembre 2017 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 1° novembre 2017 (Stato 1° aprile 2022)
 
 Il Consiglio federale svizzero,
 
@@ -1490,7 +1490,7 @@ Allegato 1.1*[^t-1]*
 - 2\.4.1 Se la quota destinata alla realizzazione delle opere idrauliche secondo lo stato della tecnica, condotte forzate incluse, è inferiore al 20 per cento dei costi di investimento complessivi del progetto, il diritto al bonus per le opere idrauliche decade. Se tale quota è superiore al 50 per cento, si ha diritto al bonus completo. Per i valori compresi fra il 20 e il 50 per cento viene effettuata un’interpolazione lineare secondo il seguente grafico. Le misure di cui all’articolo 83*a* LPAC[^annex11-lvlu1-lvl2-1] o all’articolo 10 LFSP[^annex11-lvlu1-lvl2-2] non sono computabili ai fini del bonus.
 - 2\.4.2 Le centrali con utilizzo di acqua di dotazione non hanno diritto al bonus per le opere idrauliche. Gli impianti accessori con una potenza superiore a 100 kW hanno diritto al bonus per le opere idrauliche solo fino alla potenza equivalente di 100 kW.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/it/xml/image/image1.png)
 
 - 2\.4.3 Il tasso per il bonus per le opere idrauliche secondo le classi di potenza ammonta dopo il 1° gennaio 2013 a:
 
@@ -1848,7 +1848,7 @@ Allegato 1.4*[^t-4]*
 
 - 3\.1 Gli impianti geotermici devono presentare, al più tardi dall’inizio del terzo anno civile completo dopo la messa in esercizio, un coefficiente di sfruttamento globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/it/xml/image/image2.png)
 
 - 3\.2 Il periodo di valutazione rilevante per la determinazione del coefficiente di sfruttamento globale è un anno civile completo; il coefficiente di sfruttamento globale si riferisce all’energia annua misurata alla testa del pozzo con:
 - coefficiente di sfruttamento del calore = calore sfruttato diviso per energia misurata alla testa del pozzo
@@ -1972,7 +1972,7 @@ Allegato 1.5*[^t-5]*
 - 2\.2.2 Il periodo di valutazione per i requisiti energetici minimi è l’anno civile completo.
 - 2\.2.3 I cicli del vapore, in particolare il ciclo Rankine organico, le turbine a vapore e i motori a vapore, devono raggiungere un coefficiente di sfruttamento energetico globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/it/xml/image/image3.png)
 
 - Per il calcolo del coefficiente di sfruttamento globale si utilizza il potere calorifico inferiore H<sub>u</sub> del combustibile impiegato.
 - Calcolo del coefficiente di sfruttamento elettrico = la produzione di energia elettrica divisa per la quantità di energia immessa nell’impianto a combustione.
@@ -1984,7 +1984,7 @@ Allegato 1.5*[^t-5]*
   - a. rendimento elettrico:
   - il modulo di cogenerazione deve raggiungere un rendimento elettrico minimo conformemente al seguente diagramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/it/xml/image/image4.png)
 
 - b.
 
@@ -2324,12 +2324,12 @@ Allegato 2.3[^t-7]
 
 ## Contributi d’investimento per gli impianti a biomassa
 
-[^t-7]: Aggiornato dal n. II dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
+[^t-7]: Aggiornato dal n. II dell’O del 24 nov. 2021, in vigore dal 1° gen 2022, il n. 1.1 il 1° apr. 2022 ([RU 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
 
 ### 1 Impianti di incenerimento dei rifiuti (IIR)
 
 - 1\.1 Requisiti energetici minimi
-- Un contributo d’investimento viene accordato soltanto se l’impianto presenta un’efficienza energetica netta (EEN) equivalente almeno allo 0,65.
+- Un contributo d’investimento viene accordato soltanto se il nuovo impianto o l’ampliamento considerevole presentano un’efficienza energetica netta (EEN) equivalente almeno allo 0,9; nel caso di rinnovamenti considerevoli la EEN deve essere pari almeno allo 0,85.
 - 1\.2 Contenuto della domanda
 -
 
@@ -2349,7 +2349,7 @@ Allegato 2.3[^t-7]
 - Il calcolo dei maggiori costi non ammortizzabili si basa sul seguente periodo di utilizzazione dei singoli elementi costituenti dell’impianto:
 
 <table>
-<tr><td>Elemento costituente dell’impianto</td><td>anni</td></tr>
+<tr><th>Elemento costituente dell’impianto</th><th>anni</th></tr>
 <tr><td>Correnti di radiazione, tamburo della caldaia, vaporizzatore, eco, zona di convezione</td><td>15</td></tr>
 <tr><td>Surriscaldatore</td><td>10</td></tr>
 <tr><td>Turbine, generatore, impianto idraulico, trasformatore, circuito di raffreddamento (turbine, generatore), pompe per l’acqua di alimento (2 elettriche, 1 a vapore), contenitori per l’acqua di alimento, condensatore dell’aria, eiettori, vaso di espansione di purga della caldaia, impianti di trasporto in condotta e rubinetteria, riduzione della pressione, sistema di condensatori e preriscaldamento dell’acqua di alimento, gru del locale dedicato alle turbine, allacciamento a corrente forte, generatore d’emergenza</td><td>25</td></tr>

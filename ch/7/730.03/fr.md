@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur l'encouragement de la pro
 short: OEneR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: fr
-version: 2022-01-01
+version: 2022-04-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-766-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2017-766-20220401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20220401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20220101/fr"
 
 (OEneR)
 
-du 1<sup>er</sup> novembre 2017 (Etat le 1<sup>er</sup> janvier 2022)
+du 1<sup>er</sup> novembre 2017 (Etat le 1<sup>er</sup> avril 2022)
 
 Le Conseil fédéral suisse,
 
@@ -1492,7 +1492,7 @@ Annexe 1.1*[^t-1]*
 - 2\.4.1 Si la part de l’aménagement des eaux, y compris les conduites sous pression, réalisée selon l’état de la technique est inférieure à 20 % de l’ensemble des coûts d’investissement du projet, il n’existe aucun droit à un bonus d’aménagement des eaux. Si cette part est supérieure à 50 %, le droit au bonus complet est donné. Entre 20 et 50 %, le calcul repose sur une interpolation linéaire selon le graphique ci-dessous. Les mesures visées à l’art. 83*a* LEaux[^annex11-lvlu1-lvl2-1] ou visées à l’art. 10 LFSP[^annex11-lvlu1-lvl2-2] ne sont pas imputables pour le bonus.
 - 2\.4.2 Les centrales de dotation n’ont pas droit au bonus d’aménagement des eaux. Les installations d’exploitation accessoire d’une puissance supérieure à 100 kW n’ont droit au bonus d’aménagement des eaux que pour la part allant jusqu’à une puissance équivalente de 100 kW.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/fr/xml/image/image1.png)
 
 - 2\.4.3 Taux du bonus d’aménagement des eaux par classe de puissance à partir du 1<sup>er</sup> janvier 2013:
 
@@ -1845,7 +1845,7 @@ Annexe 1.4*[^t-4]*
 
 - 3\.1 Les installations géothermiques doivent présenter le taux d’utilisation global minimal et le taux d’utilisation de l’électricité minimal indiqués dans le graphique suivant au plus tard à compter du début de la troisième année civile complète suivant la mise en service:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/fr/xml/image/image2.png)
 
 - 3\.2 La période d’évaluation déterminante pour établir le taux d’utilisation global est l’année civile complète; le taux d’utilisation global se rapporte à l’énergie mesurée en une année à la tête de forage.
 - Taux d’utilisation de la chaleur = chaleur utilisée divisée par l’énergie à la tête de forage
@@ -1969,7 +1969,7 @@ Annexe 1.5*[^t-5]*
 - 2\.2.2 La période d’évaluation pour les exigences énergétiques minimales est l’année civile complète.
 - 2\.2.3 Les cycles vapeur, en particulier les installations ORC (*Organic Rankine Cycle*), les turbines à vapeur et les moteurs à vapeur, doivent présenter un taux d’utilisation énergétique global minimal correspondant au graphique suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/fr/xml/image/image3.png)
 
 - Le calcul du taux d’utilisation énergétique global se rapporte au pouvoir calorifique inférieur H<sub>u</sub> du combustible introduit.
 - Calcul:
@@ -1982,7 +1982,7 @@ Annexe 1.5*[^t-5]*
   - a. Taux d’efficacité électrique:
   - Le module CCF doit atteindre un taux d’efficacité électrique minimal correspondant au graphique suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/fr/xml/image/image4.png)
 
 - b.
 
@@ -2316,12 +2316,12 @@ Annexe 2.3*[^t-7]*
 
 ## Contribution d’investissement allouée pour les installations de biomasse
 
-[^t-7]: Mise à jour par le ch. II de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
+[^t-7]: Mise à jour par le ch. II de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022, le ch. 1.1 en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
 
 ### 1 Usines d’incinération des ordures ménagères (UIOM)
 
 - 1\.1 Exigences énergétiques minimales
-- Une contribution d’investissement n’est accordée que si l’installation présente une efficacité énergétique nette (EEN) d’au moins 0,65.
+- Une contribution d’investissement n’est accordée que si la nouvelle installation ou l’agrandissement notable présente une efficacité énergétique nette (EEN) d’au moins 0,9 ou si la rénovation notable présente une EEN d’au moins 0,85.
 - 1\.2 Contenu de la demande
 -
 
@@ -2341,7 +2341,7 @@ Annexe 2.3*[^t-7]*
 - Le calcul des coûts supplémentaires non amortissables se fonde sur la durée d’utilisation des différentes composantes de l’installation ci-après:
 
 <table>
-<tr><td>Composante de l’installation</td><td>Nombre d’années</td></tr>
+<tr><th>Composante de l’installation</th><th>Nombre d’années</th></tr>
 <tr><td>Carnau de rayonnement, ballon de chaudière, évaporateur, éco, zone de convection</td><td>15</td></tr>
 <tr><td>Surchauffeur</td><td>10</td></tr>
 <tr><td>Turbine, générateur, installation hydroélectrique, transformateur, circuit de refroidissement (turbine, générateur), pompes d’eau d’alimentation (2 électriques, 1 vapeur), réservoir d’eau d’alimentation, aérocondenseur, éjecteur, vase d’expansion de purge de chaudière, conduite et armature, poste de détente, système à condensation et préchauffage de l’eau d’alimentation, grue de salle des turbines, raccordement à courant fort, groupe électrogène de secours</td><td>25</td></tr>
@@ -2371,7 +2371,7 @@ Annexe 2.3*[^t-7]*
 - Le calcul des coûts supplémentaires non amortissables se fonde sur la durée d’utilisation des différentes composantes de l’installation ci-après:
 
 <table>
-<tr><td>Composante de l’installation</td><td>Nombre d’années</td></tr>
+<tr><th>Composante de l’installation</th><th>Nombre d’années</th></tr>
 <tr><td>Bâtiment pour le gazomètre, partie du bâtiment pour la CETE, chambre de mesure de gaz, conduite</td><td>25</td></tr>
 <tr><td>CETE, y c. refroidissement de secours</td><td>10</td></tr>
 <tr><td>Gazomètre, armature, filtre à gravier, ventilateur d’élévation de pression de gaz, refroidissement du gaz, épuration des gaz, élimination du siloxane</td><td>15</td></tr>

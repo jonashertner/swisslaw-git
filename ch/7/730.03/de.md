@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2017 über die Förderung der Produktion von 
 short: EnFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: de
-version: 2022-01-01
+version: 2022-04-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20220401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20220101/de"
 
 (Energieförderungsverordnung, EnFV)
 
-vom 1. November 2017 (Stand am 1. Januar 2022)
+vom 1. November 2017 (Stand am 1. April 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -1491,7 +1491,7 @@ Anhang 1.1*[^t-1]*
 - 2\.4.1 Beträgt der Anteil des nach dem Stand der Technik realisierten Wasserbaus, einschliesslich der Druckleitungen, weniger als 20 Prozent der gesamten Investitionskosten des Projekts, so entfällt der Anspruch auf den Wasserbau-Bonus. Beträgt er mehr als 50 Prozent, so besteht Anspruch auf den vollen Bonus. Zwischen 20 Prozent und 50 Prozent wird er gemäss der unten stehenden Grafik linear interpoliert. Massnahmen nach Artikel 83*a* GSchG[^annex11-lvlu1-lvl2-1] oder nach Artikel 10 BGF[^annex11-lvlu1-lvl2-2] sind für den Bonus nicht anrechenbar.
 - 2\.4.2 Dotierkraftwerke haben keinen Anspruch auf den Wasserbau-Bonus. Nebennutzungsanlagen mit einer Leistung von mehr als 100 kW haben nur bis zur äquivalenten Leistung von 100 kW Anspruch auf den Wasserbau-Bonus.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/de/xml/image/image1.png)
 
 - 2\.4.3 Der Satz für den Wasserbau-Bonus beträgt ab 1. Januar 2013 je Leistungsklasse:
 
@@ -1843,7 +1843,7 @@ Anhang 1.4*[^t-4]*
 
 - 3\.1 Geothermieanlagen müssen spätestens ab Beginn des dritten vollen Kalenderjahres nach der Inbetriebnahme einen minimalen Gesamtnutzungsgrad respektive Elektrizitätsnutzungsgrad gemäss folgendem Diagramm aufweisen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/de/xml/image/image2.png)
 
 - 3\.2 Die für die Bestimmung des Gesamtnutzungsgrads relevante Beurteilungsperiode ist das ganze Kalenderjahr; der Gesamtnutzungsgrad bezieht sich auf die jährliche Energie am Bohrlochkopf mit:
 - Nutzungsgrad Wärme = genutzte Wärme dividiert durch Energie am Bohrlochkopf
@@ -1968,7 +1968,7 @@ Anhang 1.5*[^t-5]*
 - 2\.2.2 Die Beurteilungsperiode für die energetischen Mindestanforderungen ist das ganze Kalenderjahr.
 - 2\.2.3 Dampfprozesse, insbesondere Organic-Rankine-Cycle, Dampfturbinen und Dampfmotoren müssen einen minimalen Gesamtenergienutzungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/de/xml/image/image3.png)
 
 - Für die Berechnung des Gesamtnutzungsgrades wird der untere Heizwert H<sub>u</sub> des eingesetzten Brennstoffs verwendet.
 - Berechnung:
@@ -1981,7 +1981,7 @@ Anhang 1.5*[^t-5]*
   - a. elektrischer Wirkungsgrad:
   - Das WKK-Modul muss einen minimalen elektrischen Wirkungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/de/xml/image/image4.png)
 
 - b.
 
@@ -2312,18 +2312,18 @@ Anhang 2.2
 <tr><td>Verwaltungsgebäude</td><td>50</td></tr>
 </table>
 
-Anhang 2.3[^t-7]
+Anhang 2.3*[^t-7]*
 
 (Art. 69, 74 und 87)
 
 ## Investitionsbeitrag für Biomasseanlagen
 
-[^t-7]: Bereinigt gemäss Ziff. II der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
+[^t-7]: Bereinigt gemäss Ziff. II der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022, Ziff. 1.1 in Kraft seit 1. April 2022 ([AS 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
 
 ### 1 Kehrichtverbrennungsanlagen (KVA)
 
 - 1\.1 Energetische Mindestanforderung
-- Ein Investitionsbeitrag wird nur gewährt, wenn die Anlage eine energetische Nettoeffizienz (ENE) von mindestens 0,65 aufweist.
+- Ein Investitionsbeitrag wird nur gewährt, wenn die neue Anlage oder die erhebliche Erweiterung eine energetische Nettoeffizienz (ENE) von mindestens 0,9 und die erhebliche Erneuerung eine ENE von mindestens 0,85 aufweist.
 - 1\.2 Inhalt des Gesuchs
 -
 
@@ -2344,7 +2344,7 @@ Anhang 2.3[^t-7]
 - Für die Berechnung der nicht amortisierbaren Mehrkosten wird von der folgenden Nutzungsdauer der einzelnen Anlagenbestandteile ausgegangen:
 
 <table>
-<tr><td>Anlagenbestandteil</td><td>Jahre</td></tr>
+<tr><th>Anlagenbestandteil</th><th>Jahre</th></tr>
 <tr><td>Strahlungszüge, Kesseltrommel, Verdampfer, Eco, Konvektionsteil</td><td>15</td></tr>
 <tr><td>Überhitzer</td><td>10</td></tr>
 <tr><td>Turbine, Generator, Hydraulikanlage, Transformator, Kühlkreislauf (Turbine, Generator), Speisewasserpumpen (2 elektrisch, 1 Dampf), Speisewasserbehälter, Luftkondensator, Ejektoren, Kesselablassentspanner, Rohrleitungen und Armaturen, Druckreduzierstation, Kondensatsystem und Speisewasservorwärmung, Turbinenhauskran, Starkstromanschluss, Notstromaggregrat</td><td>25</td></tr>
