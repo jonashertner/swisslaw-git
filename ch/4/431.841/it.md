@@ -4,11 +4,11 @@ title: Ordinanza del 9 giugno 2017 sul Registro federale degli edifici e delle a
 short: OREA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/376"
 language: it
-version: 2021-04-01
+version: 2022-04-01
 adopted: 2017-06-09
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2017-376-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2017-376-20220401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20210401/it"
 
 (OREA)
 
-del 9 giugno 2017 (Stato 1° aprile 2021)
+del 9 giugno 2017 (Stato 1° aprile 2022)
 
 Il Consiglio federale svizzero,
 
@@ -336,11 +336,13 @@ Gli edifici senza uso abitativo che non sono ancora registrati nel REA devono es
 
 La presente ordinanza entra in vigore il 1° luglio 2017.
 
-Allegato 1
+Allegato 1*[^t-1]*
 
 (art. 15 e 16)
 
 ## Accesso ai dati del Registro federale degli edifici e delle abitazioni
+
+[^t-1]: Nuovo testo giusta il n. I dell’O del 4 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 175](https://fedlex.data.admin.ch/eli/oc/2022/175)).
 
 <table>
 <tr><th>Livelli di autorizzazione all’accesso Livello A – dati accessibili al pubblico Livello B – dati accessibili con restrizioni Livello C – dati non accessibili</th><th>Livello A / B / C</th></tr>
@@ -355,20 +357,20 @@ Allegato 1
 <tr><td>Data o periodo di costruzione e data o periodo di demolizione dell’edificio</td><td>A</td></tr>
 <tr><td>Dimensioni dell’edificio (superfici, volumi)</td><td>A</td></tr>
 <tr><td>Struttura dell’edificio (numero di piani)</td><td>A</td></tr>
-<tr><td>Installazioni tecniche principali dell’edificio (sistema di riscaldamento, rifugio)</td><td>B</td></tr>
+<tr><td>Installazioni tecniche principali dell’edificio (sistema di riscaldamento, rifugio)</td><td>A</td></tr>
 <tr><td>Appartenenza a zone statistiche, quartieri e altre unità territoriali infracomunali</td><td>B</td></tr>
 <tr><td>Persona di riferimento per l’edificio</td><td>C</td></tr>
 <tr><td>Informazioni concernenti le abitazioni</td><td></td></tr>
 <tr><td>Identificatore dell’abitazione (EWID) attribuito dall’UST</td><td>A</td></tr>
 <tr><td>Numero dell’abitazione attribuito dal Cantone o dal comune</td><td>A</td></tr>
-<tr><td>Riferimento ai fondi nel caso di abitazioni in proprietà per piani</td><td>B</td></tr>
+<tr><td>Riferimento ai fondi nel caso di abitazioni in proprietà per piani</td><td>A</td></tr>
 <tr><td>Ubicazione dell’abitazione nell’edificio</td><td>A</td></tr>
-<tr><td>Data o periodo di costruzione e data o periodo di demolizione dell’abitazione</td><td>B</td></tr>
+<tr><td>Data o periodo di costruzione e data o periodo di demolizione dell’abitazione</td><td>A</td></tr>
 <tr><td>Stato dell’abitazione (progettato, terminato, demolito)</td><td>A</td></tr>
-<tr><td>Dimensioni dell’abitazione (superficie)</td><td>B</td></tr>
-<tr><td>Struttura dell’abitazione (numero di locali, equipaggiata di cucina, su più piani)</td><td>B</td></tr>
-<tr><td>Destinazione dell’abitazione (secondo la LASec[^annex1-lvlu1-2])</td><td>B</td></tr>
-<tr><td>Limitazione d’uso dell’abitazione (secondo la LASec)</td><td>B</td></tr>
+<tr><td>Dimensioni dell’abitazione (superficie)</td><td>A</td></tr>
+<tr><td>Struttura dell’abitazione (numero di locali, equipaggiata di cucina, su più piani)</td><td>A</td></tr>
+<tr><td>Destinazione dell’abitazione</td><td>B</td></tr>
+<tr><td>Limitazione d’uso dell’abitazione (secondo la LASec[^annex1-lvlu1-2])</td><td>B</td></tr>
 <tr><td>Informazioni concernenti i progetti di costruzione</td><td></td></tr>
 <tr><td>Identificatore del progetto di costruzione (EPROID) attribuito dall’UST</td><td>B</td></tr>
 <tr><td>Comune politico</td><td>B</td></tr>
@@ -402,5 +404,5 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annex2-lvlu1-2]
 
-[^annex2-lvlu1-1]: [[RU 2000 1555](https://fedlex.data.admin.ch/eli/oc/2000/239), [2004 3367](https://fedlex.data.admin.ch/eli/oc/2004/432), [2005 3381](https://fedlex.data.admin.ch/eli/oc/2005/490), [2007 3399](https://fedlex.data.admin.ch/eli/oc/2007/413)[6719](https://fedlex.data.admin.ch/eli/oc/2007/868)all. n. 7, [2012 4707](https://fedlex.data.admin.ch/eli/oc/2012/570)]
+[^annex2-lvlu1-1]: [[RU 2000 1555](https://fedlex.data.admin.ch/eli/oc/2000/239); [2004 3367](https://fedlex.data.admin.ch/eli/oc/2004/432); [2005 3381](https://fedlex.data.admin.ch/eli/oc/2005/490); [2007 3399](https://fedlex.data.admin.ch/eli/oc/2007/413), [6719](https://fedlex.data.admin.ch/eli/oc/2007/868)all. n. 7; [2012 4707](https://fedlex.data.admin.ch/eli/oc/2012/570)]
 [^annex2-lvlu1-2]: Le mod. possono essere consultate alla [RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376).

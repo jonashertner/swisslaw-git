@@ -4,11 +4,11 @@ title: Ordonnance du 9 juin 2017 sur le Registre fédéral des bâtiments et des
 short: ORegBL
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/376"
 language: fr
-version: 2021-04-01
+version: 2022-04-01
 adopted: 2017-06-09
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2017-376-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2017-376-20220401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20220401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20210401/fr"
 
 (ORegBL)
 
-du 9 juin 2017 (Etat le 1<sup>er</sup> avril 2021)
+du 9 juin 2017 (Etat le 1<sup>er</sup> avril 2022)
 
 Le Conseil fédéral suisse,
 
@@ -336,11 +336,13 @@ Les bâtiments sans usage d’habitation qui ne sont pas encore enregistrés dan
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2017.
 
-Annexe 1
+Annexe 1*[^t-1]*
 
 (art. 15 et 16)
 
 ## Accès aux données du Registre fédéral des bâtiments et des logements
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du 4 mars 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 175](https://fedlex.data.admin.ch/eli/oc/2022/175)).
 
 <table>
 <tr><th>Les niveaux d’accès Niveau A - données accessibles au public Niveau B - données accessibles avec restriction Niveau C - données non accessibles</th><th>Niveau A / B / C</th></tr>
@@ -355,18 +357,18 @@ Annexe 1
 <tr><td>Date ou période de construction et de démolition du bâtiment</td><td>A</td></tr>
 <tr><td>Dimensions du bâtiment (surfaces, volume)</td><td>A</td></tr>
 <tr><td>Structure du bâtiment (nombre d’étages)</td><td>A</td></tr>
-<tr><td>Installations techniques principales du bâtiment (système de chauffage, abri PC)</td><td>B</td></tr>
+<tr><td>Installations techniques principales du bâtiment (système de chauffage, abri PC)</td><td>A</td></tr>
 <tr><td>Appartenance à des zones statistiques, à des quartiers et à d’autres unités territoriales infracommunales</td><td>B</td></tr>
 <tr><td>Personne de référence du bâtiment</td><td>C</td></tr>
 <tr><td>Informations concernant les logements</td><td></td></tr>
 <tr><td>Identificateur de logement attribué par l’OFS (EWID)</td><td>A</td></tr>
 <tr><td>Numéro de logement attribué par le canton ou la commune</td><td>A</td></tr>
-<tr><td>Référence aux biens-fonds pour les logements en propriété par étage</td><td>B</td></tr>
+<tr><td>Référence aux biens-fonds pour les logements en propriété par étage</td><td>A</td></tr>
 <tr><td>Situation du logement dans le bâtiment</td><td>A</td></tr>
-<tr><td>Date ou période de construction et de démolition du logement</td><td>B</td></tr>
+<tr><td>Date ou période de construction et de démolition du logement</td><td>A</td></tr>
 <tr><td>Statut du logement (projeté, achevé, démoli)</td><td>A</td></tr>
-<tr><td>Dimensions du logement (surface)</td><td>B</td></tr>
-<tr><td>Structure du logement (nombre de pièce, installation de cuisine, multiniveau)</td><td>B</td></tr>
+<tr><td>Dimensions du logement (surface)</td><td>A</td></tr>
+<tr><td>Structure du logement (nombre de pièces, installation de cuisine, multiniveau)</td><td>A</td></tr>
 <tr><td>Affectation du logement</td><td>B</td></tr>
 <tr><td>Restriction d’utilisation du logement (au sens de la LRS[^annex1-lvlu1-2])</td><td>B</td></tr>
 <tr><td>Informations concernant les projets de construction</td><td></td></tr>

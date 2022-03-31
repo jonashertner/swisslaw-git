@@ -4,11 +4,11 @@ title: Verordnung vom 9. Juni 2017 über das eidgenössische Gebäude- und Wohnu
 short: VGWR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/376"
 language: de
-version: 2021-04-01
+version: 2022-04-01
 adopted: 2017-06-09
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2017-376-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2017-376-20220401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20210401/de"
 
 (VGWR)
 
-vom 9. Juni 2017 (Stand am 1. April 2021) (Stand am 1. April 2021)
+vom 9. Juni 2017 (Stand am 1. April 2022) (Stand am 1. April 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -336,11 +336,13 @@ Noch nicht im GWR geführte Gebäude ohne Wohnnutzung müssen bis spätestens 31
 
 Diese Verordnung tritt am 1. Juli 2017 in Kraft.
 
-Anhang 1
+Anhang 1*[^t-1]*
 
 (Art. 15 und 16)
 
 ## Zugriff auf die Daten des eidgenössischen Gebäude- und Wohnungsregisters
+
+[^t-1]: Fassung gemäss Ziff. I der V vom 4. März 2022, in Kraft seit 1. April 2022 ([AS 2022 175](https://fedlex.data.admin.ch/eli/oc/2022/175)).
 
 <table>
 <tr><th>Berechtigungsstufen Stufe A – öffentlich zugängliche Daten Stufe B – mit Einschränkung zugängliche Daten Stufe C – nicht zugängliche Daten</th><th>Stufe A / B / C</th></tr>
@@ -355,18 +357,18 @@ Anhang 1
 <tr><td>Baudatum oder -periode und Abbruchdatum oder -periode des Gebäudes</td><td>A</td></tr>
 <tr><td>Gebäudedimensionen (Flächen, Volumen)</td><td>A</td></tr>
 <tr><td>Gebäudestruktur (Anzahl Stockwerke)</td><td>A</td></tr>
-<tr><td>Gebäudetechnische Installationen (Heizsystem, Schutzraum)</td><td>B</td></tr>
+<tr><td>Gebäudetechnische Installationen (Heizsystem, Schutzraum)</td><td>A</td></tr>
 <tr><td>Zugehörigkeit zu statistischen Zonen, Quartieren und weiteren infrakommunalen Gebietseinheiten</td><td>B</td></tr>
 <tr><td>Ansprechperson für das Gebäude</td><td>C</td></tr>
 <tr><td>Wohnungsinformationen</td><td></td></tr>
 <tr><td>Wohnungsidentifikator des BFS (EWID)</td><td>A</td></tr>
 <tr><td>Wohnungsnummer des Kantons oder der Gemeinde</td><td>A</td></tr>
-<tr><td>Referenz zu den Grundstücken bei Wohnungen im Stockwerkeigentum</td><td>B</td></tr>
+<tr><td>Referenz zu den Grundstücken bei Wohnungen im Stockwerkeigentum</td><td>A</td></tr>
 <tr><td>Lokalisierung der Wohnung im Gebäude</td><td>A</td></tr>
-<tr><td>Baudatum oder -periode und Abbruchdatum oder -periode der Wohnung</td><td>B</td></tr>
+<tr><td>Baudatum oder -periode und Abbruchdatum oder -periode der Wohnung</td><td>A</td></tr>
 <tr><td>Wohnungsstatus (projektiert, erstellt, abgebrochen)</td><td>A</td></tr>
-<tr><td>Wohnungsdimensionen (Fläche)</td><td>B</td></tr>
-<tr><td>Wohnungsstruktur (Anzahl Zimmer, Kocheinrichtung, mehrstöckig)</td><td>B</td></tr>
+<tr><td>Wohnungsdimensionen (Fläche)</td><td>A</td></tr>
+<tr><td>Wohnungsstruktur (Anzahl Zimmer, Kocheinrichtung, mehrstöckig)</td><td>A</td></tr>
 <tr><td>Nutzungsart der Wohnung</td><td>B</td></tr>
 <tr><td>Nutzungseinschränkung der Wohnung (im Sinne von ZWG[^annex1-lvlu1-2])</td><td>B</td></tr>
 <tr><td>Bauprojektinformationen</td><td></td></tr>
@@ -400,7 +402,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annex2-lvlu1-2]
+…[^annex2-lvlu1-2]
 
-[^annex2-lvlu1-1]: [[AS 2000 1555](https://fedlex.data.admin.ch/eli/oc/2000/239), [2004 3367](https://fedlex.data.admin.ch/eli/oc/2004/432), [2005 3381](https://fedlex.data.admin.ch/eli/oc/2005/490), [2007 3399](https://fedlex.data.admin.ch/eli/oc/2007/413)[6719](https://fedlex.data.admin.ch/eli/oc/2007/868)Anhang Ziff. 7, [2012 4707](https://fedlex.data.admin.ch/eli/oc/2012/570)]
+[^annex2-lvlu1-1]: [[AS 2000 1555](https://fedlex.data.admin.ch/eli/oc/2000/239); [2004 3367](https://fedlex.data.admin.ch/eli/oc/2004/432); [2005 3381](https://fedlex.data.admin.ch/eli/oc/2005/490); [2007 3399](https://fedlex.data.admin.ch/eli/oc/2007/413), [6719](https://fedlex.data.admin.ch/eli/oc/2007/868)Anhang Ziff. 7; [2012 4707](https://fedlex.data.admin.ch/eli/oc/2012/570)]
 [^annex2-lvlu1-2]: Die Änderungen können unter [AS 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)konsultiert werden.
