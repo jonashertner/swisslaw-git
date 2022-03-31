@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die Interoperabilität der Schengen/Dublin-Informationssysteme
 document: Vernehmlassungsvorlage
 language: de

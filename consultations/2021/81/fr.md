@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur l’interopérabilité des systèmes d’information Schengen/Dublin
 document: Projet mis en consultation
 language: fr
