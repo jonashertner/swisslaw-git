@@ -4,13 +4,12 @@ number: "141.2"
 title: Geschäftsordnung des Kantonsrates
 short: GO KR
 language: de
-version: 2019-06-01
-valid_until: 2022-03-31
-version_adopted: 2018-09-24
+version: 2022-04-01
+version_adopted: 2022-03-28
 adopted: 2018-09-24
 in_force: 2019-06-01
 url: "https://ar.clex.ch/app/de/texts_of_law/141.2"
-pdf: "https://ar.clex.ch/api/de/versions/1267/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1416/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1267/pdf_file"
 
 (GO KR)
 
-vom 24.09.2018 (Stand 01.06.2019)
+vom 24.09.2018 (Stand 01.04.2022)
 
 Der Kantonsrat von Appenzell Ausserrhoden,
 
@@ -497,6 +496,8 @@ erlässt:
 <sup>1</sup> Die Ratspräsidentin oder der Ratspräsident handhabt an den Sitzungstagen das Hausrecht im Ratssaal und im Vorraum.
 
 <sup>2</sup> Personen, welche die Verhandlungen stören, können nach vorheriger Ermahnung weggewiesen oder von der Polizei weggeführt werden.
+
+<sup>3</sup> Zur Wahrung der Sicherheit, zum Schutz der Gesundheit und zur Sicherstellung eines ungestörten Ratsbetriebs kann das Büro den Zutritt zum Ratssaal an Auflagen knüpfen.
 
 ### 2. Allgemeine Verfahrensbestimmungen
 
