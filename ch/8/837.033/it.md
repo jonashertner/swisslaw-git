@@ -3,11 +3,11 @@ sr: "837.033"
 title: "Ordinanza del 20 marzo 2020 sulle misure nel settore dell'assicurazione contro la disoccupazione riguardo al coronavirus (COVID-19) (Ordinanza COVID-19 assicurazione contro la disoccupazione)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/169"
 language: it
-version: 2022-01-01
+version: 2022-04-01
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-169-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2020-169-20220401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20220101/it"
 
 (Ordinanza COVID-19 assicurazione contro la disoccupazione)
 
-del 20 marzo 2020 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 20 marzo 2020 (Stato 1° aprile 2022)
 
 Il Consiglio federale svizzero,
 
@@ -33,34 +33,11 @@ ordina:
 
 [^12-1]: Abrogati dal n. I dell’O del 20 mag. 2020, con effetto dal 1° giu. 2020 ([RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)).
 
-#### Art. 3
+#### Art. 3 e 4
 
-[^3-1]
+[^34-1]
 
-In deroga agli articoli 32 capoverso 2 e 37 lettera b della legge federale del 25 giugno 1982[^3-2] sull’assicurazione contro la disoccupazione (LADI), nessun periodo d’attesa è dedotto dalla perdita di lavoro computabile.
-
-[^3-1]: Nuovo testo giusta il n. I dell’O del 26 gen. 2022 (Proroga della procedura di conteggio sommaria e reintroduzione di altre misure), in vigore dal 1° gen. 2022 ([RU 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
-[^3-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-
-#### Art. 4
-
-[^4-1]
-
-<sup>1</sup> In deroga all’articolo 33 capoverso 1 lettera e LADI[^4-2], una perdita di lavoro è computabile se concerne persone vincolate da un rapporto di lavoro di durata determinata o da un rapporto di tirocinio.
-
-<sup>2</sup> Le persone vincolate da un rapporto di lavoro di durata determinata hanno diritto all’indennità per lavoro ridotto se l’azienda, conformemente all’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^4-3], deve limitare l’accesso alle persone provviste sia di un certificato di vaccinazione o guarigione sia di un certificato di test.
-
-<sup>3</sup>
-
-Le persone vincolate da un rapporto di tirocinio hanno diritto all’indennità per lavoro ridotto se:
-
-- a. la loro formazione continua a essere garantita;
-- b. l’azienda, conformemente all’ordinanza COVID-19 situazione particolare, deve limitare l’accesso alle persone provviste sia di un certificato di vaccinazione o guarigione sia di un certificato di test; e
-- c. l’azienda non riceve nessun altro sostegno finanziario per coprire i loro salari.
-
-[^4-1]: Nuovo testo giusta il n. I dell’O del 26 gen. 2022 (Proroga della procedura di conteggio sommaria e reintroduzione di altre misure), in vigore dal 20 dic. 2021 ([RU 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
-[^4-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^4-3]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^34-1]: In vigore fino al 31 mar. 2022 (art. 9 cpv. 10).
 
 #### Art. 5
 
@@ -78,10 +55,7 @@ Le persone vincolate da un rapporto di tirocinio hanno diritto all’indennità 
 
 [^7-1]
 
-In deroga all’articolo 38 capoverso 3 lettere b e c LADI[^7-2], il datore di lavoro non presenta alla cassa di disoccupazione il conteggio sull’indennità per lavoro ridotto pagata ai suoi lavoratori e la conferma secondo cui assume l’obbligo di continuare a pagare i contributi alle assicurazioni sociali.
-
-[^7-1]: Nuovo testo giusta il n. I dell’O del 26 gen. 2022 (Proroga della procedura di conteggio sommaria e reintroduzione di altre misure), in vigore dal 1° gen. 2022 ([RU 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
-[^7-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^7-1]: In vigore fino al 31 mar. 2022 (art. 9 cpv. 10).
 
 #### Art. 8
 
@@ -120,21 +94,7 @@ In deroga all’articolo 38 capoverso 3 lettere b e c LADI[^7-2], il datore di l
 
 [^8f-1]
 
-<sup>1</sup>
-
-In deroga agli articoli 31 capoverso 3 lettera a e 33 capoverso 1 lettera b LADI[^8f-2], il lavoratore su chiamata il cui grado di occupazione subisce forti oscillazioni (superiori al 20 per cento) ha altresì diritto all’indennità per lavoro ridotto se:
-
-- a. è impiegato a tempo indeterminato da almeno sei mesi nell’azienda che chiede il lavoro ridotto; e
-- b. l’azienda, conformemente all’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^8f-3], deve limitare l’accesso alle persone provviste sia di un certificato di vaccinazione o guarigione sia di un certificato di test.
-
-<sup>2</sup> La perdita di lavoro è determinata in base agli ultimi sei o 12 mesi che precedono l’inizio del lavoro ridotto da parte del lavoratore su chiamata interessato; è presa in considerazione la perdita di lavoro più favorevole per il lavoratore.
-
-<sup>3</sup> L’articolo 57 dell’ordinanza del 31 agosto 1983[^8f-4] sull’assicurazione contro la disoccupazione non si applica ai lavoratori su chiamata il cui grado di occupazione è soggetto a forti oscillazioni.
-
-[^8f-1]: Introdotto dal n. I 1 dell’O dell’8 apr. 2020 sui provvedimenti complementari nel settore dell’assicurazione contro la disoccupazione in relazione al coronavirus ([RU 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)). Nuovo testo giusta il n. I dell’O del 26 gen. 2022 (Proroga della procedura di conteggio sommaria e reintroduzione di altre misure), in vigore dal 20 dic. 2021 ([RU 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
-[^8f-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^8f-3]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^8f-4]: [RS 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
+[^8f-1]: Introdotto dal n. I 1 dell’O dell’8 apr. 2020 sui provvedimenti complementari nel settore dell’assicurazione contro la disoccupazione in relazione al coronavirus ([RU 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)). In vigore fino al 31 mar. 2022 (art. 9 cpv. 10).
 
 #### Art. 8g
 
@@ -157,16 +117,7 @@ In deroga agli articoli 31 capoverso 3 lettera a e 33 capoverso 1 lettera b LADI
 
 [^8i-1]
 
-<sup>1</sup> In deroga agli articoli 34 capoverso 2 e 38 capoverso 3 lettera b LADI[^8i-2], la perdita di guadagno computabile è calcolata in procedura sommaria e l’indennità per lavoro ridotto è versata in forma forfettaria.
-
-<sup>2</sup> La percentuale della perdita di lavoro imputabile a motivi economici risulta dal rapporto tra la somma delle ore che le persone interessate dal lavoro ridotto hanno perso e la somma delle ore che le persone aventi diritto all’indennità devono effettuare.
-
-<sup>3</sup> La perdita di guadagno computabile corrisponde alla percentuale della perdita di lavoro imputabile a motivi economici rispetto alla somma dei guadagni determinanti di tutte le persone aventi diritto all’indennità.
-
-<sup>4</sup> Se l’azienda presenta redditi modesti secondo l’articolo 17*a* lettera a numeri 1 e 2 della legge COVID-19 del 25 settembre 2020, la perdita di guadagno computabile è calcolata in procedura sommaria separatamente per ogni categoria di reddito.
-
-[^8i-1]: Introdotto dal n. I 1 dell’O dell’8 apr. 2020 sui provvedimenti complementari nel settore dell’assicurazione contro la disoccupazione in relazione al coronavirus ([RU 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)). Nuovo testo giusta il n. I dell’O del 26 gen. 2022 (Proroga della procedura di conteggio sommaria e reintroduzione di altre misure), in vigore dal 1° gen. 2022 ([RU 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
-[^8i-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^8i-1]: Introdotto dal n. I 1 dell’O dell’8 apr. 2020 sui provvedimenti complementari nel settore dell’assicurazione contro la disoccupazione in relazione al coronavirus ([RU 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)). In vigore fino al 31 mar. 2022 (art. 9 cpv. 10).
 
 #### Art. 8j
 
