@@ -4,11 +4,11 @@ title: Ordonnance du 13 novembre 1962 sur les règles de la circulation routièr
 short: OCR
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: fr
-version: 2021-05-20
+version: 2022-04-01
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20210520/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20210520-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20210520/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20220401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20220401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20210520/fr"
 
 (OCR)**[^t-1]**
 
-du 13 novembre 1962 (Etat le 20 mai 2021)
+du 13 novembre 1962 (Etat le 1<sup>er</sup> avril 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 10 mars 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)).
 
@@ -111,9 +111,9 @@ Un conducteur est réputé incapable de conduire chaque fois qu’il est prouvé
 
 <sup>3</sup> Personne ne doit confier un véhicule à un conducteur qui n’est pas en état de conduire.
 
-<sup>4</sup> ...[^2-7]
+<sup>4</sup> …[^2-7]
 
-<sup>5</sup> ...[^2-8]
+<sup>5</sup> …[^2-8]
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 1979, en vigueur depuis le 1<sup>er</sup> janv. 1980 ([RO 1979 1583](https://fedlex.data.admin.ch/eli/oc/1979/1583_1583_1583)).
 [^2-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4687](https://fedlex.data.admin.ch/eli/oc/2013/825)).
@@ -266,9 +266,9 @@ Sont dispensés de l’obligation de porter le casque:
 
 <sup>1</sup> Le conducteur ne doit pas circuler à une vitesse qui l’empêcherait de s’arrêter sur la distance à laquelle porte sa visibilité; lorsque le croisement est malaisé, il doit pouvoir s’arrêter sur la moitié de cette distance.
 
-<sup>2</sup> et <sup>3</sup> ...[^4-1]
+<sup>2</sup> et <sup>3</sup> …[^4-1]
 
-<sup>4</sup> ...[^4-2]
+<sup>4</sup> …[^4-2]
 
 <sup>5</sup> Il est tenu de ne pas diminuer la fluidité du trafic en circulant, sans raison impérieuse, à une allure trop réduite.
 
@@ -340,7 +340,7 @@ La vitesse est limitée, sur les autoroutes et semi-autoroutes, à 100 km/h:
 - b. pour les voitures d’habitation lourdes;
 - c.[^5-5] pour les voitures automobiles légères avec remorque, si le poids total de cette dernière n’excède pas 3,5 t.[^5-6]
 
-<sup>2bis</sup> ...[^5-7]
+<sup>2bis</sup> …[^5-7]
 
 <sup>3</sup> Les limites de vitesse fixées ci-dessus seront également observées sur les parcours où des signaux indiquent une limite supérieure.
 
@@ -425,7 +425,7 @@ Lorsque des véhicules automobiles à voies multiples et des cycles utilisent la
 
 <sup>2</sup> Lorsqu’une route étroite ne permet pas de croiser, les trains routiers ont la priorité sur les autres véhicules, les véhicules automobiles lourds sur les véhicules automobiles légers et les autocars sur les camions.[^9-1] En cas de rencontre de véhicules de même catégorie, celui qui se trouve le plus proche d’une place d’évitement devra reculer.\* Le croisement sur les routes à forte déclivité et les routes de montagne est régi par l’art. 38, al. 1, première phrase.[^9-2]
 
-\* ...[^9-3]
+\* …[^9-3]
 
 [^9-1]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^9-2]: 3<sup>e</sup> phrase introduite par le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
@@ -439,7 +439,7 @@ Lorsque des véhicules automobiles à voies multiples et des cycles utilisent la
 
 <sup>1</sup> Le conducteur qui veut dépasser, se déplacera prudemment sur la gauche\* sans gêner les véhicules qui suivent. Il ne dépassera pas lorsque, devant le véhicule qui le précède, se trouve un obstacle tel qu’un chantier, un véhicule en ordre de présélection ou des piétons traversant la chaussée.
 
-<sup>2</sup> Après le dépassement, le conducteur reviendra sur sa droite dès qu’il peut le faire sans danger pour celui qu’il vient de dépasser. ...[^10-1]
+<sup>2</sup> Après le dépassement, le conducteur reviendra sur sa droite dès qu’il peut le faire sans danger pour celui qu’il vient de dépasser. …[^10-1]
 
 <sup>3</sup> À l’extérieur des localités, les conducteurs de voitures automobiles lourdes faciliteront le dépassement aux conducteurs des véhicules plus rapides en tenant l’extrême droite, en maintenant entre eux une distance de 100 m au moins et, au besoin, en s’arrêtant à des places d’évitement. Cette règle s’applique aussi aux autres véhicules à moteur qui circulent lentement.
 
@@ -657,9 +657,9 @@ Il est interdit de parquer:
 
 <sup>1</sup> Les véhicules dépourvus des plaques de contrôle prescrites ne doivent pas stationner sur les places de parc ou voies publiques; sont exceptées les places de parc accessibles au public qui appartiennent à des particuliers lorsque ceux-ci autorisent le stationnement. L’autorité compétente peut accorder des exceptions dans des cas spéciaux.[^20-1]
 
-<sup>2</sup> ...[^20-2]
+<sup>2</sup> …[^20-2]
 
-<sup>3</sup> ...[^20-3]
+<sup>3</sup> …[^20-3]
 
 [^20-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)).
 [^20-2]: Abrogé par le ch. I de l’O du 24 juin 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
@@ -740,7 +740,7 @@ Les feux clignotants avertisseurs (art. 110, al. 1, let. g, OETV) ne peuvent êt
 - a. sur le véhicule à l’arrêt, en complément du signal de panne, ou, s’il s’agit d’un bus scolaire signalé comme tel, pour laisser monter et descendre les écoliers (art. 6, al. 5);
 - b. sur le véhicule en marche, lors d’un ralentissement subit du trafic dû notamment à un accident ou un embouteillage, ou en cas de remorquage sur les autoroutes et semi-autoroutes.[^23-7]
 
-<sup>4</sup> et <sup>5</sup> ...[^23-8]
+<sup>4</sup> et <sup>5</sup> …[^23-8]
 
 <sup>6</sup> Le signal de panne doit aussi être placé à l’arrière des véhicules remorqués.
 
@@ -759,13 +759,13 @@ Les feux clignotants avertisseurs (art. 110, al. 1, let. g, OETV) ne peuvent êt
 
 ### (art. 28 et 32, al. 1, LCR)
 
-<sup>1</sup> ...[^24-1]
+<sup>1</sup> …[^24-1]
 
 <sup>2</sup> Celui qui franchit un passage à niveau doit éviter de s’attarder; toutefois, les véhicules munis de bandages ou de chenilles métalliques ainsi que les voitures à traction animale et les cavaliers ne traverseront qu’à l’allure du pas.[^24-2]
 
 <sup>3</sup> Les usagers de la route ne doivent pas ouvrir les barrières, y compris celles des aérodromes et installations similaires, ni les contourner, passer par-dessus ou par-dessous. Les demi-barrières et les barrières à ouverture sur demande sont assimilées aux barrières, quoique les barrières à ouverture sur demande puissent être ouvertes avec la commande prévue à cet effet.[^24-3]
 
-<sup>4</sup> ...[^24-4]
+<sup>4</sup> …[^24-4]
 
 [^24-1]: Abrogé par le ch. I de l’O du 24 juin 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 [^24-2]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
@@ -864,7 +864,13 @@ Les feux clignotants avertisseurs (art. 110, al. 1, let. g, OETV) ne peuvent êt
 
 <sup>1</sup> Entre la tombée de la nuit et le lever du jour, en cas de mauvaise visibilité et dans les tunnels, les feux de croisement doivent être utilisés lors de la marche. Pour les véhicules dépourvus de feux de croisement, il faut utiliser les feux prescrits pour la catégorie de véhicules concernée.
 
-<sup>2</sup> Pour le reste, l’utilisation des feux de circulation diurne ou des feux de croisement est obligatoire pour les véhicules automobiles. Font exception les véhicules qui n’appartiennent pas aux voitures automobiles ni aux motocycles ainsi que les voitures automobiles et les motocycles mis en circulation pour la première fois avant le 1<sup>er</sup> janvier 1970.
+<sup>2</sup>
+
+Pour le reste, l’utilisation des feux de circulation diurne ou des feux de croisement est obligatoire pour les véhicules automobiles; ceux qui en sont dépourvus doivent utiliser les feux prescrits pour la catégorie de véhicules concernée. Font exception:
+
+- a. les véhicules automobiles conduits par une personne à pied;
+- b. les véhicules automobiles dont la vitesse maximale n’excède pas 10 km/h;
+- c. les véhicules automobiles mis en circulation pour la première fois avant le 1<sup>er</sup> janvier 1970.[^30-2]
 
 <sup>3</sup>
 
@@ -878,6 +884,7 @@ Au besoin, il est autorisé d’utiliser les feux de route; il faut toutefois y 
 <sup>5</sup> En cas d’arrêt prolongé, il est autorisé de passer aux feux de position.
 
 [^30-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4687](https://fedlex.data.admin.ch/eli/oc/2013/825)).
+[^30-2]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 
 #### Art. 31
 
@@ -1007,11 +1014,11 @@ Il est interdit de dépasser des véhicules par la droite en déboîtant puis en
 
 <sup>1</sup> Lorsque, sur une route à forte déclivité ou sur une route de montagne, des véhicules de même catégorie\*<sup>3\*3</sup> ne peuvent pas se croiser, c’est le véhicule descendant qui doit reculer, sauf si l’autre véhicule se trouve près d’une place d’évitement. Le croisement de véhicules de catégories différentes est régi par l’art. 9, al. 2, première phrase.[^38-1]
 
-<sup>2</sup> ...[^38-2]
+<sup>2</sup> …[^38-2]
 
 <sup>3</sup> Lorsqu’il est difficile de croiser ou de dépasser sur les routes postales de montagne, il faut suivre les instructions et les signes donnés par les conducteurs des véhicules publics en trafic de ligne.[^38-3]
 
-\* ...[^38-4]
+\* …[^38-4]
 
 [^38-1]: 2<sup>e</sup> phrase introduite par le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^38-2]: Abrogé par le ch. I de l’O du 24 juin 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
@@ -1118,12 +1125,12 @@ Sur les routes secondaires situées dans les quartiers d’habitation et sur les
 
 <sup>3</sup> Les cyclistes peuvent devancer une file de véhicules automobiles par la droite lorsqu’ils disposent d’un espace libre suffisant; il leur est interdit de la devancer en se faufilant entre les véhicules. Ils n’empêcheront pas la file de progresser et s’abstiendront notamment de se placer devant les véhicules arrêtés.[^42-3]
 
-<sup>4</sup> Les conducteurs de cyclomoteurs et de vélos-taxis électriques dont la largeur ne dépasse pas 1,00 m doivent se conformer aux prescriptions concernant les cyclistes.[^42-4]
+<sup>4</sup> Les conducteurs de cyclomoteurs et de vélos-taxis électriques dont la largeur ne dépasse pas 1,00 m doivent se conformer aux prescriptions concernant les cyclistes. Ils doivent également respecter les limitations générales de vitesse et les vitesses maximales signalées.[^42-4]
 
 [^42-1]: Nouvelle teneur selon le ch. I de l’O du 15 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1315](https://fedlex.data.admin.ch/eli/oc/2015/274)).
 [^42-2]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
 [^42-3]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)).
-[^42-4]: Nouvelle teneur selon le ch. I de l’O du 15 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1315](https://fedlex.data.admin.ch/eli/oc/2015/274)).
+[^42-4]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 
 #### Art. 43
 
@@ -1212,11 +1219,11 @@ Les conducteurs de cycles et de cyclomoteurs ne circuleront pas à côté d’au
 
 <sup>3</sup> Sur les passages pour piétons où le trafic n’est pas réglé et qu’un refuge coupe en deux tronçons, chacun d’eux est considéré comme un passage indépendant.[^47-3]
 
-<sup>4</sup> ...[^47-4]
+<sup>4</sup> …[^47-4]
 
 <sup>5</sup> Hors des passages pour piétons, les piétons accorderont la priorité aux véhicules.
 
-<sup>6</sup> ...[^47-5]
+<sup>6</sup> …[^47-5]
 
 [^47-1]: Nouvelle expression selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)). Il a été tenu compte de cette mod. dans tout le texte.
 [^47-2]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> juin 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
@@ -1234,11 +1241,11 @@ Les conducteurs de cycles et de cyclomoteurs ne circuleront pas à côté d’au
 
 <sup>1bis</sup> Les skis et les luges peuvent être utilisés comme moyen de locomotion aux endroits où cela est conforme à l’usage local.[^48-1]
 
-<sup>2</sup> ...[^48-2]
+<sup>2</sup> …[^48-2]
 
 <sup>3</sup> Les personnes qui exécutent des travaux sur la chaussée ou aux abords de celle-ci doivent, au besoin, placer des signaux; aux cours de travaux de planification, de construction ou d'entretien, elles porteront des vêtements fluorescents et rétroréfléchissants leur permettant d'être bien visibles de jour comme de nuit.[^48-3]
 
-<sup>4</sup> ...[^48-4]
+<sup>4</sup> …[^48-4]
 
 [^48-1]: Introduit par le ch. I de l’O du 15 mai 2002, en vigueur depuis le 1<sup>er</sup> août 2002 ([RO 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
 [^48-2]: Abrogé par le ch. I de l’O du 24 juin 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
@@ -1272,7 +1279,7 @@ Il est permis d’utiliser les engins assimilés à des véhicules comme moyen d
 
 <sup>2</sup> Il est permis d’utiliser les aires de circulation destinées aux piétons et, sur les routes secondaires à faible circulation (p. ex. dans les quartiers d’habitation), toute la surface de la chaussée pour pratiquer des activités, notamment des jeux, qui se déroulent dans un espace limité, ceci pour autant que les autres usagers de la route ne soient ni gênés, ni mis en danger.
 
-<sup>3</sup> ...[^50-2]
+<sup>3</sup> …[^50-2]
 
 [^50-1]: Nouvelle teneur selon le ch. I de l’O du 15 mai 2002, en vigueur depuis le 1<sup>er</sup> août 2002 ([RO 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
 [^50-2]: Abrogé par le ch. I de l’O du 29 nov. 2013, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 4687](https://fedlex.data.admin.ch/eli/oc/2013/825)).
@@ -1341,7 +1348,7 @@ Il est permis d’utiliser les engins assimilés à des véhicules comme moyen d
 
 <sup>2</sup> La police doit être avisée sans délai lorsqu’un danger ne peut être immédiatement écarté, notamment chaque fois que l’écoulement d’un liquide pourrait polluer une rivière, un lac ou des eaux souterraines. Si l’exploitation ferroviaire est entravée, par exemple lorsqu’un véhicule ou un chargement est tombé sur les voies ou ses installations, l’administration du chemin de fer doit en être immédiatement informée.
 
-<sup>3</sup> ...[^54-1]
+<sup>3</sup> …[^54-1]
 
 [^54-1]: Abrogé par le ch. I de l’O du 24 juin 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
@@ -1355,7 +1362,7 @@ Il est permis d’utiliser les engins assimilés à des véhicules comme moyen d
 
 <sup>2</sup> Il n’est pas nécessaire d’aviser la police en cas de simples éraflures et de petites contusions; le responsable est cependant tenu de donner son nom et son adresse au blessé. De même, il n’y a pas obligation d’appeler la police lorsque seuls le conducteur, ses proches ou les membres de sa famille ont subi des blessures insignifiantes et qu’aucune tierce personne n’est impliquée dans l’accident.
 
-<sup>3</sup> ...[^55-1]
+<sup>3</sup> …[^55-1]
 
 [^55-1]: Abrogé par le ch. I de l’O du 20 mai 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
@@ -1418,15 +1425,19 @@ Il est permis d’utiliser les engins assimilés à des véhicules comme moyen d
 
 <sup>3</sup> Durant la course, les parties mobiles, telles que flèches de grues ou crochets, doivent être assurées, les fourches d’élévateurs rabattues et fixées dans le sens vertical ou munies de caissons protecteurs bien visibles.
 
-<sup>4</sup> ...[^58-4]
+<sup>4</sup> …[^58-4]
 
 <sup>5</sup> Les véhicules automobiles qui transportent des chargements ou tirent des remorques masquant la visibilité doivent être munis à gauche et à droite, extérieurement, d’un rétroviseur permettant au conducteur d’observer la chaussée sur les côtés des chargements ou des remorques et à l’arrière sur une distance de 100 m au minimum.[^58-5]
+
+<sup>6</sup> Les dispositifs escamotables ou rétractables visant à atténuer la résistance à l’air (art. 38, al. 1, let. s, OETV[^58-6]) qui dépassent à l’arrière de plus de 500 mm la longueur maximale autorisée du véhicule doivent être rétractés sur les routes où la vitesse maximale signalée est inférieure ou égale à 50 km/h.[^58-7]
 
 [^58-1]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^58-2]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^58-3]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^58-4]: Introduit par le ch. I de l’O du 25 janv. 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)). Abrogé par le ch. I de l’O du 20 mai 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^58-5]: Introduit par le ch. I de l’O du 7 mars 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)). Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
+[^58-6]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^58-7]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 
 #### Art. 59
 
@@ -1504,7 +1515,7 @@ Le détenteur est tenu de faire effectuer un service d’entretien des véhicule
 
 ### (art. 30, al. 1, LCR)
 
-<sup>1</sup> ...[^60-2]
+<sup>1</sup> …[^60-2]
 
 <sup>2</sup> Le nombre des personnes transportées dans et sur des véhicules automobiles et leurs remorques ne doit pas excéder celui des places autorisées. Durant le trajet, les passagers sont tenus de les utiliser; dans les autocars, ils peuvent quitter brièvement leur siège.[^60-3]
 
@@ -1574,7 +1585,7 @@ Un cycliste âgé de plus de seize ans peut transporter:
 
 <sup>4</sup> Outre les possibilités prévues à l’al. 3, les cyclistes de plus de seize ans peuvent transporter un enfant sur un siège d’enfant offrant toute sécurité. Ce siège doit notamment protéger les jambes de l’enfant et ne pas gêner le cycliste.
 
-<sup>5</sup> ...[^63-5]
+<sup>5</sup> …[^63-5]
 
 <sup>6</sup> Sur les cycles à voies multiples, l’autorité cantonale peut autoriser un nombre de places supérieur à celui des paires de pédales.
 
@@ -1622,6 +1633,10 @@ Un cycliste âgé de plus de seize ans peut transporter:
 <tr><td>c. autocars à deux essieux</td><td>13,50</td></tr>
 <tr><td>d. autocars ayant plus de deux essieux</td><td>15,00</td></tr>
 <tr><td>e. véhicules articulés</td><td>16,50</td></tr>
+</table>
+
+<table>
+<tr><th></th><th>Mètres</th></tr>
 <tr><td>f. trains routiers</td><td>18,75</td></tr>
 <tr><td>g. bus à plate-forme pivotante</td><td>18,75.[^65-3]</td></tr>
 </table>
@@ -1632,11 +1647,18 @@ Un cycliste âgé de plus de seize ans peut transporter:
 
 <sup>4</sup> Pour les véhicules articulés qui transportent des conteneurs et des unités de transport similaires d’une longueur de 45 pieds dans le cadre du transport combiné non accompagné, la longueur admise selon l’al. 1, let. e, peut, même à vide, être dépassée de 0,15 m au maximum.[^65-5]
 
+<sup>5</sup> Pour les voitures automobiles lourdes disposant de cabines aérodynamiques allongées, de réservoirs d’hydrogène ou de batteries pour la propulsion (art. 94, al. 1<sup>ter</sup>, OETV[^65-6]), un dépassement des longueurs visées à l’al. 1, let. a et e est admis, pour autant qu’il n’engendre pas d’augmentation de la capacité de chargement et que les dispositions de l’art. 65*a* régissant le mouvement giratoire soient respectées.[^65-7]
+
+<sup>6</sup> Pour les trains routiers disposant de cabines aérodynamiques allongées, de réservoirs d’hydrogène ou de batteries pour la propulsion, un dépassement de la longueur visée à l’al. 1, let. f et à l’art. 9, al. 1, LCR est admis, pour autant qu’il n’engendre pas d’augmentation de la capacité de chargement et que les dispositions de l’art. 65*a* régissant le mouvement giratoire soient respectées.[^65-8]
+
 [^65-1]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^65-2]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^65-3]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3565](https://fedlex.data.admin.ch/eli/oc/2002/534)).
 [^65-4]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3565](https://fedlex.data.admin.ch/eli/oc/2002/534)).
 [^65-5]: Introduit par le ch. I de l’O du 5 avr. 2017, en vigueur depuis le 7 mai 2017 ([RO 2017 2649](https://fedlex.data.admin.ch/eli/oc/2017/262)).
+[^65-6]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^65-7]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^65-8]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> avr. 2022 au 31 déc. 2030 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 
 #### Art. 65a
 
@@ -1655,7 +1677,7 @@ Les voitures automobiles et les ensembles de véhicules en mouvement doivent pou
 
 [^66-1]
 
-La hauteur des véhicules, chargement compris, ne doit pas excéder 4 m. ...[^66-2].
+La hauteur des véhicules, chargement compris, ne doit pas excéder 4 m. …[^66-2].
 
 [^66-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^66-2]: Phrase abrogée par le ch. I de l’O du 7 mars 1994, avec effet au 1<sup>er</sup> avr. 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
@@ -1684,28 +1706,30 @@ Le poids effectif des véhicules et des ensembles de véhicules ne doit pas exc�
 
 <sup>1bis</sup> Par transport combiné non accompagné, il faut entendre le transport d’unités de chargement (conteneur, caisse mobile) ou le transfert d’une semi-remorque à partir ou à destination de n’importe quelle gare ferroviaire suisse de transbordement ou à partir ou à destination d’un port suisse, sans que la marchandise transportée change de contenant lors du passage d’un mode de transport à l’autre. Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication peut désigner les gares de transbordement étrangères proches de la frontière assimilées aux gares suisses de même nature. En transport combiné non accompagné, le conducteur doit être porteur d’une pièce justificative appropriée (p. ex. une lettre de voiture établie par l’entreprise ferroviaire).[^67-10]
 
-<sup>1</sup> <sup>ter</sup> Le poids effectif des véhicules visés à l’al. 1, let. c, d et e, et dotés d’une propulsion alternative (art. 95, al. 1<sup>bis</sup>, OETV) peut être relevé à hauteur du poids supplémentaire requis par le système de propulsion alternative, dans la limite d’une tonne toutefois.[^67-11]
+<sup>1</sup> <sup>ter</sup> Le poids effectif des véhicules visés à l’al. 1, let. b à d et e, et dotés d’une propulsion alternative (art. 9*a,* al. 1, OETV[^67-11]) peut être relevé à hauteur du surplus de poids induit par le système de propulsion alternative, dans la limite de 1 t toutefois ou de 2 t pour les véhicules à propulsion non polluante (art. 9*a*, al. 2, OETV).[^67-12]
+
+<sup>1</sup> <sup>quater</sup> Le poids effectif des véhicules visés à l’al. 1, let. a, et dotés d’une propulsion alternative (art. *9a,* al. 1, OETV) peut être relevé par rapport aux valeurs indiquées à l’al. 1 et à l’art. 9, al. 1, LCR, à hauteur du surplus de poids induit par le système de propulsion alternative, dans la limite de 1 t toutefois ou de 2 t pour les véhicules à propulsion non polluante (art. 9*a,* al. 2, OETV).[^67-13]
 
 <sup>2</sup> La charge par essieu ne doit pas excéder:
 
 <table>
 <tr><th></th><th>en tonnes</th></tr>
 <tr><td>a. pour un essieu simple</td><td>10,00</td></tr>
-<tr><td>b.[^67-12] pour l’essieu simple entraîné:</td><td></td></tr>
-<tr><td>1. d’une récolteuse agricole et forestière munie de pneumatiques larges (art. 60, al. 6, OETV[^67-13])</td><td>14,00</td></tr>
+<tr><td>b.[^67-14] pour l’essieu simple entraîné:</td><td></td></tr>
+<tr><td>1. d’une récolteuse agricole et forestière munie de pneumatiques larges (art. 60, al. 6, OETV[^67-15])</td><td>14,00</td></tr>
 <tr><td>2. de chariots de travail munis de pneumatiques larges (art. 60, al. 6, OETV)</td><td>14,00</td></tr>
 <tr><td>3. des autres voitures automobiles</td><td>11,50</td></tr>
-<tr><td>4.[^67-14] de remorques construites pour une utilisation tout terrain</td><td>11,50</td></tr>
+<tr><td>4.[^67-16] de remorques construites pour une utilisation tout terrain</td><td>11,50</td></tr>
 <tr><td>c. pour un essieu double, d’empattement inférieur à 1,00 m</td><td></td></tr>
 <tr><td>1. de véhicule automobile</td><td>11,50</td></tr>
 <tr><td>2. de remorque</td><td>11,00</td></tr>
 <tr><td>d. pour un essieu double dont l’empattement est compris entre 1,00 m et moins de 1,30 m</td><td>16,00</td></tr>
 <tr><td>e. pour un essieu double dont l’empattement est compris entre 1,30 m et moins de 1,80 m</td><td>18,00</td></tr>
-<tr><td>f. pour un essieu double dont l’empattement est compris entre 1,30 m et moins de 1,80 m, si l’essieu moteur est équipé de pneus jumelés et d’une suspension pneumatique ou d’une suspension reconnue équivalente selon l’art. 57 OETV[^67-15] ou si chacun des essieux moteurs est équipé de pneus jumelés et si la charge maximale autorisée par essieu n’excède pas 9,50 t.</td><td>19,00</td></tr>
+<tr><td>f. pour un essieu double dont l’empattement est compris entre 1,30 m et moins de 1,80 m, si l’essieu moteur est équipé de pneus jumelés et d’une suspension pneumatique ou d’une suspension reconnue équivalente selon l’art. 57 OETV[^67-17] ou si chacun des essieux moteurs est équipé de pneus jumelés et si la charge maximale autorisée par essieu n’excède pas 9,50 t.</td><td>19,00</td></tr>
 <tr><td>g. pour un essieu double de remorque dont l’empattement est de 1,80 m ou plus</td><td>20,00</td></tr>
-<tr><td>h.[^67-16] pour un essieu triple dont les empattements sont inférieurs ou égaux à 1,30 m</td><td>21,00</td></tr>
-<tr><td>i.[^67-17] pour un essieu triple dont les empattements sont supérieurs à 1,30 m, sans toutefois dépasser 1,40 m</td><td>24,00</td></tr>
-<tr><td>k.[^67-18] pour un essieu triple dont un empattement est supérieur à 1,40 m</td><td>27,00</td></tr>
+<tr><td>h.[^67-18] pour un essieu triple dont les empattements sont inférieurs ou égaux à 1,30 m</td><td>21,00</td></tr>
+<tr><td>i.[^67-19] pour un essieu triple dont les empattements sont supérieurs à 1,30 m, sans toutefois dépasser 1,40 m</td><td>24,00</td></tr>
+<tr><td>k.[^67-20] pour un essieu triple dont un empattement est supérieur à 1,40 m</td><td>27,00</td></tr>
 </table>
 
 <sup>3</sup> Si les valeurs inscrites dans le permis de circulation sont inférieures aux valeurs maximales indiquées aux al. 1, 2, 6 et 7, lesdites valeurs ne doivent pas être dépassées.
@@ -1715,15 +1739,15 @@ Le poids effectif des véhicules et des ensembles de véhicules ne doit pas exc�
 Le poids reposant sur les essieux moteurs ne doit pas être inférieur (poids minimal d’adhérence) à:
 
 - a. 22 % du poids effectif pour les ensembles de véhicules dont la vitesse maximale par construction est supérieure à 25 km/h et inférieure ou égale à 40 km/h;
-- b. 25 % du poids effectif pour les véhicules et les ensembles de véhicules dont la vitesse maximale par construction est supérieure à 40 km/h.[^67-19]
+- b. 25 % du poids effectif pour les véhicules et les ensembles de véhicules dont la vitesse maximale par construction est supérieure à 40 km/h.[^67-21]
 
 <sup>5</sup> Le poids effectif de la remorque ne doit pas dépasser la charge remorquable inscrite dans le permis de circulation du véhicule tracteur.
 
-<sup>6</sup> et <sup>7</sup> ...[^67-20]
+<sup>6</sup> et <sup>7</sup> …[^67-22]
 
-<sup>8</sup> Les charges par essieu autorisées en vertu des al. 2 et 3 peuvent être dépassées de 2 % au maximum, si le poids effectif des véhicules et des ensembles de véhicules visé aux al. 1 et 3 est respecté.[^67-21]
+<sup>8</sup> Les charges par essieu autorisées en vertu des al. 2 et 3 peuvent être dépassées de 2 % au maximum, si le poids effectif des véhicules et des ensembles de véhicules visé aux al. 1 et 3 est respecté.[^67-23]
 
-<sup>9</sup> L’OFROU peut édicter des instructions concernant les charges maximales autorisées par essieu et le poids minimal d’adhérence pour les véhicules et transports spéciaux.[^67-22]
+<sup>9</sup> L’OFROU peut édicter des instructions concernant les charges maximales autorisées par essieu et le poids minimal d’adhérence pour les véhicules et transports spéciaux.[^67-24]
 
 [^67-1]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^67-2]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
@@ -1735,18 +1759,20 @@ Le poids reposant sur les essieux moteurs ne doit pas être inférieur (poids mi
 [^67-8]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^67-9]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^67-10]: Introduit par le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^67-11]: Introduit par le ch. I de l’O du 5 avr. 2017, en vigueur depuis le 7 mai 2017 ([RO 2017 2649](https://fedlex.data.admin.ch/eli/oc/2017/262)).
-[^67-12]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
-[^67-13]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^67-14]: Introduit par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
+[^67-11]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^67-12]: Introduit par le ch. I de l’O du 5 avr. 2017 ([RO 2017 2649](https://fedlex.data.admin.ch/eli/oc/2017/262)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^67-13]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> avr. 2022 au 31 déc. 2030 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^67-14]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
 [^67-15]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^67-16]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^67-17]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
+[^67-16]: Introduit par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
+[^67-17]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^67-18]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^67-19]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
-[^67-20]: Abrogés par le ch. I de l’O du 24 juin 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^67-21]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^67-22]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
+[^67-19]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
+[^67-20]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
+[^67-21]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
+[^67-22]: Abrogés par le ch. I de l’O du 24 juin 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
+[^67-23]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
+[^67-24]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 
 ### IV. Attelage de remorques, remorquage
 
@@ -1770,7 +1796,7 @@ Les exceptions suivantes sont applicables:
 
 <sup>4</sup> Les remorques affectées au transport de personnes ne peuvent être utilisées qu’en trafic régional exploité selon un horaire par des entreprises de transport concessionnaires. Les autocars ne peuvent tirer qu’une remorque à bagages, d’un poids total n’excédant pas 3,50 t.[^68-6]
 
-<sup>5</sup> Les semi-remorques ne peuvent être accouplées à des tracteurs à sellette légers que si le poids de l’ensemble, mentionné dans le permis de circulation, n’est pas dépassé.[^68-7]
+<sup>5</sup> …[^68-7]
 
 <sup>6</sup> En cas de sinistre et pour les exercices assimilés, il est permis d’atteler à une voiture automobile deux remorques du service du feu ou de la protection civile, ou deux engins à traction manuelle ou animale.[^68-8]
 
@@ -1782,7 +1808,7 @@ Les exceptions suivantes sont applicables:
 [^68-4]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 [^68-5]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^68-6]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
-[^68-7]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^68-7]: Abrogé par le ch. I de l’O du 17 déc. 2021, avec effet au 1<sup>er</sup> avr. 2022 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 [^68-8]: Introduit par l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^68-9]: Introduit par le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
@@ -1800,7 +1826,7 @@ Les exceptions suivantes sont applicables:
 
 <sup>2</sup> Au besoin, le conducteur et ses aides doivent prendre les mesures de sécurité nécessaires; ils actionneront notamment le dispositif de direction de la remorque lorsqu’ils doivent s’engager dans un tournant étroit avec une remorque ne pouvant braquer facilement.[^70-1]
 
-<sup>3</sup> ...[^70-2]
+<sup>3</sup> …[^70-2]
 
 [^70-1]: Nouvelle teneur selon l’art. 36 ch. I de l’ACF du 27 août 1969 groupant les disp. administratives prises en application de la loi sur la circulation routière, en vigueur depuis le 1<sup>er</sup> oct. 1969 ([RO 1969 813](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811)).
 [^70-2]: Abrogé par le ch. I de l’O du 7 mars 1994, avec effet au 1<sup>er</sup> avr. 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
@@ -1813,7 +1839,7 @@ Les exceptions suivantes sont applicables:
 
 <sup>2</sup> Les cantons peuvent autoriser le remorquage de bois ou d’autres marchandises semblables ainsi que le remorquage de skieurs dans les régions où se pratiquent les sports d’hiver.[^71-1]
 
-<sup>3</sup> ...[^71-2]
+<sup>3</sup> …[^71-2]
 
 \* En ce qui concerne les cycles, voir également l’art. 46 al. 4 LCR.
 
@@ -1935,7 +1961,7 @@ Ils peuvent autoriser une largeur maximale de 2 m 55 même sur des routes dont l
 - c. 25 m pour un autocar avec remorque affectée au transport de personnes;
 - d. 28 m pour un autocar tirant une remorque affectée au transport de personnes et une remorque à bagages, et pour un bus à plate-forme pivotante avec remorque à bagages.
 
-<sup>5</sup> ...[^76-6]
+<sup>5</sup> …[^76-6]
 
 [^76-1]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 1997, en vigueur depuis le 1<sup>er</sup> nov. 1997 ([RO 1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)).
 [^76-2]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
@@ -2058,7 +2084,7 @@ Des exceptions aux normes légales sur les dimensions et les poids maximaux (art
 
 <sup>3</sup> Dans les limites du territoire cantonal, l’autorité cantonale peut autoriser les déplacements avec des véhicules plus larges, sur des routes dont la signalisation indique une largeur maximale donnée, si les conditions de la route le permettent.[^80-6]
 
-<sup>4</sup> ...[^80-7]
+<sup>4</sup> …[^80-7]
 
 [^80-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 [^80-2]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
@@ -2108,7 +2134,7 @@ Des exceptions aux normes légales sur les dimensions et les poids maximaux (art
 
 <sup>1</sup> Les conducteurs doivent circuler de manière à gêner le moins possible les autres usagers de la route. Ils faciliteront les croisements et les dépassements aux autres véhicules, au besoin en s’arrêtant hors de la chaussée.
 
-<sup>2</sup> ...[^85-1]
+<sup>2</sup> …[^85-1]
 
 <sup>3</sup> Pour de justes motifs et à condition d’observer des mesures de sécurité suffisantes, les conducteurs de véhicules spéciaux et de transports spéciaux peuvent déroger aux règles de la circulation ainsi qu’aux obligations indiquées par des signaux ou des marques. Cette règle s’applique par analogie aux véhicules convoyeurs ainsi qu’aux véhicules servant à la construction, à l’entretien et au nettoyage des routes.[^85-2]
 
@@ -2139,7 +2165,7 @@ Les véhicules automobiles et remorques agricoles et forestiers (véhicules agri
 
 Sont assimilées aux exploitations agricoles et forestières:[^86-4]
 
-- a.[^86-5] ...
+- a.[^86-5] …
 - b. les exploitations servant à la culture de plantes, notamment à la culture maraîchère, fruitière et viticole;
 - c. les jardineries;
 - d. les exploitations d’apiculture.[^86-6]
@@ -2280,11 +2306,13 @@ Ne tombent pas sous l’interdiction de circuler le dimanche et de nuit:
 - i. le transport des fleurs coupées;
 - j. le transport des quotidiens comprenant une partie rédactionnelle et les courses occasionnées par des reportages télévisés d’actualité;
 - k.[^91a-7] les courses avec des véhicules à chenilles destinées à préparer des pistes;
-- l.[^91a-8] les véhicules dont la carrosserie sert de local spécialement aménagé pour les dons de sang.
+- l.[^91a-8] les véhicules dont la carrosserie sert de local spécialement aménagé pour les dons de sang;
+- m.[^91a-9] les voitures automobiles lourdes dont le poids total n’excède pas 4250 kg, si elles disposent d’une propulsion non polluante (art. 9*a,* al. 2, OETV[^91a-10]) et que le dépassement de poids par rapport à la limite de 3500 kg est imputable au seul surplus de poids induit par le système de propulsion non polluante;
+- n.[^91a-11] les véhicules articulés pour lesquels le poids de l’ensemble admis (art. 7, al. 6, OETV) n’excède pas 5750 kg, s’ils disposent d’une propulsion non polluante (art. 9*a,* al. 2, OETV) et que le dépassement de poids par rapport à la limite de 5000 kg est imputable au seul surplus de poids induit par le système de propulsion non polluante.
 
 <sup>2</sup> Ne tombent pas non plus sous l’interdiction de circuler le dimanche et de nuit les courses effectuées pour porter assistance en cas d’accident, de panne de véhicule ou d’incident d’exploitation, notamment dans les entreprises de transports publics et dans le trafic aérien, et les courses d’intervention du service hivernal.
 
-<sup>2bis</sup> Les véhicules vétérans reconnus comme tels d’après l’inscription dans le permis de circulation ne tombent pas sous l’interdiction de circuler le dimanche.[^91a-9]
+<sup>2bis</sup> Les véhicules vétérans reconnus comme tels d’après l’inscription dans le permis de circulation ne tombent pas sous l’interdiction de circuler le dimanche.[^91a-12]
 
 <sup>3</sup> Pour les courses visées à l’al. 1, let. f à j, le quart du volume de chargement du véhicule peut être occupé par d’autres marchandises. Une course à vide de 30 minutes au maximum peut précéder ou suivre le transport. Pour les courses à vide plus longues, une autorisation conforme à l’art. 92, al. 1, est requise.
 
@@ -2298,7 +2326,10 @@ Ne tombent pas sous l’interdiction de circuler le dimanche et de nuit:
 [^91a-6]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^91a-7]: Introduite par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^91a-8]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
-[^91a-9]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^91a-9]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^91a-10]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^91a-11]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^91a-12]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
 #### Art. 92
 
@@ -2343,7 +2374,7 @@ L’autorisation indique:
 - a. si elle est unique, la nature de la marchandise transportée, l’heure du transport et l’itinéraire;
 - b. si elle est durable, la nature de la marchandise transportée, la région concernée et l’heure des transports.[^93-2]
 
-<sup>3</sup> ...[^93-3]
+<sup>3</sup> …[^93-3]
 
 <sup>4</sup> L’autorisation peut être retirée en tout temps, notamment si des abus ont été commis ou si les courses autorisées ne sont plus nécessaires.
 

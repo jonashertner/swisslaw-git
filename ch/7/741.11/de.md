@@ -4,11 +4,11 @@ title: Verkehrsregelnverordnung vom 13. November 1962 (VRV)
 short: VRV
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: de
-version: 2021-05-20
+version: 2022-04-01
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20210520/de/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20210520-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20210520/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20220401/de/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20220401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20210520/de"
 
 (VRV)**[^t-1]**
 
-vom 13. November 1962 (Stand am 20. Mai 2021)
+vom 13. November 1962 (Stand am 1. April 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 
@@ -859,7 +859,13 @@ Warnblinklichter (Art. 110 Abs. 1 Bst. g VTS) dürfen nur zur Warnung vor Gefahr
 
 <sup>1</sup> Vom Beginn der Abenddämmerung bis zur Tageshelle, bei schlechten Sichtverhältnissen und in Tunneln sind während der Fahrt die Abblendlichter zu verwenden. Bei Fahrzeugen ohne Abblendlicht sind die für die entsprechende Fahrzeugart vorgeschriebenen Lichter zu verwenden.
 
-<sup>2</sup> Im Übrigen sind bei Motorfahrzeugen die Tagfahrlichter oder die Abblendlichter zu verwenden. Ausgenommen sind andere Fahrzeugarten als Motorwagen und Motorräder sowie die vor dem 1. Januar 1970 erstmals zum Verkehr zugelassenen Motorwagen und Motorräder.
+<sup>2</sup>
+
+Im Übrigen sind bei Motorfahrzeugen die Tagfahrlichter oder die Abblendlichter und bei Motorfahrzeugen ohne solche Lichter die für die entsprechende Fahrzeugart vorgeschriebenen Lichter zu verwenden. Ausgenommen sind:
+
+- a. Motorfahrzeuge, die von einer zu Fuss gehenden Person geführt werden;
+- b. Motorfahrzeuge mit einer Höchstgeschwindigkeit bis 10 km/h;
+- c. Motorfahrzeuge, die vor dem 1. Januar 1970 erstmals zum Verkehr zugelassen wurden.[^30-2]
 
 <sup>3</sup>
 
@@ -873,6 +879,7 @@ Bei Bedarf können die Fernlichter verwendet werden; in Ortschaften ist jedoch n
 <sup>5</sup> Bei längerem Halten kann auf die Standlichter umgeschaltet werden.
 
 [^30-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4687](https://fedlex.data.admin.ch/eli/oc/2013/825)).
+[^30-2]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 
 #### Art. 31
 
@@ -1115,12 +1122,12 @@ Auf Nebenstrassen in Wohnquartieren oder auf Nebenstrassen, wo der Fahrzeugverke
 
 <sup>3</sup> Radfahrer dürfen rechts neben einer Motorfahrzeugkolonne vorbeifahren, wenn genügend freier Raum vorhanden ist; das slalomartige Vorfahren ist untersagt. Sie dürfen die Weiterfahrt der Kolonne nicht behindern und sich namentlich nicht vor haltende Wagen stellen.[^42-3]
 
-<sup>4</sup> Die Führer von Motorfahrrädern sowie die Führer von Elektro-Rikschas mit einer Breite bis 1,00 m haben die Vorschriften für Radfahrer zu beachten.[^42-4]
+<sup>4</sup> Die Führer von Motorfahrrädern sowie die Führer von Elektro-Rikschas mit einer Breite bis 1,00 m haben die Vorschriften für Radfahrer zu beachten. Zusätzlich haben sie die allgemeinen und signalisierten Höchstgeschwindigkeiten einzuhalten.[^42-4]
 
 [^42-1]: Fassung gemäss Ziff. I der V vom 15. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1315](https://fedlex.data.admin.ch/eli/oc/2015/274)).
 [^42-2]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
 [^42-3]: Fassung gemäss Ziff. I der V vom 22. Dez. 1976, in Kraft seit 1. Jan. 1977 ([AS 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)).
-[^42-4]: Fassung gemäss Ziff. I der V vom 15. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1315](https://fedlex.data.admin.ch/eli/oc/2015/274)).
+[^42-4]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 
 #### Art. 43
 
@@ -1419,11 +1426,15 @@ Fahrzeugähnliche Geräte dürfen als Verkehrsmittel verwendet werden auf:
 
 <sup>5</sup> Motorfahrzeuge, die sichthemmende Ladungen oder Anhänger mitführen, müssen links und rechts aussen je einen Rückspiegel tragen, der dem Fahrer erlaubt, die Fahrbahn seitlich neben den Ladungen oder Anhängern und nach hinten mindestens 100 m weit zu überblicken.[^58-5]
 
+<sup>6</sup> Einklappbare oder einziehbare Einrichtungen zur Verringerung des Luftwiderstands (Art. 38 Abs. 1 Bst. s VTS[^58-6]), die hinten mehr als 500 mm über die höchstzulässige Fahrzeuglänge hinausragen, müssen auf Strassen, auf denen die signalisierte Höchstgeschwindigkeit 50 km/h oder weniger beträgt, eingezogen sein.[^58-7]
+
 [^58-1]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^58-2]: Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^58-3]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^58-4]: Eingefügt durch Ziff. I der V vom 25. Jan. 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)). Aufgehoben durch Ziff. I der V vom 20. Mai 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^58-5]: Eingefügt durch Ziff. I der V vom 7. März 1994 ([AS 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)). Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
+[^58-6]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^58-7]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 
 #### Art. 59
 
@@ -1435,7 +1446,7 @@ Die Fahrzeugführer haben jede Beschmutzung der Fahrbahn zu vermeiden. Ist eine 
 
 [^59-1]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
-### I*a.* Abgasemissionen, Abgaswartung des Fahrzeugs
+### I*a.***** Abgasemissionen, Abgaswartung des Fahrzeugs
 
 [^part4-chap1-lvlIa-1]
 
@@ -1629,11 +1640,18 @@ Fahrradfahrer über 16 Jahre dürfen mitführen:
 
 <sup>4</sup> Bei Sattelmotorfahrzeugen, die im unbegleiteten kombinierten Verkehr 45-Fuss-Container und vergleichbare Transportbehälter von 45 Fuss Länge befördern, darf, auch im leeren Zustand, die zulässige Länge nach Absatz 1 Buchstabe e um höchstens 0,15 m überschritten werden.[^65-5]
 
+<sup>5</sup> Bei schweren Motorwagen mit verlängerten aerodynamischen Führerkabinen oder mit Wasserstoffbehältern oder Batterien für den Antrieb (Art. 94 Abs. 1<sup>ter</sup> VTS[^65-6]) dürfen die Längen nach Absatz 1 Buchstaben a und e überschritten werden, sofern kein grösseres Ladevermögen entsteht und die Kreisfahrbedingungen nach Artikel 65*a* eingehalten werden.[^65-7]
+
+<sup>6</sup> Bei Anhängerzügen mit verlängerten aerodynamischen Führerkabinen oder mit Wasserstoffbehältern oder Batterien für den Antrieb darf die Länge nach Absatz 1 Buchstabe f und nach Artikel 9 Absatz 1 SVG überschritten werden, sofern kein grösseres Ladevermögen entsteht und die Kreisfahrbedingungen nach Artikel 65*a* eingehalten werden.[^65-8]
+
 [^65-1]: Fassung gemäss Anhang 1 Ziff. II 4 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^65-2]: Fassung gemäss Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^65-3]: Fassung gemäss Ziff. I der V vom 16. Okt. 2002, in Kraft seit 1. Dez. 2002 ([AS 2002 3565](https://fedlex.data.admin.ch/eli/oc/2002/534)).
 [^65-4]: Fassung gemäss Ziff. I der V vom 16. Okt. 2002, in Kraft seit 1. Dez. 2002 ([AS 2002 3565](https://fedlex.data.admin.ch/eli/oc/2002/534)).
 [^65-5]: Eingefügt durch Ziff. I der V vom 5. April 2017, in Kraft seit 7. Mai 2017 ([AS 2017 2649](https://fedlex.data.admin.ch/eli/oc/2017/262)).
+[^65-6]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^65-7]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^65-8]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. April 2022 bis zum 31. Dez. 2030 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 
 #### Art. 65a
 
@@ -1681,18 +1699,20 @@ Das Betriebsgewicht von Fahrzeugen und Fahrzeugkombinationen darf höchstens bet
 
 <sup>1bis</sup> Als unbegleiteter kombinierter Verkehr gilt die Beförderung von Ladebehältern (Container, Wechselaufbau) oder die Überführung eines Sattelanhängers von oder zu einer beliebigen schweizerischen Umladestation der Bahn bzw. von oder zu einem schweizerischen Hafen, ohne dass das Ladegut beim Übergang vom einen zum anderen Verkehrsträger das Transportgefäss wechselt. Das UVEK kann festlegen, welche in Grenznähe liegenden ausländischen Umladestationen den schweizerischen gleichgestellt sind. Der Fahrzeugführer muss im unbegleiteten kombinierten Verkehr ein geeignetes Nachweisdokument (z. B. Frachtbrief der Bahn) mitführen.[^67-10]
 
-<sup>1</sup> <sup>ter</sup> Das Betriebsgewicht von Fahrzeugen nach Absatz 1 Buchstaben c, d und e mit alternativem Antrieb (Art. 95 Abs. 1<sup>bis</sup> VTS) darf um das zusätzliche, für die alternative Antriebstechnik erforderliche Gewicht, höchstens jedoch 1 t, höher sein.[^67-11]
+<sup>1</sup> <sup>ter</sup> Das Betriebsgewicht von Fahrzeugen nach Absatz 1 Buchstaben b–d und e mit alternativem Antrieb (Art. 9*a* Abs. 1 VTS[^67-11]) darf um das für die alternative Antriebstechnik erforderliche Mehrgewicht, höchstens jedoch 1 t und bei Fahrzeugen mit emissionsfreiem Antrieb (Art. 9*a* Abs. 2 VTS) höchstens 2 t, höher sein.[^67-12]
+
+<sup>1</sup> <sup>quater</sup> Das Betriebsgewicht von Fahrzeugen nach Absatz 1 Buchstabe a mit alternativem Antrieb (Art. 9*a* Abs. 1 VTS) darf um das für die alternative Antriebstechnik erforderliche Mehrgewicht, höchstens jedoch 1 t und bei Fahrzeugen mit emissionsfreiem Antrieb (Art. 9*a* Abs. 2 VTS) höchstens 2 t, höher sein als die in Absatz 1 und in Artikel 9 Absatz 1 SVG genannten Werte.[^67-13]
 
 <sup>2</sup> Die Achslasten dürfen höchstens betragen für:
 
 <table>
 <tr><th></th><th>Tonnen</th></tr>
 <tr><td>a. Einzelachsen</td><td>10,00</td></tr>
-<tr><td>b.[^67-12] angetriebene Einzelachsen bei:</td><td></td></tr>
-<tr><td>1. land- und forstwirtschaftlichen Erntemaschinen mit Breitreifen (Art. 60 Abs. 6 VTS[^67-13])</td><td>14,00</td></tr>
+<tr><td>b.[^67-14] angetriebene Einzelachsen bei:</td><td></td></tr>
+<tr><td>1. land- und forstwirtschaftlichen Erntemaschinen mit Breitreifen (Art. 60 Abs. 6 VTS[^67-15])</td><td>14,00</td></tr>
 <tr><td>2. Arbeitskarren mit Breitreifen (Art. 60 Abs. 6 VTS)</td><td>14,00</td></tr>
 <tr><td>3. den übrigen Motorwagen</td><td>11,50</td></tr>
-<tr><td>4.[^67-14] Anhängern, die für den Einsatz im Gelände gebaut sind</td><td>11,50</td></tr>
+<tr><td>4.[^67-16] Anhängern, die für den Einsatz im Gelände gebaut sind</td><td>11,50</td></tr>
 <tr><td>c. Doppelachsen mit einem Achsabstand von weniger als 1,00 m</td><td></td></tr>
 <tr><td>1. von Motorfahrzeugen</td><td>11,50</td></tr>
 <tr><td>2. von Anhängern</td><td>11,00</td></tr>
@@ -1702,7 +1722,7 @@ Das Betriebsgewicht von Fahrzeugen und Fahrzeugkombinationen darf höchstens bet
 <tr><td>g. Doppelachsen von Anhängern mit einem Achsabstand von 1,80 m oder mehr</td><td>20,00</td></tr>
 <tr><td>h. Dreifachachsen mit Achsabständen von nicht mehr als 1,30 m</td><td>21,00</td></tr>
 <tr><td>i. Dreifachachsen mit Achsabständen von mehr als 1,30 m und nicht mehr als 1,40 m</td><td>24,00</td></tr>
-<tr><td>k.[^67-15] Dreifachachsen mit einem Achsabstand von mehr als 1,40 m</td><td>27,00</td></tr>
+<tr><td>k.[^67-17] Dreifachachsen mit einem Achsabstand von mehr als 1,40 m</td><td>27,00</td></tr>
 </table>
 
 <sup>3</sup> Sind im Fahrzeugausweis tiefere als die in den Absätzen 1, 2, 6 und 7 genannten Höchstwerte eingetragen, so dürfen diese nicht überschritten werden.
@@ -1712,15 +1732,15 @@ Das Betriebsgewicht von Fahrzeugen und Fahrzeugkombinationen darf höchstens bet
 Das Gewicht auf den Antriebsachsen muss mindestens betragen (minimales Adhäsionsgewicht):
 
 - a. 22 Prozent des Betriebsgewichts für Fahrzeugkombinationen mit einer bauartbedingten Höchstgeschwindigkeit über 25 km/h bis 40 km/h;
-- b. 25 Prozent des Betriebsgewichts für Fahrzeuge und Fahrzeugkombinationen mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h.[^67-16]
+- b. 25 Prozent des Betriebsgewichts für Fahrzeuge und Fahrzeugkombinationen mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h.[^67-18]
 
 <sup>5</sup> Das Betriebsgewicht der Anhänger darf die im Fahrzeugausweis des Zugfahrzeuges eingetragene Anhängelast nicht übersteigen.
 
-<sup>6</sup> und <sup>7</sup> ...[^67-17]
+<sup>6</sup> und <sup>7</sup> ...[^67-19]
 
-<sup>8</sup> Die nach den Absätzen 2 und 3 zulässigen Achslasten dürfen um höchstens 2 Prozent überschritten werden, wenn das Betriebsgewicht der Fahrzeuge und der Fahrzeugkombinationen nach den Absätzen 1 und 3 eingehalten ist.[^67-18]
+<sup>8</sup> Die nach den Absätzen 2 und 3 zulässigen Achslasten dürfen um höchstens 2 Prozent überschritten werden, wenn das Betriebsgewicht der Fahrzeuge und der Fahrzeugkombinationen nach den Absätzen 1 und 3 eingehalten ist.[^67-20]
 
-<sup>9</sup> Das ASTRA kann Weisungen erlassen über die höchstzulässigen Achsbelastungen und das minimale Adhäsionsgewicht bei Ausnahmefahrzeugen und Ausnahmetransporten.[^67-19]
+<sup>9</sup> Das ASTRA kann Weisungen erlassen über die höchstzulässigen Achsbelastungen und das minimale Adhäsionsgewicht bei Ausnahmefahrzeugen und Ausnahmetransporten.[^67-21]
 
 [^67-1]: Fassung gemäss Anhang 1 Ziff. II 4 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^67-2]: Fassung gemäss Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
@@ -1732,15 +1752,17 @@ Das Gewicht auf den Antriebsachsen muss mindestens betragen (minimales Adhäsion
 [^67-8]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^67-9]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^67-10]: Eingefügt durch Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^67-11]: Eingefügt durch Ziff. I der V vom 5. April 2017, in Kraft seit 7. Mai 2017 ([AS 2017 2649](https://fedlex.data.admin.ch/eli/oc/2017/262)).
-[^67-12]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
-[^67-13]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^67-14]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
-[^67-15]: Fassung gemäss Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^67-16]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
-[^67-17]: Aufgehoben durch Ziff. I der V vom 24. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^67-18]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^67-19]: Fassung gemäss Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
+[^67-11]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^67-12]: Eingefügt durch Ziff. I der V vom 5. April 2017 ([AS 2017 2649](https://fedlex.data.admin.ch/eli/oc/2017/262)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^67-13]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. April 2022 bis zum 31. Dez. 2030 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^67-14]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
+[^67-15]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^67-16]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
+[^67-17]: Fassung gemäss Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
+[^67-18]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
+[^67-19]: Aufgehoben durch Ziff. I der V vom 24. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
+[^67-20]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
+[^67-21]: Fassung gemäss Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 
 ### IV. Mitführen von Anhängern, Schleppen
 
@@ -1764,7 +1786,7 @@ Es gelten folgende Ausnahmen:
 
 <sup>4</sup> Anhänger zum Personentransport dürfen nur im regionalen fahrplanmässigen Verkehr konzessionierter Transportunternehmungen verwendet werden. An Gesellschaftswagen ist nur ein Gepäckanhänger bis 3,50 t Gesamtgewicht zulässig.[^68-6]
 
-<sup>5</sup> Sattelanhänger dürfen an leichten Sattelschleppern nur mitgeführt werden, wenn das eingetragene Gewicht des Zuges nicht überschritten wird.[^68-7]
+<sup>5</sup> ... [^68-7]
 
 <sup>6</sup> Im Ernstfall und bei Ernstfallübungen dürfen an Motorwagen zwei Feuerwehr- oder Zivilschutzanhänger oder zwei für Hand- oder Pferdezug eingerichtete Feuerwehrgeräte mitgeführt werden.[^68-8]
 
@@ -1776,7 +1798,7 @@ Es gelten folgende Ausnahmen:
 [^68-4]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 [^68-5]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^68-6]: Fassung gemäss Anhang 1 Ziff. 1 der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
-[^68-7]: Fassung gemäss Anhang 1 Ziff. II 4 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^68-7]: Aufgehoben durch Ziff. I der V vom 17. Dez. 2021, mit Wirkung seit 1. April 2022 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 [^68-8]: Eingefügt durch Anhang 1 Ziff. II 4 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^68-9]: Eingefügt durch Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
@@ -2272,11 +2294,13 @@ Vom Sonntags- und Nachtfahrverbot sind ausgenommen:
 - i. Transporte von Schnittblumen;
 - j. Transporte von Tageszeitungen mit redaktionellem Inhalt sowie Fahrten für aktuelle Fernsehreportagen;
 - k.[^91a-7] Fahrten mit Raupenfahrzeugen zur Pistenbereitung;
-- l.[^91a-8] Fahrzeuge mit aufgebautem Nutzraum, der speziell zum Blutspenden eingerichtet ist.
+- l.[^91a-8] Fahrzeuge mit aufgebautem Nutzraum, der speziell zum Blutspenden eingerichtet ist;
+- m.[^91a-9] schwere Motorwagen mit einem Gesamtgewicht von höchstens 4250 kg, sofern sie über einen emissionsfreien Antrieb (Art. 9*a* Abs. 2 VTS[^91a-10]) verfügen und das 3500 kg überschreitende Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird;
+- n.[^91a-11] Sattelmotorfahrzeuge mit einem zulässigen Gesamtzugsgewicht (Art. 7 Abs. 6 VTS) von höchstens 5750 kg, sofern sie über einen emissionsfreien Antrieb (Art. 9*a* Abs. 2 VTS) verfügen und das 5000 kg überschreitende Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird.
 
 <sup>2</sup> Vom Sonntags- und Nachtfahrverbot ausgenommen sind ferner Fahrten zur Hilfeleistung bei Unfällen, Fahrzeugpannen und Betriebsstörungen, namentlich in öffentlichen Transportunternehmungen und im Flugverkehr, sowie Fahrten bei Winterdiensteinsätzen.
 
-<sup>2bis</sup> Vom Sonntagsfahrverbot ausgenommen sind Veteranenfahrzeuge, die gemäss Eintrag im Fahrzeugausweis als solche anerkannt sind.[^91a-9]
+<sup>2bis</sup> Vom Sonntagsfahrverbot ausgenommen sind Veteranenfahrzeuge, die gemäss Eintrag im Fahrzeugausweis als solche anerkannt sind.[^91a-12]
 
 <sup>3</sup> Bei den Fahrten nach Absatz 1 Buchstaben f–j kann ein Viertel des Ladevolumens des Fahrzeugs mit anderen Gütern aufgefüllt werden. Dem Transport darf eine Leerfahrt von höchstens 30 Minuten vorangehen oder nachfolgen. Für längere Leerfahrten ist eine Bewilligung nach Artikel 92 Absatz 1 erforderlich.
 
@@ -2290,7 +2314,10 @@ Vom Sonntags- und Nachtfahrverbot sind ausgenommen:
 [^91a-6]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^91a-7]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^91a-8]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
-[^91a-9]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^91a-9]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^91a-10]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^91a-11]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^91a-12]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
 #### Art. 92
 
@@ -2480,7 +2507,7 @@ Bereits in Verkehr stehende Fahrzeuge, welche der vor dem 1. August 2002 geltend
 [^99-2]: [BS **7** 595 614; [AS 1948 531](https://fedlex.data.admin.ch/eli/oc/1948/531_519_478), **1949** II 1491 Art. 4, [1959 679](https://fedlex.data.admin.ch/eli/oc/1959/679_705_685)Art. 107 Abs. 3, [1960 1157](https://fedlex.data.admin.ch/eli/oc/1960/1157_1209_1205)Art. 28 Abs. 1 Ziff. 1, [1308](https://fedlex.data.admin.ch/eli/oc/1960/1308_1365_1365)Art. 4 Abs. 6]
 [^99-3]: [BS **9** 360]
 
-## Schlussbestimmungen der Änderung vom 25. Januar 1989
+## Schlussbestimmungen der Änderung vom 25. Januar 1989****
 
 [^u1-1]
 
@@ -2494,7 +2521,7 @@ Zu Art. 41 Abs. 1 und 1<sup>bis</sup>
 
 Artikel 41 Absätze 1 und 1<sup>bis</sup> gilt ab 1. Juli 1989.
 
-## Schlussbestimmungen der Änderung vom 22. Dezember 1993
+## Schlussbestimmungen der Änderung vom 22. Dezember 1993****
 
 [^u2-1]
 
@@ -2510,7 +2537,7 @@ Artikel 41 Absätze 1 und 1<sup>bis</sup> gilt ab 1. Juli 1989.
 
 [^u2-2]: [[AS 1969 821](https://fedlex.data.admin.ch/eli/oc/1969/821_841_839), [1972 1577](https://fedlex.data.admin.ch/eli/oc/1972/1577_1609_1781)[1748](https://fedlex.data.admin.ch/eli/oc/1972/1748__), [1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)Ziff. II 2, [1976 2611](https://fedlex.data.admin.ch/eli/oc/1976/2611_2611_2611), [1979 1922](https://fedlex.data.admin.ch/eli/oc/1979/1922_1922_1922), [1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)Art. 72 Ziff. 3, [1982 495](https://fedlex.data.admin.ch/eli/oc/1982/495_495_495)[531](https://fedlex.data.admin.ch/eli/oc/1982/531_531_531)Ziff. II, [1983 627](https://fedlex.data.admin.ch/eli/oc/1983/627_627_627)Art. 88 Ziff. 1, [1984 1338](https://fedlex.data.admin.ch/eli/oc/1984/1338_1338_1338), [1985 608](https://fedlex.data.admin.ch/eli/oc/1985/608_608_608), [1986 1833](https://fedlex.data.admin.ch/eli/oc/1986/1833_1833_1833), [1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)Ziff. II 2 [1195](https://fedlex.data.admin.ch/eli/oc/1989/1195_1195_1195), [1991 78](https://fedlex.data.admin.ch/eli/oc/1991/78_78_78)Ziff. III, [1992 536](https://fedlex.data.admin.ch/eli/oc/1992/536_536_536), [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167)Ziff. II 214 Ziff. I, II [816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)Ziff. II 3 [1326](https://fedlex.data.admin.ch/eli/oc/1994/1326_1326_1326). [AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Anhang 1 Ziff. I Bst. a]. Siehe heute die V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge ([SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)).
 
-## Schlussbestimmung der Änderung vom 22. Oktober 1997
+## Schlussbestimmung der Änderung vom 22. Oktober 1997****
 
 [^u3-1]
 
