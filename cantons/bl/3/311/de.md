@@ -3,20 +3,19 @@ canton: BL
 number: "311"
 title: Finanzkontrollgesetz Basel-Landschaft
 language: de
-version: 2018-01-01
-valid_until: 2022-03-31
-version_adopted: 2017-06-01
+version: 2022-04-01
+version_adopted: 2022-01-13
 adopted: 2008-12-10
 in_force: 2009-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/311"
-pdf: "https://bl.clex.ch/api/de/versions/1972/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3300/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Finanzkontrollgesetz Basel-Landschaft
 
-Vom 10.12.2008 (Stand 01.01.2018)
+Vom 10.12.2008 (Stand 01.04.2022)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -45,7 +44,7 @@ beschliesst[^ingress-2]
 
 <sup>2</sup> Die Finanzkontrolle ist fachlich unabhängig und selbstständig.
 
-<sup>3</sup> Der Landrat, der Regierungsrat, die Landeskanzlei, der Ombudsman, die Datenschutz-Aufsichtsstelle, das Kantonsgericht, die verwaltungsexternen Organisationen und die Finanzkontrolle sorgen dafür, dass alles unterlassen wird, was die Unabhängigkeit der Finanzkontrolle gefährden könnte.
+<sup>3</sup> Der Landrat, der Regierungsrat, die Landeskanzlei, die Ombudsperson, die Datenschutz-Aufsichtsstelle, das Kantonsgericht, die verwaltungsexternen Organisationen und die Finanzkontrolle sorgen dafür, dass alles unterlassen wird, was die Unabhängigkeit der Finanzkontrolle gefährden könnte.
 
 <sup>4</sup> Niemand ist befugt, der Finanzkontrolle in ihrem Aufsichtsbereich Revisionen zu untersagen.
 
@@ -188,7 +187,7 @@ beschliesst[^ingress-2]
 <sup>1</sup> Der Finanzaufsicht durch die Finanzkontrolle unterliegen vorbehältlich Spezialbestimmungen in anderen Gesetzen:
 
 - a. das Rechnungswesen des Landrates;
-- b. der Ombudsman;
+- b. die Ombudsperson;
 - c. die Datenschutz-Aufsichtsstelle;
 - d. die Landeskanzlei;
 - e. die Direktionen und deren Dienststellen;
@@ -307,7 +306,7 @@ beschliesst[^ingress-2]
 
 **Dokumentation**
 
-<sup>1</sup> Beschlüsse und Verfügungen des Landrates, der Regierung, der Direktionen, der Landeskanzlei, des Ombudsmans und der Datenschutz-Aufsichtsstelle, die den Finanzhaushalt des Kantons betreffen, sind der Finanzkontrolle und der Finanz- und Kirchendirektion unaufgefordert und ohne Verzug zuzustellen. Die Finanzkontrolle kann Ausnahmen zulassen.
+<sup>1</sup> Beschlüsse und Verfügungen des Landrats, des Regierungsrats, der Direktionen, der Landeskanzlei, der Ombudsperson und der Datenschutz-Aufsichtsstelle, die den Finanzhaushalt des Kantons betreffen, sind der Finanzkontrolle und der Finanz- und Kirchendirektion unaufgefordert und ohne Verzug zuzustellen. Die Finanzkontrolle kann Ausnahmen zulassen.
 
 <sup>2</sup> Die Landeskanzlei stellt alle Beschlüsse des Regierungsrates und des Landrates, die den Finanzhaushalt betreffen, der Finanzkontrolle und der Finanz- und Kirchendirektion zu.
 
