@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sulla trasparenza nel finanziamento della politica (OFipo)
 document: Progetto posto in consultazione
 language: it

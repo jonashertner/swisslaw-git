@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die Transparenz bei der Politikfinanzierung (VPofi)
 document: Vernehmlassungsvorlage
 language: de

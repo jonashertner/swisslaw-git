@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur la transparence du financement de la vie politique (OFipo)
 document: Projet mis en consultation
 language: fr
