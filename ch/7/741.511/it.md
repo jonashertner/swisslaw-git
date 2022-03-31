@@ -4,11 +4,11 @@ title: "Ordinanza del 19 giugno 1995 concernente l'approvazione del tipo di veic
 short: OATV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997"
 language: it
-version: 2022-01-01
+version: 2022-04-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20220401/it/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20220401-it-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20220101/it"
 
 (OATV)
 
-del 19 giugno 1995 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 19 giugno 1995 (Stato 1° aprile 2022)
 
 Il Consiglio federale svizzero,
 
@@ -187,7 +187,7 @@ L’Ufficio federale rifiuta l’approvazione del tipo qualora l’oggetto non c
 
 [^11-1]
 
-[^11-1]: Abrogato dal n. II 9 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, con effetto dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^11-1]: Abrogato dall’all. 4 n. II 9 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, con effetto dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 #### Art. 12
 
@@ -204,9 +204,9 @@ Quest’ultimo, sulla base degli elementi distintivi rilevanti e della classific
 - c. se è necessaria una nuova o ampliata approvazione straniera del tipo.
 
 [^12-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
-[^12-2]: Nuovo testo giusta il n. II 9 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^12-2]: Nuovo testo giusta l’all. 4 n. II 9 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
-### Sezione 2: Rilascio dell’approvazione del tipo****
+### Sezione 2: Rilascio dell’approvazione del tipo
 
 [^chap2-sec2-1]
 
@@ -281,7 +281,7 @@ I documenti sono conservati dall’Ufficio federale per almeno 15 anni dal rilas
 
 [^16a-1]: Introdotto dal n. I dell’O del 6 set. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)). Nuovo testo giusta il n. I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
 
-### Sezione 3: Esame tecnico****
+### Sezione 3: Esame tecnico
 
 [^chap2-sec3-1]
 
@@ -436,7 +436,7 @@ Se in occasione del primo sondaggio per campione è rilevato che l’oggetto esa
 
 [^30-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2009, in vigore dal 1° apr. 2010 ([RU 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)).
 
-## Capitolo 3*a*: Misure****
+## Capitolo 3*a*: Misure
 
 [^chap3a-1]
 
@@ -612,7 +612,7 @@ L’emolumento è esigibile:
 
 <sup>2</sup> La prescrizione è interrotta da ogni atto amministrativo con il quale l’emolumento è fatto valere presso la persona tenuta a versarlo.
 
-## Capitolo 5: Disposizioni penali****
+## Capitolo 5: Disposizioni penali
 
 [^chap5-1]
 
@@ -670,13 +670,13 @@ Chi, prima dell’entrata in vigore della presente ordinanza, ha iscritto defini
 
 La presente ordinanza entra in vigore il 1° ottobre 1995.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 3 e 4 cpv. 7)
 
 ## Veicoli e oggetti che sottostanno all’approvazione del tipo
 
-[^t-1]: Aggiornata dal n. II cpv. 1 dell’O del 2 set. 1998 ([RU 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)), dal n. II cpv. 2 dell’O del 6 sett. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), dal n. I dell’O del 3 lug. 2002 ([RU 2002 3309](https://fedlex.data.admin.ch/eli/oc/2002/487)), dal n. II dell’O del 21 ago. 2002 ([RU 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), dall’art. 29 cpv. 2 n. 5 dell’O del 29 nov. 2002 concernente il trasporto di merci pericolose su strada ([RU 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)), dal n. I dell’O del 29 mar. 2006 ([RU 2006 1681](https://fedlex.data.admin.ch/eli/oc/2006/263)), dal n. II cpv. 1 delle O del 29 nov. 2006 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), del 14 ott. 2009 ([RU 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), dal n. I dell’O del 29 nov. 2013 ([RU 2013 4703](https://fedlex.data.admin.ch/eli/oc/2013/829)), dai n. I e II dell’O del 15 apr. 2015 ([RU 2015 1335](https://fedlex.data.admin.ch/eli/oc/2015/279)), dal n. I dell’O del 16 nov. 2016 ([RU 2016 5213](https://fedlex.data.admin.ch/eli/oc/2016/823)) e dal n. II cpv. 1 dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)). Correzione del 5 feb. 2019 ([RU 2019 517](https://fedlex.data.admin.ch/eli/oc/2019/88)).
+[^t-1]: Aggiornata dal n. II cpv. 1 dell’O del 2 set. 1998 ([RU 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)), dal n. II cpv. 2 dell’O del 6 sett. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), dal n. I dell’O del 3 lug. 2002 ([RU 2002 3309](https://fedlex.data.admin.ch/eli/oc/2002/487)), dal n. II dell’O del 21 ago. 2002 ([RU 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), dall’art. 29 cpv. 2 n. 5 dell’O del 29 nov. 2002 concernente il trasporto di merci pericolose su strada ([RU 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)), dal n. I dell’O del 29 mar. 2006 ([RU 2006 1681](https://fedlex.data.admin.ch/eli/oc/2006/263)), dal n. II cpv. 1 delle O del 29 nov. 2006 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), del 14 ott. 2009 ([RU 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), dal n. I dell’O del 29 nov. 2013 ([RU 2013 4703](https://fedlex.data.admin.ch/eli/oc/2013/829)), dai n. I e II dell’O del 15 apr. 2015 ([RU 2015 1335](https://fedlex.data.admin.ch/eli/oc/2015/279)), dal n. I dell’O del 16 nov. 2016 ([RU 2016 5213](https://fedlex.data.admin.ch/eli/oc/2016/823)), dal n. II cpv. 1 dell’O del 21 nov. 2018 ([RU 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)), dalla correzione del 5 feb. 2019 ([RU 2019 517](https://fedlex.data.admin.ch/eli/oc/2019/88)) e dal n. III dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 Sottostanno all’approvazione del tipo i veicoli e oggetti seguenti, fabbricati in serie:
 
@@ -758,7 +758,7 @@ Sottostanno all’approvazione del tipo i veicoli e oggetti seguenti, fabbricati
 
 [^annex1-lvlu1-lvl2-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 2 lett. m, 4 cpv. 7, 17 cpv. 1 e 18 cpv. 1)
 
@@ -782,48 +782,49 @@ Allegato 2*[^t-2]*
 
 [^annex2-lvlu1-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 32)
 
 ## Emolumenti
 
-[^t-3]: Aggiornata dal n. II cpv. 2 dell’O del 6 sett. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), dal n. II dell’O del 21 ago. 2002 ([RU 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), dal n. II dell’O del 10 giu. 2005 ([RU 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)), dal n. II cpv. 1 delle O del 29 nov. 2006 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), del 14 ott. 2009 ([RU 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), dal n. II 10 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)) e dal n. I dell’O dell’8 set. 2021, in vigore dal 1° gen. 2022 ([RU 2021 570](https://fedlex.data.admin.ch/eli/oc/2021/570)).
+[^t-3]: Aggiornata dal n. II cpv. 2 dell’O del 6 sett. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), dal n. II dell’O del 21 ago. 2002 ([RU 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), dal n. II dell’O del 10 giu. 2005 ([RU 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)), dal n. II cpv. 1 delle O del 29 nov. 2006 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), del 14 ott. 2009 ([RU 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), dall’all. 4 n. II 10 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)) e dal n. I dell’O dell’8 set. 2021, in vigore dal 1° gen. 2022 ([RU 2021 570](https://fedlex.data.admin.ch/eli/oc/2021/570)).
 
 <table>
 <tr><td>1</td><td>Emolumenti per l’approvazione del tipo di veicoli e telai</td><td></td></tr>
 <tr><td></td><td>L’emolumento ammonta a:</td><td></td></tr>
 <tr><td></td><td></td><td>Fr.</td></tr>
-<tr><td>1.1</td><td>trattamento amministrativo</td><td>200.–</td></tr>
-<tr><td>1.2</td><td>rilascio dell’approvazione del tipo o della scheda tecnica</td><td>100.–</td></tr>
-<tr><td>1.3</td><td>carta supplementare, complementi, aggiunte e correzioni</td><td>200.–</td></tr>
-<tr><td>2</td><td>...</td><td></td></tr>
+<tr><td>1.1</td><td>trattamento amministrativo</td><td>200.—</td></tr>
+<tr><td>1.2</td><td>rilascio dell’approvazione del tipo o della scheda tecnica</td><td>100.—</td></tr>
+<tr><td>1.3</td><td>carta supplementare, complementi, aggiunte e correzioni</td><td>200.—</td></tr>
+<tr><td>2</td><td>…</td><td></td></tr>
 <tr><td>3</td><td>Emolumenti suppletivi per l’approvazione del tipo di veicoli e telai</td><td></td></tr>
 <tr><td></td><td>L’emolumento suppletivo ammonta per ogni veicolo immatricolato:</td><td></td></tr>
 <tr><td>3.1</td><td>Autoveicoli</td><td>5.50</td></tr>
-<tr><td>3.2</td><td>Rimorchi, motoveicoli e altri veicoli a motore</td><td>4.–</td></tr>
+<tr><td>3.2</td><td>Rimorchi, motoveicoli e altri veicoli a motore</td><td>4.—</td></tr>
 <tr><td>3.3</td><td>Ciclomotori e veicoli equiparati ai ciclomotori</td><td>1.50</td></tr>
 <tr><td></td><td>Come prova dell’avvenuto pagamento dell’emolumento suppletivo per veicoli a motore e rimorchi serve una marca di controllo che il titolare dell’approvazione del tipo (secondo l’allegato 1 n. 1.1) deve incollare sul rapporto d’esame per veicoli. Rapporti d’esame senza marca di controllo sono respinti. Per approvazioni del tipo eseguite volontariamente, non è necessario incollare la marca di controllo sul rapporto d’esame. L’emolumento suppletivo per ciclomotori e per i veicoli equiparati ai ciclomotori è riscosso dal servizio di omologazione presso il titolare dell’approvazione del tipo sulla base di apposite liste (art. 92 cpv. 4 OAC[^annex3-lvlu1-1]). L’Ufficio federale può consultare la dichiarazione doganale.</td><td></td></tr>
-<tr><td></td><td></td><td>Fr.</td></tr>
 <tr><td>4</td><td>Emolumenti per le approvazioni del tipo di parti staccate di veicoli, sistemi di veicoli, accessori d’equipaggiamento e dispositivi di protezione</td><td></td></tr>
 <tr><td></td><td>L’emolumento ammonta a:</td><td></td></tr>
-<tr><td>4.1</td><td>Approvazioni del tipo con validità nazionale</td><td>100.–</td></tr>
-<tr><td>4.2</td><td>Approvazioni del tipo con validità internazionale</td><td>300.–</td></tr>
+<tr><td></td><td></td><td>Fr.</td></tr>
+<tr><td>4.1</td><td>Approvazioni del tipo con validità nazionale</td><td>100.—</td></tr>
+<tr><td>4.2</td><td>Approvazioni del tipo con validità internazionale</td><td>300.—</td></tr>
 <tr><td>4.3</td><td>Elaborazione di un set dati di silenziatori di sostituzione e catalizzatori di sostituzione con una valutazione della conformità o una certificazione della conformità oppure con un’approvazione equivalente secondo la legislazione svizzera al fine di registrarlo sull’approvazione del tipo</td><td></td></tr>
-<tr><td></td><td>Per approvazione del tipo elaborata</td><td>50.–</td></tr>
+<tr><td></td><td>Per approvazione del tipo elaborata</td><td>50.—</td></tr>
 <tr><td>5</td><td>Emolumenti in funzione del tempo impiegato</td><td></td></tr>
 <tr><td></td><td>Per l’esame amministrativo di giustificativi e documenti l’emolumento varia tra 70 e 120 franchi per ora di lavoro impiegata. Esso dipende dal volume e dalla difficoltà del lavoro e si applica alle prestazioni che non corrispondono al volume ordinario dell’esame.</td><td></td></tr>
 <tr><td>6</td><td>Emolumenti per l’esame della conformità</td><td></td></tr>
 <tr><td></td><td>L’emolumento ammonta a:</td><td></td></tr>
-<tr><td>6.1</td><td>Forfait per esami della conformità della durata fino a 4 ore</td><td>500.–</td></tr>
+<tr><td>6.1</td><td>Forfait per esami della conformità della durata fino a 4 ore</td><td>500.—</td></tr>
+<tr><td>6.2</td><td>Per ogni ulteriore ora iniziata</td><td>100.—</td></tr>
 </table>
 
 [^annex3-lvlu1-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 
-Allegato 4*[^t-4]*
+Allegato 4[^t-4]
 
 [^t-4]: Abrogata dal n. II cpv. 3 dell’O del 29 nov. 2006, con effetto dal 1° feb. 2007 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
 
-Allegato 5*[^t-5]*
+Allegato 5[^t-5]
 
 [^t-5]: Abrogata dal n. II cpv. 3 dell’O del 6 set. 2000, con effetto dal 1° ott. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).

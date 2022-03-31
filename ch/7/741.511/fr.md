@@ -4,11 +4,11 @@ title: Ordonnance du 19 juin 1995 sur la réception par type des véhicules rout
 short: ORT
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997"
 language: fr
-version: 2022-01-01
+version: 2022-04-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20220401-fr-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20220401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20220101/fr"
 
 (ORT)
 
-du 19 juin 1995 (Etat le 1<sup>er</sup> janvier 2022)
+du 19 juin 1995 (État le 1<sup>er</sup> avril 2022)
 
 Le Conseil fédéral suisse,
 
@@ -205,7 +205,7 @@ L’office fédéral, en se référant aux critères pertinents de différenciat
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
 [^12-2]: Nouvelle teneur selon le ch. II 9 de l’annexe 4 à l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
-### Section 2 Délivrance de la réception par type****
+### Section 2 Délivrance de la réception par type
 
 [^chap2-sec2-1]
 
@@ -279,7 +279,7 @@ L’office fédéral conserve les documents sur support électronique pendant au
 
 [^16a-1]: Introduit par le ch. I de l’O du 6 sept. 2000 ([RO 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)). Nouvelle teneur selon le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
 
-### Section 3 Expertise technique****
+### Section 3 Expertise technique
 
 [^chap2-sec3-1]
 
@@ -328,7 +328,7 @@ Les prescriptions et les documents relatifs aux expertises se fondent sur l’or
 
 <sup>2</sup> Il est responsable de l’état de l’objet à expertiser quant à sa conformité à la série de fabrication et à la sécurité de fonctionnement et, si la formule d’inscription le précise, également de l’arrimage sûr du chargement.
 
-<sup>3</sup> Les véhicules, les châssis et les systèmes de véhicules seront présentés par une personne capable de fournir des renseignements sur leurs caractéristiques techniques et sur l’équipement. ...[^20-1]
+<sup>3</sup> Les véhicules, les châssis et les systèmes de véhicules seront présentés par une personne capable de fournir des renseignements sur leurs caractéristiques techniques et sur l’équipement. …[^20-1]
 
 [^20-1]: Phrase abrogée par le ch. I de l’O du 6 sept. 2000, avec effet au 1<sup>er</sup> oct. 2000 ([RO 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).
 
@@ -434,7 +434,7 @@ Si lors du premier contrôle par sondage, il est constaté que l’objet contrô
 
 [^30-1]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2009, en vigueur depuis le 1<sup>er</sup> avr. 2010 ([RO 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)).
 
-## Chapitre 3*a* Mesures****
+## Chapitre 3*a* Mesures
 
 [^chap3a-1]
 
@@ -610,7 +610,7 @@ L’émolument est échu:
 
 <sup>2</sup> La prescription est interrompue par tout acte de procédure par lequel l’office fédéral fait valoir sa créance à l’égard de l’assujetti.
 
-## Chapitre 5 Dispositions pénales****
+## Chapitre 5 Dispositions pénales
 
 [^chap5-1]
 
@@ -624,7 +624,7 @@ L’émolument est échu:
 
 #### Art. 44
 
-**...[^44-1]**
+**…[^44-1]**
 
 Est punie de l’amende, pour autant qu’aucune autre disposition pénale plus sévère ne soit applicable, toute personne qui:[^44-2]
 
@@ -668,13 +668,13 @@ La personne qui aura annoncé pour la réception par type, avant l’entrée en 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 1995.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 3 et 4, al. 7)
 
 ## Véhicules et objets soumis à la réception par type
 
-[^t-1]: Mise à jour selon le ch. II al. 1 de l’O du 2 sept. 1998 ([RO 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)), le ch. II al. 2 de l’O du 6 sept. 2000 ([RO 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), le ch. I de l’O du 3 juil. 2002 ([RO 2002 3309](https://fedlex.data.admin.ch/eli/oc/2002/487)), le ch. II de l’O du 21 août 2002 ([RO 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), l’art. 29 al. 2 ch. 5 de l’O du 29 nov. 2002 relative au transport des marchandises dangereuses par route ([RO 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)), le ch. I de l’O du 29 mars 2006 ([RO 2006 1681](https://fedlex.data.admin.ch/eli/oc/2006/263)), le ch. II al. 1 des O du 29 nov. 2006 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)) et du 14 oct. 2009 ([RO 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), le ch. I de l’O du 29 nov. 2013 ([RO 2013 4703](https://fedlex.data.admin.ch/eli/oc/2013/829)), les ch. I et II de l’O du 15 avr. 2015 ([RO 2015 1335](https://fedlex.data.admin.ch/eli/oc/2015/279)), le ch. I de l’O du 16 nov. 2016 ([RO 2016 5213](https://fedlex.data.admin.ch/eli/oc/2016/823)) et le ch. II al. 1 de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)). Erratum du 5 fév. 2019, ne concerne que le texte italien ([RO 2019 517](https://fedlex.data.admin.ch/eli/oc/2019/88)).
+[^t-1]: Mise à jour selon le ch. II al. 1 de l’O du 2 sept. 1998 ([RO 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)), le ch. II al. 2 de l’O du 6 sept. 2000 ([RO 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), le ch. I de l’O du 3 juil. 2002 ([RO 2002 3309](https://fedlex.data.admin.ch/eli/oc/2002/487)), le ch. II de l’O du 21 août 2002 ([RO 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), l’art. 29 al. 2 ch. 5 de l’O du 29 nov. 2002 relative au transport des marchandises dangereuses par route ([RO 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)), le ch. I de l’O du 29 mars 2006 ([RO 2006 1681](https://fedlex.data.admin.ch/eli/oc/2006/263)), le ch. II al. 1 des O du 29 nov. 2006 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)) et du 14 oct. 2009 ([RO 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), le ch. I de l’O du 29 nov. 2013 ([RO 2013 4703](https://fedlex.data.admin.ch/eli/oc/2013/829)), les ch. I et II de l’O du 15 avr. 2015 ([RO 2015 1335](https://fedlex.data.admin.ch/eli/oc/2015/279)), le ch. I de l’O du 16 nov. 2016 ([RO 2016 5213](https://fedlex.data.admin.ch/eli/oc/2016/823)) et le ch. II al. 1 de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)). Erratum du 5 fév. 2019 ([RO 2019 517](https://fedlex.data.admin.ch/eli/oc/2019/88)) et du 17 déc. 2021, ne concerne que le texte italien ([RO 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 Sont soumis à la réception par type les véhicules et objets suivants, fabriqués en série:
 
@@ -759,7 +759,7 @@ Sont soumis à la réception par type les véhicules et objets suivants, fabriqu
 
 [^annex1-lvlu1-lvl2-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 2, let. m, 4, al. 7, 17, al. 1, et 18, al. 1)
 
@@ -783,7 +783,7 @@ Annexe 2*[^t-2]*
 
 [^annex2-lvlu1-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 32)
 
@@ -791,62 +791,42 @@ Annexe 3*[^t-3]*
 
 [^t-3]: Mise à jour selon le ch. II al. 2 de l’O du 6 sept. 2000 ([RO 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), le ch. II des O du 21 août 2002 ([RO 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)) et du 10 juin 2005 ([RO 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)), le ch. II al. 1 des O du 29 nov. 2006 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), du 14 oct. 2009 ([RO 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), le ch. II 9 de l’annexe 4 à l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)) et le ch. I de l’O du 8 sept. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 570](https://fedlex.data.admin.ch/eli/oc/2021/570)).
 
-### 1 Émoluments pour la réception par type de véhicules et de châssis
-
-L’émolument est fixé comme il suit:
-
 <table>
-<tr><td></td><td>Francs</td></tr>
-<tr><td>1.1 Pour les travaux administratifs concernant des documents</td><td>200.–</td></tr>
-<tr><td>1.2 Pour la délivrance de la réception par type ou de la fiche de données</td><td>100.–</td></tr>
-<tr><td>1.3 Pour une fiche supplémentaire, des compléments, adjonctions et corrections</td><td>200.–</td></tr>
+<tr><td>1</td><td>Émoluments pour la réception par type de véhicules et de châssis</td><td></td></tr>
+<tr><td></td><td>L’émolument est fixé comme il suit:</td><td></td></tr>
+<tr><td></td><td></td><td>Francs</td></tr>
+<tr><td>1.1</td><td>Pour les travaux administratifs concernant des documents</td><td>200.—</td></tr>
+<tr><td>1.2</td><td>Pour la délivrance de la réception par type ou de la fiche de données</td><td>100.—</td></tr>
+<tr><td>1.3</td><td>Pour une fiche supplémentaire, des compléments, adjonctions et corrections</td><td>200.—</td></tr>
+<tr><td>2</td><td>…</td><td></td></tr>
+<tr><td>3</td><td>Émoluments additionnels pour la réception par type de véhicules et de châssis</td><td></td></tr>
+<tr><td></td><td>Pour chaque véhicule immatriculé, l’émolument additionnel est fixé comme il suit:</td><td></td></tr>
+<tr><td>3.1</td><td>Pour les voitures automobiles</td><td>5.50</td></tr>
+<tr><td>3.2</td><td>Pour les remorques les motocycles et autres véhicules automobiles</td><td>4.—</td></tr>
+<tr><td>3.3</td><td>Pour les cyclomoteurs et les véhicules qui leur sont assimilés</td><td>1.50</td></tr>
+<tr><td></td><td>Le justificatif du paiement de l’émolument additionnel perçu pour les véhicules automobiles et les remorques est un timbre de contrôle que le titulaire de la réception par type (selon l’annexe 1, ch. 1.1) doit coller sur les rapports d’expertise des véhicules. Les rapports d’expertise qui n’en sont pas munis sont renvoyés. Dans le cas de réceptions par type délivrées volontairement, il n’est pas nécessaire de coller un timbre de contrôle sur le rapport d’expertise. L’émolument additionnel pour les cyclomoteurs et les véhicules qui leur sont assimilés est perçu par l’organe de réception auprès du titulaire de la réception par type, conformément à des listes ad hoc (art. 92, al. 4, OAC[^annex3-lvlu1-1]). L’office fédéral peut consulter la déclaration de douane.</td><td></td></tr>
+<tr><td>4</td><td>Émoluments pour la réception par type de composants et de systèmes de véhicules, d’objets d’équipement et de dispositifs de protection</td><td></td></tr>
+<tr><td></td><td>L’émolument est fixé comme il suit:</td><td></td></tr>
+<tr><td></td><td></td><td>Francs</td></tr>
+<tr><td>4.1</td><td>Pour les réceptions par type ayant une validité nationale</td><td>100.—</td></tr>
+<tr><td>4.2</td><td>Pour les réceptions par type ayant une validité internationale</td><td>300.—</td></tr>
+<tr><td>4.3</td><td>Élaboration, parallèlement à la réception par type, d’une fiche de données pour les dispositifs silencieux d’échappement de remplacement et les catalyseurs de remplacement avec une évaluation de conformité, une attestation de conformité ou une réception équivalente selon la loi suisse pour la saisie,</td><td></td></tr>
+<tr><td></td><td>pour chaque réception par type</td><td>50.—</td></tr>
+<tr><td>5</td><td>Émoluments en fonction du temps consacré</td><td></td></tr>
+<tr><td></td><td>Pour l’expertise administrative des documents, l’émolument varie entre 70 et 120 francs par heure de travail. Il dépend de l’ampleur et de la difficulté du travail et s’applique aux prestations qui ne correspondent pas à l’étendue ordinaire de l’expertise.</td><td></td></tr>
+<tr><td>6</td><td>Émoluments pour la vérification de conformité</td><td></td></tr>
+<tr><td></td><td>L’émolument est fixé comme il suit:</td><td></td></tr>
+<tr><td>6.1</td><td>Forfait pour la vérification de conformité, pour une durée de 4 heures au plus</td><td>500.—</td></tr>
+<tr><td>6.2</td><td>pour chaque heure ou fraction d’heure supplémentaire</td><td>100.—</td></tr>
 </table>
 
-### 2 ...
+[^annex3-lvlu1-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 
-### 3 Émoluments additionnels pour la réception par type de véhicules et de châssis
-
-Pour chaque véhicule immatriculé, l’émolument additionnel est fixé comme il suit:
-
-<table>
-<tr><td>3.1 Pour les voitures automobiles</td><td>5.50</td></tr>
-<tr><td>3.2 Pour les remorques les motocycles et autres véhicules automobiles</td><td>4.–</td></tr>
-<tr><td>3.3 Pour les cyclomoteurs et les véhicules qui leur sont assimilés</td><td>1.50</td></tr>
-<tr><td>Le justificatif du paiement de l’émolument additionnel perçu pour les véhicules automobiles et les remorques est un timbre de contrôle que le titulaire de la réception par type (selon l’annexe 1, ch. 1.1) doit coller sur les rapports d’expertise des véhicules. Les rapports d’expertise qui n’en sont pas munis sont renvoyés. Dans le cas de réceptions par type délivrées volontairement, il n’est pas nécessaire de coller un timbre de contrôle sur le rapport d’expertise. L’émolument additionnel pour les cyclomoteurs et les véhicules qui leur sont assimilés est perçu par l’organe de réception auprès du titulaire de la réception par type, conformément à des listes ad hoc (art. 92, al. 4, OAC[^annex3-lvlu1-lvl3-1]). L’office fédéral peut consulter la déclaration de douane.</td><td></td></tr>
-</table>
-
-[^annex3-lvlu1-lvl3-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
-
-### 4 Émoluments pour la réception par type de composants et de systèmes de véhicules, d’objets d’équipement et de dispositifs de protection
-
-L’émolument est fixé comme il suit:
-
-<table>
-<tr><td></td><td>Francs</td></tr>
-<tr><td>4.1 Pour les réceptions par type ayant une validité nationale</td><td>100.–</td></tr>
-<tr><td>4.2 Pour les réceptions par type ayant une validité internationale</td><td>300.–</td></tr>
-<tr><td>4.3 Élaboration, parallèlement à la réception par type, d’une fiche de données pour les dispositifs silencieux d’échappement de remplacement et les catalyseurs de remplacement avec une évaluation de conformité, une attestation de conformité ou une réception équivalente selon la loi suisse pour la saisie, pour chaque réception par type</td><td>50.–</td></tr>
-</table>
-
-### 5 Émoluments en fonction du temps consacré
-
-Pour l’expertise administrative des documents, l’émolument varie entre 70 et 120 francs par heure de travail. Il dépend de l’ampleur et de la difficulté du travail et s’applique aux prestations qui ne correspondent pas à l’étendue ordinaire de l’expertise.
-
-### 6 Émoluments pour la vérification de conformité
-
-L’émolument est fixé comme il suit:
-
-<table>
-<tr><td></td><td>Francs</td></tr>
-<tr><td>6.1 Forfait pour la vérification de conformité, pour une durée de 4 heures au plus</td><td>500.–</td></tr>
-<tr><td>6.2 pour chaque heure ou fraction d’heure supplémentaire</td><td>100.–</td></tr>
-</table>
-
-Annexe 4*[^t-4]*
+Annexe 4[^t-4]
 
 [^t-4]: Abrogée par le ch. II al. 3 de l’O du 29 nov. 2006, avec effet au 1<sup>er</sup> fév. 2007 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
 
-Annexe 5*[^t-5]*
+Annexe 5[^t-5]
 
 (art. 8)
 

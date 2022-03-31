@@ -4,11 +4,11 @@ title: Verordnung vom 19. Juni 1995 über die Typengenehmigung von Strassenfahrz
 short: TGV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997"
 language: de
-version: 2022-01-01
+version: 2022-04-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20220401/de/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20220401-de-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20220101/de"
 
 (TGV)
 
-vom 19. Juni 1995 (Stand am 1. Januar 2022)
+vom 19. Juni 1995 (Stand am 1. April 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -111,7 +111,7 @@ Für Fahrzeuge wird an Stelle einer Typengenehmigung ein Datenblatt erteilt, wen
 
 <sup>4</sup> Fahrzeuge und Fahrgestelle, die von der Typengenehmigung befreit sind, unterstehen der Einzelprüfung[^4-5] bei der zuständigen kantonalen Zulassungsstelle.
 
-<sup>5</sup> Fahrzeugteile, Ausrüstungsgegenstände und Schutzvorrichtungen, die über ein EU-, UNECE- oder OECD-Konformitätszeichen verfügen, sind von der schweizerischen Typengenehmigung befreit.
+<sup>5</sup> Fahrzeugteile, Ausrüstungsgegenstände und Schutzvorrichtungen, die über ein EU‑, UNECE- oder OECD-Konformitätszeichen verfügen, sind von der schweizerischen Typengenehmigung befreit.
 
 <sup>6</sup> Fahrzeugteile, Ausrüstungsgegenstände und Schutzvorrichtungen mit anderen ausländischen oder internationalen Konformitätszeichen sind von der Typengenehmigung befreit, sofern die Konformitätszeichen aufgrund von Vorschriften erteilt wurden, die vom Bundesamt für Strassen (Bundesamt) als den schweizerischen Vorschriften mindestens gleichwertig anerkannt sind.[^4-6]
 
@@ -205,7 +205,7 @@ Dieses entscheidet anhand der relevanten Unterscheidungsmerkmale und der Zuordnu
 [^12-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 2006, in Kraft seit 1. Febr. 2007 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
 [^12-2]: Fassung gemäss Anhang 4 Ziff. II 9 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
-### 2. Abschnitt: Erteilung der Typengenehmigung****
+### 2. Abschnitt: Erteilung der Typengenehmigung
 
 [^chap2-sec2-1]
 
@@ -279,7 +279,7 @@ Die Unterlagen werden vom Bundesamt nach Erteilung der Typengenehmigung während
 
 [^16a-1]: Eingefügt durch Ziff. I der V vom 6. Sept. 2000 ([AS 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)). Fassung gemäss Ziff. I der V vom 29. Nov. 2006, in Kraft seit 1. Febr. 2007 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
 
-### 3. Abschnitt: Technische Prüfung****
+### 3. Abschnitt: Technische Prüfung
 
 [^chap2-sec3-1]
 
@@ -434,7 +434,7 @@ Wird bei der ersten Stichprobe festgestellt, dass der Prüfgegenstand nicht dem 
 
 [^30-1]: Fassung gemäss Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)).
 
-## 3*a*. Kapitel: Massnahmen****
+## 3*a*. Kapitel: Massnahmen
 
 [^chap3a-1]
 
@@ -610,7 +610,7 @@ Die Gebühr wird fällig:
 
 <sup>2</sup> Die Verjährung wird durch jede Verwaltungshandlung unterbrochen, mit der die Gebührenforderung bei der gebührenpflichtigen Person geltend gemacht wird.
 
-## 5. Kapitel: Strafbestimmungen****
+## 5. Kapitel: Strafbestimmungen
 
 [^chap5-1]
 
@@ -668,13 +668,13 @@ Wer vor dem Inkrafttreten dieser Verordnung Fahrzeuge, Fahrgestelle, Fahrzeugsys
 
 Diese Verordnung tritt am 1. Oktober 1995 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 3 und 4 Abs. 7)
 
 ## Der Typengenehmigung unterstehende Gegenstände
 
-[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 2. Sept. 1998 ([AS 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)), Ziff. II Abs. 2 der V vom 6. Sept. 2000 ([AS 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), Ziff. I der V vom 3. Juli 2002 ([AS 2002 3309](https://fedlex.data.admin.ch/eli/oc/2002/487)), Ziff. II der V vom 21. Aug. 2002 ([AS 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), Art. 29 Abs. 2 Ziff. 5 der V vom 29. Nov. 2002 über die Beförderung gefährlicher Güter auf der Strasse ([AS 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)), Ziff. I der V vom 29. März 2006 ([AS 2006 1681](https://fedlex.data.admin.ch/eli/oc/2006/263)), Ziff. II Abs. 1 der V vom 29. Nov. 2006 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), vom 14. Okt. 2009 ([AS 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), Ziff. I der V vom 29. Nov. 2013 ([AS 2013 4703](https://fedlex.data.admin.ch/eli/oc/2013/829)), Ziff. I und II der V vom 15. April 2015 ([AS 2015 1335](https://fedlex.data.admin.ch/eli/oc/2015/279)), Ziff. I der V vom 16. Nov. 2016 ([AS 2016 5213](https://fedlex.data.admin.ch/eli/oc/2016/823)) und Ziff. II Abs. 1 der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)). Die Berichtigung vom 5. Febr. 2019 betrifft nur den italienischen Text ([AS 2019 517](https://fedlex.data.admin.ch/eli/oc/2019/88)).
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 2. Sept. 1998 ([AS 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)), Ziff. II Abs. 2 der V vom 6. Sept. 2000 ([AS 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), Ziff. I der V vom 3. Juli 2002 ([AS 2002 3309](https://fedlex.data.admin.ch/eli/oc/2002/487)), Ziff. II der V vom 21. Aug. 2002 ([AS 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), Art. 29 Abs. 2 Ziff. 5 der V vom 29. Nov. 2002 über die Beförderung gefährlicher Güter auf der Strasse ([AS 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)), Ziff. I der V vom 29. März 2006 ([AS 2006 1681](https://fedlex.data.admin.ch/eli/oc/2006/263)), Ziff. II Abs. 1 der V vom 29. Nov. 2006 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), vom 14. Okt. 2009 ([AS 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), Ziff. I der V vom 29. Nov. 2013 ([AS 2013 4703](https://fedlex.data.admin.ch/eli/oc/2013/829)), Ziff. I und II der V vom 15. April 2015 ([AS 2015 1335](https://fedlex.data.admin.ch/eli/oc/2015/279)), Ziff. I der V vom 16. Nov. 2016 ([AS 2016 5213](https://fedlex.data.admin.ch/eli/oc/2016/823)) und Ziff. II Abs. 1 der V vom 21. Nov. 2018 ([AS 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)). Die Berichtigung vom 5. Febr. 2019 betrifft nur den italienischen Text ([AS 2019 517](https://fedlex.data.admin.ch/eli/oc/2019/88)). Die Änd. vom 17. Dez. 2021, in Kraft seit 1. April 2022 betrifft nur den italienischen Text ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 
 Es unterstehen folgende serienmässig hergestellte Gegenstände der Typengenehmigung:
 
@@ -759,7 +759,7 @@ Es unterstehen folgende serienmässig hergestellte Gegenstände der Typengenehmi
 
 [^annex1-lvlu1-lvl2-1]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 2 Bst. m, 4 Abs. 7, 17 Abs. 1 und 18 Abs. 1)
 
@@ -783,7 +783,7 @@ Anhang 2*[^t-2]*
 
 [^annex2-lvlu1-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 32)
 
@@ -795,37 +795,37 @@ Anhang 3*[^t-3]*
 <tr><td>1</td><td>Gebühren für die Typengenehmigung von Fahrzeugen und Fahrgestellen</td><td></td></tr>
 <tr><td></td><td>Die Gebühr beträgt für:</td><td></td></tr>
 <tr><td></td><td></td><td>Franken</td></tr>
-<tr><td>1.1</td><td>die administrative Verarbeitung der Unterlagen</td><td>200.––</td></tr>
-<tr><td>1.2</td><td>die Erteilung der Typengenehmigung bzw. des Datenblattes</td><td>100.––</td></tr>
-<tr><td>1.3</td><td>Zusatzkarte, Ergänzungen, Nachträge und Korrekturen</td><td>200.––</td></tr>
-<tr><td>2</td><td>...</td><td></td></tr>
+<tr><td>1.1</td><td>die administrative Verarbeitung der Unterlagen</td><td>200.—</td></tr>
+<tr><td>1.2</td><td>die Erteilung der Typengenehmigung bzw. des Datenblattes</td><td>100.—</td></tr>
+<tr><td>1.3</td><td>Zusatzkarte, Ergänzungen, Nachträge und Korrekturen</td><td>200.—</td></tr>
+<tr><td>2</td><td>…</td><td></td></tr>
 <tr><td>3</td><td>Zusatzgebühren für die Typengenehmigung von Fahrzeugen und Fahrgestellen</td><td></td></tr>
 <tr><td></td><td>Die Zusatzgebühr beträgt je immatrikuliertes Fahrzeug:</td><td></td></tr>
 <tr><td>3.1</td><td>Motorwagen</td><td>5.50</td></tr>
-<tr><td>3.2</td><td>Anhänger, Motorräder und übrige Motorfahrzeuge</td><td>4.––</td></tr>
+<tr><td>3.2</td><td>Anhänger, Motorräder und übrige Motorfahrzeuge</td><td>4.—</td></tr>
 <tr><td>3.3</td><td>Motorfahrräder sowie Fahrzeuge, die den Motorfahrrädern gleichgestellt sind</td><td>1.50</td></tr>
 <tr><td></td><td>Als Zahlungsnachweis für die Zusatzgebühr für Motorfahrzeuge und Anhänger dient eine Kontrollmarke, die der Inhaber oder die Inhaberin der Typengenehmigung (nach Anhang 1 Ziff. 1.1) auf den Prüfberichten für Fahrzeuge aufkleben muss. Prüfberichte ohne Kontrollmarken werden zurückgewiesen. Für freiwillig erstellte Typengenehmigungen muss auf dem Prüfbericht keine Kontrollmarke aufgeklebt werden. Die Zusatzgebühr für Motorfahrräder sowie für Fahrzeuge, die den Motorfahrrädern gleichgestellt sind, wird von der Genehmigungsstelle beim Inhaber oder bei der Inhaberin der Typengenehmigung aufgrund von Verzeichnissen erhoben (Art. 92 Abs. 4 VZV[^annex3-lvlu1-1]). Das Bundesamt kann in die Zolldeklaration Einsicht nehmen.</td><td></td></tr>
-<tr><td>4</td><td>Gebühren für die Genehmigungen von Fahrzeugteilen Fahrzeugsystemen, Ausrüstungsgegenständen und Schutzvorrichtungen</td><td></td></tr>
+<tr><td>4</td><td>Gebühren für die Genehmigungen von Fahrzeugteilen, Fahrzeugsystemen, Ausrüstungsgegenständen und Schutzvorrichtungen</td><td></td></tr>
 <tr><td></td><td>Die Gebühr beträgt für:</td><td></td></tr>
 <tr><td></td><td></td><td>Franken</td></tr>
 <tr><td>4.1</td><td>Typengenehmigungen mit nationaler Gültigkeit</td><td>100.—</td></tr>
 <tr><td>4.2</td><td>Typengenehmigungen mit internationaler Gültigkeit</td><td>300.—</td></tr>
 <tr><td>4.3</td><td>Erstellen eines Datensatzes von Austauschschalldämpfern und ‑katalysatoren mit einer Konformitätsbewertung oder ‑beglaubigung beziehungsweise mit einer der schweizerischen Gesetzgebung gleichwertigen Genehmigung zum Aufnehmen auf die Typengenehmigung,</td><td></td></tr>
-<tr><td></td><td>pro bearbeitete Typengenehmigung</td><td>50. —</td></tr>
+<tr><td></td><td>pro bearbeitete Typengenehmigung</td><td>50.—</td></tr>
 <tr><td>5</td><td>Gebühren nach Zeitaufwand</td><td></td></tr>
 <tr><td></td><td>Die Gebühr für die administrative Prüfung der Unterlagen und Dokumente beträgt je aufgewendete Arbeitsstunde Fr. 70.– bis 120.–. Sie richtet sich nach dem Umfang und der Schwierigkeit und gilt für Aufwendungen, die nicht dem üblichen Prüfungsumfang entsprechen.</td><td></td></tr>
 <tr><td>6</td><td>Gebühren für die Konformitätsüberprüfung</td><td></td></tr>
 <tr><td></td><td>Die Gebühr beträgt für:</td><td></td></tr>
-<tr><td>6.1</td><td>Konformitätsüberprüfungen von bis zu 4 Stunden Zeitaufwand, pauschal</td><td>500. —</td></tr>
-<tr><td>6.2</td><td>jede weitere angebrochene Arbeitsstunde</td><td>100. —</td></tr>
+<tr><td>6.1</td><td>Konformitätsüberprüfungen von bis zu 4 Stunden Zeitaufwand, pauschal</td><td>500.—</td></tr>
+<tr><td>6.2</td><td>jede weitere angebrochene Arbeitsstunde</td><td>100.—</td></tr>
 </table>
 
 [^annex3-lvlu1-1]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 [^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 2. Sept. 1998 ([AS 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)), Ziff. II Abs. 2 der V vom 6. Sept. 2000 ([AS 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)) und Ziff. II der V vom 21. Aug. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)). Aufgehoben durch Ziff. II Abs. 3 der V vom 29. Nov. 2006, mit Wirkung seit 1. Febr. 2007 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
 
-Anhang 5*[^t-5]*
+Anhang 5[^t-5]
 
 [^t-5]: Aufgehoben durch Ziff. II al. 3 der V vom 6. Sept. 2000, mit Wirkung seit 1. Okt. 2000 ([AS 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).
