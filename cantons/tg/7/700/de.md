@@ -4,13 +4,13 @@ number: "700"
 title: Planungs- und Baugesetz
 short: PBG
 language: de
-version: 2018-01-01
-valid_until: 2022-03-31
-version_adopted: 2017-04-19
+version: 2022-04-01
+valid_until: 2024-05-31
+version_adopted: 2021-12-08
 adopted: 2011-12-21
 in_force: 2013-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/700"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2483/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2484/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ PBG
 
 (PBG)
 
-vom 21.12.2011 (Stand 01.01.2018)
+vom 21.12.2011 (Stand 01.04.2022)
 
 ## 1. Teil: Allgemeine Bestimmungen
 
@@ -1047,7 +1047,7 @@ vom 21.12.2011 (Stand 01.01.2018)
 - 8\. Aussenantennen für den Empfang;
 - 9\. unbeleuchtete Eigenreklameanlagen mit einer Fläche bis zu 1.00 m²;
 - 10\. geringfügige Änderungen an Fassaden und im Innern bestehender Gebäude;
-- 11\. Festhütten und Zelte bis zu einer Standdauer von 14 Tagen;
+- 11\. Fahrnisbauten bis zu einer Standdauer von insgesamt 90 Tagen pro Kalenderjahr und über den Jahreswechsel nicht länger als drei Monate am Stück. Bei einer Standdauer von mehr als 14 Tagen ist das Vorhaben bis spätestens 14 Tage vor Errichtung der Gemeindebehörde anzuzeigen;
 - 12\. das Abstellen von einzelnen Wohnwagen und Booten bis zu einer Dauer von sechs Monaten, sofern die Nachbarschaft nicht übermässig beeinträchtigt wird.
 
 <sup>2</sup> Bestehen Anzeichen dafür, dass keine baubewilligungsfreie Baute gemäss Abs. 1 erstellt wird, verlangt die Gemeindebehörde die Einreichung eines Baugesuchs.
