@@ -3,11 +3,11 @@ sr: "0.641.851.41"
 title: Traité du 11 avril 2000 entre la Confédération suisse et la Principauté de Liechtenstein relatif à la redevance sur le trafic des poids lourds liée aux prestations dans la Principauté de Liechtenstein (avec ac.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/112"
 language: fr
-version: 2022-01-01
+version: 2022-04-01
 adopted: 2000-04-11
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/112/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-112-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/112/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/112/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2001-112-20220401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/112/20220401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Traduction
 
 Conclu le 11 avril 2000 Approuvé par l’Assemblée fédérale le 11 décembre 2000[^t-1] Instruments de ratification échangés le 18 décembre 2000 Entré en vigueur le 1<sup>er</sup> janvier 2001
 
-(Etat le 1<sup>er</sup> janvier 2022)
+(Etat le 1<sup>er</sup> avril 2022)
 
 [^t-1]: [RO 2001 825](https://fedlex.data.admin.ch/eli/oc/2001/111)
 
@@ -271,7 +271,7 @@ Appendice IV*[^t-3]*
 
 <table>
 <tr><td>Suisse *(d’après l’Encyclopédie statistique)*</td><td>71 555</td><td></td></tr>
-<tr><td>Liechtenstein *(d’après l’Office de la construction et des infrastructures)*</td><td>401</td><td></td></tr>
+<tr><td>Liechtenstein *(d’après l’Office des ponts et chaussées et de la géoinformation)*</td><td>401</td><td></td></tr>
 <tr><td>Total des deux pays</td><td>71 956</td><td></td></tr>
 <tr><td>Part du Liechtenstein</td><td>401 : 71 956 × 100</td><td>0,558 %</td></tr>
 </table>
@@ -311,5 +311,5 @@ Appendice IV*[^t-3]*
 <tr><td>Part du Liechtenstein</td><td colspan="2">800 289 : 71 017 507 × 100</td><td>1,127 %</td></tr>
 </table>
 
-[^t-3]: Mis à jour par l’échange de notes du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2021 13](https://fedlex.data.admin.ch/eli/oc/2021/13)).
+[^t-3]: Mis à jour par l’échange de notes du 18 déc. 2020 ([RO 2021 13](https://fedlex.data.admin.ch/eli/oc/2021/13)) et la communication du 25 mars 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 297](https://fedlex.data.admin.ch/eli/oc/2022/297)).
 [^t-4]: Actuellement: Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).

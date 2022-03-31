@@ -3,11 +3,11 @@ sr: "0.641.851.41"
 title: Vertrag vom 11. April 2000 zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein betreffend die leistungsabhängige Schwerverkehrsabgabe im Fürstentum Liechtenstein (mit Vereinb.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/112"
 language: de
-version: 2022-01-01
+version: 2022-04-01
 adopted: 2000-04-11
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/112/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2001-112-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/112/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/112/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2001-112-20220401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/112/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Bereinigt durch Notenaustausch vom 28. September 2006
 
 Rückwirkend in Kraft getreten am 1. Januar 2006
 
-(Stand am 1. Januar 2022)
+(Stand am 1. April 2022)
 
 [^t-1]: [AS 2001 825](https://fedlex.data.admin.ch/eli/oc/2001/111)
 
@@ -277,7 +277,7 @@ Anlage IV *[^t-3]*
 
 <table>
 <tr><td>Schweiz *(gemäss statistischem Lexikon)*</td><td>71 555</td><td></td></tr>
-<tr><td>Liechtenstein *(gemäss Amt für Bau und Infrastruktur)*</td><td>401</td><td></td></tr>
+<tr><td>Liechtenstein *(gemäss Amt für Tiefbau und Geoinformation)*</td><td>401</td><td></td></tr>
 <tr><td>Total beider Länder</td><td>71 956</td><td></td></tr>
 <tr><td>Anteil FL</td><td>401 : 71 956 × 100</td><td>0,558 %</td></tr>
 </table>
@@ -317,5 +317,5 @@ Anlage IV *[^t-3]*
 <tr><td>Anteil FL</td><td>800 289 : 71 017 507 × 100</td><td>1,127 %</td></tr>
 </table>
 
-[^t-3]: Bereinigt gemäss Notenaustausch vom 18. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2021 13](https://fedlex.data.admin.ch/eli/oc/2021/13)).
+[^t-3]: Bereinigt gemäss Notenaustausch vom 18. Dez. 2020 ([AS 2021 13](https://fedlex.data.admin.ch/eli/oc/2021/13)) und Mitteilung vom 25. März 2022, in Kraft seit 1. April 2022 ([AS 2022 297](https://fedlex.data.admin.ch/eli/oc/2022/297)).
 [^t-4]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).

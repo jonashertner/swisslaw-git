@@ -3,11 +3,11 @@ sr: "0.641.851.41"
 title: "Trattato dell' 11 aprile 2000 tra la Confederazione svizzera e il Principato del Liechtenstein concernente la tassa sul traffico pesante commisurata alle prestazioni nel Principato del Liechtenstein (con acc.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/112"
 language: it
-version: 2022-01-01
+version: 2022-04-01
 adopted: 2000-04-11
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/112/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2001-112-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/112/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/112/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2001-112-20220401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/112/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -22,7 +22,7 @@ tra la Confederazione Svizzera e il Principato del Liechtenstein concernente la 
 
 Concluso l’11 aprile 2000 Approvato dall’Assemblea federale l’11 dicembre 2000[^t-1] Ratificato con strumenti scambiati il 18 dicembre 2000 Entrato in vigore il 1° gennaio 2001
 
-(Stato 1° gennaio 2022)
+(Stato 1° aprile 2022)
 
 [^t-1]: [RU 2001 825](https://fedlex.data.admin.ch/eli/oc/2001/111)
 
@@ -281,7 +281,7 @@ Allegato IV*[^t-3]*
 
 <table>
 <tr><td>Svizzera *(secondo l’Enciclopedia statistica)*</td><td>71 555</td><td></td></tr>
-<tr><td>Liechtenstein *(secondo l’Ufficio per le infrastrutture e l’edilizia)*</td><td>401</td><td></td></tr>
+<tr><td>Liechtenstein *(secondo l’Ufficio per l’ingegneria civile e la geoinformazione)*</td><td>401</td><td></td></tr>
 <tr><td>Totale dei due Paesi</td><td>71 956</td><td></td></tr>
 <tr><td>Quota Liechtenstein</td><td>401 : 71 956 × 100</td><td>0,558 %</td></tr>
 </table>
@@ -321,5 +321,5 @@ Allegato IV*[^t-3]*
 <tr><td>Quota Liechtenstein</td><td>800 289 : 71 017 507 × 100</td><td>1,127 %</td></tr>
 </table>
 
-[^t-3]: Aggiornato dallo scambio di note del 18 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2021 13](https://fedlex.data.admin.ch/eli/oc/2021/13)).
+[^t-3]: Aggiornato dallo scambio di note del 18 dic. 2020 ([RU 2021 13](https://fedlex.data.admin.ch/eli/oc/2021/13)) e dalla comunicazione del 22 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 297](https://fedlex.data.admin.ch/eli/oc/2022/297)).
 [^t-4]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
