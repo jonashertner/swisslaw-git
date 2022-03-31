@@ -4,13 +4,13 @@ number: "721.11"
 title: Bauverordnung
 short: BauV
 language: de
-version: 2020-04-01
-valid_until: 2022-03-31
-version_adopted: 2020-03-24
+version: 2022-04-01
+valid_until: 2025-12-31
+version_adopted: 2022-03-22
 adopted: 2003-12-02
 in_force: 2004-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/721.11"
-pdf: "https://ar.clex.ch/api/de/versions/1305/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1415/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1305/pdf_file"
 
 (BauV)
 
-vom 02.12.2003 (Stand 01.04.2020)
+vom 02.12.2003 (Stand 01.04.2022)
 
 Der Regierungsrat des Kantons Appenzell A.Rh.,
 
@@ -562,7 +562,7 @@ verordnet:
 - d) Drainagen und Entwässerungen von Gebieten bis zu einer Fläche von 20 a, sofern diese nicht innerhalb oder im Einzugsbereich einer Naturschutzzone oder Grundwasserschutzzone liegen;
 - e) Aussenantennen und Solaranlagen zum privaten Gebrauch, soweit bewilligungspflichtig;
 - f) Terrainveränderungen (Aufschüttung, Abgrabung) von höchstens 2 m vertikaler Ausdehnung und einer veränderten Fläche von höchstens 1 000 m²;
-- h) Einbau von Heizanlagen und Öltanks;
+- h) Einbau von als Aussenanlagen errichteten Luft/Wasser-Wärmepumpen;
 - i) Parkplätzen, Dachaufbauten, Dachflächenfenstern bis insgesamt 2 m² aussen gemessener Fläche.
 
 #### Art. 45
@@ -576,7 +576,8 @@ verordnet:
 - c) Einbau von Bädern, WC, Küchen, soweit damit nicht eine Wohnraumerweiterung verbunden ist;
 - d) Abbrucharbeiten;
 - e) Werkleitungen und Abwasseranschlüsse für Einzelliegenschaften ausserhalb von Naturschutz- und Grundwasserschutzzonen;
-- f) provisorischen Bauten gemäss Art. 15, soweit nicht bewilligungsfrei.
+- f) provisorischen Bauten gemäss Art. 15, soweit nicht bewilligungsfrei;
+- g) Einbau von Heizanlagen und Öltanks mit Ausnahme von als Aussenanlagen errichteten Luft/Wasser-Wärmepumpen.
 
 ### III. Allgemeiner Verfahrensablauf
 
@@ -592,7 +593,7 @@ verordnet:
 
 **Bestandteile des Baugesuches**
 
-<sup>1</sup> In der Regel sind folgende, von der Grundeigentümerin oder vom Grundeigentümer, von der Bauherrschaft und der Planverfasserin oder dem Planverfasser unterzeichnete und datierte Pläne und Unterlagen in mindestens dreifacher, wenn kantonale Bewilligungen eingeholt werden müssen in mindestens fünffacher Ausfertigung, einzureichen:
+<sup>1</sup> In der Regel sind folgende, von der Grundeigentümerin oder vom Grundeigentümer, von der Bauherrschaft und der Planverfasserin oder dem Planverfasser unterzeichnete und datierte Pläne und Unterlagen in mindestens dreifacher Ausfertigung und zusätzlich in elektronischer Form einzureichen:
 
 - a) Gesuchsformular unter Beilage der im Einzelnen erforderlichen rechnerischen Nachweise (Ausnützungsziffer usw.);
 - b) Situationsplan, aus dem die genaue Lage des Grundstückes sowie Lage und Masse des Vorhabens und der Erschliessungs- und Entsorgungsanlagen ersichtlich sind. Ein Exemplar ist auf einer beglaubigten Kopie des gültigen Grundbuchplanes zu erstellen; bei Vorhaben gemäss Art. 44 und 45 genügt eine Fotokopie des gültigen Grundbuchplanes;
@@ -602,7 +603,8 @@ verordnet:
 - f) besondere Kanalisationseingabe mit Angabe von Leitungsdurchmesser, -gefälle und -material sowie unter Beilage der im kommunalen Abwasserreglement geforderten Unterlagen;
 - g) Schutzraumeingabe nach gesetzlichen Vorschriften;
 - h) Projekt und Beschrieb für Heizungs- und Energieerzeugungsanlagen sowie für Tankanlagen für die Lagerung von umweltgefährdenden Stoffen, soweit diese Vorhaben nicht Gegenstand nachfolgender, eigener Bewilligungsverfahren bilden;
-- i) Anschlussgesuche für Wasser- und Energieversorgung.
+- i) Anschlussgesuche für Wasser- und Energieversorgung;
+- j) Objektschutznachweis bei Bauvorhaben in Gefahrengebieten.
 
 <sup>2</sup> Bei allen Fassadenänderungen (z.B. Einbau von Fenstern, Türen, Vorplatzüberdachungen usw.) ist die ganze Fassade samt den beabsichtigten Änderungen darzustellen.
 
