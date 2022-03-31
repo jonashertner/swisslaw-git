@@ -4,13 +4,12 @@ number: "152.053.5"
 title: Direktionsverordnung über die Berechtigungen der Bildungs- und Kulturdirektion für die zentralen Personendatensammlungen
 short: PDS DV BKD
 language: de
-version: 2022-03-01
-valid_until: 2022-03-31
-version_adopted: 2022-02-25
+version: 2022-04-01
+version_adopted: 2022-03-22
 adopted: 2022-02-25
 in_force: 2022-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.053.5"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2570/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2575/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2570/pdf_file"
 
 (PDS DV BKD)
 
-vom 25.02.2022 (Stand 01.03.2022)
+vom 25.02.2022 (Stand 01.04.2022)
 
 Die Bildungs- und Kulturdirektion des Kantons Bern,
 

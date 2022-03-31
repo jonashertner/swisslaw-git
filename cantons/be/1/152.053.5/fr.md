@@ -4,13 +4,12 @@ number: "152.053.5"
 title: "Ordonnance de Direction sur les droits d'accès aux fichiers centralisés de données personnelles délivrés par la Direction de l'instruction publique et de la culture"
 short: FDP OD INC
 language: fr
-version: 2022-03-01
-valid_until: 2022-03-31
-version_adopted: 2022-02-25
+version: 2022-04-01
+version_adopted: 2022-03-22
 adopted: 2022-02-25
 in_force: 2022-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.053.5"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2570/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2575/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2570/pdf_file"
 
 (FDP OD INC)
 
-du 25.02.2022 (état au 01.03.2022)
+du 25.02.2022 (état au 01.04.2022)
 
 La Direction de l'instruction publique et de la culture du canton de Berne,
 
