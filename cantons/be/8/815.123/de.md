@@ -4,13 +4,13 @@ number: "815.123"
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19 V
 language: de
-version: 2022-02-17
-valid_until: 2022-03-31
-version_adopted: 2022-02-16
+version: 2022-04-01
+valid_until: 2022-06-30
+version_adopted: 2022-03-30
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2556/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2595/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,19 +19,18 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2556/pdf_file"
 
 (Covid-19 V)
 
-vom 04.11.2020 (Stand 17.02.2022)
+vom 04.11.2020 (Stand 01.04.2022)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 31 Absatz 1, Artikel 33, Artikel 40 Absatz 1 und 2, Artikel 58 und Artikel 59 Bundesgesetzes vom 28. September 2012 über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz, EpG)[^ingress-1], Artikel 2, Artikel 5, Artikel 7 und Artikel 8 der eidgenössischen Verordnung vom 16. Februar 2022 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)[^ingress-2] sowie Artikel 25 Absatz 1 und 2 der eidgenössischen Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19-Verordnung 3)[^ingress-3],
+gestützt auf Artikel 31 Absatz 1, Artikel 33, Artikel 40 Absatz 1 und 2, Artikel 58 und Artikel 59 Bundesgesetzes vom 28. September 2012 über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz, EpG)[^ingress-1] sowie Artikel 25 Absatz 1 und 2 der eidgenössischen Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19-Verordnung 3)[^ingress-2],
 
 auf Antrag der Staatskanzlei,
 
 beschliesst:
 
 [^ingress-1]: SR [818.101](https://db.clex.ch/link/Bund/818.101/de)
-[^ingress-2]: SR [818.101.26](https://db.clex.ch/link/Bund/818.101.26/de)
-[^ingress-3]: SR [818.101.24](https://db.clex.ch/link/Bund/818.101.24/de)
+[^ingress-2]: SR [818.101.24](https://db.clex.ch/link/Bund/818.101.24/de)
 
 ## 1 Gegenstand und Zweck
 
@@ -68,6 +67,26 @@ beschliesst:
 #### Art. 8e
 
 **…**
+
+#### Art. 8e1
+
+**Maskentragpflicht**
+
+<sup>1</sup> In öffentlich zugänglichen Innenräumen von Spitälern sowie Alters- und Pflegeheimen müssen unter Vorbehalt von Absatz 2 alle Personen eine Gesichtsmaske tragen.
+
+<sup>2</sup> Von der Pflicht nach Absatz 1 ausgenommen sind
+
+- a Kinder vor ihrem 12. Geburtstag,
+- b Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können,
+- c stationäre Patientinnen und Patienten in Spitälern, während sie sich in ihren Zimmern aufhalten,
+- d Bewohnerinnen und Bewohner in Alters- und Pflegeheimen,
+- e Personen, die in einem Restaurationsbereich sitzen.
+
+#### Art. 8e2
+
+**Maskentragempfehlung**
+
+<sup>1</sup> Die Betreiberinnen und Betreiber von Arztpraxen beachten im Rahmen ihrer betrieblichen Möglichkeiten die Empfehlung, dass alle Personen in den Räumlichkeiten der Praxis Gesichtsmasken tragen.
 
 #### Art. 8f
 
@@ -194,17 +213,7 @@ beschliesst:
 
 ### 3.1 Allgemeines
 
-#### Art. 17–17b
-
-**…**
-
-#### Art. 17c
-
-**Absonderung**
-
-<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion ist die zuständige Behörde für Massnahmen betreffend die Absonderung gemäss Abschnitt 3 der Covid-19-Verordnung besondere Lage.
-
-#### Art. 18–19
+#### Art. 17–19
 
 **…**
 
@@ -239,7 +248,9 @@ beschliesst:
 
 **Covid-19-Zertifikate**
 
-<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion ist die zuständige kantonale Behörde für den Vollzug der Covid-19-Verordnung Zertifikate.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion ist die zuständige kantonale Behörde für den Vollzug der Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)[^20d1-1].
+
+[^20d1-1]: SR [818.102.2](https://db.clex.ch/link/Bund/818.102.2/de)
 
 ### 3.2 Gemeinden
 
@@ -283,9 +294,11 @@ beschliesst:
 
 <sup>2c1</sup> Artikel 16e gilt bis zum 14. Februar 2022.
 
-<sup>2c2</sup> Die Artikel 8f, 12a1, 16b1, 16f, 16h, 16i1 sowie 16k gelten bis zum 31. März 2022.
+<sup>2c2</sup> Die Artikel 8f, 12a1 und 16k gelten bis zum 31. März 2022.
 
 <sup>2d–3a</sup> …
+
+<sup>4</sup> Artikel 8e1, 8e2 sowie 16b1, 16f, 16h und 16i1 gelten bis zum 30. April 2022.
 
 #### Art. 29
 

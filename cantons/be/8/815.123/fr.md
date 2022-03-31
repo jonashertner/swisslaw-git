@@ -4,13 +4,13 @@ number: "815.123"
 title: Ordonnance sur les mesures destinées à lutter contre l’épidémie de COVID-19
 short: O COVID-19
 language: fr
-version: 2022-02-17
-valid_until: 2022-03-31
-version_adopted: 2022-02-16
+version: 2022-04-01
+valid_until: 2022-06-30
+version_adopted: 2022-03-30
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2556/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2595/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,19 +19,18 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2556/pdf_file"
 
 (O COVID-19)
 
-du 04.11.2020 (état au 17.02.2022)
+du 04.11.2020 (état au 01.04.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu les articles 31, alinéa 1, 33, 40, alinéas 1 et 2, 58 et 59 de la loi fédérale du 28 septembre 2012 sur la lutte contre les maladies transmissibles de l’homme (loi sur les épidémies, LEp)[^ingress-1], les articles 2, 5, 7 et 8 de l'ordonnance fédérale du 16 février 2022 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (ordonnance COVID-19 situation particulière)[^ingress-2], ainsi que l'article 25, alinéas 1 et 2 de l'ordonnance fédérale 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (ordonnance 3 COVID-19)[^ingress-3],
+vu les articles 31, alinéa 1, 33, 40, alinéas 1 et 2, 58 et 59 de la loi fédérale du 28 septembre 2012 sur la lutte contre les maladies transmissibles de l'homme (loi sur les épidémies, LEp)[^ingress-1], ainsi que l'article 25, alinéas 1 et 2 de l'ordonnance fédérale 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (ordonnance 3 COVID-19)[^ingress-2],
 
 sur proposition de la Chancellerie d'Etat,
 
 arrête:
 
 [^ingress-1]: RS [818.101](https://db.clex.ch/link/Bund/818.101/fr)
-[^ingress-2]: RS [818.101.26](https://db.clex.ch/link/Bund/818.101.26/fr)
-[^ingress-3]: RS [818.101.24](https://db.clex.ch/link/Bund/818.101.24/fr)
+[^ingress-2]: RS [818.101.24](https://db.clex.ch/link/Bund/818.101.24/fr)
 
 ## 1 Objet et but
 
@@ -68,6 +67,26 @@ arrête:
 #### Art. 8e
 
 **…**
+
+#### Art. 8e1
+
+**Obligation de porter un masque**
+
+<sup>1</sup> Toute personne doit porter un masque facial dans les espaces intérieurs accessibles au public des hôpitaux ainsi que des foyers pour personnes âgées et des établissements médico-sociaux, sous réserve de l'alinéa 2.
+
+<sup>2</sup> Les personnes suivantes sont exemptées de l’obligation prévue à l’alinéa 1:
+
+- a les enfants de moins de 12 ans;
+- b les personnes pouvant attester qu’elles ne peuvent pas porter de masque facial pour des raisons particulières, notamment médicales;
+- c les personnes hospitalisées, lorsqu'elles se trouvent dans leur chambre;
+- d les pensionnaires des foyers pour personnes âgées et des établissements médico-sociaux;
+- e les personnes attablées dans un espace de restauration.
+
+#### Art. 8e2
+
+**Recommandation de porter un masque**
+
+<sup>1</sup> Les exploitants et exploitantes de cabinets médicaux suivent, dans la mesure de leurs possibilités opérationnelles, la recommandation de port du masque pour toutes les personnes visitant les locaux de leur cabinet.
 
 #### Art. 8f
 
@@ -194,17 +213,7 @@ arrête:
 
 ### 3.1 Généralités
 
-#### Art. 17–17b
-
-**…**
-
-#### Art. 17c
-
-**Isolement**
-
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l'intégration est l'autorité compétente pour les mesures d'isolement au sens de la section 3 de l'ordonnance COVID-19 situation particulière.
-
-#### Art. 18–19
+#### Art. 17–19
 
 **…**
 
@@ -239,7 +248,9 @@ arrête:
 
 **Certificats COVID-19**
 
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l'intégration est l'autorité cantonale compétente pour l'exécution de l'ordonnance COVID-19 certificats.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l'intégration est l'autorité cantonale compétente pour l'exécution de l'ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (ordonnance COVID-19 certificats)[^20d1-1].
+
+[^20d1-1]: RS [818.102.2](https://db.clex.ch/link/Bund/818.102.2/fr)
 
 ### 3.2 Communes
 
@@ -283,9 +294,11 @@ arrête:
 
 <sup>2c1</sup> L'article 16e est valable jusqu'au 14 février 2022.
 
-<sup>2c2</sup> Les articles 8f, 12a1, 16b1, 16f, 16h, 16i1 ainsi que 16k sont valables jusqu'au 31 mars 2022.
+<sup>2c2</sup> Les articles 8f, 12a1 et 16k sont valables jusqu'au 31 mars 2022.
 
 <sup>2d–3a</sup> …
+
+<sup>4</sup> Les articles 8e1, 8e2 ainsi que 16b1, 16f, 16h et 16i1 sont valables jusqu'au 30 avril 2022.
 
 #### Art. 29
 
