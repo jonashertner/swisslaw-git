@@ -4,20 +4,20 @@ number: "700.11"
 title: Verordnung zum Polizeigesetz
 short: "Polizeiverordnung, PolV"
 language: de
-version: 2020-04-01
-valid_until: 2022-03-31
-version_adopted: 2020-03-10
+version: 2022-04-01
+valid_until: 2023-04-30
+version_adopted: 2022-03-15
 adopted: 1999-02-09
 in_force: 1999-03-01
 url: "https://bl.clex.ch/app/de/texts_of_law/700.11"
-pdf: "https://bl.clex.ch/api/de/versions/2597/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3407/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Polizeigesetz
 
-Vom 09.02.1999 (Stand 01.04.2020)
+Vom 09.02.1999 (Stand 01.04.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -166,109 +166,15 @@ beschliesst:
 
 <sup>3</sup> …
 
-<sup>4</sup> Der Regierungsrat hat folgende Kompetenzen übertragen:
+<sup>4</sup> …
 
-<table>
-<tr><th>Gemeinde</th><th>Kontrolle des ruhenden Verkehrs im Ordnungsbussenverfahren (§ 7 Bst. a Polizeigesetz[^6c-1])</th><th>Kontrolle des fahrenden Verkehrs mit technischen Geräten ohne Anhaltung der Fahrzeuge im Ordnungsbussenverfahren (§ 7 Bst. b Polizeigesetz[^6c-2])</th><th>Führung einer Gemeindepolizei inklusive Kontrolle des ruhenden und fahrenden Verkehrs (Gemeindepolizeien können Fahrzeuge auch anhalten, §§ 7f ff. Polizeigesetz[^6c-3])</th></tr>
-<tr><td>Aesch</td><td>JA</td><td>JA</td><td>JA</td></tr>
-<tr><td>Allschwil</td><td>JA</td><td>JA</td><td>JA</td></tr>
-<tr><td>Anwil</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Arboldswil</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Arisdorf</td><td>JA</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Arlesheim</td><td>JA</td><td>JA</td><td>JA</td></tr>
-<tr><td>Augst</td><td>JA</td><td>JA</td><td>JA</td></tr>
-<tr><td>Bennwil</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Biel-Benken</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Binningen</td><td>JA</td><td>JA</td><td>JA</td></tr>
-<tr><td>Birsfelden</td><td>JA</td><td>JA</td><td>JA</td></tr>
-<tr><td>Blauen</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Böckten</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Bottmingen</td><td>JA</td><td>JA</td><td>NEIN</td></tr>
-<tr><td>Bretzwil</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Brislach</td><td>JA</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Bubendorf</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Buckten</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Burg im Leimental</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Buus</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Diegten</td><td>JA</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Diepflingen</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Dittingen</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Duggingen</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Eptingen</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Ettingen</td><td>JA</td><td>JA</td><td>JA</td></tr>
-<tr><td>Frenkendorf</td><td>JA</td><td>JA</td><td>JA</td></tr>
-<tr><td>Füllinsdorf</td><td>JA</td><td>JA</td><td>JA</td></tr>
-<tr><td>Gelterkinden</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Giebenach</td><td>JA</td><td>JA</td><td>JA</td></tr>
-<tr><td>Grellingen</td><td>JA</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Häfelfingen</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Hemmiken</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Hersberg</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Hölstein</td><td>JA</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Itingen</td><td>JA</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Känerkinden</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Kilchberg</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Lampenberg</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Langenbruck</td><td>JA</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Läufelfingen</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Laufen</td><td>JA</td><td>JA</td><td>JA</td></tr>
-<tr><td>Lausen</td><td>JA</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Lauwil</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Liedertswil</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Liesberg</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Liestal</td><td>JA</td><td>JA</td><td>JA</td></tr>
-<tr><td>Lupsingen</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Maisprach</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Münchenstein</td><td>JA</td><td>JA</td><td>JA</td></tr>
-<tr><td>Muttenz</td><td>JA</td><td>JA</td><td>JA</td></tr>
-<tr><td>Nenzlingen</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Niederdorf</td><td>JA</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Nusshof</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Oberdorf</td><td>JA</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Oberwil</td><td>JA</td><td>JA</td><td>JA</td></tr>
-<tr><td>Oltingen</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Ormalingen</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Pfeffingen</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Pratteln</td><td>JA</td><td>JA</td><td>JA</td></tr>
-<tr><td>Ramlinsburg</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Reigoldswil</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Reinach</td><td>JA</td><td>JA</td><td>JA</td></tr>
-<tr><td>Rickenbach</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Roggenburg</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Röschenz</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Rothenfluh</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Rümlingen</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Rünenberg</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Schönenbuch</td><td>JA</td><td>JA</td><td>NEIN</td></tr>
-<tr><td>Seltisberg</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Sissach</td><td>JA</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Tecknau</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Tenniken</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Therwil</td><td>JA</td><td>JA</td><td>JA</td></tr>
-<tr><td>Thürnen</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Titterten</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Wahlen</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Waldenburg</td><td>JA</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Wenslingen</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Wintersingen</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Wittinsburg</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Zeglingen</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Ziefen</td><td>NEIN</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Zunzgen</td><td>JA</td><td>NEIN</td><td>NEIN</td></tr>
-<tr><td>Zwingen</td><td>JA</td><td>NEIN</td><td>NEIN</td></tr>
-</table>
-
-[^6c-1]: [SGS 700](https://bl.clex.ch/data/700/de/art7)
-[^6c-2]: [SGS 700](https://bl.clex.ch/data/700/de/art7)
-[^6c-3]: [SGS 700](https://bl.clex.ch/data/700/de/art7f)
+<sup>5</sup> Der Regierungsrat hat die Kompetenzen gemäss Anhang 1 übertragen.
 
 #### § 6d
 
 **Uniformierung bei der Bussenerhebung auf der Strasse**
 
-<sup>1</sup> Für die Kontrolle des ruhenden Verkehrs können die Gemeinden im Sinne von Art. 4 Abs. 2 des Ordnungsbussengesetzes[^6d-1] während des Dienstes auf das Tragen einer Dienstuniform verzichten.
-
-[^6d-1]: [SR 741.03](https://db.clex.ch/link/Bund/741.03/de)
+<sup>1</sup> Für die Kontrolle des ruhenden Verkehrs können die Gemeinden auf das Tragen einer Dienstuniform verzichten.
 
 #### § 7
 
@@ -366,9 +272,7 @@ beschliesst:
 
 **Uniformierung bei der Bussenerhebung auf der Strasse**
 
-<sup>1</sup> Im ruhenden Verkehr können Ordnungsbussen im Sinne von Art. 4 Abs. 2 des Ordnungsbussengesetzes[^17a-1] während des Dienstes ohne das Tragen einer Dienstuniform erhoben werden.
-
-[^17a-1]: [SR 741.03](https://db.clex.ch/link/Bund/741.03/de)
+<sup>1</sup> Im ruhenden Verkehr können Ordnungsbussen ohne das Tragen einer Dienstuniform erhoben werden.
 
 #### § 18
 
@@ -394,15 +298,15 @@ beschliesst:
 
 **Rückerstattung der Grundausbildungskosten**
 
-<sup>1</sup> Wird das Dienstverhältnis während der Grundausbildung oder innert 3 Jahren seit deren Abschluss aufgelöst, entsteht folgende Pflicht zur Rückerstattung der Grundausbildungskosten:
+<sup>1</sup> Wird das Arbeitsverhältnis während der Grundausbildung oder innert 2 Jahren seit deren Abschluss aufgelöst, entstehen folgende Rückzahlungsverpflichtungen:
 
-- a. während der Grundausbildung und im 1. Dienstjahr — 75 %;
-- b. im 2. Dienstjahr — 66 %;
-- c. im 3. Dienstjahr — 33 %.
+- a. während der 2-jährigen Grundausbildung werden pro absolviertem Monat CHF 1'000.– in Rechnung gestellt;
+- b. im 1. und 2. Dienstjahr nach Berufsabschluss reduziert sich der Rückforderungsbetrag um monatlich CHF 1'000.–.
+- c. …
 
-<sup>2</sup> Die Grundausbildungskosten setzen sich zusammen aus einem Teil der während der Grundausbildung ausgerichteten Besoldung sowie den Aufwendungen für Lehrkräfte und Ausbildungsmaterial. Die Leitung der Dienststelle setzt den massgeblichen Betrag jährlich fest.
+<sup>2</sup> Die Anstellungsbehörde kann bei speziellen Umständen der Arbeitsvertragsauflösung, insbesondere bei gesundheitlichen Gründen, den Rückzahlungsbetrag reduzieren oder darauf verzichten.
 
-<sup>3</sup> In Härtefällen kann die Anstellungsbehörde auf eine Rückforderung ganz oder teilweise verzichten.
+<sup>3</sup> …
 
 ## 5 Diensthundewesen
 
@@ -533,31 +437,15 @@ beschliesst:
 
 **…**
 
-## 8 Private Sicherheitsdienstleistungen
+## 8
 
 #### § 36
 
-**Internes Sicherheitspersonal**
-
-<sup>1</sup> Das interne Sicherheitspersonal (§ 51b Abs. 3 Polizeigesetz[^36-1]) ist von der Bewilligungspflicht ausgenommen.
-
-<sup>2</sup> Die Befreiung gilt für internes Sicherheitspersonal im Sinne eines Werkschutzes bei Gebäuden und Arealen von Produktions-, Lager-, Umschlags- sowie Verkaufs- und Dienstleistungsbetrieben mit erhöhten Sicherheitsbedürfnissen, wie namentlich Banken, Museen, Archiven, Informatikdienstleistern, Warenhäusern oder Juwelieren. Sie gilt nur dann, wenn das entsprechende Personal ausschliesslich bei diesem einen Betrieb im Einsatz ist.
-
-<sup>3</sup> Unerheblich ist die Organisationsstruktur wie beispielsweise die Anstellung des Sicherheitspersonals direkt beim Einsatzunternehmen oder bei Tochter- oder Drittunternehmen.
-
-<sup>4</sup> Die Befreiung gilt nicht für internes Sicherheitspersonal von Betrieben der Gastronomie, des Unterhaltungs-, Freizeit- und Sportbereichs, bei temporären Veranstaltungen und anderen Betrieben und Anlässen mit grösserem Publikumsverkehr und erhöhtem Konfliktpotenzial.
-
-[^36-1]: [SGS 700](https://bl.clex.ch/data/700/de/art51b)
+**…**
 
 #### § 37
 
-**Bewilligung für Diensthundeeinsatz**
-
-<sup>1</sup> Die Polizei Basel-Landschaft erteilt eine Bewilligung für den Einsatz von Diensthunden bei der Ausübung von Sicherheitsdienstleistungen (§ 51e Polizeigesetz[^37-1]), wenn die erfolgreiche Absolvierung einer anerkannten Ausbildung nachgewiesen wird.
-
-<sup>2</sup> …
-
-[^37-1]: [SGS 700](https://bl.clex.ch/data/700/de/art51e)
+**…**
 
 ## 9 Schlussbestimmungen
 
