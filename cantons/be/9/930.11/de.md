@@ -4,13 +4,12 @@ number: "930.11"
 title: Verordnung über Handel und Gewerbe
 short: HGV
 language: de
-version: 2021-07-01
-valid_until: 2022-03-31
-version_adopted: 2021-05-19
+version: 2022-04-01
+version_adopted: 2022-02-16
 adopted: 2007-01-24
 in_force: 2007-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/930.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2292/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2561/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2292/pdf_file"
 
 (HGV)
 
-vom 24.01.2007 (Stand 01.07.2021)
+vom 24.01.2007 (Stand 01.04.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -87,24 +86,26 @@ beschliesst:
 - 7\. Därligen,
 - 8\. Diemtigen,
 - 9\. Frutigen,
-- 10\. Gadmen,
+- 10\. …
 - 11\. Grindelwald,
 - 12\. Gsteig,
 - 13\. Guttannen,
 - 14\. Habkern,
 - 15\. Hasliberg,
 - 16\. Heiligenschwendi,
+- 16a. Hofstetten bei Brienz,
 - 17\. Innertkirchen,
 - 18\. Interlaken,
 - 19\. Iseltwald,
+- 19a. Kandergrund,
 - 20\. Kandersteg,
 - 21\. Krattigen,
 - 22\. Lauenen,
 - 23\. Lauterbrunnen,
 - 24\. Leissigen,
-- 25\. Lenk im Simmental,
+- 25\. Lenk,
 - 26\. Lütschental,
-- 27\. Matten,
+- 27\. Matten bei Interlaken,
 - 28\. Meiringen,
 - 29\. Niederried bei Interlaken,
 - 30\. Oberried am Brienzersee,
@@ -115,7 +116,7 @@ beschliesst:
 - 35\. Schattenhalb,
 - 36\. St. Stephan,
 - 37\. Unterseen,
-- 38\. Wilderswil und
+- 38\. Wilderswil,
 - 39\. Zweisimmen.
 
 ## 3 Beschränkungen des Handels mit Tabakprodukten, pflanzlichen Rauchprodukten, elektronischen Zigaretten und alkoholischen Getränken
@@ -143,6 +144,14 @@ beschliesst:
 **Verkauf und Abgabe von Tabakprodukten, pflanzlichen Rauchprodukten und elektronischen Zigaretten**
 
 <sup>1</sup> Am Verkaufspunkt ist ein gut sichtbares Schild anzubringen, auf dem in gut lesbarer Schrift darauf hingewiesen wird, dass der Verkauf und die Abgabe von Tabakprodukten, pflanzlichen Rauchprodukten und elektronischen Zigaretten an Kinder und Jugendliche unter 18 Jahren verboten sind.
+
+#### Art. 9a
+
+**Nikotinprodukte ohne Tabak zum oralen Gebrauch**
+
+<sup>1</sup> Die Artikel 14c bis 18a HGG über die Beschränkungen des Handels mit Tabakprodukten, pflanzlichen Rauchprodukten, elektronischen Zigaretten und alkoholischen Getränken gelten auch für Nikotinprodukte zum oralen Gebrauch, die keinen Tabak enthalten.
+
+<sup>2</sup> Die Bestimmungen des Bundes über Heilmittel und Betäubungsmittel bleiben vorbehalten.
 
 ## 4
 

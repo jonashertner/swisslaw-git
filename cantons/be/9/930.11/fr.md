@@ -4,13 +4,12 @@ number: "930.11"
 title: "Ordonnance sur le commerce et l'industrie"
 short: OCI
 language: fr
-version: 2021-07-01
-valid_until: 2022-03-31
-version_adopted: 2021-05-19
+version: 2022-04-01
+version_adopted: 2022-02-16
 adopted: 2007-01-24
 in_force: 2007-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/930.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2292/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2561/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2292/pdf_file"
 
 (OCI)
 
-du 24.01.2007 (état au 01.07.2021)
+du 24.01.2007 (état au 01.04.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -85,24 +84,26 @@ arrête:
 - 7\. Därligen,
 - 8\. Diemtigen,
 - 9\. Frutigen,
-- 10\. Gadmen,
+- 10\. …
 - 11\. Grindelwald,
 - 12\. Gsteig,
 - 13\. Guttannen,
 - 14\. Habkern,
 - 15\. Hasliberg,
 - 16\. Heiligenschwendi,
+- 16a. Hofstetten bei Brienz,
 - 17\. Innertkirchen,
 - 18\. Interlaken,
 - 19\. Iseltwald,
+- 19a. Kandergrund,
 - 20\. Kandersteg,
 - 21\. Krattigen,
 - 22\. Lauenen,
 - 23\. Lauterbrunnen,
 - 24\. Leissigen,
-- 25\. Lenk im Simmental,
+- 25\. Lenk,
 - 26\. Lütschental,
-- 27\. Matten,
+- 27\. Matten bei Interlaken,
 - 28\. Meiringen,
 - 29\. Niederried bei Interlaken,
 - 30\. Oberried am Brienzersee,
@@ -113,7 +114,7 @@ arrête:
 - 35\. Schattenhalb,
 - 36\. St. Stephan,
 - 37\. Unterseen,
-- 38\. Wilderswil et
+- 38\. Wilderswil,
 - 39\. Zweisimmen.
 
 ## 3 Restrictions au commerce des produits du tabac, des produits à fumer à base de plantes, des cigarettes électroniques et des boissons alcoolisées
@@ -141,6 +142,14 @@ arrête:
 **Vente et remise de produits du tabac, de produits à fumer à base de plantes et de cigarettes électroniques**
 
 <sup>1</sup> Un panneau doit être placé en évidence dans les points de vente et attirer l’attention, par des caractères très lisibles, sur le fait que la remise et la vente aux enfants et aux jeunes de moins de 18 ans de produits du tabac, de produits à fumer à base de plantes et de cigarettes électroniques sont interdites.
+
+#### Art. 9a
+
+**Produits nicotiniques à usage oral sans tabac**
+
+<sup>1</sup> Les articles 14c à 18a LCI sur les restrictions au commerce des produits du tabac, des produits à fumer à base de plantes, des cigarettes électroniques et des boissons alcoolisées s'appliquent également aux produits nicotiniques à usage oral sans tabac.
+
+<sup>2</sup> Les dispositions de la Confédération sur les produits thérapeutiques et les stupéfiants sont réservées.
 
 ## 4
 
