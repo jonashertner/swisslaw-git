@@ -4,11 +4,11 @@ title: "Ordinanza del 4 dicembre 2015 sulla prevenzione e lo smaltimento dei rif
 short: OPSR
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: it
-version: 2022-01-01
+version: 2022-04-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2015-891-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2015-891-20220401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20220101/it"
 
 (Ordinanza sui rifiuti, OPSR)
 
-del 4 dicembre 2015 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 4 dicembre 2015 (Stato 1° aprile 2022)
 
 Il Consiglio federale svizzero,
 
@@ -107,13 +107,17 @@ I Cantoni allestiscono un piano di gestione dei rifiuti per il proprio territori
 - b. le misure per riciclare i rifiuti;
 - c. il fabbisogno in termini di impianti per lo smaltimento di rifiuti urbani e altri rifiuti il cui smaltimento compete ai Cantoni;
 - d. il fabbisogno in termini di volume da adibire a discarica e le ubicazioni delle discariche (piano di gestione delle discariche);
-- e. i comprensori di raccolta necessari.
+- e. i comprensori di raccolta necessari;
+- f.[^4-1] le misure per utilizzare il contenuto energetico dei rifiuti derivante dal loro trattamento termico.
 
-<sup>2</sup> I Cantoni collaborano tra loro per allestire il piano di gestione dei rifiuti, in particolare per gli ambiti di cui al capoverso 1 lettere c−e, definendo, se necessario, regioni di pianificazione che si estendono al di là dei propri confini territoriali.
+<sup>2</sup> I Cantoni collaborano tra loro per allestire il piano di gestione dei rifiuti, in particolare per gli ambiti di cui al capoverso 1 lettere c–f, definendo, se necessario, regioni di pianificazione che si estendono al di là dei propri confini territoriali.[^4-2]
 
 <sup>3</sup> Ogni cinque anni i Cantoni verificano e, se necessario, aggiornano il proprio piano di gestione dei rifiuti.
 
 <sup>4</sup> I Cantoni trasmettono all’Ufficio federale dell’ambiente (UFAM) il piano di gestione dei rifiuti e le rielaborazioni integrali dello stesso.
+
+[^4-1]: Introdotta dal n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^4-2]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 #### Art. 5
 
@@ -131,22 +135,23 @@ I Cantoni allestiscono un piano di gestione dei rifiuti per il proprio territori
 
 A scadenza annuale i Cantoni allestiscono elenchi pubblici contenenti le indicazioni seguenti e li sottopongono all’UFAM:
 
-- a. la quantità dei tipi di rifiuti di cui all’allegato 1 smaltiti sul loro territorio;
-- b.[^6-1] gli impianti per il trattamento di rifiuti edili e gli impianti per il trattamento di rifiuti metallici, presenti sul loro territorio, nei quali sono trattate ogni anno più di 1000 t di rifiuti;
+- a. la quantità delle categorie di rifiuti[^6-1] di cui all’allegato 1 smaltiti sul loro territorio;
+- b.[^6-2] gli impianti per il trattamento di rifiuti edili e gli impianti per il trattamento di rifiuti metallici, presenti sul loro territorio, nei quali sono trattate ogni anno più di 1000 t di rifiuti;
 - c. gli altri impianti per i rifiuti, presenti sul loro territorio, nei quali vengono smaltite ogni anno più di 100 t di rifiuti.
 
-<sup>2</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni può aggiornare i tipi di rifiuti di cui all’allegato 1 in conformità con lo stato degli sviluppi in ambito tecnico.
+<sup>2</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni può aggiornare le categorie di rifiuti di cui all’allegato 1 in conformità con lo stato degli sviluppi in ambito tecnico.
 
 <sup>3</sup>
 
-Su richiesta, i Cantoni presentano all’UFAM un rapporto sull’esercizio e sulla situazione delle discariche che si trovano sul loro territorio.[^6-2] Il rapporto contiene in particolare le informazioni seguenti:
+Su richiesta, i Cantoni presentano all’UFAM un rapporto sull’esercizio e sulla situazione delle discariche che si trovano sul loro territorio.[^6-3] Il rapporto contiene in particolare le informazioni seguenti:
 
 - a. la quantità e la tipologia di rifiuti depositati e il volume restante delle discariche esistenti;
 - b. in caso di nuove discariche o di modifiche di opere di costruzione relative a discariche, la prova che gli impianti delle opere di costruzione soddisfano i requisiti riportati nell’allegato 2 numeri 2.1–2.4;
 - c. eventualmente, le misure di cui all’articolo 53 capoverso 4 volte a prevenire potenziali effetti dannosi o molesti delle discariche sull’ambiente.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)).
+[^6-1]: Nuova espr. giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^6-2]: Nuovo testo giusta il n. I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^6-3]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)).
 
 ## Capitolo 3: Prevenzione, riciclaggio e deposito di rifiuti
 
@@ -168,9 +173,11 @@ In collaborazione con i Cantoni e con le organizzazioni del mondo del lavoro, la
 
 #### Art. 9
 
-**Divieto di mischiare**
+**Divieto di mischiare**[^9-1]
 
-I rifiuti non possono essere mischiati tra loro né con sostanze additive se l’operazione serve essenzialmente a diminuire mediante diluizione il tenore in sostanze nocive nei rifiuti e adempiere così prescrizioni sulla consegna, sul riciclaggio o sul deposito.
+I rifiuti non possono essere mischiati con altri rifiuti o con sostanze additive se l’operazione serve essenzialmente a diminuire mediante diluizione il tenore in sostanze nocive o in sostanze estranee nei rifiuti e adempiere così prescrizioni sulla consegna, sul riciclaggio o sul deposito.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 #### Art. 10
 
@@ -479,13 +486,15 @@ I detentori di impianti per i rifiuti devono:
 
 **Costruzione**
 
-Gli impianti per il trattamento termico dei rifiuti possono essere costruiti se le installazioni garantiscono che:[^31-1]
+Gli impianti per il trattamento termico dei rifiuti possono essere costruiti o la loro capacità può essere potenziata se le installazioni garantiscono che:[^31-1]
 
 - a. non fuoriescano gas di scarico diffusi;
-- b.[^31-2] negli impianti in cui sono trattati rifiuti liquidi aventi un punto d’infiammabilità inferiore a 60 °C e rifiuti speciali infettivi, tali rifiuti possano essere separati dagli altri rifiuti e, per quanto possibile, immessi il più direttamente possibile nell’area in cui avviene il trattamento termico.
+- b.[^31-2] negli impianti in cui sono trattati rifiuti liquidi aventi un punto d’infiammabilità inferiore a 60 °C e rifiuti speciali infettivi, tali rifiuti possano essere separati dagli altri rifiuti e, per quanto possibile, immessi il più direttamente possibile nell’area in cui avviene il trattamento termico;
+- c.[^31-3] negli impianti in cui vengono inceneriti rifiuti urbani o altri rifiuti di composizione analoga, almeno l’80 per cento del contenuto energetico venga impiegato al di fuori degli impianti; l’utilizzo di energia per la cattura di CO<sub>2</sub> dai fumi è considerato impiego al di fuori degli impianti.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^31-1]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 [^31-2]: Nuovo testo giusta il n. I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^31-3]: Introdotta dal n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 #### Art. 32
 
@@ -497,16 +506,17 @@ Gli impianti per il trattamento termico dei rifiuti possono essere costruiti se 
 
 I detentori degli impianti devono fare in modo che:
 
-- a. almeno il 55 per cento del contenuto energetico di rifiuti urbani e di rifiuti di composizione analoga venga impiegato al di fuori degli impianti;
+- a.[^32-1] almeno il 55 per cento del contenuto energetico dei rifiuti urbani e dei rifiuti di composizione analoga venga impiegato al di fuori degli impianti; l’utilizzo di energia per la cattura di CO<sub>2</sub> dai fumi è considerato impiego al di fuori degli impianti;
 - b. in sede di trattamento, i composti organici alogenati si scompongano per quanto possibile completamente e se ne formi nuovamente una quantità minima;
-- c.[^32-1] i rifiuti speciali che contengono più dell'uno per cento in peso di composti organici alogenati siano trattati per almeno due secondi a una temperatura minima di 1100 °C; l’autorità può autorizzare altre temperature minime e tempi di permanenza se si fornisce la prova che così non risultano maggiori residui di incenerimento e questi non contengono tenori più elevati di sostanze nocive organiche quali PAH, PCDD, PCDF o PCB;
-- d.[^32-2] i rifiuti liquidi aventi un punto d'infiammabilità inferiore a 60 °C e i rifiuti speciali infettivi siano separati dagli altri rifiuti e immessi il più direttamente possibile nell'area in cui avviene il trattamento termico;
+- c.[^32-2] i rifiuti speciali che contengono più dell'uno per cento in peso di composti organici alogenati siano trattati per almeno due secondi a una temperatura minima di 1100 °C; l’autorità può autorizzare altre temperature minime e tempi di permanenza se si fornisce la prova che così non risultano maggiori residui di incenerimento e questi non contengono tenori più elevati di sostanze nocive organiche quali PAH, PCDD, PCDF o PCB;
+- d.[^32-3] i rifiuti liquidi aventi un punto d'infiammabilità inferiore a 60 °C e i rifiuti speciali infettivi siano separati dagli altri rifiuti e immessi il più direttamente possibile nell'area in cui avviene il trattamento termico;
 - e. le scorie contengano al massimo una frazione non incenerita pari al due per cento del peso misurata come carbonio organico totale (COT);
 - f. nel caso di un difetto di funzionamento, venga portato a termine il trattamento termico dei rifiuti che si trovano nell’area in cui avviene tale trattamento;
 - g. negli impianti in cui vengono inceneriti rifiuti urbani o altri rifiuti di composizione analoga, dalle ceneri dei filtri vengano recuperati i metalli.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^32-1]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 [^32-2]: Nuovo testo giusta il n. I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^32-3]: Nuovo testo giusta il n. I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 
 ### Sezione 4: Impianti di compostaggio e di fermentazione
 
@@ -777,16 +787,29 @@ L’asfalto di demolizione con un tenore di PAH superiore a 250 mg al kg può es
 - a. il tenore di PAH è di massimo 1000 mg PAH al kg e viene miscelato con altri materiali in modo tale da contenere a massimo 250 mg PAH al kg al momento del riciclaggio; oppure
 - b. previa autorizzazione dell’autorità cantonale, l’asfalto di demolizione viene impiegato in modo tale da non produrre emissioni di PAH. L’autorità cantonale registra il tenore esatto di PAH nell’asfalto di demolizione e l’ubicazione in cui avviene il riciclaggio e conserva le informazioni per almeno 25 anni.
 
-<sup>2</sup> L’asfalto di demolizione con un tenore di PAH superiore a 250 mg al kg può essere depositato in una discarica di tipo E fino al 31 dicembre 2025.
+<sup>2</sup> L’asfalto di demolizione con un tenore di PAH superiore a 250 mg al kg può essere depositato in una discarica di tipo E fino al 31 dicembre 2027.[^52-1]
+
+<sup>3</sup> L’asfalto di demolizione con un tenore di PAH fino a 250 mg al kg può essere depositato in una discarica di tipo B fino al 31 dicembre 2027.[^52-2]
+
+[^52-1]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^52-2]: Introdotto dal n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 #### Art. 52a
 
 **Cenere di legno**[^52a-1]
 
-Ceneri e polveri dei filtri derivanti dal trattamento termico di legna che secondo l’allegato 5 cifra 31 capoverso 2 dell’ordinanza del 16 dicembre 1985[^52a-2] contro l’inquinamento atmosferico (OIAt) non è considerata legna da ardere possono essere depositate presso discariche di tipo D ed E (all. 5 n. 4.1 e 5.1) fino al 1° novembre 2023.
+Ceneri e polveri dei filtri derivanti dal trattamento termico di legna che secondo l’allegato 5 numero 31 capoverso 2 dell’ordinanza del 16 dicembre 1985[^52a-2] contro l’inquinamento atmosferico (OIAt) non è considerata legna da ardere possono essere depositate presso discariche di tipo D ed E (all. 5 n. 4.1 e 5.1) fino al 31 dicembre 2025.
 
-[^52a-1]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)).
+[^52a-1]: Introdotto dal n. I dell’O del 21 set. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)). Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 [^52a-2]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+
+#### Art. 52b
+
+**Diossine e furani**[^52b-1]
+
+Il tenore di diossine (PCDD) e furani (PCDF) nei residui prodotti dal trattamento termico dei rifiuti deve essere il minimo possibile secondo lo stato della tecnica (all. 5 n. 3.3 e 4.2). Il loro tenore non può superare 3 µg di equivalenti di tossicità (TEQ) al kg fino al 31 dicembre 2026.
+
+[^52b-1]: Introdotto dal n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 #### Art. 53
 
@@ -826,13 +849,13 @@ Allegato 1*[^t-1]*
 
 (art. 6 cpv. 1 e 27 cpv. 1)
 
-## Tipi di rifiuti
+## Categorie di rifiuti
 
-[^t-1]: Aggiornato dal n. II dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)).
+[^t-1]: Aggiornato dai n. II delle O del 21 set. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) e del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 <table>
 <tr><th>Codice</th><th>Descrizione del rifiuto</th></tr>
-<tr><td></td><td>**Classe 1: rifiuti chimici**</td></tr>
+<tr><td></td><td>**Categoria 1: rifiuti chimici**</td></tr>
 <tr><td>1101</td><td>Solventi non alogenati</td></tr>
 <tr><td>1102</td><td>Solventi alogenati</td></tr>
 <tr><td>1103</td><td>Residui di reazione chimici</td></tr>
@@ -855,20 +878,20 @@ Allegato 1*[^t-1]*
 <tr><td>1120</td><td>Biocidi, prodotti per la protezione del legno e prodotti chimici analoghi</td></tr>
 <tr><td>1121</td><td>Altri rifiuti chimici speciali</td></tr>
 <tr><td>1301</td><td>Altri prodotti chimici non soggetti all’obbligo di controllo secondo l’OTRif</td></tr>
-<tr><td></td><td>**Classe 2: rifiuti sanitari**</td></tr>
+<tr><td></td><td>**Categoria 2: rifiuti sanitari**</td></tr>
 <tr><td>2101</td><td>Rifiuti infettivi e a rischio di contaminazione</td></tr>
 <tr><td>2102</td><td>Medicamenti scaduti e rifiuti farmaceutici solidi</td></tr>
 <tr><td>2103</td><td>Rifiuti sanitari con pericolo di lesione</td></tr>
 <tr><td>2104</td><td>Rifiuti non infettivi provenienti dal settore sanitario</td></tr>
 <tr><td>2301</td><td>Rifiuti sanitari non soggetti all’obbligo di controllo secondo l’OTRif</td></tr>
-<tr><td></td><td>**Classe 3: rifiuti metallici**</td></tr>
+<tr><td></td><td>**Categoria 3: rifiuti metallici**</td></tr>
 <tr><td>3101</td><td>Cavi usati contenenti sostanze pericolose</td></tr>
 <tr><td>3102</td><td>Altri rifiuti metallici speciali</td></tr>
 <tr><td>3201</td><td>Cavi usati</td></tr>
 <tr><td>3202</td><td>Residui di rottame metallico e materiale raccolto sui veicoli di trasporto</td></tr>
 <tr><td>3301</td><td>Metalli provenienti dalla raccolta comunale e da altre raccolte</td></tr>
 <tr><td>3302</td><td>Rifiuti metallici non soggetti all’obbligo di controllo secondo l’OTRif</td></tr>
-<tr><td></td><td>**Classe 4: rifiuti minerali**</td></tr>
+<tr><td></td><td>**Categoria 4: rifiuti minerali**</td></tr>
 <tr><td>4101</td><td>Materiale di scavo inquinato da sostanze pericolose</td></tr>
 <tr><td>4102</td><td>Asfalto di demolizione con un tenore di oltre 1000 mg PAH al kg</td></tr>
 <tr><td>4103</td><td>Rifiuti edili misti contenenti sostanze pericolose</td></tr>
@@ -890,7 +913,7 @@ Allegato 1*[^t-1]*
 <tr><td>4309</td><td>Rifiuti di vetro provenienti dalla raccolta comunale e da altre raccolte</td></tr>
 <tr><td>4310</td><td>Altri rifiuti di vetro non soggetti all’obbligo di controllo secondo l’OTRif</td></tr>
 <tr><td>4311</td><td>Altri rifiuti minerali non soggetti all’obbligo di controllo secondo l’OTRif</td></tr>
-<tr><td></td><td>**Classe 5: impianti, macchine, veicoli e accessori nonché apparecchiature elettriche ed elettroniche**</td></tr>
+<tr><td></td><td>**Categoria 5: impianti, macchine, veicoli e accessori nonché apparecchiature elettriche ed elettroniche**</td></tr>
 <tr><td>5101</td><td>Batterie al piombo e accumulatori al piombo</td></tr>
 <tr><td>5102</td><td>Altre batterie e accumulatori</td></tr>
 <tr><td>5103</td><td>Altre componenti di apparecchiature elettriche ed elettroniche contenenti PCB</td></tr>
@@ -901,7 +924,7 @@ Allegato 1*[^t-1]*
 <tr><td>5203</td><td>Apparecchiature elettriche ed elettroniche contenenti clorofluorocarburi (CFC) parzialmente o completamente alogenati</td></tr>
 <tr><td>5204</td><td>Altre apparecchiature elettriche ed elettroniche e componenti</td></tr>
 <tr><td>5301</td><td>Componenti di apparecchiature elettriche ed elettroniche non soggette all’obbligo di controllo secondo l’OTRif</td></tr>
-<tr><td></td><td>**Classe 6: rifiuti biogeni**</td></tr>
+<tr><td></td><td>**Categoria 6: rifiuti biogeni**</td></tr>
 <tr><td>6101</td><td>Rifiuti di legno problematici</td></tr>
 <tr><td>6201</td><td>Oli e grassi commestibili, esclusi quelli provenienti dalle raccolte comunali</td></tr>
 <tr><td>6202</td><td>Legno usato</td></tr>
@@ -909,7 +932,7 @@ Allegato 1*[^t-1]*
 <tr><td>6302</td><td>Scarti di legno</td></tr>
 <tr><td>6303</td><td>Rifiuti biogeni provenienti dalla raccolta comunale e da altre raccolte</td></tr>
 <tr><td>6304</td><td>Rifiuti biogeni provenienti dall’agricoltura, dall’industria e dall’artigianato</td></tr>
-<tr><td></td><td>**Classe 7: fanghi e residui di trattamento**</td></tr>
+<tr><td></td><td>**Categoria 7: fanghi e residui di trattamento**</td></tr>
 <tr><td>7101</td><td>Scorie e ceneri</td></tr>
 <tr><td>7102</td><td>Residui prodotti dalla depurazione dei fumi</td></tr>
 <tr><td>7103</td><td>Frazione leggera combustibile proveniente dalla frantumazione di rifiuti metallici</td></tr>
@@ -923,7 +946,7 @@ Allegato 1*[^t-1]*
 <tr><td>7302</td><td>Fanghi e residui di trattamento non soggetti all’obbligo di controllo secondo l’OTRif</td></tr>
 <tr><td>7303</td><td>Fanghi combustibili e altri residui di trattamento</td></tr>
 <tr><td>7304</td><td>Materiale fine proveniente dal trattamento di rifiuti edili</td></tr>
-<tr><td></td><td>**Classe 8: altri tipi di rifiuti**</td></tr>
+<tr><td></td><td>**Categoria 8: altre** **categorie di rifiuti**</td></tr>
 <tr><td>8101</td><td>Rifiuti speciali provenienti dalla raccolta comunale e da altre raccolte</td></tr>
 <tr><td>8301</td><td>Residui della pulizia stradale</td></tr>
 <tr><td>8302</td><td>Residui di incendi</td></tr>
@@ -1051,11 +1074,13 @@ Allegato 2
 - 2\.5.2 Nel terzo superiore delle misure di impermeabilizzazione e nello strato di drenaggio può essere utilizzato soltanto materiale conforme ai requisiti di cui all’allegato 3 numero 1. Per gli strati inferiori delle misure di impermeabilizzazione può essere utilizzato materiale che soddisfi almeno i requisiti per il deposito nel tipo di discarica predisposto e che, in un’ottica di tecnica costruttiva, sia idoneo alla misura prevista.
 - 2\.5.3 Qualora vengano adottate misure per prevenire possibili effetti dannosi o molesti delle discariche sull’ambiente, la chiusura definitiva della superficie dev’essere effettuata soltanto dopo l’attuazione di queste misure, se ciò è necessario per garantire la stabilità della chiusura della superficie. Fino ad allora, mediante misure idonee, occorre impedire qualsiasi erosione.
 
-Allegato 3
+Allegato 3[^t-2]
 
 (art. 17 cpv. 1 e 19)
 
 ## Requisiti applicabili al materiale di scavo e di sgombero
+
+[^t-2]: Aggiornato dal n. II dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 - 1
 
@@ -1093,13 +1118,11 @@ Allegato 3
 <tr><td colspan="2">\*\*\*\*\* ∑16 PAH EPA: naftalina, acenaftilene, 1,2-diidroacenaftene, fluorene, fenantrene, antracene, fluorantene, pirene, benzo[*a*]antracene, crisene, benzo[a]pirene, benzo[*b*]fluorantene, benzo[*k*]fluorantene, dibenz[*a*,*h*]antracene, ben-zo[*g*,*h*,*i*]perilene, indeno[1,2,3-*c*,*d*]pirene</td></tr>
 </table>
 
-- 2
+2 Il materiale di scavo e di sgombero dev’essere riciclato conformemente all’articolo 19 capoverso 2 se:
 
-  Il materiale di scavo e di sgombero dev’essere riciclato conformemente all’articolo 19 capoverso 2 se:
-
-  - a. è composto per almeno il 95 per cento in peso da materiale sciolto o roccia frantumata e, per il resto, da altri rifiuti edili minerali;
-  - b. sono state rimosse il più possibile le sostanze estranee come rifiuti urbani, rifiuti biogeni o altri rifiuti edili non minerali; e
-  - c. le sostanze in esso contenute non superano i valori limite seguenti (tenori totali) o un superamento non è riconducibile ad attività antropiche:
+- a. è composto per almeno il 95 per cento in peso da materiale sciolto o roccia frantumata e, per il resto, da altri rifiuti edili minerali;
+- b. sono state rimosse il più possibile le sostanze estranee come rifiuti urbani, rifiuti biogeni o altri rifiuti edili non minerali; e
+- c. le sostanze in esso contenute non superano i valori limite seguenti (tenori totali) o un superamento non è riconducibile ad attività antropiche:
 
 <table>
 <tr><td>Sostanza</td><td>Valore limite in mg/kg di sostanza secca</td></tr>
@@ -1121,19 +1144,19 @@ Allegato 3
 <tr><td>Benzene</td><td>0,5</td></tr>
 <tr><td>Idrocarburi aromatici policiclici (PAH)\*\*\*\*\*</td><td>12,5</td></tr>
 <tr><td>Benzo(*a*)pirene</td><td>1,5</td></tr>
-<tr><td>Carbonio organico totale (COT)</td><td>10 000</td></tr>
+<tr><td>Carbonio organico totale liberato fino a 400 °C (COT400)</td><td>10 000</td></tr>
 <tr><td colspan="2">\*, \*\*, \*\*\*, \*\*\*\*, \*\*\*\*\* cfr. le spiegazioni al cpv. 1 lett. c</td></tr>
 </table>
 
 - 3 Se il materiale di scavo e di sgombero contiene sostanze per le quali non sono stati fissati valori limite, l’autorità valuta i rifiuti caso per caso conformemente alle prescrizioni della legislazione sulla protezione dell’ambiente e delle acque, con l’approvazione dell’UFAM.
 
-Allegato 4*[^t-2]*
+Allegato 4*[^t-3]*
 
 (art. 19 cpv. 3 e 24)
 
 ## Requisiti applicabili ai rifiuti impiegati per la fabbricazione di cemento e calcestruzzo
 
-[^t-2]: Aggiornato dal n. II dell’O del 12 feb. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)) e dal n. III dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^t-3]: Aggiornato dal n. II dell’O del 12 feb. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)) e dal n. III dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### 1 Utilizzo dei rifiuti come materia prima e come sostanza di correzione della farina cruda
 
@@ -1301,13 +1324,13 @@ Allegato 4*[^t-2]*
 - 4\.1 I detentori di impianti per la fabbricazione di clinker di cemento, cemento o calcestruzzo devono provare che sono soddisfatti i requisiti di cui ai numeri 1–3. In tale contesto, previa approvazione dell’autorità, possono limitare le analisi chimiche alle sostanze per le quali non è esclusa una contaminazione a causa del tipo e della provenienza dei rifiuti.
 - 4\.2 Se i rifiuti contengono sostanze pericolose per l’ambiente per le quali i numeri 1–3 non contemplano valori limite, previa approvazione dell’UFAM l’autorità li stabilisce per il singolo caso conformemente alle prescrizioni della legislazione sulla protezione dell’ambiente e delle acque.
 
-Allegato 5*[^t-3]*
+Allegato 5*[^t-4]*
 
-(art. 19 cpv. 3, 25 cpv. 1, 35 cpv. 1, 39 cpv. 2 e 40 cpv. 3)
+(art. 19 cpv. 3, 25 cpv. 1, 39 cpv. 2 e 40 cpv. 3)
 
 ## Requisiti applicabili ai rifiuti in vista del deposito definitivo
 
-[^t-3]: Aggiornato dalla correzione del 19 lug. 2016 ([RU 2016 2629](https://fedlex.data.admin.ch/eli/oc/2016/417)) e dal n.II dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)).
+[^t-4]: Aggiornato dalla correzione del 19 lug. 2016 ([RU 2016 2629](https://fedlex.data.admin.ch/eli/oc/2016/417)), dai n. II delle O del 21 set. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) e del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 ### 1 Rifiuti depositabili in discariche e compartimenti di tipo A
 
@@ -1332,9 +1355,9 @@ Allegato 5*[^t-3]*
   - b. il vetro piano e il vetro per imballaggi;
   - c. i rifiuti provenienti, dopo la cottura, dalla fabbricazione di prodotti di ceramica, mattoni, mattonelle e gres;
   - d. le scorie di forni elettrici derivanti dalla fabbricazione, posteriore al 1989, di acciai non legati o bassolegati;
-  - e. l’asfalto di demolizione con un tenore che non superi i 250 mg di PAH al kg;
+  - e. ...
   - f. i rifiuti minerali che contengono fibre di amianto legate;
-  - g. i rifiuti edili diversi da quelli di cui alle lettere a, e e f, costituiti per almeno il 95 per cento in peso da materiale sassoso o simile alle rocce, a condizione che le frazioni riciclabili siano precedentemente state rimosse secondo metodi conformi allo stato della tecnica.
+  - g. i rifiuti edili diversi da quelli di cui alle lettere a e f, costituiti per almeno il 95 per cento in peso da materiale sassoso o simile alle rocce, a condizione che le frazioni riciclabili siano precedentemente state rimosse secondo metodi conformi allo stato della tecnica; fa eccezione l’asfalto di demolizione.
 
 - 2\.2
 
@@ -1385,7 +1408,7 @@ Allegato 5*[^t-3]*
 <tr><td>Benzene</td><td>1</td></tr>
 <tr><td>Idrocarburi aromatici policiclici (PAH)\*\*\*\*\*</td><td>25</td></tr>
 <tr><td>Benzo(*a*)pirene</td><td>3</td></tr>
-<tr><td>Carbonio organico totale (COT)</td><td>20 000</td></tr>
+<tr><td>Carbonio organico totale liberato fino a 400 °C (COT400)</td><td>20 000</td></tr>
 <tr><td colspan="2">\* ∑7 HCFC: diclorometano, triclorometano, tetraclorometano, *cis*-1,2-dicloretilene, 1,1,1-tricloroetano, tricloroetilene (Tri), percloroetilene (Per)</td></tr>
 <tr><td colspan="2">\*\* ∑6 congeneri × 4,3 (n. IUPAC): 28, 52, 101, 138, 153, 180</td></tr>
 <tr><td colspan="2">\*\*\* ∑HC da C<sub>5</sub> a C<sub>10</sub>: superficie del cromatogramma FID tra *n*-pentano e *n*-decano, moltiplicata per il fattore di risposta dell’*n*-esano, meno ∑BTEX</td></tr>
@@ -1405,7 +1428,7 @@ Allegato 5*[^t-3]*
 <tr><td>Cianuro (libero)</td><td>0,02 mg CN/l</td></tr>
 </table>
 
-- 2\.4 Il valore limite di cui al numero 2.3 lettera b per il COT non si applica al materiale asportato dallo strato superiore e da quello inferiore del suolo se un superamento non è riconducibile ad attività antropiche.
+- 2\.4 Il valore limite di cui al numero 2.3 lettera b per il tenore di carbonio organico liberato fino a 400 °C non si applica al materiale asportato dallo strato superiore e da quello inferiore del suolo se un superamento non è riconducibile ad attività antropiche.
 
 ### 3 Rifiuti depositabili in discariche e compartimenti di tipo C
 
@@ -1462,8 +1485,8 @@ Test 2
 <tr><td>Valore pH</td><td>6–12</td></tr>
 </table>
 
-- 3\.3 Il tenore totale di policlorodibenzo[1,4]diossine (PCDD) e policlorodibenzofurani (PCDF) nei residui prodotti dalla depurazione dei fumi secondo il numero 3.1 lettere a e b non può superare 1 µg al kg. Il tenore è calcolato secondo metodi conformi allo stato della tecnica sulla base di fattori di tossicità equivalente (FTE).
-- 3\.4 Il contenuto organico dei rifiuti secondo il numero 3.1 lettere c e d non può superare i valori limiti seguenti (tenori totali):
+- 3\.3 Il tenore di diossine (PCDD) e furani (PCDF) nei residui prodotti dal trattamento termico dei rifiuti deve essere il minimo possibile secondo lo stato della tecnica e in ogni caso non può superare 1 μg di equivalenti di tossicità (TEQ) al kg. Il tenore è calcolato secondo metodi conformi allo stato della tecnica sulla base di fattori di tossicità equivalente (FTE).
+- 3\.4 Il contenuto organico dei rifiuti secondo il numero 3.1 lettere c–e non può superare i valori limite seguenti (tenori totali):
 
 <table>
 <tr><th>Sostanza</th><th colspan="2">Valori limite in mg/kg di sostanza secca</th></tr>
@@ -1475,7 +1498,7 @@ Test 2
 <tr><td>Benzene</td><td colspan="2">1</td></tr>
 <tr><td>Idrocarburi aromatici policiclici (PAH)\*\*\*\*\*</td><td colspan="2">25</td></tr>
 <tr><td>Benzo(*a*)pirene</td><td colspan="2">3</td></tr>
-<tr><td>Carbonio organico totale (COT)</td><td colspan="2">20 000</td></tr>
+<tr><td>Carbonio organico totale liberato fino a 400 °C (COT400)</td><td colspan="2">20 000</td></tr>
 <tr><td colspan="2">\*, \*\*, \*\*\*, \*\*\*\*, \*\*\*\*\* cfr. le spiegazioni al numero 2.3 lettera b</td><td></td></tr>
 </table>
 
@@ -1496,7 +1519,7 @@ Test 2
   - g. le ceneri di griglia e le ceneri residue derivanti dal trattamento termico di legna che secondo l’allegato 5 cifra 31 capoverso 2 OIAt non è considerata legna da ardere, con un tenore massimo di 20 000 mg COT al kg;
   - h. il materiale minerale non combustibile proveniente da parapalle.
 
-- 4\.2 Il tenore totale di PCDD e PCDF nelle ceneri dei filtri secondo il numero 4.1 lettere a ed e non può superare 1 µg al kg. Il tenore è calcolato, secondo metodi conformi allo stato della tecnica, sulla base di fattori di tossicità equivalente (FTE).
+- 4\.2 Il tenore di diossine (PCDD) e furani (PCDF) nei residui prodotti dal trattamento *termico* dei rifiuti deve essere il minimo possibile secondo lo stato della tecnica e in ogni caso non può superare 1 μg di equivalenti di tossicità (TEQ) al kg. Il tenore è calcolato, secondo metodi conformi allo stato della tecnica, sulla base di fattori di tossicità equivalente (FTE).
 - 4\.3
 
   Le scorie provenienti da impianti nei quali sono inceneriti i rifiuti urbani o i rifiuti di composizione analoga possono essere depositate in discariche o compartimenti di tipo D se:
@@ -1530,7 +1553,7 @@ Test 2
 <tr><td>Benzene</td><td colspan="2">1</td></tr>
 <tr><td>Idrocarburi aromatici policiclici (PAH)\*\*\*\*\*</td><td colspan="2">25</td></tr>
 <tr><td>Benzo(*a*)pirene</td><td colspan="2">3</td></tr>
-<tr><td>Carbonio organico totale (COT)</td><td colspan="2">20 000</td></tr>
+<tr><td>Carbonio organico totale liberato fino a 400 °C (COT400)</td><td colspan="2">20 000</td></tr>
 <tr><td colspan="2">\*, \*\*, \*\*\*, \*\*\*\*, \*\*\*\*\* cfr. le spiegazioni al numero 2.3 lettera b</td><td></td></tr>
 </table>
 
@@ -1556,7 +1579,7 @@ Test 2
 
   Nelle discariche e nei compartimenti di tipo E è ammesso depositare altri rifiuti se:
 
-  - a. non sono superati i valori limite seguenti (tenori totali):
+  - a. non superano i valori limite seguenti (tenori totali):
 
 <table>
 <tr><th>Sostanza</th><th colspan="2">Valori limite in mg/kg di sostanza secca</th></tr>
@@ -1578,7 +1601,7 @@ Test 2
 <tr><td>Benzene</td><td colspan="2">1</td></tr>
 <tr><td>Idrocarburi aromatici policiclici (PAH)\*\*\*\*\*</td><td colspan="2">250</td></tr>
 <tr><td>Benzo(*a*)pirene</td><td colspan="2">10</td></tr>
-<tr><td>Carbonio organico totale (COT)</td><td colspan="2">50 000</td></tr>
+<tr><td>Carbonio organico totale liberato fino a 400 °C (COT400)</td><td colspan="2">50 000</td></tr>
 <tr><td colspan="2">\*, \*\*, \*\*\*, \*\*\*\*, \*\*\*\*\* cfr. le spiegazioni al numero 2.3 lett. b</td><td></td></tr>
 </table>
 

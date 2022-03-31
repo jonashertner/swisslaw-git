@@ -4,11 +4,11 @@ title: "Verordnung vom 4. Dezember 2015 über die Vermeidung und die Entsorgung 
 short: VVEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: de
-version: 2022-01-01
+version: 2022-04-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2015-891-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2015-891-20220401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20220101/de"
 
 (Abfallverordnung, VVEA)
 
-vom 4. Dezember 2015 (Stand am 1. Januar 2022)
+vom 4. Dezember 2015 (Stand am 1. April 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -74,7 +74,7 @@ In dieser Verordnung bedeuten:
   - 3\. Quecksilber oder Quecksilberverbindungen, das oder die bei industriellen Prozessen nicht mehr benötigt wird oder werden;
 
 - g. *Abfallanlagen:* Anlagen, in denen Abfälle behandelt, verwertet, abgelagert oder zwischengelagert werden, ausgenommen sind Materialentnahmestellen, in denen Aushub- und Ausbruchmaterial verwertet wird;
-- h.[^3-5] ...
+- h.[^3-5] …
 - i. *Kompostierungsanlagen:* Abfallanlagen, in denen biogene Abfälle unter Luftzufuhr verrottet werden;
 - j.[^3-6] *Vergärungsanlagen:* Abfallanlagen, in denen biogene Abfälle unter Luftabschluss vergärt werden;
 - k. *Deponien:* Abfallanlagen, in denen Abfälle kontrolliert abgelagert werden;
@@ -107,13 +107,17 @@ Die Kantone erstellen für ihr Gebiet eine Abfallplanung. Sie umfasst insbesonde
 - b. die Massnahmen zur Verwertung von Abfällen;
 - c. den Bedarf an Anlagen zur Entsorgung von Siedlungsabfällen und anderen Abfällen, deren Entsorgung den Kantonen übertragen ist;
 - d. den Bedarf an Deponievolumen und die Standorte von Deponien (Deponieplanung);
-- e. die notwendigen Einzugsgebiete.
+- e. die notwendigen Einzugsgebiete;
+- f.[^4-1] die Massnahmen zur Nutzung des Energiegehalts der Abfälle aus deren thermischer Behandlung.
 
-<sup>2</sup> Die Kantone arbeiten bei der Abfallplanung insbesondere in den in Absatz 1 Buchstaben c–e genannten Bereichen zusammen und legen dafür nötigenfalls kantonsübergreifende Planungsregionen fest.
+<sup>2</sup> Die Kantone arbeiten bei der Abfallplanung insbesondere in den in Absatz 1 Buchstaben c–f genannten Bereichen zusammen und legen dafür nötigenfalls kantonsübergreifende Planungsregionen fest.[^4-2]
 
 <sup>3</sup> Sie überprüfen die Abfallplanung alle fünf Jahre und passen sie wenn nötig an.
 
 <sup>4</sup> Die Kantone übermitteln die Abfallplanung und die umfassenden Überarbeitungen dem Bundesamt für Umwelt (BAFU).
+
+[^4-1]: Eingefügt durch Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^4-2]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 #### Art. 5
 
@@ -131,22 +135,23 @@ Die Kantone erstellen für ihr Gebiet eine Abfallplanung. Sie umfasst insbesonde
 
 Die Kantone erstellen jährlich öffentlich zugängliche Verzeichnisse mit den nachfolgenden Angaben und stellen diese dem BAFU zu:
 
-- a. Mengen der in Anhang 1 genannten Abfallarten, die auf ihrem Gebiet entsorgt werden;
-- b.[^6-1] Anlagen zur Behandlung von Bauabfällen und Anlagen zur Behandlung von metallischen Abfällen auf ihrem Gebiet, in denen jährlich mehr als 1000 t Abfälle behandelt werden;
+- a. Mengen der in Anhang 1 genannten Abfallkategorien[^6-1], die auf ihrem Gebiet entsorgt werden;
+- b.[^6-2] Anlagen zur Behandlung von Bauabfällen und Anlagen zur Behandlung von metallischen Abfällen auf ihrem Gebiet, in denen jährlich mehr als 1000 t Abfälle behandelt werden;
 - c. übrige Abfallanlagen auf ihrem Gebiet, in denen jährlich mehr als 100 t Abfälle entsorgt werden.
 
-<sup>2</sup> Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation kann die Abfallarten nach Anhang 1 den technischen Entwicklungen anpassen.
+<sup>2</sup> Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation kann die Abfallkategorien nach Anhang 1 den technischen Entwicklungen anpassen.
 
 <sup>3</sup>
 
-Die Kantone erstatten dem BAFU auf Verlangen Bericht über Betrieb und Zustand der Deponien auf ihrem Gebiet.[^6-2] Der Bericht enthält insbesondere folgende Angaben:
+Die Kantone erstatten dem BAFU auf Verlangen Bericht über Betrieb und Zustand der Deponien auf ihrem Gebiet.[^6-3] Der Bericht enthält insbesondere folgende Angaben:
 
 - a. Menge und Art der abgelagerten Abfälle sowie Restvolumen bestehender Deponien;
 - b. bei neuen Deponien und Änderungen bestehender Deponiebauwerke: Nachweise, dass die Anlagen des Bauwerks die Anforderungen gemäss Anhang 2 Ziffer 2.1–2.4 erfüllen;
 - c. gegebenenfalls Massnahmen nach Artikel 53 Absatz 4 zur Verhinderung möglicher schädlicher oder lästiger Einwirkungen der Deponien auf die Umwelt.
 
-[^6-1]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^6-2]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Nov. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)).
+[^6-1]: Ausdruck gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)). Diese Änd. wurde im ganzen Erlass ausser in Art. 2 berücksichtigt.
+[^6-2]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^6-3]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Nov. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)).
 
 ## 3. Kapitel: Vermeidung, Verwertung und Ablagerung von Abfällen
 
@@ -168,9 +173,11 @@ Der Bund sorgt in Zusammenarbeit mit den Kantonen und den Organisationen der Arb
 
 #### Art. 9
 
-**Vermischungsverbot**
+**Vermischungsverbot**[^9-1]
 
-Abfälle dürfen nicht mit anderen Abfällen oder mit Zuschlagstoffen vermischt werden, wenn dies in erster Linie dazu dient, den Schadstoffgehalt der Abfälle durch Verdünnen herabzusetzen und dadurch Vorschriften über die Abgabe, die Verwertung oder die Ablagerung einzuhalten.
+Abfälle dürfen nicht mit anderen Abfällen oder mit Zuschlagstoffen vermischt werden, wenn dies in erster Linie dazu dient, den Schadstoff- oder Fremdstoffgehalt der Abfälle durch Verdünnen herabzusetzen und dadurch Vorschriften über die Abgabe, die Verwertung oder die Ablagerung einzuhalten.
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 #### Art. 10
 
@@ -424,7 +431,7 @@ Inhaberinnen und Inhaber von Abfallanlagen müssen:
 - b. die Abfälle bei der Entgegennahme kontrollieren und sicherstellen, dass nur zugelassene Abfälle in den Anlagen entsorgt werden;
 - c. die in den Anlagen entstehenden Rückstände umweltverträglich entsorgen;
 - d. sicherstellen, dass der Energiegehalt der Abfälle bei deren Entsorgung so weit wie möglich genutzt wird;
-- e.[^27-2] ein Verzeichnis über die angenommenen Mengen der in Anhang 1 genannten Abfallarten mit Angabe der Herkunft sowie die in den Anlagen entstehenden Rückstände und Emissionen führen und das Verzeichnis der Behörde jährlich zustellen; davon ausgenommen sind Zwischenlager nach den Artikeln 29 und 30;
+- e.[^27-2] ein Verzeichnis über die angenommenen Mengen der in Anhang 1 genannten Abfallkategorien mit Angabe der Herkunft sowie die in den Anlagen entstehenden Rückstände und Emissionen führen und das Verzeichnis der Behörde jährlich zustellen; davon ausgenommen sind Zwischenlager nach den Artikeln 29 und 30;
 - f. sicherstellen, dass sie selber und das Personal über die erforderlichen Fachkenntnisse für den fachgerechten Betrieb der Anlagen verfügen und der Behörde auf deren Verlangen die entsprechenden Aus- und Weiterbildungszeugnisse vorweisen;
 - g. die Anlagen regelmässig kontrollieren und warten und insbesondere durch Emissionsmessungen prüfen, ob die Anforderungen der Umwelt- und Gewässerschutzgesetzgebung eingehalten werden;
 - h. bei mobilen Anlagen sicherstellen, dass nur die am jeweiligen Einsatzort anfallenden Abfälle behandelt werden.
@@ -465,7 +472,7 @@ Inhaberinnen und Inhaber von Abfallanlagen müssen:
 <sup>2</sup> Auf Deponien der Typen C-E und bei Anlagen zur thermischen Behandlung dürfen zu Ballen gepresste gär- und fäulnisfähige Abfälle zwischengelagert werden.[^30-2]
 
 - [tab] <sup>3</sup> Die kantonale Behörde kann von den Inhaberinnen und Inhabern eines Zwischenlagers zum Zweck der Sicherstellung der Kosten im Schadensfall eine Sicherheitsleistung in Form einer Bankgarantie oder einer Versicherung einfordern.[^30-3]
-- [tab] <sup>4</sup> ...[^30-4]
+- [tab] <sup>4</sup> …[^30-4]
 
 [^30-1]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 [^30-2]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
@@ -478,12 +485,15 @@ Inhaberinnen und Inhaber von Abfallanlagen müssen:
 
 **Errichtung**
 
-Anlagen zur thermischen Behandlung von Abfällen dürfen errichtet werden, wenn die baulichen Einrichtungen gewährleisten, dass:
+Anlagen zur thermischen Behandlung von Abfällen dürfen errichtet oder in ihrer Kapazität erweitert werden, wenn die baulichen Einrichtungen gewährleisten, dass:[^31-1]
 
 - a. keine diffusen Abgase austreten;
-- b.[^31-1] bei Anlagen, in denen flüssige Abfälle mit einem Flammpunkt unter 60 °C und infektiöse Sonderabfälle behandelt werden, solche Abfälle getrennt von den anderen Abfällen und möglichst direkt in den Raum, in dem die thermische Behandlung stattfindet, eingebracht werden können.
+- b.[^31-2] bei Anlagen, in denen flüssige Abfälle mit einem Flammpunkt unter 60 °C und infektiöse Sonderabfälle behandelt werden, solche Abfälle getrennt von den anderen Abfällen und möglichst direkt in den Raum, in dem die thermische Behandlung stattfindet, eingebracht werden können;
+- c.[^31-3] bei Anlagen, in denen Siedlungsabfälle oder Abfälle vergleichbarer Zusammensetzung verbrannt werden, mindestens 80 Prozent des Energiegehalts ausserhalb der Anlagen genutzt wird; die Nutzung von Energie zur Abscheidung von CO<sub>2</sub> aus dem Rauchgas gilt als Nutzung ausserhalb der Anlagen.
 
-[^31-1]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^31-1]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^31-2]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^31-3]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 #### Art. 32
 
@@ -495,16 +505,17 @@ Anlagen zur thermischen Behandlung von Abfällen dürfen errichtet werden, wenn 
 
 Inhaberinnen und Inhaber von Anlagen müssen diese so betreiben, dass:
 
-- a. von Siedlungsabfällen und Abfällen vergleichbarer Zusammensetzung mindestens 55 Prozent des Energiegehalts ausserhalb der Anlagen genutzt wird;
+- a.[^32-1] von Siedlungsabfällen und Abfällen vergleichbarer Zusammensetzung mindestens 55 Prozent des Energiegehalts ausserhalb der Anlagen genutzt wird; die Nutzung von Energie zur Abscheidung von CO<sub>2</sub> aus dem Rauchgas gilt als Nutzung ausserhalb der Anlagen;
 - b. halogenierte organische Verbindungen bei der Behandlung möglichst vollständig zersetzt und nur minimal neu gebildet werden;
-- c.[^32-1] Sonderabfälle, die mehr als ein Gewichtsprozent organisch gebundene Halogene enthalten, bei einer Mindesttemperatur von 1100 °C während mindestens 2 Sekunden behandelt werden; die Behörde kann andere Mindesttemperaturen und Verweilzeiten zulassen, wenn nachgewiesen wird, dass dadurch nicht mehr Verbrennungsrückstände entstehen und diese keine höheren Gehalte an organischen Schadstoffen wie PAK, PCDD, PCDF, PCB enthalten;
-- d.[^32-2] flüssige Abfälle mit einem Flammpunkt unter 60 °C und infektiöse Sonderabfälle getrennt von den anderen Abfällen und möglichst direkt in den Raum, in dem die thermische Behandlung stattfindet, eingebracht werden;
+- c.[^32-2] Sonderabfälle, die mehr als ein Gewichtsprozent organisch gebundene Halogene enthalten, bei einer Mindesttemperatur von 1100 °C während mindestens 2 Sekunden behandelt werden; die Behörde kann andere Mindesttemperaturen und Verweilzeiten zulassen, wenn nachgewiesen wird, dass dadurch nicht mehr Verbrennungsrückstände entstehen und diese keine höheren Gehalte an organischen Schadstoffen wie PAK, PCDD, PCDF, PCB enthalten;
+- d.[^32-3] flüssige Abfälle mit einem Flammpunkt unter 60 °C und infektiöse Sonderabfälle getrennt von den anderen Abfällen und möglichst direkt in den Raum, in dem die thermische Behandlung stattfindet, eingebracht werden;
 - e. die Schlacke höchstens zwei Gewichtsprozent unverbrannte Anteile, gemessen als gesamter organischer Kohlenstoff (TOC), enthält;
 - f. im Falle einer Betriebsstörung alle Abfälle, die sich im Raum der thermischen Behandlung befinden, fertig behandelt werden;
 - g. bei Anlagen, in denen Siedlungsabfälle oder Abfälle vergleichbarer Zusammensetzung verbrannt werden, Metalle aus der Filterasche zurückgewonnen werden.
 
-[^32-1]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^32-1]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 [^32-2]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^32-3]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 
 ### 4. Abschnitt: Kompostierungs- und Vergärungsanlagen
 
@@ -736,7 +747,7 @@ Das BAFU erarbeitet zur Anwendung dieser Verordnung, insbesondere zum Stand der 
 
 Die Technische Verordnung vom 10. Dezember 1990[^47-1] über Abfälle wird aufgehoben.
 
-[^47-1]: [[AS 1991 169](https://fedlex.data.admin.ch/eli/oc/1991/169_169_169)[628](https://fedlex.data.admin.ch/eli/oc/1991/628_628_628), [1993 3022](https://fedlex.data.admin.ch/eli/oc/1993/3022_3022_3022)Ziff. IV 4, [1996 905](https://fedlex.data.admin.ch/eli/oc/1996/905_905_905), [1998 2261](https://fedlex.data.admin.ch/eli/oc/1998/2261_2261_2261)Art. 26, [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)Ziff. II 15, [2004 3079](https://fedlex.data.admin.ch/eli/oc/2004/399)Art. 43 Abs. 2 Ziff. 2, [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 11 [4199](https://fedlex.data.admin.ch/eli/oc/2005/551)Anhang 3 Ziff. II 6, [2007 2929](https://fedlex.data.admin.ch/eli/oc/2007/389)[4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 32, [2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)Anhang 2 Ziff. 10 [4771](https://fedlex.data.admin.ch/eli/oc/2008/670)Anhang Ziff. II 1, [2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)Ziff. II, III, [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 1]
+[^47-1]: [[AS 1991 169](https://fedlex.data.admin.ch/eli/oc/1991/169_169_169), [628](https://fedlex.data.admin.ch/eli/oc/1991/628_628_628); [1993 3022](https://fedlex.data.admin.ch/eli/oc/1993/3022_3022_3022)Ziff. IV 4; [1996 905](https://fedlex.data.admin.ch/eli/oc/1996/905_905_905); [1998 2261](https://fedlex.data.admin.ch/eli/oc/1998/2261_2261_2261)Art. 26; [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)Ziff. II 15; [2004 3079](https://fedlex.data.admin.ch/eli/oc/2004/399)Art. 43 Abs. 2 Ziff. 2; [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 11, [4199](https://fedlex.data.admin.ch/eli/oc/2005/551)Anhang 3 Ziff. II 6; [2007 2929](https://fedlex.data.admin.ch/eli/oc/2007/389), [4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 32; [2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)Anhang 2 Ziff. 10, [4771](https://fedlex.data.admin.ch/eli/oc/2008/670)Anhang Ziff. II 1; [2009 6259](https://fedlex.data.admin.ch/eli/oc/2009/764)Ziff. II und III; **2011** 2699 Anhang 8 Ziff. II 1]
 
 #### Art. 48
 
@@ -779,16 +790,29 @@ Ausbauasphalt mit einem Gehalt von mehr als 250 mg PAK pro kg darf im Rahmen von
 - a. der Ausbauasphalt höchstens 1000 mg PAK pro kg enthält und in geeigneten Anlagen so mit anderem Material vermischt wird, dass er bei der Verwertung höchstens 250 mg PAK pro kg enthält; oder
 - b. der Ausbauasphalt mit Zustimmung der kantonalen Behörde so verwendet wird, dass keine Emissionen von PAK entstehen. Die kantonale Behörde erfasst den genauen Gehalt an PAK im Ausbauasphalt sowie den Standort der Verwertung und bewahrt die Informationen während mindestens 25 Jahren auf.
 
-<sup>2</sup> Ausbauasphalt mit einem Gehalt von mehr als 250 mg PAK pro kg darf bis zum 31. Dezember 2025 auf einer Deponie des Typs E abgelagert werden.
+<sup>2</sup> Ausbauasphalt mit einem Gehalt von mehr als 250 mg PAK pro kg darf bis zum 31. Dezember 2027 auf einer Deponie des Typs E abgelagert werden.[^52-1]
+
+<sup>3</sup> Ausbauasphalt mit einem Gehalt von bis zu 250 mg PAK pro kg darf bis zum 31. Dezember 2027 auf einer Deponie des Typs B abgelagert werden.[^52-2]
+
+[^52-1]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^52-2]: Eingefügt durch Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 #### Art. 52a
 
 **Holzasche**[^52a-1]
 
-Filteraschen und -stäube aus der thermischen Behandlung von Holz, welches gemäss Anhang 5 Ziffer 31 Absatz 2 Luftreinhalte-Verordnung vom 16. Dezember 1985[^52a-2] (LRV) nicht als Holzbrennstoff gilt, dürfen bis 1. November 2023 auf Deponien der Typen D und E (Anhang 5 Ziff. 4.1 und 5.1) abgelagert werden.
+Filteraschen und -stäube aus der thermischen Behandlung von Holz, welches gemäss Anhang 5 Ziffer 31 Absatz 2 der Luftreinhalte-Verordnung vom 16. Dezember 1985[^52a-2] (LRV) nicht als Holzbrennstoff gilt, dürfen bis 31. Dezember 2025auf Deponien der Typen D und E (Anhang 5 Ziffer 4.1 und 5.1) abgelagert werden.
 
-[^52a-1]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Nov. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)).
+[^52a-1]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)). Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 [^52a-2]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+
+#### Art. 52b
+
+**Dioxine und Furane**[^52b-1]
+
+Rückstände aus der thermischen Behandlung von Abfällen sollen so wenig an Dioxinen (PCDD) und Furanen (PCDF) enthalten, als nach dem Stand der Technik möglich ist (Anhang 5 Ziffern 3.3 und 4.2). Bis zum 31. Dezember 2026 dürfen sie höchstens 3 μg Toxizitätsäquivalente (TEQ) pro kg enthalten.
+
+[^52b-1]: Eingefügt durch Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 #### Art. 53
 
@@ -828,13 +852,13 @@ Anhang 1*[^t-1]*
 
 (Art. 6 Abs. 1 und 27 Abs. 1)
 
-## Abfallarten
+## Abfallkategorien
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 21. Sept. 2018, in Kraft seit 1. Nov. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 21. Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) und vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 <table>
 <tr><th>Code</th><th>Abfallbeschreibung</th></tr>
-<tr><td></td><td>**Klasse 1: Chemische Abfälle**</td></tr>
+<tr><td></td><td>**Kategorie 1: Chemische Abfälle**</td></tr>
 <tr><td>1101</td><td>Nicht halogenierte Lösungsmittel</td></tr>
 <tr><td>1102</td><td>Halogenierte Lösungsmittel</td></tr>
 <tr><td>1103</td><td>Chemische Reaktionsrückstände</td></tr>
@@ -857,20 +881,20 @@ Anhang 1*[^t-1]*
 <tr><td>1120</td><td>Biozide, Holzschutzmittel und ähnliche Chemikalien</td></tr>
 <tr><td>1121</td><td>Andere chemische Sonderabfälle</td></tr>
 <tr><td>1301</td><td>Nach VeVA nicht kontrollpflichtige chemische Abfälle</td></tr>
-<tr><td></td><td>**Klasse 2: Medizinische Abfälle**</td></tr>
+<tr><td></td><td>**Kategorie 2: Medizinische Abfälle**</td></tr>
 <tr><td>2101</td><td>Kontaminationsgefährliche und infektiöse Abfälle</td></tr>
 <tr><td>2102</td><td>Altmedikamente und feste pharmazeutische Abfälle</td></tr>
 <tr><td>2103</td><td>Medizinische Abfälle mit Verletzungsgefahr</td></tr>
 <tr><td>2104</td><td>Nicht infektiöse Abfälle aus der Medizin</td></tr>
 <tr><td>2301</td><td>Nach VeVA nicht kontrollpflichtige medizinische Abfälle</td></tr>
-<tr><td></td><td>**Klasse 3: Metallische Abfälle**</td></tr>
+<tr><td></td><td>**Kategorie 3: Metallische Abfälle**</td></tr>
 <tr><td>3101</td><td>Altkabel, die gefährliche Stoffe enthalten</td></tr>
 <tr><td>3102</td><td>Andere metallische Sonderabfälle</td></tr>
 <tr><td>3201</td><td>Altkabel</td></tr>
 <tr><td>3202</td><td>Schrottschutt und Wagenwischgut</td></tr>
 <tr><td>3301</td><td>Metalle aus kommunalen und übrigen Sammlungen</td></tr>
 <tr><td>3302</td><td>Nach VeVA nicht kontrollpflichtige metallische Abfälle</td></tr>
-<tr><td></td><td>**Klasse 4: Mineralische Abfälle**</td></tr>
+<tr><td></td><td>**Kategorie 4: Mineralische Abfälle**</td></tr>
 <tr><td>4101</td><td>Durch gefährliche Stoffe verschmutztes Aushubmaterial</td></tr>
 <tr><td>4102</td><td>Ausbauasphalt mit einem Gehalt von mehr als 1000 mg PAK pro kg</td></tr>
 <tr><td>4103</td><td>Gemischte Bauabfälle, die gefährliche Stoffe enthalten</td></tr>
@@ -892,7 +916,7 @@ Anhang 1*[^t-1]*
 <tr><td>4309</td><td>Glasabfälle aus kommunalen und übrigen Sammlungen</td></tr>
 <tr><td>4310</td><td>Andere nach VeVA nicht kontrollpflichtige Glasabfälle</td></tr>
 <tr><td>4311</td><td>Andere nach VeVA nicht kontrollpflichtige mineralische Abfälle</td></tr>
-<tr><td></td><td>**Klasse 5: Anlagen, Maschinen, Fahrzeuge und Zubehör sowie Elektro- und Elektronikgeräte**</td></tr>
+<tr><td></td><td>**Kategorie 5: Anlagen, Maschinen, Fahrzeuge und Zubehör sowie Elektro- und Elektronikgeräte**</td></tr>
 <tr><td>5101</td><td>Bleibatterien und Bleiakkumulatoren</td></tr>
 <tr><td>5102</td><td>Andere Batterien und Akkumulatoren</td></tr>
 <tr><td>5103</td><td>PCB-haltige Bestandteile aus Elektro-/Elektronikgeräten</td></tr>
@@ -903,7 +927,7 @@ Anhang 1*[^t-1]*
 <tr><td>5203</td><td>Elektro-/Elektronikgeräte, die teil- oder vollhalogenierte Fluorchlorkohlenwasserstoffe (FCKW) enthalten</td></tr>
 <tr><td>5204</td><td>Andere Elektro-/Elektronikgeräte und Bestandteile</td></tr>
 <tr><td>5301</td><td>Nach VeVA nicht kontrollpflichtige Bestandteile aus gebrauchten Elektro-/ Elektronikgeräten</td></tr>
-<tr><td></td><td>**Klasse 6: Biogene Abfälle**</td></tr>
+<tr><td></td><td>**Kategorie 6: Biogene Abfälle**</td></tr>
 <tr><td>6101</td><td>problematische Holzabfälle</td></tr>
 <tr><td>6201</td><td>Speiseöle und –fette ohne diejenigen, die aus kommunalen Sammlungen stammen</td></tr>
 <tr><td>6202</td><td>Altholz</td></tr>
@@ -911,7 +935,7 @@ Anhang 1*[^t-1]*
 <tr><td>6302</td><td>Restholz</td></tr>
 <tr><td>6303</td><td>Biogene Abfälle aus kommunalen und übrigen Sammlungen</td></tr>
 <tr><td>6304</td><td>Biogene Abfälle aus Landwirtschaft, Industrie und Gewerbe</td></tr>
-<tr><td></td><td>**Klasse 7: Schlämme und Behandlungsrückstände**</td></tr>
+<tr><td></td><td>**Kategorie 7: Schlämme und Behandlungsrückstände**</td></tr>
 <tr><td>7101</td><td>Schlacken und Aschen</td></tr>
 <tr><td>7102</td><td>Rauchgasreinigungs-Rückstände</td></tr>
 <tr><td>7103</td><td>Brennbare Leichtfraktion aus der Zerkleinerung metallhaltiger Abfälle</td></tr>
@@ -925,7 +949,7 @@ Anhang 1*[^t-1]*
 <tr><td>7302</td><td>Nach VeVA nicht kontrollpflichtige Schlämme und Behandlungsrückstände</td></tr>
 <tr><td>7303</td><td>Brennbare Schlämme und Behandlungsrückstände</td></tr>
 <tr><td>7304</td><td>Feinmaterial aus der Bauschuttaufbereitung</td></tr>
-<tr><td></td><td>**Klasse 8: Weitere Abfallarten**</td></tr>
+<tr><td></td><td>**Kategorie 8: Weitere Abfallkategorien**</td></tr>
 <tr><td>8101</td><td>Sonderabfälle aus der kommunalen Sammlung</td></tr>
 <tr><td>8301</td><td>Strassenwischgut</td></tr>
 <tr><td>8302</td><td>Brandschutt</td></tr>
@@ -1053,11 +1077,13 @@ Anhang 2
 - 2\.5.2 Für das oberste Drittel der abdichtenden Massnahmen und die Entwässerungsschicht darf nur Material verwendet werden, das die Anforderungen nach Anhang 3 Ziffer 1 einhält. Für darunterliegende Schichten von abdichtenden Massnahmen darf Material verwendet werden, das die Anforderungen zur Ablagerung auf dem entsprechenden Deponietyp erfüllt und sich für die Massnahme bautechnisch eignet.
 - 2\.5.3 Werden Massnahmen zur Verhinderung möglicher schädlicher oder lästiger Einwirkungen von Deponien auf die Umwelt getroffen, so muss für den endgültigen Oberflächenabschluss die Umsetzung der Massnahmen abgewartet werden, soweit dies für die Sicherstellung der Stabilität des Oberflächenabschlusses notwendig ist. Bis dahin muss Erosion mit geeigneten Massnahmen verhindert werden.
 
-Anhang 3
+Anhang 3*[^t-2]*
 
 (Art. 17 Abs. 1 und 19)
 
 ## Anforderungen an Aushub- und Ausbruchmaterial
+
+[^t-2]: Bereinigt gemäss Ziff. II der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 - 1
 
@@ -1068,7 +1094,7 @@ Anhang 3
   - c. die in ihm enthaltenen Stoffe die nachfolgenden Grenzwerte (Gesamtgehalte) nicht überschreiten oder eine Überschreitung nicht auf menschliche Tätigkeiten zurückzuführen ist:
 
 <table>
-<tr><td>Stoff</td><td>Grenzwert in mg/kg Trockensubstanz</td></tr>
+<tr><th>Stoff</th><th>Grenzwert in mg/kg Trockensubstanz</th></tr>
 <tr><td>Antimon</td><td>3</td></tr>
 <tr><td>Arsen</td><td>15</td></tr>
 <tr><td>Blei</td><td>50</td></tr>
@@ -1104,7 +1130,7 @@ Anhang 3
   - c. die in ihm enthaltenen Stoffe die nachfolgenden Grenzwerte (Gesamtgehalte) nicht überschreiten oder eine Überschreitung nicht auf menschliche Tätigkeiten zurückzuführen ist:
 
 <table>
-<tr><td>Stoff</td><td>Grenzwert in mg/kg Trockensubstanz</td></tr>
+<tr><th>Stoff</th><th>Grenzwert in mg/kg Trockensubstanz</th></tr>
 <tr><td>Antimon</td><td>15</td></tr>
 <tr><td>Arsen</td><td>15</td></tr>
 <tr><td>Blei</td><td>250</td></tr>
@@ -1123,19 +1149,19 @@ Anhang 3
 <tr><td>Benzol</td><td>0,5</td></tr>
 <tr><td>Polycyclische aromatische Kohlenwasserstoffe (PAK)\*\*\*\*\*</td><td>12,5</td></tr>
 <tr><td>Benzo[*a*]pyren</td><td>1,5</td></tr>
-<tr><td>Gesamter organischer Kohlenstoff (TOC)</td><td>10 000</td></tr>
+<tr><td>Gesamter organischer Kohlenstoff, der bis 400 °C freigesetzt wird (TOC400)</td><td>10 000</td></tr>
 <tr><td colspan="2">\*, \*\*, \*\*\*, \*\*\*\*, \*\*\*\*\* gemäss Erläuterungen zu Ziffer 1 Buchstabe c</td></tr>
 </table>
 
 - 3 Sind für Stoffe, die im Aushub- und Ausbruchmaterial festgestellt werden, keine Grenzwerte festgelegt, so beurteilt die Behörde die Abfälle mit Zustimmung des BAFU im Einzelfall nach den Vorschriften der Umwelt- und Gewässerschutzgesetzgebung.
 
-Anhang 4*[^t-2]*
+Anhang 4*[^t-3]*
 
 (Art. 19 Abs. 3 und 24)
 
 ## Anforderungen an Abfälle für die Herstellung von Zement und Beton
 
-[^t-2]: Bereinigt gemäss Ziff. II der V vom 12. Febr. 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)) und Ziff. III der V vom 20. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^t-3]: Bereinigt gemäss Ziff. II der V vom 12. Febr. 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)) und Ziff. III der V vom 20. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### 1 Verwendung von Abfällen als Rohmaterial und Rohmehlkorrekturstoffe
 
@@ -1302,13 +1328,13 @@ Anhang 4*[^t-2]*
 - 4\.1 Inhaberinnen und Inhaber von Anlagen zur Herstellung von Klinker, Zement oder Beton müssen nachweisen, dass die Anforderungen nach den Ziffern 1–3 eingehalten werden. Dabei können sie mit Zustimmung der Behörde die chemischen Analysen auf diejenigen Stoffe beschränken, bei denen aufgrund der Art und Herkunft der Abfälle mit einer Belastung zu rechnen ist.
 - 4\.2 Enthalten Abfälle umweltgefährdende Stoffe, für welche die Ziffern 1–3 keine Grenzwerte enthalten, legt die Behörde solche mit Zustimmung des BAFU im Einzelfall nach den Vorschriften der Umwelt- und Gewässerschutzgesetzgebung fest.
 
-Anhang 5*[^t-3]*
+Anhang 5*[^t-4]*
 
-(Art. 19 Abs. 3, 25 Abs. 1, 35 Abs. 1, 39 Abs. 2 und 40 Abs. 3)
+(Art. 19 Abs. 3, 25 Abs. 1, 39 Abs. 2 und 40 Abs. 3)
 
 ## Anforderungen an Abfälle zur Ablagerung
 
-[^t-3]: Bereinigt gemäss Ziff. II der V vom 21. Sept. 2018, in Kraft seit 1. Nov. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)).
+[^t-4]: Bereinigt gemäss Ziff. II der V vom 21. Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) und vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 ### 1 Auf Typ A zugelassene Abfälle
 
@@ -1333,9 +1359,9 @@ Anhang 5*[^t-3]*
   - b. Flachglas und Verpackungsglas;
   - c. Abfälle, die bei der Herstellung von Keramikerzeugnissen, Ziegeln, Fliesen und Steingut nach dem Brennen anfallen;
   - d. Elektroofenschlacke, die aus der Herstellung von un- oder niedriglegierten Stählen nach 1989 stammt;
-  - e. Ausbauasphalt mit einem Gehalt bis zu 250 mg PAK pro kg;
+  - e. …
   - f. mineralische Abfälle mit gebundenen Asbestfasern;
-  - g. andere als in den Buchstaben a, e und f genannte Bauabfälle, die mindestens zu 95 Gewichtsprozent aus Steinen oder gesteinsähnlichen Bestandteilen bestehen, sofern stofflich verwertbare Anteile vorgängig entfernt wurden.
+  - g. andere als in den Buchstaben a und f genannte Bauabfälle, die mindestens zu 95 Gewichtsprozent aus Steinen oder gesteinsähnlichen Bestandteilen bestehen, sofern stofflich verwertbare Anteile vorgängig entfernt wurden; ausgenommen ist Ausbauasphalt.
 
 - 2\.2
 
@@ -1386,7 +1412,7 @@ Anhang 5*[^t-3]*
 <tr><td>Benzol</td><td>1</td></tr>
 <tr><td>Polycyclische aromatische Kohlenwasserstoffe (PAK)\*\*\*\*\*</td><td>25</td></tr>
 <tr><td>Benzo(*a*)pyren</td><td>3</td></tr>
-<tr><td>Gesamter organischer Kohlenstoff (TOC)</td><td>20 000</td></tr>
+<tr><td>Gesamter organischer Kohlenstoff, der bis 400 °C freigesetzt wird (TOC400)</td><td>20 000</td></tr>
 <tr><td colspan="2">\* ∑7 LCKW: Dichlormethan, Trichlormethan, Tetrachlormethan, *cis*-1,2-Dichlorethylen, 1,1,1-Trichlorethan, Trichlorethylen (Tri), Perchlorethylen (Per)</td></tr>
 <tr><td colspan="2">\*\* ∑6 Kongenere x 4.3 (IUPAC-Nr.): 28, 52, 101, 138, 153, 180</td></tr>
 <tr><td colspan="2">\*\*\* ∑C<sub>5</sub>- bis C<sub>10</sub>-KW: Fläche FID-Chromatogramm zwischen *n*-Pentan und *n*-Decan, multipliziert mit dem Response Faktor von *n*-Hexan, minus ∑BTEX</td></tr>
@@ -1406,7 +1432,7 @@ Anhang 5*[^t-3]*
 <tr><td>Cyanid (frei)</td><td>0,02 mg CN/L</td></tr>
 </table>
 
-- 2\.4 Der Grenzwert von Ziffer 2.3 Buchstabe b für TOC gilt nicht für abgetragenen Ober- und Unterboden, wenn eine Überschreitung nicht auf menschliche Tätigkeiten zurückzuführen ist.
+- 2\.4 Der Grenzwert von Ziffer 2.3 Buchstabe b für den Gehalt an organischem Kohlenstoff, der bis 400 °C freigesetzt wird, gilt nicht für abgetragenen Ober- und Unterboden, wenn eine Überschreitung nicht auf menschliche Tätigkeiten zurückzuführen ist.
 
 ### 3 Auf Typ C zugelassene Abfälle
 
@@ -1463,7 +1489,7 @@ Test 2
 <tr><td>pH-Wert</td><td>6 bis 12</td></tr>
 </table>
 
-- 3\.3 Der Gesamtgehalt an polychlorierten Dibenzo[1,4]dioxinen (PCDD) und polychlorierten Dibenzofuranen (PCDF) darf in Rauchgasreinigungsrückständen nach Ziffer 3.1 Buchstaben a und b 1 µg pro kg nicht überschreiten. Die Berechnung des Gehalts erfolgt aufgrund von Toxizitätsäquivalenzfaktoren (TEF) nach dem Stand der Technik.
+- 3\.3 Rückstände aus der thermischen Behandlung von Abfällen sollen so wenig an Dioxinen (PCDD) und Furanen (PCDF) enthalten, als nach dem Stand der Technik möglich ist, höchstens aber 1 μg Toxizitätsäquivalente (TEQ) pro kg. Die Berechnung des Gehalts erfolgt aufgrund von Toxizitätsäquivalenzfaktoren (TEF) nach dem Stand der Technik.
 - 3\.4 Der Organikagehalt der Abfälle nach Ziffer 3.1 Buchstaben c–e darf die folgenden Grenzwerte (Gesamtgehalte) nicht überschreiten:
 
 <table>
@@ -1476,7 +1502,7 @@ Test 2
 <tr><td>Benzol</td><td colspan="2">1</td></tr>
 <tr><td>Polycyclische aromatische Kohlenwasserstoffe (PAK)\*\*\*\*\*</td><td colspan="2">25</td></tr>
 <tr><td>Benzo(*a*)pyren</td><td colspan="2">3</td></tr>
-<tr><td>Gesamter organischer Kohlenstoff (TOC)</td><td colspan="2">20 000</td></tr>
+<tr><td>Gesamter organischer Kohlenstoff, der bis 400 °C freigesetzt wird (TOC400)</td><td colspan="2">20 000</td></tr>
 <tr><td colspan="2">\*, \*\*, \*\*\*, \*\*\*\*, \*\*\*\*\* gemäss Erläuterungen zu Ziffer 2.3 Buchstabe b</td><td></td></tr>
 </table>
 
@@ -1497,7 +1523,7 @@ Test 2
   - g. Bett- und Rostaschen aus der thermischen Behandlung von Holz, welches gemäss Anhang 5 Ziffer 31 Absatz 2 LRV nicht als Holzbrennstoff gilt, mit einem Gehalt von höchstens 20 000 mg TOC pro kg;
   - h. nicht brennbares, mineralisches Kugelfangmaterial.
 
-- 4\.2 Der Gesamtgehalt an PCDD und PCDF darf in Filterasche nach Ziffer 4.1 Buchstaben a und e 1 µg pro kg nicht überschreiten. Die Berechnung des Gehalts erfolgt aufgrund von Toxizitätsäquivalenzfaktoren (TEF) nach dem Stand der Technik.
+- 4\.2 Rückstände aus der thermischen Behandlung von Abfällen sollen so wenig an Dioxinen (PCDD) und Furanen (PCDF) enthalten, als nach dem Stand der Technik möglich ist, höchstens aber 1μg Toxizitätsäquivalente (TEQ) pro kg. Die Berechnung des Gehalts erfolgt aufgrund von Toxizitätsäquivalenzfaktoren (TEF) nach dem Stand der Technik.
 - 4\.3
 
   Schlacke aus Anlagen, in denen Siedlungsabfälle oder Abfälle vergleichbarer Zusammensetzung verbrannt werden, darf auf Deponien oder Kompartimenten des Typs D abgelagert werden, wenn:
@@ -1531,7 +1557,7 @@ Test 2
 <tr><td>Benzol</td><td colspan="2">1</td></tr>
 <tr><td>Polycyclische aromatische Kohlenwasserstoffe (PAK)\*\*\*\*\*</td><td colspan="2">25</td></tr>
 <tr><td>Benzo(*a)*pyren</td><td colspan="2">3</td></tr>
-<tr><td>Gesamter organischer Kohlenstoff (TOC)</td><td colspan="2">20 000</td></tr>
+<tr><td>Gesamter organischer Kohlenstoff, der bis 400 °C freigesetzt wird (TOC400)</td><td colspan="2">20 000</td></tr>
 <tr><td colspan="2">\*, \*\*, \*\*\*, \*\*\*\*, \*\*\*\*\* gemäss Erläuterungen zu Ziffer 2.3 Buchstabe b</td><td></td></tr>
 </table>
 
@@ -1579,7 +1605,7 @@ Test 2
 <tr><td>Benzol</td><td colspan="2">1</td></tr>
 <tr><td>Polycyclische aromatische Kohlenwasserstoffe (PAK)\*\*\*\*\*</td><td colspan="2">250</td></tr>
 <tr><td>Benzo(*a*)pyren</td><td colspan="2">10</td></tr>
-<tr><td>Gesamter organischer Kohlenstoff (TOC)</td><td colspan="2">50 000</td></tr>
+<tr><td>Gesamter organischer Kohlenstoff, der bis 400 °C freigesetzt wird (TOC400)</td><td colspan="2">50 000</td></tr>
 <tr><td colspan="2">\*, \*\*, \*\*\*, \*\*\*\*, \*\*\*\*\* gemäss Erläuterungen zu Ziffer 2.3 Buchstabe b</td><td></td></tr>
 </table>
 
@@ -1602,6 +1628,6 @@ Anhang 6
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annex6-lvlu1-1]
+…[^annex6-lvlu1-1]
 
 [^annex6-lvlu1-1]: Die Änderungen können unter [AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)konsultiert werden.

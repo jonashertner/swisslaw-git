@@ -4,11 +4,11 @@ title: "Ordonnance du 4 décembre 2015 sur la limitation et l'élimination des d
 short: OLED
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: fr
-version: 2022-01-01
+version: 2022-04-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-891-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2015-891-20220401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20220401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20220101/fr"
 
 (Ordonnance sur les déchets, OLED)
 
-du 4 décembre 2015 (Etat le 1<sup>er</sup> janvier 2022)
+du 4 décembre 2015 (Etat le 1<sup>er</sup> avril 2022)
 
 Le Conseil fédéral suisse,
 
@@ -106,13 +106,17 @@ Les cantons établissent pour leur territoire un plan de gestion des déchets. C
 - b. les mesures visant à valoriser les déchets*;*
 - c. les besoins en installations pour l’élimination des déchets urbains et d’autres déchets dont l’élimination est confiée aux cantons;
 - d. les besoins en volume de stockage définitif et les sites des décharges (plan de gestion des décharges);
-- e. les zones d’apport nécessaires.
+- e. les zones d’apport nécessaires;
+- f.[^4-1] les mesures visant à utiliser le potentiel énergétique des déchets issu de leur traitement thermique.
 
-<sup>2</sup> Ils se consultent pour établir leurs plans de gestion des déchets, en particulier pour les domaines énumérés à l’al. 1, let. c à e, et définissent au besoin des régions de planification supracantonales.
+<sup>2</sup> Ils se consultent pour établir leurs plans de gestion des déchets, en particulier pour les domaines énumérés à l’al. 1, let. c à f, et définissent au besoin des régions de planification supracantonales.[^4-2]
 
 <sup>3</sup> Ils vérifient leurs plans tous les cinq ans et les adaptent si nécessaire.
 
 <sup>4</sup> Ils transmettent leurs plans et les révisions totales à l’Office fédéral de l’environnement (OFEV).
+
+[^4-1]: Introduite par le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 #### Art. 5
 
@@ -130,22 +134,23 @@ Les cantons établissent pour leur territoire un plan de gestion des déchets. C
 
 Les cantons établissent chaque année un inventaire accessible au public qui contient les informations suivantes et le font parvenir à l’OFEV:
 
-- a. les quantités de déchets des types énumérés dans l’annexe 1 qui sont éliminés sur leur territoire;
-- b.[^6-1] les installations destinées au traitement des déchets de chantier et les installations destinées au traitement des déchets métalliques situées sur leur territoire et traitant plus de 1000 t de ces déchets par an;
+- a. les quantités de déchets des catégories[^6-1] énumérées dans l’annexe 1 qui sont éliminées sur leur territoire;
+- b.[^6-2] les installations destinées au traitement des déchets de chantier et les installations destinées au traitement des déchets métalliques situées sur leur territoire et traitant plus de 1000 t de ces déchets par an;
 - c. les autres installations de traitement des déchets situées sur leur territoire où sont éliminés plus de 100 t de déchets par an.
 
-<sup>2</sup> Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication peut modifier les types de déchets de l’annexe 1 en fonction des progrès techniques.
+<sup>2</sup> Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication peut modifier les catégories de déchets de l’annexe 1 en fonction des progrès techniques.
 
 <sup>3</sup>
 
-Lorsque l’OFEV leur en fait la demande, les cantons lui rendent compte de l’exploitation et de l’état des décharges situées sur leur territoire.[^6-2] Le rapport comprend notamment les informations suivantes:
+Lorsque l’OFEV leur en fait la demande, les cantons lui rendent compte de l’exploitation et de l’état des décharges situées sur leur territoire.[^6-3] Le rapport comprend notamment les informations suivantes:
 
 - a. quantité et type des déchets mis en décharge et volume restant disponible des décharges existantes;
 - b. pour les décharges nouvelles ou en cas de modifications d’ouvrages de décharge existants: preuves que les installations des ouvrages répondent aux exigences arrêtées à l’annexe 2, ch. 2.1 à 2.4;
 - c. mesures éventuellement prises selon l’art. 53, al. 4, pour éviter les atteintes nuisibles ou incommodantes que les décharges pourraient avoir sur l’environnement.
 
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^6-2]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> nov. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)).
+[^6-1]: Nouvelle expression selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)). Il a été tenu compte de cette mod. dans tout le texte, sauf à l’art. 2.
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^6-3]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> nov. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)).
 
 ## Chapitre 3 Limitation, valorisation et stockage définitif des déchets
 
@@ -167,9 +172,11 @@ La Confédération veille, en collaboration avec les cantons et les organisation
 
 #### Art. 9
 
-**Interdiction de mélanger**
+**Interdiction de mélanger les déchets**[^9-1]
 
-Il est interdit de mélanger des déchets avec d’autres déchets ou quelque autre substance que ce soit si cette opération sert avant tout à réduire par dilution leur teneur en polluants et à les rendre ainsi conformes aux dispositions relatives à la remise, à la valorisation ou au stockage définitif.
+Il est interdit de mélanger des déchets avec d’autres déchets ou quelque autre substance que ce soit si cette opération sert avant tout à réduire par dilution leur teneur en polluants ou en substances étrangères et à les rendre ainsi conformes aux dispositions relatives à la remise, à la valorisation ou au stockage définitif.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 #### Art. 10
 
@@ -422,7 +429,7 @@ Les détenteurs d’installations d’élimination des déchets doivent:
 - b. contrôler les déchets à leur réception pour s’assurer que seuls des déchets autorisés sont éliminés dans les installations;
 - c. éliminer dans le respect de l’environnement les résidus produits dans les installations;
 - d. veiller à ce que le potentiel énergétique des déchets soit exploité autant que possible lors de leur élimination;
-- e.[^27-2] tenir un inventaire sur les quantités acceptées des types de déchets énumérés dans l’annexe 1, en précisant leur origine, ainsi que sur les résidus produits dans les installations et les émissions en émanant, et remettre cet inventaire à l’autorité chaque année; sont exceptés les dépôts provisoires visés aux art. 29 et 30;
+- e.[^27-2] tenir un inventaire sur les quantités acceptées des catégories de déchets énumérées dans l’annexe 1, en précisant leur origine, ainsi que sur les résidus produits dans les installations et les émissions en émanant, et remettre cet inventaire à l’autorité chaque année; sont exceptés les dépôts provisoires visés aux art. 29 et 30;
 - f. veiller à ce qu’eux-mêmes et leur personnel disposent des connaissances techniques nécessaires pour exploiter les installations dans les règles de l’art, et produire, à la demande de l’autorité, les certificats de formation et de formation continue correspondants;
 - g. contrôler régulièrement les installations et en assurer la maintenance, en particulier vérifier, par des mesures des émissions, si les exigences de la législation sur la protection de l’environnement et sur la protection des eaux sont respectées;
 - h. s’assurer, s’il s’agit d’installations mobiles, que sont traités uniquement des déchets provenant du lieu où elles sont utilisées.
@@ -476,12 +483,15 @@ Les détenteurs d’installations d’élimination des déchets doivent:
 
 **Aménagement**
 
-Il est permis d’aménager une installation destinée au traitement thermique des déchets lorsque les aménagements garantissent:
+Il est permis d’aménager une installation destinée au traitement thermique des déchets ou d’en étendre les capacités lorsque les aménagements garantissent:[^31-1]
 
 - a. qu’il n’est libéré aucun effluent gazeux diffus;
-- b.[^31-1] que, dans les installations traitant des déchets liquides dont le point d’éclair est inférieur à 60 °C et des déchets spéciaux infectieux, ces déchets sont séparés des autres et amenés le plus directement possible dans la chambre où a lieu le traitement thermique.
+- b.[^31-2] que, dans les installations traitant des déchets liquides dont le point d’éclair est inférieur à 60 °C et des déchets spéciaux infectieux, ces déchets sont séparés des autres et amenés le plus directement possible dans la chambre où a lieu le traitement thermique;
+- c.[^31-3] que, dans les installations où sont incinérés des déchets urbains ou des déchets de composition analogue, au moins 80 % du potentiel énergétique soient utilisés en dehors de l’installation; l’utilisation d’énergie à des fins de captage du CO<sub>2</sub> dans les fumées équivaut à une utilisation en dehors de l’installation.
 
-[^31-1]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^31-1]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^31-2]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^31-3]: Introduite par le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 #### Art. 32
 
@@ -493,16 +503,17 @@ Il est permis d’aménager une installation destinée au traitement thermique d
 
 Les détenteurs d’installations doivent les exploiter:
 
-- a. de sorte qu’au moins 55 % du potentiel énergétique des déchets urbains et des déchets de composition analogue soient utilisés en dehors de l’installation;
+- a.[^32-1] de sorte qu’au moins 55 % du potentiel énergétique des déchets urbains et des déchets de composition analogue soient utilisés en dehors de l’installation; l’utilisation d’énergie à des fins de captage du CO<sub>2</sub> dans les fumées équivaut à une utilisation en dehors de l’installation;
 - b. de sorte que les composés organiques halogénés soient détruits au maximum et qu’un minimum de ces substances se forme lors du processus;
-- c.[^32-1] de sorte que les déchets spéciaux dont la teneur en composés organiques halogénés liés dépasse 1 % en poids soient traités à une température minimale de 1100 °C pendant au moins deux secondes ; l’autorité peut autoriser d’autres températures minimales ainsi que d’autres temps de séjour s’il est prouvé qu’il n’en résulte pas davantage de résidus de combustion et que ces résidus ne contiennent pas davantage de polluants organiques tels que HAP, PCDD, PCDF ou PCB;
-- d.[^32-2] de sorte que les déchets liquides dont le point d’éclair est inférieur à 60 °C et les déchets spéciaux infectieux soient séparés des autres déchets et amenés le plus directement possible dans la chambre où a lieu le traitement thermique;
+- c.[^32-2] de sorte que les déchets spéciaux dont la teneur en composés organiques halogénés liés dépasse 1 % en poids soient traités à une température minimale de 1100 °C pendant au moins deux secondes ; l’autorité peut autoriser d’autres températures minimales ainsi que d’autres temps de séjour s’il est prouvé qu’il n’en résulte pas davantage de résidus de combustion et que ces résidus ne contiennent pas davantage de polluants organiques tels que HAP, PCDD, PCDF ou PCB;
+- d.[^32-3] de sorte que les déchets liquides dont le point d’éclair est inférieur à 60 °C et les déchets spéciaux infectieux soient séparés des autres déchets et amenés le plus directement possible dans la chambre où a lieu le traitement thermique;
 - e. de sorte que la teneur des mâchefers en imbrûlés, exprimée en carbone organique total (COT), n’excède pas 2 % en poids;
 - f. de sorte que, en cas de dérangement, le traitement de tous les déchets qui se trouvent dans la chambre de traitement thermique puisse être achevé;
 - g. de sorte que, s’il s’agit d’installations où sont incinérés des déchets urbains ou des déchets de composition analogue, les métaux contenus dans les cendres volantes soient récupérés.
 
-[^32-1]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^32-1]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 [^32-2]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^32-3]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 
 ### Section 4 Installations de compostage et de méthanisation
 
@@ -777,16 +788,29 @@ Les matériaux bitumineux de démolition dont la teneur en HAP dépasse 250 mg p
 - a. si les matériaux bitumineux contiennent au maximum 1000 mg de HAP par kg et sont mélangés à d’autres matériaux dans des installations appropriées de manière à ce qu’ils contiennent au plus 250 mg de HAP par kg dans les matériaux valorisés, ou
 - b. si les matériaux bitumineux sont utilisés avec l’accord de l’autorité cantonale de façon à empêcher les émissions de HAP. L’autorité cantonale saisit la teneur exacte en HAP dans les matériaux bitumineux de démolition ainsi que les coordonnées du site de valorisation; elle conserve ces informations pendant au moins 25 ans.
 
-<sup>2</sup> Les matériaux bitumineux de démolition dont la teneur en HAP dépasse 250 mg par kg peuvent être éliminés dans une décharge du type E jusqu’au 31 décembre 2025.
+<sup>2</sup> Les matériaux bitumineux de démolition dont la teneur en HAP dépasse 250 mg par kg peuvent être éliminés dans une décharge du type E jusqu’au 31 décembre 2027.[^52-1]
+
+<sup>3</sup> Les matériaux bitumineux de démolition dont la teneur en HAP ne dépasse pas 250 mg par kg peuvent être éliminés dans une décharge du type B jusqu’au 31 décembre 2027.[^52-2]
+
+[^52-1]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^52-2]: Introduit par le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 #### Art. 52a
 
 **Cendres de bois**[^52a-1]
 
-Les cendres volantes et les poussières de filtres issues du traitement thermique de bois qui n’est pas réputé bois de chauffage en vertu de l’annexe 5, ch. 31, al. 2, de l’ordonnance du 16 décembre 1985 sur la protection de l’air (OPair)[^52a-2] peuvent être stockées définitivement dans des décharges de type D ou E (annexe 5, ch. 4.1 et 5.1) jusqu’au 1<sup>er</sup> novembre 2023.
+Les cendres volantes et les poussières de filtres issues du traitement thermique de bois qui n’est pas réputé bois de chauffage en vertu de l’annexe 5, ch. 31, al. 2, de l’ordonnance du 16 décembre 1985 sur la protection de l’air (OPair)[^52a-2] peuvent être stockées définitivement dans des décharges de type D ou E (annexe 5, ch. 4.1 et 5.1) jusqu’au 31 décembre 2025.
 
-[^52a-1]: Introduit par le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> nov. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)).
+[^52a-1]: Introduit par le ch. I de l’O du 21 sept. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)). Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 [^52a-2]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+
+#### Art. 52b
+
+**Dioxines et furanes**[^52b-1]
+
+Les résidus du traitement thermique des déchets doivent contenir aussi peu de dioxines (PCDD) et de furanes (PCDF) que l’état de la technique le permet (annexe 5, ch. 3.3 et 4.2). La teneur maximale est de 3 μg d’équivalents toxiques (TEQ) par kg jusqu’au 31 décembre 2026.
+
+[^52b-1]: Introduit par le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 #### Art. 53
 
@@ -826,13 +850,13 @@ Annexe 1*[^t-1]*
 
 (art. 6, al. 1, et 27, al. 1)
 
-## Types de déchets
+## Catégories de déchets
 
-[^t-1]: Mise à jour par le ch. II de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> nov. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)).
+[^t-1]: Mise à jour par le ch. II des O du 21 sept. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) et du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 <table>
 <tr><th>Code</th><th>Description des déchets</th></tr>
-<tr><td></td><td>Classe 1: déchets chimiques</td></tr>
+<tr><td></td><td>Catégorie 1: déchets chimiques</td></tr>
 <tr><td>1101</td><td>Solvants non halogénés</td></tr>
 <tr><td>1102</td><td>Solvants halogénés</td></tr>
 <tr><td>1103</td><td>Résidus de réactions chimiques</td></tr>
@@ -855,20 +879,20 @@ Annexe 1*[^t-1]*
 <tr><td>1120</td><td>Biocides, produits de protection du bois et produits chimiques similaires</td></tr>
 <tr><td>1121</td><td>Autres déchets spéciaux chimiques</td></tr>
 <tr><td>1301</td><td>Déchets chimiques non soumis à contrôle selon l’OMoD</td></tr>
-<tr><td></td><td>Classe 2: déchets médicaux</td></tr>
+<tr><td></td><td>Catégorie 2: déchets médicaux</td></tr>
 <tr><td>2101</td><td>Déchets infectieux et présentant un danger de contamination</td></tr>
 <tr><td>2102</td><td>Médicaments périmés et déchets pharmaceutiques solides</td></tr>
 <tr><td>2103</td><td>Déchets médicaux et présentant un danger de blessure</td></tr>
 <tr><td>2104</td><td>Déchets médicaux non infectieux</td></tr>
 <tr><td>2301</td><td>Déchets médicaux non soumis à contrôle selon l’OMoD</td></tr>
-<tr><td></td><td>Classe 3: déchets métalliques</td></tr>
+<tr><td></td><td>Catégorie 3: déchets métalliques</td></tr>
 <tr><td>3101</td><td>Câbles usagés contenant des substances dangereuses</td></tr>
 <tr><td>3102</td><td>Autres déchets spéciaux métalliques</td></tr>
 <tr><td>3201</td><td>Câbles usagés</td></tr>
 <tr><td>3202</td><td>Débris de ferraille et résidus de chargement</td></tr>
 <tr><td>3301</td><td>Métaux provenant de postes de collecte communaux et d’autres postes de collecte</td></tr>
 <tr><td>3302</td><td>Déchets métalliques non soumis à contrôle selon l’OMoD</td></tr>
-<tr><td></td><td>Classe 4: déchets minéraux</td></tr>
+<tr><td></td><td>Catégorie 4: déchets minéraux</td></tr>
 <tr><td>4101</td><td>Matériaux d’excavation pollués par des substances dangereuses</td></tr>
 <tr><td>4102</td><td>Matériaux bitumineux de démolition dont la teneur en HAP dépasse 1000 mg/kg</td></tr>
 <tr><td>4103</td><td>Déchets de chantier non triés contenant des substances dangereuses</td></tr>
@@ -890,7 +914,7 @@ Annexe 1*[^t-1]*
 <tr><td>4309</td><td>Déchets de verre provenant des postes de collecte communaux et d’autres postes de collecte</td></tr>
 <tr><td>4310</td><td>Autres déchets de verre non soumis à contrôle selon l’OMoD</td></tr>
 <tr><td>4311</td><td>Autres déchets minéraux non soumis à contrôle selon l’OMoD</td></tr>
-<tr><td></td><td>Classe 5: installations, machines, véhicules et leurs accessoires ainsi qu’appareils électriques et électroniques</td></tr>
+<tr><td></td><td>Catégorie 5: installations, machines, véhicules et leurs accessoires ainsi qu’appareils électriques et électroniques</td></tr>
 <tr><td>5101</td><td>Batteries et accumulateurs au plomb</td></tr>
 <tr><td>5102</td><td>Autres batteries et accumulateurs</td></tr>
 <tr><td>5103</td><td>Composants d’appareils électriques/électroniques contenant des PCB</td></tr>
@@ -901,7 +925,7 @@ Annexe 1*[^t-1]*
 <tr><td>5203</td><td>Appareils électriques/électroniques contenant des chlorofluorocarbures (CFC) totalement ou partiellement halogénés</td></tr>
 <tr><td>5204</td><td>Autres appareils électriques/électroniques et leurs composants</td></tr>
 <tr><td>5301</td><td>Composants d’appareils électriques/électroniques usagés qui ne sont pas soumis à contrôle selon l’OMoD</td></tr>
-<tr><td></td><td>Classe 6: biodéchets</td></tr>
+<tr><td></td><td>Catégorie 6: biodéchets</td></tr>
 <tr><td>6101</td><td>Déchets de bois problématiques</td></tr>
 <tr><td>6201</td><td>Huiles et matières grasses alimentaires, à l’exception de celles provenant des postes de collecte communaux</td></tr>
 <tr><td>6202</td><td>Bois usagé</td></tr>
@@ -909,7 +933,7 @@ Annexe 1*[^t-1]*
 <tr><td>6302</td><td>Résidus de bois</td></tr>
 <tr><td>6303</td><td>Biodéchets provenant des postes de collecte communaux et d’autres postes de collecte</td></tr>
 <tr><td>6304</td><td>Biodéchets provenant de l’agriculture, de l’industrie et de l’artisanat</td></tr>
-<tr><td></td><td>Classe 7: boues et résidus de traitement</td></tr>
+<tr><td></td><td>Catégorie 7: boues et résidus de traitement</td></tr>
 <tr><td>7101</td><td>Scories et cendres</td></tr>
 <tr><td>7102</td><td>Résidus de l’épuration des fumées</td></tr>
 <tr><td>7103</td><td>Fractions légères combustibles provenant du broyage de déchets métalliques</td></tr>
@@ -923,7 +947,7 @@ Annexe 1*[^t-1]*
 <tr><td>7302</td><td>Boues et résidus de traitement non soumis à contrôle selon l’OMoD</td></tr>
 <tr><td>7303</td><td>Boues et résidus de traitement combustibles</td></tr>
 <tr><td>7304</td><td>Matériaux fins résultant du tri des déchets de construction</td></tr>
-<tr><td></td><td>Classe 8: autres types de déchets</td></tr>
+<tr><td></td><td>Catégorie 8: autres catégories de déchets</td></tr>
 <tr><td>8101</td><td>Déchets spéciaux provenant des postes de collecte communaux et d’autres postes de collecte</td></tr>
 <tr><td>8301</td><td>Balayures de route</td></tr>
 <tr><td>8302</td><td>Décombres d’incendie</td></tr>
@@ -1051,11 +1075,13 @@ Annexe 2
 - 2\.5.2 Seuls des matériaux satisfaisant aux exigences de l’annexe 3, ch. 1, sont autorisés dans le tiers supérieur des mesures d’étanchéification et dans le tapis de drainage. Dans les parties inférieures des mesures d’étanchéification, il est possible d’utiliser des matériaux qui satisfont aux exigences pour le stockage dans le type de décharge concerné et qui sont appropriés sur le plan de la construction.
 - 2\.5.3 Si des mesures sont prises pour empêcher les éventuelles atteintes nuisibles ou incommodantes de la décharge à l’environnement, la fermeture définitive en surface ne doit être autorisée qu’après la mise en œuvre de ces mesures, si cela est nécessaire pour garantir sa stabilité. Jusque-là l’érosion doit être empêchée par des mesures appropriées.
 
-Annexe 3
+Annexe 3*[^t-2]*
 
 (art. 17, al. 1, et 19)
 
 ## Exigences relatives aux matériaux d’excavation et de percement
+
+[^t-2]: Mise à jour par le ch. II de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 - 1
 
@@ -1121,19 +1147,19 @@ Annexe 3
 <tr><td>Benzène</td><td>0,5</td></tr>
 <tr><td>Hydrocarbures aromatiques polycycliques (HAP)\*\*\*\*\*</td><td>12,5</td></tr>
 <tr><td>Benzo[a]pyrène</td><td>1,5</td></tr>
-<tr><td>Carbone organique total (COT)</td><td>10 000</td></tr>
+<tr><td>Carbone organique total libéré jusqu’à 400 °C (COT400)</td><td>10 000</td></tr>
 <tr><td colspan="2">\*, \*\*, \*\*\*, \*\*\*\*, \*\*\*\*\* selon les explications du ch. 1, let. c</td></tr>
 </table>
 
 - 3 Si les matériaux d’excavation et de percement contiennent des substances pour lesquelles aucune valeur limite n’a été fixée, l’autorité évalue les déchets au cas par cas avec l’accord de l’OFEV, selon les dispositions de la législation sur la protection de l’environnement et sur la protection des eaux.
 
-Annexe 4*[^t-2]*
+Annexe 4*[^t-3]*
 
 (art. 19, al. 3, et 24)
 
 ## Exigences relatives aux déchets utilisés pour la fabrication de ciment et de béton
 
-[^t-2]: Mise à jour par l’erratum du 3 oct. 2017 ([RO 2017 5137](https://fedlex.data.admin.ch/eli/oc/2017/561)), le ch. II de l’O du 12 fév. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)) et le ch. III de l’O du 20 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^t-3]: Mise à jour par l’erratum du 3 oct. 2017 ([RO 2017 5137](https://fedlex.data.admin.ch/eli/oc/2017/561)), le ch. II de l’O du 12 fév. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)) et le ch. III de l’O du 20 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### 1 Utilisation de déchets comme matières premières ou agents de correction du cru
 
@@ -1300,13 +1326,13 @@ Annexe 4*[^t-2]*
 - 4\.1 Les détenteurs d’installations de fabrication de clinker, de ciment ou de béton doivent apporter la preuve que les exigences arrêtées aux ch. 1 à 3 sont respectées. Ils peuvent, avec l’accord de l’autorité, limiter l’analyse chimique aux substances susceptibles d’être présentes dans le produit au vu du type et de l’origine des déchets utilisés.
 - 4\.2 Si des déchets contiennent des substances dangereuses pour l’environnement pour lesquelles les ch. 1 à 3 ne prévoient aucune valeur limite, l’autorité fixe, avec l’accord de l’OFEV, des valeurs au cas par cas, selon les dispositions de la législation sur la protection de l’environnement et sur la protection des eaux.
 
-Annexe 5*[^t-3]*
+Annexe 5*[^t-4]*
 
 (art. 19, al. 3, 25, al. 1, 35, al. 1, 39, al. 2 et 40, al. 3)
 
 ## Exigences relatives aux déchets mis en décharge
 
-[^t-3]: Mise à jour par l’erratum du 3 oct. 2017 ([RO 2017 5137](https://fedlex.data.admin.ch/eli/oc/2017/561)) et le ch. II de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> nov. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)).
+[^t-4]: Mise à jour par l’erratum du 3 oct. 2017 ([RO 2017 5137](https://fedlex.data.admin.ch/eli/oc/2017/561)), le ch. II des O du 21 sept. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) et du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 ### 1 Déchets admis dans les décharges de type A
 
@@ -1331,9 +1357,9 @@ Annexe 5*[^t-3]*
   - b. le verre plat et le verre d’emballage;
   - c. les déchets provenant, après cuisson, de la fabrication de produits en céramique, de tuiles, de carrelages et de grès;
   - d. les laitiers d’aciérie électrique provenant de la fabrication postérieure à 1989 d’aciers non alliés ou faiblement alliés;
-  - e. les matériaux bitumeux de démolition dont la teneur en HAP ne dépasse pas 250 mg par kg;
+  - e. …
   - f. les déchets minéraux contenant des fibres d’amiante liées;
-  - g. les déchets de chantier autres que ceux qui sont énumérés aux let. a, e et f et qui sont composés à 95 % (en poids) au moins de pierres et d’éléments analogues, à condition que les fractions pouvant faire l’objet d’une valorisation matière aient au préalable été récupérées.
+  - g. les déchets de chantier autres que ceux qui sont énumérés aux let. a et f et qui sont composés à 95 % (en poids) au moins de pierres et d’éléments analogues, à condition que les fractions pouvant faire l’objet d’une valorisation matière aient au préalable été récupérées; sont exceptés les matériaux bitumineux de démolition.
 
 - 2\.2
 
@@ -1384,7 +1410,7 @@ Annexe 5*[^t-3]*
 <tr><td>Benzène</td><td colspan="2">1</td></tr>
 <tr><td>Hydrocarbures aromatiques polycycliques (HAP)\*\*\*\*\*</td><td colspan="2">25</td></tr>
 <tr><td>Benzo[a]pyrène</td><td colspan="2">3</td></tr>
-<tr><td>Carbone organique total (COT)</td><td colspan="2">20 000</td></tr>
+<tr><td>Carbone organique total libéré jusqu’à 400 °C (COT400)</td><td colspan="2">20 000</td></tr>
 <tr><td colspan="2">\* ∑7 hydrocarbures chlorés volatils: dichlorométhane, trichlorométhane, tétrachlorométhane, cis-1,2-dichloréthylène, 1,1,1-trichloréthane, trichloréthylène (Tri), perchloréthylène (Per)</td></tr>
 <tr><td colspan="2">\*\* ∑6 congénères × 4,3 (UICPA n°): 28, 52, 101, 138, 153, 180</td></tr>
 <tr><td colspan="2">\*\*\* ∑ HC C<sub>5</sub> à C<sub>10</sub>: surface du chromatogramme FID entre le n-pentane et le n-décane, multipliée par le facteur de réponse du n-hexane, moins ∑BTEX</td></tr>
@@ -1404,7 +1430,7 @@ Annexe 5*[^t-3]*
 <tr><td>Cyanure (libre)</td><td>0,02 mg CN-/l</td></tr>
 </table>
 
-- 2\.4 La valeur limite du ch. 2.3, let. b, pour le COT ne s’applique pas aux matériaux terreux issus du décapage de la couche supérieure et de la couche sous-jacente du sol lorsque le dépassement n’est pas dû à l’activité humaine.
+- 2\.4 La valeur limite du ch. 2.3, let. b, pour la teneur en carbone organique libéré jusqu’à 400 °C ne s’applique pas aux matériaux terreux issus du décapage de la couche supérieure et de la couche sous-jacente du sol lorsque le dépassement n’est pas dû à l’activité humaine.
 
 ### 3 Déchets admis dans les décharges de type C
 
@@ -1461,7 +1487,7 @@ Test 2
 <tr><td>pH</td><td>6–12</td></tr>
 </table>
 
-- 3\.3 La teneur totale en polychlorodibenzo-[1,4]dioxines (PCDD) et en dibenzofuranes polychlorés (PCDF) ne doit pas dépasser 1 µg par kg dans les résidus de l’épuration des fumées selon le ch. 3.1, let. a et b. La teneur est calculée à partir de facteurs d’équivalence toxique (FET), conformément à l’état de la technique.
+- 3\.3 Les résidus du traitement thermique des déchets doivent contenir aussi peu de dioxines (PCDD) et de furanes (PCDF) que l’état de la technique le permet, mais au maximum 1 μg TEQ par kg. La teneur est calculée à partir de facteurs d’équivalence toxique (FET), conformément à l’état de la technique.
 - 3\.4 La teneur des déchets en substances organiques selon le ch. 3.1, let. c à e, ne dépasse pas les valeurs limites suivantes (teneurs totales):
 
 <table>
@@ -1474,7 +1500,7 @@ Test 2
 <tr><td>Benzène</td><td colspan="2">1</td></tr>
 <tr><td>Hydrocarbures aromatiques polycycliques (HAP)\*\*\*\*\*</td><td colspan="2">25</td></tr>
 <tr><td>Benzo[a]pyrène</td><td colspan="2">3</td></tr>
-<tr><td>Carbone organique total (COT)</td><td colspan="2">20 000</td></tr>
+<tr><td>Carbone organique total libéré jusqu’à 400 °C (COT400)</td><td colspan="2">20 000</td></tr>
 <tr><td colspan="2">\*, \*\*, \*\*\*, \*\*\*\*, \*\*\*\*\* selon les explications du ch. 2.3, let. b</td><td></td></tr>
 </table>
 
@@ -1495,7 +1521,7 @@ Test 2
   - g. les cendres de grille et de foyer issues du traitement thermique de bois qui n’est pas réputé bois de chauffage au sens de l’annexe 5, ch. 31, al. 2, OPair et dont la teneur en COT ne dépasse pas 20 000 mg par kg;
   - h. les matériaux minéraux non combustibles provenant des buttes pare-balles.
 
-- 4\.2 La teneur totale en polychlorodibenzo-p-dioxines (PCDD) et en dibenzofuranes (PCDF) ne doit pas dépasser 1 µg par kg dans les cendres volantes selon le ch. 4.1, let. a et e. La teneur est calculée à partir de facteurs d’équivalence toxique (FET), conformément à l’état de la technique.
+- 4\.2 Les résidus du traitement thermique des déchets doivent contenir aussi peu de dioxines (PCDD) et de furanes (PCDF) que l’état de la technique le permet, mais au maximum 3 μg TEQ par kg. La teneur est calculée à partir de facteurs d’équivalence toxique (FET), conformément à l’état de la technique.
 - 4\.3
 
   Les mâchefers provenant d’installations d’incinération des déchets urbains ou des déchets de composition analogue peuvent être stockés définitivement dans des décharges ou des compartiments de type D:
@@ -1529,7 +1555,7 @@ Test 2
 <tr><td>Benzène</td><td colspan="2">1</td></tr>
 <tr><td>Hydrocarbures aromatiques polycycliques (HAP)\*\*\*\*\*</td><td colspan="2">25</td></tr>
 <tr><td>Benzo[a]pyrène</td><td colspan="2">3</td></tr>
-<tr><td>Carbone organique total (COT)</td><td colspan="2">20 000</td></tr>
+<tr><td>Carbone organique total libéré jusqu’à 400 °C (COT400)</td><td colspan="2">20 000</td></tr>
 <tr><td colspan="2">\*, \*\*, \*\*\*, \*\*\*\*, \*\*\*\*\* selon les explications du ch. 2.3, let. b</td><td></td></tr>
 </table>
 
@@ -1577,7 +1603,7 @@ Test 2
 <tr><td>Benzène</td><td colspan="2">1</td></tr>
 <tr><td>Hydrocarbures aromatiques polycycliques (HAP)\*\*\*\*\*</td><td colspan="2">250</td></tr>
 <tr><td>Benzo[a]pyrène</td><td colspan="2">10</td></tr>
-<tr><td>Carbone organique total (COT)</td><td colspan="2">50 000</td></tr>
+<tr><td>Carbone organique total libéré jusqu’à 400 °C (COT400)</td><td colspan="2">50 000</td></tr>
 <tr><td colspan="2">\*, \*\*, \*\*\*, \*\*\*\*, \*\*\*\*\* selon les explications du ch. 2.3, let. b</td><td></td></tr>
 </table>
 
