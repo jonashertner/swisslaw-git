@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2022-03-25
+version: 2022-04-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220325/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220325-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220325/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220325/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 25. März 2022)
+vom 19. Juni 2020 (Stand am 1. April 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -305,17 +305,20 @@ Der Bund kann wichtige medizinische Güter gegen Bezahlung im Markt selber oder 
 
 <sup>1</sup> Arzneimittel, die mit Wirkstoffen nach Anhang 5 für die Behandlung von Covid-19-Patientinnen und -Patienten hergestellt werden, dürfen nach Einreichung eines Zulassungsgesuchs für ein Arzneimittel mit einem dieser Wirkstoffe bis zum Zulassungsentscheid der Swissmedic ohne Zulassung in Verkehr gebracht werden. Die Swissmedic kann im Rahmen der Prüfung von Zulassungsgesuchen auf der Grundlage einer Nutzen-/Risiko-Analyse bei diesen Arzneimitteln Abweichungen von den geltenden heilmittelrechtlichen Vorgaben bewilligen.
 
-<sup>2</sup> Änderungen der Zulassung eines in der Schweiz zugelassenen Arzneimittels mit einem Wirkstoff nach Anhang 4 Ziffer 1, aufgrund deren das Arzneimittel für die Behandlung von Covid-19-Patientinnen und -Patienten in der Schweiz eingesetzt werden kann, dürfen nach Einreichung eines entsprechenden Änderungsgesuchs bis zum Entscheid der Swissmedic sofort umgesetzt werden. Die Swissmedic kann auf der Grundlage einer Nutzen-/Risiko-Analyse bei Änderungen der Zulassung von Arzneimitteln mit einem Wirkstoff nach Anhang 4 Ziffer 1 Abweichungen von den geltenden heilmittelrechtlichen Vorgaben bewilligen.[^21-1]
+<sup>1bis</sup> Arzneimittel, die mit Wirkstoffen nach Anhang 5*a* für die Verhütung einer Covid-19-Infektion von immunsupprimierten Personen, bei denen trotz Impfung kein ausreichender Immunschutz aufgebaut werden kann oder die nicht geimpft werden können, hergestellt werden, dürfen nach Einreichung eines Zulassungsgesuchs für ein Arzneimittel mit einem dieser Wirkstoffe bis zum Zulassungsentscheid der Swissmedic ohne Zulassung in Verkehr gebracht werden.[^21-1]
 
-<sup>3</sup> Das EDI führt die Liste in Anhang 5 laufend nach.[^21-2]
+<sup>2</sup> Änderungen der Zulassung eines in der Schweiz zugelassenen Arzneimittels mit einem Wirkstoff nach Anhang 4 Ziffer 1, aufgrund deren das Arzneimittel für die Behandlung von Covid-19-Patientinnen und -Patienten in der Schweiz eingesetzt werden kann, dürfen nach Einreichung eines entsprechenden Änderungsgesuchs bis zum Entscheid der Swissmedic sofort umgesetzt werden. Die Swissmedic kann auf der Grundlage einer Nutzen-/Risiko-Analyse bei Änderungen der Zulassung von Arzneimitteln mit einem Wirkstoff nach Anhang 4 Ziffer 1 Abweichungen von den geltenden heilmittelrechtlichen Vorgaben bewilligen.[^21-2]
+
+<sup>3</sup> Das EDI führt die Listen in den Anhängen 5 und 5*a* laufend nach.[^21-3]
 
 <sup>4</sup> Die Swissmedic kann auf der Grundlage einer Nutzen-/Risiko-Analyse bei Arzneimitteln zur Verhütung und Bekämpfung des Coronavirus in der Schweiz Abweichungen von dem im Rahmen der Zulassung genehmigten Herstellungsprozess bewilligen. Sie legt Kriterien fest, unter denen die fachtechnisch verantwortliche Person eine vorzeitige Marktfreigabe für Arzneimittel zur Verhütung und Bekämpfung des Coronavirus in der Schweiz erteilen kann.
 
-<sup>5</sup> In Abweichung von Artikel 9*a* Absatz 1 Buchstabe c des Heilmittelgesetzes vom 15. Dezember 2000 können befristete Zulassungen erteilt werden, auch wenn in der Schweiz ein zugelassenes, alternativ anwendbares und gleichwertiges Arzneimittel verfügbar ist, sofern die Zulassungen der Sicherstellung der Versorgung mit Arzneimitteln zur Verhütung und Bekämpfung des Coronavirus in der Schweiz dienen.[^21-3]
+<sup>5</sup> In Abweichung von Artikel 9*a* Absatz 1 Buchstabe c des Heilmittelgesetzes vom 15. Dezember 2000 können befristete Zulassungen erteilt werden, auch wenn in der Schweiz ein zugelassenes, alternativ anwendbares und gleichwertiges Arzneimittel verfügbar ist, sofern die Zulassungen der Sicherstellung der Versorgung mit Arzneimitteln zur Verhütung und Bekämpfung des Coronavirus in der Schweiz dienen.[^21-4]
 
-[^21-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^21-2]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests), in Kraft seit 21. Dez. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
-[^21-3]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 28. Okt. 2021 ([AS 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
+[^21-1]: Eingefügt durch Ziff. I der V vom 30. März 2022, in Kraft seit 1. April 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+[^21-2]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^21-3]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. April 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+[^21-4]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 28. Okt. 2021 ([AS 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
 #### Art. 22
 
@@ -327,15 +330,18 @@ Der Bund kann wichtige medizinische Güter gegen Bezahlung im Markt selber oder 
 
 <sup>2</sup> Jede Einfuhr nach Absatz 1<sup>bis</sup> ist der Swissmedic innerhalb von 10 Tagen nach Wareneingang zu melden.[^22-3]
 
+<sup>2bis</sup> Nach Einreichung eines Zulassungsgesuchs für ein Arzneimittel gemäss Artikel 21 Absatz 1<sup>bis</sup> darf die Gesuchstellerin das Arzneimittel bereits vor dessen Zulassung einführen oder einen Betrieb mit Grosshandels- oder Einfuhrbewilligung mit der Einfuhr des Arzneimittels beauftragen.[^22-4]
+
 <sup>3</sup> Zur Verhütung und Bekämpfung des Coronavirus in der Schweiz kann die Swissmedic das zeitlich begrenzte Inverkehrbringen eines Arzneimittels als Überbrückung einer temporären Nichtverfügbarkeit eines identischen, in der Schweiz zugelassenen Arzneimittels bewilligen, sofern in der Schweiz kein im Wesentlichen gleiches Arzneimittel zugelassen und verfügbar ist.
 
-<sup>4</sup> Nach Einreichung eines Zulassungsgesuchs für einen Covid-19-Impfstoff und eines Gesuchs um Erteilung einer Betriebsbewilligung nach Artikel 10 Absatz 1 Buchstabe b des Heilmittelgesetzes vom 15. Dezember 2000 kann die Gesuchstellerin einen Betrieb mit Grosshandels- oder Einfuhrbewilligung beauftragen, den Covid-19-Impfstoff bereits vor dessen Zulassung einzuführen und bis zur Zulassung einzulagern. Der beauftragte Betrieb muss die internationalen Regeln der Guten Vertriebspraxis gemäss Anhang 4 der Arzneimittel-Bewilligungsverordnung vom 14. November 2018[^22-4] einhalten.[^22-5]
+<sup>4</sup> Nach Einreichung eines Zulassungsgesuchs für einen Covid-19-Impfstoff und eines Gesuchs um Erteilung einer Betriebsbewilligung nach Artikel 10 Absatz 1 Buchstabe b des Heilmittelgesetzes vom 15. Dezember 2000 kann die Gesuchstellerin einen Betrieb mit Grosshandels- oder Einfuhrbewilligung beauftragen, den Covid-19-Impfstoff bereits vor dessen Zulassung einzuführen und bis zur Zulassung einzulagern. Der beauftragte Betrieb muss die internationalen Regeln der Guten Vertriebspraxis gemäss Anhang 4 der Arzneimittel-Bewilligungsverordnung vom 14. November 2018[^22-5] einhalten.[^22-6]
 
 [^22-1]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 26. April 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 [^22-2]: Ursprünglich Abs. 1.
 [^22-3]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 26. April 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^22-4]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^22-5]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests), in Kraft seit 21. Dez. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^22-4]: Eingefügt durch Ziff. I der V vom 30. März 2022, in Kraft seit 1. April 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+[^22-5]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^22-6]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests), in Kraft seit 21. Dez. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
 
 #### Art. 23
 
@@ -665,69 +671,13 @@ Bei Versammlungen von Gesellschaften kann der Veranstalter ungeachtet der voraus
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 28. Okt. 2021 ([AS 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
-## 4*a*. Kapitel:**** Massnahmen zum Schutz von besonders gefährdeten Arbeitnehmerinnen und Arbeitnehmern
-
-[^chap4a-1]
-
-[^chap4a-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer) ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. März 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); Art. 29 Abs. 7).
+## 4*a*. Kapitel: …
 
 #### Art. 27a
 
-<sup>1</sup> Der Arbeitgeber ermöglicht seinen besonders gefährdeten Arbeitnehmerinnen und Arbeitnehmern, ihre Arbeitsverpflichtungen von zu Hause aus zu erfüllen. Er trifft zu diesem Zweck die geeigneten organisatorischen und technischen Massnahmen.[^27a-1]
+[^27a-1]
 
-<sup>2</sup> Ist es nicht möglich, die angestammte Arbeitsverpflichtung von zu Hause aus zu erfüllen, so weist der Arbeitgeber der betroffenen Arbeitnehmerin oder dem betroffenen Arbeitnehmer in Abweichung vom Arbeitsvertrag bei gleicher Entlöhnung eine gleichwertige Ersatzarbeit zu, die von zu Hause aus erledigt werden kann.
-
-<sup>3</sup>
-
-Ist aus betrieblichen Gründen die Präsenz besonders gefährdeter Arbeitnehmerinnen und Arbeitnehmer vor Ort ganz oder teilweise unabdingbar, so dürfen diese in ihrer angestammten Tätigkeit vor Ort beschäftigt werden, wenn die folgenden Voraussetzungen erfüllt sind:
-
-- a. Der Arbeitsplatz ist so ausgestaltet, dass jeder enge Kontakt mit anderen Personen ausgeschlossen ist, namentlich indem ein Einzelraum oder ein klar abgegrenzter Arbeitsbereich zur Verfügung gestellt wird.
-- b. In Fällen, in denen ein enger Kontakt nicht jederzeit vermieden werden kann, werden weitere Schutzmassnahmen nach dem STOP-Prinzip ergriffen (Substitution, technische Massnahmen, organisatorische Massnahmen, persönliche Schutzausrüstung).
-
-<sup>4</sup> Ist es nicht möglich, die betroffenen Arbeitnehmerinnen und Arbeitnehmer nach den Absätzen 1–3 zu beschäftigen, so weist ihnen der Arbeitgeber in Abweichung vom Arbeitsvertrag bei gleicher Entlöhnung eine gleichwertige Ersatzarbeit vor Ort zu, bei der die Vorgaben nach Absatz 3 Buchstaben a und b erfüllt sind.
-
-<sup>5</sup> Bevor der Arbeitgeber die vorgesehenen Massnahmen trifft, hört er die betroffenen Arbeitnehmerinnen und Arbeitnehmer an. Er dokumentiert die beschlossenen Massnahmen schriftlich und teilt sie in geeigneter Weise den Arbeitnehmerinnen und Arbeitnehmern mit.
-
-<sup>6</sup> Die betroffene Arbeitnehmerin oder der betroffene Arbeitnehmer kann die Übernahme einer ihr oder ihm zugewiesenen Arbeit ablehnen, wenn der Arbeitgeber die Voraussetzungen nach den Absätzen 1–4 nicht erfüllt oder wenn die Arbeitnehmerin oder der Arbeitnehmer die Gefahr einer Ansteckung mit dem Coronavirus trotz der vom Arbeitgeber getroffenen Massnahmen nach den Absätzen 3 und 4 aus besonderen Gründen als zu hoch für sich erachtet. Der Arbeitgeber kann ein ärztliches Attest verlangen.
-
-<sup>7</sup> Ist es nicht möglich, die betroffenen Arbeitnehmerinnen und Arbeitnehmer nach den Absätzen 1–4 zu beschäftigen, oder lehnen diese die zugewiesene Arbeit im Sinne von Absatz 6 ab, so befreit sie der Arbeitgeber unter Lohnfortzahlung von ihrer Arbeitspflicht.
-
-<sup>8</sup> Arbeitnehmerinnen und Arbeitnehmer machen ihre besondere Gefährdung durch eine persönliche Erklärung geltend. Der Arbeitgeber kann ein ärztliches Attest verlangen.
-
-<sup>9</sup> Für die Geltendmachung des Anspruchs auf Corona-Erwerbsersatz gilt Artikel 2 Absatz 3<sup>quater</sup> der Covid-19-Verordnung Erwerbsausfall vom 20. März 2020[^27a-2].
-
-<sup>10</sup>
-
-Als besonders gefährdet gelten:
-
-- a. schwangere Frauen;
-- b. Personen mit den Erkrankungen oder genetischen Anomalien nach Anhang 7, die sich aus medizinischen Gründen nicht impfen lassen können.
-
-<sup>11</sup>
-
-Nicht als besonders gefährdet gelten:
-
-- a. schwangere Frauen, die gegen Covid-19 geimpft sind, während 270 Tagen ab vollständig erfolgter Impfung;
-- b.
-
-  Personen nach Absatz 10, die sich mit Sars-CoV-2 angesteckt haben und als genesen gelten:
-
-  - 1\.[^27a-3] aufgrund einer molekularbiologischen Analyse auf Sars-CoV-2: während 180 Tagen ab dem elften Tag nach der Bestätigung der Ansteckung,
-  - 2\.[^27a-4] aufgrund einer Analyse auf Sars-CoV-2-Antikörper: während der Dauer der Gültigkeit des entsprechenden Zertifikats (Art. 34*a* Abs. 1 Bst. c der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^27a-5]).[^27a-6]
-
-<sup>12</sup> Die Erkrankungen und genetischen Anomalien nach Absatz 10 Buchstabe b werden in Anhang 7 anhand medizinischer Kriterien präzisiert. Die Liste dieser Kriterien ist nicht abschliessend. Eine klinische Beurteilung der Gefährdung im Einzelfall bleibt vorbehalten und kann dazu führen, dass auch Personen nach Absatz 11 als besonders gefährdet eingestuft werden.
-
-<sup>13</sup> Das EDI führt Anhang 7 gestützt auf den Stand der Wissenschaften laufend nach.
-
-<sup>14</sup> …[^27a-7]
-
-[^27a-1]: Fassung gemäss Anhang Ziff. 2 der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
-[^27a-2]: [SR 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-3]: Fassung gemäss Ziff. I der V vom 18. März 2022, in Kraft vom 21. März 2022 bis zum 31. März 2022 ([AS 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
-[^27a-4]: Fassung gemäss Ziff. III der V vom 16. Febr. 2022 (Auslaufen der nur in der Schweiz gültigen Covid-19-Zertifikate), in Kraft vom 17. Febr. 2022 bis zum 31. März 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
-[^27a-5]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^27a-6]: Fassung gemäss Anhang Ziff. 2 der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
-[^27a-7]: Aufgehoben durch Anhang Ziff. 2 der Covid-19-Verordnung besondere Lage vom 16. Febr. 2022, mit Wirkung seit 17. Febr. 2022 ([AS 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
+[^27a-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer) ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. März 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); Art. 29 Abs. 7).
 
 ## 5. Kapitel: Schlussbestimmungen
 
@@ -1016,7 +966,13 @@ Anhang 5*[^t-6]*
 
 Anhang 5a*[^t-7]*
 
-[^t-7]: Eingefügt durch Ziff. III Abs. 1 der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Aufgehoben durch Ziff. II Abs. 1 der V vom 25. Aug. 2021, mit Wirkung seit 30. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+(Art. 21 Abs. 1<sup>bis</sup> und 3)
+
+## Liste der Wirkstoffe für die Verhütung einer Covid-19 Infektion
+
+[^t-7]: Eingefügt durch Ziff. III Abs. 1 der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Fassung gemäss Ziff. II Abs. 1 der V vom 30. März 2022, in Kraft seit 1. April 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+
+\1. Tixagevimab/Cilgavimab
 
 Anhang 6*[^t-8]*
 
@@ -1024,7 +980,7 @@ Anhang 6*[^t-8]*
 
 ## Übernommene Leistungen und Höchstbeträge bei Analysen auf Sars-CoV-2
 
-[^t-8]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), vom 23. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), der Berichtigung vom 29. Juni 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Anhang Ziff. 3 I der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Ziff. II Abs. 2 der V vom 25. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), Ziff. II der V vom 1. Okt. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), Anhang Ziff. 1 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), Ziff. II Abs. 1 der V vom 17. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), Ziff. III 1 der V vom 2. Febr. 2022 (Aufhebung der Kontaktquarantäne und der Homeofficepflicht) ([AS 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)), Ziff. I der V vom 4. Febr. 2022 ([AS 2022 65](https://fedlex.data.admin.ch/eli/oc/2022/65)) und Ziff. II der V vom 16. Febr. 2022, in Kraft seit 17. Febr. 2022 ([AS 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)).
+[^t-8]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), vom 23. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), der Berichtigung vom 29. Juni 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Anhang Ziff. 3 I der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Ziff. II Abs. 2 der V vom 25. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), Ziff. II der V vom 1. Okt. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), Anhang Ziff. 1 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), Ziff. II Abs. 1 der V vom 17. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), Ziff. III 1 der V vom 2. Febr. 2022 (Aufhebung der Kontaktquarantäne und der Homeofficepflicht) ([AS 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)), Ziff. I der V vom 4. Febr. 2022 ([AS 2022 65](https://fedlex.data.admin.ch/eli/oc/2022/65)), Ziff. II der V vom 16. Febr. 2022 ([AS 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)) und Ziff. II Abs. 2 der V vom 30. März 2022, in Kraft seit 1. April 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
 
 ### 1 Regulärer Tarif für symptom- und fallorientierte Testungen
 
@@ -1416,10 +1372,9 @@ Anhang 6*[^t-8]*
 
   Der Bund übernimmt die Kosten für Sars-CoV-2-Schnelltests zur Fachanwendung nur in folgenden Fällen:
 
-  - a. bei gezielten und repetitiven Testungen in Schulen, Universitäten und Ausbildungsstätten zur Prävention und Früherkennung von Ausbrüchen, sofern die zuständige kantonale Stelle dies vorsieht und sie dem BAG ein Konzept vorlegt;
+  - a. …
   - b. in Situationen mit deutlich erhöhter Übertragungswahrscheinlichkeit, sofern die zuständige kantonale Stelle dies vorsieht und sie dem BAG ein Konzept vorlegt;
-  - c. im Rahmen von zeitlich begrenzten Testungen im Umfeld unkontrollierter Infektionsausbrüche, sofern die zuständige kantonale Stelle dies vorsieht;
-  - d. bei Testungen vor und während Lagern für Teilnehmerinnen und Teilnehmer sowie Betreuerinnen und Betreuer, sofern die zuständige kantonale Stelle dem BAG ein Konzept vorlegt.
+  - c. im Rahmen von zeitlich begrenzten Testungen im Umfeld unkontrollierter Infektionsausbrüche, sofern die zuständige kantonale Stelle dies vorsieht.
 
 - 2\.1.2
 
@@ -1459,10 +1414,9 @@ Anhang 6*[^t-8]*
 
   Der Bund übernimmt die Kosten für gepoolte molekularbiologische Analysen auf Sars-CoV-2 nur in folgenden Fällen:
 
-  - a. bei gezielten und repetitiven Testungen in Schulen, Universitäten und Ausbildungsstätten zur Prävention und Früherkennung von Ausbrüchen, sofern die zuständige kantonale Stelle dies vorsieht und sie dem BAG ein Konzept vorlegt oder sofern die Testungen über eine vom Bund zur Verfügung gestellte Plattform koordiniert werden;
+  - a. …
   - b. in Situationen mit deutlich erhöhter Übertragungswahrscheinlichkeit, sofern die zuständige kantonale Stelle dies vorsieht und sie dem BAG ein Konzept vorlegt oder sofern die Testungen über eine vom Bund zur Verfügung gestellte Plattform koordiniert werden;
-  - c. im Rahmen von zeitlich begrenzten Testungen im Umfeld unkontrollierter Infektionsausbrüche, sofern die zuständige kantonale Stelle dies vorsieht;
-  - d. bei Testungen vor und während Lagern für Teilnehmerinnen und Teilnehmer sowie Betreuerinnen und Betreuer, sofern die zuständige kantonale Stelle dem BAG ein Konzept vorlegt oder sofern die Testungen über eine vom Bund zur Verfügung gestellte Plattform koordiniert werden.
+  - c. im Rahmen von zeitlich begrenzten Testungen im Umfeld unkontrollierter Infektionsausbrüche, sofern die zuständige kantonale Stelle dies vorsieht.
 
 - 2\.2.2
 
@@ -1596,12 +1550,6 @@ Anhang 6*[^t-8]*
 <tr><td>Für die Ausstellung des Covid-19-Testzertifikats</td><td>2.50 Fr.</td></tr>
 </table>
 
-### 3.3**** …
-
-[^annex6-lvlu1-lvl3-lvl33-1]
-
-[^annex6-lvlu1-lvl3-lvl33-1]: In Kraft bis zum 30. Sept. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
-
 ### 4 Limitationen
 
 - 4\.1 Werden bei einer Person am gleichen Tag sowohl eine molekularbiologische Analyse auf Sars-CoV-2 nach Ziffer 1.1 als auch eine Analyse auf Sars-CoV-2-Antikörper nach Ziffer 1.3 durchgeführt, so übernimmt der Bund den Kostenanteil für die Probenentnahme nach den Ziffern 1.1.3 Buchstabe a und 1.3.3 Buchstabe a sowie denjenigen für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial nach den Ziffern 1.1.3 Buchstabe b und 1.3.3 Buchstabe b nur einmal.
@@ -1611,110 +1559,4 @@ Anhang 6*[^t-8]*
 
 Anhang 7*[^t-9]*
 
-(Art. 27*a* Abs. 10 Bst. b, 12 und 13 sowie 29 Abs. 7)
-
-## Erkrankungen und genetische Anomalien, welche die Betroffenen zu besonders gefährdeten Personen machen
-
 [^t-9]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer) ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Fassung gemäss Ziff. II Abs. 1 der V vom 17. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. März 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); Art. 29 Abs. 7).
-
-Gemäss aktuellem Stand der Wissenschaft ist nur bei bestimmten Kategorien erwachsener Personen von einer besonderen Gefährdung auszugehen. Die nachfolgenden Kriterien beziehen sich deshalb nur auf erwachsene Personen.
-
-### 1. Bluthochdruck
-
-- – Arterielle Hypertonie mit Endorganschaden
-- – Therapieresistente arterielle Hypertonie
-
-### 2. Herz-Kreislauf-Erkrankungen
-
-### 2.1 Generelle Kriterien
-
-- – Patient/innen mit Dyspnoe funktionelle Klasse NYHA II–IV und NT-Pro BNP &gt; 125 pg/ml
-- – Patient/innen mit mindestens zwei kardiovaskulären Risikofaktoren (einer davon Diabetes oder arterielle Hypertonie)
-- – Vorgängiger Schlaganfall und/oder symptomatische Vaskulopathie
-- – Chronische Niereninsuffizienz (Stadium 3, GFR &lt; 60 ml/min)
-
-### 2.2 Andere Kriterien
-
-### 2.2.1 Koronare Herzkrankheit
-
-- – Myokardinfarkt (STEMI und NSTEMI) in den letzten zwölf Monaten
-- – Symptomatisches chronisches Koronarsyndrom trotz medizinischer Therapie (unabhängig von allfälliger vorheriger Revaskularisierung)
-
-### 2.2.2 Erkrankung der Herzklappen
-
-- – Mittelschwere oder schwere Stenose und/oder Regurgitation zusätzlich zu mindestens einem generellen Kriterium
-- – Jeglicher chirurgische oder perkutane Klappenersatz zusätzlich zu mindestens einem generellen Kriterium
-
-### 2.2.3 Herzinsuffizienz
-
-- – Patient/innen mit Dyspnoe funktionelle Klasse NYHA II–IV oder NT-Pro BNP &gt; 125 pg/ml trotz medizinischer Therapie jeglicher LVEF (HFpEF, HFmrEF, HFrEF)
-- – Kardiomyopathie jeglicher Ursache
-- – Pulmonalarterielle Hypertonie
-
-### 2.2.4 Arrhythmie
-
-- – Vorhofflimmern mit einem CHA2DS2-VASc-Score von mindestens 2 Punkten
-- – Vorgängige Schrittmachereinlage (inkl. ICD- und/oder CRT-Implantation) zusätzlich zu einem generellen Kriterium
-
-### 2.2.5 Erwachsene mit kongenitaler Herzerkrankung
-
-- – Kongenitale Herzerkrankung nach individueller Beurteilung durch den behandelnden Kardiologen / die behandelnde Kardiologin
-
-### 3. Chronische Lungen- und Atemwegserkrankungen
-
-- – Chronisch Obstruktive Lungenerkrankungen GOLD Stadium II-IV
-- – Lungenemphysem
-- – Unkontrolliertes, insbesondere schweres Asthma bronchiale
-- – Interstitielle Lungenerkrankungen / Lungenfibrose
-- – Aktiver Lungenkrebs
-- – Pulmonalarterielle Hypertonie
-- – Pulmonalvaskuläre Erkrankung
-- – Aktive Sarkoidose
-- – Zystische Fibrose
-- – Chronische Lungeninfektionen (atypische Mykobakteriosen, Bronchiektasen etc.)
-- – Beatmete Patient/innen
-- – Krankheiten mit einer schwer verminderten Lungenkapazität
-
-### 4. Diabetes
-
-- – Diabetes mellitus, mit Spätkomplikationen oder einem HbA1c von 8 % oder mehr
-
-### 5. Erkrankungen/Therapien, die das Immunsystem schwächen
-
-- – Schwere Immunsuppression (z. B. HIV-Infektion mit einer CD4+ T-Zellzahl &lt; 200/µl)
-- – Neutropenie (&lt;1000 Neutrophile/µl) während ≥ 1 Woche
-- – Lymphozytopenie (&lt;200 Lymphozyten/µl)
-- – Hereditäre Immundefekte
-- – Einnahme von Medikamenten, die die Immunabwehr unterdrücken (wie z. B. Langzeit-Einnahme von Glukokortikoiden (Prednisolon-Äquivalent &gt; 20 mg/Tag), monoklonalen Antikörpern, Zytostatika, Biologika etc.)
-- – Aggressive Lymphome (alle Entitäten)
-- – Akute Lymphatische Leukämie
-- – Akute Myeloische Leukämie
-- – Akute Promyelozytenleukämie
-- – T-Prolymphozytenleukämie
-- – Primäre Lymphome des zentralen Nervensystems
-- – Stammzelltransplantation
-- – Amyloidose (Leichtketten (AL)- Amyloidose)
-- – Chronische Lymphatische Leukämie
-- – Multiples Myelom
-- – Sichelzellkrankheit
-- – Knochenmarktransplantation
-- – Organtransplantation
-- – Personen auf einer Warteliste für Transplantationen
-
-### 6. Krebs
-
-- – Krebs unter medizinischer Behandlung
-
-### 7. Adipositas
-
-- – Patient/innen mit einem Body-Mass-Index (BMI) von 35 kg/m2 oder mehr
-
-### 8. Lebererkrankung
-
-- – Leberzirrhose
-
-### 9. Nierenerkrankung
-
-- – Chronische Niereninsuffizienz ab GFR &lt; 60 ml/min
-
-### 10. Trisomie 21

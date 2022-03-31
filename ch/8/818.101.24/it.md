@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2022-03-25
+version: 2022-04-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220325/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220325-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220325/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220325/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 25 marzo 2022)
+del 19 giugno 2020 (Stato 1° aprile 2022) (Stato 1° aprile 2022)
 
 Il Consiglio federale svizzero,
 
@@ -305,17 +305,20 @@ La Confederazione può distribuire il materiale medico importante contro pagamen
 
 <sup>1</sup> I medicamenti contenenti i principi attivi elencati nell’allegato 5 fabbricati per il trattamento dei pazienti affetti da COVID-19 possono, dopo che è stata presentata una domanda di omologazione per un medicamento contenente uno di questi principi attivi, essere immessi in commercio senza omologazione finché Swissmedic non ha emanato una decisione in merito al rilascio dell’omologazione. Nel quadro dell’esame delle domande di omologazione, sulla base di un’analisi dei rischi e dei benefici Swissmedic può, per questi medicamenti, autorizzare deroghe alle vigenti disposizioni del diritto in materia di agenti terapeutici.
 
-<sup>2</sup> Le modifiche all’omologazione di un medicamento omologato in Svizzera contenente un principio attivo elencato nell’allegato 4 numero 1, in virtù del quale il medicamento può essere impiegato in Svizzera per il trattamento dei pazienti affetti da COVID-19, possono essere attuate immediatamente dopo che è stata presentata una corrispondente domanda, in attesa della decisione di Swissmedic. Per le modifiche all’omologazione di medicamenti contenenti un principio attivo elencato nell’allegato 4 numero 1, Swissmedic può, sulla base di un’analisi dei rischi e dei benefici, autorizzare deroghe alle vigenti disposizioni del diritto in materia di agenti terapeutici.[^21-1]
+<sup>1bis</sup> I medicamenti contenenti i principi attivi elencati nell’allegato 5*a* fabbricati per la profilassi di un’infezione da COVID-19 in persone immunosoppresse che non possono essere vaccinate o nelle quali non può essere sviluppata una protezione immunitaria sufficiente nonostante la vaccinazione possono, dopo che è stata presentata una domanda di omologazione per un medicamento contenente uno di questi principi attivi, essere immessi in commercio senza omologazione finché Swissmedic non ha emanato una decisione in merito al rilascio dell’omologazione.[^21-1]
 
-<sup>3</sup> Il DFI aggiorna costantemente l’elenco di cui all’allegato 5.[^21-2]
+<sup>2</sup> Le modifiche all’omologazione di un medicamento omologato in Svizzera contenente un principio attivo elencato nell’allegato 4 numero 1, in virtù del quale il medicamento può essere impiegato in Svizzera per il trattamento dei pazienti affetti da COVID-19, possono essere attuate immediatamente dopo che è stata presentata una corrispondente domanda, in attesa della decisione di Swissmedic. Per le modifiche all’omologazione di medicamenti contenenti un principio attivo elencato nell’allegato 4 numero 1, Swissmedic può, sulla base di un’analisi dei rischi e dei benefici, autorizzare deroghe alle vigenti disposizioni del diritto in materia di agenti terapeutici.[^21-2]
+
+<sup>3</sup> Il DFI aggiorna costantemente l’elenco di cui agli allegati 5 e 5*a*.[^21-3]
 
 <sup>4</sup> Sulla base di un’analisi dei rischi e dei benefici Swissmedic può, per i medicamenti impiegati in Svizzera per prevenire e combattere il coronavirus, autorizzare deroghe al processo di fabbricazione approvato nel quadro del rilascio dell’omologazione. Fissa i criteri in base ai quali il responsabile tecnico può emanare la decisione di liberazione sul mercato anticipata dei medicamenti impiegati in Svizzera per prevenire e combattere il coronavirus.
 
-<sup>5</sup> In deroga allʼarticolo 9*a* capoverso 1 lettera c della legge del 15 dicembre 2000 sugli agenti terapeutici, possono essere rilasciate omologazioni temporanee, anche se in Svizzera è disponibile un medicamento alternativo equivalente omologato, a condizione che le omologazioni servano a garantire lʼapprovvigionamento di medicamenti destinati a prevenire e a combattere il coronavirus in Svizzera.[^21-3]
+<sup>5</sup> In deroga allʼarticolo 9*a* capoverso 1 lettera c della legge del 15 dicembre 2000 sugli agenti terapeutici, possono essere rilasciate omologazioni temporanee, anche se in Svizzera è disponibile un medicamento alternativo equivalente omologato, a condizione che le omologazioni servano a garantire lʼapprovvigionamento di medicamenti destinati a prevenire e a combattere il coronavirus in Svizzera.[^21-4]
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^21-2]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2), in vigore dal 21 dic. 2020 ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
-[^21-3]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 28 ott. 2021 ([RU 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
+[^21-1]: Introdotto dal n. I dell’O del 30 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+[^21-2]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^21-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+[^21-4]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 28 ott. 2021 ([RU 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
 #### Art. 22
 
@@ -327,15 +330,18 @@ La Confederazione può distribuire il materiale medico importante contro pagamen
 
 <sup>2</sup> Ogni importazione secondo il capoverso 1<sup>bis</sup> deve essere notificata a Swissmedic entro 10 giorni dalla ricezione delle merci.[^22-3]
 
+<sup>2bis</sup> Dopo la presentazione di una domanda di omologazione per un medicamento di cui all’articolo 21 capoverso 1<sup>bis</sup>, il richiedente può già importare il medicamento prima dell’omologazione o conferire l’incarico di importarlo a un’azienda titolare di un’autorizzazione di commercio all’ingrosso o d’importazione.[^22-4]
+
 <sup>3</sup> Per prevenire e combattere il coronavirus in Svizzera Swissmedic può autorizzare, per un periodo limitato, l’immissione in commercio di un medicamento per supplire a una temporanea indisponibilità di un medicamento identico omologato in Svizzera, a condizione che in Svizzera non sia disponibile e omologato nessun medicamento sostanzialmente equivalente.
 
-<sup>4</sup> Dopo la presentazione di una domanda di omologazione per un vaccino contro il COVID-19 e di una domanda per il rilascio di un’autorizzazione d’esercizio secondo l’articolo 10 capoverso 1 lettera b della legge del 15 dicembre 2000 sugli agenti terapeutici, il richiedente può incaricare un’azienda titolare di un’autorizzazione di commercio all’ingrosso o d’importazione di importare il vaccino contro il COVID-19 prima ancora che sia stato omologato e di stoccarlo sino alla sua omologazione. L’azienda incaricata deve rispettare le norme internazionali della Buona prassi di distribuzione conformemente all’allegato 4 dell’ordinanza del 14 novembre 2018[^22-4] sull’autorizzazione dei medicamenti.[^22-5]
+<sup>4</sup> Dopo la presentazione di una domanda di omologazione per un vaccino contro il COVID-19 e di una domanda per il rilascio di un’autorizzazione d’esercizio secondo l’articolo 10 capoverso 1 lettera b della legge del 15 dicembre 2000 sugli agenti terapeutici, il richiedente può incaricare un’azienda titolare di un’autorizzazione di commercio all’ingrosso o d’importazione di importare il vaccino contro il COVID-19 prima ancora che sia stato omologato e di stoccarlo sino alla sua omologazione. L’azienda incaricata deve rispettare le norme internazionali della Buona prassi di distribuzione conformemente all’allegato 4 dell’ordinanza del 14 novembre 2018[^22-5] sull’autorizzazione dei medicamenti.[^22-6]
 
 [^22-1]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 26 apr. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 [^22-2]: Originario cpv. 1.
 [^22-3]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 26 apr. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^22-4]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^22-5]: Introdotto dal n. I dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2), in vigore dal 21 dic. 2020 ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^22-4]: Introdotto dal n. I dell’O del 30 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+[^22-5]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^22-6]: Introdotto dal n. I dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2), in vigore dal 21 dic. 2020 ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
 
 #### Art. 23
 
@@ -665,69 +671,13 @@ In caso di assemblee di società, l’organizzatore può disporre, a prescindere
 
 [^27-1]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 28 ott. 2021 ([RU 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
-## Capitolo 4*a*:**** Provvedimenti per proteggere i lavoratori particolarmente a rischio
-
-[^chap4a-1]
-
-[^chap4a-1]: Introdotto dal n. I dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio) ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 mar. 2022 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); art. 29 cpv. 7).
+## Capitolo 4*a*: ...
 
 #### Art. 27a
 
-<sup>1</sup> Il datore di lavoro permette ai lavoratori particolarmente a rischio di adempiere da casa i loro obblighi lavorativi. Adotta provvedimenti organizzativi e tecnici idonei a tal fine.[^27a-1]
+[^27a-1]
 
-<sup>2</sup> Se non è possibile adempiere da casa gli obblighi lavorativi abituali, il datore di lavoro assegna al lavoratore interessato, in deroga al contratto di lavoro e senza modifica della retribuzione, un lavoro alternativo equivalente che può essere svolto da casa.
-
-<sup>3</sup>
-
-Se, per motivi aziendali, è indispensabile la totale o parziale presenza sul posto di lavoratori particolarmente a rischio, questi ultimi possono essere occupati nella loro attività abituale sul posto se sono adempiute le seguenti condizioni:
-
-- a. la postazione di lavoro è organizzata in modo da evitare qualsiasi contatto stretto con altre persone, in particolare mediante la messa a disposizione di uno spazio individuale o di uno spazio di lavoro chiaramente delimitato; oppure
-- b. nei casi in cui non è sempre possibile evitare un contatto stretto, sono adottati ulteriori provvedimenti di protezione secondo il principio STOP (sostituzione, misure tecniche, misure organizzative, misure di protezione individuale).
-
-<sup>4</sup> Se non è possibile occupare i lavoratori interessati secondo i capoversi 1–3, il datore di lavoro assegna loro, in deroga al contratto di lavoro e senza modifica della retribuzione, un lavoro alternativo equivalente sul posto per il quale sono adempiute le condizioni di cui al capoverso 3 lettere a e b.
-
-<sup>5</sup> Prima di adottare i provvedimenti previsti, il datore di lavoro sente i lavoratori interessati. Documenta per scritto i provvedimenti decisi e li comunica in modo adeguato ai lavoratori.
-
-<sup>6</sup> I lavoratori interessati possono rifiutare un lavoro assegnato loro se il datore di lavoro non adempie le condizioni di cui ai capoversi 1−4 o se, per motivi particolari, considerano troppo elevato il rischio di contagio da coronavirus per sé stessi malgrado i provvedimenti adottati dal datore di lavoro secondo i capoversi 3 e 4. Il datore di lavoro può esigere un certificato medico.
-
-<sup>7</sup> Se non è possibile occupare i lavoratori interessati secondo i capoversi 1−4 oppure se questi rifiutano il lavoro loro assegnato secondo il capoverso 6, il datore di lavoro li esenta dall’obbligo di lavorare con continuazione del pagamento dello stipendio.
-
-<sup>8</sup> I lavoratori attestano la loro condizione di persone particolarmente a rischio mediante un’autodichiarazione. Il datore di lavoro può esigere un certificato medico.
-
-<sup>9</sup> Al diritto all’indennità per perdita di guadagno per il coronavirus si applica l’articolo 2 capoverso 3<sup>quater</sup> dell’ordinanza COVID-19 perdita di guadagno del 20 marzo 2020[^27a-2].
-
-<sup>10</sup>
-
-Sono considerate particolarmente a rischio:
-
-- a. le donne incinte;
-- b. le persone affette dalle patologie o anomalie genetiche di cui all’allegato 7 che per motivi medici non possono farsi vaccinare contro il COVID-19.
-
-<sup>11</sup>
-
-Non sono considerate particolarmente a rischio:
-
-- a. le donne incinte vaccinate contro il COVID-19, durante 270 giorni a partire dalla vaccinazione completa;
-- b.
-
-  le persone di cui al capoverso 10 che sono state contagiate dal SARS-CoV-2 e sono considerate guarite:
-
-  - 1\.[^27a-3] in caso di analisi di biologia molecolare per il rilevamento del SARS-CoV-2: per 180 giorni a partire dall’11° giorno dopo la conferma del contagio,
-  - 2\.[^27a-4] in caso di analisi per gli anticorpi contro il SARS-CoV-2: per la durata di validità del relativo certificato (art. 34*a* cpv. 1 lett. c dell’ordinanza del 4 giugno 2021[^27a-5] sui certificati COVID-19).[^27a-6]
-
-<sup>12</sup> Le patologie e anomalie genetiche di cui al capoverso 10 lettera b sono precisate nell’allegato 7 in base a criteri medici. L’elenco di questi criteri non è esaustivo. È fatta salva una valutazione clinica del rischio nel singolo caso, che può portare a classificare anche persone di cui al capoverso 11 tra quelle particolarmente a rischio.
-
-<sup>13</sup> Il DFI aggiorna costantemente l’allegato 7 in base allo stato delle conoscenze scientifiche.
-
-<sup>14</sup> ...[^27a-7]
-
-[^27a-1]: Nuovo testo giusta l’all. n. 2 dell’O del 19 gen. 2022 (Proroga dei provvedimenti, abbreviazione della durata di validità dei certificati di vaccinazione e di guarigione, rinuncia alla registrazione dei dati di contatto, deroghe all’obbligo del certificato per membri di delegazioni internazionali, disposizioni particolari per gli esami federali di maturità e di maturità professionale), in vigore dal 25 gen. 2022 al 31 mar. 2022 ([RU 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
-[^27a-2]: [RS 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-3]: Nuovo testo giusta il n. I dell’O del 18 mar. 2022, in vigore dal 21 mar. 2022 al 31 mar. 2022 ([RU 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
-[^27a-4]: Nuovo testo giusta il n. III dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera), in vigore dal 17 feb. 2022 al 31 mar. 2022 ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
-[^27a-5]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^27a-6]: Nuovo testo giusta l’all. n. 2 dell’O del 19 gen. 2022 (Proroga dei provvedimenti, abbreviazione della durata di validità dei certificati di vaccinazione e di guarigione, rinuncia alla registrazione dei dati di contatto, deroghe all’obbligo del certificato per membri di delegazioni internazionali, disposizioni particolari per gli esami federali di maturità e di maturità professionale), in vigore dal 31 gen. 2022 al 31 mar. 2022 ([RU 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
-[^27a-7]: Abrogato dall’all. n. 2 dell’O COVID-19 situazione particolare del 16 feb. 2022, con effetto dal 17 feb. 2022 ([RU 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
+[^27a-1]: Introdotto dal n. I dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio) ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 mar. 2022 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); art. 29 cpv. 7).
 
 ## Capitolo 5: Disposizioni finali
 
@@ -1010,7 +960,13 @@ Allegato 5*[^t-6]*
 
 Allegato 5a*[^t-7]*
 
-[^t-7]: Introdotto dal n. III cpv. 1 dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2) ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Abrogato dal n. II cpv. 1 dell’O del 25 ago. 2021, con effetto dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+(art. 21 cpv. 1<sup>bis</sup> e 3)
+
+## Elenco dei principi attivi per la profilassi di un’infezione da COVID-19
+
+[^t-7]: Introdotto dal n. III cpv. 1 dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2) ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nuovo testo giusta il n. II cpv. 1 dell’O del 30 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+
+- 1\. Tixagevimab/cilgavimab
 
 Allegato 6*[^t-8]*
 
@@ -1018,7 +974,7 @@ Allegato 6*[^t-8]*
 
 ## Prestazioni assunte e importi massimi per le analisi per il SARS-CoV-2
 
-[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), dalla correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), dall’all. n. 3 I dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II cpv. 2 dell’O del 25 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), dal n. II dell’O del 1° ott. 2021 ([RU 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), dall’all. n. 1 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), dal n. II cpv. 1 dell’O del 17 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), dal n. III 1 dell’O del 2 feb. 2022 (Revoca della quarantena dei contatti e dell’obbligo di telelavoro) ([RU 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)), dal n. I dell’O del 4 feb. 2022 ([RU 2022 65](https://fedlex.data.admin.ch/eli/oc/2022/65)) e dal n. II dell’O del 16 feb. 2022, in vigore dal 17 feb. 2022 ([RU 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)).
+[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), dalla correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), dall’all. n. 3 I dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II cpv. 2 dell’O del 25 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), dal n. II dell’O del 1° ott. 2021 ([RU 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), dall’all. n. 1 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), dal n. II cpv. 1 dell’O del 17 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), dal n. III 1 dell’O del 2 feb. 2022 (Revoca della quarantena dei contatti e dell’obbligo di telelavoro) ([RU 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)), dal n. I dell’O del 4 feb. 2022 ([RU 2022 65](https://fedlex.data.admin.ch/eli/oc/2022/65)), dal n. II dell’O del 16 feb. 2022 ([RU 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)) e dal n. II cpv. 2 dell’O del 30 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
 
 ### 1 Tariffe ordinarie per i test orientati ai sintomi e ai casi
 
@@ -1412,10 +1368,9 @@ Allegato 6*[^t-8]*
 
   La Confederazione assume le spese per i test rapidi SARS-CoV-2 per uso professionale solo nei seguenti casi:
 
-  - a. per test mirati e ripetuti nelle scuole, nelle università e negli istituti di formazione ai fini della prevenzione e del rilevamento precoce dei focolai, se il servizio cantonale competente lo prevede e presenta all’UFSP una strategia;
+  - a. ...
   - b. in situazioni con una probabilità di trasmissione molto elevata, se il servizio cantonale competente lo prevede e presenta all’UFSP una strategia;
-  - c. per test limitati nel tempo nel contesto di focolai di infezione incontrollati, se previsto dal servizio cantonale competente;
-  - d. per test prima e durante i campi, per i partecipanti e gli accompagnatori, se il servizio cantonale competente presenta una strategia all’UFSP.
+  - c. per test limitati nel tempo nel contesto di focolai di infezione incontrollati, se previsto dal servizio cantonale competente.
 
 - 2\.1.2
 
@@ -1455,10 +1410,9 @@ Allegato 6*[^t-8]*
 
   La Confederazione assume le spese per le analisi di biologia molecolare aggregate per il SARS-CoV-2 solo nei seguenti casi:
 
-  - a. per test mirati e ripetuti nelle scuole, nelle università e negli istituti di formazione ai fini della prevenzione e del rilevamento precoce dei focolai, se il servizio cantonale competente lo prevede e presenta all’UFSP una strategia o se i test sono coordinati mediante una piattaforma messa a disposizione dalla Confederazione;
+  - a. ...
   - b. in situazioni con una probabilità di trasmissione molto elevata, se il servizio cantonale competente lo prevede e presenta all’UFSP una strategia o se i test sono coordinati mediante una piattaforma messa a disposizione dalla Confederazione;
-  - c. per test limitati nel tempo nel contesto di focolai di infezione incontrollati, se previsto dal servizio cantonale competente;
-  - d. per test prima e durante i campi, per i partecipanti e gli accompagnatori, se il servizio cantonale competente presenta una strategia all’UFSP o se i test sono coordinati mediante una piattaforma messa a disposizione dalla Confederazione.
+  - c. per test limitati nel tempo nel contesto di focolai di infezione incontrollati, se previsto dal servizio cantonale competente.
 
 - 2\.2.2
 
@@ -1583,7 +1537,6 @@ Allegato 6*[^t-8]*
 <tr><td>– per l’analisi in caso di dimensione minima del campione aggregato di 4 campioni singoli</td><td>82 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>24 fr.</td></tr>
 <tr><td>– supplemento per ogni altro campione prelevato fino a una dimensione massima del campione aggregato di 25 campioni singoli</td><td>8 fr.</td></tr>
-<tr><td>[tab]</td><td></td></tr>
 <tr><td>– per l’esecuzione di un’aggregazione centralizzata nei casi di cui al numero 3.2.1, per ogni campione aggregato</td><td>18.50 fr.</td></tr>
 <tr><td>Se eseguita senza incarico di un altro fornitore di prestazioni, di cui:</td><td>255 fr.</td></tr>
 <tr><td>– per l’analisi in caso di dimensione minima del campione aggregato di 4 campioni singoli</td><td>82 fr.</td></tr>
@@ -1592,12 +1545,6 @@ Allegato 6*[^t-8]*
 <tr><td>– per l’esecuzione di un’aggregazione centralizzata nei casi di cui al numero 3.2.1, per ogni campione aggregato</td><td>18.50 fr.</td></tr>
 <tr><td>Per l’emissione del certificato di test COVID-19</td><td>2.50 fr.</td></tr>
 </table>
-
-### 3.3**** ...
-
-[^annex6-lvlu1-lvl3-lvl33-1]
-
-[^annex6-lvlu1-lvl3-lvl33-1]: In vigore fino al 30 set. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 ### 4 Limitazioni
 
@@ -1608,110 +1555,4 @@ Allegato 6*[^t-8]*
 
 Allegato 7*[^t-9]*
 
-(art. 27*a* cpv. 10 lett. b, 12 e 13 nonché 29 cpv. 7)
-
-## Malattie e anomalie genetiche che rendono le persone interessate particolarmente a rischio
-
-[^t-9]: Introdotto dal n. II dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio) ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nuovo testo giusta il n. II cpv. 2 dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
-
-Secondo lo stato attuale delle conoscenze scientifiche, si presume un rischio particolare soltanto per determinate categorie di persone adulte. I criteri seguenti si riferiscono pertanto unicamente a persone adulte.
-
-### 1. Ipertensione arteriosa
-
-- – Ipertensione arteriosa con danno agli organi bersaglio
-- – Ipertensione arteriosa resistente alla terapia
-
-### 2. Malattie cardiovascolari
-
-### 2.1 Criteri generali
-
-- – Pazienti con dispnea della classe funzionale NYHA II–IV e NT-pro BNP &gt; 125 pg/ml
-- – Pazienti con almeno due fattori di rischio cardiovascolare (di cui uno è il diabete o l’ipertensione arteriosa)
-- – Ictus cerebrale pregresso e/o vascolopatia sintomatica
-- – Insufficienza renale cronica (stadio 3, GFR &lt; 60 ml/min)
-
-### 2.2 Altri criteri
-
-### 2.2.1 Cardiopatie coronariche
-
-- – Infarto miocardico (STEMI e NSTEMI) negli ultimi dodici mesi
-- – Sindrome coronarica cronica sintomatica, nonostante la terapia farmacologica (indipendentemente da un’eventuale precedente rivascolarizzazione)
-
-### 2.2.2 Malattie delle valvole cardiache
-
-- – Stenosi da moderata a severa o severa e/o rigurgito valvolare, in aggiunta ad almeno un criterio generale
-- – Tutte le sostituzioni valvolari chirurgiche o percutanee, in aggiunta ad almeno un criterio generale
-
-### 2.2.3 Insufficienza cardiaca
-
-- – Pazienti con dispnea della classe funzionale NYHA II–IV o NT-pro BNP &gt; 125 pg/ml, nonostante la terapia farmacologica per tutti i valori LVEF (HFpEF, HFmrEF, HFrEF)
-- – Cardiomiopatie di tutte le eziologie
-- – Ipertensione arteriosa polmonare
-
-### 2.2.4 Aritmie cardiache
-
-- – Fibrillazione atriale con un punteggio CHA2DS2-VASc pari ad almeno 2
-- – Precedente impianto di un pacemaker cardiaco (incl. ICD e/o CRT), in aggiunta a un criterio generale
-
-### 2.2.5 Cardiopatie congenite dell’adulto
-
-- – Cardiopatia congenita dopo valutazione individuale da parte del cardiologo curante
-
-### 3. Malattie croniche dei polmoni e delle vie respiratorie
-
-- – Malattie polmonari ostruttive croniche allo stadio GOLD II–IV
-- – Enfisema polmonare
-- – Forme di asma bronchiale particolarmente severe e non controllate
-- – Pneumopatie interstiziali / fibrosi polmonare
-- – Cancro attivo ai polmoni
-- – Ipertensione arteriosa polmonare
-- – Malattia vascolare polmonare
-- – Sarcoidosi attiva
-- – Fibrosi cistica
-- – Infezioni polmonari croniche (micobatteriosi atipiche, bronchiectasie ecc.)
-- – Pazienti sottoposti a respirazione artificiale
-- – Malattie che riducono gravemente la capacità polmonare
-
-### 4. Diabete
-
-- – Diabete mellito, con complicanze tardive o con un valore di HbA1c uguale o superiore all’8 per cento
-
-### 5. Malattie o terapie che indeboliscono il sistema immunitario
-
-- – Immunosoppressione grave (p. es. infezione da HIV con un numero di linfociti T CD4+ &lt; 200/µl)
-- – Neutropenia (&lt; 1000 neutrofili/µl) durante ≥ 1 settimana
-- – Linfocitopenia (&lt; 200 linfociti/µl)
-- – Immunodeficienze ereditarie
-- – Assunzione di medicamenti che sopprimono la risposta immunitaria (p. es. assunzione prolungata di glucocorticoidi (equivalente di prednisolone &gt; 20 mg/giorno), anticorpi monoclonali, citostatici, terapie biologiche ecc.)
-- – Linfomi aggressivi (tutti i tipi)
-- – Leucemia linfatica acuta
-- – Leucemia mieloide acuta
-- – Leucemia promielocitica acuta
-- – Leucemia prolinfocitica a cellule T
-- – Linfomi primari del sistema nervoso centrale
-- – Trapianto di cellule staminali
-- – Amiloidosi (amiloidosi da catene leggere (AL))
-- – Leucemia linfatica cronica
-- – Mieloma multiplo
-- – Anemia falciforme
-- – Trapianto di midollo osseo
-- – Trapianto di organi
-- – Persone in lista d’attesa per un trapianto
-
-### 6. Cancro
-
-- – Malattie tumorali in corso di trattamento medico
-
-### 7. Obesità
-
-- – Pazienti con un indice di massa corporea (IMC) pari o superiore a 35 kg/m<sup>2</sup>
-
-### 8. Epatopatia
-
-- – Cirrosi epatica
-
-### 9. Nefropatia
-
-- – Insufficienza renale cronica, a partire da GFR &lt; 60 ml/min
-
-### 10. Trisomia 21
+[^t-9]: Introdotto dal n. II dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio) ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nuovo testo giusta il n. II cpv. 2 dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 mar. 2022 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); art. 29 cpv. 7).

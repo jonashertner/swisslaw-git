@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2022-03-25
+version: 2022-04-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220325/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220325-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220325/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220401/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220401-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220401/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 25 March 2022)
+of 19 June 2020 (Status as of 1 April 2022)
 
 The Swiss Federal Council,
 
@@ -307,17 +307,20 @@ The Confederation may sell the essential medical goods on the market in return f
 
 <sup>1</sup> Medicinal products that are manufactured with active substances under Annex 5 for the treatment of COVID-19 patients may, provided an application for authorisation of a medicinal product containing one of these active substances has been filed, be placed on the market without authorisation pending Swissmedic’s decision on authorisation. When examining applications for authorisation, Swissmedic may permit a relaxation of the relevant requirements for such medicinal products under the law on therapeutic products on the basis of a risk-benefit analysis.
 
-<sup>2</sup> Amendments to the authorisation for a medicinal product authorised in Switzerland containing an active substance under Annex 4 number 1 on the basis of which the medicinal product can be used to treat COVID-19 patients in Switzerland may be made immediately after filing a corresponding amendment application and pending Swissmedic’s decision on authorisation. Swissmedic may, on the basis of a risk-benefit analysis, permit a relaxation of the relevant requirements under the law on therapeutic products for amendments to the authorisation of medicinal products containing an active substance listed in Annex 4 number 1.[^21-1]
+<sup>1bis</sup> Medicinal products that are manufactured with active substances under Annex 5*a* in order to prevent the COVID-19 infection of immunosuppressed persons in whom sufficient immune protection cannot be built up despite vaccination or who cannot be vaccinated may be placed on the market without authorisation after submission of an application for the authorisation of a medicinal product containing any of these active substances until Swissmedic's decision on the authorisation has been taken.[^21-1]
 
-<sup>3</sup> The FDHA shall regularly update the list in Annex 5.[^21-2]
+<sup>2</sup> Amendments to the authorisation for a medicinal product authorised in Switzerland containing an active substance under Annex 4 number 1 on the basis of which the medicinal product can be used to treat COVID-19 patients in Switzerland may be made immediately after filing a corresponding amendment application and pending Swissmedic’s decision on authorisation. Swissmedic may, on the basis of a risk-benefit analysis, permit a relaxation of the relevant requirements under the law on therapeutic products for amendments to the authorisation of medicinal products containing an active substance listed in Annex 4 number 1.[^21-2]
+
+<sup>3</sup> The FDHA shall regularly update the lists in Annexes 5 and 5*a*.[^21-3]
 
 <sup>4</sup> Swissmedic may on the basis of a risk-benefit analysis permit changes to the manufacturing process approved within the framework of the authorisation of medicinal products used to prevent and treat COVID-19 in Switzerland. It shall specify criteria according to which the person responsible for technical matters may grant an early market release for medicinal products used to prevent and treat COVID-19 in Switzerland.
 
-<sup>5</sup> In derogation from Article 9*a* paragraph 1 letter c of the Therapeutic Products Act of 15 December 2000, temporary authorisations may be issued even if an authorised equivalent medicinal product that can be used as an alternative is available in Switzerland, provided the authorisations serve to guarantee the supply of medicinal products to prevent and combat the coronavirus in Switzerland.[^21-3]
+<sup>5</sup> In derogation from Article 9*a* paragraph 1 letter c of the Therapeutic Products Act of 15 December 2000, temporary authorisations may be issued even if an authorised equivalent medicinal product that can be used as an alternative is available in Switzerland, provided the authorisations serve to guarantee the supply of medicinal products to prevent and combat the coronavirus in Switzerland.[^21-4]
 
-[^21-1]: Amended by No I of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^21-2]: Amended by No I of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests), in force since 21 Dec. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
-[^21-3]: Inserted by No I of the O of 27 Oct. 2021, in force since 28 Oct. 2021 ([AS 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
+[^21-1]: Inserted by No I of the O of 30 March 2022, in force since 1 April 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+[^21-2]: Amended by No I of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^21-3]: Amended by No I of the O of 30 March 2022, in force since 1 April 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+[^21-4]: Inserted by No I of the O of 27 Oct. 2021, in force since 28 Oct. 2021 ([AS 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
 #### Art. 22
 
@@ -329,15 +332,18 @@ The Confederation may sell the essential medical goods on the market in return f
 
 <sup>2</sup> Notice of each import under paragraph 1<sup>bis</sup> must be given to Swissmedic within 10 days of the arrival of goods.[^22-3]
 
+<sup>2bis</sup> After submitting an application for the authorisation of a medicinal product in accordance with Article 21 paragraph 1<sup>bis</sup>, the applicant may import the medicinal product or instruct a company with a wholesale or import licence to import it before authorisation is granted.[^22-4]
+
 <sup>3</sup> In order to prevent and treat COVID-19 in Switzerland, Swissmedic may allow the temporary placing on the market of a medicinal product as a short-term solution for the temporary non-availability of an identical medicinal product authorised in Switzerland, provided no essentially identical medicinal product is authorised and available in Switzerland.
 
-<sup>4</sup> After submitting its application for authorisation for a COVID-19 vaccine and for an operating licence under Article 10 paragraph 1 letter b of the Therapeutic Products Act of 15 December 2000, the applicant may instruct a company with a wholesale or import licence to import the COVID-19 vaccine before its authorisation and to store the vaccine until authorisation is granted. The company instructed must comply with the international rules on good distribution practice in accordance with Annex 4 of the Medicinal Products Licensing Ordinance of 14 November 2018[^22-4].[^22-5]
+<sup>4</sup> After submitting its application for authorisation for a COVID-19 vaccine and for an operating licence under Article 10 paragraph 1 letter b of the Therapeutic Products Act of 15 December 2000, the applicant may instruct a company with a wholesale or import licence to import the COVID-19 vaccine before its authorisation and to store the vaccine until authorisation is granted. The company instructed must comply with the international rules on good distribution practice in accordance with Annex 4 of the Medicinal Products Licensing Ordinance of 14 November 2018[^22-5].[^22-6]
 
 [^22-1]: Inserted by No I of the O of 12 May 2021, in force since 26 April 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 [^22-2]: Originally para. 1.
 [^22-3]: Amended by No I of the O of 12 May 2021, in force since 26 April 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^22-4]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^22-5]: Inserted by No I of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests), in force since 21 Dec. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^22-4]: Inserted by No I of the O of 30 March 2022, in force since 1 April 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+[^22-5]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^22-6]: Inserted by No I of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests), in force since 21 Dec. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
 
 #### Art. 23
 
@@ -667,69 +673,13 @@ In the case of company meetings, the organiser may, regardless of the probable n
 
 [^27-1]: Amended by No I of the O of 27 Oct. 2021, in force since 28 Oct. 2021 ([AS 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
-## Chapter 4*a***** Measures to protect Employees at High Risk
-
-[^chap4a-1]
-
-[^chap4a-1]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk) ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Amended by No I of the O of 17 Dec. 2021, in force from 1 Jan. 2022 until 31 March 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); Art. 29 para. 7).
+## Chapter 4*a* *…*
 
 #### Art. 27a
 
-<sup>1</sup> Employers shall enable their employees at high risk to carry out their working duties from home. They shall take the appropriate organisational and technical measures to achieve this.[^27a-1]
+[^27a-1]
 
-<sup>2</sup> Where it is not possible for employees to carry out their regular working duties from home, employers shall, in derogation from the contract of employment and for the same pay, assign the employees concerned equivalent alternative work that can be performed from home.
-
-<sup>3</sup>
-
-Where for operational reasons the presence of employees at high risk in the workplace is essential at all or at certain times, they may carry out their regular activities in the workplace provided the following requirements are met:
-
-- a. The workplace is organised so as to prevent any close contact with other persons, in particular by providing the employee concerned with his or her own room or a clearly separate working area.
-- b. In cases where close contact cannot be avoided at all times, appropriate protective measures shall be taken in accordance with the STOP principle (substitution, technical measures, organisational measures, personal protective equipment).
-
-<sup>4</sup> If it is not possible for the employees concerned to work in accordance with paragraphs 1–3, the employer shall in derogation from the contract of employment assign them equivalent alternative work in their normal workplace for the same pay in conditions which meet the requirements of paragraph 3 letters a and b.
-
-<sup>5</sup> Before the employer takes any measures, he or she shall consult the employees concerned. The employer shall record the measures decided in writing and notify the employees of the same in a suitable manner.
-
-<sup>6</sup> The employee concerned may decline to carry out work assigned to him or her if the employer fails to meet the requirements of paragraphs 1–4 or if the employee regards his or her personal risk of infection with the coronavirus for specific reasons as being too high despite the employer taking measures in accordance with paragraphs 3 and 4. The employer may request a medical certificate.
-
-<sup>7</sup> If it is not possible for the employee concerned to work in accordance with paragraphs 1–4, or if the employee declines the work assigned in terms of paragraph 6, the employer shall furlough the employee while continuing to pay his or her salary.
-
-<sup>8</sup> Employees shall give notice that they are at high risk by making a personal declaration. The employer may request a medical certificate.
-
-<sup>9</sup> Article 2 paragraph 3<sup>quater</sup> of the COVID-19 Loss of Earnings Ordinance of 20 March 2020[^27a-2] governs claims for compensation for loss of earnings related to the corona pandemic.
-
-<sup>10</sup>
-
-The following persons are regarded as being at high risk:
-
-- a. pregnant women;
-- b. persons with the diseases or genetic anomalies listed in Annex 7 who cannot be vaccinated on medical grounds.
-
-<sup>11</sup>
-
-The following persons are not regarded as being at high risk:
-
-- a. pregnant women who have been vaccinated against COVID-19, for 270 days from the date on which the vaccination is administered in full;
-- b.
-
-  persons specified in paragraph 10 who have been infected with Sars-CoV-2 and have recovered:
-
-  - [tab] 1.[^27a-3] when based on a molecular-biological analysis for Sars-CoV-2: for 180 days from the eleventh day after confirmation of infection,
-  - 2\.[^27a-4] when based on an analysis for Sars-CoV-2 antibodies: for the period of validity of the related certificate (Art. 34*a* para. 1 let. c of the COVID-19 Ordinance on Certificates of 4 June 2021[^27a-5]).[^27a-6]
-
-<sup>12</sup> The diseases and genetic anomalies referred to in paragraph 10 are defined in Annex 7 on the basis of medical criteria. The list of these criteria is not exhaustive. A clinical assessment of the risk in specific cases remains reserved and may lead to persons being classed as being at high risk under paragraph 10<sup>bis</sup>.
-
-<sup>13</sup> The FDHA shall continually update Annex 7 based on the state of science.
-
-<sup>14</sup> …[^27a-7]
-
-[^27a-1]: Amended by Annex No 2 of the O of 19 Jan. 2022 (Extension of Measures, Reduction in the Period of Validity of Vaccination and Recovery Certificates, Waiving the Collection of Contact Data, Exemption from the Certificate Requirements for International Delegations, Provisions on the Federal Baccalaureate and Professional Baccalaureate Examinations), in force from 25 Jan. 2022 to 31 March 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
-[^27a-2]: [SR 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-3]: Amended by No I of the O of 18 March 2022, in force from 21 March 2022 until 31 March 2022 ([AS 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
-[^27a-4]: Amended by No III of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force from 17 Feb. 2022 to 31 March 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
-[^27a-5]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^27a-6]: Amended by Annex No 2 of the O of 19 Jan. 2022 (Extension of Measures, Reduction in the Period of Validity of Vaccination and Recovery Certificates, Waiving the Collection of Contact Data, Exemption from the Certificate Requirements for International Delegations, Provisions on the Federal Baccalaureate and Professional Baccalaureate Examinations), in force from 31 Jan. 2022 to 31 March 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
-[^27a-7]: Repealed by Annex No 2 of the COVID-19 Special Situation Ordinance of 16 Feb. 2022, with effect from 17 Feb. 2022 ([AS 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
+[^27a-1]: Inserted by No I of the O of 13 Jan. 2021 (Employees at high risk) ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Amended by No I of the O of 17 Dec. 2021, in force from 1 Jan. 2022 to 31 March 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); Art. 29 para. 7).
 
 ## Chapter 5 Final Provisions
 
@@ -1079,7 +1029,13 @@ Annex 5*[^t-6]*
 
 Annex 5a*[^t-7]*
 
-[^t-7]: Inserted by No III para. 1 of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Repealed by No II para. 1 of the O of 25 Aug. 2021, with effect from 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+(Art. 21 para. 1<sup>bis</sup> and 3)
+
+## List of active substances that prevent COVID-19 infection
+
+[^t-7]: Inserted by No III para. 1 of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Amended by No II para. 1 of the O of 30 March 2022, in force since 1 April 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+
+\1. Tixagevimab/Cilgavimab
 
 Annex 6*[^t-8]*
 
@@ -1087,7 +1043,7 @@ Annex 6*[^t-8]*
 
 ## Services and maximum amounts paid for Sars-CoV-2 analyses
 
-[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Annex No 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), No II para. 2 of the O of 25 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), No II of the O of 1 Oct 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), Annex No 1 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), No II para. 1 of the O of 17 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), No III 1 of the O of 2 Feb. 2022 (Lifting the Requirement for Contact Quarantine and to Work from Home) ([AS 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)), No I of the O of 4 Feb. 2022 ([AS 2022 65](https://fedlex.data.admin.ch/eli/oc/2022/65)) and No II of the O of 16 Feb. 2022, in force since 17 Feb. 2022 ([AS 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)).
+[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Annex No 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), No II para. 2 of the O of 25 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), No II of the O of 1 Oct. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), Annex No 1 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), No II para. 1 of the O of 17 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), No III 1 of the O of 2 Feb. 2022 (Lifting the Requirement for Contact Quarantine and to Work from Home) ([AS 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)), No I of the O of 4 Feb. 2022 ([AS 2022 65](https://fedlex.data.admin.ch/eli/oc/2022/65)), No II of the O of 16 Feb. 2022 ([AS 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)) and No II para. 2 of the O of 30 March 2022, in force since 1 April 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
 
 ### 1 Standard tariff for symptom- and case-based testing
 
@@ -1475,10 +1431,9 @@ Annex 6*[^t-8]*
 
   The Confederation shall pay the costs of Sars-CoV-2 rapid tests for specialist use only in following cases:
 
-  - a. in the case of targeted and repetitive testing in schools, universities and training centres in order to prevent and detect outbreaks, provided the responsible authority or organisation in the canton makes provision for this and submits a plan to the FOPH;
+  - a. …
   - b. in situations with a significantly higher probability of transmission, provided the responsible authority or organisation in the canton makes provision for this and submits a plan to the FOPH;
   - c. in relation to testing over a limited period in connection with uncontrolled outbreaks of infection, provided the responsible authority or organisation in the canton makes provision for this;
-  - d. in the case of tests before and during school camps for participants and supervisors, provided the responsible authority or organisation in the canton makes provision for this and submits a plan to the FOPH.
 
 - 2\.1.2
 
@@ -1518,10 +1473,9 @@ Annex 6*[^t-8]*
 
   The Confederation shall pay the costs of pooled molecular-biological analyses for Sars-CoV-2 only in following cases:
 
-  - a. in the case of targeted and repetitive testing in schools, universities and training centres in order to prevent and detect outbreaks, provided the responsible authority or organisation in the canton makes provision for this and submits a plan to the FOPH or provided the testing is coordinated via a platform made available by the Confederation;
+  - a. …
   - b. in situations with a significantly higher probability of transmission, provided the responsible authority or organisation in the canton makes provision for this and submits a plan to the FOPH or provided the testing is coordinated via a platform made available by the Confederation;
   - c. in relation to testing over a limited period in connection with uncontrolled outbreaks of infection, provided the responsible authority or organisation in the canton makes provision for this or provided the testing is coordinated via a platform made available by the Confederation;
-  - d. in the case of testing for participants and supervisors before and during camps, provided the responsible authority or organisation in the canton submits a plan to the FOPH or provided the testing is coordinated via a platform made available by the Confederation.
 
 - 2\.2.2
 
@@ -1654,12 +1608,6 @@ Annex 6*[^t-8]*
 <tr><td colspan="2">For issuing the COVID-19 test certificate</td><td>2.50 Fr.</td></tr>
 </table>
 
-### 3.3**** ...
-
-[^annex6-lvlu1-lvl3-lvl33-1]
-
-[^annex6-lvlu1-lvl3-lvl33-1]: In force until 30 Sept. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
-
 ### 4 Limitations
 
 - 4\.1 If both a molecular-biological analysis for Sars-CoV-2 in accordance with number 1.1 and an analysis for Sars-CoV-2 antibodies in accordance with number 1.3 are carried out on the same person on the same day, the Confederation shall make only one payment of the amount due for collecting a sample in accordance with number 1.1.3 letter a and 1.3.3 letter a and the amount due for the order processing, overheads and sampling materials in accordance with the number 1.1.3 letter b and 1.3.3 letter b.
@@ -1669,110 +1617,4 @@ Annex 6*[^t-8]*
 
 Annex 7*[^t-9]*
 
-(Art. 27*a* para. 10 let. b, 12 and 13 and Art. 29 para. 7)
-
-## Diseases and genetic anomalies that make the persons concerned persons at high risk
-
-[^t-9]: Inserted by No II of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 Dec. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)) ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Amended by No II para. 1 of the O of 17 Dec. 2021, in force from 1 Jan. 2022 until 31 March 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); Art. 29 para. 7).
-
-According to the current state of science, a high risk can only be assumed for certain categories of adult person. The following criteria therefore apply to adults only.
-
-### 1. High blood pressure (hypertension)
-
-- – Arterial hypertension with end-organ damage
-- – Therapy-resistant arterial hypertension
-
-### 2. Cardio-vascular diseases
-
-### 2.1 General criteria
-
-- – Patients with dyspnoea of functional class NYHA ≥ II and NT per BNP &gt; 125 pg/ml
-- – Patients with ≥ 2 cardio-vascular risk factors (one of which is diabetes or arterial hypertension)
-- – Prior stroke and/or symptomatic vasculopathy
-- – Chronic renal insufficiency (Stage 3, GFR &lt;60ml/min)
-
-### 2.2 Other criteria
-
-### 2.2.1 Coronary heart disease
-
-- – Myocardial infarction (STEMI and NSTEMI) in the past 12 months
-- – Symptomatic chronic coronary syndrome despite medical treatment (irrespective of any prior revascularisation)
-
-### 2.2.2 Disease of the heart valves
-
-- – Moderate or serious stenosis and/or regurgitation in addition to at least one general criterion
-- – Any surgical or percutaneous valve replacement in addition to at least one general criterion
-
-### 2.2.3 Cardiac insufficiency
-
-- – Patients with dyspnoea of functional class NYHA II–IV or NT-Pro BNP &gt; 125pg/ml despite medical treatment for any LVEF (HFpEF, HFmrEF, HFrEF)
-- – Cardiomyopathy with any cause
-- – Pulmonary arterial hypertension
-
-### 2.2.4 Arrhythmia
-
-- – Atrial fibrillation with a CHA2DS2-VASc score of at least 2 points
-- – Prior implant of pacemaker (incl. ICD and/or CRT implantation) in addition to one general criterion
-
-### 2.2.5 Adults with congenital heart disease
-
-- – Congenital heart disease according to the individual assessment of the attending cardiologist
-
-### 3. Chronic lung and respiratory diseases
-
-- – Chronic obstructive lung diseases GOLD Grade II-IV
-- – Pulmonary emphysema
-- – Unmanaged asthma, in particular serious bronchial asthma
-- – Interstitial lung diseases / pulmonary fibrosis
-- – Active lung cancer
-- – Pulmonary arterial hypertension
-- – Pulmonary vascular disease
-- – Active sarcoidosis
-- – Cystic fibrosis
-- – Chronic lung infections (atypical mycobacteriosis, bronchiectasis, etc.)
-- – Ventilated patients
-- – Diseases involving a severely reduced lung capacity
-
-### 4. Diabetes
-
-- – Diabetes mellitus, with long-term complications or a HbA1c of &gt; 8% or more
-
-### 5. Diseases/Therapies that weaken the immune system
-
-- – Serious immunosuppression (e.g. HIV infection with a CD4+ T-cell count &lt; 200µl)
-- – Neutropenia ≥ 1 week
-- – Lymphocytopenia &lt;0.2x109/L
-- – Hereditary immunodeficiencies
-- – Use of medication that suppresses the immune defences (such as long-term use of glucocorticoids (prednisolone equivalent &gt; 20 mg/day), monoclonal antibodies, cytostatics, biologics, etc.)
-- – Aggressive lymphomas (all entities)
-- – Acute lymphatic leukaemia
-- – Acute myeloid leukaemia
-- – Acute promyelocytic leukaemia
-- – T-cell prolymphocytic leukaemia
-- – Primary lymphomas of the central nervous system
-- – Stem cell transplantation
-- – Amyloidosis (light-chain (AL) amyloidosis)
-- – Chronic lymphatic leukaemia
-- – Multiple myeloma
-- – Sickle-cell disease
-- – Bone marrow transplants
-- – Organ transplants
-- – Persons on a waiting list for a transplant
-
-### 6. Cancer
-
-- – Cancer undergoing medical treatment
-
-### 7. Obesity
-
-- – Patients with a Body Mass Index (BMI) of 40 kg/m<sup>2</sup> or more
-
-### 8. Liver disease
-
-- – Cirrhosis of the liver
-
-### 9. Kidney disease
-
-- – Chronic renal insufficiency from GFR &lt; 60 ml/min
-
-### 10. Trisomy 21
+[^t-9]: Inserted by No II of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 Dec. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Amended by No II para. 1 of the O of 17 Dec. 2021, in force from 1 Jan. 2022 until 31 March 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); Art. 29 para. 7).

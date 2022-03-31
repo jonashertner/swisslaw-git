@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2022-03-25
+version: 2022-04-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220325/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220325-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220325/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220325/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 25 mars 2022)
+du 19 juin 2020 (Etat le 1<sup>er</sup> avril 2022)
 
 Le Conseil fédéral suisse,
 
@@ -305,17 +305,20 @@ La Confédération peut distribuer contre paiement sur le marché, par elle-mêm
 
 <sup>1</sup> En attendant la décision de Swissmedic, les médicaments fabriqués avec les substances actives énumérées à l’annexe 5 et destinés à traiter les patients atteints du COVID-19 peuvent être mis sur le marché sans autorisation si une demande d’autorisation correspondante a été déposée. Dans le cadre de l’examen des demandes d’autorisation, Swissmedic peut autoriser des divergences par rapport aux prescriptions de la législation sur les produits thérapeutiques, si une analyse bénéfice-risque a été effectuée pour ces médicaments.
 
-<sup>2</sup> Des modifications de l’autorisation d’un médicament autorisé en Suisse contenant une substance active énumérée à l’annexe 4, ch. 1, qui doivent permettre d’utiliser le médicament pour traiter en Suisse des patients atteints du COVID-19, peuvent être mises en œuvre immédiatement après le dépôt d’une demande correspondante jusqu’à la décision de Swissmedic. Swissmedic peut autoriser des divergences par rapport aux prescriptions de la législation sur les produits thérapeutiques, si une analyse bénéfice-risque a été effectuée pour les modifications de l’autorisation des médicaments contenant une substance active énumérée à l’annexe 4, ch. 1.[^21-1]
+<sup>1bis</sup> En attendant la décision de Swissmedic, les médicaments fabriqués avec les substances actives énumérées à l’annexe 5*a* et visant à prévenir une infection au COVID-19 chez les personnes immunosupprimées ne pouvant pas développer une protection immunitaire suffisante malgré la vaccination ou ne pouvant pas être vaccinées peuvent être mis sur le marché sans autorisation si une demande d’autorisation correspondante a été déposée.[^21-1]
 
-<sup>3</sup> Le DFI actualise régulièrement la liste figurant à l’annexe 5.[^21-2]
+<sup>2</sup> Des modifications de l’autorisation d’un médicament autorisé en Suisse contenant une substance active énumérée à l’annexe 4, ch. 1, qui doivent permettre d’utiliser le médicament pour traiter en Suisse des patients atteints du COVID-19, peuvent être mises en œuvre immédiatement après le dépôt d’une demande correspondante jusqu’à la décision de Swissmedic. Swissmedic peut autoriser des divergences par rapport aux prescriptions de la législation sur les produits thérapeutiques, si une analyse bénéfice-risque a été effectuée pour les modifications de l’autorisation des médicaments contenant une substance active énumérée à l’annexe 4, ch. 1.[^21-2]
+
+<sup>3</sup> Le DFI actualise régulièrement les listes figurant aux annexes 5 et 5*a*.[^21-3]
 
 <sup>4</sup> Si une analyse bénéfice-risque a été effectuée, Swissmedic peut, pour les médicaments destinés à prévenir ou à combattre le coronavirus en Suisse, autoriser des divergences par rapport au processus de fabrication approuvé dans le cadre de l’autorisation. Il fixe les critères qui permettent au responsable technique de libérer précocement sur le marché les médicaments destinés à prévenir et à combattre le coronavirus en Suisse.
 
-<sup>5</sup> En dérogation à l’art. 9*a*, al. 1, let. c, de la loi du 15 décembre 2000 sur les produits thérapeutiques, des autorisations de mise sur le marché à durée limitée peuvent être accordées même s’il existe un médicament de substitution et équivalent autorisé en Suisse, si ces autorisations visent à garantir l’approvisionnement en médicaments destinés à prévenir ou à combattre le coronavirus en Suisse.[^21-3]
+<sup>5</sup> En dérogation à l’art. 9*a*, al. 1, let. c, de la loi du 15 décembre 2000 sur les produits thérapeutiques, des autorisations de mise sur le marché à durée limitée peuvent être accordées même s’il existe un médicament de substitution et équivalent autorisé en Suisse, si ces autorisations visent à garantir l’approvisionnement en médicaments destinés à prévenir ou à combattre le coronavirus en Suisse.[^21-4]
 
-[^21-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^21-2]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2), en vigueur depuis le 21 déc. 2020 ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
-[^21-3]: Introduit par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 28 oct. 2021 ([RO 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
+[^21-1]: Introduit par le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+[^21-2]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^21-3]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+[^21-4]: Introduit par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 28 oct. 2021 ([RO 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
 #### Art. 22
 
@@ -327,15 +330,18 @@ La Confédération peut distribuer contre paiement sur le marché, par elle-mêm
 
 <sup>2</sup> Chaque importation visée à l’al. 1<sup>bis</sup> doit être annoncée à Swissmedic dans les 10 jours suivant la réception de la marchandise.[^22-3]
 
+<sup>2bis</sup> Après avoir déposé une demande d’autorisation pour un médicament visé à l’art. 21, al. 1<sup>bis</sup>, le requérant peut importer le médicament avant son autorisation ou charger une entreprise disposant d’une autorisation de commerce de gros ou d’importation de le faire.[^22-4]
+
 <sup>3</sup> Pour prévenir et combattre le coronavirus en Suisse, Swissmedic peut autoriser la mise sur le marché provisoire d’un médicament pour pallier l’absence temporaire d’un médicament identique autorisé en Suisse, s’il n’existe pas de médicament très proche autorisé et disponible en Suisse.
 
-<sup>4</sup> Après avoir déposé une demande d’autorisation pour un vaccin contre le COVID-19 et une demande d’autorisation d’exploitation au sens de l’art. 10, al. 1, let. b, de la loi du 15 décembre 2000 sur les produits thérapeutiques, le requérant peut charger une entreprise titulaire d’une autorisation d’importer ou de faire le commerce de gros d’importer le vaccin contre le COVID-19 avant même son autorisation et de le stocker jusqu’à que cette dernière soit délivrée. L’entreprise mandatée doit respecter les règles internationales de bonnes pratiques de distribution au sens de l’annexe 4 de l’ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des médicaments[^22-4].[^22-5]
+<sup>4</sup> Après avoir déposé une demande d’autorisation pour un vaccin contre le COVID-19 et une demande d’autorisation d’exploitation au sens de l’art. 10, al. 1, let. b, de la loi du 15 décembre 2000 sur les produits thérapeutiques, le requérant peut charger une entreprise titulaire d’une autorisation d’importer ou de faire le commerce de gros d’importer le vaccin contre le COVID-19 avant même son autorisation et de le stocker jusqu’à que cette dernière soit délivrée. L’entreprise mandatée doit respecter les règles internationales de bonnes pratiques de distribution au sens de l’annexe 4 de l’ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des médicaments[^22-5].[^22-6]
 
 [^22-1]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 26 avr. 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 [^22-2]: Anciennement al. 1.
 [^22-3]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 26 avr. 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^22-4]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^22-5]: Introduit par le ch. I de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2), en vigueur depuis le 21 déc. 2020 ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^22-4]: Introduit par le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+[^22-5]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^22-6]: Introduit par le ch. I de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2), en vigueur depuis le 21 déc. 2020 ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
 
 #### Art. 23
 
@@ -665,69 +671,13 @@ L’organisateur d’une assemblée de société peut, quel que soit le nombre p
 
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 28 oct. 2021 ([RO 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
-## Chapitre 4*a***** Mesures de protection des employés vulnérables
-
-[^chap4a-1]
-
-[^chap4a-1]: Introduit par le ch. I de l’O du 13 janv. 2021 (Employés vulnérables) ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); art. 29, al. 7).
+## Chapitre 4*a* …
 
 #### Art. 27a
 
-<sup>1</sup> L’employeur permet à ses employés vulnérables de remplir leurs obligations professionnelles depuis leur domicile. À cette fin, il prend les mesures organisationnelles et techniques qui s’imposent.[^27a-1]
+[^27a-1]
 
-<sup>2</sup> Si lʼemployé ne peut pas remplir ses obligations professionnelles habituelles depuis son domicile, son employeur lui attribue des tâches de substitution équivalentes quʼil peut effectuer depuis son domicile et les rétribue au même salaire, même si elles divergent du contrat de travail.
-
-<sup>3</sup>
-
-Si, pour des raisons dʼexploitation, la présence dʼemployés vulnérables sur place est indispensable en tout ou partie, ces derniers peuvent exercer leur activité habituelle sur place, pour autant que les conditions suivantes soient remplies:
-
-- a. la place de travail est aménagée de sorte que tout contact étroit avec dʼautres personnes soit exclu, notamment en mettant à disposition un bureau individuel ou une zone clairement délimitée;
-- b. dans les cas où un contact étroit sʼavère parfois inévitable, des mesures de protection supplémentaires sont prises, selon le principe STOP (substitution, technique, organisation, personnel).
-
-<sup>4</sup> Sʼil nʼest pas possible dʼoccuper les employés concernés conformément aux al. 1 à 3, lʼemployeur leur attribue sur place des tâches de substitution équivalentes respectant les prescriptions visées à lʼal. 3, let. a et b, et les rétribue au même salaire, même si elles divergent du contrat de travail.
-
-<sup>5</sup> Lʼemployeur consulte les employés concernés avant de prendre les mesures prévues. Il consigne par écrit les mesures décidées et les communique de manière appropriée aux employés.
-
-<sup>6</sup> Lʼemployé concerné peut refuser dʼaccomplir une tâche qui lui a été attribuée si lʼemployeur ne remplit pas les conditions visées aux al. 1 à 4 ou si, pour des raisons particulières, il estime que le risque dʼinfection au coronavirus est trop élevé malgré les mesures prises par lʼemployeur au sens des al. 3 et 4. Lʼemployeur peut exiger un certificat médical.
-
-<sup>7</sup> Sʼil nʼest pas possible dʼoccuper les employés concernés conformément aux al. 1 à 4, ou dans le cas dʼun refus visé à lʼal. 6, lʼemployeur les dispense de leurs obligations professionnelles avec maintien du paiement de leur salaire.
-
-<sup>8</sup> Les employés font valoir leur vulnérabilité moyennant une déclaration personnelle. Lʼemployeur peut exiger un certificat médical.
-
-<sup>9</sup> L’octroi des allocations pour perte de gain COVID-19 est régi par l’art. 2, al. 3<sup>quater</sup>, de l’ordonnance du 20 mars 2020 sur les pertes de gain COVID-19[^27a-2].
-
-<sup>1</sup>
-
-<sup>0</sup> Sont considérées comme vulnérables:
-
-- a. les femmes enceintes;
-- b. les personnes qui souffrent des pathologies ou des anomalies génétiques énumérées à l’annexe 7 et qui ne peuvent pas se faire vacciner pour des raisons médicales.
-
-<sup>11</sup>
-
-Ne sont pas considérées comme vulnérables:
-
-- a. les femmes enceintes qui sont vaccinées contre le COVID-19, durant 270 jours à compter de la vaccination complète;
-- b.
-
-  les personnes visées à l’al. 10 qui ont contracté le SARS-CoV-2 et sont considérées comme guéries:
-
-  - 1\.[^27a-3] sur la base d’une analyse de biologie moléculaire pour le SARS-CoV-2: durant 180 jours à compter du 11<sup>e</sup> jour suivant la confirmation de l’infection,
-  - 2\.[^27a-4] sur la base d’une analyse des anticorps contre le SARS-CoV-2: durant la validité du certificat correspondant (art. 34*a*, al. 1, let. c, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^27a-5].[^27a-6]
-
-<sup>12</sup> Les pathologies et anomalies génétiques visées à lʼal. 10, let. b, sont précisées à lʼannexe 7 à lʼaide de critères médicaux. La liste de ces critères n’est pas exhaustive. Une évaluation clinique de la vulnérabilité dans le cas d’espèce est réservée et peut aussi avoir pour conséquence que des personnes visées à l’al. 11 soient considérées comme vulnérables.
-
-<sup>13</sup> Le DFI actualise en permanence lʼannexe 7 selon l’état des connaissances scientifiques.
-
-<sup>14</sup> …[^27a-7]
-
-[^27a-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
-[^27a-2]: [RS 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-3]: Nouvelle teneur selon le ch. I de l’O du 18 mars 2022, en vigueur du 21 au 31 mars 2022 ([RO 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
-[^27a-4]: Nouvelle teneur selon le ch. III de l’O du 16 fév. 2022 (Expiration des certificats dont la validité est limitée à la Suisse), en vigueur du 17 fév. au 31 mars 2022 ([RO 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
-[^27a-5]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^27a-6]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 31 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
-[^27a-7]: Abrogé par l’annexe ch. 2 de l’O COVID-19 situation particulière du 16 fév. 2022, avec effet au 17 fév. 2022 ([RO 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
+[^27a-1]: Introduit par le ch. I de l’O du 13 janv. 2021 (Employés vulnérables) ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); art. 29, al. 7).
 
 ## Chapitre 5 Dispositions finales
 
@@ -1068,7 +1018,13 @@ Annexe 5*[^t-6]*
 
 Annexe 5a*[^t-7]*
 
-[^t-7]: Introduite par le ch. III al. 1 de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2) ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Abrogée par le ch. II al. 1 de l’O du 25 août 2021, avec effet au 30 août 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+(art. 21, al. 1<sup>bis</sup> et 3)
+
+## Liste des substances actives pour la prévention d’une infection au COVID-19
+
+[^t-7]: Introduite par le ch. III al. 1 de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2) ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nouvelle teneur selon le ch. II al. 1 de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+
+- 1\. Tixagevimab/cilgavimab
 
 Annexe 6*[^t-8]*
 
@@ -1076,7 +1032,7 @@ Annexe 6*[^t-8]*
 
 ## Prestations et montants maximaux pris en charge pour les analyses pour le SARS-CoV-2
 
-[^t-8]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2), ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nouvelle teneur selon le ch. III de l’O du 12 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Mise à jour par le ch. II des O du 12 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) et du 23 juin 2021 ([RO 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), l’erratum du 23 juin 2021 ([RO 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), l’annexe ch. 3 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. II al. 2 de l’O du 25 août 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), le ch. II de l’O du 1<sup>er</sup> oct. 2021 ([RO 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), l’annexe ch. 1 de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), le ch. II al. 1 de l’O du 17 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), le ch. III 1 de l’O du 2 fév. 2022 (Suppression de la quarantaine-contact et de l’obligation de travailler à domicile) ([RO 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)), le ch. I de l’O du 4 fév. 2022 ([RO 2022 65](https://fedlex.data.admin.ch/eli/oc/2022/65)) et le ch. II de l’O du 16 fév. 2022, en vigueur depuis le 17 fév. 2022 ([RO 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)).
+[^t-8]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2), ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nouvelle teneur selon le ch. III de l’O du 12 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Mise à jour par le ch. II des O du 12 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) et du 23 juin 2021 ([RO 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), l’erratum du 23 juin 2021 ([RO 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), l’annexe ch. 3 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. II al. 2 de l’O du 25 août 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), le ch. II de l’O du 1<sup>er</sup> oct. 2021 ([RO 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), l’annexe ch. 1 de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), le ch. II al. 1 de l’O du 17 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), le ch. III 1 de l’O du 2 fév. 2022 (Suppression de la quarantaine-contact et de l’obligation de travailler à domicile) ([RO 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)), le ch. I de l’O du 4 fév. 2022 ([RO 2022 65](https://fedlex.data.admin.ch/eli/oc/2022/65)), le ch. II de l’O du 16 fév. 2022 ([RO 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)) et le ch. II al. 2 de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
 
 ### 1 Tarif régulier pour les dépistages axés sur les symptômes et le nombre de cas
 
@@ -1467,10 +1423,9 @@ Annexe 6*[^t-8]*
 
   La Confédération prend en charge les coûts pour les tests rapides SARS-CoV-2 avec application par un professionnel uniquement dans les cas suivants:
 
-  - a. en cas de tests ciblés et répétitifs dans les écoles, les universités et les établissements de formation en vue de prévenir et de détecter les foyers, pour autant que le service cantonal compétent le prévoie et présente un projet à lʼOFSP;
+  - a. …
   - b. dans des situations à fort risque de transmission, pour autant que le service cantonal compétent le prévoie et présente un projet à l’OFSP;
-  - c. dans le cadre des tests limités dans le temps, dans l’environnement des foyers dʼinfection incontrôlés, pour autant que le service cantonal compétent le prévoie;
-  - d. en cas de tests effectués avant et pendant les camps sur les participants et les accompagnants, pour autant que le service cantonal compétent présente un projet à l’OFSP.
+  - c. dans le cadre des tests limités dans le temps, dans l’environnement des foyers dʼinfection incontrôlés, pour autant que le service cantonal compétent le prévoie.
 
 - 2\.1.2
 
@@ -1510,10 +1465,9 @@ Annexe 6*[^t-8]*
 
   La Confédération prend en charge les coûts des analyses poolées de biologie moléculaire pour le SARS-CoV-2 uniquement dans les cas suivants:
 
-  - a. en cas de tests ciblés et répétitifs dans les écoles, les universités et les établissements de formation en vue de prévenir et de détecter les foyers, pour autant que le service cantonal compétent le prévoie et présente un projet à lʼOFSP ou que les tests soient coordonnés via une plateforme mise à disposition par la Confédération;
+  - a. …
   - b. dans des situations à fort risque de transmission, pour autant que le service cantonal compétent le prévoie et présente un projet à l’OFSP ou que les tests soient coordonnés via une plateforme mise à disposition par la Confédération;
-  - c. dans le cadre des tests limités dans le temps, dans l’environnement des foyers dʼinfection incontrôlés, pour autant que le service cantonal compétent le prévoie;
-  - d. en cas de tests effectués avant et pendant les camps sur les participants et les accompagnants, pour autant que le service cantonal compétent présente un projet à l’OFSP ou que les tests soient coordonnés via une plateforme mise à disposition par la Confédération.
+  - c. dans le cadre des tests limités dans le temps, dans l’environnement des foyers dʼinfection incontrôlés, pour autant que le service cantonal compétent le prévoie.
 
 - 2\.2.2
 
@@ -1647,12 +1601,6 @@ Annexe 6*[^t-8]*
 <tr><td>Pour l’établissement du certificat de test COVID-19</td><td>2,50 francs</td></tr>
 </table>
 
-### 3.3**** …
-
-[^annex6-lvlu1-lvl3-lvl33-1]
-
-[^annex6-lvlu1-lvl3-lvl33-1]: En vigueur jusqu’au 30 sept. 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
-
 ### 4 Limitations
 
 - 4\.1 Si une analyse de biologie moléculaire pour le SARS-CoV-2 selon le ch. 1.1 et une analyse des anticorps contre le SARS-CoV-2 selon le ch. 1.3 sont réalisées le même jour sur une personne, la Confédération prend en charge une seule fois le montant pour le prélèvement de l’échantillon selon les ch. 1.1.3, let. a, et 1.3.3, let. a, et une seule fois le montant comprenant le traitement du mandat, les frais généraux et le matériel de prélèvement visé aux ch. 1.1.3, let. b, et 1.3.3, let. b.
@@ -1662,110 +1610,4 @@ Annexe 6*[^t-8]*
 
 Annexe 7*[^t-9]*
 
-(art. 27*a*, al. 10, let. b, 12, 13 et 29, al. 7)
-
-## Maladies et anomalies génétiques rendant vulnérables les personnes concernées
-
 [^t-9]: Introduite par le ch. II de l’O du 13 janv. 2021 (Employés vulnérables) ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nouvelle teneur selon le ch. II al. 2 de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); art. 29, al. 7).
-
-Selon l’état actuel de la science, seules certaines catégories d’adultes sont vulnérables. Partant, les critères ci-après concernent uniquement les adultes.
-
-### 1. Hypertension artérielle
-
-- – Hypertension artérielle avec atteinte d’organes cibles
-- – Hypertension artérielle résistante au traitement
-
-### 2. Maladies cardiovasculaires
-
-### 2.1 Critères généraux
-
-- – Patients ayant une dyspnée de classe fonctionnelle NYHA II–IV et NT-Pro BNP &gt; 125 pg/ml
-- – Patients ayant au moins deux facteurs de risques cardiovasculaires (dont du diabète ou de l’hypertension artérielle)
-- – Antécédent d’attaque cérébrale et/ou vasculopathie symptomatique
-- – Insuffisance rénale chronique (stade 3, DFG &lt; 60ml/min)
-
-### 2.2 Autres critères
-
-### 2.2.1 Maladie coronarienne
-
-- – Infarctus du myocarde (STEMI et NSTEMI) au cours des douze derniers mois
-- – Syndrome coronarien chronique symptomatique malgré un traitement médical (indépendamment de toute revascularisation préalable)
-
-### 2.2.2 Maladie des valves cardiaques
-
-- – Sténose modérée ou sévère et/ou régurgitation associée à au moins un critère général
-- – Tout remplacement valvulaire chirurgical ou percutané associé à au moins un critère général
-
-### 2.2.3 Insuffisance cardiaque
-
-- – Patients ayant une dyspnée de classe fonctionnelle NYHA II–IV ou NT-Pro BNP &gt; 125pg/ml malgré un traitement médical de toute FEVG (ICFEP, ICFEI, ICFER)
-- – Cardiomyopathie de toute origine
-- – Hypertension artérielle pulmonaire
-
-### 2.2.4 Arythmie
-
-- – Fibrillation atriale avec un score CHA2DS2-VASc d’au moins 2 points
-- – Implantation préalable d’un stimulateur cardiaque (y c. implantation d’un appareil d’ICD et/ou de CRT) associée à un critère général
-
-### 2.2.5 Adultes atteints d’une maladie cardiaque congénitale
-
-- – Maladie cardiaque congénitale selon l’évaluation individuelle par le cardiologue traitant
-
-### 3. Maladies pulmonaires et respiratoires chroniques
-
-- – Maladies pulmonaires obstructives chroniques, stades II-IV de GOLD
-- – Emphysème pulmonaire
-- – Asthme bronchique non contrôlé, notamment sévère
-- – Maladies pulmonaires interstitielles / fibrose pulmonaire
-- – Cancer actif des poumons
-- – Hypertension artérielle pulmonaire
-- – Maladie vasculaire pulmonaire
-- – Sarcoïdose active
-- – Fibrose kystique
-- – Infections pulmonaires chroniques (mycobactérioses atypiques, bronchectasies, etc.)
-- – Patients sous assistance respiratoire
-- – Maladies associées à une capacité pulmonaire fortement réduite
-
-### 4. Diabète
-
-- – Diabète sucré, avec complications tardives ou une HbA1c ≥ 8 %
-
-### 5. Maladies ou traitements affaiblissant le système immunitaire
-
-- – Immunosuppression sévère (p. ex., infection au VIH avec un nombre de cellules T CD4+ &lt; 200/µl)
-- – Neutropénie (&lt; 1000 neutrophiles/µl) ≥ 1 semaine
-- – Lymphocytopénie (&lt; 200 lymphocytes/µl)
-- – Immunodéficiences héréditaires
-- – Prise de médicaments qui répriment les défenses immunitaires (p. ex., prise de glucocorticoïdes durant une longue période [une dose équivalente de prednisolone &gt; 20 mg/jour], anticorps monoclonaux, cytostatiques, produits biologiques, etc.)
-- – Lymphomes agressifs (tous les types)
-- – Leucémie lymphatique aiguë
-- – Leucémie myéloïde aiguë
-- – Leucémie aiguë promyélocytaire
-- – Leucémie prolymphocytaire T
-- – Lymphome primitif du système nerveux central
-- – Transplantation de cellules souches
-- – Amyloïdose (amyloïdose à chaînes légères [AL])
-- – Leucémie lymphatique chronique
-- – Myélome multiple
-- – Drépanocytose
-- – Greffe de moelle osseuse
-- – Greffe dʼorganes
-- – Personnes sur liste dʼattente en vue dʼune greffe
-
-### 6. Cancer
-
-- – Cancer en traitement médical
-
-### 7. Obésité
-
-- – Patients ayant un indice de masse corporelle (IMC) dʼau moins 35 kg/m<sup>2</sup>
-
-### 8. Maladies hépatiques
-
-- – Cirrhose du foie
-
-### 9. Maladies rénales
-
-- – Insuffisance rénale chronique avec DFG &lt; 60 ml/min
-
-### 10. Trisomie 21
