@@ -4,11 +4,11 @@ title: "Verordnung vom 31. August 1983 über die obligatorische Arbeitslosenvers
 short: AVIV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: de
-version: 2022-01-01
+version: 2022-04-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20220401/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20220401-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20220101/de"
 
 (Arbeitslosenversicherungsverordnung, AVIV)
 
-vom 31. August 1983 (Stand am 1. Januar 2022)
+vom 31. August 1983 (Stand am 1. April 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -1177,10 +1177,11 @@ Ein schweres Verschulden liegt vor, wenn die versicherte Person ohne entschuldba
 
 <sup>3</sup> Mit dem ersten Tag der ersten Abrechnungsperiode, für die Kurzarbeits- oder Schlechtwetterentschädigung ausgerichtet wird, beginnt eine zweijährige Rahmenfrist für den Leistungsbezug.
 
-<sup>4</sup> und <sup>5</sup> …[^46-2]
+<sup>4</sup> Läuft im Zeitpunkt der Einführung von bewilligter Kurzarbeit für den Betrieb oder die Betriebsabteilung noch keine Rahmenfrist für den Leistungsbezug, so sind die von den einzelnen Arbeitnehmern in den sechs vorangegangenen Monaten geleisteten Mehrstunden von ihren Arbeitsausfällen abzuziehen.
+
+<sup>5</sup> Während der Rahmenfrist für den Leistungsbezug werden alle von den einzelnen Arbeitnehmern bis zum Zeitpunkt eines erneuten Arbeitsausfalles geleisteten Mehrstunden von ihren Arbeitsausfällen abgezogen, jedoch längstens aus den letzten zwölf Monaten.
 
 [^46-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 1999, in Kraft seit 1. Jan. 2000 ([AS 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^46-2]: Aufgehoben durch Ziff. II der V vom 26. Jan. 2022 (Verlängerung des summarischen Abrechnungsverfahrens und Wiedereinführung weiterer Massnahmen), mit Wirkung vom 1. Jan. 2022 bis zum 31. März 2022 ([AS 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
 
 #### Art. 46a
 
@@ -1269,12 +1270,12 @@ Als voller Arbeitstag gilt der fünfte Teil der normalen wöchentlichen Arbeitsz
 
 <sup>1</sup> Die Karenzzeit wird bestimmt, indem die Abrechnungsperioden zusammengezählt werden, für die eine Kurzarbeits- oder Schlechtwetterentschädigung bezogen wurde.
 
-<sup>2</sup> …[^50-2]
+<sup>2</sup> Vom anrechenbaren Arbeitsausfall wird für jede Abrechnungsperiode eine Karenzzeit von einem Tag abgezogen.[^50-2]
 
 <sup>3</sup> …[^50-3]
 
 [^50-1]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^50-2]: Aufgehoben durch Ziff. II der V vom 26. Jan. 2022 (Verlängerung des summarischen Abrechnungsverfahrens und Wiedereinführung weiterer Massnahmen), mit Wirkung vom 1. Jan. 2022 bis zum 31. März 2022 ([AS 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
+[^50-2]: Fassung gemäss Ziff. I der V vom 1. Juli 2020, in Kraft seit 1. Sept. 2020 ([AS 2020 2875](https://fedlex.data.admin.ch/eli/oc/2020/524)).
 [^50-3]: Eingefügt durch Ziff. I der V vom 19. Sept. 2003 ([AS 2003 3491](https://fedlex.data.admin.ch/eli/oc/2003/494)). Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft vom 1. Febr. 2016 bis zum 31. Juli 2017 ([AS 2016 351](https://fedlex.data.admin.ch/eli/oc/2016/47)).
 
 #### Art. 51
@@ -1403,12 +1404,11 @@ Weicht der Lohn im letzten Beitragsmonat um mindestens 10 Prozent vom Durchschni
 
 ### (Art. 35 Abs. 1<sup>bis</sup> AVIG)
 
-<sup>1</sup> …[^57a-2]
+<sup>1</sup> Überschreitet der Arbeitsausfall innerhalb der Rahmenfrist während mehr als vier zusammenhängenden oder einzelnen Abrechnungsperioden 85 Prozent der normalen betrieblichen Arbeitszeit, besteht nur für die vier ersten Abrechnungsperioden ein Anspruch auf Kurzarbeitsentschädigung.
 
 <sup>2</sup> Die normale betriebliche Arbeitszeit bestimmt sich nach Artikel 46.
 
 [^57a-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
-[^57a-2]: Aufgehoben durch Ziff. II der V vom 26. Jan. 2022 (Verlängerung des summarischen Abrechnungsverfahrens und Wiedereinführung weiterer Massnahmen), mit Wirkung vom 1. Jan. 2022 bis zum 31. März 2022 ([AS 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
 
 #### Art. 57b
 
@@ -1506,11 +1506,11 @@ Die auf die Ausfallzeiten entfallenden Arbeitgeberbeiträge an die AHV/IV/ EO/ A
 
 #### Art. 63
 
-**Anrechnung von Einkommen aus Zwischenbeschäftigung**[^63-1]
+**Anrechnung von Einkommen aus Zwischenbeschäftigung**
 
-Das Einkommen aus Zwischenbeschäftigung wird bei der Berechnung des Verdienstausfalls nicht angerechnet.
+### (Art. 41 Abs. 4 AVIG)
 
-[^63-1]: Fassung gemäss Ziff. II der V vom 26. Jan. 2022 (Verlängerung des summarischen Abrechnungsverfahrens und Wiedereinführung weiterer Massnahmen), in Kraft vom 1. Jan. 2022 bis zum 31. März 2022 ([AS 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
+Die Kurzarbeitsentschädigung wird gekürzt, soweit sie zusammen mit dem durch Zwischenbeschäftigung erzielten Einkommen den anrechenbaren Verdienstausfall übersteigt.
 
 #### Art. 64
 

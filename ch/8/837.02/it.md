@@ -4,11 +4,11 @@ title: "Ordinanza del 31 agosto 1983 sull'assicurazione obbligatoria contro la d
 short: OADI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: it
-version: 2022-01-01
+version: 2022-04-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20220401/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20220401-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20220101/it"
 
 (Ordinanza sull’assicurazione contro la disoccupazione, OADI**[^t-1]**)
 
-del 31 agosto 1983 (Stato 1° gennaio 2022)
+del 31 agosto 1983 (Stato 1° aprile 2022)
 
 [^t-1]: Nuova abbreviazione giusta il n. I dell’O del 28 ago. 1991 in vigore dal 1° gen. 1992 ([RU 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Di detta mod. è tenuto conto in tutto il presente testo.
 
@@ -1187,10 +1187,11 @@ Vi è colpa grave se l’assicurato, senza valido motivo:
 
 <sup>3</sup> Dal primo giorno del primo periodo di conteggio per cui è versata un’indennità per lavoro ridotto o per intemperie decorre un termine quadro di due anni per la riscossione della prestazione.
 
-<sup>4</sup> e <sup>5</sup> ...[^46-2]
+<sup>4</sup> Se al momento dell’introduzione del lavoro ridotto autorizzato per l’azienda o per il settore d’esercizio non decorre alcun termine quadro per la riscossione della prestazione, le ore in esubero effettuate dai singoli lavoratori nei sei mesi precedenti sono dedotte dalla loro perdita di lavoro.
+
+<sup>5</sup> Durante il termine quadro per la riscossione della prestazione, le ore in esubero effettuate dai singoli lavoratori sino a una nuova perdita di lavoro, ma al massimo negli ultimi dodici mesi, sono dedotte dalla loro perdita di lavoro.
 
 [^46-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^46-2]: Abrogati dal n. II dell’O del 26 gen. 2022 (Proroga della procedura di conteggio sommaria e reintroduzione di altre misure), con effetto dal 1° gen. 2022 al 31 mar. 2022 ([RU 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
 
 #### Art. 46a
 
@@ -1279,12 +1280,12 @@ Il servizio cantonale può dare il suo consenso soltanto se il perfezionamento p
 
 <sup>1</sup> Per determinare il periodo di attesa si sommano i periodi di conteggio per cui sono state percepite indennità per lavoro ridotto ai periodi di conteggio per cui sono state percepite indennità per intemperie.
 
-<sup>2</sup> ...[^50-2]
+<sup>2</sup> Per ogni periodo di conteggio, dalla perdita di lavoro computabile è dedotto un periodo d’attesa di un giorno.[^50-2]
 
 <sup>3</sup> ...[^50-3]
 
 [^50-1]: Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^50-2]: Abrogato dal n. II dell’O del 26 gen. 2022 (Proroga della procedura di conteggio sommaria e reintroduzione di altre misure), con effetto dal 1° gen. 2022 al 31 mar. 2022 ([RU 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
+[^50-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 2020, in vigore dal 1° set. 2020 ([RU 2020 2875](https://fedlex.data.admin.ch/eli/oc/2020/524)).
 [^50-3]: Introdotto dal n. I dell’O del 19 set. 2003 ([RU 2003 3491](https://fedlex.data.admin.ch/eli/oc/2003/494)). Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 1° feb. 2016 al 31 lug. 2017 ([RU 2016 351](https://fedlex.data.admin.ch/eli/oc/2016/47)).
 
 #### Art. 51
@@ -1415,12 +1416,11 @@ Se il salario dell’ultimo mese di contribuzione si scosta di almeno il 10 per 
 
 ### (art. 35 cpv. 1<sup><sup>bis</sup></sup> LADI)
 
-<sup>1</sup> ...[^57a-2]
+<sup>1</sup> Se, durante il termine quadro, la perdita di lavoro supera l’85 per cento dell’orario normale di lavoro dell’azienda per più di quattro periodi di conteggio consecutivi o singoli, il diritto all’indennità per lavoro ridotto è dato soltanto per i primi quattro periodi di conteggio.
 
 <sup>2</sup> L’orario normale di lavoro dell’azienda è definito nell’articolo 46.
 
 [^57a-1]: Introdotto dal n. I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
-[^57a-2]: Abrogato dal n. II dell’O del 26 gen. 2022 (Proroga della procedura di conteggio sommaria e reintroduzione di altre misure), con effetto dal 1° gen. 2022 al 31 mar. 2022 ([RU 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
 
 #### Art. 57b
 
@@ -1518,13 +1518,11 @@ I contributi padronali all’AVS/AI/IPG/AD per i periodi di perdita di lavoro so
 
 #### Art. 63
 
-**Computo del reddito conseguito con un’occupazione provvisoria**[^63-1]
+**Computo del reddito conseguito con un’occupazione provvisoria**
 
 ### (art. 41 cpv. 4 LADI)
 
-Il reddito conseguito con un’occupazione provvisoria non è computato nel calcolo della perdita di guadagno.
-
-[^63-1]: Nuovo testo giusta il n. II dell’O del 26 gen. 2022 (Proroga della procedura di conteggio sommaria e reintroduzione di altre misure), in vigore dal 1° gen. 2022 al 31 mar. 2022 ([RU 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
+L’indennità per lavoro ridotto è diminuita nella misura in cui, aggiunta al reddito conseguito con un’occupazione provvisoria, supera la perdita di guadagno computabile.
 
 #### Art. 64
 

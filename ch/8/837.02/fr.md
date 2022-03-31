@@ -4,11 +4,11 @@ title: "Ordonnance du 31 août 1983 sur l'assurance-chômage obligatoire et l'in
 short: OACI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: fr
-version: 2022-01-01
+version: 2022-04-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20220401-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20220401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20220101/fr"
 
 (Ordonnance sur l’assurance-chômage, OACI)
 
-du 31 août 1983 (Etat le 1<sup>er</sup> janvier 2022)
+du 31 août 1983 (Etat le 1<sup>er</sup> avril 2022)
 
 Le Conseil fédéral suisse,
 
@@ -182,7 +182,7 @@ La perte de travail des assurés partiellement sans emploi (art. 10, al. 2, let.
 
 <sup>2</sup> Les autres assurés libérés des conditions relatives à la période de cotisation doivent observer un délai d’attente de cinq jours.
 
-<sup>3</sup> ...[^6-6]
+<sup>3</sup> …[^6-6]
 
 <sup>4</sup> Au terme de l’exercice d’une activité à caractère saisonnier (art. 7) ou d’une profession dans laquelle les changements d’employeurs sont fréquents ou les rapports de service de durée limitée (art. 8), le délai d’attente est d’un jour. Ce délai ne doit être observé qu’une fois pendant une période de contrôle.
 
@@ -252,7 +252,7 @@ Sont notamment réputées professions dans lesquelles les changements de place o
 - e. technicien du film;
 - f. journaliste.
 
-<sup>2</sup> ...[^8-2]
+<sup>2</sup> …[^8-2]
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^8-2]: Abrogé par le ch. I de l’O du 6 nov. 1996, avec effet au 1<sup>er</sup> janv. 1997 ([RO 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
@@ -387,7 +387,7 @@ Les prestations volontaires prises en compte entrent dans le calcul du gain assu
 
 <sup>4</sup> La période de cotisation des personnes occupées à temps partiel est calculée d’après les règles applicables aux travailleurs occupés à plein temps. Lorsque l’assuré exerce simultanément plusieurs activités à temps partiel, la période de cotisation ne compte qu’une seule fois.
 
-<sup>5</sup> ...[^11-1]
+<sup>5</sup> …[^11-1]
 
 [^11-1]: Introduit par le ch. I de l’O du 15 nov. 2000 ([RO 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)). Abrogé par le ch. I de l’O du 2 mars 2012, avec effet au 1<sup>er</sup> avr. 2012 ([RO 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
 
@@ -414,13 +414,15 @@ L’al. 1 n’est pas applicable lorsque l’assuré:
 
 <sup>3</sup> Sont considérées comme des prestations de vieillesse les prestations de la prévoyance professionnelle obligatoire et surobligatoire, ainsi que les prestations de vieillesse d’une assurance-vieillesse étrangère, obligatoire ou facultative, quelles soient versées au titre d’une rente de vieillesse ordinaire ou d’une prestation de préretraite.[^12-3]
 
-[^12-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 (RO **1****996** 295).
 [^12-2]: Nouvelle teneur selon le ch. I de l’O du 28 août 1991, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)).
 [^12-3]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2000, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)).
 
 #### Art. 12a
 
-[^12a-1]
+**Période de cotisation dans les professions où les changements fréquents d’employeur ou les contrats de durée limitée sont usuels**[^12a-1]
+
+### (art. 13, al. 4 et 5, LACI)
 
 Dans les professions où les changements fréquents d’employeur ou les contrats de durée limitée sont usuels (art. 8), la période de cotisation déterminée selon l’art. 13, al. 1, LACI est multipliée par deux pour les 60 premiers jours du contrat de durée déterminée.
 
@@ -460,7 +462,7 @@ Constitue notamment une raison semblable au sens de l’art. 14, al. 2, LACI, le
 
 ### (art. 15, al. 1, LACI)
 
-<sup>1</sup> ...[^14-2]
+<sup>1</sup> …[^14-2]
 
 <sup>2</sup> Les assurés qui étaient occupés comme travailleurs à domicile avant de tomber au chômage ne sont réputés aptes au placement que s’ils sont disposés à accepter également du travail hors de leur domicile, à moins qu’ils ne prouvent ne pas être en mesure de le faire en raison de leur situation personnelle.
 
@@ -534,7 +536,7 @@ Il y a exception au sens de l’art. 16, al. 2, let. i, LACI en particulier lors
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
 [^18-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^18-3]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^18-3]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 (RO **202****1** 339).
 [^18-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^18-5]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^18-6]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
@@ -635,7 +637,7 @@ Elles fournissent les informations suivantes:
 
 <sup>4</sup> L’office compétent veille à ce que l’assuré dispose à la fin du mois de la formule «Indications de la personne assurée».[^23-6]
 
-<sup>5</sup> ...[^23-7]
+<sup>5</sup> …[^23-7]
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
 [^23-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
@@ -923,7 +925,7 @@ Sont prises en considération au sens de l’art. 22, al. 2, let. c, LACI les re
 
 <sup>3bis</sup> Lorsque le salaire varie en raison de l’horaire de travail usuel dans la branche, le gain assuré est calculé conformément aux al. 1 à 3, mais au plus sur la moyenne annuelle de l’horaire de travail convenu contractuellement.[^37-5]
 
-<sup>3ter</sup> ...[^37-6]
+<sup>3ter</sup> …[^37-6]
 
 <sup>4</sup>
 
@@ -932,7 +934,7 @@ Le gain assuré est redéfini si, pendant le délai-cadre d’indemnisation:
 - a. l’assuré a, avant de retomber au chômage, exercé pendant au moins six mois consécutifs une activité soumise à cotisation pour laquelle il a reçu un salaire supérieur au gain assuré;
 - b. l’étendue de la perte de travail à prendre en considération de l’assuré a subi un changement.[^37-7]
 
-<sup>5</sup> ...[^37-8]
+<sup>5</sup> …[^37-8]
 
 [^37-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 [^37-2]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
@@ -1130,7 +1132,7 @@ Est notamment réputé sans travail par sa propre faute l’assuré qui:
 - c. a résilié lui-même un contrat de travail vraisemblablement de longue durée et en a conclu un autre dont il savait ou aurait dû savoir qu’il ne serait que de courte durée, sauf s’il ne pouvait être exigé de lui qu’il conservât son ancien emploi;
 - d. a refusé un emploi convenable de durée indéterminée au profit d’un contrat de travail dont il savait ou aurait dû savoir qu’il ne serait que de courte durée.
 
-<sup>2</sup> ...[^44-4]
+<sup>2</sup> …[^44-4]
 
 [^44-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
 [^44-2]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
@@ -1186,10 +1188,11 @@ Il y a faute grave lorsque, sans motif valable, l’assuré:
 
 <sup>3</sup> Un délai-cadre d’indemnisation de deux ans est ouvert le premier jour de la première période de décompte pour laquelle l’indemnité en cas de réduction de l’horaire de travail ou l’indemnité en cas d’intempéries est versée.
 
-<sup>4</sup> et <sup>5</sup> ...[^46-2]
+<sup>4</sup> Si aucun délai-cadre d’indemnisation ne court pour l’entreprise ou le secteur d’exploitation au moment de l’introduction de la réduction de l’horaire de travail admise, les heures de travail en plus accomplies par les travailleurs au cours des six mois précédents sont déduites de leur perte de travail.
+
+<sup>5</sup> Pendant le délai-cadre d’indemnisation, les heures de travail en plus accomplies par les travailleurs avant une nouvelle réduction de l’horaire de travail, mais pendant les douze derniers mois au plus, sont déduites de leur perte de travail.
 
 [^46-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^46-2]: Abrogés par le ch. II de l’O du 26 janv. 2022 (Prolongation de la procédure de décompte sommaire et reconduction d’autres mesures), avec effet du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
 
 #### Art. 46a
 
@@ -1278,12 +1281,12 @@ Est réputé jour entier de travail le cinquième de la durée normale du travai
 
 <sup>1</sup> Pour déterminer le délai d’attente, il faut ajouter les périodes de décompte ayant donné lieu à une indemnisation pour cause de réduction de l’horaire de travail à celles ayant donné lieu à une indemnisation pour cause d’intempéries.
 
-<sup>2</sup> ...[^50-2]
+<sup>2</sup> Pour chaque période de décompte, un délai d’attente d’un jour est déduit de la perte de travail à prendre en considération.[^50-2]
 
-<sup>3</sup> ...[^50-3]
+<sup>3</sup> …[^50-3]
 
 [^50-1]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^50-2]: Abrogé par le ch. II de l’O du 26 janv. 2022 (Prolongation de la procédure de décompte sommaire et reconduction d’autres mesures), avec effet du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
+[^50-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 2875](https://fedlex.data.admin.ch/eli/oc/2020/524)).
 [^50-3]: Introduit par le ch. I de l’O du 19 sept. 2003 ([RO 2003 3491](https://fedlex.data.admin.ch/eli/oc/2003/494)). Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur du 1<sup>er</sup> fév. 2016 au 31 juil. 2017 ([RO 2016 351](https://fedlex.data.admin.ch/eli/oc/2016/47)).
 
 #### Art. 51
@@ -1379,7 +1382,7 @@ La perte de travail n’est pas prise en considération:
 
 Les fluctuations de l’emploi sont réputées saisonnières lorsque la perte de travail n’excède pas la perte de travail moyenne des deux années précédentes.
 
-[^54a-1]: Introduit par le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
+[^54a-1]: Introduit par le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 (RO **20****00** 174).
 
 #### Art. 55
 
@@ -1415,12 +1418,11 @@ Lorsque le salaire du dernier mois de cotisation s’écarte d’au moins 10 % d
 
 ### (art. 35, al. 1<sup>bis</sup>, LACI)
 
-<sup>1</sup> ...[^57a-2]
+<sup>1</sup> Lorsque, pendant le délai-cadre, la perte de travail excède 85 pour cent de l’horaire normal de travail durant plus de quatre périodes de décompte consécutives ou isolées, seules les quatre premières périodes de décompte donnent droit à l’indemnité.
 
 <sup>2</sup> L’horaire normal de travail de l’entreprise est déterminé conformément à l’art. 46.
 
 [^57a-1]: Introduit par le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
-[^57a-2]: Abrogé par le ch. II de l’O du 26 janv. 2022 (Prolongation de la procédure de décompte sommaire et reconduction d’autres mesures), avec effet du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
 
 #### Art. 57b
 
@@ -1514,17 +1516,15 @@ Le montant des cotisations patronales AVS/AI/APG/AC versées pour les heures per
 
 [^62-1]
 
-[^62-1]: Abrogé par le ch. I de l’O du 11 déc. 1995, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^62-1]: Abrogé par le ch. I de l’O du 11 déc. 1995, avec effet au 1<sup>er</sup> janv. 1996 (RO **199****6** 295).
 
 #### Art. 63
 
-**Prise en compte du revenu tiré d’une occupation provisoire**[^63-1]
+**Prise en compte du revenu tiré d’une occupation provisoire**
 
 ### (art. 41, al. 4, LACI)
 
-Le revenu tiré d’une occupation provisoire n’est pas pris en compte dans le calcul de la perte de gain.
-
-[^63-1]: Nouvelle teneur selon le ch. II de l’O du 26 janv. 2022 (Prolongation de la procédure de décompte sommaire et reconduction d’autres mesures), en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
+L’indemnité en cas de réduction de l’horaire de travail est réduite dans la mesure où, lorsqu’on l’ajoute au revenu tiré d’une occupation provisoire, le total dépasse la perte de gain à prendre en considération.
 
 #### Art. 64
 
@@ -1554,7 +1554,7 @@ L’indemnité en cas d’intempéries peut être versée dans les branches suiv
 - [tab] h.[^65-2] transports dans la mesure où les véhicules sont occupés exclusivement au transport de matériaux d’excavation et de construction vers ou à partir des chantiers ou au transport de matériaux provenant de lieux d’extraction de sable et de gravier;
 - i.[^65-3] scierie.
 
-<sup>2</sup> ...[^65-4]
+<sup>2</sup> …[^65-4]
 
 <sup>3</sup> De surcroît, l’indemnité en cas d’intempéries peut être versée aux seules exploitations viticoles, plantations et exploitations fruitières ou maraîchères, lorsque les travaux saisonniers ne peuvent pas s’effectuer normalement en raison d’une sécheresse inhabituelle ou de pluies intempestives.[^65-5]
 
@@ -1572,7 +1572,7 @@ L’indemnité en cas d’intempéries peut être versée dans les branches suiv
 
 <sup>1</sup> La perte de travail est d’un demi jour lorsqu’elle est subie le matin ou l’après-midi ou lorsqu’elle atteint au minimum 50 pour cent, mais moins de 100 pour cent d’un jour entier de travail.[^66-1]
 
-<sup>2</sup> ...[^66-2]
+<sup>2</sup> …[^66-2]
 
 [^66-1]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 1985, en vigueur depuis le 1<sup>er</sup> juil. 1985 ([RO 1985 648](https://fedlex.data.admin.ch/eli/oc/1985/648_648_648)).
 [^66-2]: Abrogé par le ch. I de l’O du 24 nov. 1999, avec effet au 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
@@ -2064,7 +2064,7 @@ Le placement d’un assuré est réputé difficile lorsque, compte tenu de la si
 
 <sup>5</sup> Le délai-cadre d’indemnisation fixé à l’art. 9, al. 1 et 2, LACI s’applique à l’assuré. Au moment où il commence sa formation, ce délai-cadre est prolongé jusqu’au terme de la formation pour laquelle l’allocation a été octroyée. S’il interrompt sa formation ou s’il l’achève, la prolongation du délai-cadre cesse le jour où il interrompt ou termine la formation. Un nouveau délai-cadre peut être ouvert dès le jour suivant s’il remplit les conditions fixées à l’art. 8 LACI.[^90a-6]
 
-<sup>6</sup> ...[^90a-7]
+<sup>6</sup> …[^90a-7]
 
 <sup>7</sup> Les demandes d’allocations de formation doivent être présentées par l’assuré à l’autorité cantonale huit semaines avant le début de la formation.
 
@@ -2231,7 +2231,7 @@ La demande doit contenir au moins:
 
 <sup>1</sup> La réalisation ou la non-réalisation du projet doit être notifiée par écrit à l’autorité cantonale.
 
-<sup>2</sup> ...[^95e-3]
+<sup>2</sup> …[^95e-3]
 
 <sup>3</sup> Le délai-cadre prolongé selon l’art. 71*d*, al. 2, LACI est remplacé par un nouveau délai-cadre d’indemnisation dès que l’assuré qui a épuisé son droit à l’indemnité remplit les conditions d’ouverture de ce délai-cadre.[^95e-4]
 
@@ -2246,7 +2246,7 @@ La demande doit contenir au moins:
 
 [^96-1]
 
-[^96-1]: Abrogé par le ch. I de l’O du 11 mars 2011, avec effet au 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^96-1]: Abrogé par le ch. I de l’O du 11 mars 2011, avec effet au 1<sup>er</sup> avr. 2011 (RO **201****1** 1179).
 
 #### Art. 96a
 
@@ -2322,7 +2322,7 @@ Les assurés au sens de l’art. 6, al. 1<sup>ter</sup>, qui participent à un s
 
 Les employeurs qui désirent organiser des mesures relatives au marché du travail relevant de l’art. 59, al. 1, LACI, doivent associer l’autorité cantonale dès la phase d’élaboration du projet et présenter ensuite une demande écrite. Cette demande vaut pour toutes les personnes menacées de chômage au sein de l’entreprise. L’autorité cantonale transmet la demande avec son préavis, dans un délai de deux semaines, à l’organe de compensation, qui statue dans un délai d’une semaine. L’art. 59*c*, al. 4, LACI est réservé.
 
-[^98a-1]: Introduit par le ch. I de l’O du 28 août 1991 ([RO 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^98a-1]: Introduit par le ch. I de l’O du 28 août 1991 ([RO 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 (RO **2****003** 1828).
 
 #### Art. 98b
 
@@ -2416,7 +2416,7 @@ Les caisses versent les prestations de l’assurance-chômage autant que possibl
 
 <sup>1</sup> Les caisses utilisent le fonds de roulement pour leurs versements courants. Elles veillent à disposer de liquidités en suffisance et à mettre en sûreté les valeurs en capital.
 
-<sup>2</sup> ...[^105-1]
+<sup>2</sup> …[^105-1]
 
 [^105-1]: Abrogé par le ch. I de l’O du 11 mars 2011, avec effet au 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 
@@ -2470,7 +2470,7 @@ Les révisions de la gestion des organes d’exécution de l’assurance-chômag
 
 <sup>2</sup> L’organe de compensation peut confier ces tâches à un bureau fiduciaire.
 
-<sup>3</sup> ...[^109-3]
+<sup>3</sup> …[^109-3]
 
 [^109-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^109-2]: Introduite par le ch. I de l’O du 15 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)).
@@ -2549,7 +2549,7 @@ L’organe de compensation et les bureaux fiduciaires qu’il a mandatés examin
 
 <sup>2</sup> L’organe de compensation fixe les frais à prendre en compte dans la décision de restitution.
 
-[^111a-1]: Introduit par le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^111a-1]: Introduit par le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>e</sup><sup>r</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 
 #### Art. 111b
 
@@ -2759,7 +2759,7 @@ Plusieurs cantons peuvent, par voie d’accord, instituer et exploiter conjointe
 
 <sup>1</sup> Le canton fixe, dans un règlement, les tâches, les compétences et l’organisation de ses commissions tripartites. Ce règlement est porté à la connaissance de l’organe de compensation.
 
-<sup>2</sup> ...[^119c-2]
+<sup>2</sup> …[^119c-2]
 
 <sup>3</sup> Les représentants des employeurs et des travailleurs touchent des jetons de présence et des indemnités de déplacement. L’organe de compensation fixe le montant de ces indemnités. Celles-ci sont remboursées aux cantons dans le cadre du financement des ORP.
 
@@ -2943,7 +2943,7 @@ L’accord de prestations selon l’art. 92, al. 6, LACI régit la coopération 
 
 <sup>4</sup> Le DEFR définit la structure minimale propre à garantir le service minimal des caisses de chômage. Il fixe le coût de ce service minimal en tenant compte de la nécessité de préserver le niveau de qualification du personnel et de garantir un agrandissement rapide des structures en cas d’augmentation du nombre de demandeurs d’emploi.
 
-[^122b-1]: Introduit par le ch. I de l’O du 6 nov. 1996 ([RO 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)). Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^122b-1]: Introduit par le ch. I de l’O du 6 nov. 1996 (RO **199****6** 3071). Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^122b-2]: [RS 837.12](https://fedlex.data.admin.ch/eli/cc/1986/332_332_332)
 
 #### Art. 122c
@@ -3044,7 +3044,7 @@ La personne concernée peut exiger des services qui traitent les données qu’i
 
 <sup>3</sup> La personne concernée peut exiger, de surcroît, qu’une rectification, un complément ou une destruction de données soit également communiqué aux services auxquels lesdites données avaient été transmises.
 
-<sup>4</sup> ...[^126-3]
+<sup>4</sup> …[^126-3]
 
 <sup>5</sup> Lorsque plusieurs organes d’exécution participent à un système d’information commun, l’un d’eux est désigné comme responsable de l’ensemble.[^126-4]
 
@@ -3105,7 +3105,7 @@ Sont en outre notifiées à l’organe de compensation de l’assurance-chômage
 - a. les décisions de suspension en vertu de l’art. 30, al. 1, let. c et d, LACI, dans la mesure où elles ne sont pas rendues par un ORP (art. 85*b*, al. 1, LACI);
 - b. les décisions de suspension en vertu de l’art. 30, al. 1, let. e, LACI, dans la mesure où l’obligation de renseigner l’autorité cantonale ou l’office du travail a été enfreinte et où les décisions ne sont pas rendues par un ORP (art. 85*b*, al. 1, LACI);
 - c. les décisions de suspension en vertu de l’art. 30, al. 4, LACI;
-- d.[^128a-3] ...
+- d.[^128a-3] …
 - e. les décisions en vertu de l’art. 36, al. 4, et de l’art. 45, al. 4, LACI;
 - f. les décisions concernant des cas soumis pour décision à l’autorité cantonale ou à un organe désigné par elle en vertu de l’art. 81, al. 2, LACI;
 - g. les décisions en vertu de l’art. 85, al. 1, let. d, LACI, dans la mesure où elles n’ont pas été rendues par un ORP (art. 85*b*, al. 1, LACI);
@@ -3147,7 +3147,7 @@ L’ordonnance du 25 février 1986 sur les décisions en cas de recours concerna
 
 **Modification du droit en vigueur**[^131-1]
 
-...[^131-2]
+…[^131-2]
 
 [^131-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 [^131-2]: La mod. peut être consultée au [RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172).
@@ -3172,7 +3172,7 @@ L’ordonnance du 25 février 1986 sur les décisions en cas de recours concerna
 
 [^u1-1]
 
-[^u1-1]: [RO 1985 648](https://fedlex.data.admin.ch/eli/oc/1985/648_648_648). Abrogée par le ch. IV 55 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^u1-1]: RO **1****985** 648. Abrogée par le ch. IV 55 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 ## Dispositions finales de la modification du 6 novembre 1996****
 
