@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2022-03-21
+version: 2022-04-01
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220321/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220321-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220321/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220321/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 21 marzo 2022) (Stato 21 marzo 2022)
+del 4 giugno 2021 (Stato 1° aprile 2022) (Stato 1° aprile 2022)
 
 Il Consiglio federale svizzero,
 
@@ -763,7 +763,7 @@ Allegato 2*[^t-2]*
 
 ## Disposizioni particolari sui certificati di vaccinazione COVID-19
 
-[^t-2]: Nuovo testo giusta il n. I cpv. 1 dell’O del DFI del 1° feb. 2022 (Completamento delle immunizzazioni di base e vaccinazioni di richiamo, considerazione di ulteriori vaccini) (RU **2022** 56). Aggiornato dal n. II cpv. 1 dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera), in vigore dal 17 feb. 2022 (RU **2022** 99).
+[^t-2]: Nuovo testo giusta il n. I cpv. 1 dell’O del DFI del 1° feb. 2022 (Completamento delle immunizzazioni di base e vaccinazioni di richiamo, considerazione di ulteriori vaccini) ([RU 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Aggiornato dal n. II cpv. 1 dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera) ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)) e dal n. III dell’O del 30 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
 
 ### 1 Inizio e durata massima della validità
 
@@ -833,17 +833,14 @@ Allegato 2*[^t-2]*
   - b. vaccinazione di richiamo in seguito a un’immunizzazione di base iniziata con un altro vaccino (n. 3.2.1 lett. b): «3/3» (per ulteriori dosi: «[3+X]/[3+X]»).
 
 - 3\.3 Vaccini che prevedono due dosi
-- 3\.3.1 L’articolo 3.3 si applica ai seguenti vaccini:
+- 3\.3.1 Il numero 3.3 si applica ai seguenti vaccini:
 
 <table>
 <tr><th>Nome(i) del prodotto</th><th>Fabbricante</th></tr>
-<tr><td colspan="2">a. Vaccini autorizzati da Swissmedic:</td></tr>
 <tr><td>Comirnaty (BNT162b2)</td><td>Pfizer/BioNTech</td></tr>
 <tr><td>Spikevax (mRNA-1273)</td><td>Moderna</td></tr>
-<tr><td colspan="2">b. Vaccini autorizzati dall’Agenzia europea per i medicinali (EMA) ma non da Swissmedic:</td></tr>
 <tr><td>Vaxzevria (ChAdOx1 nCoV-19)</td><td>AstraZeneca</td></tr>
 <tr><td>Nuvaxovid (NVX-CoV2373)</td><td>Novavax</td></tr>
-<tr><td colspan="2">c. Vaccini autorizzati dall’elenco dell’OMS per l’uso d’urgenza, ma non da Swissmedic o dall’EMA:</td></tr>
 <tr><td>BIBP P-CoV</td><td>Sinopharm Wuhan/Sinopharm Beijing</td></tr>
 <tr><td>CoronaVac</td><td>Sinovac</td></tr>
 <tr><td>Bharat Biotech Covaxin</td><td>Indian Council for Medical Research</td></tr>
@@ -884,7 +881,7 @@ Allegato 2*[^t-2]*
 - 3\.4.2 Indicazione di completezza per la supplementazione con un vaccino autorizzato in Svizzera: «1/1».
 - 3\.4.3 Indicazione di completezza per una dose ulteriore dopo un supplemento secondo il numero 3.4.2: "2/1" (per ulteriori dosi: "[2+X]/1").
 - 3\.5 Combinazioni di vaccini (vaccinazioni eterologhe)
-- 3\.5.1 I vaccini di cui ai numeri 3.2 e 3.3 lettere a e b possono essere combinati liberamente tra di loro nel quadro dell’immunizzazione di base.
+- 3\.5.1 I vaccini che dispongono di un’omologazione in Svizzera o di un’autorizzazione dell’Agenzia europea per i medicinali per l’UE conformemente al regolamento (CE) n. 726/2004[^annex2-lvlu1-lvl3-2] possono essere combinati liberamente tra di loro nel quadro dell’immunizzazione di base.
 - 3\.5.2 I vaccini di cui ai numeri 3.2 e 3.3 possono essere combinati, in quanto vaccinazione di richiamo, con ogni immunizzazione. Questo vale anche per le combinazioni con una vaccinazione integrata secondo il numero 3.4.
 - 3\.6 Prodotti su licenza riconosciuti
 
@@ -901,6 +898,7 @@ La prova ai sensi dell’articolo 13 capoverso 1 lettera d è considerata fornit
 - [tab]
 
 [^annex2-lvlu1-lvl3-1]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^annex2-lvlu1-lvl3-2]: Regolamento (CE) n. 726/2004 del Parlamento europeo e del Consiglio del 31 marzo 2004 che istituisce procedure comunitarie per l’autorizzazione e la sorveglianza dei medicinali per uso umano e veterinario, e che istituisce l’agenzia europea per i medicinali, GU L 136 del 30.4.2004, pag. 1; modificato da ultimo dal Regolamento (UE) n. 2019/5, GU L 4 del 7.1.2019, pag. 24.
 
 Allegato 3*[^t-3]*
 

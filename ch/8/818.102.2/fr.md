@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2022-03-21
+version: 2022-04-01
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220321/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220321-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220321/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220321/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 21 mars 2022)
+du 4 juin 2021 (Etat le 1<sup>er</sup> avril 2022)
 
 Le Conseil fédéral suisse,
 
@@ -761,7 +761,7 @@ Annexe 2*[^t-2]*
 
 ## Dispositions particulières applicables aux certificats de vaccination COVID-19
 
-[^t-2]: Nouvelle teneur selon le ch. I al. 1 de l’O du DFI du 1<sup>er</sup> fév. 2022 (Caractère complet d’une primovaccination et d’une vaccination de rappel, prise en compte de vaccins supplémentaires) ([RO 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Mise à jour par le ch. II al. 1 de l’O du 16 fév. 2022 (Expiration des certificats dont la validité est limitée à la Suisse), en vigueur depuis le 17 fév. 2022 ([RO 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+[^t-2]: Nouvelle teneur selon le ch. I al. 1 de l’O du DFI du 1<sup>er</sup> fév. 2022 (Caractère complet d’une primovaccination et d’une vaccination de rappel, prise en compte de vaccins supplémentaires) ([RO 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Mise à jour par le ch. II al. 1 de l’O du 16 fév. 2022 (Expiration des certificats dont la validité est limitée à la Suisse) ([RO 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)) et le ch. III de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
 
 ### 1 Début de la validité et durée de validité maximale
 
@@ -835,13 +835,10 @@ Annexe 2*[^t-2]*
 
 <table>
 <tr><th>Nom(s) du/des produit(s)</th><th>Fabricant</th></tr>
-<tr><td colspan="2">a. vaccins autorisés par Swissmedic:</td></tr>
 <tr><td>Comirnaty (BNT162b2)</td><td>Pfizer/BioNTech</td></tr>
 <tr><td>Spikevax (mRNA-1273)</td><td>Moderna</td></tr>
-<tr><td colspan="2">b. vaccins autorisés par l’Agence européenne des médicaments (EMA), mais pas par Swissmedic:</td></tr>
 <tr><td>Vaxzevria (ChAdOx1 nCoV-19)</td><td>AstraZeneca</td></tr>
 <tr><td>Nuvaxovid (NVX-CoV2373)</td><td>Novavax</td></tr>
-<tr><td colspan="2">c. vaccins autorisés sur la base de la liste des situations d’urgence de l’OMS, mais pas par Swissmedic ou l’EMA:</td></tr>
 <tr><td>BIBP P-CoV</td><td>Sinopharm Wuhan/Sinopharm Beijing</td></tr>
 <tr><td>CoronaVac</td><td>Sinovac</td></tr>
 <tr><td>Bharat Biotech Covaxin</td><td>Indian Council for Medical Research</td></tr>
@@ -885,7 +882,7 @@ Annexe 2*[^t-2]*
 
 3.5 Combinaison de vaccins (vaccinations hétérologues)
 
-- 3\.5.1 Les vaccins visés aux ch. 3.2 et 3.3, let. a et b, peuvent être librement combinés pour la primovaccination.
+- 3\.5.1 Les vaccins qui disposent d’une autorisation en Suisse ou d’une autorisation de l’Agence européenne des médicaments pour l’UE conformément au règlement (CE) n° 726/2004[^annex2-lvlu1-lvl3-2] peuvent être librement combinés pour la primovaccination.
 - 3\.5.2 Les vaccins visés aux ch. 3.2 et 3.3 peuvent être combinés, en tant que vaccination de rappel avec chaque primovaccination. Ceci s’applique aussi aux combinaisons de vaccins avec complément de vaccination au sens du ch. 3.4.
 
 3.6 Produits sous licence reconnus
@@ -901,6 +898,7 @@ La preuve au sens de l’art. 13, al. 1, let. d, est réputée apportée pour le
 </table>
 
 [^annex2-lvlu1-lvl3-1]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^annex2-lvlu1-lvl3-2]: Règlement (CE) n<sup>o</sup> 726/2004 du Parlement européen et du Conseil du 31 mars 2004 établissant des procédures communautaires pour l’autorisation et la surveillance en ce qui concerne les médicaments à usage humain et à usage vétérinaire, et instituant une Agence européenne des médicaments, JO L 136 du 30.4.2004, p. 1; modifié en dernier lieu par le règlement (UE) 2019/5, JO L 4 du 7.1.2019, p. 24
 
 Annexe 3*[^t-3]*
 

@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2022-03-21
+version: 2022-04-01
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220321/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220321-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220321/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220401/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220401-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220401/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 21 March 2022)
+of 4 June 2021 (Status as of 1 April 2022)
 
 The Swiss Federal Council,
 
@@ -763,7 +763,7 @@ Annex 2*[^t-2]*
 
 ## Special provisions concerning COVID-19 vaccination certificates
 
-[^t-2]: Amended by No I para. 1 of the FDHA O of 1 Feb. 2022 (Level of Basic Immunisation and Booster Vaccination, Recognition of other Vaccines) ([AS 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Revised by No II para. 1 of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force since 17 Feb. 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+[^t-2]: Amended by No I para. 1 of the FDHA O of 1 Feb. 2022 (Level of Basic Immunisation and Booster Vaccination, Recognition of other Vaccines) ([AS 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Revised by No II para. 1 of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland) ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)) and No III of the O of 30 March 2022, in force since 1 April 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
 
 ### 1 Start of validity and maximum duration
 
@@ -837,13 +837,10 @@ Annex 2*[^t-2]*
 
 <table>
 <tr><th>Product name(s)</th><th>Manufacturer</th></tr>
-<tr><td colspan="2">a. Vaccines authorised by Swissmedic:</td></tr>
 <tr><td>Comirnaty (BNT162b2)</td><td>Pfizer/BioNTech</td></tr>
 <tr><td>Spikevax (mRNA-1273)</td><td>Moderna</td></tr>
-<tr><td colspan="2">b. Vaccines authorised by the European Medicines Agency (EMA), but not by Swissmedic:</td></tr>
 <tr><td>Vaxzevria (ChAdOx1 nCoV-19)</td><td>AstraZeneca</td></tr>
 <tr><td>Nuvaxovid (NVX-CoV2373)</td><td>Novavax</td></tr>
-<tr><td colspan="2">c. Vaccines authorised in the WHO Emergency Use Listing, but not by Swissmedic or the EMA:</td></tr>
 <tr><td>BIBP P-CoV</td><td>Sinopharm Wuhan /Sinopharm Beijing</td></tr>
 <tr><td>CoronaVac</td><td>Sinovac</td></tr>
 <tr><td>Bharat Biotech Covaxin</td><td>Indian Council for Medical Research</td></tr>
@@ -884,7 +881,7 @@ Annex 2*[^t-2]*
 - 3\.4.2 Indication of level of vaccination if supplemented with a vaccine authorised in Switzerland: “1/1”.
 - 3\.4.3 Indication of level of vaccination if a further dose is administered following a supplement in accordance with Number 3.4.2: “2/1” (for further doses: “[2+X]/1”).
 - 3\.5 Combinations of vaccines (heterologous vaccinations)
-- 3\.5.1 The vaccines in accordance with numbers 3.2 and 3.3 letters a and b may be combined freely with each other for the purpose of basic immunisation.
+- 3\.5.1 Vaccines that are authorised in Switzerland or are authorised by the European Medicines Agency for the EU in accordance with Regulation (EC) No 726/2004[^annex2-lvlu1-lvl3-2] may be combined freely with each other for the purpose of basic immunisation.
 - 3\.5.2 The vaccines in accordance with numbers 3.2 and 3.3 may be combined with any basic immunisation as a booster vaccination. This also applies to combinations with vaccination supplemented in accordance with Number 3.4.
 - 3\.6 Recognised licensed products
 
@@ -899,6 +896,7 @@ Proof in accordance with Article 13 paragraph 1 letter d is considered to be pro
 </table>
 
 [^annex2-lvlu1-lvl3-1]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^annex2-lvlu1-lvl3-2]: Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency, OJ L 136, 30.4.2004, p. 1; last amended by Regulation (EU) No 2019/5, OJ L 4, 7.1.2019, p. 24.
 
 Annex 3*[^t-3]*
 

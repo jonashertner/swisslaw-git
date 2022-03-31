@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2022-03-21
+version: 2022-04-01
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220321/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220321-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220321/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220321/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 21. März 2022)
+vom 4. Juni 2021 (Stand am 1. April 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -761,7 +761,7 @@ Anhang 2*[^t-2]*
 
 ## Besondere Bestimmungen über Covid-19-Impfzertifikate
 
-[^t-2]: Fassung gemäss Ziff. I Abs. 1 der V des EDI vom 1. Febr. 2022 (Vollständigkeit von Grundimmunisierungen und Auffrischimpfungen, Berücksichtigung von weiteren Impfstoffen) ([AS 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 16. Febr. 2022 (Auslaufen der nur in der Schweiz gültigen Covid-19-Zertifikate), in Kraft seit 17. Febr. 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+[^t-2]: Fassung gemäss Ziff. I Abs. 1 der V des EDI vom 1. Febr. 2022 (Vollständigkeit von Grundimmunisierungen und Auffrischimpfungen, Berücksichtigung von weiteren Impfstoffen) ([AS 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 16. Febr. 2022 (Auslaufen der nur in der Schweiz gültigen Covid-19-Zertifikate) ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)) und Ziff. III der V vom 30. März 2022, in Kraft seit 1. April 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
 
 ### 1 Beginn und Höchstdauer der Gültigkeit
 
@@ -835,13 +835,10 @@ Anhang 2*[^t-2]*
 
 <table>
 <tr><th>Produktename(n)</th><th>Hersteller</th></tr>
-<tr><td colspan="2">a. durch Swissmedic zugelassene Impfstoffe:</td></tr>
 <tr><td>Comirnaty (BNT162b2)</td><td>Pfizer/BioNTech</td></tr>
 <tr><td>Spikevax (mRNA-1273)</td><td>Moderna</td></tr>
-<tr><td colspan="2">b. Impfstoffe, die durch die Europäische Arzneimittel-Agentur (EMA), nicht aber durch Swissmedic zugelassen sind:</td></tr>
 <tr><td>Vaxzevria (ChAdOx1 nCoV-19)</td><td>AstraZeneca</td></tr>
 <tr><td>Nuvaxovid (NVX-CoV2373)</td><td>Novavax</td></tr>
-<tr><td colspan="2">c. Impfstoffe, die im Rahmen des «WHO Emergency Use Listing», nicht aber durch Swissmedic oder die EMA zugelassen sind:</td></tr>
 <tr><td>BIBP P-CoV</td><td>Sinopharm Wuhan/Sinopharm Beijing</td></tr>
 <tr><td>CoronaVac</td><td>Sinovac</td></tr>
 <tr><td>Bharat Biotech Covaxin</td><td>Indian Council for Medical Research</td></tr>
@@ -882,7 +879,7 @@ Anhang 2*[^t-2]*
 - 3\.4.2 Angabe der Vollständigkeit für die Ergänzung mit einem in der Schweiz zugelassenen Impfstoff: «1/1».
 - 3\.4.3 Angabe der Vollständigkeit bei einer weiteren Dosis nach einer Ergänzung nach Ziffer 3.4.2: «2/1» (für weitere: «[2+X]/1»).
 - 3\.5 Kombinationen von Impfstoffen (heterologe Impfungen)
-- 3\.5.1 Die Impfstoffe nach den Ziffern 3.2 und 3.3 Buchstaben a und b können im Rahmen der Grundimmunisierung frei miteinander kombiniert werden.
+- 3\.5.1 Impfstoffe, die über eine Zulassung in der Schweiz oder über eine Zulassung der Europäischen Arzneimittelagentur für die EU gemäss der Verordnung (EG) Nr. 726/2004[^annex2-lvlu1-lvl3-2] verfügen, können im Rahmen der Grundimmunisierung frei miteinander kombiniert werden.
 - 3\.5.2 Die Impfstoffe nach den Ziffern 3.2 und 3.3 können als Auffrischimpfung mit jeder Grundimmunisierung kombiniert werden. Dies gilt auch für die Kombinationen mit einer nach Ziffer 3.4 ergänzten Impfung.
 - 3\.6 Anerkannte Lizenzprodukte
 
@@ -897,6 +894,7 @@ Für folgende Lizenzprodukte von Impfstoffen gilt der Nachweis nach Artikel 13 A
 </table>
 
 [^annex2-lvlu1-lvl3-1]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^annex2-lvlu1-lvl3-2]: Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung von Gemeinschaftsverfahren für die Genehmigung und Überwachung von Human- und Tierarzneimitteln und zur Errichtung einer Europäischen Arzneimittel-Agentur, ABl. L 136 vom 30.04.2004, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 2019/5, ABl. L 4 vom 7.1.2019, S. 24.
 
 Anhang 3*[^t-3]*
 
