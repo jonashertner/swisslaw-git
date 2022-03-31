@@ -3,28 +3,27 @@ sr: "0.632.315.731"
 title: "Accordo di libero scambio del 14 novembre 2011 tra gli Stati dell'AELS e il Montenegro (con allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/519"
 language: it
-version: 2012-09-25
+version: 2022-04-01
 adopted: 2011-11-14
 in_force: 2012-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/519/20120925/it/xml/fedlex-data-admin-ch-eli-cc-2012-519-20120925-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/519/20120925/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/519/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2012-519-20220401-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/519/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Accordo di libero scambio tra gli Stati dell’AELS e il Montenegro****
+# Accordo di libero scambio tra gli Stati dell’AELS e il Montenegro
 
 RU **2012** 4391; FF **2012** 623[^t-1]
 
-Traduzione*[^t-2]*
+Traduzione
 
-Concluso a Ginevra il 14 novembre 2011 Approvato dall’Assemblea federale il 7 marzo 2012[^t-3] Strumento di ratifica depositato dalla Svizzera il 22 marzo 2012 Entrato in vigore per la Svizzera il 1° settembre 2012
+Concluso a Ginevra il 14 novembre 2011 Approvato dall’Assemblea federale il 7 marzo 2012[^t-2] Strumento di ratifica depositato dalla Svizzera il 22 marzo 2012 Entrato in vigore per la Svizzera il 1° settembre 2012
 
-(Stato 25 settembre 2012)
+(Stato 1° aprile 2022)
 
 [^t-1]: Gli all. all’Acc. possono essere ottenuti presso l’Ufficio federale delle costruzioni e della logistica, Vendita di pubblicazioni federali, 3003 Berna. Sono inoltre disponibili in Internet sul sito del Segretariato dell’AELS: www.efta.int/free-trade/free-trade-agreements.aspx
-[^t-2]: Traduzione dal testo originale inglese.
-[^t-3]: Art. 1 cpv. 1 lett. a del DF del 7 mar. 2012 ([RU 2012 4389](https://fedlex.data.admin.ch/eli/oc/2012/518)).
+[^t-2]: Art. 1 cpv. 1 lett. a del DF del 7 mar. 2012 ([RU 2012 4389](https://fedlex.data.admin.ch/eli/oc/2012/518)).
 
 Preambolo
 
@@ -70,9 +69,9 @@ convinti che il presente Accordo migliorerà la competitività delle loro impres
 
 hanno convenuto, al fine di conseguire gli obiettivi sopraelencati, di concludere il seguente Accordo di libero scambio (in seguito denominato «presente Accordo»):
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
-[^ingress-3]: RS **0.82**
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
+[^ingress-3]: [RS 0.82](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3594)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -93,7 +92,7 @@ Il presente Accordo, che si fonda su relazioni commerciali tra economie di merca
 - (e) sviluppare il commercio internazionale in modo tale da contribuire al raggiungimento dell’obiettivo dello sviluppo sostenibile, assicurando che tale obiettivo sia integrato e si rifletta nelle relazioni commerciali tra le Parti; e
 - (f) contribuire in tal modo allo sviluppo e all’espansione armoniosi del commercio mondiale.
 
-[^1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), all. 1A.1
+[^1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato A.1
 
 #### Art. 2
 
@@ -103,7 +102,7 @@ Il presente Accordo, che si fonda su relazioni commerciali tra economie di merca
 
 <sup>2.</sup> In virtù dell’unione doganale stabilita dal Trattato del 29 marzo 1923[^2-1] tra la Confederazione Svizzera e il Principato del Liechtenstein, la Svizzera rappresenta il Principato del Liechtenstein nelle questioni disciplinate dal suddetto Trattato.
 
-[^2-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^2-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
 #### Art. 3
 
@@ -121,12 +120,14 @@ Il presente Accordo, che si fonda su relazioni commerciali tra economie di merca
 
 <sup>1.</sup>
 
-Salvo altrimenti disposto nell’articolo 8, il presente accordo si applica:
+Salvo altrimenti disposto dall’allegato VIII, il presente Accordo si applica:
 
-- (a) al territorio terrestre, alle acque interne e alle acque territoriali di ciascuna Parte nonché allo spazio aereo che sovrasta il suo territorio, conformemente al diritto internazionale; e
-- (b) al di là delle acque territoriali, per quanto riguarda le misure prese da una Parte nell’esercizio della sua sovranità o della sua giurisdizione, conformemente al diritto internazionale.
+- (a) al territorio terrestre, alle acque nazionali e alle acque territoriali di ciascuna Parte nonché allo spazio aereo che sovrasta il suo territorio, conformemente al diritto internazionale; e
+- (b) al di là delle acque territoriali, per quanto riguarda le misure prese da una Parte nell’esercizio della sua sovranità o della sua giurisdizione, conformemente al diritto internazionale.[^4-1]
 
 <sup>2.</sup> Il presente Accordo non si applica al territorio norvegese delle isole Svalbard, fatta eccezione per gli scambi di merci.
+
+[^4-1]: Nuovo testo giusta il Prot. del 14 lug. 2021, approvato dall’AF il 18 mar. 2021, in vigore per la Svizzera dal 1° apr. 2022 ([RU 2022 250](https://fedlex.data.admin.ch/eli/oc/2022/250); [2021 644](https://fedlex.data.admin.ch/eli/oc/2021/644)art. 1 cpv. 2 lett. b n. 11; [FF 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)).
 
 #### Art. 5
 
@@ -158,19 +159,15 @@ Il presente capitolo si applica ai seguenti prodotti:
 
 <sup>2.</sup> Ciascuno Stato dell’AELS e il Montenegro hanno concluso un accordo bilaterale sul commercio di prodotti agricoli. Tali accordi costituiscono una parte degli strumenti con cui si istituisce una zona di libero scambio tra gli Stati dell’AELS e il Montenegro.
 
-[^7-1]: [RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^7-1]: [RS 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 
 #### Art. 8
 
-**Regole diorigine e cooperazione amministrativa**
+**Regole di origine e cooperazione amministrativa**[^8-1]
 
-<sup>1.</sup> I diritti e gli obblighi delle Parti in relazione alle regole d’origine e alla cooperazione amministrativa tra le autorità doganali delle Parti sono disciplinati dalla Convenzione regionale unica sulle norme d’origine preferenziali per l’area paneuromediterranea[^8-1] (di seguito denominata «Convenzione»), salvo altrimenti disposto nel paragrafo 2 e senza pregiudicare l’articolo 15.
+Le disposizioni relative alle regole d’origine e ai metodi di cooperazione amministrativa sono enunciate nell’allegato VIII.
 
-<sup>2.</sup> Per i prodotti agricoli trasformati di cui all’allegato II, si applica, *mutatis muta**n**dis*, l’articolo 3 dell’appendice I alla Convenzione, consentendo unicamente il cumulo bilaterale tra le Parti.
-
-<sup>3.</sup> Se una Parte intendesse recedere dalla Convenzione, le Parti avviano immediatamente dei negoziati in merito a nuove regole in materia d’origine applicabili al presente Accordo. Fino all’entrata in vigore di tali regole, si applicano, *mutatis mutandis*, le regole d’origine contenute nella Convenzione, consentendo unicamente il cumulo bilaterale tra le Parti.
-
-[^8-1]: [RS 0.946.31](https://fedlex.data.admin.ch/eli/cc/2012/19). L’all. VII del presente Acc. precisa che le Parti si impegnano ad applicare pari le disposizioni della Conv. se quest’ultima non dovesse ancora essere in vigore per una Parte in occasione dell’entrata in vigore dell’Acc. di libero scambio.
+[^8-1]: Nuovo testo giusta il Prot. del 14 lug. 2021, approvato dall’AF il 18 mar. 2021, in vigore per la Svizzera dal 1° apr. 2022 ([RU 2022 250](https://fedlex.data.admin.ch/eli/oc/2022/250); [2021 644](https://fedlex.data.admin.ch/eli/oc/2021/644)art. 1 cpv. 2 lett. b n. 11; [FF 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)).
 
 #### Art. 9
 
@@ -180,7 +177,7 @@ Il presente capitolo si applica ai seguenti prodotti:
 
 <sup>2.</sup> Per dazi doganali e oneri con effetto equivalente ai dazi doganali si intende qualsiasi dazio o onere di ogni tipo applicato in relazione all’importazione o all’esportazione di un prodotto, comprese tutte le forme di sovrattassa, ma non gli oneri imposti conformemente agli articoli III e VIII del GATT 1994[^9-1].
 
-[^9-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.1
+[^9-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1
 
 #### Art. 10
 
@@ -188,7 +185,7 @@ Il presente capitolo si applica ai seguenti prodotti:
 
 Per quanto concerne i diritti e gli obblighi delle Parti concernenti le restrizioni quantitative, si applica l’articolo XI del GATT 1994[^10-1], che è integrato nel presente Accordo e ne diviene parte integrante, *mutatis mutandis*.
 
-[^10-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.1
+[^10-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1
 
 #### Art. 11
 
@@ -198,7 +195,7 @@ Per quanto concerne i diritti e gli obblighi delle Parti concernenti le restrizi
 
 <sup>2.</sup> Gli esportatori non possono beneficiare di un rimborso di imposte interne superiore all’importo delle imposte indirette applicate sui prodotti esportati verso il territorio di una Parte.
 
-[^11-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.1
+[^11-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1
 
 #### Art. 12
 
@@ -208,7 +205,7 @@ Per quanto concerne i diritti e gli obblighi delle Parti concernenti le restrizi
 
 <sup>2.</sup> Le Parti si scambiano i nomi e gli indirizzi degli organi di contatto per le perizie sanitarie e fitosanitarie al fine di facilitare la comunicazione e lo scambio d’informazioni.
 
-[^12-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.4
+[^12-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.4
 
 #### Art. 13
 
@@ -218,7 +215,7 @@ Per quanto concerne i diritti e gli obblighi delle Parti concernenti le restrizi
 
 <sup>2.</sup> Le Parti rafforzano la loro cooperazione in materia di regolamenti tecnici, norme e valutazione della conformità al fine di migliorare la comprensione reciproca dei rispettivi sistemi e di facilitare l’accesso ai rispettivi mercati.
 
-[^13-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.6
+[^13-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.6
 
 #### Art. 14
 
@@ -244,8 +241,8 @@ Allo scopo di agevolare gli scambi tra gli Stati dell’AELS e il Montenegro, co
 
 Per quanto riguarda i diritti e gli obblighi delle Parti concernenti le imprese commerciali di Stato, sono disciplinati dall’articolo XVII del GATT 1994[^16-1] e dall’Intesa sull’interpretazione dell’articolo XVII del GATT 1994[^16-2], i quali sono inseriti nel presente Accordo e ne costituiscono parte integrante, *mutatis mutandis.*
 
-[^16-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.1
-[^16-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.1.b
+[^16-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1
+[^16-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1.B
 
 #### Art. 17
 
@@ -272,8 +269,8 @@ Sono incompatibili con il buon funzionamento del presente Accordo nella misura i
 
 <sup>2.</sup> Prima che uno Stato dell’AELS o il Montenegro avvii, se del caso, un’inchiesta volta a determinare l’esistenza, il grado e l’effetto di una presunta sovvenzione in uno Stato dell’AELS o in Montenegro ai sensi dell’articolo 11 dell’Accordo sulle sovvenzioni e sulle misure compensative dell’OMC, la Parte intenzionata ad avviare tale inchiesta informa per scritto la Parte le cui merci possono essere oggetto dell’inchiesta, accordandole un periodo di 45 giorni al fine di trovare una soluzione reciprocamente accettabile. Le consultazioni si svolgono in seno al Comitato misto, su richiesta di una delle Parti, entro 20 giorni dalla data di ricevimento della notifica.
 
-[^18-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.1
-[^18-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.13
+[^18-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1
+[^18-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.13
 
 #### Art. 19
 
@@ -281,8 +278,8 @@ Sono incompatibili con il buon funzionamento del presente Accordo nella misura i
 
 Nessuna delle Parti applica misure antidumping ai sensi dell’articolo VI del GATT 1994[^19-1] e dell’Accordo dell’OMC sull’attuazione dell’articolo VI del GATT 1994[^19-2] in relazione ai prodotti originari delle altre Parti.
 
-[^19-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.1
-[^19-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.8
+[^19-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1
+[^19-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.8
 
 #### Art. 20
 
@@ -290,8 +287,8 @@ Nessuna delle Parti applica misure antidumping ai sensi dell’articolo VI del G
 
 I diritti e gli obblighi delle Parti concernenti le misure di salvaguardia generali sono disciplinati dall’articolo XIX del GATT 1994[^20-1] e dell’Accordo dell’OMC sulle misure di salvaguardia[^20-2]. Nel prendere misure di salvaguardia globali una Parte esclude le importazioni di un prodotto originario di una o più Parti se di per sé tali importazioni provocano o minacciano di provocare grave pregiudizio. La Parte che adotta la misura deve dimostrare che tale esclusione è conforme alle norme e alle pratiche dell’OMC.
 
-[^20-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.1
-[^20-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.14
+[^20-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1
+[^20-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.14
 
 #### Art. 21
 
@@ -322,7 +319,7 @@ Se le condizioni di cui al paragrafo 1 sono adempiute, la Parte importatrice pu�
 
 <sup>10.</sup> Cinque anni dopo l’entrata in vigore del presente Accordo, le Parti esaminano in seno al Comitato misto se è necessario mantenere la possibilità di adottare misure di salvaguardia bilaterali tra di loro. Se, dopo il primo esame, decidono di mantenere tale possibilità, le Parti riesaminano successivamente la questione ogni due anni in seno al Comitato misto.
 
-[^21-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.14
+[^21-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.14
 [^21-2]: Trattamento della nazione più favorita
 
 #### Art. 22
@@ -331,7 +328,7 @@ Se le condizioni di cui al paragrafo 1 sono adempiute, la Parte importatrice pu�
 
 Per quanto riguarda i diritti e gli obblighi delle Parti conformemente al presente capitolo concernenti le eccezioni generali e le eccezioni in materia di sicurezza, si applicano gli articoli XX e XXI del GATT 1994[^22-1], i quali sono integrati nel presente capitolo e divengono parte integrante del presente Accordo, *mutatis mutandis*.
 
-[^22-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.1
+[^22-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1
 
 ## Capitolo 3: Protezione della proprietà intellettuale
 
@@ -347,7 +344,7 @@ Per quanto riguarda i diritti e gli obblighi delle Parti conformemente al presen
 
 <sup>4.</sup> Su richiesta di una Parte, le Parti convengono di riesaminare il presente articolo e l’allegato VI, ai fini di estendere ulteriormente i livelli di protezione e di impedire o rimediare alle distorsioni degli scambi causate dai livelli attuali di protezione dei diritti di proprietà intellettuale.
 
-[^23-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1C
+[^23-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1C
 
 ## Capitolo 4: Investimenti, servizi e appalti pubblici
 
@@ -381,7 +378,7 @@ La cooperazione in tal senso può includere:
 
 <sup>3.</sup> Le Parti si impegnano a riesaminare i paragrafi 1 e 2 al fine di istituire un accordo per la liberalizzazione degli scambi di servizi tra di esse conformemente all’articolo V del GATS.
 
-[^25-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1.B
+[^25-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1B
 
 #### Art. 26
 
@@ -415,9 +412,9 @@ Conformemente alle disposizioni dell’articolo 29, le Parti si impegnano a cons
 
 Se una Parte versa o rischia di incorrere in serie difficoltà nella bilancia dei pagamenti, la Parte in questione, in conformità con le condizioni poste nel quadro del GATT 1994[^29-1], del GATS[^29-2] e dell’accordo statutario del Fondo monetario internazionale[^29-3], può adottare misure restrittive per quanto riguarda i pagamenti correnti se tali misure sono strettamente necessarie. Tali misure si applicano su base temporanea, equa e non discriminatoria. La Parte in questione informa immediatamente le altre Parti di tali misure e definisce il più presto possibile un calendario per la loro eliminazione.
 
-[^29-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.1
-[^29-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1.B
-[^29-3]: [RS 0.979.1](https://fedlex.data.admin.ch/eli/cc/1992/2571_2571_2571)
+[^29-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1
+[^29-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1B
+[^29-3]: [RS 0.979.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4695)
 
 #### Art. 30
 
@@ -425,7 +422,7 @@ Se una Parte versa o rischia di incorrere in serie difficoltà nella bilancia de
 
 Per quanto concerne i diritti e gli obblighi delle Parti in virtù del presente capitolo in merito alle eccezioni generali e alle eccezioni in materia di sicurezza, si applicano i sottoparagrafi dalla lettera (a) alla lettera (c) dell’articolo XIV e il paragrafo 1 dell’articolo XIV *bis* del GATS[^30-1], i quali sono inseriti nel presente Accordo e ne costituiscono parte integrante, *mutatis mutandis*.
 
-[^30-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1.B
+[^30-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1B
 
 ## Capitolo 6: Commercio e sviluppo sostenibile
 
@@ -487,7 +484,7 @@ Le Parti richiamano gli obblighi derivanti dalla loro adesione all’OIL[^35-1] 
 
 <sup>4.</sup> Il mancato rispetto dei principi e dei diritti fondamentali sul lavoro non può essere addotto o utilizzato per legittimare un vantaggio comparativo. Gli standard di lavoro non possono essere utilizzati a fini protezionistici.
 
-[^35-1]: [RS 0.820.1](https://fedlex.data.admin.ch/eli/cc/1948/915_891_861)
+[^35-1]: [RS 0.820.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3596)
 
 #### Art. 36
 
@@ -601,7 +598,7 @@ Il Comitato misto svolge le seguenti funzioni:
 <sup>10.</sup> Salvo diversamente specificato nel presente Accordo o convenuto dalle Parti alla controversia, si applicano le norme opzionali, *mutatis mutandis*.
 
 [^43-1]: Nel presente capitolo, i termini «Parte», «Parte alla controversia», «Parte attrice» e «Parte oggetto del reclamo» possono denotare una o più Parti.
-[^43-2]: [RS 0.193.212](https://fedlex.data.admin.ch/eli/cc/26/305_271_293)
+[^43-2]: [RS 0.193.212](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/756)
 
 #### Art. 44
 
@@ -661,7 +658,7 @@ Le Parti si impegnano a riesaminare il presente Accordo alla luce degli ulterior
 
 <sup>3.</sup> Qualsiasi Stato dell’AELS che recede dalla Convenzione istitutiva dell’Associazione europea di libero scambio[^50-1] cessa *ipso facto* di essere Parte del presente Accordo lo stesso giorno in cui il suo recesso diviene effettivo.
 
-[^50-1]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^50-1]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 #### Art. 51
 
@@ -685,7 +682,7 @@ Il Governo di Norvegia è il Depositario del presente Accordo.
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato il presente Accordo. Fatto a Ginevra, il 14 novembre 2011, in un unico esemplare in lingua inglese. Il Depositario trasmette copie certificate a tutte le Parti. (Seguono le firme)
 
-Campo d’applicazione il 25 settembre 2012**[^t-4]**
+Campo d’applicazione il 25 settembre 2012[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -698,7 +695,7 @@ Campo d’applicazione il 25 settembre 2012**[^t-4]**
 
 ## Indice
 
-[^t-4]: [RU 2012 5409](https://fedlex.data.admin.ch/eli/oc/2012/618)Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 2012 5409](https://fedlex.data.admin.ch/eli/oc/2012/618)Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
 
 <table>
 <tr><td>Preambolo</td><td></td></tr>
@@ -765,11 +762,11 @@ Campo d’applicazione il 25 settembre 2012**[^t-4]**
 <tr><td>Art. 52</td><td>Depositario</td></tr>
 </table>
 
-## Lista degli allegati****
+## Lista degli allegati
 
 [^annexu1-lvlu3-1]
 
-[^annexu1-lvlu3-1]: Questi all. solo in inglese e possono essere consultati sul sito Internet dell’AELS, all’indirizzo seguente: www.efta.int/free-trade/free-trade-agreements/Montenegro
+[^annexu1-lvlu3-1]: Questi all. solo in inglese e possono essere consultati sul sito Internet dell’AELS, all’indirizzo seguente: www.efta.int Global Trade relations &gt; Free Trade Agreements &gt; Montenegro
 
 <table>
 <tr><td>Annex I</td><td colspan="2">Referred to in Article 7 – Excluded Products</td></tr>
@@ -781,4 +778,5 @@ Campo d’applicazione il 25 settembre 2012**[^t-4]**
 <tr><td>Annex V</td><td colspan="2">Referred to in Article 15 – Mandate of the Sub-Committee on Rules of Origin, Customs Procedures and Trade Facilitation</td></tr>
 <tr><td>Annex VI</td><td colspan="2">Referred to in Article 23 – Protection of Intellectual Property</td></tr>
 <tr><td>Annex VII</td><td colspan="2">Transitional Arrangement</td></tr>
+<tr><td>Annex VIII</td><td colspan="2">Concept of "Originating Products" and Methods of Administrative Cooperation</td></tr>
 </table>
