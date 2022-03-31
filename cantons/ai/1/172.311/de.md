@@ -4,13 +4,13 @@ number: "172.311"
 title: Standeskommissionsbeschluss zur Personalverordnung
 short: StKB PeV
 language: de
-version: 2022-01-01
-valid_until: 2022-03-31
-version_adopted: 2021-12-21
+version: 2022-04-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-15
 adopted: 1999-04-13
 in_force: 1999-04-13
 url: "https://ai.clex.ch/app/de/texts_of_law/172.311"
-pdf: "https://ai.clex.ch/api/de/versions/1990/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2009/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1990/pdf_file"
 
 (StKB PeV)
 
-vom 13.04.1999 (Stand 01.01.2022)
+vom 13.04.1999 (Stand 01.04.2022)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -29,32 +29,33 @@ beschliesst:
 
 ## I. Anstellung und Auflösung des Arbeitsverhältnisses
 
-### I.A. Anstellungsbehörde
+### I.A. Allgemeines
 
 #### Art. 1
 
-**Grundsatz**
+**Grundzuständigkeit für Anstellungen**
 
-<sup>1</sup> Die Standeskommission ist als Anstellungsbehörde Vertragspartei bei Arbeitsverträgen, soweit die kantonale Gesetzgebung keine Ausnahmen vorsieht.
+<sup>1</sup> Soweit die kantonale Gesetzgebung keine andere Zuständigkeit vorsieht, gilt die Standeskommission als zuständiges Organ für die Anstellung.
+
+#### Art. 1a
+
+**Anstellungen durch Departementsvorsteher**
+
+<sup>1</sup> Die Departementsvorsteher stellen in ihrem Bereich Mitarbeitende bis zur Funktionsstufe 5 sowie Aushilfskräfte und Praktikanten an.
+
+<sup>2</sup> Der Landesfähnrich stellt die Kursleitenden von Integrationskursen an, der Vorsteher des Erziehungsdepartements die für das Departement tätigen pädagogischen oder therapeutischen Fachpersonen ohne festes Pensum.
+
+<sup>3</sup> Für die Festlegung der Löhne ist die Stellungnahme des Personalamts einzuholen. Bei Differenzen zwischen Departementsvorsteher und Personalamt entscheidet die Standeskommission.
+
+<sup>4</sup> Die Standeskommission ist über vorgenommene Anstellungen zu informieren.
 
 #### Art. 2
 
-**Kompetenzdelegation an Anstellungsorgan**
+**Vorbehalt andere Anstellungs- und Personalkompetenzen**
 
-<sup>1</sup> Ist gesetzlich ein anderes Organ als die Standeskommission für eine Anstellung zuständig, nimmt dieses unter Vorbehalt abweichender Regelungen in anderen Erlassen hinsichtlich der von ihm angestellten Mitarbeitenden anstelle der Standeskommission folgende Kompetenzen wahr:
+<sup>1</sup> …
 
-- a) Vornahme Ausschreibungen oder allfälliger Verzicht auf Ausschreibung;
-- b) Abschluss Arbeitsvertrag;
-- c) Genehmigung Lohn;
-- d) Abmachung Stundenlohn;
-- e) Gesundheitsprüfung;
-- f) Gewährung von bezahltem oder unbezahltem Urlaub;
-- g) Zuweisung anderer Arbeiten;
-- h) Verpflichtung zu oder Vereinbarung über Wohnsitznahme;
-- i) Bewilligung von Nebenbeschäftigungen;
-- j) Anordnungen bei Nebenbeschäftigung, öffentlichem Amt oder Amtszwang.
-
-<sup>2</sup> Für Gerichtsschreiber und Verwaltungspersonal der Gerichtskanzlei gehen die für sie geltenden gesetzlichen Abweichungen vor.
+<sup>2</sup> Für Gerichtsschreiber und Verwaltungspersonal der Gerichtskanzlei gehen die für sie geltenden gesetzlichen Regelungen über die Anstellung vor. Soweit Sonderregelungen für die Anstellung bestehen, gelten diese auch für die Auflösung von Arbeitsverhältnissen.
 
 <sup>3</sup> Soweit das Personalrecht des Staatspersonals für die Lehrpersonen des Gymnasiums zur Anwendung gelangt, nimmt die Landesschulkommission mit Ausnahme folgender Punkte die Personalkompetenzen der Standeskommission wahr:
 
@@ -65,15 +66,37 @@ beschliesst:
 - e) Abschluss von Vereinbarungen in Abweichung zum Personalrecht;
 - f) Delegation von Personalkompetenzen.
 
+#### Art. 2a
+
+**Ratskanzlei**
+
+<sup>1</sup> Unter Vorbehalt abweichender Regelungen in diesem Erlass nimmt der Ratschreiber für die Ratskanzlei die den Departementsvorstehern zugeschiedenen personalrechtlichen Pflichten und Rechte wahr.
+
+<sup>2</sup> Bei wichtigen Entscheiden nimmt der Ratschreiber Rücksprache mit dem regierenden Landammann. Dies gilt insbesondere für Anstellungen, die Auflösung von Anstellungen, Lohnerhöhungen und die Ausrichtung von Prämien.
+
+<sup>3</sup> Bei strittigen Mitarbeiterbeurteilungen kann ein Gespräch beim nächsthöheren Vorgesetzten und schliesslich beim regierenden Landammann verlangt werden. Der Entscheid des regierenden Landammanns ist endgültig.
+
 #### Art. 3
 
 **Stellenplan**
 
 <sup>1</sup> Die Standeskommission erlässt einen Stellenplan.
 
-<sup>2</sup> Ordentliche Anstellungen ausserhalb des Stellenplans sind nur ausnahmsweise zulässig.
+<sup>2</sup> …
 
 <sup>3</sup> Der Stellenplan wird jährlich überprüft und bei Bedarf angepasst.
+
+#### Art. 3a
+
+**Budgetstellenplan**
+
+<sup>1</sup> Für die Budgetierung wird ein Budgetstellenplan erstellt, der sich aus dem Stellenplan und den im Budgetjahr voraussichtlich benötigten Stellenanpassungen zusammensetzt.
+
+<sup>2</sup> Die Departemente melden dem Personalamt die voraussichtlichen Stellenanpassungen für das Folgejahr bis Ende Mai und begründen die Anträge kurz.
+
+<sup>3</sup> Stellenanpassungen dürfen erst nach der Überführung in den eigentlichen Stellenplan umgesetzt werden. Für die Überführung ist ein separater Entscheid der Standeskommission erforderlich.
+
+<sup>4</sup> Ausserhalb des Budgetstellenplans können bis zur nächsten Budgetierung keine Anpassungen des Stellenplans vorgenommen werden. Ausnahmen sind nur in ausgewiesenen Ausnahmefällen möglich.
 
 #### Art. 4
 
@@ -81,11 +104,11 @@ beschliesst:
 
 <sup>1</sup> Aushilfskräfte werden zur Überbrückung ausgewiesener Engpässe eingesetzt. Die Anstellung ist zu befristen, in der Regel höchstens für sechs Monate.
 
-<sup>2</sup> Die Aushilfskräfte werden unter vorgängiger Information der Standeskommission durch den Departementsvorsteher angestellt.
+<sup>2</sup> …
 
 <sup>3</sup> Im Falle von Personalausfällen kann der Departementsvorsteher unter vorgängiger Information der Standeskommission statt der Anstellung einer Aushilfe bestehende Pensen entsprechend erhöhen. Die Erhöhung fällt, gegebenenfalls unter Beachtung einer angemessenen Übergangsfrist, mit dem Wegfall des Personalausfalls dahin.
 
-<sup>4</sup> Für die Verpflichtung von Leihpersonal finden Abs. 1 und 2 sinngemäss Anwendung.
+<sup>4</sup> Für die Verpflichtung von Leihpersonal findet Abs. 1 sinngemäss Anwendung.
 
 #### Art. 4a
 
@@ -93,19 +116,15 @@ beschliesst:
 
 <sup>1</sup> Praktika dienen Ausbildungszwecken.
 
-<sup>2</sup> Praktikanten werden durch den Departementsvorsteher angestellt.
+<sup>2</sup> …
 
-<sup>3</sup> Die Anstellung ist zu befristen, in der Regel auf ein Semester.
+<sup>3</sup> Praktikumsanstellungen sind zu befristen, in der Regel auf ein Semester.
 
 <sup>4</sup> Für juristische Praktikanten mit einem Masterabschluss gelten bei Facheinsätzen auf dem Gericht, bei der Staatsanwaltschaft oder in der Verwaltung die Lohnbestimmungen für den Kanton St.Gallen. Der Anteil für das 13. Monatsgehalt ist in den festgelegten monatlichen Ansätzen enthalten.
 
 #### Art. 4b
 
-**Kursleitende Integration**
-
-<sup>1</sup> Für die Anstellung der Kursleitenden von Integrationskursen ist der Landesfähnrich zuständig.
-
-<sup>2</sup> Er informiert die Standeskommission vorgängig.
+**…**
 
 #### Art. 5
 
@@ -123,7 +142,7 @@ beschliesst:
 
 <sup>2</sup> Das Personalamt legt im Rahmen der Personalgesetzgebung Inhalt und Ablauf der Ausbildung fest.
 
-<sup>3</sup> Es ist für allfällige Auflösungen von Lehrverhältnissen zuständig.
+<sup>3</sup> …
 
 ### I.B. Stellenausschreibung
 
@@ -202,6 +221,14 @@ beschliesst:
 **Kündigungsschreiben**
 
 <sup>1</sup> Die Mitarbeitenden richten ihr Kündigungsschreiben an das Personalamt.
+
+#### Art. 14a
+
+**Auflösung von Arbeitsverhältnissen durch den Arbeitgeber**
+
+<sup>1</sup> Für die Auflösung von Arbeitsverhältnissen ist seitens des Kantons die Standeskommission zuständig, sofern nicht andere Zuständigkeiten festgelegt sind.
+
+<sup>2</sup> Für die Auflösung von Arbeitsverhältnissen befristeter Angestellter wie Aushilfen oder Praktikanten sind die Departementsvorstehenden zuständig, im Falle von Lehrverhältnissen das Personalamt.
 
 ### I.H. Annahme von Geld, geldwerten Leistungen und Geschenken
 
@@ -365,7 +392,7 @@ beschliesst:
 - a) Quervergleich mit ähnlichen Funktionen in der Verwaltung;
 - b) Stand in der Lohnentwicklung.
 
-<sup>4</sup> Keine individuelle Lohnerhöhung erhalten Mitarbeitende, deren Lohn über dem Lohnmaximum ihres Funktionsstufe liegt. Ausgenommen ist der Ratschreiber im Rahmen der zusätzlichen Bandbreite nach Art. 24 Abs. 3.
+<sup>4</sup> Keine individuelle Lohnerhöhung erhalten Mitarbeitende, deren Lohn über dem Lohnmaximum ihrer Funktionsstufe liegt. Ausgenommen ist der Ratschreiber im Rahmen der zusätzlichen Bandbreite nach Art. 24 Abs. 3.
 
 <sup>5</sup> Für die Vornahme der individuellen Lohnerhöhungen sind die Departementsvorsteher verantwortlich.
 
@@ -418,9 +445,11 @@ beschliesst:
 
 **Stundenlohn**
 
-<sup>1</sup> Bei unregelmässigen oder kurzen Arbeitseinsätzen kann Stundenlohn abgemacht werden.
+<sup>1</sup> Das für die Anstellung zuständige Organ kann bei unregelmässigen oder kurzen Arbeitseinsätzen einen Stundenlohn abmachen. Dieser richtet sich nach der Einstufung der Stelle.
 
 <sup>2</sup> Im Stundenlohn sind die Feiertagsentschädigungen, der 13. Monatslohn und die Ferien abgegolten, bei einem Ferienanspruch von fünf Wochen pro Jahr mit insgesamt 10.64%, bei einem solchen von sechs Wochen mit 13.04%.
+
+<sup>3</sup> Bei einem Wechsel zu einem höheren Ferienanspruch wird der Lohn auf den Beginn des Kalenderjahrs angepasst, in welchem der Anspruch auf mehr Ferien entsteht.
 
 ### IV.D. Lohnzuschläge und Rückzahlung
 
@@ -526,7 +555,7 @@ beschliesst:
 
 <sup>2</sup> Mit austretenden Mitarbeitenden ist ein separates Gespräch zu führen, in der Regel kurz vor dem Austritt.
 
-<sup>3</sup> Diese Gespräche brauchen nicht auf einem genehmigten Formular festgehalten zu werden.
+<sup>3</sup> Diese Gespräche sind auf dem genehmigten Formular festzuhalten.
 
 ## VI. Aus- und Weiterbildung
 
@@ -560,25 +589,27 @@ beschliesst:
 
 #### Art. 42
 
-**Beteiligung des Kantons**
+**Freiwillige Aus- und Weiterbildung**
 
-<sup>1</sup> Die Aus- oder Weiterbildung wird auf ihre Zweckmässigkeit sowohl für die berufliche Entwicklung der Mitarbeitenden als auch für den Kanton geprüft.
+<sup>1</sup> Der Kanton kann sich bei freiwilligen Aus- und Weiterbildungen an den Kurskosten, Prüfungsgebühren sowie zusätzlichen Spesen beteiligen oder diese übernehmen. Er kann zudem Arbeitszeit zur Verfügung stellen, welche über den Kursbesuch hinausgeht.
 
-<sup>2</sup> Der Kanton kann sich an den Kurskosten, Prüfungsgebühren sowie zusätzlichen Spesen beteiligen oder diese übernehmen. Er kann zudem Arbeitszeit zur Verfügung stellen, welche über den Kursbesuch hinausgeht.
+<sup>2</sup> Für die Ermittlung der Beiträge wird die Aus- oder Weiterbildung auf ihre Zweckmässigkeit sowohl für die berufliche Entwicklung der Mitarbeitenden als auch für den Kanton geprüft.
 
 <sup>3</sup> Beteiligt sich der Kanton unter Berücksichtigung der zur Verfügung gestellten Arbeitszeit mit mehr als Fr. 1‘500.-- an den Kosten, wird eine Vereinbarung abgeschlossen, worin die finanziellen und zeitlichen Eigenleistungen des Mitarbeitenden sowie eine allfällige Rückzahlungspflicht geregelt werden.
 
-<sup>4</sup> Der Departementsvorsteher kann die Rückzahlung teilweise oder ganz erlassen.
+<sup>4</sup>
 
 #### Art. 42a
 
 **Rückzahlungspflicht**
 
-<sup>1</sup> Bei selbst verschuldetem Nichtantritt, beim Abbruch der Aus- oder Weiterbildung sowie im Falle einer selbstverschuldeten Auflösung des Anstellungsverhältnisses während der Aus- oder Weiterbildung sind die vom Kanton erbrachten und effektiv bezahlten Leistungen zurückzuerstatten.
+<sup>1</sup> Bei selbstverschuldetem Nichtantritt oder Abbruch einer freiwilligen Aus- oder Weiterbildung sowie im Falle einer freiwilligen oder selbstverschuldeten Auflösung des Anstellungsverhältnisses sind die vom Kanton aufgewendeten Leistungen samt den Kosten für bezahlte Arbeitszeit zurückzuerstatten.
 
-<sup>2</sup> Bei freiwilligen Aus- oder Weiterbildungen entsteht bei einer freiwilligen oder selbstverschuldeten Beendigung des Anstellungsverhältnisses eine Rückzahlungspflicht, wenn die Beteiligung des Kantons unter Einschluss von gewährter bezahlter Arbeitszeit mehr als Fr. 3‘000.-- ausmacht.
+<sup>2</sup> Keine Rückzahlungspflicht gilt bei Leistungen und Kosten, die insgesamt weniger als Fr. 3‘000.-- ausmachen.
 
-<sup>3</sup> Die Rückzahlung umfasst im ersten Jahr die vollen Kosten, im zweiten Jahr zwei Drittel der Kosten und im dritten Jahr ein Drittel der Kosten. Ab dem vierten Jahr entfällt die Rückzahlungspflicht.
+<sup>3</sup> Die Rückzahlung umfasst bei einer Auflösung des Anstellungsverhältnisses während der Aus- oder Weiterbildung und im ersten Jahr danach die vollen Kosten, im zweiten Jahr zwei Drittel der Kosten und im dritten Jahr ein Drittel der Kosten. Ab dem vierten Jahr entfällt die Rückzahlungspflicht.
+
+<sup>4</sup> Der Departementsvorsteher kann die Rückzahlung teilweise oder ganz erlassen.
 
 #### Art. 43
 
@@ -612,9 +643,15 @@ beschliesst:
 
 **Bezug**
 
-<sup>1</sup> Die Ferien sind während dem laufenden Kalenderjahr zu beziehen.
+<sup>1</sup> Die Ferien sind im Kalenderjahr zu beziehen, in welchem sie anfallen.
 
 <sup>2</sup> …
+
+<sup>3</sup> Ist eine Mitarbeiterin oder ein Mitarbeiter in gekündigtem Arbeitsverhältnis, darf das Departement über den Bezug und den Zeitpunkt der Ferien allein entscheiden. Können die Ferien nicht mehr bezogen werden, dürfen sie ausbezahlt werden.
+
+<sup>4</sup> Zuviel bezogene Ferien werden beim Austritt mit dem Lohn verrechnet.
+
+<sup>5</sup> Bei Pensionierungen müssen sämtliche Ferienansprüche vor der Pensionierung bezogen werden. Sie werden nicht ausbezahlt.
 
 #### Art. 46a
 
@@ -626,17 +663,17 @@ beschliesst:
 
 <sup>3</sup> Die Standeskommission kann in Einzelfällen Ferienüberträge von mehr als 10 Tagen bewilligen.
 
-<sup>4</sup> Die Ferienstände per Ende Jahr sind dem Personalamt schriftlich zu melden.
+<sup>4</sup> Für Mitarbeitende, die keine elektronische Stundenerfassung vornehmen, sind dem Personalamt die Ferienstände per Ende Jahr schriftlich zu melden.
 
 #### Art. 47
 
-**Austritt/Pensionierung**
+**Wechsel zu erhöhtem Ferienanspruch**
 
-<sup>1</sup> Ist eine Mitarbeiterin oder ein Mitarbeiter in gekündigtem Arbeitsverhältnis, so darf das Departement über den Bezug und den Zeitpunkt der Ferien allein entscheiden. Können die Ferien nicht mehr bezogen werden, so dürfen diese ausbezahlt werden.
+<sup>1</sup> Bei einer altersbedingten Erhöhung des Ferienanspruchs gilt der neue Ferienanspruch ab dem Beginn des Kalenderjahres, in welchem das dafür vorausgesetzte Alter erreicht wird.
 
-<sup>2</sup> Zuviel bezogene Ferien werden beim Austritt mit dem Lohn verrechnet.
+<sup>2</sup> ...
 
-<sup>3</sup> Bei Pensionierung müssen sämtliche Ferienansprüche vor der Pensionierung bezogen werden, das heisst, sie werden nicht ausbezahlt.
+<sup>3</sup> ...
 
 #### Art. 48
 
@@ -648,9 +685,9 @@ beschliesst:
 
 **Ferienkontrolle**
 
-<sup>1</sup> Die Departementssekretäre melden die Ferienbezüge der Mitarbeitenden dem Personalamt.
+<sup>1</sup> Die Departemente führen die Ferienkontrolle in ihrem Bereich.
 
-<sup>2</sup> Das Personalamt führt die Ferienkontrolle für alle Departemente.
+<sup>2</sup> Für Mitarbeitende, die keine elektronische Stundenerfassung vornehmen, sorgen sie dafür, dass die Ferienbezüge quartalsweise dem Personalamt gemeldet werden.
 
 ### VII.B. Urlaub
 
@@ -684,21 +721,24 @@ beschliesst:
 
 **Öffentliches Amt oder Mithilfe an sozialen Veranstaltungen**
 
-<sup>1</sup> Zur unmittelbaren Ausübung eines öffentlichen Amtes im Kanton besteht Anspruch auf bezahlten Urlaub von bis zu fünf Tagen; kein Anspruch besteht für Tätigkeiten, die ausserhalb der Arbeitszeit erledigt werden können, insbesondere für Vor- und Nachbereitungen.
+<sup>1</sup> Zur unmittelbaren Ausübung eines öffentlichen Amts im Kanton besteht das Recht auf bezahlten Urlaub von bis zu fünf Tagen. Kein Anspruch besteht für Tätigkeiten, die ausserhalb der Arbeitszeit erledigt werden können, insbesondere für Vor- und Nachbereitungen.
 
-<sup>2</sup> Für Leiterinnen und Leiter sowie Hilfskräfte von Veranstaltungen mit sozialem Bezug kann die Standeskommission pro Kalenderjahr bis zu fünf Tagen bezahlten Urlaub gewähren; zudem gilt das Recht auf Bezug von unbezahltem Urlaub nach Art. 329e des Schweizerischen Obligationenrechts.
+<sup>2</sup> Zudem besteht das Recht auf Bezug von unbezahltem Urlaub für Jugendarbeit nach Art. 329e des Schweizerischen Obligationenrechts. Für die Absprache des Zeitpunkts und der Dauer ist der Vorgesetzte zuständig.
+
+<sup>3</sup> Der Departementsvorsteher kann Leiterinnen und Leitern sowie Hilfskräften von Veranstaltungen mit sozialem Bezug pro Kalenderjahr bis zu fünf Tage bezahlten Urlaub gewähren.
 
 #### Art. 51
 
 **Unbezahlter Urlaub**
 
-<sup>1</sup> Während eines unbezahlten Urlaubs besteht der Versicherungsschutz im Rahmen der gesetzlichen Vorschriften.
+<sup>1</sup> Der Departementsvorsteher kann unbezahlten Urlaub gewähren, wenn es die betrieblichen Verhältnisse erlauben.
 
-<sup>2</sup> Für die Zeit von unbezahltem Urlaub
+<sup>2</sup> Für die Zeit von unbezahltem Urlaub gilt:
 
-- a) werden die Ferien und das 13. Monatssalär anteilmässig gekürzt;
-- b) werden keine Pauschalentschädigungen ausgerichtet;
-- c) entfällt der Anspruch auf Kinderzulagen.
+- a) Der Versicherungsschutz besteht im Rahmen der gesetzlichen Vorschriften.
+- b) Der Anspruch auf Ferien und das 13. Monatssalär wird anteilmässig gekürzt.
+- c) Es werden keine Pauschalentschädigungen ausgerichtet.
+- d) Der Anspruch auf Kinderzulagen entfällt.
 
 <sup>3</sup> Für die Ermittlung der Dienstjahre wird die Dauer eines unbezahlten Urlaubs nicht mitgerechnet.
 
@@ -780,6 +820,12 @@ beschliesst:
 
 <sup>3</sup> Die tägliche Arbeitszeit darf 10.5 Stunden grundsätzlich nicht überschreiten. Der Vorgesetzte kann Ausnahmen in besonderen Situationen genehmigen.
 
+<sup>4</sup> Stillenden Müttern wird die für das Stillen oder für das Abpumpen von Milch erforderliche Zeit freigegeben. Davon wird im ersten Lebensjahr des Kinds als bezahlte Arbeitszeit angerechnet:
+
+- a) 30 Minuten bei einer täglichen Arbeitszeit von bis zu 4 Stunden;
+- b) 60 Minuten bei einer täglichen Arbeitszeit von mehr als 4 Stunden;
+- c) 90 Minuten bei einer täglichen Arbeitszeit von mehr als 7 Stunden.
+
 #### Art. 55b
 
 **Geschäftszeiten und Blockzeiten**
@@ -808,7 +854,7 @@ beschliesst:
 
 <sup>2</sup> Sie gelten für die Schalter folgender Amtsstellen: Verwaltungspolizei, Zivilstandsamt, Strassenverkehrsamt, Handelsregisteramt und Betreibungsamt.
 
-<sup>3</sup> Der Departementsvorsteher legt an mindestens einem Tag pro Woche abweichende Schalteröffnungszeiten fest, damit die Bevölkerung den Schalter ausserhalb der eigenen Arbeitszeiten benutzen kann. Die Schalteröffnungszeiten können vor 08.00 Uhr beginnen, über den Mittag dauern oder nach 17.00 Uhr enden.
+<sup>3</sup> …
 
 <sup>4</sup> Die Standeskommission kann in besonderen Fällen abweichende Regelungen festlegen. Für den Schalter der Kantonspolizei legt der Landesfähnrich die Öffnungszeiten fest.
 
@@ -831,6 +877,8 @@ beschliesst:
 <sup>1</sup> Die Mitarbeitenden müssen die Vorgesetzten so früh wie möglich über bevorstehende Abwesenheiten (z.B. Militärdienst, Spitalaufenthalte) orientieren. Bei kurzfristiger Verhinderung (z.B. Krankheit, Unfall) muss die Benachrichtigung unverzüglich erfolgen; dies gilt auch bei Krankheit oder Unfall während der Ferien.
 
 <sup>2</sup> Bei Arbeitsunfähigkeit wegen Krankheit oder Unfall kann die vorgesetzte Stelle in jedem Fall und jederzeit ein Arztzeugnis verlangen. Ohne anderweitige Anweisung ist bei einer Arbeitsunfähigkeit ab drei Tagen innert Wochenfrist ein Arztzeugnis einzureichen, bei Arbeitsunfähigkeit ab einem Monat ist monatlich ein neues Arztzeugnis beizubringen.
+
+<sup>2a</sup> Liegt der Arbeitsverhinderung die Betreuung eines kranken oder gesundheitlich beeinträchtigten Familienangehörigen zu Grunde, kann die vorgesetzte Stelle ein Arztzeugnis darüber verlangen, dass die Betreuung medizinisch angezeigt ist.
 
 <sup>3</sup> Arztzeugnisse sind schriftlich einzureichen. Der oder die Vorgesetzte kann eine beglaubigte Übersetzung in die deutsche Sprache verlangen.
 
@@ -952,7 +1000,7 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>3</sup> Für das Personal des Altersheims Torfnest kann das Gesundheits- und Sozialdepartement abweichende Bestimmungen zur Arbeitszeit erlassen.
+<sup>3</sup> …
 
 #### Art. 71
 
@@ -962,11 +1010,7 @@ beschliesst:
 
 #### Art. 73
 
-**Übergangsbestimmung**
-
-<sup>1</sup> Die Mitarbeitenden erhalten die Treueprämien noch bis Ende 2018 nach der bisherigen Regelung von Art. 33d Abs. 1.
-
-<sup>2</sup> Die Standeskommission kann für Mitarbeitende ausnahmsweise einen Plan zum Abbau von Überstunden und Zeitguthaben gemäss ausgewiesenem Saldo per Ende 2016 bewilligen. Der Plan darf jeweils höchstens den Zeitraum bis Ende 2019 umfassen.
+**…**
 
 #### Art. 73a
 
