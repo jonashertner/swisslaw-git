@@ -4,11 +4,11 @@ title: "Verordnung vom 29. April 2015 über die Bekämpfung übertragbarer Krank
 short: EpV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: de
-version: 2022-02-17
+version: 2022-04-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220217/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220217-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220217/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220217/de"
 
 (Epidemienverordnung, EpV)
 
-vom 29. April 2015 (Stand am 17. Februar 2022)
+vom 29. April 2015 (Stand am 1. April 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -1364,15 +1364,14 @@ Die Datenerfassung nach Absatz 1 erfolgt nur, wenn die folgenden Voraussetzungen
 Folgende Personen haben, soweit es zur Erfüllung ihrer Aufgaben nach dem EpG notwendig ist, Zugriff auf das System «Meldungen»:
 
 - a. die Mitarbeiterinnen und Mitarbeiter der Abteilung Übertragbare Krankheiten des BAG;
-- a<sup>bis</sup>.[^93-1] im Abrufverfahren, beschränkt auf Meldungen zum Coronavirus Sars- CoV-2 und nur zum Zweck der Generierung des Freischaltcodes: die Mitarbeiterinnen und Mitarbeiter der Infoline nach Artikel 7 Absatz 1 Buchstabe c der Verordnung vom 24. Juni 2020[^93-2] über das Proximity-Tracing-System für das Coronavirus Sars-CoV-2;
+- a<sup>bis</sup>.[^93-1] …
 - b. im Abrufverfahren: die Kantonsärztinnen und Kantonsärzte sowie die Mitarbeiterinnen und Mitarbeiter der kantonsärztlichen Dienste.
 
 <sup>2</sup> Die zugriffsberechtigten Personen können Daten im System «Meldungen» lesen, erfassen, mutieren und löschen.
 
 <sup>3</sup> Das BAG erteilt die individuellen Zugriffsrechte und regelt die entsprechende Authentifizierung.
 
-[^93-1]: Eingefügt durch Ziff. III der V vom 18. Nov. 2020, in Kraft vom 19. Nov. 2020 bis zum 30. Juni 2022 ([AS 2020 4733](https://fedlex.data.admin.ch/eli/oc/2020/852)).
-[^93-2]: [SR 818.101.25](https://fedlex.data.admin.ch/eli/cc/2022/207)
+[^93-1]: Eingefügt durch Ziff. III der V vom 18. Nov. 2020 ([AS 2020 4733](https://fedlex.data.admin.ch/eli/oc/2020/852)). Aufgehoben durch Art. 6 der V vom 30. März 2022 über die Einstellung des Proximity-Tracing-Systems für das Coronavirus Sars-CoV-2 und des Systems zur Benachrichtigung über eine mögliche Ansteckung mit dem Coronavirus Sars-CoV-2 an Veranstaltungen, mit Wirkung seit 1. April 2022 ([AS 2022 207](https://fedlex.data.admin.ch/eli/oc/2022/207)).
 
 #### Art. 94
 

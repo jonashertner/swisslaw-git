@@ -4,11 +4,11 @@ title: "Ordinanza del 29 aprile 2015 concernente la lotta contro le malattie tra
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: it
-version: 2022-02-17
+version: 2022-04-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220217/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220217-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220217/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220217/it"
 
 (Ordinanza sulle epidemie, OEp)
 
-del 29 aprile 2015 (Stato 17 febbraio 2022)
+del 29 aprile 2015 (Stato 1° aprile 2022)
 
 Il Consiglio federale svizzero,
 
@@ -1360,15 +1360,14 @@ La registrazione dei dati di cui al capoverso 1 si effettua solo se le seguenti 
 Se necessario all’adempimento dei loro compiti prescritti dalla LEp, le seguenti persone hanno accesso al sistema «dichiarazioni»:
 
 - a. i collaboratori della divisione Malattie trasmissibili dell’UFSP;
-- a<sup>bis</sup>.[^93-1] mediante procedura di richiamo, limitatamente alle dichiarazioni concernenti il coronavirus SARS-CoV-2 e al solo scopo di generare il codice di attivazione: i collaboratori della linea telefonica di cui all’articolo 7 capoverso 1 lettera c dell’ordinanza del 24 giugno 2020[^93-2] sul sistema di tracciamento della prossimità per il coronavirus SARS-CoV-2;
+- a<sup>bis</sup>.[^93-1] ...
 - b. mediante procedura di richiamo: i medici cantonali e i collaboratori dei servizi medici cantonali.
 
 <sup>2</sup> Le persone con diritto di accesso possono leggere, registrare, modificare e cancellare dati nel sistema «dichiarazioni».
 
 <sup>3</sup> L’UFSP rilascia i personali diritti di accesso e disciplina la relativa autenticazione.
 
-[^93-1]: Introdotta dal n. III dell’O del 18 nov. 2020, in vigore dal 19 nov. 2020 al 30 giu. 2022 ([RU 2020 4733](https://fedlex.data.admin.ch/eli/oc/2020/852)).
-[^93-2]: [RS 818.101.25](https://fedlex.data.admin.ch/eli/cc/2022/207)
+[^93-1]: Introdotta dal n. III dell’O del 18 nov. 2020 ([RU 2020 4733](https://fedlex.data.admin.ch/eli/oc/2020/852)). Abrogata dall’art. 6 dell’O del 30 mar. 2022 sulla sospensione del sistema di tracciamento della prossimità per il coronavirus SARS-CoV-2 e del sistema di segnalazione di un possibile contagio da coronavirus SARS CoV-2 durante una manifestazione, con effetto dal 1° apr. 2022 ([RU 2022 207](https://fedlex.data.admin.ch/eli/oc/2022/207)).
 
 #### Art. 94
 
