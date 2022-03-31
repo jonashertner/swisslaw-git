@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2022-02-01
+version: 2022-04-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220201/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20220201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20220201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20220401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,20 +17,21 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20220201/it"
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 1° febbraio 2022)
+del 18 maggio 2005 (Stato 1° aprile 2022)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 2 capoverso 4, 19, 22 capoverso 2, 24, 38, 39 capoverso 2, 44 capoverso 2, 45 capoversi 2 e 5 e 46 capoverso 1 della legge del 15 dicembre 2000[^ingress-1] sui prodotti chimici (LPChim); visti gli articoli 27 capoverso 2, 29, 30*a*, 30*b*, 30*c* capoverso 3, 30*d*, 32*a*<sup>bis</sup>, 38 capoverso 3, 39 capoversi 1 e 1<sup>bis</sup>, 41 capoverso 3, 44 capoversi 2 e 3, 46 capoversi 2 e 3, 48 capoverso 2 e 63 capoverso 2 della legge del 7 ottobre 1983[^ingress-2] sulla protezione dell’ambiente (LPAmb); visti gli articoli 9 capoverso 2 lettera c, 27 capoverso 2 e 48 capoverso 2 della legge federale del 24 gennaio 1991[^ingress-3] sulla protezione delle acque; visto l’articolo 15 capoversi 4 e 5 della legge del 20 giugno 2014[^ingress-4] sulle derrate alimentari; in esecuzione della legge federale del 6 ottobre 1995[^ingress-5] sugli ostacoli tecnici al commercio,[^ingress-6]
+visti gli articoli 2 capoverso 4, 19, 22 capoverso 2, 24, 38, 39 capoverso 2, 44 capoverso 2, 45 capoversi 2 e 5 nonché 46 capoverso 1 della legge del 15 dicembre 2000[^ingress-1] sui prodotti chimici (LPChim); visti gli articoli 27 capoverso 2, 29, 30*a*, 30*b*, 30*c* capoverso 3, 30*d*, 32*a*<sup>bis</sup>, 38 capoverso 3, 39 capoversi 1 e 1<sup>bis</sup>, 41 capoverso 3, 44 capoversi 2 e 3, 46 capoversi 2 e 3 nonché 48 capoverso 2 della legge del 7 ottobre 1983[^ingress-2] sulla protezione dell’ambiente (LPAmb); visti gli articoli 9 capoverso 2 lettera c, 27 capoverso 2 e 48 capoverso 2 della legge federale del 24 gennaio 1991[^ingress-3] sulla protezione delle acque; visti gli articoli 15 capoversi 4 e 5 della legge del 20 giugno 2014[^ingress-4] sulle derrate alimentari; visto l’articolo 56 capoverso 2 della legge federale del 30 settembre 2016[^ingress-5] sull’energia (LEne); in esecuzione della legge federale del 6 ottobre 1995[^ingress-6] sugli ostacoli tecnici al commercio,[^ingress-7]
 
 ordina:
 
-[^ingress-1]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-3]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^ingress-4]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-5]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^ingress-6]: Nuovo testo giusta il n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
+[^ingress-1]: [<sup>RS</sup> <sup>813.1</sup>](https://fedlex.data.admin.ch/eli/cc/2004/724)
+[^ingress-2]: [<sup>RS</sup> <sup>814.01</sup>](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-3]: [<sup>RS</sup> <sup>814.20</sup>](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^ingress-4]: [<sup>RS</sup> <sup>817.0</sup>](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^ingress-5]: [<sup>RS</sup> <sup>730.0</sup>](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^ingress-6]: [<sup>RS</sup> <sup>946.51</sup>](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-7]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -423,7 +424,7 @@ Allegato 1.1*[^t-2]*
 
 ## Inquinanti organici persistenti
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Aggiornato dai n. I delle O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dalla correzione del 23 giu. 2020 ([RU 2020 2547](https://fedlex.data.admin.ch/eli/oc/2020/466)).
+[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Aggiornato dai n. I delle O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dalla correzione del 23 giu. 2020 ([RU 2020 2547](https://fedlex.data.admin.ch/eli/oc/2020/466)) e dal n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Divieti
 
@@ -434,7 +435,7 @@ Allegato 1.1*[^t-2]*
 
 <sup>2</sup> Gli oggetti nuovi non possono essere immessi sul mercato se essi o i loro componenti contengono inquinanti organici persistenti di cui al numero 3 non solo come impurità inevitabile.
 
-<sup>3</sup> Per l’acido perfluorottano sulfonato e suoi derivati (PFOS) si applica l’allegato 1.16.
+<sup>3</sup> Per l’acido perfluorottano sulfonato e suoi derivati (PFOS) nonché per l’acido perfluoroottanoico (PFOA) e le sue sostanze correlate si applica l’allegato 1.16.
 
 <sup>4</sup> Per le apparecchiature elettriche ed elettroniche che contengono esabromobifenile o difenileteri bromati si applica l’allegato 2.18.
 
@@ -475,11 +476,13 @@ Allegato 1.1*[^t-2]*
   - – endrina (n. CAS 72-20-8);
   - – eptacloro (n. CAS 76-44-8) ed eptacloro epossido (n. CAS 1024-57-3);
   - – mirex (n. CAS 2385-85-5);
-  - – toxafene (n. CAS 8001-35-2).
+  - – toxafene (n. CAS 8001-35-2);
+  - – acido perfluorottanoico (PFOA) e le sue sostanze correlate.
 
-- b. *Benzeni alogenati*
+- b. *Monoaromatici alogenati*
   - – pentaclorobenzene (n. CAS 608-93-5);
-  - – esaclorobenzene (n. CAS 118-74-1).
+  - – esaclorobenzene (n. CAS 118-74-1);
+  - – pentaclorofenolo (PCP n. CAS 87-86-5), i suoi sali e i suoi esteri.
 
 - c. *Bifenili e naftaline alogenati*
   - – bifenili policlorurati (n. CAS 1336-36-3 e altri);
@@ -493,7 +496,9 @@ Allegato 1.1*[^t-2]*
   - – eptabromodifeniletere con formula C<sub>12</sub>H<sub>3</sub>Br<sub>7</sub>O;
   - – decabromodifeniletere con formula C<sub>12</sub>Br<sub>10</sub>O.
 
-- e. *Diclorodifeniltricloroetano (DDT).*
+- e. *DDT e* *composti simili al DDT*
+  - – diclorodifeniltricloroetano (DDT);
+  - – dicofol (n. CAS 115-32-2).
 
 ### 4 Disposizioni transitorie
 
@@ -513,7 +518,7 @@ Allegato 1.2*[^t-3]*
 
 ## Sostanze organiche alogenate
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 1 dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^t-3]: Nuovo testo giusta il n. II cpv. 1 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Aggiornato dal n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Divieti
 
@@ -563,12 +568,11 @@ Allegato 1.2*[^t-3]*
   - – diclorodifenildicloroetilene (DDE);
   - – diclorodifenildicloroetano (DDD);
   - – metossicloro (n. CAS 72-43-5);
-  - – pertano (n. CAS 72-56-0);
-  - – dicofol (n. CAS 115-32-2).
+  - – pertano (n. CAS 72-56-0).
 
 - c. *Quintozene* (n. CAS 82-68-8).
 - d. *Fenoli policlorurati e loro derivati*
-  - – pentaclorofenolo (PCP n. CAS 87-86-5), i suoi sali e i composti pentaclorofenossici;
+  - – composti pentaclorofenossici;
   - – tetraclorofenoli (TeCP), i loro sali e i composti tetraclorofenossici.
 
 - c. *Bifenili, terfenili e naftaline alogenati*
@@ -642,7 +646,7 @@ Allegato 1.4*[^t-5]*
 
 ## Sostanze che impoveriscono lo strato di ozono
 
-[^t-5]: Nuovo testo giusta il n. I dell’O del 17 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-5]: Nuovo testo giusta il n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Aggiornato dal n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Definizioni
 
@@ -712,7 +716,7 @@ In deroga al divieto di cui al numero 2.1 è autorizzata la fabbricazione di sos
 Il divieto di cui al numero 3.1 non si applica all’immissione sul mercato di:
 
 - a. preparati e oggetti per la cui fabbricazione o manutenzione possono essere impiegate sostanze che impoveriscono lo strato di ozono secondo il numero 6.2 o a seguito di un’autorizzazione eccezionale secondo il numero 6.3.1 capoverso 1;
-- b. preparati e oggetti che possono essere immessi sul mercato secondo le disposizioni degli allegati 2.10 e 2.11 e, se sono importati, la cui importazione avviene da Stati che si attengono alle disposizioni approvate dalla Svizzera del Protocollo di Montreal e delle sue modifiche del 29 giugno 1990[^annex14-lvlu1-lvl3-lvl32-1], 25 novembre 1992[^annex14-lvlu1-lvl3-lvl32-2], 17 settembre 1997[^annex14-lvlu1-lvl3-lvl32-3] e 3 dicembre 1999[^annex14-lvlu1-lvl3-lvl32-4];
+- b. preparati e oggetti che possono essere immessi sul mercato secondo le disposizioni degli allegati 2.9–2.11 e, se sono importati, la cui importazione avviene da Stati che si attengono alle disposizioni approvate dalla Svizzera del Protocollo di Montreal e delle sue modifiche del 29 giugno 1990[^annex14-lvlu1-lvl3-lvl32-1], 25 novembre 1992[^annex14-lvlu1-lvl3-lvl32-2], 17 settembre 1997[^annex14-lvlu1-lvl3-lvl32-3] e 3 dicembre 1999[^annex14-lvlu1-lvl3-lvl32-4];
 - c. preparati che secondo il numero 1 capoverso 2 sono equiparati alle sostanze che impoveriscono lo strato di ozono.
 
 [^annex14-lvlu1-lvl3-lvl32-1]: [RS 0.814.021.1](https://fedlex.data.admin.ch/eli/cc/1993/1078_1078_1078)
@@ -858,7 +862,7 @@ L’obbligo di notifica di cui al numero 5.1 capoverso 1 non si applica allo sto
 
 ### 6.2 Deroghe
 
-<sup>1</sup> Il divieto di cui al numero 6.1 non si applica all’impiego di sostanze che impoveriscono lo strato di ozono nella fabbricazione di preparati o oggetti che, secondo le disposizioni degli allegati 2.10 e 2.11, possono essere immessi sul mercato o importati per scopi privati.
+<sup>1</sup> Il divieto di cui al numero 6.1 non si applica all’impiego di sostanze che impoveriscono lo strato di ozono nella fabbricazione di preparati o oggetti che, secondo le disposizioni degli allegati 2.9–2.11, possono essere immessi sul mercato o importati per scopi privati.
 
 <sup>2</sup> Se, secondo lo stato della tecnica, non esistono sostanze alternative a quelle che impoveriscono lo strato di ozono o preparati e oggetti alternativi a quelli fabbricati con tali sostanze, il divieto di cui al numero 6.1 non si applica quando le sostanze che impoveriscono lo strato di ozono vengono impiegate:
 
@@ -913,7 +917,7 @@ Allegato 1.5*[^t-6]*
 
 ## Sostanze stabili nell’aria
 
-[^t-6]: Nuovo testo giusta il n. I dell’O del 17 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-6]: Nuovo testo giusta il n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Aggiornato dall’all. dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) e dal n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Definizioni
 
@@ -923,6 +927,15 @@ Allegato 1.5*[^t-6]*
 - b gli altri composti organici fluorurati[^annex15-lvlu1-lvl1-2] con una pressione di vapore di almeno 0,1 mbar a 20° C oppure con un punto di ebollizione di al massimo 240° C a 1013,25 mbar e il cui periodo di permanenza medio nell’atmosfera è di almeno 2 anni;
 - c. l’esafluoruro di zolfo (n. CAS 2551-62-4);
 - d. il trifluoruro di azoto (n. CAS 7783-54-2).
+
+<sup>1bis</sup> Per l’obbligo di cui al numero 9 capoverso 2, l’ossido di diazoto (n. CAS 10024-97-2) è inoltre considerato una sostanza stabile nell’aria qualora si formi come sottoprodotto durante la fabbricazione delle seguenti sostanze:
+
+- a. acido nitrico (n. CAS 7697-37-2);
+- b. caprolattame (n. CAS 105-60-2);
+- c. acido adipico (n. CAS 124-04-9);
+- d. gliossale (n. CAS 107-22-2) e acido gliossilico;
+- e. acido nicotinico (n. CAS 59-67-6);
+- f. sostanze diverse da quelle di cui alle lettere a-e ottenute dalla reazione con ossidi di azoto o acido nitrico, se viene generato ossido di diazoto in misura analoga a quella della fabbricazione delle sostanze di cui alle lettere a–e.
 
 <sup>2</sup> Sono equiparati a sostanze stabili nell’aria i preparati contenenti sostanze secondo il capoverso 1, sempre che si trovino in contenitori che servono esclusivamente al trasporto o allo stoccaggio di tali preparati.
 
@@ -949,11 +962,18 @@ Il divieto di cui al numero 3.1 non si applica alla fabbricazione di fluorocarbu
 
 ### 4.1 Divieto
 
-È vietata l’immissione sul mercato di preparati e oggetti che contengono sostanze stabili nell’aria.
+<sup>1</sup> È vietata l’immissione sul mercato di preparati e oggetti che contengono sostanze stabili nell’aria.
+
+<sup>2</sup> Le sostanze elencate nell’allegato I del regolamento (UE) n. 517/2014[^annex15-lvlu1-lvl4-lvl41-1] devono essere immesse sul mercato in contenitori riutilizzabili se sono destinate a essere utilizzate:
+
+- a. secondo il numero 6.2 capoverso 2 o l’allegato 2.3 numero 4.2; o
+- b. in impianti e apparecchi che, secondo l’allegato 2.10 numeri 2.1 e 2.2 nonché l’allegato 2.11 numeri 2.1 e 2.2, possono essere immessi sul mercato o importati per scopi privati.
+
+[^annex15-lvlu1-lvl4-lvl41-1]: Regolamento (UE) n. 517/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014, sui gas fluorurati a effetto serra e che abroga il regolamento (CE) n. 842/2006, versione secondo GU L 150 del 20.05.2014, pag. 195.
 
 ### 4.2 Deroghe
 
-Fatto salvo il numero 8 capoverso 1, il divieto di cui al numero 4.1 non si applica all’immissione sul mercato di:
+Fatto salvo il numero 8 capoverso 1, il divieto di cui al numero 4.1 capoverso 1 non si applica all’immissione sul mercato di:
 
 - a. preparati e oggetti per la fabbricazione o manutenzione dei quali l’impiego di sostanze stabili nell’aria è autorizzato in virtù del numero 6.2 o di un’autorizzazione eccezionale secondo il numero 6.3.1 capoverso 1;
 - b. preparati e oggetti che possono essere immessi sul mercato secondo le disposizioni degli allegati 2.3, 2.9, 2.10, 2.11 e 2.12; e
@@ -1074,7 +1094,7 @@ Nella domanda devono figurare:
 
 <sup>1</sup> Fatto salvo il capoverso 3, il divieto di cui al numero 6.1 non si applica all’impiego di sostanze stabili nell’aria:
 
-- a. per la fabbricazione di preparati e oggetti che possono essere immessi sul mercato o importati per scopi privati secondo le disposizioni degli allegati 2.3, 2.9, 2.10, 2.11 e 2.12;
+- a. per la fabbricazione o la manutenzione di preparati e oggetti che possono essere immessi sul mercato o importati per scopi privati secondo le disposizioni degli allegati 2.3 e 2.9-2.12;
 - b. per la fabbricazione di semiconduttori se le emissioni costituiscono al massimo il 5 per cento della quantità di sostanze impiegate;
 - c. quale prodotto intermedio in vista della trasformazione chimica completa se le emissioni costituiscono al massimo lo 0,5 per cento della quantità di sostanze impiegate;
 - d. come fluidi per il trasferimento di calore o isolanti per le macchine saldatrici e per i bagni di prova e di taratura;
@@ -1177,6 +1197,11 @@ L’UFAM è responsabile per la comunicazione dei dati secondo l’articolo 7 ca
 - b. le designazioni chimiche abbreviate delle sostanze stabili nell’aria che sono o saranno contenute nei contenitori o impianti, utilizzando la nomenclatura industriale riconosciuta per il campo di applicazione in questione;
 - c. le quantità di sostanze in kg e in tonnellate di CO<sub>2</sub> equivalenti nonché il potenziale di effetto serra delle sostanze.
 
+<sup>1bis</sup> Il fabbricante di contenitori che contengono o conterranno sostanze di cui al capoverso 1 in qualità riciclata o rigenerata ai sensi dell’articolo 2 paragrafi 15 e 16 del regolamento (UE) n. 517/2014 o in qualità rigenerata ai sensi del numero 1 capoverso 3 deve indicare sui contenitori:
+
+- a. la qualità delle sostanze;
+- b. il nome e l’indirizzo dell’impianto nel quale le sostanze sono state riciclate o rigenerate.
+
 <sup>2</sup> Il fabbricante di apparecchi o di impianti non menzionati nel capoverso 1, contenenti oltre 1 kg di esafluoruro di zolfo, deve segnalare sugli apparecchi o sugli impianti la presenza di questa sostanza e indicarne la quantità contenuta in detti apparecchi o
 
 impianti.
@@ -1185,16 +1210,28 @@ impianti.
 
 [^annex15-lvlu1-lvl8-1]: Regolamento (UE) n. 517/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014, sui gas fluorurati a effetto serra e che abroga il regolamento (CE) n. 842/2006, versione secondo GU L 150 del 20.5. 2014, pag. 195.
 
-### 9 Obbligo di diligenza per i processi di trasformazione chimica
+### 9 Obblighi in caso di processi di trasformazione chimica
 
-Chi dispone processi di trasformazione chimica che possono generare come sottoprodotto sostanze stabili nell’aria, può emettere al massimo lo 0,5 per cento di sostanze stabili nell’aria rispetto alla quantità di sostanza di partenza impiegata.
+<sup>1</sup> Chi dispone processi di trasformazione chimica che possono generare come sottoprodotto sostanze stabili nell’aria di cui al numero 1 capoverso 1 può emettere al massimo lo 0,5 per cento di sostanze stabili nell’aria rispetto alla quantità di sostanza di partenza impiegata.
+
+<sup>2</sup> Chi fabbrica sostanze di cui al numero 1 capoverso 1<sup>bis</sup> deve trasformare secondo lo stato della tecnica l’ossido di diazoto generato come sottoprodotto nella misura in cui ciò sia possibile dal punto di vista tecnico e operativo ed economicamente sostenibile.
+
+### 9<sup>bis</sup> Sorveglianza della trasformazione dell’ossido di diazoto generato dai processi di fabbricazione
+
+<sup>1</sup> L’UFAM sorveglia il rispetto dell’obbligo di cui al numero 9 capoverso 2.
+
+<sup>2</sup> Se constata violazioni di tale obbligo, ordina le misure del caso. Se necessario ordina la sospensione del relativo processo di fabbricazione.
 
 ### 10 Disposizione transitoria
 
-Per i contenitori con sostanze stabili nell’aria elencate nell’allegato A del Protocollo di Kyoto dell’11 dicembre 1997[^annex15-lvlu1-lvl9bis-1] della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici (Protocollo di Kyoto) e gli impianti di distribuzione contenenti esafluoruro di zolfo o preparati contenenti esafluoruro di zolfo, fino al 31 maggio 2020 è ammessa anche un’etichettatura secondo il numero 5 ORRPChim nella versione del 10 dicembre 2010[^annex15-lvlu1-lvl9bis-2].
+Per i contenitori con sostanze stabili nell’aria elencate nell’allegato A del Protocollo di Kyoto dell’11 dicembre 1997[^annex15-lvlu1-lvl10-1] della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici (Protocollo di Kyoto) e gli impianti di distribuzione contenenti esafluoruro di zolfo o preparati contenenti esafluoruro di zolfo, fino al 31 maggio 2020 è ammessa anche un’etichettatura secondo il numero 5 ORRPChim nella versione del 10 dicembre 2010[^annex15-lvlu1-lvl10-2].
 
-[^annex15-lvlu1-lvl9bis-1]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
-[^annex15-lvlu1-lvl9bis-2]: [RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
+[^annex15-lvlu1-lvl10-1]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^annex15-lvlu1-lvl10-2]: [RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
+
+### 11 Disposizioni transitorie concernenti la modifica del 24 novembre 2021.
+
+Le sostanze di cui al numero 1 capoverso 1<sup>bis</sup> lettera f possono essere fabbricate fino al 30 giugno 2023 senza trasformazione dell’ossido di diazoto risultante dalla fabbricazione.
 
 Allegato 1.6[^t-7]
 
@@ -1202,7 +1239,7 @@ Allegato 1.6[^t-7]
 
 ## Amianto
 
-[^t-7]: Aggiornato dal n. I dell’O del 17 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-7]: Aggiornato dal n. I delle O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Definizioni
 
@@ -1241,9 +1278,9 @@ Sono vietati:
 - a. erano in esercizio prima del 1° marzo 1990; e
 - b. contengono solo piccole quantità di amianto e soltanto in forma legata.
 
-<sup>3</sup> Su domanda motivata, l’UFAM può accordare, d’intesa con l’UFSP, una deroga al divieto di cui al numero 2 lettera c per apparecchi e impianti costruiti con componenti contenenti amianto se le quantità di amianto contenute sono minime e solo in forma legata.
+<sup>3</sup> ...
 
-<sup>4</sup> Il divieto di cui al numero 2 lettera d non si applica all’impiego di preparati e oggetti contenenti amianto per uno scopo per il quale è stata consentita l’immissione sul mercato secondo i capoversi 1 o 2 oppure l’esportazione secondo il capoverso 3.
+<sup>4</sup> Il divieto di cui al numero 2 lettera d non si applica all’impiego di preparati e oggetti contenenti amianto per uno scopo per il quale è stata consentita l’immissione sul mercato secondo i capoversi 1 o 2.
 
 ### 4 Etichettatura particolare
 
@@ -1253,7 +1290,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, redatta in almeno due lingue ufficiali e conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220201/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220401/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>
@@ -1781,7 +1818,7 @@ Allegato 1.10*[^t-11]*
 
 ## Sostanze cancerogene, mutagene o pericolose per la riproduzione
 
-[^t-11]: Nuovo testo giusta il n. II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. I dell’O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dall’all. n. 2 dell’O del 18 nov. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), dal n. I delle O dell’UFSP del 1° feb. 2021 ([RU 2021 70](https://fedlex.data.admin.ch/eli/oc/2021/70)) e del 23 dic. 2021, in vigore dal 1° feb. 2022 ([RU 2022 1](https://fedlex.data.admin.ch/eli/oc/2022/1)).
+[^t-11]: Nuovo testo giusta il n. II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. I dell’O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dall’all. n. 2 dell’O del 18 nov. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), dal n. I delle O dell’UFSP del 1° feb. 2021 ([RU 2021 70](https://fedlex.data.admin.ch/eli/oc/2021/70)), del 23 dic. 2021 ([RU 2022 1](https://fedlex.data.admin.ch/eli/oc/2022/1)) e dal n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Divieto
 
@@ -1798,7 +1835,7 @@ Allegato 1.10*[^t-11]*
 
 <sup>1</sup> Il divieto di cui al numero 1 capoverso 1 non si applica a:
 
-- a. farmaci;
+- a. farmaci e ai dispositivi medici;
 - b. colori per la pittura artistica, fatto salvo l’allegato 1.17;
 - c. carburanti per motori;
 - d. prodotti derivati da oli minerali utilizzati come combustibili in impianti di combustione mobili o fissi e come combustibili in sistemi chiusi;
@@ -3782,7 +3819,7 @@ Allegato 2.9*[^t-28]*
 
 ## Materie plastiche, loro monomeri e additivi
 
-[^t-28]: Aggiornato dal n. I 3 dell’O del 15 dic. 2006 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dall’all. n. 3 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)) e dal n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
+[^t-28]: Aggiornato dal n. I 3 dell’O del 15 dic. 2006 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dai n. I delle O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)) e del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Definizioni
 
@@ -3795,6 +3832,8 @@ Allegato 2.9*[^t-28]*
 - a. classe M, N o O secondo l’allegato II paragrafo A della direttiva 2007/46/CE[^annex29-lvlu1-lvl1-1];
 - b. classe T, R o S secondo l’allegato II capitolo A della direttiva 2003/37/CE[^annex29-lvlu1-lvl1-2];
 - c. classi L1e–L7e secondo l’articolo 1 paragrafi 2 e 3 della direttiva 2002/24/CE[^annex29-lvlu1-lvl1-3].
+
+<sup>4</sup> È considerata plastica oxo-degradabile una plastica contenente additivi che mediante ossidazione provocano una decomposizione della plastica in microparticelle o una degradazione chimica.
 
 [^annex29-lvlu1-lvl1-1]: Direttiva 2007/46/CE del Parlamento europeo e del Consiglio, del 5 settembre 2007, che istituisce un quadro per l’omologazione dei veicoli a motore e dei loro rimorchi, nonché dei sistemi, componenti ed entità tecniche destinati a tali veicoli («direttiva quadro»), GU L 263 del 9.10.2007, pag.1; modificata l’ultima volta dal regolamento (UE) n. 65/2012, GU L 28 del 31.1.2012, pag. 24. I testi degli atti giuridici dell’UE citati nel presente allegato possono essere consultati all’indirizzo http://eur-lex.europa.eu/
 [^annex29-lvlu1-lvl1-2]: Direttiva 2003/37/CE del Parlamento europeo e del Consiglio, del 26 maggio 2003, relativa all’omologazione dei trattori agricoli o forestali, dei loro rimorchi e delle loro macchine intercambiabili trainate, nonché dei sistemi, componenti ed entità tecniche di tali veicoli e abroga la direttiva 74/150/CEE, GU L 171 del 9.7.2003, pag. 1; modificata l’ultima volta dalla direttiva 2010/62/UE, GU L 238 del 9.9.2010, pag. 7.
@@ -3841,7 +3880,9 @@ Allegato 2.9*[^t-28]*
     - – abbigliamento, scarpe, guanti e abbigliamento sportivo, nonché
     - – orologi da polso, bracciali, maschere, fasce per la fronte;
 
-- f. l’immissione sul mercato e l’impiego di acrilammide (n. CAS 79-06-1) nonché di sostanze e preparati con un contenuto in massa di acrilammide pari o superiore allo 0,1 per cento per applicazioni di consolidamento del suolo quali ad esempio l’iniezione, l’iniezione in profondità, la ripassatura dei giunti o la sigillatura.
+- e<sup>ter</sup>. l’immissione sul mercato e l’impiego di granulati o polveri di plastica che contengono complessivamente più di 20 mg per chilogrammo di idrocarburi policiclici aromatici di cui al numero 2 lettera d e che sono destinati all’impiego come materiale di spargimento per campi in erba sintetica o come materiale sfuso per parchi giochi o campi sportivi;
+- f. l’immissione sul mercato e l’impiego di acrilammide (n. CAS 79-06-1) nonché di sostanze e preparati con un contenuto in massa di acrilammide pari o superiore allo 0,1 per cento per applicazioni di consolidamento del suolo quali ad esempio l’iniezione, l’iniezione in profondità, la ripassatura dei giunti o la sigillatura;
+- g. l’immissione sul mercato e l’impiego di plastiche oxo-degradabili.
 
 <sup>1bis</sup> I metodi di verifica e di analisi per la determinazione dei valori limite di cui al capoverso 1 lettere d ed e si fondano sull’allegato XVII voce 50 del regolamento (CE) n. 1907/2006[^annex29-lvlu1-lvl2-1].
 
@@ -3877,6 +3918,13 @@ Allegato 2.9*[^t-28]*
 
 <sup>3</sup> Dopo aver consultato le cerchie interessate e i Cantoni, l’UFAM emana, all’attenzione delle autorità esecutive, raccomandazioni sullo stato della tecnica e sullo smaltimento dei rifiuti di cui al capoverso 2.
 
+<sup>3</sup><sup>bis</sup> I divieti di cui al numero 2 capoverso 1 lettera b non si applicano se:
+
+- a. secondo lo stato della tecnica non esistono sostanze alternative a quelle che impoveriscono lo strato di ozono o preparati e oggetti alternativi a quelli fabbricati con tali sostanze;
+- b. le sostanze che impoveriscono lo strato di ozono impiegate presentano un potenziale di riduzione dell’ozono di al massimo 0,0005;
+- c. la quantità delle sostanze che impoveriscono lo strato di ozono impiegate non supera i livelli necessari, secondo lo stato della tecnica, per raggiungere lo scopo perseguito; e
+- d. le emissioni di sostanze che impoveriscono lo strato di ozono durante l’intero ciclo di vita dell’impiego previsto sono mantenute al livello più basso possibile, specialmente in occasione dello smaltimento dei rifiuti di materie plastiche espanse e di sostanze che impoveriscono lo strato di ozono in essi contenute.
+
 <sup>4</sup> Su domanda motivata, l’UFAM può concedere una deroga temporanea ai divieti di cui al numero 2 capoverso 1 lettera c se:
 
 - a. secondo lo stato della tecnica non esistono sostanze alternative a quelle stabili nell’aria o preparati e oggetti alternativi a quelli fabbricati con tali sostanze;
@@ -3891,11 +3939,13 @@ Allegato 2.9*[^t-28]*
 
 <sup>2</sup> Preparati e oggetti contenenti PVC riciclato devono essere muniti di un’etichetta con la dicitura «Contiene PVC riciclato» o del seguente pittogramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220201/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220401/it/xml/image/image2.png)
 
 <sup>3</sup> I preparati, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che sono destinati al grande pubblico, devono essere muniti di etichette con la seguente dicitura: «L’uso di questo prodotto può provocare reazioni allergiche nei soggetti già sensibilizzati ai diisocianati. – I soggetti affetti da asma, eczema o problemi della pelle dovrebbero evitare il contatto, incluso il contatto dermico, con questo prodotto. – Questo prodotto non dovrebbe essere utilizzato in condizioni di scarsa ventilazione, a meno che non venga utilizzata una maschera protettiva con un idoneo filtro antigas (di tipo A1 conforme alla norma EN 14387)».
 
 <sup>4</sup> Le informazioni di cui al capoverso 1 e le diciture di cui ai capoversi 2 e 3 devono essere scritte in almeno due lingue ufficiali, in modo visibile, leggibile e indelebile.
+
+<sup>5</sup> Per granulati o polveri di plastica immessi sul mercato per l’impiego come materiale di spargimento per campi in erba sintetica o in forma sfusa per parchi giochi o campi sportivi deve essere indicato un numero di lotto che consente di identificare il lotto in modo univoco. Il numero di lotto deve essere apposto sull’imbalaggio o comunicato in un’altra forma utile allo scopo.
 
 ### 4<sup>bis</sup> Imballaggio particolare
 
@@ -3909,6 +3959,10 @@ Su domanda, i fabbricanti di materie plastiche espanse per la cui fabbricazione 
 
 - a. il tipo e la quantità delle materie plastiche espanse fornite in Svizzera durante gli ultimi tre anni, suddivise per importazione e fabbricazione in Svizzera;
 - b. il tipo e la quantità di sostanze stabili nell’aria contenute nelle materie plastiche espanse fornite.
+
+### 5<sup>bis</sup> Raccomandazioni
+
+Dopo aver consultato i settori interessati, l’UFAM emana raccomandazioni sullo stato della tecnica secondo il numero 3 capoverso 3<sup>bis</sup>.
 
 ### 6 Disposizioni transitorie
 
@@ -3926,13 +3980,19 @@ Su domanda, i fabbricanti di materie plastiche espanse per la cui fabbricazione 
 
 <sup>5</sup> Il divieto di cui al numero 2 capoverso 1 lettera e<sup>bis</sup> non si applica agli oggetti immessi sul mercato per la prima volta prima del 1° settembre 2016.
 
+<sup>6</sup> I divieti di cui al numero 2 capoverso 1 lettera e<sup>ter</sup> non si applicano all’immissione sul mercato e all’impiego di granulati o polveri di plastica che fino al 1° aprile 2023 sono stati impiegati su campi in erba sintetica, parchi giochi e campi sportivi.
+
+<sup>7</sup> I divieti di cui al numero 2 capoverso 1 lettera g non si applicano all’immissione sul mercato e all’impiego di plastiche oxo-degradabili immesse sul mercato per la prima volta prima del 1° ottobre 2022.
+
+<sup>8</sup> Le materie plastiche espanse e gli oggetti con materie plastiche espanse cui non si applica il numero 3 capoverso 3<sup>bis</sup> poiché a seguito di un cambiamento dello stato della tecnica è disponibile un’alternativa, possono essere fabbricati e importati a scopi professionali o commerciali ancora per 6 mesi come pure essere ceduti a terzi per altri 6 mesi.
+
 Allegato 2.10*[^t-29]*
 
 (art. 3)
 
 ## Prodotti refrigeranti
 
-[^t-29]: Aggiornato dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dalla correzione del 18 set. 2018 ([RU 2018 3215](https://fedlex.data.admin.ch/eli/oc/2018/516)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dalla correzione del 3 dic. 2019 ([RU 2019 4087](https://fedlex.data.admin.ch/eli/oc/2019/712)), dall’all. n. 2 dell’O del 18 nov. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)) e dal n. I dell’O del UFAM del 9 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)).
+[^t-29]: Aggiornato dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dalla correzione del 18 set. 2018 ([RU 2018 3215](https://fedlex.data.admin.ch/eli/oc/2018/516)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dalla correzione del 3 dic. 2019 ([RU 2019 4087](https://fedlex.data.admin.ch/eli/oc/2019/712)), dall’all. n. 2 dell’O del 18 nov. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), dal n. I dell’O del UFAM del 9 set. 2021 ([RU 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)) e dal n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Definizioni
 
@@ -3948,18 +4008,13 @@ Allegato 2.10*[^t-29]*
 
 <sup>6</sup> Un apparecchio è un sistema di generazione di freddo dotato di una spina elettrica non collegato permanentemente a un condotto di distribuzione del freddo o del calore. Gli apparecchi fissi sono considerati apparecchi e non impianti.
 
-<sup>7</sup> Il freddo positivo è il raffreddamento di derrate alimentari o merci deperibili se la temperatura di utilizzo non è inferiore a 0 °C o se non si verifica alcun congelamento.[^annex210-lvlu1-lvl1-1]
+<sup>7</sup> Il freddo positivo è il raffreddamento di derrate alimentari o merci deperibili se la temperatura di utilizzo non è inferiore a 0 °C o se non si verifica alcun congelamento.
 
-<sup>8</sup> Il freddo negativo è il raffreddamento di derrate alimentari o merci deperibili con una temperatura utile non inferiore a –25 °C.[^annex210-lvlu1-lvl1-2]
+<sup>8</sup> Il freddo negativo è il raffreddamento di derrate alimentari o merci deperibili con una temperatura utile non inferiore a –25 °C.
 
-<sup>9</sup> La surgelazione è il raffreddamento di derrate alimentari o merci deperibili con una temperatura utile inferiore a –25 °C.[^annex210-lvlu1-lvl1-3]
+<sup>9</sup> La surgelazione è il raffreddamento di derrate alimentari o merci deperibili con una temperatura utile inferiore a –25 °C.
 
-<sup>10</sup> La capacità di raffreddamento di un impianto è la sua effettiva capacità di raffreddamento ai picchi di consumo e per un impianto progettato secondo lo stato della tecnica.[^annex210-lvlu1-lvl1-4]
-
-[^annex210-lvlu1-lvl1-1]: In vigore dal 1° gen. 2020 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
-[^annex210-lvlu1-lvl1-2]: In vigore dal 1° gen. 2020 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
-[^annex210-lvlu1-lvl1-3]: In vigore dal 1° gen. 2020 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
-[^annex210-lvlu1-lvl1-4]: In vigore dal 1° gen. 2020 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+<sup>10</sup> La capacità di raffreddamento di un impianto è la sua effettiva capacità di raffreddamento ai picchi di consumo e per un impianto progettato secondo lo stato della tecnica.
 
 ### 2 Fabbricazione, immissione sul mercato, importazione ed esportazione
 
@@ -4012,12 +4067,17 @@ Allegato 2.10*[^t-29]*
   - 1\. con una potenza di raffreddamento superiore a 600 kW, o
   - 2\. se il prodotto refrigerante stabile nell’aria utilizzato presenta un potenziale di effetto serra superiore a 2100;
 
-- e. piste di pattinaggio con ghiaccio artificiale, esclusi gli impianti in esercizio temporaneamente.[^annex210-lvlu1-lvl2-lvl21-1]
+- e.
+
+  piste di pattinaggio:
+
+  - 1\. piste di pattinaggio permanenti,
+  - 2\. impianti in esercizio temporaneamente, se il prodotto refrigerante stabile nell’aria utilizzato presenta un potenziale di effetto serra superiore a 4000.
 
 <sup>4</sup> È vietata l'immissione sul mercato di impianti per l’utilizzo di aria fredda che funzionano con refrigeranti stabili nell’aria e che non sono dotati di un circuito del vettore del freddo se:
 
 - a. utilizzano almeno tre unità di evaporazione e hanno una potenza di raffreddamento superiore a 80 kW; o
-- b.[^annex210-lvlu1-lvl2-lvl21-2] utilizzano più di 40 unità di evaporazione.
+- b. utilizzano più di 40 unità di evaporazione.
 
 <sup>5</sup> È vietata l'immissione sul mercato di impianti con condensatori raffreddati ad aria contenenti un refrigerante stabile nell’aria con un potenziale di effetto serra superiore a 4000, nei limiti del potenziale di effetto serra massimo consentito conformemente al numero 2.1 capoverso 3.
 
@@ -4041,9 +4101,6 @@ Allegato 2.10*[^t-29]*
 
 <sup>7</sup> È vietata l’immissione sul mercato di impianti di raffreddamento per il freddo positivo, il freddo negativo o combinabili freddo positivo-freddo negativo (combinazione a gas caldo) con una potenza di raffreddamento superiore a 10 kW se contengono più di 2 kg di un prodotto refrigerante stabile nell’aria per kW di potenza di raffreddamento e non sono dotati di una tecnologia per ridurre il contenuto di prodotto refrigerante di almeno il 15 per cento.
 
-[^annex210-lvlu1-lvl2-lvl21-1]: In vigore dal 1° gen. 2020 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
-[^annex210-lvlu1-lvl2-lvl21-2]: In vigore dal 1° gen. 2020 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
-
 ### 2.2 Deroghe
 
 <sup>1</sup> I divieti di cui al numero 2.1 capoversi 1 lettera b e 2 lettere a, c, d non si applicano agli apparecchi che appartengono a un’economia domestica privata, che vengono immessi sul mercato a scopo privato e che sono importati ed esportati a scopo privato.
@@ -4065,7 +4122,7 @@ Allegato 2.10*[^t-29]*
 - a. la surgelazione non può essere combinata con un freddo positivo;
 - b. secondo lo stato della tecnica non è disponibile un sostituto;
 - c. secondo lo stato della tecnica sono state selezionate le sostanze refrigeranti stabili nell’aria con il minor impatto sul clima; e
-- d. sono state adottate le misure disponibili secondo lo stato della tecnica per evitare le emissioni del prodotto refrigerante.[^annex210-lvlu1-lvl2-lvl22-1]
+- d. sono state adottate le misure disponibili secondo lo stato della tecnica per evitare le emissioni del prodotto refrigerante.
 
 <sup>5</sup> Gli impianti esistenti immessi legalmente sul mercato, la cui immissione sul mercato è soggetta ad autorizzazione, possono essere forniti a terzi per gli impieghi di cui al numero 2.1 capoverso 3 senza una nuova autorizzazione di immissione sul mercato se non vengono ristrutturati e non viene cambiata la loro ubicazione.
 
@@ -4075,7 +4132,7 @@ Allegato 2.10*[^t-29]*
 - b. il prodotto refrigerante presenta un potenziale di riduzione dell’ozono di al massimo 0,0005; e
 - c. sono state adottate le misure disponibili secondo lo stato della tecnica per evitare le emissioni del prodotto refrigerante.
 
-<sup>7</sup> Su domanda motivata, l’UFAM può concedere deroghe temporanee ai divieti di cui al numero 2.1 capoverso 2 lettere a e b se:
+<sup>7</sup> Su domanda motivata, l’UFAM può concedere deroghe temporanee ai divieti di cui al numero 2.1 capoverso 2 lettera a se:
 
 - a. secondo lo stato della tecnica non esiste un prodotto alternativo;
 - b. secondo lo stato della tecnica sono state selezionate le sostanze refrigeranti stabili nell’aria con il minor impatto sul clima; e
@@ -4083,14 +4140,13 @@ Allegato 2.10*[^t-29]*
 
 <sup>8</sup> Su domanda motivata, l’UFAM può concedere a un determinato impianto una deroga dal divieto di cui al numero 2.1 capoverso 3 se:
 
-- a. secondo lo stato della tecnica non è possibile rispettare le norme SN EN 378-1:2017+A1:2021, SN EN 378-2:2017 e SN EN 378-3:2017+A1:2021[^annex210-lvlu1-lvl2-lvl22-2] senza impiegare un prodotto refrigerante stabile nell’aria;
+- a. secondo lo stato della tecnica non è possibile rispettare le norme SN EN 378-1:2017+A1:2021, SN EN 378-2:2017 e SN EN 378-3:2017+A1:2021[^annex210-lvlu1-lvl2-lvl22-1] senza impiegare un prodotto refrigerante stabile nell’aria;
 - b. secondo lo stato della tecnica sono state selezionate le sostanze refrigeranti stabili nell’aria con il minor impatto sul clima; e
 - c. sono state adottate le misure disponibili secondo lo stato della tecnica per evitare le emissioni del prodotto refrigerante.
 
-<sup>9</sup> D’intesa con la SECO, l’UFAM può adeguare di conseguenza i capoversi 6 lettera a e 8 lettera b in caso di modifica delle norme ivi indicate.
+<sup>9</sup> D’intesa con la SECO, l’UFAM può adeguare di conseguenza il capoverso 8 lettera a in caso di modifica delle norme ivi indicate.
 
-[^annex210-lvlu1-lvl2-lvl22-1]: In vigore dal 1° gen. 2020 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
-[^annex210-lvlu1-lvl2-lvl22-2]: Queste norme possono essere consultate gratuitamente o ottenute a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex210-lvlu1-lvl2-lvl22-1]: Queste norme possono essere consultate gratuitamente o ottenute a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 ### 2.3 Obblighi del gestore e obblighi di informazione relativi alle deroghe
 
@@ -4122,9 +4178,7 @@ Allegato 2.10*[^t-29]*
 
 ### 2.5 Prescrizioni concernenti la fornitura di prodotti refrigeranti
 
-<sup>1</sup> I prodotti refrigeranti o gli impianti precaricati con prodotti refrigeranti la cui messa in esercizio richiede un intervento sul circuito di raffreddamento possono essere forniti soltanto a destinatari che soddisfano i requisiti di cui all’articolo 7 capoverso 1 lettera b concernenti l’utilizzazione dei prodotti refrigeranti.
-
-<sup>2</sup> Singole quantità superiori a 100 g di prodotti refrigeranti che impoveriscono lo strato di ozono o stabili nell’aria possono essere fornite soltanto in contenitori riutilizzabili.
+I prodotti refrigeranti e gli impianti che contengono già prodotti refrigeranti e la cui messa in esercizio richiede un intervento nel circuito del prodotto refrigerante possono esser consegnati solo a destinatari che adempiono i requisiti dell’articolo 7 capoverso 1 lettera b per l’utilizzazione di prodotti refrigeranti.
 
 ### 3 Impiego
 
@@ -4203,21 +4257,28 @@ Chi prende in consegna, per smaltirli, apparecchi o impianti contenenti prodotti
 
 ### 5.1 Principio
 
-<sup>1</sup> Chi mette in esercizio o fuori esercizio un impianto stazionario contenente più di 3 kg di prodotti refrigeranti deve notificarlo all’UFAM.
+<sup>1</sup> Chi ha messo in esercizio, mette in esercizio o mette fuori esercizio un impianto stazionario contenente più di 3 kg di prodotti refrigeranti deve notificarlo all’UFAM entro tre mesi dalla messa in esercizio o fuori esercizio.
 
-<sup>2</sup> Nella notifica devono figurare le seguenti indicazioni:
+<sup>2</sup> La notifica deve contenere le seguenti indicazioni:
 
 - a. la data della messa in esercizio o fuori esercizio;
-- b. il nome del detentore dell’impianto nonché il nome e la ditta dello specialista incaricato della messa in esercizio;
+- b. i nomi del detentore dell’impianto, dell’impresa specializzata incaricata di mettere in esercizio o fuori esercizio l’impianto, nonché dello specialista che ha eseguito l’operazione;
 - c. il tipo, l’ubicazione e la potenza di raffreddamento dell’impianto;
 - d. il tipo e la quantità del prodotto refrigerante contenuto;
-- e. in caso di messa fuori esercizio: il destinatario del prodotto refrigerante.
+- e. in caso di messa fuori esercizio: il destinatario del prodotto refrigerante;
+- f. per gli impianti utilizzati per riscaldare o per riscaldare e raffreddare, in aggiunta: la fonte di energia utilizzata e la potenza termica dell’impianto, se l’impianto è stato messo in esercizio dopo il 30 settembre 2022.
 
-<sup>3</sup> Le ditte specializzate comunicano l’obbligo di notifica ai loro clienti in maniera adeguata.
+3 Il detentore deve notificare immediatamente all’UFAM eventuali modifiche dell’ubicazione o della potenza di raffreddamento dell’impianto nonché del tipo e della quantità di prodotto refrigerante.
 
-<sup>4</sup> L’UFAM fissa un numero per ciascun impianto e lo comunica alla persona soggetta all’obbligo di notifica che ha messo o mette in esercizio un impianto stazionario contenente più di 3 kg di prodotti refrigeranti.
+<sup>4</sup> In caso di cambiamento del detentore, il nuovo detentore deve notificare immediatamente all’UFAM il proprio nome.
 
-<sup>5</sup> La persona soggetta all’obbligo di notifica deve apporre sull’impianto, in modo immediatamente visibile, ben leggibile e permanente, il numero comunicato dall’UFAM.
+<sup>5</sup> L’impresa specializzata informa il detentore in modo adeguato sugli obblighi di notifica.
+
+<sup>6</sup> L’UFAM mette a disposizione numeri per l’identificazione degli impianti e li comunica alle persone soggette all’obbligo di notifica.
+
+<sup>7</sup> La persona soggetta all’obbligo di notifica deve esporre sull’impianto il numero di cui al capoverso 6 in modo immediatamente visibile, facilmente leggibile e permanente.
+
+<sup>8</sup> Su richiesta, l’UFAM fornisce all’Ufficio federale dell’energia (UFE) le indicazioni di cui al capoverso 2 lettere a, c, d, ed f.
 
 ### 5.2 Deroghe
 
@@ -4251,7 +4312,7 @@ Allegato 2.11*[^t-30]*
 
 ## Prodotti estinguenti
 
-[^t-30]: Aggiornato dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) e dal n. I dell’O del 17 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-30]: Aggiornato dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dai n. I delle O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Definizioni
 
@@ -4265,9 +4326,9 @@ Allegato 2.11*[^t-30]*
 
 <sup>5</sup> Un apparecchio è uno strumento ausiliario trasportabile per lo spegnimento di incendi che non dispone di un sistema di tubazioni installato in modo fisso.
 
-### 1<sup>bis</sup> Prodotti estinguenti che contengono PFOS, PFOA e composti precursori di PFOA
+### 1<sup>bis</sup> Prodotti estinguenti contenenti sostanze per- e polifluoroalchiliche
 
-Per i prodotti estinguenti che contengono PFOS, PFOA e composti precursori di PFOA si applica l’allegato 1.16.
+Per i prodotti estinguenti contenenti PFOS o PFOA, PFCA C<sub>9</sub>–C<sub>14</sub>, PFHxS e loro sostanze correlate si applica l’allegato 1.16.
 
 ### 2 Immissione sul mercato e importazione a scopi privati
 

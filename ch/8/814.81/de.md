@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit be
 short: ChemRRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: de
-version: 2022-02-01
+version: 2022-04-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220201/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20220201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20220201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20220401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20220201/de"
 
 (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)
 
-vom 18. Mai 2005 (Stand am 1. Februar 2022)
+vom 18. Mai 2005 (Stand am 1. April 2022)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 2 Absatz 4, 19, 22 Absatz 2, 24, 38, 39 Absatz 2, 44 Absatz 2, 45 Absätze 2 und 5 sowie 46 Absatz 1 des Chemikaliengesetzes vom 15. Dezember 2000[^ingress-1] (ChemG), auf die Artikel 27 Absatz 2, 29, 30*a*, 30*b*, 30*c* Absatz 3, 30*d*, 32*a*<sup>bis</sup>, 38 Absatz 3, 39 Absätze 1 und 1<sup>bis</sup>, 41 Absatz 3, 44 Absätze 2 und 3, 46 Absätze 2 und 3, 48 Absatz 2 und 63 Absatz 2 des Umweltschutzgesetzes vom 7. Oktober 1983[^ingress-2] (USG), auf die Artikel 9 Absatz 2 Buchstabe c, 27 Absatz 2 und 48 Absatz 2 des Gewässerschutzgesetzes vom 24. Januar 1991[^ingress-3] und auf Artikel 15 Absätze 4 und 5 des Lebensmittelgesetzes vom 20. Juni 2014[^ingress-4], in Ausführung des Bundesgesetzes vom 6. Oktober 1995[^ingress-5] über die technischen Handelshemmnisse,[^ingress-6]
+gestützt auf die Artikel 2 Absatz 4, 19, 22 Absatz 2, 24, 38, 39 Absatz 2, 44 Absatz 2, 45 Absätze 2 und 5 sowie 46 Absatz 1 des Chemikaliengesetzes vom 15. Dezember 2000[^ingress-1] (ChemG), auf die Artikel 27 Absatz 2, 29, 30*a*, 30*b*, 30*c* Absatz 3, 30*d*, 32*a*<sup>bis</sup>, 38 Absatz 3, 39 Absätze 1 und 1<sup>bis</sup>, 41 Absatz 3, 44 Absätze 2 und 3, 46 Absätze 2 und 3 sowie 48 Absatz 2 des Umweltschutzgesetzes vom 7. Oktober 1983[^ingress-2] (USG), auf die Artikel 9 Absatz 2 Buchstabe c, 27 Absatz 2 und 48 Absatz 2 des Gewässerschutzgesetzes vom 24. Januar 1991[^ingress-3], auf Artikel 15 Absätze 4 und 5 des Lebensmittelgesetzes vom 20. Juni 2014[^ingress-4] und auf Artikel 56 Absatz 2 des Energiegesetzes vom 30. September 2016[^ingress-5] (EnG), in Ausführung des Bundesgesetzes vom 6. Oktober 1995[^ingress-6] über die technischen Handelshemmnisse,[^ingress-7]
 
 verordnet:
 
@@ -29,8 +29,9 @@ verordnet:
 [^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 [^ingress-3]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 [^ingress-4]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-5]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^ingress-6]: Fassung gemäss Ziff. I der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
+[^ingress-5]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^ingress-6]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-7]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -426,7 +427,7 @@ Anhang 1.1*[^t-2]*
 
 ## Persistente organische Schadstoffe
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Bereinigt gemäss Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)) und vom 17. April 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Bereinigt gemäss Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Verbote
 
@@ -437,7 +438,7 @@ Anhang 1.1*[^t-2]*
 
 <sup>2</sup> Neue Gegenstände dürfen nicht in Verkehr gebracht werden, wenn sie oder ihre Bestandteile persistente organische Schadstoffe nach Ziffer 3 nicht nur als unvermeidliche Verunreinigung enthalten.
 
-<sup>3</sup> Für Perfluoroctansulfonsäure und ihre Derivate (PFOS) gilt Anhang 1.16.
+<sup>3</sup> Für Perfluoroctansulfonsäure und ihre Derivate (PFOS) sowie Perfluoroctansäure (PFOA) und ihre Vorläuferverbindungen gilt Anhang 1.16.
 
 <sup>4</sup> Für Elektro- und Elektronikgeräte, die Hexabrombiphenyl oder bromierte Diphenylether enthalten, gilt Anhang 2.18.
 
@@ -478,11 +479,13 @@ Anhang 1.1*[^t-2]*
   - – Endrin (CAS-Nr. 72-20-8);
   - – Heptachlor (CAS-Nr. 76-44-8) und Heptachlorepoxid (CAS-Nr. 1024-57-3);
   - – Mirex (CAS-Nr. 2385-85-5);
-  - – Toxaphen (CAS-Nr. 8001-35-2).
+  - – Toxaphen (CAS-Nr. 8001-35-2);
+  - – Perfluoroctansäure (PFOA) und ihre Vorläuferverbindungen.
 
-- b. *Halogenierte Benzole*
+- b. *Halogenierte Monoaromaten*
   - – Pentachlorbenzol (CAS-Nr. 608-93-5);
-  - – Hexachlorbenzol (CAS-Nr. 118-74-1).
+  - – Hexachlorbenzol (CAS-Nr. 118-74-1);
+  - – Pentachlorphenol (PCP, CAS-Nr. 87-86-5), seine Salze und Ester.
 
 - c. *Halogenierte Biphenyle und Naphthaline*
   - – Polychlorierte Biphenyle (CAS-Nr. 1336-36-3 und andere);
@@ -496,7 +499,9 @@ Anhang 1.1*[^t-2]*
   - – Heptabromdiphenylether der Formel C<sub>12</sub>H<sub>3</sub>Br<sub>7</sub>O;
   - – Decabromdiphenylether der Formel C<sub>12</sub>Br<sub>10</sub>O.
 
-- e. *Dichlordiphenyltrichlorethan (DDT).*
+- e. *DDT und DDT-ähnliche Verbindungen*
+  - – Dichlordiphenyltrichlorethan (DDT);
+  - – Dicofol (CAS-Nr. 115-32-2).
 
 ### 4 Übergangsbestimmungen
 
@@ -516,7 +521,7 @@ Anhang 1.2*[^t-3]*
 
 ## Halogenierte organische Stoffe
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 1 der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^t-3]: Fassung gemäss Ziff. II Abs. 1 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Bereinigt gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Verbote
 
@@ -566,12 +571,11 @@ Anhang 1.2*[^t-3]*
   - – Dichlordiphenyldichlorethylen (DDE),
   - – Dichlordiphenyldichlorethan (DDD),
   - – Methoxychlor (CAS-Nr. 72-43-5),
-  - – Perthane (CAS-Nr. 72-56-0),
-  - – Dicofol (CAS-Nr. 115-32-2);
+  - – Perthane (CAS-Nr. 72-56-0);
 
 - c. *Quintozen* (CAS-Nr. 82-68-8).
 - d. *Polychlorierte Phenole und Derivate*
-  - – Pentachlorphenol (PCP, CAS-Nr. 87-86-5) und seine Salze sowie Pentachlorphenoxyverbindungen,
+  - – Pentachlorphenoxyverbindungen,
   - – Tetrachlorphenole (TeCP) und ihre Salze sowie Tetrachlorphenoxyverbindungen;
 
 - e. *Halogenierte Biphenyle, Terphenyle und Naphthaline*
@@ -645,7 +649,7 @@ Anhang 1.4*[^t-5]*
 
 ## Ozonschichtabbauende Stoffe
 
-[^t-5]: Fassung gemäss Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-5]: Fassung gemäss Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Bereinigt gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Begriffe
 
@@ -715,7 +719,7 @@ Verboten ist das Inverkehrbringen von Zubereitungen und Gegenständen, die:
 Das Verbot nach Ziffer 3.1 gilt nicht für das Inverkehrbringen von:
 
 - a. Zubereitungen und Gegenständen, für deren Herstellung oder Unterhalt ozonschichtabbauende Stoffe nach Ziffer 6.2 oder aufgrund einer Ausnahmebewilligung gemäss Ziffer 6.3.1 Absatz 1 verwendet werden dürfen;
-- b. Zubereitungen und Gegenständen, die nach den Bestimmungen der Anhänge 2.10 und 2.11 in Verkehr gebracht werden dürfen und, falls sie eingeführt werden, deren Einfuhr aus Staaten erfolgt, die sich an die von der Schweiz genehmigten Bestimmungen des Montrealer Protokolls und seiner Änderungen vom 29. Juni 1990[^annex14-lvlu1-lvl3-lvl32-1], 25. November 1992[^annex14-lvlu1-lvl3-lvl32-2], 17. September 1997[^annex14-lvlu1-lvl3-lvl32-3] und 3. Dezember 1999[^annex14-lvlu1-lvl3-lvl32-4] halten;
+- b. Zubereitungen und Gegenständen, die nach den Bestimmungen der Anhänge 2.9–2.11 in Verkehr gebracht werden dürfen und, falls sie eingeführt werden, deren Einfuhr aus Staaten erfolgt, die sich an die von der Schweiz genehmigten Bestimmungen des Montrealer Protokolls und seiner Änderungen vom 29. Juni 1990[^annex14-lvlu1-lvl3-lvl32-1], 25. November 1992[^annex14-lvlu1-lvl3-lvl32-2], 17. September 1997[^annex14-lvlu1-lvl3-lvl32-3] und 3. Dezember 1999[^annex14-lvlu1-lvl3-lvl32-4] halten;
 - c. Zubereitungen, die gemäss Ziffer 1 Absatz 2 den ozonschichtabbauenden Stoffen gleichgestellt sind.
 
 [^annex14-lvlu1-lvl3-lvl32-1]: [SR 0.814.021.1](https://fedlex.data.admin.ch/eli/cc/1993/1078_1078_1078)
@@ -837,7 +841,8 @@ Eine Ausfuhrbewilligung wird auf Gesuch erteilt, wenn die Ausfuhr in Staaten erf
 
 <sup>1</sup> Die nach Artikel 26 ZG anmeldepflichtige Person muss in der Zollanmeldung die Nummer der Ausfuhrbewilligung angeben.
 
-- [tab] <sup>2</sup> Bei der Zolldeklaration muss die anmeldepflichtige Person eine Kopie der Ausfuhrbewilligung vorlegen.
+<sup>2</sup> Bei der Zollanmeldung muss die anmeldepflichtige Person eine Kopie der Ausfuhrbewilligung vorlegen.
+
 - [tab] <sup>3</sup> Bei der Auslagerung aus einem offenen Zolllager, einem Lager für Massengüter oder einem Zollfreilager muss die Lagerhalterin oder die Einlagererin die Nummer der Ausfuhrbewilligung in einer Bestandesaufzeichnung vermerken.
 
 ### 5 Meldepflicht über die Ein- und Ausfuhr
@@ -860,7 +865,7 @@ Ozonschichtabbauende Stoffe dürfen nicht verwendet werden.
 
 ### 6.2 Ausnahmen
 
-<sup>1</sup> Das Verbot nach Ziffer 6.1 gilt nicht für die Verwendung ozonschichtabbauender Stoffe zur Herstellung von Zubereitungen oder Gegenständen, die nach den Bestimmungen der Anhänge 2.10 und 2.11 in Verkehr gebracht oder zu privaten Zwecken eingeführt werden dürfen.
+<sup>1</sup> Das Verbot nach Ziffer 6.1 gilt nicht für die Verwendung ozonschichtabbauender Stoffe zur Herstellung von Zubereitungen oder Gegenständen, die nach den Bestimmungen der Anhänge 2.9–2.11 in Verkehr gebracht oder zu privaten Zwecken eingeführt werden dürfen.
 
 <sup>2</sup> Fehlt nach dem Stand der Technik ein Ersatz für die ozonschichtabbauenden Stoffe oder für die mit ozonschichtabbauenden Stoffen hergestellten Zubereitungen und Gegenstände, so gilt das Verbot nach Ziffer 6.1 nicht für die Verwendung ozonschichtabbauender Stoffe:
 
@@ -915,7 +920,7 @@ Anhang 1.5*[^t-6]*
 
 ## In der Luft stabile Stoffe
 
-[^t-6]: Fassung gemäss Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Bereinigt gemäss Anhang der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-6]: Fassung gemäss Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Bereinigt gemäss Anhang der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Begriffe
 
@@ -960,11 +965,18 @@ Vom Verbot nach Ziffer 3.1 ausgenommen ist die Herstellung von regenerierten tei
 
 ### 4.1 Verbot
 
-Das Inverkehrbringen von Zubereitungen und Gegenständen, die in der Luft stabile Stoffe enthalten, ist verboten.
+<sup>1</sup> Das Inverkehrbringen von Zubereitungen und Gegenständen, die in der Luft stabile Stoffe enthalten, ist verboten.
+
+<sup>2</sup> Stoffe, die in Anhang I der Verordnung (EU) Nr. 517/2014[^annex15-lvlu1-lvl4-lvl41-1] aufgeführt sind, müssen in Mehrwegbehältern in Verkehr gebracht werden, wenn sie bestimmt sind für eine Verwendung:
+
+- a. gemäss Ziffer 6.2 Absatz 2 oder Anhang 2.3 Ziffer 4.2; oder
+- b. in Anlagen und Geräten, welche gemäss Anhang 2.10 Ziffern 2.1 und 2.2 sowie Anhang 2.11 Ziffern 2.1 und 2.2 in Verkehr gebracht oder zu privaten Zwecken eingeführt werden dürfen.
+
+[^annex15-lvlu1-lvl4-lvl41-1]: Verordnung (EU) Nr. 517/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über fluorierte Treibhausgase und zur Aufhebung der Verordnung (EG) Nr. 842/2006, Fassung gemäss ABl. L 150 vom 20.5.2014, S. 195.
 
 ### 4.2 Ausnahmen
 
-Das Verbot nach Ziffer 4.1 gilt vorbehältlich Ziffer 8 Absatz 1 nicht für das Inverkehrbringen von:
+Das Verbot nach Ziffer 4.1 Absatz 1 gilt vorbehältlich Ziffer 8 Absatz 1 nicht für das Inverkehrbringen von:
 
 - a. Zubereitungen und Gegenständen, für deren Herstellung oder Unterhalt in der Luft stabile Stoffe nach Ziffer 6.2 oder aufgrund einer Ausnahmebewilligung gemäss Ziffer 6.3.1 Absatz 1 verwendet werden dürfen;
 - b. Zubereitungen und Gegenständen, die nach den Bestimmungen der Anhänge 2.3, 2.9, 2.10, 2.11 und 2.12 in Verkehr gebracht werden dürfen; und
@@ -1071,7 +1083,8 @@ Ein Gesuch muss enthalten:
 
 <sup>1</sup> Die nach Artikel 26 des ZG anmeldepflichtige Person muss in der Zollanmeldung die Nummer der Ausfuhrbewilligung angeben.
 
-- [tab] <sup>2</sup> Bei der Zolldeklaration muss die anmeldepflichtige Person eine Kopie der Ausfuhrbewilligung vorlegen.
+<sup>2</sup> Bei der Zollanmeldung muss die anmeldepflichtige Person eine Kopie der Ausfuhrbewilligung vorlegen.
+
 - [tab] <sup>3</sup> Bei der Auslagerung aus einem offenen Zolllager, einem Lager für Massengüter oder einem Zollfreilager muss die Lagerhalterin oder die Einlagerin die Nummer der Ausfuhrbewilligung in einer Bestandesaufzeichnung vermerken.
 
 ### 6 Verwendung
@@ -1084,7 +1097,7 @@ In der Luft stabile Stoffe dürfen nicht verwendet werden.
 
 <sup>1</sup> Unter Vorbehalt von Absatz 3 gilt das Verbot nach Ziffer 6.1 nicht für die Verwendung von in der Luft stabilen Stoffen:
 
-- a. zur Herstellung von Zubereitungen oder Gegenständen, die nach den Bestimmungen der Anhänge 2.3, 2.9, 2.10, 2.11 und 2.12 in Verkehr gebracht oder zu privaten Zwecken eingeführt werden dürfen;
+- a. zur Herstellung oder zum Unterhalt von Zubereitungen oder Gegenständen, die nach den Bestimmungen der Anhänge 2.3 und 2.9–2.12 in Verkehr gebracht oder zu privaten Zwecken eingeführt werden dürfen;
 - b. zur Herstellung von Halbleitern, wenn die Emissionen höchstens 5 % der eingesetzten Stoffmenge betragen;
 - c. als Zwischenprodukt für ihre vollständige chemische Umwandlung, wenn die Emissionen höchstens 0,5 % der eingesetzten Stoffmenge betragen;
 - d. als Wärmeträger- oder Isolierflüssigkeiten in Schweissmaschinen sowie in Prüf- und Kalibrierbädern;
@@ -1187,6 +1200,11 @@ Das BAFU ist für die Datenberichterstattung gemäss Artikel 7 Absatz 3 des Mont
 - b. die abgekürzten chemischen Bezeichnungen der in der Luft stabilen Stoffe, die in Behältern oder Anlagen enthalten sind oder enthalten sein werden, wobei die für den Anwendungsbereich anerkannte Industrienomenklatur verwendet wird;
 - c. Menge der Stoffe, in kg und in Tonnen CO<sub>2</sub>-Äquivalente sowie das Treibhauspotenzial der Stoffe.
 
+<sup>1bis</sup> Die Herstellerin von Behältern, die in Absatz 1 genannte Stoffe in rezyklierter oder aufgearbeiteter Qualität im Sinne von Artikel 2 Absätze 15 und 16 der Verordnung (EU) Nr. 517/2014 oder in regenerierter Qualität im Sinne von Ziffer 1 Absatz 3 enthalten oder enthalten werden, muss auf den Behältern angeben:
+
+- a. die Qualität der Stoffe;
+- b. Name und Adresse der Einrichtung, in welcher die Stoffe rezykliert, aufgearbeitet oder regeneriert wurden.
+
 <sup>2</sup> Die Herstellerin von Geräten oder von anderen als in Absatz 1 genannten Anlagen, die mehr als 1 kg Schwefelhexafluorid enthalten, muss auf den Geräten oder den Anlagen auf diesen Stoff hinweisen und die von diesem Stoff in den Geräten oder den Anlagen enthaltene Menge angeben.
 
 <sup>3</sup> Die Kennzeichnung nach den Absätzen 1 und 2 muss in mindestens zwei Amtssprachen abgefasst, sichtbar, leicht lesbar und dauerhaft sein.
@@ -1222,7 +1240,7 @@ Anhang 1.6*[^t-7]*
 
 ## Asbest
 
-[^t-7]: Bereinigt gemäss Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-7]: Bereinigt gemäss Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Begriffe
 
@@ -1261,9 +1279,9 @@ Verboten ist:
 - a. vor dem 1. März 1990 in Betrieb waren; und
 - b. Asbest nur in kleinen Mengen und nur in gebundener Form enthalten.
 
-<sup>3</sup> Das BAFU kann im Einvernehmen mit dem BAG auf begründeten Antrag Ausnahmen vom Verbot nach Ziffer 2 Buchstabe c für Geräte und Einrichtungen, die asbesthaltige Bestandteile aufweisen, zulassen, wenn sie Asbest nur in kleinen Mengen und nur in gebundener Form enthalten.
+<sup>3</sup> …
 
-<sup>4</sup> Das Verbot nach Ziffer 2 Buchstabe d gilt nicht für die Verwendung von asbesthaltigen Zubereitungen und Gegenständen, zu einem Zweck, für den ein Inverkehrbringen nach Absatz 1 oder 2, oder eine Ausfuhr nach Absatz 3 zugelassen worden ist.
+<sup>4</sup> Das Verbot nach Ziffer 2 Buchstabe d gilt nicht für die Verwendung von asbesthaltigen Zubereitungen und Gegenständen zu einem Zweck, für den ein Inverkehrbringen nach Absatz 1 oder 2 zugelassen worden ist.
 
 ### 4 Besondere Kennzeichnung
 
@@ -1273,7 +1291,7 @@ Verboten ist:
 - b. einem Hinweis auf die Gefahren für Mensch und Umwelt und die Schutzmassnahmen in mindestens zwei Amtssprachen und nach folgendem Muster:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220201/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220401/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">B = mindestens 2,5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 Prozent von H</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 Prozent von H</td><td></td></tr>
@@ -1800,7 +1818,7 @@ Anhang 1.10*[^t-11]*
 
 ## Krebserzeugende, erbgutverändernde und fortpflanzungsgefährdende Stoffe
 
-[^t-11]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. 2 der V vom 18. Nov. 2020, in Kraft vom 15. Dez. 2020 bis zum 1. Juni 2025 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), Ziff. I der V des BAG vom 1. Febr. 2021 ([AS 2021 70](https://fedlex.data.admin.ch/eli/oc/2021/70)) und vom 23. Dez. 2021, in Kraft seit 1. Febr. 2022 ([AS 2022 1](https://fedlex.data.admin.ch/eli/oc/2022/1)).
+[^t-11]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. 2 der V vom 18. Nov. 2020, in Kraft bis zum 1. Juni 2025 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), Ziff. I der V des BAG vom 1. Febr. 2021 ([AS 2021 70](https://fedlex.data.admin.ch/eli/oc/2021/70)), vom 23. Dez. 2021 ([AS 2022 1](https://fedlex.data.admin.ch/eli/oc/2022/1)) und Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Verbot
 
@@ -1817,7 +1835,7 @@ Anhang 1.10*[^t-11]*
 
 <sup>1</sup> Das Verbot nach Ziffer 1 Absatz 1 gilt nicht für:
 
-- a. Arzneimittel;
+- a. Arzneimittel und Medizinprodukte;
 - b. Künstlerfarben, vorbehältlich Anhang 1.17;
 - c. Motorkraftstoffe;
 - d. Mineralölerzeugnisse als Brennstoffe in beweglichen oder ortsfesten Feuerungsanlagen sowie Brennstoffe in geschlossenen Systemen;
@@ -1851,7 +1869,7 @@ Die folgenden Stoffe, die durch die Verordnung (EU) 2021/2204[^annex110-lvlu1-lv
   bis zum 1. März 2022: die folgenden Stoffe:
 
   - – Siliciumcarbidfasern (mit Durchmesser &lt; 3 μm, Länge &gt; 5 μm und Seitenverhältnis ≥ 3:1) (CAS 409-21-2 oder CAS 308076-74-6)
-  - – Natrium-N-(hydroxymethyl)glycinat; [aus Natrium-N-(hydroxymethyl)glycinat freigesetztes Formaldehyd] (CAS 70161-44-3)
+  - – Natrium-N-(hydroxymethyl)glycinat; [aus Natrium-N-(hydroxy-methyl)glycinat freigesetztes Formaldehyd] (CAS 70161-44-3)
   - – Methylolacrylamid (CAS 924-42-5)
   - – Resorcinoldiglycidylether (CAS 101-90-6)
   - – Butanonoxim (CAS 96-29-7)
@@ -1885,7 +1903,7 @@ Anhang 1.11*[^t-12]*
 Als gefährliche flüssige Stoffe und Zubereitungen gelten flüssige Zubereitungen mit einer der Eigenschaften nach Artikel 2 Absatz 2 der Richtlinie 1999/45/EG[^annex111-lvlu1-lvl1-1] oder flüssige Stoffe und Zubereitungen, welche die Kriterien für eine der folgenden in Anhang I der Verordnung (EG) Nr. 1272/2008[^annex111-lvlu1-lvl1-2] aufgeführten Gefahrenklassen oder ‑kategorien erfüllen:
 
 - a. Gefahrenklassen 2.1–2.4, 2.6, 2.7, 2.8 Typen A und B, 2.9, 2.10, 2.12, 2.13 Kategorien 1 und 2, 2.14 Kategorien 1 und 2, 2.15 Typen A–F;
-- b. Gefahrenklassen 3.1 – 3.6, 3.7 infolge Beeinträchtigung der Sexualfunktion und Fruchtbarkeit sowie der Entwicklung, 3.8 ausgenommen narkotisierende Wirkungen, 3.9 und 3.10;
+- b. Gefahrenklassen 3.1–3.6, 3.7 infolge Beeinträchtigung der Sexualfunktion und Fruchtbarkeit sowie der Entwicklung, 3.8 ausgenommen narkotisierende Wirkungen, 3.9 und 3.10;
 - c. Gefahrenklasse 4.1;
 - d. Gefahrenklasse 5.1.
 
@@ -3790,7 +3808,7 @@ Anhang 2.9*[^t-28]*
 
 ## Kunststoffe, deren Monomere und Additive
 
-[^t-28]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Anhang Ziff. 3 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dez. 2016 ([AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)) und Ziff. I der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
+[^t-28]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)) und vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Begriffe
 
@@ -3803,6 +3821,8 @@ Anhang 2.9*[^t-28]*
 - a. Klasse M, N oder O gemäss Anhang II Abschnitt A der Richtlinie 2007/46/EG[^annex29-lvlu1-lvl1-1];
 - b. Klasse T, R oder S gemäss Anhang II Kapitel A der Richtlinie 2003/37/EG[^annex29-lvlu1-lvl1-2];
 - c. Klassen L1e–L7e gemäss Artikel 1 Absätze 2 und 3 der Richtlinie 2002/24/EG[^annex29-lvlu1-lvl1-3].
+
+<sup>4</sup> Als oxo-abbaubarer Kunststoff gilt ein Kunststoff, der Zusatzstoffe enthält, die durch Oxidation einen Zerfall des Kunststoffs in Mikropartikel oder einen chemischen Abbau herbeiführen.
 
 [^annex29-lvlu1-lvl1-1]: Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (Rahmenrichtlinie), ABl. L 263 vom 9.10.2007, S.1; zuletzt geändert durch Verordnung (EU) Nr. 65/2012, ABl. L 28 vom 31.1.2012, S. 24. Die Texte der in diesem Anhang erwähnten Rechtsakte der EU sind unter http://eur-lex.europa.eu/ abrufbar.
 [^annex29-lvlu1-lvl1-2]: Richtlinie 2003/37/EG des Europäischen Parlaments und des Rates vom 26. Mai 2003 über die Typgenehmigung für land- oder forstwirtschaftliche Zugmaschinen, ihre Anhänger und die von ihnen gezogenen auswechselbaren Maschinen sowie für Systeme, Bauteile und selbstständige technische Einheiten dieser Fahrzeuge und zur Aufhebung der Richtlinie 74/150/EWG, ABl. L 171 vom 9.7.2003, S. 1; zuletzt geändert durch Richtlinie 2010/62/EU, ABl. L 238 vom 9.9.2010, S. 7.
@@ -3849,7 +3869,9 @@ Anhang 2.9*[^t-28]*
     - – Bekleidung, Schuhe, Handschuhe und Sportbekleidung sowie
     - – Uhrenarmbänder, Armbänder, Masken, Stirnbänder;
 
-- f. das Inverkehrbringen und die Verwendung von Acrylamid (CAS-Nr. 79-06-1) sowie von Stoffen und Zubereitungen mit einem Massengehalt von 0,1 Prozent oder mehr Acrylamid für Abdichtungsanwendungen wie Injektion, Verpressung, Verfugung oder Verguss.
+- e<sup>ter</sup>. das Inverkehrbringen und die Verwendung von Kunststoffgranulaten oder ‑streu, die zusammengerechnet mehr als 20 mg je Kilogramm der polyzyklischen aromatischen Kohlenwasserstoffe nach Buchstabe d Ziffer 2 enthalten und die als Einstreumaterial für Kunstrasenplätze oder als loses Schüttgut auf Spiel- oder Sportplätzen dienen;
+- f. das Inverkehrbringen und die Verwendung von Acrylamid (CAS-Nr. 79-06-1) sowie von Stoffen und Zubereitungen mit einem Massengehalt von 0,1 Prozent oder mehr Acrylamid für Abdichtungsanwendungen wie Injektion, Verpressung, Verfugung oder Verguss;
+- g. das Inverkehrbringen und die Verwendung oxo-abbaubarer Kunststoffe.
 
 <sup>1bis</sup> Die Prüf- und Analysemethoden für die Bestimmung der Grenzwerte nach Absatz 1 Buchstaben d und e richten sich nach Anhang XVII Eintrag 50 der Verordnung (EG) Nr. 1907/2006[^annex29-lvlu1-lvl2-1].
 
@@ -3885,6 +3907,13 @@ Anhang 2.9*[^t-28]*
 
 <sup>3</sup> Das Bundesamt für Umwelt (BAFU) erlässt für die Vollzugsbehörden nach Anhörung der betroffenen Kreise und der Kantone Empfehlungen zum Stand der Technik und zur Entsorgung von Abfällen im Sinne von Absatz 2.
 
+<sup>3bis</sup> Die Verbote nach Ziffer 2 Absatz 1 Buchstabe b gelten nicht, wenn:
+
+- a. nach dem Stand der Technik ein Ersatz für die ozonschichtabbauenden Stoffe oder für die mit solchen Stoffen hergestellten Zubereitungen und Gegenstände fehlt;
+- b. die eingesetzten ozonschichtabbauenden Stoffe ein Ozonabbaupotenzial von höchstens 0,0005 aufweisen;
+- c. die Menge der eingesetzten ozonschichtabbauenden Stoffe nicht grösser ist, als nach dem Stand der Technik für den angestrebten Zweck nötig ist; und
+- d. die Emissionen von ozonschichtabbauenden Stoffen während des ganzen Lebenszyklus der vorgesehenen Verwendung so gering wie möglich gehalten werden, insbesondere bei der Entsorgung von Abfällen von Schaumstoffen und von darin enthaltenen ozonschichtabbauenden Stoffen.
+
 <sup>4</sup> Das BAFU kann auf begründeten Antrag eine befristete Ausnahme von den Verboten nach Ziffer 2 Absatz 1 Buchstabe c gewähren, wenn:
 
 - a. nach dem Stand der Technik ein Ersatz für die in der Luft stabilen Stoffe oder für die mit solchen Stoffen hergestellten Zubereitungen und Gegenstände fehlt;
@@ -3899,11 +3928,13 @@ Anhang 2.9*[^t-28]*
 
 <sup>2</sup> Zubereitungen und Gegenstände, die Recycling-PVC enthalten, müssen mit der Aufschrift «Enthält Recycling-PVC» oder mit folgendem Piktogramm versehen sein:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220201/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220401/de/xml/image/image2.png)
 
 <sup>3</sup> Zubereitungen, deren Massengehalt an Methylendiphenyl-Diisocyanat 0,1 Prozent oder mehr beträgt, und die für die Abgabe an die breite Öffentlichkeit bestimmt sind, müssen mit folgender Aufschrift versehen sein: «Bei Personen, die bereits für Diisocyanate sensibilisiert sind, kann der Umgang mit diesem Produkt allergische Reaktionen auslösen. – Bei Asthma, ekzematösen Hauterkrankungen oder Hautproblemen Kontakt, einschließlich Hautkontakt, mit dem Produkt vermeiden. – Das Produkt nicht bei ungenügender Lüftung verwenden oder Schutzmaske mit entsprechendem Gasfilter (Typ A1 nach EN 14387) tragen.»
 
 <sup>4</sup> Die Information nach Absatz 1 und die Aufschriften nach den Absätzen 2–3 müssen in mindestens zwei Amtssprachen abgefasst, gut sichtbar, leserlich und unverwischbar sein.
+
+<sup>5</sup> Für Kunststoffgranulate oder -streu, die zur Verwendung als Einstreumaterial für Kunstrasenplätze oder in loser Form für Spiel- oder Sportplätze in Verkehr gebracht werden, ist eine Chargennummer anzugeben, mit welcher die Charge eindeutig identifiziert werden kann. Die Chargennummer ist auf der Verpackung anzugeben oder in einer anderen zweckmässigen Form zu vermitteln.
 
 ### 4<sup>bis</sup> Besondere Verpackung
 
@@ -3917,6 +3948,10 @@ Herstellerinnen von Schaumstoffen, bei deren Herstellung in der Luft stabile Sto
 
 - a. Art und Menge der in den vergangenen drei Jahren in der Schweiz abgegebenen Schaumstoffe, aufgeschlüsselt nach Einfuhr und Herstellung in der Schweiz;
 - b. Art und Menge der in der Luft stabilen Stoffe, die in den abgegebenen Schaumstoffen enthalten sind.
+
+### 5<sup>bis</sup> Empfehlungen
+
+Das BAFU erlässt nach Anhörung der betroffenen Branche Empfehlungen zum Stand der Technik nach Ziffer 3 Absatz 3<sup>bis</sup>.
 
 ### 6 Übergangsbestimmungen
 
@@ -3934,13 +3969,19 @@ Herstellerinnen von Schaumstoffen, bei deren Herstellung in der Luft stabile Sto
 
 <sup>5</sup> Das Verbot nach Ziffer 2 Absatz 1 Buchstabe e<sup>bis</sup> gilt nicht für das Inverkehrbringen von Gegenständen, die vor dem 1. September 2016 erstmals in Verkehr gebracht worden sind.
 
+<sup>6</sup> Die Verbote nach Ziffer 2 Absatz 1 Buchstabe e<sup>ter</sup> gelten nicht für das Inverkehrbringen und das Verwenden von Kunststoffgranulaten oder -streu, die bis zum 1. April 2023 einer Verwendung in Kunstrasen-, Spiel- oder Sportplätzen zugeführt worden sind.
+
+<sup>7</sup> Die Verbote nach Ziffer 2 Absatz 1 Buchstabe g gelten nicht für das Inverkehrbringen und die Verwendung oxo-abbaubarer Kunststoffe, die vor dem 1. Oktober 2022 erstmals in Verkehr gebracht worden sind.
+
+<sup>8</sup> Schaumstoffe und Gegenstände mit Schaumstoffen, für die Ziffer 3 Absatz 3<sup>bis</sup> nicht mehr anzuwenden ist, weil aufgrund einer Änderung des Standes der Technik ein Ersatz besteht, dürfen noch während 6 Monaten hergestellt, zu beruflichen oder gewerblichen Zwecken eingeführt sowie während weiterer 6 Monate an Dritte abgegeben werden.
+
 Anhang 2.10*[^t-29]*
 
 (Art. 3)
 
 ## Kältemittel
 
-[^t-29]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. 2 der V vom 18. Nov. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)) und Ziff. I der V des BAFU vom 9. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)).
+[^t-29]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. 2 der V vom 18. Nov. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), Ziff. I der V des BAFU vom 9. Sept. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)) und Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Begriffe
 
@@ -3956,18 +3997,13 @@ Anhang 2.10*[^t-29]*
 
 <sup>6</sup> Ein Gerät ist ein steckerfertiges System zur Kälteerzeugung, das mit keiner Kälte- oder Wärmeverteilrohrleitung fest verbunden ist. Fest eingebaute Geräte gelten als Geräte und nicht als Anlagen.
 
-<sup>7</sup> Pluskühlung ist die Kühlung von Lebensmitteln oder verderblichen Waren, wenn die Nutzungstemperatur nicht tiefer als 0 °C liegt oder wenn keine Gefrierung auftritt.[^annex210-lvlu1-lvl1-1]
+<sup>7</sup> Pluskühlung ist die Kühlung von Lebensmitteln oder verderblichen Waren, wenn die Nutzungstemperatur nicht tiefer als 0 °C liegt oder wenn keine Gefrierung auftritt.
 
-<sup>8</sup> Minuskühlung ist die Kühlung von Lebensmitteln oder verderblichen Waren mit einer Nutzungstemperatur nicht tiefer als –25 °C.[^annex210-lvlu1-lvl1-2]
+<sup>8</sup> Minuskühlung ist die Kühlung von Lebensmitteln oder verderblichen Waren mit einer Nutzungstemperatur nicht tiefer als –25 °C.
 
-<sup>9</sup> Tiefkühlung ist die Kühlung von Lebensmitteln oder verderblichen Waren mit einer Nutzungstemperatur tiefer als –25 °C.[^annex210-lvlu1-lvl1-3]
+<sup>9</sup> Tiefkühlung ist die Kühlung von Lebensmitteln oder verderblichen Waren mit einer Nutzungstemperatur tiefer als –25 °C.
 
-<sup>10</sup> Die Kälteleistung einer Anlage ist ihre Nutzkälteleistung bei Spitzenverbrauch und einer Anlagenauslegung gemäss dem Stand der Technik.[^annex210-lvlu1-lvl1-4]
-
-[^annex210-lvlu1-lvl1-1]: In Kraft seit 1. Jan. 2020 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
-[^annex210-lvlu1-lvl1-2]: In Kraft seit 1. Jan. 2020 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
-[^annex210-lvlu1-lvl1-3]: In Kraft seit 1. Jan. 2020 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
-[^annex210-lvlu1-lvl1-4]: In Kraft seit 1. Jan. 2020 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+<sup>10</sup> Die Kälteleistung einer Anlage ist ihre Nutzkälteleistung bei Spitzenverbrauch und einer Anlagenauslegung gemäss dem Stand der Technik.
 
 ### 2 Herstellung, Inverkehrbringen, Ein- und Ausfuhr
 
@@ -4020,12 +4056,17 @@ Anhang 2.10*[^t-29]*
   - 1\. mit einer Kälteleistung von mehr als 600 kW, oder
   - 2\. wenn das verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von mehr als 2100 aufweist;
 
-- e. Kunsteisbahnen, ausser temporäre Anlagen.[^annex210-lvlu1-lvl2-lvl21-1]
+- e.
+
+  Kunsteisbahnen:
+
+  - 1\. permanente Kunsteisbahnen,
+  - 2\. temporäre Anlagen, wenn das verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von mehr als 4000 aufweist.
 
 <sup>4</sup> Verboten ist das Inverkehrbringen von Anlagen zur Nutzung von Kaltluft, die mit in der Luft stabilen Kältemitteln betrieben werden und nicht mit einem Kälteträgerkreislauf ausgestattet sind, wenn sie:
 
 - a. mindestens drei Verdampfereinheiten verwenden und eine Kälteleistung von mehr als 80 kW aufweisen; oder
-- b.[^annex210-lvlu1-lvl2-lvl21-2] mehr als 40 Verdampfereinheiten verwenden.
+- b. mehr als 40 Verdampfereinheiten verwenden.
 
 <sup>5</sup> Verboten ist das Inverkehrbringen von Anlagen mit luftgekühltem Verflüssiger, die ein in der Luft stabiles Kältemittel mit einem Treibhauspotenzial von mehr als 4000 enthalten, unter Vorbehalt der maximal zulässigen Treibhauspotenziale gemäss Ziffer 2.1 Absatz 3.
 
@@ -4049,9 +4090,6 @@ Anhang 2.10*[^t-29]*
 
 <sup>7</sup> Verboten ist das Inverkehrbringen von Anlagen für die Plus-, Minus- oder kombinierbare Plus-Minuskühlung (Heissgasverbund) mit einer Kälteleistung von mehr als 10 kW, wenn sie pro kW Kälteleistung mehr als 2 kg eines in der Luft stabilen Kältemittels enthalten und nicht mit einer Technologie zur Reduktion des Kältemittelinhaltes um mindestens 15 % ausgestattet sind.
 
-[^annex210-lvlu1-lvl2-lvl21-1]: In Kraft seit 1. Jan. 2020 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
-[^annex210-lvlu1-lvl2-lvl21-2]: In Kraft seit 1. Jan. 2020 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
-
 ### 2.2 Ausnahmen
 
 <sup>1</sup> Die Verbote nach Ziffer 2.1 Absätze 1 Buchstabe b sowie 2 Buchstaben a, c und d gelten nicht für Geräte, die zu einem privaten Haushalt gehören, zu privaten Zwecken in Verkehr gebracht sowie zu privaten Zwecken ein- und ausgeführt werden.
@@ -4073,7 +4111,7 @@ Anhang 2.10*[^t-29]*
 - a. die Tiefkühlung nicht mit einer Pluskühlung kombinierbar ist;
 - b. nach dem Stand der Technik ein Ersatz fehlt;
 - c. nach dem Stand der Technik das in der Luft stabile Kältemittel mit der geringsten Auswirkung auf das Klima gewählt worden ist; und
-- d. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen des Kältemittels getroffen worden sind.[^annex210-lvlu1-lvl2-lvl22-1]
+- d. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen des Kältemittels getroffen worden sind.
 
 <sup>5</sup> Bestehende rechtmässig in Verkehr gebrachte Anlagen, deren Inverkehrbringen bewilligungspflichtig ist, dürfen für die Anwendungsbereiche nach Ziffer 2.1 Absatz 3 ohne neue Bewilligung des Inverkehrbringens an einen Dritten abgegeben werden, wenn sie nicht umgebaut werden und ihr Standort nicht verändert wird.
 
@@ -4083,7 +4121,7 @@ Anhang 2.10*[^t-29]*
 - b. das Kältemittel ein Ozonabbaupotenzial von höchstens 0,0005 aufweist; und
 - c. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen der Kältemittel getroffen worden sind.
 
-<sup>7</sup> Das BAFU kann auf begründetes Gesuch befristete Ausnahmen von den Verboten nach Ziffer 2.1 Absatz 2 Buchstaben a und b gewähren, wenn:
+<sup>7</sup> Das BAFU kann auf begründetes Gesuch befristete Ausnahmen von den Verboten nach Ziffer 2.1 Absatz 2 Buchstabe a gewähren, wenn:
 
 - a. nach dem Stand der Technik ein Ersatz fehlt;
 - b. nach dem Stand der Technik das in der Luft stabile Kältemittel mit der geringsten Auswirkung auf das Klima gewählt wurde; und
@@ -4091,14 +4129,13 @@ Anhang 2.10*[^t-29]*
 
 <sup>8</sup> Das BAFU kann auf begründetes Gesuch für eine bestimmte Anlage eine Ausnahme vom Verbot nach Ziffer 2.1 Absatz 3 gewähren, wenn:
 
-- a. nach dem Stand der Technik die Normen SN EN 378-1:2017+A1:2021, SN EN 378-2:2017 und SN EN 378-3:2017+A1:2021[^annex210-lvlu1-lvl2-lvl22-2] nicht eingehalten werden können ohne die Anwendung eines in der Luft stabilen Kältemittels;
+- a. nach dem Stand der Technik die Normen SN EN 378-1:2017+A1:2021, SN EN 378-2:2017 und SN EN 378-3:2017+A1:2021[^annex210-lvlu1-lvl2-lvl22-1] nicht eingehalten werden können ohne die Anwendung eines in der Luft stabilen Kältemittels;
 - b. nach dem Stand der Technik das in der Luft stabile Kältemittel mit der geringsten Auswirkung auf das Klima gewählt worden ist; und
 - c. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen der Kältemittel getroffen worden sind.
 
-<sup>9</sup> Das BAFU kann im Einvernehmen mit dem SECO Absatz 6 Buchstabe a und Absatz 8 Buchstabe a bei Änderungen der dort bezeichneten Normen entsprechend anpassen.
+<sup>9</sup> Das BAFU kann im Einvernehmen mit dem SECO Absatz 8 Buchstabe a bei Änderungen der dort bezeichneten Normen entsprechend anpassen.
 
-[^annex210-lvlu1-lvl2-lvl22-1]: In Kraft seit 1. Jan. 2020 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
-[^annex210-lvlu1-lvl2-lvl22-2]: Diese Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex210-lvlu1-lvl2-lvl22-1]: Diese Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 ### 2.3 Betreiber- und Informationspflichten betreffend Ausnahmebewilligungen
 
@@ -4130,9 +4167,7 @@ Anhang 2.10*[^t-29]*
 
 ### 2.5 Vorschriften für die Abgabe von Kältemitteln
 
-<sup>1</sup> Kältemittel sowie Anlagen, die bereits Kältemittel enthalten und deren Inbetriebnahme einen Eingriff am Kühlkreislauf erfordert, dürfen nur an Empfängerinnen abgegeben werden, welche die Anforderungen von Artikel 7 Absatz 1 Buchstabe b für den Umgang mit Kältemitteln erfüllen.
-
-<sup>2</sup> Einzelmengen von mehr als 100 g ozonschichtabbauenden oder in der Luft stabilen Kältemitteln dürfen nur in Mehrwegbehältern abgegeben werden.
+Kältemittel sowie Anlagen, die bereits Kältemittel enthalten und deren Inbetriebnahme einen Eingriff in den Kältekreislauf erfordert, dürfen nur an Empfängerinnen abgegeben werden, welche die Anforderungen von Artikel 7 Absatz 1 Buchstabe b für den Umgang mit Kältemitteln erfüllen.
 
 ### 3 Verwendung
 
@@ -4211,21 +4246,28 @@ Wer Geräte oder Anlagen, die Kältemittel enthalten, zur Entsorgung entgegennim
 
 ### 5.1 Grundsatz
 
-<sup>1</sup> Wer eine stationäre Anlage mit mehr als 3 kg Kältemitteln in Betrieb genommen hat, in Betrieb nimmt oder ausser Betrieb nimmt, muss dies dem BAFU melden.
+<sup>1</sup> Wer eine stationäre Anlage mit mehr als 3 kg Kältemitteln in Betrieb genommen hat, in Betrieb nimmt oder ausser Betrieb nimmt, muss dies dem BAFU innerhalb von drei Monaten nach In- und Ausserbetriebnahme melden.
 
 <sup>2</sup> Die Meldung muss folgende Angaben enthalten:
 
 - a. das Datum der In- oder Ausserbetriebnahme;
-- b. den Namen der Inhaberin der Anlage sowie Name und Firma der Fachperson, welche mit der Inbetriebnahme beauftragt wurde;
+- b. die Namen der Inhaberin der Anlage, des Fachunternehmens, welches mit der In- oder Ausserbetriebnahme beauftragt wurde, sowie der ausführenden Fachperson;
 - c. die Art, den Standort und die Kälteleistung der Anlage;
 - d. die Art und die Menge des enthaltenen Kältemittels;
-- e. bei der Ausserbetriebnahme: den Empfänger des Kältemittels.
+- e. bei der Ausserbetriebnahme: den Empfänger des Kältemittels;
+- f. bei Anlagen, die zum Heizen oder zum Heizen und Kühlen genutzt werden, zusätzlich: die genutzte Energiequelle und die Wärmeleistung der Anlage, sofern die Anlage nach dem 30. September 2022 in Betrieb genommen worden ist.
 
-<sup>3</sup> Die Fachfirmen machen ihre Kunden in geeigneter Weise auf die Meldepflicht aufmerksam.
+<sup>3</sup> Die Inhaberin muss dem BAFU Änderungen des Standortes oder der Kälteleistung der Anlage sowie Änderungen der Art oder der Menge des Kältemittels umgehend melden.
 
-<sup>4</sup> Das BAFU legt für jede Anlage eine Nummer fest und teilt diese der meldepflichtigen Person, die eine stationäre Anlage mit mehr als 3 kg Kältemitteln in Betrieb genommen hat oder in Betrieb nimmt, mit.
+<sup>4</sup> Ändert die Inhaberin, muss die neue Inhaberin ihren Namen umgehend dem BAFU melden.
 
-<sup>5</sup> Die meldepflichtige Person hat die vom BAFU mitgeteilte Nummer umgehend sichtbar, leicht lesbar und dauerhaft auf der Anlage anzubringen.
+<sup>5</sup> Das Fachunternehmen macht die Inhaberin in geeigneter Weise auf die Meldepflichten aufmerksam.
+
+<sup>6</sup> Das BAFU stellt Nummern zur Identifikation der Anlagen aus und teilt diese den meldepflichtigen Personen mit.
+
+<sup>7</sup> Die meldepflichtige Person hat eine Nummer nach Absatz 6 umgehend sichtbar, leicht lesbar und dauerhaft auf der Anlage anzubringen.
+
+<sup>8</sup> Das BAFU liefert dem Bundesamt für Energie (BFE) auf Anfrage die Angaben nach Absatz 2 Buchstaben a, c, d, und f.
 
 ### 5.2 Ausnahmen
 
@@ -4259,7 +4301,7 @@ Anhang 2.11*[^t-30]*
 
 ## Löschmittel
 
-[^t-30]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) und Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-30]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Begriffe
 
@@ -4273,9 +4315,9 @@ Anhang 2.11*[^t-30]*
 
 <sup>5</sup> Ein Gerät ist ein transportables Hilfsmittel zum Löschen von Bränden, welches kein fest installiertes Rohrleitungssystem aufweist.
 
-### 1<sup>bis</sup> Löschmittel, die PFOS, PFOA und PFOA‑Vorläuferverbindungen enthalten
+### 1<sup>bis</sup> [Löschmittel, die per- und polyfluorierte Alkylverbindungen enthalten](https://www.fedlex.admin.ch/eli/cc/2005/478/de)
 
-Für Löschmittel, die PFOS, PFOA und PFOA-Vorläuferverbindungen enthalten, gilt Anhang 1.16.
+Für Löschmittel, die PFOS oder PFOA, C<sub>9</sub>–C<sub>14</sub>-PFCA, PFHxS und deren Vorläuferverbindungen enthalten, gilt Anhang 1.16.
 
 ### 2 Inverkehrbringen und Einfuhr zu privaten Zwecken
 
@@ -5223,8 +5265,7 @@ Für Batterien in Elektro- und Elektronikgeräten gilt Anhang 2.15.
 
 <sup>3</sup> Die Verbote nach Ziffer 2 gelten nicht für Kabel und Ersatzteile für Elektro- und Elektronikgeräte, die:
 
-a. nach den Absätzen 1 und 2 in Verkehr gebracht worden sind; oder
-
+- a. nach den Absätzen 1 und 2 in Verkehr gebracht worden sind; oder
 - b. Stoffe in Verwendungen enthalten, für die eine Ausnahme nach den Anhängen III und IV der Richtlinie 2011/65/EU galt, und die vor Auslaufen dieser Ausnahme in der Schweiz oder einem Mitgliedsstaat der EU oder der EFTA in Verkehr gebracht worden sind, wenn bei diesen Geräten die Bestandteile, die von der Ausnahme betroffen waren, ersetzt werden.
 
 <sup>4</sup> Sofern die Wiederverwendung in einem überprüfbaren geschlossenen zwischenbetrieblichen System erfolgt und den Verbraucherinnen mitgeteilt wird, dass Ersatzteile wiederverwendet wurden, gelten die Verbote nach Ziffer 2 auch nicht für die Wiederverwendung von Ersatzteilen, die:
