@@ -3,20 +3,19 @@ canton: BL
 number: "430"
 title: Strassengesetz
 language: de
-version: 2020-10-01
-valid_until: 2022-03-31
-version_adopted: 2020-04-02
+version: 2022-04-01
+version_adopted: 2020-06-11
 adopted: 1986-03-24
 in_force: 1987-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/430"
-pdf: "https://bl.clex.ch/api/de/versions/2817/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4410/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Strassengesetz
 
-Vom 24.03.1986 (Stand 01.10.2020)
+Vom 24.03.1986 (Stand 01.04.2022)
 
 Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
@@ -56,9 +55,9 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>2</sup> Der Regierungsrat kann mit den zuständigen Bundesstellen Leistungsvereinbarungen über den betrieblichen und den baulichen Unterhalt von Nationalstrassen abschliessen.
 
-<sup>3</sup> Der Regierungsrat kann eine Organisation gründen oder den Beitritt zu einer solchen erklären, die Leistungsvereinbarungen gemäss Absatz 2 mit den zuständigen Bundesstellen abschliesst.
+<sup>3</sup> Der Regierungsrat kann eine Organisation gründen oder den Beitritt zu einer solchen erklären, die Leistungsvereinbarungen gemäss Abs. 2 mit den zuständigen Bundesstellen abschliesst.
 
-<sup>4</sup> Der Regierungsrat kann mit einer Organisation gemäss Absatz 3 für den betrieblichen Unterhalt einzelner Teile des Kantonsstrassennetzes, insbesondere Hochleistungsstrassen und Tunnels, Leistungsvereinbarungen abschliessen, sofern dies fachlich und betriebswirtschaftlich gerechtfertigt ist.
+<sup>4</sup> Der Regierungsrat kann mit einer Organisation gemäss Abs. 3 für den betrieblichen Unterhalt einzelner Teile des Kantonsstrassennetzes, insbesondere Hochleistungsstrassen und Tunnels, Leistungsvereinbarungen abschliessen, sofern dies fachlich und betriebswirtschaftlich gerechtfertigt ist.
 
 #### § 5
 
@@ -66,7 +65,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Die Kantonsstrassen werden in Hochleistungsstrassen, Hauptverkehrsstrassen und übrige Kantonsstrassen unterteilt.
 
-- a. Die Hochleistungsstrassen dienen vorwiegend dem überregionalen Durchgangsverkehr; sie stellen die Verbindung mit Nationalstrassen oder wichtigen Strassen des benachbarten Auslandes und der angrenzenden Kantone her.
+- a. Die Hochleistungsstrassen dienen vorwiegend dem überregionalen Durchgangsverkehr; sie stellen die Verbindung mit Nationalstrassen oder wichtigen Strassen des benachbarten Auslands und der angrenzenden Kantone her.
 - b. Die Hauptverkehrsstrassen nehmen vorwiegend den regionalen Verkehr auf; sie stellen in der Regel die Verbindung zu Nationalstrassen oder zu kantonalen Hochleistungsstrassen her.
 - c. Die übrigen Kantonsstrassen verbinden einzelne Ortschaften untereinander; sie stellen in der Regel die Verbindung zu den kantonalen Hauptverkehrsstrassen her.
 
@@ -88,9 +87,9 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>3</sup> Für die Gemeindestrassen erlassen die Gemeinden Vorschriften im Rahmen des vorliegenden Strassengesetzes sowie des Raumplanungs- und Baugesetzes vom 8. Januar 1998[^7-3].
 
-[^7-1]: SR [725.11](https://db.clex.ch/link/Bund/725.11/de)
-[^7-2]: GS 33.0289, SGS [400](https://bl.clex.ch/data/400/de)
-[^7-3]: GS 33.0289, SGS [400](https://bl.clex.ch/data/400/de)
+[^7-1]: [SR 725.11](https://db.clex.ch/link/Bund/725.11/de)
+[^7-2]: [SGS 400](https://bl.clex.ch/data/400/de)
+[^7-3]: [SGS 400](https://bl.clex.ch/data/400/de)
 
 #### § 8
 
@@ -140,7 +139,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>3</sup> Diese ist mit den Nachbarkantonen zu koordinieren und auf die überregionalen Verkehrsträger abzustimmen.
 
-[^13-1]: GS 33.0289, SGS [400](https://bl.clex.ch/data/400/de)
+[^13-1]: [SGS 400](https://bl.clex.ch/data/400/de)
 
 #### § 14
 
@@ -154,26 +153,26 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>4</sup> Sie dienen auch als Grundlage für die Ausarbeitung der Bauprojekte.
 
-<sup>5</sup> Sie werden unter gleichzeitiger Erteilung des Enteignungsrechtes vom Landrat beschlossen.
+<sup>5</sup> Sie werden unter gleichzeitiger Erteilung des Enteignungsrechts vom Landrat beschlossen.
 
-<sup>6</sup> Die Beschlüsse des Landrates über Generelle Projekte unterstehen der fakultativen Volksabstimmung.
+<sup>6</sup> Die Beschlüsse des Landrats über generelle Projekte unterstehen der fakultativen Volksabstimmung.
 
 #### § 15
 
 **Bauprojekte**
 
-<sup>1</sup> Die Bauprojekte (Kantonale Nutzungspläne) legen die genaue Lage der bestehenden und projektierten Kantonsstrassen einschliesslich der Nebenanlagen sowie der Baulinien fest. Sie enthalten zudem die Kostenberechnung und alle für die Planauflage notwendigen Angaben.
+<sup>1</sup> Die Bauprojekte (kantonale Nutzungspläne) legen die genaue Lage der bestehenden und projektierten Kantonsstrassen einschliesslich der Nebenanlagen sowie der Baulinien fest. Sie enthalten zudem die Kostenberechnung und alle für die Planauflage notwendigen Angaben.
 
-<sup>2</sup> Die Bauprojekte werden von der Bau- und Umweltschutzdirektion beschlossen. Wo sich diese nicht auf die kantonale Richtplanung oder auf ein Generelles Projekt stützen, sind sie vom Landrat zu beschliessen.
+<sup>2</sup> Die Bauprojekte werden von der Bau- und Umweltschutzdirektion beschlossen. Wo sich diese nicht auf die kantonale Richtplanung oder auf ein generelles Projekt stützen, sind sie vom Landrat zu beschliessen.
 
 <sup>3</sup> Das Auflage- und Einspracheverfahren richtet sich nach den Bestimmungen des Raumplanungs- und Baugesetzes vom 8. Januar 1998[^15-1].
 
-<sup>4</sup> Zur vorsorglichen Freihaltung des Strassenraumes oder in anderen speziellen Fällen können auch lediglich Bau- und Strassenlinienpläne erlassen werden. Das Verfahren richtet sich nach den Bestimmungen des Raumplanungs- und Baugesetzes vom 8. Januar 1998[^15-2] über die kantonale Nutzungsplanung.
+<sup>4</sup> Zur vorsorglichen Freihaltung des Strassenraums oder in anderen speziellen Fällen können auch lediglich Bau- und Strassenlinienpläne erlassen werden. Das Verfahren richtet sich nach den Bestimmungen des Raumplanungs- und Baugesetzes vom 8. Januar 1998[^15-2] über die kantonale Nutzungsplanung.
 
-<sup>5</sup> Der Landrat erteilt die notwendigen Baukredite und das Enteignungsrecht, soweit es nicht schon gemäss § 14 Absatz 5 dieses Gesetzes erteilt worden ist.
+<sup>5</sup> Der Landrat erteilt die notwendigen Baukredite und das Enteignungsrecht, soweit es nicht schon gemäss § 14 Abs. 5 dieses Gesetzes erteilt worden ist.
 
-[^15-1]: GS 33.0289, SGS [400](https://bl.clex.ch/data/400/de)
-[^15-2]: GS 33.0289, SGS [400](https://bl.clex.ch/data/400/de)
+[^15-1]: [SGS 400](https://bl.clex.ch/data/400/de)
+[^15-2]: [SGS 400](https://bl.clex.ch/data/400/de)
 
 #### § 16
 
@@ -209,7 +208,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Radrouten**
 
-<sup>1</sup> Der Landrat beschliesst nach Anhören der Gemeinden ein zusammenhängendes Netz regionaler Radrouten. Eine regionale Radroute ist vorzusehen, wo Strassen regelmässig von einer grösseren Zahl von Velofahrern benutzt werden, wo es sich um besonders förderungswürdige Verbindungen handelt oder wo es die Sicherheit der Velo- und Mofafahrer sonst erfordert. Neu anzulegende regionale Radrouten werden vom Kanton erstellt. Nach der Fertigstellung sind sie Bestandteil des Gemeindestrassennetzes gemäss § 6 Absatz 2.
+<sup>1</sup> Der Landrat beschliesst nach Anhören der Gemeinden ein zusammenhängendes Netz regionaler Radrouten. Eine regionale Radroute ist vorzusehen, wo Strassen regelmässig von einer grösseren Zahl von Velofahrern benutzt werden, wo es sich um besonders förderungswürdige Verbindungen handelt oder wo es die Sicherheit der Velo- und Mofafahrer sonst erfordert. Neu anzulegende regionale Radrouten werden vom Kanton erstellt. Nach der Fertigstellung sind sie Bestandteil des Gemeindestrassennetzes gemäss § 6 Abs. 2.
 
 #### § 21
 
@@ -266,9 +265,9 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Werkleitungen**
 
-<sup>1</sup> In Kantonsstrassen sind Leitungen wenn möglich ausserhalb der Fahrbahn zu verlegen.
+<sup>1</sup> In Kantonsstrassen sind Leitungen, wenn möglich, ausserhalb der Fahrbahn zu verlegen.
 
-<sup>2</sup> Die Eigentümer der Werkleitungen sind verpflichtet, diese auf ihre Kosten den durch die Bauarbeiten von öffentlichen Strassen bedingten neuen Verhältnissen anzupassen und wenn nötig zu erneuern. Mehrkosten beim Bau öffentlicher Strassen, die infolge bestehender oder zu verlegender Werkleitungen entstehen, gehen zulasten der Werkeigentümer.
+<sup>2</sup> Die Eigentümer der Werkleitungen sind verpflichtet, diese auf ihre Kosten den durch die Bauarbeiten von öffentlichen Strassen bedingten, neuen Verhältnissen anzupassen und, wenn nötig, zu erneuern. Mehrkosten beim Bau öffentlicher Strassen, die infolge bestehender oder zu verlegender Werkleitungen entstehen, gehen zulasten der Werkeigentümer.
 
 <sup>3</sup> Die Verlegung von Werkleitungen in öffentlichen Strassen ist gebühren- und bewilligungspflichtig. An die Bewilligung können besondere Auflagen und Bedingungen geknüpft werden. Vorbehalten bleiben die Bestimmungen über Erstellung und Betrieb von Leitungsnetzen für die Energieverteilung.
 
@@ -291,7 +290,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 #### § 28
 
-**Der Begriff des Unterhaltes**
+**Der Begriff des Unterhalts**
 
 <sup>1</sup> Der bauliche Unterhalt umfasst alle Arbeiten, die der Erhaltung der Strassenanlagen, der technischen Einrichtungen und Nebenanlagen dienen. Darunter fallen insbesondere alle baulichen Arbeiten am Strassenkörper und an den Kunstbauten.
 
@@ -312,14 +311,14 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Winterdienst**
 
-<sup>1</sup> Bei Schneefall und Glatteis werden die öffentlichen Strassen nach Massgabe der vorhandenen technischen und Personellen Möglichkeiten, und soweit es wirtschaftlich und ökologisch zu verantworten ist, von Schnee geräumt, gegen Schneeverwehungen geschützt und durch Glatteisbekämpfung benutzbar erhalten.
+<sup>1</sup> Bei Schneefall und Glatteis werden die öffentlichen Strassen nach Massgabe der vorhandenen technischen und personellen Möglichkeiten, und soweit es wirtschaftlich und ökologisch zu verantworten ist, von Schnee geräumt, gegen Schneeverwehungen geschützt und durch Glatteisbekämpfung benutzbar erhalten.
 
 <sup>2</sup> Der Winterdienst obliegt:
 
-- a. dem Kanton für Kantonsstrassen unter Vorbehalt der Absätze 3 und 4,
+- a. dem Kanton für Kantonsstrassen unter Vorbehalt der Abs. 3 und 4,
 - b. den Gemeinden für Gemeindestrassen.
 
-<sup>3</sup> Der Winterdienst des Kantons beschränkt sich auf die Freihaltung der Fahrbahnen der Kantonsstrassen. Die Gemeinden sind zur Schneeräumung und zur Glatteisbekämpfung auf den Trottoirs an Kantonsstrassen innerhalb des Baugebietes verpflichtet. Die Abfuhr des Schnees von Fahrbahnen und Trottoirs ist Sache der Gemeinden. Die Gemeinden können die Schneeräumung und Glatteisbekämpfung auf den Trottoirs durch Gemeindereglement den Anstössern überbinden.
+<sup>3</sup> Der Winterdienst des Kantons beschränkt sich auf die Freihaltung der Fahrbahnen der Kantonsstrassen. Die Gemeinden sind zur Schneeräumung und zur Glatteisbekämpfung auf den Trottoirs an Kantonsstrassen innerhalb des Baugebiets verpflichtet. Die Abfuhr des Schnees von Fahrbahnen und Trottoirs ist Sache der Gemeinden. Die Gemeinden können die Schneeräumung und Glatteisbekämpfung auf den Trottoirs durch Gemeindereglement den Anstössern überbinden.
 
 <sup>4</sup> Der Kanton kann die Schneeräumung von Kantonsstrassen durch Vertrag Gemeinden, die über geeignete Fahrzeuge und Einrichtungen verfügen, übertragen.
 
@@ -349,7 +348,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Die Kosten für den Bau, den Ausbau und die Korrektion von Strassenkreuzungen und -anschlüssen, von Strassenüber- und -unterführungen, von Vorsortier- und Verzögerungsspuren sowie von Signalanlagen gehen zulasten des öffentlichen oder privaten Verursachers.
 
-<sup>2</sup> An die Kosten von Personenüber- und -unterführungen sowie Fussgängersignalanlagen bei Kantonsstrassen innerhalb des Baugebietes hat die Gemeinde einen Beitrag nach Massgabe der Interessenlage zu leisten. Kanton und Gemeinden verständigen sich im Einzelfall über die Höhe dieses Beitrages.
+<sup>2</sup> An die Kosten von Personenüber- und -unterführungen sowie Fussgängersignalanlagen bei Kantonsstrassen innerhalb des Baugebiets hat die Gemeinde einen Beitrag nach Massgabe der Interessenlage zu leisten. Kanton und Gemeinden verständigen sich im Einzelfall über die Höhe dieses Beitrags.
 
 <sup>3</sup> Die Kosten von Strassenanpassungen für Zufahrten, Zugänge und Einmündungen gehen zulasten der öffentlichen und privaten Verursacher.
 
@@ -359,7 +358,19 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Bushaltestellen**
 
-<sup>1</sup> An die Kosten von Bushaltestellen bei Kantonsstrassen hat die Gemeinde einen Beitrag von in der Regel 50% zu leisten.
+<sup>1</sup> Die Kosten für die Erstellung oder für Umbauten von Bushaltestellen gemäss Generellem Leistungsauftrag inkl. ihrer Möblierung werden wie folgt getragen:
+
+- a. grundsätzlich vom Strasseneigentümer, an dessen Strasse die Bushaltestelle liegt;
+- b. vom Kanton, wenn der Bund die Kosten von Bushaltestellen an Nationalstrassen nicht übernimmt;
+- c. in der Regel vom Kanton bei Umsteigehaltestellen von regionaler Bedeutung.
+
+<sup>2</sup> Bei Bushaltestellen an Gemeindestrassen, die vorwiegend der Erschliessung kantonaler oder anderer regional wichtiger öffentlicher Bauten und Anlagen dienen, kann sich der Kanton auf Antrag der Standortgemeinde mit bis zu 100 % der Erstellungskosten beteiligen.
+
+<sup>3</sup> Einrichtungen, die in unmittelbarem Zusammenhang mit dem Betrieb einer Buslinie stehen, wie solche zur Fahrgastinformation oder zum Verkauf von Fahrscheinen, werden durch den Besteller des betreffenden Angebots des öffentlichen Verkehrs finanziert.
+
+<sup>4</sup> Für den betrieblichen Unterhalt der Möblierung und für die Abfallbeseitigung ist bei allen Bushaltestellen die Standortgemeinde zuständig.
+
+<sup>5</sup> Der Regierungsrat regelt in der Verordnung die Voraussetzungen für die Kostentragung gemäss Abs. 1 Bst. c und für die Kostenbeteiligung gemäss Abs. 2.
 
 #### § 35
 
@@ -381,7 +392,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Unterhalt und Betrieb von Strassenbeleuchtungsanlagen**
 
-<sup>1</sup> Die Kosten für Unterhalt und Betrieb von Beleuchtungsanlagen an Kantonsstrassen trägt der Kanton. Innerhalb des Baugebietes tragen die Gemeinden die Energiekosten.
+<sup>1</sup> Die Kosten für Unterhalt und Betrieb von Beleuchtungsanlagen an Kantonsstrassen trägt der Kanton. Innerhalb des Baugebiets tragen die Gemeinden die Energiekosten.
 
 ## 6<sup>bis</sup> Gewerbeparkkarte
 
@@ -405,7 +416,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Fahrzeugeinsatz**
 
-<sup>1</sup> Der Gewerbebetrieb muss im Antrag auf Erteilung einer Gewerbeparkkarte glaubhaft darlegen, dass er für den Transport von Material, Maschinen oder Werkzeug ein Fahrzeug benötigt und
+<sup>1</sup> Der Gewerbebetrieb muss im Antrag auf Erteilung einer Gewerbeparkkarte glaubhaft darlegen, dass er für den Transport von Material, Maschinen oder Werkzeug ein Fahrzeug benötigt und:
 
 - a. ihm aufgrund des Gewichts, der Grösse oder der Beschaffenheit der Ladung der Transport in einem öffentlichen Verkehrsmittel nicht zugemutet werden kann oder
 - b. er auf die Mitführung eines Ersatzteil- oder Werkzeugsortiments angewiesen ist.
@@ -428,35 +439,35 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Es gelten folgende Parkierberechtigungen (inklusive Anhänger) auf öffentlichem Grund, ausgenommen mit Schranken abgesperrte Parkflächen oder Parkhäuser:
 
-- a. Zeitlich unbegrenztes Parkieren in der blauen Zone[^37e-1];
+- a. zeitlich unbegrenztes Parkieren in der blauen Zone[^37e-1];
 - b. zeitlich unbegrenztes Parkieren auf Parkierungsflächen, die ein Parkieren von 2 Stunden und länger zulassen;
-- c. Parkieren bis maximal 4 Stunden an Stellen, für die ein Parkverbot gilt, wobei
-  - 1\. Parkierverbote gemäss Artikel 19 Absätze 2-4 der Verkehrsregelnverordnung[^37e-2] zu beachten sind;
+- c. Parkieren bis maximal 4 Stunden an Stellen, für die ein Parkverbot gilt, wobei:
+  - 1\. Parkierverbote gemäss Art. 19 Abs. 2–4 der Verkehrsregelnverordnung[^37e-2] zu beachten sind;
   - 2\. der Beginn der Parkzeit mit der Parkscheibe anzuzeigen ist;
   - 3\. Flächen mit der Aufschrift «Polizei», «Taxi» oder dergleichen ausgenommen sind.
 
-<sup>2</sup> Fahrzeuge, die berechtigterweise mit einer Gewerbeparkkarte parkiert sind, müssen keine weiteren, öffentlichen Parkierungsgebühren (Parkuhren usw.) entrichten.
+<sup>2</sup> Fahrzeuge, die berechtigterweise mit einer Gewerbeparkkarte parkiert sind, müssen keine weiteren öffentlichen Parkierungsgebühren (Parkuhren usw.) entrichten.
 
-<sup>3</sup> Die Parkierberechtigung ist auf den notwendigen Fahrzeugeinsatz (§37c) und auf die Dauer des Arbeitseinsatzes beschränkt.
+<sup>3</sup> Die Parkierberechtigung ist auf den notwendigen Fahrzeugeinsatz (§ 37c) und auf die Dauer des Arbeitseinsatzes beschränkt.
 
 <sup>4</sup> Die Gewerbeparkkarte ist von aussen gut sichtbar hinter der Frontscheibe anzubringen.
 
-[^37e-1]: Artikel 48 Absatz 2 Buchstabe a Signalisationsverordnung (SR [741.21](https://db.clex.ch/link/Bund/741.21/de))
-[^37e-2]: Verkehrsregelnverordnung vom 13. November 1962 (VRV; SR [741.11](https://db.clex.ch/link/Bund/741.11/de))
+[^37e-1]: Art. 48a Abs. 2 Bst. a Signalisationsverordnung ([SR 741.21](https://db.clex.ch/link/Bund/741.21/de))
+[^37e-2]: Verkehrsregelnverordnung vom 13. November 1962 (VRV; [SR 741.11](https://db.clex.ch/link/Bund/741.11/de))
 
 #### § 37f
 
 **Gebühren**
 
-<sup>1</sup> Die Gebühr für die Gewerbeparkkarte beträgt CHF 100 pro Jahr.
+<sup>1</sup> Die Gebühr für die Gewerbeparkkarte beträgt CHF 100.– pro Jahr.
 
 #### § 37g
 
 **Einnahmenverteilung**
 
-<sup>1</sup> Der Kanton erhält CHF 30 für jede ausgestellte Gewerbeparkkarte.
+<sup>1</sup> Der Kanton erhält CHF 30.– für jede ausgestellte Gewerbeparkkarte.
 
-<sup>2</sup> CHF 70 werden im Verhältnis der Anzahl Einwohnerinnen und Einwohner unter den Gemeinden aufgeteilt.
+<sup>2</sup> CHF 70.– werden im Verhältnis der Anzahl Einwohnerinnen und Einwohner unter den Gemeinden aufgeteilt.
 
 #### § 37h
 
@@ -474,17 +485,17 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Der Regierungsrat kann mit anderen Kantonen, mit ausserkantonalen Gemeinden oder mit ausländischen Behörden einen Staatsvertrag über die Ausstellung von Gewerbeparkkarten im Paket abschliessen.
 
-<sup>2</sup> Der Regierungsrat schliesst die Staatsverträge im Sinne von § 77 Absatz 1 Buchstabe d der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^37i-1] endgültig ab.
+<sup>2</sup> Der Regierungsrat schliesst die Staatsverträge im Sinne von § 77 Abs. 1 Bst. d der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^37i-1] endgültig ab.
 
 <sup>3</sup> Ein Staatsvertrag darf abgeschlossen werden, sofern folgende Voraussetzungen erfüllt sind:
 
-- a. Der Fahrzeugeinsatz und die Parkierberechtigung sind im Vertragsgebiet mindestens im Umfang gemäss § 37c und § 37e auf allen Parkfeldern gewährleistet; es gibt keine weitergehenden Ausnahmen;
-- b. die Gebühr für das Paket der Gewerbeparkkarten muss tiefer sein als die Summe der einzelnen Gewerbeparkkarten;
-- c. der Gebührenanteil der Gemeinden von mindestens CHF 70 muss gewahrt bleiben;
-- d. Einnahmenverteilung: Nach Abzug von CHF 30 zugunsten der ausstellenden Behörde werden die Einnahmen im Verhältnis der Gebühren der Einzel-Gewerbeparkkarten der Vereinbarungspartner geteilt; die innerkantonale Verteilung richtet sich nach § 37g Absatz 2;
-- e. der Bezug steht basellandschaftlichen, ausserkantonalen und ausländischen Gewerbebetrieben offen.
+- a. Der Fahrzeugeinsatz und die Parkierberechtigung sind im Vertragsgebiet mindestens im Umfang gemäss § 37c und § 37e auf allen Parkfeldern gewährleistet; es gibt keine weitergehenden Ausnahmen.
+- b. Die Gebühr für das Paket der Gewerbeparkkarten muss tiefer sein als die Summe der einzelnen Gewerbeparkkarten.
+- c. Der Gebührenanteil der Gemeinden von mindestens CHF 70.– muss gewahrt bleiben.
+- d. Einnahmenverteilung: Nach Abzug von CHF 30.– zugunsten der ausstellenden Behörde werden die Einnahmen im Verhältnis der Gebühren der Einzel-Gewerbeparkkarten der Vereinbarungspartner geteilt; die innerkantonale Verteilung richtet sich nach § 37g Abs. 2.
+- e. Der Bezug steht basellandschaftlichen, ausserkantonalen und ausländischen Gewerbebetrieben offen.
 
-[^37i-1]: GS 29.276, SGS [100](https://bl.clex.ch/data/100/de)
+[^37i-1]: [SGS 100](https://bl.clex.ch/data/100/de/art77)
 
 #### § 37j
 
@@ -496,8 +507,8 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>3</sup> Vorbehalten bleiben die eidgenössischen Strafbestimmungen.
 
-[^37j-1]: SR [741.031](https://db.clex.ch/link/Bund/741.031/de)
-[^37j-2]: SR [741.03](https://db.clex.ch/link/Bund/741.03/de)
+[^37j-1]: [SR 314.11](https://db.clex.ch/link/Bund/314.11/de)
+[^37j-2]: [SR 314.1](https://db.clex.ch/link/Bund/314.1/de)
 
 ## 7 Verwaltung und Benutzung der Strassen
 
@@ -513,7 +524,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Gemeingebrauch**
 
-<sup>1</sup> Die öffentlichen Strassen dürfen im Umfang ihrer Zweckbestimmung, ihrer Gestaltung und ihres Zustandes sowie der örtlichen Verhältnisse durch jedermann und ohne besondere Erlaubnis im Rahmen der gesetzlichen Bestimmungen benützt werden.
+<sup>1</sup> Die öffentlichen Strassen dürfen im Umfang ihrer Zweckbestimmung, ihrer Gestaltung und ihres Zustands sowie der örtlichen Verhältnisse durch jedermann und ohne besondere Erlaubnis im Rahmen der gesetzlichen Bestimmungen benützt werden.
 
 <sup>2</sup> Der Gemeingebrauch kann im öffentlichen Interesse allgemein verbindlichen Einschränkungen unterstellt werden.
 
@@ -563,7 +574,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>3</sup> Ablagerungen auf öffentlichem Strassenareal sind verboten, sofern sie nicht gemäss den §§ 26, 40 oder 41 bewilligt werden.
 
-<sup>4</sup> Wasser darf nicht von privaten Plätzen und Wegen, von Dachtraufen oder aus offenen Rinnen und Röhren über öffentliche Strassen und Plätze abgeleitet werden. Bestehende Ableitungen dürfen bis auf weiteres belassen werden, sofern der Gemeingebrauch der Strassen und Plätze nicht beeinträchtigt wird.
+<sup>4</sup> Wasser darf nicht von privaten Plätzen und Wegen, von Dachtraufen oder aus offenen Rinnen und Röhren über öffentliche Strassen und Plätze abgeleitet werden. Bestehende Ableitungen dürfen bis auf Weiteres belassen werden, sofern der Gemeingebrauch der Strassen und Plätze nicht beeinträchtigt wird.
 
 #### § 43
 
@@ -579,7 +590,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Die kantonalen Behörden leiten unverzüglich die nachfolgenden Massnahmen ein, um im Interesse der betroffenen Anwohner und Verkehrsteilnehmer Verkehrsstaus zu verhindern bzw. solche unverzüglich abzubauen:
 
-- a. Planung und Umsetzung von Verkehrsleit-Massnahmen unter umfassender Berücksichtigung der möglichen Szenarien, insbesondere von vorhersehbaren Szenarien wie Grossveranstaltungen, Ferienverkehr usw.;
+- a. Planung und Umsetzung von Verkehrsleitmassnahmen unter umfassender Berücksichtigung der möglichen Szenarien, insbesondere von vorhersehbaren Szenarien wie Grossveranstaltungen, Ferienverkehr usw.;
 - b. Erarbeiten von vorsorglichen Massnahmen- und Einsatzplänen für unvorhersehbare Verkehrsengpässe und -blockaden bei Unfällen, Elementarereignissen usw.;
 - c. Sicherstellung der Zusammenarbeit der zuständigen kantonalen Behörden sowie der Zusammenarbeit mit zuständigen ausserkantonalen Stellen;
 - d. die Bereitstellung und den Einsatz von ausreichendem Fachpersonal und technischen Mitteln.
@@ -594,10 +605,10 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Tunnelbau[^43b-1]**
 
-<sup>1</sup> Zur langfristigen Sicherstellung der Leistungsfähigkeit der Nord-Süd-Autobahnverbindung (A2) durch den Jura leiten die kantonalen Behörden beim Belchentunnel unter der Federführung des Regierungsrates unverzüglich alle rechtlich und sachlich notwendigen Schritte zur Bewilligung und unverzüglichen Umsetzung folgender Massnahmen ein:
+<sup>1</sup> Zur langfristigen Sicherstellung der Leistungsfähigkeit der Nord-Süd-Autobahnverbindung (A2) durch den Jura leiten die kantonalen Behörden beim Belchentunnel unter der Federführung des Regierungsrats unverzüglich alle rechtlich und sachlich notwendigen Schritte zur Bewilligung und unverzüglichen Umsetzung folgender Massnahmen ein:
 
 - a. Für die periodisch notwendigen Unterhalts- und Sanierungsarbeiten an den beiden bestehenden Tunnelröhren ist eine vollwertige 3. Tunnelröhre zu bauen.
-- b. Bei allen 3 Röhren sind die Einrichtungen für Verkehrssicherheit, Brandschutz und Flucht zur Erreichung eines optimalen Wirkungsgrades laufend dem neuesten technologischen Stand anzupassen.
+- b. Bei allen 3 Röhren sind die Einrichtungen für Verkehrssicherheit, Brandschutz und Flucht zur Erreichung eines optimalen Wirkungsgrads laufend dem neuesten technologischen Stand anzupassen.
 
 <sup>2</sup> Der Regierungsrat erstattet der Öffentlichkeit über die eingeleiteten Schritte und über den Sachstand mindestens halbjährlich Bericht.
 
