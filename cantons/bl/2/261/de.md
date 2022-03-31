@@ -4,13 +4,12 @@ number: "261"
 title: Gesetz über den Vollzug von Strafen und Massnahmen
 short: "Strafvollzugsgesetz, StVG"
 language: de
-version: 2022-01-01
-valid_until: 2022-03-31
-version_adopted: 2021-01-14
+version: 2022-04-01
+version_adopted: 2021-12-15
 adopted: 2005-04-21
 in_force: 2007-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/261"
-pdf: "https://bl.clex.ch/api/de/versions/3149/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3677/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3149/pdf_file"
 
 (Strafvollzugsgesetz, StVG)
 
-Vom 21.04.2005 (Stand 01.01.2022)
+Vom 21.04.2005 (Stand 01.04.2022)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -27,7 +26,7 @@ gestützt auf § 63 Abs. 1 der Verfassung des Kantons Basel-Landschaft vom 17. M
 
 beschliesst:
 
-[^ingress-1]: GS 29.276, SGS [100](https://bl.clex.ch/data/100/de/art63)
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art63)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -65,7 +64,7 @@ beschliesst:
 
 [^2a-2]
 
-[^2a-2]: Die Reihenfolge der nachfolgenden Bestimmungen richtet sich nach der Systematik des StGB (SR [311.0](https://db.clex.ch/link/Bund/311.0/de)).
+[^2a-2]: Die Reihenfolge der nachfolgenden Bestimmungen richtet sich nach der Systematik des StGB ([SR 311.0](https://db.clex.ch/link/Bund/311.0/de)).
 
 #### § 3
 
@@ -73,7 +72,7 @@ beschliesst:
 
 <sup>1</sup> Vollzugsbehörde für Geldstrafen und Bussen ist das urteilende Gericht.
 
-<sup>2</sup> Das Präsidium des urteilenden Gerichts entscheidet über die Verlängerung der Zahlungsfrist, die Herabsetzung des Tagessatzes oder die Anordnung von gemeinnütziger Arbeit (Art. 36 Abs. 3 Bst. a–c StGB).
+<sup>2</sup> …
 
 <sup>3</sup> Das Präsidium des urteilenden Gerichts stellt fest, wann eine Geldstrafe oder Busse uneinbringlich ist und an ihrer Stelle eine Ersatzfreiheitsstrafe vollzogen werden muss. Es beauftragt die Vollzugsbehörde gemäss § 4 mit dem Vollzug der Ersatzfreiheitsstrafe.
 
@@ -81,11 +80,13 @@ beschliesst:
 
 **Vollzug von Freiheitsstrafen und Massnahmen: zuständige Behörde**
 
-<sup>1</sup> Vollzugsbehörde für Urteile der kantonalen Gerichte in Strafsachen sowie für Urteile der Bundesstrafbehörden, die von den Kantonen zu vollstrecken sind, ist hinsichtlich der Freiheitsstrafen, Nebenstrafen und Massnahmen die Sicherheitsdirektion. Sie ist «zuständige Behörde» im Sinne des 3. und 7. Titels des StGB, sofern nicht anderweitige Regelungen bestehen.
+<sup>1</sup> Vollzugsbehörde für Urteile der kantonalen Gerichte in Strafsachen sowie für Urteile der Bundesstrafbehörden, die von den Kantonen zu vollstrecken sind, ist hinsichtlich der Freiheitsstrafen und Massnahmen sowie des vorzeitigen Straf- oder Massnahmenvollzugs gemäss Art. 236 der Schweizerischen Strafprozessordnung (StPO) vom 5. Oktober 2007[^4-1] die Sicherheitsdirektion. Sie ist «zuständige Behörde» oder «Vollzugsbehörde» im Sinne des ersten und dritten Buches des Schweizerischen Strafgesetzbuches, sofern nicht anderweitige Regelungen bestehen.
 
 <sup>2</sup> Strafentscheide anderer kantonaler Behörden sind den Urteilen der kantonalen Gerichte gleichgestellt.
 
 <sup>3</sup> Das urteilende Gericht oder die Behörde übermittelt nach Eintritt der Rechtskraft einen Urteilsauszug an die Vollzugsbehörde.
+
+[^4-1]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
 
 #### § 5
 
@@ -101,20 +102,26 @@ beschliesst:
 
 **Allgemeine Kompetenzen der Vollzugsbehörde**
 
-<sup>1</sup> Die Vollzugsbehörde plaziert die verurteilte Person in einer geeigneten Anstalt. Sie berücksichtigt dabei die Ausführungen des Urteils, des Gutachtens sowie die persönlichen Voraussetzungen und die Gefährlichkeit der verurteilten Person.
+<sup>1</sup> Die Vollzugsbehörde platziert die Person, bei welcher eine rechtskräftige oder vorzeitige Strafe oder Massnahme zu vollziehen ist, in einer geeigneten Anstalt. Sie berücksichtigt dabei die Ausführungen des Urteils, des Gutachtens sowie die persönlichen Umstände und die Gefährlichkeit der betroffenen Person.
 
 <sup>2</sup> Die Vollzugsbehörde ist zuständig für:
 
 - a. die Gewährung von Urlaub;
 - b. die Bewilligung von Arbeit ausserhalb der Anstalt;
 - c. die Verlegung in offenere Abteilungen innerhalb der Anstalt, in andere Anstalten sowie in das Arbeits- und Wohnexternat;
-- d. die bedingte Entlassung, vorbehältlich der Fälle von Art. 64 Abs. 3 und 64c Abs. 4–6 StGB[^6-1];
+- d. die bedingte Entlassung, vorbehältlich der Fälle von Art. 64 Abs. 3 und Art. 64c Abs. 4–6 StGB;
 - e. die Anordnung von Weisungen;
 - f. die Festlegung der Probezeit.
 
 <sup>3</sup> Sie kann die Zuständigkeit zur Verlegung innerhalb der Anstalt und zur Gewährung von Urlaub an die Strafanstalt delegieren.
 
-[^6-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+#### § 6a
+
+**Besondere Bestimmungen betreffend Beschwerdeverfahren**
+
+<sup>1</sup> Rechtsmittelinstanz gegen Entscheide der Vollzugsbehörde betreffend die Entlassung aus dem Straf- und Massnahmenvollzug ist das Kantonsgericht, Abteilung Verfassungs- und Verwaltungsrecht. Das Verfahren richtet sich nach dem Gesetz vom 16. Dezember 1993[^6a-1] über die Verfassungs- und Verwaltungsprozessordnung (VPO).
+
+[^6a-1]: [SGS 271](https://bl.clex.ch/data/271/de)
 
 #### § 7
 
@@ -123,6 +130,24 @@ beschliesst:
 <sup>1</sup> ...
 
 <sup>2</sup> Anordnungen der Vollzugsbehörde sind unmittelbar vollstreckbar. Beschwerden dagegen kommt keine aufschiebende Wirkung zu, wenn nicht die Beschwerdeinstanz auf Gesuch hin diese verfügt.
+
+#### § 7a
+
+**Datenbearbeitung und Abrufverfahren**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter des Justizvollzugs sowie weitere mit dem Vollzug beauftragte Personen sind berechtigt, die über eine sich im Vollzug befindende Person angelegten Daten, einschliesslich besonderer Personendaten, zu bearbeiten, soweit dies für die Erfüllung ihrer gesetzlichen Aufgabe erforderlich ist.
+
+<sup>2</sup> Psychiaterinnen und Psychiater, Ärztinnen und Ärzte, Psychologinnen und Psychologen und andere Fachpersonen, die mit einer Begutachtung, Behandlung oder Betreuung der sich im Vollzug befindlichen Person beauftragt sind, dürfen in die Vollzugsakten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, Einsicht nehmen, soweit die Aktenkenntnis für ihre Aufgabenerfüllung erforderlich ist. Dies gilt auch für die Anbahnung solcher Aufträge.
+
+<sup>3</sup> Die Personen gemäss Abs. 1 und 2 sind im Rahmen ihres Auftrags von ihren gesetzlichen Geheimhaltungspflichten entbunden. Sie teilen der Vollzugsbehörde und der Leitung der Vollzugseinrichtung ungeachtet allfälliger Geheimhaltungspflichten ihre Erkenntnisse, Diagnosen und Prognosen mit. Sie klären die betroffenen Personen vor Beginn der Behandlung, Begutachtung oder Betreuung darüber sowie über ihr Recht auf Schweigen auf.
+
+<sup>4</sup> Personendaten gemäss den Abs. 1–3 können auch mittels Abrufverfahren beschafft oder zugänglich gemacht werden. Der Regierungsrat regelt die Einzelheiten.
+
+#### § 7b
+
+**Videokonferenz**
+
+<sup>1</sup> Vorbehältlich besonderer Bestimmungen, welche die Schriftlichkeit oder die persönliche Anwesenheit vorschreiben, kann der Verkehr zwischen der sich im Vollzug befindlichen Person, der Vollzugsbehörde und gegebenenfalls weiteren Behörden oder Stellen auch mittels Videokonferenz erfolgen.
 
 #### § 8
 
@@ -142,23 +167,17 @@ beschliesst:
 
 <sup>1</sup> Das Präsidium des Gerichts, welches das Sachurteil gefällt hat, entscheidet über Anträge der Vollzugsbehörde betreffend:
 
-- a. die Verlängerung einer stationären therapeutischen Massnahme gemäss Art. 60 Abs. 4 StGB[^9-1];
-- b. die Abänderung einer stationären therapeutischen Massnahme gestützt auf Art. 62c Abs. 3 und 6 StGB[^9-2], ausgenommen in eine stationäre Massnahme nach Art. 59 StGB und in eine Verwahrung nach Art. 64 StGB.
+- a. die Verlängerung einer stationären therapeutischen Massnahme gemäss Art. 60 Abs. 4 StGB;
+- b. die Abänderung einer stationären therapeutischen Massnahme gestützt auf Art. 62c Abs. 3 und 6 StGB, ausgenommen in eine stationäre Massnahme nach Art. 59 StGB und in eine Verwahrung nach Art. 64 StGB.
 
 <sup>1<sup>bis</sup></sup> Die Dreierkammer des Gerichts, welches das Sachurteil gefällt hat, entscheidet über Anträge der Vollzugsbehörde betreffend:
 
-- a. die Verlängerung einer stationären therapeutischen Massnahme gemäss Art. 59 Abs. 4 StGB[^9-3];
-- b. die Abänderung einer stationären therapeutischen Massnahme gestützt auf Art. 62c Abs. 3 und 6 StGB[^9-4], ausgenommen in eine Verwahrung nach Art. 64 StGB.
+- a. die Verlängerung einer stationären therapeutischen Massnahme gemäss Art. 59 Abs. 4 StGB;
+- b. die Abänderung einer stationären therapeutischen Massnahme gestützt auf Art. 62c Abs. 3 und 6 StGB, ausgenommen in eine Verwahrung nach Art. 64 StGB.
 
 <sup>2</sup> Zuständig für die Verlängerung der Probezeit gemäss Art. 62 Abs. 4 StGB ist das Präsidium des Gerichts, welches das Sachurteil gefällt hat.
 
-<sup>3</sup> Die Vollzugsbehörde ist zuständig für den Entscheid über die Aufhebung einer stationären Massnahme (Art. 62c StGB[^9-5]) und den Vollzug der Reststrafe sowie deren Aufschub (Art. 62c Abs. 2 StGB).
-
-[^9-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
-[^9-2]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
-[^9-3]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
-[^9-4]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
-[^9-5]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+<sup>3</sup> Die Vollzugsbehörde ist zuständig für den Entscheid über die Aufhebung einer stationären Massnahme (Art. 62c StGB) und den Vollzug der Reststrafe sowie deren Aufschub (Art. 62c Abs. 2 StGB).
 
 #### § 10
 
@@ -167,18 +186,15 @@ beschliesst:
 <sup>1</sup> Das Präsidium des Gerichts, welches das Sachurteil gefällt hat, entscheidet über Anträge der Vollzugsbehörde betreffend:
 
 - a. die Verlängerung der ambulanten Massnahmen gemäss Art. 63 Abs. 4 StGB;
-- b. die Abänderung einer ambulanten Massnahme gestützt auf Art. 63b Abs. 5 StGB[^10-1], ausgenommen in eine stationäre Massnahme nach Art. 59 StGB;
+- b. die Abänderung einer ambulanten Massnahme gestützt auf Art. 63b Abs. 5 StGB, ausgenommen in eine stationäre Massnahme nach Art. 59 StGB;
 - c. die Anrechnung eines allfälligen mit der ambulanten Behandlung verbundenen Freiheitsentzugs auf den Vollzug der Freiheitsstrafe gemäss Art. 63b Abs. 4 StGB.
 
-<sup>1<sup>bis</sup></sup> Die Dreierkammer des Gerichts, welches das Sachurteil gefällt hat, entscheidet über Anträge der Vollzugsbehörde betreffend die Abänderung einer ambulanten Massnahme gestützt auf Art. 63b Abs. 5 StGB[^10-2] in eine stationäre Massnahme nach Art. 59 StGB.
+<sup>1<sup>bis</sup></sup> Die Dreierkammer des Gerichts, welches das Sachurteil gefällt hat, entscheidet über Anträge der Vollzugsbehörde betreffend die Abänderung einer ambulanten Massnahme gestützt auf Art. 63b Abs. 5 StGB in eine stationäre Massnahme nach Art. 59 StGB.
 
 <sup>2</sup> Die Vollzugsbehörde ist zuständig für:
 
 - a. eine vorübergehende stationäre Platzierung gemäss Art. 63 Abs. 3 StGB;
 - b. für den Entscheid über den Vollzug der aufgeschobenen Freiheitsstrafe gemäss Art. 63b Abs. 1–3 StGB.
-
-[^10-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
-[^10-2]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 #### § 11
 
@@ -214,25 +230,11 @@ beschliesst:
 
 #### § 13b
 
-**Sicherheitshaft in Verfahren betreffend nachträgliche Entscheide**
-
-<sup>1</sup> Die Vollzugsbehörde kann eine Person vor oder mit der Einleitung eines Verfahrens auf Erlass eines nachträglichen richterlichen Entscheides gemäss Art. 363 ff. StPO in Sicherheitshaft setzen, wenn eine hinreichende Wahrscheinlichkeit besteht, dass es zur Rückversetzung in den Straf- oder Massnahmenvollzug oder zur Anordnung des Vollzugs einer freiheitsentziehenden Massnahme oder einer Freiheitsstrafe kommt und:
-
-- a. die Öffentlichkeit oder bestimmte Personen ohne Inhaftierung erheblich gefährdet wären, oder
-- b. die Inhaftierung zur Erfüllung des Massnahmenzwecks erforderlich ist, oder
-- c. Fluchtgefahr vorliegt.
-
-<sup>2</sup> Die Vollzugsbehörde führt in sinngemässer Anwendung von Art. 224 StPO ein Haftverfahren durch. Soll die inhaftierte Person in Haft bleiben, beantragt die Vollzugsbehörde dem Zwangsmassnahmengericht die Anordnung der Sicherheitshaft. Für das Verfahren vor dem Zwangsmassnahmengericht sind Art. 225 und 226 StPO sinngemäss anwendbar.
+**…**
 
 #### § 13c
 
-**Sicherheitshaft während des Gerichtsverfahrens**
-
-<sup>1</sup> Nach der Einleitung eines Verfahrens gemäss Art. 363 ff. StPO ist die Verfahrensleitung zuständig für die Inhaftierung, das Haftverfahren und den Antrag an das Zwangsmassnahmengericht betreffend Anordnung der Sicherheitshaft im Sinne von § 13b.
-
-<sup>2</sup> Bei Gefahr im Verzug kann anstelle der Verfahrensleitung die Vollzugsbehörde die Massnahmen gemäss Abs. 1 treffen.
-
-<sup>3</sup> Die Bestimmungen der Art. 227 und 230–233 StPO sind sinngemäss anwendbar.
+**…**
 
 #### § 14
 
@@ -262,13 +264,9 @@ beschliesst:
 
 **Bewährungshilfe, Weisungen (Art. 95 StGB)**
 
-<sup>1</sup> Zuständig für Entscheide gemäss Art. 95 Abs. 4 StGB[^18-1] sind bei bedingt aufgeschobenen Strafen das Präsidium des urteilenden Gerichts und bei bedingten Entlassungen die Vollzugsbehörde.
+<sup>1</sup> Zuständig für Entscheide gemäss Art. 95 Abs. 4 StGB sind bei bedingt aufgeschobenen Strafen das Präsidium des urteilenden Gerichts und bei bedingten Entlassungen die Vollzugsbehörde.
 
-<sup>2</sup> Die Zuständigkeit (Präsidium, Dreier- oder Fünferkammer des Strafgerichts oder Dreier- oder Fünferkammer des Kantonsgerichts) für die Rückversetzung in den Straf- und Massnahmenvollzug im Sinne von Art. 95 Abs. 5 StGB[^18-2] richtet sich nach der Höhe der Reststrafe[^18-3].
-
-[^18-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
-[^18-2]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
-[^18-3]: GS 37.85, SGS [250](https://bl.clex.ch/data/250/de)
+<sup>2</sup> Die Zuständigkeit (Präsidium, Dreier- oder Fünferkammer des Strafgerichts oder Dreier- oder Fünferkammer des Kantonsgerichts) für die Rückversetzung in den Straf- und Massnahmenvollzug im Sinne von Art. 95 Abs. 5 StGB richtet sich nach der Höhe der Reststrafe.
 
 #### § 19
 
@@ -306,7 +304,9 @@ beschliesst:
 
 **Koordinationsstelle Strafregister**
 
-<sup>1</sup> Die Sicherheitsdirektion ist die Koordinationsstelle gemäss Art. 367 Abs. 1 Bst. e StGB.
+<sup>1</sup> Die Sicherheitsdirektion ist die Koordinationsstelle gemäss Art. 4 Abs. 1 Strafregistergesetz (StReG)[^22-1].
+
+[^22-1]: [SR 330](https://db.clex.ch/link/Bund/330/de)
 
 #### § 23
 
@@ -322,13 +322,22 @@ beschliesst:
 
 **Anstalten für Haft und Straf- und Massnahmenvollzug**
 
-<sup>1</sup> Der Regierungsrat erlässt Vorschriften über den Straf- und Massnahmenvollzug im Sinne der Art. 377 ff. StGB.
+<sup>1</sup> Der Regierungsrat erlässt Vorschriften über den Vollzug von strafprozessualer Haft gemäss Art. 235 Abs. 5 StPO sowie den Vollzug von Strafen und Massnahmen gemäss Art. 377 ff. StGB.
 
 <sup>2</sup> Die Sicherheitsdirektion übt die Aufsicht über die Gefängnisse und die Vollzugseinrichtungen im Kanton sowie über Privatanstalten gemäss Art. 379 StGB aus, soweit diese nicht der Aufsicht anderer kantonaler Stellen unterstehen.
 
-<sup>3</sup> Der Regierungsrat erlässt Vorschriften über den Betrieb und die Organisation der Einrichtungen nach Abs. 2. Die Freiheit der platzierten Personen darf nur so weit beschränkt werden, als es der Zweck des Freiheitsentzugs und die Aufrechterhaltung des Anstaltsbetriebs erfordern.
+<sup>3</sup> Der Regierungsrat erlässt Vorschriften über den Betrieb und die Organisation der Einrichtungen nach Abs. 2. Er stellt sicher, dass:
+
+- a. die Freiheit der platzierten Personen nur so weit beschränkt werden darf, als es der Zweck des Freiheitsentzugs und die Aufrechterhaltung des Anstaltsbetriebs erfordern;
+- b. den besonderen Anforderungen von Personen mit Behinderungen oder anderweitigen gesundheitlichen Beeinträchtigungen Rechnung getragen wird.
 
 <sup>4</sup> Für die Verpflegung und die Betreuung der Gefangenen können Kostenanteile erhoben werden. Der Regierungsrat regelt die Kostenansätze.
+
+#### § 24a
+
+**Einspracheverfahren**
+
+<sup>1</sup> Für Verfügungen betreffend Disziplinar- oder anderen Massnahmen gegenüber eingewiesenen Personen des Massnahmenzentrums für junge Erwachsene Arxhof sowie der basellandschaftlichen Gefängnisse ist das Einspracheverfahren gemäss § 41 des Verwaltungsverfahrensgesetzes anwendbar.
 
 ## D. Interkantonale Zusammenarbeit
 
@@ -346,9 +355,9 @@ beschliesst:
 
 <sup>1</sup> Der Landrat ist die zuständige Behörde für Begnadigungen gemäss Art. 381 f. StGB und im Sinne von § 67 Abs. 1 Bst. g der Kantonsverfassung[^26-1] sowie für Urteile, die aufgrund kantonalen Rechts ergangen sind, vorbehältlich Abs. 2.
 
-<sup>2</sup> Begnadigungsgesuche betreffend Urteile, welche auf Grund des eidgenössischen oder kantonalen Rechts ergangen sind und auf eine Busse lauten, werden durch die landrätliche Petitionskommission endgültig beurteilt.
+<sup>2</sup> Begnadigungsgesuche betreffend Urteile, welche aufgrund des eidgenössischen oder kantonalen Rechts ergangen sind und auf eine Busse lauten, werden durch die landrätliche Petitionskommission endgültig beurteilt.
 
-[^26-1]: GS 29.276, SGS [100](https://bl.clex.ch/data/100/de/art67)
+[^26-1]: [SGS 100](https://bl.clex.ch/data/100/de/art67)
 
 #### § 27
 
@@ -380,9 +389,9 @@ beschliesst:
 
 <sup>2</sup> Das Gesetz vom 3. Juni 1999[^30-3] betreffend die Strafprozessordnung (StPO) wird wie folgt geändert: ...[^30-4]
 
-[^30-1]: GS 18.592, SGS [241](https://bl.clex.ch/data/241/de)
+[^30-1]: GS 18.592
 [^30-2]: GS 35.1099
-[^30-3]: GS 33.825, SGS [251](https://bl.clex.ch/data/251/de)
+[^30-3]: GS 33.825
 [^30-4]: GS 35.1099
 
 #### § 31
