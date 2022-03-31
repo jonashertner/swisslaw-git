@@ -4,13 +4,13 @@ number: "131.1"
 title: Dekret zum Gesetz über die Organisation und die Geschäftsführung des Landrats
 short: Geschäftsordnung des Landrats
 language: de
-version: 2021-10-01
-valid_until: 2022-03-31
-version_adopted: 2021-09-16
+version: 2022-04-01
+valid_until: 2023-12-31
+version_adopted: 2022-01-13
 adopted: 1994-11-21
 in_force: 1995-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/131.1"
-pdf: "https://bl.clex.ch/api/de/versions/3096/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3222/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3096/pdf_file"
 
 (Geschäftsordnung des Landrats)
 
-Vom 21.11.1994 (Stand 01.10.2021)
+Vom 21.11.1994 (Stand 01.04.2022)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -803,15 +803,15 @@ beschliesst:
 
 **Petitionen**
 
-<sup>1</sup> Petitionen werden von der Petitionskommission oder von der Geschäftsleitung vorberaten. Beziehen sie sich auf hängige Sachgeschäfte oder auf die Geschäftsführung der kantonalen Verwaltung und der Gerichte, so können sie an die zuständige Kommission oder an den Ombudsman gewiesen werden.
+<sup>1</sup> Petitionen werden von der Petitionskommission oder von der Geschäftsleitung vorberaten. Beziehen sie sich auf hängige Sachgeschäfte oder auf die Geschäftsführung der kantonalen Verwaltung bzw. der Gerichte, so können sie an die zuständige Kommission oder an die Ombudsperson gewiesen werden.
 
 <sup>2</sup> Der Landrat kann die Petitionen dem Regierungsrat als Motion, Postulat oder zur Kenntnisnahme überweisen.
 
 #### § 69a
 
-**Koordination mit dem Ombudsman**
+**Koordination mit der Ombudsperson**
 
-<sup>1</sup> Gelangt eine Person mit einem Anliegen, das auch den Zuständigkeitsbereich des Ombudsman berührt, an den Landrat oder eine Kommission des Landrats, ist das Vorgehen im Sinne von § 8a des Gesetzes über den Ombudsman[^69a-1] zu koordinieren.
+<sup>1</sup> Gelangt eine Person mit einem Anliegen an den Landrat oder an eine seiner Kommissionen, das auch den Zuständigkeitsbereich der Ombudsperson berührt, ist das Vorgehen im Sinn von § 8a des Ombudsgesetzes[^69a-1] zu koordinieren.
 
 [^69a-1]: [SGS 160](https://bl.clex.ch/data/160/de/art8a)
 
