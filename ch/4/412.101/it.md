@@ -4,11 +4,11 @@ title: Ordinanza del 19 novembre 2003 sulla formazione professionale (OFPr)
 short: OFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: it
-version: 2021-02-08
+version: 2022-04-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20210208/it/xml/fedlex-data-admin-ch-eli-cc-2003-748-20210208-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20210208/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2003-748-20220401-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20210208/it"
 
 (OFPr)
 
-del 19 novembre 2003 (Stato 8 febbraio 2021) (Stato 8 febbraio 2021)
+del 19 novembre 2003 (Stato 1° aprile 2022)
 
 Il Consiglio federale svizzero,
 
@@ -50,7 +50,7 @@ La Confederazione collabora di regola con organizzazioni del mondo del lavoro d�
 
 ### (art. 4 LFPr)
 
-<sup>1</sup> La Segretearia di Stato per la formazione, la ricerca e l’innovazione (SEFRI)[^2-1] promuove la ricerca svizzera nel settore della formazione professionale fino a quando non è istituita un’infrastruttura stabile dal profilo organizzativo e delle risorse umane e di livello scientifico internazionalmente riconosciuto.
+<sup>1</sup> La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI)[^2-1] promuove la ricerca svizzera nel settore della formazione professionale fino a quando non è istituita un’infrastruttura stabile dal profilo organizzativo e delle risorse umane e di livello scientifico internazionalmente riconosciuto.
 
 <sup>2</sup> Dieci anni dopo l’entrata in vigore della presente ordinanza, la Confederazione verifica se la ricerca nel settore della formazione professionale può essere integrata nelle strutture nazionali esistenti di promozione della ricerca quale settore della ricerca ordinaria in materia di formazione.
 
@@ -938,7 +938,7 @@ Il credito della Confederazione per contributi forfettari a favore dei Cantoni s
 
 [^62-1]: Abrogato dal n. I 1 dell’O del 7 nov. 2007 (nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-### Sezione 3: Contributi per progetti di sviluppo della formazione professionale e della qualità nonché per prestazioni particolari di interesse pubblico****
+### Sezione 3: Contributi per progetti di sviluppo della formazione professionale e della qualità nonché per prestazioni particolari di interesse pubblico
 
 [^chap8-sec3-1]
 
@@ -973,7 +973,7 @@ I contributi sono calcolati:
 
 <sup>1</sup> I contributi federali per prestazioni particolari di interesse pubblico ai sensi dell’articolo 55 LFPr coprono al massimo il 60 per cento dei costi. In caso di eccezioni motivate possono raggiungere l’80 per cento.
 
-<sup>1bis</sup> Sono considerate prestazioni particolari di interesse pubblico anche i provvedimenti e i progetti della cooperazione internazionale in materia di formazione professionale che contribuiscono al rafforzamento del sistema svizzero della formazione professionale.[^64-1]
+<sup>1bis</sup> ...[^64-1]
 
 <sup>2</sup>
 
@@ -985,9 +985,9 @@ I contributi sono commisurati:
 
 <sup>3</sup> I contributi sono concessi per al massimo cinque anni. È possibile una proroga.
 
-[^64-1]: Introdotto dal n. I dell’O del 25 set. 2015, in vigore dal 1° gen. 2016 ([RU 2015 3807](https://fedlex.data.admin.ch/eli/oc/2015/637)).
+[^64-1]: Introdotto dal n. I dell’O del 25 set. 2015 ([RU 2015 3807](https://fedlex.data.admin.ch/eli/oc/2015/637)). Abrogato dall’art. 36 dell’O del 23 feb. 2022 sulla cooperazione e la mobilità internazionali in materia di formazione, con effetto dal 1° apr. 2022 ([RU 2022 165](https://fedlex.data.admin.ch/eli/oc/2022/165)).
 
-### Sezione 4: Contributi per lo svolgimento degli esami federali di professione e degli esami professionali federali superiori, nonché per i cicli di formazione delle scuole specializzate superiori****
+### Sezione 4: Contributi per lo svolgimento degli esami federali di professione e degli esami professionali federali superiori, nonché per i cicli di formazione delle scuole specializzate superiori
 
 [^chap8-sec4-1]
 
@@ -1056,7 +1056,7 @@ Per un progetto ai sensi dell’articolo 54 LFPr, nella decisione la SEFRI stabi
 [^chap8-sec5-1]: Introdotto dal n. I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 [^66-1]: Abrogata dal n. I dell’O del 15 set. 2017, con effetto dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
-### Sezione 6:**** Contributi alle persone che hanno seguito i corsi di preparazione
+### Sezione 6: Contributi alle persone che hanno seguito i corsi di preparazione
 
 [^chap8-sec6-1]
 
@@ -1253,7 +1253,7 @@ La riduzione o il rifiuto dei contributi federali secondo l’articolo 58 LFPr s
 
 [^chap8-sec7-1]: Nuovo testo giusta il n. I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
-### Sezione 8: Fondo per la formazione professionale****
+### Sezione 8: Fondo per la formazione professionale
 
 [^chap8-sec8-1]
 
@@ -1321,7 +1321,7 @@ La domanda è presentata per scritto alla SEFRI e contiene segnatamente le segue
 [^68b-1]: Introdotto dal n. I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)). I cpv. 5–7 dell’art. 68 diventano cpv. 1–3 dell’art. 68*b.*
 [^68b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-## Capitolo 9: Riconoscimento di titoli esteri****
+## Capitolo 9: Riconoscimento di titoli esteri
 
 [^chap9-1]
 

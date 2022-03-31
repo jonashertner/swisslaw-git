@@ -4,11 +4,11 @@ title: "Ordinance of 19 November 2003 on Vocational and Professional Education a
 short: VPETO
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: en
-version: 2021-02-08
+version: 2022-04-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20210208/en/xml/fedlex-data-admin-ch-eli-cc-2003-748-20210208-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20210208/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20220401/en/xml/fedlex-data-admin-ch-eli-cc-2003-748-20220401-en-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20220401/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Vocational and Professional Education and Training Ordinance, VPETO)
 
-of 19 November 2003 (Status as of 8 February 2021)
+of 19 November 2003 (Status as of 1 April 2022)
 
 The Swiss Federal Council,
 
@@ -938,7 +938,7 @@ Federal lump-sum funding provided to the Cantons under Article 53 VPETA shall be
 
 [^62-1]: Repealed by No I 1 of the O of 7 Nov. 2007 on the New System of Fiscal Equalisation and Division of Tasks between the Confederation and Cantons, with effect from 1 Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-### Section 3 Federal Subsidies for Projects to Develop the VPET System and Improve Quality as well as Specific Activities that Serve the Public Interest****
+### Section 3 Federal Subsidies for Projects to Develop the VPET System and Improve Quality as well as Specific Activities that Serve the Public Interest
 
 [^chap8-sec3-1]
 
@@ -973,7 +973,7 @@ Federal subsidies shall be granted as follows:
 
 <sup>1</sup> Federal subsidies for specific activities that serve the public interest in accordance with Article 55 VPETA shall cover no more than 60 per cent of the total corresponding expenditure. In justifiable cases, this threshold may be extended to a maximum of 80 per cent.
 
-<sup>1bis</sup> Specific activities that serve the public interest also include measures and projects related to international VPET cooperation that serve to improve the Swiss VPET system.[^64-1]
+<sup>1bis</sup> …[^64-1]
 
 <sup>2</sup>
 
@@ -985,9 +985,9 @@ Subsidy amounts shall vary according to:
 
 <sup>3</sup> Activities shall be subsidised for a period not exceeding five years. This period may be extended.
 
-[^64-1]: Inserted by No I of the O of 25 Sept. 2015, in force since 1 Jan. 2016 ([AS 2015 3807](https://fedlex.data.admin.ch/eli/oc/2015/637)).
+[^64-1]: Inserted by No I of the O of 25 Sept. 2015 ([AS 2015 3807](https://fedlex.data.admin.ch/eli/oc/2015/637)). Repealed by Art. 36 of the O of 23 Feb. 2022 on International Cooperation and Mobility in Education, with effect from 1 April 2022 ([AS 2022 165](https://fedlex.data.admin.ch/eli/oc/2022/165)).
 
-### Section 4 Subsidies for Federal Professional Examinations and Study Programmes at Professional Education Institutions****
+### Section 4 Subsidies for Federal Professional Examinations and Study Programmes at Professional Education Institutions
 
 [^chap8-sec4-1]
 
@@ -1056,7 +1056,7 @@ For projects mentioned in Article 54 VPETA, SERI shall provide the following inf
 [^chap8-sec5-1]: Inserted by No I of the O of 15 Sept 2017, in force since 1 Jan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 [^66-1]: Repealed by No I of the O of 15 Sept 2017, with effect from 1 Jan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
-### Section 6**** Subsidies for Completion of Preparatory Courses for Federal Professional Examinations
+### Section 6 Subsidies for Completion of Preparatory Courses for Federal Professional Examinations
 
 [^chap8-sec6-1]
 
@@ -1253,7 +1253,7 @@ The reduction or withholding of federal subsidies mentioned in Article 58 VPETA 
 
 [^chap8-sec7-1]: Amended by No I of the O of 15 Sept 2017, in force since 1 Jan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
-### Section 8 VPET Fund****
+### Section 8 VPET Fund
 
 [^chap8-sec8-1]
 
@@ -1323,7 +1323,7 @@ The request shall be sent to SERI in writing and shall include the following inf
 [^68b-1]: Inserted by No I of the O of 3 Dec. 2010, in force since 1 Jan. 2011 ([AS 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)). The previous Art. 68 Abs. 5–7 have become paras. 1–3 of this Article.
 [^68b-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-## Chapter 9 Recognition of Foreign Qualifications****
+## Chapter 9 Recognition of Foreign Qualifications
 
 [^chap9-1]
 
@@ -1448,7 +1448,7 @@ SERI fees charged for rendering first instance decisions and services shall be g
 
 <sup>2</sup> SERI is responsible for repealing training regulations based on Article 12 of the Federal Act of 19 April 1978[^74-1] on Vocational Education and Training issued by the EAER.
 
-[^74-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)No I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 No 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 No 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 para. 2 and Annex No 1, **1998** 1822 Art. 2, **1999** 2374 No I 2, **2003** 187 Annex No II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Annex No I 1]
+[^74-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)No I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 No 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 No 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 para. 2 and Annex No 1; **1998** 1822 Art. 2; **1999** 2374 No I 2; **2003** 187 Annex No II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Annex No I 1]
 
 ### Section 3 Transitional Provisions
 
@@ -1478,7 +1478,7 @@ SERI fees charged for rendering first instance decisions and services shall be g
 
 <sup>4</sup> Any further qualifications must be obtained within five years of SERI’s decision.
 
-[^76-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)No I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 No 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 No 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 para. 2 and Annex No 1, **1998** 1822 Art. 2, **1999** 2374 No I 2, **2003** 187 Annex No II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Annex No I 1]
+[^76-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)No I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 No 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 No 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 para. 2 and Annex No 1; **1998** 1822 Art. 2; **1999** 2374 No I 2; **2003** 187 Annex No II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Annex No I 1]
 [^76-2]: Repealed by Annex No 1 of the O of 14 Dec. 2018, with effect from 1 Feb. 2019 ([AS 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
 
 #### Art. 76a
@@ -1512,7 +1512,7 @@ For the first four years following commencement of VPETA, the following rule sha
 
 - b. the remaining cantonal tasks mentioned in Article 53 paragraph 2 VPETA shall receive Confederation funding to the extent of available resources mentioned in Article 53 paragraph 1 VPETA.
 
-[^77-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)No I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 No 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 No 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 para. 2 and Annex No 1, **1998** 1822 Art. 2, **1999** 2374 No I 2, **2003** 187 Annex No II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Annex No I 1]
+[^77-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)No I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 No 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 No 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 para. 2 and Annex No 1; **1998** 1822 Art. 2; **1999** 2374 No I 2; **2003** 187 Annex No II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Annex No I 1]
 [^77-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^77-3]: [SR 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
 [^77-4]: [[AS 1992 1973](https://fedlex.data.admin.ch/eli/oc/1992/1973_1973_1973). AS **2****0****03** 4557 Annex I 2]
@@ -1563,7 +1563,7 @@ II
 
 The following ordinances are amended as follows:
 
-... [^annexu1-lvlu1-2]
+...[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 1979 1712](https://fedlex.data.admin.ch/eli/oc/1979/1712_1712_1712), [1985 670](https://fedlex.data.admin.ch/eli/oc/1985/670_670_670)No I 1, [1993 7](https://fedlex.data.admin.ch/eli/oc/1993/7_7_7), [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)Art. 26, [2001 979](https://fedlex.data.admin.ch/eli/oc/2001/136)No II]
 [^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2003 5047](https://fedlex.data.admin.ch/eli/oc/2003/748).

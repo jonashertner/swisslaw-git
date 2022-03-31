@@ -4,11 +4,11 @@ title: Ordinaziun dals 19 da november 2003 davart la furmaziun professiunala (OF
 short: OFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: rm
-version: 2021-02-08
+version: 2022-04-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20210208/rm/xml/fedlex-data-admin-ch-eli-cc-2003-748-20210208-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20210208/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20220401/rm/xml/fedlex-data-admin-ch-eli-cc-2003-748-20220401-rm-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20220401/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (OFPr)
 
-dals 19 da november 2003 (versiun dals 8 da favrer 2021)
+dals 19 da november 2003 (versiun dal 1. d’avrigl 2022)
 
 Il Cussegl federal svizzer,
 
@@ -54,7 +54,7 @@ La Confederaziun collavura per regla cun organisaziuns dal mund da lavur naziuna
 
 <sup>1</sup> Il Secretariat da stadi per furmaziun, retschertga ed innovaziun (SEFRI)[^2-1] promova la perscrutaziun svizra davart la furmaziun professiunala, fin ch’ina infrastructura duraivla areguard il persunal e l’organisaziun ha cuntanschì il nivel scientific che vegn renconuschì sin plaun internaziunal.
 
-<sup>2</sup> 10 onns suenter l’entrada en vigur da questa ordinaziun examinescha la Confederaziun, sche la perscrutaziun davart la furmaziun professiunala po vegnir integrada en las structuras naziunalas existentas da la promoziun da la perscrutaziun sco in sectur da la perscrutaziun ordinaria da la furmaziun.
+<sup>2</sup> Diesch onns suenter l’entrada en vigur da questa ordinaziun examinescha la Confederaziun, sche la perscrutaziun davart la furmaziun professiunala po vegnir integrada en las structuras naziunalas existentas da la promoziun da la perscrutaziun sco in sectur da la perscrutaziun ordinaria da la furmaziun.
 
 <sup>3</sup> La perscrutaziun davart la furmaziun professiunala che vegn promovida da la Confederaziun è accordada cun la perscrutaziun da la furmaziun en general e cun il program da la statistica da furmaziun sco er cun l’economia e cun il mund da lavur.
 
@@ -579,7 +579,7 @@ Il SEFRI publitgescha en furma electronica ina glista[^38-2]:
 <sup>2</sup> Sin dumonda dal titular da l’attestat emetta il SEFRI in document cun ina descripziun englaisa dal cuntegn da la furmaziun u da la qualificaziun professiunala. …[^38-4]
 
 [^38-1]: Versiun tenor la cifra I da l’O dals 15 da sett. 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
-[^38-2]: La glista po vegnir consultada sut www.bvz.admin.ch.
+[^38-2]: La glista po vegnir consultada sut www.bvz.admin.ch
 [^38-3]: Versiun tenor la cifra I da l’O dals 15 da sett. 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 [^38-4]: Abolì la frasa tras la cifra 2 da l’agiunta da l’urden da taxas dal UFFT dals 16 da zer. 2006, cun effect dapi il 1. d’avust 2006 ([AS 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)).
 
@@ -626,7 +626,7 @@ Tgi che instruescha en la pratica u en scola la furmaziun fundamentala professiu
 
 ### (art. 29 al. 3 e 46 al. 2 LFPr)
 
-Il departament fixescha las pretensiuns minimalas per persunas d’instrucziun en scolas spezialisadas superiuras.
+Il DEFR fixescha las pretensiuns minimalas per persunas d’instrucziun en scolas spezialisadas superiuras.
 
 #### Art. 42
 
@@ -941,7 +941,7 @@ Il credit da la Confederaziun per contribuziuns pauschalas als chantuns tenor l�
 
 [^62-1]: Abolì tras la cifra I 1 da l’O dals 7 da nov. 2007 davart la gulivaziun da finanzas e la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns, cun effect dapi il 1. da schan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-### 3. part Contribuziuns per projects per sviluppar la furmaziun professiunala e per sviluppar la qualitad sco er per prestaziuns spezialas en l’interess public****
+### 3. part Contribuziuns per projects per sviluppar la furmaziun professiunala e per sviluppar la qualitad sco er per prestaziuns spezialas en l’interess public
 
 [^chap8-sec3-1]
 
@@ -976,7 +976,7 @@ Las contribuziuns vegnan concedidas sco suonda:
 
 <sup>1</sup> Las contribuziuns federalas a favur da prestaziuns spezialas ch’èn d’in interess public tenor l’artitgel 55 LFPr cuvran maximalmain 60 pertschient dals custs. En cas excepziunals motivads pon vegnir concedidas contribuziuns fin ad 80 pertschient dals custs.
 
-<sup>1bis</sup> Sco prestaziuns spezialas ch’èn d’in interess public valan er mesiras e projects da la collavuraziun internaziunala concernent la furmaziun professiunala che gidan a rinforzar il sistem svizzer da la furmaziun professiunala.[^64-1]
+<sup>1bis</sup> …[^64-1]
 
 <sup>2</sup>
 
@@ -988,9 +988,9 @@ Las contribuziuns vegnan concedidas sco suonda:
 
 <sup>3</sup> Las contribuziuns vegnan concedidas per maximalmain 5 onns. Ina prolungaziun è pussaivla.
 
-[^64-1]: Integrà tras la cifra I da l’O dals 25 da sett. 2015, en vigur dapi il 1. da schan. 2016 ([AS 2015 3807](https://fedlex.data.admin.ch/eli/oc/2015/637)).
+[^64-1]: Integrà tras la cifra I da l’O dals 25 da sett. 2015 ([AS 2015 3807](https://fedlex.data.admin.ch/eli/oc/2015/637)). Abolì tras l’art. 36 da l’O dals 23 da favr. 2022 davart la collavuraziun e la mobilitad internaziunala en il sectur da la furmaziun, cun effect dapi il 1. d’avr. 2022 ([AS 2022 165](https://fedlex.data.admin.ch/eli/oc/2022/165)).
 
-### 4. part Contribuziuns per realisar ils examens professiunals federals ed ils examens professiunals federals superiurs sco er per scolaziuns da scolas spezialisadas superiuras****
+### 4. part Contribuziuns per realisar ils examens professiunals federals ed ils examens professiunals federals superiurs sco er per scolaziuns da scolas spezialisadas superiuras
 
 [^chap8-sec4-1]
 
@@ -1059,7 +1059,7 @@ Per ils projects tenor l’artitgel 54 LFPr fixescha il SEFRI supplementarmain e
 [^chap8-sec5-1]: Integrà tras la cifra I da l’O dals 15 da sett. 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 [^66-1]: Abolì tras la cifra I da l’O dals 15 da sett. 2017, cun effect dapi il 1. da schan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
-### 6. part**** Contribuziuns ad absolvents da curs preparatorics
+### 6. part Contribuziuns ad absolvents da curs preparatorics
 
 [^chap8-sec6-1]
 
@@ -1179,7 +1179,7 @@ La limita superiura da las taxas da curs imputablas importa per persuna subvenzi
 
 <sup>4</sup> Taxas da curs ch’èn vegnidas reducidas tras contribuziuns en il rom da la Cunvegna interchantunala dals 22 da mars 2012[^66f-1] davart las contribuziuns per las scolaziuns da las scolas spezialisadas superiuras (CSSS) n’èn betg imputablas.
 
-[^66f-1]: La cunvegna po vegnir consultada sin la pagina d’internet da la Conferenza svizra dals directurs chantunals da l’educaziun publica (CDEP) sut www.edk.ch &gt; Arbeiten &gt; Finanzierungs-Vereinbarungen &gt; Höhere Fachschulen.
+[^66f-1]: La cunvegna po vegnir consultada sin la pagina d’internet da la Conferenza svizra dals directurs chantunals da l’educaziun publica (CDEP) sut www.edk.ch &gt; Arbeiten &gt; Finanzierungs-Vereinbarungen &gt; Höhere Fachschulen
 
 #### Art. 66g
 
@@ -1208,7 +1208,7 @@ Il SEFRI inscriva in curs sin la glista, sche quest curs ademplescha las suandan
 <sup>6</sup> In curs inscrit sin la glista sto vegnir confermà mintga onn dal purschider dal curs, per cumparair l’onn suandant sin la glista.
 
 [^66g-1]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
-[^66g-2]: La glista po vegnir consultada sut www.sbfi.admin.ch/hbb-finanzierung.
+[^66g-2]: La glista po vegnir consultada sut www.sbfi.admin.ch/hbb-finanzierung
 
 #### Art. 66h
 
@@ -1256,7 +1256,7 @@ La reducziun u la refusa da contribuziuns federalas tenor l’artitgel 58 LFPr v
 
 [^chap8-sec7-1]: Versiun tenor la cifra I da l’O dals 15 da sett. 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
-### 8. part Fond per la furmaziun professiunala****
+### 8. part Fond per la furmaziun professiunala
 
 [^chap8-sec8-1]
 
@@ -1326,7 +1326,7 @@ La dumonda vegn inoltrada en scrit al SEFRI e cuntegna en spezial las suandantas
 [^68b-1]: Integrà tras la cifra I da l’O dals 3 da dec. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)). Ils alineas 5–7 da l’artitgel 68 existent èn daventads ils alineas 1–3 da quest artitgel.
 [^68b-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-## 9. chapitel Renconuschientscha da diploms esters****
+## 9. chapitel Renconuschientscha da diploms esters
 
 [^chap9-1]
 
@@ -1449,9 +1449,9 @@ Las taxas che vegnan incassadas dal SEFRI per disposiziuns prendidas en emprima 
 
 <sup>1</sup> L’aboliziun e la midada dal dretg vertent vegnan regladas en l’agiunta.
 
-<sup>2</sup> Per l’aboliziun da reglaments da scolaziun ch’èn vegnids decretads dal departament sa basond sin l’artitgel 12 da la Lescha federala dals 19 d’avrigl 1978[^74-1] davart la furmaziun professiunala, è cumpetent il SEFRI.
+<sup>2</sup> Per l’aboliziun da reglaments da scolaziun ch’èn vegnids decretads dal DEFR sa basond sin l’artitgel 12 da la Lescha federala dals 19 d’avrigl 1978[^74-1] davart la furmaziun professiunala, è cumpetent il SEFRI.
 
-[^74-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 cifra 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)agiunta cifra 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)agiunta cifra 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 cifra 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 al. 2 ed agiunta cifra 1, **1998** 1822 art. 2, **1999** 2374 cifra I 2, **2003** 187 agiunta cifra II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)agiunta cifra I 1]
+[^74-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 cifra 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)agiunta cifra 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)agiunta cifra 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 cifra 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 al. 2 ed agiunta cifra 1; **1998** 1822 art. 2; **1999** 2374 cifra I 2; **2003** 187 agiunta cifra II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)agiunta cifra I 1]
 
 ### 3. part Disposiziuns transitoricas
 
@@ -1481,7 +1481,7 @@ Las taxas che vegnan incassadas dal SEFRI per disposiziuns prendidas en emprima 
 
 <sup>4</sup> Eventualas qualificaziuns posteriuras ston vegnir acquiridas entaifer 5 onns suenter la decisiun dal SEFRI.
 
-[^76-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 cifra 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)agiunta cifra 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)agiunta cifra 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 cifra 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 al. 2 ed agiunta cifra 1, **1998** 1822 art. 2, **1999** 2374 cifra I 2, **2003** 187 agiunta cifra II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)agiunta cifra I 1]
+[^76-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 cifra 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)agiunta cifra 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)agiunta cifra 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 cifra 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 al. 2 ed agiunta cifra 1; **1998** 1822 art. 2; **1999** 2374 cifra I 2; **2003** 187 agiunta cifra II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)agiunta cifra I 1]
 [^76-2]: Abolì tras la cifra 1 da l’agiunta da l’O dals 14 da dec. 2018, cun effect dapi il 1. da favr. 2019 ([AS 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
 
 #### Art. 76a
@@ -1496,7 +1496,7 @@ Ils diploms survegnids tenor il dretg vegl – il diplom federal I e II per magi
 
 **Contribuziuns pauschalas**
 
-### (art. 73 al. 3 e al. 4 LFPr)
+### (art. 73 al. 3 e 4 LFPr)
 
 <sup>1</sup> Las incumbensas dals chantuns tenor l’artitgel 53 alinea 2 LFPr vegnan cofinanziadas cumplainamain da la Confederaziun sur las contribuziuns pauschalas tenor la LFPr e tenor questa ordinaziun, e quai a partir dal 5. onn dapi l’entrada en vigur da la LFPr.
 
@@ -1515,7 +1515,7 @@ Ils emprims 4 onns suenter l’entrada en vigur da la LFPr vala la suandanta reg
 
 - b. las ulteriuras incumbensas tenor l’artitgel 53 alinea 2 LFPr sustegna la Confederaziun en il rom dals meds ch’èn avant maun tenor l’artitgel 53 alinea 1 LFPr.
 
-[^77-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 cifra 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)agiunta cifra 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)agiunta cifra 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 cifra 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 al. 2 ed agiunta cifra 1, **1998** 1822 art. 2, **1999** 2374 cifra I 2, **2003** 187 agiunta cifra II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)agiunta cifra I 1]
+[^77-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 cifra 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)agiunta cifra 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)agiunta cifra 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 cifra 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 al. 2 ed agiunta cifra 1; **1998** 1822 art. 2; **1999** 2374 cifra I 2; **2003** 187 agiunta cifra II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)agiunta cifra I 1]
 [^77-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^77-3]: [SR 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
 [^77-4]: [[AS 1992 1973](https://fedlex.data.admin.ch/eli/oc/1992/1973_1973_1973). [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)agiunta I 2]
@@ -1568,5 +1568,5 @@ Las ordinaziuns qua sutvart vegnan midadas sco suonda:
 
 ...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 1979 1712](https://fedlex.data.admin.ch/eli/oc/1979/1712_1712_1712), [1985 670](https://fedlex.data.admin.ch/eli/oc/1985/670_670_670)cifra I 1, [1993 7](https://fedlex.data.admin.ch/eli/oc/1993/7_7_7), [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 26, [2001 979](https://fedlex.data.admin.ch/eli/oc/2001/136)cifra II]
+[^annexu1-lvlu1-1]: [[AS 1979 1712](https://fedlex.data.admin.ch/eli/oc/1979/1712_1712_1712); [1985 670](https://fedlex.data.admin.ch/eli/oc/1985/670_670_670)cifra I 1; [1993 7](https://fedlex.data.admin.ch/eli/oc/1993/7_7_7); [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 26; [2001 979](https://fedlex.data.admin.ch/eli/oc/2001/136)cifra II]
 [^annexu1-lvlu1-2]: Las midadas pon vegnir consultadas en la [AS 2003 5047](https://fedlex.data.admin.ch/eli/oc/2003/748).

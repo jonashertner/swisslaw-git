@@ -4,11 +4,11 @@ title: "Verordnung vom 19. November 2003 über die Berufsbildung (Berufsbildungs
 short: BBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: de
-version: 2021-02-08
+version: 2022-04-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20210208/de/xml/fedlex-data-admin-ch-eli-cc-2003-748-20210208-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20210208/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2003-748-20220401-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20210208/de"
 
 (Berufsbildungsverordnung, BBV)
 
-vom 19. November 2003 (Stand am 8. Februar 2021) (Stand am 8. Februar 2021)
+vom 19. November 2003 (Stand am 1. April 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -939,7 +939,7 @@ Der Kredit des Bundes für Pauschalbeiträge an die Kantone nach Artikel 53 BBG 
 
 [^62-1]: Aufgehoben durch Ziff. I 1 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-### 3. Abschnitt: Beiträge für Projekte zur Entwicklung der Berufsbildung und zur Qualitätsentwicklung sowie für besondere Leistungen im öffentlichen Interesse****
+### 3. Abschnitt: Beiträge für Projekte zur Entwicklung der Berufsbildung und zur Qualitätsentwicklung sowie für besondere Leistungen im öffentlichen Interesse
 
 [^chap8-sec3-1]
 
@@ -974,7 +974,7 @@ Die Beiträge bemessen sich:
 
 <sup>1</sup> Die Bundesbeiträge für besondere Leistungen im öffentlichen Interesse nach Artikel 55 BBG decken höchstens 60 Prozent des Aufwandes. In begründeten Ausnahmen können bis zu 80 Prozent gewährt werden.
 
-<sup>1bis</sup> Als besondere Leistungen im öffentlichen Interesse gelten auch Massnahmen und Vorhaben der internationalen Berufsbildungszusammenarbeit, die zur Stärkung des schweizerischen Berufsbildungssystems beitragen.[^64-1]
+<sup>1bis</sup> …[^64-1]
 
 <sup>2</sup>
 
@@ -986,9 +986,9 @@ Die Beiträge bemessen sich:
 
 <sup>3</sup> Die Beiträge werden für höchstens fünf Jahre gewährt. Eine Verlängerung ist möglich.
 
-[^64-1]: Eingefügt durch Ziff. I der V vom 25. Sept. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 3807](https://fedlex.data.admin.ch/eli/oc/2015/637)).
+[^64-1]: Eingefügt durch Ziff. I der V vom 25. Sept. 2015 ([AS 2015 3807](https://fedlex.data.admin.ch/eli/oc/2015/637)). Aufgehoben durch Art. 36 der V vom 23. Febr. 2022 über die internationale Zusammenarbeit und Mobilität in der Bildung, mit Wirkung seit 1. April 2022 ([AS 2022 165](https://fedlex.data.admin.ch/eli/oc/2022/165)).
 
-### 4. Abschnitt: Beiträge für die Durchführung eidgenössischer Berufsprüfungen und eidgenössischer höherer Fachprüfungen sowie für Bildungsgänge höherer Fachschulen****
+### 4. Abschnitt: Beiträge für die Durchführung eidgenössischer Berufsprüfungen und eidgenössischer höherer Fachprüfungen sowie für Bildungsgänge höherer Fachschulen
 
 [^chap8-sec4-1]
 
@@ -1057,7 +1057,7 @@ Für ein Projekt nach Artikel 54 BBG legt das SBFI in der Verfügung zusätzlich
 [^chap8-sec5-1]: Eingefügt durch Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 [^66-1]: Aufgehoben durch Ziff. I der V vom 15. Sept. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
-### 6. Abschnitt:**** Beiträge an Absolventinnen und Absolventen von vorbereitenden Kursen
+### 6. Abschnitt: Beiträge an Absolventinnen und Absolventen von vorbereitenden Kursen
 
 [^chap8-sec6-1]
 
@@ -1254,7 +1254,7 @@ Die Kürzung oder Verweigerung von Bundesbeiträgen nach Artikel 58 BBG bemisst 
 
 [^chap8-sec7-1]: Fassung gemäss Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
-### 8. Abschnitt: Berufsbildungsfonds****
+### 8. Abschnitt: Berufsbildungsfonds
 
 [^chap8-sec8-1]
 
@@ -1324,7 +1324,7 @@ Der Antrag wird schriftlich beim SBFI eingereicht und enthält namentlich folgen
 [^68b-1]: Eingefügt durch Ziff. I der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)). Die bisherigen Abs. 5–7 von Art. 68 wurden zu Abs. 1–3 dieses Artikels.
 [^68b-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-## 9. Kapitel: Anerkennung ausländischer Abschlüsse****
+## 9. Kapitel: Anerkennung ausländischer Abschlüsse
 
 [^chap9-1]
 
@@ -1449,7 +1449,7 @@ Die Gebühren für erstinstanzliche Verfügungen und für Dienstleistungen im Au
 
 <sup>2</sup> Für die Aufhebung von Ausbildungsreglementen, die gestützt auf Artikel 12 des Bundesgesetzes vom 19. April 1978[^74-1] über die Berufsbildung vom WBF erlassen wurden, ist das SBFI zuständig.
 
-[^74-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 Ziff. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 Ziff. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 Abs. 2 und Anhang Ziff. 1, **1998** 1822 Art. 2, **1999** 2374 Ziff. I 2, **2003** 187 Anhang Ziff. II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. I 1]
+[^74-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 Ziff. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 Ziff. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 Abs. 2 und Anhang Ziff. 1; **1998** 1822 Art. 2; **1999** 2374 Ziff. I 2; **2003** 187 Anhang Ziff. II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. I 1]
 
 ### 3. Abschnitt: Übergangsbestimmungen
 
@@ -1479,7 +1479,7 @@ Die Gebühren für erstinstanzliche Verfügungen und für Dienstleistungen im Au
 
 <sup>4</sup> Allfällige Nachqualifikationen haben innerhalb von fünf Jahren nach dem Entscheid des SBFI zu erfolgen.
 
-[^76-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 Ziff. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 Ziff. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 Abs. 2 und Anhang Ziff. 1, **1998** 1822 Art. 2, **1999** 2374 Ziff. I 2, **2003** 187 Anhang Ziff. II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. I 1]
+[^76-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 Ziff. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 Ziff. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 Abs. 2 und Anhang Ziff. 1; **1998** 1822 Art. 2; **1999** 2374 Ziff. I 2; **2003** 187 Anhang Ziff. II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. I 1]
 [^76-2]: Aufgehoben durch Anhang Ziff. 1 der V vom 14. Dez. 2018, mit Wirkung seit 1. Febr. 2019 ([AS 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
 
 #### Art. 76a
@@ -1513,7 +1513,7 @@ Die ersten vier Jahre nach Inkrafttreten des BBG gilt folgende Regelung:
 
 - b. Die übrigen Aufgaben nach Artikel 53 Absatz 2 BBG unterstützt der Bund im Rahmen der verfügbaren Mittel nach Artikel 53 Absatz 1 BBG.
 
-[^77-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 Ziff. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 Ziff. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 Abs. 2 und Anhang Ziff. 1, **1998** 1822 Art. 2, **1999** 2374 Ziff. I 2, **2003** 187 Anhang Ziff. II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. I 1]
+[^77-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 Ziff. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 Ziff. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 Abs. 2 und Anhang Ziff. 1; **1998** 1822 Art. 2; **1999** 2374 Ziff. I 2; **2003** 187 Anhang Ziff. II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. I 1]
 [^77-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^77-3]: [SR 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
 [^77-4]: [[AS 1992 1973](https://fedlex.data.admin.ch/eli/oc/1992/1973_1973_1973). AS **2****0****03** 4557 Anhang I 2]
@@ -1566,5 +1566,5 @@ Die nachstehenden Verordnungen werden wie folgt geändert:
 
 …[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 1979 1712](https://fedlex.data.admin.ch/eli/oc/1979/1712_1712_1712), [1985 670](https://fedlex.data.admin.ch/eli/oc/1985/670_670_670)Ziff. I 1, [1993 7](https://fedlex.data.admin.ch/eli/oc/1993/7_7_7), [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)Art. 26, [2001 979](https://fedlex.data.admin.ch/eli/oc/2001/136)Ziff. II]
+[^annexu1-lvlu1-1]: [[AS 1979 1712](https://fedlex.data.admin.ch/eli/oc/1979/1712_1712_1712); [1985 670](https://fedlex.data.admin.ch/eli/oc/1985/670_670_670)Ziff. I 1; [1993 7](https://fedlex.data.admin.ch/eli/oc/1993/7_7_7), [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)Art. 26; [2001 979](https://fedlex.data.admin.ch/eli/oc/2001/136)Ziff. II]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2003 5047](https://fedlex.data.admin.ch/eli/oc/2003/748)konsultiert werden.

@@ -4,11 +4,11 @@ title: Ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)
 short: OFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: fr
-version: 2021-02-08
+version: 2022-04-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20210208/fr/xml/fedlex-data-admin-ch-eli-cc-2003-748-20210208-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20210208/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2003-748-20220401-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20220401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20210208/fr"
 
 (OFPr)
 
-du 19 novembre 2003 (Etat le 8 février 2021)
+du 19 novembre 2003 (État le 1<sup>er</sup> avril 2022)
 
 Le Conseil fédéral suisse,
 
@@ -938,7 +938,7 @@ Le crédit de la Confédération pour les forfaits versés aux cantons selon l�
 
 [^62-1]: Abrogé par le ch. I 1 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), avec effet au 1<sup>er</sup> janv. 2007 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-### Section 3 Subventions en faveur de projets de développement de la formation professionnelle et de la qualité et en faveur de prestations particulières d’intérêt public****
+### Section 3 Subventions en faveur de projets de développement de la formation professionnelle et de la qualité et en faveur de prestations particulières d’intérêt public
 
 [^chap8-sec3-1]
 
@@ -973,7 +973,7 @@ Elles sont accordées comme suit:
 
 <sup>1</sup> Les subventions fédérales en faveur de prestations particulières d’intérêt public, visées à l’art. 55 LFPr, couvrent au maximum 60 % des coûts. En cas d’exceptions fondées, elles peuvent atteindre jusqu’à 80 % des coûts.
 
-<sup>1bis</sup> Sont également considérés comme prestations particulières d’intérêt public les mesures et les projets du domaine de la coopération internationale en matière de formation professionnelle qui contribuent au renforcement du système suisse de formation professionnelle.[^64-1]
+<sup>1bis</sup> ...[^64-1]
 
 <sup>2</sup>
 
@@ -985,9 +985,9 @@ Elles sont accordées en fonction:
 
 <sup>3</sup> Elles sont octroyées pour une période de cinq ans au maximum. Une prolongation est possible.
 
-[^64-1]: Introduit par le ch. I de l’O du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3807](https://fedlex.data.admin.ch/eli/oc/2015/637)).
+[^64-1]: Introduit par le ch. I de l’O du 25 sept. 2015 ([RO 2015 3807](https://fedlex.data.admin.ch/eli/oc/2015/637)). Abrogé par l’art. 36 de l’O du 23 fév. 2022 sur la coopération et la mobilité internationales en matière de formation, avec effet au 1<sup>er</sup> avr. 2022 ([RO 2022 165](https://fedlex.data.admin.ch/eli/oc/2022/165)).
 
-### Section 4 Subventions relatives à l’organisation des examens professionnels fédéraux et des examens professionnels fédéraux supérieurs ainsi qu’aux filières des écoles supérieures****
+### Section 4 Subventions relatives à l’organisation des examens professionnels fédéraux et des examens professionnels fédéraux supérieurs ainsi qu’aux filières des écoles supérieures
 
 [^chap8-sec4-1]
 
@@ -1253,7 +1253,7 @@ La réduction d’une subvention fédérale ou le refus d’en allouer de nouvel
 
 [^chap8-sec7-1]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
-### Section 8 Fonds en faveur de la formation professionnelle****
+### Section 8 Fonds en faveur de la formation professionnelle
 
 [^chap8-sec8-1]
 
@@ -1323,7 +1323,7 @@ La demande sera présentée par écrit au SEFRI et contiendra les données suiva
 [^68b-1]: Introduit par le ch. I de l’O du 3 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011. Les al. 5 à 7 de l’art. 68, avant révision, deviennent les al. 1 à 3 du présent art.
 [^68b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-## Chapitre 9 Reconnaissance des diplômes étrangers****
+## Chapitre 9 Reconnaissance des diplômes étrangers
 
 [^chap9-1]
 
@@ -1448,7 +1448,7 @@ Les émoluments perçus pour les décisions rendues en première instance et pou
 
 <sup>2</sup> L’abrogation des règlements d’apprentissage promulgués par le DEFR en vertu de l’art. 12 de la loi du 19 avril 1978 sur la formation professionnelle[^74-1] incombe au SEFRI.
 
-[^74-1]: [[RO 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)ch. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 ch. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)annexe ch. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 ch. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 al. 2 et annexe ch. 1, **1998** 1822 art. 2, **1999** 2374 ch. I 2, **2003** 187 annexe ch. II 2. [RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. I 1]
+[^74-1]: [[RO 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)ch. I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 ch. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)annexe ch. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 ch. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 al. 2 et annexe ch. 1; **1998** 1822 art. 2; **1999** 2374 ch. I 2; **2003** 187 annexe ch. II 2. [RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. I 1]
 
 ### Section 3 Dispositions transitoires
 
