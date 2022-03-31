@@ -3,11 +3,11 @@ sr: "830.31"
 title: Ordonnance du 20 mars 2020 sur les mesures en cas de pertes de gain en lien avec le coronavirus (COVID-19) (Ordonnance sur les pertes de gain COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/167"
 language: fr
-version: 2022-02-17
+version: 2022-04-01
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20220217/fr/xml/fedlex-data-admin-ch-eli-cc-2020-167-20220217-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20220217/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2020-167-20220401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20220401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20220217/fr"
 
 (Ordonnance sur les pertes de gain COVID-19)
 
-du 20 mars 2020 (Etat le 17 février 2022)
+du 20 mars 2020 (Etat le 1<sup>er</sup> avril 2022)
 
 Le Conseil fédéral suisse,
 
@@ -62,15 +62,13 @@ Les personnes qui exercent une activité lucrative indépendante au sens de l’
 
 <sup>3ter</sup> L’activité lucrative est considérée comme significativement limitée lorsque le chiffre d’affaires mensuel baisse d’au moins 30 % par rapport au chiffre d’affaires mensuel moyen des années 2015 à 2019. Si l’activité lucrative a débuté après 2015 et avant 2020, la moyenne doit être calculée sur la période de revenu correspondante. Les personnes ayant débuté leur activité lucrative après 2019 doivent prouver qu’elles ont subi une baisse de chiffre d’affaires d’au moins 30 % par mois comparé au chiffre d’affaires moyen réalisé sur au moins trois mois; la moyenne des trois mois où le chiffre d’affaires était le plus élevé étant déterminante.[^2-12]
 
-<sup>3quater</sup> Les employés vulnérables au sens de l’art. 27*a* de l’ordonnance 3 COVID-19 du 19 juin 2020[^2-13] ont droit à l’allocation s’il n’est pas possible de les occuper conformément à l’art. 27*a*, al. 1 à 4, de l’ordonnance 3 COVID-19, ou dès lors qu’ils refusent d’accomplir la tâche qui leur a été attribuée conformément à l’art. 27*a*, al. 6, de l’ordonnance 3 COVID-19. Les employés doivent prouver leur vulnérabilité au moyen d’un certificat médical.[^2-14]
+<sup>3quater</sup> et <sup>3quinquies</sup> …[^2-13]
 
-<sup>3quinquies</sup> Les personnes vulnérables exerçant une activité lucrative indépendante au sens de l’art. 12 LPGA ont droit à l’allocation lorsqu’elles ne peuvent pas travailler depuis leur domicile. Pour la définition des personnes vulnérables, l’art. 27*a*, al. 10 à 12 de l’ordonnance 3 COVID-19 s’applique par analogie. Les employés doivent prouver leur vulnérabilité au moyen d’un certificat médical.[^2-15]
+<sup>4</sup> L’allocation est octroyée subsidiairement aux prestations des assurances sociales et aux prestations des assurances régies par la loi du 2 avril 1908 sur le contrat d’assurance[^2-14]. Ce principe ne s’applique pas aux prestations octroyées en vertu de l’art. 12 de la loi COVID-19 du 25 septembre 2020.[^2-15]
 
-<sup>4</sup> L’allocation est octroyée subsidiairement aux prestations des assurances sociales et aux prestations des assurances régies par la loi du 2 avril 1908 sur le contrat d’assurance[^2-16]. Ce principe ne s’applique pas aux prestations octroyées en vertu de l’art. 12 de la loi COVID-19 du 25 septembre 2020.[^2-17]
+<sup>5</sup> …[^2-16]
 
-<sup>5</sup> …[^2-18]
-
-<sup>6</sup> à <sup>8</sup> …[^2-19]
+<sup>6</sup> à <sup>8</sup> …[^2-17]
 
 [^2-1]: Abrogé par l’annexe ch. 3 de l’O COVID-19 situation particulière du 16 fév. 2022, avec effet au 17 fév. 2022 ([RO 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
 [^2-2]: Introduit par le ch. I de l’O du 16 avr. 2020 ([RO 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)). Abrogé par l’annexe ch. 3 de l’O COVID-19 situation particulière du 16 fév. 2022, avec effet au 17 fév. 2022 ([RO 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
@@ -84,13 +82,11 @@ Les personnes qui exercent une activité lucrative indépendante au sens de l’
 [^2-10]: Introduite par l’annexe ch. 3 de l’O COVID-19 situation particulière du 16 fév. 2022, en vigueur depuis le 17 fév. 2022 ([RO 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
 [^2-11]: Introduit par le ch. I de l’O du 16 avr. 2020 ([RO 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)). Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur du 17 sept. 2020 au 30 juin 2022 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810); [2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97); art. 11, al. 9).
 [^2-12]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 2020 ([RO 2020 2729](https://fedlex.data.admin.ch/eli/oc/2020/493)). Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 183](https://fedlex.data.admin.ch/eli/oc/2021/183)).
-[^2-13]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^2-14]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables) ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11, al. 8).
-[^2-15]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables) ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11, al. 8).
-[^2-16]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^2-17]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^2-18]: Abrogé par le ch. I de l’O du 11 sept. 2020, avec effet au 17 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
-[^2-19]: Abrogés par l’annexe ch. 3 de l’O COVID-19 situation particulière du 16 fév. 2022, avec effet au 17 fév. 2022 ([RO 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
+[^2-13]: Introduits par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables) ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11, al. 8).
+[^2-14]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^2-15]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
+[^2-16]: Abrogé par le ch. I de l’O du 11 sept. 2020, avec effet au 17 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
+[^2-17]: Abrogés par l’annexe ch. 3 de l’O COVID-19 situation particulière du 16 fév. 2022, avec effet au 17 fév. 2022 ([RO 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
 
 #### Art. 3
 
@@ -104,18 +100,14 @@ Les personnes qui exercent une activité lucrative indépendante au sens de l’
 
 <sup>4</sup> …[^3-5]
 
-<sup>5</sup> Pour un ayant droit au sens de l’art. 2, al. 3<sup>quater</sup>, le droit à l’allocation prend effet dès le moment où il n’est pas possible de l’occuper conformément à l’art. 27*a*, al. 1 à 4, de l’ordonnance 3 COVID-19 du 19 juin 2020[^3-6], ou dès lors qu’il refuse d’accomplir la tâche qui lui a été attribuée conformément à l’art. 27*a*, al. 6, de l’ordonnance 3 COVID-19. Le droit à l’allocation prend fin dès la reprise du travail ou dès l’abrogation de l’art. 27*a* de l’ordonnance 3 COVID-19.[^3-7]
-
-<sup>6</sup> Pour un ayant droit au sens de l’art. 2, al. 3<sup>quinquies</sup>, le droit à l’allocation prend effet à compter de l’interruption de l’activité professionnelle et prend fin avec la reprise de cette activité.[^3-8]
+<sup>5</sup> et <sup>6</sup> …[^3-6]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
 [^3-2]: Abrogé par l’annexe ch. 3 de l’O COVID-19 situation particulière du 16 fév. 2022, avec effet au 17 fév. 2022 ([RO 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
 [^3-3]: Abrogé par le ch. III 2 de l’O du 2 fév. 2022 (Suppression de la quarantaine-contact et de l’obligation de travailler à domicile), avec effet au 3 fév. 2022 ([RO 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
 [^3-4]: Nouvelle teneur selon l’annexe ch. 3 de l’O COVID-19 situation particulière du 16 fév. 2022, en vigueur depuis le 17 fév. 2022 ([RO 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
 [^3-5]: Abrogé par l’annexe ch. 3 de l’O COVID-19 situation particulière du 16 fév. 2022, avec effet au 17 fév. 2022 ([RO 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
-[^3-6]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^3-7]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables) ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11, al. 8).
-[^3-8]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables) ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11, al. 8).
+[^3-6]: Introduits par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables) ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11, al. 8).
 
 #### Art. 4
 
@@ -141,7 +133,7 @@ Les personnes qui exercent une activité lucrative indépendante au sens de l’
 
 <sup>2quater</sup> Pour les salariés au sens de l’art. 10 LPGA[^5-6], la perte de salaire engendrée par les mesures de lutte contre l’épidémie de COVID-19 ordonnées par une autorité est déterminante pour le calcul de l’allocation. L’indemnité journalière correspond à 80 % de cette perte de salaire.[^5-7]
 
-<sup>2quinquies</sup> En dérogation à l’al. 2<sup>quater</sup>, le revenu soumis aux cotisations AVS est déterminant pour le calcul de l’allocation des ayants droit visés à l’art. 2, al. 3<sup>quater</sup>.[^5-8]
+<sup>2quinquies</sup> …[^5-8]
 
 <sup>3</sup> Le montant maximal de l’allocation s’élève à 196 francs par jour.
 

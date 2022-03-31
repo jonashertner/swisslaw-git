@@ -3,11 +3,11 @@ sr: "830.31"
 title: Ordinanza del 20 marzo 2020 sui provvedimenti in caso di perdita di guadagno in relazione con il coronavirus (COVID-19) (Ordinanza COVID-19 perdita di guadagno)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/167"
 language: it
-version: 2022-02-17
+version: 2022-04-01
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20220217/it/xml/fedlex-data-admin-ch-eli-cc-2020-167-20220217-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20220217/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2020-167-20220401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20220217/it"
 
 (Ordinanza COVID-19 perdita di guadagno)
 
-del 20 marzo 2020 (Stato 17 febbraio 2022)
+del 20 marzo 2020 (Stato 1° aprile 2022)
 
 Il Consiglio federale svizzero,
 
@@ -62,15 +62,13 @@ I lavoratori indipendenti ai sensi dell’articolo 12 LPGA e le persone di cui a
 
 <sup>3ter</sup> L’attività lucrativa è ritenuta limitata in modo considerevole se si è registrata una diminuzione della cifra d’affari mensile pari almeno al 30 per cento rispetto alla cifra d’affari mensile media degli anni 2015–2019. Se l’attività è stata avviata dopo il 2015 e prima del 2020, è determinante la media del periodo di attività effettivo. Le persone che hanno avviato la loro attività lucrativa dopo il 2019 devono dimostrare di aver subito una diminuzione della cifra d’affari mensile pari almeno al 30 per cento rispetto alla cifra d’affari mensile media di almeno tre mesi; fa stato la media dei tre mesi con le cifre d’affari più elevate.[^2-12]
 
-<sup>3quater</sup> I lavoratori particolarmente a rischio ai sensi dell’articolo 27*a* dell’ordinanza 3 COVID-19 del 19 giugno 2020[^2-13] hanno diritto all’indennità se non possono essere occupati conformemente all’articolo 27*a* capoversi 1–4 dell’ordinanza 3 COVID-19 o se, in virtù dell’articolo 27*a* capoverso 6 dell’ordinanza 3 COVID-19, rifiutano il lavoro assegnato loro. La condizione di lavoratore particolarmente a rischio deve essere comprovata mediante un certificato medico.[^2-14]
+<sup>3quater</sup> e <sup>3quinquies</sup>...[^2-13]
 
-<sup>3quinquies</sup> I lavoratori indipendenti ai sensi dell’articolo 12 LPGA particolarmente a rischio hanno diritto all’indennità se non possono svolgere il loro lavoro da casa. Per la definizione delle persone particolarmente a rischio è applicabile per analogia l’articolo 27*a* capoversi 10–12 dell’ordinanza 3 COVID-19. La condizione di persona particolarmente a rischio deve essere comprovata mediante un certificato medico.[^2-15]
+<sup>4</sup> L’indennità è sussidiaria rispetto a tutte le prestazioni di assicurazioni sociali e assicurazioni secondo la legge del 2 aprile 1908[^2-14] sul contratto d’assicurazione. Questo non vale per le prestazioni secondo l’articolo 12 della legge COVID-19 del 25 settembre 2020.[^2-15]
 
-<sup>4</sup> L’indennità è sussidiaria rispetto a tutte le prestazioni di assicurazioni sociali e assicurazioni secondo la legge del 2 aprile 1908[^2-16] sul contratto d’assicurazione. Questo non vale per le prestazioni secondo l’articolo 12 della legge COVID-19 del 25 settembre 2020.[^2-17]
+<sup>5</sup> ...[^2-16]
 
-<sup>5</sup> ...[^2-18]
-
-<sup>6</sup> <sup>a</sup> <sup>8</sup> ... [^2-19]
+<sup>6</sup> <sup>a</sup> <sup>8</sup> ... [^2-17]
 
 [^2-1]: Abrogato dall’all. n. 3 dell’O COVID-19 situazione particolare del 16 feb. 2022, con effetto dal 17 feb. 2022 ([RU 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
 [^2-2]: Introdotto dal n. I dell’O del 16 apr. 2020 ([RU 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)). Abrogato dall’all. n. 3 dell’O COVID-19 situazione particolare del 16 feb. 2022, con effetto dal 17 feb. 2022 ([RU 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
@@ -84,13 +82,11 @@ I lavoratori indipendenti ai sensi dell’articolo 12 LPGA e le persone di cui a
 [^2-10]: Introdotta dall’all. n. 3 dell’O COVID-19 situazione particolare del 16 feb. 2022, in vigore dal 17 feb. 2022 ([RU 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
 [^2-11]: Introdotto dal n. I dell’O del 16 apr. 2020 ([RU 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)). Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 al 30 giu. 2022 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810); [2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)art. 11 cpv. 9).
 [^2-12]: Introdotto dal n. I dell’O del 1° lug. 2020 ([RU 2020 2729](https://fedlex.data.admin.ch/eli/oc/2020/493)). Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 183](https://fedlex.data.admin.ch/eli/oc/2021/183)).
-[^2-13]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^2-14]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio) ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 mar. 2022 ([RU 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11 cpv. 8).
-[^2-15]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio) ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 mar. 2022 ([RU 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11 cpv. 8).
-[^2-16]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^2-17]: Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^2-18]: Abrogato dal n. I dell’O dell’11 set. 2020, con effetto dal 17 set. 2020 ([RU 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
-[^2-19]: Abrogati dall’all. n. 3 dell’O COVID-19 situazione particolare del 16 feb. 2022, con effetto dal 17 feb. 2022 ([RU 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
+[^2-13]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio) ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 mar. 2022 ([RU 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11 cpv. 8).
+[^2-14]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^2-15]: Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
+[^2-16]: Abrogato dal n. I dell’O dell’11 set. 2020, con effetto dal 17 set. 2020 ([RU 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
+[^2-17]: Abrogati dall’all. n. 3 dell’O COVID-19 situazione particolare del 16 feb. 2022, con effetto dal 17 feb. 2022 ([RU 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
 
 #### Art. 3
 
@@ -104,18 +100,14 @@ I lavoratori indipendenti ai sensi dell’articolo 12 LPGA e le persone di cui a
 
 <sup>4</sup> ...[^3-5]
 
-<sup>5</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 3<sup>quater</sup>, il diritto nasce nel momento in cui una loro occupazione secondo l’articolo 27*a* capoversi 1–4 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^3-6] risulta impossibile o se in virtù dell’articolo 27*a* capoverso 6 dell’ordinanza 3 COVID-19 rifiutano il lavoro assegnato loro. Il diritto cessa con la ripresa del lavoro o con l’abrogazione dell’articolo 27*a* dell’ordinanza 3 COVID-19.[^3-7]
-
-<sup>6</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 3<sup>quinquies</sup> il diritto nasce con l’interruzione dell’attività lucrativa e cessa con la sua ripresa.[^3-8]
+<sup>5</sup> e <sup>6</sup> ...[^3-6]
 
 [^3-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2020, in vigore dal 17 set. 2020 ([RU 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
 [^3-2]: Abrogato dall’all. n. 3 dell’O COVID-19 situazione particolare del 16 feb. 2022, con effetto dal 17 feb. 2022 ([RU 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
 [^3-3]: Abrogato dal n. III 2 dell’O del 2 feb. 2022 (Revoca della quarantena dei contatti e dell’obbligo di telelavoro), con effetto dal 3 feb. 2022 ([RU 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
 [^3-4]: Nuovo testo giusta l’all. n. 3 dell’O COVID-19 situazione particolare del 16 feb. 2022, in vigore dal 17 feb. 2022 ([RU 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
 [^3-5]: Abrogato dall’all. n. 3 dell’O COVID-19 situazione particolare del 16 feb. 2022, con effetto dal 17 feb. 2022 ([RU 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
-[^3-6]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^3-7]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio) ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 mar. 2022 ([RU 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11 cpv. 8).
-[^3-8]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio) ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 mar. 2022 ([RU 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11 cpv. 8).
+[^3-6]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio) ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 mar. 2022 ([RU 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11 cpv. 8).
 
 #### Art. 4
 
@@ -141,7 +133,7 @@ I lavoratori indipendenti ai sensi dell’articolo 12 LPGA e le persone di cui a
 
 <sup>2quater</sup> Per il calcolo dell’indennità dei salariati ai sensi dell’articolo 10 LPGA[^5-6], è determinante la perdita salariale derivante dai provvedimenti ordinati dalle autorità per combattere l’epidemia di COVID-19. L’indennità giornaliera ammonta all’80 per cento della perdita salariale.[^5-7]
 
-<sup>2quinquies</sup> In deroga al capoverso 2<sup>quater</sup>, per il calcolo dell’indennità degli aventi diritto di cui all’articolo 2 capoverso 3<sup>quater</sup> è determinante il reddito dell’attività lucrativa soggetto all’AVS.[^5-8]
+<sup>2quinquies</sup> ...[^5-8]
 
 <sup>3</sup> L’indennità ammonta al massimo a 196 franchi al giorno.
 
