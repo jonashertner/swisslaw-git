@@ -4,11 +4,11 @@ title: "Verordnung vom 25. November 2020 über Härtefallmassnahmen für Unterne
 short: HFMV 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: de
-version: 2022-02-08
+version: 2022-04-01
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20220208/de/xml/fedlex-data-admin-ch-eli-cc-2020-875-20220208-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220208/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2020-875-20220401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220208/de"
 
 (Covid-19-Härtefallverordnung 2020, HFMV 20)**[^t-1]**
 
-vom 25. November 2020 (Stand am 8. Februar 2022)
+vom 25. November 2020 (Stand am 1. April 2022)
 
 [^t-1]: Fassung gemäss Art. 19 der Covid-19-Härtefallverordnung 2022 vom 2. Febr. 2022, in Kraft vom 8. Febr. 2022 bis zum 31. Dez. 2031 ([AS 2022 61](https://fedlex.data.admin.ch/eli/oc/2022/61)).
 

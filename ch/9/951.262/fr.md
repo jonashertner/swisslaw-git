@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 2020 concernant les mesures pour les cas de ri
 short: OMCR 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: fr
-version: 2022-02-08
+version: 2022-04-01
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20220208/fr/xml/fedlex-data-admin-ch-eli-cc-2020-875-20220208-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220208/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2020-875-20220401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220208/fr"
 
 (Ordonnance COVID-19 cas de rigueur 2020, OMCR 20)**[^t-1]**
 
-du 25 novembre 2020 (Etat le 8 février 2022)
+du 25 novembre 2020 (Etat le 1<sup>er</sup> avril 2022)
 
 [^t-1]: Nouvelle teneur selon l’art. 19 de l’O COVID-19 cas de rigueur 2022 du 2 fév. 2022, en vigueur du 8 fév. 2022 au 31 déc. 2031 ([RO 2022 61](https://fedlex.data.admin.ch/eli/oc/2022/61)).
 

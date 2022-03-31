@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 2020 sui provvedimenti per i casi di rigore co
 short: OPCR 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: it
-version: 2022-02-08
+version: 2022-04-01
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20220208/it/xml/fedlex-data-admin-ch-eli-cc-2020-875-20220208-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220208/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2020-875-20220401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220208/it"
 
 (Ordinanza COVID-19 casi di rigore 2020, OPCR 20)**[^t-1]**
 
-del 25 novembre 2020 (Stato 8 febbraio 2022) (Stato 8 febbraio 2022)
+del 25 novembre 2020 (Stato 1° aprile 2022) (Stato 1° aprile 2022)
 
 [^t-1]: Nuovo testo giusta l’art 19 dell’O del 2 feb. 2022 sui provvedimenti per i casi di rigore concernenti le imprese in relazione all’epidemia di COVID-19 nel 2022, in vigore dall’8 feb. 2022 al 31 dic. 2031 ([RU 2022 61](https://fedlex.data.admin.ch/eli/oc/2022/61)).
 
