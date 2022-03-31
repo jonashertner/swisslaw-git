@@ -4,13 +4,13 @@ number: "161"
 title: Verordnung zum Gesetz über den Finanzhaushalt der Gemeinden
 short: FHGV
 language: de
-version: 2018-01-01
-valid_until: 2022-03-31
-version_adopted: 2017-01-10
+version: 2022-04-01
+valid_until: 2023-05-31
+version_adopted: 2022-03-08
 adopted: 2017-01-10
 in_force: 2018-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/161"
-pdf: "https://srl.lu.ch/api/de/versions/3138/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3898/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3138/pdf_file"
 
 (FHGV)
 
-vom 10.01.2017 (Stand 01.01.2018)
+vom 10.01.2017 (Stand 01.04.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -71,11 +71,11 @@ beschliesst:
 <sup>1</sup> Für die Finanzkennzahlen gelten die folgenden Bandbreiten:
 
 - a. Der Nettoverschuldungsquotient soll 150 Prozent nicht übersteigen.
-- b. Der Selbstfinanzierungsgrad soll im Durchschnitt von fünf Jahren mindestens 80 Prozent erreichen, wenn die Nettoschuld pro Einwohner und Einwohnerin mehr als das kantonale Mittel beträgt.
+- b. Der Selbstfinanzierungsgrad in der Jahresrechnung soll im Durchschnitt von fünf Jahren (Rechnungsjahr und vier Vorjahre) mindestens 80 Prozent erreichen, wenn die Nettoschuld pro Einwohner und Einwohnerin mehr als 1500 Franken beträgt. Im Aufgaben- und Finanzplan soll der Selbstfinanzierungsgrad im Durchschnitt des Budgetjahres und der drei Planjahre mindestens 80 Prozent erreichen, wenn die Nettoschuld pro Einwohner und Einwohnerin mehr als 1500 Franken beträgt.
 - c. Der Zinsbelastungsanteil soll 4 Prozent nicht übersteigen.
-- d. Die Nettoschuld in Franken pro Einwohner und Einwohnerin soll das Zweifache des kantonalen Mittels nicht übersteigen.
-- e. Die Nettoschuld ohne Spezialfinanzierungen in Franken pro Einwohner und Einwohnerin soll das Zweifache des kantonalen Mittels nicht übersteigen.
-- f. Der Selbstfinanzierungsanteil soll sich auf mindestens 10 Prozent belaufen, wenn die Nettoschuld pro Einwohner und Einwohnerin mehr als das kantonale Mittel beträgt.
+- d. Die Nettoschuld pro Einwohner und Einwohnerin soll 2500 Franken nicht übersteigen.
+- e. Die Nettoschuld ohne Spezialfinanzierungen pro Einwohner und Einwohnerin soll 3000 Franken nicht übersteigen.
+- f. Der Selbstfinanzierungsanteil soll sich auf mindestens 10 Prozent belaufen, wenn die Nettoschuld pro Einwohner und Einwohnerin mehr als 1500 Franken beträgt.
 - g. Der Kapitaldienstanteil soll 15 Prozent nicht übersteigen.
 - h. Der Bruttoverschuldungsanteil soll 200 Prozent nicht übersteigen.
 
