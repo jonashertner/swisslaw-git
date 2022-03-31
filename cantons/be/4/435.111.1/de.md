@@ -4,13 +4,13 @@ number: "435.111.1"
 title: "Direktionsverordnung über die Berufsbildung, die Weiterbildung und die Berufsberatung"
 short: BerDV
 language: de
-version: 2022-01-01
-valid_until: 2022-03-31
-version_adopted: 2021-11-30
+version: 2022-04-01
+valid_until: 2022-07-31
+version_adopted: 2022-02-25
 adopted: 2006-04-06
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/435.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2578/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2579/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2578/pdf_file"
 
 (BerDV)
 
-vom 06.04.2006 (Stand 01.01.2022)
+vom 06.04.2006 (Stand 01.04.2022)
 
 Die Erziehungsdirektion des Kantons Bern,
 
@@ -1642,6 +1642,18 @@ beschliesst:
 <sup>1</sup> Die definitiven Beiträge an die Weiterbildungsangebote des Kursjahres 2021 gemäss Artikel 76 berechnen sich aufgrund der jeweils geltenden Prozentsätze an die Gesamtkosten. Die Höchstbeträge je Kursstunde finden keine Anwendung.
 
 <sup>2</sup> Die definitiven Beiträge an die Weiterbildungsangebote des Kursjahres 2021 gemäss Artikel 77, die 20'000 Franken übersteigen, berechnen sich aufgrund des geltenden Prozentsatzes an die Kosten. Die Pauschalbeiträge je Kursstunde finden keine Anwendung.
+
+<sup>3</sup> Das zugesicherte Kostendach für einen im Zeitpunkt der Inkraftsetzung dieser Änderung gewährten Beitrag bleibt unverändert bestehen.
+
+## T7 Übergangsbestimmungen der Änderung vom 25.02.2022
+
+#### Art. T7-1
+
+**Beiträge an zielgruppen- und themenspezifische Weiterbildungsangebote im Kursjahr 2022**
+
+<sup>1</sup> Die definitiven Beiträge an die Weiterbildungsangebote des Kursjahres 2022 gemäss Artikel 76 berechnen sich aufgrund der jeweils geltenden Prozentsätze an die Gesamtkosten. Die Höchstbeträge je Kursstunde finden keine Anwendung.
+
+<sup>2</sup> Die definitiven Beiträge an die Weiterbildungsangebote des Kursjahres 2022 gemäss Artikel 77, die 20'000 Franken übersteigen, berechnen sich aufgrund des geltenden Prozentsatzes an die Kosten. Die Pauschalbeiträge je Kursstunde finden keine Anwendung.
 
 <sup>3</sup> Das zugesicherte Kostendach für einen im Zeitpunkt der Inkraftsetzung dieser Änderung gewährten Beitrag bleibt unverändert bestehen.
 

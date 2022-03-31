@@ -4,13 +4,13 @@ number: "435.111.1"
 title: "Ordonnance de Direction sur la formation professionnelle, la formation continue et l'orientation professionnelle"
 short: ODFOP
 language: fr
-version: 2022-01-01
-valid_until: 2022-03-31
-version_adopted: 2021-11-30
+version: 2022-04-01
+valid_until: 2022-07-31
+version_adopted: 2022-02-25
 adopted: 2006-04-06
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/435.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2578/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2579/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2578/pdf_file"
 
 (ODFOP)
 
-du 06.04.2006 (état au 01.01.2022)
+du 06.04.2006 (état au 01.04.2022)
 
 La Direction de l’instruction publique du canton de Berne,
 
@@ -1640,6 +1640,18 @@ arrête:
 <sup>1</sup> Les subventions définitives attribuées aux formations continues proposées durant l’année de cours 2021 conformément à l’article 76 sont calculées sur la base du pourcentage des frais totaux en vigueur pour la formation considérée. Les montants maximaux par heure de cours ne s’appliquent pas.
 
 <sup>2</sup> Les subventions définitives qui sont attribuées aux formations continues proposées durant l’année de cours 2021 conformément à l’article 77 et qui sont supérieures à 20'000 francs sont calculées sur la base du pourcentage des frais en vigueur. Les subventions forfaitaires par heure de cours ne s’appliquent pas.
+
+<sup>3</sup> Le plafond promis pour une subvention attribuée au moment de l’entrée en vigueur de la présente modification est maintenu.
+
+## T7 Dispositions transitoires de la modification du 25.02.2022
+
+#### Art. T7-1
+
+**Subventions attribuées aux formations continues destinées à un public spécifique et aux formations continues portant sur des thèmes spécifiques durant l’année de cours 2022**
+
+<sup>1</sup> Les subventions définitives attribuées aux formations continues proposées durant l’année de cours 2022 conformément à l’article 76 sont calculées sur la base du pourcentage des frais totaux en vigueur pour la formation considérée. Les montants maximaux par heure de cours ne s’appliquent pas.
+
+<sup>2</sup> Les subventions définitives qui sont attribuées aux formations continues proposées durant l’année de cours 2022 conformément à l’article 77 et qui sont supérieures à 20'000 francs sont calculées sur la base du pourcentage des frais en vigueur. Les subventions forfaitaires par heure de cours ne s’appliquent pas.
 
 <sup>3</sup> Le plafond promis pour une subvention attribuée au moment de l’entrée en vigueur de la présente modification est maintenu.
 
