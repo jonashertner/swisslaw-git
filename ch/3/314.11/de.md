@@ -4,11 +4,11 @@ title: Ordnungsbussenverordnung vom 16. Januar 2019 (OBV)
 short: OBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: de
-version: 2022-02-17
+version: 2022-04-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20220217/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20220217-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220217/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20220401-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220217/de"
 
 (OBV)
 
-vom 16. Januar 2019 (Stand am 17. Februar 2022)
+vom 16. Januar 2019 (Stand am 1. April 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -84,7 +84,7 @@ Anhang 1*[^t-1]*
 
 ## Bussenliste 1
 
-[^t-1]: Bereinigt gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)).
+[^t-1]: Bereinigt gemäss Ziff. I der V vom 20. Mai 2020 ([AS 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)) und vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)).
 
 ### Übertretungen nach dem Strassenverkehrsgesetz vom 19. Dezember 1958 (SVG)
 
@@ -426,8 +426,6 @@ Anhang 1*[^t-1]*
 <tr><td>340. Stehenbleiben mit einem Motorfahrzeug auf Autobahnen und Autostrassen, wenn das Motorfahrzeug auf dem Pannenstreifen oder auf einem Abstellplatz für Pannenfahrzeuge wegen Mangel an Treibstoff oder elektrischer Energie zum Stillstand gekommen ist (Art. 29 SVG)</td><td colspan="3">120</td></tr>
 <tr><td>341. Überfahren oder Überqueren einer Sicherheitslinie innerorts (Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV)</td><td colspan="3">140</td></tr>
 <tr><td>342. Überfahren oder Überqueren einer Sperrfläche innerorts (Art. 27 Abs. 1 SVG und Art. 78 SSV)</td><td colspan="3">140</td></tr>
-<tr><td>[tab]</td><td colspan="3"></td></tr>
-<tr><td>[tab]</td><td colspan="3"></td></tr>
 <tr><td>4. Motorfahrzeugführerinnen und ‑führer, Bau- und Ausrüstungsvorschriften</td><td colspan="3"></td></tr>
 <tr><td>400. Nichtmitführen</td><td colspan="3"></td></tr>
 <tr><td>1. des Pannendreiecks (Art. 90 Abs. 2 VTS[^annex1-lvlu1-lvlu1-10])</td><td colspan="3">40</td></tr>
@@ -469,10 +467,11 @@ Anhang 1*[^t-1]*
 <tr><td>601. Nichttragen des Schutzhelmes durch Personen auf Motorfahrrädern (Art. 3*b* Abs. 1 VRV)</td><td colspan="3">30</td></tr>
 <tr><td>602. Halten auf dem Fussgängerstreifen, wenn der Verkehr stockt (Art. 12 Abs. 3 VRV)</td><td colspan="3">20</td></tr>
 <tr><td>603. Unnötiges Laufenlassen des Motors eines stillstehenden Motorfahrrades (Art. 22 Abs. 1 und Art. 33 Bst. a VRV)</td><td colspan="3">20</td></tr>
-<tr><td>604. Fahren ohne Licht (Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 39 Abs. 2 VRV)</td><td colspan="3"></td></tr>
+<tr><td>604. Fahren ohne Licht (Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV)</td><td colspan="3"></td></tr>
 <tr><td>1. bei beleuchteter Strasse nachts</td><td colspan="3">40</td></tr>
 <tr><td>2. bei unbeleuchteter Strasse nachts</td><td colspan="3">60</td></tr>
 <tr><td>3. in einem beleuchteten Tunnel</td><td colspan="3">20</td></tr>
+<tr><td>4. tagsüber</td><td colspan="3">20</td></tr>
 <tr><td>605. 1. Unerlaubtes Befahren des Trottoirs (Art. 43 Abs. 2 SVG und 41 Abs. 2 VRV)</td><td colspan="3">40</td></tr>
 <tr><td>2. Behinderndes Befahren von Längsstreifen für Fussgänger (Art. 41 Abs. 3 VRV)</td><td colspan="3">40</td></tr>
 <tr><td>606. 1. Mitführen von Gegenständen, welche die Zeichengebung verunmöglichen (Art. 42 Abs. 2 VRV)</td><td colspan="3">20</td></tr>
@@ -534,6 +533,7 @@ Anhang 1*[^t-1]*
 <tr><td>3. von Markierungen (Art. 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79*a* SSV)</td><td colspan="3">20</td></tr>
 <tr><td>623. Nichtgewähren des Vortritts bei Fussgängerstreifen (Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV)</td><td colspan="3">40</td></tr>
 <tr><td>624. Verwenden eines Telefons ohne Freisprecheinrichtung während der Fahrt (Art. 3 Abs. 1 VRV)</td><td colspan="3">40</td></tr>
+<tr><td>625. Überschreiten der allgemeinen oder signalisierten Höchstgeschwindigkeit durch Personen auf Motorfahrrädern nach Abzug der vom ASTRA festgelegten Geräte- und Messunsicherheit (Art. 27 Abs. 1 SVG, Art. 4*a* Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22*a*, 22*b* Abs. 2 und 22*c* Abs. 1 SSV)</td><td colspan="3">30</td></tr>
 <tr><td>7. Radfahrerinnen und Radfahrer sowie Führerinnen und Führer von Motorfahrrädern und Elektro-Rikschas, Bau- und Ausrüstungsvorschriften und administrative Bestimmungen</td><td colspan="3"></td></tr>
 <tr><td>700. 1. …</td><td colspan="3"></td></tr>
 <tr><td>2. Benützen eines Motorfahrrades oder einer Elektro-Rikscha ohne Kontrollschild oder ohne gültige Vignette bei bestehender Versicherung (Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS)</td><td colspan="3">60</td></tr>
@@ -549,6 +549,9 @@ Anhang 1*[^t-1]*
 <tr><td>2. fest angebrachte Rückstrahler (Art. 178*a* Abs. 2 und 217 Abs. 1 VTS)</td><td colspan="3">40</td></tr>
 <tr><td>3. den erforderlichen Rückspiegel bei Motorfahrrädern (Art. 179*b* Abs. 1 VTS)</td><td colspan="3">20</td></tr>
 <tr><td>704. Mangelhafter Zustand des Reifens (Art. 175 Abs. 1, 178 Abs. 2 und 214 Abs. 1 VTS) pro Rad</td><td colspan="3">20</td></tr>
+<tr><td>[tab]</td><td colspan="3"></td></tr>
+<tr><td>[tab]</td><td colspan="3"></td></tr>
+<tr><td>[tab]</td><td colspan="3"></td></tr>
 <tr><td>8. Mitfahrerinnen und Mitfahrer</td><td colspan="3"></td></tr>
 <tr><td>800. Nichttragen</td><td colspan="3"></td></tr>
 <tr><td>1. der Sicherheitsgurten durch die Mitfahrerin oder den Mitfahrer (Art. 3*a* Abs. 1 VRV)</td><td colspan="3">60</td></tr>
@@ -579,7 +582,6 @@ Anhang 1*[^t-1]*
 <tr><td>2. Behinderndes Benützen der für die Fussgänger bestimmten Verkehrsflächen (Art. 50 Abs. 2 VRV)</td><td colspan="3">20</td></tr>
 <tr><td>3. Behinderndes Benützen der Fahrbahn verkehrsarmer Nebenstrassen (Art. 50 Abs. 2 VRV)</td><td colspan="3">20</td></tr>
 <tr><td>4. Nichtbeachten des Signals «Verbot für fahrzeugähnliche Geräte» (2.15.3; Art. 19 Abs. 5 SSV)</td><td colspan="3">20</td></tr>
-<tr><td>[tab]</td><td colspan="3"></td></tr>
 <tr><td>5. Verwendung von fahrzeugähnlichen Geräten auf nicht zugelassenen Verkehrsflächen (Art. 50 Abs. 1 und 2 VRV)</td><td colspan="3">20</td></tr>
 <tr><td>6. Missachten des Vortritts der Fussgänger (Art. 50*a* Abs. 2 VRV)</td><td colspan="3">30</td></tr>
 </table>
@@ -601,7 +603,7 @@ Anhang 2*[^t-2]*
 
 ## Bussenliste 2
 
-[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang Ziff. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Ziff. II der V vom 19. Jan. 2022 ([AS 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)), Anhang Ziff. 1 der Covid-19-Verordnung besondere Lage vom 16. Febr. 2022 ([AS 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)) und Ziff. III der V vom 16. Febr. 2022, in Kraft seit 17. Febr. 2022 ([AS 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
+[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang Ziff. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Ziff. II der V vom 19. Jan. 2022 ([AS 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)), Ziff. III der V vom 16. Febr. 2022 ([AS 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)) und Anhang Ziff. 1 der Covid-19-Verordnung besondere Lage vom 16. Febr. 2022, in Kraft seit 17. Febr. 2022, Ziff. 16002 bis zum 31. März 2022 ([AS 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
 
 ### Übertretungen nach den übrigen Erlassen
 
@@ -730,10 +732,8 @@ Anhang 2*[^t-2]*
 <tr><td>14002. Anbieten von Waren oder Dienstleistungen, deren Vertrieb im Reisendengewerbe gegen Einschränkungen oder Verbote verstösst (Art. 14 Abs. 1 Bst. e und Abs. 2 des Bundesgesetzes über das Gewerbe der Reisenden)</td><td>[tab] 200</td></tr>
 <tr><td>14003. Nichtmitführen der Bewilligung bei der Ausübung des Reisendengewerbes (Art. 14 Abs. 1 Bst. f und Abs. 2 des Bundesgesetzes über das Gewerbe der Reisenden)</td><td>[tab] 20</td></tr>
 <tr><td>XV. …</td><td></td></tr>
-<tr><td>XVI. Covid-19-Verordnung besondere Lage vom 16. Februar 2022**[^annex2-lvlu1-lvlu1-25]**</td><td></td></tr>
-<tr><td>16001. …</td><td>[tab]</td></tr>
-<tr><td>16002.[^annex2-lvlu1-lvlu1-26] Missachtung der Pflicht zum Tragen einer Gesichtsmaske in geschlossenen Bereichen von Fahrzeugen des öffentlichen Verkehrs oder in öffentlich zugänglichen Innenräumen von Spitälern, Kliniken, Alters- und Pflegeheimen (Art. 9 i.V.m. Art. 3 Abs. 1 oder Art. 4 Abs. 1 Covid-19-Verordnung besondere Lage)</td><td>[tab] 100</td></tr>
-<tr><td>**XVII.** **Epidemiengesetz vom 28. September 2012**[^annex2-lvlu1-lvlu1-27] **(EpG) i.V.m.** Covid-19-Verordnung internationaler Personenverkehr vom **23. Juni 2021**[^annex2-lvlu1-lvlu1-28]</td><td>[tab]</td></tr>
+<tr><td>XVI. …</td><td></td></tr>
+<tr><td>**XVII.**[^annex2-lvlu1-lvlu1-25] **Epidemiengesetz vom 28. September 2012**[^annex2-lvlu1-lvlu1-26] **(EpG) i.V.m.** Covid-19-Verordnung internationaler Personenverkehr vom **23. Juni 2021**[^annex2-lvlu1-lvlu1-27]</td><td>[tab]</td></tr>
 <tr><td>17001. Fehlender Nachweis einer molekularbiologischen Analyse auf Sars-Cov-2 oder eines Sars-CoV-2-Schnelltests zur Fachanwendung mit negativem Ergebnis bei der Einreise in die Schweiz (Art. 83 Abs. 1 Bst. k EpG i.V.m. Art. 8 Abs. 1 Covid-19-Verordnung internationaler Personenverkehr)</td><td>[tab] 200</td></tr>
 <tr><td>17002. Fehlende oder falsche Angaben der Kontaktdaten bei der Einreise in die Schweiz (Art. 83 Abs. 1 Bst. k EpG und Art. 3 Abs. 1 Covid-19-Verordnung internationaler Personenverkehr)</td><td>100</td></tr>
 </table>
@@ -762,10 +762,9 @@ Anhang 2*[^t-2]*
 [^annex2-lvlu1-lvlu1-22]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 [^annex2-lvlu1-lvlu1-23]: V vom 24. Nov. 1993 zum Bundesgesetz über die Fischerei ([SR 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384))
 [^annex2-lvlu1-lvlu1-24]: [SR 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
-[^annex2-lvlu1-lvlu1-25]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^annex2-lvlu1-lvlu1-26]: In Kraft bis 31. März 2022 ([AS 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
-[^annex2-lvlu1-lvlu1-27]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^annex2-lvlu1-lvlu1-28]: [SR 818.101.27](https://fedlex.data.admin.ch/eli/cc/2021/380)
+[^annex2-lvlu1-lvlu1-25]: Die beiden Einträge verfügen seit dem 1. Jan. 2023 über keine rechtliche Grundlage mehr. Siehe Art. 1 Abs. 1 Bst. a Ziff. 12*a* des Ordnungsbussengesetzes vom 18. März 2016 ([SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725); [AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 2).
+[^annex2-lvlu1-lvlu1-26]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^annex2-lvlu1-lvlu1-27]: [SR 818.101.27](https://fedlex.data.admin.ch/eli/cc/2021/380)
 
 Anhang 3
 

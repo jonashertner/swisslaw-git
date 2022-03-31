@@ -4,11 +4,11 @@ title: Ordinanza del 16 gennaio 2019 concernente le multe disciplinari (OMD)
 short: OMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: it
-version: 2022-02-17
+version: 2022-04-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20220217/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20220217-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220217/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20220401-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220217/it"
 
 (OMD)
 
-del 16 gennaio 2019 (Stato 17 febbraio 2022)
+del 16 gennaio 2019 (Stato 1° aprile 2022)
 
 Il Consiglio federale svizzero,
 
@@ -84,7 +84,7 @@ Allegato 1*[^t-1]*
 
 ## Elenco delle multe 1
 
-[^t-1]: Aggiornato dal n. I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)).
+[^t-1]: Aggiornato dai n. I delle O del 20 mag. 2020 ([RU 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)) e del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)).
 
 ### Contravvenzioni secondo la legge federale del 19 dicembre 1958**** sulla circolazione stradale (LCStr)
 
@@ -422,7 +422,7 @@ Allegato 1*[^t-1]*
 <tr><td>336. Fermata, in caso di arresto della circolazione, all’intersezione sulla carreggiata usata dai veicoli che circolano in senso trasversale (art. 12 cpv. 3 ONC)</td><td colspan="2">60</td></tr>
 <tr><td>337. Inosservanza dell’obbligo di dare la precedenza sui passaggi pedonali (art. 33 LCStr, art. 6 cpv. 1 e 2 ONC)</td><td colspan="2">140</td></tr>
 <tr><td>338. Trasporto non ammesso di una persona su veicoli adibiti al trasporto di cose e su veicoli agricoli e forestali (art. 61 ONC)</td><td colspan="2">60</td></tr>
-<tr><td>339. Per una persona non disabile, circolare su un’area di traffico destinata ai pedoni con sedia a rotelle motorizzata o monopattino elettrico (art. 43*a* cpv. 1 ONC)</td><td colspan="2">40</td></tr>
+<tr><td>339. Per una persona non disabile, circolare su un’area di traffico destinata ai pedoni con sedia a rotelle motorizzata o monopattino autobilanciato (art. 43*a* cpv. 1 ONC)</td><td colspan="2">40</td></tr>
 <tr><td>340. Arrestarsi con un veicolo a motore su un’autostrada o semiautostrada, se il veicolo a motore si è fermato sulla corsia di emergenza o su un posto di fermata per veicoli di panna a causa della mancanza di carburante o di energia elettrica (art. 29 LCStr)</td><td colspan="2">120</td></tr>
 <tr><td>341. Oltrepassare o passare sopra una linea di sicurezza nelle località (art. 34 cpv. 2 LCStr e art. 73 cpv. 6 lett. a OSStr)</td><td colspan="2">140</td></tr>
 <tr><td>342. Oltrepassare o passare sopra una superficie vietata al traffico nelle località (art. 27 cpv. 1 LCStr e art. 78 OSStr)</td><td colspan="2">140</td></tr>
@@ -467,10 +467,11 @@ Allegato 1*[^t-1]*
 <tr><td>601. Omissione di portare il casco di protezione da parte di persone su ciclomotori (art. 3*b* cpv. 1 ONC)</td><td colspan="2">30</td></tr>
 <tr><td>602. Fermarsi su un passaggio pedonale in caso di arresto della circolazione (art. 12 cpv. 3 ONC)</td><td colspan="2">20</td></tr>
 <tr><td>603. Fare funzionare inutilmente il motore di un ciclomotore fermo (art. 22 cpv. 1 e art. 33 lett. a ONC)</td><td colspan="2">20</td></tr>
-<tr><td>604. Circolare a luci spente (art. 41 cpv. 1 LCStr, art. 30 cpv. 1 e 39 cpv. 2 ONC)</td><td colspan="2"></td></tr>
+<tr><td>604. Circolare a luci spente (art. 41 cpv. 1 LCStr, art. 30 cpv. 1 e 2 e 39 cpv. 2 ONC)</td><td colspan="2"></td></tr>
 <tr><td>1. di notte, su strada illuminata</td><td colspan="2">40</td></tr>
 <tr><td>2. di notte, su strada non illuminata</td><td colspan="2">60</td></tr>
 <tr><td>3. in galleria illuminata</td><td colspan="2">20</td></tr>
+<tr><td>4. di giorno</td><td colspan="2">20</td></tr>
 <tr><td>605. 1. Circolazione non autorizzata sul marciapiede (art. 43 cpv. 2 LCStr e art 41 cpv. 2 ONC)</td><td colspan="2">40</td></tr>
 <tr><td>2. Circolare sulle corsie pedonali longitudinali ostacolando il traffico pedonale (art. 41 cpv. 3 ONC)</td><td colspan="2">40</td></tr>
 <tr><td>606. 1. Trasporto di oggetti che impediscono di fare segnalazioni (art. 42 cpv. 2 ONC)</td><td colspan="2">20</td></tr>
@@ -532,6 +533,7 @@ Allegato 1*[^t-1]*
 <tr><td>3. la demarcazione (art. 18 cpv. 3, 19 cpv. 2 lett. a e d nonché 41 cpv. 3 ONC; art. 34 cpv. 1, 78, 79 cpv. 3-5 e 79*a* OSStr)</td><td colspan="2">20</td></tr>
 <tr><td>623. Inosservanza dell’obbligo di dare la precedenza sui passaggi pedonali (art. 33 LCStr, art. 6 cpv. 1 e 2 ONC)</td><td colspan="2">40</td></tr>
 <tr><td>624. Impiego, durante la guida, di un telefono senza dispositivo «mani libere» (art. 3 cpv. 1 ONC)</td><td colspan="2">40</td></tr>
+<tr><td>625. Superamento della velocità massima consentita o segnalata da parte di persone su ciclomotori, dopo la detrazione del margine di incertezza dovuto alla misura e agli apparecchi definito dall’USTRA (art. 27 cpv. 1 LCStr, art. 4*a* cpv. 1 e 42 cpv. 4 ONC, art. 22 cpv. 1, 22*a*, 22*b* cpv. 2 e 22*c* cpv. 1 OSStr)</td><td colspan="2">30</td></tr>
 <tr><td>7. Ciclisti, ciclomotoristi e conducenti di risciò elettrici; prescrizioni concernenti la costruzione e l’equipaggiamento e disposizioni amministrative</td><td colspan="2"></td></tr>
 <tr><td>700. 1. ...</td><td colspan="2"></td></tr>
 <tr><td>2. Uso di un ciclomotore o di un risciò elettrico senza targa o senza contrassegno valido benché sia stata stipulata l’assicurazione (art. 90 e 94 cpv. 6 OAC; art. 176 cpv. 4 OETV)</td><td colspan="2">60</td></tr>
@@ -598,7 +600,7 @@ Allegato 2*[^t-2]*
 
 ## Elenco delle multe 2
 
-[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), dall’all. n. 1 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II dell’O del 19 gen. 2022 ([RU 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)) e dall’all. n. 1 dell’O COVID-19 situazione particolare del 16 feb. 2022 ([RU 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)) e dal n. III dell’O del 16 feb. 2022, in vigore dal 17 feb. 2022 ([RU 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
+[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), dall’all. n. 1 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II dell’O del 19 gen. 2022 ([RU 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)), dal n. III dell’O del 16 feb. 2022 ([RU 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)) e dall’all. n. 1 dell’O COVID-19 situazione particolare del 16 feb. 2022, in vigore dal 17 feb. 2022, n. 16002 con effetto sino al 31 mar. 2022 ([RU 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
 
 ### Contravvenzioni secondo gli altri atti normativi
 
@@ -727,10 +729,8 @@ Allegato 2*[^t-2]*
 <tr><td>14002. Offerta di merci o servizi la cui vendita nell’ambito del commercio ambulante infrange limitazioni o divieti (art. 14 cpv. 1 lett. e e cpv. 2 della LF sul commercio ambulante)</td><td colspan="2">[tab] 200</td></tr>
 <tr><td>14003. Omissione di avere con sé l’autorizzazione mentre si esercita il commercio ambulante (art. 14 cpv. 1 lett. f e cpv. 2 della LF sul commercio ambulante)</td><td colspan="2">[tab] 20</td></tr>
 <tr><td>XV. ...</td><td colspan="2"></td></tr>
-<tr><td>XVI. Ordinanza COVID-19 situazione particolare del 16 febbraio 2022**[^annex2-lvlu1-lvlu1-25]**</td><td colspan="2">[tab]</td></tr>
-<tr><td>16001. *...*</td><td colspan="2">[tab]</td></tr>
-<tr><td>16002.[^annex2-lvlu1-lvlu1-26] Violazione dell’obbligo di portare una mascherina facciale in settori chiusi di veicoli del trasporto pubblico, in luoghi chiusi accessibili al pubblico di ospedali e cliniche nonché di case di cura e case per anziani (art. 9 in combinato disposto con l’art. 3 cpv. 1 o art. 4 cpv. 1 dell’ordinanza COVID-19 situazione particolare)</td><td colspan="2">[tab] 100</td></tr>
-<tr><td>**XVII.** **Legge del 28 settembre 2012**[^annex2-lvlu1-lvlu1-27] **sulle epidemie (LEp) in combinato disposto con l’ordinanza COVID-19 traffico internazionale viaggiatori del 23 giugno 2021**[^annex2-lvlu1-lvlu1-28]</td><td colspan="2">[tab]</td></tr>
+<tr><td>XVI. ...</td><td colspan="2">[tab]</td></tr>
+<tr><td>[tab] **XVII.**[^annex2-lvlu1-lvlu1-25]**Legge del 28 settembre 2012**[^annex2-lvlu1-lvlu1-26] **sulle epidemie (LEp) in combinato disposto con l’ordinanza COVID-19 traffico internazionale viaggiatori del 23 giugno 2021**[^annex2-lvlu1-lvlu1-27]</td><td colspan="2">[tab]</td></tr>
 <tr><td colspan="2">17001. Mancata attestazione di un’analisi di biologia molecolare per il SARS-CoV-2 o di un test rapido SARS-CoV-2 per uso professionale con risultato negativo all’entrata in Svizzera (art. 83 cpv. 1 lett. k LEp in combinato disposto con l’art. 8 cpv. 1 dell’ordinanza COVID-19 traffico internazionale viaggiatori)</td><td colspan="2">200</td></tr>
 <tr><td colspan="2">17002. Dati di contatto errati o mancanti all’entrata in Svizzera (art. 83 cpv. 1 lett. k LEp e art. 3 cpv. 1 dell’ordinanza COVID-19 traffico internazionale viaggiatori)</td><td colspan="2">100</td></tr>
 </table>
@@ -759,10 +759,9 @@ Allegato 2*[^t-2]*
 [^annex2-lvlu1-lvlu1-22]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 [^annex2-lvlu1-lvlu1-23]: O del 24 nov. 1993 concernente la legge federale sulla pesca ([RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)).
 [^annex2-lvlu1-lvlu1-24]: [RS 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
-[^annex2-lvlu1-lvlu1-25]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^annex2-lvlu1-lvlu1-26]: In vigore fino al 31 mar. 2022 ([RU 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
-[^annex2-lvlu1-lvlu1-27]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^annex2-lvlu1-lvlu1-28]: [RS 818.101.27](https://fedlex.data.admin.ch/eli/cc/2021/380)
+[^annex2-lvlu1-lvlu1-25]: Le due voci sono prive di base giuridica dal 1° gennaio 2023. Cfr. art. 1 cpv. 1 let. a n. 12*a* della legge sulle multe disciplinari del 18 marzo 2016 ([RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725); [RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)n. III 2).
+[^annex2-lvlu1-lvlu1-26]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^annex2-lvlu1-lvlu1-27]: [RS 818.101.27](https://fedlex.data.admin.ch/eli/cc/2021/380)
 
 Allegato 3
 

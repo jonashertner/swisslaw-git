@@ -4,11 +4,11 @@ title: "Ordonnance du 16 janvier 2019 sur les amendes d'ordre (OAO)"
 short: OAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: fr
-version: 2022-02-17
+version: 2022-04-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20220217/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20220217-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220217/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20220401-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220217/fr"
 
 (OAO)
 
-du 16 janvier 2019 (Etat le 17 février 2022)
+du 16 janvier 2019 (Etat le 1<sup>er</sup> avril 2022)
 
 Le Conseil fédéral suisse,
 
@@ -56,7 +56,7 @@ Les contraventions punies dans la procédure de l’amende d’ordre et les mont
 
 L’ordonnance du 4 mars 1996 sur les amendes d’ordre[^3-1] est abrogée.
 
-[^3-1]: [[RO 1996 1078](https://fedlex.data.admin.ch/eli/oc/1996/1078_1078_1078), [1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)ch. II 1, [1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)ch. III [1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 ch. 2, [2000 2880](https://fedlex.data.admin.ch/eli/oc/2000/498), [2001 1372](https://fedlex.data.admin.ch/eli/oc/2001/192), [2002 1928](https://fedlex.data.admin.ch/eli/oc/2002/287)[3210 4212](https://fedlex.data.admin.ch/eli/oc/3210/4212)art. 29 al. 2 ch. 1, [2004 3517](https://fedlex.data.admin.ch/eli/oc/2004/470), [2005 4481](https://fedlex.data.admin.ch/eli/oc/2005/580), [2006 1669](https://fedlex.data.admin.ch/eli/oc/2006/260), [2009 5699](https://fedlex.data.admin.ch/eli/oc/2009/694), [2011 4931](https://fedlex.data.admin.ch/eli/oc/2011/712), [2012 1819](https://fedlex.data.admin.ch/eli/oc/2012/258), [2013 4681](https://fedlex.data.admin.ch/eli/oc/2013/824), [2015 1311](https://fedlex.data.admin.ch/eli/oc/2015/273)[2449](https://fedlex.data.admin.ch/eli/oc/2015/459), [2017 2647](https://fedlex.data.admin.ch/eli/oc/2017/261)]
+[^3-1]: [[RO 1996 1078](https://fedlex.data.admin.ch/eli/oc/1996/1078_1078_1078); [1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)ch. II 1; [1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)ch. III, [1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 ch. 2; [2000 2880](https://fedlex.data.admin.ch/eli/oc/2000/498); [2001 1372](https://fedlex.data.admin.ch/eli/oc/2001/192); [2002 1928](https://fedlex.data.admin.ch/eli/oc/2002/287),[3210](https://fedlex.data.admin.ch/eli/oc/2002/480), [4212](https://fedlex.data.admin.ch/eli/oc/2002/685)art. 29 al. 2 ch. 1; [2004 3517](https://fedlex.data.admin.ch/eli/oc/2004/470); [2005 4481](https://fedlex.data.admin.ch/eli/oc/2005/580); [2006 1669](https://fedlex.data.admin.ch/eli/oc/2006/260); [2009 5699](https://fedlex.data.admin.ch/eli/oc/2009/694); [2011 4931](https://fedlex.data.admin.ch/eli/oc/2011/712); [2012 1819](https://fedlex.data.admin.ch/eli/oc/2012/258); [2013 4681](https://fedlex.data.admin.ch/eli/oc/2013/824); [2015 1311](https://fedlex.data.admin.ch/eli/oc/2015/273), [2449](https://fedlex.data.admin.ch/eli/oc/2015/459); [2017 2647](https://fedlex.data.admin.ch/eli/oc/2017/261)]
 
 #### Art. 4
 
@@ -82,7 +82,7 @@ Annexe 1*[^t-1]*
 
 ## Liste des amendes 1
 
-[^t-1]: Mise à jour par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)).
+[^t-1]: Mise à jour par le ch. I des O du 20 mai 2020 ([RO 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)) et du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)).
 
 ### Contraventions à la loi du 19 décembre 1958 sur la circulation routière (LCR)****
 
@@ -465,10 +465,11 @@ Annexe 1*[^t-1]*
 <tr><td>601. Conducteurs de cyclomoteurs ne portant pas le casque (art. 3*b*, al. 1, OCR)</td><td>30</td></tr>
 <tr><td>602. S’arrêter sur un passage pour piétons lorsque la circulation est arrêtée (art. 12, al. 3, OCR)</td><td>20</td></tr>
 <tr><td>603. Faire tourner inutilement le moteur d’un cyclomoteur à l’arrêt (art. 22, al. 1, et art. 33, let. a, OCR)</td><td>20</td></tr>
-<tr><td>604. Circuler sans feu (art. 41, al. 1, LCR et art. 30, al. 1, et 39, al. 2, OCR)</td><td></td></tr>
+<tr><td>604. Circuler sans feu (art. 41, al. 1, LCR, art. 30, al. 1 et 2, et 39, al. 2, OCR)</td><td></td></tr>
 <tr><td>1. sur une route éclairée, de nuit</td><td>40</td></tr>
 <tr><td>2. sur une route non éclairée, de nuit</td><td>60</td></tr>
 <tr><td>3. dans un tunnel éclairé</td><td>20</td></tr>
+<tr><td>4. de jour</td><td>20</td></tr>
 <tr><td>605. 1. Rouler sur le trottoir malgré l’interdiction (art. 43, al. 2, LCR et art. 41, al. 2, OCR)</td><td>40</td></tr>
 <tr><td>2. Gêner la circulation des piétons en empruntant une bande longitudinale pour piétons (art. 41, al. 3, OCR)</td><td>40</td></tr>
 <tr><td>606. 1. Transporter des objets empêchant de faire des signes de la main (art. 42, al. 2, OCR)</td><td>20</td></tr>
@@ -530,6 +531,7 @@ Annexe 1*[^t-1]*
 <tr><td>3. des marquages (art. 18, al. 3, 19, al. 2, let. a et d, et 41, al. 3, OCR; art. 34, al. 1, 78, 79, al. 3 à 5, et 79*a* OSR)</td><td>20</td></tr>
 <tr><td>623. Ne pas accorder la priorité à un passage pour piétons (art. 33 LCR, art. 6, al. 1 et 2, OCR)</td><td>40</td></tr>
 <tr><td>624. Utiliser un téléphone sans dispositif «mains libres» pendant la course (art. 3, al. 1, OCR)</td><td>40</td></tr>
+<tr><td>625. Dépasser la vitesse maximale autorisée ou la vitesse maximale signalée sur un cyclomoteur après déduction de la marge d’erreur inhérente aux appareils et aux mesures fixée par l’OFROU (art. 27, al. 1, LCR, art. 4*a,* al. 1, et 42, al. 4, OCR, art. 22, al. 1, 22*a*, 22*b,* al. 2, et 22*c,* al. 1, OSR)</td><td>30</td></tr>
 <tr><td>7. Cyclistes, cyclomotoristes et conducteurs de vélos-taxis électriques; prescriptions sur la construction et l’équipement et dispositions administratives</td><td></td></tr>
 <tr><td>700. 1. …</td><td></td></tr>
 <tr><td>2. Utiliser un cyclomoteur ou un vélo-taxi électrique dépourvu de la plaque de contrôle ou d’une vignette valable, lorsqu’une assurance a été conclue (art. 90 et 94, al. 6, OAC; art. 176, al. 4, OETV)</td><td>60</td></tr>
@@ -595,7 +597,7 @@ Annexe 2*[^t-2]*
 
 ## Liste des amendes 2
 
-[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)), l’annexe ch. 1 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. II de l’O du 19 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)), l’annexe ch. 1 de l’O COVID-19 situation particulière du 16 fév. 2022 ([RO 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)) et le ch. III de l’O du 16 fév. 2022, en vigueur depuis le 17 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
+[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), du 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)) et du 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)), l’annexe ch. 1 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. II de l’O du 19 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)), le ch. III de l’O du 16 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)) et l’annexe ch. 1 de l’O COVID-19 situation particulière du 16 fév. 2022, en vigueur depuis le 17 fév. 2022, le ch. 16002 en vigueur jusqu’au 31 mars 2022 ([RO 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
 
 ### Contraventions à d’autres actes normatifs
 
@@ -603,7 +605,7 @@ Annexe 2*[^t-2]*
 <tr><th></th><th>Fr.</th></tr>
 <tr><td>I**.** **Loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI)**[^annex2-lvlu1-lvlu1-1]</td><td></td></tr>
 <tr><td>1001. Ne pas collaborer à l’obtention de documents de voyage (art. 120, al. 1, let. e, LEI)</td><td>100</td></tr>
-<tr><td>**II.** **Loi du 26 juin 1998 sur l’asile (LAsi)**[^annex2-lvlu1-lvlu1-2]</td><td></td></tr>
+<tr><td>**II.** **Loi du** **26 juin 1998 sur l’asile (LAsi)**[^annex2-lvlu1-lvlu1-2]</td><td></td></tr>
 <tr><td>2001. Violer l’obligation d’informer en refusant de donner un renseignement (art. 116, let. a, LAsi)</td><td>200</td></tr>
 <tr><td>**III.** **Loi fédérale du 19 décembre 1986 contre la concurrence déloyale (LCD)**[^annex2-lvlu1-lvlu1-3]</td><td></td></tr>
 <tr><td>3001. Violer l’obligation d’indiquer les prix ou le prix unitaire (art. 24, al. 1, let. a, et al. 2, LCD)</td><td>200</td></tr>
@@ -724,10 +726,8 @@ Annexe 2*[^t-2]*
 <tr><td>14002. Offrir des marchandises ou des services en violation des interdictions ou restrictions prévues (art. 14, al. 1, let. e, et al. 2 de la loi fédérale sur le commerce itinérant)</td><td>200</td></tr>
 <tr><td>14003. Ne pas porter sur soi l’autorisation de pratiquer le commerce itinérant dans l’exercice de cette activité (art. 14, al. 1, let. f, et al. 2 de la loi fédérale sur le commerce itinérant)</td><td>20</td></tr>
 <tr><td>**XV.** **…**</td><td></td></tr>
-<tr><td>**XVI.** Ordonnance COVID-19 du 16 février 2022 situation **particulière**[^annex2-lvlu1-lvlu1-25]</td><td>[tab]</td></tr>
-<tr><td>16001. …</td><td>[tab]</td></tr>
-<tr><td>16002.[^annex2-lvlu1-lvlu1-26] Infractions à l’obligation de porter un masque facial dans les espaces clos des véhicules de transports publics ou dans les espaces intérieurs accessibles au public des hôpitaux, cliniques et établissements médico-sociaux (art. 9 en relation avec l’art. 3, al. 1, ou 4, al. 1, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
-<tr><td>**XVII.** **Loi du 28 septembre 2012 sur les épidémies (LEp) , en relation avec l’ordonnance COVID-19 du 23 juin 2021 transport international de voyageurs**</td><td>[tab]</td></tr>
+<tr><td>**XVI.** **…**</td><td>[tab]</td></tr>
+<tr><td>[tab] **XVII.**[^annex2-lvlu1-lvlu1-25]**Loi du 28 septembre 2012 sur les épidémies (LEp) , en relation avec l’ordonnance COVID-19 du 23 juin** **2021 transport international de voyageurs**</td><td>[tab]</td></tr>
 <tr><td>17001. Ne pas fournir la preuve d’un résultat négatif à une analyse de biologie moléculaire pour le SARS-CoV-2 ou à un test rapide SARS-CoV-2 avec application par un professionnel lors de l’entrée en Suisse (art. 83, al. 1, let. k, LEp, en relation avec l’art. 8, al. 1, de l’ordonnance COVID-19 transport international de voyageurs)</td><td>200</td></tr>
 <tr><td>17002. Fournir des coordonnées incomplètes ou erronées lors de l’entrée en Suisse (art. 83, al. 1, let. k, LEp et 3, al. 1, de l’ordonnance COVID-19 transport international de voyageurs)</td><td>100</td></tr>
 </table>
@@ -756,8 +756,7 @@ Annexe 2*[^t-2]*
 [^annex2-lvlu1-lvlu1-22]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 [^annex2-lvlu1-lvlu1-23]: O du 24 novembre 1993 relative à la loi fédérale sur la pêche ([RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384))
 [^annex2-lvlu1-lvlu1-24]: [RS 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
-[^annex2-lvlu1-lvlu1-25]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^annex2-lvlu1-lvlu1-26]: En vigueur jusqu’au 31 mars 2022 ([RO 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
+[^annex2-lvlu1-lvlu1-25]: Les deux entrées ne disposent plus de base légale depuis le 1<sup>er</sup> janv. 2023. Voir art. 1, al. 1, let. a, ch. 12*a*, de la loi du 18 mars 2016 sur les amendes d’ordre ([RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725); [RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 2).
 
 Annexe 3
 
