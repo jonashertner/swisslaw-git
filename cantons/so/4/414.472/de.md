@@ -3,20 +3,20 @@ canton: SO
 number: "414.472"
 title: Reglement über die gymnasialen Maturitätsprüfungen
 language: de
-version: 2020-09-01
-valid_until: 2022-03-31
-version_adopted: 2020-05-18
+version: 2022-04-01
+valid_until: 2026-07-31
+version_adopted: 2022-03-15
 adopted: 2013-07-01
 in_force: 2013-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/414.472"
-pdf: "https://bgs.so.ch/api/de/versions/4947/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5181/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die gymnasialen Maturitätsprüfungen
 
-Vom 01.07.2013 (Stand 01.09.2020)
+Vom 01.07.2013 (Stand 01.04.2022)
 
 Das Departement für Bildung und Kultur des Kantons Solothurn
 
@@ -232,17 +232,17 @@ erlässt:
 
 #### § 23
 
-**Maturitätsnoten und Nachprüfungen bei Repetition des letzten Schuljahres**
+**Erfahrungsnoten und Maturitätsarbeit bei Repetition des letzten Schuljahres**
 
 <sup>1</sup> Die Erfahrungsnoten in den Fächern Deutsch, Französisch oder Italienisch, Italienisch oder Französisch oder Englisch oder Latein, Mathematik, Physik und Geschichte sowie die Erfahrungsnoten im Schwerpunktfach stützen sich ausschliesslich auf das Repetitionsjahr.
 
-<sup>2</sup> Ist die Maturitätsnote im geprüften Fach Geschichte oder Geografie ungenügend, kann der Schüler oder die Schülerin eine Nachprüfung in diesem Fach absolvieren. Die Maturitätsnote ergibt sich aus der Note dieser Nachprüfung und der Erfahrungsnote.
+<sup>2</sup> …
 
-<sup>3</sup> Ist die Maturitätsnote im geprüften Fach Biologie oder Chemie oder Physik ungenügend, kann der Schüler oder die Schülerin eine Nachprüfung in diesem Fach absolvieren. Die Maturitätsnote ergibt sich aus der Note dieser Nachprüfung und der Erfahrungsnote.
+<sup>3</sup> …
 
 <sup>4</sup> Eine weitere Maturitätsarbeit kann verfasst werden, sofern die erste ungenügend war.
 
-<sup>5</sup> Die Schulleitung bestimmt die Prüfungsmodalitäten der Nachprüfungen.
+<sup>5</sup> …
 
 ## 4<sup>bis</sup>.
 
