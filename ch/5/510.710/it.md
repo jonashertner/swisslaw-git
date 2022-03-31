@@ -4,11 +4,11 @@ title: "Ordinanza dell' 11 febbraio 2004 sulla circolazione stradale militare (O
 short: OCSM
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/108"
 language: it
-version: 2022-01-01
+version: 2022-04-01
 adopted: 2004-02-11
 in_force: 2004-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/108/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2004-108-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/108/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/108/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2004-108-20220401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/108/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/108/20220101/it"
 
 (OCSM)
 
-dell’11 febbraio 2004 (Stato 1° gennaio 2022)
+dell’11 febbraio 2004 (Stato 1° aprile 2022)
 
 Il Consiglio federale svizzero,
 
@@ -314,10 +314,9 @@ Il personale civile dell’Aggruppamento Difesa che, durante un impiego militare
 <table>
 <tr><td></td><td>Codice</td></tr>
 <tr><td>a. motociclette;</td><td>910</td></tr>
-<tr><td>b. autoveicoli leggeri con un peso totale massimo di 3500 kg;</td><td>920</td></tr>
+<tr><td>b.[^19-2] autoveicoli leggeri con peso totale massimo di 3500 kg e auto-veicoli di cui all’articolo 4 capoverso 5 lettera f numero 2 OAC ;</td><td>920</td></tr>
 <tr><td>c. autoveicoli pesanti con un peso totale superiore a 3500 kg;</td><td>930</td></tr>
 <tr><td>d. autoveicoli la cui velocità massima non supera 45 km/h;</td><td>940</td></tr>
-<tr><td>[tab]</td><td>Codice</td></tr>
 <tr><td>e. veicoli blindati cingolati;</td><td>950</td></tr>
 <tr><td>f. veicoli blindati ruotati;</td><td>960</td></tr>
 <tr><td>g. veicoli speciali;</td><td>970</td></tr>
@@ -332,6 +331,7 @@ L’UCNEs può:
 - b. estendere o limitare le autorizzazioni a condurre a determinate categorie o tipi di veicoli.
 
 [^19-1]: Nuova espr. giusta il n. I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1801](https://fedlex.data.admin.ch/eli/oc/2013/407)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^19-2]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 12](https://fedlex.data.admin.ch/eli/oc/2022/12)).
 
 #### Art. 20
 

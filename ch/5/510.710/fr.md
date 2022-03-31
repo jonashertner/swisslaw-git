@@ -4,11 +4,11 @@ title: Ordonnance du 11 février 2004 sur la circulation militaire (OCM)
 short: OCM
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/108"
 language: fr
-version: 2022-01-01
+version: 2022-04-01
 adopted: 2004-02-11
 in_force: 2004-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/108/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-108-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/108/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/108/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2004-108-20220401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/108/20220401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/108/20220101/fr"
 
 (OCM)
 
-du 11 février 2004 (Etat le 1<sup>er</sup> janvier 2022)
+du 11 février 2004 (Etat le 1<sup>er</sup> avril 2022)
 
 Le Conseil fédéral suisse,
 
@@ -316,7 +316,7 @@ Tout membre du personnel civil du Groupement Défense qui conduit pendant un eng
 <table>
 <tr><th>[tab]</th><th>[tab]</th><th>Code</th></tr>
 <tr><td>[tab] a.</td><td>[tab] motocycles;</td><td>[tab] 910</td></tr>
-<tr><td>[tab] b.</td><td>[tab] voitures automobiles légères dont le poids total n’excède pas 3500 kg;</td><td>[tab] 920</td></tr>
+<tr><td>[tab] b.[^19-2]</td><td>[tab] voitures automobiles légères dont le poids total n’excède pas 3500 kg ainsi que voitures automobiles au sens de l’art. 4, al. 5, let. f, ch. 2, OAC[^19-3];</td><td>[tab] 920</td></tr>
 <tr><td>[tab] c.</td><td>[tab] voitures automobiles lourdes dont le poids total excède 3500 kg;</td><td>[tab] 930</td></tr>
 <tr><td>[tab] d.</td><td>[tab] véhicules automobiles dont la vitesse maximale n’excède pas les 45 km/h;</td><td>[tab] 940</td></tr>
 <tr><td>[tab] e.</td><td>[tab] véhicules blindés à chenilles;</td><td>[tab] 950</td></tr>
@@ -333,6 +333,8 @@ L’OCRNA peut:
 - b. étendre ou limiter les autorisations de conduire à certaines catégories ou types de véhicules.
 
 [^19-1]: Nouvelle expression selon le ch. I de l’O du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1801](https://fedlex.data.admin.ch/eli/oc/2013/407)). Il a été tenu compte de cette mod. dans tout le texte.
+[^19-2]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 12](https://fedlex.data.admin.ch/eli/oc/2022/12)).
+[^19-3]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 
 #### Art. 20
 

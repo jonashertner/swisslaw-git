@@ -4,11 +4,11 @@ title: Verordnung vom 11. Februar 2004 über den militärischen Strassenverkehr 
 short: VMSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/108"
 language: de
-version: 2022-01-01
+version: 2022-04-01
 adopted: 2004-02-11
 in_force: 2004-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/108/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2004-108-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/108/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/108/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2004-108-20220401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/108/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/108/20220101/de"
 
 (VMSV)
 
-vom 11. Februar 2004 (Stand am 1. Januar 2022)
+vom 11. Februar 2004 (Stand am 1. April 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -316,7 +316,7 @@ Wer als ziviles Personal der Gruppe Verteidigung während eines militärischen E
 <table>
 <tr><th></th><th>Code</th></tr>
 <tr><td>a. Motorräder;</td><td>910</td></tr>
-<tr><td>b. Leichte Motorwagen bis 3500 kg Gesamtgewicht;</td><td>920</td></tr>
+<tr><td>b.[^19-2] Leichte Motorwagen bis 3500 kg Gesamtgewicht sowie Motorwagen nach Artikel 4 Absatz 5 Buchstabe f Ziffer 2 VZV[^19-3];</td><td>920</td></tr>
 <tr><td>c. Schwere Motorwagen über 3500 kg Gesamtgewicht;</td><td>930</td></tr>
 <tr><td>d. Motorfahrzeuge mit einer Höchstgeschwindigkeit bis 45 km/h;</td><td>940</td></tr>
 <tr><td>e. Gepanzerte Raupenfahrzeuge;</td><td>950</td></tr>
@@ -333,6 +333,8 @@ Das SVSAA kann:
 - b. die militärischen Fahrberechtigungen auf bestimmte Kategorien oder Fahrzeugtypen erweitern oder beschränken.
 
 [^19-1]: Ausdruck gemäss Ziff. I der V vom 14. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1801](https://fedlex.data.admin.ch/eli/oc/2013/407)). Diese Änd. ist im ganzen Erlass berücksichtigt.
+[^19-2]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 12](https://fedlex.data.admin.ch/eli/oc/2022/12)).
+[^19-3]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 
 #### Art. 20
 
