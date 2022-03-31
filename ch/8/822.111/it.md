@@ -4,11 +4,11 @@ title: Ordinanza 1 del 10 maggio 2000 concernente la legge sul lavoro (OLL 1)
 short: OLL 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/243"
 language: it
-version: 2022-03-10
+version: 2022-04-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20220310/it/xml/fedlex-data-admin-ch-eli-cc-2000-243-20220310-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20220310/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2000-243-20220401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20220310/it"
 
 (OLL 1)
 
-del 10 maggio 2000 (Stato 10 marzo 2022)
+del 10 maggio 2000 (Stato 1° aprile 2022)
 
 Il Consiglio federale svizzero,
 
@@ -426,55 +426,70 @@ Il lavoro straordinario può essere svolto anche di notte o la domenica ed ecced
 
 #### Art. 27
 
-**Urgente bisogno**
+**Urgente bisogno**[^27-1]
 
 ### (art. 17, 19 e 24 LL)
 
 <sup>1</sup>
 
-Sussiste un urgente bisogno quando:
+Sussiste un urgente bisogno di ricorrere al lavoro notturno o domenicale ai sensi degli articoli 17 capoverso 3, 19 capoverso 3 e 24 capoverso 3 della legge quando:
 
-- a. sorge la necessità di eseguire lavori supplementari che non possono essere differiti e che nessuna pianificazione o misura organizzativa consente di svolgere di giorno e durante i giorni feriali;
-- b. per motivi di sicurezza pubblica o di sicurezza tecnica, determinati lavori possono essere svolti solo di notte o di domenica; o
-- c. eventi di natura culturale, sociale o sportiva legati a condizioni e usi locali o a bisogni specifici della clientela esigono l’esecuzione di lavori di durata limitata, durante la notte o la domenica.
+- a. nessuna pianificazione o misura organizzativa consente di svolgere lavori di giorno o la sera durante i giorni feriali; e
+- b.
+
+  una delle condizioni seguenti è adempiuta:
+
+  - 1\. si tratta di lavori supplementari che non possono essere differiti,
+  - 2\. per motivi legati alla salute o alla sicurezza dei lavoratori o per altri motivi d’interesse pubblico, i lavori devono essere svolti di notte o la domenica.
 
 <sup>2</sup>
 
-Sussiste un urgente bisogno di lavoro notturno ai sensi dell’articolo 17 capoverso 4 della legge quando un’azienda con un sistema di lavoro a due squadre:
+Sussiste inoltre un urgente bisogno quando è richiesta l’esecuzione di lavori di durata limitata, di notte o di domenica, per:
+
+- a. particolari eventi aziendali aperti al pubblico, quali anniversari;
+- b. manifestazioni legate a consuetudini locali.
+
+<sup>3</sup>
+
+Sussiste un urgente bisogno di ricorrere al lavoro notturno ai sensi dell’articolo 17 capoverso 4 della legge quando un’azienda con un sistema di lavoro a due squadre:
 
 - a. per ragioni di carico giornaliero di lavoro richiede regolarmente una durata di esercizio di 18 ore;
 - b. non richiede più di un’ora di lavoro all’inizio o al termine del lavoro notturno; e
 - c. così può evitare di svolgere altro lavoro notturno fra le 24.00 e le 05.00.
 
+[^27-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 100](https://fedlex.data.admin.ch/eli/oc/2022/100)).
+
 #### Art. 28
 
-**Indispensabilità del lavoro notturno e domenicale**
+**Indispensabilità del lavoro notturno e domenicale**[^28-1]
 
 ### (art. 17, 19 e 24 LL)
 
 <sup>1</sup>
 
-Vi è indispensabilità tecnica in particolare quando un processo produttivo o un’attività non possono essere interrotti o differiti senza che:
+Vi è indispensabilità tecnica di ricorrere al lavoro notturno o domenicale ai sensi degli articoli 17 capoverso 2, 19 capoverso 2 e 24 capoverso 2 della legge in particolare quando un processo lavorativo o un lavoro non può essere interrotto, differito o organizzato in altro modo senza che:
 
-- a. l’interruzione o il rinvio comportino svantaggi notevoli e inaccettabili per la produzione e per il risultato del lavoro o per le installazioni dell’azienda;
-- b. ne derivino rischi per la salute dei lavoratori o per il vicinato dell’azienda.
+- a. si verifichino svantaggi notevoli e inaccettabili per la produzione e per il risultato del lavoro o per le installazioni dell’azienda;
+- b. ne derivino rischi per la salute o la sicurezza dei lavoratori o per il vicinato dell’azienda;
+- c. si interrompa la catena di approvvigionamento, il flusso di merci tra o all’interno delle aziende o non sia garantito l’approvvigionamento della popolazione in beni di cui necessita quotidianamente.
 
 <sup>2</sup>
 
-Vi è indispensabilità economica quando:
+Vi è indispensabilità economica di ricorrere al lavoro notturno o domenicale ai sensi degli articoli 17 capoverso 2, 19 capoverso 2 e 24 capoverso 2 della legge quando:
 
-- a. l’interruzione e la ripresa di un processo produttivo comportano costi supplementari elevati che, senza il ricorso al lavoro notturno o domenicale, rischiano o rischierebbero di compromettere fortemente la competitività dell’azienda rispetto ai suoi concorrenti;
-- b. il processo produttivo comporta inevitabilmente costi d’investimento elevati che non possono essere ammortizzati senza il lavoro notturno o domenicale;
-- c. la competitività dell’azienda è fortemente compromessa rispetto a Paesi con un livello sociale comparabile, in cui la durata del lavoro è più lunga o le condizioni di lavoro sono diverse, per cui il rilascio del permesso molto probabilmente garantisce l’occupazione.
+- a. il processo lavorativo comporta inevitabilmente costi d’investimento elevati che non possono essere ammortizzati senza il ricorso al lavoro notturno o domenicale; o
+- b. l’interruzione e la ripresa di un processo lavorativo comportano costi supplementari elevati che, senza il ricorso al lavoro notturno o domenicale, rischiano o rischierebbero di compromettere fortemente la competitività dell’azienda rispetto ai suoi concorrenti.
 
 <sup>3</sup>
 
-Sono equiparati all’indispensabilità economica i bisogni particolari dei consumatori, che l’interesse pubblico esige di soddisfare e ai quali non è possibile rispondere senza il lavoro notturno o domenicale. Si tratta di beni e servizi:
+Sono equiparati all’indispensabilità economica i bisogni particolari dei consumatori:
 
-- a. necessari e indispensabili quotidianamente, la cui mancanza sarebbe considerata una grave carenza da una gran parte della popolazione; e
-- b. per i quali il bisogno è permanente o si manifesta soprattutto di notte o la domenica.
+- a. che devono essere soddisfatti per realizzare un interesse pubblico tenuto conto del carattere indispensabile di beni o servizi per i consumatori interessati; e
+- b. ai quali non è possibile rispondere senza il ricorso al lavoro notturno o domenicale.
 
-<sup>4</sup> L’indispensabilità è presunta per i processi produttivi e lavorativi contemplati nell’allegato.
+<sup>4</sup> Per i processi lavorativi contemplati nell’allegato e per i processi che vi sono connessi in maniera indissociabile, in particolare i lavori preparatori, i controlli di qualità e i lavori di logistica, il lavoro notturno o domenicale è ritenuto indispensabile.
+
+[^28-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 100](https://fedlex.data.admin.ch/eli/oc/2022/100)).
 
 ### Sezione 6: Forme particolari del lavoro notturno
 
@@ -720,51 +735,49 @@ L’occupazione di lavoratori in squadre durante il fine settimana fra il gioved
 
 #### Art. 40
 
-**Criteri distintivi per la competenza in materia di permessi**
+**Criteri distintivi per la competenza in materia di permessi**[^40-1]
 
 ### (art. 17, 19 e 24 LL)
 
-<sup>1</sup>
+<sup>1</sup> Il lavoro notturno o domenicale è considerato temporaneo ai sensi degli articoli 17 e 19 della legge quando riguarda impieghi di durata limitata che non superano nel singolo caso sei mesi. Se un impiego si protrae inaspettatamente oltre i sei mesi e il ritardo non è imputabile all’azienda, l’autorità cantonale può prolungare il permesso di tre mesi al massimo.
 
-Il lavoro notturno è considerato temporaneo ai sensi dell’articolo 17 della legge quando:
+<sup>2</sup>
 
-- a. nel caso di impieghi sporadici o periodici, non eccede tre mesi per azienda e per anno civile; oppure
-- b. nel caso di impieghi di durata limitata fino a sei mesi al massimo, presenta carattere eccezionale. È possibile un prolungamento unico di sei mesi.
+Il lavoro notturno o domenicale è considerato regolare o periodico quando:
 
-<sup>2</sup> Il lavoro notturno è considerato regolare o periodico quando il volume temporale dello stesso supera le condizioni di cui al capoverso 1.
+- a. il volume dello stesso supera il limite di cui al capoverso 1; o
+- b. riguarda impieghi di natura regolare e che si ripetono per vari anni civili per lo stesso motivo; fa eccezione il lavoro notturno o domenicale svolto nell’ambito di impieghi di cui all’articolo 27 capoverso 2.
 
-<sup>3</sup>
-
-Il lavoro domenicale è considerato temporaneo ai sensi dell’articolo 19 della legge quando:
-
-- a. nel caso d’impieghi sporadici, non eccede sei domeniche, compresi i giorni festivi legali, per azienda e per anno civile; oppure
-- b. nel caso d’impieghi di durata limitata fino a tre mesi al massimo, presenta carattere eccezionale.
-
-<sup>4</sup> Il lavoro domenicale è considerato regolare o periodico quando il volume temporale dello stesso supera le condizioni di cui al capoverso 3.
+[^40-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 100](https://fedlex.data.admin.ch/eli/oc/2022/100)).
 
 #### Art. 41
 
-**Domanda**
+**Domanda**[^41-1]
 
 ### (art. 49 LL)
 
 <sup>1</sup>
 
-La domanda per un permesso concernente la durata del lavoro deve essere presentata per scritto e deve contenere le indicazioni seguenti:[^41-1]
+La domanda per un permesso concernente la durata del lavoro deve essere presentata:
+
+- a. per il lavoro notturno o domenicale temporaneo: all’autorità cantonale, non appena la pianificazione dei lavori è nota, ma al più tardi una settimana prima della data prevista di inizio del lavoro; è fatto salvo l’articolo 49 capoverso 2 della legge;
+- b. per il lavoro notturno o domenicale regolare o periodico: alla SECO, al più tardi otto settimane prima della data prevista di inizio del lavoro.
+
+<sup>2</sup>
+
+La domanda deve essere presentata per scritto ed essere sufficientemente motivata. Deve contenere le indicazioni seguenti:
 
 - a. la designazione dell’azienda o delle parti di azienda cui si riferisce;
-- b.[^41-2] il numero dei lavoratori adulti interessati e, in caso di domanda per un permesso concernente i giovani, il numero dei lavoratori che non hanno ancora compiuto 18 anni;
+- b il numero dei lavoratori adulti interessati e, in caso di domanda per un permesso concernente i giovani, il numero dei lavoratori che non hanno ancora compiuto 18 anni;
 - c. l’orario previsto, compresa la durata del riposo e le pause, e la rotazione delle squadre o eventuali deroghe; nel caso di lavoro notturno, di lavoro a tre o più squadre e di lavoro continuo, la domanda può rinviare a rappresentazioni grafiche degli orari e dei turni;
-- d. la durata prevista del permesso;
+- d. la durata richiesta del permesso;
 - e. la conferma del consenso del lavoratore;
-- f. il risultato della visita medica relativo all’idoneità del lavoratore, sempreché sia prevista dalla legge o dall’ordinanza;
-- g.[^41-3] la prova dell’urgente bisogno o dell’indispensabilità e, in caso di domanda per un permesso concernente i giovani, anche la prova dell’osservanza delle condizioni di cui agli articoli 12 capoverso 1 e 13 capoverso 1 dell’ordinanza del 28 settembre 2007[^41-4] sulla protezione dei giovani lavoratori;
-- h. l’assenso di terzi, sempreché sia previsto dalla legge o dall’ordinanza.
+- f. la conferma che è stata o sarà effettuata una visita medica relativa all’idoneità del lavoratore, sempreché tale visita sia prevista dalla legge o da un’ordinanza;
+- g. la prova dell’urgente bisogno o dell’indispensabilità e, in caso di domanda per un permesso concernente i giovani, anche la prova dell’osservanza delle condizioni di cui agli articoli 12 capoverso 1 e 13 capoverso 1 dell’ordinanza del 28 settembre 2007[^41-2] sulla protezione dei giovani lavoratori;
+- h. l’assenso di terzi, sempreché sia previsto dalla legge o da un’ordinanza.
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 4135](https://fedlex.data.admin.ch/eli/oc/2020/754)).
-[^41-2]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 4135](https://fedlex.data.admin.ch/eli/oc/2020/754)).
-[^41-3]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 4135](https://fedlex.data.admin.ch/eli/oc/2020/754)).
-[^41-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^41-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 100](https://fedlex.data.admin.ch/eli/oc/2022/100)).
+[^41-2]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 #### Art. 42
 
@@ -1467,11 +1480,11 @@ Allegato*[^t-1]*
 
 (art. 28 cpv. 4)
 
-## Indispensabilità tecnica o economica del lavoro notturno o domenicale per singoli processi lavorativi
+## Indispensabilità tecnica o economica del lavoro notturno o domenicale per singoli processi lavorativi e per i processi lavorativi che vi sono connessi in maniera indissociabile
 
-[^t-1]: Aggiornato dal n. II dell’O del 1° set. 2021 ([RU 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)) e dalla correzione del 10 mar. 2022 ([RU 2022 158](https://fedlex.data.admin.ch/eli/oc/2022/158)).
+[^t-1]: Aggiornato dal n. II dell’O del 1° set. 2021 ([RU 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)), dalla correzione del 10 mar. 2022 ([RU 2022 158](https://fedlex.data.admin.ch/eli/oc/2022/158)) e dal n. II dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 100](https://fedlex.data.admin.ch/eli/oc/2022/100)).
 
-Per i seguenti processi lavorativi, il lavoro notturno o domenicale regolare o periodico è ritenuto indispensabile nella misura indicata:
+Per i seguenti processi lavorativi e per i processi lavorativi che vi sono connessi in maniera indissociabile, il lavoro notturno o domenicale regolare o periodico è ritenuto indispensabile nella misura indicata qui di seguito; il lavoro notturno o domenicale continua a essere ritenuto indispensabile anche se organizzato sotto forma di lavoro continuo o continuo atipico.
 
 ### 1. Lavorazione del latte:
 
@@ -1485,9 +1498,13 @@ lavoro notturno per il servizio degli impianti di molitura.
 
 lavoro notturno per gli impianti di produzione automatizzati, inclusi quelli di essiccazione.
 
-### 4. Confezione di prodotti di panetteria e di pasticceria:
+### 4. Consegna di articoli di panetteria, pasticceria e confetteria:
 
-lavoro notturno per la produzione.
+lavoro notturno e domenicale per la consegna di articoli di panetteria, pasticceria e confetteria.
+
+### 4*a.* Trasformazione della carne e del pesce:
+
+lavoro notturno e domenicale per la produzione e la consegna di carne o di pesce.
 
 ### 5. Fabbricazione della birra:
 
@@ -1507,14 +1524,14 @@ lavoro notturno e lavoro domenicale per stampare i quotidiani e i settimanali.
 
 lavoro notturno per tutti i processi di fabbricazione diretti.
 
-### 9.
+### 9. Processi lavorativi chimici, chimico-fisici, farmaceutici e biologici:
 
-Processi lavorativi chimici, chimico-fisici e biologici:
+lavoro notturno e domenicale per:
 
-- **–** lavoro notturno e domenicale per processi che motivi tecnici impediscono di interrompere;
-- – lavoro notturno e domenicale per l’esecuzione di esperimenti tecnici o scientifici di lunga durata;
-- – lavoro notturno e domenicale per lavori con animali da laboratorio e per gli inevitabili lavori nelle serre;
-- – lavoro domenicale per la cura di animali da laboratorio.
+- – processi lavorativi che, per motivi tecnici, non possono essere interrotti;
+- – lavori indispensabili per l’esecuzione di esperimenti tecnici o scientifici di lunga durata;
+- – lavori indispensabili in relazione agli animali da laboratorio;
+- – lavori indispensabili nelle serre.
 
 ### 10.
 
@@ -1526,7 +1543,10 @@ Industria tessile:
 
 ### 11. Fabbricazione della calce e del cemento:
 
-lavoro notturno e domenicale per tutti i processi di macerazione e di calcinazione e la sorveglianza degli impianti di flusso delle materie prime e di deflusso dei prodotti finiti.
+lavoro notturno e domenicale per:
+
+- – tutti i processi di macerazione e di calcinazione e la sorveglianza degli impianti di flusso delle materie prime e di deflusso dei prodotti finiti;
+- – la produzione di materiali per progetti pubblici di costruzione stradale o ferroviaria, quali l’asfalto, il calcestruzzo, la ghiaia e il cemento.
 
 ### 12. Industria ceramica (laterizi, fabbricazione della ceramica e della porcellana):
 
@@ -1534,12 +1554,13 @@ lavoro notturno e domenicale per processi di cottura e di essiccazione.
 
 ### 13. Metallurgia:
 
-lavoro notturno
+lavoro notturno per:
 
-- – per il servizio dei forni elettrici di fusione, dei forni di preriscaldamento e degli impianti direttamente connessi;
-- – per il servizio dei laminatoi a caldo e a freddo e degli impianti direttamente connessi;
-- – per la saldatura di grandi pezzi che motivi tecnici impediscono di interrompere;
-- – per il servizio degli impianti di pressofusione e di estrusione;
+- – il servizio dei forni elettrici di fusione, dei forni di preriscaldamento e degli impianti direttamente connessi;
+- – il servizio dei laminatoi a caldo e a freddo e degli impianti direttamente connessi;
+- – la saldatura di grandi pezzi che, per motivi tecnici, non può essere interrotta;
+- – il servizio degli impianti di pressofusione e di estrusione;
+- – i processi di finitura della superficie, ossia la zincatura e la placcatura;
 
 lavoro notturno e domenicale per il servizio degli impianti di trattamento termico.
 
@@ -1555,12 +1576,16 @@ lavoro notturno e domenicale per effettuare, su mandato delle autorità, i segue
 
 ### 15. Orologeria:
 
-lavoro domenicale parziale per la verifica dei movimenti d’orologeria meccanici e automatici, per la successiva regolazione e per l’esame dei cronometri.
+lavoro domenicale a orari limitati per la verifica dei movimenti d’orologeria meccanici e automatici, per la successiva regolazione e per l’esame dei cronometri.
 
 ### 16. Industria elettronica:
 
-lavoro notturno e domenicale per la produzione di circuiti integrati (microelettronica).
+lavoro notturno e domenicale per la produzione di circuiti integrati in tutti i settori della microelettronica.
 
 ### 17. Vetreria:
 
 lavoro notturno e domenicale per la trasformazione del materiale grezzo in vetro.
+
+### 18. Rendiconti finanziari:
+
+al massimo 12 impieghi all’anno di notte o di domenica per i rendiconti mensili, trimestrali e annuali coordinati a livello internazionale.

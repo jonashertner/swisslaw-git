@@ -4,11 +4,11 @@ title: Verordnung 1 vom 10. Mai 2000 zum Arbeitsgesetz (ArGV 1)
 short: ArGV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/243"
 language: de
-version: 2022-03-10
+version: 2022-04-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20220310/de/xml/fedlex-data-admin-ch-eli-cc-2000-243-20220310-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20220310/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2000-243-20220401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20220310/de"
 
 (ArGV 1)
 
-vom 10. Mai 2000 (Stand am 10. März 2022)
+vom 10. Mai 2000 (Stand am 1. April 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -116,7 +116,7 @@ Als Betriebe mit überwiegend gärtnerischer Pflanzenproduktion gelten Gartenbau
 - b. Topfpflanzen- und Schnittblumenkultur;
 - c. Baumschulen und Obstbau, einschliesslich Stauden und Kleingehölze.
 
-<sup>2</sup> ...[^6-1]
+<sup>2</sup> …[^6-1]
 
 [^6-1]: Aufgehoben durch Art. 22 der Jugendarbeitsschutzverordnung vom 28. Sept. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4959](https://fedlex.data.admin.ch/eli/oc/2007/692)).
 
@@ -189,7 +189,7 @@ Eine selbstständige künstlerische Tätigkeit liegt vor, wenn dem künstlerisch
 
 ### (Art. 3 Bst. e ArG)
 
-<sup>1</sup> ...[^12-2]
+<sup>1</sup> …[^12-2]
 
 <sup>2</sup> Erzieher und Erzieherinnen sind Personen mit einer anerkannten pädagogischen Fachausbildung oder einer gleichwertigen Aus- und Weiterbildung.
 
@@ -427,55 +427,70 @@ Die wöchentliche Höchstarbeitszeit von 45 Stunden kann für Arbeitnehmer und A
 
 #### Art. 27
 
-**Dringendes Bedürfnis**
+**Dringendes Bedürfnis**[^27-1]
 
 ### (Art. 17, 19 und 24 ArG)
 
 <sup>1</sup>
 
-Ein dringendes Bedürfnis liegt vor, wenn:
+Ein dringendes Bedürfnis für Nacht- oder Sonntagsarbeit im Sinne von Artikel 17 Absatz 3, 19 Absatz 3 und 24 Absatz 3 des Gesetzes liegt vor, wenn:
 
-- a. zusätzliche Arbeiten kurzfristig anfallen, deren Erledigung zeitlich nicht aufschiebbar sind und die am Tag und während den Werktagen weder mit planerischen Mitteln noch mit organisatorischen Massnahmen bewältigt werden können;
-- b. Arbeiten aus Gründen der öffentlichen Sicherheit oder aus sicherheitstechnischen Gründen nur in der Nacht oder am Sonntag erledigt werden können; oder
-- c. Ereignisse kultureller, gesellschaftlicher oder sportlicher Art in Abhängigkeit von den örtlichen Verhältnissen und Gebräuchen oder den spezifischen Bedürfnissen von Kunden die Erbringung von zeitlich begrenzten Arbeitseinsätzen in der Nacht oder am Sonntag erfordern.
+- a. es weder mit planerischen Mitteln noch mit organisatorischen Massnahmen möglich ist, die Arbeiten tagsüber oder abends an Werktagen durchzuführen; und
+- b.
 
-<sup>2</sup>
+  die Arbeiten:
 
-Ein dringendes Bedürfnis für Nachtarbeit im Sinn von Artikel 17 Absatz 4 des Gesetzes liegt vor, wenn Betriebe mit einem zweischichtigen Arbeitszeitsystem:
-
-- a. aus Gründen der täglichen Auslastung regelmässig auf eine Betriebszeit von 18 Stunden angewiesen sind;
-- b. dabei nicht mehr als eine Randstunde in Anspruch nehmen; und
-- c. dadurch die Leistung von weiterer Nachtarbeit zwischen 24 Uhr und 5 Uhr vermieden werden kann.
-
-#### Art. 28
-
-**Unentbehrlichkeit von Nacht- und Sonntagsarbeit**
-
-### (Art. 17, 19 und 24 ArG)
-
-<sup>1</sup>
-
-Technische Unentbehrlichkeit liegt insbesondere vor, wenn ein Arbeitsverfahren oder Arbeiten nicht unterbrochen oder aufgeschoben werden können, weil:
-
-- a. mit der Unterbrechung oder dem Aufschub erhebliche und unzumutbare Nachteile für die Produktion und das Arbeitsergebnis oder die Betriebseinrichtungen verbunden sind;
-- b. andernfalls die Gesundheit der Arbeitnehmer und Arbeitnehmerinnen oder die Umgebung des Betriebes gefährdet werden.
+  - 1\. zusätzlich anfallen und zeitlich nicht aufschiebbar sind, oder
+  - 2\. aus Gründen der Gesundheit oder der Sicherheit der Arbeitnehmer und Arbeitnehmerinnen oder aus anderen Gründen des öffentlichen Interesses in der Nacht oder am Sonntag erledigt werden müssen.
 
 <sup>2</sup>
 
-Wirtschaftliche Unentbehrlichkeit liegt vor, wenn:
+Ein dringendes Bedürfnis liegt zudem vor, wenn zeitlich begrenzte Arbeitseinsätze in der Nacht oder am Sonntag erforderlich sind im Rahmen von:
 
-- a. die Unterbrechung eines Arbeitsverfahrens und dessen Wiederingangsetzung hohe Zusatzkosten verursachen, die ohne die Leistung von Nacht- oder Sonntagsarbeit eine merkliche Schwächung der Wettbewerbsfähigkeit des Betriebes gegenüber seinen Konkurrenten zur Folge hat oder haben könnte;
-- b. das angewandte Arbeitsverfahren mit unvermeidlich hohen Investitionskosten verbunden ist, die ohne Nacht- oder Sonntagsarbeit nicht amortisiert werden können; oder
-- c. die Konkurrenzfähigkeit gegenüber Ländern mit vergleichbarem sozialem Standard wegen längerer Arbeitszeiten oder anderer Arbeitsbedingungen im Ausland erheblich beeinträchtigt ist und durch die Bewilligung die Beschäftigung mit grosser Wahrscheinlichkeit gesichert wird.
+- a. besonderen Firmenanlässen, wie Jubiläen, die der Öffentlichkeit zugänglich sind; oder
+- b. Veranstaltungen, die auf lokale Besonderheiten zugeschnitten sind.
 
 <sup>3</sup>
 
-Der wirtschaftlichen Unentbehrlichkeit gleichgestellt sind die besonderen Konsumbedürfnisse, deren Befriedigung im öffentlichen Interesse liegt und nicht ohne Nacht- oder Sonntagsarbeit möglich ist. Solche Konsumbedürfnisse sind:
+Ein dringendes Bedürfnis für Nachtarbeit im Sinne von Artikel 17 Absatz 4 des Gesetzes liegt vor, wenn Betriebe mit einem zweischichtigen Arbeitszeitsystem:
 
-- a. täglich notwendige und unentbehrliche Waren oder Dienstleistungen, deren Fehlen von einem Grossteil der Bevölkerung als wesentlicher Mangel empfunden würde; und
-- b. bei denen das Bedürfnis dauernd oder in der Nacht oder am Sonntag besonders hervortritt.
+- a. aus Gründen der täglichen Auslastung regelmässig auf eine Betriebszeit von 18 Stunden angewiesen sind;
+- b. nicht mehr als eine Randstunde in Anspruch nehmen; und
+- c. dadurch die Leistung von weiterer Nachtarbeit zwischen 24 Uhr und 5 Uhr vermieden werden kann.
 
-<sup>4</sup> Unentbehrlichkeit wird für die im Anhang aufgeführten Produktions- und Arbeitsverfahren vermutet.
+[^27-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 100](https://fedlex.data.admin.ch/eli/oc/2022/100)).
+
+#### Art. 28
+
+**Unentbehrlichkeit von Nacht- und Sonntagsarbeit**[^28-1]
+
+### (Art. 17, 19 und 24 ArG)
+
+<sup>1</sup>
+
+Technische Unentbehrlichkeit von Nacht- oder Sonntagsarbeit im Sinne von Artikel 17 Absatz 2, 19 Absatz 2 und 24 Absatz 2 liegt insbesondere vor, wenn ein Arbeitsverfahren oder Arbeiten nicht unterbrochen, aufgeschoben oder anders organisiert werden können, weil damit:
+
+- a. erhebliche und unzumutbare Nachteile für die Produktion und das Arbeitsergebnis oder die Betriebseinrichtungen verbunden wären;
+- b. die Gesundheit oder Sicherheit der Arbeitnehmer und Arbeitnehmerinnen oder die Umgebung des Betriebes gefährdet würde; oder
+- c. die Lieferkette oder der Warenfluss zwischen oder innerhalb von Betrieben unterbrochen würde oder die Versorgung der Bevölkerung mit Gütern des täglichen Bedarfs nicht sichergestellt wäre.
+
+<sup>2</sup>
+
+Wirtschaftliche Unentbehrlichkeit von Nacht- oder Sonntagsarbeit im Sinne von Artikel 17 Absatz 2, 19 Absatz 2 und 24 Absatz 2 des Gesetzes liegt vor, wenn:
+
+- a. das angewandte Arbeitsverfahren mit unvermeidlich hohen Investitionskosten verbunden ist, die ohne die Leistung von Nacht- oder Sonntagsarbeit nicht amortisiert werden können; oder
+- b. die Unterbrechung eines Arbeitsverfahrens und dessen Wiederingangsetzung hohe Zusatzkosten verursachen, die ohne die Leistung von Nacht- oder Sonntagsarbeit eine merkliche Schwächung der Wettbewerbsfähigkeit des Betriebes gegenüber seinen Konkurrenten zur Folge haben könnte.
+
+<sup>3</sup>
+
+Der wirtschaftlichen Unentbehrlichkeit gleichgestellt sind besondere Konsumbedürfnisse, deren Befriedigung:
+
+- a. angesichts der Unentbehrlichkeit der Waren und Dienstleistungen für die betroffenen Konsumentinnen und Konsumenten im öffentlichen Interesse liegt; und
+- b. ohne die Leistung von Nacht- oder Sonntagsarbeit nicht sichergestellt werden kann.
+
+<sup>4</sup> Die Unentbehrlichkeit von Nacht- und Sonntagsarbeit wird für die im Anhang aufgeführten Arbeitsverfahren sowie die untrennbar damit verbundenen Arbeitsverfahren, insbesondere Vorbereitungsarbeiten, Qualitätskontrollen und Logistikarbeiten, vermutet.
+
+[^28-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 100](https://fedlex.data.admin.ch/eli/oc/2022/100)).
 
 ### 6. Abschnitt: Besondere Formen der Nachtarbeit
 
@@ -721,48 +736,49 @@ Die Beschäftigung von Arbeitnehmern oder Arbeitnehmerinnen in Wochenendschichte
 
 #### Art. 40
 
-**Abgrenzungskriterien für die Bewilligungszuständigkeit**
+**Abgrenzungskriterien für die Bewilligungszuständigkeit**[^40-1]
 
 ### (Art. 17, 19 und 24 ArG)
 
-<sup>1</sup>
+<sup>1</sup> Vorübergehend ist Nacht- oder Sonntagsarbeit im Sinne von Artikel 17 beziehungsweise Artikel 19 des Gesetzes, wenn es sich um zeitlich befristete Einsätze von nicht mehr als sechs Monaten pro Einsatz handelt. Dauert ein Einsatz unerwartet länger als sechs Monate und ist die Verzögerung nicht dem Betrieb zuzuschreiben, so kann die kantonale Behörde die Bewilligung um höchstens drei Monate verlängern.
 
-Vorübergehend ist Nachtarbeit im Sinne von Artikel 17 des Gesetzes, wenn sie:
+<sup>2</sup>
 
-- a. bei sporadisch oder periodisch wiederkehrenden Einsätzen nicht mehr als drei Monate pro Betrieb und Kalenderjahr umfasst; oder
-- b. bei zeitlich befristeten Einsätzen von bis zu sechs Monaten einen einmaligen Charakter aufweist. Eine einmalige Verlängerung um sechs Monate ist möglich.
+Dauernd oder regelmässig wiederkehrend ist Nacht- oder Sonntagsarbeit, wenn sie:
 
-<sup>2</sup> Dauernd oder regelmässig wiederkehrend ist Nachtarbeit, wenn diese die in Absatz 1 genannten Bedingungen vom zeitlichen Umfang her überschreitet.
+- a. den Umfang von Absatz 1 überschreitet; oder
+- b. in regelmässigen Einsätzen geleistet wird, die sich während mehreren Kalenderjahren aus dem gleichen Grund wiederholen; davon ausgenommen ist Nacht- oder Sonntagsarbeit, die für Arbeitseinsätze nach Artikel 27 Absatz 2 geleistet wird.
 
-<sup>3</sup>
-
-Vorübergehend ist Sonntagsarbeit im Sinne von Artikel 19 des Gesetzes, wenn sie:
-
-- a. bei sporadisch vorkommenden Einsätzen nicht mehr als sechs Sonntage, gesetzliche Feiertage inbegriffen, pro Betrieb und Kalenderjahr umfasst; oder
-- b. bei zeitlich befristeten Einsätzen von bis zu drei Monaten einen einmaligen Charakter aufweist.
-
-<sup>4</sup> Dauernd und regelmässig wiederkehrend ist Sonntagsarbeit, wenn diese die in Absatz 3 genannten Bedingungen vom zeitlichen Umfang her überschreitet.
+[^40-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 100](https://fedlex.data.admin.ch/eli/oc/2022/100)).
 
 #### Art. 41
 
-**Gesuch**
+**Gesuch**[^41-1]
 
 ### (Art. 49 ArG)
 
-Das Gesuch um eine Arbeitszeitbewilligung ist schriftlich einzureichen und hat folgende Angaben zu enthalten:
+<sup>1</sup>
+
+Gesuche um Arbeitszeitbewilligungen sind einzureichen:
+
+- a. für vorübergehende Nacht- oder Sonntagsarbeit: bei der kantonalen Behörde, sobald die Planung der Arbeiten bekannt ist, jedoch spätestens eine Woche vor dem geplanten Arbeitsbeginn; Artikel 49 Absatz 2 des Gesetzes bleibt vorbehalten;
+- b. für dauernde oder regelmässig wiederkehrende Nacht- oder Sonntagsarbeit: beim SECO spätestens acht Wochen vor dem geplanten Arbeitsbeginn.
+
+<sup>2</sup>
+
+Die Gesuche sind schriftlich einzureichen und hinreichend zu begründen. Sie müssen folgende Angaben enthalten:
 
 - a. die Bezeichnung des Betriebes oder der Betriebsteile, für welche um die Bewilligung nachgesucht wird;
-- b.[^41-1] die Zahl der beteiligten erwachsenen Arbeitnehmer und Arbeitnehmerinnen und, im Fall eines Gesuchs um eine Arbeitszeitbewilligung für die Beschäftigung von Jugendlichen, die Zahl der Arbeitnehmer und Arbeitnehmerinnen, die das 18. Altersjahr noch nicht vollendet haben;
-- c. den vorgesehenen Stundenplan, mit Einschluss der Ruhezeit und Pausen sowie den Schichtwechsel oder allfällige Abweichungen; für die Nachtarbeit, für die drei- und mehrschichtige Arbeit sowie für den ununterbrochenen Betrieb kann auf grafische Darstellungen von Stunden- und Schichtenplänen verwiesen werden;
-- d. die vorgesehene Dauer der Bewilligung;
+- b. die Zahl der beteiligten erwachsenen Arbeitnehmer und Arbeitnehmerinnen und, im Fall eines Gesuchs um eine Arbeitszeitbewilligung für die Beschäftigung von Jugendlichen, die Zahl der Arbeitnehmer und Arbeitnehmerinnen, die das 18. Altersjahr noch nicht vollendet haben;
+- c. den vorgesehenen Stundenplan, einschliesslich der Ruhezeit und Pausen sowie der Schichtwechsel und allfälliger Abweichungen; für die Nachtarbeit, für die drei- und mehrschichtige Arbeit sowie für den ununterbrochenen Betrieb kann auf grafische Darstellungen von Stunden- und Schichtenplänen verwiesen werden;
+- d. die beantragte Dauer der Bewilligung;
 - e. die Bestätigung, dass das Einverständnis des Arbeitnehmers oder der Arbeitnehmerin eingeholt worden ist;
-- f. das Ergebnis der medizinischen Untersuchung hinsichtlich der Eignung der betroffenen Arbeitnehmer und Arbeitnehmerinnen, soweit von Gesetz oder Verordnung vorgesehen;
-- g.[^41-2] den Nachweis des dringenden Bedürfnisses oder der Unentbehrlichkeit und, im Fall eines Gesuchs um eine Arbeitszeitbewilligung für die Beschäftigung von Jugendlichen, den Nachweis, dass die Voraussetzungen nach den Artikeln 12 Absatz 1 und 13 Absatz 1 der Jugendarbeitsschutzverordnung vom 28. September 2007[^41-3] erfüllt sind;
-- h. die Zustimmung Dritter, soweit von Gesetz oder Verordnung vorgesehen.
+- f. die Bestätigung, dass eine medizinische Untersuchung hinsichtlich der Eignung des betroffenen Arbeitnehmers oder der betroffenen Arbeitnehmerin durchgeführt worden ist oder noch durchgeführt werden wird, wenn die Untersuchung von Gesetz oder Verordnung vorgesehen ist;
+- g. den Nachweis des dringenden Bedürfnisses oder der Unentbehrlichkeit und, im Fall eines Gesuchs um eine Arbeitszeitbewilligung für die Beschäftigung von Jugendlichen, den Nachweis, dass die Voraussetzungen nach den Artikeln 12 Absatz 1 und 13 Absatz 1 der Jugendarbeitsschutzverordnung vom 28. September 2007[^41-2] erfüllt sind;
+- h. die Zustimmung Dritter, wenn von Gesetz oder Verordnung vorgesehen.
 
-[^41-1]: Fassung gemäss Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 4135](https://fedlex.data.admin.ch/eli/oc/2020/754)).
-[^41-2]: Fassung gemäss Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 4135](https://fedlex.data.admin.ch/eli/oc/2020/754)).
-[^41-3]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^41-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 100](https://fedlex.data.admin.ch/eli/oc/2022/100)).
+[^41-2]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 #### Art. 42
 
@@ -861,9 +877,9 @@ Der Arbeitgeber hat als weitere Massnahmen bei Nachtarbeit insbesondere:
 - c. Kochgelegenheiten für die Zubereitung warmer Mahlzeiten in einem geeigneten Raum bereitzustellen oder warme Mahlzeiten abzugeben;
 - d. Arbeitnehmer und Arbeitnehmerinnen mit Erziehungs- oder Betreuungspflichten nach Artikel 36 des Gesetzes zu unterstützen, damit sie diese Aufgaben selber oder durch Dritte wahrnehmen können.
 
-## 4. Kapitel: ...
+## 4. Kapitel: …
 
-#### Art. 47-59
+#### Art. 47–59
 
 [^4759-1]
 
@@ -1209,7 +1225,7 @@ Das SECO ist die Fachstelle des Bundes für den Arbeitnehmerschutz. Es hat namen
 
 <sup>3</sup> Kommt der Arbeitgeber nicht innert der gesetzten Frist den Verfügungen und angeordneten Massnahmen nach, so ergreift das SECO die zur Durchsetzung notwendigen Massnahmen unter Kosten- und Straffolge für den Arbeitgeber.
 
-<sup>4</sup> ...[^77-1]
+<sup>4</sup> …[^77-1]
 
 [^77-1]: Aufgehoben durch Ziff. IV 37 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
@@ -1466,11 +1482,11 @@ Anhang*[^t-1]*
 
 (Art. 28 Abs. 4)
 
-## Nachweis der technischen oder wirtschaftlichen Unentbehrlichkeit von Nacht- oder Sonntagsarbeit für einzelne Arbeitsverfahren
+## Nachweis der technischen oder wirtschaftlichen Unentbehrlichkeit von Nacht- oder Sonntagsarbeit für einzelne Arbeitsverfahren und untrennbar damit verbundene Arbeitsverfahren
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 1. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)). Die Berichtigung vom 10. März 2022 betrifft nur den italienischen Text ([AS 2022 158](https://fedlex.data.admin.ch/eli/oc/2022/158)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 1. Sept. 2021 ([AS 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)) und vom 2. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 100](https://fedlex.data.admin.ch/eli/oc/2022/100)).
 
-Der Nachweis der Unentbehrlichkeit von dauernder oder regelmässig wiederkehrender Nacht- und Sonntagsarbeit gilt für die nachstehend genannten Arbeitsverfahren im bezeichneten Umfang als vermutet:
+Bei den nachstehend genannten Arbeitsverfahren und den untrennbar damit verbundenen Arbeitsverfahren wird vermutet, dass dauernde oder regelmässig wiederkehrende Nacht- und Sonntagsarbeit im bezeichneten Umfang unentbehrlich ist. Die Unentbehrlichkeit von Nacht- und Sonntagsarbeit wird auch vermutet, wenn die Nacht- und Sonntagsarbeit im ununterbrochenen Betrieb oder im zusammengesetzten ununterbrochenen Betrieb organisiert wird.
 
 ### 1. Milchverarbeitung
 
@@ -1484,9 +1500,13 @@ Nachtarbeit für die Bedienung der Müllereianlagen.
 
 Nachtarbeit für automatisierte Produktionsanlagen inkl. Trocknereien.
 
-### 4. Herstellung von Bäckerei- und Konditoreiwaren
+### 4. Lieferung von Bäckerei-, Konditorei- und Confiseriewaren
 
-Nachtarbeit für die Produktion.
+Nacht- und Sonntagsarbeit für die Lieferung von Bäckerei-, Konditorei- und Confiseriewaren.
+
+### 4*a*. Fleisch- und Fischverarbeitung
+
+Nacht- und Sonntagsarbeit für die Produktion und die Lieferung von Fleisch- und Fischwaren.
 
 ### 5. Bierbrauereien
 
@@ -1506,15 +1526,14 @@ Nacht- und Sonntagsarbeit für den Druck von Tages- und Wochenzeitungen, soweit 
 
 Nacht- und Sonntagsarbeit für alle direkten Herstellverfahren.
 
-### 9. Chemische, chemisch-physikalische und biologische Arbeitsverfahren
+### 9. Chemische, chemisch-physikalische, pharmazeutische und biologische Arbeitsverfahren
 
-Nacht- und Sonntagsarbeit für Verfahren, die aus technischen Gründen nicht unterbrochen werden können;
+Nacht- und Sonntagsarbeit für:
 
-Nacht- und Sonntagsarbeit für die Durchführung langfristiger technischer oder wissenschaftlicher Versuche;
-
-Nacht- und Sonntagsarbeit für Arbeiten mit Versuchstieren und die unerlässlichen Arbeiten in Gewächshäusern;
-
-Sonntagsarbeit für die Betreuung von Versuchstieren.
+- – Verfahren, die aus technischen Gründen nicht unterbrochen werden können;
+- – unerlässliche Tätigkeiten im Rahmen langfristiger technischer oder wissenschaftlicher Versuche;
+- – unerlässliche Arbeiten im Zusammenhang mit Versuchstieren;
+- – unerlässliche Arbeiten in Gewächshäusern.
 
 ### 10. Textilindustrie
 
@@ -1526,7 +1545,10 @@ Nacht- und Sonntagsarbeit in Stickereien, inkl. damit verbundene Veredelungsverf
 
 ### 11. Kalk- und Zementindustrie
 
-Nacht- und Sonntagsarbeit für alle Mahl- und Brennprozesse sowie für die Überwachung des Materialzu- oder -wegflusses.
+Nacht- und Sonntagsarbeit für:
+
+- – alle Mahl- und Brennprozesse sowie für die Überwachung des Materialzuflusses oder Materialwegflusses;
+- – die Herstellung von Baustoffen für öffentliche Bauprojekte auf Strassen und Schienen, wie Asphalt, Beton, Kies und Zement.
 
 ### 12. Keramische Industrie (Ziegeleien, Keramik- und Porzellanfabrikation)
 
@@ -1534,13 +1556,15 @@ Nacht- und Sonntagsarbeit für Brenn- und Trockenverfahren.
 
 ### 13. Metallindustrie
 
-Nachtarbeit für
+Nachtarbeit für:
 
 - – die Bedienung von Elektroschmelzöfen, Vorwärmeöfen sowie der damit unmittelbar im Zusammenhang stehenden Anlagen;
-- – für die Bedienung von Kalt- und Warmwalzwerken sowie der damit unmittelbar im Zusammenhang stehenden Anlagen;
-- – für das Schweissen von Werkstücken, an denen die Arbeit aus technischen Gründen nicht unterbrochen werden kann;
-- – für das Bedienen von Druckguss- und Strangpressanlagen;
-- [tab] Nacht- und Sonntagsarbeit für die Bedienung von Wärmebehandlungsanlagen.
+- – die Bedienung von Kalt- und Warmwalzwerken sowie der damit unmittelbar im Zusammenhang stehenden Anlagen;
+- – das Schweissen von Werkstücken, an denen die Arbeit aus technischen Gründen nicht unterbrochen werden kann;
+- – die Bedienung von Druckguss- und Stangpressanlagen;
+- – die Oberflächenveredelungsverfahren Zinkerei und Galvanisierung.
+
+Nacht- und Sonntagsarbeit für die Bedienung von Wärmebehandlungsanlagen.
 
 ### 14. Strassenbau, Tunnelbau sowie Tiefenbohrungen
 
@@ -1554,12 +1578,16 @@ Nacht- und Sonntagsarbeit, um im Auftrag von Behörden folgende Arbeiten, die ni
 
 ### 15. Uhrenindustrie
 
-Teilweise Sonntagsarbeit für die Überprüfung von mechanischen und automatischen Uhrwerken, die anschliessende Reglage sowie für die Chronometer-Prüfung.
+Zeitlich eingeschränkte Sonntagsarbeit für die Überprüfung von mechanischen und automatischen Uhrwerken, die anschliessende Reglage sowie für die Chronometer-Prüfung.
 
 ### 16. Elektronikindustrie
 
-Nacht- und Sonntagsarbeit für die Produktion integrierter Schaltkreise (Mikroelektronik).
+Nacht- und Sonntagsarbeit für die Produktion integrierter Schaltkreise in allen Bereichen der Mikroelektronik.
 
 ### 17. Glasindustrie
 
 Nacht- und Sonntagsarbeit zur Verarbeitung von Rohmaterial zu Glas.
+
+### 18. Finanzabschlüsse
+
+Höchstens zwölf Einsätze in der Nacht oder am Sonntag pro Jahr für international koordinierte Monats-, Quartals- und Jahresabschlüsse.

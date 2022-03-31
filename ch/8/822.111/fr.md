@@ -4,11 +4,11 @@ title: Ordonnance 1 du 10 mai 2000 relative à la loi sur le travail (OLT 1)
 short: OLT 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/243"
 language: fr
-version: 2022-03-10
+version: 2022-04-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20220310/fr/xml/fedlex-data-admin-ch-eli-cc-2000-243-20220310-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20220310/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2000-243-20220401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20220401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20220310/fr"
 
 (OLT 1)
 
-du 10 mai 2000 (Etat le 10 mars 2022)
+du 10 mai 2000 (Etat le 1<sup>er</sup> avril 2022)
 
 <sup>Le Conseil fédéral suisse,</sup>
 
@@ -426,55 +426,70 @@ Le travail supplémentaire peut également être effectué de nuit ou le dimanch
 
 #### Art. 27
 
-**Besoin urgent**
+**Besoin urgent**[^27-1]
 
 ### (art. 17, 19 et 24 LTr)
 
 <sup>1</sup>
 
-Le besoin urgent est établi lorsque s’imposent:
+Le besoin urgent de faire appel au travail de nuit ou du dimanche au sens des art. 17, al. 3, 19, al. 3, et 24, al. 3, de la loi est établi lorsque:
 
-- a. des travaux supplémentaires imprévus qui ne peuvent être différés et qu’aucune planification ou mesure organisationnelle ne permet d’exécuter de jour, pendant les jours ouvrables, ou
-- b. des travaux que des raisons de sûreté publique ou de sécurité technique exigent d’effectuer de nuit ou le dimanche, ou
-- c. des interventions de durée limitée, de nuit ou le dimanche, dans le cadre d’événements de société ou de manifestations d’ordre culturel ou sportif procédant des spécificités et coutumes locales ou des besoins particuliers de la clientèle.
+- a. aucune planification ou mesure organisationnelle ne permet d’exécuter des travaux le jour ou le soir pendant les jours ouvrables, et
+- b.
+
+  l’une des conditions suivantes est remplie:
+
+  - 1\. il s’agit de travaux additionnels qui ne peuvent être différés,
+  - 2\. l’exécution de ces travaux est nécessaire la nuit ou le dimanche pour des motifs liés à la santé ou à la sécurité des travailleurs ou pour d’autres motifs d’intérêt public.
 
 <sup>2</sup>
 
-Il y a besoin urgent de travail de nuit au sens de l’art. 17, al. 4, de la loi lorsqu’une entreprise dont le système d’organisation du temps de travail comporte deux équipes:
+Le besoin urgent est en outre établi lorsque s’imposent des interventions de durée limitée de nuit ou le dimanche pour:
+
+- a. des événements spéciaux d’entreprises ouverts au public, tels que des anniversaires;
+- b. des manifestations liées à des spécificités locales.
+
+<sup>3</sup>
+
+Le besoin urgent de faire appel au travail de nuit au sens de l’art. 17, al. 4, de la loi est établi lorsqu’une entreprise dont le système d’organisation du temps de travail comporte deux équipes:
 
 - a. est régulièrement tributaire d’une durée d’exploitation de 18 heures en raison de sa charge quotidienne de travail;
 - b. n’exige pas plus d’une heure de travail située au début ou à la fin du travail de nuit, et
 - c. se prémunit ainsi contre la nécessité d’une intervention additionnelle de nuit entre 24 heures et 5 heures.
 
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 100](https://fedlex.data.admin.ch/eli/oc/2022/100)).
+
 #### Art. 28
 
-**Indispensabilité du travail de nuit et du dimanche**
+**Indispensabilité du travail de nuit ou du dimanche**[^28-1]
 
 ### (art. 17, 19 et 24 LTr)
 
 <sup>1</sup>
 
-Il y a indispensabilité technique lorsqu’un procédé de travail ou des travaux ne peuvent être interrompus ou reportés, notamment en raison:
+Il y a indispensabilité technique de faire appel au travail de nuit ou du dimanche au sens des art. 17, al. 2, 19, al. 2, et 24, al. 2, de la loi lorsqu’un procédé de travail ou des travaux ne peuvent être interrompus, reportés ou organisés autrement notamment pour l’une des raisons suivantes:
 
-- a. des inconvénients majeurs et inacceptables que leur interruption ou leur report comporterait pour la production et le produit du travail ou les installations de l’entreprise;
-- b. des risques qui en résulteraient pour la santé des travailleurs ou pour le voisinage de l’entreprise.
+- a. des inconvénients majeurs et inacceptables seraient engendrés pour la production et le produit du travail ou les installations de l’entreprise;
+- b. des risques en résulteraient pour la santé ou la sécurité des travailleurs ou pour le voisinage de l’entreprise;
+- c. la chaîne d’approvisionnement ou le flux de marchandises entre des entreprises ou en leur sein serait interrompu ou l’approvisionnement de la population en biens qui lui sont quotidiennement nécessaires ne serait pas garanti.
 
 <sup>2</sup>
 
-Il y a indispensabilité économique lorsque:
+Il y a indispensabilité économique de faire appel au travail de nuit ou du dimanche au sens des art. 17, al. 2, 19, al. 2, et 24, al. 2, de la loi lorsque l’une des conditions suivantes est remplie:
 
-- a. l’interruption et la reprise d’un procédé de travail engendrent des coûts supplémentaires considérables susceptibles de compromettre fortement la compétitivité de l’entreprise par rapport à ses concurrents s’il ne peut être fait appel au travail de nuit ou du dimanche;
-- b. le procédé de travail utilisé requiert inévitablement un investissement considérable, impossible à amortir sans travail de nuit ou du dimanche, ou que
-- c. la compétitivité de l’entreprise est fortement compromise face aux pays à niveau social comparable, où la durée du travail est plus longue et les conditions de travail différentes, et que la délivrance du permis, selon toute vraisemblance, assure le maintien de l’emploi.
+- a. le procédé de travail utilisé requiert inévitablement un investissement élevé, impossible à amortir sans faire appel au travail de nuit ou du dimanche;
+- b. l’interruption et la reprise d’un procédé de travail engendrent des coûts supplémentaires élevés susceptibles de compromettre fortement la compétitivité de l’entreprise par rapport à ses concurrents s’il ne peut être fait appel au travail de nuit ou du dimanche.
 
 <sup>3</sup>
 
-Sont assimilés à l’indispensabilité économique les besoins particuliers des consommateurs que l’intérêt public exige de satisfaire et auxquels il est impossible de répondre sans faire appel au travail de nuit ou du dimanche. Sont réputés besoins particuliers:
+Sont assimilés à l’indispensabilité économique les besoins particuliers des consommateurs:
 
-- a. les biens ou services indispensables quotidiennement et dont une grande partie de la population considérerait le défaut comme une carence majeure, et dont
-- b. la nécessité est permanente ou se manifeste plus particulièrement de nuit ou le dimanche.
+- a. que l’intérêt public exige de satisfaire compte tenu du caractère indispensable de biens ou de services pour les consommateurs concernés, et
+- b. auxquels il est impossible de répondre sans faire appel au travail de nuit ou du dimanche.
 
-<sup>4</sup> Il y a présomption d’indispensabilité pour les procédés de production et de travail énumérés à l’annexe.
+<sup>4</sup> Il y a présomption d’indispensabilité de travail de nuit ou du dimanche pour les procédés de travail énumérés à l’annexe et pour les procédés de travail indissociables de ces derniers, en particulier les travaux préparatoires, les contrôles de qualité et les travaux de logistique.
+
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 100](https://fedlex.data.admin.ch/eli/oc/2022/100)).
 
 ### Section 6 Formes particulières du travail de nuit
 
@@ -721,48 +736,49 @@ L’occupation de travailleurs en équipes de fin de semaine entre le jeudi soir
 
 #### Art. 40
 
-**Compétence en matière de délivrance de permis: critères distinctifs**
+**Compétence en matière de délivrance de permis: critères distinctifs**[^40-1]
 
 ### (art. 17, 19 et 24 LTr)
 
-<sup>1</sup>
+<sup>1</sup> Est réputé temporaire au sens des art. 17 et 19 de la loi le travail de nuit ou du dimanche qui porte sur des interventions de durée déterminée n’excédant pas six mois par intervention. Si une intervention se prolonge de manière inattendue au-delà de six mois et si ce retard n’est pas imputable à l’entreprise, l’autorité cantonale peut prolonger le permis de trois mois au maximum.
 
-Est réputé temporaire, au sens de l’art. 17 de la loi, le travail de nuit:
+<sup>2</sup>
 
-- a. qui n’excède pas trois mois par entreprise et par année civile, en cas d’interventions sporadiques ou répétées à intervalles périodiques, ou
-- b. qui présente un caractère exceptionnel, en cas d’interventions de durée limitée n’excédant pas six mois; une seule prolongation de six mois peut être opérée.
+Est réputé régulier ou périodique le travail de nuit ou du dimanche:
 
-<sup>2</sup> Est réputé régulier ou périodique le travail de nuit dont le volume temporel excède les limites fixées à l’al. 1.
+- a. dont le volume excède la limite fixée à l’al. 1, ou
+- b. qui porte sur des interventions présentant un caractère régulier et se répétant sur plusieurs années civiles pour le même motif; est excepté le travail de nuit ou du dimanche portant sur les interventions visées à l’art. 27, al. 2.
 
-<sup>3</sup>
-
-Est réputé temporaire au sens de l’art. 19 de la loi le travail du dimanche:
-
-- a. qui n’excède pas six dimanches, jours fériés légaux inclus, par entreprise et par année civile, en cas d’interventions sporadiques, ou
-- b. qui présente un caractère exceptionnel, en cas d’interventions de durée limitée n’excédant pas trois mois.
-
-<sup>4</sup> Est réputé régulier ou périodique le travail du dimanche dont le volume temporel excède les critères énumérés à l’al. 3.
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 100](https://fedlex.data.admin.ch/eli/oc/2022/100)).
 
 #### Art. 41
 
-**Demande de permis**
+**Demande de permis**[^41-1]
 
 ### (art. 49 LTr)
 
-La demande de permis concernant la durée du travail doit être formulée par écrit, et indiquer:
+<sup>1</sup>
+
+La demande de permis concernant la durée du travail est à adresser:
+
+- a. pour le travail de nuit ou du dimanche temporaire: à l’autorité cantonale, dès que la planification des travaux est connue mais au plus tard une semaine avant la date prévue pour le début du travail; l’art. 49, al. 2, de la loi demeure réservé;
+- b. pour le travail de nuit ou du dimanche régulier ou périodique: au SECO, au plus tard huit semaines avant la date prévue pour le début du travail.
+
+<sup>2</sup>
+
+La demande doit être déposée par écrit et être suffisamment motivée. Elle indique:
 
 - a. la désignation de l’entreprise ou de la partie d’entreprise à laquelle se rapporte la demande;
-- b.[^41-1] le nombre de travailleurs adultes concernés et, en cas de demande de permis concernant des jeunes travailleurs, le nombre de travailleurs âgés de moins de 18 ans;
+- b. le nombre de travailleurs adultes concernés et, en cas de demande de permis concernant des jeunes travailleurs, le nombre de travailleurs âgés de moins de 18 ans;
 - c. l’horaire prévu, avec indication des repos et des pauses, de la rotation des équipes ou des dérogations éventuelles; lorsqu’il s’agit de travail de nuit, de travail en trois équipes ou davantage ou de travail continu, la demande peut renvoyer à des graphiques indiquant les horaires et les plans d’équipes;
-- d. la durée prévue de validité du permis;
+- d. la durée demandée de validité du permis;
 - e. la confirmation du consentement du travailleur;
-- f. le résultat de l’examen médical concernant l’aptitude du travailleur, pour autant qu’il soit prévu par la loi ou par l’ordonnance;
-- g.[^41-2] la preuve du besoin urgent ou de l’indispensabilité et, en cas de permis concernant des jeunes travailleurs, la preuve que les conditions prévues par les art. 12, al. 1, et 13, al. 1, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs[^41-3] sont remplies;
-- h. l’accord de tiers, pour autant qu’il soit prévu par la loi ou par l’ordonnance.
+- f. la confirmation qu’un examen médical concernant l’aptitude du travailleur a été ou sera réalisé, si cet examen soit prévu par la loi ou par une ordonnance;
+- g. la preuve du besoin urgent ou de l’indispensabilité et, en cas de demande de permis concernant des jeunes travailleurs, la preuve que les conditions prévues par les art. 12, al. 1, et 13, al. 1, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs[^41-2] sont remplies;
+- h. l’accord de tiers, pour autant qu’il soit prévu par la loi ou par une ordonnance.
 
-[^41-1]: Nouvelle teneur selon le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 4135](https://fedlex.data.admin.ch/eli/oc/2020/754)).
-[^41-2]: Nouvelle teneur selon le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 4135](https://fedlex.data.admin.ch/eli/oc/2020/754)).
-[^41-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 100](https://fedlex.data.admin.ch/eli/oc/2022/100)).
+[^41-2]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 #### Art. 42
 
@@ -1469,11 +1485,11 @@ Annexe*[^t-1]*
 
 (art. 28, al. 4)
 
-## Établissement de l’indispensabilité technique ou économique du travail de nuit ou du dimanche pour certains procédés de travail
+## Établissement de l’indispensabilité technique ou économique du travail de nuit ou du dimanche pour certains procédés de travail et pour les procédés de travail indissociables de ces derniers
 
-[^t-1]: Mise à jour selon le ch. II de l’O du 1<sup>er</sup> sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)). Erratum du 10 mars 2022, ne concerne que le texte italien ([RO 2022 158](https://fedlex.data.admin.ch/eli/oc/2022/158)).
+[^t-1]: Mise à jour selon le ch. II des O du 1<sup>er</sup> sept. 2021 ([RO 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)) et du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 100](https://fedlex.data.admin.ch/eli/oc/2022/100)).
 
-Il y a présomption d’indispensabilité de travail de nuit ou du dimanche à caractère régulier ou périodique pour les activités et dans la mesure indiquées ci-après:
+Le travail de nuit ou du dimanche à caractère régulier ou périodique est présumé indispensable dans la mesure indiquée ci-après pour les procédés de travail énumérés ci-dessous et pour les procédés de travail indissociables de ces derniers; le travail de nuit ou du dimanche reste présumé indispensable même s’il est organisé sous la forme de travail continu ou de travail continu atypique.
 
 ### 1. Industrie laitière
 
@@ -1487,9 +1503,13 @@ Travail de nuit pour le service des installations de mouture.
 
 Travail de nuit dans les installations de production automatisées, installations de séchage incluses.
 
-### 4. Boulangerie et pâtisserie
+### 4. Livraison d’articles de boulangerie, de pâtisserie ou de confiserie
 
-Travail de nuit pour la production.
+Travail de nuit et du dimanche pour la livraison d’articles de boulangerie, de pâtisserie ou de confiserie.
+
+### 4*a*. Transformation de la viande et du poisson
+
+Travail de nuit et du dimanche pour la production et la livraison de viande ou de poisson.
 
 ### 5. Brasseries
 
@@ -1509,15 +1529,14 @@ Travail de nuit et du dimanche pour l’impression de quotidiens et d’hebdomad
 
 Travail de nuit et du dimanche pour tous les procédés de fabrication directs.
 
-### 9. Procédés de travail chimiques, physiques et biologiques
+### 9. Procédés de travail chimiques, chimico-physiques, pharmaceutiques et biologiques
 
-Travail de nuit et du dimanche pour les procédés de travail que des raisons techniques empêchent d’interrompre;
+Travail de nuit et du dimanche pour:
 
-Travail de nuit et du dimanche pour réaliser des essais techniques ou scientifiques de longue durée;
-
-Travail de nuit et du dimanche en rapport avec les animaux de laboratoire et pour les activités indispensables dans des serres;
-
-Travail du dimanche pour prendre soin des animaux de laboratoire.
+- – les procédés de travail qui ne peuvent, pour des raisons techniques, être interrompus;
+- – les activités indispensables dans le cadre d’essais techniques ou scientifiques de longue durée;
+- – les activités indispensables en rapport avec les animaux de laboratoire;
+- – les activités indispensables dans des serres.
 
 ### 10. Industrie textile
 
@@ -1529,7 +1548,10 @@ Travail de nuit et du dimanche dans les ateliers de broderies, y compris les pro
 
 ### 11. Industrie de la chaux et du ciment
 
-Travail de nuit et du dimanche pour toutes les opérations de mouture et de cuisson, ainsi que pour surveiller les installations d’alimentation en matières premières et d’évacuation des produits finis.
+Travail de nuit et du dimanche pour:
+
+- – toutes les opérations de mouture et de cuisson, ainsi que pour surveiller les installations d’alimentation en matières premières et d’évacuation des produits finis;
+- – la production de matériaux destinés à des projets publics de construction routière ou ferroviaire, tels que l’asphalte, le béton, le gravier et le ciment.
 
 ### 12. Industrie céramique (tuileries, briqueteries, fabrication de céramique et de porcelaine)
 
@@ -1537,12 +1559,13 @@ Travail de nuit et du dimanche pour les procédés de cuisson et de séchage.
 
 ### 13. Industrie métallurgique
 
-Travail de nuit
+Travail de nuit pour:
 
-- – pour le maniement des fours électriques de fusion, des fours de préchauffage, ainsi que des installations s’y rattachant directement:
-- – pour le maniement des laminoirs à chaud et à froid et des installations s’y rattachant directement;
-- – pour la soudure de grosses pièces dont l’exécution ne peut, pour des raisons techniques, être interrompue;
-- – pour le maniement d’installations de coulage sous pression ou de filage;
+- – le maniement des fours électriques de fusion, des fours de préchauffage et des installations s’y rattachant directement;
+- – le maniement des laminoirs à chaud et à froid et des installations s’y rattachant directement;
+- – la soudure de grosses pièces dont l’exécution ne peut, pour des raisons techniques, être interrompue;
+- – le maniement d’installations de coulage sous pression ou de filage;
+- – les procédés de finition de surface que sont le zingage et la galvanoplastie.
 
 Travail de nuit et du dimanche pour le maniement d’installations de traitement thermique.
 
@@ -1558,12 +1581,16 @@ Travail de nuit et du dimanche pour effectuer, sur mandat des autorités, les tr
 
 ### 15. Industrie horlogère
 
-Travail une partie du dimanche pour le contrôle des mouvements d’horlogerie mécaniques ou automatiques, leur réglage ultérieur, ainsi que pour la vérification des chronomètres.
+Horaires de travail limités le dimanche pour le contrôle des mouvements d’horlogerie mécaniques ou automatiques, pour leur réglage ultérieur ainsi que pour la vérification des chronomètres.
 
 ### 16. Industrie électronique
 
-Travail de nuit et du dimanche pour la production de circuits intégrés (microélectronique).
+Travail de nuit et du dimanche pour la production de circuits intégrés dans tous les domaines de la microélectronique.
 
 ### 17. Industrie du verre
 
 Travail de nuit et du dimanche pour la transformation de la matière première en verre.
+
+### 18. Bilans financiers
+
+Au maximum douze interventions par année la nuit ou le dimanche pour les bilans financiers mensuels, trimestriels et annuels coordonnés au niveau international.
