@@ -4,13 +4,13 @@ number: "834.410"
 title: Verordnung über die Krankenversicherung im Kanton Basel-Stadt
 short: KVO
 language: de
-version: 2022-01-01
-valid_until: 2022-03-31
-version_adopted: 2021-12-07
+version: 2022-04-01
+valid_until: 2022-12-31
+version_adopted: 2022-03-22
 adopted: 2008-11-25
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/834.410"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5414/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5496/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Krankenversicherung: Verordnung | Kranken- und Unfallversicherung
 
 (KVO)
 
-Vom 25. November 2008 (Stand 1. Januar 2022)
+Vom 25. November 2008 (Stand 1. April 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
