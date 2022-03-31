@@ -4,13 +4,13 @@ number: "411.011"
 title: Standeskommissionsbeschluss zum Schulgesetz
 short: StKB SchG
 language: de
-version: 2021-08-01
-valid_until: 2022-03-31
-version_adopted: 2021-07-06
+version: 2022-04-01
+valid_until: 2022-07-31
+version_adopted: 2022-04-26
 adopted: 2005-08-16
 in_force: 2005-08-01
 url: "https://ai.clex.ch/app/de/texts_of_law/411.011"
-pdf: "https://ai.clex.ch/api/de/versions/2209/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2210/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2209/pdf_file"
 
 (StKB SchG)
 
-vom 16.08.2005 (Stand 01.08.2021)
+vom 16.08.2005 (Stand 01.04.2022)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -167,9 +167,9 @@ beschliesst:
 
 **Mutterschaftsurlaub**
 
-<sup>1</sup> Lehrerinnen haben einen bezahlten Mutterschaftsurlaub von 14 Wochen.
+<sup>1</sup> Lehrerinnen haben ab dem Tag der Niederkunft einen bezahlten Mutterschaftsurlaub von 14 Wochen.
 
-<sup>2</sup> Der Urlaub beginnt mit dem Tag der Niederkunft. Bei längerem Spitalaufenthalt des neu geborenen Kindes kann die Mutter beantragen, dass der Urlaub erst mit der Heimkehr des Kindes beginnt.
+<sup>2</sup> Bei einer Hospitalisierung des Neugeborenen verlängert sich der Mutterschaftsurlaub um die Zeit, während welcher die Mutterschaftsversicherung zusätzliche Entschädigungen ausrichtet.
 
 <sup>3</sup> Nach fünf Dienstjahren hat die Lehrerin Anspruch auf Verlängerung des Mutterschaftsurlaubes um drei Monate unbezahlten Urlaub, sofern die schulischen Verhältnisse dies zulassen und das Arbeitsverhältnis fortgesetzt wird.
 
@@ -325,15 +325,25 @@ beschliesst:
 
 #### Art. 27
 
-**Pensionierung**
+**Beendigung im Pensionsalter**
 
-<sup>1</sup> Das Arbeitsverhältnis gilt mit Ablauf des Schulsemesters, in dem das AHV-Rentenalter erreicht wird, als aufgelöst. In Ausnahmefällen kann der Schulrat das Arbeitsverhältnis um höchstens zwei Jahre verlängern.
+<sup>1</sup> Das Arbeitsverhältnis gilt mit Ablauf des Schulsemesters, in dem das AHV-Rentenalter erreicht wird, als beendet.
 
-<sup>2</sup> Unter Wahrung der Kündigungsfrist und der Formalien für eine Kündigung kann ab dem vollendeten 60. Altersjahr eine vorzeitige Pensionierung vorgenommen werden; die Meldung wirkt wie ein Kündigung. Der Schulrat kann bei einer vorzeitigen Pensionierung eine Einlage in die Versicherungskasse leisten.
+<sup>2</sup> Lehrerinnen können bis spätestens ein Jahr vor Erreichen des Rentenalters mit schriftlicher Erklärung gegenüber dem Schulrat eine Verlängerung der Anstellung bis längstens zum Ende des Schulsemesters, in welchem sie das 65. Altersjahr beenden, bewirken.
+
+<sup>3</sup> Der Schulrat kann auf Antrag eine Verlängerung des Arbeitsverhältnisses über das 65. Altersjahr hinaus bewilligen.
+
+<sup>4</sup> Die Rentenleistungen bei einer Pensionierung werden durch die Kantonale Versicherungskasse geregelt.
+
+#### Art. 27a
+
+**Vorzeitige Pensionierung**
+
+<sup>1</sup> Unter Wahrung der Kündigungsfrist und der Formalien für eine Kündigung kann ab dem vollendeten 60. Altersjahr eine vorzeitige Pensionierung vorgenommen werden. Die Meldung wirkt wie eine Kündigung.
+
+<sup>2</sup> Der Schulrat kann bei einer vorzeitigen Pensionierung eine Einlage in die Versicherungskasse leisten.
 
 <sup>3</sup> Er kann ab dem vollendeten 60. Altersjahr eine Teilpensionierung mit einem gestaffelt abnehmenden Anstellungsumfang bewilligen.
-
-<sup>4</sup> Die Rentenleistungen werden durch die Kantonale Versicherungskasse geregelt.
 
 #### Art. 28
 
@@ -346,6 +356,12 @@ beschliesst:
 **Übergang**
 
 <sup>1</sup> Lehrpersonen erhalten die Treueprämien noch bis Ende 2018 nach bisherigem Recht.
+
+#### Art. 29a
+
+**Übergangsbestimmung Verlängerung Arbeitsverhältnis**
+
+<sup>1</sup> Lehrerinnen, die am 1. April 2022 im 64. Altersjahr stehen, können beim Schulrat ein Gesuch um Verlängerung des Arbeitsverhältnisses bis längstens zum Ende des Schulsemesters, in welchem sie das 65. Altersjahr beenden, stellen. Dieses wird bewilligt, wenn sich die Verlängerung betrieblich einrichten lässt.
 
 #### Art. 30
 
