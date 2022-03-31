@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE - 2a fase
 document: Progetto posto in consultazione-2
 language: it

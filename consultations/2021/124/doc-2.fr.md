@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Mise en œuvre du volet technique du 4e paquet ferroviaire de l’UE - 2e étape
 document: Projet mis en consultation
 language: fr

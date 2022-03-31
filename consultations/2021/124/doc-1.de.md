@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Umsetzung der technischen Säule des 4. EU-Eisenbahnpakets - 2. Schritt
 document: Vernehmlassungsvorlage-3
 language: de
