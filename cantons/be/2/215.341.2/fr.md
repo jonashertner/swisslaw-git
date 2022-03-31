@@ -4,13 +4,13 @@ number: "215.341.2"
 title: "Ordonnance cantonale sur la géoinformation *"
 short: OCGéo
 language: fr
-version: 2020-11-01
-valid_until: 2022-03-31
-version_adopted: 2020-09-02
+version: 2022-04-01
+valid_until: 2025-01-31
+version_adopted: 2022-02-23
 adopted: 2015-11-11
 in_force: 2016-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/215.341.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1972/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2567/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1972/pdf_file"
 
 (OCGéo)
 
-du 11.11.2015 (état au 01.11.2020)
+du 11.11.2015 (état au 01.04.2022)
 
 Le Conseil-exécutif du canton de Berne,
 

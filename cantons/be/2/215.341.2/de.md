@@ -4,13 +4,13 @@ number: "215.341.2"
 title: Kantonale Geoinformationsverordnung
 short: KGeoIV
 language: de
-version: 2020-11-01
-valid_until: 2022-03-31
-version_adopted: 2020-09-02
+version: 2022-04-01
+valid_until: 2025-01-31
+version_adopted: 2022-02-23
 adopted: 2015-11-11
 in_force: 2016-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/215.341.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1972/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2567/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1972/pdf_file"
 
 (KGeoIV)
 
-vom 11.11.2015 (Stand 01.11.2020)
+vom 11.11.2015 (Stand 01.04.2022)
 
 Der Regierungsrat des Kantons Bern,
 
