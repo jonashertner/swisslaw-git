@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 29 settembre 1995 sulle prestazioni dell'assicuraz
 short: OPre
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: it
-version: 2022-02-01
+version: 2022-04-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20220201/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20220201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20220201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20220401/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20220401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20220201/it"
 
 (Ordinanza sulle prestazioni, OPre)**[^t-1]**
 
-del 29 settembre 1995 (Stato 1° febbraio 2022) (Stato 1° febbraio 2022)
+del 29 settembre 1995 (Stato 1° aprile 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dellʼO del DFI del 7 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -147,8 +147,7 @@ Affinché dopo 40 sedute la cura continui ad essere rimunerata, il medico curant
 
 L’assicurazione assume i costi delle seguenti prestazioni prescritte dai chiropratici autorizzati ai sensi dell’articolo 44 OAMal o dalle organizzazioni di chiropratica autorizzate ai sensi dell’articolo 44*a* OAMal:[^4-1]
 
-- a.[^4-2] analisi:
-- le analisi sono designate separatamente nell’elenco delle analisi giusta l’articolo 62 capoverso 1 lettera b OAMal;
+- a.[^4-2] analisi: le analisi sono designate separatamente nell’elenco delle analisi giusta l’articolo 62 capoverso 1 lettera b OAMal;
 - b.[^4-3] medicamenti:
 
   specialità farmaceutiche dei seguenti gruppi terapeutici dell’elenco delle specialità:[^4-4]
@@ -230,12 +229,12 @@ L’assicurazione assume i costi delle prestazioni nelle discipline seguenti se 
 
 [^4b-1]: Nuovo testo giusta il n. I dellʼO del DFI del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
 [^4b-2]: Il doc. può essere consultato al seguente indirizzo: www.ufsp.admin.ch/rif (disponibile in tedesco e francese).
-[^4b-3]: Il doc. può essere consultato allʼindirizzo: [www.ufsp.admin.ch/rif](http://www.ufsp.admin.ch/rif) (in tedesco e francese).
+[^4b-3]: Il doc. può essere consultato allʼindirizzo: www.ufsp.admin.ch/rif (in tedesco e francese).
 [^4b-4]: Nuovo testo giusta il n. I dellʼO del DFI del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
 [^4b-5]: Il doc. può essere consultato al seguente indirizzo: www.ufsp.admin.ch/rif (disponibile in tedesco e francese).
 [^4b-6]: Nuovo testo giusta il n. I dell’O del DFI dell’8 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
 [^4b-7]: Il doc. può essere consultato al seguente indirizzo www.ufsp.ch/rif (disponibile in tedesco e francese)
-[^4b-8]: Il doc. può essere consultato allʼindirizzo: [www.ufsp.admin.ch/rif](http://www.ufsp.admin.ch/rif) (in tedesco e francese).
+[^4b-8]: Il doc. può essere consultato allʼindirizzo: www.ufsp.admin.ch/rif (in tedesco e francese).
 
 ### Capitolo 2: Prestazioni effettuate da persone che dispensano cure previa prescrizione o mandato medico
 
@@ -315,7 +314,7 @@ L’assicurazione assume i costi delle prestazioni effettuate previa prescrizion
 
 <sup>5</sup> Per gli assicurati che fino al compimento dei 20 anni hanno diritto a prestazioni secondo l’articolo 13 della legge federale del 19 giugno 1959[^6-5] su l’assicurazione per l’invalidità, i costi per la continuazione di una ergoterapia già iniziata sono assunti, dopo il compimento dei 20 anni, in virtù del capoverso 4.[^6-6]
 
-[^6-1]: Nuovo testo giusta il n. I dellʼO del DFI del 23 giu. 2021, in vigore dal 1° gen. 2022 (RU **2****021** 440).
+[^6-1]: Nuovo testo giusta il n. I dellʼO del DFI del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
 [^6-2]: Nuovo testo giusta il n. I dellʼO del DFI del 13 dic. 1996, in vigore dal 1° gen. 1997 ([RU 1997 564](https://fedlex.data.admin.ch/eli/oc/1997/564_564_564)).
 [^6-3]: Nuovo testo giusta il n. I dellʼO del DFI del 5 giu. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
 [^6-4]: Introdotto dal n. I dellʼO del DFI del 9 dic. 2002 ([RU 2002 4253](https://fedlex.data.admin.ch/eli/oc/2002/692)). Nuovo testo giusta il n. I dellʼO del DFI del 10 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6493](https://fedlex.data.admin.ch/eli/oc/2008/885)).
@@ -636,7 +635,7 @@ I logopedisti autorizzati ai sensi dell’articolo 50 OAMal e le organizzazioni 
 
 [^tit1-chap2-sec5-1]
 
-[^tit1-chap2-sec5-1]: Introdotta dal n. I dellʼO del DFI del 9 dic. 2016, in vigore dal 1° lug. 2017 (RU **2****016** 4933).
+[^tit1-chap2-sec5-1]: Introdotta dal n. I dellʼO del DFI del 9 dic. 2016, in vigore dal 1° lug. 2017 ([RU 2016 4933](https://fedlex.data.admin.ch/eli/oc/2016/793)).
 
 #### Art. 11a
 
@@ -740,7 +739,7 @@ L’assicurazione assume i costi delle seguenti vaccinazioni profilattiche alle 
 <tr><td>o. [^12a-9] Vaccinazione contro l’herpes zoster</td><td colspan="2">Con il vaccino a subunità adiuvato. Per gruppi d’età e gruppi a rischio secondo le raccomandazioni di vaccinazione del 22 novembre 2021 dell’Ufficio federale della sanità pubblica e della Commissione federale per le vaccinazioni[^12a-10].</td></tr>
 </table>
 
-[^12a-1]: Introdotto dal n. I dellʼO del DFI del 21 nov. 2007 (RU **20****07** 6839). Nuovo testo giusta il n. I dellʼO del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[2829](https://fedlex.data.admin.ch/eli/oc/2020/514)).
+[^12a-1]: Introdotto dal n. I dellʼO del DFI del 21 nov. 2007 ([RU 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)). Nuovo testo giusta il n. I dellʼO del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[2829](https://fedlex.data.admin.ch/eli/oc/2020/514)).
 [^12a-2]: Nuova espr. giusta il n. I dell’O del DFI dell’8 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^12a-3]: Il doc. può essere consultato al seguente indirizzo Internet: www.bag.admin.ch/ref
 [^12a-4]: Vedi l’O del 29 apr. 2015 sulle epidemie ([RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)).
@@ -761,12 +760,8 @@ L’assicurazione assume i costi delle seguenti misure di profilassi di malattie
 <tr><th>Misura</th><th>Condizione</th></tr>
 <tr><td>a. Profilassi alla vitamina K</td><td>Per i neonati (3 dosi).</td></tr>
 <tr><td>b. Profilassi del rachitismo mediante vitamina D</td><td>Durante il primo anno.</td></tr>
-</table>
-
-<table>
-<tr><th>Misura</th><th>Condizione</th></tr>
 <tr><td>c.[^12b-2] Profilassi post-esposizione ad HIV</td><td>Secondo le raccomandazioni dell’UFSP del 24 novembre 2014 (Bollettino dell’UFSP n. 48, 2014)[^12b-3]. Se effettuato per motivi professionali, i costi non sono assunti dall’assicurazione.</td></tr>
-<tr><td>d[^12b-4] Immunizzazione passiva post-esposizione</td><td>Secondo le raccomandazioni dell’UFSP e della CFV (direttive e raccomandazioni «immunizzazione passiva post-esposizione» dell’ottobre 2004)[^12b-5]. Se effettuato per motivi professionali, i costi non sono assunti dall’assicurazione.</td></tr>
+<tr><td>d.[^12b-4] Immunizzazione passiva post-esposizione</td><td>Secondo le raccomandazioni dell’UFSP e della CFV (direttive e raccomandazioni «immunizzazione passiva post-esposizione» dell’ottobre 2004)[^12b-5]. Se effettuato per motivi professionali, i costi non sono assunti dall’assicurazione.</td></tr>
 <tr><td>e.[^12b-6] Mastectomia e/o annessectomia profilattica</td><td>Per le portatrici di mutazioni o delezioni del gene BRCA1 o BRCA2.</td></tr>
 <tr><td>f.[^12b-7] Vaccinazione passiva con Epatite B-Immunglobuline</td><td>Per i neonati di madri HBsAg-positive.</td></tr>
 </table>
@@ -775,7 +770,7 @@ L’assicurazione assume i costi delle seguenti misure di profilassi di malattie
 [^12b-2]: Introdotta dal n. I dellʼO del DFI del 5 giu. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Nuovo testo giusta il n. I dellʼO del DFI del 20 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)).
 [^12b-3]: Il doc. può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/rif
 [^12b-4]: Introdotta dal n. I dellʼO del DFI del 5 giu. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Nuovo testo giusta il n. I dellʼO del DFI del 31 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)).
-[^12b-5]: I doc. possono essere consultati allʼindirizzo [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Assicurazione malattie &gt; Basi giuridiche e dʼesecuzione&gt; Diritto applicabile &gt; Documenti di riferimento.
+[^12b-5]: I doc. possono essere consultati allʼindirizzo www.bag.admin.ch &gt; Assicurazione malattie &gt; Basi giuridiche e dʼesecuzione&gt; Diritto applicabile &gt; Documenti di riferimento.
 [^12b-6]: Introdotta dal n. I dellʼO del DFI del 5 dic. 2011 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)). Nuovo testo giusta il n. I dellʼO del DFI del 12 giu. 2012, in vigore dal 1° lug. 2012 ([RU 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)).
 [^12b-7]: Introdotta dal n. I dell’O del DFI dell’8 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
 
@@ -1047,7 +1042,7 @@ L’assicurazione assume i costi delle cure dentarie attinenti alle malattie gra
 [^18-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^18-3]: Nuovo testo giusta il n. I dellʼO del DFI del 9 lug. 1998, in vigore dal 1° gen. 1999 ([RU 1998 2923](https://fedlex.data.admin.ch/eli/oc/1998/2923_2923_2923)).
 [^18-4]: Abrogata dal n. I dellʼO del DFI del 9 lug. 1998, con effetto dal 1° gen. 1999 ([RU 1998 2923](https://fedlex.data.admin.ch/eli/oc/1998/2923_2923_2923)).
-[^18-5]: Introdotto dal n. I dellʼO del DFI del 2 lug. 2002 ([RU 2002 3013](https://fedlex.data.admin.ch/eli/oc/2002/436)). Nuovo testo giusta il n. I dellʼO del DFI del 28 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)).
+[^18-5]: Introdotto dal n. I dellʼO del DFI del 2 lug. 2002 (RU **2****002** 3013). Nuovo testo giusta il n. I dellʼO del DFI del 28 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)).
 
 #### Art. 19
 
@@ -1640,7 +1635,7 @@ Aumenti dei prezzi secondo l’articolo 67 capoverso 2 OAMal sono esclusi. In vi
 <sup>3</sup> La CFM può proporre all’UFSP di sopprimere in tutto o in parte il premio all’innovazione se le condizioni che ne avevano determinato la concessione non sono più soddisfatte.[^36-3]
 
 [^36-1]: Nuovo testo giusta il n. I dellʼO del DFI del 26 apr. 2006, in vigore dal 1° mag. 2006 ([RU 2006 1757](https://fedlex.data.admin.ch/eli/oc/2006/271)).
-[^36-2]: Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+[^36-2]: Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 (RU **20****17** 633).
 [^36-3]: Nuovo testo giusta il n. I dellʼO del DFI dellʼ8 mag. 2013, in vigore dal 1° giu. 2013 ([RU 2013 1357](https://fedlex.data.admin.ch/eli/oc/2013/319)).
 
 #### Art. 37
@@ -1799,7 +1794,7 @@ Il supplemento per imballaggio per medicamenti soggetti a prescrizione medica am
 
 [^39-1]: Abrogato dal n. I dellʼO del DFI del 2 lug. 2002, con effetto dal 1° lug. 2002 ([RU 2002 3013](https://fedlex.data.admin.ch/eli/oc/2002/436)).
 
-### Capitolo 2: …
+### Capitolo 2: ...
 
 #### Art. 40
 
@@ -2087,14 +2082,14 @@ Allegato 2*[^t-4]*
 
 [^annex2-lvlu1-1]
 
-[^t-4]: Aggiornato dal n. II cpv. 2 delle O del DFI del 5 giu. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)), del 27 ott. 2009 ([RU 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), del 14 giu. 2010 ([RU 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), del 2 dic. 2010 ([RU 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), del 31 mag. 2011 ([RU 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), del 5 dic. 2011 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), del 12 giu. 2012 ([RU 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), del 15 nov. 2012 ([RU 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), del 6 dic. 2013 ([RU 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), del 16 mag. 2014 ([RU 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), del 20 nov. 2014 ([RU 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), del 17 giu. 2015 ([RU 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), del 27 nov. 2015 ([RU 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), del 20 giu. 2016 ([RU 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), del 25 nov. 2016 ([RU 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), del 2 giu. 2017 ([RU 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), del 28 nov. 2017 ([RU 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), del 7 giu. 2018 ([RU 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), dal n. I dell’O del DFI del 7 giu. 2018 ([RU 2018 2375](https://fedlex.data.admin.ch/eli/oc/2018/340)), dal n. II cpv. 3 dell’O del DFI del 30 nov. 2018 ([RU 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), dal n. II cpv. 2 delle O del DFI del 16 gen. 2019 ([RU 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), del 6 giu. 2019 ([RU 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), del 6 dic. 2019 ([RU 2019 4387](https://fedlex.data.admin.ch/eli/oc/2019/756)), del 7 feb. 2020 ([RU 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), del 27 mag. 2020 ([RU 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), dal n. II cpv. 3 dell’O del DFI del 30 nov. 2020 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), dal n. I dell’O del DFI del 30 nov. 2020 ([RU 2020 6337](https://fedlex.data.admin.ch/eli/oc/2020/1034)), dal n. II cpv. 2 dell’O del DFI del 8 giu. 2021 ([RU 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), dal n. I delle O del DFI del 8 giu. 2021 ([RU 2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [394](https://fedlex.data.admin.ch/eli/oc/2021/394), [395](https://fedlex.data.admin.ch/eli/oc/2021/395)) e dal n. II cpv. 3 dell’O del DFI del 1° dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
-[^annex2-lvlu1-1]: Non pubblicato nella RU (art. 20*a*). La modifica può essere consultata all ’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco dei mezzi e degli apparecchi (EMAp).
+[^t-4]: Aggiornato dal n. II cpv. 2 delle O del DFI del 5 giu. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)), del 27 ott. 2009 ([RU 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), del 14 giu. 2010 ([RU 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), del 2 dic. 2010 ([RU 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), del 31 mag. 2011 ([RU 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), del 5 dic. 2011 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), del 12 giu. 2012 ([RU 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), del 15 nov. 2012 ([RU 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), del 6 dic. 2013 ([RU 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), del 16 mag. 2014 ([RU 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), del 20 nov. 2014 ([RU 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), del 17 giu. 2015 ([RU 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), del 27 nov. 2015 ([RU 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), del 20 giu. 2016 ([RU 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), del 25 nov. 2016 ([RU 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), del 2 giu. 2017 ([RU 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), del 28 nov. 2017 ([RU 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), del 7 giu. 2018 ([RU 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), dal n. I dell’O del DFI del 7 giu. 2018 ([RU 2018 2375](https://fedlex.data.admin.ch/eli/oc/2018/340)), dal n. II cpv. 3 dell’O del DFI del 30 nov. 2018 ([RU 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), dal n. II cpv. 2 delle O del DFI del 16 gen. 2019 ([RU 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), del 6 giu. 2019 ([RU 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), del 6 dic. 2019 ([RU 2019 4387](https://fedlex.data.admin.ch/eli/oc/2019/756)), del 7 feb. 2020 ([RU 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), del 27 mag. 2020 ([RU 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), dal n. II cpv. 3 dell’O del DFI del 30 nov. 2020 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), dal n. I dell’O del DFI del 30 nov. 2020 ([RU 2020 6337](https://fedlex.data.admin.ch/eli/oc/2020/1034)), dal n. II cpv. 2 dell’O del DFI del 8 giu. 2021 ([RU 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), dal n. I delle O del DFI del 8 giu. 2021 ([RU 2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [394](https://fedlex.data.admin.ch/eli/oc/2021/394), [395](https://fedlex.data.admin.ch/eli/oc/2021/395)), dal n. II cpv. 3 dell’O del DFI del 1° dic. 2021 ([RU 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)) e dal n. I dell’O del DFI del 1° dic. 2021, in vigore dal 1° apr. 2022 ([RU 2021 887](https://fedlex.data.admin.ch/eli/oc/2021/887)).
+[^annex2-lvlu1-1]: Non pubblicato nella RU (art. 20*a*). La mod. può essere consultata all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco dei mezzi e degli apparecchi (EMAp).
 
 Allegato 3*[^t-5]*
 
 (art. 28)
 
-## Elenco delle analisi
+## Elenco delle analisi****
 
 [^annex3-lvlu1-1]
 
