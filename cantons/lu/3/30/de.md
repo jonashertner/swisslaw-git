@@ -4,13 +4,13 @@ number: "30"
 title: Gesetz über die Organisation und Geschäftsführung des Kantonsrates
 short: "Kantonsratsgesetz, KRG"
 language: de
-version: 2015-06-01
-valid_until: 2022-03-31
-version_adopted: 2015-03-16
+version: 2022-04-01
+valid_until: 2023-05-31
+version_adopted: 2022-01-24
 adopted: 1976-06-28
 in_force: 1977-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/30"
-pdf: "https://srl.lu.ch/api/de/versions/2241/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3908/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/2241/pdf_file"
 
 (Kantonsratsgesetz, KRG)
 
-vom 28.06.1976 (Stand 01.06.2015)
+vom 28.06.1976 (Stand 01.04.2022)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -650,6 +650,18 @@ beschliesst:
 <sup>3</sup> Werden die Verhandlungen von der Tribüne aus gestört, kann der Präsident oder die Präsidentin nach erfolgloser Mahnung, nötigenfalls durch die Polizei, die Fehlbaren wegweisen oder die Tribüne räumen lassen. Bis die Ordnung wieder hergestellt ist, wird die Sitzung unterbrochen.
 
 <sup>4</sup> Der Zugang zum Ratssaal, insbesondere für Medien, bedarf der Bewilligung des Präsidenten oder der Präsidentin.
+
+#### § 40a
+
+**Covid-19-Zertifikatspflicht auf der Tribüne und im Ratssaal**
+
+<sup>1</sup> Während einer Session wird der Zutritt zum Ratssaal und zur Tribüne des Ratssaales nur mit einem gültigen Covid-19-Zertifikat gemäss Artikel 6a des Covid-19-Gesetzes vom 25. September 2020[^40a-1] gewährt. Die Geschäftsleitung des Kantonsrates kann die Massnahme aussetzen, wenn es die epidemiologische Lage zulässt.
+
+<sup>2</sup> Den Mitgliedern des Kantonsrates und des Regierungsrates, dem Präsidenten oder der Präsidentin des Kantonsgerichtes und dem Staatsschreiber oder der Staatsschreiberin sowie allen weiteren Personen, die zwingend während einer Session Zutritt zum Ratssaal oder zur Tribüne benötigen, werden die Kosten für notwendige Tests zur Ausstellung des Zertifikats vergütet.
+
+<sup>3</sup> Die Geschäftsleitung regelt die Einzelheiten zum Vollzug der Zertifikatspflicht. Insbesondere regelt sie die Kontrolle der Zertifikate und bestimmt die weiteren Personen, die Anspruch auf Vergütung der Tests haben.
+
+[^40a-1]: SR [818.102](https://db.clex.ch/link/Bund/818.102/de)
 
 #### § 41
 
