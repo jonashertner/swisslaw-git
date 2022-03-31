@@ -4,20 +4,20 @@ number: "145.11"
 title: Dienstordnung der Sicherheitsdirektion
 short: Do SID
 language: de
-version: 2021-08-01
-valid_until: 2022-03-31
-version_adopted: 2021-06-22
+version: 2022-04-01
+valid_until: 2023-06-30
+version_adopted: 2021-04-13
 adopted: 2024-12-17
 in_force: 2025-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/145.11"
-pdf: "https://bl.clex.ch/api/de/versions/3030/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3031/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dienstordnung der Sicherheitsdirektion
 
-Vom 23.10.1984 (Stand 01.08.2021)
+Vom 23.10.1984 (Stand 01.04.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -41,6 +41,7 @@ beschliesst:
   - 2\.<sup>bis</sup> Vorbereitung von Beschwerdeentscheiden des Regierungsrats,
   - 3\. Massnahmen staatsrechtlicher Natur im Verkehr mit anderen Kantonen, dem Bund oder dem Ausland,
   - 4\. Aufsicht über das Erbschafts-, das Grundbuch-, das Betreibungs- und Konkurswesen sowie die Handelsregisterführung;
+  - 4<sup>bis</sup>. Vorbereitung von Entscheiden betreffend Umwandlung, Aufhebung und Löschung von Stiftungen unter kommunaler Aufsicht gemäss Art. 85, 86, 88 und 89 ZGB bzw. § 52 EG ZGB,
   - 5\. Aufsicht über die Kindes- und Erwachsenenschutzbehörden; Aufgaben der kantonalen Zentralbehörde für internationalen Kindes- und Erwachsenenschutz,
   - 6\. die Strafverfolgung,
   - 7\. …
