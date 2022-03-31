@@ -3,10 +3,11 @@ canton: ZH
 number: "414.55"
 title: Rahmenordnung zur Ausbildung von Berufsbildungsverantwortlichen an der Pädagogischen Hochschule Zürich
 language: de
-nachtrag: "108"
-valid_until: 2022-04-01
+version: "2022-04-01"
+nachtrag: "116"
+valid_until: 2026-09-01
 adopted: 2026-04-14
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_55-2019_10_01-2020_03_01-108.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_55-2019_10_01-2020_03_01-116.html"
 text: pdf
 ---
 
@@ -58,14 +59,14 @@ Soweit dieses Reglement keine besonderen Vorschriften enthält, kommen die für 
 
 **1**
 
-- 1\. 4. 20 - 108
+- 1\. 4. 22 - 116
 
 ### 2. Abschnitt: Studiengänge
 
 ### A. Zulassung
 
 [^hAZulassung-1]: SR 412.101.
-[^hAZulassung-2]: SR 414.101.61. 1. 4. 20 - 108 5
+[^hAZulassung-2]: SR 414.101.61.
 
 #### § 5
 
@@ -165,7 +166,7 @@ An einer Hochschule oder im Rahmen einer Ausbildung für ein anderes Lehrdiplom 
 
 **3**
 
-- 1\. 4. 20 - 108 § 16. Die Diplomprüfung ist in Studiengängen für hauptberufliche Lehrpersonen bestanden, wenn jede der vorgeschriebenen Teilprüfungen mit einer genügenden Note bewertet ist. In den Studiengängen für nebenberufliche Studiengänge muss die Prüfung in Fachdidaktik mit einer genügenden Note bewertet sein.
+- 1\. 4. 22 - 116 § 16. Die Diplomprüfung ist in Studiengängen für hauptberufliche Lehrpersonen bestanden, wenn jede der vorgeschriebenen Teilprüfungen mit einer genügenden Note bewertet ist. In den Studiengängen für nebenberufliche Studiengänge muss die Prüfung in Fachdidaktik mit einer genügenden Note bewertet sein.
 
 #### § 17
 
@@ -191,13 +192,7 @@ An einer Hochschule oder im Rahmen einer Ausbildung für ein anderes Lehrdiplom 
 
 - b. Lehrdiplom für den berufskundlichen Unterricht an Berufsfachschulen (Hauptberuf),
 
-- c. Lehrdiplom für den berufskundlichen Unterricht an Berufsfachschulen (Nebenberuf),
-
-- d. Lehrdiplom für den Unterricht an Berufsfachschulen in Wirtschaft und Gesellschaft,
-
-- e. Lehrdiplom für den berufskundlichen Unterricht an Berufsfachschulen im Fach Information, Kommunikation und Administration (Hauptberuf),
-
-- f. Lehrdiplom für den berufskundlichen Unterricht an Berufsfachschulen im Fach Information, Kommunikation und Administration (Nebenberuf),
+- c. Lehrdiplom für den berufskundlichen Unterricht an Berufsfachschulen (Nebenberuf), d.[^18-1] Lehrdiplom für den Unterricht an kaufmännischen Berufsfachschulen – Wirtschaft und Gesellschaft (Hauptberuf), e.[^18-1] Lehrdiplom für den Unterricht an kaufmännischen Berufsfachschulen – Information, Kommunikation und Administration (Hauptberuf), f.[^18-1] Lehrdiplom für den Unterricht an kaufmännischen Berufsfachschulen – Information, Kommunikation und Administration (Nebenberuf),
 
 - g. Lehrdiplom für den Unterricht an Berufsfachschulen einschliesslich Berufsmaturität – mit dem entsprechenden Fach,
 
@@ -206,6 +201,8 @@ An einer Hochschule oder im Rahmen einer Ausbildung für ein anderes Lehrdiplom 
 - i. Diplom für das Unterrichten an höheren Fachschulen (Nebenberuf),
 
 - j. Diplom Berufsbildner/in in überbetrieblichen Kursen und Lehrwerkstätten (Nebenberuf).
+
+[^18-1]: Fassung gemäss B vom 12. Januar 2022 (OS 77, 146; ABl 2022-01-28). In Kraft seit 1. April 2022. 1. 4. 22 - 116 5
 
 #### § 19
 
@@ -232,3 +229,19 @@ Im Transcript of Records werden die Leistungen mit den zugehörigen Kreditpunkte
 **Diploma Supplement**
 
 Zu jedem Lehrdiplom wird ein «Diploma Supplement» in deutscher und englischer Sprache ausgestellt.
+
+[^21-1]: Eingefügt durch B vom 12. Januar 2022 (OS 77, 146; ABl 2022-01-28). In Kraft seit 1. April 2022.
+
+### E. Übergangsbestimmungen
+
+[^21-1]
+
+**Lehrdiplome mit altrechtlicher Bezeichnung**
+
+§ 22.[^hEÜbergangsbestimmu-1] <sup>1</sup> Das Lehrdiplom für den Unterricht an Berufsfachschulen in Wirtschaft und Gesellschaft kann auf Antrag bis 31. Dezember 2024 verliehen werden.
+
+<sup>2</sup> Das Lehrdiplom für den berufskundlichen Unterricht an Berufsfachschulen im Fach Information, Kommunikation und Administration (Hauptberuf) kann auf Antrag bis 31. Dezember 2023 verliehen werden.
+
+<sup>3</sup> Lehrdiplom für den berufskundlichen Unterricht an Berufsfachschulen im Fach Information, Kommunikation und Administration (Nebenberuf) kann auf Antrag bis 31. Dezember 2022 verliehen werden.
+
+[^hEÜbergangsbestimmu-1]: Eingefügt durch B vom 12. Januar 2022 (OS 77, 146; ABl 2022-01-28). In Kraft seit 1. April 2022.
