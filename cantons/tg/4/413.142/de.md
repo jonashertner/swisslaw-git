@@ -1,24 +1,23 @@
 ---
 canton: TG
 number: "413.142"
-title: Verordnung des Regierungsrates über die Organisation der Mittelschulen
+title: Verordnung über die Organisation der Mittelschulen
 language: de
-version: 2008-01-01
-valid_until: 2022-03-31
-version_adopted: 2007-12-11
+version: 2022-04-01
+version_adopted: 2022-03-29
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/413.142"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/773/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2514/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates über die Organisation der Mittelschulen
+# Verordnung über die Organisation der Mittelschulen
 
 RRV Organisation der Mittelschulen
 
-vom 11.12.2007 (Stand 01.01.2008)
+vom 11.12.2007 (Stand 01.04.2022)
 
 ## 1. Allgemeines
 
@@ -34,7 +33,7 @@ vom 11.12.2007 (Stand 01.01.2008)
 
 <sup>1</sup> Der Kanton führt Mittelschulen in Frauenfeld, Kreuzlingen und Romanshorn.
 
-<sup>2</sup> In Frauenfeld werden eine allgemeine gymnasiale Maturitätsschule, eine Fach-, eine Handels- und eine Informatikmittelschule geführt.
+<sup>2</sup> In Frauenfeld werden eine allgemeine gymnasiale Maturitätsschule, eine Fachmittelschule und eine Informatikmittelschule geführt.
 
 <sup>3</sup> In Kreuzlingen werden eine allgemeine gymnasiale Maturitätsschule sowie die Pädagogische Maturitätsschule geführt. Der Pädagogischen Maturitätsschule ist ein Konvikt angegliedert.
 
@@ -62,16 +61,7 @@ vom 11.12.2007 (Stand 01.01.2008)
 
 #### § 6
 
-**Abweichungen von der Stundentafel**
-
-<sup>1</sup> Das Departement kann befristete Abweichungen von der Stundentafel bewilligen, wenn:
-
-- 1\. die Erlangung eines anerkannten Abschlusses gewährleistet bleibt;
-- 2\. sie eine organisatorische Vereinfachung bringen oder einem Unterrichtsversuch dienen;
-- 3\. sie keine zusätzlichen Kosten verursachen;
-- 4\. sie höchstens die Klassen zweier Jahrgänge umfassen.
-
-<sup>2</sup> Die Abweichung ist den Erziehungsberechtigten anzuzeigen.
+**…**
 
 #### § 7
 
@@ -87,9 +77,11 @@ vom 11.12.2007 (Stand 01.01.2008)
 
 #### § 9
 
-**Schuljahr**
+**Schuljahr und Ferien**
 
 <sup>1</sup> Das Schuljahr beginnt am 1. August, das zweite Semester am 1. Februar.
+
+<sup>2</sup> Das Departement legt in Anlehnung an die Regelung für die Volksschule die Ferientermine fest. Eine Ferienwoche können die Mittelschulen selbst festlegen.
 
 #### § 10
 
@@ -97,17 +89,23 @@ vom 11.12.2007 (Stand 01.01.2008)
 
 <sup>1</sup> Die Höhe des Schulgeldes für ausserkantonale Schüler und Schülerinnen richtet sich nach den Ansätzen anderer Kantone für Thurgauer Schüler und Schülerinnen.
 
+#### § 10a
+
+**Schulkosten und Gebühren**
+
+<sup>1</sup> Die Erziehungsberechtigten der Schüler und Schülerinnen tragen die Kosten für Exkursionen, Sonderwochen und Sprachzertifikate sowie für das Schulmaterial wie Lehrmittel und digitale Endgeräte abzüglich allfälliger Beiträge des Kantons.
+
 ## 2. Organe
 
 #### § 11
 
-**Rektorenkonferenz**
+**Konferenz der Rektoren und Rektorinnen**
 
-<sup>1</sup> Die Rektoren und Rektorinnen der kantonalen Mittelschulen bilden unter der Leitung des Chefs oder der Chefin des Amtes für Mittel- und Hochschulen die Rektorenkonferenz.
+<sup>1</sup> Die Rektoren und Rektorinnen der kantonalen Mittelschulen bilden unter der Leitung des Chefs oder der Chefin des Amts für Mittel- und Hochschulen die Konferenz der Rektoren und Rektorinnen.
 
-<sup>2</sup> Die Rektorenkonferenz ist Beratungsorgan des Departementes und unterstützt das Amt für Mittel- und Hochschulen in der Koordination schulübergreifender Geschäfte und Fragen.
+<sup>2</sup> Sie ist Beratungsorgan des Departements und unterstützt das Amt für Mittel- und Hochschulen in der Koordination schulübergreifender Geschäfte und Fragen.
 
-<sup>3</sup> Die Rektorenkonferenz gibt sich eine Geschäftsordnung.
+<sup>3</sup> Sie gibt sich eine Geschäftsordnung.
 
 #### § 12
 
@@ -157,29 +155,21 @@ vom 11.12.2007 (Stand 01.01.2008)
 
 **Disziplinarmassnahmen**
 
-<sup>1</sup> Die Lehrpersonen, der Rektor oder die Rektorin oder der Konvent können gegen Schülerinnen und Schüler, die durch ihr Verhalten den Schulbetrieb stören, ihre Pflichten vernachlässigen oder in einer Weise gegen die Rechtsordnung verstossen, die mit der Zugehörigkeit zu einer Mittelschule nicht vereinbar ist, Disziplinarmassnahmen verhängen.
+<sup>1</sup> Die Lehrpersonen, der Rektor oder die Rektorin oder der Konvent können gegen Schüler und Schülerinnen, die durch ihr Verhalten den Schulbetrieb stören oder ihre Pflichten vernachlässigen, Disziplinarmassnahmen verhängen.
 
 <sup>2</sup> Für folgende Disziplinarmassnahmen ist der Konvent zuständig:
 
-- 1\. Geldbussen;
-- 2\. schriftlicher Verweis;
-- 3\. letzte Warnung (Ultimatum);
-- 4\. Ausschluss von der Schule.
+- 1\. Geldbussen bis Fr. 200
+- 2\. schriftlicher Verweis
+- 3\. letzte Warnung (Ultimatum)
+- 4\. Ausschluss von der Schule
 
 <sup>3</sup> Der Ausschluss von der Schule setzt ein Ultimatum voraus, ausser wenn der Verbleib in der Schule nicht mehr zumutbar oder möglich ist oder ein Ultimatum zwecklos ist.
 
-## 4. Schlussbestimmungen
+## 4.
 
-#### § 17
+#### § 17–18
 
-**...[^17-1]**
-
-[^17-1]: Aufhebung bisherigen Rechtes, ABl. 2007, Seite 2796.
-
-#### § 18
-
-**Inkrafttreten**
-
-<sup>1</sup> Das Gesetz über die Berufsbildung und die Mittelschulen (Sekundarstufe II) vom 29. August 2007 sowie diese Verordnung treten am 1. Januar 2008 in Kraft.
+**…**
 
 ABl. 50/2007
