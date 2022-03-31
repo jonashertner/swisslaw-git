@@ -1,25 +1,25 @@
 ---
 canton: TG
 number: "413.228"
-title: Verordnung des Regierungsrates über die Informatikmittelschule der Kantonsschule Frauenfeld
+title: Verordnung über die Informatikmittelschule der Kantonsschule Frauenfeld
 short: IMS-Verordnung
 language: de
-version: 2020-02-01
-valid_until: 2022-03-31
-version_adopted: 2020-01-14
+version: 2022-04-01
+valid_until: 2026-07-31
+version_adopted: 2022-03-29
 adopted: 2020-01-14
 in_force: 2020-02-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/413.228"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2127/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2516/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates über die Informatikmittelschule der Kantonsschule Frauenfeld
+# Verordnung über die Informatikmittelschule der Kantonsschule Frauenfeld
 
 RRV Informatikmittelschule der Kantonsschule Frauenfeld
 
-vom 14.01.2020 (Stand 01.02.2020)
+vom 14.01.2020 (Stand 01.04.2022)
 
 ## 1. Allgemeines
 
@@ -78,9 +78,9 @@ vom 14.01.2020 (Stand 01.02.2020)
 
 <sup>1</sup> Das Aufnahmeverfahren gliedert sich in folgende Teile:
 
-- 1\. Empfehlung der Lehrpersonen der zuletzt besuchten Schule;
-- 2\. Standardisierter Eignungstest;
-- 3\. Eignungsgespräch.
+- 1\. Empfehlung der Lehrpersonen der zuletzt besuchten Schule
+- 2\. Standardisierter Eignungstest
+- 3\. Eignungsgespräch
 
 <sup>2</sup> Zum Eignungsgespräch werden nur diejenigen Kandidatinnen und Kandidaten zugelassen, die gemäss standardisiertem Eignungstest und der Empfehlung Potenzial für die Informatikmittelschule haben.
 
@@ -139,7 +139,7 @@ vom 14.01.2020 (Stand 01.02.2020)
 
 <sup>1</sup> Eine Schülerin oder ein Schüler wird definitiv befördert, wenn
 
-- 1\. der Notendurchschnitt in den Promotionsfächern mindestens 4 beträgt, wobei die Promotionsnote im Fachbereich Informatik für die Durchschnittsberechnung doppelt gewichtet wird;
+- 1\. der Notendurchschnitt in den Promotionsfächern mindestens 4 beträgt, wobei die Promotionsnote im Fachbereich Informatik für die Durchschnittsberechnung doppelt gewichtet wird,
 - 2\. höchstens zwei Promotionsnoten unter 4 erteilt wurden und
 - 3\. die Summe der Differenzen der ungenügenden Promotionsnoten zur Note 4 den Wert 2 nicht übersteigt.
 
@@ -273,7 +273,7 @@ vom 14.01.2020 (Stand 01.02.2020)
 
 <sup>2</sup> Die Prüfung ist bestanden, wenn
 
-- 1\. ein Notendurchschnitt von mindestens 4 erreicht wird;
+- 1\. ein Notendurchschnitt von mindestens 4 erreicht wird,
 - 2\. nicht mehr als zwei Berufsmaturanoten unter 4 erteilt wurden und
 - 3\. die Differenz der ungenügenden Berufsmaturanoten zur Note 4 gesamthaft den Wert 2 nicht übersteigt.
 
