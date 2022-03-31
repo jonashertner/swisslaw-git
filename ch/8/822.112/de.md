@@ -4,11 +4,11 @@ title: Verordnung 2 vom 10. Mai 2000 zum Arbeitsgesetz (ArGV 2) (Sonderbestimmun
 short: ArGV 2
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/244"
 language: de
-version: 2021-11-01
+version: 2022-04-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2000-244-20211101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20211101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2000-244-20220401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20211101/de"
 
 (Sonderbestimmungen für bestimmte Gruppen von Betrieben oder Arbeitnehmern und Arbeitnehmerinnen)
 
-vom 10. Mai 2000 (Stand am 1. November 2021)
+vom 10. Mai 2000 (Stand am 1. April 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -186,14 +186,15 @@ Die Lage des Sonntagszeitraumes nach Artikel 18 Absatz 1 des Gesetzes darf um h�
 
 <sup>1bis</sup> Im Kalenderjahr sind mindestens 18 freie Sonntage zu gewähren, sofern mindestens zwölfmal pro Jahr die wöchentliche Ruhezeit mindestens 59 aufeinanderfolgende Stunden umfasst. Diese 59 Stunden umfassen die tägliche Ruhezeit sowie den ganzen Samstag und den ganzen Sonntag. Die freien Sonntage können unregelmässig auf das Jahr verteilt werden.[^12-1]
 
-<sup>2</sup> Im Kalenderjahr sind mindestens zwölf freie Sonntage zu gewähren. Sie können unregelmässig auf das Jahr verteilt werden. In den Wochen ohne freien Sonntag ist jedoch im Anschluss an die tägliche Ruhezeit eine wöchentliche Ruhezeit von 36 aufeinanderfolgenden Stunden zu gewähren.
+<sup>2</sup> Im Kalenderjahr sind mindestens 12 freie Sonntage zu gewähren. Sie können unregelmässig auf das Jahr verteilt werden. In der Woche, in der an einem Sonntag gearbeitet wird, oder in der darauffolgenden Woche ist im Anschluss an die tägliche Ruhezeit eine wöchentliche Ruhezeit von 36 aufeinanderfolgenden Stunden zu gewähren.[^12-2]
 
-<sup>2bis</sup> °Im Kalenderjahr sind mindestens zwölf freie Sonntage zu gewähren. Sie können unregelmässig auf das Jahr verteilt werden. In den Wochen ohne freien Sonntag ist eine wöchentliche Ruhezeit von 47 aufeinanderfolgenden Stunden oder von zweimal 35 aufeinanderfolgenden Stunden zu gewähren.[^12-2]
+<sup>2bis</sup> Im Kalenderjahr sind mindestens 12 freie Sonntage zu gewähren. Sie können unregelmässig auf das Jahr verteilt werden. In der Woche, in der an einem Sonntag gearbeitet wird, oder in der darauffolgenden Woche ist eine wöchentliche Ruhezeit von 47 aufeinanderfolgenden Stunden oder von zweimal 35 aufeinanderfolgenden Stunden zu gewähren.[^12-3]
 
 <sup>3</sup> Wird im Durchschnitt des Kalenderjahres die Fünf-Tage-Woche gewährt, so kann die Anzahl freie Sonntage bis auf vier herabgesetzt werden. Die freien Sonntage können unregelmässig auf das Jahr verteilt werden.
 
 [^12-1]: Eingefügt durch Ziff. I der V vom 14. Juni 2013, in Kraft seit 1. Aug. 2013 ([AS 2013 2119](https://fedlex.data.admin.ch/eli/oc/2013/449)).
-[^12-2]: Eingefügt durch Ziff. I der V vom 17. Aug. 2016, in Kraft seit 1. Sept. 2016 ([AS 2016 2949](https://fedlex.data.admin.ch/eli/oc/2016/490)).
+[^12-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022 , in Kraft seit 1. April 2022 ([AS 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
+[^12-3]: Eingefügt durch Ziff. I der V vom 17. Aug. 2016 ([AS 2016 2949](https://fedlex.data.admin.ch/eli/oc/2016/490)). Fassung gemäss Ziff. I der V vom 2. Febr. 2022 , in Kraft seit 1. April 2022 ([AS 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 13
 
@@ -397,23 +398,25 @@ Vor der Bezeichnung hört das WBF[^26a-3] an:
 
 **Bäckereien, Konditoreien, Confiserien**
 
-<sup>1</sup> Auf Bäckereien, Konditoreien, Confiserien und die in ihnen mit der Herstellung von Bäckerei‑, Konditorei- oder Confiseriewaren beschäftigten Arbeitnehmer und Arbeitnehmerinnen sind die Artikel 4 an zwei Tagen pro Woche für die ganze Nacht, für die übrigen Tage ab 1 Uhr sowie für den ganzen Sonntag sowie die Artikel 10 Absätze 4 und 5, 11, 12 Absatz 2 und 13 anwendbar.[^27-1]
+<sup>1</sup> Auf Bäckereien, Konditoreien, Confiserien und die in ihnen mit der Herstellung von Bäckerei‑, Konditorei- oder Confiseriewaren beschäftigten Arbeitnehmer und Arbeitnehmerinnen sind Artikel 4 für die ganze Nacht und für den ganzen Sonntag sowie die Artikel 10 Absatz 5, 11, 12 Absatz 2 und 13 anwendbar.[^27-1]
 
 <sup>2</sup> Auf die Verkaufsgeschäfte in Bäckereien, Konditoreien, Confiserien und das in ihnen beschäftigte Verkaufspersonal sind Artikel 4 Absatz 2 für den ganzen Sonntag sowie die Artikel 12 Absatz 2 und 13 anwendbar.
 
 <sup>3</sup> Bäckereien, Konditoreien oder Confiserien sind Betriebe, die Bäckerei‑, Konditorei- oder Confiseriewaren herstellen, einschliesslich der dazugehörigen Verkaufsgeschäfte, sofern diese überwiegend selbst hergestellte Produkte verkaufen.
 
-[^27-1]: Fassung gemäss Ziff. I der V vom 18. Mai 2004, in Kraft seit 1. Juli 2004 ([AS 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+[^27-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022 , in Kraft seit 1. April 2022 ([AS 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 27a
 
 **Fleischverarbeitende Betriebe**[^27a-1]
 
-<sup>1</sup> Auf fleischverarbeitende Betriebe und die in ihnen mit der Verarbeitung des Fleisches sowie dessen Verpackung und Lagerung beschäftigten Arbeitnehmer und Arbeitnehmerinnen sind der Artikel 4 an zwei Tagen pro Woche ab 2 Uhr und an den übrigen Tagen ab 4 Uhr für die Nacht sowie für den Sonntag ab 17 Uhr sowie die Artikel 12 Absatz 1, 13 und 14 Absatz 1 anwendbar.
+<sup>1</sup> Auf fleischverarbeitende Betriebe und die in ihnen mit der Verarbeitung, Verpackung, Lagerung, Kommissionierung und Spedition des Fleisches und der mit diesen Tätigkeiten zusammenhängenden Reinigung beschäftigten Arbeitnehmer und Arbeitnehmerinnen sind Artikel 4 für die Nacht ab 2 Uhr und für den Sonntag ab 17 Uhr sowie die Artikel 12 Absatz 1 und 13 anwendbar.
 
-<sup>2</sup> Fleischverarbeitende Betriebe sind Betriebe, die überwiegend Fleisch gewinnen, verarbeiten, veredeln und Fleischerzeugnisse herstellen.
+<sup>2</sup> Auf die mit der Zubereitung von Frischfleisch und Traiteurgerichten beschäftigten Arbeitnehmer und Arbeitnehmerinnen ist Artikel 4 Absatz 2 an zwei Sonntagen im Dezember anwendbar, sofern eine unverzügliche Verarbeitung zur Vermeidung einer Qualitätseinbusse der Produkte notwendig ist.
 
-[^27a-1]: Eingefügt durch Ziff. I der V vom 18. Mai 2004, in Kraft seit 1. Juli 2004 ([AS 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+<sup>3</sup> Fleischverarbeitende Betriebe sind Betriebe, die überwiegend Fleisch gewinnen, verarbeiten, veredeln und Fleischerzeugnisse herstellen.
+
+[^27a-1]: Eingefügt durch Ziff. I der V vom 18. Mai 2004 ([AS 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)). Fassung gemäss Ziff. I der V vom 2. Febr. 2022 , in Kraft seit 1. April 2022 ([AS 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 28
 
@@ -588,31 +591,27 @@ Auf Campingplätze und die in ihnen mit dem Betrieb und Unterhalt der Anlagen so
 
 #### Art. 43
 
-**Konferenz-, Kongress- und Messebetriebe**
+**Veranstaltungen**[^43-1]
 
-<sup>1</sup> Auf Konferenz- und Kongressbetriebe und die mit der Betreuung und Bedienung der Besucher sowie mit dem Unterhalt beschäftigten Arbeitnehmer und Arbeitnehmerinnen sind Artikel 4 für die ganze Nacht und für den ganzen Sonntag sowie die Artikel 12 Absatz 1 und 13 anwendbar.
+<sup>1</sup> Auf Konferenz-, Kongress- und Messebetriebe und auf die in ihnen mit der Betreuung und Bedienung der Besucher und Besucherinnen beschäftigten Arbeitnehmer und Arbeitnehmerinnen sind Artikel 4 für die ganze Nacht und für den ganzen Sonntag sowie die Artikel 7 Absatz 1, 12 Absatz 1 und 13 anwendbar.
 
-<sup>2</sup> Auf Messebetriebe und die in ihnen mit dem Auf- und Abbau, mit der Bedienung der Stände und Eintrittskassen sowie mit dem Unterhalt beschäftigten Arbeitnehmer und Arbeitnehmerinnen sind Artikel 4 für die ganze Nacht und den ganzen Sonntag, sowie die Artikel 7 Absatz 1, 12 Absatz 1 und Artikel 13 anwendbar.[^43-1]
+<sup>2</sup> Absatz 1 gilt auch für Arbeitnehmer und Arbeitnehmerinnen anderer Betriebe, wenn sie ausserhalb ihres üblichen Arbeitsortes im Rahmen von Veranstaltungen mit der Betreuung und Bedienung der Besucher und Besucherinnen beschäftigt sind.
 
-<sup>3</sup> Artikel 4 Absatz 1 ist nur anwendbar, soweit Nachtarbeit für den Auf- und Abbau von Veranstaltungseinrichtungen und Ständen sowie für den Unterhalt notwendig ist.
+<sup>3</sup> Auf Arbeitnehmer und Arbeitnehmerinnen, die für den Auf- und Abbau von Veranstaltungseinrichtungen sowie für deren Bedienung und Unterhalt beschäftigt sind, sind Artikel 4 für die ganze Nacht und den ganzen Sonntag sowie die Artikel 7 Absatz 1, 10 Absatz 4, 11, 12 Absatz 1 und 13 anwendbar, soweit Nacht- und Sonntagsarbeit für diese Tätigkeiten notwendig ist.
 
-<sup>4</sup> Konferenz- und Kongressbetriebe sind Betriebe, die politische, kulturelle oder wissenschaftliche Informationsveranstaltungen durchführen.
+<sup>4</sup> Artikel 7 Absatz 1 ist nur anwendbar auf Arbeitnehmer und Arbeitnehmerinnen, die bei einer länger dauernden zusammenhängenden Veranstaltung ununterbrochen zum Einsatz gelangen. Die Artikel 7 Absatz 1 und 10 Absatz 4 dürfen nicht gleichzeitig in Anspruch genommen werden.
 
-<sup>5</sup> Messebetriebe sind Betriebe, die für Aussteller Präsentations- und Verkaufsveranstaltungen durchführen.
+<sup>5</sup> Die Artikel 10 Absatz 4 und 11 sind nur anwendbar auf Arbeitnehmer und Arbeitnehmerinnen von Betrieben, deren Haupttätigkeit die Erbringung von Leistungen für die Organisation und die Durchführung von Veranstaltungen ist.
 
-[^43-1]: Fassung gemäss Ziff. I der V vom 27. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+<sup>6</sup> Veranstaltungen sind öffentliche Anlässe, die insbesondere für einen kulturellen, politischen, wissenschaftlichen oder sportlichen Zweck organisiert werden, sowie Messen, die mehrere Aussteller zusammenbringen, die ihre Produkte präsentieren und verkaufen.
+
+[^43-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022 , in Kraft seit 1. April 2022 ([AS 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 43a
 
-**Veranstaltungsdienstleistungsbetriebe**[^43a-1]
+[^43a-1]
 
-<sup>1</sup> Auf Veranstaltungsdienstleistungsbetriebe und die in ihnen beschäftigten Arbeitnehmer und Arbeitnehmerinnen sind Artikel 4 für die ganze Nacht und den ganzen Sonntag sowie die Artikel 7 Absatz 1, 10 Absatz 4, 11, 12 Absatz 1 und 13 anwendbar, soweit Nacht- und Sonntagsarbeit für den Auf- und Abbau von Veranstaltungen und deren Einrichtungen sowie für deren Bedienung und Unterhalt notwendig sind.
-
-<sup>2</sup> Artikel 7 Absatz 1 ist nur anwendbar auf Arbeitnehmer und Arbeitnehmerinnen, die bei einer länger dauernden zusammenhängenden Veranstaltung zum Einsatz gelangen. Artikel 7 Absatz 1 und Artikel 10 Absatz 4 dürfen nicht gleichzeitig in Anspruch genommen werden.
-
-<sup>3</sup> Veranstaltungsdienstleistungsbetriebe sind Betriebe, die Leistungen für die Organisation und Durchführung von Veranstaltungen wie Tourneeproduktionen, Festivals, Konzerte, Musicals, Marketinganlässe, Versammlungen, Galaveranstaltungen oder Sportanlässe erbringen.
-
-[^43a-1]: Eingefügt durch Ziff. I der V vom 20. Aug. 2014, in Kraft seit 15. Sept. 2014 ([AS 2014 2765](https://fedlex.data.admin.ch/eli/oc/2014/474)).
+[^43a-1]: Eingefügt durch Ziff. I der V vom 20. Aug. 2014 ([AS 2014 2765](https://fedlex.data.admin.ch/eli/oc/2014/474)). Aufgehoben durch Ziff. I der V vom 2. Febr. 2022 , mit Wirkung seit 1. April 2022 ([AS 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 44
 
@@ -650,11 +649,14 @@ Auf Betriebe des Autogewerbes und die in ihnen beschäftigten Arbeitnehmer und A
 
 #### Art. 48
 
-**Bau- und Unterhaltsbetriebe für Eisenbahnanlagen**[^48-1]
+**Bau- undUnterhaltsbetriebe für Anlagen des öffentlichen Verkehrs**[^48-1]
 
-Auf Bau- und Unterhaltsbetriebe für Eisenbahnanlagen und die in ihnen mit Unterhalts- und Erneuerungsarbeiten an Eisenbahnanlagen beschäftigten Arbeitnehmer und Arbeitnehmerinnen sind Artikel 4 für die ganze Nacht und den ganzen Sonntag sowie Artikel 12 Absatz 1 anwendbar, soweit Nacht- und Sonntagsarbeit, namentlich an Anlagen der Fahrbahn und der Stromversorgung sowie an Anlagen für die Steuerung und Sicherung des Zugverkehrs, für die Aufrechterhaltung des Bahnbetriebes notwendig sind.
+<sup>1</sup> Auf Bau- und Unterhaltsbetriebe, die im Auftrag eines Betriebs tätig sind, der dem Arbeitszeitgesetz vom 8. Oktober 1971[^48-2] untersteht, und auf die von ihnen beschäftigten Arbeitnehmer und Arbeitnehmerinnen, die an oder in der unmittelbaren Nähe von Gleisen, für die Energieversorgung sowie an Anlagen der Steuerung und Sicherung des Verkehrs tätig sind, sind Artikel 4 für die ganze Nacht und den ganzen Sonntag sowie Artikel 12 Absatz 1 anwendbar, soweit Nacht- und Sonntagsarbeit für die Aufrechterhaltung des öffentlichen Verkehrs erforderlich ist.
 
-[^48-1]: Fassung gemäss Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Dez. 2012 ([AS 2012 6009](https://fedlex.data.admin.ch/eli/oc/2012/705)).
+<sup>2</sup> Die Arbeiten nach Absatz 1 müssen eine teilweise oder vollständige Stilllegung der Transportanlage erfordern und in direktem Zusammenhang mit dieser stehen.
+
+[^48-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022 , in Kraft seit 1. April 2022 ([AS 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
+[^48-2]: [SR 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536)
 
 #### Art. 48a
 
@@ -681,16 +683,43 @@ Auf Betriebe der Kehricht- und Abwasserentsorgung und die in ihnen mit dem Betri
 
 #### Art. 51
 
-**Reinigungsbetriebe**
+**Reinigungsbetriebe**[^51-1]
+
+Auf Reinigungsbetriebe und das von ihnen beschäftigte Reinigungspersonal sind Artikel 4 für die ganze Nacht und den ganzen Sonntag sowie Artikel 12 Absatz 1 anwendbar, sofern der Einsatz:
+
+- a. in der Nacht oder am Sonntag für den Betriebsablauf des Einsatzbetriebes notwendig ist; und
+- b.
+
+  in einem Betrieb stattfindet:
+
+  - 1\. der dieser Verordnung unterstellt ist,
+  - 2\. der im Besitz einer Bewilligung für ein Arbeitszeitsystem ist, bei dem während 24 Stunden an sieben Tagen der Woche gearbeitet wird, oder
+  - 3\. für den aufgrund eines Gesetzes Nacht- oder Sonntagsarbeit vorgesehen ist.
+
+[^51-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022 , in Kraft seit 1. April 2022 ([AS 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
+
+#### Art. 51a
+
+**Mit der Instandhaltung beschäftigtes Personal**[^51a-1]
 
 <sup>1</sup>
 
-Auf Arbeitnehmer und Arbeitnehmerinnen von Reinigungsbetrieben, die ausschliesslich oder vorwiegend in einem Betrieb eingesetzt werden, der dieser Verordnung unterstellt ist, sind die für die betreffende Betriebsart geltenden Sonderbestimmungen anwendbar, sofern:
+Auf mit Instandhaltungsarbeiten beschäftigte Arbeitnehmer und Arbeitnehmerinnen ist Artikel 4 für die ganze Nacht und den ganzen Sonntag anwendbar, sofern es sich um Arbeitseinsätze handelt, die in der Nacht und am Sonntag notwendig sind für die Aufrechterhaltung von Betrieben:
 
-- a. der betreffende Einsatzbetrieb die entsprechenden Sonderbestimmungen tatsächlich in Anspruch nimmt; und
-- b. der Einsatz des Reinigungspersonals in der Nacht oder am Sonntag für den Betriebsablauf des Einsatzbetriebes notwendig ist.
+- a. die dieser Verordnung unterstellt sind; und
+- b. deren Dienstleistung aufgrund des öffentlichen Interesses während 24 Stunden an sieben Tagen der Woche gewährleistet sein muss.
 
-<sup>2</sup> Reinigungsbetriebe sind Betriebe, die Reinigungs- und Aufräumarbeiten durchführen.
+<sup>2</sup> Instandhaltungsarbeiten sind insbesondere Reparaturen, Erneuerungen und Massnahmen zur Vorbeugung von Unterbrüchen wie Inspektionen.
+
+[^51a-1]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022 , in Kraft seit 1. April 2022 ([AS 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
+
+#### Art. 51b
+
+**Betriebe, die im Winterdienst tätig sind**[^51b-1]
+
+Auf Betriebe, die im Winterdienst tätig sind, und auf die von ihnen mit der Salzstreuung und der Schneeräumung beschäftigten Arbeitnehmer und Arbeitnehmerinnen ist Artikel 4 für die ganze Nacht und den ganzen Sonntag anwendbar.
+
+[^51b-1]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022 , in Kraft seit 1. April 2022 ([AS 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 52
 

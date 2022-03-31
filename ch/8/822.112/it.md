@@ -4,11 +4,11 @@ title: Ordinanza 2 del 10 maggio 2000 concernente la legge sul lavoro (OLL 2) (D
 short: OLL 2
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/244"
 language: it
-version: 2021-11-01
+version: 2022-04-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2000-244-20211101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20211101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2000-244-20220401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -19,7 +19,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20211101/it"
 
 (Disposizioni speciali per determinate categorie di aziende e di lavoratori)
 
-del 10 maggio 2000 (Stato 1° novembre 2021)
+del 10 maggio 2000 (Stato 1° aprile 2022)
 
 Il Consiglio federale svizzero,
 
@@ -186,14 +186,15 @@ Il periodo della domenica giusta l’articolo 18 capoverso 1 della legge può es
 
 <sup>1bis</sup> Il lavoratore beneficia di almeno 18 domeniche libere per anno civile, sempre che almeno 12 volte nel corso dell’anno civile sia stato accordato un riposo settimanale minimo di 59 ore consecutive. Queste 59 ore comprendono il riposo giornaliero, il sabato e la domenica interi. Le domeniche libere possono essere ripartite in modo irregolare nel corso dell’anno.[^12-1]
 
-<sup>2</sup> Il lavoratore beneficia di almeno 12 domeniche libere per anno civile. Esse possono essere ripartite in modo irregolare nel corso dell’anno. Nelle settimane senza domenica libera deve essere tuttavia accordato immediatamente dopo il riposo giornaliero un riposo settimanale di 36 ore consecutive.
+<sup>2</sup> Il lavoratore beneficia di almeno 12 domeniche libere per anno civile. Esse possono essere ripartite in modo irregolare nel corso dell’anno. Nella settimana in cui lavora la domenica o in quella successiva, al lavoratore è accordato immediatamente dopo il riposo giornaliero un riposo settimanale di 36 ore consecutive.[^12-2]
 
-<sup>2bis</sup> Il lavoratore beneficia di almeno 12 domeniche libere per anno civile. Esse possono essere ripartite in modo irregolare nel corso dell’anno. Nelle settimane senza domenica libera è accordato un riposo settimanale di 47 ore consecutive oppure di due volte 35 ore consecutive.[^12-2]
+<sup>2bis</sup> Il lavoratore beneficia di almeno 12 domeniche libere per anno civile. Esse possono essere ripartite in modo irregolare nel corso dell’anno. Nella settimana in cui lavora la domenica o in quella successiva, al lavoratore è accordato un riposo settimanale di 47 ore consecutive oppure di due volte 35 ore consecutive.[^12-3]
 
 <sup>3</sup> Se il lavoratore beneficia della settimana di cinque giorni nella media dell’anno civile, il numero delle domeniche libere può essere ridotto a quattro. Esse possono essere ripartite in modo irregolare nel corso dell’anno.
 
 [^12-1]: Introdotto dal n. I dell’O del 14 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2119](https://fedlex.data.admin.ch/eli/oc/2013/449)).
-[^12-2]: Introdotto dal n. I dell’O del 17 ago. 2016, in vigore dal 1° set. 2016 ([RU 2016 2949](https://fedlex.data.admin.ch/eli/oc/2016/490)).
+[^12-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
+[^12-3]: Introdotto dal n. I dell’O del 17 ago. 2016 ([RU 2016 2949](https://fedlex.data.admin.ch/eli/oc/2016/490)). Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 13
 
@@ -316,7 +317,7 @@ Ai giardini e parchi zoologici, ai rifugi per animali e ai lavoratori in essi oc
 <sup>2</sup> Sono considerate case da gioco le aziende titolari di una concessione d’esercizio in conformità alla legge federale del 18 dicembre 1998[^24-2] sulle case da gioco.
 
 [^24-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
-[^24-2]: [[RU 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 133 [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)n. I 15. [RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)all. n. I 2]. Vedi ora la LF del 29 set. 2017 sui giochi in denaro ([RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)).
+[^24-2]: [[RU 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 133, [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)n. I 15. [RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)all. n. I 2]. Vedi ora la LF del 29 set. 2017 sui giochi in denaro ([RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)).
 
 #### Art. 25
 
@@ -398,23 +399,25 @@ Prima di stabilire le stazioni e gli aeroporti, il DEFR[^26a-3] consulta:
 
 **Panetterie, pasticcerie e confetterie**
 
-<sup>1</sup> Alle panetterie, pasticcerie e confetterie e ai lavoratori in esse occupati per la produzione di articoli di panetteria, pasticceria e confetteria si applicano l’articolo 4 per tutta la notte durante due giorni alla settimana, per gli altri giorni a partire dalle 01.00 e per tutta la domenica, nonché gli articoli 10 capoversi 4 e 5, 11, 12 capoverso 2 e 13.[^27-1]
+<sup>1</sup> Alle panetterie, pasticcerie e confetterie e ai lavoratori in esse occupati per la produzione di articoli di panetteria, pasticceria e confetteria si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 10 capoverso 5, 11, 12 capoverso 2 e 13.[^27-1]
 
 <sup>2</sup> Ai negozi delle panetterie, pasticcerie e confetterie e al personale di vendita in essi occupato si applicano l’articolo 4 capoverso 2 per tutta la domenica, nonché gli articoli 12 capoverso 2 e 13.
 
 <sup>3</sup> Sono considerate panetterie, pasticcerie e confetterie le aziende che producono articoli di panetteria, pasticceria e confetteria nonché i relativi negozi, purché vendano prevalentemente gli articoli di propria produzione.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+[^27-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 27a
 
 **Aziende di trasformazione della carne**[^27a-1]
 
-<sup>1</sup> Alle aziende di trasformazione della carne e ai lavoratori in esse occupati per la trasformazione della carne nonché per il suo imballaggio e il suo immagazzinamento si applicano l’articolo 4 per la notte a partire dalle 02.00 durante due giorni alla settimana, per gli altri giorni a partire dalle 04.00 e per la domenica a partire dalle 17.00, nonché gli articoli 12 capoverso 1, 13 e 14 capoverso 1.
+<sup>1</sup> Alle aziende di trasformazione della carne e ai lavoratori in esse occupati per la trasformazione della carne, il suo imballaggio, il suo immagazzinamento, la preparazione delle ordinazioni e la sua spedizione, nonché per la pulizia connessa a tali attività, si applicano l’articolo 4 per la notte a partire dalle 02.00 e per la domenica a partire dalle 17.00, nonché gli articoli 12 capoverso 1 e 13.
 
-<sup>2</sup> Per aziende di trasformazione della carne si intendono aziende che si occupano principalmente di produzione, trasformazione, valorizzazione della carne e della preparazione di prodotti a base di carne.
+<sup>2</sup> Ai lavoratori occupati per la preparazione di carne fresca e di pasti di catering si applica l’articolo 4 capoverso 2 per due domeniche in dicembre, purché una trasformazione immediata sia necessaria per evitare un deterioramento della qualità dei prodotti.
 
-[^27a-1]: Introdotto dal n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+<sup>3</sup> Per aziende di trasformazione della carne si intendono le aziende che si occupano principalmente di produzione, trasformazione, valorizzazione della carne e della preparazione di prodotti a base di carne.
+
+[^27a-1]: Introdotto dal n. I dell’O del 18 mag. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)). Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 28
 
@@ -589,31 +592,27 @@ Ai campeggi e ai lavoratori in essi occupati per l’esercizio e la manutenzione
 
 #### Art. 43
 
-**Aziende per conferenze, congressi e fiere**
+**Manifestazioni**[^43-1]
 
-<sup>1</sup> Alle aziende per conferenze e congressi e ai lavoratori in esse occupati per il servizio e l’assistenza ai visitatori e per la manutenzione si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 12 capoverso 1 e 13.
+<sup>1</sup> Alle aziende per conferenze, congressi e fiere e ai lavoratori in esse occupati per il servizio e l’assistenza ai visitatori si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 7 capoverso 1, 12 capoverso 1 e 13.
 
-<sup>2</sup> Alle aziende per fiere e ai lavoratori in esse occupati per il montaggio e lo smontaggio, per il servizio agli stand e alle casse nonché per la manutenzione si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 7 capoverso 1, 12 capoverso 1 e 13.[^43-1]
+<sup>2</sup> Il capoverso 1 si applica anche ai lavoratori di altre aziende se questi ultimi sono occupati, al di fuori del loro luogo abituale di lavoro, per il servizio o l’assistenza ai visitatori nel quadro di manifestazioni.
 
-<sup>3</sup> L’articolo 4 capoverso 1 è applicabile soltanto qualora il lavoro notturno sia necessario per il montaggio e lo smontaggio delle installazioni e degli stand nonché per la manutenzione.
+<sup>3</sup> Ai lavoratori occupati per il montaggio e lo smontaggio delle installazioni usate nelle manifestazioni, nonché per la loro preparazione e la loro manutenzione, si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 7 capoverso 1, 10 capoverso 4, 11, 12 capoverso 1 e 13, purché il lavoro notturno e domenicale sia necessario per queste attività.
 
-<sup>4</sup> Sono considerate aziende per conferenze e congressi le aziende che organizzano manifestazioni d’informazione politica, culturale o scientifica.
+<sup>4</sup> L’articolo 7 capoverso 1 è applicabile soltanto ai lavoratori occupati in manifestazioni di lunga durata senza interruzione. Non è possibile avvalersi contemporaneamente degli articoli 7 capoverso 1 e 10 capoverso 4.
 
-<sup>5</sup> Sono considerate aziende per fiere le aziende che organizzano manifestazioni per espositori che presentano e vendono i loro prodotti.
+<sup>5</sup> Gli articoli 10 capoverso 4 e 11 sono applicabili soltanto ai lavoratori delle aziende che forniscono, come attività principale, prestazioni per l’organizzazione e lo svolgimento di manifestazioni.
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+<sup>6</sup> Sono considerati manifestazioni gli eventi destinati al pubblico e organizzati in particolare a scopo culturale, politico, scientifico o sportivo nonché le fiere in cui sono riuniti diversi espositori che presentano e vendono i loro prodotti.
+
+[^43-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 43a
 
-**Aziende che forniscono servizi destinati a manifestazioni**[^43a-1]
+[^43a-1]
 
-<sup>1</sup> Alle aziende che forniscono servizi destinati a manifestazioni e ai lavoratori in esse occupati si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 7 capoverso 1, 10 capoverso 4, 11, 12 capoverso 1 e 13, purché il lavoro notturno e domenicale sia necessario per il montaggio e lo smontaggio dell’allestimento e delle installazioni delle manifestazioni e per la loro preparazione e la loro manutenzione.
-
-<sup>2</sup> L’articolo 7 capoverso 1 è applicabile soltanto ai lavoratori occupati in manifestazioni di lunga durata senza interruzione. Non è possibile avvalersi contemporanea-mente dell’articolo 7 capoverso 1 e dell’articolo 10 capoverso 4.
-
-<sup>3</sup> Le aziende che forniscono servizi destinati a manifestazioni sono aziende che forniscono prestazioni per l’organizzazione e lo svolgimento di manifestazioni quali tournée, festival, concerti, commedie musicali, eventi di marketing, riunioni, eventi di gala o manifestazioni sportive.
-
-[^43a-1]: Introdotto dal n. I dell’O del 20 ago. 2014, in vigore dal 15 set. 2014 ([RU 2014 2765](https://fedlex.data.admin.ch/eli/oc/2014/474)).
+[^43a-1]: Introdotto dal n. I dell’O del 20 ago. 2014 ([RU 2014 2765](https://fedlex.data.admin.ch/eli/oc/2014/474)). Abrogato dal n. I dell’O del 2 feb. 2022, con effetto dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 44
 
@@ -651,11 +650,14 @@ Alle aziende del settore automobilistico e ai lavoratori in esse occupati si app
 
 #### Art. 48
 
-**Aziende di costruzione e di manutenzione di impianti ferroviari**[^48-1]
+**Aziende di costruzione e di manutenzione di impianti di trasporto pubblico**[^48-1]
 
-Alle aziende di costruzione e di manutenzione di impianti ferroviari e ai lavoratori in esse occupati nei lavori di manutenzione e di rinnovamento di impianti ferroviari si applica l’articolo 4 per tutta la notte e tutta la domenica, nonché l’articolo 12 capoverso 1, sempreché il lavoro notturno e domenicale, segnatamente agli impianti delle linee ferroviarie e di approvvigionamento in energia elettrica nonché ai dispositivi per il comando e la sicurezza della circolazione ferroviaria, sia necessario per garantire il buon funzionamento dei servizi ferroviari.
+<sup>1</sup> Alle aziende di costruzione e di manutenzione che operano per conto di un’azienda assoggettata alla legge dell’8 ottobre 1971[^48-2] sulla durata del lavoro e ai lavoratori in esse occupati che lavorano sui binari o nelle loro immediate vicinanze, agli impianti di approvvigionamento in energia elettrica, nonché ai dispositivi per il comando e la sicurezza del traffico, si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché l’articolo 12 capoverso 1, purché il lavoro notturno e domenicale sia necessario per garantire il buon funzionamento dei servizi di trasporto.
 
-[^48-1]: Nuovo testo giusta il n. I dell’O del 31 ott. 2012, in vigore dal 1° dic. 2012 ([RU 2012 6009](https://fedlex.data.admin.ch/eli/oc/2012/705)).
+<sup>2</sup> I lavori secondo il capoverso 1 devono implicare la chiusura parziale o totale di un impianto di trasporto esistente ed essere direttamente collegati a tale impianto.
+
+[^48-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
+[^48-2]: [RS 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536)
 
 #### Art. 48a
 
@@ -682,16 +684,43 @@ Alle aziende di depurazione delle acque di scarico e di smaltimento dei rifiuti 
 
 #### Art. 51
 
-**Aziende di pulizia**
+**Aziende di pulizia**[^51-1]
+
+Alle aziende di pulizia e ai lavoratori in esse occupati per le attività di pulizia si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché l’articolo 12 capoverso 1, purché l’intervento:
+
+- a. debba necessariamente svolgersi di notte o la domenica per il buon funzionamento dell’azienda che li impiega; e
+- b.
+
+  si svolga in un’azienda:
+
+  - 1\. assoggettata alla presente ordinanza,
+  - 2\. titolare di un permesso che la autorizzi a ricorrere a un sistema di organizzazione del tempo di lavoro di 24 ore su 24, 7 giorni su 7, o
+  - 3\. per la quale il lavoro notturno e domenicale è previsto da una legge.
+
+[^51-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
+
+#### Art. 51a
+
+**Personale che svolge lavori di manutenzione**[^51a-1]
 
 <sup>1</sup>
 
-Ai lavoratori delle aziende di pulizia che sono impiegati esclusivamente o prevalentemente in un’azienda assoggettata alla presente ordinanza si applicano le vigenti disposizioni speciali concernenti la categoria interessata, purché:
+Ai lavoratori che svolgono lavori di manutenzione si applica l’articolo 4 per tutta la notte e tutta la domenica, purché il lavoro notturno o domenicale sia necessario per garantire la continuità delle attività di un’azienda:
 
-- a. l’azienda che li impiega si avvalga effettivamente delle corrispondenti disposizioni speciali; e
-- b. l’intervento del personale di pulizia di notte o la domenica sia necessario per il buon funzionamento dell’impresa che lo impiega.
+- a. assoggettata alla presente ordinanza; e
+- b. le cui prestazioni devono essere assicurate 24 ore su 24, 7 giorni su 7, nell’interesse pubblico.
 
-<sup>2</sup> Sono considerate aziende di pulizia le aziende che svolgono lavori di pulizia e di sgombero.
+<sup>2</sup> Sono considerati lavori di manutenzione in particolare le riparazioni, i rinnovi e le misure volte a prevenire le interruzioni, quali le ispezioni.
+
+[^51a-1]: Introdotto dal n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
+
+#### Art. 51b
+
+**Aziende che garantiscono il servizio invernale**[^51b-1]
+
+Alle aziende che garantiscono il servizio invernale e ai lavoratori in esse occupati per lo spargimento del sale e lo sgombero della neve si applica l’articolo 4 per tutta la notte e tutta la domenica.
+
+[^51b-1]: Introdotto dal n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 52
 

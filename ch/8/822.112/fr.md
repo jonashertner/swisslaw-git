@@ -4,11 +4,11 @@ title: "Ordonnance 2 du 10 mai 2000 relative à la loi sur le travail (OLT 2) (D
 short: OLT 2
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/244"
 language: fr
-version: 2021-11-01
+version: 2022-04-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-244-20211101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20211101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2000-244-20220401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20220401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -19,7 +19,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20211101/fr"
 
 (Dispositions spéciales pour certaines catégories d’entreprises ou de travailleurs)
 
-du 10 mai 2000 (Etat le 1<sup>er</sup> novembre 2021)
+du 10 mai 2000 (Etat le 1<sup>er</sup> avril 2022)
 
 Le Conseil fédéral suisse,
 
@@ -186,14 +186,15 @@ La période du dimanche, selon l’art. 18, al. 1, de la loi, peut être avancé
 
 <sup>1bis</sup> Le travailleur bénéficie d’au moins 18 dimanches de congé par année civile pour autant qu’au minimum douze fois dans l’année civile le repos hebdomadaire comporte au moins 59 heures consécutives. Ces 59 heures comprennent le repos quotidien, le samedi et le dimanche complets. Les dimanches de congé peuvent être répartis de manière irrégulière au cours de l’année civile.[^12-1]
 
-<sup>2</sup> Le travailleur bénéficie d’au moins douze dimanches de congé par année civile. Ils peuvent être répartis de manière irrégulière au cours de l’année civile, pour autant que les semaines sans dimanche de congé comportent, immédiatement à la suite du repos quotidien, un repos hebdomadaire de 36 heures consécutives.
+<sup>2</sup> Le travailleur bénéficie d’au moins 12 dimanches de congé par année civile. Ils peuvent être répartis de manière irrégulière au cours de l’année civile. Dans la semaine où le dimanche est travaillé ou dans la semaine suivante, le repos hebdomadaire comporte 36 heures consécutives, immédiatement à la suite du repos quotidien.[^12-2]
 
-<sup>2bis</sup> Le travailleur bénéficie d’au moins douze dimanches de congé par année civile. Ils peuvent être répartis de manière irrégulière au cours de l’année civile. Dans les semaines sans dimanche de congé le repos hebdomadaire comporte soit une fois 47 heures consécutives, soit deux fois 35 heures consécutives.[^12-2]
+<sup>2bis</sup> Le travailleur bénéficie d’au moins 12 dimanches de congé par année civile. Ils peuvent être répartis de manière irrégulière au cours de l’année civile. Dans la semaine où le dimanche est travaillé ou dans la semaine suivante, le repos hebdomadaire comporte soit une fois 47 heures consécutives, soit deux fois 35 heures consécutives.[^12-3]
 
 <sup>3</sup> Le nombre de dimanches de congé peut être abaissé jusqu’à quatre, pour autant que la semaine de travail de cinq jours soit observée en moyenne sur l’année civile. Ils peuvent être répartis de façon irrégulière au cours de l’année.
 
 [^12-1]: Introduit par le ch. I de l’O du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> août 2013 ([RO 2013 2119](https://fedlex.data.admin.ch/eli/oc/2013/449)).
-[^12-2]: Introduit par le ch. I de l’O du 17 août 2016, en vigueur depuis le 1<sup>er</sup> sept. 2016 ([RO 2016 2949](https://fedlex.data.admin.ch/eli/oc/2016/490)).
+[^12-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
+[^12-3]: Introduit par le ch. I de l’O du 17 août 2016 ([RO 2016 2949](https://fedlex.data.admin.ch/eli/oc/2016/490)). Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 13
 
@@ -398,23 +399,25 @@ Avant la désignation, le DEFR[^26a-3] entend:
 
 **Boulangeries, pâtisseries et confiseries**
 
-<sup>1</sup> Sont applicables aux boulangeries, pâtisseries et confiseries, ainsi qu’aux travailleurs qu’elles affectent à la confection d’articles de boulangerie, pâtisserie et confiserie, l’art. 4 pour toute la nuit pendant deux jours par semaine, pour la nuit à partir de 1 heure les autres jours, et pour tout le dimanche, ainsi que les art. 10, al. 4 et 5, 11, 12, al. 2, et 13.[^27-1]
+<sup>1</sup> Sont applicables aux boulangeries, pâtisseries et confiseries, ainsi qu’aux travailleurs qu’elles affectent à la confection d’articles de boulangerie, de pâtisserie ou de confiserie, l’art. 4 pour toute la nuit et pour tout le dimanche, ainsi que les art. 10, al. 5, 11, 12, al. 2, et 13.[^27-1]
 
 <sup>2</sup> Sont applicables aux magasins dans les boulangeries, pâtisseries et confiseries et aux travailleurs qu’ils affectent à la vente l’art. 4, al. 2, pour tout le dimanche, ainsi que les art. 12, al. 2, et 13.
 
 <sup>3</sup> Sont réputées boulangeries, pâtisseries ou confiseries les entreprises dont l’activité consiste à confectionner des articles de boulangerie, de pâtisserie ou de confiserie, ainsi que leurs magasins, pour autant qu’y soient majoritairement vendus des produits de leur propre fabrication.
 
-[^27-1]: Nouvelle teneur selon le ch. I de l’O du 18 mai 2004, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 27a
 
 **Entreprises de transformation de la viande**[^27a-1]
 
-<sup>1</sup> Sont applicables aux entreprises de transformation de la viande et aux travailleurs qu’elles affectent à la transformation de la viande, à son emballage et à son entreposage l’art. 4 pour la nuit à partir de 2 heures pendant deux jours par semaine et à partir de 4 heures les autres jours, et pour le dimanche dès 17 heures, ainsi que les art. 12, al. 1, 13 et 14, al. 1.
+<sup>1</sup> Sont applicables aux entreprises de transformation de la viande et aux travailleurs qu’elles affectent à la transformation de la viande, à son emballage, à son entreposage, à la préparation des commandes et à son expédition, ainsi qu’au nettoyage lié à ces activités, l’art. 4 pour la nuit à partir de 2 heures et pour le dimanche dès 17 heures, ainsi que les art. 12, al. 1, et 13.
 
-<sup>2</sup> Sont réputées entreprises de transformation de la viande les entreprises qui ont pour activité principale la production, la transformation et la valorisation de la viande et la préparation de produits carnés.
+<sup>2</sup> Est applicable aux travailleurs affectés à la préparation de viande fraîche et de mets de traiteur l’art. 4, al. 2, pour deux dimanches en décembre, pour autant que le maintien de la qualité des produits exige traitement de ces derniers sans délai.
 
-[^27a-1]: Introduit par le ch. I de l’O du 18 mai 2004, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+<sup>3</sup> Sont réputées entreprises de transformation de la viande les entreprises qui ont pour activité principale la production, la transformation et la valorisation de la viande et la préparation de produits carnés.
+
+[^27a-1]: Introduit par le ch. I de l’O du 18 mai 2004 ([RO 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)). Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 28
 
@@ -590,31 +593,27 @@ Sont applicables aux campings et aux travailleurs qu’ils affectent à l’expl
 
 #### Art. 43
 
-**Entreprises de conférences, de congrès et de foires**
+**Manifestations**[^43-1]
 
-<sup>1</sup> Sont applicables aux entreprises de conférences et de congrès et aux travailleurs qu’elles affectent au service et à l’assistance aux visiteurs, ainsi qu’à l’entretien, l’art. 4 pour toute la nuit et pour tout le dimanche, ainsi que les art. 12, al. 1, et 13.
+<sup>1</sup> Sont applicables aux entreprises de conférence, de congrès ou de foire et aux travailleurs qu’elles affectent au service et à l’assistance aux visiteurs l’art. 4 pour toute la nuit et pour tout le dimanche, ainsi que les art. 7, al. 1, 12, al. 1, et 13.
 
-<sup>2</sup> Sont applicables aux entreprises de foire et aux travailleurs qu’elles affectent au montage et au démontage, au service aux stands et aux caisses, ainsi qu’à l’entretien, l’art. 4 pour toute la nuit et tout le dimanche, ainsi que les art. 7, al. 1, 12, al. 1, et 13.[^43-1]
+<sup>2</sup> L’al. 1 s’applique également aux travailleurs d’autres entreprises pour autant qu’ils soient affectés au service ou à l’assistance aux visiteurs en dehors de leur lieu de travail habituel, dans le cadre de manifestations.
 
-<sup>3</sup> L’application de l’art. 4, al. 1, se limite aux cas dans lesquels le travail de nuit est nécessaire pour le montage et le démontage des installations et des stands servant à la manifestation ainsi que pour l’entretien.
+<sup>3</sup> Sont applicables aux travailleurs affectés au montage et au démontage des installations servant à la manifestation ainsi qu’à leur exploitation et à leur entretien l’art. 4 pour toute la nuit et pour tout le dimanche, ainsi que les art. 7, al. 1, 10, al. 4, 11, 12, al. 1, et 13, pour autant que travail de nuit ou du dimanche soit nécessaire aux activités mentionnées.
 
-<sup>4</sup> Sont réputées entreprises de conférences et de congrès les entreprises dont l’activité consiste à organiser des manifestations d’information politique, culturelle ou scientifique.
+<sup>4</sup> L’art. 7, al. 1, est applicable uniquement aux travailleurs occupés sans interruption lors d’une seule et même manifestation de longue durée. Il n’est pas possible d’appliquer les dispositions des art. 7, al. 1, et 10, al. 4, en même temps.
 
-<sup>5</sup> Sont réputées entreprises de foires les entreprises dont l’activité consiste à organiser des manifestations pour des exposants qui présentent et vendent leurs produits.
+<sup>5</sup> Les art. 10, al. 4, et 11 sont applicables uniquement aux travailleurs d’entreprises qui ont pour activé principale la fourniture de prestations pour l’organisation et la réalisation de manifestations.
 
-[^43-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+<sup>6</sup> Sont réputées manifestations les événements destinés au public et organisés notamment dans un but culturel, politique, scientifique ou sportif, ainsi que les foires réunissant plusieurs exposants qui présentent et vendent leurs produits.
+
+[^43-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 43a
 
-**Entreprises fournissant des services destinés à des manifestations**[^43a-1]
+[^43a-1]
 
-<sup>1</sup> Sont applicables aux entreprises fournissant des services destinés à des manifestations et aux travailleurs qu’elles occupent, l’art. 4 pour toute la nuit et pour tout le dimanche ainsi que les art. 7, al. 1, 10, al. 4, 11, 12, al. 1, et 13, pour autant que le travail de nuit et du dimanche soit nécessaire au montage et au démontage des installations et des équipements de manifestations ainsi qu’à leur exploitation et à leur entretien.
-
-<sup>2</sup> L’art. 7, al. 1, n’est applicable qu’aux travailleurs occupés lors d’une seule et même manifestation de longue durée sans interruption. Il n’est pas possible de bénéficier des dispositions de l’art. 7, al. 1, et de l’art. 10, al. 4, en même temps.
-
-<sup>3</sup> Sont réputées entreprises fournissant des services destinés à des manifestations les entreprises qui fournissent des prestations pour l’organisation et la réalisation de manifestations comme des tournées, des festivals, des concerts, des comédies musicals, des évènements marketing, des assemblées, des galas ou des manifestations sportives.
-
-[^43a-1]: Introduit par le ch. I de l’O du 20 août 2014, en vigueur depuis le 15 sept. 2014 ([RO 2014 2765](https://fedlex.data.admin.ch/eli/oc/2014/474)).
+[^43a-1]: Introduit par le ch. I de l’O du 20 août 2014 ([RO 2014 2765](https://fedlex.data.admin.ch/eli/oc/2014/474)). Abrogé par le ch. I de l’O du 2 fév. 2022, avec effet au 1<sup>er</sup> avr. 2022 ([RO 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 44
 
@@ -652,11 +651,14 @@ Est applicable aux entreprises de la branche automobile et aux travailleurs qu�
 
 #### Art. 48
 
-**Entreprises de construction et d’entretien d’installations ferroviaires**[^48-1]
+**Entreprise de construction et d’entretien d’installations de transports publics**[^48-1]
 
-Sont applicables aux entreprises de construction et d’entretien d’installations ferroviaires et aux travailleurs qu’elles affectent à l’entretien et à la rénovation des installations ferroviaires, telles qu’installations des voies ferrées, approvisionnement en électricité, dispositifs de commande et sécurité pour la circulation ferroviaire, l’art. 4 pour toute la nuit et pour tout le dimanche, et l’art. 12, al. 1, pour autant que cela soit nécessaire à la bonne marche des services ferroviaires.
+<sup>1</sup> Sont applicables aux entreprises de construction et d’entretien qui interviennent sur mandat d’une entreprise soumise à la loi du 8 octobre 1971 sur la durée du travail[^48-2], ainsi qu’aux travailleurs qu’elles occupent sur ou à proximité immédiate des voies, pour l’approvisionnement en énergie ou sur les dispositifs de commande ou de sécurité du transport, l’art. 4 pour toute la nuit et pour tout le dimanche, ainsi que l’art. 12, al. 1, pour autant que le travail de nuit ou du dimanche soit nécessaire à la bonne marche des services de transport.
 
-[^48-1]: Nouvelle teneur selon le ch. I de l’O du 31 oct. 2012, en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 6009](https://fedlex.data.admin.ch/eli/oc/2012/705)).
+<sup>2</sup> Les travaux concernés par l’al. 1 doivent impliquer l’arrêt partiel ou total d’une installation de transport existante et être en lien direct avec cette dernière.
+
+[^48-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
+[^48-2]: [RS 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536)
 
 #### Art. 48a
 
@@ -683,16 +685,43 @@ Est applicable aux entreprises de traitement des ordures ménagères et des eaux
 
 #### Art. 51
 
-**Entreprises de nettoyage**
+**Entreprises de nettoyage**[^51-1]
+
+Sont applicables aux entreprises de nettoyage et aux travailleurs qu’elles occupent pour le nettoyage l’art. 4 pour toute la nuit et pour tout le dimanche, ainsi que l’art. 12, al. 1, pour autant que l’intervention:
+
+- a. doive nécessairement se dérouler la nuit ou le dimanche pour la bonne marche de l’entreprise ayant recours à leurs services, et
+- b.
+
+  se déroule dans une entreprise:
+
+  - 1\. qui est soumise à la présente ordonnance,
+  - 2\. qui est au bénéfice d’un permis autorisant un système d’organisation du temps de travail 24 heures sur 24, 7 jours sur 7, ou
+  - 3\. pour laquelle le travail de nuit et le travail du dimanche est prévu par une loi.
+
+[^51-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
+
+#### Art. 51a
+
+**Personnel effectuant des travaux de maintenance**[^51a-1]
 
 <sup>1</sup>
 
-Sont applicables aux travailleurs des entreprises de nettoyage appelés à intervenir, exclusivement ou principalement, dans une entreprise assujettie à la présente ordonnance les dispositions spéciales concernant la catégorie d’entreprises concernée, pour autant que:
+Est applicable aux travailleurs qui effectuent des travaux de maintenance l’art. 4 pour toute la nuit et pour tout le dimanche, pour autant que la réalisation des travaux la nuit ou le dimanche soit nécessaire à la poursuite des activités d’une entreprise:
 
-- a. l’entreprise ayant recours à ces travailleurs fasse effectivement usage des dispositions spéciales correspondantes, et que
-- b. l’intervention, de nuit ou le dimanche, des travailleurs affectés au nettoyage soit nécessaire à la bonne marche de l’entreprise ayant recours à leurs services.
+- a. qui est soumise à la présente ordonnance, et
+- b. dont les prestations doivent être assurées 24 heures sur 24, 7 jours sur 7 dans l’intérêt public.
 
-<sup>2</sup> Sont réputées entreprises de nettoyage les entreprises dont l’activité réside dans le nettoyage et le déblaiement.
+<sup>2</sup> Sont réputés travaux de maintenance notamment les réparations, les rénovations et les mesures visant à prévenir les interruptions telles que les inspections.
+
+[^51a-1]: Introduit par le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
+
+#### Art. 51b
+
+**Entreprises effectuant le service d’hiver**[^51b-1]
+
+Est applicable aux entreprises effectuant des travaux liés au service d’hiver et aux travailleurs qu’elles affectent aux travaux de salage et de déblaiement de la neige l’art. 4 pour toute la nuit et pour tout le dimanche.
+
+[^51b-1]: Introduit par le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 52
 
