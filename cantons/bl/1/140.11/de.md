@@ -4,13 +4,13 @@ number: "140.11"
 title: Verordnung zum Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft
 short: "Regierungs- und Verwaltungsorganisationsverordnung Basel-Landschaft, RVOV BL"
 language: de
-version: 2021-08-01
-valid_until: 2022-03-31
-version_adopted: 2021-06-29
+version: 2022-04-01
+valid_until: 2023-06-30
+version_adopted: 2022-02-22
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/140.11"
-pdf: "https://bl.clex.ch/api/de/versions/3048/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3260/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3048/pdf_file"
 
 (Regierungs- und Verwaltungsorganisationsverordnung Basel-Landschaft, RVOV BL)
 
-Vom 19.12.2017 (Stand 01.08.2021)
+Vom 19.12.2017 (Stand 01.04.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -100,26 +100,19 @@ beschliesst:
 
 **Bau- und Umweltschutzdirektion (BUD)**
 
-<sup>1</sup> Die Bau- und Umweltschutzdirektion umfasst folgende Dienststellen:
+<sup>1</sup> Die Bau- und Umweltschutzdirektion gliedert sich in folgende Bereiche und Dienststellen:
 
-- a. Generalsekretariat;
-- b. Amt für Industrielle Betriebe;
-- c. Amt für Raumplanung;
-- d. Amt für Umweltschutz und Energie;
-- e. Bauinspektorat;
-- f. Hochbauamt;
-- g. Lufthygieneamt beider Basel;
+- a. Bereich Generalsekretariat, umfassend das Generalsekretariat;
+- b. Bereich Umweltschutz und Energie, umfassend das Amt für Umweltschutz und Energie sowie das Lufthygieneamt beider Basel;
+- c. Bereich Tiefbau, umfassend das Tiefbauamt;
+- d. Bereich Immobilien, umfassend das Hochbauamt;
+- e. Bereich Raumplanung, umfassend das Amt für Raumplanung;
+- f. Bereich Bauinspektorat, umfassend das Bauinspektorat;
+- g. Bereich Abwasser und Deponien, umfassend das Amt für Industrielle Betriebe.
 - h. …
-- i. Tiefbauamt.
+- i. …
 
-<sup>2</sup> Die Dienststellen sind folgenden Bereichen zugeordnet:
-
-- a. Bereich Generalsekretariat;
-- b. Bereich Umwelt und Energie: umfassend das Amt für Umweltschutz und Energie sowie das Lufthygieneamt beider Basel;
-- c. Bereich Infrastruktur und Mobilität: umfassend das Tiefbauamt und das Amt für Industrielle Betriebe;
-- d. Bereich Immobilien: umfassend das Hochbauamt;
-- e. Bereich Raumentwicklung: umfassend das Amt für Raumplanung;
-- f. Bereich Baubewilligung: umfassend das Bauinspektorat.
+<sup>2</sup> …
 
 #### § 8
 
