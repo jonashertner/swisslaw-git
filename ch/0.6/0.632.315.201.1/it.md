@@ -3,11 +3,11 @@ sr: "0.632.315.201.1"
 title: "Accordo del 19 giugno 2000 tra gli Stati dell'AELS e la Repubblica di Macedonia (con prot., prot. d'intesa e allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/25"
 language: it
-version: 2010-11-30
+version: 2022-04-01
 adopted: 2000-06-19
 in_force: 2002-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/25/20101130/it/xml/fedlex-data-admin-ch-eli-cc-2004-25-20101130-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/25/20101130/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/25/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2004-25-20220401-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/25/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,16 +16,15 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/25/20101130/it"
 
 RU **2004** 365; FF **2001** 852
 
-Traduzione*[^t-1]*
+Traduzione
 
-Concluso a Zurigo il 19 giugno 2000 Approvato dall’Assemblea federale il 14 marzo 2001[^t-2] Ratificato con strumenti depositati dalla Svizzera il 7 giugno 2001 Entrato in vigore per la Svizzera il 1° maggio 2002
+Concluso a Zurigo il 19 giugno 2000 Approvato dall’Assemblea federale il 14 marzo 2001[^t-1] Ratificato con strumenti depositati dalla Svizzera il 7 giugno 2001 Entrato in vigore per la Svizzera il 1° maggio 2002
 
-(Stato 30 novembre 2010)
+(Stato 1° aprile 2022)
 
-[^t-1]: Traduzione dal testo originale inglese.
-[^t-2]: Art. 1 cpv. l. lett. a del DF del 14 mar 2001 ([RU 2004 363](https://fedlex.data.admin.ch/eli/oc/2004/24)).
+[^t-1]: Art. 1 cpv. l. lett. a del DF del 14 mar 2001 ([RU 2004 363](https://fedlex.data.admin.ch/eli/oc/2004/24)).
 
-Preambolo
+*Preambolo*
 
 La Repubblica d’Islanda, il Principato del Liechtenstein, il Regno di Norvegia, la Confederazione Svizzera
 
@@ -65,8 +64,8 @@ parimenti convinti che il presente Accordo istituisce condizioni che favoriscono
 
 hanno deciso, per raggiungere tali obiettivi, di stipulare il seguente Accordo (in seguito designato Accordo),
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 #### Art. 1
 
@@ -94,8 +93,8 @@ Il presente Accordo si applica:
 - b) ai prodotti che figurano nel Protocollo A, considerate le modalità particolari previste in tale protocollo;
 - c) al pesce e agli altri prodotti del mare elencati nell’allegato II;
 
-[^2-1]: [RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
-[^2-2]: Gli allegati e i protocolli, ad eccezione del Protocollo B, non sono pubblicati nella RU. Possono essere ottenuti presso l’UFCL, Diffusione pubblicazioni, 3003 Berna.
+[^2-1]: [RS 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
+[^2-2]: Gli all. e i Prot., ad eccezione del Prot. B, non sono pubblicati nella RU. Possono essere ottenuti presso l’UFCL, Diffusione pubblicazioni, 3003 Berna.
 
 #### Art. 3
 
@@ -189,7 +188,7 @@ Il presente Accordo non si oppone a divieti o restrizioni d’importazione, d’
 
 <sup>2.</sup> Per i prodotti esportati nel territorio di una Parte, gli esportatori non possono beneficiare di alcun rimborso dei dazi interni superiore all’importo del dazio diretto o indiretto che ha gravato tali prodotti.
 
-[^13-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.1
+[^13-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1
 
 #### Art. 14
 
@@ -211,7 +210,7 @@ Il presente Accordo non si oppone a divieti o restrizioni d’importazione, d’
 
 <sup>3.</sup> Le Parti interessate si adoperano per aderire all’Accordo dell’OMC sugli appalti pubblici e per liberalizzare ulteriormente l’accesso ai rispettivi appalti pubblici.
 
-[^15-1]: [RS 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
+[^15-1]: [RS 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
 
 #### Art. 16
 
@@ -225,7 +224,7 @@ Il presente Accordo non si oppone a divieti o restrizioni d’importazione, d’
 
 <sup>4.</sup> Le Parti, su domanda di una di esse, convengono di modificare le disposizioni relative alla protezione dei diritti della proprietà intellettuale contenuti nel presente articolo e nell’allegato V, al fine di migliorare il livello di protezione e di evitare o correggere distorsioni commerciali, se queste dovessero risultare dal livello attuale di protezione dei diritti della proprietà intellettuale.
 
-[^16-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1.C
+[^16-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1C
 
 #### Art. 17
 
@@ -252,8 +251,8 @@ Sono incompatibili con il buon funzionamento del presente Accordo in quanto susc
 
 <sup>3.</sup> Prima di iniziare una procedura d’inchiesta per determinare l’esistenza, il grado e l’effetto di una presunta sovvenzione in Macedonia o in uno Stato dell’AELS conformemente alle disposizioni dell’articolo 11 dell’Accordo sulle sovvenzioni e sulle misure compensative, la Parte che intende iniziare tale procedura lo notifica per scritto alla Parte dei prodotti in questione e attende sino alla scadenza di trenta giorni, al fine di trovare una soluzione mutuamente accettabile. Le consultazioni si svolgono in seno al Comitato misto se una delle Parti ne fa domanda entro dieci giorni alla data di ricevimento della notifica.
 
-[^18-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.1
-[^18-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All.1A.13
+[^18-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1
+[^18-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato1A.13
 
 #### Art. 19
 
@@ -261,8 +260,8 @@ Sono incompatibili con il buon funzionamento del presente Accordo in quanto susc
 
 Qualora uno Stato dell’AELS constati nelle sue relazioni commerciali con la Macedonia pratiche di dumping ai sensi dell’articolo VI del GATT 1994[^19-1], o qualora la Macedonia constati tali pratiche nelle sue relazioni commerciali con uno Stato dell’AELS, la Parte in questione può adottare nei confronti di tali pratiche provvedimenti adeguati, conformemente all’Accordo concernente l’applicazione dell’articolo VI del GATT 1994[^19-2] e secondo le procedure previste nell’articolo 24 (Procedure d’applicazione e provvedimenti di salvaguardia).
 
-[^19-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.1
-[^19-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All.1A.8
+[^19-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1
+[^19-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato1A.8
 
 #### Art. 20
 
@@ -308,8 +307,8 @@ Qualora l’applicazione degli articoli 7 (Dazi di esportazione e gravami con ef
 
 <sup>2.</sup> La Parte che incontra o rischia di incontrare entro breve termine gravi difficoltà nella bilancia dei pagamenti può adottare, conformemente alle disposizioni previste dal GATT 1994[^23-1] e dal relativo Memorando d’Intesa sulle disposizioni relative alla bilancia dei pagamenti[^23-2], provvedimenti restrittivi per gli scambi, che abbiano una durata limitata, che non siano discriminatori e che non oltrepassino lo stretto necessario per far fronte ai problemi della bilancia dei pagamenti. Si darà la preferenza i provvedimenti basati sui prezzi, che saranno resi progressivamente meno gravosi tenendo conto del miglioramento della bilancia dei pagamenti e saranno revocati non appena la situazione non ne giustifichi più il mantenimento. La Parte che adotta tali provvedimenti ne informa senza indugio le altre Parti e il Comitato misto – se possibile prima della loro introduzione – e comunica loro il più presto possibile il calendario della loro soppressione. Su domanda di una Parte, il Comitato misto esamina la necessità di mantenere i provvedimenti adottati.
 
-[^23-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.1
-[^23-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All.1A.1c
+[^23-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1
+[^23-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato1A.1.C
 
 #### Art. 24
 
@@ -485,41 +484,41 @@ Il Governo di Norvegia, in qualità di Governo depositario, notifica a tutti gli
 
 *In fede di che,* i plenipotenziari sottoscritti, debitamente autorizzati, hanno firmato il presente Accordo. Fatto a Zurigo, il 19 giugno 2000, in un solo esemplare in lingua inglese, che sarà depositato presso il Governo di Norvegia. Il Governo depositario trasmette copia certificata conforme a tutti gli Stati firmatari e aderenti. (Seguono le firme)
 
-Protocollo d'intesa
+Protocollo d’intesa
 
 ## Protocollo B
 
-**Art. 3 e 4 Cumulazione in materia di regole d’origine**
+Art. 3 e 4 Cumulazione in materia di regole d’origine
 
-<sup>1.</sup> Gli Stati dell’AELS e la Macedonia convengono di esaminare le possibilità di migliorare ulteriormente l’applicazione delle regole d’origine – in particolare includendo la Macedonia nel sistema cumulativo europeo – con l’obiettivo di espandere e promuovere la produzione e gli scambi nella regione europea.
+\1. Gli Stati dell’AELS e la Macedonia convengono di esaminare le possibilità di migliorare ulteriormente l’applicazione delle regole d’origine – in particolare includendo la Macedonia nel sistema cumulativo europeo – con l’obiettivo di espandere e promuovere la produzione e gli scambi nella regione europea.
 
-**Art. 15 (6) Drawback**
+Art. 15 (6) Drawback
 
-<sup>2.</sup> In relazione all’articolo 15 paragrafo 6, gli Stati dell’AELS e la Macedonia convengono che, su domanda di una Parte, sono svolte consultazioni relative agli effetti negativi risultanti dalla deroga accordata, al fine di trovare una soluzione soddisfacente. Gli Stati dell’AELS e la Macedonia convengono inoltre che qualsiasi revisione da parte del Comitato misto deve riflettere la prassi applicata fra la Macedonia e la Comunità europea.
+\2. In relazione all’articolo 15 paragrafo 6, gli Stati dell’AELS e la Macedonia convengono che, su domanda di una Parte, sono svolte consultazioni relative agli effetti negativi risultanti dalla deroga accordata, al fine di trovare una soluzione soddisfacente. Gli Stati dell’AELS e la Macedonia convengono inoltre che qualsiasi revisione da parte del Comitato misto deve riflettere la prassi applicata fra la Macedonia e la Comunità europea.
 
-**Art. 11 Regolamenti tecnici**
+Art. 11 Regolamenti tecnici
 
-<sup>3.</sup> Sino al momento in cui aderirà all’OMC, la Macedonia si impegna a notificare al Segretariato dell’AELS i propri progetti riguardo ai regolamenti tecnici al fine di adempiere progressivamente le disposizioni dell’articolo 11 capoverso 3 (Regolamenti tecnici). La Macedonia incaricherà un istituto pubblico di eseguire le notifiche.
+\3. Sino al momento in cui aderirà all’OMC, la Macedonia si impegna a notificare al Segretariato dell’AELS i propri progetti riguardo ai regolamenti tecnici al fine di adempiere progressivamente le disposizioni dell’articolo 11 capoverso 3 (Regolamenti tecnici). La Macedonia incaricherà un istituto pubblico di eseguire le notifiche.
 
-**Art. 16 Protezione della proprietà intellettuale**
+Art. 16 Protezione della proprietà intellettuale
 
-<sup>4.</sup> In virtù dell’Accordo sullo SEE[^annexu1-lvlu1-1], gli Stati dell’AELS applicano nella loro legislazione le disposizioni materiali della Convenzione europea del 5 ottobre 1973[^annexu1-lvlu1-2] sui brevetti. L’Islanda e la Norvegia ritengono che gli obblighi derivanti dall’articolo 16 (Protezione delle proprietà intellettuale) non differiscono materialmente dagli obblighi derivanti dall’Accordo SEE.
+\4. In virtù dell’Accordo sullo SEE[^annexu1-lvlu1-1], gli Stati dell’AELS applicano nella loro legislazione le disposizioni materiali della Convenzione europea del 5 ottobre 1973[^annexu1-lvlu1-2] sui brevetti. L’Islanda e la Norvegia ritengono che gli obblighi derivanti dall’articolo 16 (Protezione delle proprietà intellettuale) non differiscono materialmente dagli obblighi derivanti dall’Accordo SEE.
 
 Fatto a Zurigo, il 19 giugno 2000, in un solo esemplare in lingua inglese, che sarà depositato presso il Governo di Norvegia. Il Governo depositario trasmette copia certificata conforme a tutti gli Stati firmatari e aderenti.
 
 (Seguono le firme)
 
 [^annexu1-lvlu1-1]: FF **1992** IV 380
-[^annexu1-lvlu1-2]: [RS 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)
+[^annexu1-lvlu1-2]: [RS 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)
 
-## Lista degli allegati****
+## Lista degli allegati
 
 [^annexu1-lvlu2-1]
 
-[^annexu1-lvlu2-1]: Questi doc. (in parte pubblicati nella [RU 2004 365](https://fedlex.data.admin.ch/eli/oc/2004/25)) (con l’eccezione del Prot. d’intesa) non sono pubblicati né nella RU né nella RS ([RU 2010 4531](https://fedlex.data.admin.ch/eli/oc/2010/645)[5433](https://fedlex.data.admin.ch/eli/oc/2010/771)). Possono essere ottenuti, in versione originale inglese, presso l’Ufficio federale delle costruzioni e della logistica, Vendita di pubblicazioni, 3003 Berna. È inoltre disponibile in Internet sul sito del Segretariato dell’AELS: http://www.efta.int/free-trade/free-trade-agreements/macedonia/
+[^annexu1-lvlu2-1]: Questi doc. (in parte pubblicati nella [RU 2004 365](https://fedlex.data.admin.ch/eli/oc/2004/25)) (con l’eccezione del Prot. d’intesa) non sono pubblicati né nella ([RU 2010 4531](https://fedlex.data.admin.ch/eli/oc/2010/645), [5433](https://fedlex.data.admin.ch/eli/oc/2010/771); [2021 644](https://fedlex.data.admin.ch/eli/oc/2021/644); [2022 180](https://fedlex.data.admin.ch/eli/oc/2022/180)). Possono essere ottenuti, in versione originale inglese, presso l’Ufficio federale delle costruzioni e della logistica, Vendita di pubblicazioni, 3003 Berna. È inoltre disponibile sul sito Internet del Segretariato dell’AELS: [www.efta.int](http://www.efta.int) &gt; Global Trade relations &gt; Free Trade Agreements &gt; North Macedonia
 
 <table>
-<tr><td></td><td>***Record of Understanding – Protocollo di intesa***</td></tr>
+<tr><td></td><td>***Record of Understanding – Protocole d’entente***</td></tr>
 <tr><td>**Annex I**</td><td>Referred to in Sub-paragraph (a) of Article 2 – Products not covered by the Agreement</td></tr>
 <tr><td>**Annex II**</td><td>Referred to in Sub-paragraph (c) of Article 2 – Fish and other marine products</td></tr>
 <tr><td>**Annex III**</td><td>Referred to in Paragraph 2 of Article 4 – Customs duties on imports and charges having equivalent effect</td></tr>
@@ -529,21 +528,21 @@ Fatto a Zurigo, il 19 giugno 2000, in un solo esemplare in lingua inglese, che s
 <tr><td>**Annex V**</td><td>Referred to in Article 16 – Protection of intellectual property</td></tr>
 <tr><td>**Annex VI**</td><td>Referred to in Article 31 – Constitution and functioning of the arbitral tribunal</td></tr>
 <tr><td>**Protocol A**</td><td>Referred to in Sub-paragraph (b) of Article 2 – Processed agricultural products</td></tr>
-<tr><td></td><td>Table I to Protocol A</td></tr>
-<tr><td></td><td>Table II to Protocol A – Iceland</td></tr>
-<tr><td></td><td>Table III to Protocol A – Liechtenstein, Switzerland</td></tr>
-<tr><td></td><td>Table IV to Protocol A – Norway</td></tr>
-<tr><td></td><td>Table V to Protocol A – Macedonia</td></tr>
+<tr><td></td><td>Table I to Protocol A– EFTA</td></tr>
+<tr><td></td><td>Table II to Protocol A – Macedonia</td></tr>
 <tr><td>**Protocol B**</td><td>Referred to in paragraph 1 of Article 3 – Concerning the definition of the concept of «originating products» and methods of administrative co-operation</td></tr>
 <tr><td></td><td>Annex I – Introductory notes</td></tr>
-<tr><td></td><td>Annex II – List of working or processing required to be carried out on non-originating materials in order that the product manufactured can obtain originating status</td></tr>
-<tr><td></td><td>Annex III – Specimens of movement certificate EUR.1 and application for a movement certificate EUR.1</td></tr>
-<tr><td></td><td>Annex IV – Text of the invoice declaration</td></tr>
-<tr><td></td><td>Annex V – Continuation of the implementation of the harmonized preferential rules of origin</td></tr>
+<tr><td></td><td>Annex II – List Rules</td></tr>
+<tr><td></td><td>Annex III A – Movement Certificate EUR.1</td></tr>
+<tr><td></td><td>Annex III B – Movement Certificate EUR-MED</td></tr>
+<tr><td></td><td>Annex IV A – Invoice Declaration</td></tr>
+<tr><td></td><td>Annex IV B – Invoice Declaration EUR-MED</td></tr>
+<tr><td></td><td>Annex V – List of Countries</td></tr>
 <tr><td></td><td>Joint Declaration</td></tr>
 <tr><td>**Protocol C**</td><td>Referred to in Article 10 – State monopolies</td></tr>
 <tr><td>**Protocol D**</td><td>Referred to in Article 35 – Territorial application</td></tr>
 <tr><td></td><td>**Joint Committee Decisions**</td></tr>
+<tr><td>No 1-21</td><td>Amending Protocol B</td></tr>
 <tr><td>No 4-08</td><td>Amendments to Protocol B</td></tr>
 <tr><td>No 3-08</td><td>Annex I</td></tr>
 <tr><td>No 2-08</td><td>Protocol A – Referred to in Sub-paragraph (b) of Article 2 – Processed agricultural products</td></tr>
@@ -558,14 +557,14 @@ Fatto a Zurigo, il 19 giugno 2000, in un solo esemplare in lingua inglese, che s
 <tr><td>No 1-03</td><td>Rules of procedure for the Joint Committee</td></tr>
 </table>
 
-## Campo d’applicazione il 19 agosto 2003
+Campo d’applicazione il 19 agosto 2003
 
 <table>
-<tr><th colspan="2">Stati Parte</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="2">Islanda</td><td>3 maggio</td><td>2002</td><td>1° agosto</td><td>2002</td></tr>
-<tr><td colspan="2">Liechtenstein<sup>a</sup></td><td>21 agosto</td><td>2001</td><td>1° maggio</td><td>2002</td></tr>
-<tr><td colspan="2">Macedonia<sup>a</sup></td><td>14 febbraio</td><td>2002</td><td>1° maggio</td><td>2002</td></tr>
-<tr><td colspan="2">Norvegia<sup>a</sup></td><td>15 giugno</td><td>2001</td><td>1° maggio</td><td>2002</td></tr>
-<tr><td colspan="2">Svizzera<sup>a</sup></td><td>7 giugno</td><td>2001</td><td>1° maggio</td><td>2002</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Il 1° mag. 2002 l’Acc. è entrato in vigore tra il Liechtenstein, la Macedonia, la Norvegia e la Svizzera.</td></tr>
+<tr><th>Stati Parte</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Islanda</td><td>3 maggio</td><td>2002</td><td>1° agosto</td><td>2002</td></tr>
+<tr><td>Liechtenstein <sup>a</sup></td><td>21 agosto</td><td>2001</td><td>1° maggio</td><td>2002</td></tr>
+<tr><td>Macedonia <sup>a</sup></td><td>14 febbraio</td><td>2002</td><td>1° maggio</td><td>2002</td></tr>
+<tr><td>Norvegia <sup>a</sup></td><td>15 giugno</td><td>2001</td><td>1° maggio</td><td>2002</td></tr>
+<tr><td>Svizzera <sup>a</sup></td><td>7 giugno</td><td>2001</td><td>1° maggio</td><td>2002</td></tr>
+<tr><td colspan="5"><sup>a</sup> Il 1° mag. 2002 l’Acc. è entrato in vigore tra il Liechtenstein, la Macedonia, la Norvegia e la Svizzera.</td></tr>
 </table>

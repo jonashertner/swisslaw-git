@@ -3,11 +3,11 @@ sr: "0.632.315.201.1"
 title: "Abkommen vom 19. Juni 2000 zwischen den EFTA-Staaten und der Republik Mazedonien (mit Verständigungsprotokoll, Prot. und Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/25"
 language: de
-version: 2010-11-30
+version: 2022-04-01
 adopted: 2000-06-19
 in_force: 2002-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/25/20101130/de/xml/fedlex-data-admin-ch-eli-cc-2004-25-20101130-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/25/20101130/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/25/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2004-25-20220401-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/25/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,16 +16,15 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/25/20101130/de"
 
 AS **2004** 365; BBl **2001** 969
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen in Zürich am 19. Juni 2000 Von der Bundesversammlung genehmigt am 14. März 2001[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 7. Juni 2001 In Kraft getreten für die Schweiz am 1. Mai 2002
+Abgeschlossen in Zürich am 19. Juni 2000 Von der Bundesversammlung genehmigt am 14. März 2001[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 7. Juni 2001 In Kraft getreten für die Schweiz am 1. Mai 2002
 
-(Stand am 30. November 2010)
+(Stand am 1. April 2022)
 
-[^t-1]: Übersetzung des englischen Originaltextes.
-[^t-2]: Art. 1 Abs. l Bst. a des BB vom 14. März 2001 ([AS 2004 363](https://fedlex.data.admin.ch/eli/oc/2004/24))
+[^t-1]: Art. 1 Abs. l Bst. a des BB vom 14. März 2001 ([AS 2004 363](https://fedlex.data.admin.ch/eli/oc/2004/24))
 
-Präambel
+*Präambel*
 
 Die Republik Island, das Fürstentum Liechtenstein, das Königreich Norwegen, die Schweizerische Eidgenossenschaft,
 
@@ -65,8 +64,8 @@ ebenfalls überzeugt, dass dieses Abkommen die Voraussetzungen schaffen wird, um
 
 haben zur Erreichung dieser Ziele folgendes Abkommen (im Folgenden Abkommen genannt) abgeschlossen:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 #### Art. 1
 
@@ -92,7 +91,7 @@ Dieses Abkommen gilt:
 - b) für die Erzeugnisse, die im Protokoll A aufgezählt sind, unter gebührender Beachtung der in diesem Protokoll enthaltenen Sonderbestimmungen;
 - c) für Fische und andere Meeresprodukte, die im Anhang II aufgezählt sind,
 
-[^2-1]: [SR 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^2-1]: [SR 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 [^2-2]: Die Anhänge und die Protokolle, ausgenommen das Protokoll B, werden nicht in der AS publiziert. Sie können beim BBL, Vertrieb Publikationen, 3003 Bern, bezogen werden.
 
 #### Art. 3
@@ -187,7 +186,7 @@ Dieses Abkommen steht Verboten oder Beschränkungen der Einfuhr, Ausfuhr oder Du
 
 <sup>2.</sup> Für Erzeugnisse, die in das Hoheitsgebiet eines der Vertragsstaaten ausgeführt werden, darf keine Erstattung für inländische Abgaben gewährt werden, die höher ist als die auf diesen Erzeugnissen unmittelbar oder mittelbar erhobenen Steuern.
 
-[^13-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1 A.1
+[^13-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1 A.1
 
 #### Art. 14
 
@@ -209,7 +208,7 @@ Dieses Abkommen steht Verboten oder Beschränkungen der Einfuhr, Ausfuhr oder Du
 
 <sup>3.</sup> Die Vertragsstaaten werden sich bemühen, dem WTO-Abkommen über das öffentliche Beschaffungswesen beizutreten und den Zutritt zu ihrem öffentlichen Beschaffungswesen zu liberalisieren.
 
-[^15-1]: [SR 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
+[^15-1]: [SR 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
 
 #### Art. 16
 
@@ -223,7 +222,7 @@ Dieses Abkommen steht Verboten oder Beschränkungen der Einfuhr, Ausfuhr oder Du
 
 <sup>4.</sup> Die Vertragsstaaten vereinbaren, auf Antrag eines Vertragsstaates, die in diesem Artikel und im Anhang V enthaltenen Bestimmungen über den Schutz des geistigen Eigentums zu überprüfen mit dem Ziel, das Schutzniveau zu verbessern und Handelsverzerrungen, die durch den gegenwärtigen Umfang des Schutzes des geistigen Eigentums verursacht werden, zu vermeiden oder zu beseitigen.
 
-[^16-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1.C
+[^16-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1C
 
 #### Art. 17
 
@@ -250,7 +249,7 @@ Mit dem guten Funktionieren dieses Abkommens sind unvereinbar, soweit sie geeign
 
 <sup>3.</sup> Bevor ein EFTA-Staat oder Mazedonien, je nach Fall, eine Untersuchung einleitet mit dem Ziel, das Vorliegen, die Höhe und die Auswirkungen einer angeblichen Subvention in Mazedonien oder in einem EFTA-Staat entsprechend den Bestimmungen in Artikel 11 des Übereinkommens über Subventionen und Ausgleichsmassnahmen zu ermitteln, muss der Vertragsstaat, welcher eine Untersuchung einleiten will, denjenigen Vertragsstaat, dessen Waren untersucht werden sollen, schriftlich benachrichtigen und eine Frist von 30 Tagen gewähren, um eine beiderseits annehmbare Lösung zu finden. Die Konsultationen finden im Rahmen des Gemischten Ausschusses statt, falls einer der Vertragsstaaten dies innerhalb von zehn Tagen nach Empfang der Notifikation verlangt.
 
-[^18-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.13
+[^18-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.13
 
 #### Art. 19
 
@@ -258,7 +257,7 @@ Mit dem guten Funktionieren dieses Abkommens sind unvereinbar, soweit sie geeign
 
 Stellt ein EFTA-Staat im Warenverkehr mit Mazedonien Dumping-Praktiken im Sinne von Artikel VI des Allgemeinen Zoll- und Handelsabkommens 1994 fest oder stellt Mazedonien im Warenverkehr mit einem EFTA-Staat entsprechende Dumping-Praktiken fest, kann der betroffene Vertragsstaat im Einklang mit dem Abkommen über die Durchführung von Artikel VI des Allgemeinen Zoll- und Handelsabkommens 1994[^19-1] und mit den in Artikel 24 (Verfahren für die Anwendung von Schutzmassnahmen) festgelegten Verfahren geeignete Massnahmen gegen diese Praktiken treffen.
 
-[^19-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.8
+[^19-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.8
 
 #### Art. 20
 
@@ -279,7 +278,7 @@ kann der betroffene Vertragsstaat gemäss den in Artikel 24 (Verfahren für die 
 
 <sup>2.</sup> Diese Massnahmen dürfen lediglich neu entstehende Industrien oder bestimmte Wirtschaftssektoren betreffen, die Strukturanpassungen unterzogen werden oder ernsthaften Schwierigkeiten begegnen, namentlich wenn diese Schwierigkeiten zu bedeutenden sozialen Problemen führen.
 
-<sup>3.</sup> Die im Zuge dieser Massnahmen von Mazedonien auf Ursprungserzeugnissen aus den EFTA-Staaten erhobenen Einfuhrzölle dürfen den Satz von 25 Prozent *ad val**o**rem* nicht überschreiten und müssen eine Präferenz für Ursprungserzeugnisse aus den EFTA-Staaten aufrechterhalten. Sie dürfen nicht höher sein als die Zölle, welche auf den Import von vergleichbaren Waren nach Mazedonien aus irgendeinem Land erhoben werden. Der Gesamtwert der Wareneinfuhren, welche Gegenstand dieser Massnahmen bilden, darf nicht mehr als 15 Prozent der Gesamteinfuhren der in Artikel 2 (a) genannten Industriegüter aus den EFTA-Staaten während des letzten statistisch erfassten Jahres betragen.
+<sup>3.</sup> Die im Zuge dieser Massnahmen von Mazedonien auf Ursprungserzeugnissen aus den EFTA-Staaten erhobenen Einfuhrzölle dürfen den Satz von 25 Prozent *ad valorem* nicht überschreiten und müssen eine Präferenz für Ursprungserzeugnisse aus den EFTA-Staaten aufrechterhalten. Sie dürfen nicht höher sein als die Zölle, welche auf den Import von vergleichbaren Waren nach Mazedonien aus irgendeinem Land erhoben werden. Der Gesamtwert der Wareneinfuhren, welche Gegenstand dieser Massnahmen bilden, darf nicht mehr als 15 Prozent der Gesamteinfuhren der in Artikel 2 (a) genannten Industriegüter aus den EFTA-Staaten während des letzten statistisch erfassten Jahres betragen.
 
 <sup>4.</sup> Mazedonien unterrichtet den Gemischten Ausschuss von allen Ausnahmemassnahmen, die es zu treffen beabsichtigt. Auf Antrag der EFTA-Staaten werden im Gemischten Ausschuss vor ihrer Einführung Konsultationen über diese Massnahmen und die davon betroffenen Bereiche abgehalten. Mazedonien unterbreitet dem Gemischten Ausschuss einen Zeitplan für die Beseitigung der im Zuge der Massnahmen gemäss diesem Artikel eingeführten Zölle. Dieser Zeitplan muss die schrittweise Beseitigung dieser Zölle in gleichen jährlichen Raten spätestens ab dem zweiten Jahr nach ihrer Einführung vorsehen. Der Gemischte Ausschuss kann einen anderen Zeitplan festlegen.
 
@@ -304,7 +303,7 @@ Wenn auf Grund der Artikel 7 (Ausfuhrzölle und Abgaben gleicher Wirkung) und 8 
 
 <sup>2.</sup> Befindet sich ein Vertragsstaat in ernsthaften Zahlungsbilanzschwierigkeiten bzw. ist er unmittelbar davon bedroht, so kann er im Einklang mit den im Allgemeinen Zoll- und Handelsabkommen 1994 und den in der diesbezüglichen Vereinbarung über Zahlungsbilanzbestimmungen[^23-1] festgelegten Voraussetzungen Handelsbeschränkungen einführen, die zeitlich begrenzt und nichtdiskriminierend sind und nicht über das für die Sanierung der Zahlungsbilanzsituation Erforderliche hinausgehen. Preisbezogene Massnahmen sollen den Vorzug erhalten; sie werden parallel zur Verbesserung der Zahlungsbilanzbedingungen gelockert und aufgehoben, wenn die Lage ihre Beibehaltung nicht mehr rechtfertigt. Der die restriktiven Massnahmen einführende Vertragsstaat unterrichtet die übrigen Vertragsstaaten und den Gemischten Ausschuss unverzüglich von der Einführung der Massnahmen und unterbreitet ihnen einen Zeitplan für deren Aufhebung. Der Gemischte Ausschuss wird auf Antrag eines anderen Vertragsstaates die Notwendigkeit der Beibehaltung der ergriffenen Massnahmen prüfen.
 
-[^23-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.1c
+[^23-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.1c
 
 #### Art. 24
 
@@ -474,37 +473,40 @@ Sofern es sich nicht um Änderungen im Sinne von Artikel 33 (Anhänge und Protok
 
 Die Regierung Norwegens, die als Depositar handelt, notifiziert allen Vertragsstaaten, die dieses Abkommen unterzeichnet haben oder ihm beigetreten sind: die Hinterlegung jeder Urkunde über die Ratifizierung, den Beitritt oder die Annahme einer Änderung unter Artikel 37 (Änderungen) sowie das Inkrafttreten dieses Abkommens und jeder hierzu gemachten Änderung nach dem Verfahren gemäss Artikel 37 (Änderungen) sowie dessen Beendigung oder jedwelchen Rücktritt.
 
-*Zu Urkund dessen*haben die Unterzeichner, die hierzu gebührend bevollmächtigt sind, das vorliegende Abkommen unterzeichnet. Geschehen zu Zürich, am 19. Juni 2000, in einer einzigen Ausfertigung in englischer Sprache, die bei der Regierung Norwegens hinterlegt wird. Der Depositar wird allen Signatarstaaten und Staaten, die diesem Abkommen beitreten, eine beglaubigte Abschrift übermitteln. (Es folgen die Unterschriften) Verständigungsprotokoll
+*Zu Urkund dessen*haben die Unterzeichner, die hierzu gebührend bevollmächtigt sind, das vorliegende Abkommen unterzeichnet. Geschehen zu Zürich, am 19. Juni 2000, in einer einzigen Ausfertigung in englischer Sprache, die bei der Regierung Norwegens hinterlegt wird. Der Depositar wird allen Signatarstaaten und Staaten, die diesem Abkommen beitreten, eine beglaubigte Abschrift übermitteln. (Es folgen die Unterschriften)
 
-Protokoll B
+Verständigungsprotokoll
 
-**Art. 3 + 4 Ursprungskumulation**
+## Protokoll B
 
-<sup>1.</sup> Die EFTA-Staaten und Mazedonien kommen überein, die Möglichkeiten einer zusätzlichen Erweiterung und Verbesserung der Ursprungsregeln, insbesondere den Einbezug von Mazedonien in das europäische Kumulationsnetz, zu prüfen, mit dem Ziel der Ausweitung und Förderung von Produktion und Handel im europäischen Raum.
+Art. 3 + 4 Ursprungskumulation
 
-**Art. 15(6) Drawback**
+\1. Die EFTA-Staaten und Mazedonien kommen überein, die Möglichkeiten einer zusätzlichen Erweiterung und Verbesserung der Ursprungsregeln, insbesondere den Einbezug von Mazedonien in das europäische Kumulationsnetz, zu prüfen, mit dem Ziel der Ausweitung und Förderung von Produktion und Handel im europäischen Raum.
 
-<sup>2.</sup> Mit Bezugnahme auf Artikel 15 Absatz 6 kommen die EFTA-Staaten und Mazedonien überein, dass auf Verlangen eines Vertragsstaates Konsultationen bezüglich negativer Auswirkungen durchgeführt werden, die von der vereinbarten Ausnahme herrühren, um eine befriedigende Lösung zu finden. Die EFTA-Staaten und Mazedonien stimmen auch überein, dass jegliche Überprüfung durch den Gemischten Ausschuss die zwischen Mazedonien und der Europäischen Gemeinschaft geübte Praxis widerspiegeln soll.
+Art. 15(6) Drawback
 
-**Art. 11 Technische Vorschriften**
+\2. Mit Bezugnahme auf Artikel 15 Absatz 6 kommen die EFTA-Staaten und Mazedonien überein, dass auf Verlangen eines Vertragsstaates Konsultationen bezüglich negativer Auswirkungen durchgeführt werden, die von der vereinbarten Ausnahme herrühren, um eine befriedigende Lösung zu finden. Die EFTA-Staaten und Mazedonien stimmen auch überein, dass jegliche Überprüfung durch den Gemischten Ausschuss die zwischen Mazedonien und der Europäischen Gemeinschaft geübte Praxis widerspiegeln soll.
 
-<sup>3.</sup> Bis zu seinem Beitritt zur WTO wird Mazedonien versuchen, Entwürfe für technische Vorschriften dem EFTA-Sekretariat zu notifizieren, um schrittweise den Bestimmungen von Artikel 11 Absatz 3 (Technische Vorschriften) nachzukommen. Mazedonien wird eine öffentliche Institution mit diesen Notifikationen beauftragen.
+Art. 11 Technische Vorschriften
 
-**Art. 16 Schutz des geistigen Eigentums**
+\3. Bis zu seinem Beitritt zur WTO wird Mazedonien versuchen, Entwürfe für technische Vorschriften dem EFTA-Sekretariat zu notifizieren, um schrittweise den Bestimmungen von Artikel 11 Absatz 3 (Technische Vorschriften) nachzukommen. Mazedonien wird eine öffentliche Institution mit diesen Notifikationen beauftragen.
 
-<sup>4.</sup> Hinsichtlich des EWR-Abkommens[^t-3] werden die EFTA-Staaten in ihrer Gesetzgebung die wesentlichen Bestimmungen des Europäischen Patentübereinkommens vom 5. Oktober 1973[^t-4] erfüllen. Island und Norwegen gehen davon aus, dass die Verpflichtungen von Artikel 16 (Schutz des geistigen Eigentums) sich in der Substanz nicht von den EWR-Verpflichtungen unterscheiden.
+Art. 16 Schutz des geistigen Eigentums
+
+\4. Hinsichtlich des EWR-Abkommens[^annexu1-lvlu1-1] werden die EFTA-Staaten in ihrer Gesetzgebung die wesentlichen Bestimmungen des Europäischen Patentübereinkommens vom 5. Oktober 1973[^annexu1-lvlu1-2] erfüllen. Island und Norwegen gehen davon aus, dass die Verpflichtungen von Artikel 16 (Schutz des geistigen Eigentums) sich in der Substanz nicht von den EWR-Verpflichtungen unterscheiden.
 
 Geschehen zu Zürich, am 19. Juni 2000, in einer einzigen Ausfertigung in englischer Sprache, die bei der Regierung Norwegens hinterlegt wird. Der Depositar wird allen Signatarstaaten und Staaten, die diesem Abkommen beitreten, eine beglaubigte Abschrift übermitteln.
 
 (Es folgen die Unterschriften)
 
-## Liste der Anhänge****
+[^annexu1-lvlu1-1]: [BBl 1992 IV 1](https://fedlex.data.admin.ch/eli/fga/1992/4_1_1_1)
+[^annexu1-lvlu1-2]: [SR 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)
+
+## Liste der Anhänge
 
 [^annexu1-lvlu2-1]
 
-[^t-3]: [BBl 1992 IV 1](https://fedlex.data.admin.ch/eli/fga/1992/4_1_1_1)
-[^t-4]: [SR 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)
-[^annexu1-lvlu2-1]: Diese Dokumente (teilweise publiziert in [AS 2004 365](https://fedlex.data.admin.ch/eli/oc/2004/25)) werden (mit Ausnahme des Verständigungsprotokolls) weder in der AS noch der SR veröffentlicht ([AS 2010 4531](https://fedlex.data.admin.ch/eli/oc/2010/645)[5433](https://fedlex.data.admin.ch/eli/oc/2010/771)). Sie sind nur in englischer Originalsprache verfügbar und können eingesehen werden auf der Internetseite der EFTA unter folgender Adresse: http://www.efta.int/free-trade/free-trade-agreements/macedonia/
+[^annexu1-lvlu2-1]: Diese Dokumente (teilweise publiziert in [AS 2004 365](https://fedlex.data.admin.ch/eli/oc/2004/25)) werden (mit Ausnahme des Verständigungsprotokolls) weder in der AS noch der SR veröffentlicht ([AS 2010 4531](https://fedlex.data.admin.ch/eli/oc/2010/645), [5433](https://fedlex.data.admin.ch/eli/oc/2010/771); [2021 644](https://fedlex.data.admin.ch/eli/oc/2021/644); [2022 180](https://fedlex.data.admin.ch/eli/oc/2022/180)). Sie sind nur in englischer Originalsprache verfügbar und können eingesehen werden auf der Internetseite der EFTA unter folgender Adresse: [www.efta.int](http://www.efta.int) &gt; Global Trade relations &gt; Free Trade Agreements &gt; North Macedonia
 
 <table>
 <tr><td></td><td>***Record of Understanding – Verständigungsprotokoll***</td></tr>
@@ -517,21 +519,21 @@ Geschehen zu Zürich, am 19. Juni 2000, in einer einzigen Ausfertigung in englis
 <tr><td>**Annex V**</td><td>Referred to in Article 16 – Protection of intellectual property</td></tr>
 <tr><td>**Annex VI**</td><td>Referred to in Article 31 – Constitution and functioning of the arbitral tribunal</td></tr>
 <tr><td>**Protocol A**</td><td>Referred to in Sub-paragraph (b) of Article 2 – Processed agricultural products</td></tr>
-<tr><td></td><td>Table I to Protocol A</td></tr>
-<tr><td></td><td>Table II to Protocol A – Iceland</td></tr>
-<tr><td></td><td>Table III to Protocol A – Liechtenstein, Switzerland</td></tr>
-<tr><td></td><td>Table IV to Protocol A – Norway</td></tr>
-<tr><td></td><td>Table V to Protocol A – Macedonia</td></tr>
+<tr><td></td><td>Table I to Protocol A – EFTA</td></tr>
+<tr><td></td><td>Table II to Protocol A – Macedonia</td></tr>
 <tr><td>**Protocol B**</td><td>Referred to in paragraph 1 of Article 3 – Concerning the definition of the concept of «originating products» and methods of administrative co-operation</td></tr>
 <tr><td></td><td>Annex I – Introductory notes</td></tr>
 <tr><td></td><td>Annex II – List of working or processing required to be carried out on non-originating materials in order that the product manufactured can obtain originating status</td></tr>
-<tr><td></td><td>Annex III – Specimens of movement certificate EUR.1 and application for a movement certificate EUR.1</td></tr>
-<tr><td></td><td>Annex IV – Text of the invoice declaration</td></tr>
-<tr><td></td><td>Annex V – Continuation of the implementation of the harmonized preferential rules of origin</td></tr>
+<tr><td></td><td>Annex III A – Movement Certificate EUR.1</td></tr>
+<tr><td></td><td>Annex III B – Movement Certificate EUR-MED</td></tr>
+<tr><td></td><td>Annex IV A – Invoice Declaration</td></tr>
+<tr><td></td><td>Annex IV B – Invoice Declaration EUR-MED</td></tr>
+<tr><td></td><td>Annex V – List of Countries</td></tr>
 <tr><td></td><td>Joint Declaration</td></tr>
 <tr><td>**Protocol C**</td><td>Referred to in Article 10 – State monopolies</td></tr>
 <tr><td>**Protocol D**</td><td>Referred to in Article 35 – Territorial application</td></tr>
 <tr><td></td><td>**Joint Committee Decisions**</td></tr>
+<tr><td>No 1-21</td><td>Amending Protocol B</td></tr>
 <tr><td>No 4-08</td><td>Amendments to Protocol B</td></tr>
 <tr><td>No 3-08</td><td>Annex I</td></tr>
 <tr><td>No 2-08</td><td>Protocol A – Referred to in Sub-paragraph (b) of Article 2 – Processed agricultural products</td></tr>
@@ -546,16 +548,14 @@ Geschehen zu Zürich, am 19. Juni 2000, in einer einzigen Ausfertigung in englis
 <tr><td>No 1-03</td><td>Rules of procedure for the Joint Committee</td></tr>
 </table>
 
-## Geltungsbereich am 19. August 2003
+Geltungsbereich am 19. August 2003
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td colspan="2">Island</td><td>3. Mai</td><td>2002</td><td>1. August</td><td>2002</td></tr>
-<tr><td colspan="2">Liechtenstein<sup>a</sup></td><td>21. August</td><td>2001</td><td>1. Mai</td><td>2002</td></tr>
-<tr><td colspan="2">Mazedonien<sup>a</sup></td><td>14. Februar</td><td>2002</td><td>1. Mai</td><td>2002</td></tr>
-<tr><td colspan="2">Norwegen<sup>a</sup></td><td>15. Juni</td><td>2001</td><td>1. Mai</td><td>2002</td></tr>
-<tr><td colspan="2">Schweiz<sup>a</sup></td><td>7. Juni</td><td>2001</td><td>1. Mai</td><td>2002</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">In Kraft getreten am 1. Mai 2002 zwischen Liechtenstein, Mazedonien, Norwegen und der Schweiz.</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Island</td><td>3. Mai</td><td>2002</td><td>1. August</td><td>2002</td></tr>
+<tr><td>Liechtenstein <sup>a</sup></td><td>21. August</td><td>2001</td><td>1. Mai</td><td>2002</td></tr>
+<tr><td>Mazedonien <sup>a</sup></td><td>14. Februar</td><td>2002</td><td>1. Mai</td><td>2002</td></tr>
+<tr><td>Norwegen <sup>a</sup></td><td>15. Juni</td><td>2001</td><td>1. Mai</td><td>2002</td></tr>
+<tr><td>Schweiz <sup>a</sup></td><td>7. Juni</td><td>2001</td><td>1. Mai</td><td>2002</td></tr>
+<tr><td colspan="5"><sup>a</sup> In Kraft getreten am 1. Mai 2002 zwischen Liechtenstein, Mazedonien, Norwegen und der Schweiz.</td></tr>
 </table>
-
-- [tab]
