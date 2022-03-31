@@ -4,13 +4,13 @@ number: "172.310"
 title: Personalverordnung
 short: PeV
 language: de
-version: 2021-07-01
-valid_until: 2022-03-31
-version_adopted: 2021-02-08
+version: 2022-04-01
+valid_until: 2025-12-31
+version_adopted: 2022-02-07
 adopted: 1998-11-30
 in_force: 1999-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/172.310"
-pdf: "https://ai.clex.ch/api/de/versions/2018/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2025/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2018/pdf_file"
 
 (PeV)
 
-vom 30.11.1998 (Stand 01.07.2021)
+vom 30.11.1998 (Stand 01.04.2022)
 
 Der Grosse Rat des Kantons Appenzell I.Rh.,
 
@@ -59,11 +59,19 @@ beschliesst:
 
 <sup>3</sup> …
 
+<sup>4</sup> Unter den Begriff des Departements gemäss dieser Verordnung und den darauf beruhenden Ausführungserlassen fällt auch die vom Ratschreiber geleitete Ratskanzlei.
+
 #### Art. 4
 
 **Personalamt**
 
-<sup>1</sup> Das Personalamt ist gegenüber der Standeskommission, den Departementen und den Mitarbeitenden die Dienstleistungsstelle in sämtlichen Personalangelegenheiten.
+<sup>1</sup> Das Personalamt ist die Fachstelle für Personalfragen der kantonalen Verwaltung.
+
+<sup>2</sup> Es unterstützt die Standeskommission in Fragen der Personalpolitik und der Personalentwicklung.
+
+<sup>3</sup> Es unterstützt die Departemente, vorgesetzten Personen und Mitarbeitenden in ihren Personalbelangen.
+
+<sup>4</sup> Die Standeskommission legt die Aufgaben und Zuständigkeiten des Personalamts fest.
 
 #### Art. 5
 
@@ -99,7 +107,7 @@ beschliesst:
 
 **Vertrauensärztliche Untersuchung**
 
-<sup>1</sup> Die Mitarbeitenden können in begründeten Fällen verpflichtet werden, sich einer vertrauensärztlichen Untersuchung zu unterziehen.
+<sup>1</sup> Die Mitarbeitenden können vom für die Anstellung zuständigen Organ in begründeten Fällen verpflichtet werden, sich einer ärztlichen Untersuchung zu unterziehen.
 
 ## II. Die Anstellung
 
@@ -107,21 +115,21 @@ beschliesst:
 
 **Ausschreibung**
 
-<sup>1</sup> Zu besetzende Stellen sind öffentlich auszuschreiben. In begründeten Ausnahmefällen, insbesondere bei internen Umbesetzungen, kann die Standeskommission davon absehen.
+<sup>1</sup> Zu besetzende Stellen sind öffentlich auszuschreiben. In begründeten Ausnahmefällen, insbesondere bei internen Umbesetzungen, kann das für die Anstellung zuständige Organ davon absehen.
 
 #### Art. 9
 
 **Wohnsitznahme**
 
-<sup>1</sup> Die Standeskommission kann, wenn die Tätigkeit es erfordert, die Mitarbeitenden zur Wohnsitznahme im Kanton verpflichten.
+<sup>1</sup> Das für die Anstellung zuständige Organ kann, wenn die Tätigkeit es erfordert, die Mitarbeitenden zur Wohnsitznahme im Kanton verpflichten.
 
-<sup>2</sup> Sie kann die Wohnsitzpflicht vertraglich vereinbaren.
+<sup>2</sup> Es kann die Wohnsitzpflicht vertraglich vereinbaren.
 
 #### Art. 9a
 
 **Gesundheitsprüfung**
 
-<sup>1</sup> Die Standeskommission kann, wenn es die Tätigkeit erfordert, vor der Anstellung eine Gesundheitsprüfung durch einen Vertrauensarzt verlangen.
+<sup>1</sup> Das für die Anstellung zuständige Organ kann, wenn es die Tätigkeit erfordert, vor der Anstellung eine Gesundheitsprüfung durch einen Vertrauensarzt verlangen.
 
 #### Art. 10
 
@@ -141,7 +149,7 @@ beschliesst:
 
 **Ferien**
 
-<sup>1</sup> Den Mitarbeitenden stehen in jedem Kalenderjahr 25 bezahlte Ferientage, jenen ab dem vollendeten 50. Altersjahr 30 Ferientage zur Verfügung.
+<sup>1</sup> Den Mitarbeitenden stehen in jedem Kalenderjahr 25 bezahlte Ferientage zur Verfügung und ab dem Jahr, in dem das 50. Altersjahr vollendet wird, 30 Ferientage.
 
 <sup>2</sup> Für ein unvollendetes Kalenderjahr sind Ferien entsprechend der Dauer des Anstellungsverhältnisses im betreffenden Jahr zu gewähren.
 
@@ -169,7 +177,7 @@ beschliesst:
 
 **Unbezahlter Urlaub**
 
-<sup>1</sup> Zuständig für die Gewährung und Regelung von unbezahltem Urlaub ist die Standeskommission.
+<sup>1</sup> Zuständig für die Regelung von unbezahltem Urlaub ist die Standeskommission.
 
 <sup>2</sup> Es besteht kein Anspruch auf unbezahlten Urlaub.
 
@@ -229,7 +237,7 @@ beschliesst:
 
 **Änderung des Aufgabenkreises**
 
-<sup>1</sup> Im Bedarfsfall kann den Mitarbeitenden auch eine andere ihrer Ausbildung und Eignung entsprechende Tätigkeit zugewiesen werden, welche nicht zum Aufgabenbereich der Stelle gehört, für die sie angestellt wurden.
+<sup>1</sup> Im Bedarfsfall kann das für die Anstellung zuständige Organ den Mitarbeitenden eine andere ihrer Ausbildung und Eignung entsprechende Tätigkeit zuweisen, welche nicht zum Aufgabenbereich der Stelle gehört, für die sie angestellt wurden.
 
 #### Art. 23
 
@@ -237,7 +245,7 @@ beschliesst:
 
 <sup>1</sup> Die Ausübung von Nebenbeschäftigungen oder die Übernahme öffentlicher Ämter ist zulässig, wenn sie die dienstliche Aufgabenerfüllung nicht beeinträchtigt, mit dem Anstellungsverhältnis vereinbar ist und keine Interessenkollisionen zur Folge hat.
 
-<sup>2</sup> Eine Nebenbeschäftigung oder die Ausübung eines öffentlichen Amtes kann eingeschränkt oder untersagt werden, wenn die Anstellung beim Kanton deswegen beeinträchtigt wird.
+<sup>2</sup> Eine Nebenbeschäftigung oder die Ausübung eines öffentlichen Amts kann vom für die Anstellung zuständigen Organ eingeschränkt oder untersagt werden, wenn die Anstellung beim Kanton deswegen beeinträchtigt wird.
 
 <sup>3</sup> Bevor ein öffentliches Amt übernommen oder eine Nebenbeschäftigung aufgenommen wird, ist der Departementsvorsteher zu informieren.
 
@@ -247,7 +255,7 @@ beschliesst:
 
 **Bewilligung**
 
-<sup>1</sup> Wird für eine Nebenbeschäftigung oder ein öffentliches Amt Arbeitszeit beansprucht, ist eine Bewilligung der Standeskommission erforderlich. Die Bewilligung kann mit Bedingungen und Auflagen verbunden werden.
+<sup>1</sup> Wird für eine Nebenbeschäftigung oder ein öffentliches Amt Arbeitszeit beansprucht, ist eine Bewilligung des für die Anstellung zuständigen Organs erforderlich. Die Bewilligung kann mit Bedingungen und Auflagen verbunden werden.
 
 <sup>2</sup> Ämter mit Amtszwang unterstehen nicht der Bewilligungspflicht. Beeinträchtigt aber die Amtsausübung die Anstellung beim Kanton, kann letztere ebenfalls unter Bedingungen gestellt, mit Auflagen verbunden, angepasst oder aufgehoben werden.
 
@@ -339,9 +347,9 @@ beschliesst:
 
 **Mutterschaftsurlaub**
 
-<sup>1</sup> Mitarbeiterinnen haben einen bezahlten Mutterschaftsurlaub von 14 Wochen.
+<sup>1</sup> Mitarbeiterinnen haben ab dem Tag der Niederkunft einen bezahlten Mutterschaftsurlaub von 14 Wochen.
 
-<sup>2</sup> Der Urlaub beginnt mit dem Tag der Niederkunft. Bei längerem Spitalaufenthalt des neu geborenen Kindes kann die Mutter beantragen, dass der Urlaub erst mit der Heimkehr des Kindes beginnt.
+<sup>2</sup> Bei einer Hospitalisierung des Neugeborenen verlängert sich der Mutterschaftsurlaub um die Zeit, während welcher die Mutterschaftsversicherung zusätzliche Entschädigungen ausrichtet.
 
 <sup>3</sup> Nach fünf Dienstjahren hat die Mutter Anspruch auf Verlängerung des Mutterschaftsurlaubes um drei Monate unbezahlten Urlaub, sofern die betrieblichen Verhältnisse dies zulassen und das Anstellungsverhältnis danach fortgesetzt wird.
 
@@ -399,7 +407,7 @@ beschliesst:
 
 **Berufliche Vorsorge**
 
-<sup>1</sup> Die berufliche Vorsorge richtet sich nach den Bestimmungen über die kantonale Versicherungskasse.
+<sup>1</sup> Die berufliche Vorsorge richtet sich nach den Bestimmungen über die Kantonale Versicherungskasse.
 
 ## VII. Die Beendigung
 
@@ -416,17 +424,29 @@ beschliesst:
 - 5\. Erreichen des Rücktrittsalters
 - 6\. Tod
 
+<sup>2</sup> Für die Kündigung durch den Arbeitgeber und den Abschluss von Aufhebungsvereinbarungen ist die Standeskommission zuständig. Sie kann im Falle von Aushilfen, Praktikanten und ähnlichen Funktionen eine andere Zuständigkeit festlegen.
+
 #### Art. 37
 
-**Pensionierung**
+**Beendigung im Pensionsalter**
 
-<sup>1</sup> Das Anstellungsverhältnis gilt mit Ablauf des Monats, in dem das AHV-Rentenalter erreicht wird, als aufgelöst. In Ausnahmefällen kann die Standeskommission das Anstellungsverhältnis verlängern.
+<sup>1</sup> Das Anstellungsverhältnis gilt mit Ablauf des Monats, in dem das AHV-Rentenalter erreicht wird, als beendet.
 
-<sup>2</sup> Unter Wahrung der Kündigungsfrist und der Formalien für eine Kündigung kann ab dem vollendeten 60. Altersjahr eine vorzeitige Pensionierung vorgenommen werden; die Meldung wirkt wie eine Kündigung. Die Standeskommission kann bei einer vorzeitigen Pensionierung eine Einlage in die Versicherungskasse leisten.
+<sup>2</sup> Mitarbeiterinnen können bis spätestens ein Jahr vor Erreichen des Rentenalters mit schriftlicher Erklärung gegenüber dem Personalamt eine Verlängerung der Anstellung bis längstens zum Ende des Monats, in welchem sie das 65. Altersjahr beenden, bewirken.
+
+<sup>3</sup> Die Standeskommission kann Mitarbeitenden auf Antrag eine Verlängerung des Anstellungsverhältnisses über das 65. Altersjahr hinaus bewilligen.
+
+<sup>4</sup> Die Rentenleistungen bei einer Pensionierung werden durch die Kantonale Versicherungskasse geregelt.
+
+#### Art. 37a
+
+**Vorzeitige Pensionierung**
+
+<sup>1</sup> Unter Wahrung der Kündigungsfrist und der Formalien für eine Kündigung kann ab dem vollendeten 60. Altersjahr eine vorzeitige Pensionierung vorgenommen werden; die Meldung wirkt wie eine Kündigung.
+
+<sup>2</sup> Die Standeskommission kann bei einer vorzeitigen Pensionierung eine Einlage in die Versicherungskasse leisten.
 
 <sup>3</sup> Sie kann ab dem vollendeten 60. Altersjahr eine Teilpensionierung mit einem gestaffelt abnehmenden Anstellungsumfang bewilligen.
-
-<sup>4</sup> Die Rentenleistungen werden durch die Kantonale Versicherungskasse geregelt.
 
 #### Art. 38
 
@@ -462,9 +482,11 @@ beschliesst:
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Für Mitarbeiterinnen, welche zum Zeitpunkt des Inkrafttretens dieser Verordnung den bezahlten Mutterschaftsurlaub beziehen, gilt das neue Recht.
+<sup>1</sup> …
 
-<sup>2</sup> Die Bewilligungen zur Ausübung einer Nebenbeschäftigung oder eines öffentlichen Amtes behalten grundsätzlich ihre Gültigkeit. Die Standeskommission kann die Voraussetzungen zur Ausübung einer Nebenbeschäftigung oder eines öffentlichen Amtes überprüfen. Sie kann die Bewilligung einschränken oder widerrufen, wenn die Voraussetzungen nach geltendem Recht nicht mehr erfüllt sind.
+<sup>2</sup> …
+
+<sup>3</sup> Mitarbeiterinnen, die am 1. April 2022 im 64. Altersjahr stehen, können bei der Standeskommission ein Gesuch um Verlängerung des Arbeitsverhältnisses bis längstens zum Ende des Monats, in welchem sie das 65. Altersjahr beenden, stellen. Dieses wird bewilligt, wenn sich die Verlängerung betrieblich einrichten lässt.
 
 #### Art. 41
 
