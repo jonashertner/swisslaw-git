@@ -4,13 +4,13 @@ number: 575a
 title: Verordnung zum Gesetz über Ausbildungsbeiträge
 short: Stipendienverordnung
 language: de
-version: 2020-01-01
-valid_until: 2022-03-31
-version_adopted: 2019-11-12
+version: 2022-04-01
+valid_until: 2025-05-31
+version_adopted: 2022-03-08
 adopted: 2014-05-20
 in_force: 2014-05-19
 url: "https://srl.lu.ch/app/de/texts_of_law/575a"
-pdf: "https://srl.lu.ch/api/de/versions/3516/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3899/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3516/pdf_file"
 
 (Stipendienverordnung)
 
-vom 20.05.2014 (Stand 01.01.2020)
+vom 20.05.2014 (Stand 01.04.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -201,9 +201,9 @@ beschliesst:
 
 <sup>1</sup> Vom Differenzbetrag zwischen den finanziellen Mitteln und den anerkannten Ausgaben werden zur Berechnung der zumutbaren Elternleistung ein pauschaler und ein prozentualer Freibetrag abgezogen.
 
-<sup>2</sup> Der pauschale Freibetrag besteht aus einem Grundbetrag von 14 500 Franken und einem Zuschlag von 2000 Franken für jedes unterhaltsberechtigte Kind. Werden für die Eltern zwei Familienbudgets erstellt, wird der pauschale Freibetrag je hälftig angerechnet.
+<sup>2</sup> Der pauschale Freibetrag besteht aus einem Grundbetrag von 24 000 Franken und einem Zuschlag von 4000 Franken für jedes unterhaltsberechtigte Kind. Werden für die Eltern zwei Familienbudgets erstellt, wird der pauschale Freibetrag je hälftig angerechnet.
 
-<sup>3</sup> Nach Abzug des pauschalen Freibetrags wird der absolute Betrag des Restbetrags um 35 Prozent reduziert.
+<sup>3</sup> Nach Abzug des pauschalen Freibetrags wird der absolute Betrag des Restbetrags um 45 Prozent reduziert.
 
 #### § 18
 
@@ -402,11 +402,12 @@ beschliesst:
 
 <sup>1</sup>
 
-- a. 1 Person — Fr. 11 832.– pro Jahr
-- b. 2 Personen — Fr. 18 108.– pro Jahr
-- c. 3 Personen — Fr. 22 008.– pro Jahr
-- d. 4 Personen — Fr. 25 320.– pro Jahr
-- e. jede weitere Person — + Fr. 3 312.– pro Jahr
+- a. 1 Person — Fr. 12 072.– pro Jahr
+- b. 2 Personen — Fr. 18 468.– pro Jahr
+- c. 3 Personen — Fr. 22 452.– pro Jahr
+- d. 4 Personen — Fr. 25 836.– pro Jahr
+- d<sup>bis</sup>. 5 Personen — Fr. 29 220.– pro Jahr
+- e. jede weitere Person — + Fr. 2 448.– pro Jahr
 
 #### § A1-2
 
@@ -416,20 +417,20 @@ beschliesst:
 
 - a. 1 Person — Fr. 15 000.– pro Jahr
 - b. 2 Personen — Fr. 19 800.– pro Jahr
-- c. 3 Personen — Fr. 21 000.– pro Jahr
+- c. 3 Personen — Fr. 20 400.– pro Jahr
 - d. jede weitere Person — + Fr. 600.– pro Jahr
 
 <sup>2</sup> Region 2:
 
-- a. 1 Person — Fr. 15 600.– pro Jahr
+- a. 1 Person — Fr. 15 000.– pro Jahr
 - b. 2 Personen — Fr. 21 000.– pro Jahr
-- c. 3 Personen — Fr. 22 200.– pro Jahr
+- c. 3 Personen — Fr. 22 800.– pro Jahr
 - d. jede weitere Person — + Fr. 600.– pro Jahr
 
 <sup>3</sup> Region 3:
 
 - a. 1 Person — Fr. 13 800.– pro Jahr
-- b. 2 Personen — Fr. 19 200.– pro Jahr
+- b. 2 Personen — Fr. 18 600.– pro Jahr
 - c. 3 Personen — Fr. 20 400.– pro Jahr
 - d. jede weitere Person — + Fr. 600.– pro Jahr
 
@@ -474,8 +475,8 @@ beschliesst:
 
 <sup>1</sup>
 
-- a. Grundbedarf — Fr. 9060.– pro Jahr
-- b. Wohnkosten — Fr. 7800.– pro Jahr
+- a. Grundbedarf — Fr. 9240.– pro Jahr
+- b. Wohnkosten — Fr. 8400.– pro Jahr
 
 <sup>2</sup> Gesundheitskosten: Aktuelle Richtprämie des Kantons Luzern nach Altersgruppe und Prämienregion. Bei ausserkantonalem Wohnsitz gelten die Richtprämien der Prämienregion 2 des Kantons Luzern.
 
