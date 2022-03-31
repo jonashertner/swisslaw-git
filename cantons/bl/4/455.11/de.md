@@ -3,20 +3,19 @@ canton: BL
 number: "455.11"
 title: Verordnung über die Wasserversorgung sowie die Nutzung und den Schutz des Grundwassers
 language: de
-version: 2016-01-01
-valid_until: 2022-03-31
-version_adopted: 2015-12-15
+version: 2022-04-01
+version_adopted: 2022-02-15
 adopted: 1998-01-13
 in_force: 1998-02-01
 url: "https://bl.clex.ch/app/de/texts_of_law/455.11"
-pdf: "https://bl.clex.ch/api/de/versions/2847/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3258/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Wasserversorgung sowie die Nutzung und den Schutz des Grundwassers
 
-Vom 13.01.1998 (Stand 01.01.2016)
+Vom 13.01.1998 (Stand 01.04.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -85,6 +84,14 @@ beschliesst:
 
 <sup>3</sup> Die Gemeinden ermöglichen die Verwendung von Meteorwasser, soweit auf Trinkwasserqualität verzichtet werden kann.
 
+#### § 6a
+
+**Wasserversorgung in Mangellagen**
+
+<sup>1</sup> Die Gemeinden oder die für die Gemeinden zuständigen öffentlichen oder privaten Wasserversorgungen planen die Massnahmen gemäss der Bundesverordnung vom 19. August 2020 über die Sicherstellung der Trinkwasserversorgung in schweren Mangellagen (VTM)[^6a-1] und treffen die notwendigen baulichen, betrieblichen und organisatorischen Massnahmen.
+
+[^6a-1]: [SR 531.32](https://db.clex.ch/link/Bund/531.32/de)
+
 ## 2 Wasserversorgung
 
 ### 2.1 Aufgaben des Kantons
@@ -152,7 +159,7 @@ beschliesst:
 
 <sup>2</sup> Die Gemeinden errichten und betreiben die für die Wasserversorgung erforderlichen Bauten und Anlagen nach dem Stand der Technik und sorgen dafür, dass die Grundeigentümer und Grundeigentümerinnen ihrerseits dem Stand der Technik entsprechende Anlagen, Ausrüstungen und Messeinrichtungen installieren.
 
-<sup>3</sup> Die Gemeinden planen die Massnahmen gemäss der Verordnung des Bundesrates vom 20. November 1991 über die Sicherstellung der Trinkwasserversorgung in Notlagen und treffen die notwendigen baulichen, betrieblichen und organisatorischen Massnahmen.
+<sup>3</sup> …
 
 #### § 12
 
