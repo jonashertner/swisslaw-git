@@ -4,11 +4,11 @@ title: "Verordnung vom 27. Oktober 1976 über die Zulassung von Personen und Fah
 short: VZV
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: de
-version: 2022-01-01
+version: 2022-04-01
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20220401/de/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20220401-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20220101/de"
 
 (Verkehrszulassungsverordnung,**[^t-1]** VZV)
 
-vom 27. Oktober 1976 (Stand am 1. Januar 2022)
+vom 27. Oktober 1976 (Stand am 1. April 2022)
 
 [^t-1]: Eingefügt durch Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -196,19 +196,28 @@ Im Übrigen berechtigt im Binnenverkehr der Führerausweis:[^4-4]
 - c. der Unterkategorie C1: zum Führen von leeren Fahrzeugen der Unterkategorie D1;
 - d. der Kategorien B und C sowie der Unterkategorie C1: zum Mitführen von land- und forstwirtschaftlichen Anhängern oder Anhängern der Feuerwehr, der Polizei und des Zivilschutzes;
 - e. der Spezialkategorien F, G und M: zum Mitführen von Anhängern an Fahrzeugen dieser Spezialkategorien;
-- f.[^4-6] der Kategorie B: zum Führen von leichten Motorwagen der Unterkategorie D1 für die Behebung von Pannen und zum Abschleppen, zum Überführen und Erproben von Fahrzeugen im Zusammenhang mit dem Fahrzeughandel, mit Reparaturen oder Umbauten am Fahrzeug, zum Erproben von neuen Fahrzeugen durch Hersteller und Importeure, zum Begutachten von Fahrzeugen durch Sachverständige sowie für die amtliche Fahrzeugprüfung und Fahrten zu dieser Prüfung;
-- g.[^4-7] der Kategorien B und F: zum Führen von Elektro-Rikschas.
+- f.[^4-6]
 
-<sup>6</sup> Soweit Absatz 5 das Führen von leeren Fahrzeugen anderer Kategorien, Unterkategorien und Trolleybussen erlaubt, dürfen Personen mitgeführt werden, die für die Feststellung von Mängeln, die Überprüfung von Reparaturen sowie die Durchführung von amtlichen Fahrzeugprüfungen erforderlich sind.[^4-8]
+  der Kategorie B:
+
+  - 1\. zum Führen von leichten Motorwagen der Unterkategorie D1 für die Behebung von Pannen und zum Abschleppen, zum Überführen und Erproben von Fahrzeugen im Zusammenhang mit dem Fahrzeughandel, mit Reparaturen oder Umbauten am Fahrzeug, zum Erproben von neuen Fahrzeugen durch Hersteller und Importeure, zum Begutachten von Fahrzeugen durch Sachverständige sowie für die amtliche Fahrzeugprüfung und Fahrten zu dieser Prüfung,
+  - 2\. zum Führen von schweren Motorwagen mit einem Gesamtgewicht von mehr als 3500 kg, aber höchstens 4250 kg, und mit nicht mehr als acht Sitzplätzen ausser dem Führersitz, sofern sie über einen emissionsfreien Antrieb (Art. 9*a* Abs. 2 VTS[^4-7]) verfügen und das 3500 kg überschreitende Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird; es darf ein Anhänger mit einem Gesamtgewicht von nicht mehr als 750 kg mitgeführt werden;
+
+- g.[^4-8] der Kategorien B und F: zum Führen von Elektro-Rikschas;
+- h.[^4-9] der Kategorie BE: zum Mitführen eines Anhängers mit einem Gesamtgewicht von mehr als 750 kg an schweren Motorwagen mit einem Gesamtgewicht von mehr als 3500 kg, aber höchstens 4250 kg, und mit nicht mehr als acht Sitzplätzen ausser dem Führersitz, sofern das Zugfahrzeug über einen emissionsfreien Antrieb (Art. 9*a* Abs. 2 VTS) verfügt und das 3500 kg überschreitende Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird.
+
+<sup>6</sup> Soweit Absatz 5 das Führen von leeren Fahrzeugen anderer Kategorien, Unterkategorien und Trolleybussen erlaubt, dürfen Personen mitgeführt werden, die für die Feststellung von Mängeln, die Überprüfung von Reparaturen sowie die Durchführung von amtlichen Fahrzeugprüfungen erforderlich sind.[^4-10]
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 26. Sept. 2003, in Kraft seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^4-2]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 [^4-3]: Fassung gemäss Anhang 4 Ziff. II 8 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^4-4]: Fassung gemäss Ziff. I der V vom 15. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
 [^4-5]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4941](https://fedlex.data.admin.ch/eli/oc/2011/715)).
-[^4-6]: Eingefügt durch Ziff. I der V vom 26. Sept. 2003, in Kraft seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
-[^4-7]: Eingefügt durch Ziff. I der V vom 15. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
-[^4-8]: Eingefügt durch Ziff. I der V vom 26. Sept. 2003, in Kraft seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
+[^4-6]: Eingefügt durch Ziff. I der V vom 26. Sept. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 15](https://fedlex.data.admin.ch/eli/oc/2022/15)).
+[^4-7]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^4-8]: Eingefügt durch Ziff. I der V vom 15. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
+[^4-9]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 15](https://fedlex.data.admin.ch/eli/oc/2022/15)).
+[^4-10]: Eingefügt durch Ziff. I der V vom 26. Sept. 2003, in Kraft seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 
 #### Art. 5
 
@@ -443,7 +452,7 @@ Das Mindestalter zum Führen von Motorfahrzeugen beträgt für:
   - 1\. Kleinmotorräder: 15 Jahre,
   - 2\. die übrigen Fahrzeuge: 16 Jahre;
 
-- c<sup>bi</sup><sup>s</sup>.[^6-3] die Kategorien B und BE: 17 Jahre;
+- c<sup>bis</sup>.[^6-3] die Kategorien B und BE: 17 Jahre;
 - d.[^6-4] die Kategorien A, C und CE sowie die Unterkategorien B1, C1 und C1E: 18 Jahre;
 - e. die Kategorien D und DE sowie die Unterkategorien D1 und D1E: 21 Jahre;
 - f.[^6-5] Motorfahrzeuge, für die ein Führerausweis nicht erforderlich ist: 16 Jahre.
@@ -509,9 +518,9 @@ Vom Erfordernis der Fahrpraxis nach Absatz 1 ist befreit, wer sich über den erf
 
 <sup>2bis</sup> In der Mindestausbildung soll der Fahrschüler lernen, das Fahrzeug richtig zu bedienen und sich die entsprechenden Automatismen aneignen. Er soll zudem zu einer partnerschaftlichen Fahrweise befähigt und in die Lage versetzt werden, das Fahrzeug selbstständig und ohne Gefährdung der übrigen Verkehrsteilnehmer zu führen. Die Mindestausbildung ist bei einem Fahrlehrer zu absolvieren, der berechtigt ist, Fahrunterricht mit einem Motorfahrzeug oder einer Fahrzeugkombination der Kategorien C, D, CE und DE sowie der Unterkategorien C1, D1, C1E und D1E zu erteilen und den Führerausweis der Kategorie D besitzt.[^8-3]
 
-<sup>2ter</sup>
+<sup>2te</sup>
 
-Die Mindestausbildung umfasst für Bewerber, die:
+<sup>r</sup> Die Mindestausbildung umfasst für Bewerber, die:
 
 - a. den Führerausweis der Kategorie B oder der Unterkategorie C1 oder D1 besitzen: 52 Fahrlektionen à mindestens 45 Minuten;
 - b. den Führerausweis der Kategorie C besitzen: 24 Fahrlektionen à mindestens 45 Minuten;
@@ -863,7 +872,7 @@ Das ASTRA erlässt Weisungen über die Gestaltung und den Inhalt des Kurses übe
 
 <sup>4</sup> …[^21-2]
 
-[^21-1]: Aufgehoben durch Ziff. I der V vom 26. Sept. 2003, mit Wirkung seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
+[^21-1]: Aufgehoben durch Ziff. I der V vom 26. Sept. 2003, mit Wirkung seit 1. Nov. 2003 (AS **20****0****3** 3719).
 [^21-2]: Aufgehoben durch Ziff. I der V vom 14. Dez. 2018, mit Wirkung seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 
 ### 128 Praktische Führerprüfung
@@ -991,15 +1000,16 @@ Für Auflagen, Beschränkungen und andere Zusatzangaben, die im Führerausweis e
 
 #### Art. 24g
 
-**Mitführen von Ausweisen in besonderen Fällen**[^24g-1]
+**Pflicht zum Mitführen von Ausweisen in besonderen Fällen[^24g-2]**[^24g-1]
 
-<sup>1</sup> Führer von land- und forstwirtschaftlichen Motorfahrzeugen müssen auf Fahrten zwischen dem Betrieb und dem bewirtschafteten Einsatzgebiet den Führerausweis oder die Bestätigung der Anmeldung zu einem anerkannten Traktorfahrkurs nicht mit sich führen.[^24g-2]
+<sup>1</sup> Führer von land- und forstwirtschaftlichen Motorfahrzeugen müssen auf Fahrten zwischen dem Betrieb und dem bewirtschafteten Einsatzgebiet den Führerausweis oder die Bestätigung der Anmeldung zu einem anerkannten Traktorfahrkurs nicht mit sich führen.[^24g-3]
 
-<sup>2</sup> …[^24g-3]
+<sup>2</sup> …[^24g-4]
 
 [^24g-1]: Ursprünglich Art. 24*d*
-[^24g-2]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
-[^24g-3]: Aufgehoben durch Ziff. I der V vom 29. Nov. 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
+[^24g-2]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 15](https://fedlex.data.admin.ch/eli/oc/2022/15)).
+[^24g-3]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
+[^24g-4]: Aufgehoben durch Ziff. I der V vom 29. Nov. 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
 
 #### Art. 24h
 
@@ -1053,7 +1063,7 @@ Die Bewilligung zum berufsmässigen Personentransport wird dem Inhaber eines Fü
 
 <sup>5</sup> Die Bewilligung ist nur zusammen mit dem Führerausweis gültig.
 
-[^25-1]: [SR 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^25-1]: SR **8****22.222**
 [^25-2]: Fassung gemäss Ziff. I der V vom 15. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
 [^25-3]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^25-4]: Fassung gemäss Ziff. I der V vom 26. Sept. 2003, in Kraft seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
@@ -1073,7 +1083,7 @@ Die Bewilligung zum berufsmässigen Personentransport wird dem Inhaber eines Fü
 
 <sup>2</sup> Verlegt der Ausweisinhaber den Wohnsitz, muss er seine neue Adresse der zuständigen Behörde am neuen Wohnsitz innert 14 Tagen mitteilen. Bei einer Wohnsitzverlegung in das Ausland muss er sich bei der bisherigen Behörde abmelden.
 
-[^26-1]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 (AS **20****02** 3259).
+[^26-1]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
 #### Art. 26a
 
@@ -1117,7 +1127,7 @@ Die kantonale Behörde kann:
 <sup>4</sup> Die kantonale Behörde kann im Einzelfall anordnen, dass der Umfang einer verkehrsmedizinischen Untersuchung auszudehnen oder einzuschränken ist; der Arzt ist in diesem Fall nicht an die Formulare nach den Anhängen 2 und 2*a* gebunden.
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^27-2]: Fassung gemäss Ziff. I der V vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 (AS **201****8** 2809).
+[^27-2]: Fassung gemäss Ziff. I der V vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 2809](https://fedlex.data.admin.ch/eli/oc/2018/426)).
 
 ### 12*b***** Weiterausbildung für Inhaber eines Führerausweises auf Probe
 
@@ -1399,7 +1409,7 @@ Wer nach der Annullierung des Führerausweises auf Probe Motorfahrzeuge führen 
 
 [^lvl1-lvl13-lvl132b-1]
 
-[^lvl1-lvl13-lvl132b-1]: Eingefügt durch Ziff. I der V vom 27. Okt. 2004, in Kraft seit 1. Dez. 2005 (AS **2****004** 5057).
+[^lvl1-lvl13-lvl132b-1]: Eingefügt durch Ziff. I der V vom 27. Okt. 2004, in Kraft seit 1. Dez. 2005 ([AS 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
 
 #### Art. 36
 
@@ -1576,13 +1586,13 @@ Personen, die Vorrechte, Immunitäten und Erleichterungen nach Artikel 2 Absatz 
 <sup>4</sup> Die Behörden ziehen bei der Erteilung eines schweizerischen Führerausweises Ausweise ein, die von EU- oder EFTA-Staaten ausgestellt worden sind, und senden sie an die Ausstellungsbehörde zurück. Sie vermerken in Ausweisen, die von andern Staaten ausgestellt worden sind, die Ungültigkeit für die Schweiz. Der Inhalt der ausländischen Ausweise wird registriert.
 
 [^44-1]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
-[^44-2]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 (AS **2****015** 2599).
+[^44-2]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 
 #### Art. 44a
 
 **Führerausweis auf Probe**[^44a-1]
 
-<sup>1</sup> Inhabern eines gültigen ausländischen Führerausweises, der zum Führen von Motorfahrzeugen der Kategorie A oder B berechtigt, wird ein schweizerischer Führerausweis auf Probe erteilt. Die Probezeit beginnt mit der Ausstellung des schweizerischen Führerausweises. Sie dauert drei Jahre, abzüglich der Zeitdauer zwischen dem Ausstelldatum des ausländischen Führerausweises und dem letzten regulären Umtauschtermin nach Artikel 42 Absatz 3<sup>b</sup><sup>is</sup> Buchstabe a. Sie bezieht sich auf alle bereits erworbenen Ausweiskategorien und auf die während der Probezeit erworbenen weiteren Kategorien und Unterkategorien.
+<sup>1</sup> Inhabern eines gültigen ausländischen Führerausweises, der zum Führen von Motorfahrzeugen der Kategorie A oder B berechtigt, wird ein schweizerischer Führerausweis auf Probe erteilt. Die Probezeit beginnt mit der Ausstellung des schweizerischen Führerausweises. Sie dauert drei Jahre, abzüglich der Zeitdauer zwischen dem Ausstelldatum des ausländischen Führerausweises und dem letzten regulären Umtauschtermin nach Artikel 42 Absatz 3<sup>bis</sup> Buchstabe a. Sie bezieht sich auf alle bereits erworbenen Ausweiskategorien und auf die während der Probezeit erworbenen weiteren Kategorien und Unterkategorien.
 
 <sup>2</sup>
 
@@ -1883,7 +1893,7 @@ Fahrzeugausweis und Kontrollschilder werden erteilt, wenn:
 [^71-6]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
 [^71-7]: Fassung gemäss Anhang Ziff. 5 der Automobilsteuerverordnung vom 20. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
 [^71-8]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^71-9]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 (AS **20****19** 321).
+[^71-9]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 [^71-10]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 [^71-11]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 
@@ -2554,9 +2564,9 @@ Wird bei einer Prüfung oder Kontrolle festgestellt, dass Fahrzeuge, die nach Ar
 
 <sup>4</sup> Ausländische Fahrzeuge müssen das Unterscheidungszeichen des Zulassungsstaates tragen.
 
-[^114-1]: [SR 0.741.11](https://fedlex.data.admin.ch/eli/cc/46/720_741_752)**.** Heute: auch nach dem Übereink. vom 8. Nov. 1968 über den Strassenverkehr ([SR 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)) und dem Europäischen Zusatzübereinkommen vom 1. Mai 1971 (SR **0****.****741.101**).
+[^114-1]: [SR 0.741.11](https://fedlex.data.admin.ch/eli/cc/46/720_741_752)**.** Heute: auch nach dem Übereink. vom 8. Nov. 1968 über den Strassenverkehr ([SR 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)) und dem Europäischen Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)).
 [^114-2]: Fassung gemäss Ziff. I der V vom 13. Nov. 1991, in Kraft seit 1. Jan. 1992 ([AS 1991 2536](https://fedlex.data.admin.ch/eli/oc/1991/2536_2536_2536)).
-[^114-3]: Fassung gemäss Anhang 1 Ziff. II 10 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 (AS **1****995** 4425).
+[^114-3]: Fassung gemäss Anhang 1 Ziff. II 10 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 
 #### Art. 115
 
@@ -2734,7 +2744,7 @@ Die Fahrzeugstatistik umfasst:
 
 [^128-1]
 
-[^128-1]: Aufgehoben durch Ziff. I der V vom 14. April 2010, mit Wirkung seit 1. Jan. 2011 (AS **201****0** 1651).
+[^128-1]: Aufgehoben durch Ziff. I der V vom 14. April 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1651](https://fedlex.data.admin.ch/eli/oc/2010/246)).
 
 #### Art. 129
 
@@ -2901,15 +2911,15 @@ Das ASTRA kann:[^150-7]
 [^150-1]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 [^150-2]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^150-3]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
-[^150-4]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 (AS **2****007** 5013).
+[^150-4]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5013](https://fedlex.data.admin.ch/eli/oc/2007/703)).
 [^150-5]: Fassung gemäss Anhang 1 Ziff. 3 der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
 [^150-6]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^150-7]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^150-8]: Aufgehoben durch Ziff. I der V vom 1. Juli 2015, mit Wirkung seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^150-9]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^150-9]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 (AS **2****015** 2599).
 [^150-10]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 [^150-11]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
-[^150-12]: Aufgehoben durch Ziff. I der V vom 28. Sept. 2007, mit Wirkung seit 1. Jan. 2008 (AS **2007**5013).
+[^150-12]: Aufgehoben durch Ziff. I der V vom 28. Sept. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5013](https://fedlex.data.admin.ch/eli/oc/2007/703)).
 [^150-13]: Eingefügt durch Anhang 1 Ziff. 3 der V vom 2. Sept. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^150-14]: Eingefügt durch Art. 59 Ziff. 3 der Schwerverkehrsabgabeverordnung vom 6. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 1170](https://fedlex.data.admin.ch/eli/oc/2000/192)).
 
@@ -3152,6 +3162,15 @@ Die kantonalen Behörden können verkehrsmedizinische Untersuchungen, die von ei
 
 [^151m-1]: Eingefügt durch Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 
+#### Art. 151n
+
+**Übergangsbestimmung zur Änderung vom 17. Dezember 2021**[^151n-1]
+
+Wer gestützt auf Artikel 151*d* Absätze 9 und 10 Fahrzeuge mit einem Gesamtgewicht von höchstens 3500 kg und mehr als 16 Sitzplätzen ausser dem Führersitz führen darf, ist berechtigt, Gesellschaftswagen mit einem Gesamtgewicht von mehr als 3500 kg, aber höchstens 4250 kg, zu führen, sofern sie über einen emissionsfreien Antrieb (Art. 9*a* Abs. 2 VTS[^151n-2]) verfügen und das 3500 kg überschreitende Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird.
+
+[^151n-1]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 15](https://fedlex.data.admin.ch/eli/oc/2022/15)).
+[^151n-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+
 #### Art. 152
 
 **Änderung bisherigen Rechts**
@@ -3264,9 +3283,9 @@ Anhang 1*[^t-2]*
 <tr><td>**2 Hörvermögen**</td><td></td><td></td><td>Hörweite für Konversationssprache beidseitig 3 m, bei einseitiger Taubheit 6 m. Keine schweren Erkrankungen des Innen- oder Mittelohres.</td></tr>
 <tr><td>**3 Alkohol, Betäubungsmittel und psychotrop wirksame Medikamente**</td><td>Keine Abhängigkeit. Kein verkehrsrelevanter Missbrauch.</td><td></td><td>Keine Abhängigkeit. Kein verkehrsrelevanter Missbrauch. Keine Substitutionstherapie.</td></tr>
 <tr><td>**4 Psychische Störungen**</td><td>Keine psychischen Störungen mit bedeutsamen Auswirkungen auf die realitätsgerechte Wahrnehmung, die Informationsverarbeitung und -bewertung, das Reaktionsvermögen und die situationsgerechte Verhaltenssteuerung. Keine Beeinträchtigung von verkehrsrelevanten Leistungsreserven. Keine manische oder erhebliche depressive Symptomatik. Keine erheblichen Persönlichkeitsstörungen, insbesondere keine ausgeprägten dissozialen Verhaltensstörungen. Keine erhebliche Intelligenzminderung.</td><td></td><td>Keine psychischen Störungen mit bedeutsamen Auswirkungen auf die realitätsgerechte Wahrnehmung, Informationsverarbeitung und -bewertung, das Reaktionsvermögen oder die situationsgerechte Verhaltenssteuerung. Keine Beeinträchtigung von Leistungsreserven. Keine manische oder erhebliche depressive Symptomatik. Keine erheblichen Persönlichkeitsstörungen, insbesondere keine ausgeprägten dissozialen Verhaltensstörungen. Keine erhebliche Intelligenzminderung. Keine rezidivierenden oder phasenhaft verlaufende erhebliche affektive oder schizophrene Störungen.</td></tr>
-<tr><td>**5 Organisch bedingte Hirnleistungsstörungen**</td><td>Keine Krankheiten oder organisch bedingte psychische Störungen mit bedeutsamer Beeinträchtigung von Bewusstsein, Orientierung, Gedächtnis, Denkvermögen, Reaktionsvermögen oder andere Hirnleistungsstörung. Keine manische oder erhebliche depressive Symptomatik. Keine verkehrsrelevanten Verhaltensstörungen. Keine Beeinträchtigung von verkehrsrelevanten Leistungsreserven.</td><td></td><td>Keine Krankheiten mit Beeinträchtigung der Hirnleistungsfähigkeit. Keine organisch bedingten psychischen Störungen.</td></tr>
+<tr><td>**5 Organi****s****ch bedingte Hirnleistungsstörungen**</td><td>Keine Krankheiten oder organisch bedingte psychische Störungen mit bedeutsamer Beeinträchtigung von Bewusstsein, Orientierung, Gedächtnis, Denkvermögen, Reaktionsvermögen oder andere Hirnleistungsstörung. Keine manische oder erhebliche depressive Symptomatik. Keine verkehrsrelevanten Verhaltensstörungen. Keine Beeinträchtigung von verkehrsrelevanten Leistungsreserven.</td><td></td><td>Keine Krankheiten mit Beeinträchtigung der Hirnleistungsfähigkeit. Keine organisch bedingten psychischen Störungen.</td></tr>
 <tr><td>**6 Neurologische Erkrankungen**</td><td>Keine Erkrankungen oder Folgen von Verletzungen oder Operationen des zentralen oder peripheren Nervensystems mit bedeutsamen Auswirkungen auf die Fähigkeit zum sicheren Führen eines Motorfahrzeugs. Keine Bewusstseinsstörungen oder -verluste. Keine Gleichgewichtsstörungen.</td><td></td><td>Keine Erkrankungen oder Folgen von Verletzungen oder Operationen des zentralen oder peripheren Nervensystems. Keine Bewusstseinsstörungen oder -verluste. Keine Gleichgewichtsstörungen.</td></tr>
-<tr><td>**7 Herz-Kreislauf****erkrankungen**</td><td>Keine Erkrankungen mit einem erhöhten Risiko des Auftretens von anfallartigen Schmerzzuständen, Anfällen von Unwohlsein, einer Verminderung der Hirndurchblutung mit Leistungseinschränkungen oder Bewusstseinsveränderungen oder anderen dauernd oder anfallartig auftretenden Beeinträchtigungen des Allgemeinbefindens. Keine erhebliche Blutdruckanomalie.</td><td></td><td>Keine Erkrankungen mit einem erhöhten Risiko des Auftretens von anfallartigen Schmerzzuständen, Anfällen von Unwohlsein, einer Verminderung der Hirndurchblutung mit Leistungseinschränkungen oder Bewusstseinsveränderungen oder anderen dauernd oder anfallartig auftretenden Beeinträchtigungen des Allgemeinbefindens. Keine bedeutsamen Rhythmusstörungen. Bei Herzerkrankung normaler Belastungstest. Keine Blutdruckanomalie, die durch eine Behandlung nicht normalisiert werden kann.</td></tr>
+<tr><td>**7 Her****z****-Kreislauf****erkrankungen**</td><td>Keine Erkrankungen mit einem erhöhten Risiko des Auftretens von anfallartigen Schmerzzuständen, Anfällen von Unwohlsein, einer Verminderung der Hirndurchblutung mit Leistungseinschränkungen oder Bewusstseinsveränderungen oder anderen dauernd oder anfallartig auftretenden Beeinträchtigungen des Allgemeinbefindens. Keine erhebliche Blutdruckanomalie.</td><td></td><td>Keine Erkrankungen mit einem erhöhten Risiko des Auftretens von anfallartigen Schmerzzuständen, Anfällen von Unwohlsein, einer Verminderung der Hirndurchblutung mit Leistungseinschränkungen oder Bewusstseinsveränderungen oder anderen dauernd oder anfallartig auftretenden Beeinträchtigungen des Allgemeinbefindens. Keine bedeutsamen Rhythmusstörungen. Bei Herzerkrankung normaler Belastungstest. Keine Blutdruckanomalie, die durch eine Behandlung nicht normalisiert werden kann.</td></tr>
 <tr><td>**8 Stoffwechselerkrankungen**</td><td>Bei Vorliegen einer Zuckerkrankheit (Diabetes mellitus) muss eine stabile Blutzuckereinstellung ohne verkehrsrelevante Unter- oder Überzuckerungen vorhanden sein. Keine anderen Stoffwechselerkrankungen mit bedeutsamen Auswirkungen auf die Fähigkeit zum sicheren Führen eines Motorfahrzeugs.</td><td></td><td>Bei Vorliegen einer Zuckerkrankheit (Diabetes mellitus), bei der als Therapie-Nebenwirkung eine Unterzuckerung auftreten oder bei der Allgemeinsymptome einer Überzuckerung vorkommen können, ist die Fahreignung für die Kategorie D oder die Unterkategorie D1 ausgeschlossen. Für die Kategorie C oder die Unterkategorie C1, für die Bewilligung zum berufsmässigen Personentransport sowie bei Verkehrsexperten kann die Fahreignung unter besonders günstigen Umständen gegeben sein. Keine anderen Stoffwechselerkrankungen mit Auswirkungen auf die Fähigkeit zum sicheren Führen eines Motorfahrzeugs oder mit einer Beeinträchtigung der verkehrsrelevanten Leistungsfähigkeit.</td></tr>
 <tr><td>**9 Krankheiten der Atem- und Bauchorgane**</td><td>Keine Erkrankungen mit erhöhter Tagesschläfrigkeit und keine anderen Erkrankungen oder Einschränkungen, die sich auf die Fähigkeit zum sicheren Führen eines Motorfahrzeugs auswirken.</td><td></td><td>Keine Erkrankungen mit erhöhter Tagesschläfrigkeit und keine anderen Erkrankungen oder Einschränkungen, die sich auf die Fähigkeit zum sicheren Führen eines Motorfahrzeugs auswirken oder die verkehrsrelevante Leistungsfähigkeit beeinträchtigen.</td></tr>
 <tr><td>**10 Krankheiten der Wirbel****säule und des Bewegungs****apparates**</td><td colspan="3">Keine Missbildungen, Erkrankungen, Lähmungen, Folgen von Verletzungen oder Operationen mit bedeutsamen Auswirkungen auf die Fähigkeit zum sicheren Führen eines Motorfahrzeugs, die nicht durch Einrichtungen genügend korrigiert werden können.</td></tr>
@@ -3282,7 +3301,7 @@ Anhang 1<sup>bis</sup> *[^t-3]*
 
 Ärztinnen und Ärzte, die verkehrsmedizinische Kontrolluntersuchungen von über 75-Jährigen (Art. 27 Abs. 1 Bst. b) durchführen, müssen über folgende Kenntnisse und Fähigkeiten verfügen:
 
-- a. Kenntnis und Verständnis der für die verkehrsmedizinischen Kontrolluntersuchungen relevanten rechtlichen Grundlagen (SVG, SKV[^annex2-lvlu1-1], VRV[^annex2-lvlu1-2], VZV, kant. Ausführungsbestimmungen);
+- a. Kenntnis und Verständnis der für die verkehrsmedizinischen Kontrolluntersuchungen relevanten rechtlichen Grundlagen (SVG, SKV[^annex1bis-lvlu1-1], VRV[^annex1bis-lvlu1-2], VZV, kant. Ausführungsbestimmungen);
 - b. Kenntnis der administrativen Abläufe zwischen der kantonalen Behörde und der untersuchenden Ärztin oder dem untersuchenden Arzt;
 - c. Kenntnis der Indikationen für verkehrsmedizinische Abklärungen, Zusatzuntersuchungen und ärztlich begleitete Kontrollfahrten sowie des diesbezüglichen Vorgehens;
 - d. Kenntnis des Untersuchungsgangs;
@@ -3292,8 +3311,8 @@ Anhang 1<sup>bis</sup> *[^t-3]*
 - h. Kenntnis der Auflagen, welche die kantonale Behörde verfügen kann;
 - i. Fähigkeit, die Informationen richtig den kantonalen Behörden zu übermitteln (Anhang 3 VZV).
 
-[^annex2-lvlu1-1]: [SR 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
-[^annex2-lvlu1-2]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^annex1bis-lvlu1-1]: [SR 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+[^annex1bis-lvlu1-2]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 
 Anhang 2*[^t-4]*
 
@@ -3324,7 +3343,7 @@ A. Anamnese
 
 B. Untersuchungsbefunde
 
-- 1 *Allgemeinzustand/Gesamteindruck:*
+- 1 *Allgemeinzu**s**tand/Gesamteindruck:*
 -
 
 - 2 *Sehvermögen*
@@ -3336,7 +3355,7 @@ B. Untersuchungsbefunde
 - Lichtreaktion:
 - Motilität:
 - Gesichtsfeld:
-- 3 *Hau**t*
+- 3 *Haut*
 - Einstichstellen:
 - auffälliges Nasenseptum:
 - Leber-Stigmata:
@@ -3375,7 +3394,7 @@ B. Untersuchungsbefunde
 - Lähmungen:
 - Unfallfolgen:
 - Funktions- und Bewegungseinschränkungen (insbes. Kopfdrehen):
-- 10 *andere Auffälligkeiten*
+- 10 *andere* *Auffälligkeiten*
 -
 
 Zusatzuntersuchungen (bei begründeter Indikation): Laborbefunde (z.B. Alkoholmarker, Drogenscreening), EKG, Kurztests zur Ermittlung von Hirnleistungsdefiziten (z.B. Trail-Making-Test A und B/Mini-Mental-Status-Test, Uhrentest):
@@ -3457,7 +3476,7 @@ B. Untersuchungsbefunde
 - Auskultation/Herzgrenzen:
 - Venen:
 - Insuffizienzzeichen:
-- 8 *Atmungs**organe*
+- 8 *Atmungsorgane*
 - Thorax:
 - obere Luftwege:
 - Auskultation:
@@ -3470,7 +3489,7 @@ B. Untersuchungsbefunde
 - Lähmungen:
 - Unfallfolgen:
 - Funktions- und Bewegungseinschränkungen
-- 11 *andere Auffälligkeite**n*
+- 11 *andere Auffälligkeiten*
 -
 
 Zusatzuntersuchungen (bei begründeter Indikation): Laborbefunde (z.B. Alkoholmarker, Drogenscreening), EKG, Kurztests zur Ermittlung von Hirnleistungsdefiziten (z.B. Trail-Making-Test A und B/Mini-Mental-Status-Test, Uhrentest):
@@ -3604,7 +3623,7 @@ C. Beurteilung
 - Mindestanforderungen an das Sehvermögen nach Anhang 1 VZV für die:
 
 <table>
-<tr><td></td><td>1. medizinische Gruppe: ohne Sehhilfe erfüllt nur mit Sehhilfe erfüllt nicht erfüllt Eine Beurteilung durch eine Ärztin/einen Arzt nach Artikel 5*a*<sup>bis</sup> ist notwendig.</td><td>2. medizinische Gruppe: ohne Sehhilfe erfüllt nur mit Sehhilfe erfüllt nicht erfüllt Eine Beurteilung durch eine Ärztin/einen Arzt nach Artikel 5*a*<sup>bis</sup> ist notwendig.</td></tr>
+<tr><td></td><td>1. medizinische Gruppe: ohne Sehhilfe erfüllt nur mit Sehhilfe erfüllt nicht erfüllt Eine Beurteilung durch eine Ärztin/einen Arzt nach Artikel 5*a*<sup>bi</sup><sup>s</sup> ist notwendig.</td><td>2. medizinische Gruppe: ohne Sehhilfe erfüllt nur mit Sehhilfe erfüllt nicht erfüllt Eine Beurteilung durch eine Ärztin/einen Arzt nach Artikel 5*a*<sup>bis</sup> ist notwendig.</td></tr>
 </table>
 
 Untersuchungsdatum:
@@ -3809,13 +3828,11 @@ Beilage
 
 Anhang 4a*[^t-9]*
 
-(Art. 24*b* Abs. 1)
+(Art. 27*d*)
 
-## Gesuch um die Erteilung eines unbefristeten Führerausweises
+## Bescheinigung der Weiterausbildung
 
 [^t-9]: Eingefügt durch Ziff. II der V vom 27. Okt. 2004 ([AS 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Fassung gemäss Ziff. II Abs. 2 der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-
-(Dem am Wohnort zuständigen Strassenverkehrsamt frühestens einen Monat vor dem Ablaufdatum des Führerausweises auf Probe einreichen.)
 
 <table>
 <tr><td>Name:</td></tr>
@@ -3826,17 +3843,15 @@ Anhang 4a*[^t-9]*
 <tr><td>Führerausweisnummer:</td></tr>
 </table>
 
-ersucht um die Erteilung eines unbefristeten Führerausweises.
-
-Ort und Datum:
-
-Unterschrift der gesuchstellenden Person:
-
-Wer vorsätzlich durch unrichtige Angaben, Verschweigen erheblicher Tatsachen oder Vorlage falscher Bescheinigungen einen Ausweis erschleicht, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft (Art. 97 SVG) und hat mit dem Entzug des Ausweises zu rechnen (Art. 16 SVG).
-
 Bescheinigung über die Teilnahme an der Weiterausbildung
 
 Ablaufdatum des Führerausweises auf Probe:
+
+<table>
+<tr><td>Weiterausbildungskurs</td></tr>
+<tr><td>Stempel und Unterschrift des Kursveranstalters:</td></tr>
+<tr><td>Datum:</td></tr>
+</table>
 
 Anhänge 5 und 6*[^t-10]*
 
@@ -4016,7 +4031,7 @@ Anhang 12*[^t-15]*
 
 ## Praktische Führerprüfung
 
-[^t-15]: Eingefügt durch Ziff. II Abs. 2 der V vom 3. Juli 2002 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Bereinigt gemäss Ziff. II der V vom 26. Sept. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), Ziff. II 2 der V vom 28. April 2004 ([AS 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), Ziff. II Abs. 2 der V vom 15. Juni 2007 ([AS 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), Ziff. II der V vom 29. Nov. 2013 (AS **201****3** 4697), vom 18. Dez. 2015 ([AS 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)) und vom Ziff. II Abs. 3 der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^t-15]: Eingefügt durch Ziff. II Abs. 2 der V vom 3. Juli 2002 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Bereinigt gemäss Ziff. II der V vom 26. Sept. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), Ziff. II 2 der V vom 28. April 2004 ([AS 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), Ziff. II Abs. 2 der V vom 15. Juni 2007 ([AS 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), Ziff. II der V vom 29. Nov. 2013 ([AS 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)), vom 18. Dez. 2015 ([AS 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)) und vom Ziff. II Abs. 3 der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 
 ### I. Zulassungsbedingungen
 
@@ -4236,5 +4251,3 @@ Der Prüfungsteil zur Beurteilung der technischen Beherrschung des Fahrzeugs dar
 - 3\.8 Ampeln, Signale und Markierungen und andere Bedingungen: richtiges Verhalten an Ampeln; Hinweise von Verkehrspolizisten beachten; richtiges Verhalten bei Signalen und Markierungen;
 - 3\.9 Signale: bei Bedarf notwendige, richtige und rechtzeitige Signale geben; Fahrtrichtungen korrekt angeben; auf alle Signale von anderen Verkehrsteilnehmern angemessen reagieren;
 - 3\.10 Bremsen: rechtzeitiges Verlangsamen, den Umständen angepasstes Bremsen; vorausschauende Fahrweise; Verwendung der verschiedenen Bremssysteme (nur für die Kategorien C, D, CE, und DE); andere Systeme zur Geschwindigkeitsreduktion verwenden (nur für die Kategorien C, D, CE und DE).
-- [tab]
-- [tab]

@@ -4,11 +4,11 @@ title: "Ordinanza del 27 ottobre 1976 sull'ammissione alla circolazione di perso
 short: OAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: it
-version: 2022-01-01
+version: 2022-04-01
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20220401/it/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20220401-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20220101/it"
 
 (Ordinanza sull’ammissione alla circolazione, OAC)**[^t-1]**
 
-del 27 ottobre 1976 (Stato 1° gennaio 2022)
+del 27 ottobre 1976 (Stato 1° aprile 2022)
 
 [^t-1]: Introdotto dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -136,7 +136,7 @@ La licenza di condurre è rilasciata per le sottocategorie seguenti:
 La licenza di condurre è rilasciata per le categorie speciali seguenti:
 
 - F:[^3-8] veicoli a motore, esclusi motoveicoli, la cui velocità massima non supera 45 km/h;
-- G: [^3-9] veicoli a motore agricoli e forestali[^3-10], come pure carri di lavoro, carri a motore industriali immatricolati e trattori impiegati a scopo agricolo e forestale, esclusi i veicoli speciali, la cui velocità massima non supera 30 km/h, esclusi i veicoli speciali;
+- G: [^3-9] veicoli a motore agricoli e forestali[^3-10], come pure carri di lavoro, carri a motore industriali immatricolati e trattori impiegati a scopo agricolo e forestale, la cui velocità massima non supera 30 km/h, esclusi i veicoli speciali;
 - M: ciclomotori.
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
@@ -195,18 +195,27 @@ Inoltre, nel traffico interno:
 - c. la licenza di condurre della sottocategoria C1 autorizza a condurre veicoli vuoti della sottocategoria D1;
 - d. la licenza di condurre delle categorie B e C e della sottocategoria C1 autorizza a trainare rimorchi agricoli e forestali o rimorchi del servizio antincendio, della polizia e della protezione civile;
 - e. la licenza di condurre delle categorie speciali F, G e M autorizza a trainare rimorchi con veicoli di queste categorie speciali;
-- f.[^4-5] la licenza di condurre della categoria B autorizza a condurre autoveicoli leggeri della sottocategoria D1 per la riparazione di guasti, per il rimorchio, per corse di trasferimento e di prova connesse al commercio di veicoli, a riparazioni o a modifiche dei veicoli, per corse di prova di veicoli nuovi da parte di fabbricanti e importatori, per collaudi di veicoli da parte di esperti nonché per collaudi ufficiali di veicoli e corse effettuate fino al luogo di questi collaudi;
-- g.[^4-6] la licenza di condurre delle categorie B e F autorizza a condurre risciò elettrici.
+- f.[^4-5]
 
-<sup>6</sup> Qualora il capoverso 5 autorizzi a condurre veicoli vuoti di altre categorie o sottocategorie e filobus, è consentito trasportare le persone incaricate di constatare i difetti, di controllare le riparazioni nonché di eseguire i collaudi ufficiali dei veicoli.[^4-7]
+  la licenza di condurre della categoria B autorizza a:
+
+  - 1\. condurre autoveicoli leggeri della sottocategoria D1 per la riparazione di guasti, per il rimorchio, per corse di trasferimento e di prova connesse al commercio di veicoli, a riparazioni o a modifiche dei veicoli, per corse di prova di veicoli nuovi da parte di fabbricanti e importatori, per collaudi di veicoli da parte di esperti nonché per controlli ufficiali di veicoli e per recarsi al luogo di questi controlli,
+  - 2\. condurre autoveicoli pesanti con peso totale superiore a 3500 kg ma non oltre 4250 kg e non più di otto posti a sedere, escluso quello del conducente, se a emissioni zero (art. 9*a* cpv. 2 OETV[^4-6]) e il superamento dei 3500 kg è dovuto unicamente al peso aggiuntivo del sistema di propulsione a emissioni zero; è consentito il traino di un rimorchio con peso totale non superiore a 750 kg;
+
+- g.[^4-7] la licenza di condurre delle categorie B e F autorizza a condurre risciò elettrici;
+- h.[^4-8] la licenza di condurre della categoria BE autorizza a condurre autoveicoli pesanti con peso totale superiore a 3500 kg ma non oltre 4250 kg e non più di otto posti a sedere, escluso quello del conducente, trainanti un rimorchio con peso totale di oltre 750 kg, se il veicolo trattore è a emissioni zero (art. 9*a* cpv. 2 OETV) e il superamento dei 3500 kg è dovuto unicamente al peso aggiuntivo del sistema di propulsione a emissioni zero.
+
+<sup>6</sup> Qualora il capoverso 5 autorizzi a condurre veicoli vuoti di altre categorie o sottocategorie e filobus, è consentito trasportare le persone incaricate di constatare i difetti, di controllare le riparazioni nonché di eseguire i collaudi ufficiali dei veicoli.[^4-9]
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^4-2]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 [^4-3]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^4-4]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4941](https://fedlex.data.admin.ch/eli/oc/2011/715)).
-[^4-5]: Introdotta dal n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
-[^4-6]: Introdotta dal n. I dell’O del 15 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
-[^4-7]: Introdotto dal n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
+[^4-5]: Introdotta dal n. I dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 15](https://fedlex.data.admin.ch/eli/oc/2022/15)).
+[^4-6]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^4-7]: Introdotta dal n. I dell’O del 15 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
+[^4-8]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 15](https://fedlex.data.admin.ch/eli/oc/2022/15)).
+[^4-9]: Introdotto dal n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 
 #### Art. 5
 
@@ -228,12 +237,12 @@ Non necessitano di una licenza di condurre le persone che:
 - b. conducono un carro a mano provvisto di motore;
 - c. conducono un autoveicolo di lavoro utilizzato in cantieri delimitati non completamente chiusi alla circolazione;
 - d. conducono un ciclomotore leggero;
-- e.[^5-1] conducono un monopattino elettrico;
+- e.[^5-1] conducono un monopattino autobilanciato;
 - f.[^5-2] conducono una sedia a rotelle motorizzata con una velocità massima di 20 km/h.
 
 <sup>3</sup> Autorizzando il traffico interno di una impresa conformemente all’articolo 33 OAV[^5-3], l’autorità cantonale può permettere eccezioni in merito alla categoria, alla sottocategoria o categoria speciale della licenza di condurre necessaria (art. 3).
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 15 apr. 2015, in vigore dal 1° giu. 2015 (RU **201****5** 1333).
+[^5-1]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 15](https://fedlex.data.admin.ch/eli/oc/2022/15)).
 [^5-2]: Introdotta dal n. I dell’O del 15 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
 [^5-3]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 
@@ -765,7 +774,7 @@ La validità della licenza per allievo conducente si estingue se:
 
 <sup>2</sup> La licenza per allievo conducente della categoria A, delle sottocategorie A1 e B1 e della categoria speciale F autorizza a effettuare corse di scuola di guida senza accompagnatore.
 
-<sup>2bis</sup> La licenza per allievo conducente della sottocategoria D1 autorizza a effettuare corse di scuola di guida con veicoli della sottocategoria C1, quella della sottocategoria D1E corse di scuola di guida con una combinazione di veicoli della sottocategoria C1E.[^17-1]
+<sup>2b</sup> <sup>is</sup> La licenza per allievo conducente della sottocategoria D1 autorizza a effettuare corse di scuola di guida con veicoli della sottocategoria C1, quella della sottocategoria D1E corse di scuola di guida con una combinazione di veicoli della sottocategoria C1E.[^17-1]
 
 <sup>3</sup> Il titolare della licenza per allievo conducente delle categorie BE, CE o DE e delle sottocategorie C1E o D1E può effettuare, senza accompagnatore, corse di scuola di guida con autotreni se è già in possesso della licenza di condurre per il veicolo trattore.
 
@@ -815,7 +824,7 @@ Nella licenza per allievo conducente devono essere iscritte le seguenti autorizz
 
 <sup>5</sup> Il maestro conducente rilascia all’allievo conducente un attestato che conferma la frequenza del corso di teoria della circolazione.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^18-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 (RU **2****019** 191).
 
 #### Art. 19
 
@@ -1158,7 +1167,7 @@ L’autorità cantonale può:
 
 La formazione complementare deve essere seguita entro 12 mesi dal rilascio della licenza di condurre in prova.
 
-[^27c-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2020 (RU **2****019** 191).
+[^27c-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2020 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 
 #### Art. 27d
 
@@ -1236,7 +1245,7 @@ I Cantoni:
 
 <sup>5</sup> La data del nuovo esame di conducente non è iscritta nella licenza di condurre.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 (RU **20****13** 4697).
+[^28-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
 
 #### Art. 28a
 
@@ -1277,7 +1286,7 @@ Se la persona interessata non supera la corsa di controllo:
 
 <sup>4</sup> Se la persona interessata non si presenta, senza giustificarsi, alla corsa di controllo, questa è considerata non superata. L’autorità, quando ordina la corsa di controllo, deve informare sulle conseguenze dell’omessa partecipazione.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 (RU **201****5** 2599).
+[^29-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 [^29-2]: Nuovo testo giusta il n. I dell’O del 28 apr. 2004, in vigore dal 1° gen. 2005 ([RU 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
 
 #### Art. 30
@@ -1396,7 +1405,7 @@ In casi di rigore, la revoca della licenza per qualsiasi categoria, sottocategor
 
 Chiunque desideri condurre veicoli a motore dopo l’annullamento della licenza di condurre in prova deve chiedere una licenza per allievo conducente. Rimane salvo l’articolo 35*a* capoverso 3.
 
-[^35b-1]: Introdotto dal n. I dell’O del 27 ott. 2004, in vigore dal 1° dic. 2005 (RU **2****004** 5057).
+[^35b-1]: Introdotto dal n. I dell’O del 27 ott. 2004, in vigore dal 1° dic. 2005 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
 
 ### 132*b***** Divieto di circolare e ammonimento
 
@@ -1697,7 +1706,7 @@ A seguito della formazione, il candidato deve essere in grado di:[^64c-1]
 
 <sup>2</sup> Le conoscenze anteriori sono computate dopo aver consultato il centro di formazione. L’articolo 27*g* si applica alle competenze.
 
-[^64c-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^64c-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 (RU **2****019** 191).
 [^64c-2]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2020 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 
 #### Art. 64d
@@ -2020,7 +2029,7 @@ L’autorità d’immatricolazione del Cantone di stanza del veicolo rilascia la
 <sup>3</sup> L’UDSC comunica alle autorità d’immatricolazione i generi di veicoli per i quali non sono necessari la prova dell’imposizione doganale e dell’avvenuta tassazione secondo il capoverso 1 o un’autorizzazione secondo il capoverso 2.
 
 [^76-1]: Nuovo testo giusta dell’all. 4 n. 35 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^76-2]: RS **6****41.51**
+[^76-2]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
 
 #### Art. 77
 
@@ -2548,7 +2557,7 @@ I veicoli a motore e i rimorchi immatricolati all’estero possono circolare in 
 
 <sup>4</sup> I veicoli stranieri devono essere muniti del segno distintivo dello Stato d’immatricolazione.
 
-[^114-1]: [RS 0.741.11](https://fedlex.data.admin.ch/eli/cc/46/720_741_752). Vedi anche la Conv. dell’8 nov. 1968 sulla circolazione stradale (RS **0.7****41.10**) e l’Acc. europeo del 1° mag. 1971 ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)).
+[^114-1]: [RS 0.741.11](https://fedlex.data.admin.ch/eli/cc/46/720_741_752). Vedi anche la Conv. dell’8 nov. 1968 sulla circolazione stradale ([RS 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)) e l’Acc. europeo del 1° mag. 1971 ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)).
 [^114-2]: Nuovo testo giusta il n. I dell’O del 13 nov. 1991, in vigore dal 1° gen. 1992 ([RU 1991 2536](https://fedlex.data.admin.ch/eli/oc/1991/2536_2536_2536)).
 [^114-3]: Nuovo testo giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 
@@ -2741,7 +2750,7 @@ La statistica dei veicoli comprende:
 
 [^130142c-1]
 
-[^130142c-1]: Abrogati dal n. I dell’O del 28 mar. 2007, con effetto dal 1° gen. 2008 (RU **200****7** 2183).
+[^130142c-1]: Abrogati dal n. I dell’O del 28 mar. 2007, con effetto dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 
 ## 4 Disposizioni penali
 
@@ -2897,7 +2906,7 @@ L’USTRA può:[^150-7]
 [^150-3]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^150-4]: Nuovo testo giusta il n. I dell’O del 28 set. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5013](https://fedlex.data.admin.ch/eli/oc/2007/703)).
 [^150-5]: Nuovo testo giusta il n. 3 dell’all. 1 dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
-[^150-6]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
+[^150-6]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 (RU **20****02** 3259).
 [^150-7]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^150-8]: Abrogata dal n. I dell’O del 1° lug. 2015, con effetto dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 [^150-9]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
@@ -3015,7 +3024,7 @@ I titolari di una licenza per allievo conducente della vecchia categoria A1 poss
 
 <sup>14</sup> La vecchia categoria C senza l’autorizzazione di trainare rimorchi della categoria E con veicoli a motore della categoria C (vecchia rubrica 09), autorizza, dopo il rilascio della nuova licenza di condurre, a condurre le nuove categorie BE e DE nonché le nuove sottocategorie C1E e D1E, qualora sia stata rilasciata una licenza di condurre per il corrispondente veicolo trattore.
 
-[^151d-1]: Introdotto dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
+[^151d-1]: Introdotto dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 (RU **2****002** 3259).
 [^151d-2]: Abrogato dal n. I dell’O del 18 dic. 2015, con effetto dal 1° apr. 2016 ([RU 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)).
 [^151d-3]: Per. introdotto dal n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^151d-4]: Per. introdotto dal n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
@@ -3134,7 +3143,7 @@ Fino al 31 dicembre 2019, le autorità cantonali possono incaricare di effettuar
 <sup>6</sup> I titolari di una licenza di condurre cartacea devono sostituirla entro il 31 gennaio 2024 con un documento in formato carta di credito. Come data di rilascio del nuovo documento va riportata la data del giorno in cui l’autorità cantonale ha proceduto alla sostituzione. Trascorso il suddetto termine, i documenti cartacei perdono la loro validità come attestato delle autorizzazioni a condurre.
 
 [^151l-1]: Introdotto dal n. I dell’O del 14 dic. 2018, cpv. 5 e 6 in vigore dal 1° feb. 2019, cpv. 2 in vigore dal 1° gen. 2020, cpv. 1, 3 e 4 in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^151l-2]: Introdotto dal n. I dell’O del 3 lug. 2019, in vigore dal 1° gen. 2021 (RU **20****19** 2143).
+[^151l-2]: Introdotto dal n. I dell’O del 3 lug. 2019, in vigore dal 1° gen. 2021 ([RU 2019 2143](https://fedlex.data.admin.ch/eli/oc/2019/397)).
 
 #### Art. 151m
 
@@ -3145,6 +3154,15 @@ Fino al 31 dicembre 2019, le autorità cantonali possono incaricare di effettuar
 <sup>2</sup> Esso pubblica i risultati della valutazione e presenta al Consiglio federale una proposta circa il seguito da dare.
 
 [^151m-1]: Introdotto dal n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+
+#### Art. 151n
+
+**Disposizione transitoria della modifica del 17 dicembre 2021**[^151n-1]
+
+Chi, in virtù dell’articolo 151*d* capoversi 9 e 10, è autorizzato a condurre veicoli con peso totale superiore a 3500 kg e più di 16 posti a sedere, escluso quello del conducente, può condurre autobus con peso totale superiore a 3500 kg ma non oltre 425 kg, se a emissioni zero (art. 9*a* cpv. 2 OETV[^151n-2]) e il superamento dei 3500 kg è dovuto unicamente al peso aggiuntivo del sistema di propulsione a emissioni zero.
+
+[^151n-1]: Introdotto dal n. I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 15](https://fedlex.data.admin.ch/eli/oc/2022/15)).
+[^151n-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 
 #### Art. 152
 
@@ -3208,7 +3226,7 @@ Tutte le disposizioni contrarie alla presente ordinanza sono abrogate alla data 
 
 [^u2-1]
 
-[^u2-1]: RU **1****991** 982
+[^u2-1]: [RU 1991 982](https://fedlex.data.admin.ch/eli/oc/1991/982_982_982)
 
 <sup>1</sup> Le persone che hanno l’età minima richiesta e presentano innanzi il 1° gennaio 1993 una domanda di licenza per allievo conducente delle categorie A, A1, A2, B, C, C1 o D2 non sono tenute a seguire il corso di teoria della circolazione conformemente all’articolo 17*a* o la formazione pratica di base conformemente all’articolo 17*b*.
 
@@ -3272,7 +3290,7 @@ Allegato 1<sup>bis</sup> *[^t-3]*
 
 ## Requisiti per i medici di livello 1
 
-[^t-3]: Introdotto dal n. II cpv. 1 dell’O del 1° lug. 2015 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Aggiornato dal n. II dell’O del 15 giu. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2809](https://fedlex.data.admin.ch/eli/oc/2018/426)).
+[^t-3]: Introdotto dal n. II cpv. 1 dell’O del 1° lug. 2015 (RU **20****15** 2599). Aggiornato dal n. II dell’O del 15 giu. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2809](https://fedlex.data.admin.ch/eli/oc/2018/426)).
 
 I medici che effettuano visite di controllo di idoneità alla guida di persone che hanno superato i 75 anni di età (art. 27 cpv. 1 lett. b) devono disporre delle seguenti conoscenze e competenze:
 
@@ -3335,7 +3353,7 @@ B. Risultato dell’esame
 - Anomalie del setto nasale:
 - Macchie epatiche:
 - Altre anomalie:
-- 4 *Psich**e*
+- 4 *Psiche*
 - Umore:
 - Stato di eccitazione:
 - Attenzione:
@@ -3388,7 +3406,7 @@ Allegato 2a*[^t-5]*
 
 [^t-5]: Introdotto dal n. II cpv. 1 dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 
-**Categ****orie C o D, sottocategorie C1 o D1, permesso per il trasporto professionale di persone, esperti della circolazione**
+**Categorie C o D, sottocategorie C1 o D1, permesso per il trasporto professionale di persone, esperti della circolazione**
 
 (copia per il medico)
 
@@ -3444,7 +3462,7 @@ B. Risultato dell’esame
 - Sensibilità (senso della vibrazione e senso della posizione):
 - Camminata lungo una linea:
 - Segni vegetativi/tremore:
-- 7 *Siste**ma cardiovascolare*
+- 7 *Sistema cardiovascolare*
 - Polso:
 - Pressione arteriosa: Eventuale valore diastolico:
 - Polsi periferici:
@@ -3823,7 +3841,7 @@ Allegato 7*[^t-11]*
 
 ## Gruppi di materie per gli esami di esperti della circolazione
 
-[^t-11]: Aggiornato dall’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)) e dal n. II cpv. 2 dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
+[^t-11]: Aggiornato dall’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)) e dal n. II cpv. 2 dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 (RU **200****7** 2183).
 
 ### 1 Esperti della circolazione incaricati degli esami di conducente e degli esami dei veicoli
 
@@ -4165,11 +4183,11 @@ Si richiede uno stile di guida regolare e fluido con una buona percezione del tr
 La durata dell’esame e la distanza percorsa devono essere sufficienti per consentire la valutazione della capacità e dei comportamenti conformemente al presente allegato. La durata dell’esame non deve essere in nessun caso inferiore a:
 
 - – 30 minuti per la categoria A e la sottocategoria A1,
-- – 60 minuti per le categorie B, BE, DE, le sottocategorie B1, C1, D1, C1E e D1E, la categoria speciale F come anche per il permesso per il trasporto professionale di persone giusta l’articolo 25. La corsa d’esame per conseguire il certificato di capacità per il trasporto di persone o il certificato di capacità per il trasporto di merci giusta l’articolo 14 capoverso 3 dell’ordinanza del 15 giugno 2007[^annex11-lvlu1-lvlIV-1] sull’ammissione degli autisti può essere effettuata subito dopo,
+- – 60 minuti per le categorie B, BE, DE, le sottocategorie B1, C1, D1, C1E e D1E, la categoria speciale F come anche per il permesso per il trasporto professionale di persone giusta l’articolo 25. La corsa d’esame per conseguire il certificato di capacità per il trasporto di persone o il certificato di capacità per il trasporto di merci giusta l’articolo 14 capoverso 3 dell’ordinanza del 15 giugno 2007[^annex12-lvlu1-lvlIV-1] sull’ammissione degli autisti può essere effettuata subito dopo,
 - – 90 minuti per le categorie C e CE,
 - – 120 minuti per la categoria D.
 
-[^annex11-lvlu1-lvlIV-1]: [RS 741.521](https://fedlex.data.admin.ch/eli/cc/2007/437)
+[^annex12-lvlu1-lvlIV-1]: [RS 741.521](https://fedlex.data.admin.ch/eli/cc/2007/437)
 
 ### V. Veicoli per gli esami
 
