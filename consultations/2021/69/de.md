@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Tabaksteuergesetzes
 document: Vernehmlassungsvorlage
 language: de
