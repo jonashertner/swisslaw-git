@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 27 maggio 2020 concernente le derrate alimentari ge
 short: ODerrGM
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/456"
 language: it
-version: 2021-09-01
+version: 2022-04-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20210901/it/xml/fedlex-data-admin-ch-eli-cc-2020-456-20210901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20210901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2020-456-20220401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20210901/it"
 
 (ODerrGM)
 
-del 27 maggio 2020 (Stato 1° settembre 2021)
+del 27 maggio 2020 (Stato 1° aprile 2022)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -338,16 +338,30 @@ Allegato 3*[^t-1]*
 
 ## Prodotti OGM che possono essere immessi sul mercato senza autorizzazione dell’USAV
 
-[^t-1]: Aggiornato dal n. I dell’O del DFI dell’11 ago. 2021, in vigore dal 1° set. 2021 ([RU 2021 483](https://fedlex.data.admin.ch/eli/oc/2021/483)).
-
-I prodotti OGM non necessitano di alcuna autorizzazione dell’USAV per l’immissione sul mercato in Svizzera se soddisfano i requisiti che figurano nella seconda colonna. L’USAV stila e pubblica un elenco di questi prodotti.
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 142](https://fedlex.data.admin.ch/eli/oc/2022/142)).
 
 <table>
-<tr><td>Prodotto OGM</td><td>Prescrizioni da rispettare</td></tr>
-<tr><td>Endo-1,4-beta-xinalasi (EC 3.2.1.8[^annex3-lvlu1-1]) *Enzima alimentare per l’uso nella* *trasfor**mazione* *dell’amido, nella fabbricazione di* *bevande* *alcoliche a base di cereali, nella* *fabbricazione* *di bevande a base di cereali* *nonché* *nei processi di cottura al forno.*</td><td>Fabbricato con il microorganismo geneticamente modificato *Aspergillus orzyae* (ceppo NZYM-FB).</td></tr>
-<tr><td>Fosfolipasi A2 (EC 3.1.1.43) *Enzima alimentare per l’uso nella* *trasfor**mazione* *di uova e oli e grassi vegetali crudi nonché nei processi di cottura al forno.*</td><td>Fabbricato con il microorganismo geneticamente modificato *Aspergillus niger* (ceppo PLA-54).</td></tr>
-<tr><td>Prodotti OGM che corrispondono alla definizione di cui all’articolo 31 capoverso 4 ODerr e che possono essere immessi sul mercato secondo il regolamento (CE) 2015/2283[^annex3-lvlu1-2].</td><td>Devono essere rispettate le prescrizioni di cui alle singole decisioni di esecuzione e alle notifiche. La persona menzionata nella decisione di esecuzione o nella notifica e alla quale si rivolge la decisione o la notifica è considerata titolare dell’autorizzazione. Il prodotto menzionato può essere immesso sul mercato solo da questa persona oppure, con il suo consenso, da altre persone.</td></tr>
+<tr><th>Prodotto OGM</th><th>Prescrizioni da rispettare</th></tr>
+<tr><td>4-alfa-D-glucano alfa-maltoidrolasi (EC 3.2.1.133) *Enzima alimentare per l’uso nei processi di cottura al forno.*</td><td>Fabbricato con il microorganismo geneticamente modificato *Saccharomyces cerevisiae* (ceppo LALL-MA).</td></tr>
+<tr><td>4-alfa-D-glucano glucanoidrolasi (EC 3.2.1.1) *Enzima alimentare per l’uso nei processi di cottura al forno.*</td><td>Fabbricato con il microorganismo geneticamente modificato *Bacillus subtilis* (ceppo NBA).</td></tr>
+<tr><td>Alfa-acetolattato decarbossilasi (EC 4.1.1.5) *Enzima alimentare per l’uso nella distillazione e nella produzione di bevande alcoliche.*</td><td>Fabbricato con il microorganismo geneticamente modificato *Bacillus licheniformis* (ceppo NZYM-JB).</td></tr>
+<tr><td>Beta-D-glucosio: ossigeno 1-ossidoreduttasi (EC 1.1.3.4) *Enzima alimentare per l’uso nei processi di cottura al forno*</td><td>Fabbricato con il microorganismo geneticamente modificato *Aspergillus oryzae* (ceppo NZYM-KP).</td></tr>
+<tr><td>Beta-D-glucosio: ossigeno 1-ossidoreduttasi (EC 1.1.3.4) *Enzima alimentare per l’uso nei processi di cottura al forno*</td><td>Fabbricato con il microorganismo geneticamente modificato *Aspergillus niger* (ceppo ZGL).</td></tr>
+<tr><td>Endo-1,4-beta-xilanasi (EC 3.2.1.8) *Enzima alimentare per l’uso nella trasformazione dell’amido, nella fabbricazione di bevande alcoliche a base di cereali, nella fabbricazione di bevande a base di* *cereali* *nonché nei processi di cottura al forno.*</td><td>Fabbricato con il microorganismo geneticamente modificato *Aspergillus oryzae* (ceppo NZYM-FB).</td></tr>
+<tr><td>Endo-1,4-beta-xilanasi (EC 3.2.1.8) *Enzima alimentare per l’uso nella trasformazione dell’amido di derrate alimentari a base di cereali nei processi di cottura al forno.*</td><td>Fabbricato con il microorganismo geneticamente modificato *Bacillus licheniformis* (ceppo NZYM-CE).</td></tr>
+<tr><td>Endo-1,4-beta-xilanasi (EC 3.2.1.8) *Enzima alimentare per l’uso nella trasformazione dell’amido di derrate alimentari a base di cereali nei processi di cottura al forno.*</td><td>Fabbricato con il microorganismo geneticamente modificato *Aspergillus oryzae* (ceppo NZYM-FA).</td></tr>
+<tr><td>Endo-1,4-beta-xilanasi (EC 3.2.1.8)*Enzima alimentare per l’uso nella fabbricazione di bevande e nei processi di cottura al forno.*</td><td>Fabbricato con il microorganismo geneticamente modificato *Aspergillus niger* (ceppo XEA).</td></tr>
+<tr><td>Fosfolipasi A2 (EC 3.1.1.43) *Enzima alimentare per l’uso nella trasfor**mazione di uova e oli e grassi vegetali crudi* *nonché* *nei processi di cottura al forno.*</td><td>Fabbricato con il microorganismo geneticamente modificato *Aspergillus* *niger* (ceppo PLA-54).</td></tr>
+<tr><td>Fosfolipasi C (EC 3.1.4.3) *Enzima alimentare per l’uso nella trasformazione di oli e grassi*.</td><td>Fabbricato con il microorganismo geneticamente modificato *Komagataella phaffii* (ceppo PRF).</td></tr>
+<tr><td>Glucano-1,4-alfa-maltoidrolasi (EC 3.2.1.133) *Enzima alimentare per l’uso nella trasformazione dell’amido nei processi di cottura al forno.*</td><td>Fabbricato con il microorganismo geneticamente modificato *Bacillus subtilis* (ceppo NZYM-OC).</td></tr>
+<tr><td>Glucano-1,4-alfa-maltoidrolasi (EC 3.2.1.133) *Enzima alimentare per l’uso nella trasformazione dell’amido nei processi di cottura al forno.*</td><td>Fabbricato con il microorganismo geneticamente modificato *Bacillus subtilis* (ceppo NZYM-SO).</td></tr>
+<tr><td>Glucano-1,4-alfa-maltoidrolasi (EC 3.2.1.133) *Enzima alimentare per l’uso nella trasformazione dell’amido nei processi di cottura al forno.*</td><td>Fabbricato con il microorganismo geneticamente modificato *Bacillus subtilis* (ceppo ROM).</td></tr>
+<tr><td>Prodotti OGM che corrispondono alla definizione di cui all’articolo 31 capoverso 4 ODerr e che possono essere immessi sul mercato secondo il regolamento (CE) 2015/2283[^annex3-lvlu1-1]</td><td>Devono essere rispettate le prescrizioni di cui alle singole decisioni di esecuzione e alle notifiche. La persona menzionata nella decisione di esecuzione o nella notifica e alla quale si rivolge la decisione o la notifica è considerata titolare dell’autorizzazione. Il prodotto menzionato può essere immesso sul mercato solo da questa persona oppure, con il suo consenso, da altre persone.</td></tr>
+<tr><td>Serin proteasi (tripsina) (EC 3.4.21.4) *Enzima alimentare per l’uso nella trasformazione di derrate alimentari di origine animale e vegetale contenenti proteine.*</td><td>Fabbricato con il microorganismo geneticamente modificato *Fusarium venenatum* (ceppo NZYM-FG).</td></tr>
+<tr><td>Triacilglicerolo lipasi (EC 3.1.1.3) *Enzima alimentare per l’uso* *nell’idrolisi dei grassi per la fabbricazione di bevande a base di cereali, nei processi di cottura al forno* *nonché* *nella trasformazione di oli e grassi.*</td><td>Fabbricato con il microorganismo geneticamente modificato *Aspergillus oryzae* (ceppo NZYM-AL).</td></tr>
+<tr><td>Triacilglicerolo lipasi (EC 3.1.1.3) *Enzima alimentare per l’uso nell’idrolisi dei grassi di derrate alimentari a base di cereali nei processi di cottura al forno.*</td><td>Fabbricato con il microorganismo geneticamente modificato *Aspergillus oryzae* (ceppo NZYM-LH).</td></tr>
+<tr><td>Triacilglicerolo lipasi (EC 3.1.1.3) *Enzima alimentare per l’uso nella trasformazione di uova, oli e grassi*.</td><td>Fabbricato con il microorganismo geneticamente modificato *Aspergillus oryzae* (ceppo NZYM-FL).</td></tr>
+<tr><td>Triacilglicerolo lipasi (EC 3.1.1.3) *Enzima alimentare per l’uso nei processi di cottura al forno.*</td><td>Fabbricato con il microorganismo geneticamente modificato *Aspergillus niger* (ceppo LFS).</td></tr>
 </table>
 
-[^annex3-lvlu1-1]: Numero IUBMB per la nomenclatura degli enzimi
-[^annex3-lvlu1-2]: Regolamento (UE) 2015/2283 del Parlamento europeo e del Consiglio, del 25 novembre 2015, relativo ai nuovi alimenti e che modifica il regolamento (UE) n. 1169/2011 del Parlamento europeo e del Consiglio e abroga il regolamento (CE) n. 258/97 del Parlamento europeo e del Consiglio e il regolamento (CE) n. 1852/2001 della Commissione, versione della GU L 327 dell’11.12.2015, pag. 1.
+[^annex3-lvlu1-1]: Regolamento (UE) 2015/2283 del Parlamento europeo e del Consiglio, del 25 novembre 2015, relativo ai nuovi alimenti e che modifica il regolamento (UE) n. 1169/2011 del Parlamento europeo e del Consiglio e abroga il regolamento (CE) n. 258/97 del Parlamento europeo e del Consiglio e il regolamento (CE) n. 1852/2001 della Commissione; modificato da ultimo dal regolamento UE 2019/1381, GU L 231 del 6.9.2019, pag. 1.

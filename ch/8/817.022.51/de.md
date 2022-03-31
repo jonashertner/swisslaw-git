@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 27. Mai 2020 über gentechnisch veränderte Lebens
 short: VGVL
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/456"
 language: de
-version: 2021-09-01
+version: 2022-04-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20210901/de/xml/fedlex-data-admin-ch-eli-cc-2020-456-20210901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20210901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2020-456-20220401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20210901/de"
 
 (VGVL)
 
-vom 27. Mai 2020 (Stand am 1. September 2021)
+vom 27. Mai 2020 (Stand am 1. April 2022)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -202,7 +202,7 @@ Wer mit Lebensmitteln umgeht, die GVO sind oder enthalten, muss zur Gewährleist
 
 Die Verordnung vom 23. November 2005[^13-1] über gentechnisch veränderte Lebensmittel wird aufgehoben.
 
-[^13-1]: [[AS 2005 6353](https://fedlex.data.admin.ch/eli/oc/2005/808), [2006 4987](https://fedlex.data.admin.ch/eli/oc/2006/776), [2007 2935](https://fedlex.data.admin.ch/eli/oc/2007/390), [2008 1057](https://fedlex.data.admin.ch/eli/oc/2008/206), [2013 4139](https://fedlex.data.admin.ch/eli/oc/2013/762)Ziff. I 1, [2016 3685](https://fedlex.data.admin.ch/eli/oc/2016/618)]
+[^13-1]: [[AS 2005 6353](https://fedlex.data.admin.ch/eli/oc/2005/808); [2006 4987](https://fedlex.data.admin.ch/eli/oc/2006/776); [2007 2935](https://fedlex.data.admin.ch/eli/oc/2007/390); [2008 1057](https://fedlex.data.admin.ch/eli/oc/2008/206); [2013 4139](https://fedlex.data.admin.ch/eli/oc/2013/762)Ziff. I 1; [2016 3685](https://fedlex.data.admin.ch/eli/oc/2016/618)]
 
 #### Art. 14
 
@@ -338,16 +338,30 @@ Anhang 3*[^t-1]*
 
 ## GVO-Erzeugnisse, die ohne Bewilligung des BLV in Verkehr gebracht werden dürfen
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des EDI vom 11. Aug. 2021, in Kraft seit 1. Sept. 2021 ([AS 2021 483](https://fedlex.data.admin.ch/eli/oc/2021/483)).
-
-GVO-Erzeugnisse bedürfen keiner Bewilligung des BLV für das Inverkehrbringen in der Schweiz, sofern sie die Voraussetzungen erfüllen, die in der zweiten Spalte aufgeführt sind. Das BLV führt eine Liste dieser Erzeugnisse und veröffentlich sie.
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 142](https://fedlex.data.admin.ch/eli/oc/2022/142)).
 
 <table>
-<tr><td>GVO-Erzeugnis</td><td>Einzuhaltende Vorschriften</td></tr>
-<tr><td>Endo-1,4-β-xylanase (EC 3.2.1.8[^annex3-lvlu1-1]) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung, bei der Herstellung von alkoholischen Getränken auf Getreide**basis, beim Brauen von Getränken auf Getreidebasis und bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus orzyae* (Stamm NZYM-FB).</td></tr>
-<tr><td>GVO-Erzeugnisse, die der Definition nach Artikel 31 Absatz 4 LGV entsprechen und die nach der Verordnung (EG) 2015/2283[^annex3-lvlu1-2] in Verkehr gebracht werden dürfen.</td><td>Die Vorschriften gemäss den einzelnen Durchführungsbeschlüssen und Meldungen sind einzuhalten. Die im Durchführungsbeschluss oder in der Meldung genannte Person, an die sich der Beschluss oder die Meldung richtet, gilt als Bewilligungsinhaberin oder -inhaber. Das genannte Produkt darf nur durch diese Person oder mit deren Einverständnis durch andere Personen in Verkehr gebracht werden.</td></tr>
+<tr><th>GVO-Erzeugnis</th><th>Einzuhaltende Vorschriften</th></tr>
+<tr><td>4-alpha-D-Glukan alpha-Maltohydrolase (EC 3.2.1.133) *Lebensmittelenzym zur Verwendung bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Saccharomyces cerevisiae* (Stamm LALL-MA).</td></tr>
+<tr><td>4-alpha-D-Glukan Glukanhydrolase (EC 3.2.1.1) *Lebensmittelenzym zur Verwendung bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus subtilis* (Stamm NBA).</td></tr>
+<tr><td>Alpha-Acetolactate Decarboxylase (EC 4.1.1.5) *Lebensmittelenzym zur Verwendung bei der Destillation von alkoholischen Getränken und beim Brauen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus licheniformis* (Stamm NZYM-JB).</td></tr>
+<tr><td>Beta-D-Glucose:Sauerstoff 1-Oxidoreductase (EC 1.1.3.4) *Lebensmittelenzym zur Verwendung bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus oryzae* (Stamm NZYM-KP).</td></tr>
+<tr><td>Beta-D-Glucose:Sauerstoff 1-Oxidoreductase (EC 1.1.3.4) *Lebensmittelenzym zur Verwendung bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus niger* (Stamm ZGL).</td></tr>
+<tr><td>Endo-1,4-beta-Xylanase (EC 3.2.1.8) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung, bei der Herstellung von alkoholischen Getränken auf Getreidebasis, beim Brauen von Getränken auf Getreidebasis und bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus oryzae* (Stamm NZYM-FB).</td></tr>
+<tr><td>Endo-1,4-beta-Xylanase (EC 3.2.1.8) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung von getreidehaltigen Lebensmitteln bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus licheniformis* (Stamm NZYM-CE).</td></tr>
+<tr><td>Endo-1,4-beta-Xylanase (EC 3.2.1.8) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung von getreidehaltigen Lebensmitteln bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus oryzae* (Stamm NZYM-FA).</td></tr>
+<tr><td>Endo-1,4-beta-Xylanase (EC 3.2.1.8) *Lebensmittelenzym zur Verwendung beim Brauen und bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus niger* (Stamm XEA).</td></tr>
+<tr><td>Glukan-1,4-alpha-Maltohydrolase (EC 3.2.1.133) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung bei Backverarbeitungs**‑ prozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus subtilis* (Stamm NZYM-OC).</td></tr>
+<tr><td>Glukan-1,4-alpha-Maltohydrolase (EC 3.2.1.133) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung bei Backverarbeitungs**‑ prozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus subtilis* (Stamm NZYM-SO).</td></tr>
+<tr><td>Glukan-1,4-alpha-Maltohydrolase (EC 3.2.1.133) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung bei Backverarbeitungs**‑ prozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus subtilis* (Stamm ROM).</td></tr>
+<tr><td>GVO-Erzeugnisse, die der Definition nach Artikel 31 Absatz 4 LGV entsprechen und die nach der Verordnung (EG) 2015/2283[^annex3-lvlu1-1] in Verkehr gebracht werden dürfen.</td><td>Die Vorschriften gemäss den einzelnen Durchführungsbeschlüssen und Meldungen sind einzuhalten. Die im Durchführungsbeschluss oder in der Meldung genannte Person, an die sich der Beschluss oder die Meldung richtet, gilt als Bewilligungsinhaberin oder -inhaber. Das genannte Produkt darf nur durch diese Person oder mit deren Einverständnis durch andere Personen in Verkehr gebracht werden.</td></tr>
 <tr><td>Phospholipase A2 (EC 3.1.1.43) *Lebensmittelenzym zur Verwendung bei der Verarbeitung von Eiern und rohen Pflanzenölen und -fetten sowie bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus niger* (Stamm PLA-54).</td></tr>
+<tr><td>Phospholipase C (EC 3.1.4.3) *Lebensmittelenzym zur Verwendung bei der Verarbeitung von Ölen und Fetten.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Komagataella phaffii* (Stamm PRF).</td></tr>
+<tr><td>Serinprotease (Trypsin) (EC 3.4.21.4) *Lebensmittelenzym zur Verwendung bei der Verarbeitung von proteinhaltigen Lebens**‑ mitteln tierischen und pflanzlichen Ursprungs.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Fusarium venenatum* (Stamm NZYM-FG).</td></tr>
+<tr><td>Triaglycerol Lipase (EC 3.1.1.3) *Lebensmittelenzym zur Verwendung bei der Fetthydrolyse beim Brauen von Getränken auf Getreidebasis und bei Backverarbeitungsprozessen, sowie bei der Verarbeitung von Ölen und Fetten.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus oryzae* (Stamm NZYM-AL).</td></tr>
+<tr><td>Triaglycerol Lipase (EC 3.1.1.3) *Lebensmittelenzym zur Verwendung bei der Fetthydrolyse von getreidehaltigen Lebens**- mitteln bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus oryzae* (Stamm NZYM-LH).</td></tr>
+<tr><td>Triaglycerol Lipase (EC 3.1.1.3) *Lebensmittelenzym zur Verwendung bei der Verarbeitung von Eiern, Ölen und Fetten.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus oryzae* (Stamm NZYM-FL).</td></tr>
+<tr><td>Triaglycerol Lipase (EC 3.1.1.3) *Lebensmittelenzym zur Verwendung bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus niger* (Stamm LFS).</td></tr>
 </table>
 
-[^annex3-lvlu1-1]: IUBMB-Nummer für die Enzym-Nomenklatur
-[^annex3-lvlu1-2]: Verordnung (EU) 2015/2283 des Europäischen Parlaments und des Rates vom 25. November 2015 über neuartige Lebensmittel, zur Änderung der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EG) Nr. 258/97 des Europäischen Parlaments und des Rates und der Verordnung (EG) Nr. 1852/2001 der Kommission; Fassung gemäss ABl. L 327 vom 11.12.2015, S. 1.
+[^annex3-lvlu1-1]: Verordnung (EU) 2015/2283 des Europäischen Parlaments und des Rates vom 25. November 2015 über neuartige Lebensmittel, zur Änderung der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EG) Nr. 258/97 des Europäischen Parlaments und des Rates und der Verordnung (EG) Nr. 1852/2001 der Kommission; zuletzt geändert durch Verordnung (EU) 2019/1381, ABl. L 231 vom 6.9.2019, S. 1.

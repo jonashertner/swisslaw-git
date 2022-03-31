@@ -4,11 +4,11 @@ title: Ordonnance du DFI du 27 mai 2020 sur les denrées alimentaires génétiqu
 short: ODAlGM
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/456"
 language: fr
-version: 2021-09-01
+version: 2022-04-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20210901/fr/xml/fedlex-data-admin-ch-eli-cc-2020-456-20210901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20210901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2020-456-20220401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20220401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20210901/fr"
 
 (ODAlGM)
 
-du 27 mai 2020 (Etat le 1<sup>er</sup> septembre 2021)
+du 27 mai 2020 (Etat le 1<sup>er</sup> avril 2022)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -335,16 +335,32 @@ Annexe 3*[^t-1]*
 
 ## Produits OGM qui peuvent être mis sur le marché sans autorisation de l’OSAV
 
-[^t-1]: Mise à jour par le ch. I de l’O du DFI du 11 août 2021, en vigueur depuis le 1<sup>er</sup> sept. 2021 ([RO 2021 483](https://fedlex.data.admin.ch/eli/oc/2021/483)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 142](https://fedlex.data.admin.ch/eli/oc/2022/142)).
 
 Aucune autorisation de l’OSAV n’est requise pour la mise sur le marché en Suisse des produits OGM qui remplissent les conditions figurant dans la deuxième colonne du tableau. L’OSAV établit et publie la liste de ces produits.
 
 <table>
-<tr><td>Produits OGM</td><td>Prescriptions à respecter</td></tr>
-<tr><td>Endo-1,4-β-xylanase (EC 3.2.1.8[^annex3-lvlu1-1]) *Enzyme alimentaire utilisée pour le trai**tement de la fécule, pour la production de boissons* *alcooliques* *à base de céréales, pour le* *brassage* *de boissons à base de céréales et dans des processus de boulangerie.*</td><td>Produite par le micro-organisme génétiquement modifié *Aspergillus orzyae* (souche NZYM-FB).</td></tr>
-<tr><td>Phospholipase A2 (EC 3.1.1.43) *Enzyme alimentaire utilisée pour le traitement des œufs et des huiles et graisses végétales crues et dans des processus de boulangerie.*</td><td>Produite par le micro-organisme génétiquement modifié *Aspergillus niger* (souche PLA-54).</td></tr>
-<tr><td>Produits OGM qui correspondent à la définition de l’art. 31, al. 4, ODAlOUs et qui peuvent être mis sur le marché en vertu du règlement (CE) 2015/2283[^annex3-lvlu1-2].</td><td>Les prescriptions fixées dans les décisions d’exécution et dans les notifications doivent être respectées. La personne nommée comme destinataire dans la décision d’exécution ou dans la notification est réputée titulaire de l’autorisation. Le produit nommé peut être mis sur le marché uniquement par cette personne ou par des personnes ayant obtenu son accord.</td></tr>
+<tr><th>Produit OGM</th><th>Prescriptions à respecter</th></tr>
+<tr><td>4-alpha-D-glucane alpha-maltohydrolase (EC 3.2.1.133) *Enzyme alimentaire utilisée dans des processus de boulangerie*</td><td>Produite par le micro-organisme génétiquement modifié *Saccharomyces cerevisiae* (souche LALL-MA)</td></tr>
+<tr><td>4 alpha-D-glucane glucanohydrolase (EC 3.2.1.1) *Enzyme alimentaire utilisée dans des processus de boulangerie*</td><td>Produite par le micro-organisme génétiquement modifié *Bacillus subtilis* (souche NBA)</td></tr>
+<tr><td>Alpha-acétolactate décarboxylase (EC 4.1.1.5) *Enzyme alimentaire utilisée pour la distillation de boissons alcooliques et le brassage*</td><td>Produite par le micro-organisme génétiquement modifié *Bacillus licheniformis* (souche NZYM‑JB)</td></tr>
+<tr><td>Bêta-D-glucose : oxygène 1-oxydoréductase (EC 1.1.3.4) *Enzyme alimentaire utilisée dans des processus de boulangerie*</td><td>Produite par le micro-organisme génétiquement modifié *Aspergillus orzyae* (souche NZYM‑KP)</td></tr>
+<tr><td>Bêta-D-glucose : oxygène 1-oxydoréductase (EC 1.1.3.4) *Enzyme alimentaire utilisée dans des processus de boulangerie*</td><td>Produite par le micro-organisme génétiquement modifié *Aspergillus niger* (souche ZGL)</td></tr>
+<tr><td>Endo-1,4-bêta-xylanase (EC 3.2.1.8) *Enzyme alimentaire utilisée dans la transformation de la fécule, dans la production de boissons alcooliques à base de céréales**, dans le brassage de boissons à base de céréales et dans des processus de boulangerie*</td><td>Produite par le micro-organisme génétiquement modifié *Aspergillus oryzae* (souche NZYM‑FB)</td></tr>
+<tr><td>Endo-1,4-bêta-xylanase (EC 3.2.1.8) *Enzyme alimentaire utilisée dans la transformation de la fécule de denrées alimentaires contenant des céréales, dans des processus de boulangerie*</td><td>Produite par le micro-organisme génétiquement modifié *Bacillus licheniformis* (souche NZYM‑CE)</td></tr>
+<tr><td>Endo-1,4-bêta-xylanase (EC 3.2.1.8) *Enzyme alimentaire utilisée dans la transformation de la fécule de denrées alimentaires contenant des céréales, dans des processus de boulangerie*</td><td>Produite par le micro-organisme génétiquement modifié *Aspergillus oryzae* (souche NZYM‑FA)</td></tr>
+<tr><td>Endo-1,4-bêta-xylanase (EC 3.2.1.8) *Enzyme alimentaire utilisée pour le brassage et dans des processus de boulangerie*</td><td>Produite par le micro-organisme génétiquement modifié *Aspergillus niger* (souche XEA)</td></tr>
+<tr><td>Glucane 1,4‐alpha-maltohydrolase (EC 3.2.1.133) *Enzyme alimentaire utilisée dans la* *transformation* *de la fécule dans des processus de boulangerie*</td><td>Produite par le micro-organisme génétiquement modifié *Bacillus subtil**is* (souche NZYM-OC)</td></tr>
+<tr><td>Glucane 1,4‐alpha‐maltohydrolase (EC 3.2.1.133) *Enzyme alimentaire utilisée dans la* *transformation* *de la fécule dans des processus de boulangerie*</td><td>Produite par le micro-organisme génétiquement modifié *Bacillus subtilis* (souche NZYM-SO)</td></tr>
+<tr><td>Glucane 1,4‐alpha‐maltohydrolase (EC 3.2.1.133) *Enzyme alimentaire utilisée dans la* *transformation* *de la fécule dans des processus de boulangerie*</td><td>Produite par le micro-organisme génétiquement modifié *Bacillus subtilis* (souche ROM)</td></tr>
+<tr><td>Produits OGM qui correspondent à la définition de l’art. 31, al. 4, ODAlOUs et qui peuvent être mis sur le marché en vertu du règlement (CE) 2015/2283[^annex3-lvlu1-1]</td><td>Les prescriptions découlant des décisions d’exécution et des notifications doivent être respectées. La personne figurant dans la décision d’exécution ou la notification, à qui la décision ou la notification est destinée, est considérée comme le titulaire de l’autorisation. Le produit cité ne peut être mis sur le marché que par cette personne ou, avec son accord, par d’autres personnes.</td></tr>
+<tr><td>Phospholipase A2 (EC 3.1.1.43) *Enzyme alimentaire utilisée dans la transformation des œufs et des huiles et graisses végétales crues ainsi que dans des processus de boulangerie*</td><td>Produite par le micro-organisme génétiquement modifié *Aspergillus niger* (souche PLA-54).</td></tr>
+<tr><td>Phospholipase C (EC 3.1.4.3) *Enzyme alimentaire utilisée dans la transformation d’huiles et de graisses*</td><td>Produite par le micro-organisme génétiquement modifié *Komagataella phaffii* (souche PRF)</td></tr>
+<tr><td>Protéase à sérine (trypsine) (EC 3.4.21.4) *Enzyme alimentaire utilisée dans la transformation d’aliments d’origine animale et végétale contenant des protéines*</td><td>Produite par le micro-organisme génétiquement modifié *Fusarium venenatum* (souche NZYM‑FG)</td></tr>
+<tr><td>Triacylglycérol lipase (EC 3.1.1.3) *Enzyme alimentaire utilisée pour l’hydrolyse des graisses dans le brassage de boissons à base de céréales et dans des processus de boulangerie, ainsi que pour la transformation d’huiles et de graisses.*</td><td>Produite par le micro-organisme génétiquement modifié *Aspergillus orzyae* (souche NZYM‑AL)</td></tr>
+<tr><td>Triacylglycérol lipase (EC 3.1.1.3) *Enzyme alimentaire utilisée pour l’hydrolyse des graisses de denrées alimentaires contenant des céréales dans des processus de boulangerie*</td><td>Produite par le micro-organisme génétiquement modifié *Aspergillus orzyae* (souche NZYM‑LH)</td></tr>
+<tr><td>Triacylglycérol lipase (EC 3.1.1.3) *Enzyme alimentaire utilisée dans la transformation d’œufs, d’huiles et de graisses*</td><td>Produite par le micro-organisme génétiquement modifié *Aspergillus orzyae* (souche NZYM‑FL)</td></tr>
+<tr><td>Triacylglycérol lipase (EC 3.1.1.3) *Enzyme alimentaire utilisée dans des processus de boulangerie*</td><td>Produite par le micro-organisme génétiquement modifié *Aspergillus niger* (souche LFS)</td></tr>
 </table>
 
-[^annex3-lvlu1-1]: Numéro attribué par l’IUBMB pour la nomenclature des enzymes
-[^annex3-lvlu1-2]: Règlement (UE) 2015/2283 du Parlement européen et du Conseil du 25 novembre 2015 relatif aux nouveaux aliments, modifiant le règlement (UE) n<sup>o</sup> 1169/2011 du Parlement européen et du Conseil en abrogeant le règlement (CE) n<sup>o</sup> 258/97 du Parlement européen et du Conseil et le règlement (CE) n<sup>o</sup> 1852/2001 de la Commission, JO L 327 du 11.12.2015, p. 1.
+[^annex3-lvlu1-1]: Règlement (UE) 2015/2283 du Parlement européen et du Conseil du 25 novembre 2015 relatif aux nouveaux aliments, modifiant le règlement (UE) n<sup>o</sup> 1169/2011 du Parlement européen et du Conseil et abrogeant le règlement (CE) n<sup>o</sup> 258/97 du Parlement européen et du Conseil et le règlement (CE) n<sup>o</sup> 1852/2001 de la Commission; modifié en dernier lieu par le règlement (EU) 2019/1381, JO L 231 du 6.9.2019, p. 1.
