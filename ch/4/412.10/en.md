@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 2002 on Vocational and Professional Education
 short: VPETA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: en
-version: 2022-01-01
+version: 2022-04-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2003-674-20220101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20220401/en/xml/fedlex-data-admin-ch-eli-cc-2003-674-20220401-en-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220401/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Vocational and Professional Education and Training Act, VPETA)
 
-of 13 December 2002 (Status as of 1 January 2022)
+of 13 December 2002 (Status as of 1 April 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -361,10 +361,18 @@ Supervisory activities shall also include the following:
 - c. monitoring examinations and other qualification procedures;
 - d. ensuring that apprenticeship contracts are in line with statutory provisions;
 - e. ensuring that contracting parties abide by the terms of their apprenticeship contracts.
-- [tab] <sup>4</sup> If a joint request is made by education and training providers and the learners, the Cantons shall decide on the following matters:
+
+<sup>4</sup>
+
+If a joint request is made by education and training providers and the learners, the Cantons shall decide on the following matters:
+
 - a. validation of non-formal learning under Article 17 paragraph 5;
 - b. cases referred to in Article 18 paragraph 1.
-- [tab] <sup>5</sup> Within the framework of their supervisory activities, the Cantons may:
+
+<sup>5</sup>
+
+Within the framework of their supervisory activities, the Cantons may:
+
 - a. claim back all or part of the federal funding given to the third parties referred to in Article 52 paragraph 2 sentence 2;
 - b. terminate an apprenticeship contract.
 
@@ -939,11 +947,14 @@ The Confederation and the Cantons may delegate implementation to professional or
 
 #### Art. 68
 
-**Recognition of foreign vocational and professional qualifications; International cooperation and mobility**
+**Recognition of foreign vocational and professional qualifications[^68-1]**
 
 <sup>1</sup> The Federal Council shall establish criteria for the recognition of foreign vocational and professional qualifications that fall within the scope of application of this Act.
 
-<sup>2</sup> Under its own authority, the Federal Council may enter into international agreements intended to encourage international cooperation and mobility within the VET and professional education sectors.
+<sup>2</sup> The Federal Council may independently enter into international agreements on the recognition of foreign vocational and professional qualifications.[^68-2]
+
+[^68-1]: Amended by Art. 13 of the FA of 25 Sept. 2020 on International Cooperation and Mobility in Education, in force since 1 April 2022 ([AS 2022 164](https://fedlex.data.admin.ch/eli/oc/2022/164); [BBl 2019 8327](https://fedlex.data.admin.ch/eli/fga/2019/2840)).
+[^68-2]: Amended by Art. 13 of the FA of 25 Sept. 2020 on International Cooperation and Mobility in Education, in force since 1 April 2022 ([AS 2022 164](https://fedlex.data.admin.ch/eli/oc/2022/164); [BBl 2019 8327](https://fedlex.data.admin.ch/eli/fga/2019/2840)).
 
 #### Art. 69
 
@@ -1029,6 +1040,6 @@ The following enactments are amended as follows:
 
 …[^annexu1-lvlu1-3]
 
-[^annexu1-lvlu1-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)No I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 No 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 No 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 para. 2 and Annex No 1, **1998** 1822 Art. 2, **1999** 2374 No I 2, **2003** 187 Annex No II 2]
+[^annexu1-lvlu1-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)No I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 No 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 No 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 para. 2 and Annex No 1; **1998** 1822 Art. 2; **1999** 2374 No I 2; **2003** 187 Annex No II 2]
 [^annexu1-lvlu1-2]: [[AS 1992 1973](https://fedlex.data.admin.ch/eli/oc/1992/1973_1973_1973)]
 [^annexu1-lvlu1-3]: The amendments may be consulted under [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674).

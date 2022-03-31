@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 2002 über die Berufsbildung (Berufsbildun
 short: BBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: de
-version: 2022-01-01
+version: 2022-04-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2003-674-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2003-674-20220401-de-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220101/de"
 
 (Berufsbildungsgesetz, BBG)
 
-vom 13. Dezember 2002 (Stand am 1. Januar 2022)
+vom 13. Dezember 2002 (Stand am 1. April 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -277,7 +277,7 @@ Die Bildungsverordnungen regeln insbesondere:
 
 <sup>3</sup> Die Qualifikationsverfahren für die nicht formalisierten Bildungen orientieren sich an den entsprechenden Bildungsverordnungen.
 
-<sup>4</sup> ...[^19-2]
+<sup>4</sup> …[^19-2]
 
 [^19-1]: Ausdruck gemäss Ziff. I 8 der V vom 15. Juni 2012 (Neugliederung der Departemente), in Kraft seit 1. Jan. 2013 ([AS 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^19-2]: Eingefügt durch Art. 21 Ziff. 2 des Publikationsgesetzes vom 18. Juni 2004 ([AS 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [BBl 2003 7711](https://fedlex.data.admin.ch/eli/fga/2003/1274)). Aufgehoben durch Anhang Ziff. 4 des BG vom 26. Sept. 2014, mit Wirkung seit 1. Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
@@ -359,10 +359,18 @@ Gegenstand der Aufsicht sind darüber hinaus insbesondere:
 - c. die Prüfungen und andere Qualifikationsverfahren;
 - d. die Einhaltung der gesetzlichen Bestimmungen im Lehrvertrag;
 - e. die Einhaltung des Lehrvertrags durch die Vertragsparteien.
-- [tab] <sup>4</sup> Der Kanton entscheidet auf gemeinsamen Antrag der Anbieter der Berufsbildung und der Lernenden über:
+
+<sup>4</sup>
+
+Der Kanton entscheidet auf gemeinsamen Antrag der Anbieter der Berufsbildung und der Lernenden über:
+
 - a. die Gleichwertigkeit nicht formalisierter Bildungen nach Artikel 17 Absatz 5;
 - b. Fälle nach Artikel 18 Absatz 1.
-- [tab] <sup>5</sup> Die Kantone können im Rahmen ihrer Aufsicht insbesondere:
+
+<sup>5</sup>
+
+Die Kantone können im Rahmen ihrer Aufsicht insbesondere:
+
 - a. weitergeleitete Beiträge nach Artikel 52 Absatz 2 zweiter Satz ganz oder teilweise zurückfordern;
 - b. einen Lehrvertrag aufheben.
 
@@ -520,7 +528,7 @@ Nur Inhaberinnen und Inhaber eines Abschlusses der beruflichen Grundbildung und 
 
 <sup>1</sup> Das eidgenössische Berufsmaturitätszeugnis erhält, wer ein eidgenössisches Fähigkeitszeugnis besitzt und die vom Bund anerkannte Berufsmaturitätsprüfung bestanden oder ein gleichwertiges Qualifikationsverfahren erfolgreich durchlaufen hat.
 
-<sup>2</sup> ...[^39-1]
+<sup>2</sup> …[^39-1]
 
 <sup>3</sup> Die Kantone sorgen für die Durchführung der Berufsmaturitätsprüfungen und stellen die Zeugnisse aus. Ergänzend kann auch der Bund solche Prüfungen durchführen.
 
@@ -758,7 +766,7 @@ Es bearbeitet im Informationssystem folgende Daten:
 
 - a. Angaben zur Identifikation von Empfängerinnen und Empfängern der Beiträge nach Artikel 56*a* Absätze 1 und 4;
 - b. Angaben zur Identifikation von Absolventinnen und Absolventen von eidgenössischen Berufsprüfungen und eidgenössischen höheren Fachprüfungen nach Artikel 28;
-- c.[^56b-2] ...
+- c.[^56b-2] …
 - d. Angaben über den empfangenen Beitrag nach Artikel 56*a* Absätze 1 und 4;
 - e. Angaben über die absolvierten vorbereitenden Kurse;
 - f. Angaben über die absolvierten eidgenössischen Berufsprüfungen und eidgenössischen höheren Fachprüfungen.
@@ -859,7 +867,7 @@ Rechtsmittelbehörden sind:
 
 - a. eine vom Kanton bezeichnete kantonale Behörde für Verfügungen kantonaler Behörden und von Anbietern mit kantonalem Auftrag;
 - b.[^61-1] das SBFI für andere Verfügungen von Organisationen ausserhalb der Bundesverwaltung;
-- c. und d.[^61-2] ...
+- c. und d.[^61-2] …
 
 <sup>2</sup> Im Übrigen richtet sich das Verfahren nach den allgemeinen Bestimmungen über die Bundesverwaltungsrechtspflege.
 
@@ -937,11 +945,14 @@ Bund und Kantone können Organisationen der Arbeitswelt Vollzugsaufgaben übertr
 
 #### Art. 68
 
-**Anerkennung ausländischer Diplome und Ausweise; internationale Zusammenarbeit und Mobilität**
+**Anerkennung ausländischer Diplome und Ausweise[^68-1]**
 
 <sup>1</sup> Der Bundesrat regelt die Anerkennung ausländischer Diplome und Ausweise der Berufsbildung im Geltungsbereich dieses Gesetzes.
 
-<sup>2</sup> Zur Förderung der internationalen Zusammenarbeit und Mobilität in der Berufsbildung kann der Bundesrat in eigener Zuständigkeit internationale Vereinbarungen abschliessen.
+<sup>2</sup> Im Bereich der Anerkennung ausländischer Diplome und Ausweise der Berufsbildung kann der Bundesrat selbstständig völkerrechtliche Verträge abschliessen.[^68-2]
+
+[^68-1]: Fassung gemäss Art. 13 des BG vom 25. Sept. 2020 über die internationale Zusammenarbeit und Mobilität in der Bildung, in Kraft seit 1. April 2022 ([AS 2022 164](https://fedlex.data.admin.ch/eli/oc/2022/164); [BBl 2019 8327](https://fedlex.data.admin.ch/eli/fga/2019/2840)).
+[^68-2]: Fassung gemäss Art. 13 des BG vom 25. Sept. 2020 über die internationale Zusammenarbeit und Mobilität in der Bildung, in Kraft seit 1. April 2022 ([AS 2022 164](https://fedlex.data.admin.ch/eli/oc/2022/164); [BBl 2019 8327](https://fedlex.data.admin.ch/eli/fga/2019/2840)).
 
 #### Art. 69
 
@@ -1025,8 +1036,8 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annexu1-lvlu1-3]
+…[^annexu1-lvlu1-3]
 
-[^annexu1-lvlu1-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687);[1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 Ziff. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 Ziff. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 Abs. 2 und Anhang Ziff. 1; **1998** 1822 Art. 2; **1999** 2374 Ziff. I 2; **2003** 187 Anhang Ziff. II 2]
+[^annexu1-lvlu1-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 Ziff. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 Ziff. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 Abs. 2 und Anhang Ziff. 1; **1998** 1822 Art. 2; **1999** 2374 Ziff. I 2; **2003** 187 Anhang Ziff. II 2]
 [^annexu1-lvlu1-2]: [[AS 1992 1973](https://fedlex.data.admin.ch/eli/oc/1992/1973_1973_1973)]
 [^annexu1-lvlu1-3]: Die Änderungen können unter [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)konsultiert werden.

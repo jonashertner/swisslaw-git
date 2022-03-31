@@ -4,11 +4,11 @@ title: Loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFP
 short: LFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: fr
-version: 2022-01-01
+version: 2022-04-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-674-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2003-674-20220401-fr-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220101/fr"
 
 (LFPr)
 
-du 13 décembre 2002 (Etat le 1<sup>er</sup> janvier 2022)
+du 13 décembre 2002 (État le 1<sup>er</sup> avril 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -263,7 +263,7 @@ La formation professionnelle initiale se déroule en règle générale dans les 
 
 **Ordonnances sur la formation**
 
-<sup>1</sup> Le Secrétariat d’Etat à la formation, à la recherche et à l’innovation (SEFRI)[^19-1] édicte des ordonnances portant sur la formation professionnelle initiale. Il le fait à la demande des organisations du monde du travail ou, au besoin, de son propre chef.
+<sup>1</sup> Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI)[^19-1] édicte des ordonnances portant sur la formation professionnelle initiale. Il le fait à la demande des organisations du monde du travail ou, au besoin, de son propre chef.
 
 <sup>2</sup>
 
@@ -294,7 +294,7 @@ Les ordonnances sur la formation fixent en particulier:
 
 #### Art. 21
 
-**Ecole professionnelle**
+**École professionnelle**
 
 <sup>1</sup> L’école professionnelle dispense la formation scolaire. Celle-ci comprend un enseignement professionnel et un enseignement de culture générale.
 
@@ -424,7 +424,7 @@ La formation professionnelle supérieure s’acquiert:
 
 #### Art. 29
 
-**Ecoles supérieures**
+**Écoles supérieures**
 
 <sup>1</sup> La personne qui souhaite être admise à suivre une formation reconnue par la Confédération et dispensée par une école supérieure doit disposer d’une expérience professionnelle dans le domaine concerné, à moins qu’une telle expérience ne soit intégrée dans la filière de formation.
 
@@ -544,7 +544,7 @@ Seuls les titulaires d’un diplôme sanctionnant une formation professionnelle 
 
 #### Art. 41
 
-**Emoluments**
+**Émoluments**
 
 <sup>1</sup> Aucun émolument ne peut être exigé des prestataires de la formation à la pratique professionnelle ni des candidats à l’obtention d’une attestation fédérale de formation professionnelle, d’un certificat fédéral de capacité ou d’un certificat fédéral de maturité professionnelle.
 
@@ -572,7 +572,7 @@ Seuls les titulaires d’un diplôme sanctionnant une formation professionnelle 
 
 #### Art. 44
 
-**Ecoles supérieures**
+**Écoles supérieures**
 
 <sup>1</sup> La personne qui a réussi l’examen ou suivi avec succès une procédure de qualification équivalente dans une école supérieure obtient un diplôme de l’école.
 
@@ -946,11 +946,14 @@ La Confédération et les cantons peuvent confier des tâches d’exécution de 
 
 #### Art. 68
 
-**Reconnaissance des diplômes et des certificats étrangers; coopération et mobilité internationales**
+**Reconnaissance des diplômes et des certificats étrangers[^68-1]**
 
 <sup>1</sup> Le Conseil fédéral règle la reconnaissance des diplômes et des certificats étrangers de la formation professionnelle couverte par la présente loi.
 
-<sup>2</sup> Il peut conclure de sa propre autorité des accords internationaux encourageant la coopération et la mobilité internationales dans le domaine de la formation professionnelle.
+<sup>2</sup> Il peut conclure de sa propre autorité des accords internationaux dans le domaine de la reconnaissance des diplômes et des certificats étrangers de la formation professionnelle.[^68-2]
+
+[^68-1]: Nouvelle teneur selon l’art. 13 de la LF du 25 sept. 2020 sur la coopération et la mobilité internationales en matière de formation, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 164](https://fedlex.data.admin.ch/eli/oc/2022/164); [FF 2019 7875](https://fedlex.data.admin.ch/eli/fga/2019/2840)).
+[^68-2]: Nouvelle teneur selon l’art. 13 de la LF du 25 sept. 2020 sur la coopération et la mobilité internationales en matière de formation, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 164](https://fedlex.data.admin.ch/eli/oc/2022/164); [FF 2019 7875](https://fedlex.data.admin.ch/eli/fga/2019/2840)).
 
 #### Art. 69
 
@@ -960,7 +963,7 @@ La Confédération et les cantons peuvent confier des tâches d’exécution de 
 
 <sup>2</sup> La commission se compose de quinze membres au plus représentant la Confédération, les cantons, les organisations du monde du travail et les milieux scientifiques. Les cantons peuvent proposer trois membres.
 
-<sup>3</sup> La commission est dirigée par le secrétaire d’Etat à la formation, à la recherche et à l’innovation[^69-1].
+<sup>3</sup> La commission est dirigée par le secrétaire d’État à la formation, à la recherche et à l’innovation[^69-1].
 
 <sup>4</sup> Le SEFRI assure le secrétariat de la commission.
 
@@ -1036,7 +1039,7 @@ II
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annexu1-lvlu1-3]
+…[^annexu1-lvlu1-3]
 
 [^annexu1-lvlu1-1]: [[RO 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)ch. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 al. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)app. ch. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 ch. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 al. 2, annexe ch. 1, [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 2, [1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363)ch. I 2, [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)annexe ch. II 2]
 [^annexu1-lvlu1-2]: [[RO 1992 1973](https://fedlex.data.admin.ch/eli/oc/1992/1973_1973_1973)]

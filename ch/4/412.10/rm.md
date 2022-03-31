@@ -4,11 +4,11 @@ title: Lescha federala dals 13 da december 2002 davart la furmaziun professiunal
 short: LFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: rm
-version: 2022-01-01
+version: 2022-04-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-2003-674-20220101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20220401/rm/xml/fedlex-data-admin-ch-eli-cc-2003-674-20220401-rm-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220401/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LFPr)
 
-dals 13 da december 2002 (versiun dal 1. da schaner 2022)
+dals 13 da december 2002 (versiun dal 1. d’avrigl 2022)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -361,10 +361,18 @@ Objects da surveglianza èn ultra da quai en spezial:
 - c. ils examens ed autras proceduras da qualificaziun;
 - d. l’observaziun da las disposiziuns legalas dal contract d’emprendissadi;
 - e. l’observaziun dal contract d’emprendissadi tras las partidas.
-- [tab] <sup>4</sup> Sin ina proposta communabla dals purschiders da la furmaziun professiunala sco er dals emprendists decida il chantun davart:
+
+<sup>4</sup>
+
+Sin ina proposta communabla dals purschiders da la furmaziun professiunala sco er dals emprendists decida il chantun davart:
+
 - a. l’equivalenza da las furmaziuns professiunalas betg formalas tenor l’artitgel 17 alinea 5;
 - b. ils cas tenor l’artitgel 18 alinea 1.
-- [tab] <sup>5</sup> En il rom da lur surveglianza pon ils chantuns en spezial:
+
+<sup>5</sup>
+
+En il rom da lur surveglianza pon ils chantuns en spezial:
+
 - a. pretender la restituziun totala u parziala da contribuziuns ch’els han concedì tenor l’artitgel 52 alinea 2 segunda frasa;
 - b. annullar in contract d’emprendissadi.
 
@@ -939,11 +947,14 @@ La Confederaziun ed ils chantuns pon surdar incumbensas executivas ad organisazi
 
 #### Art. 68
 
-**Renconuschientscha da diploms e d’attestats esters; collavuraziun e mobilitad internaziunala**
+**Renconuschientscha da diploms e d’attestats esters[^68-1]**
 
 <sup>1</sup> Il Cussegl federal regla la renconuschientscha da diploms e d’attestats esters da la furmaziun professiunala en il champ d’applicaziun da questa lescha.
 
-<sup>2</sup> Il Cussegl federal po concluder en atgna cumpetenza cunvegnas internaziunalas per promover la collavuraziun e la mobilitad internaziunala en il champ da la furmaziun professiunala.
+<sup>2</sup> En il sectur da la renconuschientscha da diploms e d’attestats esters da la furmaziun professiunala po il Cussegl federal concluder en atgna cumpetenza contracts internaziunals.[^68-2]
+
+[^68-1]: Versiun tenor l’art. 13 da la LF dals 25 da sett. 2020 davart la collavuraziun e la mobilitad internaziunala en il sectur da la furmaziun, en vigur dapi il 1. d’avrigl 2022 ([AS 2022 164](https://fedlex.data.admin.ch/eli/oc/2022/164); [BBl 2019 8327](https://fedlex.data.admin.ch/eli/fga/2019/2840)).
+[^68-2]: Versiun tenor l’art. 13 da la LF dals 25 da sett. 2020 davart la collavuraziun e la mobilitad internaziunala en il sectur da la furmaziun, en vigur dapi il 1. d’avrigl 2022 ([AS 2022 164](https://fedlex.data.admin.ch/eli/oc/2022/164); [BBl 2019 8327](https://fedlex.data.admin.ch/eli/fga/2019/2840)).
 
 #### Art. 69
 

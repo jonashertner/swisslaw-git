@@ -4,11 +4,11 @@ title: "Legge federale del 13 dicembre 2002 sulla formazione professionale (Legg
 short: LFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: it
-version: 2022-01-01
+version: 2022-04-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2003-674-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2003-674-20220401-it-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20220101/it"
 
 (Legge sulla formazione professionale, LFPr)
 
-del 13 dicembre 2002 (Stato 1° gennaio 2022)
+del 13 dicembre 2002 (Stato 1° aprile 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -196,8 +196,8 @@ Il Consiglio federale può adottare, nel limite dei mezzi disponibili, provvedim
 Essa comprende in particolare la trasmissione e acquisizione:
 
 - a. delle qualifiche professionali specifiche che consentano di esercitare in modo competente e sicuro un’attività professionale;
-- a. della cultura generale di base che consenta di accedere al mondo del lavoro, di affermarvisi e di integrarsi nella società;
-- b. delle conoscenze e delle competenze economiche, ecologiche, sociali e culturali che consentano di contribuire a uno sviluppo sostenibile;
+- b. della cultura generale di base che consenta di accedere al mondo del lavoro, di affermarvisi e di integrarsi nella società;
+- c. delle conoscenze e delle competenze economiche, ecologiche, sociali e culturali che consentano di contribuire a uno sviluppo sostenibile;
 - d. dell’attitudine e della disponibilità ad apprendere vita natural durante e a valutare e decidere autonomamente.
 
 <sup>3</sup> La formazione professionale di base fa seguito alla scuola dell’obbligo o a una qualifica equivalente. Il Consiglio federale stabilisce i criteri secondo i quali fissare l’età minima per il suo inizio.
@@ -948,11 +948,14 @@ La Confederazione e i Cantoni possono affidare a organizzazioni del mondo del la
 
 #### Art. 68
 
-**Riconoscimento di diplomi e certificati esteri; cooperazione e mobilità internazionali**
+**Riconoscimento di diplomi e certificati esteri[^68-1]**
 
 <sup>1</sup> Il Consiglio federale disciplina il riconoscimento dei diplomi e dei certificati esteri di formazione professionale che rientrano nel campo di applicazione della presente legge.
 
-<sup>2</sup> Per promuovere la cooperazione e la mobilità internazionali nella formazione professionale, il Consiglio federale può concludere di moto proprio accordi internazionali.
+<sup>2</sup> Nell’ambito del riconoscimento di diplomi e certificati esteri della formazione professionale il Consiglio federale può concludere autonomamente trattati internazionali.[^68-2]
+
+[^68-1]: Nuovo testo giusta l’art. 13 della LF del 25 set. 2020 sulla cooperazione e la mobilità internazionali in materia di formazione, in vigore dal 1° apr. 2022 ([RU 2022 164](https://fedlex.data.admin.ch/eli/oc/2022/164); [FF 2019 6937](https://fedlex.data.admin.ch/eli/fga/2019/2840)).
+[^68-2]: Nuovo testo giusta l’art. 13 della LF del 25 set. 2020 sulla cooperazione e la mobilità internazionali in materia di formazione, in vigore dal 1° apr. 2022 ([RU 2022 164](https://fedlex.data.admin.ch/eli/oc/2022/164); [FF 2019 6937](https://fedlex.data.admin.ch/eli/fga/2019/2840)).
 
 #### Art. 69
 
