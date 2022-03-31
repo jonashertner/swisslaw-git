@@ -4,20 +4,21 @@ number: "211.61"
 title: Verordnung betreffend die Einführung des Kindes- und Erwachsenenschutzrechts
 short: EV KESR
 language: de
-version: 2022-01-01
-valid_until: 2022-03-31
-version_adopted: 2021-06-25
+version: 2022-04-01
+version_adopted: 2022-01-27
 adopted: 2012-05-03
 in_force: 2013-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/211.61"
-pdf: "http://gdb.ow.ch/api/de/versions/1547/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1608/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung betreffend die Einführung des Kindes- und Erwachsenenschutzrechts
 
-vom 03.05.2012 (Stand 01.01.2022)
+(EV KESR)
+
+vom 03.05.2012 (Stand 01.04.2022)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -103,15 +104,27 @@ beschliesst:
 
 ### 1.2. Mandatsführung
 
+#### Art. 6a
+
+**Zuständigkeit und Organisation a. Kanton**
+
+<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde führt eine Fachstelle für private Beiständinnen und Beistände.
+
+<sup>2</sup> Die Fachstelle ist zuständig für die Organisation der privaten Beiständinnen und Beistände, insbesondere für deren Rekrutierung, Schulung, Beratung und Begleitung.
+
+<sup>3</sup> Die Fachstelle sorgt für eine ausreichende Anzahl an privaten Beiständinnen und Beiständen, welche die erforderliche Eignung mitbringen.
+
 #### Art. 7
 
-**Zuständigkeit, Organisation und Kosten**
+**b. Einwohnergemeinden**
 
-<sup>1</sup> Zuständig für ein Mandat ist jeweils die Einwohnergemeinde am Wohnsitz der betroffenen Person, soweit die Kindes- und Erwachsenenschutzbehörde nichts anderes bestimmt.
+<sup>1</sup> Die Einwohnergemeinden führen zum Zwecke der Übernahme von Kindes- und Erwachsenenschutzaufgaben Berufsbeistandschaften.
 
-<sup>2</sup> Die Einwohnergemeinden sorgen für eine ausreichende Anzahl an berufsmässigen und privaten Beiständinnen und Beiständen, welche die erforderliche Eignung mitbringen. Sie führen zuhanden der Kindes- und Erwachsenenschutzbehörde ein Verzeichnis.
+<sup>1a</sup> Zuständig für ein Mandat ist jeweils die Einwohnergemeinde am Wohnsitz der betroffenen Person, soweit die Kindes- und Erwachsenenschutzbehörde nichts anderes bestimmt.
 
-<sup>3</sup> Können die Entschädigung und der Spesenersatz der Beiständin oder des Beistands nicht aus dem Vermögen der betroffenen Person bezahlt werden, gilt Art. 24 dieser Verordnung.
+<sup>2</sup> Die Einwohnergemeinden sorgen für eine ausreichende Anzahl an berufsmässigen Beiständinnen und Beiständen, welche die erforderliche Eignung mitbringen.
+
+<sup>3</sup> …
 
 #### Art. 8
 
@@ -125,9 +138,15 @@ beschliesst:
 
 **b. Berufsbeistandschaft**
 
-<sup>1</sup> Die Einwohnergemeinden führen zum Zwecke der Übernahme von Kindes- und Erwachsenenschutzaufgaben Berufsbeistandschaften.
+<sup>1</sup> …
 
 <sup>2</sup> Die Berufsbeiständinnen oder Berufsbeistände übernehmen die Aufgaben, insbesondere die Betreuungs- und Verwaltungsmandate, welche die Kindes- und Erwachsenenschutzbehörde nicht einer Privatperson zuweist.
+
+#### Art. 9a
+
+**Kosten**
+
+<sup>1</sup> Können die Entschädigung und der Spesenersatz der Beiständin oder des Beistands nicht aus dem Vermögen der betroffenen Person bezahlt werden, gilt Art. 24 dieser Verordnung.
 
 #### Art. 10
 
@@ -235,6 +254,8 @@ beschliesst:
 
 <sup>1</sup> Unter Vorbehalt besonderer Bestimmungen des kantonalen Rechts und des Bundesrechts sind auf das Verfahren die Bestimmungen des Verwaltungs- und Verwaltungsgerichtsverfahrens[^20-1] anwendbar.
 
+<sup>2</sup> Für gesetzliche und behördlich angesetzte Fristen gilt kein Fristenstillstand. Die Verfahrensbeteiligten sind darauf hinzuweisen.
+
 [^20-1]: GDB [133.21](http://gdb.ow.ch/data/133.21/de) und [134.14](http://gdb.ow.ch/data/134.14/de)
 
 #### Art. 21
@@ -259,7 +280,7 @@ beschliesst:
 
 **Abgeltung der Behördenorganisation**
 
-<sup>1</sup> Die Abgeltung der kantonalen Behördenorganisation (Fachbehörde, unterstützende Dienste, Bewährungshilfe) durch die Einwohnergemeinden beträgt 0,050 Steuereinheiten.
+<sup>1</sup> Die Abgeltung der kantonalen Behördenorganisation (Fachbehörde, unterstützende Dienste, Fachstelle für private Beiständinnen und Beistände, Bewährungshilfe) durch die Einwohnergemeinden beträgt 0,053 Steuereinheiten.
 
 <sup>2</sup> Die Basis für die Berechnung der abzugeltenden Steuereinheiten sind die Steuererträge der Einkommens- und Vermögenssteuern der natürlichen Personen des vorausgehenden Jahres.
 
@@ -326,7 +347,9 @@ beschliesst:
 
 **Wahrnehmung der Aufsicht**
 
-<sup>1</sup> Das Sicherheits- und Justizdepartement nimmt für den Regierungsrat die Aufsicht im Kindes- und Erwachsenenschutz wahr.
+<sup>1</sup> Das Sicherheits- und Sozialdepartement[^30-1] nimmt für den Regierungsrat die Aufsicht im Kindes- und Erwachsenenschutz wahr.
+
+[^30-1]: Die Departementsbezeichnung wurde in Anwendung von Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) auf den 1. Juli 2022 (OGS 2022, 20) angepasst
 
 #### Art. 31
 
@@ -369,6 +392,8 @@ geändert durch:
 
 \- Nachtrag vom 28. Mai 2020, in Kraft seit 1. Januar 2021 (OGS 2020, 17), Botschaft und Vorlage des Regierungsrats vom 7. April 2020, Sitzung des Kantonsrats vom 28. Mai 2020 (32.20.01/ 23.20.02),
 
-\- Nachtrag zum Gesundheitsgesetz vom 25. Juni 2021 (OGS 2021, 23), Botschaft und Vorlage des Regierungsrats vom 9. März 2021), Kantonsratssitzungen vom 27. Mai und 25. Juni 2021 (22.21.01), Volksabstimmung vom 28. November 2021 (ABl 2021, 1747), in Kraft seit 1. Januar 2022 (OGS 2021, 41)
+\- Nachtrag zum Gesundheitsgesetz vom 25. Juni 2021 (OGS 2021, 23), Botschaft und Vorlage des Regierungsrats vom 9. März 2021), Kantonsratssitzungen vom 27. Mai und 25. Juni 2021 (22.21.01), Volksabstimmung vom 28. November 2021 (ABl 2021, 1747), in Kraft seit 1. Januar 2022 (OGS 2021, 41),
+
+-das Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 27. Januar 2022 (OGS 2022, 1), Botschaft und Vorlage des Regierungsrats vom 7. April 2020, Kantonsratssitzungen vom 1. Juli 2016, 28. Mai 2020, 2. Dezember 2021 und 27. Januar 2022 (22.21.04), in Kraft seit 1. April 2022 (OGS 2022, 5)
 
 OGS 2012, 30
