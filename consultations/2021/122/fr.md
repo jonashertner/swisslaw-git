@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision partielle de l’ordonnance sur les langues
 document: Projet mis en consultation
 language: fr

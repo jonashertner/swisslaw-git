@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision der Sprachenverordnung
 document: Vernehmlassungsvorlage
 language: de
