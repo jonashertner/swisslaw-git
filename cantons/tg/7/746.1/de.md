@@ -1,25 +1,26 @@
 ---
 canton: TG
 number: "746.1"
-title: Verordnung des Regierungsrates zur eidgenössischen Rohrleitungsgesetzgebung
+title: Verordnung zur eidgenössischen Rohrleitungsgesetzgebung
 short: RLV
 language: de
-version: 2011-04-01
-valid_until: 2022-04-01
-version_adopted: 2011-03-08
+version: 2022-04-02
+version_adopted: 2022-03-29
 adopted: 2011-03-08
 in_force: 2011-04-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/746.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2230/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2517/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates zur eidgenössischen Rohrleitungsgesetzgebung
+# Verordnung zur eidgenössischen Rohrleitungsgesetzgebung
 
-RRV Rohrleitungsgesetzgebung (TG RLG)
+RLV
 
-vom 08.03.2011 (Stand 01.04.2011)
+(RLV)
+
+vom 08.03.2011 (Stand 02.04.2022)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -31,9 +32,10 @@ vom 08.03.2011 (Stand 01.04.2011)
 
 <sup>2</sup> Das Departement für Bau und Umwelt vertritt bei Rohrleitungsanlagen, die dem Bundesrecht unterstehen, die kantonalen Interessen gegenüber den Bundesbehörden. Es ist zuständig für die Erteilung der Bewilligung für Bau und Betrieb von Rohrleitungsanlagen gemäss Art. 42 Abs. 1 des Bundesgesetzes über Rohrleitungsanlagen zur Beförderung flüssiger oder gasförmiger Brenn- oder Treibstoffe[^1-1].
 
-<sup>3</sup> Im Übrigen wird der Vollzug dem Amt für Umwelt übertragen.
+<sup>3</sup> Im Übrigen wird der Vollzug dem Amt für Umwelt übertragen. Es bezeichnet die gemäss Art. 4 Abs. 3 der Rohrleitungssicherheitsverordnung (RLSV)[^1-2] zuständige Behörde.
 
 [^1-1]: SR [746.1](https://db.clex.ch/link/Bund/746.1/de)
+[^1-2]: SR [746.12](https://db.clex.ch/link/Bund/746.12/de)
 
 #### § 2
 
@@ -53,9 +55,9 @@ vom 08.03.2011 (Stand 01.04.2011)
 
 **Gesuch**
 
-<sup>1</sup> Das Gesuch um Bewilligung für Bau und Betrieb hat sinngemäss die Angaben nach Art. 6 der Rohrleitungsverordnung[^4-1] zu enthalten.
+<sup>1</sup> Das Gesuch um Bewilligung für Bau und Betrieb hat sinngemäss die Angaben nach Art. 8 der Rohrleitungsverordnung (RLV)[^4-1] zu enthalten.
 
-<sup>2</sup> Dem Gesuch sind die in Art. 8 der Rohrleitungsverordnung aufgeführten Unterlagen beizulegen. Das Amt setzt deren Anzahl fest.
+<sup>2</sup> Dem Gesuch sind insbesondere die in Art. 9 bis Art. 11 RLV aufgeführten Unterlagen beizulegen. Das Amt setzt deren Anzahl fest.
 
 [^4-1]: SR [746.11](https://db.clex.ch/link/Bund/746.11/de)
 
@@ -81,22 +83,20 @@ vom 08.03.2011 (Stand 01.04.2011)
 
 <sup>2</sup> Das Amt kann vom Vernehmlassungsverfahren nach § 5 und von der öffentlichen Auflage und Bekanntmachung nach § 6 absehen:
 
-- 1\. bei örtlich begrenzten Vorhaben mit wenigen, eindeutig bestimmbaren Betroffenen;
-- 2\. bei Ersatz, Änderung oder Umnutzung von Rohrleitungsanlagen, sofern sich das äussere Erscheinungsbild nicht wesentlich verändert, keine schutzwürdigen Interessen Dritter berührt sind und nur unerhebliche Auswirkungen auf Raum und Umwelt entstehen.
+- 1\. bei örtlich begrenzten Vorhaben mit wenigen, eindeutig bestimmbaren Betroffenen
+- 2\. bei Ersatz, Änderung oder Umnutzung von Rohrleitungsanlagen, sofern sich das äussere Erscheinungsbild nicht wesentlich verändert, keine schutzwürdigen Interessen Dritter berührt sind und nur unerhebliche Auswirkungen auf Raum und Umwelt entstehen
 
 <sup>3</sup> Das Amt unterbreitet das Gesuch den Betroffenen, soweit sie nicht vorher schriftlich ihre Einwilligung gegeben haben. Wer ein schutzwürdiges Interesse hat, kann innert 20 Tagen ab der Eröffnung des Gesuches schriftlich und begründet Einsprache beim Amt erheben.
 
 #### § 8
 
-**Bewilligungsdauer**
+**Bewilligung**
 
-<sup>1</sup> Bei der Festsetzung der Bewilligungsdauer sind die Investitionskosten angemessen zu berücksichtigen. Die Bewilligung kann erneuert werden.
+<sup>1</sup> Die Bewilligung ist unbefristet gültig.
 
 <sup>2</sup> Die Übertragung der Bewilligung für Bau und Betrieb auf Dritte bedarf zu ihrer Gültigkeit der Zustimmung der Bewilligungsbehörde.
 
-<sup>3</sup> Art. 32a und Art. 32b des Bundesgesetzes[^8-1] finden sinngemäss Anwendung.
-
-[^8-1]: SR [746.1](https://db.clex.ch/link/Bund/746.1/de)
+<sup>3</sup> …
 
 #### § 9
 
@@ -128,22 +128,22 @@ vom 08.03.2011 (Stand 01.04.2011)
 
 **Betriebsaufsicht**
 
-<sup>1</sup> Die Betriebsaufsicht richtet sich sinngemäss nach Art. 24 und Art. 25 der Rohrleitungsverordnung[^12-1].
+<sup>1</sup> Die Betriebsaufsicht richtet sich sinngemäss nach Art. 28 und Art. 29 RLV.
 
-[^12-1]: SR [746.11](https://db.clex.ch/link/Bund/746.11/de)
+#### § 12a
 
-## 4. Übergangs- und Schlussbestimmungen
+**Betriebssicherheit**
 
-#### § 13
+<sup>1</sup> Die Rohrleitungsanlagen sind in betriebsbereitem und betriebssicherem Zustand zu erhalten.
 
-**Aufhebung bisherigen Rechtes**
+<sup>2</sup> Wird eine Rohrleitungsanlage undicht, so hat die Unternehmung unverzüglich alle geeigneten Massnahmen zu treffen, um das Entstehen oder die Ausbreitung eines Schadens zu verhindern und entstandene Schäden oder Gefahren unverzüglich zu beheben.
 
-<sup>1</sup> Die Verordnung des Regierungsrates zum eidgenössischen Rohrleitungsgesetz vom 28. April 1981 wird aufgehoben.
+<sup>3</sup> Für Gasleitungen, die für einen maximalen Betriebsdruck bis 5 bar erstellt werden, gelten nur Art. 2 und Art. 3 Abs. 1 und Abs. 2 sowie Anhang 1 RLSV.
 
-#### § 14
+## 4.
 
-**Inkrafttreten**
+#### § 13–14
 
-<sup>1</sup> Diese Verordnung tritt auf den 1. April 2011 in Kraft.
+**…**
 
 10/2011
