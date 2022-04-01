@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi sur le transfert du transport de marchandises et arrêté fédéral allouant un plafond de dépenses pour promouvoir le transport ferroviaire de marchandises accompagné à travers les Alpes
 document: Projet mis en consultation-1
 language: fr

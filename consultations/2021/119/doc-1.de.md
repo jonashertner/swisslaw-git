@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Güterverkehrsverlagerungsgesetzes und Bundesbeschluss über einen Zahlungsrahmen für die Förderung des begleiteten alpenquerenden kombinierten Verkehrs
 document: Vernehmlassungsvorlage-2
 language: de

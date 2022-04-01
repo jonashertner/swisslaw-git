@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge sul trasferimento del traffico merci e decreto federale concernente il limite di spesa per il promovimento del traffico combinato accompagnato attraverso le Alpi
 document: Progetto posto in consultazione-1
 language: it
