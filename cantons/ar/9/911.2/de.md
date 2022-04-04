@@ -4,13 +4,13 @@ number: "911.2"
 title: Vorläufige Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 short: kantonale Covid-19-Härtefallverordnung
 language: de
-version: 2022-01-25
-valid_until: 2022-04-04
-version_adopted: 2022-01-25
+version: 2022-04-05
+valid_until: 2022-05-05
+version_adopted: 2022-04-05
 adopted: 2021-01-19
 in_force: 2021-02-01
 url: "https://ar.clex.ch/app/de/texts_of_law/911.2"
-pdf: "https://ar.clex.ch/api/de/versions/1434/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1435/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1434/pdf_file"
 
 (kantonale Covid-19-Härtefallverordnung)
 
-vom 19.01.2021 (Stand 25.01.2022)
+vom 19.01.2021 (Stand 05.04.2022)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -126,7 +126,7 @@ verordnet:
 
 **Gesuchsverfahren**
 
-<sup>1</sup> Härtefallmassnahmen werden auf Gesuch hin gewährt. Gesuche können ab 1. Februar 2021 bis zum 31. März 2022 ausschliesslich elektronisch mittels des bereitgestellten Formulars beim Kanton eingereicht werden.
+<sup>1</sup> Härtefallmassnahmen werden auf Gesuch hin gewährt. Gesuche können ab 1. Februar 2021 bis zum 30. Juni 2022 ausschliesslich elektronisch mittels des bereitgestellten Formulars beim Kanton eingereicht werden.
 
 <sup>2</sup> Das Unternehmen hat in geeigneter Form zu bestätigen, dass alle Angaben im eingereichten Formular vollständig und wahr sind.
 
