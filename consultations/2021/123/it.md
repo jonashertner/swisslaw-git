@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione della legge sul CO2
 document: Progetto posto in consultazione
 language: it

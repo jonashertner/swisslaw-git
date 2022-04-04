@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de la loi sur le CO2
 document: Projet mis en consultation
 language: fr

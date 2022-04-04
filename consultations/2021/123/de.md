@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision des CO2-Gesetzes
 document: Vernehmlassungsvorlage
 language: de
