@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Paquet d’ordonnances environnementales de l’automne 2022
 document: Projet mis en consultation-7
 language: fr

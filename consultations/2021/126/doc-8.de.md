@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnungspaket Umwelt Herbst 2022
 document: Vernehmlassungsvorlage-7
 language: de
