@@ -4,13 +4,13 @@ number: "101.7"
 title: Verordnung 2 über Härtefallmassnahmen für Unternehmen im Zusammenhang mit Covid-19
 short: HFV 2020
 language: de
-version: 2022-02-23
-valid_until: 2022-04-05
-version_adopted: 2022-02-22
+version: 2022-04-06
+valid_until: 2022-04-30
+version_adopted: 2022-04-05
 adopted: 2022-02-22
 in_force: 2022-02-23
 url: "https://bgs.so.ch/app/de/texts_of_law/101.7"
-pdf: "https://bgs.so.ch/api/de/versions/5287/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5288/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5287/pdf_file"
 
 (HFV 2020)
 
-Vom 22.02.2022 (Stand 23.02.2022)
+Vom 22.02.2022 (Stand 06.04.2022)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -147,7 +147,8 @@ beschliesst:
 <sup>1</sup> Nicht zugelassen sind Unternehmen:
 
 - a) an deren Kapital Bund, Kantone oder Gemeinden mit mehr als 12'000 Einwohnerinnen und Einwohnern insgesamt zu mehr als 10 Prozent beteiligt sind;
-- b) die in der Schweiz weder eine Geschäftstätigkeit ausüben noch eigenes Personal beschäftigen.
+- b) die in der Schweiz weder eine Geschäftstätigkeit ausüben noch eigenes Personal beschäftigen;
+- c) welche ihren Sitz gemäss Handelsregistereintrag oder UID-Register per 1. Oktober 2020 in einem anderen Kanton hatten.
 
 ## 4. Bemessungskriterien
 
@@ -169,7 +170,7 @@ beschliesst:
 
 <sup>2</sup> Hat ein Unternehmen gemäss Absatz 1 einen Härtefallbeitrag gestützt auf eine Spartenrechnung erhalten, wird auch ein zusätzlicher Härtefallbeitrag ausschliesslich für die Sparte gewährt.
 
-<sup>3</sup> Hat ein Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken noch keinen Härtefallbeitrag erhalten, im Zeitraum vom 1. Januar 2020 bis 30. Juni 2021 einen Umsatzrückgang von über 40 Prozent gegenüber dem durchschnittlichen Umsatz der Jahre 2018 und 2019 erlitten und erfüllt die übrigen Zulassungskriterien, kann es ein Gesuch für einen Umsatzrückgang für das Jahr 2020 oder einer späteren Periode von 12 Monaten sowie für einen Umsatzrückgang vom 1. Juli 2021 bis 31. Dezember 2021 einreichen.
+<sup>3</sup> Hat ein Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken noch keinen Härtefallbeitrag erhalten, im Zeitraum vom 1. Januar 2020 bis 30. Juni 2021 während 12 aufeinanderfolgenden Monaten einen Umsatzrückgang von über 40 Prozent gegenüber dem durchschnittlichen Umsatz der Jahre 2018 und 2019 erlitten und erfüllt die übrigen Zulassungskriterien, kann es ein Gesuch für einen Umsatzrückgang für das Jahr 2020 oder einer späteren Periode von 12 Monaten sowie für einen Umsatzrückgang vom 1. Juli 2021 bis 31. Dezember 2021 einreichen.
 
 [^12-1]: BGS [101.6](https://bgs.so.ch/data/101.6/de).
 
@@ -220,7 +221,9 @@ beschliesst:
 
 **Massgebliche Basis für die bedingte Gewinnbeteiligung bei Unternehmen mit einem Jahresumsatz über 5 Millionen Franken**
 
-<sup>1</sup> Für die Berechnung der bedingten Gewinnbeteiligung nach Artikel 12 Absatz 1<sup>septies</sup> des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz) vom 25. September 2020[^17-1] massgeblich ist der steuerbare Jahresgewinn 2021 vor Verlustverrechnung nach den Artikeln 58 – 67 des Bundesgesetzes vom 14. Dezember 1990[^17-2] über die direkte Bundessteuer. Vom steuerbaren Jahresgewinn abziehbar ist ausschliesslich ein im Geschäftsjahr 2020 entstandener steuerlich massgeblicher Verlust.
+<sup>1</sup> Für die Berechnung der bedingten Gewinnbeteiligung nach Artikel 12 Absatz 1<sup>septies</sup> des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz) vom 25. September 2020[^17-1] massgeblich ist der steuerbare Jahresgewinn 2021 vor Verlustverrechnung, der sinngemäss nach den Artikeln 58 – 67 des Bundesgesetzes vom 14. Dezember 1990[^17-2] über die direkte Bundessteuer ermittelt wird. Vom steuerbaren Jahresgewinn abziehbar ist ausschliesslich ein im Geschäftsjahr 2020 entstandener steuerlich massgeblicher Verlust.
+
+<sup>2</sup> Aussergewöhnliche Positionen in den Jahresrechnungen 2020 und 2021 können bei der Berechnung der bedingten Gewinnbeteiligung korrigiert werden, soweit sie sich im Rahmen der Vorjahre 2018 und 2019 bewegen oder den steuerbaren Gewinn unzulässig mindern. Als aussergewöhnliche Positionen fallen insbesondere der Eigenlohn von Selbständigerwerbenden sowie Arbeitgeber-Beitragsreserven in Betracht. Eine Korrektur ist auch zugunsten des Unternehmens möglich.
 
 [^17-1]: SR [818.102](https://db.clex.ch/link/Bund/818.102/de).
 [^17-2]: SR [642.11](https://db.clex.ch/link/Bund/642.11/de).
@@ -251,7 +254,7 @@ beschliesst:
 
 <sup>2</sup> Das Steueramt kann dem Volkswirtschaftsdepartement die für die Erfüllung seiner Aufgaben erforderlichen Auskünfte aus Steuerakten erteilen.
 
-<sup>3</sup> Das Volkswirtschaftsdepartement ist berechtigt, dem Steueramt systematisch alle Unternehmen, welche Härtefallbeitrag erhalten haben, sowie den jeweils zugesprochenen Beitrag zu melden.
+<sup>3</sup> Das Volkswirtschaftsdepartement ist berechtigt, dem Steueramt systematisch alle Unternehmen, welche einen Härtefallbeitrag erhalten haben, sowie den jeweils zugesprochenen Beitrag zu melden.
 
 ## 6. Gewährung von Härtefallbeiträgen
 
@@ -261,11 +264,14 @@ beschliesst:
 
 <sup>1</sup> Sofern die Voraussetzungen gemäss dieser Verordnung erfüllt sind, kann das Volkswirtschaftsdepartement Härtefallbeiträge, den Bundes- und den Kantonsbeitrag umfassend, gewähren.
 
-<sup>2</sup> Gegen Verfügungen des Volkswirtschaftsdepartements steht die Beschwerde an das Verwaltungsgericht offen. Das Verfahren richtet sich nach dem Gesetz über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz) vom 15. November 1970[^21-1].
+<sup>1<sup>bis</sup></sup> Hat ein Unternehmen gestützt auf die Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit Covid-19 (Härtefallverordnung-SO) vom 7. Dezember 2020[^21-1] bereits einen Härtefallbeitrag oder eine kantonale Unterstützungsmassnahme erhalten, wird dieser Betrag vom zugesicherten Härtefallbeitrag abgezogen.
+
+<sup>2</sup> Gegen Verfügungen des Volkswirtschaftsdepartements steht die Beschwerde an das Verwaltungsgericht offen. Das Verfahren richtet sich nach dem Gesetz über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz) vom 15. November 1970[^21-2].
 
 <sup>3</sup> Auf die Gewährung von Härtefallbeiträgen gemäss dieser Verordnung besteht kein Rechtsanspruch.
 
-[^21-1]: BGS [124.11](https://bgs.so.ch/data/124.11/de).
+[^21-1]: BGS [101.6](https://bgs.so.ch/data/101.6/de).
+[^21-2]: BGS [124.11](https://bgs.so.ch/data/124.11/de).
 
 #### § 22
 
@@ -334,8 +340,8 @@ beschliesst:
 <sup>1</sup> Das Volkswirtschaftsdepartement kann die dem Kanton Solothurn zustehenden Bundesratsreserven gemäss Artikel 15 der Verordnung über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie (Covid-19-Härtefallverordnung) vom 25. November 2020[^28-1] wie folgt einsetzen:
 
 - a) hat ein Unternehmen bereits eine branchenspezifische Covid-19-Finanzhilfe in den Bereichen Kultur oder Sport erhalten, und ist diese geringer ausgefallen als ein Härtefallbeitrag gemäss dieser Verordnung, wird der Differenzbetrag ausbezahlt;
-- b) hat ein Unternehmen mit einem Jahresumsatz über 5 Millionen Franken aufgrund des Umsatzrückgangs in den Monaten Juli 2021 bis Dezember 2021 einen höheren Anspruch auf Härtefallbeiträge als aufgrund der Obergrenzen gemäss den §§ 14 und 16 ausbezahlt werden könnte, wird ein anteilsmässiger Betrag ausbezahlt. Der ausbezahlte Anteil richtet sich nach den verfügbaren Mitteln der Bundesratsreserve und ist für alle Unternehmen im Verhältnis gleich hoch;
-- c) hat ein Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken aufgrund des Umsatzrückgangs in den Monaten Juli 2021 bis Dezember 2021 einen höheren Anspruch auf Härtefallbeiträge als aufgrund der Obergrenzen gemäss den §§ 13 und 16 ausbezahlt werden könnte, wird ein anteilsmässiger Betrag ausbezahlt. Der ausbezahlte Anteil richtet sich nach den verfügbaren Mitteln der Bundesratsreserve und ist für alle Unternehmen im Verhältnis gleich hoch.
+- b) hat ein Unternehmen mit einem Jahresumsatz über 5 Millionen Franken aufgrund eines Umsatzrückgangs in den Monaten Juli 2021 bis Dezember 2021 einen Anspruch auf einen zusätzlichen Härtefallbeitrag, wird diesem ein anteilsmässiger Betrag ausbezahlt. Der ausbezahlte Anteil richtet sich nach den verfügbaren Mitteln der Bundesratsreserve und ist für alle Unternehmen im Verhältnis gleich hoch. Die Höchstgrenzen gemäss § 14 gelten nicht;
+- c) hat ein Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken aufgrund des Umsatzrückgangs in den Monaten Juli 2021 bis Dezember 2021 einen höheren Anspruch auf Härtefallbeiträge als aufgrund der Höchstgrenzen gemäss den §§ 13 und 16 ausbezahlt werden könnte, wird ein anteilsmässiger Betrag ausbezahlt. Der ausbezahlte Anteil richtet sich nach den verfügbaren Mitteln der Bundesratsreserve und ist für alle Unternehmen im Verhältnis gleich hoch.
 
 <sup>2</sup> Die Höchstgrenze des nominellen Härtefallbeitrages kann bis auf maximal 30 Prozent des durchschnittlichen Jahresumsatzes der Jahre 2018 und 2019 auf 1,5 Millionen Franken bei Unternehmen bis zu 5 Millionen Franken Umsatz und 7,5 Millionen Franken bei Unternehmen über 5 Millionen Franken Umsatz angehoben werden.
 
