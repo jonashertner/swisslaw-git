@@ -3,11 +3,11 @@ sr: "0.732.031.1"
 title: Änderung vom 8. Juli 2005 des Übereinkommens vom 26. Oktober 1979 über den physischen Schutz von Kernmaterial
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/286"
 language: de
-version: 2020-05-20
+version: 2022-04-07
 adopted: 2005-07-08
 in_force: 2016-05-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/286/20200520/de/xml/fedlex-data-admin-ch-eli-cc-2016-286-20200520-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/286/20200520/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/286/20220407/de/xml/fedlex-data-admin-ch-eli-cc-2016-286-20220407-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/286/20220407/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,13 +26,13 @@ Schweizerische Ratifikationsurkunde hinterlegt am 15. Oktober 2008
 
 In Kraft getreten für die Schweiz am 8. Mai 2016
 
-(Stand am 20. Mai 2020)
+(Stand am 7. April 2022)
 
 [^t-1]: [AS 2016 1485](https://fedlex.data.admin.ch/eli/oc/2016/285)
 
-\1. Der Titel des am 26. Oktober 1979*[^t-2]* angenommenen Übereinkommens über den physischen Schutz von Kernmaterial (im Folgenden als «Übereinkommen» bezeichnet) wird durch folgenden Titel ersetzt:
+\1. Der Titel des am 26. Oktober 1979[^ingress-1] angenommenen Übereinkommens über den physischen Schutz von Kernmaterial (im Folgenden als «Übereinkommen» bezeichnet) wird durch folgenden Titel ersetzt:
 
-**Übereinkommen über den physischen Schutz von Kernmaterial und Ker****n****anlagen**
+**Übereinkommen über den physischen Schutz von Kernmaterial und Kernanlagen**
 
 \2. Die Präambel des Übereinkommens wird durch folgenden Wortlaut ersetzt:
 
@@ -44,13 +44,13 @@ in Anerkennung des Rechts aller Staaten auf Entwicklung und Anwendung der Kernen
 
 eingedenk dessen, dass der physische Schutz für den Schutz der öffentlichen Gesundheit und Sicherheit, den Umweltschutz und die nationale und internationale Sicherheit von entscheidender Bedeutung ist,
 
-eingedenk der Ziele und Grundsätze der Charta[^t-3] der Vereinten Nationen betreffend die Wahrung des Weltfriedens und der internationalen Sicherheit sowie die Förderung guter Nachbarschaft, freundschaftlicher Beziehungen und der Zusammenarbeit zwischen den Staaten,
+eingedenk der Ziele und Grundsätze der Charta[^ingress-2] der Vereinten Nationen betreffend die Wahrung des Weltfriedens und der internationalen Sicherheit sowie die Förderung guter Nachbarschaft, freundschaftlicher Beziehungen und der Zusammenarbeit zwischen den Staaten,
 
 in der Erwägung, dass nach Artikel 2 Absatz 4 der Charta der Vereinten Nationen «alle Mitglieder in ihren internationalen Beziehungen jede gegen die territoriale Unversehrtheit oder die politische Unabhängigkeit eines Staates gerichtete oder sonst mit den Zielen der Vereinten Nationen unvereinbare Androhung oder Anwendung von Gewalt» unterlassen,
 
 unter Hinweis auf die Erklärung über Massnahmen zur Beseitigung des internationalen Terrorismus in der Anlage zu der Resolution der Generalversammlung 49/60 vom 9. Dezember 1994,
 
-in dem Wunsch, die möglichen Gefahren des unerlaubten Handels[^t-4] mit Kernmaterial, der rechtswidrigen Aneignung und Verwendung solchen Materials und von Sabotageakten gegen Kernmaterial und Kernanlagen abzuwenden, und in Anbetracht dessen, dass der physische Schutz gegen solche Handlungen ein immer grösseres nationales und internationales Anliegen ist,
+in dem Wunsch, die möglichen Gefahren des unerlaubten Handels[^ingress-3] mit Kernmaterial, der rechtswidrigen Aneignung und Verwendung solchen Materials und von Sabotageakten gegen Kernmaterial und Kernanlagen abzuwenden, und in Anbetracht dessen, dass der physische Schutz gegen solche Handlungen ein immer grösseres nationales und internationales Anliegen ist,
 
 tief besorgt über die weltweite Eskalation aller Arten und Erscheinungsformen terroristischer Handlungen und über die Bedrohungen, die vom internationalen Terrorismus und von der organisierten Kriminalität ausgehen,
 
@@ -62,7 +62,7 @@ in dem Wunsch, durch dieses Übereinkommen einen Beitrag zur weltweiten Stärkun
 
 in dem Wunsch, die weitere internationale Zusammenarbeit zur Festlegung wirksamer Massnahmen für den physischen Schutz von Kernmaterial und Kernanlagen im Einklang mit dem innerstaatlichen Recht eines jeden Vertragsstaats und mit diesem Übereinkommen zu verstärken,
 
-überzeugt, dass dieses Übereinkommen die sichere Nutzung, Lagerung und Beförderung von Kernmaterial und den sicheren Betrieb von Kernanlagen ergänzen sollte[^t-5],
+überzeugt, dass dieses Übereinkommen die sichere Nutzung, Lagerung und Beförderung von Kernmaterial und den sicheren Betrieb von Kernanlagen ergänzen sollte[^ingress-4],
 
 in Anerkennung dessen, dass es auf internationaler Ebene ausgearbeitete Empfehlungen für den physischen Schutz gibt, die von Zeit zu Zeit auf den neuesten Stand gebracht werden und richtungweisend darin sein können, wie mit gegenwärtigen Möglichkeiten ein wirksamer physischer Schutz erreicht werden kann,
 
@@ -70,7 +70,7 @@ ebenfalls in Anerkennung dessen, dass der wirksame physische Schutz von militär
 
 sind wie folgt übereingekommen:
 
-\3. In Artikel 1 des Übereinkommens werden nach Buchstabe*[^t-6]* c zwei neue Buchstaben wie folgt angefügt:
+\3. In Artikel 1 des Übereinkommens werden nach Buchstabe[^ingress-5] c zwei neue Buchstaben wie folgt angefügt:
 
 - d) «Kernanlage» eine Anlage (einschliesslich dazugehöriger Gebäude und Ausrüstung), in der die Herstellung, Verarbeitung, Verwendung, Handhabung, Lagerung oder die endgültige Entsorgung von Kernmaterial stattfindet, wenn eine Beschädigung der Anlage oder Einwirkungen auf die Anlage zu einer erheblichen Strahlenbelastung oder zur Freisetzung erheblicher Mengen radioaktiver Stoffe führen könnten;
 - e) «Sabotageakt» jede gegen eine Kernanlage oder gegen Kernmaterial, das genutzt, gelagert oder befördert wird, gerichtete vorsätzliche Handlung, welche die Gesundheit und Sicherheit des Personals oder der Öffentlichkeit oder welche die Umwelt durch Strahlenbelastung oder Freisetzung radioaktiver Stoffe unmittelbar oder mittelbar gefährden könnte.
@@ -109,7 +109,7 @@ Die Ziele dieses Übereinkommens sind die Erreichung und Aufrechterhaltung eines
 
 \2. Bei der Durchführung des Absatzes 1 wird jeder Vertragsstaat:
 
-- a) einen Rahmen für Gesetzgebung und Vollzug[^t-7] zur Regelung des physischen Schutzes schaffen und aufrechterhalten;
+- a) einen Rahmen für Gesetzgebung und Vollzug[^ingress-6] zur Regelung des physischen Schutzes schaffen und aufrechterhalten;
 - b) eine zuständige Behörde oder zuständige Behörden einrichten oder bestimmen, die für die Durchführung des Rahmens für Gesetzgebung und Vollzug verantwortlich ist beziehungsweise sind; und
 - c) sonstige geeignete Massnahmen treffen, die für den physischen Schutz von Kernmaterial und Kernanlagen erforderlich sind.
 
@@ -125,13 +125,13 @@ Die Verantwortung eines Staates für die Gewährleistung eines ausreichenden Sch
 
 *Grundsatz C:* Rahmen für Gesetzgebung und Vollzug
 
-Der Staat ist verantwortlich für die Schaffung und Aufrechterhaltung eines Rahmens für Gesetzgebung und Vollzug zur Regelung des physischen Schutzes. Dieser Rahmen soll die Schaffung anzuwendender Vorschriften für den physischen Schutz vorsehen und ein System zur Bewertung und Bewilligung[^t-8] oder sonstige Verfahren zur Erteilung von Ermächtigungen enthalten. Dieser Rahmen soll ein System zur Überprüfung von Kernanlagen und des Nukleartransports enthalten, um feststellen zu können, ob anzuwendende Vorschriften und die Bestimmungen der Bewilligung oder des sonstigen Ermächtigungsdokuments eingehalten werden und um Massnahmen zur Durchsetzung der anzuwendenden Vorschriften und Bestimmungen, einschliesslich wirksamer Sanktionen, festzulegen.
+Der Staat ist verantwortlich für die Schaffung und Aufrechterhaltung eines Rahmens für Gesetzgebung und Vollzug zur Regelung des physischen Schutzes. Dieser Rahmen soll die Schaffung anzuwendender Vorschriften für den physischen Schutz vorsehen und ein System zur Bewertung und Bewilligung[^ingress-7] oder sonstige Verfahren zur Erteilung von Ermächtigungen enthalten. Dieser Rahmen soll ein System zur Überprüfung von Kernanlagen und des Nukleartransports enthalten, um feststellen zu können, ob anzuwendende Vorschriften und die Bestimmungen der Bewilligung oder des sonstigen Ermächtigungsdokuments eingehalten werden und um Massnahmen zur Durchsetzung der anzuwendenden Vorschriften und Bestimmungen, einschliesslich wirksamer Sanktionen, festzulegen.
 
 *Grundsatz D:* Zuständige Behörde
 
 Der Staat soll eine zuständige Behörde errichten oder bestimmen, die für die Durchführung des Rahmens für Gesetzgebung und Vollzug verantwortlich ist und mit entsprechenden Befugnissen, Zuständigkeiten, Finanzmitteln und Personal ausgestattet ist, um die ihr übertragenen Aufgaben zu erfüllen. Der Staat soll Massnahmen treffen, um die tatsächliche Unabhängigkeit zwischen den Aufgaben der zuständigen Behörde des Staates und den Aufgaben anderer Stellen, die für die Förderung oder Nutzung von Kernenergie verantwortlich sind, zu gewährleisten.
 
-*Grundsatz E:* Verantwortung des Bewilligungsinhabers[^t-9]
+*Grundsatz E:* Verantwortung des Bewilligungsinhabers[^ingress-8]
 
 Die Verantwortlichkeiten für die Durchführung der verschiedenen Elemente des physischen Schutzes innerhalb eines Staates sollen klar festgelegt werden. Der Staat soll sicherstellen, dass die Verantwortung für die Durchführung des physischen Schutzes von Kernmaterial oder Kernanlagen in erster Linie bei den jeweiligen Bewilligungsinhabern oder Inhabern anderer Ermächtigungsdokumente (zum Beispiel Betreibern oder Versendern) liegt.
 
@@ -251,7 +251,7 @@ Dieses Übereinkommen lässt die Weitergabe von Kerntechnologie für friedliche 
 
 \13. Artikel 16 des Übereinkommens wird durch folgenden Wortlaut ersetzt:
 
-\1. Der Depositar[^t-10] beruft fünf Jahre nach Inkrafttreten der am 8. Juli 2005 angenommenen Änderung eine Konferenz der Vertragsstaaten zur Überprüfung der Durchführung des Übereinkommens und seiner Zweckdienlichkeit im Hinblick auf die Präambel, den gesamten operativen Teil und die Anhänge im Licht der dann herrschenden Umstände ein.
+\1. Der Depositar[^ingress-9] beruft fünf Jahre nach Inkrafttreten der am 8. Juli 2005 angenommenen Änderung eine Konferenz der Vertragsstaaten zur Überprüfung der Durchführung des Übereinkommens und seiner Zweckdienlichkeit im Hinblick auf die Präambel, den gesamten operativen Teil und die Anhänge im Licht der dann herrschenden Umstände ein.
 
 \2. In der Folge kann die Mehrheit der Vertragsstaaten in Zeitabständen von mindestens fünf Jahren die Einberufung weiterer Konferenzen zu demselben Zweck durch Vorlage eines entsprechenden Vorschlags beim Depositar erwirken.
 
@@ -263,148 +263,12 @@ Dieses Übereinkommen lässt die Weitergabe von Kerntechnologie für friedliche 
 
 <sup>e/</sup> Sonstiger Brennstoff, der aufgrund seines ursprünglichen Gehalts an spaltbarem Material unbestrahlt in Kategorie I oder II eingestuft wurde, kann um eine Kategorie heruntergestuft werden, wenn die Strahlung des Brennstoffs unabgeschirmt in einem Meter Abstand mehr als 1 Gray/Stunde (100 rad/h) beträgt.
 
-[^t-2]: [SR 0.732.031](https://fedlex.data.admin.ch/eli/cc/1987/505_505_505)
-[^t-3]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)<sup>, A: «Satzung».</sup>
-[^t-4]: <sup>A: «rechtswidrigen Handels».</sup>
-[^t-5]: <sup>A, D: «soll».</sup>
-[^t-6]: <sup>A: «lit.».</sup>
-[^t-7]: A: «Vollziehung».
-[^t-8]: D: «Genehmigung».
-[^t-9]: D: «Genehmigungsinhabers».
-[^t-10]: A, D: «Verwahrer».
-
-Geltungsbereich am 20. Mai 2020**[^t-11]**
-
-<table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td>Albanien</td><td>26. April</td><td>2013</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Algerien</td><td>25. April</td><td>2007</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Antigua und Barbuda</td><td>17. Dezember</td><td>2009</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Argentinien</td><td>15. November</td><td>2011</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Armenien</td><td>22. Mai</td><td>2013</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Aserbaidschan</td><td>31. März</td><td>2016</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Australien</td><td>17. Juli</td><td>2008</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Bahrain</td><td>9. Juni</td><td>2010</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Bangladesch</td><td>4. Juli</td><td>2017</td><td>4. Juli</td><td>2017</td></tr>
-<tr><td>Belgien\*</td><td>22. Januar</td><td>2013</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Benin</td><td>18. September</td><td>2019</td><td>18. Oktober</td><td>2019</td></tr>
-<tr><td>Bolivien</td><td>18. September</td><td>2017</td><td>18. September</td><td>2017</td></tr>
-<tr><td>Bosnien und Herzegowina</td><td>21. Juni</td><td>2010</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Botsuana</td><td>15. September</td><td>2015</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Bulgarien</td><td>17. März</td><td>2006</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Burkina Faso</td><td>7. August</td><td>2014</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Chile</td><td>12. März</td><td>2009</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>China</td><td>14. September</td><td>2009</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Costa Rica</td><td>4. Mai</td><td>2017</td><td>4. Mai</td><td>2017</td></tr>
-<tr><td>Côte d’Ivoire</td><td>10. Februar</td><td>2016</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Dänemark<sup>\*</sup></td><td>19. Mai</td><td>2010</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Färöer</td><td>24. Oktober</td><td>2017</td><td>24. Oktober</td><td>2017</td></tr>
-<tr><td>Grönland</td><td>24. Oktober</td><td>2017</td><td>24. Oktober</td><td>2017</td></tr>
-<tr><td>Deutschland</td><td>21. Oktober</td><td>2010</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Dominikanische Republik</td><td>22. September</td><td>2014</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Dschibuti</td><td>22. April</td><td>2014</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Ecuador</td><td>27. September</td><td>2017</td><td>27. September</td><td>2017</td></tr>
-<tr><td>El Salvador</td><td>20. Dezember</td><td>2016</td><td>20. Dezember</td><td>2016</td></tr>
-<tr><td>Eritrea</td><td>13. März</td><td>2020</td><td>12. April</td><td>2020</td></tr>
-<tr><td>Estland</td><td>24. Februar</td><td>2009</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Eswatini</td><td>28. September</td><td>2016</td><td>28. Oktober</td><td>2016</td></tr>
-<tr><td>[tab] Europäische Atomgemeinschaft (EURATOM)</td><td>16. Dezember</td><td>2015 B</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Fidschi</td><td>22. Juni</td><td>2008</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Finnland</td><td>17. Juni</td><td>2011</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Frankreich</td><td>1. Februar</td><td>2013</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Gabun</td><td>20. März</td><td>2008</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Georgien</td><td>5. April</td><td>2012</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Ghana</td><td>12. Dezember</td><td>2012</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Griechenland</td><td>13. Dezember</td><td>2011</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Indien</td><td>19. September</td><td>2007</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Indonesien</td><td>27. Mai</td><td>2010</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Irland</td><td>22. September</td><td>2014</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Island</td><td>27. Oktober</td><td>2015</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Israel<sup>\*</sup></td><td>16. März</td><td>2012</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Italien</td><td>8. Juli</td><td>2015</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Jamaika</td><td>10. Januar</td><td>2014</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Japan</td><td>27. Juni</td><td>2014</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Jordanien</td><td>7. Oktober</td><td>2009</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Kamerun</td><td>1. April</td><td>2016</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Kanada</td><td>3. Dezember</td><td>2013</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Kasachstan</td><td>26. April</td><td>2011</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Katar</td><td>11. November</td><td>2014</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Kenia</td><td>1. August</td><td>2007</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Kirgisistan</td><td>26. September</td><td>2016</td><td>26. September</td><td>2016</td></tr>
-<tr><td>Kolumbien</td><td>18. Februar</td><td>2014</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Komoren</td><td>18. November</td><td>2019</td><td>18. November</td><td>2019</td></tr>
-<tr><td>Korea (Süd-)</td><td>29. Mai</td><td>2014</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Kroatien</td><td>11. September</td><td>2006</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Kuba</td><td>16. September</td><td>2013</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Kuwait</td><td>1. April</td><td>2016</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Lesotho</td><td>19. September</td><td>2012</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Lettland</td><td>23. November</td><td>2010</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Libyen</td><td>19. Juli</td><td>2006</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Liechtenstein</td><td>13. Oktober</td><td>2009</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Litauen</td><td>19. Mai</td><td>2009</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Luxemburg</td><td>24. Februar</td><td>2012</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Madagaskar</td><td>3. März</td><td>2017</td><td>3. März</td><td>2017</td></tr>
-<tr><td>Mali</td><td>27. Januar</td><td>2010</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Malta</td><td>16. September</td><td>2013</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Marokko</td><td>10. Dezember</td><td>2015</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Marshallinseln</td><td>30. März</td><td>2016</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Mauretanien</td><td>28. Februar</td><td>2008</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Mexiko</td><td>1. August</td><td>2012</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Moldau</td><td>22. Dezember</td><td>2008</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Monaco</td><td>18. September</td><td>2017</td><td>18. September</td><td>2017</td></tr>
-<tr><td>Montenegro</td><td>1. April</td><td>2016</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Myanmar</td><td>6. Dezember</td><td>2016</td><td>5. Januar</td><td>2017</td></tr>
-<tr><td>Namibia</td><td>16. August</td><td>2017</td><td>16. August</td><td>2017</td></tr>
-<tr><td>Nauru</td><td>14. Juni</td><td>2010</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Neuseeland<sup>\*</sup></td><td>18. März</td><td>2016</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Nicaragua</td><td>8. April</td><td>2016</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Niederlande <sup>a</sup></td><td>17. April</td><td>2011</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Niger</td><td>28. Mai</td><td>2009</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Nigeria</td><td>4. Mai</td><td>2007</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Nordmazedonien</td><td>25. November</td><td>2011</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Norwegen</td><td>20. August</td><td>2009</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Österreich</td><td>18. September</td><td>2006</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Pakistan</td><td>24. März</td><td>2016</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Palästina</td><td>11. Januar</td><td>2018</td><td>10. Februar</td><td>2018</td></tr>
-<tr><td>Panama</td><td>25. Juli</td><td>2018</td><td>25. Juli</td><td>2018</td></tr>
-<tr><td>Paraguay</td><td>11. März</td><td>2016</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Peru</td><td>27. März</td><td>2014</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Polen</td><td>1. Juni</td><td>2007</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Portugal</td><td>26. November</td><td>2010</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Rumänien</td><td>6. Februar</td><td>2007</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Russland</td><td>19. September</td><td>2008</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>San Marino</td><td>18. Februar</td><td>2015</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Saudi-Arabien</td><td>21. Januar</td><td>2011</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Schweden</td><td>23. März</td><td>2012</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Schweiz</td><td>15. Oktober</td><td>2008</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Senegal</td><td>18. Juli</td><td>2017</td><td>18. Juli</td><td>2017</td></tr>
-<tr><td>Serbien</td><td>30. März</td><td>2016</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Seychellen</td><td>9. Januar</td><td>2006</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Singapur</td><td>22. Oktober</td><td>2014</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Slowakei</td><td>7. März</td><td>2013</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Slowenien</td><td>1. September</td><td>2009</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Spanien</td><td>9. November</td><td>2007</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>St. Lucia</td><td>8. November</td><td>2012</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>St. Kitts und Nevis</td><td>11. November</td><td>2019</td><td>11. November</td><td>2019</td></tr>
-<tr><td>Syrien<sup>\*</sup></td><td>5. Dezember</td><td>2019</td><td>4. Januar</td><td>2020</td></tr>
-<tr><td>Tadschikistan</td><td>10. Juli</td><td>2014</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Thailand</td><td>19. Juni</td><td>2018</td><td>19. Juli</td><td>2018</td></tr>
-<tr><td>Tschad</td><td>16. September</td><td>2019</td><td>16. Oktober</td><td>2019</td></tr>
-<tr><td>Tschechische Republik</td><td>30. Dezember</td><td>2010</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Tunesien</td><td>7. Juni</td><td>2010</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Turkmenistan</td><td>22. September</td><td>2005</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Türkei<sup>\*</sup></td><td>8. Juli</td><td>2015</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Ukraine</td><td>24. Dezember</td><td>2008</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Ungarn</td><td>4. Dezember</td><td>2008</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Uruguay</td><td>8. April</td><td>2016</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Usbekistan</td><td>7. Februar</td><td>2013</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Vereinigte Arabische Emirate</td><td>31. Juli</td><td>2009</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Vereinigte Staaten</td><td>31. Juli</td><td>2015</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Vereinigtes Königreich</td><td>8. April</td><td>2010</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Insel Man</td><td>8. April</td><td>2010</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Vietnam</td><td>3. November</td><td>2012</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td>Zypern</td><td>27. Februar</td><td>2013</td><td>8. Mai</td><td>2016</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalten und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Atomenergie-Organisation (IAEA): www.iaea.org/ &gt; Resources &gt; Treaties eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für den europäischen Teil der Niederlande.</td></tr>
-</table>
-
-[^t-11]: [AS 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286), [2017 2541](https://fedlex.data.admin.ch/eli/oc/2017/236), [2018 1203](https://fedlex.data.admin.ch/eli/oc/2018/186), [2020 1869](https://fedlex.data.admin.ch/eli/oc/2020/383). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^ingress-1]: [SR 0.732.031](https://fedlex.data.admin.ch/eli/cc/1987/505_505_505)
+[^ingress-2]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)<sup>, A: «Satzung».</sup>
+[^ingress-3]: <sup>A: «rechtswidrigen Handels».</sup>
+[^ingress-4]: <sup>A, D: «soll».</sup>
+[^ingress-5]: <sup>A: «lit.».</sup>
+[^ingress-6]: A: «Vollziehung».
+[^ingress-7]: D: «Genehmigung».
+[^ingress-8]: D: «Genehmigungsinhabers».
+[^ingress-9]: A, D: «Verwahrer».

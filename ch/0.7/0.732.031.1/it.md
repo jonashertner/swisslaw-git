@@ -3,11 +3,11 @@ sr: "0.732.031.1"
 title: "Modifica dell' 8 luglio 2005 della Convenzione del 26 ottobre 1979 sulla protezione fisica delle materie nucleari"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/286"
 language: it
-version: 2020-05-20
+version: 2022-04-07
 adopted: 2005-07-08
 in_force: 2016-05-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/286/20200520/it/xml/fedlex-data-admin-ch-eli-cc-2016-286-20200520-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/286/20200520/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/286/20220407/it/xml/fedlex-data-admin-ch-eli-cc-2016-286-20220407-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/286/20220407/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,23 +18,15 @@ RU **2016** 1487; FF **2008** 985
 
 *Traduzione*
 
-Conclusa a Vienna l’8 luglio 2005
+Conclusa a Vienna l’8 luglio 2005 Approvata dall’Assemblea federale il 13 giugno 2008[^t-1] Strumento di ratifica depositato dalla Svizzera il 15 ottobre 2008 Entrata in vigore per la Svizzera l’8 maggio 2016
 
-Approvata dall’Assemblea federale il 13 giugno 2008[^t-1]
-
-Strumento di ratifica depositato dalla Svizzera il 15 ottobre 2008
-
-Entrata in vigore per la Svizzera l’8 maggio 2016
-
-(Stato 20 maggio 2020)
+(Stato 7 aprile 2022)
 
 [^t-1]: [RU 2016 1485](https://fedlex.data.admin.ch/eli/oc/2016/285)
 
-\1. Il titolo della Convenzione sulla protezione fisica delle materie nucleari, adottata il 26 ottobre 1979*[^ingress-1]*(qui di seguito denominata «la Convenzione») è sostituito dal titolo seguente:
+\1. Il titolo della Convenzione sulla protezione fisica delle materie nucleari, adottata il 26 ottobre 1979[^ingress-1](qui di seguito denominata «la Convenzione») è sostituito dal titolo seguente:
 
-**Convenzione sulla protezione fisica delle materie nucleari e degli impianti n****u****cleari**
-
-[^ingress-1]: [RS 0.732.031](https://fedlex.data.admin.ch/eli/cc/1987/505_505_505)
+**Convenzione** **sulla protezione fisica delle materie nucleari e degli impianti nucleari**
 
 \2. Il preambolo della Convenzione è sostituito dal testo seguente:
 
@@ -46,7 +38,7 @@ convinti che occorra agevolare la cooperazione internazionale e il trasferimento
 
 consapevoli del fatto che la protezione fisica riveste un’importanza vitale per la tutela della salute pubblica, dell’incolumità, dell’ambiente e della sicurezza nazionale e internazionale;
 
-consapevoli degli scopi e dei principi dello Statuto delle Nazioni Unite[^t-2] circa il mantenimento della pace e della sicurezza internazionale, l’impegno a favore di rapporti di buon vicinato e di amicizia, e la cooperazione tra gli Stati;
+consapevoli degli scopi e dei principi dello Statuto delle Nazioni Unite[^ingress-2] circa il mantenimento della pace e della sicurezza internazionale, l’impegno a favore di rapporti di buon vicinato e di amicizia, e la cooperazione tra gli Stati;
 
 considerando che, ai sensi del paragrafo 4 dell’articolo 2 dello Statuto delle Nazioni Unite, i «Membri devono astenersi nelle loro relazioni internazionali dalla minaccia o dall’uso della forza, sia contro l’integrità territoriale o l’indipendenza politica di qualsiasi Stato, sia in qualunque altra maniera incompatibile con i fini delle Nazioni Unite»;
 
@@ -265,141 +257,5 @@ Nulla, nella presente Convenzione, pregiudica il trasferimento di tecnologia nuc
 
 <sup>e/</sup> Gli altri combustibili che, dato il loro tenore originario in materie fissili, sono classificati in categoria I o II prima dell’irradiazione possono passare nella categoria immediatamente inferiore qualora il livello d’irraggiamento del combustibile non superi 1 gray/ora (100 rads/ora) a 1 metro di distanza e senza schermo.
 
-[^t-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-
-Campo d’applicazione il 20 maggio 2020**[^t-3]**
-
-<table>
-<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td>Albania</td><td>26 aprile</td><td>2013</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Algeria</td><td>25 aprile</td><td>2007</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Antigua e Barbuda</td><td>17 dicembre</td><td>2009</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Arabia Saudita</td><td>21 gennaio</td><td>2011</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Argentina</td><td>15 novembre</td><td>2011</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Armenia</td><td>22 maggio</td><td>2013</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Australia</td><td>17 luglio</td><td>2008</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Austria</td><td>18 settembre</td><td>2006</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Azerbaigian</td><td>31 marzo</td><td>2016</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Bahrein</td><td>9 giugno</td><td>2010</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Bangladesh</td><td>4 luglio</td><td>2017</td><td>4 luglio</td><td>2017</td></tr>
-<tr><td>Belgio\*</td><td>22 gennaio</td><td>2013</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Benin</td><td>18 settembre</td><td>2019</td><td>18 ottobre</td><td>2019</td></tr>
-<tr><td>Bolivia</td><td>18 settembre</td><td>2017</td><td>18 settembre</td><td>2017</td></tr>
-<tr><td>Bosnia ed Erzegovina</td><td>21 giugno</td><td>2010</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Botswana</td><td>15 settembre</td><td>2015</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Bulgaria</td><td>17 marzo</td><td>2006</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Burkina Faso</td><td>7 agosto</td><td>2014</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Camerun</td><td>1° aprile</td><td>2016</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Canada</td><td>3 dicembre</td><td>2013</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Ceca, Repubblica</td><td>30 dicembre</td><td>2010</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Ciad</td><td>16 settembre</td><td>2019</td><td>16 ottobre</td><td>2019</td></tr>
-<tr><td>Cile</td><td>12 marzo</td><td>2009</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Cina</td><td>14 settembre</td><td>2009</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Cipro</td><td>27 febbraio</td><td>2013</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Colombia</td><td>18 febbraio</td><td>2014</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Comore</td><td>18 novembre</td><td>2019</td><td>18 novembre</td><td>2019</td></tr>
-<tr><td>[tab] Comunità europea dell’energia atomica (CEEA/EURATOM)</td><td>16 dicembre</td><td>2015 A</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Corea (Sud)</td><td>29 maggio</td><td>2014</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Costa d’Avorio</td><td>10 febbraio</td><td>2016</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Costa Rica</td><td>4 maggio</td><td>2017</td><td>4 maggio</td><td>2017</td></tr>
-<tr><td>Croazia</td><td>11 settembre</td><td>2006</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Cuba</td><td>16 settembre</td><td>2013</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Danimarca\*</td><td>19 maggio</td><td>2010</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Faeröer, Isole</td><td>24 ottobre</td><td>2017</td><td>24 ottobre</td><td>2017</td></tr>
-<tr><td>Groenlandia</td><td>24 ottobre</td><td>2017</td><td>24 ottobre</td><td>2017</td></tr>
-<tr><td>Dominicana, Repubblica</td><td>22 settembre</td><td>2014</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Ecuador</td><td>27 settembre</td><td>2017</td><td>27 settembre</td><td>2017</td></tr>
-<tr><td>El Salvador</td><td>20 dicembre</td><td>2016</td><td>20 dicembre</td><td>2016</td></tr>
-<tr><td>Emirati Arabi Uniti</td><td>31 luglio</td><td>2009</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Eritrea</td><td>13 marzo</td><td>2020</td><td>12 aprile</td><td>2020</td></tr>
-<tr><td>Estonia</td><td>24 febbraio</td><td>2009</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Eswatini</td><td>28 settembre</td><td>2016</td><td>28 ottobre</td><td>2016</td></tr>
-<tr><td>Figi</td><td>22 giugno</td><td>2008</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Finlandia</td><td>17 giugno</td><td>2011</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Francia</td><td>1° febbraio</td><td>2013</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Gabon</td><td>20 marzo</td><td>2008</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Georgia</td><td>5 aprile</td><td>2012</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Germania</td><td>21 ottobre</td><td>2010</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Ghana</td><td>12 dicembre</td><td>2012</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Giamaica</td><td>10 gennaio</td><td>2014</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Giappone</td><td>27 giugno</td><td>2014</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Gibuti</td><td>22 aprile</td><td>2014</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Giordania</td><td>7 ottobre</td><td>2009</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Grecia</td><td>13 dicembre</td><td>2011</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>India</td><td>19 settembre</td><td>2007</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Indonesia</td><td>27 maggio</td><td>2010</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Irlanda</td><td>22 settembre</td><td>2014</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Islanda</td><td>27 ottobre</td><td>2015</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Israele\*</td><td>16 marzo</td><td>2012</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Italia</td><td>8 luglio</td><td>2015</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Kazakistan</td><td>26 aprile</td><td>2011</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Kenya</td><td>1° agosto</td><td>2007</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Kirghizistan</td><td>26 settembre</td><td>2016</td><td>26 settembre</td><td>2016</td></tr>
-<tr><td>Kuwait</td><td>1° aprile</td><td>2016</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Lesotho</td><td>19 settembre</td><td>2012</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Lettonia</td><td>23 novembre</td><td>2010</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Libia</td><td>19 luglio</td><td>2006</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Liechtenstein</td><td>13 ottobre</td><td>2009</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Lituania</td><td>19 maggio</td><td>2009</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Lussemburgo</td><td>24 febbraio</td><td>2012</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Macedonia del Nord</td><td>25 novembre</td><td>2011</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Madagascar</td><td>3 marzo</td><td>2017</td><td>3 marzo</td><td>2017</td></tr>
-<tr><td>Mali</td><td>27 gennaio</td><td>2010</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Malta</td><td>16 settembre</td><td>2013</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Marocco</td><td>10 dicembre</td><td>2015</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Marshall, Isole</td><td>30 marzo</td><td>2016</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Mauritania</td><td>28 febbraio</td><td>2008</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Messico</td><td>1° agosto</td><td>2012</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Moldova</td><td>22 dicembre</td><td>2008</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Monaco</td><td>18 settembre</td><td>2017</td><td>18 settembre</td><td>2017</td></tr>
-<tr><td>Montenegro</td><td>1° aprile</td><td>2016</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Myanmar</td><td>6 dicembre</td><td>2016</td><td>5 gennaio</td><td>2017</td></tr>
-<tr><td>Namibia</td><td>16 agosto</td><td>2017</td><td>16 agosto</td><td>2017</td></tr>
-<tr><td>Nauru</td><td>14 giugno</td><td>2010</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Nicaragua</td><td>8 aprile</td><td>2016</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Niger</td><td>28 maggio</td><td>2009</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Nigeria</td><td>4 maggio</td><td>2007</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Norvegia</td><td>20 agosto</td><td>2009</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Nuova Zelanda\*</td><td>18 marzo</td><td>2016</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Paesi Bassi <sup>a</sup></td><td>17 aprile</td><td>2011</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Pakistan</td><td>24 marzo</td><td>2016</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Palestina</td><td>11 gennaio</td><td>2018</td><td>10 febbraio</td><td>2018</td></tr>
-<tr><td>Panama</td><td>25 luglio</td><td>2018</td><td>25 luglio</td><td>2018</td></tr>
-<tr><td>Paraguay</td><td>11 marzo</td><td>2016</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Perù</td><td>27 marzo</td><td>2014</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Polonia</td><td>1° giugno</td><td>2007</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Portogallo</td><td>26 novembre</td><td>2010</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Qatar</td><td>11 novembre</td><td>2014</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Regno Unito</td><td>8 aprile</td><td>2010</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Isola di Man</td><td>8 aprile</td><td>2010</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Romania</td><td>6 febbraio</td><td>2007</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Russia</td><td>19 settembre</td><td>2008</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Saint Kitts e Nevis</td><td>11 novembre</td><td>2019</td><td>11 novembre</td><td>2019</td></tr>
-<tr><td>San Marino</td><td>18 febbraio</td><td>2015</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Santa Lucia</td><td>8 novembre</td><td>2012</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Seicelle</td><td>9 gennaio</td><td>2006</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Senegal</td><td>18 luglio</td><td>2017</td><td>18 luglio</td><td>2017</td></tr>
-<tr><td>Serbia</td><td>30 marzo</td><td>2016</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Singapore</td><td>22 ottobre</td><td>2014</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Siria<sup>\*</sup></td><td>5 dicembre</td><td>2019</td><td>4 gennaio</td><td>2020</td></tr>
-<tr><td>Slovacchia</td><td>7 marzo</td><td>2013</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Slovenia</td><td>1° settembre</td><td>2009</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Spagna</td><td>9 novembre</td><td>2007</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Stati Uniti</td><td>31 luglio</td><td>2015</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Svezia</td><td>23 marzo</td><td>2012</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Svizzera</td><td>15 ottobre</td><td>2008</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Tagikistan</td><td>10 luglio</td><td>2014</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Thailandia</td><td>19 giugno</td><td>2018</td><td>19 luglio</td><td>2018</td></tr>
-<tr><td>Tunisia</td><td>7 giugno</td><td>2010</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Turchia\*</td><td>8 luglio</td><td>2015</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Turkmenistan</td><td>22 settembre</td><td>2005</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Ucraina</td><td>24 dicembre</td><td>2008</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Ungheria</td><td>4 dicembre</td><td>2008</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Uruguay</td><td>8 aprile</td><td>2016</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Uzbekistan</td><td>7 febbraio</td><td>2013</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td>Vietnam</td><td>3 novembre</td><td>2012</td><td>8 maggio</td><td>2016</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Per il territorio europeo dei Paesi Bassi.</td></tr>
-</table>
-
-[^t-3]: [RU 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286), [2017 2541](https://fedlex.data.admin.ch/eli/oc/2017/236)e [2018 1203](https://fedlex.data.admin.ch/eli/oc/2018/186)e [2020 1869](https://fedlex.data.admin.ch/eli/oc/2020/383). Una versione aggiornata del campo d’applicazione è pubblicata sul Sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^ingress-1]: [RS 0.732.031](https://fedlex.data.admin.ch/eli/cc/1987/505_505_505)
+[^ingress-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
