@@ -3,11 +3,11 @@ sr: "0.732.031"
 title: Übereinkommen vom 26. Oktober 1979 über den physischen Schutz von Kernmaterial und Kernanlagen (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/505_505_505"
 language: de
-version: 2020-05-20
+version: 2022-04-07
 adopted: 1979-10-26
 in_force: 1987-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/505_505_505/20200520/de/xml/fedlex-data-admin-ch-eli-cc-1987-505_505_505-20200520-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/505_505_505/20200520/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/505_505_505/20220407/de/xml/fedlex-data-admin-ch-eli-cc-1987-505_505_505-20220407-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/505_505_505/20220407/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1987** 505; BBl **1985** II 361[^t-1][^t-2]
 
 Abgeschlossen in Wien am 3. März 1980 Von der Bundesversammlung genehmigt am 30. September 1986[^t-3] Schweizerische Ratifikationsurkunde hinterlegt am 9. Januar 1987 In Kraft getreten für die Schweiz am 8. Februar 1987
 
-(Stand am 20. Mai 2020)
+(Stand am 7. April 2022)
 
 [^t-1]: Fassung gemäss Ziff. 1 der Änd. vom 8. Juli 2005, von der BVers genehmigt am 13. Juni 2008 und in Kraft für die Schweiz seit 8. Mai 2016 ([AS 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286); [BBl 2008 1153](https://fedlex.data.admin.ch/eli/fga/2008/278)).
 [^t-2]: Die Änd. vom 8. Juli 2005 ([SR 0.732.031.1](https://fedlex.data.admin.ch/eli/cc/2016/286); [AS 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286)) ist im vorliegenden Text eingebaut, gilt aber nur im Verhältnis zu jenen Staaten, die ihr beigetreten sind. Siehe deshalb ihren eigenen Geltungsbereich.
@@ -474,7 +474,7 @@ Anhang II[^t-4]
 <tr><td colspan="5"><sup>e)</sup> Sonstiger Brennstoff, der aufgrund seines ursprünglichen Gehalts an spaltbarem Material unbestrahlt in Kategorie I oder II eingestuft wurde, kann um eine Kategorie heruntergestuft werden, wenn die Strahlung des Brennstoffs unabgeschirmt in einem Meter Abstand mehr als 1 Gray/Stunde (100 rad/h) beträgt.</td></tr>
 </table>
 
-Geltungsbereich am 20. Mai 2020**[^t-5]**
+Geltungsbereich am 7. April 2022**[^t-5]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -482,6 +482,7 @@ Geltungsbereich am 20. Mai 2020**[^t-5]**
 <tr><td>Albanien</td><td>5. März</td><td>2002 B</td><td>4. April</td><td>2002</td></tr>
 <tr><td>Algerien\*</td><td>30. April</td><td>2003 B</td><td>30. Mai</td><td>2003</td></tr>
 <tr><td>Andorra\*</td><td>27. Juni</td><td>2006 B</td><td>27. Juli</td><td>2006</td></tr>
+<tr><td>Angola</td><td>21. September</td><td>2020 B</td><td>21. Oktober</td><td>2020</td></tr>
 <tr><td>Antigua und Barbuda</td><td>4. August</td><td>1993 B</td><td>3. September</td><td>1993</td></tr>
 <tr><td>Äquatorialguinea</td><td>24. November</td><td>2003 B</td><td>24. Dezember</td><td>2003</td></tr>
 <tr><td>Argentinien\*</td><td>6. April</td><td>1989</td><td>6. Mai</td><td>1989</td></tr>
@@ -511,8 +512,9 @@ Geltungsbereich am 20. Mai 2020**[^t-5]**
 <tr><td>Dschibuti</td><td>22. Juni</td><td>2004 B</td><td>22. Juli</td><td>2004</td></tr>
 <tr><td>Ecuador</td><td>17. Januar</td><td>1996</td><td>16. Februar</td><td>1996</td></tr>
 <tr><td>El Salvador\*</td><td>15. Dezember</td><td>2006 B</td><td>14. Januar</td><td>2007</td></tr>
-<tr><td>Eritrea<sup>\*</sup></td><td>13. März</td><td>2020 B</td><td>12. April</td><td>2020</td></tr>
+<tr><td>Eritrea\*</td><td>13. März</td><td>2020 B</td><td>12. April</td><td>2020</td></tr>
 <tr><td>Estland</td><td>9. Mai</td><td>1994 B</td><td>8. Juni</td><td>1994</td></tr>
+<tr><td>[tab]</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>[tab] Europäische Atomgemeinschaft (EURATOM)\* \*\*</td><td>6. September</td><td>1991</td><td>6. Oktober</td><td>1991</td></tr>
 <tr><td>Eswatini</td><td>17. April</td><td>2003 B</td><td>17. Mai</td><td>2003</td></tr>
 <tr><td>Fidschi</td><td>23. Mai</td><td>2008 B</td><td>22. Juni</td><td>2008</td></tr>
@@ -549,6 +551,7 @@ Geltungsbereich am 20. Mai 2020**[^t-5]**
 <tr><td>Kirgisistan</td><td>15. September</td><td>2015 B</td><td>15. Oktober</td><td>2015</td></tr>
 <tr><td>Kolumbien</td><td>28. März</td><td>2003 B</td><td>27. April</td><td>2003</td></tr>
 <tr><td>Komoren</td><td>18. Mai</td><td>2007 B</td><td>17. Juni</td><td>2007</td></tr>
+<tr><td>Kongo (Brazzaville)</td><td>3. September</td><td>2021</td><td>3. Oktober</td><td>2021</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>21. September</td><td>2004 B</td><td>21. Oktober</td><td>2004</td></tr>
 <tr><td>Korea (Süd-)\*</td><td>7. April</td><td>1982</td><td>8. Februar</td><td>1987</td></tr>
 <tr><td>Kroatien</td><td>29. September</td><td>1992 N</td><td>8. Oktober</td><td>1991</td></tr>
@@ -575,7 +578,7 @@ Geltungsbereich am 20. Mai 2020**[^t-5]**
 <tr><td>Mongolei</td><td>28. Mai</td><td>1986</td><td>8. Februar</td><td>1987</td></tr>
 <tr><td>Montenegro</td><td>21. März</td><td>2007 N</td><td>3. Juni</td><td>2006</td></tr>
 <tr><td>Mosambik\*</td><td>3. März</td><td>2003 B</td><td>2. März</td><td>2003</td></tr>
-<tr><td>Myanmar</td><td>6. Dezember</td><td>2016 B</td><td>5. Januar</td><td>2017</td></tr>
+<tr><td>Myanmar\*</td><td>6. Dezember</td><td>2016 B</td><td>5. Januar</td><td>2017</td></tr>
 <tr><td>Namibia</td><td>2. Oktober</td><td>2002 B</td><td>1. November</td><td>2002</td></tr>
 <tr><td>Nauru</td><td>12. August</td><td>2005 B</td><td>11. September</td><td>2005</td></tr>
 <tr><td>Neuseeland</td><td>19. Dezember</td><td>2003 B</td><td>18. Januar</td><td>2004</td></tr>
@@ -609,11 +612,12 @@ Geltungsbereich am 20. Mai 2020**[^t-5]**
 <tr><td>Senegal</td><td>3. November</td><td>2003 B</td><td>3. Dezember</td><td>2003</td></tr>
 <tr><td>Serbien</td><td>5. Februar</td><td>2002 N</td><td>27. April</td><td>1992</td></tr>
 <tr><td>Seychellen</td><td>13. August</td><td>2003 B</td><td>12. September</td><td>2003</td></tr>
+<tr><td>Simbabwe</td><td>20. September</td><td>2021 B</td><td>20. Oktober</td><td>2021</td></tr>
 <tr><td>Singapur\*</td><td>22. September</td><td>2014 B</td><td>22. Oktober</td><td>2014</td></tr>
 <tr><td>Slowakei</td><td>10. Februar</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Slowenien</td><td>7. Juli</td><td>1992 N</td><td>25. Juni</td><td>1991</td></tr>
 <tr><td>Spanien\* \*\*</td><td>6. September</td><td>1991</td><td>6. Oktober</td><td>1991</td></tr>
-<tr><td>St. Lucia</td><td>14. September</td><td>2012 B</td><td>14. Oktober</td><td>2012</td></tr>
+<tr><td>St. Lucia\*</td><td>14. September</td><td>2012 B</td><td>14. Oktober</td><td>2012</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>29. August</td><td>2008 B</td><td>28. September</td><td>2008</td></tr>
 <tr><td>Südafrika\*</td><td>17. September</td><td>2007</td><td>17. Oktober</td><td>2007</td></tr>
 <tr><td>Sudan</td><td>18. Mai</td><td>2000 B</td><td>17. Juni</td><td>2000</td></tr>
@@ -643,17 +647,7 @@ Geltungsbereich am 20. Mai 2020**[^t-5]**
 <tr><td>Vietnam\*</td><td>4. Oktober</td><td>2012 B</td><td>3. November</td><td>2012</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>20. Februar</td><td>2008 B</td><td>21. März</td><td>2008</td></tr>
 <tr><td>Zypern\*</td><td>23. Juli</td><td>1998 B</td><td>22. August</td><td>1998</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Internationalen Atomenergie-Organisation (IAEA): www.iaea.org/ &gt; Resources &gt; Treaties eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Atomenergie-Organisation (IAEA): www.iaea.org/ &gt; Resources &gt; Treaties eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-5]: [AS 2005 1225](https://fedlex.data.admin.ch/eli/oc/2005/176), [2007 3933](https://fedlex.data.admin.ch/eli/oc/2007/523)[5429](https://fedlex.data.admin.ch/eli/oc/2007/754), [2008 4493](https://fedlex.data.admin.ch/eli/oc/2008/627), [2009 3709](https://fedlex.data.admin.ch/eli/oc/2009/465), [2011 4903](https://fedlex.data.admin.ch/eli/oc/2011/700), [2014 123](https://fedlex.data.admin.ch/eli/oc/2014/13), [2015 5985](https://fedlex.data.admin.ch/eli/oc/2015/926), [2016 503](https://fedlex.data.admin.ch/eli/oc/2016/88), [2017 2539](https://fedlex.data.admin.ch/eli/oc/2017/235), [2018 1201](https://fedlex.data.admin.ch/eli/oc/2018/185), [2020 1867](https://fedlex.data.admin.ch/eli/oc/2020/382). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
-
-Einwendung der Schweiz
-
-Die schweizerische Regierung hat die Erklärung aufmerksam geprüft, welche die Islamische Republik Pakistan bei ihrem Beitritt zum Übereinkommen über den physischen Schutz von Kernmaterial zu dessen Artikel 2 Absatz 2 abgab.
-
-Die Bezeichnung einer Stellungnahme, durch die die Rechtswirkung gewisser Vertragsbestimmungen ausgeschlossen oder geändert wird, berührt ihre Eigenschaft als Vorbehalt zum Übereinkommen nicht. Die schweizerische Regierung ist der Auffassung, dass die Erklärung der Regierung der Islamischen Republik Pakistan ihrem Inhalt nach einen Vorbehalt darstellt.
-
-Gemäss Völkerrecht sind Vorbehalte, die nicht mit Ziel und Zweck des Vertrags vereinbar sind, unzulässig. Nach Ansicht der schweizerischen Regierung lässt dieser Vorbehalt Zweifel an der Verpflichtung der Islamischen Republik Pakistan in Bezug auf Ziel und Zweck des Übereinkommens aufkommen. Die schweizerische Regierung erhebt deshalb Einspruch gegen diesen Vorbehalt.
-
-Der Einspruch steht dem Inkrafttreten des Übereinkommens zwischen der Schweiz und der Islamischen Republik Pakistan nicht entgegen. Das Übereinkommen tritt somit zwischen den beiden Staaten in seiner Gesamtheit in Kraft, ohne dass die Islamische Republik Pakistan aus ihrem Vorbehalt Nutzen ziehen kann.
+[^t-5]: [AS 2005 1225](https://fedlex.data.admin.ch/eli/oc/2005/176); [2007 3933](https://fedlex.data.admin.ch/eli/oc/2007/523), [5429](https://fedlex.data.admin.ch/eli/oc/2007/754); [2008 4493](https://fedlex.data.admin.ch/eli/oc/2008/627); [2009 3709](https://fedlex.data.admin.ch/eli/oc/2009/465); [2011 4903](https://fedlex.data.admin.ch/eli/oc/2011/700); [2014 123](https://fedlex.data.admin.ch/eli/oc/2014/13); [2015 5985](https://fedlex.data.admin.ch/eli/oc/2015/926); [2016 503](https://fedlex.data.admin.ch/eli/oc/2016/88); [2017 2539](https://fedlex.data.admin.ch/eli/oc/2017/235); [2018 1201](https://fedlex.data.admin.ch/eli/oc/2018/185); [2020 1867](https://fedlex.data.admin.ch/eli/oc/2020/382); [2022 234](https://fedlex.data.admin.ch/eli/oc/2022/234). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (www.fedlex.admin.ch/de/treaty).

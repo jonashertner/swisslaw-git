@@ -3,11 +3,11 @@ sr: "0.732.031"
 title: Convention du 26 octobre 1979 sur la protection physique des matières nucléaires et des installations nucléaires (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/505_505_505"
 language: fr
-version: 2020-05-20
+version: 2022-04-07
 adopted: 1979-10-26
 in_force: 1987-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/505_505_505/20200520/fr/xml/fedlex-data-admin-ch-eli-cc-1987-505_505_505-20200520-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/505_505_505/20200520/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/505_505_505/20220407/fr/xml/fedlex-data-admin-ch-eli-cc-1987-505_505_505-20220407-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/505_505_505/20220407/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 9 janvier 1987
 
 Entrée en vigueur pour la Suisse le 8 février 1987
 
-(Etat le 20 mai 2020)
+(Etat le 7 avril 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. 1 de l’Am. du 8 juil. 2005, approuvé par l’Ass. féd. le 13 juin 2008, en vigueur pour la Suisse depuis le 8 mai 2016 ([RO 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286); [FF 2008 1041](https://fedlex.data.admin.ch/eli/fga/2008/278)).
 [^t-2]: L’Am. du 8 juil. 2005 ([RS 0.732.031.1](https://fedlex.data.admin.ch/eli/cc/2016/286); [RO 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286)) est inséré dans ce texte mais n’est applicable que pour les Etats l’ayant ratifié. Voir en conséquence son propre champ d’application.
@@ -473,18 +473,19 @@ Annexe II*[^t-4]*
 <tr><td colspan="5"><sup>e)</sup> Les autres combustibles qui en vertu de leur teneur originelle en matières fissiles sont classés dans la catégorie I ou dans la catégorie II avant irradiation peuvent entrer dans la catégorie directement inférieure si le niveau de rayonnement du combustible dépasse 1 gray/heure (100 rads/heure) à 1 mètre de distance sans écran.</td></tr>
 </table>
 
-Champ d’application le 20 mai 2020**[^t-5]**
+Champ d’application le 7 avril 2022**[^t-5]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>12 septembre</td><td>2003 A</td><td>12 octobre</td><td>2003</td></tr>
-<tr><td>Afrique du Sud\*</td><td>17 septembre</td><td>2007</td><td>17 octobre</td><td>2007</td></tr>
+<tr><td>Afrique du Sud<sup>\*</sup></td><td>17 septembre</td><td>2007</td><td>17 octobre</td><td>2007</td></tr>
 <tr><td>Albanie</td><td>5 mars</td><td>2002 A</td><td>4 avril</td><td>2002</td></tr>
 <tr><td>Algérie<sup>\*</sup></td><td>30 avril</td><td>2003 A</td><td>30 mai</td><td>2003</td></tr>
 <tr><td>Allemagne<sup>\*\*</sup></td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
 <tr><td>Andorre<sup>\*</sup></td><td>27 juin</td><td>2006 A</td><td>27 juillet</td><td>2006</td></tr>
+<tr><td>Angola</td><td>21 septembre</td><td>2020 A</td><td>21 octobre</td><td>2020</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>4 août</td><td>1993 A</td><td>3 septembre</td><td>1993</td></tr>
-<tr><td>Arabie Saoudite</td><td>7 janvier</td><td>2009 A</td><td>6 février</td><td>2009</td></tr>
+<tr><td>Arabie Saoudite<sup>\*</sup></td><td>7 janvier</td><td>2009 A</td><td>6 février</td><td>2009</td></tr>
 <tr><td>Argentine<sup>\*</sup></td><td>6 avril</td><td>1989</td><td>6 mai</td><td>1989</td></tr>
 <tr><td>Arménie</td><td>24 août</td><td>1993 A</td><td>23 septembre</td><td>1993</td></tr>
 <tr><td>Australie</td><td>22 septembre</td><td>1987</td><td>22 octobre</td><td>1987</td></tr>
@@ -512,6 +513,7 @@ Champ d’application le 20 mai 2020**[^t-5]**
 <tr><td>Colombie</td><td>28 mars</td><td>2003 A</td><td>27 avril</td><td>2003</td></tr>
 <tr><td>Communauté européenne de l’énergie atomique (CEEA/EURATOM)<sup>\* \*\*</sup></td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
 <tr><td>Comores</td><td>18 mai</td><td>2007 A</td><td>17 juin</td><td>2007</td></tr>
+<tr><td>Congo (Brazzaville)</td><td>3 septembre</td><td>2021</td><td>3 octobre</td><td>2021</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>21 septembre</td><td>2004 A</td><td>21 octobre</td><td>2004</td></tr>
 <tr><td>Corée (Sud)<sup>\*</sup></td><td>7 avril</td><td>1982</td><td>8 février</td><td>1987</td></tr>
 <tr><td>Costa Rica</td><td>2 mai</td><td>2003 A</td><td>1<sup>er</sup> juin</td><td>2003</td></tr>
@@ -580,7 +582,7 @@ Champ d’application le 20 mai 2020**[^t-5]**
 <tr><td>Mongolie</td><td>28 mai</td><td>1986</td><td>8 février</td><td>1987</td></tr>
 <tr><td>Monténégro</td><td>21 mars</td><td>2007 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Mozambique<sup>\*</sup></td><td>3 mars</td><td>2003 A</td><td>2 mars</td><td>2003</td></tr>
-<tr><td>Myanmar</td><td>6 décembre</td><td>2016 A</td><td>5 janvier</td><td>2017</td></tr>
+<tr><td>Myanmar<sup>\*</sup></td><td>6 décembre</td><td>2016 A</td><td>5 janvier</td><td>2017</td></tr>
 <tr><td>Namibie</td><td>2 octobre</td><td>2002 A</td><td>1<sup>er</sup> novembre</td><td>2002</td></tr>
 <tr><td>Nauru</td><td>12 août</td><td>2005 A</td><td>11 septembre</td><td>2005</td></tr>
 <tr><td>Nicaragua</td><td>10 décembre</td><td>2004 A</td><td>9 janvier</td><td>2005</td></tr>
@@ -615,7 +617,7 @@ Champ d’application le 20 mai 2020**[^t-5]**
 <tr><td>Russie</td><td>25 mai</td><td>1983</td><td>8 février</td><td>1987</td></tr>
 <tr><td>Rwanda</td><td>28 juin</td><td>2002 A</td><td>28 juillet</td><td>2002</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>29 août</td><td>2008 A</td><td>28 septembre</td><td>2008</td></tr>
-<tr><td>Sainte-Lucie</td><td>14 septembre</td><td>2012 A</td><td>14 octobre</td><td>2012</td></tr>
+<tr><td>Sainte-Lucie<sup>\*</sup></td><td>14 septembre</td><td>2012 A</td><td>14 octobre</td><td>2012</td></tr>
 <tr><td>Saint-Marin</td><td>19 janvier</td><td>2015 A</td><td>18 février</td><td>2015</td></tr>
 <tr><td>Sénégal</td><td>3 novembre</td><td>2003 A</td><td>3 décembre</td><td>2003</td></tr>
 <tr><td>Serbie</td><td>5 février</td><td>2002 S</td><td>27 avril</td><td>1992</td></tr>
@@ -642,7 +644,8 @@ Champ d’application le 20 mai 2020**[^t-5]**
 <tr><td>Vietnam<sup>\*</sup></td><td>4 octobre</td><td>2012 A</td><td>3 novembre</td><td>2012</td></tr>
 <tr><td>Yémen</td><td>31 mai</td><td>2007 A</td><td>30 juin</td><td>2007</td></tr>
 <tr><td>Zambie</td><td>7 novembre</td><td>2016 A</td><td>7 décembre</td><td>2016</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Agence internationale de l’énergie atomique (AIEA): www.iaea.org/ &gt; Français &gt; Ressources &gt; Traités &gt; Traités adoptés sous les auspices de l’AIEA, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td>Zimbabwe</td><td>20 septembre</td><td>2021 A</td><td>20 octobre</td><td>2021</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Agence internationale de l’énergie atomique (AIEA): www.iaea.org/ &gt; Français &gt; Ressources &gt; Traités &gt; Traités adoptés sous les auspices de l’AIEA, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-5]: [RO 2005 1225](https://fedlex.data.admin.ch/eli/oc/2005/176), [2007 3933](https://fedlex.data.admin.ch/eli/oc/2007/523)[5429](https://fedlex.data.admin.ch/eli/oc/2007/754), [2008 4493](https://fedlex.data.admin.ch/eli/oc/2008/627), [2009 3709](https://fedlex.data.admin.ch/eli/oc/2009/465), [2011 4903](https://fedlex.data.admin.ch/eli/oc/2011/700), [2014 123](https://fedlex.data.admin.ch/eli/oc/2014/13), [2015 5985](https://fedlex.data.admin.ch/eli/oc/2015/926), [2016 503](https://fedlex.data.admin.ch/eli/oc/2016/88), [2017 2539](https://fedlex.data.admin.ch/eli/oc/2017/235), [2018 1201](https://fedlex.data.admin.ch/eli/oc/2018/185), [2020 1867](https://fedlex.data.admin.ch/eli/oc/2020/382). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-5]: [RO 2005 1225](https://fedlex.data.admin.ch/eli/oc/2005/176); [2007 3933](https://fedlex.data.admin.ch/eli/oc/2007/523), [5429](https://fedlex.data.admin.ch/eli/oc/2007/754); [2008 4493](https://fedlex.data.admin.ch/eli/oc/2008/627); [2009 3709](https://fedlex.data.admin.ch/eli/oc/2009/465); [2011 4903](https://fedlex.data.admin.ch/eli/oc/2011/700); [2014 123](https://fedlex.data.admin.ch/eli/oc/2014/13); [2015 5985](https://fedlex.data.admin.ch/eli/oc/2015/926); [2016 503](https://fedlex.data.admin.ch/eli/oc/2016/88); [2017 2539](https://fedlex.data.admin.ch/eli/oc/2017/235); [2018 1201](https://fedlex.data.admin.ch/eli/oc/2018/185); [2020 1867](https://fedlex.data.admin.ch/eli/oc/2020/382); [2022 234](https://fedlex.data.admin.ch/eli/oc/2022/234). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: (www.fedlex.admin.ch/fr/treaty).
