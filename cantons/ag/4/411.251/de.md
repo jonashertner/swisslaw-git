@@ -4,13 +4,13 @@ number: "411.251"
 title: Verordnung über die Beteiligung der Gemeinden am Personalaufwand der Volksschulen und Kindergärten
 short: "Gemeindebeteiligungsverordnung, GbV"
 language: de
-version: 2020-01-01
-valid_until: 2022-04-07
-version_adopted: 2019-03-20
+version: 2022-04-08
+valid_until: 2024-06-30
+version_adopted: 2022-04-06
 adopted: 2005-11-16
 in_force: 2006-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/411.251"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2754/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3174/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2754/pdf_file"
 
 (Gemeindebeteiligungsverordnung, GbV)
 
-Vom 16.11.2005 (Stand 01.01.2020)
+Vom 16.11.2005 (Stand 08.04.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -48,6 +48,8 @@ beschliesst:
 - g) …
 - h) …
 - i) …
+
+<sup>1<sup>bis</sup></sup> Der Kanton übernimmt ab dem 24. Februar 2022 bis Ende Schuljahr 2022/2023 den vollen Personalaufwand für die Erteilung des Regelschulunterrichts durch Lehr- und Assistenzpersonen an schutzbedürftige Schülerinnen und Schüler aus der Ukraine.
 
 <sup>2</sup> …
 
