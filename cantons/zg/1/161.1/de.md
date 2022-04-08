@@ -4,13 +4,13 @@ number: "161.1"
 title: Gesetz über die Organisation der Zivil- und Strafrechtspflege
 short: "Gerichtsorganisationsgesetz, GOG"
 language: de
-version: 2020-09-01
-valid_until: 2022-04-08
-version_adopted: 2020-04-30
+version: 2022-04-09
+valid_until: 2022-04-30
+version_adopted: 2022-01-27
 adopted: 2010-08-26
 in_force: 2011-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/161.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2129/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2331/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2129/pdf_file"
 
 (Gerichtsorganisationsgesetz, GOG)
 
-Vom 26. August 2010 (Stand 1. September 2020)
+Vom 26. August 2010 (Stand 9. April 2022)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -1250,7 +1250,14 @@ beschliesst:
 - b) der zuständigen Sozialbehörde, wenn die Strafverfolgung die Unterstützung durch Sozialhilfe betrifft;
 - c) der für die Anstellung zuständigen Behörde bei Mitarbeiterinnen und Mitarbeitern des Kantons und der Gemeinden, wenn die Tathandlung voraussichtlich während der Arbeitszeit begangen wurde oder wenn auf Grund der Strafverfolgung die pflichtgemässe Ausübung der staatlichen Funktion nicht mehr möglich oder wegen Gefährdung von Dritten nicht mehr zumutbar ist.
 
+<sup>1a</sup> Zudem teilt die Staatsanwaltschaft die Eröffnung der Strafverfolgung der zuständigen Einwohnergemeinde mit, wenn die strafbare Handlung folgende Erlasse betrifft:
+
+- a) Gesetz über das Gastgewerbe und den Kleinhandel mit gebrannten Wassern (Gastgewerbegesetz, GGG) vom 25. Januar 1996[^94-1];
+- b) Geldspiel-, Ausländer- oder Betäubungsmittelgesetzgebung oder die Bestimmungen zum Jugendschutz der Alkohol- und Lebensmittelgesetzgebung, soweit ein Bezug zur Ausübung des Gastgewerbes oder des Kleinhandels mit gebrannten Wassern besteht.
+
 <sup>2</sup> Wurde die Verfahrenseröffnung mitgeteilt, ist derselben Behörde auch der verfahrensabschliessende Entscheid zuzustellen, soweit es das Informationsbedürfnis erfordert und diesem keine höherrangigen Interessen des Betroffenen entgegenstehen.
+
+[^94-1]: BGS [943.11](https://bgs.zg.ch/data/943.11/de)
 
 ### 5.5. Information der Öffentlichkeit
 
