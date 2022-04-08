@@ -2,28 +2,28 @@
 canton: ZG
 number: "943.11"
 title: Gesetz über das Gastgewerbe und den Kleinhandel mit gebrannten Wassern
-short: Gastgewerbegesetz
+short: "Gastgewerbegesetz, GGG"
 language: de
-version: 2013-10-01
-valid_until: 2022-04-08
-version_adopted: 2013-05-23
+version: 2022-04-09
+valid_until: 2025-02-20
+version_adopted: 2022-01-27
 adopted: 1996-01-25
 in_force: 1996-07-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/943.11"
-pdf: "https://bgs.zg.ch/api/de/versions/1246/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2330/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über das Gastgewerbe und den Kleinhandel mit gebrannten Wassern
 
-(Gastgewerbegesetz)
+(Gastgewerbegesetz, GGG)
 
-Vom 25. Januar 1996 (Stand 1. Oktober 2013)
+Vom 25. Januar 1996 (Stand 9. April 2022)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf Art. 31 und 32<sup>quater</sup> der Bundesverfassung[^ingress-1], auf das Bundesgesetz über gebrannte Wasser vom 21. Juni 1932[^ingress-2] sowie auf § 41 Bst. b der Kantonsverfassung[^ingress-3],
+gestützt auf Art. 31 und 32<sup>quater</sup> der Bundesverfassung[^ingress-1], auf das Bundesgesetz über gebrannte Wasser vom 21. Juni 1932[^ingress-2] sowie auf § 41 Abs. 1 Bst. b der Kantonsverfassung[^ingress-3],
 
 beschliesst:
 
@@ -101,10 +101,13 @@ beschliesst:
 
 <sup>2</sup> Als nicht gut beleumdet gilt in der Regel eine Person,
 
-- a) deren Strafregister mehrere Verurteilungen in den letzten fünf Jahren aufweist, die im Zusammenhang mit der Ausübung des Gastgewerbes oder des Kleinhandels mit gebrannten Wassern stehen;
-- b) die vor weniger als fünf Jahren eine Freiheitsstrafe von mehr als achtzehn Monaten verbüsst hat.
+- a) die in den letzten fünf Jahren wiederholt wegen der Verletzung der Vorschriften dieses Gesetzes verurteilt wurde;
+- b) die vor weniger als fünf Jahren eine Freiheitsstrafe von mehr als achtzehn Monaten verbüsst hat;
+- c) deren Strafregister in den letzten fünf Jahren eine Verurteilung wegen der Verletzung von Vorschriften der Geldspiel-, Ausländer- oder Betäubungsmittelgesetzgebung oder der Bestimmungen zum Jugendschutz der Alkohol- und Lebensmittelgesetzgebung aufweist.
 
 <sup>3</sup> Wer ein Bewilligungsgesuch stellt, bestätigt darin unterschriftlich, von den einschlägigen Bestimmungen Kenntnis genommen zu haben.
+
+<sup>4</sup> Für jährlich wiederkehrende Anlässe von kurzer Dauer kann die Bewilligungsbehörde auf die Prüfung der Voraussetzungen gemäss Abs. 2 verzichten.
 
 #### § 9
 
@@ -119,6 +122,14 @@ beschliesst:
 **Nebenbestimmungen**
 
 <sup>1</sup> Die Bewilligung kann zum Schutze der Jugend oder zur Aufrechterhaltung von Ruhe, Ordnung und Sicherheit mit Auflagen und Bedingungen verbunden oder ergänzt werden.
+
+#### § 10a
+
+**Verantwortlichkeit**
+
+<sup>1</sup> Die Bewilligungsinhaberin oder der Bewilligungsinhaber führt den Betrieb oder Anlass selbst. Im Falle der Abwesenheit setzt sie oder er eine geeignete Stellvertretung ein.
+
+<sup>2</sup> Sie oder er ist für die Einhaltung der massgebenden Bestimmungen durch Personen, die im Betrieb oder am Anlass mitwirken, verantwortlich.
 
 #### § 11
 
@@ -173,6 +184,8 @@ beschliesst:
 **Meldepflicht**
 
 <sup>1</sup> Wer gegen Entgelt Gäste beherbergt, hat aus kriminalpolizeilichen Gründen von jedem Gast bei dessen Ankunft einen Meldeschein ausfüllen zu lassen.
+
+<sup>2</sup> Die Meldescheine sind bis zum 31. Dezember des darauffolgenden Jahres aufzubewahren und anschliessend zu vernichten.
 
 ## 4. Kleinhandel mit gebrannten Wassern
 
@@ -254,11 +267,18 @@ beschliesst:
 
 **Massnahmen**
 
-<sup>1</sup> Bei Verstössen gegen dieses Gesetz verwarnt die Bewilligungsbehörde oder verfügt geeignete Massnahmen, wie den Entzug der Bewilligung, die Beschlagnahme der im Betrieb befindlichen alkoholhaltigen Getränke, die Betriebsschliessung oder den Widerruf der längeren Öffnungszeit.
+<sup>1</sup> Die Bewilligungsbehörde entzieht die Bewilligung:
+
+- a) bei einem Verstoss gegen die Vorschriften der Geldspiel-, Ausländer- oder Betäubungsmittelgesetzgebung oder der Bestimmungen zum Jugendschutz der Alkohol- und Lebensmittelgesetzgebung oder bei wiederholten Verstössen gegen dieses Gesetz; oder
+- b) wenn die Voraussetzungen für deren Erteilung nicht mehr erfüllt sind.
+
+<sup>1a</sup> In leichten Fällen kann die Bewilligungsbehörde anstelle des Entzugs der Bewilligung eine Verwarnung aussprechen.
+
+<sup>1b</sup> Die Bewilligungsbehörde kann bei einem Verstoss zudem andere geeignete Massnahmen verfügen, wie die Beschlagnahme der im Betrieb befindlichen alkoholhaltigen Getränke, die Betriebsschliessung oder den Widerruf der Bewilligung für längere Öffnungszeit.
 
 <sup>2</sup> Unter den gleichen Voraussetzungen kann auch die Polizei geeignete Sofortmassnahmen ergreifen. Sie benachrichtigt unverzüglich die Bewilligungsbehörde. Diese entscheidet, ob die Sofortmassnahmen aufrechterhalten bleiben.
 
-<sup>3</sup> Wurde einer Person die Bewilligung wiederholt entzogen, kann der zuständige Gemeinderat während höchstens zwei Jahren eine Bewilligung verweigern.
+<sup>3</sup> …
 
 ## 8. Rechtspflege
 
