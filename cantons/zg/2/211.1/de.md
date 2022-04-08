@@ -4,13 +4,13 @@ number: "211.1"
 title: Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches für den Kanton Zug
 short: EG ZGB
 language: de
-version: 2019-09-01
-valid_until: 2022-04-08
-version_adopted: 2019-04-11
+version: 2022-04-09
+valid_until: 2025-07-10
+version_adopted: 2022-01-27
 adopted: 1911-08-17
 in_force: 1912-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/211.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2001/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2329/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/2001/pdf_file"
 
 (EG ZGB)
 
-Vom 17. August 1911 (Stand 1. September 2019)
+Vom 17. August 1911 (Stand 9. April 2022)
 
 Der Kantonsrat des Kantons Zug,
 
-in Vollziehung des Art. 52 der Übergangsbestimmungen zum Schweizerischen Zivilgesetzbuch[^ingress-1],
+in Vollziehung von Art. 52 der Übergangsbestimmungen zum Schweizerischen Zivilgesetzbuch (ZGB)[^ingress-1],
 
 beschliesst:
 
@@ -265,6 +265,27 @@ beschliesst:
 <sup>3</sup> Vorbehalten bleibt die Veröffentlichung im schweizerischen Handelsamtsblatt in den im ZGB bezeichneten Fällen. Die zuständigen Behörden haben, wenn es zweckmässig erscheint, weitere Bekanntmachungen anzuordnen.
 
 ### 2.2. Personenrecht
+
+#### § 22bis
+
+**Elektronische Überwachung**
+
+<sup>1</sup> Das Amt für Justizvollzug ist für den Vollzug einer gerichtlich angeordneten elektronischen Überwachung zum Schutz gewaltbetroffener Personen zuständig (Art. 28c Abs. 1 ZGB[^22bis-1]; Art. 343 Abs. 1<sup>bis</sup> ZPO[^22bis-2]).
+
+<sup>2</sup> Vor Anordnung der elektronischen Überwachung klärt das zuständige Gericht deren Vollziehbarkeit ab. Den als vollstreckbar erklärten Anordnungsentscheid stellt es dem Amt für Justizvollzug umgehend zu.
+
+<sup>3</sup> Das Amt für Justizvollzug kann für den Vollzug der elektronischen Überwachung die Polizei beiziehen.
+
+<sup>4</sup> Das Amt für Justizvollzug teilt der klagenden Partei Verstösse gegen die angeordneten Verbote gemäss Art. 28b ZGB beziehungsweise gegen die angeordnete Überwachungsmassnahme unverzüglich mit.
+
+<sup>5</sup> Die aufgezeichneten Daten über die beteiligten Personen dürfen nur zur Durchsetzung der angeordneten Verbote gemäss Art. 28b ZGB verwendet werden. Das Amt für Justizvollzug stellt sicher, dass die Daten spätestens zwölf Monate nach Abschluss der angeordneten Überwachungsmassnahme gelöscht werden.
+
+<sup>6</sup> Das Amt für Justizvollzug stellt dem Gericht, das die elektronische Überwachung anordnet, die Kosten des Vollzugs in Rechnung.
+
+<sup>7</sup> Das Gericht, das die elektronische Überwachung anordnet, auferlegt die Kosten des Vollzugs der zu überwachenden Person unter Berücksichtigung ihrer finanziellen Verhältnisse.
+
+[^22bis-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+[^22bis-2]: SR [272](https://db.clex.ch/link/Bund/272/de)
 
 #### § 23
 
