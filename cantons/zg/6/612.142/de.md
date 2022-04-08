@@ -3,20 +3,19 @@ canton: ZG
 number: "612.142"
 title: "Richtlinien zur Beurteilung von Gesuchen im Kultur-, Sozial- und Bildungsbereich sowie in weiteren Bereichen gemäss der Verordnung zur Äufnung des Lotteriefonds und des Sportfonds in Folge des Coronavirus (COVID-19-Lotterie- und Sportfondsverordnung) vom 7. April 2020 (BGS 612.14)"
 language: de
-version: 2021-01-30
-valid_until: 2022-04-08
-version_adopted: 2021-01-21
+version: 2022-04-09
+version_adopted: 2022-04-04
 adopted: 2020-07-20
 in_force: 2020-07-25
 url: "https://bgs.zg.ch/app/de/texts_of_law/612.142"
-pdf: "https://bgs.zg.ch/api/de/versions/2212/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2328/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Richtlinien zur Beurteilung von Gesuchen im Kultur-, Sozial- und Bildungsbereich sowie in weiteren Bereichen gemäss der Verordnung zur Äufnung des Lotteriefonds und des Sportfonds in Folge des Coronavirus (COVID-19-Lotterie- und Sportfondsverordnung) vom 7. April 2020 (BGS 612.14)
 
-Vom 20. Juli 2020 (Stand 30. Januar 2021)
+Vom 20. Juli 2020 (Stand 9. April 2022)
 
 Die Direktion für Bildung und Kultur des Kantons Zug,
 
@@ -59,7 +58,7 @@ beschliesst:
 
 **Gesuchseingabe**
 
-<sup>1</sup> Gesuche können bis zum 20. September 2021 eingereicht werden. Sie sind elektronisch mittels der auf der Website der für die Bearbeitung der Gesuche zuständigen Direktion aufgeschalteten Formulare einzureichen.
+<sup>1</sup> Gesuche können bis zum 30. November 2022 eingereicht werden. Sie sind elektronisch mittels der auf der Website der für die Bearbeitung der Gesuche zuständigen Direktion aufgeschalteten Formulare einzureichen.
 
 #### § 5
 
