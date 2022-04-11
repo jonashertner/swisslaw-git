@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Verordnung vom 16. März 2022 über Massnahmen gegenüber Belarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: de
-version: 2022-03-27
+version: 2022-04-12
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220327/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220327-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220327/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220412/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220412-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220412/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Belarus
 
-vom 16. März 2022 (Stand am 27. März 2022)
+vom 16. März 2022 (Stand am 12. April 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -303,9 +303,9 @@ Die Ausgabe von Finanzinstrumenten mit einer Laufzeit von mehr als 90 Tagen sowi
 
 <sup>2</sup> Der Handel mit Finanzinstrumenten mit einer Laufzeit von mehr als 90 Tagen, die von Banken, Unternehmen oder Organisationen nach Absatz 1 Buchstaben a–d nach dem 29. Juni 2021 ausgegeben wurden, ist verboten.
 
-<sup>3</sup> …[^16-1]
+<sup>3</sup> Es ist verboten, an Handelsplätzen Effekten von in Belarus niedergelassenen Banken, Unternehmen oder Organisationen, die sich zu über 50 Prozent in öffentlicher Inhaberschaft befinden, zu notieren und Dienstleistungen dafür zu erbringen.[^16-1]
 
-[^16-1]: Tritt am 12. April 2022 in Kraft (Art. 33 Abs. 2 Bst. a)
+[^16-1]: In Kraft seit 12. April 2022 (Art. 33 Abs. 2 Bst. a).
 
 #### Art. 17
 
@@ -387,7 +387,7 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD
 
 Die Bereitstellung von spezialisierten Nachrichtenübermittlungsdiensten für den Zahlungsverkehr, die für den Austausch von Finanzdaten verwendet werden, zuhanden von Banken, Unternehmen oder Organisationen nach Anhang 15 oder Banken, Unternehmen oder Organisationen mit Sitz in Belarus, die zu über 50 Prozent von Banken, Unternehmen oder Organisationen nach Anhang 15 beherrscht werden ist verboten.
 
-[^23-1]: In Kraft seit 27. März 2022 (Art. 33 Abs. 2 Bst. b)
+[^23-1]: In Kraft seit 27. März 2022 (Art. 33 Abs. 2 Bst. b).
 
 #### Art. 24
 

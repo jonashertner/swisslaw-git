@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordonnance du 16 mars 2022 instituant des mesures à l’encontre du Bélarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: fr
-version: 2022-03-27
+version: 2022-04-12
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220327/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220327-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220327/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220412/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220412-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220412/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Bélarus
 
-du 16 mars 2022 (Etat le 27 mars 2022)
+du 16 mars 2022 (Etat le 12 avril 2022)
 
 Le Conseil fédéral suisse,
 
@@ -303,9 +303,9 @@ L’émission d’instruments financiers dont l’échéance est supérieure à 
 
 <sup>2</sup> Le négoce d’instruments financiers dont l’échéance est supérieure à 90 jours est interdit lorsque ces instruments financiers ont été émis après le 29 juin 2021 par une banque, une entreprise ou une entité visée à l’al. 1, let. a à d.
 
-<sup>3</sup> …[^16-1]
+<sup>3</sup> Il est interdit de répertorier et de fournir des services sur des plates-formes de négociation pour les valeurs mobilières de toute banque, entreprise ou entité établie au Bélarus et détenue à plus de 50 % par l’État biélorusse.[^16-1]
 
-[^16-1]: Entre en vigueur le 12 avr. 2022 (art. 33, al. 2, let. a)
+[^16-1]: En vigueur depuis le 12 avr. 2022 (art. 33, al. 2, let. a)
 
 #### Art. 17
 

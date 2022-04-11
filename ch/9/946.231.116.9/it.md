@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordinanza del 16 marzo 2022 che istituisce provvedimenti nei confronti della Bielorussia
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: it
-version: 2022-03-27
+version: 2022-04-12
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220327/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220327-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220327/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220412/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220412-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220412/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Bielorussia
 
-del 16 marzo 2022 (Stato 27 marzo 2022))
+del 16 marzo 2022 (Stato 12 aprile 2022)
 
 Il Consiglio federale svizzero,
 
@@ -303,7 +303,7 @@ Sono vietate l’emissione di strumenti finanziari con scadenza superiore a 90 g
 
 <sup>2</sup> È vietato il commercio di strumenti finanziari con scadenza superiore a 90 giorni emessi da banche, imprese o organizzazioni di cui al capoverso 1 lettere a–d dopo il 29 giugno 2021.
 
-<sup>3</sup> ...[^16-1]
+<sup>3</sup> Nelle sedi di negoziazione è vietato quotare e fornire servizi per i valori mobiliari di qualsiasi banca, impresa o organizzazione stabilita in Bielorussia di proprietà pubblica per oltre il 50 per cento.[^16-1]
 
 [^16-1]: In vigore dal 12 apr. 2022 (art. 33 cpv. 2 lett. a).
 
