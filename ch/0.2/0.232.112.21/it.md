@@ -3,26 +3,26 @@ sr: "0.232.112.21"
 title: "Regolamento di esecuzione del 2 ottobre 2018 concernente il Protocollo relativo all'Accordo di Madrid per la registrazione internazionale dei marchi"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/338"
 language: it
-version: 2021-11-01
+version: 2022-04-12
 adopted: 2018-10-02
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2020-338-20211101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20211101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20220412/it/xml/fedlex-data-admin-ch-eli-cc-2020-338-20220412-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20220412/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Regolamento di esecuzione concernente il Protocollo relativo all’Accordo di Madrid per la registrazione internazionale dei marchi
 
-RU **2020** 1667
+RU **2020** 1667[^t-1]
 
 Traduzione
 
-Adottato dall’Assemblea dell’Unione di Madrid il 2 ottobre 2018
+Adottato dall’Assemblea dell’Unione di Madrid il 2 ottobre 2018 Entrata in vigore il 1° febbraio 2020
 
-Entrata in vigore il 1° febbraio 2020
+(Stato 12 aprile 2022)
 
-(Stato 1° novembre 2021)
+[^t-1]: Correzione del 12 apr. 2022 ([RU 2022 236](https://fedlex.data.admin.ch/eli/oc/2022/236)).
 
 ## Indice
 

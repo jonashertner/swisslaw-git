@@ -3,24 +3,26 @@ sr: "0.232.112.21"
 title: Ausführungsordnung von 2. Oktober 2018 betreffend das Protokoll zum Madrider Abkommen über die internationale Registrierung von Marken
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/338"
 language: de
-version: 2021-11-01
+version: 2022-04-12
 adopted: 2018-10-02
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2020-338-20211101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20211101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20220412/de/xml/fedlex-data-admin-ch-eli-cc-2020-338-20220412-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20220412/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Ausführungsordnung betreffend das Protokoll zum Madrider Abkommen über die internationale Registrierung von Marken
 
-AS **2020** 1667
+AS **2020** 1667[^t-1]
 
 Übersetzung
 
 Angenommen von der Versammlung des Madrider Verbands am 2. Oktober 2018 In Kraft getreten am 1. Februar 2020
 
-(Stand am 1. November 2021)
+(Stand am 12. April 2022)
+
+[^t-1]: Berichtigung vom 12. April 2022 ([AS 2022 236](https://fedlex.data.admin.ch/eli/oc/2022/236)).
 
 ## Verzeichnis der Regeln
 

@@ -3,18 +3,18 @@ sr: "0.232.112.21"
 title: "Règlement d'exécution du 2 octobre 2018 du Protocole relatif à l'Arrangement de Madrid concernant l'enregistrement international des marques"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/338"
 language: fr
-version: 2021-11-01
+version: 2022-04-12
 adopted: 2018-10-02
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-338-20211101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20211101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20220412/fr/xml/fedlex-data-admin-ch-eli-cc-2020-338-20220412-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20220412/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Règlement d’exécution du Protocole relatif à l’Arrangement de Madrid concernant l’enregistrement international des marques
 
-RO **2020** 1667
+RO **2020** 1667[^t-1]
 
 Texte original
 
@@ -22,7 +22,9 @@ Adopté par l’Assemblée de l’Union de Madrid le 2 octobre 2018
 
 Entré en vigueur le 1<sup>er</sup> février 2020
 
-(Etat le 1<sup>er</sup> novembre 2021)
+(Etat le 12 avril 2022)
+
+[^t-1]: Erratum du 12 avr. 2022 ([RO 2022 236](https://fedlex.data.admin.ch/eli/oc/2022/236)).
 
 ## Liste des règles
 
