@@ -4,7 +4,7 @@ number: "431.01.1"
 title: "RÈGLEMENT du 07.02.2000 d'application de la loi du 15 septembre 1999 sur la statistique cantonale (RLStat)"
 short: RLStat
 language: fr
-version: 2012-10-01
+version: 2022-04-13
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/431.01.1?id=e1706af5-2e5f-493e-9842-cdd90d6da508"
 ---
 
@@ -235,6 +235,6 @@ Annexes [^20-1]
 
 1
 
-[Enquêtes](https://prestations.vd.ch/pub/blv-publication/api/actes/e1706af5-2e5f-493e-9842-cdd90d6da508/annexes/1?dmev=01.10.2012)
+[Enquêtes](https://prestations.vd.ch/pub/blv-publication/api/actes/e1706af5-2e5f-493e-9842-cdd90d6da508/annexes/1?dmev=13.04.2022)
 
-[^20-1]: Modif. 1 du 05.05.2000: Introduction Ann; entrée en vigueur au 05.05.2000 · Modif. 2 du 14.08.2000: Introduction Ann; entrée en vigueur au 14.08.2000 · Modif. 3 du 08.10.2001: Introduction Ann; entrée en vigueur au 08.10.2001 · Modif. 4 du 12.08.2002: Introduction Ann; entrée en vigueur au 12.08.2002 · Modif. 5 du 18.12.2003: Abrogation Ann; entrée en vigueur au 01.01.2004; Modification Ann; entrée en vigueur au 01.01.2004 · Modif. 6 du 28.04.2004: Introduction Ann; entrée en vigueur au 01.05.2004 · Modif. 7 du 25.08.2004: Introduction Ann; entrée en vigueur au 01.09.2004 · Modif. 8 du 16.08.2006: Introduction Ann; entrée en vigueur au 16.08.2006 · Modif. 10 du 12.08.2009: Modification Ann; entrée en vigueur au 01.09.2009 · Modif. 11 du 03.03.2010: Introduction Annexes, Ann. 1; entrée en vigueur au 01.04.2010 · Modif. 12 du 07.09.2011: Modification Annexes, Ann. 1; entrée en vigueur au 01.09.2011 · Modif. 13 du 19.09.2012: Introduction Annexes, Ann. 1; entrée en vigueur au 01.10.2012 · Modif. 9 du 12.08.2009: Modification Annexes, Ann. 1; entrée en vigueur au 01.08.2022 · Modif. 14 du 13.04.2022: Modification Annexes, Ann. 1; entrée en vigueur au 13.04.2022 · Modif. 15 du 14.05.2025: Modification Annexes, Ann. 1; entrée en vigueur au 14.05.2025 · Modif. 16 du 13.05.2026: Modification Annexes, Ann. 1; entrée en vigueur au 13.05.2026 · Modif. 17 du 01.07.2026: Modification Annexes, Ann. 1; entrée en vigueur au 01.07.2026
+[^20-1]: Modif. 1 du 05.05.2000: Introduction Ann; entrée en vigueur au 05.05.2000 · Modif. 2 du 14.08.2000: Introduction Ann; entrée en vigueur au 14.08.2000 · Modif. 3 du 08.10.2001: Introduction Ann; entrée en vigueur au 08.10.2001 · Modif. 4 du 12.08.2002: Introduction Ann; entrée en vigueur au 12.08.2002 · Modif. 5 du 18.12.2003: Abrogation Ann; entrée en vigueur au 01.01.2004; Modification Ann; entrée en vigueur au 01.01.2004 · Modif. 6 du 28.04.2004: Introduction Ann; entrée en vigueur au 01.05.2004 · Modif. 7 du 25.08.2004: Introduction Ann; entrée en vigueur au 01.09.2004 · Modif. 8 du 16.08.2006: Introduction Ann; entrée en vigueur au 16.08.2006 · Modif. 10 du 12.08.2009: Modification Ann; entrée en vigueur au 01.09.2009 · Modif. 11 du 03.03.2010: Introduction Annexes, Ann. 1; entrée en vigueur au 01.04.2010 · Modif. 12 du 07.09.2011: Modification Annexes, Ann. 1; entrée en vigueur au 01.09.2011 · Modif. 13 du 19.09.2012: Introduction Annexes, Ann. 1; entrée en vigueur au 01.10.2012 · Modif. 14 du 13.04.2022: Modification Annexes, Ann. 1; entrée en vigueur au 13.04.2022 · Modif. 9 du 12.08.2009: Modification Annexes, Ann. 1; entrée en vigueur au 01.08.2022 · Modif. 15 du 14.05.2025: Modification Annexes, Ann. 1; entrée en vigueur au 14.05.2025 · Modif. 16 du 13.05.2026: Modification Annexes, Ann. 1; entrée en vigueur au 13.05.2026 · Modif. 17 du 01.07.2026: Modification Annexes, Ann. 1; entrée en vigueur au 01.07.2026
