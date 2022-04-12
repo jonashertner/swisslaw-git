@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2022-03-25
+version: 2022-04-13
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220325/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220325-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220325/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220413/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220413-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220413/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 25. März 2022)
+vom 4. März 2022 (Stand am 13. April 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -562,7 +562,7 @@ Banken oder nach Artikel 1*b* BankG[^21-1] bewilligte Personen sind verpflichtet
 
 #### Art. 24
 
-**[Verbot von Transaktionen mit der Zentralbank der Russischen Föderation](https://www.fedlex.admin.ch/eli/cc/2022/151/de)**[^24-1]
+**Verbot von Transaktionen mit der Zentralbank der Russischen Föderation**[^24-1]
 
 <sup>1</sup> Transaktionen im Zusammenhang mit der Verwaltung von Reserven und Geldern der Zentralbank der Russischen Föderation sind verboten; dies schliesst Transaktionen mit Banken, Unternehmen und Organisationen ein, die im Namen oder auf Anweisung der Zentralbank der Russischen Föderation handeln, wie der russische *National Wealth Fund* (russischer Staatsfonds).
 
@@ -1103,7 +1103,7 @@ Anhang 8*[^t-4]*
 
 [^annex8-lvlu1-1]
 
-[^t-4]: Bereinigt gemäss Ziff. I der V des WBF vom 15. März 2022, in Kraft seit 16. März 2022 um 12.00 Uhr ([AS 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)).
+[^t-4]: Bereinigt gemäss Ziff. I der V des WBF vom 15. März 2022 ([AS 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)) und vom 13. April 2022, in Kraft seit 13. April 2022 um 18.00 Uhr ([AS 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)).
 [^annex8-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 9
