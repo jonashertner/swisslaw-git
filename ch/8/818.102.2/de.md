@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2022-04-01
+version: 2022-04-14
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220414/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220414-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220414/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220401/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 1. April 2022)
+vom 4. Juni 2021 (Stand am 14. April 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -705,9 +705,9 @@ Das EDI ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur 
 Folgende Zertifikate behalten ihre bisherige Gültigkeitsdauer:
 
 - a. Covid-19-Impfzertifikate nach Artikel 15 Absatz 3 in der Fassung vom 3. November 2021[^34a-2];
-- b. Covid-19-Genesungszertifikate nach Artikel 16 Absatz 1 Buchstabe b in der Fassung vom 1. Februar 2022[^34a-3];
-- c. Covid-19-Genesungszertifikate nach Artikel 16 Absatz 3 in der Fassung vom 3. November 2021[^34a-4];
-- d. Covid-19-Ausnahmezertifikate nach Artikel 21*a* in der Fassung vom 3. November 2021[^34a-5].
+- b.[^34a-3] Covid-19-Genesungszertifikate nach Artikel 16 Absatz 1 Buchstabe b in der Fassung vom 19. Januar 2022[^34a-4];
+- c. Covid-19-Genesungszertifikate nach Artikel 16 Absatz 3 in der Fassung vom 3. November 2021[^34a-5];
+- d. Covid-19-Ausnahmezertifikate nach Artikel 21*a* in der Fassung vom 3. November 2021[^34a-6].
 
 <sup>2</sup> Für Covid-19-Zertifikate nach Absatz 1 werden keine Signaturzertifikate an ausländische Systeme nach Artikel 25 Buchstabe a geliefert; sie enthalten einen Hinweis auf die dementsprechende beschränkte Gültigkeit.
 
@@ -717,9 +717,10 @@ Folgende Zertifikate behalten ihre bisherige Gültigkeitsdauer:
 
 [^34a-1]: Eingefügt durch Ziff. I der V vom 16. Febr. 2022 (Auslaufen der nur in der Schweiz gültigen Covid-19-Zertifikate), in Kraft seit 17. Febr. 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
 [^34a-2]: [AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)
-[^34a-3]: [AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20), [21](https://fedlex.data.admin.ch/eli/oc/2022/21), [60](https://fedlex.data.admin.ch/eli/oc/2022/60)
-[^34a-4]: [AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)
-[^34a-5]: [AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)
+[^34a-3]: Berichtigung vom 14. Apr. 2022 ([AS 2022 239](https://fedlex.data.admin.ch/eli/oc/2022/239)).
+[^34a-4]: [AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)
+[^34a-5]: [AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)
+[^34a-6]: [AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)
 
 #### Art. 35
 
@@ -915,7 +916,6 @@ Anhang 3*[^t-3]*
 - 2\.2 Datum des ersten positiven Ergebnisses.
 - 2\.3 Beginn der Gültigkeit.
 - 2\.4 Ende der Gültigkeit.
-  - [tab]
 
 Anhang 4*[^t-4]*
 

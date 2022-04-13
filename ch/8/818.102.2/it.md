@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2022-04-01
+version: 2022-04-14
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220414/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220414-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220414/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220401/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 1° aprile 2022) (Stato 1° aprile 2022)
+del 4 giugno 2021 (Stato 14 aprile 2022) (Stato 14 aprile 2022)
 
 Il Consiglio federale svizzero,
 
@@ -707,9 +707,9 @@ Il DFI ha la competenza di concludere trattati internazionali in vista del recep
 I seguenti certificati mantengono la loro precedente durata di validità:
 
 - a. certificati di vaccinazione COVID-19 di cui all’articolo 15 capoverso 3 nella versione del 3 novembre 2021[^34a-2];
-- b. certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 1 lettera b nella versione del 1° febbraio 2022[^34a-3];
-- c. certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 3 nella versione del 3 novembre 2021[^34a-4];
-- d. certificati di deroga COVID-19 di cui all’articolo 21*a* nella versione del 3 novembre 2021[^34a-5].
+- b.[^34a-3] certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 1 lettera b nella versione del 19 gennaio 2022[^34a-4];
+- c. certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 3 nella versione del 3 novembre 2021[^34a-5];
+- d. certificati di deroga COVID-19 di cui all’articolo 21*a* nella versione del 3 novembre 2021[^34a-6].
 
 <sup>2</sup> Per i certificati COVID-19 di cui al capoverso 1, non sono forniti certificati di firma a sistemi esteri secondo l’articolo 25 lettera a; essi contengono l’indicazione relativa alla corrispondente validità limitata.
 
@@ -719,9 +719,10 @@ I seguenti certificati mantengono la loro precedente durata di validità:
 
 [^34a-1]: Introdotto dal n. I dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera), in vigore dal 17 feb. 2022 ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
 [^34a-2]: [RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)
-[^34a-3]: [RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20), [21](https://fedlex.data.admin.ch/eli/oc/2022/21), [60](https://fedlex.data.admin.ch/eli/oc/2022/60)
-[^34a-4]: [RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)
-[^34a-5]: [RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)
+[^34a-3]: Correzione del 14 apr. 2022 ([RU 2022 239](https://fedlex.data.admin.ch/eli/oc/2022/239)).
+[^34a-4]: [RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)
+[^34a-5]: [RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)
+[^34a-6]: [RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)
 
 #### Art. 35
 
@@ -895,8 +896,6 @@ La prova ai sensi dell’articolo 13 capoverso 1 lettera d è considerata fornit
 <tr><td>Covovax (NXV-CoV2373)</td><td>Serum Institute of India</td><td>Nuvaxovid (NVX-CoV2373)</td></tr>
 </table>
 
-- [tab]
-
 [^annex2-lvlu1-lvl3-1]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^annex2-lvlu1-lvl3-2]: Regolamento (CE) n. 726/2004 del Parlamento europeo e del Consiglio del 31 marzo 2004 che istituisce procedure comunitarie per l’autorizzazione e la sorveglianza dei medicinali per uso umano e veterinario, e che istituisce l’agenzia europea per i medicinali, GU L 136 del 30.4.2004, pag. 1; modificato da ultimo dal Regolamento (UE) n. 2019/5, GU L 4 del 7.1.2019, pag. 24.
 
@@ -951,8 +950,6 @@ Allegato 4*[^t-4]*
 - g. Centro di test o istituzione presso cui è stato eseguito il test
 
 Allegato 4a*[^t-5]*
-
-- [tab]
 
 [^t-5]: Introdotto dal n. II dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Abrogato dal n. II cpv. 3 dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera), con effetto dal 17 feb. 2022 ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
 

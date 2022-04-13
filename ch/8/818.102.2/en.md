@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2022-04-01
+version: 2022-04-14
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220401/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220401-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220401/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220414/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220414-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220414/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 1 April 2022)
+of 4 June 2021 (Status as of 14 April 2022)
 
 The Swiss Federal Council,
 
@@ -707,9 +707,9 @@ The FDHA shall be responsible for concluding international treaties for the adop
 The following certificates retain their current validity:
 
 - a. COVID-19 vaccination certificates under Article 15 paragraph 3 in its version of 3 November 2021[^34a-2];
-- b. COVID-19 recovery certificates under Article 16 paragraph 1 letter b in its version of 1 February 2022[^34a-3];
-- c. COVID-19 recovery certificates under Article 16 paragraph 3 in its version of 3 November 2021[^34a-4];
-- d. COVID-19 exemption certificates under Article 21*a* in its version of 3 November 2021[^34a-5].
+- b.[^34a-3] COVID-19 recovery certificates under Article 16 paragraph 1 letter b in its version of 19 January 2022[^34a-4];
+- c. COVID-19 recovery certificates under Article 16 paragraph 3 in its version of 3 November 2021[^34a-5];
+- d. COVID-19 exemption certificates under Article 21*a* in its version of 3 November 2021[^34a-6].
 
 <sup>2</sup> No electronically signed certificates shall be delivered to foreign systems under Article 25 letter a for COVID-19-certificates in accordance with paragraph 1; they shall contain a reference to their related limited validity.
 
@@ -719,9 +719,10 @@ The following certificates retain their current validity:
 
 [^34a-1]: Inserted by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force since 17 Feb. 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
 [^34a-2]: [AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)
-[^34a-3]: [AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20), [21](https://fedlex.data.admin.ch/eli/oc/2022/21), [60](https://fedlex.data.admin.ch/eli/oc/2022/60)
-[^34a-4]: [AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)
-[^34a-5]: [AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)
+[^34a-3]: Correction of 14 Apr. 2022 ([AS 2022 239](https://fedlex.data.admin.ch/eli/oc/2022/239)).
+[^34a-4]: [AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)
+[^34a-5]: [AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)
+[^34a-6]: [AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)
 
 #### Art. 35
 

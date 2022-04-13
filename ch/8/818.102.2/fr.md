@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2022-04-01
+version: 2022-04-14
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220414/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220414-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220414/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220401/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 1<sup>er</sup> avril 2022)
+du 4 juin 2021 (Etat le 14 avril 2022)
 
 Le Conseil fédéral suisse,
 
@@ -705,9 +705,9 @@ Le DFI est compétent pour conclure des traités internationaux concernant l’a
 Les certificats suivants conservent leur ancienne durée de validité:
 
 - a. les certificats de vaccination COVID-19 visés à l’art. 15, al. 3, dans la version du 3 novembre 2021[^34a-2];
-- b. les certificats de guérison COVID-19 visés à l’art. 16, al. 1, let. b, dans la version du 1<sup>er</sup> février 2022[^34a-3];
-- c. les certificats de guérison COVID-19 visés à l’art. 16, al. 3, dans la version du 3 novembre 2021[^34a-4];
-- d. les certificats de dérogation COVID-19 visés à l’art. 21*a*, dans la version du 3 novembre 2021[^34a-5].
+- b.[^34a-3] les certificats de guérison COVID-19 visés à l’art. 16, al. 1, let. b, dans la version du 19 janvier 2022[^34a-4];
+- c. les certificats de guérison COVID-19 visés à l’art. 16, al. 3, dans la version du 3 novembre 2021[^34a-5];
+- d. les certificats de dérogation COVID-19 visés à l’art. 21*a*, dans la version du 3 novembre 2021[^34a-6].
 
 <sup>2</sup> Pour les certificats COVID-19 visés à l’al. 1, les certificats de signature ne sont pas livrés aux systèmes étrangers visés à l’art. 25, let. a; ils comportent une remarque sur la validité limitée desdits certificats.
 
@@ -717,9 +717,10 @@ Les certificats suivants conservent leur ancienne durée de validité:
 
 [^34a-1]: Introduit par le ch. I de l’O du 16 fév. 2022 (Expiration des certificats dont la validité est limitée à la Suisse), en vigueur depuis le 17 fév. 2022 ([RO 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
 [^34a-2]: [RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)
-[^34a-3]: [RO 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20), [21](https://fedlex.data.admin.ch/eli/oc/2022/21), [60](https://fedlex.data.admin.ch/eli/oc/2022/60)
-[^34a-4]: [RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)
-[^34a-5]: [RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)
+[^34a-3]: Erratum du 14 avr. 2022 ([RO 2022 239](https://fedlex.data.admin.ch/eli/oc/2022/239)).
+[^34a-4]: [RO 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)
+[^34a-5]: [RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)
+[^34a-6]: [RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)
 
 #### Art. 35
 
