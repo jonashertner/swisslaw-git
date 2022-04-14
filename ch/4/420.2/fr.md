@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 juin 2016 sur l'Agence suisse pour l'encouragement 
 short: LASEI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/712"
 language: fr
-version: 2018-01-01
+version: 2022-04-15
 adopted: 2016-06-17
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/712/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-712-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/712/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/712/20220415/fr/xml/fedlex-data-admin-ch-eli-cc-2016-712-20220415-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/712/20220415/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/712/20180101/fr"
 
 (Loi sur Innosuisse, LASEI)[^t-1]
 
-du 17 juin 2016 (Etat le 1<sup>er</sup> janvier 2018)
+du 17 juin 2016 (Etat le 15 avril 2022)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -68,7 +68,7 @@ arrête:
 
 <sup>2</sup> Elle accomplit les tâches prévues aux art. 18, al. 1 et 2, et 19 à 24, LERI.
 
-<sup>3</sup> Dans la mesure où le Conseil fédéral, le Département fédéral de l’économie, de la formation et de la recherche (DEFR) ou le Secrétariat d’Etat à la formation, à la recherche et à l’innovation (SEFRI) l’y habilitent, elle représente la Confédération dans les organisations ou organes internationaux d’encouragement de l’innovation au sens de l’art. 28, al. 2, let. c, LERI et prend des mesures et des décisions dans le cadre de la participation de la Confédération à ces organisations ou organes internationaux.
+<sup>3</sup> Dans la mesure où le Conseil fédéral, le Département fédéral de l’économie, de la formation et de la recherche (DEFR) ou le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI) l’y habilitent, elle représente la Confédération dans les organisations ou organes internationaux d’encouragement de l’innovation au sens de l’art. 28, al. 2, let. c, LERI et prend des mesures et des décisions dans le cadre de la participation de la Confédération à ces organisations ou organes internationaux.
 
 <sup>4</sup> Elle encourage, dans son domaine de compétence, l’information sur les programmes nationaux et internationaux ainsi que sur le dépôt des demandes.
 
@@ -304,7 +304,7 @@ La Confédération octroie chaque année à Innosuisse des indemnités pour fina
 
 #### Art. 18
 
-**Etablissement des comptes**
+**Établissement des comptes**
 
 <sup>1</sup> Les comptes d’Innosuisse sont établis de manière à présenter l’état réel de la fortune, des finances et des revenus.
 
@@ -370,11 +370,16 @@ Le conseil d’administration détermine dans l’ordonnance sur les contributio
 
 - a. les instruments d’encouragement d’Innosuisse;
 - b. les conditions de l’encouragement et du soutien;
-- c. la procédure de sélection des fournisseurs de prestations au sens de l’art. 21, al. 1, LERI[^23-1];
+- b<sup>bis</sup>.[^23-1] …
+- b<sup>ter</sup>.[^23-2] les critères déterminant le montant des prestations propres à fournir par les jeunes entreprises et les petites et moyennes entreprises visées à l’art. 19, al. 3<sup>bis</sup> [^23-3] et 3<sup>ter</sup>, LERI;
+- c. la procédure de sélection des fournisseurs de prestations au sens de l’art. 21, al. 1, LERI[^23-4];
 - d. les conditions et les modalités de l’octroi de contributions à des partenaires de recherche étrangers associés à des projets d’innovation transfrontières;
 - e. le calcul des contributions et les modalités de paiement.
 
-[^23-1]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^23-1]: Entre en vigueur le 1<sup>er</sup> janvier 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-2]: Introduite par l’annexe de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 15 avr. 2022 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-3]: En vigueur le 1<sup>er</sup> janvier 2023.
+[^23-4]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
 
 ## Section 7 Sauvegarde des intérêts de la Confédération
 

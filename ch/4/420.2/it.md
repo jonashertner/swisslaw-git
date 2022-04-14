@@ -4,11 +4,11 @@ title: "Legge federale del 17 giugno 2016 sull'Agenzia svizzera per la promozion
 short: LASPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/712"
 language: it
-version: 2018-01-01
+version: 2022-04-15
 adopted: 2016-06-17
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/712/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2016-712-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/712/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/712/20220415/it/xml/fedlex-data-admin-ch-eli-cc-2016-712-20220415-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/712/20220415/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/712/20180101/it"
 
 (Legge su Innosuisse, LASPI)
 
-del 17 giugno 2016 (Stato 1° gennaio 2018)
+del 17 giugno 2016 (Stato 15 aprile 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -368,11 +368,16 @@ Il consiglio d’amministrazione stabilisce nell’ordinanza sui sussidi in part
 
 - a. gli strumenti di promozione di Innosuisse;
 - b. le condizioni della promozione e del sostegno;
-- c. la procedura di selezione dei fornitori di prestazioni di cui all’articolo 21 capoverso 1 LPRI[^23-1];
+- b<sup>bis</sup>.[^23-1] ...
+- b<sup>ter</sup>.[^23-2] i criteri per determinare l’importo delle prestazioni proprie delle giovani imprese e delle piccole e medie imprese di cui all’articolo 19 capoversi 3<sup>bis</sup>[^23-3] e 3<sup>ter</sup> LPRI;
+- c. la procedura di selezione dei fornitori di prestazioni di cui all’articolo 21 capoverso 1 LPRI[^23-4];
 - d. le condizioni e le modalità di concessione dei sussidi a partner di ricerca esteri nell’ambito di progetti d’innovazione transfrontalieri;
 - e. le modalità di calcolo dei sussidi e del loro versamento.
 
-[^23-1]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^23-1]: In vigore dal 1° gen. 2022 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-2]: Introdotta dall’all. della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 15 apr. 2022 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-3]: In vigore il 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-4]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
 
 ## Sezione 7: Tutela degli interessi della Confederazione
 
@@ -473,7 +478,7 @@ Nei cinque anni successivi all’acquisizione della personalità giuridica da pa
 
 Data dell’entrata in vigore:[^31-1] 1° gennaio 2018 Art. 1 cpv. 5, 5 a 13, 18, 20 cpv. 3, 22 a 26, 27 cpv. 2 a 6, e 28: 1° gennaio 2017.
 
-[^31-1]: DCF del 16 nov. 2016
+[^31-1]: DCF del 16 nov. 2016.
 
 Allegato
 

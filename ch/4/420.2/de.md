@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2016 über die Schweizerische Agentur für Inn
 short: SAFIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/712"
 language: de
-version: 2018-01-01
+version: 2022-04-15
 adopted: 2016-06-17
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/712/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2016-712-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/712/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/712/20220415/de/xml/fedlex-data-admin-ch-eli-cc-2016-712-20220415-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/712/20220415/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/712/20180101/de"
 
 (Innosuisse-Gesetz, SAFIG)
 
-vom 17. Juni 2016 (Stand am 1. Januar 2018)
+vom 17. Juni 2016 (Stand am 15. April 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -368,11 +368,16 @@ Der Verwaltungsrat legt in der Beitragsverordnung namentlich fest:
 
 - a. die Förderinstrumente der Innosuisse;
 - b. die Voraussetzungen der Förderung und Unterstützung;
-- c. das Auswahlverfahren für Leistungserbringerinnen und -erbringer nach Artikel 21 Absatz 1 FIFG[^23-1];
+- b<sup>bis</sup>.[^23-1] …
+- b<sup>ter</sup>.[^23-2] die Kriterien für die Bestimmung der Höhe der Eigenleistungen der Jungunternehmen und kleinen und mittleren Unternehmen nach Artikel 19 Absätze 3<sup>bis</sup>[^23-3] und 3<sup>ter</sup> FIFG;
+- c. das Auswahlverfahren für Leistungserbringerinnen und -erbringer nach Artikel 21 Absatz 1 FIFG[^23-4];
 - d. die Voraussetzungen und die Modalitäten der Gewährung von Beiträgen an ausländische Forschungspartner bei grenzüberschreitenden Innovationsprojekten;
 - e. die Beitragsberechnung und die Auszahlungsmodalitäten.
 
-[^23-1]: [SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^23-1]: Tritt am 1. Jan. 2023 in Kraft ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-2]: Eingefügt durch Anhang des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 15. April 2022 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-3]: Tritt am 1. Jan. 2023 in Kraft ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-4]: [SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
 
 ## 7. Abschnitt: Wahrung der Bundesinteressen
 

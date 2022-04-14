@@ -4,11 +4,11 @@ title: "Federal Act of 17 June 2016 on the Swiss Innovation Agency (Innosuisse A
 short: SIAA
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/712"
 language: en
-version: 2018-01-01
+version: 2022-04-15
 adopted: 2016-06-17
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/712/20180101/en/xml/fedlex-data-admin-ch-eli-cc-2016-712-20180101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/712/20180101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/712/20220415/en/xml/fedlex-data-admin-ch-eli-cc-2016-712-20220415-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/712/20220415/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Innosuisse Act, SIAA)
 
-of 17 June 2016 (Status as of 1 January 2018)
+of 17 June 2016 (Status as of 15 April 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -368,11 +368,16 @@ The Board of Directors shall establish the following in the Funding Ordinance:
 
 - a. the funding instruments of Innosuisse;
 - b. the conditions for promotion and support;
-- c. the selection procedure for service providers under Article 21 paragraph 1 RIPA[^23-1];
+- b<sup>bis</sup>.[^23-1] …
+- b<sup>ter</sup>.[^23-2] the criteria for determining the amount of the contributions to be made by start-ups and small and medium-sized enterprises themselves under Article 19 paragraphs 3<sup>bis</sup> [^23-3] and 3<sup>ter</sup> RIPA;
+- c. the selection procedure for service providers under Article 21 paragraph 1 RIPA[^23-4];
 - d. the conditions and terms for granting subsidies to foreign research partners for cross-border innovation projects;
 - e. calculation of funding amounts and terms of payment.
 
-[^23-1]: [SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^23-1]: Comes into force on 1 Jan 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-2]: Inserted by the annexe of the FA of 17 Dec. 2021 (Changes to Innovation Promotion), in force since 15 April 2022 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-3]: Comes into force on 1 Jan 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-4]: [SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
 
 ## Section 7 Safeguarding Federal Interests
 
