@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 14. Oktober 2019 über die Umsetzung des Risikoaus
 short: VORA-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/618"
 language: de
-version: 2021-05-15
+version: 2022-04-15
 adopted: 2019-10-14
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20210515/de/xml/fedlex-data-admin-ch-eli-cc-2019-618-20210515-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20210515/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20220415/de/xml/fedlex-data-admin-ch-eli-cc-2019-618-20220415-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20220415/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20210515/de"
 
 (VORA-EDI)
 
-vom 14. Oktober 2019 (Stand am 15. Mai 2021)
+vom 14. Oktober 2019 (Stand am 15. April 2022)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -96,5 +96,5 @@ Anhang*[^t-1]*
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 15. April 2021, in Kraft seit 15. Mai 2021 ([AS 2021 230](https://fedlex.data.admin.ch/eli/oc/2021/230)).
-[^annexu1-lvlu1-1]: Die PCG-Liste wird in der AS nicht veröffentlicht. Sie kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Versicherer und Aufsicht &gt; Risikoausgleich. Es gilt die Fassung vom 15. April 2021.
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 25. Febr. 2022, in Kraft seit 15. April 2022 ([AS 2022 166](https://fedlex.data.admin.ch/eli/oc/2022/166)).
+[^annexu1-lvlu1-1]: Die PCG-Liste wird in der AS nicht veröffentlicht. Sie kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Versicherer und Aufsicht &gt; Risikoausgleich. Es gilt die Fassung vom 25. Februar 2022.

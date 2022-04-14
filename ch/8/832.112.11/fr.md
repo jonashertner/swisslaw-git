@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 14 octobre 2019 sur la mise en œuvre de la compens
 short: OCoR-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/618"
 language: fr
-version: 2021-05-15
+version: 2022-04-15
 adopted: 2019-10-14
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20210515/fr/xml/fedlex-data-admin-ch-eli-cc-2019-618-20210515-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20210515/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20220415/fr/xml/fedlex-data-admin-ch-eli-cc-2019-618-20220415-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20220415/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20210515/fr"
 
 (OCoR-DFI)
 
-du 14 octobre 2019 (Etat le 15 mai 2021)
+du 14 octobre 2019 (Etat le 15 avril 2022)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -92,9 +92,9 @@ Annexe*[^t-1]*
 
 (art. 1)
 
-## Liste des PCG
+## Liste des PCG****
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 15 avr. 2021, en vigueur depuis le 15 mai 2021 ([RO 2021 230](https://fedlex.data.admin.ch/eli/oc/2021/230)).
-[^annexu1-lvlu1-1]: La liste des PCG n’est pas publiée au RO. Elle peut être consultée à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Assureurs et surveillance &gt; Compensation des risques. La version en vigueur est celle du 15 avril 2021.
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 25 fév. 2022, en vigueur depuis le 15 avr. 2022 ([RO 2022 166](https://fedlex.data.admin.ch/eli/oc/2022/166)).
+[^annexu1-lvlu1-1]: La liste des PCG n’est pas publiée au RO. Elle peut être consultée à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Assureurs et surveillance &gt; Compensation des risques. La version applicable est celle du 25 février 2022.
