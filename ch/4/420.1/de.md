@@ -4,11 +4,11 @@ title: Bundesgesetz vom 14. Dezember 2012 über die Förderung der Forschung und
 short: FIFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: de
-version: 2021-04-15
+version: 2022-04-15
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20210415/de/xml/fedlex-data-admin-ch-eli-cc-2013-786-20210415-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20210415/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20220415/de/xml/fedlex-data-admin-ch-eli-cc-2013-786-20220415-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20220415/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20210415/de"
 
 (FIFG)
 
-vom 14. Dezember 2012 (Stand am 15. April 2021)
+vom 14. Dezember 2012 (Stand am 15. April 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -442,17 +442,23 @@ Beiträge werden nur gewährt, wenn die folgenden Voraussetzungen erfüllt sind:
 
 <sup>3</sup> Die Innosuisse kann Machbarkeitsstudien, Prototypen und Versuchsanlagen auch ohne Umsetzungspartner fördern, wenn sie von Hochschulforschungsstätten oder nichtkommerziellen Forschungsstätten ausserhalb des Hochschulbereichs realisiert werden und es sich um Vorhaben mit bedeutendem Innovationspotenzial handelt.[^19-3]
 
-<sup>4</sup> Sie kann zudem Instrumente zur Beteiligung an den Kosten für Abklärungen der wirkungsvollen Umsetzbarkeit von Projekten der Unternehmen vorsehen.[^19-4]
+<sup>3bis</sup> …[^19-4]
 
-<sup>5</sup> Sie fördert insbesondere Vorhaben nach den Absätzen 1 und 3, die einen Beitrag zur nachhaltigen Ressourcennutzung leisten.[^19-5]
+<sup>3ter</sup> Soweit Schweizer Unternehmen der Zugang zu Förderangeboten für Einzelprojekte der Europäischen Kommission verwehrt ist, kann die Innosuisse Innovationsprojekte mit bedeutendem Innovationspotenzial von Jungunternehmen und kleinen und mittleren Unternehmen mit dem Ziel einer raschen und effizienten Vermarktung und einem entsprechenden Wachstum fördern. Der Beitrag der Innosuisse dient zur teilweisen oder vollständigen Deckung sowohl der dem Unternehmen selbst entstehenden direkten Projektkosten als auch der Kosten für Drittleistungen. Die Innosuisse legt die Förderkriterien und die Kriterien für die Bestimmung der Höhe der Eigenleistungen der Unternehmen in ihrer Beitragsverordnung fest.[^19-5]
+
+<sup>4</sup> Sie kann zudem Instrumente zur Beteiligung an den Kosten für Abklärungen der wirkungsvollen Umsetzbarkeit von Projekten der Unternehmen vorsehen.[^19-6]
+
+<sup>5</sup> Sie fördert insbesondere Vorhaben nach den Absätzen 1, 3, 3<sup>bis</sup>, 3<sup>ter</sup> und 4, die einen Beitrag zur nachhaltigen Ressourcennutzung leisten.[^19-7]
 
 <sup>6</sup> Die geförderten Vorhaben müssen die Grundsätze der wissenschaftlichen Integrität und der guten wissenschaftlichen Praxis beachten. Bei Verstössen gelten die Sanktionen und die Informationspflicht nach Artikel 12 Absätze 2–4.
 
 [^19-1]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
 [^19-2]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^19-3]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^19-4]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^19-5]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^19-4]: Tritt am 1. Jan. 2023 in Kraft ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-5]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 15. April 2022 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-6]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^19-7]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 15. April 2022 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 20
 
@@ -623,7 +629,7 @@ Der Bundesrat kann im Rahmen der bewilligten Kredite folgende Beiträge ausricht
   - 1\. Information interessierter Kreise in der Schweiz über Aktivitäten und Programme der internationalen wissenschaftlichen Zusammenarbeit im Bereich von Forschung und Innovation,
   - 2\. Beratung und Unterstützung interessierter Kreise in der Schweiz bei der Erarbeitung und Einreichung von Gesuchen bezüglich internationaler Programme und Projekte im Bereich von Forschung und Innovation.
 
-- g.[^29-4] ...
+- g.[^29-4] …
 
 <sup>2</sup> Der Bundesrat regelt die Bemessung der Beiträge und das Verfahren.
 
@@ -1061,9 +1067,9 @@ Der Bundesrat erlässt die Ausführungsbestimmungen.
 
 <sup>3</sup> Das HFKG wird wie folgt geändert:
 
-...[^57-3]
+…[^57-3]
 
-[^57-1]: [[AS 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)Art. 19, [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Anhang Ziff. 4 [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)Anhang Ziff. 9, [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99), [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286), [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634), [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 39, [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109), [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99), [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)Ziff. I 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 13, [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532)]
+[^57-1]: [[AS 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28); [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)Art. 19; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Anhang Ziff. 4 [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)Anhang Ziff. 9; [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99); [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286); [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 39; [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109); [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)Ziff. I 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 13; [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532)]
 [^57-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 [^57-3]: Die Änderung kann unter [AS 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786)konsultiert werden.
 

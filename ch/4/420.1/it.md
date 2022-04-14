@@ -4,11 +4,11 @@ title: "Legge federale del 14 dicembre 2012 sulla promozione della ricerca e del
 short: LPRI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: it
-version: 2021-04-15
+version: 2022-04-15
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20210415/it/xml/fedlex-data-admin-ch-eli-cc-2013-786-20210415-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20210415/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20220415/it/xml/fedlex-data-admin-ch-eli-cc-2013-786-20220415-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20220415/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20210415/it"
 
 (LPRI)
 
-del 14 dicembre 2012 (Stato 15 aprile 2021) (Stato 15 aprile 2021)
+del 14 dicembre 2012 (Stato 15 aprile 2022) (Stato 15 aprile 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -442,15 +442,22 @@ I sussidi sono accordati soltanto se sono adempiute le seguenti condizioni:
 
 <sup>3</sup> Innosuisse può promuovere studi di fattibilità, prototipi e impianti sperimentali anche senza partner attuatori, se sono realizzati da centri di ricerca universitari o da centri di ricerca extrauniversitari a scopo non lucrativo e se presentano un notevole potenziale innovativo.[^19-3]
 
+<sup>3bis</sup> ...[^19-4]
+
+<sup>3ter</sup> Qualora alle imprese svizzere sia precluso l’accesso alle offerte di promozione della Commissione europea destinate a progetti individuali, Innosuisse può promuovere i progetti d’innovazione di giovani imprese e di piccole e medie imprese che presentano un potenziale d’innovazione importante, allo scopo di assicurare una commercializzazione rapida ed efficace e una crescita corrispondente. Il sussidio di Innosuisse serve a coprire parzialmente o interamente sia i costi diretti di progetto a carico dell’impresa stessa sia i costi per prestazioni di terzi. Innosuisse stabilisce nella sua ordinanza sui sussidi i criteri per la promozione e i criteri per determinare l’importo delle prestazioni proprie delle imprese.[^19-5]
+
 <sup>4</sup> Essa può inoltre prevedere strumenti di partecipazione ai costi degli esami volti a valutare il potenziale di sfruttamento dei progetti delle imprese.
 
-<sup>5</sup> Promuove in particolare i progetti di cui ai capoversi 1 e 3 che contribuiscono a un uso sostenibile delle risorse.
+<sup>5</sup> Promuove in particolare i progetti di cui ai capoversi 1, 3, 3<sup>bis</sup>, 3<sup>ter</sup> e 4 che contribuiscono a un uso sostenibile delle risorse.[^19-6]
 
 <sup>6</sup> I progetti promossi devono rispettare i principi dell’integrità scientifica e della buona prassi scientifica. In caso di violazione di tali principi, si applicano le sanzioni e l’obbligo d’informare di cui all’articolo 12 capoversi 2–4.
 
 [^19-1]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
 [^19-2]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^19-3]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^19-4]: Entra in vigore il 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-5]: Introdotto dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 15 apr. 2022 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-6]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 15 apr. 2022 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 20
 
@@ -1061,7 +1068,7 @@ Il Consiglio federale emana le disposizioni d’esecuzione.
 
 …[^57-3]
 
-[^57-1]: [[RU 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)art. 19, [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. 3 n. 3 [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)all. n. 9, [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99), [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286), [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634), [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 39, [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109), [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99), [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)n. I 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 13, [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532)]
+[^57-1]: [[RU 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28); [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)art. 19; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. 3 n. 3, [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)all. n. 9; [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99); [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286); [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 39; [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109); [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)n. I 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 13; [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532)]
 [^57-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 [^57-3]: La mod. può essere consultata alla [RU 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786).
 

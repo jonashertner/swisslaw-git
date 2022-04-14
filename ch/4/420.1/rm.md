@@ -4,11 +4,11 @@ title: "Lescha federala dals 14 da december 2012 davart la promoziun da la persc
 short: LPPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: rm
-version: 2021-04-15
+version: 2022-04-15
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20210415/rm/xml/fedlex-data-admin-ch-eli-cc-2013-786-20210415-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20210415/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20220415/rm/xml/fedlex-data-admin-ch-eli-cc-2013-786-20220415-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20220415/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPPI)
 
-dals 14 da december 2012 (versiun dals 15 d’avrigl 2021)
+dals 14 da december 2012 (versiun dals 15 d’avrigl 2022)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -444,17 +444,23 @@ Contribuziuns vegnan mo concedidas, sche las suandantas premissas èn ademplidas
 
 <sup>3</sup> La Innosuisse po promover studis da realisabladad, prototips ed experiments er senza partenaris da realisaziun, sch’els vegnan realisads d’instituts da la perscrutaziun en scolas autas u d’instituts da perscrutaziun betg commerzials che na tutgan betg en il sectur da las scolas autas e sch’i sa tracta da projects che han in potenzial d’innovaziun considerabel.[^19-3]
 
-<sup>4</sup> Ella po plinavant prevair instruments per la participaziun als custs per scleriments davart la realisabladad efficazia da projects da las interpresas.[^19-4]
+<sup>3bis</sup> …[^19-4]
 
-<sup>5</sup> Ella promova en spezial projects tenor ils alineas 1 e 3 che gidan a realisar in’utilisaziun persistenta da las resursas.[^19-5]
+<sup>3ter</sup> Sche interpresas svizras vegnan exclusas da purschidas da promoziun da la Cumissiun europeica, las qualas èn destinadas a projects singuls, po la Innosuisse promover projects d’innovaziun d’interpresas giuvnas e d’interpresas pitschnas e mesaunas, sche quests projects cuntegnan in potenzial d’innovaziun impurtant, cun la finamira d’ina commerzialisaziun svelta ed efficazia e d’ina creschientscha correspundenta. La contribuziun da la Innosuisse serva a cuvrir parzialmain u totalmain tant ils custs directs dal project, ils quals resultan a l’interpresa sezza, sco er ils custs per prestaziuns da terzas persunas. En sia ordinaziun da contribuziuns fixescha la Innosuisse ils criteris da promoziun sco er ils criteris per determinar l’autezza da las atgnas prestaziuns da las interpresas.[^19-5]
+
+<sup>4</sup> Ella po plinavant prevair instruments per la participaziun als custs per scleriments davart la realisabladad efficazia da projects da las interpresas.[^19-6]
+
+<sup>5</sup> Ella promova en spezial projects tenor ils alineas 1, 3, 3<sup>bis</sup>, 3<sup>ter</sup> e 4 che gidan a realisar in’utilisaziun persistenta da las resursas.[^19-7]
 
 <sup>6</sup> Ils projects promovids ston observar ils princips da l’integritad scientifica e da la buna pratica scientifica. En cas da cuntravenziuns valan las sancziuns e l’obligaziun d’infurmaziun tenor l’artitgel 12 alineas 2–4.
 
 [^19-1]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
 [^19-2]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^19-3]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^19-4]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^19-5]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^19-4]: Entra en vigur il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-5]: Integrà tras la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi ils 15 d’avr. 2022 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-6]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^19-7]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi ils 15 d’avr. 2022 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 20
 
@@ -1065,7 +1071,7 @@ Il Cussegl federal decretescha las disposiziuns executivas.
 
 ...[^57-3]
 
-[^57-1]: [[AS 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)art. 19, [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)agiunta cifra 4 [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)agiunta cifra 9, [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99), [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286), [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634), [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 39, [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109), [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99), [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)cifra I 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)cifra I 13, [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532)]
+[^57-1]: [[AS 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28); [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)art. 19; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)agiunta cifra 4 [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)agiunta cifra 9; [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99); [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286); [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 39; [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109); [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)cifra I 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)cifra I 13; [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532)]
 [^57-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 [^57-3]: La midada po vegnir consultada en la [AS 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786).
 

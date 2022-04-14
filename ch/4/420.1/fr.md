@@ -4,11 +4,11 @@ title: "Loi fédérale du 14 décembre 2012 sur l'encouragement de la recherche 
 short: LERI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: fr
-version: 2021-04-15
+version: 2022-04-15
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20210415/fr/xml/fedlex-data-admin-ch-eli-cc-2013-786-20210415-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20210415/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20220415/fr/xml/fedlex-data-admin-ch-eli-cc-2013-786-20220415-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20220415/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20210415/fr"
 
 (LERI)
 
-du 14 décembre 2012 (Etat le 15 avril 2021)
+du 14 décembre 2012 (Etat le 15 avril 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -442,17 +442,23 @@ Les contributions sont uniquement accordées si les conditions suivantes sont re
 
 <sup>3</sup> Innosuisse peut encourager des études de faisabilité ainsi que la réalisation de prototypes et de dispositifs pilotes sans qu’il y ait de partenaire chargé de la mise en valeur s’ils sont réalisés par des établissements de recherche du domaine des hautes écoles ou des établissements de recherche sans but lucratif situés en dehors du domaine des hautes écoles et que leur potentiel d’innovation est important.[^19-3]
 
-<sup>4</sup> Innosuisse peut en outre prévoir des instruments permettant de participer aux coûts d’études destinées à évaluer si les projets des entreprises peuvent être mis en œuvre de manière efficace.[^19-4]
+<sup>3bis</sup> …[^19-4]
 
-<sup>5</sup> Elle encourage tout particulièrement les projets visés aux al. 1 et 3 qui contribuent à l’utilisation durable des ressources.[^19-5]
+<sup>3ter</sup> Dans la mesure où les entreprises suisses se voient refuser l’accès aux offres d’encouragement de la Commission européenne destinées aux projets individuels, Innosuisse peut encourager les projets d’innovation de jeunes entreprises et de petites et moyennes entreprises, lorsqu’ils présentent un potentiel d’innovation important, afin d’assurer une commercialisation rapide et efficace et une croissance correspondante. La contribution d’Innosuisse sert à couvrir partiellement ou entièrement aussi bien les coûts directs du projet à la charge de l’entreprise elle-même que les coûts des prestations fournies par des tiers. Innosuisse fixe les critères d’encouragement et les critères déterminant le montant des prestations propres des entreprises dans son ordonnance sur les contributions.[^19-5]
+
+<sup>4</sup> Innosuisse peut en outre prévoir des instruments permettant de participer aux coûts d’études destinées à évaluer si les projets des entreprises peuvent être mis en œuvre de manière efficace.[^19-6]
+
+<sup>5</sup> Elle encourage tout particulièrement des projets au sens des al. 1, 3, 3<sup>bis</sup>, 3<sup>ter</sup> et 4 qui apportent une contribution à l’utilisation durable des ressources.[^19-7]
 
 <sup>6</sup> Les projets encouragés doivent respecter les principes de l’intégrité scientifique et des bonnes pratiques scientifiques. Les sanctions et l’obligation d’informer au sens de l’art. 12, al. 2 à 4, s’appliquent aux infractions.
 
 [^19-1]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
 [^19-2]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^19-3]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^19-4]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^19-5]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^19-4]: Entre en vigueur le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-5]: Introduit par le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 15 avr. 2022 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-6]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^19-7]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 15 avr. 2022 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 20
 

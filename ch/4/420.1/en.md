@@ -4,11 +4,11 @@ title: Federal Act of 14 December 2012 on the Promotion of Research and Innovati
 short: RIPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: en
-version: 2021-04-15
+version: 2022-04-15
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20210415/en/xml/fedlex-data-admin-ch-eli-cc-2013-786-20210415-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20210415/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20220415/en/xml/fedlex-data-admin-ch-eli-cc-2013-786-20220415-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20220415/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (RIPA)
 
-of 14 December 2012 (Status as of 15 April 2021)
+of 14 December 2012 (Status as of 15 April 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -444,17 +444,23 @@ Contributions shall only be granted if the following requirements are fulfilled:
 
 <sup>3</sup> Innosuisse may fund feasibility studies, prototypes and testing facilities even without implementation partners if they are carried out by higher education research centres or non-commercial research institutes outside the higher education sector and the project has significant potential for innovation.[^19-3]
 
-<sup>4</sup> It may in addition provide for instruments to subsidise the costs of studies carried out by companies to determine the effectiveness and feasibility of projects.[^19-4]
+<sup>3bis</sup> …[^19-4]
 
-<sup>5</sup> In particular, it shall promote projects under paragraphs 1 and 3 which make a contribution to the sustainable use of resources.[^19-5]
+<sup>3ter</sup> Where Swiss companies are denied access to European Commission funding opportunities for individual projects, Innosuisse may support projects with significant innovation potential from start-ups and small and medium-sized enterprises that target rapid and efficient commercialisation and corresponding growth. Innosuisse's contribution may be used to partially or fully cover both the company’s own direct project costs and the costs for third-party services. Innosuisse shall specify the eligibility criteria and the criteria for determining the amount of the companies' own contributions in its Contribution Ordinance.[^19-5]
+
+<sup>4</sup> It may in addition provide for instruments to subsidise the costs of studies carried out by companies to determine the effectiveness and feasibility of projects.[^19-6]
+
+<sup>5</sup> In particular, it shall promote projects under paragraphs 1 3, 3<sup>bis</sup>, 3<sup>ter</sup> and 4 which make a contribution to the sustainable use of resources.[^19-7]
 
 <sup>6</sup> The projects promoted must follow the principles of scientific integrity and good scientific practice. If this is not the case, the sanctions and the duty to provide information under Article 12 paragraphs 2–4 apply.
 
 [^19-1]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
 [^19-2]: Amended by Annex No 2 of the FA of 17 June 2016 on the Swiss Innovation Agency, in force since 1 Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^19-3]: Amended by Annex No 2 of the FA of 17 June 2016 on the Swiss Innovation Agency, in force since 1 Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^19-4]: Amended by Annex No 2 of the FA of 17 June 2016 on the Swiss Innovation Agency, in force since 1 Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^19-5]: Amended by Annex No 2 of the FA of 17 June 2016 on the Swiss Innovation Agency, in force since 1 Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^19-4]: Comes into force on 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-5]: Inserted by No I of the FA of 17 Dec. 2021 (Changes to Innovation Promotion), in force since 15 April 2022 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-6]: Amended by Annex No 2 of the FA of 17 June 2016 on the Swiss Innovation Agency, in force since 1 Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^19-7]: Amended by No I of the FA of 17 Dec. 2021 (Changes to Innovation Promotion), in force since 15 April 2022 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 20
 
@@ -494,7 +500,7 @@ It may support the setting up and development of science-based businesses by:[^2
 
 Vouchers may be used in support of:
 
-- a. new entrepreneurs for guidance, consulting and coaching (Art. 20 para. 2 let. a);
+- a. new entrepreneurs or their start-ups for guidance, consulting and coaching (Art. 20 para. 2 let. a);
 - b. companies for innovation mentoring (Art. 20 para. 3).
 
 <sup>4</sup> Innosuisse-funded services and corresponding maximum thresholds shall be formalised in a contract with the voucher recipient under paragraph 3. In simple cases, funding commitments shall be made by an official decision.
