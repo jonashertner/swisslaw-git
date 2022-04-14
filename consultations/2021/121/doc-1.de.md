@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Vereinbarung mit Quebec über die Gegenseitige Anerkennung von Berufsqualifikationen und fünf Absprachen über die gegenseitige Anerkennung von Berufsqualifikationen
 document: Vernehmlassungsvorlage-3
 language: de

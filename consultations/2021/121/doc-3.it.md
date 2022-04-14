@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Intesa sul riconoscimento delle qualifiche professionali con il Quebec e accordi di riconoscimento reciproco per cinque professioni
 document: Progetto posto in consultazione-5
 language: it

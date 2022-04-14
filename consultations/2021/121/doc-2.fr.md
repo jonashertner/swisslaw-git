@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Entente en matière de reconnaissance mutuelle des qualifications professionnelles avec le Québec et cinq Arrangements de reconnaissance mutuelle
 document: Projet mis en consultation-4
 language: fr
