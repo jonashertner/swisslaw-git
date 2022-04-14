@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Obligation de signaler les cyberattaques contre les infrastructures critiques
 document: Projet mis en consultation
 language: fr

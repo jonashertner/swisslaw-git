@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Meldepflicht von Betreiberinnen kritischer Infrastrukturen für Cyberangriffe
 document: Vernehmlassungsvorlage
 language: de

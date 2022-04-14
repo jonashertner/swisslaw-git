@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Obbligo di notifica di ciberattacchi per i gestori di infrastrutture critiche
 document: Progetto posto in consultazione
 language: it
