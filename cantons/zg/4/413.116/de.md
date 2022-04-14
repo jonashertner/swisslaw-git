@@ -3,20 +3,20 @@ canton: ZG
 number: "413.116"
 title: Verordnung über die Erhebung von Gebühren im Amt für Berufsberatung
 language: de
-version: 2021-01-01
-valid_until: 2022-04-14
-version_adopted: 2020-12-15
+version: 2022-04-15
+valid_until: 2023-12-31
+version_adopted: 2022-04-12
 adopted: 2018-03-27
 in_force: 2018-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/413.116"
-pdf: "https://bgs.zg.ch/api/de/versions/2184/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2333/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Erhebung von Gebühren im Amt für Berufsberatung
 
-Vom 27. März 2018 (Stand 1. Januar 2021)
+Vom 27. März 2018 (Stand 15. April 2022)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -55,8 +55,8 @@ beschliesst:
 - a) über keinen Berufs- oder Mittelschulabschluss verfügen;
 - b) beim Regionalen Arbeitsvermittlungszentrum (RAV) gemeldet sind und die Kosten durch das RAV übernommen werden;
 - c) IV Ergänzungsleistungen oder Sozialhilfe beziehen;
-- d) asylsuchend, vorläufig aufgenommen oder anerkannte Flüchtlinge sind und über einen Aufenthaltsstatus N, F oder B verfügen;
-- e) eine Beratung in Anspruch nehmen, welche im Rahmen des Projekts "Durchführung eines Pilotprogramms zur Bundesratsmassnahme 'Kostenlose Standortbestimmung, Potenzialabklärung und Laufbahnberatung für Erwachsene über 40 Jahre' (STAPAL)" durchgeführt wird.
+- d) asylsuchend, vorläufig aufgenommen oder anerkannte Flüchtlinge sind und über einen Aufenthaltsstatus S, N, F oder B verfügen;
+- e) eine Beratung in Anspruch nehmen, welche im Rahmen des Projekts «Kostenlose Standortbestimmung, Potenzialabklärung und Laufbahnberatung für Erwachsene über 40 Jahre» viamia des Bundesrats durchgeführt wird.
 
 <sup>2</sup> Schülerinnen und Schüler, welche im Kanton Zug eine gemeindliche oder kantonale Vollzeitschule besuchen (ausgenommen Tertiärstufe), sind von der Beitragspflicht befreit, auch wenn ihr Wohnsitz sich ausserhalb des Kantons Zug befindet.
 
