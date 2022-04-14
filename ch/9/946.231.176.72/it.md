@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2022-04-13
+version: 2022-04-15
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220413/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220413-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220413/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220415/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220415-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220415/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 13 aprile 2022)
+del 4 marzo 2022 (Stato 15 aprile 2022)
 
 Il Consiglio federale svizzero,
 
