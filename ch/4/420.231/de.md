@@ -3,11 +3,11 @@ sr: "420.231"
 title: Verordnung vom 20. September 2017 der Schweizerischen Agentur für Innovationsförderung über ihre Förderbeiträge und anderen Unterstützungsmassnahmen (Beitragsverordnung Innosuisse)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/734"
 language: de
-version: 2018-01-01
+version: 2022-04-15
 adopted: 2017-09-20
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/734/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2017-734-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/734/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/734/20220415/de/xml/fedlex-data-admin-ch-eli-cc-2017-734-20220415-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/734/20220415/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,19 +16,20 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/734/20180101/de"
 
 (Beitragsverordnung Innosuisse)
 
-vom 20. September 2017 (Stand am 1. Januar 2018)
+vom 20. September 2017 (Stand am 15. April 2022)
 
 vom Bundesrat genehmigt am 15. November 2017
 
 Der Verwaltungsrat der Schweizerischen Agentur für Innovationsförderung (Innosuisse),
 
-gestützt auf die Artikel 7 Absatz 1 Buchstabe e und 23 des Innosuisse-Gesetzes vom 17. Juni 2016[^ingress-1] (SAFIG), auf Artikel 12 Absatz 3 des Bundesgesetzes vom 14. Dezember 2012[^ingress-2] über die Förderung der Forschung und der Innovation (FIFG) und auf Artikel 38 der Forschungs- und Innovationsförderungsverordnung vom 29. November 2013[^ingress-3] (V-FIFG),
+gestützt auf die Artikel 7 Absatz 1 Buchstabe e und 23 des Innosuisse-Gesetzes vom 17. Juni 2016[^ingress-1] (SAFIG), auf die Artikel 12 Absatz 3 und Artikel 19 Absatz 3<sup>ter</sup> des Bundesgesetzes vom 14. Dezember 2012[^ingress-2] über die Förderung der Forschung und der Innovation (FIFG) und auf Artikel 38 der Forschungs- und Innovationsförderungsverordnung vom 29. November 2013[^ingress-3] (V-FIFG),[^ingress-4]
 
 verordnet:
 
 [^ingress-1]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
 [^ingress-2]: [SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
 [^ingress-3]: [SR 420.11](https://fedlex.data.admin.ch/eli/cc/2013/814)
+[^ingress-4]: Fassung gemäss Ziff. I des Verwaltungsrats von Innosuisse vom 24. Jan. 2022, vom BR genehmigt am 4. März 2022 und in Kraft seit 15. April 2022 ([AS 2022 222](https://fedlex.data.admin.ch/eli/oc/2022/222)).
 
 ## 1. Kapitel: Gegenstand
 
@@ -206,6 +207,61 @@ Massgebende Kriterien für die Zusprache von Förderbeiträgen sind:
 <sup>3</sup> Die Innosuisse kann Projekte ohne Umsetzungspartner höchstens 18 Monate lang unterstützen.
 
 <sup>4</sup> Die Vollzugsbestimmungen für Projekte im Rahmen der Aufträge des Bundesrates zur Durchführung themenorientierter Förderprogramme können abweichende Bestimmungen enthalten.
+
+## 3*a*. Abschnitt:**** Beiträge an Innovationsprojekte von kleinen und mittleren Unternehmen
+
+[^sec3a-1]
+
+[^sec3a-1]: Eingefügt durch Ziff. I des Verwaltungsrats von Innosuisse vom 24. Jan. 2022, vom BR genehmigt am 4. März 2022 und in Kraft seit 15. April 2022 ([AS 2022 222](https://fedlex.data.admin.ch/eli/oc/2022/222)).
+
+### (Art. 19 Abs. 3<sup>ter</sup> FIFG)
+
+#### Art. 13a
+
+**Gesuchseinreichung und Voraussetzungen für die Gesuchstellenden**
+
+Zur Einreichung eines Gesuchs um einen Beitrag für ein Innovationsprojekt eines Unternehmens gemäss Artikel 19 Absatz 3<sup>ter</sup> FIFG berechtigt sind kleine und mittlere Unternehmen, die:
+
+- a. ihren Sitz in der Schweiz haben;
+- b. über die finanzielle Kapazität zur Erbringung der vorgesehenen Eigenleistungen verfügen; und
+- c. eine rasche und effiziente Vermarktung der Ergebnisse des Projekts und ein entsprechendes Wachstum anstreben.
+
+#### Art. 13b
+
+**Art der Projekte und Beurteilungskriterien**
+
+<sup>1</sup>
+
+Das Innovationsprojekt muss die folgenden Eigenschaften erfüllen:
+
+- a. Es weist ein überdurchschnittlich hohes Innovationspotenzial auf.
+- b. Das mit ihm verbundene Geschäftsmodell weist Skalierungspotenzial auf.
+- c. Das mit ihm verbundene Produkt oder die mit ihm verbundene Dienstleistung steht bereits nahe an der Markteinführung oder Anwendung.
+
+<sup>2</sup> Im Übrigen richtet sich die Beurteilung des Gesuchs nach Artikel 4.
+
+#### Art. 13c
+
+**Bemessung der Beiträge und Höchstdauer**
+
+<sup>1</sup>
+
+Der Beitrag wird aufgrund der folgenden budgetierten direkten Projektkosten bemessen:
+
+- a. Personalkosten nach Artikel 6 Absätze 1–4;
+- b. Sachkosten für die Realisierung des Projekts.
+
+<sup>2</sup> Es werden nur diejenigen Kosten berücksichtigt, die für die zweckmässige Durchführung des Projekts erforderlich sind.
+
+<sup>3</sup>
+
+Der Anteil an den Kosten nach Absatz 1, der mit dem Beitrag gedeckt wird, wird nach den folgenden Kriterien festgelegt:
+
+- a. Realisierungsrisiken;
+- b. Wertschöpfungspotenzial und Grösse des Nutzerkreises, der von einer erfolgreichen Umsetzung profitiert;
+- c. wirtschaftliche Leistungsfähigkeit des Unternehmens.
+
+<sup>4</sup> Der Innovationsrat kann für Beiträge an Projekte von kleinen und mittleren Unternehmen einen Höchstbetrag, einen Höchstsatz und eine Höchstdauer vorsehen.
 
 ### 4. Abschnitt: Gutschriften für Vorstudien (Innovationsschecks)
 
@@ -754,7 +810,7 @@ Die Innosuisse ahndet Verstösse gegen die wissenschaftliche Integrität und die
 
 Das Beitragsreglement der Kommission für Technologie und Innovation vom 13. November 2013[^56-1] wird aufgehoben.
 
-[^56-1]: [[AS 2013 4627](https://fedlex.data.admin.ch/eli/oc/2013/816), [2016 4255](https://fedlex.data.admin.ch/eli/oc/2016/711)]
+[^56-1]: [[AS 2013 4627](https://fedlex.data.admin.ch/eli/oc/2013/816); [2016 4255](https://fedlex.data.admin.ch/eli/oc/2016/711)]
 
 #### Art. 57
 

@@ -3,11 +3,11 @@ sr: "420.231"
 title: "Ordinanza del 20 settembre 2017 dell'Agenzia svizzera per la promozione dell'innovazione concernente i suoi sussidi e altri provvedimenti di sostegno (Ordinanza sui sussidi di Innosuisse)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/734"
 language: it
-version: 2018-01-01
+version: 2022-04-15
 adopted: 2017-09-20
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/734/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2017-734-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/734/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/734/20220415/it/xml/fedlex-data-admin-ch-eli-cc-2017-734-20220415-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/734/20220415/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,19 +16,20 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/734/20180101/it"
 
 (Ordinanza sui sussidi di Innosuisse)
 
-del 20 settembre 2017 (Stato 1° gennaio 2018)
+del 20 settembre 2017 (Stato 15 aprile 2022)
 
-approvata dal Consiglio federale il 15 novembre 2017
+Approvata dal Consiglio federale il 15 novembre 2017
 
 Il consiglio d’amministrazione dell’Agenzia svizzera per la promozione dell’innovazione (Innosuisse),
 
-visti gli articoli 7 capoverso 1 lettera e e 23 della legge del 17 giugno 2016[^ingress-1] su Innosuisse (LASPI); visto l’articolo 12 capoverso 3 delle legge federale del 14 dicembre 2012[^ingress-2] sulla promozione della ricerca e dell’innovazione (LPRI); visto l’articolo 38 dell’ordinanza del 29 novembre 2013[^ingress-3] sulla promozione della ricerca e dell’innovazione (O-LPRI),
+visti gli articoli 7 capoverso 1 lettera e nonché 23 della legge del 17 giugno 2016[^ingress-1] su Innosuisse (LASPI); visti gli articoli 12 capoverso 3 e 19 capoverso 3<sup>ter</sup> della legge federale del 14 dicembre 2012[^ingress-2] sulla promozione della ricerca e dell’innovazione (LPRI); visto l’articolo 38 dell’ordinanza del 29 novembre 2013[^ingress-3] sulla promozione della ricerca e dell’innovazione (O-LPRI),[^ingress-4]
 
 ordina:
 
 [^ingress-1]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
 [^ingress-2]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
 [^ingress-3]: [RS 420.11](https://fedlex.data.admin.ch/eli/cc/2013/814)
+[^ingress-4]: Nuovo testo giusta il n. I dell’O di Innosuisse del 24 gen. 2022, approvata dal CF il 4 mar. 2022, in vigore dal 15 apr. 2022 ([RU 2022 222](https://fedlex.data.admin.ch/eli/oc/2022/222)).
 
 ## Capitolo 1: Oggetto
 
@@ -206,6 +207,56 @@ I criteri determinanti per la concessione di sussidi sono:
 <sup>3</sup> Innosuisse può sostenere progetti senza partner attuatori per 18 mesi al massimo.
 
 <sup>4</sup> Le disposizioni d’esecuzione relative a progetti concernenti incarichi del Consiglio federale per la realizzazione di programmi di promozione tematici possono prevedere deroghe.
+
+## Sezione 3*a*:**** Sussidi per progetti d’innovazione di piccole e medie imprese
+
+[^sec3a-1]
+
+[^sec3a-1]: Introdotta dal n. I dell’O di Innosuisse del 24 gen. 2022, approvata dal CF il 4 mar. 2022, in vigore dal 15 apr. 2022 ([RU 2022 222](https://fedlex.data.admin.ch/eli/oc/2022/222)).
+
+### (art. 19 cpv. 3<sup>ter</sup> LPRI)
+
+#### Art. 13a
+
+**Presentazione della domanda e condizioni per i richiedenti**
+
+Possono presentare domanda di sussidio per un progetto d’innovazione di un’impresa secondo l’articolo 19 capoverso 3<sup>ter</sup> LPRI le piccole e medie imprese che:
+
+- a. hanno sede in Svizzera;
+- b. dispongono della capacità finanziaria per fornire le prestazioni proprie previste; e
+- c. puntano a una commercializzazione rapida ed efficace dei risultati del progetto e a una crescita corrispondente.
+
+#### Art. 13b
+
+**Tipi di progetto e criteri di valutazione**
+
+<sup>1</sup>
+
+Il progetto d’innovazione deve avere le seguenti caratteristiche:
+
+- a. presenta un potenziale innovativo superiore alla media;
+- b. il modello di business associato ha un potenziale di scalabilità;
+- c. il prodotto associato o la prestazione di servizio associata sono prossimi al lancio sul mercato o all’applicazione.
+
+<sup>2</sup> Per il rimanente la valutazione della domanda è disciplinata dall’articolo 4.
+
+#### Art. 13c
+
+**Calcolo dei sussidi e durata massima**
+
+<sup>1</sup>
+
+Il sussidio è calcolato sulla base dei seguenti costi diretti del progetto preventivati:
+
+- a. costi per il personale di cui all’articolo 6 capoversi 1–4;
+- b. costi materiali per la realizzazione del progetto.
+- [tab] <sup>2</sup> Sono presi in considerazione solo i costi necessari per un’attuazione appropriata del progetto.
+- [tab] <sup>3</sup> La quota dei costi di cui al capoverso 1 che è coperta dal sussidio è determinata secondo i seguenti criteri:
+- a. rischi di realizzazione;
+- b. potenziale di creazione di valore aggiunto e dimensione del gruppo di utenti che beneficia di un’attuazione efficace del progetto;
+- c. capacità economiche dell’azienda.
+
+<sup>4</sup> Il Consiglio dell’innovazione può prevedere un importo massimo, un’aliquota massima e una durata massima per i sussidi a progetti delle piccole e medie imprese.
 
 ### Sezione 4: Accrediti per studi preliminari (assegni per l’innovazione)
 
@@ -712,7 +763,9 @@ La selezione dei mentori avviene secondo i criteri seguenti:
 - e. buoni rapporti ed esperienze con i servizi cantonali e regionali preposti alla promozione economica nonché con le associazioni di settore e le associazioni industriali;
 - f. ottime conoscenze a livello nazionale e internazionale nel campo del trasferimento di sapere e tecnologie.
 
-## Capitolo 9: Integrità scientifica e buona prassi scientifica (art. 12 cpv. 3 LPRI)
+## Capitolo 9: Integrità scientifica e buona prassi scientifica
+
+### (art. 12 cpv. 3 LPRI)
 
 #### Art. 54
 

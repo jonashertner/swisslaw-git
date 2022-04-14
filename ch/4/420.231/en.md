@@ -3,11 +3,11 @@ sr: "420.231"
 title: Ordinance of 20 September 2017 of the Swiss Innovation Promotion Agency on its Funding and Other Support Measures Innosuisse Funding Ordinance)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/734"
 language: en
-version: 2018-01-01
+version: 2022-04-15
 adopted: 2017-09-20
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/734/20180101/en/xml/fedlex-data-admin-ch-eli-cc-2017-734-20180101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/734/20180101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/734/20220415/en/xml/fedlex-data-admin-ch-eli-cc-2017-734-20220415-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/734/20220415/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,19 +18,20 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Innosuisse Funding Ordinance)
 
-of 20 September 2017 (Status as of 1 January 2018)
+of 20 September 2017 (Status as of 15 April 2022)
 
 approved by the Federal Council on 15 November 2017
 
 The Board of Directors the Swiss Innovation Promotion Agency (Innosuisse),
 
-based on Article 7 paragraph 1 letter e and 23 of the Innosuisse Act of 17 June 2016[^ingress-1] (SIAA), on Article 12 paragraph 3 of the Federal Act of 14 December 2012[^ingress-2] on the Promotion of Research and Innovation (RIPA) and on Article 38 of the Ordinance of 29 November 2013[^ingress-3] on the Promotion of Research and Innovation (RIPO),
+based on Article 7 paragraph 1 letter e and 23 of the Innosuisse Act of 17 June 2016[^ingress-1] (SIAA), on Articles 12 paragraph 3 and 19 paragraph 3<sup>ter</sup> of the Federal Act of 14 December 2012[^ingress-2] on the Promotion of Research and Innovation (RIPA) and on Article 38 of the Ordinance of 29 November 2013[^ingress-3] on the Promotion of Research and Innovation (RIPO),[^ingress-4]
 
 ordains:
 
 [^ingress-1]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
 [^ingress-2]: [SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
 [^ingress-3]: [SR 420.11](https://fedlex.data.admin.ch/eli/cc/2013/814)
+[^ingress-4]: Amended by No I of the Board of Directors of Innosuisse of 24 Jan. 2022, approved by the Federal Council on 4 March 2022 and in force since 15 April 2022 ([AS 2022 222](https://fedlex.data.admin.ch/eli/oc/2022/222)).
 
 ## Chapter 1 Subject Matter
 
@@ -39,7 +40,7 @@ ordains:
 This Ordinance governs the following Innosuisse support measures:
 
 - a. innovation project funding (Art. 19 RIPA);
-- b. support of science-based entrepreneurial initiatives, including the setting-up and development of science-based businesses (Art. 20 para. 1 und 2 RIPA);
+- b. support of science-based entrepreneurial initiatives, including the setting-up and development of science-based businesses (Art. 20 para. 1 and 2 RIPA);
 - c. promotion of knowledge exploitation, and knowledge and technology transfer (Art. 20 para. 3 RIPA);
 - d. promotion of information on funding opportunities and on submitting applications (information transfer) (Art. 3 para. 4 SIAA);
 - e. support for next-generation innovators (Art. 22 RIPA);
@@ -173,7 +174,7 @@ Implementation partners are required to provide Innosuisse on request with infor
 
 ### Section 3 Contributions to Innovation Projects without Implementation Partners
 
-### (Art. 7 para. 3 and Art. 19 para. 3 RIPA)
+### (Art. 7 para. 3 and 19 para. 3 RIPA)
 
 #### Art. 11
 
@@ -208,6 +209,61 @@ Funding is awarded based on the following key criteria:
 <sup>3</sup> Innosuisse may support projects without an implementation partner for a maximum period of 18 months.
 
 <sup>4</sup> The implementing provisions for projects within the framework of tasks awarded by the Federal Council for the implementation of topic-specific funding programmes may contain different provisions.
+
+## Section 3*a***** Contributions to Innovation Projects from Small and Medium-Sized Enterprises
+
+[^sec3a-1]
+
+[^sec3a-1]: Inserted by No I of the Board of Directors of Innosuisse of 24 Jan. 2022, approved by the Federal Council on 4 March 2022 and in force since 15 April 2022 ([AS 2022 222](https://fedlex.data.admin.ch/eli/oc/2022/222)).
+
+### (Art. 19 para. 3<sup>ter</sup> RIPA)
+
+#### Art. 13a
+
+**Application submission and applicant prerequisites**
+
+Applications for innovation project funding under Article 19 paragraph 3<sup>ter</sup> RIPA may be submitted by small and medium-sized enterprises that:
+
+- a. are based in Switzerland;
+- b. have the financial capacity to provide their own corresponding share of funding; and
+- c. seek to rapidly and efficiently market project results and achieve corresponding growth.
+
+#### Art. 13b
+
+**Form of projects and assessment criteria**
+
+<sup>1</sup>
+
+The innovation project must have the following characteristics:
+
+- a. It has above-average innovation potential.
+- b. The associated business model offers scaling potential.
+- c. The associated product or service is already close to market introduction or application.
+
+<sup>2</sup> The assessment is otherwise governed by Article 4.
+
+#### Art. 13c
+
+**Calculation of contributions and maximum duration**
+
+<sup>1</sup>
+
+The contribution is calculated on the basis of the following budgeted direct project costs:
+
+- a. personnel costs in accordance with Article 6 paragraphs 1–4;
+- b. costs of materials used to carry out the project.
+
+<sup>2</sup> Only those costs that are required to adequately implement the project shall be considered.
+
+<sup>3</sup>
+
+The share of the costs in accordance with paragraph 1 that are covered by the contribution shall be determined on the basis of the following criteria:
+
+- a. realisation risks;
+- b. the value creation potential and size of the user group that benefits from successful implementation;
+- c. the potential economic performance of the company.
+
+<sup>4</sup> The Innovation Council may specify a maximum amount, maximum rate and maximum duration for contributions to projects carried out by small and medium-sized enterprises.
 
 ### Section 4 Preliminary Study Vouchers (Innovation Cheques)
 

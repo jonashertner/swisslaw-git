@@ -3,11 +3,11 @@ sr: "420.231"
 title: "Ordonnance du 20 septembre 2017 de l'Agence suisse pour l'encouragement de l'innovation relative aux contributions et autres mesures de soutien (Ordonnance sur les contributions d'Innosuisse)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/734"
 language: fr
-version: 2018-01-01
+version: 2022-04-15
 adopted: 2017-09-20
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/734/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-734-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/734/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/734/20220415/fr/xml/fedlex-data-admin-ch-eli-cc-2017-734-20220415-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/734/20220415/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,19 +16,20 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/734/20180101/fr"
 
 (Ordonnance sur les contributions d’Innosuisse)
 
-du 20 septembre 2017 (Etat le 1<sup>er</sup> janvier 2018)
+du 20 septembre 2017 (Etat le 15 avril 2022)
 
 approuvée par le Conseil fédéral le 15 novembre 2017
 
 Le conseil d’administration de l’Agence suisse pour l’encouragement de l’innovation (Innosuisse),
 
-vu les art. 7, al. 1, let. e, et 23 de la loi du 17 juin 2016 sur Innosuisse (LASEI)[^ingress-1], vu l’art. 12, al. 3, de la loi fédérale du 14 décembre 2012 sur l’encouragement de la recherche et de l’innovation (LERI)[^ingress-2], vu l’art. 38 de l’ordonnance du 29 novembre 2013 sur l’encouragement de la recherche et de l’innovation (O-LERI)[^ingress-3],
+vu les art. 7, al. 1, let. e, et 23 de la loi du 17 juin 2016 sur Innosuisse (LASEI)[^ingress-1], vu les art. 12, al. 3 et 19, al. 3<sup>ter</sup>, de la loi fédérale du 14 décembre 2012 sur l’encouragement de la recherche et de l’innovation (LERI)[^ingress-2], vu l’art. 38 de l’ordonnance du 29 novembre 2013 sur l’encouragement de la recherche et de l’innovation (O-LERI)[^ingress-3],[^ingress-4]
 
 arrête:
 
 [^ingress-1]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
 [^ingress-2]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
 [^ingress-3]: [RS 420.11](https://fedlex.data.admin.ch/eli/cc/2013/814)
+[^ingress-4]: Nouvelle teneur selon le ch. I de l’O d’Innosuisse du 24 janv. 2022, approuvée par le CF le 4 mars 2022, en vigueur depuis le 15 avr. 2022 ([RO 2022 222](https://fedlex.data.admin.ch/eli/oc/2022/222)).
 
 ## Chapitre 1 Objet
 
@@ -208,6 +209,61 @@ Les critères déterminants pour l’allocation d’une contribution sont:
 <sup>3</sup> Innosuisse peut soutenir des projets réalisés sans partenaire chargé de la mise en valeur pour une durée maximale de 18 mois.
 
 <sup>4</sup> Les dispositions d’exécution relatives aux projets réalisés dans le cadre des mandats du Conseil fédéral pour l’exécution de programmes d’encouragement thématiques peuvent en disposer autrement.
+
+## Section 3*a***** Contributions à des projets d’innovation de petites et moyennes entreprises
+
+[^sec3a-1]
+
+[^sec3a-1]: Introduite par le ch. I de l’O d’Innosuisse du 24 janv. 2022, approuvée par le CF le 4 mars 2022, en vigueur depuis le 15 avr. 2022 ([RO 2022 222](https://fedlex.data.admin.ch/eli/oc/2022/222)).
+
+### (art. 19, al. 3<sup>ter</sup>, LERI)
+
+#### Art. 13a
+
+**Dépôt de la demande et conditions applicables aux requérants**
+
+Peuvent déposer une demande de contribution à un projet d’innovation de petite ou moyenne entreprise en vertu de l’art. 19, al. 3<sup>ter</sup>, LERI les petites et moyennes entreprises qui:
+
+- a. ont leur siège en Suisse;
+- b. ont la capacité financière de verser les prestations propres prévues, et
+- c. visent une commercialisation rapide et efficace des résultats du projet et une croissance correspondante.
+
+#### Art. 13b
+
+**Nature des projets et critères d’évaluation**
+
+<sup>1</sup>
+
+Le projet d’innovation doit répondre aux critères suivants:
+
+- a. son potentiel d’innovation est supérieur à la moyenne;
+- b. le modèle d’affaires y lié a un potentiel de scalabilité;
+- c. le produit ou le service y lié est déjà proche de son entrée sur le marché ou de sa mise en œuvre.
+
+<sup>2</sup> Pour le reste, les demandes sont évaluées conformément à l’art. 4.
+
+#### Art. 13c
+
+**Calcul et durée maximale des contributions**
+
+<sup>1</sup>
+
+La contribution est calculée sur la base des coûts de projet directs budgétés suivants:
+
+- a. frais de personnel en vertu de l’art. 6, al. 1 à 4;
+- b. frais matériels pour la réalisation du projet.
+
+<sup>2</sup> Seuls sont pris en compte les coûts nécessaires à la réalisation appropriée du projet.
+
+<sup>3</sup>
+
+La part des coûts visés à l’al. 1 qui est couverte par la contribution est fixée selon les critères suivants:
+
+- a. les risques de réalisation;
+- b. le potentiel de création de valeur et la grandeur du cercle des utilisateurs susceptibles de bénéficier d’une mise en œuvre réussie;
+- c. la capacité économique de l’entreprise.
+
+<sup>4</sup> Le conseil de l’innovation peut prévoir un montant maximal, un taux maximal et une durée maximale pour les contributions à des projets de petites et moyennes entreprises.
 
 ### Section 4 Bons pour des études préliminaires (chèques d’innovation)
 
