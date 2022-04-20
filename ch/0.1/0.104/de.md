@@ -3,11 +3,11 @@ sr: "0.104"
 title: Internationales Übereinkommen vom 21. Dezember 1965 zur Beseitigung jeder Form von Rassendiskriminierung
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1164_1164_1164"
 language: de
-version: 2019-11-04
+version: 2022-04-21
 adopted: 1965-12-21
 in_force: 1994-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1164_1164_1164/20191104/de/xml/fedlex-data-admin-ch-eli-cc-1995-1164_1164_1164-20191104-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1164_1164_1164/20191104/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1164_1164_1164/20220421/de/xml/fedlex-data-admin-ch-eli-cc-1995-1164_1164_1164-20220421-de-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1164_1164_1164/20220421/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1995** 1164; BBl **1992** III 269
 
 Abgeschlossen in New York am 21. Dezember 1965 Von der Bundesversammlung genehmigt am 9. März 1993[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 29. November 1994 In Kraft getreten für die Schweiz am 29. Dezember 1994
 
-(Stand am 4. November 2019)
+(Stand am 21. April 2022)
 
 [^t-1]: [AS 1995 1163](https://fedlex.data.admin.ch/eli/oc/1995/1163_1163_1163)
 
@@ -52,8 +52,8 @@ in dem Wunsch, die in der Erklärung der Vereinten Nationen über die Beseitigun
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [SR 0.822.721.1](https://fedlex.data.admin.ch/eli/cc/1961/810_824_840)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [SR 0.822.721.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3628)
 
 ## Teil I
 
@@ -69,7 +69,9 @@ sind wie folgt übereingekommen:
 
 #### Art. 2
 
-<sup>1.</sup> Die Vertragsstaaten verurteilen die Rassendiskriminierung und verpflichten sich, mit allen geeigneten Mitteln unverzüglich eine Politik der Beseitigung der Rassendiskriminierung in jeder Form und der Förderung des Verständnisses unter allen Rassen zu verfolgen; zu diesem Zweck
+<sup>1.</sup>
+
+Die Vertragsstaaten verurteilen die Rassendiskriminierung und verpflichten sich, mit allen geeigneten Mitteln unverzüglich eine Politik der Beseitigung der Rassendiskriminierung in jeder Form und der Förderung des Verständnisses unter allen Rassen zu verfolgen; zu diesem Zweck:
 
 - a) verpflichtet sich jeder Vertragsstaat, Handlungen oder Praktiken der Rassendiskriminierung gegenüber Personen, Personengruppen oder Einrichtungen zu unterlassen und dafür zu sorgen, dass alle staatlichen und örtlichen Behörden und öffentlichen Einrichtungen im Einklang mit dieser Verpflichtung handeln,
 - b) verpflichtet sich jeder Vertragsstaat, eine Rassendiskriminierung durch Personen oder Organisationen weder zu fördern noch zu schützen noch zu unterstützen,
@@ -95,9 +97,9 @@ Die Vertragsstaaten verurteilen jede Propaganda und alle Organisationen, die auf
 
 Im Einklang mit den in Artikel 2 niedergelegten grundsätzlichen Verpflichtungen werden die Vertragsstaaten die Rassendiskriminierung in jeder Form verbieten und beseitigen und das Recht jedes einzelnen, ohne Unterschied der Rasse, der Hautfarbe, des nationalen Ursprungs oder des Volkstums, auf Gleichheit vor dem Gesetz gewährleisten; dies gilt insbesondere für folgende Rechte:
 
-- a) das Recht auf Gleichbehandlung vor den Gerichten und allen sonstigen Organen der Rechtspflege,
-- b) das Recht auf Sicherheit der Person und auf staatlichen Schutz gegen Gewalttätigkeit oder Körperverletzung, gleichviel ob sie von Staatsbediensteten oder von irgendeiner Person, Gruppe oder Einrichtung verübt werden,
-- c) die politischen Rechte, insbesondere das aktive und passive Wahlrecht auf der Grundlage allgemeiner und gleicher Wahlen, das Recht auf Beteiligung an der Regierung und an der Führung der öffentlichen Angelegenheiten auf jeder Ebene sowie das Recht auf gleichberechtigten Zugang zum öffentlichen Dienst,
+- a) das Recht auf Gleichbehandlung vor den Gerichten und allen sonstigen Organen der Rechtspflege;
+- b) das Recht auf Sicherheit der Person und auf staatlichen Schutz gegen Gewalttätigkeit oder Körperverletzung, gleichviel ob sie von Staatsbediensteten oder von irgendeiner Person, Gruppe oder Einrichtung verübt werden;
+- c) die politischen Rechte, insbesondere das aktive und passive Wahlrecht auf der Grundlage allgemeiner und gleicher Wahlen, das Recht auf Beteiligung an der Regierung und an der Führung der öffentlichen Angelegenheiten auf jeder Ebene sowie das Recht auf gleichberechtigten Zugang zum öffentlichen Dienst;
 - d) sonstige Bürgerrechte, insbesondere
   - i) das Recht auf Bewegungsfreiheit und freie Wahl des Aufenthaltsortes innerhalb der Staatsgrenzen,
   - ii) das Recht, jedes Land einschliesslich des eigenen zu verlassen und in das eigene Land zurückzukehren,
@@ -107,7 +109,7 @@ Im Einklang mit den in Artikel 2 niedergelegten grundsätzlichen Verpflichtungen
   - vi) das Recht zu erben,
   - vii) das Recht auf Gedanken‑, Gewissens‑ und Religionsfreiheit,
   - [tab] viii) das Recht auf Meinungsfreiheit und freie Meinungsäusserung,
-  - ix) das Recht, sich friedlich zu versammeln und friedliche Vereinigungen zu bilden,
+  - ix) das Recht, sich friedlich zu versammeln und friedliche Vereinigungen zu bilden;
 
 - e) wirtschaftliche, soziale und kulturelle Rechte, insbesondere
   - i) das Recht auf Arbeit, auf die freie Wahl des Arbeitsplatzes, auf gerechte und befriedigende Arbeitsbedingungen, auf Schutz gegen Arbeitslosigkeit, auf gleiches Entgelt für gleiche Arbeit, auf gerechte und befriedigende Entlöhnung,
@@ -115,7 +117,7 @@ Im Einklang mit den in Artikel 2 niedergelegten grundsätzlichen Verpflichtungen
   - iii) das Recht auf Wohnung,
   - iv) das Recht auf öffentliche Gesundheitsfürsorge, ärztliche Betreuung, soziale Sicherheit und soziale Dienstleistungen,
   - v) das Recht auf Erziehung und Ausbildung,
-  - vi) das Recht auf eine gleichberechtigte Teilnahme an kulturellen Tätigkeiten,
+  - vi) das Recht auf eine gleichberechtigte Teilnahme an kulturellen Tätigkeiten;
 
 - f) das Recht auf Zugang zu jedem Ort oder Dienst, der für die Benutzung durch die Öffentlichkeit vorgesehen ist, wie Verkehrsmittel, Hotels, Gaststätten, Cafés, Theater und Parks.
 
@@ -146,9 +148,11 @@ Die Vertragsstaaten verpflichten sich, unmittelbare und wirksame Massnahmen, ins
 
 #### Art. 9
 
-<sup>1.</sup> Die Vertragsstaaten verpflichten sich, dem Generalsekretär der Vereinten Nationen zur Beratung durch den Ausschuss einen Bericht über die zur Durchführung dieses Übereinkommens getroffenen Gesetzgebungs‑, Gerichts‑, Verwaltungs‑ und sonstigen Massnahmen vorzulegen, und zwar
+<sup>1.</sup>
 
-- a) binnen einem Jahr nach Inkrafttreten des Übereinkommens für den betreffenden Staat und
+Die Vertragsstaaten verpflichten sich, dem Generalsekretär der Vereinten Nationen zur Beratung durch den Ausschuss einen Bericht über die zur Durchführung dieses Übereinkommens getroffenen Gesetzgebungs‑, Gerichts‑, Verwaltungs‑ und sonstigen Massnahmen vorzulegen, und zwar:
+
+- a) binnen einem Jahr nach Inkrafttreten des Übereinkommens für den betreffenden Staat, und
 - b) danach alle zwei Jahre und sooft es der Ausschuss verlangt. Der Ausschuss kann von den Vertragsstaaten weitere Auskünfte verlangen.
 
 <sup>2.</sup> Der Ausschuss berichtet der Generalversammlung der Vereinten Nationen jährlich durch den Generalsekretär über seine Tätigkeit und kann auf Grund der Prüfung der von den Vertragsstaaten eingegangenen Berichte und Auskünfte Vorschläge machen und allgemeine Empfehlungen abgeben. Diese werden der Generalversammlung zusammen mit etwaigen Stellungnahmen der Vertragsstaaten zugeleitet.
@@ -246,7 +250,7 @@ Die Bestimmungen dieses Übereinkommens über die Beilegung von Streitigkeiten o
 
 <sup>2.</sup> Dieses Übereinkommen bedarf der Ratifizierung. Die Ratifikationsurkunden sind beim Generalsekretär der Vereinten Nationen zu hinterlegen.
 
-[^17-1]: [SR 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^17-1]: [SR 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 18
 
@@ -284,7 +288,7 @@ Entsteht zwischen zwei oder mehr Vertragsstaaten über die Auslegung oder Anwend
 
 #### Art. 24
 
-Der Generalsekretär der Vereinten Nationen unterrichtet alle in Artikel 17 Absatz 1 bezeichneten Staaten von
+Der Generalsekretär der Vereinten Nationen unterrichtet alle in Artikel 17 Absatz 1 bezeichneten Staaten von:
 
 - a) den Unterzeichnungen, Ratifikationen und Beitritten nach den Artikeln 17 und 18,
 - b) dem Datum des Inkrafttretens dieses Übereinkommens nach Artikel 19,
@@ -299,7 +303,7 @@ Der Generalsekretär der Vereinten Nationen unterrichtet alle in Artikel 17 Absa
 
 *Zu Urkund dessen* haben die von ihren Regierungen hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben, das in New York am 7. März neunzehnhundertsechsundsechzig zur Unterzeichnung aufgelegt worden ist. Geschehen in New York, am 21. Dezember 1965. (Es folgen die Unterschriften)
 
-Geltungsbereich am 4. November 2019**[^t-2]**
+Geltungsbereich am 21. April 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -337,7 +341,8 @@ Geltungsbereich am 4. November 2019**[^t-2]**
 <tr><td>[tab] Macau</td><td>19. Oktober</td><td>1999</td><td>20. Dezember</td><td>1999</td></tr>
 <tr><td>Costa Rica</td><td>16. Januar</td><td>1967</td><td>4. Januar</td><td>1969</td></tr>
 <tr><td>Côte d’Ivoire</td><td>4. Januar</td><td>1973 B</td><td>3. Februar</td><td>1973</td></tr>
-<tr><td>Dänemark\* \*\*</td><td>9. Dezember</td><td>1971</td><td>8. Januar</td><td>1972</td></tr>
+<tr><td>Dänemark\*\*</td><td>9. Dezember</td><td>1971</td><td>8. Januar</td><td>1972</td></tr>
+<tr><td>Färöer</td><td>1. November</td><td>1972</td><td>1. November</td><td>1972</td></tr>
 <tr><td>Deutschland\*\*</td><td>16. Mai</td><td>1969</td><td>15. Juni</td><td>1969</td></tr>
 <tr><td>Dominica</td><td>13. Mai</td><td>2019 B</td><td>12. Juni</td><td>2019</td></tr>
 <tr><td>Dominikanische Republik</td><td>25. Mai</td><td>1983 B</td><td>24. Juni</td><td>1983</td></tr>
@@ -473,7 +478,7 @@ Geltungsbereich am 4. November 2019**[^t-2]**
 <tr><td>Tschad</td><td>17. August</td><td>1977 B</td><td>16. September</td><td>1977</td></tr>
 <tr><td>Tschechische Republik</td><td>22. Februar</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Tunesien</td><td>13. Januar</td><td>1967</td><td>4. Januar</td><td>1969</td></tr>
-<tr><td>Türkei\*</td><td>16. September</td><td>2002 B</td><td>16. Oktober</td><td>2002</td></tr>
+<tr><td>Türkei\*</td><td>16. September</td><td>2002</td><td>16. Oktober</td><td>2002</td></tr>
 <tr><td>Turkmenistan</td><td>29. September</td><td>1994 B</td><td>29. Oktober</td><td>1994</td></tr>
 <tr><td>Uganda</td><td>21. November</td><td>1980 B</td><td>21. Dezember</td><td>1980</td></tr>
 <tr><td>Ukraine\*</td><td>7. März</td><td>1969</td><td>6. April</td><td>1969</td></tr>
@@ -488,10 +493,10 @@ Geltungsbereich am 4. November 2019**[^t-2]**
 <tr><td>Vietnam\*</td><td>9. Juni</td><td>1982 B</td><td>9. Juli</td><td>1982</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>16. März</td><td>1971</td><td>15. April</td><td>1971</td></tr>
 <tr><td>Zypern\*\*</td><td>21. April</td><td>1967</td><td>4. Januar</td><td>1969</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen \*\* Einwendungen Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen \*\* Einwendungen Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1995 1164](https://fedlex.data.admin.ch/eli/oc/1995/1164_1164_1164), [2003 2380](https://fedlex.data.admin.ch/eli/oc/2003/344), [2005 87](https://fedlex.data.admin.ch/eli/oc/2005/18), [2007 1323](https://fedlex.data.admin.ch/eli/oc/2007/213), [2010 711](https://fedlex.data.admin.ch/eli/oc/2010/108), [2013 695](https://fedlex.data.admin.ch/eli/oc/2013/130), [2016 2215](https://fedlex.data.admin.ch/eli/oc/2016/353)und [2019 3513](https://fedlex.data.admin.ch/eli/oc/2019/641). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: Diese Veröffentlichung ergänzt die früheren in [AS 2003 2380](https://fedlex.data.admin.ch/eli/oc/2003/344); [2005 87](https://fedlex.data.admin.ch/eli/oc/2005/18); [2007 1323](https://fedlex.data.admin.ch/eli/oc/2007/213); [2010 711](https://fedlex.data.admin.ch/eli/oc/2010/108); [2013 695](https://fedlex.data.admin.ch/eli/oc/2013/130); [2016 2215](https://fedlex.data.admin.ch/eli/oc/2016/353); [2019 3513](https://fedlex.data.admin.ch/eli/oc/2019/641); [2022 249](https://fedlex.data.admin.ch/eli/oc/2022/249). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](http://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 
@@ -511,7 +516,7 @@ Die Schweiz anerkennt in Anwendung des Artikels 14 Absatz 1 des Übereinkommens 
 
 [^t-3]: Art. 1 Abs. 1 Bst. a und b des BB vom 9. März 1993 ([AS 1995 1163](https://fedlex.data.admin.ch/eli/oc/1995/1163_1163_1163); [BBl 1992 III 269](https://fedlex.data.admin.ch/eli/fga/1992/3_269_265_217)) und BB vom 6. März 2003 ([AS 2005 87](https://fedlex.data.admin.ch/eli/oc/2005/18); [BBl 2001 5927](https://fedlex.data.admin.ch/eli/fga/2001/963)).
 
-Staaten, die nach Artikel 14 des Übereinkommens erklärt haben, die Zuständigkeit des Ausschusses zur Beseitigung der Rassendiskriminierung anzuerkennen**[^t-4]**
+Staaten, die nach Artikel 14 des Übereinkommens erklärt haben, die Zuständigkeit des Ausschusses zur Beseitigung der Rassendiskriminierung anzuerkennen[^t-4]
 
 <table>
 <tr><td>Algerien</td><td>Marokko</td></tr>
@@ -521,28 +526,29 @@ Staaten, die nach Artikel 14 des Übereinkommens erklärt haben, die Zuständigk
 <tr><td>Australien</td><td>Norwegen</td></tr>
 <tr><td>Belgien</td><td>Österreich</td></tr>
 <tr><td>Bolivien</td><td>Palästina</td></tr>
-<tr><td>Brasilien</td><td>Peru</td></tr>
-<tr><td>Bulgarien</td><td>Polen</td></tr>
-<tr><td>Chile</td><td>Portugal</td></tr>
-<tr><td>Costa Rica</td><td>Rumänien</td></tr>
-<tr><td>Dänemark</td><td>Russland</td></tr>
-<tr><td>Deutschland</td><td>San Marino</td></tr>
-<tr><td>Ecuador</td><td>Schweden</td></tr>
-<tr><td>El Salvador</td><td>Schweiz</td></tr>
-<tr><td>Estland</td><td>Senegal</td></tr>
-<tr><td>Finnland</td><td>Serbien</td></tr>
-<tr><td>Frankreich</td><td>Slowakei</td></tr>
-<tr><td>Georgien</td><td>Slowenien</td></tr>
-<tr><td>Irland</td><td>Spanien</td></tr>
-<tr><td>Island</td><td>Südafrika</td></tr>
-<tr><td>Italien</td><td>Togo</td></tr>
-<tr><td>Kasachstan</td><td>Tschechische Republik</td></tr>
-<tr><td>Korea (Süd-)</td><td>Ukraine</td></tr>
-<tr><td>Liechtenstein</td><td>Ungarn</td></tr>
-<tr><td>Luxemburg</td><td>Uruguay</td></tr>
-<tr><td>Malta</td><td>Venezuela</td></tr>
-<tr><td>Mexiko</td><td>Zypern</td></tr>
+<tr><td>Brasilien</td><td>Panama</td></tr>
+<tr><td>Bulgarien</td><td>Peru</td></tr>
+<tr><td>Chile</td><td>Polen</td></tr>
+<tr><td>Costa Rica</td><td>Portugal</td></tr>
+<tr><td>Dänemark</td><td>Rumänien</td></tr>
+<tr><td>Deutschland</td><td>Russland</td></tr>
+<tr><td>Ecuador</td><td>San Marino</td></tr>
+<tr><td>El Salvador</td><td>Schweden</td></tr>
+<tr><td>Estland</td><td>Schweiz</td></tr>
+<tr><td>Finnland</td><td>Senegal</td></tr>
+<tr><td>Frankreich</td><td>Serbien</td></tr>
+<tr><td>Georgien</td><td>Slowakei</td></tr>
+<tr><td>Irland</td><td>Slowenien</td></tr>
+<tr><td>Island</td><td>Spanien</td></tr>
+<tr><td>Italien</td><td>Südafrika</td></tr>
+<tr><td>Kasachstan</td><td>Togo</td></tr>
+<tr><td>Korea (Süd-)</td><td>Tschechische Republik</td></tr>
+<tr><td>Liechtenstein</td><td>Ukraine</td></tr>
+<tr><td>Luxemburg</td><td>Ungarn</td></tr>
+<tr><td>Malta</td><td>Uruguay</td></tr>
+<tr><td>Mexiko</td><td>Venezuela</td></tr>
+<tr><td>Moldau</td><td>Zypern</td></tr>
 <tr><td>Monaco</td><td></td></tr>
 </table>
 
-[^t-4]: [AS 2007 1323](https://fedlex.data.admin.ch/eli/oc/2007/213), [2010 711](https://fedlex.data.admin.ch/eli/oc/2010/108), [2013 695](https://fedlex.data.admin.ch/eli/oc/2013/130), [2016 2215](https://fedlex.data.admin.ch/eli/oc/2016/353)und [2019 3513](https://fedlex.data.admin.ch/eli/oc/2019/641).
+[^t-4]: [AS 2007 1323](https://fedlex.data.admin.ch/eli/oc/2007/213); [2010 711](https://fedlex.data.admin.ch/eli/oc/2010/108); [2013 695](https://fedlex.data.admin.ch/eli/oc/2013/130); [2016 2215](https://fedlex.data.admin.ch/eli/oc/2016/353); [2019 3513](https://fedlex.data.admin.ch/eli/oc/2019/641); [2022 249](https://fedlex.data.admin.ch/eli/oc/2022/249).

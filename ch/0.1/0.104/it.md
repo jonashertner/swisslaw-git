@@ -3,11 +3,11 @@ sr: "0.104"
 title: "Convenzione internazionale del 21 dicembre 1965 sull'eliminazione di ogni forma di discriminazione razziale"
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1164_1164_1164"
 language: it
-version: 2019-11-04
+version: 2022-04-21
 adopted: 1965-12-21
 in_force: 1994-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1164_1164_1164/20191104/it/xml/fedlex-data-admin-ch-eli-cc-1995-1164_1164_1164-20191104-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1164_1164_1164/20191104/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1164_1164_1164/20220421/it/xml/fedlex-data-admin-ch-eli-cc-1995-1164_1164_1164-20220421-it-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1164_1164_1164/20220421/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1995** 1164; FF **1992** III 217
 
 Traduzione
 
-Conclusa a New York il 21 dicembre 1965
+Conclusa a New York il 21 dicembre 1965 Approvata dall’Assemblea federale il 9 marzo 1993[^t-1] Istrumento di adesione depositato dalla Svizzera il 29 novembre 1994 Entrata in vigore per la Svizzera il 29 dicembre 1994
 
-Approvata dall’Assemblea federale il 9 marzo 1993[^t-1]
-
-Istrumento di adesione depositato dalla Svizzera il 29 novembre 1994
-
-Entrata in vigore per la Svizzera il 29 dicembre 1994
-
-(Stato 4 novembre 2019)
+(Stato 21 aprile 2022)
 
 [^t-1]: [RU 1995 1163](https://fedlex.data.admin.ch/eli/oc/1995/1163_1163_1163)
 
@@ -56,10 +50,10 @@ Ricordando la Convenzione sulla discriminazione in materia di impiego e di profe
 
 Desiderosi di dare esecuzione ai principi enunciati nella Dichiarazione delle Nazioni Unite e relativi all’eliminazione di ogni forma di discriminazione razziale nonché di assicurare il più rapidamente possibile l’adozione di misure pratiche a tale scopo,
 
-Hanno convenuto quanto segue:
+hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.822.721.1](https://fedlex.data.admin.ch/eli/cc/1961/810_824_840)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.822.721.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3628)
 
 ## Parte prima
 
@@ -80,7 +74,7 @@ Hanno convenuto quanto segue:
 Gli Stati contraenti condannano la discriminazione razziale e si impegnano a continuare, con tutti i mezzi adeguati e senza indugio, una politica tendente ad eliminare ogni forma di discriminazione razziale ed a favorire l’intesa tra tutte le razze, e, a tale scopo:
 
 - a) ogni Stato contraente si impegna a non porre in opera atti o pratiche di discriminazione razziale verso individui, gruppi di individui od istituzioni ed a fare in modo che tutte le pubbliche attività e le pubbliche istituzioni, nazionali e locali, si uniformino a tale obbligo;
-- h) ogni Stato contraente si impegna a non incoraggiare, difendere ed appoggiare la discriminazione razziale praticata da qualsiasi individuo od organizzazione;
+- b) ogni Stato contraente si impegna a non incoraggiare, difendere ed appoggiare la discriminazione razziale praticata da qualsiasi individuo od organizzazione;
 - c) ogni Stato contraente deve adottare delle efficaci misure per rivedere le politiche governative nazionali e locali e per modificare, abrogare o annullare ogni legge ed ogni disposizione regolamentare che abbia il risultato di creare la discriminazione o perpetuarla ove esista;
 - d) ogni Stato contraente deve, se le circostanze lo richiedono, vietare e por fine con tutti i mezzi più opportuni, provvedimenti legislativi compresi, alla discriminazione razziale praticata da singoli individui, gruppi od organizzazioni;
 - e) ogni Stato contraente s’impegna, ove occorra, a favorire le organizzazioni ed i movimenti integrazionisti multirazziali e gli altri mezzi ad eliminare le barriere che esistono tra le razze, nonché a scoraggiare quanto tende a rafforzare la separazione razziale.
@@ -262,7 +256,7 @@ Le disposizioni della presente Convenzione concernenti le misure da adottare per
 
 <sup>2.</sup> La presente Convenzione è sottoposta a ratifica e gli strumenti di ratifica saranno depositati presso il Segretario generale dell’Organizzazione delle Nazioni Unite.
 
-[^17-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^17-1]: [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 18
 
@@ -315,7 +309,7 @@ Il Segretario generale dell’Organizzazione delle Nazioni Unite informerà tutt
 
 In fede di che i sottoscritti, debitamente autorizzati dai rispettivi Governi, hanno firmato la presente Convenzione, che è stata aperta alla firma a New York, il 7 marzo 1966. Fatto a New York, il ventun dicembre millenovecentosessantacinque. (Seguono le firme)
 
-Campo di applicazione il 4 novembre 2019**[^t-2]**
+Campo d’applicazione il 21 aprile 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -366,7 +360,7 @@ Campo di applicazione il 4 novembre 2019**[^t-2]**
 <tr><td>Côte d’Ivoire</td><td>4 gennaio</td><td>1973 A</td><td>3 febbraio</td><td>1973</td></tr>
 <tr><td>Croazia</td><td>12 ottobre</td><td>1992 S</td><td>8 ottobre</td><td>1991</td></tr>
 <tr><td>Cuba<sup>\*</sup></td><td>15 febbraio</td><td>1972</td><td>16 marzo</td><td>1972</td></tr>
-<tr><td>Danimarca<sup>\* \*\*</sup></td><td>9 dicembre</td><td>1971</td><td>8 gennaio</td><td>1972</td></tr>
+<tr><td>Danimarca<sup>\*\*</sup></td><td>9 dicembre</td><td>1971</td><td>8 gennaio</td><td>1972</td></tr>
 <tr><td>Dominica</td><td>13 maggio</td><td>2019 A</td><td>12 giugno</td><td>2019</td></tr>
 <tr><td>Dominicana, Repubblica</td><td>25 maggio</td><td>1983 A</td><td>24 giugno</td><td>1983</td></tr>
 <tr><td>Ecuador</td><td>22 settembre</td><td>1966 A</td><td>4 gennaio</td><td>1969</td></tr>
@@ -497,24 +491,21 @@ Campo di applicazione il 4 novembre 2019**[^t-2]**
 <tr><td>Ungheria<sup>\*</sup></td><td>4 maggio</td><td>1967</td><td>4 gennaio</td><td>1969</td></tr>
 <tr><td>Uruguay</td><td>30 agosto</td><td>1968</td><td>4 gennaio</td><td>1969</td></tr>
 <tr><td>Uzbekistan</td><td>28 settembre</td><td>1995 A</td><td>28 ottobre</td><td>1995</td></tr>
-<tr><td>Singapore\*</td><td>27 novembre</td><td>2017</td><td>27 dicembre</td><td>2017</td></tr>
+<tr><td>Singapore<sup>\*</sup></td><td>27 novembre</td><td>2017</td><td>27 dicembre</td><td>2017</td></tr>
 <tr><td>São Tomé e Príncipe</td><td>10 gennaio</td><td>2017</td><td>9 febbraio</td><td>2017</td></tr>
 <tr><td>Venezuela</td><td>10 ottobre</td><td>1967</td><td>4 gennaio</td><td>1969</td></tr>
 <tr><td>Vietnam<sup>\*</sup></td><td>9 giugno</td><td>1982 A</td><td>9 luglio</td><td>1982</td></tr>
 <tr><td>Yemen<sup>\*</sup></td><td>18 ottobre</td><td>1972 A</td><td>17 novembre</td><td>1972</td></tr>
 <tr><td>Zambia</td><td>4 febbraio</td><td>1972</td><td>5 marzo</td><td>1972</td></tr>
 <tr><td>Zimbabwe</td><td>13 maggio</td><td>1991 A</td><td>12 giugno</td><td>1991</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. <sup>\*\*</sup> Obiezioni. Le riserve e dichiarazioni ed obiezioni non sono pubblicate nella RU, eccetto le riserve e dichiarazioni della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-<table>
-<tr><td><sup>\*</sup> Riserve e dichiarazioni. <sup>\*\*</sup> Obiezioni. Le riserve e dichiarazioni ed obiezioni non sono pubblicate nella RU, eccetto le riserve e dichiarazioni della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-</table>
+[^t-2]: [RU 2003 2380](https://fedlex.data.admin.ch/eli/oc/2003/344); [2005 87](https://fedlex.data.admin.ch/eli/oc/2005/18); [2007 1323](https://fedlex.data.admin.ch/eli/oc/2007/213); [2010 711](https://fedlex.data.admin.ch/eli/oc/2010/108); [2013 695](https://fedlex.data.admin.ch/eli/oc/2013/130); [2016 2215](https://fedlex.data.admin.ch/eli/oc/2016/353); [2019 3513](https://fedlex.data.admin.ch/eli/oc/2019/641); [2022 249](https://fedlex.data.admin.ch/eli/oc/2022/249). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](http://www.fedlex.admin.ch/it/treaty)
 
-## Riserve e dichiarazioni
+Riserve e dichiarazioni
 
-[^t-2]: [RU 1995 1164](https://fedlex.data.admin.ch/eli/oc/1995/1164_1164_1164), [2003 2380](https://fedlex.data.admin.ch/eli/oc/2003/344), [2005 87](https://fedlex.data.admin.ch/eli/oc/2005/18), [2007 1323](https://fedlex.data.admin.ch/eli/oc/2007/213), [2010 711](https://fedlex.data.admin.ch/eli/oc/2010/108), [2013 695](https://fedlex.data.admin.ch/eli/oc/2013/130), [2016 2215](https://fedlex.data.admin.ch/eli/oc/2016/353)e [2019 3515](https://fedlex.data.admin.ch/eli/oc/2019/642). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
-
-**Svizzera**[^annexu1-lvlu2-1]
+**Svizzera**[^t-3]
 
 a) Riserva all’articolo 4:
 
@@ -528,25 +519,21 @@ Dichiarazione in virtù dell’art. 14.
 
 La Svizzera riconosce, in applicazione dell’articolo 14 paragrafo 1 della Convenzione, la competenza del Comitato per l’eliminazione della discriminazione razziale (CERD) a ricevere ed esaminare le comunicazioni ai sensi della disposizione summenzionata, sempreché il Comitato esamini le comunicazioni che promanano da una persona o da un gruppo di persone unicamente qualora si sia assicurato che il medesimo oggetto non è esaminato o non è stato esaminato nel quadro di un’altra procedura d’inchiesta o di conciliazione internazionale.
 
-[^annexu1-lvlu2-1]: Art. 1 cpv. 1 let. a e b del DF del 9 mar. 1993 ([RU 1995 1163](https://fedlex.data.admin.ch/eli/oc/1995/1163_1163_1163); FF **1992** II 217) e DCF del 6 mar. 2003 ([RU 2005 87](https://fedlex.data.admin.ch/eli/oc/2005/18); [FF 2001 5307](https://fedlex.data.admin.ch/eli/fga/2001/963)).
+[^t-3]: Art. 1 cpv. 1 let. a e b del DF del 9 mar. 1993 ([RU 1995 1163](https://fedlex.data.admin.ch/eli/oc/1995/1163_1163_1163); FF **1992** II 217) e DCF del 6 mar. 2003 ([RU 2005 87](https://fedlex.data.admin.ch/eli/oc/2005/18); [FF 2001 5307](https://fedlex.data.admin.ch/eli/fga/2001/963)).
 
-## Stati che hanno riconosciuto la competenza del Comitato per l’eliminazione della discriminazione razziale in virtù dell’articolo 14 della Convenzione****
+Stati che hanno riconosciuto la competenza del Comitato per l’eliminazione della discriminazione razziale in virtù dell’articolo 14 della Convenzione[^t-4]
 
-[^annexu1-lvlu3-1]
+Algeria Moldova
 
-[^annexu1-lvlu3-1]: [RU 2007 1323](https://fedlex.data.admin.ch/eli/oc/2007/213), [2010 711](https://fedlex.data.admin.ch/eli/oc/2010/108), [2013 695](https://fedlex.data.admin.ch/eli/oc/2013/130), [2016 2215](https://fedlex.data.admin.ch/eli/oc/2016/353)e [2019 3515](https://fedlex.data.admin.ch/eli/oc/2019/642).
+Andorra Monaco
 
-Algeria Marocco
+Argentina Montenegro
 
-Andorra Messico
+Australia Norvegia
 
-Argentina Monaco
+Austria Palestina
 
-Australia Montenegro
-
-Austria Norvegia
-
-Azerbaigian Palestina
+Azerbaigian Panama
 
 Belgio Paesi Bassi
 
@@ -593,3 +580,9 @@ Lussemburgo Uruguay
 Macedonia del Nord Venezuela
 
 Malta
+
+Marocco
+
+Messico
+
+[^t-4]: [RU 2007 1323](https://fedlex.data.admin.ch/eli/oc/2007/213); [2010 711](https://fedlex.data.admin.ch/eli/oc/2010/108); [2013 695](https://fedlex.data.admin.ch/eli/oc/2013/130); [2016 2215](https://fedlex.data.admin.ch/eli/oc/2016/353); [2019 3513](https://fedlex.data.admin.ch/eli/oc/2019/641); [2022 249](https://fedlex.data.admin.ch/eli/oc/2022/249).

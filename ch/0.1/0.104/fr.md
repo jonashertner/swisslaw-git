@@ -3,11 +3,11 @@ sr: "0.104"
 title: "Convention internationale du 21 décembre 1965 sur l'élimination de toutes les formes de discrimination raciale"
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1164_1164_1164"
 language: fr
-version: 2019-11-04
+version: 2022-04-21
 adopted: 1965-12-21
 in_force: 1994-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1164_1164_1164/20191104/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1164_1164_1164-20191104-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1164_1164_1164/20191104/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1164_1164_1164/20220421/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1164_1164_1164-20220421-fr-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1164_1164_1164/20220421/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **1995** 1164; FF **1992** III 265
 
 Texte original
 
-Conclue à New York le 21 décembre 1965
+Conclue à New York le 21 décembre 1965 Approuvée par l’Assemblée fédérale le 9 mars 1993[^t-1] Instrument d’adhésion déposé par la Suisse le 29 novembre 1994 Entrée en vigueur pour la Suisse le 29 décembre 1994
 
-Approuvée par l’Assemblée fédérale le 9 mars 1993[^t-1]
-
-Instrument d’adhésion déposé par la Suisse le 29 novembre 1994
-
-Entrée en vigueur pour la Suisse le 29 décembre 1994
-
-(Etat le 4 novembre 2019)
+(État le 21 avril 2022)
 
 [^t-1]: [RO 1995 1163](https://fedlex.data.admin.ch/eli/oc/1995/1163_1163_1163)
 
@@ -58,8 +52,8 @@ désireux de donner effet aux principes énoncés dans la Déclaration des Natio
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.822.721.1](https://fedlex.data.admin.ch/eli/cc/1961/810_824_840)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.822.721.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3628)
 
 ## Première partie
 
@@ -262,7 +256,7 @@ Les dispositions de la présente Convention concernant les mesures à prendre po
 
 <sup>2.</sup> La présente Convention est sujette à ratification et les instruments de ratification seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies.
 
-[^17-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^17-1]: [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 18
 
@@ -315,7 +309,7 @@ Le Secrétaire général de l’Organisation des Nations Unies informera tous le
 
 *En foi de quoi,* les soussignés, dûment autorisés par leurs Gouvernements respectifs, ont signé la présente Convention, qui a été ouverte à la signature à New York, le sept mars mil neuf cent soixante-six. Fait à New York, le vingt et un décembre mil neuf cent soixante-cinq. (Suivent les signatures)
 
-Champ d’application le 4 novembre 2019**[^t-2]**
+Champ d’application le 21 avril 2022[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -354,8 +348,8 @@ Champ d’application le 4 novembre 2019**[^t-2]**
 <tr><td>Cap-Vert</td><td>3 octobre</td><td>1979 A</td><td>2 novembre</td><td>1979</td></tr>
 <tr><td>Chili</td><td>20 octobre</td><td>1971</td><td>19 novembre</td><td>1971</td></tr>
 <tr><td>Chine\*</td><td>29 décembre</td><td>1981 A</td><td>28 janvier</td><td>1982</td></tr>
-<tr><td>[tab] Hong Kong\*</td><td>10 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
-<tr><td>[tab] Macao</td><td>19 octobre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
+<tr><td>Hong Kong\*</td><td>10 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
+<tr><td>Macao</td><td>19 octobre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
 <tr><td>Chypre\*\*</td><td>21 avril</td><td>1967</td><td>4 janvier</td><td>1969</td></tr>
 <tr><td>Colombie</td><td>2 septembre</td><td>1981</td><td>2 octobre</td><td>1981</td></tr>
 <tr><td>Comores</td><td>27 septembre</td><td>2004</td><td>27 octobre</td><td>2004</td></tr>
@@ -366,7 +360,8 @@ Champ d’application le 4 novembre 2019**[^t-2]**
 <tr><td>Côte d’Ivoire</td><td>4 janvier</td><td>1973 A</td><td>3 février</td><td>1973</td></tr>
 <tr><td>Croatie</td><td>12 octobre</td><td>1992 S</td><td>8 octobre</td><td>1991</td></tr>
 <tr><td>Cuba\*</td><td>15 février</td><td>1972</td><td>16 mars</td><td>1972</td></tr>
-<tr><td>Danemark\* \*\*</td><td>9 décembre</td><td>1971</td><td>8 janvier</td><td>1972</td></tr>
+<tr><td>Danemark\*\*</td><td>9 décembre</td><td>1971</td><td>8 janvier</td><td>1972</td></tr>
+<tr><td>Îles Féroé</td><td>1<sup>er</sup> novembre</td><td>1972</td><td>1<sup>er</sup> novembre</td><td>1972</td></tr>
 <tr><td>Djibouti</td><td>30 septembre</td><td>2011</td><td>30 octobre</td><td>2011</td></tr>
 <tr><td>Dominique</td><td>13 mai</td><td>2019 A</td><td>12 juin</td><td>2019</td></tr>
 <tr><td>Égypte\*</td><td>1<sup>er</sup> mai</td><td>1967</td><td>4 janvier</td><td>1969</td></tr>
@@ -397,6 +392,7 @@ Champ d’application le 4 novembre 2019**[^t-2]**
 <tr><td>Honduras</td><td>10 octobre</td><td>2002 A</td><td>9 novembre</td><td>2002</td></tr>
 <tr><td>Hongrie\*</td><td>4 mai</td><td>1967</td><td>4 janvier</td><td>1969</td></tr>
 <tr><td>Îles Marshall</td><td>11 avril</td><td>2019 A</td><td>11 mai</td><td>2019</td></tr>
+<tr><td>Îles Salomon</td><td>17 mars</td><td>1982 S</td><td>7 juillet</td><td>1978</td></tr>
 <tr><td>Inde\*</td><td>3 décembre</td><td>1968</td><td>4 janvier</td><td>1969</td></tr>
 <tr><td>Indonésie\*</td><td>25 juin</td><td>1999 A</td><td>25 juillet</td><td>1999</td></tr>
 <tr><td>Iran</td><td>29 août</td><td>1968</td><td>4 janvier</td><td>1969</td></tr>
@@ -462,7 +458,7 @@ Champ d’application le 4 novembre 2019**[^t-2]**
 <tr><td>République tchèque</td><td>22 février</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Roumanie\* \*\*</td><td>15 septembre</td><td>1970 A</td><td>15 octobre</td><td>1970</td></tr>
 <tr><td>Royaume-Uni\* \*\*</td><td>7 mars</td><td>1969</td><td>6 avril</td><td>1969</td></tr>
-<tr><td>[tab] Anguilla</td><td>7 mars</td><td>1969</td><td>6 avril</td><td>1969</td></tr>
+<tr><td>Anguilla</td><td>7 mars</td><td>1969</td><td>6 avril</td><td>1969</td></tr>
 <tr><td>Russie\*</td><td>4 février</td><td>1969</td><td>6 mars</td><td>1969</td></tr>
 <tr><td>Rwanda</td><td>16 avril</td><td>1975 A</td><td>16 mai</td><td>1975</td></tr>
 <tr><td>Sainte-Lucie</td><td>14 février</td><td>1990 S</td><td>22 février</td><td>1979</td></tr>
@@ -470,10 +466,9 @@ Champ d’application le 4 novembre 2019**[^t-2]**
 <tr><td>Saint-Marin</td><td>12 mars</td><td>2002</td><td>11 avril</td><td>2002</td></tr>
 <tr><td>Saint-Siège</td><td>1<sup>er</sup> mai</td><td>1969</td><td>31 mai</td><td>1969</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>9 novembre</td><td>1981 A</td><td>9 décembre</td><td>1981</td></tr>
-<tr><td>Salomon, Îles</td><td>17 mars</td><td>1982 S</td><td>7 juillet</td><td>1978</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>10 janvier</td><td>2017</td><td>9 février</td><td>2017</td></tr>
 <tr><td>Sénégal</td><td>19 avril</td><td>1972</td><td>19 mai</td><td>1972</td></tr>
-<tr><td>Serbie\*</td><td>12 mars</td><td>2001 S</td><td>27 avril</td><td>1992</td></tr>
+<tr><td>Serbie</td><td>12 mars</td><td>2001 S</td><td>27 avril</td><td>1992</td></tr>
 <tr><td>Seychelles</td><td>7 mars</td><td>1978 A</td><td>6 avril</td><td>1978</td></tr>
 <tr><td>Sierra Leone</td><td>2 août</td><td>1967</td><td>4 janvier</td><td>1969</td></tr>
 <tr><td>Singapour\*</td><td>27 novembre</td><td>2017</td><td>27 décembre</td><td>2017</td></tr>
@@ -496,7 +491,7 @@ Champ d’application le 4 novembre 2019**[^t-2]**
 <tr><td>Trinité-et-Tobago</td><td>4 octobre</td><td>1973</td><td>3 novembre</td><td>1973</td></tr>
 <tr><td>Tunisie</td><td>13 janvier</td><td>1967</td><td>4 janvier</td><td>1969</td></tr>
 <tr><td>Turkménistan</td><td>29 septembre</td><td>1994 A</td><td>29 octobre</td><td>1994</td></tr>
-<tr><td>Turquie\*</td><td>16 septembre</td><td>2002 A</td><td>16 octobre</td><td>2002</td></tr>
+<tr><td>Turquie\*</td><td>16 septembre</td><td>2002</td><td>16 octobre</td><td>2002</td></tr>
 <tr><td>Ukraine\*</td><td>7 mars</td><td>1969</td><td>6 avril</td><td>1969</td></tr>
 <tr><td>Uruguay</td><td>30 août</td><td>1968</td><td>4 janvier</td><td>1969</td></tr>
 <tr><td>Venezuela</td><td>10 octobre</td><td>1967</td><td>4 janvier</td><td>1969</td></tr>
@@ -504,14 +499,14 @@ Champ d’application le 4 novembre 2019**[^t-2]**
 <tr><td>Yémen\*</td><td>18 octobre</td><td>1972 A</td><td>17 novembre</td><td>1972</td></tr>
 <tr><td>Zambie</td><td>4 février</td><td>1972</td><td>5 mars</td><td>1972</td></tr>
 <tr><td>Zimbabwe</td><td>13 mai</td><td>1991 A</td><td>12 juin</td><td>1991</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet des Nations Unies: http://untreaty.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 1995 1164](https://fedlex.data.admin.ch/eli/oc/1995/1164_1164_1164), [2003 2380](https://fedlex.data.admin.ch/eli/oc/2003/344), [2005 87](https://fedlex.data.admin.ch/eli/oc/2005/18), [2007 1323](https://fedlex.data.admin.ch/eli/oc/2007/213), [2010 711](https://fedlex.data.admin.ch/eli/oc/2010/108), [2013 695](https://fedlex.data.admin.ch/eli/oc/2013/130), [2016 2215](https://fedlex.data.admin.ch/eli/oc/2016/353), [2019 3513](https://fedlex.data.admin.ch/eli/oc/2019/641). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1995 1164](https://fedlex.data.admin.ch/eli/oc/1995/1164_1164_1164); [2003 2380](https://fedlex.data.admin.ch/eli/oc/2003/344); [2005 87](https://fedlex.data.admin.ch/eli/oc/2005/18); [2007 1323](https://fedlex.data.admin.ch/eli/oc/2007/213); [2010 711](https://fedlex.data.admin.ch/eli/oc/2010/108); [2013 695](https://fedlex.data.admin.ch/eli/oc/2013/130); [2016 2215](https://fedlex.data.admin.ch/eli/oc/2016/353); [2019 3513](https://fedlex.data.admin.ch/eli/oc/2019/641); [2022 249](https://fedlex.data.admin.ch/eli/oc/2022/249). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 
-Suisse**[^t-3]**
+Suisse[^t-3]
 
 a) Réserve portant sur l’art. 4:
 
@@ -527,38 +522,39 @@ La Suisse reconnaît, en application de l’art. 14, par. 1, de la convention la
 
 [^t-3]: Art. 1 al. 1 let. a et b de l’AF du 9 mars 1993 ([RO 1995 1163](https://fedlex.data.admin.ch/eli/oc/1995/1163_1163_1163); FF 1992 III 262) et AF du 6 mars 2003 ([RO 2005 87](https://fedlex.data.admin.ch/eli/oc/2005/18); [FF 2001 5649](https://fedlex.data.admin.ch/eli/fga/2001/963)).
 
-États ayant reconnu la compétence du Comité pour l’élimination de la discrimination raciale en vertu de l’art. 14 de la convention**[^t-4]**
+États ayant reconnu la compétence du Comité pour l’élimination de la discrimination raciale en vertu de l’art. 14 de la convention[^t-4]
 
 <table>
-<tr><td>Afrique du Sud</td><td>Liechtenstein</td></tr>
-<tr><td>Algérie</td><td>Luxembourg</td></tr>
-<tr><td>Allemagne</td><td>Macédoine du Nord</td></tr>
-<tr><td>Andorre</td><td>Malte</td></tr>
-<tr><td>Argentine</td><td>Maroc</td></tr>
-<tr><td>Australie</td><td>Mexique</td></tr>
+<tr><td>Afrique du Sud</td><td>Luxembourg</td></tr>
+<tr><td>Algérie</td><td>Macédoine du Nord</td></tr>
+<tr><td>Allemagne</td><td>Malte</td></tr>
+<tr><td>Andorre</td><td>Maroc</td></tr>
+<tr><td>Argentine</td><td>Mexique</td></tr>
+<tr><td>Australie</td><td>Moldova</td></tr>
 <tr><td>Autriche</td><td>Monaco</td></tr>
 <tr><td>Azerbaïdjan</td><td>Monténégro</td></tr>
 <tr><td>Belgique</td><td>Norvège</td></tr>
 <tr><td>Bolivie</td><td>Palestine</td></tr>
-<tr><td>Brésil</td><td>Pays-Bas</td></tr>
-<tr><td>Bulgarie</td><td>Pérou</td></tr>
-<tr><td>Chili</td><td>Pologne</td></tr>
-<tr><td>Chypre</td><td>Portugal</td></tr>
-<tr><td>Corée (Sud)</td><td>République tchèque</td></tr>
-<tr><td>Costa Rica</td><td>Roumanie</td></tr>
-<tr><td>Danemark</td><td>Russie</td></tr>
-<tr><td>El Salvador</td><td>Saint-Marin</td></tr>
-<tr><td>Espagne</td><td>Sénégal</td></tr>
-<tr><td>Estonie</td><td>Serbie</td></tr>
-<tr><td>Équateur</td><td>Slovaquie</td></tr>
-<tr><td>Finlande</td><td>Slovénie</td></tr>
-<tr><td>France</td><td>Suède</td></tr>
-<tr><td>Géorgie</td><td>Suisse</td></tr>
-<tr><td>Hongrie</td><td>Togo</td></tr>
-<tr><td>Irlande</td><td>Ukraine</td></tr>
-<tr><td>Islande</td><td>Uruguay</td></tr>
-<tr><td>Italie</td><td>Venezuela</td></tr>
-<tr><td>Kazakhstan</td><td></td></tr>
+<tr><td>Brésil</td><td>Panama</td></tr>
+<tr><td>Bulgarie</td><td>Pays-Bas</td></tr>
+<tr><td>Chili</td><td>Pérou</td></tr>
+<tr><td>Chypre</td><td>Pologne</td></tr>
+<tr><td>Corée (Sud)</td><td>Portugal</td></tr>
+<tr><td>Costa Rica</td><td>République tchèque</td></tr>
+<tr><td>Danemark</td><td>Roumanie</td></tr>
+<tr><td>El Salvador</td><td>Russie</td></tr>
+<tr><td>Espagne</td><td>Saint-Marin</td></tr>
+<tr><td>Estonie</td><td>Sénégal</td></tr>
+<tr><td>Équateur</td><td>Serbie</td></tr>
+<tr><td>Finlande</td><td>Slovaquie</td></tr>
+<tr><td>France</td><td>Slovénie</td></tr>
+<tr><td>Géorgie</td><td>Suède</td></tr>
+<tr><td>Hongrie</td><td>Suisse</td></tr>
+<tr><td>Irlande</td><td>Togo</td></tr>
+<tr><td>Islande</td><td>Ukraine</td></tr>
+<tr><td>Italie</td><td>Uruguay</td></tr>
+<tr><td>Kazakhstan</td><td>Venezuela</td></tr>
+<tr><td>Liechtenstein</td><td></td></tr>
 </table>
 
-[^t-4]: [RO 2007 1323](https://fedlex.data.admin.ch/eli/oc/2007/213), [2010 711](https://fedlex.data.admin.ch/eli/oc/2010/108), [2013 695](https://fedlex.data.admin.ch/eli/oc/2013/130), [2016 2215](https://fedlex.data.admin.ch/eli/oc/2016/353)et **2019** 3513.
+[^t-4]: [RO 2007 1323](https://fedlex.data.admin.ch/eli/oc/2007/213); [2010 711](https://fedlex.data.admin.ch/eli/oc/2010/108); [2013 695](https://fedlex.data.admin.ch/eli/oc/2013/130); [2016 2215](https://fedlex.data.admin.ch/eli/oc/2016/353); [2019 3513](https://fedlex.data.admin.ch/eli/oc/2019/641); [2022 249](https://fedlex.data.admin.ch/eli/oc/2022/249).
