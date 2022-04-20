@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Decreto federale concernente un’imposizione particolare dei grandi gruppi di imprese (Attuazione del progetto dell’OCSE e del G20 sull’imposizione dell’economia digitale)
 document: Progetto posto in consultazione
 language: it

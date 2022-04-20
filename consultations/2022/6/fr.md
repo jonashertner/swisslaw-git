@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Arrêté fédéral sur une imposition particulière des grands groupes d’entreprises (Mise en œuvre du projet conjoint de l’OCDE et du G20 sur l’imposition de l’économie numérique)
 document: Projet mis en consultation
 language: fr
