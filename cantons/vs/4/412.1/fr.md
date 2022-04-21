@@ -4,21 +4,21 @@ number: "412.1"
 title: "Loi d'application de la loi fédérale sur la formation professionnelle"
 short: LALFPr
 language: fr
-version: 2012-01-01
-corrected: 2017-09-06
-version_adopted: 2011-09-15
+version: 2022-04-22
+version_adopted: 2021-12-16
 adopted: 2008-06-13
 in_force: 2008-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/412.1"
-pdf: "https://lex.vs.ch/api/fr/versions/538/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3047/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Loi d'application de la loi fédérale sur la formation professionnelle (LALFPr)
+# Loi d'application de la loi fédérale sur la formation professionnelle
 
-du 13 juin 2008
+(LALFPr)
+
+du 13.06.2008 (état 22.04.2022)
 
 Le Grand Conseil du canton du Valais
 
@@ -26,7 +26,7 @@ vu la loi fédérale sur la formation professionnelle du 13 décembre 2002 (LFPr
 
 vu l'ordonnance fédérale sur la formation professionnelle du 19 novembre 2003 (OFPr);
 
-vu les articles 13 alinéa 1, 15 chiffre 2, 31 alinéa 3 chiffre 1 et 42 alinéa 2 de la Constitution cantonale;
+vu les articles 13 alinéa 1, 15 alinéa 1 lettre b, 31 alinéa 3 lettre a et 42 alinéa 2 de la Constitution cantonale;
 
 vu l'article 43 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs;
 
@@ -34,7 +34,7 @@ sur la proposition du Conseil d'Etat,
 
 ordonne:
 
-### Chapitre premier: Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
@@ -51,13 +51,9 @@ ordonne:
 <sup>1</sup> La loi régit pour tous les secteurs professionnels autres que ceux des hautes écoles:
 
 - a) la formation professionnelle initiale y compris la maturité professionnelle fédérale;
-
 - b) la formation professionnelle supérieure;
-
 - c) la formation continue à des fins professionnelles;
-
 - d) l'orientation scolaire et professionnelle, universitaire et de carrière (ci-après: l'orientation);
-
 - e) les autres mesures liées à la formation professionnelle, notamment les mesures préparatoires et la validation des acquis.
 
 <sup>2</sup> La formation continue générale est régie par une loi spécifique.
@@ -71,20 +67,16 @@ ordonne:
 <sup>2</sup> Par sa politique de la formation professionnelle, de l'orientation et de la formation continue, le canton vise en particulier à:
 
 - a) encourager, développer, valoriser, consolider et contrôler la formation professionnelle initiale en système dual (apprentissage) subsidiairement en école des métiers;
-
 - b) donner la possibilité à toutes les personnes désireuses de se former, d'accéder à un titre du secondaire II reconnu;
-
 - c) faciliter et encourager l'accès à la formation continue pour développer les qualifications des adultes;
-
 - d) développer un système de formation professionnelle qui serve la compétitivité des entreprises ou institutions et la pérennité des savoir-faire propres au canton et qui réponde aux besoins de l'économie du canton;
-
 - e) favoriser la cohésion cantonale au travers des échanges, de la mobilité et du bilinguisme et encourager l'harmonisation intercantonale.
 
 #### Art. 4
 
 **Mesures préparatoires**
 
-Le canton organise, en collaboration avec les organisations et institutions concernées, un nombre approprié de mesures préparatoires. Celles-ci préparent à la formation professionnelle initiale les personnes accusant un déficit de formation à l'issue de la scolarité obligatoire.
+<sup>1</sup> Le canton organise, en collaboration avec les organisations et institutions concernées, un nombre approprié de mesures préparatoires. Celles-ci préparent à la formation professionnelle initiale les personnes accusant un déficit de formation à l'issue de la scolarité obligatoire.
 
 #### Art. 5
 
@@ -98,33 +90,30 @@ Le canton organise, en collaboration avec les organisations et institutions conc
 
 **Développement de la qualité**
 
-Les prestataires de la formation professionnelle assurent le développement de la qualité conformément aux méthodes listées par l'Office fédéral de la formation professionnelle et de la technologie (ci-après: OFFT) pour chacun des secteurs concernés de la formation. Ils se conforment aux normes de qualité édictées par l'OFFT et, le cas échéant, par le département.
+<sup>1</sup> Les prestataires de la formation professionnelle assurent le développement de la qualité conformément aux méthodes listées par le Secrétariat d'Etat à la formation, à la recherche et à l'innovation (ci-après: SEFRI) pour chacun des secteurs concernés de la formation. Ils se conforment aux normes de qualité édictées par le SEFRI et, le cas échéant, par le département.
 
 #### Art. 7
 
 **Transition - Projet professionnel**
 
-La transition entre la fin de la scolarité obligatoire et le secondaire II professionnel doit être optimisée:
+<sup>1</sup> La transition entre la fin de la scolarité obligatoire et le secondaire II professionnel doit être optimisée:
 
 - a) en repérant à l'école obligatoire les groupes à risque et en les soutenant de manière ciblée;
-
 - b) en développant un projet professionnel individualisé;
-
 - c) en harmonisant les exigences des différents acteurs;
-
 - d) en développant une stratégie partenariale à long terme entre les différents acteurs.
 
 #### Art. 8
 
 **Perméabilité du système**
 
-Les dispositions de la loi doivent être mises en lien avec les dispositions de l'ensemble de la législation scolaire cantonale afin de permettre la plus grande perméabilité possible, d'une part, au sein de la formation professionnelle (passerelles à l'intérieur du système) et, d'autre part, entre la formation professionnelle et les autres secteurs du système éducatif.
+<sup>1</sup> Les dispositions de la loi doivent être mises en lien avec les dispositions de l'ensemble de la législation scolaire cantonale afin de permettre la plus grande perméabilité possible, d'une part, au sein de la formation professionnelle (passerelles à l'intérieur du système) et, d'autre part, entre la formation professionnelle et les autres secteurs du système éducatif.
 
 #### Art. 9
 
 **Soutien de la Confédération**
 
-La mise en oeuvre des dispositions et moyens prévus par la LFPr en vue d'obtenir le soutien de la Confédération notamment en matière d'infrastructures, de formation, de développement de la qualité, de recherche, d'information et de documentation dans le domaine de la formation professionnelle, incombe à l'autorité cantonale.
+<sup>1</sup> La mise en oeuvre des dispositions et moyens prévus par la LFPr en vue d'obtenir le soutien de la Confédération notamment en matière d'infrastructures, de formation, de développement de la qualité, de recherche, d'information et de documentation dans le domaine de la formation professionnelle, incombe à l'autorité cantonale.
 
 #### Art. 10
 
@@ -138,57 +127,49 @@ La mise en oeuvre des dispositions et moyens prévus par la LFPr en vue d'obteni
 
 **Subventions cantonales**
 
-Les dispositions de la loi cantonale sur les subventions sont applicables directement et dans leur intégralité aux subventions prévues par la loi. Les dispositions de cette dernière sont applicables dans la mesure où elles ne sont pas contraires à la loi sur les subventions.
+<sup>1</sup> Les dispositions de la loi cantonale sur les subventions sont applicables directement et dans leur intégralité aux subventions prévues par la loi. Les dispositions de cette dernière sont applicables dans la mesure où elles ne sont pas contraires à la loi sur les subventions.
 
 #### Art. 12
 
 **Fonds en faveur de la formation professionnelle**
 
-Le fonds en faveur de la formation professionnelle est régi par une loi spécifique.
+<sup>1</sup> Le fonds en faveur de la formation professionnelle est régi par une loi spécifique.
 
 #### Art. 13
 
 **Egalité des sexes**
 
-Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
+<sup>1</sup> Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
 
-### Chapitre 2: Organes d'exécution
+## 2 Organes d'exécution
 
-### Section 1: Organes de direction
+### 2.1 Organes de direction
 
 #### Art. 14
 
 **Conseil d'Etat**
 
-<sup>1</sup> La formation professionnelle est placée sous la direction et la haute surveillance du Conseil d'Etat qui l'exerce par le Département en charge de l'éducation, de la culture et du sport (ci-après: le département).
+<sup>1</sup> La formation professionnelle est placée sous la direction et la haute surveillance du Conseil d'Etat qui l'exerce par le département en charge de la formation (ci-après: le département).
 
 <sup>2</sup> Le Conseil d'Etat pourvoit à l'exécution du droit fédéral, des conventions intercantonales et du droit cantonal. Il arrête les dispositions d'application nécessaires.
 
 <sup>3</sup> Il édicte les ordonnances concernant notamment:
 
 - a) l'organisation et le fonctionnement des écoles de formation professionnelle, y compris celles organisées en filière à plein temps scolaire ou école des métiers;
-
 - b) la commission cantonale de la formation professionnelle;
-
 - c) les missions et le fonctionnement de l'orientation;
-
 - d) les organisations du monde du travail et leur collaboration avec l'Etat;
-
 - e) les modalités relatives aux procédures de qualification de la formation professionnelle initiale et de la maturité professionnelle fédérale;
-
 - f) la validation des acquis;
-
 - g) les cours facultatifs et cours d'appui;
-
 - h) les modalités de passage d'une année scolaire à l'autre;
-
 - i) les formations qui ne sont dispensées que dans le canton.
 
 #### Art. 15
 
 **Coordination des collaborations**
 
-Le Conseil d'Etat définit et coordonne les collaborations nécessaires entre le département et les autres départements, services et autres organes publics ou privés en charge d'un secteur particulier de la formation professionnelle.
+<sup>1</sup> Le Conseil d'Etat définit et coordonne les collaborations nécessaires entre le département et les autres départements, services et autres organes publics ou privés en charge d'un secteur particulier de la formation professionnelle.
 
 #### Art. 16
 
@@ -196,7 +177,7 @@ Le Conseil d'Etat définit et coordonne les collaborations nécessaires entre le
 
 <sup>1</sup> Le département est l'autorité compétente dans tous les cas où un autre organe n'est pas expressément désigné.
 
-<sup>2</sup> Le chef du département peut déléguer certaines de ses compétences au chef du Service de la formation professionnelle par une décision rendue publique.
+<sup>2</sup> Le chef du département peut déléguer certaines de ses compétences aux chefs de service en charge de l'application de la présente loi par une décision rendue publique.
 
 #### Art. 17
 
@@ -207,58 +188,53 @@ Le Conseil d'Etat définit et coordonne les collaborations nécessaires entre le
 <sup>2</sup> Il a en outre pour compétences:
 
 - a) d'autoriser, les associations professionnelles entendues, à former et respectivement de retirer les autorisations lorsque le prestataire ne remplit plus les conditions requises;
-
-- b) d'approuver et d'annuler les contrats d'apprentissage et les contrats de stage (art. 24 LFPr, art. 14 al. 3 OFPr et art. 15 al. 4 OFPr);
-
+- b) d'approuver et d'annuler les contrats d'apprentissage et les contrats de stage (art. 24 LFPr et 14 al. 3, 15 al. 4 OFPr);
 - c) de donner l'autorisation de formation hors canton;
-
 - d) d'organiser les procédures de qualification;
-
 - e) d'écourter ou d'allonger, pour un contrat, la durée de la formation professionnelle initiale (art. 18 LFPr) et d'approuver la prolongation du temps d'essai jusqu'à six mois;
-
 - f) de décider des cas d'équivalences des formations professionnelles non formelles (art. 17 al. 5 LFPr);
-
 - g) d'autoriser l'entrée en apprentissage après le début de l'année scolaire;
-
 - h) de consentir des dérogations à l'obligation de fréquenter un cours de formation pour les formateurs en entreprise;
-
 - i) de dispenser les apprentis de certaines entreprises de suivre les cours interentreprises;
-
 - j) de dispenser l'apprenti des branches de l'enseignement obligatoire et de le libérer de l'examen y relatif;
-
 - k) de fixer la capacité d'accueil dans les établissements scolaires pour les filières à plein temps;
-
 - l) de définir les principes en matière d'admission de personnes en formation non domiciliées dans le canton;
-
-- m) de coordonner l'offre de formation continue à des fins professionnelles et de veiller à ce qu'elle réponde aux besoins;
-
-- n) de veiller à coordonner l'orientation avec les mesures relatives au marché du travail;
-
-- o) de surveiller les institutions privées agréées par le Conseil d'Etat et de s'assurer de la qualité des formations scolaire et pratique qui y sont dispensées.
-
+- m) …
+- n) …
+- o) de gérer le portail de certification professionnelle pour adultes visant la certification non formelle ou la validation d'acquis qui sont effectuées en collaboration avec les associations professionnelles;
 - p) de promouvoir en collaboration avec les autres prestataires de la formation professionnelle l'offre de places d'apprentissage;
-
 - q) d'informer les commissions communales ou intercommunales d'apprentissage de domicile des apprentis en cas de rupture de contrat.
+
+#### Art. 17a
+
+**Service en charge de l'orientation et de la formation continue des adultes**
+
+<sup>1</sup> Le service en charge de l'orientation et de la formation continue des adultes a pour compétences:
+
+- a) de coordonner l'offre de formation continue à des fins professionnelles et de veiller à ce qu'elle réponde aux besoins;
+- b) de veiller à coordonner l'orientation avec les mesures relatives au marché du travail.
 
 #### Art. 18
 
 **Collaborations diverses**
 
-<sup>1</sup> Dans le cadre de la perméabilité du système éducatif cantonal, le SFOP collabore avec les autres services du département, notamment avec celui de l'enseignement en matière de mesures préparatoires, et avec celui de la formation tertiaire.
+<sup>1</sup> Dans le cadre de la perméabilité du système éducatif cantonal, le SFOP collabore avec les autres services du département, notamment avec celui de l'enseignement en matière de mesures préparatoires.
 
-<sup>2</sup> Le SFOP collabore avec les services des autres départements singulièrement avec ceux en charge de l'emploi, de l'intégration, de l'économie, de la santé et de la réinsertion professionnelle.
+<sup>2</sup> Le SFOP collabore notamment avec les services cantonaux en charge de l'emploi, de l'intégration, de l'économie, de la santé et de la réinsertion professionnelle.
+
+<sup>3</sup> Le service en charge de l'orientation et de la formation continue des adultes collabore avec le SFOP, le Service de l'enseignement ainsi que les autres services cantonaux.
 
 #### Art. 19
 
 **Recours**
 
-<sup>1</sup> Les décisions du SFOP, en relation avec l'article 17, sont susceptibles de recours dans les trente jours dès leur notification au chef du département qui statue définitivement.
+<sup>1</sup> Les décisions, en relation avec les articles 17 et 17a, sont susceptibles de recours dans les 30 jours dès leur notification au chef du département qui statue définitivement.
 
 <sup>2</sup> Les décisions du département sont susceptibles de recours au Conseil d'Etat dans les trente jours dès leur notification.
 
 <sup>3</sup> La procédure de recours est réglée par la loi sur la procédure et la juridiction administratives.
 
-### Section 2: Ecoles - Orientation professionnelle
+### 2.2 Ecoles - Orientation professionnelle
 
 #### Art. 20
 
@@ -284,7 +260,7 @@ Le Conseil d'Etat définit et coordonne les collaborations nécessaires entre le
 
 <sup>3</sup> L'orientation gère des permanences dans les divers établissements scolaires publics du secondaire I et II et exploitent un centre d'information et d'orientation pour adultes (CIO) par région socio-économique. Le Conseil d'Etat peut cependant étendre l'activité d'un CIO à plusieurs régions.
 
-<sup>4</sup> Les CIO peuvent assurer l'orientation et la réorientation des adultes, notamment des personnes en recherche d'emploi, sur mandat des offices régionaux de placements (ORP). Ils établissent en particulier des bilans professionnels et élaborent avec les associations professionnelles concernées les validations d'acquis.
+<sup>4</sup> Les CIO peuvent assurer l'orientation et la réorientation des adultes, notamment des personnes en recherche d'emploi, sur mandat des offices régionaux de placements (ORP). Ils établissent en particulier des bilans professionnels.
 
 <sup>5</sup> Ces prestations s'effectuent de manière individualisée ou en groupes.
 
@@ -296,19 +272,19 @@ Le Conseil d'Etat définit et coordonne les collaborations nécessaires entre le
 
 <sup>9</sup> Le Conseil d'Etat édicte une ordonnance qui définit les prestations de base et particulières de l'orientation, ainsi que son organisation et son fonctionnement.
 
-### Chapitre 3: Commissions de la formation professionnelle - Organisations du monde du travail
+## 3 Commissions de la formation professionnelle - Organisations du monde du travail
 
-### Section 1: Commissions de la formation professionnelle
+### 3.1 Commissions de la formation professionnelle
 
 #### Art. 22
 
 **Commission cantonale de la formation professionnelle**
 
-<sup>1</sup> La commission cantonale se compose de 13 à 17 membres nommés par le Conseil d'Etat. Le chef du Département de l'éducation, de la culture et du sport et le chef du SFOP en font partie de droit.
+<sup>1</sup> La commission cantonale se compose de 13 à 17 membres nommés par le Conseil d'Etat. Le chef du département, le chef du SFOP et le chef du service en charge de l'orientation et de la formation continue des adultes en font partie de droit.
 
 <sup>2</sup> Les secteurs principaux de l'économie valaisanne y sont représentés. Un représentant de l'enseignement professionnel, un représentant de l'orientation scolaire et professionnelle et un représentant des institutions spécialisées font également partie de cette commission. L'ordonnance précise la répartition compte tenu du facteur régional et linguistique.
 
-<sup>3</sup> La commission est présidée par le chef du Département de l'éducation, de la culture et du sport ou, en son absence, par le chef du SFOP qui en est le secrétaire.
+<sup>3</sup> La commission est présidée par le chef du département ou, en son absence, par le chef du SFOP qui en est le secrétaire.
 
 <sup>4</sup> Elle peut créer en son sein des sous-commissions.
 
@@ -321,9 +297,7 @@ Le Conseil d'Etat définit et coordonne les collaborations nécessaires entre le
 <sup>2</sup> Ses attributions consistent notamment à donner son préavis au département:
 
 - a) sur les objets qui lui sont soumis;
-
 - b) sur les textes légaux en voie d'élaboration;
-
 - c) sur les projets relevant de la compétence du Grand Conseil.
 
 <sup>3</sup> Elle exerce la surveillance sur le déroulement des examens de fin d'apprentissage, selon les modalités prévues par l'ordonnance.
@@ -335,7 +309,6 @@ Le Conseil d'Etat définit et coordonne les collaborations nécessaires entre le
 <sup>1</sup> La commission cantonale est l'organe compétent:
 
 - a) pour tenter la conciliation dans les litiges de droit civil découlant du contrat d'apprentissage;
-
 - b) pour prononcer les sanctions pénales (art. 62 et 63 LFPr) dans les limites de l'article 95 ci-après.
 
 <sup>2</sup> Elle peut déléguer à une sous-commission les compétences prévues à la lettre a de l'alinéa précédent.
@@ -344,62 +317,46 @@ Le Conseil d'Etat définit et coordonne les collaborations nécessaires entre le
 
 **Commission communale de formation professionnelle**
 
-Chaque commune se dote d'une commission qui est nommée par le conseil communal au début de chaque période législative. Plusieurs communes peuvent convenir de la création d'une commission intercommunale.
+<sup>1</sup> Chaque commune se dote d'une commission qui est nommée par le conseil communal au début de chaque période législative. Plusieurs communes peuvent convenir de la création d'une commission intercommunale.
 
 #### Art. 26
 
 **Composition**
 
-La commission communale ou intercommunale se compose de trois membres au minimum et doit comprendre pour le moins un membre d'un conseil municipal.
+<sup>1</sup> La commission communale ou intercommunale se compose de trois membres au minimum et doit comprendre pour le moins un membre d'un conseil municipal.
 
 #### Art. 27
 
 **Attributions**
 
-La commission communale ou intercommunale est notamment chargée:
+<sup>1</sup> La commission communale ou intercommunale est notamment chargée:
 
 - a) de prendre les mesures nécessaires, en collaboration avec le SFOP, pour les jeunes qui n'auraient pas trouvé de place d'apprentissage;
-
 - b) de s'assurer du bon déroulement de chaque apprentissage effectué sur son territoire;
-
 - c) de tenir à jour la liste des personnes en formation dans une entreprise formatrice sise sur le territoire de la commune. Les renseignements nécessaires lui sont fournis d'office par le SFOP;
-
 - d) de visiter, au moins une fois, les apprentis de première ou de deuxième année sur leur lieu de travail et de s'entretenir avec les formateurs en entreprise;
-
 - e) de visiter, sur requête de l'apprenti ou du formateur en entreprise, sur requête du SFOP ou ponctuellement, les entreprises formatrices et d'avoir un entretien avec les apprentis et les formateurs en entreprise;
-
 - f) de faire rapport, si nécessaire, au SFOP sur le résultat de ses visites;
-
 - g) de prêter son concours à la commission cantonale et au SFOP, notamment pour les enquêtes et les tentatives de conciliation dans les différends entre les parties au contrat;
-
 - h) de collaborer à la promotion de la formation professionnelle en général et à la création de places d'apprentissage avec les différents partenaires concernés;
-
 - i) d'organiser, en collaboration avec le SFOP, des cours d'appui pour les jeunes ayant des difficultés scolaires.
 
-### Section 2: Organisations du monde du travail
+### 3.2 Organisations du monde du travail
 
 #### Art. 28
 
 **Missions**
 
-Les organisations du monde du travail contribuent à la formation professionnelle, chacune dans son secteur d'activité. Elles ont notamment les tâches suivantes:
+<sup>1</sup> Les organisations du monde du travail contribuent à la formation professionnelle, chacune dans son secteur d'activité. Elles ont notamment les tâches suivantes:
 
 - a) elles collaborent à l'organisation des programmes d'enseignement prévus par les ordonnances fédérales;
-
 - b) elles participent à l'organisation des cours de formation pour formateurs à la pratique professionnelle. Elles peuvent être appelées par le SFOP à organiser elles-mêmes ces cours;
-
 - c) elles organisent, en accord avec le SFOP, les cours interentreprises dans le cadre des dispositions légales;
-
 - d) elles collaborent aux mesures préparatoires;
-
 - e) elles peuvent offrir des cours d'appui aux apprentis;
-
 - f) elles veillent à ce qu'il y ait suffisamment de places de formation à la pratique professionnelle et offrent leur aide au placement en apprentissage des jeunes;
-
 - g) elles participent à la surveillance de la formation à la pratique professionnelle selon les directives du département;
-
 - h) elles sont chargées de la promotion des différentes voies et filières de formation professionnelle;
-
 - i) elles participent à la gestion du fonds cantonal en faveur de la formation professionnelle.
 
 #### Art. 29
@@ -411,33 +368,28 @@ Les organisations du monde du travail contribuent à la formation professionnell
 <sup>2</sup> Les commissaires de branche sont chargés notamment:
 
 - a) de veiller à ce que les entreprises formatrices respectent les prescriptions des ordonnances de formation et de faire rapport au SFOP sur les résultats de leurs visites. Ils veillent en outre au respect des obligations contractuelles;
-
 - b) de collaborer à la médiation et à la gestion des conflits entre apprenti et entreprise;
-
 - c) de collaborer avec les commissions communales ou intercommunales;
-
 - d) d'offrir leur aide au placement des apprentis.
 
-### Chapitre 4: Formation professionnelle initiale
+## 4 Formation professionnelle initiale
 
-### Section 1: Généralités et principes
+### 4.1 Généralités et principes
 
 #### Art. 30
 
 **Objet**
 
-La formation professionnelle initiale vise à transmettre et à faire acquérir les compétences, les connaissances et le savoir-faire indispensables à l'exercice d'une activité dans une profession, un champ professionnel ou un champ d'activité (ci-après: activité professionnelle).
+<sup>1</sup> La formation professionnelle initiale vise à transmettre et à faire acquérir les compétences, les connaissances et le savoir-faire indispensables à l'exercice d'une activité dans une profession, un champ professionnel ou un champ d'activité (ci-après: activité professionnelle).
 
 #### Art. 31
 
 **Contenus de principe**
 
-La formation professionnelle initiale comprend:
+<sup>1</sup> La formation professionnelle initiale comprend:
 
 - a) une formation à la pratique professionnelle;
-
-- b) une formation scolaire, composée d'une partie spécifique à la profession et d'une partie de culture générale dispensée selon les prescriptions de l'OFFT;
-
+- b) une formation scolaire, composée d'une partie spécifique à la profession et d'une partie de culture générale dispensée selon les prescriptions du SEFRI;
 - c) des compléments aux formations à la pratique et à la formation scolaire, là où l'exige l'apprentissage de la profession.
 
 #### Art. 32
@@ -453,9 +405,7 @@ La formation professionnelle initiale comprend:
 <sup>4</sup> Les autres lieux de formation à la pratique professionnelle et de formation scolaire sont:
 
 - a) les écoles des métiers;
-
 - b) les écoles de commerce;
-
 - c) le cas échéant, d'autres institutions agréées par le Conseil d'Etat.
 
 <sup>5</sup> Les modes de formation prévus à l'alinéa précédent doivent, selon les cas, être complétés par des stages hors de l'école.
@@ -464,19 +414,19 @@ La formation professionnelle initiale comprend:
 
 **Durée**
 
-La formation professionnelle initiale dure de deux à quatre ans. Les cas particuliers sont réservés.
+<sup>1</sup> La formation professionnelle initiale dure de deux à quatre ans. Les cas particuliers sont réservés.
 
 #### Art. 34
 
 **Début**
 
-La formation professionnelle fait en principe suite à la scolarité obligatoire ou à une qualification équivalente.
+<sup>1</sup> La formation professionnelle fait en principe suite à la scolarité obligatoire ou à une qualification équivalente.
 
 #### Art. 35
 
 **Gratuité de l'enseignement**
 
-La formation scolaire obligatoire dispensée par les écoles de la formation professionnelle est gratuite.
+<sup>1</sup> La formation scolaire obligatoire dispensée par les écoles de la formation professionnelle est gratuite.
 
 #### Art. 36
 
@@ -484,7 +434,7 @@ La formation scolaire obligatoire dispensée par les écoles de la formation pro
 
 <sup>1</sup> Les personnes en formation suivent la formation scolaire dans les écoles de la formation professionnelle du canton dans lequel elles sont formées à la pratique professionnelle.
 
-<sup>2</sup> Le SFOP peut déclarer obligatoire, pour les apprentis d'une profession, la fréquentation de l'enseignement hors du canton lorsque leur nombre, les exigences de l'enseignement ou des motifs d'ordre financier le justifient
+<sup>2</sup> Le SFOP peut déclarer obligatoire, pour les apprentis d'une profession, la fréquentation de l'enseignement hors du canton lorsque leur nombre, les exigences de l'enseignement ou des motifs d'ordre financier le justifient.
 
 <sup>3</sup> Les cas particuliers sont réservés.
 
@@ -492,7 +442,7 @@ La formation scolaire obligatoire dispensée par les écoles de la formation pro
 
 **Ordonnances sur la formation**
 
-L'OFFT édicte, par profession, les ordonnances sur la formation professionnelle initiale.
+<sup>1</sup> Le SEFRI édicte, par profession, les ordonnances portant sur la formation professionnelle initiale.
 
 #### Art. 38
 
@@ -512,7 +462,7 @@ L'OFFT édicte, par profession, les ordonnances sur la formation professionnelle
 
 <sup>2</sup> A défaut sont applicables les normes prévues par l'ordonnance.
 
-### Section 2: Cas particuliers
+### 4.2 Cas particuliers
 
 #### Art. 40
 
@@ -523,9 +473,7 @@ L'OFFT édicte, par profession, les ordonnances sur la formation professionnelle
 <sup>2</sup> Les mesures mentionnées à l'alinéa précédent peuvent prendre les formes suivantes, notamment:
 
 - a) l'année scolaire de préparation professionnelle;
-
 - b) les classes de préapprentissage et d'intégration;
-
 - c) les mesures transitoires destinées à prévenir le chômage des jeunes ou préparant à des formations initiales spécifiques.
 
 <sup>3</sup> Ces mesures requièrent la collaboration des services concernés, des organisations du monde du travail, des organisations privées reconnues, le cas échéant des communes ou groupements de communes en charge de l'enseignement secondaire du premier degré.
@@ -546,17 +494,17 @@ L'OFFT édicte, par profession, les ordonnances sur la formation professionnelle
 
 **Manque de places d'apprentissage**
 
-Les mesures préparatoires peuvent également s'adresser aux personnes désireuses de s'engager dans une formation professionnelle initiale en entreprise ou en institution et qui n'ont pas trouvé de place de formation. Ces mesures présupposent notamment l'existence d'un projet professionnel validé par l'orientation.
+<sup>1</sup> Les mesures préparatoires peuvent également s'adresser aux personnes désireuses de s'engager dans une formation professionnelle initiale en entreprise ou en institution et qui n'ont pas trouvé de place de formation. Ces mesures présupposent notamment l'existence d'un projet professionnel validé par l'orientation.
 
 #### Art. 43
 
 **Sportifs et artistes**
 
-Pour les sportifs et artistes, le SFOP peut autoriser l'aménagement d'un programme de formation en fonction des besoins individuels tout en respectant les dispositions des ordonnances de formation.
+<sup>1</sup> Pour les sportifs et artistes, le SFOP peut autoriser l'aménagement d'un programme de formation en fonction des besoins individuels tout en respectant les dispositions des ordonnances de formation.
 
 #### Art. 44
 
-Formation professionnelle initiale non formelle - Validation des acquis
+**Formation professionnelle initiale non formelle - Validation des acquis**
 
 <sup>1</sup> La formation professionnelle initiale peut aussi s'acquérir par une formation professionnelle non formelle, laquelle s'achève par une procédure de qualification.
 
@@ -570,7 +518,7 @@ Formation professionnelle initiale non formelle - Validation des acquis
 
 <sup>2</sup> Elle doit être conforme à la législation cantonale en la matière.
 
-### Section 3: Autorisation de former - Surveillance
+### 4.3 Autorisation de former - Surveillance
 
 #### Art. 46
 
@@ -599,16 +547,12 @@ Formation professionnelle initiale non formelle - Validation des acquis
 <sup>4</sup> Font, en outre, l'objet de la surveillance notamment:
 
 - a) la qualité de la formation à la pratique professionnelle, y compris celle de la formation dispensée dans les cours interentreprises et d'autres lieux de formation comparables;
-
 - b) la qualité de la formation scolaire;
-
 - c) les examens et les autres procédures de qualification;
-
 - d) le respect des dispositions légales du contrat d'apprentissage et du contrat de stage;
-
 - e) le respect du contrat d'apprentissage et du contrat de stage par les parties.
 
-### Section 4: Formation à la pratique professionnelle
+### 4.4 Formation à la pratique professionnelle
 
 #### Art. 48
 
@@ -650,7 +594,7 @@ Formation professionnelle initiale non formelle - Validation des acquis
 
 **Ecoles des métiers - Contrat**
 
-Les personnes effectuant en école des métiers une formation initiale de trois ou quatre ans menant à un CFC, concluent par écrit avec l'établissement scolaire un contrat de formation soumis au SFOP. Ce contrat recouvre la formation à la pratique professionnelle, ainsi que l'enseignement professionnel et général.
+<sup>1</sup> Les personnes effectuant en école des métiers une formation initiale de trois ou quatre ans menant à un CFC, concluent par écrit avec l'établissement scolaire un contrat de formation soumis au SFOP. Ce contrat recouvre la formation à la pratique professionnelle, ainsi que l'enseignement professionnel et général.
 
 #### Art. 52
 
@@ -668,9 +612,11 @@ Les personnes effectuant en école des métiers une formation initiale de trois 
 
 #### Art. 53
 
-Formulaires de contrat d'apprentissage et de contrat de stage Le SFOP fournit les formulaires de contrat d'apprentissage et de contrat de stage.
+**Formulaires de contrat d'apprentissage et de contrat de stage**
 
-### Section 5: Formation scolaire
+<sup>1</sup> Le SFOP fournit les formulaires de contrat d'apprentissage et de contrat de stage.
+
+### 4.5 Formation scolaire
 
 #### Art. 54
 
@@ -684,13 +630,13 @@ Formulaires de contrat d'apprentissage et de contrat de stage Le SFOP fournit le
 
 **Modalités de la formation scolaire**
 
-Les modalités concernant la formation scolaire sont celles prévues aux articles 17 à 21 de l'OFPr.
+<sup>1</sup> Les modalités concernant la formation scolaire sont celles prévues aux articles 17 à 21 de l'OFPr.
 
 #### Art. 56
 
 **Promotion d'une année à l'autre**
 
-Si les dispositions des ordonnances de formation ne régissent pas les questions de promotion d'une année à l'autre, les dispositions cantonales s'appliquent.
+<sup>1</sup> Si les dispositions des ordonnances de formation ne régissent pas les questions de promotion d'une année à l'autre, les dispositions cantonales s'appliquent.
 
 #### Art. 57
 
@@ -702,13 +648,9 @@ Si les dispositions des ordonnances de formation ne régissent pas les questions
 
 #### Art. 58
 
-<sup>1</sup>
+**…**
 
-Abrogé
-
-### Section 6: Cours interentreprises et autres lieux de formation
-
-comparables
+### 4.6 Cours interentreprises et autres lieux de formation comparables
 
 #### Art. 59
 
@@ -732,21 +674,21 @@ comparables
 
 <sup>2</sup> Des subventions fédérales et cantonales sont acquises aux organisateurs et une convention est signée de cas en cas entre les associations et le département.
 
-### Chapitre 5: Procédures de qualification, certificats et titres
+## 5 Procédures de qualification, certificats et titres
 
-### Section 1: Généralités
+### 5.1 Généralités
 
 #### Art. 61
 
 **Ordonnances**
 
-Les procédures de qualification sont définies dans les ordonnances fédérales ou cantonales sur les formations ou font l'objet d'autres procédures permettant de vérifier les qualifications requises.
+<sup>1</sup> Les procédures de qualification sont définies dans les ordonnances fédérales ou cantonales sur les formations ou font l'objet d'autres procédures permettant de vérifier les qualifications requises.
 
 #### Art. 62
 
 **Compétence**
 
-Le département prend, en collaboration avec les associations professionnelles, toutes les dispositions et mesures utiles en matière de procédures de qualification et de certification qui sont de sa compétence.
+<sup>1</sup> Le département prend, en collaboration avec les associations professionnelles, toutes les dispositions et mesures utiles en matière de procédures de qualification et de certification qui sont de sa compétence.
 
 #### Art. 63
 
@@ -760,7 +702,7 @@ Le département prend, en collaboration avec les associations professionnelles, 
 
 **Examens**
 
-Les qualifications professionnelles acquises au cours de la formation professionnelle initiale sont soumises à un examen global, à une combinaison d'examens partiels, ou à d'autres procédures de qualification reconnues par l'OFFT, lequel règle par ailleurs les conditions d'admission aux procédures de qualification.
+<sup>1</sup> Les qualifications professionnelles acquises au cours de la formation professionnelle initiale sont soumises à un examen global, à une combinaison d'examens partiels, ou à d'autres procédures de qualification reconnues par le SEFRI, lequel règle par ailleurs les conditions d'admission aux procédures de qualification.
 
 #### Art. 65
 
@@ -788,9 +730,7 @@ Les qualifications professionnelles acquises au cours de la formation profession
 
 <sup>3</sup> La formation professionnelle initiale acquise de manière non formelle s'achève également par une procédure de qualification.
 
-### Section 2: Examens finaux de la formation professionnelle
-
-initiale
+### 5.2 Examens finaux de la formation professionnelle initiale
 
 #### Art. 68
 
@@ -798,7 +738,7 @@ initiale
 
 <sup>1</sup> Le département veille à ce que les procédures de qualification aient lieu.
 
-<sup>2</sup> Les examens de fin d'apprentissage sont organisés par le SFOP ou par l'organisation du monde du travail autorisée par l'OFFT (art. 40 al. 2 LFPr).
+<sup>2</sup> Les examens de fin d'apprentissage sont organisés par le SFOP ou par l'organisation du monde du travail autorisée par le SEFRI (art. 40 al. 2 LFPr).
 
 #### Art. 69
 
@@ -834,7 +774,7 @@ initiale
 
 **Publication**
 
-Les noms des apprentis ayant réussi leur procédure de qualification et les noms des entreprises formatrices sont publiés chaque année dans le Bulletin Officiel du canton du Valais.
+<sup>1</sup> Les noms des apprentis ayant réussi leur procédure de qualification et les noms des entreprises formatrices sont publiés chaque année dans le Bulletin officiel du canton du Valais.
 
 #### Art. 73
 
@@ -842,7 +782,7 @@ Les noms des apprentis ayant réussi leur procédure de qualification et les nom
 
 <sup>1</sup> Dans le cadre des procédures de qualification, il est tenu compte des expériences acquises de manière formelle ou non formelle notamment à travers l'activité professionnelle, non professionnelle ou la fréquentation d'une filière de formation.
 
-<sup>2</sup> L'office d'orientation aide les personnes à dresser le bilan de leurs compétences et qualifications selon les procédures établies par l'ordonnance. Le SFOP peut mandater des organes de consultations privés pour cette tâche.
+<sup>2</sup> Le portail de certification professionnelle pour adultes aide les personnes à dresser le bilan de leurs compétences et qualifications selon les procédures établies par l'ordonnance. Le SFOP peut mandater des organes de consultations privés pour cette tâche.
 
 <sup>3</sup> La validation des acquis se fait conformément à l'ordonnance. Les accords intercantonaux sont réservés.
 
@@ -850,11 +790,11 @@ Les noms des apprentis ayant réussi leur procédure de qualification et les nom
 
 **Recours**
 
-<sup>1</sup> En cas de violation des dispositions légales, un recours peut être intenté auprès du chef du département dans les 30 jours dès l'avis communiquant les résultats de la procédure de qualification et dans les formes prévues par la loi sur la procédure et la juridiction administratives. Sa décision est définitive.
+<sup>1</sup> En cas de violation des dispositions légales, un recours peut être intenté auprès du chef du département dans les 30 jours dès l'avis communiquant les résultats de la procédure de qualification et dans les formes prévues par la loi sur la procédure et la juridiction administratives.
 
 <sup>2</sup> Les notes de l'école professionnelle ou toute autre qualification prises en compte pour établir le résultat de l'examen de fin d'apprentissage sont susceptibles de recours auprès du SFOP dans les 30 jours dès la notification du résultat en question, dans les formes prévues par la loi sur la procédure et la juridiction administratives. Sa décision est définitive.
 
-### Section 3: Maturité professionnelle fédérale
+### 5.3 Maturité professionnelle fédérale
 
 #### Art. 75
 
@@ -874,15 +814,12 @@ Les noms des apprentis ayant réussi leur procédure de qualification et les nom
 
 **Préparation à la maturité professionnelle fédérale**
 
-La maturité professionnelle fédérale peut être préparée:
+<sup>1</sup> La maturité professionnelle fédérale peut être préparée:
 
 - a) pendant la formation professionnelle initiale dans les écoles professionnelles, parallèlement à l'apprentissage dont l'enseignement peut être organisé selon deux modèles; elle peut être intégrée à l'enseignement obligatoire (modèle homogène) ou compléter l'enseignement obligatoire (modèle additif);
-
 - b) après la formation professionnelle de base, dans le cadre de filières de formation à plein temps ou à temps partiel.
 
-### Chapitre 6: Formation des formateurs et du personnel
-
-enseignant
+## 6 Formation des formateurs et du personnel enseignant
 
 #### Art. 77
 
@@ -895,9 +832,7 @@ enseignant
 <sup>3</sup> Les formateurs actifs dans l'entreprise doivent:
 
 - a) détenir un CFC dans le domaine de la formation qu'ils donnent ou avoir une qualification équivalente;
-
 - b) disposer de deux ans d'expérience professionnelle dans le domaine de la formation;
-
 - c) avoir une formation à la pédagogie professionnelle équivalant à 100 heures de formation.
 
 <sup>4</sup> Les heures de formation visées à l'alinéa 3 lettre c peuvent être remplacées par 40 heures de cours. Celles-ci sont validées par une attestation.
@@ -906,17 +841,13 @@ enseignant
 
 **Formateurs dans les cours interentreprises**
 
-Les formateurs actifs dans les cours interentreprises et dans d'autres lieux de formation comparables, dans des écoles de métiers ou dans d'autres institutions de formation à la pratique professionnelle reconnues doivent:
+<sup>1</sup> Les formateurs actifs dans les cours interentreprises et dans d'autres lieux de formation comparables, dans des écoles de métiers ou dans d'autres institutions de formation à la pratique professionnelle reconnues doivent:
 
 - a) détenir un diplôme de la formation professionnelle supérieure ou avoir une qualification équivalente dans le domaine de la formation qu'ils dispensent;
-
 - b) disposer de deux ans d'expérience professionnelle dans le domaine de la formation qu'ils dispensent;
-
 - c) avoir suivi une formation à la pédagogie professionnelle de:
-
-- 1\. 600 heures de formation pour une activité principale;
-
-- 2\. 300 heures de formation pour une activité accessoire.
+  - 1\. 600 heures de formation pour une activité principale,
+  - 2\. 300 heures de formation pour une activité accessoire.
 
 #### Art. 79
 
@@ -927,28 +858,21 @@ Les formateurs actifs dans les cours interentreprises et dans d'autres lieux de 
 <sup>2</sup> Les enseignants de la formation initiale scolaire et de la maturité professionnelle fédérale doivent être habilités à enseigner au degré secondaire II et posséder les qualifications suivantes:
 
 - a) avoir une formation à la pédagogie professionnelle du niveau d'une haute école;
-
 - b) avoir une formation spécialisée attestée par un diplôme du degré tertiaire;
-
 - c) disposer d'une expérience en entreprise de six mois.
 
 <sup>3</sup> Pour être autorisé à enseigner les branches spécifiques à la profession, l'enseignant doit avoir:
 
 - a) un titre correspondant de la formation professionnelle supérieure ou du niveau d'une haute école;
-
 - b) une formation à la pédagogie professionnelle de:
-
-- 1\. 1800 heures de formation s'il exerce son activité à titre principal;
-
-- 2\. 300 heures de formation s'il exerce son activité à titre accessoire.
+  - 1\. 1'800 heures de formation s'il exerce son activité à titre principal,
+  - 2\. 300 heures de formation s'il exerce son activité à titre accessoire.
 
 <sup>4</sup> Pour enseigner la culture générale ou des branches qui demandent des études du niveau d'une haute école, l'enseignant doit:
 
-- a) être autorisé à enseigner à l'école obligatoire et avoir suivi en plus une formation complémentaire pour enseigner la culture générale selon le plan d'études correspondant et une formation à la pédagogie professionnelle de 300 heures de formation; ou
-
-- b) être autorisé à enseigner au gymnase et avoir suivi en plus une formation à la pédagogie professionnelle de 300 heures de formation; ou
-
-- c) avoir fait des études du niveau d'une haute école dans le domaine correspondant et avoir suivi en plus une formation à la pédagogie professionnelle de 1800 heures de formation.
+- a) être autorisé à enseigner à l'école obligatoire et avoir suivi en plus une formation complémentaire pour enseigner la culture générale selon le plan d'études correspondant et une formation à la pédagogie professionnelle de 300 heures de formation, ou
+- b) être autorisé à enseigner au gymnase et avoir suivi en plus une formation à la pédagogie professionnelle de 300 heures de formation, ou
+- c) avoir fait des études du niveau d'une haute école dans le domaine correspondant et avoir suivi en plus une formation à la pédagogie professionnelle de 1'800 heures de formation.
 
 #### Art. 80
 
@@ -964,9 +888,9 @@ Les formateurs actifs dans les cours interentreprises et dans d'autres lieux de 
 
 **Statut et traitement**
 
-Le statut et le traitement du personnel enseignant de l'école professionnelle sont régis par des lois spécifiques.
+<sup>1</sup> Le statut et le traitement du personnel enseignant de l'école professionnelle sont régis par des lois spécifiques.
 
-### Chapitre 7: Formation professionnelle supérieure
+## 7 Formation professionnelle supérieure
 
 #### Art. 82
 
@@ -980,29 +904,28 @@ Le statut et le traitement du personnel enseignant de l'école professionnelle s
 
 **Enseignement**
 
-La formation professionnelle supérieure s'acquiert:
+<sup>1</sup> La formation professionnelle supérieure s'acquiert:
 
 - a) par une formation spécifique sanctionnée par un examen professionnel fédéral ou par un examen fédéral supérieur;
-
 - b) par une formation reconnue par la Confédération et dispensée par une école supérieure.
 
 #### Art. 84
 
 **Organisation**
 
-D'entente avec les organisations du monde du travail, le canton, par les écoles professionnelles, peut proposer les cours préparatoires aux examens prévus à l'article précédent.
+<sup>1</sup> D'entente avec les organisations du monde du travail, le canton, par le service compétent, peut proposer les cours préparatoires aux examens prévus à l'article précédent.
 
 #### Art. 85
 
 **Ecoles supérieures**
 
-Les écoles supérieures sont régies par une ordonnance du département fédéral concerné réglant les filières des écoles supérieures.
+<sup>1</sup> Les écoles supérieures sont régies par une ordonnance du département fédéral concerné réglant les filières des écoles supérieures.
 
 #### Art. 86
 
 **Examens professionnels fédéraux**
 
-Les examens professionnels fédéraux et les examens professionnels fédéraux supérieurs sont régis par les prescriptions afférentes (art. 28 al. 2 LFPr).
+<sup>1</sup> Les examens professionnels fédéraux et les examens professionnels fédéraux supérieurs sont régis par les prescriptions afférentes (art. 28 al. 2 LFPr).
 
 #### Art. 87
 
@@ -1010,33 +933,31 @@ Les examens professionnels fédéraux et les examens professionnels fédéraux s
 
 <sup>1</sup> Le brevet est décerné à la personne qui a réussi l'examen professionnel fédéral. Le diplôme est décerné à la personne qui a réussi l'examen professionnel fédéral supérieur.
 
-<sup>2</sup> Le brevet et le diplôme sont délivrés par l'OFFT.
+<sup>2</sup> Le brevet et le diplôme sont délivrés par le SEFRI.
 
-<sup>3</sup> L'OFFT tient un registre public des noms des titulaires d'un brevet ou d'un diplôme.
+<sup>3</sup> Le SEFRI tient un registre public des noms des titulaires d'un brevet ou d'un diplôme.
 
-### Chapitre 8: Formation continue à des fins professionnelles
+## 8 Formation continue à des fins professionnelles
 
 #### Art. 88
 
 **Objet**
 
-La formation continue à des fins professionnelles a pour but, dans un cadre structuré:
+<sup>1</sup> La formation continue à des fins professionnelles a pour but, dans un cadre structuré:
 
 - a) de renouveler, d'approfondir et de compléter les qualifications professionnelles et d'en acquérir de nouvelles;
-
 - b) d'améliorer la flexibilité professionnelle;
-
 - c) de faciliter la réinsertion professionnelle.
 
-### Chapitre 9: Dispositions diverses
+## 9 Dispositions diverses
 
-### Section 1: Encouragement à la formation professionnelle
+### 9.1 Encouragement à la formation professionnelle
 
 #### Art. 89
 
 **Aide**
 
-Des bourses, des prêts d'honneur et des subventions sont accordés conformément aux dispositions légales en la matière.
+<sup>1</sup> Des bourses, des prêts d'honneur et des subventions sont accordés conformément aux dispositions légales en la matière.
 
 #### Art. 90
 
@@ -1046,7 +967,7 @@ Des bourses, des prêts d'honneur et des subventions sont accordés conformémen
 
 <sup>2</sup> Ne peuvent être subventionnées que les institutions d'utilité publique, présentant toutes les garanties au point de vue de la sécurité, de l'hygiène et de la santé physique et morale des pensionnaires et destinées spécialement aux apprentis qui suivent l'enseignement des écoles professionnelles (à l'exclusion des cours interentreprises).
 
-### Section 2: Subventions de l'Etat - Participation de la Confédération - Contribution communale
+### 9.2 Subventions de l'Etat - Participation de la Confédération - Contribution communale
 
 #### Art. 91
 
@@ -1066,23 +987,21 @@ Des bourses, des prêts d'honneur et des subventions sont accordés conformémen
 
 #### Art. 92
 
-**Relations avec l'OFFT**
+**Relations avec le SEFRI**
 
-Le SFOP est l'instance responsable pour les relations avec l'OFFT, notamment en ce qui concerne l'exécution de la loi fédérale, les dépôts de projets et les demandes de subventionnement. Il gère, dans les limites des compétences attribuées, la participation de la Confédération à la formation professionnelle.
-
-[^92-1]: Nouvelle teneur selon ch. II/5 de la loi BO No 38/2011 1.01.2012 concernant la deuxième étape de la mise en oevre de la réforme de la pérequation financière et de la répartition des tâches entre la Confédération, le canton et les communes du 15.09.2011
+<sup>1</sup> Le SFOP est l'instance responsable pour les relations avec le SEFRI, notamment en ce qui concerne l'exécution de la loi fédérale, les dépôts de projets et les demandes de subventionnement. Il gère, dans les limites des compétences attribuées, la participation de la Confédération à la formation professionnelle.
 
 #### Art. 93
 
-**Abrogé**[^92-1]
+**…**
 
-### Section 3: Juridiction civile - Dispositions pénales
+### 9.3 Juridiction civile - Dispositions pénales
 
 #### Art. 94
 
 **Juridiction civile**
 
-La juridiction civile est réservée pour les litiges découlant du contrat d'apprentissage. Demeure réservé l'article 24 alinéa 1 lettre a (compétences de la commission cantonale).
+<sup>1</sup> La juridiction civile est réservée pour les litiges découlant du contrat d'apprentissage. Demeure réservé l'article 24 alinéa 1 lettre a (compétences de la commission cantonale).
 
 #### Art. 95
 
@@ -1094,11 +1013,11 @@ La juridiction civile est réservée pour les litiges découlant du contrat d'ap
 
 <sup>3</sup> La compétence disciplinaire des autorités scolaires et des commissions d'examen est réservée.
 
-### Section 4: Locaux de la formation professionnelle
+### 9.4 Locaux de la formation professionnelle
 
 #### Art. 96
 
-<sup>1</sup> Bâtiments et équipements
+**Bâtiments et équipements**
 
 <sup>1</sup> Les bâtiments affectés à la formation professionnelle, leur équipement et leur entretien sont à la charge de l'Etat. Les organisations du monde du travail peuvent être appelées à contribution.
 
@@ -1110,28 +1029,25 @@ La juridiction civile est réservée pour les litiges découlant du contrat d'ap
 
 **Exigences**
 
-Les locaux destinés à l'enseignement professionnel doivent remplir, au point de vue de la sécurité, de l'hygiène et de la salubrité, des conditions au moins égales à celles exigées par la loi sur l'instruction publique, la loi sur les mesures en faveur des handicapés et la loi fédérale sur le travail dans l'industrie, l'artisanat et le commerce.
+<sup>1</sup> Les locaux destinés à l'enseignement professionnel doivent remplir, au point de vue de la sécurité, de l'hygiène et de la salubrité, des conditions au moins égales à celles exigées par la loi sur l'instruction publique, la loi sur les mesures en faveur des handicapés et la loi fédérale sur le travail dans l'industrie, l'artisanat et le commerce.
 
-### Chapitre 10: Dispositions transitoires et finales
+## 10 Dispositions transitoires et finales
 
 #### Art. 98
 
 **Abrogation**
 
-La loi concernant l'exécution de la loi fédérale sur la formation professionnelle du 14 novembre 1984 est abrogée.
+<sup>1</sup> La loi concernant l'exécution de la loi fédérale sur la formation professionnelle du 14 novembre 1984 est abrogée.
 
 #### Art. 99
 
 **Dispositions transitoires**
 
-Jusqu'à l'adoption de nouvelles dispositions par le Conseil d'Etat, demeurent en vigueur les:
+<sup>1</sup> Jusqu'à l'adoption de nouvelles dispositions par le Conseil d'Etat, demeurent en vigueur les:
 
 - a) règlement d'exécution de la loi concernant l'exécution de la loi fédérale sur la formation professionnelle du 20 février 1985;
-
 - b) règlement des écoles professionnelles du canton du Valais du 26 mars 1986;
-
 - c) règlement sur l'organisation de la maturité professionnelle du 30 juin 1999;
-
 - d) règlement concernant la reconnaissance institutionnelle et la validation d'acquis du 20 février 2008.
 
 #### Art. 100
@@ -1142,12 +1058,4 @@ Jusqu'à l'adoption de nouvelles dispositions par le Conseil d'Etat, demeurent e
 
 <sup>2</sup> Le Conseil d'Etat fixe l'entrée en vigueur de la loi.
 
-Ainsi adopté en deuxième lecture en séance du Grand Conseil, à Sion, le 13 juin 2008.
-
-Le président du Grand Conseil: Paul-André Roux Le chef du Service parlementaire: Claude Bumann
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-vigueur
+RCV BO/Abl. 29/2008, 51/2008
