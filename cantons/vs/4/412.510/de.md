@@ -1,23 +1,24 @@
 ---
 canton: VS
 number: "412.510"
-title: Reglement zum kantonalen Weiterbildungsfonds
+title: "Reglement zum kantonalen Weiterbildungsfonds *"
 short: RKWBF
 language: de
-version: 2021-01-01
-valid_until: 2022-04-21
-version_adopted: 2020-11-18
+version: 2022-04-22
+version_adopted: 2022-09-14
 adopted: 2020-11-18
 in_force: 2021-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/412.510"
-pdf: "https://lex.vs.ch/api/de/versions/2752/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3069/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement zum kantonalen Weiterbildungsfonds
 
-vom 18.11.2020 (Stand 01.01.2021)
+(RKWBF)
+
+vom 18.11.2020 (Stand 22.04.2022)
 
 Der Staatsrat des Kantons Wallis
 
@@ -51,7 +52,7 @@ verordnet[^ingress-1]:
 
 <sup>1</sup> Dieses Reglement bestimmt:
 
-- a) die Einzelheiten der Erhebung der Jahresbeiträge von Staat, Gemeinden, Arbeitgeber und Arbeitnehmer, die in den kantonalen Weiterbildungsfonds (nachfolgend: der Fonds) fliessen;
+- a) die Einzelheiten der Erhebung der Jahresbeiträge von Staat, Gemeinden, Arbeitgeber, Selbstständigen und Arbeitnehmer, die in den kantonalen Weiterbildungsfonds (nachfolgend: der Fonds) fliessen;
 - b) die Bedingungen für eine Übernahme der Leistungen des Fonds;
 - c) die Organisation der Verwaltungskommission und deren Kompetenzen;
 - d) die Verwaltung des Fonds.
@@ -66,7 +67,7 @@ verordnet[^ingress-1]:
 
 <sup>2</sup> Der Anteil des Beitrages darf folgende Werte nicht überschreiten:
 
-- a) 0,04 Promille der Lohnmasse für den Arbeitgeberanteil;
+- a) 0,04 Promille der Lohnmasse für den Anteil Arbeitgeber/Selbstständige;
 - b) 0,02 Promille der Lohnmasse für den Arbeitnehmeranteil.
 
 <sup>3</sup> Der Staatsrat setzt jährlich gemäss Artikel 29 Absatz 1 Buchstabe a des Weiterbildungsgesetzes (WBG) den Beitrag des Kantons für die Weiterbildung fest.
@@ -75,7 +76,7 @@ verordnet[^ingress-1]:
 
 <sup>5</sup> Die Erhebung der Jahresbeiträge wird im Prinzip durch den kantonalen Berufsbildungsfonds durchgeführt, welcher die Beiträge an den Weiterbildungsfonds überweist.
 
-<sup>6</sup> Der Arbeitgeberanteil ist bereits im Beitrag für den kantonalen Berufsbildungsfonds enthalten.
+<sup>6</sup> Der Anteil Arbeitgeber/Selbständige ist bereits im Beitrag für den kantonalen Berufsbildungsfonds enthalten.
 
 <sup>7</sup> Verfügt eine Berufsbranche über ihren eigenen Fonds und erhebt dieser einen Jahresbeitrag, werden die Einzelheiten der Erhebung durch ein eigenes Reglement geregelt.
 
@@ -87,7 +88,7 @@ verordnet[^ingress-1]:
 
 <sup>1</sup> Die Entschädigungen für die Verwaltungskosten bezüglich des Arbeitnehmeranteils werden auf ein Prozent der als Fondbeitrag einkassierten Beträge festgelegt.
 
-<sup>2</sup> Die Entschädigungen für die Verwaltungskosten bezüglich des Arbeitgeberanteils sind in Artikel 2 Absatz 1 des Ausführungsreglements zum Gesetz über den kantonalen Berufsbildungsfonds geregelt.Die Entschädigungen für die Verwaltungskosten bezüglich des Arbeitnehmeranteils werden auf 1,5 Prozent der als Fondbeitrag einkassierten Beträge festgelegt.
+<sup>2</sup> Die Entschädigungen für die Verwaltungskosten bezüglich des Anteils Arbeitgeber/Selbstständige sind in Artikel 2 Absatz 1 des Ausführungsreglements zum Gesetz über den kantonalen Berufsbildungsfonds geregelt. Die Entschädigungen für die Verwaltungskosten bezüglich des Arbeitnehmeranteils werden auf 1,5 Prozent der als Fondbeitrag einkassierten Beträge festgelegt.
 
 <sup>3</sup> Die bewilligten Unternehmen, der Staat sowie die bewilligten öffentlich-rechtlichen Institutionen haben keinen Anspruch auf eine Entschädigung der Verwaltungskosten.
 
@@ -155,7 +156,7 @@ verordnet[^ingress-1]:
 
 - a) zwei Mitgliedern der Arbeitergewerkschaften;
 - b) vier Vertretern der Arbeitgeber, darunter einer des Walliser Baumeisterverbands (WBV) und einer des kantonalen Berufsbildungsfonds (KBBF);
-- c) zwei Vertretern des Staates Wallis, darunter der Chef der für die Berufsbildung zuständigen Dienststelle;
+- c) zwei Vertretern des Staates Wallis, darunter der Chef der für die Weiterbildung zuständigen Dienststelle;
 - d) einem Vertreter der Walliser Gemeinden.
 
 <sup>3</sup> Der Staatsrat holt vor Ernennung ihrer Kommissionsmitglieder die Meinung der Berufsverbände und des Verbands der Walliser Gemeinden ein.
@@ -239,7 +240,7 @@ verordnet[^ingress-1]:
 - e) die Buchhaltung des Fonds führen;
 - f) den Jahresbericht der Verwaltung des Fonds erstellen;
 - g) das Jahresbudget vorbereiten und der Verwaltungskommission unterbreiten;
-- h) jedes Jahr im Mai dem Staatsrat den Beitragssatz der Arbeitgeber/Arbeitnehmer sowie den Betrag des Anteils des Staates und der Gemeinden übermitteln;
+- h) jedes Jahr im Mai dem Staatsrat den Beitragssatz der Arbeitgeber/Selbstständigen und derjenige der Arbeitnehmer sowie den Betrag des Anteils des Staates und der Gemeinden übermitteln;
 - i) der Verwaltungskommission spezielle Gesuche unterbreiten;
 
 <sup>2</sup> Der Verwalter ist mit der Förderung des Fonds gegenüber den Begünstigten betraut. Er hat namentlich folgende Zusatzaufgaben zu erfüllen:
@@ -277,7 +278,7 @@ verordnet[^ingress-1]:
 
 <sup>4</sup> Der Beitrag für den kantonalen Weiterbildungsfonds wird ab dem 1. Januar 2021 zu folgenden Sätzen erhoben:
 
-- a) 0,02 Promille der Lohnmasse für den Arbeitgeberanteil;
+- a) 0,02 Promille der Lohnmasse für den Anteil Arbeitgeber/Selbstständige;
 - b) 0,01 Promille der Lohnmasse für den Arbeitnehmeranteil.
 
 <sup>5</sup> Die zum Zeitpunkt des Inkrafttretens des vorliegenden Reglements von der kantonalen Weiterbildungskommission (KWK) zugebilligten Leistungen bleiben garantiert.

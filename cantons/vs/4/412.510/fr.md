@@ -4,20 +4,21 @@ number: "412.510"
 title: Règlement concernant le fonds cantonal de la formation continue des adultes
 short: RFCFCA
 language: fr
-version: 2021-01-01
-valid_until: 2022-04-21
-version_adopted: 2020-11-18
+version: 2022-04-22
+version_adopted: 2022-09-14
 adopted: 2020-11-18
 in_force: 2021-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/412.510"
-pdf: "https://lex.vs.ch/api/fr/versions/2752/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3069/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement concernant le fonds cantonal de la formation continue des adultes
 
-du 18.11.2020 (état 01.01.2021)
+(RFCFCA)
+
+du 18.11.2020 (état 22.04.2022)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -51,7 +52,7 @@ ordonne[^ingress-1]:
 
 <sup>1</sup> Le présent règlement détermine:
 
-- a) les modalités de perception des contributions annuelles versées par l’Etat, les communes, les employeurs et les employés, au fonds cantonal de la formation continue des adultes (ci-après: fonds);
+- a) les modalités de perception des contributions annuelles versées par l’Etat, les communes, les employeurs, les indépendants et les employés, au fonds cantonal de la formation continue des adultes (ci-après: fonds);
 - b) les conditions de prise en charge des prestations du fonds;
 - c) l’organisation de la commission de gestion et ses compétences;
 - d) l’administration du fonds.
@@ -66,7 +67,7 @@ ordonne[^ingress-1]:
 
 <sup>2</sup> Le taux de la contribution ne peut dépasser:
 
-- a) 0,04 pour mille de la masse salariale pour la part employeurs;
+- a) 0,04 pour mille de la masse salariale pour la part employeurs/indépendants;
 - b) 0,02 pour mille de la masse salariale pour la part employés.
 
 <sup>3</sup> Le Conseil d’Etat fixe annuellement la contribution du Canton à la formation continue des adultes conformément à l’article 29 alinéa 1 lettre a de la loi sur la formation continue des adultes (LFCA).
@@ -75,7 +76,7 @@ ordonne[^ingress-1]:
 
 <sup>5</sup> La perception des contributions annuelles est en principe effectuée par le fonds cantonal en faveur de la formation professionnelle qui reverse les montants dévolus au fonds de la formation continue.
 
-<sup>6</sup> La part employeur est déjà comprise dans la contribution au fonds cantonal en faveur de la formation professionnelle.
+<sup>6</sup> La part employeurs/indépendants est déjà comprise dans la contribution au fonds cantonal en faveur de la formation professionnelle.
 
 <sup>7</sup> Lorsqu’une branche professionnelle dispose de son propre fonds et que celui-ci perçoit la contribution annuelle, les modalités de perception sont régies par son propre règlement.
 
@@ -87,7 +88,7 @@ ordonne[^ingress-1]:
 
 <sup>1</sup> Les indemnités pour les frais administratifs relatifs à la part employés sont fixées à un pour cent des montants encaissés au titre de la contribution au fonds.
 
-<sup>2</sup> Les indemnités pour les frais administratifs relatifs à la part employeur sont réglées conformément à l'article 2 alinéa 1 du règlement d’exécution de la loi sur le fonds cantonal en faveur de la formation professionnelle. Les indemnités pour les frais administratifs relatifs à la part employé sont fixées hauteur de 1,5 pour cent des montants encaissés au titre de la contribution au fonds.
+<sup>2</sup> Les indemnités pour les frais administratifs relatifs à la part employeurs/indépendants sont réglées conformément à l'article 2 alinéa 1 du règlement d’exécution de la loi sur le fonds cantonal en faveur de la formation professionnelle. Les indemnités pour les frais administratifs relatifs à la part employé sont fixées hauteur de 1,5 pour cent des montants encaissés au titre de la contribution au fonds.
 
 <sup>3</sup> Les entreprises autorisées, l’Etat et les institutions de droit public autorisées n’ont pas droit à des indemnités pour les frais administratifs.
 
@@ -155,7 +156,7 @@ ordonne[^ingress-1]:
 
 - a) deux membres des syndicats ouvriers;
 - b) quatre représentants des employeurs, dont un de l’association valaisanne des entrepreneurs (AVE) et un du fonds cantonal en faveur de la formation professionnelle (FCFP);
-- c) deux représentants de l’Etat du Valais, dont le chef de service en charge de la formation professionnelle;
+- c) deux représentants de l’Etat du Valais, dont le chef de service en charge de la formation continue des adultes;
 - d) un représentant des communes valaisannes.
 
 <sup>3</sup> Le Conseil d’Etat consulte les associations professionnelles et la Fédération des Communes valaisannes avant de nommer leurs représentants.
@@ -239,7 +240,7 @@ ordonne[^ingress-1]:
 - e) tenir la comptabilité du fonds;
 - f) élaborer le rapport annuel de gestion du fonds;
 - g) préparer le budget annuel et le soumettre à la commission de gestion;
-- h) transmettre au Conseil d'Etat le taux de la contribution annuelle employeurs / employés ainsi que le montant de la part de l’Etat et des communes, chaque année au mois de mai;
+- h) transmettre au Conseil d'Etat le taux de la contribution annuelle employeurs/indépendants, celui des employés ainsi que le montant de la part de l’Etat et des communes, chaque année au mois de mai;
 - i) soumettre à la commission de gestion les demandes particulières.
 
 <sup>2</sup> L'administrateur est chargé de la promotion du fonds auprès des bénéficiaires. Il a notamment pour attributions de:
@@ -277,7 +278,7 @@ ordonne[^ingress-1]:
 
 <sup>4</sup> La contribution au Fonds cantonal en faveur de la formation continue des adultes est perçue dès le 1<sup>er</sup> janvier 2021 aux taux suivants:
 
-- a) 0,02 pour mille de la masse salariale pour la part employeurs;
+- a) 0,02 pour mille de la masse salariale pour la part employeurs/indépendants;
 - b) 0,01 pour mille de la masse salariale pour la part employés.
 
 <sup>5</sup> Les prestations accordées par la Commission cantonale de formation continue des adultes (COFCA) au moment de l’entrée en vigueur du présent règlement demeurent valables.
