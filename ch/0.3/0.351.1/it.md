@@ -3,11 +3,11 @@ sr: "0.351.1"
 title: "Convenzione europea di assistenza giudiziaria in materia penale, del 20 aprile 1959"
 eli: "https://fedlex.data.admin.ch/eli/cc/1967/831_871_866"
 language: it
-version: 2013-01-16
+version: 2022-04-22
 adopted: 1959-04-20
 in_force: 1967-03-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/831_871_866/20130116/it/xml/fedlex-data-admin-ch-eli-cc-1967-831_871_866-20130116-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1967/831_871_866/20130116/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/831_871_866/20220422/it/xml/fedlex-data-admin-ch-eli-cc-1967-831_871_866-20220422-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/831_871_866/20220422/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,20 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1967/831_871_866/20130116/it"
 
 RU **1967** 866; FF **1966** I 425
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conclusa a Strasburgo il 20 aprile 1959
+Conclusa a Strasburgo il 20 aprile 1959 Approvata dall’Assemblea federale il 27 settembre 1966[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 20 dicembre 1966 Entrata in vigore per la Svizzera il 20 marzo 1967
 
-Approvata dall’Assemblea federale il 27 settembre 1966[^t-2]
+(Stato 22 aprile 2022)
 
-Istrumento di ratificazione depositato dalla Svizzera il 20 dicembre 1966
-
-Entrata in vigore per la Svizzera il 20 marzo 1967
-
-(Stato 16 gennaio 2013)
-
-[^t-1]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: [RU 1967 839](https://fedlex.data.admin.ch/eli/oc/1967/805_845_839)
+[^t-1]: [RU 1967 839](https://fedlex.data.admin.ch/eli/oc/1967/805_845_839)
 
 *Preambolo*
 
@@ -321,7 +314,7 @@ Il Segretario Generale del Consiglio d’Europa notificherà ai Membri del Consi
 
 *In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato la presente Convenzione. Fatto a Strasburgo, il 20 aprile 1959, nelle lingue francese e inglese, i cui testi fanno ugualmente fede, in un solo esemplare, che sarà depositato all’archivio del Consiglio d’Europa. Il Segretario Generale trasmetterà copia certificata conforme ai Governi firmatari e aderenti. (Seguono le firme)
 
-Campo d'applicazione il 16 gennaio 2013**[^t-3]**
+Campo d’applicazione il 22 aprile 2022**[^t-2]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -334,9 +327,9 @@ Campo d'applicazione il 16 gennaio 2013**[^t-3]**
 <tr><td>Bosnia ed Erzegovina</td><td>25 aprile</td><td>2005</td><td>24 luglio</td><td>2005</td></tr>
 <tr><td>Bulgaria<sup>\*</sup></td><td>17 giugno</td><td>1994</td><td>14 settembre</td><td>1994</td></tr>
 <tr><td>Ceca, Repubblica<sup>\*</sup></td><td>15 aprile</td><td>1992</td><td>1° gennaio</td><td>1993</td></tr>
-<tr><td>Cile\*</td><td>30 maggio</td><td>2011 A</td><td>28 agosto</td><td>2011</td></tr>
+<tr><td>Cile<sup>\*</sup></td><td>30 maggio</td><td>2011 A</td><td>28 agosto</td><td>2011</td></tr>
 <tr><td>Cipro<sup>\*</sup></td><td>24 febbraio</td><td>2000</td><td>24 maggio</td><td>2000</td></tr>
-<tr><td>Corea del Sud\*</td><td>29 settembre</td><td>2011 A</td><td>29 dicembre</td><td>2011</td></tr>
+<tr><td>Corea del Sud<sup>\*</sup></td><td>29 settembre</td><td>2011 A</td><td>29 dicembre</td><td>2011</td></tr>
 <tr><td>Croazia<sup>\*</sup></td><td>7 maggio</td><td>1999</td><td>5 agosto</td><td>1999</td></tr>
 <tr><td>Danimarca<sup>\*</sup></td><td>13 settembre</td><td>1962</td><td>12 dicembre</td><td>1962</td></tr>
 <tr><td>Estonia<sup>\*</sup></td><td>28 aprile</td><td>1997</td><td>27 luglio</td><td>1997</td></tr>
@@ -353,7 +346,7 @@ Campo d'applicazione il 16 gennaio 2013**[^t-3]**
 <tr><td>Liechtenstein<sup>\*</sup></td><td>28 ottobre</td><td>1969 A</td><td>26 gennaio</td><td>1970</td></tr>
 <tr><td>Lituania<sup>\*</sup></td><td>17 aprile</td><td>1997</td><td>16 luglio</td><td>1997</td></tr>
 <tr><td>Lussemburgo<sup>\*</sup></td><td>18 novembre</td><td>1976</td><td>16 febbraio</td><td>1977</td></tr>
-<tr><td>Macedonia</td><td>28 luglio</td><td>1999</td><td>26 ottobre</td><td>1999</td></tr>
+<tr><td>Macedonia del Nord</td><td>28 luglio</td><td>1999</td><td>26 ottobre</td><td>1999</td></tr>
 <tr><td>Malta<sup>\*</sup></td><td>3 marzo</td><td>1994</td><td>1° giugno</td><td>1994</td></tr>
 <tr><td>Moldova<sup>\*</sup></td><td>4 febbraio</td><td>1998</td><td>5 maggio</td><td>1998</td></tr>
 <tr><td>Monaco<sup>\*</sup></td><td>19 marzo</td><td>2007</td><td>17 giugno</td><td>2007</td></tr>
@@ -361,9 +354,9 @@ Campo d'applicazione il 16 gennaio 2013**[^t-3]**
 <tr><td>Norvegia<sup>\*</sup></td><td>14 marzo</td><td>1962</td><td>12 giugno</td><td>1962</td></tr>
 <tr><td>Paesi Bassi<sup>\*</sup></td><td>14 febbraio</td><td>1969</td><td>15 maggio</td><td>1969</td></tr>
 <tr><td>Aruba<sup>\*</sup></td><td>21 luglio</td><td>1993</td><td>21 luglio</td><td>1993</td></tr>
-<tr><td>Curaçao\*</td><td>21 luglio</td><td>1993</td><td>21 luglio</td><td>1993</td></tr>
-<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)\*</td><td>21 luglio</td><td>1993</td><td>21 luglio</td><td>1993</td></tr>
-<tr><td>Sint Maarten\*</td><td>21 luglio</td><td>1993</td><td>21 luglio</td><td>1993</td></tr>
+<tr><td>Curaçao<sup>\*</sup></td><td>21 luglio</td><td>1993</td><td>21 luglio</td><td>1993</td></tr>
+<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)<sup>\*</sup></td><td>21 luglio</td><td>1993</td><td>21 luglio</td><td>1993</td></tr>
+<tr><td>Sint Maarten<sup>\*</sup></td><td>21 luglio</td><td>1993</td><td>21 luglio</td><td>1993</td></tr>
 <tr><td>Polonia<sup>\*</sup></td><td>19 marzo</td><td>1996</td><td>17 giugno</td><td>1996</td></tr>
 <tr><td>Portogallo<sup>\*</sup></td><td>27 settembre</td><td>1994</td><td>26 dicembre</td><td>1994</td></tr>
 <tr><td>Regno Unito<sup>\*</sup></td><td>29 agosto</td><td>1991</td><td>27 novembre</td><td>1991</td></tr>
@@ -385,17 +378,17 @@ Campo d'applicazione il 16 gennaio 2013**[^t-3]**
 <tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: http://conventions.coe.int oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-3]: [RU 1975 456](https://fedlex.data.admin.ch/eli/oc/1975/457_456_456)[2271](https://fedlex.data.admin.ch/eli/oc/1975/2271_2271_2271), [1976 1904](https://fedlex.data.admin.ch/eli/oc/1976/1904_1904_1904), [1977 907](https://fedlex.data.admin.ch/eli/oc/1977/907_907_907), [1982 1309](https://fedlex.data.admin.ch/eli/oc/1982/1309_1309_1309)[2261](https://fedlex.data.admin.ch/eli/oc/1982/2261_2261_2261), [1983 1193](https://fedlex.data.admin.ch/eli/oc/1983/1193_1193_1193), [1985 490](https://fedlex.data.admin.ch/eli/oc/1985/490_490_490), [1986 324](https://fedlex.data.admin.ch/eli/oc/1986/324_324_324), [1993 2059](https://fedlex.data.admin.ch/eli/oc/1993/2059_2059_2059), [1995 3141](https://fedlex.data.admin.ch/eli/oc/1995/3141_3141_3141), **1999** 1354, [2003 636](https://fedlex.data.admin.ch/eli/oc/2003/129), [2005 4761](https://fedlex.data.admin.ch/eli/oc/2005/630), [2010 2259](https://fedlex.data.admin.ch/eli/oc/2010/319)e [2013 399](https://fedlex.data.admin.ch/eli/oc/2013/70). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1975 456](https://fedlex.data.admin.ch/eli/oc/1975/457_456_456), [2271](https://fedlex.data.admin.ch/eli/oc/1975/2271_2271_2271); [1976 1904](https://fedlex.data.admin.ch/eli/oc/1976/1904_1904_1904); [1977 907](https://fedlex.data.admin.ch/eli/oc/1977/907_907_907); [1982 1309](https://fedlex.data.admin.ch/eli/oc/1982/1309_1309_1309), [2261](https://fedlex.data.admin.ch/eli/oc/1982/2261_2261_2261); [1983 1193](https://fedlex.data.admin.ch/eli/oc/1983/1193_1193_1193); [1985 490](https://fedlex.data.admin.ch/eli/oc/1985/490_490_490); [1986 324](https://fedlex.data.admin.ch/eli/oc/1986/324_324_324); [1993 2059](https://fedlex.data.admin.ch/eli/oc/1993/2059_2059_2059); [1995 3141](https://fedlex.data.admin.ch/eli/oc/1995/3141_3141_3141); [1999 1353](https://fedlex.data.admin.ch/eli/oc/1999/191); [2003 636](https://fedlex.data.admin.ch/eli/oc/2003/129); [2005 4761](https://fedlex.data.admin.ch/eli/oc/2005/630); [2010 2259](https://fedlex.data.admin.ch/eli/oc/2010/319); [2013 399](https://fedlex.data.admin.ch/eli/oc/2013/70); [2022 268](https://fedlex.data.admin.ch/eli/oc/2022/268). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
 
 Riserve e dichiarazioni
 
-Svizzera**[^t-4]**
+Svizzera**[^t-3]**
 
 *Articolo 1.* Il Consiglio federale svizzero dichiara che le autorità seguenti devono essere considerate autorità giudiziarie svizzere ai fini della convenzione:
 
 - – i tribunali, le loro corti, camere o sezioni;
 - – il Ministero pubblico della Confederazione;
-- – l’Ufficio federale di giustizia[^t-5];
+- – l’Ufficio federale di giustizia[^t-4];
 - – le autorità abilitate dal diritto cantonale o federale a istruire cause penali, a emettere decreti d’accusa e a prendere decisioni in un procedimento connesso a una causa penale. Per le considerevoli differenze di denominazione delle funzioni attribuite alle dette autorità, l’autorità competente confermerà espressamente, ogniqualvolta sia necessario, al momento di trasmettere una domanda di assistenza giudiziaria, che essa è un’autorità giudiziaria nel senso della convenzione.
 
 Articolo 2.
@@ -417,7 +410,7 @@ Articolo 2.
 
 \2. L’Ufficio federale di giustizia, a Berna, per presentare e ricevere le domande intese al rilascio di estratti del casellario giudiziale, secondo l’articolo 15 paragrafo 3 primo periodo.
 
-*Articolo 12 paragrafo 3*. Il Consiglio federale svizzero dichiara che, secondo l’opinione delle autorità svizzere, la condizione prescritta nell’articolo 12 paragrafo 3 della convenzione per la fine dell’immunità è adempiuta – contrariamente a quella sancita nell’articolo 14 della convenzione europea di estradizione[^t-6] – soltanto se il teste, il perito o il prevenuto in libertà non è impedito da alcun ostacolo giuridico o pratico di lasciare liberamente il territorio dello Stato richiedente.
+*Articolo 12 paragrafo 3*. Il Consiglio federale svizzero dichiara che, secondo l’opinione delle autorità svizzere, la condizione prescritta nell’articolo 12 paragrafo 3 della convenzione per la fine dell’immunità è adempiuta – contrariamente a quella sancita nell’articolo 14 della convenzione europea di estradizione[^t-5] – soltanto se il teste, il perito o il prevenuto in libertà non è impedito da alcun ostacolo giuridico o pratico di lasciare liberamente il territorio dello Stato richiedente.
 
 *Articolo 13 paragrafo 2*. Inteso che ogni persona può farsi rilasciare estratti del suo casellario giudiziale, la Svizzera si riserva il diritto di ottemperare alle domande presentate in virtù dell’articolo 13 paragrafo 2, soltanto se la necessità di ottenere tale estratto per la via ufficiale vi è pertinentemente dimostrata.
 
@@ -425,6 +418,11 @@ Articolo 2.
 
 *Articolo 16 paragrafo 2*. La Svizzera chiede che tutte le domande di assistenza giudiziaria trasmesse alle sue autorità e i loro allegati, eccettuate le domande intese alla consegna di citazioni per comparsa, siano corredate di una traduzione in lingua tedesca, francese o italiana, se esse non sono redatte in una di queste lingue.
 
-[^t-4]: Art. 3 del DF del 27 set. 1966 ([RU 1967 839](https://fedlex.data.admin.ch/eli/oc/1967/805_845_839)), del 4 giu. 1984 ([RU 1986 322](https://fedlex.data.admin.ch/eli/oc/1986/322_322_322)) e art. 1 del DF del 21 mar. 1996 ([RU 1999 1351](https://fedlex.data.admin.ch/eli/oc/1999/190)).
-[^t-5]: La designazione dell’unità amministrativa è stata adattata giusta l’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Di detta modifica è stato tenuto conto in tutto il presente testo.
-[^t-6]: [RS 0.353.1](https://fedlex.data.admin.ch/eli/cc/1967/814_854_850)
+Dichiarazione svizzera dell’1.2.2022 in reazione alle dichiarazioni degli Stati partecipanti alla Procura europea sulla designazione di quest’ultima come autorità giudiziaria. *[^t-6]*
+
+Il testo, in francese e inglese, della Dichiarazione svizzera può essere consultato sul sito Internet del Consiglio d’Europa: http://conventions.coe.int oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.
+
+[^t-3]: Art. 3 del DF del 27 set. 1966 ([RU 1967 839](https://fedlex.data.admin.ch/eli/oc/1967/805_845_839)), del 4 giu. 1984 ([RU 1986 322](https://fedlex.data.admin.ch/eli/oc/1986/322_322_322)) e art. 1 del DF del 21 mar. 1996 ([RU 1999 1351](https://fedlex.data.admin.ch/eli/oc/1999/190)).
+[^t-4]: La designazione dell’unità amministrativa è stata adattata giusta l’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Di detta modifica è stato tenuto conto in tutto il presente testo.
+[^t-5]: [RS 0.353.1](https://fedlex.data.admin.ch/eli/cc/1967/814_854_850)
+[^t-6]: [RU 2022 268](https://fedlex.data.admin.ch/eli/oc/2022/268)

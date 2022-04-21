@@ -3,11 +3,11 @@ sr: "0.351.1"
 title: "Convention européenne d'entraide judiciaire en matière pénale du 20 avril 1959"
 eli: "https://fedlex.data.admin.ch/eli/cc/1967/831_871_866"
 language: fr
-version: 2013-01-16
+version: 2022-04-22
 adopted: 1959-04-20
 in_force: 1967-03-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/831_871_866/20130116/fr/xml/fedlex-data-admin-ch-eli-cc-1967-831_871_866-20130116-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1967/831_871_866/20130116/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/831_871_866/20220422/fr/xml/fedlex-data-admin-ch-eli-cc-1967-831_871_866-20220422-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/831_871_866/20220422/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,17 +20,17 @@ Texte original
 
 Conclue à Strasbourg le 20 avril 1959 Approuvée par l’Assemblée fédérale le 27 septembre 1966[^t-1] Instrument de ratification déposé par la Suisse le 20 décembre 1966 Entrée en vigueur pour la Suisse le 20 mars 1967
 
-(Etat le 16 janvier 2013)
+(Etat le 22 avril 2022)
 
 [^t-1]: [RO 1967 845](https://fedlex.data.admin.ch/eli/oc/1967/805_845_839)
 
-Préambule
+*Préambule*
 
 Les Gouvernements signataires, Membres du Conseil de l’Europe,
 
-considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses Membres;
+considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses Membres,
 
-convaincus que l’adoption de régies communes dans le domaine de l’entraide judiciaire en matière pénale est de nature à atteindre cet objectif;
+convaincus que l’adoption de régies communes dans le domaine de l’entraide judiciaire en matière pénale est de nature à atteindre cet objectif,
 
 considérant que l’entraide judiciaire est une matière connexe à celle de l’extradition qui a déjà fait l’objet d’une convention en date du 13 décembre 1957[^ingress-1],
 
@@ -138,7 +138,7 @@ Le transfèrement pourra être refusé;
 - c. Si son transfèrement est susceptible de prolonger sa détention, ou
 - d. Si d’autres considérations impérieuses s’opposent à son transfèrement sur le territoire de la Partie requérante.
 
-<sup>2.</sup> Dans le cas prévu au paragraphe précédent et sous réserve des dispositions de l’art. 2, le transit de la personne détenue par un territoire d’un Etat tiers, Partie à la présente Convention, sera accordé sur demande accompagnée de tous documents utiles et adressée par le Ministère de la Justice de la Partie requérante au Ministère de la Justice de la Partie requise du transit.
+<sup>2.</sup> Dans le cas prévu au paragraphe précédent et sous réserve des dispositions de l’art. 2, le transit de la personne détenue par un territoire d’un État tiers, Partie à la présente Convention, sera accordé sur demande accompagnée de tous documents utiles et adressée par le Ministère de la Justice de la Partie requérante au Ministère de la Justice de la Partie requise du transit.
 
 Toute Partie Contractante pourra refuser d’accorder le transit de ses ressortissants.
 
@@ -240,7 +240,7 @@ Sous réserve des dispositions de l’art. 10[^20-2], l’exécution des demande
 
 <sup>3.</sup> Les dispositions de l’art. 16 s’appliqueront aux dénonciations prévues au par. 1 du présent article.
 
-## Titre VII Echange d’avis de condamnation
+## Titre VII Échange d’avis de condamnation
 
 #### Art. 22
 
@@ -298,7 +298,7 @@ Toute Partie Contractante pourra, au moment de la signature de la présente Conv
 
 #### Art. 28
 
-<sup>1.</sup> Le Comité des Ministres du Conseil de l’Europe pourra inviter tout Etat non membre du Conseil à adhérer à la présente Convention. La résolution concernant cette invitation devra recevoir l’accord unanime des Membres du Conseil ayant ratifié la Convention.
+<sup>1.</sup> Le Comité des Ministres du Conseil de l’Europe pourra inviter tout État non membre du Conseil à adhérer à la présente Convention. La résolution concernant cette invitation devra recevoir l’accord unanime des Membres du Conseil ayant ratifié la Convention.
 
 <sup>2.</sup> L’adhésion s’effectuera par le dépôt, auprès du Secrétaire Général du Conseil, d’un instrument d’adhésion qui prendra effet 90 jours après son dépôt.
 
@@ -308,7 +308,7 @@ Toute Partie Contractante pourra, en ce qui la concerne, dénoncer la présente 
 
 #### Art. 30
 
-Le Secrétaire Général du Conseil de l’Europe notifiera aux Membres du Conseil et au Gouvernement de tout Etat ayant adhéré à la présente Convention:
+Le Secrétaire Général du Conseil de l’Europe notifiera aux Membres du Conseil et au Gouvernement de tout État ayant adhéré à la présente Convention:
 
 - a. Les noms des signataires et le dépôt de tout instrument de ratification ou d’adhésion;
 - b. La date de l’entrée en vigueur;
@@ -319,89 +319,88 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux Membres du Conse
 
 *En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Strasbourg, le 20 avril 1959, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire, qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil en enverra copie certifiée conforme aux Gouvernements signataires et adhérents. (Suivent les signatures)
 
-Champ d’application le 16 janvier 2013**[^t-2]**
+Champ d’application le 22 avril 2022**[^t-2]**
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="2">Albanie\*</td><td>4 avril</td><td>2000</td><td>3 juillet</td><td>2000</td></tr>
-<tr><td colspan="2">Allemagne\*</td><td>2 octobre</td><td>1976</td><td>1<sup>er</sup> janvier</td><td>1977</td></tr>
-<tr><td colspan="2">Andorre\*</td><td>26 avril</td><td>2005</td><td>25 juillet</td><td>2005</td></tr>
-<tr><td colspan="2">Arménie\*</td><td>25 janvier</td><td>2002</td><td>25 avril</td><td>2002</td></tr>
-<tr><td colspan="2">Autriche\*</td><td>2 octobre</td><td>1968</td><td>31 décembre</td><td>1968</td></tr>
-<tr><td colspan="2">Azerbaïdjan\*</td><td>4 juillet</td><td>2003</td><td>2 octobre</td><td>2003</td></tr>
-<tr><td colspan="2">Belgique\*</td><td>13 août</td><td>1975</td><td>11 novembre</td><td>1975</td></tr>
-<tr><td colspan="2">Bosnie et Herzégovine</td><td>25 avril</td><td>2005</td><td>24 juillet</td><td>2005</td></tr>
-<tr><td colspan="2">Bulgarie\*</td><td>17 juin</td><td>1994</td><td>14 septembre</td><td>1994</td></tr>
-<tr><td colspan="2">Chili\*</td><td>30 mai</td><td>2011 A</td><td>28 août</td><td>2011</td></tr>
-<tr><td colspan="2">Chypre\*</td><td>24 février</td><td>2000</td><td>24 mai</td><td>2000</td></tr>
-<tr><td colspan="2">Corée (Sud)\*</td><td>29 septembre</td><td>2011 A</td><td>29 décembre</td><td>2011</td></tr>
-<tr><td colspan="2">Croatie\*</td><td>7 mai</td><td>1999</td><td>5 août</td><td>1999</td></tr>
-<tr><td colspan="2">Danemark\*</td><td>13 septembre</td><td>1962</td><td>12 décembre</td><td>1962</td></tr>
-<tr><td colspan="2">Espagne\*</td><td>18 août</td><td>1982</td><td>16 novembre</td><td>1982</td></tr>
-<tr><td colspan="2">Estonie\*</td><td>28 avril</td><td>1997</td><td>27 juillet</td><td>1997</td></tr>
-<tr><td colspan="2">Finlande\*</td><td>29 janvier</td><td>1981 A</td><td>29 avril</td><td>1981</td></tr>
-<tr><td colspan="2">France\*</td><td>23 mai</td><td>1967</td><td>21 août</td><td>1967</td></tr>
-<tr><td colspan="2">Géorgie\*</td><td>13 octobre</td><td>1999</td><td>11 janvier</td><td>2000</td></tr>
-<tr><td colspan="2">Grèce\*</td><td>23 février</td><td>1962</td><td>12 juin</td><td>1962</td></tr>
-<tr><td colspan="2">Hongrie\*</td><td>13 juillet</td><td>1993</td><td>11 octobre</td><td>1993</td></tr>
-<tr><td colspan="2">Irlande\*</td><td>28 novembre</td><td>1996</td><td>26 février</td><td>1997</td></tr>
-<tr><td colspan="2">Islande\*</td><td>20 juin</td><td>1984</td><td>18 septembre</td><td>1984</td></tr>
-<tr><td colspan="2">Israël\*</td><td>27 septembre</td><td>1967 A</td><td>26 décembre</td><td colspan="2">1967</td></tr>
-<tr><td colspan="2">Italie\*</td><td>23 août</td><td>1961</td><td>12 juin</td><td>1962</td></tr>
-<tr><td colspan="2">Lettonie\*</td><td>2 juin</td><td>1997</td><td>31 août</td><td>1997</td></tr>
-<tr><td colspan="2">Liechtenstein\*</td><td>28 octobre</td><td>1969 A</td><td>26 janvier</td><td>1970</td></tr>
-<tr><td colspan="2">Lituanie\*</td><td>17 avril</td><td>1997</td><td>16 juillet</td><td>1997</td></tr>
-<tr><td colspan="2">Luxembourg\*</td><td>18 novembre</td><td>1976</td><td>16 février</td><td>1977</td></tr>
-<tr><td colspan="2">Macédoine\*</td><td>28 juillet</td><td>1999</td><td>26 octobre</td><td>1999</td></tr>
-<tr><td colspan="2">Malte\*</td><td>3 mars</td><td>1994</td><td>1<sup>er</sup> juin</td><td>1994</td></tr>
-<tr><td colspan="2">Moldova\*</td><td>4 février</td><td>1998</td><td>5 mai</td><td>1998</td></tr>
-<tr><td colspan="2">Monaco\*</td><td>19 mars</td><td>2007</td><td>17 juin</td><td>2007</td></tr>
-<tr><td colspan="2">Monténégro\*</td><td>6 juin</td><td>2006 S</td><td>6 juin</td><td>2006</td></tr>
-<tr><td colspan="2">Norvège\*</td><td>14 mars</td><td>1962</td><td>12 juin</td><td>1962</td></tr>
-<tr><td colspan="2">Pays-Bas\*</td><td>14 février</td><td>1969</td><td>15 mai</td><td>1969</td></tr>
-<tr><td colspan="2">Aruba\*</td><td>21 juillet</td><td>1993</td><td>21 juillet</td><td>1993</td></tr>
-<tr><td colspan="2">Curaçao\*</td><td>21 juillet</td><td>1993</td><td>21 juillet</td><td>1993</td></tr>
-<tr><td colspan="2">Partie caraïbe (Bonaire, Sint Eustatius et Saba)\*</td><td>21 juillet</td><td>1993</td><td>21 juillet</td><td>1993</td></tr>
-<tr><td colspan="2">Sint Maarten\*</td><td>21 juillet</td><td>1993</td><td>21 juillet</td><td>1993</td></tr>
-<tr><td colspan="2">Pologne\*</td><td>19 mars</td><td>1996</td><td>17 juin</td><td>1996</td></tr>
-<tr><td colspan="2">Portugal\*</td><td>27 septembre</td><td>1994</td><td>26 décembre</td><td>1994</td></tr>
-<tr><td colspan="2">République tchèque\*</td><td>15 avril</td><td>1992</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td colspan="2">Roumanie\*</td><td>17 mars</td><td>1999</td><td>15 juin</td><td>1999</td></tr>
-<tr><td colspan="2">Royaume-Uni\*</td><td>29 août</td><td>1991</td><td>27 novembre</td><td>1991</td></tr>
-<tr><td colspan="2">Guernesey</td><td>27 septembre</td><td>2002</td><td>20 janvier</td><td>2003</td></tr>
-<tr><td colspan="2">Ile de Man</td><td>27 juin</td><td>2003</td><td>8 octobre</td><td>2003</td></tr>
-<tr><td colspan="2">Jersey\*</td><td>27 juin</td><td>2008</td><td>2 octobre</td><td>2008</td></tr>
-<tr><td colspan="2">Russie\*</td><td>10 décembre</td><td>1999</td><td>9 mars</td><td>2000</td></tr>
-<tr><td colspan="2">Saint-Marin\*</td><td>18 mars</td><td>2009</td><td>16 juin</td><td>2009</td></tr>
-<tr><td colspan="2">Serbie\*</td><td>30 septembre</td><td>2002 A</td><td>29 décembre</td><td>2002</td></tr>
-<tr><td colspan="2">Slovaquie\*</td><td>15 avril</td><td>1992</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td colspan="2">Slovénie\*</td><td>19 juillet</td><td>2001</td><td>17 octobre</td><td>2001</td></tr>
-<tr><td colspan="2">Suède\*</td><td>1<sup>er</sup> février</td><td>1968</td><td>1<sup>er</sup> mai</td><td>1968</td></tr>
-<tr><td colspan="2">Suisse\*</td><td>20 décembre</td><td>1966</td><td>20 mars</td><td>1967</td></tr>
-<tr><td colspan="2">Turquie\*</td><td>24 juin</td><td>1969</td><td>22 septembre</td><td>1969</td></tr>
-<tr><td colspan="2">Ukraine</td><td>11 mars</td><td>1998</td><td>9 juin</td><td>1998</td></tr>
-<tr><td>\*</td><td colspan="5">Réserves et déclarations.</td></tr>
-<tr><td>\*\*</td><td colspan="5">Objections. Les réserves, déclarations et objections, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: http://conventions.coe.int ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Albanie\*</td><td>4 avril</td><td>2000</td><td>3 juillet</td><td>2000</td></tr>
+<tr><td>Allemagne\*</td><td>2 octobre</td><td>1976</td><td>1<sup>er</sup> janvier</td><td>1977</td></tr>
+<tr><td>Andorre\*</td><td>26 avril</td><td>2005</td><td>25 juillet</td><td>2005</td></tr>
+<tr><td>Arménie\*</td><td>25 janvier</td><td>2002</td><td>25 avril</td><td>2002</td></tr>
+<tr><td>Autriche\*</td><td>2 octobre</td><td>1968</td><td>31 décembre</td><td>1968</td></tr>
+<tr><td>Azerbaïdjan\*</td><td>4 juillet</td><td>2003</td><td>2 octobre</td><td>2003</td></tr>
+<tr><td>Belgique\*</td><td>13 août</td><td>1975</td><td>11 novembre</td><td>1975</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>25 avril</td><td>2005</td><td>24 juillet</td><td>2005</td></tr>
+<tr><td>Bulgarie\*</td><td>17 juin</td><td>1994</td><td>14 septembre</td><td>1994</td></tr>
+<tr><td>Chili\*</td><td>30 mai</td><td>2011 A</td><td>28 août</td><td>2011</td></tr>
+<tr><td>Chypre\*</td><td>24 février</td><td>2000</td><td>24 mai</td><td>2000</td></tr>
+<tr><td>Corée (Sud)\*</td><td>29 septembre</td><td>2011 A</td><td>29 décembre</td><td>2011</td></tr>
+<tr><td>Croatie\*</td><td>7 mai</td><td>1999</td><td>5 août</td><td>1999</td></tr>
+<tr><td>Danemark\*</td><td>13 septembre</td><td>1962</td><td>12 décembre</td><td>1962</td></tr>
+<tr><td>Espagne\*</td><td>18 août</td><td>1982</td><td>16 novembre</td><td>1982</td></tr>
+<tr><td>Estonie\*</td><td>28 avril</td><td>1997</td><td>27 juillet</td><td>1997</td></tr>
+<tr><td>Finlande\*</td><td>29 janvier</td><td>1981 A</td><td>29 avril</td><td>1981</td></tr>
+<tr><td>France\*</td><td>23 mai</td><td>1967</td><td>21 août</td><td>1967</td></tr>
+<tr><td>Géorgie\*</td><td>13 octobre</td><td>1999</td><td>11 janvier</td><td>2000</td></tr>
+<tr><td>Grèce\*</td><td>23 février</td><td>1962</td><td>12 juin</td><td>1962</td></tr>
+<tr><td>Hongrie\*</td><td>13 juillet</td><td>1993</td><td>11 octobre</td><td>1993</td></tr>
+<tr><td>Irlande\*</td><td>28 novembre</td><td>1996</td><td>26 février</td><td>1997</td></tr>
+<tr><td>Islande\*</td><td>20 juin</td><td>1984</td><td>18 septembre</td><td>1984</td></tr>
+<tr><td>Israël\*</td><td>27 septembre</td><td>1967 A</td><td>26 décembre</td><td colspan="2">1967</td></tr>
+<tr><td>Italie\*</td><td>23 août</td><td>1961</td><td>12 juin</td><td>1962</td></tr>
+<tr><td>Lettonie\*</td><td>2 juin</td><td>1997</td><td>31 août</td><td>1997</td></tr>
+<tr><td>Liechtenstein\*</td><td>28 octobre</td><td>1969 A</td><td>26 janvier</td><td>1970</td></tr>
+<tr><td>Lituanie\*</td><td>17 avril</td><td>1997</td><td>16 juillet</td><td>1997</td></tr>
+<tr><td>Luxembourg\*</td><td>18 novembre</td><td>1976</td><td>16 février</td><td>1977</td></tr>
+<tr><td>Macédoine du Nord\*</td><td>28 juillet</td><td>1999</td><td>26 octobre</td><td>1999</td></tr>
+<tr><td>Malte\*</td><td>3 mars</td><td>1994</td><td>1<sup>er</sup> juin</td><td>1994</td></tr>
+<tr><td>Moldova\*</td><td>4 février</td><td>1998</td><td>5 mai</td><td>1998</td></tr>
+<tr><td>Monaco\*</td><td>19 mars</td><td>2007</td><td>17 juin</td><td>2007</td></tr>
+<tr><td>Monténégro\*</td><td>6 juin</td><td>2006 S</td><td>6 juin</td><td>2006</td></tr>
+<tr><td>Norvège\*</td><td>14 mars</td><td>1962</td><td>12 juin</td><td>1962</td></tr>
+<tr><td>Pays-Bas\*</td><td>14 février</td><td>1969</td><td>15 mai</td><td>1969</td></tr>
+<tr><td>Aruba\*</td><td>21 juillet</td><td>1993</td><td>21 juillet</td><td>1993</td></tr>
+<tr><td>Curaçao\*</td><td>21 juillet</td><td>1993</td><td>21 juillet</td><td>1993</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)\*</td><td>21 juillet</td><td>1993</td><td>21 juillet</td><td>1993</td></tr>
+<tr><td>Sint Maarten\*</td><td>21 juillet</td><td>1993</td><td>21 juillet</td><td>1993</td></tr>
+<tr><td>Pologne\*</td><td>19 mars</td><td>1996</td><td>17 juin</td><td>1996</td></tr>
+<tr><td>Portugal\*</td><td>27 septembre</td><td>1994</td><td>26 décembre</td><td>1994</td></tr>
+<tr><td>République tchèque\*</td><td>15 avril</td><td>1992</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Roumanie\*</td><td>17 mars</td><td>1999</td><td>15 juin</td><td>1999</td></tr>
+<tr><td>Royaume-Uni\*</td><td>29 août</td><td>1991</td><td>27 novembre</td><td>1991</td></tr>
+<tr><td>Guernesey</td><td>27 septembre</td><td>2002</td><td>20 janvier</td><td>2003</td></tr>
+<tr><td>Île de Man</td><td>27 juin</td><td>2003</td><td>8 octobre</td><td>2003</td></tr>
+<tr><td>Jersey\*</td><td>27 juin</td><td>2008</td><td>2 octobre</td><td>2008</td></tr>
+<tr><td>Russie\*</td><td>10 décembre</td><td>1999</td><td>9 mars</td><td>2000</td></tr>
+<tr><td>Saint-Marin\*</td><td>18 mars</td><td>2009</td><td>16 juin</td><td>2009</td></tr>
+<tr><td>Serbie\*</td><td>30 septembre</td><td>2002 A</td><td>29 décembre</td><td>2002</td></tr>
+<tr><td>Slovaquie\*</td><td>15 avril</td><td>1992</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Slovénie\*</td><td>19 juillet</td><td>2001</td><td>17 octobre</td><td>2001</td></tr>
+<tr><td>Suède\*</td><td>1<sup>er</sup> février</td><td>1968</td><td>1<sup>er</sup> mai</td><td>1968</td></tr>
+<tr><td>Suisse\*</td><td>20 décembre</td><td>1966</td><td>20 mars</td><td>1967</td></tr>
+<tr><td>Turquie\*</td><td>24 juin</td><td>1969</td><td>22 septembre</td><td>1969</td></tr>
+<tr><td>Ukraine</td><td>11 mars</td><td>1998</td><td>9 juin</td><td>1998</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-## Réserves et déclarations
+[^t-2]: [RO 1975 456](https://fedlex.data.admin.ch/eli/oc/1975/457_456_456), [2271](https://fedlex.data.admin.ch/eli/oc/1975/2271_2271_2271); [1976 1904](https://fedlex.data.admin.ch/eli/oc/1976/1904_1904_1904); [1977 907](https://fedlex.data.admin.ch/eli/oc/1977/907_907_907); [1982 1309](https://fedlex.data.admin.ch/eli/oc/1982/1309_1309_1309), [2261](https://fedlex.data.admin.ch/eli/oc/1982/2261_2261_2261); [1983 1193](https://fedlex.data.admin.ch/eli/oc/1983/1193_1193_1193); [1985 490](https://fedlex.data.admin.ch/eli/oc/1985/490_490_490); [1986 324](https://fedlex.data.admin.ch/eli/oc/1986/324_324_324); [1993 2059](https://fedlex.data.admin.ch/eli/oc/1993/2059_2059_2059); [1995 3141](https://fedlex.data.admin.ch/eli/oc/1995/3141_3141_3141); **1999** 1354; [2003 636](https://fedlex.data.admin.ch/eli/oc/2003/129); [2005 4761](https://fedlex.data.admin.ch/eli/oc/2005/630); [2010 2259](https://fedlex.data.admin.ch/eli/oc/2010/319); [2013 399](https://fedlex.data.admin.ch/eli/oc/2013/70); [2022 268](https://fedlex.data.admin.ch/eli/oc/2022/268). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
 
-[^t-2]: [RO 1975 456](https://fedlex.data.admin.ch/eli/oc/1975/457_456_456)[2271](https://fedlex.data.admin.ch/eli/oc/1975/2271_2271_2271), [1976 1904](https://fedlex.data.admin.ch/eli/oc/1976/1904_1904_1904), [1977 907](https://fedlex.data.admin.ch/eli/oc/1977/907_907_907), [1982 1309](https://fedlex.data.admin.ch/eli/oc/1982/1309_1309_1309)[2261](https://fedlex.data.admin.ch/eli/oc/1982/2261_2261_2261), [1983 1193](https://fedlex.data.admin.ch/eli/oc/1983/1193_1193_1193), [1985 490](https://fedlex.data.admin.ch/eli/oc/1985/490_490_490), [1986 324](https://fedlex.data.admin.ch/eli/oc/1986/324_324_324), [1993 2059](https://fedlex.data.admin.ch/eli/oc/1993/2059_2059_2059), [1995 3141](https://fedlex.data.admin.ch/eli/oc/1995/3141_3141_3141), **1999** 1354, [2003 636](https://fedlex.data.admin.ch/eli/oc/2003/129), [2005 4761](https://fedlex.data.admin.ch/eli/oc/2005/630), [2010 2259](https://fedlex.data.admin.ch/eli/oc/2010/319)et **2013** 399. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+Réserves et déclarations
 
-Suisse**[^annexu1-lvlu2-1]**
+Suisse**[^t-3]**
 
 *Art. 1.* Le Conseil fédéral suisse déclare que les autorités suivantes doivent être considérées comme autorités judiciaires suisses aux fins de la convention:
 
 - – les tribunaux, leurs cours, chambres ou sections;
 - – le Ministère public de la Confédération;
-- – l’Office fédéral de la justice[^annexu1-lvlu2-2];
+- – l’Office fédéral de la justice[^t-4];
 - – les autorités habilitées par le droit cantonal ou fédéral à instruire des affaires pénales, à décerner des mandats de répression et à prendre des décisions dans une procédure liée à une cause pénale. En raison des différences qui existent quant aux dénominations de fonction de ces autorités, l’autorité compétente confirmera expressément chaque fois qu’il le faudra, au moment de transmettre une demande d’entraide judiciaire, qu’elle est une autorité judiciaire au sens de la convention.
 
 Art. 2
 
 - a. La Suisse se réserve le droit de refuser également l’entraide judiciaire lorsque l’acte motivant la demande est l’objet, en Suisse, d’une procédure pénale dirigée contre la même personne ou qu’une décision pénale y a été rendue, au fond, sur cet acte et sur la culpabilité de l’intéressé;
 - b. La Suisse se réserve en outre le droit de n’accorder l’entraide judiciaire en vertu de la convention qu’à la condition expresse que les résultats des investigations faites en Suisse et les renseignements contenus dans les documents ou dossiers transmis soient utilisés exclusivement pour instruire et juger les infractions à raison desquelles l’entraide est fournie;
-- c. L’Etat requérant peut utiliser les résultats des investigations faites en Suisse et les renseignements contenus dans les documents ou dossiers transmis nonobstant la condition mentionnée sous lettre b, lorsque les faits à l’origine de la demande constituent une autre infraction pour laquelle l’entraide est susceptible d’être accordée par la Suisse ou que la procédure pénale dans l’Etat requérant est dirigée contre d’autres personnes ayant participé à la commission de l’infraction.
+- c. L’État requérant peut utiliser les résultats des investigations faites en Suisse et les renseignements contenus dans les documents ou dossiers transmis nonobstant la condition mentionnée sous lettre b, lorsque les faits à l’origine de la demande constituent une autre infraction pour laquelle l’entraide est susceptible d’être accordée par la Suisse ou que la procédure pénale dans l’État requérant est dirigée contre d’autres personnes ayant participé à la commission de l’infraction.
 
 *Art. 5, par. 1.* Le Conseil fédéral suisse déclare que la Suisse subordonnera à la condition visée à l’art. 5, par. 1, let. *a*, de la Convention l’exécution de toute commission rogatoire exigeant l’application d’une mesure coercitive quelconque.
 
@@ -414,9 +413,9 @@ Art. 2
 - a. pour décerner le mandat d’arrêt contre les personnes détenues qui sont remises aux autorités suisses en vertu de l’art. 11, par. 1 et 2, de la Convention;
 - b. pour recevoir ou transmettre toutes les demandes d’entraide judiciaire, émanant respectivement de l’étranger ou de la Suisse, dont la Convention prévoit à l’art. 15 la transmission par le ministère de la justice de la partie requérante à celui de la partie requise;
 
-\2. L’Office fédéral de la justice[^annexu1-lvlu2-3], à Berne, pour présenter et recevoir les demandes tendant à la délivrance d’extraits du casier judiciaire, selon l’art. 15, par. 3, 1<sup>re</sup> phrase.
+\2. L’Office fédéral de la justice[^t-5], à Berne, pour présenter et recevoir les demandes tendant à la délivrance d’extraits du casier judiciaire, selon l’art. 15, par. 3, 1<sup>re</sup> phrase.
 
-*Art. 12, par. 3.* Le Conseil fédéral suisse déclare que, de l’avis des autorités suisses, la condition prescrite par l’art. 12, par. 3, de la Convention pour faire cesser l’immunité n’est réalisée – contrairement à celle de l’art. 14 de la Convention européenne d’extradition[^annexu1-lvlu2-4] – que si le témoin, l’expert ou le prévenu se trouvant en liberté n’est empêché par aucun obstacle juridique ou pratique de quitter librement le territoire de l’Etat requérant.
+*Art. 12, par. 3.* Le Conseil fédéral suisse déclare que, de l’avis des autorités suisses, la condition prescrite par l’art. 12, par. 3, de la Convention pour faire cesser l’immunité n’est réalisée – contrairement à celle de l’art. 14 de la Convention européenne d’extradition[^t-6] – que si le témoin, l’expert ou le prévenu se trouvant en liberté n’est empêché par aucun obstacle juridique ou pratique de quitter librement le territoire de l’État requérant.
 
 *Art. 13, par. 2.* Attendu que toute personne peut se faire délivrer des extraits de son propre casier judiciaire, la Suisse se réserve le droit de ne déferrer aux requêtes présentées en vertu de l’art. 13, par. 2, que si la nécessité d’obtenir un tel extrait par la voie officielle y est pertinemment démontrée.
 
@@ -424,7 +423,10 @@ Art. 2
 
 *Art. 16, par. 2.* La Suisse demande que toutes les requêtes d’entraide judiciaire adressées à ses autorités ainsi que leurs annexes, à l’exception des demandes visant la remise de citations à comparaître, soient accompagnées d’une traduction en langue allemande, française ou italienne, si elles ne sont pas rédigées dans l’une de ces langues.
 
-[^annexu1-lvlu2-1]: Art. 3 des AF du 27 sept. 1966 ([RO 1967 845](https://fedlex.data.admin.ch/eli/oc/1967/805_845_839)), du 4 juin 1984 ([RO 1986 322](https://fedlex.data.admin.ch/eli/oc/1986/322_322_322)) et art. 1 de l’AF du 21 mars 1996 ([RO 1999 1351](https://fedlex.data.admin.ch/eli/oc/1999/190)).
-[^annexu1-lvlu2-2]: La désignation de l’unité administrative a été adaptée selon l'art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).<sup>¶</sup>
-[^annexu1-lvlu2-3]: La désignation de l’unité administrative a été adaptée selon l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
-[^annexu1-lvlu2-4]: [RS 0.353.1](https://fedlex.data.admin.ch/eli/cc/1967/814_854_850)
+*Déclaration suisse du 1.2.2022 en réaction aux déclarations des États participants au Parquet européen relatives à la désignation de ce dernier comme autorité judiciaire.*[^t-7] Les textes en français et en anglais de la déclaration suisse peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: http://conventions.coe.int ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.
+
+[^t-3]: Art. 3 des AF du 27 sept. 1966 ([RO 1967 845](https://fedlex.data.admin.ch/eli/oc/1967/805_845_839)), du 4 juin 1984 ([RO 1986 322](https://fedlex.data.admin.ch/eli/oc/1986/322_322_322)) et art. 1 de l’AF du 21 mars 1996 ([RO 1999 1351](https://fedlex.data.admin.ch/eli/oc/1999/190)).
+[^t-4]: La désignation de l’unité administrative a été adaptée selon l'art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).<sup>¶</sup>
+[^t-5]: La désignation de l’unité administrative a été adaptée selon l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^t-6]: [RS 0.353.1](https://fedlex.data.admin.ch/eli/cc/1967/814_854_850)
+[^t-7]: [RO 2022 268](https://fedlex.data.admin.ch/eli/oc/2022/268)
