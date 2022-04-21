@@ -3,11 +3,11 @@ sr: "0.351.12"
 title: Zweites Zusatzprotokoll vom 8. November 2001 zum Europäischen Übereinkommen über die Rechtshilfe in Strafsachen
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/46"
 language: de
-version: 2020-10-29
+version: 2022-04-22
 adopted: 2001-11-08
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/46/20201029/de/xml/fedlex-data-admin-ch-eli-cc-2005-46-20201029-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/46/20201029/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/46/20220422/de/xml/fedlex-data-admin-ch-eli-cc-2005-46-20220422-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/46/20220422/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 4. Oktober 2004
 
 Inkrafttreten für die Schweiz am 1. Februar 2005
 
-(Stand am 29. Oktober 2020)
+(Stand am 22. April 2022)
 
 [^t-1]: [AS 2005 331](https://fedlex.data.admin.ch/eli/oc/2005/45)
 
@@ -576,7 +576,7 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben*.* Geschehen zu Strassburg, am 8. November 2001, in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats und den Nichtmitgliedstaaten, die dem Übereinkommen beigetreten sind, beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 29. Oktober 2020**[^t-2]**
+Geltungsbereich am 22. April 2022**[^t-2]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -625,7 +625,7 @@ Geltungsbereich am 29. Oktober 2020**[^t-2]**
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2005 333](https://fedlex.data.admin.ch/eli/oc/2005/46), [2007 1377](https://fedlex.data.admin.ch/eli/oc/2007/232), [2010 3119](https://fedlex.data.admin.ch/eli/oc/2010/417), [2013 1319](https://fedlex.data.admin.ch/eli/oc/2013/303), [2016 2855](https://fedlex.data.admin.ch/eli/oc/2016/469), [2019 2579](https://fedlex.data.admin.ch/eli/oc/2019/479), [2020 4635](https://fedlex.data.admin.ch/eli/oc/2020/828). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2005 333](https://fedlex.data.admin.ch/eli/oc/2005/46); [2007 1377](https://fedlex.data.admin.ch/eli/oc/2007/232); [2010 3119](https://fedlex.data.admin.ch/eli/oc/2010/417); [2013 1319](https://fedlex.data.admin.ch/eli/oc/2013/303); [2016 2855](https://fedlex.data.admin.ch/eli/oc/2016/469); [2019 2579](https://fedlex.data.admin.ch/eli/oc/2019/479); [2020 4635](https://fedlex.data.admin.ch/eli/oc/2020/828); [2022 269](https://fedlex.data.admin.ch/eli/oc/2022/269). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty
 
 Erklärungen
 
@@ -690,3 +690,9 @@ Die Schweiz verlangt, dass personenbezogene Daten, die sie einer Vertragspartei 
 Art. 27 (Verwaltungsbehörden)
 
 Die Schweiz erklärt, dass als schweizerische Verwaltungsbehörden nach Artikel 1 Absatz 3 des Übereinkommens die Amtsstellen des Bundes und der Kantone gelten, die nach kantonalem oder eidgenössischem Recht strafbare Handlungen verfolgen und nach Abschluss der Untersuchung die Eröffnung eines Gerichtsverfahrens beantragen können, das zu einer strafrechtlichen Verurteilung führen kann.
+
+Erklärung der Schweiz vom 1.2.2022 als Reaktion auf die Erklärungen der Teilnehmerstaaten der Europäischen Staatsanwaltschaft zur Benennung der Europäischen Staatsanwaltschaft als Justizbehörde*[^t-3]*
+
+Der englische und französische Text der Schweizer Erklärung ist auf der Website des Europarates unter http://conventions.coe.int abrufbar oder bei der Direktion für Völkerrecht (DV), Sektion Staatsverträge, 3003 Bern, erhältlich.
+
+[^t-3]: [AS 2022 269](https://fedlex.data.admin.ch/eli/oc/2022/269)

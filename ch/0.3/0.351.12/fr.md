@@ -3,11 +3,11 @@ sr: "0.351.12"
 title: "Deuxième Protocole additionnel du 8 novembre 2001 à la Convention européenne d'entraide judiciaire en matière pénale"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/46"
 language: fr
-version: 2020-10-29
+version: 2022-04-22
 adopted: 2001-11-08
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/46/20201029/fr/xml/fedlex-data-admin-ch-eli-cc-2005-46-20201029-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/46/20201029/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/46/20220422/fr/xml/fedlex-data-admin-ch-eli-cc-2005-46-20220422-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/46/20220422/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 4 octobre 2004
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> février 2005
 
-(Etat le 29 octobre 2020)
+(Etat le 22 avril 2022)
 
 [^t-1]: [RO 2005 331](https://fedlex.data.admin.ch/eli/oc/2005/45)
 
@@ -568,7 +568,7 @@ Le Secrétaire Général du Conseil de l’Europe notifie aux États membres du 
 
 *En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Strasbourg, le 8 novembre 2001, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe ainsi qu’à tout État non membre ayant adhéré à la Convention. (Suivent les signatures)
 
-Champ d’application le 29 octobre 2020**[^t-2]**
+Champ d’application le 22 avril 2022**[^t-2]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -617,7 +617,7 @@ Champ d’application le 29 octobre 2020**[^t-2]**
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2005 333](https://fedlex.data.admin.ch/eli/oc/2005/46)[1821](https://fedlex.data.admin.ch/eli/oc/2005/299), [2007 1377](https://fedlex.data.admin.ch/eli/oc/2007/232), [2010 3119](https://fedlex.data.admin.ch/eli/oc/2010/417), [2013 1319](https://fedlex.data.admin.ch/eli/oc/2013/303), [2016 2855](https://fedlex.data.admin.ch/eli/oc/2016/469), [2019 2579](https://fedlex.data.admin.ch/eli/oc/2019/479), [2020 4635](https://fedlex.data.admin.ch/eli/oc/2020/828). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2005 333](https://fedlex.data.admin.ch/eli/oc/2005/46), [1821](https://fedlex.data.admin.ch/eli/oc/2005/299); [2007 1377](https://fedlex.data.admin.ch/eli/oc/2007/232); [2010 3119](https://fedlex.data.admin.ch/eli/oc/2010/417); [2013 1319](https://fedlex.data.admin.ch/eli/oc/2013/303); [2016 2855](https://fedlex.data.admin.ch/eli/oc/2016/469); [2019 2579](https://fedlex.data.admin.ch/eli/oc/2019/479); [2020 4635](https://fedlex.data.admin.ch/eli/oc/2020/828); [2022 269](https://fedlex.data.admin.ch/eli/oc/2022/269). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://www.fedlex.admin.ch/fr/treaty
 
 Réserves et déclarations
 
@@ -683,4 +683,7 @@ Art. 27 (Autorités administratives)*[^t-3]*
 
 La Suisse déclare que sont considérées comme autorités administratives suisses au sens de l’art. 1, par. 3, de la Convention les services administratifs de la Confédération et des cantons qui, en vertu du droit fédéral ou cantonal, peuvent poursuivre des infractions et qui sont habilités, lorsque l’enquête est terminée, à demander l’ouverture d’une procédure judiciaire pouvant déboucher sur une condamnation pénale.
 
+Déclaration suisse du 1.2.2022 en réaction aux déclarations des États participants au Parquet européen relatives à la désignation de ce dernier comme autorité judiciaire*[^t-4]* Les textes en français et en anglais de la déclaration suisse peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: http://conventions.coe.int ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.
+
 [^t-3]: [RO 2005 1821](https://fedlex.data.admin.ch/eli/oc/2005/299)
+[^t-4]: [RO 2022 269](https://fedlex.data.admin.ch/eli/oc/2022/269)

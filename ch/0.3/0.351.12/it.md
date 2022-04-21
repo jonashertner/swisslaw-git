@@ -3,11 +3,11 @@ sr: "0.351.12"
 title: "Secondo Protocollo addizionale dell' 8 novembre 2001 alla Convenzione europea di assistenza giudiziaria in materia penale"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/46"
 language: it
-version: 2020-10-29
+version: 2022-04-22
 adopted: 2001-11-08
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/46/20201029/it/xml/fedlex-data-admin-ch-eli-cc-2005-46-20201029-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/46/20201029/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/46/20220422/it/xml/fedlex-data-admin-ch-eli-cc-2005-46-20220422-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/46/20220422/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2005** 333; FF **2003** 2789
 
 Traduzione
 
-Concluso a Strasburgo l’8 novembre 2001
+Concluso a Strasburgo l’8 novembre 2001 Approvato dall’Assemblea federale il 19 marzo 2004[^t-1] Strumento di ratifica depositato dalla Svizzera il 4 ottobre 2004 Entrato in vigore per la Svizzera il 1° febbraio 2005
 
-Approvato dall’Assemblea federale il 19 marzo 2004[^t-1]
-
-Strumento di ratifica depositato dalla Svizzera il 4 ottobre 2004
-
-Entrato in vigore per la Svizzera il 1° febbraio 2005
-
-(Stato 29 ottobre 2020)
+(Stato 22 aprile 2022)
 
 [^t-1]: [RU 2005 331](https://fedlex.data.admin.ch/eli/oc/2005/45)
 
@@ -574,7 +568,7 @@ Il Segretario Generale del Consiglio d’Europa notifica agli Stati membri del C
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato il presente Protocollo. Fatto a Strasburgo, l’8 novembre 2001, nelle lingue francese e inglese, i cui testi fanno ugualmente fede, in un solo esemplare, depositato all’archivio del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne trasmette copia certificata conforme a ciascuno Stato membro del Consiglio d’Europa come anche a ciascuno Stato non membro che ha aderito alla Convenzione. (Seguono le firme)
 
-Campo d’applicazione il 29 ottobre 2020**[^t-2]**
+Campo d’applicazione il 22 aprile 2022**[^t-2]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -620,10 +614,10 @@ Campo d’applicazione il 29 ottobre 2020**[^t-2]**
 <tr><td>Turchia<sup>\*</sup></td><td>11 luglio</td><td>2016</td><td>1° novembre</td><td>2016</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>14 settembre</td><td>2011</td><td>1° gennaio</td><td>2012</td></tr>
 <tr><td>Ungheria</td><td>9 gennaio</td><td>2018</td><td>1° maggio</td><td>2018</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna..</td></tr>
 </table>
 
-[^t-2]: [RU 2005 333](https://fedlex.data.admin.ch/eli/oc/2005/46), [2007 1377](https://fedlex.data.admin.ch/eli/oc/2007/232), [2010 3119](https://fedlex.data.admin.ch/eli/oc/2010/417), [2013 1319](https://fedlex.data.admin.ch/eli/oc/2013/303), [2016 2855](https://fedlex.data.admin.ch/eli/oc/2016/469), [2019 2579](https://fedlex.data.admin.ch/eli/oc/2019/479)e [2020 4635](https://fedlex.data.admin.ch/eli/oc/2020/828). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2005 333](https://fedlex.data.admin.ch/eli/oc/2005/46); [2007 1377](https://fedlex.data.admin.ch/eli/oc/2007/232); [2010 3119](https://fedlex.data.admin.ch/eli/oc/2010/417); [2013 1319](https://fedlex.data.admin.ch/eli/oc/2013/303); [2016 2855](https://fedlex.data.admin.ch/eli/oc/2016/469); [2019 2579](https://fedlex.data.admin.ch/eli/oc/2019/479); [2020 4635](https://fedlex.data.admin.ch/eli/oc/2020/828); [2022 269](https://fedlex.data.admin.ch/eli/oc/2022/269). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
 
 Dichiarazioni
 
@@ -688,3 +682,9 @@ La Svizzera esige che i dati personali da essa trasmessi a un’altra Parte allo
 Art. 27 (Autorità amministrative)
 
 La Svizzera dichiara che sono considerate autorità amministrative svizzere ai sensi dell’articolo 1 paragrafo 3 della Convenzione i servizi amministrativi della Confederazione e dei Cantoni i quali, in virtù del diritto federale o cantonale, possono perseguire reati e, conclusa l’inchiesta, chiedere l’apertura di una procedura giudiziaria che può sfociare in una condanna penale.
+
+Dichiarazione svizzera dell’1.2.2022 in reazione alle dichiarazioni degli Stati partecipanti alla Procura europea sulla designazione di quest’ultima come autorità giudiziaria[^t-3]
+
+Il testo, in francese e inglese, della Dichiarazione svizzera può essere consultato sul sito Internet del Consiglio d’Europa: http://conventions.coe.int oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.
+
+[^t-3]: [RU 2022 269](https://fedlex.data.admin.ch/eli/oc/2022/269)
