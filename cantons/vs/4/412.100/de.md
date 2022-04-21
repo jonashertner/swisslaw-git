@@ -4,83 +4,78 @@ number: "412.100"
 title: Verordnung zum Einführungsgesetz des Bundesgesetzes über die Berufsbildung
 short: VOEGBBG
 language: de
-version: 2012-09-01
-corrected: 2017-07-11
-version_adopted: 2011-02-09
+version: 2022-04-22
+version_adopted: 2022-09-14
 adopted: 2011-02-09
 in_force: 2010-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/412.100"
-pdf: "https://lex.vs.ch/api/de/versions/537/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3067/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung zum Einführungsgesetz des Bundesgesetzes über die Berufsbildung (VOEGBBG)
+# Verordnung zum Einführungsgesetz des Bundesgesetzes über die Berufsbildung
 
-vom 9. Februar 2011
+(VOEGBBG)
+
+vom 09.02.2011 (Stand 22.04.2022)
 
 Der Staatsrat des Kantons Wallis
 
 eingesehen Artikel 57 Absatz 2 der Kantonsverfassung;
 
-eingesehen Artikel 89 des Gesetzes über die Organisation der Räte und die Beziehungen zwischen den Gewalten;
+eingesehen Artikel 89 des Gesetzes über die Organisation der Räte und die Beziehungen zwischen den Gewalten vom 28. März 1996 (GORBG);
 
-eingesehen das Einführungsgesetz zum Bundesgesetz über die Berufsbildung; auf Antrag des Departements für Erziehung, Kultur und Sport,
+eingesehen das Einführungsgesetz zum Bundesgesetz über die Berufsbildung vom 13. Juni 2008 (EGBBG);
 
-beschliesst:
+auf Antrag des für die Bildung zuständigen Departements,
 
-### 1. Kapitel: Allgemeine Bestimmungen
+verordnet:
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Geltungsbereich**
 
-Die vorliegende Verordnung deckt sämtliche Sektoren der Berufsbildung, die gesetzlich geregelt sind ab. Vorbehalten bleiben die Verordnungen und spezifischen Reglemente betreffend:
+<sup>1</sup> Die vorliegende Verordnung deckt sämtliche Sektoren der Berufsbildung, die gesetzlich geregelt sind ab. Vorbehalten bleiben die Verordnungen und spezifischen Reglemente betreffend:
 
 - a) die Organisation und das Funktionieren der Berufsfachschulen;
-
 - b) die Aufgaben und das Funktionieren der Berufs-, Studien- und Laufbahnberatung;
-
 - c) die Berufsmaturität;
-
 - d) Institutionelle Anerkennung und die Validierung erworbener Fähigkeiten.
 
 #### Art. 2
 
 **Wirtschaftszweige**
 
-Folgende Berufszweige sind durch diese Verordnung abgedeckt:
+<sup>1</sup> Folgende Berufszweige sind durch diese Verordnung abgedeckt:
 
 - a) Hoch- und Tiefbau;
-
 - b) Handel und Industrie;
-
 - c) Gewerbe und Landwirtschaft;
-
 - d) Tourismus, Hotellerie und Gastgewerbe;
-
 - e) Gesundheit, Soziales und Kunst.
 
 #### Art. 3
 
 **Gleichstellungsprinzip**
 
-Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
+<sup>1</sup> Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
 
-### 2. Kapitel: Berufliche Grundausbildung
+## 2 Berufliche Grundausbildung
 
-### 1. Abschnitt: Allgemeines
+### 2.1 Allgemeines
 
 #### Art. 4
 
 **Qualitätsentwicklung**
 
-<sup>1</sup> Die Dienststelle für Berufsbildung (nachstehend DB) überwacht die Entwicklung der Qualität in den verschiedenen Lernorten.
+<sup>1</sup> Die Dienststelle für Berufsbildung (nachstehend: DB) überwacht die Entwicklung der Qualität in den verschiedenen Lernorten.
 
-<sup>2</sup> Die Berufsfachschulen führen die Zertifizierung eines vom Departement für Erziehung, Kultur und Sport (nachstehend Departement) vorgeschriebenen und anerkannten Qualitätsmanagementsystems ein, um die dauerhafte Verbesserung ihrer Leistungen zu gewährleisten.
+<sup>2</sup> Die Berufsfachschulen führen die Zertifizierung eines vom Departement für Erziehung, Kultur und Sport (nachstehend: Departement) vorgeschriebenen und anerkannten Qualitätsmanagementsystems ein, um die dauerhafte Verbesserung ihrer Leistungen zu gewährleisten.
 
-<sup>3</sup> Mit dem Ziel, die Qualität ihrer Ausbildungsgänge kontinuierlich zu verbessern, sind die Berufsverbände und die Ausbildungsbetriebe ihrerseits dazu angehalten, die in den eidgenössischen Verordnungen für die Berufsbildung oder von den interkantonalen Organismen vorgeschlagenen Arbeitsinstrumente einzusetzen (Qualicarte, Bildungspläne und Modellehrgänge, halbjährlicher Bildungsbericht, Arbeitsbuch, Ausbildungshandbücher u.a.).
+<sup>3</sup> Mit dem Ziel, die Qualität ihrer Ausbildungsgänge kontinuierlich zu verbessern, sind die Berufsverbände und die Ausbildungsbetriebe ihrerseits dazu angehalten, die in den eidgenössischen Verordnungen für die Berufsbildung oder von den interkantonalen Organismen vorgeschlagenen Arbeitsinstrumente einzusetzen (Qualicarte, Bildungspläne und Modellehrgänge, halbjährlicher Bildungsbericht, Arbeitsbuch, Ausbildungshandbücher, u.a.).
 
 <sup>4</sup> Die Ausbildungsbetriebe müssen die in den eidgenössischen Verordnungen vorgesehenen betrieblichen Erfahrungsnoten am Ende jeden Semesters den Behörden zur Verfügung stellen, sowie alle weiteren Elemente welche für das Qualifikationsverfahren vorgesehen sind, dies gemäss Richtlinien der DB.
 
@@ -92,7 +87,7 @@ Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Fu
 
 <sup>1</sup> Die Anbieter der Berufsbildung erstellen ein internes Kontrollsystem, das von der DB beaufsichtigt wird.
 
-<sup>2</sup> Diese Kontrolle umfasst insbesondere die Betreuung des Ausbildungsprogramms im Lehrbetrieb und die von den Schuldirektionen und den Direktionen der Institutionen für Berufsbildner und Lehrkräfte im Sinne der Artikel 45 bis 47 BBG ausgeübte pädagogische Betreuung.
+<sup>2</sup> Diese Kontrolle umfasst insbesondere die Betreuung des Ausbildungsprogramms im Lehrbetrieb und die von den Schuldirektionen und den Direktionen der Institutionen für Berufsbildner und Lehrkräfte im Sinne der Artikel 45 bis 47 des Bundesgesetzes über die Berufsbildung (BBG) ausgeübte pädagogische Betreuung.
 
 <sup>3</sup> Die DB kann jederzeit eine teilweise oder vollständige Überprüfung vornehmen und alle Massnahmen ergreifen, welche sie zur Erfüllung ihrer Aufgabe als nötig erachtet.
 
@@ -102,9 +97,9 @@ Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Fu
 
 **Übertritt**
 
-<sup>1</sup> Das Departement, insbesondere durch die kompetenten Dienststellen und die Berufs-, Studien- und Laufbahnberatung (nachstehend BSL), bestimmt die notwendigen Massnahmen, in Zusammenarbeit mit anderen zuständigen Dienststellen, den Berufsverbänden, der Wirtschaft und der Industrie, um den Übertritt am Ende der Sekundarstufe I in die Berufliche Grundbildung sicherzustellen und die Duale Ausbildung aufzuwerten.
+<sup>1</sup> Das Departement, insbesondere durch die zuständigen Dienststellen und das Amt für Berufs-, Studien- und Laufbahnberatung (nachstehend: das Amt), bestimmt die notwendigen Massnahmen, in Zusammenarbeit mit anderen zuständigen Dienststellen, den Berufsverbänden, der Wirtschaft und der Industrie, um den Übertritt am Ende der Sekundarstufe I in die Berufliche Grundbildung sicherzustellen und die Duale Ausbildung aufzuwerten.
 
-<sup>2</sup> Im Rahmen des Gesetzes über die Orientierungsschule, trifft die BSL alle nötigen Massnahmen, damit jeder Schüler, sofern möglich, am Ende der obligatorischen Schulzeit ein realistisches und realisierbares Berufsziel vor Augen hat.
+<sup>2</sup> Im Rahmen des Gesetzes über die Orientierungsschule, trifft das Amt alle nötigen Massnahmen, damit jeder Schüler, sofern möglich, am Ende der obligatorischen Schulzeit ein realistisches und realisierbares Berufsziel vor Augen hat.
 
 <sup>3</sup> Jugendliche, die am Ende ihrer obligatorischen Schulzeit keine Lehre in Angriff nehmen können, haben Anrecht auf die Massnahmen, die in Artikel 40 BBG vorgesehen sind.
 
@@ -112,20 +107,17 @@ Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Fu
 
 **Durchlässigkeit des Systems**
 
-Unter Berücksichtigung der interkantonalen Empfehlungen (EDK, SBBK, BBT) und der eidgenössischen Bildungsverordnungen erlässt das Departement die Richtlinien betreffend den Transfer und den Übertritt von einer Bildung zur andern.
+<sup>1</sup> Unter Berücksichtigung der interkantonalen Empfehlungen (EDK, SBBK, SBFI) und der eidgenössischen Bildungsverordnungen erlässt das Departement die Richtlinien betreffend den Transfer und den Übertritt von einer Bildung zur andern.
 
 #### Art. 8
 
 **Lernkanton**
 
-Wenn keine Möglichkeit besteht, eine Ausbildung im Kanton zu erlangen, ist die DB befugt, die Bewilligung zur Absolvierung einer Ausbildung ausserhalb des Kantons zu erteilen. Sie berücksichtigt insbesondere folgende Punkte:
+<sup>1</sup> Wenn keine Möglichkeit besteht, eine Ausbildung im Kanton zu erlangen, ist die DB befugt, die Bewilligung zur Absolvierung einer Ausbildung ausserhalb des Kantons zu erteilen. Sie berücksichtigt insbesondere folgende Punkte:
 
 - a) erfolglose schriftliche Suche nach einem Ausbildungsplatz innerhalb des Kantons sowohl in dualer als auch vollzeitlicher Ausbildung;
-
-- b) von der Berufs-, Studien- und Laufbahnberatung bestätigte Berufseignung und Berufswahl;
-
+- b) vom Amt bestätigte Berufseignung und Berufswahl;
 - c) Noten und Resultate der obligatorischen Schule;
-
 - d) diesbezügliche interkantonale Praktiken.
 
 #### Art. 9
@@ -139,40 +131,31 @@ Wenn keine Möglichkeit besteht, eine Ausbildung im Kanton zu erlangen, ist die 
 <sup>3</sup> Der Auftrag betrifft folgende Leistungen:
 
 - a) die Vorbereitungs- und Eingliederungsmassnahmen;
-
-- b) die berufliche Grundbildung, die berufsorientierte Weiterbildung und die höhere Berufsbildung;
-
+- b) die berufliche Grundbildung und die höhere Berufsbildung;
 - c) die weiteren im BBG und im EGBBG vorgesehenen Massnahmen.
 
 <sup>4</sup> Er bestimmt insbesondere:
 
 - a) die zu erreichenden Ziele;
-
 - b) die Bedingungen im Bereich des Controllings und die Auswertung der Umsetzung der gesetzten Ziele;
-
 - c) Konsequenzen im Falle des nicht Ausführens, bzw. der nicht dem Mandat entsprechenden Ausführung;
-
 - d) die Anpassungs-Bedingungen;
-
 - e) die Verfahren zur Beilegung von Differenzen und die Mediation;
-
 - f) die Beschreibung und die Begünstigten der Leistungen;
-
 - g) die global bewilligten finanziellen Mittel, unter Einbezug des Beschäftigungsgrades und des Umfeldes;
-
 - h) die Finanzaufsicht.
 
 <sup>5</sup> Im begrenzten Rahmen des Leistungsauftrags handelt der Anbieter der Bildung eigenständig.
 
 <sup>6</sup> Das Departement übt, durch die DB, die Aufsicht auf die Anbieter aus.
 
-### 2. Abschnitt: Gesundheit und Sozialleistungen
+### 2.2 Gesundheit und Sozialleistungen
 
 #### Art. 10
 
 **Grundsatz**
 
-Für alle in der vorliegenden Verordnung nicht vorgesehenen Fälle wird auf die entsprechenden Bestimmungen der Gesamtarbeitsverträge beziehungsweise des Obligationenrechts verwiesen.
+<sup>1</sup> Für alle in der vorliegenden Verordnung nicht vorgesehenen Fälle wird auf die entsprechenden Bestimmungen der Gesamtarbeitsverträge beziehungsweise des Obligationenrechts verwiesen.
 
 #### Art. 11
 
@@ -204,21 +187,19 @@ Für alle in der vorliegenden Verordnung nicht vorgesehenen Fälle wird auf die 
 
 **Reiseentschädigungen**
 
-In den Berufen ohne Gesamtarbeitsvertrag oder mit einem Gesamtarbeitsvertrag, der die Reiseentschädigungen, welche dem Arbeiter zukommen sollen, nicht regelt, haben die Lernenden Anspruch auf folgende Vergütungen:
+<sup>1</sup> In den Berufen ohne Gesamtarbeitsvertrag oder mit einem Gesamtarbeitsvertrag, der die Reiseentschädigungen, welche dem Arbeiter zukommen sollen, nicht regelt, haben die Lernenden Anspruch auf folgende Vergütungen:
 
 - a) wenn der Lernende ausserhalb des gewöhnlichen Arbeitsortes beschäftigt wird, gehen die Reisespesen zu Lasten der Lehrbetriebs;
-
 - b) wenn die Dauer der Abwesenheit mehr als einen halben Tag beträgt, so hat der Lehrbetrieb dem Lernenden eine angemessene Vergütung für das Mittagessen zu leisten;
-
 - c) wenn der Lernende bei einer längeren Abwesenheit von der gewöhnlichen Arbeitsstätte auswärts übernachten muss, so hat der Lehrbetrieb auf eigene Kosten ihm ein annehmbares Zimmer und eine angemessene Pension zu besorgen.
 
-### 3. Abschnitt: Bildung in beruflicher Praxis
+### 2.3 Bildung in beruflicher Praxis
 
 #### Art. 15
 
 **Anbieter der Bildung in beruflicher Praxis**
 
-Die Anbieter der Bildung in beruflicher Praxis haben die Lernenden nach dem im Lehrplan festgelegten Programm auszubilden. Sie müssen dies fachgerecht und systematisch tun und dafür sorgen, dass die Ausbildung mit der schulischen Bildung koordiniert wird.
+<sup>1</sup> Die Anbieter der Bildung in beruflicher Praxis haben die Lernenden nach dem im Lehrplan festgelegten Programm auszubilden. Sie müssen dies fachgerecht und systematisch tun und dafür sorgen, dass die Ausbildung mit der schulischen Bildung koordiniert wird.
 
 #### Art. 16
 
@@ -234,7 +215,7 @@ Die Anbieter der Bildung in beruflicher Praxis haben die Lernenden nach dem im L
 
 **Ausbildungsbewilligung**
 
-Die Anbieter der Bildung in beruflicher Praxis müssen im Besitz einer Ausbildungsbewilligung für den entsprechenden Beruf sein, bevor sie einen Lernenden anstellen.
+<sup>1</sup> Die Anbieter der Bildung in beruflicher Praxis müssen im Besitz einer Ausbildungsbewilligung für den entsprechenden Beruf sein, bevor sie einen Lernenden anstellen.
 
 #### Art. 18
 
@@ -258,7 +239,7 @@ Die Anbieter der Bildung in beruflicher Praxis müssen im Besitz einer Ausbildun
 
 **Entzug der Bewilligung**
 
-Wenn die Anforderungen für die Ausbildungsbewilligung nicht mehr erfüllt sind, erteilt die DB, nach Anhörung des zuständigen Berufsverbandes, einen Verweis mit einer Frist zur Bereinigung der Situation. Wenn in der Folge dieses Verweises das Unternehmen nicht garantieren kann, dass die Ausbildung einwandfrei erfolgt, entzieht die DB die entsprechende Bewilligung.
+<sup>1</sup> Wenn die Anforderungen für die Ausbildungsbewilligung nicht mehr erfüllt sind, erteilt die DB, nach Anhörung des zuständigen Berufsverbandes, einen Verweis mit einer Frist zur Bereinigung der Situation. Wenn in der Folge dieses Verweises das Unternehmen nicht garantieren kann, dass die Ausbildung einwandfrei erfolgt, entzieht die DB die entsprechende Bewilligung.
 
 #### Art. 21
 
@@ -286,7 +267,7 @@ Wenn die Anforderungen für die Ausbildungsbewilligung nicht mehr erfüllt sind,
 
 <sup>3</sup> Bevor die DB den Praktikumsvertrag genehmigt, kann sie den Lehrbetrieb oder die Ausbildungsinstitution, sowie die Person in Ausbildung beiziehen.
 
-### 4. Abschnitt: Schulische Ausbildung
+### 2.4 Schulische Ausbildung
 
 #### Art. 23
 
@@ -303,9 +284,7 @@ Wenn die Anforderungen für die Ausbildungsbewilligung nicht mehr erfüllt sind,
 <sup>5</sup> Während den im vorgenannten Abschnitt vorgesehenen drei Monaten, muss der Interessierte:
 
 - a) dem Reglement der Berufsfachschule unterstellt werden;
-
 - b) alles unternehmen um eine Lehrstelle zu finden um die Ausbildung weiterzuführen;
-
 - c) den Nachweis erbringen das er motiviert ist den gewählten Beruf zu erlernen.
 
 <sup>6</sup> Erwachsene Personen im Sinn des Artikels 32 der Berufsbildungsverordnung vom 19. November 2003 über die Berufsbildung (BBV) können eine Berufsfachschule gemäss den vom Departement festgelegten Bedingungen besuchen.
@@ -321,7 +300,6 @@ Wenn die Anforderungen für die Ausbildungsbewilligung nicht mehr erfüllt sind,
 <sup>3</sup> Der Lernende hat bestanden, wenn:
 
 - a) der Gesamtdurchschnitt mindesten 4.0 beträgt;
-
 - b) die Bedingungen der entsprechenden Lehrabschlussprüfung betreffend die Berufskenntnisse erfüllt sind.
 
 <sup>4</sup> Die in den schweizerischen Verordnungen über die Grundbildung und die Berufsmaturitäten festgelegten Promotionsverfahren bleiben vorbehalten.
@@ -335,7 +313,6 @@ Wenn die Anforderungen für die Ausbildungsbewilligung nicht mehr erfüllt sind,
 <sup>1</sup> Wenn die Resultate ungenügend sind, informiert die Schuldirektion den Lernenden oder seinen gesetzlichen Vertreter und den Lehrmeister. Sie lädt diese dazu ein, die bestmögliche Lösung für die Zukunft des Lernenden zu überprüfen. Aufgrund der gemachten Feststellungen schlägt sie zweckmässige Massnahmen vor, die in Betracht gezogen werden können, insbesondere:
 
 - a) die Wiederholung des Jahres mit der Verlängerung der Lehre um ein Jahr;
-
 - b) einen Berufs- oder Niveauwechsel.
 
 <sup>2</sup> Bei Uneinigkeit zwischen der Schule und dem Ausbildungsbetrieb, und nach Anhörung des Lernenden, übergibt die Schuldirektion das Dossier zum Entscheid an die DB.
@@ -354,13 +331,13 @@ Wenn die Anforderungen für die Ausbildungsbewilligung nicht mehr erfüllt sind,
 
 **Von den Gemeinden organisierte Stützkurse**
 
-Der Lernende kann seine Wohngemeinde um die Organisation von Stützkursen ersuchen. Diese erhält vom Kanton eine vom Staatsrat beschlossene Entschädigung.
+<sup>1</sup> Der Lernende kann seine Wohngemeinde um die Organisation von Stützkursen ersuchen. Diese erhält vom Kanton eine vom Staatsrat beschlossene Entschädigung.
 
 #### Art. 28
 
 **Freikurse**
 
-Sind Leistungen oder Verhalten in der Berufsfachschule oder im Lehrbetrieb ungenügend, kann die Schule den Lernenden im Einvernehmen mit dem Lehrbetrieb von den Freikursen ausschliessen.
+<sup>1</sup> Sind Leistungen oder Verhalten in der Berufsfachschule oder im Lehrbetrieb ungenügend, kann die Schule den Lernenden im Einvernehmen mit dem Lehrbetrieb von den Freikursen ausschliessen.
 
 #### Art. 29
 
@@ -382,11 +359,9 @@ Sind Leistungen oder Verhalten in der Berufsfachschule oder im Lehrbetrieb ungen
 
 #### Art. 30
 
-<sup>1</sup>
+**…**
 
-Aufgehoben
-
-### 5. Abschnitt: Überbetriebliche Kurse
+### 2.5 Überbetriebliche Kurse
 
 #### Art. 31
 
@@ -394,7 +369,7 @@ Aufgehoben
 
 <sup>1</sup> Die überbetrieblichen Kurse sind in den Verordnungen über die berufliche Grundbildung jedes Berufs festgelegt.
 
-<sup>2</sup> Bei den Gesuchen um Befreiung vom Besuch der obligatorischen überbetrieblichen Kurse, berücksichtigt die DB, zusätzlich zu den im Artikel 57 Absatz 3 EGBBG festgelegten Bedingungen, die Einhaltung der eidgenössischen Anforderungen durch den Anbieter, insbesondere die Qualifikationen der Referenten.
+<sup>2</sup> Bei den Gesuchen um Befreiung vom Besuch der obligatorischen überbetrieblichen Kurse, berücksichtigt die DB, zusätzlich zu den im Artikel 59 Absatz 3 EGBBG festgelegten Bedingungen, die Einhaltung der eidgenössischen Anforderungen durch den Anbieter, insbesondere die Qualifikationen der Referenten.
 
 #### Art. 32
 
@@ -406,14 +381,12 @@ Aufgehoben
 
 #### Art. 33
 
-Überbetriebliche Kurse in staatlichen Räumlichkeiten - Vereinbarung
+**Überbetriebliche Kurse in staatlichen Räumlichkeiten - Vereinbarung**
 
 <sup>1</sup> Wenn überbetriebliche Kurse für einen Berufsverband in den Räumlichkeiten des Staats organisiert werden, wird eine Vereinbarung zwischen dem Berufsverband und dem Departement unterzeichnet. Sie regelt insbesondere folgende Punkte:
 
 - a) die Zurverfügungstellung der Lehrpersonen und der Werkstätten;
-
 - b) die Zurverfügungstellung des Verbrauchsmaterials und dessen Kostenübernahme;
-
 - c) den an den Berufsverband oder den Lehrbetrieb zu verrechnenden Betrag als Beteiligung an die Investitions- und Betriebskosten (Lehrpersonen, Verbrauchsmaterial, usw.).
 
 <sup>2</sup> Der Bau, die Anschaffung, Unterhalt und Erneuerung der Räumlichkeiten, die für die überbetrieblichen Kurse genutzt werden, sowie die Ausrüstung, die Maschinen und die für den Unterricht benötigten Werkzeuge werden vom Staat finanziert.
@@ -424,7 +397,7 @@ Aufgehoben
 
 <sup>5</sup> Die Lehrpersonen und die Teilnehmer sind dem Reglement der Berufsfachschule unterstellt, in der die überbetrieblichen Kurse stattfinden. Bei Meinungsverschiedenheiten zwischen der Kurskommission und der Schuldirektion entscheidet der Dienstchef der DB nach Anhörung der Parteien.
 
-### 6. Abschnitt: zweijährige Grundbildung
+### 2.6 zweijährige Grundbildung
 
 #### Art. 34
 
@@ -450,17 +423,14 @@ Aufgehoben
 
 **Kantonale Ausbildungen**
 
-In Übereinkunft mit den betreffenden kantonalen Berufsverbänden kann der Kanton kantonale Ausbildungen anbieten oder kantonale Titel ausstellen, insbesondere:
+<sup>1</sup> In Übereinkunft mit den betreffenden kantonalen Berufsverbänden kann der Kanton kantonale Ausbildungen anbieten oder kantonale Titel ausstellen, insbesondere:
 
 - a) für die Bereiche, in denen keine eidgenössische Ausbildung existiert;
-
 - b) für die Bereiche, welche nicht alle vom Bundesgesetz vorgesehenen Grundausbildungen anbieten;
-
 - c) für die Jugendlichen, welche nicht alle Fähigkeiten für den Erwerb eines eidgenössischen Titels in der Grundausbildung besitzen;
-
 - d) für Jugendliche mit vorwiegend praktischen Fähigkeiten, welche gezielt gefördert werden sollen.
 
-### 7. Abschnitt: Qualifikationsverfahren
+### 2.7 Qualifikationsverfahren
 
 #### Art. 37
 
@@ -473,24 +443,21 @@ In Übereinkunft mit den betreffenden kantonalen Berufsverbänden kann der Kanto
 <sup>3</sup> Die Kommission hat folgende Aufgaben:
 
 - a) sie überwacht den Ablauf der Prüfungen;
-
 - b) sie erstellt der DB einen Bericht über den Ablauf der besuchten Prüfungssessionen;
-
 - c) sie gibt dem Departement ihre Stellungnahme über die ihr vorgelegten Fragen betreffend die Prüfungen ab;
-
 - d) sie spricht die im Artikel 47 vorgesehenen Sanktionen aus.
 
 #### Art. 38
 
 **Prüfungssession**
 
-In der Regel findet die ordentliche jährliche Prüfungssession am Ende des Schuljahres statt.
+<sup>1</sup> In der Regel findet die ordentliche jährliche Prüfungssession am Ende des Schuljahres statt.
 
 #### Art. 39
 
 **Zulassung**
 
-Der Lernende wird zur ordentlichen Prüfungssession zugelassen, welche im Jahr der Beendigung seiner Lehre stattfindet, unter der Voraussetzung, dass er das gesamte Programm des von der Berufsfachschule erteilten obligatorischen Unterrichts absolviert hat und im Besitz eines Lehrvertrags ist. Die Behandlung von Sonderfällen untersteht der Kompetenz der DB.
+<sup>1</sup> Der Lernende wird zur ordentlichen Prüfungssession zugelassen, welche im Jahr der Beendigung seiner Lehre stattfindet, unter der Voraussetzung, dass er das gesamte Programm des von der Berufsfachschule erteilten obligatorischen Unterrichts absolviert hat und im Besitz eines Lehrvertrags ist. Die Behandlung von Sonderfällen untersteht der Kompetenz der DB.
 
 #### Art. 40
 
@@ -500,21 +467,20 @@ Der Lernende wird zur ordentlichen Prüfungssession zugelassen, welche im Jahr d
 
 <sup>2</sup> Um an einem Qualifikationsverfahren teilnehmen zu können, müssen Personen, die einen Beruf in einem anderen Rahmen als durch einen reglementierten Ausbildungsgang erlernt haben, folgende Auflagen erfüllen:
 
-- a) eine Berufserfahrung von mindestens fünf Jahren nachweisen ;
-
+- a) eine Berufserfahrung von mindestens fünf Jahren nachweisen;
 - b) den Nachweis erbringen, dass sie den berufsspezifischen Unterricht besucht haben oder die beruflichen Kenntnisse auf eine andere Weise erworben haben.
 
 #### Art. 41
 
 **Einberufung**
 
-Der Kandidat wird von der DB gemäss dem vom Chefexperten, in Absprache mit der Direktion der betreffend Berufsfachschule, erstellten Prüfungsprogramm mindestens 30 Tage im Voraus einberufen.
+<sup>1</sup> Der Kandidat wird von der DB gemäss dem vom Chefexperten, in Absprache mit der Direktion der betreffend Berufsfachschule, erstellten Prüfungsprogramm mindestens 30 Tage im Voraus einberufen.
 
 #### Art. 42
 
 **Prüfungsmaterial**
 
-Entspricht das vom Lehrbetrieb zur Verfügung gestellte Prüfungsmaterial nicht den Anforderungen, sind die Experten dazu berechtigt, dieses auf Kosten des Lehrbetriebs zu ersetzen.
+<sup>1</sup> Entspricht das vom Lehrbetrieb zur Verfügung gestellte Prüfungsmaterial nicht den Anforderungen, sind die Experten dazu berechtigt, dieses auf Kosten des Lehrbetriebs zu ersetzen.
 
 #### Art. 43
 
@@ -538,7 +504,7 @@ Entspricht das vom Lehrbetrieb zur Verfügung gestellte Prüfungsmaterial nicht 
 
 **Spesen**
 
-Muss ein Kandidat sein Qualifikationsverfahren ausserhalb des Wallis, in einem anderen Kanton als demjenigen, in dem er den obligatorischen Unterricht absolviert hat, ablegen, werden ihm die daraus entstehenden Reisekosten von der Wohngemeinde zurückerstattet. Muss der Lernende wegen der Reisezeit auswärts übernachten, kann ihm eine angemessene Entschädigung pro Nacht ausgerichtet werden, sofern er effektive Auslagen hatte und diese mittels Rechnungsbeleg nachweisen kann.
+<sup>1</sup> Muss ein Kandidat sein Qualifikationsverfahren ausserhalb des Wallis, in einem anderen Kanton als demjenigen, in dem er den obligatorischen Unterricht absolviert hat, ablegen, werden ihm die daraus entstehenden Reisekosten von der Wohngemeinde zurückerstattet. Muss der Lernende wegen der Reisezeit auswärts übernachten, kann ihm eine angemessene Entschädigung pro Nacht ausgerichtet werden, sofern er effektive Auslagen hatte und diese mittels Rechnungsbeleg nachweisen kann.
 
 #### Art. 46
 
@@ -557,9 +523,7 @@ Muss ein Kandidat sein Qualifikationsverfahren ausserhalb des Wallis, in einem a
 <sup>1</sup> Ein Kandidat wird von der Prüfung ausgeschlossen welcher unter anderem:
 
 - a) Dokumente, Werkzeuge oder andere nicht erlaubte Hilfsmittel verwendet;
-
 - b) Informationen/Prüfungsunterlagen erhält oder weiterleitet;
-
 - c) Vorbereitete Arbeiten von zuhause mitnimmt oder nach Hause nimmt.
 
 <sup>2</sup> Der von Examensbetrug betroffene Kandidat kann die Prüfungssession bis zum Entscheid der Examenskommission fortsetzen.
@@ -567,10 +531,9 @@ Muss ein Kandidat sein Qualifikationsverfahren ausserhalb des Wallis, in einem a
 <sup>3</sup> Die möglichen Sanktionen entsprechend der Schwere des vorgefallenen Grundes sind:
 
 - a) Note 1 in der betroffenen Prüfung;
-
 - b) Nichtbestehen des Qualifikationsverfahrens.
 
-### 3. Kapitel: Bildungsdefizite
+## 3 Bildungsdefizite
 
 #### Art. 48
 
@@ -589,7 +552,6 @@ Muss ein Kandidat sein Qualifikationsverfahren ausserhalb des Wallis, in einem a
 <sup>1</sup> Am Ende der obligatorischen Schulzeit stehen den Schülern mit einem Bildungsdefizit folgende Massnahmen zur Verfügung:
 
 - a) Massnahmen welche im Gesetz über die Orientierungsschule vorgesehen sind;
-
 - b) die Schule für Berufsvorbereitung (SfB).
 
 <sup>2</sup> Für Jugendliche mit Migrationshintergrund werden Integrationsklassen auf nachobligatorischer Stufe (CASPO) gebildet. Diese bieten eine vorübergehende Ausbildung an, damit diese Jugendlichen eine Berufsbildung aufnehmen, eine schulische Ausbildung fortsetzen oder in das Berufsleben eintreten können. Die angebotenen Kurse zielen darauf ab, die Integration dieser fremdsprachlichen Jugendlichen in unsere Gesellschaft zu erleichtern.
@@ -598,31 +560,28 @@ Muss ein Kandidat sein Qualifikationsverfahren ausserhalb des Wallis, in einem a
 
 **Verkürzte Vorbereitungsmassnahmen**
 
-Für Schüler, welche vor einigen Jahren die Schulstrukturen verlassen haben, und die in den unter Artikel 49 erwähnten Strukturen nicht mehr aufgenommen werden können und Mühe bekunden, eine Lehrstelle zu finden, kann das Departement in Berufsfachschulen oder privaten Organisationen verkürzte Vorbereitungsangebote schaffen.
+<sup>1</sup> Für Schüler, welche vor einigen Jahren die Schulstrukturen verlassen haben, und die in den unter Artikel 49 erwähnten Strukturen nicht mehr aufgenommen werden können und Mühe bekunden, eine Lehrstelle zu finden, kann das Departement in Berufsfachschulen oder privaten Organisationen verkürzte Vorbereitungsangebote schaffen.
 
 #### Art. 51
 
 **Koordination**
 
-Die DB koordiniert sämtliche Übergangsmassnahmen zwischen der Sekundarstufe I und der Sekundarstufe II Berufsschule in Zusammenarbeit mit den anderen Dienststellen und den betreffenden privaten Organen.
+<sup>1</sup> Die DB koordiniert sämtliche Übergangsmassnahmen zwischen der Sekundarstufe I und der Sekundarstufe II Berufsschule in Zusammenarbeit mit den anderen Dienststellen und den betreffenden privaten Organen.
 
 #### Art. 52
 
-Zusammenarbeit mit dem Jugendlichen oder seinem gesetzlichen Vertreter
+**Zusammenarbeit mit dem Jugendlichen oder seinem gesetzlichen Vertreter**
 
 <sup>1</sup> Die verschiedenen Massnahmen welche in dieser Verordnung vorgesehen sind sowie weitere vorübergehende Massnahmen basieren auf der Unterstützung der Jugendlichen und ihrer Familien.
 
 <sup>2</sup> Um in den Genuss der vorgesehenen Massnahmen zu kommen, muss der Jugendliche oder der gesetzliche Vertreter:
 
 - a) vorgeschlagene, konkrete Massnahmen akzeptieren;
-
 - b) sich den beruflichen Anforderungen die ihm vorgeschlagen werden unterordnen;
-
 - c) sich nach Möglichkeit einsetzen und alles Notwendige unternehmen um die vorgeschlagenen Ziele zu erreichen;
-
 - d) sein Einverständnis geben, dass seine persönlichen Daten in eine Datenbank integriert werden und von den Verbundpartnern eingesehen werden können unter Vorbehalt, dass die Daten vertraulich behandelt werden. Nach Beendigung der Ausbildung wird die Datenbank vernichtet.
 
-### 4. Kapitel: Kantonale Berufsbildungskommission - Berufsverbände - Gemeinden
+## 4 Kantonale Berufsbildungskommission - Berufsverbände - Gemeinden
 
 #### Art. 53
 
@@ -644,7 +603,7 @@ Zusammenarbeit mit dem Jugendlichen oder seinem gesetzlichen Vertreter
 
 **Zusammenarbeit mit den Berufsverbänden**
 
-Die Zusammenarbeit mit den Berufsverbänden beruht insbesondere auf häufigen formellen und informellen Kontakten, auf der Teilnahme an Versammlungen und, falls nötig, auf Leistungsaufträgen.
+<sup>1</sup> Die Zusammenarbeit mit den Berufsverbänden beruht insbesondere auf häufigen formellen und informellen Kontakten, auf der Teilnahme an Versammlungen und, falls nötig, auf Leistungsaufträgen.
 
 #### Art. 56
 
@@ -660,7 +619,7 @@ Die Zusammenarbeit mit den Berufsverbänden beruht insbesondere auf häufigen fo
 
 <sup>5</sup> Die Gemeinden informieren die DB regelmässig über die Ergebnisse ihres Vorgehens und ihrer Massnahmen.
 
-### 5. Kapitel: Höhere Berufsbildung und berufsorientierte Weiterbildung
+## 5 Höhere Berufsbildung und berufsorientierte Weiterbildung
 
 #### Art. 57
 
@@ -674,7 +633,7 @@ Die Zusammenarbeit mit den Berufsverbänden beruht insbesondere auf häufigen fo
 
 **Höhere ausserkantonale Schulen**
 
-Der Besuch einer höheren Berufsbildung ausserhalb des Kantons unterliegt den Bedingungen, die in den vom Kanton unterzeichneten interkantonalen Vereinbarungen oder den geltenden interkantonalen Praktiken festgehalten sind.
+<sup>1</sup> Der Besuch einer höheren Berufsbildung ausserhalb des Kantons unterliegt den Bedingungen, die in den vom Kanton unterzeichneten interkantonalen Vereinbarungen oder den geltenden interkantonalen Praktiken festgehalten sind.
 
 #### Art. 59
 
@@ -687,22 +646,19 @@ Der Besuch einer höheren Berufsbildung ausserhalb des Kantons unterliegt den Be
 <sup>3</sup> Personen, welche eine höhere Ausbildung absolvieren, die mit einer eidgenössischen Berufsprüfung oder einer eidgenössischen höheren Fachprüfung abgeschlossen wird, können gemäss interkantonalen Vereinbarungen in den Genuss einer Unterstützung gelangen, die gemäss den vom Staatsrat festgelegten Modalitäten und Bedingungen folgende Formen annehmen kann:
 
 - a) direkte Hilfe durch eine teilweise oder vollständige Übernahme der vom Organisator der Bildung verrechneten Schulkosten;
-
 - b) indirekte Hilfe durch die Zahlung einer Subvention an den Anbieter der Bildung.
 
 #### Art. 60
 
 **Berufsorientierte Weiterbildung**
 
-Der Staatsrat legt die Anforderungen für die Anerkennung und die Finanzierung der Anbieter der berufsorientierten Weiterbildung fest, insbesondere:
+<sup>1</sup> Der Staatsrat legt die Anforderungen für die Anerkennung und die Finanzierung der Anbieter der berufsorientierten Weiterbildung fest, insbesondere:
 
 - a) die entsprechende Schulstruktur;
-
 - b) die Qualitätsnormen (Qualifikation der Lehrkräfte, Dauer, Teilnehmerzahl, usw.);
-
 - c) die paritätische Finanzierung durch die Partner.
 
-### 6. Kapitel: Finanzen
+## 6 Finanzen
 
 #### Art. 61
 
@@ -726,7 +682,7 @@ Der Staatsrat legt die Anforderungen für die Anerkennung und die Finanzierung d
 
 **Gebäude und Einrichtungen**
 
-Die für die Berufsbildung bestimmten öffentlichen Gebäude sind insbesondere diejenigen, welche in Beziehung stehen zur beruflichen Grundbildung: Berufsfachschulen, Lehrwerkstätten, Werkstatt-Schulen, Schulsporthallen und Foyers.
+<sup>1</sup> Die für die Berufsbildung bestimmten öffentlichen Gebäude sind insbesondere diejenigen, welche in Beziehung stehen zur beruflichen Grundbildung: Berufsfachschulen, Lehrwerkstätten, Werkstatt-Schulen, Schulsporthallen und Foyers.
 
 #### Art. 64
 
@@ -736,30 +692,18 @@ Die für die Berufsbildung bestimmten öffentlichen Gebäude sind insbesondere d
 
 <sup>2</sup> Die Entschädigungen werden alle fünf Jahre überprüft oder spätestens wenn der Landesindex der Konsumentenpreise um mehr als drei Prozent seit der letzten Index-Festlegung gestiegen ist.
 
-### 7. Kapitel: Schlussbestimmungen
+## 7 Schlussbestimmungen
 
 #### Art. 65
 
 **Aufhebung**
 
-Das Vollziehungsreglement vom 20. Februar 1985 zum Gesetz, welches das Bundesgesetz über die Berufsbildung vollzieht, wird aufgehoben.
+<sup>1</sup> Das Vollziehungsreglement zum Gesetz, welches das Bundesgesetz über die Berufsbildung vollzieht, vom 20. Februar 1985 wird aufgehoben.
 
 #### Art. 66
 
 **Inkrafttreten**
 
-Die vorliegende Verordnung tritt am 1. September 2010 in Kraft.
+<sup>1</sup> Die vorliegende Verordnung tritt am 1. September 2010 in Kraft.
 
-So angenommen im Staatsrat zu Sitten, den 9. Februar 2011.
-
-Der Präsident des Staatsrates: Jean-Michel Cina Der Staatskanzler: Philipp Spörri
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-**1.09.2010**
-
-Abl. Nr. 12/2011
-
-## Weitere Fussnoten
-
-- [1] Änderung gemäss Art. 14 des Reglements Abl. Nr. 24/2012 1.09.2012 über die Übernahme der Fahrkosten für die Lernenden und die Schüler der Sekundarstufe II vom 6.06.2012
+CSW BO/Abl. 12/2011

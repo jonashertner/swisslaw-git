@@ -4,75 +4,68 @@ number: "412.100"
 title: "Ordonnance concernant la loi d'application de la loi fédérale sur la formation professionnelle"
 short: OLALFPr
 language: fr
-version: 2012-09-01
-corrected: 2017-07-11
-version_adopted: 2011-02-09
+version: 2022-04-22
+version_adopted: 2022-09-14
 adopted: 2011-02-09
 in_force: 2010-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/412.100"
-pdf: "https://lex.vs.ch/api/fr/versions/537/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3067/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Ordonnance concernant la loi d'application de la loi fédérale sur la formation professionnelle (OLALFPr)
+# Ordonnance concernant la loi d'application de la loi fédérale sur la formation professionnelle
 
-du 9 février 2011
+(OLALFPr)
+
+du 09.02.2011 (état 22.04.2022)
 
 Le Conseil d'Etat du canton du Valais
 
 vu l'article 57 alinéa 2 de la Constitution cantonale;
 
-vu l'article 89 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs;
+vu l'article 89 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs du 28 mars 1996 (LOCRP);
 
-vu la loi d'application concernant la loi fédérale sur la formation professionnelle;
+vu la loi d'application concernant la loi fédérale sur la formation professionnelle du 13 juin 2008 (LALFPr);
 
-sur la proposition du Département de l'éducation, de la culture et du sport,
+sur la proposition du département en charge de la formation,
 
-arrête:
+ordonne:
 
-### Chapitre 1: Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
 **Champ d'application**
 
-La présente ordonnance couvre l'ensemble des secteurs de la formation professionnelle régis par la loi. Sont réservés les ordonnances et règlements spécifiques concernant notamment:
+<sup>1</sup> La présente ordonnance couvre l'ensemble des secteurs de la formation professionnelle régis par la loi. Sont réservés les ordonnances et règlements spécifiques concernant notamment:
 
 - a) l'organisation et le fonctionnement des écoles de formation professionnelle;
-
 - b) les missions et le fonctionnement de l'orientation scolaire, professionnelle et de carrière;
-
 - c) la maturité professionnelle;
-
 - d) la validation des acquis.
 
 #### Art. 2
 
 **Secteurs professionnels**
 
-Les différents domaines professionnels couverts par la présente ordonnance sont:
+<sup>1</sup> Les différents domaines professionnels couverts par la présente ordonnance sont:
 
 - a) le bâtiment et le génie civil;
-
 - b) le commerce et l'industrie;
-
 - c) l'artisanat et l'agriculture;
-
 - d) le tourisme, l'hôtellerie et la restauration;
-
 - e) la santé, le social et les arts.
 
 #### Art. 3
 
 **Egalité**
 
-Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
+<sup>1</sup> Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
 
-### Chapitre 2: Formation professionnelle initiale
+## 2 Formation professionnelle initiale
 
-### Section 1: Généralités
+### 2.1 Généralités
 
 #### Art. 4
 
@@ -94,19 +87,19 @@ Dans la présente loi, toute désignation de personne, de statut ou de fonction 
 
 <sup>1</sup> Les prestataires de la formation professionnelle mettent en place un système de contrôle interne placé sous la surveillance du SFOP.
 
-<sup>2</sup> Ce contrôle porte notamment sur le suivi du programme de formation en entreprise et sur le suivi pédagogique exercé par les directions des écoles et des institutions sur les formateurs et les enseignants, au sens des articles 45 à 47 de la LFPr.
+<sup>2</sup> Ce contrôle porte notamment sur le suivi du programme de formation en entreprise et sur le suivi pédagogique exercé par les directions des écoles et des institutions sur les formateurs et les enseignants, au sens des articles 45 à 47 de la loi fédérale sur la formation professionnelle (LFPr).
 
 <sup>3</sup> Le SFOP peut procéder en tout temps à un audit, partiel ou total, et prendre d'autres mesures qu'il juge indispensables pour remplir sa mission.
 
 <sup>4</sup> Il peut exiger des prestataires de la formation professionnelle tous les renseignements et toute la documentation nécessaires à l'exercice de son mandat.
 
-#### Art 6
+#### Art. 6
 
 **Transition**
 
-<sup>1</sup> Le département, notamment au travers des services compétents et des Offices d'orientation scolaire et professionnelle (ci-après: les OSP), prend les mesures utiles pour assurer la transition entre la fin du secondaire I et la formation professionnelle initiale et pour valoriser la formation duale, en collaboration avec les autres services de l'Etat concernés, les associations professionnelles et les milieux économiques et industriels.
+<sup>1</sup> Le département, notamment au travers des services compétents et de l'office d'orientation scolaire, professionnelle et de carrière (ci-après: l'office), prend les mesures utiles pour assurer la transition entre la fin du secondaire I et la formation professionnelle initiale et pour valoriser la formation duale, en collaboration avec les autres services de l'Etat concernés, les associations professionnelles et les milieux économiques et industriels.
 
-<sup>2</sup> Dans le cadre de la loi sur le cycle d'orientation, l'OSP prend toutes les mesures nécessaires et utiles afin de permettre à chaque élève, dans la mesure du possible, de disposer, au terme de la scolarité obligatoire, d'un projet professionnel réaliste et réalisable.
+<sup>2</sup> Dans le cadre de la loi sur le cycle d'orientation, l'office prend toutes les mesures nécessaires et utiles afin de permettre à chaque élève, dans la mesure du possible, de disposer, au terme de la scolarité obligatoire, d'un projet professionnel réaliste et réalisable.
 
 <sup>3</sup> Les jeunes qui, au terme de leur scolarité obligatoire, ne peuvent débuter un apprentissage, bénéficient des mesures prévues à l'article 40 de la LFPr.
 
@@ -114,20 +107,17 @@ Dans la présente loi, toute désignation de personne, de statut ou de fonction 
 
 **Perméabilité du système**
 
-Le département édicte des directives de transfert et de passage d'une formation à l'autre en tenant compte des recommandations intercantonales (CDIP, CSFP, OFFT) et des ordonnances fédérales sur la formation professionnelle initiale.
+<sup>1</sup> Le département édicte des directives de transfert et de passage d'une formation à l'autre en tenant compte des recommandations intercantonales (CDIP, CSFP, SEFRI) et des ordonnances fédérales sur la formation professionnelle initiale.
 
 #### Art. 8
 
 **Canton de formation**
 
-Lorsqu'il n'y a pas ou plus de possibilités d'acquérir une formation dans le canton, le SFOP est compétent pour autoriser à suivre une formation hors canton. Il prend notamment en compte les éléments suivants:
+<sup>1</sup> Lorsqu'il n'y a pas ou plus de possibilités d'acquérir une formation dans le canton, le SFOP est compétent pour autoriser à suivre une formation hors canton. Il prend notamment en compte les éléments suivants:
 
 - a) recherches écrites infructueuses de place de formation dans le canton tant en formation duale qu'en formation à plein temps;
-
-- b) aptitudes et choix professionnels validés par les OSP;
-
+- b) aptitudes et choix professionnels validés par l'office;
 - c) notes et résultats de la scolarité obligatoire;
-
 - d) pratiques intercantonales en la matière.
 
 #### Art. 9
@@ -141,40 +131,31 @@ Lorsqu'il n'y a pas ou plus de possibilités d'acquérir une formation dans le c
 <sup>3</sup> Le mandat concerne les prestations suivantes:
 
 - a) les mesures préparatoires et d'insertion;
-
-- b) la formation professionnelle initiale, continue et supérieure
-
+- b) la formation professionnelle initiale et supérieure;
 - c) les autres mesures prévues dans la LFPr et la LALFPr.
 
 <sup>4</sup> Il détermine notamment:
 
 - a) les objectifs à atteindre;
-
 - b) les modalités de controlling et de l'évaluation de la réalisation des objectifs;
-
 - c) les conséquences de l'inexécution ou de l'exécution non conforme du mandat;
-
 - d) les modalités d'adaptation;
-
 - e) les procédures de règlement des différends et de la médiation;
-
 - f) le descriptif et les bénéficiaires de la prestation;
-
 - g) les ressources financières allouées sous forme d'enveloppe, tenant compte des taux d'occupation et d'encadrement;
-
 - h) la surveillance financière.
 
 <sup>5</sup> Dans le cadre délimité par le mandat de prestations, le prestataire de formation remplit son mandat de façon autonome.
 
 <sup>6</sup> Le département exerce la surveillance des prestataires par l'intermédiaire du SFOP.
 
-### Section 2: Santé et prestations sociales
+### 2.2 Santé et prestations sociales
 
 #### Art. 10
 
 **Principe**
 
-Pour tous les cas non prévus dans la présente ordonnance, les prescriptions correspondantes des contrats collectifs de travail ainsi que du Code des obligations s'appliquent.
+<sup>1</sup> Pour tous les cas non prévus dans la présente ordonnance, les prescriptions correspondantes des contrats collectifs de travail ainsi que du Code des obligations s'appliquent.
 
 #### Art. 11
 
@@ -206,21 +187,19 @@ Pour tous les cas non prévus dans la présente ordonnance, les prescriptions co
 
 **Indemnités de déplacement**
 
-Dans les professions non régies par un contrat collectif et dans celles où le contrat collectif ne détermine pas les indemnités de déplacement dont doit bénéficier le travailleur, les apprentis ont droit aux indemnités suivantes:
+<sup>1</sup> Dans les professions non régies par un contrat collectif et dans celles où le contrat collectif ne détermine pas les indemnités de déplacement dont doit bénéficier le travailleur, les apprentis ont droit aux indemnités suivantes:
 
 - a) lorsque l'apprenti est appelé à travailler en dehors de son lieu de travail habituel, les frais de transport sont à la charge de l'entreprise formatrice;
-
-- b) si le déplacement dure plus d'une demi-journée, l'entreprise formatrice doit, en outre, verser à l'apprenti une indemnité appropriée pour le repas de midi ;
-
+- b) si le déplacement dure plus d'une demi-journée, l'entreprise formatrice doit, en outre, verser à l'apprenti une indemnité appropriée pour le repas de midi;
 - c) si, lors de grands déplacements, l'apprenti est obligé de loger sur place, l'entreprise formatrice lui fournira, à ses frais, une chambre et une pension convenables.
 
-### Section 3: Formation à la pratique
+### 2.3 Formation à la pratique
 
 #### Art. 15
 
 **Prestataires de la formation à la pratique professionnelle**
 
-Les prestataires de la formation à la pratique professionnelle doivent former les apprentis selon le programme fixé dans le plan de formation. Ils doivent le faire dans les règles de l'art, systématiquement et veiller à ce que la formation soit coordonnée avec l'enseignement scolaire.
+<sup>1</sup> Les prestataires de la formation à la pratique professionnelle doivent former les apprentis selon le programme fixé dans le plan de formation. Ils doivent le faire dans les règles de l'art, systématiquement et veiller à ce que la formation soit coordonnée avec l'enseignement scolaire.
 
 #### Art. 16
 
@@ -236,7 +215,7 @@ Les prestataires de la formation à la pratique professionnelle doivent former l
 
 **Autorisation de former**
 
-Les prestataires de la formation à la pratique professionnelle doivent bénéficier d'une autorisation de former dans la profession concernée avant l'engagement d'un apprenti.
+<sup>1</sup> Les prestataires de la formation à la pratique professionnelle doivent bénéficier d'une autorisation de former dans la profession concernée avant l'engagement d'un apprenti.
 
 #### Art. 18
 
@@ -260,7 +239,7 @@ Les prestataires de la formation à la pratique professionnelle doivent bénéfi
 
 **Retrait de l'autorisation**
 
-En cas de non-respect des conditions de l'autorisation de former, le SFOP, l'association concernée entendue, donne un avertissement avec un délai pour remédier à la situation. Si, à la suite de cet avertissement, l'entreprise n'offre pas toute garantie que la formation est dispensée aux conditions fixées, le SFOP retire ladite autorisation.
+<sup>1</sup> En cas de non-respect des conditions de l'autorisation de former, le SFOP, l'association concernée entendue, donne un avertissement avec un délai pour remédier à la situation. Si, à la suite de cet avertissement, l'entreprise n'offre pas toute garantie que la formation est dispensée aux conditions fixées, le SFOP retire ladite autorisation.
 
 #### Art. 21
 
@@ -288,7 +267,7 @@ En cas de non-respect des conditions de l'autorisation de former, le SFOP, l'ass
 
 <sup>3</sup> Le SFOP, avant d'approuver le contrat de stage, peut consulter l'entreprise ou l'institution formatrice ainsi que la personne en formation.
 
-### Section 4: Formation scolaire
+### 2.4 Formation scolaire
 
 #### Art. 23
 
@@ -305,9 +284,7 @@ En cas de non-respect des conditions de l'autorisation de former, le SFOP, l'ass
 <sup>5</sup> Durant les trois mois prévus à l'alinéa précédent, il doit à la fois:
 
 - a) être soumis au règlement de l'École professionnelle;
-
 - b) tout entreprendre pour trouver une place d'apprentissage afin de poursuivre sa formation;
-
 - c) faire preuve de motivations pour la profession choisie.
 
 <sup>6</sup> Les personnes adultes au sens de l'article 32 de l'ordonnance fédérale du 19 novembre 2003 sur la formation professionnelle (OFPr) peuvent fréquenter une école professionnelle aux conditions fixées par le département.
@@ -323,7 +300,6 @@ En cas de non-respect des conditions de l'autorisation de former, le SFOP, l'ass
 <sup>3</sup> L'apprenti est promu lorsque:
 
 - a) la moyenne générale annuelle est égale ou supérieure à 4;
-
 - b) les conditions de réussite exigées dans les connaissances professionnelles, lors des examens de fin d'apprentissage, sont remplies.
 
 <sup>4</sup> Demeurent réservées les procédures de promotion définies dans les ordonnances fédérales sur la formation professionnelle initiale et sur la maturité professionnelle.
@@ -334,11 +310,12 @@ En cas de non-respect des conditions de l'autorisation de former, le SFOP, l'ass
 
 **Non promotion**
 
-En cas de non promotion, la direction de l'école informe l'apprenti ou son représentant légal ainsi que le formateur en entreprise. Elle les invite à examiner la meilleure solution à adopter pour l'avenir de l'apprenti. Sur la base des observations faites, elle propose les mesures jugées adéquates, notamment:
+<sup>1</sup> En cas de non promotion, la direction de l'école informe l'apprenti ou son représentant légal ainsi que le formateur en entreprise. Elle les invite à examiner la meilleure solution à adopter pour l'avenir de l'apprenti. Sur la base des observations faites, elle propose les mesures jugées adéquates, notamment:
 
 - a) la répétition de l'année avec prolongation de l'apprentissage d'un an;
-
 - b) le changement de niveau ou de profession.
+
+<sup>2</sup> En cas de désaccord entre l’école et l’entreprise et après audition de l’apprenti, la direction de l’école transmet le dossier au SFOP pour décision.
 
 #### Art. 26
 
@@ -354,13 +331,13 @@ En cas de non promotion, la direction de l'école informe l'apprenti ou son repr
 
 **Cours d'appui organisés par les communes**
 
-L'apprenti peut demander à sa commune de domicile d'organiser des cours d'appui. Cette dernière bénéficie d'une indemnité du canton fixée par le Conseil d'Etat.
+<sup>1</sup> L'apprenti peut demander à sa commune de domicile d'organiser des cours d'appui. Cette dernière bénéficie d'une indemnité du canton fixée par le Conseil d'Etat.
 
 #### Art. 28
 
 **Cours facultatifs**
 
-En cas de prestations insuffisantes ou de comportement inadéquat de l'apprenti en formation à l'école professionnelle ou dans l'entreprise formatrice, l'école peut l'exclure des cours facultatifs, l'entreprise formatrice entendue.
+<sup>1</sup> En cas de prestations insuffisantes ou de comportement inadéquat de l'apprenti en formation à l'école professionnelle ou dans l'entreprise formatrice, l'école peut l'exclure des cours facultatifs, l'entreprise formatrice entendue.
 
 #### Art. 29
 
@@ -382,11 +359,9 @@ En cas de prestations insuffisantes ou de comportement inadéquat de l'apprenti 
 
 #### Art. 30
 
-<sup>1</sup>
+**…**
 
-Abrogé
-
-### Section 5: Cours interentreprises
+### 2.5 Cours interentreprises
 
 #### Art. 31
 
@@ -411,9 +386,7 @@ Abrogé
 <sup>1</sup> Lorsque les cours interentreprises sont organisés pour une association professionnelle dans les locaux de l'Etat, une convention est signée entre elle et le département. Elle règle notamment les points suivants:
 
 - a) la mise à disposition par l'Etat des maîtres professionnels et des locaux;
-
 - b) la mise à disposition du matériel consommable et sa prise en charge;
-
 - c) le montant à facturer à l'association professionnelle ou à l'entreprise formatrice à titre de participation aux frais d'investissement et de fonctionnement (maîtres professionnels, matériel consommable, etc.).
 
 <sup>2</sup> La construction, l'acquisition, l'entretien et le renouvellement des locaux affectés aux cours interentreprises, ainsi que les équipements, les machines et les outils nécessaires à l'enseignement sont à la charge de l'Etat.
@@ -424,7 +397,7 @@ Abrogé
 
 <sup>5</sup> Les maîtres professionnels et les participants sont soumis au règlement de l'école professionnelle dans laquelle se déroulent les cours interentreprises; en cas de divergences entre la commission des cours et la direction de l'école, le chef du SFOP décide, après avoir entendu les parties.
 
-### Section 6: Formation initiale en deux ans
+### 2.6 Formation initiale en deux ans
 
 #### Art. 34
 
@@ -450,17 +423,14 @@ Abrogé
 
 **Formations cantonales**
 
-D'entente avec les associations professionnelles cantonales concernées, le canton peut mettre sur pied des formations cantonales ou délivrer des titres cantonaux, notamment:
+<sup>1</sup> D'entente avec les associations professionnelles cantonales concernées, le canton peut mettre sur pied des formations cantonales ou délivrer des titres cantonaux, notamment:
 
 - a) dans les domaines où il n'existe aucune formation fédérale;
-
 - b) dans les domaines qui n'offrent pas toutes les formations initiales prévues par la loi fédérale;
-
 - c) pour les jeunes qui n'ont pas toutes les compétences pour acquérir un titre fédéral de formation initiale;
-
 - d) pour les jeunes qui ont des compétences pratiques devant être développées.
 
-### Section 7: Procédure de qualification
+### 2.7 Procédure de qualification
 
 #### Art. 37
 
@@ -473,24 +443,21 @@ D'entente avec les associations professionnelles cantonales concernées, le cant
 <sup>3</sup> Les attributions de cette commission sont les suivantes:
 
 - a) surveiller le déroulement des épreuves;
-
 - b) faire rapport au SFOP sur le déroulement des examens visités;
-
 - c) donner son préavis au département sur les objets relatifs aux examens qui lui sont soumis;
-
 - d) prononcer les sanctions prévues à l'article 47.
 
 #### Art. 38
 
 **Session d'examens**
 
-En règle générale, la session ordinaire annuelle d'examens est fixée à la fin de l'année scolaire.
+<sup>1</sup> En règle générale, la session ordinaire annuelle d'examens est fixée à la fin de l'année scolaire.
 
 #### Art. 39
 
 **Admission**
 
-L'apprenti est admis à l'examen lors de la session ordinaire qui se déroule dans l'année où se termine son apprentissage, à la condition qu'il ait suivi le programme complet de l'enseignement obligatoire dispensé par l'école professionnelle et soit au bénéfice d'un contrat d'apprentissage. Les cas particuliers sont de la compétence du SFOP.
+<sup>1</sup> L'apprenti est admis à l'examen lors de la session ordinaire qui se déroule dans l'année où se termine son apprentissage, à la condition qu'il ait suivi le programme complet de l'enseignement obligatoire dispensé par l'école professionnelle et soit au bénéfice d'un contrat d'apprentissage. Les cas particuliers sont de la compétence du SFOP.
 
 #### Art. 40
 
@@ -501,20 +468,19 @@ L'apprenti est admis à l'examen lors de la session ordinaire qui se déroule da
 <sup>2</sup> Pour être admises à une procédure de qualification, les personnes ayant appris une profession dans un autre cadre que celui d'une filière de formation réglementée, doivent:
 
 - a) justifier d'une expérience professionnelle d'au moins cinq ans;
-
 - b) prouver avoir suivi l'enseignement professionnel ou acquis les connaissances professionnelles d'une autre manière.
 
 #### Art. 41
 
 **Convocation**
 
-Le candidat est convoqué par le SFOP au moins 30 jours à l'avance, conformément au programme d'examens établi par le chef-expert en collaboration avec la direction de l'école professionnelle concernée.
+<sup>1</sup> Le candidat est convoqué par le SFOP au moins 30 jours à l'avance, conformément au programme d'examens établi par le chef-expert en collaboration avec la direction de l'école professionnelle concernée.
 
 #### Art. 42
 
 **Matériel d'examen**
 
-Lorsque le matériel d'examens fourni par l'entreprise formatrice ne correspond pas aux exigences requises, les experts sont habilités à pourvoir au remplacement de celui-ci, aux frais de l'entreprise formatrice.
+<sup>1</sup> Lorsque le matériel d'examens fourni par l'entreprise formatrice ne correspond pas aux exigences requises, les experts sont habilités à pourvoir au remplacement de celui-ci, aux frais de l'entreprise formatrice.
 
 #### Art. 43
 
@@ -528,7 +494,7 @@ Lorsque le matériel d'examens fourni par l'entreprise formatrice ne correspond 
 
 #### Art. 44
 
-Certificat fédéral de capacité - Attestation fédérale de formation professionnelle
+**Certificat fédéral de capacité - Attestation fédérale de formation professionnelle**
 
 <sup>1</sup> Le certificat fédéral de capacité ou l'attestation fédérale de formation professionnelle est, en principe, délivré à l'occasion d'une cérémonie de clôture.
 
@@ -538,7 +504,7 @@ Certificat fédéral de capacité - Attestation fédérale de formation professi
 
 **Frais**
 
-Lorsque le candidat passe l'examen de fin d'apprentissage hors du Valais, dans un canton autre que celui où il a suivi l'enseignement obligatoire, les frais de déplacement qui en découlent lui sont remboursés par la commune de domicile. Si pour des raisons d'horaire, l'apprenti est tenu de loger sur place, une indemnité appropriée par nuit peut lui être allouée sur présentation des factures d'hébergement.
+<sup>1</sup> Lorsque le candidat passe l'examen de fin d'apprentissage hors du Valais, dans un canton autre que celui où il a suivi l'enseignement obligatoire, les frais de déplacement qui en découlent lui sont remboursés par la commune de domicile. Si pour des raisons d'horaire, l'apprenti est tenu de loger sur place, une indemnité appropriée par nuit peut lui être allouée sur présentation des factures d'hébergement.
 
 #### Art. 46
 
@@ -557,9 +523,7 @@ Lorsque le candidat passe l'examen de fin d'apprentissage hors du Valais, dans u
 <sup>1</sup> Sont notamment considérés comme tricheries les cas où le candidat:
 
 - a) utilise des documents, de l'outillage ou des moyens auxiliaires non autorisés;
-
-- b) reçoit ou transmet des informations / travaux d'examens;
-
+- b) reçoit ou transmet des informations/travaux d'examens;
 - c) apporte des travaux préparés à domicile ou en emporte dans ce but.
 
 <sup>2</sup> Le candidat concerné par une tricherie poursuit la session d'examen jusqu'à décision de la sanction infligée par la commission d'examen.
@@ -567,10 +531,9 @@ Lorsque le candidat passe l'examen de fin d'apprentissage hors du Valais, dans u
 <sup>3</sup> Les sanctions possibles, à prendre en fonction de la gravité du cas, sont:
 
 - a) note 1 dans l'épreuve en question;
-
 - b) déclaration d'échec de la procédure de qualification.
 
-### Chapitre 3: Déficit de formation
+## 3 Déficit de formation
 
 #### Art. 48
 
@@ -589,7 +552,6 @@ Lorsque le candidat passe l'examen de fin d'apprentissage hors du Valais, dans u
 <sup>1</sup> A la fin de la scolarité obligatoire, sont à disposition des élèves en déficit de formation:
 
 - a) les mesures prévues par la loi sur le cycle d'Orientation;
-
 - b) l'école préprofessionnelle (EPP).
 
 <sup>2</sup> Pour les jeunes issus de l'immigration, des classes d'accueil de la scolarité post obligatoire (CASPO) sont mises sur pied. Elles offrent une formation transitoire pour leur permettre d'accéder à une formation professionnelle, de poursuivre une formation scolaire ou d'entrer dans le monde du travail. Les cours dispensés visent à faciliter l'intégration de ces jeunes de langue étrangère dans notre société.
@@ -598,13 +560,13 @@ Lorsque le candidat passe l'examen de fin d'apprentissage hors du Valais, dans u
 
 **Mesures préparatoires accélérées**
 
-Pour les jeunes, ayant quitté les structures scolaires depuis quelques années, ne pouvant bénéficier des mesures prévues à l'article 49 et qui peinent à trouver une place d'apprentissage, le département peut ouvrir des classes de mesures préparatoires accélérées, soit dans les écoles professionnelles soit en collaboration avec des organismes privés.
+<sup>1</sup> Pour les jeunes, ayant quitté les structures scolaires depuis quelques années, ne pouvant bénéficier des mesures prévues à l'article 49 et qui peinent à trouver une place d'apprentissage, le département peut ouvrir des classes de mesures préparatoires accélérées, soit dans les écoles professionnelles soit en collaboration avec des organismes privés.
 
 #### Art. 51
 
 **Coordination**
 
-Le SFOP coordonne l'ensemble des mesures liées à la transition entre le secondaire I et le secondaire II professionnel en collaboration avec les autres services et organes privés concernés.
+<sup>1</sup> Le SFOP coordonne l'ensemble des mesures liées à la transition entre le secondaire I et le secondaire II professionnel en collaboration avec les autres services et organes privés concernés.
 
 #### Art. 52
 
@@ -615,18 +577,11 @@ Le SFOP coordonne l'ensemble des mesures liées à la transition entre le second
 <sup>2</sup> Afin de bénéficier des mesures prévues, le jeune ou son représentant légal doit:
 
 - a) accepter les mesures et solutions concrètes proposées;
-
 - b) se soumettre aux exigences de formation proposées;
-
 - c) s'engager et faire tout son possible pour réussir dans la mesure offerte;
-
 - d) donner son accord pour que des informations le concernant soient intégrées dans une base de données et consultables par les partenaires du réseau, lesquels maintiennent la confidentialité. Au terme du processus d'encadrement, la base de données est détruite.
 
-### Chapitre 4: Commission cantonale de la formation
-
-professionnelle - Associations professionnelles -
-
-### Communes
+## 4 Commission cantonale de la formation professionnelle - Associations professionnelles - Communes
 
 #### Art. 53
 
@@ -648,7 +603,7 @@ professionnelle - Associations professionnelles -
 
 **Collaboration avec les associations professionnelles**
 
-La collaboration avec les associations professionnelles repose notamment sur des contacts réguliers, sur des participations aux assemblées et, si nécessaire, sur des mandats de prestations.
+<sup>1</sup> La collaboration avec les associations professionnelles repose notamment sur des contacts réguliers, sur des participations aux assemblées et, si nécessaire, sur des mandats de prestations.
 
 #### Art. 56
 
@@ -664,9 +619,7 @@ La collaboration avec les associations professionnelles repose notamment sur des
 
 <sup>5</sup> Les communes informent régulièrement le SFOP du résultat de leurs démarches et actions.
 
-### Chapitre 5: Formation professionnelle supérieure et formation
-
-continue à des fins professionnelles
+## 5 Formation professionnelle supérieure et formation continue à des fins professionnelles
 
 #### Art. 57
 
@@ -680,7 +633,7 @@ continue à des fins professionnelles
 
 **Ecole supérieure hors canton**
 
-La fréquentation d'une formation professionnelle supérieure hors du canton est soumise aux conditions figurant dans les accords intercantonaux auxquels le canton a adhéré ou par les pratiques intercantonales en vigueur.
+<sup>1</sup> La fréquentation d'une formation professionnelle supérieure hors du canton est soumise aux conditions figurant dans les accords intercantonaux auxquels le canton a adhéré ou par les pratiques intercantonales en vigueur.
 
 #### Art. 59
 
@@ -690,21 +643,22 @@ La fréquentation d'une formation professionnelle supérieure hors du canton est
 
 <sup>2</sup> Cette mise à disposition peut être facturée à l'association professionnelle/organisateur selon convention.
 
-<sup>3</sup> Les personnes suivant une formation supérieure sanctionnée par un examen professionnel fédéral ou par un examen professionnel fédéral supérieur, peuvent bénéficier, en fonction des accords intercantonaux et aux conditions fixées par le Conseil d'Etat, d'une aide indirecte par le versement d'une subvention aux prestataires de formation.
+<sup>3</sup> Les personnes suivant une formation supérieure sanctionnée par un examen professionnel fédéral ou par un examen professionnel fédéral supérieur, peuvent conformément aux accords intercantonaux bénéficier d’un soutien qui, selon les modalités et conditions fixées par le Conseil d’Etat, peut prendre les formes suivantes:
+
+- a) aide directe par une prise en charge partielle ou totale des frais de scolarité facturés par l’organisateur de la formation;
+- b) aide indirecte par le versement d’une subvention au fournisseur de la formation.
 
 #### Art. 60
 
 **Formation continue à des fins professionnelles**
 
-Le Conseil d'Etat définit les critères de reconnaissance et de financement des prestataires de la formation continue à des fins professionnelles, qui comprennent notamment:
+<sup>1</sup> Le Conseil d'Etat définit les critères de reconnaissance et de financement des prestataires de la formation continue à des fins professionnelles, qui comprennent notamment:
 
 - a) une structure scolaire adéquate;
-
 - b) des normes de qualité (qualification des formateurs, durée, effectifs, etc.);
-
 - c) un financement paritaire par les partenaires.
 
-### Chapitre 6: Finances
+## 6 Finances
 
 #### Art. 61
 
@@ -728,7 +682,7 @@ Le Conseil d'Etat définit les critères de reconnaissance et de financement des
 
 **Bâtiments et équipements**
 
-Les bâtiments publics affectés à la formation professionnelle sont notamment ceux en relation avec la formation professionnelle initiale: écoles professionnelles, écoles des métiers, ateliers-écoles, salles de sport et foyers.
+<sup>1</sup> Les bâtiments publics affectés à la formation professionnelle sont notamment ceux en relation avec la formation professionnelle initiale: écoles professionnelles, écoles des métiers, ateliers-écoles, salles de sport et foyers.
 
 #### Art. 64
 
@@ -738,28 +692,18 @@ Les bâtiments publics affectés à la formation professionnelle sont notamment 
 
 <sup>2</sup> Ils sont revus, en principe chaque cinq ans, ou au plus tard lorsque l'indice suisse des prix à la consommation a progressé de plus de trois pour cent depuis la dernière indexation.
 
-### Chapitre 7: Dispositions finales
+## 7 Dispositions finales
 
 #### Art. 65
 
 **Abrogation**
 
-Le règlement d'exécution de la loi concernant l'exécution de la loi fédérale sur la formation professionnelle du 20 février 1985 est abrogé.
+<sup>1</sup> Le règlement d'exécution de la loi concernant l'exécution de la loi fédérale sur la formation professionnelle du 20 février 1985 est abrogé.
 
 #### Art. 66
 
-Entrée en vigueur La présente ordonnance entre en vigueur le 1er septembre 2010.
+**Entrée en vigueur**
 
-Ainsi adopté en Conseil d'Etat, à Sion le 9 février 2011. Le président du Conseil d'Etat: Jean-Michel Cina
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> septembre 2010.
 
-**Le chancelier d'Etat: Philipp Spörri Publication Entrée en**
-
-**vigueur**
-
-**BO No 12/2011 1.09.2010**
-
-### Intitulé et modifications
-
-## Autres notes
-
-- [1] Modification selon l'art. 14 du Règlement BO No 24/2012 1.09.2012 concernant les modalités de prise en charge des frais de transport pour les apprentis et étudiants du secondaire du deuxième degré général du 6.06.2012
+RCV BO/Abl. 12/2011
