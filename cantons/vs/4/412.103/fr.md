@@ -4,20 +4,21 @@ number: "412.103"
 title: "Ordonnance sur l'orientation scolaire, professionnelle et de carrière"
 short: OOSPC
 language: fr
-version: 2020-03-01
-corrected: 2020-03-26
-version_adopted: 2020-03-18
+version: 2022-04-22
+version_adopted: 2022-09-14
 adopted: 2012-12-19
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/412.103"
-pdf: "https://lex.vs.ch/api/fr/versions/2636/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3068/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur l'orientation scolaire, professionnelle et de carrière
 
-du 19.12.2012 (état 01.03.2020)
+(OOSPC)
+
+du 19.12.2012 (état 22.04.2022)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -27,11 +28,11 @@ vu les articles 49 à 51 de la loi fédérale sur la formation professionnelle d
 
 vu l’article 55 de l’ordonnance fédérale sur la formation professionnelle du 19 novembre 2003 (OFPr);
 
-vu les articles 14, 17 et 21 de la loi d’application de la loi fédérale sur la formation professionnelle du 13 juin 2008 (LALFPr);
+vu les articles 14, 17a et 21 de la loi d’application de la loi fédérale sur la formation professionnelle du 13 juin 2008 (LALFPr);
 
 vu les articles 52, 53 et 55 de la loi sur le cycle d’orientation du 10 septembre 2009 (LCO);
 
-vu l’article 5 alinéa 3 lettre a chiffre 7 de l’ordonnance sur la direction des écoles de la scolarité obligatoire, y compris l’école enfantine du 20 juin 2012;
+vu l’article 5 alinéa 3 lettre a chiffre 7 de l’ordonnance sur la direction des écoles de la scolarité obligatoire du 20 juin 2012;
 
 sur la proposition du Département en charge de la formation,
 
@@ -131,8 +132,8 @@ ordonne:
 
 - a) dispenser, en principe, le cours d'éducation aux choix professionnels et veiller à ce que chacun de ses élèves remplisse son portfolio d'orientation et le conserve d'une année à l'autre;
 - b) coordonne avec l'accord et sous la responsabilité des parents les stages en milieu professionnel préparés lors du cours d'éducation aux choix professionnels;
-- c) remplir en 2<sup>e</sup> année l'attestation des compétences générales de chacun de ses élèves, sur avis du conseil de classe et selon les directives du Département;
-- d) conduire en 2<sup>e</sup> année, le bilan d'orientation selon les directives du Département;
+- c) remplir en 10CO l'attestation des compétences générales de chacun de ses élèves, sur avis du conseil de classe et selon les directives du Département;
+- d) conduire en 10CO, le bilan d'orientation selon les directives du Département;
 - e) requérir la présence d'un conseiller en orientation lors de l'entretien prévu à la lettre d si l'élève éprouve des difficultés particulières dans son processus de choix scolaire et professionnel ou si les parents en font la demande.
 
 <sup>3</sup> Le titulaire est soumis à un cahier des charges édicté par le Département.
@@ -143,7 +144,7 @@ ordonne:
 
 **Missions**
 
-<sup>1</sup> Les offices régionaux d’orientation scolaire et professionnelle (ci-après: les offices) mettent des conseillers à disposition des directions du secondaire du premier degré.
+<sup>1</sup> L'office d’orientation scolaire, professionnelle et de carrière (ci-après: l'office) met des conseillers à disposition des directions du secondaire du premier degré.
 
 <sup>2</sup> Les conseillers forment les enseignants à la méthode et à l’utilisation du matériel pédagogique pour les cours d’éducation aux choix professionnels validés par le Département.
 
@@ -177,7 +178,7 @@ ordonne:
   - 2\. suivi des projets des élèves libérables, en collaboration avec les titulaires, et répartition des tâches avec les enseignants pour l'aide aux élèves dont le projet n'a pas abouti, jusque dans les six mois qui suivent la fin du CO,
   - 3\. mise à disposition de documentation sur les métiers et les formations,
   - 4\. mise sur pied de manifestations d'information collectives sur les métiers et les voies de formation (Passeport Info) et participation aux manifestations d'information organisées par les écoles et le Département,
-  - 5\. participation à la formation continue des enseignants sur les sujets liés à l'orientation, organisée par les offices,
+  - 5\. participation à la formation continue des enseignants sur les sujets liés à l'orientation, organisée par l'office,
   - 6\. administration de la permanence;
 - c) par rapport à la communauté régionale:
   - 1\. collaboration aux manifestations d'information collectives organisées avec les associations professionnelles (salons des métiers, journées des métiers, etc.),
@@ -229,22 +230,22 @@ ordonne:
 
 **Prestations de base**
 
-<sup>1</sup> Les offices organisent prioritairement leurs activités concernant leurs prestations de base pour répondre aux besoins des élèves fréquentant les écoles publiques du secondaire du premier degré et les écoles pré-professionnelles.
+<sup>1</sup> L'office organise prioritairement ses activités concernant ses prestations de base pour répondre aux besoins des élèves fréquentant les écoles publiques du secondaire du premier degré et les écoles pré-professionnelles.
 
-<sup>2</sup> Les prestations de base des offices s’adressent également:
+<sup>2</sup> Les prestations de base de l'office s’adressent également:
 
 - a) aux étudiants des écoles du secondaire du deuxième degré général et professionnel;
 - b) aux personnes hors scolarité sans diplôme du secondaire du deuxième degré.
 
-<sup>3</sup> Les prestations de base des offices s’adressent, en outre, aux jeunes et aux adultes possédant un diplôme du secondaire du deuxième degré.
+<sup>3</sup> Les prestations de base de l'office adressent, en outre, aux jeunes et aux adultes possédant un diplôme du secondaire du deuxième degré.
 
 #### Art. 15
 
 **Prestations élargies**
 
-<sup>1</sup> Les prestations élargies des offices concernant des groupes spécifiques d’usagers s’adressent aux partenaires de la collaboration inter institutionnelle et des institutions liées, aux entreprises, aux écoles privées et à toute organisation ne figurant pas dans les catégories mentionnées à l’article précédent.
+<sup>1</sup> Les prestations élargies de l'office concernant des groupes spécifiques d’usagers s’adressent aux partenaires de la collaboration inter institutionnelle et des institutions liées, aux entreprises, aux écoles privées et à toute organisation ne figurant pas dans les catégories mentionnées à l’article 14.
 
-<sup>2</sup> Les offices tiennent compte des demandes de ces publics cibles dans l’organisation de leurs prestations élargies afin de répondre aux demandes.
+<sup>2</sup> L'office tient compte des demandes de ces publics cibles dans l’organisation de ses prestations élargies afin de répondre aux demandes.
 
 #### Art. 16
 
@@ -270,7 +271,7 @@ ordonne:
 - e) collaboration inter institutionnelle avec les instances chargées de l'insertion professionnelle, notamment l'assurance invalidité (AI), les centres médico-sociaux (CMS) et les offices régionaux de placement (ORP);
 - f) reconnaissance institutionnelle de compétences (RI) pour adultes non diplômés en collaboration avec les associations professionnelles;
 - g) collaboration à la promotion de la formation continue des adultes, notamment à travers une information sur les différentes possibilités de cours pour adultes;
-- h) soutien aux procédures de certification des adultes, notamment la validation des acquis;
+- h) collaboration aux procédures de certification des adultes, notamment la validation des acquis;
 - i) coordination et création de réseaux de collaboration avec les partenaires régionaux (centres de formation continue, communes, entreprises et associations professionnelles régionales, services spécialisés, écoles du degré tertiaire).
 
 #### Art. 18
@@ -325,7 +326,7 @@ ordonne:
 - c) mandats de conseil pour des institutions ou des entreprises;
 - d) prestations d'orientation pour des écoles privées non subventionnées.
 
-<sup>3</sup> Les entreprises formant des apprentis peuvent bénéficier de tarifs préférentiels selon les disponibilités budgétaires des offices.
+<sup>3</sup> Les entreprises formant des apprentis peuvent bénéficier de tarifs préférentiels selon les disponibilités budgétaires de l'office.
 
 #### Art. 22
 
@@ -345,20 +346,20 @@ ordonne:
 
 **Organisation**
 
-<sup>1</sup> L’orientation est rattachée au service cantonal de la formation professionnelle (ci-après: le SFOP).
+<sup>1</sup> L’orientation est rattachée au service en charge des hautes écoles (ci-après: le service).
 
-<sup>2</sup> Les offices sont situés dans les deux régions linguistiques du canton, l’un à Brigue pour le Haut-Valais et l’autre à Sion pour le Valais romand.
+<sup>2</sup> L'office est présent dans les deux régions linguistiques du canton.
 
 #### Art. 25
 
-**Attributions des offices**
+**Attributions de l'office**
 
-<sup>1</sup> Les offices gèrent:
+<sup>1</sup> L'office gère:
 
 - a) les permanences pour les écoles publiques du secondaire du premier et du deuxième degrés;
 - b) les Centres d'Information et d'Orientation (ci-après: les CIO), situés dans les régions socio-économiques de Monthey, Martigny, Sion, Sierre et Brigue et ouverts à l'ensemble de la population.
 
-<sup>2</sup> Chaque office veille notamment:
+<sup>2</sup> L'office veille notamment:
 
 - a) à l'accomplissement des missions légales en matière d'orientation;
 - b) à la répartition des ressources et la gestion du personnel;
@@ -370,9 +371,9 @@ ordonne:
 
 #### Art. 26
 
-**Personnel des offices**
+**Personnel de l'office**
 
-<sup>1</sup> Le personnel des offices, comprenant notamment les conseillers en orientation scolaire et professionnelle, est régi par la loi sur le personnel de l’Etat du Valais.
+<sup>1</sup> Le personnel de l'office, comprenant notamment les conseillers en orientation scolaire, professionnelle et de carrière (ci-après: les conseillers), est régi par la loi sur le personnel de l’Etat du Valais (LcPers).
 
 <sup>2</sup> Les conseillers doivent justifier d’une formation et d’une expérience professionnelle définies dans les loi et ordonnance fédérales sur la formation professionnelle ou reconnues équivalentes par le Conseil d’Etat.
 
@@ -386,7 +387,7 @@ ordonne:
 
 **Répartition des ressources pour les permanences décentralisées**
 
-<sup>1</sup> Le personnel des offices assure une permanence pour les écoles du secondaire du premier et du deuxième degré.
+<sup>1</sup> Le personnel de l'office assure une permanence pour les écoles du secondaire du premier et du deuxième degré.
 
 <sup>2</sup> L’office répartit les ressources attribuées à chaque permanence décentralisée, notamment le temps de présence du conseiller, en prenant en compte:
 
@@ -406,7 +407,7 @@ ordonne:
 
 <sup>2</sup> L’entretien du mobilier et les frais de communication téléphoniques et d’internet sont à charge de l’école, respectivement des communes pour le secondaire du premier degré.
 
-<sup>3</sup> Le matériel technique (tests, documentation), le matériel de bureau consommable (papier, toner, classeurs) ainsi que l’équipement informatique sont à charge des offices.
+<sup>3</sup> Le matériel technique (tests, documentation), le matériel de bureau consommable (papier, toner, classeurs) ainsi que l’équipement informatique sont à charge de l'office.
 
 <sup>4</sup> L’équipement audiovisuel, la salle informatique et les autres équipements de l’école sont mis à disposition du personnel de l’orientation selon les besoins et les disponibilités.
 
@@ -418,11 +419,11 @@ ordonne:
 
 **Coordination**
 
-<sup>1</sup> Les offices du Haut-Valais et du Valais romand coordonnent leurs activités et veillent également à la coordination intercantonale.
+<sup>1</sup> L'office veille à la coordination intercantonale.
 
-<sup>2</sup> Les offices collaborent avec les autres services de l’Etat concernés par leurs activités, les pouvoirs publics, et les partenaires concernés par le choix scolaire et professionnel.
+<sup>2</sup> L'office collabore avec les autres services de l’Etat concernés par ses activités, les pouvoirs publics, et les partenaires concernés par le choix scolaire et professionnel.
 
-<sup>3</sup> Les offices s’engagent dans la collaboration inter institutionnelle afin d’offrir aux jeunes et aux adultes en difficulté les meilleures chances de réussir la transition entre l’école obligatoire et les filières de formation du secondaire du deuxième degré général et professionnel, ainsi que celle avec le monde du travail.
+<sup>3</sup> L'office s’engage dans la collaboration inter institutionnelle afin d’offrir aux jeunes et aux adultes en difficulté les meilleures chances de réussir la transition entre l’école obligatoire et les filières de formation du secondaire du deuxième degré général et professionnel, ainsi que celle avec le monde du travail.
 
 ### 4.4 Financement
 
@@ -430,7 +431,7 @@ ordonne:
 
 **Financement**
 
-<sup>1</sup> Les offices d’orientation offrent aux personnes domiciliées dans le canton du Valais des prestations de base gratuites dans les domaines définis aux articles 12 et 13 de la présente ordonnance. Ils peuvent également proposer des prestations élargies payantes à des groupes spécifiques d’usagers.
+<sup>1</sup> L'office offre aux personnes domiciliées dans le canton du Valais des prestations de base gratuites dans les domaines définis aux articles 12 et 13 de la présente ordonnance. Il peut également proposer des prestations élargies payantes à des groupes spécifiques d’usagers.
 
 <sup>2</sup> …
 

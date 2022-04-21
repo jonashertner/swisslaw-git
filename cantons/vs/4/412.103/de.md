@@ -1,23 +1,24 @@
 ---
 canton: VS
 number: "412.103"
-title: "Verordnung über die Berufs-, Studien- und Laufbahnberatung"
+title: "Verordnung über die Berufs-, Studien- und Laufbahnberatung *"
 short: VBSLB
 language: de
-version: 2020-03-01
-corrected: 2020-03-26
-version_adopted: 2020-03-18
+version: 2022-04-22
+version_adopted: 2022-09-14
 adopted: 2012-12-19
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/412.103"
-pdf: "https://lex.vs.ch/api/de/versions/2636/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3068/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Berufs-, Studien- und Laufbahnberatung
 
-vom 19.12.2012 (Stand 01.03.2020)
+(VBSLB)
+
+vom 19.12.2012 (Stand 22.04.2022)
 
 Der Staatsrat des Kantons Wallis
 
@@ -27,11 +28,11 @@ eingesehen die Artikel 49 bis 51 des Bundesgesetzes über die Berufsbildung vom 
 
 eingesehen den Artikel 55 der Verordnung des Bundes über die Berufsbildung vom 19. November 2003 (BBV);
 
-eingesehen die Artikel 14, 17 und 21 des Einführungsgesetzes zum Bundesgesetz über die Berufsbildung vom 13. Juni 2008 (EGBBG);
+eingesehen die Artikel 14, 17a und 21 des Einführungsgesetzes zum Bundesgesetz über die Berufsbildung vom 13. Juni 2008 (EGBBG);
 
 eingesehen die Artikel 52, 53 und 55 des Gesetzes über die Orientierungsschule vom 10. September 2009 (GOS);
 
-eingesehen den Artikel 5 Absatz 3 Buchstabe a Ziffer 7 der Verordnung über die Direktionen der obligatorischen Schulen einschliesslich des Kindergartens vom 20. Juni 2012;
+eingesehen den Artikel 5 Absatz 3 Buchstabe a Ziffer 7 der Verordnung über die Direktionen der obligatorischen Schulen vom 20. Juni 2012;
 
 auf Antrag des für die Bildung zuständigen Departements,
 
@@ -131,8 +132,8 @@ verordnet:
 
 - a) sie erteilt grundsätzlich den Berufswahlunterricht und achtet darauf, dass alle Jugendlichen ihr Berufswahlportfolio ausfüllen und es während den drei Schuljahren aufbewahren;
 - b) sie koordiniert mit dem Einverständnis der Eltern und unter deren Verantwortung Berufswahlpraktika (Schnupperlehren), die im Berufswahlunterricht vorbereitet werden;
-- c) sie erstellt im 2. Jahr das Attest für die Beurteilung der allgemeinen Kompetenzen aller Jugendlichen auf Vormeinung des Klassenrates und gemäss den Weisungen des Departementes;
-- d) sie führt im 2. Jahr die Bilanz der Berufswahl gemäss Weisungen des Departements durch;
+- c) sie erstellt in der 10OS das Attest für die Beurteilung der allgemeinen Kompetenzen aller Jugendlichen auf Vormeinung des Klassenrates und gemäss den Weisungen des Departementes;
+- d) sie führt in der 10OS die Bilanz der Berufswahl gemäss Weisungen des Departements durch;
 - e) sie kann eine Beratungsperson für die Aufgabe unter Buchstabe d beiziehen, wenn ein Jugendlicher oder eine Jugendliche besondere Schwierigkeiten bei der Berufswahl hat oder wenn die Eltern darum ersuchen.
 
 <sup>3</sup> Die Klassenlehrperson untersteht einem Pflichtenheft, welches vom Departement erlassen wird.
@@ -143,7 +144,7 @@ verordnet:
 
 **Aufgaben**
 
-<sup>1</sup> Die Ämter für Berufs-, Studien- und Laufbahnberatung (nachfolgend: Ämter) stellen den Schuldirektionen der Sekundarstufe I Beratungspersonen zur Verfügung.
+<sup>1</sup> Das Amt für Berufs-, Studien- und Laufbahnberatung (nachfolgend: das Amt) stellt den Schuldirektionen der Sekundarstufe I Beratungspersonen zur Verfügung.
 
 <sup>2</sup> Die Beratungspersonen bilden die Lehrpersonen in der Methodik und Didaktik des pädagogischen Materials für den Berufswahlunterricht aus, welches vom Departement validiert wird.
 
@@ -177,7 +178,7 @@ verordnet:
   - 2\. in Zusammenarbeit mit den Klassenlehrpersonen Kontrolle der beruflichen Lösungen der Jugendlichen, die die OS verlassen, und Aufgabenteilung mit den Lehrpersonen für die Unterstützung jener Jugendlichen, deren Lösung nicht zustande gekommen ist; dies bis sechs Monate nach Ende der OS,
   - 3\. Zurverfügungstellen von Dokumentationen über die Berufe und Ausbildungen,
   - 4\. Organisation von kollektiven Informationsveranstaltungen über Berufe und Ausbildungen (Infopass) und Teilnahme an den Informationsveranstaltungen, die von den Schulen und vom Departement organisiert werden,
-  - 5\. Teilnahme an der Weiterbildung der Lehrpersonen über Themen im Zusammenhang mit der Berufswahl, welche von den Ämtern organisiert wird,
+  - 5\. Teilnahme an der Weiterbildung der Lehrpersonen über Themen im Zusammenhang mit der Berufswahl, welche vom Amt organisiert wird,
   - 6\. Verwaltung der Beratungsstelle;
 - c) was die Region betrifft:
   - 1\. Mitarbeit an kollektiven Informationsveranstaltungen, die mit den Berufsverbänden organisiert werden (Berufsmessen, Berufstage usw.),
@@ -229,22 +230,22 @@ verordnet:
 
 **Grundangebot**
 
-<sup>1</sup> Die Ämter organisieren ihre Tätigkeiten im Bereich des Grundangebots in erster Linie, um den Bedürfnissen der Jugendlichen zu entsprechen, die die öffentlichen Schulen der Sekundarstufe I und die Schulen zur Berufsvorbereitung besuchen.
+<sup>1</sup> Das Amt organisiert seine Tätigkeiten im Bereich des Grundangebots in erster Linie, um den Bedürfnissen der Jugendlichen zu entsprechen, die die öffentlichen Schulen der Sekundarstufe I und die Schulen zur Berufsvorbereitung besuchen.
 
-<sup>2</sup> Das Grundangebot der Ämter richtet sich ebenfalls an:
+<sup>2</sup> Das Grundangebot des Amts richtet sich ebenfalls an:
 
 - a) Jugendliche der allgemeinbildenden und berufsbildenden Schulen der Sekundarstufe II;
 - b) Personen, die keine Schule besuchen und kein Diplom der Sekundarstufe II haben.
 
-<sup>3</sup> Das Grundangebot der Ämter richtet sich ausserdem an Jugendliche und Erwachsene, die ein Diplom der Sekundarstufe II haben.
+<sup>3</sup> Das Grundangebot des Amts richtet sich ausserdem an Jugendliche und Erwachsene, die ein Diplom der Sekundarstufe II haben.
 
 #### Art. 15
 
 **Erweiterte Dienstleistungen**
 
-<sup>1</sup> Die erweiterten Dienstleistungen der Ämter für spezifische Benutzergruppen richten sich an die Partner der interinstitutionellen Zusammenarbeit und der damit verbundenen Institutionen, an die Unternehmen, an die Privatschulen und an jede Organisation, die nicht zu den Kategorien nach Artikel 14 gehören.
+<sup>1</sup> Die erweiterten Dienstleistungen des Amts für spezifische Benutzergruppen richten sich an die Partner der interinstitutionellen Zusammenarbeit und der damit verbundenen Institutionen, an die Unternehmen, an die Privatschulen und an jede Organisation, die nicht zu den Kategorien nach Artikel 14 gehören.
 
-<sup>2</sup> Die Ämter berücksichtigen die Anfragen dieses Zielpublikums in der Organisation der erweiterten Dienstleistungen, um der Nachfrage entsprechen können.
+<sup>2</sup> Das Amt berücksichtigt die Anfragen dieses Zielpublikums in der Organisation der erweiterten Dienstleistungen, um der Nachfrage entsprechen zu können.
 
 #### Art. 16
 
@@ -270,14 +271,14 @@ verordnet:
 - e) Interinstitutionelle Zusammenarbeit mit den Instanzen, die mit der beruflichen Eingliederung beauftragt sind, namentlich die Invalidenversicherung (IV), die sozialmedizinischen Zentren (SMZ) und die regionalen Arbeitsvermittlungszentren (RAV);
 - f) Institutionelle Anerkennung von Kompetenzen (IA) für Erwachsene ohne Diplom in Zusammenarbeit mit den Berufsverbänden;
 - g) Mitarbeit an der Förderung der Weiterbildung für Erwachsene, namentlich mit einer Information über die verschiedenen Kursmöglichkeiten für Erwachsene;
-- h) Unterstützung der Zertifizierungsverfahren für Erwachsene, namentlich die Validierung erworbener Fähigkeiten;
+- h) Mitarbeit bei den Zertifizierungsverfahren für Erwachsene, namentlich die Validierung erworbener Fähigkeiten;
 - i) Koordination und Schaffung von Zusammenarbeitsnetzwerken mit den regionalen Partnern (Weiterbildungszentren, Gemeinden, Unternehmen und regionale Berufsverbände, Fachstellen, Schulen der Tertiärstufe).
 
 #### Art. 18
 
 **Aufteilung der Mittel für das Grundangebot in den BIZ**
 
-<sup>1</sup> L’office répartit les ressources en conseillers attribuées à chaque CIO sur la base d’un modèle qui prend en compte la population desservie et ses besoins d’orientation ainsi que le contexte socio-économique régional.
+<sup>1</sup> Das Amt teilt die Personal-Ressourcen, die jedem BIZ zugeteilt werden, aufgrund eines Modells auf, welches die bediente Bevölkerung und deren Beratungsbedürfnisse sowie das regionale sozioökonomische Umfeld berücksichtigt.
 
 <sup>2</sup> Das notwendige administrative Personal und Begleitpersonal wird je nach Anzahl der Beratungspersonen des BIZ bestimmt.
 
@@ -325,7 +326,7 @@ verordnet:
 - c) Beratungsaufträge für Institutionen und Unternehmen;
 - d) Beratungsdienstleistungen für nicht subventionierte private Schulen und Institutionen.
 
-<sup>3</sup> Betriebe, die Lernende ausbilden, können je nach den budgetären Möglichkeiten der Ämter in den Genuss von Vorzugstarifen kommen.
+<sup>3</sup> Betriebe, die Lernende ausbilden, können je nach den budgetären Möglichkeiten des Amts in den Genuss von Vorzugstarifen kommen.
 
 #### Art. 22
 
@@ -345,20 +346,20 @@ verordnet:
 
 **Organisation**
 
-<sup>1</sup> Die Berufsberatung ist der kantonalen Dienststelle für Berufsbildung angegliedert.
+<sup>1</sup> Die Berufsberatung ist der kantonalen Dienststelle für Hochschulwesen (nachfolgend: die Dienststelle) angegliedert.
 
-<sup>2</sup> Die regionalen Ämter befinden sich in den beiden Sprachregionen des Kantons, eines in Brig für das Oberwallis und das andere in Sitten für das französischsprachige Wallis.
+<sup>2</sup> Das Amt ist in beiden Sprachregionen des Kantons präsent.
 
 #### Art. 25
 
-**Zuständigkeiten der Ämter**
+**Zuständigkeiten des Amts**
 
-<sup>1</sup> Die Ämter verwalten:
+<sup>1</sup> Das Amt verwaltet:
 
 - a) die Beratungsstellen für die öffentlichen Schulen der Sekundarstufen I und II;
 - b) die BIZ in den sozioökonomischen Regionen Monthey, Martigny, Sitten, Siders und Brig, die der gesamte Bevölkerung offenstehen.
 
-<sup>2</sup> Jedes Amt sorgt namentlich für:
+<sup>2</sup> Das Amt sorgt namentlich für:
 
 - a) die Erfüllung der gesetzlichen Aufgaben der Berufsberatung;
 - b) die Aufteilung der Mittel und das Personalmanagement;
@@ -370,9 +371,9 @@ verordnet:
 
 #### Art. 26
 
-**Personal der Ämter**
+**Personal des Amts**
 
-<sup>1</sup> Das Personal der Ämter, das namentlich die Beratungspersonen umfasst, untersteht dem Gesetz über das Personal des Staates Wallis.
+<sup>1</sup> Das Personal des Amts, das insbesondere die Berufs-, Studien- und Laufbahnberater (nachfolgend: die Berater) umfasst, untersteht dem Gesetz über das Personal des Staates Wallis (kGPers).
 
 <sup>2</sup> Die Beratungspersonen müssen über die Ausbildung und Berufserfahrung verfügen, die im Gesetz und in der Verordnung des Bundes über die Berufsbildung festgelegt oder vom Staatsrat als gleichwertig anerkannt wird.
 
@@ -386,7 +387,7 @@ verordnet:
 
 **Aufteilung der Mittel für die dezentralen Beratungsstellen**
 
-<sup>1</sup> Das Personal der Ämter gewährleistet den Betrieb von Beratungsstellen vor Ort für die Schulen der Sekundarstufen I und II.
+<sup>1</sup> Das Personal des Amts gewährleistet den Betrieb von Beratungsstellen vor Ort für die Schulen der Sekundarstufen I und II.
 
 <sup>2</sup> Das Amt verteilt die Mittel, die jeder dezentralen Beratungsstelle zugeteilt werden, namentlich die Präsenz der Beratungsperson; dabei berücksichtigt es folgende Punkte:
 
@@ -406,7 +407,7 @@ verordnet:
 
 <sup>2</sup> Der Unterhalt des Mobiliars und die Kosten für Telefongespräche und Internet gehen zulasten der Schule, beziehungsweise der Gemeinden für die Sekundarstufe I.
 
-<sup>3</sup> Das technische Material (Tests, Dokumentation), das Büromaterial (Papier, Toner, Ordner) und die Informatikausrüstung gehen zu Lasten der Ämter.
+<sup>3</sup> Das technische Material (Tests, Dokumentation), das Büromaterial (Papier, Toner, Ordner) und die Informatikausrüstung gehen zu Lasten des Amts.
 
 <sup>4</sup> Die audiovisuelle Ausrüstung, das Informatikzimmer und die übrigen Einrichtungen der Schule werden dem Personal der Berufsberatung je nach Bedarf und Verfügbarkeit zur Verfügung gestellt.
 
@@ -418,11 +419,11 @@ verordnet:
 
 **Koordination**
 
-<sup>1</sup> Die Ämter des Oberwallis und des französischsprachigen Wallis koordinieren ihre Tätigkeiten und sorgen auch für die interkantonale Koordination.
+<sup>1</sup> Das Amt sorgt für die interkantonale Koordination.
 
-<sup>2</sup> Die Ämter arbeiten mit den übrigen Dienststellen des Staates, die von ihren Tätigkeiten betroffen sind, der öffentlichen Hand und den Partnern zusammen, die von der Berufs- und Laufbahnwahl betroffen sind.
+<sup>2</sup> Das Amt arbeitet mit den übrigen Dienststellen des Staates, die von seinen Tätigkeiten betroffen sind, der öffentlichen Hand und den Partnern zusammen, die von der Berufs- und Laufbahnwahl betroffen sind.
 
-<sup>3</sup> Die Ämter engagieren sich in der interinstitutionellen Zusammenarbeit, um den Jugendlichen und Erwachsenen in Schwierigkeiten die besten Chancen zu bieten, damit sie den Übergang zwischen obligatorischer Schule und der allgemeinbildenden und berufsbildenden Sekunderstufe II sowie den Übergang in die Arbeitswelt schaffen.
+<sup>3</sup> Das Amt engagiert sich in der interinstitutionellen Zusammenarbeit, um den Jugendlichen und Erwachsenen in Schwierigkeiten die besten Chancen zu bieten, damit sie den Übergang zwischen obligatorischer Schule und der allgemeinbildenden und berufsbildenden Sekundarstufe II sowie den Übergang in die Arbeitswelt schaffen.
 
 ### 4.4 Finanzierung
 
@@ -430,7 +431,7 @@ verordnet:
 
 **Finanzierung**
 
-<sup>1</sup> Die Ämter bieten Personen, die im Kanton Wallis wohnhaft sind, in den Bereichen nach Artikeln 12 und 13 dieser Verordnung ein kostenloses Grundangebot an. Sie können auch kostenpflichtige erweiterte Dienstleistungen für spezifische Benutzergruppen anbieten.
+<sup>1</sup> Das Amt bietet Personen, die im Kanton Wallis wohnhaft sind, in den Bereichen nach Artikeln 12 und 13 dieser Verordnung ein kostenloses Grundangebot an. Es kann auch kostenpflichtige erweiterte Dienstleistungen für spezifische Benutzergruppen anbieten.
 
 <sup>2</sup> …
 
