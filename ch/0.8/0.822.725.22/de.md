@@ -4,11 +4,11 @@ title: Europäisches Übereinkommen vom 1. Juli 1970 über die Arbeit des im int
 short: AETR
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/268"
 language: de
-version: 2021-11-16
+version: 2022-04-23
 adopted: 1970-07-01
 in_force: 2000-10-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/fedlex-data-admin-ch-eli-cc-2003-268-20211116-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/268/20211116/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/de/xml/fedlex-data-admin-ch-eli-cc-2003-268-20220423-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/268/20220423/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -29,7 +29,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 7. April 2000
 
 In Kraft getreten für die Schweiz am 4. Oktober 2000
 
-(Stand am 16. November 2021)
+(Stand am 23. April 2022)
 
 [^t-1]: [AS 2003 1764](https://fedlex.data.admin.ch/eli/oc/2003/267)
 
@@ -45,7 +45,7 @@ haben Folgendes vereinbart:
 
 **Begriffsbestimmungen**
 
-Im Sinne dieses Übereinkommens bedeutet,
+Im Sinne dieses Übereinkommens bedeutet:
 
 - a) «Fahrzeug» jedes Motorfahrzeug oder jeden Anhänger; dieser Begriff schliesst miteinander verbundene Fahrzeuge ein;
 - b) «Motorfahrzeuge» jedes mit eigener Kraft verkehrende Strassenfahrzeug mit Antriebsmotor, das üblicherweise auf der Strasse der Beförderung von Personen oder Gütern oder dem Ziehen von Fahrzeugen dient, die für die Personen- oder Güterbeförderung benutzt werden; dieser Begriff schliesst landwirtschaftliche Zugmaschinen nicht ein;
@@ -157,7 +157,7 @@ Das Mindestalter der im Güterverkehr eingesetzten Fahrer wird festgesetzt:
 
 <sup>2.</sup> Die im Personenverkehr eingesetzten Fahrer müssen mindestens 21 Jahre alt sein.
 
-Die im Personenverkehr im Umkreis von mehr als 50 km um den Standort des Fahrzeugs eingesetzten Fahrer müssen ausserdem
+Die im Personenverkehr im Umkreis von mehr als 50 km um den Standort des Fahrzeugs eingesetzten Fahrer müssen ausserdem:
 
 - a) mindestens ein Jahr lang die Tätigkeit eines im Güterverkehr eingesetzten Fahrers von Fahrzeugen mit einem zulässigen Höchstgewicht von mehr als 3,5 Tonnen ausgeübt haben, oder
 - b) mindestens ein Jahr lang die Tätigkeit eines Fahrers ausgeübt haben, der im Personenverkehr im Umkreis von bis zu 50 km um den Standort des Fahrzeugs oder in anderen Arten der Personenbeförderung eingesetzt war, die nicht unter dieses Übereinkommen fallen, aber nach Auffassung der zuständigen Behörde die erforderliche Erfahrung verliehen haben, oder
@@ -412,7 +412,7 @@ Die am Ende der Absätze 7 Buchstabe a und 7 Buchstabe b von Artikel 12 des Anha
 
 **Schlussbestimmungen**
 
-<sup>1.</sup> Dieses Übereinkommen liegt bis zum 31. März 1971 zur Unterzeichnung auf, nach diesem Tag liegt es für die Mitgliedstaaten der Wirtschaftskommission für Europa und für Staaten, die nach Absatz 8 oder 11 der Statuten in beratender Eigenschaft zu dieser Kommission zugelassen sind, zum Beitritt auf. Der Beitritt gestützt auf Absatz 11 der Statuten ist beschränkt auf folgende Staaten: Algerien, Jordanien, Libanon, Marokko und Tunesien.[^14-1]
+<sup>1.</sup> Dieses Übereinkommen liegt bis zum 31. März 1971 zur Unterzeichnung auf, nach diesem Tag liegt es für die Mitgliedstaaten der Wirtschaftskommission für Europa und für Staaten, die nach Absatz 8 oder 11 der Statuten in beratender Eigenschaft zu dieser Kommission zugelassen sind, zum Beitritt auf. Der Beitritt gestützt auf Absatz 11 der Statuten ist beschränkt auf folgende Staaten: Algerien, Ägypten, Jordanien, Libanon, Marokko und Tunesien.[^14-1]
 
 <sup>2.</sup> Das Übereinkommen bedarf der Ratifikation.
 
@@ -422,7 +422,7 @@ Die am Ende der Absätze 7 Buchstabe a und 7 Buchstabe b von Artikel 12 des Anha
 
 <sup>5.</sup> Für jeden Staat, der dieses Übereinkommen nach der in Absatz 4 genannten Hinterlegung der achten Ratifikations- oder Beitrittsurkunde ratifiziert oder ihm beitritt, tritt dieses Übereinkommen am hundertachtzigsten Tag nach der Hinterlegung seiner eigenen Ratifikations- oder Beitrittsurkunde in Kraft.
 
-[^14-1]: Fassung gemäss Änd. vom 18. Okt. 2017, in Kraft für die Schweiz seit 8. Jan. 2020 ([AS 2020 349](https://fedlex.data.admin.ch/eli/oc/2020/56)).
+[^14-1]: Fassung gemäss Änd. vom 21. Okt. 2020, in Kraft für die Schweiz seit 23. April 2022 ([AS 2022 91](https://fedlex.data.admin.ch/eli/oc/2022/91)).
 
 #### Art. 15
 
@@ -571,7 +571,7 @@ Nach dem 31. März 1971 wird die Urschrift dieses Übereinkommens beim Generalse
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Genf am 1. Juli 1970, in einer Urschrift in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist. (Es folgen die Unterschriften)
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 ## Kontrollgerät Allgemeine Vorschriften
 
@@ -728,17 +728,17 @@ Der Fahrer:
 - – achtet darauf, dass die Zeitmarkierung auf dem Einlageblatt mit der gesetzlichen Zeit des Landes übereinstimmt, in dem das Fahrzeug zugelassen ist;
 - – betätigt die Schaltvorrichtung des Kontrollgeräts so, dass folgende Zeiten getrennt und unterscheidbar aufgezeichnet werden:
 
-(a) unter dem Zeichen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image1.png)</sub> oder <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image2.png)</sub><sup><sup>\*</sup></sup>: die Lenkzeiten, (b) unter dem Zeichen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image3.png)</sub> oder <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image4.png)</sub><sup><sup>\*</sup></sup>: alle sonstigen Arbeitszeiten, (c) unter dem Zeichen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image5.png)</sub> oder <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image6.png)</sub><sup><sup>\*</sup></sup>: die Bereitschaftszeit, also:
+(a) unter dem Zeichen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/de/xml/image/image1.png)</sub> oder <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/de/xml/image/image2.png)</sub><sup><sup>\*</sup></sup>: die Lenkzeiten, (b) unter dem Zeichen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/de/xml/image/image3.png)</sub> oder <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/de/xml/image/image4.png)</sub><sup><sup>\*</sup></sup>: alle sonstigen Arbeitszeiten, (c) unter dem Zeichen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/de/xml/image/image5.png)</sub> oder <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/de/xml/image/image6.png)</sub><sup><sup>\*</sup></sup>: die Bereitschaftszeit, also:
 
 - – Wartezeit, d. h. die Zeit, in der die Fahrer nur an ihrem Arbeitsplatz verbleiben müssen, um der etwaigen Aufforderung nachzukommen, die Fahrtätigkeit aufzunehmen bzw. wieder aufzunehmen oder andere Arbeiten zu verrichten,
 - – die während der Fahrt neben dem Fahrer verbrachte Zeit,
 - – die während der Fahrt in einer Schlafkabine verbrachte Zeit,
 
 <table>
-<tr><td>(d) unter dem Zeichen</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image7.png)</sub></td><td>oder</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image8.png)</sub><sup><sup>\*</sup></sup>:</td><td>die Arbeitsunterbrechungen und die Tagesruhezeiten.</td></tr>
+<tr><td>(d) unter dem Zeichen</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/de/xml/image/image7.png)</sub></td><td>oder</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/de/xml/image/image8.png)</sub><sup><sup>\*</sup></sup>:</td><td>die Arbeitsunterbrechungen und die Tagesruhezeiten.</td></tr>
 </table>
 
-<sup>4.</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image9.png)Jeder Vertragsstaat kann gestatten, dass die in Absatz 3 zweiter Gedankenstrich Buchstaben (b) und (c) genannten Zeiträume in die Einlageblätter, die für die in seinem Hoheitsgebiet zugelassenen Fahrzeuge verwendet werden, sämtlich unter dem Zeichen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image5.png)</sub> eingetragen werden.
+<sup>4.</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/de/xml/image/image9.png)Jeder Vertragsstaat kann gestatten, dass die in Absatz 3 zweiter Gedankenstrich Buchstaben (b) und (c) genannten Zeiträume in die Einlageblätter, die für die in seinem Hoheitsgebiet zugelassenen Fahrzeuge verwendet werden, sämtlich unter dem Zeichen <sub><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/de/xml/image/image10.png)</sub></sub> eingetragen werden.
 
 <sup>5.</sup> 5<sup>bis</sup>. Der Fahrer gibt in das Kontrollgerät gemäss Anlage 1B das Symbol des Landes, in dem er seinen Arbeitstag beginnt, und das Symbol des Landes ein, in dem er seinen Arbeitstag beendet.
 
@@ -841,15 +841,15 @@ Für die dauerhafte Aufzeichnung von Angaben geeignetes Blatt, das in das Kontro
 
 c) Konstante des Kontrollgerätes:
 
-Kenngrösse, die den Wert des Eingangssignals angibt, der für das Anzeigen und Aufzeichnen einer zurückgelegten Wegstrecke von 1 km erforderlich ist; diese Konstante wird ausgedrückt in Umdrehungen je Kilometer (k = ... U/km) oder in Impulsen je Kilometer (k = ... Imp/km).
+Kenngrösse, die den Wert des Eingangssignals angibt, der für das Anzeigen und Aufzeichnen einer zurückgelegten Wegstrecke von 1 km erforderlich ist; diese Konstante wird ausgedrückt in Umdrehungen je Kilometer (k = … U/km) oder in Impulsen je Kilometer (k = … Imp/km).
 
 d) Wegdrehzahl des Motorfahrzeugs:
 
-Kenngrösse, die den Zahlenwert des Ausgangssignals angibt, das am Anschlussstutzen für das Kontrollgerät am Motorfahrzeug entsteht (in einigen Fällen Getriebestutzen und in anderen Fällen Radachse) bei einer unter den normalen Prüfbedingungen zurückgelegten Wegstrecke von einem Kilometer (vgl. Kapitel VI Nummer 4 dieser Anlage). Die Wegdrehzahl wird in Umdrehungen je Kilometer (w = ... U/km) oder in Impulsen je Kilometer (w = ... Imp/km) ausgedrückt.
+Kenngrösse, die den Zahlenwert des Ausgangssignals angibt, das am Anschlussstutzen für das Kontrollgerät am Motorfahrzeug entsteht (in einigen Fällen Getriebestutzen und in anderen Fällen Radachse) bei einer unter den normalen Prüfbedingungen zurückgelegten Wegstrecke von einem Kilometer (vgl. Kapitel VI Nummer 4 dieser Anlage). Die Wegdrehzahl wird in Umdrehungen je Kilometer (w = … U/km) oder in Impulsen je Kilometer (w = … Imp/km) ausgedrückt.
 
 e) Wirksamer Umfang der Fahrzeugräder:
 
-Mittelwert der von jedem Antriebsrad bei einer vollen Umdrehung zurückgelegten Wegstrecke. Die Messung dieser Wegstrecken muss unter den normalen Prüfbedingungen erfolgen (vgl. Kapitel VI Nummer 4 dieser Anlage) und wird in folgender Form ausgedrückt: 1 = ... mm.
+Mittelwert der von jedem Antriebsrad bei einer vollen Umdrehung zurückgelegten Wegstrecke. Die Messung dieser Wegstrecken muss unter den normalen Prüfbedingungen erfolgen (vgl. Kapitel VI Nummer 4 dieser Anlage) und wird in folgender Form ausgedrückt: 1 = … mm.
 
 ### II. Allgemeine Funktionsmerkmale des Kontrollgerätes
 
@@ -974,9 +974,9 @@ Die Zeitanzeige muss auf dem Gerät von aussen sichtbar sein und sich zuverläss
 - a) Kontrollgeräte müssen so gebaut sein, dass die Lenkzeit immer automatisch aufgezeichnet wird und die übrigen Zeitgruppen durch die Betätigung einer Schaltvorrichtung unterscheidbar aufgezeichnet werden können:
 
 <table>
-<tr><td></td><td>i)</td><td>unter dem Zeichen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image10.png)</td><td>:</td><td>die Lenkzeiten;</td></tr>
-<tr><td></td><td>ii)</td><td>unter dem Zeichen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image11.png)</td><td>:</td><td>alle sonstigen Arbeitszeiten;</td></tr>
-<tr><td></td><td>iii)</td><td>unter dem Zeichen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image12.png)</td><td>:</td><td>die Bereitschaftszeit,</td></tr>
+<tr><td></td><td>i)</td><td>unter dem Zeichen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/de/xml/image/image11.png)</td><td>:</td><td>die Lenkzeiten;</td></tr>
+<tr><td></td><td>ii)</td><td>unter dem Zeichen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/de/xml/image/image12.png)</td><td>:</td><td>alle sonstigen Arbeitszeiten;</td></tr>
+<tr><td></td><td>iii)</td><td>unter dem Zeichen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/de/xml/image/image10.png)</td><td>:</td><td>die Bereitschaftszeit,</td></tr>
 </table>
 
 - also
@@ -985,8 +985,8 @@ Die Zeitanzeige muss auf dem Gerät von aussen sichtbar sein und sich zuverläss
   - – die während der Fahrt in einer Schlafkabine verbrachte Zeit;
 
 <table>
-<tr><td></td><td>iv)</td><td>unter dem Zeichen.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image7.png)</td><td>:</td><td>die Arbeitsunterbrechungen und die Tagesruhezeiten.</td></tr>
-<tr><td colspan="6">Jede Vertragspartei kann gestatten, dass die vorstehend unter Buchstabe ii) und iii) genannten Zeiträume in die Einlageblätter, die für die in ihrem Hoheitsgebiet zugelassenen Fahrzeuge verwendet werden, sämtlich unter dem Zeichen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image12.png)</sub> eingetragen werden.</td></tr>
+<tr><td></td><td>iv)</td><td>unter dem Zeichen.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/de/xml/image/image7.png)</td><td>:</td><td>die Arbeitsunterbrechungen und die Tagesruhezeiten.</td></tr>
+<tr><td colspan="6">Jede Vertragspartei kann gestatten, dass die vorstehend unter Buchstabe ii) und iii) genannten Zeiträume in die Einlageblätter, die für die in ihrem Hoheitsgebiet zugelassenen Fahrzeuge verwendet werden, sämtlich unter dem Zeichen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/de/xml/image/image10.png)</sub> eingetragen werden.</td></tr>
 </table>
 
 - b) Aus der Beschaffenheit der Schreibspuren, ihrer Anordnung und gegebenenfalls den in Nr. 4 Buchstabe a) vorgesehenen Zeichen muss einwandfrei erkennbar sein, um welche Zeitgruppe es sich handelt. Die einzelnen Zeitgruppen werden auf dem Einlageblatt durch unterschiedliche Breiten der Schreibspuren oder in jeder anderen Form dargestellt, die eine mindestens gleiche Ablesbarkeit und Auswertbarkeit des Einlageblatts sicherstellt.
@@ -1004,7 +1004,7 @@ Die Zeitanzeige muss auf dem Gerät von aussen sichtbar sein und sich zuverläss
 
 - – in unmittelbarer Nähe der Anzeige des Wegstreckenzählers die Masseinheit der zurückgelegten Wegstrecken mit der Abkürzung «km»;
 - – in der Nähe der Geschwindigkeit die Abkürzung «km/h»;
-- – der Messbereich des Geschwindigkeitsmessgeräts in der Form «Vmin. ... km/h, Vmax. ... km/h». Diese Bezeichnung kann fehlen, wenn sie auf dem Typenschild des Gerätes erscheint.
+- – der Messbereich des Geschwindigkeitsmessgeräts in der Form «Vmin. … km/h, Vmax. … km/h». Diese Bezeichnung kann fehlen, wenn sie auf dem Typenschild des Gerätes erscheint.
 - [tab] Diese Vorschriften gelten jedoch nicht für Kontrollgeräte, für die die Bauartgenehmigung vor dem 10. August 1970 erteilt wurde.
 
 \2. Das mit dem Gerät verbundene Typenschild muss folgende Angaben enthalten, die auf dem eingebauten Gerät leicht ablesbar sein müssen:
@@ -1012,11 +1012,11 @@ Die Zeitanzeige muss auf dem Gerät von aussen sichtbar sein und sich zuverläss
 - – Name und Adresse des Herstellers;
 - – Fabriknummer und Baujahr;
 - – Prüfzeichen des Gerätetyps;
-- – die Gerätekonstante in der Form «k = ... U/km» oder «k = ... Imp/km»;
+- – die Gerätekonstante in der Form «k = … U/km» oder «k = … Imp/km»;
 - – gegebenenfalls Geschwindigkeitsmessbereich in der unter Nummer 1 angegebenen Form;
 - – falls das Gerät so neigungsempfindlich ist, dass hierdurch die zulässigen Fehlergrenzen bei den Angaben des Geräts überschritten werden: die zulässige Neigung in der Form
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/de/xml/image/image13.png)
 
 - wobei α der von der waagerechten Stellung der (nach oben geneigten) Vorderseite des betreffenden Gerätes aus gemessene Winkel ist; β und γ sind die höchstzulässigen Neigungsausschläge nach oben und unten gegenüber dem Winkel.
 
@@ -1123,8 +1123,8 @@ Motorfahrzeuge mit mehreren Hinterachsuntersetzungen müssen mit einer Umschalte
 Das Einbauschild muss mindestens die nachstehenden Angaben enthalten:
 
 - – Name, Adresse oder Firmenzeichen des zugelassenen Installateurs oder der zugelassenen Werkstatt;
-- – Wegdrehzahl des Kraftfahrzeugs in der Form «w = ... U/km» oder «w = ... Imp/km»;
-- – wirksamer Reifenumfang in der Form «I = ... mm»;
+- – Wegdrehzahl des Kraftfahrzeugs in der Form «w = … U/km» oder «w = … Imp/km»;
+- – wirksamer Reifenumfang in der Form «I = … mm»;
 - – Datum der Messung der Wegdrehzahl des Fahrzeugs und des wirksamen Reifenumfangs.
 
 ### B. Plombierung
@@ -1182,7 +1182,7 @@ Die Messung der Anzeigefehler beim Einbau und während der Benutzung wird unter 
 - – Reifenabnutzung innerhalb der gesetzlich zulässigen Grenze;
 - – Bewegung des Fahrzeugs: das Fahrzeug muss sich mit eigener Motorkraft geradlinig auf ebenem Gelände und mit einer Geschwindigkeit von 50 ±5 km/h fortbewegen; die Messung kann auch auf einem geeigneten Prüfstand durchgeführt werden, sofern sie eine vergleichbare Genauigkeit bietet.
 
-Anlage 1B*[^t-3]*
+Anlage 1B[^t-3]
 
 ## Vorschriften über Bau, Prüfung, Einbau und Kontrolle des im Strassentransport verwendeten digitalen Registrierungsmaterials
 
@@ -1192,13 +1192,13 @@ Anlage 1B*[^t-3]*
 
 **Präambel**
 
-<sup>1.</sup> Diese Anlage ist eine Anpassung des Anhangs 1B der Verordnung (EWG) Nr. 3821/85 vom 20. Dezember 1985 über das Kontrollgerät im Strassenverkehr[^annexu1-lvlu1-1-1]. Der Inhalt dieses Anhangs wird im AETR wegen seines Umfangs und äusserst technischen Charakters nicht wiedergegeben. Den offiziellen Gesetzestext finden die Vertragsparteien im Amtsblatt der Europäischen Union.
+<sup>1.</sup> Diese Anlage ist eine Anpassung des Anhangs 1B der Verordnung (EWG) Nr. 3821/85 vom 20. Dezember 1985 über das Kontrollgerät im Strassenverkehr[^annex1B-lvlu1-1-1]. Der Inhalt dieses Anhangs wird im AETR wegen seines Umfangs und äusserst technischen Charakters nicht wiedergegeben. Den offiziellen Gesetzestext finden die Vertragsparteien im Amtsblatt der Europäischen Union.
 
 Die Anlage 1B beschränkt sich darum darauf, die bibliographischen Angaben der relevanten Texte der Europäischen Union und ihre Veröffentlichung im Amtsblatt aufzuführen und mit Querverweisen auf jene Einzelpunkte hinzuweisen, für die der Anhang an den Kontext des AETR angepasst werden muss.
 
 <sup>2.</sup> Zur einfacheren Lesbarkeit dieses Anhangs und seinen Anpassungen, die im Zusammenhang mit dem AETR nötig sind, und um einen Gesamtüberblick dieses Anhangs zu erhalten, erarbeitet das Sekretariat der UN-Wirtschaftskommission für Europa eine konsolidierte Version. Dieser wird jedoch keine Gesetzeskraft zukommen. Sie wird in den offiziellen Sprachen der UN-ECE verfasst und nach Bedarf nachgeführt.
 
-[^annexu1-lvlu1-1-1]: Geändert durch die Verordnung (EG) Nr. 2135/98 des Rates vom 24. Sept. 1998 (ABl. L 274 vom 9. Okt. 1998), sowie die Verordnungen (EG) Nr. 1360/2002 der Kommission vom 13. Juni 2002 (ABl. L 207 vom 5. August 2002, Berichtigung ABl. L 77 vom 13. März 2004) und Nr. 432/2004 vom 5. März 2004 (ABl. L 71 vom 10. März 2004).
+[^annex1B-lvlu1-1-1]: Geändert durch die Verordnung (EG) Nr. 2135/98 des Rates vom 24. Sept. 1998 (ABl. L 274 vom 9. Okt. 1998), sowie die Verordnungen (EG) Nr. 1360/2002 der Kommission vom 13. Juni 2002 (ABl. L 207 vom 5. August 2002, Berichtigung ABl. L 77 vom 13. März 2004) und Nr. 432/2004 vom 5. März 2004 (ABl. L 71 vom 10. März 2004).
 
 #### Art. 2
 
@@ -1236,7 +1236,7 @@ Die Anlage 1B beschränkt sich darum darauf, die bibliographischen Angaben der r
 - 2\.4 Andere Änderungen und Löschungen:
 - 2\.4.1 Der Text der Ziffer 172 wird gelöscht und ersetzt durch: «Vorbehalten».
 - 2\.4.2 Ziffer 174 wird wie folgt geändert:
-- «das Unterscheidungszeichen der ausstellenden Vertragspartei. Die Unterscheidungszeichen von Nicht-EU-Staaten entsprechen den im Wiener Übereinkommen von 1968 über den Strassenverkehr[^annexu1-lvlu1-2-1] und im Genfer Abkommen von 1949 über den Strassenverkehr definierten Unterscheidungszeichen.»
+- «das Unterscheidungszeichen der ausstellenden Vertragspartei. Die Unterscheidungszeichen von Nicht-EU-Staaten entsprechen den im Wiener Übereinkommen von 1968 über den Strassenverkehr[^annex1B-lvlu1-2-1] und im Genfer Abkommen von 1949 über den Strassenverkehr definierten Unterscheidungszeichen.»
 - 2\.4.3 Ziffer 178: EU-Flagge mit Kürzel «MS» («Mitgliedstaat») wird ersetzt durch: «VP» («Vertragspartei»). Die Verwendung der Flagge von Vertragsparteien, die nicht Mitgliedstaaten der EU sind, ist freiwillig.
 - 2\.4.4 Ziffer 181 wird wie folgt geändert:
 - «Die Vertragsparteien können nach Absprache mit dem UNO-ECE-Sekretariat, unbeschadet der übrigen Bestimmungen dieser Anlage, Farben oder Zeichen als Sicherheitsmerkmale hinzufügen.»
@@ -1246,9 +1246,9 @@ Die Anlage 1B beschränkt sich darum darauf, die bibliographischen Angaben der r
 - 2\.4.7 Anlage 9/Unteranlage 9 AETR («Bauartgenehmigung – Mindestanforderungen an die durchzuführenden Prüfungen»), 1, 1-1, erster Satz wird wie folgt geändert:
 - «Die Bauartgenehmigung von Kontrollgeräten (oder deren Komponenten) oder einer Fahrtschreiberkarte beruht auf:»
 
-[^annexu1-lvlu1-2-1]: [SR 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)
+[^annex1B-lvlu1-2-1]: [SR 0.741.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2822)
 
-Anlage 2*[^t-4]*
+Anlage 2[^t-4]
 
 ## Prüfzeichen und Bauartgenehmigungsbögen
 
@@ -1258,7 +1258,7 @@ Anlage 2*[^t-4]*
 
 \1. Das Prüfzeichen besteht
 
-- – aus einem Rechteck, in dem der Buchstabe e) angebracht ist, gefolgt von der Kennzahl des Landes, das die Bauartgenehmigung erteilt hat, und zwar
+- – aus einem Rechteck, in dem der Buchstabe e) angebracht ist, gefolgt von der Kennzahl des Landes, das die Bauartgenehmigung erteilt hat, und zwar:
 
 <table>
 <tr><td></td><td>Deutschland</td><td>– 1</td><td>Dänemark</td><td>– 18</td><td>Bulgarien</td><td>– 34</td></tr>
@@ -1282,8 +1282,9 @@ Anlage 2*[^t-4]*
 Nachfolgende Nummern werden zugeteilt:
 
 - i) Ländern, die Vertragspartei des Abkommens von 1958 über die Annahme einheitlicher Zulassungsbedingungen und die gegenseitige Anerkennung von Zulassungen für Kraftfahrzeugausrüstung und -teile sind, dieselben Nummern, wie sie diesen Ländern im Rahmen dieses Abkommens zugeteilt wurden;
-- ii) Ländern, die Nichtvertragspartei des Abkommens von 1958 sind, in der chronologischen Reihenfolge der Ratifizierung oder des Beitritts zu diesem Abkommen; und
-- [tab] aus einer Bauartgenehmigungsnummer, die der Nummer des für das Muster des Kontrollgeräts oder des Einlageblatts ausgestellten Bauartgenehmigungsbogens entspricht und an einer beliebigen Stelle in der Nähe des Rechtecks anzubringen ist.
+- ii) Ländern, die Nichtvertragspartei des Abkommens von 1958 sind, in der chronologischen Reihenfolge der Ratifizierung oder des Beitritts zu diesem Abkommen;
+- und
+- aus einer Bauartgenehmigungsnummer, die der Nummer des für das Muster des Kontrollgeräts oder des Einlageblatts ausgestellten Bauartgenehmigungsbogens entspricht und an einer beliebigen Stelle in der Nähe des Rechtecks anzubringen ist.
 
 *Anmerkung:* Um eine künftige Übereinstimmung zwischen den Ländernummern im Abkommen von 1958 und den im AETR-Abkommen festgelegten Nummern zu gewährleisten, sollte neu beitretenden Ländern in beiden Abkommen dieselbe Nummer zugewiesen werden.
 
@@ -1291,7 +1292,7 @@ Nachfolgende Nummern werden zugeteilt:
 
 \3. Die nachstehend angegebenen Abmessungen des Prüfzeichens sind in Millimetern ausgedrückt und stellen die Mindestabmessungen dar. Die Relationen zwischen diesen Abmessungen müssen eingehalten werden.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/de/xml/image/image14.png)
 
 (1) Diese Zahlen sind lediglich als Beispiel angeführt
 
@@ -1364,7 +1365,7 @@ Bauartgenehmigungsbogen für Produkte, die die Anforderungen von Anlage 1B erfü
 <tr><td>(2)</td><td colspan="4">Komponente angeben, auf die sich die Mitteilung bezieht.</td></tr>
 </table>
 
-Anlage 3*[^t-5]*
+Anlage 3[^t-5]
 
 ## Musterformulare
 
@@ -1407,7 +1408,7 @@ Falsche Bescheinigungen stellen einen Verstoss gegen geltendes Recht dar/ *False
 <tr><td colspan="2">2</td><td colspan="5">Strasse, Postleitzahl, Ort/*Street address, postal code, city*: , ,</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Land/*Country*:</td><td colspan="2"></td><td></td></tr>
 <tr><td colspan="2">3</td><td colspan="5">Telefon-Nr. (mit internationaler Vorwahl)/*Telephone number (including international prefix):*</td></tr>
-<tr><td colspan="2">4</td><td colspan="5">Fax-Nr. (mit internationaler Vorwahl)/*Fax number (including international pr**e**fix):*</td></tr>
+<tr><td colspan="2">4</td><td colspan="5">Fax-Nr. (mit internationaler Vorwahl)/*Fax number (including international prefix):*</td></tr>
 <tr><td colspan="2">5</td><td colspan="5">E-Mail Adresse/*E-mail address:*</td></tr>
 <tr><td colspan="7">**Ich der/die Unterzeichnete** ***(I, the undersigned):***</td></tr>
 <tr><td colspan="2">6</td><td colspan="5">Name und Vorname/*Name and first name:*</td></tr>
@@ -1416,9 +1417,9 @@ Falsche Bescheinigungen stellen einen Verstoss gegen geltendes Recht dar/ *False
 <tr><td colspan="2">8</td><td colspan="5">Name und Vorname/*Name and first name:*</td></tr>
 <tr><td colspan="2">9</td><td colspan="5">Geburtsdatum (Tag/Monat/Jahr)/*Date of birth (day/month/year):* / /</td></tr>
 <tr><td colspan="2">10</td><td colspan="5">Nummer des Führerscheins, des Personalausweises oder des Reisepasses/ *Driving licence or identity card or passport number:*</td></tr>
-<tr><td colspan="2">11</td><td colspan="5">der/die im Unternehmen tätig ist seit (Tag/Monat/Jahr)*/* *who has started to work at the underta**k**ing on (day/month/year):* / /</td></tr>
+<tr><td colspan="2">11</td><td colspan="5">der/die im Unternehmen tätig ist seit (Tag/Monat/Jahr)*/* *who has started to work at the undertaking on (day/month/year):* / /</td></tr>
 <tr><td colspan="7">im Zeitraum/*for the period:*</td></tr>
-<tr><td colspan="2">12</td><td colspan="5">von (Uhrzeit/Tag/Monat/Jahr)/*from (hour/day/m**onth/year):* / / /</td></tr>
+<tr><td colspan="2">12</td><td colspan="5">von (Uhrzeit/Tag/Monat/Jahr)/*from (hour/day/month/year):* / / /</td></tr>
 <tr><td colspan="2">13</td><td colspan="5">bis (Uhrzeit/Tag/Monat/Jahr)/*to (hour/day/month/year):* / / /</td></tr>
 <tr><td colspan="2">14</td><td></td><td colspan="4">sich im Krankheitsurlaub befand\*\*\*/*was on sick leave*</td></tr>
 <tr><td colspan="2">15</td><td></td><td colspan="4">sich im Erholungsurlaub befand\*\*\*/*was on annual leave*</td></tr>
@@ -1428,15 +1429,15 @@ Falsche Bescheinigungen stellen einen Verstoss gegen geltendes Recht dar/ *False
 <tr><td colspan="2">19</td><td></td><td colspan="4">zur Verfügung stand\*\*\*/*was available*</td></tr>
 <tr><td colspan="2">20</td><td colspan="5">Ort/*place:* Datum/*date:*</td></tr>
 <tr><td colspan="7">Unterschrift/*signature:*</td></tr>
-<tr><td colspan="2">21</td><td colspan="5">Ich, der Fahrer/die Fahrerin, bestätige, dass ich im vorstehend genannten Zeitraum kein unter den Anwendungsbereich der Verordnung (EG) Nr. 561/2006 oder des AETR fallendes Fahrzeug gelenkt habe/*I,* *the dr**iver**, confirm that I have not been driving a vehicle falling under the scope of Regulation (EC) 561/2006 or the AETR during the period mentioned above*.</td></tr>
+<tr><td colspan="2">21</td><td colspan="5">Ich, der Fahrer/die Fahrerin, bestätige, dass ich im vorstehend genannten Zeitraum kein unter den Anwendungsbereich der Verordnung (EG) Nr. 561/2006 oder des AETR fallendes Fahrzeug gelenkt habe/*I,* *the driver**, confirm that I have not been driving a vehicle falling under the scope of Regulation (EC) 561/2006 or the AETR during the period mentioned above*.</td></tr>
 <tr><td colspan="2">22</td><td colspan="5">Ort/*place*: Datum/*date:*</td></tr>
-<tr><td colspan="7">**Unterschrift des Fahrers/der Fahreri****n** ***(signature of the driver):***</td></tr>
-<tr><td>\*</td><td colspan="6">Eine elektronische und druckfähige Fassung dieses Formulars ist verfügbar unter der Internetadresse/ *Thi**s Form is available in electronic and printable versions at the following address:* http://www.unece.org/trans/main/sc1/aetr.html.</td></tr>
-<tr><td>\*\*</td><td colspan="6">Europäisches Übereinkommen über die Arbeit des im internationalen Strassenverkehr beschäftigen Fahrpersonals*/* *European Agreement concerning the Work of Crews of Vehicles engaged in Intern**a**tional Road Transport.*</td></tr>
+<tr><td colspan="7">**Unterschrift des Fahrers/der Fahrerin** ***(signature of the driver):***</td></tr>
+<tr><td>\*</td><td colspan="6">Eine elektronische und druckfähige Fassung dieses Formulars ist verfügbar unter der Internetadresse/ *This Form is available in electronic and printable versions at the following address:* [www.unece.org/trans/main/sc1/aetr.html](http://www.unece.org/trans/main/sc1/aetr.html).</td></tr>
+<tr><td>\*\*</td><td colspan="6">Europäisches Übereinkommen über die Arbeit des im internationalen Strassenverkehr beschäftigen Fahrpersonals*/* *European Agreement concerning the Work of Crews of Vehicles engaged in International Road Transport.*</td></tr>
 <tr><td>\*\*\*</td><td colspan="6">Nur ein Kästchen ankreuzen/*Choose only one box*.</td></tr>
 </table>
 
-Geltungsbereich am 16. November 2021**[^t-6]**
+Geltungsbereich am 16. November 2021[^t-6]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1493,7 +1494,7 @@ Geltungsbereich am 16. November 2021**[^t-6]**
 <tr><td>Vereinigtes Königreich\*</td><td>4. Januar</td><td>1978</td><td>18. August</td><td>1978</td></tr>
 <tr><td>Gibraltar</td><td>3. September</td><td>2019</td><td>4. März</td><td>2020</td></tr>
 <tr><td>Zypern</td><td>5. September</td><td>2003 B</td><td>3. März</td><td>2004</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-6]: [AS 2003 1765](https://fedlex.data.admin.ch/eli/oc/2003/268); [2007 2059](https://fedlex.data.admin.ch/eli/oc/2007/290); [2011 1611](https://fedlex.data.admin.ch/eli/oc/2011/242); [2014 3287](https://fedlex.data.admin.ch/eli/oc/2014/570); [2021 729](https://fedlex.data.admin.ch/eli/oc/2021/729). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
+[^t-6]: [AS 2003 1765](https://fedlex.data.admin.ch/eli/oc/2003/268); [2007 2059](https://fedlex.data.admin.ch/eli/oc/2007/290); [2011 1611](https://fedlex.data.admin.ch/eli/oc/2011/242); [2014 3287](https://fedlex.data.admin.ch/eli/oc/2014/570); [2021 729](https://fedlex.data.admin.ch/eli/oc/2021/729). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](http://www.fedlex.admin.ch/de/treaty).

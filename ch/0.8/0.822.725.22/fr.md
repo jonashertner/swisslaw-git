@@ -4,11 +4,11 @@ title: "Accord européen du 1<sup>er</sup> juillet 1970 relatif au travail des �
 short: AETR
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/268"
 language: fr
-version: 2021-11-16
+version: 2022-04-23
 adopted: 1970-07-01
 in_force: 2000-10-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/fedlex-data-admin-ch-eli-cc-2003-268-20211116-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/268/20211116/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/fr/xml/fedlex-data-admin-ch-eli-cc-2003-268-20220423-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/268/20220423/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -29,7 +29,7 @@ Instrument de ratification déposé par la Suisse le 7 avril 2000
 
 Entré en vigueur pour la Suisse le 4 octobre 2000
 
-(Etat le 16 novembre 2021)
+(État le 23 avril 2022)
 
 [^t-1]: [RO 2003 1764](https://fedlex.data.admin.ch/eli/oc/2003/267)
 
@@ -417,7 +417,7 @@ Les dispositions contenues à la fin des par. 7 a) et 7 b) de l’art. 12 de l�
 
 **Dispositions finales**
 
-<sup>1.</sup> Le présent Accord est ouvert à la signature jusqu’au 31 mars 1971 et, après cette date, à l’adhésion des États membres de la Commission économique pour l’Europe et des États admis à la Commission à titre consultatif conformément au par. 8 ou 11 du mandat de cette Commission. L’adhésion en vertu du par. 11 du mandat de la Commission doit être réservée aux États suivants: Algérie, Jordanie, Liban, Maroc et Tunisie.[^14-1]
+<sup>1.</sup> Le présent Accord est ouvert à la signature jusqu’au 31 mars 1971 et, après cette date, à l’adhésion des États membres de la Commission économique pour l’Europe et des États admis à la Commission à titre consultatif conformément au paragraphe 8 ou 11 du mandat de cette Commission. L’adhésion en vertu du paragraphe 11 du mandat de la Commission doit être réservée aux États suivants: Algérie, Égypte, Jordanie, Liban, Maroc et Tunisie.[^14-1]
 
 <sup>2.</sup> Le présent Accord sera ratifié.
 
@@ -427,7 +427,7 @@ Les dispositions contenues à la fin des par. 7 a) et 7 b) de l’art. 12 de l�
 
 <sup>5.</sup> Pour chaque État qui ratifiera le présent Accord ou y adhérera après le dépôt du huitième instrument de ratification ou d’adhésion visé au par. 4 du présent article, le présent Accord entrera en vigueur 180 jours après la date du dépôt, par cet État, de son instrument de ratification ou d’adhésion.
 
-[^14-1]: Nouvelle teneur selon la mod. du 18 oct. 2017, en vigueur pour la Suisse depuis le 8 janv. 2020 ([RO 2020 349](https://fedlex.data.admin.ch/eli/oc/2020/56)).
+[^14-1]: Nouvelle teneur selon la mod. du 21 oct. 2020, en vigueur pour la Suisse depuis le 23 avr. 2022 ([RO 2022 91](https://fedlex.data.admin.ch/eli/oc/2022/91)).
 
 #### Art. 15
 
@@ -578,7 +578,7 @@ Après le 31 mars 1971 l’original du présent Accord sera déposé auprès du 
 
 *En foi de quoi*, les soussignés, à ce dûment autorisés, ont signé le présent Accord. Fait à Genève, le 1<sup>er</sup> juillet 1970, en un seul exemplaire, en langues anglaise et française, les deux textes faisant également foi. (Suivent les signatures)
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 ## Appareil de contrôle Dispositions générales
 
@@ -735,19 +735,19 @@ Les conducteurs:
 - – Veillent à la concordance entre le marquage horaire sur la feuille et l’heure légale du pays d’immatriculation du véhicule;
 - – Actionnent les dispositifs de commutation permettant d’enregistrer séparément et distinctement les périodes de temps suivantes:
 
-(a) Sous le signe <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image1.png)</sub> ou <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image2.png)</sub><sup><sup>\*</sup></sup>: le temps de conduite; (b) Sous le signe <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image3.png)</sub> ou <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image4.png)</sub><sup><sup>\*</sup></sup>: tous les autres temps de travail; (c) Sous le signe <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image5.png)</sub> ou <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image6.png)</sub><sup><sup>\*</sup></sup>: les temps de disponibilité, à savoir:
+(a) Sous le signe <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/fr/xml/image/image1.png)</sub> ou <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/fr/xml/image/image2.png)</sub><sup><sup>\*</sup></sup>: le temps de conduite; (b) Sous le signe <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/fr/xml/image/image3.png)</sub> ou <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/fr/xml/image/image4.png)</sub><sup><sup>\*</sup></sup>: tous les autres temps de travail; (c) Sous le signe <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/fr/xml/image/image5.png)</sub> ou <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/fr/xml/image/image6.png)</sub><sup><sup>\*</sup></sup>: les temps de disponibilité, à savoir:
 
 - – Le temps d’attente, c’est-à-dire la période pendant laquelle les conducteurs ne sont pas tenus de rester à leur poste de travail, sauf pour répondre à des appels éventuels afin de reprendre la conduite ou de faire d’autres travaux;
 - – Le temps passé à côté d’un conducteur pendant la marche du véhicule;
 - – Le temps passé sur une couchette pendant la marche du véhicule;
 
 <table>
-<tr><td>(d) Sous le signe</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image7.png)</sub></td><td>ou</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image8.png)</sub><sup><sup>\*</sup></sup>:</td><td>les interruptions de conduite et les périodes de repos journalier.</td></tr>
+<tr><td>(d) Sous le signe</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/fr/xml/image/image7.png)</sub></td><td>ou</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/fr/xml/image/image8.png)</sub><sup><sup>\*</sup></sup>:</td><td>les interruptions de conduite et les périodes de repos journalier.</td></tr>
 </table>
 
 - \* Symboles utilisés pour le tachygraphe numérique.
 
-<sup>4.</sup> Chaque Partie contractante peut permettre, pour les feuilles d’enregistrement utilisées sur les véhicules immatriculés sur son territoire, que les périodes de temps visées au par. 3 second tiret, points b) et c) du présent article soient toutes enregistrées sous le signe <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image9.png)</sub>.
+<sup>4.</sup> Chaque Partie contractante peut permettre, pour les feuilles d’enregistrement utilisées sur les véhicules immatriculés sur son territoire, que les périodes de temps visées au par. 3 second tiret, points b) et c) du présent article soient toutes enregistrées sous le signe <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/fr/xml/image/image9.png)</sub>.
 
 <sup>5.</sup> 5<sup>bis</sup>. Le conducteur introduit dans l’appareil de contrôle conforme à l’appendice 1B le symbole du pays où il commence et celui du pays où il finit sa période de travail journalière.
 
@@ -985,15 +985,15 @@ L’indicateur de temps doit être visible de l’extérieur de l’appareil et 
 
 - a) L’appareil doit enregistrer le temps de conduite de façon entièrement automatique. Il doit également enregistrer, après manœuvre éventuelle d’une commande appropriée, les autres groupes de temps comme suit:
 
-i) sous le signe ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image10.png) : le temps de conduite; ii) sous le signe ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image11.png) : tous les autres temps de travail; iii) sous le signe ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image12.png) : le temps de disponibilité à savoir:
+i) sous le signe ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/fr/xml/image/image10.png) : le temps de conduite; ii) sous le signe ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/fr/xml/image/image11.png) : tous les autres temps de travail; iii) sous le signe ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/fr/xml/image/image12.png) : le temps de disponibilité à savoir:
 
 - – le temps d’attente, c’est-à-dire la période pendant laquelle les conducteurs ne sont pas tenus de rester à leur poste de travail, sauf pour répondre à des appels éventuels afin d’entreprendre ou de reprendre la conduite ou de faire d’autres travaux;
 - – le temps passé à côté d’un conducteur pendant la marche du véhicule;
 - – le temps passé sur une couchette pendant la marche du véhicule;
 
 <table>
-<tr><td>iv) sous le signe</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image7.png)</td><td>: les interruptions de conduite et les périodes de repos journalier.</td></tr>
-<tr><td colspan="3">[tab] Chaque Partie contractante peut permettre pour les feuilles d’enregistrement utilisées sur les véhicules immatriculés sur son territoire, que les périodes de temps visées aux points ii) et iii) ci-dessus soient toutes enregistrées sous le signe <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image12.png)</sub>.</td></tr>
+<tr><td>iv) sous le signe</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/fr/xml/image/image7.png)</td><td>: les interruptions de conduite et les périodes de repos journalier.</td></tr>
+<tr><td colspan="3">[tab] Chaque Partie contractante peut permettre pour les feuilles d’enregistrement utilisées sur les véhicules immatriculés sur son territoire, que les périodes de temps visées aux points ii) et iii) ci-dessus soient toutes enregistrées sous le signe <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/fr/xml/image/image12.png)</sub>.</td></tr>
 </table>
 
 - b) Les caractéristique des tracés, leurs positions relatives et, éventuellement, les signes prévus au par. 4*a*), doivent permettre de reconnaître clairement la nature des différents temps. La nature des différents groupes de temps est représentée, dans le diagramme, par des différences d’épaisseur de traits s’y rapportant ou par tout autre système d’une efficacité au moins égale du point de vue de la lisibilité et de l’interprétation du diagramme.
@@ -1024,7 +1024,7 @@ Toutefois, ces prescriptions ne sont pas applicables aux appareils de contrôle 
 - – éventuellement, l’étendue de mesure de la vitesse sous la forme indiquée au par. 1;
 - – si la sensibilité de l’instrument à l’angle d’inclinaison est susceptible d’influer sur les indications données par l’appareil au-delà des tolérances admises, l’orientation angulaire admissible sous la forme:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/fr/xml/image/image13.png)
 
 - dans laquelle a représente l’angle mesuré à partir de la position horizontale de la face avant (orientée vers le haut) de l’appareil pour lequel l’instrument est réglé, β et γ représentant respectivement les écarts limites admissibles vers le haut et vers le bas par rapport à l’angle α.
 
@@ -1188,9 +1188,9 @@ La détermination des erreurs à l’installation et à l’usage s’effectue d
 - – véhicules à vide, en conditions normales de marche;
 - – pression des pneus conforme aux indications données par le fabricant;
 - – usure des pneus dans les limites admises par les prescriptions en vigueur;
-- – mouvement du véhicule: celui-ci doit se déplacer, mû par son propre moteur, en ligne droite, sur une aire plane, à une vitesse de 50 ±5 km/h; le contrôle, pourvu qu’il soit d’une exactitude comparable, peut également être effectué sur un banc d’essai approprié.
+- mouvement du véhicule: celui-ci doit se déplacer, mû par son propre moteur, en ligne droite, sur une aire plane, à une vitesse de 50 ±5 km/h; le contrôle, pourvu qu’il soit d’une exactitude comparable, peut également être effectué sur un banc d’essai approprié.
 
-Appendice 1B*[^t-3]*
+Appendice 1B[^t-3]
 
 ## Dispositions relatives à la construction, l’essai, l’installation et le contrôle du matériel d’enregistrement numérique utilisé dans les transports routiers
 
@@ -1200,13 +1200,13 @@ Appendice 1B*[^t-3]*
 
 **Préambule**
 
-<sup>1.</sup> Étant donné que le présent appendice est une adaptation de l’annexe 1B du Règlement (CEE) n<sup>o</sup> 3821/85 du Conseil, en date du 20 décembre 1985, concernant l’appareil de contrôle dans le domaine des transports par route[^annexu1-lvlu1-1-1], le contenu de cette annexe n’est pas reproduit dans l’AETR en raison de son volume et de son caractère très technique. Pour obtenir le texte officiel complet ainsi que ses amendements ultérieurs, les Parties contractantes devront se reporter au Journal officiel de l’Union européenne.
+<sup>1.</sup> Étant donné que le présent appendice est une adaptation de l’annexe 1B du Règlement (CEE) n<sup>o</sup> 3821/85 du Conseil, en date du 20 décembre 1985, concernant l’appareil de contrôle dans le domaine des transports par route[^annex1B-lvlu1-1-1], le contenu de cette annexe n’est pas reproduit dans l’AETR en raison de son volume et de son caractère très technique. Pour obtenir le texte officiel complet ainsi que ses amendements ultérieurs, les Parties contractantes devront se reporter au Journal officiel de l’Union européenne.
 
 Le contenu du présent appendice 1B se limite donc à une introduction donnant la référence des textes pertinents de l’Union européenne et de celle des Journaux officiels dans lesquels ils ont été publiés et signalant, aux moyens de références croisées, les points particuliers sur lesquels cette annexe doit être adaptée au contexte de l’AETR.
 
 <sup>2.</sup> Afin de faciliter la consultation de cette annexe avec les adaptations apportées pour prendre en compte le contexte de l’AETR et donner ainsi une vision d’ensemble du texte […], une version consolidée de l’Appendice 1B sera élaborée par le secrétariat de la Commission économique pour l’Europe des Nations Unies. Elle n’aura toutefois aucune force de loi. Cette version, éditée dans les langues officielles de la CEE-ONU, sera mise à jour en tant que de besoin.
 
-[^annexu1-lvlu1-1-1]: Tel qu’amendé par le R (CE) n<sup>o</sup> 2135/98 du Conseil, en date du 24 sept. 1998 (JO L 274 du 9 oct. 1998), ainsi que par les R de la Commission (CE) n<sup>o</sup> 1360/2002 du 13 juin 2002 (JO L 207 du 5 août 2002, corrigendum JO L 77 du 13 mars 2004) et n<sup>o</sup> 432/2004 du 5 mars 2004 (JO L 71 du 10 mars 2004)
+[^annex1B-lvlu1-1-1]: Tel qu’amendé par le R (CE) n<sup>o</sup> 2135/98 du Conseil, en date du 24 sept. 1998 (JO L 274 du 9 oct. 1998), ainsi que par les R de la Commission (CE) n<sup>o</sup> 1360/2002 du 13 juin 2002 (JO L 207 du 5 août 2002, corrigendum JO L 77 du 13 mars 2004) et n<sup>o</sup> 432/2004 du 5 mars 2004 (JO L 71 du 10 mars 2004)
 
 #### Art. 2
 
@@ -1244,7 +1244,7 @@ Le contenu du présent appendice 1B se limite donc à une introduction donnant l
 - 2\.4 Autres dispositions à modifier ou à supprimer:
 - 2\.4.1 Le texte de la disposition 172 est supprimé et remplacé par la mention «Réservé».
 - 2\.4.2 La disposition 174 est modifiée comme suit:
-- «le signe distinctif de la Partie contractante ayant délivré la carte. Les signes distinctifs des Parties contractantes non membres de l’Union européenne sont ceux définis dans la Convention de Vienne sur la circulation routière de 1968[^annexu1-lvlu1-2-1] et dans la Convention de Genève sur la circulation routière de 1949.»
+- «le signe distinctif de la Partie contractante ayant délivré la carte. Les signes distinctifs des Parties contractantes non membres de l’Union européenne sont ceux définis dans la Convention de Vienne sur la circulation routière de 1968[^annex1B-lvlu1-2-1] et dans la Convention de Genève sur la circulation routière de 1949.»
 - 2\.4.3 Le renvoi au drapeau de l’Union européenne, suivi des lettres «EM» («État membre») dans la disposition 178 est remplacé par les lettres «PC» («Parties contractantes»), l’indication du drapeau des Parties contractantes non membres de l’Union européenne étant facultative.
 - 2\.4.4 La disposition 181 est modifiée comme suit:
 - «En consultation avec le secrétariat de la CEE-ONU, les Parties contractantes peuvent ajouter des couleurs ou des marques, par exemple des marques de sécurité, sans préjudice des autres dispositions du présent appendice.»
@@ -1254,9 +1254,9 @@ Le contenu du présent appendice 1B se limite donc à une introduction donnant l
 - 2\.4.7 Dans l’appendice 9/sous-appendice 9 de l’AETR (Homologation par type – Liste des essais minimums prescrits), 1, 1-1, la phrase d’introduction est modifiée comme suit:
 - «L’homologation par type du matériel (ou d’un élément) d’enregistrement ou de la carte du tachygraphe est fondée sur:».
 
-[^annexu1-lvlu1-2-1]: [RS 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)
+[^annex1B-lvlu1-2-1]: [RS 0.741.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2822)
 
-Appendice 2*[^t-4]*
+Appendice 2[^t-4]
 
 ## Marque et fiches d’homologation
 
@@ -1292,7 +1292,8 @@ Mode d’attribution des chiffres suivants:
 
 - i) Aux pays qui sont Parties contractantes à l’Accord de 1958 concernant l’adoption de conditions uniformes d’homologation et la reconnaissance réciproque de l’homologation des équipements et pièces de véhicules à moteur, les mêmes chiffres que ceux qui sont attribués auxdits pays dans le présent Accord;
 - ii) Aux pays qui ne sont pas Parties contractantes à l’Accord de 1958, selon l’ordre chronologique dans lequel ils ratifient le présent Accord ou y adhèrent
-- et un numéro d’homologation correspondant au numéro de la fiche d’homologation établie pour le prototype de l’appareil de contrôle ou de la feuille d’enregistrement, placé dans une position quelconque à proximité immédiate du rectangle.
+- et
+- un numéro d’homologation correspondant au numéro de la fiche d’homologation établie pour le prototype de l’appareil de contrôle ou de la feuille d’enregistrement, placé dans une position quelconque à proximité immédiate du rectangle.
 
 *Note:* Afin qu’à l’avenir il y ait conformité entre les signes conventionnels de l’Accord de 1958 et ceux définis dans l’AETR, le même chiffre devrait être attribués aux nouvelles Parties contractantes par les deux Accords.
 
@@ -1300,7 +1301,7 @@ Mode d’attribution des chiffres suivants:
 
 \3. Les dimensions de la marque d’homologation dessinées ci-après sont exprimées en mm, ces dimensions constituant des minima. Les rapports entre ces dimensions doivent être respectés.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20220423/fr/xml/image/image14.png)
 
 (1) Ces chiffres sont donnés à titre indicatif uniquement.
 
@@ -1373,7 +1374,7 @@ Fiche d’homologation pour les produits conformes à l’appendice 1B
 <tr><td>(2)</td><td colspan="4">Préciser le composant concerné par la communication.</td></tr>
 </table>
 
-Appendice 3*[^t-5]*
+Appendice 3[^t-5]
 
 ## Formulaires types
 
@@ -1409,18 +1410,18 @@ Les fausses attestations constituent une infraction/ *False attestations constit
 <tr><td>1</td><td colspan="5">Nom de l’entreprise/*Name of the undertaking:*</td></tr>
 <tr><td>2</td><td colspan="5">Rue, code postal, ville/*Street address, postal code, city:* , ,</td></tr>
 <tr><td></td><td colspan="2">Pays/*Country:*</td><td colspan="2"></td><td></td></tr>
-<tr><td>3</td><td colspan="5">Numéro de téléphone (y compris le préfixe international)/*Telephone number (including intern**ational prefix):*</td></tr>
-<tr><td>4</td><td colspan="5">Numéro du télécopieur (y compris le préfixe international)/*Fax number (including international pr**e**fix):*</td></tr>
+<tr><td>3</td><td colspan="5">Numéro de téléphone (y compris le préfixe international)/*Telephone number (including international prefix):*</td></tr>
+<tr><td>4</td><td colspan="5">Numéro du télécopieur (y compris le préfixe international)/*Fax number (including international prefix):*</td></tr>
 <tr><td>5</td><td colspan="5">Adresse courrier électronique/*E-mail address:*</td></tr>
-<tr><td colspan="6">**Le soussigné** ***(I, the u******ndersigned):***</td></tr>
+<tr><td colspan="6">**Le soussigné** ***(I, the undersigned):***</td></tr>
 <tr><td>6</td><td colspan="5">Nom et prénom/*Name and first name:*</td></tr>
 <tr><td>7</td><td colspan="5">Fonction dans l’entreprise/*Position in the undertaking:*</td></tr>
 <tr><td colspan="6">**déclare que le conducteur/*****declare that the driver:***</td></tr>
 <tr><td>8</td><td colspan="5">Nom et prénom/*Name and first name:*</td></tr>
 <tr><td>9</td><td colspan="5">Date de naissance (jour/mois/année)/*Date of birth (day/month/year):* / /</td></tr>
-<tr><td>10</td><td colspan="5">Numéro du permis de conduire ou de la carte d’identité ou du passeport/ *Driving licence or identity card or passp**ort number:*</td></tr>
-<tr><td>11</td><td colspan="5">qui a commencé travailler dans l’entreprise le (jour/mois/année)*/* *who has started to work at the underta**k**ing on (day/month/year):* / /</td></tr>
-<tr><td colspan="6">Au cours de la période/*fo**r the period:*</td></tr>
+<tr><td>10</td><td colspan="5">Numéro du permis de conduire ou de la carte d’identité ou du passeport/ *Driving licence or identity card or passport number:*</td></tr>
+<tr><td>11</td><td colspan="5">qui a commencé travailler dans l’entreprise le (jour/mois/année)*/* *who has started to work at the undertaking on (day/month/year):* / /</td></tr>
+<tr><td colspan="6">Au cours de la période/*for the period:*</td></tr>
 <tr><td>12</td><td colspan="5">du (heure/jour/mois/année)/*from (hour/day/month/year):* / / /</td></tr>
 <tr><td>13</td><td colspan="5">au (heure/jour/mois/année)/*to (hour/day/month/year):* / / /</td></tr>
 <tr><td>14</td><td></td><td colspan="4">était en congé de maladie\*\*\*/*was on sick leave*</td></tr>
@@ -1434,12 +1435,12 @@ Les fausses attestations constituent une infraction/ *False attestations constit
 <tr><td>21</td><td colspan="5">Le soussigné, conducteur, confirme ne pas avoir conduit un véhicule relevant du champ d’application du règlement (CE) n<sup>o</sup> 561/2006 ou de l’AETR au cours de la période susmentionnée/*I,* *the driver**. confirm that I have not been driving a vehicle falling under the scope of Regulation (EC) 561/2006 or the AETR during the period mentioned above*.</td></tr>
 <tr><td>22</td><td colspan="5">Lieu/*place*: Date/*date:*</td></tr>
 <tr><td colspan="6">**Signature du conducteur** ***(signature of the driver):***</td></tr>
-<tr><td>\*</td><td colspan="5">Ce formulaire peut être obtenu en version électronique et en version imprimable à l’adresse suivante/*This form is available in electronic and printable versions at the following address:* http://www.unece.org/trans/main/sc1/aetr.html</td></tr>
-<tr><td>\*\*</td><td colspan="5">Accord européen relatif au travail des équipages des véhicules effectuant des transports internationaux par route*/ European Agreement concerning the Work of Crews of Vehicles engaged in Intern**a**tional Road Transport.*</td></tr>
+<tr><td>\*</td><td colspan="5">Ce formulaire peut être obtenu en version électronique et en version imprimable à l’adresse suivante/*This form is available in electronic and printable versions at the following address:* [http://www.unece.org/trans/main/sc1/aetr.html](http://www.unece.org/trans/main/sc1/aetr.html)</td></tr>
+<tr><td>\*\*</td><td colspan="5">Accord européen relatif au travail des équipages des véhicules effectuant des transports internationaux par route*/ European Agreement concerning the Work of Crews of Vehicles engaged in International Road Transport.*</td></tr>
 <tr><td>\*\*\*</td><td colspan="5">Ne cocher qu’une des cases/*Choose only one box*.</td></tr>
 </table>
 
-Champ d’application le 16 novembre 2021**[^t-6]**
+Champ d’application le 16 novembre 2021[^t-6]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -1496,7 +1497,7 @@ Champ d’application le 16 novembre 2021**[^t-6]**
 <tr><td>Turkménistan</td><td>18 septembre</td><td>1996 A</td><td>17 mars</td><td>1997</td></tr>
 <tr><td>Turquie</td><td>16 janvier</td><td>2001 A</td><td>16 juillet</td><td>2001</td></tr>
 <tr><td>Ukraine</td><td>3 février</td><td>2006</td><td>2 août</td><td>2006</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-6]: [RO 2003 1765](https://fedlex.data.admin.ch/eli/oc/2003/268); [2007 2059](https://fedlex.data.admin.ch/eli/oc/2007/290); [2011 1611](https://fedlex.data.admin.ch/eli/oc/2011/242); [2014 3287](https://fedlex.data.admin.ch/eli/oc/2014/570); [2021 729](https://fedlex.data.admin.ch/eli/oc/2021/729). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
+[^t-6]: [RO 2003 1765](https://fedlex.data.admin.ch/eli/oc/2003/268); [2007 2059](https://fedlex.data.admin.ch/eli/oc/2007/290); [2011 1611](https://fedlex.data.admin.ch/eli/oc/2011/242); [2014 3287](https://fedlex.data.admin.ch/eli/oc/2014/570); [2021 729](https://fedlex.data.admin.ch/eli/oc/2021/729). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty)
