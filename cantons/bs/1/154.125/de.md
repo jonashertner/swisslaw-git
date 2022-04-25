@@ -4,13 +4,12 @@ number: "154.125"
 title: "Reglement über das Finanz- und Rechnungswesen, das Inkasso- und das Nachzahlungsverfahren der Gerichte"
 short: Finanzreglement
 language: de
-version: 2019-02-28
-valid_until: 2022-04-25
-version_adopted: 2019-01-23
+version: 2022-04-26
+version_adopted: 2022-04-25
 adopted: 2019-01-23
 in_force: 2019-02-28
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/154.125"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4621/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5541/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Finanzreglement der Gerichte | Gerichte / Staatsanwaltschaft / Strafverfolgungsb
 
 (Finanzreglement)
 
-Vom 23. Januar 2019 (Stand 28. Februar 2019)
+Vom 23. Januar 2019 (Stand 26. April 2022)
 
 Der Gerichtsrat des Kantons Basel-Stadt,
 
@@ -104,10 +103,10 @@ beschliesst:
 
 <sup>2</sup> Leisten Parteien entsprechende Nachforderungen nicht freiwillig, wird das Dossier dem zuständigen Gericht zum nachträglichen Entscheid vorgelegt.
 
-<sup>3</sup> Zuständig zur Beurteilung eines Nachforderungsanspruchs aus dem erstinstanzlichen Verfahren wie auch einem kantonalen Rechtsmittelverfahren ist:
+<sup>3</sup> Zuständig zur Beurteilung eines Nachforderungsanspruchs aus dem erstinstanzlichen Verfahren wie auch einem kantonalen Rechtsmittelverfahren ist das Einzelgericht der jeweiligen ersten gerichtlichen Instanz oder des als einzige kantonale Instanz entscheidenden Gerichts.
 
-- a) in zivilrechtlichen Verfahren: Das Einzelgericht der ersten Instanz,
-- b) in strafrechtlichen Verfahren: Das Strafgericht als Einzelgericht.
+- a) …
+- b) …
 
 <sup>4</sup> Der Entscheid über Nachforderungen gemäss Art. 123 ZPO erfolgt im summarischen Verfahren, jener gemäss Art. 135 Abs. 4 StPO im Verfahren gemäss Art. 363 ff. StPO.
 
