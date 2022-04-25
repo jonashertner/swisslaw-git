@@ -4,11 +4,11 @@ title: "Ordinanza del 15 giugno 2007 sull'ammissione dei conducenti di veicoli a
 short: OAut
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/437"
 language: it
-version: 2022-03-01
+version: 2022-04-26
 adopted: 2007-06-15
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/437/20220301/it/xml/fedlex-data-admin-ch-eli-cc-2007-437-20220301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20220301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/437/20220426/it/xml/fedlex-data-admin-ch-eli-cc-2007-437-20220426-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20220426/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20220301/it"
 
 (Ordinanza sull’ammissione degli autisti, OAut)
 
-del 15 giugno 2007 (Stato 1° marzo 2022)
+del 15 giugno 2007 (Stato 26 aprile 2022)
 
 Il Consiglio federale svizzero,
 
@@ -409,9 +409,9 @@ I Cantoni:
 
 <sup>2</sup> Possono delegare a terzi l’adempimento di questi compiti.
 
-<sup>3</sup> L’USTRA può emanare istruzioni per l’esecuzione della presente ordinanza. Per evitare casi di rigore può autorizzare deroghe generali e astratte a singole disposizioni.[^26-1]
+<sup>3</sup> L’USTRA può emanare istruzioni per l’esecuzione della presente ordinanza. Per evitare casi di rigore può autorizzare deroghe a singole disposizioni.[^26-1]
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^26-1]: Correzione del 26 apr. 2022 ([RU 2022 256](https://fedlex.data.admin.ch/eli/oc/2022/256)).
 
 #### Art. 27
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 15. Juni 2007 über die Zulassung von Fahrzeugführern un
 short: CZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/437"
 language: de
-version: 2022-03-01
+version: 2022-04-26
 adopted: 2007-06-15
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/437/20220301/de/xml/fedlex-data-admin-ch-eli-cc-2007-437-20220301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20220301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/437/20220426/de/xml/fedlex-data-admin-ch-eli-cc-2007-437-20220426-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20220426/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20220301/de"
 
 (Chauffeurzulassungsverordnung, CZV)
 
-vom 15. Juni 2007 (Stand am 1. März 2022)
+vom 15. Juni 2007 (Stand am 26. April 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -410,9 +410,9 @@ Die Kantone:
 
 <sup>2</sup> Sie können die Erfüllung dieser Aufgaben Dritten übertragen.
 
-<sup>3</sup> Das ASTRA kann für die Durchführung dieser Verordnung Weisungen erlassen. Zur Vermeidung von Härtefällen kann es generelle, abstrakte Ausnahmen von einzelnen Bestimmungen bewilligen.[^26-1]
+<sup>3</sup> Das ASTRA kann für die Durchführung dieser Verordnung Weisungen erlassen. Zur Vermeidung von Härtefällen kann es Ausnahmen von einzelnen Bestimmungen bewilligen.[^26-1]
 
-[^26-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^26-1]: Berichtigung vom 26. April 2022 ([AS 2022 256](https://fedlex.data.admin.ch/eli/oc/2022/256)).
 
 #### Art. 27
 
@@ -426,13 +426,13 @@ Die Kantone:
 
 <sup>1</sup> Personen, die den Führerausweis der Kategorie C oder der Unterkategorie C1 vor dem 1. September 2009 erworben haben und die Weiterbildung nach den Artikeln 16‒20 nachweisen, wird der Fähigkeitsausweis für den Gütertransport auf Gesuch hin ohne weitere Prüfung mit fünfjähriger Befristung erteilt.[^27a-2]
 
-<sup>2</sup> ...[^27a-3]
+<sup>2</sup> …[^27a-3]
 
 <sup>3</sup> Personen, die den Führerausweis der Kategorie D oder der Unterkategorie D1 vor dem 1. September 2008 erworben haben und die Weiterbildung nach den Artikeln 16‒20 nachweisen, wird der Fähigkeitsausweis für den Personentransport auf Gesuch hin ohne weitere Prüfung mit fünfjähriger Befristung erteilt.[^27a-4]
 
 <sup>4</sup> Personen, die den Führerausweis der Kategorie D oder der Unterkategorie D1 in der Zeit vom 1. September 2008 bis zum 31. August 2009 erworben haben, wird der Fähigkeitsausweis für den Personentransport ohne weitere Prüfung mit fünfjähriger Befristung erteilt.
 
-<sup>5</sup> ...[^27a-5]
+<sup>5</sup> …[^27a-5]
 
 [^27a-1]: Eingefügt gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Sept. 2009 ([AS 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
 [^27a-2]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).

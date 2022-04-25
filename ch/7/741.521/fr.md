@@ -4,11 +4,11 @@ title: "Ordonnance du 15 juin 2007 réglant l'admission des conducteurs au trans
 short: OACP
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/437"
 language: fr
-version: 2022-03-01
+version: 2022-04-26
 adopted: 2007-06-15
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/437/20220301/fr/xml/fedlex-data-admin-ch-eli-cc-2007-437-20220301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20220301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/437/20220426/fr/xml/fedlex-data-admin-ch-eli-cc-2007-437-20220426-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20220426/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20220301/fr"
 
 (Ordonnance réglant l’admission des chauffeurs, OACP)
 
-du 15 juin 2007 (État le 1<sup>er</sup> mars 2022)
+du 15 juin 2007 (État le 26 avril 2022)
 
 Le Conseil fédéral suisse,
 
@@ -112,13 +112,13 @@ Pour les courses, le conducteur doit emporter:
 
 **Conducteurs domiciliés dans un État membre de l’Union européenne ou de l’Association européenne de libre-échange**[^5-1]
 
-Doivent être titulaires du certificat d’aptitude conformément à la directive 2003/59/CE[^5-2] les conducteurs:
+Doivent être titulaires du certificat d’aptitude conformément à la directive (UE) 2022/2561[^5-2] les conducteurs:
 
 - a. domiciliés dans un État membre de l’Union européenne ou de l’Association européenne de libre-échange;
 - b. employés par une entreprise établie dans un État membre de l’Union européenne ou de l’Association européenne de libre-échange.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^5-2]: Directive 2003/59/CE du Parlement européen et du Conseil du 15 juillet 2003 relative à la qualification initiale et à la formation continue des conducteurs de certains véhicules routiers affectés aux transports de marchandises ou de voyageurs, modifiant le règlement (CEE) n<sup>o</sup> 3820/85 du Conseil ainsi que la directive 91/439/CEE du Conseil et abrogeant la directive 76/914/CEE du Conseil, JO L 226 du 10.9.2003, p. 4; modifiée en dernier lieu par la directive (UE) 2018/645, JO L 112 du 2.5.2018, p. 29.
+[^5-2]: Directive (UE) 2022/2561 du Parlement européen et du Conseil du 14 décembre 2022 relative à la qualification initiale et à la formation continue des conducteurs de certains véhicules routiers affectés aux transports de marchandises ou de voyageurs, JO L 330 du 23.12.2022, p. 46. Le renvoi a été adapté au 12 janv. 2023 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ## Section 2 Certificats de capacité
 
@@ -149,7 +149,7 @@ Le certificat de capacité pour le transport de marchandises est délivré aux t
 
 Le certificat de capacité est délivré sans examen aux conducteurs venant s’établir en Suisse:
 
-- a. si une autorisation correspondante est inscrite dans leur permis de conduire étranger ou attestée par la carte de qualification du conducteur prévue à l’annexe II de la directive 2003/59/CE[^7-2], ou
+- a. si une autorisation correspondante est inscrite dans leur permis de conduire étranger ou attestée par la carte de qualification du conducteur prévue à l’annexe II de la directive (UE) 2022/2561[^7-2], ou
 - b. s’ils sont titulaires d’un certificat national que l’Office fédéral des routes (OFROU) reconnaît équivalent.
 
 <sup>2</sup> Le certificat de capacité est délivré sans examen aux conducteurs qui ne sont pas domiciliés dans un État membre de l’Union européenne ou de l’Association européenne de libre-échange et qui sont employés par une entreprise établie en Suisse, s’ils satisfont les conditions visées à l’al. 1, let. a ou b.
@@ -181,7 +181,7 @@ Les certificats de capacité sont délivrés:
 Le certificat de capacité est délivré avec indication de la durée de validité, de la manière suivante:
 
 - a. inscription dans le permis de conduire à titre d’indication complémentaire (art. 24*c*, let. e, de l’ordonnance du 27 octobre 1976 réglant l’admission à la circulation routière, OAC[^9-3]), ou
-- b.[^9-4] établissement d’une carte séparée sur le modèle de la carte de qualification du conducteur visée à l’annexe II de la directive 2003/59/CE[^9-5].[^9-6]
+- b.[^9-4] établissement d’une carte séparée sur le modèle de la carte de qualification du conducteur visée à l’annexe II de la directive (UE) 2022/2561[^9-5].[^9-6]
 
 <sup>4</sup> Les données de la carte séparée doivent concorder avec celles du permis de conduire sur la base duquel elle a été établie. Si le permis de conduire doit être remplacé, une nouvelle carte devra être demandée.[^9-7]
 
@@ -253,7 +253,7 @@ L’examen théorique comprend:
 
 <sup>1</sup> L’examen pratique comprend une partie générale et une course d’examen.
 
-<sup>2</sup> La partie générale doit être effectuée par tout candidat à un certificat de capacité. Elle doit porter au minimum sur les ch. 2.121, 2.141, 2.142, 2.312, 2.313 et 2.315 de l’annexe et sa durée minimale est de 30 minutes. Il est obligatoire d’utiliser un véhicule de la catégorie ou de la sous-catégorie avec laquelle le candidat souhaite effectuer les transports de personnes ou de marchandises.[^14-1]
+<sup>2</sup> La partie générale doit être effectuée par tout candidat à un certificat de capacité. Elle doit porter au minimum sur les ch. 2.121, 2.131, 2.132, 2.312, 2.313 et 2.315 de l’annexe et sa durée minimale est de 30 minutes. Il est obligatoire d’utiliser un véhicule de la catégorie ou de la sous-catégorie avec laquelle le candidat souhaite effectuer les transports de personnes ou de marchandises.[^14-1]
 
 <sup>3</sup> La course d’examen doit être effectuée par tout titulaire du permis de conduire de la sous-catégorie C1 ou D1. Elle permet de constater s’il est capable de faire preuve d’une conduite aussi bien respectueuse des autres usagers et soucieuse de sécurité que respectueuse de l’environnement et efficiente au plan énergétique. La durée minimale de cette course est de 30 minutes. Il est obligatoire d’utiliser un véhicule automobile qui satisfait aux exigences pour un véhicule d’examen de la sous-catégorie concernée (annexe 12, ch. V, OAC[^14-2]).
 
@@ -324,7 +324,7 @@ Les centres de formation continue doivent délivrer une attestation de cours aux
 Les attestations étrangères de fréquentation d’une formation continue sont reconnues équivalentes:
 
 - a. si la formation continue a été suivie entièrement ou en partie en cours d’emploi auprès d’une entreprise établie à l’étranger;
-- b.[^20-1] si l’organisateur du cours est agréé comme prestataire de cours de formation continue dans un État membre de l’Union européenne ou de l’Association européenne de libre-échange conformément à l’annexe I, section 5, de la directive 2003/59/CE[^20-2].
+- b.[^20-1] si l’organisateur du cours est agréé comme prestataire de cours de formation continue dans un État membre de l’Union européenne ou de l’Association européenne de libre-échange conformément à l’annexe I, section 5, de la directive (UE) 2022/2561[^20-2].
 
 [^20-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 [^20-2]: Voir la note de bas de page relative à l’art. 5.
@@ -410,9 +410,9 @@ Les cantons:
 
 <sup>2</sup> Ils peuvent déléguer l’exécution de ces tâches à des tiers.
 
-<sup>3</sup> L’OFROU peut établir des instructions sur l’exécution de la présente ordonnance. Il peut autoriser des dérogations générales et abstraites à certaines dispositions pour prévenir les cas de rigueur.[^26-1]
+<sup>3</sup> L’OFROU peut établir des instructions sur l’exécution de la présente ordonnance. Il peut autoriser des dérogations à certaines dispositions pour prévenir les cas de rigueur.[^26-1]
 
-[^26-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^26-1]: Erratum du 26 avr. 2022 ([RO 2022 256](https://fedlex.data.admin.ch/eli/oc/2022/256)).
 
 #### Art. 27
 
