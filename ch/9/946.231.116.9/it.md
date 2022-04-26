@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordinanza del 16 marzo 2022 che istituisce provvedimenti nei confronti della Bielorussia
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: it
-version: 2022-04-12
+version: 2022-04-27
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220412/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220412-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220412/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220427/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220427-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220427/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Bielorussia
 
-del 16 marzo 2022 (Stato 12 aprile 2022)
+del 16 marzo 2022 (Stato 27 aprile 2022)
 
 Il Consiglio federale svizzero,
 
@@ -369,9 +369,11 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 **Vendita di valori mobiliari**
 
-<sup>1</sup> È vietato vendere valori mobiliari denominati in franchi svizzeri o in euro emessi dopo il 12 aprile 2022, o quote di investimenti collettivi di capitale che offrono esposizioni verso tali valori, a qualsiasi cittadino bielorusso o persona fisica residente in Bielorussia, o a qualsiasi banca, impresa o organizzazione stabilita in Bielorussia.
+<sup>1</sup> È vietato vendere valori mobiliari denominati in franchi svizzeri o nella valuta ufficiale di uno Stato membro dell’UE emessi dopo il 12 aprile 2022, o quote di investimenti collettivi di capitale che offrono esposizioni verso tali valori, a qualsiasi cittadino bielorusso o persona fisica residente in Bielorussia, o a qualsiasi banca, impresa od organizzazione stabilita in Bielorussia.[^21-1]
 
 <sup>2</sup> Questo divieto non si applica ai cittadini svizzeri, ai cittadini di uno Stato membro dell’UE o alle persone fisiche titolari di un permesso di soggiorno temporaneo o permanente in Svizzera o in uno Stato membro dell’UE.
+
+[^21-1]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 259](https://fedlex.data.admin.ch/eli/oc/2022/259)).
 
 #### Art. 22
 
@@ -393,14 +395,17 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 **Banconote**
 
-<sup>1</sup> È vietato vendere, fornire, trasferire o esportare banconote denominate in franchi svizzeri o in euro a qualsiasi persona fisica o giuridica, organizzazione o impresa in Bielorussia, compresi il governo e la Banca nazionale della Repubblica di Bielorussia, o per un uso nella Bielorussia.
+<sup>1</sup> È vietato vendere, fornire, trasferire o esportare banconote denominate in franchi svizzeri o nella valuta ufficiale di uno Stato membro dell’UE a qualsiasi persona fisica o giuridica, organizzazione o impresa in Bielorussia, compresi il governo e la Banca nazionale della Repubblica di Bielorussia, o per un uso nella Bielorussia.[^24-1]
 
 <sup>2</sup>
 
-Il divieto di cui al capoverso 1 non si applica alla vendita, alla fornitura, al trasferimento o all’esportazione di banconote denominate in franchi svizzeri o in euro se tale vendita, fornitura, trasferimento o esportazione è necessaria per:
+Il divieto di cui al capoverso 1 non si applica alla vendita, alla fornitura, al trasferimento o all’esportazione di banconote denominate in franchi svizzeri o nella valuta ufficiale di uno Stato membro dell’UE se tale vendita, fornitura, trasferimento o esportazione è necessaria per:[^24-2]
 
 - a. uso personale da parte di persone fisiche che si recano in Bielorussia o dei loro familiari stretti che li accompagnano; o
 - b. adempiere gli scopi ufficiali di rappresentanze diplomatiche o consolari o di organizzazioni internazionali in Bielorussia.
+
+[^24-1]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 259](https://fedlex.data.admin.ch/eli/oc/2022/259)).
+[^24-2]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 259](https://fedlex.data.admin.ch/eli/oc/2022/259)).
 
 ## Sezione 4: Ulteriori restrizioni
 

@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Verordnung vom 16. März 2022 über Massnahmen gegenüber Belarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: de
-version: 2022-04-12
+version: 2022-04-27
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220412/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220412-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220412/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220427/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220427-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220427/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Belarus
 
-vom 16. März 2022 (Stand am 12. April 2022)
+vom 16. März 2022 (Stand am 27. April 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -369,9 +369,11 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD
 
 **Verkauf von Effekten**
 
-<sup>1</sup> Der Verkauf von auf Schweizerfranken oder auf Euro lautenden Effekten, die nach dem 12. April 2022 ausgegeben werden, oder von Anteilen an kollektiven Kapitalanlagen, die in diesen Effekten investiert sind, an belarussische Staatsangehörige oder in Belarus ansässige natürliche Personen oder an in Belarus niedergelassene Banken, Unternehmen oder Organisationen ist verboten.
+<sup>1</sup> Der Verkauf von auf Schweizerfranken oder auf eine amtliche Währung eines Mitgliedsstaates der Europäischen Union lautenden Effekten, die nach dem 12. April 2022 ausgegeben wurden, oder von Anteilen an kollektiven Kapitalanlagen, die in diesen Effekten investiert sind, an belarussische Staatsangehörige, in Belarus ansässige natürliche Personen oder in Belarus niedergelassene Banken, Unternehmen oder Organisationen ist verboten.[^21-1]
 
 <sup>2</sup> Dieses Verbot gilt nicht für Schweizer Staatsangehörige, Staatsangehörige eines EU-Mitgliedstaats und natürliche Personen, die über einen befristeten oder unbefristeten Aufenthaltstitel der Schweiz oder eines EU-Mitgliedstaats verfügen.
+
+[^21-1]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 259](https://fedlex.data.admin.ch/eli/oc/2022/259)).
 
 #### Art. 22
 
@@ -393,14 +395,17 @@ Die Bereitstellung von spezialisierten Nachrichtenübermittlungsdiensten für de
 
 **Banknoten**
 
-<sup>1</sup> Der Verkauf, die Lieferung, die Verbringung und die Ausfuhr von auf Schweizerfranken oder Euro lautende Banknoten an Belarus oder an natürliche oder juristische Personen, Organisationen oder Unternehmen in Belarus, einschliesslich der Regierung und der Nationalbank der Republik Belarus, oder zur Verwendung in Belarus sind verboten.
+<sup>1</sup> Der Verkauf, die Lieferung, die Verbringung und die Ausfuhr von auf Schweizerfranken oder eine amtliche Währung eines Mitgliedsstaates der Europäischen Union lautenden Banknoten an Belarus oder an natürliche oder juristische Personen, Organisationen oder Unternehmen in Belarus, einschliesslich der Regierung und der Nationalbank der Republik Belarus, oder zur Verwendung in Belarus sind verboten.[^24-1]
 
 <sup>2</sup>
 
-Das Verbot nach Absatz 1 gilt nicht für den Verkauf, die Lieferung, die Verbringung und die Ausfuhr von auf Schweizerfranken oder Euro lautenden Banknoten, sofern diese erforderlich sind für:
+Das Verbot nach Absatz 1 gilt nicht für den Verkauf, die Lieferung, die Verbringung und die Ausfuhr von auf Schweizerfranken oder eine amtliche Währung eines Mitgliedsstaates der Europäischen Union lautenden Banknoten, sofern diese erforderlich sind für:[^24-2]
 
 - a. die persönliche Verwendung durch nach Belarus reisende natürliche Personen oder ihre mit ihnen reisenden nahen Verwandten; oder
 - b. die Erfüllung amtlicher Zwecke von diplomatischen oder konsularischen Vertretungen oder internationalen Organisationen in Belarus.
+
+[^24-1]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 259](https://fedlex.data.admin.ch/eli/oc/2022/259)).
+[^24-2]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 259](https://fedlex.data.admin.ch/eli/oc/2022/259)).
 
 ## 4. Abschnitt: Weitere Beschränkungen
 

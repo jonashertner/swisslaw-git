@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordonnance du 16 mars 2022 instituant des mesures à l’encontre du Bélarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: fr
-version: 2022-04-12
+version: 2022-04-27
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220412/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220412-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220412/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220427/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220427-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220427/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Bélarus
 
-du 16 mars 2022 (Etat le 12 avril 2022)
+du 16 mars 2022 (Etat le 27 avril 2022)
 
 Le Conseil fédéral suisse,
 
@@ -369,9 +369,11 @@ Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF,
 
 **Vente de valeurs mobilières**
 
-<sup>1</sup> La vente de valeurs mobilières libellées en francs suisses ou en euros émises après le 12 avril 2022 ou de parts de placements collectifs offrant une exposition à ces valeurs, à tout ressortissant biélorusse, à toute personne physique résidant au Bélarus ou à toute banque, entreprise ou entité établie au Bélarus est interdite.
+<sup>1</sup> Il est interdit de vendre des valeurs mobilières libellées en francs suisses ou dans la monnaie officielle d’un État membre de l’Union européenne émises après le 12 avril 2022 ou des parts de placements collectifs de capitaux offrant une exposition à ces valeurs, à tout ressortissant biélorusse, à toute personne physique résidant au Bélarus ou à toute banque, entreprise ou entité établie au Bélarus.[^21-1]
 
 <sup>2</sup> Cette interdiction ne s’applique pas aux ressortissants suisses, d’un État membre de l’UE ni aux personnes titulaires d’un titre de séjour temporaire ou permanent en Suisse ou dans un État membre de l’UE.
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 259](https://fedlex.data.admin.ch/eli/oc/2022/259)).
 
 #### Art. 22
 
@@ -393,14 +395,17 @@ La fourniture de services spécialisés de messagerie financière, utilisés pou
 
 **Billets de banque**
 
-<sup>1</sup> La vente, la livraison, le transfert ou l’exportation de billets de banque libellés en francs suisses ou en euros au Bélarus ou à toute personne physique ou morale, toute entité ou toute entreprise au Bélarus, y compris le gouvernement et la Banque nationale de la République du Bélarus, ou aux fins d’une utilisation dans ce pays sont interdits.
+<sup>1</sup> La vente, la livraison, le transfert et l’exportation de billets de banque libellés en francs suisses ou dans la monnaie officielle d’un État membre de l’Union européenne au Bélarus ou à toute personne physique ou morale, toute entité ou toute entreprise au Bélarus, y compris le gouvernement et la Banque nationale de la République du Bélarus, ou aux fins d’une utilisation dans ce pays sont interdits.[^24-1]
 
 <sup>2</sup>
 
-L’interdiction prévue à l’al. 1 ne s’applique pas à la vente, à la livraison, au transfert ou à l’exportation de billets de banque libellés en francs suisses ou en euros pour autant que cette vente, cette livraison, ce transfert ou cette exportation soit nécessaire:
+L’interdiction prévue à l’al. 1 ne s’applique pas à la vente, à la livraison, au transfert et à l’exportation de billets de banque libellés en francs suisses ou dans la monnaie officielle d’un État membre de l’Union européenne pour autant que cette vente, cette livraison, ce transfert ou cette exportation soit nécessaire:[^24-2]
 
 - a. à l’usage personnel de personnes physiques se rendant au Bélarus ou de membres de leur famille proche qui voyagent avec elles, ou
 - b. à l’exercice d’activités officielles de représentations diplomatiques ou consulaires ou d’organisations internationales au Bélarus.
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 259](https://fedlex.data.admin.ch/eli/oc/2022/259)).
+[^24-2]: Nouvelle teneur selon le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 259](https://fedlex.data.admin.ch/eli/oc/2022/259)).
 
 ## Section 4 Autres restrictions
 
