@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2022-04-15
+version: 2022-04-27
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220415/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220415-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220415/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220427/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220427-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220427/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 15. April 2022)
+vom 4. März 2022 (Stand am 27. April 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -48,7 +48,7 @@ In dieser Verordnung bedeuten:
 - h. *Geldmarktinstrumente:* üblicherweise auf dem Geldmarkt gehandelte Gattungen von Instrumenten, wie Schatzanweisungen, Einlagenzertifikate und Commercial Papers, mit Ausnahme von Zahlungsinstrumenten;
 - i.
 
-  *Wertpapierdienstleistungen:* folgende Dienstleistungen und Tätigkeiten:
+  *Effektendienstleistungen:* folgende Dienstleistungen und Tätigkeiten:[^1-2]
 
   - 1\. die Entgegennahme und Weiterleitung von Aufträgen im Zusammenhang mit einem oder mehreren Finanzinstrumenten,
   - 2\. die Auftragsausführung für Kunden,
@@ -60,9 +60,9 @@ In dieser Verordnung bedeuten:
   - 8\. alle Dienstleistungen im Zusammenhang mit der Zulassung zum Handel auf einem geregelten Markt oder zum Handel in einem multilateralen Handelssystem;
 
 - j. *Handelsplatz:* Börsen, multilaterale Handelssysteme und organisierte Handelssysteme;
-- k.[^1-2] *Rating:* ein Bonitätsurteil in Bezug auf ein Unternehmen, einen Schuldtitel oder eine finanzielle Verbindlichkeit, eine Schuldverschreibung, eine Vorzugsaktie oder ein anderes Finanzinstrument oder einen Emittenten derartiger Schuldtitel, finanzieller Verbindlichkeiten, Schuldverschreibungen, Vorzugsaktien oder anderer Finanzinstrumente, das anhand eines festgelegten und etablierten Einstufungsverfahrens für Ratingkategorien abgegeben wird;
-- l.[^1-3] *Ratingtätigkeiten:* die Analyse von Daten und Informationen und die Bewertung, Genehmigung, Abgabe und Überprüfung von Ratings;
-- m.[^1-4]
+- k.[^1-3] *Rating:* ein Bonitätsurteil in Bezug auf ein Unternehmen, einen Schuldtitel oder eine finanzielle Verbindlichkeit, eine Schuldverschreibung, eine Vorzugsaktie oder ein anderes Finanzinstrument oder einen Emittenten derartiger Schuldtitel, finanzieller Verbindlichkeiten, Schuldverschreibungen, Vorzugsaktien oder anderer Finanzinstrumente, das anhand eines festgelegten und etablierten Einstufungsverfahrens für Ratingkategorien abgegeben wird;
+- l.[^1-4] *Ratingtätigkeiten:* die Analyse von Daten und Informationen und die Bewertung, Genehmigung, Abgabe und Überprüfung von Ratings;
+- m.[^1-5]
 
   *Energiesektor:* ein Sektor, der die folgenden Tätigkeiten umfasst, mit Ausnahme ziviler Tätigkeiten im Nuklearbereich:
 
@@ -71,9 +71,10 @@ In dieser Verordnung bedeuten:
   - 3\. den Bau von Anlagen oder die Installation von Ausrüstung für die Energie- und Stromerzeugung oder die Bereitstellung von Dienstleistungen, Ausrüstungen oder Technologien für Tätigkeiten im Zusammenhang damit.
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^1-2]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^1-2]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^1-3]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^1-4]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^1-5]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
 ## 2. Abschnitt: Beschränkungen des Handels
 
@@ -102,8 +103,12 @@ Die Einfuhr folgender Güter aus der Russischen Föderation und der Ukraine ist 
 
 <sup>2</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Beratung, sowie die Gewährung von Finanzmitteln im Zusammenhang mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, des Transports, der Bereitstellung, der Herstellung, der Wartung oder der Verwendung von besonderen militärischen Gütern gemäss Anhang 3 GKV nach oder zur Verwendung in der Russischen Föderation oder der Ukraine sind verboten.
 
+<sup>3</sup> Die Verbote nach den Absätzen 1 und 2 gelten nicht für Güter und Dienstleistungen, die durch die Organisation für das Verbot chemischer Waffen gemäss Artikel X Absatz 7 des Chemiewaffenübereinkommens vom 13. Januar 1993[^3-3] bei der Schweiz als Hilfeleistungen angefordert werden.[^3-4]
+
 [^3-1]: In Kraft bis 28. Febr. 2026 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^3-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^3-3]: [SR 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^3-4]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 #### Art. 4
 
@@ -178,29 +183,32 @@ Die Verbote und Bewilligungspflichten nach den Artikeln 4 und 5 gelten nicht fü
 
 <sup>2</sup>
 
-Das SECO kann Ausnahmen von den Verboten nach Artikel 4 Absätze 1 und 2 Buchstabe a sowie Artikel 5 Absätze 1 und 2 Buchstabe a bewilligen für Tätigkeiten, die für folgende zivile Zwecke oder zivile Endempfänger bestimmt sind:
+Das SECO kann Ausnahmen von den Verboten nach Artikel 4 Absätze 1 und 2 Buchstabe a sowie Artikel 5 Absätze 1 und 2 Buchstabe a bewilligen für Güter und Dienstleistungen, die für folgende zivile Zwecke oder zivile Endempfänger bestimmt sind:[^6-2]
 
 - a. die Zusammenarbeit zwischen der Schweiz und der Russischen Föderation in ausschliesslich zivilen Angelegenheiten;
 - b. die zwischenstaatliche Zusammenarbeit bei Raumfahrtprogrammen;
 - c. den Betrieb, die Instandhaltung und die Wiederaufbereitung von Brennelementen, die Sicherheit ziviler nuklearer Kapazitäten sowie die zivile nukleare Zusammenarbeit, insbesondere im Bereich der Forschung und Entwicklung;
 - d. die maritime Sicherheit;
-- e. zivile Telekommunikationsnetze, einschliesslich der Bereitstellung von Internetdiensten;
+- e.[^6-3] zivile, nicht öffentlich zugängliche elektronische Kommunikationsnetze und Internetdienste, die nicht einer Organisation gehören, die von einer staatlichen Stelle kontrolliert wird oder an der eine staatliche Stelle zu über fünfzig Prozent beteiligt ist;
 - f. die Verwendung durch Organisationen, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle einer nach Schweizer Recht oder dem Recht eines Partners gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung befinden; oder
 - g. diplomatische Vertretungen der Schweiz oder ihrer Partner.
 
 <sup>3</sup>
 
-Das SECO verweigert die Bewilligung von Ausnahmen nach Absatz 2, wenn Grund zur Annahme besteht, dass:
+Das SECO verweigert die Bewilligung von Ausnahmen nach Absatz 2, wenn Grund zur Annahme besteht, dass die Güter oder Dienstleistungen bestimmt sind für:
 
-- a. eine Tätigkeit zugunsten eines militärischen Endempfängers, einer militärischen Endverwendung oder für die Luft- oder Raumfahrtindustrie erfolgen soll; oder
-- b. eine Tätigkeit für den Energiesektor bestimmt ist, es sei denn, die Tätigkeit ist gemäss Artikel 11 Absätze 3–5 erlaubt.[^6-2]
+- a. einen militärischen Endempfänger oder eine natürliche Person, ein Unternehmen oder eine Organisation gemäss Anhang 2;
+- b. die Luft- oder Raumfahrtindustrie; oder
+- c. eine Tätigkeit für den Energiesektor, es sei denn, diese Tätigkeit ist gemäss Artikel 11 Absätze 3–5 erlaubt.[^6-4]
 
-<sup>4</sup> Die Bewilligungspflicht für zivil und militärisch verwendbare Güter nach Artikel 3 GKV[^6-3] gilt auch bei Ausnahmen nach den Absätzen 1 und 2.[^6-4]
+<sup>4</sup> Die Bewilligungspflicht für zivil und militärisch verwendbare Güter nach Artikel 3 GKV[^6-5] gilt auch bei Ausnahmen nach den Absätzen 1 und 2.[^6-6]
 
 [^6-1]: In Kraft bis 28. Febr. 2026 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^6-2]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^6-3]: [[SR 946.202.1](https://www.fedlex.admin.ch/eli/cc/2016/352/de)](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^6-4]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^6-2]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^6-3]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^6-4]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^6-5]: [[SR 946.202.1](https://www.fedlex.admin.ch/eli/cc/2016/352/de)](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^6-6]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
 #### Art. 7
 
@@ -229,6 +237,15 @@ Bewilligungen nach den Artikeln 4–6 werden sistiert oder widerrufen, wenn sich
 <sup>4</sup> Die Erbringung von Dienstleistungen, einschliesslich technischer Hilfe und Vermittlungsdiensten, im Zusammenhang mit Gütern nach Absatz 1 oder mit der Bereitstellung, Herstellung, Wartung und Verwendung dieser Güter an Personen oder Organisationen in der Russischen Föderation oder zur Verwendung in der Russischen Föderation ist verboten.
 
 <sup>5</sup> Die Bereitstellung von Finanzmitteln oder Finanzhilfen im Zusammenhang mit Gütern nach Absatz 1 für den Verkauf, die Lieferung, die Ausfuhr oder die Durchfuhr dieser Güter oder für damit verbundene Dienstleistungen für Personen oder Organisationen in der Russischen Föderation oder zur Verwendung in der Russischen Föderation ist verboten.
+
+<sup>6</sup>
+
+Das SECO kann für die Erfüllung von Finanzierungsleasingverträgen für Luftfahrzeuge, die vor dem 5. März 2022 abgeschlossen wurden, Ausnahmen von den Verboten gemäss den Absätzen 1, 4 und 5 genehmigen, falls:
+
+- a. dies erforderlich ist für die Zahlung der Leasingraten an nach Schweizer Recht oder dem Recht eines Mitgliedsstaates des Europäischen Wirtschaftsraums (EWR) gegründete oder eingetragene juristische Personen, Unternehmen oder Organisationen, die nicht unter Massnahmen nach dieser Verordnung fallen; und
+- b. dem russischen Vertragspartner ausser der Übertragung des Eigentums an dem Luftfahrzeug nach der vollständigen Begleichung der Leasingverbindlichkeiten keine weiteren wirtschaftlichen Ressourcen zur Verfügung gestellt werden.[^9-1]
+
+[^9-1]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 #### Art. 9a
 
@@ -260,17 +277,44 @@ Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleist
 [^9a-4]: In Kraft bis 28. Febr. 2026 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^9a-5]: In Kraft bis 28. Febr. 2026 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
+#### Art. 9b
+
+**Flugturbinenkraftstoffe und Kraftstoffadditive**[^9b-1]
+
+<sup>1</sup>
+
+Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Flugturbinenkraftstoffen und Kraftstoffadditiven gemäss Anhang 19:
+
+- a. nach oder zur Verwendung in der Russischen Föderation sind verboten;
+- b.[^9b-2] nach oder zur Verwendung in der Ukraine unterliegen einer Bewilligungspflicht.
+
+<sup>2</sup>
+
+Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Hilfe, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Gütern nach Absatz 1 oder mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, der Bereitstellung, der Herstellung und der Verwendung dieser Güter:
+
+- a. nach oder zur Verwendung in der Russischen Föderation ist verboten;
+- b.[^9b-3] nach oder zur Verwendung in der Ukraine unterliegt einer Bewilligungspflicht.
+
+<sup>3</sup> Das SECO verweigert Bewilligungen für Güter und Dienstleistungen nach den Absätzen 1 Buchstabe b und 2 Buchstabe b, wenn diese ganz oder teilweise für militärische Zwecke oder für militärische Endempfänger bestimmt sind.
+
+[^9b-1]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^9b-2]: Gilt bis zum 26. April 2026 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^9b-3]: Gilt bis zum 26. April 2026 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+
 #### Art. 10
 
-**Güter für die Ölraffination**
+**Güter für die Ölraffination und die Verflüssigung von Erdgas[^10-1]**
 
-<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Gütern nach Anhang 4, die zur Ölraffination verwendet werden, an Personen oder Organisationen in der Russischen Föderation oder zur Verwendung in der Russischen Föderation sind verboten.
+<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Gütern für die Ölraffination und die Verflüssigung von Erdgas gemäss Anhang 4 nach oder zur Verwendung in der Russischen Föderation sind verboten.[^10-2]
 
 <sup>2</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Beratung, sowie die Gewährung von Finanzmitteln im Zusammenhang mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, der Bereitstellung, der Herstellung, der Wartung oder der Verwendung von Gütern nach Absatz 1 sind verboten.
 
 <sup>3</sup> Das SECO kann nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen, sofern dies notwendig ist für die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und erhebliche Auswirkungen auf die menschliche Gesundheit und Sicherheit oder auf die Umwelt haben wird.
 
 <sup>4</sup> In hinreichend begründeten dringenden Fällen kann der Verkauf, die Lieferung, die Ausfuhr oder die Durchfuhr von Gütern nach Anhang 4 ohne vorherige Bewilligung erfolgen, sofern der Ausführer das SECO innerhalb von fünf Arbeitstagen über den Verkauf, die Lieferung, die Ausfuhr oder die Durchfuhr unterrichtet und die einschlägigen Gründe darlegt.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^10-2]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 #### Art. 11
 
@@ -284,25 +328,44 @@ Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleist
 
 Die Verbote nach den Absätzen 1 und 2 gelten nicht für den Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr und den Transport von Gütern oder die Erbringung von technischer Hilfe oder die Gewährung von Finanzmitteln im Zusammenhang mit Gütern, die erforderlich sind für:
 
-- a. die Beförderung von fossilen Brennstoffen, insbesondere Kohle, Erdöl und Erdgas, aus oder durch die Russische Föderation in die Schweiz oder in den Europäischen Wirtschaftsraum (EWR); oder
+- a.[^11-2] den Transport von Erdgas und Erdöl, einschliesslich raffinierter Erdölerzeugnisse, aus der oder durch die Russische Föderation in die Schweiz oder den EWR; oder
 - b. die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Mensch und Umwelt haben wird.
 
 <sup>4</sup> Die Verbote nach Absatz 2 gelten nicht für Versicherungen und Rückversicherungen zugunsten eines nach Schweizer Recht oder dem Recht eines EWR-Mitgliedsstaates gegründeten oder eingetragenen Unternehmens in Bezug auf dessen Tätigkeiten ausserhalb des russischen Energiesektors.
 
 <sup>5</sup>
 
-Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und, wo Finanzdienstleistungen oder Energieversorgung betroffen sind, des Eidgenössischen Finanzdepartements (EFD) oder des Eidgenössischen Departements für Umwelt, Verkehr, Energie und Kommunikation Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen, falls:
+Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und, wo Finanzdienstleistungen oder Energieversorgung betroffen sind, des Eidgenössischen Finanzdepartements (EFD) oder des Eidgenössischen Departements für Umwelt, Verkehr, Energie und Kommunikation (UVEK) Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen, falls:
 
 - a. dies notwendig ist, um bei einer unmittelbar drohenden oder bereits bestehenden schweren Mangellage die Energieversorgung der Schweiz oder eines EWR-Mitgliedsstaates sicherzustellen; oder
 - b. die Güter oder Dienstleistungen für die ausschliessliche Nutzung durch Organisationen bestimmt sind, die sich im Eigentum oder unter der vollständigen oder teilweisen Kontrolle einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedsstaates gegründeten oder eingetragenen Organisation befinden.
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^11-2]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+
+#### Art. 11a
+
+**Güter zur Stärkung der Industrie**[^11a-1]
+
+<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr und der Transport von Gütern zur Stärkung der Industrie gemäss Anhang 23 nach oder zur Verwendung in der Russischen Föderation sind verboten.
+
+<sup>2</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Beratung, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Gütern nach Absatz 1 oder im Zusammenhang mit dem Verkauf, der Ausfuhr, der Durchfuhr oder dem Transport sowie der Bereitstellung, der Herstellung, der Wartung oder der Verwendung dieser Güter nach oder zur Verwendung in der Russischen Föderation ist verboten.
+
+<sup>3</sup> Die Verbote nach den Absätzen 1 und 2 gelten nicht für Güter und Dienstleistungen, die für die amtliche Tätigkeit diplomatischer oder konsularischer Vertretungen der Schweiz oder ihrer Partner in der Russischen Föderation oder internationaler Organisationen erforderlich sind.
+
+<sup>4</sup> Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD für humanitäre Zwecke Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen.
+
+[^11a-1]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 #### Art. 12
 
-[^12-1]
+**Feste fossile Brennstoffe**[^12-1]
 
-[^12-1]: Aufgehoben durch Ziff. I der V vom 25. März 2022, mit Wirkung seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+<sup>1</sup> Der Kauf, die Einfuhr, die Durchfuhr und der Transport von Kohle und anderen festen fossilen Brennstoffen gemäss Anhang 22 aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation sind verboten.
+
+<sup>2</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Beratung, sowie die Gewährung von Finanzmitteln im Zusammenhang mit dem Kauf, der Einfuhr, der Durchfuhr, dem Transport, der Bereitstellung, der Herstellung oder der Verwendung von Kohle und anderen festen fossilen Brennstoffen aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation sind verboten.
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 #### Art. 13
 
@@ -322,7 +385,7 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und, wo Fin
 
 <sup>3</sup> Ausgenommen von den Verboten nach den Absätzen 1 und 2 sind Handlungen, die für die amtliche Tätigkeit diplomatischer oder konsularischer Vertretungen oder internationaler Organisationen, für humanitäre Aktivitäten sowie für Spitäler oder Bildungseinrichtungen mit Sitz in den in Anhang 6 bezeichneten Gebieten erforderlich sind.
 
-<sup>4</sup> Das SECO kann, nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements (EFD), Ausnahmen von den Verboten nach den Absätzen 1 und 2 gewähren, sofern dies für die Abwendung oder Eindämmung eines Ereignisses erforderlich ist, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Menschen, einschliesslich der Sicherheit vorhandener Infrastruktur, oder die Umwelt haben wird.
+<sup>4</sup> Das SECO kann, nach Rücksprache mit den zuständigen Stellen des EDA und des EFD, Ausnahmen von den Verboten nach den Absätzen 1 und 2 gewähren, sofern dies für die Abwendung oder Eindämmung eines Ereignisses erforderlich ist, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Menschen, einschliesslich der Sicherheit vorhandener Infrastruktur, oder die Umwelt haben wird.
 
 <sup>5</sup> In hinreichend begründeten dringenden Fällen kann der Verkauf, die Lieferung, die Weitergabe oder die Ausfuhr ohne vorherige Genehmigung erfolgen, sofern der Ausführer das SECO innerhalb von fünf Arbeitstagen nach dem Verkauf, der Lieferung, der Weitergabe oder der Ausfuhr darüber unterrichtet und die einschlägigen Gründe für den Verkauf, die Lieferung, die Weitergabe oder die Ausfuhr ohne vorherige Genehmigung ausführlich darlegt.
 
@@ -349,7 +412,23 @@ Das Verbot nach Absatz 1 gilt nicht für Güter, die:
 - a. für die amtliche Tätigkeit diplomatischer oder konsularischer Vertretungen der Schweiz oder ihrer Partner in der Russischen Föderation oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen, erforderlich sind; oder
 - b. für den persönlichen Gebrauch durch Mitarbeitende der in Buchstabe a genannten Vertretungen und Organisationen bestimmt sind.
 
+<sup>3</sup> Das SECO kann für die Lieferung oder die Ausfuhr von Kulturgütern in die Russische Föderation Ausnahmen vom Verbot nach Absatz 1 bewilligen, wenn es sich dabei um Leihgaben im Rahmen der offiziellen kulturellen Zusammenarbeit mit der Russischen Föderation handelt.[^14b-2]
+
 [^14b-1]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^14b-2]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+
+#### Art. 14c
+
+**Wirtschaftlich bedeutende Güter**[^14c-1]
+
+<sup>1</sup> Der Kauf, die Einfuhr, die Durchfuhr und der Transport von für die Russische Föderation wirtschaftlich bedeutenden Gütern gemäss Anhang 20 aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation sind verboten.
+
+<sup>2</sup> Die unmittelbare oder mittelbare Erbringung von Dienstleistungen aller Art, einschliesslich technischer Hilfe und Vermittlung, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Gütern nach Absatz 1 oder mit dem Kauf, der Einfuhr, der Durchfuhr oder dem Transport sowie der Bereitstellung, der Herstellung, der Wartung oder der Verwendung dieser Güter ist verboten.
+
+<sup>3</sup> Die Verbote nach den Absätzen 1 und 2 gelten nicht für die Einfuhrkontingente gemäss Anhang 21.[^14c-2]
+
+[^14c-1]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^14c-2]: Tritt am 29. Juli 2022 in Kraft ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 ## 3. Abschnitt: Finanzielle Beschränkungen
 
@@ -377,19 +456,31 @@ Das SECO kann ausnahmsweise Zahlungen aus gesperrten Konten, Übertragungen gesp
 - a. Vermeidung von Härtefällen;
 - b. Erfüllung bestehender Verträge;
 - c. Erfüllung von Forderungen, die Gegenstand einer bestehenden Entscheidung eines Gerichts, einer Verwaltungsstelle oder eines Schiedsgerichts sind;
-- d. Erfüllung amtlicher Tätigkeiten von russischen diplomatischen oder konsularischen Vertretungen;
+- d.[^15-3] Erfüllung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen;
 - e. Wahrung schweizerischer Interessen; oder
-- f. Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung im Zusammenhang mit der Situation in der Ukraine.[^15-3]
+- f. Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung im Zusammenhang mit der Situation in der Ukraine.[^15-4]
 
-<sup>6</sup> Das SECO kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter den SSID-Nummern 175‑48057, 175‑48067 und 175‑48076 genannten Organisationen befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisationen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind, um Geschäfte, Verträge oder sonstige Vereinbarungen, einschliesslich der entsprechenden Bankbeziehungen, spätestens am 24. August 2022 zu beenden, die mit diesen Organisationen vor dem 23. Februar 2022 abgeschlossen wurden.[^15-4]
+<sup>5bis</sup>
 
-<sup>7</sup> Es bewilligt Ausnahmen nach den Absätzen 4‒6 nach Rücksprache mit den zuständigen Stellen des EDA und des EFD.[^15-5]
+Das SECO kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen an eine natürliche oder juristische Person, ein Unternehmen oder eine Organisation gemäss Anhang 8 genehmigen, damit Eigentumsrechte an in der Schweiz oder in den EWR-Mitgliedstaaten niedergelassenen juristischen Personen, Unternehmen oder Organisationen bis zum 28. Oktober 2022 verkauft oder übertragen werden können, sofern:
+
+- a. diese Eigentumsrechte sich unmittelbar oder mittelbar im Besitz einer natürlichen oder juristischen Person, eines Unternehmens oder einer Organisation gemäss Anhang 8 befinden; und
+- b. die Erlöse aus dem Verkauf oder der Übertragung eingefroren bleiben.[^15-5]
+
+<sup>6</sup> Das SECO kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter den SSID-Nummern 175‑48057, 175‑48067 und 175‑48076 genannten Organisationen befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisationen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind, um Geschäfte, Verträge oder sonstige Vereinbarungen, einschliesslich der entsprechenden Bankbeziehungen, spätestens am 24. August 2022 zu beenden, die mit diesen Organisationen vor dem 23. Februar 2022 abgeschlossen wurden.[^15-6]
+
+<sup>7</sup> Das SECO kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter den SSID-Nummern 175‑54306, 175‑54319, 175‑54329 und 175-54340 genannten Organisationen befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisationen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind, um Geschäfte, Verträge oder sonstige Vereinbarungen, einschliesslich der entsprechenden Bankbeziehungen, die mit diesen Organisationen vor dem 27. April 2022 abgeschlossen wurden, spätestens am 28. Oktober 2022 zu beenden.[^15-7]
+
+<sup>8</sup> Es bewilligt Ausnahmen nach den Absätzen 4‒7 nach Rücksprache mit den zuständigen Stellen des EDA und des EFD.[^15-8]
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^15-2]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-3]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-4]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-5]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-3]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^15-4]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-5]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^15-6]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-7]: Eingefügt durch Ziff. I der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^15-8]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 #### Art. 16
 
@@ -417,41 +508,43 @@ Das Verbot nach Absatz 1 gilt nicht für:
 
 #### Art. 18
 
-**Verbot der Begebung und des Handels von übertragbaren Wertpapieren und Geldmarktinstrumenten**
+**Verbot der Ausgabe und des Handels von Effekten und Geldmarktinstrumenten**[^18-1]
 
 <sup>1</sup>
 
-Die Unterstützung bei der Begebung von, der Handel von und die Erbringung von Wertpapierdienstleistungen im Zusammenhang mit übertragbaren Wertpapieren und Geldmarktinstrumenten mit einer Laufzeit von mehr als 90 Tagen, die nach dem 27. August 2014 und bis zum 12. November 2014 begeben wurden, oder übertragbaren Wertpapieren und Geldmarktinstrumenten mit einer Laufzeit von mehr als 30 Tagen, die nach dem 12. November 2014 und bis zum 12. April 2022 begeben wurden, oder übertragbaren Wertpapieren und Geldmarktinstrumenten, die nach dem 12. April 2022 begeben wurden, durch einen der folgenden Emittenten sind verboten:
+Die Unterstützung bei der Ausgabe von, der Handel von und die Erbringung von Effektendienstleistungen im Zusammenhang mit Effekten und Geldmarktinstrumenten mit einer Laufzeit von mehr als 90 Tagen, die nach dem 27. August 2014 und bis zum 12. November 2014 ausgegeben wurden, Effekten und Geldmarktinstrumenten mit einer Laufzeit von mehr als 30 Tagen, die nach dem 12. November 2014 und bis zum 12. April 2022 ausgegeben wurden, und Effekten und Geldmarktinstrumenten, die nach dem 12. April 2022 ausgegeben wurden, durch einen der folgenden Emittenten sind verboten:
 
 - a. Banken oder andere Unternehmen mit Sitz in der Russischen Föderation nach Anhang 9;
-- b. Banken, Unternehmen oder Organisationen mit Sitz ausserhalb der Schweiz, die von Banken oder Unternehmen nach Anhang 9 zu über 50 Prozent beherrscht werden;
+- b. Banken, Unternehmen oder Organisationen mit Sitz ausserhalb der Schweiz, an denen Banken oder Unternehmen nach Anhang 9 zu über fünfzig Prozent beteiligt sind;
 - c. Unternehmen oder Organisationen, die im Namen oder auf Anweisung von Banken, Unternehmen oder Organisationen nach Buchstabe a oder b handeln.
 
 <sup>2</sup>
 
-Die Unterstützung bei der Begebung von, der Handel von und die Erbringung von Wertpapierdienstleistungen im Zusammenhang mit übertragbaren Wertpapieren und Geldmarktinstrumenten die nach dem 12. April 2022 begeben wurden, durch einen der folgenden Emittenten sind verboten:
+Die Unterstützung bei der Ausgabe von, der Handel von und die Erbringung von Effektendienstleistungen im Zusammenhang mit Effekten und Geldmarktinstrumenten, die nach dem 12. April 2022 ausgegeben wurden, durch einen der folgenden Emittenten sind verboten:
 
 - a. Banken oder andere Unternehmen mit Sitz in der Russischen Föderation nach den Anhängen 10 und 11;
-- b. Banken, Unternehmen oder Organisationen mit Sitz ausserhalb der Schweiz, die von Banken oder Unternehmen nach den Anhängen 10 und 11 zu über 50 Prozent beherrscht werden;
+- b. Banken, Unternehmen oder Organisationen mit Sitz ausserhalb der Schweiz, an denen Banken oder Unternehmen nach den Anhängen 10 und 11 zu über fünfzig Prozent beteiligt sind;
 - c. Unternehmen und Organisationen, die im Namen oder auf Anweisung von Banken, Unternehmen oder Organisationen nach Buchstabe a oder b handeln.
 
 <sup>3</sup>
 
-Die Unterstützung bei der Begebung von, der Handel von und die Erbringung von Wertpapierdienstleistungen im Zusammenhang mit übertragbaren Wertpapieren und Geldmarktinstrumenten mit einer Laufzeit von mehr als 30 Tagen, die nach dem 12. November 2014 und bis zum 12. April 2022 begeben wurden, oder mit übertragbaren Wertpapieren und Geldmarktinstrumenten, die nach dem 12. April 2022 begeben wurden, durch einen der folgenden Emittenten sind verboten:
+Die Unterstützung bei der Ausgabe von, der Handel von und die Erbringung von Effektendienstleistungen im Zusammenhang mit Effekten und Geldmarktinstrumenten mit einer Laufzeit von mehr als 30 Tagen, die nach dem 12. November 2014 und bis zum 12. April 2022 ausgegeben wurden und mit Effekten und Geldmarktinstrumenten, die nach dem 12. April 2022 ausgegeben wurden, durch einen der folgenden Emittenten sind verboten:
 
 - a. Banken oder andere Unternehmen mit Sitz in der Russischen Föderation nach den Anhängen 12 und 13;
-- b. Banken, Unternehmen oder Organisationen mit Sitz ausserhalb der Schweiz, die von Banken oder Unternehmen nach Buchstabe a zu über 50 Prozent beherrscht werden;
+- b. Banken, Unternehmen oder Organisationen mit Sitz ausserhalb der Schweiz, an denen Banken oder Unternehmen nach Buchstabe a zu über fünfzig Prozent beteiligt sind;
 - c. Unternehmen oder Organisationen, die im Namen oder auf Anweisung von Banken, Unternehmen oder Organisationen nach Buchstabe a oder b handeln.
 
 <sup>4</sup>
 
-Die Unterstützung bei der Begebung von, der Handel von und die Erbringung von Wertpapierdienstleistungen im Zusammenhang mit übertragbaren Wertpapieren und Geldmarktinstrumenten, die nach dem 14. März 2022 begeben wurden, durch einen der folgenden Emittenten sind verboten:
+Die Unterstützung bei der Ausgabe von, der Handel von und die Erbringung von Effektendienstleistungen im Zusammenhang mit Effekten und Geldmarktinstrumenten, die nach dem 14. März 2022 ausgegeben wurden, durch einen der folgenden Emittenten sind verboten:
 
 - a. die Russische Föderation und ihre Regierung;
 - b. die Zentralbank der Russischen Föderation;
 - c. Unternehmen oder Organisationen, die im Namen oder auf Anweisung der Zentralbank der Russischen Föderation handeln.
 
-<sup>5</sup> Ab dem 12. April 2022 ist es verboten, an in der Schweiz registrierten oder anerkannten Handelsplätzen übertragbare Wertpapiere von in der Russischen Föderation niedergelassenen Banken, Unternehmen oder Organisationen, die sich zu über 50 Prozent in öffentlicher Inhaberschaft befinden, zu notieren und Dienstleistungen dafür zu erbringen.
+<sup>5</sup> Es ist verboten, an Handelsplätzen Effekten von in der Russischen Föderation niedergelassenen Banken, Unternehmen oder Organisationen, die von einer staatlichen Stelle kontrolliert werden oder an denen eine staatliche Stelle zu über fünfzig Prozent beteiligt ist, zu notieren und Dienstleistungen dafür zu erbringen.
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 #### Art. 19
 
@@ -467,7 +560,7 @@ Ausgenommen ist die Gewährung von Darlehen zu folgenden Zwecken:
 
 - a. zur Finanzierung des durch diese Verordnung nicht betroffenen Handels zwischen der Schweiz oder der Europäischen Union und Drittstaaten;
 - b. zur Finanzierung der für die Erfüllung eines Handelsvertrags nach Buchstabe a notwendigen Güterlieferungen und Dienstleistungen aus der Europäischen Union oder Drittstaaten;
-- c. zur Sicherstellung der gesetzlich vorgeschriebenen Liquidität zugunsten von juristischen Personen mit Sitz in der Schweiz oder der Europäischen Union, die von Banken oder Unternehmen nach Anhang 9 zu über 50 Prozent beherrscht werden.
+- c.[^19-1] zur Sicherstellung der gesetzlich vorgeschriebenen Liquidität juristischer Personen mit Sitz in der Schweiz oder der Europäischen Union, an denen Banken oder Unternehmen nach Anhang 9 zu über fünfzig Prozent beteiligt sind.
 
 <sup>4</sup>
 
@@ -503,62 +596,65 @@ Die Verbote nach den Absätzen 1 und 2 gelten nicht für Bezüge und Auszahlunge
 - b. Es wurde vor dem 5. März 2022 vertraglich festgelegt, an welchem Datum die vollständige Rückzahlung aller zur Verfügung gestellten Mittel fällig wird und alle Verpflichtungen, Rechte und Pflichten erlöschen, die sich aus dem Vertrag ergeben.
 - c. Mit dem Vertrag wurde zum Zeitpunkt seines Abschlusses nicht gegen die Verbote nach dieser Verordnung in der dannzumal geltenden Fassung verstossen.
 
+[^19-1]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+
 #### Art. 20
 
-**Verbot der Entgegennahme von Einlagen**
+**Verbot der Entgegennahme von Einlagen und kryptobasierten Vermögenswerten**[^20-1]
 
-<sup>1</sup> Die Entgegennahme von Einlagen von russischen Staatsangehörigen oder in der Russischen Föderation ansässigen natürlichen Personen oder von in der Russischen Föderation niedergelassenen Banken, Unternehmen oder Organisationen ist verboten, wenn der Gesamtwert der Einlagen der natürlichen oder juristischen Person, des Unternehmens oder der Organisation pro Bank oder nach Artikel 1*b* des Bankengesetzes vom 8. November 1934[^20-1] (BankG) bewilligte Person 100 000 Franken übersteigt.[^20-2]
+<sup>1</sup> Die Entgegennahme von Einlagen von russischen Staatsangehörigen, in der Russischen Föderation ansässigen natürlichen Personen oder in der Russischen Föderation niedergelassenen Banken, Unternehmen oder Organisationen durch Personen und Einrichtungen, die gewerbsmässig Einlagen entgegennehmen und Kredite gewähren, ist verboten, wenn der Gesamtwert der Einlagen der natürlichen Person, der Bank, des Unternehmens oder der Organisation pro Person oder Einrichtung 100 000 Franken übersteigt.
 
-<sup>2</sup>
-
-Das Verbot gilt nicht für:
-
-- a. Schweizer Staatsangehörige, Staatsangehörige eines EWR-Mitgliedstaats und natürliche Personen, die über einen befristeten oder unbefristeten Aufenthaltstitel der Schweiz oder eines EWR-Mitgliedstaats verfügen;
-- b. Einlagen, die für den nicht verbotenen grenzüberschreitenden Handel mit Waren und Dienstleistungen zwischen der Schweiz und der Russischen Föderation, zwischen der Schweiz und dem EWR sowie zwischen dem EWR und der Russischen Föderation erforderlich sind.[^20-3]
+<sup>2</sup> Die Bereitstellung von Dienstleistungen im Zusammenhang mit Kryptowallets, Kryptokonten oder der Verwahrung von kryptobasierten Vermögenswerten an russische Staatsangehörige, an in der Russischen Föderation ansässige natürliche Personen oder in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen durch Personen oder Einrichtungen, die gewerbsmässig solche Dienstleistungen erbringen, ist verboten, wenn der Gesamtwert der kryptobasierten Vermögenswerte der natürlichen oder juristischen Person, des Unternehmens oder der Organisation pro Wallet, Konto oder Verwahrungsdienstleister 10 000 Franken übersteigt.
 
 <sup>3</sup>
 
-Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen vom Verbot nach Absatz 1 bewilligen für Einlagen, die erforderlich sind:
+Die Verbote nach den Absätzen 1 und 2 gelten nicht für:
+
+- a. Schweizer Staatsangehörige, Staatsangehörige eines EWR-Mitgliedstaats sowie natürliche Personen, die über einen befristeten oder unbefristeten Aufenthaltstitel der Schweiz oder eines EWR-Mitgliedstaats verfügen;
+- b. Einlagen, die für den nicht verbotenen grenzüberschreitenden Handel mit Waren und Dienstleistungen zwischen der Schweiz und der Russischen Föderation, der Schweiz und dem EWR oder dem EWR und der Russischen Föderation erforderlich sind.
+
+<sup>4</sup>
+
+Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen für Einlagen oder die Bereitstellung von Dienstleistungen im Zusammenhang mit Kryptowallets, Kryptokonten oder der Verwahrung von kryptobasierten Vermögenswerten, die erforderlich sind:
 
 - a. zur Vermeidung von Härtefällen;
 - b. zu humanitären Zwecken oder zu Evakuierungszwecken;
 - c. für zivilgesellschaftliche Aktivitäten, welche die Demokratie, die Menschenrechte oder die Rechtsstaatlichkeit in der Russischen Föderation unmittelbar fördern;
-- d. zur Erfüllung amtlicher Zwecke von diplomatischen oder konsularischen Vertretungen oder einer internationalen Organisation;
+- d. zur Erfüllung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen oder internationaler Organisationen;
 - e. zur Wahrung schweizerischer Interessen.
 
-[^20-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^20-2]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^20-3]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^20-1]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 #### Art. 21
 
-**Meldepflicht für bestehende Einlagen**
+**Meldepflicht für bestehende Einlagen**[^21-1]
 
-Banken oder nach Artikel 1*b* BankG[^21-1] bewilligte Personen sind verpflichtet, dem SECO bis zum 3. Juni 2022 eine Liste der 100 000 Franken übersteigenden Einlagen von russischen Staatsangehörigen oder in der Russischen Föderation ansässigen natürlichen Personen oder von in der Russischen Föderation niedergelassenen Banken, Unternehmen oder Organisationen zu übermitteln. Sie legen alle zwölf Monate aktuelle Informationen über die Höhe dieser Einlagen vor.[^21-2]
+Personen und Einrichtungen, die gewerbsmässig Einlagen entgegennehmen und Kredite gewähren, sind verpflichtet, dem SECO bis zum 3. Juni 2022 eine Liste der 100 000 Franken übersteigenden Einlagen von russischen Staatsangehörigen, in der Russischen Föderation ansässigen natürlichen Personen und in der Russischen Föderation niedergelassenen Banken, Unternehmen oder Organisationen zu übermitteln. Sie legen dem SECO alle zwölf Monate aktuelle Informationen über die Höhe dieser Einlagen vor.
 
-[^21-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^21-2]: Berichtigung vom 18. März 2022 ([AS 2022 183](https://fedlex.data.admin.ch/eli/oc/2022/183)).
+[^21-1]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 #### Art. 22
 
 **Verbot der Erbringung von gewissen Dienstleistungen für Zentralverwahrer**
 
-<sup>1</sup> Zentralverwahrern der Schweiz ist es verboten, ihre Dienstleistungen für übertragbare Wertpapiere zu erbringen, die nach dem 12. April 2022 an russische Staatsangehörige oder in der Russischen Föderation ansässige natürliche Personen oder an in der Russischen Föderation niedergelassene Banken, Unternehmen oder Organisationen ausgegeben werden.
+<sup>1</sup> Zentralverwahrern ist es verboten, ihre Dienstleistungen für Effekten zu erbringen, die nach dem 12. April 2022 an russische Staatsangehörige, in der Russischen Föderation ansässige natürliche Personen oder in der Russischen Föderation niedergelassene Banken, Unternehmen oder Organisationen ausgegeben wurden.[^22-1]
 
-<sup>2</sup> Dieses Verbot gilt nicht für Schweizer Staatsangehörige, Staatsangehörige eines EWR-Mitgliedstaats und natürliche Personen, die über einen befristeten oder unbefristeten Aufenthaltstitel der Schweiz oder eines EWR-Mitgliedstaats verfügen.[^22-1]
+<sup>2</sup> Dieses Verbot gilt nicht für Schweizer Staatsangehörige, Staatsangehörige eines EWR-Mitgliedstaats und natürliche Personen, die über einen befristeten oder unbefristeten Aufenthaltstitel der Schweiz oder eines EWR-Mitgliedstaats verfügen.[^22-2]
 
-[^22-1]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^22-1]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^22-2]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
 #### Art. 23
 
-**Verbot des Verkaufs von übertragbaren Wertpapieren**
+**Verbot des Verkaufs von Effekten[^23-1]**
 
-<sup>1</sup> Es ist verboten, auf Schweizerfranken oder auf Euro lautende übertragbare Wertpapiere, die nach dem 12. April 2022 begeben werden, oder Anteile an Organismen für gemeinsame Anlagen, die in diesen Wertpapieren investiert sind, an russische Staatsangehörige oder in der Russischen Föderation ansässige natürliche Personen oder an in der Russischen Föderation niedergelassene Banken, Unternehmen oder Organisationen zu verkaufen.[^23-1]
+<sup>1</sup> Der Verkauf von auf Schweizerfranken oder auf eine amtliche Währung eines Mitgliedsstaates der Europäischen Union lautenden Effekten, die nach dem 12. April 2022 ausgegeben wurden, oder von Anteilen an kollektiven Kapitalanlagen, die in diesen Effekten investiert sind, an russische Staatsangehörige, in der Russischen Föderation ansässige natürliche Personen oder an in der Russischen Föderation niedergelassene Banken, Unternehmen oder Organisationen ist verboten.[^23-2]
 
-<sup>2</sup> Dieses Verbot gilt nicht für Schweizer Staatsangehörige, Staatsangehörige eines EWR-Mitgliedstaats und natürliche Personen, die über einen befristeten oder unbefristeten Aufenthaltstitel der Schweiz oder eines EWR-Mitgliedstaats verfügen.[^23-2]
+<sup>2</sup> Dieses Verbot gilt nicht für Schweizer Staatsangehörige, Staatsangehörige eines EWR-Mitgliedstaats und natürliche Personen, die über einen befristeten oder unbefristeten Aufenthaltstitel der Schweiz oder eines EWR-Mitgliedstaats verfügen.[^23-3]
 
-[^23-1]: Die Berichtigung vom 18. März 2022 betrifft nur den italienischen Text ([AS 2022 183](https://fedlex.data.admin.ch/eli/oc/2022/183)).
-[^23-2]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^23-1]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^23-2]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^23-3]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
 #### Art. 24
 
@@ -591,7 +687,7 @@ Es ist verboten, unmittelbar oder mittelbar Geschäfte zu tätigen mit:
 
 Das Verbot nach Absatz 1 gilt nicht für:
 
-- a. Transkationen, die unbedingt erforderlich sind für den Kauf, die Einfuhr oder den Transport von fossilen Brennstoffen, insbesondere Kohle, Erdöl und Erdgas, sowie von Titan, Aluminium, Kupfer, Nickel, Palladium und Eisenerz aus der Russischen Föderation oder durch die Russische Föderation in die Schweiz oder in einen EWR-Mitgliedstaat;
+- a.[^24a-2] Transaktionen, die unbedingt erforderlich sind für den Kauf, die Einfuhr oder den Transport von Erdgas und Erdöl, einschliesslich raffinierter Erdölerzeugnisse, sowie von Titan, Aluminium, Kupfer, Nickel, Palladium und Eisenerz aus der Russischen Föderation oder durch die Russische Föderation in die Schweiz, einen EWR-Mitgliedstaat, nach Albanien, Bosnien und Herzegowina, in den Kosovo, nach Montenegro, Nordmazedonien oder Serbien;
 - b. Transaktionen im Zusammenhang mit Energieprojekten ausserhalb der Russischen Föderation, in denen Banken, Unternehmen oder Organisationen gemäss Anhang 15 Minderheitsgesellschafter sind;
 - c.
 
@@ -603,6 +699,7 @@ Das Verbot nach Absatz 1 gilt nicht für:
 <sup>3</sup> Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD ausnahmsweise Ausnahmen vom Verbot nach Absatz 1 bewilligen, um die Durchführung humanitärer Aktivitäten oder die Unterstützung der Zivilbevölkerung im Zusammenhang mit der Situation in der Ukraine zu ermöglichen.
 
 [^24a-1]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^24a-2]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 #### Art. 25
 
@@ -612,11 +709,13 @@ Das Verbot nach Absatz 1 gilt nicht für:
 
 <sup>2</sup> Der Erwerb und die Ausweitung von Beteiligungen an Unternehmen und Immobilien in den bezeichneten Gebieten sowie die Gründung von Joint Ventures zusammen mit Unternehmen oder Organisationen in den in Anhang 6 bezeichneten Gebieten sind verboten.
 
-<sup>3</sup> Die Erbringung von Wertpapierdienstleistungen, die direkt mit den Tätigkeiten nach den Absätzen 1 und 2 zusammenhängen, ist verboten.
+<sup>3</sup> Die Erbringung von Effektendienstleistungen, die direkt mit den Tätigkeiten nach den Absätzen 1 und 2 zusammenhängen, ist verboten.[^25-1]
 
 <sup>4</sup> Die Erbringung von Dienstleistungen im Zusammenhang mit tourismusbezogenen Aktivitäten in den in Anhang 6 bezeichneten Gebieten ist verboten.
 
 <sup>5</sup> Die Verbote nach den Absätzen 1–3 gelten nicht für Handlungen, die für die amtliche Tätigkeit diplomatischer oder konsularischer Vertretungen oder internationaler Organisationen sowie für Spitäler oder Bildungseinrichtungen mit Sitz in den in Anhang 6 bezeichneten Gebieten erforderlich sind oder die Sicherheit der bestehenden Infrastruktur gewährleisten.
+
+[^25-1]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 #### Art. 26
 
@@ -634,16 +733,18 @@ Ab dem 12. März 2022 ist es verboten, für Banken, Unternehmen oder Organisatio
 
 #### Art. 28
 
-**Verbot betreffend Banknoten**
+**Verbot betreffend Banknoten**[^28-1]
 
-<sup>1</sup> Es ist verboten, auf Schweizerfranken oder Euro lautende Banknoten an die Russische Föderation oder an natürliche oder juristische Personen, Organisationen oder Unternehmen in der Russischen Föderation, einschliesslich der Regierung und der Zentralbank der Russischen Föderation, oder zur Verwendung in der Russischen Föderation zu verkaufen, zu liefern, zu verbringen oder auszuführen.
+<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von auf Schweizerfranken oder eine amtliche Währung eines Mitgliedsstaates der Europäischen Union lautenden Banknoten an die Russische Föderation oder an natürliche oder juristische Personen, Organisationen oder Unternehmen in der Russischen Föderation, einschliesslich der Regierung und der Zentralbank der Russischen Föderation, oder zur Verwendung in der Russischen Föderation sind verboten.
 
 <sup>2</sup>
 
-Das Verbot nach Absatz 1 gilt nicht für den Verkauf, die Lieferung, Verbringung oder Ausfuhr von auf Schweizerfranken oder Euro lautenden Banknoten, sofern dieser Verkauf, diese Lieferung, Verbringung oder Ausfuhr erforderlich ist:
+Das Verbot nach Absatz 1 gilt nicht für den Verkauf, die Lieferung, die Ausfuhr oder die Durchfuhr von auf Schweizerfranken oder einer amtlichen Währung eines Mitgliedsstaates der Europäischen Union lautenden Banknoten, wenn dieser Verkauf, diese Lieferung, diese Ausfuhr oder diese Durchfuhr erforderlich ist für:
 
-- a. für die persönliche Verwendung durch in die Russische Föderation reisende natürliche Personen oder ihre mit ihnen reisenden nahen Verwandten; oder
-- b. zur Erfüllung amtlicher Zwecke von diplomatischen oder konsularischen Vertretungen oder einer internationalen Organisation in der Russischen Föderation.
+- a. die persönliche Verwendung durch in die Russische Föderation reisende Personen oder ihre mit ihnen reisenden nahen Verwandten; oder
+- b. die Erfüllung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen oder internationaler Organisationen in der Russischen Föderation.
+
+[^28-1]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 #### Art. 28a
 
@@ -657,25 +758,82 @@ Das Verbot nach Absatz 1 gilt nicht für den Verkauf, die Lieferung, Verbringung
 
 #### Art. 28b
 
-**Verbote im Zusammenhang mit Beteiligungen an Unternehmen im Energiesektor der Russischen Föderation**[^28b-1]
+**Verbote im Zusammenhang mit Unternehmen im Energiesektor der Russischen Föderation[^28b-2]**[^28b-1]
 
 <sup>1</sup>
 
-Die folgenden Tätigkeiten im Zusammenhang mit Beteiligungen an Unternehmen im Energiesektor der Russischen Föderation sind verboten:
+Die folgenden Tätigkeiten im Zusammenhang mit Unternehmen im Energiesektor der Russischen Föderation sind verboten:[^28b-3]
 
 - a. der Erwerb neuer oder die Ausweitung bestehender Beteiligungen an juristischen Personen, Unternehmen oder Organisation, die nach dem Recht eines Staates ausserhalb der Schweiz oder des EWR gegründet oder eingetragen wurden und im Energiesektor in der Russischen Föderation tätig sind;
-- b. die Bereitstellung von oder die Beteiligung an Darlehen, Krediten oder sonstigen Finanzmitteln, einschliesslich Eigenkapital, für oder für die Finanzierung von juristischen Personen, Unternehmen oder Organisationen, die nach dem Recht eines Staates ausserhalb der Schweiz oder des EWR gegründet oder eingetragen wurden und im Energiesektor in Russland tätig sind;
+- b.[^28b-4] die Bereitstellung von oder die Beteiligung an Darlehen, Krediten oder sonstigen Finanzmitteln, einschliesslich Eigenkapital, für oder für die Finanzierung von juristischen Personen, Unternehmen oder Organisationen, die nach dem Recht eines Staates ausserhalb der Schweiz und des EWR gegründet oder eingetragen wurden und im Energiesektor in der Russischen Föderation tätig sind;
 - c. die Gründung von Joint-Ventures mit juristischen Personen, Unternehmen oder Organisationen, die dem Recht eines Staates ausserhalb der Schweiz oder des EWR gegründet oder eingetragen wurden und im Energiesektor in der Russischen Föderation tätig sind;
-- d. die Erbringung von Wertpapierdienstleistungen, die unmittelbar oder mittelbar mit den in den Buchstaben a, b und c genannten Tätigkeiten in Zusammenhang stehen.
+- d.[^28b-5] die Erbringung von Effektendienstleistungen, die unmittelbar oder mittelbar mit den in den Buchstaben a, b und c genannten Tätigkeiten in Zusammenhang stehen.
 
 <sup>2</sup>
 
-Das SECO kann, nach Rücksprache mit den zuständigen Stellen des EDA, des Bundesamtes für Energie und des EFD, Ausnahmen von den Verboten nach Absatz 1 bewilligen, falls die Tätigkeiten:
+Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA, des UVEK und des EFD Ausnahmen von den Verboten nach Absatz 1 bewilligen, falls die Tätigkeiten:[^28b-6]
 
-- a. notwendig sind, um bei einer unmittelbar drohenden oder bereits bestehenden schweren Mangellage die Energieversorgung der Schweiz oder eines EWR-Mitgliedsstaates sicherzustellen oder fossile Brennstoffe, insbesondere Kohle, Erdöl und Erdgas, aus oder durch die Russische Föderation in die Schweiz oder in die EWR- Mitgliedsstaaten zu befördern; oder
+- a.[^28b-7] notwendig sind, um bei einer unmittelbar drohenden oder bereits bestehenden schweren Mangellage die Energieversorgung der Schweiz oder eines EWR-Mitgliedsstaates sicherzustellen oder Erdgas und Erdöl, einschliesslich raffinierter Erdölerzeugnisse, aus oder durch die Russische Föderation in die Schweiz oder in die EWR-Mitgliedsstaaten zu befördern; oder
 - b. ausschliesslich zugunsten einer juristischen Person, eines Unternehmens oder einer Organisation erfolgen, die im Energiesektor in der Russischen Föderation tätig ist und die sich im Eigentum einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedsstaates gegründeten oder eingetragenen Unternehmens oder Organisation befindet.
 
 [^28b-1]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^28b-2]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^28b-3]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^28b-4]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^28b-5]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^28b-6]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^28b-7]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+
+#### Art. 28c
+
+**Verbote betreffend die Unterstützung öffentlicher Einrichtungen**[^28c-1]
+
+<sup>1</sup> Die unmittelbare oder mittelbare Unterstützung, insbesondere durch die Gewährung von Finanzmitteln, Finanzhilfen oder sonstigen Vorteilen im Rahmen eines nationalen Programms der Schweiz, von in der Russischen Föderationen niedergelassenen juristischen Personen, Unternehmen oder Organisationen, die von einer staatlichen Stelle kontrolliert werden oder an denen eine staatliche Stelle zu über fünfzig Prozent beteiligt ist, ist verboten.
+
+<sup>2</sup>
+
+Das Verbot nach Absatz 1 gilt nicht für:
+
+- a. humanitäre Aktivitäten, die Bekämpfung von Notlagen im Bereich der öffentlichen Gesundheit, die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder die Umwelt haben wird, oder die Bewältigung von Naturkatastrophen;
+- b. Pflanzenschutz- und Veterinärprogramme;
+- c. die zwischenstaatliche Zusammenarbeit bei Raumfahrtprogrammen und die Zusammenarbeit im Rahmen des internationalen thermonuklearen Versuchsreaktors ITER;
+- d. die zwischenstaatliche Zusammenarbeit im Rahmen des Übereinkommens vom 30. November 2009[^28c-2] über den Bau und Betrieb einer Europäischen Freie-Elektronen-Röntgenlaseranlage und des Übereinkommens vom 16. Dezember 1988[^28c-3] über den Bau und Betrieb einer europäischen Synchrotronstrahlungsanlage;
+- e. den Betrieb, die Instandhaltung und die Stilllegung ziviler nuklearer Einrichtungen, die Entsorgung ihrer radioaktiven Abfälle, ihre Versorgung mit und die Wiederaufbereitung von Brennelementen und die Gewährleistung ihrer Sicherheit, die Lieferung von Ausgangsstoffen zur Herstellung medizinischer Radioisotope, ähnlicher medizinischer Anwendungen und kritischer Technologien zur radiologischen Umweltüberwachung sowie die zivile nukleare Zusammenarbeit, insbesondere im Bereich der Forschung und Entwicklung;
+- f. Mobilitäts- und Austauschprogramme für Einzelpersonen und zur Förderung direkter Kontakte zwischen den Menschen;
+- g. Klima- und Umweltprogramme, die nicht der Forschung und Innovation dienen;
+- h. die amtliche Tätigkeit diplomatischer und konsularischer Vertretungen der Schweiz und ihrer Partner oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen, in der Russischen Föderation.
+
+[^28c-1]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^28c-2]: [SR 0.422.10](https://fedlex.data.admin.ch/eli/cc/2010/220)
+[^28c-3]: [SR 0.424.10](https://fedlex.data.admin.ch/eli/cc/2006/70)
+
+#### Art. 28d
+
+**Verbote betreffend Trusts**[^28d-1]
+
+<sup>1</sup>
+
+Die Errichtung eines Trusts oder einer ähnlichen Rechtsform und die Bereitstellung eines Sitzes, einer Geschäfts- oder Verwaltungsanschrift oder von Verwaltungsdienstleistungen für Trusts sind verboten, wenn die folgenden Personen, Organisationen oder Einrichtungen Begründer oder Begünstigte sind:
+
+- a. russische Staatsangehörige oder in der Russischen Föderation ansässige natürliche Personen;
+- b. in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen;
+- c. juristische Personen, Unternehmen oder Organisationen, an denen natürliche oder juristische Personen, Unternehmen oder Organisationen nach den Buchstaben a und b zu über fünfzig Prozent unmittelbar oder mittelbar beteiligt sind;
+- d. juristische Personen, Unternehmen oder Organisationen, die von einer der natürlichen oder juristischen Personen, Unternehmen oder Organisationen nach den Buchstaben a–c kontrolliert werden;
+- e. juristische Personen, Unternehmen oder Organisationen, die für eine natürliche oder juristische Person, ein Unternehmen oder eine Organisation nach den Buchstaben a–d handeln.
+
+<sup>2</sup> Es ist verboten, als Treuhänder, nomineller Anteilseigner, Geschäftsführer, Sekretär oder in einer ähnlichen Funktion für einen Trust oder ähnliche Rechtsform nach Absatz 1 zu handeln oder dies einer anderen Person zu ermöglichen.[^28d-2]
+
+<sup>3</sup> Die Verbote nach den Absätzen 1 und 2 gelten nicht, wenn die Begründer oder Begünstigten Schweizer Staatsangehörige oder Staatsangehörige eines EWR-Mitgliedstaates sind oder über einen befristeten oder unbefristeten Aufenthaltstitel in der Schweiz oder einem EWR-Mitgliedstaat verfügen.
+
+<sup>4</sup>
+
+Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen für Dienstleistungen, die erforderlich sind für:
+
+- a. humanitäre Aktivitäten wie die Durchführung oder die Erleichterung von Hilfsleistungen, einschliesslich der Versorgung mit medizinischen Hilfsgütern und Nahrungsmitteln, des Transports humanitärer Helferinnen und Helfer und damit verbundener Hilfe oder Evakuierungen; oder
+- b. zivilgesellschaftliche Aktivitäten zur direkten Förderung der Demokratie, der Menschenrechte oder der Rechtsstaatlichkeit in der Russischen Föderation.
+
+[^28d-1]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^28d-2]: Tritt am 29. Mai 2022 in Kraft ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 ## 4. Abschnitt: Weitere Beschränkungen
 
@@ -695,19 +853,47 @@ Das Staatssekretariat für Migration (SEM) sowie das EDA im Rahmen seiner Zustä
 
 [^29-1]: [SR 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
 
+#### Art. 29a
+
+**Luftverkehr**[^29a-1]
+
+<sup>1</sup>
+
+Das Starten vom und das Landen im Hoheitsgebiet der Schweiz sowie das Überfliegen des Schweizer Hoheitsgebiets ist folgenden Luftfahrzeugen verboten:
+
+- a. Luftfahrzeuge russischer Luftfahrtunternehmen mit einer Betriebsgenehmigung oder einer gleichwertigen Genehmigung der russischen Behörden, einschliesslich Luftfahrzeugen, die von diesen Unternehmen im Rahmen von Code-Sharing- oder Blocked-Space-Vereinbarungen eingesetzt werden;
+- b. Luftfahrzeuge, die in Russland registriert sind oder sich im Eigentum natürlicher oder juristischer Personen, Organisationen oder Einrichtungen in Russland befinden oder von diesen gechartert werden oder anderweitig unter deren Kontrolle stehen;
+
+<sup>2</sup>
+
+Vom Verbot nach Absatz 1 ausgenommen sind:
+
+- a. Flüge zu humanitären Zwecken;
+- b. Such- und Rettungsflüge;
+- c. einmalige Rückführungsflüge von geleasten Luftfahrzeugen mit entsprechender Bewilligung des Bundesamtes für Zivilluftfahrt (BAZL);
+- d. Überflüge und Landungen in Notsituationen;
+- e. Flüge ausländischer Militär- und anderer Staatsluftfahrzeuge, die über eine Bewilligung (diplomatic clearance) gemäss Artikel 4 der Verordnung vom 23. März 2005[^29a-2] über die Wahrung der Lufthoheit verfügen.
+
+<sup>3</sup> Das BAZL kann nach Rücksprache mit den zuständigen Stellen des SECO und des EDA zur Wahrung schweizerischer Interessen oder für andere mit den Zielen dieser Verordnung im Einklang stehende Zwecke weitere Ausnahmen vom Verbot nach Absatz 1 bewilligen.
+
+[^29a-1]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^29a-2]: [SR 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
+
 #### Art. 30
 
 **Verbot der Erfüllung bestimmter Forderungen**
 
 Es ist verboten, Forderungen zu erfüllen, wenn sie auf einen Vertrag oder ein Geschäft zurückzuführen sind, deren Durchführung direkt oder indirekt verhindert oder beeinträchtigt wurde durch Massnahmen nach dieser Verordnung, nach der Verordnung vom 27. August 2014[^30-1] über Massnahmen im Zusammenhang mit der Situation in der Ukraine oder nach der Verordnung vom 2. April 2014[^30-2] über Massnahmen zur Vermeidung der Umgehung internationaler Sanktionen im Zusammenhang mit der Situation in der Ukraine; dieses Verbot gilt für Forderungen von:
 
-- a.[^30-3] natürlichen Personen, Unternehmen oder Organisationen nach den Anhängen 2 und 8‒15;
+- a.[^30-3] juristischen Personen, Unternehmen oder Organisationen nach den Anhängen dieser Verordnung;
+- a<sup>bis</sup>.[^30-4] juristischen Personen, Unternehmen oder Organisationen, die ausserhalb der Schweiz und des EWR niedergelassen sind und an denen juristische Personen, Unternehmen oder Organisationen nach den Anhängen dieser Verordnung zu über fünfzig Prozent unmittelbar oder mittelbar beteiligt sind.
 - b. allen anderen russischen natürlichen Personen, Unternehmen oder Organisationen;
 - c. natürlichen Personen, Unternehmen oder Organisationen, die im Namen oder auf Anweisung von natürlichen Personen, Unternehmen oder Organisationen nach den Buchstaben a und b handeln.
 
 [^30-1]: [AS 2014 2803](https://fedlex.data.admin.ch/eli/oc/2014/486), [4059](https://fedlex.data.admin.ch/eli/oc/2014/681); [2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154), [1015](https://fedlex.data.admin.ch/eli/oc/2015/194), [2311](https://fedlex.data.admin.ch/eli/oc/2015/430), [3821](https://fedlex.data.admin.ch/eli/oc/2015/642); [2016 995](https://fedlex.data.admin.ch/eli/oc/2016/179), [3435](https://fedlex.data.admin.ch/eli/oc/2016/578), [3881](https://fedlex.data.admin.ch/eli/oc/2016/659); [2017 1681](https://fedlex.data.admin.ch/eli/oc/2017/176), [4037](https://fedlex.data.admin.ch/eli/oc/2017/476), [5065](https://fedlex.data.admin.ch/eli/oc/2017/553), [7657](https://fedlex.data.admin.ch/eli/oc/2017/835); [2018 1177](https://fedlex.data.admin.ch/eli/oc/2018/176), [2139](https://fedlex.data.admin.ch/eli/oc/2018/303), [2535](https://fedlex.data.admin.ch/eli/oc/2018/369), [3025](https://fedlex.data.admin.ch/eli/oc/2018/472), [3259](https://fedlex.data.admin.ch/eli/oc/2018/525), [5341](https://fedlex.data.admin.ch/eli/oc/2018/806); [2019 613](https://fedlex.data.admin.ch/eli/oc/2019/106), [1085](https://fedlex.data.admin.ch/eli/oc/2019/207), [1953](https://fedlex.data.admin.ch/eli/oc/2019/358), [3089](https://fedlex.data.admin.ch/eli/oc/2019/566); [2020 449](https://fedlex.data.admin.ch/eli/oc/2020/79), [1153](https://fedlex.data.admin.ch/eli/oc/2020/212), [3889](https://fedlex.data.admin.ch/eli/oc/2020/723), [4157](https://fedlex.data.admin.ch/eli/oc/2020/761); [2021 175](https://fedlex.data.admin.ch/eli/oc/2021/175), [568](https://fedlex.data.admin.ch/eli/oc/2021/568), [626](https://fedlex.data.admin.ch/eli/oc/2021/626); [2022 8](https://fedlex.data.admin.ch/eli/oc/2022/8), [138](https://fedlex.data.admin.ch/eli/oc/2022/138), [143](https://fedlex.data.admin.ch/eli/oc/2022/143), [144](https://fedlex.data.admin.ch/eli/oc/2022/144)
 [^30-2]: [AS 2014 877](https://fedlex.data.admin.ch/eli/oc/2014/187), [1003](https://fedlex.data.admin.ch/eli/oc/2014/229), [1213](https://fedlex.data.admin.ch/eli/oc/2014/259), [2479](https://fedlex.data.admin.ch/eli/oc/2014/438)
-[^30-3]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^30-3]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^30-4]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 ## 5. Abschnitt: Vollzug und Strafbestimmungen
 
@@ -715,13 +901,19 @@ Es ist verboten, Forderungen zu erfüllen, wenn sie auf einen Vertrag oder ein G
 
 **Vollzug und Kontrolle**
 
-<sup>1</sup> Das SECO überwacht den Vollzug der Artikel 2–6, 9–28*b* und 30.[^31-1]
+<sup>1</sup> Das SECO überwacht den Vollzug der Artikel 2–6, 9–28*d* und 30.[^31-1]
+
+<sup>1bis</sup> Das Bundesamt für Landwirtschaft überwacht den Vollzug von Artikel 14*c* Absatz 3.[^31-2]
 
 <sup>2</sup> Das SEM überwacht den Vollzug des Ein- und Durchreiseverbots nach Artikel 29.
 
+<sup>2bis</sup> Das BAZL überwacht den Vollzug von Artikel 29*a*.[^31-3]
+
 <sup>3</sup> Die Kontrolle an der Grenze obliegt dem Bundesamt für Zoll und Grenzsicherheit.
 
-[^31-1]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^31-1]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^31-2]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 29. Juli 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^31-3]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 #### Art. 32
 
@@ -739,10 +931,9 @@ Es ist verboten, Forderungen zu erfüllen, wenn sie auf einen Vertrag oder ein G
 
 **Veröffentlichung**[^33-1]
 
-Die Inhalte der Anhänge 1, 2 und 8‒15 werden weder in der Amtlichen Sammlung noch in der Systematischen Sammlung des Bundesrechts veröffentlicht[^33-2]; sie können beim SECO bezogen werden.
+Die Inhalte der Anhänge 1, 2, 8‒15 und 23 werden weder in der Amtlichen Sammlung noch in der Systematischen Sammlung des Bundesrechts veröffentlicht; sie können beim SECO bezogen werden.
 
-[^33-1]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^33-2]: Veröffentlichung durch Verweis im Sinne von Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^33-1]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 #### Art. 34
 
@@ -772,10 +963,31 @@ Die Verordnung vom 27. August 2014[^34-1] über Massnahmen im Zusammenhang mit d
 
 <sup>8</sup> Artikel 14*a* Absätze 1 und 2 sind nicht auf Geschäfte anwendbar, die vor dem 26. März 2022 vertraglich vereinbart wurden und bis zum 17. Juni 2022 erfüllt sind.[^35-4]
 
+<sup>9</sup> Artikel 10 ist nicht auf Geschäfte anwendbar, die vor dem 5. März 2022 vertraglich vereinbart wurden und bis zum 3. Juni 2022 erfüllt sind.[^35-5]
+
+<sup>10</sup> Artikel 11*a* ist nicht auf Geschäfte anwendbar, die vor dem 28. April 2022 vereinbart wurden und bis zum 29. Juli 2022 erfüllt sind.[^35-6]
+
+<sup>11</sup> Artikel 12 ist nicht auf Geschäfte anwendbar, die vor dem 28. April 2022 vereinbart wurden und bis zum 29. August 2022 erfüllt sind.[^35-7]
+
+<sup>12</sup> Artikel 14*c* ist nicht auf Geschäfte anwendbar, die vor dem 28. April 2022 vereinbart wurden und bis zum 29. Juli 2022 erfüllt sind.[^35-8]
+
+<sup>13</sup> Artikel 24*a* Absatz 1 ist nicht auf Transaktionen zum Kauf, zur Einfuhr oder zum Transport von Kohle oder anderen festen fossilen Brennstoffen gemäss Anhang 22 in die Schweiz oder in die EWR-Mitgliedstaaten anwendbar, die bis zum 29. August 2022 durchgeführt werden.[^35-9]
+
+<sup>14</sup> Artikel 28*c* Absatz 1 ist nicht auf Geschäfte anwendbar, die vor dem 28. April 2022 vertraglich vereinbart wurden und bis zum 29. Oktober 2022 erfüllt sind.[^35-10]
+
+<sup>15</sup> Artikel 28*d* Absätze 1 und 2 ist nicht auf Transaktionen anwendbar, die erforderlich sind, um vor dem 28. April 2022 geschlossene Verträge, die mit den Bestimmungen von Artikel 28*d* nicht vereinbar sind, bis zum 29. Mai 2022 zu beenden.[^35-11]
+
 [^35-1]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^35-2]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^35-3]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^35-4]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^35-5]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^35-6]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^35-7]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^35-8]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^35-9]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^35-10]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^35-11]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 #### Art. 36
 
@@ -791,7 +1003,7 @@ Anhang 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)) und vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^annex1-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
 
 Anhang 2*[^t-2]*
@@ -816,63 +1028,52 @@ Anhang 3
 <tr><td>88</td><td>Luftfahrzeuge und Raumfahrzeuge, Teile davon</td></tr>
 </table>
 
-Anhang 4
+Anhang 4*[^t-3]*
 
 (Art. 10 Abs. 1 und 4)
 
-## Güter für die Ölraffination
+## Güter für die Ölraffination und die Verflüssigung von Erdgas
+
+[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 <table>
-<tr><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
-<tr><td>8479 89 91/92 oder 8543 70 00</td><td>Alkylierungs- und Isomerisierungsanlagen</td></tr>
-<tr><td>8479 89 91/92 oder 8543 70 00</td><td>Anlagen zur Herstellung von aromatischen Kohlenwasserstoffen</td></tr>
-<tr><td>ex 8419 40</td><td>Anlagen zur atmosphärischen und Vakuum-Rohöldestillation (CDU)</td></tr>
-<tr><td>8479 89 91/92 oder 8543 70 00</td><td>Anlagen zum katalytischen Reformieren / Cracken</td></tr>
-<tr><td>8419 89 91/92, 8419 89 51/52 oder 8419 89 40</td><td>Verzögerte Verkoker</td></tr>
-<tr><td>8419 89 91/92, 8419 89 51/52 oder 8419 89 40</td><td>Flexicoking-Anlagen</td></tr>
-<tr><td>8479 89 91/92</td><td>Hydrocracking-Reaktoren</td></tr>
-<tr><td>8419 89 91/92, 8419 89 51/52, 8419 89 40 oder 8479 89 91/92</td><td>Hydrocracking-Reaktorbehälter</td></tr>
-<tr><td>8479 89 91/92 oder 8543 70 00</td><td>Technologie zur Wasserstofferzeugung</td></tr>
-<tr><td>8421 39 40, 8421 39 91, 8421 39 92, 8421 39 93, 8479 89 91/92 oder 8543 70 90</td><td>Wasserstoffrückgewinnungs- und -reinigungstechnologie</td></tr>
-<tr><td>8479 89 91/92 oder 8543 70 00</td><td>Hydrierungstechnologie/-anlagen</td></tr>
-<tr><td>8479 89 91/92 oder 8543 70 00</td><td>Anlagen zur Naphtha-Isomerisierung</td></tr>
-<tr><td>8479 89 91/92 oder 8543 70 00</td><td>Polymerisationsanlagen</td></tr>
-<tr><td>8419 89 40, 8419 89 51/52, oder 8419 89 91/92, 8479 89 91/92 oder 8543 70 00</td><td>Raffineriebrenngasbehandlungs- und Schwefelrückgewinnungstechnologie (einschliesslich Aminwäscheanlagen, Schwefelrückgewinnungsanlangen, Tailgas-Behandlungsanlagen)</td></tr>
-<tr><td>ex 8456 90, 8479 89 91/92 oder 8543 70 00</td><td>Solvententasphaltierungsanlagen</td></tr>
-<tr><td>8479 89 91/92 oder 8543 70 00</td><td>Anlagen zur Schwefelerzeugung</td></tr>
-<tr><td>8479 89 91/92 oder 8543 70 00</td><td>Anlagen zur Alkylierung und Regeneration von Schwefelsäure</td></tr>
-<tr><td>8419 89 40, 8419 89 51/52, oder 8419 89 91/92, 8479 89 91/92 oder 8543 70 00</td><td>Thermische Crackanlagen</td></tr>
-<tr><td>8479 89 91/92 oder 8543 70 00</td><td>Transalkylierungsanlagen [Toluol und schwere Aromaten]</td></tr>
-<tr><td>8479 89 91/92 oder 8543 70 00 8479 89 91/92 oder 8543 70 00</td><td>Viskositätsbrecher Hydrocracker-Vakuumgasöl-Anlagen</td></tr>
-<tr><td>8479 89 97 oder 8543 70 90</td><td>Alkylierungs- und Isomerisierungsanlagen</td></tr>
-<tr><td>8479 89 97 oder 8543 70 90</td><td>Anlagen zur Herstellung von aromatischen Kohlenwasserstoffen</td></tr>
-<tr><td>8419 40 00</td><td>Anlagen zur atmosphärischen und Vakuum-Rohöldestillation (CDU)</td></tr>
-<tr><td>8479 89 97 oder 8543 70 90</td><td>Anlagen zum katalytischen Reformieren / Cracken</td></tr>
-<tr><td>8419 89 98, 8419 89 30 oder 8419 89 10</td><td>Verzögerte Verkoker</td></tr>
-<tr><td>8419 89 98, 8419 89 30 oder 8419 89 10</td><td>Flexicoking-Anlagen</td></tr>
-<tr><td>8479 89 97</td><td>Hydrocracking-Reaktoren</td></tr>
-<tr><td>8419 89 98, 8419 89 30, 8419 89 10 oder 8479 89 97</td><td>Hydrocracking-Reaktorbehälter</td></tr>
-<tr><td>8479 89 97 oder 8543 70 90</td><td>Technologie zur Wasserstofferzeugung</td></tr>
-<tr><td>8421 39 15, 8421 39 25, 8421 39 35, 8421 39 85, 8479 89 97 oder 8543 70 90</td><td>Wasserstoffrückgewinnungs- und -reinigungstechnologie</td></tr>
-<tr><td>8479 89 97 oder 8543 70 90</td><td>Hydrierungstechnologie/-anlagen</td></tr>
-<tr><td>8479 89 97 oder 8543 70 90</td><td>Anlagen zur Naphtha-Isomerisierung</td></tr>
-<tr><td>8479 89 97 oder 8543 70 90</td><td>Polymerisationsanlagen</td></tr>
-<tr><td>8419 89 10, 8419 89 30, oder 8419 89 98, 8479 89 97 oder 8543 70 90</td><td>Raffineriebrenngasbehandlungs- und Schwefelrückgewinnungstechnologie (einschliesslich Aminwäscheanlagen, Schwefelrückgewinnungsanlangen, Tailgas-Behandlungsanlagen)</td></tr>
-<tr><td>8456 90 00, 8479 89 97 oder 8543 70 90</td><td>Solvententasphaltierungsanlagen</td></tr>
-<tr><td>8479 89 97 oder 8543 70 90</td><td>Anlagen zur Schwefelerzeugung</td></tr>
-<tr><td>8479 89 97 oder 8543 70 90</td><td>Anlagen zur Alkylierung und Regeneration von Schwefelsäure</td></tr>
-<tr><td>8419 89 10, 8419 89 30, oder 8419 89 98, 8479 89 97 oder 8543 70 90</td><td>Thermische Crackanlagen</td></tr>
-<tr><td>8479 89 97 oder 8543 70 90</td><td>Transalkylierungsanlagen [Toluol und schwere Aromaten]</td></tr>
-<tr><td>8479 89 97 oder 8543 70 90 8479 89 97 oder 8543 70 90</td><td>Viskositätsbrecher Hydrocracker-Vakuumgasöl-Anlagen</td></tr>
+<tr><th></th><th>Tarifnummer</th><th>Bezeichnung</th></tr>
+<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Alkylierungs- und Isomerisierungsanlagen</td></tr>
+<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Anlagen zur Herstellung von aromatischen Kohlenwasserstoffen</td></tr>
+<tr><td>ex</td><td>8419 40 00</td><td>Anlagen zur atmosphärischen und Vakuum-Rohöldestillation (CDU)</td></tr>
+<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Anlagen zum katalytischen Reformieren / Cracken</td></tr>
+<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Verzögerte Verkoker</td></tr>
+<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Flexicoking-Anlagen</td></tr>
+<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Hydrocracking-Reaktoren</td></tr>
+<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Hydrocracking-Reaktorbehälter</td></tr>
+<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Technologie zur Wasserstofferzeugung</td></tr>
+<tr><td>ex</td><td>8421 39 15, 8421 39 25, 8421 39 35, 8421 39 85, 8419 60 00, 8419 89 98 oder 8419 89 10</td><td>Wasserstoffrückgewinnungs- und -reinigungstechnologie</td></tr>
+<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Hydrierungstechnologie/-anlagen</td></tr>
+<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Anlagen zur Naphtha-Isomerisierung</td></tr>
+<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Polymerisationsanlagen</td></tr>
+<tr><td>ex</td><td>8419 89 10, 8419 89 98, 8421 39 35, 8421 39 85 oder 8419 60 00</td><td>Raffineriebrenngasbehandlungs- und Schwefelrückgewinnungstechnologie (einschliesslich Aminwäscheanlagen, Schwefelrückgewinnungsanlangen, Tailgas-Behandlungsanlagen)</td></tr>
+<tr><td>ex</td><td>8479 89 97</td><td>Solvententasphaltierungsanlagen</td></tr>
+<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Anlagen zur Schwefelerzeugung</td></tr>
+<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Anlagen zur Alkylierung und Regeneration von Schwefelsäure</td></tr>
+<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Thermische Crackanlagen</td></tr>
+<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Transalkylierungsanlagen [Toluol und schwere Aromaten]</td></tr>
+<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Viskositätsbrecher</td></tr>
+<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Hydrocracker-Vakuumgasöl-Anlagen</td></tr>
+<tr><td>ex</td><td>8418 69</td><td>Prozesseinheiten für die Kühlung des Gases im LNG-Prozess</td></tr>
+<tr><td>ex</td><td>8419 40</td><td>Prozesseinheiten für die Trennung und Fraktionierung der Kohlenwasserstoffe im LNG-Prozess</td></tr>
+<tr><td>ex</td><td>8419 60</td><td>Prozesseinheiten für die Verflüssigung von Erdgas</td></tr>
+<tr><td>ex</td><td>8419 50</td><td>Kaltkästen im LNG-Prozess</td></tr>
+<tr><td>ex</td><td>8419 50 20</td><td>Kryogene Austauscher im LNG-Prozess</td></tr>
+<tr><td>ex</td><td>8414 10 90</td><td>Kryopumpen im LNG-Prozess</td></tr>
 </table>
 
-Anhang 5*[^t-3]*
+Anhang 5*[^t-4]*
 
 (Art. 11 Abs. 1)
 
 ## Güter für den Energiesektor
 
-[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
 <table>
 <tr><th>**KN-Code**</th><th>**Warenbezeichnung**</th></tr>
@@ -1095,7 +1296,7 @@ Anhang 7
 <tr><td>9033</td><td>Teile und Zubehör (in Kapitel 90 anderweit weder genannt noch inbegriffen) für Maschinen, Apparate, Geräte, Instrumente oder andere Waren des Kapitels 90</td></tr>
 </table>
 
-Anhang 8*[^t-4]*
+Anhang 8*[^t-5]*
 
 (Art. 15 Abs. 1 und 4 sowie 29 Abs. 1)
 
@@ -1103,7 +1304,7 @@ Anhang 8*[^t-4]*
 
 [^annex8-lvlu1-1]
 
-[^t-4]: Bereinigt gemäss Ziff. I der V des WBF vom 15. März 2022 ([AS 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)) und vom 13. April 2022, in Kraft seit 13. April 2022 um 18.00 Uhr ([AS 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)).
+[^t-5]: Bereinigt gemäss Ziff. I der V des WBF vom 15. März 2022 ([AS 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)) und vom 13. April 2022, in Kraft seit 13. April 2022 um 18.00 Uhr ([AS 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)).
 [^annex8-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 9
@@ -1126,7 +1327,7 @@ Anhang 10
 
 [^annex10-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
 
-Anhang 11*[^t-5]*
+Anhang 11*[^t-6]*
 
 (Art. 18 Abs. 2 Bst. a und b)
 
@@ -1134,7 +1335,7 @@ Anhang 11*[^t-5]*
 
 [^annex11-lvlu1-1]
 
-[^t-5]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^t-6]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^annex11-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
 
 Anhang 12
@@ -1157,17 +1358,18 @@ Anhang 13
 
 [^annex13-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
 
-Anhang 14
+Anhang 14*[^t-7]*
 
 (Art. 27)
 
-## Banken und andere Unternehmen, die Restriktionen auf dem Geld- und Kapitalmarkt unterliegen****
+## Banken und andere Unternehmen, die dem Verbot der Bereitstellung spezialisierter Nachrichtenübermittlungsdienste für den Zahlungsverkehr unterliegen****
 
 [^annex14-lvlu1-1]
 
+[^t-7]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^annex14-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
 
-Anhang 15*[^t-6]*
+Anhang 15*[^t-8]*
 
 (Art. 24*a* Abs. 1 Bst. a)
 
@@ -1175,16 +1377,16 @@ Anhang 15*[^t-6]*
 
 [^annex15-lvlu1-1]
 
-[^t-6]: Eingefügt durch Ziff. II Abs. 2 der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^t-8]: Eingefügt durch Ziff. II Abs. 2 der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^annex15-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
 
-Anhang 16*[^t-7]*
+Anhang 16*[^t-9]*
 
 (Art. 9*a* Abs. 1)
 
 ## Güter und Technologien der Seeschifffahrt
 
-[^t-7]: Eingefügt durch Ziff. II Abs. 2 der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^t-9]: Eingefügt durch Ziff. II Abs. 2 der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
 Kategorie VI – Meeres- und Schiffstechnik
 
@@ -1205,13 +1407,13 @@ Kategorie VI – Meeres- und Schiffstechnik
 <tr><td>ex 8517</td><td>Telefonapparate, einschliesslich Smartphones und andere Telefone für zellulare Netze und für andere drahtlose Netze; andere Sende-, Übermittlungs- oder Empfangsgeräte für Sprache, Bilder oder andere Daten, einschliesslich Apparate für den Informationsaustausch in einem drahtgebundenen oder drahtlosen Netz (wie ein lokales Netz (LAN) oder ein Weitverkehrsnetz (WAN)), andere als solche der Nrn. 8443, 8525, 8527 oder 8528 (einschliesslich Teile)</td></tr>
 </table>
 
-Anhang 17*[^t-8]*
+Anhang 17*[^t-10]*
 
 (Art. 14*a* Abs. 1)
 
 ## Eisen- und Stahlerzeugnisse
 
-[^t-8]: Eingefügt durch Ziff. II Abs. 2 der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^t-10]: Eingefügt durch Ziff. II Abs. 2 der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
 <table>
 <tr><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
@@ -1263,15 +1465,15 @@ Anhang 17*[^t-8]*
 <tr><td>7306</td><td>Andere Rohre und Hohlprofile (z. B. geschweisst, genietet, gefalzt oder mit einfach aneinandergefügten Rändern), aus Eisen oder Stahl</td></tr>
 </table>
 
-Anhang 18*[^t-9]*
+Anhang 18*[^t-11]*
 
 (Art. 14*b* Abs. 1)
 
 ## Luxusgüter
 
-[^t-9]: Eingefügt durch Ziff. II Abs. 2 der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^t-11]: Eingefügt durch Ziff. II Abs. 2 der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Fassung gemäss Ziff. II Abs. 2 der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
-Sofern in diesem Anhang nichts andres angegeben ist, gilt das Verbot nach Artikel 14*b* für Luxusgüter mit einem Stückpreis von über 300 Franken.
+Sofern in diesem Anhang nichts anderes angegeben ist, gilt das Verbot nach Artikel 14*b* für Luxusgüter mit einem Stückpreis von über 300 Franken.
 
 ### 1. Pferde
 
@@ -1292,7 +1494,7 @@ Sofern in diesem Anhang nichts andres angegeben ist, gilt das Verbot nach Artike
 ### 3. Trüffel und Zubereitungen daraus
 
 <table>
-<tr><td></td><td>Zolltarifnummer</td><td>Bezeichnung</td></tr>
+<tr><th></th><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
 <tr><td></td><td>0709 56 00</td><td>Trüffel</td></tr>
 <tr><td>ex</td><td>0710 80 90</td><td>andere</td></tr>
 <tr><td>ex</td><td>0711 59 00</td><td>andere</td></tr>
@@ -1373,7 +1575,7 @@ Sofern in diesem Anhang nichts andres angegeben ist, gilt das Verbot nach Artike
 <tr><td></td><td>6201</td><td>Mäntel, Cabans, ärmellose Umhänge (Capes), Anoraks, Blousons (Windjacken) und ähnliche Waren, für Männer oder Knaben, ausgenommen Waren der Nr. 6203</td></tr>
 <tr><td></td><td>6202</td><td>Mäntel, Cabans, ärmellose Umhänge (Capes), Anoraks, Blousons (Windjacken) und ähnliche Waren, für Frauen oder Mädchen, ausgenommen Waren der Nr. 6204</td></tr>
 <tr><td></td><td>6203</td><td>Anzüge, Ensembles, Vestons (Jacken, Kittel), lange Hosen, Latzhosen, Kniebundhosen und kurze Hosen (andere als Badehosen), für Männer oder Knaben</td></tr>
-<tr><td></td><td>6204</td><td>Kostüme (Tailleurs), Ensembles, Jacken, Kleider (Röcke), Jupes, Hosenjupes, lange Hosen, Latzhosen, Kniebundhosen und kurze Hosen (andere als Badehosen), für Frauen oder</td></tr>
+<tr><td></td><td>6204</td><td>Kostüme (Tailleurs), Ensembles, Jacken, Kleider (Röcke), Jupes, Hosenjupes, lange Hosen, Latzhosen, Kniebundhosen und kurze Hosen (andere als Badehosen), für Frauen oder Mädchen</td></tr>
 <tr><td></td><td>6205</td><td>Hemden für Männer oder Knaben</td></tr>
 <tr><td></td><td>6206</td><td>Blusen und Hemdblusen, für Frauen oder Mädchen</td></tr>
 <tr><td></td><td>6207</td><td>Unterleibchen, Slips und andere Unterhosen, Nachthemden, Schlafanzüge (Pyjamas), Bademäntel, Hauskleider und ähnliche Waren, für Männer oder Knaben</td></tr>
@@ -1392,7 +1594,7 @@ Sofern in diesem Anhang nichts andres angegeben ist, gilt das Verbot nach Artike
 <tr><td></td><td>6402 91</td><td>den Knöchel bedeckend</td></tr>
 <tr><td></td><td>6402 99</td><td>andere</td></tr>
 <tr><td></td><td>6403 19</td><td>andere</td></tr>
-<tr><td></td><td>6403 20</td><td>Schuhe mit Laufsohlen aus Leder und Oberteil aus Lederriemen, die über den Spann und um die große Zehe führen</td></tr>
+<tr><td></td><td>6403 20</td><td>Schuhe mit Laufsohlen aus Leder und Oberteil aus Lederriemen, die über den Spann und um die grosse Zehe führen</td></tr>
 <tr><td></td><td>6403 40</td><td>Andere Schuhe, mit einem Metallschutz in der Vorderkappe</td></tr>
 <tr><td></td><td>6403 51</td><td>den Knöchel bedeckend</td></tr>
 <tr><td></td><td>6403 59</td><td>andere</td></tr>
@@ -1438,12 +1640,12 @@ Sofern in diesem Anhang nichts andres angegeben ist, gilt das Verbot nach Artike
 <tr><th></th><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
 <tr><td></td><td>7101</td><td>Echte Perlen oder Zuchtperlen, auch bearbeitet oder assortiert, jedoch weder aufgereiht noch montiert oder gefasst; echte Perlen oder Zuchtperlen, zur Erleichterung des Transportes vorübergehend aufgereiht</td></tr>
 <tr><td>ex</td><td>7102</td><td>Diamanten, auch bearbeitet, jedoch weder montiert noch gefasst, ausgenommen für industrielle Zwecke</td></tr>
-<tr><td></td><td>7103</td><td>Edelsteine und Schmucksteine, andere als Diamante, auch bearbeitet oder assortiert, jedoch weder aufgereiht noch montiert oder gefasst; Edelsteine und Schmucksteine, andere als Diamante, nicht assortiert, zur Erleichterung des Transportes vorübergehend aufgereiht</td></tr>
+<tr><td></td><td>7103</td><td>Edelsteine und Schmucksteine, andere als Diamanten, auch bearbeitet oder assortiert, jedoch weder aufgereiht noch montiert oder gefasst; Edelsteine und Schmucksteine, andere als Diamanten, nicht assortiert, zur Erleichterung des Transportes vorübergehend aufgereiht</td></tr>
 <tr><td>ex</td><td>7104 91 00</td><td>Diamanten, ausgenommen zu industriellen Zwecken</td></tr>
-<tr><td></td><td>7105</td><td>Staub und Pulver von Edelsteinen, Schmucksteinen oder synthetischen Steinen</td></tr>
-<tr><td></td><td>7106</td><td>Silber (einschließlich vergoldetes oder platiniertes Silber), in Rohform oder in Form von Halbzeug oder Pulver</td></tr>
+<tr><td>ex</td><td>7105</td><td>Staub und Pulver von Edelsteinen, Schmucksteinen oder synthetischen Steinen, ausgenommen zu industriellen Zwecken</td></tr>
+<tr><td></td><td>7106</td><td>Silber (einschliesslich vergoldetes oder platiniertes Silber), in Rohform oder in Form von Halbzeug oder Pulver</td></tr>
 <tr><td></td><td>7107</td><td>Silberplattierungen auf unedlen Metallen, in Rohform oder in Form von Halbzeug</td></tr>
-<tr><td></td><td>7108</td><td>Gold (einschließlich platiniertes Gold), in Rohform oder in Form von Halbzeug oder Pulver</td></tr>
+<tr><td></td><td>7108</td><td>Gold (einschliesslich platiniertes Gold), in Rohform oder in Form von Halbzeug oder Pulver</td></tr>
 <tr><td></td><td>7109</td><td>Goldplattierungen auf unedlen Metallen oder auf Silber, in Rohform oder in Form von Halbzeug</td></tr>
 <tr><td></td><td>7110</td><td>Platin (inkl. Iridium, Osmium, Palladium, Rhodium und Ruthenium), in Rohform oder in Form von Halbzeug oder Pulver</td></tr>
 <tr><td></td><td>7111</td><td>Platinplattierungen auf unedlen Metallen, auf Silber oder auf Gold, in Rohform oder in Form von Halbzeug</td></tr>
@@ -1504,7 +1706,7 @@ Sofern in diesem Anhang nichts andres angegeben ist, gilt das Verbot nach Artike
 <tr><th></th><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
 <tr><td>ex</td><td>8414 51</td><td>Tisch-, Boden-, Wand-, Decken-, Dach- oder Fensterventilatoren, mit eingebautem Elektromotor mit einer Leistung von nicht mehr als 125 W</td></tr>
 <tr><td>ex</td><td>8414 59</td><td>andere</td></tr>
-<tr><td>ex</td><td>8414 60</td><td>Abzugshauben mit einer größten waagrechten Seitenlänge von nicht mehr als 120 cm</td></tr>
+<tr><td>ex</td><td>8414 60</td><td>Abzugshauben mit einer grössten waagrechten Seitenlänge von nicht mehr als 120 cm</td></tr>
 <tr><td>ex</td><td>8415 10</td><td>der zum Befestigen an Fenstern, Wänden, Decken oder Böden hergerichteten Art, in Form von Kompaktgeräten oder «Split-Systemen» (bestehend aus getrennt voneinander platzierten Elementen)</td></tr>
 <tr><td>ex</td><td>8418 10</td><td>kombinierte Kühl- und Gefrierschränke mit separaten Aussentüren oder Aussenschubladen oder einer Kombination dieser Elemente</td></tr>
 <tr><td>ex</td><td>8418 21</td><td>Kompressionskühlschränke</td></tr>
@@ -1513,7 +1715,7 @@ Sofern in diesem Anhang nichts andres angegeben ist, gilt das Verbot nach Artike
 <tr><td>ex</td><td>8418 40</td><td>Gefrierschränke mit einem Fassungsvermögen von nicht mehr als 900 l</td></tr>
 <tr><td>ex</td><td>8419 81</td><td>zum Zubereiten heisser Getränke oder zum Kochen oder Aufwärmen von Speisen</td></tr>
 <tr><td>ex</td><td>8422 11</td><td>Geschirrspülmaschinen von der im Haushalt verwendeten Art</td></tr>
-<tr><td>ex</td><td>8423 10</td><td>Personenwaagen, einschließlich Säuglingswaagen; Haushaltswaagen</td></tr>
+<tr><td>ex</td><td>8423 10</td><td>Personenwaagen, einschliesslich Säuglingswaagen; Haushaltswaagen</td></tr>
 <tr><td>ex</td><td>8443 12</td><td>Büro-Offsetdruckmaschinen und -apparate, für Bogen, die ungefaltet auf einer Seite nicht mehr als 22 cm und auf der anderen Seite nicht mehr als 36 cm messen</td></tr>
 <tr><td>ex</td><td>8443 31</td><td>Maschinen, die mindestens zwei der Funktionen Drucken, Kopieren oder Übertragen von Fernkopien verrichten und an eine automatische Datenverarbeitungsmaschine oder ein Netzwerk angeschlossen werden können</td></tr>
 <tr><td>ex</td><td>8443 32</td><td>andere Geräte, die an eine automatische Datenverarbeitungsmaschine oder ein Netzwerk angeschlossen werden können</td></tr>
@@ -1547,7 +1749,7 @@ Sofern in diesem Anhang nichts andres angegeben ist, gilt das Verbot nach Artike
 <tr><td>ex</td><td>8517 62</td><td>Apparate zum Empfangen, Konvertieren, Senden und Übermitteln oder Wiederherstellen von Sprache, Bildern oder anderen Daten, einschliesslich Vermittlungs- und Wegewahlapparate</td></tr>
 <tr><td>ex</td><td>8517 69</td><td>andere</td></tr>
 <tr><td>ex</td><td>8526 91</td><td>Geräte für Funknavigation</td></tr>
-<tr><td>ex</td><td>8529 10</td><td>Innenantennen für Rundfunk- und Fernsehempfang, einschließlich Geräteeinbauantennen</td></tr>
+<tr><td>ex</td><td>8529 10</td><td>Innenantennen für Rundfunk- und Fernsehempfang, einschliesslich Geräteeinbauantennen</td></tr>
 <tr><td>ex</td><td>8529 10</td><td>Antennen und Antennenreflektoren aller Art; Teile, die erkennbar gemeinsam mit diesen Waren verwendet werden</td></tr>
 <tr><td>ex</td><td>8531 10</td><td>elektrische Diebstahlalarmgeräte oder Feuermelder und ähnliche Geräte</td></tr>
 <tr><td>ex</td><td>8543 70</td><td>Geräte mit Übersetzungs- oder Wörterbuchfunktionen</td></tr>
@@ -1558,10 +1760,10 @@ Sofern in diesem Anhang nichts andres angegeben ist, gilt das Verbot nach Artike
 <tr><td>ex</td><td>9504 90</td><td>andere</td></tr>
 </table>
 
-### 16. Elektrische/elektronische oder optische Aufzeichnungs- und Wiedergabegeräte für Ton und Bild im Wert von mehr als 1 000 CHF
+### 16. Elektrische/elektronische oder optische Aufzeichnungs- und Wiedergabegeräte für Ton und Bild im Wert von mehr als 1000 CHF
 
 <table>
-<tr><td></td><td>Zolltarifnummer</td><td>Bezeichnung</td></tr>
+<tr><th></th><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
 <tr><td>ex</td><td>8519</td><td>Tonaufnahmegeräte; Tonwiedergabegeräte; Tonaufnahme- und -wiedergabegeräte</td></tr>
 <tr><td>ex</td><td>8521</td><td>Videogeräte zur Bild- und Tonaufzeichnung oder -wiedergabe, auch mit eingebautem Videosignalempfänger</td></tr>
 <tr><td>ex</td><td>8527</td><td>Empfangsgeräte für den Rundfunk, auch in einem gemeinsamen Gehäuse mit einem Tonaufnahme- oder Tonwiedergabegerät oder einer Uhr kombiniert</td></tr>
@@ -1571,7 +1773,7 @@ Sofern in diesem Anhang nichts andres angegeben ist, gilt das Verbot nach Artike
 <tr><td>ex</td><td>9007</td><td>Kinematografische Kameras und Projektoren, auch mit eingebauten Tonaufnahme- oder Tonwiedergabegeräten</td></tr>
 </table>
 
-### 17. Fahrzeuge, mit der Ausnahme von Krankenwagen, für die Beförderung von Personen auf dem Land-, Luft- oder Seeweg im Wert von mehr als 50 000 CHF/Stück, einschliesslich Seilschwebebahnen, Sesselliften und Schleppliften, Zugmechanismen für Standseilbahnen, oder Motorräder im Wert von mehr als 5 000 CHF/Stück sowie Zubehör und Ersatzteile dafür
+### 17. Fahrzeuge, mit der Ausnahme von Krankenwagen, für die Beförderung von Personen auf dem Land-, Luft- oder Seeweg im Wert von mehr als 50 000 CHF/Stück, einschliesslich Seilschwebebahnen, Sesselliften und Schleppliften, Zugmechanismen für Standseilbahnen, oder Motorräder im Wert von mehr als 5000 CHF/Stück sowie Zubehör und Ersatzteile dafür
 
 <table>
 <tr><th></th><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
@@ -1583,7 +1785,7 @@ Sofern in diesem Anhang nichts andres angegeben ist, gilt das Verbot nach Artike
 <tr><td>ex</td><td>7009 10</td><td>Rückspiegel für Fahrzeuge</td></tr>
 <tr><td>ex</td><td>8407</td><td>Hubkolben- oder Kreiskolbenmotoren mit Funkenzündung (Verbrennungsmotoren)</td></tr>
 <tr><td>ex</td><td>8408</td><td>Hubkolben- oder Kreiskolbenmotoren mit Funkenzündung (Verbrennungsmotoren)</td></tr>
-<tr><td>ex</td><td>8409</td><td>Teile, erkennbar als ausschließlich oder hauptsächlich für Motoren der Nrn. 8407 oder 8408 bestimmt</td></tr>
+<tr><td>ex</td><td>8409</td><td>Teile, erkennbar als ausschliesslich oder hauptsächlich für Motoren der Nrn. 8407 oder 8408 bestimmt</td></tr>
 <tr><td>ex</td><td>8411</td><td>Turbostrahltriebwerke, Turbopropellertriebwerke und andere Gasturbinen</td></tr>
 <tr><td>ex</td><td>8428 60</td><td>Seilschwebebahnen (einschliesslich Sessellifte und Schlepplifte); Zugmechanismen für Standseilbahnen</td></tr>
 <tr><td>ex</td><td>8431 39</td><td>Zubehör und Ersatzteile für Seilschwebebahnen, Sessellifte und Schlepplifte; Zugmechanismen für Standseilbahnen</td></tr>
@@ -1597,13 +1799,13 @@ Sofern in diesem Anhang nichts andres angegeben ist, gilt das Verbot nach Artike
 <tr><td>ex</td><td>8603</td><td>Triebwagen und Schienenbusse, ausgenommen solche der Nr. 8604</td></tr>
 <tr><td>ex</td><td>8605</td><td>Personenwagen, Gepäckwagen, Postwagen und andere schienengebundene Spezialwagen (ausgenommen Wagen der Nr. 8604 )</td></tr>
 <tr><td>ex</td><td>8607</td><td>Teile von Schienenfahrzeugen</td></tr>
-<tr><td>ex</td><td>8702</td><td>Automobile zum Befördern von 10 Personen oder mehr, einschließlich Fahrer</td></tr>
+<tr><td>ex</td><td>8702</td><td>Automobile zum Befördern von 10 Personen oder mehr, einschliesslich Fahrer</td></tr>
 <tr><td>ex</td><td>8703</td><td>Personenautomobile und andere hauptsächlich zum Befördern von Personen gebaute Automobile (andere als solche der Nr. 8702), einschliesslich «Breaks» und Rennwagen</td></tr>
 <tr><td>ex</td><td>8706</td><td>Chassis für Motorfahrzeuge der Nrn. 8701 bis 8705, mit Motor</td></tr>
 <tr><td>ex</td><td>8707</td><td>Karosserien für Motorfahrzeuge der Nrn. 8701 bis 8705, einschliesslich Führerkabinen</td></tr>
 <tr><td>ex</td><td>8708</td><td>Teile und Zubehör für Motorfahrzeuge der Nrn. 8701 bis 8705</td></tr>
 <tr><td>ex</td><td>8711</td><td>Motorräder (einschliesslich Motorfahrräder) und Fahrräder mit Hilfsmotor, auch mit Seitenwagen; Seitenwagen</td></tr>
-<tr><td>ex</td><td>8712</td><td>Zweiräder und andere Fahrräder (einschließlich Lastendreiräder), ohne Motor</td></tr>
+<tr><td>ex</td><td>8712</td><td>Zweiräder und andere Fahrräder (einschliesslich Lastendreiräder), ohne Motor</td></tr>
 <tr><td>ex</td><td>8714</td><td>Teile und Zubehör für Fahrzeuge der Nrn. 8711 bis 8713</td></tr>
 <tr><td>ex</td><td>8716 10</td><td>Anhänger, einschliesslich Sattelanhänger, in der Art von Caravans, zu Wohn- oder Campingzwecken</td></tr>
 <tr><td>ex</td><td>8716 40</td><td>andere Anhänger, einschliesslich Sattelanhänger</td></tr>
@@ -1617,8 +1819,8 @@ Sofern in diesem Anhang nichts andres angegeben ist, gilt das Verbot nach Artike
 
 <table>
 <tr><td></td><td>Zolltarifnummer</td><td>Bezeichnung</td></tr>
-<tr><td>ex</td><td>9101</td><td>Armbanduhren, Taschenuhren und ähnliche Uhren (einschließlich Stoppuhren vom gleichen Typ), mit Gehäuse aus Edelmetallen oder Edelmetallplattierungen</td></tr>
-<tr><td>ex</td><td>9102</td><td>Armbanduhren, Taschenuhren und ähnliche Uhren (einschließlich Stoppuhren vom gleichen Typ), andere als solche der Nr. 9101</td></tr>
+<tr><td>ex</td><td>9101</td><td>Armbanduhren, Taschenuhren und ähnliche Uhren (einschliesslich Stoppuhren vom gleichen Typ), mit Gehäuse aus Edelmetallen oder Edelmetallplattierungen</td></tr>
+<tr><td>ex</td><td>9102</td><td>Armbanduhren, Taschenuhren und ähnliche Uhren (einschliesslich Stoppuhren vom gleichen Typ), andere als solche der Nr. 9101</td></tr>
 <tr><td>ex</td><td>9103</td><td>Wecker und Standührchen (Pendulettes), mit Kleinuhrwerk</td></tr>
 <tr><td>ex</td><td>9104 00 00</td><td>Armaturenbrettuhren und ähnliche Uhren, für Automobile, Luftfahrzeuge, Schiffe oder andere Fahrzeuge</td></tr>
 <tr><td>ex</td><td>9105</td><td>Wecker, Pendulen, Uhren und ähnliche Apparate der Uhrenindustrie, mit anderem als Kleinuhrwerk</td></tr>
@@ -1698,3 +1900,144 @@ Sofern in diesem Anhang nichts andres angegeben ist, gilt das Verbot nach Artike
 <tr><td>ex</td><td>9504 50 00</td><td>Videospielkonsolen und -geräte, andere als solche der Nr. 9504.30</td></tr>
 <tr><td>ex</td><td>9504 90 00</td><td>andere</td></tr>
 </table>
+
+### 23. Optische Geräte und Ausrüstung jedweden Werts
+
+<table>
+<tr><th></th><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
+<tr><th>ex</th><th>9004 90 90</th><th>Nachtsichtgeräte oder Wärmebildgeräte</th></tr>
+<tr><th></th><th>9005 10 00</th><th>Ferngläser</th></tr>
+<tr><th>ex</th><th>9005 80 00</th><th>Spektive</th></tr>
+<tr><th>ex</th><th>9013 10</th><th>Zielfernrohre, Waffenzielgeräte, auch mit Wärmebildverstärkung</th></tr>
+<tr><th>ex</th><th>9013 80 90</th><th>Rotpunktvisier</th></tr>
+<tr><th></th><th>9015 10 00</th><th>Entfernungsmesser</th></tr>
+</table>
+
+Anhang 19*[^t-12]*
+
+(Art. 9*b* Abs. 1)
+
+## Flugturbinenkraftstoffe und Kraftstoffadditive
+
+[^t-12]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+
+<table>
+<tr><th></th><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
+<tr><td></td><td></td><td>Flugturbinenkraftstoff (ausser Kerosin):</td></tr>
+<tr><td>ex</td><td>2710 12 19</td><td>leichter Flugturbinenkraftstoff (Leichtöle)</td></tr>
+<tr><td>ex</td><td>2710 19 19</td><td>andere als Kerosin (mittelschwere Öle)</td></tr>
+<tr><td>ex</td><td>2710 19 19</td><td>Flugturbinenkraftstoff auf Petroleumbasis (mittelschwere Öle)</td></tr>
+<tr><td>ex</td><td>2710 20 10</td><td>mit Biodiesel vermischter Flugturbinenkraftstoff auf Petroleumbasis Antioxidantien Antioxidantien, die in Additiven für Schmieröle verwendet werden:</td></tr>
+<tr><td>ex</td><td>3811 21</td><td>– Erdöle enthaltend</td></tr>
+<tr><td>ex</td><td>3811 29</td><td>– andere Antioxidantien</td></tr>
+<tr><td>ex</td><td>3811 90</td><td>Antioxidantien für andere, zu denselben Zwecken wie Mineralöle verwendete Flüssigkeiten Antistatika-Additive Antistatika-Additive für Schmieröle:</td></tr>
+<tr><td>ex</td><td>3811 21</td><td>– Erdöle enthaltend</td></tr>
+<tr><td>ex</td><td>3811 29</td><td>– andere</td></tr>
+<tr><td>ex</td><td>3811 90</td><td>Antistatika-Additive für andere, zu denselben Zwecken wie Mineralöle verwendete Flüssigkeiten: Korrosionsschutzmittel Korrosionsschutzmittel für Schmieröle:</td></tr>
+<tr><td>ex</td><td>3811 21</td><td>– Erdöle enthaltend</td></tr>
+<tr><td>ex</td><td>3811 29</td><td>– andere</td></tr>
+<tr><td>ex</td><td>3811 90</td><td>Korrosionsschutzmittel für andere, zu denselben Zwecken wie Mineralöle verwendete Flüssigkeiten Frostschutzmittel für Treibstoffanlagen (Fuel System Icing Inhibitors) Frostschutzmittel für Treibstoffanlagen zur Verwendung in Schmierölen:</td></tr>
+<tr><td>ex</td><td>3811 21</td><td>– Erdöle enthaltend</td></tr>
+<tr><td>ex</td><td>3811 29</td><td>– andere</td></tr>
+<tr><td>ex</td><td>3811 90</td><td>Frostschutzmittel für Treibstoffanlagen für andere, zu denselben Zwecken wie Mineralöle verwendete Flüssigkeiten: Metallschutzmittel Metallschutzmittel für Schmieröle</td></tr>
+<tr><td>ex</td><td>3811 21</td><td>– Erdöle enthaltend</td></tr>
+<tr><td>ex</td><td>3811 29</td><td>– andere</td></tr>
+<tr><td>ex</td><td>3811 90</td><td>Metallschutzmittel für andere, zu denselben Zwecken wie Mineralöle verwendete Flüssigkeiten Biozidadditive Biozidadditive für Schmieröle:</td></tr>
+<tr><td>ex</td><td>3811 21</td><td>– Erdöle enthaltend</td></tr>
+<tr><td>ex</td><td>3811 29</td><td>– andere</td></tr>
+<tr><td>ex</td><td>3811 90</td><td>Biozidadditive für andere, zu denselben Zwecken wie Mineralöle verwendete Flüssigkeiten Thermostabilitätsverbesserer Thermostabilitätsverbesserer für Schmieröle:</td></tr>
+<tr><td>ex</td><td>3811 21</td><td>– Erdöle enthaltend</td></tr>
+<tr><td></td><td>ex 3811 29</td><td>– andere</td></tr>
+<tr><td></td><td>ex 3811 90</td><td>Thermostabilitätsverbesserer für andere, zu denselben Zwecken wie Mineralöle verwendete Flüssigkeiten</td></tr>
+</table>
+
+Anhang 20*[^t-13]*
+
+(Art. 14*c* Abs. 1)
+
+## Wirtschaftlich bedeutende Güter
+
+[^t-13]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+
+<table>
+<tr><th></th><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
+<tr><td></td><td>0306</td><td>Krebstiere, auch ohne Panzer, lebend, frisch, gekühlt, gefroren, getrocknet, gesalzen oder in Salzlake; Krebstiere, auch ohne Panzer, geräuchert, auch vor oder während der Räucherung gekocht; Krebstiere in ihrem Panzer, in Wasser oder Dampf gekocht, auch gekühlt, gefroren, getrocknet, gesalzen oder in Salzlake</td></tr>
+<tr><td></td><td>1604 31</td><td>Kaviar</td></tr>
+<tr><td></td><td>1604 32</td><td>Kaviarersatz</td></tr>
+<tr><td></td><td>2523</td><td>Zement (einschliesslich Zementklinker), auch gefärbt</td></tr>
+<tr><td>ex</td><td>2825</td><td>Hydrazin und Hydroxylamin und ihre anorganischen Salze; andere anorganische Basen; andere Metalloxide, -hydroxide und -peroxide, ausgenommen solche der Nummern 2825 20 und 2825 30</td></tr>
+<tr><td>ex</td><td>2835</td><td>Phosphinate (Hypophosphite), Phosphonate (Phosphite) und Phosphate; Polyphosphate, auch chemisch nicht einheitlich, ausgenommen solche der Nummer 2835 26</td></tr>
+<tr><td>ex</td><td>2901</td><td>Acyclische Kohlenwasserstoffe, ausgenommen solche der Nummer 2901 10</td></tr>
+<tr><td></td><td>2902</td><td>Cyclische Kohlenwasserstoffe</td></tr>
+<tr><td>ex</td><td>2905</td><td>Acyclische Alkohole und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate, ausgenommen solche der Nummer 2905 11</td></tr>
+<tr><td></td><td>2907</td><td>Phenole; Phenolalkohole</td></tr>
+<tr><td></td><td>2909</td><td>Ether, Etheralkohole, Etherphenole, Etherphenolalkohole, Alkoholperoxide, Etherperoxide, Acetalperoxide und Halbacetalperoxide, Ketonperoxide (auch chemisch nicht einheitlich), und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate:</td></tr>
+<tr><td></td><td>3104 20</td><td>Kaliumchlorid</td></tr>
+<tr><td></td><td>3105 20</td><td>Mineralische oder chemische Düngemittel, die drei düngenden Stoffe Stickstoff, Phosphor und Kalium enthaltend</td></tr>
+<tr><td></td><td>3105 60</td><td>Mineralische oder chemische Düngemittel, die beiden düngenden Stoffe Phosphor und Kalium enthaltend</td></tr>
+<tr><td>ex</td><td>3105 90</td><td>andere Düngemittel, Kaliumchlorid enthaltend</td></tr>
+<tr><td></td><td>3902</td><td>Polymere des Propylens oder anderer Olefine, in Primärformen</td></tr>
+<tr><td></td><td>4011</td><td>Neue Luftreifen, aus Kautschuk</td></tr>
+<tr><td></td><td>44</td><td>Holz, Holzkohle und Holzwaren</td></tr>
+<tr><td></td><td>4705</td><td>Halbstoffe aus Holz, mittels einer kombinierten mechanischen und chemischen Behandlung erzeugt</td></tr>
+<tr><td></td><td>4804</td><td>Kraftpapier und Kraftpappe, weder gestrichen noch überzogen, in Rollen oder Bogen, andere als solche der Nrn. 4802 oder 4803</td></tr>
+<tr><td></td><td>6810</td><td>Waren aus Zement, Beton oder Kunststein, auch armiert</td></tr>
+<tr><td></td><td>7005</td><td>Float-Glas und auf einer oder beiden Seiten geschliffenes oder poliertes Glas, in Platten oder Tafeln, auch mit absorbierender, reflektierender oder nicht reflektierender Schicht, aber nicht anders bearbeitet</td></tr>
+<tr><td></td><td>7007</td><td>Sicherheitsglas, aus gehärtetem Glas oder mehrschichtigem Glas (Verbundglas)</td></tr>
+<tr><td></td><td>7010</td><td>Ballons, Korbflaschen, Flaschen, Flakons, Einmachgläser, Töpfe, Verpackungsröhrchen, Ampullen und andere Behältnisse zu Transport- oder Verpackungszwecken, aus Glas; Konservengläser; Stöpsel, Deckel und andere Verschlüsse, aus Glas</td></tr>
+<tr><td></td><td>7019</td><td>Glasfasern (einschliesssslich Glaswolle) und Waren daraus (z. B. Garne, Glasseidenstränge (Rovings), Gewebe)</td></tr>
+<tr><td></td><td>7106</td><td>Silber (einschliesslich vergoldetes oder platiniertes Silber) in Rohform oder in Form von Halbzeug oder Pulver</td></tr>
+<tr><td></td><td>7606</td><td>Bleche und Bänder, aus Aluminium, mit einer Dicke von mehr als 0,2 mm</td></tr>
+<tr><td></td><td>7801</td><td>Blei in Rohform</td></tr>
+<tr><td>ex</td><td>8411</td><td>Turbostrahltriebwerke, Turbopropellertriebwerke und andere Gasturbinen, ausgenommen Teile für Turbostrahltriebwerke oder Turbopropellertriebwerken der Nummer 8411 91</td></tr>
+<tr><td></td><td>8431</td><td>Teile, erkennbar als ausschliesslich oder hauptsächlich für Maschinen oder Apparate der Nrn. 8425 bis 8430 bestimmt</td></tr>
+<tr><td></td><td>8901</td><td>Passagierschiffe, Schiffe für Kreuzfahrten, Fährschiffe, Frachtschiffe, Lastkähne und ähnliche Schiffe zum Befördern von Personen oder Waren</td></tr>
+<tr><td></td><td>8904</td><td>Schlepper und Schubschiffe</td></tr>
+<tr><td></td><td>8905</td><td>Leuchtschiffe, Feuerlöschschiffe, Schwimmbagger, Schwimmkrane und andere Schiffe, bei denen das Fahren im Vergleich zu ihrem Verwendungszweck von untergeordneter Bedeutung ist; Schwimmdocks; schwimmende oder unter Wasser absenkbare Bohr- oder Förderplattformen</td></tr>
+<tr><td></td><td>9403</td><td>Andere Möbel und Teile davon</td></tr>
+</table>
+
+Anhang 21*[^t-14]*
+
+(Art. 14*c* Abs. 3)
+
+## Einfuhrkontingente für bestimmte Güter
+
+[^t-14]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+
+<table>
+<tr><td>Zolltarifnummer</td><td>Menge</td><td>Geltungsdauer</td></tr>
+<tr><td>3104 20</td><td>1720 Tonnen</td><td>vom 29. Juli bis zum 28. Juli des darauffolgenden Jahres</td></tr>
+<tr><td>3105 20, 3105 60, 3105 90</td><td>1636 Tonnen kombiniert</td><td>vom 29. Juli bis zum 28. Juli des darauffolgenden Jahres</td></tr>
+</table>
+
+Anhang 22*[^t-15]*
+
+(Art. 12 Abs. 1)
+
+## Feste fossile Brennstoffe
+
+[^t-15]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+
+<table>
+<tr><td>Zolltarifnummer</td><td>Bezeichnung</td></tr>
+<tr><td>2701</td><td>Steinkohle; Briketts und ähnliche feste Brennstoffe aus Steinkohle</td></tr>
+<tr><td>2702</td><td>Braunkohle, auch agglomeriert, ausgenommen Jett</td></tr>
+<tr><td>2703</td><td>Torf (einschliesslich Torfstreue), auch agglomeriert</td></tr>
+<tr><td>2704</td><td>Koks und Schwelkoks, aus Steinkohle, Braunkohle oder Torf, auch agglomeriert; Retortenkohle</td></tr>
+<tr><td>2705</td><td>Steinkohlengas, Wassergas, Schwachgas und ähnliche Gase, ausgenommen Erdgas und andere gasförmige Kohlenwasserstoffe</td></tr>
+<tr><td>2706</td><td>Teer aus Steinkohle, Braunkohle oder Torf und andere Mineralteere, auch entwässert oder teilweise destilliert, einschliesslich rekonstituierte Teere</td></tr>
+<tr><td>2707</td><td>Öle und andere Erzeugnisse der Destillation des Hochtemperatur-Steinkohlenteers; ähnliche Erzeugnisse, in denen die aromatischen Bestandteile im Gewicht gegenüber den nicht aromatischen Bestandteilen überwiegen</td></tr>
+<tr><td>2708</td><td>Pech und Pechkoks aus Steinkohlenteer oder anderen Mineralteeren</td></tr>
+</table>
+
+Anhang 23*[^t-16]*
+
+(Art. 11*a* Abs. 1)
+
+## Güter für die Stärkung der Industrie****
+
+[^annex23-lvlu1-1]
+
+[^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^annex23-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
