@@ -3,18 +3,18 @@ sr: "916.443.107"
 title: "Ordinanza dell’USAV del 6 agosto 2021 che istituisce provvedimenti contro la propagazione della peste suina africana nel traffico con Stati membri dell’Unione europea, Islanda e Norvegia"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/474"
 language: it
-version: 2022-04-09
+version: 2022-04-27
 adopted: 2021-08-06
 in_force: 2021-08-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20220409/it/xml/fedlex-data-admin-ch-eli-cc-2021-474-20220409-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20220409/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20220427/it/xml/fedlex-data-admin-ch-eli-cc-2021-474-20220427-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20220427/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce provvedimenti contro la propagazione della peste suina africana nel traffico con Stati membri dell’Unione europea, Islanda e Norvegia
 
-del 6 agosto 2021 (Stato 9 aprile 2022)
+del 6 agosto 2021 (Stato 27 aprile 2022)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -64,8 +64,8 @@ L’importazione di animali vivi e prodotti di origine animale di cui all’arti
 
 <sup>2</sup> L’importazione di cinghiali vivi provenienti dall’intero territorio degli Stati membri dell’UE, dell’Islanda e della Norvegia è vietata.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 7 apr. 2022, in vigore dal 9 apr. 2022 ([RU 2022 225](https://fedlex.data.admin.ch/eli/oc/2022/225)).
-[^2-2]: Regolamento di esecuzione (UE) 2021/605 della Commissione del 7 aprile 2021 che stabilisce misure speciali di controllo della peste suina africana, GU L 129 del 15 aprile 2021, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2022/491, GU L 100 del 28 marzo 2022, pag. 16.
+[^2-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 25 apr. 2022, in vigore dal 27 apr. 2022 ([RU 2022 255](https://fedlex.data.admin.ch/eli/oc/2022/255)).
+[^2-2]: Regolamento di esecuzione (UE) 2021/605 della Commissione del 7 aprile 2021 che stabilisce misure speciali di controllo della peste suina africana, GU L 129 del 15.4.2021, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2022/587, GU L 112 dell’11.4.2022, pag. 11.
 [^2-3]: Regolamento delegato (UE) 2020/687 della Commissione, del 17 dicembre 2019, che integra il regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio per quanto riguarda le norme relative alla prevenzione e al controllo di determinate malattie elencate; modificato dal regolamento delegato (UE) 2021/1140, GU L 247 del 13.7.2021, pag. 50
 
 #### Art. 3
@@ -134,7 +134,7 @@ Allegato*[^t-1]*
 
 ## Stati membri e zone interessati
 
-[^t-1]: Nuovo testo giusta il n. II dell’O dell’USAV del 27 gen. 2022 ([RU 2022 46](https://fedlex.data.admin.ch/eli/oc/2022/46)). Aggiornato dal n. II dell’O dell’USAV del 7 apr. 2022, in vigore dal 9 apr. 2022 ([RU 2022 225](https://fedlex.data.admin.ch/eli/oc/2022/225)).
+[^t-1]: Nuovo testo giusta il n. II dell’O dell’USAV del 25 apr. 2022, in vigore dal 27 apr. 2022 ([RU 2022 255](https://fedlex.data.admin.ch/eli/oc/2022/255)).
 
 ### 1 Zone soggette a restrizioni disciplinate secondo il regolamento di esecuzione (UE) 2021/605
 
@@ -142,7 +142,7 @@ Gli Stati membri dell’Unione europea e le relative zone soggette a restrizioni
 
 <table>
 <tr><th>Atto normativo di base UE</th><th>Titolo e data di pubblicazione dell’atto normativo di base nonché atti modificatori con date di pubblicazione</th></tr>
-<tr><th>Regolamento di esecuzione (UE) 2021/605</th><th>Regolamento di esecuzione (UE) 2021/605 della Commissione, del 7 aprile 2021, che stabilisce misure speciali di controllo della peste suina africana, GU L 129 del 15 aprile 2021, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2022/491, GU L 100 del 28 marzo 2022, pag. 16.</th></tr>
+<tr><th>Regolamento di esecuzione (UE) 2021/605</th><th>Regolamento di esecuzione (UE) 2021/605 della Commissione, del 7 aprile 2021, che stabilisce misure speciali di controllo della peste suina africana, GU L 129 del 15 aprile 2021, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2022/587, GU L 112 dell’11 aprile 2022, pag. 11.</th></tr>
 </table>
 
 Nell’allegato I del regolamento di esecuzione sopra citato, determinate zone negli Stati membri interessati sono suddivise in base al rischio di introduzione della peste suina africana nelle tre parti seguenti:
@@ -211,21 +211,10 @@ Slovacchia
 
 ### 2 Altre zone infette
 
-Gli Stati membri dell’UE nonché le zone infette secondo il regolamento delegato (UE) 2020/687[^annexu1-lvlu1-lvl2-1] ubicate al di fuori delle zone di cui al numero 1 sono stabiliti nella seguente decisione di esecuzione:
-
-<table>
-<tr><th>Atto normativo di base UE</th><th>Titolo e data di pubblicazione dell’atto normativo di base nonché atti modificatori con date di pubblicazione</th></tr>
-<tr><td>Decisione di esecuzione (UE) 2022/62</td><td>Decisione di esecuzione (UE) 2022/62 della Commissione del 14 gennaio 2022 relativa ad alcune misure di emergenza contro la peste suina africana in Italia, versione della GU L 10 del 17.1.2022, pag. 84</td></tr>
-</table>
-
-Nel seguente Stato membro dell’UE vi sono tali zone soggette a restrizioni:
-
-Italia
+Non vi sono Stati membri dell’UE con altre zone infette secondo il regolamento delegato (UE) 2020/687[^annexu1-lvlu1-lvl2-1] ubicate al di fuori delle zone di cui al numero 1.
 
 [^annexu1-lvlu1-lvl2-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 1 lett. b.
 
 ### 3 Altre zone soggette a restrizioni
 
-Non vi sono Stati membri dell’UE con zone soggette a restrizioni secondo il regolamento delegato (UE) 2020/687[^annexu1-lvlu1-lvl3-1] ubicate al di fuori delle zone di cui al numero 1.
-
-[^annexu1-lvlu1-lvl3-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 1 lett. b.
+Non vi sono Stati membri dell’UE con zone soggette a restrizioni secondo il regolamento delegato (UE) 2020/687 ubicate al di fuori delle zone di cui al numero 1.
