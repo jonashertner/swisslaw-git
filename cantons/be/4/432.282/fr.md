@@ -4,13 +4,13 @@ number: "432.282"
 title: "Ordonnance sur l'offre spécialisée de l'école obligatoire"
 short: OOSEO
 language: fr
-version: 2022-01-01
-valid_until: 2022-04-30
-version_adopted: 2021-11-10
+version: 2022-05-01
+valid_until: 2022-08-31
+version_adopted: 2022-04-06
 adopted: 2021-11-10
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.282"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2458/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2588/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2458/pdf_file"
 
 (OOSEO)
 
-du 10.11.2021 (état au 01.01.2022)
+du 10.11.2021 (état au 01.05.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -755,6 +755,32 @@ arrête:
 
 <sup>2</sup> Elle présuppose que l’inspection scolaire régionale ait admis l’élève à l’offre spécialisée de l’école obligatoire conformément à la présente ordonnance.
 
+## 3a Centre pédagogique de logopédie et d’entraînement auditif de Münchenbuchsee
+
+#### Art. 69a
+
+**But**
+
+<sup>1</sup> Le Centre pédagogique de logopédie et d’entraînement auditif de Münchenbuchsee (CPLEAM) est une institution cantonale qui assure
+
+- a l'encadrement sociopédagogique et le soutien pédagogique spécialisé d'enfants présentant des troubles du langage et de l'audition,
+- b la conduite du service audiopédagogique du canton de Berne.
+
+#### Art. 69b
+
+**Commission scolaire**
+
+<sup>1</sup> L'Office de l'école obligatoire et du conseil institue une commission scolaire visant à soutenir et développer le CPLEAM.
+
+<sup>2</sup> La durée du mandat des membres est de quatre ans.
+
+<sup>3</sup> La commission scolaire
+
+- a soutient l'ancrage régional du CPLEAM;
+- b arrête les exclusions temporaires du centre selon la législation sur l'école obligatoire;
+- c conseille le service compétent de l'Office de l'école obligatoire et du conseil pour les questions stratégiques et
+- d accomplit les autres tâches qui lui sont assignées par le règlement d'organisation.
+
 ## 4 Dispositions transitoires et disposition finale
 
 ### 4.1 Dispositions transitoires
@@ -807,5 +833,19 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2022.
+
+## T1 Dispositions transitoires de la modification du 06.04.2022
+
+#### Art. T1-1
+
+**Commission scolaire**
+
+<sup>1</sup> L'Office de l'école obligatoire et du conseil institue la commission scolaire du CPLEAM au 1<sup>er</sup> janvier 2023.
+
+#### Art. T1-2
+
+**Droit applicable**
+
+<sup>1</sup> Le chapitre 3a et les articles 69a et 69b s'appliquent à partir du 1<sup>er</sup> janvier 2023.
 
 21-113

@@ -4,13 +4,13 @@ number: "432.282"
 title: Verordnung über das besondere Volksschulangebot
 short: BVSV
 language: de
-version: 2022-01-01
-valid_until: 2022-04-30
-version_adopted: 2021-11-10
+version: 2022-05-01
+valid_until: 2022-08-31
+version_adopted: 2022-04-06
 adopted: 2021-11-10
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.282"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2458/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2588/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2458/pdf_file"
 
 (BVSV)
 
-vom 10.11.2021 (Stand 01.01.2022)
+vom 10.11.2021 (Stand 01.05.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -755,6 +755,32 @@ beschliesst:
 
 <sup>2</sup> Sie setzt eine Zuweisung zum besonderen Volksschulangebot durch das regionale Schulinspektorat gemäss dieser Verordnung voraus.
 
+## 3a Pädagogisches Zentrum für Hören und Sprache Münchenbuchsee
+
+#### Art. 69a
+
+**Zweck**
+
+<sup>1</sup> Das Pädagogische Zentrum für Hören und Sprache Münchenbuchsee (HSM) ist eine kantonale Institution und bezweckt
+
+- a die heilpädagogische Schulung und sozialpädagogische Betreuung sprach- und hörbehinderter Kinder,
+- b die Führung des audiopädagogischen Dienstes.
+
+#### Art. 69b
+
+**Schulkommission**
+
+<sup>1</sup> Das Amt für Kindergarten, Volksschule und Beratung setzt eine Schulkommission ein zur Unterstützung und Weiterentwicklung des HSM.
+
+<sup>2</sup> Die Amtsdauer der Mitglieder beträgt vier Jahre.
+
+<sup>3</sup> Die Schulkommission
+
+- a unterstützt die regionale Verankerung des HSM,
+- b verfügt temporäre Schulausschlüsse gemäss der Volksschulgesetzgebung,
+- c berät die die zuständige Stelle des Amts für Kindergarten, Volksschule und Beratung in strategischen Fragen und
+- d erfüllt die weiteren Aufgaben, die ihr im Organisationsreglement zugewiesen sind.
+
 ## 4 Übergangs- und Schlussbestimmungen
 
 ### 4.1 Übergangsbestimmungen
@@ -807,5 +833,19 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 2022 in Kraft.
+
+## T1 Übergangsbestimmungen der Änderung vom 06.04.2022
+
+#### Art. T1-1
+
+**Schulkommission**
+
+<sup>1</sup> Das Amt für Kindergarten, Volksschule und Beratung setzt die Schulkommission des HSM auf den 1. Januar 2023 ein.
+
+#### Art. T1-2
+
+**Anwendbares Recht**
+
+<sup>1</sup> Das Kapitel 3a sowie die Artikel 69a und 69b sind ab dem 1. Januar 2023 anwendbar.
 
 21-113
