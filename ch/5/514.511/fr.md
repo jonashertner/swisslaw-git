@@ -4,11 +4,11 @@ title: Ordonnance du 25 février 1998 sur le matériel de guerre (OMG)
 short: OMG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
 language: fr
-version: 2022-01-01
+version: 2022-05-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20220501-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20220501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20220101/fr"
 
 (OMG)
 
-du 25 février 1998 (Etat le 1<sup>er</sup> janvier 2022)
+du 25 février 1998 (Etat le 1<sup>er</sup> mai 2022)
 
 Le Conseil fédéral suisse,
 
@@ -88,43 +88,9 @@ Il faut joindre à la demande d’obtention d’une autorisation initiale:
 
 #### Art. 5
 
-**Critères d’autorisation pour les marchés passés avec l’étranger**
+[^5-1]
 
-### (art. 22 LFMG)
-
-<sup>1</sup>
-
-L’autorisation concernant les marchés passés avec l’étranger et la conclusion de contrats aux termes de l’art. 20 LFMG doit reposer sur les considérations suivantes:
-
-- a. le maintien de la paix, de la sécurité internationale et de la stabilité régionale;
-- b.[^5-1] la situation qui prévaut dans le pays de destination; il faut tenir compte notamment du respect des droits de l’homme et de la renonciation à utiliser des enfants-soldats;
-- c.[^5-2] les efforts déployés par la Suisse dans le domaine de la coopération au développement,en particulier l’éventualité que le pays de destination figure parmi les pays les moins avancés sur la liste en vigueur des pays bénéficiaires de l’aide publique au développement établie par le Comité d’aide au développement de l’Organisation de coopération et de développement économiques[^5-3];
-- d. l’attitude du pays de destination envers la communauté internationale, notamment sous l’angle du respect du droit international public;
-- e. la conduite adoptée par les pays qui, comme la Suisse, sont affiliés aux régimes internationaux de contrôle des exportations.
-
-<sup>2</sup>
-
-L’autorisation concernant les marchés passés avec l’étranger et la conclusion de contrats aux termes de l’art. 20 LFMG n’est pas accordée:
-
-- a. si le pays de destination est impliqué dans un conflit armé interne ou international;
-- b. si le pays de destination viole systématiquement et gravement les droits de l’homme;
-- c.[^5-4] ...
-- d.[^5-5] s’il y a de forts risques que, dans le pays de destination, le matériel de guerre à exporter soit utilisé contre la population civile, ou
-- e.[^5-6] s’il y a de forts risques que, dans le pays de destination, le matériel de guerre à exporter soit transmis à un destinataire final non souhaité.[^5-7]
-
-<sup>3</sup> En dérogation aux al. 1 et 2, une autorisation peut être accordée pour des armes individuelles de la catégorie KM 1 répertoriées dans l’annexe 1 et pour leurs munitions, lorsqu’elles sont destinées exclusivement à un usage privé ou sportif.[^5-8]
-
-<sup>4</sup> Par dérogation à l’al. 2, let. b, une autorisation peut être accordée si le risque est faible que le matériel de guerre à exporter soit utilisé pour commettre des violations graves des droits de l’homme.[^5-9]
-
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^5-2]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> nov. 2014 ([RO 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
-[^5-3]: La liste établie par le Comité d’aide au développement de l’OCDE peut être consultée en ligne à l’adresse suivante: www.ocde.org
-[^5-4]: Abrogée par le ch. I de l’O du 19 sept. 2014, avec effet au 1<sup>er</sup> nov. 2014 ([RO 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
-[^5-5]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> nov. 2014 ([RO 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
-[^5-6]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> nov. 2014 ([RO 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
-[^5-7]: Introduit par le ch. I de l’O du 27 août 2008, en vigueur depuis le 12 déc. 2008 ([RO 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
-[^5-8]: Introduit par le ch. I de l’O du 27 août 2008, en vigueur depuis le 12 déc. 2008 ([RO 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
-[^5-9]: Introduit par le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> nov. 2014 ([RO 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
+[^5-1]: Abrogé par le ch. I de l’O du 30 mars 2022, avec effet au 1<sup>er</sup> mai 2022 ([RO 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
 
 #### Art. 5a
 
@@ -156,13 +122,17 @@ Quiconque veut exporter du matériel de guerre vers un destinataire autre qu’u
 
 **Autorisation de transit dans l’espace aérien d’aéronefs civils transportant du matériel de guerre**[^5c-1]
 
-### (art. 17, al. 3, et 22 LFMG)
+### (art. 17, al. 3, 22 et 22*a* LFMG)
+
+[^5c-2]
 
 <sup>1</sup> Le transit dans l’espace aérien d’aéronefs civils transportant du matériel de guerre est autorisé si cette activité ne contrevient pas au droit international et n’est pas contraire aux principes de la politique étrangère de la Suisse et à ses obligations internationales.
 
-<sup>2</sup> Lors de l’examen de l’autorisation, l’autorité compétente tient également compte des critères énoncés à l’art. 5.
+<sup>2</sup> Lors de l’examen de l’autorisation, l’autorité compétente tient également compte des critères énoncés à l’art. 22*a* LFMG.[^5c-3]
 
 [^5c-1]: Introduit par le ch. I de l’O du 19 août 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
+[^5c-2]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
+[^5c-3]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
 
 #### Art. 6
 
@@ -252,14 +222,16 @@ Les personnes des catégories suivantes n’ont besoin d’aucune autorisation p
 
 **Procédures simplifiées en cas de réparation, d’exposition, de démonstration ou d’évaluation**[^9c-1]
 
-<sup>1</sup> L’autorisation d’exportation délivrée pour du matériel de guerre exporté temporairement pour être réparé, exposé, évalué ou servir à une démonstration, est également valable pour sa réimportation.
+<sup>1</sup> L’autorisation d’exportation délivrée pour le matériel de guerre exporté, sur la base d’une déclaration en douane écrite, sous le régime douanier de l’admission temporaire pour être exposé, évalué ou servir à une démonstration est également valable pour sa réimportation.[^9c-2]
 
-<sup>2</sup> L’al. 1 s’applique par analogie au matériel de guerre importé temporairement pour être exposé, évalué ou servir à une démonstration.
+<sup>2</sup> L’autorisation d’importation délivrée pour le matériel de guerre importé, sur la base d’une déclaration en douane écrite, sous le régime douanier de l’admission temporaire pour être exposé, évalué ou servir à une démonstration est également valable pour sa réexportation.[^9c-3]
 
-<sup>3</sup> Pour le matériel de guerre qui est également compris dans le champ d’application de la loi du 20 juin 1997 sur les armes[^9c-2], les dispositions de la législation sur les armes sont réservées.
+<sup>3</sup> Pour le matériel de guerre qui est également compris dans le champ d’application de la loi du 20 juin 1997 sur les armes[^9c-4], les dispositions de la législation sur les armes sont réservées.
 
 [^9c-1]: Introduit par le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^9c-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^9c-2]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
+[^9c-3]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
+[^9c-4]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 
 #### Art. 9d
 
@@ -320,9 +292,9 @@ Les personnes des catégories suivantes n’ont besoin d’aucune autorisation p
 
 <sup>1</sup> L’importateur doit importer dans les six mois à compter de la date d’établissement du certificat d’importation le matériel de guerre pour lequel il a requis ce certificat. Ce délai peut être prolongé sur demande écrite dûment motivée.
 
-<sup>2</sup> Il doit prouver au SECO, au moyen de l’original de la décision de taxation douanière et des factures pertinentes du fournisseur, que l’importation a bien eu lieu. La preuve doit être apportée dès réception de l’original de la décision de taxation douanière. Les procédures d’admission temporaire en Suisse telles que celle du carnet ATA ne sont pas assimilées à un placement sous régime douanier.[^11-1]
+<sup>2</sup> Il doit prouver au SECO, au moyen de l’original de la décision de taxation douanière et des factures pertinentes du fournisseur, que l’importation a bien eu lieu. La preuve doit être apportée dès réception de l’original de la décision de taxation douanière.[^11-1]
 
-[^11-1]: Nouvelle teneur selon l’annexe 4 ch. 10 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
 
 #### Art. 12
 
@@ -559,6 +531,18 @@ Les demandes qui sont pendantes à l’entrée en vigueur des modifications du 1
 
 [^24a-1]: Introduit par le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> nov.2014 ([RO 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
 
+#### Art. 24b
+
+**Dispositions transitoires de la modification du 30 mars 2022**[^24b-1]
+
+<sup>1</sup> Les demandes qui sont pendantes à l’entrée en vigueur de la modification du 30 mars 2022 sont traitées conformément à l’ancien droit.
+
+<sup>2</sup> La prolongation des autorisations d’exportation délivrées avant l’entrée en vigueur de la modification du 30 mars 2022 est régie par l’ancien droit.
+
+<sup>3</sup> Une nouvelle demande d’exportation doit être déposée pour le matériel de guerre dont l’exportation a été autorisée avant l’entrée en vigueur de la modification du 30 mars 2022 et qui n’a pas ou n’a pas totalement pu être exporté pendant la durée de validité de l’autorisation et de sa prolongation. La nouvelle demande est traitée conformément à l’ancien droit.
+
+[^24b-1]: Introduit par le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
+
 #### Art. 25
 
 **...**
@@ -645,7 +629,7 @@ Annexe 2*[^t-2]*
 
 ## Liste des pays pour lesquels, aux termes des art. 6 et 7 de l’OMG, aucune autorisation spécifique n’est exigée
 
-[^t-2]: Mise à jour selon le ch. I de l’O du 25 août 1999, en vigueur depuis le 1<sup>er</sup> oct. 1999 ([RO 1999 2454](https://fedlex.data.admin.ch/eli/oc/1999/376)).
+[^t-2]: Mise à jour par le ch. I de l’O du 25 août 1999, en vigueur depuis le 1<sup>er</sup> oct. 1999 ([RO 1999 2454](https://fedlex.data.admin.ch/eli/oc/1999/376)).
 
 Allemagne
 

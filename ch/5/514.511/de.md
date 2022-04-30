@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Februar 1998 über das Kriegsmaterial (Kriegsmaterial
 short: KMV
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
 language: de
-version: 2022-01-01
+version: 2022-05-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20220501/de/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20220501-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20220501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20220101/de"
 
 (Kriegsmaterialverordnung, KMV)
 
-vom 25. Februar 1998 (Stand am 1. Januar 2022)
+vom 25. Februar 1998 (Stand am 1. Mai 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -62,7 +62,7 @@ Als Kriegsmaterial gelten die in Anhang 1 aufgeführten Güter.
 Dem Gesuch um eine Grundbewilligung sind beizulegen:
 
 - a. ein Verzeichnis des Kriegsmaterials, für welches um eine Bewilligung ersucht wird;
-- b.[^3-1] ...
+- b.[^3-1] …
 - c. ein Auszug aus dem Handelsregister;
 - d. ein Auszug aus dem Steuerregister;
 - e. ein Auszug aus dem Betreibungsregister;
@@ -88,43 +88,9 @@ Dem Gesuch um eine Grundbewilligung sind beizulegen:
 
 #### Art. 5
 
-**Bewilligungskriterien für Auslandsgeschäfte**
+[^5-1]
 
-### (Art. 22 KMG)
-
-<sup>1</sup>
-
-Bei der Bewilligung von Auslandsgeschäften und des Abschlusses von Verträgen nach Artikel 20 KMG sind zu berücksichtigen:
-
-- a. die Aufrechterhaltung des Friedens, der internationalen Sicherheit und der regionalen Stabilität;
-- b.[^5-1] die Situation im Innern des Bestimmungslandes; namentlich sind zu berücksichtigen die Respektierung der Menschenrechte und der Verzicht auf Kindersoldaten;
-- c.[^5-2] die Bestrebungen der Schweiz im Bereich der Entwicklungszusammenarbeit, insbesondere der mögliche Umstand, dass das Bestimmungsland auf der jeweils geltenden OECD-DAC-Liste der Empfängerländer öffentlicher Entwicklungshilfe[^5-3] unter den am wenigsten entwickelten Ländern aufgeführt ist;
-- d. das Verhalten des Bestimmungslandes gegenüber der Staatengemeinschaft, insbesondere hinsichtlich der Einhaltung des Völkerrechts;
-- e. die Haltung der Länder, die sich zusammen mit der Schweiz an internationalen Exportkontrollregimes beteiligen.
-
-<sup>2</sup>
-
-Auslandsgeschäfte und Abschlüsse von Verträgen nach Artikel 20 KMG werden nicht bewilligt, wenn:
-
-- a. das Bestimmungsland in einen internen oder internationalen bewaffneten Konflikt verwickelt ist;
-- b. das Bestimmungsland Menschenrechte systematisch und schwerwiegend verletzt;
-- c.[^5-4] ...
-- d.[^5-5] im Bestimmungsland ein hohes Risiko besteht, dass das auszuführende Kriegsmaterial gegen die Zivilbevölkerung eingesetzt wird; oder
-- e.[^5-6] im Bestimmungsland ein hohes Risiko besteht, dass das auszuführende Kriegsmaterial an einen unerwünschten Endempfänger weitergegeben wird.[^5-7]
-
-<sup>3</sup> Abweichend von den Absätzen 1 und 2 kann eine Bewilligung erteilt werden für einzelne Waffen der Kategorie KM 1 des Anhangs 1 mit dazugehöriger Munition, sofern die Waffen ausschliesslich privaten oder sportlichen Zwecken dienen.[^5-8]
-
-<sup>4</sup> Abweichend von Absatz 2 Buchstabe b kann eine Bewilligung erteilt werden, wenn ein geringes Risiko besteht, dass das auszuführende Kriegsmaterial zur Begehung von schwerwiegenden Menschenrechtsverletzungen eingesetzt wird.[^5-9]
-
-[^5-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2001, in Kraft seit 1. März 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^5-2]: Fassung gemäss Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Nov. 2014 ([AS 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
-[^5-3]: Die OECD-DAC-Liste ist unter folgender Internetadresse abrufbar: www.oecd.org
-[^5-4]: Aufgehoben durch Ziff. I der V vom 19. Sept. 2014, mit Wirkung seit 1. Nov. 2014 ([AS 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
-[^5-5]: Fassung gemäss Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Nov. 2014 ([AS 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
-[^5-6]: Fassung gemäss Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Nov. 2014 ([AS 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
-[^5-7]: Eingefügt durch Ziff. I der V vom 27. Aug. 2008, in Kraft seit 12. Dez. 2008 ([AS 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
-[^5-8]: Eingefügt durch Ziff. I der V vom 27. Aug. 2008, in Kraft seit 12. Dez. 2008 ([AS 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
-[^5-9]: Eingefügt durch Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Nov. 2014 ([AS 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
+[^5-1]: Aufgehoben durch Ziff. I der V vom 30. März 2022, mit Wirkung seit 1. Mai 2022 ([AS 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
 
 #### Art. 5a
 
@@ -156,13 +122,17 @@ Wer Kriegsmaterial weder an eine ausländische Regierung noch an ein für eine s
 
 **Durchfuhrbewilligungen für Zivilluftfahrzeuge mit Kriegsmaterial an Bord**[^5c-1]
 
-### (Art. 17 Abs. 3 und 22 KMG)
+### (Art. 17 Abs. 3, 22 und 22*a* KMG)
+
+[^5c-2]
 
 <sup>1</sup> Die Durchfuhr von Kriegsmaterial mit Zivilluftfahrzeugen wird bewilligt, wenn dies dem Völkerrecht, den internationalen Verpflichtungen und den Grundsätzen der schweizerischen Aussenpolitik nicht widerspricht.
 
-<sup>2</sup> Bei der Bewilligung berücksichtigt die zuständige Behörde zusätzlich die in Artikel 5 festgelegten Kriterien.
+<sup>2</sup> Bei der Bewilligung berücksichtigt die zuständige Behörde zusätzlich die Kriterien nach Artikel 22*a* KMG.[^5c-3]
 
 [^5c-1]: Eingefügt durch Ziff. I der V vom 19. Aug. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
+[^5c-2]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
+[^5c-3]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
 
 #### Art. 6
 
@@ -252,14 +222,16 @@ Personen folgender Kategorien benötigen für die vorübergehende Ausfuhr sowie 
 
 **Vereinfachte Verfahren für Reparaturen, Ausstellungen, Vorführungen oder Evaluationen**[^9c-1]
 
-<sup>1</sup> Für Kriegsmaterial, das zur Reparatur, für Ausstellungen, Vorführungen oder Evaluationen vorübergehend ausgeführt wird, genügt die Ausfuhrbewilligung auch für die Wiedereinfuhr.
+<sup>1</sup> Für Kriegsmaterial, das im Zollverfahren der vorübergehenden Verwendung mittels schriftlicher Zollanmeldung für Ausstellungen, Vorführungen oder Evaluationen vorübergehend ausgeführt wird, genügt die Ausfuhrbewilligung auch für die Wiedereinfuhr.[^9c-2]
 
-<sup>2</sup> Für Kriegsmaterial, das für Ausstellungen, Vorführungen oder Evaluationen vorübergehend eingeführt wird, gilt Absatz 1 sinngemäss.
+<sup>2</sup> Für Kriegsmaterial, das im Zollverfahren der vorübergehenden Verwendung mittels schriftlicher Zollanmeldung für Ausstellungen, Vorführungen oder Evaluationen vorübergehend eingeführt wird, genügt die Einfuhrbewilligung auch für die Wiederausfuhr.[^9c-3]
 
-<sup>3</sup> Für Kriegsmaterial, das auch in den Anwendungsbereich des Waffengesetzes vom 20. Juni 1997[^9c-2] fällt, bleiben die Bestimmungen der Waffengesetzgebung vorbehalten.
+<sup>3</sup> Für Kriegsmaterial, das auch in den Anwendungsbereich des Waffengesetzes vom 20. Juni 1997[^9c-4] fällt, bleiben die Bestimmungen der Waffengesetzgebung vorbehalten.
 
 [^9c-1]: Eingefügt durch Ziff. I der V vom 21. Nov. 2001, in Kraft seit 1. März 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^9c-2]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^9c-2]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
+[^9c-3]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
+[^9c-4]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 
 #### Art. 9d
 
@@ -323,9 +295,9 @@ Das Staatssekretariat für Wirtschaft (SECO) stellt für die Einfuhr von Kriegsm
 
 <sup>1</sup> Der Importeur muss das Kriegsmaterial, für das ein Einfuhrzertifikat ausgestellt worden ist, innert sechs Monaten nach der Ausstellung des Einfuhrzertifikats einführen. Diese Frist kann auf schriftlich begründetes Gesuch hin verlängert werden.
 
-<sup>2</sup> Er muss dem SECO die erfolgte Einfuhr mit dem Original der Zollveranlagungsverfügung und den entsprechenden Fakturen des Lieferanten nachweisen. Der Nachweis ist umgehend nach dem Eingang des Originals der Zollveranlagungsverfügung zu erbringen. Verfahren der vorübergehenden Verwendung in der Schweiz wie das Carnet ATA stellen keine Zollveranlagung dar.[^11-1]
+<sup>2</sup> Er muss dem SECO die erfolgte Einfuhr mit dem Original der Zollveranlagungsverfügung und den entsprechenden Fakturen des Lieferanten nachweisen. Der Nachweis ist umgehend nach dem Eingang des Originals der Zollveranlagungsverfügung zu erbringen.[^11-1]
 
-[^11-1]: Fassung gemäss Anhang 4 Ziff. 10 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^11-1]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
 
 #### Art. 12
 
@@ -355,9 +327,9 @@ Das Staatssekretariat für Wirtschaft (SECO) stellt für die Einfuhr von Kriegsm
 
 <sup>1</sup> Bewilligungsbehörde ist das SECO, unter Vorbehalt von Absatz 3.[^13-1]
 
-<sup>2</sup> ...[^13-2]
+<sup>2</sup> …[^13-2]
 
-<sup>2bis</sup> ...[^13-3]
+<sup>2bis</sup> …[^13-3]
 
 <sup>3</sup> Die Zuständigkeit für Durchfuhren mit ausländischen Militär- und anderen Staatsluftfahrzeugen richtet sich nach der Verordnung vom 23. März 2005[^13-4] über die Wahrung der Lufthoheit.[^13-5]
 
@@ -496,7 +468,7 @@ Die Gebühren für die Bewilligungen betragen:
 - b. für die nachträgliche Ergänzung, Anpassung oder Neuausstellung einer Grundbewilligung 250 Franken;
 - c. für Ein- oder Ausfuhrbewilligungen: 0,8 Prozent des Güterwertes, jedoch mindestens 50 und höchstens 5000 Franken;
 - d.[^22-1] für Vermittlungs-, Handels-, Generaleinfuhr- und Generaldurchfuhrbewilligungen sowie Bewilligungen eines Vertragsabschlusses nach Artikel 20 KMG: 200 Franken;
-- e.[^22-2] ...
+- e.[^22-2] …
 - f.[^22-3] für Durchfuhreinzelbewilligungen: 100 Franken.
 
 <sup>2</sup> Die Gebühren nach Absatz 1 Buchstaben a, b, d und f können, sofern ausserordentliche Aufwendungen für die Erteilung der Bewilligung erforderlich sind, um höchstens die Hälfte erhöht werden.[^22-4]
@@ -511,7 +483,7 @@ Es werden keine Gebühren erhoben für Durchfuhrbewilligungen für:
 
 - a.[^22-6] Feuerwaffen mit dazugehöriger Munition, die Schützen oder Jäger glaubhaft für Wett- oder Trainingsschiessen, eine Ausbildung oder für die Jagd in einem Drittstaat durchführen;
 - b. Kriegsmaterial, das im Rahmen polizeilicher oder gerichtlicher Ermittlungsverfahren für Abklärungen in Drittstaaten durch die Schweiz durchgeführt werden muss;
-- c.[^22-7] ....[^22-8]
+- c.[^22-7] ….[^22-8]
 
 <sup>6</sup>
 
@@ -562,13 +534,25 @@ Gesuche, die zum Zeitpunkt des Inkrafttretens der Änderungen vom 19. September 
 
 [^24a-1]: Eingefügt durch Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Nov. 2014 ([AS 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
 
+#### Art. 24b
+
+**Übergangsbestimmungen zur Änderung vom 30. März 2022**[^24b-1]
+
+<sup>1</sup> Gesuche, die zum Zeitpunkt des Inkrafttretens der Änderungen vom 30. März 2022 hängig sind, werden nach bisherigem Recht behandelt.
+
+<sup>2</sup> Die Verlängerung von Ausfuhrbewilligungen, die vor dem Inkrafttreten der Änderungen vom 30. März 2022 erteilt worden sind, erfolgt nach bisherigem Recht.
+
+<sup>3</sup> Für Kriegsmaterial, dessen Ausfuhr vor dem Inkrafttreten der Änderungen vom 30. März 2022 bewilligt worden ist und das nicht oder nicht vollständig innerhalb der Gültigkeitsdauer der Bewilligung und deren Verlängerung ausgeführt werden konnte, muss ein neues Ausfuhrgesuch eingereicht werden. Das neue Gesuch wird nach bisherigem Recht behandelt.
+
+[^24b-1]: Eingefügt durch Ziff. I der V vom 30. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
+
 #### Art. 25
 
-**...**
+**…**
 
-<sup>1</sup> und <sup>2</sup> ...[^25-1]
+<sup>1</sup> und <sup>2</sup> …[^25-1]
 
-<sup>3</sup> ...[^25-2]
+<sup>3</sup> …[^25-2]
 
 [^25-1]: Aufgehoben durch Ziff. I der V vom 21. Nov. 2001, mit Wirkung seit 1. März 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 [^25-2]: Eingefügt durch Ziff. I der V über das Kriegsmaterial vom 21. Nov. 2001 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)). Aufgehoben durch Ziff. IV 14 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).

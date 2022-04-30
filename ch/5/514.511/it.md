@@ -4,11 +4,11 @@ title: "Ordinanza del 25 febbraio 1998 concernente il materiale bellico (Ordinan
 short: OMB
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
 language: it
-version: 2022-01-01
+version: 2022-05-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20220501/it/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20220501-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20220501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20220101/it"
 
 (Ordinanza sul materiale bellico, OMB)
 
-del 25 febbraio 1998 (Stato 1° gennaio 2022)
+del 25 febbraio 1998 (Stato 1° maggio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -88,43 +88,9 @@ Alla domanda di autorizzazione di principio devono essere allegati:
 
 #### Art. 5
 
-**Criteri per l’autorizzazione di affari con l’estero**
+[^5-1]
 
-### (art. 22 LMB)
-
-<sup>1</sup>
-
-In caso di autorizzazione per affari con l’estero e di conclusione di contratti di cui all’articolo 20 LMB occorre considerare:
-
-- a. il mantenimento della pace, la sicurezza internazionale e la stabilità regionale;
-- b.[^5-1] la situazione all’interno del Paese destinatario; occorre tener conto in particolare del rispetto dei diritti umani e della rinuncia all’impiego di bambini-soldato;
-- c.[^5-2] gli sforzi della Svizzera nell’ambito della cooperazione allo sviluppo, in particolare il caso possibile in cui il Paese destinatario figura tra i Paesi meno sviluppati nell’elenco in vigore dei Paesi beneficiari dell’aiuto pubblico allo sviluppo[^5-3], stilato dal Comitato d’aiuto allo sviluppo dell’Organizzazione per la cooperazione e lo sviluppo economico;
-- d. il comportamento del Paese destinatario rispetto alla comunità internazionale, in particolare in relazione all’osservanza del diritto internazionale;
-- e. la posizione dei Paesi che partecipano con la Svizzera a regimi internazionali di controllo delle esportazioni.
-
-<sup>2</sup>
-
-L’autorizzazione per affari con l’estero e la conclusione di contratti conformemente all’articolo 20 LMB non è rilasciata se:
-
-- a. il Paese destinatario è implicato in un conflitto armato interno o interna-zionale;
-- b. il Paese destinatario viola in modo grave e sistematico i diritti umani;
-- c.[^5-4] ...
-- d.[^5-5] esiste un forte rischio che, nel Paese destinatario, il materiale bellico da esportare sia impiegato contro la popolazione civile; o
-- e.[^5-6] esiste un forte rischio che, nel Paese destinatario, il materiale bellico da esportare sia trasferito a un destinatario finale indesiderato.[^5-7]
-
-<sup>3</sup> In deroga ai capoversi 1 e 2, può essere rilasciata un’autorizzazione per singole armi della categoria KM 1 menzionate nell’allegato 1 e per le relative munizioni, se le armi sono destinate esclusivamente a uso privato o sportivo.[^5-8]
-
-<sup>4</sup> In deroga al capoverso 2 lettera b, un’autorizzazione può essere rilasciata se sussiste un rischio esiguo che il materiale bellico da esportare venga impiegato per commettere gravi violazioni dei diritti dell’uomo.[^5-9]
-
-[^5-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
-[^5-3]: L’elenco OECD-DAC può essere consultato al seguente sito Internet: www.oecd.org.
-[^5-4]: Abrogata dal n. I dell’O del 19 set. 2014, con effetto dal 1° nov. 2014 ([RU 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
-[^5-5]: Nuovo testo giusta il n. I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
-[^5-6]: Nuovo testo giusta il n. I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
-[^5-7]: Introdotto dal n. I dell’O del 27 ago. 2008, in vigore dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
-[^5-8]: Introdotto dal n. I dell’O del 27 ago. 2008, in vigore dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
-[^5-9]: Introdotto dal n. I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
+[^5-1]: Abrogato dal n. I dell’O del 30 mar. 2022, con effetto dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
 
 #### Art. 5a
 
@@ -156,13 +122,17 @@ Chi vuole esportare materiale bellico non destinato a un Governo estero o a un�
 
 **Autorizzazioni di transito per aeromobili civili con materiale bellico a bordo**[^5c-1]
 
-### (art. 17 cpv. 3 e 22 LMB)
+### (art. 17 cpv. 3, 22 e 22*a* LMB)
+
+[^5c-2]
 
 <sup>1</sup> Il transito di materiale bellico con aeromobili civili è permesso se non viola il diritto internazionale pubblico, non lede i principi della politica estera svizzera e gli impegni internazionali da essa contratti.
 
-<sup>2</sup> In sede di rilascio dell’autorizzazione l’autorità competente considera anche i criteri di cui all’articolo 5.
+<sup>2</sup> In sede di rilascio dell’autorizzazione l’autorità competente considera anche i criteri di cui all’articolo 22*a* LMB.[^5c-3]
 
 [^5c-1]: Introdotto dal n. I dell’O del 19 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
+[^5c-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
+[^5c-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
 
 #### Art. 6
 
@@ -252,14 +222,16 @@ Le persone delle categorie seguenti non necessitano di alcuna autorizzazione per
 
 **Procedura semplificata in caso di riparazione, esposizione, dimostrazione o valutazione**[^9c-1]
 
-<sup>1</sup> L’autorizzazione di esportazione concessa per materiale bellico esportato temporaneamente a scopo di riparazione, esposizione, dimostrazione o valutazione è valida anche per la sua reimportazione.
+<sup>1</sup> L’autorizzazione di esportazione concessa nel regime di ammissione temporanea con dichiarazione doganale scritta per il materiale bellico esportato temporaneamente a scopo di esposizione, dimostrazione o valutazione è valida anche per la sua reimportazione.[^9c-2]
 
-<sup>2</sup> Il capoverso 1 si applica per analogia al materiale bellico importato temporaneamente a scopo di esposizione, dimostrazione o valutazione.
+<sup>2</sup> L’autorizzazione di importazione concessa nel regime di ammissione temporanea con dichiarazione doganale scritta per il materiale bellico importato temporaneamente a scopo di esposizione, dimostrazione o valutazione è valida anche per la sua riesportazione.[^9c-3]
 
-<sup>3</sup> Per il materiale bellico che rientra anche nel campo d’applicazione della legge del 20 giugno 1997[^9c-2] sulle armi sono fatte salve le disposizioni della legislazione sulle armi.
+<sup>3</sup> Per il materiale bellico che rientra anche nel campo d’applicazione della legge del 20 giugno 1997[^9c-4] sulle armi sono fatte salve le disposizioni della legislazione sulle armi.
 
 [^9c-1]: Introdotto dal n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^9c-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^9c-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
+[^9c-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
+[^9c-4]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 
 #### Art. 9d
 
@@ -322,9 +294,9 @@ Su richiesta scritta dell’importatore, la Segreteria di Stato dell’economia 
 
 <sup>1</sup> L’importatore deve importare il materiale bellico per il quale è stato rilasciato un certificato di importazione entro sei mesi dal rilascio del certificato. Tale termine può essere prorogato su richiesta scritta e motivata.
 
-<sup>2</sup> Egli deve dimostrare alla SECO l’avvenuta importazione mediante l’originale della decisione d’imposizione doganale e le relative fatture dei fornitori. I giustificativi sono da esibire immediatamente dopo la ricezione dell’originale della decisione d’imposizione doganale. Il regime dell’ammissione temporanea in Svizzera e il Carnet ATA non sono considerati imposizione doganale.[^11-1]
+<sup>2</sup> Egli deve dimostrare alla SECO l’avvenuta importazione mediante l’originale della decisione d’imposizione doganale e le relative fatture dei fornitori. I giustificativi sono da esibire immediatamente dopo la ricezione dell’originale della decisione d’imposizione doganale.[^11-1]
 
-[^11-1]: Nuovo testo giusta l’all. 9 n. 10 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^11-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
 
 #### Art. 12
 
@@ -550,7 +522,7 @@ Non è riscosso alcun emolumento per:
 
 L’ordinanza del 10 gennaio 1973[^24-1] sul materiale bellico è abrogata.
 
-[^24-1]: [[RU 1973 120](https://fedlex.data.admin.ch/eli/oc/1973/116_114_120)256, [1978 199](https://fedlex.data.admin.ch/eli/oc/1978/199_199_199), [1980 536](https://fedlex.data.admin.ch/eli/oc/1980/536_536_536)art. 91, [1987 791](https://fedlex.data.admin.ch/eli/oc/1987/791_791_791), [1992 2497](https://fedlex.data.admin.ch/eli/oc/1992/2497_2497_2497), [1996 1035](https://fedlex.data.admin.ch/eli/oc/1996/1035_1035_1035)n. II, [1997 17](https://fedlex.data.admin.ch/eli/oc/1997/17_17_17)art. 38 n. 2]
+[^24-1]: [[RU 1973 120](https://fedlex.data.admin.ch/eli/oc/1973/116_114_120), 256; [1978 199](https://fedlex.data.admin.ch/eli/oc/1978/199_199_199); [1980 536](https://fedlex.data.admin.ch/eli/oc/1980/536_536_536)art. 91; [1987 791](https://fedlex.data.admin.ch/eli/oc/1987/791_791_791); [1992 2497](https://fedlex.data.admin.ch/eli/oc/1992/2497_2497_2497); [1996 1035](https://fedlex.data.admin.ch/eli/oc/1996/1035_1035_1035)n. II; [1997 17](https://fedlex.data.admin.ch/eli/oc/1997/17_17_17)art. 38 n. 2]
 
 #### Art 24a
 
@@ -559,6 +531,18 @@ L’ordinanza del 10 gennaio 1973[^24-1] sul materiale bellico è abrogata.
 Le domande pendenti al momento dell’entrata in vigore della modifica del 19 settembre 2014 sono trattate conformemente al nuovo diritto.
 
 [^24a-1]: Introdotto dal n. I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3045](https://fedlex.data.admin.ch/eli/oc/2014/515)).
+
+#### Art. 24b
+
+**Disposizioni transitorie della modifica del 30 marzo 2022**[^24b-1]
+
+<sup>1</sup> Le domande pendenti al momento dell’entrata in vigore delle modifiche del 30 marzo 2022 sono trattate conformemente al diritto anteriore.
+
+<sup>2</sup> La proroga delle autorizzazioni di esportazione rilasciate prima dell’entrata in vigore delle modifiche del 30 marzo 2022 è effettuata conformemente al diritto anteriore.
+
+<sup>3</sup> Per il materiale bellico la cui esportazione è stata autorizzata prima dell’entrata in vigore delle modifiche del 30 marzo 2022 e che non è stato possibile esportare interamente o in parte entro la durata di validità dell’autorizzazione o della sua proroga è necessario presentare una nuova domanda di esportazione. La nuova domanda è trattata conformemente al diritto anteriore.
+
+[^24b-1]: Introdotto dal n. I dell’O del 30 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
 
 #### Art. 25
 
