@@ -4,13 +4,13 @@ number: "173.8"
 title: Loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives
 short: LTar
 language: fr
-version: 2018-01-01
-valid_until: 2022-04-30
-version_adopted: 2016-11-10
+version: 2022-05-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-18
 adopted: 2009-02-11
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/173.8"
-pdf: "https://lex.vs.ch/api/fr/versions/2117/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3024/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2117/pdf_file"
 
 (LTar)
 
-du 11.02.2009 (état 01.01.2018)
+du 11.02.2009 (état 01.05.2022)
 
 Le Grand Conseil du canton du Valais
 
@@ -192,8 +192,8 @@ ordonne:
 
 <sup>1</sup> Il est perçu un émolument:
 
-- a) de 50 francs pour la citation en conciliation;
-- b) de 60 à 120 francs pour la tenue de la séance de conciliation.
+- a) de 50 à 100 francs pour la citation en conciliation, selon le nombre de défendeurs;
+- b) de 120 à 250 francs pour la tenue de la séance de conciliation.
 
 <sup>2</sup> Pour les litiges patrimoniaux dont la valeur litigieuse ne dépasse pas 2'000 francs et pour les propositions de jugement, il est perçu un émolument de 60 à 500 francs.
 
@@ -287,7 +287,7 @@ ordonne:
 
 - a) commune, districts, organes de l'administration cantonale, corporations et établissements de droit public de 90 à 1'000 francs;
 - b) département de 90 à 1'650 francs;
-- c) Conseil d'Etat et autorité cantonale de surveillance des avocats de 90 à 1'800 francs.
+- c) Conseil d’Etat, autorité cantonale de surveillance des avocats et commission d’estimation en matière d’expropriation de 90 à 1'800 francs.
 
 <sup>2</sup> Dans les affaires pécuniaires, l'émolument peut atteindre le triple de ces montants.
 

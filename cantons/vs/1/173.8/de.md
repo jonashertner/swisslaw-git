@@ -4,13 +4,13 @@ number: "173.8"
 title: Gesetz betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- oder Verwaltungsbehörden
 short: GTar
 language: de
-version: 2018-01-01
-valid_until: 2022-04-30
-version_adopted: 2016-11-10
+version: 2022-05-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-18
 adopted: 2009-02-11
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/173.8"
-pdf: "https://lex.vs.ch/api/de/versions/2117/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3024/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2117/pdf_file"
 
 (GTar)
 
-vom 11.02.2009 (Stand 01.01.2018)
+vom 11.02.2009 (Stand 01.05.2022)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -192,8 +192,8 @@ verordnet:
 
 <sup>1</sup> Es wird eine Gebühr erhoben von:
 
-- a) 50 Franken für die Vorladung zur Versöhnungssitzung;
-- b) 60 bis 120 Franken für die Versöhnungssitzung.
+- a) 50 bis 100 Franken für die Vorladung zur Versöhnungssitzung je nach Anzahl Beklagter;
+- b) 120 bis 250 Franken für die Versöhnungssitzung.
 
 <sup>2</sup> Für Güterrechtsstreitigkeiten, deren Streitwert 2'000 Franken nicht übersteigt, und für Urteilsanträge wird eine Gebühr von 60 bis 500 Franken erhoben.
 
@@ -287,7 +287,7 @@ verordnet:
 
 - a) Gemeinden, Bezirke, Organe der Kantonsverwaltung, Körperschaften und öffentlich-rechtliche Anstalten von 90 bis 1'000 Franken;
 - b) Departemente 90 bis 1'650 Franken;
-- c) Staatsrat und kantonale Aufsichtsbehörde der Anwälte 90 bis 1'800 Franken.
+- c) Staatsrat, kantonale Aufsichtsbehörde der Anwälte und Schätzungskommission in Enteignungssachen 90 bis 1'800 Franken.
 
 <sup>2</sup> In geldwerten Fällen kann die Gebühr das Dreifache dieser Beträge erreichen.
 
