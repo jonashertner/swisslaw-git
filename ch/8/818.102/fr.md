@@ -3,11 +3,11 @@ sr: "818.102"
 title: "Loi fédérale du 25 septembre 2020 sur les bases légales des ordonnances du Conseil fédéral visant à surmonter l'épidémie de COVID-19 (Loi COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: fr
-version: 2022-01-01
+version: 2022-05-01
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-711-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-2020-711-20220501-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20220501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20220101/fr"
 
 (Loi COVID-19)
 
-du 25 septembre 2020 (Etat le 1<sup>er</sup> janvier 2022)
+du 25 septembre 2020 (Etat le 1<sup>er</sup> mai 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 

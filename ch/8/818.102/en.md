@@ -3,11 +3,11 @@ sr: "818.102"
 title: Federal Act of 25 September 2020 on the Statutory Principles for Federal Council Ordinances on Combating the COVID-19 Epidemic (COVID-19 Act)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: en
-version: 2022-01-01
+version: 2022-05-01
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2020-711-20220101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20220501/en/xml/fedlex-data-admin-ch-eli-cc-2020-711-20220501-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20220501/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Act)
 
-of 25 September 2020 (Status as of 1 January 2022)
+of 25 September 2020 (Status as of 1 May 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
