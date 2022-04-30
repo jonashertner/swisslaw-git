@@ -4,13 +4,13 @@ number: 312.1-A1
 title: "Übertretungsstrafgesetz (Anhang: Bussenkatalog gemäss § 15 ÜStG)"
 short: ÜStG
 language: de
-version: 2016-02-27
-valid_until: 2022-04-30
-version_adopted: 2015-12-10
+version: 2022-05-01
+valid_until: 2023-06-30
+version_adopted: 2022-01-27
 adopted: 2013-05-23
 in_force: 2013-10-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/312.1-A1"
-pdf: "https://bgs.zg.ch/api/de/versions/1536/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2336/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/1536/pdf_file"
 
 (ÜStG)
 
-Vom 23. Mai 2013 (Stand 27. Februar 2016)
+Vom 23. Mai 2013 (Stand 1. Mai 2022)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf Art. 335 des Schweizerischen Strafgesetzbuchs vom 21. Dezember 1937[^ingress-1] (StGB) und auf § 41 Bst. b der Kantonsverfassung[^ingress-2],
+gestützt auf Art. 335 des Schweizerischen Strafgesetzbuchs (StGB) vom 21. Dezember 1937[^ingress-1] und auf § 41 Abs. 1 Bst. b der Kantonsverfassung[^ingress-2],
 
 beschliesst:
 
@@ -78,18 +78,18 @@ beschliesst:
 <sup>1</sup> Busse in Franken
 
 - 3\.1 Vorsätzliche oder fahrlässige aktive Beteiligung (auch ohne Waffe) an der Jagd ohne Jagdpatent oder Gastkarte (§ 9 in Verbindung mit § 37 Jagdgesetz[^Ziff3-1]): 100.–
-- 3\.2 Vorsätzliches oder fahrlässiges Nichtmitführen der Jagdberechtigung (Jagdpatent, Gastkarte, Sonderbewilligung) bei der Jagd (§ 10 Abs. 2 in Verbindung mit § 37 Jagdgesetz): 100.–
+- 3\.2 …
 - 3\.3 Vorsätzliche oder fahrlässige Jagdausübung ausserhalb des Jagdgebietes (§ 11 Abs. 1 in Verbindung mit § 37 Jagdgesetz): 300.–
-- 3\.4 Vorsätzliche oder fahrlässige Missachtung der zeitlichen Einschränkungen der Jagd (§ 9 Jagdverordnung[^Ziff3-2]): in Verbindung mit § 37 Jagdgesetz): 200.–
-- 3\.5 Vorsätzliches oder fahrlässiges Überschreiten der maximalen Gruppengrösse bei der Jagd (§ 12 Jagdverordnung in Verbindung mit § 37 Jagdgesetz): 100.–
-- 3\.6 Vorsätzliche oder fahrlässige Verwendung nicht erlaubter Munition und Schusswaffen bei der Jagd (§ 13 Jagdverordnung in Verbindung mit § 37 Jagdgesetz): 200.–
+- 3\.4 Vorsätzliche oder fahrlässige Missachtung der tageszeitlichen Einschränkungen der Jagd (§ 11 Jagdverordnung[^Ziff3-2] in Verbindung mit § 37 Jagdgesetz): 200.–
+- 3\.5 Vorsätzliches oder fahrlässiges Überschreiten der maximalen Gruppengrösse bei der Jagd (§ 14 Jagdverordnung in Verbindung mit § 37 Jagdgesetz): 100.–
+- 3\.6 Vorsätzliche oder fahrlässige Verwendung nicht erlaubter Munition und Schusswaffen bei der Jagd (§ 15 Jagdverordnung in Verbindung mit § 37 Jagdgesetz): 200.–
 - 3\.7 Vorsätzliches oder fahrlässiges unsachgemässes Kennzeichnen von Fallen (§ 16 Abs. 2 Jagdverordnung in Verbindung mit § 37 Jagdgesetz): 100.–
-- 3\.8 Vorsätzliches oder fahrlässiges unerlaubtes Jagen- oder Wildernlassen von Hunden (§§ 11, 17 und 32 Jagdverordnung in Verbindung mit § 37 Jagdgesetz): 200.–
-- 3\.9 Vorsätzliches oder fahrlässiges Einsetzen zu vieler Hunde bei der Jagd (§ 17 Abs. 3 Jagdverordnung in Verbindung mit § 37 Jagdgesetz): 100.–
-- 3\.10 Unterlassenes, unvollständiges oder fehlerhaftes Ausfüllen der Schussmeldekarte (§ 24 Abs. 3 Jagdverordnung und die entsprechende Ziffer der jeweiligen Jagdbetriebsvorschriften der Direktion des Innern in Verbindung mit § 37 Jagdgesetz); Vorsatz und Fahrlässigkeit sind strafbar: 100.–
+- 3\.8 …
+- 3\.9 Vorsätzliches oder fahrlässiges Einsetzen zu vieler Hunde bei der Jagd (§ 17 Abs. 2 Jagdverordnung in Verbindung mit § 37 Jagdgesetz): 100.–
+- 3\.10 Vorsätzlich oder fahrlässig unterlassenes, unvollständiges oder fehlerhaftes Ausfüllen der Schussmeldekarte (§ 23 Abs. 2 Jagdverordnung und die entsprechende Ziffer der jeweiligen Jagdbetriebsvorschriften der Direktion des Innern in Verbindung mit § 37 Jagdgesetz): 100.–
 - 3\.11 Fehlende Wildmarke oder unkorrektes Anbringen der Wildmarke (die entsprechende Ziffer der jeweiligen Jagdbetriebsvorschriften der Direktion des Innern in Verbindung mit § 37 Jagdgesetz); Vorsatz und Fahrlässigkeit sind strafbar: 100.–
-- 3\.12 Vorsätzlicher oder fahrlässiger Verstoss gegen die Parkierungsvorschriften oder die Fahrzeitenregelung bei der Jagd (§ 20 Abs. 2 und 3 Jagdverordnung in Verbindung mit § 37 Jagdgesetz): 100.–
-- 3\.13 Vorsätzlicher oder fahrlässiger Verstoss gegen die Einschränkung zur Bejagung in einzelnen Jagdbezirken (die entsprechende Ziffer der jeweiligen Jagdbetriebsvorschriften der Direktion des Innern in Verbindung mit § 44 Bst. b Jagdverordnung und § 37 Jagdgesetz): 200.–
+- 3\.12 Vorsätzlicher oder fahrlässiger Verstoss gegen die Parkierungsvorschriften oder die Fahrzeitenregelung bei der Jagd (die entsprechende Ziffer der jeweiligen Jagdbetriebsvorschriften der Direktion des Innern in Verbindung mit § 37 Jagdgesetz): 100.–
+- 3\.13 Vorsätzlicher oder fahrlässiger Verstoss gegen die Einschränkung zur Bejagung in einzelnen Jagdbezirken (die entsprechende Ziffer der jeweiligen Jagdbetriebsvorschriften der Direktion des Innern in Verbindung mit § 42 Abs. 1 Bst. b Jagdverordnung und § 37 Jagdgesetz): 200.–
 
 [^Ziff3-1]: BGS [932.1](https://bgs.zg.ch/data/932.1/de)
 [^Ziff3-2]: BGS [932.11](https://bgs.zg.ch/data/932.11/de)
@@ -100,21 +100,22 @@ beschliesst:
 
 <sup>1</sup> Busse in Franken
 
-- 4\.1 Missachten des Pflück-, Ausgrabungs- und Vernichtungsverbots geschützter Pflanzen (§ 7 Abs. 1 Natur- und Landschaftsschutzgesetz[^Ziff4-1]): 100.–
-- 4\.2 Missachten des Einfangungs- und Störungsverbots geschützter Tiere (§ 7 Abs. 1 Natur- und Landschaftsschutzgesetz): 100.–
-- 4\.3 Missachten des Verbots, standortfremde Tiere oder Pflanzen auszusetzen (§ 7 Abs. 1 Natur- und Landschaftsschutzgesetz): 100.–
-- 4\.4 Missachten des Lager- und Campierverbots (§ 7 Abs. 1 Natur- und Landschaftsschutzgesetz): 100.–
-- 4\.5 Missachten des Verbots, Feuer zu entfachen (§ 7 Abs. 1 Natur- und Landschaftsschutzgesetz): 200.–
-- 4\.6 Missachten des Betretverbots (§ 7 Abs. 1 Natur- und Landschaftsschutzgesetz): 100.–
-- 4\.7 Missachten des Verbots, die Wege zu verlassen (§ 7 Abs. 1 Natur- und Landschaftsschutzgesetz): 100.–
-- 4\.8 Missachten des Fahrverbots für nichtmotorisierte Fahrzeuge (§ 7 Abs. 1 Natur- und Landschaftsschutzgesetz): 100.–
-- 4\.9 Missachten des Fahrverbots für motorisierte Fahrzeuge (§ 7 Abs. 1 Natur- und Landschaftsschutzgesetz): 100.–
-- 4\.10 Missachten des Reitverbots (§ 7 Abs. 1 Natur- und Landschaftsschutzgesetz): 200.–
-- 4\.11 Missachten des Betretverbots für Hunde (§ 7 Abs. 1 Natur- und Landschaftsschutzgesetz): 100.–
-- 4\.12 Missachten der Hundeleinenpflicht (§ 7 Abs. 1 Natur- und Landschaftsschutzgesetz): 100.–
-- 4\.13 Missachten des Badeverbots (§ 7 Abs. 1 Natur- und Landschaftsschutzgesetz): 100.–
-- 4\.14 Missachten des Anlege-, Stationierungs- und Durchfahrtsverbots (§ 7 Abs. 1 Natur- und Landschaftsschutzgesetz): 100.–
+- 4\.1 Missachten des Pflück-, Ausgrabungs- und Vernichtungsverbots geschützter Pflanzen (§ 7 Abs. 1, § 8 in Verbindung mit § 3 Abs. 2 Bst. a und f sowie § 14 Gesetz über den Natur- und Landschaftsschutz[^Ziff4-1]): 100.–
+- 4\.2 Missachten des Einfangungs- und Störungsverbots geschützter Tiere (§ 7 Abs. 1, § 8 in Verbindung mit § 3 Abs. 2 Bst. a und f sowie § 14 Gesetz über den Natur- und Landschaftsschutz): 100.–
+- 4\.3 Missachten des Verbots, standortfremde Tiere oder Pflanzen auszusetzen (§ 7 Abs. 1, § 8 in Verbindung mit § 3 Abs. 2 Bst. a und f sowie § 14 Gesetz über den Natur- und Landschaftsschutz): 100.–
+- 4\.4 Missachten des Lager- und Campierverbots (§ 7 Abs. 1, § 8 in Verbindung mit § 3 Abs. 2 Bst. a und f sowie § 14 Gesetz über den Natur- und Landschaftsschutz): 100.–
+- 4\.5 Missachten des Verbots, Feuer zu entfachen (§ 7 Abs. 1, § 8 in Verbindung mit § 3 Abs. 2 Bst. a und f sowie § 14 Gesetz über den Natur- und Landschaftsschutz): 200.–
+- 4\.6 Missachten des Betretverbots (§ 7 Abs. 1, § 8 in Verbindung mit § 3 Abs. 2 Bst. a und f sowie § 14 Gesetz über den Natur- und Landschaftsschutz): 100.–
+- 4\.7 Missachten des Verbots, die Wege zu verlassen (§ 7 Abs. 1, § 8 in Verbindung mit § 3 Abs. 2 Bst. a und f sowie § 14 Gesetz über den Natur- und Landschaftsschutz): 100.–
+- 4\.8 Missachten des Fahrverbots für nichtmotorisierte Fahrzeuge (§ 7 Abs. 1, § 8 in Verbindung mit § 3 Abs. 2 Bst. a und f sowie § 14 Gesetz über den Natur- und Landschaftsschutz): 100.–
+- 4\.9 Missachten des Fahrverbots für motorisierte Fahrzeuge (§ 7 Abs. 1, § 8 in Verbindung mit § 3 Abs. 2 Bst. a und f sowie § 14 Gesetz über den Natur- und Landschaftsschutz): 100.–
+- 4\.10 Missachten des Reitverbots (§ 7 Abs. 1, § 8 in Verbindung mit § 3 Abs. 2 Bst. a und f sowie § 14 Gesetz über den Natur- und Landschaftsschutz): 200.–
+- 4\.11 Missachten des Betretverbots für Hunde (§ 7 Abs. 1, § 8 in Verbindung mit § 3 Abs. 2 Bst. a und f sowie § 14 Gesetz über den Natur- und Landschaftsschutz): 100.–
+- 4\.12 Missachten der Hundeleinenpflicht (§ 7 Abs. 1, § 8 in Verbindung mit § 3 Abs. 2 Bst. a und f sowie § 14 Gesetz über den Natur- und Landschaftsschutz): 100.–
+- 4\.13 Missachten des Badeverbots (§ 7 Abs. 1, § 8 in Verbindung mit § 3 Abs. 2 Bst. a und f sowie § 14 Gesetz über den Natur- und Landschaftsschutz): 100.–
+- 4\.14 Missachten des Anlege-, Stationierungs- und Durchfahrtsverbots (§ 7 Abs. 1, § 8 in Verbindung mit § 3 Abs. 2 Bst. a und f sowie § 14 Gesetz über den Natur- und Landschaftsschutz): 100.–
 - 4\.15 Missachten des Verbots, Wald-, Feld- und Gartenabfälle im Freien zu verbrennen (§ 9a in Verbindung mit § 38 EG USG[^Ziff4-2]): 200.–
+- 4\.16 Missachten des Verbots, Fluggeräte fliegen zu lassen (§ 7 Abs. 1, § 8 in Verbindung mit § 3 Abs. 2 Bst. a und f sowie § 14 Gesetz über den Natur- und Landschaftsschutz): 100.–
 
 [^Ziff4-1]: BGS [432.1](https://bgs.zg.ch/data/432.1/de)
 [^Ziff4-2]: BGS [811.1](https://bgs.zg.ch/data/811.1/de)
@@ -125,13 +126,10 @@ beschliesst:
 
 <sup>1</sup> Busse in Franken
 
-- 5\.1 Missachten des Rauchverbots als Gast (§ 48 in Verbindung mit § 68 Gesundheitsgesetz[^Ziff5-1]): 100.–
-- 5\.2 Missachten des Verbots, Jugendlichen unter 16 Jahren alkoholhaltige Getränke abzugeben (§ 3 Abs. 2 Bst. a in Verbindung mit § 29 Abs. 1 Gastgewerbegesetz[^Ziff5-2]): 300.–
-- 5\.3 Missachten des Verbots, Jugendlichen unter 18 Jahren Spirituosen oder verdünnte alkoholhaltige Getränke auf der Basis von Spirituosen abzugeben (§ 3 Abs. 2 Bst. b in Verbindung mit § 29 Abs. 1 Gastgewerbegesetz): 300.–
+- 5\.1 …
+- 5\.2 …
+- 5\.3 …
 - 5\.4 Missachten des Verbots, Kindern und Jugendlichen unter 18 Jahren Tabakwaren zu verkaufen (§ 50 Abs. 1 in Verbindung mit § 68 Gesundheitsgesetz): 300.–
-
-[^Ziff5-1]: BGS [821.1](https://bgs.zg.ch/data/821.1/de)
-[^Ziff5-2]: BGS [943.11](https://bgs.zg.ch/data/943.11/de)
 
 #### Ziff. 6
 
@@ -150,7 +148,7 @@ beschliesst:
 
 - 7\.1 Vorsätzlicher oder fahrlässiger Verstoss gegen eingeschränkte oder verbotene störende Tätigkeiten im Wald (§ 9 Abs. 3 in Verbindung mit § 33 EG Waldgesetz[^Ziff7-1]): 100.–
 - 7\.2 Vorsätzliches oder fahrlässiges Missachten der Melde- und Bewilligungspflicht für Veranstaltungen im Wald (§ 11 in Verbindung mit § 33 EG Waldgesetz): 200.–
-- 7\.3 Vorsätzliches oder fahrlässiges Missachten des Befahrungsverbots von Waldstrassen mit Motorfahrzeugen (§ 10 in Verbindung mit § 33 EG Waldgesetz): 100.–
+- 7\.3 …
 - 7\.4 Vorsätzliche oder fahrlässige nachteilige Nutzung des Waldes ohne Ausnahmebewilligung (§ 11a in Verbindung mit 33 EG Waldgesetz): 100.–
 
 [^Ziff7-1]: BGS [931.1](https://bgs.zg.ch/data/931.1/de)
