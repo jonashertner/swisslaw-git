@@ -4,7 +4,7 @@ number: "270.11.5"
 title: TARIF du 28.09.2010 des frais judiciaires civils (TFJC)
 short: TFJC
 language: fr
-version: 2019-09-01
+version: 2022-05-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/270.11.5?id=5848c893-424d-4a98-8f8d-a613dcd497b9"
 ---
 
@@ -456,6 +456,14 @@ Autorité compétente Emolument - Juge de paix : 100 francs - Président et trib
 - c. pour un prononcé en cas de contestation sur les frais et sur les gratifications, un émolument de 300 à 1'000 francs ;
 - d. pour recevoir le dépôt de l'écrit constatant la teneur d'un testament oral ou dresser procès-verbal de la déclaration des témoins, un émolument de 100 francs.
 
+#### Art. 39a
+
+**Consultation du Registre suisse des testaments [^39-1]**
+
+<sup>1</sup> Pour la consultation du Registre suisse des testaments, il est dû un émolument de 20 francs.
+
+[^39-1]: Modif. 6 du 25.04.2022: Introduction tArt; entrée en vigueur au 01.05.2022; Introduction Al. 1; entrée en vigueur au 01.05.2022; Introduction Art. 39a; entrée en vigueur au 01.05.2022 · Modif. 7 du 22.04.2024: Modification Al. 1; entrée en vigueur au 01.05.2024
+
 #### Art. 40
 
 **Inventaires**
@@ -519,9 +527,9 @@ Autorité compétente Emolument - Juge de paix : 100 francs - Président et trib
 
 **Certificat d'héritier [^44-1]**
 
-<sup>1</sup> Pour la délivrance d'un certificat d'héritier, il est dû un émolument de base de 100 francs augmenté de 1 o/oo de l'actif net inventorié de la succession, mais 10'000 francs au maximum. Si le défunt était marié, le taux est fixé à 0,5 o/oo.
+<sup>1</sup> Pour la délivrance d'un certificat d'héritier, il est dû un émolument de base de 100 francs, augmenté de 1/00 de l'actif net inventorié, mais 10'000 francs au maximum.
 
-<sup>2</sup> En l'absence d'inventaire civil, l'émolument est calculé sur la base de la fortune nette imposable résultant de la dernière taxation du défunt passée en force.
+<sup>2</sup> En l'absence d'inventaire civil ou de bénéfice d'inventaire, l'émolument est calculé sur la base de la fortune nette du défunt communiquée par l'Administration cantonale des impôts.
 
 <sup>3</sup> L'émolument pourra être reconsidéré en fonction d'autres éléments fournis par les héritiers.
 
@@ -529,7 +537,7 @@ Autorité compétente Emolument - Juge de paix : 100 francs - Président et trib
 
 <sup>5</sup> Le même émolument est dû pour la délivrance d'une déclaration d'ayant droit après la révocation d'une faillite.
 
-[^44-1]: Modif. 6 du 25.04.2022: Introduction Art. 39a; entrée en vigueur au 01.05.2022; Modification Al. 1-2; entrée en vigueur au 01.05.2022
+[^44-1]: Modif. 6 du 25.04.2022: Modification Al. 1-2; entrée en vigueur au 01.05.2022
 
 #### Art. 46
 
