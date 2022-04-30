@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Auslän
 short: AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: de
-version: 2021-10-02
+version: 2022-05-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20211002/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20211002-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20211002/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20220501-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20220501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20211002/de"
 
 (Ausländer- und Integrationsgesetz, AIG)[^t-1]
 
-vom 16. Dezember 2005 (Stand am 2. Oktober 2021)
+vom 16. Dezember 2005 (Stand am 1. Mai 2022)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -134,12 +134,13 @@ Ausländerinnen und Ausländer, die in die Schweiz einreisen wollen:
 
 <sup>2</sup> Der Bundesrat regelt die nach diesen Abkommen möglichen Personenkontrollen an der Grenze. Wird die Einreise verweigert, so erlässt die für die Grenzkontrolle zuständige Behörde eine Wegweisungsverfügung nach Artikel 64.[^7-2]
 
-<sup>3</sup> Wenn die Kontrollen an der Schweizer Grenze nach Artikel 27, 28 oder 29 des Schengener Grenzkodex[^7-3] vorübergehend wieder eingeführt werden und die Einreise verweigert wird, erlässt die für die Grenzkontrolle zuständige Behörde eine begründete und beschwerdefähige Verfügung auf dem Formular nach Anhang V Teil B Schengener Grenzkodex. Die Einreiseverweigerung ist sofort vollstreckbar. Eine Beschwerde hat keine aufschiebende Wirkung.[^7-4]
+<sup>3</sup> Wenn die Kontrollen an der Schweizer Grenze gemäss Schengener Grenzkodex[^7-3] vorübergehend wieder eingeführt werden und die Einreise verweigert wird, erlässt die für die Grenzkontrolle zuständige Behörde eine begründete und beschwerdefähige Verfügung auf dem Formular nach Anhang V Teil B Schengener Grenzkodex.[^7-4] Die Einreiseverweigerung ist sofort vollstreckbar. Eine Beschwerde hat keine aufschiebende Wirkung.[^7-5]
 
 [^7-1]: Fassung gemäss Art. 127 hiernach, in Kraft seit 12. Dez. 2008 ([AS 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. a).
 [^7-2]: Fassung gemäss Art. 2 Ziff. 1 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG), in Kraft seit 1. Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^7-3]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenze durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; zuletzt geändert durch Verordnung (EU) 2017/458, ABl. L 74 vom 18.03.2017, S. 1.
-[^7-4]: Eingefügt durch Art. 2 des BB vom 13. Juni 2008 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der Europäischen Gemeinschaft betreffend die Übernahme des Schengener Grenzkodex ([AS 2008 5629](https://fedlex.data.admin.ch/eli/oc/2008/779)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. b). Fassung gemäss Anhang Ziff. 1 des BB vom 15. Dez. 2017 (Übernahme der Verordnung [EU] 2016/1624 über die Europäische Grenz- und Küstenwache), in Kraft seit 15. Sept. 2018 ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+[^7-3]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenzen durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; zuletzt geändert durch Verordnung (EU) 2017/2225, ABl. L 327 vom 9.12.2017, S. 1.
+[^7-4]: Fassung gemäss Anhang des BB vom 21. Juni 2019 (Übernahme der Rechtsgrundlagen zur Errichtung und Nutzung des Einreise- und Ausreisesystems [EES], Verordnungen [EU] 2017/2226 und 2017/2225), in Kraft seit 1. Mai 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+[^7-5]: Eingefügt durch Art. 2 des BB vom 13. Juni 2008 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der Europäischen Gemeinschaft betreffend die Übernahme des Schengener Grenzkodex ([AS 2008 5629](https://fedlex.data.admin.ch/eli/oc/2008/779)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. b). Fassung gemäss Anhang Ziff. 1 des BB vom 15. Dez. 2017 (Übernahme der Verordnung [EU] 2016/1624 über die Europäische Grenz- und Küstenwache), in Kraft seit 15. Sept. 2018 ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
 
 #### Art. 8
 
@@ -443,7 +444,7 @@ Von den Zulassungsvoraussetzungen (Art. 18–29) kann abgewichen werden, um:
 - f. Aufenthalte im Rahmen von Hilfs- und Entwicklungsprojekten über die wirtschaftliche und technische Zusammenarbeit zu ermöglichen;
 - g.[^30-2] den internationalen wirtschaftlichen, wissenschaftlichen und kulturellen Austausch sowie die berufliche Aus- und Weiterbildung zu erleichtern;
 - h. den betrieblichen Transfer von Angehörigen des höheren Kaders und unentbehrlichen Spezialistinnen und Spezialisten in international tätigen Unternehmen zu vereinfachen;
-- i.[^30-3] ...
+- i.[^30-3] …
 - j. Au-Pair-Angestellten, die von einer anerkannten Organisation vermittelt werden, einen Weiterbildungsaufenthalt in der Schweiz zu ermöglichen;
 - k. die Wiederzulassung von Ausländerinnen und Ausländern, die im Besitz einer Aufenthalts- oder Niederlassungsbewilligung waren, zu erleichtern;
 - l. die Erwerbstätigkeit sowie die Teilnahme an Beschäftigungsprogrammen von Asylsuchenden (Art. 43 des Asylgesetzes vom 26. Juni 1998[^30-4], AsylG), vorläufig Aufgenommenen (Art. 85) und Schutzbedürftigen (Art. 75 AsylG) zu regeln.
@@ -1008,9 +1009,9 @@ Anspruch auf Reisedokumente haben Ausländerinnen und Ausländer, die:
 
 <sup>3</sup> Keinen Anspruch auf Reisedokumente hat, wer erheblich oder wiederholt gegen die öffentliche Sicherheit und Ordnung in der Schweiz oder im Ausland verstossen hat oder diese gefährdet oder die innere oder die äussere Sicherheit der Schweiz gefährdet oder rechtskräftig zu einer Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^59-5] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^59-6] verurteilt wurde.[^59-7]
 
-<sup>4</sup> ...[^59-8]
+<sup>4</sup> …[^59-8]
 
-<sup>5</sup> und <sup>6</sup> ...[^59-9]
+<sup>5</sup> und <sup>6</sup> …[^59-9]
 
 [^59-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^59-2]: Ausdruck gemäss Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
@@ -1170,7 +1171,7 @@ Die Niederlassungsbewilligung kann nur widerrufen werden, wenn:
 - b. die Ausländerin oder der Ausländer in schwerwiegender Weise gegen die öffentliche Sicherheit und Ordnung in der Schweiz oder im Ausland verstossen hat oder diese gefährdet oder die innere oder die äussere Sicherheit gefährdet;
 - c. die Ausländerin oder der Ausländer oder eine Person, für die sie oder er zu sorgen hat, dauerhaft und in erheblichem Mass auf Sozialhilfe angewiesen ist;
 - d.[^63-2] die Ausländerin oder der Ausländer in rechtsmissbräuchlicher Weise versucht hat, das Schweizer Bürgerrecht zu erschleichen, oder ihr oder ihm dieses aufgrund einer rechtskräftigen Verfügung im Rahmen einer Nichtigerklärung gemäss Artikel 36 des Bürgerrechtsgesetzes vom 20. Juni 2014[^63-3] entzogen worden ist;
-- e.[^63-4] ...
+- e.[^63-4] …
 
 <sup>2</sup> Die Niederlassungsbewilligung kann widerrufen und durch eine Aufenthaltsbewilligung ersetzt werden, wenn die Integrationskriterien nach Artikel 58*a* nicht erfüllt sind.[^63-5]
 
@@ -1568,7 +1569,7 @@ Um die Durchführung eines Wegweisungsverfahrens oder eines strafrechtlichen Ver
 - g. Personen ernsthaft bedroht oder an Leib und Leben erheblich gefährdet und deshalb strafrechtlich verfolgt wird oder verurteilt worden ist;
 - h. wegen eines Verbrechens verurteilt worden ist.
 
-<sup>1bis</sup> ...[^75-5]
+<sup>1bis</sup> …[^75-5]
 
 <sup>2</sup> Die zuständige Behörde entscheidet über die Aufenthaltsberechtigung der inhaftierten Person ohne Verzug.
 
@@ -1592,11 +1593,11 @@ Wurde ein erstinstanzlicher Weg- oder Ausweisungsentscheid eröffnet oder eine e
   in Haft nehmen, wenn:
 
   - 1\.[^76-4] Gründe nach Artikel 75 Absatz 1 Buchstaben a, b, c, f, g oder h vorliegen,
-  - 2\.[^76-5] ...
+  - 2\.[^76-5] …
   - 3\.[^76-6] konkrete Anzeichen befürchten lassen, dass sie sich der Ausschaffung entziehen will, insbesondere weil sie der Mitwirkungspflicht nach Artikel 90 dieses Gesetzes sowie Artikel 8 Absatz 1 Buchstabe a oder Absatz 4 AsylG[^76-7] nicht nachkommt,
   - 4\. ihr bisheriges Verhalten darauf schliessen lässt, dass sie sich behördlichen Anordnungen widersetzt,
   - 5\.[^76-8] der Wegweisungsentscheid in einem Zentrum des Bundes eröffnet wird und der Vollzug der Wegweisung absehbar ist.
-  - 6\.[^76-9] ...
+  - 6\.[^76-9] …
 
 <sup>1bis</sup> Die Haftanordnung in Dublin-Fällen richtet sich nach Artikel 76*a.*[^76-10]
 
@@ -1767,7 +1768,7 @@ Zur Haftanordnung nach Artikel 76*a* ist zuständig:
 - a.[^80a-2] bei Personen, die sich in einem Zentrum des Bundes aufhalten: der Kanton, der gestützt auf Artikel 46 Absatz 1<sup>bis</sup> dritter Satz AsylG[^80a-3] als für den Vollzug der Wegweisung zuständig bezeichnet wurde, und in den übrigen Fällen der Standortkanton des Zentrums des Bundes;
 - b. bei Personen, die einem Kanton zugewiesen wurden oder sich in einem Kanton aufhalten und kein Asylgesuch gestellt haben (Art. 64*a*): der entsprechende Kanton.
 
-<sup>2</sup> ...[^80a-4]
+<sup>2</sup> …[^80a-4]
 
 <sup>3</sup> Die Rechtmässigkeit und Angemessenheit der Haft wird auf Antrag der inhaftierten Person durch eine richterliche Behörde in einem schriftlichen Verfahren überprüft. Diese Überprüfung kann jederzeit beantragt werden.[^80a-5]
 
@@ -1913,7 +1914,7 @@ Die vorläufige Aufnahme nach den Absätzen 2 und 4 wird nicht verfügt, wenn di
 
 <sup>5</sup> Die vorläufig aufgenommenen Personen können ihren Wohnort im Gebiet des bisherigen oder des zugewiesenen Kantons frei wählen. Die kantonalen Behörden können vorläufig aufgenommene Personen, die nicht als Flüchtlinge anerkannt wurden und Sozialhilfe beziehen, innerhalb des Kantons einem Wohnort oder einer Unterkunft zuweisen.[^85-2]
 
-<sup>6</sup> ...[^85-3]
+<sup>6</sup> …[^85-3]
 
 <sup>7</sup>
 
@@ -2186,7 +2187,7 @@ Der Bundesrat bestimmt, welche Daten den Behörden nach Absatz 1 gemeldet werden
 - [tab] d<sup>quater</sup>.[^97-5] Disziplinarmassnahmen von Schulbehörden;
 - [tab] d<sup>quinquies</sup>.[^97-6] Massnahmen von Kindes- und Erwachsenenschutzbehörden;
 - e.[^97-7] anderen Entscheiden, die auf einen besonderen Integrationsbedarf nach den Kriterien gemäss Artikel 58*a* hindeuten;
-- f.[^97-8] ...
+- f.[^97-8] …
 
 <sup>4</sup> Erhält eine Behörde nach Absatz 1 in Anwendung von Artikel 26*a* ELG Daten über den Bezug einer Ergänzungsleistung, so meldet sie dem für die Festsetzung und die Auszahlung der Ergänzungsleistung zuständigen Organ unaufgefordert die mögliche Nichtverlängerung oder den möglichen Widerruf der Aufenthaltsbewilligung.[^97-9]
 
@@ -2411,33 +2412,7 @@ Die Ankunft von Flugpassagieren kann mit technischen Erkennungsverfahren überwa
 
 #### Art. 103a
 
-**Automatisierte Grenzkontrolle am Flughafen**[^103a-1]
-
-<sup>1</sup> Die für die Grenzkontrolle an den Flughäfen zuständigen Behörden können ein automatisiertes Grenzkontrollverfahren betreiben. Dieses dient der Vereinfachung der Kontrolle der daran teilnehmenden Personen bei der Einreise in den Schengen-Raum und bei der Ausreise aus dem Schengen-Raum.
-
-<sup>2</sup>
-
-Am automatisierten Grenzkontrollverfahren können ausschliesslich Personen teilnehmen, die:
-
-- a. über die Schweizer Staatsangehörigkeit verfügen; oder
-- b.[^103a-2] sich auf das FZA[^103a-3] oder auf das EFTA-Übereinkommen[^103a-4] berufen können.
-
-<sup>3</sup> Die Teilnahme erfordert einen biometrischen Pass oder eine Teilnehmerkarte, auf der die biometrischen Daten gespeichert werden. Zur Ausstellung der Teilnehmerkarte können die für die Grenzkontrolle zuständigen Behörden biometrische Daten erheben.
-
-<sup>4</sup> Beim Grenzübertritt können die auf dem biometrischen Pass oder auf der Teilnehmerkarte enthaltenen Daten mit dem automatisierten Polizeifahndungssystem (RIPOL) und dem Schengener Informationssystem (SIS) abgeglichen werden.
-
-<sup>5</sup> Die für die Grenzkontrolle zuständigen Behörden betreiben ein Informationssystem. Dieses dient der Bearbeitung der Personendaten derjenigen Personen, die eine Teilnehmerkarte für das automatisierte Grenzkontrollverfahren benötigen. Das Informationssystem enthält keine biometrischen Daten. Die betroffenen Personen sind vorgängig über den Zweck der Datenbearbeitung und die Kategorien der Datenempfänger zu informieren.
-
-<sup>6</sup> Der Bundesrat regelt das Registrierungsverfahren, die Voraussetzungen für die Teilnahme am automatisierten Grenzkontrollverfahren, die Organisation und den Betrieb des Informationssystems sowie den Katalog der im Informationssystem zu bearbeitenden Personendaten.
-
-[^103a-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 2010 (Automatisierte Grenzkontrolle, Dokumentenberaterinnen und Dokumentenberater, Informationssystem MIDES), in Kraft seit 1. Jan. 2011 ([AS 2010 5755](https://fedlex.data.admin.ch/eli/oc/2010/813); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^103a-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Steuerung der Zuwanderung und Vollzugsverbesserungen bei den Freizügigkeitsabkommen), in Kraft seit 1. Juli 2018 ([AS 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [BBl 2016 3007](https://fedlex.data.admin.ch/eli/fga/2016/574)).
-[^103a-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^103a-4]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-
-#### Art. 103b
-
-**Informationssystem Einreiseverweigerungen**[^103b-1]
+**Informationssystem Einreiseverweigerungen**[^103a-1]
 
 <sup>1</sup> Das SEM führt ein internes Informationssystem über Einreiseverweigerungen nach Artikel 65 (INAD-System). Es dient zur Umsetzung von Sanktionierungen bei Sorgfaltspflichtverletzungen nach Artikel 122*a* sowie zur Erstellung von Statistiken.
 
@@ -2452,7 +2427,116 @@ Das System enthält folgende Daten über Personen, denen die Einreise in den Sch
 
 <sup>3</sup> Die im System erfassten Daten werden nach zwei Jahren anonymisiert.
 
-[^103b-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^103a-1]: Ursprünglich: Art. 103*b*. Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+
+#### Art. 103b
+
+**Einreise- und Ausreisesystem**[^103b-1]
+
+<sup>1</sup> Das Einreise- und Ausreisesystem (EES) enthält nach Massgabe der Verordnung (EU) 2017/2226[^103b-2] die persönlichen Daten der Drittstaatsangehörigen, die für einen Aufenthalt von höchstens 90 Tagen je Zeitraum von 180 Tagen in den Schengen-Raum einreisen oder deren Einreise in den Schengen-Raum verweigert wird.
+
+<sup>2</sup>
+
+Folgende Kategorien von Daten werden über die nationale Schnittstelle an das EES übermittelt:
+
+- a. die alphanumerischen Daten über die betreffenden Drittstaatsangehörigen sowie die Daten über erteilte Visa, falls solche ausgestellt werden müssen;
+- b. das Gesichtsbild;
+- c. den Zeitpunkt der Ein- und Ausreise in den und aus dem Schengen-Raum sowie die Grenzübergangsstelle und die für die Grenzkontrolle zuständige Behörde;
+- d. Einreiseverweigerungen.
+
+<sup>3</sup> Unterstehen die Drittstaatsangehörigen nicht der Visumpflicht, werden von der zuständigen Behörde zusätzlich zu den Daten nach Absatz 2 die Fingerabdrücke dieser Personen erfasst und an das EES übermittelt.
+
+[^103b-1]: Eingefügt durch Anhang des BB vom 21. Juni 2019 (Übernahme der Rechtsgrundlagen zur Errichtung und Nutzung des Einreise- und Ausreisesystems [EES], Verordnungen [EU] 2017/2226 und 2017/2225), in Kraft seit 1. Mai 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+[^103b-2]: Verordnung (EU) 2017/2226 des Europäischen Parlaments und des Rates vom 30. November 2017 über ein Einreise-/Ausreisesystem (EES) zur Erfassung der Ein- und Ausreisedaten sowie der Einreiseverweigerungsdaten von Drittstaatsangehörigen an den Aussengrenzen der Mitgliedstaaten und zur Festlegung der Bedingungen für den Zugang zum EES zu Gefahrenabwehr- und Strafverfolgungszwecken und zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen sowie der Verordnungen (EG) Nr. 767/2008 und (EU) Nr. 1077/2011, Fassung gemäss ABl. L 327 vom 9.12.2017, S. 20.
+
+#### Art. 103c
+
+**Erfassung, Abfrage und Bearbeitung der Daten im EES**[^103c-1]
+
+<sup>1</sup>
+
+Folgende Behörden können Daten im EES nach Massgabe der Verordnung (EU) 2017/2226[^103c-2] online eingeben und bearbeiten:
+
+- a. das Grenzwachtkorps und die für die Kontrolle der Schengen-Aussengrenzen verantwortlichen kantonalen Polizeibehörden: zur Erfüllung ihrer Aufgaben im Rahmen der Grenzkontrolle;
+- b. das SEM, die schweizerischen Vertretungen im Ausland und die Missionen, die für die Visa zuständigen kantonalen Migrationsbehörden und die Gemeindebehörden, auf welche die Kantone diese Kompetenzen übertragen haben: im Rahmen der Aufhebung, Annullierung oder Verlängerung eines Visums oder eines zulässigen Aufenthalts von höchstens 90 Tagen je Zeitraum von 180 Tagen;
+- c. das Grenzwachtkorps, die kantonalen und kommunalen Polizeibehörden sowie die kantonalen und kommunalen Migrationsbehörden: zur Prüfung des rechtmässigen Aufenthalts in der Schweiz sowie zur Erstellung und Aktualisierung des EES-Dossiers.
+
+<sup>2</sup>
+
+Folgende Behörden können die Daten des EES online abfragen:
+
+- a. das Grenzwachtkorps und die für die Kontrolle der Schengen-Aussengrenzen verantwortlichen kantonalen Polizeibehörden: zur Durchführung der Kontrollen an den Übergangsstellen der Schengen-Aussengrenzen und im Hoheitsgebiet der Schweiz;
+- b. das SEM, die schweizerischen Vertretungen im Ausland und die Missionen, die für die Visa zuständigen kantonalen Migrationsbehörden und die Gemeindebehörden, auf welche die Kantone diese Kompetenzen übertragen haben, das Staatssekretariat und die Politische Direktion des EDA sowie das Grenzwachtkorps und die Grenzposten der kantonalen Polizeibehörden: im Rahmen des Visumverfahrens via das zentrale Visa-Informationssystem (C-VIS) (Art. 109*a*);
+- c. das Grenzwachtkorps, die kantonalen und kommunalen Polizeibehörden, die Personenkontrollen durchführen, das SEM sowie die kantonalen und kommunalen Migrationsbehörden: zum Zweck der Prüfung der Voraussetzungen für die Einreise oder den Aufenthalt in der Schweiz sowie zur Identifikation von Ausländerinnen und Ausländern, welche möglicherweise unter einer anderen Identität im EES erfasst wurden oder welche die Voraussetzungen zur Einreise oder zum Aufenthalt in der Schweiz nicht oder nicht mehr erfüllen.
+
+<sup>3</sup> Die Behörden nach Absatz 2 können die Daten, die das automatisierte Berechnungssystem nach Artikel 11 der Verordnung (EU) 2017/2226 liefert, online abfragen.
+
+<sup>4</sup>
+
+Folgende Behörden können zur Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten bei der zentralen Zugangsstelle nach Absatz 5 Daten des EES beantragen:
+
+- a. das fedpol;
+- b. der NDB;
+- c. die Bundesanwaltschaft;
+- d. die kantonalen Polizei- und Strafverfolgungsbehörden und die Polizeibehörden der Städte Zürich, Winterthur, Lausanne, Chiasso und Lugano.
+
+<sup>5</sup> Zentrale Zugangsstelle nach Artikel 29 Absatz 3 der Verordnung (EU) 2017/2226 ist die Einsatzzentrale des fedpol.
+
+[^103c-1]: Eingefügt durch Anhang des BB vom 21. Juni 2019 (Übernahme der Rechtsgrundlagen zur Errichtung und Nutzung des Einreise- und Ausreisesystems [EES], Verordnungen [EU] 2017/2226 und 2017/2225), in Kraft seit 1. Mai 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+[^103c-2]: Siehe Fussnote zu Art. 103*b* Abs. 1.
+
+#### Art. 103d
+
+**Bekanntgabe von EES-Daten**[^103d-1]
+
+<sup>1</sup> Die aus dem EES gewonnenen Daten dürfen grundsätzlich nicht an Drittstaaten, internationale Organisationen, private Stellen oder natürliche Personen übermittelt werden.
+
+<sup>2</sup> Das SEM darf jedoch an einen Staat, der durch keines der Schengen-Assoziierungsabkommen gebunden ist, oder an eine internationale Organisation, die in Anhang I der Verordnung (EU) 2017/2226[^103d-2] aufgeführt ist, Daten übermitteln, wenn dies zum Nachweis der Identität einer oder eines Drittstaatsangehörigen zum Zweck der Rückkehr notwendig ist und die Bedingungen nach Artikel 41 der Verordnung (EU) 2017/2226 erfüllt sind.
+
+[^103d-1]: Eingefügt durch Anhang des BB vom 21. Juni 2019 (Übernahme der Rechtsgrundlagen zur Errichtung und Nutzung des Einreise- und Ausreisesystems [EES], Verordnungen [EU] 2017/2226 und 2017/2225), in Kraft seit 1. Mai 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+[^103d-2]: Siehe Fussnote zu Art. 103*b* Abs. 1.
+
+#### Art. 103e
+
+**Informationsaustausch mit EU-Mitgliedstaaten, die die Verordnung (EU) 2017/2226 nicht anwenden**[^103e-1]
+
+Die Mitgliedstaaten der EU, für die die Verordnung (EU) 2017/2226[^103e-2] noch nicht in Kraft getreten ist oder nicht anwendbar ist, können ihre Anträge um Informationen an die Behörden nach Artikel 103*c* Absatz 4 richten.
+
+[^103e-1]: Eingefügt durch Anhang des BB vom 21. Juni 2019 (Übernahme der Rechtsgrundlagen zur Errichtung und Nutzung des Einreise- und Ausreisesystems [EES], Verordnungen [EU] 2017/2226 und 2017/2225), in Kraft seit 1. Mai 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+[^103e-2]: Siehe Fussnote zu Art. 103*b* Abs. 1.
+
+#### Art. 103f
+
+**Ausführungsbestimmungen zum EES**[^103f-1]
+
+Der Bundesrat regelt:
+
+- a. für welche Einheiten der Behörden nach Artikel 103*c* Absätze 1 und 2 die dort genannten Befugnisse gelten;
+- b. das Verfahren für den Erhalt von Daten des EES durch die Behörden nach Artikel 103*c* Absatz 4;
+- c. den Katalog der Daten im EES und die Zugangsberechtigungen der Behörden nach Artikel 103*c* Absätze 1 und 2;
+- d. die Aufbewahrung und die Löschung der Daten;
+- e. die Modalitäten in Bezug auf die Datensicherheit;
+- f. die Zusammenarbeit mit den Kantonen;
+- g. die Verantwortung für die Datenbearbeitung;
+- h. den Katalog der Straftaten nach Artikel 103*c* Absatz 4;
+- i. das Verfahren zum Informationsaustausch nach Artikel 103*e*;
+- j. welche Behörden auf die durch den Informationsmechanismus generierte Liste von Personen, die die Höchstdauer des zulässigen Aufenthalts im Schengen-Raum überschritten haben, zugreifen können.
+
+[^103f-1]: Eingefügt durch Anhang des BB vom 21. Juni 2019 (Übernahme der Rechtsgrundlagen zur Errichtung und Nutzung des Einreise- und Ausreisesystems [EES], Verordnungen [EU] 2017/2226 und 2017/2225), in Kraft seit 1. Mai 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+
+#### Art. 103g
+
+**Automatisierte Grenzkontrolle am Flughafen**[^103g-1]
+
+<sup>1</sup> Die für die Grenzkontrolle an den Flughäfen zuständigen Behörden können ein automatisiertes Grenzkontrollverfahren betreiben.
+
+<sup>2</sup> Am automatisierten Grenzkontrollverfahren können Personen ab dem 12. Altersjahr teilnehmen, die, unabhängig von ihrer Nationalität, über ein Reisedokument verfügen, das mit einem Datenchip versehen ist. Dieser enthält ein Gesichtsbild der Inhaberin oder des Inhabers, dessen Echtheit und Integrität geprüft werden kann.
+
+<sup>3</sup> Der Bundesrat regelt die Modalitäten der automatisierten Grenzkontrolle.
+
+<sup>4</sup> Im Rahmen des automatisierten Grenzkontrollverfahrens können die Fingerabdrücke und das Gesichtsbild der Person mit den Daten des Reisedokuments, das mit einem Datenchip versehen ist, abgeglichen werden.
+
+[^103g-1]: Eingefügt durch Anhang des BB vom 21. Juni 2019 (Übernahme der Rechtsgrundlagen zur Errichtung und Nutzung des Einreise- und Ausreisesystems [EES], Verordnungen [EU] 2017/2226 und 2017/2225), in Kraft seit 1. Mai 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
 
 #### Art. 104
 
@@ -2665,20 +2749,20 @@ Zum Zweck der Durchbeförderung Angehöriger von Drittstaaten können dem andere
 
 **Abfrage der Daten des zentralen Visa-Informationssystems**[^109a-1]
 
-<sup>1</sup> Das zentrale Visa-Informationssystem (C-VIS) enthält die Visadaten aller Staaten, für welche die Verordnung (EG) Nr. 767/2008[^109a-2] in Kraft ist.
+<sup>1</sup> Das C-VIS enthält die Visadaten aller Staaten, für welche die Verordnung (EG) Nr. 767/2008[^109a-2] in Kraft ist.[^109a-3]
 
 <sup>2</sup>
 
 Folgende Behörden können die Daten des C-VIS online abfragen:
 
-- a.[^109a-3] das SEM, die schweizerischen Vertretungen im Ausland und die Missionen, die für die Visa zuständigen kantonalen Migrationsbehörden und die Gemeindebehörden, auf welche die Kantone diese Kompetenzen übertragen haben, das Staatssekretariat und die Politische Direktion des EDA sowie das Grenzwachtkorps und die Grenzposten der kantonalen Polizeibehörden: im Rahmen des Visumverfahrens;
-- b.[^109a-4] das SEM: zur Bestimmung des Staates, der in Anwendung der Verordnung (EU) Nr. 604/2013[^109a-5] für die Prüfung eines Asylgesuchs zuständig ist, und im Rahmen der Prüfung eines Asylgesuchs, wenn die Schweiz für dessen Bearbeitung zuständig ist;
+- a.[^109a-4] das SEM, die schweizerischen Vertretungen im Ausland und die Missionen, die für die Visa zuständigen kantonalen Migrationsbehörden und die Gemeindebehörden, auf welche die Kantone diese Kompetenzen übertragen haben, das Staatssekretariat und die Politische Direktion des EDA sowie das Grenzwachtkorps und die Grenzposten der kantonalen Polizeibehörden: im Rahmen des Visumverfahrens;
+- b.[^109a-5] das SEM: zur Bestimmung des Staates, der in Anwendung der Verordnung (EU) Nr. 604/2013[^109a-6] für die Prüfung eines Asylgesuchs zuständig ist, und im Rahmen der Prüfung eines Asylgesuchs, wenn die Schweiz für dessen Bearbeitung zuständig ist;
 - c. das Grenzwachtkorps und die für die Kontrolle der Schengen-Aussengrenzen verantwortlichen kantonalen Polizeibehörden: zur Durchführung der Kontrollen an den Übergangsstellen der Aussengrenzen und im Hoheitsgebiet der Schweiz;
-- d.[^109a-6] das Grenzwachtkorps und die kantonalen undkommunalen Polizeibehörden, die Personenkontrollen durchführen: zur Identifikation der Personen, welche die Voraussetzungen für die Einreise in das Hoheitsgebiet der Schweiz oder den Aufenthalt in der Schweiz nicht oder nicht mehr erfüllen.
+- d.[^109a-7] das Grenzwachtkorps und die kantonalen undkommunalen Polizeibehörden, die Personenkontrollen durchführen: zur Identifikation der Personen, welche die Voraussetzungen für die Einreise in das Hoheitsgebiet der Schweiz oder den Aufenthalt in der Schweiz nicht oder nicht mehr erfüllen.
 
 <sup>3</sup>
 
-Folgende Behörden können im Sinn des Beschlusses 2008/633/JI[^109a-7] zur Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten bei der zentralen Zugangsstelle nach Absatz 4 bestimmte Daten des C-VIS beantragen:
+Folgende Behörden können im Sinn des Beschlusses 2008/633/JI[^109a-8] zur Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten bei der zentralen Zugangsstelle nach Absatz 4 bestimmte Daten des C-VIS beantragen:
 
 - a. das fedpol;
 - b. der NDB;
@@ -2688,12 +2772,13 @@ Folgende Behörden können im Sinn des Beschlusses 2008/633/JI[^109a-7] zur Verh
 <sup>4</sup> Zentrale Zugangsstelle im Sinn von Artikel 3 Absatz 3 des Beschlusses 2008/633/JI ist die Einsatzzentrale des fedpol.
 
 [^109a-1]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung und des Beschlusses über das Visa-Informationssystem (VIS), in Kraft seit 11. Okt. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
-[^109a-2]: Verordnung (EG) Nr. 767/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über das Visa-Informationssystem (VIS) und den Datenaustausch zwischen den Mitgliedstaaten über Visa für einen kurzfristigen Aufenthalt (VIS-Verordnung), ABl. L 218 vom 13.8.2008, S. 60.
-[^109a-3]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. März 2015 ([AS 2015 533](https://fedlex.data.admin.ch/eli/oc/2015/75); [BBl 2014 3373](https://fedlex.data.admin.ch/eli/fga/2014/708)).
-[^109a-4]: Fassung gemäss Anhang Ziff. I 1 des BB vom 26. Sept. 2014 (Übernahme der V[EU] Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines Antrags auf internationalen Schutz zuständig ist), in Kraft seit 1. Juli 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
-[^109a-5]: Siehe Fussnote zu Art. 64*a* Abs. 1.
-[^109a-6]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. April 2020 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^109a-7]: Beschluss 2008/633/JI des Rates vom 23. Juni 2008 über den Zugang der benannten Behörden der Mitgliedstaaten und von Europol zum Visa-Informationssystem (VIS) für Datenabfragen zum Zwecke der Verhütung, Aufdeckung und Ermittlung terroristischer und sonstiger schwerwiegender Straftaten, ABl. L 218 vom 13.8.2008, S. 129.
+[^109a-2]: Verordnung (EG) Nr. 767/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über das Visa-Informationssystem (VIS) und den Datenaustausch zwischen den Mitgliedstaaten über Visa für einen kurzfristigen Aufenthalt (VIS-Verordnung), ABl. L 218 vom 13.8.2008, S. 60; zuletzt geändert durch Verordnung (EU) 2017/2226, ABl. L 327 vom 9.12.2017, S. 20.
+[^109a-3]: Fassung gemäss Anhang des BB vom 21. Juni 2019 (Übernahme der Rechtsgrundlagen zur Errichtung und Nutzung des Einreise- und Ausreisesystems [EES], Verordnungen [EU] 2017/2226 und 2017/2225), in Kraft seit 1. Mai 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+[^109a-4]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. März 2015 ([AS 2015 533](https://fedlex.data.admin.ch/eli/oc/2015/75); [BBl 2014 3373](https://fedlex.data.admin.ch/eli/fga/2014/708)).
+[^109a-5]: Fassung gemäss Anhang Ziff. I 1 des BB vom 26. Sept. 2014 (Übernahme der V[EU] Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines Antrags auf internationalen Schutz zuständig ist), in Kraft seit 1. Juli 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^109a-6]: Siehe Fussnote zu Art. 64*a* Abs. 1.
+[^109a-7]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. April 2020 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^109a-8]: Beschluss 2008/633/JI des Rates vom 23. Juni 2008 über den Zugang der benannten Behörden der Mitgliedstaaten und von Europol zum Visa-Informationssystem (VIS) für Datenabfragen zum Zwecke der Verhütung, Aufdeckung und Ermittlung terroristischer und sonstiger schwerwiegender Straftaten, ABl. L 218 vom 13.8.2008, S. 129.
 
 #### Art. 109b
 
@@ -2902,7 +2987,7 @@ Der Bundesrat regelt:
 
 #### Art. 110
 
-**...[^110-2]**[^110-1]
+**…[^110-2]**[^110-1]
 
 Das SEM betreibt in Zusammenarbeit mit dem Bundesverwaltungsgericht und den zuständigen Behörden der Kantone ein automatisiertes Personendossier- und Dokumentationssystem.
 
@@ -3096,7 +3181,7 @@ Die nach den Absätzen 1 und 2 übermittelten Daten werden von der Zentraleinhei
 
 #### Art. 112
 
-**...[^112-1]**
+**…[^112-1]**
 
 <sup>1</sup> Das Verfahren der Bundesbehörden richtet sich nach den allgemeinen Bestimmungen der Bundesrechtspflege.
 
@@ -3250,11 +3335,18 @@ Mit Busse wird bestraft, wer vorsätzlich oder fahrlässig:
 
 #### Art. 120d
 
-**Zweckwidriges Bearbeiten von Personendaten in den Visa-Informationssystemen**[^120d-1]
+**Zweckwidriges Bearbeiten von Personendaten in Informationssystemen des SEM**[^120d-1]
 
-Wer Personendaten des nationalen Visumsystems oder des C-VIS für andere als die in den Artikeln 109*a*–109*d* vorgesehenen Zwecke bearbeitet, wird mit Busse bestraft.
+<sup>1</sup> Jede zuständige Behörde stellt sicher, dass die Bearbeitung von Personendaten in Informationssystemen des SEM in einem angemessenen Verhältnis zu den verfolgten Zielen steht und allein erfolgt, soweit die Bearbeitung für die Erfüllung ihrer Aufgaben erforderlich ist.
 
-[^120d-1]: Eingefügt durch Ziff. I des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen) ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756); [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)). Fassung gemäss Art. 2 Ziff. 1 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung und des Beschlusses über das Visa-Informationssystem (VIS), in Kraft seit 20. Jan. 2014 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
+<sup>2</sup>
+
+Mit Busse wird bestraft, wer Personendaten:
+
+- a. des nationalen Visumsystems oder des C-VIS für andere als die in den Artikeln 109*a*–109*d* vorgesehenen Zwecke bearbeitet;
+- b. des EES für andere als die in Artikel 103*c* vorgesehenen Zwecke bearbeitet.
+
+[^120d-1]: Eingefügt durch Ziff. I des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen) ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756); [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)). Fassung gemäss Anhang des BB vom 21. Juni 2019 (Übernahme der Rechtsgrundlagen zur Errichtung und Nutzung des Einreise- und Ausreisesystems [EES], Verordnungen [EU] 2017/2226 und 2017/2225), in Kraft seit 1. Mai 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
 
 #### Art. 120e
 
@@ -3262,12 +3354,12 @@ Wer Personendaten des nationalen Visumsystems oder des C-VIS für andere als die
 
 <sup>1</sup> Die Verfolgung und Beurteilung der Widerhandlungen nach den Artikeln 115–120 und 120*d* obliegt den Kantonen. Ist eine Widerhandlung in mehreren Kantonen begangen worden, so ist zur Verfolgung derjenige Kanton zuständig, der diese zuerst aufnimmt.
 
-<sup>2</sup> ...[^120e-2]
+<sup>2</sup> …[^120e-2]
 
 [^120e-1]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung und des Beschlusses über das Visa-Informationssystem (VIS), in Kraft seit 11. Okt. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^120e-2]: Aufgehoben durch Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), mit Wirkung seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 
-### 2. Abschnitt: Administrative Sanktionen
+### 2. Abschnitt: Administrative Sanktionen****
 
 [^chap16-sec2-1]
 
@@ -3432,7 +3524,7 @@ Die Aufhebung und die Änderung bisherigen Rechts werden im Anhang geregelt.
 
 Bis zum Inkrafttreten des nationalen Visumsystems lauten die Artikel 109*c* und 120*d* wie folgt:
 
-...[^126b-2]
+…[^126b-2]
 
 [^126b-1]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung und des Beschlusses über das Visa-Informationssystem (VIS), in Kraft seit 11. Okt. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^126b-2]: Die Änderungen können unter [AS 2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609)konsultiert werden.
@@ -3462,7 +3554,7 @@ Zum Zeitpunkt des Inkrafttretens der Änderung vom 20. Juni 2014 dieses Gesetzes
 
 Mit dem Inkrafttreten der Schengen-Assoziierungsabkommen wird das vorliegende Gesetz wie folgt angepasst:
 
-...[^127-1]
+…[^127-1]
 
 [^127-1]: Die Änderungen können unter [AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)konsultiert werden.
 
@@ -3543,7 +3635,7 @@ II
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-...[^annex2-lvlu1-2]
+…[^annex2-lvlu1-2]
 
-[^annex2-lvlu1-1]: [BS **1** 121; [AS 1949 221](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225), [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665), [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332), [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)Ziff. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148)[2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Anhang Ziff. 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)Ziff. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)Ziff. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)Art. 18 Ziff. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)Anhang Ziff. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)Anhang Ziff. 1]
+[^annex2-lvlu1-1]: [BS **1** 121; [AS 1949 221](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)Ziff. III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Anhang Ziff. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. IV 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)Ziff. I 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)Ziff. I 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)Art. 18 Ziff. ,1 2197 Anhang Ziff. 3, 3459 Anhang Ziff. 1, 4745; **2007** 359 Anhang Ziff. 1]
 [^annex2-lvlu1-2]: Die Änderungen können unter [AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)konsultiert werden.

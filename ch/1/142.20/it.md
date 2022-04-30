@@ -4,11 +4,11 @@ title: Legge federale del 16 dicembre 2005 sugli stranieri e la loro integrazion
 short: LStrI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: it
-version: 2021-10-02
+version: 2022-05-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20211002/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20211002-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20211002/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20220501/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20220501-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20220501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20211002/it"
 
 (LStrI)**[^t-1]**
 
-del 16 dicembre 2005 (Stato 2 ottobre 2021) (Stato 2 ottobre 2021)
+del 16 dicembre 2005 (Stato 1° maggio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -134,12 +134,13 @@ Lo straniero che intende entrare in Svizzera:
 
 <sup>2</sup> Il Consiglio federale disciplina i controlli sulle persone che possono essere svolti al confine in conformità degli Accordi suddetti. Se l’entrata è rifiutata, l’autorità competente per il controllo al confine emana una decisione di allontanamento secondo l’articolo 64.[^7-2]
 
-<sup>3</sup> Se, secondo gli articoli 27, 28 o 29 del codice frontiere Schengen[^7-3], i controlli al confine svizzero sono temporaneamente ripristinati e l’entrata è rifiutata, l’autorità competente per il controllo al confine emana una decisione motivata e impugnabile, mediante il modulo previsto nell’Allegato V Parte B del codice frontiere Schengen. Il rifiuto d’entrata è immediatamente esecutivo. Un eventuale ricorso non ha effetto sospensivo. [^7-4]
+<sup>3</sup> Se, conformemente al codice frontiere Schengen[^7-3], i controlli al confine svizzero sono temporaneamente ripristinati e l’entrata è rifiutata, l’autorità competente per il controllo al confine emana una decisione motivata e impugnabile, mediante il modulo previsto nell’Allegato V Parte B del codice frontiere Schengen.[^7-4] Il rifiuto d’entrata è immediatamente esecutivo. Un eventuale ricorso non ha effetto sospensivo.[^7-5]
 
 [^7-1]: Nuovo testo giusta l’art. 127 qui avanti, in vigore dal 12 dic. 2008 ([RU 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. a).
 [^7-2]: Nuovo testo giusta l’art. 2 n. 1 del DF del 18 giu. 2010 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE concernente il recepimento della direttiva CE sul rimpatrio (direttiva 2008/115/CE), in vigore dal 1° gen. 2011 ([RU 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 7737](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^7-3]: Regolamento (UE) 2016/399 del Parlamento europeo e del Consiglio, del 9 marzo 2016, che istituisce un codice unionale relativo al regime di attraversamento delle frontiere da parte delle persone (codice frontiere Schengen), GU L 77 del 23.3.2016, pag. 1; modificato da ultimo dal regolamento (UE) 2017/458, GU L 74 del 18.3.2017, pag. 1.
-[^7-4]: Introdotto dall’all. del DF del 13 giu. 2008 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la Comunità europea concernente il recepimento del codice frontiere Schengen ([RU 2008 5629](https://fedlex.data.admin.ch/eli/oc/2008/779)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. b; [FF 2007 7149](https://fedlex.data.admin.ch/eli/fga/2007/1287)). Nuovo testo giusta l’all. n. 1 del DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea), in vigore dal 15 set. 2018 ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+[^7-3]: Regolamento (UE) 2016/399 del Parlamento europeo e del Consiglio, del 9 marzo 2016, che istituisce un codice unionale relativo al regime di attraversamento delle frontiere da parte delle persone (codice frontiere Schengen), GU L 77 del 23.3.2016, pag. 1; modificato da ultimo dal regolamento (UE) 2017/2225, GU L 327 del 9.12.2017, pag. 1.
+[^7-4]: Nuovo testo giusta l’all. del DF del 21 giu. 2019 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali per l’istituzione e l’uso del sistema di ingressi e uscite (EES) (regolamenti [UE] 2017/2226 e 2017/2225), in vigore dal 1° mag. 2022 ([RU 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [FF 2019 171](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+[^7-5]: Introdotto dall’all. del DF del 13 giu. 2008 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la Comunità europea concernente il recepimento del codice frontiere Schengen ([RU 2008 5629](https://fedlex.data.admin.ch/eli/oc/2008/779)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. b; [FF 2007 7149](https://fedlex.data.admin.ch/eli/fga/2007/1287)). Nuovo testo giusta l’all. n. 1 del DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea), in vigore dal 15 set. 2018 ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
 
 #### Art. 8
 
@@ -2410,33 +2411,7 @@ L’arrivo di passeggeri all’aeroporto può essere sorvegliato mediante tecnic
 
 #### Art. 103a
 
-**Controllo di confine automatizzato all’aeroporto**[^103a-1]
-
-<sup>1</sup> Le autorità competenti per il controllo di confine negli aeroporti possono applicare una procedura di controllo automatizzata. Tale procedura è volta a semplificare il controllo delle persone che vi partecipano al momento dell’entrata nello spazio Schengen e al momento della partenza dallo stesso.
-
-<sup>2</sup>
-
-Alla procedura di controllo automatizzata possono partecipare esclusivamente:
-
-- a. i cittadini svizzeri; o
-- b.[^103a-2] le persone che possono avvalersi dell’ALC[^103a-3] o della Convenzione AELS[^103a-4].
-
-<sup>3</sup> La partecipazione alla procedura di controllo automatizzata richiede un passaporto biometrico o una carta per partecipanti nella quale sono registrati i dati biometrici del titolare. Le autorità competenti per il controllo al confine possono rilevare i dati biometrici necessari al rilascio della carta per partecipanti.
-
-<sup>4</sup> Al passaggio del confine, i dati contenuti nel passaporto biometrico o nella carta per partecipanti possono essere confrontati con quelli del sistema di ricerca informatizzato di polizia (RIPOL) e del sistema d’informazione di Schengen (SIS).
-
-<sup>5</sup> Le autorità competenti per il controllo al confine gestiscono un sistema d’informazione. Questo serve al trattamento dei dati personali relativi alle persone che necessitano di una carta per partecipanti per la procedura di controllo automatizzata. Il sistema d’informazione non contiene dati biometrici. Le persone interessate devono essere previamente informate in merito alle finalità del trattamento dei dati e alle categorie di destinatari dei dati.
-
-<sup>6</sup> Il Consiglio federale disciplina la procedura di registrazione, le condizioni di partecipazione alla procedura di controllo automatizzata, l’organizzazione e la gestione del sistema d’informazione e il catalogo dei dati personali da trattare nel sistema d’informazione.
-
-[^103a-1]: Introdotto dal n. I della LF del 18 giu. 2010 (Controllo di confine automatizzato, consulenti in materia di documenti, sistema d’informazione MIDES), in vigore dal 1° gen. 2011 ([RU 2010 5755](https://fedlex.data.admin.ch/eli/oc/2010/813); [FF 2009 7737](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^103a-2]: Nuovo testo giusta il n. I della LF del 16 dic. 2016 (Regolazione dell’immigrazione e miglioramenti nell’esecuzione degli accordi sulla libera circolazione), in vigore dal 1° lug. 2018 ([RU 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [FF 2016 2621](https://fedlex.data.admin.ch/eli/fga/2016/574)).
-[^103a-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^103a-4]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-
-#### Art. 103b
-
-**Sistema d’informazione sulle entrate rifiutate**[^103b-1]
+**Sistema d’informazione sulle entrate rifiutate**[^103a-1]
 
 <sup>1</sup> La SEM gestisce un sistema d’informazione interno sulle entrate rifiutate secondo l’articolo 65 (sistema INAD). Tale sistema serve ad applicare le sanzioni in caso di violazione dell’obbligo di diligenza secondo l’articolo 122*a* e ad allestire statistiche.
 
@@ -2451,7 +2426,116 @@ Il sistema INAD contiene i seguenti dati sulle persone cui è stata rifiutata l�
 
 <sup>3</sup> I dati rilevati nel sistema INAD sono anonimizzati dopo due anni.
 
-[^103b-1]: Introdotto dal n. I della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^103a-1]: Originale art 103*b*. Introdotto dal n. I della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+
+#### Art. 103b
+
+**Sistema di ingressi e uscite**[^103b-1]
+
+<sup>1</sup> Il sistema di ingressi e uscite (EES) contiene, conformemente al regolamento (UE) 2017/2226[^103b-2], i dati personali di cittadini di Stati terzi che entrano nello spazio Schengen per un soggiorno non superiore a 90 giorni su un periodo di 180 giorni o ai quali è rifiutata l’entrata nello spazio Schengen.
+
+<sup>2</sup>
+
+Le seguenti categorie di dati sono trasmesse all’EES mediante l’interfaccia nazionale:
+
+- a. i dati alfanumerici dei cittadini di Stati terzi interessati, nonché i dati riguardanti i visti accordati, se è necessario rilasciarne;
+- b. l’immagine del volto;
+- c. il momento dell’entrata nello spazio Schengen e della partenza dallo stesso, nonché il valico di frontiera e l’autorità competente per il controllo alla frontiera;
+- d. le entrate rifiutate.
+
+<sup>3</sup> Se i cittadini di Stati terzi che entrano nello spazio Schengen non sono soggetti all’obbligo del visto, oltre ai dati di cui al capoverso 2 l’autorità competente ne registra le impronte digitali e le trasmette all’EES.
+
+[^103b-1]: Introdotto dall’all. del DF del 21 giu. 2019 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali per l’istituzione e l’uso del sistema di ingressi e uscite (EES) (regolamenti [UE] 2017/2226 e 2017/2225), in vigore dal 1° mag. 2022 ([RU 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [FF 2019 171](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+[^103b-2]: Regolamento (UE) 2017/2226 del Parlamento europeo e del Consiglio, del 30 novembre 2017, che istituisce un sistema di ingressi/uscite per la registrazione dei dati di ingresso e di uscita e dei dati relativi al respingimento dei cittadini di paesi terzi che attraversano le frontiere esterne degli Stati membri e che determina le condizioni di accesso al sistema di ingressi/uscite a fini di contrasto e che modifica la Convenzione di applicazione dell’Accordo di Schengen e i regolamenti (CE) n. 767/2008 e (UE) n. 1077/2011, versione della GU L 327 del 9.12.2017, pag. 20.
+
+#### Art. 103c
+
+**Inserimento, consultazione e trattamento dei dati nell’EES**[^103c-1]
+
+<sup>1</sup>
+
+Le autorità seguenti possono inserire e trattare online i dati nell’EES conformemente al regolamento (UE) 2017/2226[^103c-2]:
+
+- a. il Corpo delle guardie di confine e le autorità cantonali di polizia incaricate del controllo alle frontiere esterne Schengen: al fine di adempiere i loro compiti nell’ambito del controllo alle frontiere;
+- b. la SEM, le rappresentanze svizzere all’estero e le missioni, le autorità cantonali di migrazione competenti in materia di visti e le autorità comunali cui i Cantoni hanno delegato queste competenze: nell’ambito della revoca, dell’annullamento o della proroga di un visto o di un soggiorno autorizzato non superiore a 90 giorni su un periodo di 180 giorni;
+- c. il Corpo delle guardie di confine, le autorità cantonali e comunali di polizia e le autorità cantonali e comunali competenti in materia di migrazione: per l’esame della legalità del soggiorno in Svizzera e per l’allestimento e l’aggiornamento del fascicolo EES.
+
+<sup>2</sup>
+
+Le autorità seguenti hanno accesso online ai dati dell’EES:
+
+- a. il Corpo delle guardie di confine e le autorità cantonali di polizia incaricate del controllo alle frontiere esterne Schengen: al fine di effettuare i controlli ai valichi delle frontiere esterne Schengen e sul territorio svizzero;
+- b. la SEM, le rappresentanze svizzere all’estero e le missioni, le autorità cantonali di migrazione competenti in materia di visti e le autorità comunali cui i Cantoni hanno delegato queste competenze, la Segreteria di Stato e la Direzione politica del DFAE, il Corpo delle guardie di confine e i posti di confine delle polizie cantonali: nell’ambito della procedura di rilascio dei visti mediante il sistema centrale d’informazione visti (C-VIS) (art. 109*a*);
+- c. il Corpo delle guardie di confine, le autorità cantonali e comunali di polizia che procedono a controlli delle persone, la SEM e le autorità cantonali e comunali competenti in materia di migrazione: al fine di esaminare le condizioni d’entrata o di soggiorno nel territorio svizzero o di identificare gli stranieri eventualmente registrati nell’EES con un’altra identità o che non adempiono o non adempiono più le condizioni d’entrata o di soggiorno nel territorio svizzero.
+
+<sup>3</sup> Le autorità di cui al capoverso 2 hanno accesso online ai dati forniti dal calcolatore automatico di cui all’articolo 11 del regolamento (UE) 2017/2226.
+
+<sup>4</sup>
+
+Le autorità seguenti possono chiedere dati dell’EES al punto di accesso centrale di cui al capoverso 5, ai fini della prevenzione, dell’individuazione e dell’investigazione di reati di terrorismo o altri reati gravi:
+
+- a. fedpol;
+- b. il SIC;
+- c. il Ministero pubblico della Confederazione;
+- d. le autorità cantonali di polizia e di perseguimento penale nonché le autorità di polizia delle Città di Zurigo, Winterthur, Losanna, Chiasso e Lugano.
+
+<sup>5</sup> La Centrale operativa di fedpol costituisce il punto di accesso centrale ai sensi dell’articolo 29 paragrafo 3 del regolamento (UE) 2017/2226.
+
+[^103c-1]: Introdotto dall’all. del DF del 21 giu. 2019 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali per l’istituzione e l’uso del sistema di ingressi e uscite (EES) (regolamenti [UE] 2017/2226 e 2017/2225), in vigore dal 1° mag. 2022 ([RU 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [FF 2019 171](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+[^103c-2]: Cfr. nota a piè di pagina relativa all’art. 103*b* cpv. 1.
+
+#### Art. 103d
+
+**Comunicazione di dati dell’EES**[^103d-1]
+
+<sup>1</sup> Di norma, i dati provenienti dall’EES non possono essere comunicati a Stati terzi, organizzazioni internazionali, enti privati o persone fisiche.
+
+<sup>2</sup> La SEM può tuttavia comunicare dati a uno Stato non vincolato da un accordo di associazione alla normativa di Schengen o a un’organizzazione internazionale figurante nell’allegato I del regolamento (UE) 2017/2226[^103d-2], se necessario per provare l’identità di cittadini di Stati terzi ai fini del rimpatrio, purché siano rispettate le condizioni di cui all’articolo 41 del regolamento (UE) 2017/2226.
+
+[^103d-1]: Introdotto dall’all. del DF del 21 giu. 2019 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali per l’istituzione e l’uso del sistema di ingressi e uscite (EES) (regolamenti [UE] 2017/2226 e 2017/2225), in vigore dal 1° mag. 2022 ([RU 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [FF 2019 171](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+[^103d-2]: Cfr. nota a piè di pagina relativa all’art. 103*b* cpv. 1.
+
+#### Art. 103e
+
+**Scambio d’informazioni con Stati membri dell’UE che non applicano il regolamento (UE) 2017/2226**[^103e-1]
+
+Gli Stati membri dell’UE per i quali il regolamento (UE) 2017/2226[^103e-2] non è ancora entrato in vigore o non è applicabile possono chiedere informazioni alle autorità di cui all’articolo 103*c* capoverso 4.
+
+[^103e-1]: Introdotto dall’all. del DF del 21 giu. 2019 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali per l’istituzione e l’uso del sistema di ingressi e uscite (EES) (regolamenti [UE] 2017/2226 e 2017/2225), in vigore dal 1° mag. 2022 ([RU 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [FF 2019 171](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+[^103e-2]: Cfr. nota a piè di pagina relativa all’art. 103*b* cpv. 1.
+
+#### Art. 103f
+
+**Disposizioni esecutive relative all’EES**[^103f-1]
+
+Il Consiglio federale disciplina:
+
+- a. a quali unità delle autorità di cui all’articolo 103*c* capoversi 1 e 2 spettano le facoltà menzionate in tali disposizioni;
+- b. la procedura di acquisizione dei dati dell’EES da parte delle autorità di cui all’articolo 103*c* capoverso 4;
+- c. l’elenco dei dati registrati nell’EES e i diritti d’accesso delle autorità di cui all’articolo 103*c* capoversi 1 e 2;
+- d. la conservazione e la cancellazione dei dati;
+- e. le modalità relative alla sicurezza dei dati;
+- f. la collaborazione con i Cantoni;
+- g. la responsabilità del trattamento dei dati;
+- h. l’elenco dei reati secondo l’articolo 103*c* capoverso 4;
+- i. la procedura per lo scambio d’informazioni secondo l’articolo 103*e*;
+- j. quali autorità possono accedere all’elenco generato dal meccanismo di informazione riportante le persone il cui soggiorno nello spazio Schengen ha superato la durata massima consentita.
+
+[^103f-1]: Introdotto dall’all. del DF del 21 giu. 2019 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali per l’istituzione e l’uso del sistema di ingressi e uscite (EES) (regolamenti [UE] 2017/2226 e 2017/2225), in vigore dal 1° mag. 2022 ([RU 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [FF 2019 171](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+
+#### Art. 103g
+
+**Controllo di confine automatizzato all’aeroporto**[^103g-1]
+
+<sup>1</sup> Le autorità competenti per il controllo di confine negli aeroporti possono applicare una procedura di controllo automatizzata.
+
+<sup>2</sup> Alla procedura di controllo automatizzata possono partecipare le persone a partire dai 12 anni di età che, indipendentemente dalla loro nazionalità, sono in possesso di un documento di viaggio provvisto di un microchip. Il microchip contiene un’immagine del volto del titolare, la cui autenticità e integrità possono essere verificate.
+
+<sup>3</sup> Il Consiglio federale disciplina le modalità del controllo di confine automatizzato.
+
+<sup>4</sup> Nel quadro del controllo di confine automatizzato le impronte digitali e l’immagine del volto della persona possono essere confrontate con i dati del documento di viaggio provvisto di un microchip.
+
+[^103g-1]: Introdotto dall’all. del DF del 21 giu. 2019 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali per l’istituzione e l’uso del sistema di ingressi e uscite (EES) (regolamenti [UE] 2017/2226 e 2017/2225), in vigore dal 1° mag. 2022 ([RU 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [FF 2019 171](https://fedlex.data.admin.ch/eli/fga/2019/11)).
 
 #### Art. 104
 
@@ -2663,20 +2747,20 @@ Ai fini del transito di cittadini di Stati terzi, possono essere comunicati all�
 
 **Consultazione dei dati del sistema centrale d’informazione visti**[^109a-1]
 
-<sup>1</sup> Il sistema centrale d’informazione visti (C-VIS) contiene i dati sui visti raccolti da tutti gli Stati per i quali è entrato in vigore il regolamento (CE) n. 767/2008[^109a-2].
+<sup>1</sup> Il C-VIS contiene i dati sui visti raccolti da tutti gli Stati per i quali è entrato in vigore il regolamento (CE) n. 767/2008[^109a-2].[^109a-3]
 
 <sup>2</sup>
 
 Le autorità seguenti hanno accesso online ai dati del C-VIS:
 
-- a.[^109a-3] la SEM, le rappresentanze svizzere all’estero e le missioni, le autorità cantonali di migrazione competenti in materia di visti e le autorità comunali cui i Cantoni hanno delegato queste competenze, la Segreteria di Stato e la Direzione politica del DFAE, il Corpo delle guardie di confine e i posti di confine delle polizie cantonali: nell’ambito della procedura di rilascio dei visti;
-- b.[^109a-4] la SEM: al fine di determinare lo Stato responsabile dell’esame di una domanda d’asilo in applicazione del regolamento (UE) n. 604/2013[^109a-5], nonché nell’ambito dell’esame di una domanda d’asilo qualora il trattamento della domanda competa alla Svizzera;
+- a.[^109a-4] la SEM, le rappresentanze svizzere all’estero e le missioni, le autorità cantonali di migrazione competenti in materia di visti e le autorità comunali cui i Cantoni hanno delegato queste competenze, la Segreteria di Stato e la Direzione politica del DFAE, il Corpo delle guardie di confine e i posti di confine delle polizie cantonali: nell’ambito della procedura di rilascio dei visti;
+- b.[^109a-5] la SEM: al fine di determinare lo Stato responsabile dell’esame di una domanda d’asilo in applicazione del regolamento (UE) n. 604/2013[^109a-6], nonché nell’ambito dell’esame di una domanda d’asilo qualora il trattamento della domanda competa alla Svizzera;
 - c. il Corpo delle guardie di confine e le autorità cantonali di polizia incaricate del controllo alle frontiere esterne Schengen: al fine di effettuare i controlli ai valichi delle frontiere esterne e sul territorio svizzero;
-- d.[^109a-6] il Corpo delle guardie di confine e le autorità cantonali e comunali di polizia che procedono a controlli delle persone: al fine di identificare le persone che non adempiono o non adempiono più le condizioni d’entrata o di soggiorno nel territorio svizzero.
+- d.[^109a-7] il Corpo delle guardie di confine e le autorità cantonali e comunali di polizia che procedono a controlli delle persone: al fine di identificare le persone che non adempiono o non adempiono più le condizioni d’entrata o di soggiorno nel territorio svizzero.
 
 <sup>3</sup>
 
-Le autorità seguenti possono chiedere determinati dati del C-VIS al punto di accesso centrale di cui al capoverso 4, conformemente alla decisione 2008/633/GAI[^109a-7], ai fini della prevenzione, dell’individuazione e dell’investigazione di reati di terrorismo o altri reati gravi:
+Le autorità seguenti possono chiedere determinati dati del C-VIS al punto di accesso centrale di cui al capoverso 4, conformemente alla decisione 2008/633/GAI[^109a-8], ai fini della prevenzione, dell’individuazione e dell’investigazione di reati di terrorismo o altri reati gravi:
 
 - a. fedpol;
 - b. il SIC;
@@ -2686,12 +2770,13 @@ Le autorità seguenti possono chiedere determinati dati del C-VIS al punto di ac
 <sup>4</sup> La Centrale operativa di fedpol costituisce il punto di accesso centrale ai sensi dell’articolo 3 paragrafo 3 della decisione 2008/633/GAI.
 
 [^109a-1]: Introdotto dall’art. 2 n. 1 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE in merito al recepimento del regolamento e della decisione relativi al sistema d’informazione visti (VIS) ([RU 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [FF 2009 3629](https://fedlex.data.admin.ch/eli/fga/2009/761)).
-[^109a-2]: Regolamento (CE) n. 767/2008 del Parlamento europeo e del Consiglio, del 9 lug. 2008, concernente il sistema di informazione visti (VIS) e lo scambio di dati tra Stati membri sui visti per soggiorni di breve durata (regolamento VIS), GU L 218 del 13.8.2008, pag. 60.
-[^109a-3]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° mar. 2015 ([RU 2015 533](https://fedlex.data.admin.ch/eli/oc/2015/75); [FF 2014 2935](https://fedlex.data.admin.ch/eli/fga/2014/708)).
-[^109a-4]: Nuovo testo giusta l’all. n. I 1 del DF del 26 set. 2014 (Recepimento del regolamento [UE] n. 604/2013 che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda di protezione internazionale), in vigore dal 1° lug. 2015 ([RU 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [FF 2014 2411](https://fedlex.data.admin.ch/eli/fga/2014/489)).
-[^109a-5]: Cfr. nota a piè di pagina relativa all’art. 64*a* cpv. 1.
-[^109a-6]: Nuovo testo giusta il n. I della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° apr. 2020 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^109a-7]: Decisione 2008/633/GAI del Consiglio, del 23 giu. 2008, relativa all’accesso per la consultazione al sistema di informazione visti (VIS) da parte delle autorità designate dagli Stati membri e di Europol ai fini della prevenzione, dell’individuazione e dell’investiga-zione di reati di terrorismo e altri reati gravi, GU L 218 del 13.8.2008, pag. 129.
+[^109a-2]: Regolamento (CE) n. 767/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008, concernente il sistema di informazione visti (VIS) e lo scambio di dati tra Stati membri sui visti per soggiorni di breve durata (regolamento VIS), GU L 218 del 13.8.2008, pag. 60; modificato da ultimo dal regolamento (UE) 2017/2226, GU L 327 del 9.12.2017, pag. 20.
+[^109a-3]: Nuovo testo giusta dall’all. del DF del 21 giu. 2019 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali per l’istituzione e l’uso del sistema di ingressi e uscite (EES) (regolamenti [UE] 2017/2226 e 2017/2225), in vigore dal 1° mag. 2022 ([RU 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [FF 2019 171](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+[^109a-4]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° mar. 2015 ([RU 2015 533](https://fedlex.data.admin.ch/eli/oc/2015/75); [FF 2014 2935](https://fedlex.data.admin.ch/eli/fga/2014/708)).
+[^109a-5]: Nuovo testo giusta l’all. n. I 1 del DF del 26 set. 2014 (Recepimento del regolamento [UE] n. 604/2013 che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda di protezione internazionale), in vigore dal 1° lug. 2015 ([RU 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [FF 2014 2411](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^109a-6]: Cfr. nota a piè di pagina relativa all’art. 64*a* cpv. 1.
+[^109a-7]: Nuovo testo giusta il n. I della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° apr. 2020 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^109a-8]: Decisione 2008/633/GAI del Consiglio, del 23 giu. 2008, relativa all’accesso per la consultazione al sistema di informazione visti (VIS) da parte delle autorità designate dagli Stati membri e di Europol ai fini della prevenzione, dell’individuazione e dell’investiga-zione di reati di terrorismo e altri reati gravi, GU L 218 del 13.8.2008, pag. 129.
 
 #### Art. 109b
 
@@ -3250,11 +3335,18 @@ Si può prescindere dal procedimento penale, dal rinvio a giudizio o dalla puniz
 
 #### Art. 120d
 
-**Trattamento indebito di dati personali dei sistemi d’informazione visti**[^120d-1]
+**Trattamento indebito di dati personali nei sistemi d’informazione della SEM**[^120d-1]
 
-Chi tratta dati personali del sistema nazionale visti o del C-VIS per uno scopo diverso da quelli di cui agli articoli 109*a*–109*d* è punito con la multa.
+<sup>1</sup> Ogni autorità competente assicura che il trattamento dei dati personali nei sistemi d’informazione della SEM sia proporzionato agli obiettivi perseguiti e si limiti a quanto necessario per l’adempimento dei propri compiti.
 
-[^120d-1]: Introdotto dal n. I della LF del 13 giu. 2008 (Complementi nel quadro della trasposizione degli accordi d’associazione alla normativa di Schengen e Dublino) ([RU 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756); [FF 2007 7149](https://fedlex.data.admin.ch/eli/fga/2007/1287)). Nuovo testo giusta l’art. 2 n. 1 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE in merito al recepimento del regolamento e della decisione relativi al sistema d’informazione visti (VIS), in vigore dal 20 gen. 2014 ([RU 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [FF 2009 3629](https://fedlex.data.admin.ch/eli/fga/2009/761)).
+<sup>2</sup>
+
+È punito con la multa chi tratta dati personali:
+
+- a. del sistema nazionale visti o del C-VIS per uno scopo diverso da quelli di cui agli articoli 109*a*–109*d*;
+- b. dell’EES per uno scopo diverso da quelli di cui all’articolo 103*c*.
+
+[^120d-1]: Introdotto dal n. I della LF del 13 giu. 2008 (Complementi nel quadro della trasposizione degli accordi d’associazione alla normativa di Schengen e Dublino) ([RU 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756); [FF 2007 7149](https://fedlex.data.admin.ch/eli/fga/2007/1287)). Nuovo testo giusta l’all. del DF del 21 giu. 2019 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali per l’istituzione e l’uso del sistema di ingressi e uscite (EES) (regolamenti [UE] 2017/2226 e 2017/2225), in vigore dal 1° mag. 2022 ([RU 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [FF 2019 171](https://fedlex.data.admin.ch/eli/fga/2019/11)).
 
 #### Art. 120e
 
