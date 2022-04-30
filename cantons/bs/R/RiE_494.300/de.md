@@ -1,63 +1,103 @@
 ---
 canton: BS
 number: RiE 494.300
-title: Reglement der Kommission für Bildende Kunst der Gemeinde Riehen
-short: Reglement Kunstkommission
+title: Reglement betreffend die Förderung der Bildenden Kunst durch die Gemeinde Riehen
+short: Reglement Bildende Kunst
 language: de
-version: 2019-04-01
-valid_until: 2022-04-30
-version_adopted: 2019-03-26
+version: 2022-05-01
+valid_until: 2025-12-31
+version_adopted: 2022-03-29
 adopted: 2022-03-29
 in_force: 2022-05-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20494.300"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4644/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5509/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement der Kommission für Bildende Kunst der Gemeinde Riehen
+# Reglement betreffend die Förderung der Bildenden Kunst durch die Gemeinde Riehen
 
-Kunstkommission: Reglement | Riehen: Einwohnergemeinde
+Bildende Kunst und Denkmalschutz
 
-(Reglement Kunstkommission)
+(Reglement Bildende Kunst)
 
-Vom 27. April 2010 (Stand 1. April 2019)
+Vom 29. März 2022 (Stand 1. Mai 2022)
 
-Der Gemeinderat Riehen
+Der Gemeinderat Riehen,
 
-erlässt gestützt auf die Gemeindeordnung der Einwohnergemeinde Riehen vom 27. Februar 2002[^ingress-1] nachstehendes Reglement:
+gestützt auf § 24 Abs. 3 lit. e der Gemeindeordnung der Einwohnergemeinde Riehen vom 27. Februar 2002[^ingress-1],
 
-[^ingress-1]: [RiE 111.100](https://www.gesetzessammlung.bs.ch/data/RiE%20111.100/de).
+beschliesst:
+
+[^ingress-1]: [RiE 111.100](https://www.gesetzessammlung.bs.ch/data/RiE%20111.100/de)
 
 #### § 1
 
 **Grundsatz**
 
-<sup>1</sup> Die Gemeinde Riehen ist bestrebt, durch Ausstellungen und Ankauf von Werken der Bildenden Kunst den Kontakt zwischen Öffentlichkeit und Künstlerinnen und Künstlern zu fördern, um so zu einem vertieften Verständnis auch gegenüber ungewohnten Erscheinungsformen des heutigen Kunstschaffens zu finden.
+<sup>1</sup> Die Gemeinde Riehen ist bestrebt, durch Ausstellungen und Ankauf von Werken der Bildenden Kunst den Kontakt zwischen Öffentlichkeit und Kunstschaffenden zu fördern, um so zu einem vertieften Verständnis auch gegenüber ungewohnten Erscheinungsformen des heutigen Kunstschaffens zu finden.
 
-<sup>2</sup> Der Kunst Raum Riehen in den ehemaligen Ökonomiegebäuden des Berowerguts steht den Kunstausstellungen der Gemeinde zur Verfügung.
+<sup>2</sup> Die Gemeinde vernetzt sich mit Institutionen und Kunstschaffenden im Bereich der Bildenden Kunst.
 
-<sup>3</sup> Zur Förderung von Künstlerinnen und Künstlern stellt die Gemeinde subventionierte Ateliers zur Verfügung.
+<sup>3</sup> Die Gemeinde dokumentiert und pflegt das reiche kulturhistorische Erbe und macht es der Öffentlichkeit bekannt.
 
 #### § 2
 
-**Kommission**
+**Kunst Raum Riehen**
 
-<sup>1</sup> Der Gemeinderat wählt auf seine eigene Amtsdauer eine Kommission für Bildende Kunst.
+<sup>1</sup> Der Kunst Raum Riehen in den ehemaligen Ökonomiegebäuden des Berowerguts steht den Kunstausstellungen der Gemeinde zur Verfügung.
+
+<sup>2</sup> Der Kunst Raum Riehen bietet eine Plattform für Kunstschaffende der Bildenden Kunst.
+
+<sup>3</sup> Er dient auch der Vermittlung und Bildung zu Themen der Bildenden Kunst.
 
 #### § 3
 
-**Mitglieder**
+**Kunstbesitz**
 
-<sup>1</sup> Die Kommission besteht aus einem Präsidium, einem Vizepräsidium und sechs bis acht Mitgliedern.
+<sup>1</sup> Der Kunstbesitz der Gemeinde dokumentiert das künstlerische Schaffen mit Bezug zur Gemeinde Riehen. Er dient der Repräsentation und Ausstattung ihrer Gebäude und der Gestaltung des öffentlichen Raumes.
 
-<sup>2</sup> Zwei Mitglieder sollen Künstlerinnen oder Künstler der Bildenden Kunst sein. Ihre Mitgliedschaft in der Kommission wird in der Regel auf vier Jahre begrenzt.
+<sup>2</sup> Die zuständige Verwaltungsabteilung pflegt und dokumentiert den Kunstbesitz.
+
+#### § 4
+
+**Förderung von Kunstschaffenden**
+
+<sup>1</sup> Zur Förderung von Kunstschaffenden stellt die Gemeinde subventionierte Ateliers zur Verfügung.
+
+#### § 5
+
+**Kommission für Bildende Kunst**
+
+<sup>1</sup> Der Gemeinderat wählt auf seine eigene Amtsdauer eine Kommission für Bildende Kunst.
+
+<sup>2</sup> Sie berät als Fachgremium den Gemeinderat und die zuständige Verwaltungsabteilung im Bereich der Bildenden Kunst.
+
+<sup>3</sup> Sie hat insbesondere folgende Aufgaben:
+
+- a) Beratung der Gemeinde in Sachen Bildende Kunst;
+- b) Förderung der Vernetzung der Gemeinde mit Kunstschaffenden und Institutionen der Region;
+- c) Beratung bei der Programmgestaltung des Kunst Raum Riehen;
+- d) Empfehlung für die Auswahl der Mietenden der subventionierten Künstlerateliers;
+- e) Unterbreitung von Vorschlägen für die Auftragserteilung an Kunstschaffende für Kunstprojekte der Gemeinde sowie Kunst- und Bauwettbewerbe;
+- f) Beratung bei Anfragen zur Übernahme von Nachlässen und Werkbeständen von Kunstschaffenden;
+- g) Empfehlung von Werkankäufen von regionalen Kunstschaffenden für den Kunstbesitz der Gemeinde Riehen.
+
+<sup>4</sup> Mitglieder der Kommission können für ausgewählte Ausstellungen die Kuratierung im Auftrag der Gemeinde übernehmen.
+
+#### § 6
+
+**Zusammensetzung der Kommission**
+
+<sup>1</sup> Die Kommission besteht aus einem Präsidium, einem Vizepräsidium und mindestens vier weiteren Mitgliedern.
+
+<sup>2</sup> Zwei Mitglieder sollen Kunstschaffende der Bildenden Kunst sein.
 
 <sup>3</sup> Das für die Kultur zuständige Mitglied des Gemeinderats steht der Kommission ex officio vor.
 
 <sup>4</sup> Die Leitung des Kunst Raum Riehen hat das Vizepräsidium ex officio. Sie hat ein Stimmrecht.
 
-#### § 4
+#### § 7
 
 **Organisation und Beschlussfähigkeit**
 
@@ -65,68 +105,22 @@ erlässt gestützt auf die Gemeindeordnung der Einwohnergemeinde Riehen vom 27. 
 
 <sup>2</sup> Bei Stimmengleichheit entscheidet das Präsidium.
 
-<sup>3</sup> Widerspricht ein Beschluss der Kommission den Vorgaben und Zielsetzungen der Gemeinde oder ist aufgrund einer Beschlussunfähigkeit der Kommission die Aufgabenerfüllung im Zusammenhang mit dem Kunst Raum gefährdet oder nicht möglich, leitet das Präsidium die notwendigen Schritte ein. In diesem Fall muss das Geschäft dem Gemeinderat zur Genehmigung vorgelegt werden.
-
-#### § 5
-
-<sup>1</sup> Nachrückende Mitglieder der Kommission werden vom Gemeinderat gewählt. Die Kommission hat ein Vorschlagsrecht.
-
-#### § 6
-
-**Aufgaben**
-
-<sup>1</sup> Die Kommission für Bildende Kunst nimmt folgende Aufgaben in Zusammenarbeit mit der Verwaltung wahr:
-
-- a) Kunst Raum Riehen: Programmgestaltung und Organisation von Ausstellungen und ergänzenden Veranstaltungen im Kunst Raum Riehen oder an anderen Orten, Jahresprogramm, Benennung der Kuratorinnen und Kuratoren;
-- b) Auswahl der Mieterinnen und Mieter der subventionierten Künstlerateliers;
-- c) Vorschlagsrecht für die Auftragserteilung an Künstlerinnen und Künstler für Kunstprojekte der Gemeinde und Überwachung der Ausführung;
-- d) Beratung betreffend Pflege, Ergänzung und Verwaltung des Kunstbesitzes;
-- e) Beratung des Gemeinderats in Belangen der bildenden Kunst.
-
-#### § 7
-
-**Kunst Raum Riehen**
-
-<sup>1</sup> Die Kommission erlässt ein Leitbild, welches vom Gemeinderat zu genehmigen ist.
-
-<sup>2</sup> Die Mitglieder der Kommission unterbreiten Vorschläge zur Kuratierung von Ausstellungen und Veranstaltungen. Die Kommission stimmt über die Vorschläge ab.
-
-<sup>3</sup> Die Leitung der zuständigen Verwaltungsabteilung kann Richtlinien für den Betrieb und die Nutzung des Kunst Raum Riehen erlassen.
-
-<sup>4</sup> Die Leitung des Kunst Raum Riehen ist zuständig für:
-
-- a) die Organisation, die Administration, die Einhaltung des Budgets und die Öffentlichkeitsarbeit für die Ausstellungen und ergänzenden Veranstaltungen in Zusammenarbeit mit den jeweiligen Kuratorinnen und Kuratoren;
-- b) den Abschluss der Verträge mit den von der Kommission für die einzelnen Ausstellungen bestimmten externen Kuratorinnen und Kuratoren;
-- c) den Abschluss von Verträgen mit Dritten im Zusammenhang mit den Ausstellungen und Veranstaltungen.
-
-<sup>5</sup> Kuratieren Mitglieder der Kommission einzelne Ausstellungen, erfüllen sie ihre Aufgaben im Rahmen der Budgetvorgaben und weiterer Vorgaben der Gemeinde. Sie erhalten für ihren Kuratierungsaufwand eine Pauschale.
-
 #### § 8
 
-**Subventionierte Ateliers**
+**Amtszeitbeschränkung und Nachrücken**
 
-<sup>1</sup> Die Leitung der zuständigen Verwaltungsabteilung erlässt Richtlinien für die Vermietung von subventionierten Künstlerateliers, welche vom Gemeinderat zu genehmigen sind.
+<sup>1</sup> Die Amtsdauer der Mitglieder beträgt maximal acht Jahre.
 
-#### § 8a
-
-**Kunstbesitz**
-
-<sup>1</sup> Der Kunstbesitz der Gemeinde dient der Repräsentation und Ausstattung ihrer Gebäude, der Gestaltung des öffentlichen Raumes sowie dokumentarischen Zwecken.
-
-<sup>2</sup> Die Leitung der zuständigen Verwaltungsabteilung erlässt Richtlinien für die Bewirtschaftung des Kunstbesitzes der Gemeinde, welche vom Gemeinderat zu genehmigen sind.
+<sup>2</sup> Nachrückende Mitglieder der Kommission werden vom Gemeinderat gewählt. Die Kommission hat ein Vorschlagsrecht.
 
 #### § 9
 
-**Schlussbestimmung**
+**Richtlinien**
 
-<sup>1</sup> Das Reglement der Kommission für Bildende Kunst der Gemeinde Riehen (Reglement Kunstkommission) vom 6. März 2007 wird aufgehoben.
+<sup>1</sup> Die Leitung der zuständigen Verwaltungsabteilung erlässt Richtlinien für die Nutzung und den Betrieb des Kunst Raum Riehen, die Bewirtschaftung des Kunstbesitzes der Gemeinde und die subventionierten Ateliers für Kunstschaffende, welche vom Gemeinderat zu genehmigen sind.
 
-#### § 10
+*Schlussbestimmung*
 
-**Publikation und Wirksamkeit**
+Dieses Reglement ist zu publizieren; es tritt am 1. Mai 2022 in Kraft. Auf den gleichen Zeitpunkt wird das Reglement der Kommission für Bildende Kunst der Gemeinde Riehen (Reglement Kunstkommission) vom 27. April 2010 aufgehoben.
 
-<sup>1</sup> Dieses Reglement wird publiziert; es wird sofort wirksam.[^10-1]
-
-[^10-1]: Wirksam seit 20. 5. 2010.
-
-KB 19.05.2010
+KB 02.04.2022
