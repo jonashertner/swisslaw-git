@@ -4,20 +4,20 @@ title: "Verordnung vom 25. November 2020 über Härtefallmassnahmen für Unterne
 short: HFMV 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: de
-version: 2022-04-01
+version: 2022-05-01
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2020-875-20220401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2020-875-20220501-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 
-(Covid-19-Härtefallverordnung 2020, HFMV 20)**[^t-1]**
+(Covid-19-Härtefallverordnung 2020, HFMV 20)[^t-1]
 
-vom 25. November 2020 (Stand am 1. April 2022)
+vom 25. November 2020 (Stand am 1. Mai 2022)
 
 [^t-1]: Fassung gemäss Art. 19 der Covid-19-Härtefallverordnung 2022 vom 2. Febr. 2022, in Kraft vom 8. Febr. 2022 bis zum 31. Dez. 2031 ([AS 2022 61](https://fedlex.data.admin.ch/eli/oc/2022/61)).
 
@@ -30,7 +30,7 @@ verordnet:
 [^ingress-1]: [SR 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2031 ([AS 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
-## 1. Abschnitt:**** …
+## 1. Abschnitt: …
 
 [^sec1-1]
 
@@ -38,7 +38,7 @@ verordnet:
 
 #### Art. 1
 
-## 2. Abschnitt:**** …
+## 2. Abschnitt: …
 
 [^sec2-1]
 
@@ -158,11 +158,9 @@ Der Bund beteiligt sich nur an den Kosten und Verlusten, die dem Kanton aus sein
 
 #### Art. 16
 
-**Vertrag**
+<sup>1 und <sup>2</sup></sup> …[^16-1]
 
-<sup>1</sup> und <sup>2</sup> …[^16-1]
-
-<sup>3</sup> Beansprucht ein Kanton Zusatzbeiträge nach Artikel 15, so schliesst er mit dem SECO bis spätestens am 30. April 2022 einen Vertragszusatz über deren Verwendung ab.[^16-2]
+<sup>3</sup> …[^16-2]
 
 [^16-1]: In Kraft bis zum 31. Dez. 2021 (Art. 23 Abs. 2).
 [^16-2]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. Okt. 2021 bis zum 30. April 2022 ([AS 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
@@ -213,7 +211,7 @@ Die Berichterstattung der Kantone über die geleisteten und die zugesicherten Un
 
 <sup>2</sup> Die Berichterstattung erfolgt über eine durch das SECO zur Verfügung gestellte Informatiklösung. Sie erfolgt bis am 31. Dezember 2021 monatlich, ab dem 1. Januar 2022 quartalsweise und ab dem 1. Juli 2022 halbjährlich.[^18-4]
 
-<sup>3</sup> und <sup>4</sup> …[^18-5]
+<sup>3 und <sup>4</sup></sup> …[^18-5]
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. April 2021 ([AS 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 [^18-2]: In Kraft bis zum 31. Dez. 2031 (Art. 23 Abs. 5).
@@ -280,6 +278,6 @@ Für die Berechnung der Deckung von Kapital und Reserven nach Artikel 725 Absatz
 [^23-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 [^23-2]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 [^t-2]: In Kraft bis zum 31. Dez. 2021 (Art. 23 Abs. 2).

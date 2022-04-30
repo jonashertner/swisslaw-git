@@ -4,20 +4,20 @@ title: "Ordonnance du 25 novembre 2020 concernant les mesures pour les cas de ri
 short: OMCR 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: fr
-version: 2022-04-01
+version: 2022-05-01
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2020-875-20220401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-2020-875-20220501-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant les mesures pour les cas de rigueur destinées aux entreprises en lien avec l’épidémie de COVID-19
 
-(Ordonnance COVID-19 cas de rigueur 2020, OMCR 20)**[^t-1]**
+(Ordonnance COVID-19 cas de rigueur 2020, OMCR 20)[^t-1]
 
-du 25 novembre 2020 (Etat le 1<sup>er</sup> avril 2022)
+du 25 novembre 2020 (État le 1<sup>er</sup> mai 2022)
 
 [^t-1]: Nouvelle teneur selon l’art. 19 de l’O COVID-19 cas de rigueur 2022 du 2 fév. 2022, en vigueur du 8 fév. 2022 au 31 déc. 2031 ([RO 2022 61](https://fedlex.data.admin.ch/eli/oc/2022/61)).
 
@@ -30,7 +30,7 @@ arrête:
 [^ingress-1]: [RS 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2031 ([RO 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
-## Section 1**** …
+## Section 1 …
 
 [^sec1-1]
 
@@ -38,7 +38,7 @@ arrête:
 
 #### Art. 1
 
-## Section 2**** …
+## Section 2 …
 
 [^sec2-1]
 
@@ -158,9 +158,9 @@ La Confédération participe uniquement aux coûts et aux pertes que les mesures
 
 #### Art. 16
 
-<sup>1</sup> et <sup>2</sup> …[^16-1]
+<sup>1 et <sup>2</sup></sup> …[^16-1]
 
-<sup>3</sup> Le canton qui sollicite des contributions supplémentaires au titre de l’art. 15 conclut un avenant relatif à leur utilisation avec le SECO au plus tard le 30 avril 2022.[^16-2]
+<sup>3</sup> …[^16-2]
 
 [^16-1]: En vigueur jusqu’au 31 déc. 2021 (art. 23, al. 2).
 [^16-2]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> oct. 2021 au 30 avr. 2022 ([RO 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
@@ -211,7 +211,7 @@ Les comptes rendus des cantons sur les mesures de soutien versées ou allouées 
 
 <sup>2</sup> Le compte rendu est établi au moyen d’une solution informatique mise à disposition par le SECO. Il est établi une fois par mois jusqu’au 31 décembre 2021, une fois par trimestre à partir du 1<sup>er</sup> janvier 2022 et une fois par semestre à partir du 1<sup>er</sup> juillet 2022.[^18-4]
 
-<sup>3</sup> et <sup>4</sup> …[^18-5]
+<sup>3 et <sup>4</sup></sup> …[^18-5]
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 [^18-2]: En vigueur jusqu’au 31 déc. 2031 (art. 23, al. 5).
@@ -278,6 +278,6 @@ Ne sont pas pris en compte comme capitaux de tiers pour le calcul de la couvertu
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 [^23-2]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 [^t-2]: En vigueur jusqu’au 31 déc. 2021 (art. 23, al. 2).
