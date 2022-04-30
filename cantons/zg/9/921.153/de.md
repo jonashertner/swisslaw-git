@@ -3,20 +3,19 @@ canton: ZG
 number: "921.153"
 title: Reglement über die Vergütungen für angeordnete Überwachungs- und Bekämpfungsmassnahmen von schädlichen Organismen
 language: de
-version: 2021-01-01
-valid_until: 2022-04-30
-version_adopted: 2021-02-23
+version: 2022-05-01
+version_adopted: 2022-06-25
 adopted: 2021-02-23
 in_force: 2021-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/921.153"
-pdf: "https://bgs.zg.ch/api/de/versions/2220/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2351/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Vergütungen für angeordnete Überwachungs- und Bekämpfungsmassnahmen von schädlichen Organismen
 
-Vom 23. Februar 2021 (Stand 1. Januar 2021)
+Vom 23. Februar 2021 (Stand 1. Mai 2022)
 
 Die Volkswirtschaftsdirektion des Kantons Zug,
 
@@ -107,7 +106,7 @@ beschliesst:
 
 <sup>2</sup> Diese Strategie wird mit dem kantonalen Pflanzenschutzdienst in einer vorgängig unterzeichneten Vereinbarung festgelegt.
 
-<sup>3</sup> Finanziell unterstützt wird der zeitliche Aufwand für die Bekämpfungsmethode (exkl. Büro und Verwaltung) sowie die Maschinenkosten (exkl. Spritzmittelprodukte) bis maximal Fr. 5000.– pro ha.
+<sup>3</sup> Finanziell unterstützt wird der zeitliche Aufwand für die Bekämpfungsmethode (exkl. Büro und Verwaltung) sowie die Maschinenkosten (exkl. Spritzmittelprodukte) bis maximal Fr. 10 000.– pro ha.
 
 #### § 6
 
@@ -118,6 +117,7 @@ beschliesst:
 - a) Arbeitskosten pro Stunde: Fr. 32.–
 - b) Fahrkosten pro Kilometer (PKW): Fr. 0.70
 - c) Maschinen, Geräte: Tarife der Forschungsanstalt Agroscope FAT Tänikon
+- d) weitere Kosten: gemäss Bekämpfungsstrategie.
 
 #### § 7
 
