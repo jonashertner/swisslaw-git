@@ -4,11 +4,11 @@ title: "Ordinanza del DFAE del 13 novembre 2002 concernente l'ordinanza sui docu
 short: O-ODI-DFAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/664"
 language: it
-version: 2012-03-01
+version: 2022-05-01
 adopted: 2002-11-13
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/664/20120301/it/xml/fedlex-data-admin-ch-eli-cc-2002-664-20120301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/664/20120301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/664/20220501/it/xml/fedlex-data-admin-ch-eli-cc-2002-664-20220501-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/664/20220501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/664/20120301/it"
 
 (O-ODI-DFAE)
 
-del 13 novembre 2002 (Stato 1° marzo 2012) (Stato 1° marzo 2012)
+del 13 novembre 2002 (Stato 1° maggio 2022)
 
 Il Dipartimento federale degli affari esteri (DFAE),
 
@@ -98,36 +98,40 @@ Essa può derogare, in via eccezionale, alle disposizioni della presente ordinan
 
 **Impiegati del DFAE**
 
-Un passaporto diplomatico può essere rilasciato e consegnato durante il rapporto d’impiego per una durata illimitata:
+Un passaporto diplomatico può essere rilasciato e consegnato per la durata del rapporto d’impiego:[^6-1]
 
-- a.[^6-1] agli impiegati del DFAE soggetti all’obbligo di trasferimento;
+- a.[^6-2] agli impiegati del DFAE soggetti all’obbligo di trasferimento;
 - b. agli altri impiegati del DFAE che adempiono funzioni intese a tutelare gli interessi diplomatici e consolari;
 - c. agli altri impiegati del DFAE occupati all’estero o incaricati di una missione all’estero, sempreché sia necessario per importanti ragioni di servizio o di altra natura e sia stato autorizzato dalla Direzione dopo aver sentito la divisione politica competente nel caso singolo oppure per determinati luoghi di lavoro in generale;
-- d.[^6-2] agli altri impiegati del DFAE, sempre che esercitino una funzione corrispondente alle classi di salario 18 e superiori e che sia necessario per importanti ragioni di servizio o di altra natura.
+- d.[^6-3] agli altri impiegati del DFAE, sempre che esercitino una funzione corrispondente alle classi di salario 18 e superiori e che sia necessario per importanti ragioni di servizio o di altra natura.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del DFAE del 31 gen. 2012, in vigore dal 1° mar. 2012 ([RU 2012 697](https://fedlex.data.admin.ch/eli/oc/2012/104)).
-[^6-2]: Introdotta dal n. I dell’O del DFAE del 22 feb. 2007, in vigore dal 1° apr. 2007 ([RU 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)).
+[^6-1]: Nuovo testo giusta il n. I dell’O del DFAE del 17 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
+[^6-2]: Nuovo testo giusta il n. I dell’O del DFAE del 31 gen. 2012, in vigore dal 1° mar. 2012 ([RU 2012 697](https://fedlex.data.admin.ch/eli/oc/2012/104)).
+[^6-3]: Introdotta dal n. I dell’O del DFAE del 22 feb. 2007, in vigore dal 1° apr. 2007 ([RU 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)).
 
 #### Art. 7
 
 **Impiegati di altri Dipartimenti**
 
-Un passaporto diplomatico può essere rilasciato e consegnato durante il rapporto d’impiego per una durata illimitata:
+Un passaporto diplomatico può essere rilasciato e consegnato per la durata del rapporto d’impiego:[^7-1]
 
 - a. agli impiegati degli altri Dipartimenti occupati all’estero che sono distaccati presso il DFAE e adempiono funzioni intese a tutelare gli interessi diplomatici o consolari;
 - b. agli impiegati degli altri Dipartimenti aventi rango di segretario di Stato, ambasciatore o ministro;
-- c.[^7-1] ai direttori degli uffici federali.
+- c.[^7-2] ai direttori degli uffici federali.
 
-[^7-1]: Introdotta dal n. I dell’O del DFAE del 22 feb. 2007, in vigore dal 1° apr. 2007 ([RU 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)).
+[^7-1]: Nuovo testo giusta il n. I dell’O del DFAE del 17 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
+[^7-2]: Introdotta dal n. I dell’O del DFAE del 22 feb. 2007, in vigore dal 1° apr. 2007 ([RU 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)).
 
 #### Art. 8
 
 **Magistrati della Confederazione**
 
-Un passaporto diplomatico è rilasciato e consegnato per una durata illimitata:
+Un passaporto diplomatico è rilasciato e consegnato:[^8-1]
 
 - a. ai consiglieri federali in carica o in pensione;
 - b. al cancelliere in carica e ai cancellieri in pensione.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del DFAE del 17 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
 
 #### Art. 9
 
@@ -150,7 +154,12 @@ Un passaporto diplomatico può essere rilasciato e consegnato per la durata del 
 - m. al presidente del Comitato internazionale della Croce Rossa (CICR) e ai membri e delegati della CICR nella categoria fuori classe I;
 - n. ai collaboratori della CICR nella categoria fuori classe II;
 - o. agli altri collaboratori e delegati della CICR, purché necessario per motivi di sicurezza o per altri motivi importanti;
-- p. al presidente e al medico capo della Croce Rossa svizzera.
+- p. al presidente e al medico capo della Croce Rossa svizzera;
+- q.[^9-1] al presidente, al vicepresidente e al terzo membro della Direzione generale della Banca nazionale svizzera;
+- r.[^9-2] al presidente della Commissione svizzera per l’UNESCO.
+
+[^9-1]: Introdotta dal n. I dell’O del DFAE del 17 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
+[^9-2]: Introdotta dal n. I dell’O del DFAE del 17 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
 
 ### Sezione 2: Passaporto di servizio
 
@@ -158,18 +167,21 @@ Un passaporto diplomatico può essere rilasciato e consegnato per la durata del 
 
 **Impiegati del DFAE**
 
-Un passaporto di servizio può essere rilasciato e consegnato durante il rapporto d’impiego per una durata illimitata:
+Un passaporto di servizio può essere rilasciato e consegnato per la durata del rapporto d’impiego:[^10-1]
 
-- a.[^10-1] agli impiegati del DFAE, se la loro funzione lo richiede per motivi importanti;
+- a.[^10-2] agli impiegati del DFAE, se la loro funzione lo richiede per motivi importanti;
 - b. ai membri onorari ai quali la Direzione ha conferito un titolo consolare.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del DFAE del 31 gen. 2012, in vigore dal 1° mar. 2012 ([RU 2012 697](https://fedlex.data.admin.ch/eli/oc/2012/104)).
+[^10-1]: Nuovo testo giusta il n. I dell’O del DFAE del 17 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
+[^10-2]: Nuovo testo giusta il n. I dell’O del DFAE del 31 gen. 2012, in vigore dal 1° mar. 2012 ([RU 2012 697](https://fedlex.data.admin.ch/eli/oc/2012/104)).
 
 #### Art. 11
 
-**Impiegati di altri Dipartimenti**
+**Impiegati di altri Dipartimenti**[^11-1]
 
-Un passaporto di servizio può essere rilasciato e consegnato durante il rapporto d’impiego per una durata illimitata agli impiegati degli altri Dipartimenti occupati all’estero, sempreché questi siano distaccati presso il DFAE e non ricevano un passaporto diplomatico.
+Un passaporto di servizio può essere rilasciato e consegnato per la durata del rapporto d’impiego agli impiegati degli altri Dipartimenti occupati all’estero, sempreché questi siano distaccati presso il DFAE e non ricevano un passaporto diplomatico.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del DFAE del 17 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
 
 #### Art. 12
 
@@ -179,9 +191,11 @@ Un passaporto di servizio può essere rilasciato e consegnato per la durata dell
 
 - a. alle persone incaricate dal Consiglio federale o dal capo del DFAE di adempiere una missione temporanea all’estero che non si svolge presso un governo straniero, un’organizzazione internazionale o una conferenza internazionale;
 - b. ai delegati della Croce Rossa svizzera per i loro impieghi all’estero;
-- c. al presidente, al direttore, ai sostituti-direttori e agli impiegati in servizio esterno dell’Ufficio svizzero per l’espansione commerciale (OSEC);
+- c.[^12-1] al presidente della Direzione e agli impiegati in servizio esterno di Switzerland Global Enterprise;
 - d. al presidente, al vicepresidente e al direttore della fondazione Pro Helvetia come pure ai capi delle agenzie estere della fondazione Pro Helvetia;
 - e. al presidente e al direttore di Svizzera Turismo, ai capi delle agenzie estere di Svizzera Turismo come pure agli impiegati di queste agenzie.
+
+[^12-1]: Nuovo testo giusta il n. I dell’O del DFAE del 17 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
 
 ### Sezione 3: Passaporti per congiunti
 
@@ -189,20 +203,23 @@ Un passaporto di servizio può essere rilasciato e consegnato per la durata dell
 
 **Passaporto diplomatico**[^13-1]
 
-Un passaporto diplomatico può essere rilasciato e consegnato per una durata illimitata:
+Un passaporto diplomatico può essere rilasciato e consegnato:[^13-2]
 
-- a. al coniuge o al partner registrato del titolare del passaporto secondo gli articoli 6, 7 lettere a–b e 8;
-- b. al partner del titolare del passaporto secondo gli articoli 6 lettere a–c e 7 lettera a per la durata dell’impiego all’estero del titolare del passaporto;
+- a.[^13-3] al coniuge o al partner registrato del titolare del passaporto secondo gli articoli 6, 7 lettera a e 8;
+- b.[^13-4] al partner del titolare del passaporto secondo gli articoli 6 lettere a–c e 7 lettera a;
 - c. ai figli del titolare del passaporto secondo gli articoli 6 lettere a–c, 7 lettera a e 8 fino al compimento del 18° anno di età;
 - d. ai figli in formazione del titolare del passaporto secondo gli articoli 6 lettere a–c e 7 lettera a aventi un’età compresa tra 18 e 25 anni, a scopo di visita o viaggi in comune, per la durata dell’impiego all’estero del titolare del passaporto.
 
 [^13-1]: Nuovo testo giusta il n. I dell’O del DFAE del 22 feb. 2007, in vigore dal 1° apr. 2007 ([RU 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)).
+[^13-2]: Nuovo testo giusta il n. I dell’O del DFAE del 17 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
+[^13-3]: Nuovo testo giusta il n. I dell’O del DFAE del 17 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
+[^13-4]: Nuovo testo giusta il n. I dell’O del DFAE del 17 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
 
 #### Art. 14
 
 **Passaporto di servizio**[^14-1]
 
-Un passaporto di servizio può essere rilasciato e consegnato per una durata illimitata:
+Un passaporto di servizio può essere rilasciato e consegnato:[^14-2]
 
 - a. al coniuge o al partner registrato del titolare del passaporto secondo gli articoli 10 lettera a e 11;
 - b. al partner del titolare del passaporto secondo gli articoli 10 lettera a e 11 per la durata dell’impiego all’estero del titolare del passaporto;
@@ -210,6 +227,7 @@ Un passaporto di servizio può essere rilasciato e consegnato per una durata ill
 - d. ai figli in formazione del titolare del passaporto secondo gli articoli 10 lettera a e 11 aventi un’età compresa tra 18 e 25 anni, a scopo di visita o viaggi in comune, per la durata dell’impiego all’estero del titolare del passaporto.
 
 [^14-1]: Nuovo testo giusta il n. I dell’O del DFAE del 22 feb. 2007, in vigore dal 1° apr. 2007 ([RU 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)).
+[^14-2]: Nuovo testo giusta il n. I dell’O del DFAE del 17 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
 
 #### Art. 15
 
@@ -328,7 +346,14 @@ Nei passaporti diplomatici e di servizio possono essere iscritti, oltre ai dati 
 
 **Deposito dei passaporti diplomatici e di servizio**
 
-Il titolare di un passaporto diplomatico o di servizio deve depositarlo presso la Direzione quando fa domanda per ottenere un passaporto svizzero ordinario.
+<sup>1</sup> Il titolare di un passaporto diplomatico o di servizio deve depositarlo presso la Direzione quando fa domanda per ottenere un passaporto svizzero ordinario.
+
+<sup>2</sup> Il coniuge, il partner registrato o il partner del titolare del passaporto non possono utilizzare il proprio passaporto diplomatico o di servizio per viaggi professionali. Devono depositare il proprio passaporto diplomatico o di servizio presso la Direzione o una rappresentanza svizzera all’estero.[^25-1]
+
+<sup>3</sup> I figli e i figli in formazione del titolare del passaporto che non vivono nella sua stessa economia domestica possono utilizzare il proprio passaporto diplomatico o di servizio soltanto a scopo di visita al titolare del passaporto o di viaggi in comune con lui; prima e dopo il viaggio devono depositare il proprio passaporto diplomatico o di servizio presso la Direzione o una rappresentanza svizzera all’estero.[^25-2]
+
+[^25-1]: Introdotto dal n. I dell’O del DFAE del 17 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
+[^25-2]: Introdotto dal n. I dell’O del DFAE del 17 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
 
 #### Art. 26
 

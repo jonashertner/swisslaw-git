@@ -4,11 +4,11 @@ title: Verordnung des EDA vom 13. November 2002 zur Ausweisverordnung (VVAwG)
 short: VVAwG
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/664"
 language: de
-version: 2012-03-01
+version: 2022-05-01
 adopted: 2002-11-13
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/664/20120301/de/xml/fedlex-data-admin-ch-eli-cc-2002-664-20120301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/664/20120301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/664/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2002-664-20220501-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/664/20220501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/664/20120301/de"
 
 (VVAwG)
 
-vom 13. November 2002 (Stand am 1. März 2012)
+vom 13. November 2002 (Stand am 1. Mai 2022)
 
 Das Eidgenössische Departement für auswärtige Angelegenheiten (EDA),
 
@@ -98,36 +98,40 @@ Sie kann ausnahmsweise von den Bestimmungen dieser Verordnung abweichen:
 
 **Angestellte des EDA**
 
-Ein Diplomatenpass kann ausgestellt und während der Dauer des Anstellungsverhältnisses unbefristet überlassen werden:
+Ein Diplomatenpass kann ausgestellt und während der Dauer des Anstellungsverhältnisses überlassen werden:[^6-1]
 
-- a.[^6-1] den Angestellten des EDA, die der Versetzungspflicht unterstehen;
+- a.[^6-2] den Angestellten des EDA, die der Versetzungspflicht unterstehen;
 - b. den anderen Angestellten des EDA, welche Funktionen der diplomatischen oder konsularischen Interessenwahrung erfüllen;
 - c. den anderen im Ausland eingesetzten oder mit einer Auslandmission betrauten Angestellten des EDA, sofern dies aus wichtigen dienstlichen oder anderen Gründen notwendig und von der Direktion nach Anhörung der zuständigen politischen Abteilung im Einzelfall oder für bestimmte Arbeitsorte generell bewilligt worden ist;
-- d.[^6-2] den weiteren Angestellten des EDA, sofern sie in einer Funktion tätig sind, welche den Lohnklassen 18 und höher entspricht und dies aus wichtigen dienstlichen oder anderen Gründen notwendig ist.
+- d.[^6-3] den weiteren Angestellten des EDA, sofern sie in einer Funktion tätig sind, welche den Lohnklassen 18 und höher entspricht und dies aus wichtigen dienstlichen oder anderen Gründen notwendig ist.
 
-[^6-1]: Fassung gemäss Ziff. I der V des EDA vom 31. Jan. 2012, in Kraft seit 1. März 2012 ([AS 2012 697](https://fedlex.data.admin.ch/eli/oc/2012/104)).
-[^6-2]: Eingefügt durch Ziff. I der V des EDA vom 22. Febr. 2007, in Kraft seit 1. April 2007 ([AS 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)).
+[^6-1]: Fassung gemäss Ziff. I der V des EDA vom 17. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
+[^6-2]: Fassung gemäss Ziff. I der V des EDA vom 31. Jan. 2012, in Kraft seit 1. März 2012 ([AS 2012 697](https://fedlex.data.admin.ch/eli/oc/2012/104)).
+[^6-3]: Eingefügt durch Ziff. I der V des EDA vom 22. Febr. 2007, in Kraft seit 1. April 2007 ([AS 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)).
 
 #### Art. 7
 
 **Angestellte anderer Departemente**
 
-Ein Diplomatenpass kann ausgestellt und während der Dauer des Anstellungsverhältnisses unbefristet überlassen werden:
+Ein Diplomatenpass kann ausgestellt und während der Dauer des Anstellungsverhältnisses überlassen werden:[^7-1]
 
 - a. den im Ausland eingesetzten Angestellten der anderen Departemente, die ins EDA detachiert sind und Funktionen der diplomatischen oder konsularischen Interessenwahrung erfüllen;
 - b. den Angestellten der anderen Departemente im Rang einer Staatssekretärin oder eines Staatssekretärs, einer Botschafterin oder eines Botschafters oder einer Ministerin oder eines Ministers;
-- c.[^7-1] den Direktorinnen oder Direktoren der Bundesämter.
+- c.[^7-2] den Direktorinnen oder Direktoren der Bundesämter.
 
-[^7-1]: Eingefügt durch Ziff. I der V des EDA vom 22. Febr. 2007, in Kraft seit 1. April 2007 ([AS 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)).
+[^7-1]: Fassung gemäss Ziff. I der V des EDA vom 17. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
+[^7-2]: Eingefügt durch Ziff. I der V des EDA vom 22. Febr. 2007, in Kraft seit 1. April 2007 ([AS 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)).
 
 #### Art. 8
 
 **Magistratspersonen des Bundes**
 
-Ein Diplomatenpass wird ausgestellt und unbefristet überlassen:
+Ein Diplomatenpass wird ausgestellt und überlassen:[^8-1]
 
 - a. den Bundesrätinnen und Bundesräten im Amt und im Ruhestand;
 - b. der Bundeskanzlerin oder dem Bundeskanzler im Amt und im Ruhestand.
+
+[^8-1]: Fassung gemäss Ziff. I der V des EDA vom 17. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
 
 #### Art. 9
 
@@ -150,7 +154,12 @@ Ein Diplomatenpass kann ausgestellt und für die Dauer des Mandats, des Amtes, d
 - m. der Präsidentin oder dem Präsidenten des Internationalen Komitees des Roten Kreuzes (IKRK) und den Mitgliedern und Delegierten des IKRK in der Kategorie Überklasse I;
 - n. den Mitarbeiterinnen und Mitarbeitern des IKRK der Kategorie Über- klasse II;
 - o. den übrigen Mitarbeiterinnen und Mitarbeitern sowie Delegierten des IKRK, sofern dies aus Sicherheits- oder anderen wichtigen Gründen erforderlich ist;
-- p. der Präsidentin oder dem Präsidenten und der Chefärztin oder dem Chefarzt des Schweizerischen Roten Kreuzes.
+- p. der Präsidentin oder dem Präsidenten und der Chefärztin oder dem Chefarzt des Schweizerischen Roten Kreuzes;
+- q.[^9-1] der Präsidentin oder dem Präsidenten, der Vizepräsidentin oder dem Vizepräsidenten sowie dem dritten Mitglied des Direktoriums der Schweizerischen Nationalbank;
+- r.[^9-2] der Präsidentin oder dem Präsidenten der Schweizerischen UNESCO-Kommission.
+
+[^9-1]: Eingefügt durch Ziff. I der V des EDA vom 17. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
+[^9-2]: Eingefügt durch Ziff. I der V des EDA vom 17. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
 
 ### 2. Abschnitt: Dienstpass
 
@@ -158,18 +167,20 @@ Ein Diplomatenpass kann ausgestellt und für die Dauer des Mandats, des Amtes, d
 
 **Angestellte des EDA**
 
-Ein Dienstpass kann ausgestellt und während der Dauer des Anstellungsverhältnisses unbefristet überlassen werden:
+Ein Dienstpass kann ausgestellt und während der Dauer des Anstellungsverhältnisses überlassen werden:[^10-1]
 
-- a.[^10-1] den Angestellten des EDA, sofern sie in einer Funktion tätig sind, welche dies aus wichtigen Gründen notwendig macht;
+- a. den Angestellten des EDA, sofern sie in einer Funktion tätig sind, welche dies aus wichtigen Gründen notwendig macht;
 - b. den Honorarvertreterinnen und Honorarvertretern, denen von der Direktion ein konsularischer Titel verliehen wurde.
 
-[^10-1]: Fassung gemäss Ziff. I der V des EDA vom 31. Jan. 2012, in Kraft seit 1. März 2012 ([AS 2012 697](https://fedlex.data.admin.ch/eli/oc/2012/104)).
+[^10-1]: Fassung gemäss Ziff. I der V des EDA vom 17. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
 
 #### Art. 11
 
-**Angestellte anderer Departemente**
+**Angestellte anderer Departemente**[^11-1]
 
-Den im Ausland eingesetzten Angestellten der anderen Departemente kann ein Dienstpass ausgestellt und während der Dauer des Anstellungsverhältnisses unbefristet überlassen werden, sofern diese ins EDA detachiert sind und keinen Diplomatenpass ausgestellt erhalten.
+Den im Ausland eingesetzten Angestellten der anderen Departemente kann ein Dienstpass ausgestellt und während der Dauer des Anstellungsverhältnisses überlassen werden, sofern diese ins EDA detachiert sind und keinen Diplomatenpass ausgestellt erhalten.
+
+[^11-1]: Fassung gemäss Ziff. I der V des EDA vom 17. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
 
 #### Art. 12
 
@@ -179,9 +190,11 @@ Ein Dienstpass kann ausgestellt und für die Dauer der offiziellen Mission im Au
 
 - a. den Personen, die vom Bundesrat oder von der Vorsteherin oder dem Vorsteher des EDA mit einer zeitlich befristeten Mission im Ausland beauftragt worden sind, die nicht bei einer ausländischen Regierung, einer internationalen Organisation oder einer internationalen Konferenz erfolgt;
 - b. den Delegierten des Schweizerischen Roten Kreuzes für ihre Einsätze im Ausland;
-- c. der Präsidentin oder dem Präsidenten, der Direktorin oder dem Direktor, den stellvertretenden Direktorinnen oder den stellvertretenden Direktoren sowie den Angestellten im Aussendienst der Schweizerischen Zentrale für Handelsförderung (OSEC);
+- c.[^12-1] der oder dem Vorsitzenden der Geschäftsleitung sowie den Angestellten im Aussendienst von Switzerland Global Enterprise
 - d. der Präsidentin oder dem Präsidenten, der Vizepräsidentin oder dem Vizepräsidenten und der Direktorin oder dem Direktor der Stiftung Pro Helvetia sowie den Leiterinnen und Leitern der ausländischen Agenturen der Stiftung Pro Helvetia;
 - e. der Präsidentin oder dem Präsidenten und der Direktorin oder dem Direktor von Schweiz Tourismus, den Leiterinnen und Leitern der ausländischen Agenturen von Schweiz Tourismus sowie den von diesen Agenturen Angestellten.
+
+[^12-1]: Fassung gemäss Ziff. I der V des EDA vom 17. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
 
 ### 3. Abschnitt: Pässe für Angehörige
 
@@ -189,20 +202,23 @@ Ein Dienstpass kann ausgestellt und für die Dauer der offiziellen Mission im Au
 
 **Diplomatenpass**[^13-1]
 
-Ein Diplomatenpass kann ausgestellt und unbefristet überlassen werden:
+Ein Diplomatenpass kann ausgestellt und überlassen werden:[^13-2]
 
-- a. der Ehepartnerin oder dem Ehepartner der Passinhaberin oder des Passinhabers oder der eingetragenen Partnerin oder dem eingetragenen Partner der Passinhaberin oder des Passinhabers nach den Artikeln 6, 7 Buchstaben a und b sowie Artikel 8;
-- b. der Lebenspartnerin oder dem Lebenspartner der Passinhaberin oder des Passinhabers nach den Artikeln 6 Buchstaben a–c und 7 Buchstabe a für die Dauer des Einsatzes der Passinhaberin oder des Passinhabers im Ausland;
+- a.[^13-3] der Ehepartnerin oder dem Ehepartner der Passinhaberin oder des Passinhabers oder der eingetragenen Partnerin oder dem eingetragenen Partner der Passinhaberin oder des Passinhabers nach den Artikeln 6, 7 Buchstabe a sowie Artikel 8;
+- b.[^13-4] der Lebenspartnerin oder dem Lebenspartner der Passinhaberin oder des Passinhabers nach den Artikeln 6 Buchstaben a–c und 7 Buchstabe a;
 - c. den Kindern der Passinhaberin oder des Passinhabers nach den Artikeln 6 Buchstaben a–c und 7 Buchstabe a sowie Artikel 8 bis zur Erreichung des 18. Altersjahres;
 - d. den in Ausbildung stehenden Kindern der Passinhaberin oder des Passinhabers nach den Artikeln 6 Buchstaben a–c und 7 Buchstabe a zwischen dem 18. und 25. Altersjahr während der Dauer des Einsatzes der Passinhaberin oder des Passinhabers im Ausland für Besuchsreisen oder gemeinsame Reisen.
 
 [^13-1]: Fassung gemäss Ziff. I der V des EDA vom 22. Febr. 2007, in Kraft seit 1. April 2007 ([AS 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)).
+[^13-2]: Fassung gemäss Ziff. I der V des EDA vom 17. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
+[^13-3]: Fassung gemäss Ziff. I der V des EDA vom 17. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
+[^13-4]: Fassung gemäss Ziff. I der V des EDA vom 17. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
 
 #### Art. 14
 
 **Dienstpass**[^14-1]
 
-Ein Dienstpass kann ausgestellt und unbefristet überlassen werden:
+Ein Dienstpass kann ausgestellt und überlassen werden:[^14-2]
 
 - a. der Ehepartnerin oder dem Ehepartner der Passinhaberin oder des Passinhabers oder der eingetragenen Partnerin oder dem eingetragenen Partner der Passinhaberin oder des Passinhabers nach den Artikeln 10 Buchstabe a und 11;
 - b. der Lebenspartnerin oder dem Lebenspartner der Passinhaberin oder des Passinhabers nach den Artikeln 10 Buchstabe a und 11 für die Dauer des Einsatzes der Passinhaberin oder des Passinhabers im Ausland;
@@ -210,6 +226,7 @@ Ein Dienstpass kann ausgestellt und unbefristet überlassen werden:
 - d. den in Ausbildung stehenden Kindern der Passinhaberin oder des Passinhabers nach den Artikeln 10 Buchstabe a und 11 zwischen dem 18. und 25. Altersjahr während der Dauer des Einsatzes der Passinhaberin oder des Passinhabers im Ausland für Besuchsreisen oder gemeinsame Reisen.
 
 [^14-1]: Fassung gemäss Ziff. I der V des EDA vom 22. Febr. 2007, in Kraft seit 1. April 2007 ([AS 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)).
+[^14-2]: Fassung gemäss Ziff. I der V des EDA vom 17. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
 
 #### Art. 15
 
@@ -223,7 +240,8 @@ Eine eheähnliche Lebensgemeinschaft liegt vor, wenn:
 
 - a. die Lebenspartnerin oder der Lebenspartner und die Passinhaberin oder der Passinhaber im gemeinsamen Haushalt leben; und
 - b. die Lebenspartnerin oder der Lebenspartner mit der Passinhaberin oder dem Passinhaber einen Einsatz im Ausland mitmacht.
-- [tab] <sup>3</sup> Die Lebenspartnerin oder der Lebenspartner muss, wenn sie oder er einen Diplomaten- oder Dienstpass erhalten will, der Direktion eine schriftliche Erklärung über das Bestehen und die bisherige Dauer der eheähnlichen Gemeinschaft abgeben.
+
+<sup>3</sup> Die Lebenspartnerin oder der Lebenspartner muss, wenn sie oder er einen Diplomaten- oder Dienstpass erhalten will, der Direktion eine schriftliche Erklärung über das Bestehen und die bisherige Dauer der eheähnlichen Gemeinschaft abgeben.
 
 ### 4. Abschnitt: Ausnahmen von der zeitlich befristeten Überlassung der Pässe
 
@@ -325,7 +343,14 @@ In den Diplomaten- und Dienstpässen können zusätzlich zu den Angaben nach Art
 
 **Hinterlegung der Diplomaten- und Dienstpässe**
 
-Die Inhaberin oder der Inhaber eines Diplomaten- oder Dienstpasses hat diesen bei der Direktion zu hinterlegen, wenn sie oder er einen gewöhnlichen Schweizer Pass beantragt.
+<sup>1</sup> Die Inhaberin oder der Inhaber eines Diplomaten- oder Dienstpasses hat diesen bei der Direktion zu hinterlegen, wenn sie oder er einen gewöhnlichen Schweizer Pass beantragt.
+
+<sup>2</sup> Ehepartnerinnen oder Ehepartner, eingetragene Partnerinnen oder eingetragene Partner sowie Lebenspartnerinnen oder Lebenspartner der Passinhaberin oder des Passinhabers dürfen ihren Diplomaten- oder Dienstpass nicht für die geschäftliche Reisetätigkeit nutzen. Sie müssen ihren Diplomaten- oder Dienstpass bei der Direktion oder bei einer schweizerischen Vertretung im Ausland hinterlegen.[^25-1]
+
+<sup>3</sup> Kinder und in Ausbildung stehende Kinder der Passinhaberin oder des Passinhabers, die nicht im gleichen Haushalt wie die Passinhaberin oder der Passinhaber leben, dürfen ihren Diplomaten- oder Dienstpass nur für Besuchsreisen zur Passinhaberin oder zum Passinhaber oder für gemeinsame Reisen mit der Passinhaberin oder dem Passinhaber verwenden; vor und nach der Reise müssen sie ihren Diplomaten- oder Dienstpass bei der Direktion oder bei einer schweizerischen Vertretung im Ausland hinterlegen.[^25-2]
+
+[^25-1]: Eingefügt durch Ziff. I der V des EDA vom 17. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
+[^25-2]: Eingefügt durch Ziff. I der V des EDA vom 17. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
 
 #### Art. 26
 

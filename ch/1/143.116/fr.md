@@ -4,11 +4,11 @@ title: "Ordonnance du DFAE du 13 novembre 2002 concernant l'ordonnance sur les d
 short: OOLDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/664"
 language: fr
-version: 2012-03-01
+version: 2022-05-01
 adopted: 2002-11-13
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/664/20120301/fr/xml/fedlex-data-admin-ch-eli-cc-2002-664-20120301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/664/20120301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/664/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-2002-664-20220501-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/664/20220501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/664/20120301/fr"
 
 (OOLDI)
 
-du 13 novembre 2002 (Etat le 1<sup>er</sup> mars 2012)
+du 13 novembre 2002 (Etat le 1<sup>er</sup> mai 2022)
 
 Le Département fédéral des affaires étrangères (DFAE),
 
@@ -40,7 +40,7 @@ arrête:
 Les passeports diplomatiques et les passeports de service servent exclusivement à:
 
 - a. faciliter le passage des frontières;
-- b. être admis dans l’Etat accréditaire.
+- b. être admis dans l’État accréditaire.
 
 <sup>3</sup> Ils ne donnent droit à aucun privilège diplomatique ou consulaire.
 
@@ -48,7 +48,7 @@ Les passeports diplomatiques et les passeports de service servent exclusivement 
 
 #### Art. 2
 
-**Passeports ordinaires et provisoires [^2-1]**
+**Passeports ordinaires et provisoires[^2-1]**
 
 <sup>1</sup> Un passeport diplomatique ou un passeport de service ordinaire est délivré pour la durée du mandat, de la charge, de la fonction ou d’une mission.
 
@@ -115,7 +115,7 @@ Un passeport diplomatique peut être délivré et remis pour toute la durée des
 Un passeport diplomatique peut être délivré et remis pour toute la durée des rapports de service:
 
 - a. aux employés des autres départements affectés à l’étranger qui sont détachés auprès du DFAE et assument des fonctions de défense des intérêts diplomatiques ou consulaires;
-- b. aux employés des autres départements ayant le rang de Secrétaire d’Etat, d’ambassadeur ou de ministre;
+- b. aux employés des autres départements ayant le rang de Secrétaire d’État, d’ambassadeur ou de ministre;
 - c.[^7-1] aux directeurs des offices fédéraux.
 
 [^7-1]: Introduite par le ch. I de l’O du DFAE du 22 fév. 2007, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)).
@@ -124,10 +124,12 @@ Un passeport diplomatique peut être délivré et remis pour toute la durée des
 
 **Magistrats de la Confédération**
 
-Un passeport diplomatique est délivré et remis pour une durée illimitée:
+Un passeport diplomatique est délivré et remis:[^8-1]
 
 - a. aux conseillers fédéraux en fonction et à la retraite;
 - b. aux chanceliers de la Confédération en fonction et à la retraite.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 17 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
 
 #### Art. 9
 
@@ -136,7 +138,7 @@ Un passeport diplomatique est délivré et remis pour une durée illimitée:
 Un passeport diplomatique peut être délivré et remis pour la durée du mandat, de la charge, de la fonction ou d’une mission:
 
 - a. au président du Conseil national;
-- b. au président du Conseil des Etats;
+- b. au président du Conseil des États;
 - c. aux membres des Chambres fédérales qui représentent la Suisse au Conseil de l’Europe;
 - d. aux membres des Chambres fédérales qui siègent dans des commissions internationales;
 - e. au président du Tribunal fédéral;
@@ -150,7 +152,12 @@ Un passeport diplomatique peut être délivré et remis pour la durée du mandat
 - m. au président du Comité international de la Croix-Rouge (CICR) ainsi qu’aux membres et délégués du CICR figurant dans la catégorie hors-classe 1;
 - n. aux collaborateurs du CICR de la catégorie hors classe II;
 - o. aux autres collaborateurs ainsi qu’aux délégués du CICR, si des raisons de sécurité ou d’autres raisons importantes l’exigent;
-- p. au président ainsi qu’au médecin-chef de la Croix-Rouge suisse.
+- p. au président ainsi qu’au médecin-chef de la Croix-Rouge suisse;
+- q.[^9-1] au président, au vice-président et au troisième membre de la direction générale de la Banque nationale suisse;
+- r.[^9-2] au président de la Commission suisse pour l’UNESCO.
+
+[^9-1]: Introduite par le ch. I de l’O du DFAE du 17 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
+[^9-2]: Introduite par le ch. I de l’O du DFAE du 17 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
 
 ### Section 2 Passeport de service
 
@@ -179,9 +186,11 @@ Un passeport de service peut être délivré et remis pour la durée de leur mis
 
 - a. aux personnes qui sont chargées, par le Conseil fédéral ou par le chef ou la cheffe du DFAE, d’une mission temporaire à l’étranger qui ne s’effectue pas auprès d’un gouvernement étranger, d’une organisation ou d’une conférence internationale;
 - b. aux délégués de la Croix-Rouge suisse pour leurs affectations à l’étranger;
-- c. au président, au directeur et à leurs suppléants ainsi qu’aux employés au service externe de l’Office suisse d’expansion commerciale (OSEC);
+- c.[^12-1] au président de la direction ainsi qu’aux employés au service externe de Switzerland Global Enterprise;
 - d. au président, au vice-président et au directeur de la Fondation Pro Helvetia, ainsi qu’aux directeurs des agences de la Fondation Pro Helvetia à l’étranger;
 - e. au président et au directeur de Suisse Tourisme, aux directeurs des agences de Suisse Tourisme à l’étranger ainsi qu’aux personnes employées par ces agences.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 17 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
 
 ### Section 3 Passeports pour les proches
 
@@ -189,20 +198,23 @@ Un passeport de service peut être délivré et remis pour la durée de leur mis
 
 **Passeport diplomatique**[^13-1]
 
-Un passeport diplomatique peut être délivré et remis pour une durée illimitée:
+Un passeport diplomatique peut être délivré et remis:[^13-2]
 
-- a. au conjoint de la personne titulaire du passeport au sens des art. 6, 7, let. a et b, et 8 ou à son partenaire enregistré;
-- b. au partenaire de la personne titulaire du passeport au sens des art. 6, let. a à c, et 7, let. a, pour la durée de l’affectation à l’étranger de la personne titulaire du passeport;
+- a.[^13-3] au conjoint ou au partenaire enregistré de la personne titulaire du passeport au sens des art. 6, 7, let. a, et 8;
+- b.[^13-4] au partenaire de la personne titulaire du passeport au sens des art. 6, let. a à c, et 7, let. a;
 - c. aux enfants de la personne titulaire du passeport au sens des art. 6, let. a à c, 7, let. a, et 8, jusqu’à 18 ans révolus;
 - d. aux enfants de la personne titulaire du passeport au sens des art. 6, let. a à c, et 7, let. a, âgés de 18 à 25 ans et qui sont en formation, pour la durée de l’affectation à l’étranger de la personne titulaire en vue de voyages de visite ou de voyages en commun.
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 22 fév. 2007, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)).
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du DFAE du 17 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
+[^13-3]: Nouvelle teneur selon le ch. I de l’O du DFAE du 17 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
+[^13-4]: Nouvelle teneur selon le ch. I de l’O du DFAE du 17 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
 
 #### Art. 14
 
 **Passeport de service**[^14-1]
 
-Un passeport de service peut être délivré et remis pour une durée illimitée:
+Un passeport de service peut être délivré et remis:[^14-2]
 
 - a. au conjoint de la personne titulaire du passeport au sens des art. 10, let. a, et 11 ou à son partenaire enregistré;
 - b. au partenaire de la personne titulaire du passeport au sens des art. 10, let. a, et 11, pour la durée de l’affectation à l’étranger de la personne titulaire du passeport;
@@ -210,6 +222,7 @@ Un passeport de service peut être délivré et remis pour une durée illimitée
 - d. aux enfants de la personne titulaire du passeport au sens des art. 10, let. a, et 11, âgés de 18 à 25 ans et qui sont en formation, pour la durée de l’affectation à l’étranger de la personne titulaire en vue de voyages de visite ou de voyages en commun.
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 22 fév. 2007, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du DFAE du 17 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
 
 #### Art. 15
 
@@ -260,7 +273,7 @@ Les passeports diplomatiques et les passeports de service ordinaires sont valabl
 [^17-2]: Abrogé par le ch. I de l’O du DFAE du 31 janv. 2012, avec effet au 1<sup>er</sup> mars 2012 ([RO 2012 697](https://fedlex.data.admin.ch/eli/oc/2012/104)).
 [^17-3]: Introduit par le ch. I de l’O du DFAE du 22 fév. 2007 ([RO 2007 871](https://fedlex.data.admin.ch/eli/oc/2007/158)). Abrogé par le ch. I de l’O du DFAE du 31 janv. 2012, avec effet au 1<sup>er</sup> mars 2012 ([RO 2012 697](https://fedlex.data.admin.ch/eli/oc/2012/104)).
 
-## Chapitre 4 Etablissement, perte et restitution
+## Chapitre 4 Établissement, perte et restitution
 
 ### Section 1 Procédure de demande et d’établissement
 
@@ -326,7 +339,14 @@ Outre les données nécessaires en vertu de l’art. 14 OLDI, il est possible de
 
 **Dépôt des passeports diplomatiques et passeports de service**
 
-La personne titulaire d’un passeport diplomatique ou d’un passeport de service doit déposer ledit document auprès de la Direction si elle fait la demande d’un passeport ordinaire.
+<sup>1</sup> La personne titulaire d’un passeport diplomatique ou d’un passeport de service doit déposer ledit document auprès de la Direction si elle fait la demande d’un passeport ordinaire.
+
+<sup>2</sup> Le conjoint, le partenaire enregistré ou le partenaire de la personne titulaire du passeport ne sont pas autorisés à utiliser leur passeport diplomatique ou leur passeport de service pour effectuer des voyages professionnels. Ils doivent déposer ledit document auprès de la Direction ou auprès d’une représentation suisse à l’étranger.[^25-1]
+
+<sup>3</sup> Lorsqu’ils ne vivent pas sous le même toit que la personne titulaire du passeport, les enfants et les enfants en formation ne peuvent utiliser leur passeport diplomatique ou leur passeport de service que pour rendre visite à la personne titulaire du passeport ou pour effectuer des voyages en sa compagnie; avant et après le voyage, ils doivent déposer leur passeport diplomatique ou leur passeport de service auprès de la Direction ou auprès d’une représentation suisse à l’étranger.[^25-2]
+
+[^25-1]: Introduit par le ch. I de l’O du DFAE du 17 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
+[^25-2]: Introduit par le ch. I de l’O du DFAE du 17 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 199](https://fedlex.data.admin.ch/eli/oc/2022/199)).
 
 #### Art. 26
 
@@ -391,11 +411,11 @@ Un passeport diplomatique ou un passeport de service doit être restitué ou peu
 
 Si la personne titulaire d’un passeport diplomatique ou d’un passeport de service n’obtempère pas à l’ordre de restituer le passeport ou s’oppose à son retrait, la Direction peut déclarer le passeport invalide et le faire inscrire dans la recherche d’objets RIPOL.
 
-## Chapitre 5 Emoluments et frais
+## Chapitre 5 Émoluments et frais
 
 #### Art. 31
 
-**Emoluments**
+**Émoluments**
 
 Les passeports diplomatiques et les passeports de service sont remis gratuitement.
 
