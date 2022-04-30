@@ -3,20 +3,19 @@ canton: AI
 number: "101.000"
 title: Verfassung für den Eidgenössischen Stand Appenzell I. Rh.
 language: de
-version: 2021-06-01
-valid_until: 2022-04-30
-version_adopted: 2021-05-09
+version: 2022-05-01
+version_adopted: 2022-04-24
 adopted: 1872-11-24
 in_force: 1873-04-27
 url: "https://ai.clex.ch/app/de/texts_of_law/101.000"
-pdf: "https://ai.clex.ch/api/de/versions/2167/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2241/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung für den Eidgenössischen Stand Appenzell I. Rh.
 
-vom 24.11.1872 (Stand 01.06.2021)
+vom 24.11.1872 (Stand 01.05.2022)
 
 Von der ausserordentlichen Landsgemeinde am 24. Wintermonat 1872 angenommen.
 
@@ -144,9 +143,9 @@ Von der ausserordentlichen Landsgemeinde am 24. Wintermonat 1872 angenommen.
 
 #### Art. 15
 
-<sup>1</sup> Der eidgenössische Stand Appenzell Innerrhoden teilt sich in sechs Bezirke:
+<sup>1</sup> Der eidgenössische Stand Appenzell Innerrhoden teilt sich in fünf Bezirke:
 
-Appenzell, Schwende, Rüte, Schlatt-Haslen, Gonten, Oberegg.
+Appenzell, Schwende-Rüte, Schlatt-Haslen, Gonten, Oberegg.
 
 <sup>2</sup> Appenzell ist der Hauptort des Kantons und als solcher Sitz der Kantonsbehörden.
 
@@ -222,7 +221,7 @@ Appenzell, Schwende, Rüte, Schlatt-Haslen, Gonten, Oberegg.
 
 <sup>1</sup> Der Grosse Rat hat 50 Sitze.
 
-<sup>2</sup> Jedem der sechs Bezirke werden zunächst vier Sitze zugewiesen, unter jeweiliger Anrechnung von 4/50 der Gesamteinwohnerzahl. Die restlichen 26 Sitze werden proportional zu den Restbevölkerungszahlen zugewiesen, unter Abrundung von Bruchteilen. Restmandate werden den Bezirken der Grösse der abgerundeten Bruchteile nach zugewiesen, bei Gleichheit entscheidet das Los.
+<sup>2</sup> Jedem Bezirk werden zunächst vier Sitze zugewiesen, unter jeweiliger Anrechnung von 4/50 der Gesamteinwohnerzahl. Die restlichen 30 Sitze werden proportional zu den Restbevölkerungszahlen zugewiesen, unter Abrundung von Bruchteilen. Restmandate werden den Bezirken der Grösse der abgerundeten Bruchteile nach zugewiesen, bei Gleichheit entscheidet das Los.
 
 <sup>3</sup> Grundlage für die Zuweisung bildet die Bevölkerungszahl gemäss kantonaler Einwohnerkontrolle am letzten Tag des Vorjahres zum Erneuerungswahljahr.
 
@@ -484,5 +483,13 @@ Appenzell, Schwende, Rüte, Schlatt-Haslen, Gonten, Oberegg.
 #### Art. Ü3
 
 **…**
+
+#### Art. Ü4
+
+<sup>1</sup> Die Neuregelung der Sitzverteilung für den Grossen Rat nach Art. 22 Abs. 2 gilt erst ab den Neuwahlen im Jahr 2023.
+
+<sup>2</sup> Bis zu den Neuwahlen 2023 behalten alle Bezirke ihre bisherigen Grossratssitze, der Bezirk Schwende-Rüte übernimmt die Sitze der Bezirke Schwende und Rüte.
+
+<sup>3</sup> Die Grossratsmandate für die Amtsperiode 2019 bis 2023 gelten bis zu den Neuwahlen im Jahr 2023.
 
 cGS -
