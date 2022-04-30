@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Introduzione del trust (modificazione del codice delle obbligazioni)
 document: Progetto posto in consultazione
 language: it

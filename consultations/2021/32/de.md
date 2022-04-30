@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Einführung des Trusts (Änderung des Obligationenrechts)
 document: Vernehmlassungsvorlage
 language: de

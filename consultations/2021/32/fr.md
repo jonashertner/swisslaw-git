@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Introduction du trust (modification du code des obligations)
 document: Projet mis en consultation
 language: fr
