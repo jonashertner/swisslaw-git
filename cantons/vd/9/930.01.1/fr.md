@@ -4,7 +4,7 @@ number: "930.01.1"
 title: "RÈGLEMENT du 17.12.2014 d'application de la loi du 31 mai 2005 sur l'exercice des activités économiques (RLEAE)"
 short: RLEAE
 language: fr
-version: 2018-07-01
+version: 2022-05-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01.1?id=7a48f221-b78e-4781-8c59-d2c2807226c9"
 ---
 
@@ -32,7 +32,9 @@ arrête
 
 **But**
 
-<sup>1</sup> Le présent règlement régit les modalités d'exécution de la loi sur l'exercice des activités économiques (ci-après : la loi).
+<sup>1</sup> Le présent règlement régit les modalités d'exécution de la loi sur l'exercice des activités économiques[^1-1] (ci-après : la loi).
+
+[^1-1]: Loi du 31.05.2005 sur l'exercice des activités économiques ([BLV 930.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01?id=abb21ed7-f7ac-4292-b82a-dab323a913fa))
 
 #### Art. 2
 
@@ -44,7 +46,10 @@ arrête
 
 **Service compétent**
 
-<sup>1</sup> Le Service de la promotion économique et du commerce, Police cantonale du commerce exerce les compétences octroyées au département en charge de l'économie (ci-après : le département).
+<sup>1</sup> Le Service de la promotion économique et du commerce[^3-1], Police cantonale du commerce exerce les compétences octroyées au département en charge de l'économie[^3-2] (ci-après : le département).
+
+[^3-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^3-2]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 4
 
@@ -345,7 +350,8 @@ arrête
 
 <sup>1</sup> La demande d'autorisation de vente en détail de tabac est déposée auprès de la municipalité, accompagnée des pièces suivantes :
 
-la copie d'une pièce d'identité valide, lisible et signée ; pour les ressortissants étrangers, la copie d'un livret ou d'une autorisation de séjour valide, lisible et signé.
+- a. la copie d'une pièce d'identité valide, lisible et signée ;
+- b. pour les ressortissants étrangers, la copie d'un livret ou d'une autorisation de séjour valide, lisible et signé.
 
 [^31-2]: Modif. 3 du 03.07.2024: Modification Al. 1; entrée en vigueur au 15.07.2024; Introduction Art. 34a; entrée en vigueur au 15.07.2024; Introduction Art. 35a; entrée en vigueur au 15.07.2024; Introduction Art. 59a; entrée en vigueur au 15.07.2024
 
@@ -355,7 +361,11 @@ la copie d'une pièce d'identité valide, lisible et signée ; pour les ressorti
 
 <sup>1</sup> La préfecture délivre l'autorisation qui indique :
 
-l'identité du titulaire ; le point de vente (local, appareil automatique, par internet, point de vente temporaire, point de vente itinérant) ; le numéro de l'autorisation ; la date de délivrance ; la durée de validité de l'autorisation.
+- a. l'identité du titulaire ;
+- b. le point de vente (local, appareil automatique, par internet, point de vente temporaire, point de vente itinérant) ;
+- c. le numéro de l'autorisation ;
+- d. la date de délivrance ;
+- e. la durée de validité de l'autorisation.
 
 #### Art. 34
 
@@ -375,8 +385,13 @@ l'identité du titulaire ; le point de vente (local, appareil automatique, par i
 
 <sup>3</sup> La demande se fait :
 
-- a. pour les personnes : - auprès de la préfecture du lieu de domicile du vendeur, ou - auprès de la préfecture du lieu de première activité, pour les personnes domiciliées dans un autre canton ou à l'étranger.
-- b. pour les entreprises habilitées : - auprès de la préfecture du lieu de leur siège social, si celui-ci se trouve dans le Canton de Vaud, ou - auprès de la préfecture du lieu de première activité de l'un de leurs vendeurs, pour les entreprises ayant leur siège social dans un autre canton.
+- a. pour les personnes:
+- 1\. auprès de la préfecture du lieu de domicile du vendeur, ou
+- 2\. auprès de la préfecture du lieu de première activité, pour les personnes domiciliées dans un autre canton ou à l'étranger.
+- b. pour les entreprises habilitées :
+- 1\. auprès de la préfecture du lieu de leur siège social, si celui-ci se trouve dans le Canton de Vaud, ou
+- 2\. auprès de la préfecture du lieu de première activité de l'un de leurs vendeurs, pour les entreprises ayant leur siège social dans un autre canton.
+- 
 
 [^34-1]: Modif. 3 du 03.07.2024: Introduction Art. 34a; entrée en vigueur au 15.07.2024; Modification tArt; entrée en vigueur au 15.07.2024; Modification Al. 1-2; entrée en vigueur au 15.07.2024; Introduction Art. 35a; entrée en vigueur au 15.07.2024; Introduction Art. 59a; entrée en vigueur au 15.07.2024
 
@@ -492,7 +507,9 @@ l'identité du titulaire ; le point de vente (local, appareil automatique, par i
 - d. que les risques pour la santé sont accrus pour les personnes présentant des facteurs de sensibilité aux rayonnements ultra-violets (caractéristiques de la peau, maladies, antécédents familiaux) ;
 - e. les précautions d'usage à prendre lors de l'utilisation de tels appareils.
 
-<sup>2</sup> Une directive du département, élaborée en collaboration avec le département en charge de la santé, précise l'information relative à l'alinéa 1, lettres c, d, et e devant figurer sur l'affiche.
+<sup>2</sup> Une directive du département, élaborée en collaboration avec le département en charge de la santé[^46-1], précise l'information relative à l'alinéa 1, lettres c, d, et e devant figurer sur l'affiche.
+
+[^46-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 ## Titre V Surveillance et voies de droit (Titre V de la loi)
 
@@ -566,20 +583,27 @@ l'identité du titulaire ; le point de vente (local, appareil automatique, par i
 
 <sup>1</sup> Le montant de l'émolument de renouvellement d'une autorisation est forfaitaire et est fixé par type d'autorisation, sur la base de l'échelle suivante :
 
-autorisation pour activité économique présentant un danger pour la sécurité et l'ordre publics (art. 5 de la loi[^52-1] ) : CHF 250.- ventes aux enchères publiques volontaires : CHF 100.- activité à titre professionnel de mandataire visant à la conclusion d'un mariage ou à l'établissement d'un partenariat stable entre des personnes venant de l'étranger ou s'y rendant : CHF 250.- courtier ou prêteur en crédit : CHF 500.- prêt sur gage ou achat à réméré : CHF 250.- vente en détail de tabac : CHF 250.- commerce d'occasions : CHF 250.- par appareil automatique : CHF 100.- autorisation globale d'appareils automatiques : CHF 250.-
+- a. autorisation pour activité économique présentant un danger pour la sécurité et l'ordre publics (art. 5 de la loi) : CHF 250.-
+- b. ventes aux enchères publiques volontaires : CHF 100.-
+- c. activité à titre professionnel de mandataire visant à la conclusion d'un mariage ou à l'établissement d'un partenariat stable entre des personnes venant de l'étranger ou s'y rendant : CHF 250.-
+- d. courtier ou prêteur en crédit : CHF 500.-
+- e. prêt sur gage ou achat à réméré : CHF 250.-
+- f. vente en détail de tabac : CHF 250.-
+- g. commerce d'occasions : CHF 250.-
+- h. par appareil automatique : CHF 100.-
+- i. autorisation globale d'appareils automatiques : CHF 250.-
 
 [^51-1]: Modif. 3 du 03.07.2024: Introduction Art. 34a; entrée en vigueur au 15.07.2024; Introduction Art. 35a; entrée en vigueur au 15.07.2024; Modification Al. 1, f; entrée en vigueur au 15.07.2024; Introduction Art. 59a; entrée en vigueur au 15.07.2024
-[^52-1]: Loi du 31.05.2005 sur l'exercice des activités économiques ([BLV 930.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01?id=abb21ed7-f7ac-4292-b82a-dab323a913fa))
 
 #### Art. 53
 
-**Emoluments annuels de surveillance (art. 66m de la loi) [^52-2]**
+**Emoluments annuels de surveillance (art. 66m de la loi) [^52-1]**
 
 <sup>1</sup> Un émolument annuel de surveillance est perçu par la préfecture et la municipalité concernées auprès des titulaires d'autorisation de vente en détail de tabac.
 
 <sup>2</sup> Le montant annuel de cet émolument est de CHF 250.- par point de vente en détail de tabac.
 
-[^52-2]: Modif. 3 du 03.07.2024: Introduction Art. 34a; entrée en vigueur au 15.07.2024; Introduction Art. 35a; entrée en vigueur au 15.07.2024; Modification Al. 1-2; entrée en vigueur au 15.07.2024; Introduction Art. 59a; entrée en vigueur au 15.07.2024
+[^52-1]: Modif. 3 du 03.07.2024: Introduction Art. 34a; entrée en vigueur au 15.07.2024; Introduction Art. 35a; entrée en vigueur au 15.07.2024; Modification Al. 1-2; entrée en vigueur au 15.07.2024; Introduction Art. 59a; entrée en vigueur au 15.07.2024
 
 #### Art. 54
 
@@ -630,11 +654,72 @@ autorisation pour activité économique présentant un danger pour la sécurité
 
 <sup>1</sup> Lorsque la dette reste impayée, une poursuite est introduite. Le département a qualité de mandataire légal du canton tant dans les procédures de recouvrement que dans les procédures associées.
 
-[^58-1]: Modif. 3 du 03.07.2024: Modification ; entrée en vigueur au 15.07.2024
+[^58-1]: Modif. 2 du 30.03.2022: Introduction ; entrée en vigueur au 01.05.2022
+
+## Titre VIbis Protection des données
+
+[^58-1]
+
+#### Art. 58a
+
+**Protection des données [^titleTitreVIbis-1]**
+
+<sup>1</sup> Les autorités cantonales et communales compétentes pour traiter les données personnelles, y compris sensibles, s'assurent de l'utilité de la démarche dans le cadre de l'accomplissement de leurs tâches.
+
+[^titleTitreVIbis-1]: Modif. 2 du 30.03.2022: Introduction Art. 58a; entrée en vigueur au 01.05.2022
+
+#### Art. 58b
+
+**Catégories de données personnelles [^58a-1]**
+
+<sup>1</sup> Outre les données, y compris sensibles, prévues à l'article 88e, alinéa 3 LEAE[^58b-1], les catégories de données personnes traitées sont :
+
+- a. les noms, prénoms, date de naissance, lieu de naissance, état civil, nationalités ;
+- b. le numéro AVS à 13 chiffres (NAVS 13) ;
+- c. les filiations ascendante et descendante ;
+- d. les adresses postales et coordonnées de contact (courriel, téléphone) ;
+- e. les profession, employeur, formations ou l'acquisition d'une formation ;
+- f. les autres données nécessaires pour la délivrance et la surveillance des autorisations prévues dans la loi.
+
+[^58a-1]: Modif. 2 du 30.03.2022: Introduction tArt; entrée en vigueur au 01.05.2022; Introduction Al. 1; entrée en vigueur au 01.05.2022; Introduction Art. 58b; entrée en vigueur au 01.05.2022
+[^58b-1]: Loi du 31.05.2005 sur l'exercice des activités économiques ([BLV 930.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01?id=abb21ed7-f7ac-4292-b82a-dab323a913fa))
+
+#### Art. 58c
+
+**Système d'information [^58b-2]**
+
+<sup>1</sup> Les données, y compris sensibles, sont traitées via un système d'information du département.
+
+<sup>2</sup> Seules les personnes autorisées des autorités cantonales et communales compétentes y ont accès.
+
+<sup>3</sup> Pour le surplus, les exigences de la Direction générale du numérique et des systèmes d'information (DGNSI) en matière de sécurité informatique et de droits d'accès aux systèmes d'information de l'Etat de Vaud sont applicables.
+
+[^58b-2]: Modif. 2 du 30.03.2022: Introduction Art. 58c; entrée en vigueur au 01.05.2022
+
+#### Art. 58d
+
+**Information [^58c-1]**
+
+<sup>1</sup> La consultation d'informations relatives aux données portant sur la situation pénale du requérant doit être portée à la connaissance de ce dernier par l'autorité consultante.
+
+[^58c-1]: Modif. 2 du 30.03.2022: Introduction Art. 58d; entrée en vigueur au 01.05.2022
+
+#### Art. 58e
+
+**Conservation, archivage et destruction des données [^58d-1]**
+
+<sup>1</sup> Les données sont conservées 10 ans après la clôture du dossier.
+
+<sup>2</sup> A l'échéance de ce délai de 10 ans, les données à archiver sont versées aux archives cantonales selon les règles définies dans le calendrier de conservation.
+
+<sup>3</sup> Les données qui ne sont pas versées aux archives cantonales à l'échéance de leur délai de conservation sont détruites.
+
+[^58d-1]: Modif. 2 du 30.03.2022: Introduction tArt; entrée en vigueur au 01.05.2022; Introduction Al. 1-3; entrée en vigueur au 01.05.2022; Introduction Art. 58e; entrée en vigueur au 01.05.2022
+[^58e-1]: Modif. 3 du 03.07.2024: Modification ; entrée en vigueur au 15.07.2024
 
 ## Titre VII Dispositions finales
 
-[^58-1]
+[^58e-1]
 
 #### Art. 59
 
