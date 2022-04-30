@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit be
 short: ChemRRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: de
-version: 2022-04-01
+version: 2022-05-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20220401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20220401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20220501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20220501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20220401/de"
 
 (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)
 
-vom 18. Mai 2005 (Stand am 1. April 2022)
+vom 18. Mai 2005 (Stand am 1. Mai 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -89,37 +89,41 @@ Unter Vorbehalt spezifischer Begriffsbestimmungen in den Anhängen bedeuten in d
 
 <sup>2</sup> Ausnahmebewilligungen nach den Anhängen werden nur Personen erteilt, die ihren Wohn- oder Geschäftssitz in der Schweiz haben.
 
-### 2. Abschnitt: Anwendungsbewilligungen
+1*a*. Abschnitt:**[^t-1]** Besondere Kennzeichnungen
 
-#### Art. 4
+****Art. 3**a**
 
-**Bewilligungspflichtige Anwendungen**[^4-1]
+<sup>1</sup> Besondere Kennzeichnungen müssen gut lesbar und dauerhaft sein. Sie müssen in mindestens einer Amtssprache des Ortes erfolgen, an dem der Stoff, die Zubereitung, das Gerät oder der Gegenstand an Verwenderinnen abgegeben oder die Anlage installiert wird.
+
+<sup>2</sup>
+
+Im Einvernehmen mit einzelnen beruflichen Verwenderinnen oder Verwendern können in einer anderen Amtssprache oder in Englisch gekennzeichnet werden:
+
+- a. ein Stoff oder eine Zubereitung für die Abgabe an die beruflichen Verwenderinnen und Verwender;
+- b. Geräte und Anlagen für berufliche Verwenderinnen oder Verwender.
+
+<sup>3</sup> Als Amtssprachen gelten Deutsch, Französisch und Italienisch.
+
+<sup>2.</sup> Abschnitt: Anwendungsbewilligungen
+
+****Art. 4**[^t-2] Bewilligungspflichtige Anwendungen**
 
 Für folgende Anwendungen ist eine Bewilligung der nachstehenden Behörden nötig:
 
 <table>
 <tr><th>Anwendung</th><th>Bewilligungsbehörde</th></tr>
 <tr><td>a. die berufliche oder gewerbliche Anwendung von Mitteln zum Schutz von Pflanzen gegen Nage‑ tiere (Rodentizide) bei überbe- trieblichem oder maschinellem Einsatz</td><td>kantonale Behörde; für regionale und überregionale Anwendungen im Einvernehmen mit dem Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV), dem Bundesamt für Landwirtschaft (BLW) und dem Bundesamt für Umwelt (BAFU)</td></tr>
-<tr><td>b.[^4-2] das Versprühen und Ausstreuen von Pflanzenschutzmitteln, Biozidprodukten und Düngern aus der Luft</td><td>Bundesamt für Zivilluftfahrt im Einvernehmen mit dem Bundesamt für Gesundheit (BAG), dem BLV, dem BLW, dem Staatssekretariat für Wirtschaft (SECO) und dem BAFU</td></tr>
+<tr><td>b.[^t-3] das Versprühen und Ausstreuen von Pflanzenschutzmitteln, Biozidprodukten und Düngern aus der Luft</td><td>Bundesamt für Zivilluftfahrt im Einvernehmen mit dem Bundesamt für Gesundheit (BAG), dem BLV, dem BLW, dem Staatssekretariat für Wirtschaft (SECO) und dem BAFU</td></tr>
 <tr><td>c. die Anwendung von Pflanzenschutzmitteln und Düngern im Wald, soweit sie nicht in eine Bewilligung nach Buchstabe a oder b eingeschlossen ist</td><td>kantonale Behörde</td></tr>
 </table>
 
-[^4-1]: Fassung gemäss Ziff. I 6 der V vom 4. Sept. 2013 (Reorganisation im Bereich Lebensmittelsicherheit und Veterinärwesen), in Kraft seit 1. Jan. 2014 ([AS 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
-[^4-2]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-
-#### Art. 4a
-
-**Bewilligungsfreie Anwendungen**[^4a-1]
+****Art. 4***a*[^t-4] Bewilligungsfreie Anwendungen**
 
 Eine Anwendungsbewilligung nach Artikel 4 Buchstabe b ist nicht erforderlich für das Ausbringen von Organismen mit einem unbemannten Luftfahrzeug.
 
-[^4a-1]: Eingefügt durch Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+****Art. 5** Bewilligungsvoraussetzungen**
 
-#### Art. 5
-
-**Bewilligungsvoraussetzungen**
-
-<sup>1</sup> Eine Anwendungsbewilligung nach Artikel 4 Buchstabe a oder c wird erteilt, wenn bei der geplanten Anwendung keine Gefährdung der Umwelt zu befürchten ist. Sie wird zeitlich befristet und geografisch begrenzt.[^5-1]
+<sup>1</sup> Eine Anwendungsbewilligung nach Artikel 4 Buchstabe a oder c wird erteilt, wenn bei der geplanten Anwendung keine Gefährdung der Umwelt zu befürchten ist. Sie wird zeitlich befristet und geografisch begrenzt.[^t-5]
 
 <sup>1bis</sup>
 
@@ -127,26 +131,17 @@ Eine Anwendungsbewilligung nach Artikel 4 Buchstabe b wird zeitlich befristet, g
 
 - a. ein Ausbringen vom Boden aus nicht praktikabel oder das Ausbringen aus der Luft mit Vorteilen für den Schutz der menschlichen Gesundheit oder der Umwelt verbunden ist;
 - b. das Luftfahrtunternehmen Luftfahrzeuge und Ausrüstungen mit der besten verfügbaren Technologie zum Schutz der menschlichen Gesundheit und der Umwelt einsetzt; und
-- c. keine Gefährdung der menschlichen Gesundheit und der Umwelt zu befürchten ist.[^5-2]
+- c. keine Gefährdung der menschlichen Gesundheit und der Umwelt zu befürchten ist.[^t-6]
 
 <sup>2</sup> Anwendungsbewilligungen werden nur Personen erteilt, die ihren Wohn- oder Geschäftssitz in der Schweiz, in einem Mitgliedstaat der Europäischen Union (EU) oder der Europäischen Freihandelsassoziation (EFTA) haben.
 
-[^5-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^5-2]: Eingefügt durch Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-
-#### Art. 6
-
-**Koordination**[^6-1]
+****Art. 6**[^t-7] Koordination**
 
 Ist eine Bundesbehörde für die Bewilligung zuständig, so hört sie vor dem Entscheid die Behörde des betreffenden Kantons insbesondere dazu an, ob ihres Erachtens die Bewilligungsvoraussetzungen erfüllt sind und welche Nebenbestimmungen in einer allfälligen Bewilligung vorgesehen werden sollten. Die Bundesbehörde teilt der Behörde des Kantons ihren Entscheid mit.
 
-[^6-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+<sup>3.</sup> Abschnitt: Fachbewilligungen
 
-### 3. Abschnitt: Fachbewilligungen
-
-#### Art. 7
-
-**Bewilligungspflichtiger Umgang mit Stoffen und Zubereitungen**
+****Art. 7** Bewilligungspflichtiger Umgang mit Stoffen und Zubereitungen**
 
 <sup>1</sup>
 
@@ -161,7 +156,7 @@ Die folgenden Tätigkeiten dürfen beruflich oder gewerblich nur von natürliche
   - 3\. Mitteln zur Desinfektion des Badewassers in Gemeinschaftsbädern,
   - 4\. Holzschutzmitteln;
 
-- b.[^7-1]
+- b.[^t-8]
 
   der Umgang mit Kältemitteln beim:
 
@@ -172,11 +167,7 @@ Die folgenden Tätigkeiten dürfen beruflich oder gewerblich nur von natürliche
 
 <sup>3</sup> Das zuständige Departement regelt die Einzelheiten der Fachbewilligungen. Es kann Ausnahmen von der Bewilligungspflicht und für Fachbewilligungen für die Schädlingsbekämpfung mit Begasungsmitteln eine Befristung vorsehen. Bei seiner Regelung berücksichtigt es die Schutzziele.
 
-[^7-1]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Dez. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)).
-
-#### Art. 8
-
-**Nachweis der Fachkenntnisse**
+****Art. 8** Nachweis der Fachkenntnisse**
 
 <sup>1</sup>
 
@@ -202,21 +193,15 @@ Die Artikel 9–11 gelten sinngemäss für:
 - b. Ausbildungsabschlüsse, die als einer Fachbewilligung gleichwertig gelten (Abs. 3);
 - c. Berufserfahrung, die als einer Fachbewilligung gleichwertig anerkannt ist (Abs. 4).
 
-#### Art. 9
-
-**Örtlicher Geltungsbereich**
+****Art. 9** Örtlicher Geltungsbereich**
 
 Fachbewilligungen sind für die ganze Schweiz gültig.
 
-#### Art. 10
-
-**Weiterbildungsverpflichtung**
+****Art. 10** Weiterbildungsverpflichtung**
 
 Wer eine Fachbewilligung besitzt und entsprechend tätig ist, muss sich regelmässig über den Stand der besten fachlichen Praxis informieren und sich weiterbilden.
 
-#### Art. 11
-
-**Sanktionen**
+****Art. 11** Sanktionen**
 
 <sup>1</sup>
 
@@ -227,9 +212,7 @@ Verstösst die Inhaberin oder der Inhaber einer Fachbewilligung vorsätzlich ode
 
 <sup>2</sup> Die kantonale Behörde informiert das zuständige Bundesamt über die Verfügungen.
 
-#### Art. 12
-
-**Zuständigkeiten**
+****Art. 12** Zuständigkeiten**
 
 <sup>1</sup> Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) ist zuständig für Fachbewilligungen nach Artikel 7 Absatz 1 Buchstabe a Ziffern 1 und 4 sowie Buchstabe b.
 
@@ -246,82 +229,54 @@ Das Departement legt fest:
 
 <sup>5</sup> Das UVEK sorgt für Vorbereitungsmöglichkeiten für die Fachprüfungen in seinem Zuständigkeitsbereich.
 
-## 3. Kapitel: Vollzug
+<sup>3.</sup> Kapitel: Vollzug
 
-#### Art. 13
-
-**Kantone**
+****Art. 13** Kantone**
 
 Die Kantone überwachen die Einhaltung der Bestimmungen dieser Verordnung, soweit die Zuständigkeiten nicht anders geregelt sind.
 
-#### Art. 14
-
-**Bund**
+****Art. 14** Bund**
 
 Der Bund ist zuständig für:
 
-- a.[^14-1] die ihm in den Artikeln 4, 7–12 (Fachbewilligungen) und 19 zugewiesenen Aufgaben;
+- a.[^t-9] die ihm in den Artikeln 4, 7–12 (Fachbewilligungen) und 19 zugewiesenen Aufgaben;
 - b. die Erteilung von Bewilligungen nach den Anhängen;
 - c. den Vollzug der Bestimmungen über die Ein- und Ausfuhr;
 - d. den Vollzug, soweit er Stoffe, Zubereitungen und Gegenstände betrifft, die der Landesverteidigung dienen.
 
-[^14-1]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Dez. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)).
-
-#### Art. 15
-
-**Übertragung von Aufgaben und Befugnissen an Dritte**
+****Art. 15** Übertragung von Aufgaben und Befugnissen an Dritte**
 
 <sup>1</sup> Die zuständigen Bundesstellen können die ihnen durch diese Verordnung zugewiesenen Aufgaben und Befugnisse ganz oder teilweise geeigneten öffentlich-rechtlichen Körperschaften oder Privaten übertragen.
 
 <sup>2</sup> Soweit die Übertragung den Vollzug des Gesundheitsschutzes betrifft, ist sie eingeschränkt auf die Artikel 7–12 (Fachbewilligungen) sowie auf Informationstätigkeiten nach Artikel 28 ChemG.
 
-#### Art. 16
+****Art. 16** Besondere Vollzugsbestimmungen**
 
-**Besondere Vollzugsbestimmungen**
+<sup>1</sup> Bei Medizinprodukten richtet sich der Vollzug nach der Medizinprodukteverordnung vom 17. Oktober 2001[^t-10].
 
-<sup>1</sup> Bei Medizinprodukten richtet sich der Vollzug nach der Medizinprodukteverordnung vom 17. Oktober 2001[^16-1].
+<sup>2</sup> Bei Stoffen, Zubereitungen und Gegenständen im Zusammenhang mit Anlagen und Tätigkeiten, die der Landesverteidigung dienen, gilt Artikel 82 der Chemikalienverordnung vom 5. Juni 2015[^t-11] (ChemV) entsprechend.[^t-12]
 
-<sup>2</sup> Bei Stoffen, Zubereitungen und Gegenständen im Zusammenhang mit Anlagen und Tätigkeiten, die der Landesverteidigung dienen, gilt Artikel 82 der Chemikalienverordnung vom 5. Juni 2015[^16-2] (ChemV) entsprechend.[^16-3]
+<sup>3</sup> Für Dünger gelten die Vollzugsvorschriften der Dünger-Verordnung vom 10. Januar 2001[^t-13] zusätzlich.
 
-<sup>3</sup> Für Dünger gelten die Vollzugsvorschriften der Dünger-Verordnung vom 10. Januar 2001[^16-4] zusätzlich.
+****Art. 17** Überwachung der Ein- und Ausfuhr**
 
-[^16-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^16-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^16-3]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^16-4]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-
-#### Art. 17
-
-**Überwachung der Ein- und Ausfuhr**
-
-<sup>1</sup> Die Zollstellen kontrollieren auf Ersuchen des BAG, des BLW oder des BAFU, ob Stoffe, Zubereitungen oder Gegenstände den Bestimmungen dieser Verordnung entsprechen.[^17-1]
+<sup>1</sup> Die Zollstellen kontrollieren auf Ersuchen des BAG, des BLW oder des BAFU, ob Stoffe, Zubereitungen oder Gegenstände den Bestimmungen dieser Verordnung entsprechen.[^t-14]
 
 <sup>2</sup> Bei Verdacht auf eine Widerhandlung sind sie berechtigt, die Ware an der Grenze zurückzuhalten und die übrigen Vollzugsbehörden nach dieser Verordnung beizuziehen. Diese nehmen die weiteren Abklärungen vor und treffen die erforderlichen Massnahmen.
 
-[^17-1]: Fassung gemäss Anhang 4 Ziff. 45 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+****Art. 18** Kontrollen**
 
-#### Art. 18
-
-**Kontrollen**
-
-<sup>1</sup> Die kantonalen Vollzugsbehörden kontrollieren Stoffe, Zubereitungen und Gegenstände, die sich auf dem Markt befinden, bei Herstellerinnen, Händlerinnen und beruflichen oder gewerblichen Verwenderinnen anhand von Stichproben oder auf Ersuchen des BAG, des BLW, des BAFU oder des SECO. Sie überprüfen, ob die Stoffe, Zubereitungen und Gegenstände den Bestimmungen der Anhänge entsprechen, namentlich was ihre Zusammensetzung, ihre Kennzeichnung und die Information der Abnehmerinnen über sie betrifft.[^18-1]
+<sup>1</sup> Die kantonalen Vollzugsbehörden kontrollieren Stoffe, Zubereitungen und Gegenstände, die sich auf dem Markt befinden, bei Herstellerinnen, Händlerinnen und beruflichen oder gewerblichen Verwenderinnen anhand von Stichproben oder auf Ersuchen des BAG, des BLW, des BAFU oder des SECO. Sie überprüfen, ob die Stoffe, Zubereitungen und Gegenstände den Bestimmungen der Anhänge entsprechen, namentlich was ihre Zusammensetzung, ihre Kennzeichnung und die Information der Abnehmerinnen über sie betrifft.[^t-15]
 
 <sup>2</sup> Sie kontrollieren zudem, ob der Umgang mit Stoffen, Zubereitungen und Gegenständen den Vorschriften dieser Verordnung entspricht.
 
-<sup>3</sup> Geben die kontrollierten Stoffe, Zubereitungen oder Gegenstände selbst oder der Umgang mit ihnen Anlass zu Beanstandungen, so informiert die kontrollierende Behörde die nach Artikel 19 für die Verfügungen zuständigen Behörden. Sind dies kantonale Behörden, so informiert sie ausserdem das BAG, das BAFU und das SECO sowie, bei Beanstandungen von Pflanzenschutzmitteln, das BLV und das BLW, und, bei Beanstandungen von Düngern, das BLW.[^18-2]
+<sup>3</sup> Geben die kontrollierten Stoffe, Zubereitungen oder Gegenstände selbst oder der Umgang mit ihnen Anlass zu Beanstandungen, so informiert die kontrollierende Behörde die nach Artikel 19 für die Verfügungen zuständigen Behörden. Sind dies kantonale Behörden, so informiert sie ausserdem das BAG, das BAFU und das SECO sowie, bei Beanstandungen von Pflanzenschutzmitteln, das BLV und das BLW, und, bei Beanstandungen von Düngern, das BLW.[^t-16]
 
-[^18-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^18-2]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-
-#### Art. 19
-
-**Verfügungen auf Grund von Kontrollen**
+****Art. 19** Verfügungen auf Grund von Kontrollen**
 
 Ergibt eine Kontrolle, dass Bestimmungen dieser Verordnung verletzt sind, so verfügt die Bundesbehörde oder die Behörde des Kantons, in dem die Herstellerin, die Händlerin oder die Verwenderin ihren Wohn- oder Geschäftssitz hat, die nötigen Massnahmen.
 
-#### Art. 20
-
-**Fachberatung für die Verwendung von Düngern und Pflanzenschutzmitteln**
+****Art. 20** Fachberatung für die Verwendung von Düngern und Pflanzenschutzmitteln**
 
 <sup>1</sup> Die Kantone sorgen dafür, dass für die Verwendung von Düngern und Pflanzenschutzmitteln eine Fachberatung angeboten wird; sie sichern deren Finanzierung.
 
@@ -332,48 +287,59 @@ Sie können bestimmen, dass Personen, die Dünger oder Pflanzenschutzmittel in b
 - a. sich zu diesem Zweck von der Fachberatung beraten lassen müssen;
 - b. die für diese Beratung erforderlichen Betriebsdaten zur Verfügung stellen müssen.
 
-#### Art. 21
+****Art. 21**[^t-17] Vertraulichkeit von Daten und Datenaustausch**
 
-**Vertraulichkeit von Daten und Datenaustausch**[^21-1]
+Die Vertraulichkeit von Daten sowie der Datenaustausch unter Vollzugsbehörden und mit dem Ausland richten sich nach den Artikeln 73–76 ChemV[^t-18].
 
-Die Vertraulichkeit von Daten sowie der Datenaustausch unter Vollzugsbehörden und mit dem Ausland richten sich nach den Artikeln 73–76 ChemV[^21-2].
+****Art. 22** Gebühren**
 
-[^21-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^21-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+Die Gebührenpflicht und die Gebührenbemessung für Verwaltungshandlungen der Bundesvollzugsbehörden nach dieser Verordnung richten sich nach der Chemikaliengebührenverordnung vom 18. Mai 2005[^t-19].
 
-#### Art. 22
+<sup>4.</sup> Kapitel: Schlussbestimmungen
 
-**Gebühren**
-
-Die Gebührenpflicht und die Gebührenbemessung für Verwaltungshandlungen der Bundesvollzugsbehörden nach dieser Verordnung richten sich nach der Chemikaliengebührenverordnung vom 18. Mai 2005[^22-1].
-
-[^22-1]: [SR 813.153.1](https://fedlex.data.admin.ch/eli/cc/2005/469)
-
-## 4. Kapitel: Schlussbestimmungen
-
-#### Art. 23
-
-**Übergangsbestimmungen**
+****Art. 23** Übergangsbestimmungen**
 
 <sup>1</sup> Die Übergangsbestimmungen zu den Fachbewilligungen nach den Artikeln 7–12 werden vom zuständigen Departement erlassen.
 
-<sup>2</sup> Ausnahmebewilligungen, die auf Grund der Stoffverordnung vom 9. Juni 1986[^23-1] erteilt worden sind, bleiben bis zum Ablauf ihrer Befristung gültig.
+<sup>2</sup> Ausnahmebewilligungen, die auf Grund der Stoffverordnung vom 9. Juni 1986[^t-20] erteilt worden sind, bleiben bis zum Ablauf ihrer Befristung gültig.
 
 <sup>3</sup> Gesuche um Ausnahmebewilligungen, die bei Inkrafttreten dieser Verordnung hängig sind, werden nach dieser Verordnung beurteilt.
 
-[^23-1]: [[AS 1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254); [1988 911](https://fedlex.data.admin.ch/eli/oc/1988/911_911_911); [1989 270](https://fedlex.data.admin.ch/eli/oc/1989/270_270_270), [2420](https://fedlex.data.admin.ch/eli/oc/1989/2420_2420_2420); [1991 1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981); [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749); [1994 678](https://fedlex.data.admin.ch/eli/oc/1994/678_678_678); [1995 1491](https://fedlex.data.admin.ch/eli/oc/1995/1491_1491_1491)Art. 440 Ziff. 2 [4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425), Anhang 1 Ziff. II 14, [5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505); [1997 697](https://fedlex.data.admin.ch/eli/oc/1997/697_697_697); [1998 2009](https://fedlex.data.admin.ch/eli/oc/1998/2009_2009_2009), [2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)Anhang 5 Ziff. 3; [1999 39](https://fedlex.data.admin.ch/eli/oc/1999/10), [1362](https://fedlex.data.admin.ch/eli/oc/1999/192), [2045](https://fedlex.data.admin.ch/eli/oc/1999/321)Anhang 2 Ziff. 3; [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)Ziff. II 9, [1949](https://fedlex.data.admin.ch/eli/oc/2000/299)Art. 22 Abs. 2; [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)Anhang Ziff. 2, [1758](https://fedlex.data.admin.ch/eli/oc/2001/275), [3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 6; [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171), [1345](https://fedlex.data.admin.ch/eli/oc/2003/230), [5421](https://fedlex.data.admin.ch/eli/oc/2003/788)Ziff. II 2; [2004 3209](https://fedlex.data.admin.ch/eli/oc/2004/411), [4037](https://fedlex.data.admin.ch/eli/oc/2004/591)Ziff. I 7. [AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. I 1]
+****Art. 23***a*[^t-21] Übergangsbestimmung zur Änderung vom 11. März 2022**
 
-#### Art. 24
+Stoffe, Zubereitungen, Geräte, Gegenstände und Anlagen, die nach bisherigem Recht gekennzeichnet sind, dürfen bis zum 31. Dezember 2025 an Dritte abgegeben werden.
 
-**Inkrafttreten**
+****Art. 24** Inkrafttreten**
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
-Anhänge*[^t-1]*
+[^t-1]: Eingefügt durch Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-2]: Fassung gemäss Ziff. I 6 der V vom 4. Sept. 2013 (Reorganisation im Bereich Lebensmittelsicherheit und Veterinärwesen), in Kraft seit 1. Jan. 2014 ([AS 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
+[^t-3]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^t-4]: Eingefügt durch Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^t-5]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^t-6]: Eingefügt durch Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^t-7]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^t-8]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Dez. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)).
+[^t-9]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Dez. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)).
+[^t-10]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^t-11]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^t-12]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^t-13]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^t-14]: Fassung gemäss Anhang 4 Ziff. 45 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^t-15]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^t-16]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^t-17]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^t-18]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^t-19]: [SR 813.153.1](https://fedlex.data.admin.ch/eli/cc/2005/469)
+[^t-20]: [[AS 1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254); [1988 911](https://fedlex.data.admin.ch/eli/oc/1988/911_911_911); [1989 270](https://fedlex.data.admin.ch/eli/oc/1989/270_270_270), [2420](https://fedlex.data.admin.ch/eli/oc/1989/2420_2420_2420); [1991 1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981); [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749); [1994 678](https://fedlex.data.admin.ch/eli/oc/1994/678_678_678); [1995 1491](https://fedlex.data.admin.ch/eli/oc/1995/1491_1491_1491)Art. 440 Ziff. 2 [4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425), Anhang 1 Ziff. II 14, [5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505); [1997 697](https://fedlex.data.admin.ch/eli/oc/1997/697_697_697); [1998 2009](https://fedlex.data.admin.ch/eli/oc/1998/2009_2009_2009), [2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)Anhang 5 Ziff. 3; [1999 39](https://fedlex.data.admin.ch/eli/oc/1999/10), [1362](https://fedlex.data.admin.ch/eli/oc/1999/192), [2045](https://fedlex.data.admin.ch/eli/oc/1999/321)Anhang 2 Ziff. 3; [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)Ziff. II 9, [1949](https://fedlex.data.admin.ch/eli/oc/2000/299)Art. 22 Abs. 2; [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)Anhang Ziff. 2, [1758](https://fedlex.data.admin.ch/eli/oc/2001/275), [3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 6; [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171), [1345](https://fedlex.data.admin.ch/eli/oc/2003/230), [5421](https://fedlex.data.admin.ch/eli/oc/2003/788)Ziff. II 2; [2004 3209](https://fedlex.data.admin.ch/eli/oc/2004/411), [4037](https://fedlex.data.admin.ch/eli/oc/2004/591)Ziff. I 7. [AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. I 1]
+[^t-21]: Eingefügt durch Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+
+Anhänge*[^t-22]*
 
 ## 1 Bestimmungen für bestimmte Stoffe
 
-[^t-1]: Bereinigt gemäss Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-22]: Bereinigt gemäss Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 - 1\.1 Persistente organische Schadstoffe
 - 1\.2 Halogenierte organische Stoffe
@@ -421,13 +387,13 @@ Anhang 1
 
 ## Bestimmungen für bestimmte Stoffe
 
-Anhang 1.1*[^t-2]*
+Anhang 1.1*[^t-23]*
 
 (Art. 3)
 
 ## Persistente organische Schadstoffe
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Bereinigt gemäss Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^t-23]: Fassung gemäss Ziff. II Abs. 1 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Bereinigt gemäss Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Verbote
 
@@ -515,13 +481,13 @@ Anhang 1.1*[^t-2]*
 
 <sup>3</sup> Das Bundesamt für Umwelt (BAFU) kann auf begründetes Gesuch befristete Ausnahmen von den Verboten nach Absatz 1 Buchstaben a und b gewähren, wenn die Gesuchstellerin nachweisen kann, dass für die Zubereitungen oder Gegenstände ein Ersatz ohne HBCDD tatsächlich nicht beschafft werden kann. Die Befristung darf längstens bis zum 1. März 2018 dauern.
 
-Anhang 1.2*[^t-3]*
+Anhang 1.2*[^t-24]*
 
 (Art. 3)
 
 ## Halogenierte organische Stoffe
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 1 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Bereinigt gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^t-24]: Fassung gemäss Ziff. II Abs. 1 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Bereinigt gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Verbote
 
@@ -598,13 +564,13 @@ Anhang 1.2*[^t-3]*
 
 - i. *1,2,4-Trichlorbenzol (CAS-Nr. 120-82-1).*
 
-Anhang 1.3*[^t-4]*
+Anhang 1.3*[^t-25]*
 
 (Art. 3)
 
 ## Aliphatische Chlorkohlenwasserstoffe
 
-[^t-4]: Bereinigt gemäss Anhang 2 Ziff. II 2 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 23. Nov. 2005 ([AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)), Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)) und Ziff. I der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
+[^t-25]: Bereinigt gemäss Anhang 2 Ziff. II 2 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 23. Nov. 2005 ([AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)), Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Verbote
 
@@ -641,15 +607,15 @@ Anhang 1.3*[^t-4]*
 
 <sup>1</sup> Die Verpackung von Stoffen und Zubereitungen nach Ziffer 2 Buchstabe c muss mit folgender Aufschrift versehen sein: «Nur zur Verwendung in Industrieanlagen».
 
-<sup>2</sup> Die Aufschrift muss in mindestens zwei Amtssprachen abgefasst, gut lesbar und dauerhaft sein.
+<sup>2</sup> …
 
-Anhang 1.4*[^t-5]*
+Anhang 1.4*[^t-26]*
 
 (Art. 3)
 
 ## Ozonschichtabbauende Stoffe
 
-[^t-5]: Fassung gemäss Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Bereinigt gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^t-26]: Fassung gemäss Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Bereinigt gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Begriffe
 
@@ -914,13 +880,13 @@ Eine Ausnahmebewilligung kann erteilt werden, wenn:
 
 Zubereitungen und Gegenstände, die mit ozonschichtabbauenden Stoffen hergestellt worden und in einer Anlage zum Montrealer Protokoll aufgeführt sind (Ziff. 3.1 Bst. b), dürfen noch während eines Jahres nach Inkrafttreten der betreffenden Anlage zum Montrealer Protokoll in Verkehr gebracht werden.
 
-Anhang 1.5*[^t-6]*
+Anhang 1.5*[^t-27]*
 
 (Art. 3)
 
 ## In der Luft stabile Stoffe
 
-[^t-6]: Fassung gemäss Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Bereinigt gemäss Anhang der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^t-27]: Fassung gemäss Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Bereinigt gemäss Anhang der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)), Ziff. I der V vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Begriffe
 
@@ -1207,8 +1173,6 @@ Das BAFU ist für die Datenberichterstattung gemäss Artikel 7 Absatz 3 des Mont
 
 <sup>2</sup> Die Herstellerin von Geräten oder von anderen als in Absatz 1 genannten Anlagen, die mehr als 1 kg Schwefelhexafluorid enthalten, muss auf den Geräten oder den Anlagen auf diesen Stoff hinweisen und die von diesem Stoff in den Geräten oder den Anlagen enthaltene Menge angeben.
 
-<sup>3</sup> Die Kennzeichnung nach den Absätzen 1 und 2 muss in mindestens zwei Amtssprachen abgefasst, sichtbar, leicht lesbar und dauerhaft sein.
-
 [^annex15-lvlu1-lvl8-1]: Verordnung (EU) Nr. 517/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über fluorierte Treibhausgase und zur Aufhebung der Verordnung (EG) Nr. 842/2006, Fassung gemäss ABl. L 150 vom 20.5.2014, S. 195.
 
 ### 9 Pflichten bei chemischen Umwandlungsprozessen
@@ -1234,13 +1198,13 @@ Für Behälter, die in der Luft stabile Stoffe, die in Anhang A des Protokolls v
 
 Stoffe nach Ziffer 1 Absatz 1<sup>bis</sup> Buchstabe f dürfen noch bis zum 30. Juni 2023 ohne Umwandlung des entstehenden Distickstoffoxids hergestellt werden.
 
-Anhang 1.6*[^t-7]*
+Anhang 1.6*[^t-28]*
 
 (Art. 3)
 
 ## Asbest
 
-[^t-7]: Bereinigt gemäss Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^t-28]: Bereinigt gemäss Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Begriffe
 
@@ -1288,10 +1252,10 @@ Verboten ist:
 <sup>1</sup> Asbest darf von der Herstellerin nur in Verkehr gebracht werden, wenn die Verpackung versehen ist mit:
 
 - a. dem Namen der Herstellerin;
-- b. einem Hinweis auf die Gefahren für Mensch und Umwelt und die Schutzmassnahmen in mindestens zwei Amtssprachen und nach folgendem Muster:
+- b. einem Hinweis auf die Gefahren für Mensch und Umwelt und die Schutzmassnahmen nach folgendem Muster:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220401/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220501/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">B = mindestens 2,5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 Prozent von H</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 Prozent von H</td><td></td></tr>
@@ -1320,13 +1284,13 @@ Kann bei der Verwendung asbesthaltiger Zubereitungen oder Gegenstände Feinstaub
 
 <sup>3</sup> Die Verbote nach Ziffer 2 Buchstaben b, c und d gelten bis zum 30. Juni 2025 nicht für asbesthaltige Diaphragmen zur Verwendung in bestehenden Elektrolyseanlagen.
 
-Anhang 1.7*[^t-8]*
+Anhang 1.7*[^t-29]*
 
 (Art. 3)
 
 ## Quecksilber
 
-[^t-8]: Fassung gemäss Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)). Bereinigt gemäss Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-29]: Fassung gemäss Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)). Bereinigt gemäss Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Inverkehrbringen
 
@@ -1652,13 +1616,13 @@ Ein Gesuch muss mindestens enthalten:
 
 Ein nach bisherigem Recht auf Ziffer 2.2 Absatz 1 gestützter Antrag wird nach bisherigem Recht beurteilt.
 
-Anhang 1.8*[^t-9]*
+Anhang 1.8*[^t-30]*
 
 (Art. 3)
 
 ## Octylphenol, Nonylphenol und deren Ethoxylate
 
-[^t-9]: Bereinigt gemäss Anhang 2 Ziff. II 2 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 23. Nov. 2005 ([AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)), Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)) und 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-30]: Bereinigt gemäss Anhang 2 Ziff. II 2 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 23. Nov. 2005 ([AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)), Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)) und 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Verbote
 
@@ -1703,13 +1667,13 @@ Die Verbote nach Ziffer 1 gelten nicht für:
 
 <sup>3</sup> Das Verbot nach Ziffer 1 Absatz 3 gilt nicht für Nonylphenolethoxylate enthaltende Textilfasern sowie textile Halb- und Fertigprodukte, die vor dem 1. Juni 2022 erstmals in Verkehr gebracht worden sind.
 
-Anhang 1.9*[^t-10]*
+Anhang 1.9*[^t-31]*
 
 (Art. 3)
 
 ## Stoffe mit flammhemmender Wirkung
 
-[^t-10]: Bereinigt gemäss Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) und Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-31]: Bereinigt gemäss Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Organische Phosphorverbindungen
 
@@ -1812,13 +1776,13 @@ Die Verbote nach Ziffer 2.2 Absätze 1 und 2 gelten nicht für:
   - 1\. Analyse- und Forschungszwecke,
   - 2\. die Herstellung von Fahrzeugbauteilen, die nach Buchstabe a Nummern 3 und 4 in Verkehr gebracht werden dürfen.
 
-Anhang 1.10*[^t-11]*
+Anhang 1.10*[^t-32]*
 
 (Art. 3)
 
 ## Krebserzeugende, erbgutverändernde und fortpflanzungsgefährdende Stoffe
 
-[^t-11]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. 2 der V vom 18. Nov. 2020, in Kraft bis zum 1. Juni 2025 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), Ziff. I der V des BAG vom 1. Febr. 2021 ([AS 2021 70](https://fedlex.data.admin.ch/eli/oc/2021/70)), vom 23. Dez. 2021 ([AS 2022 1](https://fedlex.data.admin.ch/eli/oc/2022/1)) und Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^t-32]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. 2 der V vom 18. Nov. 2020, in Kraft bis zum 1. Juni 2025 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), Ziff. I der V des BAG vom 23. Dez. 2021 ([AS 2022 1](https://fedlex.data.admin.ch/eli/oc/2022/1)), Ziff. I der V vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Verbot
 
@@ -1858,7 +1822,7 @@ Anhang 1.10*[^t-11]*
 
 <sup>1</sup> Die Verpackung von Stoffen und Zubereitungen, die unter das Verbot nach Ziffer 1 fallen, muss mit folgender Aufschrift versehen sein: «Nur für gewerbliche Anwender».
 
-<sup>2</sup> Die Aufschrift muss in mindestens zwei Amtssprachen abgefasst, gut sichtbar, leserlich und unverwischbar sein.
+<sup>2</sup> …
 
 ### 4 Übergangsbestimmung zur Änderung vom 23. Dezember 2021
 
@@ -1890,13 +1854,13 @@ Die folgenden Stoffe, die durch die Verordnung (EU) 2021/2204[^annex110-lvlu1-lv
 
 [^annex110-lvlu1-lvl4-1]: Verordnung (EU) 2021/2204 der Kommission vom 13. Dezember 2021, Fassung gemäss ABl. L 446 vom 14.12.2021, S. 34.
 
-Anhang 1.11*[^t-12]*
+Anhang 1.11*[^t-33]*
 
 (Art. 3)
 
 ## Gefährliche flüssige Stoffe
 
-[^t-12]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-33]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Begriff
 
@@ -1932,8 +1896,6 @@ Als gefährliche flüssige Stoffe und Zubereitungen gelten flüssige Zubereitung
 
 <sup>2</sup> Die Verpackung von mit R65 oder H304 gekennzeichneten und für die Abgabe an die breite Öffentlichkeit bestimmten flüssigen Grillanzündern muss mit folgender Aufschrift versehen sein: «Bereits ein kleiner Schluck Grillanzünder kann zu einer lebensbedrohlichen Schädigung der Lunge führen».
 
-<sup>3</sup> Die Aufschrift muss in mindestens zwei Amtssprachen abgefasst, gut lesbar und dauerhaft sein.
-
 ### 4 Besondere Verpackung
 
 <sup>1</sup> Mit R65 oder H304 gekennzeichnete und für die Abgabe an die breite Öffentlichkeit bestimmte Lampenöle und flüssige Grillanzünder müssen in schwarzen, undurchsichtigen Behältern mit höchstens 1 Liter Füllmenge abgepackt sein.
@@ -1942,13 +1904,13 @@ Als gefährliche flüssige Stoffe und Zubereitungen gelten flüssige Zubereitung
 
 [^annex111-lvlu1-lvl4-1]: Diese Norm kann kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
-Anhang 1.12*[^t-13]*
+Anhang 1.12*[^t-34]*
 
 (Art. 3)
 
 ## Benzol und Homologe
 
-[^t-13]: Fassung gemäss Ziff. I 2 der V vom 15. Dez. 2006, in Kraft seit 1. März 2007 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)).
+[^t-34]: Fassung gemäss Ziff. I 2 der V vom 15. Dez. 2006, in Kraft seit 1. März 2007 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)).
 
 ### 1 Benzol
 
@@ -1977,13 +1939,13 @@ Anhang 1.12*[^t-13]*
 
 Verboten sind das Inverkehrbringen und die Verwendung von Toluol (CAS‑Nr. 108‑88‑3) und Zubereitungen mit einem Massengehalt von 0,1 Prozent oder mehr Toluol in Klebstoffen und Sprühfarben, die für die Abgabe an die breite Öffentlichkeit bestimmt sind.
 
-Anhang 1.13*[^t-14]*
+Anhang 1.13*[^t-35]*
 
 (Art. 3)
 
 ## Nitroaromaten, aromatische Amine und Azofarbstoffe
 
-[^t-14]: Bereinigt gemäss Anhang 2 Ziff. II 2 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 23. Nov. 2005 ([AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)) und Ziff. I der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
+[^t-35]: Bereinigt gemäss Anhang 2 Ziff. II 2 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 23. Nov. 2005 ([AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)) und Ziff. I der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
 
 ### 1 Begriff
 
@@ -2017,13 +1979,13 @@ Als blauer Farbstoff gilt der Azofarbstoff mit den Bestandteilen:
 
 Die Verbote nach Ziffer 2 Absatz 3 treten am 1. August 2006 in Kraft.
 
-Anhang 1.14*[^t-15]*
+Anhang 1.14*[^t-36]*
 
 (Art. 3)
 
 ## Zinnorganische Verbindungen
 
-[^t-15]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) und Ziff. I der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
+[^t-36]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) und Ziff. I der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
 
 ### 1 Disubstituierte zinnorganische Verbindungen
 
@@ -2115,13 +2077,13 @@ Die Verbote nach Ziffer 3.1 gelten nicht:
 
 <sup>4</sup> Das Verbot für das Inverkehrbringen nach Ziffer 2.2 Buchstabe c gilt nicht für trisubstituierte zinnorganische Verbindungen enthaltende Gegenstände, die vor dem 1. Juni 2013 erstmals in Verkehr gebracht worden sind.
 
-Anhang 1.15*[^t-16]*
+Anhang 1.15*[^t-37]*
 
 (Art. 3)
 
 ## Teere
 
-[^t-16]: Eingefügt durch Ziff. I 4 der V vom 10. Dez. 2010, in Kraft seit 1. Dez. 2012 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)).
+[^t-37]: Eingefügt durch Ziff. I 4 der V vom 10. Dez. 2010, in Kraft seit 1. Dez. 2012 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)).
 
 ### 1 Begriffe
 
@@ -2162,13 +2124,13 @@ Verboten ist:
 
 [^annex115-lvlu1-lvl3-1]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dez. 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 453/2010 der Kommission vom 20. Mai 2010, ABl. L 133 vom 31. Mai 2010, S. 1. Die Texte der in diesem Anhang erwähnten Rechtsakte der EU sind unter www.cheminfo.ch abrufbar.
 
-Anhang 1.16*[^t-17]*
+Anhang 1.16*[^t-38]*
 
 (Art. 3)
 
 ## Per- und polyfluorierte Alkylverbindungen
 
-[^t-17]: Eingefügt durch Ziff. I 4 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) und Ziff. I der V vom 17. April 2019 in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-38]: Eingefügt durch Ziff. I 4 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Perfluoroctansulfonsäure und ihre Derivate
 
@@ -2290,7 +2252,7 @@ Für die Herstellung, das Inverkehrbringen und die Verwendung von PFOS sowie von
 
 <sup>1</sup> Die Verpackung von Zubereitungen, die unter das Verbot nach Ziffer 4.2 fallen, muss mit folgenden Aufschriften versehen sein: «Nur für gewerbliche Anwender» und «Lebensgefahr bei Einatmen».
 
-<sup>2</sup> Die Aufschriften müssen in mindestens zwei Amtssprachen abgefasst, gut lesbar und dauerhaft sein.
+<sup>2</sup> …
 
 ### 4**** Übergangsbestimmungen
 
@@ -2328,7 +2290,7 @@ Für die Herstellung, das Inverkehrbringen und die Verwendung von PFOS sowie von
 - b. das Inverkehrbringen von PTFE, das nach Buchstabe a hergestellt werden darf, zum Zweck der Eliminierung von PFOA, deren Salzen und PFOA-Vorläuferverbindungen;
 - c. die Verwendung von PTFE, das nach Buchstabe a hergestellt und nach Buchstabe b in Verkehr gebracht worden ist, wenn die Emissionen von PFOA, deren Salzen und PFOA-Vorläuferverbindungen nach dem Stand der Technik vermieden oder, falls dies nicht möglich ist, auf ein Minimum reduziert werden.f2.
 
-Anhang 1.17*[^t-18]*
+Anhang 1.17*[^t-39]*
 
 (Art. 3)
 
@@ -2336,7 +2298,7 @@ Anhang 1.17*[^t-18]*
 
 [^annex117-lvlu1-1]
 
-[^t-18]: Eingefügt durch Ziff. II Abs. 1 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V des BAFU vom 27. Okt. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), vom 10. Jan. 2017 ([AS 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), vom 27. Sept. 2018 ([AS 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), der Berichtigung vom 26. Febr. 2019 ([AS 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Ziff. I der V des BAFU vom 29. Sept. 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)).
+[^t-39]: Eingefügt durch Ziff. II Abs. 1 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V des BAFU vom 27. Okt. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), vom 10. Jan. 2017 ([AS 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), vom 27. Sept. 2018 ([AS 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), der Berichtigung vom 26. Febr. 2019 ([AS 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Ziff. I der V des BAFU vom 29. Sept. 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)).
 [^annex117-lvlu1-1]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) 2020/171, ABl. L 35 vom 7.2.2020, S. 1.
 
 ### 1 Verbote
@@ -2493,13 +2455,13 @@ Das Inverkehrbringen zur Verwendung der in Ziffer 5 aufgelisteten Stoffe und von
 [^annex117-lvlu1-lvl5-3]: Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Humanarzneimittel. ABl. L 311 vom 28.11.2001, S. 67; zuletzt geändert durch Verordnung (EU) 2017/745, ABl. L 117 vom 5.5.2017, S. 1.
 [^annex117-lvlu1-lvl5-4]: Siehe Fussnote zum Titel dieses Anhangs.
 
-Anhang 1.18*[^t-19]*
+Anhang 1.18*[^t-40]*
 
 (Art. 3)
 
 ## Phthalate
 
-[^t-19]: Eingefügt durch Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-40]: Eingefügt durch Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Begriffe
 
@@ -2579,13 +2541,13 @@ Anhang 2
 
 ## Bestimmungen für Gruppen von Zubereitungen und Gegenständen
 
-Anhang 2.1*[^t-20]*
+Anhang 2.1*[^t-41]*
 
 (Art. 3)
 
 ## Textilwaschmittel
 
-[^t-20]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Ziff. I der V vom 13. Febr. 2008 ([AS 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)), Anhang Ziff. 2 der V vom 14. Jan. 2009 ([AS 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)) und Ziff. II Abs. 2 der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^t-41]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Anhang Ziff. 2 der V vom 14. Jan. 2009 ([AS 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Begriff
 
@@ -2670,8 +2632,6 @@ Anhang 2.1*[^t-20]*
 
 <sup>6</sup> Die Angaben sind auf der Verpackung anzubringen. Wird das Textilwaschmittel zur beruflichen oder gewerblichen Verwendung abgegeben, so dürfen die Angaben in einer anderen zweckmässigen Form (z. B. technische Datenblätter, Sicherheitsdatenblätter) vermittelt werden.
 
-<sup>7</sup> Die Aufschrift muss in mindestens einer Amtssprache abgefasst, gut lesbar und dauerhaft sein.
-
 [^annex21-lvlu1-lvl3-1]: International Nomenclature of Cosmetic Ingredients.
 [^annex21-lvlu1-lvl3-2]: Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel, ABl. L 342 vom 22.12.2009, S. 59; zuletzt geändert durch Verordnung (EU) Nr. 358/2014, ABl. L 107 vom 10.4.2014, S. 5.
 [^annex21-lvlu1-lvl3-3]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
@@ -2742,13 +2702,13 @@ Anhang 2.1*[^t-20]*
 
 <sup>4</sup> Die Bestimmungen der Absätze 2 und 3 gelten bis zum Entscheid der zuständigen Behörde über den Antrag auf Genehmigung einer Ausnahme.
 
-Anhang 2.2*[^t-21]*
+Anhang 2.2*[^t-42]*
 
 (Art. 3)
 
 ## Reinigungsmittel, Desodorierungsmittel und kosmetische Mittel
 
-[^t-21]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Ziff. I der V vom 13. Febr. 2008 ([AS 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)), Anhang Ziff. 2 der V vom 14. Jan. 2009 ([AS 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), Ziff. I der V des BAFU vom 19. Okt. 2009 ([AS 2009 5429](https://fedlex.data.admin.ch/eli/oc/2009/656)), Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) und Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-42]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Anhang Ziff. 2 der V vom 14. Jan. 2009 ([AS 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), Ziff. I der V des BAFU vom 19. Okt. 2009 ([AS 2009 5429](https://fedlex.data.admin.ch/eli/oc/2009/656)), Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Begriff
 
@@ -2847,8 +2807,6 @@ Anhang 2.2*[^t-21]*
 
 <sup>6</sup> Die Angaben sind auf der Verpackung anzubringen. Wird das Reinigungsmittel zur beruflichen oder gewerblichen Verwendung abgegeben, so dürfen die Angaben in einer anderen zweckmässigen Form (z.B. technische Datenblätter, Sicherheitsdatenblätter) vermittelt werden.
 
-<sup>7</sup> Die Aufschrift muss in mindestens einer Amtssprache abgefasst, gut lesbar und dauerhaft sein.
-
 [^annex22-lvlu1-lvl3-1]: International Nomenclature of Cosmetic Ingredients.
 [^annex22-lvlu1-lvl3-2]: Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel, ABl. L 342 vom 22.12.2009, S. 59; zuletzt geändert durch Verordnung (EU) Nr. 358/2014, ABl. L 107 vom 10.4.2014, S. 5.
 [^annex22-lvlu1-lvl3-3]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
@@ -2857,7 +2815,7 @@ Anhang 2.2*[^t-21]*
 
 <sup>1</sup> Bei Geschirrspülmitteln für Maschinen, die im Haushalt verwendet werden, muss in der Gebrauchsanweisung die Standarddosierung in Gramm oder Millilitern oder die Anzahl der Tabs, die für den Hauptwaschgang bei normal verschmutztem Geschirr in einer voll beladenen Geschirrspülmaschine für 12 Gedecke erforderlich ist, angegeben werden; ist die Dosierung von der Wasserhärte abhängig, so müssen diese Angaben um Angaben zur Dosierung bei den Gesamthärtegraden weich, mittel und hart ergänzt werden.
 
-<sup>2</sup> Die Angaben nach Absatz 1 sind in mindestens einer Amtssprache abgefasst, gut lesbar und dauerhaft auf der Verpackung anzubringen.
+<sup>2</sup> …
 
 ### 5 Datenblatt über Inhaltsstoffe
 
@@ -2930,13 +2888,13 @@ Anhang 2.2*[^t-21]*
 
 <sup>6</sup> Bei Geschirrspülmitteln für Maschinen, die im Haushalt verwendet und nach Absatz 5 in Verkehr gebracht werden, muss in der Gebrauchsanweisung für das Geschirrspülmittel die Dosierung so angegeben werden, dass bei ihrer Einhaltung pro Waschgang nicht mehr als 2,5 g Phosphor verbraucht werden.
 
-Anhang 2.3*[^t-22]*
+Anhang 2.3*[^t-43]*
 
 (Art. 3)
 
 ## Lösungsmittel
 
-[^t-22]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-43]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Methanol
 
@@ -2966,7 +2924,7 @@ Verboten ist das Inverkehrbringen von:
 
 <sup>1</sup> Farben mit einem Massengehalt von 3 Prozent oder mehr DEGBE, die nicht zum Verspritzen und die für die breite Öffentlichkeit bestimmt sind, müssen mit folgender Aufschrift versehen sein: «Darf nicht in Farbspritzausrüstung verwendet werden».
 
-<sup>2</sup> Die Aufschrift nach Absatz 1 muss in mindestens zwei Amtssprachen abgefasst, gut sichtbar, leserlich und unverwischbar sein.
+<sup>2</sup> …
 
 ### 2 Cyclohexan
 
@@ -2974,7 +2932,7 @@ Verboten ist das Inverkehrbringen von:
 
 <sup>1</sup> Kontaktklebstoffe auf Neoprenbasis mit einem Massengehalt von 0,1 Prozent oder mehr Cyclohexan (CAS-Nr. 110-82-7), die für die breite Öffentlichkeit bestimmt sind, müssen mit folgender Aufschrift versehen sein: «Dieses Produkt darf nicht bei ungenügender Lüftung verarbeitet werden. – Dieses Produkt darf nicht zum Verlegen von Teppichböden verwendet werden».
 
-<sup>2</sup> Die Aufschrift nach Absatz 1 muss in mindestens zwei Amtssprachen abgefasst, gut sichtbar, leserlich und unverwischbar sein.
+<sup>2</sup> …
 
 ### 2.2 Besondere Verpackung
 
@@ -2996,8 +2954,6 @@ Kontaktklebstoffe auf Neoprenbasis mit einem Massengehalt von 0,1 Prozent oder m
 <sup>1</sup> Farbabbeizer mit einem Massengehalt von 0,1 Prozent oder mehr Dichlormethan müssen mit folgender Aufschrift versehen sein: «Nur für die industrielle Verwendung und für gewerbliche Verwender, die über eine Zulassung in bestimmten EU-Mitgliedsstaaten verfügen. Überprüfen Sie, in welchem Mitgliedsstaat die Verwendung genehmigt ist».
 
 <sup>2</sup> Für die Verwendung in der Schweiz bestimmte Farbabbeizer dürfen in Abweichung von Absatz 1 mit folgender Aufschrift versehen sein: «Nur für die industrielle Verwendung».
-
-<sup>3</sup> Die Aufschrift nach den Absätzen 1 und 2 muss in mindestens zwei Amtssprachen abgefasst, gut sichtbar, leserlich und unverwischbar sein.
 
 ### 4 Ozonschichtabbauende und in der Luft stabile Stoffe
 
@@ -3028,7 +2984,7 @@ Verboten sind:
 - b. die abgekürzten chemischen Bezeichnungen der in der Luft stabilen Stoffe, die in dem Behälter enthalten sind, wobei die für den Anwendungsbereich anerkannte Industrienomenklatur zu verwenden ist;
 - c. Menge der Stoffe, in kg und in Tonnen CO<sub>2</sub>-Äquivalente sowie das Treibhauspotenzial der Stoffe.
 
-<sup>2</sup> Die Aufschrift nach Absatz 1 muss in mindestens zwei Amtssprachen abgefasst, gut sichtbar, leserlich und unverwischbar sein.
+<sup>2</sup> …
 
 [^annex23-lvlu1-lvl4-lvl43-1]: Verordnung (EU) Nr. 517/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über fluorierte Treibhausgase und zur Aufhebung der Verordnung (EG) Nr. 842/2006, Fassung gemäss ABl. L 150 vom 20.5.2014, S. 195.
 
@@ -3080,13 +3036,13 @@ Der Kanton kann von Inhaberinnen halogenierter Lösungsmittelabfälle und von Be
 [^annex23-lvlu1-lvl6-1]: [AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)
 [^annex23-lvlu1-lvl6-2]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 
-Anhang 2.4*[^t-23]*
+Anhang 2.4*[^t-44]*
 
 (Art. 3)
 
 ## Biozidprodukte
 
-[^t-23]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) Anhang Ziff. 2 der V vom 4. Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)) und Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-44]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Anhang Ziff. 2 der V vom 4. Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Holzschutzmittel
 
@@ -3224,7 +3180,7 @@ Biozidprodukte gegen Algen und Moose dürfen nicht verwendet werden:
 
 <sup>1</sup> Die Inhaberinnen von Zulassungen nach Artikel 7 Absatz 1 VPB müssen die Abnehmerinnen von Biozidprodukten gegen Algen und Moose in einer Aufschrift oder in anderer gleichwertiger schriftlicher Form über die Verbote nach Ziffer 4<sup>bis</sup>.2 informieren.
 
-<sup>2</sup> Die Information nach Absatz 1 muss folgende Angaben enthalten: «Die Verwendung auf Dächern und Terrassen, auf Lagerplätzen, auf und an Strassen, Wegen und Plätzen, auf Böschungen und Grünstreifen entlang von Strassen und Gleisanlagen ist verboten». Sie muss in mindestens zwei Amtssprachen abgefasst, gut sichtbar, leserlich und unverwischbar sein.
+<sup>2</sup> Die Information nach Absatz 1 muss folgende Angaben enthalten: «Die Verwendung auf Dächern und Terrassen, auf Lagerplätzen, auf und an Strassen, Wegen und Plätzen, auf Böschungen und Grünstreifen entlang von Strassen und Gleisanlagen ist verboten».
 
 ### 5 Rückgabepflicht
 
@@ -3257,13 +3213,13 @@ Die Verbote dieses Anhangs gelten nicht für das Inverkehrbringen von Biozidprod
 - d. Sockelbereiche von Leitungsmasten;
 - e. andere Anlagen, die einen den Anlagen nach den Buchstaben a–d vergleichbaren Zweck haben und die ausserhalb von Wohnsiedlungen errichtet werden; das BAFU erlässt nach Anhörung der betroffenen Bundesämter für die Vollzugsbehörden Empfehlungen.
 
-Anhang 2.5*[^t-24]*
+Anhang 2.5*[^t-45]*
 
 (Art. 3)
 
 ## Pflanzenschutzmittel
 
-[^t-24]: Bereinigt gemäss Ziff. I 3 der V vom 29. Juni 2011 ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Anhang 9 Ziff. 1 der Direktzahlungsverordnung vom 23. Okt. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), Anhang Ziff. 2 der V vom 4. Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)) und Ziff. I der V vom 14. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)).
+[^t-45]: Bereinigt gemäss Ziff. I 3 der V vom 29. Juni 2011 ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Anhang 9 Ziff. 1 der Direktzahlungsverordnung vom 23. Okt. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), Anhang Ziff. 2 der V vom 4. Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), Ziff. I der V vom 14. Okt. 2020 ([AS 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Verwendung
 
@@ -3325,7 +3281,7 @@ Anhang 2.5*[^t-24]*
 
 <sup>2</sup> Wer ein Pflanzenschutzmittel einführt, das in der Liste nach Artikel 36 Absatz 1 PSMV aufgeführt ist, und das dazu bestimmt ist, unerwünschte Pflanzen oder Pflanzenteile zu vernichten oder auf ein unerwünschtes Pflanzenwachstum Einfluss zu nehmen, muss die Abnehmerinnen in einer Aufschrift oder in anderer gleichwertiger schriftlicher Form über die Verbote nach Ziffer 1.1 Absatz 2 informieren.
 
-<sup>3</sup> Die Aufschrift nach Absatz 1 und die Information nach Absatz 2 muss folgende Angaben enthalten: «Die Verwendung auf Dächern und Terrassen, auf Lagerplätzen, auf und an Strassen, Wegen und Plätzen, auf Böschungen und Grünstreifen entlang von Strassen und Gleisanlagen ist verboten». Sie muss in mindestens 2 Amtssprachen abgefasst, gut sichtbar, leserlich und unverwischbar sein.
+<sup>3</sup> Die Aufschrift nach Absatz 1 und die Information nach Absatz 2 muss folgende Angaben enthalten: «Die Verwendung auf Dächern und Terrassen, auf Lagerplätzen, auf und an Strassen, Wegen und Plätzen, auf Böschungen und Grünstreifen entlang von Strassen und Gleisanlagen ist verboten».
 
 ### 3 Rückgabepflicht
 
@@ -3510,13 +3466,13 @@ Einer Bewilligung des BAFU bedarf, wer folgende Stoffe und Zubereitungen, die so
 [^annex25-lvlu1-lvl4-lvl42-lvl425-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^annex25-lvlu1-lvl4-lvl42-lvl425-2]: [SR 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)
 
-Anhang 2.6*[^t-25]*
+Anhang 2.6*[^t-46]*
 
 (Art. 3)
 
 ## Dünger
 
-[^t-25]: Bereinigt gemäss Anhang der V vom 14. Nov. 2007 ([AS 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)), Anhang 9 Ziff. 1 der Direktzahlungsverordnung vom 23. Okt. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), Anhang Ziff. 2 der V vom 4. Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), Anhang 6 Ziff. 11 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)) und Anhang Ziff. 2 der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681)). Die Berichtigung vom 7. Mai 2019 betrifft nur den französischen Text ([AS 2019 1339](https://fedlex.data.admin.ch/eli/oc/2019/260)).
+[^t-46]: Bereinigt gemäss Anhang der V vom 14. Nov. 2007 ([AS 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)), Anhang 9 Ziff. 1 der Direktzahlungsverordnung vom 23. Okt. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), Anhang Ziff. 2 der V vom 4. Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), Anhang 6 Ziff. 11 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)) und Anhang Ziff. 2 der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681)). Die Berichtigung vom 7. Mai 2019 betrifft nur den französischen Text ([AS 2019 1339](https://fedlex.data.admin.ch/eli/oc/2019/260)).
 
 ### 1 Begriffe
 
@@ -3697,13 +3653,13 @@ Der Schadstoffgehalt von organisch-mineralischen Düngern darf die Grenzwerte de
 
 <sup>2</sup> Die kantonalen Behörden ermitteln die Ursachen der Überschreitung von Richtwerten nach Ziffer 2.2.1 Absatz 3 und sorgen dafür, dass Kompost und Gärgut nicht abgegeben werden, wenn durch deren Verwendung die Fruchtbarkeit des Bodens gefährdet werden kann.
 
-Anhang 2.7*[^t-26]*
+Anhang 2.7*[^t-47]*
 
 (Art. 3)
 
 ## Auftaumittel
 
-[^t-26]: Bereinigt gemäss Ziff. II Abs. 2 der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^t-47]: Bereinigt gemäss Ziff. II Abs. 2 der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
 
 ### 1 Begriff
 
@@ -3761,13 +3717,13 @@ Das BAFU kann einzelnen Verwenderinnen erlauben, Auftaumittel, die andere als di
 
 <sup>3</sup> Die Kantone sorgen dafür, dass für öffentliche Strassen, Wege und Plätze festgelegt wird, wann, wo und wie Auftaumittel verwendet werden oder andere Verfahren zur Bekämpfung von Glatteis und Schneeglätte zum Einsatz kommen.
 
-Anhang 2.8*[^t-27]*
+Anhang 2.8*[^t-48]*
 
 (Art. 3)
 
 ## Anstrichfarben und Lacke
 
-[^t-27]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) und Ziff. II Abs. 2 der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^t-48]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) und Ziff. II Abs. 2 der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
 
 ### 1 Begriffe
 
@@ -3802,13 +3758,13 @@ Anhang 2.8*[^t-27]*
 
 Bleihaltige Anstrichfarben und Lacke sowie damit behandelte Gegenstände dürfen durch die Herstellerin noch bis zum 31. Juli 2006 in Verkehr gebracht werden.
 
-Anhang 2.9*[^t-28]*
+Anhang 2.9*[^t-49]*
 
 (Art. 3)
 
 ## Kunststoffe, deren Monomere und Additive
 
-[^t-28]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)) und vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^t-49]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Begriffe
 
@@ -3928,11 +3884,11 @@ Anhang 2.9*[^t-28]*
 
 <sup>2</sup> Zubereitungen und Gegenstände, die Recycling-PVC enthalten, müssen mit der Aufschrift «Enthält Recycling-PVC» oder mit folgendem Piktogramm versehen sein:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220401/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220501/de/xml/image/image2.png)
 
 <sup>3</sup> Zubereitungen, deren Massengehalt an Methylendiphenyl-Diisocyanat 0,1 Prozent oder mehr beträgt, und die für die Abgabe an die breite Öffentlichkeit bestimmt sind, müssen mit folgender Aufschrift versehen sein: «Bei Personen, die bereits für Diisocyanate sensibilisiert sind, kann der Umgang mit diesem Produkt allergische Reaktionen auslösen. – Bei Asthma, ekzematösen Hauterkrankungen oder Hautproblemen Kontakt, einschließlich Hautkontakt, mit dem Produkt vermeiden. – Das Produkt nicht bei ungenügender Lüftung verwenden oder Schutzmaske mit entsprechendem Gasfilter (Typ A1 nach EN 14387) tragen.»
 
-<sup>4</sup> Die Information nach Absatz 1 und die Aufschriften nach den Absätzen 2–3 müssen in mindestens zwei Amtssprachen abgefasst, gut sichtbar, leserlich und unverwischbar sein.
+<sup>4</sup> …
 
 <sup>5</sup> Für Kunststoffgranulate oder -streu, die zur Verwendung als Einstreumaterial für Kunstrasenplätze oder in loser Form für Spiel- oder Sportplätze in Verkehr gebracht werden, ist eine Chargennummer anzugeben, mit welcher die Charge eindeutig identifiziert werden kann. Die Chargennummer ist auf der Verpackung anzugeben oder in einer anderen zweckmässigen Form zu vermitteln.
 
@@ -3975,13 +3931,13 @@ Das BAFU erlässt nach Anhörung der betroffenen Branche Empfehlungen zum Stand 
 
 <sup>8</sup> Schaumstoffe und Gegenstände mit Schaumstoffen, für die Ziffer 3 Absatz 3<sup>bis</sup> nicht mehr anzuwenden ist, weil aufgrund einer Änderung des Standes der Technik ein Ersatz besteht, dürfen noch während 6 Monaten hergestellt, zu beruflichen oder gewerblichen Zwecken eingeführt sowie während weiterer 6 Monate an Dritte abgegeben werden.
 
-Anhang 2.10*[^t-29]*
+Anhang 2.10*[^t-50]*
 
 (Art. 3)
 
 ## Kältemittel
 
-[^t-29]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. 2 der V vom 18. Nov. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), Ziff. I der V des BAFU vom 9. Sept. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)) und Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^t-50]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. 2 der V vom 18. Nov. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), Ziff. I der V des BAFU vom 9. Sept. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)), Ziff. I der V vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Begriffe
 
@@ -4161,8 +4117,6 @@ Anhang 2.10*[^t-29]*
 - a. Kältemittel enthalten, die in Anhang I der Verordnung (EU) Nr. 517/2014 aufgeführt sind; und
 - b. vor ihrem Inverkehrbringen mit Schaum isoliert wurden, der mittels in der Luft stabiler Stoffe, die in Anhang I der Verordnung (EU) Nr. 517/2014 aufgeführt sind, ausgetrieben wurde.
 
-<sup>4</sup> Die Kennzeichnung nach den Absätzen 2 und 3 muss in mindestens zwei Amtssprachen abgefasst, sichtbar, leicht lesbar und dauerhaft sein.
-
 [^annex210-lvlu1-lvl2-lvl24-1]: Verordnung (EU) Nr. 517/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über fluorierte Treibhausgase und zur Aufhebung der Verordnung (EG) Nr. 842/2006, Fassung gemäss ABl. L 150 vom 20.5.2014, S. 195.
 
 ### 2.5 Vorschriften für die Abgabe von Kältemitteln
@@ -4295,13 +4249,13 @@ Das BAFU erlässt Empfehlungen:
 [^annex210-lvlu1-lvl7-2]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 [^annex210-lvlu1-lvl7-3]: [AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 
-Anhang 2.11*[^t-30]*
+Anhang 2.11*[^t-51]*
 
 (Art. 3)
 
 ## Löschmittel
 
-[^t-30]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^t-51]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Begriffe
 
@@ -4315,7 +4269,7 @@ Anhang 2.11*[^t-30]*
 
 <sup>5</sup> Ein Gerät ist ein transportables Hilfsmittel zum Löschen von Bränden, welches kein fest installiertes Rohrleitungssystem aufweist.
 
-### 1<sup>bis</sup> [Löschmittel, die per- und polyfluorierte Alkylverbindungen enthalten](https://www.fedlex.admin.ch/eli/cc/2005/478/de)
+### 1<sup>bis</sup> Löschmittel, die per- und polyfluorierte Alkylverbindungen enthalten
 
 Für Löschmittel, die PFOS oder PFOA, C<sub>9</sub>–C<sub>14</sub>-PFCA, PFHxS und deren Vorläuferverbindungen enthalten, gilt Anhang 1.16.
 
@@ -4443,7 +4397,7 @@ Die Inhaberinnen von Geräten, die mehr als 8 kg ozonschichtabbauende oder in de
 - b. die abgekürzten chemischen Bezeichnungen der fluorierten Treibhausgase, die enthalten sind oder sein werden, wobei die für den Anwendungsbereich anerkannte Industrienomenklatur verwendet wird;
 - c. Menge der Löschmittel, in kg und in Tonnen CO<sub>2</sub>-Äquivalente sowie das Treibhauspotenzial der Löschmittel.
 
-<sup>2</sup> Der Hinweis und die Angaben nach Absatz 1 müssen in mindestens zwei Amtssprachen abgefasst, sichtbar, gut lesbar und dauerhaft sein.
+<sup>2</sup> …
 
 [^annex211-lvlu1-lvl8-1]: Verordnung (EU) Nr. 517/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über fluorierte Treibhausgase und zur Aufhebung der Verordnung (EG) Nr. 842/2006 des Europäischen Parlaments und des Rates, Fassung gemäss ABl L 150 vom 20.5.2014, S. 195.
 
@@ -4454,13 +4408,13 @@ Für Löschgeräte und -anlagen, die in der Luft stabile Löschmittel enthalten 
 [^annex211-lvlu1-lvl9-1]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 [^annex211-lvlu1-lvl9-2]: [AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 
-Anhang 2.12*[^t-31]*
+Anhang 2.12*[^t-52]*
 
 (Art. 3)
 
 ## Aerosolpackungen
 
-[^t-31]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Anhang Ziff. 3 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dez. 2016 ([AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)) und Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-52]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Anhang Ziff. 3 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dez. 2016 ([AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Begriffe
 
@@ -4527,17 +4481,19 @@ Anhang 2.12*[^t-31]*
 
 <sup>1</sup> Aerosolpackungen nach Ziffer 2 Absatz 3 müssen mit folgender Aufschrift versehen sein: «Nur für gewerbliche Anwender».
 
-<sup>2</sup> Die Aufschrift muss in mindestens zwei Amtssprachen abgefasst, gut sichtbar, leserlich und unverwischbar sein.
+<sup>2</sup> …
 
 ### 5 Meldepflicht
 
 Wer Aerosolpackungen mit in der Luft stabilen Stoffen selber abfüllt oder importiert, muss dem BAFU auf Verlangen für die letzten drei Jahre die Mengen der einzelnen Stoffe melden; die Angaben sind aufzuschlüsseln nach Einfuhr, Verbrauch im Inland und Ausfuhr sowie nach Verwendungszwecken.
 
-Anhang 2.13
+Anhang 2.13*[^t-53]*
 
 (Art. 3)
 
 ## Brennstoffzusätze
+
+[^t-53]: Bereinigt gemäss Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Begriff
 
@@ -4550,7 +4506,7 @@ Brennstoffzusätze sind Stoffe oder Zubereitungen, die den Brennstoffen, namentl
 - a. Halogen- oder Schwermetallverbindungen (ausgenommen Eisenverbindungen); oder
 - b. Stoffe, die das Ergebnis der Russzahl-Messung bei der Ölfeuerungskontrolle verfälschen, wie z. B. Magnesiumverbindungen.
 
-<sup>2</sup> Der Hinweis muss in mindestens zwei Amtssprachen abgefasst, gut lesbar und dauerhaft sein.
+<sup>2</sup> …
 
 ### 3 Beigabe zu Brennstoffen
 
@@ -4558,13 +4514,13 @@ Für die Beigabe von Brennstoffzusätzen zu Brennstoffen gelten die Anforderunge
 
 [^annex213-lvlu1-lvl3-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
 
-Anhang 2.14*[^t-32]*
+Anhang 2.14*[^t-54]*
 
 (Art. 3)
 
 ## Kondensatoren und Transformatoren
 
-[^t-32]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010, in Kraft seit 1. Febr. 2011 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)).
+[^t-54]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010, in Kraft seit 1. Febr. 2011 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)).
 
 ### 1 Begriffe
 
@@ -4596,13 +4552,13 @@ Anhang 2.14*[^t-32]*
 
 [^annex214-lvlu1-lvl3-1]: [SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
 
-Anhang 2.15*[^t-33]*
+Anhang 2.15*[^t-55]*
 
 (Art. 3)
 
 ## Batterien
 
-[^t-33]: Fassung gemäss Ziff. I 5 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Anhang Ziff. II 2 der V vom 20. Okt. 2021 über die Rückgabe, die Rücknahme und die Entsorgung elektrischer und elektronischer Geräte, in Kraft seit. 1. Jan. 2022 ([AS 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)).
+[^t-55]: Fassung gemäss Ziff. I 5 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Anhang Ziff. II 2 der V vom 20. Okt. 2021 über die Rückgabe, die Rücknahme und die Entsorgung elektrischer und elektronischer Geräte, in Kraft seit. 1. Jan. 2022 ([AS 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)).
 
 ### 1 Begriffe
 
@@ -4801,13 +4757,13 @@ Die Organisation darf die Gebühr ausschliesslich für die Finanzierung folgende
 
 <sup>3</sup> Die Gebührenpflicht nach Ziffer 6.1 gilt nicht für die vor dem 1. Januar 2012 in Verkehr gebrachten Batterien mit einem Gewicht über 5 kg.
 
-Anhang 2.16*[^t-34]*
+Anhang 2.16*[^t-56]*
 
 (Art. 3)
 
 ## Besondere Bestimmungen zu Metallen
 
-[^t-34]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V des BAFU vom 27. Okt. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), Ziff. I der V des BAFU vom 27. Sept. 2018 ([AS 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)) und vom 29. Sept. 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)).
+[^t-56]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V des BAFU vom 27. Okt. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), Ziff. I der V des BAFU vom 27. Sept. 2018 ([AS 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), vom 29. Sept. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Chrom(VI) in Zementen
 
@@ -4831,8 +4787,6 @@ Die Verbote nach Ziffer 1.1 gelten nicht für das Inverkehrbringen zum Zwecke de
 - b. unter welchen Bedingungen und wie lange sie gelagert werden können, ohne dass der Gehalt an löslichem Chrom(VI) 0,0002 Prozent der Trockenmasse des Zements überschreitet.
 
 <sup>4</sup> Absatz 3 gilt nicht für das Inverkehrbringen für Verwendungen nach Ziffer 1.2.
-
-<sup>5</sup> Die Aufschriften müssen in mindestens zwei Amtssprachen abgefasst, gut lesbar und dauerhaft sein.
 
 [^annex216-lvlu1-lvl1-lvl13-1]: Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dez. 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006, ABl. L 353 vom 31.12.2008, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 618/2012, ABl. L 179 vom 11.7.2012, S. 3.
 [^annex216-lvlu1-lvl1-lvl13-2]: Richtlinie 1999/45/EG des Europäischen Parlaments und des Rates vom 31. Mai 1999 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten für die Einstufung, Verpackung und Kennzeichnung gefährlicher Zubereitungen, ABl. L 200 vom 30.7.1999, S. 1; zuletzt geändert durch Verordnung (EG) Nr. 1272/2008, ABl. L 353 vom 31.12.2008, S. 1.
@@ -5044,13 +4998,13 @@ Fahrzeugwerkstoffe und -bauteile sind nach Anhang II der Richtlinie 2000/53/EG[^
 
 [^annex216-lvlu1-lvl7-1]: Siehe Fussnote zu Ziffer 5.3 Absatz 1.
 
-Anhang 2.17*[^t-35]*
+Anhang 2.17*[^t-57]*
 
 (Art. 3)
 
 ## Holzwerkstoffe
 
-[^t-35]: Bereinigt gemäss Ziff. I der V vom 13. Febr. 2008, in Kraft seit 1. März 2008 ([AS 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)).
+[^t-57]: Bereinigt gemäss Ziff. I der V vom 13. Febr. 2008, in Kraft seit 1. März 2008 ([AS 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)).
 
 ### 1 Begriffe
 
@@ -5085,13 +5039,13 @@ Holzwerkstoffe dürfen durch eine Herstellerin nicht in Verkehr gebracht werden,
 
 Die Verbote nach Ziffer 2 treten am 1. August 2006 in Kraft.
 
-Anhang 2.18*[^t-36]*
+Anhang 2.18*[^t-58]*
 
 (Art. 3)
 
 ## Elektro- und Elektronikgeräte
 
-[^t-36]: Eingefügt durch Ziff. II Abs. 1 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V des BAFU vom 27. Okt. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Ziff. I der V des BAFU vom 9. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)).
+[^t-58]: Eingefügt durch Ziff. II Abs. 1 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V des BAFU vom 27. Okt. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Ziff. I der V des BAFU vom 9. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)).
 
 ### 1 Begriffe
 
