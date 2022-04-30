@@ -4,7 +4,7 @@ number: "172.215.1"
 title: "RÈGLEMENT du 05.07.2017 sur les départements de l'administration (RdéA)"
 short: RdéA
 language: fr
-version: 2020-03-18
+version: 2022-05-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.215.1?id=524a23f0-7fd0-4327-9e56-4059af79ddb4"
 ---
 
@@ -120,6 +120,7 @@ la Chancellerie d'Etat le Collège des secrétaires généraux les services à c
 - - Forêts, faune et nature
 - - Défense contre l'incendie et les éléments naturels
 - - Lutte contre les nuisances
+- - Plan Climat
 
 <sup>2</sup> ...
 
