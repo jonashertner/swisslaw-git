@@ -3,20 +3,20 @@ canton: SG
 number: "217.32"
 title: Personalreglement der Universität St.Gallen (HSG)
 language: de
-version: 2019-01-01
-valid_until: 2022-04-30
-version_adopted: 2018-06-15
+version: 2022-05-01
+valid_until: 2023-09-19
+version_adopted: 2022-03-07
 adopted: 2014-05-05
 in_force: 2014-10-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/217.32"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2757/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3345/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Personalreglement der Universität St.Gallen (HSG)
 
-vom 05.05.2014 (Stand 01.01.2019)
+vom 05.05.2014 (Stand 01.05.2022)
 
 Der Universitätsrat der Universität St.Gallen
 
@@ -271,13 +271,7 @@ nachfolgendes Personalreglement:[^ingress-4]
 
 #### Art. 24
 
-**Rechte an Erfindungen**
-
-<sup>1</sup> Die Rechte an Erfindungen gehören der Universität St.Gallen.
-
-<sup>2</sup> Die Universität richtet für die an sie übergegangenen Rechte an Erfindungen, die nicht in Erfüllung von Pflichten aus dem Arbeitsverhältnis entstanden sind, eine angemessene Vergütung im Sinne von Art. 70 Abs. 3 des Personalgesetzes vom 25. Januar 2011[^24-1] aus.
-
-[^24-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+**…**
 
 #### Art. 25
 
