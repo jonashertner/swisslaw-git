@@ -4,11 +4,11 @@ title: "Ordonnance du 11 août 1999 sur l'exécution du renvoi et de l'expulsion
 short: OERE
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: fr
-version: 2022-03-01
+version: 2022-05-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20220301/fr/xml/fedlex-data-admin-ch-eli-cc-1999-357-20220301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20220301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-1999-357-20220501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20220501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20220301/fr"
 
 (OERE)
 
-du 11 août 1999 (Etat le 1<sup>er</sup> mars 2022)
+du 11 août 1999 (Etat le 1<sup>er</sup> mai 2022)
 
 Le Conseil fédéral suisse,
 
@@ -642,19 +642,52 @@ L’OFJ peut réduire le montant de la restitution ou renoncer à une restitutio
 
 [^15o-1]: [RS 341.1](https://fedlex.data.admin.ch/eli/cc/2007/862)
 
-## Section 1*d***** Conservation et effacement des données médicales servant à évaluer l’aptitude au transport
+## Section 1*d***** Évaluation de l’aptitude au transport
 
 [^sec1d-1]
 
-[^sec1d-1]: Introduite par le ch. I de l’O du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6167](https://fedlex.data.admin.ch/eli/oc/2017/684)).
+[^sec1d-1]: Introduite par le ch. I de l’O du 25 oct. 2017 ([RO 2017 6167](https://fedlex.data.admin.ch/eli/oc/2017/684)). Nouvelle teneur selon le ch. I de l’O du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 202](https://fedlex.data.admin.ch/eli/oc/2022/202)).
 
-### (art. 71*b*, al. 2, LEI)
+### (art. 71*b* LEI)
 
 #### Art. 15p
 
-<sup>1</sup> Les autorités habilitées à demander des données médicales en vertu de l’art. 71*b*, al. 1, LEI peuvent les traiter jusqu’à l’exécution du renvoi ou de l’expulsion de l’étranger concerné.
+**Compétence**
 
-<sup>2</sup> Les données médicales sont effacées au plus tard douze mois après que l’étranger a quitté la Suisse ou le constat de son passage à la clandestinité.
+Le médecin mandaté par le SEM pour assurer, lors du départ, la surveillance médicale en vue de l’exécution d’un renvoi ou d’une expulsion a compétence pour décider si une personne est médicalement apte à être transportée dans le cadre de l’exécution d’un renvoi ou d’une expulsion.
+
+#### Art. 15q
+
+**Transmission de données médicales servant à évaluer l’aptitude au transport**
+
+<sup>1</sup>
+
+Le médecin traitant n’est habilité à transmettre que les données médicales:
+
+- a. dont il dispose au moment où la demande lui parvient, et
+- b. qui sont nécessaires pour évaluer si la personne concernée est apte à être transportée dans le cadre de l’exécution du renvoi ou de l’expulsion.
+
+<sup>2</sup> Les services visés à l’art. 71*b*, al. 1, let. a à c, LEI demandent par écrit au médecin traitant de leur fournir les données médicales nécessaires à l’évaluation et lui indiquent le médecin chargé de statuer sur l’aptitude au transport conformément à l’art. 15*p*.
+
+<sup>3</sup> Le médecin traitant informe la personne concernée qu’il est légalement tenu de transmettre les données requises.
+
+<sup>4</sup> Il transmet sans délai au médecin visé à l’art. 15*p* les données médicales nécessaires à l’évaluation et informe en même temps les services visés à l’art. 71*b*, al. 1, let. a et b, LEI de cette transmission.
+
+#### Art. 15r
+
+**Communication de la décision concernant l’aptitude au transport et des informations sur l’organisation du départ**
+
+Le médecin visé à l’art. 15*p* communique sans délai aux services visés à l’art. 71*b*, al. 1, let. a et b, LEI sa décision concernant l’aptitude au transport et les informations nécessaires à l’organisation du départ.
+
+#### Art. 15s
+
+**Traitement et effacement des données médicales et des informations sur l’organisation du départ**
+
+<sup>1</sup> Le médecin visé à l’art. 15*p* peut traiter les données médicales jusqu’à l’exécution du renvoi ou de l’expulsion de la personne concernée.
+
+<sup>2</sup> Les services visés à l’art. 71*b*, al. 1, let. a et b, LEI peuvent traiter les informations sur l’organisation du départ visées à l’art 15*r* jusqu’à l’exécution du renvoi ou de l’expulsion de la personne concernée.
+
+<sup>3</sup> Les données médicales et les informations sur l’organisation du départ sont effacées au plus tard douze mois après que la personne concernée a quitté la Suisse ou que son passage à la clandestinité a été constaté.
 
 ## Section 2 Admission provisoire
 

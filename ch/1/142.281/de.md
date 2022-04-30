@@ -4,11 +4,11 @@ title: Verordnung vom 11. August 1999 über den Vollzug der Weg- und Ausweisung 
 short: VVWAL
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: de
-version: 2022-03-01
+version: 2022-05-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20220301/de/xml/fedlex-data-admin-ch-eli-cc-1999-357-20220301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20220301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20220501/de/xml/fedlex-data-admin-ch-eli-cc-1999-357-20220501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20220501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20220301/de"
 
 (VVWAL)**[^t-2]**[^t-1]
 
-vom 11. August 1999 (Stand am 1. März 2022)
+vom 11. August 1999 (Stand am 1. Mai 2022)
 
 [^t-1]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^t-2]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
@@ -324,7 +324,7 @@ Die Kantone erstatten dem SEM die Vollzugs- und Ausreisekosten zurück, die bei 
 
 <sup>3</sup> Das SEM verfolgt gesamtschweizerisch die Entwicklung der Betriebskosten. Die Kantone übermitteln dem SEM die dazu notwendigen Grundlagen zur Zusammensetzung der Betriebskosten.
 
-<sup>4</sup> ...[^15-2]
+<sup>4</sup> …[^15-2]
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 26. März 2014, in Kraft seit 1. Febr. 2014 ([AS 2014 865](https://fedlex.data.admin.ch/eli/oc/2014/183)).
 [^15-2]: Aufgehoben durch Ziff. I der V vom 8. Juni 2018, mit Wirkung seit 1. März 2019 ([AS 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
@@ -643,19 +643,52 @@ Das BJ kann den Betrag der Rückforderung ermässigen oder auf eine Rückforderu
 
 [^15o-1]: [SR 341.1](https://fedlex.data.admin.ch/eli/cc/2007/862)
 
-## 1*d*. Abschnitt:**** Aufbewahrung und Löschung medizinischer Daten zur Beurteilung der Transportfähigkeit
+## 1*d*. Abschnitt:**** [Beurteilung der Transportfähigkeit](https://www.admin.ch/opc/de/classified-compilation/19994789/index.html)
 
 [^sec1d-1]
 
-[^sec1d-1]: Eingefügt durch Ziff. I der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6167](https://fedlex.data.admin.ch/eli/oc/2017/684)).
+[^sec1d-1]: Eingefügt durch Ziff. I der V vom 25. Okt. 2017 ([AS 2017 6167](https://fedlex.data.admin.ch/eli/oc/2017/684)). Fassung gemäss Ziff. I der V vom 18. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 202](https://fedlex.data.admin.ch/eli/oc/2022/202)).
 
 ### (Art. 71*b* Abs. 2 AIG)
 
 #### Art. 15p
 
-<sup>1</sup> Die medizinischen Daten können von den Anfrageberechtigten gemäss Artikel 71*b* Absatz 1 AIG bis zum Vollzug der Weg- oder Ausweisung oder der Landesverweisung bearbeitet werden.
+**Zuständigkeit**
 
-<sup>2</sup> Die medizinischen Daten sind spätestens zwölf Monate nachdem die Person die Schweiz verlassen hat oder nachdem ihr Untertauchen festgestellt wurde zu löschen.
+Die Ärztin oder der Arzt, die oder der im Auftrag des SEM die medizinische Überwachung beim Vollzug der Weg- oder Ausweisung im Zeitpunkt der Ausreise wahrnimmt, ist für den Entscheid zuständig, ob eine betroffene Person im Rahmen des Vollzugs einer Weg- oder Ausweisung aus medizinischer Sicht transportfähig ist.
+
+#### Art. 15q
+
+**Weitergabe medizinischer Daten zur Beurteilung der Transportfähigkeit**
+
+<sup>1</sup>
+
+Die behandelnde Ärztin oder der behandelnde Arzt darf auschliesslich medizinische Daten weitergeben, die:
+
+- a. ihr oder ihm zum Zeitpunkt der Anfrage zur Verfügung stehen; und
+- b. für die Beurteilung der Transportfähigkeit einer betroffenen Person für den Vollzug einer Weg- oder Ausweisung notwendig sind.
+
+<sup>2</sup> Die Stellen nach Artikel 71*b* Absatz 1 Buchstaben a–c AIG fordern die notwendigen medizinischen Daten bei der behandelnden Ärztin oder dem behandelnden Arzt schriftlich an und teilen ihr oder ihm mit, welche Ärztin oder welcher Arzt gemäss Artikel 15*p* für den Entscheid betreffend die Transportfähigkeit zuständig ist.
+
+<sup>3</sup> Die behandelnde Ärztin oder der behandelnde Arzt informiert die betroffene Person über seine oder ihre gesetzliche Pflicht zur Datenweitergabe.
+
+<sup>4</sup> Die behandelnde Ärztin oder der behandelnde Arzt leitet die notwendigen medizinischen Daten unverzüglich an die Ärztin oder den Arzt nach Artikel 15*p* weiter und informiert gleichzeitig die Stellen nach Artikel 71*b* Absatz 1 Buchstaben a und b AIG über die Weitergabe der Daten.
+
+#### Art. 15r
+
+**Mitteilung über den Entscheid betreffend die Transportfähigkeit und über Informationen für die Ausreiseorganisation**
+
+Die Ärztin oder der Arzt nach Artikel 15*p* teilt den Stellen nach Artikel 71*b* Absatz 1 Buchstaben a und b AIG den Entscheid über die Transportfähigkeit und die Informationen, die für die Ausreiseorganisation notwendig sind, unverzüglich mit.
+
+#### Art. 15s
+
+**Bearbeitung und Löschung medizinischer Daten und von Informationen für die Ausreiseorganisation**
+
+<sup>1</sup> Die medizinischen Daten können von der Ärztin oder dem Arzt nach Artikel 15*p* bis zum Vollzug der Weg- oder Ausweisung bearbeitet werden.
+
+<sup>2</sup> Die Informationen für die Ausreiseorganisation nach Artikel 15*r* können von den Stellen nach Artikel 71*b* Absatz 1 Buchstaben a und b AIG bis zum Vollzug der Weg- oder Ausweisung bearbeitet werden.
+
+<sup>3</sup> Die medizinischen Daten und die Informationen für die Ausreiseorganisation sind spätestens zwölf Monate nachdem die Person die Schweiz verlassen hat oder nachdem ihr Untertauchen festgestellt wurde zu löschen.
 
 ## 2. Abschnitt: Vorläufige Aufnahme
 
@@ -711,7 +744,7 @@ Im Hinblick auf die Feststellung, dass die Rückkehr in einen Heimat- oder Herku
 
 <sup>2</sup> Die kantonalen Behörden stellen der ausländischen Person entsprechend der vom SEM getroffenen Verfügung einen auf höchstens ein Jahr befristeten und verlängerbaren Ausländerausweis F aus. Dieser gilt gegenüber allen eidgenössischen und kantonalen Behörden als Ausweispapier. Er hält nur die Rechtsstellung fest undberechtigt nicht zum Grenzübertritt.
 
-<sup>3</sup> ...[^20-3]
+<sup>3</sup> …[^20-3]
 
 <sup>4</sup> Aus der Gültigkeitsdauer des Ausweises F kann kein Anwesenheitsrecht abgeleitet werden.
 
@@ -774,7 +807,7 @@ Als definitive Ausreise nach Artikel 84 Absatz 4 AIG gilt eine Ausreise insbeson
 
 - a. in einem anderen Staat ein Asylgesuch einreicht;
 - b. in einem anderen Staat eine Aufenthaltsregelung erhält;
-- c.[^26a-4] ...
+- c.[^26a-4] …
 - d.[^26a-5] ohne ein Rückreisevisum nach Artikel 7 der Verordnung vom 14. November 2012[^26a-6] über die Ausstellung von Reisedokumenten für ausländische Personen (RDV) oder ohne einen Pass für eine ausländische Person nach Artikel 4 Absatz 4 RDV in ihren Heimat- oder Herkunftsstaat zurückgekehrt ist;
 - e.[^26a-7] über die Gültigkeitsdauer eines Rückreisevisums nach Artikel 7 RDV oder eines Passes für eine ausländische Person nach Artikel 4 Absatz 4 RDV im Ausland verbleibt;
 - f. sich abmeldet und ausreist.
@@ -891,7 +924,7 @@ Das SEM stellt den zuständigen Stellen die notwendigen Standardformulare zur Ve
 
 Die Verordnung vom 25. November 1987[^27-1] über die vorläufige Aufnahme von Ausländern wird aufgehoben.
 
-[^27-1]: [[AS 1987 1669](https://fedlex.data.admin.ch/eli/oc/1987/1669_1669_1669), [1990 1579](https://fedlex.data.admin.ch/eli/oc/1990/1579_1579_1579), [1991 1165](https://fedlex.data.admin.ch/eli/oc/1991/1165_1165_1165), [1995 5041](https://fedlex.data.admin.ch/eli/oc/1995/5041_5041_5041)]
+[^27-1]: [[AS 1987 1669](https://fedlex.data.admin.ch/eli/oc/1987/1669_1669_1669); [1990 1579](https://fedlex.data.admin.ch/eli/oc/1990/1579_1579_1579); [1991 1165](https://fedlex.data.admin.ch/eli/oc/1991/1165_1165_1165); [1995 5041](https://fedlex.data.admin.ch/eli/oc/1995/5041_5041_5041)]
 
 #### Art. 28
 
@@ -923,7 +956,7 @@ Diese Verordnung tritt am 1. Oktober 1999 in Kraft.
 
 <sup>2</sup> Der Bund richtet den Kantonen für Personen, deren Nichteintretensentscheid nach den Artikeln 32–34 und deren Wegweisungsentscheid nach dem Artikel 44 des Asylgesetzes vor Inkrafttreten dieser Verordnung rechtskräftig wurde, Vollzugsentschädigungen nach Artikel 15*c* dieser Verordnung aus. Diese pauschale Entschädigung wird nur ausgerichtet, wenn die Wegweisung innert neun Monaten seit Inkrafttreten dieser Verordnung vollzogen worden ist. Keine Vollzugsentschädigung wird ausgerichtet für Personen, für die der Bund den Kantonen im Rahmen der Vollzugsunterstützung nach Artikel 22*a* des Bundesgesetzes vom 26. März 1931[^u1-2] über Aufenthalt und Niederlassung der Ausländer die Abgeltung der Sozialhilfekosten nach Artikel 88 Absatz 1 Buchstabe a des Asylgesetzes zugesichert hat.
 
-[^u1-2]: [BS **1** 121; [AS 1949 221](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225), [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665), [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332), [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)Ziff. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148)[2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Anhang Ziff. 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)Ziff. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)Ziff. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)Art. 18 Ziff. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)Anhang Ziff. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)Anhang Ziff. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)Anhang Ziff. 1. [AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Anhang Ziff. I]. Siehe heute: das Ausländer- und Integrationsgesetz vom 16. Dez. 2005 ([SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
+[^u1-2]: [BS **1** 121; [AS 1949 221](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)Ziff. III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Anhang Ziff. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. IV 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)Ziff. I 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)Ziff. I 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)Art. 18 Ziff. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)Anhang Ziff. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)Anhang Ziff. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)Anhang Ziff. 1. [AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Anhang Ziff. I]. Siehe heute: das Ausländer- und Integrationsgesetz vom 16. Dez. 2005 ([SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
 
 ## Schlussbestimmungen zur Änderung vom 1. März 2006****
 

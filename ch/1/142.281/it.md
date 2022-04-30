@@ -4,11 +4,11 @@ title: "Ordinanza dell' 11 agosto 1999 concernente l'esecuzione dell'allontaname
 short: OEAE
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: it
-version: 2022-03-01
+version: 2022-05-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20220301/it/xml/fedlex-data-admin-ch-eli-cc-1999-357-20220301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20220301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20220501/it/xml/fedlex-data-admin-ch-eli-cc-1999-357-20220501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20220501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20220301/it"
 
 (OEAE)
 
-dell’11 agosto 1999 (Stato 1° marzo 2022) (Stato 1° marzo 2022)
+dell’11 agosto 1999 (Stato 1° maggio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -641,19 +641,52 @@ L’UFG può ridurre l’importo da restituire o rinunciare alla restituzione se
 
 [^15o-1]: [RS 341.1](https://fedlex.data.admin.ch/eli/cc/2007/862)
 
-## Sezione 1*d*:**** Conservazione e cancellazione dei dati medici per valutare l’idoneità al trasporto
+## Sezione 1*d*:**** Valutazione dell’idoneità al trasporto
 
 [^sec1d-1]
 
-[^sec1d-1]: Introdotta dal n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6167](https://fedlex.data.admin.ch/eli/oc/2017/684)).
+[^sec1d-1]: Introdotta dal n. I dell’O del 25 ott. 2017 ([RU 2017 6167](https://fedlex.data.admin.ch/eli/oc/2017/684)). Nuovo testo giusta il n. I dell’O del 18 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 202](https://fedlex.data.admin.ch/eli/oc/2022/202)).
 
-### (art. 71*b* cpv. 2 LStrI)
+### (art. 71*b* LStrI)
 
 #### Art. 15p
 
-<sup>1</sup> Le autorità abilitate a richiedere dati medici in virtù dell’articolo 71*b* capoverso 1 LStrI possono trattarli fino all’esecuzione dell’allontanamento o dell’espulsione dello straniero.
+**Competenza**
 
-<sup>2</sup> I dati medici sono cancellati al più tardi dodici mesi dopo che lo straniero ha lasciato la Svizzera o dopo la costatazione del suo passaggio alla clandestinità.
+Il medico che, su incarico della SEM, assicura il monitoraggio medico sull’esecuzione dell’allontanamento o dell’espulsione al momento della partenza ha competenza di decidere se, dal punto di vista medico, la persona interessata è idonea al trasporto nel quadro dell’esecuzione di un allontanamento o di un’espulsione.
+
+#### Art. 15q
+
+**Trasmissione di dati medici per valutare l’idoneità al trasporto**
+
+<sup>1</sup>
+
+Il medico curante può trasmettere unicamente i dati medici:
+
+- a. di cui dispone al momento della richiesta; e
+- b. che sono necessari per valutare l’idoneità al trasporto della persona interessata in vista dell’esecuzione dell’allontanamento o dell’espulsione.
+
+<sup>2</sup> I servizi di cui all’articolo 71*b* capoverso 1 lettere a–c LStrI chiedono per scritto al medico curante i dati medici necessari e gli indicano il medico competente per la decisione relativa all’idoneità al trasporto secondo l’articolo 15*p*.
+
+<sup>3</sup> Il medico curante informa la persona interessata sull’obbligo di comunicare i dati che lo vincola per legge.
+
+<sup>4</sup> Il medico curante trasmette senza indugio i dati medici necessari al medico di cui all’articolo 15*p* e informa al contempo i servizi di cui all’articolo 71*b* capoverso 1 lettere a e b LStrI in merito alla trasmissione dei dati.
+
+#### Art. 15r
+
+**Comunicazione della decisione riguardante l’idoneità al trasporto e delle informazioni per l’organizzazione della partenza**
+
+Il medico di cui all’articolo 15*p* comunica senza indugio ai servizi di cui all’articolo 71*b* capoverso 1 lettere a e b LStrI la decisione relativa all’idoneità al trasporto e le informazioni necessarie per l’organizzazione della partenza.
+
+#### Art. 15s
+
+**Trattamento e cancellazione di dati medici e di informazioni per l’organizzazione della partenza**
+
+<sup>1</sup> I medici di cui all’articolo 15*p* possono trattare i dati medici fino all’esecuzione dell’allontanamento o dell’espulsione dello straniero.
+
+<sup>2</sup> I servizi di cui all’articolo 71*b* capoverso 1 lettere a e b LStrI possono trattare le informazioni per l’organizzazione della partenza di cui all’articolo 15*r* fino all’esecuzione dell’allontanamento o dell’espulsione dello straniero.
+
+<sup>3</sup> I dati medici e le informazioni per l’organizzazione della partenza sono cancellati al più tardi dodici mesi dopo che lo straniero ha lasciato la Svizzera o che è stato constatato il suo passaggio alla clandestinità.
 
 ## Sezione 2: Ammissione provvisoria
 
