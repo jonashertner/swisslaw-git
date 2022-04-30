@@ -4,7 +4,7 @@ number: "172.55.1"
 title: RÈGLEMENT du 08.01.2001 fixant les émoluments en matière administrative (RE-Adm)
 short: RE-Adm
 language: fr
-version: 2021-01-01
+version: 2022-05-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.55.1?id=0b2eb4a9-80fc-432f-a4b0-a71e30313111"
 ---
 
@@ -431,6 +431,10 @@ arrête
 - d. autorisation pour un professionnel de la santé de se faire remplacer Fr. 100.-
 - e. autorisation de pratiquer la procréation médicalement assistée de Fr. 700.- à Fr. 900.-
 - f. prolongation ou renouvellement de l'autorisation de pratiquer pour des professionnels de la santé désireux de poursuivre leur activité professionnelle au-delà de 70 ans Fr. 200.-
+- g. décision d'admission à pratiquer à charge de l'assurance obligatoire de soins pour les médecins soumis à la clause du besoin:
+- 1\. 1<sup>er</sup>examen: Fr. 300.-
+- 2\. lors de l'octroi définitif: Fr 450.-
+- h. décision d'admission à pratiquer à charge de l'assurance obligatoire de soins pour les autres professionnels de la santé Fr. 450.-
 
 [^4d-1]: Modif. 40 du 01.07.2020: Introduction tArt; entrée en vigueur au 01.01.2021; Introduction Al. 1; entrée en vigueur au 01.01.2021; Introduction Art.4e; entrée en vigueur au 01.01.2021 · Modif. 43 du 06.07.2022: Introduction Al. 1, g-h; entrée en vigueur au 01.05.2022 · Modif. 44 du 21.09.2022: Modification Al. 1, g; entrée en vigueur au 02.05.2022; Abrogation Al. 1, g, 1-2; entrée en vigueur au 02.05.2022 · Modif. 46 du 02.07.2025: Modification Al. 1, g; entrée en vigueur au 02.07.2025
 [^4e-1]: Loi du 29.05.1985 sur la santé publique ([BLV 800.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/800.01?id=258cb2db-b772-411c-b0c5-6ed80967c762))
@@ -447,7 +451,7 @@ arrête
 
 #### Art.4g
 
-**Autorisation pour les hôpitaux et cliniques de soins aigus (somatiques et psychiatriques), les centres de traitement et de réadaptation, les établissements médicaux de soins ambulatoires, les centres de procréation médicalement assistée, les maisons de naissance, les établissements médicaux-sociaux et les établissements apparentés, notamment les instituts de radiologie, les laboratoires d'analyses médicales et autres institutions où sont dispensées des prestations médicales sans effet thérapeutique direct) ainsi que les établissements psycho-sociaux médicalisés [^4f-1]**
+**Autorisation pour les hôpitaux et cliniques de soins aigus (somatiques et psychiatriques), les centres de traitement et de réadaptation, les établissements médicaux de soins ambulatoires, les centres de procréation médicalement assistée, les maisons de naissance, les établissements médicaux-sociaux et les établissements apparentés, notamment les instituts de radiologie, les laboratoires d'analyses médicales et autres institutions où sont dispensées des prestations médicales sans effet thérapeutique direct), les organisations de soins ainsi que les établissements psychosociaux médicalisés [^4f-1]**
 
 <sup>1</sup> Le Département de la santé et de l'action sociale perçoit les émoluments suivants :
 
@@ -459,11 +463,11 @@ arrête
 - d. renouvellement de l'autorisation d'exploiter avec visite de contrôle Fr. 1'500.-
 - e. supplément de visite de contrôle Fr. 250.-/h
 - f. autorisation de diriger pour le responsable de l'exploitation Fr. 600.-
-- g. autorisation de facturer à charge de l'assurance obligatoire de soins
-- 1\. 1<sup>er</sup> examen Fr. 300.-
-- 2\. lors de l'octroi définitif Fr. 450.-
+- g. décision d'admission à pratiquer à charge de l'assurance obligatoire de soins Fr. 450.-
+- 1\. ...
+- 2\. ...
 
-[^4f-1]: Modif. 40 du 01.07.2020: Introduction Art.4g; entrée en vigueur au 01.01.2021 · Modif. 43 du 06.07.2022: Introduction Art.4e, Al. 1, g-h; entrée en vigueur au 01.05.2022; Modification tArt; entrée en vigueur au 01.05.2022; Modification Al. 1, g; entrée en vigueur au 01.05.2022; Abrogation Al. 1, g, 1-2; entrée en vigueur au 01.05.2022
+[^4f-1]: Modif. 40 du 01.07.2020: Introduction Art.4g; entrée en vigueur au 01.01.2021 · Modif. 43 du 06.07.2022: Modification tArt; entrée en vigueur au 01.05.2022; Modification Al. 1, g; entrée en vigueur au 01.05.2022; Abrogation Al. 1, g, 1-2; entrée en vigueur au 01.05.2022
 
 #### Art.4h
 
@@ -480,9 +484,9 @@ arrête
 - 1\. autorisation de diriger pour le responsable de l'établissement Fr. 600.-
 - g. autorisations spécifiques pour les entreprises de pompes funèbres
 - 1\. autorisation d'exhumer Fr. 500.-
-- 2\. déplacement de personnel en relation avec 7.1. Fr. 250.-/h
+- 2\. déplacement de personnel en relation avec la lettre g chiffre 1 Fr. 250.-/h
 
-[^4g-1]: Modif. 40 du 01.07.2020: Introduction tArt; entrée en vigueur au 01.01.2021; Introduction Al. 1; entrée en vigueur au 01.01.2021; Introduction Art.4h; entrée en vigueur au 01.01.2021 · Modif. 43 du 06.07.2022: Introduction Art.4e, Al. 1, g-h; entrée en vigueur au 01.05.2022; Modification Al. 1, g, 2; entrée en vigueur au 01.05.2022
+[^4g-1]: Modif. 40 du 01.07.2020: Introduction tArt; entrée en vigueur au 01.01.2021; Introduction Al. 1; entrée en vigueur au 01.01.2021; Introduction Art.4h; entrée en vigueur au 01.01.2021 · Modif. 43 du 06.07.2022: Modification Al. 1, g, 2; entrée en vigueur au 01.05.2022
 
 #### Art.4i
 
