@@ -4,13 +4,13 @@ number: "153.011.1"
 title: Personalverordnung
 short: PV
 language: de
-version: 2022-01-01
-valid_until: 2022-04-30
-version_adopted: 2021-11-24
+version: 2022-05-01
+valid_until: 2022-12-31
+version_adopted: 2022-04-06
 adopted: 2005-05-18
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/153.011.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2521/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2586/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2521/pdf_file"
 
 (PV)
 
-vom 18.05.2005 (Stand 01.01.2022)
+vom 18.05.2005 (Stand 01.05.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -200,7 +200,11 @@ beschliesst:
 
 <sup>3</sup> Er wird nach den Vorgaben des Regierungsrates und der Justizleitung ausgestaltet und geführt.
 
-<sup>4</sup> Die zuständige Stelle der Bildungs- und Kulturdirektion bewirtschaftet Stellen an Schulen der Sekundarstufe II und höheren Fachschulen, für die keine Planstellen vorhanden sind, im Rahmen der bewilligten Mittel gemäss der besonderen Gesetzgebung.
+<sup>4</sup> Soweit keine Planstellen vorhanden sind, bewirtschaftet die zuständige Stelle der Bildungs- und Kulturdirektion bzw. der Direktion für Inneres und Justiz folgende Stellen im Rahmen der bewilligten Mittel gemäss der besonderen Gesetzgebung:
+
+- a Stellen an kantonalen Einrichtungen (mit oder ohne Volksschule), die ambulante und stationäre Leistungen für Kinder mit besonderem Förder- und Schutzbedarf erbringen,
+- b Stellen an Schulen der Sekundarstufe II,
+- c Stellen an höheren Fachschulen.
 
 #### Art. 11
 
@@ -2823,6 +2827,14 @@ beschliesst:
 **Anrechenbare Dienstzeit**
 
 <sup>1</sup> Mitarbeiterinnen und Mitarbeiter, die am 31. Dezember 2020 in einem laufenden Anstellungsverhältnis mit dem Kanton stehen, behalten ihre anrechenbaren Dienstjahre gemäss dem bis zum 31. Dezember 2020 geltenden Recht.
+
+## T8 Übergangsbestimmung der Änderung vom 06.04.2022
+
+#### Art. T8-1
+
+**Anwendbares Recht**
+
+<sup>1</sup> Die Änderungen von Artikel 10 Absatz 4 sind ab dem 1. Januar 2023 anwendbar.
 
 Bern, 18. Mai 2005
 

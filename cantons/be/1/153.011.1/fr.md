@@ -4,13 +4,13 @@ number: "153.011.1"
 title: Ordonnance sur le personnel
 short: OPers
 language: fr
-version: 2022-01-01
-valid_until: 2022-04-30
-version_adopted: 2021-11-24
+version: 2022-05-01
+valid_until: 2022-12-31
+version_adopted: 2022-04-06
 adopted: 2005-05-18
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/153.011.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2521/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2586/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2521/pdf_file"
 
 (OPers)
 
-du 18.05.2005 (état au 01.01.2022)
+du 18.05.2005 (état au 01.05.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -200,7 +200,11 @@ arrête:
 
 <sup>3</sup> Il est établi et géré selon les consignes du Conseil-exécutif et de la Direction de la magistrature.
 
-<sup>4</sup> Le service compétent de la Direction de l’instruction publique et de la culture administre, dans la limite des ressources autorisées en vertu de la législation spéciale, des postes dans les écoles du degré secondaire II et les écoles supérieures pour lesquelles aucun poste n’est prévu à l’état des postes.
+<sup>4</sup> Pour autant qu'aucun poste ne soit prévu à l'état des postes, les services compétents de la Direction de l'instruction publique et de la culture et de la Direction de l'intérieur et de la justice administrent les postes suivants, dans la limite des ressources autorisées en vertu de la législation spéciale:
+
+- a les postes dans les institutions cantonales (comportant ou non un établissement de la scolarité obligatoire) qui fournissent des prestations particulières d’encouragement et de protection destinées aux enfants, tant ambulatoires que résidentielles,
+- b les postes dans les écoles du degré secondaire II,
+- c les postes dans les écoles supérieures.
 
 #### Art. 11
 
@@ -2817,6 +2821,14 @@ arrête:
 **Temps de service déterminant**
 
 <sup>1</sup> Les agents et agentes se trouvant dans des rapports de travail avec le canton le 31 décembre 2020 conservent leurs années de service déterminantes conformément au droit en vigueur jusqu’à cette date.
+
+## T8 Dispositions transitoires de la modification du 06.04.2022
+
+#### Art. T8-1
+
+**Droit applicable**
+
+<sup>1</sup> La modification de l'article 10, alinéa 4 s'appliquent à partir du 1<sup>er</sup> janvier 2023.
 
 Berne, le 18 mai 2005
 
