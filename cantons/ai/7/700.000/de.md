@@ -4,21 +4,22 @@ number: "700.000"
 title: Baugesetz
 short: BauG
 language: de
-version: 2017-05-01
-corrected: 2020-05-11
-version_adopted: 2017-04-30
+version: 2022-05-01
+valid_until: 2026-03-31
+version_adopted: 2022-04-24
 adopted: 2012-04-29
 in_force: 2013-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/700.000"
-pdf: "https://ai.clex.ch/api/de/versions/636/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2030/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Baugesetz (BauG)
+# Baugesetz
 
-vom 29. April 20121
+(BauG)
+
+vom 29.04.2012 (Stand 01.05.2022)
 
 Die Landsgemeinde des Kantons Appenzell I.Rh.,
 
@@ -26,7 +27,7 @@ gestützt auf Art. 25 des Bundesgesetzes über die Raumplanung vom 22. Juni 1979
 
 beschliesst:
 
-- l. Allgemeine Bestimmungen
+## l. Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -50,21 +51,25 @@ beschliesst:
 
 #### Art. 3
 
-Bezirke <sup>1</sup>Den Bezirken obliegt der Vollzug der Baugesetzgebung im Bereich der örtlichen Raumplanung, soweit nicht das Gesetz und die Ausführungserlasse hierfür andere Organe für zuständig erklären.
+**Bezirke**
+
+<sup>1</sup> Den Bezirken obliegt der Vollzug der Baugesetzgebung im Bereich der örtlichen Raumplanung, soweit nicht das Gesetz und die Ausführungserlasse hierfür andere Organe für zuständig erklären.
 
 <sup>2</sup> Dem Bezirk Oberegg obliegt zudem der Vollzug der Baugesetzgebung im Bereich des Baupolizeirechts unter Einschluss des Baubewilligungswesens, soweit nicht das Gesetz und die Ausführungserlasse hierfür andere Organe für zuständig erklären. Der Bezirksrat Oberegg kann einen Bauausschuss ernennen und dessen Zuständigkeit bestimmen.
 
-<sup>3</sup> Die Bezirksgemeinde kann in einem Reglement im Rahmen von Gesetz und Verordnung Bau- und Planungsvorschriften erlassen und die gemeinsame Wahrneh-
-
-mung von Vollzugsaufgaben mit anderen Bezirken beschliessen.
+<sup>3</sup> Die Bezirksgemeinde kann in einem Reglement im Rahmen von Gesetz und Verordnung Bau- und Planungsvorschriften erlassen und die gemeinsame Wahrnehmung von Vollzugsaufgaben mit anderen Bezirken beschliessen.
 
 #### Art. 4
 
-Feuerschauge- Die Feuerschaugemeinde Appenzell übernimmt für ihr Gebiet die den Bezirken meinde nach diesem Gesetz übertragenen Rechte und Pflichten.
+**Feuerschaugemeinde**
+
+<sup>1</sup> Die Feuerschaugemeinde Appenzell übernimmt für ihr Gebiet die den Bezirken nach diesem Gesetz übertragenen Rechte und Pflichten.
 
 #### Art. 5
 
-Baukommission <sup>1</sup>Die Bezirksräte des inneren Landesteils und die Feuerschaukommission Appenzell bestimmen aus ihrer Mitte je einen Vertreter\* in die sechs Personen umfassende Baukommission.
+**Baukommission**
+
+<sup>1</sup> Die Bezirksräte des inneren Landesteils und die Feuerschaukommission Appenzell bestimmen aus ihrer Mitte je einen Vertreter[^5-1] in die fünf Personen umfassende Baukommission.
 
 <sup>2</sup> Der Baukommission obliegt der Vollzug der Baugesetzgebung im Bereich des Baupolizeirechts, unter Einschluss des Baubewilligungswesens im inneren Landesteil, soweit nicht das Gesetz und die Ausführungserlasse hierfür andere Organe für zuständig erklären.
 
@@ -74,11 +79,15 @@ Baukommission <sup>1</sup>Die Bezirksräte des inneren Landesteils und die Feuer
 
 <sup>5</sup> Die Baukommission und der Bezirk Oberegg tauschen sich mit dem Ziel der Weiterbildung und des einheitlichen Vollzugs regelmässig aus, insbesondere in Fragen des Landschafts-, Orts- und Strassenbildes.
 
+[^5-1]: Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
+
 #### Art. 6
 
-Planungszustän- <sup>1</sup>Der Kanton führt die Richtplanung und erstellt den kantonalen Richtplan.
+**Planungszuständigkeit**
 
-digkeit <sup>2</sup>Die Bezirke erlassen für ihr Gebiet einen Nutzungsplan und die dazugehörigen Vorschriften.
+<sup>1</sup> Der Kanton führt die Richtplanung und erstellt den kantonalen Richtplan.
+
+<sup>2</sup> Die Bezirke erlassen für ihr Gebiet einen Nutzungsplan und die dazugehörigen Vorschriften.
 
 #### Art. 7
 
@@ -90,9 +99,9 @@ digkeit <sup>2</sup>Die Bezirke erlassen für ihr Gebiet einen Nutzungsplan und 
 
 <sup>3</sup> Bestandesgeschützte Bauten sind nur dann den Vorschriften nach diesem Gesetz anzupassen, wenn dies gesetzlich ausdrücklich vorgesehen oder zur Wahrung der öffentlichen Ordnung dringend geboten ist.
 
-### II. Planungsrecht
+## II. Planungsrecht
 
-### 1. Kantonale Richtplanung
+### II.1. Kantonale Richtplanung
 
 #### Art. 8
 
@@ -106,50 +115,59 @@ digkeit <sup>2</sup>Die Bezirke erlassen für ihr Gebiet einen Nutzungsplan und 
 
 **Anhörungsverfahren**
 
-Nach Abschluss der mit den Bezirken geführten Koordinationsverhandlungen ist diesen der Richtplanentwurf zur Anhörung zu unterbreiten.
+<sup>1</sup> Nach Abschluss der mit den Bezirken geführten Koordinationsverhandlungen ist diesen der Richtplanentwurf zur Anhörung zu unterbreiten.
 
 #### Art. 10
 
 **Einwendungsverfahren**
 
-Vor dem Erlass ist der Richtplan während 30 Tagen öffentlich aufzulegen. Jedermann kann während dieser Frist schriftlich Einwendungen einreichen. Die Standeskommission nimmt zu den nicht berücksichtigten Einwendungen gesamthaft und abschliessend in einem Bericht Stellung, der als Bestandteil des Richtplanes gilt und der öffentlich zugänglich ist.
+<sup>1</sup> Vor dem Erlass ist der Richtplan während 30 Tagen öffentlich aufzulegen. Jedermann kann während dieser Frist schriftlich Einwendungen einreichen. Die Standeskommission nimmt zu den nicht berücksichtigten Einwendungen gesamthaft und abschliessend in einem Bericht Stellung, der als Bestandteil des Richtplanes gilt und der öffentlich zugänglich ist.
 
 #### Art. 11
 
-Erlass des <sup>1</sup>Die Standeskommission erlässt den Richtplan, unter Vorbehalt der Genehmigung Richtplans durch den Grossen Rat. Mit dem Erlass entscheidet die Standeskommission endgültig über vorliegende Anträge.
+**Erlass des Richtplans**
+
+<sup>1</sup> Die Standeskommission erlässt den Richtplan, unter Vorbehalt der Genehmigung durch den Grossen Rat. Mit dem Erlass entscheidet die Standeskommission endgültig über vorliegende Anträge.
 
 <sup>2</sup> Bei geringfügigen Planänderungen ist weder ein Anregungsverfahren durchzuführen noch sind diese genehmigungspflichtig. Sie sind dem Grossen Rat und den Bezirken zur Kenntnis zu bringen.
 
 <sup>3</sup> Der Richtplan ist behördenverbindlich.
 
-- 2\. Kantonale Nutzungsplanung
+### II.2. Kantonale Nutzungsplanung
 
-Art. 12 Ziel und Zustän- <sup>1</sup>Zur Sicherung von Bauten und Anlagen im kantonalen oder regionalen Interesse digkeit sowie von Bauten und Anlagen für die Landwirtschaft mit besonderer Nutzung kann die Standeskommission kantonale Pläne für besondere Nutzungen erlassen, unter Vorbehalt der Genehmigung durch den Grossen Rat.
+#### Art. 12
 
-<sup>2</sup> Geringfügige Planänderungen sowie kantonale Nutzungspläne für Materialabbaustellen und Deponien unter 100'000 m<sup>3</sup> sind nicht genehmigungspflichtig. Sie sind
+**Ziel und Zuständigkeit**
 
-dem Grossen Rat und den Bezirken zur Kenntnis zu bringen.
+<sup>1</sup> Zur Sicherung von Bauten und Anlagen im kantonalen oder regionalen Interesse sowie von Bauten und Anlagen für die Landwirtschaft mit besonderer Nutzung kann die Standeskommission kantonale Pläne für besondere Nutzungen erlassen, unter Vorbehalt der Genehmigung durch den Grossen Rat.
+
+<sup>2</sup> Geringfügige Planänderungen sowie kantonale Nutzungspläne für Materialabbaustellen und Deponien unter 100'000 m³ sind nicht genehmigungspflichtig. Sie sind dem Grossen Rat und den Bezirken zur Kenntnis zu bringen.
 
 #### Art. 13
 
-Inhalt und Wir- <sup>1</sup>Kantonale Nutzungspläne bestehen aus Plan, Reglement und Planungsbericht. kung <sup>2</sup>Sie legen die Nutzungsart fest und gehen der bisherigen Nutzungsordnung im betreffenden Bereich vor.
+**Inhalt und Wirkung**
+
+<sup>1</sup> Kantonale Nutzungspläne bestehen aus Plan, Reglement und Planungsbericht.
+
+<sup>2</sup> Sie legen die Nutzungsart fest und gehen der bisherigen Nutzungsordnung im betreffenden Bereich vor.
 
 #### Art. 14
 
-Enteignungs- Mit rechtskräftigen kantonalen Nutzungsplänen erhält der Kanton das Enteignungsrecht recht. Das Verfahren richtet sich nach dem kantonalen Enteignungsgesetz.
+**Enteignungsrecht**
+
+<sup>1</sup> Mit rechtskräftigen kantonalen Nutzungsplänen erhält der Kanton das Enteignungsrecht. Das Verfahren richtet sich nach dem kantonalen Enteignungsgesetz.
 
 #### Art. 15
 
-Materialabbau- <sup>1</sup>Für Materialabbaustellen und Deponien mit einem Volumen von über 50’000 m<sup>3</sup> stellen und De- oder mit einem Betrieb von über drei Jahren ist der Erlass von kantonalen Nutponien zungsplänen zwingend.
+**Materialabbaustellen und Deponien**
+
+<sup>1</sup> Für Materialabbaustellen und Deponien mit einem Volumen von über 50’000 m³ oder mit einem Betrieb von über drei Jahren ist der Erlass von kantonalen Nutzungsplänen zwingend.
 
 <sup>2</sup> Mit dem Plan ist insbesondere festzulegen:
 
 - a) bei Materialabbaustellen ein Abbauplan, der insbesondere die Etappierung des Abbaus, die Endgestaltung und die Nutzung nach Abschluss des Vorhabens regelt;
-
 - b) bei Deponien der Deponietyp mit Bezeichnung der zur Ablagerung zugelassenen Stoffe, das Einzugsgebiet bzw. der Kreis der Deponieberechtigten, die Etappierung, die Endgestaltung und die Nutzung nach Abschluss des Vorhabens;
-
 - c) die Erschliessungsanlagen sowie deren Finanzierung;
-
 - d) Bedingungen, unter denen Dritte zur Mitbenutzung einer Anlage zuzulassen sind.
 
 <sup>3</sup> Zur Durchsetzung der gesetzten Fristen kann die verfügende Behörde bei Verzug pro Jahr maximal den planmässigen Brutto-Jahresumsatz der betreffenden Abbaustelle oder Deponie einziehen.
@@ -180,7 +198,9 @@ Materialabbau- <sup>1</sup>Für Materialabbaustellen und Deponien mit einem Volu
 
 #### Art. 18
 
-- c. Wegfall der <sup>1</sup>Fallen die Voraussetzungen dahin, wird die Tierhaltung aufgegeben oder das Mass Voraussetzun- der inneren Aufstockung unterschritten, ist der kantonale Nutzungsplan von Amtes gen wegen aufzuheben.
+**c. Wegfall der Voraussetzungen**
+
+<sup>1</sup> Fallen die Voraussetzungen dahin, wird die Tierhaltung aufgegeben oder das Mass der inneren Aufstockung unterschritten, ist der kantonale Nutzungsplan von Amtes wegen aufzuheben.
 
 <sup>2</sup> Das Departement kann eine Frist von längstens drei Jahren zur Wiederherstellung der Voraussetzungen, zur Wiederaufnahme der Tierhaltung oder zur Überschreitung der Grenzen der inneren Aufstockung gewähren. Wird die Frist nicht genutzt, ist das Aufhebungsverfahren einzuleiten.
 
@@ -190,17 +210,21 @@ Materialabbau- <sup>1</sup>Für Materialabbaustellen und Deponien mit einem Volu
 
 #### Art. 19
 
-- d. Ergänzendes Der Grosse Rat legt auf dem Verordnungswege die für die Landwirtschaft mit be-Recht sonderer Nutzung zugelassenen Produktionsrichtungen sowie den maximal zuläs-
+**d. Ergänzendes Recht**
 
-sigen Tierbestand für jede Tierart und Produktionsrichtung fest.
+<sup>1</sup> Der Grosse Rat legt auf dem Verordnungswege die für die Landwirtschaft mit besonderer Nutzung zugelassenen Produktionsrichtungen sowie den maximal zulässigen Tierbestand für jede Tierart und Produktionsrichtung fest.
 
 #### Art. 20
 
-Vorverfahren Im Rahmen der Erarbeitung von Planentwürfen werden die Bezirke zum Vorhaben schriftlich oder mündlich angehört.
+**Vorverfahren**
+
+<sup>1</sup> Im Rahmen der Erarbeitung von Planentwürfen werden die Bezirke zum Vorhaben schriftlich oder mündlich angehört.
 
 #### Art. 21
 
-Verfahren <sup>1</sup>Die kantonalen Nutzungspläne werden während 30 Tagen öffentlich aufgelegt.
+**Verfahren**
+
+<sup>1</sup> Die kantonalen Nutzungspläne werden während 30 Tagen öffentlich aufgelegt.
 
 <sup>2</sup> Zur Einsprache ist auch der betroffene Bezirk berechtigt.
 
@@ -208,17 +232,23 @@ Verfahren <sup>1</sup>Die kantonalen Nutzungspläne werden während 30 Tagen öf
 
 #### Art. 22
 
-Aufhebung Kantonale Nutzungspläne werden im gleichen Verfahren aufgehoben, wie sie erlassen wurden.
+**Aufhebung**
 
-- 3\. Regionalplanung
+<sup>1</sup> Kantonale Nutzungspläne werden im gleichen Verfahren aufgehoben, wie sie erlassen wurden.
 
-Art. 23 Regionalplanung <sup>1</sup>Regionale Vorhaben dürfen den Interessen des Kantons nicht zuwiderlaufen.
+### II.3. Regionalplanung
+
+#### Art. 23
+
+**Regionalplanung**
+
+<sup>1</sup> Regionale Vorhaben dürfen den Interessen des Kantons nicht zuwiderlaufen.
 
 <sup>2</sup> Die Bezirke können sich zum Zwecke der grenzüberschreitenden Koordination einer ausserkantonalen Regionalplanungsgruppe anschliessen. Der Anschluss bedarf der Zustimmung der Standeskommission.
 
 <sup>3</sup> Regionalpläne bedürfen der Genehmigung durch den Bezirk und die Standeskommission. Sie sind als Grundlagen bei der kantonalen Richtplanung mit zu berücksichtigen.
 
-- 4\. Nutzungsplanung der Bezirke
+### II.4. Nutzungsplanung der Bezirke
 
 #### Art. 24
 
@@ -239,48 +269,34 @@ Art. 23 Regionalplanung <sup>1</sup>Regionale Vorhaben dürfen den Interessen de
 <sup>1</sup> Durch den Nutzungsplan können folgende Nutzungszonen ausgeschieden werden:
 
 - 1\. Bauzonen:
-
-- a) Kernzonen (K)
-
-- b) Wohnzonen (W)
-
-- c) Wohn- und Gewerbezonen (WG)
-
-- d) Gewerbe- und Industriezonen (Gl)
-
-- e) Sportzonen (Sp)
-
-- f) Zonen für öffentliche Bauten und Anlagen (Oe)
-
-- g) Campingzonen (C)
-
-- h) Freihaltezonen (F)
-
-- i) Weilerzonen (WL)
-
+  - a) Kernzonen (K)
+  - b) Wohnzonen (W)
+  - c) Wohn- und Gewerbezonen (WG)
+  - d) Gewerbe- und Industriezonen (Gl)
+  - e) Sportzonen (Sp)
+  - f) Zonen für öffentliche Bauten und Anlagen (Oe)
+  - g) Campingzonen (C)
+  - h) Freihaltezonen (F)
+  - i) Weilerzonen (WL)
 - 2\. Zonen ausserhalb der Bauzonen:
-
-- a) Landwirtschaftszonen (L)
-
-- b) Sömmerungsgebietszonen (S)
-
-- c) Naturschutzzonen (N)
-
-- d) Übriges Gebiet (ÜG)
+  - a) Landwirtschaftszonen (L)
+  - b) Sömmerungsgebietszonen (S)
+  - c) Naturschutzzonen (N)
+  - d) Übriges Gebiet (ÜG)
 
 <sup>2</sup> Diese Nutzungszonen können mit folgenden Zonen überlagert werden:
 
 - a) Landschaftsschutzzonen (LS)
-
 - b) Ortsbildschutzzonen (OS)
-
 - c) Wintersportzonen (SZ)
-
 - d) Gefahrenzonen (GZ)
-
 - e) Archäologiezonen (ArZ)
 
-Art. 26 Kernzonen <sup>1</sup>Kernzonen umfassen Ortsteile, die zentrumsbildende Funktion aufweisen oder einen Ort prägen.
+#### Art. 26
+
+**Kernzonen**
+
+<sup>1</sup> Kernzonen umfassen Ortsteile, die zentrumsbildende Funktion aufweisen oder einen Ort prägen.
 
 <sup>2</sup> In ihnen sind öffentliche Bauten, Wohnbauten sowie mässig störende Gewerbebetriebe zulässig, sofern sie sich mit dem gewachsenen Charakter des Ortskerns vereinbaren lassen.
 
@@ -288,21 +304,29 @@ Art. 26 Kernzonen <sup>1</sup>Kernzonen umfassen Ortsteile, die zentrumsbildende
 
 #### Art. 27
 
-Wohnzonen Wohnzonen sind für Wohnbauten und nicht störende Gewerbebetriebe bestimmt.
+**Wohnzonen**
+
+<sup>1</sup> Wohnzonen sind für Wohnbauten und nicht störende Gewerbebetriebe bestimmt.
 
 #### Art. 28
 
-Wohn- und Ge- Wohn- und Gewerbezonen sind für Wohnbauten und höchstens mässig störende werbezonen Gewerbebetriebe bestimmt.
+**Wohn- und Gewerbezonen**
+
+<sup>1</sup> Wohn- und Gewerbezonen sind für Wohnbauten und höchstens mässig störende Gewerbebetriebe bestimmt.
 
 #### Art. 29
 
-Gewerbe- und <sup>1</sup>Gewerbe- und Industriezonen sind für Gewerbebetriebe mit grösseren Baumassen Industriezonen und für Industriebetriebe mit mässigen Immissionen bestimmt. Die Anordnung von Schutzmassnahmen zur Reduktion von Immissionen bleibt vorbehalten.
+**Gewerbe- und Industriezonen**
+
+<sup>1</sup> Gewerbe- und Industriezonen sind für Gewerbebetriebe mit grösseren Baumassen und für Industriebetriebe mit mässigen Immissionen bestimmt. Die Anordnung von Schutzmassnahmen zur Reduktion von Immissionen bleibt vorbehalten.
 
 <sup>2</sup> Wohnungen sind nur für standortgebundenes, betriebsnotwendiges Personal zugelassen.
 
 #### Art. 30
 
-Sportzonen <sup>1</sup>Sportzonen dienen der Schaffung oder Erhaltung von Sport- und Erholungsanlagen. Gastgewerbe- und Hotelbetriebe sind zugelassen, wenn sie im Zusammenhang mit den sportlichen Tätigkeiten stehen.
+**Sportzonen**
+
+<sup>1</sup> Sportzonen dienen der Schaffung oder Erhaltung von Sport- und Erholungsanlagen. Gastgewerbe- und Hotelbetriebe sind zugelassen, wenn sie im Zusammenhang mit den sportlichen Tätigkeiten stehen.
 
 <sup>2</sup> Erschliessungsaufwendungen, inbegriffen die Kosten für einen allfällig erforderlichen Ausbau öffentlicher Erschliessungsanlagen, sind von den interessierten Grundeigentümern zu tragen.
 
@@ -317,18 +341,16 @@ Sportzonen <sup>1</sup>Sportzonen dienen der Schaffung oder Erhaltung von Sport-
 <sup>2</sup> Als öffentliche oder im öffentlichen Interesse liegende Bauten gelten namentlich:
 
 - a) Verwaltungsbauten, Bauten für öffentliche Dienstleistungen, Spitäler, Schulen, Heime, Kirchen, Friedhöfe und öffentliche Parkplätze;
-
 - b) Bauten im öffentlichen Interesse tätiger kultureller und gemeinnütziger Institutionen;
-
 - c) Sportplätze, öffentliche Gärten und andere an bestimmte Einrichtungen gebundene Erholungsanlagen einschliesslich der zugehörigen Abstellplätze für Personenwagen und Zweiräder.
 
-<sup>3</sup> Die Nutzung der Zonen für öffentliche Bauten und Anlagen bleibt öffentlichrechtlichen Körperschaften sowie privatrechtlichen Institutionen, die im öffentlichen Interesse tätig sind, vorbehalten.
+<sup>3</sup> Die Nutzung der Zonen für öffentliche Bauten und Anlagen bleibt öffentlich-rechtlichen Körperschaften sowie privatrechtlichen Institutionen, die im öffentlichen Interesse tätig sind, vorbehalten.
 
 #### Art. 32
 
 **Campingzonen**
 
-Campingzonen dienen als Standorte für das länger dauernde Aufstellen von Wohnwagen, Wohnmobilen oder Zelten, welches nur innerhalb dieser Zonen gestattet ist. Dem Zonenzweck dienende Bauten sind zulässig.
+<sup>1</sup> Campingzonen dienen als Standorte für das länger dauernde Aufstellen von Wohnwagen, Wohnmobilen oder Zelten, welches nur innerhalb dieser Zonen gestattet ist. Dem Zonenzweck dienende Bauten sind zulässig.
 
 #### Art. 33
 
@@ -347,11 +369,8 @@ Campingzonen dienen als Standorte für das länger dauernde Aufstellen von Wohnw
 <sup>2</sup> In Weilerzonen können nur bereits weitgehend überbaute Gebiete eingeteilt werden. Neben landwirtschaftlichen Wohn- und Ökonomiebauten sind in Weilerzonen zulässig:
 
 - a) die Umnutzung bestehender Gebäude für nichtlandwirtschaftliches Wohnen;
-
 - b) die Umnutzung bestehender Gebäude für Kleingewerbe;
-
 - c) die Erweiterung der zum Zeitpunkt des Inkrafttretens des Bundesgesetzes über die Raumplanung (1. Januar 1980) bestehenden Geschossflächen um maximal 50%;
-
 - d) Neubauten, soweit sie im Reglement gemäss Abs. 3 dieses Artikels zugelassen werden.
 
 <sup>3</sup> Weitere Details, wie Nutzungsart, geschlossene bauliche Einheit der Neu- und Erweiterungsbauten mit den bestehenden Bauten, Erschliessung, insbesondere die Behandlung der Abwässer etc., sind beim Erlass der Weilerzonen in einem Reglement festzulegen.
@@ -364,15 +383,21 @@ Campingzonen dienen als Standorte für das länger dauernde Aufstellen von Wohnw
 
 #### Art. 35
 
-Landwirtschafts- Der Landwirtschaftszone werden Gebiete nach Massgabe der Bundesvorgaben zonen zugewiesen. In diesen darf Wohnraum für die abtretende Generation nicht in der Form von Stöcklibauten erstellt werden.
+**Landwirtschaftszonen**
+
+<sup>1</sup> Der Landwirtschaftszone werden Gebiete nach Massgabe der Bundesvorgaben zugewiesen. In diesen darf Wohnraum für die abtretende Generation nicht in der Form von Stöcklibauten erstellt werden.
 
 #### Art. 36
 
-Sömmerungsge- Als Sömmerungsgebietszone wird das im Alpgebiet gemäss Alpgesetzgebung liebietszonen gende Gebiet bezeichnet. Zonenkonform sind Bauten und Anlagen, welche für die Bewirtschaftung der Alpen erforderlich sind.
+**Sömmerungsgebietszonen**
+
+<sup>1</sup> Als Sömmerungsgebietszone wird das im Alpgebiet gemäss Alpgesetzgebung liegende Gebiet bezeichnet. Zonenkonform sind Bauten und Anlagen, welche für die Bewirtschaftung der Alpen erforderlich sind.
 
 #### Art. 37
 
-Naturschutzzo- <sup>1</sup>Als Naturschutzzonen können naturkundlich wertvolle Gebiete oder solche ausgenen schieden werden, die einen Lebensraum für seltene oder vom Aussterben bedrohte Pflanzen oder Tiere darstellen, insbesondere Feuchtgebiete, Trockenstandorte und Magerwiesen.
+**Naturschutzzonen**
+
+<sup>1</sup> Als Naturschutzzonen können naturkundlich wertvolle Gebiete oder solche ausgeschieden werden, die einen Lebensraum für seltene oder vom Aussterben bedrohte Pflanzen oder Tiere darstellen, insbesondere Feuchtgebiete, Trockenstandorte und Magerwiesen.
 
 <sup>2</sup> Schutzmassnahmen können als öffentlich-rechtliche Eigentumsbeschränkungen im Grundbuch angemerkt werden.
 
@@ -380,17 +405,21 @@ Naturschutzzo- <sup>1</sup>Als Naturschutzzonen können naturkundlich wertvolle 
 
 #### Art. 38
 
-Übriges Gebiet Das übrige Gebiet besteht aus Flächen, die entweder keiner bestimmten Nutzung dienen oder unproduktiv sind.
+**Übriges Gebiet**
+
+<sup>1</sup> Das übrige Gebiet besteht aus Flächen, die entweder keiner bestimmten Nutzung dienen oder unproduktiv sind.
 
 #### Art. 39
 
-Landschafts- Mit Landschaftsschutzzonen können besonders schöne sowie naturkundlich oder schutzzonen kulturgeschichtlich wertvolle Landschaften oder Landschaftsteile überlagert werden.
+**Landschaftsschutzzonen**
+
+<sup>1</sup> Mit Landschaftsschutzzonen können besonders schöne sowie naturkundlich oder kulturgeschichtlich wertvolle Landschaften oder Landschaftsteile überlagert werden.
 
 #### Art. 40
 
 **Ortsbildschutzzonen**
 
-Mit Ortsbildschutzzonen können besonders schöne und historisch bedeutsame Gebäude, Freiräume, Gebäudegruppen, Strassenzüge, Siedlungsteile oder Siedlungen überlagert werden.
+<sup>1</sup> Mit Ortsbildschutzzonen können besonders schöne und historisch bedeutsame Gebäude, Freiräume, Gebäudegruppen, Strassenzüge, Siedlungsteile oder Siedlungen überlagert werden.
 
 #### Art. 41
 
@@ -407,11 +436,8 @@ Mit Ortsbildschutzzonen können besonders schöne und historisch bedeutsame Geb�
 <sup>1</sup> Gefahrenzonen umfassen Gebiete, die durch Lawinen, Rutschungen, Steinschlag, Überschwemmung oder andere Naturereignisse bedroht sind. Sie werden unterteilt in:
 
 - a) Gefahrenzone mit erheblicher Gefährdung;
-
 - b) Gefahrenzone mit mittlerer Gefährdung;
-
 - c) Gefahrenzone mit geringer Gefährdung;
-
 - d) Gefahrenzone mit Restgefährdung.
 
 <sup>2</sup> In Gefahrenzonen mit erheblicher Gefährdung sind die Errichtung und die Erweiterung von Bauten und Anlagen nicht zulässig. Bestehende Bauten und Anlagen können im Rahmen der Bestandesgarantie angemessen unterhalten und zeitgemäss erneuert werden.
@@ -432,59 +458,54 @@ Mit Ortsbildschutzzonen können besonders schöne und historisch bedeutsame Geb�
 
 **Weitere Regelung**
 
-Für Nutzungszonen können in einem Reglement insbesondere Vorschriften erlassen werden über:
+<sup>1</sup> Für Nutzungszonen können in einem Reglement insbesondere Vorschriften erlassen werden über:
 
 - a) Art und Mass der baulichen Nutzung;
-
 - b) energiesparende Bauweise;
-
 - c) Art und Mass der zulässigen Immissionen;
-
 - d) Bauweise;
-
 - e) Geschosszahl;
-
 - f) Gesamt- und Fassadenhöhe, Gebäudelänge;
-
 - g) Grenz- und Gebäudeabstände;
-
 - h) Dachform;
-
 - i) Minimale Besonnung und maximal zulässiger Schattenwurf;
-
 - k) Anlage von Abstellplätzen, Garagen und Kinderspielplätzen;
-
 - l) Umgebungsgestaltung;
-
 - m) Bepflanzung.
 
 #### Art. 45
 
-Vorverfahren Die Baukommission ist durch die Bezirke des inneren Landesteils und die Feuerschaugemeinde frühzeitig in die Erarbeitung von Planentwürfen miteinzubeziehen.
+**Vorverfahren**
+
+<sup>1</sup> Die Baukommission ist durch die Bezirke des inneren Landesteils und die Feuerschaugemeinde frühzeitig in die Erarbeitung von Planentwürfen miteinzubeziehen.
 
 #### Art. 46
 
-Vorprüfung Der Bezirk unterbreitet der Standeskommission den Nutzungsplan und Planänderungen zur Vorprüfung der Recht- und Zweckmässigkeit.
+**Vorprüfung**
+
+<sup>1</sup> Der Bezirk unterbreitet der Standeskommission den Nutzungsplan und Planänderungen zur Vorprüfung der Recht- und Zweckmässigkeit.
 
 #### Art. 47
 
-Auflageverfahren <sup>1</sup>Die Nutzungsplanung oder eine Planänderung ist zweimal amtlich auszuschreiben und anschliessend während 30 Tagen öffentlich aufzulegen. Vom Tage der Auflage an dürfen Baugesuche nur noch bewilligt werden, wenn sie mit dem bisherigen
+**Auflageverfahren**
 
-Recht und dem aufgelegten Plan und Reglement übereinstimmen.
+<sup>1</sup> Die Nutzungsplanung oder eine Planänderung ist zweimal amtlich auszuschreiben und anschliessend während 30 Tagen öffentlich aufzulegen. Vom Tage der Auflage an dürfen Baugesuche nur noch bewilligt werden, wenn sie mit dem bisherigen Recht und dem aufgelegten Plan und Reglement übereinstimmen.
 
 <sup>2</sup> Ergeben sich im Verlauf der Planung Änderungen, ist das Auflageverfahren zu wiederholen.
 
 <sup>3</sup> Gegen aufgelegte Nutzungsplanung oder Planänderungen kann innert der Auflagefrist Einsprache erhoben werden. Im Falle von wiederholten Auflagen darf nur noch über Änderungen Einsprache geführt werden, die nicht Gegenstand von vorherigen Auflagen waren.
 
-#### Art. 481
+#### Art. 48
 
-Verabschiedung <sup>1</sup>Die Nutzungsplanung und Planänderungen sind der Bezirksgemeinde zu unterbrei- und Genehmi- ten. Änderungen können auch mit Beschluss des Bezirksrates dem fakultativen gung Referendum unterstellt werden. Geringfügige Änderungen werden vom Bezirksrat verabschiedet.
+**Verabschiedung und Genehmigung**
+
+<sup>1</sup> Die Nutzungsplanung und Planänderungen sind der Bezirksgemeinde zu unterbreiten. Änderungen können auch mit Beschluss des Bezirksrates dem fakultativen Referendum unterstellt werden. Geringfügige Änderungen werden vom Bezirksrat verabschiedet.
 
 <sup>2</sup> Hält das Bezirksrecht nichts anderes fest, beträgt die Frist für das fakultative Referendum 30 Tage, und es sind 50 Unterschriften, in der Feuerschaugemeinde 200 Unterschriften nötig.
 
 <sup>3</sup> Die Nutzungsplanung und Planänderungen bedürfen der Genehmigung der Standeskommission. Über die Genehmigung und allfällige Rechtsmittel wird gemeinsam entschieden.
 
-#### Art. 491
+#### Art. 49
 
 **Boden- und Baulandpolitik**
 
@@ -494,7 +515,7 @@ Verabschiedung <sup>1</sup>Die Nutzungsplanung und Planänderungen sind der Bezi
 
 <sup>3</sup> Zur Sicherstellung oder Steigerung der Verfügbarkeit des Bodens sowie zur Förderung der Innenentwicklung können die Bezirke mit den Grundeigentümern Verträge abschliessen.
 
-Art. 49a2
+#### Art. 49a
 
 **Bezeichnung von Flächen zur Überbauung**
 
@@ -506,7 +527,7 @@ Art. 49a2
 
 <sup>4</sup> Der Bezirk kann die Frist in begründeten Fällen verlängern.
 
-Art. 49b[^491-1]
+#### Art. 49b
 
 **Gesetzliches Kaufsrecht**
 
@@ -516,9 +537,7 @@ Art. 49b[^491-1]
 
 <sup>3</sup> Das Kaufsrecht gilt für das bezeichnete Grundstück und im Falle einer grundbuchlich vollzogenen Teilung des Grundstücks für jeden einzelnen Teil.
 
-[^491-1]: Eingefügt durch LdsgB vom 30. April 2017 (Inkrafttreten: 1. Mai 2017).
-
-### 5. Quartierplanung
+### II.5. Quartierplanung
 
 #### Art. 50
 
@@ -529,15 +548,10 @@ Art. 49b[^491-1]
 <sup>2</sup> Durch den Quartierplan können insbesondere festgelegt und geregelt werden:
 
 - a) Baulinien;
-
 - b) die Art und Weise der Überbauung, insbesondere bezüglich Grösse, Proportion und Anordnung der Baukörper;
-
 - c) die Gestaltung der Baukörper und der Freiräume;
-
 - d) die Bereinigung der beschränkten dinglichen Rechte;
-
 - e) Massnahmen zum Schutz vor Naturgefahren;
-
 - f) die von der Öffentlichkeit zu übernehmenden Strassen, Wege, Trottoirs oder Plätze.
 
 <sup>3</sup> Von den durch Nutzungsplan festgelegten Vorschriften kann mittels Quartierplan unter den auf dem Verordnungsweg zu umschreibenden Voraussetzungen abgewichen werden.
@@ -582,7 +596,7 @@ Art. 49b[^491-1]
 
 <sup>2</sup> Mit der Genehmigung des Quartierplanes ist das Enteignungsrecht erteilt.
 
-- 6\. Planungsumsetzung
+### II.6. Planungsumsetzung
 
 #### Art. 54
 
@@ -610,7 +624,9 @@ Art. 49b[^491-1]
 
 #### Art. 56
 
-Landumlegung <sup>1</sup>Verhindern ungünstig abgegrenzte Parzellen deren zweckmässige Benützung oder und Grenzberei- Überbauung, kann von Amtes wegen oder auf Antrag eines betroffenen Grundeinigung gentümers eine Landumlegung oder eine Grenzbereinigung eingeleitet werden.
+**Landumlegung und Grenzbereinigung**
+
+<sup>1</sup> Verhindern ungünstig abgegrenzte Parzellen deren zweckmässige Benützung oder Überbauung, kann von Amtes wegen oder auf Antrag eines betroffenen Grundeigentümers eine Landumlegung oder eine Grenzbereinigung eingeleitet werden.
 
 <sup>2</sup> Grundsätzlich hat jeder beteiligte Grundeigentümer Anspruch auf Realersatz. Geringfügige Mehr- und Minderzuteilungen sowie besondere Vor- und Nachteile sind unter diesen durch Geld auszugleichen.
 
@@ -620,7 +636,9 @@ Landumlegung <sup>1</sup>Verhindern ungünstig abgegrenzte Parzellen deren zweck
 
 #### Art. 57
 
-Planungszonen <sup>1</sup>Zur Sicherung künftiger Nutzungen können für genau bezeichnete Gebiete Planungszonen im Sinne des Raumplanungsgesetzes bestimmt werden.
+**Planungszonen**
+
+<sup>1</sup> Zur Sicherung künftiger Nutzungen können für genau bezeichnete Gebiete Planungszonen im Sinne des Raumplanungsgesetzes bestimmt werden.
 
 <sup>2</sup> Planungszonen sind amtlich auszuschreiben und anschliessend durch die zuständige Behörde während 30 Tagen öffentlich aufzulegen. Sie sind vom Zeitpunkt der öffentlichen Bekanntmachung an in der Regel für längstens fünf Jahre rechtswirksam.
 
@@ -628,12 +646,13 @@ Planungszonen <sup>1</sup>Zur Sicherung künftiger Nutzungen können für genau 
 
 #### Art. 58
 
-Entschädigung <sup>1</sup>Die sich aus diesem Gesetz oder darauf beruhenden Ausführungserlassen ergefür Eigentums- benden Eigentumsbeschränkungen begründen in der Regel keinen Anspruch auf beschränkungen Schadenersatz, ausser in den vom Gesetz vorgesehenen Fällen und beim Vorliegen einer materiellen Enteignung.
+**Entschädigung für Eigentumsbeschränkungen**
+
+<sup>1</sup> Die sich aus diesem Gesetz oder darauf beruhenden Ausführungserlassen ergebenden Eigentumsbeschränkungen begründen in der Regel keinen Anspruch auf Schadenersatz, ausser in den vom Gesetz vorgesehenen Fällen und beim Vorliegen einer materiellen Enteignung.
 
 <sup>2</sup> Kein Anspruch auf Entschädigung besteht insbesondere:
 
 - a) für im Ausnahmeverfahren gemäss Art. 77 dieses Gesetzes bewilligte wertvermehrende Aufwendungen, auch nicht im Falle einer Enteignung (Mehrwertrevers);
-
 - b) für die Entfernung von Bauten und Anlagen, für die eine befristete Ausnahmebewilligung erteilt worden ist.
 
 <sup>3</sup> Die Höhe der Entschädigung aus materieller Enteignung bemisst sich nach dem kantonalen Enteignungsgesetz. Für die Bemessung gilt der Zeitpunkt des Inkrafttretens der eigentumsbeschränkenden Massnahme, während die Verzinsung der Entschädigung erst ab Geltendmachung der materiellen Enteignung zu erfolgen hat.
@@ -644,10 +663,9 @@ Entschädigung <sup>1</sup>Die sich aus diesem Gesetz oder darauf beruhenden Aus
 
 **Enteignung**
 
-Das Enteignungsrecht ist namentlich erteilt:
+<sup>1</sup> Das Enteignungsrecht ist namentlich erteilt:
 
 - a) für das Land, welches in die Zone für öffentliche Bauten und Anlagen oder in die Freihaltezone rechtskräftig eingeteilt wurde;
-
 - b) für die im Rahmen der Nutzungs- und Quartierplanung nötige Bereinigung der beschränkten dinglichen Rechte.
 
 #### Art. 60
@@ -670,25 +688,29 @@ Das Enteignungsrecht ist namentlich erteilt:
 
 #### Art. 62
 
-Finanzierung der <sup>1</sup>Der Kanton trägt die Kosten der kantonalen Richtplanung und der kantonalen Nut-Planungen zungsplanung, die Bezirke die Kosten ihrer Nutzungs- und Quartierplanung.
+**Finanzierung der Planungen**
+
+<sup>1</sup> Der Kanton trägt die Kosten der kantonalen Richtplanung und der kantonalen Nutzungsplanung, die Bezirke die Kosten ihrer Nutzungs- und Quartierplanung.
 
 <sup>2</sup> Grundeigentümer und Weitere, denen durch einen Quartierplan oder einen kantonalen Nutzungsplan wesentliche Vorteile erwachsen, werden zur Kostentragung beigezogen.
 
-### III. Baurechtliche Bestimmungen
+## III. Baurechtliche Bestimmungen
 
-### 1. Kantonale Bauvorschriften
+### III.1. Kantonale Bauvorschriften
 
 #### Art. 63
 
-Erschliessung <sup>1</sup>Bauten innerhalb der Bauzonen dürfen auf erschlossenem Land im Sinne des als Bewilligungs- Raumplanungsgesetzes errichtet werden, wenn eine allenfalls notwendige Bauvoraussetzung landumlegung oder Grenzbereinigung abgeschlossen ist.
+**Erschliessung als Bewilligungsvoraussetzung**
+
+<sup>1</sup> Bauten innerhalb der Bauzonen dürfen auf erschlossenem Land im Sinne des Raumplanungsgesetzes errichtet werden, wenn eine allenfalls notwendige Baulandumlegung oder Grenzbereinigung abgeschlossen ist.
 
 <sup>2</sup> Bei Erweiterungen, Zweckänderungen und beim Wiederaufbau von Bauten hat die Erschliessung den im Zeitpunkt der Erteilung der Baubewilligung geltenden Anforderungen zu genügen.
 
 #### Art. 64
 
-Immissionen <sup>1</sup>Bauten dürfen nicht zu Einwirkungen auf ihre Umgebung durch Lärm, Rauch, Dünste, Gerüche, Erschütterungen, grelle Lichteinwirkungen und dergleichen führen, soweit diese das an ihrem Standort durch die Zonenvorschriften zulässige Mass überschreiten. In Randgebieten von Zonen unterschiedlicher Immissionstole-
+**Immissionen**
 
-ranz ist auf benachbarte Zonen gebührend Rücksicht zu nehmen.
+<sup>1</sup> Bauten dürfen nicht zu Einwirkungen auf ihre Umgebung durch Lärm, Rauch, Dünste, Gerüche, Erschütterungen, grelle Lichteinwirkungen und dergleichen führen, soweit diese das an ihrem Standort durch die Zonenvorschriften zulässige Mass überschreiten. In Randgebieten von Zonen unterschiedlicher Immissionstoleranz ist auf benachbarte Zonen gebührend Rücksicht zu nehmen.
 
 <sup>2</sup> Betriebe, die das zulässige Mass an Einwirkungen auf ihre Umgebung überschreiten, sind zu verpflichten, jene Vorkehren zu treffen, die nach dem jeweiligen Stand der Technik die Störungen auf das zulässige Mass zurückführen oder beheben.
 
@@ -696,22 +718,18 @@ ranz ist auf benachbarte Zonen gebührend Rücksicht zu nehmen.
 
 #### Art. 65
 
-Schutz des <sup>1</sup>Bauten und Anlagen haben im Landschafts-, Orts- und Strassenbild und für sich Landschafts-, eine gute Gesamtwirkung zu erzielen. Dies gilt verstärkt ausserhalb der Bauzone, Orts- und Stras- an Siedlungsrändern, bei Ortseingängen und in Ortskernen.
+**Schutz des Landschafts-, Orts- und Strassenbildes**
 
-senbildes <sup>2</sup>Für die Beurteilung der Gesamtwirkung sind insbesondere von Bedeutung:
+<sup>1</sup> Bauten und Anlagen haben im Landschafts-, Orts- und Strassenbild und für sich eine gute Gesamtwirkung zu erzielen. Dies gilt verstärkt ausserhalb der Bauzone, an Siedlungsrändern, bei Ortseingängen und in Ortskernen.
+
+<sup>2</sup> Für die Beurteilung der Gesamtwirkung sind insbesondere von Bedeutung:
 
 - a) Die Übernahme des natürlichen Terrainverlaufs;
-
 - b) die Positionierung der Bauten und Anlagen in der Landschaft und bezüglich der topographischen Situation;
-
 - c) die Freiräume und Aussenraumgestaltung;
-
 - d) die Gestaltung der Gebäudeproportionen und -höhen und der Dachformen;
-
 - e) das Wechselspiel von Haupt- und Nebenbauten;
-
 - f) die Gestaltung, Materialisierung und Farbgebung der Fassaden und des Dachs;
-
 - g) der Bezug zur vorhandenen Siedlungsstruktur.
 
 <sup>3</sup> Die Standeskommission kann Gestaltungsrichtlinien erlassen.
@@ -730,7 +748,7 @@ senbildes <sup>2</sup>Für die Beurteilung der Gesamtwirkung sind insbesondere v
 
 **Duldung öffentlicher Einrichtungen**
 
-Grundstücksberechtigte haben die Anbringung von im öffentlichen Interesse notwendigen Einrichtungen zu dulden, insbesondere von Strassentafeln und Strassensignalen, Einrichtungen für öffentliche Beleuchtung, Hydranten- und Schiebertafeln, Hydranten und Befestigungshaken für öffentliche Leitungen. Bei der Anbringung sind Wünsche der Grundstücksberechtigten angemessen zu berücksichtigen.
+<sup>1</sup> Grundstücksberechtigte haben die Anbringung von im öffentlichen Interesse notwendigen Einrichtungen zu dulden, insbesondere von Strassentafeln und Strassensignalen, Einrichtungen für öffentliche Beleuchtung, Hydranten- und Schiebertafeln, Hydranten und Befestigungshaken für öffentliche Leitungen. Bei der Anbringung sind Wünsche der Grundstücksberechtigten angemessen zu berücksichtigen.
 
 #### Art. 67
 
@@ -742,7 +760,9 @@ Grundstücksberechtigte haben die Anbringung von im öffentlichen Interesse notw
 
 #### Art. 68
 
-Kinderspielplätze <sup>1</sup>Beim Bau von Mehrfamilienhäusern und Wohnsiedlungen sind ausreichend Spielplätze für Kinder zu schaffen. Sie sind möglichst windgeschützt, mit Sonnen- und Schattenplätzen sowie abseits vom Verkehr anzulegen und dauernd der Zweckbestimmung zu erhalten. Die Bezirke können die Pflicht zur Schaffung von Kinderspielplätzen auf ein- und zweigeschossige Wohnzonen ausdehnen. Lassen es die örtlichen Verhältnisse nicht zu, können die Bezirke in Kernzonen von der Pflicht zur Schaffung von Kinderspielplätzen befreien.
+**Kinderspielplätze**
+
+<sup>1</sup> Beim Bau von Mehrfamilienhäusern und Wohnsiedlungen sind ausreichend Spielplätze für Kinder zu schaffen. Sie sind möglichst windgeschützt, mit Sonnen- und Schattenplätzen sowie abseits vom Verkehr anzulegen und dauernd der Zweckbestimmung zu erhalten. Die Bezirke können die Pflicht zur Schaffung von Kinderspielplätzen auf ein- und zweigeschossige Wohnzonen ausdehnen. Lassen es die örtlichen Verhältnisse nicht zu, können die Bezirke in Kernzonen von der Pflicht zur Schaffung von Kinderspielplätzen befreien.
 
 <sup>2</sup> Fehlen bei bestehenden Mehrfamilienhäusern und Wohnsiedlungen genügend Spielplätze, dürfen Spielflächen, die innerhalb der betroffenen Liegenschaft auf Vorplätzen und -gärten oder in Höfen vorhanden sind, nicht durch Überbauung oder Umgestaltung beeinträchtigt werden. Vorbehalten bleibt die Errichtung von Begegnungszonen im Sinne der Strassenverkehrsgesetzgebung.
 
@@ -750,13 +770,17 @@ Kinderspielplätze <sup>1</sup>Beim Bau von Mehrfamilienhäusern und Wohnsiedlun
 
 #### Art. 69
 
-Rücksicht auf <sup>1</sup>Öffentlich zugängliche Bauten und Anlagen sind im Falle eines Neubaus oder einer Behinderte und Erneuerung, soweit zumutbar, so umzugestalten, dass sie den Bundesvorgaben zur Betagte Behindertengleichstellung entsprechen.
+**Rücksicht auf Behinderte und Betagte**
+
+<sup>1</sup> Öffentlich zugängliche Bauten und Anlagen sind im Falle eines Neubaus oder einer Erneuerung, soweit zumutbar, so umzugestalten, dass sie den Bundesvorgaben zur Behindertengleichstellung entsprechen.
 
 <sup>2</sup> Neubauten von Mehrfamilienhäusern mit vier und mehr Wohnungen sind gemäss den Grundsätzen des anpassbaren Wohnungsbaus zu erstellen. Dies gilt auch für Umbauten, welche einem Neubau gleichkommen.
 
 #### Art. 70
 
-Abstellplätze für <sup>1</sup>Bei Erstellung, Umbau und Zweckänderung von Bauten hat die Bauherrschaft ent-Personenwagen sprechend dem dadurch entstehenden Mehrbedarf Abstellplätze für Personenwa- und Zweiräder gen und Zweiräder auf privatem Grund bereitzustellen.
+**Abstellplätze für Personenwagen und Zweiräder**
+
+<sup>1</sup> Bei Erstellung, Umbau und Zweckänderung von Bauten hat die Bauherrschaft entsprechend dem dadurch entstehenden Mehrbedarf Abstellplätze für Personenwagen und Zweiräder auf privatem Grund bereitzustellen.
 
 <sup>2</sup> Lassen es die örtlichen Verhältnisse nicht zu, erweisen sich die Kosten als unzumutbar oder ist die Erstellung von Abstellflächen für Personenwagen verboten, so hat der Eigentümer in angemessener Nähe entsprechende Abstellflächen zu beschaffen oder angemessene Ersatzabgaben an Errichtung und Betrieb öffentlich benutzbarer Abstellflächen zu leisten.
 
@@ -768,16 +792,16 @@ Abstellplätze für <sup>1</sup>Bei Erstellung, Umbau und Zweckänderung von Bau
 
 **Hohe Bauten**
 
-Bauten mit mehr als vier Vollgeschossen setzen einen rechtskräftigen Quartierplan voraus.
+<sup>1</sup> Bauten mit mehr als vier Vollgeschossen setzen einen rechtskräftigen Quartierplan voraus.
 
 #### Art. 72
 
 **Grossbauten**
 
-<sup>1</sup> Bauten, die wegen ihrer Grösse und Bedeutung erhebliche Auswirkungen auf die Siedlungs-, Verkehrs- und Versorgungsstruktur aufweisen, sind zulässig, wenn sie a) zur Bildung der gemäss Ortsplanung oder der kantonalen Richtplanung erwünschten Siedlungsschwerpunkte beitragen;
+<sup>1</sup> Bauten, die wegen ihrer Grösse und Bedeutung erhebliche Auswirkungen auf die Siedlungs-, Verkehrs- und Versorgungsstruktur aufweisen, sind zulässig, wenn sie
 
+- a) zur Bildung der gemäss Ortsplanung oder der kantonalen Richtplanung erwünschten Siedlungsschwerpunkte beitragen;
 - b) den Anforderungen einer geordneten Verkehrsabwicklung genügen;
-
 - c) die minimale Versorgung benachbarter Siedlungsgebiete nicht gefährden.
 
 <sup>2</sup> Der Bezirk kann die Bauherrschaft zur Übernahme aller Erschliessungsaufwendungen verpflichten, inbegriffen die Kosten für einen allfällig erforderlichen Ausbau öffentlicher Erschliessungsanlagen.
@@ -798,17 +822,19 @@ Bauten mit mehr als vier Vollgeschossen setzen einen rechtskräftigen Quartierpl
 
 **Abstand zu Ufergehölzen**
 
-Zu Ufergehölzen ist gemessen ab Stockgrenze ein Abstand von 5 m einzuhalten. Bei grösseren, der Waldgesetzgebung unterstellten Ufergehölzen ist der Waldabstand einzuhalten.
+<sup>1</sup> Zu Ufergehölzen ist gemessen ab Stockgrenze ein Abstand von 5 m einzuhalten. Bei grösseren, der Waldgesetzgebung unterstellten Ufergehölzen ist der Waldabstand einzuhalten.
 
 #### Art. 75
 
 **Vorhaben an belasteten Standorten**
 
-Die Errichtung oder Änderung von Bauten und Anlagen an Standorten, die im Kataster der belasteten Standorte erfasst sind, bedarf der Bewilligung des Departementes.
+<sup>1</sup> Die Errichtung oder Änderung von Bauten und Anlagen an Standorten, die im Kataster der belasteten Standorte erfasst sind, bedarf der Bewilligung des Departementes.
 
 #### Art. 76
 
-Bauten aus- <sup>1</sup>Das Departement ist die zuständige kantonale Behörde im Sinne von Art. 25 Abs. serhalb Bauzone 2 RPG.
+**Bauten ausserhalb Bauzone**
+
+<sup>1</sup> Das Departement ist die zuständige kantonale Behörde im Sinne von Art. 25 Abs. 2 RPG.
 
 <sup>2</sup> Es erteilt für zonenfremde Bauten und Anlagen sowie Zweckänderungen ausserhalb der Bauzonen die raumplanerische Bewilligung; für die baupolizeiliche Bewilligung ist die Baubewilligungsbehörde der gelegenen Sache verantwortlich.
 
@@ -816,25 +842,31 @@ Bauten aus- <sup>1</sup>Das Departement ist die zuständige kantonale Behörde i
 
 #### Art. 77
 
-Ausnahmen <sup>1</sup>Die Standeskommission kann Ausnahmen von Vorschriften dieses Gesetzes und dessen Ausführungsbestimmungen bewilligen, wenn das Gesetz dies ausdrücklich vorsieht oder wenn weder öffentliche noch nachbarliche Interessen erheblich beeinträchtigt werden und gleichzeitig ausserordentliche Verhältnisse vorliegen, beispielsweise wenn die Beachtung der Vorgaben nach Art. 68 bis 74 bei bestandesgeschützten Bauten deren Wiederaufbau oder Umnutzung unverhältnismässig erschwert.
+**Ausnahmen**
+
+<sup>1</sup> Die Standeskommission kann Ausnahmen von Vorschriften dieses Gesetzes und dessen Ausführungsbestimmungen bewilligen, wenn das Gesetz dies ausdrücklich vorsieht oder wenn weder öffentliche noch nachbarliche Interessen erheblich beeinträchtigt werden und gleichzeitig ausserordentliche Verhältnisse vorliegen, beispielsweise wenn die Beachtung der Vorgaben nach Art. 68 bis 74 bei bestandesgeschützten Bauten deren Wiederaufbau oder Umnutzung unverhältnismässig erschwert.
 
 <sup>2</sup> Ausnahmebewilligungen sind erforderlichenfalls unter sichernden Auflagen, welche im Grundbuch angemerkt werden können, zu erteilen.
 
-- 2\. Baubewilligungsverfahren
+### III.2. Baubewilligungsverfahren
 
-Art. 78 Bewilligungs- <sup>1</sup>Bauten und Anlagen im Sinne des Raumplanungsgesetzes sind bewilligungspflichpflicht tig.
+#### Art. 78
+
+**Bewilligungspflicht**
+
+<sup>1</sup> Bauten und Anlagen im Sinne des Raumplanungsgesetzes sind bewilligungspflichtig.
 
 <sup>2</sup> Die Bewilligungspflicht umfasst namentlich auch
 
 - a) den Abbruch oder die Erweiterung bestehender Bauten,
-
 - b) bauliche Veränderungen im Innern einer Baute oder Anlage und Nutzungsänderungen,
-
-- c) Terrainveränderungen, sofern diese Massnahmen die Nutzungsordnung zu beeinflussen vermögen, indem sie den Raum äusserlich erheblich verändern, die Erschliessung belasten oder die Umwelt beeinträchtigen können.
+- c) Terrainveränderungen,
 
 #### Art. 79
 
-Baugesuch <sup>1</sup>Baugesuche für Bauvorhaben im inneren Landesteil sind der Baukommission, Baugesuche für Bauvorhaben im äusseren Landesteil sind dem Bezirk Oberegg einzureichen. Dieses gilt zugleich als Gesuch für alle weiteren erforderlichen Bewilligungen.
+**Baugesuch**
+
+<sup>1</sup> Baugesuche für Bauvorhaben im inneren Landesteil sind der Baukommission, Baugesuche für Bauvorhaben im äusseren Landesteil sind dem Bezirk Oberegg einzureichen. Dieses gilt zugleich als Gesuch für alle weiteren erforderlichen Bewilligungen.
 
 <sup>2</sup> Die Baubewilligungsbehörde prüft die Gesuche auf Vollständigkeit. Unvollständige Gesuche werden zur Vervollständigung zurückgewiesen.
 
@@ -862,13 +894,13 @@ Baugesuch <sup>1</sup>Baugesuche für Bauvorhaben im inneren Landesteil sind der
 
 #### Art. 82
 
-**Öffentlichrechtliche Einsprache**
+**Öffentlich-rechtliche Einsprache**
 
 <sup>1</sup> In Ergänzung zu Art. 37 VerwVG ist jede im Kanton wohnhafte natürliche Person zur öffentlich-rechtlichen Einsprache gegen bewilligungspflichtige Bauvorhaben und zur Ergreifung von daran unmittelbar anschliessenden Rechtsmitteln berechtigt.
 
 <sup>2</sup> Zudem sind die Bezirke des inneren Landesteils und die Feuerschaugemeinde bei baupflichtigen Bauvorhaben auf dem eigenen Gebiet zur öffentlichrechtlichen Einsprache und zur Ergreifung von daran unmittelbar anschliessenden Rechtsmitteln berechtigt.
 
-<sup>3</sup> Bei offensichtlich unzulässigen oder offensichtlich unbegründeten Einsprachen kann die Baubewilligungsbehörde Verfahrenskosten bis Fr. 10'000.— erheben.
+<sup>3</sup> Bei offensichtlich unzulässigen oder offensichtlich unbegründeten Einsprachen kann die Baubewilligungsbehörde Verfahrenskosten bis Fr. 10'000.-- erheben.
 
 #### Art. 83
 
@@ -881,38 +913,36 @@ Baugesuch <sup>1</sup>Baugesuche für Bauvorhaben im inneren Landesteil sind der
 <sup>3</sup> Bei allen übrigen Einsprachen zivilrechtlicher Natur setzt die Baubewilligungsbehörde dem Baugesuchsteller eine Frist von 20 Tagen, innert welcher er den Einsprecher aufzufordern hat, innert 20 Tagen Klage beim Gericht zu erheben. Dabei gilt:
 
 - a) Unterbleibt die Klageaufforderung, gilt das Baugesuch als zurückgezogen.
-
 - b) Unterbleibt eine rechtzeitige Klage, gilt die Einsprache als zurückgezogen.
-
 - c) Wird rechtzeitig Klage erhoben, bleibt das Baugesuchsverfahren bis zum rechtskräftigen Entscheid der Zivilklage sistiert.
 
 #### Art. 84
 
-Behandlungsfris- Der Grosse Rat legt behördenverbindliche Fristen für das Genehmigungsverfahren ten bei Nutzungs- und Quartierplänen sowie für das Baubewilligungsverfahren und deren Wirkung fest.
+**Behandlungsfristen**
+
+<sup>1</sup> Der Grosse Rat legt behördenverbindliche Fristen für das Genehmigungsverfahren bei Nutzungs- und Quartierplänen sowie für das Baubewilligungsverfahren und deren Wirkung fest.
 
 #### Art. 85
 
-Baubewilligung <sup>1</sup>Die Baubewilligung wird erteilt, wenn die öffentlichrechtlichen Voraussetzungen erfüllt und allfällige Einsprachen rechtskräftig erledigt sind.
+**Baubewilligung**
+
+<sup>1</sup> Die Baubewilligung wird erteilt, wenn die öffentlich-rechtlichen Voraussetzungen erfüllt und allfällige Einsprachen rechtskräftig erledigt sind.
 
 <sup>2</sup> Die Baubewilligung kann mit Auflagen und Bedingungen verbunden werden. Insbesondere sind zulässig:
 
 - a) ein Nutzungsänderungsverbot, wenn eine Ausnahme im Hinblick auf eine bestimmte Nutzung oder eine Baute unter der Voraussetzung eines Mindestanteils an Gewerbefläche bewilligt wird;
-
 - b) ein Abparzellierungsverbot, wenn eine Ausnahme mit Rücksicht auf die Bedürfnisse einer betrieblichen Einheit gewährt wird;
-
 - c) ein Beseitigungsrevers, wenn eine Ausnahme befristet bewilligt wird;
-
 - d) eine Kautionsverpflichtung oder ein Finanzierungsnachweis, insbesondere zur Sicherstellung der fachgerechten Rekultivierung und Endgestaltung von Materialablagerungs- und -entnahmestellen;
-
 - e) bei Bauten ausserhalb der Bauzonen besondere Auflagen bezüglich Erschliessung und Gestaltung.
 
 <sup>3</sup> Auflagen und Bedingungen gemäss Abs. 2 lit. a, b und c hat die Baubewilligungsbehörde im Grundbuch anmerken zu lassen.
 
 #### Art. 86
 
-Beginn und Ein- <sup>1</sup>Mit den Bauarbeiten darf erst begonnen werden, wenn die schriftliche Baubewillistellung der gung rechtskräftig ist.
+**Beginn und Einstellung der Bauarbeiten**
 
-Bauarbeiten
+<sup>1</sup> Mit den Bauarbeiten darf erst begonnen werden, wenn die schriftliche Baubewilligung rechtskräftig ist.
 
 <sup>2</sup> Wenn mit dem Bau unberechtigterweise begonnen wird oder wenn die Ausführung der Baute den gesetzlichen Vorschriften oder den genehmigten Plänen nicht entspricht, verfügt die Baubewilligungsbehörde von Amtes wegen die Baueinstellung.
 
@@ -924,8 +954,9 @@ Bauarbeiten
 
 <sup>2</sup> Begonnene Arbeiten müssen innert dreier Jahre und ohne erhebliche Unterbrechung abgeschlossen werden. Erheblich ist eine Unterbrechung, wenn sie mehr als ein Jahr beträgt. Die Baubewilligungsbehörde kann die Frist angemessen verkürzen, verlängern oder erhebliche Unterbrechungen bewilligen.
 
-<sup>3</sup> Werden die Vorgaben nach Abs. 2 nicht eingehalten, kann die Baubewilligungsbehörde a) eine Notfrist zur Fertigstellung ansetzen, unter Androhung der Ersatzvornahme zu Lasten des Bauwilligen im Unterlassungsfall;
+<sup>3</sup> Werden die Vorgaben nach Abs. 2 nicht eingehalten, kann die Baubewilligungsbehörde
 
+- a) eine Notfrist zur Fertigstellung ansetzen, unter Androhung der Ersatzvornahme zu Lasten des Bauwilligen im Unterlassungsfall;
 - b) die Baubewilligung teilweise oder ganz entziehen, unter Anordnung des Rückbaus und der Ersatzvornahme zu Lasten des Bauwilligen im Unterlassungsfall.
 
 <sup>4</sup> Zur Sicherung der Kosten nach Abs. 3 besteht ein allen eingetragenen Belastungen vorgehendes gesetzliches Grundpfandrecht.
@@ -952,25 +983,37 @@ Bauarbeiten
 
 #### Art. 90
 
-Gebühren <sup>1</sup>Für die Behandlung der Baugesuche durch die Baubewilligungsbehörden werden Gebühren von 1 %o der geschätzten Baukosten, mindestens Fr. 50.— erhoben. Die Kosten für das Anzeigeverfahren, die erforderlichen Kontrollen sowie allfällige Gutachten werden entsprechend dem tatsächlichen Aufwand zu den Gebühren hinzugerechnet. Die Baubewilligungsbehörde kann vom Baugesuchsteller angemessene Kostenvorschüsse verlangen.
+**Gebühren**
+
+<sup>1</sup> Für die Behandlung der Baugesuche durch die Baubewilligungsbehörden werden Gebühren von 1‰ der geschätzten Baukosten, mindestens Fr. 50.-- erhoben. Die Kosten für das Anzeigeverfahren, die erforderlichen Kontrollen sowie allfällige Gutachten werden entsprechend dem tatsächlichen Aufwand zu den Gebühren hinzugerechnet. Die Baubewilligungsbehörde kann vom Baugesuchsteller angemessene Kostenvorschüsse verlangen.
 
 <sup>2</sup> Für Bauermittlungsgesuche kann die Gebühr ermässigt werden.
 
-- 3\. Mehrwertabgabe1
+### III.3. Mehrwertabgabe
 
-Art. 90a2 Bodenmehrwert Für den Mehrwert am Boden, der durch die Zuweisung von Boden zu Bauzonen (Einzonung) oder durch die Bewilligung von Abparzellierungen gemäss bäuerlichem Bodenrecht entsteht, wird eine Abgabe erhoben.
+#### Art. 90a
 
-Art. 90b3 Bemessung Der Bodenmehrwert entspricht der Differenz des Marktwertes des Bodens unmittelbar vor und nach Rechtskraft der Einzonung oder der Abparzellierung.
+**Bodenmehrwert**
 
-Art. 90c4 Höhe <sup>1</sup>Die Höhe der Abgabe beträgt 20 Prozent des Mehrwertes. Die Verordnung kann für Bagatellfälle eine Befreiung vorsehen.
+<sup>1</sup> Für den Mehrwert am Boden, der durch die Zuweisung von Boden zu Bauzonen (Einzonung) oder durch die Bewilligung von Abparzellierungen gemäss bäuerlichem Bodenrecht entsteht, wird eine Abgabe erhoben.
 
-<sup>2</sup> Führen planerische Massnahmen zu zusätzlichen Vorteilen, können die Bezirke mit
+#### Art. 90b
 
-der Eigentümerschaft vertraglich höhere Abgaben vereinbaren.
+**Bemessung**
+
+<sup>1</sup> Der Bodenmehrwert entspricht der Differenz des Marktwertes des Bodens unmittelbar vor und nach Rechtskraft der Einzonung oder der Abparzellierung.
+
+#### Art. 90c
+
+**Höhe**
+
+<sup>1</sup> Die Höhe der Abgabe beträgt 20 Prozent des Mehrwertes. Die Verordnung kann für Bagatellfälle eine Befreiung vorsehen.
+
+<sup>2</sup> Führen planerische Massnahmen zu zusätzlichen Vorteilen, können die Bezirke mit der Eigentümerschaft vertraglich höhere Abgaben vereinbaren.
 
 <sup>3</sup> Mittels schriftlicher Verträge können die Bezirke den Ausgleich des Mehrwertes in Form von Sach- und Dienstleistungen vereinbaren. Die Gegenleistung muss mindestens der Mehrwertabgabe entsprechen.
 
-Art. 90d1
+#### Art. 90d
 
 **Abgabepflicht**
 
@@ -980,21 +1023,21 @@ Art. 90d1
 
 <sup>3</sup> Gesamt- oder Miteigentümer schulden die Abgabe solidarisch.
 
-Art. 90e2
+#### Art. 90e
 
 **Fälligkeit**
 
-<sup>1</sup> Die Mehrwertabgabe wird fällig a) bei Veräusserung des Grundstücks mit Eintragung im Grundbuch;
+<sup>1</sup> Die Mehrwertabgabe wird fällig
 
+- a) bei Veräusserung des Grundstücks mit Eintragung im Grundbuch;
 - b) bei Übertragung der wirtschaftlichen Verfügungsgewalt mit der Rechtskraft der Verfügung über den Grundstückgewinn;
-
 - c) bei der Überbauung des Grundstücks mit der Rechtskraft der Baubewilligung.
 
 <sup>2</sup> Bei Überbauung oder Veräusserung eines Teils des Grundstücks wird die gesamte Mehrwertabgabe fällig. Ist eine Etappierung in einem Quartierplan vorgesehen, wird die Abgabe mit jeder Etappe anteilmässig fällig.
 
 <sup>3</sup> Die Verordnung kann Ausnahmen vorsehen.
 
-Art. 90f3
+#### Art. 90f
 
 **Gesetzliches Pfandrecht**
 
@@ -1002,7 +1045,7 @@ Art. 90f3
 
 <sup>2</sup> Das gesetzliche Pfandrecht entsteht mit der Verfügung des Mehrwertes.
 
-Art. 90g4
+#### Art. 90g
 
 **Verteilung und Verwendung der Erträge**
 
@@ -1014,94 +1057,36 @@ Art. 90g4
 
 <sup>4</sup> Sie können unter sich Ausgleichszahlungen leisten, wenn sie von raumplanerischen Massnahmen in einem anderen Bezirk profitieren.
 
-### IV. Schlussbestimmungen
+## IV. Schlussbestimmungen
 
 #### Art. 91
 
-Strafen <sup>1</sup>Wer als Bauherrschaft, Grundeigentümer, Bauleiter, Unternehmer oder deren Beauftragter den Vorschriften dieses Gesetzes und von Ausführungserlassen sowie gestützt darauf erlassenen Verfügungen zuwiderhandelt, wird mit Busse bis zu Fr. 50’000.— bestraft. Das Verfahren richtet sich nach den Bestimmungen des Einführungsgesetzes zur Schweizerischen Strafprozessordnung.
+**Strafen**
 
-<sup>2</sup> Leichte Fälle werden von der Baubewilligungsbehörde mit Bussen bis Fr. 5’000.— geahndet.
+<sup>1</sup> Wer als Bauherrschaft, Grundeigentümer, Bauleiter, Unternehmer oder deren Beauftragter den Vorschriften dieses Gesetzes und von Ausführungserlassen sowie gestützt darauf erlassenen Verfügungen zuwiderhandelt, wird mit Busse bis zu Fr. 50’000.-- bestraft. Das Verfahren richtet sich nach den Bestimmungen des Einführungsgesetzes zur Schweizerischen Strafprozessordnung.
+
+<sup>2</sup> Leichte Fälle werden von der Baubewilligungsbehörde mit Bussen bis Fr. 5’000.-- geahndet.
 
 #### Art. 92
 
-Ausführungsbe- Der Grosse Rat erlässt die zu diesem Gesetz erforderlichen Ausführungsbestimstimmungen mungen.
+**Ausführungsbestimmungen**
+
+<sup>1</sup> Der Grosse Rat erlässt die zu diesem Gesetz erforderlichen Ausführungsbestimmungen.
 
 #### Art. 93
 
-Inkrafttreten Der Grosse Rat bestimmt, unter Vorbehalt der Genehmigung der Art. 34 Abs. 5, Art.
+**Inkrafttreten**
 
-37 Abs. 2, 42 Abs. 4,Art. 51 Abs. 4, Art. 56 Abs. 3, Art. 58 Abs. 4, Art. 73, Art. 77 Abs. 2 und Art. 85 Abs. 3 durch den Bund, das Inkrafttreten dieses Gesetzes.
+<sup>1</sup> Der Grosse Rat bestimmt, unter Vorbehalt der Genehmigung der Art. 34 Abs. 5, Art. 37 Abs. 2, 42 Abs. 4, Art. 51 Abs. 4, Art. 56 Abs. 3, Art. 58 Abs. 4, Art. 73, Art. 77 Abs. 2 und Art. 85 Abs. 3 durch den Bund, das Inkrafttreten dieses Gesetzes.
 
-Datum des Inkrafttretens: 1. Januar 2013 (Art. 89 Verordnung zum Baugesetz) Vom Bund genehmigt am 8. August 2012.
+#### Art. 94
 
-#### Art. 941
+**…**
 
-#### Art. 952
+#### Art. 95
 
-Übergangsbe- Sind Einzonungsverfahren oder Abparzellierungsgesuche im Zeitpunkt des Inkraftstimmung tretens des Landsgemeindebeschlusses zur Revision des Baugesetzes vom 30. April 2017 hängig, wird im Falle einer sich daraus ergebenden Einzonung oder Abparzellierung keine Mehrwertabgabe erhoben.
+**Übergangsbestimmung**
 
-### Inhaltsverzeichnis
+<sup>1</sup> Sind Einzonungsverfahren oder Abparzellierungsgesuche im Zeitpunkt des Inkrafttretens des Landsgemeindebeschlusses zur Revision des Baugesetzes vom 30. April 2017 hängig, wird im Falle einer sich daraus ergebenden Einzonung oder Abparzellierung keine Mehrwertabgabe erhoben.
 
-Seite
-
-- l. Allgemeine Bestimmungen Art. 1 Zweck Art. 2 Kantonale Behörden Art. 3 Bezirke Art. 4 Feuerschaugemeinde Art. 5 Baukommission Art. 6 Planzuständigkeit Art. 7 Bestandesgarantie
-
-**1 1 2 2 2 2 3**
-
-### II. Planungsrecht
-
-### 1. Kantonale Richtplanung
-
-**3 3 3 4**
-
-**4 4 4 4 5 5 5 6 6 6 6 6**
-
-**8 9 9 9 9 10 10 10 10 10 11 11 11 11 11 12 12 12 12 13 13 13**
-
-Art. 8 Anregungsverfahren Art. 9 Anhörungsverfahren Art. 10 Einwendungsverfahren Art. 11 Erlass des Richtplans 2. Kantonale Nutzungsplanung Art. 12 Ziel und Zuständigkeit Art. 13 Inhalt und Wirkung Art. 14 Enteignungsrecht Art. 15 Materialabbaustellen und Deponien Art. 16 Landwirtschaft mit besonderer Nutzung a. Allgemeine Voraussetzungen Art. 17 b. Persönliche Voraussetzungen Art. 18 c. Wegfall der Voraussetzungen Art. 19 d. Ergänzendes Recht Art. 20 Vorverfahren Art. 21 Verfahren Art. 22 Aufhebung 3. Regionalplanung Art. 23 Regionalplanung 4. Nutzungsplanung der Bezirke Art. 24 Nutzungsplan Art. 25 Nutzungszonen Art. 26 Kernzonen Art. 27 Wohnzonen Art. 28 Wohn- und Gewerbezonen Art. 29 Gewerbe- und Industriezonen Art. 30 Sportzonen Art. 31 Zonen für öffentliche Bauten und Anlagen Art. 32 Campingzonen Art. 33 Freihaltezonen Art. 34 Weilerzonen Art. 35 Landwirtschaftszonen Art. 36 Sömmerungsgebietszonen Art. 37 Naturschutzzonen Art. 38 Übriges Gebiet Art. 39 Landschaftsschutzzonen Art. 40 Ortsbildschutzzonen Art. 41 Wintersportzonen Art. 42 Gefahrenzonen Art. 43 Archäologiezonen, Schutz und Untersuchung Art. 44 Weitere Regelung Art. 45 Vorverfahren Art. 46 Vorprüfung Art. 47 Auflageverfahren Art. 48 Verabschiedung und Genehmigung Art. 49 Boden- und Baulandpolitik Art. 49a Bezeichnung von Flächen zur Überbauung Art. 49b Gesetzliches Kaufsrecht 5. Quartierplanung Art. 50 Quartierplan Art. 51 Baulinien Art. 52 Verfahren Art. 53 Wirkung 6. Planungsumsetzung Art. 54 Erschliessung Art. 55 Erschliessungsbeiträge und -gebühren Art. 56 Landumlegung und Grenzbereinigung Art. 57 Planungszonen Art. 58 Entschädigung für Eigentumsbeschränkungen Art. 59 Enteignung Art. 60 Heimschlagsrecht Art. 61 Abtretung bei materieller Enteignung Art. 62 Finanzierung der Planungen
-
-**6**
-
-**7 7 8 8 8 8**
-
-**14 14 15 15**
-
-**15 15 16 16 16 17 17 17 18**
-
-### III. Baurechtliche Bestimmungen
-
-### 1. Kantonale Bauvorschriften
-
-**18 18 18**
-
-Art. 63 Erschliessung als Bewilligungsvoraussetzung Art. 64 Immissionen Art. 65 Schutz des Landschafts-, Orts- und Strassenbildes Art. 66 Duldung öffentlicher Einrichtungen Art. 67 Sicherheit Art. 68 Kinderspielplätze Art. 69 Rücksicht auf Behinderte und Betagte Art. 70 Abstellplätze für Personenwagen und Zweiräder Art. 71 Hohe Bauten Art. 72 Grossbauten Art. 73 Waldabstand Art. 74 Abstand zu Ufergehölzen Art. 75 Vorhaben an belasteten Standorten Art. 76 Bauten ausserhalb Bauzone Art. 77 Ausnahmen 2. Baubewilligungsverfahren Art. 78 Bewilligungspflicht Art. 79 Baugesuch Art. 80 Baugespann Art. 81 Öffentliche Auflage Art. 82 Öffentlich-rechtliche Einsprache Art. 83 Privatrechtliche Einsprache Art. 84 Behandlungsfristen Art. 85 Baubewilligung Art. 86 Beginn und Einstellung der Bauarbeiten Art. 87 Abwicklung des Bauvorhabens Art. 88 Vorschriftswidrige Bauten und Anlagen Art. 89 Bauermittlungsgesuch Art. 90 Gebühren 3. Mehrwertabgabe Art. 90a Bodenmehrwert Art. 90b Bemessung Art. 90c Höhe Art. 90d Abgabepflicht Art. 90e Fälligkeit Art. 90f Gesetzliches Pfandrecht Art. 90g Verteilung und Verwendung der Erträge
-
-**19 19 20 20 20 21 21 21 21 21 22 22**
-
-**22 22 23 23 23 23 24 24 24 25 25 25 26**
-
-**26 26 26 27 27 27 27**
-
-### IV. Schlussbestimmungen
-
-**28 28 28 28**
-
-Art. 91 Strafen Art. 92 Ausführungsbestimmungen Art. 93 Inkrafttreten Art. 95 Übergangsbestimmung
-
-## Weitere Fussnoten
-
-- [1] Mit Revision vom 30. April 2017 (Inkrafttreten: 1. Mai 2017).
-- [*] Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
-- [1] Abgeändert (Abs. 2) durch LdsgB vom 30. April 2017 (Inkrafttreten: 1. Mai 2017).
-- [1] Eingefügt (Abs. 3) durch LdsgB vom 30. April 2017 (Inkrafttreten: 1. Mai 2017).
-- [2] Eingefügt durch LdsgB vom 30. April 2017 (Inkrafttreten: 1. Mai 2017).
-- [1] Eingefügt durch LdsgB vom 30. April 2017 (Inkrafttreten: 1. Mai 2017).
-- [2] Eingefügt durch LdsgB vom 30. April 2017 (Inkrafttreten: 1. Mai 2017).
-- [3] Eingefügt durch LdsgB vom 30. April 2017 (Inkrafttreten: 1. Mai 2017).
-- [4] Eingefügt durch LdsgB vom 30. April 2017 (Inkrafttreten: 1. Mai 2017).
-- [1] Eingefügt durch LdsgB vom 30. April 2017 (Inkrafttreten: 1. Mai 2017).
-- [2] Eingefügt durch LdsgB vom 30. April 2017 (Inkrafttreten: 1. Mai 2017).
-- [3] Eingefügt durch LdsgB vom 30. April 2017 (Inkrafttreten: 1. Mai 2017).
-- [4] Eingefügt durch LdsgB vom 30. April 2017 (Inkrafttreten: 1. Mai 2017).
-- [1] Aufgehoben durch StKB vom 11. März 2014.
-- [2] Abgeändert durch LdsgB vom 30. April 2017 (Inkrafttreten: 1. Mai 2017).
+cGS -
