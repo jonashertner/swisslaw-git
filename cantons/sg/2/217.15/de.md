@@ -4,13 +4,13 @@ number: "217.15"
 title: Universitätsstatut
 short: US
 language: de
-version: 2020-05-01
-valid_until: 2022-04-30
-version_adopted: 2020-03-16
+version: 2022-05-01
+valid_until: 2023-09-19
+version_adopted: 2022-03-07
 adopted: 2024-08-30
 in_force: 2025-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/217.15"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2925/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3346/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2925/pdf_file"
 
 (US)
 
-vom 25.10.2010 (Stand 01.05.2020)
+vom 25.10.2010 (Stand 01.05.2022)
 
 Der Universitätsrat der Universität St.Gallen
 
@@ -214,7 +214,7 @@ als Statut:[^ingress-2]
 
 <sup>1</sup> Die Unterrichtssprache ist deutsch. In einzelnen Lehrveranstaltungen, Studienschwerpunkten und Programmen kann der Unterricht gemäss Grundlehrplan ab dem fünften Semester in einer anderen Landessprache oder, soweit in einem Fachbereich in Lehre und Forschung üblich, in Englisch durchgeführt werden. Ein entsprechender Unterricht ist auch in einem früheren Semester möglich, wenn ein ebenbürtiges Lehrangebot in deutscher Sprache besteht. Im Studienschwerpunkt Informatik ist die Unterrichtssprache teilweise Englisch.
 
-<sup>2</sup> Im Wahl- und Pflichtwahlbereich kann der Unterricht in einer andern Landessprache oder in Englisch durchgeführt werden, soweit dies in einem Fachbereich in Lehre und Forschung üblich ist.
+<sup>2</sup> Im Wahl- und Pflichtwahlbereich kann der Unterricht in einer anderen Landessprache oder in Englisch durchgeführt werden, soweit dies in einem Fachbereich in Lehre und Forschung üblich ist.
 
 #### Art. 19
 
@@ -617,15 +617,33 @@ als Statut:[^ingress-2]
 
 <sup>5</sup> Der Senat erlässt Ausführungsbestimmungen.
 
+<sup>6</sup> Für im Rahmen des Dienstverhältnisses oder im Rahmen von wissenschaftlichen Arbeiten der Studierenden entwickelte Computerprogramme ist die Universität allein zur Ausübung der ausschliesslichen Verwendungsbefugnisse berechtigt. Der Arbeitgeber kann solche Programme unter einer Open-Source-Lizenz veröffentlichen.
+
+#### Art. 55bis
+
+**Diensterfindungen**
+
+<sup>1</sup> Die Rechte an Erfindungen, die Universitätsangehörige im Rahmen des Dienstverhältnisses gemacht haben, stehen der Universität zu (Diensterfindung). Sie kann diese im Rahmen von Forschungskooperationen an Dritte abtreten. In diesem Fall behält sie das Recht, die Diensterfindung bei Bedarf unentgeltlich für wissenschaftliche Zwecke zu verwenden.
+
+<sup>2</sup> Erfindungen, die Studierende im Rahmen von wissenschaftlichen Arbeiten gemacht haben, werden wie Diensterfindungen behandelt.
+
+<sup>3</sup> Die Universität beteiligt die Erfinderin oder den Erfinder angemessen am Gewinn.
+
+<sup>4</sup> Diensterfindungen werden möglichst rasch der von der Rektorin oder dem Rektor bestimmten Stelle gemeldet.
+
+<sup>5</sup> Die Patentanmeldung erfolgt durch die Universität. Sofern die Universität auf eine Patentanmeldung verzichtet, kann die Rektorin oder der Rektor die Rechte der Universität an der Diensterfindung schriftlich und in der Regel unentgeltlich an die Erfinderin oder den Erfinder abtreten.
+
+<sup>6</sup> Der Universitätsrat kann auf Antrag des Senats Ausführungsbestimmungen erlassen.
+
 #### Art. 56
 
 **Nebenbeschäftigungen und Verfügbarkeit**
 
 <sup>1</sup> Die Dozierenden stellen gemäss ihrem Beschäftigungsgrad ihre Arbeitskraft der Lehre und Forschung sowie der akademischen Selbstverwaltung zur Verfügung. Sie dürfen keine Tätigkeiten ausüben, welche die Erfüllung ihrer Dienstpflicht oder die Unabhängigkeit von Lehre und Forschung beeinträchtigen.
 
-<sup>2</sup> Die Dozierenden melden Nebenbeschäftigungen von Belang und alle Organfunktionen in Organisationen, die einen wirtschaftlichen Zweck verfolgen, der Rektorin oder dem Rektor. Diese oder dieser kann die Betätigung im Fall eines Konfliktes mit den Interessen der Universität untersagen. Die Bestimmung gilt entsprechend für Nebenbeschäftigungen in Non-Profit-Organisationen.
+<sup>2</sup> Der Universitätsrat ernennt eine Kommission für Nebenbeschäftigungen.
 
-<sup>3</sup> Der Universitätsrat genehmigt auf Antrag der Rektorin oder des Rektors zeitintensive Nebenbeschäftigungen.
+<sup>3</sup> Der Universitätsrat erlässt Richtlinien für Nebenbeschäftigungen zur Regelung der Einzelheiten.
 
 <sup>4</sup> Die Dozierenden sorgen entsprechend ihrem Auftrag an der HSG für ihre Verfügbarkeit.
 
@@ -847,7 +865,7 @@ als Statut:[^ingress-2]
 
 **Prüfungen**
 
-<sup>1</sup> Prüfungen an der Universität kann absolvieren, wer immatrikuliert ist oder aufgrund einer Vereinbarung mit einer andern Bildungsstätte zum Studium an der Universität St.Gallen zugelassen ist.
+<sup>1</sup> Prüfungen an der Universität kann absolvieren, wer immatrikuliert ist oder aufgrund einer Vereinbarung mit einer anderen Bildungsstätte zum Studium an der Universität St.Gallen zugelassen ist.
 
 <sup>2</sup> Die Zulassung zu Prüfungen kann abhängig gemacht werden von:
 
@@ -1267,7 +1285,7 @@ als Statut:[^ingress-2]
 
 **Weitere Kommissionen**
 
-<sup>1</sup> Der Senat kann weitere akademische Kommissionen von gesamtuniversitärer Bedeutung einsetzen; insbesondere setzt er eine Internationalisierungskommission ein. Der Senat legt die Zusammensetzung und die Aufgaben dieser Kommissionen fest.
+<sup>1</sup> Der Senat kann weitere akademische Kommissionen von gesamtuniversitärer Bedeutung einsetzen. Der Senat legt die Zusammensetzung und die Aufgaben dieser Kommissionen fest.
 
 #### Art. 112
 
