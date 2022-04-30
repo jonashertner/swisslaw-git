@@ -4,13 +4,12 @@ number: "312.1"
 title: Übertretungsstrafgesetz
 short: ÜStG
 language: de
-version: 2016-02-27
-valid_until: 2022-04-30
-version_adopted: 2015-12-10
+version: 2022-05-01
+version_adopted: 2022-01-27
 adopted: 2013-05-23
 in_force: 2013-10-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/312.1"
-pdf: "https://bgs.zg.ch/api/de/versions/1535/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2335/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/1535/pdf_file"
 
 (ÜStG)
 
-Vom 23. Mai 2013 (Stand 27. Februar 2016)
+Vom 23. Mai 2013 (Stand 1. Mai 2022)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf Art. 335 des Schweizerischen Strafgesetzbuchs vom 21. Dezember 1937[^ingress-1] (StGB) und auf § 41 Bst. b der Kantonsverfassung[^ingress-2],
+gestützt auf Art. 335 des Schweizerischen Strafgesetzbuchs (StGB) vom 21. Dezember 1937[^ingress-1] und auf § 41 Abs. 1 Bst. b der Kantonsverfassung[^ingress-2],
 
 beschliesst:
 
@@ -163,7 +162,7 @@ beschliesst:
 
 **Betteln**
 
-<sup>1</sup> Mit Busse wird bestraft, wer bettelt.
+<sup>1</sup> Wer bettelt und damit die öffentliche Ordnung stört, wird mit Busse bestraft.
 
 #### § 14
 
@@ -198,13 +197,13 @@ beschliesst:
 
 #### § 17
 
-**Befugnis zur Erhebung**
+**Befugnis zur Erhebung kantonaler Ordnungsbussen**
 
 <sup>1</sup> Uniformierte und nicht uniformierte Mitarbeitende der Polizei mit hoheitlicher polizeilicher Gewalt sowie Sicherheitsassistentinnen und -assistenten erheben Ordnungsbussen.
 
 <sup>2</sup> Folgende weitere Funktionsträgerinnen und -träger sind zur Erhebung von Ordnungsbussen ermächtigt:
 
-- a) Försterinnen und Förster des kantonalen Amts für Wald und Wild, der Korporationen und der Waldgenossenschaft Steinhausen im Bereich Wald, soweit dieser jeweils in ihrem Zuständigkeitsbereich liegt;
+- a) Försterinnen und Förster des kantonalen Amts für Wald und Wild im Bereich Wald, soweit dieser jeweils in ihrem Zuständigkeitsbereich liegt;
 - b) Wildhüterinnen und Wildhüter des kantonalen Amts für Wald und Wild im Bereich der Jagd auf dem ganzen Kantonsgebiet in ihrem Zuständigkeitsbereich;
 - c) Fischereiaufseherinnen und -aufseher des kantonalen Amts für Wald und Wild im Bereich der Fischerei auf dem ganzen Kantonsgebiet.
 
@@ -234,7 +233,27 @@ beschliesst:
 - b) wenn der fehlbaren Person zusätzlich eine Widerhandlung vorgeworfen wird, die nicht im Ordnungsbussenverfahren erledigt werden kann;
 - c) wenn die Gesamtbusse beim Zusammentreffen mehrerer Übertretungen den Betrag von 600 Franken übersteigt;
 - d) wenn die fehlbare Person das Ordnungsbussenverfahren für eine oder mehrere der ihr vorgeworfenen Übertretungen ablehnt;
-- e) wenn eine Beschlagnahme oder Einziehung zu erfolgen hat.
+- e) …
+- f) wenn die fehlbare Person anlässlich der Widerhandlung jemanden gefährdet oder verletzt oder Schaden verursacht hat;
+- g) wenn Verfahrenshandlungen nach der Schweizerischen Strafprozessordnung (StPO) vom 5. Oktober 2007[^20-1] erforderlich sind, die in diesem Gesetz nicht genannt sind.
+
+[^20-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+
+#### § 20a
+
+**Sicherstellung und Einziehung**
+
+<sup>1</sup> Mit der Erhebung der Ordnungsbusse werden Gegenstände und Vermögenswerte, die nach den Art. 69 f. StGB[^20a-1] einzuziehen sind, sichergestellt.
+
+<sup>2</sup> Die sichergestellten Gegenstände und Vermögenswerte gelten mit der Bezahlung der Busse als eingezogen.
+
+[^20a-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+
+#### § 20b
+
+**Ordnungsbusse im ordentlichen Strafverfahren**
+
+<sup>1</sup> Eine Ordnungsbusse kann auch im ordentlichen Strafverfahren ausgesprochen werden.
 
 #### § 21
 
@@ -248,9 +267,9 @@ beschliesst:
 
 <sup>4</sup> Wird die Busse nicht innert 30 Tagen bezahlt, wird das ordentliche Verfahren eingeleitet.
 
-<sup>5</sup> Kann die fehlbare Person, die über keinen schweizerischen Wohnsitz verfügt, die Ordnungsbusse nicht sofort bezahlen oder lehnt sie das Ordnungsbussenverfahren ab, stellt das Kontrollorgan nach den Bestimmungen der Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordnung, StPO)[^21-1] Gegenstände oder Vermögenswerte von ihr oder einer Drittperson vorläufig sicher.
+<sup>5</sup> Wer in der Schweiz keinen Wohnsitz hat und die Busse nicht sofort bezahlt, hat den Betrag zu hinterlegen oder eine angemessene Sicherheit zu leisten.
 
-[^21-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+<sup>6</sup> Läuft die Bedenkfrist nach § 21 Abs. 1 unbenutzt ab oder akzeptiert die fehlbare Person die Ordnungsbusse innerhalb dieser Frist ausdrücklich, so wird der gemäss § 21 Abs. 5 hinterlegte Betrag mit der Ordnungsbusse verrechnet. Die Ordnungsbusse gilt mit der Verrechnung als bezahlt.
 
 #### § 22
 
