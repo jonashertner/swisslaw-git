@@ -4,11 +4,11 @@ title: "Loi fédérale du 21 décembre 1948 sur l'aviation (LA)"
 short: LA
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: fr
-version: 2022-01-01
+version: 2022-05-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20220101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20220501-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20220501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20220101/fr"
 
 (LA)**[^t-1]** **[^t-2]**
 
-du 21 décembre 1948 (Etat le 1<sup>er</sup> janvier 2022)
+du 21 décembre 1948 (Etat le 1<sup>er</sup> mai 2022)
 
 [^t-1]: Abréviation introduite par le ch. I de la LF du 24 juin 1977, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1267](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 18 juin 1993, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
@@ -313,9 +313,13 @@ L’OFAC peut fixer, d’entente avec la Direction générale des douanes, les p
 
 <sup>1</sup> Les communications radiotéléphoniques avec le service de la navi-gation aérienne s’effectuent en principe en anglais dans l’espace aérien suisse.
 
-<sup>2</sup> Le Conseil fédéral peut prévoir des exceptions si la sécurité de l’aviation l’exige.
+<sup>2</sup> Dans le cadre de vols à vue non commerciaux, les communications radiotéléphoniques avec le service de la navigation aérienne peuvent s’effectuer, en plus de l’anglais, dans la langue officielle de la Confédération parlée localement, sauf dans le cas de l’aéroport de Zurich.[^10a-2]
+
+<sup>3</sup> Le Conseil fédéral règle les détails; il peut prévoir des exceptions supplémentaires à l’al. 1 si la sécurité de l’aviation le permet.[^10a-3]
 
 [^10a-1]: Introduit par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^10a-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
+[^10a-3]: Introduit par le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 ### IV. Applicabilité des lois quant au lieu
 
@@ -2214,7 +2218,11 @@ L’acte est également punissable s’il a été commis à l’étranger à bor
 
 [^90-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
-### 4. Diminution des facultés de membres d’équipage de conduite
+### 4. Diminution des facultés de l’équipage
+
+[^part2-tit5-chap1-lvlI-lvl4-1]
+
+[^part2-tit5-chap1-lvlI-lvl4-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 #### Art 90<sup>bis</sup>
 
@@ -2222,10 +2230,11 @@ L’acte est également punissable s’il a été commis à l’étranger à bor
 
 Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque:
 
-- a. assure les fonctions de membre d’équipage de conduite alors qu’il est pris de boisson ou qu’il se trouve sous l’influence de narcotiques ou de substances psychotropes;
+- a.[^90bis-2] assure les fonctions de membre d’équipage alors qu’il est pris de boisson ou qu’il se trouve sous l’influence de narcotiques ou de substances psychotropes;
 - b. s’oppose ou se dérobe intentionnellement à une prise de sang ordonnée par l’autorité ou à un examen médical complémentaire, ou fait en sorte que ces mesures ne puissent atteindre leur but.
 
 [^90bis-1]: Introduit par le ch. I de la LF du 17 déc. 1971 ([RO 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 287](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)). Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^90bis-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 ### II. Contraventions
 
@@ -2389,7 +2398,11 @@ Une concession accordée en vertu des art. 28, 30 ou 37[^93-1] peut être retir�
 [^99-5]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^99-6]: Introduit par l’annexe ch. 15 du DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); FF **1971** 1017).
 
-### IV. Devoir d’information et consultation
+### IV. Devoir d’information, consultation et droit d’annoncer
+
+[^part2-tit5-chap2-lvlIV-1]
+
+[^part2-tit5-chap2-lvlIV-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 #### Art. 100
 
@@ -2409,6 +2422,8 @@ Pour autant que la procédure pénale n’en soit pas entravée, ils communiquen
 
 <sup>3</sup> L’OFAC peut solliciter l’avis du Service de renseignement de la Confédération dans le but de vérifier les autorisations, licences et certificats des personnes actives dans la zone de sûreté à accès réglementé d’un aéroport.
 
+<sup>4</sup> Les médecins et psychologues peuvent annoncer à l’OFAC les cas de membres d’équipage ou de contrôleurs de la circulation aérienne dont ils doutent de l’aptitude à exercer leurs activités en raison d’une maladie physique ou mentale, d’une infirmité ou d’une situation de dépendance qu’ils ont constatée.[^100-8]
+
 [^100-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^100-2]: V. actuellement l’art. 19, al. 2, let. a, de la LF sur le renseignement ([RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)).
 [^100-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
@@ -2416,6 +2431,7 @@ Pour autant que la procédure pénale n’en soit pas entravée, ils communiquen
 [^100-5]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 [^100-6]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
 [^100-7]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^100-8]: Introduit par le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 ### V. Mesures de prévention des attentats
 
@@ -2444,13 +2460,22 @@ Pour autant que la procédure pénale n’en soit pas entravée, ils communiquen
 
 [^100ter-1]
 
-<sup>1</sup> Les membres de l’équipage de conduite seront soumis à un examen approprié lorsque des indices permettent de conclure qu’ils sont pris de boisson ou qu’ils se trouvent sous l’influence de narcotiques ou de substances psychotropes. La prise de sang peut être imposée.
+<sup>1</sup> Les membres d’équipage sont soumis à un examen approprié lorsque des indices permettent de conclure qu’ils sont pris de boisson ou qu’ils se trouvent sous l’influence de narcotiques ou de substances psychotropes.[^100ter-2]
 
 <sup>2</sup> Les chefs d’aérodrome et les organes de la police compétente sont habilités à ordonner les mesures requises. Lorsque les chefs d’aérodrome interviennent, ils doivent immédiatement faire appel à la police si une première enquête confirme les soupçons énoncés à l’al. 1.
 
-<sup>3</sup> Les prescriptions sur la procédure à suivre pour prélever et analyser le sang et sur les autres mesures à prendre à l’endroit des usagers de la route sont applicables par analogie.
+<sup>3</sup> Dans le cadre d’inspections au sol d’aéronefs et de leur équipage, l’OFAC peut en tout temps ordonner que les membres d’équipage soient soumis à un test d’alcoolémie. Les mesures requises sont exécutées par la police cantonale compétente.[^100ter-3]
+
+<sup>4</sup> Les personnes et services compétents visés aux al. 2 et 3 peuvent ordonner une prise de sang.[^100ter-4]
+
+<sup>5</sup> Le Conseil fédéral règle l’exécution des enquêtes et mesures visées aux al. 1, 3 et 4. Il tient compte à cet effet des dispositions de l’Union européenne relatives à l’ébriété applicables en vertu de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien[^100ter-5]. Il s’appuie à titre complémentaire sur les prescriptions relatives au contrôle de l’alcoolémie et les autres mesures à prendre à l’endroit des usagers de la route.[^100ter-6]
 
 [^100ter-1]: Introduit par le ch. I de la LF du 17 déc. 1971, en vigueur depuis le 1<sup>er</sup> janv. 1974 ([RO 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 287](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
+[^100ter-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
+[^100ter-3]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
+[^100ter-4]: Introduit par le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
+[^100ter-5]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^100ter-6]: Introduit par le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 ## Troisième partie: Développement de l’aviation
 
@@ -2579,7 +2604,7 @@ La Commission de la concurrence examine la compatibilité avec l’art. 13 de l�
 
 La Confédération encourage la formation et la formation continue ainsi que la recherche et le développement de nouvelles technologies dans les différents domaines de l’aviation.
 
-[^103b-1]: Introduit par le ch. I de la LF du 18 juin 1993 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nouvelle teneur selon le ch. 27 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^103b-1]: Introduit par le ch. I de la LF du 18 juin 1993 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nouvelle teneur selon l’annexe ch. 27 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 #### Art. 103c et 103d
 

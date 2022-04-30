@@ -4,11 +4,11 @@ title: Legge federale del 21 dicembre 1948 sulla navigazione aerea (LNA)
 short: LNA
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: it
-version: 2022-01-01
+version: 2022-05-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20220101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20220501/it/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20220501-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20220501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20220101/it"
 
 (LNA[^t-1])
 
-del 21 dicembre 1948 (Stato 1° gennaio 2022)
+del 21 dicembre 1948 (Stato 1° maggio 2022)
 
 [^t-1]: Abbreviazione introdotta dal n. I della LF del 24 giu. 1977, in vigore dal 1° gen. 1978 ([RU 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1235](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visti gli articoli 87 e 92 della Costituzione federale[^ingress-1] (Cost.);[^ingress-2] visto il messaggio del Consiglio federale del 23 marzo 1945[^ingress-3],
+
+decreta:
+
+[^ingress-1]: [CS **1** 3]. A queste disp. corrispondono ora gli art. 87 e 92 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^ingress-3]: FF **1945** 481
 
 ## Parte prima: Principi della navigazione aerea
 
@@ -299,9 +309,13 @@ L’UFAC può designare, d’intesa con la Direzione generale delle dogane, dete
 
 <sup>1</sup> Le conversazioni radiotelefoniche con il servizio della sicurezza aerea nello spazio aereo svizzero sono effettuate di regola in inglese.
 
-<sup>2</sup> Il Consiglio federale può prevedere deroghe qualora sia necessario ai fini della sicurezza aerea.
+<sup>2</sup> Per i voli a vista non commerciali, le conversazioni radiotelefoniche con il servizio della sicurezza aerea, eccettuati i servizi della sicurezza aerea dell’aeroporto di Zurigo, possono essere effettuate, oltre che in inglese, nella lingua ufficiale della Confederazione parlata in loco. [^10a-2]
+
+<sup>3</sup> Il Consiglio federale disciplina i dettagli; può prevedere altre deroghe al capoverso 1 qualora la sicurezza aerea lo consenta.[^10a-3]
 
 [^10a-1]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^10a-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
+[^10a-3]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 ### IV. Diritto applicabile
 
@@ -2157,13 +2171,14 @@ Restano riservate le convenzioni internazionali sulla protezione della propriet�
 
 [^88-1]
 
-<sup>1</sup> Chiunque, violando un divieto di circolare emanato in virtù dell’articolo 7, penetra intenzionalmente nello spazio aereo svizzero, o parte in volo dalla Svizzera, o sorvola una zona vietata in Svizzera, è punito con la detenzione fino a un anno o con una pena pecuniaria.
+<sup>1</sup> Chiunque, violando un divieto di circolare emanato in virtù dell’articolo 7, penetra intenzionalmente nello spazio aereo svizzero, o parte in volo dalla Svizzera, o sorvola una zona vietata in Svizzera, è punito con una pena detentiva[^88-2] fino a un anno o con una pena pecuniaria.
 
-<sup>2</sup> Se l’autore ha inoltre violato le prescrizioni dell’articolo 18 sull’obbligo di atterrare, la pena è la detenzione fino a tre anni o una pena pecuniaria.
+<sup>2</sup> Se l’autore ha inoltre violato le prescrizioni dell’articolo 18 sull’obbligo di atterrare, la pena è una pena detentiva fino a tre anni o una pena pecuniaria.
 
 <sup>3</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria fino a 180 aliquote giornaliere.
 
 [^88-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^88-2]: Nuova espr. giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ### 2. Pilotaggio di un aeromobile munito di contrassegni falsi
 
@@ -2171,7 +2186,7 @@ Restano riservate le convenzioni internazionali sulla protezione della propriet�
 
 [^89-1]
 
-<sup>1</sup> Chiunque intenzionalmente pilota o fa pilotare un aeromobile munito di contrassegni contraffatti o alterati, o privo dei contrassegni prescritti nell’articolo 59, è punito con la detenzione fino a cinque anni o con una pena pecuniaria.
+<sup>1</sup> Chiunque intenzionalmente pilota o fa pilotare un aeromobile munito di contrassegni contraffatti o alterati, o privo dei contrassegni prescritti nell’articolo 59, è punito con una pena detentiva fino a cinque anni o con una pena pecuniaria.
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria fino a 180 aliquote giornaliere.
 
@@ -2186,7 +2201,7 @@ Restano riservate le convenzioni internazionali sulla protezione della propriet�
 
 [^89a-1]
 
-<sup>1</sup> Chiunque, in qualità di comandante di bordo di un aeromobile, non segue intenzionalmente le istruzioni date da un aeromobile intercettatore secondo le norme della circolazione aerea, è punito con la detenzione fino a tre anni o con una pena pecuniaria.[^89a-2]
+<sup>1</sup> Chiunque, in qualità di comandante di bordo di un aeromobile, non segue intenzionalmente le istruzioni date da un aeromobile intercettatore secondo le norme della circolazione aerea, è punito con una pena detentiva fino a tre anni o con una pena pecuniaria.[^89a-2]
 
 <sup>2</sup>
 
@@ -2207,7 +2222,7 @@ L’atto è parimenti punibile se è stato commesso all’estero a bordo:
 
 [^90-1]
 
-<sup>1</sup> Chiunque, durante un volo, come comandante di un aeromobile, o membro dell’equipaggio o passeggero, viola intenzionalmente le prescrizioni legali o le norme della circolazione e mette in tal modo scientemente in pericolo la vita o l’integrità fisica di persone o beni di terzi di notevole valore a terra è punito con la detenzione fino a tre anni o con una pena pecuniaria.
+<sup>1</sup> Chiunque, durante un volo, come comandante di un aeromobile, o membro dell’equipaggio o passeggero, viola intenzionalmente le prescrizioni legali o le norme della circolazione e mette in tal modo scientemente in pericolo la vita o l’integrità fisica di persone o beni di terzi di notevole valore a terra è punito con una pena detentiva fino a tre anni o con una pena pecuniaria.
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria fino a 180 aliquote giornaliere.
 
@@ -2219,12 +2234,13 @@ L’atto è parimenti punibile se è stato commesso all’estero a bordo:
 
 [^90bis-1]
 
-È punito con la detenzione fino a tre anni o con una pena pecuniaria chiunque:
+È punito con una pena detentiva fino a tre anni o con una pena pecuniaria chiunque: [^90bis-2]
 
 - a. svolge funzioni di membro dell’equipaggio in stato di ebrietà o sotto l’influsso di narcotici o sostante psicotrope;
 - b. si oppone o si sottrae intenzionalmente a un prelievo di sangue o a una visita medica completiva, ordinati dall’autorità, oppure fa in modo che questi provvedimenti non possano perseguire il loro scopo.
 
 [^90bis-1]: Introdotto dal n. I della LF del 17 dic. 1971 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)). Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^90bis-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 ### II. Contravvenzioni
 
@@ -2392,7 +2408,11 @@ Con riserva degli articoli 89 capoverso 3, 89*a* capoverso 3 e 97 della presente
 [^99-5]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^99-6]: Introdotto dall’all. n. 15 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
-### IV. Obbligo di informazione e consultazione
+### IV. Obbligo di informazione, consultazione e diritto di informazione
+
+[^part2-tit5-chap2-lvlIV-1]
+
+[^part2-tit5-chap2-lvlIV-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 #### Art. 100
 
@@ -2412,6 +2432,8 @@ Sempre che non sia d’intralcio al procedimento penale, essi informano l’UFAC
 
 <sup>3</sup> L’UFAC può consultare il Servizio delle attività informative della Confederazione per verificare le autorizzazioni, le licenze e i certificati delle persone impiegate nell’area di sicurezza dell’aeroporto.
 
+<sup>4</sup> I medici e psicologi che nutrono dubbi circa l’idoneità di un membro dell’equipaggio o di un controllore del traffico aereo a svolgere la propria attività a causa di una malattia fisica o psichica, un’infermità o una dipendenza da essi accertate possono informarne l’UFAC.[^100-8]
+
 [^100-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^100-2]: Attualmente: l’art. 19 cpv. 2 lett. a della LF sulle attività informative ([RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)).
 [^100-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
@@ -2419,6 +2441,7 @@ Sempre che non sia d’intralcio al procedimento penale, essi informano l’UFAC
 [^100-5]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 [^100-6]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
 [^100-7]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^100-8]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 ### V. Provve dimenti per prevenire attentati
 
@@ -2447,13 +2470,22 @@ Sempre che non sia d’intralcio al procedimento penale, essi informano l’UFAC
 
 [^100ter-1]
 
-<sup>1</sup> I membri dell’equipaggio che presentano indizi di ebrietà o di influsso di narcotici o di sostanze psicotrope sono sottoposti a un esame adeguato. Può essere loro imposto il prelievo del sangue.
+<sup>1</sup> I membri dell’equipaggio che presentano indizi di ebrietà o di influsso di narcotici o di sostanze psicotrope sono sottoposti a un esame adeguato.[^100ter-2]
 
 <sup>2</sup> I capi d’aerodromo e gli organi di polizia competenti per luogo hanno facoltà di ordinare i provvedimenti necessari. In caso d’intervento dei capi d’aerodromo, quest’ultimi devono chiedere senz’indugio l’operato della polizia se i sospetti di cui al capoverso 1 siano confermati da una prima inchiesta.
 
-<sup>3</sup> Sono applicabili, per analogia, le prescrizioni sulla procedura per il prelievo e l’analisi del sangue e sugli altri provvedimenti verso gli utenti della strada.
+<sup>3</sup> Nell’ambito di ispezioni di rampa di aeromobili e del loro equipaggio l’UFAC può ordinare in ogni tempo che i membri dell’equipaggio siano sottoposti a un test alcolemico. I provvedimenti necessari sono eseguiti dal competente organo di polizia cantonale.[^100ter-3]
+
+<sup>4</sup> Le persone e servizi competenti di cui ai capoversi 2 e 3 possono ordinare un prelievo di sangue.[^100ter-4]
+
+<sup>5</sup> Il Consiglio federale disciplina l’esecuzione degli esami e provvedimenti di cui ai capoversi 1, 3 e 4. Tiene conto delle disposizioni dell’Unione europea sull’ebrietà applicabili in virtù dell’Accordo del 21 giugno 1999[^100ter-5] tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo. Si ispira a titolo completivo alle prescrizioni concernenti i controlli alcolemici e gli altri provvedimenti nei confronti degli utenti della strada.[^100ter-6]
 
 [^100ter-1]: Introdotto dal n. I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)). Originario art. 44<sup>ter</sup>.
+[^100ter-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
+[^100ter-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
+[^100ter-4]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
+[^100ter-5]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^100ter-6]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 ## Parte terza: Promovimento della navigazione aerea
 
@@ -2798,7 +2830,6 @@ Il Consiglio federale è autorizzato a prendere, fino a tanto che una legge non 
 Con l’entrata in vigore della presente legge sono abrogate tutte le disposizioni contrarie ad essa; in particolare:
 
 - a. il decreto del Consiglio federale del 27 gennaio 1920[^110-1] che regola la circolazione aerea in Svizzera e le prescrizioni esecutive emanate dal DATEC e dall’UFAC;
-
 - b. le prescrizioni del Consiglio federale del 24 gennaio 1921[^110-2] concernenti la circolazione degli aeromobili sopra e sulle acque.
 
 [^110-1]: [[RU 36 183](https://fedlex.data.admin.ch/eli/oc/36/171_177_183)]

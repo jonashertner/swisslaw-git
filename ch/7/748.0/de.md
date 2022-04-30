@@ -4,20 +4,20 @@ title: "Bundesgesetz vom 21. Dezember 1948 über die Luftfahrt (Luftfahrtgesetz,
 short: LFG
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: de
-version: 2022-01-01
+version: 2022-05-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20220101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20220501/de/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20220501-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20220501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Luftfahrt
 
-(Luftfahrtgesetz, LFG)**[^t-1]**
+(Luftfahrtgesetz, LFG)[^t-1]
 
-vom 21. Dezember 1948 (Stand am 1. Januar 2022)
+vom 21. Dezember 1948 (Stand am 1. Mai 2022)
 
 [^t-1]: Abkürzung eingefügt gemäss Ziff. I des BG vom 24. Juni 1977, in Kraft seit 1. Jan. 1978 ([AS 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [BBl 1976 III 1232](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 
@@ -304,9 +304,13 @@ Das BAZL kann im Einvernehmen mit der Oberzolldirektion Punkte bestimmen, zwisch
 
 <sup>1</sup> Die Radiotelefonie mit dem Flugsicherungsdienst findet im Luftraum über der Schweiz grundsätzlich auf Englisch statt.
 
-<sup>2</sup> Der Bundesrat kann Ausnahmen vorsehen, wenn es die Flugsicherheit erfordert.
+<sup>2</sup> Für den nichtgewerbsmässigen Sichtflugverkehr ist die Radiotelefonie mit dem Flugsicherungsdienst, ausgenommen mit Flugsicherungsdiensten des Flughafens Zürich, neben Englisch auch in der jeweils lokal gesprochenen Amtssprache des Bundes zulässig.[^10a-2]
+
+<sup>3</sup> Der Bundesrat regelt die Einzelheiten; er kann weitere Ausnahmen von Absatz 1 vorsehen, wenn es die Flugsicherheit erlaubt.[^10a-3]
 
 [^10a-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^10a-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [BBl 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
+[^10a-3]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [BBl 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 ### IV. Räumliche Geltung der Gesetze
 
@@ -324,7 +328,7 @@ Das BAZL kann im Einvernehmen mit der Oberzolldirektion Punkte bestimmen, zwisch
 
 [^11-1]: Fassung gemäss Ziff. I des BG vom 14. Juni 1963, in Kraft seit 1. Mai 1964 ([AS 1964 325](https://fedlex.data.admin.ch/eli/oc/1964/325_317_317); [BBl 1962 II 717](https://fedlex.data.admin.ch/eli/fga/1962/2_717_713_1413)).
 
-### Zweiter Abschnitt: Die Benützung des Luftraums und Sicherheitsmassnahmen****
+### Zweiter Abschnitt: Die Benützung des Luftraums und Sicherheitsmassnahmen
 
 [^part1-tit1-chap2-1]
 
@@ -849,7 +853,7 @@ Soweit Staatsverträge nichts anderes vorsehen, ist die gewerbsmässige Beförde
 
 [^35-1]: Aufgehoben durch Ziff. I des BG vom 26. Juni 1998, mit Wirkung seit 15. Nov. 1998 ([AS 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [BBl 1997 III 1181](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
 
-### Dritter Abschnitt: Die Infrastruktur****
+### Dritter Abschnitt: Die Infrastruktur
 
 [^part1-tit1-chap3-1]
 
@@ -2205,7 +2209,11 @@ Die Tat ist auch strafbar, wenn sie im Ausland begangen wird:
 
 [^90-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
-### 4. Tätigkeit an Bord mit beeinträchtigtem Bewusstsein
+### 4. Beeinträchtigter Zustand der Besatzung
+
+[^part2-tit5-chap1-lvlI-lvl4-1]
+
+[^part2-tit5-chap1-lvlI-lvl4-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [BBl 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 #### Art. 90<sup>bis</sup>
 
@@ -2213,10 +2221,11 @@ Die Tat ist auch strafbar, wenn sie im Ausland begangen wird:
 
 Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer:
 
-- a. in angetrunkenem Zustand oder unter dem Einfluss von Betäubungsmitteln oder psychotropen Substanzen als Flugbesatzungsmitglied tätig ist;
+- a.[^90bis-2] in angetrunkenem Zustand oder unter dem Einfluss von Betäubungsmitteln oder psychotropen Substanzen als Besatzungsmitglied tätig ist;
 - b. sich vorsätzlich einer amtlich angeordneten Blutprobe oder einer zusätzlichen ärztlichen Untersuchung widersetzt oder entzieht oder den Zweck dieser Massnahmen vereitelt.
 
 [^90bis-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1971 ([AS 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [BBl 1971 I 266](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)). Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^90bis-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [BBl 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 ### II. Übertretungen
 
@@ -2382,7 +2391,11 @@ Soweit die Artikel 89 Absatz 3, 89*a* Absatz 3 und 97 dieses Gesetzes oder die A
 [^99-5]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^99-6]: Eingefügt durch Ziff. 15 des Anhangs zum VStrR, in Kraft seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
-### IV. Meldepflichten und Einholen von Stellungnahmen
+### IV. Meldepflichten, Einholen von Stellungnahmen und Melderechte
+
+[^part2-tit5-chap2-lvlIV-1]
+
+[^part2-tit5-chap2-lvlIV-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [BBl 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 #### Art. 100
 
@@ -2402,12 +2415,15 @@ Sie melden dem BAZL, sofern durch die Meldung das Strafverfahren nicht beeinträ
 
 <sup>3</sup> Das BAZL kann zur Überprüfung von Bewilligungen, Erlaubnissen und Ausweisen für im Sicherheitsbereich eines Flughafens tätige Personen Stellungnahmen des Nachrichtendienstes des Bundes einholen.
 
+<sup>4</sup> Hat eine Ärztin, ein Arzt, eine Psychologin oder ein Psychologe bei einem Besatzungsmitglied, einer Fluglotsin oder einem Fluglotsen wegen einer festgestellten körperlichen oder psychischen Krankheit, eines Gebrechens oder einer Sucht Zweifel an der Tauglichkeit zur Ausübung der entsprechenden Tätigkeiten, so kann sie oder er dem BAZL Meldung erstatten.[^100-7]
+
 [^100-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^100-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546). Dieser Art. ist nicht mehr in Kraft. Siehe heute: Art. 19 Abs. 2 Bst. a des Nachrichtendienstgesetzes vom 25. Sept. 2015 ([SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)).
 [^100-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^100-4]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 [^100-5]: [SR 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
 [^100-6]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^100-7]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [BBl 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 ### V. Massnahmen zur Verhütung von Verbrechen
 
@@ -2430,19 +2446,32 @@ Sie melden dem BAZL, sofern durch die Meldung das Strafverfahren nicht beeinträ
 [^100bis-3]: Fassung gemäss Anhang Ziff. 18 des Postorganisationsgesetzes vom 30. April 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465); [BBl 1996 III 1306](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
 [^100bis-4]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
 
-### VI. Feststellung der Angetrunkenheit u. dgl.
+### VI. Feststellung der Angetrunkenheit und ähnlicher Zustände
+
+[^part2-tit5-chap2-lvlVI-1]
+
+[^part2-tit5-chap2-lvlVI-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [BBl 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 #### Art. 100<sup>ter</sup>
 
 [^100ter-1]
 
-<sup>1</sup> Flugbesatzungsmitglieder, bei denen Anzeichen der Angetrunkenheit oder des Einflusses von Betäubungsmitteln oder psychotropen Substanzen vorliegen, sind geeigneten Untersuchungen zu unterziehen. Die Blutprobe kann angeordnet werden.
+<sup>1</sup> Besatzungsmitglieder, bei denen Anzeichen der Angetrunkenheit oder des Einflusses von Betäubungsmitteln oder psychotropen Substanzen vorliegen, sind geeigneten Untersuchungen zu unterziehen.[^100ter-2]
 
 <sup>2</sup> Zur Anordnung der erforderlichen Massnahmen sind die Flugplatzleiter und die Organe der örtlich zuständigen Polizei befugt. Handeln die Flugplatzleiter, so haben sie, sofern eine erste Untersuchung einen Verdacht nach Absatz l bestätigt, ohne Verzug die Polizei beizuziehen.
 
-<sup>3</sup> Die Vorschriften über das Vorgehen bei der Blutentnahme und über die anderen Massnahmen gegenüber den Strassenbenützern sind sinngemäss anwendbar.
+<sup>3</sup> Bei der Durchführung von Vorfeldinspektionen an Luftfahrzeugen und deren Besatzung kann das BAZL bei Besatzungsmitgliedern jederzeit einen Alkoholtest anordnen. Die Durchführung der erforderlichen Massnahmen erfolgt durch die zuständige kantonale Polizeistelle.[^100ter-3]
+
+<sup>4</sup> Die zuständigen Personen und Stellen nach den Absätzen 2 und 3 können eine Blutprobe anordnen.[^100ter-4]
+
+<sup>5</sup> Der Bundesrat regelt die Durchführung der Untersuchungen und Massnahmen nach den Absätzen 1, 3 und 4. Er berücksichtigt dabei die Bestimmungen der Europäischen Union zur Angetrunkenheit, die gemäss dem Abkommen vom 21. Juni 1999[^100ter-5] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr anwendbar sind. Ergänzend orientiert er sich an den Vorschriften über die Alkoholkontrolle und die anderen Massnahmen gegenüber den Strassenbenützern.[^100ter-6]
 
 [^100ter-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1971, in Kraft seit 1. Jan. 1974 ([AS 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [BBl 1971 I 266](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
+[^100ter-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [BBl 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
+[^100ter-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [BBl 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
+[^100ter-4]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [BBl 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
+[^100ter-5]: SR **0.748.127.192****.****68**
+[^100ter-6]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [BBl 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 ## Dritter Teil: Förderung der Luftfahrt
 
@@ -2800,7 +2829,7 @@ Datum des Inkrafttretens: 15. Juni 1950[^111-1]
 
 [^111-1]: BRB vom 5. Juni 1950.
 
-## Schlussbestimmungen der Änderung vom 17. Dezember 1971****
+## Schlussbestimmungen der Änderung vom 17. Dezember 1971
 
 [^u1-1]
 
@@ -2817,7 +2846,7 @@ IV–V[^u1-3]
 [^u1-2]: Dieses Gesetz ist am 1. Jan. 1974 in Kraft getreten, mit Ausnahme des Art. 34, der am 23. Nov. 1973 in Kraft getreten ist ([AS 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738)).
 [^u1-3]: Aufgehoben durch Ziff. II des BG vom 18. Juni 1993, mit Wirkung seit 1. Jan. 1995 ([AS 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [BBl 1992 I 607](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 
-## Schlussbestimmungen der Änderung vom 26. Juni 1998****
+## Schlussbestimmungen der Änderung vom 26. Juni 1998
 
 [^u2-1]
 
@@ -2827,7 +2856,7 @@ IV–V[^u1-3]
 
 <sup>2</sup> Rechte aus bestehenden Konzessionen bleiben erhalten, soweit sie zum Zeitpunkt des Inkrafttretens dieser Änderung tatsächlich genutzt wurden. Sie werden in Streckenkonzessionen überführt. Werden solche Rechte durch künftige staatsvertragliche Regelungen beeinträchtigt, so können daraus keine Entschädigungsforderungen gegenüber dem Bund abgeleitet werden. Unter dem Vorbehalt einer allfälligen Entschädigung können bestehende Konzessionsrechte entzogen oder beschränkt werden.
 
-## Schlussbestimmungen der Änderung vom 18. Juni 1999****
+## Schlussbestimmungen der Änderung vom 18. Juni 1999
 
 [^u3-1]
 
@@ -2837,7 +2866,7 @@ IV–V[^u1-3]
 
 <sup>2</sup> Auf hängige Beschwerden ist das alte Verfahrensrecht anwendbar.
 
-## Übergangsbestimmungen zur Änderung vom 1. Oktober 2010****
+## Übergangsbestimmungen zur Änderung vom 1. Oktober 2010
 
 [^u4-1]
 
