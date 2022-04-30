@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Vorlage zum Zahlungsrahmen Nationalstrassen 2024–2027, zum Ausbauschritt 2023 für die Nationalstrassen, zum Verpflichtungskredit und zur Anpassung des Bundesbeschlusses über das Nationalstrassennetz"
 document: Vernehmlassungsvorlage-4
 language: de

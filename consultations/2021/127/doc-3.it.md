@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Progetto relativo al limite di spesa 2024–2027, alla fase di potenziamento 2023, al credito d’impegno e all’adeguamento del decreto concernente la rete delle strade nazionali"
 document: Progetto posto in consultazione-2
 language: it

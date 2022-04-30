@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Projet relatif au plafond de dépenses pour les routes nationales sur la période 2024 à 2027, à l’étape d’aménagement 2023 des routes nationales, au crédit d’engagement et à l’adaptation de l’arrêté fédéral sur le réseau des routes nationales"
 document: Projet mis en consultation-3
 language: fr
