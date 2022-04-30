@@ -3,20 +3,19 @@ canton: AI
 number: "175.210"
 title: "Verordnung über die Grenzen der Bezirke, der Schul- und Kirchgemeinden sowie der Feuerschaugemeinde Appenzell"
 language: de
-version: 2022-01-01
-valid_until: 2022-04-30
-version_adopted: 2021-10-25
+version: 2022-05-01
+version_adopted: 2022-02-07
 adopted: 2007-10-22
 in_force: 2007-10-22
 url: "https://ai.clex.ch/app/de/texts_of_law/175.210"
-pdf: "https://ai.clex.ch/api/de/versions/1967/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2032/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Grenzen der Bezirke, der Schul- und Kirchgemeinden sowie der Feuerschaugemeinde Appenzell
 
-vom 22.10.2007 (Stand 01.01.2022)
+vom 22.10.2007 (Stand 01.05.2022)
 
 Der Grosse Rat des Kantons Appenzell I. Rh.,
 
