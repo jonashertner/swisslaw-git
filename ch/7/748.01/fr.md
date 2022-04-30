@@ -4,11 +4,11 @@ title: "Ordonnance du 14 novembre 1973 sur l'aviation (OSAv)"
 short: OSAv
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856"
 language: fr
-version: 2019-01-01
+version: 2022-05-01
 adopted: 1973-11-14
 in_force: 1974-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-1973-1856_1856_1856-20190101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-1973-1856_1856_1856-20220501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20220501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20190101/fr"
 
 (OSAv)**[^t-1]**
 
-du 14 novembre 1973 (Etat le 1<sup>er</sup> janvier 2019)
+du 14 novembre 1973 (Etat le 1<sup>er</sup> mai 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
 
@@ -50,7 +50,7 @@ arrête:
 
 <sup>1</sup> Sous l’aspect technique, les aéronefs sont classés par catégories selon l’annexe.[^2-1]
 
-<sup>2</sup> Sont considérés comme aéronefs d’Etat les aéronefs affectés au service de l’armée, de la douane ou de la police de la Confédération et des cantons, ou que le Conseil fédéral a expressément désignés comme tels.[^2-2]
+<sup>2</sup> Sont considérés comme aéronefs d’État les aéronefs affectés au service de l’armée, de la douane ou de la police de la Confédération et des cantons, ou que le Conseil fédéral a expressément désignés comme tels.[^2-2]
 
 [^2-1]: Introduit par le ch. I de l’O du 23 nov. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
 [^2-2]: Anciennement al. 1.
@@ -112,7 +112,7 @@ L’OFAC inscrit dans le registre matricule les avions, les hélicoptères et le
 
 <sup>2</sup> L’OFAC peut autoriser l’inscription dans le registre matricule d’un aéronef qui ne remplit pas les conditions requises en matière de propriété s’il doit être utilisé durant une période assez longue par une entreprise suisse de transports aériens commerciaux.[^3-2]
 
-<sup>3</sup> Les aéronefs d’Etat suisses peuvent être inscrits dans le registre matricule.
+<sup>3</sup> Les aéronefs d’État suisses peuvent être inscrits dans le registre matricule.
 
 <sup>4</sup> L’immatriculation peut être refusée lorsque l’aéronef ne répond manifestement pas aux exigences de navigabilité applicables en Suisse ou aux dispositions sur la protection de l’environnement.
 
@@ -155,7 +155,7 @@ Au sens de la présente ordonnance, le droit de disposer fondé sur des rapports
 
 <sup>2</sup>
 
-A la demande doivent être joints:
+À la demande doivent être joints:
 
 - a. les actes accréditant la propriété du requérant;
 - b. pour les sociétés commerciales et les sociétés coopératives, la preuve qu’elles remplissent les conditions de l’art. 4, let. d;
@@ -166,8 +166,8 @@ A la demande doivent être joints:
 
   pour un aéronef importé:
 
-  - 1\. la preuve qu’il n’est immatriculé ni dans l’Etat où il a été construit ni dans l’Etat où un prédécesseur du requérant avait son domicile;
-  - 2\. la preuve qu’il n’est pas inscrit dans le registre des aéronefs ou dans un registre correspondant du dernier Etat d’immatriculation; cette preuve peut être remplacée par la déclaration écrite de l’ayant droit inscrit dans le registre étranger des aéronefs, par laquelle il consent à l’immatriculation de l’aéronef dans le registre suisse;
+  - 1\. la preuve qu’il n’est immatriculé ni dans l’État où il a été construit ni dans l’État où un prédécesseur du requérant avait son domicile;
+  - 2\. la preuve qu’il n’est pas inscrit dans le registre des aéronefs ou dans un registre correspondant du dernier État d’immatriculation; cette preuve peut être remplacée par la déclaration écrite de l’ayant droit inscrit dans le registre étranger des aéronefs, par laquelle il consent à l’immatriculation de l’aéronef dans le registre suisse;
 
 - g. pour un aéronef importé qui a déjà été utilisé, la preuve qu’il a été entretenu réglementairement.
 
@@ -234,8 +234,8 @@ L’immatriculation d’un aéronef est radiée:
 <sup>3</sup> Sur demande, l’OFAC délivre une attestation de la radiation.
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 1990, en vigueur depuis le 1<sup>er</sup> déc. 1990 ([RO 1990 1719](https://fedlex.data.admin.ch/eli/oc/1990/1719_1719_1719)).
-[^11-2]: Nouvelle teneur selon le ch. 36 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^11-3]: [[RO 1989 2216](https://fedlex.data.admin.ch/eli/oc/1989/2216_2216_2216), [1993 2749](https://fedlex.data.admin.ch/eli/oc/1993/2749_2749_2749), [1995 5219](https://fedlex.data.admin.ch/eli/oc/1995/5219_5219_5219), [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)ch. II 53, [2003 1195](https://fedlex.data.admin.ch/eli/oc/2003/206), [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)ch. II 5. [RO 2007 5101](https://fedlex.data.admin.ch/eli/oc/2007/720)art. 52]. Voir actuellement l’O du 28 sept. 2007 sur les émoluments de l’Office fédéral de l’aviation civile ([RS 748.112.11](https://fedlex.data.admin.ch/eli/cc/2007/720)).
+[^11-2]: Nouvelle teneur selon l’annexe 4 ch. 36 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^11-3]: [[RO 1989 2216](https://fedlex.data.admin.ch/eli/oc/1989/2216_2216_2216); [1993 2749](https://fedlex.data.admin.ch/eli/oc/1993/2749_2749_2749); [1995 5219](https://fedlex.data.admin.ch/eli/oc/1995/5219_5219_5219); [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)ch. II 53; [2003 1195](https://fedlex.data.admin.ch/eli/oc/2003/206); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)ch. II 5. [RO 2007 5101](https://fedlex.data.admin.ch/eli/oc/2007/720)art. 52]. Voir actuellement l’O du 28 sept. 2007 sur les émoluments de l’Office fédéral de l’aviation civile ([RS 748.112.11](https://fedlex.data.admin.ch/eli/cc/2007/720)).
 
 ### 14 Marques de nationalité et d’immatriculation
 
@@ -306,7 +306,7 @@ Les certificats de navigabilité, les certificats de navigabilité restreints et
 
 Les certificats étrangers de bruit et les certificats étrangers d’émission de substances nocives peuvent être reconnus par l’OFAC s’ils ont été établis:
 
-- a. d’après des normes répondant au moins aux exigences minimales imposées en Suisse; ou
+- a. d’après des normes répondant au moins aux exigences minimales imposées en Suisse, ou
 - b. d’après les normes internationales qui sont obligatoires également pour la Suisse.[^17-4]
 
 <sup>3</sup> Est réservé l’examen complémentaire destiné à vérifier si l’aéronef est en état de navigabilité et s’il satisfait aux exigences en matière de limitation du bruit et de l’émission de substances nocives.[^17-5]
@@ -341,7 +341,7 @@ Un aéronef immatriculé est admis à la circulation:
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
 [^18-2]: Nouvelle teneur selon le ch. I de l’O du 5 mars 1984, en vigueur depuis le 1<sup>er</sup> avr. 1984 ([RO 1984 318](https://fedlex.data.admin.ch/eli/oc/1984/318_318_318)).
 [^18-3]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3607](https://fedlex.data.admin.ch/eli/oc/2008/469)).
-[^18-4]: Nouvelle teneur selon le ch. 36 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^18-4]: Nouvelle teneur selon l’annexe 4 ch. 36 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^18-5]: Abrogé par le ch. I de l’O du 23 nov. 1994, avec effet au 1<sup>er</sup> janv. 1995 ([RO 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
 [^18-6]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3607](https://fedlex.data.admin.ch/eli/oc/2008/469)).
 [^18-7]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3607](https://fedlex.data.admin.ch/eli/oc/2008/469)).
@@ -374,7 +374,7 @@ Le certificat de navigabilité, le certificat de navigabilité restreint et l’
 
 Le certificat de navigabilité peut en outre être retiré:
 
-- a. si la vérification périodique obligatoire de la navigabilité n’a pas été exécutée dans le délai imparti; ou
+- a. si la vérification périodique obligatoire de la navigabilité n’a pas été exécutée dans le délai imparti, ou
 - b. si les rapports de propriété ne sont pas clairement établis.[^20-5]
 
 <sup>3</sup> Est réservé le retrait selon l’art. 92 de la loi sur la navigation aérienne[^20-6].
@@ -588,7 +588,7 @@ Les membres d’équipage bénéficient de l’examen de santé gratuit visé à
 
 <sup>1</sup> Les femmes enceintes peuvent faire valoir leur droit à des mesures de protection particulières dès lors qu’elles ont avisé l’entreprise de leur état.
 
-<sup>2</sup> A la demande de l’entreprise, elles produisent un certificat médical.
+<sup>2</sup> À la demande de l’entreprise, elles produisent un certificat médical.
 
 [^34-1]: Nouvelle teneur selon le ch. I de l’O du 18 sept. 2009, en vigueur depuis le 15 oct. 2009 ([RO 2009 5027](https://fedlex.data.admin.ch/eli/oc/2009/581)).
 
@@ -633,19 +633,114 @@ Les textes suivants s’appliquent aux femmes enceintes et aux mères allaitante
 
 L’occupation des membres d’équipage ayant des responsabilités familiales est régie par:
 
-- a. l’art. 36, al. 1, de la loi du 13 mars 1964 sur le travail[^37-2], pour autant que l’exploitation des vols le permette; et
+- a. l’art. 36, al. 1, de la loi du 13 mars 1964 sur le travail[^37-2], pour autant que l’exploitation des vols le permette, et
 - b. l’art. 36, al. 3, de la loi du 13 mars 1964 sur le travail.
 
 [^37-1]: Nouvelle teneur selon le ch. I de l’O du 18 sept. 2009, en vigueur depuis le 15 oct. 2009 ([RO 2009 5027](https://fedlex.data.admin.ch/eli/oc/2009/581)).
 [^37-2]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
+### 35 Constatation de l’ébriété et d’états analogues****
+
+[^lvl3-lvl35-1]
+
+[^lvl3-lvl35-1]: Introduit par le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+
+### 351 Alcool****
+
+[^lvl3-lvl35-lvl351-1]
+
+[^lvl3-lvl35-lvl351-1]: Introduit par le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+
+#### Art. 38
+
+**État d’ébriété et incapacité d’assurer le service**[^38-1]
+
+Est réputé être en état d’ébriété et dans l’incapacité d’assurer le service un membre d’équipage qui présente un taux d’alcool:
+
+- a. dans l’haleine de plus de 0,1 milligramme par litre d’air expiré, ou
+- b. dans le sang de plus de 0,2 gramme pour mille.
+
+[^38-1]: Nouvelle teneur selon le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+
+#### Art. 39
+
+**Contrôles de l’alcoolémie en présence d’indices d’un état d’ébriété**[^39-1]
+
+Lorsqu’un membre de l’équipage présente des signes d’ébriété, un contrôle d’alcoolémie doit être effectué. Ce dernier est réglementé aux art. 40, al. 2 à 4, 41 et 42, al. 1 et 3.
+
+[^39-1]: Nouvelle teneur selon le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+
+#### Art. 40
+
+**Exécution de contrôles aléatoires de l’alcool dans l’air expiré**[^40-1]
+
+<sup>1</sup>
+
+L’exécution de contrôles aléatoires de l’alcool dans l’air expiré est réglementée:
+
+- a. par le règlement (UE) 2018/1042[^40-2];
+- b. à titre complémentaire par la présente ordonnance.
+
+<sup>2</sup> Le premier contrôle de l’alcool dans l’air expiré est réalisé au moyen d’un éthylotest.
+
+<sup>3</sup> Lorsque la valeur mesurée lors de ce premier contrôle dépasse la valeur limite fixée à l’art. 38, let. a, un second contrôle doit être réalisé au moyen d’un éthylomètre dans les 15 à 30 minutes après le premier contrôle. Dans l’attente du second contrôle, le membre d’équipage ne doit ni manger, ni boire, ni absorber quoi que ce soit.
+
+<sup>4</sup> Les éthylotests et éthylomètres doivent répondre aux exigences de l’ordonnance du 15 février 2006 sur les instruments de mesure (OIMes)[^40-3] et des dispositions d’exécution du Département fédéral de justice et police. L’exécution du contrôle de l’alcool dans l’air expiré est réglementée par analogie par l’ordonnance du 28 mars 2007 sur le contrôle de la circulation routière (OCCR)[^40-4] et par les dispositions d’exécution correspondantes de l’Office fédéral des routes (OFROU).
+
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+[^40-2]: Règlement (UE) 2018/1042 de la Commission du 23 juillet 2018 modifiant le règlement (UE) n<sup>o</sup> 965/2012 en ce qui concerne les exigences techniques et les procédures administratives applicables à l’introduction de programmes de soutien, l’évaluation psychologique des membres de l’équipage de conduite, ainsi que le dépistage systématique et aléatoire de substances psychotropes en vue de garantir l’aptitude médicale des membres de l’équipage de conduite et de l’équipage de cabine, et en ce qui concerne l’installation d’un système d’avertissement et d’alarme d’impact sur les avions à turbine neufs dont la masse maximale certifiée au décollage est inférieure ou égale à 5 700 kg et qui sont autorisés à transporter entre six et neuf passagers, dans la version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^40-3]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^40-4]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+
+#### Art. 41
+
+**Incapacité temporaire d’assurer le service**[^41-1]
+
+Lorsque la valeur mesurée lors du premier contrôle de l’alcool dans l’air expiré effectué à l’aide d’un éthylotest dépasse la valeur limite fixée à l’art. 38, ou lorsqu’un prélèvement de sang doit être ordonné en vertu de l’art. 42, al. 1, let a et c, le membre d’équipage est réputé temporairement inapte à assurer le service.
+
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+
+#### Art. 42
+
+**Ordre de procéder à une prise de sang et exécution**[^42-1]
+
+<sup>1</sup>
+
+Il y a lieu d’ordonner une prise de sang dans les cas suivants:
+
+- a. lorsque la valeur mesurée lors d’un premier contrôle d’alcool dans l’air expiré effectué à l’aide d’un éthylotest dépasse la valeur limite visée à l’art. 38 et ne peut pas être confirmée par un deuxième contrôle de l’alcool dans l’air expiré réalisé au moyen d’un éthylomètre;
+- b. lorsque le contrôle de l’alcool dans l’air expiré est refusé ou rendu impossible, ou si le membre de l’équipage s’y soustrait, ou
+- c. lorsque le contrôle de l’alcool dans l’air expiré est impossible à réaliser pour des raisons médicales.
+
+<sup>2</sup> Lorsque, dans le cas prévu à l’al. 1, let. c, un certificat médical est produit, il peut être renoncé à une prise de sang et le membre d’équipage peut être autorisé à reprendre son service.
+
+<sup>3</sup> Les exigences des art. 13, al. 3, et 14 de l’OCCR[^42-2] et les dispositions d’exécution correspondantes de l’OFROU s’appliquent par analogie à l’exécution de la prise de sang.
+
+[^42-1]: Nouvelle teneur selon le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+[^42-2]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+
+### 352 Narcotiques ou substances psychotropes****
+
+[^lvl3-lvl35-lvl352-1]
+
+[^lvl3-lvl35-lvl352-1]: Introduit par le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+
+#### Art. 43
+
+**Examens lorsque des indices donnent à penser qu’un membre d’équipage est sous l’influence de narcotiques ou de substances psychotropes**[^43-1]
+
+Lorsque des indices donnent à penser qu’un membre d’équipage est sous l’influence de narcotiques ou de substances psychotropes, les art. 12*a*, 12*b*, 13, al. 3, 14, 15 et 17, OCCR[^43-2] et les dispositions d’exécution correspondantes de l’OFROU s’appliquent par analogie à l’exécution des examens ordonnés en pareil cas.
+
+[^43-1]: Nouvelle teneur selon le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+[^43-2]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+
 ## 4 ...
 
-#### Art. 38 à 74
+#### Art. 44 à 74
 
-[^3874-1]
+[^4474-1]
 
-[^3874-1]: Anciennement avant l’art. 30. Abrogé par le ch. I de l’O du 23 nov. 1994, avec effet au 1<sup>er</sup> janv. 1995 ([RO 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
+[^4474-1]: Abrogés par le ch. I de l’O du 23 nov. 1994, avec effet au 1<sup>er</sup> janv. 1995 ([RO 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
 
 ## 5 Circulation, exploitation et entretien
 
@@ -855,8 +950,8 @@ L’OFAC examine la documentation et expertise plus particulièrement le terrain
 
 <sup>2</sup> Il fixe les conditions et obligations requises pour des raisons de sécurité et de bruit.
 
-[^89-1]: Introduit par le ch. 3 de l’annexe à l’O du 14 mai 2014 sur les atterrissages en campagne, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
-[^89-2]: Introduit par le ch. 3 de l’annexe à l’O du 14 mai 2014 sur les atterrissages en campagne, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
+[^89-1]: Introduit par l’annexe ch. 3 de l’O du 14 mai 2014 sur les atterrissages en campagne, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
+[^89-2]: Introduit par l’annexe ch. 3 de l’O du 14 mai 2014 sur les atterrissages en campagne, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
 
 #### Art. 90
 
@@ -909,7 +1004,7 @@ Les autorisations peuvent être retirées ou restreintes si les conditions dans 
 
 Les vols sont dits commerciaux:
 
-- a. lorsqu’ils donnent lieu à rémunération sous une forme quelconque, qui doit couvrir davantage que les coûts pour la location de l’aéronef et le carburant ainsi que pour les redevances d’aéroport et de navigation aérienne; et
+- a. lorsqu’ils donnent lieu à rémunération sous une forme quelconque, qui doit couvrir davantage que les coûts pour la location de l’aéronef et le carburant ainsi que pour les redevances d’aéroport et de navigation aérienne, et
 - b. lorsqu’un cercle indéterminé de personnes peut y avoir accès.
 
 <sup>2</sup> Les vols effectués par une entreprise titulaire d’une autorisation d’exploitation sont présumés commerciaux. L’appréciation des faits sous l’angle des législations fiscales ou douanières est réservée*.*
@@ -929,7 +1024,7 @@ Les vols sont dits commerciaux:
 L’OFAC peut retirer l’autorisation:
 
 - a. si les conditions régissant l’octroi ne sont plus remplies;
-- b. si des prescriptions sont violées de façon grave ou répétée; ou
+- b. si des prescriptions sont violées de façon grave ou répétée, ou
 - c. si des obligations ne sont pas remplies.
 
 ### 611 Entreprises sises en Suisse
@@ -946,7 +1041,7 @@ L’autorisation d’exploitation pour le transport commercial de personnes et d
 - b. lorsque l’entreprise est sous le contrôle effectif de citoyens suisses et majoritairement en mains suisses; est réservé le cas d’étrangers ou de sociétés étrangères assimilés à des citoyens ou à des sociétés suisses en vertu d’accords internationaux[^103-1];
 - c. lorsque de plus, s’agissant d’une société anonyme, plus de la moitié de son capital-actions consiste en actions nominatives et est la propriété de citoyens suisses ou de sociétés commerciales ou coopératives en mains suisses; est réservé le cas d’étrangers ou de sociétés étrangères assimilés à des citoyens ou à des sociétés suisses en vertu d’accords internationaux[^103-2];
 - d. lorsque l’entreprise a une licence de transporteur aérien qui règle en particulier l’organisation de l’exploitation et de l’entretien;
-- e. lorsque les aéronefs exploités par l’entreprise remplissent les exigences minimales fixées pour les services prévus et sont inscrits dans le registre matricule suisse; avec l’accord de la Direction générale des douanes, les aéronefs peuvent être inscrits dans le registre matricule d’un Etat avec lequel a été conclu un accord international prévoyant cette possibilité[^103-3];
+- e. lorsque les aéronefs exploités par l’entreprise remplissent les exigences minimales fixées pour les services prévus et sont inscrits dans le registre matricule suisse; avec l’accord de la Direction générale des douanes, les aéronefs peuvent être inscrits dans le registre matricule d’un État avec lequel a été conclu un accord international prévoyant cette possibilité[^103-3];
 - f. lorsque l’entreprise est l’exploitante d’un aéronef au moins, dont elle est propriétaire ou locataire en vertu d’un contrat de leasing lui garantissant la libre utilisation de l’aéronef pendant une période de six mois au minimum;
 - g. lorsque l’entreprise dispose de ses propres équipages, qui sont titulaires des licences requises;
 - h.[^103-4] ...
@@ -954,7 +1049,7 @@ L’autorisation d’exploitation pour le transport commercial de personnes et d
 
 <sup>2</sup> Dans le but d’assurer que la majorité du capital de la société est en mains suisses, une entreprise titulaire d’une autorisation d’exploitation, ou une société de participations qui détient directement ou indirectement une participation majoritaire dans une autre entreprise, doit disposer d’un droit d’emption sur les parts de capital cotées en bourse et acquises par des étrangers. Ce droit d’emption peut être exercé dans les dix jours après la déclaration de l’acquéreur à l’entreprise, lorsque la participation étrangère au capital social inscrite au registre des actions a atteint 40 % de l’ensemble du capital social, ou que ladite participation a dépassé la participation suisse inscrite à ce registre. Le prix de reprise correspond au cours de la bourse au moment de l’exercice du droit d’emption. L’entreprise publie régulièrement le taux de participation étrangère au capital de la société. Est réservé le cas d’étrangers ou de sociétés étrangères assimilés à des citoyens ou à des sociétés suisses en vertu d’accords internationaux[^103-5].
 
-<sup>3</sup> L’OFAC peut, pour de justes motifs et en accord avec la Direction générale des douanes, autoriser pour une durée déterminée l’emploi d’un aéronef inscrit dans le registre matricule d’un Etat avec lequel aucun accord international prévoyant cette possibilité n’a été conclu[^103-6].
+<sup>3</sup> L’OFAC peut, pour de justes motifs et en accord avec la Direction générale des douanes, autoriser pour une durée déterminée l’emploi d’un aéronef inscrit dans le registre matricule d’un État avec lequel aucun accord international prévoyant cette possibilité n’a été conclu[^103-6].
 
 <sup>4</sup> L’OFAC peut, pour de justes motifs, accorder des exceptions aux conditions prescrites à l’al. 1, let. a à c. Il peut autoriser le transfert de certaines activités opérationnelles à d’autres entreprises suisses ou étrangères. [^103-7]
 
@@ -1061,11 +1156,11 @@ L’autorisation d’exploitation n’est délivrée à un requérant que:
 
 L’autorisation d’exploitation pour le transport commercial de personnes et de marchandises (art. 29 LA) est délivrée à une entreprise sise à l’étranger:
 
-- a. lorsque l’entreprise est habilitée dans son Etat d’origine à assurer le transport commercial de personnes et de marchandises en trafic aérien international;
-- b. lorsque l’entreprise fait l’objet, par les autorités de son Etat d’origine, d’une surveillance adéquate quant aux aspects techniques et opérationnels;
+- a. lorsque l’entreprise est habilitée dans son État d’origine à assurer le transport commercial de personnes et de marchandises en trafic aérien international;
+- b. lorsque l’entreprise fait l’objet, par les autorités de son État d’origine, d’une surveillance adéquate quant aux aspects techniques et opérationnels;
 - c. lorsque l’octroi de l’autorisation ne porte pas atteinte à des intérêts suisses essentiels;
 - d. lorsque des entreprises suisses sont autorisées à transporter à des conditions équivalentes des personnes ou des marchandises depuis le territoire de l’entreprise;
-- e. lorsque la responsabilité civile envers les tiers au sol est couverte (art. 125); et
+- e. lorsque la responsabilité civile envers les tiers au sol est couverte (art. 125), et
 - f.[^108-1] si elle prouve qu’elle dispose, au titre de sa responsabilité civile, d’une couverture minimale identique à celle exigée à l’art. 106, al. 1, let. a à c.
 
 <sup>2</sup> Lorsqu’il n’existe aucun motif manifeste de supposer que les conditions prescrites à l’al. 1, let. a et b, ne sont pas remplies, on peut renoncer aux contrôles techniques et opérationnels de l’entreprise. De tels contrôles peuvent toutefois être ordonnés en tout temps.
@@ -1096,7 +1191,7 @@ Le titulaire d’une autorisation d’exploitation est tenu d’annoncer sans re
 
 Par trafic de lignes, on entend les vols affectés au transport commercial de personnes ou de marchandises:
 
-- a. lorsqu’ils sont effectués pendant une période minimale selon une fréquence et une régularité telles qu’ils font partie d’une série systématique évidente; et que
+- a. lorsqu’ils sont effectués pendant une période minimale selon une fréquence et une régularité telles qu’ils font partie d’une série systématique évidente, et que
 - b. pour le transport de personnes, des sièges vendus individuellement sont mis à la disposition du public.
 
 <sup>2</sup> Le DETEC édicte des prescriptions d’exécution; il tient compte de l’évolution du trafic aérien international.
@@ -1194,7 +1289,7 @@ Lorsque plusieurs demandes sont déposées pour la même ligne et que l’octroi
 Il peut en particulier autoriser une entreprise concessionnaire à faire effectuer ses vols par d’autres entreprises, suisses ou étrangères:
 
 - a. lorsque la sécurité de l’exploitation est garantie;
-- b. lorsque l’autorité chargée de la surveillance est clairement établie; et
+- b. lorsque l’autorité chargée de la surveillance est clairement établie, et
 - c. lorsque le public est informé du transfert.
 
 <sup>3</sup> L’OFAC peut autoriser la délégation de certaines tâches d’exploitation à d’autres entreprises suisses ou étrangères.
@@ -1243,9 +1338,9 @@ Les entreprises sises à l’étranger qui souhaitent exploiter des lignes aéri
 
 <sup>1</sup> L’octroi d’une concession à une entreprise étrangère est régi par l’accord international déterminant.
 
-<sup>2</sup> Lorsqu’une réglementation internationale fait défaut ou qu’elle ne prévoit pas certains droits de trafic, l’OFAC peut accorder une concession pour une ligne unique à une entreprise étrangère à la condition que celle-ci soit détentrice des droits de trafic nécessaires octroyés par son Etat d’origine.
+<sup>2</sup> Lorsqu’une réglementation internationale fait défaut ou qu’elle ne prévoit pas certains droits de trafic, l’OFAC peut accorder une concession pour une ligne unique à une entreprise étrangère à la condition que celle-ci soit détentrice des droits de trafic nécessaires octroyés par son État d’origine.
 
-<sup>3</sup> Lors de l’octroi de la concession, l’OFAC veille en particulier à ce que l’Etat d’origine de l’entreprise accorde la réciprocité.
+<sup>3</sup> Lors de l’octroi de la concession, l’OFAC veille en particulier à ce que l’État d’origine de l’entreprise accorde la réciprocité.
 
 #### Art. 121 et 122
 
@@ -1400,7 +1495,7 @@ Fedpol:
 
 #### Art. 122i
 
-**Equipement des gardes de sûreté**
+**Équipement des gardes de sûreté**
 
 <sup>1</sup> Fedpol fournit, en collaboration avec les entreprises de transport aérien, l’équipement nécessaire aux gardes de sûreté.
 
@@ -1414,7 +1509,7 @@ Fedpol:
 
 <sup>2</sup> Dans l’accomplissement de leurs tâches, ils sont subordonnés à fedpol.
 
-<sup>3</sup> A bord de l’aéronef, ils sont soumis à l’autorité du commandant de bord.
+<sup>3</sup> À bord de l’aéronef, ils sont soumis à l’autorité du commandant de bord.
 
 #### Art. 122k
 
@@ -1496,7 +1591,7 @@ Les entreprises de transport aérien peuvent être appelées à participer:
 
 <sup>2</sup>
 
-A ce titre, elles peuvent notamment être chargées de:
+À ce titre, elles peuvent notamment être chargées de:
 
 - a. donner des cours sur des thèmes spécifiques à l’aviation dans le cadre de la formation et du perfectionnement;
 - b. réserver, selon les instructions de fedpol, les sièges destinés aux gardes de sûreté;
@@ -1629,7 +1724,7 @@ Le contrat d’assurance doit stipuler:
 
 #### Art. 127
 
-**Etendue des prétentions couvertes**
+**Étendue des prétentions couvertes**
 
 <sup>1</sup> La garantie doit couvrir, jusqu’aux limites indiquées à l’art. 125, les prétentions des tiers au sol qui peuvent être élevées contre l’exploitant d’après les dispositions de la loi sur la navigation aérienne[^127-1].
 
@@ -1763,7 +1858,7 @@ La couverture prévue à l’art. 133 doit subsidiairement s’étendre aux pré
 
 <sup>3</sup> L’OFAC peut renoncer à la couverture pour les dommages causés par le bruit ou par une contamination radioactive.
 
-<sup>4</sup> Il peut renoncer à la couverture à l’égard des Etats qui sont exploitants d’aéronefs.
+<sup>4</sup> Il peut renoncer à la couverture à l’égard des États qui sont exploitants d’aéronefs.
 
 <sup>5</sup> Il peut exiger des intéressés qu’ils fournissent les informations nécessaires.
 
@@ -1886,7 +1981,7 @@ Sont abrogés:
 - a. le règlement d’exécution de la loi sur la navigation aérienne, du 5 juin 1950[^143-1];
 - b. l’ordonnance du 22 novembre 1966 concernant la prise de vues aériennes[^143-2].
 
-[^143-1]: [RO **1950** I 517, **1951** 970 art. 15, **1958** 720, **1960** 388 art. 37 al. 2 1314 art. 45, **1964** 321, **1966** 1556 art. 5 al. 2, **1967** 915 941 art. 33 ch. 1, **1968** 972 art. 8 al. 2 1389 1632, **1969** 1159]
+[^143-1]: [RO **1950** I 517; **1951** 970 art. 15; **1958** 720; **1960** 388 art. 37 al. 2, 1314 art. 45; **1964** 321; **1966** 1556 art. 5 al. 2; **1967** 915, 941 art. 33 ch. 1; **1968** 972 art. 8 al. 2, 1389, 1632; **1969** 1159]
 [^143-2]: [[RO 1966 1556](https://fedlex.data.admin.ch/eli/oc/1966/1506_1556_1544)]
 
 #### Art. 144
@@ -1899,6 +1994,6 @@ Annexe*[^t-2]*
 
 (art. 2, al. 1, et 23, al. 1)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20190101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20220501/fr/xml/image/image1.png)
 
 [^t-2]: Introduite par le ch. I de l’O du 23 nov. 1994 ([RO 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)). Nouvelle teneur selon le ch. II de l’O du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2175](https://fedlex.data.admin.ch/eli/oc/2015/399)).

@@ -4,11 +4,11 @@ title: Ordinanza del 14 novembre 1973 sulla navigazione aerea (ONA)
 short: ONA
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856"
 language: it
-version: 2019-01-01
+version: 2022-05-01
 adopted: 1973-11-14
 in_force: 1974-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20190101/it/xml/fedlex-data-admin-ch-eli-cc-1973-1856_1856_1856-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20220501/it/xml/fedlex-data-admin-ch-eli-cc-1973-1856_1856_1856-20220501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20220501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20190101/it"
 
 (ONA)
 
-del 14 novembre 1973 (Stato 1° gennaio 2019)
+del 14 novembre 1973 (Stato 1° maggio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -232,7 +232,7 @@ L’immatricolazione di un aeromobile è cancellata:
 
 <sup>3</sup> L’UFAC, se richiesto, attesta la cancellazione.
 
-[^11-1]: Nuovo testo giusta il n. 36 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^11-1]: Nuovo testo giusta l’all. 4 n. 36 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^11-2]: [[RU 1989 2216](https://fedlex.data.admin.ch/eli/oc/1989/2216_2216_2216), [1993 2749](https://fedlex.data.admin.ch/eli/oc/1993/2749_2749_2749), [1995 5219](https://fedlex.data.admin.ch/eli/oc/1995/5219_5219_5219), [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)n. II 53, [2003 1195](https://fedlex.data.admin.ch/eli/oc/2003/206), [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)n. II 5. [RU 2007 5101](https://fedlex.data.admin.ch/eli/oc/2007/720)art. 52]. Vedi ora l’O del 28 set. 2007 sugli emolumenti dell’Ufficio federale dell’aviazione civile ([RS 748.112.11](https://fedlex.data.admin.ch/eli/cc/2007/720)).
 
 ### 14 Contrassegni di nazionalità e d’immatricolazione
@@ -339,7 +339,7 @@ Un aeromobile immatricolato è ammesso alla circolazione:
 [^18-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 1994, in vigore dal 1° gen. 1995 ([RU 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
 [^18-2]: Nuovo testo giusta il n. I dell’O del 5 mar. 1984, in vigore dal 1° apr. 1985 ([RU 1984 318](https://fedlex.data.admin.ch/eli/oc/1984/318_318_318)).
 [^18-3]: Nuovo testo giusta il n. I dell’O del 18 giu. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3607](https://fedlex.data.admin.ch/eli/oc/2008/469)).
-[^18-4]: Nuovo testo giusta il n. 36 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^18-4]: Nuovo testo giusta l’all. 4 n. 36 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^18-5]: Abrogato dal n. I dell’O del 23 nov. 1994, con effetto dal 1° gen. 1995 ([RU 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
 [^18-6]: Nuovo testo giusta il n. I dell’O del 18 giu. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3607](https://fedlex.data.admin.ch/eli/oc/2008/469)).
 [^18-7]: Nuovo testo giusta il n. I dell’O del 18 giu. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3607](https://fedlex.data.admin.ch/eli/oc/2008/469)).
@@ -637,13 +637,108 @@ Per l’occupazione di membri dell’equipaggio con responsabilità familiari si
 [^37-1]: Nuovo testo giusta il n. I dell’O del 18 set. 2009, in vigore dal 15 ott. 2009 ([RU 2009 5027](https://fedlex.data.admin.ch/eli/oc/2009/581)).
 [^37-2]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
+### 35 Accertamento dell’ebrietà e di altri stati****
+
+[^lvl3-lvl35-1]
+
+[^lvl3-lvl35-1]: Introdotto dal n. I dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+
+### 351 Alcol****
+
+[^lvl3-lvl35-lvl351-1]
+
+[^lvl3-lvl35-lvl351-1]: Introdotto dal n. I dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+
+#### Art. 38
+
+**Ebrietà e inidoneità a prestare servizio**[^38-1]
+
+È considerato in stato di ebrietà e inidoneo a prestare servizio un membro dell’equipaggio che presenta la seguente concentrazione di alcol:
+
+- a. una concentrazione di alcol nell’alito superiore a 0,1 milligrammi per litro di aria espirata; oppure
+- b. una concentrazione di alcol nel sangue superiore a 0,2 per mille.
+
+[^38-1]: Nuovo testo giusta il n. I dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+
+#### Art. 39
+
+**Controlli del tasso alcolico in caso di indizi di ebrietà**[^39-1]
+
+Se vi sono indizi che un membro dell’equipaggio si trova in stato di ebrietà, si effettua un controllo del tasso alcolico. Questo si basa sugli articoli 40 capoversi 2–4, 41 e 42 capoversi 1 e 3.
+
+[^39-1]: Nuovo testo giusta il n. I dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+
+#### Art. 40
+
+**Svolgimento dell’accertamento etilometrico casuale**[^40-1]
+
+<sup>1</sup>
+
+Lo svolgimento dell’accertamento etilometrico casuale si basa:
+
+- a. sul regolamento (UE) 2018/1042[^40-2];
+- b. a titolo complementare sulle disposizioni della presente ordinanza.
+
+<sup>2</sup> Il primo accertamento etilometrico viene effettuato mediante un etilometro precursore.
+
+<sup>3</sup> Se il risultato del primo accertamento etilometrico supera il valore limite di cui all’articolo 38 lettera a, un secondo accertamento etilometrico deve essere effettuato mediante un etilometro probatorio non prima di 15 minuti e non oltre 30 minuti dal primo accertamento. Durante l’attesa, al membro dell’equipaggio è fatto divieto di mangiare, bere o altrimenti assumere altre sostanze.
+
+<sup>4</sup> Gli etilometri precursori e gli etilometri probatori devono soddisfare i requisiti dell’ordinanza del 15 febbraio 2006[^40-3] sugli strumenti di misurazione (OStrM) e delle relative disposizioni d’esecuzione del Dipartimento federale di giustizia e polizia. Lo svolgimento dell’accertamento etilometrico è retto per analogia dall’ordinanza del 28 marzo 2007[^40-4] sul controllo della circolazione stradale (OCCS) e sulle relative disposizioni d’esecuzione dell’Ufficio federale delle strade (USTRA).
+
+[^40-1]: Nuovo testo giusta il n. I dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+[^40-2]: Regolamento (UE) 2018/1042 della Commissione, del 23 luglio 2018, che modifica il regolamento (UE) n. 965/2012 per quanto riguarda i requisiti tecnici e le procedure amministrative concernenti l’introduzione di programmi di sostegno, della valutazione psicologica dell’equipaggio di condotta, nonché di test sistematici e casuali per il rilevamento di sostanze psicoattive al fine di garantire l’idoneità medica dei membri degli equipaggi di condotta e di cabina e per quanto riguarda l’equipaggiamento dei velivoli di nuova fabbricazione a turbina, aventi una massa massima certificata al decollo pari o inferiore a 5 700 kg e autorizzati a trasportare da sei a nove passeggeri, con un sistema di avviso e rappresentazione del terreno, nella versione vincolante per la Svizzera conformemente al numero 3 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^40-3]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^40-4]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+
+#### Art. 41
+
+**Inidoneità temporanea a prestare servizio**[^41-1]
+
+Se il risultato del primo accertamento etilometrico mediante l’etilometro precursore supera il valore limite di cui all’articolo 38 o se deve essere ordinato un prelievo del sangue secondo l’articolo 42 capoverso 1 lettere a e c, il membro dell’equipaggio è considerato temporaneamente inidoneo a prestare servizio.
+
+[^41-1]: Nuovo testo giusta il n. I dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+
+#### Art. 42
+
+**Ordine e svolgimento di un prelievo del sangue**[^42-1]
+
+<sup>1</sup>
+
+È ordinato un prelievo del sangue se:
+
+- a. il risultato di un primo accertamento etilometrico mediante un etilometro precursore è superiore al valore limite di cui all’articolo 38 e non può essere confermato con un secondo accertamento etilometrico mediante un etilometro probatorio;
+- b. l’accertamento etilometrico viene rifiutato o eluso oppure se il membro dell’equipaggio vi si sottrae; oppure
+- c. l’accertamento etilometrico non può essere effettuato per ragioni mediche.
+
+<sup>2</sup> In presenza del relativo certificato medico nei casi di cui al capoverso 1 lettera c, si può rinunciare al prelievo del sangue e il membro dell’equipaggio può riprendere servizio.
+
+<sup>3</sup> Il prelievo del sangue si basa sulle disposizioni degli articoli 13 capoverso 3 e 14 dell’OCCS[^42-2] e sulle relative disposizioni d’esecuzione dell’USTRA.
+
+[^42-1]: Nuovo testo giusta il n. I dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+[^42-2]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+
+### 352 Narcotici o sostanze psicotrope****
+
+[^lvl3-lvl35-lvl352-1]
+
+[^lvl3-lvl35-lvl352-1]: Introdotto dal n. I dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+
+#### Art. 43
+
+**Analisi in presenza di indizi di influsso di narcotici o sostanze psicotrope**[^43-1]
+
+Se vi sono indizi che un membro dell’equipaggio si trova sotto l’influsso di narcotici o sostanze psicotrope, lo svolgimento delle analisi ordinate si basa per analogia sugli articoli 12*a*, 12*b*, 13 capoverso 3, 14, 15 e 17 OCCS[^43-2] e sulle relative disposizioni d’esecuzione dell’USTRA.
+
+[^43-1]: Nuovo testo giusta il n. I dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+[^43-2]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+
 ## 4 ...
 
-#### Art. 38–74
+#### Art. 44–74
 
-[^3874-1]
+[^4474-1]
 
-[^3874-1]: Abrogati dal n. I dell’O del 23 nov. 1994, con effetto dal 1° gen. 1995 ([RU 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
+[^4474-1]: Abrogati dal n. I dell’O del 23 nov. 1994, con effetto dal 1° gen. 1995 ([RU 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
 
 ## 5 Circolazione, esercizio e manutenzione
 
@@ -854,8 +949,8 @@ L’UFAC esamina la documentazione e fa una perizia in modo particolare del terr
 
 <sup>2</sup> Esso stabilisce le condizioni e le direttive richieste per motivi di sicurezza e di rumore.
 
-[^89-1]: Introdotto dal n. 3 dell’all. all’O del 14 mag. 2014 sugli atterraggi esterni, in vigore dal 1° set. 2014 ([RU 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
-[^89-2]: Introdotto dal n. 3 dell’all. all’O del 14 mag. 2014 sugli atterraggi esterni, in vigore dal 1° set. 2014 ([RU 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
+[^89-1]: Introdotto dall’all. n. 3 dell’O del 14 mag. 2014 sugli atterraggi esterni, in vigore dal 1° set. 2014 ([RU 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
+[^89-2]: Introdotto dall’all. n. 3 dell’O del 14 mag. 2014 sugli atterraggi esterni, in vigore dal 1° set. 2014 ([RU 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
 
 #### Art. 90
 
@@ -1071,7 +1166,7 @@ L’autorizzazione d’esercizio per il trasporto commerciale di persone e di me
 
 <sup>3</sup> In casi debitamente motivati, si può rinunciare all’esigenza di cui nel capoverso 1 lettera d.
 
-[^108-1]: Nuovo testo giusta il n. II dell’all. all’O del 17 ago. 2005 sul trasporto aereo, in vigore dal 5 set. 2005 ([RU 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)).
+[^108-1]: Nuovo testo giusta l’all. n. II dell’O del 17 ago. 2005 sul trasporto aereo, in vigore dal 5 set. 2005 ([RU 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)).
 
 #### Art. 109
 
@@ -1305,7 +1400,7 @@ Le misure di sicurezza si basano:
 [^122c-2]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3843](https://fedlex.data.admin.ch/eli/oc/2018/609)).
 [^122c-3]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3843](https://fedlex.data.admin.ch/eli/oc/2018/609)).
 [^122c-4]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
-[^122c-5]: Introdotto dal n. 3 dell’all. all’O del 12 nov. 2008 sulla coercizione, in vigore dal 1° gen. 2009 ([RU 2008 5475](https://fedlex.data.admin.ch/eli/oc/2008/760)).
+[^122c-5]: Introdotto dall’all. n. 3 dell’O del 12 nov. 2008 sulla coercizione, in vigore dal 1° gen. 2009 ([RU 2008 5475](https://fedlex.data.admin.ch/eli/oc/2008/760)).
 [^122c-6]: Il Programma nazionale di sicurezza nell’aviazione è redatto in inglese. Non è pubblicato.
 
 #### Art. 122d
@@ -1599,7 +1694,7 @@ Per l’esecuzione di misure di facilitazione nella navigazione aerea (Facilitat
 <sup>3</sup> Per voli che costituiscono un pericolo particolare, segnatamente a causa della natura delle merci trasportate, l’UFAC può subordinare il rilascio dell’autorizzazione d’esercizio alla prova di una copertura supplementare della responsabilità civile verso terzi al suolo.[^125-4]
 
 [^125-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 1994, in vigore dal 1° apr. 1995 ([RU 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
-[^125-2]: Nuovo testo giusta il n. II dell’all. all’O del 17 ago. 2005 sul trasporto aereo, in vigore dal 5 set. 2005 ([RU 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)).
+[^125-2]: Nuovo testo giusta l’all. n. II dell’O del 17 ago. 2005 sul trasporto aereo, in vigore dal 5 set. 2005 ([RU 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)).
 [^125-3]: Nuovo testo giusta il n. I dell’O del 24 giu. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2175](https://fedlex.data.admin.ch/eli/oc/2015/399)).
 [^125-4]: Introdotto dal n. I dell’O del 28 ott. 1998, in vigore dal 15 nov. 1998 ([RU 1998 2570](https://fedlex.data.admin.ch/eli/oc/1998/2570_2570_2570)).
 
@@ -1658,7 +1753,7 @@ Il contratto d’assicurazione deve prevedere che per i terzi danneggiati sono d
 
 [^130-1]
 
-[^130-1]: Abrogato dal n. II dell’all. all’O del 17 ago. 2005 sul trasporto aereo, con effetto dal 5 set. 2005 ([RU 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)).
+[^130-1]: Abrogato dall’all. n. II dell’O del 17 ago. 2005 sul trasporto aereo, con effetto dal 5 set. 2005 ([RU 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)).
 
 ### 715 Assicuratore e terzi danneggiati
 
@@ -1678,7 +1773,7 @@ Il certificato di garanzia indica l’importo della garanzia, la durata della st
 
 [^lvl7-lvl71a-1]
 
-[^lvl7-lvl71a-1]: Introdotto dal n. II dell’all. all’O del 17 ago. 2005 sul trasporto aereo, in vigore dal 5 set. 2005 ([RU 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)).
+[^lvl7-lvl71a-1]: Introdotto dall’all. n. II dell’O del 17 ago. 2005 sul trasporto aereo, in vigore dal 5 set. 2005 ([RU 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)).
 
 #### Art. 132a
 
@@ -1790,7 +1885,7 @@ La garanzia prescritta dall’articolo 133 deve parimenti coprire le pretese di 
 <sup>2</sup> Per gli altri trasporti con aeromobili valgono le disposizioni del diritto svizzero delle obbligazioni[^137-3] sulla responsabilità.
 
 [^137-1]: [RS 748.411](https://fedlex.data.admin.ch/eli/cc/2005/556)
-[^137-2]: Nuovo testo giusta il n. II dell’all. all’O del 17 ago. 2005 sul trasporto aereo, in vigore dal 5 set. 2005 ([RU 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)).
+[^137-2]: Nuovo testo giusta l’all. n. II dell’O del 17 ago. 2005 sul trasporto aereo, in vigore dal 5 set. 2005 ([RU 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)).
 [^137-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ## 8 Informazioni aeronautiche
@@ -1884,7 +1979,7 @@ Sono abrogate:
 - a. l’ordinanza d’esecuzione della legge sulla navigazione aerea, del 5 giugno 1950[^143-1];
 - b. l’ordinanza del 22 novembre 1966[^143-2] concernente la presa di vedute aeree.
 
-[^143-1]: [RU **1950** I 505, **1951** 996 art. 15, **1958** 720, **1960** 374 art. 37 cpv. 2 1297 art. 45 1331, **1964** 321, **1966** 1544 art. 5 cpv. 2, **1967** 906 935 art. 33 n. 1, **1968** 888 art. 8 cpv. 2 1305, **1969** 1161, **1972** 1244]
+[^143-1]: [RU **1950** I 505; **1951** 996 art. 15; **1958** 720; **1960** 374 art. 37 cpv. 2, 1297 art. 45, 1331; **1964** 321; **1966** 1544 art. 5 cpv. 2; **1967** 906, 935 art. 33 n. 1; **1968** 888 art. 8 cpv. 2 1305; **1969** 1161; **1972** 1244]
 [^143-2]: [[RU 1966 1544](https://fedlex.data.admin.ch/eli/oc/1966/1506_1556_1544)]
 
 #### Art. 144
@@ -1897,6 +1992,6 @@ Allegato*[^t-1]*
 
 (art. 2 cpv. 1 e 23 cpv. 1)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20190101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20220501/it/xml/image/image1.png)
 
 [^t-1]: Introdotto dall’O del 23 nov. 1994 ([RU 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)). Nuovo testo giusta il n. II dell’O del 24 giu. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2175](https://fedlex.data.admin.ch/eli/oc/2015/399)).

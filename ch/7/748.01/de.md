@@ -4,11 +4,11 @@ title: "Verordnung vom 14. November 1973 über die Luftfahrt (Luftfahrtverordnun
 short: LFV
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856"
 language: de
-version: 2019-01-01
+version: 2022-05-01
 adopted: 1973-11-14
 in_force: 1974-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20190101/de/xml/fedlex-data-admin-ch-eli-cc-1973-1856_1856_1856-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20220501/de/xml/fedlex-data-admin-ch-eli-cc-1973-1856_1856_1856-20220501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20220501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20190101/de"
 
 (Luftfahrtverordnung, LFV)**[^t-1]**
 
-vom 14. November 1973 (Stand am 1. Januar 2019)
+vom 14. November 1973 (Stand am 1. Mai 2022)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. I der V vom 25. Aug. 1976, in Kraft seit 1. Jan. 1977 ([AS 1976 1921](https://fedlex.data.admin.ch/eli/oc/1976/1921_1921_1921)).
 
@@ -31,7 +31,7 @@ verordnet:
 
 ## 1 Luftfahrzeuge
 
-### 11 ...
+### 11 …
 
 #### Art. 1
 
@@ -111,7 +111,7 @@ Das BAZL trägt Flugzeuge, Hubschrauber, andere Drehflügler, Motorsegler, Segel
 
 <sup>4</sup> Die Eintragung kann verweigert werden, wenn das Luftfahrzeug offensichtlich den in der Schweiz anwendbaren Lufttüchtigkeitsanforderungen oder den Bestimmungen über den Umweltschutz nicht entspricht.
 
-<sup>5</sup> ...[^3-3]
+<sup>5</sup> …[^3-3]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 14. März 1994, in Kraft seit 1. April 1994 ([AS 1994 735](https://fedlex.data.admin.ch/eli/oc/1994/735_735_735)).
 [^3-2]: Fassung gemäss Ziff. I der V vom 29. Mai 1996, in Kraft seit 1. Juli 1996 ([AS 1996 1536](https://fedlex.data.admin.ch/eli/oc/1996/1536_1536_1536)).
@@ -197,7 +197,7 @@ Der Eintrag im Luftfahrzeugregister enthält mindestens folgende Angaben:
 
 <sup>1</sup> Das BAZL stellt dem Eigentümer des Luftfahrzeuges ein Zeugnis über den Eintrag aus.
 
-<sup>2</sup> ...[^9-1]
+<sup>2</sup> …[^9-1]
 
 [^9-1]: Aufgehoben durch Ziff. I der V vom 27. Jan. 1988, mit Wirkung seit 1. April 1988 ([AS 1988 534](https://fedlex.data.admin.ch/eli/oc/1988/534_534_534)).
 
@@ -328,13 +328,13 @@ Ein im Luftfahrzeugregister eingetragenes Luftfahrzeug wird zum Verkehr zugelass
 - c.[^18-3] die Haftpflichtansprüche von Dritten auf der Erde und von Reisenden im vorgeschriebenen Umfang sichergestellt sind;
 - d.[^18-4] bei einem aus dem Ausland eingeführten Luftfahrzeug nachgewiesen wird, dass eine Zollveranlagung durchgeführt wurde oder dass es vorübergehend zollbefreit ist.
 
-<sup>2</sup> ...[^18-5]
+<sup>2</sup> …[^18-5]
 
 <sup>3</sup> Die Zulassung zum Verkehr wird mit der Erteilung des Lufttüchtigkeitszeugnisses, des eingeschränkten Lufttüchtigkeitszeugnisses oder mit der Fluggenehmigung bescheinigt. In diesen Bescheinigungen oder in Anhängen dazu kann das BAZL Auflagen, Bedingungen und Beschränkungen für den Betrieb festlegen.[^18-6]
 
 <sup>4</sup> In besonderen Fällen, namentlich während des Zulassungsverfahrens, stellt das BAZL eine provisorische Fluggenehmigung aus. Die Haftpflichtansprüche von Dritten auf der Erde und von Reisenden müssen in jedem Fall sichergestellt sein.[^18-7]
 
-<sup>5</sup> ...[^18-8]
+<sup>5</sup> …[^18-8]
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 18. Juni 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3607](https://fedlex.data.admin.ch/eli/oc/2008/469)).
 [^18-2]: Fassung gemäss Ziff. I der V vom 5. März 1984, in Kraft seit 1. Apr. 1984 ([AS 1984 318](https://fedlex.data.admin.ch/eli/oc/1984/318_318_318)).
@@ -636,21 +636,116 @@ Für den Einsatz von Besatzungsmitgliedern mit Familienpflichten gelten:
 [^37-1]: Fassung gemäss Ziff. I der V vom 18. Sept. 2009, in Kraft seit 15. Okt. 2009 ([AS 2009 5027](https://fedlex.data.admin.ch/eli/oc/2009/581)).
 [^37-2]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
-## 4 ...
+### 35 Feststellung der Angetrunkenheit und anderer Zustände****
 
-#### Art. 38–74
+[^lvl3-lvl35-1]
 
-[^3874-1]
+[^lvl3-lvl35-1]: Eingefügt durch Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
 
-[^3874-1]: Ursprünglich: vor Art. 30. Aufgehoben durch Ziff. I der V vom 23. Nov. 1994, mit Wirkung seit 1. Jan. 1995 ([AS 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
+### 351 Alkohol****
+
+[^lvl3-lvl35-lvl351-1]
+
+[^lvl3-lvl35-lvl351-1]: Eingefügt durch Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+
+#### Art. 38
+
+**Angetrunkenheit und Dienstunfähigkeit**[^38-1]
+
+Als angetrunken und dienstunfähig gilt ein Besatzungsmitglied, das folgende Alkoholkonzentration aufweist:
+
+- a. eine Atemalkoholkonzentration von mehr als 0,1 mg Alkohol pro Liter Atemluft; oder
+- b. eine Blutalkoholkonzentration von mehr als 0,2 Gewichtspromille.
+
+[^38-1]: Fassung gemäss Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+
+#### Art. 39
+
+**Alkoholkontrollen bei Anzeichen der Angetrunkenheit**[^39-1]
+
+Bestehen bei einem Besatzungsmitglied Anzeichen für eine Angetrunkenheit, so ist eine Alkoholkontrolle durchzuführen. Diese richtet sich nach den Artikeln 40 Absätze 2–4, 41 und 42 Absätze 1 und 3.
+
+[^39-1]: Fassung gemäss Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+
+#### Art. 40
+
+**Durchführung der anlasslosen Atemalkoholprobe**[^40-1]
+
+<sup>1</sup>
+
+Die Durchführung der anlasslosen Atemalkoholprobe richtet sich:
+
+- a. nach der Verordnung (EU) 2018/1042[^40-2];
+- b. ergänzend nach der vorliegenden Verordnung.
+
+<sup>2</sup> Die erste Atemalkoholprobe wird mit einem Atemalkoholtestgerät durchgeführt.
+
+<sup>3</sup> Liegt das Resultat der ersten Atemalkoholprobe über dem Grenzwert nach Artikel 38 Buchstabe a, so ist frühestens 15 und spätestens 30 Minuten nach Beendigung der ersten Atemalkoholprobe eine zweite Probe mit einem Atemalkoholmessgerät durchzuführen. Dem Besatzungsmitglied ist es während der Wartezeit untersagt, zu essen, zu trinken oder sonst etwas zu sich zu nehmen.
+
+<sup>4</sup> Die Atemalkoholtest- und -messgeräte müssen die Anforderungen der Messmittelverordnung vom 15. Februar 2006[^40-3] (MessMV) und der entsprechenden Ausführungsvorschriften des Eidgenössischen Justiz- und Polizeidepartements erfüllen. Die Durchführung der Atemalkoholprobe richtet sich sinngemäss nach der Strassenverkehrskontrollverordnung vom 28. März 2007[^40-4] (SKV) und den entsprechenden Ausführungsvorschriften des Bundesamts für Strassen (ASTRA).
+
+[^40-1]: Fassung gemäss Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+[^40-2]: Verordnung (EU) 2018/1042 der Kommission vom 23. Juli 2018 zur Änderung der Verordnung (EU) Nr. 965/2012 in Bezug auf die technischen Anforderungen und Verwaltungsverfahren für die Einführung von Unterstützungsprogrammen, einer psychologischen Beurteilung der Flugbesatzung sowie von systematischen und stichprobenartigen Tests, bei denen die Flugbesatzung und Flugbegleiter zur Gewährleistung ihrer flugmedizinischen Tauglichkeit auf psychoaktive Substanzen getestet werden, sowie in Bezug auf die Ausrüstung neu gebauter turbinengetriebener Flugzeuge mit einer höchstzulässigen Startmasse von höchstens 5 700 kg und einer genehmigten Anzahl von sechs bis neun Fluggastsitzen mit einem Geländewarnsystem, in der für die Schweiz gemäss Ziffer 3 des Anhangs zum Luftverkehrsabkommen vom 21. Juni 1999 ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)) jeweils verbindlichen Fassung.
+[^40-3]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^40-4]: [SR 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+
+#### Art. 41
+
+**Vorläufige Dienstunfähigkeit**[^41-1]
+
+Liegt das Resultat der ersten Atemalkoholprobe mit dem Atemalkoholtestgerät über dem Grenzwert nach Artikel 38, oder muss gemäss Artikel 42 Absatz 1 Buchstaben a und c eine Blutprobe angeordnet werden, so gilt das Besatzungsmitglied als vorläufig dienstunfähig.
+
+[^41-1]: Fassung gemäss Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+
+#### Art. 42
+
+**Anordnung und Durchführung eine Blutprobe**[^42-1]
+
+<sup>1</sup>
+
+Eine Blutprobe ist anzuordnen, wenn:
+
+- a. eine erste Atemalkoholprobe mit einem Atemalkoholtestgerät ein Resultat über dem Grenzwert gemäss Artikel 38 ergibt und dieses nicht mittels einer zweiten Atemalkoholprobe mit einem Atemalkoholmessgerät bestätigt werden kann;
+- b. die Atemalkoholprobe verweigert oder vereitelt wird, oder das Besatzungsmitglied sich dieser entzieht; oder
+- c. aus medizinischen Gründen keine Atemalkoholprobe durchgeführt werden kann.
+
+<sup>2</sup> Liegt in Fällen von Absatz 1 Buchstabe c ein entsprechendes ärztliches Attest vor, kann von einer Blutprobe abgesehen und das Besatzungsmitglied in den Dienst entlassen werden.
+
+<sup>3</sup> Die Durchführung der Blutprobe richtet sich sinngemäss nach den Vorgaben von Artikel 13 Absatz 3 und Artikel 14 der SKV[^42-2] und den entsprechenden Ausführungsvorschriften des ASTRA.
+
+[^42-1]: Fassung gemäss Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+[^42-2]: [SR 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+
+## 352 Betäubungsmittel oder psychotrope Substanzen****
+
+[^lvl4-1]
+
+[^lvl4-1]: Eingefügt durch Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+
+#### Art. 43
+
+**Untersuchungen bei Anzeichen des Einflusses von Betäubungs-mitteln oder psychotropen Substanzen**[^43-1]
+
+Bestehen Anzeichen, dass ein Besatzungsmitglied unter dem Einfluss von Betäubungsmitteln oder psychotropen Substanzen steht, so richtet sich die Durchführung der angeordneten Untersuchungen sinngemäss nach den Artikeln 12*a*, 12*b*, 13 Absatz 3, 14, 15 und 17 der SKV[^43-2] und den entsprechenden Ausführungsvorschriften des ASTRA.
+
+[^43-1]: Fassung gemäss Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+[^43-2]: [SR 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+
+## 4 …
+
+#### Art. 44–74
+
+[^4474-1]
+
+[^4474-1]: Aufgehoben durch Ziff. I der V vom 23. Nov. 1994, mit Wirkung seit 1. Jan. 1995 ([AS 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
 
 ## 5 Verkehr, Betrieb und Unterhalt
 
 ### 51**** Verkehrs- und Betriebsregeln
 
-[^lvl5-lvl51-1]
+[^lvl6-lvl61-1]
 
-[^lvl5-lvl51-1]: Fassung gemäss Ziff. I 1 der V vom 4. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
+[^lvl6-lvl61-1]: Fassung gemäss Ziff. I 1 der V vom 4. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 
 #### Art. 75
 
@@ -670,9 +765,9 @@ Das UVEK erlässt Verkehrsregeln für die Benutzung des schweizerischen Luftraum
 
 ### 52 Meldesystem für Ereignisse in der Luftfahrt****
 
-[^lvl5-lvl52-1]
+[^lvl6-lvl62-1]
 
-[^lvl5-lvl52-1]: Urspünglich: vor Art. 78. Fassung gemäss Ziff. I 1 der V vom 4. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
+[^lvl6-lvl62-1]: Urspünglich: vor Art. 78. Fassung gemäss Ziff. I 1 der V vom 4. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 
 #### Art. 77
 
@@ -732,7 +827,7 @@ Das UVEK ist die nach Artikel 16 Absatz 12 der Verordnung (EU) Nr. 376/2014[^77e
 
 [^78-1]: Aufgehoben durch Ziff. I der V vom 9. März 2007, mit Wirkung seit 1. April 2007 (AS **2007** 917).Aufgehoben durch Ziff. I der V vom 27. Jan. 1988 (AS **1988** 534).
 
-### 53 ...
+### 53 …
 
 #### Art. 79
 
@@ -762,7 +857,7 @@ Der Abwurf von Gegenständen aus Luftfahrzeugen während des Fluges ist unter Vo
 
 <sup>2</sup> Die Hoheits- und Eintragungszeichen müssen in jedem Fall deutlich erkennbar bleiben.
 
-<sup>3</sup> ...[^82-2]
+<sup>3</sup> …[^82-2]
 
 [^82-1]: Fassung gemäss Ziff. I der V vom 27. Jan. 1988, in Kraft seit 1. April 1988 ([AS 1988 534](https://fedlex.data.admin.ch/eli/oc/1988/534_534_534)).
 [^82-2]: Aufgehoben durch Ziff. I der V vom 27. Jan. 1988, mit Wirkung seit 1. April 1988 ([AS 1988 534](https://fedlex.data.admin.ch/eli/oc/1988/534_534_534)).
@@ -800,7 +895,7 @@ Keiner Bewilligung bedürfen öffentliche Flugveranstaltungen:
 - a. auf Flugplätzen, wenn lediglich Passagierflüge und fliegerische Wettbewerbe unter den Mitgliedern einer ortsansässigen Organisation unter Einschluss einzelner Gäste, vorgesehen sind;
 - b.[^86-2] ausserhalb von Flugplätzen, wenn höchstens zwanzig Freiballone beteiligt sind;
 - c. ausserhalb von Flugplätzen, wenn nicht mehr als zwei Hubschrauber beteiligt sind, unter Vorbehalt der Zustimmung durch die Gemeindebehörden:
-- d.[^86-3] ...
+- d.[^86-3] …
 
 [^86-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
 [^86-2]: Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3843](https://fedlex.data.admin.ch/eli/oc/2018/609)).
@@ -859,7 +954,9 @@ Das BAZL prüft die Unterlagen und begutachtet insbesondere das für die Benütz
 
 **Leitung**
 
-<sup>1</sup> Dem verantwortlichen Leiter der Veranstaltung obliegt, neben der Leitung des Flugbetriebes, insbesondere,
+<sup>1</sup>
+
+Dem verantwortlichen Leiter der Veranstaltung obliegt, neben der Leitung des Flugbetriebes, insbesondere:
 
 - a. die Ausweise des teilnehmenden Flugpersonals und die Zeugnisse der verwendeten Luftfahrzeuge zu prüfen;
 - b. das für die Regelung des Flugdienstes verantwortliche Personal über die Flugdienstordnung und die getroffenen Sicherheitsmassnahmen zu unterrichten;
@@ -874,7 +971,7 @@ Das BAZL prüft die Unterlagen und begutachtet insbesondere das für die Benütz
 
 Das BAZL kann die Veranstaltung durch einen Sachverständigen überwachen lassen. Dessen Aufgaben werden von Fall zu Fall festgelegt.
 
-### 59 ...
+### 59 …
 
 #### Art. 92−98
 
@@ -890,9 +987,9 @@ Bewilligungen können zurückgezogen oder eingeschränkt werden, wenn die bei de
 
 ## 6**** Gewerbsmässige Luftfahrt
 
-[^lvl6-1]
+[^lvl6a-1]
 
-[^lvl6-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 1998, in Kraft seit 15. Nov. 1998 ([AS 1998 2570](https://fedlex.data.admin.ch/eli/oc/1998/2570_2570_2570)).
+[^lvl6a-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 1998, in Kraft seit 15. Nov. 1998 ([AS 1998 2570](https://fedlex.data.admin.ch/eli/oc/1998/2570_2570_2570)).
 
 ### 61 Betriebsbewilligung
 
@@ -944,7 +1041,7 @@ Einem Unternehmen mit Sitz in der Schweiz wird eine Betriebsbewilligung für die
 - e. die Luftfahrzeuge, die das Unternehmen betreibt, die Mindestanforderungen für die vorgesehenen Dienste erfüllen und im schweizerischen Luftfahrzeugregister eingetragen sind; im Einvernehmen mit der Oberzolldirektion können die Luftfahrzeuge im Luftfahrzeugregister eines Staates eingetragen sein, mit dem diese Möglichkeit in einer zwischenstaatlichen Vereinbarung[^103-3] vorgesehen wurde;
 - f. das Unternehmen Halter von mindestens einem Luftfahrzeug ist, das es als Eigentümer oder auf Grund eines Leasingvertrages betreibt, der dem Unternehmen die freie Benützung des Luftfahrzeugs während mindestens sechs Monaten garantiert;
 - g. dem Unternehmen eigene Flugbesatzungen mit den erforderlichen Ausweisen zur Verfügung stehen;
-- h.[^103-4] ...;
+- h.[^103-4] …;
 - i. das Unternehmen glaubhaft machen kann, dass es seinen Verpflichtungen während eines Zeitraums von 24 Monaten nach Aufnahme der Tätigkeit jederzeit nachkommen kann und dass es für die fixen und variablen Kosten gemäss seinem Wirtschaftsplan während drei Monaten nach Aufnahme der Tätigkeit ohne Berücksichtigung von Betriebseinnahmen aufkommen kann; die Festlegung der Verpflichtungen und die Ermittlung der Kosten haben von realistischen Annahmen auszugehen.
 
 <sup>2</sup> Ein Unternehmen, das über eine Betriebsbewilligung verfügt, oder eine Beteiligungsgesellschaft, die direkt oder indirekt eine Mehrheitsbeteiligung an einem Unternehmen hält, hat zur Sicherung einer schweizerischen Mehrheit an seinem Gesellschaftskapital ein Kaufrecht an börsenkotierten Kapitalanteilen, die von Ausländern erworben worden sind. Das Kaufrecht darf bis zehn Tage nach Anmeldung des Erwerbs beim Unternehmer ausgeübt werden, wenn der im Aktienregister eingetragene ausländische Anteil am Gesellschaftskapital 40 Prozent des gesamten Gesellschaftskapitals erreicht hat oder wenn der im Aktienregister eingetragene ausländische Anteil am Gesellschaftskapital den eingetragenen schweizerischen Anteil überstiegen hat. Der Übernahmepreis entspricht dem Börsenkurs im Zeitpunkt der Kaufrechtsausübung. Das Unternehmen veröffentlicht regelmässig den ausländischen Anteil am Gesellschaftskapital. Vorbehalten bleibt der Fall, in dem Ausländer oder ausländische Gesellschaften auf Grund zwischenstaatlicher Vereinbarungen[^103-5] Schweizer Bürgern oder schweizerischen Gesellschaften gleichgestellt sind.
@@ -1040,7 +1137,7 @@ Eine Betriebsbewilligung wird einem Gesuchsteller nur erteilt, wenn er:
 
 <sup>1</sup> Unternehmen mit einer Betriebsbewilligung haben dem BAZL auf Verlangen jederzeit Einblick in ihre Betriebsführung und Geschäftsunterlagen zu gewähren und die für die Erstellung der Luftverkehrsstatistik erforderlichen Angaben zu liefern.
 
-<sup>2</sup> ...[^107-1]
+<sup>2</sup> …[^107-1]
 
 <sup>3</sup> Beabsichtigen Unternehmen, Kontinente oder Gebiete, die sie bisher nicht angeflogen haben, zu bedienen, so melden sie dem BAZL im Voraus ihre Pläne. Zudem melden sie ihm im Voraus alle beabsichtigten Zusammenschlüsse oder Übernahmen sowie innert 14 Tagen jede Änderung des Eigentums an Einzelbeteiligungen, die zehn Prozent oder mehr des gesamten Beteiligungskapitals des Unternehmens oder seiner Mutter- oder Dachgesellschaft ausmachen.
 
@@ -1242,13 +1339,13 @@ Unternehmen mit Sitz im Ausland, die Luftverkehrslinien betreiben wollen, unterb
 
 #### Art. 121–122
 
-...
+…
 
 ## 6*a***** Sicherheitsmassnahmen
 
-[^lvl6a-1]
+[^lvl6b-1]
 
-[^lvl6a-1]: Eingefügt durch Ziff. I der V vom 27. Jan. 1988 ([AS 1988 534](https://fedlex.data.admin.ch/eli/oc/1988/534_534_534)). Fassung gemäss Ziff. I der V vom 4. Juli 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3645](https://fedlex.data.admin.ch/eli/oc/2007/454)).
+[^lvl6b-1]: Eingefügt durch Ziff. I der V vom 27. Jan. 1988 ([AS 1988 534](https://fedlex.data.admin.ch/eli/oc/1988/534_534_534)). Fassung gemäss Ziff. I der V vom 4. Juli 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3645](https://fedlex.data.admin.ch/eli/oc/2007/454)).
 
 ### 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -1332,7 +1429,7 @@ Das UVEK erlässt Vorschriften über:
 
 <sup>2</sup> Die Sicherheitsbeauftragten können auch zu Arbeiten am Boden auf ausländischen Flugplätzen eingesetzt werden.
 
-<sup>3</sup> und <sup>4</sup> ...[^122e-1]
+<sup>3</sup> und <sup>4</sup> …[^122e-1]
 
 [^122e-1]: Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 5625](https://fedlex.data.admin.ch/eli/oc/2017/606)).
 
@@ -1353,7 +1450,7 @@ Die Sicherheitsbeauftragten haben, soweit das zwingend anwendbare ausländische 
   - 2\. zuhanden der zuständigen ausländischen Stellen mögliche Gefährder bezeichnen,
   - 3\. die ausländischen Stellen bei deren Aufgaben unterstützen.
 
-- c.[^122f-3] ...
+- c.[^122f-3] …
 
 <sup>2</sup> Fedpol[^122f-4] erstellt in Zusammenarbeit mit dem BAZL Richtlinien über die Aufgaben der Sicherheitsbeauftragten.
 
@@ -1530,9 +1627,9 @@ Die Verantwortlichkeit des Bundes für Schäden, die ein Sicherheitsbeauftragter
 
 ## 6*b***** Erleichterungen in der Luftfahrt
 
-[^lvl6b-1]
+[^lvl7-1]
 
-[^lvl6b-1]: Eingefügt durch Ziff. I der V vom 28. Okt. 1998 ([AS 1998 2570](https://fedlex.data.admin.ch/eli/oc/1998/2570_2570_2570)). Fassung gemäss Ziff. I der V vom 4. Juli 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3645](https://fedlex.data.admin.ch/eli/oc/2007/454)).
+[^lvl7-1]: Eingefügt durch Ziff. I der V vom 28. Okt. 1998 ([AS 1998 2570](https://fedlex.data.admin.ch/eli/oc/1998/2570_2570_2570)). Fassung gemäss Ziff. I der V vom 4. Juli 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3645](https://fedlex.data.admin.ch/eli/oc/2007/454)).
 
 #### Art. 122p
 
@@ -1670,9 +1767,9 @@ Die Bescheinigung über die Sicherstellung gibt Auskunft über
 
 ### 71*a***** Haftpflicht des Luftfahrzeughalters gegenüber Reisenden
 
-[^lvl7-lvl71a-1]
+[^lvl8-lvl71a-1]
 
-[^lvl7-lvl71a-1]: Eingefügt durch Anhang Ziff. II der V vom 17. Aug. 2005 über den Lufttransport, in Kraft seit 5. Sept. 2005 ([AS 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)).
+[^lvl8-lvl71a-1]: Eingefügt durch Anhang Ziff. II der V vom 17. Aug. 2005 über den Lufttransport, in Kraft seit 5. Sept. 2005 ([AS 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)).
 
 #### Art. 132a
 
@@ -1739,9 +1836,9 @@ Die Versicherung nach Artikel 133 muss subsidiär die Haftpflichtansprüche gege
 
 ### 731 Sicherstellungs- und Nachweispflicht****
 
-[^lvl7-lvl73-lvl731-1]
+[^lvl8-lvl73-lvl731-1]
 
-[^lvl7-lvl73-lvl731-1]: Fassung gemäss Ziff. I der V vom 27. Jan. 1988; in Kraft seit 1. April 1988 ([AS 1988 534](https://fedlex.data.admin.ch/eli/oc/1988/534_534_534)).
+[^lvl8-lvl73-lvl731-1]: Fassung gemäss Ziff. I der V vom 27. Jan. 1988; in Kraft seit 1. April 1988 ([AS 1988 534](https://fedlex.data.admin.ch/eli/oc/1988/534_534_534)).
 
 #### Art. 135
 
@@ -1761,9 +1858,9 @@ Die Versicherung nach Artikel 133 muss subsidiär die Haftpflichtansprüche gege
 
 ### 732 Entscheid****
 
-[^lvl7-lvl73-lvl732-1]
+[^lvl8-lvl73-lvl732-1]
 
-[^lvl7-lvl73-lvl732-1]: Fassung gemäss Ziff. I der V vom 27. Jan. 1988; in Kraft seit 1. April 1988 ([AS 1988 534](https://fedlex.data.admin.ch/eli/oc/1988/534_534_534)).
+[^lvl8-lvl73-lvl732-1]: Fassung gemäss Ziff. I der V vom 27. Jan. 1988; in Kraft seit 1. April 1988 ([AS 1988 534](https://fedlex.data.admin.ch/eli/oc/1988/534_534_534)).
 
 #### Art. 136
 
@@ -1798,9 +1895,9 @@ Das BAZL veröffentlicht folgende Luftfahrtinformationen:
 
 ## 8*a***** Internationale technische Vorschriften
 
-[^lvl8a-1]
+[^lvl9-1]
 
-[^lvl8a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
+[^lvl9-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
 
 #### Art. 138a
 
@@ -1843,9 +1940,9 @@ Für die Amtshandlungen der Aufsichtsbehörden werden die in der Gebührenordnun
 
 ## 9*a***** Strafbestimmungen
 
-[^lvl9a-1]
+[^lvl10-1]
 
-[^lvl9a-1]: Eingefügt durch Ziff. I 1 der V vom 4. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
+[^lvl10-1]: Eingefügt durch Ziff. I 1 der V vom 4. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 
 #### Art. 141a
 
@@ -1876,7 +1973,7 @@ Es werden aufgehoben:
 - a. die Vollziehungsverordnung vom 5. Juni 1950[^143-1] zum Luftfahrtgesetz;
 - b. die Verordnung vom 22. November 1966[^143-2] über photographische Aufnahmen aus der Luft.
 
-[^143-1]: [AS **1950** I 496, **1951** 968 Art. 15, **1958** 690, **1960** 360 Art. 37 Abs. 2 1257 Art. 45, **1964** 329, **1966** 1506 Art. 5 Abs. 2, **1967** 873 901 Art. 33 Ziff. 1, **1968** 931 Art. 8 Abs. 2 1341, **1969** 1141]
+[^143-1]: [AS **1950** I 496; **1951** 968 Art. 15; **1958** 690; **1960** 360 Art. 37 Abs. 2, 1257 Art. 45; **1964** 329; **1966** 1506 Art. 5 Abs. 2; **1967** 873, 901 Art. 33 Ziff. 1; **1968** 931 Art. 8 Abs. 2, 1341; **1969** 1141]
 [^143-2]: [[AS 1966 1506](https://fedlex.data.admin.ch/eli/oc/1966/1506_1556_1544)]
 
 #### Art. 144
@@ -1889,6 +1986,6 @@ Anhang*[^t-2]*
 
 (Art. 2 Abs. 1 und 23 Abs. 1)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20190101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20220501/de/xml/image/image1.png)
 
 [^t-2]: Eingefügt durch Ziff. I der V vom 23. Nov. 1994 ([AS 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)). Fassung gemäss Ziff. II der V vom 24. Juni 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2175](https://fedlex.data.admin.ch/eli/oc/2015/399)).
