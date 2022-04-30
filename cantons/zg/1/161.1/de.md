@@ -4,13 +4,13 @@ number: "161.1"
 title: Gesetz über die Organisation der Zivil- und Strafrechtspflege
 short: "Gerichtsorganisationsgesetz, GOG"
 language: de
-version: 2022-04-09
-valid_until: 2022-04-30
+version: 2022-05-01
+valid_until: 2022-12-31
 version_adopted: 2022-01-27
 adopted: 2010-08-26
 in_force: 2011-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/161.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2331/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2334/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/2331/pdf_file"
 
 (Gerichtsorganisationsgesetz, GOG)
 
-Vom 26. August 2010 (Stand 9. April 2022)
+Vom 26. August 2010 (Stand 1. Mai 2022)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf Art. 14 und 445 der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO) vom 5. Oktober 2007[^ingress-1], Art. 4, 5, 54 Abs. 2, 68 Abs. 2 lit. d, 129, 142 Abs. 3 und 356 der Schweizerischen Zivilprozessordnung (Zivilprozessordnung, ZPO) vom 19. Dezember 2008[^ingress-2], Art. 6 Abs. 2, 7 Abs. 3 und 8 der Schweizerischen Jugendstrafprozessordnung (Jugendstrafprozessordnung, JStPO) vom 20. März 2009[^ingress-3], Art. 91 Abs. 3 des Schweizerischen Strafgesetzbuchs (StGB) vom 21. Dezember 1937[^ingress-4], Art. 13 des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs (SchKG)[^ingress-5] sowie gestützt auf § 41 Abs. 1 Bst. b und l, § 54 Abs. 3, § 56, § 58 und § 63 Abs. 1 der Kantonsverfassung (KV)[^ingress-6],
+gestützt auf Art. 14 und Art. 445 der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO) vom 5. Oktober 2007[^ingress-1], auf Art. 4, Art. 5, Art. 54 Abs. 2, Art. 68 Abs. 2 lit. d, Art. 129, Art. 142 Abs. 3 und Art. 356 der Schweizerischen Zivilprozessordnung (Zivilprozessordnung, ZPO) vom 19. Dezember 2008[^ingress-2], auf Art. 6 Abs. 2, Art. 7 Abs. 3 und Art. 8 der Schweizerischen Jugendstrafprozessordnung (Jugendstrafprozessordnung, JStPO) vom 20. März 2009[^ingress-3], auf Art. 91 Abs. 3 des Schweizerischen Strafgesetzbuchs (StGB) vom 21. Dezember 1937[^ingress-4], auf Art. 13 des Bundesgesetzes über Schuldbetreibung und Konkurs (SchKG) vom 11. April 1889[^ingress-5], auf Art. 2 Abs. 1 des Ordnungsbussengesetzes (OBG) vom 18. März 2016[^ingress-6] sowie auf § 41 Abs. 1 Bst. b und l, § 54 Abs. 3, § 56, § 58 und § 63 Abs. 1 der Kantonsverfassung (KV)[^ingress-7],
 
 beschliesst:
 
@@ -32,7 +32,8 @@ beschliesst:
 [^ingress-3]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de)
 [^ingress-4]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 [^ingress-5]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
-[^ingress-6]: BGS [111.1](https://bgs.zg.ch/data/111.1/de)
+[^ingress-6]: SR [314.1](https://db.clex.ch/link/Bund/314.1/de)
+[^ingress-7]: BGS [111.1](https://bgs.zg.ch/data/111.1/de)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -1368,36 +1369,43 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Zuständigkeit für das Erheben strafrechtlicher Ordnungsbussen richtet sich nach dem Polizeigesetz[^104-1] und nach dem Übertretungsstrafgesetz[^104-2].
+<sup>1</sup> Die Zuständigkeit für das Erheben strafrechtlicher Ordnungsbussen richtet sich nach dem Ordnungsbussengesetz[^104-1], diesem Gesetz[^104-2], dem Polizeigesetz[^104-3] und dem Übertretungsstrafgesetz[^104-4].
 
 - a) …
 - b) …
 
-<sup>2</sup> Die Ordnungsbussen für disziplinwidriges Verhalten im Verfahren gemäss ZPO[^104-3], StPO[^104-4] und JStPO[^104-5] werden vom zuständigen Gericht oder von der Staatsanwaltschaft erhoben.
+<sup>2</sup> Die Ordnungsbussen für disziplinwidriges Verhalten im Verfahren gemäss ZPO[^104-5], StPO[^104-6] und JStPO[^104-7] werden vom zuständigen Gericht oder von der Staatsanwaltschaft erhoben.
 
-[^104-1]: BGS [512.1](https://bgs.zg.ch/data/512.1/de)
-[^104-2]: BGS [312.1](https://bgs.zg.ch/data/312.1/de)
-[^104-3]: SR [272](https://db.clex.ch/link/Bund/272/de)
-[^104-4]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
-[^104-5]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de)
+[^104-1]: SR [314.1](https://db.clex.ch/link/Bund/314.1/de)
+[^104-2]: BGS [161.1](https://bgs.zg.ch/data/161.1/de)
+[^104-3]: BGS [512.1](https://bgs.zg.ch/data/512.1/de)
+[^104-4]: BGS [312.1](https://bgs.zg.ch/data/312.1/de)
+[^104-5]: SR [272](https://db.clex.ch/link/Bund/272/de)
+[^104-6]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^104-7]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de)
 
 #### § 105
 
 **Erhebung von Ordnungsbussen gemäss Ordnungsbussengesetz (OBG)**
 
-<sup>1</sup> Die Polizeiorgane, zu denen auch die Sicherheitsassistentinnen und -assistenten sowie die Mitarbeitenden des Verkehrskontrolldienstes gehören, sind zum Erheben von Ordnungsbussen nur befugt, wenn sie Dienstuniform tragen.
+<sup>1</sup> Uniformierte und nicht uniformierte Mitarbeitende der Polizei mit hoheitlicher polizeilicher Gewalt sowie Sicherheitsassistentinnen und -assistenten erheben Ordnungsbussen.
 
-<sup>2</sup> Sie können Ordnungsbussen für den ruhenden Verkehr und nach den Ordnungsbussenvorschriften in kantonalen Gesetzen oder in gemeindlichen Reglementen auch in Zivil erheben. In diesem Fall weisen sie sich unaufgefordert aus.
+<sup>2</sup> …
+
+<sup>3</sup> Försterinnen und Förster, Wildhüterinnen und Wildhüter sowie Fischereiaufseherinnen und Fischereiaufseher des kantonalen Amts für Wald und Wild sind zudem in den Bereichen Natur- und Heimatschutz, Wald, Jagd und Fischerei (IV, XI, XII, XIII gemäss Anhang 2 zur Ordnungsbussenverordnung [OBV][^105-1]) auf dem ganzen Kantonsgebiet ermächtigt, Ordnungsbussen zu erheben.
+
+[^105-1]: SR [314.11](https://db.clex.ch/link/Bund/314.11/de)
 
 #### § 106
 
 **Verfahren**
 
-<sup>1</sup> Das Verfahren für den Vollzug des Bundes-Ordnungsbussenrechts richtet sich nach den Bestimmungen des jeweiligen Bundesgesetzes, dasjenige für den Vollzug des kantonalen Ordnungsbussenrechts nach den Bestimmungen des Übertretungsstrafgesetzes[^106-1].
+<sup>1</sup> Das Verfahren für den Vollzug des Bundes-Ordnungsbussenrechts richtet sich nach den Bestimmungen des Ordnungsbussengesetzes[^106-1], dasjenige für den Vollzug des kantonalen Ordnungsbussenrechts nach den Bestimmungen des Übertretungsstrafgesetzes[^106-2].
 
 <sup>2</sup> Lehnt die Täterin oder der Täter das Ordnungsbussenverfahren ab oder bezahlt die Busse nicht innert der Bedenkfrist, so übermitteln die Polizeiorgane die Akten gemäss Art. 307 Abs. 3 StPO an die Staatsanwaltschaft, in den Fällen, in welchen die Übertretungsstrafbehörde der Gemeinde zuständig ist (§ 53), an diese.
 
-[^106-1]: BGS [312.1](https://bgs.zg.ch/data/312.1/de)
+[^106-1]: SR [314.1](https://db.clex.ch/link/Bund/314.1/de)
+[^106-2]: BGS [312.1](https://bgs.zg.ch/data/312.1/de)
 
 #### § 107
 
