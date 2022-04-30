@@ -4,13 +4,13 @@ number: "102.111.1"
 title: Règlement du Conseil du Jura bernois
 short: RCJB
 language: fr
-version: 2021-11-01
-valid_until: 2022-04-30
-version_adopted: 2021-09-29
+version: 2022-05-01
+valid_until: 2026-05-31
+version_adopted: 2022-03-30
 adopted: 2006-09-27
 in_force: 2006-10-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/102.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2389/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2597/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2389/pdf_file"
 
 (RCJB)
 
-du 27.09.2006 (état au 01.11.2021)
+du 27.09.2006 (état au 01.05.2022)
 
 Le Conseil du Jura bernois,
 
@@ -38,7 +38,7 @@ arrête:
 
 <sup>1</sup> Le Conseil du Jura bernois (CJB) a son siège à La Neuveville.
 
-<sup>2</sup> Il tient ses séances plénières au moins quatre fois par an à cet endroit. Il tient les autres séances plénières dans d'autres localités du Jura bernois.
+<sup>2</sup> Il tient ses séances plénières en règle générale quatre fois par an à cet endroit. Il tient les autres séances plénières dans d'autres localités du Jura bernois.
 
 ### 1.2 Election du Bureau
 
@@ -143,7 +143,7 @@ arrête:
 - a à la demande d'une Direction cantonale ou de la Chancellerie d'Etat ou,
 - b à la demande de cinq membres au moins.
 
-<sup>3</sup> La convocation est envoyée au moins cinq jours ouvrables avant la date de la séance, accompagnée de l'ordre du jour et des documents nécessaires.
+<sup>3</sup> La convocation est envoyée au moins quatre jours ouvrables avant la date de la séance, accompagnée de l'ordre du jour et des documents nécessaires.
 
 <sup>4</sup> Le délai de convocation peut être réduit en cas d'urgence, notamment de séance plénière extraordinaire.
 
@@ -205,10 +205,10 @@ arrête:
 
 <sup>1</sup> Le CJB constitue en son sein les commissions permanentes suivantes comptant chacune entre sept et dix membres:
 
-- a Commission Institutions,
+- a Commission Institutions et jeunesse,
 - b Commission Economie, énergie et environnement,
 - c Commission Santé, affaires sociales et intégration,
-- d Commission Intérieur et justice,
+- d …
 - e Commission Sécurité et finances,
 - f Commission Instruction publique,
 - g Commission Culture,
@@ -256,7 +256,7 @@ arrête:
 
 **Représentation du CJB dans le cadre des relations intercantonales**
 
-<sup>1</sup> Le Bureau et la Commission Institutions représentent en principe le CJB dans les contacts intercantonaux et en particulier interjurassiens au sens des articles 27 et 28 LStP.
+<sup>1</sup> Le Bureau et la Commission Institutions et jeunesse représentent en principe le CJB dans les contacts intercantonaux et en particulier interjurassiens au sens des articles 27 et 28 LStP.
 
 <sup>2</sup> La Commission Instruction publique représente le CJB dans les relations intercantonales concernant la coordination scolaire romande et interjurassienne définies à l'article 23 LStP et aux articles 16 à 18 OStP.
 
@@ -360,6 +360,12 @@ arrête:
 #### Art. 27
 
 <sup>1</sup> Le présent règlement entre en vigueur le 1<sup>er</sup> octobre 2006.
+
+## T1 Disposition transitoire de la modification du 30.03.2022
+
+#### Art. T1-1
+
+<sup>1</sup> La modification des articles 13 et 19 s'applique à partir du 1<sup>er</sup> juin 2022.
 
 Tramelan, le 27 septembre 2006
 

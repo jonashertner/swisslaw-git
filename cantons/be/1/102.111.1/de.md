@@ -4,13 +4,13 @@ number: "102.111.1"
 title: Geschäftsordnung des Bernjurassischen Rats
 short: GO BJR
 language: de
-version: 2021-11-01
-valid_until: 2022-04-30
-version_adopted: 2021-09-29
+version: 2022-05-01
+valid_until: 2026-05-31
+version_adopted: 2022-03-30
 adopted: 2006-09-27
 in_force: 2006-10-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/102.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2389/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2597/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2389/pdf_file"
 
 (GO BJR)
 
-vom 27.09.2006 (Stand 01.11.2021)
+vom 27.09.2006 (Stand 01.05.2022)
 
 Der Bernjurassische Rat,
 
@@ -38,7 +38,7 @@ beschliesst:
 
 <sup>1</sup> Der BJR hat seinen Sitz in Neuenstadt.
 
-<sup>2</sup> Mindestens vier Plenarsitzungen pro Jahr finden in Neuendstadt statt. Die anderen Plenarsitzungen finden jeweils an einem anderen Ort im Berner Jura statt.
+<sup>2</sup> In der Regel finden vier Plenarsitzungen pro Jahr in Neuenstadt statt. Die anderen Plenarsitzungen finden jeweils an einem anderen Ort im Berner Jura statt.
 
 ### 1.2 Wahl des Büros
 
@@ -143,7 +143,7 @@ beschliesst:
 - a auf Verlangen einer kantonalen Direktion oder der Staatskanzlei,
 - b auf Verlangen von mindestens fünf Mitgliedern.
 
-<sup>3</sup> Die Einladung wird mindestens fünf Werktage vor dem Sitzungsdatum zusammen mit der Traktandenliste und den nötigen Unterlagen zugestellt.
+<sup>3</sup> Die Einladung wird mindestens vier Werktage vor dem Sitzungsdatum zusammen mit der Traktandenliste und den nötigen Unterlagen zugestellt.
 
 <sup>4</sup> Die Frist zur Einberufung einer Plenarsitzung kann in dringlichen Fällen, namentlich bei ausserordentlichen Plenarsitzungen, verkürzt werden.
 
@@ -205,10 +205,10 @@ beschliesst:
 
 <sup>1</sup> Der BJR bildet aus seiner Mitte folgende ständigen Kommissionen, die aus sieben bis zehn Mitgliedern bestehen:
 
-- a Kommission Institutionen,
+- a Kommission Institutionen und Jugend,
 - b Wirtschafts-, Energie- und Umweltkommission,
 - c Gesundheits-, Sozial- und Integrationskommission,
-- d Kommission für Inneres und Justiz,
+- d …
 - e Sicherheits- und Finanzkommission,
 - f Bildungskommission,
 - g Kulturkommission,
@@ -256,7 +256,7 @@ beschliesst:
 
 **Vertretung des BJR im Rahmen interkantonaler Beziehungen**
 
-<sup>1</sup> Das Büro und die Institutionskommission vertreten den BJR grundsätzlich in den interkantonalen und insbesondere in den interjurassischen Beziehungen im Sinne von Artikel 27 und 28 SStG.
+<sup>1</sup> Das Büro und die Kommission Institutionen und Jugend vertreten den BJR grundsätzlich in den interkantonalen und insbesondere in den interjurassischen Beziehungen im Sinne von Artikel 27 und 28 SStG.
 
 <sup>2</sup> Die Bildungskommission vertritt den BJR in den interkantonalen Beziehungen im Rahmen der Schulkoordination mit der Westschweiz und dem Kanton Jura gemäss Artikel 23 SStG und Artikel 16 bis 18 SStV.
 
@@ -360,6 +360,12 @@ beschliesst:
 #### Art. 27
 
 <sup>1</sup> Diese Geschäftsordnung tritt am 1. Oktober 2006 in Kraft.
+
+## T1 Übergangsbestimmung der Änderung vom 30.03.2022
+
+#### Art. T1-1
+
+<sup>1</sup> Die Änderung der Artikel 13 und 19 ist ab dem 1. Juni 2022 anwendbar.
 
 Tramelan, 27. September 2006
 
