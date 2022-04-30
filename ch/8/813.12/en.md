@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Placing on the Market and Handling of Bi
 short: OBP
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: en
-version: 2022-02-01
+version: 2022-05-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220201/en/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220201-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220501/en/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220501-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220501/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Ordinance on Biocidal Products, OBP)
 
-of 18 May 2005 (Status as of 1 February 2022)
+of 18 May 2005 (Status as of 1 May 2022)
 
 The Swiss Federal Council,
 
@@ -93,18 +93,19 @@ This Ordinance does not apply to:
 
 <sup>2</sup> Where procedural aspects for the authorisation or placing on the market of biocidal products are not specified in this Ordinance, the details shall be regulated by the FDHA, if it is empowered to do so, in consultation with DETEC and the EAER.
 
-<sup>3</sup> With regard to changes as specified in paragraphs 1 and 2, the FDHA shall take into consideration delegated acts or implementing acts adopted by the European Commission in accordance with Regulation (EU) No 528/2012[^1b-2].
+<sup>3</sup> With regard to changes as specified in paragraphs 1 and 2, the FDHA shall take into consideration delegated acts or implementing acts adopted by the European Commission in accordance with Regulation (EU) No 528/2012[^1b-2].[^1b-3]
 
 <sup>4</sup> Adjustments to technical details of minor importance in this Ordinance shall be made by the Federal Office of Public Health (FOPH), if it is empowered to do so, in consultation with the Federal Office for the Environment (FOEN) and the State Secretariat for Economic Affairs (SECO).
 
 <sup>5</sup> Where this Ordinance regulates matters which are the subject of an international treaty, responsibilities shall be governed, not by this Ordinance, but by the treaty, insofar as responsibilities are regulated by the latter.
 
-<sup>6</sup> The Notification Authority shall publicise on its website[^1b-3] the responsibilities arising from the international treaty.[^1b-4]
+<sup>6</sup> The Notification Authority shall publicise on its website[^1b-4] the responsibilities arising from the international treaty.[^1b-5]
 
 [^1b-1]: Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^1b-2]: Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products, OJ L 167 of 27 June 2012, p. 1; last amended by Regulation (EU) No 334/2014, OJ L 103 of 5 April 2014, p. 22.
-[^1b-3]: www.anmeldestelle.admin.ch &gt; Topics &gt; Chemicals Legislation and Guidelines &gt; Chemicals Legislation &gt; Ordinance on Biocidal Products (OBP) &gt; MRA Switzerland-EU
-[^1b-4]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^1b-3]: Amended by Annex No 1 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^1b-4]: www.anmeldestelle.admin.ch &gt; Topics &gt; Chemicals Legislation and Guidelines &gt; Chemicals Legislation &gt; Ordinance on Biocidal Products (OBP) &gt; MRA Switzerland-EU
+[^1b-5]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
 #### Art. 2
 
@@ -192,7 +193,7 @@ The following terms are to be understood as defined in Article 2 of the Chemical
 [^2-8]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396 of 30 December 2006, p. 1; last amended by Regulation (EU) No 474/2014, OJ L 136 of 9 May 2014, p. 19.
 [^2-9]: See footnote to Art. 1*b* para. 3.
 [^2-10]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
-[^2-11]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^2-11]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^2-12]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^2-13]: Inserted by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 
@@ -268,7 +269,6 @@ Authorisation applies:
 
   - 1\. with a particular composition,
   - 2\. with a particular trade name or two or more trade names,
-  - [tab]
   - 3\. for a particular use or two or more uses,
   - 4\. from a particular manufacturer or two or more manufacturers;
 
@@ -646,7 +646,7 @@ The Notification Authority, in consultation with the assessment authorities, may
 
 <sup>4</sup> Authorisations of biocidal products consisting of or containing genetically modified microorganisms shall not be recognised.
 
-<sup>5</sup> Article 14*a* applies to the recognition of a Union authorisation.
+<sup>5</sup> Article 14*a*<sup>bis</sup> applies to the recognition of a Union authorisation.
 
 #### Art. 13
 
@@ -1382,10 +1382,11 @@ Anyone who is responsible for the placing on the market of treated articles must
 - a. label them in accordance with Article 58 paragraphs 3, 4 and 6 of Regulation (EU) No 528/2012[^31a-1]; and
 - b. include in the instructions for use the relevant information specified in the ORRChem[^31a-2].
 
-<sup>2</sup> The labelling must be in the official language or languages of the place where the treated article is placed on the market.
+<sup>2</sup> The labelling must be in at least one official language of the place where the treated article is placed on the market.[^31a-3]
 
 [^31a-1]: See footnote to Art. 1*b* para. 3.
 [^31a-2]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^31a-3]: Amended by Annex No 1 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 #### Art. 31b
 
@@ -1438,7 +1439,7 @@ Disclosure of the following data shall normally be deemed to undermine the prote
 
 <sup>6</sup> Access to data on biocidal products or active substances consisting of, containing or obtained from genetically modified microorganisms is governed by Article 18 of the GTA.
 
-[^33-1]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^33-1]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^33-2]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
 #### Art. 34
@@ -1466,7 +1467,7 @@ After authorisation has been granted, the following information shall not be tre
 
 <sup>2</sup> The publication of non-confidential data on biocidal products is governed by Article 73 paragraph 6 of the ChemO[^34-1].[^34-2]
 
-[^34-1]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^34-1]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).).
 [^34-2]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
 ## Chapter 5 Classification, Packaging, Denaturation, Labelling and Safety Data Sheet
@@ -1480,7 +1481,7 @@ After authorisation has been granted, the following information shall not be tre
 <sup>2</sup> Where appropriate, the information included in the ruling referred to in Article 20 shall be taken into account.
 
 [^35-1]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^35-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^35-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 #### Art. 36
 
@@ -1498,10 +1499,10 @@ Biocidal products and active substances for use in biocidal products must be pac
 <sup>3</sup> Biocidal products which may be mistaken for foodstuffs within the meaning of the Foodstuffs Act of 20 June 2014[^36-4] or for animal feedstuffs within the meaning of Article 3 paragraph 1 of the Feedstuffs Ordinance of 26 May 1999[^36-5] must be packaged to minimise the likelihood of such a mistake being made.[^36-6]
 
 [^36-1]: Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
-[^36-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^36-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^36-3]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 [^36-4]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62). The reference was amended on 1 May 2017 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^36-5]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Annex 5 No 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 19 [5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)No IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. See now: the O of 26 Oct. 2011 ([SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
+[^36-5]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Annex 5 No 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 19, [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)No IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. See now: the O of 26 Oct. 2011 ([SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
 [^36-6]: Correction of 23 Dec. 2014 ([AS 2014 4719](https://fedlex.data.admin.ch/eli/oc/2014/799)).
 
 #### Art. 37
@@ -1582,7 +1583,7 @@ Where this is necessary because of the size or the function of the biocidal prod
 
 [^38-1]: Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^38-2]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^38-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^38-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^38-4]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 [^38-5]: Amended by No I of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^38-6]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
@@ -1652,7 +1653,7 @@ The documentation shall include as a minimum:
 - [tab] <sup>5</sup> Safety data sheets must be retained in accordance with Article 23 ChemO.[^40a-4]
 
 [^40a-1]: Inserted by No I of the O of 28 Feb. 2007 ([AS 2007 851](https://fedlex.data.admin.ch/eli/oc/2007/153)). Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
-[^40a-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^40a-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^40a-3]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 [^40a-4]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
@@ -1688,7 +1689,7 @@ The documentation shall include as a minimum:
 Articles 57 and 62 of the ChemO[^42-2] apply *mutatis mutandis* to the storage of biocidal products.
 
 [^42-1]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^42-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^42-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 #### Art. 43
 
@@ -1704,7 +1705,7 @@ For the supply of biocidal products, the following apply:
 <sup>2</sup> For biocidal products that meet the criteria specified in Article 11*d* letter a, Article 64 paragraph 1, Article 65 paragraph 1 and Article 66 paragraph 1 letter a of the ChemO apply *mutatis mutandis*.[^43-3]
 
 [^43-1]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^43-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^43-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^43-3]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 
 #### Art. 44
@@ -1789,7 +1790,7 @@ Any advertisement for biocidal products must include the following phrases, whic
 <sup>5</sup> Otherwise, Article 60 and, for samples, Article 68 of the ChemO[^50-2] apply *mutatis mutandis*.[^50-3]
 
 [^50-1]: Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
-[^50-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^50-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^50-3]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
 ## Chapter 7 Enforcement
@@ -1816,7 +1817,7 @@ Any advertisement for biocidal products must include the following phrases, whic
 Provisions concerning the Notification Authority and the associated steering committee are set out in Article 77 of the ChemO[^51-2].
 
 [^51-1]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^51-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^51-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 #### Art. 52
 
@@ -1883,7 +1884,7 @@ It shall request the cantonal enforcement authorities, where appropriate at the 
 Article 79 of the ChemO[^54-2] applies with regard to the Toxicological Information Centre.
 
 [^54-1]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^54-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^54-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 #### Art. 54a
 
@@ -1922,7 +1923,7 @@ Article 79 of the ChemO[^54-2] applies with regard to the Toxicological Informat
 
 <sup>1</sup> The obligation to pay fees and the calculation of fees for administrative action by the federal enforcement authorities in accordance with this Ordinance is based on the Chemicals Fees Ordinance of 18 May 2005[^57-2].
 
-<sup>2</sup> No fees are payable for the recognition of a Union authorisation in accordance with Article 14*a* paragraph 2.
+<sup>2</sup> No fees are payable for the recognition of a Union authorisation in accordance with Article 14*a*<sup>bis</sup> paragraph 2.
 
 <sup>3</sup> For an application for authorisation or for the amendment thereof, the applicant must pay an advance on costs. This shall be determined by the Notification Authority on the basis of the likely amount of fees.
 
@@ -1966,9 +1967,9 @@ They shall verify whether:
 
 **Order of the cantonal enforcement authority**[^59-1]
 
-If an inspection reveals infringements of the provisions set out in Article 58 paragraph 2, the competent authority in the canton in which the authorisation holder or the manufacturer, distributor or user is domiciled or has its registered office or branch must order the necessary measures.
+If an inspection reveals infringements of the provisions set out in Article 58 paragraph 2, the competent authority in the canton in which the authorisation holder or the manufacturer, distributor or user is domiciled or has its registered office or branch must order the necessary measures. In the case of infringements of Articles 41–49, the competent authority in the canton in which the infringement took place may also issue the order. The cantons shall coordinate the required measures.
 
-[^59-1]: Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^59-1]: Amended by Annex No 1 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### Section 3 Delegation of Duties and Powers to Third Parties
 
@@ -1994,11 +1995,11 @@ To the extent that enforcement of health protection is concerned, delegation is 
 Articles 74–76 of the ChemO[^61-2] apply *mutatis mutandis* to the passing-on of data concerning biocidal products.
 
 [^61-1]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^61-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^61-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 ## Chapter 8 Final Provisions
 
-### Section 1 Transitional Provisions concerning the Amendment of 20 June 2014****
+### Section 1 Transitional Provisions to the Amendment of 20 June 2014****
 
 [^chap8-sec1-1]
 
@@ -2059,24 +2060,30 @@ The treated articles specified in paragraph 1 may be placed on the market for th
 
 [^62d-1]: Inserted by No I of the O of 20 June 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Repealed by No I of the O of 18 Nov. 2020, with effect from 15 Dec. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
-### Section 1*a***** Transitional Provision to the Amendment of 18 November 2020
+### Section 2**** Final Provisions****
 
-[^chap8-sec1a-1]
+[^chap8-sec2-1][^chap8-sec2-2]
 
-[^chap8-sec1a-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2022 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^chap8-sec2-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2022 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^chap8-sec2-2]: Amended by Annex No 1 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 #### Art. 62e
+
+**Transitional Provision to the Amendment of 18 November 2020**
 
 The following biocidal products, notwithstanding that they do not have a UFI on 1 January 2022, may be placed on the market at the latest until 31 December 2025 without indicating the UFI in accordance with Article 14*a*:
 
 - a. biocidal products intended for professional users;
 - b. biocidal products intended for private users and placed on the market before 1 January 2022.
 
-### Section 2 Commencement****
+#### Art. 62f
 
-[^chap8-sec2-1]
+**Transitional Provision to the Amendment of 11 March 2022**[^62f-1]
 
-[^chap8-sec2-1]: Inserted by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+Biocidal products that are labelled in accordance with the previous law pursuant to Article 10 paragraph 3 letter b ChemO[^62f-2] may be supplied to third parties until 31 December 2025.
+
+[^62f-1]: Inserted by Annex No 1 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^62f-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 63
 
@@ -2156,7 +2163,7 @@ Where reference is made in this Ordinance to provisions of Regulation (EU) No 52
 [^annex3-lvlu1-lvl2-2]: [SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
 [^annex3-lvlu1-lvl2-3]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 [^annex3-lvlu1-lvl2-4]: [SR 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)
-[^annex3-lvlu1-lvl2-5]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^annex3-lvlu1-lvl2-5]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 ### 3 Correspondence between expressions used in EU acts referred to in the Union list of approved active substances and those used in this Ordinance
 
@@ -2252,7 +2259,7 @@ The following must be submitted to the Notification Authority together with the 
 
 [^annex5-lvlu1-lvl2-lvl23-1]: Commission Regulation (EC) No 440/2008 of 30 May 2008 laying down test methods pursuant to Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), OJ L 142 of 31 May 2008, p. 1; last amended by Regulation (EC) No 260/2014, OJ L 81 of 19 March 2014, p. 1.
 [^annex5-lvlu1-lvl2-lvl23-2]: Directive 2010/63/EU of the European Parliament and of the Council of 22 September 2010 on the protection of animals used for scientific purposes, OJ L 276 of 20 October 2010, p. 33.
-[^annex5-lvlu1-lvl2-lvl23-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^annex5-lvlu1-lvl2-lvl23-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 ### 2.4 Other methods of detection and identification
 
@@ -2421,7 +2428,7 @@ The application documents must contain the following details:
 
 [^annex8-lvlu1-lvl3-lvl31-1]: See footnote to Annex 5 No 2.3 para. 1.
 [^annex8-lvlu1-lvl3-lvl31-2]: Directive 2010/63/EU of the European Parliament and of the Council of 22 September 2010 on the protection of animals used for scientific purposes, OJ L 276 of 20 October 2010, p. 33.
-[^annex8-lvlu1-lvl3-lvl31-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^annex8-lvlu1-lvl3-lvl31-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 ### 3.2 Other methods of detection and identification
 
@@ -2483,7 +2490,7 @@ Annex 10*[^t-12]*
 
 ## Product types
 
-[^t-12]: Amended by No II para. 1 of the O of 20 June 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Revised in accordance with No II of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368))..
+[^t-12]: Amended by No II para. 1 of the O of 20 June 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Revised in accordance with No II of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
 ### Main group 1:Disinfectants
 

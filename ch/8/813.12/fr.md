@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 concernant la mise sur le marché et l'utilisa
 short: OPBio
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: fr
-version: 2022-02-01
+version: 2022-05-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220201/fr/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220201/fr"
 
 (Ordonnance sur les produits biocides, OPBio)
 
-du 18 mai 2005 (Etat le 1<sup>er</sup> février 2022)
+du 18 mai 2005 (Etat le 1<sup>er</sup> mai 2022)
 
 Le Conseil fédéral suisse,
 
@@ -90,17 +90,18 @@ La présente ordonnance ne s’applique pas:
 
 <sup>2</sup> Lorsque la présente ordonnance ne définit pas certains aspects de la procédure concernant l’autorisation ou la mise sur le marché de produits biocides, le DFI règle les détails, lorsqu’il est habilité à le faire, en accord avec le DETEC et le DEFR.
 
-<sup>3</sup> Pour les adaptations prévues aux al. 1 et 2, le DFI tient compte des actes délégués ou des actes d’exécution édictés par la Commission européenne sur la base du règlement (UE) n<sup>o</sup> 528/2012[^1b-2].
+<sup>3</sup> Pour les adaptations prévues aux al. 1 et 2, le DFI tient compte des actes délégués ou des actes d’exécution édictés par la Commission européenne sur la base du règlement (UE) n<sup>o</sup> 528/2012[^1b-2].[^1b-3]
 
 <sup>4</sup> L’adaptation des détails techniques de moindre importance est réglée par l’Office fédéral de la santé publique (OFSP), lorsqu’il est habilité à le faire, en accord avec l’Office fédéral de l’environnement (OFEV) et le Secrétariat d’État à l’économie (SECO).
 
 <sup>5</sup> Dans la mesure où la matière traitée dans la présente ordonnance fait l’objet d’un traité international, les compétences ne se fondent pas sur l’ordonnance mais sur le traité, pour autant que celui-ci les règle.
 
-<sup>6</sup> L’organe de réception des notifications (ON) publie les compétences résultant du traité international sur son site Internet[^1b-3].
+<sup>6</sup> L’organe de réception des notifications (ON) publie les compétences résultant du traité international sur son site Internet[^1b-4].
 
 [^1b-1]: Introduit par le ch. I de l’O du 20 juin 2014, en vigueur depuis le 15 juil. 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
-[^1b-2]: R (UE) n<sup>o</sup> 528/2012 du Parlement européen et du Conseil du 22 mai 2012 concernant la mise à disposition sur le marché et l’utilisation des produits biocides, JO L 167 du 27.6.2012, p. 1, modifié en dernier lieu par le R (UE) n<sup>o</sup> 334/2014, JO L 103 du 5.4.2014, p. 22.
-[^1b-3]: www.anmeldestelle.admin.ch &gt; Thèmes &gt; Législation sur les produits chimiques et guides d’application &gt; Législation sur les produits chimiques &gt; Ordonnance sur les produits biocides (OPBio) &gt; ARM Suisse-UE
+[^1b-2]: Règlement (UE) n<sup>o</sup> 528/2012 du Parlement européen et du Conseil du 22 mai 2012 concernant la mise à disposition sur le marché et l’utilisation des produits biocides, JO L 167 du 27.6.2012, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2021/525, JO L 106 du 26.3.2021, p. 3.
+[^1b-3]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^1b-4]: www.anmeldestelle.admin.ch &gt; Thèmes &gt; Législation sur les produits chimiques et guides d’application &gt; Législation sur les produits chimiques &gt; Ordonnance sur les produits biocides (OPBio) &gt; ARM Suisse-UE
 
 #### Art. 2
 
@@ -112,7 +113,7 @@ La présente ordonnance ne s’applique pas:
 
 - a.
 
-  *produit biocide:*
+  *produits biocides:*
 
   - 1\. substance, préparation ou objet, sous la forme dans laquelle ils sont livrés à l’utilisateur, constitués d’une ou plusieurs substances actives, en contenant ou en générant, qui sont destinés à détruire, repousser ou rendre inoffensifs les organismes nuisibles, à en prévenir les dommages ou à les combattre de toute autre manière par une action autre qu’une simple action physique ou mécanique,
   - 2\. substance ou préparation générées par des substances ou des préparations qui ne sont pas elles-mêmes des produits biocides au sens du ch. 1, et destinées au même but que les produits biocides visés au ch. 1;
@@ -336,7 +337,7 @@ On distingue les types d’autorisation suivants:
   *autorisation de commerce parallèle:* pour les produits biocides qui:
 
   - 1\. sont autorisés dans un État membre de l’UE ou de l’AELE et sont identiques à un produit biocide autorisé en Suisse au sens de l’autorisation A<sub>L</sub> ou de la reconnaissance, ou
-  - 2\. sont mis sur le marché d’un État membre de l’UE ou de l’AELE selon les dispositions nationales y relatives et sont identiques à un produit biocide autorisé en Suisse au sens de l’autorisation A<sub>N</sub> ou A<sub>B</sub>.
+  - 2\. sont mis sur le marché d’un État membre de l’UE ou de l’AELE selon les dispositions nationales y relatives et sont identiques à un produit biocide autorisé en Suisse au sens de l’autorisation A<sub>N</sub> ou A<sub>C</sub>.
 
 <sup>2</sup> Dans la mesure où rien d’autre ne ressort d’une disposition de la présente ordonnance, on entend par autorisation tous les types d’autorisation énumérés à l’al. 1.
 
@@ -368,7 +369,7 @@ On distingue les types d’autorisation suivants:
 <tr><td>i. pour la mise sur le marché d’un produit d’une famille de produits biocides:</td><td>aussi longtemps que l’autorisation pour la famille de produits biocides est valable;</td></tr>
 <tr><td>j. pour la dissémination à des fins de recherche et de développement:</td><td>pour la durée annoncée des essais;</td></tr>
 <tr><td>k.[^8-8] autorisation simplifée</td><td>10 ans.</td></tr>
-<tr><td>l.[^8-9] autorisation de produits biocides identiques:</td><td>1. – 10 ans pour des autorisations fondées sur une autorisation ordinaire A<sub>L</sub> – 5 ans pour des autorisations fondées sur une autorisation A<sub>L</sub> contenant une substance active dont la substitution est envisagée ou – 4 ans pour des autorisations fondées sur une autorisation A<sub>L</sub> contenant une substance active autorisée par l’art. 5, par. 2, du règlement (UE) n<sup>o</sup> 528/2012, 2. 10 ans pour les produits biocides dont l’autorisation se fonde sur une reconnaissance ou une reconnaissance de l’Union, 3. aussi longtemps que l’autorisation pour le produit de référence est valable, pour les produits biocides dont l’autorisation se fonde sur une autorisation A<sub>N</sub> ou A<sub>B</sub>.</td></tr>
+<tr><td>l.[^8-9] autorisation de produits biocides identiques:</td><td>1. – 10 ans pour des autorisations fondées sur une autorisation ordinaire A<sub>L</sub> – 5 ans pour des autorisations fondées sur une autorisation A<sub>L</sub> contenant une substance active dont la substitution est envisagée ou – 4 ans pour des autorisations fondées sur une autorisation A<sub>L</sub> contenant une substance active autorisée par l’art. 5, par. 2, du règlement (UE) n<sup>o</sup> 528/2012, 2. 10 ans pour les produits biocides dont l’autorisation se fonde sur une reconnaissance ou une reconnaissance de l’Union, 3. aussi longtemps que l’autorisation pour le produit de référence est valable, pour les produits biocides dont l’autorisation se fonde sur une autorisation A<sub>N</sub> ou A<sub>C</sub>.</td></tr>
 </table>
 
 <sup>2</sup> à <sup>4</sup> ...[^8-10]
@@ -640,7 +641,7 @@ En accord avec les organes d’évaluation, l’organe de réception des notific
 
 <sup>4</sup> Les autorisations des produits biocides consistant en des microorganismes génétiquement modifiés, ou contenant de tels microorganismes, ne sont pas reconnues.
 
-<sup>5</sup> L’art. 14*a* s’applique pour la reconnaissance d’une autorisation de l’Union.
+<sup>5</sup> L’art. 14*a*<sup>bis</sup> s’applique pour la reconnaissance d’une autorisation de l’Union.
 
 #### Art. 13
 
@@ -1034,7 +1035,7 @@ Le titulaire d’une autorisation est tenu de communiquer, spontanément et imm�
 
 **Inscription d’une substance active notifiée dans la liste de l’annexe 1 ou 2**[^22-1]
 
-<sup>1</sup> Lorsque la Commission européenne adopte l’approbation d’une substance active notifiée ou sa publication dans l’annexe I du règlement (UE) n<sup>o</sup> 528/2012[^22-2] et que l’OFSP, en concertation avec l’OFEV et le SECO, adopte la publication de cette substance active notifiée dans la liste de l’annexe 1 ou 2, l’organe de réception des notifications le communique sans délai à tout titulaire d’une autorisation A<sub>N</sub> ou A<sub>B</sub> pour un produit biocide contenant cette substance active s’il s’agit de la dernière substance active notifiée contenue dans le produit biocide.
+<sup>1</sup> Lorsque la Commission européenne adopte l’approbation d’une substance active notifiée ou sa publication dans l’annexe I du règlement (UE) n<sup>o</sup> 528/2012[^22-2] et que l’OFSP, en concertation avec l’OFEV et le SECO, adopte la publication de cette substance active notifiée dans la liste de l’annexe 1 ou 2, l’organe de réception des notifications le communique sans délai à tout titulaire d’une autorisation A<sub>N</sub> ou A<sub>C</sub> pour un produit biocide contenant cette substance active s’il s’agit de la dernière substance active notifiée contenue dans le produit biocide.
 
 <sup>2</sup>
 
@@ -1381,10 +1382,11 @@ Toute personne responsable de la mise sur le marché d’articles traités doit:
 - a. les étiqueter conformément à l’art. 58, par. 3, 4 et 6, du règlement (UE) n<sup>o</sup> 528/2012[^31a-1], et
 - b. reprendre dans le mode d’emploi les indications les plus importantes prévues par l’ORRChim[^31a-2].
 
-<sup>2</sup> L’étiquette doit être rédigée dans la langue ou les langues officielles du lieu où l’article traité est mis sur le marché.
+<sup>2</sup> L’étiquette doit être rédigée dans au moins une langue officielle du lieu où l’article traité est mis sur le marché.[^31a-3]
 
 [^31a-1]: Cf. note de bas de page relative à l’art. 1*b*, al. 3.
 [^31a-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^31a-3]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 #### Art. 31b
 
@@ -1437,7 +1439,7 @@ La divulgation des informations suivantes est, en principe, considérée comme p
 
 <sup>6</sup> L’accès aux données sur les produits biocides ou les substances actives qui consistent en des microorganismes génétiquement modifiés, qui contiennent de tels organismes ou qui sont obtenus à partir de microorganismes génétiquement modifiés, est régi par l’art. 18 LGG.
 
-[^33-1]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^33-1]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^33-2]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
 #### Art. 34
@@ -1497,10 +1499,10 @@ L’art. 8 OChim[^36-2] s’applique par analogie à l’emballage des produits 
 <sup>3</sup> Les produits biocides susceptibles d’être confondus avec des denrées alimentaires au sens de la loi du 20 juin 2014 sur les denrées alimentaires[^36-4] ou avec des aliments pour animaux au sens de l’art. 3, al. 1, de l’ordonnance du 26 mai 1999 sur les aliments pour animaux[^36-5] doivent être emballés de manière à ce que le risque de confusion soit réduit au strict minimum.[^36-6]
 
 [^36-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 15 juil. 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
-[^36-2]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^36-2]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^36-3]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 [^36-4]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62).Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> mai 2017.
-[^36-5]: [[RO 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)annexe 5 ch. 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II [19](https://fedlex.data.admin.ch/eli/oc/2005/7)[5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [RO 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)art. 77]. Voir actuellement l’O du 26 oct. 2011 ([RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
+[^36-5]: [[RO 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)annexe 5 ch. 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II [19](https://fedlex.data.admin.ch/eli/oc/2005/7), [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [RO 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)art. 77]. Voir actuellement l’O du 26 oct. 2011 ([RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
 [^36-6]: Erratum du 23 déc. 2014 ([RO 2014 4719](https://fedlex.data.admin.ch/eli/oc/2014/799)).
 
 #### Art. 37
@@ -1558,8 +1560,8 @@ En sus des données visées à l’al. 2, l’étiquette doit porter les indicat
 
     l’intervalle de sécurité à respecter entre l’application du produit biocide et l’emploi consécutif du produit traité ou l’accès consécutif de l’être humain ou des animaux à la zone traitée avec le produit biocide, y compris les indications concernant:
 
-    - – les moyens et mesures de décontamination et la durée de ventilation nécessaire des zones traitées,
-    - – le nettoyage adéquat du matériel,
+    - – les moyens et mesures de décontamination et la durée de ventilation nécessaire des zones traitées
+    - – le nettoyage adéquat du matériel
     - – les mesures de précaution pour l’emploi et le transport.
 
 <sup>4</sup>
@@ -1650,7 +1652,7 @@ La documentation comprend au minimum:
 <sup>5</sup> Les fiches de données de sécurité doivent être conservées conformément à l’art. 23 OChim.
 
 [^40a-1]: Introduit par le ch. I de l’O du 28 fév. 2007 ([RO 2007 851](https://fedlex.data.admin.ch/eli/oc/2007/153)). Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 15 juil. 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
-[^40a-2]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^40a-2]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^40a-3]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
 ## Chapitre 6 Utilisation des produits biocides
@@ -1685,7 +1687,7 @@ La documentation comprend au minimum:
 Les art. 57 et 62 OChim[^42-2] s’appliquent par analogie à l’entreposage des produits biocides.
 
 [^42-1]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^42-2]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^42-2]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 #### Art. 43
 
@@ -1701,7 +1703,7 @@ S’appliquent à la remise des produits biocides:
 <sup>2</sup> Les art. 64, al. 1, 65, al. 1, et 66, al. 1, let. a, OChim s’appliquent par analogie aux produits biocides qui remplissent les critères énoncés à l’art. 11*d*, let. a.[^43-3]
 
 [^43-1]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^43-2]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^43-2]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^43-3]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 
 #### Art. 44
@@ -1918,7 +1920,7 @@ L’art. 79 OChim[^54-2] s’applique au centre d’information toxicologique.
 
 <sup>1</sup> Le régime et le calcul des émoluments pour les actes administratifs auxquels les autorités fédérales d’exécution procèdent en vertu de la présente ordonnance sont régis par l’ordonnance du 18 mai 2005 sur les émoluments perçus en application de la législation sur les produits chimiques[^57-2].
 
-<sup>2</sup> La reconnaissance d’une autorisation de l’Union conformément à l’art. 14*a*, al. 2, n’est soumise à aucun émolument.
+<sup>2</sup> La reconnaissance d’une autorisation de l’Union conformément à l’art. 14*a*<sup>bis</sup>, al. 2, n’est soumise à aucun émolument.
 
 <sup>3</sup> Le demandeur doit s’acquitter d’une avance de frais pour une demande d’autorisation et pour sa modification. L’avance de frais est fixée par l’organe de réception des notifications sur la base du montant probable des émoluments.
 
@@ -1962,9 +1964,9 @@ Elles vérifient:
 
 **Décision de l’autorité cantonale d’exécution**[^59-1]
 
-Si le contrôle révèle des infractions aux dispositions de l’art. 58, al. 2, l’autorité compétente du canton dans lequel le titulaire de l’autorisation, le fabricant, le responsable de la mise sur le marché ou l’utilisateur a son domicile, son siège social ou sa succursale, décide des mesures à prendre.
+Si le contrôle révèle des infractions à l’art. 58, al. 2, l’autorité compétente du canton dans lequel le titulaire de l’autorisation, le fabricant, le responsable de la mise sur le marché ou l’utilisateur a son domicile, son siège social ou sa succursale, arrête les mesures à prendre. En cas d’infraction aux art. 41 à 49, l’autorité compétente du canton dans lequel l’infraction a été commise peut également statuer. Les cantons coordonnent les mesures nécessaires.
 
-[^59-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 15 juil. 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^59-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### Section 3 Délégation de tâches et de compétences à des tiers
 
@@ -2031,7 +2033,7 @@ L’évaluation des risques de la substance active dans le produit biocide pour 
 
 Après l’entrée en vigueur de la modification du 20 juin 2014 de la présente ordonnance, un article traité peut être mis sur le marché pour la première fois en dérogation à l’art. 31, al. 1, dans les délais mentionnés à l’al. 2, s’il remplit l’une des conditions suivantes:[^62c-2]
 
-- a. l’article a été traité avec un ou plusieurs produits biocides, ou un ou plusieurs produits biocides ne contenant que des substances actives contenues dans la liste des substances actives notifiées lui ont délibérément été incorporés;
+- a. l’article a été traité avec un ou plusieurs produits biocides, ou un ou plusieurs produits biocides ne contenant que des substances actives contenues dans la liste des substances actives notifiées qui lui ont délibérément été incorporés;
 - b. le type de produits correspondant aux substances actives contenues dans l’article a fait l’objet d’une demande d’approbation déposée auprès de la Commission européenne jusqu’au 1<sup>er</sup> septembre 2016 au plus tard;
 - c. l’article contient uniquement une combinaison de substances actives contenues dans la liste des substances actives notifiées et de substances actives figurant dans l’annexe 2 pour les types de produits et les usages en question ou dans l’annexe 1.
 
@@ -2055,24 +2057,30 @@ Les articles traités visés à l’al. 1 peuvent être mis sur le marché pour 
 
 [^62d-1]: Introduit par le ch. I de l’O du 20 juin 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Abrogé par le ch. I de l’O du 18 nov. 2020, avec effet au 15 déc. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
-### Section 1*a***** Disposition transitoire de la modification du 18 novembre 2020
+### Section 2**** Dispositions finales****
 
-[^chap8-sec1a-1]
+[^chap8-sec2-1][^chap8-sec2-2]
 
-[^chap8-sec1a-1]: Introduite par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^chap8-sec2-1]: Introduite par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^chap8-sec2-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
-**Art. 62**e
+#### Art. 62e
+
+**Disposition transitoire de la modification du 18 novembre 2020**
 
 Les produits biocides suivants peuvent être mis sur le marché sans indication de l’UFI prévue par l’art. 14*a* jusqu’au 31 décembre 2025 au plus tard, s’ils ne disposent pas d’un UFI le 1<sup>er</sup> janvier 2022:
 
 - a. les produits biocides destinés aux utilisateurs professionnels;
 - b. les produits biocides destinés à des utilisateurs privés et mis sur le marché avant le 1<sup>er</sup> janvier 2022.
 
-### Section 2 Entrée en vigueur****
+#### Art. 62f
 
-[^chap8-sec2-1]
+**Dispositions transitoires de la modification du 11 mars 2022**[^62f-1]
 
-[^chap8-sec2-1]: Introduit par le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+Les produits biocides étiquetés selon l’ancien droit conformément à l’art. 10, al. 3, let. b, OChim[^62f-2] peuvent être remis à des tiers jusqu’au 31 décembre 2025.
+
+[^62f-1]: Introduit par l’annexe ch. 1 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^62f-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 63
 
@@ -2329,7 +2337,7 @@ Annexe 6*[^t-6]*
 
 Annexe 7*[^t-7]*
 
-(art. 14, al. 2, let. c, et 14*a*)
+(art. 14, al. 2, let. c, et 14*a*<sup>bis</sup>)
 
 ## Demande de reconnaissance d’une autorisation
 

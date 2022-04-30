@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 über das Inverkehrbringen von und den Umgan
 short: VBP
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: de
-version: 2022-02-01
+version: 2022-05-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220201/de/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220201/de"
 
 (Biozidprodukteverordnung, VBP)
 
-vom 18. Mai 2005 (Stand am 1. Februar 2022) (Stand am 1. Februar 2022)
+vom 18. Mai 2005 (Stand am 1. Mai 2022) (Stand am 1. Mai 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -91,18 +91,19 @@ Diese Verordnung gilt nicht für:
 
 <sup>2</sup> Wo in dieser Verordnung Verfahrensaspekte für die Zulassung oder das Inverkehrbringen von Biozidprodukten nicht festgelegt sind, regelt das EDI, wenn es dazu ermächtigt ist, im Einvernehmen mit dem UVEK und dem WBF die Einzelheiten.
 
-<sup>3</sup> Für Anpassungen nach den Absätzen 1 und 2 berücksichtigt das EDI die von der Europäischen Kommission gestützt auf die Verordnung (EU) Nr. 528/2012[^1b-2] erlassenen delegierten Rechtsakte oder Durchführungsrechtsakte.
+<sup>3</sup> Für Anpassungen nach den Absätzen 1 und 2 berücksichtigt das EDI die von der Europäischen Kommission gestützt auf die Verordnung (EU) Nr. 528/2012[^1b-2] erlassenen delegierten Rechtsakte oder Durchführungsrechtsakte.[^1b-3]
 
 <sup>4</sup> Anpassungen technischer Einzelheiten von untergeordneter Bedeutung in dieser Verordnung nimmt das Bundesamt für Gesundheit (BAG), wenn es dazu ermächtigt ist, im Einvernehmen mit dem Bundesamt für Umwelt (BAFU) und dem Staatssekretariat für Wirtschaft (SECO) vor.
 
 <sup>5</sup> Soweit diese Verordnung Sachverhalte regelt, die Gegenstand eines völkerrechtlichen Vertrags sind, richten sich die Zuständigkeiten nicht nach dieser Verordnung, sondern nach dem Vertrag, soweit dieser die Zuständigkeiten regelt.
 
-<sup>6</sup> Die Anmeldestelle veröffentlicht die sich aus dem völkerrechtlichen Vertrag ergebenden Zuständigkeiten auf ihrer Website[^1b-3].[^1b-4]
+<sup>6</sup> Die Anmeldestelle veröffentlicht die sich aus dem völkerrechtlichen Vertrag ergebenden Zuständigkeiten auf ihrer Website[^1b-4].[^1b-5]
 
 [^1b-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
-[^1b-2]: Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten, ABl. L 167 vom 27.6.2012, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 334/2014, ABl. L 103 vom 5.4.2014, S. 22.
-[^1b-3]: www.anmeldestelle.admin.ch &gt; Themen &gt; Chemikalienrecht und Wegleitungen &gt; Chemikalienrecht &gt; Biozidprodukteverordnung (VBP) &gt; MRA Schweiz-EU
-[^1b-4]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^1b-2]: Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten, ABl. L 167 vom 27.6.2012, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 2021/525, ABl. L 106 vom 26.3.2021, S. 3.
+[^1b-3]: Fassung gemäss Anhang Ziff. 1 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^1b-4]: www.anmeldestelle.admin.ch &gt; Themen &gt; Chemikalienrecht und Wegleitungen &gt; Chemikalienrecht &gt; Biozidprodukteverordnung (VBP) &gt; MRA Schweiz-EU
+[^1b-5]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
 #### Art. 2
 
@@ -190,7 +191,7 @@ Folgende Begriffe sind im Sinne von Artikel 2 der Chemikalienverordnung vom 18. 
 [^2-8]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 474/2014, ABl. L 136 vom 9.5.2014, S. 19.
 [^2-9]: Siehe Fussnote zu Art. 1*b* Abs. 3.
 [^2-10]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
-[^2-11]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^2-11]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^2-12]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^2-13]: Eingefügt durch Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 
@@ -645,7 +646,7 @@ Die Anmeldestelle kann im Einvernehmen mit den Beurteilungsstellen die mit der Z
 
 <sup>4</sup> Zulassungen von Biozidprodukten, die gentechnisch veränderte Mikroorganismen sind oder enthalten, werden nicht anerkannt.
 
-<sup>5</sup> Für die Anerkennung einer Unionszulassung gilt Artikel 14*a*.
+<sup>5</sup> Für die Anerkennung einer Unionszulassung gilt Artikel 14*a*<sup>bis</sup>.
 
 #### Art. 13
 
@@ -1383,10 +1384,11 @@ Wer für das Inverkehrbringen behandelter Waren verantwortlich ist, muss:
 - a. sie nach Artikel 58 Absätze 3, 4 und 6 der Verordnung (EU) Nr. 528/2012[^31a-1] etikettieren; und
 - b. die massgebenden Angaben nach der ChemRRV[^31a-2] in der Gebrauchsanweisung übernehmen.
 
-<sup>2</sup> Die Etikette muss in der oder den Amtssprachen des Ortes, an dem die behandelte Ware in Verkehr gebracht wird, abgefasst sein.
+<sup>2</sup> Die Etikette muss in mindestens einer Amtssprache des Ortes, an dem die behandelte Ware in Verkehr gebracht wird, abgefasst sein.[^31a-3]
 
 [^31a-1]: Siehe Fussnote zu Art. 1*b* Abs. 3.
 [^31a-2]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^31a-3]: Fassung gemäss Anhang Ziff. 1 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 #### Art. 31b
 
@@ -1439,7 +1441,7 @@ Bei folgenden Daten ist davon auszugehen, dass ihre Offenlegung den Schutz der g
 
 <sup>6</sup> Für den Zugang zu Daten über Biozidprodukte oder Wirkstoffe, die aus gentechnisch veränderten Mikroorganismen bestehen oder solche enthalten oder die aus gentechnisch veränderten Mikroorganismen gewonnen wurden, gilt Artikel 18 GTG.
 
-[^33-1]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^33-1]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^33-2]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
 #### Art. 34
@@ -1467,7 +1469,7 @@ Nach der Zulassung sind folgende Angaben in keinem Fall vertraulich:
 
 <sup>2</sup> Für die Veröffentlichung von nicht vertraulichen Daten von Biozidprodukten gilt Artikel 73 Absatz 6 ChemV[^34-1].[^34-2]
 
-[^34-1]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^34-1]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^34-2]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
 ## 5. Kapitel: Einstufung, Verpackung, Denaturierung, Kennzeichnung und Sicherheitsdatenblatt
@@ -1481,7 +1483,7 @@ Nach der Zulassung sind folgende Angaben in keinem Fall vertraulich:
 <sup>2</sup> Gegebenenfalls sind die Angaben der Verfügung nach Artikel 20 zu berücksichtigen.
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^35-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^35-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 #### Art. 36
 
@@ -1499,10 +1501,10 @@ Biozidprodukte und Wirkstoffe zur Verwendung in Biozidprodukten müssen sinngem�
 <sup>3</sup> Biozidprodukte, die mit Lebensmitteln im Sinne des Lebensmittelgesetzes vom 20. Juni 2014[^36-4] oder mit Futtermitteln im Sinne von Artikel 3 Absatz 1 der Futtermittel-Verordnung vom 26. Mai 1999[^36-5] verwechselt werden können, müssen so verpackt sein, dass die Wahrscheinlichkeit einer Verwechslung auf ein Mindestmass beschränkt ist.[^36-6]
 
 [^36-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
-[^36-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^36-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^36-3]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 [^36-4]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Mai 2017 angepasst.
-[^36-5]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Anhang 5 Ziff. 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 19 [5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. Siehe heute: die V vom 26. Okt. 2011 ([SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
+[^36-5]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Anhang 5 Ziff. 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 19, [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. Siehe heute: die V vom 26. Okt. 2011 ([SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
 [^36-6]: Berichtigung vom 23. Dez. 2014 ([AS 2014 4719](https://fedlex.data.admin.ch/eli/oc/2014/799)).
 
 #### Art. 37
@@ -1583,7 +1585,7 @@ Die Angaben nach den Absätzen 3 Buchstaben c, e, f und i–l und 4 Buchstabe b 
 
 [^38-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^38-2]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^38-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^38-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^38-4]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 [^38-5]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^38-6]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
@@ -1654,7 +1656,7 @@ Die Dokumentation umfasst mindestens:
 <sup>5</sup> Die Sicherheitsdatenblätter müssen nach Artikel 23 ChemV aufbewahrt werden.[^40a-4]
 
 [^40a-1]: Eingefügt durch Ziff. I der V vom 28. Febr. 2007 ([AS 2007 851](https://fedlex.data.admin.ch/eli/oc/2007/153)). Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
-[^40a-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^40a-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^40a-3]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 [^40a-4]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
@@ -1690,7 +1692,7 @@ Die Dokumentation umfasst mindestens:
 Für die Aufbewahrung von Biozidprodukten gelten die Artikel 57 und 62 ChemV[^42-2] sinngemäss.
 
 [^42-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^42-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^42-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 #### Art. 43
 
@@ -1706,7 +1708,7 @@ Für die Abgabe von Biozidprodukten gelten:
 <sup>2</sup> Für Biozidprodukte, die Kriterien nach Artikel 11*d* Buchstabe a erfüllen, gelten die Artikel 64 Absatz 1, 65 Absatz 1 und 66 Absatz 1 Buchstabe a ChemV sinngemäss.[^43-3]
 
 [^43-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^43-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^43-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^43-3]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 
 #### Art. 44
@@ -1791,7 +1793,7 @@ Die Werbung für jedes Biozidprodukt muss, gut lesbar und von der eigentlichen W
 <sup>5</sup> Im Übrigen gilt Artikel 60 ChemV[^50-2] und für Warenmuster Artikel 68 ChemV sinngemäss.[^50-3]
 
 [^50-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
-[^50-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^50-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^50-3]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
 ## 7. Kapitel: Vollzug
@@ -1818,7 +1820,7 @@ Die Werbung für jedes Biozidprodukt muss, gut lesbar und von der eigentlichen W
 Die Anmeldestelle und der dazugehörige Steuerungsausschuss sind in Artikel 77 ChemV[^51-2] geregelt.
 
 [^51-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^51-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^51-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 #### Art. 52
 
@@ -1885,7 +1887,7 @@ Sie ersucht die kantonalen Vollzugsbehörden, gegebenenfalls auf Antrag der Beur
 Für die Auskunftsstelle für Vergiftungen gilt Artikel 79 ChemV[^54-2].
 
 [^54-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^54-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^54-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 #### Art. 54a
 
@@ -1924,7 +1926,7 @@ Für die Auskunftsstelle für Vergiftungen gilt Artikel 79 ChemV[^54-2].
 
 <sup>1</sup> Die Gebührenpflicht und die Gebührenbemessung für Verwaltungshandlungen der Bundesvollzugsbehörden nach dieser Verordnung richten sich nach der Chemikaliengebührenverordnung vom 18. Mai 2005[^57-2].
 
-<sup>2</sup> Die Anerkennung einer Unionszulassung nach Artikel 14*a* Absatz 2 ist nicht gebührenpflichtig.
+<sup>2</sup> Die Anerkennung einer Unionszulassung nach Artikel 14*a*<sup>bis</sup> Absatz 2 ist nicht gebührenpflichtig.
 
 <sup>3</sup> Für ein Gesuch um Zulassung und für dessen Änderung hat die Gesuchstellerin einen Kostenvorschuss zu entrichten. Dieser wird von der Anmeldestelle gestützt auf die voraussichtliche Höhe der Gebühren festgelegt.
 
@@ -1968,9 +1970,9 @@ Sie überprüfen, ob:
 
 **Verfügung der kantonalen Vollzugsbehörde**[^59-1]
 
-Ergibt die Kontrolle, dass Verstösse gegen die in Artikel 58 Absatz 2 genannten Bestimmungen vorliegen, so verfügt die zuständige Behörde des Kantons, in dem die Inhaberin einer Zulassung oder die Herstellerin, die Inverkehrbringerin oder die Verwenderin ihren Wohn- oder Geschäftssitz oder ihre Zweigniederlassung hat, die nötigen Massnahmen.
+Ergibt die Kontrolle, dass Verstösse gegen die in Artikel 58 Absatz 2 genannten Bestimmungen vorliegen, so verfügt die zuständige Behörde des Kantons, in dem die Inhaberin einer Zulassung oder die Herstellerin, die Inverkehrbringerin oder die Verwenderin ihren Wohn- oder Geschäftssitz oder ihre Zweigniederlassung hat, die nötigen Massnahmen. Bei Verstössen gegen Artikel 41–49 kann auch die zuständige Behörde des Kantons, in dem die Verstösse begangen wurden, verfügen. Die Kantone koordinieren die nötigen Massnahmen.
 
-[^59-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^59-1]: Fassung gemäss Anhang Ziff. 1 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 3. Abschnitt: Übertragung von Aufgaben und Befugnissen an Dritte
 
@@ -1996,7 +1998,7 @@ Soweit der Vollzug des Gesundheitsschutzes betroffen ist, ist die Übertragung e
 Für die Weitergabe von Daten von Biozidprodukten gelten die Artikel 74–76 ChemV[^61-2] sinngemäss.
 
 [^61-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^61-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^61-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 ## 8. Kapitel: Schlussbestimmungen
 
@@ -2061,24 +2063,30 @@ Die behandelten Waren nach Absatz 1 dürfen bis zum folgenden Zeitpunkt erstmals
 
 [^62d-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Aufgehoben durch Ziff. I der V vom 18. Nov. 2020, mit Wirkung seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
-### 1*a*. Abschnitt:**** Übergangsbestimmung zur Änderung vom 18. November 2020
+### 2. Abschnitt:**** Schlussbestimmungen****
 
-[^chap8-sec1a-1]
+[^chap8-sec2-1][^chap8-sec2-2]
 
-[^chap8-sec1a-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^chap8-sec2-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^chap8-sec2-2]: Fassung gemäss Anhang Ziff. 1 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 #### Art. 62e
+
+**Übergangsbestimmungen zur Änderung vom 18. November 2020**
 
 Die folgenden Biozidprodukte dürfen, wenn sie am 1. Januar 2022 über keinen UFI verfügen, noch längstens bis zum 31. Dezember 2025 ohne Angabe des UFI nach Artikel 14*a* in Verkehr gebracht werden:
 
 - a. Biozidprodukte, die für berufliche Verwenderinnen bestimmt sind;
 - b. Biozidprodukte, die für private Verwenderinnen bestimmt sind und vor dem 1. Januar 2022 in Verkehr gebracht worden sind.
 
-### 2. Abschnitt: Inkrafttreten****
+#### Art. 62f
 
-[^chap8-sec2-1]
+**Übergangsbestimmungen zur Änderung vom 11. März 2022**[^62f-1]
 
-[^chap8-sec2-1]: Eingefügt durch Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
+Biozidprodukte, die nach Artikel 10 Absatz 3 Buchstabe b ChemV[^62f-2] nach bisherigem Recht gekennzeichnet sind, dürfen bis zum 31. Dezember 2025 an Dritte abgegeben werden.
+
+[^62f-1]: Eingefügt durch Anhang Ziff. 1 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^62f-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 63
 
@@ -2177,7 +2185,7 @@ Wird in dieser Verordnung auf Bestimmungen der Verordnung (EU) Nr. 528/2012 verw
 [^annex3-lvlu1-lvl2-2]: [SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
 [^annex3-lvlu1-lvl2-3]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 [^annex3-lvlu1-lvl2-4]: [SR 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)
-[^annex3-lvlu1-lvl2-5]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^annex3-lvlu1-lvl2-5]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 ### 3 Entsprechungen von Ausdrücken zwischen den EU-Rechtsakten, auf die in der Unionsliste genehmigter Wirkstoffe verwiesen wird, und der vorliegenden Verordnung
 
@@ -2284,7 +2292,7 @@ Mit dem Zulassungsgesuch müssen der Anmeldestelle eingereicht werden:
 
 [^annex5-lvlu1-lvl2-lvl23-1]: Verordnung (EG) Nr. 440/2008 der Kommission vom 30. Mai 2008 zur Festlegung von Prüfmethoden gemäss der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), ABl. L 142 vom 31.5.2008, S. 1; zuletzt geändert durch Verordnung (EG) Nr. 260/2014, ABl. L 81 vom 19.3.2014, S. 1.
 [^annex5-lvlu1-lvl2-lvl23-2]: Richtlinie 2010/63/EU des Europäischen Parlaments und des Rates vom 22. September 2010 zum Schutz der für wissenschaftliche Zwecke verwendeten Tiere, ABl. L 276 vom 20.10.2010, S. 33.
-[^annex5-lvlu1-lvl2-lvl23-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^annex5-lvlu1-lvl2-lvl23-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 ### 2.4 Andere Nachweis- und Bestimmungsmethoden
 
@@ -2335,7 +2343,7 @@ Anhang 6*[^t-6]*
 
 Anhang 7*[^t-7]*
 
-(Art. 14 Abs. 2 Bst. c und 14*a*)
+(Art. 14 Abs. 2 Bst. c und 14*a*<sup>bis</sup>)
 
 ## Gesuch um Anerkennung einer Zulassung
 
@@ -2453,7 +2461,7 @@ Die Gesuchsunterlagen müssen folgende Angaben enthalten:
 
 [^annex8-lvlu1-lvl3-lvl31-1]: Siehe Fussnote zu Anhang 5 Ziff. 2.3 Abs. 1.
 [^annex8-lvlu1-lvl3-lvl31-2]: Richtlinie 2010/63/EU des Europäischen Parlaments und des Rates vom 22. September 2010 zum Schutz der für wissenschaftliche Zwecke verwendeten Tiere, ABl. L 276 vom 20.10.2010, S. 33.
-[^annex8-lvlu1-lvl3-lvl31-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^annex8-lvlu1-lvl3-lvl31-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 ### 3.2 Andere Nachweis- und Bestimmungsmethoden
 
