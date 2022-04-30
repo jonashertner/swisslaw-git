@@ -4,13 +4,13 @@ number: "321.13"
 title: Verordnung zu Massnahmen im Kulturbereich gemäss Covid-19-Gesetz
 short: kantonale Covid-19-Kulturverordnung
 language: de
-version: 2022-01-01
-valid_until: 2022-04-30
-version_adopted: 2022-02-15
+version: 2022-05-01
+valid_until: 2022-12-31
+version_adopted: 2022-07-05
 adopted: 2022-02-15
 in_force: 2022-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/321.13"
-pdf: "https://gesetze.nw.ch/api/de/versions/1044/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1045/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1044/pdf_file"
 
 (kantonale Covid-19-Kulturverordnung)
 
-vom 15.02.2022 (Stand 01.01.2022)
+vom 15.02.2022 (Stand 01.05.2022)
 
 Der Regierungsrat von Nidwalden,
 
@@ -93,8 +93,8 @@ beschliesst:
 <sup>1</sup> Für die Einreichung der Gesuche für Ausfallentschädigungen gelten folgende Zwischenfristen:
 
 - 1\. für Schäden zwischen dem 1. Januar 2022 und dem 30. April 2022: bis zum 31.Mai 2022;
-- 2\. für Schäden zwischen dem 1. Mai 2022 und dem 31. August 2022: bis zum 30. September 2022;
-- 3\. für Schäden zwischen dem 1. September 2022 und dem 31. Dezember 2022: bis zum 30. November 2022.
+- 2\. für Schäden zwischen dem 1. Mai 2022 und dem 30. Juni 2022: bis zum 31. Juli 2022.
+- 3\. …
 
 <sup>2</sup> Gesuche für Beiträge an Transformationsprojekte sind bis am 30. November 2022 einzureichen.
 
