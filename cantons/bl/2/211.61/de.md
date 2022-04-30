@@ -4,13 +4,13 @@ number: "211.61"
 title: Grundbuchverordnung Basel-Landschaft
 short: GBV BL
 language: de
-version: 2020-10-01
-valid_until: 2022-04-30
-version_adopted: 2020-09-08
+version: 2022-05-01
+valid_until: 2025-12-31
+version_adopted: 2022-02-01
 adopted: 2018-11-06
 in_force: 2019-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/211.61"
-pdf: "https://bl.clex.ch/api/de/versions/3087/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3661/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3087/pdf_file"
 
 (GBV BL)
 
-Vom 06.11.2018 (Stand 01.10.2020)
+Vom 06.11.2018 (Stand 01.05.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -121,13 +121,15 @@ beschliesst:
 
 <sup>2</sup> Die Sicherheitsdirektion setzt einen privaten Aufgabenträger ein, um den Zugriff auf die Daten des Grundbuchs im Abrufverfahren zu gewährleisten. Sie schliesst mit diesem einen Rahmenvertrag ab.
 
+<sup>2<sup>bis</sup></sup> Zusätzlich können auch kantonseigene Auskunftsportale eingesetzt werden.
+
 <sup>3</sup> Die Sicherheitsdirektion schliesst Vereinbarungen ab mit den:
 
 - a. Ämtern und Dienststellen der kantonalen Verwaltung;
 - b. kantonalen Gerichten;
 - c. Dienstzweigen der Gemeinden und den Gemeindekooperationen gemäss § 34 des Gesetzes vom 28. Mai 1970[^9-1] über die Organisation und die Verwaltung der Gemeinden (Gemeindegesetz).
 
-<sup>4</sup> Der private Aufgabenträger schliesst direkt mit den übrigen Benutzerinnen und Benutzern Vereinbarungen ab.
+<sup>4</sup> Mit den übrigen Personen und Behörden schliesst der private Aufgabenträger für den Zugang zu seinem Auskunftsportal direkt Vereinbarungen ab.
 
 <sup>5</sup> Zugriffe werden vom Auskunftssystem automatisch protokolliert. Die Protokolle werden während 2 Jahren aufbewahrt.
 
@@ -139,7 +141,9 @@ beschliesst:
 
 <sup>1</sup> Die Sicherheitsdirektion bewilligt den erweiterten Zugang auf die Daten des Grundbuchs aufgrund eines schriftlichen und begründeten Gesuchs.
 
-<sup>2</sup> Die Zugriffsberechtigungen werden den Benutzerinnen und Benutzern gestützt auf Anhang I gewährt.
+<sup>2</sup> Die Zugriffsberechtigungen werden den Benutzerinnen und Benutzern gestützt auf Anhang I gewährt. Vorbehalten bleibt Abs. 2<sup>bis</sup>.
+
+<sup>2<sup>bis</sup></sup> Beim Abruf von Eigentumslisten wird der Zugriff auf die Daten gemäss Art. 26 Abs. 1 Bst. a GBV beschränkt.
 
 <sup>3</sup> Mit der Bewilligung des erweiterten Zugangs werden Benutzerkonten vergeben. Diese müssen auf natürliche Personen lauten und dürfen nur von diesen genutzt werden.
 
