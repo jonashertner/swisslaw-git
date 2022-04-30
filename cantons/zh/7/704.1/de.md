@@ -4,11 +4,10 @@ number: "704.1"
 title: Kantonales Geoinformationsgesetz (KGeoIG)
 short: KGeoIG
 language: de
-version: "2018-01-01"
-nachtrag: "99"
-valid_until: 2022-05-01
+version: "2022-05-01"
+nachtrag: "117"
 adopted: 2011-10-24
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-704_1-2011_10_24-2012_11_01-099.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-704_1-2011_10_24-2012_11_01-117.html"
 text: pdf
 ---
 
@@ -69,7 +68,7 @@ Die Begriffsbestimmungen gemäss Art. 3 Abs. 1 GeoIG[^3-1] und Art. 2 der Verord
 
 **1**
 
-- 1\. 1. 18 - 99
+- 1\. 7. 22 - 117
 
 ### 2. Abschnitt: Grundsätze
 
@@ -115,7 +114,7 @@ Die Geodaten gemäss § 3 Abs. 1 sind öffentlich zugänglich und können von je
 
 <sup>2</sup> Für die Geobasisdaten des kommunalen Rechts und die andern Geodaten der Gemeinde trifft der Gemeindevorstand[^9-1] die entsprechenden Festlegungen.
 
-[^9-1]: Fassung gemäss Gemeindegesetz vom 20. April 2015 (OS 72, 183; ABl 2013- 04-19). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 9
+[^9-1]: Fassung gemäss Gemeindegesetz vom 20. April 2015 (OS 72, 183; ABl 2013- 04-19). In Kraft seit 1. Januar 2018.
 [^9-2]: LS 170.4.
 
 #### § 10
@@ -130,11 +129,13 @@ Die Geodaten gemäss § 3 Abs. 1 sind öffentlich zugänglich und können von je
 
 - c. bei Geodaten, die auf der Grundlage von kleinmassstäblichen Referenzdaten erhoben oder dargestellt werden.
 
+[^10-1]: Fassung gemäss G vom 25. Oktober 2021 (OS 77, 194; ABl 2020-12-18). In Kraft seit 1. Mai 2022. 1. 7. 22 - 117 9
+
 #### § 11
 
 **Einwilligung, Nutzungsvorschriften**
 
-<sup>1</sup> Die zuständige Stelle kann den Zugang zu Geodaten gemäss § 3 Abs. 1 sowie deren Nutzung und Weitergabe von ihrer Einwilligung abhängig machen. Bei der gewerblichen Nutzung der Daten der amtlichen Vermessung übernimmt die kantonale Fachstelle diese Aufgabe.
+<sup>1</sup> Die zuständige Stelle kann den Zugang zu Geodaten gemäss § 3 Abs. 1 sowie deren Nutzung und Weitergabe von ihrer Einwilligung abhängig machen.[^10-1]
 
 <sup>2</sup> Der Regierungsrat erlässt für Geodaten gemäss § 3 Abs. 1 Vorschriften über a. die zulässige Nutzung und Weitergabe,
 
@@ -154,7 +155,7 @@ Die Geodaten gemäss § 3 Abs. 1 sind öffentlich zugänglich und können von je
 
 <sup>2</sup> Zur optimalen Vernetzung dieser Geodienste erlässt er Vorschriften über die qualitativen und technischen Anforderungen.
 
-<sup>3</sup> Er kann vorschreiben, dass bestimmte Geobasisdaten allein oder in Verbindung mit anderen Daten, zu denen direkter elektronischer Zugriff besteht, im Abrufverfahren oder auf andere Weise in elektronischer Form zugänglich gemacht werden.
+<sup>3</sup> Er kann vorschreiben, dass bestimmte Geobasisdaten und andere Geodaten allein oder in Verbindung mit anderen Daten, zu denen direkter elektronischer Zugriff besteht, im Abrufverfahren oder auf andere Weise in elektronischer Form zugänglich gemacht werden.[^12-1]
 
 <sup>4</sup> Die zuständige Stelle sorgt für den Aufbau und Betrieb dieser Geodienste.
 
@@ -162,7 +163,7 @@ Die Geodaten gemäss § 3 Abs. 1 sind öffentlich zugänglich und können von je
 
 **3**
 
-- 1\. 1. 18 - 99 § 13. <sup>1</sup> Die Behörden des Kantons und der Gemeinden gewähren sich gegenseitig einfachen und direkten Zugang zu Geodaten.
+- 1\. 7. 22 - 117 § 13. <sup>1</sup> Die Behörden des Kantons und der Gemeinden gewähren sich gegenseitig einfachen und direkten Zugang zu Geodaten.
 
 **Austausch unter Behörden**
 
@@ -176,17 +177,9 @@ Die Geodaten gemäss § 3 Abs. 1 sind öffentlich zugänglich und können von je
 
 § 14.[^12-1] <sup>1</sup> Für den Zugang zu Geodaten des Kantons und der Gemeinden und deren Nutzung sowie für die Nutzung von Geodiensten können Gebühren erhoben werden.
 
-<sup>2</sup> Die Gebühren setzen sich zusammen:
+<sup>2</sup> Der Regierungsrat regelt die Einzelheiten.
 
-- a. bei Nutzung zum Eigengebrauch: höchstens aus den Grenzkosten und einem angemessenen Beitrag an die Infrastruktur und die Datenverwaltung,
-
-- b. bei gewerblicher Nutzung: aus den Grenzkosten und einem der Nutzung angemessenen Beitrag an die Kosten der Infrastruktur und der Datenverwaltung sowie an die Investitions- und Nachführungskosten.
-
-<sup>3</sup> Die Grenzkosten umfassen die festen und variablen Bereitstellungskosten sowie die Transportkosten.
-
-<sup>4</sup> Der Regierungsrat regelt die Einzelheiten.
-
-[^12-1]: Inkrafttreten: 1. Januar 2014 (OS 68, 429; ABl 2013-10-11).
+[^12-1]: Fassung gemäss G vom 25. Oktober 2021 (OS 77, 194; ABl 2020-12-18). In Kraft seit 1. Mai 2022. 1. 7. 22 - 117 9
 
 ### D. Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen
 
@@ -196,25 +189,24 @@ Die Geodaten gemäss § 3 Abs. 1 sind öffentlich zugänglich und können von je
 
 <sup>1</sup> Der Regierungsrat regelt die Organisation des Katasters der öffentlich-rechtlichen Eigentumsbeschränkungen gemäss Art. 16 GeoIG[^hDKatasterderöffe-1] (ÖREB-Kataster) und bezeichnet die für den Kataster verantwortlichen Stellen.
 
-<sup>2</sup> Er erlässt Ausführungsbestimmungen insbesondere über a. die Aufnahme der Daten in den Kataster, deren Nachführung und das Meldewesen,
+<sup>2</sup> Er erlässt Ausführungsbestimmungen insbesondere über[^15-1] a. die Aufnahme der Daten in den Kataster, deren Nachführung und das Meldewesen,
 
 - b. die Darstellung von Zusatzinformationen,
 
 - c. die Erstellung und Abgabe beglaubigter Auszüge,
 
-- d. die Ausstellung nachträglicher Beglaubigungen,
+- d. die amtliche Publikation,
 
-- e. die amtliche Publikation,
+- e. die Kostentragung und die Staatsbeiträge.
 
-- f. die Kostentragung und die Staatsbeiträge.
-
-<sup>3</sup> Er legt fest, welche Geobasisdaten des kantonalen Rechts im Sinne von Art. 16 Abs. 3 GeoIG[^15-1] Gegenstand des Katasters sind.
+<sup>3</sup> Er legt fest, welche Geobasisdaten des kantonalen Rechts und des Bundesrechts im Sinne von Art. 16 Abs. 3 GeoIG[^15-2] Gegenstand des Katasters sind.[^15-1]
 
 <sup>4</sup> Die zuständige Direktion setzt nach Anhörung der Gemeinden ein Programm für die Einführung des Katasters fest und ordnet die Ausführung an.
 
 <sup>5</sup> Sie schliesst Programmvereinbarungen mit dem Bund ab.
 
-[^15-1]: SR 510.62.
+[^15-1]: Fassung gemäss G vom 25. Oktober 2021 (OS 77, 194; ABl 2020-12-18). In Kraft seit 1. Mai 2022. 1. 7. 22 - 117 9
+[^15-2]: SR 510.62.
 
 ### E. Unterstützung bei der Erhebung und Nachführung
 
@@ -226,11 +218,9 @@ Art. 20 GeoIG[^hEUnterstützungbei-1] gilt sinngemäss für Geobasisdaten des ka
 
 ### 3. Abschnitt: Amtliche Vermessung
 
-#### § 17
-
 **Inhalt**
 
-<sup>1</sup> Der Regierungsrat legt die kantonalen Erweiterungen des bundesrechtlich vorgegebenen Inhalts der amtlichen Vermessung fest. Er erlässt Ausführungsbestimmungen insbesondere für a. die Vermarkung und Vermessung der Grundstücksgrenzen und das Erheben der übrigen Bestandteile der amtlichen Vermessung,
+§ 17.[^h3AbschnittAmtlic-1] <sup>1</sup> Der Regierungsrat legt die kantonalen Erweiterungen des bundesrechtlich vorgegebenen Inhalts der amtlichen Vermessung fest. Er erlässt insbesondere Ausführungsbestimmungen für a. die Vermarkung und Vermessung der Grundstücksgrenzen und das Erheben der übrigen Bestandteile der amtlichen Vermessung,
 
 - b. die Nachführung, das Meldewesen und die Verwaltung,
 
@@ -238,13 +228,15 @@ Art. 20 GeoIG[^hEUnterstützungbei-1] gilt sinngemäss für Geobasisdaten des ka
 
 - d. die Kostentragung und die Staatsbeiträge,
 
-- e. den Gebührentarif für die laufende Nachführung und für Zugang und Nutzung,
+- e. den Gebührentarif für die laufende Nachführung,
 
 - f. den Geschäftsverkehr mit dem Grundbuch,
 
 - g. die öffentliche Auflage und das Genehmigungsverfahren.
 
-<sup>2</sup> Der Kanton und die Gemeinden können Luftbilder und Orthofotos erstellen. Die Auflösung darf keine Bestimmung von Personen erlauben.
+<sup>2</sup> Der Kanton und die Gemeinden können weitere Abbildungen der Erdoberfläche, insbesondere Luftbilder, Orthofotos und 3D-Modelle, erstellen. Die Auflösung darf keine Bestimmung von Personen erlauben.
+
+[^h3AbschnittAmtlic-1]: Fassung gemäss G vom 25. Oktober 2021 (OS 77, 194; ABl 2020-12-18). In Kraft seit 1. Mai 2022. 1. 7. 22 - 117 9
 
 #### § 18
 
@@ -256,25 +248,28 @@ Art. 20 GeoIG[^hEUnterstützungbei-1] gilt sinngemäss für Geobasisdaten des ka
 
 <sup>3</sup> Sie genehmigt die amtliche Vermessung.
 
-**5**
-
-- 1\. 1. 18 - 99
-
 ### 4. Abschnitt: Leitungskataster
 
-#### § 19
+**Kantonaler Leitungskataster**
 
-<sup>1</sup> Die Gemeinden legen einen digitalen Leitungskataster an und führen diesen nach. Aus dem Kataster geht die geografische Lage der Leitungen mit ihren ober- und unterirdischen baulichen Anlagen zur Versorgung und Entsorgung hervor.
+§ 19.[^h4AbschnittLeitun-1] <sup>1</sup> Der kantonale Leitungskataster a. gewährt eine Übersicht über den Raum, der durch ober- und unterirdische Leitungen und Trassen sowie die zugehörigen baulichen Objekte belegt wird,
 
-<sup>2</sup> Die Eigentümerinnen und Eigentümer der Leitungen oder die kommunalen und überkommunalen Werke stellen den Gemeinden die Leitungsdaten in geeigneter Form unentgeltlich zur Verfügung.
+- b. trägt zur Koordination für Planungs- und Vollzugsaufgaben bei.
 
-<sup>3</sup> Der Regierungsrat erlässt Ausführungsbestimmungen, insbesondere über den Inhalt des Katasters und die technische Ausgestaltung, den Zugang und die Nutzung sowie die Kostentragung und Gebühren.
+<sup>2</sup> Die zuständige Direktion betreibt eine zentrale Plattform zur Umsetzung des kantonalen Leitungskatasters.
 
-<sup>4</sup> Der Regierungsrat kann für besonders bezeichnete Gebiete und für überkommunal tätige Werke eine abweichende Regelung treffen.
+<sup>3</sup> Der Regierungsrat erlässt Ausführungsbestimmungen, insbesondere über den Inhalt und die technische Ausgestaltung des Katasters sowie den Zugang und die Nutzung.
 
-<sup>5</sup> Die Gemeinden können für den Zugang zu Leitungsdaten eine Gebühr verlangen. Wird der Zugang a. Behörden gewährt, entspricht die Gebühr den Grenzkosten gemäss § 14 Abs. 3,
+<sup>4</sup> Die Eigentümerinnen und Eigentümer der Leitungen stellen dem Kanton die Leitungskatasterinformationen unentgeltlich zur Verfügung und halten diese auf dem aktuellen Stand.
 
-- b. Dritten gewährt, besteht die Gebühr aus den Grenzkosten und einem angemessenen Beitrag an die Kosten der Infrastruktur und der Datenverwaltung.
+**5**
+
+- 1\. 7. 22 - 117 § 19 a.[^h4AbschnittLeitun-2] Die Gemeinden können einen kommunalen Leitungskataster betreiben.
+
+**Kommunaler Leitungskataster**
+
+[^h4AbschnittLeitun-1]: Fassung gemäss G vom 25. Oktober 2021 (OS 77, 194; ABl 2020-12-18). In Kraft seit 1. Mai 2022. 1. 7. 22 - 117 9
+[^h4AbschnittLeitun-2]: Eingefügt durch G vom 25. Oktober 2021 (OS 77, 194; ABl 2020-12-18). In Kraft seit 1. Mai 2022.
 
 ### 5. Abschnitt: Sachbereichsübergreifende Geoinformationssysteme
 
@@ -284,15 +279,21 @@ Art. 20 GeoIG[^hEUnterstützungbei-1] gilt sinngemäss für Geobasisdaten des ka
 
 <sup>2</sup> Der Regierungsrat, auf kommunaler Stufe die Gemeinde, bezeichnet die dafür verantwortliche Stelle und regelt deren Aufgaben.
 
+<sup>3</sup> Kanton und Gemeinden können für den Zugang zu und die Nutzung von sachübergreifenden Geoinformationssystemen Kosten auferlegen.[^20-1]
+
+[^20-1]: Eingefügt durch G vom 25. Oktober 2021 (OS 77, 194; ABl 2020-12-18). In Kraft seit 1. Mai 2022.
+
 ### 6. Abschnitt: Organisation
 
 ### A. Zuständigkeit
+
+[^hAZuständigkeit-1]: Fassung gemäss G vom 25. Oktober 2021 (OS 77, 194; ABl 2020-12-18). In Kraft seit 1. Mai 2022. 1. 7. 22 - 117 9
 
 #### § 21
 
 **Aufgaben des Kantons**
 
-<sup>1</sup> Der Kanton ist insbesondere zuständig für a. die Leitung, Verifikation, Überwachung und Genehmigung der amtlichen Vermessung,
+<sup>1</sup> Der Kanton ist insbesondere zuständig für[^hAZuständigkeit-1] a. die Leitung, Verifikation, Überwachung und Genehmigung der amtlichen Vermessung,
 
 - b. das Erheben, Nachführen und Verwalten der Lage- und Höhenfixpunkte 2,
 
@@ -300,47 +301,40 @@ Art. 20 GeoIG[^hEUnterstützungbei-1] gilt sinngemäss für Geobasisdaten des ka
 
 - d. die periodische Nachführung der Vermessungswerke, die auf der Grundlage der Verordnung vom 18. November 1992 über die amtliche Vermessung (VAV)[^21-1] erhoben oder aktualisiert worden sind,
 
-- e. das Bereitstellen kantonaler Kartenwerke,
+- e. das Bereitstellen kantonaler Geobasisprodukte,
 
 - f. die Leitung und Organisation des ÖREB-Katasters,
 
 - g. besondere Anpassungen des Vermessungswerks und des ÖREB-Katasters von grossem kantonalem oder nationalem Interesse,
 
-- h. die Zugänglichmachung der Daten der amtlichen Vermessung und des ÖREB-Katasters im Internet,
+- h. die Zugänglichmachung der Daten der amtlichen Vermessung, des ÖREB-Katasters und des kantonalen Leitungskatasters im Internet,
 
 - i. das Erheben, Nachführen, Verwalten und Gewährleisten der Verfügbarkeit der Geobasisdaten des Bundesrechts und des kantonalen Rechts in seiner Zuständigkeit,
 
 - j. die Koordination im Bereich der Geodaten und der Geodienste im kantonalen Interesse,
 
-- k. die Führung des kantonalen Geografischen Informationssystems.
+- k. die Führung des kantonalen Geografischen Informationssystems,
+
+- l. die Leitung und den Betrieb der zentralen Plattform zur Umsetzung des kantonalen Leitungskatasters.
 
 <sup>2</sup> Der Kanton kann einzelne dieser Aufgaben an Gemeinden oder Private übertragen.
 
-[^21-1]: SR 211.432.2.
-
-#### § 22
-
 **Aufgaben der Gemeinden**
 
-<sup>1</sup> Die Gemeinden sind zuständig für a. die Durchführung der amtlichen Vermessung, soweit das kantonale Recht nichts anderes bestimmt,
+§ 22.[^21-2] <sup>1</sup> Die Gemeinden sind zuständig für a. die Durchführung der amtlichen Vermessung, soweit das kantonale Recht nichts anderes bestimmt,
 
-- b. das Erheben, Nachführen, Verwalten und Gewährleisten der Verfügbarkeit der Geobasisdaten des Bundesrechts und des kantonalen Rechts in ihrer Zuständigkeit,
-
-- c. den digitalen Leitungskataster.
+- b. das Erheben, Nachführen, Verwalten und Gewährleisten der Verfügbarkeit der Geobasisdaten des Bundesrechts und des kantonalen Rechts in ihrer Zuständigkeit.
 
 <sup>2</sup> Die Gemeinden können einzelne dieser Aufgaben an Private übertragen.
 
-<sup>3</sup> Erfüllt eine Gemeinde ihre Aufgaben nicht zeitgerecht oder qualitativ ungenügend, kann die zuständige Direktion die Ersatzvornahme anordnen. Die Gemeinde ist vorgängig zu ermahnen und anzuhören.
+[^21-1]: SR 211.432.2.
+[^21-2]: Fassung gemäss G vom 25. Oktober 2021 (OS 77, 194; ABl 2020-12-18). In Kraft seit 1. Mai 2022. 1. 7. 22 - 117 9
 
 #### § 23
 
 **Mitwirkung der Gemeinden**
 
 Bei der Vorbereitung von Ausführungsrecht zu diesem Gesetz, das die Zuständigkeit und Interessen der Gemeinden betrifft, stellt der Kanton deren Mitwirkung auf geeignete Weise sicher.
-
-**7**
-
-- 1\. 1. 18 - 99
 
 ### B. Finanzierung
 
@@ -362,13 +356,13 @@ Bei der Vorbereitung von Ausführungsrecht zu diesem Gesetz, das die Zuständigk
 
 <sup>3</sup> Bei Ersterhebungen der amtlichen Vermessung können die nach Abzug der Bundes- und Staatsbeiträge verbleibenden Kosten ganz oder teilweise den beteiligten Grundeigentümerinnen oder Grundeigentümern auferlegt werden.
 
-#### § 26
+**7**
 
-**c. ÖREB-Kataster**
-
-Die Kosten der Eintragung und Nachführung einer Eigentumsbeschränkung trägt die Stelle, die diese beschliesst. Die Kosten können den Verursacherinnen und Verursachern auferlegt werden.
+- 1\. 7. 22 - 117 § 26. Die Kosten der Eintragung und Nachführung einer Eigentumsbeschränkung trägt die Stelle, die diese beschliesst. Die Kosten können den Verursacherinnen und Verursachern auferlegt werden.
 
 #### § 27
+
+**c. ÖREB-Kataster**
 
 **Beiträge**
 
@@ -428,3 +422,7 @@ Der Regierungsrat legt einen Zeitplan fest für a. das Erheben, Nachführen und 
 <sup>4</sup> Die zuständige Direktion legt den Zeitpunkt für den Wechsel bezüglich Lagebezugssystem und -rahmen der Geodaten fest.
 
 [^31-1]: SR 211.432.2.
+
+## Weitere Fussnoten
+
+- [3] Inkrafttreten: 1. Januar 2014 (OS 68, 429; ABl 2013-10-11).
