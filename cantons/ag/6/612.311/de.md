@@ -4,13 +4,13 @@ number: "612.311"
 title: Verordnung über die wirkungsorientierte Steuerung von Aufgaben und Finanzen
 short: VAF
 language: de
-version: 2022-01-01
-valid_until: 2022-04-30
-version_adopted: 2021-11-10
+version: 2022-05-01
+valid_until: 2022-12-31
+version_adopted: 2022-03-02
 adopted: 2012-12-05
 in_force: 2013-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/612.311"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3125/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3187/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3125/pdf_file"
 
 (VAF)
 
-Vom 05.12.2012 (Stand 01.01.2022)
+Vom 05.12.2012 (Stand 01.05.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
