@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. März 2016 betreffend die Überwachung des Post- und
 short: BÜPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/31"
 language: de
-version: 2022-01-01
+version: 2022-05-01
 adopted: 2016-03-18
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2018-31-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2018-31-20220501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220101/de"
 
 (BÜPF)
 
-vom 18. März 2016 (Stand am 1. Januar 2022)
+vom 18. März 2016 (Stand am 1. Mai 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -113,8 +113,10 @@ Das Verarbeitungssystem dient dazu:
 - a. die durch die Überwachung des Fernmeldeverkehrs gesammelten Daten entgegenzunehmen und den berechtigten Behörden zur Verfügung zu stellen;
 - b. die Lesbarkeit und Sicherheit der durch die Überwachung des Fernmeldeverkehrs gesammelten Daten über einen längeren Zeitraum zu erhalten;
 - c. Auskünfte über den Zugang zu Fernmeldediensten zur Verfügung zu stellen;
-- d. Bearbeitungsfunktionen für die im System gespeicherten Daten anzubieten;
+- d.[^7-1] Bearbeitungsfunktionen, einschliesslich Analysefunktionen, wie Visualisierung, Alarmierung oder Sprechererkennung, für die im System gespeicherten Daten anzubieten;
 - e. die Geschäftsabwicklung und -kontrolle zu unterstützen.
+
+[^7-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021 (Anpassung der gesetzlichen Grundlage zur Nutzung der Daten im Verarbeitungssystem des Dienstes ÜPF), in Kraft seit 1. Mai 2022 ([AS 2022 190](https://fedlex.data.admin.ch/eli/oc/2022/190); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 8
 
@@ -125,7 +127,11 @@ Das Verarbeitungssystem enthält:
 - a. den Inhalt des Fernmeldeverkehrs der überwachten Person;
 - b. die Daten, aus denen hervorgeht, mit wem, wann, wie lange und von wo aus die überwachte Person Verbindung hat oder gehabt hat, sowie die technischen Merkmale der entsprechenden Verbindung (Randdaten des Fernmeldeverkehrs);
 - c. Angaben über Fernmeldedienste;
-- d. die Daten, insbesondere Personendaten, die der Dienst für die Geschäftsabwicklung und -kontrolle benötigt.
+- d.[^8-1] die Daten, insbesondere Personendaten, die für die Geschäftsabwicklung und -kontrolle sowie für die Bearbeitungsfunktionen benötigt werden;
+- e.[^8-2] Ergebnisse aus der Bearbeitung von Daten, die im Rahmen einer Überwachung des Fernmeldeverkehrs nach diesem Gesetz erhoben wurden, einschliesslich der Analyse, wie Visualisierung, Alarmierung oder Sprechererkennung.
+
+[^8-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021 (Anpassung der gesetzlichen Grundlage zur Nutzung der Daten im Verarbeitungssystem des Dienstes ÜPF), in Kraft seit 1. Mai 2022 ([AS 2022 190](https://fedlex.data.admin.ch/eli/oc/2022/190); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^8-2]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021 (Anpassung der gesetzlichen Grundlage zur Nutzung der Daten im Verarbeitungssystem des Dienstes ÜPF), in Kraft seit 1. Mai 2022 ([AS 2022 190](https://fedlex.data.admin.ch/eli/oc/2022/190); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 9
 
@@ -689,19 +695,10 @@ Die Aufhebung und die Änderung anderer Erlasse werden im Anhang geregelt.
 
 Unabhängig davon, ob zuerst dieses Gesetz oder das Nachrichtendienstgesetz vom 25. September 2015*[^46-1]* in Kraft tritt, lauten mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten die nachfolgend aufgeführten Bestimmungen wie folgt:
 
-<sup>1.</sup> Bundesgesetz vom 18. März 2016**[^46-2]** betreffend die Überwachung des Post- und Fernmeldeverkehrs
-
-...[^46-3]
-
-<sup>2.</sup> Nachrichtendienstgesetz vom 25. September 2015**[^46-4]**
-
-...[^46-5]
+…[^46-2]
 
 [^46-1]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^46-2]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^46-3]: Diese Bestimmungen sind im Text integriert.
-[^46-4]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^46-5]: Die Bestimmungen können unter [AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31)konsultiert werden.
+[^46-2]: Die Bestimmungen können unter [AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31)konsultiert werden.
 
 #### Art. 47
 
@@ -729,7 +726,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...**[^annexu1-lvlu1-2]**
+…**[^annexu1-lvlu1-2]**
 
 [^annexu1-lvlu1-1]: [[AS 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); [2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417)Ziff. I 2; [2004 3693](https://fedlex.data.admin.ch/eli/oc/2004/511); [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)Anhang Ziff. 3; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Anhang 1 Ziff. II 26, [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)Anhang Ziff. II 14; [2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)Anhang Ziff. II 12]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31)konsultiert werden.

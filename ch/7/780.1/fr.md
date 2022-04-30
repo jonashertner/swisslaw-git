@@ -4,11 +4,11 @@ title: Loi fédérale du 18 mars 2016 sur la surveillance de la correspondance p
 short: LSCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/31"
 language: fr
-version: 2022-01-01
+version: 2022-05-01
 adopted: 2016-03-18
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-31-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-2018-31-20220501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220101/fr"
 
 (LSCPT)[^t-1]
 
-du 18 mars 2016 (Etat le 1<sup>er</sup> janvier 2022)
+du 18 mars 2016 (Etat le 1<sup>er</sup> mai 2022)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -115,8 +115,10 @@ Le système de traitement sert à:
 - a. réceptionner les données collectées lors de la surveillance de la correspondance par télécommunication et à les mettre à la disposition des autorités autorisées à y accéder;
 - b. maintenir, pour une longue durée, la lisibilité et la sécurité des données collectées lors de la surveillance de la correspondance par télécommunication;
 - c. mettre à disposition les renseignements sur les accès aux services de télécommunication;
-- d. offrir des fonctions de traitement des données contenues dans le système;
+- d.[^7-1] offrir des fonctions de traitement des données contenues dans le système, y compris des fonctions d’analyse, telles que la visualisation, le déclenchement d’alertes ou la reconnaissance du locuteur;
 - e. faciliter l’exécution et le suivi des affaires.
+
+[^7-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021 (Adaptation de la base légale concernant l’utilisation des données du système de traitement du Service SCPT), en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 190](https://fedlex.data.admin.ch/eli/oc/2022/190); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 8
 
@@ -127,7 +129,11 @@ Le système de traitement contient:
 - a. le contenu des télécommunications de la personne surveillée;
 - b. les données indiquant avec qui, quand, combien de temps et d’où la personne surveillée a été ou est en communication ainsi que les caractéristiques techniques de la communication considérée (données secondaires de télécommunication);
 - c. les données sur les services de télécommunication;
-- d. les données, en particulier les données personnelles, qui sont nécessaires au Service pour assurer l’exécution et le suivi des affaires.
+- d.[^8-1] les données, en particulier les données personnelles, qui sont nécessaires pour assurer l’exécution et le suivi des affaires et pour remplir les fonctions de traitement;
+- e.[^8-2] les résultats du traitement des données collectées lors de la surveillance de la correspondance par télécommunication au sens de la présente loi, y compris ceux de l’analyse, telle que la visualisation, le déclenchement d’alertes ou la reconnaissance du locuteur.
+
+[^8-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021 (Adaptation de la base légale concernant l’utilisation des données du système de traitement du Service SCPT), en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 190](https://fedlex.data.admin.ch/eli/oc/2022/190); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^8-2]: Introduite par le ch. I de la LF du 1<sup>er</sup> oct. 2021 (Adaptation de la base légale concernant l’utilisation des données du système de traitement du Service SCPT), en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 190](https://fedlex.data.admin.ch/eli/oc/2022/190); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 9
 
@@ -691,18 +697,10 @@ L’abrogation et la modification d’autres actes sont réglées dans l’annex
 
 Quel que soit l’ordre dans lequel la présente loi et la loi du 25 septembre 2015 sur le renseignement*[^46-1]* entrent en vigueur, à l’entrée en vigueur du second de ces actes ou à leur entrée en vigueur simultanée, les dispositions ci-après auront la teneur suivante:
 
-<sup>1.</sup> Loi fédérale du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication
-
 …[^46-2]
 
-<sup>2.</sup> Loi fédérale du 25 septembre 2015 sur le renseignement**[^46-3]**
-
-…[^46-4]
-
 [^46-1]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^46-2]: Les disp. ont été insérées dans le présent texte
-[^46-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^46-4]: Les mod. peuvent être consultées au [RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31).
+[^46-2]: Les mod. peuvent être consultées au [RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31).
 
 #### Art. 47
 
@@ -732,5 +730,5 @@ Les actes mentionnés ci-après sont modifiés comme suit:
 
 …[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[RO 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467), [2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417)ch. I 2, [2004 3693](https://fedlex.data.admin.ch/eli/oc/2004/511), [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)annexe ch. 3, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)annexe 1 ch. II 26 [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)annexe ch. II 14, [2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)annexe ch. II 12]
+[^annexu1-lvlu1-1]: [[RO 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); [2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417)ch. I 2; [2004 3693](https://fedlex.data.admin.ch/eli/oc/2004/511); [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)annexe ch. 3; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)annexe 1 ch. II 26, [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)annexe ch. II 14; [2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)annexe ch. II 12]
 [^annexu1-lvlu1-2]: Les mod. peuvent être consultées au [RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31).

@@ -4,11 +4,11 @@ title: Federal Act of 18 March 2016 on the Surveillance of Post and Telecommunic
 short: SPTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/31"
 language: en
-version: 2022-01-01
+version: 2022-05-01
 adopted: 2016-03-18
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2018-31-20220101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20220501/en/xml/fedlex-data-admin-ch-eli-cc-2018-31-20220501-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220501/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (SPTA)
 
-of 18 March 2016 (Status as of 1 January 2022)
+of 18 March 2016 (Status as of 1 May 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -115,8 +115,10 @@ The processing system serves to:
 - a. receive the data collected by telecommunications surveillance and make it available to the authorised authorities;
 - b. maintain over an extended period the legibility and security of the data collected by telecommunications surveillance;
 - c. provide information on access to telecommunications services;
-- d. offer processing functions for the data stored in the system;
+- d.[^7-1] offer processing functions for the data stored in the system, including analysis functions such as visualisation, alerting or speaker recognition;
 - e. support business processing and controls.
+
+[^7-1]: Amended by No I of the FA of 1 Oct 2021 (Amendment of Legislation on Using Data in the PTSS Processing System), in force since 1 May 2022 ([AS 2022 190](https://fedlex.data.admin.ch/eli/oc/2022/190); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art.8
 
@@ -127,7 +129,11 @@ The processing system holds:
 - a. the content of communications to and from the person under surveillance;
 - b. the data that indicates with whom, when, for how long, and from where the person under surveillance is or has been communicating, as well as the technical characteristics of the communication concerned (secondary telecommunications data);
 - c. information on telecommunications services;
-- d. the data, in particular the personal data, required by the Service for the business processing and control.
+- d.[^8-1] the data, in particular the personal data, required by the Service for business processing and control and for processing functions;
+- e.[^8-2] results from the processing of data that is collected during telecommunications surveillance under this Act, including analysis such as visualisation, alerting or speaker recognition.
+
+[^8-1]: Amended by No I of the FA of 1 Oct 2021 (Amendment of Legislation on Using Data in the PTSS Processing System), in force since 1 May 2022 ([AS 2022 190](https://fedlex.data.admin.ch/eli/oc/2022/190); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^8-2]: Inserted by No I of the FA of 1 Oct 2021 (Amendment of Legislation on Using Data in the PTSS Processing System), in force since 1 May 2022 ([AS 2022 190](https://fedlex.data.admin.ch/eli/oc/2022/190); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art.9
 
@@ -691,19 +697,10 @@ The repeal and amendment of other legislation are regulated in the Annex.
 
 *Regardless of whether this Act or the Intelligence Service Act of 25 September 2015**[^46-1]* *comes into effect first, the provisions below shall on the commencement of the Act that comes into force later or on commencement of both Acts at the same time be worded as follows:*
 
-<sup>1.</sup> Federal Act of 18 March 2016**[^46-2]** on the Surveillance of Post and Telecommunications
-
-…[^46-3]
-
-<sup>2.</sup> Intelligence Service Act of 25 September 2015**[^46-4]**
-
-…[^46-5]
+…[^46-2]
 
 [^46-1]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^46-2]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^46-3]: These provisions are integrated into the text.
-[^46-4]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^46-5]: The provisions may be consulted under [AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31).
+[^46-2]: The provisions may be consulted under [AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31).
 
 #### Art. 47
 

@@ -4,18 +4,18 @@ title: Legge federale del 18 marzo 2016 sulla sorveglianza della corrispondenza 
 short: LSCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/31"
 language: it
-version: 2022-01-01
+version: 2022-05-01
 adopted: 2016-03-18
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2018-31-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20220501/it/xml/fedlex-data-admin-ch-eli-cc-2018-31-20220501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (LSCPT)
 
-del 18 marzo 2016 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 18 marzo 2016 (Stato 1° maggio 2022) (Stato 1° maggio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -111,8 +111,10 @@ Il sistema di trattamento serve a:
 - a. ricevere i dati raccolti mediante la sorveglianza del traffico delle telecomunicazioni e metterli a disposizione delle autorità legittimate ad accedervi;
 - b. mantenere per lungo tempo la leggibilità e la sicurezza dei dati raccolti mediante la sorveglianza del traffico delle telecomunicazioni;
 - c. mettere a disposizione informazioni sull’accesso ai servizi di telecomunicazione;
-- d. offrire funzioni per il trattamento dei dati memorizzati nel sistema;
+- d.[^7-1] offrire funzioni per il trattamento dei dati memorizzati nel sistema, comprese funzioni di analisi come la visualizzazione, l’avviso di eventi particolari o il riconoscimento del parlante;
 - e. sostenere lo svolgimento e il controllo delle pratiche.
+
+[^7-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021 (Adeguamento delle basi legali per l’utilizzazione dei dati del sistema di trattamento del Servizio SCPT), in vogore dal 1° mag. 2022 ([RU 2022 190](https://fedlex.data.admin.ch/eli/oc/2022/190); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 8
 
@@ -123,7 +125,11 @@ Il sistema di trattamento contiene:
 - a. il contenuto del traffico delle telecomunicazioni della persona sorvegliata;
 - b. i dati che indicano con quali persone la persona sorvegliata è o è stata in contatto, nonché il momento, la durata, l’origine e le caratteristiche tecniche delle relative telecomunicazioni (metadati delle telecomunicazioni);
 - c. indicazioni sui servizi di telecomunicazione;
-- d. i dati, in particolare i dati personali, necessari al Servizio per eseguire e controllare le pratiche.
+- d.[^8-1] i dati, in particolare i dati personali, necessari per lo svolgimento e il controllo delle pratiche nonché per le funzioni di trattamento;
+- e. [^8-2] i risultati ottenuti dal trattamento dei dati raccolti mediante la sorveglianza del traffico delle telecomunicazioni ai sensi della presente legge, comprese le analisi come la visualizzazione, l’avviso di eventi particolari o il riconoscimento del parlante.
+
+[^8-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021 (Adeguamento delle basi legali per l’utilizzazione dei dati del sistema di trattamento del Servizio SCPT), in vogore dal 1° mag. 2022 ([RU 2022 190](https://fedlex.data.admin.ch/eli/oc/2022/190); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^8-2]: Introdotta dal n. I della LF del 1° ott. 2021 (Adeguamento delle basi legali per l’utilizzazione dei dati del sistema di trattamento del Servizio SCPT), in vogore dal 1° mag. 2022 ([RU 2022 190](https://fedlex.data.admin.ch/eli/oc/2022/190); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 9
 
@@ -685,19 +691,10 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 Indipendentemente dal fatto che entri prima in vigore la presente legge o la legge federale del 25 settembre 2015*[^46-1]* sulle attività informative, alla seconda di queste entrate in vigore o in caso di entrata in vigore simultanea delle due leggi le disposizioni qui appresso avranno il tenore seguente:
 
-<sup>1.</sup> Legge federale del 18 marzo 2016**[^46-2]** sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni
-
-...[^46-3]
-
-<sup>2.</sup> Legge federale del 25 settembre 2015**[^46-4]** sulle attività informative
-
-...[^46-5]
+...[^46-2]
 
 [^46-1]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^46-2]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^46-3]: Le disposizioni sono integrate nel presente testo.
-[^46-4]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^46-5]: Le disposizioni possono essere consultate alla [RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31).
+[^46-2]: Le mod. possono essere consultate alla [RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31).
 
 #### Art. 47
 
