@@ -4,20 +4,20 @@ title: "Ordonnance du DFJP du 13 août 2015 relative aux autorisations et aux d�
 short: OA-DFJP
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/518"
 language: fr
-version: 2021-01-01
+version: 2022-05-01
 adopted: 2015-08-13
 in_force: 2015-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/518/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-518-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/518/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/518/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-2015-518-20220501-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/518/20220501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFJP relative aux autorisations et aux décisions préalables dans le domaine du droit des étrangers soumises à la procédure d’approbation
 
-(Ordonnance du DFJP concernant l’approbation, OA-DFJP)**[^t-1]**
+(Ordonnance du DFJP concernant l’approbation, OA-DFJP)[^t-1]
 
-du 13 août 2015 (Etat le 1<sup>er</sup> janvier 2021)
+du 13 août 2015 (Etat le 1<sup>er</sup> mai 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 28 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)).
 
@@ -71,12 +71,12 @@ Sont soumis au SEM pour approbation:
 - d. l’octroi anticipé de l’autorisation d’établissement en vertu l’art. 34, al. 3 et 4, LEI;
 - e. l’octroi immédiat de l’autorisation d’établissement à un professeur;
 - f.[^3-2] l’octroi d’une autorisation de séjour en vertu de l’art. 8 de la Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés fondamentales[^3-3];
-- g.[^3-4] l’octroi d’une autorisation de séjour en remplacement d’une autorisation d’établissement révoquée (art. 63, al. 2, LEI).
+- g.[^3-4] …
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 19 mars 2018, en vigueur depuis le 15 avr. 2018 ([RO 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
 [^3-2]: Introduite par le ch. I de l’O du DFJP du 19 mars 2018, en vigueur depuis le 15 avr. 2018 ([RO 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
 [^3-3]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^3-4]: Introduite par le ch. I de l’O du DFJP du 28 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)).
+[^3-4]: Introduite par le ch. I de l’O du DFJP du 28 oct. 2020 ([RO 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)). Abrogée par le ch. I de l’O du DFJP du 6 avr. 2022, avec effet au 1<sup>er</sup> mai 2022 ([RO 2022 238](https://fedlex.data.admin.ch/eli/oc/2022/238)).
 
 #### Art. 4
 

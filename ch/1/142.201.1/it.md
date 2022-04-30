@@ -4,20 +4,20 @@ title: Ordinanza del DFGP del 13 agosto 2015 concernente i permessi e le decisio
 short: OA-DFGP
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/518"
 language: it
-version: 2021-01-01
+version: 2022-05-01
 adopted: 2015-08-13
 in_force: 2015-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/518/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2015-518-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/518/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/518/20220501/it/xml/fedlex-data-admin-ch-eli-cc-2015-518-20220501-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/518/20220501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFGP concernente i permessi e le decisioni preliminari nel diritto in materia di stranieri sottoposti alla procedura di approvazione
 
-(Ordinanza del DFGP concernente l’approvazione, OA-DFGP)**[^t-1]**
+(Ordinanza del DFGP concernente l’approvazione, OA-DFGP)[^t-1]
 
-del 13 agosto 2015 (Stato 1° gennaio 2021)
+del 13 agosto 2015 (Stato 1° maggio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 28 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)).
 
@@ -72,12 +72,12 @@ Sono sottoposti per approvazione alla SEM:
 - d. il rilascio anticipato del permesso di domicilio in virtù dell’articolo 34 capoversi 3 e 4 LStrI;
 - e. il rilascio immediato del permesso di domicilio a professori;
 - f.[^3-2] il rilascio di un permesso di dimora in virtù dell’articolo 8 della Convenzione del 4 novembre 1950[^3-3] per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali;
-- g.[^3-4] il rilascio di un permesso di dimora in sostituzione di un permesso di domicilio revocato (art. 63 cpv. 2 LStrI).
+- g.[^3-4] ...
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del DFGP del 19 mar. 2018, in vigore dal 15 apr. 2018 ([RU 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
 [^3-2]: Introdotta dal n. I dell’O del DFGP del 19 mar. 2018, in vigore dal 15 apr. 2018 ([RU 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
 [^3-3]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^3-4]: Introdotta dal n. I dell’O del DFGP del 28 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)).
+[^3-4]: Introdotta dal n. I dell’O del DFGP del 28 ott. 2020 ([RU 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)). Abrogata dal n. I dell’O del DFGP del 6 apr. 2022, con effetto dal 1° mag. 2022 ([RU 2022 238](https://fedlex.data.admin.ch/eli/oc/2022/238)).
 
 #### Art. 4
 

@@ -4,20 +4,20 @@ title: Verordnung des EJPD vom 13. August 2015 über die dem Zustimmungsverfahre
 short: ZV-EJPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/518"
 language: de
-version: 2021-01-01
+version: 2022-05-01
 adopted: 2015-08-13
 in_force: 2015-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/518/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2015-518-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/518/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/518/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2015-518-20220501-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/518/20220501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EJPD über die dem Zustimmungsverfahren unterliegenden ausländerrechtlichen Bewilligungen und Vorentscheide
 
-(Verordnung des EJPD über das ausländerrechtliche Zustimmungsverfahren, ZV-EJPD)**[^t-1]**
+(Verordnung des EJPD über das ausländerrechtliche Zustimmungsverfahren, ZV-EJPD)[^t-1]
 
-vom 13. August 2015 (Stand am 1. Januar 2021)
+vom 13. August 2015 (Stand am 1. Mai 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 28. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)).
 
@@ -72,12 +72,12 @@ Dem SEM ist zur Zustimmung zu unterbreiten:
 - d. die vorzeitige Erteilung der Niederlassungsbewilligung nach Artikel 34 Absätze 3 und 4 AIG;
 - e. die sofortige Erteilung der Niederlassungsbewilligung an Professorinnen und Professoren;
 - f.[^3-2] die Erteilung einer Aufenthaltsbewilligung gestützt auf Artikel 8 der Konvention vom 4. November 1950[^3-3] zum Schutze der Menschenrechte und Grundfreiheiten;
-- g.[^3-4] die Erteilung einer Aufenthaltsbewilligung zur Ersetzung einer widerrufenen Niederlassungsbewilligung (Art. 63 Abs. 2 AIG).
+- g.[^3-4] ….
 
 [^3-1]: Fassung gemäss Ziff. I der V des EJPD vom 19. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
 [^3-2]: Eingefügt durch Ziff. I der V des EJPD vom 19. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
 [^3-3]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^3-4]: Eingefügt durch Ziff. I der V des EJPD vom 28. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)).
+[^3-4]: Eingefügt durch Ziff. I der V des EJPD vom 28. Okt. 2020 ([AS 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)). Aufgehoben durch Ziff. I der V des EJPD vom 6. April 2022, mit Wirkung seit 1. Mai 2022 ([AS 2022 238](https://fedlex.data.admin.ch/eli/oc/2022/238)).
 
 #### Art. 4
 
