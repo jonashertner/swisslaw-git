@@ -4,7 +4,7 @@ number: "935.31.1"
 title: "RÈGLEMENT du 09.12.2009 d'exécution de la loi du 26 mars 2002 sur les auberges et les débits de boissons (RLADB)"
 short: RLADB
 language: fr
-version: 2018-01-01
+version: 2022-05-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/935.31.1?id=aef50c2b-75d1-4f80-9d0f-eb046d1df3e0"
 ---
 
@@ -565,15 +565,15 @@ arrête
 
 **Vente d'alcool aux mineurs [^sectionSectionII-1]**
 
-<sup>1</sup> Conformément à l'article 11 de l'ordonnance fédérale sur les denrées alimentaires et les objets usuels[^44-1] , les titulaires d'une licence permettant de vendre et de servir des boissons alcooliques ont l'obligation d'afficher, en nombre suffisant et bien en évidence dans l'établissement ou dans les locaux de vente, au rayon des boissons alcooliques et à la caisse, une mise en garde rappelant qu'en application de la loi fédérale[^44-2] , la vente de boissons alcooliques est interdite aux jeunes de moins de 16 ans révolus et que la vente de boissons alcooliques distillées ou considérées comme telles (notamment les alcopops et les prémix) est interdite aux jeunes de moins de 18 ans révolus.
+<sup>1</sup> Les titulaires d'une licence permettant de vendre et de servir des boissons alcooliques ont l'obligation d'afficher une mise en garde rappelant les dispositions fédérales en matière de vente d'alcool aux mineurs.
 
-[^sectionSectionII-1]: Modif. 1 du 01.07.2015: Modification Al. 1; entrée en vigueur au 01.07.2015 · Modif. 5 du 30.03.2022: Modification Al. 1; entrée en vigueur au 01.05.2022; Introduction Al. 2; entrée en vigueur au 01.05.2022; Introduction Art. 67c; entrée en vigueur au 01.05.2022; Introduction Art. 67d; entrée en vigueur au 01.05.2022; Introduction Art. 67e; entrée en vigueur au 01.05.2022; Introduction Art. 67f; entrée en vigueur au 01.05.2022; Introduction Art. 67g; entrée en vigueur au 01.05.2022
-[^44-1]: Ordonnance du 23.11.2005 sur les denrées alimentaires et les objets usuels (RS 817.02)
-[^44-2]: Loi fédérale du 21.06.1932 sur l’alcool (RS 680)
+<sup>2</sup> Cet affichage doit être apposé en nombre suffisant et bien en évidence dans l'établissement ou dans les locaux de vente, au rayon des boissons alcooliques et à la caisse.
+
+[^sectionSectionII-1]: Modif. 1 du 01.07.2015: Modification Al. 1; entrée en vigueur au 01.07.2015 · Modif. 5 du 30.03.2022: Modification Al. 1; entrée en vigueur au 01.05.2022; Introduction Al. 2; entrée en vigueur au 01.05.2022
 
 #### Art. 45
 
-**Protection de la jeunesse (art. 51 de la loi) [^44-3]**
+**Protection de la jeunesse (art. 51 de la loi) [^44-1]**
 
 <sup>1</sup> Un avis placé à l'entrée et à l'intérieur des night-clubs rappelle l'interdiction d'entrée aux mineurs et l'obligation pour toute personne d'être en mesure d'établir son âge exact.
 
@@ -587,7 +587,7 @@ arrête
 
 <sup>5</sup> Les titulaires d'autorisations d'exploiter peuvent fixer des restrictions d'âges plus sévères, qui doivent faire l'objet d'un affichage spécifique.
 
-[^44-3]: Modif. 1 du 01.07.2015: Modification Al. 1,3 a; entrée en vigueur au 01.07.2015; Introduction Al. 2bis; entrée en vigueur au 01.07.2015 · Modif. 4 du 20.12.2017: Abrogation Al. 3; entrée en vigueur au 01.01.2018
+[^44-1]: Modif. 1 du 01.07.2015: Modification Al. 1,3 a; entrée en vigueur au 01.07.2015; Introduction Al. 2bis; entrée en vigueur au 01.07.2015 · Modif. 4 du 20.12.2017: Abrogation Al. 3; entrée en vigueur au 01.01.2018
 
 #### Art. 46
 
@@ -601,20 +601,19 @@ arrête
 
 #### Art. 47
 
-**Jeux autorisés (art. 52, al. 2 de la loi) [^sectionSectionIII-1]**
+**Autres jeux autorisés (art. 52, al.2 de la loi) [^sectionSectionIII-1]**
 
-<sup>1</sup> Sont seuls autorisés les jeux d'adresse non automatiques. Les dispositions fédérales sur les jeux de hasard et les maisons de jeu [^47-1] sont réservées.
+<sup>1</sup> Par autres jeux au sens de la loi on entend les jeux qui échappent au champ d'application de la législation fédérale sur les jeux d'argent, et en particulier les jeux d'adresse qui ne sont exploités ni de manière automatisée, ni au niveau intercantonal, ni en ligne.
 
-[^sectionSectionIII-1]: Modif. 5 du 30.03.2022: Introduction Art. 44, Al. 2; entrée en vigueur au 01.05.2022; Modification tArt; entrée en vigueur au 01.05.2022; Modification Al. 1; entrée en vigueur au 01.05.2022; Introduction Art. 67c; entrée en vigueur au 01.05.2022; Introduction Art. 67d; entrée en vigueur au 01.05.2022; Introduction Art. 67e; entrée en vigueur au 01.05.2022; Introduction Art. 67f; entrée en vigueur au 01.05.2022; Introduction Art. 67g; entrée en vigueur au 01.05.2022
-[^47-1]: Loi fédérale du 18.12.1998 sur les jeux de hasard et les maisons de jeu (RS 935.52)
+[^sectionSectionIII-1]: Modif. 5 du 30.03.2022: Modification tArt; entrée en vigueur au 01.05.2022; Modification Al. 1; entrée en vigueur au 01.05.2022
 
 #### Art. 48
 
-**Enjeu minime (art. 52, al. 2 de la loi) [^47-2]**
+**Enjeu minime (art. 52, al. 2 de la loi) [^47-1]**
 
-<sup>1</sup> Constitue un enjeu minime, celui qui correspond à la valeur totale des consommations se trouvant sur la table, mais au plus à Fr. 50.-.
+<sup>1</sup> Par enjeu minime, au sens de la loi, on entend un montant d'au maximum CHF 100.- de mise de départ par jour et par personne.
 
-[^47-2]: Modif. 5 du 30.03.2022: Introduction Art. 44, Al. 2; entrée en vigueur au 01.05.2022; Modification Al. 1; entrée en vigueur au 01.05.2022; Introduction Art. 67c; entrée en vigueur au 01.05.2022; Introduction Art. 67d; entrée en vigueur au 01.05.2022; Introduction Art. 67e; entrée en vigueur au 01.05.2022; Introduction Art. 67f; entrée en vigueur au 01.05.2022; Introduction Art. 67g; entrée en vigueur au 01.05.2022
+[^47-1]: Modif. 5 du 30.03.2022: Modification Al. 1; entrée en vigueur au 01.05.2022
 
 ### Section IV Tranquilité publique (art. 53 de la loi) - diffusion de musiques, présentation de retransmissions sportives ou culturelles et animations musicales
 
@@ -632,16 +631,15 @@ arrête
 
 #### Art. 49
 
-**Diffusion de musique [^48a-1]**
+**Diffusion de musique et utilisation de laser [^48a-1]**
 
-<sup>1</sup> Toute diffusion de musique dans un établissement au bénéfice d'une licence, ainsi que l'exploitation d'une installation laser, doivent respecter les prescriptions fixées dans l'ordonnance fédérale sur la protection contre les nuisances sonores et les rayons laser[^49-1], lors de manifestations (ordonnance son et laser, OSLa).
+<sup>1</sup> Toute diffusion de musique dans un établissement au bénéfice d'une licence, ainsi que l'exploitation d'une installation laser, doivent respecter les dispositions fédérales en matière de protection contre les dangers liés au rayonnement non ionisant et au son.
 
-[^48a-1]: Modif. 1 du 01.07.2015: Modification Al. 1; entrée en vigueur au 01.07.2015 · Modif. 5 du 30.03.2022: Introduction Art. 44, Al. 2; entrée en vigueur au 01.05.2022; Modification tArt; entrée en vigueur au 01.05.2022; Modification Al. 1; entrée en vigueur au 01.05.2022; Introduction Art. 67c; entrée en vigueur au 01.05.2022; Introduction Art. 67d; entrée en vigueur au 01.05.2022; Introduction Art. 67e; entrée en vigueur au 01.05.2022; Introduction Art. 67f; entrée en vigueur au 01.05.2022; Introduction Art. 67g; entrée en vigueur au 01.05.2022
-[^49-1]: Ordonnance du 24.01.1996 sur la protection contre les nuisances sonores et les rayons laser, lors de manifestations (RS 814.49)
+[^48a-1]: Modif. 1 du 01.07.2015: Modification Al. 1; entrée en vigueur au 01.07.2015 · Modif. 5 du 30.03.2022: Modification tArt; entrée en vigueur au 01.05.2022; Modification Al. 1; entrée en vigueur au 01.05.2022
 
 #### Art. 50
 
-**Demande d'autorisation [^49-2]**
+**Demande d'autorisation [^49-1]**
 
 <sup>1</sup> Tout établissement au bénéfice d'une licence autre que celles de discothèque et de night-club souhaitant diffuser de la musique, présenter des retransmissions sportives ou culturelles sur écran ou effectuer des animations musicales (concerts, disc-jockey, karaoké, etc.) doit déposer une demande d'autorisation auprès de la municipalité, avec copie au département.
 
@@ -649,7 +647,7 @@ arrête
 
 <sup>3</sup> Si l'établissement est déjà en cours d'exploitation, la demande d'autorisation doit être déposée préalablement à toute diffusion de musique, retransmission sportive ou culturelle sur écran ou animation musicale.
 
-[^49-2]: Modif. 1 du 01.07.2015: Modification Al. 1,2; entrée en vigueur au 01.07.2015
+[^49-1]: Modif. 1 du 01.07.2015: Modification Al. 1,2; entrée en vigueur au 01.07.2015
 
 #### Art. 51
 
@@ -884,6 +882,66 @@ arrête
 
 [^67a-2]: Modif. 1 du 01.07.2015: Introduction Art. 67b; entrée en vigueur au 01.07.2015
 [^67b-1]: Loi du 26.03.2002 sur les auberges et les débits de boissons ( [BLV 935.31](https://prestations.vd.ch/pub/blv-publication/actes/consolide/935.31?id=2b5cc544-8cd7-4ab7-bd40-7177bdce3177))
+[^67b-2]: Modif. 5 du 30.03.2022: Introduction ; entrée en vigueur au 01.05.2022
+
+## Titre XIIbis Protection des données
+
+[^67b-2]
+
+#### Art. 67c
+
+**Protection des données [^titleTitreXIIbis-1]**
+
+<sup>1</sup> Les autorités cantonales et communales compétentes pour traiter les données personnelles, y compris sensibles, s'assurent de l'utilité de la démarche dans le cadre de l'accomplissement de leurs tâches
+
+[^titleTitreXIIbis-1]: Modif. 5 du 30.03.2022: Introduction Art. 67c; entrée en vigueur au 01.05.2022
+
+#### Art. 67d
+
+**Catégories des données personnelles [^67c-1]**
+
+<sup>1</sup> Outre les données, y compris sensibles, prévues à l'article 58b, alinéa 3 LADB, les catégories de données personnelles traitées sont :
+
+- a. Les noms, prénoms, date de naissance, lieu de naissance, état civil, nationalités ;
+- b. le numéro AVS à 13 chiffres (NAVS 13) ;
+- c. les filiations ascendante et descendante ;
+- d. les adresses postales et coordonnées de contact (courriel, téléphone) ;
+- e. les professions, employeurs, formations ou l'acquisition d'une formation ;
+- f. les autres données nécessaires pour la délivrance et la surveillance des autorisations prévues dans la présente loi.
+
+[^67c-1]: Modif. 5 du 30.03.2022: Introduction Art. 67d; entrée en vigueur au 01.05.2022
+
+#### Art. 67e
+
+**Système d'information [^67d-1]**
+
+<sup>1</sup> Les données, y compris sensibles, sont traitées via un système d'information du département.
+
+<sup>2</sup> Seules les personnes autorisées des autorités cantonales et communales compétentes y ont accès
+
+<sup>3</sup> Pour le surplus, les exigences de la Direction générale du numérique et des systèmes d'information (DGNSI) en matière de sécurité informatique et de droits d'accès aux systèmes d'information de l'Etat de Vaud sont applicables.
+
+[^67d-1]: Modif. 5 du 30.03.2022: Introduction Art. 67e; entrée en vigueur au 01.05.2022
+
+#### Art. 67f
+
+**Information [^67e-1]**
+
+<sup>1</sup> La consultation d'informations relatives aux données portant sur la situation pénale du requérant doit être portée à la connaissance de ce dernier par l'autorité consultante.
+
+[^67e-1]: Modif. 5 du 30.03.2022: Introduction Art. 67f; entrée en vigueur au 01.05.2022
+
+#### Art. 67g
+
+**Conservation, archivage et destruction des données [^67f-1]**
+
+<sup>1</sup> Les données sont conservées 10 ans après la clôture du dossier.
+
+<sup>2</sup> A l'échéance de ce délai de 10 ans, les données à archiver sont versées aux archives cantonales selon les règles définies dans le calendrier de conservation.
+
+<sup>3</sup> Les données qui ne sont pas versées aux archives cantonales à l'échéance de leur délai de conservation sont détruites.
+
+[^67f-1]: Modif. 5 du 30.03.2022: Introduction tArt; entrée en vigueur au 01.05.2022; Introduction Al. 1-3; entrée en vigueur au 01.05.2022; Introduction Art. 67g; entrée en vigueur au 01.05.2022
 
 ## Titre XIII Disposition finale
 
