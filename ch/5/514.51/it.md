@@ -4,11 +4,11 @@ title: Legge federale del 13 dicembre 1996 sul materiale bellico (LMB)
 short: LMB
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/794_794_794"
 language: it
-version: 2022-01-01
+version: 2022-05-01
 adopted: 1996-12-13
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20220501/it/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20220501-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20220501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,18 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20220101/it"
 
 (LMB)
 
-del 13 dicembre 1996 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 13 dicembre 1996 (Stato 1° maggio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 41 capoversi 2 e 3 nonché 64<sup>bis</sup> della Costituzione federale[^ingress-1] (Cost.); vista la competenza della Confederazione in materia di affari esteri[^ingress-2];[^ingress-3] visto il messaggio del Consiglio federale del 15 febbraio 1995[^ingress-4],
+visti gli articoli 54 capoverso 1, 107 capoverso 2 e 123 della Costituzione federale[^ingress-1],[^ingress-2] vista la competenza della Confederazione in materia di affari esteri[^ingress-3];[^ingress-4] visto il messaggio del Consiglio federale del 15 febbraio 1995[^ingress-5],
 
 decreta:
 
-[^ingress-1]: [CS **1** 3]. A queste disp. corrispondono ora gli art. 107 cpv. 2 e 123 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404))
-[^ingress-2]: A questa attribuzione di competenza corrisponde ora l’art. 54 cpv. 1 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-3]: Nuovo testo giusta il n. I 2 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari, in vigore dal 1° mar. 2002 ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)).
-[^ingress-4]: [FF 1995 II 864](https://fedlex.data.admin.ch/eli/fga/1995/2_1027_988_864)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° mag. 2022 ([RU 2022 226](https://fedlex.data.admin.ch/eli/oc/2022/226); [FF 2021 623](https://fedlex.data.admin.ch/eli/fga/2021/623)).
+[^ingress-3]: A questa attribuzione di competenza corrisponde ora l’art. 54 cpv. 1 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-4]: Nuovo testo giusta il n. I 2 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari, in vigore dal 1° mar. 2002 ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+[^ingress-5]: [FF 1995 II 864](https://fedlex.data.admin.ch/eli/fga/1995/2_1027_988_864)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -219,7 +220,7 @@ Non necessita di un’autorizzazione di principio chi:
 - d. fabbrica o commercia in Svizzera esplosivi, pezzi pirotecnici o polvere da fuoco, che sono contemplati dalla legislazione sugli esplosivi, e, a tale scopo, dispone di un’autorizzazione secondo la legislazione sugli esplosivi.[^9-3]
 
 [^9-1]: Nuovo testo giusta il n. I 2 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari, in vigore dal 1° mar. 2002 ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)).
-[^9-2]: Nuovo testo giusta il n. 1 dell’all. alla LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^9-2]: Nuovo testo giusta l’all. n. 1 della LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 [^9-3]: Nuovo testo giusta il n. I 2 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari, in vigore dal 1° mar. 2002 ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 
 #### Art. 10
@@ -285,7 +286,7 @@ Per le attività sottoposte ad autorizzazione conformemente alla presente legge 
 <sup>3</sup> Chiunque, a titolo di mediatore professionale, procura a destinatari all’estero armi da fuoco secondo la legislazione sulle armi, relative parti, accessori, munizioni o elementi di munizioni ottiene un’autorizzazione specifica solo se fornisce la prova che dispone di una corrispondente patente di commercio di armi conformemente alla legislazione sulle armi.[^15-2]
 
 [^15-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 33 LRC – [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
-[^15-2]: Introdotto dal n. I 2 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)). Nuovo testo giusta il n. 1 dell’all. alla LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^15-2]: Introdotto dal n. I 2 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)). Nuovo testo giusta l’all. n. 1 della LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
 #### Art. 16
 
@@ -311,7 +312,7 @@ Per le attività sottoposte ad autorizzazione conformemente alla presente legge 
 
 <sup>3</sup> Chi dal territorio svizzero commercia all’estero in armi da fuoco, relative parti, accessori, munizioni o elementi di munizioni secondo la legislazione sulle armi ottiene l’autorizzazione specifica solo se fornisce la prova che dispone di una patente di commercio di armi conformemente alla legislazione sulle armi.[^16a-1]
 
-[^16a-1]: Nuovo testo giusta il n. 1 dell’all. alla LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^16a-1]: Nuovo testo giusta l’all. n. 1 della LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
 #### Art. 16b
 
@@ -345,10 +346,10 @@ Non è richiesta l’autorizzazione d’importazione conformemente alla presente
 - b.[^17-4] l’introduzione sul territorio svizzero di armi da fuoco, relative parti, accessori, munizioni o elementi di munizioni secondo la legislazione sulle armi;
 - c. l’importazione di esplosivi, pezzi pirotecnici o polvere da fuoco.[^17-5]
 
-[^17-1]: Nuovo testo giusta il n.5 dell’all. alla L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^17-1]: Nuovo testo giusta l’all. n. 5 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 [^17-2]: Introdotto dal n. I 2 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)). Nuovo testo giusta l’art. 3 n. 5 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. d; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^17-3]: Introdotto dal n. I 2 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari, in vigore dal 1° mar. 2002 ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)).
-[^17-4]: Nuovo testo giusta il n. 1 dell’all. alla LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^17-4]: Nuovo testo giusta l’all. n. 1 della LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 [^17-5]: Nuovo testo giusta il n. I 2 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari, in vigore dal 1° mar. 2002 ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 
 #### Art. 18
@@ -399,6 +400,36 @@ L’autorizzazione è negata qualora l’acquirente abbia il proprio domicilio o
 **Fabbricazione, attività di mediazione, esportazione e transito**
 
 La fabbricazione, le attività di mediazione, l’esportazione e il transito di materiale bellico per destinatari all’estero sono permessi se non violano il diritto internazionale pubblico, non ledono i principi della politica estera svizzera e gli impegni internazionali da essa contratti.
+
+#### Art. 22a
+
+**Criteri per l’autorizzazione di affari con l’estero**[^22a-1]
+
+<sup>1</sup>
+
+Nella valutazione di una domanda per l’autorizzazione di affari con l’estero secondo l’articolo 22 e per la conclusione di contratti secondo l’articolo 20 occorre considerare:
+
+- a. il mantenimento della pace, della sicurezza internazionale e della stabilità regionale;
+- b. la situazione all’interno del Paese destinatario; occorre tener conto in particolare del rispetto dei diritti dell’uomo e della rinuncia all’impiego di bambini-soldato;
+- c. le iniziative della Svizzera nell’ambito della cooperazione allo sviluppo; occorre tener conto in particolare dell’eventualità che il Paese destinatario figuri tra i Paesi meno sviluppati nell’elenco in vigore dei Paesi beneficiari dell’aiuto pubblico allo sviluppo stilato dal Comitato d’aiuto allo sviluppo dell’Organizzazione per la cooperazione e lo sviluppo economico (OCSE)[^22a-2];
+- d. il comportamento del Paese destinatario nei confronti della comunità internazionale, in particolare in relazione all’osservanza del diritto internazionale;
+- e. la posizione dei Paesi che partecipano con la Svizzera a regimi internazionali di controllo delle esportazioni.
+
+<sup>2</sup>
+
+L’autorizzazione per affari con l’estero conformemente all’articolo 22 e per la conclusione di contratti conformemente all’articolo 20 non è rilasciata se:
+
+- a. il Paese destinatario è implicato in un conflitto armato interno o internazionale;
+- b. il Paese destinatario viola in modo grave e sistematico i diritti dell’uomo;
+- c. esiste un forte rischio che, nel Paese destinatario, il materiale bellico da esportare sia impiegato contro la popolazione civile; o
+- d. esiste un forte rischio che, nel Paese destinatario, il materiale bellico da esportare sia trasferito a un destinatario finale indesiderato.
+
+<sup>3</sup> In deroga ai capoversi 1 e 2, può essere rilasciata un’autorizzazione per singole armi da fuoco portatili o corte di qualunque calibro e per le relative munizioni, se le armi sono destinate esclusivamente a uso privato o sportivo.
+
+<sup>4</sup> In deroga al capoverso 2, può essere rilasciata un’autorizzazione per affari con l’estero relativi a interventi in favore della pace che si basano su un mandato delle Nazioni Unite, dell’Organizzazione per la sicurezza e la cooperazione in Europa o di un’organizzazione sovranazionale il cui obiettivo è il promovimento della pace.
+
+[^22a-1]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° mag. 2022 ([RU 2022 226](https://fedlex.data.admin.ch/eli/oc/2022/226); [FF 2021 623](https://fedlex.data.admin.ch/eli/fga/2021/623)).
+[^22a-2]: L’elenco stilato dal Comitato d’aiuto allo sviluppo dell’OCSE è disponibile al seguente indirizzo: www.oecd.org (disponibile solamente in francese e in inglese).
 
 #### Art. 23
 
@@ -510,7 +541,7 @@ Chiunque, intenzionalmente:
 <sup>4</sup> Ove si tratti di importazione o di transito non permessi, è parimenti punibile l’infrazione commessa all’estero.
 
 [^33-1]: Nuova comminatoria giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^33-2]: Nuovo testo giusta il n. 5 dell’all. alla L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^33-2]: Nuovo testo giusta l’all. n. 5 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 [^33-3]: Nuovo testo giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 [^33-4]: Nuovo testo giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 
@@ -634,7 +665,7 @@ Se l’infrazione è commessa nell’ambito della conduzione aziendale, è appli
 
 Il giudice, indipendentemente dalla punibilità di una data persona, ordina la confisca del materiale bellico in causa se e nella misura in cui non è data la garanzia di un ulteriore impiego conforme al diritto. Il materiale bellico confiscato nonché l’eventuale ricavo della realizzazione sono devoluti alla Confederazione, fatta salva l’applicazione della legge federale del 19 marzo 2004[^38-2] sulla ripartizione dei valori patrimoniali confiscati.
 
-[^38-1]: Nuovo testo giusta il n. 3 dell’all. alla LF del 19 mar. 2004 sulla ripartizione dei valori patrimoniali confiscati, in vigore dal 1° ago. 2004 ([RU 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 389](https://fedlex.data.admin.ch/eli/fga/2002/69)).
+[^38-1]: Nuovo testo giusta l’all. n. 3 della LF del 19 mar. 2004 sulla ripartizione dei valori patrimoniali confiscati, in vigore dal 1° ago. 2004 ([RU 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 389](https://fedlex.data.admin.ch/eli/fga/2002/69)).
 [^38-2]: [RS 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
 
 #### Art. 39
@@ -643,7 +674,7 @@ Il giudice, indipendentemente dalla punibilità di una data persona, ordina la c
 
 I valori patrimoniali confiscati e i risarcimenti equivalenti sono devoluti alla Confederazione, fatta salva l’applicazione della legge federale del 19 marzo 2004[^39-2] sulla ripartizione dei valori patrimoniali confiscati.
 
-[^39-1]: Nuovo testo giusta il n. 3 dell’all. alla LF del 19 mar. 2004 sulla ripartizione dei valori patrimoniali confiscati, in vigore dal 1° ago. 2004 ([RU 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 389](https://fedlex.data.admin.ch/eli/fga/2002/69)).
+[^39-1]: Nuovo testo giusta l’all. n. 3 della LF del 19 mar. 2004 sulla ripartizione dei valori patrimoniali confiscati, in vigore dal 1° ago. 2004 ([RU 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 389](https://fedlex.data.admin.ch/eli/fga/2002/69)).
 [^39-2]: [RS 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
 
 #### Art. 40

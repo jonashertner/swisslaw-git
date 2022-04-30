@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 1996 über das Kriegsmaterial (Kriegsmater
 short: KMG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/794_794_794"
 language: de
-version: 2022-01-01
+version: 2022-05-01
 adopted: 1996-12-13
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20220501/de/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20220501-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20220501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,20 +17,21 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20220101/de"
 
 (Kriegsmaterialgesetz, KMG)
 
-vom 13. Dezember 1996 (Stand am 1. Januar 2022)
+vom 13. Dezember 1996 (Stand am 1. Mai 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Artikel 41 Absätze 2 und 3 sowie 64<sup>bis</sup> der Bundesverfassung[^ingress-1] und auf die Zuständigkeit des Bundes in auswärtigen Angelegenheiten[^ingress-2],[^ingress-3]
+gestützt auf die Artikel 54 Absatz 1, 107 Absatz 2 und 123 der Bundesverfassung[^ingress-1],[^ingress-2] und auf die Zuständigkeit des Bundes in auswärtigen Angelegenheiten[^ingress-3],[^ingress-4]
 
-nach Einsicht in die Botschaft des Bundesrates vom 15. Februar 1995[^ingress-4],
+nach Einsicht in die Botschaft des Bundesrates vom 15. Februar 1995[^ingress-5],
 
 beschliesst:
 
-[^ingress-1]: [BS **1** 3]. Diesen Bestimmungen entsprechen die Artikel 107 Absatz 2 und 123 der Bundesverfassung vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Dieser Zuständigkeitsumschreibung entspricht Artikel 54 Absatz 1 der Bundesverfassung vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-3]: Fassung gemäss Ziff. I 2 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, in Kraft seit 1. März 2002 ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
-[^ingress-4]: [BBl 1995 II 1027](https://fedlex.data.admin.ch/eli/fga/1995/2_1027_988_864)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 226](https://fedlex.data.admin.ch/eli/oc/2022/226); [BBl 2021 623](https://fedlex.data.admin.ch/eli/fga/2021/623)).
+[^ingress-3]: Dieser Zuständigkeitsumschreibung entspricht Artikel 54 Absatz 1 der Bundesverfassung vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-4]: Fassung gemäss Ziff. I 2 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, in Kraft seit 1. März 2002 ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+[^ingress-5]: [BBl 1995 II 1027](https://fedlex.data.admin.ch/eli/fga/1995/2_1027_988_864)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -254,7 +255,7 @@ Die Grundbewilligung wird natürlichen oder juristischen Personen erteilt, wenn:
 
 Für Tätigkeiten, die nach diesem Gesetz einer Bewilligung bedürfen, werden folgende Einzelbewilligungen unterschieden:
 
-- a. ...[^12-1]
+- a. …[^12-1]
 - b. Vermittlungsbewilligung;
 - c. Einfuhrbewilligung;
 - d. Ausfuhrbewilligung;
@@ -265,7 +266,7 @@ Für Tätigkeiten, die nach diesem Gesetz einer Bewilligung bedürfen, werden fo
 [^12-1]: Aufgehoben durch Ziff. I 2 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, mit Wirkung seit 1. März 2002 ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 [^12-2]: Eingefügt durch Ziff. I 2 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, in Kraft seit 1. März 2002 ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 
-### 2. Abschnitt: ...
+### 2. Abschnitt: …
 
 #### Art. 13 und 14
 
@@ -399,6 +400,36 @@ Die Bewilligung wird nicht erteilt, wenn der Erwerber seinen Sitz oder Wohnsitz 
 **Herstellung, Vermittlung, Ausfuhr und Durchfuhr**
 
 Die Herstellung, die Vermittlung, die Ausfuhr und die Durchfuhr von Kriegsmaterial für Empfänger im Ausland werden bewilligt, wenn dies dem Völkerrecht, den internationalen Verpflichtungen und den Grundsätzen der schweizerischen Aussenpolitik nicht widerspricht.
+
+#### Art. 22a
+
+**Bewilligungskriterien für Auslandsgeschäfte**[^22a-1]
+
+<sup>1</sup>
+
+Bei der Beurteilung eines Gesuchs um die Bewilligung von Auslandsgeschäften nach Artikel 22 und von Abschlüssen von Verträgen nach Artikel 20 sind zu berücksichtigen:
+
+- a. die Aufrechterhaltung des Friedens, der internationalen Sicherheit und der regionalen Stabilität;
+- b. die Situation im Innern des Bestimmungslandes; namentlich sind zu berücksichtigen die Respektierung der Menschenrechte und der Verzicht auf Kindersoldaten;
+- c. die Bestrebungen der Schweiz im Bereich der Entwicklungszusammenarbeit; namentlich ist der mögliche Umstand zu berücksichtigen, dass das Bestimmungsland auf der jeweils geltenden Liste der Entwicklungshilfeempfänger des Entwicklungsausschusses der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD-DAC-Liste)[^22a-2] unter den am wenigsten entwickelten Ländern aufgeführt ist;
+- d. das Verhalten des Bestimmungslandes gegenüber der Staatengemeinschaft, namentlich hinsichtlich der Einhaltung des Völkerrechts;
+- e. die Haltung der Länder, die sich zusammen mit der Schweiz an internationalen Exportkontrollregimes beteiligen.
+
+<sup>2</sup>
+
+Auslandsgeschäfte nach Artikel 22 und Abschlüsse von Verträgen nach Artikel 20 werden nicht bewilligt, wenn:
+
+- a. das Bestimmungsland in einen internen oder internationalen bewaffneten Konflikt verwickelt ist;
+- b. das Bestimmungsland Menschenrechte schwerwiegend und systematisch verletzt;
+- c. im Bestimmungsland ein hohes Risiko besteht, dass das auszuführende Kriegsmaterial gegen die Zivilbevölkerung eingesetzt wird; oder
+- d. im Bestimmungsland ein hohes Risiko besteht, dass das auszuführende Kriegsmaterial an einen unerwünschten Endempfänger weitergegeben wird.
+
+<sup>3</sup> Abweichend von den Absätzen 1 und 2 kann eine Bewilligung erteilt werden für einzelne Hand- und Faustfeuerwaffen jeglichen Kalibers mit der dazugehörigen Munition, sofern die Waffen zur ausschliesslichen Verwendung für private oder sportliche Zwecke bestimmt sind.
+
+<sup>4</sup> Abweichend von Absatz 2 kann eine Bewilligung für Auslandsgeschäfte für Ein-sätze zugunsten des Friedens erteilt werden, die auf der Grundlage eines Mandats der Vereinten Nationen, der Organisation für Sicherheit und Zusammenarbeit in Europa oder einer supranationalen Organisation, deren Ziel die Friedensförderung ist, durchgeführt werden.
+
+[^22a-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 226](https://fedlex.data.admin.ch/eli/oc/2022/226); [BBl 2021 623](https://fedlex.data.admin.ch/eli/fga/2021/623)).
+[^22a-2]: Die OECD-DAC Liste ist unter folgender Internetadresse abrufbar: www.oecd.org (Text nur auf Französisch und Englisch verfügbar).
 
 #### Art. 23
 
@@ -694,7 +725,7 @@ Hält der ausländische Staat Gegenrecht, so können die Behörden des Bundes na
 
 <sup>1</sup> Der Bundesrat erlässt die Ausführungsvorschriften.
 
-<sup>2</sup> ...[^43-1]
+<sup>2</sup> …[^43-1]
 
 [^43-1]: Aufgehoben durch Ziff. I 2 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 
@@ -710,7 +741,7 @@ Das Bundesgesetz vom 30. Juni 1972[^44-1] über das Kriegsmaterial wird aufgehob
 
 **Änderung bisherigen Rechts**
 
-...[^45-1]
+…[^45-1]
 
 [^45-1]: Die Änderungen können konsultiert werden unter [AS 1998 794](https://fedlex.data.admin.ch/eli/oc/1998/794_794_794).
 
@@ -718,7 +749,7 @@ Das Bundesgesetz vom 30. Juni 1972[^44-1] über das Kriegsmaterial wird aufgehob
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> ...[^46-1]
+<sup>1</sup> …[^46-1]
 
 <sup>2</sup> Verträge über die Übertragung von Immaterialgütern, einschliesslich Know-how, oder der Einräumung von Rechten daran, die vor dem Inkrafttreten dieses Gesetzes abgeschlossen wurden, benötigen keine Bewilligung nach diesem Gesetz.
 

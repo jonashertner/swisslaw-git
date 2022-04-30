@@ -4,11 +4,11 @@ title: Loi fédérale du 13 décembre 1996 sur le matériel de guerre (LFMG)
 short: LFMG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/794_794_794"
 language: fr
-version: 2022-01-01
+version: 2022-05-01
 adopted: 1996-12-13
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20220501-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20220501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,18 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20220101/fr"
 
 (LFMG)
 
-du 13 décembre 1996 (Etat le 1<sup>er</sup> janvier 2022)
+du 13 décembre 1996 (Etat le 1<sup>er</sup> mai 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu les art. 41, al. 2 et 3, et 64<sup>bis</sup> de la constitution[^ingress-1], vu la compétence de la Confédération en matière de relations extérieures[^ingress-2];[^ingress-3] vu le message du Conseil fédéral du 15 février 1995[^ingress-4],
+vu les art. 54, al. 1, 107, al. 2, et 123 de la Constitution[^ingress-1],[^ingress-2] vu la compétence de la Confédération en matière de relations extérieures[^ingress-3],[^ingress-4] vu le message du Conseil fédéral du 15 février 1995[^ingress-5],
 
 arrête:
 
-[^ingress-1]: [RS **1** 3]. Aux disp. mentionnées correspondent actuellement les art. 107 al. 2 et 123 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Cette compétence correspond à l’art. 54 al. 1 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-3]: Nouvelle teneur selon le ch. I 2 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)).
-[^ingress-4]: [FF 1995 II 988](https://fedlex.data.admin.ch/eli/fga/1995/2_1027_988_864)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 226](https://fedlex.data.admin.ch/eli/oc/2022/226); [FF 2021 623](https://fedlex.data.admin.ch/eli/fga/2021/623)).
+[^ingress-3]: Cette compétence correspond à l’art. 54 al. 1 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-4]: Nouvelle teneur selon le ch. I 2 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+[^ingress-5]: [FF 1995 II 988](https://fedlex.data.admin.ch/eli/fga/1995/2_1027_988_864)
 
 ## Chapitre 1 Dispositions générales
 
@@ -216,7 +217,7 @@ Aucune autorisation initiale n’est requise pour celui qui:
 - c.[^9-1] titulaire d’une patente de commerce en vertu de la législation sur les armes, fabrique des armes à feu, des éléments essentiels, des composants spécialement conçus ou des accessoires de ces armes, des munitions ou des éléments de munitions au sens de la législation sur les armes, ou en fait le commerce ou le courtage à titre professionnel pour des destinataires à l’étranger;
 - d. titulaire d’une autorisation selon la législation sur les explosifs, fabrique des matières explosives, de la poudre de guerre ou des engins pyrotechniques soumis à la législation sur les explosifs ou en fait le commerce en Suisse.[^9-2]
 
-[^9-1]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^9-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 [^9-2]: Nouvelle teneur selon le ch. I 2 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 
 #### Art. 10
@@ -281,7 +282,7 @@ Pour les activités soumises au régime de l’autorisation selon la présente l
 
 <sup>3</sup> Toute personne qui, à titre professionnel, fait le courtage d’armes à feu, d’éléments essentiels, des composants spécialement conçus ou d’accessoires de ces armes, de munitions ou d’éléments de munitions au sens de la législation sur les armes, pour des destinataires à l’étranger doit prouver qu’elle est titulaire d’une patente de commerce d’armes en vertu de la législation sur les armes pour obtenir les autorisations spécifiques.[^15-1]
 
-[^15-1]: Introduit par le ch. I 2 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)). Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^15-1]: Introduit par le ch. I 2 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
 #### Art. 16
 
@@ -307,7 +308,7 @@ Pour les activités soumises au régime de l’autorisation selon la présente l
 
 <sup>3</sup> Toute personne qui, à partir du territoire suisse, fait le commerce à l’étranger d’armes à feu, d’éléments essentiels, de composants spécialement conçus ou d’accessoires de ces armes, de munitions et d’éléments de munitions au sens de la législation sur les armes, doit prouver qu’elle est titulaire d’une patente de commerce d’armes en vertu de la législation sur les armes pour obtenir les autorisations spécifiques.[^16a-1]
 
-[^16a-1]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^16a-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
 #### Art. 16b
 
@@ -341,11 +342,11 @@ Aucune autorisation d’importation au sens de la présente loi n’est requise 
 - b. [^17-5] l’introduction sur le territoire suisse d’armes à feu, d’éléments essentiels, de composants spécialement conçus ou d’accessoires de ces armes, de munitions et d’éléments de munitions au sens de la législation sur les armes;
 - c. l’importation de matières explosives, de poudre de guerre et d’engins pyrotechniques.[^17-6]
 
-[^17-1]: Nouvelle teneur selon le ch. 5 de l’annexe à la loi du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^17-1]: Nouvelle teneur selon l’annexe ch. 5 de la loi du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 [^17-2]: Introduit par le ch. I 2 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)). Nouvelle teneur selon l’art. 3 ch. 5 de l’AF du 17 déc. 2004 portant approbation et mise en oeuvre des accords bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, en vigueur depuis le 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. d; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^17-3]: Introduit par le ch. I 2 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)).
-[^17-4]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
-[^17-5]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^17-4]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^17-5]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 [^17-6]: Nouvelle teneur selon le ch. I 2 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 
 #### Art. 18
@@ -396,6 +397,36 @@ L’autorisation ne sera pas accordée si l’acquéreur a son domicile ou son s
 **Fabrication, courtage, exportation et transit**
 
 La fabrication, le courtage, l’exportation et le transit de matériel de guerre pour des destinataires à l’étranger seront autorisés si ces activités ne contreviennent pas au droit international et ne sont pas contraires aux principes de la politique étrangère de la Suisse et à ses obligations internationales.
+
+#### Art. 22a
+
+**Critères d’autorisation pour les affaires avec l’étranger**[^22a-1]
+
+<sup>1</sup>
+
+L’évaluation d’une demande d’autorisation concernant les affaires avec l’étranger au sens de l’art. 22 ou concernant la conclusion de contrats au sens de l’art. 20 doit reposer sur les considérations suivantes:
+
+- a. le maintien de la paix, de la sécurité internationale et de la stabilité régionale;
+- b. la situation qui prévaut dans le pays de destination; il faut tenir compte notamment du respect des droits de l’homme et de la renonciation à utiliser des enfants-soldats;
+- c. les efforts déployés par la Suisse dans le domaine de la coopération au développement; il faut tenir compte notamment de l’éventualité que le pays de destination figure parmi les pays les moins avancés sur la liste en vigueur des pays bénéficiaires de l’aide publique au développement établie par le Comité d’aide au développement de l’Organisation de coopération et de développement économiques (OCDE)[^22a-2];
+- d. l’attitude du pays de destination envers la communauté internationale, notamment sous l’angle du respect du droit international;
+- e. la conduite adoptée par les pays qui, comme la Suisse, sont affiliés aux régimes internationaux de contrôle des exportations.
+
+<sup>2</sup>
+
+L’autorisation concernant les affaires avec l’étranger au sens de l’art. 22 ou concernant la conclusion de contrats au sens de l’art. 20 n’est pas accordée:
+
+- a. si le pays de destination est impliqué dans un conflit armé interne ou international;
+- b. si le pays de destination viole gravement et systématiquement les droits de l’homme;
+- c. s’il y a de forts risques que, dans le pays de destination, le matériel de guerre à exporter soit utilisé contre la population civile, ou
+- d. s’il y a de forts risques que, dans le pays de destination, le matériel de guerre à exporter soit transmis à un destinataire final non souhaité.
+
+<sup>3</sup> Par dérogation aux al. 1 et 2, une autorisation peut être accordée pour des armes à feu individuelles à épauler ou de poing de tout calibre et leurs munitions, lorsqu’elles sont destinées exclusivement à un usage privé ou sportif.
+
+<sup>4</sup> Par dérogation à l’al. 2, une autorisation concernant une affaire avec l’étranger en vue d’un engagement en faveur de la paix peut être accordée si l’engagement résulte d’un mandat des Nations Unies, de l’Organisation pour la sécurité et la coopération en Europe ou d’une organisation supranationale ayant pour mission la promotion de la paix.
+
+[^22a-1]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 226](https://fedlex.data.admin.ch/eli/oc/2022/226); [FF 2021 623](https://fedlex.data.admin.ch/eli/fga/2021/623)).
+[^22a-2]: La liste établie par le Comité d’aide au développement de l’OCDE peut être consultée à l’adresse suivante: www.ocde.org.
 
 #### Art. 23
 
@@ -509,7 +540,7 @@ Est punie d’une peine privative de liberté de trois ans au plus ou d’une pe
 <sup>4</sup> En cas d’importation ou de transit non autorisés, l’infraction commise à l’étranger est également punissable.
 
 [^33-1]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^33-2]: Nouvelle teneur selon le ch. 5 de l’annexe à la loi du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^33-2]: Nouvelle teneur selon l’annexe ch. 5 de la loi du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 [^33-3]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 [^33-4]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 
@@ -628,7 +659,7 @@ L’art. 6 de la loi fédérale du 22 mars 1974 sur le droit pénal administrati
 
 Indépendamment du fait qu’une personne est punissable ou non, le juge ordonne la confiscation du matériel de guerre concerné s’il n’y a pas de garantie qu’il sera utilisé à l’avenir d’une manière conforme au droit. Le matériel de guerre confisqué ainsi que le produit éventuel de sa vente sont dévolus à la Confédération, sous réserve de l’application de la loi fédérale du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées[^38-2].
 
-[^38-1]: Nouvelle teneur selon le ch. 3 de l’annexe à la LF du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées, en vigueur depuis le 1<sup>er</sup> août 2004 ([RO 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 423](https://fedlex.data.admin.ch/eli/fga/2002/69)).
+[^38-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées, en vigueur depuis le 1<sup>er</sup> août 2004 ([RO 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 423](https://fedlex.data.admin.ch/eli/fga/2002/69)).
 [^38-2]: [RS 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
 
 #### Art. 39
@@ -637,7 +668,7 @@ Indépendamment du fait qu’une personne est punissable ou non, le juge ordonne
 
 Les valeurs patrimoniales confisquées et les créances compensatoires sont dévolues à la Confédération, sous réserve de l’application de la loi fédérale du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées[^39-2].
 
-[^39-1]: Nouvelle teneur selon le ch. 3 de l’annexe à la LF du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées, en vigueur depuis le 1<sup>er</sup> août 2004 ([RO 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 423](https://fedlex.data.admin.ch/eli/fga/2002/69)).
+[^39-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées, en vigueur depuis le 1<sup>er</sup> août 2004 ([RO 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 423](https://fedlex.data.admin.ch/eli/fga/2002/69)).
 [^39-2]: [RS 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
 
 #### Art. 40
