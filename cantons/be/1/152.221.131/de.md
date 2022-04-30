@@ -4,13 +4,13 @@ number: "152.221.131"
 title: Verordnung über die Organisation und die Aufgaben der Direktion für Inneres und Justiz
 short: "Organisationsverordnung DIJ, OrV DIJ"
 language: de
-version: 2022-01-01
-valid_until: 2022-04-30
-version_adopted: 2021-11-24
+version: 2022-05-01
+valid_until: 2022-08-31
+version_adopted: 2022-04-06
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.131"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2448/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2584/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2448/pdf_file"
 
 (Organisationsverordnung DIJ, OrV DIJ)
 
-vom 18.10.1995 (Stand 01.01.2022)
+vom 18.10.1995 (Stand 01.05.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -256,12 +256,19 @@ beschliesst:
 - e übernimmt für die KESB das Controlling über die Einhaltung der Leistungsvereinbarungen;
 - f übernimmt die Aufgaben der Übermittlungs- und Empfangsstelle gemäss dem Übereinkommen vom 20. Juni 1956 über die Geltendmachung von Unterhaltsansprüchen im Ausland[^13a-2];
 - g übernimmt die der Direktion durch die Gesetzgebung über die Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen zugewiesenen Aufgaben;
-- h übernimmt die Aufgaben der kantonalen Zentralen Behörde auf dem Gebiet der internationalen Adoptionen gemäss Bundesgesetz vom 22. Juni 2001 zum Haager Adoptionsübereinkommen und über Massnahmen zum Schutz des Kindes bei internationalen Adoptionen (BG-HAÜ)[^13a-3];
+- h übernimmt die Aufgaben der kantonalen Zentralen Behörde auf dem Gebiet der internationalen Adoptionen gemäss dem Bundesgesetz vom 22. Juni 2001 zum Haager Adoptionsübereinkommen und über Massnahmen zum Schutz des Kindes bei internationalen Adoptionen (BG-HAÜ)[^13a-3];
 - i ist zuständig für die Bewilligung zur Aufnahme von Pflegekindern zur späteren Adoption;
 - k übernimmt die der kantonalen Behörde gemäss Bundesgesetzgebung zur Adoption zugewiesenen Aufgaben, insbesondere die Instruktion des Adoptionsverfahrens und die Auskunftsfunktion, und ist Beratungsstelle für die leiblichen Eltern, deren Nachkommen sowie das Kind;
-- l ist für die Führung und den Betrieb der Kantonalen Beobachtungsstation Bolligen verantwortlich;
+- l …
 - m bereitet die Gesetzgebung in seinem Aufgabenbereich vor;
 - n besorgt die Planung, den Vollzug und das Berichtswesen in seinem Bereich betreffend Aufgaben und Mittel.
+
+<sup>2</sup> Es ist für die Steuerung und Aufsicht der folgenden Einrichtungen verantwortlich, soweit diese Aufgaben nicht einer anderen Organisationseinheit zugewiesen sind:
+
+- a Jugendheim Lory,
+- b Kantonale Beobachtungsstation Bolligen,
+- c Zentrum für Sozial- und Heilpädagogik Landorf Köniz-Schlössli Kehrsatz (ZSHKK),
+- d Schulheim Schloss Erlach (SHE).
 
 [^13a-1]: SR [211.222.32](https://db.clex.ch/link/Bund/211.222.32/de)
 [^13a-2]: SR [0.274.15](https://db.clex.ch/link/Bund/0.274.15/de)
@@ -276,6 +283,7 @@ beschliesst:
 - a instruiert die Beschwerdeverfahren zuhanden des Regierungsrates und der Direktion;
 - b bereitet in Zusammenarbeit mit den betroffenen Stellen die Verfügungen der Direktion über streitige Ansprüche gegen den Kanton auf Schadenersatz oder Genugtuung vor (Art. 104 des Personalgesetzes vom 16. September 2004 [PG][^14-1]);
 - b1 bereitet die Verfügungen der Direktion vor, die im Bereich der dezentralen Organisationseinheiten und des Handelsregisteramts notwendig und nicht einer anderen Amtsstelle zugewiesen sind;
+- b2 bereitet die Verfügungen der Direktion vor betreffend den Entzug der Unterrichtsberechtigung von Personen, die an Einrichtungen gemäss Artikel 13a Absatz 2 Unterricht erteilen, anleiten, überwachen oder Leitungs- bzw. Betreuungsaufgaben wahrnehmen;
 - c bereitet die Gesetzgebung vor, soweit sie nicht in den Aufgabenbereich eines andern Amtes fällt;
 - d bereitet die Regierungsratsbeschlüsse bei Meinungsverschiedenheiten zwischen einer andern Direktion und der Finanzkontrolle vor;
 - e …
@@ -382,6 +390,52 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 1996 in Kraft.
+
+## T1 Übergangsbestimmungen der Änderung vom 06.04.2022
+
+#### Art. T1-1
+
+**Überführung, Grundsatz**
+
+<sup>1</sup> Die zuständigen Stellen der Direktion für Inneres und Justiz sorgen in Zusammenarbeit mit den zuständigen Stellen der Sicherheitsdirektion und der Gesundheits-, Sozial- und Integrationsdirektion für die Überführung des Jugendheims Lory, des Zentrums für Sozial- und Heilpädagogik Landorf Köniz-Schlössli Kehrsatz,(ZSHKK) und des Schulheims Schloss Erlach (SHE) in die Direktion für Inneres und Justiz.
+
+#### Art. T1-2
+
+**Überführung der Arbeitsverhältnisse auf den 1. Januar 2023 ohne Änderungen**
+
+<sup>1</sup> Die laufenden Arbeitsverhältnisse der Mitarbeitenden des Jugendheims Lory, des ZSHKK und des SHE werden ab dem 1. Januar 2023 ohne inhaltliche Änderungen weitergeführt, wenn weder die Anstellungsbehörde noch die Stellenbeschreibung oder der Arbeitsort ändern. Die Jahresarbeitszeit-, Ferien- und Langzeitkontoguthaben werden in Abweichung von den Artikeln 136c, 150 und 160c der Personalverordnung vom 18. Mai 2005 (PV)[^T12-1] übertragen. Das Gehalt wird nur aufgrund des generellen und des indivuellen Gehaltsaufstiegs angepasst.
+
+[^T12-1]: BSG [153.011.1](https://www.belex.sites.be.ch/data/153.011.1/de)
+
+#### Art. T1-3
+
+**Überführung der Arbeitsverhältnisse auf den 1. Januar 2023 mit Änderungen**
+
+<sup>1</sup> Ändert auf den 1. Januar 2023 die Anstellungsbehörde, die Stellenbeschreibung oder der Arbeitsort, so werden die entsprechenden Arbeitsverhältnisse des ZSHKK, des SHE und des Jugendheims Lory auf diesen Zeitpunkt angepasst. Die Jahresarbeitszeit-, Ferien- und Langzeitkontoguthaben werden in Abweichung von den Artikeln 136c, 150 und 160c PV übertragen. Für das Gehalt gelten nach den Anpassungen aufgrund des generellen und des individuellen Gehaltsaufstiegs die Absätze 3 und 4.
+
+<sup>2</sup> Zuständig für die Anpassungen auf den 1. Januar 2023 sind:
+
+- a die Direktion für Inneres und Justiz für die Anpassung der Arbeitsverhältnisse mit der Gesamtleiterin oder dem Gesamtleiter des ZSHKK und des SHE,
+- b das Kantonale Jugendamt für die Anpassung der Arbeitsverhältnisse mit den übrigen Mitarbeiterinnen und Mitarbeitern des ZSHKK und des SHE,
+- c das Kantonale Jugendamt für die Anpassung der Arbeitsverhältnisse des Jugendheims Lory.
+
+<sup>3</sup> Ist mit der Anpassung eines Arbeitsverhältnisses eine Höhereinreihung verbunden, so wird das Gehalt auf diesen Zeitpunkt erhöht.
+
+<sup>4</sup> Ist mit der Anpassung des Arbeitsverhältnisses eine Tiefereinreihung verbunden, so richtet sich das Verfahren nach den Grundsätzen von Artikel 43 PV.
+
+#### Art. T1-4
+
+**Überführung der Arbeitsverhältnisse der Lehrkräfte**
+
+<sup>1</sup> Die Überführung der Arbeitsverhältnisse der Lehrkräfte des Jugendheims Lory, der Kantonalen Beobachtungsstation Bolligen, des ZSHKK und des SHE in ein Anstellungsverhältnis nach der Gesetzgebung über die Anstellung der Lehrkräfte richtet sich nach den Artikeln T3-1 und T3-2 der Verordnung vom 28. März 2007 über die Anstellung der Lehrkräfte (LAV)[^T14-1].
+
+[^T14-1]: BSG [430.251.0](https://www.belex.sites.be.ch/data/430.251.0/de)
+
+#### Art. T1-5
+
+**Anwendbares Recht**
+
+<sup>1</sup> Die Änderungen von Artikel 13a Absatz 1 Buchstabe l und Absatz 2 sowie Artikel 14 Absatz 1 Buchstabe b2 sind ab dem 1. Januar 2023 anwendbar.
 
 Bern, 18. Oktober 1995
 

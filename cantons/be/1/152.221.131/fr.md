@@ -4,13 +4,13 @@ number: "152.221.131"
 title: "Ordonnance sur l'organisation et les tâches de la Direction de l'intérieur et de la justice *"
 short: "Ordonnance d'organisation DIJ, OO DIJ"
 language: fr
-version: 2022-01-01
-valid_until: 2022-04-30
-version_adopted: 2021-11-24
+version: 2022-05-01
+valid_until: 2022-08-31
+version_adopted: 2022-04-06
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.131"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2448/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2584/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2448/pdf_file"
 
 (Ordonnance d'organisation DIJ, OO DIJ)
 
-du 18.10.1995 (état au 01.01.2022)
+du 18.10.1995 (état au 01.05.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -258,9 +258,16 @@ arrête:
 - h assume le rôle d’autorité centrale cantonale en matière d’adoptions internationales conformément à la loi fédérale du 22 juin 2001 relative à la Convention de La Haye sur l’adoption et aux mesures de protection de l’enfant en cas d’adoption internationale (LF-CLaH)[^13a-3];
 - i est responsable de l’octroi d’autorisations d’accueillir des enfants en vue de leur adoption;
 - k accomplit les tâches attribuées à l’autorité cantonale compétente conformément à la législation fédérale sur l’adoption, en particulier l’instruction de la procédure d’adoption et la fonction de service de renseignements et agit à titre de centre de consultation pour les parents biologiques, leurs descendants et l’enfant;
-- l est responsable de la direction et de l'exploitation de la station d'observation pour adolescents de Bolligen;
+- l …
 - m prépare la législation dans son domaine de compétence;
 - n s'occupe, dans son domaine d'activité, de la planification des tâches et des ressources, de l'exécution et des rapports y relatifs;
+
+<sup>2</sup> Il est responsable du pilotage et de la surveillance des établissements suivants, pour autant que ces tâches ne soient pas confiées à une autre unité administrative:
+
+- a le Foyer d'éducation Lory,
+- b la Station cantonale d’observation de Bolligen,
+- c le Centre de pédagogie spécialisée Landorf Köniz-Schlössli Kehrsatz (CPSKK),
+- d le Foyer scolaire du Château de Cerlier (FSCC).
 
 [^13a-1]: RS [211.222.32](https://db.clex.ch/link/Bund/211.222.32/fr)
 [^13a-2]: RS [0.274.15](https://db.clex.ch/link/Bund/0.274.15/fr)
@@ -275,6 +282,7 @@ arrête:
 - a instruit les recours à l'intention du Conseil-exécutif et de la Direction;
 - b prépare en collaboration avec les services concernés les décisions de la Direction sur les prétentions contestées qui sont dirigées contre le canton et concernent des dommages-intérêts ou une indemnité à titre de réparation morale (art. 104 de la loi du 16 septembre 2004 sur le personnel [LPers][^14-1]);
 - b1 prépare les décisions de la Direction qui sont nécessaires dans le domaine des unités administratives décentralisées et de l'Office du registre du commerce pour autant que cette activité ne relève pas du domaine d'une autre unité;
+- b2 prépare les décisions de la Direction concernant le retrait du droit d’enseigner de personnes chargées de l'enseignement, du suivi, de la surveillance et des tâches de direction ou d'encadrement dans les établissements visés à l'article 13a, alinéa 2;
 - c prépare la législation pour autant que cette activité ne relève pas du domaine d'un autre office;
 - d prépare les arrêtés du Conseil-exécutif statuant sur des divergences d'opinion entre une autre Direction et le Contrôle des finances;
 - e …
@@ -381,6 +389,52 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1996.
+
+## T1 Dispositions transitoires de la modification du 06.04.2022
+
+#### Art. T1-1
+
+**Transfert et principe**
+
+<sup>1</sup> En collaboration avec les services compétents de la Direction de la sécurité et de la Direction de la santé, des affaires sociales et de l'intégration, les services compétents de la Direction de l'intérieur et de la justice sont chargés du transfert du Foyer d'éducation Lory, du Centre de pédagogie spécialisée Landorf Köniz-Schlössli Kehrsatz (CPSKK) et du Foyer scolaire du Château de Cerlier (FSCC) à la Direction de l'intérieur et de la justice.
+
+#### Art. T1-2
+
+**Transfert des rapports de travail au 1<sup>er</sup> janvier 2023 sans changements**
+
+<sup>1</sup> A partir du 1<sup>er</sup> janvier 2023, les rapports de travail des collaboratrices et collaborateurs du Foyer d'éducation Lory, du CPSKK et du FSCC sont transférés sans modifications sur le fond, pour autant que ni l'autorité d'engagement, ni le descriptif de poste et ni le lieu de travail ne changent. Les soldes de l’horaire de travail annualisé, les soldes de vacances et les soldes du compte épargne-temps sont transférés en dérogation aux articles 136c, 150 et 160c de l’ordonnance du 18 mai 2005 sur le personnel (OPers)[^T12-1]. Le traitement n'est adapté que sur la base des progressions générale et individuelle du traitement.
+
+[^T12-1]: RSB [153.011.1](https://www.belex.sites.be.ch/data/153.011.1/fr)
+
+#### Art. T1-3
+
+**Transfert des rapports de travail au 1<sup>er</sup> janvier 2023 avec changements**
+
+<sup>1</sup> En cas de changement d'autorité d'engagement, de descriptif de poste ou de lieu de travail au 1<sup>er</sup> janvier 2023, les rapports de travail du CPSKK, du FSCC et du Foyer d'éducation Lory sont adaptés à la même date. Les soldes de l’horaire de travail annualisé, les soldes de vacances et les soldes du compte épargne-temps sont transférés en dérogation aux articles 136c, 150 et 160c OPers. Les alinéas 3 et 4 s'appliquent pour le traitement, après les adaptations effectuées sur la base des progressions générale et individuelle du traitement.
+
+<sup>2</sup> Sont compétents pour les adaptations au 1<sup>er</sup> janvier 2023
+
+- a la Direction de l'intérieur et de la justice pour l'adaptation des rapports de travail des directrices ou des directeurs du CPSKK et du FSCC,
+- b l'Office des mineurs pour l'adaptation des rapports de travail des autres collaboratrices et collaborateurs du CPSKK et du FSCC,
+- c l'Office des mineurs pour l'adaptation des rapports de travail au Foyer d'éducation Lory.
+
+<sup>3</sup> Dans le cas où l'adaptation de rapports de travail entraîne l'affectation à une classe de traitement supérieure, le traitement est augmenté à cette date.
+
+<sup>4</sup> Dans le cas où l'adaptation de rapports de travail entraîne une affectation à une classe de traitement inférieure, la procédure est régie selon les principes de l'article 43 OPers.
+
+#### Art. T1-4
+
+**Transfert des rapports de travail des membres du corps enseignant**
+
+<sup>1</sup> Le transfert des rapports de travail des membres du corps enseignant du Foyer d'éducation Lory, de la Station cantonale d’observation de Bolligen, du CPSKK et du FSCC dans le régime des rapports de travail conformes à la législation sur le statut du corps enseignant est régi par les articles T3-1 et T3-2 de l'ordonnance du 28 mars 2007 sur le statut du corps enseignant (OSE)[^T14-1].
+
+[^T14-1]: RSB [430.251.0](https://www.belex.sites.be.ch/data/430.251.0/fr)
+
+#### Art. T1-5
+
+**Droit applicable**
+
+<sup>1</sup> Les modifications de l'article 13a, alinéa 1, lettre l et de l'alinéa 2, ainsi que de l'article 14, alinéa 1, lettre b2 s'appliquent à partir du 1<sup>er</sup> janvier 2023.
 
 Berne, 18 octobre 1995
 
