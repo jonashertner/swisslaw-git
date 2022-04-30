@@ -4,11 +4,11 @@ title: "Ordinance of 18 December 2013 on the Central Visa Information System and
 short: VISO
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: en
-version: 2022-01-01
+version: 2022-05-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2014-2-20220101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20220501/en/xml/fedlex-data-admin-ch-eli-cc-2014-2-20220501-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20220501/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Visa Information System Ordinance, VISO)
 
-of 18 December 2013 (Status as of 1 January 2022)
+of 18 December 2013 (Status as of 1 May 2022)
 
 The Swiss Federal Council,
 
@@ -55,9 +55,14 @@ In this Ordinance:
 - a. *VIS Mail* means a communication system that enables data transmission via the C-VIS infrastructure between states in which Regulation (EC) No 767/2008[^2-1] (EU VIS Regulation) applies;
 - b. *third country* means a state that is neither a member state of the European Union (EU) nor of the European Free Trade Association (EFTA);
 - c. *Schengen state* means a state bound by any one of the Schengen Association Agreements; these agreements are listed in Annex 1 number 1;
-- d. *Dublin state* means a state bound by any one of the Dublin Association Agreements; these agreements are listed in Annex 1 number 2.
+- d. *Dublin state* means a state bound by any one of the Dublin Association Agreements; these agreements are listed in Annex 1 number 2;
+- e.[^2-2] *terrorist offence* means an offence under Annex 1*a* of the N-SIS Ordinance of 8 March 2013[^2-3];
+- f.[^2-4] *other serious offence* means an offence under Annex 1*b* of the N-SIS Ordinance.
 
 [^2-1]: Regulation (EC) No 767/2008 of the European Parliament and of the Council of 9 July 2008 concerning the Visa Information System (VIS) and the exchange of data between member states on short-stay visas (VIS Regulation), OJ L 218 of 13.8.2008, p. 60; last amended by Regulation (EC) No 610/2013, OJ L 182 of 29.6.2013, p. 1.
+[^2-2]: Inserted by No I of the O of 10 Nov. 2021, in force since 1 May 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^2-3]: [SR 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
+[^2-4]: Inserted by No I of the O of 10 Nov. 2021, in force since 1 May 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 
 ## Chapter 2 National Visa System
 
@@ -91,7 +96,7 @@ ORBIS has the following aims:
 
 <sup>1</sup> ORBIS contains the data specified in Annex 2 relating to each admissible visa application.
 
-<sup>2</sup> The data recorded in ORBIS in application of the EU VIS Regulation[^5-1] is transmitted automatically to the C-VIS.
+<sup>2</sup> The data recorded in ORBIS in application of the EU VIS Regulation[^5-1] are transmitted automatically to the C-VIS.
 
 <sup>3</sup> All modifications and deletions of data recorded in ORBIS in application of the EU VIS Regulation are transmitted automatically via ORBIS to the C-VIS.
 
@@ -117,7 +122,7 @@ ORBIS has the following aims:
 
 <sup>1</sup> The applicant may send the personal data required for the visa application to an external service provider that has been assigned tasks in connection with the visa procedure.
 
-<sup>2</sup> The external service provider shall record the personal data in compliance with the provisions of Annex X of Regulation (EC) No 810/2009[^5b-2] (Visa Code) and shall pass this on to the visa authority.[^5b-3]
+<sup>2</sup> The external service provider shall record the personal data in compliance with the provisions of Annex X of Regulation (EC) No 810/2009[^5b-2] (Visa Code) and shall pass these on to the visa authority.[^5b-3]
 
 [^5b-1]: Inserted by No II of the O of 2 Sept. 2015, in force since 1 Oct. 2015 ([AS 2015 3047](https://fedlex.data.admin.ch/eli/oc/2015/573)).
 [^5b-2]: Regulation (EC) No 810/2009 of the European Parliament and of the Council of 13 July 2009 establishing a Community Code on Visas (Visa Code), OJ L 243 of 15.9.2009, p. 1; last amended by Regulation (EC) 2019/1155, OJ L 188 of 12.7.2019, p. 25.
@@ -131,7 +136,7 @@ ORBIS has the following aims:
 
 <sup>2</sup> If the application relates to a short-stay or airport transit visa, the data in Categories I–VI is transmitted to the C-VIS in accordance with Article 5 paragraph 2.[^6-6]
 
-<sup>3</sup> The visa authorities shall also record the data in Category VII listed in Annex 2. This data is not transmitted to the C-VIS.
+<sup>3</sup> The visa authorities shall also record the data in Category VII listed in Annex 2. These data are not transmitted to the C-VIS.
 
 [^6-1]: Amended by No II of the O of 2 Sept. 2015, in force since 1 Oct. 2015 ([AS 2015 3047](https://fedlex.data.admin.ch/eli/oc/2015/573)).
 [^6-2]: See footnote to Art. 5*b* para. 2.
@@ -144,7 +149,7 @@ ORBIS has the following aims:
 
 **Recording on behalf of another Schengen state**
 
-<sup>1</sup> If a Swiss authority records the data on a visa application on behalf of another Schengen state, it shall enter the names of the state concerned into ORBIS.
+<sup>1</sup> If a Swiss authority records the data on a visa application on behalf of another Schengen state, it shall enter the name of the state concerned into ORBIS.
 
 <sup>2</sup> If the authority under paragraph 1 grants, refuses, revokes, annuls or extends a visa, or if it does not continue the verification of the application, the name of the state concerned is transmitted automatically to the C-VIS.
 
@@ -152,7 +157,7 @@ ORBIS has the following aims:
 
 **Owner the data transmitted to the C-VIS**
 
-<sup>1</sup> Switzerland is the owner of the data entered by the Swiss visa authorities when recording a visa application and making a corresponding decision, which is transmitted to the C-VIS.
+<sup>1</sup> Switzerland is the owner of the data entered by the Swiss visa authorities when recording a visa application and making a corresponding decision, which are transmitted to the C-VIS.
 
 <sup>2</sup> The visa authorities may copy the fingerprints in a C-VIS application data file and enter them in a new application data file. They become owner of the new data file compiled thereby.
 
@@ -162,7 +167,7 @@ ORBIS has the following aims:
 
 <sup>1</sup> The visa authorities may establish or delete links between application data files where the applicant belongs to a group of travellers or to a family travelling together under Article 8 paragraph 4 of the EU VIS Regulation[^9-1].
 
-<sup>2</sup> The Swiss authority recording the data of an application data file may link it with other data records relating to the same applicant in accordance with Article 8 paragraph 3 the EU VIS Regulation or the delete the corresponding links.
+<sup>2</sup> The Swiss authority recording the data of an application data file may link them with other data records relating to the same applicant in accordance with Article 8 paragraph 3 the EU VIS Regulation or the delete the corresponding links.
 
 [^9-1]: See footnote to Art. 2 let. a.
 
@@ -406,15 +411,16 @@ The following federal authorities may request C-VIS data in accordance with Arti
   - 6\. Non-Proliferation Coordination,
   - 7\. the Aliens Division;
 
-- c.
+- c.[^17-1]
 
   at the Office of the Attorney General of Switzerland:
 
-  - 1\. the Legal Services Section: to implement the decisions of the Criminal Chamber of the Federal Criminal Court, in particular in application of Article 82 paragraph 1 of the Ordinance of 24 October 2007[^17-1] on Admission, Period of Stay and Employment,
-  - 2\. the divisions on international mutual assistance, state security, terrorism and white-collar crime in Bern, and the divisions on white-collar crime, organised crime and money laundering in the offices in Lausanne, Lugano and Zurich: to combat international felonies and misdemeanours and prosecute offences subject to federal jurisdiction in accordance with Articles 336 and 337 of the Criminal Code[^17-2].
+  - 1\. the Judgment Enforcement Service: to implement the decisions of the federal criminal justice authorities, unless the cantons have jurisdiction, in particular in application of Article 82 paragraph 1 of the Ordinance of 24 October 2007[^17-2] on Admission, Period of Stay and Employment,
+  - 2\. the divisions conducting proceedings in Bern, namely National Security and Organised Crime, White-Collar Crime, Mutual Legal Assistance, Terrorism, International Criminal Law and Cybercrime, and the offices in Lausanne, Lugano and Zurich: for the investigation and indictment of offences that are subject to federal jurisdiction in accordance with Articles 23 and 24 of the Criminal Procedure Code[^17-3] or other specific federal acts.
 
-[^17-1]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^17-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^17-1]: Amended by No I of the O of 10 Nov. 2021, in force since 1 May 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^17-2]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^17-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 18
 
@@ -442,11 +448,12 @@ The following cantonal and communal authorities may request C-VIS data in accord
 
 The fedpol OC shall verify whether:
 
-- a. the data is required to prevent, disclose or investigate offences under Article 286 paragraph 2 letter a of the Criminal Procedure Code[^20-1] (CPC);
+- a.[^20-1] the data are required to prevent, disclose or investigate terrorist or other serious offences;
 - b. its transmission is justified in the specific case;
-- c. there are justified grounds to assume that its transmission will considerably assist in preventing, disclosing or investigating offences under Article 286 paragraph 2 letter a CPC.
+- c.[^20-2] there are justified grounds to assume that its transmission will considerably assist in preventing, disclosing or investigating terrorist or other serious offences.
 
-[^20-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^20-1]: Amended by No I of the O of 10 Nov. 2021, in force since 1 May 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^20-2]: Amended by No I of the O of 10 Nov. 2021, in force since 1 May 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 
 #### Art. 21
 
@@ -483,13 +490,16 @@ On receipt of a visa application, the visa authorities shall systematically cons
 - a. the Central Migration Information System (ZEMIS) in accordance with the ZEMIS Ordinance of 12 April 2006[^23-1];
 - b. RIPOL in accordance with the RIPOL Ordinance of 15 October 2008[^23-2];
 - c. the Schengen Information System (SIS) in accordance with the N-SIS Ordinance of 8 March 2013[^23-3];
-- d.[^23-4] the Interpol Automated Search Facility database (ASF Interpol) in accordance with the Interpol Ordinance of 21 June 2013[^23-5].
+- d.[^23-4] the Interpol Automated Search Facility database (ASF Interpol) in accordance with the Interpol Ordinance of 21 June 2013[^23-5];
+- e.[^23-6] the Entry and Exit System in accordance with the Ordinance of 10 November 2021[^23-7] on the Entry and Exit System.
 
 [^23-1]: [SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
 [^23-2]: [[AS 2008 5013](https://fedlex.data.admin.ch/eli/oc/2008/699), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Annex 4 No II 15, [2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)Annex 3 No 4, [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)No I 4. [AS 2016 3931](https://fedlex.data.admin.ch/eli/oc/2016/665)Annex 2 No I]. See now the RIPOL O of 26 Oct. 2016 ([SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)).
 [^23-3]: [SR 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
 [^23-4]: Amended by No I of the O of 19 Feb. 2020, in force since 1 April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
 [^23-5]: [SR 366.1](https://fedlex.data.admin.ch/eli/cc/2013/466)
+[^23-6]: Inserted by No I of the O of 10 Nov. 2021, in force since 1 May 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^23-7]: [SR 142.206](https://fedlex.data.admin.ch/eli/cc/2021/734)
 
 #### Art. 24
 
@@ -541,12 +551,12 @@ This period begins:
 
 If a person acquires Swiss citizenship:
 
-- a. the visa authorities shall immediately delete the application data files in ORBIS relating to the person concerned and if applicable the links with data records of his or her spouse, children or the group with which he or she travelled, provided the application data was recorded by the Swiss authorities;
+- a. the visa authorities shall immediately delete the application data files in ORBIS relating to the person concerned and if applicable the links with data records of his or her spouse, children or the group with which he or she travelled, provided the application data were recorded by the Swiss authorities;
 - b. the SEM shall give immediate notice of this to the Schengen states that recorded the visa data.
 
 <sup>2</sup> The citizenship authorities must notify the SEM (Visa Principles Section) of the naturalisation.
 
-<sup>3</sup> If the decision to deny a visa is overturned by the competent appellate authority repealed, the data on the the rejection of the visa in ORBIS shall be deleted by the authority that denied the visa as soon as the appeal decision is final.
+<sup>3</sup> If the decision to deny a visa is overturned by the competent appellate authority repealed, the data on the rejection of the visa in ORBIS shall be deleted by the authority that denied the visa as soon as the appeal decision is final.
 
 #### Art. 28
 
@@ -562,7 +572,7 @@ If a person acquires Swiss citizenship:
 
 <sup>1</sup> In accordance with Article 30 EU VIS Regulation[^29-1], C-VIS data may be stored in ZEMIS, in ORBIS, in the RUMACA information system of the Border Guard or in corresponding information systems of the cantonal and communal police authorities if storage is required in the specific case and for as long as the relevant case is being processed.[^29-2]
 
-<sup>2</sup> The authorities under Articles 17 and 18 must immediately destroy the data received from the fedpol OC unless it is required for the purposes of the EU VIS Decision[^29-3]. They must destroy the data as soon as it is no longer required.
+<sup>2</sup> The authorities under Articles 17 and 18 must immediately destroy the data received from the fedpol OC unless they are required for the purposes of the EU VIS Decision[^29-3]. They must destroy the data as soon as they are no longer required.
 
 <sup>3</sup> Any use of data in contravention of paragraphs 1 and 2 constitutes an abuse as defined in Article 120*d* FNIA.
 
@@ -586,7 +596,7 @@ The following C-VIS data about a person may be disclosed to third countries or i
 - d. applicant's home address;
 - e. for minors: first name and surname of the person holding custody or of the guardian.
 
-<sup>3</sup> The ORBIS data that is not transmitted to the C-VIS may be disclosed in the specific case in accordance with the conditions set out in Article 105 FNIA.
+<sup>3</sup> The ORBIS data that are not transmitted to the C-VIS may be disclosed in the specific case in accordance with the conditions set out in Article 105 FNIA.
 
 [^30-1]: See footnote to Art. 2 let. a.
 
@@ -915,7 +925,6 @@ Organisational units
 - – II: Case officer for visas (Entry Section, Admission and Residence Section)
 - – III: Case officer for Dublin proceedings (asylum procedure staff, Dublin Sections)
 - – IV: Case officer for asylum (asylum procedure staff)
-- [tab]
 
 C-VIS
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Dezember 2013 über das zentrale Visa-Informationssys
 short: VISV
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: de
-version: 2022-01-01
+version: 2022-05-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2014-2-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2014-2-20220501-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20220501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20220101/de"
 
 (Visa-Informationssystem-Verordnung, VISV)
 
-vom 18. Dezember 2013 (Stand am 1. Januar 2022)
+vom 18. Dezember 2013 (Stand am 1. Mai 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -53,9 +53,14 @@ Im Sinne dieser Verordnung bedeuten:
 - a. *VIS-Mail:* Kommunikationssystem, das die Datenübermittlung zwischen Staaten, für welche die Verordnung (EG) Nr. 767/2008[^2-1] (EU-VIS-Verordnung) in Kraft getreten ist, über die Infrastruktur des C-VIS ermöglicht;
 - b. *Drittstaat:* Staat, der weder Mitgliedstaat der Europäischen Union (EU) noch der Europäischen Freihandelsassoziation (EFTA) ist;
 - c. *Schengen-Staat*: Staat, der durch eines der Schengen-Assoziierungsabkommen gebunden ist; diese Abkommen sind in Anhang 1 Ziffer 1 aufgeführt;
-- d. *Dublin-Staat*: Staat, der durch eines der Dublin-Assoziierungsabkommen gebunden ist; diese Abkommen sind in Anhang 1 Ziffer 2 aufgeführt.
+- d. *Dublin-Staat*: Staat, der durch eines der Dublin-Assoziierungsabkommen gebunden ist; diese Abkommen sind in Anhang 1 Ziffer 2 aufgeführt;
+- e.[^2-2] *terroristische Straftat*: Straftat nach Anhang 1*a* der N-SIS-Verordnung vom 8. März 2013[^2-3];
+- f.[^2-4] *sonstige schwere Straftat*: Straftat nach Anhang 1*b* der N-SIS-Verordnung.
 
 [^2-1]: Verordnung (EG) Nr. 767/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über das Visa-Informationssystem (VIS) und den Datenaustausch zwischen den Mitgliedstaaten über Visa für einen kurzfristigen Aufenthalt (VIS-Verordnung), ABl. L 218 vom 13.8.2008, S. 60; zuletzt geändert durch Verordnung (EU) Nr. 610/2013, ABl. L 182 vom 29.6.2013, S. 1.
+[^2-2]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^2-3]: [SR 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
+[^2-4]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 
 ## 2. Kapitel: Nationales Visumsystem
 
@@ -404,15 +409,16 @@ Die folgenden Bundesbehörden können im Sinne von Artikel 109*a* Absatz 3 Buchs
   - 6\. die Steuerung Nonproliferation,
   - 7\. der Bereich Ausländerdienst;
 
-- c.
+- c.[^17-1]
 
   bei der Bundesanwaltschaft:
 
-  - 1\. der Rechtsdienst: zum Vollzug der Entscheide der Strafkammer des Bundesstrafgerichts, namentlich in Anwendung von Artikel 82 Absatz 1 der Verordnung vom 24. Oktober 2007[^17-1] über Zulassung, Aufenthalt und Erwerbstätigkeit,
-  - 2\. die Bereiche Internationale Rechtshilfe, Staatsschutz, Terrorismus und Wirtschaftskriminalität in Bern sowie die Bereiche Wirtschaftskriminalität, Organisiertes Verbrechen und Geldwäscherei der Zweigstellen in Lausanne, Lugano und Zürich: zur Bekämpfung internationaler Verbrechen und Vergehen sowie zur Verfolgung von Delikten, die nach den Artikeln 336 und 337 des Strafgesetzbuches[^17-2] der Bundesgerichtsbarkeit unterstehen.
+  - 1\. der Dienst Urteilsvollzug: für den Vollzug der Entscheide der Strafbehörden des Bundes, wenn nicht die Kantone zuständig sind, namentlich in Anwendung von Artikel 82 Absatz 1 der Verordnung vom 24. Oktober 2007[^17-2] über Zulassung, Aufenthalt und Erwerbstätigkeit,
+  - 2\. die verfahrensführenden Abteilungen Staatsschutz und kriminelle Organisationen, Wirtschaftskriminalität, Rechtshilfe, Terrorismus, Völkerstrafrecht und Cyberkriminalität in Bern und in den Zweigstellen in Lausanne, Lugano und Zürich: für die Ermittlung und Anklageerhebung bei Straftaten, die nach den Artikeln 23 und 24 der Strafprozessordnung[^17-3] oder besonderen Bundesgesetzen der Bundesgerichtsbarkeit unterstehen.
 
-[^17-1]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^17-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^17-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^17-2]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^17-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 18
 
@@ -440,11 +446,12 @@ Die folgenden kantonalen und kommunalen Behörden können im Sinne von Artikel 1
 
 Die EZ fedpol überprüft, ob:
 
-- a. die Daten zur Verhütung, Aufdeckung oder Ermittlung von Straftaten nach Artikel 286 Absatz 2 Buchstabe a der Strafprozessordnung[^20-1] (StPO) erforderlich sind;
+- a.[^20-1] die Daten zur Verhütung, Aufdeckung oder Ermittlung von terroristischen oder sonstigen schweren Straftaten erforderlich sind;
 - b. ihre Übermittlung im Einzelfall gerechtfertigt ist;
-- c. berechtigte Gründe zur Annahme bestehen, dass ihre Übermittlung zur Verhütung, Aufdeckung oder Ermittlung von Straftaten nach Artikel 286 Absatz 2 Buchstabe a StPO erheblich beitragen wird.
+- c.[^20-2] berechtigte Gründe zur Annahme bestehen, dass ihre Übermittlung zur Verhütung, Aufdeckung oder Ermittlung von terroristischen oder sonstigen schweren Straftaten erheblich beitragen wird.
 
-[^20-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^20-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^20-2]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 
 #### Art. 21
 
@@ -481,13 +488,16 @@ Bei der Einreichung eines Visumgesuchs nehmen die Visumbehörden systematisch ü
 - a. im Zentralen Migrationsinformationssystem (ZEMIS) nach der ZEMIS-Verordnung vom 12. April 2006[^23-1];
 - b. im RIPOL nach der RIPOL-Verordnung vom 15. Oktober 2008[^23-2];
 - c. im Schengener Informationssystem (SIS) nach der N-SIS-Verordnung vom 8. März 2013[^23-3];
-- d.[^23-4] in der Interpol-Datenbank Automated Search Facility (ASF-Interpol) nach der Interpol-Verordnung vom 21. Juni 2013[^23-5].
+- d.[^23-4] in der Interpol-Datenbank Automated Search Facility (ASF-Interpol) nach der Interpol-Verordnung vom 21. Juni 2013[^23-5];
+- e.[^23-6] im Einreise- und Ausreisesystem nach der Verordnung vom 10. November 2021[^23-7] über das Einreise- und Ausreisesystem.
 
 [^23-1]: [SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
 [^23-2]: [[AS 2008 5013](https://fedlex.data.admin.ch/eli/oc/2008/699), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 15, [2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)Anhang 3 Ziff. 4, [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)Ziff. I 4. [AS 2016 3931](https://fedlex.data.admin.ch/eli/oc/2016/665)Anhang 2 Ziff. I]. Siehe heute: die RIPOL-Verordnung vom 26. Okt. 2016 ([SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)).
 [^23-3]: [SR 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
 [^23-4]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
 [^23-5]: [SR 366.1](https://fedlex.data.admin.ch/eli/cc/2013/466)
+[^23-6]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^23-7]: [SR 142.206](https://fedlex.data.admin.ch/eli/cc/2021/734)
 
 #### Art. 24
 

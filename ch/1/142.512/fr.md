@@ -4,11 +4,11 @@ title: "Ordonnance du 18 décembre 2013 sur le système central d'information su
 short: OVIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: fr
-version: 2022-01-01
+version: 2022-05-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-2-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-2014-2-20220501-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20220501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20220101/fr"
 
 (Ordonnance VIS, OVIS)
 
-du 18 décembre 2013 (Etat le 1<sup>er</sup> janvier 2022)
+du 18 décembre 2013 (Etat le 1<sup>er</sup> mai 2022)
 
 Le Conseil fédéral suisse,
 
@@ -52,9 +52,14 @@ Au sens de la présente ordonnance, on entend par:
 - a. *VIS Mail:* le système de communication qui permet la transmission d’informations, via l’infrastructure du C-VIS, entre États à l’égard desquels le règlement (CE) n<sup>o</sup> 767/2008[^2-1] (règlement VIS UE) est entré en vigueur;
 - b. *État tiers:* État qui n’est membre ni de l’Union européenne (UE) ni de l’Association européenne de libre échange (AELE);
 - c. *État Schengen:* État lié par un des accords d’association à Schengen; ces accords figurent à l’annexe 1, ch. 1;
-- d. *État Dublin:* État lié par un des accords d’association à Dublin; ces accords figurent à l’annexe 1, ch. 2.
+- d. *État Dublin:* État lié par un des accords d’association à Dublin; ces accords figurent à l’annexe 1, ch. 2;
+- e.[^2-2] *infraction terroriste*: infraction au sens de l’annexe 1*a* de l’ordonnance N-SIS du 8 mars 2013[^2-3];
+- f.[^2-4] *autre infraction pénale grave*: infraction au sens de l’annexe 1*b* de l’ordonnance N-SIS.
 
 [^2-1]: R (CE) n<sup>o</sup> 767/2008 du Parlement européen et du Conseil du 9 juil. 2008 concernant le système d’information sur les visas (VIS) et l’échange de données entre les États membres sur les visas de court séjour (règlement VIS), JO L 218 du 13.8.2008, p. 60; modifié en dernier lieu par le R (UE) n<sup>o</sup> 610/2013, JO L 182 du 29.6.2013, p. 1.
+[^2-2]: Introduite par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
+[^2-3]: [RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
+[^2-4]: Introduite par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
 
 ## Chapitre 2 Système national d’information sur les visas
 
@@ -402,15 +407,16 @@ Les autorités fédérales qui peuvent demander certaines données du C-VIS en v
   - 6\. la coordination Non-prolifération,
   - 7\. le domaine Service des étrangers;
 
-- c.
+- c.[^17-1]
 
   auprès du Ministère public de la Confédération:
 
-  - 1\. le service juridique: pour exécuter des arrêts de la Cour des affaires pénales du Tribunal pénal fédéral, en particulier en application de l’art. 82, al. 1, de l’ordonnance du 24 octobre 2007 relative à l’admission, au séjour et à l’exercice d’une activité lucrative[^17-1],
-  - 2\. les domaines Entraide judiciaire internationale, Protection de l’État, terrorisme, criminalité économique (Berne) et Criminalité économique, crime organisé, blanchiment d’argent (antennes de Lausanne, Lugano et Zurich): pour la lutte contre les crimes et délits internationaux et pour la poursuite des infractions soumises à la juridiction fédérale selon les art. 336 et 337 du code pénal[^17-2].
+  - 1\. le Service de l’exécution des jugements: pour exécuter les décisions des autorités pénales de la Confédération, dans la mesure où elle ne relève pas des cantons, notamment en application de l’art. 82, al. 1, de l’ordonnance du 24 octobre 2007 relative à l’admission, au séjour et à l’exercice d’une activité lucrative[^17-2],
+  - 2\. les divisions Protection de l’État et organisations criminelles, Criminalité économique, Entraide judiciaire, Terrorisme, Droit pénal international et Cybercriminalité établies à Berne et dans les succursales de Lausanne, de Lugano et de Zurich qui sont chargées de conduire les procédures: pour mener les investigations et dresser les actes d’accusation concernant les infractions qui relèvent de la juridiction fédérale en vertu des art. 23 et 24 du code de procédure pénale[^17-3] ou de lois fédérales spéciales.
 
-[^17-1]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^17-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
+[^17-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^17-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 18
 
@@ -438,11 +444,12 @@ Les autorités cantonales et communales qui peuvent demander certaines données 
 
 La CE fedpol vérifie:
 
-- a. si les données sont nécessaires à la prévention ou à la détection d’infractions visées à l’art. 286, al. 2, let. a, du code de procédure pénale (CPP)[^20-1] ou à la réalisation d’enquêtes en la matière;
+- a.[^20-1] si les données sont nécessaires à la prévention ou à la détection d’infractions terroristes ou d’autres infractions pénales graves ou à la réalisation d’enquêtes en la matière;
 - b. si la transmission des données se justifie dans un cas d’espèce;
-- c. s’il existe des motifs raisonnables de considérer que la transmission des données contribuera de manière significative à la prévention ou à la détection d’infractions visées à l’art. 286, al. 2, let. a, CPP ou à la réalisation d’enquêtes en la matière.
+- c.[^20-2] s’il existe des motifs raisonnables de considérer que la transmission des données contribuera de manière significative à la prévention ou à la détection d’infractions terroristes ou d’autres infractions pénales graves ou à la réalisation d’enquêtes en la matière.
 
-[^20-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
+[^20-2]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
 
 #### Art. 21
 
@@ -479,13 +486,16 @@ Lors du dépôt d’une demande de visa, les autorités compétentes en matière
 - a. le système central d’information sur la migration (SYMIC) prévu par l’ordonnance SYMIC du 12 avril 2006[^23-1];
 - b. le système de recherches informatisées de police (RIPOL) prévu par l’ordonnance RIPOL du 15 octobre 2008[^23-2];
 - c. le Système d’information Schengen (SIS) prévu par l’ordonnance N-SIS du 8 mars 2013[^23-3];
-- d.[^23-4] la banque de données Automated Search Facility d’Interpol (ASF-Interpol) prévue par l’ordonnance Interpol du 21 juin 2013[^23-5].
+- d.[^23-4] la banque de données Automated Search Facility d’Interpol (ASF-Interpol) prévue par l’ordonnance Interpol du 21 juin 2013[^23-5];
+- e.[^23-6] le système d’entrée et de sortie prévu par l’ordonnance du 10 novembre 2021[^23-7] sur le système d’entrée et de sortie.
 
 [^23-1]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
 [^23-2]: [[RO 2008 5013](https://fedlex.data.admin.ch/eli/oc/2008/699), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 15, [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)ch. I 4. [RO 2016 3931](https://fedlex.data.admin.ch/eli/oc/2016/665)annexe 2 ch. I]. Voir actuellement l’O du 26 oct. 2016 ([RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)).
 [^23-3]: [RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
 [^23-4]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
 [^23-5]: [RS 366.1](https://fedlex.data.admin.ch/eli/cc/2013/466)
+[^23-6]: Introduite par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
+[^23-7]: [RS 142.206](https://fedlex.data.admin.ch/eli/cc/2021/734)
 
 #### Art. 24
 

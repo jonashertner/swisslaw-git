@@ -4,11 +4,11 @@ title: "Ordinanza del 18 dicembre 2013 sul sistema centrale d'informazione visti
 short: OVIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: it
-version: 2022-01-01
+version: 2022-05-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2014-2-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20220501/it/xml/fedlex-data-admin-ch-eli-cc-2014-2-20220501-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20220501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20220101/it"
 
 (Ordinanza VIS, OVIS)
 
-del 18 dicembre 2013 (Stato 1° gennaio 2022)
+del 18 dicembre 2013 (Stato 1° maggio 2022) (Stato 1° maggio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -53,9 +53,14 @@ Ai sensi della presente ordinanza s’intende per:
 - a. *VIS Mail:* il sistema di comunicazione che consente, attraverso l’infrastruttura del C-VIS, la trasmissione di dati tra gli Stati per i quali è entrato in vigore il regolamento (CE) n. 767/2008 (regolamento VIS UE)[^2-1];
 - b. *Stato terzo:* Stato che non è membro né dell’Unione europea (UE) né dell’Associazione europea di libero scambio (AELS);
 - c. *Stato Schengen:* Stato vincolato da uno degli accordi d’associazione a Schengen; detti accordi figurano all’allegato 1 numero 1;
-- d. *Stato Dublino:* Stato vincolato da uno degli accordi d’associazione a Dublino; detti accordi figurano all’allegato 1 numero 2.
+- d. *Stato Dublino:* Stato vincolato da uno degli accordi d’associazione a Dublino; detti accordi figurano all’allegato 1 numero 2;
+- e.[^2-2] *reato di terrorismo*: reato secondo l’allegato 1*a* dell’ordinanza N-SIS dell’8 marzo 2013[^2-3];
+- f.[^2-4] *altro reato grave*: reato secondo l’allegato 1*b* dell’ordinanza N-SIS.
 
 [^2-1]: Regolamento (CE) n. 767/2008 del Parlamento europeo e del Consiglio, del 9 lug. 2008, concernente il sistema di informazione visti (VIS) e lo scambio di dati tra Stati membri sui visti per soggiorni di breve durata (regolamento VIS), GU L 218 del 13.8.2008, pag. 60; modificato da ultimo dal regolamento (UE) n. 610/2013, GU L 182 del 29.6.2013, pag. 1.
+[^2-2]: Introdotta dal n. I dell’O del 10 nov. 2021, in vigore dal 1° mag. 2022 ([RU 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
+[^2-3]: [RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
+[^2-4]: Introdotta dal n. I dell’O del 10 nov. 2021, in vigore dal 1° mag. 2022 ([RU 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
 
 ## Capitolo 2: Sistema nazionale d’informazione visti
 
@@ -235,7 +240,7 @@ Le autorità seguenti possono accedere in rete ai dati del sistema ORBIS per svo
 
 <sup>2</sup> I diritti di accesso sono disciplinati nell’allegato 2.
 
-[^10-1]: Nuova espr. giusta l’all. n. II 2 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^10-1]: Nuova espr. giusta l’all. n. II 2 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 (RU **202****1** 800).
 [^10-2]: [[RU 2008 5013](https://fedlex.data.admin.ch/eli/oc/2008/699), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 15, [2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)all. 3 n. 4, [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)n. I 4. [RU 2016 3931](https://fedlex.data.admin.ch/eli/oc/2016/665)all. 2 n. I] . Vedi ora l’O del del 26 ott. 2016 ([RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)).
 [^10-3]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 [^10-4]: Nuovo testo giusta il n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
@@ -244,7 +249,7 @@ Le autorità seguenti possono accedere in rete ai dati del sistema ORBIS per svo
 [^10-7]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^10-8]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
 [^10-9]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^10-10]: Abrogato dal n. I dell’O del 21 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-10]: Abrogata dal n. I dell’O del 21 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
 
 ## Capitolo 3: Sistema centrale d’informazione visti
 
@@ -404,15 +409,16 @@ Le autorità federali seguenti possono chiedere dati del C-VIS in virtù dell’
   - 6\. la coordinazione Non-proliferazione,
   - 7\. l’ambito Servizio degli stranieri;
 
-- c.
+- c.[^17-1]
 
   presso il Ministero pubblico della Confederazione:
 
-  - 1\. il servizio giuridico: per eseguire le decisioni prese dalla Corte penale del Tribunale penale federale, in particolare in applicazione dell’articolo 82 capoverso 1 dell’ordinanza del 24 ottobre 2007[^17-1] sull’ammissione, il soggiorno e l’attività lucrativa (OASA),
-  - 2\. il centro di competenze Assistenza giudiziaria internazionale (ECI), Protezione dello Stato, Terrorismo/Criminalità economica (Berna), Criminalità economica/Criminalità organizzata, Riciclaggio di denaro (sedi distaccate di Losanna, Lugano e Zurigo): per la lotta contro i crimini e delitti internazionali e il perseguimento dei reati sottoposti alla giurisdizione federale secondo gli articoli 336 e 337 del Codice penale[^17-2].
+  - 1\. il servizio Esecuzione delle sentenze: per l’esecuzione delle decisioni delle autorità penali della Confederazione, se la competenza non spetta ai Cantoni, in particolare in applicazione dell’articolo 82 capoverso 1 dell’ordinanza del 24 ottobre 2007[^17-2] sull’ammissione, il soggiorno e l’attività lucrativa,
+  - 2\. le divisioni Protezione dello Stato e organizzazioni criminali, Criminalità economica, Assistenza giudiziaria, Terrorismo, Diritto penale internazionale e Cybercriminalità che conducono i procedimenti a Berna e presso le filiali di Losanna, Lugano e Zurigo: per l’indagine e l’accusa in caso di reati che sottostanno alla giurisdizione federale secondo gli articoli 23 e 24 del codice di procedura penale[^17-3] o secondo leggi federali speciali.
 
-[^17-1]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^17-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^17-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° mag. 2022 ([RU 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
+[^17-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^17-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 18
 
@@ -440,11 +446,12 @@ Le autorità cantonali e comunali seguenti possono chiedere dati del C-VIS in vi
 
 La CO fedpol verifica:
 
-- a. se i dati sono necessari alla prevenzione, all’individuazione o all’investigazione dei reati di cui all’articolo 286 capoverso 2 lettera a del Codice di procedura penale (CPP)[^20-1];
+- a.[^20-1] se i dati sono necessari alla prevenzione, all’individuazione o all’investigazione di reati di terrorismo o di altri reati gravi;
 - b. se in un caso specifico è giustificata la trasmissione dei dati;
-- c. se vi sono motivi ragionevoli di ritenere che la trasmissione dei dati contribuirà in maniera significativa alla prevenzione, all’individuazione o all’investigazione dei reati di cui all’articolo 286 capoverso 2 lettera a CPP.
+- c.[^20-2] se vi sono motivi ragionevoli di ritenere che la trasmissione dei dati contribuirà alla prevenzione, all’individuazione o all’investigazione di reati di terrorismo o di altri reati gravi.
 
-[^20-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^20-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° mag. 2022 ([RU 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
+[^20-2]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° mag. 2022 ([RU 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
 
 #### Art. 21
 
@@ -481,13 +488,16 @@ Al deposito di una domanda di visto, l’autorità competente per i visti consul
 - a. il sistema d’informazione centrale sulla migrazione (SIMIC) previsto dall’ordinanza SIMIC del 12 aprile 2006[^23-1];
 - b. il sistema di ricerca informatizzato di polizia (RIPOL) previsto dall’ordinanza RIPOL del 15 ottobre 2008[^23-2];
 - c. il sistema d’informazione Schengen (SIS) previsto dall’ordinanza N-SIS dell’8 marzo 2013[^23-3];
-- d.[^23-4] la banca dati Automated Search Facility di Interpol (ASF-Interpol) prevista dall’ordinanza Interpol del 21 giugno 2013[^23-5].
+- d.[^23-4] la banca dati Automated Search Facility di Interpol (ASF-Interpol) prevista dall’ordinanza Interpol del 21 giugno 2013[^23-5];
+- e.[^23-6] il sistema di ingressi/uscite previsto dall’ordinanza del 10 novembre 2021[^23-7] sul sistema di ingressi/uscite.
 
 [^23-1]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
 [^23-2]: [[RU 2008 5013](https://fedlex.data.admin.ch/eli/oc/2008/699), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 15, [2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)all. 3 n. 4, [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)n. I 4. [RU 2016 3931](https://fedlex.data.admin.ch/eli/oc/2016/665)all. 2 n. I] . Vedi ora l’O del del 26 ott. 2016 ([RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)).
 [^23-3]: [RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
 [^23-4]: Nuovo testo giusta il n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
 [^23-5]: [RS 366.1](https://fedlex.data.admin.ch/eli/cc/2013/466)
+[^23-6]: Introdotta dal n. I dell’O del 10 nov. 2021, in vigore dal 1° mag. 2022 ([RU 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
+[^23-7]: [RS 142.206](https://fedlex.data.admin.ch/eli/cc/2021/734)
 
 #### Art. 24
 
@@ -920,7 +930,7 @@ C-VIS
 
 <table>
 <tr><td>Campi di dati</td><td>SEM I statistiche</td><td>SEM II visti</td><td>SEM III asilo Applicazione del regolamento Dublino UE[^annex3-lvlu1-1]</td><td>SEM IV asilo Procedura d’asilo</td><td>MIGRA e OCF in qualità di autorità rilascianti i visti</td><td>OCF controllo frontiere</td><td>RSE</td><td>DFAE</td><td>CP sul territorio svizzero</td><td>CO fedpol</td></tr>
-<tr><td colspan="11">**I. Dati relativi al deposito della domanda**</td></tr>
+<tr><td colspan="11">I. Dati relativi al deposito della domanda</td></tr>
 <tr><td>Numero della domanda</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
 <tr><td>Stato della procedura: domanda depositata</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Su mandato di rappresentanza di un altro Stato Schengen (sì/no)</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
@@ -956,7 +966,7 @@ C-VIS
 <tr><td>Menzione «privo d’oggetto» in quanto le impronte non possono essere prodotte</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td></tr>
 <tr><td>Menzione «privo d’oggetto» in quanto le impronte non sono obbligatorie</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td></tr>
 <tr><td>Registrazione impronte digitali sì/no</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td colspan="11">**II.** **Dati da indicare in caso di rilascio del visto**</td></tr>
+<tr><td colspan="11">II. Dati da indicare in caso di rilascio del visto</td></tr>
 <tr><td>Stato della procedura: visto rilasciato oppure procedura conclusa a motivo del ritiro della domanda</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Luogo e data della decisione</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Su mandato di rappresentanza di un altro Stato Schengen (sì/no)</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
@@ -969,25 +979,25 @@ C-VIS
 <tr><td>Visto rilasciato su foglio separato (sì/no)</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Vignetta di visto completata a mano</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Durata del soggiorno autorizzato dal visto</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="11">**III.** **Dati da indicare in caso di interruzione dell’esame della domanda**</td></tr>
+<tr><td colspan="11">III. Dati da indicare in caso di interruzione dell’esame della domanda</td></tr>
 <tr><td>Stato della procedura: interrotta</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
 <tr><td>Su mandato di rappresentanza di un altro Stato Schengen (sì/no)</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
 <tr><td>Nome e indirizzo dell’autorità</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
 <tr><td>Luogo e data della decisione</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
 <tr><td>Stato Schengen competente per l’esame della domanda</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
-<tr><td colspan="11">**IV. Dati da indicare in caso di rifiuto del visto**</td></tr>
+<tr><td colspan="11">IV. Dati da indicare in caso di rifiuto del visto</td></tr>
 <tr><td>Stato della procedura: rifiutato</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
 <tr><td>Su mandato di rappresentanza di un altro Stato Schengen (sì/no)</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
 <tr><td>Nome e indirizzo dell’autorità</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
 <tr><td>Luogo e data della decisione</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
 <tr><td>Motivi del rifiuto</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
-<tr><td colspan="11">**V.** **Dati da indicare in caso di annullamento o revoca del visto**</td></tr>
+<tr><td colspan="11">V. Dati da indicare in caso di annullamento o revoca del visto</td></tr>
 <tr><td>Stato della procedura: annullamento, revoca</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Su mandato di rappresentanza di un altro Stato Schengen (sì/no)</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Nome e indirizzo dell’autorità</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Luogo e data della decisione</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Motivi dell’annullamento o della revoca (inserire manualmente)</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="11">**VI. Dati da indicare in caso di proroga del visto**</td></tr>
+<tr><td colspan="11">VI. Dati da indicare in caso di proroga del visto</td></tr>
 <tr><td>Stato della procedura: proroga</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Su mandato di rappresentanza di un altro Stato Schengen (sì/no)</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Nome e indirizzo dell’autorità</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
@@ -998,7 +1008,7 @@ C-VIS
 <tr><td>Territorio in cui il titolare del visto è autorizzato a spostarsi se la validità territoriale del visto prorogato differisce da quella del visto d’origine</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Tipo di visto prorogato</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Motivi della proroga</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="11">**VII. Collegamenti tra domande**</td></tr>
+<tr><td colspan="11">VII. Collegamenti tra domande</td></tr>
 <tr><td>Fascicoli correlati (parentela: coniuge, figli)</td><td></td><td>A</td><td>A<sup>2</sup></td><td>A<sup>2</sup></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Fascicoli correlati (gruppo)</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Fascicoli successivi del richiedente</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
