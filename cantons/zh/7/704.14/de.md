@@ -4,10 +4,9 @@ number: "704.14"
 title: Leitungskatasterverordnung (LKV)
 short: LKV
 language: de
-nachtrag: "78"
-valid_until: 2022-05-01
+nachtrag: "117"
 adopted: 2022-01-26
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-704_14-2012_06_27-2012_11_01-078.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-704_14-2022_01_26-2022_05_01-117.html"
 text: pdf
 ---
 
@@ -15,230 +14,114 @@ text: pdf
 
 # Leitungskatasterverordnung (LKV)
 
-(vom 27. Juni 2012)[^t-1],[^t-2]
+(vom 26. Januar 2022)[^t-1],[^t-2]
 
 Der Regierungsrat,
 
-gestützt auf § 19 des Geoinformationsgesetzes (KGeoIG) vom 24. Oktober 2011[^t-3],
+gestützt auf § 19 Abs. 3 des Kantonalen Geoinformationsgesetzes vom 24. Oktober 2011[^t-3],
 
 beschliesst:
 
-[^t-1]: OS 67, 384; Begründung siehe ABl 2012-07-13.
-[^t-2]: Inkrafttreten: 1. November 2012.
-[^t-3]: LS 704.1.
-
-### A. Zuständigkeit und Aufgaben
+[^t-1]: OS 77, 198; Begründung siehe ABl 2022-02-04.
+[^t-2]: Inkrafttreten: 1. Mai 2022.
+[^t-3]: LS 704.1. 1. 7. 22 - 117 3
 
 #### § 1
 
-**Zuständige Stellen**
+**Geltungsbereich**
 
-<sup>1</sup> Die Gemeinden sind für den Leitungskataster zuständig.
+<sup>1</sup> Der kantonale Leitungskataster umfasst alle ober- und unterirdischen Versorgungs- und Entsorgungsleitungen, Trassen und die zugehörigen baulichen Objekte der Medien Abwasser, Elektrizität, Fernwärme, Gas, Kommunikation und Wasser.
 
-<sup>2</sup> Für folgende Gebiete sind die Eigentümerinnen und Eigentümer für den Leitungskataster zuständig:
+<sup>2</sup> Zusätzlich können weitere Medien und Leitungselemente sowie die Projektperimeter im kantonalen Leitungskataster dargestellt werden.
 
-- a. Flughafen Zürich,
-
-- b. Militärflugplatz Dübendorf,
-
-- c. Waffenplatz Reppischtal,
-
-- d. Bahngebiet,
-
-- e. Staatsstrassengebiet,
-
-- f. Nationalstrassengebiet.
+<sup>3</sup> Die Leitungskatasterinformationen werden durch Metadaten beschrieben. Diese umfassen zusätzlich die Zuständigkeitsperimeter der verschiedenen Leitungsmedien.
 
 #### § 2
 
-**Aufgaben**
+**Begriffe**
 
-Die zuständigen Stellen sind für das Anlegen, Verwalten, Nachführen und Archivieren des Leitungskatasters verantwortlich und gewährleisten dessen Verfügbarkeit.
+In dieser Verordnung bedeuten:
 
-### B. Gegenstand und Anforderungen
+- a. Werkinformationen: die Gesamtheit aller Daten eines Mediums, die eine Eigentümerin oder ein Eigentümer der Leitungen für den Betrieb und den Unterhalt des Werks benötigt,
+
+- b. Leitungskatasterinformationen: Teil der Werkinformationen über die Leitungen und Trassen sowie die zugehörigen baulichen Objekte,
+
+- c. Leitungskatasterauszug: digitaler grafischer Auszug aus den Leitungskatasterinformationen,
+
+- d. Zuständigkeitsperimeter: Gebiet der dargestellten Versorgungs- und Entsorgungsleitungen (Endversorgung), der Transportleitungen (Durchleitungen) und optional das potenzielle Erschliessungsgebiet einer Eigentümerin oder eines Eigentümers der Leitungen.
 
 #### § 3
 
-**Gegenstand des Leitungskatasters a. Nach kantonalem Recht**
+**Katasterleitung**
 
-<sup>1</sup> Der Leitungskataster erfasst die Leitungen mit ihren ober- und unterirdischen baulichen Anlagen insbesondere in den folgenden Bereichen:
+<sup>1</sup> Das Amt für Raumentwicklung leitet den kantonalen Leitungskataster.
 
-- a. Wasserversorgung,
+<sup>2</sup> Die Katasterleitung hat insbesondere folgende Aufgaben: sie a. beaufsichtigt die am kantonalen Leitungskataster beteiligten Stellen,
 
-- b. Gasversorgung,
-
-- c. Elektrizitätsversorgung,
-
-- d. Abwasserentsorgung,
-
-- e. elektrische Anlagen an Strassen,
-
-- f. Rohrpost, Tele- und Kabelkommunikation,
+- b. gibt Standards vor,
 
 **1**
 
-- 1\. 10. 12 - 78
+- 1\. 7. 22 - 117
 
-- g. Drainagen der landwirtschaftlichen Nutzflächen und der Erholungszonen,
+- c. betreibt ein zentrales System zur Datenlieferung und Datenbereitstellung,
 
-- h. Transport flüssiger Brennstoffe,
+- d. betreibt ein zentrales Leitungskatasterportal,
 
-- i. Wärmeversorgung,
+- e. stellt Darstellungs- und Downloaddienste bereit,
 
-- j. Verkehrsbetriebe.
+- f. regelt die erforderlichen Prozesse für den Zugang und die Nutzung,
 
-<sup>2</sup> Leitungen und Anlagen gemäss Rohrleitungsgesetz vom 4. Oktober 1963[^3-1] sowie öffentliche Gewässer sind nicht Bestandteil des Leitungskatasters.
+- g. führt ein Monitoring durch.
 
-[^3-1]: SR 746.1. 1. 10. 12 - 78 5
+<sup>3</sup> Sie setzt eine beratende Fachkommission für den kantonalen Leitungskataster ein.
 
 #### § 4
 
-**b. Nach kommunalem Recht**
+**Eigentümerinnen und Eigentümer**
 
-<sup>1</sup> Die Gemeinden können den Gegenstand des Leitungskatasters erweitern.
+Die Eigentümerinnen und Eigentümer der Leitungen sind verpflichtet zur a. Lieferung der Leitungskatasterinformationen nach den vorgegebenen Standards 1. am Ende jeden Quartals und 2. nach jeder Änderung in den Werkinformationen, die für den kantonalen Leitungskataster von Bedeutung ist,
 
-<sup>2</sup> Sie können projektierte Änderungen von Leitungen in vereinfachter Form erfassen und im Leitungskataster als «Leitung in Planung» oder in Form von Projektperimetern darstellen.
+- b. Bewirtschaftung der Metadaten im zentralen System,
+
+- c. Bereinigung der Leitungskatasterinformationen.
 
 #### § 5
 
-**Technische und administrative Vorgaben a. Der Baudirektion**
+**Zugang**
 
-<sup>1</sup> Die Baudirektion erlässt Ausführungsbestimmungen über a. die Datenbeschreibungssprache und die Mindestanforderungen an die Daten,
+<sup>1</sup> Der Zugang zum Leitungskatasterportal erfolgt über eine automatische Benutzerregistrierung.
 
-- b. die Daten- und Darstellungsmodelle sowie die Normen für Geometadaten,
+<sup>2</sup> Die Nutzung der Dienste setzt eine geprüfte Benutzerregistrierung voraus.
 
-- c. die Schnittstellen für den Austausch der digitalen Daten und die Anforderungen an den georeferenzierten, webbasierten Darstellungsdienst,
+<sup>3</sup> Die Katasterleitung löscht die Anmeldedaten für die Benutzerregistrierung sechs Monate nach der letzten Anmeldung.
 
-- d. weitere administrative und technische Belange unter Vorbehalt von § 6.
-
-<sup>2</sup> Die Ausführungsbestimmungen richten sich nach den geltenden Normen und Richtlinien der Branchenverbände.
-
-<sup>3</sup> Beim Erlass der Ausführungsbestimmungen stellt die Baudirektion die Mitwirkung der kantonalen Fachstellen, der Gemeinden und der Leitungseigentümerinnen und -eigentümer sicher.
+<sup>4</sup> Sie kann den Zugang sperren.
 
 #### § 6
 
-**b. Des ARE**
+**Nutzung**
 
-Das Amt für Raumentwicklung (ARE) a. stellt die Geodienste für den Austausch unter Behörden bereit,
+<sup>1</sup> Die Nutzung des zentralen Leitungskatasterportals umfasst die Einsicht in einen eingeschränkten Ausschnitt des kantonalen Leitungskatasters sowie den Bezug eines Leitungskatasterauszugs und von Daten.
 
-- b. berät in Zusammenarbeit mit den kantonalen Fachstellen sowie den Leitungseigentümerinnen und -eigentümern die Gemeinden beim Anlegen, Verwalten, Nachführen und Archivieren des Leitungskatasters,
-
-- c. kann in Absprache mit den kantonalen Fachstellen Grundsätze über die Nachführung, Verfügbarkeit und Archivierung des Leitungskatasters festlegen,
-
-- d. stellt für die vom Kanton vorgegebenen Modelle allgemein zugängliche Prüfinstrumente zur Verfügung.
+<sup>2</sup> Die Katasterleitung kann für die Nutzung der Daten und Dienste technische und verwaltungsorganisatorische Massnahmen treffen.
 
 #### § 7
 
-**Geometadaten**
+**Monitoring**
 
-Die Daten des Leitungskatasters werden durch Geometadaten beschrieben.
-
-### C. Anlage, Nachführung und Archivierung
+Das Monitoring umfasst insbesondere die Überprüfung des Betriebs des zentralen Leitungskatasterportals, der Benutzerregistrierung sowie der Einhaltung der datenschutzrechtlichen Vorschriften.
 
 #### § 8
 
-**Pflichten der Leitungseigentümerinnen und -eigentümer**
+**Besondere Gebiete**
 
-<sup>1</sup> Die Leitungseigentümerinnen und -eigentümer geben den zuständigen Stellen die Daten entsprechend den Anforderungen gemäss §§ 3–7 ab.
+Die Katasterleitung kann für besondere Gebiete auf begründetes Gesuch hin a. die Entlassung aus der Lieferungspflicht der gebietsinternen Leitungen verfügen,
 
-<sup>2</sup> Das ARE kann in Absprache mit den zuständigen Stellen bewilligen, dass die Leitungseigentümerinnen und -eigentümer die Daten in der Form eines georeferenzierten, webbasierten Darstellungsdienstes zur Verfügung stellen.
+- b. die Nutzungsrechte einschränken.
 
 #### § 9
 
-**Datengrundlage a. Im Allgemeinen**
-
-<sup>1</sup> Der Leitungskataster wird auf der Grundlage der Daten der amtlichen Vermessung angelegt.
-
-<sup>2</sup> Die sichtbaren und die zugänglichen Leitungen sind nach Möglichkeit auf Fixpunkte und Grenzzeichen der amtlichen Vermessung einzumessen.
-
-<sup>3</sup> Die Lage der übrigen Leitungen wird anhand von Plänen der Leitungseigentümerinnen und -eigentümer in den Leitungskataster übertragen.
-
-<sup>4</sup> Lässt sich die Lage einer Leitung vorläufig nicht feststellen, wird diese als «Leitung mit ungenauer Lage» aufgenommen.
-
-#### § 10
-
-**b. Einmessen von Leitungen im Besonderen**
-
-<sup>1</sup> Die Leitungseigentümerinnen und -eigentümer sind verpflichtet, neue Leitungen vor dem Eindecken der Gräben einmessen zu lassen.
-
-<sup>2</sup> Werden bestehende Leitungen mit ungenauer Lage oder noch nicht im Leitungskataster enthaltene Leitungen freigelegt, so sind sie einzumessen.
-
-<sup>3</sup> Werden neue oder freigelegte Leitungen vor dem Einmessen eingedeckt, so sind sie auf Kosten der Leitungseigentümerinnen und -eigentümer so weit freizulegen, dass die einwandfreie Einmessung möglich wird.
-
-<sup>4</sup> Die zuständigen Stellen regeln in Absprache mit den Leitungseigentümerinnen und -eigentümern das Meldewesen für das Einmessen von Leitungen und das Verfahren für die Aufnahme der Daten in den Leitungskataster.
-
-#### § 11
-
-**Zusammenarbeit der zuständigen Stellen**
-
-Fällt eine Leitung in den Zuständigkeitsbereich verschiedener Stellen, gleichen diese ihre Daten ab.
-
-**3**
-
-- 1\. 10. 12 - 78
-
-### D. Zugang und Nutzung
-
-[^hDZugangundNutzun-1]: LS 704.11.
-
-#### § 12
-
-**Zugang**
-
-<sup>1</sup> Der Leitungskataster ist beschränkt öffentlich zugänglich (§ 13 Abs. 1 lit. b KGeoIV[^hDZugangundNutzun-1].
-
-<sup>2</sup> Folgende Personen haben Zugang:
-
-- a. Werkeigentümerinnen und -eigentümer, die am Leitungskataster beteiligt sind,
-
-- b. Mitarbeitende der kantonalen und kommunalen Verwaltung, sofern die Daten für die Erfüllung ihrer gesetzlichen Aufgaben notwendig sind,
-
-- c. Dritte, wenn sie im Auftrag des Kantons oder der Gemeinde handeln oder ein berechtigtes Interesse nachweisen und die Geheimhaltungsinteressen wahren.
-
-#### § 13
-
-**Nutzung**
-
-<sup>1</sup> Der Leitungskataster steht als Download- und Darstellungsdienst zur Verfügung.
-
-<sup>2</sup> Die Daten des Leitungskatasters werden zusammen mit den Daten der amtlichen Vermessung dargestellt.
-
-<sup>3</sup> Bei der Abgabe von Daten werden Nutzerinnen und Nutzer in geeigneter Form über die Qualität, Aktualität und Vollständigkeit der Daten sowie über den erlaubten Verwendungszweck informiert.
-
-### E. Kostentragung
-
-#### § 14
-
-<sup>1</sup> Die zuständigen Stellen tragen die Kosten für das Anlegen und Verwalten des Leitungskatasters.
-
-<sup>2</sup> Die Kosten für das Erheben der Daten und für den Datentransfer zur zuständigen Stelle gehen zulasten der Leitungseigentümerin oder des Leitungseigentümers.
-
-<sup>3</sup> Die zuständigen Stellen können die Kosten für die Anpassung der Daten oder für die Digitalisierung von Plänen entsprechend den Anforderungen gemäss §§ 3–7 ganz oder teilweise auf die Leitungseigentümerinnen und -eigentümer überwälzen.
-
-<sup>4</sup> Führen die Gemeinden den Leitungskataster gemeinsam mit den Leitungseigentümerinnen und -eigentümern, regeln sie die Kostentragung einvernehmlich.
-
-### F. Schlussbestimmungen
-
-#### § 15
-
-**Übergangsfristen**
-
-<sup>1</sup> Die Baudirektion erlässt die Ausführungsvorschriften über a. die Datenbeschreibung und die Mindestanforderungen gemäss § 5 Abs. 1 lit. a bis zum 31. Dezember 2014,
-
-- b. die Daten- und Darstellungsmodelle sowie die Normen für die Geometadaten gemäss § 5 Abs. 1 lit. b bis zum 31. Dezember 2015,
-
-- c. die Schnittstelle für den Austausch der digitalen Daten gemäss § 5 Abs. 1 lit. c bis zum 31. Dezember 2015.
-
-<sup>2</sup> Das ARE stellt die Geodienste für den Austausch unter Behörden gemäss § 6 lit. a bis zum 31. Dezember 2015 bereit.
-
-<sup>3</sup> Die zuständigen Stellen legen den Leitungskataster bis zum 31. Dezember 2021 an.
-
-#### § 16
-
 **Übergangsbestimmung**
 
-<sup>1</sup> Hausanschlüsse, die im Zeitpunkt des Inkrafttretens der Verordnung noch nicht auf der Grundlage von § 9 Abs. 1–3 erfasst sind, werden nicht in den Leitungskataster aufgenommen.
-
-<sup>2</sup> Vorbehalten bleiben abweichende kommunale Bestimmungen gemäss § 4 Abs. 1.
-
-<sup>3</sup> Sind nach kommunalem Recht die bestehenden Hausanschlüsse ebenfalls zu erfassen, können die Gemeinden die Kosten hierfür der Bauherrschaft auferlegen.
+Die Eigentümerinnen und Eigentümer der Leitungen müssen ihre Lieferpflicht erstmals spätestens zwei Jahre nach Inkrafttreten dieser Verordnung erfüllen.
