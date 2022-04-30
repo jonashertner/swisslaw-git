@@ -4,13 +4,13 @@ number: "152.221.181"
 title: "Ordonnance sur l'organisation et les tâches de la Direction de l'instruction publique et de la culture *"
 short: "Ordonnance d'organisation INC, OO INC"
 language: fr
-version: 2022-03-01
-valid_until: 2022-04-30
-version_adopted: 2022-02-02
+version: 2022-05-01
+valid_until: 2022-12-31
+version_adopted: 2022-04-06
 adopted: 2002-11-27
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.181"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2540/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2585/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2540/pdf_file"
 
 (Ordonnance d'organisation INC, OO INC)
 
-du 27.11.2002 (état au 01.03.2022)
+du 27.11.2002 (état au 01.05.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -169,7 +169,10 @@ arrête:
 - e dirige les services psychologiques pour enfants,
 - f–g …
 
-<sup>2</sup> Il administre la convention de prestations conclue avec l’Ecole cantonale de langue française et assure le controlling.
+<sup>2</sup> Il s'occupe des conventions de prestations conclues avec les institutions cantonales suivantes et pourvoit à leur gestion et à leur exploitation:
+
+- a l'Ecole cantonale de langue française,
+- b le Centre pédagogique de logopédie et d’entraînement auditif de Münchenbuchsee.
 
 <sup>3</sup> Les inspections scolaires et les services psychologiques pour enfants sont organisés régionalement.
 
@@ -326,6 +329,51 @@ arrête:
 <sup>2</sup> Elle est publiée en application des articles 7 et 8 de la loi du 18 janvier 1993 sur les publications officielles[^20-1] (publication extraordinaire).
 
 [^20-1]: RSB 103.1
+
+## T1 Dispositions transitoires de la modification du 06.04.2022
+
+#### Art. T1-1
+
+**Transfert et principe**
+
+<sup>1</sup> En collaboration avec les services compétents de la Direction de la santé, des affaires sociales et de l'intégration, les services compétents de la Direction de l'instruction publique et de la culture sont chargés du transfert du Centre pédagogique de logopédie et d’entraînement auditif de Münchenbuchsee (CPLEAM) à la Direction de l'instruction publique et de la culture.
+
+#### Art. T1-2
+
+**Transfert des rapports de travail au 1<sup>er</sup> janvier 2023 sans changements**
+
+<sup>1</sup> A partir du 1<sup>er</sup> janvier 2023, les rapports de travail des collaboratrices et collaborateurs du CPLEAM sont transférés sans modifications sur le fond, pour autant que ni l'autorité d'engagement, ni le descriptif de poste et ni le lieu de travail ne changent. Les soldes de l’horaire de travail annualisé, les soldes de vacances et les soldes du compte épargne-temps sont transférés en dérogation aux articles 136c, 150 et 160c de l’ordonnance du 18 mai 2005 sur le personnel (OPers)[^T12-1]. Le traitement n'est adapté que sur la base des progressions générale et individuelle du traitement.
+
+[^T12-1]: RSB [153.011.1](https://www.belex.sites.be.ch/data/153.011.1/fr)
+
+#### Art. T1-3
+
+**Transfert des rapports de travail au 1<sup>er</sup> janvier 2023 avec changements**
+
+<sup>1</sup> En cas de changement d'autorité d'engagement, de descriptif de poste ou de lieu de travail au 1<sup>er</sup> janvier 2023, les rapports de travail du CPLEAM sont adaptés à la même date. Les soldes de l’horaire de travail annualisé, les soldes de vacances et les soldes du compte épargne-temps sont transférés en dérogation aux articles 136c, 150 et 160c OPers. Les alinéas 3 et 4 s'appliquent pour le traitement, après les adaptations effectuées sur la base des progressions générale et individuelle du traitement.
+
+<sup>2</sup> Sont compétents pour les adaptations au 1<sup>er</sup> janvier 2023
+
+- a la Direction de l'instruction publique et de la culture pour l'adaptation des rapports de travail de la directrice ou du directeur du CPLEAM,
+- b l'Office de l'école obligatoire et du conseil pour l'adaptation des rapports de travail des autres collaboratrices et collaborateurs du CPLEAM.
+
+<sup>3</sup> Dans le cas où l'adaptation de rapports de travail entraîne l'affectation à une classe de traitement supérieure, le traitement est augmenté à cette date.
+
+<sup>4</sup> Dans le cas où l'adaptation de rapports de travail entraîne une affectation à une classe de traitement inférieure, la procédure est régie selon les principes de l'article 43 OPers.
+
+#### Art. T1-4
+
+**Transfert des rapports de travail des membres du corps enseignant**
+
+<sup>1</sup> Le transfert des rapports de travail des membres du corps enseignant du CPLEAM dans le régime des rapports de travail conformes à la législation sur le statut du corps enseignant est régi par les articles T3-1 et T3-2 de l'ordonnance du 28 mars 2007 sur le statut du corps enseignant (OSE)[^T14-1].
+
+[^T14-1]: RSB [430.251.0](https://www.belex.sites.be.ch/data/430.251.0/fr)
+
+#### Art. T1-5
+
+**Droit applicable**
+
+<sup>1</sup> La modification de l'article 10, alinéa 2 s'applique à partir du 1<sup>er</sup> janvier 2023.
 
 Berne, le 27 novembre 2002
 

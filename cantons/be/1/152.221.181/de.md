@@ -4,13 +4,13 @@ number: "152.221.181"
 title: Verordnung über die Organisation und die Aufgaben der Bildungs- und Kulturdirektion
 short: "Organisationsverordnung BKD, OrV BKD"
 language: de
-version: 2022-03-01
-valid_until: 2022-04-30
-version_adopted: 2022-02-02
+version: 2022-05-01
+valid_until: 2022-12-31
+version_adopted: 2022-04-06
 adopted: 2002-11-27
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.181"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2540/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2585/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2540/pdf_file"
 
 (Organisationsverordnung BKD, OrV BKD)
 
-vom 27.11.2002 (Stand 01.03.2022)
+vom 27.11.2002 (Stand 01.05.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -169,7 +169,10 @@ beschliesst:
 - e führt die Erziehungsberatung,
 - f–g …
 
-<sup>2</sup> Es betreut die Leistungsvereinbarung mit der kantonalen Schule französischer Sprache und stellt das Controlling sicher.
+<sup>2</sup> Es betreut die Leistungsvereinbarung mit den folgenden kantonalen Institutionen und sorgt für deren Führung und Betrieb:
+
+- a Kantonale Schule französischer Sprache,
+- b Pädagogisches Zentrum für Hören und Sprache Münchenbuchsee.
 
 <sup>3</sup> Das Schulinspektorat und die Erziehungsberatung sind regional organisiert.
 
@@ -327,6 +330,51 @@ beschliesst:
 <sup>2</sup> Sie ist in Anwendung der Artikel 7 und 8 des Publikationsgesetzes vom 18. Januar 1993[^20-1] amtlich zu veröffentlichen (ausserordentliche Veröffentlichung).
 
 [^20-1]: BSG 103.1
+
+## T1 Übergangsbestimmungen der Änderung vom 06.04.2022
+
+#### Art. T1-1
+
+**Überführung, Grundsatz**
+
+<sup>1</sup> Die zuständigen Stellen der Bildungs- und Kulturdirektion sorgen in Zusammenarbeit mit den zuständigen Stellen der Gesundheits-, Sozial- und Integrationsdirektion für die Überführung des Pädagogischen Kompetenzzentrums für Hören und Sprache Münchenbuchsee (HSM) in die Bildungs- und Kulturdirektion.
+
+#### Art. T1-2
+
+**Überführung der Arbeitsverhältnisse auf den 1. Januar 2023 ohne Änderungen**
+
+<sup>1</sup> Die laufenden Arbeitsverhältnisse der Mitarbeiterinnen und Mitarbeiter des HSM werden ab dem 1. Januar 2023 ohne inhaltliche Änderungen weitergeführt, wenn weder die Anstellungsbehörde noch die Stellenbeschreibung oder der Arbeitsort ändern. Die Jahresarbeitszeit-, Ferien- und Langzeitkontoguthaben werden in Abweichung von den Artikeln 136c, 150 und 160c der Personalverordnung vom 18. Mai 2005 (PV)[^T12-1] übertragen. Das Gehalt wird nur aufgrund des generellen und des individuellen Gehaltsaufstiegs angepasst.
+
+[^T12-1]: BSG [153.011.1](https://www.belex.sites.be.ch/data/153.011.1/de)
+
+#### Art. T1-3
+
+**Überführung der Arbeitsverhältnisse auf den 1. Januar 2023 mit Änderungen**
+
+<sup>1</sup> Ändert auf den 1. Januar 2023 die Anstellungsbehörde, die Stellenbeschreibung oder der Arbeitsort, so werden die entsprechenden Arbeitsverhältnisse des HSM auf diesen Zeitpunkt angepasst. Die Jahresarbeitszeit-, Ferien- und Langzeitkontoguthaben werden in Abweichung von den Artikeln 136c, 150 und 160c PV übertragen. Für das Gehalt gelten nach den Anpassungen aufgrund des generellen und des individuellen Gehaltsaufstiegs die Absätze 3 und 4.
+
+<sup>2</sup> Zuständig für die Anpassungen auf den 1. Januar 2023 sind:
+
+- a die Bildungs- und Kulturdirektion für die Anpassung der Arbeitsverhältnisse mit der Gesamtleiterin oder dem Gesamtleiter des HSM,
+- b das Amt für Kindergarten, Volksschule und Beratung für die Anpassung der Arbeitsverhältnisse mit den übrigen Mitarbeiterinnen und Mitarbeitern des HSM.
+
+<sup>3</sup> Ist mit der Anpassung eines Arbeitsverhältnisses eine Höhereinreihung verbunden, so wird das Gehalt auf diesen Zeitpunkt erhöht.
+
+<sup>4</sup> Ist mit der Anpassung des Arbeitsverhältnisses eine Tiefereinreihung verbunden, so richtet sich das Verfahren nach den Grundsätzen von Artikel 43 PV.
+
+#### Art. T1-4
+
+**Überführung der Arbeitsverhältnisse der Lehrkräfte**
+
+<sup>1</sup> Die Überführung der Arbeitsverhältnisse der Lehrkräfte des HSM in ein Anstellungsverhältnis nach der Gesetzgebung über die Anstellung der Lehrkräfte richtet sich nach den Artikeln T3-1 und T3-2 der Verordnung vom 28. März 2007 über die Anstellung der Lehrkräfte (LAV)[^T14-1].
+
+[^T14-1]: BSG [430.251.0](https://www.belex.sites.be.ch/data/430.251.0/de)
+
+#### Art. T1-5
+
+**Anwendbares Recht**
+
+<sup>1</sup> Die Änderung von Artikel 10 Absatz 2 ist ab dem 1. Januar 2023 anwendbar.
 
 Bern, 27. November 2002
 
