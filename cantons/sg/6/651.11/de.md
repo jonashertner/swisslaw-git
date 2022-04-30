@@ -3,20 +3,20 @@ canton: SG
 number: "651.11"
 title: Verordnung zum Einführungsgesetz zur eidgenössischen Waldgesetzgebung
 language: de
-version: 2021-10-01
-valid_until: 2022-04-30
-version_adopted: 2021-06-29
+version: 2022-05-01
+valid_until: 2022-12-31
+version_adopted: 2022-01-11
 adopted: 1999-12-07
 in_force: 2000-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/651.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3232/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3332/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zur eidgenössischen Waldgesetzgebung
 
-vom 07.12.1999 (Stand 01.10.2021)
+vom 07.12.1999 (Stand 01.05.2022)
 
 Die Regierung des Kantons St.Gallen
 
@@ -81,11 +81,11 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Der Kanton hat folgende Waldregionen:
 
-- a) Waldregion 1: politische Gemeinden St.Gallen, Wittenbach, Häggenschwil, Muolen, Mörschwil, Goldach, Steinach, Berg, Tübach, Untereggen, Eggersriet, Rorschacherberg, Rorschach, Jonschwil, Oberuzwil, Uzwil, Flawil, Degersheim, Wil, Bronschhofen, Zuzwil, Oberbüren, Niederbüren, Niederhelfenschwil, Lütisburg, Kirchberg, Gossau, Andwil, Waldkirch und Gaiserwald;
+- a) Waldregion 1: politische Gemeinden St.Gallen, Wittenbach, Häggenschwil, Muolen, Mörschwil, Goldach, Steinach, Berg, Tübach, Untereggen, Eggersriet, Rorschacherberg, Rorschach, Jonschwil, Oberuzwil, Uzwil, Flawil, Degersheim, Wil, Zuzwil, Oberbüren, Niederbüren, Niederhelfenschwil, Lütisburg, Kirchberg, Gossau, Andwil, Waldkirch und Gaiserwald;
 - b) Waldregion 2: politische Gemeinden Thal, Rheineck, St.Margrethen, Au, Berneck, Balgach, Diepoldsau, Widnau, Rebstein, Marbach, Altstätten, Eichberg, Oberriet, Rüthi, Sennwald, Gams, Grabs, Buchs, Sevelen und Wartau;
 - c) Waldregion 3: politische Gemeinden Sargans, Vilters-Wangs, Bad Ragaz, Pfäfers, Mels, Flums, Walenstadt und Quarten;
-- d) Waldregion 4: politische Gemeinden Amden, Weesen, Schänis, Benken, Kaltbrunn, Rieden, Gommiswald, Ernetschwil, Uznach, Schmerikon, Rapperswil-Jona, Eschenbach, Goldingen und St.Gallenkappel;
-- e) Waldregion 5: politische Gemeinden Wildhaus, Alt St.Johann, Stein, Nesslau-Krummenau, Ebnat-Kappel, Wattwil, Lichtensteig, Oberhelfenschwil, Brunnadern, Hemberg, St.Peterzell, Krinau, Bütschwil, Mosnang, Mogelsberg und Ganterschwil.
+- d) Waldregion 4: politische Gemeinden Amden, Weesen, Schänis, Benken, Kaltbrunn, Gommiswald, Uznach, Schmerikon, Rapperswil-Jona und Eschenbach;
+- e) Waldregion 5: politische Gemeinden Wildhaus-Alt St.Johann, Nesslau, Ebnat-Kappel, Wattwil, Lichtensteig, Oberhelfenschwil, Neckertal, Hemberg, Mosnang und Bütschwil-Ganterschwil.
 
 [^5-1]: Art. [3](https://www.gesetzessammlung.sg.ch/data/651.1/de/art3.) Abs. 2 des EG zur eidgenössischen Waldgesetzgebung, sGS [651.1](https://www.gesetzessammlung.sg.ch/data/651.1/de).
 
@@ -222,13 +222,16 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Meldepflichtige Veranstaltungen sind:
 
-- a) rad-, reit- und flugsportliche Veranstaltungen mit mehr als 50 Teilnehmenden;
-- b) hundesportliche Veranstaltungen mit mehr als 10 Hunden;
-- c) übrige sportliche Veranstaltungen mit mehr als 50 Teilnehmenden, die in der Zeit vom 1. Mai bis 15. Juli stattfinden;
+- a) sportliche Veranstaltungen mit insgesamt mehr als:
+  - 1\. 50 Teilnehmenden in der Zeit vom 1. Mai bis 15. Juli;
+  - 2\. 100 Teilnehmenden in der übrigen Zeit;
+- b) Hundeveranstaltungen mit insgesamt mehr als 10 Hunden;
+- c) …
 - d) Veranstaltungen mit technischen Einrichtungen und Geräten wie Licht- und Verstärkeranlagen;
-- e) Kriegs- und Kampfspiele.
+- e) …
+- f) mehrtägige Veranstaltungen mit mehr als 50 Teilnehmenden je Tag.
 
-<sup>2</sup> Veranstaltungen mit mehr als 150 Teilnehmenden oder Besuchern sind in jedem Fall meldepflichtig.
+<sup>2</sup> Veranstaltungen mit insgesamt mehr als 200 Teilnehmenden sind in jedem Fall meldepflichtig.
 
 [^19-1]: Art. [17](https://www.gesetzessammlung.sg.ch/data/651.1/de/art17.) des EG zur eidgenössischen Waldgesetzgebung, sGS [651.1](https://www.gesetzessammlung.sg.ch/data/651.1/de).
 
@@ -238,15 +241,17 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Meldung erfolgt schriftlich und rechtzeitig an die politische Gemeinde, auf deren Gebiet der infrastrukturelle Schwerpunkt der Veranstaltung liegt.
 
-<sup>2</sup> Sie enthält insbesondere Angaben über die Art und den genauen Ort der Veranstaltung, die voraussichtliche Teilnehmer-und Besucherzahl sowie die erforderliche Infrastruktur.
+<sup>2</sup> Sie enthält insbesondere Angaben über die Art, den genauen Ort, die Zeit und die Dauer der Veranstaltung, die voraussichtliche Teilnehmerzahl sowie die erforderliche Infrastruktur.
 
-<sup>3</sup> Die zuständige Gemeindebehörde prüft die Auswirkungen der gemeldeten Veranstaltung und schliesst das Verfahren innert Monatsfrist ab mit:
+<sup>3</sup> Die zuständige politische Gemeinde prüft die Auswirkungen der gemeldeten Veranstaltung unter Beizug der Waldregion und der kantonalen Wildhut und schliesst das Verfahren innert Monatsfrist ab mit der schriftlichen Mitteilung, dass:
 
-- a) der schriftlichen Mitteilung, dass der Durchführung der Veranstaltung nichts entgegensteht;
-- b) der Ausarbeitung einer einvernehmlichen Regelung über die wald- und lebensraumverträgliche Durchführung der Veranstaltung unter Beizug des Regionalförsters und des Wildhüters;
-- c) der schriftlichen Mitteilung, dass die Veranstaltung bewilligungspflichtig ist und die Eingabe dem Kantonsforstamt weitergeleitet wird.
+- a) der Durchführung der Veranstaltung nichts entgegensteht;
+- b) eine einvernehmliche Regelung über die wald- und lebensraumverträgliche Durchführung der Veranstaltung ausgearbeitet wird;
+- c) die Veranstaltung bewilligungspflichtig ist und die Eingabe dem Kantonsforstamt weitergeleitet wird.
 
-<sup>4</sup> Kommt keine einvernehmliche Regelung nach lit. b dieses Absatzes zustande, gilt das Vorhaben als bewilligungspflichtig.
+<sup>4</sup> Kommt keine einvernehmliche Regelung nach Abs. 3 Bst. b dieser Bestimmung zustande, verfügt die zuständige politische Gemeinde Einschränkungen[^20-1].
+
+[^20-1]: Art. [17](https://www.gesetzessammlung.sg.ch/data/651.1/de/art17) Abs. 2 des EG zur eidgenössischen Waldgesetzgebung, sGS [651.1](https://www.gesetzessammlung.sg.ch/data/651.1/de).
 
 #### Art. 21
 
@@ -254,13 +259,18 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Bewilligungspflichtige Veranstaltungen sind:
 
-- a) rad-, reit- und flugsportliche Veranstaltungen mit mehr als 100 Teilnehmenden;
-- b) hundesportliche Veranstaltungen mit mehr als 30 Hunden;
-- c) Veranstaltungen nach Art. 19 lit. c dieser Verordnung;
-- d) meldepflichtige Veranstaltungen in Waldreservaten, Naturschutzgebieten oder Kern- und Schongebieten nach kantonalem Richtplan;
-- e) Veranstaltungen, für die keine einvernehmliche Regelung nach Art. 20 Abs. 3 lit. b dieser Verordnung zustande gekommen ist.
+- a) sportliche Veranstaltungen mit insgesamt mehr als:
+  - 1\. 150 Teilnehmenden in der Zeit vom 1. Mai bis 15. Juli;
+  - 2\. 300 Teilnehmenden in der übrigen Zeit;
+- b) Hundeveranstaltungen mit insgesamt mehr als 30 Hunden;
+- c) …
+- d) meldepflichtige Veranstaltungen in Waldreservaten, Naturschutzgebieten von nationaler oder regionaler Bedeutung oder Kerngebieten nach kantonalem Richtplan oder kommunaler Schutzverordnung;
+- e) …
+- f) Veranstaltungen mit technischen Einrichtungen und Geräten wie Licht- und Verstärkeranlagen mit insgesamt mehr als 300 Teilnehmenden;
+- g) Kriegs- und Kampfspiele;
+- h) mehrtägige Veranstaltungen mit mehr als 150 Teilnehmenden je Tag.
 
-<sup>2</sup> Veranstaltungen mit mehr als 300 Teilnehmenden oder Besuchern sind in jedem Fall bewilligungspflichtig.
+<sup>2</sup> Veranstaltungen mit insgesamt mehr als 600 Teilnehmenden sind in jedem Fall bewilligungspflichtig.
 
 [^21-1]: Art. [18](https://www.gesetzessammlung.sg.ch/data/651.1/de/art18.) des EG zur eidgenössischen Waldgesetzgebung, sGS [651.1](https://www.gesetzessammlung.sg.ch/data/651.1/de).
 
@@ -270,21 +280,21 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Das Kantonsforstamt ist für die Erteilung der Bewilligung zuständig.
 
-<sup>2</sup> Es holt vor seinem Entscheid die Stellungnahmen der betroffenen Stellen des Kantons und der Gemeinden ein.
+<sup>2</sup> Es holt vor seinem Entscheid die Stellungnahmen der betroffenen Stellen des Kantons und der politischen Gemeinden ein.
 
-<sup>3</sup> Es entscheidet spätestens innert drei Monaten nach Eingang der Meldung bei der Gemeinde. Kann der Entscheid nicht innert dieser Frist erfolgen, teilt es den Verfahrensbeteiligten die voraussichtliche Behandlungsfrist unter Angabe der Gründe mit.[^22-1]
+<sup>3</sup> Es entscheidet spätestens innert drei Monaten nach Eingang der Meldung bei der zuständigen politischen Gemeinde. Kann der Entscheid nicht innert dieser Frist erfolgen, teilt es den Verfahrensbeteiligten die voraussichtliche Behandlungsfrist unter Angabe der Gründe mit.[^22-1]
 
-[^22-1]: Vgl. Art. [5](https://www.gesetzessammlung.sg.ch/data/731.21/de/art5.) f. VKoV, sGS [731.21](https://www.gesetzessammlung.sg.ch/data/731.21/de).
+[^22-1]: Vgl. Art. [131](https://www.gesetzessammlung.sg.ch/data/731.1/de/art131.) Abs. 2 des Planungs- und Baugesetzes, sGS [731.1](https://www.gesetzessammlung.sg.ch/data/731.1/de).
 
 #### Art. 23
 
 **c) Bewilligung**
 
-<sup>1</sup> Die Bewilligung wird erteilt, wenn die Veranstaltung zu keiner übermässigen Störung oder Gefährdung des Waldes oder der Lebensgemeinschaft von Tieren und Pflanzen führt.
+<sup>1</sup> Die Bewilligung wird erteilt, wenn die Veranstaltung zu keiner erheblichen Störung oder Gefährdung des Waldes oder der Lebensgemeinschaft von Tieren und Pflanzen führt.
 
 <sup>2</sup> Für periodisch stattfindende Veranstaltungen kann unter dem Vorbehalt unveränderter Verhältnisse eine Pauschalbewilligung zur mehrmaligen Durchführung erteilt werden.
 
-<sup>3</sup> Vorbehalten bleibt die Zustimmung des Waldeigentümers für Nutzungen, die über das ortsübliche Mass hinausgehen.
+<sup>3</sup> Vorbehalten bleibt die Zustimmung des Grundeigentümers für Nutzungen, die über das ortsübliche Mass hinausgehen.
 
 ### 5. Schutz vor anderen Beeinträchtigungen
 
