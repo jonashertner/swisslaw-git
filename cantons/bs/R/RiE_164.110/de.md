@@ -4,13 +4,13 @@ number: RiE 164.110
 title: Reglement über das Gehalt der Mitarbeiterinnen und Mitarbeiter der Gemeinde Riehen
 short: Lohnreglement
 language: de
-version: 2022-01-01
-valid_until: 2022-04-30
-version_adopted: 2021-12-07
+version: 2022-05-01
+valid_until: 2023-09-30
+version_adopted: 2022-04-26
 adopted: 2008-12-09
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20164.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5384/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5528/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Lohnreglement | Riehen: Einwohnergemeinde
 
 (Lohnreglement)
 
-Vom 9. Dezember 2008 (Stand 1. Januar 2022)
+Vom 9. Dezember 2008 (Stand 1. Mai 2022)
 
 Der Gemeinderat Riehen,
 
@@ -229,7 +229,7 @@ E bedeutet: «erfüllt die Erwartungen teilweise».
 
 **Form**
 
-<sup>1</sup> Die spontane Anerkennungsprämie wird in Form von Naturalleistungen, insbesondere Gutscheine, Gegenstände oder Dienstleistungen bis zum Wert von CHF 300, oder als freier Tag ausgerichtet.
+<sup>1</sup> Die spontane Anerkennungsprämie wird in Form einer Prämie bis maximal CHF 1'000 oder in Form von maximal drei freien Tagen ausgerichtet. Bei Anerkennungsprämien für Teams können die einzelnen Prämien für die Teammitglieder abgestuft werden.
 
 #### § 15
 
