@@ -4,13 +4,13 @@ number: "173.000"
 title: Gerichtsorganisationsgesetz
 short: GOG
 language: de
-version: 2021-06-01
-valid_until: 2022-04-30
-version_adopted: 2021-05-09
+version: 2022-05-01
+valid_until: 2023-12-31
+version_adopted: 2022-04-24
 adopted: 2010-04-25
 in_force: 2011-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/173.000"
-pdf: "https://ai.clex.ch/api/de/versions/1921/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2028/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1921/pdf_file"
 
 (GOG)
 
-vom 25.04.2010 (Stand 01.06.2021)
+vom 25.04.2010 (Stand 01.05.2022)
 
 Die Landsgemeinde des Kantons Appenzell I. Rh.,
 
@@ -51,7 +51,7 @@ beschliesst:
 
 <sup>1</sup> Die Bezirke bilden zwei Gerichtskreise:
 
-- 1\. Die Bezirke Appenzell, Schwende, Rüte, Schlatt-Haslen und Gonten bilden den Gerichtskreis Appenzell.
+- 1\. Die Bezirke Appenzell, Schwende-Rüte, Schlatt-Haslen und Gonten bilden den Gerichtskreis Appenzell.
 - 2\. Der Bezirk Oberegg bildet den Gerichtskreis Oberegg.
 
 ## B. Organisation
@@ -94,7 +94,7 @@ beschliesst:
 
 **Bezirksgericht a. Konstituierung**
 
-<sup>1</sup> Das Bezirksgericht für beide Gerichtskreise zusammen besteht aus einem Präsidenten und sechs Mitgliedern.
+<sup>1</sup> Das Bezirksgericht für beide Gerichtskreise zusammen besteht aus einem Präsidenten und fünf Mitgliedern.
 
 <sup>2</sup> Der Bezirksgerichtspräsident ist zugleich Präsident von ständigen Kommissionen. Im Übrigen konstituiert sich das Gericht zu Beginn der Amtsperiode selbst, insbesondere wählt es den Bezirksgerichtsvizepräsidenten und den Zwangsmassnahmerichter.
 
