@@ -4,13 +4,13 @@ number: "215.326.2"
 title: Gesetz betreffend die Handänderungssteuer
 short: HG
 language: de
-version: 2020-11-01
-valid_until: 2022-04-30
-version_adopted: 2020-09-02
+version: 2022-05-01
+valid_until: 2023-03-31
+version_adopted: 2021-09-16
 adopted: 1992-03-18
 in_force: 1992-10-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/215.326.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1969/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2580/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1969/pdf_file"
 
 (HG)
 
-vom 18.03.1992 (Stand 01.11.2020)
+vom 18.03.1992 (Stand 01.05.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -93,9 +93,11 @@ beschliesst:
 
 #### Art. 6a
 
-**1.a Schlüsselfertige Baute, Verbindung von Kauf- und Werkvertrag**
+**1a. Schlüsselfertige Baute oder Stockwerkeinheit, Verbindung von Kauf- und Werkvertrag**
 
 <sup>1</sup> Bei Kaufverträgen über eine schlüsselfertige Baute oder Stockwerkeinheit und bei Kaufverträgen, die mit einem Werkvertrag so verbunden sind, dass eine schlüsselfertige Baute oder Stockwerkeinheit erworben wird, ist die Steuer auf dem Gesamtpreis (Landpreis und Werklohn) zu bemessen.
+
+<sup>2</sup> Eine Verbindung von Kauf- und Werkvertrag im Sinne von Absatz 1 liegt vor, wenn beim Abschluss des Kaufvertrags eine vertragliche Bindung zwischen der Veräusserin oder dem Veräusserer oder einer dieser oder diesem nahestehenden Person und der Erwerberin oder dem Erwerber hinsichtlich eines aktuellen oder künftigen Werkvertrags besteht.
 
 #### Art. 7
 

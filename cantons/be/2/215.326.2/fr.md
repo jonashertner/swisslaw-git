@@ -4,13 +4,13 @@ number: "215.326.2"
 title: "Loi concernant les impôts sur les mutations *"
 short: LIMu
 language: fr
-version: 2020-11-01
-valid_until: 2022-04-30
-version_adopted: 2020-09-02
+version: 2022-05-01
+valid_until: 2023-03-31
+version_adopted: 2021-09-16
 adopted: 1992-03-18
 in_force: 1992-10-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/215.326.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1969/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2580/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1969/pdf_file"
 
 (LIMu)
 
-du 18.03.1992 (état au 01.11.2020)
+du 18.03.1992 (état au 01.05.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -93,9 +93,11 @@ arrête:
 
 #### Art. 6a
 
-**1.a Constructions vendues clés en main; contrat de vente lié à un contrat d'entreprise**
+**1a. Constructions et unités d'étage vendues clés en main; contrat de vente lié à un contrat d'entreprise**
 
 <sup>1</sup> Lors de contrats de vente d'une construction ou d'une unité d'étage clés en main, et lors de contrats de vente qui sont liés à un contrat d'entreprise de telle manière que l'opération est assimilable à l'acquisition d'une construction ou d'une unité d'étage clés en main, l'impôt est calculé sur le prix global (prix du terrain et prix de l'ouvrage).
+
+<sup>2</sup> Un lien entre le contrat de vente et le contrat d’entreprise au sens de l’alinéa 1 existe lorsqu’un engagement contractuel entre l’acquéreur ou l’acquéreuse et l’aliénateur ou l’aliénatrice ou une personne qui lui est proche a été pris concernant un contrat d’entreprise actuel ou futur.
 
 #### Art. 7
 
