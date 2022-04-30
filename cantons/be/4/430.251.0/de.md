@@ -4,13 +4,13 @@ number: "430.251.0"
 title: Verordnung über die Anstellung der Lehrkräfte
 short: LAV
 language: de
-version: 2022-01-01
-valid_until: 2022-04-30
-version_adopted: 2021-11-10
+version: 2022-05-01
+valid_until: 2022-12-31
+version_adopted: 2022-04-06
 adopted: 2007-03-28
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/430.251.0"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2476/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2587/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2476/pdf_file"
 
 (LAV)
 
-vom 28.03.2007 (Stand 01.01.2022)
+vom 28.03.2007 (Stand 01.05.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -88,9 +88,9 @@ beschliesst:
 
 <sup>1</sup> Anstellungsbehörde für die Lehrkräfte und die Schulleitungen an den Volksschulen ist die Behörde nach Artikel 7 Absatz 2 LAG.
 
-<sup>2</sup> Das Amt für Kindergarten, Volksschule und Beratung stellt an der Patientenschule im Inselspital die Schulleitung an.
+<sup>2</sup> Die Gesamtleiterinnen und Gesamtleiter bzw. die Direktorinnen und Direktoren stellen die Lehrkräfte an den kantonalen besonderen Volksschulen an.
 
-<sup>3</sup> Die Schulleitungen der kantonalen Schule französischer Sprache und der Patientenschule im Inselspital stellen ihre jeweiligen Lehrkräfte an.
+<sup>3</sup> Die Schulleitung der kantonalen Schule französischer Sprache stellt ihre Lehrkräfte an.
 
 <sup>4</sup> Das Mittelschul- und Berufsbildungsamt stellt an kantonalen Schulen der Sekundarstufe II und an den höheren Fachschulen die gesamtverantwortlichen Schulleitungsmitglieder an.
 
@@ -1235,6 +1235,22 @@ geführt werden,
 <sup>6</sup> Bestehende Anstellungsverhältnisse von Lehrkräften ohne Diplom in schulischer Heilpädagogik, die infolge der Umsetzung von Artikel 17 des Volksschulgesetzes vom 19. März 1992 unbefristet angestellt worden sind, werden unverändert weitergeführt.
 
 <sup>7</sup> Lehrkräfte, deren Anstellungsverhältnis aufgrund einer Reorganisation vor dem Inkrafttreten dieser Änderung aufgelöst wird, werden bezüglich der Kriterien für eine Abgangsentschädigung nach bisherigem Recht behandelt.
+
+## T3 Übergangsbestimmungen der Änderung vom 06.04.2022
+
+#### Art. T3-1
+
+**Anwendbares Recht**
+
+<sup>1</sup> Artikel 13 der Verordnung vom 8. Februar 2006 über die kantonalen pädagogischen und sozialpädagogischen Institutionen der Gesundheits-, Sozial- und Integrationsdirektion (PSIV)[^T31-1] bleibt bis am 31. Juli 2024 anwendbar.
+
+[^T31-1]: BSG [862.61](https://www.belex.sites.be.ch/data/862.61/de)
+
+#### Art. T3-2
+
+**Lehrkräfte an kantonalen besonderen Volksschulen**
+
+<sup>1</sup> Die Lehrkräfte an kantonalen besonderen Volksschulen, die am 1. Januar 2023 nach der Personalgesetzgebung angestellt sind, werden ab dem 1. August 2024 nach der Gesetzgebung über die Anstellung der Lehrkräfte angestellt.
 
 Bern, 28. März 2007
 

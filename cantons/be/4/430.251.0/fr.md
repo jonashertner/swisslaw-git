@@ -4,13 +4,13 @@ number: "430.251.0"
 title: Ordonnance sur le statut du corps enseignant
 short: OSE
 language: fr
-version: 2022-01-01
-valid_until: 2022-04-30
-version_adopted: 2021-11-10
+version: 2022-05-01
+valid_until: 2022-12-31
+version_adopted: 2022-04-06
 adopted: 2007-03-28
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/430.251.0"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2476/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2587/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2476/pdf_file"
 
 (OSE)
 
-du 28.03.2007 (état au 01.01.2022)
+du 28.03.2007 (état au 01.05.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -88,9 +88,9 @@ arrête:
 
 <sup>1</sup> L’autorité d’engagement des enseignants et enseignantes et des directions d’école de l’école obligatoire est l’autorité au sens de l’article 7, alinéa 2 LSE[^5-1].
 
-<sup>2</sup> L’Office de l’école obligatoire et du conseil engage les membres de la direction de l’école pour enfants hospitalisés de l’Hôpital de l’Ile.
+<sup>2</sup> Les directeurs et directrices d'établissements particuliers de la scolarité obligatoire cantonaux engagent leurs membres du corps enseignant.
 
-<sup>3</sup> Les directions de l’Ecole cantonale de langue française et de l’école pour enfants hospitalisés de l’Hôpital de l’Ile engagent leurs membres du corps enseignant.
+<sup>3</sup> La direction de l'Ecole cantonale de langue française engage ses membres du corps enseignant.
 
 <sup>4</sup> L’Office des écoles moyennes et de la formation professionnelle engage les membres de la direction d’école qui assument la responsabilité générale des écoles cantonales du degré secondaire II et des écoles supérieures.
 
@@ -1234,6 +1234,22 @@ arrête:
 <sup>6</sup> Les rapports de travail des enseignants et enseignantes qui ne sont pas titulaires d'un diplôme d'enseignement spécialisé mais qui ont été engagés pour une durée indéterminée dans le cadre de la mise en oeuvre de l'article 17 de la loi du 19 mars 1992 sur l'école obligatoire sont maintenus sans changement.
 
 <sup>7</sup> Les enseignants et les enseignantes dont les rapports de travail sont résiliés à la suite d'une réorganisation avant l'entrée en vigueur de la présente modification sont soumis aux dispositions de l'ancien droit en matière d'indemnité de départ.
+
+## T3 Dispositions transitoires de la modification du 06.04.2022
+
+#### Art. T3-1
+
+**Droit applicable**
+
+<sup>1</sup> L'article 13 de l'ordonnance du 8 février 2006 sur les institutions pédagogiques et socio-pédagogiques cantonales de la Direction de la santé, des affaires sociales et de l’intégration (ordonnance sur les institutions pédagogiques, OIPS)[^T31-1] reste applicable jusqu'au 31 juillet 2024.
+
+[^T31-1]: RSB [862.61](https://www.belex.sites.be.ch/data/862.61/fr)
+
+#### Art. T3-2
+
+**Membres du corps enseignant des établissements particuliers de la scolarité obligatoire cantonaux**
+
+<sup>1</sup> Les membres du corps enseignant des établissements particuliers de la scolarité obligatoire cantonaux engagés au 1<sup>er</sup> janvier 2023 selon la législation sur le personnel sont engagés à partir du 1<sup>er</sup> août 2024 selon la législation sur le statut du corps enseignant.
 
 Berne, le 28 mars 2007
 
