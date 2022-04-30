@@ -4,11 +4,11 @@ title: Verordnung vom 23. November 1994 über die Infrastruktur der Luftfahrt (V
 short: VIL
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050"
 language: de
-version: 2021-05-12
+version: 2022-05-01
 adopted: 1994-11-23
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20210512/de/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20210512-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20210512/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20220501/de/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20220501-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20220501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20210512/de"
 
 (VIL)
 
-vom 23. November 1994 (Stand am 12. Mai 2021)
+vom 23. November 1994 (Stand am 1. Mai 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -45,7 +45,7 @@ Diese Verordnung regelt den Bau von Infrastrukturanlagen der Luftfahrt (Flugplä
 In dieser Verordnung bedeuten:
 
 - a. *Flugplatz:* in einem Sachplan festgelegte Anlage für die Ankunft und den Abflug von Luftfahrzeugen, für deren Stationierung und Wartung, für den Verkehr von Passagieren und für den Umschlag von Gütern;
-- b.–d.[^2-2] ...
+- b.–d.[^2-2] …
 - e. *Flugplatzanlagen:* Bauten und Anlagen, die der Erfüllung des Zwecks des Flugplatzes gemäss Sachplan Infrastruktur der Luftfahrt dienen und örtlich und funktionell zu diesem gehören;
 - f. *Nebenanlagen:* Bauten und Anlagen auf Flugplätzen, die nicht zu den Flugplatzanlagen gehören;
 - g.[^2-3] *Sachplan Verkehr Teil Infrastruktur Luftfahrt:* Sachplan im Sinne von Artikel 13 des Raumplanungsgesetzes vom 22. Juni 1979[^2-4] zur Planung und Koordination der raumwirksamen Tätigkeiten des Bundes im Bereich der schweizerischen Zivilluftfahrt;
@@ -55,9 +55,9 @@ In dieser Verordnung bedeuten:
 - k.[^2-6] *Luftfahrthindernisse:* Bauten und Anlagen sowie Pflanzen, die den Betrieb von Luftfahrzeugen oder von Flugsicherungsanlagen erschweren, gefährden oder verunmöglichen können; dazu gehören auch temporäre Objekte;
 - l. *Hindernisbegrenzungsflächen:* Flächen, welche den für die Flugsicherheit in der Regel erforderlichen hindernisfreien Luftraum nach unten abgrenzen;
 - m. *Hindernisbegrenzungsflächen-Kataster:* amtliche Feststellung der Hindernisbegrenzungsflächen nach Anhang 14 des Übereinkommens vom 7. Dezember 1944[^2-7] über die internationale Zivilluftfahrt für einen Flugplatz, eine Flugsicherungsanlage oder einen Flugweg;
-- n.[^2-8] ...
+- n.[^2-8] …
 - o. *IFR-Flugplatz:* Flugplatz, auf dem nach Instrumentenflugregeln (Instrument Flight Rules) gestartet und gelandet werden kann;
-- p. und q.[^2-9] ...
+- p. und q.[^2-9] …
 - r. *Gebirgslandeplatz:* speziell bezeichnete Landestelle über 1100 m über Meer.
 
 [^2-1]: Fassung gemäss Ziff. I 2 der V vom 4. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
@@ -439,7 +439,7 @@ Das Betriebsreglement sowie Änderungen desselben sind zu genehmigen, wenn:
 - a.[^25-1] die Festlegungen des SIL eingehalten sind;
 - b. die Vorgaben der Betriebskonzession oder Betriebsbewilligung und der Plangenehmigung umgesetzt sind;
 - c. die luftfahrtspezifischen Anforderungen sowie die Anforderungen der Raumplanung und des Umwelt-, Natur- und Heimatschutzes erfüllt sind;
-- d.[^25-2] ...
+- d.[^25-2] …
 - e.[^25-3] bei Flughäfen die Sicherheitszonenpläne öffentlich aufliegen bzw. bei Flugfeldern der Hindernisbegrenzungsflächen-Kataster festgesetzt werden kann;
 - f.[^25-4] die Voraussetzungen gemäss den Artikeln 23*a,* 23*b* oder 23*c* erfüllt sind.
 
@@ -764,7 +764,10 @@ Für die Organisation und den Betrieb der Bodenabfertigungsdienste auf den Flugh
 
 <sup>4</sup> Bei schwerwiegenden Verstössen gegen die luftrechtlichen Vorschriften ist der Flugplatzleiter oder die Flugplatzleiterin ermächtigt, Fehlbaren die fliegerischen Ausweise abzunehmen. Er oder sie stellt diese innerhalb von zwei Tagen zusammen mit einem schriftlichen Bericht dem BAZL zu.
 
-<sup>5</sup> Liegen bei Flugbesatzungsmitgliedern Anzeichen der Angetrunkenheit oder des Einflusses von Betäubungsmitteln oder psychotropen Substanzen vor, so ordnet der Flugplatzleiter oder die Flugplatzleiterin geeignete Massnahmen an. Er oder sie zieht unverzüglich die Polizei bei. Die Polizei kann eine Blutprobe anordnen.
+<sup>5</sup> Bestehen bei einem Besatzungsmitglied Anzeichen für eine Angetrunkenheit oder bestehen Anzeichen, dass es unter dem Einfluss von Betäubungsmitteln oder psychotropen Substanzen steht, so ordnet der Flugplatzleiter oder die Flugplatzleiterin geeignete Untersuchungen an. Er oder sie zieht unverzüglich die Polizei bei. Die Durchführung der Massnahmen richtet sich nach den Artikeln 38 ff. der Luftfahrtverordnung vom 14. November 1973[^29g-1].[^29g-2]
+
+[^29g-1]: [SR 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
+[^29g-2]: Fassung gemäss Ziff. II der vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
 
 #### Art. 29h
 
@@ -854,7 +857,7 @@ Für die Organisation und den Betrieb der Bodenabfertigungsdienste auf den Flugh
 
 [^31-1]: Fassung gemäss Ziff. I 2 der V vom 4. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 
-### 3. Kapitel: ...
+### 3. Kapitel: …
 
 #### Art. 32–35
 
@@ -969,7 +972,7 @@ Keiner Beschränkung unterliegen:
 
 <sup>2</sup> Der Flugplatzhalter kann bei unvorhergesehenen ausserordentlichen Ereignissen Ausnahmen von den Vorschriften nach Artikel 39 Absätze 1 und 2 gewähren. Er meldet diese Ausnahmen dem BAZL.
 
-<sup>2bis</sup> ...[^39d-2]
+<sup>2bis</sup> …[^39d-2]
 
 <sup>3</sup>
 
@@ -985,7 +988,7 @@ Das BAZL kann vorübergehend Starts und Landungen von Luftfahrzeugen zwischen 22
 [^39d-3]: Fassung gemäss Ziff. I 2 der V vom 4. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 [^39d-4]: Eingefügt durch Ziff. I 2 der V vom 4. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 
-### 3. Abschnitt: *...*
+### 3. Abschnitt: *…*
 
 #### Art. 40–47
 
@@ -993,7 +996,7 @@ Das BAZL kann vorübergehend Starts und Landungen von Luftfahrzeugen zwischen 22
 
 [^4047-1]: Aufgehoben durch Beilage Ziff. 2 der V vom 12. April 2000, mit Wirkung seit 1. Mai 2000 ([AS 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
 
-## 3. Titel: ...
+## 3. Titel: …
 
 #### Art. 48 und 49
 
@@ -1394,7 +1397,7 @@ Nach Artikel 91 Absatz 1 Buchstabe i LFG wird bestraft, wer:
 
 **Änderung bisherigen Rechts**
 
-...[^74-1]
+…[^74-1]
 
 [^74-1]: Die Änderung kann unter [AS 1994 3050](https://fedlex.data.admin.ch/eli/oc/1994/3050_3050_3050)konsultiert werden.
 

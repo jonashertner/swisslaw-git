@@ -4,11 +4,11 @@ title: "Ordinanza del 23 novembre 1994 sull'infrastruttura aeronautica (OSIA)"
 short: OSIA
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050"
 language: it
-version: 2021-05-12
+version: 2022-05-01
 adopted: 1994-11-23
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20210512/it/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20210512-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20210512/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20220501/it/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20220501-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20220501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20210512/it"
 
 (OSIA)
 
-del 23 novembre 1994 (Stato 12 maggio 2021)
+del 23 novembre 1994 (Stato 1° maggio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -766,7 +766,10 @@ Per l’organizzazione e l’esercizio dei servizi di assistenza a terra vale la
 
 <sup>4</sup> In caso di gravi violazioni delle norme del diritto aeronautico, il capo d’aerodromo è autorizzato a ritirare le licenze di volo ai colpevoli. Entro due giorni, egli le trasmette all’UFAC insieme ad un rapporto scritto.
 
-<sup>5</sup> Se un membro dell’equipaggio dà segni di ebrietà o di essere sotto l’effetto di stupefacenti o di sostanze psicotrope, il capo d’aerodromo ordina l’adozione di misure adeguate e chiede immediatamente l’intervento della polizia. La polizia può disporre l’effettuazione di un esame del sangue.
+<sup>5</sup> Se vi sono indizi che un membro dell’equipaggio si trova in stato di ebrietà o sotto l’influsso di narcotici o sostanze psicotrope, il capo d’aerodromo ordina analisi adeguate e chiede immediatamente l’intervento della polizia. Lo svolgimento delle misure si basa sugli articoli 38 segg. dell’ordinanza del 14 novembre 1973[^29g-1] sulla navigazione aerea (ONA).[^29g-2]
+
+[^29g-1]: [RS 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
+[^29g-2]: Nuovo testo giusta il n. II dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
 
 #### Art. 29h
 

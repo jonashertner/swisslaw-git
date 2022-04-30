@@ -4,11 +4,11 @@ title: "Ordonnance du 23 novembre 1994 sur l'infrastructure aéronautique (OSIA)
 short: OSIA
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050"
 language: fr
-version: 2021-05-12
+version: 2022-05-01
 adopted: 1994-11-23
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20210512/fr/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20210512-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20210512/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20220501-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20220501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20210512/fr"
 
 (OSIA)
 
-du 23 novembre 1994 (Etat le 12 mai 2021)
+du 23 novembre 1994 (Etat le 1<sup>er</sup> mai 2022)
 
 Le Conseil fédéral suisse,
 
@@ -768,7 +768,10 @@ L’organisation et l’exploitation des services d’assistance en escale sont 
 
 <sup>4</sup> En cas d’infractions graves à des prescriptions du droit aérien, le chef d’aérodrome est autorisé à retirer au fautif ses licences aéronautiques. Il les transmettra à l’OFAC dans les deux jours, accompagnées d’un rapport écrit.
 
-<sup>5</sup> Lorsque des indices permettent de conclure que des membres de l’équipage se trouvent sous l’emprise d’alcool ou sous l’influence de stupéfiants ou de substances psychotropes, le chef d’aérodrome ordonne les mesures qui s’imposent. Il fait immédiatement appel à la police. Cette dernière peut ordonner une prise de sang.
+<sup>5</sup> Lorsque des indices donnent à penser qu’un membre d’équipage se trouve sous l’emprise d’alcool ou sous l’influence de narcotiques ou de substances psychotropes, le chef d’aérodrome ordonne les examens appropriés. Il fait immédiatement appel à la police. L’exécution des mesures est régie par les art. 38 ss de l’ordonnance du 14 novembre 1973 sur l’aviation (OSAv)[^29g-1].[^29g-2]
+
+[^29g-1]: [RS 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
+[^29g-2]: Nouvelle teneur selon le ch. II de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
 
 #### Art. 29h
 
