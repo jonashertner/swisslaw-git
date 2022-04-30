@@ -4,11 +4,11 @@ title: "Ordinanza del 12 maggio 2010 concernente l'immissione sul mercato di pro
 short: OPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: it
-version: 2022-01-01
+version: 2022-05-01
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2010-340-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20220501/it/xml/fedlex-data-admin-ch-eli-cc-2010-340-20220501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20220501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20220101/it"
 
 (Ordinanza sui prodotti fitosanitari, OPF)
 
-del 12 maggio 2010 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 12 maggio 2010 (Stato 1° maggio 2022) (Stato 1° maggio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -1355,7 +1355,7 @@ I prodotti fitosanitari omologati secondo l’articolo 36 devono essere etichett
 
 **Etichettatura di prodotti fitosanitari contenenti esclusivamente sostanze di base approvate**[^55a-1]
 
-L’etichetta dei prodotti fitosanitari contenenti esclusivamente sostanze di base approvate e immessi sul mercato deve recare in modo leggibile e indelebile le seguenti informazioni in una delle lingue ufficiali della regione in cui il prodotto è venduto:
+L’etichetta dei prodotti fitosanitari contenenti esclusivamente sostanze di base approvate e immessi sul mercato deve recare in modo leggibile e indelebile le seguenti informazioni in almeno una lingua ufficiale del luogo di fornitura:[^55a-2]
 
 - a. il nome commerciale;
 - b. l’indicazione «Prodotto fitosanitario ottenuto da sostanze di base (omologato senza prova dell’efficacia e della tolleranza vegetale)»;
@@ -1369,15 +1369,16 @@ L’etichetta dei prodotti fitosanitari contenenti esclusivamente sostanze di ba
   - 2\. per i gas: in grammi, chilogrammi, millilitri o litri,
   - 3\. per i preparati liquidi: in millilitri o litri;
 
-- f.[^55a-2] se del caso, i corrispondenti dati di cui all’articolo 10 OPChim[^55a-3] sull’etichettatura di preparati pericolosi;
+- f.[^55a-3] se del caso, i corrispondenti dati di cui all’articolo 10 OPChim[^55a-4] sull’etichettatura di preparati pericolosi;
 - g. l’uso;
 - h. le istruzioni per l’uso;
 - i. se del caso, le condizioni e limitazioni d’uso secondo l’allegato 1 parte D;
 - j. la data di scadenza, se il prodotto fitosanitario si conserva per un periodo inferiore a due anni.
 
 [^55a-1]: Introdotto dal n. I dell’O del 23 mag. 2012, in vigore dal 1° dic. 2012 ([RU 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)).
-[^55a-2]: Nuovo testo giusta il n. I dell’O del 20 mag. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1781](https://fedlex.data.admin.ch/eli/oc/2015/349)).
-[^55a-3]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^55a-2]: Nuovo testo giusta l’all. n. 3 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^55a-3]: Nuovo testo giusta il n. I dell’O del 20 mag. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1781](https://fedlex.data.admin.ch/eli/oc/2015/349)).
+[^55a-4]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 56
 
@@ -1391,11 +1392,11 @@ L’etichetta dei prodotti fitosanitari contenenti esclusivamente sostanze di ba
 
 #### Art. 57
 
-**Lingue impiegate nell’etichetta**
+**Lingue impiegate nell’etichetta**[^57-1]
 
-<sup>1</sup> L’etichetta deve essere redatta in almeno due lingue ufficiali, di cui una deve essere la lingua ufficiale della regione in cui il prodotto è venduto.
+L’etichetta deve essere redatta in almeno una lingua ufficiale del luogo di fornitura.
 
-<sup>2</sup> L’etichetta dei prodotti fitosanitari omologati secondo l’articolo 36 deve essere redatta almeno nella lingua ufficiale della regione in cui il prodotto è venduto.
+[^57-1]: Nuovo testo giusta l’all. n. 3 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 #### Art. 58
 

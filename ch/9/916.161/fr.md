@@ -4,11 +4,11 @@ title: "Ordonnance du 12 mai 2010 sur la mise en circulation des produits phytos
 short: OPPh
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: fr
-version: 2022-01-01
+version: 2022-05-01
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-340-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-2010-340-20220501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20220501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20220101/fr"
 
 (Ordonnance sur les produits phytosanitaires, OPPh)
 
-du 12 mai 2010 (Etat le 1<sup>er</sup> janvier 2022)
+du 12 mai 2010 (Etat le 1<sup>er</sup> mai 2022)
 
 Le Conseil fédéral suisse,
 
@@ -1358,7 +1358,7 @@ Les produits phytosanitaires qui sont homologués selon l’art. 36 doivent êtr
 
 **Étiquetage des produits phytosanitaires contenant exclusivement des substances de base approuvées**[^55a-1]
 
-Les étiquettes des produits phytosanitaires qui contiennent exclusivement des substances de base approuvées et qui sont mis en circulation doivent porter de manière lisible et indélébile les indications suivantes libellées dans une langue en usage dans la région de vente:
+Les étiquettes des produits phytosanitaires qui contiennent exclusivement des substances de base approuvées et qui sont mis en circulation doivent porter de manière lisible et indélébile les indications suivantes libellées dans au moins une langue officielle du lieu de remise:[^55a-2]
 
 - a. le nom commercial;
 - b. l’indication «Produit phytosanitaire consistant en substances de base (homologué sans preuve d’efficacité ni de phytotoxicité pour les plantes)»;
@@ -1372,15 +1372,16 @@ Les étiquettes des produits phytosanitaires qui contiennent exclusivement des s
   - 2\. en gramme, kilogramme, millilitre ou litre pour les gaz,
   - 3\. en millilitre ou en litre pour les préparations liquides;
 
-- f.[^55a-2] le cas échéant, les indications conformément aux dispositions de l’art. 10 OChim[^55a-3] sur l’étiquetage des préparations dangereuses;
+- f.[^55a-3] le cas échéant, les indications conformément aux dispositions de l’art. 10 OChim[^55a-4] sur l’étiquetage des préparations dangereuses;
 - g. le domaine d’application;
 - h. le mode d’emploi;
 - i. le cas échéant, les conditions d’utilisation et les restrictions visées à l’annexe 1, partie D;
 - j. la date de péremption, si le produit se conserve moins de deux ans.
 
 [^55a-1]: Introduit par le ch. I de l’O du 23 mai 2012, en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)).
-[^55a-2]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1781](https://fedlex.data.admin.ch/eli/oc/2015/349)).
-[^55a-3]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^55a-2]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^55a-3]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1781](https://fedlex.data.admin.ch/eli/oc/2015/349)).
+[^55a-4]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 56
 
@@ -1394,11 +1395,11 @@ Les étiquettes des produits phytosanitaires qui contiennent exclusivement des s
 
 #### Art. 57
 
-**Langue utilisée pour l’étiquetage**
+**Langue utilisée pour l’étiquetage**[^57-1]
 
-<sup>1</sup> L’étiquetage doit être formulé dans deux langues officielles au moins, une de ces deux langues devant être celle en usage dans la région de vente.
+L’étiquetage doit être formulé dans au moins une langue officielle du lieu de remise.
 
-<sup>2</sup> L’étiquetage des produits phytosanitaires qui ont été homologués en vertu de l’art. 36 doit être libellé dans au moins une langue officielle en usage dans le rayon de vente.
+[^57-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 #### Art. 58
 

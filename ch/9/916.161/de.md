@@ -4,11 +4,11 @@ title: "Verordnung vom 12. Mai 2010 über das Inverkehrbringen von Pflanzenschut
 short: PSMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: de
-version: 2022-01-01
+version: 2022-05-01
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2010-340-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2010-340-20220501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20220501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20220101/de"
 
 (Pflanzenschutzmittelverordnung, PSMV)
 
-vom 12. Mai 2010 (Stand am 1. Januar 2022)
+vom 12. Mai 2010 (Stand am 1. Mai 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -1360,7 +1360,7 @@ Pflanzenschutzmittel, die nach Artikel 36 zugelassen sind, müssen nach den ents
 
 **Kennzeichnung von Pflanzenschutzmitteln, die ausschliesslich genehmigte Grundstoffe enthalten**[^55a-1]
 
-Für Pflanzenschutzmittel, die ausschliesslich genehmigte Grundstoffe enthalten und die in Verkehr gebracht werden, müssen auf der Etikette in einer der Sprachen des Verkaufsgebiets folgende Informationen deutlich lesbar und dauerhaft aufgeführt sein:
+Für Pflanzenschutzmittel, die ausschliesslich genehmigte Grundstoffe enthalten und die in Verkehr gebracht werden, müssen auf der Etikette in mindestens einer Amtssprache des Abgabeortes folgende Informationen deutlich lesbar und dauerhaft aufgeführt sein:[^55a-2]
 
 - a. Handelsnamen;
 - b. der Hinweis «Pflanzenschutzmittel aus Grundstoffen (zugelassen ohne Wirkungs- und Pflanzenverträglichkeitsnachweis)»;
@@ -1374,15 +1374,16 @@ Für Pflanzenschutzmittel, die ausschliesslich genehmigte Grundstoffe enthalten 
   - 2\. bei Gasen in Gramm, Kilogramm, Millilitern oder Litern,
   - 3\. bei flüssigen Formulierungen in Millilitern oder Litern;
 
-- f.[^55a-2] gegebenenfalls die entsprechenden Angaben nach Artikel 10 ChemV[^55a-3] zur Kennzeichnung gefährlicher Zubereitungen;
+- f.[^55a-3] gegebenenfalls die entsprechenden Angaben nach Artikel 10 ChemV[^55a-4] zur Kennzeichnung gefährlicher Zubereitungen;
 - g. Anwendungszweck;
 - h. Gebrauchsanweisung;
 - i. gegebenenfalls die Anwendungsbedingungen und ‑einschränkungen nach Anhang 1 Teil D;
 - j. Verfalldatum, sofern das Produkt weniger als zwei Jahre haltbar ist.
 
 [^55a-1]: Eingefügt durch Ziff. I der V vom 23. Mai 2012, in Kraft seit 1. Dez. 2012 ([AS 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)).
-[^55a-2]: Fassung gemäss Ziff. I der V vom 20. Mai 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1781](https://fedlex.data.admin.ch/eli/oc/2015/349)).
-[^55a-3]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^55a-2]: Fassung gemäss Anhang Ziff. 3 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^55a-3]: Fassung gemäss Ziff. I der V vom 20. Mai 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1781](https://fedlex.data.admin.ch/eli/oc/2015/349)).
+[^55a-4]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 56
 
@@ -1396,11 +1397,11 @@ Für Pflanzenschutzmittel, die ausschliesslich genehmigte Grundstoffe enthalten 
 
 #### Art. 57
 
-**Sprache der Kennzeichnung**
+**Sprache der Kennzeichnung**[^57-1]
 
-<sup>1</sup> Die Kennzeichnung muss in mindestens zwei Amtssprachen abgefasst sein, wovon eine die Amtssprache des Verkaufsgebietes sein muss.
+Die Kennzeichnung muss in mindestens einer Amtssprache des Abgabeortes erfolgen.
 
-<sup>2</sup> Die Kennzeichnung von Pflanzenschutzmitteln, die nach Artikel 36 zugelassen sind, muss mindestens in der Amtssprache des Verkaufsgebietes abgefasst sein.
+[^57-1]: Fassung gemäss Anhang Ziff. 3 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 #### Art. 58
 
