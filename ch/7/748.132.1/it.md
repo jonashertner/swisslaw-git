@@ -4,11 +4,11 @@ title: Ordinanza del 18 dicembre 1995 concernente il servizio della sicurezza ae
 short: OSA
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/595_595_595"
 language: it
-version: 2019-10-01
+version: 2022-05-01
 adopted: 1995-12-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20191001/it/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20191001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20191001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20220501/it/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20220501-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20220501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20191001/it"
 
 (OSA)
 
-del 18 dicembre 1995 (Stato 1° ottobre 2019) (Stato 1° ottobre 2019)
+del 18 dicembre 1995 (Stato 1° maggio 2022) (Stato 1° maggio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -162,30 +162,21 @@ I fornitori di servizi notificano immediatamente all’UFAC i seguenti eventi:
 
 #### Art. 5
 
-**Lingua delle conversazioni radiotelefoniche nelle zone di confine**
+**Lingua delle conversazioni radiotelefoniche nelle zone di confine per i voli strumentali e i voli a vista commerciali**[^5-1]
 
-<sup>1</sup>
+<sup>1</sup> Nelle zone all’interno delle quali Skyguide o terzi secondo l’articolo 9*a* forniscono servizi transfrontalieri, l’UFAC, su domanda di Skyguide o dell’esercente dell’aerodromo, autorizza deroghe al principio di cui all’articolo 10*a* capoverso 1 LNA per i voli strumentali e i voli a vista commerciali, purché il richiedente provi che la sicurezza aerea è garantita nel caso in cui sia utilizzata un’altra lingua oltre all’inglese.
 
-L’UFAC può autorizzare deroghe al principio di cui all’articolo 10*a* LNA, secondo il quale le conversazioni radiotelefoniche con il servizio della sicurezza aerea nello spazio aereo svizzero sono effettuate in inglese:
+<sup>2</sup> Se servizi della sicurezza aerea nello spazio aereo svizzero sono stati delegati a fornitori di servizi esteri che, su territorio estero, offrono prestazioni in più lingue, tali servizi nel settore transfrontaliero della sicurezza aerea sono ammessi anche nello spazio aereo svizzero.
 
-- a. nelle zone all’interno delle quali Skyguide fornisce servizi transfrontalieri, su domanda di Skyguide, dell’esercente di un aerodromo o delle associazioni aeronautiche interessate;
-- b. nelle zone all’interno delle quali i servizi della sicurezza aerea nello spazio aereo svizzero sono delegati a un’autorità o a un fornitore di servizi esteri, su domanda dell’esercente dell’aerodromo e previa consultazione dei fornitori esteri interessati.
-
-<sup>2</sup> Autorizza una deroga richiesta, se l’attuazione del principio di cui al capoverso 1 all’interno di un settore della sicurezza aerea comporta il cambiamento della lingua di comunicazione tra l’equipaggio e il servizio della sicurezza aerea pregiudicando la sicurezza aerea.
-
-<sup>3</sup> L’UFAC emana una decisione generale e la pubblica nel Foglio federale e nell’AIP.
+[^5-1]: Nuovo testo giusta il n. I dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
 
 #### Art. 5a
 
-**Lingua delle conversazioni radiotelefoniche dei servizi d’informazione di volo**
+**Lingua delle conversazioni radiotelefoniche con Swiss Radar per i voli a vista**[^5a-1]
 
-Nell’interesse della sicurezza aerea è possibile derogare al principio di cui all’articolo 10*a* LNA, secondo il quale le conversazioni radiotelefoniche con il servizio d’informazione di volo nello spazio aereo svizzero sono effettuate in inglese, se il volo è effettuato al di fuori delle seguenti zone:
+Le conversazioni radiotelefoniche con Swiss Radar si tengono in inglese. Sono fatte salve le deroghe pubblicate nell’AIP.
 
-- a. spazi aerei delle classi C e D;
-- b. zone radio obbligatorie (Radio Mandatory Zone, RMZ; zone regolamentate con obbligo di radiocomunicazione);
-- c*.* zone d’informazione di volo (Flight Information Zone; FIZ) secondo l’articolo 15 dell’ordinanza del DATEC del 20 maggio 2015[^5a-1] concernente le norme di circolazione per aeromobili.
-
-[^5a-1]: [RS 748.121.11](https://fedlex.data.admin.ch/eli/cc/2015/326)
+[^5a-1]: Nuovo testo giusta il n. I dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
 
 ## Capitolo 2: Compiti della sicurezza aerea****
 
@@ -263,12 +254,14 @@ Skyguide finanzia i suoi compiti segnatamente per mezzo:
 
 - a. della riscossione di tasse (art. 49 LNA);
 - b. degli indennizzi previsti dalle convenzioni internazionali;
-- c. dei contributi della Confederazione per la copertura delle perdite di proventi all’estero (art. 12):
+- c. dei contributi della Confederazione per la copertura delle perdite di proventi all’estero (art. 12);
+- c<sup>bis</sup>.[^9-2] dei contributi della Confederazione per servizi nell’ambito dell’integrazione di aeromobili civili senza occupanti nello spazio aereo (art. 12*a*);
 - d. degli indennizzi della Confederazione per i voli esenti da tasse (art. 34);
 - e. degli indennizzi della Confederazione per i voli militari (art. 37);
 - f. degli introiti provenienti da altre prestazioni.
 
 [^9-1]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3503](https://fedlex.data.admin.ch/eli/oc/2011/473)).
+[^9-2]: Introdotta dal n. I dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
 
 ### Sezione 2:**** Delega della fornitura di servizi della sicurezza aerea locali
 
@@ -358,7 +351,7 @@ In applicazione dell’articolo 1 paragrafo 5 del regolamento di esecuzione (UE)
 
 <sup>1</sup> La Confederazione può indennizzare Skyguide, nei limiti dei crediti stanziati, per le perdite annuali di proventi dovute alla fornitura di servizi della sicurezza aerea all’estero. Per l’allestimento del preventivo Skyguide comunica all’UFAC una stima delle perdite di proventi presumibili.
 
-<sup>2</sup> Un’impresa di revisione sotto sorveglianza statale secondo l’articolo 7 della legge federale del 16 dicembre 2005[^12-1] sull’abilitazione e la sorveglianza dei revisori e l’UFAC esaminano l’ammontare effettivo delle perdite di proventi al termine dell’esercizio. I costi dell’esame sono a carico di Skyguide.
+<sup>2</sup> Un’impresa di revisione sotto sorveglianza statale secondo l’articolo 7 della legge del 16 dicembre 2005[^12-1] sui revisori (LSR) e l’UFAC esaminano l’ammontare effettivo delle perdite di proventi al termine dell’esercizio. I costi dell’esame sono a carico di Skyguide.[^12-2]
 
 <sup>3</sup> Se dall’esame risulta che nell’anno considerato la Confederazione ha versato indennizzi più elevati delle perdite di proventi effettive, la differenza è addebitata a Skyguide nell’anno successivo.
 
@@ -367,6 +360,26 @@ In applicazione dell’articolo 1 paragrafo 5 del regolamento di esecuzione (UE)
 <sup>5</sup> L’UFAC conclude con Skyguide ogni anno un accordo d’indennizzo
 
 [^12-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^12-2]: Nuovo testo giusta il n. I dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
+
+#### Art. 12a
+
+**Assunzione da parte della Confederazione dei costi di Skyguide nell’ambito dell’integrazione di aeromobili civili senza occupanti nello spazio aereo**[^12a-1]
+
+<sup>1</sup> La Confederazione può indennizzare Skyguide, nei limiti dei crediti stanziati, per i costi annuali dovuti ai servizi nell’ambito dell’integrazione di aeromobili civili senza occupanti nello spazio aereo. Per l’allestimento del preventivo Skyguide comunica all’UFAC una stima dei costi presumibili di questi servizi.
+
+<sup>2</sup> Un’impresa di revisione sotto sorveglianza statale secondo l’articolo 7 LSR[^12a-2] e l’UFAC esaminano l’ammontare effettivo dei costi al termine dell’esercizio. I costi dell’esame sono a carico di Skyguide.
+
+<sup>3</sup> Se dall’esame risulta che nell’anno considerato la Confederazione ha versato indennizzi più elevati dei costi effettivi, la differenza è addebitata a Skyguide nell’anno successivo.
+
+<sup>4</sup> Skyguide comunica all’UFAC su richiesta tutte le informazioni necessarie per determinare l’importo da versare.
+
+<sup>5</sup> L’UFAC conclude con Skyguide ogni anno un accordo d’indennizzo. Questo disciplina in particolare il volume di servizi previsto nell’anno in questione, i contributi a carico della Confederazione e le modalità di pagamento.
+
+<sup>6</sup> L’UFAC verifica dopo tre anni se e in quale misura la Confederazione deve continuare a indennizzare i costi per questi servizi.
+
+[^12a-1]: Introdotto dal n. I dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
+[^12a-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 #### Art. 13
 
@@ -907,16 +920,16 @@ Allegato 1*[^t-1]*
 
 ## Compiti della sicurezza aerea affidati a Skyguide
 
-[^t-1]: Originario all. introdotto dal n. II dell’O del 24 gen. 2001 ([RU 2001 514](https://fedlex.data.admin.ch/eli/oc/2001/104)). Nuovo testo giusta il n. II dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
+[^t-1]: Originario all. introdotto dal n. II dell’O del 24 gen. 2001 ([RU 2001 514](https://fedlex.data.admin.ch/eli/oc/2001/104)). Nuovo testo giusta il n. II dell’O del 17 ott. 2018 ([RU 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)). Aggioranto dal n. II dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
 
 I compiti della sicurezza aerea di Skyguide comprendono:
 
 - *1.* *Gestione del traffico aereo*
 - 1\.1 Gestione dello spazio aereo
-  - 1\.1.1 elaborazione di proposte per l’ottimizzazione e la modifica della struttura dello spazio aereo all’attenzione dell’UFAC.
+  - 1\.1.1 Elaborazione di proposte per l’ottimizzazione e la modifica della struttura dello spazio aereo all’attenzione dell’UFAC.
   - 1\.1.2
 
-    gestione dello spazio aereo, compreso l’esercizio dell’Airspace Management Cell (AMC) della Svizzera, in particolare:
+    Gestione dello spazio aereo, compreso l’esercizio dell’Airspace Management Cell (AMC) della Svizzera, in particolare:
 
     - – l’amministrazione di tutti gli spazi aerei, zone e regioni secondo l’articolo 1 lettera b della presente ordinanza,
     - – l’amministrazione delle rotte ATS,
@@ -924,8 +937,11 @@ I compiti della sicurezza aerea di Skyguide comprendono:
     - – il coordinamento di voli che necessitano di un’autorizzazione del servizio della navigazione aerea conformemente all’ordinanza del DATEC del 24 novembre 1994[^annex1-lvlu1-1] sulle categorie speciali di aeromobili,
     - – il coordinamento tra i tiri dell’esercito e la sicurezza aerea (Koordination Schiessen Flugsicherung, KOSIF).
 
+  - 1\.1.3 Messa a disposizione dei dati dinamici sullo spazio aereo ai fini dell’integrazione degli aeromobili civili senza occupanti nello spazio aereo.
+
 - 1\.2 Gestione dei flussi e delle capacità del traffico aereo
 - 1\.3 Ricezione e gestione di piani di volo e di rapporti concernenti i servizi della navigazione aerea, compresi i servizi degli uffici di pista ATS (ATS Reporting Office; ARO).
+- 1\.4. Coordinamento e adeguamento con fornitori di servizi ai fini dell’integrazione degli aeromobili civili senza occupanti nello spazio aereo.
 - *2.* *Servizi di controllo del traffico aereo*
 - 2\.1 Servizio di controllo dei voli in rotta
   - 2\.1.1 per i voli effettuati secondo le regole del volo strumentale nello spazio aereo delle classi C, D e E, compresi i voli strumentali sulla Low Flight Network (LFN);
@@ -962,8 +978,9 @@ I compiti della sicurezza aerea di Skyguide comprendono:
   - 5\.2.2 servizi di navigazione specifici su richiesta degli aerodromi.
 
 - 5\.3 Servizio di sorveglianza
-  - 5\.3.1 fornitura dei necessari servizi di sorveglianza per i servizi di controllo del traffico aereo secondo il n. 2,
-  - 5\.3.2 servizi di sorveglianza specifici su richiesta degli aerodromi.
+  - 5\.3.1 fornitura dei necessari servizi di sorveglianza per i servizi di controllo del traffico aereo secondo il n. 2;
+  - 5\.3.2 servizi di sorveglianza specifici su richiesta degli aerodromi;
+  - 5\.3.3. messa a disposizione dei dati sulla sorveglianza ai fini dell’integrazione degli aeromobili civili senza occupanti nello spazio aereo.
 
 - *6.* *Servizi d’informazione aeronautica, in particolare*
 - 6\.1 gestione, archiviazione e storicizzazione di dati e informazioni aeronautici della Svizzera, compresi i relativi metadati;
@@ -987,15 +1004,16 @@ I compiti della sicurezza aerea di Skyguide comprendono:
 
   - 6\.6.1 coordinamento e controllo incrociato dei dati aeronautici con la banca europea dei dati aeronautici (EAD),
   - 6\.6.2 aggiornamento, messa a disposizione, trasmissione e pubblicazione di dati e informazioni aeronautici,
-  - 6\.6.3 aggiornamento, messa a disposizione, trasmissione e pubblicazione dei set di dati aeronautici esistenti definiti nei capitoli 10 e 11 dell’allegato 15 alla Convenzione di Chicago nonché dei set di dati destinati alla pubblicazione delle carte aeronautiche o altri prodotti relativi alle informazioni aeronautiche;
+  - 6\.6.3 aggiornamento, messa a disposizione, trasmissione e pubblicazione dei set di dati aeronautici esistenti definiti nei capitoli 10 e 11 dell’allegato 15 alla Convenzione di Chicago nonché dei set di dati destinati alla pubblicazione delle carte aeronautiche o altri prodotti relativi alle informazioni aeronautiche,
 
-- 6\.7 gestione della biblioteca nazionale dei Manuali d’informazione aeronautica esteri.
+- 6\.7 gestione della biblioteca nazionale dei Manuali d’informazione aeronautica esteri,
+- 6\.8. gestione, messa a disposizione, pubblicazione e trasmissione di dati e informazioni aeronautici ai fini dell’integrazione degli aeromobili civili senza occupanti nello spazio aereo.
 - *7.* *Servizi speciali per la salvaguardia della sovranità sullo spazio aereo conformemente al relativo mandato delle Forze aeree o dell’UFAC, in particolare*
 - 7\.1
 
   rifiuto dell’autorizzazione per aeromobili esteri nel territorio svizzero o del Principato del Liechtenstein:
 
-  - – per aeromobili di Stato sprovvisti di autorizzazione di sorvolo o di atterraggio valida conformemente all’articolo 4 dell’ordinanza del 23 maggio 2005[^annex1-lvlu1-2] concernente la salvaguardia della sovranità sullo spazio aereo (diplomatic clearance),
+  - – per aeromobili di Stato sprovvisti di autorizzazione di sorvolo o di atterraggio valida conformemente all’articolo 4 dell’ordinanza del 23 maggio 2005[^annex1-lvlu1-2] concernente la salvaguardia della sovranità sullo spazio aereo (diplomatic clearance);
   - – per aeromobili di imprese di trasporti aerei il cui esercizio è stato vietato o limitato conformemente al regolamento (CE) n. 2111/2005[^annex1-lvlu1-3];
 
 - 7\.2 coordinamento con l’UFAC e le Forze aeree per il sorvolo o l’atterraggio di aeromobili di Stato nel territorio svizzero o del Principato del Liechtenstein;

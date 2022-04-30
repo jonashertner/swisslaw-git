@@ -4,11 +4,11 @@ title: Verordnung vom 18. Dezember 1995 über den Flugsicherungsdienst (VFSD)
 short: VFSD
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/595_595_595"
 language: de
-version: 2019-10-01
+version: 2022-05-01
 adopted: 1995-12-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20191001/de/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20191001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20191001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20220501/de/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20220501-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20220501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20191001/de"
 
 (VFSD)
 
-vom 18. Dezember 1995 (Stand am 1. Oktober 2019)
+vom 18. Dezember 1995 (Stand am 1. Mai 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -160,30 +160,21 @@ Die Leistungserbringer melden folgende Ereignisse unverzüglich dem BAZL:
 
 #### Art. 5
 
-**Sprache der Radiotelefonie in grenznahen Gebieten**
+**Sprache der Radiotelefonie in grenznahen Gebieten für den Instrumentenflugverkehr und gewerbsmässigen Sichtflugverkehr**[^5-1]
 
-<sup>1</sup>
+<sup>1</sup> In Gebieten, in welchen Skyguide oder Dritte nach Artikel 9*a* grenzüberschreitende Flugsicherungsdienstleistungen erbringen, bewilligt das BAZL auf Antrag von Skyguide oder des Flugplatzhalters für den Instrumentenflugverkehr und gewerbsmässigen Sichtflugverkehr Abweichungen vom Grundsatz nach Artikel 10*a* Absatz 1 LFG, wenn die Antragstellerin nachweist, dass die Flugsicherheit bei der Verwendung einer weiteren Sprache neben Englisch gewährleistet ist.
 
-Abweichungen vom Grundsatz gemäss Artikel 10*a* LFG, wonach die Radiotelefonie mit dem Flugsicherungsdienst im Luftraum über der Schweiz auf Englisch stattfindet, kann das BAZL bewilligen:
+<sup>2</sup> Sind Flugsicherungsdienstleistungen im schweizerischen Luftraum ausländischen Leistungserbringern übertragen worden, welche auf ausländischem Gebiet mehrsprachige Flugsicherungsdienstleistungen erbringen, so sind diese im grenzüberschreitenden Flugsicherungssektor auch im schweizerischen Luftraum zulässig.
 
-- a. in Gebieten, in welchen Skyguide grenzüberschreitende Dienstleistungen erbringt, auf Antrag von Skyguide, des Flugplatzhalters oder der betroffenen Luftfahrtverbände;
-- b. in Gebieten, in welchen Flugsicherungsdienstleistungen im schweizerischen Luftraum an eine ausländische Behörde oder ausländische Leistungserbringer übertragen sind, auf Antrag des Flugplatzhalters und nach Anhörung der betroffenen ausländischen Leistungserbringer.
-
-<sup>2</sup> Es bewilligt eine beantragte Abweichung, wenn die Umsetzung des Grundsatzes innerhalb eines Flugsicherungssektors zu einem Sprachwechsel in der Kommunikation zwischen Besatzung und Flugsicherung führen und dies die Flugsicherheit beeinträchtigen würde.
-
-<sup>3</sup> Das BAZL entscheidet mit einer Allgemeinverfügung und lässt diese im Bundesblatt sowie in der AIP publizieren.
+[^5-1]: Fassung gemäss Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
 
 #### Art. 5a
 
-**Sprache der Radiotelefonie für Fluginformationsdienste**
+**Sprache der Radiotelefonie mit Swiss Radar für den Sichtflugverkehr**[^5a-1]
 
-Vom Grundsatz gemäss Artikel 10*a* LFG, wonach die Radiotelefonie mit dem Fluginformationsdienst im Luftraum über der Schweiz auf Englisch stattfindet, kann im Interesse der Flugsicherheit abgewichen werden, wenn der Flug ausserhalb der folgenden Gebiete durchgeführt wird:
+Die Radiotelefonie mit Swiss Radar findet auf Englisch statt. Vorbehalten sind die im AIP publizierten Abweichungen.
 
-- a. Lufträume der Klasse C und D;
-- b. Gebiete mit Funkkommunikationspflicht (Radio Mandatory Zone, RMZ; Flugbeschränkungsgebiete mit Funkpflicht);
-- c*.* Fluginformationszonen (Flight Information Zone, FIZ) gemäss Artikel 15 der Verordnung des UVEK vom 20. Mai 2015[^5a-1] über die Verkehrsregeln für Luftfahrzeuge.
-
-[^5a-1]: [SR 748.121.11](https://fedlex.data.admin.ch/eli/cc/2015/326)
+[^5a-1]: Fassung gemäss Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
 
 ## 2. Kapitel: Erbringung der Flugsicherungsaufgaben****
 
@@ -262,11 +253,13 @@ Die Skyguide finanziert ihre Aufgaben insbesondere durch:
 - a. die Erhebung von Gebühren (Art. 49 LFG);
 - b. die Abgeltung aus zwischenstaatlichen Vereinbarungen;
 - c. Beiträge des Bundes für Ertragsausfälle im Ausland (Art. 12):
+- c<sup>bis</sup>.[^9-2] Beiträge des Bundes für Dienstleistungen im Zusammenhang mit der Integration von zivilen unbemannten Luftfahrzeugen in den Luftraum (Art. 12*a*);
 - d. die Abgeltung des Bundes für gebührenbefreite Flüge (Art. 34);
 - e. die Abgeltung des Bundes für militärische Flüge (Art. 37);
 - f. Einnahmen aus weiteren Dienstleistungen.
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Aug. 2011 ([AS 2011 3503](https://fedlex.data.admin.ch/eli/oc/2011/473)).
+[^9-2]: Eingefügt durch Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
 
 ### 2. Abschnitt:**** Übertragung der Erbringung lokaler Flugsicherungsdienstleistungen
 
@@ -356,7 +349,7 @@ In Ausführung von Artikel 1 Absatz 5 der Durchführungsverordnung (EU) Nr. 391/
 
 <sup>1</sup> Der Bund kann die jährlichen Ertragsausfälle der Skyguide, die ihr aufgrund der Erbringung von Flugsicherungsdiensten im Ausland entstehen, im Rahmen der bewilligten Kredite übernehmen. Für die Erstellung des Voranschlages übermittelt die Skyguide dem BAZL eine Schätzung der voraussichtlichen Ertragsausfälle.
 
-<sup>2</sup> Ein staatlich beaufsichtigtes Revisionsunternehmen nach Artikel 7 des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^12-1] und das BAZL prüfen die effektive Höhe der Ertragsausfälle am Ende eines Rechnungsjahres. Die Skyguide trägt die Kosten für die Überprüfung.
+<sup>2</sup> Ein staatlich beaufsichtigtes Revisionsunternehmen nach Artikel 7 des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^12-1] (RAG) und das BAZL prüfen die effektive Höhe der Ertragsausfälle am Ende eines Rechnungsjahres. Die Skyguide trägt die Kosten für die Überprüfung.[^12-2]
 
 <sup>3</sup> Zeigt die Überprüfung, dass im betreffenden Jahr die Zahlungen des Bundes höher ausgefallen sind als die effektiven Ertragsausfälle, wird die Differenz der Skyguide im Folgejahr angerechnet.
 
@@ -365,6 +358,26 @@ In Ausführung von Artikel 1 Absatz 5 der Durchführungsverordnung (EU) Nr. 391/
 <sup>5</sup> Das BAZL schliesst mit der Skyguide jährlich eine Abgeltungsvereinbarung. Diese regelt insbesondere die im betreffenden Jahr durch den Bund zu leistenden Beiträge und die Zahlungsmodalitäten.
 
 [^12-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^12-2]: Fassung gemäss Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
+
+#### Art. 12a
+
+**Deckung der Kosten von Skyguide im Zusammenhang mit der Integration von zivilen unbemannten Luftfahrzeugen in den Luftraum durch den Bund**[^12a-1]
+
+<sup>1</sup> Der Bund kann die jährlichen Kosten der Skyguide für Dienstleistungen im Zusammenhang mit der Integration von zivilen unbemannten Luftfahrzeugen in den Luftraum im Rahmen der bewilligten Kredite übernehmen. Für die Erstellung des Voranschlages übermittelt die Skyguide dem BAZL eine Schätzung der voraussichtlichen Kosten für diese Dienstleistungen.
+
+<sup>2</sup> Ein staatlich beaufsichtigtes Revisionsunternehmen nach Artikel 7 RAG[^12a-2] und das BAZL prüfen die effektive Höhe der Kosten am Ende eines Rechnungsjahres. Die Skyguide trägt die Kosten für die Überprüfung.
+
+<sup>3</sup> Zeigt die Überprüfung, dass im betreffenden Jahr die Zahlungen des Bundes höher ausgefallen sind als die effektiven Kosten, wird die Differenz der Skyguide im Folgejahr angerechnet.
+
+<sup>4</sup> Die Skyguide übermittelt dem BAZL auf Anfrage sämtliche für die Überprüfung des zu leistenden Betrages erforderlichen Informationen.
+
+<sup>5</sup> Das BAZL schliesst mit der Skyguide jährlich eine Abgeltungsvereinbarung. Diese regelt insbesondere den im betreffenden Jahr erwarteten Leistungsumfang, die durch den Bund zu leistenden Beiträge und die Zahlungsmodalitäten.
+
+<sup>6</sup> Das BAZL prüft nach drei Jahren, ob und zu welchem Anteil der Bund die Kosten für diese Dienstleistungen weiterhin übernehmen soll.
+
+[^12a-1]: Eingefügt durch Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
+[^12a-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 #### Art. 13
 
@@ -885,7 +898,7 @@ Es werden aufgehoben:
 - b. die Verordnung vom 10. September 1986[^42-2] über die Erhebung der Eidgenössischen Flugsicherungsgebühr;
 - c. die Verordnung vom 23. August 1989[^42-3] über die Errichtung von Flugbeschränkungsgebieten um Militärflugplätze.
 
-[^42-1]: [[AS 1988 940](https://fedlex.data.admin.ch/eli/oc/1988/940_940_940), [1992 2399](https://fedlex.data.admin.ch/eli/oc/1992/2399_2399_2399)]
+[^42-1]: [[AS 1988 940](https://fedlex.data.admin.ch/eli/oc/1988/940_940_940); [1992 2399](https://fedlex.data.admin.ch/eli/oc/1992/2399_2399_2399)]
 [^42-2]: [[AS 1986 1683](https://fedlex.data.admin.ch/eli/oc/1986/1683_1683_1683)]
 [^42-3]: [[AS 1989 1761](https://fedlex.data.admin.ch/eli/oc/1989/1761_1761_1761)]
 
@@ -905,13 +918,13 @@ Anhang 1*[^t-1]*
 
 ## Flugsicherungsaufgaben der Skyguide
 
-[^t-1]: Ursprünglich: Anhang. Eingefügt durch Ziff. II der V vom 24. Jan. 2001 ([AS 2001 514](https://fedlex.data.admin.ch/eli/oc/2001/104)). Fassung gemäss Ziff. II der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
+[^t-1]: Ursprünglich: Anhang. Eingefügt durch Ziff. II der V vom 24. Jan. 2001 ([AS 2001 514](https://fedlex.data.admin.ch/eli/oc/2001/104)). Fassung gemäss Ziff. II der V vom 17. Okt. 2018 ([AS 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)). Bereinigt gemäss Ziff. II der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
 
 Die Flugsicherungsaufgaben der Skyguide umfassen:
 
 - *1.* *Flugverkehrs-Management*
 - 1\.1 Luftraum-Management
-  - 1\.1.1 Erarbeitung von Vorschlägen zur Optimierung und Änderung der Luftraumstruktur zuhanden des BAZL,
+  - 1\.1.1 Erarbeitung von Vorschlägen zur Optimierung und Änderung der Luftraumstruktur zuhanden des BAZL;
   - 1\.1.2
 
     Bewirtschaftung des Luftraums inklusive dem Betrieb der Airspace Management Cell (AMC) der Schweiz, insbesondere:
@@ -922,8 +935,11 @@ Die Flugsicherungsaufgaben der Skyguide umfassen:
     - – die Koordination von Flügen, die gemäss der Verordnung des UVEK vom 24. November 1994[^annex1-lvlu1-1] über Luftfahrzeuge besonderer Kategorien eine Bewilligung des Flugverkehrsdienstes benötigen
     - – die Koordination zwischen dem Schiessbetrieb der Armee und der Flugsicherung (Koordination Schiessen Flugsicherung, KOSIF);
 
-- 1\.2 Verkehrsfluss- und Verkehrskapazitäts-Management;
+  - 1\.1.3 Bereitstellung der dynamischen Luftraumdaten zuhanden der Integration der unbemannten Luftfahrzeuge in den Luftraum.
+
+- 1\.2 Verkehrsfluss- und Verkehrskapazitäts-Management.
 - 1\.3 Entgegennahme und Bewirtschaftung von Flugplänen und Berichten bezüglich Flugverkehrsdiensten inklusive der Dienste als ATS-Meldestelle (ATS Reporting Office, ARO).
+- 1\.4 Koordination und Abstimmung mit Dienstleistern von Leistungen zuhanden der Integration der unbemannten Luftfahrzeuge in den Luftraum.
 - *2.* *Flugverkehrskontrolldienste*
 - 2\.1 Streckenflugkontrolldienst
   - 2\.1.1 für die Flüge nach Instrumentenflugregeln im Luftraum der Klassen C, D und E inklusive die Instrumentenflüge auf dem Tief-Flug-Netzwerk (LFN),
@@ -961,7 +977,8 @@ Die Flugsicherungsaufgaben der Skyguide umfassen:
 
 - 5\.3 Überwachungsdienst
   - 5\.3.1 Erbringung der erforderlichen Überwachungsdienste für die Flugverkehrskontrolldienste nach Ziffer 2,
-  - 5\.3.2 Im Auftrag der Flugplätze Erbringung von flugplatzspezifischen Überwachungsdiensten.
+  - 5\.3.2 Im Auftrag der Flugplätze Erbringung von flugplatzspezifischen Überwachungsdiensten.,
+  - 5\.3.3 Bereitstellung der Überwachungsdaten zuhanden der Integration der unbemannten Luftfahrzeuge in den Luftraum.
 
 - *6.* *Luftfahrtinformationsdienste, insbesondere:*
 - 6\.1 Führen, archivieren und historisieren der Luftfahrtdaten und -informationen der Schweiz inklusive der zugehörigen Metadaten;
@@ -981,7 +998,8 @@ Die Flugsicherungsaufgaben der Skyguide umfassen:
   - 6\.6.2 Nachführung, Bereitstellung, Übermittlung und Publikation von Luftfahrtdaten und Luftfahrtinformation,
   - 6\.6.3 soweit diese erstellt werden, Nachführung, Bereitstellung, Übermittlung und Publikation der in Anhang 15 Kapitel 10 und 11 zum Chicago-Übereinkommen definierten Datensätze, sowie der Datensätze zuhanden der Publikation der Luftfahrtkarten oder anderer Luftfahrtinformationsprodukte;
 
-- 6\.7 Führen der nationalen Bibliothek der ausländischen Luftfahrthandbücher.
+- 6\.7 Führen der nationalen Bibliothek der ausländischen Luftfahrthandbücher;
+- 6\.8 Führen, Bereitstellen, Publizieren und Übermitteln von Luftfahrtdaten und Luftfahrtinformation zuhanden der Integration der unbemannten Luftfahrzeuge in den Luftraum.
 - *7.* *Sonderdienste zur Wahrung der Lufthoheit gemäss entsprechendem Auftrag der Luftwaffe oder des BAZL, insbesondere*
 - 7\.1
 

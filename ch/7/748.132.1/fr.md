@@ -4,11 +4,11 @@ title: Ordonnance du 18 décembre 1995 sur le service de la navigation aérienne
 short: OSNA
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/595_595_595"
 language: fr
-version: 2019-10-01
+version: 2022-05-01
 adopted: 1995-12-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20191001/fr/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20191001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20191001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20220501-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20220501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20191001/fr"
 
 (OSNA)**[^t-1]**
 
-du 18 décembre 1995 (Etat le 1<sup>er</sup> octobre 2019)
+du 18 décembre 1995 (Etat le 1<sup>er</sup> mai 2022)
 
 [^t-1]: [RO 1996 1647](https://fedlex.data.admin.ch/eli/oc/1996/_1647_)
 
@@ -162,30 +162,21 @@ Les prestataires de services rendent immédiatement compte des événements suiv
 
 #### Art. 5
 
-**Langue utilisée en radiotéléphonie dans les régions limitrophes**
+**Langue utilisée en radiotéléphonie dans les régions limitrophes pour le trafic selon les règles de vol aux instruments et le trafic commercial selon les règles de vol à vue**[^5-1]
 
-<sup>1</sup>
+<sup>1</sup> Dans les régions où Skyguide ou un tiers au sens de l’art. 9*a* fournit des services de navigation aérienne transfrontaliers, l’OFAC peut, à la demande de Skyguide ou de l’exploitant d’aérodrome, autoriser des dérogations au principe consacré par l’art. 10*a*, al. 1, LA pour le trafic selon les règles de vol aux instruments et le trafic commercial selon les règles de vol à vue lorsque le requérant démontre que l’usage d’une autre langue, en plus de l’anglais, ne compromet pas la sécurité aérienne.
 
-L’OFAC peut autoriser des dérogations au principe consacré par l’art. 10*a* LA selon lequel les communications radiotéléphoniques avec le service de la navigation aérienne s’effectuent en anglais dans l’espace aérien suisse:
+<sup>2</sup> Lorsque la fourniture de services de navigation aérienne dans l’espace aérien suisse a été déléguée à des prestataires étrangers qui fournissent des services de navigation aérienne en plusieurs langues sur territoire étranger, l’usage de ces langues est aussi admis dans l’espace aérien suisse dans le secteur de contrôle aérien transfrontalier.
 
-- a. dans les régions où Skyguide fournit des services transfrontaliers: à la demande de Skyguide, d’un exploitant d’aérodrome ou des organisations aéronautiques concernées;
-- b. dans les régions où des services de navigation aérienne dans l’espace aérien suisse sont sous-traités ou délégués à une autorité ou à des organismes étrangers, à la demande d’un exploitant d’aérodrome et après avoir entendu le prestataire de services étranger concerné.
-
-<sup>2</sup> L’OFAC accepte une demande de dérogation lorsque l’application du principe visé à l’al. 1 entraînerait au sein d’un secteur de contrôle aérien un changement de langue dans la communication entre l’équipage de conduite et le service de la navigation aérienne et compromettrait de ce fait la sécurité aérienne.
-
-<sup>3</sup> L’OFAC statue par voie de décision de portée générale, décision qu’il fait publier dans la Feuille fédérale et dans l’AIP.
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
 
 #### Art. 5a
 
-**Langue utilisée en radiotéléphonie pour les services d’information de vol**
+**Langue utilisée en radiotéléphonie avec Swiss Radar pour le trafic selon les règles de vol à vue**[^5a-1]
 
-Pour des raisons de sécurité, il peut être dérogé au principe consacré par l’art. 10*a* LA selon lequel les communications radiotéléphoniques avec le service de la navigation aérienne s’effectuent en anglais dans l’espace aérien suisse lorsque le vol a lieu hors des zones suivantes:
+Les communications radiotéléphoniques avec Swiss Radar ont lieu en anglais. Les dérogations publiées dans l’AIP sont réservées.
 
-- a. les espaces aériens de classe C et D;
-- b. les zones à utilisation obligatoire de radio (Radio Mandatory Zone; RMZ); les zones réglementées à utilisation obligatoire de radio;
-- c. les zones d’information de vol (Flight Information Zone; FIZ) visées à l’art. 15 de l’ordonnance du DETEC du 20 mai 2015 concernant les règles de l’air applicables aux aéronefs[^5a-1].
-
-[^5a-1]: [RS 748.121.11](https://fedlex.data.admin.ch/eli/cc/2015/326)
+[^5a-1]: Nouvelle teneur selon le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
 
 ## Chapitre 2 Tâches de la navigation aérienne****
 
@@ -264,11 +255,13 @@ Skyguide finance ses tâches notamment au moyen:
 - a. des redevances qu’elle perçoit (art. 49 LA);
 - b. des indemnisations prévues par les conventions internationales;
 - c. des indemnisations de la Confédération pour les pertes de recettes à l’étranger (art. 12);
+- c<sup>bis</sup>.[^9-2] des contributions de la Confédération aux prestations liées à l’intégration des aéronefs civils sans occupants dans l’espace aérien (art. 12*a*);
 - d. des indemnisations de la Confédération pour les vols exonérés de redevances (art. 34);
 - e. des indemnisations de la Confédération pour les vols militaires (art. 37);
 - f. des recettes provenant d’autres prestations.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2011, en vigueur depuis le 1<sup>er</sup> août 2011 ([RO 2011 3503](https://fedlex.data.admin.ch/eli/oc/2011/473)).
+[^9-2]: Introduite par le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
 
 ### Section 2**** Délégation de la fourniture de services locaux de navigation aérienne
 
@@ -358,7 +351,7 @@ En application de l’art. 1, par. 5, du règlement d’exécution (UE) n<sup>o<
 
 <sup>1</sup> La Confédération peut, dans le cadre des crédits accordés, prendre en charge les pertes de recettes annuelles subies par Skyguide sur la fourniture de services de navigation aérienne à l’étranger. Afin d’établir le budget, Skyguide communique à l’OFAC l’estimation des pertes prévisionnelles de recettes.
 
-<sup>2</sup> Une entreprise de révision soumise à la surveillance de l’État au sens de l’art. 7 de la loi du 16 décembre 2005 sur la surveillance de la révision[^12-1] et l’OFAC vérifient le montant effectif des pertes de recettes à la fin de chaque exercice comptable. Les coûts de la vérification sont supportés par Skyguide.
+<sup>2</sup> Une entreprise de révision soumise à la surveillance de l’État au sens de l’art. 7 de la loi du 16 décembre 2005 sur la surveillance de la révision (LSR)[^12-1] et l’OFAC vérifient le montant effectif des pertes de recettes à la fin de chaque exercice comptable. Les coûts de la vérification sont supportés par Skyguide.[^12-2]
 
 <sup>3</sup> Lorsque, pour l’année concernée, la vérification démontre que les indemnisations versées par la Confédération ont été plus élevées que les pertes de recettes effectives, la différence est imputée à Skyguide l’année suivante.
 
@@ -367,6 +360,26 @@ En application de l’art. 1, par. 5, du règlement d’exécution (UE) n<sup>o<
 <sup>5</sup> L’OFAC passe un accord d’indemnisation annuel avec Skyguide. Cette dernière règle en particulier les contributions de la Confédération pour l’année considérée et les modalités de paiement.
 
 [^12-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^12-2]: Nouvelle teneur selon le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
+
+#### Art. 12a
+
+**Prise en charge par la Confédération des coûts encourus par Skyguide liés à l’intégration des aéronefs civils sans occupants dans l’espace aérien**[^12a-1]
+
+<sup>1</sup> La Confédération peut, dans le cadre des crédits approuvés, prendre à sa charge les coûts annuels encourus par Skyguide liés à l’intégration des aéronefs civils sans occupants dans l’espace aérien. Aux fins de l’établissement du budget, Skyguide communique à l’OFAC l’estimation des coûts prévisionnels de ces prestations.
+
+<sup>2</sup> Une entreprise de révision soumise à la surveillance de l’État au sens de l’art. 7 LSR[^12a-2] et l’OFAC vérifient le montant effectif des coûts à la fin de chaque exercice comptable. Les coûts de la vérification sont supportés par Skyguide.
+
+<sup>3</sup> Lorsque, pour l’année considérée, la vérification montre que les indemnisations versées par la Confédération ont été plus élevées que les coûts effectifs, la différence est imputée à Skyguide l’année suivante.
+
+<sup>4</sup> Skyguide communique sur demande à l’OFAC toutes les informations nécessaires pour vérifier le montant dû.
+
+<sup>5</sup> L’OFAC passe un accord d’indemnisation annuel avec Skyguide. Cet accord règle en particulier l’étendue des prestations attendues pour l’année considérée, les contributions de la Confédération et les modalités de paiement.
+
+<sup>6</sup> L’OFAC réexamine au bout de trois ans si la Confédération doit continuer à prendre ces coûts à sa charge et, si oui, dans quelle proportion.
+
+[^12a-1]: Introduit par le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
+[^12a-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 #### Art. 13
 
@@ -907,7 +920,7 @@ Annexe 1*[^t-2]*
 
 ## Tâches de la navigation aérienne incombant à Skyguide
 
-[^t-2]: Anciennement annexe unique. Introduite par le ch. II de l’O du 24 janv. 2001 ([RO 2001 514](https://fedlex.data.admin.ch/eli/oc/2001/104)). Nouvelle teneur selon le ch. II de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
+[^t-2]: Anciennement annexe unique. Introduite par le ch. II de l’O du 24 janv. 2001 ([RO 2001 514](https://fedlex.data.admin.ch/eli/oc/2001/104)). Nouvelle teneur selon le ch. II de l’O du 17 oct. 2018 ([RO 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)). Mise à jour par le ch. II de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
 
 Les tâches de la navigation aérienne incombant à Skyguide comprennent:
 
@@ -925,10 +938,13 @@ Les tâches de la navigation aérienne incombant à Skyguide comprennent:
     - – gestion des routes ATS,
     - – coordination des demandes spéciales d’espace aérien dans les espaces aériens de classe C et D,
     - – coordination des vols qui requièrent une autorisation des services de la circulation aérienne aux termes de l’ordonnance du DETEC du 24 novembre 1994 sur les aéronefs de catégories spéciales[^annex1-lvlu1-1],
-    - – coordination des tirs de l’armée et de la sécurité de navigation aérienne (Coordination des tirs et de la sécurité de navigation aérienne [COTSENA]).
+    - – coordination des tirs de l’armée et de la sécurité de navigation aérienne (Coordination des tirs et de la sécurité de navigation aérienne [COTSENA]);
+
+  - 1\.1.3 fourniture des données dynamiques relatives à l’espace aérien destinées à l’intégration des aéronefs sans occupants dans l’espace aérien.
 
 - 1\.2 Gestion des courants et de la capacité de trafic aérien.
-- 1\.3 Réception et gestion des plans de vol et rapports sur les services de circulation aérienne incluant les services en tant que bureau de piste des services de la circulation aérienne (ATS Reporting Office; ARO);
+- 1\.3 Réception et gestion des plans de vol et rapports sur les services de circulation aérienne incluant les services en tant que bureau de piste des services de la circulation aérienne (ATS Reporting Office; ARO).
+- 1\.4 Coordination avec les prestataires de services destinés à l’intégration des aéronefs sans occupants dans l’espace aérien.
 - *2.* *Service du contrôle de la circulation aérienne*
 - 2\.1
 
@@ -960,7 +976,7 @@ Les tâches de la navigation aérienne incombant à Skyguide comprennent:
 
   - 3\.1.1 pour tous les vols au moyen d’aéronefs certifiés pour les communications radiotéléphoniques avec le service de la navigation aérienne;
   - 3\.1.2 dans l’espace aérien compris jusqu’à la hauteur au-dessus du sol à laquelle on s’attend à ce que les aéronefs soient en vol en route compte tenu des particularités géographiques;
-  - 3\.1.3 dans le cadre des services du contrôle de la circulation aérienne visés au ch. 2;.
+  - 3\.1.3 dans le cadre des services du contrôle de la circulation aérienne visés au ch. 2.
 
 - 3\.2 AFIS pour les aérodromes de catégorie II dans le cadre des prestations convenues aux termes de l’art. 2, al. 6, pour autant qu’aucun service de contrôle d’aérodrome ne soit fourni.
 - *4.* *Service d’alerte*
@@ -987,7 +1003,8 @@ Les tâches de la navigation aérienne incombant à Skyguide comprennent:
   Service de surveillance:
 
   - 5\.3.1 fourniture des services de surveillance nécessaires pour les services du contrôle de la circulation aérienne visés au ch. 2 ci-dessus;
-  - 5\.3.2 sur mandat des aérodromes, fourniture de services de surveillance spécifiques.
+  - 5\.3.2 sur mandat des aérodromes, fourniture de services de surveillance spécifiques;
+  - 5\.3.3 fourniture des données de surveillance destinées à l’intégration des aéronefs sans occupants dans l’espace aérien.
 
 - *6.* *Services d’information aéronautique, en particulier*
 - 6\.1 tenue, archivage et établissement de l’historique des données et informations aéronautiques de Suisse et des métadonnées afférentes;
@@ -1016,7 +1033,8 @@ Les tâches de la navigation aérienne incombant à Skyguide comprennent:
   - 6\.6.2 mise à jour, préparation, transmission et publication des données aéronautiques et de l’information aéronautique,
   - 6\.6.3 mise à jour, préparation, transmission et publication des jeux de données existants définis conformément aux chapitres 10 et 11 de l’annexe 15 de la Convention de Chicago et des jeux de données destinés à la publication des cartes aéronautiques ou d’autres produits d’information aéronautique;
 
-- 6\.7 tenue de la bibliothèque nationale des manuels de l’aviation étrangers.
+- 6\.7 tenue de la bibliothèque nationale des manuels de l’aviation étrangers;
+- 6\.8 tenue, fourniture, publication et communication des données et informations aéronautiques destinées à l’intégration des aéronefs sans occupants dans l’espace aérien.
 - *7.* *Services spéciaux de sauvegarde de la souveraineté sur l’espace aérien conformément au mandat des Forces aériennes ou de l’OFAC, en particulier*
 - 7\.1
 
@@ -1059,7 +1077,7 @@ Les aérodromes suivants sont attribués à la catégorie II visée à l’art. 
 - a. l’aérodrome régional de Berne-Belp;
 - b. l’aérodrome de Buochs;
 - c. l’aérodrome régional de Granges;
-- d. l’aérodrome régional de La Chaux-de-Fonds-Les Eplatures;
+- d. l’aérodrome régional de La Chaux-de-Fonds-Les Éplatures;
 - e. l’aérodrome régional de Lugano-Agno;
 - f. l’aérodrome régional de Samedan;
 - g. l’aérodrome régional de Sion;
