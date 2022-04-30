@@ -4,11 +4,11 @@ title: "Ordonnance du 15 août 2018 sur l'entrée et l'octroi de visas (OEV)"
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: fr
-version: 2022-01-15
+version: 2022-05-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220115/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220115-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220115/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220501-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220115/fr"
 
 (OEV)
 
-du 15 août 2018 (Etat le 15 janvier 2022)
+du 15 août 2018 (Etat le 1<sup>er</sup> mai 2022)
 
 Le Conseil fédéral suisse,
 
@@ -103,9 +103,11 @@ On entend par:
   - 1\. *uniforme:* valable pour passer par la zone internationale de transit des aéroports de tous les États Schengen,
   - 2\. *à validité territoriale limitée:* valable uniquement pour passer par la zone internationale de transit des aéroports d’un ou plusieurs États Schengen;
 
-- f. *visa de long séjour (visa national, type D):* un document sous forme de vignette établi par un État Schengen attestant que son titulaire remplit les conditions pour un long séjour.
+- f. *visa de long séjour (visa national, type D):* un document sous forme de vignette établi par un État Schengen attestant que son titulaire remplit les conditions pour un long séjour;
+- g.[^2-2] r*essortissant d’un État tiers:* un citoyen d’un État qui n’est membre ni de l’Union européenne (UE) ni de l’Association européenne de libre-échange (AELE).
 
 [^2-1]: Les accords d’association à Schengen sont mentionnés à l’annexe 1.
+[^2-2]: Introduite par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 
 ## Section 2 Dispositions régissant l’entrée en Suisse et le transit aéroportuaire
 
@@ -176,7 +178,14 @@ Pour un transit aéroportuaire, l’étranger doit remplir les conditions suivan
 
 Le document de voyage doit remplir les conditions suivantes:
 
-- a. sa durée de validité est supérieure d’au moins trois mois à la date à laquelle son titulaire a prévu de quitter l’espace Schengen;
+- a.[^6-1]
+
+  sa durée de validité:
+
+  - 1\. est supérieure d’au moins trois mois à la date à laquelle son titulaire a prévu de quitter l’espace Schengen, en cas de court séjour,
+  - 2\. est supérieure d’au moins trois mois à la date du transit ou du dernier transit autorisé, en cas de transit aéroportuaire,
+  - 3\. est supérieure d’au moins trois mois à la date à laquelle son titulaire a reçu l’autorisation d’entrer en Suisse, en cas de long séjour;
+
 - b. il a été délivré depuis moins de dix ans;
 - c. il contient au moins deux feuillets vierges au moment du dépôt de la demande de visa lorsque son titulaire est soumis à l’obligation du visa.
 
@@ -184,8 +193,8 @@ Le document de voyage doit remplir les conditions suivantes:
 
 Les autorités compétentes peuvent déroger:
 
-- a. à la condition de l’al. 2, let. a, en cas d’urgence dûment justifiée lorsque l’entrée a lieu pour un court séjour;
-- b. aux conditions de l’al. 2, dans des cas justifiés, lorsque l’entrée a lieu pour un long séjour.
+- a. aux conditions de l’al. 2, let. a, ch. 1 et 2, en cas d’urgence dûment justifiée;
+- b. aux conditions de l’al. 2, let. a, ch. 3, b et c, dans des cas justifiés.[^6-2]
 
 <sup>4</sup>
 
@@ -194,11 +203,13 @@ Un document de voyage est reconnu par le SEM s’il remplit les conditions suiva
 - a. il fait état de l’identité du titulaire et de son appartenance à l’État ou à la collectivité territoriale qui l’a délivré;
 - b. il a été établi par un État, une collectivité territoriale ou une organisation internationale reconnus par la Suisse;
 - c. l’État ou la collectivité territoriale qui l’a délivré garantit en tout temps le retour de ses ressortissants;
-- d. le document présente les éléments de sécurité requis conformément aux critères internationaux; sont notamment applicables les normes figurant à l’annexe 9 de la Convention du 7 décembre 1944 relative à l’aviation internationale[^6-1].
+- d. le document présente les éléments de sécurité requis conformément aux critères internationaux; sont notamment applicables les normes figurant à l’annexe 9 de la Convention du 7 décembre 1944 relative à l’aviation internationale[^6-3].
 
 <sup>5</sup> Le SEM peut, dans des cas dûment justifiés, reconnaître des documents de voyage en dérogation à l’al. 4. Il peut notamment le faire lorsqu’un État a délivré un document de voyage à une personne séjournant légalement dans cet État sans pour autant en être ressortissante.
 
-[^6-1]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^6-3]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
 #### Art. 7
 
@@ -222,9 +233,10 @@ Sont libérées de l’obligation de visa de court séjour, en dérogation à l�
 - d. les titulaires d’un laissez-passer des Nations Unies valable;
 - e. les écoliers en provenance d’un État non-membre de l’Union européenne (UE) ou de l’Association européenne de libre-échange (AELE) qui sont domiciliés dans un État membre de l’UE ou de l’AELE, pour autant que leurs noms figurent sur la liste des écoliers délivrée ou authentifiée par les autorités compétentes de l’État concerné, conformément à la décision 94/795/JAI[^8-4];
 - f.[^8-5] les titulaires d’un titre de voyage pour réfugiés valable délivré par un État membre de l’UE ou de l’AELE ou par le Royaume-Uni conformément à l’accord du 15 octobre 1946 concernant la délivrance d’un titre de voyage à des réfugiés[^8-6] relevant de la compétence du Comité intergouvernemental pour les réfugiés ou à la Convention du 28 juillet 1951 relative au statut des réfugiés[^8-7], pour autant qu’ils séjournent dans cet État;
-- g.[^8-8] les titulaires d’un titre de voyage pour apatrides valable délivré par un État membre de l’UE ou de l’AELE ou par le Royaume-Uni, pour autant qu’ils séjournent dans cet État, conformément à la Convention du 28 septembre 1954 relative au statut des apatrides[^8-9].
+- g.[^8-8] les titulaires d’un titre de voyage pour apatrides valable délivré par un État membre de l’UE ou de l’AELE ou par le Royaume-Uni, pour autant qu’ils séjournent dans cet État, conformément à la Convention du 28 septembre 1954 relative au statut des apatrides[^8-9];
+- h.[^8-10] les membres de forces armées qui voyagent dans le cadre de l’Organisation du Traité de l’Atlantique Nord (OTAN) ou du Partenariat pour la paix et qui sont titulaires de documents d’identité et d’ordres d’engagement prévus par le Statut des forces de l’OTAN du 19 juin 1951[^8-11].
 
-<sup>3</sup> Les ressortissants des États et des autres entités territoriales énumérés à l’annexe II du règlement (UE) 2018/1806 ne sont pas soumis à l’obligation de visa de court séjour.[^8-10]
+<sup>3</sup> Les ressortissants des États et des autres entités territoriales énumérés à l’annexe II du règlement (UE) 2018/1806 ne sont pas soumis à l’obligation de visa de court séjour.[^8-12]
 
 <sup>4</sup>
 
@@ -234,7 +246,7 @@ En dérogation à l’al. 3, les séjours en vue de l’exercice d’une activit
 - b. les ressortissants des États et collectivités territoriales mentionnés à l’annexe 3 sont soumis à l’obligation de visa de court séjour dans la mesure où ils exercent une activité lucrative durant plus de huit jours par année civile; les ressortissants de ces États et collectivités territoriales sont néanmoins soumis à l’obligation de visa de court séjour dès le premier jour où ils exercent une activité s’ils travaillent dans la construction, le génie civil, le second œuvre, l’hôtellerie, la restauration, le nettoyage industriel ou domestique, la surveillance, la sécurité, le commerce itinérant, l’industrie du sexe ou l’aménagement ou l’entretien paysager;
 - c. les citoyens britanniques qui ne sont pas ressortissants du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord (ressortissants britanniques [outre-mer], citoyens des territoires britanniques d’outre-mer, citoyens britanniques d’outre-mer, sujets britanniques et personnes britanniques protégées) sont soumis à l’obligation de visa de court séjour dans la mesure où ils exercent une activité lucrative durant plus de huit jours par année civile; ces personnes sont néanmoins soumises à cette obligation dès le premier jour où elles exercent une activité si elles travaillent dans la construction, le génie civil, le second œuvre, l’hôtellerie, la restauration, le nettoyage industriel ou domestique, la surveillance, la sécurité, le commerce itinérant, l’industrie du sexe ou l’aménagement ou l’entretien paysager.
 
-<sup>5</sup> Le Département fédéral de justice et police (DFJP) adapte l’annexe 3 dès que la Suisse est informée de la conclusion d’un accord sur la levée de l’obligation de visa entre l’UE et l’un des États ou l’une des entités territoriales énumérés à l’annexe II du règlement (UE) 2018/1806.[^8-11]
+<sup>5</sup> Le Département fédéral de justice et police (DFJP) adapte l’annexe 3 dès que la Suisse est informée de la conclusion d’un accord sur la levée de l’obligation de visa entre l’UE et l’un des États ou l’une des entités territoriales énumérés à l’annexe II du règlement (UE) 2018/1806.[^8-13]
 
 [^8-1]: Règlement (UE) 2018/1806 du Parlement européen et du Conseil du 14 novembre 2018 fixant la liste des pays tiers dont les ressortissants sont soumis à l’obligation de visa pour franchir les frontières extérieures des États membres et la liste de ceux dont les ressortissants sont exemptés de cette obligation, JO L 303 du 28.11.2018, p. 39; modifié en dernier lieu par le règlement (UE) 2019/592, JO L 1031 du 12.4.2019, p 1.
 [^8-2]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
@@ -245,18 +257,21 @@ En dérogation à l’al. 3, les séjours en vue de l’exercice d’une activit
 [^8-7]: [RS 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
 [^8-8]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
 [^8-9]: [RS 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
-[^8-10]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
-[^8-11]: Nouvelle teneur selon le ch. I de l’O du 16 janv. 2019, en vigueur depuis le 15 fév. 2019 ([RO 2019 431](https://fedlex.data.admin.ch/eli/oc/2019/75)).
+[^8-10]: Introduite par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^8-11]: [RS 0.510.1](https://fedlex.data.admin.ch/eli/cc/2003/428)**,** annexe
+[^8-12]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
+[^8-13]: Nouvelle teneur selon le ch. I de l’O du 16 janv. 2019, en vigueur depuis le 15 fév. 2019 ([RO 2019 431](https://fedlex.data.admin.ch/eli/oc/2019/75)).
 
 #### Art. 9
 
 **Obligation de visa pour un long séjour**
 
-<sup>1</sup> Pour un long séjour en Suisse, les ressortissants d’un État qui n’est membre ni de l’UE ni de l’AELE sont soumis à l’obligation de visa de long séjour.
+<sup>1</sup> Pour un long séjour en Suisse, les ressortissants d’États tiers ont besoin d’un visa de long séjour délivré par la Suisse. Les titulaires d’un visa de long séjour ou d’une autorisation de séjour valable délivrés par un autre État Schengen sont exemptés de cette obligation.[^9-1]
 
-<sup>2</sup> Sont libérés de l’obligation de visa de long séjour, en dérogation à l’al. 1, les ressortissants des États suivants: Andorre, Australie, Brunei Darussalam, Cité du Vatican, Japon, Malaisie, Monaco, Nouvelle-Zélande, Royaume-Uni, Saint-Marin et Singapour.[^9-1]
+<sup>2</sup> Sont libérés de l’obligation de visa de long séjour, en dérogation à l’al. 1, les ressortissants des États suivants: Andorre, Australie, Brunei Darussalam, Cité du Vatican, Japon, Malaisie, Monaco, Nouvelle-Zélande, Royaume-Uni, Saint-Marin et Singapour.[^9-2]
 
-[^9-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 602](https://fedlex.data.admin.ch/eli/oc/2021/602)).
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 602](https://fedlex.data.admin.ch/eli/oc/2021/602)).
 
 #### Art. 10
 
@@ -538,14 +553,26 @@ L’entrée en Suisse et la sortie de Suisse sont régies par le code frontière
 
 **Frontières extérieures Schengen**
 
-<sup>1</sup> Le SEM fixe, après entente avec l’Office fédéral de la douane et de la sécurité des frontières[^29-1], les autorités fédérales et cantonales habilitées à effectuer les vérifications sur les personnes et l’Office fédéral de l’aviation civile, les frontières extérieures Schengen en Suisse.
+<sup>1</sup> Le SEM fixe, après entente avec l’Office fédéral de la douane et de la sécurité des frontières (OFDF), les autorités fédérales et cantonales habilitées à effectuer le contrôle des personnes et l’Office fédéral de l’aviation civile, les frontières extérieures Schengen en Suisse.[^29-1]
 
 <sup>2</sup> Les contrôles d’identité aux frontières extérieures Schengen à l’entrée en Suisse et à la sortie de Suisse par les voies terrestre et aérienne sont régis par l’art. 8 et l’annexe VI, ch. 1 et 2, du code frontières Schengen[^29-2].
 
 <sup>3</sup> L’entrée par un aérodrome qui n’est pas désigné comme frontière extérieure Schengen nécessite l’obtention préalable d’une autorisation octroyée par l’autorité habilitée à effectuer les vérifications sur les personnes à l’aérodrome concerné.
 
-[^29-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 [^29-2]: Cf. note de bas de page relative à l’art. 3, al. 1.
+
+#### Art. 29a
+
+**Frontières intérieures de l’espace Schengen**[^29a-1]
+
+<sup>1</sup> Lors de contrôles aux frontières intérieures de l’espace Schengen en Suisse, le respect des exigences douanières peut être vérifié conformément à la loi du 18 mars 2005 sur les douanes[^29a-2] et aux dispositions d’exécution correspondantes. Au surplus, les contrôles sont exécutés exclusivement conformément à l’art. 23 du code frontières Schengen[^29a-3].
+
+<sup>2</sup> Le SEM édicte des directives pour délimiter les contrôles visés à l’al. 1 des contrôles aux frontières extérieures de l’espace Schengen.
+
+[^29a-1]: Introduit par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^29a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^29a-3]: Cf. note de bas de page relative à l’art. 3, al. 1.
 
 #### Art. 30
 
@@ -555,9 +582,10 @@ L’entrée en Suisse et la sortie de Suisse sont régies par le code frontière
 
 <sup>2</sup> En cas d’urgence, le DFJP ordonne les mesures immédiates nécessaires en vue de réintroduire les contrôles aux frontières. Il en informe aussitôt le Conseil fédéral.
 
-<sup>3</sup> Les contrôles aux frontières intérieures sont exécutés par le Corps des gardes-frontière (Cgfr) en accord avec les cantons frontaliers.
+<sup>3</sup> Les contrôles aux frontières intérieures sont exécutés par les collaborateurs de l’OFDF chargés des contrôles aux frontières, en accord avec les cantons frontaliers.[^30-2]
 
 [^30-1]: Cf. note de bas de page relative à l’art. 3, al. 1.
+[^30-2]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 
 #### Art. 31
 
@@ -565,14 +593,16 @@ L’entrée en Suisse et la sortie de Suisse sont régies par le code frontière
 
 <sup>1</sup> Le DFJP réglemente l’exécution des contrôles des personnes aux frontières extérieures et intérieures.
 
-<sup>2</sup> Les cantons et le Cgfr effectuent le contrôle des personnes aux frontières. Le Cgfr mène cette activité soit dans le cadre de ses tâches ordinaires, soit en application des accords conclus entre le Département fédéral des finances et les cantons (art. 9, al. 2, LEI et art. 97 de la loi du 18 mars 2005 sur les douanes[^31-1]).
+<sup>2</sup> Les collaborateurs de l’OFDF et des cantons chargés des contrôles aux frontières effectuent le contrôle des personnes aux frontières. Les collaborateurs de l’OFDF exercent cette activité soit dans le cadre de leurs tâches ordinaires, soit en application des accords conclus entre le Département fédéral des finances et les cantons (art. 9, al. 2, LEI et art. 97 de la loi du 18 mars 2005 sur les douanes[^31-1]).[^31-2]
 
-<sup>3</sup> ...[^31-2]
+<sup>3</sup> ...[^31-3]
 
-<sup>4</sup> Les cantons peuvent habiliter le Cgfr à rendre et à notifier la décision de renvoi visée à l’art. 64, al. 1, let. a et b, LEI.
+<sup>4</sup> Les cantons peuvent habiliter les collaborateurs de l’OFDF chargés des contrôles aux frontières à rendre et à notifier la décision de renvoi visée à l’art. 64, al. 1, let. a et b, LEI.[^31-4]
 
 [^31-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^31-2]: Abrogé par le ch. I de l’O du 1<sup>er</sup> mai 2019, avec effet au 1<sup>er</sup> juin 2019 ([RO 2019 1435](https://fedlex.data.admin.ch/eli/oc/2019/280)).
+[^31-2]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^31-3]: Abrogé par le ch. I de l’O du 1<sup>er</sup> mai 2019, avec effet au 1<sup>er</sup> juin 2019 ([RO 2019 1435](https://fedlex.data.admin.ch/eli/oc/2019/280)).
+[^31-4]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 
 ## Section 6 Devoir de diligence et de prise en charge incombant aux entreprises de transport aérien
 
@@ -594,7 +624,7 @@ Les mesures prévues à l’al. 1 visent à assurer l’exécution des opératio
 - a. contrôler avant le départ si les documents de voyage, visas et titres de séjour requis lors de l’entrée dans l’espace Schengen ou du transit aéroportuaire sont valides et reconnus;
 - b. identifier les documents de voyage, visas et titres de séjour dont la contrefaçon ou la falsification peut être reconnue par une personne jouissant d’une formation adéquate et d’une acuité visuelle moyenne;
 - c. identifier un document de voyage, visa ou titre de séjour n’appartenant manifestement pas à la personne transportée;
-- d. établir le nombre de jours du séjour ou d’entrées autorisé sur la base des cachets apposés sur le document de voyage.
+- d.[^32-1] …
 
 <sup>3</sup>
 
@@ -604,6 +634,8 @@ Le SEM peut exiger de l’entreprise de transport aérien des mesures supplémen
 - b. lorsque le nombre de personnes qui ne disposent pas d’un document de voyage, d’un visa ou d’un titre de séjour requis lors de l’entrée dans l’espace Schengen ou du transit aéroportuaire croît fortement.
 
 <sup>4</sup> Par mesure supplémentaire, on entend notamment la production de copies de documents de voyage, de visas ou de titres de séjour avant le départ.
+
+[^32-1]: Abrogée par le ch. I de l’O du 10 nov. 2021, avec effet au 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 
 #### Art. 33
 
@@ -965,150 +997,22 @@ Dans le cadre de la procédure d’octroi des visas, la coopération consulaire 
 
 Les autorités fédérales et cantonales compétentes pour l’exécution des dispositions en matière d’entrée coopèrent étroitement.
 
-## Section 9 Contrôle automatisé aux frontières extérieures Schengen à l’aéroport
+## Section 9**** Contrôle automatisé à la frontière dans les aéroports
+
+[^sec9-1]
+
+[^sec9-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 
 #### Art. 45
 
-**Contrôle automatisé à la frontière**
+Peuvent prendre part au contrôle automatisé à la frontière, pour autant qu’ils remplissent les conditions de l’art. 103*g*, al. 2, LEI:
 
-<sup>1</sup> Afin de faciliter le contrôle des personnes aux frontières extérieures Schengen à l’aéroport, les autorités responsables du contrôle à la frontière peuvent procéder à un contrôle automatisé à la frontière.
+- a. les ressortissants des États membres de l’UE ou de l’AELE;
+- b. les ressortissants d’États tiers.
 
-<sup>2</sup>
+#### Art. 46 à 53
 
-En cas de contrôle automatisé à la frontière:
-
-- a. les données biométriques des participants enregistrées dans le passeport biométrique ou sur une carte de participant sont comparées aux caractéristiques biométriques du voyageur lors de l’entrée en Suisse et de la sortie de Suisse;
-- b. les données personnelles des participants sont contrôlées au moyen du système de recherches informatisées de police (RIPOL) visé à l’art. 1 de l’ordonnance RIPOL du 26 octobre 2016[^45-1] et du SIS, conformément à l’ordonnance N-SIS du 8 mars 2013[^45-2].
-
-<sup>3</sup> Si la personne concernée fait l’objet d’un signalement dans le RIPOL ou le SIS, l’entrée ou la sortie par le point de contrôle automatique n’est pas autorisée. Tout signalement dans le RIPOL ou dans le SIS doit être communiqué à l’autorité responsable du contrôle à la frontière au moyen des mesures techniques adéquates.
-
-[^45-1]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^45-2]: [RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
-
-#### Art. 46
-
-**Participation au contrôle automatisé à la frontière**
-
-<sup>1</sup>
-
-Peuvent seules prendre part au contrôle automatisé à la frontière les personnes qui:
-
-- a. ont la nationalité suisse ou peuvent se prévaloir des dispositions de l’accord sur la libre circulation des personnes[^46-1];
-- b. sont majeures;
-- c. possèdent un passeport valable qui n’est signalé ni dans le RIPOL ni dans le SIS, et
-- d. ne font l’objet ni d’un signalement dans le RIPOL ou le SIS ni d’une mesure d’éloignement ou d’une expulsion au sens des art. 66*a* ou 66*a*<sup>bis</sup> du code pénal[^46-2] ou 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927[^46-3].
-
-<sup>2</sup> La participation au contrôle automatisé à la frontière requiert un enregistrement préalable dans le système d’information visé à l’art. 48, sauf pour les titulaires d’un passeport biométrique.
-
-<sup>3</sup> Les autorités compétentes en matière de contrôle frontière communiquent les modalités de participation aux personnes désireuses de prendre part au contrôle automatisé à la frontière.
-
-[^46-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^46-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^46-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-
-#### Art. 47
-
-**Carte de participant**
-
-<sup>1</sup> Les personnes enregistrées dans le système d’information visé à l’art. 48 reçoivent une carte de participant au contrôle automatisé à la frontière.
-
-<sup>2</sup>
-
-Afin d’établir la carte de participant au contrôle automatisé à la frontière, les autorités compétentes en matière de contrôle peuvent relever les données biométriques suivantes:
-
-- a. les empreintes digitales;
-- b. les images faciales.
-
-<sup>3</sup> Une fois que les données sont enregistrées sur la carte, aucune donnée biométrique n’est conservée.
-
-<sup>4</sup> Le contenu de la puce doit être sécurisé par des mesures appropriées.
-
-#### Art. 48
-
-**Système d’information**
-
-<sup>1</sup> L’autorité responsable du contrôle à la frontière gère un système d’information destiné à traiter les données relatives aux personnes enregistrées en vue du contrôle automatisé à la frontière.
-
-<sup>2</sup>
-
-Les données suivantes peuvent être traitées dans le système d’information:
-
-- a. le nom;
-- b. le nom d’alliance;
-- c. le prénom;
-- d. le sexe;
-- e. la date et le lieu de naissance;
-- f. la nationalité;
-- g. l’état civil;
-- h. l’adresse;
-- i. le type, le numéro et la date d’expiration du passeport;
-- j. la date de l’enregistrement et la date de la saisie;
-- k. l’habilitation à prendre part au contrôle automatisé à la frontière.
-
-<sup>3</sup> Le système d’information comprend également un journal dans lequel sont consignés les résultats de l’examen des conditions de participation effectué au moment de l’enregistrement.
-
-<sup>4</sup> Les personnes qui se font enregistrer en vue de participer au contrôle automatisé à la frontière doivent donner leur accord écrit pour que leurs données personnelles soient traitées. Avant l’enregistrement, elles doivent être informées du maître du fichier du système d’information, de la finalité du traitement des données et des différentes catégories de destinataires de ces données.
-
-#### Art. 49
-
-**Communication de données**
-
-<sup>1</sup> Les données saisies dans le système d’information qui concernent une personne faisant l’objet d’un signalement ou dont le passeport est signalé dans le RIPOL ou le SIS peuvent être communiquées à l’autorité qui a diffusé le signalement.
-
-<sup>2</sup> L’autorité responsable du contrôle à la frontière peut informer l’exploitant de l’aéroport ou un tiers mandaté par lui quelles sont les personnes enregistrées dans le système d’information de l’art. 48.
-
-#### Art. 50
-
-**Responsabilité et effacement des données**
-
-<sup>1</sup> Les autorités responsables du contrôle à la frontière sont responsables du système d’information et du traitement des données personnelles.
-
-<sup>2</sup>
-
-Les données d’une personne saisies dans le système d’information sont effacées sur-le-champ:
-
-- a. lorsque l’intéressé renonce à poursuivre sa participation au contrôle automatisé à la frontière;
-- b. lorsqu’il apparaît que les conditions de participation énoncées à l’art. 46, al. 1, ne sont plus remplies.
-
-<sup>3</sup> Les données inexactes doivent être rectifiées d’office.
-
-#### Art. 51
-
-**Droits des personnes concernées**
-
-<sup>1</sup> Si le système d’information est géré par une autorité cantonale, les droits des personnes concernées, notamment celui d’obtenir des renseignements, de faire rectifier des données ou de les faire effacer, sont régis par la loi cantonale sur la protection des données applicable à l’aéroport.
-
-<sup>2</sup> Si les dispositions cantonales de protection des données n’assurent pas un niveau de protection adéquat, la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^51-1] est applicable.
-
-<sup>3</sup> Si une personne concernée veut faire valoir des droits, elle doit justifier de son identité et présenter une demande écrite à l’autorité responsable du contrôle à la frontière.
-
-[^51-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-
-#### Art. 52
-
-**Sécurité des données**
-
-<sup>1</sup> Si le système d’information est géré par une autorité cantonale, la sécurité des données est régie par la loi cantonale sur la protection des données applicable à l’aéroport.
-
-<sup>2</sup> Si les dispositions cantonales de protection des données n’assurent pas un niveau de protection adéquat, la sécurité des données est régie par l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^52-1] et l’ordonnance du 27 mai 2020 sur les cyberrisques[^52-2].[^52-3]
-
-<sup>3</sup> Les autorités compétentes prennent, dans leurs domaines respectifs, les mesures organisationnelles et techniques propres à assurer la sécurité des données personnelles.
-
-[^52-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^52-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^52-3]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-
-#### Art. 53
-
-**Statistique et analyse**
-
-<sup>1</sup> Si le système d’information est géré par une autorité cantonale, le traitement des données contenues dans le système d’information est régi par la loi cantonale sur la protection des données applicable à l’aéroport.
-
-<sup>2</sup> Si les dispositions cantonales de protection des données n’assurent pas un niveau de protection adéquat, la LPD[^53-1] est applicable.
-
-<sup>3</sup> Les données doivent être traitées de manière à exclure toute identification de la personne concernée.
-
-[^53-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+Abrogés
 
 ## Section 10 Surveillance de l’arrivée à l’aéroport
 

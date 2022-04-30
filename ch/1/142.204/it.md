@@ -4,11 +4,11 @@ title: "Ordinanza del 15 agosto 2018 concernente l'entrata e il rilascio del vis
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: it
-version: 2022-01-15
+version: 2022-05-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220115/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220115-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220501/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220501-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220115/it"
 
 (OEV)
 
-del 15 agosto 2018 (Stato 15 gennaio 2022) (Stato 15 gennaio 2022)
+del 15 agosto 2018 (Stato 1° maggio 2022) (Stato 1° maggio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -103,9 +103,11 @@ Ai sensi della presente ordinanza s’intende per:
   - 1\. *uniforme:* valido per il transito nelle zone di transito internazionali degli aeroporti di tutti gli Stati Schengen,
   - 2\. *con validità territoriale limitata:* valido unicamente per il transito nelle zone di transito internazionali degli aeroporti di uno o più Stati Schengen;
 
-- f. *visto per soggiorni di lunga durata (visto nazionale, tipo D):* documento sotto forma di vignetta rilasciato da uno Stato Schengen che attesti che il suo titolare soddisfa le condizioni per un soggiorno di lunga durata.
+- f. *visto per soggiorni di lunga durata (visto nazionale, tipo D):* documento sotto forma di vignetta rilasciato da uno Stato Schengen che attesti che il suo titolare soddisfa le condizioni per un soggiorno di lunga durata;
+- g.[^2-2] *cittadino di un Paese terzo*: cittadino di uno Stato che non è membro né dell’Unione europea (UE) né dell’Associazione europea di libero scambio (AELS).
 
 [^2-1]: Gli Acc. di associazione a Schengen sono menzionati nell’all. 1.
+[^2-2]: Introdotta dal n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 
 ## Sezione 2: Disposizioni concernenti l’entrata e il transito aeroportuale
 
@@ -176,7 +178,14 @@ Per un transito aeroportuale, gli stranieri devono soddisfare le seguenti condiz
 
 Il documento di viaggio deve soddisfare i requisiti seguenti:
 
-- a. la sua validità è di almeno tre mesi oltre la data prevista per la partenza dal territorio degli Stati membri;
+- a.[^6-1]
+
+  la sua validità supera:
+
+  - 1\. di almeno tre mesi la data in cui il titolare intende lasciare lo spazio Schengen, in caso di soggiorno di breve durata,
+  - 2\. di almeno tre mesi la data del transito o dell’ultimo transito consentito, in caso di transito aeroportuale,
+  - 3\. di almeno tre mesi la data in cui è stata rilasciata al titolare l’autorizzazione di entrare in Svizzera, in caso di soggiorno di lunga durata;
+
 - b. è stato rilasciato nel corso dei dieci anni precedenti.
 - c. al momento del deposito della domanda di visto, ove il titolare soggiaccia all’obbligo del visto, contiene almeno due pagine in bianco.
 
@@ -184,8 +193,8 @@ Il documento di viaggio deve soddisfare i requisiti seguenti:
 
 Le autorità competenti possono derogare:
 
-- a. al requisito di cui al capoverso 2 lettera a, in casi di emergenza motivati ove lo straniero entri per un soggiorno di breve durata;
-- b. ai requisiti di cui al capoverso 2, in casi di emergenza motivati ove lo straniero entri per un soggiorno di lunga durata.
+- a. ai requisiti di cui al capoverso 2 lettera a numeri 1 e 2, in casi di emergenza motivati;
+- b. ai requisiti di cui al capoverso 2 lettera a numero 3 e lettere b e c, in casi motivati.[^6-2]
 
 <sup>4</sup>
 
@@ -194,11 +203,13 @@ Un documento di viaggio è riconosciuto dalla SEM se soddisfa i requisiti seguen
 - a. attesta l’identità del titolare e la sua appartenenza allo Stato o all’entità o autorità territoriale che l’ha rilasciato;
 - b. è stato rilasciato da uno Stato riconosciuto dalla Svizzera, da un’entità o autorità territoriale o da un’organizzazione internazionale riconosciuta dalla Svizzera;
 - c. lo Stato oppure l’entità o autorità territoriale che l’ha rilasciato garantisce in qualsiasi momento il ritorno dei suoi cittadini;
-- d. reca gli elementi di sicurezza richiesti conformemente alle specifiche internazionali; è in particolare applicabile l’allegato 9 della Convenzione del 7 dicembre 1944[^6-1] relativa all’aviazione civile internazionale.
+- d. reca gli elementi di sicurezza richiesti conformemente alle specifiche internazionali; è in particolare applicabile l’allegato 9 della Convenzione del 7 dicembre 1944[^6-3] relativa all’aviazione civile internazionale.
 
 <sup>5</sup> In casi motivati la SEM può riconoscere documenti di viaggio che non soddisfano i requisiti di cui al capoverso 4. Tale è il caso in particolare dei documenti di viaggio rilasciati a persone che non possiedono la cittadinanza dello Stato di rilascio, ma che hanno diritto di soggiornare legalmente sul suo territorio.
 
-[^6-1]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^6-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^6-2]: Nuovo testo giusta il n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^6-3]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
 #### Art. 7
 
@@ -222,9 +233,10 @@ In deroga al capoverso 1, sono esentate dall’obbligo del visto per soggiorni d
 - d. i titolari di un lasciapassare delle Nazioni Unite valido;
 - e. gli scolari di uno Stato non membro dell’Unione europea (UE) o dell’Associazione europea di libero scambio (AELS) domiciliati in uno Stato membro dell’UE o dell’AELS, purché i loro nomi figurino sull’elenco degli scolari rilasciato o autenticato dall’autorità competente dello Stato interessato conformemente alla decisione 94/795/GAI[^8-4];
 - f.[^8-5] i titolari di un documento di viaggio per rifugiati valido rilasciato da uno Stato membro dell’UE o dell’AELS o dal Regno Unito conformemente all’Accordo del 15 ottobre 1946[^8-6] concernente il rilascio di un titolo di viaggio ai rifugiati che sono sottoposti alla competenza del Comitato intergovernamentale per i rifugiati o conformemente alla Convenzione del 28 luglio 1951[^8-7] sullo statuto dei rifugiati, purché soggiornino in detto Stato;
-- g.[^8-8] i titolari di un documento di viaggio per apolidi valido rilasciato da uno Stato membro dell’UE o dell’AELS o dal Regno Unito conformemente alla Convenzione del 28 settembre 1954[^8-9] relativa allo status degli apolidi, purché soggiornino in detto Stato.
+- g.[^8-8] i titolari di un documento di viaggio per apolidi valido rilasciato da uno Stato membro dell’UE o dell’AELS o dal Regno Unito conformemente alla Convenzione del 28 settembre 1954[^8-9] relativa allo status degli apolidi, purché soggiornino in detto Stato;
+- h.[^8-10] i membri delle forze armate che viaggiano nell’ambito dell’Organizzazione del Trattato dell’Atlantico del Nord (NATO) o del Partenariato per la libertà e sono titolari di documenti d’identità e di missione previsti dallo Statuto delle truppe della NATO del 19 giugno 1951[^8-11].
 
-<sup>3</sup> I cittadini di uno degli Stati o una delle entità o autorità territoriali di cui all’allegato II del regolamento (UE) 2018/1806 non sono soggetti all’obbligo del visto per soggiorni di breve durata.[^8-10]
+<sup>3</sup> I cittadini di uno degli Stati o una delle entità o autorità territoriali di cui all’allegato II del regolamento (UE) 2018/1806 non sono soggetti all’obbligo del visto per soggiorni di breve durata.[^8-12]
 
 <sup>4</sup>
 
@@ -234,7 +246,7 @@ In deroga al capoverso 3, ai soggiorni con attività lucrativa si applicano le r
 - b. i cittadini degli Stati e delle entità o autorità territoriali elencati nell’allegato 3 sono soggetti all’obbligo del visto per soggiorni di breve durata se svolgono un’attività lucrativa di oltre otto giorni per anno civile; se svolgono un’attività nell’edilizia, ivi compresi il genio civile o i rami edilizi accessori, nel settore alberghiero o nella ristorazione, nei lavori di pulizia in aziende o a domicilio, nei servizi di sorveglianza e di sicurezza, nel commercio ambulante, nel settore a luci rosse oppure nel giardinaggio o nella paesaggistica, queste persone sono soggette all’obbligo del visto sin dal primo giorno di esercizio dell’attività;
 - c. i cittadini britannici che non siano cittadini del Regno Unito di Gran Bretagna e Irlanda del Nord (*British Overseas Territories Citizens, British Overseas Citizens, British Subjects e British Protected Persons*) sono soggetti all’obbligo del visto per soggiorni di breve durata se svolgono un’attività lucrativa di oltre otto giorni per anno civile. Se svolgono un’attività nell’edilizia, ivi compresi il genio civile o i rami edilizi accessori, nel settore alberghiero o nella ristorazione, nei lavori di pulizia in aziende o a domicilio, nei servizi di sorveglianza e di sicurezza, nel commercio ambulante, nel settore a luci rosse oppure nel giardinaggio o nella paesaggistica, sono soggetti all’obbligo del visto sin dal primo giorno di esercizio dell’attività.
 
-<sup>5</sup> Il Dipartimento federale di giustizia e polizia (DFGP) adegua l’allegato 3 non appena la Svizzera è informata in merito alla conclusione di un accordo in materia di esenzione dall’obbligo del visto tra l’UE e uno degli Stati o una delle entità o autorità territoriali di cui all’allegato II del regolamento (UE) 2018/1806.[^8-11]
+<sup>5</sup> Il Dipartimento federale di giustizia e polizia (DFGP) adegua l’allegato 3 non appena la Svizzera è informata in merito alla conclusione di un accordo in materia di esenzione dall’obbligo del visto tra l’UE e uno degli Stati o una delle entità o autorità territoriali di cui all’allegato II del regolamento (UE) 2018/1806.[^8-13]
 
 [^8-1]: Regolamento (UE) 2018/1806 del Parlamento europeo e del Consiglio, del 14 novembre 2018, che adotta l’elenco dei paesi terzi i cui cittadini devono essere in possesso del visto all’atto dell’attraversamento delle frontiere esterne e l’elenco dei paesi terzi i cui cittadini sono esenti da tale obbligo, GU L 303 del 28.11.2018, pag. 39; modificato da ultimo da il regolamento (UE) 2019/592, GU L 103l del 12.4.2019, pag. 1.
 [^8-2]: Nuovo testo giusta il n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
@@ -245,18 +257,21 @@ In deroga al capoverso 3, ai soggiorni con attività lucrativa si applicano le r
 [^8-7]: [RS 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
 [^8-8]: Nuovo testo giusta il n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
 [^8-9]: [RS 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
-[^8-10]: Nuovo testo giusta il n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
-[^8-11]: Nuovo testo giusta il n. I dell’O del 16 gen. 2019, in vigore dal 15 feb. 2019 ([RU 2019 431](https://fedlex.data.admin.ch/eli/oc/2019/75)).
+[^8-10]: Introdotta dal n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^8-11]: [RS 0.510.1](https://fedlex.data.admin.ch/eli/cc/2003/428), allegato
+[^8-12]: Nuovo testo giusta il n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
+[^8-13]: Nuovo testo giusta il n. I dell’O del 16 gen. 2019, in vigore dal 15 feb. 2019 ([RU 2019 431](https://fedlex.data.admin.ch/eli/oc/2019/75)).
 
 #### Art. 9
 
 **Obbligo del visto per soggiorni di lunga durata**
 
-<sup>1</sup> Per un soggiorno di lunga durata in Svizzera i cittadini di uno Stato non membro dell’UE o dell’AELS sono soggetti all’obbligo del visto pertinente.
+<sup>1</sup> Per un soggiorno di lunga durata in Svizzera i cittadini di Paesi terzi sono soggetti all’obbligo di un visto rilasciato dalla Svizzera. Sono esentati dal tale obbligo i titolari di un visto per soggiorni di lunga durata o di un titolo di soggiorno valido rilasciato da uno Stato Schengen.[^9-1]
 
-<sup>2</sup> In deroga al capoverso 1, i cittadini dei seguenti Stati sono esentati dall’obbligo del visto per soggiorni di lunga durata: Andorra, Australia, Brunei Darussalam, Città del Vaticano, Giappone, Malaysia, Monaco, Nuova Zelanda, Regno Unito, San Marino e Singapore.[^9-1]
+<sup>2</sup> In deroga al capoverso 1, i cittadini dei seguenti Stati sono esentati dall’obbligo del visto per soggiorni di lunga durata: Andorra, Australia, Brunei Darussalam, Città del Vaticano, Giappone, Malaysia, Monaco, Nuova Zelanda, Regno Unito, San Marino e Singapore.[^9-2]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 1° ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 602](https://fedlex.data.admin.ch/eli/oc/2021/602)).
+[^9-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^9-2]: Nuovo testo giusta il n. I dell’O del 1° ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 602](https://fedlex.data.admin.ch/eli/oc/2021/602)).
 
 #### Art. 10
 
@@ -538,14 +553,26 @@ Le entrate e le partenze sono rette dal codice frontiere Schengen[^28-1]. Sono f
 
 **Frontiere esterne Schengen**
 
-<sup>1</sup> La SEM stabilisce le frontiere esterne Schengen della Svizzera d’intesa con l’Ufficio federale della dogana e della sicurezza dei confini[^29-1], le autorità federali e cantonali competenti per i controlli delle persone e l’Ufficio federale dell’aviazione civile.
+<sup>1</sup> La SEM stabilisce le frontiere esterne Schengen della Svizzera d’intesa con l’Ufficio federale della dogana e della sicurezza dei confini (UDSC), le autorità federali e cantonali competenti per i controlli delle persone e l’Ufficio federale dell’aviazione civile.[^29-1]
 
 <sup>2</sup> I controlli delle persone alle frontiere esterne Schengen al momento dell’entrata e della partenza per via terrestre e aerea sono rette dall’articolo 8 e dall’allegato VI numeri 1 e 2 del codice frontiere Schengen[^29-2].
 
 <sup>3</sup> L’entrata attraverso aeroporti che non sono designati come frontiere esterne Schengen richiede la previa autorizzazione delle autorità competenti per i controlli delle persone nell’area d’atterraggio.
 
-[^29-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^29-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 [^29-2]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 1.
+
+#### Art. 29a
+
+**Frontiere interne Schengen**[^29a-1]
+
+<sup>1</sup> In caso di controlli alle frontiere interne Schengen della Svizzera, può essere verificato il rispetto delle prescrizioni della legge del 18 marzo 2005[^29a-2] sulle dogane e delle pertinenti disposizioni d’esecuzione. Per il rimanente, i controlli sono autorizzati esclusivamente secondo l’articolo 23 del codice frontiere Schengen[^29a-3].
+
+<sup>2</sup> La SEM emana istruzioni per delimitare i controlli di cui al capoverso 1 dai controlli alle frontiere esterne Schengen.
+
+[^29a-1]: Introdotto dal n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^29a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^29a-3]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 1.
 
 #### Art. 30
 
@@ -555,9 +582,10 @@ Le entrate e le partenze sono rette dal codice frontiere Schengen[^28-1]. Sono f
 
 <sup>2</sup> In casi urgenti il DFGP ordina le misure immediate necessarie per reintrodurre i controlli alle frontiere. Ne informa senza indugio il Consiglio federale.
 
-<sup>3</sup> Il Corpo delle guardie di confine (Cgcf) procede ai controlli alle frontiere interne d’intesa con i Cantoni di confine.
+<sup>3</sup> I collaboratori dell’UDSC responsabili dei controlli alle frontiere procedono ai controlli alle frontiere interne d’intesa con i Cantoni di confine.[^30-2]
 
 [^30-1]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 1.
+[^30-2]: Nuovo testo giusta il n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 
 #### Art. 31
 
@@ -565,14 +593,16 @@ Le entrate e le partenze sono rette dal codice frontiere Schengen[^28-1]. Sono f
 
 <sup>1</sup> Il DFGP disciplina l’esecuzione dei controlli delle persone alle frontiere interne ed esterne.
 
-<sup>2</sup> I Cantoni e il Cgcf svolgono il controllo delle persone alla frontiera. Il Cgcf esercita tale attività nel quadro delle sue mansioni ordinarie o in virtù di un accordo tra il Dipartimento federale delle finanze e i Cantoni (art. 9 cpv. 2 LStrI e art. 97 della L del 18 mar. 2005[^31-1] sulle dogane).
+<sup>2</sup> I collaboratori dei Cantoni e quelli dell’UDSC responsabili dei controlli alle frontiere svolgono il controllo delle persone alla frontiera. I collaboratori dell’UDSC esercitano tale attività nel quadro dei loro compiti sovrani e in virtù di un accordo tra il Dipartimento federale delle finanze e i Cantoni (art. 9 cpv. 2 LStrI e art. 97 della L del 18 marzo 2005[^31-1] sulle dogane).[^31-2]
 
-<sup>3</sup> ...[^31-2]
+<sup>3</sup> ...[^31-3]
 
-<sup>4</sup> I Cantoni possono abilitare il Cgcf a emanare e notificare la decisione di allontanamento di cui all’articolo 64 capoverso 1 lettere a e b LStrI.
+<sup>4</sup> I Cantoni possono abilitare i collaboratori dell’UDSC responsabili dei controlli alle frontiere a emanare e notificare la decisione di allontanamento di cui all’articolo 64 capoverso 1 lettere a e b LStrI.[^31-4]
 
 [^31-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^31-2]: Abrogato dal n. I dell’O del 1° mag. 2019, con effetto dal 1° giu. 2019 ([RU 2019 1435](https://fedlex.data.admin.ch/eli/oc/2019/280)).
+[^31-2]: Nuovo testo giusta il n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^31-3]: Abrogato dal n. I dell’O del 1° mag. 2019, con effetto dal 1° giu. 2019 ([RU 2019 1435](https://fedlex.data.admin.ch/eli/oc/2019/280)).
+[^31-4]: Nuovo testo giusta il n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 
 ## Sezione 6: Obbligo di diligenza e di assistenza delle imprese di trasporto aereo
 
@@ -594,7 +624,7 @@ I provvedimenti di cui al capoverso 1 mirano a garantire l’esecuzione delle op
 - a. controllare prima della partenza se i documenti di viaggio, i visti e i titoli di soggiorno necessari per l’entrata nello spazio Schengen o il transito aeroportuale sono validi e riconosciuti;
 - b. identificare i documenti di viaggio, i visti e i titoli di soggiorno la cui contraffazione o falsificazione può essere riconosciuta da una persona che ha ricevuto una formazione adeguata e dotata di una facoltà visiva media;
 - c. identificare un documento di viaggio, visto o titolo di soggiorno manifestamente non appartenente al passeggero;
-- d. determinare i giorni di soggiorno o gli ingressi autorizzati in base al timbro sul documento di viaggio.
+- d.[^32-1] ...
 
 <sup>3</sup>
 
@@ -604,6 +634,8 @@ La SEM può esigere dall’impresa di trasporto aereo ulteriori provvedimenti se
 - b. è in forte aumento il numero delle persone sprovviste dei documenti di viaggio, dei visti o dei titoli di soggiorno necessari per l’entrata nello spazio Schengen o il transito aeroportuale.
 
 <sup>4</sup> Per ulteriore provvedimento si intende in particolare la produzione di copie di documenti di viaggio, di visti o di titoli di soggiorno prima della partenza.
+
+[^32-1]: Abrogata dal n. I dell’O del 10 nov. 2022, con effetto dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 
 #### Art. 33
 
@@ -637,23 +669,23 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 - e. le informazioni da fornire ai cittadini di paesi terzi i cui dati sono registrati nell’EES (art. 50 par. 4);
 - f. le specifiche e le condizioni per il sito web che contiene informazioni sull’EES (art. 50 par. 5);
 - g. le specifiche della soluzione tecnica per la compilazione di statistiche (art. 72 par. 8);
-- h.[^34-6] norme dettagliate sulla gestione della funzionalità per la gestione centralizzata dell’elenco delle autorità con accesso all’EES (art. 9 par. 2 regolamento [UE] 2017/2226).[^34-7]
+- h.[^34-6] norme dettagliate sulla gestione della funzionalità per la gestione centralizzata dell’elenco delle autorità con accesso all’EES (art. 9 par. 2 regolamento [UE] 2017/2226).[^34-7][^34-8]
 
-<sup>2</sup> Ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea riguardanti le procedure di rendicontazione in merito al sostegno operativo nell’ambito dei programmi nazionali degli Stati Schengen e erogati in virtù degli articoli 10 paragrafo 6 e 11 paragrafo 6 del regolamento (UE) n. 515/2014[^34-8], sempreché questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA.
+<sup>2</sup> Ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea riguardanti le procedure di rendicontazione in merito al sostegno operativo nell’ambito dei programmi nazionali degli Stati Schengen e erogati in virtù degli articoli 10 paragrafo 6 e 11 paragrafo 6 del regolamento (UE) n. 515/2014[^34-9], sempreché questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA.
 
-<sup>2bis</sup> Ha la competenza di concludere trattati internazionali in vista del recepimento di atti delegati della Commissione europea riguardanti la definizione di un programma per lo sviluppo di sistemi informatici a sostegno della gestione dei flussi migratori attraverso le frontiere esterne ed erogati in virtù degli articoli 5 paragrafo 5 lettera b, 15 e 17 del regolamento (UE) n. 515/2014, sempreché questi trattati siano di portata limitata ai sensi dell’articolo 7*a* LOGA.[^34-9]
+<sup>2bis</sup> Ha la competenza di concludere trattati internazionali in vista del recepimento di atti delegati della Commissione europea riguardanti la definizione di un programma per lo sviluppo di sistemi informatici a sostegno della gestione dei flussi migratori attraverso le frontiere esterne ed erogati in virtù degli articoli 5 paragrafo 5 lettera b, 15 e 17 del regolamento (UE) n. 515/2014, sempreché questi trattati siano di portata limitata ai sensi dell’articolo 7*a* LOGA.[^34-10]
 
 <sup>3</sup>
 
-Ha la competenza di concludere trattati internazionali in vista del recepimento di atti delegati e di esecuzione della Commissione europea relativi al regolamento (UE) n. 514/2014[^34-10], sempreché questi trattati siano di portata limitata ai sensi dell’articolo 7*a* LOGA, e riguardino:[^34-11]
+Ha la competenza di concludere trattati internazionali in vista del recepimento di atti delegati e di esecuzione della Commissione europea relativi al regolamento (UE) n. 514/2014[^34-11], sempreché questi trattati siano di portata limitata ai sensi dell’articolo 7*a* LOGA, e riguardino:[^34-12]
 
 - a. la comunicazione di irregolarità finanziarie e siano emanati in virtù dell’articolo 5 paragrafo 6 del regolamento (UE) n. 514/2014;
 - b. il programma di lavoro e l’assistenza emergenziale e siano emanati in virtù dell’articolo 6 paragrafo 2 del regolamento (UE) n. 514/2014;
 - c. il modello conformemente al quale sono redatti i programmi nazionali e siano emanati in virtù dell’articolo 14 paragrafo 4 del regolamento (UE) n. 514/2014;
 - d. le condizioni e le modalità del sistema di scambio elettronico dei dati e siano emanati i virtù dell’articolo 24 paragrafo 5 del regolamento (UE) n. 514/2014;
-- d<sup>bis</sup>.[^34-12] le condizioni minime per la designazione delle autorità responsabili con riguardo all’ambiente interno, alle attività di controllo, informazione e comunicazione, e al monitoraggio, oltre alle norme sulla procedura per procedere e porre fine alla designazione, e siano stati erogati in virtù dell’articolo 26 paragrafo 4 lettera a del regolamento (UE) n. 514/2014;
-- d<sup>ter</sup>.[^34-13] le norme relative alla vigilanza delle autorità responsabili e la procedura per il riesame della loro designazione e siano stati erogati in virtù dell’articolo 26 paragrafo 4 lettera b del regolamento (UE) n. 514/2014;
-- d<sup>quater</sup>.[^34-14] gli obblighi delle autorità responsabili in materia di intervento pubblico e di contenuto delle loro responsabilità di gestione e di controllo e siano stati erogati in virtù dell’articolo 26 paragrafo 4 lettera c del regolamento (UE) n. 514/2014;
+- d<sup>bis</sup>.[^34-13] le condizioni minime per la designazione delle autorità responsabili con riguardo all’ambiente interno, alle attività di controllo, informazione e comunicazione, e al monitoraggio, oltre alle norme sulla procedura per procedere e porre fine alla designazione, e siano stati erogati in virtù dell’articolo 26 paragrafo 4 lettera a del regolamento (UE) n. 514/2014;
+- d<sup>ter</sup>.[^34-14] le norme relative alla vigilanza delle autorità responsabili e la procedura per il riesame della loro designazione e siano stati erogati in virtù dell’articolo 26 paragrafo 4 lettera b del regolamento (UE) n. 514/2014;
+- d<sup>quater</sup>.[^34-15] gli obblighi delle autorità responsabili in materia di intervento pubblico e di contenuto delle loro responsabilità di gestione e di controllo e siano stati erogati in virtù dell’articolo 26 paragrafo 4 lettera c del regolamento (UE) n. 514/2014;
 - e. le procedure e le prescrizioni necessarie in vista di unificare i controlli svolti dalle autorità competenti e siano emanati in virtù dell’articolo 27 paragrafo 5 del regolamento (UE) n. 514/2014;
 - f. i modelli da utilizzare per presentare la richiesta di pagamento del saldo annuale e siano emanati in virtù dell’articolo 44 paragrafo 3 del regolamento (UE) n. 514/2014;
 - g. le modalità della procedura di liquidazione annuale dei conti e siano emanati in virtù dell’articolo 45 paragrafo 2 del regolamento (UE) n. 514/2014;
@@ -668,13 +700,14 @@ Ha la competenza di concludere trattati internazionali in vista del recepimento 
 [^34-5]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^34-6]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^34-7]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^34-8]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. b.
-[^34-9]: Introdotto dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-10]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. a.
-[^34-11]: Nuovo testo gisuta il n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-12]: Introdotta dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-8]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^34-9]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. b.
+[^34-10]: Introdotto dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-11]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. a.
+[^34-12]: Nuovo testo gisuta il n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
 [^34-13]: Introdotta dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
 [^34-14]: Introdotta dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-15]: Introdotta dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
 
 #### Art. 34a
 
@@ -965,150 +998,22 @@ La collaborazione fra le rappresentanze all’estero degli Stati Schengen nella 
 
 Le autorità federali e cantonali preposte all’esecuzione delle disposizioni sull’entrata lavorano in stretto contatto tra di loro.
 
-## Sezione 9: Controllo automatizzato alle frontiere esterne Schengen negli aeroporti
+## Sezione 9: Controllo di frontiera automatizzato negli aeroporti
+
+[^sec9-1]
+
+[^sec9-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 
 #### Art. 45
 
-**Controllo di frontiera automatizzato**
+Possono partecipare al controllo di frontiera automatizzato, se soddisfano le condizioni di cui all’articolo 103*g* capoverso 2 LStrI:
 
-<sup>1</sup> Per semplificare il controllo delle persone alle frontiere esterne Schengen negli aeroporti, le autorità competenti per il controllo alla frontiera possono applicare una procedura automatizzata per il controllo alla frontiera.
+- a. i cittadini di Stati dell’UE o dell’AELS;
+- b. i cittadini di Paesi terzi.
 
-<sup>2</sup>
+#### Art. 46–53
 
-In caso di controllo di frontiera automatizzato:
-
-- a. i dati biometrici dei partecipanti registrati nel passaporto biometrico o su una carta per partecipanti sono confrontati con le caratteristiche biometriche dell’interessato al momento dell’entrata in Svizzera e della partenza dalla Svizzera;
-- b. i dati personali dei partecipanti sono controllati mediante il sistema informatizzato di ricerca (RIPOL) di cui all’articolo 1 dell’ordinanza RIPOL del 26 ottobre 2016[^45-1] nonché mediante il SIS conformemente all’ordinanza N‑SIS dell’8 marzo 2013[^45-2].
-
-<sup>3</sup> Se la persona interessata è iscritta nel RIPOL o nel SIS, l’entrata o la partenza nel punto di controllo automatizzato non è autorizzata. Le iscrizioni nel RIPOL o nel SIS devono essere notificate alle autorità competenti per il controllo alla frontiera tramite misure tecniche adeguate.
-
-[^45-1]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^45-2]: [RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
-
-#### Art. 46
-
-**Partecipazione al controllo di frontiera automatizzato**
-
-<sup>1</sup>
-
-Possono partecipare al controllo di frontiera automatizzato esclusivamente le persone che:
-
-- a. possiedono la cittadinanza svizzera o che possono appellarsi all’Accordo sulla libera circolazione delle persone[^46-1];
-- b. sono maggiorenni;
-- c. possiedono un passaporto valido che non è iscritto né nel RIPOL né nel SIS; e
-- d. non sono segnalate né nel RIPOL né nel SIS e non sono oggetto di una misura di respingimento né di un’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> del Codice penale[^46-2] oppure dell’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^46-3].
-
-<sup>2</sup> La partecipazione al controllo di frontiera automatizzato richiede una previa registrazione nel sistema d’informazione di cui all’articolo 48; i titolari di un passaporto biometrico sono esentati da detto obbligo.
-
-<sup>3</sup> Le autorità competenti per il controllo alla frontiera comunicano le modalità di partecipazione alle persone desiderose di prendere parte al controllo di frontiera automatizzato.
-
-[^46-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^46-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^46-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-
-#### Art. 47
-
-**Carta per partecipanti**
-
-<sup>1</sup> Le persone registrate nel sistema d’informazione di cui all’articolo 48 ricevono una carta per partecipanti al controllo di frontiera automatizzato.
-
-<sup>2</sup>
-
-Ai fini del rilascio della carta per partecipanti, le autorità competenti per il controllo alla frontiera possono rilevare i dati biometrici seguenti:
-
-- a. impronte digitali;
-- b. immagini facciali.
-
-<sup>3</sup> Nessun dato biometrico è conservato una volta che i dati sono stati registrati sulla carta.
-
-<sup>4</sup> Il contenuto del microchip dev’essere reso sicuro con misure appropriate.
-
-#### Art. 48
-
-**Sistema d’informazione**
-
-<sup>1</sup> Le autorità competenti per il controllo alla frontiera gestiscono un sistema d’informazione per l’elaborazione dei dati personali registrati in vista del controllo di frontiera automatizzato.
-
-<sup>2</sup>
-
-I dati seguenti possono essere trattati nel sistema d’informazione:
-
-- a. cognome;
-- b. cognome d’affinità;
-- c. nome;
-- d. sesso;
-- e. data e luogo di nascita;
-- f. cittadinanza;
-- g. stato civile;
-- h. indirizzo;
-- i. tipo, numero e data di scadenza del passaporto;
-- j. data di registrazione;
-- k. abilitazione a partecipare al controllo di frontiera automatizzato.
-
-<sup>3</sup> Il sistema d’informazione comprende anche un verbale con i risultati dell’esame delle condizioni di partecipazione effettuato al momento della registrazione.
-
-<sup>4</sup> Le persone che si fanno registrare per partecipare al controllo di frontiera automatizzato devono dare il loro accordo scritto affinché i loro dati personali possano essere trattati. Prima della registrazione devono essere informate in merito al detentore del sistema d’informazione, alla finalità del trattamento dei dati e alle diverse categorie di destinatari di tali dati.
-
-#### Art. 49
-
-**Comunicazione di dati**
-
-<sup>1</sup> I dati registrati nel sistema d’informazione riguardanti una persona iscritta o il cui passaporto è iscritto nel RIPOL o nel SIS possono essere comunicati all’autorità che ha fatto la segnalazione.
-
-<sup>2</sup> Le autorità competenti per il controllo alla frontiera possono informare la società aeroportuale o un terzo da essa incaricato sulle persone registrate nel sistema d’informazione in virtù dell’articolo 48.
-
-#### Art. 50
-
-**Responsabilità e cancellazione dei dati**
-
-<sup>1</sup> Le autorità competenti per il controllo alla frontiera sono responsabili del sistema d’informazione e del trattamento dei dati personali.
-
-<sup>2</sup>
-
-I dati personali registrati nel sistema sono cancellati immediatamente se:
-
-- a. l’interessato ritira la propria partecipazione al controllo di frontiera automatizzato;
-- b. risulta a posteriori che le condizioni di partecipazione di cui all’articolo 46 capoverso 1 non sono più adempiute.
-
-<sup>3</sup> I dati inesatti devono essere rettificati d’ufficio.
-
-#### Art. 51
-
-**Diritti degli interessati**
-
-<sup>1</sup> Se il sistema d’informazione è gestito da un’autorità cantonale, i diritti degli interessati, segnatamente quelli d’accesso, di rettifica e di cancellazione, sono retti dalla legge cantonale sulla protezione dei dati applicabile all’aeroporto.
-
-<sup>2</sup> Se le disposizioni cantonali di protezione dei dati non garantiscono un livello di protezione adeguato, è applicabile la legge federale del 19 giugno 1992[^51-1] sulla protezione dei dati (LPD).
-
-<sup>3</sup> Una persona interessata che intenda far valere i propri diritti deve comprovare la propria identità e presentare istanza scritta alle autorità competenti per il controllo alla frontiera.
-
-[^51-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-
-#### Art. 52
-
-**Sicurezza dei dati**
-
-<sup>1</sup> Se il sistema d’informazione è gestito da un’autorità cantonale, la sicurezza dei dati è retta dalla legge cantonale sulla protezione dei dati applicabile all’aeroporto.
-
-<sup>2</sup> Se le disposizioni cantonali di protezione dei dati non garantiscono un livello di protezione adeguato, la sicurezza dei dati è retta dall’ordinanza del 14 giugno 1993[^52-1] relativa alla legge federale sulla protezione dei dati e dall’ordinanza del 27 maggio 2020[^52-2] sui ciber-rischi.[^52-3]
-
-<sup>3</sup> Le autorità competenti adottano, nei loro rispettivi ambiti, le misure organizzative e tecniche atte a salvaguardare la sicurezza dei dati personali.
-
-[^52-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^52-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^52-3]: Nuovo testo giusta l’all. n. 2 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-
-#### Art. 53
-
-**Statistica e analisi**
-
-<sup>1</sup> Se il sistema d’informazione è gestito da un’autorità cantonale, il trattamento dei dati contenuti nel sistema d’informazione è retto dalla legge cantonale sulla protezione dei dati applicabile all’aeroporto.
-
-<sup>2</sup> Se le disposizioni cantonali di protezione dei dati non garantiscono un livello di protezione adeguato, è applicabile la LPD[^53-1].
-
-<sup>3</sup> I dati devono essere trattati in modo da impedire l’identificazione dell’interessato.
-
-[^53-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+*Abrogati*
 
 ## Sezione 10: Sorveglianza dell’arrivo all’aeroporto
 
@@ -1280,7 +1185,7 @@ D’intesa con le autorità svizzere di controllo alla frontiera, può concluder
 
 ...[^69-2]
 
-[^69-1]: [[RU 2008 5441](https://fedlex.data.admin.ch/eli/oc/2008/758)[6273](https://fedlex.data.admin.ch/eli/oc/2008/856)n. III, [2009 5097](https://fedlex.data.admin.ch/eli/oc/2009/594)[6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 6, [2010 1205](https://fedlex.data.admin.ch/eli/oc/2010/168)[5763](https://fedlex.data.admin.ch/eli/oc/2010/815)[5767](https://fedlex.data.admin.ch/eli/oc/2010/816), [2011 3317](https://fedlex.data.admin.ch/eli/oc/2011/446), [2012 3817](https://fedlex.data.admin.ch/eli/oc/2012/444)[4891](https://fedlex.data.admin.ch/eli/oc/2012/582), [2013 2733](https://fedlex.data.admin.ch/eli/oc/2013/565), [2014 1393](https://fedlex.data.admin.ch/eli/oc/2014/296), [2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)n. I 2 [1867](https://fedlex.data.admin.ch/eli/oc/2015/359)[3035](https://fedlex.data.admin.ch/eli/oc/2015/571)[3723](https://fedlex.data.admin.ch/eli/oc/2015/624)[4237](https://fedlex.data.admin.ch/eli/oc/2015/709)n. III, [2016 1283](https://fedlex.data.admin.ch/eli/oc/2016/256)[3721](https://fedlex.data.admin.ch/eli/oc/2016/627), [2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)n. I 2 [1683](https://fedlex.data.admin.ch/eli/oc/2017/177)[2549](https://fedlex.data.admin.ch/eli/oc/2017/239)[3273](https://fedlex.data.admin.ch/eli/oc/2017/339)]
+[^69-1]: [[RU 2008 5441](https://fedlex.data.admin.ch/eli/oc/2008/758), [6273](https://fedlex.data.admin.ch/eli/oc/2008/856)n. III; [2009 5097](https://fedlex.data.admin.ch/eli/oc/2009/594), [6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 6; [2010 1205](https://fedlex.data.admin.ch/eli/oc/2010/168), [5763](https://fedlex.data.admin.ch/eli/oc/2010/815), [5767](https://fedlex.data.admin.ch/eli/oc/2010/816); [2011 3317](https://fedlex.data.admin.ch/eli/oc/2011/446); [2012 3817](https://fedlex.data.admin.ch/eli/oc/2012/444), [4891](https://fedlex.data.admin.ch/eli/oc/2012/582); [2013 2733](https://fedlex.data.admin.ch/eli/oc/2013/565); [2014 1393](https://fedlex.data.admin.ch/eli/oc/2014/296); [2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)n. I 2, [1867](https://fedlex.data.admin.ch/eli/oc/2015/359), [3035](https://fedlex.data.admin.ch/eli/oc/2015/571), [3723](https://fedlex.data.admin.ch/eli/oc/2015/624), [4237](https://fedlex.data.admin.ch/eli/oc/2015/709)n. III; [2016 1283](https://fedlex.data.admin.ch/eli/oc/2016/256), [3721](https://fedlex.data.admin.ch/eli/oc/2016/627); [2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)n. I 2, [1683](https://fedlex.data.admin.ch/eli/oc/2017/177), [2549](https://fedlex.data.admin.ch/eli/oc/2017/239), [3273](https://fedlex.data.admin.ch/eli/oc/2017/339)]
 [^69-2]: Le mod. possono essere consultate alla [RU 2018 3087](https://fedlex.data.admin.ch/eli/oc/2018/493).
 
 #### Art. 70
