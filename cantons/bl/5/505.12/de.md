@@ -4,13 +4,12 @@ number: "505.12"
 title: Verordnung über Massnahmen für Publikumsanlässe im Zusammenhang mit Covid-19
 short: Schutzschirmverordnung BL
 language: de
-version: 2021-07-01
-valid_until: 2022-04-30
-version_adopted: 2021-06-29
+version: 2022-05-01
+version_adopted: 2022-03-22
 adopted: 2021-06-29
 in_force: 2021-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/505.12"
-pdf: "https://bl.clex.ch/api/de/versions/3062/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3289/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3062/pdf_file"
 
 (Schutzschirmverordnung BL)
 
-Vom 29.06.2021 (Stand 01.07.2021)
+Vom 29.06.2021 (Stand 01.05.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -53,7 +52,7 @@ beschliesst:
 
 **Anforderungen an die Veranstaltungen**
 
-<sup>1</sup> In Abweichung zur Covid-19-Verordnung Publikumsanlässe werden Veranstaltungen von überkantonaler Bedeutung unterstützt, deren Durchführungen zwischen dem 20. August 2021 und dem 30. April 2022 im Kanton Basel-Landschaft geplant sind.
+<sup>1</sup> In Abweichung zur Covid-19-Verordnung Publikumsanlässe werden Veranstaltungen von überkantonaler Bedeutung unterstützt, deren Durchführungen zwischen dem 20. August 2021 und dem 31. Dezember 2022 im Kanton Basel-Landschaft geplant sind.
 
 <sup>2</sup> Die Veranstaltungen müssen:
 
@@ -119,7 +118,7 @@ beschliesst:
 
 **Frist zur Gesuchseinreichung**
 
-<sup>1</sup> Gesuche um Zusicherung der Beteiligung an den ungedeckten Kosten können bis spätestens 28. Februar 2022 eingereicht werden. Verspätet eingereichte Gesuche werden ohne weitere Begründung abgelehnt.
+<sup>1</sup> Gesuche um Zusicherung der Beteiligung an den ungedeckten Kosten können bis spätestens am 31. Oktober 2022 eingereicht werden. Verspätet eingereichte Gesuche werden ohne weitere Begründung abgelehnt.
 
 #### § 9
 
