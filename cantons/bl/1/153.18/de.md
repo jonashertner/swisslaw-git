@@ -3,20 +3,20 @@ canton: BL
 number: "153.18"
 title: Verordnung über die Vergütung von Mandaten an unselbständig Erwerbende
 language: de
-version: 2021-01-01
-valid_until: 2022-04-30
-version_adopted: 2020-11-10
+version: 2022-05-01
+valid_until: 2023-12-31
+version_adopted: 2022-04-26
 adopted: 2013-03-12
 in_force: 2013-06-01
 url: "https://bl.clex.ch/app/de/texts_of_law/153.18"
-pdf: "https://bl.clex.ch/api/de/versions/2763/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3313/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Vergütung von Mandaten an unselbständig Erwerbende
 
-Vom 12.03.2013 (Stand 01.01.2021)
+Vom 12.03.2013 (Stand 01.05.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -257,7 +257,7 @@ beschliesst:
 
 **Betreuung von Lehrkräften an den Schulen**
 
-<sup>1</sup> Die Betreuung von Lehrkräften durch Fachpersonen oder Mentoratspersonen wird mit CHF 50.– pro Stunde vergütet.
+<sup>1</sup> Die Betreuung von Lehrkräften durch Fachpersonen oder Mentoratspersonen wird mit CHF 52.50 pro Stunde vergütet.
 
 <sup>2</sup> Im Bereich der Volksschule sind die Kosten durch das Amt für Volksschulen, im Bereich der weiterführenden Schulen durch die Schulen zu budgetieren.
 
@@ -267,15 +267,15 @@ beschliesst:
 
 #### § 28
 
-**Kursleitungen für die Fachstelle Erwachsenenbildung**
+**Kursleitungen Weiterbildung Schulbereich des Amts für Volksschulen**
 
-<sup>1</sup> Die Vergütung pro Unterrichtslektion beträgt CHF 100.–.
+<sup>1</sup> Die Vergütung pro Kursstunde à 60 Minuten beträgt CHF 150.–.
 
-<sup>2</sup> Die Vergütung pro Unterrichtstag beträgt CHF 1'200.–.
+<sup>2</sup> Die Vergütung pro Unterrichtstag beträgt CHF 1'200.–. Als Unterrichtstag gilt ein Kurs mit mindestens 7 Kursstunden à 60 Minuten an einem Tag.
 
-<sup>3</sup> Bei mehr als 16 Teilnehmenden kann eine Co-Kursleitung eingesetzt werden. Ihre Entschädigung beträgt 80 % des ordentlichen Ansatzes für die Kursleitung.
+<sup>3</sup> Bei mehr als 16 Teilnehmenden kann eine Co-Kursleitung eingesetzt werden.
 
-<sup>4</sup> Mit der Vergütung sind der Vorbereitungsaufwand und allfällige Auslagen gedeckt.
+<sup>4</sup> Mit der Vergütung sind der Vorbereitungsaufwand und allfällige Auslagen gedeckt. Ausgenommen sind die Fahrkosten zum und vom Kursort zurück, wenn die Kursleitung von einem Ort ausserhalb des Netzes des Tarifverbunds Nordwestschweiz anreist.
 
 #### § 29
 
@@ -309,7 +309,7 @@ beschliesst:
   - 1\. verantwortliche Kursleitung, ganztägig, mind. 6 Std.: CHF 360.–;
   - 2\. Vor- und Nachbereitung: GK, pauschal: CHF 250.–, MF, pauschal: CHF 130.–;
   - 3\. Klassenleitung: ganztägig, mind. 6 Std.: CHF 360.–; stundenweise für kürzere Einsätze: CHF 60.–;
-- i. Kursleitung in der Lehrerfortbildung: stundenweise: CHF 100.–;
+- i. Kursleitung in der Lehrerfortbildung: Ansätze gemäss § 28 für die Kursleitungen Weiterbildung Schulbereich des Amts für Volksschulen;
 - j. Lagerleitung:
   - 1\. Lagerleitung in Sportwochen: ganztägig, 6–12 Std., mit Übernachtung: CHF 300.–; ganztägig, 6–12 Std., ohne Übernachtung: CHF 220.–;
   - 2\. Lagerleitung ohne anerkannte Ausbildung für Sportwochen: ganztägig, mit Übernachtung: CHF 150.–; ganztägig, ohne Übernachtung: CHF 100.–;
