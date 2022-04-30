@@ -4,7 +4,7 @@ number: "412.11.1"
 title: RÈGLEMENT du 06.07.2016 des gymnases (RGY)
 short: RGY
 language: fr
-version: 2019-11-01
+version: 2022-05-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/412.11.1?id=170e9ba8-b9a6-46c7-8068-6d913ee27226"
 ---
 
@@ -935,12 +935,12 @@ le certificat fédéral de capacité d'assistant-e socio-éducatif-ve ; le certi
 
 **Admission [^sectionSectionII-1]**
 
-<sup>1</sup> Pour être admis de droit à l'Ecole de culture générale, l'élève doit être porteur d'un certificat de fin d'études de la voie prégymnasiale ou d'un certificat de fin d'études de la voie générale s'il a obtenu les totaux suivants dans un groupe constitué du français, des mathématiques, de l'allemand et des sciences de la nature :
+<sup>1</sup> Pour être admis de droit à l'Ecole de culture générale, l'élève doit être porteur d'un certificat de fin d'études de la voie prégymnasiale ou d'un certificat de fin d'études de la voie générale s'il a obtenu les totaux suivants dans un groupe constitué du français, des mathématiques et de l'allemand :
 
-- - au moins 18 points s'il a suivi, en niveau 2, les trois disciplines à niveaux ;
-- - au moins 19 points s'il a suivi, deux disciplines en niveau 2 et une discipline en niveau 1.
+- - au moins 13.5 points s'il a suivi, en niveau 2, les trois disciplines à niveaux ;
+- - au moins 14.5 points s'il a suivi deux disciplines en niveau 2 et une discipline en niveau 1.
 
-<sup>2</sup> Un élève ayant échoué en voie prégymnasiale mais au bénéfice d'un certificat de la voie générale est admissible en Ecole de culture générale à condition d'avoir obtenu une moyenne annuelle finale de 4.0 ou plus dans au moins deux disciplines du groupe 1, dont le français et/ou les mathématiques.
+<sup>2</sup> Un élève ayant échoué en voie prégymnasiale mais au bénéfice d'un certificat de la voie générale est admissible en Ecole de culture générale à condition d'avoir obtenu une moyenne annuelle finale de 4.0 ou plus dans au moins deux disciplines du groupe restreint, dont le français et/ou les mathématiques.
 
 <sup>3</sup> Le conseil de direction de l'établissement d'enseignement obligatoire d'où provient le candidat apprécie les cas limites ou les circonstances particulières et délivre le cas échéant une attestation d'admissibilité.
 
@@ -1267,12 +1267,12 @@ artistique (arts visuels ou musique) ; santé ; sociopédagogique ; socio-éduca
 
 **Admission [^113-1]**
 
-<sup>1</sup> Pour être admis de droit à l'Ecole de commerce, l'élève doit être porteur d'un certificat de fin d'études de la voie prégymnasiale ou d'un certificat de fin d'études de la voie générale s'il a obtenu les totaux suivants dans un groupe constitué du français, des mathématiques, de l'allemand et des sciences de la nature :
+<sup>1</sup> Pour être admis de droit à l'Ecole de commerce, l'élève doit être porteur d'un certificat de fin d'études de la voie prégymnasiale ou d'un certificat de fin d'études de la voie générale s'il a obtenu les totaux suivants dans un groupe constitué du français, des mathématiques et de l'allemand :
 
-- - au moins 18 points s'il a suivi, en niveau 2, les trois disciplines à niveaux ;
-- - au moins 19 points s'il a suivi deux disciplines en niveau 2 et une discipline en niveau 1.
+- - au moins 13.5 points s'il a suivi, en niveau 2, les trois disciplines à niveaux ;
+- - au moins 14.5 points s'il a suivi deux disciplines en niveau 2 et une discipline en niveau 1.
 
-<sup>2</sup> Un élève ayant échoué en voie prégymnasiale mais au bénéfice d'un certificat de la voie générale est admissible en Ecole de culture générale à condition d'avoir obtenu une moyenne annuelle finale de 4.0 ou plus dans au moins deux disciplines du groupe 1, dont le français et/ou les mathématiques.
+<sup>2</sup> Un élève ayant échoué en voie prégymnasiale mais au bénéfice d'un certificat de la voie générale est admissible en Ecole de commerce à condition d'avoir obtenu une moyenne annuelle finale de 4.0 ou plus dans au moins deux disciplines du groupe restreint, dont le français et/ou les mathématiques.
 
 <sup>3</sup> Le conseil de direction de l'établissement d'enseignement obligatoire d'où provient le candidat apprécie les cas limites ou les circonstances particulières et délivre le cas échéant une attestation d'admissibilité.
 
