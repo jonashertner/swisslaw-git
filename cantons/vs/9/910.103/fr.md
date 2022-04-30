@@ -4,13 +4,12 @@ number: "910.103"
 title: Règlement fixant le tarif des prestations cantonales en matière agricole
 short: RTPMA
 language: fr
-version: 2018-01-01
-corrected: 2021-05-06
-version_adopted: 2017-12-06
+version: 2022-05-01
+version_adopted: 2022-04-13
 adopted: 2017-01-11
 in_force: 2017-02-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/910.103"
-pdf: "https://lex.vs.ch/api/fr/versions/2352/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3026/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2352/pdf_file"
 
 (RTPMA)
 
-du 11.01.2017 (état 01.01.2018)
+du 11.01.2017 (état 01.05.2022)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -33,7 +32,7 @@ vu la directive cantonale relative à la perception des frais dans les affaires 
 
 vu l’arrêté cantonal fixant le barème du droit spécial perçu pour la promotion de la santé et la prévention des maladies du 2 novembre 2016 (ADSPS);
 
-sur proposition du Département de l’économie et de la formation,
+sur la proposition du département en charge de l’économie,
 
 ordonne:
 
@@ -104,7 +103,7 @@ ordonne:
   - 1\. surfaces en propriété jusqu'à 1'000 m² — Fr. 200
   - 2\. surfaces en propriété de 1'001 m² jusqu'à 5'000 m² — Fr. 400
   - 3\. surfaces en propriété supérieures à 5'000 m² — Fr. 500
-- d) pour la procédure de reconnaissance de dénominations spécifiques telles que: "Clos", "Château", "Domaie" ou "Lieu-di":
+- d) pour la procédure de reconnaissance de dénominations spécifiques telles que: "Clos", "Château", "Domaine" ou "Lieu-dit":
   - 1\. surfaces jusqu'à 1'000 m² — Fr. 200
   - 2\. surfaces de 1'001 m² jusqu'à 5'000 m² — Fr. 400
   - 3\. surfaces supérieures à 5'000 m² — Fr. 500
@@ -126,26 +125,27 @@ ordonne:
 
 <sup>1</sup> Le laboratoire d'œnologie facture ses émoluments comme suit:
 
-- a) chromatographie — Fr. 6
-- b) acidité totale — Fr. 6
-- c) acide sulfureux libre — Fr. 6
-- d) pH — Fr. 6
+- a) pH et acidité totale — Fr. 6
+- b) chromatographie — Fr. 6
+- c) anhydride sulfureux libre — Fr. 6
+- d) anhydride sulfureux total — Fr.10
 - e) clinitest — Fr. 6
-- f) acide sulfureux total — Fr. 10
+- f) sucres — Fr.18
 - g) alcool — Fr. 18
-- h) microscope — Fr. 15
-- i) acidité volatile — Fr. 15
-- j) sucres — Fr. 18
-- k) tests troubles — Fr. 12
-- l) essais de collages (par essai) — Fr. 15
-- m) rapport de dégustation (par vin) — Fr. 20
-- n) essais d'assemblage (par essai) — Fr. 12 ou Fr. 120/heure
-- o) test trouble protéique — Fr. 35
-- p) acide malique — Fr. 18
-- q) acide lactique — Fr. 18
-- r) acide tartrique — Fr. 18
-- s) indice formol — Fr. 18
-- t) densité — Fr. 18
+- h) acidité volatile — Fr. 15
+- i) acide malique — Fr. 18
+- j) acide lactique — Fr. 18
+- k) acide tartrique — Fr. 18
+- l) indice de formol — Fr. 18
+- m) cuivre — Fr. 18
+- n) densité — Fr. 18
+- o) tests de trouble — Fr. 12
+- p) tests stabilité protéique — Fr. 35
+- q) microscopie — Fr. 15
+- r) rapport de dégustation (par vin) — Fr. 20
+- s) essais de collage (par vin) — Fr. 50
+- t) essais d'assemblage (par vin) — Fr. 50
+- u) autres prestations sur demande — 120 Fr./heure
 
 <sup>2</sup> Lorsque le traitement d'un dossier par le laboratoire d'œnologie nécessite des démarches administratives complémentaires, du fait notamment d'indications incomplètes ou inexactes, de requête à caractère urgent ou de modifications par rapport à la demande initiale, un émolument additionnel de 50 francs à 500 francs est perçu afin de couvrir les frais administratifs supplémentaires.
 
@@ -167,6 +167,21 @@ ordonne:
 - b) surfaces en propriété de 1'001m² jusqu’à 5'000m² — Fr. 400
 - c) surfaces en propriété supérieures à 5'000m² — Fr. 500
 
+#### Art. 7a
+
+**Emoluments pour le contrôle des pulvérisateurs et des drones pulvérisateurs**
+
+<sup>1</sup> Le tarif pour le contrôle des drones pulvérisateurs suit les prescriptions de l'Association suisse pour l'équipement technique de l'agriculture (ASETA) et d'Agroscope. Il est dégressif en fonction du nombre d'appareils contrôlés et se présente comme suit:
+
+- a) 250 francs pour le premier contrôle;
+- b) 75 francs par contrôle du deuxième au cinquième contrôle;
+- c) 50 francs par contrôle dès le sixième contrôle.
+
+<sup>2</sup> Le contrôle des pulvérisateurs est facturé forfaitairement, au vu des dispositions de l'ASETA, comme suit:
+
+- a) 50 francs par intervention pour la vérification des points de contrôle ordinaires selon le protocole;
+- b) 100 francs par intervention pour la vérification des points de contrôle ordinaires selon le protocole, le test de répartition du produit et l'adaptation des buses et des réflecteurs.
+
 #### Art. 8
 
 **Emoluments pour les estimations et expertises LDFR**
@@ -178,6 +193,8 @@ ordonne:
 <tr><td>A (cas simple - uniquement des parcelles agricoles)</td><td>Fr. 120 par page</td><td>Fr. 8 par décision</td><td>Fr. 10 par page</td><td>Fr. 200 la 1<sup>re</sup> parcelle, puis Fr. 30 supplémentaires par No de folio pour les parcelles suivantes</td></tr>
 <tr><td>B (cas complexe - parcelles agricoles avec bâtiments)</td><td>Fr. 120 par page</td><td>Fr. 8 par décision</td><td>Fr. 20 par page</td><td>Fr. 400 la 1<sup>re</sup> parcelle, puis Fr. 30 supplémentaires par No de folio pour les parcelles suivantes</td></tr>
 </table>
+
+<sup>2</sup> Le montant de l'émolument fixé à l'alinéa 1 ne peut pas dépasser la valeur de rendement du bien sur lequel porte la décision.
 
 #### Art. 9
 

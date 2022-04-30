@@ -4,13 +4,12 @@ number: "910.103"
 title: "Reglement zur Festlegung des Tarifs der kantonalen Leistungen in Sachen Landwirtschaft *"
 short: RTLSL
 language: de
-version: 2018-01-01
-corrected: 2021-05-06
-version_adopted: 2017-12-06
+version: 2022-05-01
+version_adopted: 2022-04-13
 adopted: 2017-01-11
 in_force: 2017-02-01
 url: "https://lex.vs.ch/app/de/texts_of_law/910.103"
-pdf: "https://lex.vs.ch/api/de/versions/2352/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3026/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2352/pdf_file"
 
 (RTLSL)
 
-vom 11.01.2017 (Stand 01.01.2018)
+vom 11.01.2017 (Stand 01.05.2022)
 
 Der Staatsrat des Kantons Wallis
 
@@ -33,7 +32,7 @@ eingesehen die kantonale Weisung über die Erhebung der Kosten in Verwaltungs-an
 
 eingesehen den kantonalen Beschluss zur Festlegung des Spezialgebührentarifs für die Gesundheitsförderung und die Verhütung von Krankheiten vom 2. November 2016 (BSGGF);
 
-auf Antrag des Departements für Volkswirtschaft und Bildung,
+auf Antrag des für die Volkswirtschaft zuständigen Departements,
 
 beschliesst:
 
@@ -126,26 +125,27 @@ beschliesst:
 
 <sup>1</sup> Das Laboratorium für Önologie fakturiert seine Gebühren wie folgt:
 
-- a) Chromatographie — Fr. 6
-- b) Gesamtsäuregehalt — Fr. 6
-- c) freie Schwefelsäure — Fr. 6
-- d) pH-Wert — Fr. 6
+- a) pH und Gesamtsäure — Fr. 6
+- b) Chromatographie — Fr. 6
+- c) freies Schwefeldioxid — Fr. 6
+- d) gesamtes Schwefeldioxid — Fr. 10
 - e) Clinitest — Fr. 6
-- f) totale Schwefelsäure — Fr. 10
+- f) Zucker — Fr. 18
 - g) Alkohol — Fr. 18
-- h) Mikroskop — Fr. 15
-- i) flüchtige Säure — Fr. 15
-- j) Zuckerarten — Fr. 18
-- k) Trübungstest — Fr. 12
-- l) Klärversuche (pro Versuch) — Fr. 15
-- m) Degustationsbericht (pro Wein) — Fr. 20
-- n) Verschnittversuche (pro Versuch) — Fr. 12 oder Fr. 120/Stunde
-- o) Test einer Eiweisstrübung — Fr. 35
-- p) Apfelsäure — Fr. 18
-- q) Milchsäure — Fr. 18
-- r) Weinsäure — Fr. 18
-- s) Formolzahl — Fr. 18
-- t) Dichte — Fr. 18
+- h) flüchtige Säure — Fr. 15
+- i) Apfelsäure — Fr. 18
+- j) Milchsäure — Fr. 18
+- k) Weinsäure — Fr. 18
+- l) Formolzahl — Fr. 18
+- m) Kupfer — Fr. 18
+- n) Dichte — Fr. 18
+- o) Trübungstest — Fr. 12
+- p) Eiweissstabilität — Fr. 35
+- q) Mikroskopie — Fr. 15
+- r) Degustationsbericht (pro Wein) — Fr. 20
+- s) Schönungsversuche (pro Wein) — Fr. 50
+- t) Assemblageversuche (pro Wein) — Fr. 50
+- u) weitere Analysen auf Anfrage — 120 Fr. pro Stunde
 
 <sup>2</sup> Sollte die Bearbeitung eines Dossiers durch das Laboratorium für Önologie namentlich wegen unvollständigen oder ungenauen Angaben, dringlichen Anfragen oder Änderungen der ursprünglichen Anfrage weitere administrative Schritte nach sich ziehen, wird eine Sondergebühr von 50 Franken bis 500 Franken erhoben, um diese zusätzlichen administrativen Kosten zu decken.
 
@@ -167,6 +167,21 @@ beschliesst:
 - b) Eigentumsfläche von 1'001m² bis 5'000m² — Fr. 400
 - c) Eigentumsfläche über 5'000m² — Fr. 500
 
+#### Art. 7a
+
+**Gebühren für die Kontrolle von Sprühgeräten und Pflanzenschutz-Drohnen**
+
+<sup>1</sup> Der Tarif für die Kontrolle der Pflanzenschutz-Drohnen folgt den Vorschriften des Schweizerischen Verbands für Landtechnik (SVLT) und von Agroscope. Er ist degressiv nach Anzahl kontrollierter Geräte wie folgt:
+
+- a) 250 Franken für die erste Kontrolle;
+- b) 75 Franken pro Kontrolle für die zweite bis fünfte Kontrolle;
+- c) 50 Franken pro Kontrolle ab der sechsten Kontrolle.
+
+<sup>2</sup> Die Kontrolle der Sprühgeräte wird pauschal entsprechend der Bestimmungen des SVLT wie folgt verrechnet:
+
+- a) 50 Franken pro Einsatz für die Überprüfung der ordentlichen Kontrollpunkte gemäss Protokoll;
+- b) 100 Franken pro Einsatz für die Überprüfung der ordentlichen Kontrollpunkte gemäss Protokoll und für den Verteiltest inklusive Einstellung der Düsen und Reflektoren.
+
 #### Art. 8
 
 **Gebühren für Schätzungen und Gutachten BGBB**
@@ -178,6 +193,8 @@ beschliesst:
 <tr><td>A (Einfacher Fall - nur landwirtschaftliche Parzellen)</td><td>Fr. 120 pro Seite</td><td>Fr. 8 pro Entscheid</td><td>Fr. 10 pro Seite</td><td>Fr. 200 für die 1. Parzelle, danach Fr. 30 zusätzlich pro Registerblattnummer für alle weiteren Parzellen</td></tr>
 <tr><td>B (Komplexer Fall - landwirtschaftliche Parzellen mit Gebäuden)</td><td>Fr. 120 pro Seite</td><td>Fr. 8 pro Entscheid</td><td>Fr. 20 pro Seite</td><td>Fr. 400 für die 1. Parzelle, danach Fr. 30 zusätzlich pro Registerblattnummer für alle weiteren Parzellen</td></tr>
 </table>
+
+<sup>2</sup> Der Betrag der Gebühren gemäss Absatz 1 kann den Ertragswert der Liegenschaft, auf die sich der Entscheid bezieht, nicht übersteigen.
 
 #### Art. 9
 
