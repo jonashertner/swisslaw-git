@@ -3,41 +3,34 @@ canton: AI
 number: "132.100"
 title: Grossratsbeschluss über die Landesteile
 language: de
-version: 2014-12-01
-corrected: 2018-09-04
-version_adopted: 2014-12-01
+version: 2022-05-01
+version_adopted: 2022-04-24
 adopted: 1996-10-28
 in_force: 1997-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/132.100"
-pdf: "https://ai.clex.ch/api/de/versions/46/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2031/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Grossratsbeschluss über die Landesteile
 
-Gesetzessammlung Appenzell I. Rh. – Dezember 2014
-
-vom 28. Oktober 19961
+vom 28.10.1996 (Stand 01.05.2022)
 
 Der Grosse Rat des Kantons Appenzell I. Rh.,
 
-gestützt auf Art. 27 Abs. 2 der Kantonsverfassung vom 24. Wintermonat 18722,
+gestützt auf Art. 27 Abs. 2 der Kantonsverfassung vom 24. Wintermonat 1872
 
 beschliesst:
 
 #### Art. 1
 
-Der «innere Landesteil» bezeichnet das Gebiet der Bezirke Appenzell, Schwende, Rüte, Schlatt-Haslen (inkl. das innerrhodische Gebiet des Klosters Wonnenstein, welches als Bestandteil des Bezirkes Schlatt-Haslen gilt) und Gonten.
+<sup>1</sup> Der «innere Landesteil» bezeichnet das Gebiet der Bezirke Appenzell, Schwende-Rüte, Schlatt-Haslen (inkl. das innerrhodische Gebiet des Klosters Wonnenstein, welches als Bestandteil des Bezirkes Schlatt-Haslen gilt) und Gonten.
 
-Der «äussere Landesteil» bezeichnet das Gebiet des Bezirkes Oberegg (inkl. das innerrhodische Gebiet des Klosters Grimmenstein, welches als Bestandteil des Bezirkes Oberegg gilt).
+<sup>2</sup> Der «äussere Landesteil» bezeichnet das Gebiet des Bezirkes Oberegg (inkl. das innerrhodische Gebiet des Klosters Grimmenstein, welches als Bestandteil des Bezirkes Oberegg gilt).
 
 #### Art. 2
 
-Dieser Beschluss tritt nach Annahme durch den Grossen Rat am 1. Januar 1997 in Kraft.
+<sup>1</sup> Dieser Beschluss tritt nach Annahme durch den Grossen Rat am 1. Januar 1997 in Kraft.
 
-## Weitere Fussnoten
-
-- [1] Mit Revision vom 1. Dezember 2014.
-- [2] Ingress abgeändert durch GrRB vom 1. Dezember 2014.
+cGS -
