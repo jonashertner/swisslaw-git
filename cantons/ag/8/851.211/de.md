@@ -4,13 +4,13 @@ number: "851.211"
 title: Sozialhilfe- und Präventionsverordnung
 short: SPV
 language: de
-version: 2022-01-01
-valid_until: 2022-04-30
-version_adopted: 2021-03-31
+version: 2022-05-01
+valid_until: 2022-06-30
+version_adopted: 2022-02-16
 adopted: 2002-08-28
 in_force: 2003-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/851.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3057/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3186/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3057/pdf_file"
 
 (SPV)
 
-Vom 28.08.2002 (Stand 01.01.2022)
+Vom 28.08.2002 (Stand 01.05.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -298,8 +298,8 @@ beschliesst:
 <sup>1</sup> Für den tatsächlichen Anwesenheitstag in der Unterkunft beträgt der Ansatz für die Verpflegung:
 
 - a) für Erwachsene sowie Jugendliche ab vollendetem 16. Altersjahr Fr. 8.–
-- b) für Kinder ab vollendetem 6. bis zum vollendeten 16. Altersjahr Fr. 7.–
-- c) für Kinder bis zum vollendeten 6. Altersjahr Fr. 5.–
+- b) für Kinder bis zum vollendeten 16. Altersjahr Fr. 7.50
+- c) …
 
 <sup>2</sup> Erwachsene, Jugendliche und Kinder ab vollendetem 6. Altersjahr erhalten darüber hinaus ein Taschengeld von Fr. 1.– pro tatsächlichem Anwesenheitstag.
 
