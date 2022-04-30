@@ -4,13 +4,13 @@ number: "152.221.121"
 title: "Ordonnance sur l’organisation et les tâches de la Direction de la santé, des affaires sociales et de l’intégration"
 short: "Ordonnance d’organisation DSSI, OO DSSI"
 language: fr
-version: 2022-01-01
-valid_until: 2022-04-30
-version_adopted: 2021-11-24
+version: 2022-05-01
+valid_until: 2022-12-31
+version_adopted: 2022-04-06
 adopted: 2021-06-30
 in_force: 2021-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.121"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2489/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2583/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2489/pdf_file"
 
 (Ordonnance d’organisation DSSI, OO DSSI)
 
-du 30.06.2021 (état au 01.01.2022)
+du 30.06.2021 (état au 01.05.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -64,15 +64,11 @@ arrête:
 
 #### Art. 3
 
-**Unités administratives assimilées**
+**Unité administrative assimilée**
 
-<sup>1</sup> La Commission cantonale d’éthique de la recherche (CCER Berne) instituée par l’ordonnance du 20 août 2014 sur la Commission cantonale d’éthique de la recherche (OCCER)[^3-1] relève de la Direction. Elle est rattachée administrativement à l’Office de la santé.
+<sup>1</sup> La Commission cantonale d’éthique de la recherche (CCER Berne) instituée par l’ordonnance du 20 août 2014 sur la Commission cantonale d’éthique de la recherche (OCCER)[^3-1] relève de la Direction. La CCER Berne est assimilée à un office et est rattachée administrativement à l’Office de la santé.
 
-<sup>2</sup> Les institutions pédagogiques et socio-pédagogiques cantonales suivantes sont subordonnées à la Direction:
-
-- a Centre pédagogique de logopédie et d’entraînement auditif de Münchenbuchsee (CPLEAM),
-- b Foyer scolaire du Château de Cerlier (FSCC),
-- c Centre de pédagogie spécialisée Landorf Köniz – Schlössli Kehrsatz (CPSKK).
+<sup>2</sup> …
 
 [^3-1]: RSB [811.05](https://www.belex.sites.be.ch/data/811.05/fr)
 
@@ -83,7 +79,7 @@ arrête:
 <sup>1</sup> Les commissions permanentes suivantes instituées par la législation spéciale sont rattachées à la Direction:
 
 - a Commission spécialisée pour les médecines douces,
-- b Comités des institutions pédagogiques et socio-pédagogiques de la Direction de la santé, des affaires sociales et de l'intégration,
+- b …
 - c Commission cantonale pour le service médical scolaire,
 - d Commission cantonale de promotion de la santé et de lutte contre les dépendances,
 - e Commission pour la politique sociale, la politique de couverture du minimum vital et la politique de la famille,
@@ -113,7 +109,7 @@ arrête:
 - d la communication d’informations à l’intérieur et à l’extérieur de la Direction,
 - e d'autres questions d’organisation au sein de la Direction.
 
-<sup>3</sup> Il ou elle approuve les règlements d'organisation du Secrétariat général et des offices ainsi que le descriptif de poste du secrétaire général ou de la secrétaire générale, des secrétaires généraux adjoints ou des secrétaires générales adjointes, des chefs ou cheffes d'office et des directeurs ou directrices des unités administratives assimilées.
+<sup>3</sup> Il ou elle approuve les règlements d'organisation du Secrétariat général et des offices ainsi que le descriptif de poste du secrétaire général ou de la secrétaire générale, des secrétaires généraux adjoints ou des secrétaires générales adjointes, des chefs ou cheffes d'office et du directeur ou de la directrice de la CCER Berne.
 
 #### Art. 6
 
@@ -134,11 +130,11 @@ arrête:
 <sup>1</sup> Le Secrétariat général
 
 - a conseille et seconde le directeur ou la directrice dans l'accomplissement de ses tâches;
-- b examine toutes les propositions et tous les projets que les offices et les unités administratives assimilées soumettent au directeur ou à la directrice;
+- b examine toutes les propositions et tous les projets que les offices et la CCER Berne soumettent au directeur ou à la directrice;
 - c traite toutes les questions revêtant une importance fondamentale pour la politique de la santé, des affaires sociales et de l'intégration;
 - d traite toutes les affaires qui ne relèvent de la compétence d'aucun office de la Direction ou les attribue à l'un d'eux;
 - e coordonne l’activité des offices et attribue la responsabilité lorsqu’une affaire concerne plusieurs offices;
-- f traite les différentes affaires concernant les unités administratives assimilées, sous réserve des compétences attribuées soit aux unités elles-mêmes en vertu de la législation ou du règlement, soit aux offices aux termes des dispositions ci-après;
+- f traite les différentes affaires concernant la CCER Berne, sous réserve des compétences attribuées soit à la CCER Berne elle-même en vertu de la législation ou du règlement, soit aux offices aux termes des dispositions ci-après;
 - g assure l'information du public sur l'activité de la Direction;
 - h collabore avec les autres Directions, la Chancellerie d’Etat, le Conseil-exécutif et les organes du Grand Conseil;
 - i élabore des réponses aux interventions parlementaires, s’occupe de la préparation des affaires parlementaires et veille à l’exécution des motions et des postulats adoptés par le Grand Conseil;
@@ -147,7 +143,7 @@ arrête:
 - m instruit les recours, prépare les décisions sur recours ainsi que, dans les limites de leur compétence respective, rédige les écrits que la Direction et le Conseil-exécutif adressent aux autorités de justice administrative et aux tribunaux cantonaux ou fédéraux, et représente la Direction et le Conseil-exécutif auprès de ces instances;
 - n coordonne avec les autres Directions les efforts déployés dans le domaine sanitaire et social, pourvoit à la représentation du canton au sein des organes de coordination intercantonaux dans les domaines de la santé, des affaires sociales et de l’intégration et assure la liaison avec les autorités fédérales;
 - o a compétence pour la préparation et la mise en œuvre de la stratégie de propriétaire selon les articles 12 et 13 de l’ordonnance du 23 octobre 2013 sur les soins hospitaliers (OSH)[^7-1];
-- p instruit la procédure et élabore les décisions de retrait du droit d'enseigner pour les personnes chargées de l'enseignement, du suivi, de la surveillance et des tâches de direction ou d'encadrement dans les écoles spécialisées cantonales ou autorisées par le canton.
+- p …
 
 [^7-1]: RSB [812.112](https://www.belex.sites.be.ch/data/812.112/fr)
 
@@ -157,7 +153,7 @@ arrête:
 
 <sup>1</sup> Le Secrétariat général
 
-- a conseille le directeur ou la directrice, les offices de la Direction ainsi que les unités administratives assimilées sur les questions juridiques et veille à l’application uniforme du droit au sein de la Direction;
+- a conseille le directeur ou la directrice, les offices de la Direction ainsi que la CCER Berne sur les questions juridiques et veille à l’application uniforme du droit au sein de la Direction;
 - b instruit les procédures selon la législation sur l’information concernant la consultation des dossiers de la Direction;
 - c pourvoit, par le biais de sa coordination et de son assistance, à la planification, à l'exécution, au controlling et au compte rendu dans tout ce qui touche aux tâches (objectifs et mesures) et aux ressources de la Direction;
 - d veille, dans les limites de la présente ordonnance, à ce que la Direction se dote d'une bonne organisation structurelle et fonctionnelle;
@@ -245,7 +241,7 @@ arrête:
 - k la garantie de la disponibilité des places nécessaires à l’exécution du placement à des fins d’assistance dans des institutions et foyers appropriés,
 - l la préparation et la conclusion de contrats de prestations.
 
-<sup>3</sup> Il traite les différentes affaires concernant les institutions pédagogiques et socio-pédagogiques de la Direction, sous réserve des compétences attribuées à ces unités elles-mêmes ou au Secrétariat général.
+<sup>3</sup> …
 
 [^10-1]: RSB [213.316](https://www.belex.sites.be.ch/data/213.316/fr)
 
@@ -271,13 +267,7 @@ arrête:
 
 #### Art. 12
 
-**Institutions pédagogiques et socio-pédagogiques**
-
-<sup>1</sup> Les institutions pédagogiques et socio-pédagogiques de la Direction de la santé, des affaires sociales et de l’intégration
-
-- a remplissent le mandat de prestations qui leur a été attribué;
-- b fixent leur organisation et les domaines de compétence de leurs secteurs, groupes et services dans un règlement interne et un organigramme devant être approuvés par le directeur ou la directrice de la santé, des affaires sociales et de l’intégration;
-- c sont dirigés par un directeur ou une directrice, dont la suppléance est définie par leur règlement interne.
+**…**
 
 ## 5 Personnel
 
@@ -289,8 +279,8 @@ arrête:
 - b deux secrétaires généraux adjoints ou secrétaires générales adjointes,
 - c deux chefs ou cheffes d'office,
 - d le médecin cantonal ou la médecin cantonale,
-- e le pharmacien cantonal ou la pharmacienne cantonale,
-- f un directeur ou une directrice pour chacune des institutions pédagogiques et socio-pédagogiques.
+- e le pharmacien cantonal ou la pharmacienne cantonale.
+- f …
 
 <sup>2</sup> Le médecin cantonal ou la médecin cantonale doit disposer d’un diplôme fédéral ou d’un diplôme étranger reconnu de médecin selon la loi fédérale du 23 juin 2006 sur les professions médicales universitaires (loi sur les professions médicales, LPMéd)[^13-1] et d’un titre postgrade fédéral, d’un titre postgrade étranger reconnu selon la LPMéd ou d’une formation postgrade équivalente.
 
@@ -373,6 +363,24 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> La présence ordonnance entre en vigueur le 1<sup>er</sup> août 2021.
+
+## T1 Dispositions transitoires de la modification du 06.04.2022
+
+#### Art. T1-1
+
+**Comités des institutions pédagogiques et socio-pédagogiques de la Direction de la santé, des affaires sociales et de l'intégration**
+
+<sup>1</sup> Le mandat des membres des comités des institutions pédagogiques et socio-pédagogiques de la Direction de la santé, des affaires sociales et de l'intégration se termine le 31 décembre 2022.
+
+#### Art. T1-2
+
+**Droit applicable**
+
+<sup>1</sup> Les modifications des articles 3, alinéa 2, 4, alinéa 1, lettre b, 5, alinéa 3, 7, alinéa 1, lettres b, f et p, 8, alinéa 1, lettre a, 10, alinéa 3, 12 et 13, alinéa 1, lettres e et f s'appliquent à partir du 1<sup>er</sup> janvier 2023.
+
+<sup>2</sup> Les dispositions de l'ordonnance du 8 février 2006 sur les institutions pédagogiques et socio-pédagogiques cantonales de la Direction de la santé, des affaires sociales et de l'intégration (ordonnance sur les institutions pédagogiques, OIPS)[^T12-1] restent applicables, à l'exception de l'article 13, jusqu'au 31 décembre 2022. Les services compétents de la Direction de la santé, des affaires sociales et de l'intégration et les comités des institutions demandent l'accord des services compétents de la Direction de l'intérieur et de la justice et de ceux de la Direction de l'instruction publique et de la culture pour les décisions dont les effets se prolongent au-delà de l'année 2022.
+
+[^T12-1]: RSB [862.61](https://www.belex.sites.be.ch/data/862.61/fr)
 
 Berne, le 30 juin 2021
 

@@ -4,13 +4,13 @@ number: "152.221.121"
 title: "Verordnung über die Organisation und die Aufgaben der Gesundheits-, Sozial- und Integrationsdirektion"
 short: "Organisationsverordnung GSI, OrV GSI"
 language: de
-version: 2022-01-01
-valid_until: 2022-04-30
-version_adopted: 2021-11-24
+version: 2022-05-01
+valid_until: 2022-12-31
+version_adopted: 2022-04-06
 adopted: 2021-06-30
 in_force: 2021-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.121"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2489/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2583/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2489/pdf_file"
 
 (Organisationsverordnung GSI, OrV GSI)
 
-vom 30.06.2021 (Stand 01.01.2022)
+vom 30.06.2021 (Stand 01.05.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -64,15 +64,11 @@ beschliesst:
 
 #### Art. 3
 
-**Gleichgestellte Organisationseinheiten**
+**Gleichgestellte Organisationseinheit**
 
-<sup>1</sup> Der Direktion ist die Kantonale Ethikkommission für die Forschung (KEK Bern) nach den Bestimmungen der Verordnung vom 20. August 2014 über die Kantonale Ethikkommission für die Forschung (KEKV)[^3-1] unterstellt. Sie ist dem Gesundheitsamt administrativ angegliedert.
+<sup>1</sup> Der Direktion ist die Kantonale Ethikkommission für die Forschung (KEK Bern) nach den Bestimmungen der Verordnung vom 20. August 2014 über die Kantonale Ethikkommission für die Forschung (KEKV)[^3-1] unterstellt. Die KEK Bern ist einem Amt gleichgestellt sowie dem Gesundheitsamt administrativ angegliedert.
 
-<sup>2</sup> Ihr sind ferner die folgenden kantonalen pädagogischen und sozialpädagogischen Institutionen unterstellt:
-
-- a Pädagogisches Zentrum für Hören und Sprache Münchenbuchsee (HSM),
-- b Schulheim Schloss Erlach (SHE),
-- c Zentrum für Sozial- und Heilpädagogik Landorf Köniz–Schlössli Kehrsatz (ZSHKK).
+<sup>2</sup> …
 
 [^3-1]: BSG [811.05](https://www.belex.sites.be.ch/data/811.05/de)
 
@@ -83,7 +79,7 @@ beschliesst:
 <sup>1</sup> Der Direktion sind folgende, durch besondere Gesetzgebung eingesetzte ständige Kommissionen zugeordnet:
 
 - a Fachkommission natürliche Heilmethoden,
-- b Heimkommissionen der kantonalen pädagogischen und sozialpädagogischen Institutionen der Gesundheits-, Sozial- und Integrationsdirektion,
+- b …
 - c Kantonale Kommission für den schulärztlichen Dienst,
 - d Kantonale Kommission für Gesundheitsförderungs- und Suchtfragen,
 - e Kommission für Sozial-, Existenzsicherungs- und Familienpolitik,
@@ -113,7 +109,7 @@ beschliesst:
 - d die Information nach innen und aussen,
 - e weitere, die Organisation der Direktion betreffende Fragen.
 
-<sup>3</sup> Sie oder er genehmigt die Organisationsreglemente des Generalsekretariats und der Ämter sowie die Stellenbeschreibungen der Generalsekretärin oder des Generalsekretärs, der stellvertretenden Generalsekretärinnen und Generalsekretäre, der Amtsvorsteherinnen und Amtsvorsteher und der Leitungen der gleichgestellten Organisationseinheiten.
+<sup>3</sup> Sie oder er genehmigt die Organisationsreglemente des Generalsekretariats und der Ämter sowie die Stellenbeschreibungen der Generalsekretärin oder des Generalsekretärs, der stellvertretenden Generalsekretärinnen und Generalsekretäre, der Amtsvorsteherinnen und Amtsvorsteher und der Leitung der KEK Bern.
 
 #### Art. 6
 
@@ -134,11 +130,11 @@ beschliesst:
 <sup>1</sup> Das Generalsekretariat ist zuständig für
 
 - a die Beratung und Unterstützung der Direktorin oder des Direktors bei der Erfüllung der Aufgaben,
-- b die Prüfung von Anträgen und Vorlagen, welche die Ämter und gleichgestellten Organisationseinheiten der Direktorin oder dem Direktor unterbreiten,
+- b die Prüfung von Anträgen und Vorlagen, welche die Ämter und die KEK Bern der Direktorin oder dem Direktor unterbreiten,
 - c die Bearbeitung aller Fragen, die für die Gesundheits-, Sozial- und Integrationspolitik von grundsätzlicher Bedeutung sind,
 - d die Koordination aller Geschäfte, für die kein Amt der Direktion zuständig ist, oder deren Zuweisung zu einem Amt,
-- e die Koordination der Tätigkeit der Ämter und die Festlegung der Federführung wenn nötig für Geschäfte, die mehrere Ämter betreffen,
-- f die Betreuung der gleichgestellten Organisationseinheiten in allen Verwaltungsobliegenheiten und übrigen Belangen, soweit diese durch die Gesetzgebung oder die Geschäftsordnung nicht der Organisationseinheit selbst oder durch die nachfolgenden Bestimmungen einem Amt übertragen sind,
+- e die Koordination der Tätigkeit der Ämter und die Festlegung der Federführung, wenn nötig für Geschäfte, die mehrere Ämter betreffen,
+- f die Betreuung der KEK Bern in allen Verwaltungsobliegenheiten und übrigen Belangen, soweit diese durch die Gesetzgebung oder die Geschäftsordnung nicht der KEK Bern selbst oder durch die nachfolgenden Bestimmungen einem Amt übertragen sind,
 - g die Information der Öffentlichkeit über die Tätigkeit der Direktion,
 - h die Zusammenarbeit mit den anderen Direktionen, der Staatskanzlei, dem Regierungsrat und den Organen des Grossen Rates,
 - i die Bearbeitung der Antworten auf parlamentarische Vorstösse, die Vorbereitung parlamentarischer Geschäfte und die Überwachung des Vollzugs überwiesener Motionen und Postulate,
@@ -147,7 +143,7 @@ beschliesst:
 - m die Instruktion von Beschwerdeverfahren und die Erarbeitung von Beschwerdeentscheiden sowie für die Vorbereitung von Eingaben und die Vertretung der Direktion und des Regierungsrates im Rahmen der jeweiligen Zuständigkeiten vor kantonalen und eidgenössischen Verwaltungsjustizbehörden und Gerichten,
 - n die Koordination der Tätigkeit in allen Bereichen des Gesundheits- und Sozialwesens mit den anderen beteiligten Direktionen, die Vertretung des Kantons in den interkantonalen Koordinationsorganen des Gesundheits-, Sozial- und Integrationswesens sowie die Sicherstellung der Verbindung zu den Behörden des Bundes,
 - o die Vorbereitung und Umsetzung der Eigentümerstrategie gemäss Artikel 12 und 13 der Spitalversorgungsverordnung vom 23. Oktober 2013 (SpVV)[^7-1],
-- p die Instruktion der Verfahren und Erarbeitung von Verfügungen betreffend Entzug der Unterrichtsberechtigung von Personen, die an kantonalen oder vom Kanton bewilligten Sonderschulen Unterricht erteilen, anleiten, überwachen oder Leitungs- oder Betreuungsaufgaben wahrnehmen.
+- p …
 
 [^7-1]: BSG [812.112](https://www.belex.sites.be.ch/data/812.112/de)
 
@@ -157,21 +153,21 @@ beschliesst:
 
 <sup>1</sup> Das Generalsekretariat ist zuständig für
 
-- a die Beratung der Direktorin oder des Direktors, der Ämter sowie der gleichgestellten Organisationseinheiten in Rechtsfragen und die Sicherstellung einer einheitlichen Rechtsanwendung innerhalb der Direktion,
+- a die Beratung der Direktorin oder des Direktors, der Ämter und der KEK Bern in Rechtsfragen sowie die Sicherstellung einer einheitlichen Rechtsanwendung innerhalb der Direktion,
 - b die Instruktion von Verfahren gemäss der Informationsgesetzgebung um Einsicht in Akten der Direktion,
 - c die Koordination und methodische Unterstützung der Planung, des Vollzugs, des Controllings und der Berichterstattung im Bereich der Aufgaben (Ziele und Massnahmen) und Ressourcen der Direktion,
 - d eine zweckmässige Aufbau- und Ablauforganisation im Rahmen dieser Verordnung,
 - e das Finanz- und Rechnungswesen der Direktion,
-- f das Personalwesen der Direktion, einschliesslich der Kommissions- und Kantonsvertretungswahlen und der Belange der Gleichstellung von Frauen und Männern,
-- g den Bereich Digital Management, insbesondere verantwortet es mit den Fachämtern die Entwicklung, die Wartung und die Erneuerung der Fach- und Konzernapplikationen im Aufgabenbereich der Direktion,
+- f das Personalwesen der Direktion, einschliesslich der Kommissions- und Kantonsvertretungswahlen sowie der Belange der Gleichstellung von Frauen und Männern,
+- g den Bereich Digital Management; insbesondere verantwortet es mit den Fachämtern die Entwicklung, die Wartung und die Erneuerung der Fach- und Konzernapplikationen im Aufgabenbereich der Direktion,
 - h die Raumbelegung,
 - i die Belange der Zweisprachigkeit und die Führung des Übersetzungsdienstes,
 - k die übrigen zentralen Dienste wie zentrale Postverteilung, Registratur, Kurierdienst, Reprodienst, Beschaffungswesen, Hausverwaltung und -unterhalt,
-- l die Erhebung der obligatorischen Bundesstatistiken der stationären Betriebe des Gesundheitswesens, die Betreuung des Gesundheits- und Sozialberichts und die Beratung der Ämter in Fragen der Datenerhebung sowie der Evaluationsmethodik.
+- l die Erhebung der obligatorischen Bundesstatistiken der stationären Betriebe des Gesundheitswesens, die Betreuung des Gesundheits- und Sozialberichts sowie die Beratung der Ämter in Fragen der Datenerhebung und der Evaluationsmethodik.
 
 <sup>2</sup> Das Generalsekretariat ist Kontaktstelle für
 
-- a den Datenschutz gemäss Datenschutzgesetzgebung,
+- a den Datenschutz gemäss der Datenschutzgesetzgebung,
 - b die Grundversorgung gemäss der Gesetzgebung über die Informations- und Telekommunikationstechnik der Kantonsverwaltung.
 
 #### Art. 9
@@ -245,7 +241,7 @@ beschliesst:
 - k die Bereitstellung der erforderlichen Plätze in geeigneten Einrichtungen und Heimen zum Vollzug der fürsorgerischen Unterbringung,
 - l die Vorbereitung und den Abschluss vom Leistungsverträgen.
 
-<sup>3</sup> Es betreut die kantonalen pädagogischen und sozialpädagogischen Institutionen der Direktion in allen Verwaltungsangelegenheiten und übrigen Belangen, soweit sie nicht diesen Organisationseinheiten selbst oder dem Generalsekretariat übertragen sind.
+<sup>3</sup> …
 
 [^10-1]: BSG [213.316](https://www.belex.sites.be.ch/data/213.316/de)
 
@@ -271,13 +267,7 @@ beschliesst:
 
 #### Art. 12
 
-**Pädagogische und sozialpädagogische Institutionen der Gesundheits-, Sozial- und Integrationsdirektion**
-
-<sup>1</sup> Die pädagogischen und sozialpädagogischen Institutionen der Direktion
-
-- a erfüllen den ihnen erteilten Leistungsauftrag,
-- b legen ihre Organisationsstrukturen und die Verantwortlichkeitsbereiche für ihre Abteilungen, Gruppen und Dienste in Organisations- oder Geschäftsreglementen und Organigrammen fest, die von der Gesundheits-, Sozial- und Integrationsdirektorin oder vom Gesundheits-, Sozial- und Integrationsdirektor zu genehmigen sind,
-- c werden von einer Gesamtleiterin oder einem Gesamtleiter geführt, deren oder dessen Stellvertretung im Organisations- oder Geschäftsreglement zu regeln ist.
+**…**
 
 ## 5 Personal
 
@@ -289,8 +279,8 @@ beschliesst:
 - b zwei stellvertretende Generalsekretärinnen und Generalsekretäre,
 - c zwei Amtsvorsteherinnen und Amtsvorsteher,
 - d die Kantonsärztin oder den Kantonsarzt,
-- e die Kantonsapothekerin oder den Kantonsapotheker,
-- f drei Gesamtleiterinnen und Gesamtleiter der kantonalen pädagogischen und sozialpädagogischen Institutionen.
+- e die Kantonsapothekerin oder den Kantonsapotheker.
+- f …
 
 <sup>2</sup> Die Kantonsärztin oder der Kantonsarzt muss über ein eidgenössisches oder ein anerkanntes ausländisches Diplom als Ärztin oder Arzt nach dem Bundesgesetz vom 23. Juni 2006 über die universitären Medizinalberufe (Medizinalberufegesetz, MedBG)[^13-1] und einen eidgenössischen oder einen anerkannten ausländischen Weiterbildungstitel nach dem MedBG oder eine vergleichbare Weiterbildung verfügen.
 
@@ -373,6 +363,24 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. August 2021 in Kraft.
+
+## T1 Übergangsbestimmungen der Änderung vom 06.04.2022
+
+#### Art. T1-1
+
+**Heimkommissionen der kantonalen pädagogischen und sozialpädagogischen Institutionen der Gesundheits-, Sozial- und Integrationsdirektion**
+
+<sup>1</sup> Die Amtsdauern der Mitglieder der Heimkommissionen der kantonalen pädagogischen und sozialpädagogischen Institutionen der Gesundheits-, Sozial- und Integrationsdirektion enden am 31. Dezember 2022.
+
+#### Art. T1-2
+
+**Anwendbares Recht**
+
+<sup>1</sup> Die Änderungen von Artikel 3 Absatz 2, 4 Absatz 1 Buchstabe b, 5 Absatz 3, 7 Absatz 1 Buchstaben b, f und p, 8 Absatz 1 Buchstabe a, 10 Absatz 3, 12 sowie 13 Absatz 1 Buchstaben e und f sind ab dem 1. Januar 2023 anwendbar.
+
+<sup>2</sup> Die Bestimmungen der Verordnung vom 8. Februar 2006 über die kantonalen pädagogischen und sozialpädagogischen Institutionen der Gesundheits-, Sozial- und Integrationsdirektion (PSIV)[^T12-1] bleiben, mit Ausnahme von Artikel 13, bis am 31. Dezember 2022 anwendbar. Die zuständigen Stellen der Gesundheits-, Sozial- und Integrationsdirektion und die Heimkommissionen holen die Zustimmung der zuständigen Stellen der Direktion für Inneres und Justiz bzw. der Bildungs- und Kulturdirektion ein für Entscheide, die über das Jahr 2022 hinauswirken.
+
+[^T12-1]: BSG [862.61](https://www.belex.sites.be.ch/data/862.61/de)
 
 Bern, 30. Juni 2021
 
