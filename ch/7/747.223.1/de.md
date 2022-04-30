@@ -4,11 +4,11 @@ title: "Verordnung vom 17. März 1976 über die Schifffahrt auf dem Bodensee (Bo
 short: BSO
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338"
 language: de
-version: 2022-01-01
+version: 2022-05-01
 adopted: 1976-03-17
 in_force: 1976-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1976-1338_1338_1338-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/fedlex-data-admin-ch-eli-cc-1976-1338_1338_1338-20220501-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de"
 
 (Bodensee-Schifffahrts-Ordnung, BSO)[^t-1]
 
-vom 17. März 1976[^t-2] (Stand am 1. Januar 2022)
+vom 17. März 1976[^t-2] (Stand am 1. Mai 2022)
 
 [^t-1]: Fassung gemäss dem Beschluss der Internationalen Schifffahrtskommission vom 27. Juni 2001, genehmigt vom BR am 21. Nov. 2001, in Kraft seit 1. Jan. 2002 ([AS 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)).
 [^t-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
@@ -68,40 +68,21 @@ In dieser Verordnung gelten als:
 - m. *«fahrend» oder «in Fahrt befindlich»*: Fahrzeuge, Schwimmkörper oder schwimmende Anlagen, die weder unmittelbar noch mittelbar vor Anker liegen, am Ufer festgemacht oder festgefahren sind;
 - n. *«Nacht»*: der Zeitraum zwischen Sonnenuntergang und Sonnenaufgang;
 - o. *«Tag»*: der Zeitraum zwischen Sonnenaufgang und Sonnenuntergang;
-- p.[^002-1] *«Sportboot-Richtlinie»*: Richtlinie 94/25/EG[^002-2];
-- q.[^002-3]
+- p.[^002-1] *«Sportboot-Richtlinie»:* Richtlinie 2013/53/EU[^002-2];
+- q.[^002-3] *«wassergefährdende Stoffe»:* Stoffe und Gemische, die nach Anhang I Teil 4 der Verordnung (EG) Nr. 1272/2008[^002-4] als umweltgefährlich eingestuft werden und mit dem Gefahrenpiktogramm GHS09 sowie dem Gefahrenhinweis H400, H410 oder H411 zu kennzeichnen sind;
+- r.[^002-5] «gefährliche Güter»: Stoffe und Gegenstände, deren Beförderung gemäss der Anlage zum Europäischen Übereinkommen vom 26. Mai 2000[^002-6] über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstrassen (ADN), in der jeweils geltenden Fassung, und gemäss den Anlagen A und B des Europäischen Übereinkommens vom 30. September 1957[^002-7] über die internationale Beförderung gefährlicher Güter auf der Strasse (ADR), in der jeweils geltenden Fassung, verboten oder nur unter den in diesen Übereinkommen vorgesehenen Bedingungen gestattet ist;
+- s.[^002-8] *«Fähre»*: ein Fahrzeug, das für den Übersetzverkehr bestimmt ist oder hierfür verwendet wird;
+- t.[^002-9] *«unsichtiges Wetter»:* Bedingung, bei welcher die Sicht durch Nebel, Dunst, Schneefall, Starkregen oder ähnliche Wetterphänomene eingeschränkt ist.
 
-  *«wassergefährdende Stoffe»*: Stoffe und Gemische[^002-4], die:
-
-  - 1\.
-
-    nach Anhang I Teil 4 der Verordnung (EG) Nr. 1272/2008[^002-5] als umweltgefährlich eingestuft werden und mit dem Gefahrenpiktogramm GHS09 (Umwelt) sowie mindestens einem der folgenden Gefahrenhinweise zu kennzeichnen sind:
-
-    - – H400 sehr giftig für Wasserorganismen
-    - – H410 sehr giftig für Wasserorganismen mit langfristiger Wirkung oder
-    - – H411 giftig für Wasserorganismen mit langfristiger Wirkung,
-
-  - 2\.
-
-    nach der Richtlinie 67/548/EWG[^002-6] oder der Richtlinie 1999/45/EG[^002-7] als umweltgefährlich eingestuft werden, mit dem Symbol N, der Gefahrenbezeichnung «umweltgefährlich» und mindestens einem der folgenden Hinweise auf besondere Gefahren, auch in Kombination mit dem R‑Satz 53 (kann in Gewässern langfristig schädliche Wirkungen hervorrufen), zu kennzeichnen sind:
-
-    - – R50 sehr giftig für Wasserorganismen
-    - – R51 giftig für Wasserorganismen;
-
-- r.[^002-8] *«gefährliche Güter»*: Stoffe und Gegenstände, deren Beförderung gemäss der Anlage zum Europäischen Übereinkommen vom 26. Mai 2000[^002-9] über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstrassen (ADN), in der jeweils geltenden Fassung, und gemäss den Anlagen A und B des Europäischen Übereinkommens vom 30. September 1957[^002-10] über die internationale Beförderung gefährlicher Güter auf der Strasse (ADR), in der jeweils geltenden Fassung, verboten oder nur unter den in diesen Übereinkommen vorgesehenen Bedingungen gestattet ist;
-- s.[^002-11] *«Fähre»*: ein Fahrzeug, das für den Übersetzverkehr bestimmt ist oder hierfür verwendet wird.
-
-[^002-1]: Eingefügt durch den Beschluss der Internationalen Schifffahrtskommission vom 27. Juni 2001, genehmigt vom BR am 21. Nov. 2001 ([AS 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)). Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 18. April 2013, genehmigt vom BR am 23. Okt. 2013 und in Kraft seit 1. Jan. 2014 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
-[^002-2]: Richtlinie 94/25/EG des Europäischen Parlaments und des Rates vom 16. Juni 1994 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über Sportboote, ABl. L 164 vom 30.6.1994, S. 15; zuletzt geändert durch Verordnung (EG) Nr. 1137/2008, ABl. L 311 vom 21.11.2008, S. 1.
-[^002-3]: Eingefügt durch den Beschluss der Internationalen Schifffahrtskommission vom 23. Okt. 2003, genehmigt vom BR am 24. März 2004 ([AS 2004 2081](https://fedlex.data.admin.ch/eli/oc/2004/238)[2079](https://fedlex.data.admin.ch/eli/oc/2004/237)). Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 18. April 2013, genehmigt vom BR am 23. Okt. 2013 und in Kraft seit 1. Jan. 2014 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
-[^002-4]: Entspricht in der Schweiz der Zubereitung.
-[^002-5]: Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dez. 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006, ABl. L 353 vom 31.12.2008, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 618/2012, ABl. L 179 vom 11.7.2012, S. 3.
-[^002-6]: Richtlinie 67/548/EWG des Rates vom 27. Juni 1967 zur Angleichung der Rechts- und Verwaltungsvorschriften für die Einstufung, Verpackung und Kennzeichnung gefährlicher Stoffe, Fassung gemäss ABl. L 196 vom 16.8.1967, S. 1.
-[^002-7]: Richtlinie 1999/45/EG des Europäischen Parlaments und des Rates vom 31. Mai 1999 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten für die Einstufung, Verpackung und Kennzeichnung gefährlicher Zubereitungen, ABl. L 200 vom 30.7.1999, S. 1; zuletzt geändert durch Verordnung (EG) Nr. 1272/2008, ABl. L 353 vom 31.12.2008, S. 1.
-[^002-8]: Eingefügt durch den Beschluss der Internationalen Schifffahrtskommission vom 23. Okt. 2003, genehmigt vom BR am 24. März 2004 ([AS 2004 2081](https://fedlex.data.admin.ch/eli/oc/2004/238)[2079](https://fedlex.data.admin.ch/eli/oc/2004/237)). Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 18. April 2013, genehmigt vom BR am 23. Okt. 2013 und in Kraft seit 1. Jan. 2014 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
-[^002-9]: [SR 0.747.208](https://fedlex.data.admin.ch/eli/cc/2011/153). Die Anlage zum ADN wird nicht in der AS veröffentlicht. Sie kann beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen gratis eingesehen oder unter www.bav.admin.ch &gt; &gt; Rechtliches &gt; Weitere Rechtsgrundlagen und Vorschriften &gt; Internationale Vereinbarungen &gt; Europäisches Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstrassen (ADN 2015) abgerufen werden.
-[^002-10]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249). Die Anlagen zum ADR werden nicht in der AS veröffentlicht. Sie können beim Bundesamt für Strassen, Mühlestrasse 2, 3063 Ittigen gratis eingesehen oder unter www.astra.admin.ch &gt; Themen &gt; Schwerverkehr und Gefahrgut &gt; Gefährliche Güter &gt; Recht international abgerufen werden. Separatdrucke sind beim BBL, Verkauf Bundespublikationen, 3003 Bern, erhältlich.
-[^002-11]: Eingefügt durch den Beschluss der Internationalen Schifffahrtskommission vom 23. Okt. 2003, genehmigt vom BR am 24. März 2004, in Kraft seit 1. Mai 2004 ([AS 2004 2081](https://fedlex.data.admin.ch/eli/oc/2004/238)[2079](https://fedlex.data.admin.ch/eli/oc/2004/237)).
+[^002-1]: Eingefügt durch den Beschluss der Internationalen Schifffahrtskommission vom 27. Juni 2001, genehmigt vom BR am 21. Nov. 2001 ([AS 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)). Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
+[^002-2]: Richtlinie 2013/53/EU des Europäischen Parlaments und des Rates vom 20. November 2013 über Sportboote und Wassermotorräder und zur Aufhebung der Richtlinie 94/25/EG, Fassung gemäss ABl. Nr. L 354 vom 28.12.2013, S. 90.
+[^002-3]: Eingefügt durch den Beschluss der Internationalen Schifffahrtskommission vom 23. Okt. 2003, genehmigt vom BR am 24. März 2004 ([AS 2004 2081](https://fedlex.data.admin.ch/eli/oc/2004/238)[2079](https://fedlex.data.admin.ch/eli/oc/2004/237)). Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
+[^002-4]: Verordnung (EG) Nr. 1272/2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006, ABl. Nr. L 353 vom 31.12.2008, S. 1, zuletzt geändert durch delegierte Verordnung (EU) 2021/1962, ABl. Nr. L 400 vom 12.8.2021, S. 16.
+[^002-5]: Eingefügt durch den Beschluss der Internationalen Schifffahrtskommission vom 23. Okt. 2003, genehmigt vom BR am 24. März 2004 ([AS 2004 2081](https://fedlex.data.admin.ch/eli/oc/2004/238)[2079](https://fedlex.data.admin.ch/eli/oc/2004/237)). Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
+[^002-6]: [SR 0.747.208](https://fedlex.data.admin.ch/eli/cc/2011/153). Die Anlage zum ADN wird nicht in der AS veröffentlicht. Sie kann beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen gratis eingesehen oder unter www.bav.admin.ch &gt; Rechtliches &gt; Weitere Rechtsgrundlagen und Vorschriften &gt; Internationale Vereinbarungen &gt; Europäisches Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstrassen (ADN 2021) abgerufen werden.
+[^002-7]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249). Die Anlagen zum ADR werden nicht in der AS veröffentlicht. Sie können beim Bundesamt für Strassen, Mühlestrasse 2, 3063 Ittigen gratis eingesehen oder unter www.astra.admin.ch &gt; Fachleute und Verwaltung &gt; Fahrzeuge und Gefahrgut &gt; Gefährliche Güter &gt; Recht international (ADR 2021 Band I und Band II) abgerufen werden. Separatdrucke sind beim BBL, Verkauf Bundespublikationen, 3003 Bern, erhältlich.
+[^002-8]: Eingefügt durch den Beschluss der Internationalen Schifffahrtskommission vom 23. Okt. 2003, genehmigt vom BR am 24. März 2004, in Kraft seit 1. Mai 2004 ([AS 2004 2081](https://fedlex.data.admin.ch/eli/oc/2004/238)[2079](https://fedlex.data.admin.ch/eli/oc/2004/237)).
+[^002-9]: Eingefügt durch Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 
 ## Zweiter Teil: Verkehrsvorschriften
 
@@ -133,9 +114,9 @@ In dieser Verordnung gelten als:
 
 **Allgemeine Sorgfaltspflicht**
 
-<sup>1</sup> Über die Vorschriften dieser Verordnung hinaus haben die Schiffsführer alle Vorsichtsmassnahmen zu treffen, welche die allgemeine Sorgfaltspflicht oder die berufliche Übung gebieten, um insbesondere
+<sup>1</sup> zu vermeiden.
 
-zu vermeiden.
+Über die Vorschriften dieser Verordnung hinaus haben die Schiffsführer alle Vorsichtsmassnahmen zu treffen, welche die allgemeine Sorgfaltspflicht oder die Praxis der Schifffahrt gebieten, um insbesondere:[^103-1]
 
 - a. die Gefährdung oder Belästigung von Menschen;
 - b. Beschädigungen anderer Fahrzeuge oder Schwimmkörper, der Ufer und von Anlagen jeder Art in dem Gewässer und an dessen Ufer;
@@ -143,6 +124,8 @@ zu vermeiden.
 - d. eine Verunreinigung des Wassers oder eine sonstige nachteilige Veränderung seiner Eigenschaften
 
 <sup>2</sup> Absatz 1 gilt auch für Personen, unter deren Obhut schwimmende Anlagen gestellt sind.
+
+[^103-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 
 #### Art. 1.04
 
@@ -164,9 +147,11 @@ Bei unmittelbar drohender Gefahr müssen die Schiffsführer alle Massnahmen tref
 
 #### Art. 1.06
 
-**Urkunden**
+**Urkunden**[^106-1]
 
-Wenn für den Betrieb eines Fahrzeuges eine Zulassung oder für die Führung eines Fahrzeuges ein Schifferpatent erforderlich ist, müssen die entsprechenden Urkunden an Bord mitgeführt werden. Die Urkunden sind auf Verlangen den Organen der zuständigen Behörde vorzulegen.
+Wenn für den Betrieb eines Fahrzeuges eine Zulassung (Art. 14.01.) oder ein Bootsausweis (Art. 2.01 Abs. 3) oder für die Führung eines Fahrzeuges ein Schifferpatent (Art. 12.02) oder ein Radarpatent (Art. 6.12 Abs. 1 Bst. a) erforderlich ist, müssen die entsprechenden Urkunden an Bord mitgeführt werden. Die Urkunden sind auf Verlangen den Organen der zuständigen Behörde vorzulegen.
+
+[^106-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 
 #### Art. 1.07
 
@@ -189,6 +174,10 @@ Bemerkt der Schiffsführer ein Hindernis, das die Schifffahrt gefährden kann so
 <sup>1</sup> Es ist verboten von Fahrzeugen oder schwimmenden Anlagen aus Stoffe, die das Wasser verunreinigen oder die Eigenschaften des Wassers nachteilig verändern können, in das Gewässer einzubringen oder einzuleiten. Sind derartige Stoffe unbeabsichtigt in das Gewässer gelangt oder drohen sie, in das Gewässer zu gelangen, so muss der Schiffsführer unverzüglich die nächsterreichbare Polizeidienststelle benachrichtigen, sofern er nicht in der Lage ist, die Gefahr oder die Verunreinigung selbst zu beseitigen.
 
 <sup>2</sup> Wenn ein Schiffsführer oder eine Person, unter deren Obhut eine schwimmende Anlage gestellt ist, Kraftstoff, Öl oder sonstige wassergefährdende Stoffe im Gewässer feststellt, ist unverzüglich die nächsterreichbare Polizeidienststelle zu benachrichtigen.
+
+<sup>3</sup> Das Betanken von Fahrzeugen mit eingebautem Tank mittels Kanister oder einem anderen Betankungssystem ist nur mit selbstschliessenden oder manuell regelbaren Systemen zulässig, die ein Überlaufen oder Verschütten des Treibstoffs verhindern.[^109-1]
+
+[^109-1]: Eingefügt durch Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 
 #### Art. 1.10
 
@@ -247,12 +236,16 @@ Die Schiffsführer sowie Personen, unter deren Obhut schwimmende Anlagen gestell
 Jedes Fahrzeug muss mit einem von der Behörde zugeteilten Kennzeichen versehen sein, das auf beiden Seiten des Fahrzeuges an gut sichtbarer Stelle anzubringen ist. Ausgenommen hiervon sind:
 
 - a. Fahrzeuge, deren Länge, gemessen über alles, unter 2,50 m liegt und die nicht mit Maschinenantrieb ausgestattet sind;
-- b. Segelsurfbretter, Paddelboote und Rennruderboote, die nicht mit Maschinenantrieb ausgestattet sind.
+- b.[^201-2] Segelsurfbretter, Drachensegelbretter, Stand-Up-Paddles, Paddelboote und Rennruderboote, die nicht mit Maschinenantrieb ausgestattet sind.
 
-<sup>2</sup> Absatz 1 Satz 1 gilt als erfüllt bei einem Fahrzeug mit amtlichem Kennzeichen, das von einer für andere schiffbare Gewässer zuständigen Behörde eines Vertragsstaates des Übereinkommens 1. Juni 1973[^201-2] über die Schifffahrt auf dem Bodensee erteilt wurde.
+<sup>2</sup> Absatz 1 Satz 1 gilt als erfüllt bei einem Fahrzeug mit amtlichem Kennzeichen, das von einer für andere schiffbare Gewässer zuständigen Behörde eines Vertragsstaates des Übereinkommens 1. Juni 1973[^201-3] über die Schifffahrt auf dem Bodensee erteilt wurde.
 
-[^201-1]: Fassung gemäss dem Beschluss der Internationalen Schifffahrtskommission vom 29. April 1988, vom BR genehmigt am 21. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 207](https://fedlex.data.admin.ch/eli/oc/1989/207_207_207)[211](https://fedlex.data.admin.ch/eli/oc/1989/211_211_211)).
-[^201-2]: [SR 0.747.223.11](https://fedlex.data.admin.ch/eli/cc/1976/19_19_19)
+<sup>3</sup> Über die Zuteilung des Kennzeichens für ein nicht zulassungspflichtiges Fahrzeug wird eine Urkunde (Bootsausweis) ausgestellt; die Artikel 14.02, ausgenommen die Buchstaben f, g, i und l, und 14.07 gelten entsprechend.[^201-4]
+
+[^201-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
+[^201-2]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
+[^201-3]: [SR 0.747.223.11](https://fedlex.data.admin.ch/eli/cc/1976/19_19_19)
+[^201-4]: Eingefügt durch Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 
 #### Art. 2.02
 
@@ -264,33 +257,59 @@ Die Kennzeichen nach Artikel 2.01 sind in gut lesbaren lateinischen Schriftzeich
 
 #### Art. 3.01
 
-**Lichter**
+**Lichter**[^301-1]
 
-<sup>1</sup> Die in dieser Verordnung vorgeschriebenen Lichter müssen ihrer Funktion entsprechend sichtbar sein und ein gleichmässiges, ununterbrochenes Licht werfen. Die Lichter müssen so angebracht sein, dass sie den Schiffsführer nicht blenden.[^301-1]
+<sup>1</sup> Die in dieser Verordnung vorgeschriebenen Lichter müssen ihrer Funktion entsprechend sichtbar sein und ein gleichmässiges, ununterbrochenes Licht werfen. Die Lichter müssen so angebracht sein, dass sie den Schiffsführer nicht blenden und sie dürfen nicht durch feste Aufbauten oder zusätzliche Geräte unter üblichen Betriebsbedingungen verdeckt werden.
 
-<sup>2</sup> Die Sichtweite muss in dunkler Nacht bei klarer Luft etwa betragen:
+<sup>2</sup> In dieser Verordnung gelten als
+
+Auf Fahrzeugen mit Maschinenantrieb mit einer Rumpflänge von weniger als 12 m darf das Topp- oder das Rundumlicht seitlich aus der Mittellängsebene versetzt angebracht sein, sofern das Anbringen in der Mittellängsebene nicht möglich ist. In diesem Fall muss ein Kombinations-Seitenlicht in der Mittellängsebene des Fahrzeuges oder so nahe wie möglich der Längsebene angebracht sein, in der das seitlich versetzte Topp- oder Rundumlicht montiert ist.
+
+- a. *«Topplicht»* (Buglicht): ein weisses helles Licht, das über einen Horizontbogen von 225° sichtbar sein muss, und zwar 112°30' nach jeder Seite, d. h. von vorne bis beiderseits 22°30' hinter die Querschiffslinie, und nur in diesem Bogen sichtbar sein darf; das Topplicht muss in der Mittellängsebene des Fahrzeuges angebracht sein;
+- b. *«Seitenlichter»:* an Steuerbord ein grünes helles Licht und an Backbord ein rotes, helles Licht, von denen jedes über einen Horizontbogen von 112°30' sichtbar sein muss, d. h. von vorne bis 22°30' hinter die Querschiffslinie, und nur in diesem Bogen sichtbar sein darf; die Seitenlichter müssen in gleicher Höhe über der Wasserlinie angebracht sein;
+- c. *«Hecklicht»:* ein weisses gewöhnliches Licht oder ein weisses, helles Licht, das über einen Horizontbogen von 135° sichtbar sein muss, und zwar 67°30' von hinten nach jeder Seite, und nur in diesem Bogen sichtbar sein darf; das Hecklicht muss so nahe wie möglich am Heck des Fahrzeuges angebracht sein;
+- d. *«Weisses* *Rundumlicht»:* ein weisses, von allen Seiten sichtbares (360°) gewöhnliches Licht; das weisse Rundumlicht muss in der Mittellängsebene des Fahrzeuges angebracht sein;
+- e. *«Kombinations-Seitenlicht»:* eine Leuchte, in der die Seitenlichter zusammengefasst sind; das Kombinations-Seitenlicht muss in der Mittellängsebene des Fahrzeuges angebracht sein;
+- f. *«Dreifarben-Topplicht»:* eine Leuchte, in der die Seitenlichter sowie das Hecklicht zusammengefasst sind; das Dreifarben-Topplicht muss am oder möglichst nahe am Masttopp angebracht sein.
+
+<sup>3</sup> Die Sichtweite der Lichter hat in dunkler Nacht bei klarer Luft zu betragen:
 
 <table>
-<tr><td>Art des Lichtes</td><td>weiss</td><td>rot oder grün</td></tr>
-<tr><td>hell</td><td>4 km</td><td>3 km</td></tr>
-<tr><td>gewöhnlich</td><td>2 km</td><td>1,5 km</td></tr>
+<tr><td>a. weisses helles Licht</td><td>4 km (2,2 Seemeilen)</td></tr>
+<tr><td>b. rotes oder grünes helles Licht</td><td>3 km (1,6 Seemeilen)</td></tr>
+<tr><td>c. weisses gewöhnliches Licht</td><td>2 km (1,1 Seemeilen)</td></tr>
+<tr><td>d. rotes oder grünes gewöhnliches Licht</td><td>1,5 km (0,8 Seemeilen)</td></tr>
 </table>
 
-<sup>3</sup>
+<sup>4</sup>
 
-In dieser Verordnung gelten als:
+Abweichend von den Absätzen 2 und 3 hat die Sichtweite der Lichter auf Fahrzeugen, die nach dem 30. April 2022 erstmals am Bodensee zugelassen werden, in dunkler Nacht bei klarer Luft zu betragen:
 
-- a. «Topplicht» (Buglicht): ein weisses, helles Licht, das über einen Horizontbogen von 225° sichtbar sein muss, und zwar 112°30’ nach jeder Seite (d. h. von vorn bis beiderseits 22°30’ hinter die Querschiffslinie), und nur in diesem Bogen sichtbar sein darf;
-- b. «Seitenlichter»: an Steuerbord ein grünes, helles Licht und an Backbord ein rotes, helles Licht, von denen jedes über einen Horizontbogen von 112°30’ sichtbar sein muss (d. h. von vorne bis 22°30’ hinter die Querschiffslinie), und nur in diesem Bogen sichtbar sein darf, wobei sie in gleicher Höhe und in einer Ebene senkrecht zur Längsebene des Fahrzeuges gesetzt werden müssen;
-- c. «Hecklicht»: ein weisses, gewöhnliches Licht oder ein weisses, helles Licht, das über einen Horizontbogen von 135° sichtbar sein muss, und zwar 67°30’ von hinten nach jeder Seite, und nur in diesem Bogen sichtbar sein darf;
-- d. «Weisses Rundumlicht»: ein weisses, von allen Seiten sichtbares (360°), gewöhnliches Licht;
-- e.[^301-2] «Zweifarben-Leuchte»: eine Leuchte, in der die Seitenlichter zusammengefasst sind und die im vorderen Bereich in der Mittellängsebene des Fahrzeuges anzubringen ist;
-- f.[^301-3] «Dreifarben-Leuchte»: eine Leuchte, in der die Seitenlichter sowie das Hecklicht zusammengefasst sind und die am Masttopp anzubringen ist.[^301-4]
+- a. auf Fahrzeugen mit einer Rumpflänge von weniger als 12 m:
 
-[^301-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 16. Juni 2005, genehmigt vom BR am 2. Dez. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
-[^301-2]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 16. Juni 2005, genehmigt vom BR am 2. Dez. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
-[^301-3]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 16. Juni 2005, genehmigt vom BR am 2. Dez. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
-[^301-4]: Eingefügt durch den Beschluss der Internationalen Schifffahrtskommission vom 23. Juni 1995, vom BR genehmigt am 29. Nov. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+<table>
+<tr><td>1. Seitenlichter oder Kombinations-Seitenlicht</td><td>1,85 km (1 Seemeile)</td></tr>
+<tr><td>2. Topplicht, Hecklicht und weisses Rundumlicht</td><td>3,7 km (2 Seemeilen)</td></tr>
+<tr><td>3. beim Dreifarben-Topplicht</td><td></td></tr>
+<tr><td>– für den Backbord- und Steuerbordsektor</td><td>1,85 km (1 Seemeile)</td></tr>
+<tr><td>– für den Hecklichtsektor</td><td>3,7 km (2 Seemeilen)</td></tr>
+</table>
+
+- b. auf Fahrzeugen mit einer Rumpflänge von 12 m oder mehr, aber weniger als 20 m:
+
+<table>
+<tr><td>1. Seitenlichter, Kombinations-Seitenlicht, Hecklicht und alle Sektoren des Dreifarben-Topplichtes</td><td>3,7 km (2 Seemeilen)</td></tr>
+<tr><td>2. Topplicht</td><td>5,55 km (3 Seemeilen)</td></tr>
+</table>
+
+- c. auf Fahrzeugen mit einer Rumpflänge von 20 m oder mehr:
+
+<table>
+<tr><td>1. Seitenlichter und Hecklicht</td><td>3,7 km (2 Seemeilen)</td></tr>
+<tr><td>2. Topplicht</td><td>9,25 km (5 Seemeilen)</td></tr>
+</table>
+
+[^301-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 
 #### Art. 3.02
 
@@ -312,11 +331,15 @@ In dieser Verordnung gelten als:
 
 #### Art. 3.04
 
-**Ersatzlichter**
+**Ersatz und Umrüstung bestehender Lichter**[^304-1]
 
-<sup>1</sup> Wenn in dieser Verordnung vorgeschriebene Lichter ausfallen, müssen unverzüglich Ersatzlichter gesetzt werden. Hierbei kann als Ersatzlicht für ein vorgeschriebenes helles Licht ein gewöhnliches Licht geführt werden. Die Lichter mit der vorgeschriebenen Stärke sind so schnell wie möglich wieder zu setzen.
+<sup>1</sup> Fallen in dieser Verordnung vorgeschriebene Lichter aus, so müssen unverzüglich Ersatzlichter gesetzt werden. Hierbei kann als Ersatzlicht für ein vorgeschriebenes helles Licht ein gewöhnliches Licht geführt werden. Die Lichter mit der gemäss Artikel 3.01 Absatz 4 vorgeschriebenen Stärke sind so schnell wie möglich wieder zu setzen.
 
-<sup>2</sup> Ist bei einem Fahrzeug mit Maschinenantrieb das Setzen von Ersatzlichtern nicht unverzüglich möglich, so muss anstelle der Ersatzlichter ein von allen Seiten sichtbares weisses gewöhnliches Licht geführt werden.
+<sup>2</sup> Ist bei einem Fahrzeug mit Maschinenantrieb das Setzen von Ersatzlichtern nicht unverzüglich möglich, so muss anstelle der Ersatzlichter ein weisses Rundumlicht geführt werden.
+
+<sup>3</sup> Bei Fahrzeugen, die vor dem 1. Mai 2022 bereits am Bodensee zugelassen waren und noch nicht über Lichter verfügen, deren Sichtweite den Anforderungen in Artikel 3.01 Absatz 4 entspricht, müssen beim Ausfall eines Lichtes sämtliche Lichter in ihrer Gesamtheit möglichst rasch auf Lichter mit einer Sichtweite umgerüstet werden, die den Anforderungen in Artikel 3.01 Absatz 4 entspricht; eine freiwillige Umrüstung ist bei diesen Fahrzeugen jederzeit möglich.
+
+[^304-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 
 #### Art. 3.05
 
@@ -339,36 +362,59 @@ Fahrzeuge mit Maschinenantrieb müssen während der Fahrt bei Nacht oder bei uns
 - b. Seitenlichter;
 - c. Hecklicht.
 
-<sup>2</sup> Bei Fahrzeugen der Berufsfischer und bei Vergnügungsfahrzeugen mit Maschinenantrieb können anstelle der hellen Lichter auch gewöhnliche Lichter geführt, die Seitenlichter durch eine Zweifarbenleuchte und Topplicht und Hecklicht durch ein weisses Rundumlicht ersetzt werden.
+<sup>2</sup> Bei Fahrzeugen der Berufsfischer und Vergnügungsfahrzeugen mit Maschinenantrieb, die vor dem 1. Mai 2022 bereits am Bodensee zugelassen waren und noch nicht über Lichter verfügen, deren Sichtweite den Anforderungen in Artikel 3.01 Absatz 4 entspricht, können anstelle der hellen Lichter auch gewöhnliche Lichter, anstelle der Seitenlichter ein Kombinations-Seitenlicht und anstelle von Topplicht und Hecklicht ein weisses Rundumlicht geführt werden.
 
-<sup>3</sup> Bei Fahrzeugen mit Maschinenantrieb bis 4,4 kW, Fahrzeugen der Berufsfischer am Netz, Vergnügungsfahrzeugen und Fahrzeugen der Berufsfischer mit Zulassungsbeschränkung für die Strecke zwischen Stein am Rhein (Brücke) und Schaffhausen, deren Maschinenleistung nicht mehr als 30 kW beträgt, ist ein weisses Rundumlicht ausreichend.
+<sup>3</sup>
 
-<sup>4</sup> Fahrzeuge ohne Maschinenantrieb müssen während der Fahrt bei Nacht und bei unsichtigem Wetter Seitenlichter und ein Hecklicht oder eine Zweifarben-Leuchte und ein Hecklicht oder ein weisses Rundumlicht führen.
+Ein weisses Rundumlicht ist ausreichend auf:
 
-<sup>5</sup> Bei Segelfahrzeugen mit oder ohne Maschinenantrieb können die Seitenlichter und das Hecklicht durch eine Dreifarben-Leuchte ersetzt werden.
+- a. Fahrzeugen, deren Antriebsleistung nicht mehr als 4.4 kW beträgt;
+- b. Vergnügungsfahrzeugen, deren Rumpflänge 7 m und deren Geschwindigkeit über Grund 13 km/h (7 Knoten) nicht übersteigt, sofern dies in der Zulassungsurkunde eingetragen ist;
+- c. Fahrzeugen der Berufsfischer am Netz; und
+- d. Fahrzeugen der Berufsfischer und Vergnügungsfahrzeugen mit Zulassungsbeschränkung auf der Strecke zwischen Stein am Rhein (Brücke) und Schaffhausen, deren Maschinenleistung nicht mehr als 30 kW beträgt.
 
-[^306-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 16. Juni 2005, genehmigt vom BR am 2. Dez. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+<sup>4</sup> Segelfahrzeuge mit Maschinenantrieb mit Lichterführung gemäss Buchstabe a können anstelle der Seitenlichter und des Hecklichtes ein Dreifarben-Topplicht führen.
+
+Vergnügungsfahrzeuge mit Maschinenantrieb können bei Nacht und bei unsichtigem Wetter führen:
+
+- a. Seitenlichter, ein Topplicht und ein Hecklicht;
+- b. ein Kombinations-Seitenlicht, ein Topplicht und ein Hecklicht;
+- c. ein Kombinations-Seitenlicht und ein weisses Rundumlicht; oder
+- d. Seitenlichter und ein weisses Rundumlicht.
+
+<sup>5</sup> Fahrzeuge ohne Maschinenantrieb müssen bei Nacht und bei unsichtigem Wetter ein weisses Rundumlicht führen.
+
+<sup>6</sup>
+
+Segelfahrzeuge, die nur unter Segel fahren, müssen bei Nacht und bei unsichtigem Wetter führen:
+
+- a. Seitenlichter und ein Hecklicht;
+- b. ein Kombinations-Seitenlicht und ein Hecklicht;
+- c. ein Dreifarben-Topplicht;
+- d. ein weisses Rundumlicht; oder
+- e. Seitenlichter, Hecklicht und zwei senkrecht übereinander angebrachte Rundumlichter an der am besten sichtbaren Stelle, das obere rot, das untere grün.
+
+[^306-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 
 #### Art. 3.07
 
-**Zusätzliche Bezeichnung der Vorrangfahrzeuge während der Fahrt bei Nacht oder bei unsichtigem Wetter[^307-1]**
+**Zusätzliche Bezeichnung der Vorrangfahrzeuge während der Fahrt bei Nacht oder bei unsichtigem Wetter**[^307-1]
 
-Vorrangfahrzeuge müssen ausser den nach Artikel 3.06 vorgeschriebenen Lichtern ein von allen Seiten sichtbares grünes helles Licht an geeigneter Stelle und mindestens 1m höher als das Topplicht (Buglicht) nach Artikel 3.06 Absatz 1 Buchstabe a führen.
+Vorrangfahrzeuge müssen ausser den nach Artikel 3.06 vorgeschriebenen Lichtern ein grünes helles Rundumlicht an geeigneter Stelle und mindestens 1 m höher als das Topplicht (Buglicht) nach Artikel 3.06 Absatz 1 Buchstabe a führen.
 
-[^307-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 16. Juni 2005, genehmigt vom BR am 2. Dez. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+[^307-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 
 #### Art. 3.08
 
-**Bezeichnung der Fahrzeuge und schwimmenden Anlagen beim Stillliegen bei Nacht oder bei unsichtigem Wetter[^308-1]**
+**Bezeichnung der Fahrzeuge und schwimmenden Anlagen beim Stillliegen bei Nacht oder bei unsichtigem Wetter**[^308-1]
 
-<sup>1</sup> Wenn Fahrzeuge und schwimmende Anlagen bei Nacht oder bei unsichtigem Wetter stillliegen, müssen sie ein von allen Seiten sichtbares weisses gewöhnliches Licht führen.[^308-2]
+<sup>1</sup> Liegen Fahrzeuge und schwimmende Anlagen bei Nacht oder bei unsichtigem Wetter still, so müssen sie ein weisses Rundumlicht führen.
 
 <sup>2</sup> Absatz 1 gilt nicht für Fahrzeuge und schwimmende Anlagen, die sich an einem behördlich zugelassenen Liegeplatz befinden oder die unmittelbar oder mittelbar am Ufer festgemacht sind.
 
-<sup>3</sup> Fahrzeuge und schwimmende Anlagen, deren Verankerungen die Schifffahrt gefährden können, müssen ausser dem nach Absatz 1 vorgeschriebenen Licht mindestens 1m unter diesem ein zweites, von allen Seiten sichtbares weisses gewöhnliches Licht führen. Soweit es die Sicherheit der Schifffahrt erfordert, sind ausserdem die Verankerungen einzeln mit weissen Lichtern zu kennzeichnen.
+<sup>3</sup> Fahrzeuge und schwimmende Anlagen, deren Verankerungen die Schifffahrt gefährden können, müssen ausser dem nach Absatz 1 vorgeschriebenen Licht mindestens 1 m unter diesem ein zweites, weisses Rundumlicht führen. Soweit es die Sicherheit der Schifffahrt erfordert, sind ausserdem die Verankerungen einzeln mit weissen Lichtern zu kennzeichnen.
 
-[^308-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 16. Juni 2005, genehmigt vom BR am 2. Dez. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
-[^308-2]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 16. Juni 2005, genehmigt vom BR am 2. Dez. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+[^308-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 
 #### Art. 3.09
 
@@ -428,7 +474,9 @@ Die in dieser Verordnung vorgesehenen Schallzeichen (Anlage A) müssen in Tönen
 
 **Schallzeichen der Fahrzeuge**
 
-<sup>1</sup> Vorbehaltlich der in dieser Verordnung sonst vorgeschriebenen Schallzeichen müssen Fahrzeuge mit Maschinenantrieb, wenn die Sicherheit der Schifffahrt dies erfordert, die nachstehenden Schallzeichen geben. Dabei bedeutet
+<sup>1</sup>
+
+Vorbehaltlich der in dieser Verordnung sonst vorgeschriebenen Schallzeichen müssen Fahrzeuge mit Maschinenantrieb, wenn die Sicherheit der Schifffahrt dies erfordert, die nachstehenden Schallzeichen geben. Dabei bedeutet:
 
 - a. ein langer Ton: «Achtung» oder «Ich halte meinen Kurs bei»;
 - b. ein kurzer Ton: «Ich richte meinen Kurs nach Steuerbord»;
@@ -537,14 +585,18 @@ Fahrzeugen, die das blaue Blinklicht nach Artikel 3.12 zeigen, müssen andere Fa
 
 #### Art. 6.05
 
-**Ausweichpflichtige Fahrzeuge**
+**Ausweichpflichtige Fahrzeuge**[^605-1]
 
-Abweichend von Artikel 6.04 und unbeschadet des Artikels 6.03 müssen beim Begegnen und Überholen ausweichen
+Abweichend von Artikel 6.04 und unbeschadet des Artikels 6.03 müssen beim Begegnen und Überholen ausweichen:
 
-- a. den Vorrangfahrzeugen und Schleppverbänden alle anderen Fahrzeuge;
-- b. den Fahrzeugen der Berufsfischer, welche den Ball nach Artikel 3.10 Absatz 1 führen, alle Fahrzeuge, ausgenommen Vorrangfahrzeuge und Schleppverbände;
-- c. den Segelfahrzeugen alle Fahrzeuge, ausgenommen Vorrangfahrzeuge, Schleppverbände und Fahrzeuge der Berufsfischer, welche den Ball nach Artikel 3.10 Absatz 1 führen;
-- d. den Ruderbooten Fahrzeuge mit Maschinenantrieb, ausgenommen Vorrangfahrzeuge, Schleppverbände sowie Fahrzeuge der Berufsfischer, welche den Ball nach Artikel 3.10 Absatz 1 führen.
+- a. den Vorrangfahrzeugen und Schleppverbänden: alle anderen Fahrzeuge;
+- b. den Güterschiffen: alle Fahrzeuge, ausgenommen Vorrangfahrzeuge und Schleppverbände;
+- c. den Fahrzeugen der Berufsfischer, welche den Ball nach Artikel 3.10 Absatz 1 führen: alle Fahrzeuge, ausgenommen Vorrangfahrzeuge, Schleppverbände und Güterschiffe;
+- d. den Segelfahrzeugen: alle Fahrzeuge, ausgenommen Vorrangfahrzeuge, Schleppverbände, Güterschiffe und Fahrzeuge der Berufsfischer, welche den Ball nach Artikel 3.10 Absatz 1 führen;
+- e. den Ruderbooten: Fahrzeuge mit Maschinenantrieb, ausgenommen Vorrangfahrzeuge, Schleppverbände, Güterschiffe sowie Fahrzeuge der Berufsfischer, welche den Ball nach Artikel 3.10 Absatz 1 führen;
+- f. allen anderen Fahrzeugen: Segelsurfbretter und Drachensegelbretter.
+
+[^605-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 
 #### Art. 6.06
 
@@ -632,18 +684,19 @@ Bei der Führung eines Fahrzeuges kann Radar als Navigationshilfe verwendet werd
 
 **Fahrt bei unsichtigem Wetter, Starkwind und Sturm[^613-1]**
 
-<sup>1</sup> Bei unsichtigem Wetter (z. B. Nebel, Schneetreiben) dürfen Fahrzeuge, welche die nach Artikel 6.14 vorgeschriebenen Schallzeichen nicht geben können, nicht ausfahren. Befinden sich solche Fahrzeuge beim Eintreten unsichtigen Wetters auf dem Gewässer, so müssen sie die Häfen oder die Nähe des Ufers so rasch aufsuchen, als es die Umstände zulassen.
+<sup>1</sup> Bei unsichtigem Wetter dürfen Fahrzeuge, welche die nach Artikel 6.14 vorgeschriebenen Schallzeichen nicht geben können, nicht ausfahren. Befinden sich solche Fahrzeuge beim Eintreten unsichtigen Wetters auf dem Gewässer, so müssen sie die Häfen oder die Nähe des Ufers so rasch aufsuchen, als es die Umstände zulassen.[^613-2]
 
-<sup>2</sup> Bei unsichtigem Wetter müssen Fahrzeuge, bei denen die Entfernung zwischen Steuerstand und Bug mehr als 15 m beträgt, Radar nach Artikel 6.12 benützen. Andere Fahrzeuge müssen ihre Geschwindigkeit entsprechend der verminderten Sicht herabsetzen; dies gilt nicht für Fahrzeuge, die sich in Radarfahrt nach Artikel 6.12 befinden.[^613-2]
+<sup>2</sup> Bei unsichtigem Wetter müssen Fahrzeuge, bei denen die Entfernung zwischen Steuerstand und Bug mehr als 15 m beträgt, Radar nach Artikel 6.12 benützen. Andere Fahrzeuge müssen ihre Geschwindigkeit entsprechend der verminderten Sicht herabsetzen; dies gilt nicht für Fahrzeuge, die sich in Radarfahrt nach Artikel 6.12 befinden.[^613-3]
 
-<sup>3</sup> …[^613-3]
+<sup>3</sup> Der Schiffsführer eines Fahrzeuges, der ein anderes Schiff lediglich durch Radar ortet, muss feststellen, ob sich die Gefahr einer Kollision beider Schiffe ergeben könnte. Ist dies der Fall, so muss er unverzüglich Funkkontakt aufnehmen. Kann der Sprechfunkkontakt mit dem anderen Fahrzeug nicht aufgenommen werden, so ist das Schallzeichen gemäss Artikel 4.02 Absatz 1 Buchstabe a zu geben und sind weitere geeignete Massnahmen zur Kollisionsverhütung zu treffen.[^613-4]
 
-<sup>4</sup> Bereits bei Starkwind- und Sturmwarnung (Anlage B Buchstaben H.1 und H.2) muss der Schiffsführer die durch die Umstände gebotenen Massnahmen treffen (Artikel 1.03 und 1.04).[^613-4]
+<sup>4</sup> Bereits bei Starkwind- und Sturmwarnung (Anlage B Buchstaben H.1 und H.2) muss der Schiffsführer die durch die Umstände gebotenen Massnahmen treffen (Artikel 1.03 und 1.04).[^613-5]
 
 [^613-1]: Fassung gemäss dem Beschluss der Internationalen Schifffahrtskommission vom 27. Juni 2001, genehmigt vom BR am 21. Nov. 2001, in Kraft seit 1. Jan. 2002 ([AS 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)).
-[^613-2]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 18. April 2013, genehmigt vom BR am 23. Okt. 2013 und in Kraft seit 1. Jan. 2014 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
-[^613-3]: Aufgehoben durch Beschluss der Internationalen Schifffahrtskommission vom 16. Juni 2005, genehmigt vom BR am 2. Dez. 2005, mit Wirkung seit 1. Jan. 2006 ([AS 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
-[^613-4]: Eingefügt durch den Beschluss der Internationalen Schifffahrtskommission vom 27. Juni 2001, genehmigt vom BR am 21. Nov. 2001, in Kraft seit 1. Jan. 2002 ([AS 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)).
+[^613-2]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
+[^613-3]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 18. April 2013, genehmigt vom BR am 23. Okt. 2013 und in Kraft seit 1. Jan. 2014 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+[^613-4]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
+[^613-5]: Eingefügt durch den Beschluss der Internationalen Schifffahrtskommission vom 27. Juni 2001, genehmigt vom BR am 21. Nov. 2001, in Kraft seit 1. Jan. 2002 ([AS 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)).
 
 #### Art. 6.14
 
@@ -659,23 +712,23 @@ Bei der Führung eines Fahrzeuges kann Radar als Navigationshilfe verwendet werd
 
 #### Art. 6.15
 
-**Fahren mit Wasserski oder ähnlichen Geräten**
+**Fahren mit Wasserski oder ähnlichen Geräten**[^615-1]
 
-<sup>1</sup> Das Fahren mit Wasserski oder ähnlichen Geräten ist nur bei Tag und klarer Sicht gestattet.
+<sup>1</sup> Das Fahren mit Wasserski oder ähnlichen Geräten, ist nur bei Tag und klarer Sicht gestattet, darunter fallen auch Geräte wie Wakesurfbretter, die auf der Heckwelle eines vorausfahrenden Fahrzeuges fahren.
 
 <sup>2</sup> In der Uferzone ist das Fahren mit Wasserski oder ähnlichen Geräten verboten. Die zuständige Behörde kann Ausnahmen für bestimmte Bereiche (Startgassen) zulassen und dabei auch die zulässige Geschwindigkeit abweichend von Artikel 6.11 Absatz 1 regeln.
 
-<sup>3</sup> Der Schiffsführer des schleppenden Fahrzeuges muss in Begleitung einer geeigneten Person sein, die das Schleppseil und den Wasserskifahrer zu beobachten hat.
+<sup>3</sup> Der Schiffsführer des vorausfahrenden Fahrzeuges muss in Begleitung einer geeigneten Person sein, die das Schleppseil und den Wassersportler beobachtet.
 
-<sup>4</sup> Das schleppende Fahrzeug und der Wasserskifahrer müssen einen Abstand von mindestens 50 m von anderen Fahrzeugen und von Badenden halten. Das Schleppseil darf nicht elastisch sein und nicht leer im Wasser nachgezogen werden.
+<sup>4</sup> Das vorausfahrende Fahrzeug und der Wassersportler müssen einen Abstand von mindestens 50 m von anderen Fahrzeugen und von Badenden halten. Das Schleppseil darf nicht elastisch sein und nicht leer im Wasser nachgezogen werden.
 
-<sup>5</sup> Das gleichzeitige Schleppen von mehr als zwei Wasserskifahrern ist verboten.
+<sup>5</sup> Das gleichzeitige Schleppen von mehr als zwei Wassersportlern ist verboten.
 
-<sup>6</sup> Das Schleppen von Flugkörpern (Flugdrachen, Drachenfallschirmen und ähnlichen Geräten) ist verboten.
+<sup>6</sup> Das Schleppen von Flugkörpern, wie Flugdrachen, Drachenfallschirmen und ähnlichen Geräten, ist verboten
 
-<sup>7</sup> Das Fahren mit Aqua-Scootern, Jet-Bikes und ähnlichen Schwimmkörpern ist verboten.[^615-1]
+<sup>7</sup> Das Fahren mit Aqua-Scootern, Wassermotorrädern oder ähnlichen Schwimmkörpern jeglicher Antriebsart sowie der Betrieb von Sportgeräten mit Wasserstrahlantrieb, der von einem anderen Fahrzeug oder Schwimmkörper zur Verfügung gestellt wird, ist verboten.
 
-[^615-1]: Eingefügt durch Beschluss der Internationalen Schifffahrtskommission vom 16. Juni 2005, genehmigt vom BR am 2. Dez. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+[^615-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 
 #### Art. 6.16
 
@@ -719,13 +772,14 @@ Die Beförderung von wassergefährdenden Stoffen und von gefährlichen Gütern i
 
 **Ausnahmen für die Beförderung von gefährlichen Gütern, die als wassergefährdende Stoffe zu behandeln sind**[^802-1]
 
-Artikel 8.01 gilt nicht für die Beförderung von wassergefährdenden Stoffen und gefährlichen Gütern nach:
+Artikel 8.01 gilt nicht für die Beförderung von wassergefährdenden Stoffen und gefährlichen Gütern:
 
-- a. Unterabschnitt 1.1.3.1 Buchstabe a der Anlage zum ADN[^802-2]; und
-- b. Unterabschnitt 1.1.3.3 der Anlage zum ADN, wobei der Begriff Fahrzeug nach der vorliegenden Verordnung dem Begriff Schiff nach der Anlage zum ADN gleichgestellt ist.
+- a. gemäss Unterabschnitt 1.1.3.1 Buchstabe a und 1.1.3.7 der Anlage zum ADN[^802-2], wobei die Bestimmungen auch für Beförderungen durch Fahrgäste und Besatzungsmitglieder anwendbar sind;
+- b. gemäss Unterabschnitt 1.1.3.3 der Anlage zum ADN, wobei der Begriff Fahrzeug nach der vorliegenden Verordnung dem Begriff Schiff im ADN gleichgestellt ist;
+- c. deren Beförderung gemäss den Sondervorschriften in Abschnitt 3.3.1 der Anlage zum ADN nicht den übrigen Vorschriften des ADN unterliegt.
 
-[^802-1]: Eingefügt durch Beschluss der Internationalen Schifffahrtskommission vom 18. April 2013, genehmigt vom BR am 23. Okt. 2013 und in Kraft seit 1. Jan. 2014 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
-[^802-2]: [SR 0.747.208](https://fedlex.data.admin.ch/eli/cc/2011/153). Die Anlage zum ADN wird nicht in der AS veröffentlicht. Sie kann beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen gratis eingesehen oder unter www.bav.admin.ch &gt; &gt; Rechtliches &gt; Weitere Rechtsgrundlagen und Vorschriften &gt; Internationale Vereinbarungen &gt; Europäisches Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstrassen (ADN 2015) abgerufen werden.
+[^802-1]: Eingefügt durch Beschluss der Internationalen Schifffahrtskommission vom 18. April 2013, genehmigt vom BR am 23. Okt. 2013 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)). Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
+[^802-2]: [SR 0.747.208](https://fedlex.data.admin.ch/eli/cc/2011/153). Die Anlage zum ADN wird nicht in der AS veröffentlicht. Sie kann beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen gratis eingesehen oder unter www.bav.admin.ch &gt; Rechtliches &gt; Weitere Rechtsgrundlagen und Vorschriften &gt; Internationale Vereinbarungen &gt; Europäisches Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstrassen (ADN 2021) abgerufen werden.
 
 #### Art. 8.03
 
@@ -733,12 +787,14 @@ Artikel 8.01 gilt nicht für die Beförderung von wassergefährdenden Stoffen un
 
 Artikel 8.01 gilt nicht für die Beförderung der folgenden gefährlichen Güter, sofern es nicht wassergefährdende Stoffe sind und sie mit Kraftfahrzeugen auf für die Beförderung von gefährlichen Gütern zugelassenen Fähren transportiert werden:
 
-- a. Güter nach Unterabschnitt 1.1.3.1 Buchstaben b, c und e der Anlage A zum ADR[^803-2];
-- b. Güter nach Unterabschnitt 1.1.3.2 Buchstaben a, b, d, e und f der Anlage A zum ADR; und
-- c. Güter nach Unterabschnitt 1.1.3.3 der Anlage A zum ADR.
+- a. Güter nach Unterabschnitt 1.1.3.1 Buchstaben c und e der Anlage A zum ADR[^803-2];
+- b. Güter nach Unterabschnitt 1.1.3.2 Buchstaben a und d–f der Anlage A zum ADR;
+- c. Güter nach Unterabschnitt 1.1.3.3 Anlage A zum ADR;
+- d. gemäss Unterabschnitt 1.1.3.7 der Anlage A zum ADR;
+- e. deren Beförderung gemäss den Sondervorschriften in Abschnitt 3.3.1 der Anlage B zum ADR nicht den übrigen Vorschriften des ADR unterliegt.
 
-[^803-1]: Eingefügt durch Beschluss der Internationalen Schifffahrtskommission vom 18. April 2013, vom BR genehmigt am 23. Okt. 2013 und in Kraft seit 1. Jan. 2014 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
-[^803-2]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249). Die Anlagen zum ADR werden nicht in der AS veröffentlicht. Sie können beim Bundesamt für Strassen, Mühlestrasse 2, 3063 Ittigen gratis eingesehen oder unter www.astra.admin.ch &gt; Themen &gt; Schwerverkehr und Gefahrgut &gt; Gefährliche Güter &gt; Recht international abgerufen werden. Separatdrucke sind beim BBL, Verkauf Bundespublikationen, 3003 Bern erhältlich.
+[^803-1]: Eingefügt durch Beschluss der Internationalen Schifffahrtskommission vom 18. April 2013, genehmigt vom BR am 23. Okt. 2013 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)). Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
+[^803-2]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249). Die Anlagen zum ADR werden nicht in der AS veröffentlicht. Sie können beim Bundesamt für Strassen, Mühlestrasse 2, 3063 Ittigen gratis eingesehen oder unter www.astra.admin.ch &gt; Fachleute und Verwaltung &gt; Fahrzeuge und Gefahrgut &gt; Gefährliche Güter &gt; Recht international (ADR 2021 Band I und Band II) abgerufen werden.
 
 ### Abschnitt IX: Fahrgastschifffahrt
 
@@ -801,9 +857,11 @@ Die Vorschriften dieses Abschnittes gelten für:
 
 <sup>1</sup> Auf den Strecken nach Artikel 10.01 gilt der Vorrang nach Artikel 6.05 Buchstabe a nur für Fahrgastschiffe.
 
-<sup>2</sup> Auf den Strecken nach Artikel 10.01 gelten Artikel 6.05 Buchstaben b–d sowie Artikel 6.11 Absätze 1 und 2 nicht.
+<sup>2</sup> Auf den Strecken nach Artikel 10.01 gelten die Artikel 6.05 Buchstaben b–f und 6.11 Absätze 1 und 2 nicht.[^1002-1]
 
 <sup>3</sup> Auf den Strecken nach Artikel 10.01 Buchstaben b und c gilt Artikel 6.07 nicht.
+
+[^1002-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 
 #### Art. 10.03
 
@@ -856,9 +914,11 @@ In den Fällen der Artikel 10.04 Absatz 3 und 10.05 Absatz 1 Satz 2 ist gegenüb
 
 #### Art. 10.08
 
-**Fahren mit Wasserski oder ähnlichen Geräten**
+**Fahren mit Wasserski oder ähnlichen Geräten und anderen Schwimmkörpern**[^1008-1]
 
-Das Fahren mit Wasserski oder ähnlichen Geräten und die Verwendung von Wellenbrettern ist verboten.
+Das Fahren mit Wasserski oder ähnlichen Geräten, die Verwendung von Wellenbrettern und das Treibenlassen mit nicht lenkbaren Schwimmkörpern ist verboten.
+
+[^1008-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 
 #### Art. 10.09
 
@@ -928,9 +988,12 @@ Die Verkehrsvorschriften gelten für Wasserflugzeuge entsprechend, soweit nicht 
 
 <sup>4</sup> Das Herunterspringen von Brücken in das Fahrwasser ist bei Annäherung von Fahrzeugen verboten.[^1104-3]
 
+<sup>5</sup> Beim Schwimmen ohne Begleitfahrzeug ausserhalb der Uferzone (Art. 6.11 Abs. 1) muss ein gut sichtbarer Schwimmkörper mitgeführt werden.[^1104-4]
+
 [^1104-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 16. Juni 2005, genehmigt vom BR am 2. Dez. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
 [^1104-2]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 18. April 2013, genehmigt vom BR am 23. Okt. 2013 und in Kraft seit 1. Jan. 2014 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
 [^1104-3]: Eingefügt durch Beschluss der Internationalen Schifffahrtskommission vom 18. April 2013, genehmigt vom BR am 23. Okt. 2013 und in Kraft seit 1. Jan. 2014 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+[^1104-4]: Eingefügt durch Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 
 #### Art. 11.05
 
@@ -942,9 +1005,11 @@ Wettfahrten, Wasserfestlichkeiten und sonstige Veranstaltungen, die zu Ansammlun
 
 #### Art. 11.06
 
-**Genehmigung von Sondertransporten**
+**Genehmigung von Sondertransporten**[^1106-1]
 
-Die Fortbewegung von Fahrzeugen, welche den Vorschriften dieser Verordnung nicht entsprechen, und von schwimmenden Anlagen (Sondertransporte) bedarf der Genehmigung der zuständigen Behörde. Die Genehmigung darf nur erteilt werden, wenn hierdurch die Sicherheit und Leichtigkeit des Verkehrs nicht beeinträchtigt werden sowie Gefahren oder Nachteile, die durch die Schifffahrt verursacht werden können, nicht zu erwarten sind.
+Die Fortbewegung von Fahrzeugen, welche den Vorschriften dieser Verordnung nicht entsprechen, und von schwimmenden Anlagen (Sondertransporte) bedarf der Genehmigung der zuständigen Behörde. Die Genehmigung ist zu verweigern, wenn vom Sondertransport wesentliche Beeinträchtigungen der Schifffahrt, der Sicherheit von Personen, des Wassers, der Fischerei oder der Umwelt zu erwarten sind, die nicht durch Auflagen oder Bedingungen verhindert oder ausgeglichen werden können.
+
+[^1106-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 
 ## Dritter Teil: Zulassungsvorschriften
 
@@ -1051,15 +1116,16 @@ Der Bewerber um das Schifferpatent hat seine Befähigung in einer theoretischen 
 
 Das Schifferpatent muss mindestens folgende Angaben enthalten:
 
-- a. Familien- und Vorname, Lichtbild, Wohnort, Geburtsdatum und Unterschrift des Patentinhabers;
+- a.[^1206-1] Familien- und Vorname, Lichtbild, Wohnort und Geburtsdatum des Patentinhabers;
 - b. Geltungsbereich;
 - c. Kategorie;
 - d. Bedingungen und Auflagen;
-- e.[^1206-1] ausstellende Behörde, Ort und Datum der Ausstellung.
+- e.[^1206-2] ausstellende Behörde, Ort und Datum der Ausstellung.
 
 <sup>2</sup> Ist ein Schifferpatent verloren gegangen, so stellt die Behörde, welche das Schifferpatent erteilt hat, auf Antrag eine zweite Ausfertigung aus, die als solche zu bezeichnen ist.
 
-[^1206-1]: Fassung gemäss dem Beschluss der Internationalen Schifffahrtskommission vom 23. Juni 1995, vom BR genehmigt am 29. Nov. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+[^1206-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
+[^1206-2]: Fassung gemäss dem Beschluss der Internationalen Schifffahrtskommission vom 23. Juni 1995, vom BR genehmigt am 29. Nov. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
 
 #### Art. 12.07
 
@@ -1081,10 +1147,13 @@ Das Schifferpatent kann entzogen oder eingeschränkt werden, soweit die nach Art
 
 **Anerkennung anderer Schifferpatente**[^1209-1]
 
-Besitzt der Führer eines Vergnügungsfahrzeugs einen in einem Bodenseeuferstaat ausgestellten amtlichen Befähigungsnachweis, der nicht für den Bodensee gilt, oder das Internationale Zertifikat nach der ECE-Resolution Nr. 40 TRANS/SC.3/147[^1209-2], so werden der Befähigungsnachweis und das Internationale Zertifikat als Schifferpatent im Sinne des Artikels 12.02 für insgesamt 30 Tage innerhalb eines Kalenderjahres anerkannt. Durch eine Bescheinigung der zuständigen Behörde ist nachzuweisen, an welchen Tagen die Anerkennung gilt.
+<sup>1</sup> Besitzt der Führer eines Vergnügungsfahrzeugs einen in einem Bodenseeuferstaat ausgestellten amtlichen Befähigungsnachweis, der nicht für den Bodensee gilt, oder das Internationale Zertifikat nach der ECE-Resolution Nr. 40 TRANS/SC.3/147[^1209-2], so werden der Befähigungsnachweis und das Internationale Zertifikat als Schifferpatent im Sinne von Artikel 12.02 für insgesamt 30 Tage innerhalb eines Kalenderjahres anerkannt. Durch eine Bescheinigung der zuständigen Behörde ist nachzuweisen, an welchen Tagen die Anerkennung gilt.
 
-[^1209-1]: Fassung gemäss dem Beschluss der Internationalen Schifffahrtskommission vom 27. Juni 2001, genehmigt vom BR am 21. Nov. 2001, in Kraft seit 1. Jan. 2002 ([AS 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)).
-[^1209-2]: Der Text der Resolution kann beim Bundesamt für Bauten und Logistik, Verkauf Bundespublikationen, 3003 Bern, bezogen werden.
+<sup>2</sup> Unionsbefähigungszeugnisse gemäss der Richtlinie (EU) 2017/2397[^1209-3] werden anerkannt. In Bezug auf die in Artikel 12.10 angeführte Rheinstrecke ist Artikel 12.10. Absatz 3 zu beachten.
+
+[^1209-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
+[^1209-2]: Der Text der Resolution kann unter https://unece.org &gt; Our work &gt; Transport &gt; Inland Water Transport &gt; Legal Instruments and Resolutions &gt; ICC Resolution No. 40 abgerufen werden.
+[^1209-3]: Richtlinie 2017/2397/EU des Europäischen Parlaments und des Rates vom 12. Dezember 2017 über die Anerkennung von Berufsqualifikationen in der Binnenschifffahrt und zur Aufhebung der Richtlinien 91/672/EWG und 96/50/EG, ABl. Nr. L 345 vom 27.12.2017, S. 53.
 
 #### Art. 12.10
 
@@ -1093,6 +1162,11 @@ Besitzt der Führer eines Vergnügungsfahrzeugs einen in einem Bodenseeuferstaat
 <sup>1</sup> Wer die Rheinstrecke zwischen Stein am Rhein (erstes Fahrwasserzeichen unterhalb der Strassenbrücke in Höhe des Hettlerhäuschens) und der Strassenbrücke Schaffhausen-Feuerthalen befahren will, muss in der Schiffsführerprüfung eingehende Kenntnisse des Fahrwassers dieser Strecke nachweisen. Er muss ausserdem in der praktischen Schiffsführerprüfung zeigen, dass er sich auf dieser Strecke nautisch richtig verhalten kann. Artikel 12.01 bis 12.08 bleiben unberührt; Artikel 12.09 gilt nicht.
 
 <sup>2</sup> Bewerber um das Schifferpatent der Kategorie B oder C haben über die Vorschrift des Absatzes 1 hinaus nachzuweisen, dass sie diese Rheinstrecke zu Berg und zu Tal in den letzten drei Jahren vor der Antragstellung mindestens zwanzigmal als Patentbewerber am Steuer eines Fahrzeuges befahren haben.
+
+<sup>3</sup> Inhaber eines Unionsbefähigungszeugnisses gemäss der Richtlinie (EU) 2017/2397[^1210-1], die diese Rheinstrecke befahren wollen, müssen die in Absatz 2 geforderte Fahrpraxis nachweisen und eine Ergänzungsprüfung ablegen, mit der sie eingehende Kenntnisse des Fahrwassers dieser Strecke nachweisen. Über die bestandene Prüfung ist eine Bescheinigung auszustellen, mit der dem Inhaber des Unionsbefähigungszeugnisses die Berechtigung zum Befahren der in Absatz 1 angeführten Rheinstrecke bescheinigt wird.[^1210-2]
+
+[^1210-1]: Siehe Fussnote zu Art. 12.09 Abs. 2.
+[^1210-2]: Eingefügt durch Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 
 ### Abschnitt XIII: Bau und Ausrüstung von Fahrzeugen
 
@@ -1197,55 +1271,78 @@ Motoren mit Gemischschmierung dürfen nur dann verwendet werden, wenn der Krafts
 
 **Abgasemissionen**[^1311a-1]
 
-<sup>1</sup> Die Anlage C dieser Verordnung enthält die Abgasvorschriften für Schiffsmotoren.
+<sup>1</sup> Die Anlage C dieser Verordnung enthält die Abgasvorschriften für Verbrennungsmotoren, die nicht in den Anwendungsbereich von Absatz 7 fallen.
 
-<sup>2</sup> Fahrzeuge mit für den Antrieb bestimmten Ottomotoren (Fremdzündungsmotoren) oder Dieselmotoren (Selbstzündungsmotoren) müssen den Bauvorschriften der Anlage C entsprechen.
+<sup>2</sup> Fahrzeuge mit Verbrennungsmotoren, die nicht in den Anwendungsbereich von Absatz 7 fallen, müssen den Bauvorschriften der Anlage C entsprechen.
 
-<sup>3</sup> Alle Otto- und Dieselmotoren dürfen hinsichtlich der Abgasemissionen von Kohlenmonoxid (CO), Kohlenwasserstoffen (HC) und Stickstoffoxiden (NOx) die in der Anlage C festgelegten Grenzwerte nicht überschreiten. Dieselmotoren dürfen ausserdem hinsichtlich der Abgastrübung die in der Anlage C festgelegten Grenzwerte nicht überschreiten.
+<sup>3</sup> Alle Verbrennungsmotoren dürfen hinsichtlich der Abgasemissionen von Kohlenmonoxid (CO), Kohlenwasserstoffen (HC) und Stickstoffoxiden (NO<sub>x</sub>) die in der Anlage C festgelegten Grenzwerte nicht überschreiten. Dieselmotoren dürfen ausserdem hinsichtlich der Abgastrübung die in der Anlage C festgelegten Grenzwerte nicht überschreiten.
 
-<sup>4</sup> Fahrzeuge, die mit mehreren für den Antrieb bestimmten Otto- oder Dieselmotoren ausgerüstet sind, dürfen die Grenzwerte, bezogen auf die Gesamtleistung aller Motoren, nicht überschreiten.
+<sup>4</sup> Fahrzeuge, die mit mehreren für den Antrieb bestimmten Verbrennungsmotoren ausgerüstet sind, dürfen die Grenzwerte, bezogen auf die Gesamtleistung aller Motoren, nicht überschreiten.
 
-<sup>5</sup> Bei der Zulassung nach Artikel 14.01 ist nachzuweisen, dass die in der Anlage C festgelegten Bauvorschriften und Grenzwerte eingehalten sind. Dieser Nachweis ist durch Vorlage einer von einer zuständigen Behörde nach Anlage C erteilten Abgastypenprüfbescheinigung, mit Bezug auf den einzelnen Motor, in Form einer Bestätigung des Inhabers der Typenprüfbescheinigung zu erbringen.[^1311a-2] Die Abgastypenprüfbescheinigung wird aufgrund einer Abgasprüfung gemäss Anlage C erteilt. Bau-, Betriebs-, Abgas- und Nachprüfungsvorschriften sowie Prüfgeräte nach anderen Bestimmungen, welche die Abgas- und Verdunstungsemissionen mindestens gleich streng begrenzen bzw. gleich genau messen, das gleiche Schutzniveau bieten und die gleichen Ziele erreichen, werden anerkannt.
+<sup>5</sup> Bei der Zulassung nach Artikel 14.01 ist nachzuweisen, dass die in der Anlage C festgelegten Bauvorschriften und Grenzwerte eingehalten sind. Dieser Nachweis ist durch Vorlage einer von einer zuständigen Behörde nach der Anlage C erteilten Abgastypenprüfbescheinigung, mit Bezug auf den einzelnen Motor, in Form einer Bestätigung des Inhabers der Typenprüfbescheinigung zu erbringen. Die Abgastypenprüfbescheinigung wird aufgrund einer Abgasprüfung nach der Anlage C erteilt. Bau-, Betriebs-, Abgas- und Nachprüfungsvorschriften sowie Prüfgeräte nach anderen Bestimmungen, welche die Abgas- und Verdunstungsemissionen mindestens gleich streng begrenzen und gleich genau messen, das gleiche Schutzniveau bieten und die gleichen Ziele erreichen, werden anerkannt.
 
-<sup>6</sup> Typenprüfungen gemäss Richtlinie 1999/96/EG des Europäischen Parlaments und des Rates vom 13. Dezember 1999 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Massnahmen gegen die Emission gasförmiger Schadstoffe und luftverunreinigender Partikel aus Selbstzündungsmotoren zum Antrieb von Fahrzeugen und die Emission gasförmiger Schadstoffe aus mit Erdgas oder Flüssiggas betriebenen Fremdzündungsmotoren zum Antrieb von Fahrzeugen und zur Änderung der Richtlinie 88/77/EWG des Rates werden anerkannt. Typenprüfungen für Dieselmotoren gemäss Richtlinie 2003/44/EG des Europäischen Parlaments und des Rates vom 16. Juni 2003 zur Änderung der Richtlinie 94/25/EG zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über Sportboote werden unter Berücksichtigung der absoluten Massenemissionen (Anlage C Nr. 3.2.2 und 3.3.2) anerkannt. Andere gleichwertige Typenprüfungen werden anerkannt. Wurden bei einem Motor derartige Typenprüfungen bereits durchgeführt, sind die Bestimmungen der diesen Typenprüfungen zu Grunde liegenden Regelungen auf den Antrag, die Markierung des Motors, die Abgastypenprüfbescheinigung und das Verfahren zur Überprüfung der Produktion anzuwenden. [^1311a-3]
+<sup>6</sup> Wurden bei einem Motor derartige Typenprüfungen bereits durchgeführt, so sind die Bestimmungen der diesen Typenprüfungen zugrunde liegenden Regelungen auf den Antrag, die Markierung des Motors, die Abgastypenprüfbescheinigung und das Verfahren zur Überprüfung der Produktion anzuwenden
 
-<sup>7</sup> Bei der Nachuntersuchung, Sonderuntersuchung oder Untersuchung von Amtes wegen nach der Anlage C sind Otto- und Dieselmotoren einer äusseren Besichtigung zu unterziehen; bei Ottomotoren sind zusätzlich mit typengeprüften und geeichten Abgasprüfgeräten die in den Abgasen enthaltenen Konzentrationen an Kohlenmonoxid, Kohlenwasserstoffen und Kohlendioxid sowie die Drehzahl zu messen. Die Messung ist bei stillstehendem Fahrzeug mit betriebswarmem Motor im Leerlauf durchzuführen. Die Referenzwerte der Abgastypenprüfbescheinigung dürfen bei der Nachuntersuchung, Sonderuntersuchung oder Untersuchung von Amtes wegen nach der Anlage C nicht überschritten werden. Bei Otto- und Dieselmotoren kann die Überprüfung sämtlicher abgasrelevanter Systeme verlangt werden. Wenn abgasrelevante Bauteile plombiert sind und eine Bestätigung über die Durchführung der erforderlichen Wartungsarbeiten vorliegt, kann auf eine Prüfung dieser Bauteile verzichtet werden. Das Ergebnis der Untersuchung ist der Behörde schriftlich zu bestätigen.[^1311a-4]
+Für Fahrzeuge mit für den Antrieb bestimmten Verbrennungsmotoren, die nicht in den Anwendungsbereich von Absatz 7 fallen, werden folgende Typenprüfungen anerkannt:
 
-[^1311a-1]: Eingefügt durch Ziff. I der V der Internationalen Schifffahrtskommission vom 4. Juni 1991, vom BR genehmigt am 9. Dez. 1991 und in Kraft seit 1. Jan. 1992 ([AS 1992 83](https://fedlex.data.admin.ch/eli/oc/1992/83_83_83)[82](https://fedlex.data.admin.ch/eli/oc/1992/82_82_82)).
-[^1311a-2]: Fassung des Satzes gemäss Ziff. I der V der Internationalen Schifffahrtskommission vom 23. Juni 1995, vom BR genehmigt am 29. Nov. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
-[^1311a-3]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 16. Juni 2005, genehmigt vom BR am 2. Dez. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
-[^1311a-4]: Fassung gemäss Ziff. I der V der Internationalen Schifffahrtskommission vom 23. Juni 1995, vom BR genehmigt am 29. Nov. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
+- a. Typenprüfungen nach Verordnung (EG) Nr. 595/2009[^1311a-2];
+- b. Typenprüfungen für Dieselmotoren nach der Sportboot-Richtlinie[^1311a-3] unter Berücksichtigung der absoluten Massenemissionen (Anlage C Nr. 3.2.2 und 3.3.2);
+- c. Typenprüfungen von Motoren der Klasse NRE, IWP und IWA nach Artikel 4 Absatz 1 Ziffern 1, 5 und 6 der Verordnung (EU) 2016/1628[^1311a-4] mit einer Nennleistung bis 560 kW;
+- d. Typenprüfungen von Motoren der Klasse NRE nach Artikel 4 Absatz 1 Ziffer 1 Buchstabe b der Verordnung (EU) 2016/1628 mit einer Nennleistung grösser 560 kW, aus denen hervorgeht, dass die spezifischen Grenzwerte für die Schadstoffe CO, HC und NO<sub>x</sub> sowie die Partikelmasse und die Partikelzahl für Motoren der Unterklasse NRE-v/c-6 nach Anhang II Tabelle II-1 der Verordnung (EU) 2016/1628 nicht überschritten werden.
+
+<sup>7</sup> Werden Motoren, für die eine Typengenehmigung nach den Buchstaben e, f oder g vorliegt, umgebaut, so ist von einer technischen Prüfstelle oder der Behörde, die die Typengenehmigung ausgestellt hat, zu bestätigen, dass die vorgesehenen Änderungen keinen Einfluss auf die Abgasemissionen des Motors haben und die Gültigkeit der Typengenehmigung nicht erlischt. Diese Bestätigung ist der für die Zulassung zuständigen Behörde vorzulegen,
+
+Von dieser Bestimmung sind Motoren ausgenommen, die am 1. Mai 2022 in Fahrzeugen der gewerbsmässigen Schifffahrt nachweislich bereits in Betrieb waren oder beim Schifffahrtsunternehmen einlagerten und der zuständigen Behörde gemeldet waren.
+
+Auf Fahrzeugen der gewerbsmässigen Schifffahrt dürfen nur Verbrennungsmotoren in Betrieb genommen werden, für die eine der folgenden Abgastypenprüfbescheinigungen oder Typengenehmigungen vorliegt:
+
+- a. eine Abgastypenprüfbescheinigung nach der Anlage C für Fremd- und Selbstzündungsmotoren, deren Nennleistung weniger als 19 kW beträgt;
+- b. eine Abgastypenprüfbescheinigung nach der Anlage C für Aussenbord-Fremd- und -Selbstzündungsmotoren, deren Nennleistung 19 kW oder mehr beträgt;
+- c. eine Typengenehmigung für Motoren der Klasse IWP nach Artikel 4 Absatz 1 Ziffer 5 der Verordnung (EU) 2016/1628, die mittelbar oder unmittelbar dem Antrieb des Fahrzeuges dienen und deren Nennleistung 19 kW oder mehr beträgt;
+- d. eine Typengenehmigung für Motoren der Klasse IWA nach Artikel 4 Absatz 1 Ziffer 6 der Verordnung (EU) 2016/1628, die dem Antrieb von Generatoren dienen, soweit deren elektrische Energie nicht mittelbar oder unmittelbar dem Antrieb dient und deren Nennleistung 19 kW oder mehr beträgt;
+- e. eine Typengenehmigung für Motoren der Klasse NRE nach Artikel 4 Absatz 1 Ziffer 1 Buchstabe b der Verordnung (EU) 2016/1628, die mittelbar oder unmittelbar dem Antrieb des Fahrzeuges oder dem Antrieb von Generatoren dienen; ihre Nennleistung darf 560 kW nicht übersteigen; beträgt die Nennleistung des Motors der Klasse NRE mehr als 560 kW, so ist zusätzlich zur Typengenehmigung mittels eines Prüfberichtes einer technischen Prüfstelle nachzuweisen, dass die spezifischen Grenzwerte für die Schadstoffe CO, HC und NO<sub>x</sub> sowie die Partikelmasse und die Partikelzahl für Motoren der Unterklasse NRE-v/c-6 nach Anhang II Tabelle II-1 der Verordnung (EU) 2016/1628 nicht überschritten werden;
+- f. eine Typengenehmigung für Motoren der Klasse NRG nach Artikel 4 Absatz 1 Ziffer 2 der Verordnung (EU) 2016/1628, die dem Antrieb von Generatoren dienen;
+- g. eine Typengenehmigung nach der Verordnung (EG) Nr. 595/2009 oder nach der UNECE-Regelung Nummer 49[^1311a-5] Änderungsserie 06.
+
+[^1311a-1]: Eingefügt durch Ziff. I der V der Internationalen Schifffahrtskommission vom 4. Juni 1991, vom BR genehmigt am 9. Dez. 1991 ([AS 1992 83](https://fedlex.data.admin.ch/eli/oc/1992/83_83_83)[82](https://fedlex.data.admin.ch/eli/oc/1992/82_82_82)). Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
+[^1311a-2]: Verordnung (EG) Nr. 595/2009 über die Typgenehmigung von Kraftfahrzeugen und Motoren hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Verordnung (EG) Nr. 715/2007 und der Richtlinie 2007/46/EG sowie zur Aufhebung der Richtlinien 80/1269/EWG, 2005/55/EG und 2005/78/EG, ABl. Nr. L 188 vom 18.6.2009, S. 1, in der Fassung der Verordnung (EU) 2019/1242, ABl. Nr. L 198 vom 25.7.2019, S. 202.
+[^1311a-3]: Siehe Fussnote zu Art. 0.02 Bst. p.
+[^1311a-4]: Verordnung (EU) 2016/1628 über die Anforderungen in Bezug auf die Emissionsgrenzwerte für gasförmige Schadstoffe und luftverunreinigende Partikel und die Typgenehmigung für Verbrennungsmotoren für nicht für den Strassenverkehr bestimmte mobile Maschinen und Geräte, zur Änderung der Verordnungen (EU) Nr. 1024/2012 und (EU) Nr. 167/2013 und zur Änderung und Aufhebung der Richtlinie 97/68/EG, ABl. Nr. L 252 vom 16.9.2016, S. 53, in der Fassung der Verordnung (EU) 2020/1040, ABl. Nr. L 231 vom 17.7.2020, S. 1.
+[^1311a-5]: Die UNECE-Regelung Nummer 49 Änderungsserie 06 kann bei der United Nations Economic Commission for Europe (UN/ECE) kostenlos abgerufen werden unter www.unece.org &gt; Our work &gt; Transport &gt; Areas of Work &gt; Vehicle regulations &gt; Agreement and regulations &gt; UN Regulations (1958 Agreement) &gt; UN Regulations (Addenda to the 1958 Agreement) &gt; Regulations 41–60.
 
 #### Art. 13.11b
 
 **Austausch von Motoren**[^1311b-1]
 
-<sup>1</sup> Fahrzeuge nach Artikel 13.11*a* Absatz 2 dürfen nur noch mit Motoren (Austauschmotoren) ausgerüstet werden, die mindestens die Abgasgrenzwerte der Stufe 1 der Abgasvorschriften erreichen.
+Verbrennungsmotoren, die nicht in den Anwendungsbereich von Artikel 13.11*a* Absatz 7 fallen, dürfen nur durch Motoren ersetzt werden, die mindestens die Abgasgrenzwerte der Stufe 2 der Abgasvorschriften erreichen.
 
-<sup>2</sup> Fahrzeuge nach Artikel 13.11*a* Absatz 2 dürfen nur noch mit Motoren (Austauschmotoren) ausgerüstet werden, die mindestens die Abgasgrenzwerte der Stufe 2 der Abgasvorschriften erreichen.
-
-[^1311b-1]: Eingefügt durch Ziff. I der V der Internationalen Schifffahrtskommission vom 28. Okt. 1992, vom BR genehmigt am 12. Jan. 1994, in Kraft seit 1. Febr. 1994, mit Ausnahme von Abs. 2, der erst am 1. Jan. 1996 in Kraft tritt ([AS 1994 194](https://fedlex.data.admin.ch/eli/oc/1994/194_194_194)[193](https://fedlex.data.admin.ch/eli/oc/1994/193_193_193)).
+[^1311b-1]: Eingefügt durch Ziff. I der V der Internationalen Schifffahrtskommission vom 28. Okt. 1992, vom BR genehmigt am 12. Jan. 1994 ([AS 1994 194](https://fedlex.data.admin.ch/eli/oc/1994/194_194_194)[193](https://fedlex.data.admin.ch/eli/oc/1994/193_193_193)). Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 
 #### Art. 13.11c
 
-**Wartung von nicht abgastypengeprüften Motoren**[^1311c-1]
+**Wartung von Motoren**[^1311c-1]
 
-Otto- oder Dieselmotoren, die weder die Stufe 1 noch die Stufe 2 der Abgasvorschriften gemäss Anlage C erfüllen, müssen anlässlich der Nachuntersuchung gemäss Artikel 14.04 Absatz 1 einer Wartung unterzogen werden. Die Durchführung der Wartungsarbeiten hat innerhalb der letzten sechs Monate vor der Nachuntersuchung zu erfolgen und ist der zuständigen Behörde schriftlich zu bestätigen.
+Alle Verbrennungsmotoren für Antrieb und Stromerzeugung (Generatoren) müssen anlässlich der Nachuntersuchung gemäss Artikel 14.04 Absatz 1 einer Wartung und Kontrolle aller abgasrelevanten Bauteile unterzogen werden. Die Durchführung dieser Wartung und Kontrolle hat innerhalb der letzten sechs Monate vor der Nachuntersuchung zu erfolgen und ist der Behörde schriftlich zu bestätigen.
 
-[^1311c-1]: Eingefügt durch Beschluss der Internationalen Schifffahrtskommission vom 16. Juni 2005, genehmigt vom BR am 2. Dez. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+[^1311c-1]: Eingefügt durch Beschluss der Internationalen Schifffahrtskommission vom 16. Juni 2005, genehmigt vom BR am 2. Dez. 2005 ([AS 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)). Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 
 #### Art. 13.11d
 
 **Begrenzung des Partikelausstosses von Dieselmotoren**[^1311d-1]
 
-<sup>1</sup> Der Partikelausstoss von Dieselmotoren mit einer Leistung des einzelnen Motors von mehr als 37 kW ist mit geeigneten Mitteln zu begrenzen. Dies gilt nicht für Dieselmotoren, die in Vergnügungsfahrzeugen eingesetzt werden oder in Fahrgastschiffen, die für die Beförderung von bis zu 12 Fahrgästen zugelassen sind.
+<sup>1</sup>
+
+Der Partikelausstoss von Dieselmotoren mit einer Leistung des einzelnen Motors von mehr als 37 kW ist mit geeigneten Mitteln zu begrenzen. Dies gilt nicht für Dieselmotoren:
+
+- a. die in Vergnügungsfahrzeugen eingesetzt werden oder in Fahrgastschiffen, die für die Beförderung von bis zu 12 Fahrgästen zugelassen sind; oder
+- b. die die Grenzwerte des Partikelausstosses ohne beschränkende Mittel einhalten.[^1311d-2]
 
 <sup>2</sup>
 
 Als geeignete Mittel zur Begrenzung des Partikelausstosses gelten:
 
-- a. ein System, für das nach dem Programm der UN/ECE zur Partikelmessung (PMP)[^1311d-2] in den für Schiffen relevanten Zyklen nach der Norm EN ISO 8178-4:1996 (Hubkolben-Verbrennungsmotoren – Abgasmessung – Teil 4: Prüfzyklen für verschiedene Motorverwendungen)[^1311d-3] der Nachweis erbracht wurde, dass der Grenzwert für die Partikelanzahl von 1×10<sup>12</sup> kWh<sup>-1</sup> für Feststoffpartikel mit einem Durchmesser ab 23 nm eingehalten werden kann;
-- b. ein Partikelfiltersystem, das der Filterliste der österreichischen Allgemeinen Unfallversicherungsanstalt (AUVA), der deutschen Berufsgenossenschaft der Bauwirtschaft (BGBau) oder des schweizerischen Bundesamtes für Umwelt und der Schweizerischen Unfallversicherungsanstalt (SUVA)[^1311d-4] entspricht; oder
+- a. ein System, für das nach dem Programm der UN/ECE zur Partikelmessung (PMP)[^1311d-3] in den für Schiffen relevanten Zyklen nach der Norm EN ISO 8178-4:1996 (Hubkolben-Verbrennungsmotoren – Abgasmessung – Teil 4: Prüfzyklen für verschiedene Motorverwendungen)[^1311d-4] der Nachweis erbracht wurde, dass der Grenzwert für die Partikelanzahl von 1×10<sup>12</sup> kWh<sup>-1</sup> für Feststoffpartikel mit einem Durchmesser ab 23 nm eingehalten werden kann;
+- b. ein Partikelfiltersystem, das der Filterliste der österreichischen Allgemeinen Unfallversicherungsanstalt (AUVA), der deutschen Berufsgenossenschaft der Bauwirtschaft (BGBau) oder des schweizerischen Bundesamtes für Umwelt und der Schweizerischen Unfallversicherungsanstalt (SUVA)[^1311d-5] entspricht; oder
 - c. bezüglich der Partikelemissionen gleichwertige Filter.
 
 <sup>3</sup>
@@ -1256,9 +1353,10 @@ Die Absätze 1 und 2 gelten für:
 - b. Fahrzeuge, die am 1. Januar 2014 bereits im Geltungsbereich dieser Verordnung (Art. 0.01) zugelassen waren und nach dem 1. Januar 2015 mit einem oder mehreren neuen Dieselmotoren für den Schiffsantrieb ausgerüstet werden (Neumotorisierung), sofern diese Massnahmen zur Begrenzung des Partikelausstosses bei einer Neumotorisierung technisch machbar und wirtschaftlich vertretbar sind.
 
 [^1311d-1]: Eingefügt durch Beschluss der Internationalen Schifffahrtskommission vom 18. April 2013, genehmigt vom BR am 23. Okt. 2013 und in Kraft seit 1. Jan. 2014 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
-[^1311d-2]: Das aufgeführte Programm kann im Internet eingesehen und bezogen werden unter www.unece.org/unece/search?q=pmp+programm.
-[^1311d-3]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^1311d-4]: Die Filterliste des schweizerischen Bundesamtes für Umwelt und der Schweizerischen Unfallversicherung kann beim Bundesamt für Umwelt abgerufen werden unter www.bafu.admin.ch/partikelfilterliste.
+[^1311d-2]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
+[^1311d-3]: Das aufgeführte Programm kann im Internet eingesehen und bezogen werden unter www.unece.org/unece/search?q=pmp+programm.
+[^1311d-4]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^1311d-5]: Die Filterliste des schweizerischen Bundesamtes für Umwelt und der Schweizerischen Unfallversicherung kann beim Bundesamt für Umwelt abgerufen werden unter www.bafu.admin.ch/partikelfilterliste.
 
 #### Art. 13.12
 
@@ -1291,6 +1389,11 @@ Elektrische Anlagen und Flüssiggasanlagen müssen den anerkannten Regeln der Te
 <sup>1</sup> Akkumulatoren für den Schiffsbetrieb dürfen nur in einer hierfür geeigneten Bauart verwendet werden.
 
 <sup>2</sup> Die Akkumulatoren müssen so befestigt sein, dass sie sich bei Bewegungen des Fahrzeuges nicht verschieben können. Sie müssen gegen Beschädigung geschützt sein.
+
+<sup>3</sup> Fahrzeuge mit eingebauten Lithium-Ionen-Akkumulatoren für den Antrieb oder die Stromversorgung müssen mit dem Warnzeichen W012 «Warnung vor gefährlicher elektrischer Spannung» nach der Norm «EN ISO 7010, 2019, Graphische Symbole – Sicherheitsfarben und Sicherheitszeichen – Registrierte Sicherheitszeichen»[^1315-1] gekennzeichnet sein. Das Zeichen muss gut sichtbar auf beiden Seiten des Fahrzeugs neben dem Kennzeichen und am Heck angebracht werden.[^1315-2]
+
+[^1315-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^1315-2]: Eingefügt durch Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 
 #### Art. 13.16
 
@@ -1354,34 +1457,36 @@ Mit Feuerlöschgeräten oder -einrichtungen müssen ausgerüstet sein:
 
 <sup>2</sup> Auf Fahrgastschiffen, Güterschiffen und auf schwimmenden Geräten muss mindestens ein Rettungsring an geeigneter Stelle griffbereit vorhanden sein. Auf Fahrgastschiffen mit einer zulässigen Anzahl von mehr als 100 Fahrgästen muss für je 100 zugelassene Fahrgäste mindestens ein weiterer Rettungsring vorhanden sein.
 
-<sup>3</sup>
+<sup>3</sup> Rettungswesten, welche die Normen «EN ISO 12402-4, 2020, Persönliche Auftriebsmittel – Teil 4: Rettungswesten, Stufe 100 – Sicherheitstechnische Anforderungen», «EN ISO 12402-3, 2020, Persönliche Auftriebsmittel – Rettungswesten, Stufe 150 – Teil 3: Sicherheits-technische Anforderungen» oder «EN ISO 12402-2, 2020, Persönliche Auftriebsmittel – Rettungswesten, Stufe 275 – Teil 2: Sicherheitstechnische Anforderungen»[^1320-2] entsprechen, werden anerkannt, sofern diese den Mindestauftrieb aufweisen, der dem Körpergewicht des Trägers entspricht.[^1320-3]
 
 Auf folgenden Fahrzeugen muss für jede an Bord befindliche Person mit einem Körpergewicht von 40 kg oder mehr eine Rettungsweste mit Kragen mit mindestens 100 N Auftrieb mitgeführt werden:
 
 - a. Vergnügungsfahrzeuge mit Maschinenantrieb;
 - b. Fahrzeuge der Berufsfischer;
-- c. Ruderboote, die sich ausserhalb der Uferzone (Art. 6.11 Abs. 1) aufhalten, ausgenommen Rennruderboote;
-- d. Segelfahrzeuge.[^1320-2]
+- c.[^1320-4] Ruderboote, die sich ausserhalb der Uferzone (Art. 6.11 Abs. 1) aufhalten; ausgenommen Rennruderboote, sofern diese von einem Fahrzeug mit Maschinenantrieb begleitet werden;
+- d. Segelfahrzeuge.[^1320-5]
 
-<sup>4</sup> Für jede an Bord befindliche Person mit einem Körpergewicht von weniger als 40 kg muss auf Fahrzeugen nach Absatz 3 eine geeignete Rettungsweste mit Kragen mit entsprechendem Auftrieb vorhanden sein.[^1320-3]
+<sup>4</sup> Für jede an Bord befindliche Person mit einem Körpergewicht von weniger als 40 kg muss auf Fahrzeugen nach Absatz 3 eine geeignete Rettungsweste mit Kragen mit entsprechendem Auftrieb vorhanden sein.[^1320-6]
 
 <sup>5</sup>
 
-Auf Fahrzeugen nach Absatz 3, die nicht über ausreichend spritzwasser- oder wetterdicht verschliessbaren Stauraum zur Mitführung von Rettungsmitteln nach den Absätzen 3 und 4 verfügen, müssen die auf dem Fahrzeug befindlichen Personen eine Schwimmhilfe nach der Norm EN ISO 12402-5:2006 (Teil 5: Schwimmhilfen (Stufe 50) – sicherheitstechnische Anforderungen)[^1320-4] mitführen oder tragen. Dies gilt insbesondere für:
+Auf Fahrzeugen nach Absatz 3, die nicht über ausreichend spritzwasser- oder wetterdicht verschliessbaren Stauraum zur Mitführung von Rettungsmitteln nach den Absätzen 3 und 4 verfügen, müssen die auf dem Fahrzeug befindlichen Personen eine Schwimmhilfe nach der Norm «EN ISO 12402-5, 2020, Persönliche Auftriebsmittel Teil 5: Schwimmhilfen (Stufe 50) – sicherheitstechnische Anforderungen»[^1320-7] mitführen oder tragen. Dies gilt insbesondere für:
 
-- a. Drachensegelbretter;
-- b. Segelsurfbretter;
-- c. Segeljollen oder Mehrrumpfboote;
-- d. Kanus oder Kajaks.[^1320-5]
+- a. Drachensegelbretter, Segelsurfbretter, Stand-Up-Paddles und ähnliche Geräte;
+- b. Segeljollen oder Mehrrumpfboote;
+- c. Kanus oder Kajaks.[^1320-8]
 
-<sup>6</sup> Auf Vergnügungsfahrzeugen mit mehr als 30 kW Maschinenleistung und auf Segelfahrzeugen mit festem Ballast müssen zusätzlich zu den Rettungsmitteln nach den Absätzen 3 und 4 ein geeignetes Rettungswurfgerät mit mindestens 100 N Auftrieb und eine schwimmfähige Wurfleine von mindestens 10 m Länge mitgeführt werden.[^1320-6]
+<sup>6</sup> Auf Vergnügungsfahrzeugen mit mehr als 30 kW Maschinenleistung und auf Segelfahrzeugen mit festem Ballast müssen zusätzlich zu den Rettungsmitteln nach den Absätzen 3 und 4 ein geeignetes Rettungswurfgerät mit mindestens 100 N Auftrieb und eine schwimmfähige Wurfleine von mindestens 10 m Länge mitgeführt werden.[^1320-9]
 
 [^1320-1]: Fassung gemäss Ziff. I der V der Internationalen Schifffahrtskommission vom 23. Juni 1995, vom BR genehmigt am 29. Nov. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
-[^1320-2]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 18. April 2013, genehmigt vom BR am 23. Okt. 2013 und in Kraft seit 1. Jan. 2014 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
-[^1320-3]: Eingefügt durch Ziff. I der V der Internationalen Schifffahrtskommission vom 23. Juni 1995, vom BR genehmigt am 29. Nov. 1995 ([AS 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)). Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 18. April 2013, genehmigt vom BR am 23. Okt. 2013 und in Kraft seit 1. Jan. 2014 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
-[^1320-4]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^1320-5]: Eingefügt durch Ziff. I der V der Internationalen Schifffahrtskommission vom 23. Juni 1995, vom BR genehmigt am 29. Nov. 1995 ([AS 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)). Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 18. April 2013, genehmigt vom BR am 23. Okt. 2013 und in Kraft seit 1. Jan. 2014 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+[^1320-2]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^1320-3]: Absatz eingefügt durch Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
+[^1320-4]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
+[^1320-5]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 18. April 2013, genehmigt vom BR am 23. Okt. 2013 und in Kraft seit 1. Jan. 2014 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
 [^1320-6]: Eingefügt durch Ziff. I der V der Internationalen Schifffahrtskommission vom 23. Juni 1995, vom BR genehmigt am 29. Nov. 1995 ([AS 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)). Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 18. April 2013, genehmigt vom BR am 23. Okt. 2013 und in Kraft seit 1. Jan. 2014 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+[^1320-7]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^1320-8]: Eingefügt durch Ziff. I der V der Internationalen Schifffahrtskommission vom 23. Juni 1995, vom BR genehmigt am 29. Nov. 1995 ([AS 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)). Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
+[^1320-9]: Eingefügt durch Ziff. I der V der Internationalen Schifffahrtskommission vom 23. Juni 1995, vom BR genehmigt am 29. Nov. 1995 ([AS 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)). Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 18. April 2013, genehmigt vom BR am 23. Okt. 2013 und in Kraft seit 1. Jan. 2014 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
 
 #### Art. 13.21
 
@@ -1411,26 +1516,32 @@ Die folgenden Fahrzeuge müssen mit einer Sprechfunkanlage ausgerüstet sein, we
 
 <sup>2</sup> Die Zulassung wird erteilt, wenn das Fahrzeug nach dem Ergebnis einer amtlichen Untersuchung nach Artikel 14.03 Absatz 1 den Vorschriften dieser Verordnung entspricht.
 
-<sup>3</sup> Die Zulassung für ein Fahrzeug, das dem Geltungsbereich der Sportboot-Richtlinie unterliegt, wird abweichend von Absatz 2 erteilt, wenn eine gültige Konformitätserklärung nach Anhang XV der Sportboot-Richtlinie vorgelegt wird und die Untersuchung nach Artikel 14.03 Absatz 3 ergibt, dass das Fahrzeug den dort genannten Bestimmungen entspricht. Ist die Vorlage einer Konformitätserklärung nicht zumutbar, so kann dieses Fahrzeug nach Absatz 2 untersucht und zugelassen werden.
+<sup>3</sup> Die Zulassung für ein Fahrzeug, das dem Geltungsbereich der Sportboot-Richtlinie[^1401-2] unterliegt, wird abweichend von Absatz 2 erteilt, wenn eine gültige Konformitätserklärung nach Anhang IV der Sportboot-Richtlinie vorgelegt wird und die Untersuchung nach Artikel 14.03 Absatz 3 ergibt, dass das Fahrzeug den dort genannten Bestimmungen entspricht. Ist die Vorlage einer Konformitätserklärung nicht zumutbar, so kann dieses Fahrzeug nach Absatz 2 untersucht und zugelassen werden.[^1401-3]
 
 <sup>4</sup> Die Zulassung kann Bedingungen und Auflagen enthalten. Über die Zulassung wird eine Urkunde (Zulassungsurkunde) ausgestellt.
 
 <sup>5</sup> Die Zulassung von Vergnügungsfahrzeugen mit Maschinenantrieb erlischt nach drei Jahren.
 
-<sup>6</sup> Die zuständige Behörde kann die Zulassung von Fahrzeugen besonderer Bauart wie Luftkissenbooten, Hydrogleitern, Tragflügelbooten, Unterseebooten usw. verweigern, wenn es aus Gründen der Sicherheit und der Leichtigkeit des Verkehrs oder zum Schutz der Umwelt oder der Fischerei erforderlich ist.[^1401-2]
+<sup>6</sup> Die zuständige Behörde kann die Zulassung von Fahrzeugen besonderer Bauart wie Luftkissenbooten, Hydrogleitern und Tragflügelbooten usw. verweigern, wenn es aus Gründen der Sicherheit und der Leichtigkeit des Verkehrs oder zum Schutz der Umwelt oder der Fischerei erforderlich ist.[^1401-4]
 
 <sup>7</sup>
 
 Folgende Fahrzeuge werden nicht zugelassen:
 
 - a. Fahrzeuge, die nach ihrer Bau- oder Betriebsart oder nach ihrer Ausstattung überwiegend für Wohnzwecke bestimmt sind (z.B. Haus- oder Wohnboote);
-- b. Amphibienfahrzeuge; und
-- c. Fahrzeuge mit Maschinenantrieb, deren Rumpflänge, gemessen nach der Norm EN ISO 8666:2002[^1401-3], weniger als 2,50 m beträgt.[^1401-4]
+- b.[^1401-5] Amphibienfahrzeuge, ausgenommen zeitlich beschränkt und eingeschränkt für den Unterhalt der Gewässer;
+- c.[^1401-6] Fahrzeuge mit Maschinenantrieb, deren Rumpflänge, gemessen nach der Norm «EN ISO 8666, 2020[^1401-7], Kleine Wasserfahrzeuge – Hauptdaten» weniger als 2,50 m beträgt;
+- d.[^1401-8] Unterseeboote, ausgenommen für wissenschaftliche oder behördliche Zwecke.[^1401-9]
 
 [^1401-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 16. Juni 2005, genehmigt vom BR am 2. Dez. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
-[^1401-2]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 18. April 2013, genehmigt vom BR am 23. Okt. 2013 und in Kraft seit 1. Jan. 2014 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
-[^1401-3]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^1401-4]: Eingefügt durch Beschluss der Internationalen Schifffahrtskommission vom 18. April 2013, genehmigt vom BR am 23. Okt. 2013 und in Kraft seit 1. Jan. 2014 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
+[^1401-2]: Siehe Fussnote zu Art. 0.02 Bst. p.
+[^1401-3]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
+[^1401-4]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
+[^1401-5]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
+[^1401-6]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
+[^1401-7]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^1401-8]: Eingefügt durch Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
+[^1401-9]: Eingefügt durch Beschluss der Internationalen Schifffahrtskommission vom 18. April 2013, genehmigt vom BR am 23. Okt. 2013 und in Kraft seit 1. Jan. 2014 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
 
 #### Art. 14.02
 
@@ -1484,10 +1595,11 @@ Die Zulassungsurkunde muss mindestens folgende Angaben enthalten:
 
 <sup>3</sup> Ergeben sich Zweifel, ob ein Fahrzeug den Vorschriften entspricht, kann die zuständige Behörde von Amts wegen eine Untersuchung anordnen (Untersuchung von Amts wegen).
 
-<sup>4</sup> Wirkt sich eine wesentliche Veränderung oder Instandsetzung gemäss Absatz 2 auf die Einhaltung der Sicherheitsanforderungen gemäss Sportboot-Richtlinie aus oder ergeben sich bei der Untersuchung von Amts wegen gemäss Absatz 3 Anhaltspunkte, dass die Sicherheitsanforderungen gemäss Sportboot-Richtlinie nicht eingehalten sind, kann die Behörde die Vorlage einer neuen Konformitätserklärung nach Anhang XV der Sportboot-Richtlinie verlangen, sofern dies zumutbar ist.[^1404-2]
+<sup>4</sup> Wirkt sich eine wesentliche Veränderung oder Instandsetzung gemäss Absatz 2 auf die Einhaltung der Sicherheitsanforderungen gemäss Sportboot-Richtlinie[^1404-2] aus oder ergeben sich bei der Untersuchung von Amts wegen gemäss Absatz 3 Anhaltspunkte, dass die Sicherheitsanforderungen gemäss Sportboot-Richtlinie nicht eingehalten sind, kann die Behörde die Vorlage einer neuen Konformitätserklärung nach Anhang IV der Sportboot-Richtlinie verlangen, sofern dies zumutbar ist.[^1404-3]
 
 [^1404-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 16. Juni 2005, genehmigt vom BR am 2. Dez. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
-[^1404-2]: Eingefügt durch Beschluss der Internationalen Schifffahrtskommission vom 16. Juni 2005, genehmigt vom BR am 2. Dez. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+[^1404-2]: Siehe Fussnote zu Art. 0.02 Bst. p.
+[^1404-3]: Eingefügt durch Beschluss der Internationalen Schifffahrtskommission vom 16. Juni 2005, genehmigt vom BR am 2. Dez. 2005 ([AS 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)). Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 
 #### Art. 14.05
 
@@ -1575,10 +1687,13 @@ Fahrzeuge der Polizei, des Bundesamts für Zoll und Grenzsicherheit[^1601-1] und
 
 <sup>6</sup> Die zuständige Behörde kann unter den Voraussetzungen des Absatzes 1 Ausnahmen vom Verbot des Artikels 8.01 Absatz 1 zulassen. Vor der Erteilung einer solchen Ausnahme sind im Einvernehmen mit den zuständigen Behörden der anderen Bodenseeuferstaaten gleiche Bedingungen für den Transport der Stoffe bzw. Güter festzusetzen. Dies gilt auch, wenn die Beförderung im Gebiet ein- und desselben Anrainerstaates durchgeführt wird.[^1602-4]
 
+<sup>7</sup> Die zuständige Behörde kann unter den Voraussetzungen von Absatz 1 in besonders berücksichtigungswürdigen Fällen, wie im Leistungs- und Spitzensport beim Segeln, auch amtliche Befähigungsnachweise, die nicht in einem Bodenseeuferstaat ausgestellt wurden, gemäss Artikel 12.09 anerkennen.[^1602-5]
+
 [^1602-1]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 16. Juni 2005, genehmigt vom BR am 2. Dez. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
 [^1602-2]: Fassung gemäss Ziff. I der V der Internationalen Schifffahrtskommission vom 27. Juni 2001, genehmigt vom BR am 21. Nov. 2001, in Kraft seit 1. Jan. 2002 ([AS 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)).
 [^1602-3]: Fassung gemäss Beschluss der Internationalen Schifffahrtskommission vom 16. Juni 2005, genehmigt vom BR am 2. Dez. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
 [^1602-4]: Eingefügt durch den Beschluss der Internationalen Schifffahrtskommission vom 23. Okt. 2003, genehmigt vom BR am 24. März 2004, in Kraft seit 1. Mai 2004 ([AS 2004 2081](https://fedlex.data.admin.ch/eli/oc/2004/238)[2079](https://fedlex.data.admin.ch/eli/oc/2004/237)).
+[^1602-5]: Eingefügt durch Beschluss der Internationalen Schifffahrtskommission vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 
 #### Art. 16.03
 
@@ -1673,7 +1788,7 @@ Anlage B[^t-3]
 
 [^annexB-lvlu1-1]
 
-[^t-3]: Bereinigt gemäss Ziff. I des Beschlusses der Internationalen Schifffahrtskommission vom 29. April 1988, vom BR genehmigt am 21. Dez. 1988 ([AS 1989 207](https://fedlex.data.admin.ch/eli/oc/1989/207_207_207)[211](https://fedlex.data.admin.ch/eli/oc/1989/211_211_211)), vom 23. Juni 1995, vom BR genehmigt am 29. Nov. 1995 ([AS 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)), vom 27. Juni 2001, vom BR genehmigt am 21 Nov. 2001 ([AS 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)) und vom 16. Juni 2005, genehmigt vom BR am 2. Dez. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
+[^t-3]: Bereinigt gemäss Ziff. I des Beschlusses der Internationalen Schifffahrtskommission vom 29. April 1988, vom BR genehmigt am 21. Dez. 1988 ([AS 1989 207](https://fedlex.data.admin.ch/eli/oc/1989/207_207_207)[211](https://fedlex.data.admin.ch/eli/oc/1989/211_211_211)), vom 23. Juni 1995, vom BR genehmigt am 29. Nov. 1995 ([AS 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)), vom 27. Juni 2001, vom BR genehmigt am 21 Nov. 2001 ([AS 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)), vom 16. Juni 2005, genehmigt vom BR am 2. Dez. 2005 ([AS 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)) und vom 15. Dez. 2021, genehmigt vom BR am 13. April 2022 und in Kraft seit 1. Mai 2022 ([AS 2022 253](https://fedlex.data.admin.ch/eli/oc/2022/253)).
 [^annexB-lvlu1-1]: Farblegende siehe am Schluss des Anhangs.
 
 Allgemeines
@@ -1681,63 +1796,66 @@ Allgemeines
 - 1\. Die Schifffahrtszeichen mit Ausnahme der gelben Bojen nach Buchstabe G sind so zu gestalten, dass ihre projizierte Form derjenigen der Anlage entspricht. Sie sind so zu bemessen, dass ihre kürzeste Seitenlänge bzw. ihr Durchmesser mindestens 0,80 m beträgt.
 - 2\. Sofern die Rückseite nicht als Schifffahrtszeichen dargestellt wird, ist sie in weisser Farbe zu halten.
 - 3\. Die Schifffahrtszeichen können bei Nacht angeleuchtet werden.
+- 4\. Gelbe Bojen zur Kennzeichnung der Grenzen von Wasserflächen weisen einen Durchmesser von mindestens 40 cm auf. End- oder Eckbojen müssen einen um 20 cm grösseren Durchmesser aufweisen als die übrigen Bojen.
+- 5\. Anstelle von gelben Bojen können zur Kennzeichnung der Grenzen von Wasserflächen auch gelbe Bälle mit einem Durchmesser von mindestens 40 cm auf Pfählen verwendet werden.
 
 ### A. Verbotszeichen
 
 <table>
 <tr><td colspan="4">[tab] A.1 Verbot der Durchfahrt oder gesperrte Wasserflächen</td><td></td></tr>
-<tr><td colspan="4">a. für Fahrzeuge aller Art</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image1.png)</td></tr>
-<tr><td colspan="4">zwei Lichtzeichen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image2.png)</td></tr>
-<tr><td colspan="4">b. für Fahrzeuge mit Maschinenantrieb</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image3.png)</td></tr>
-<tr><td colspan="4">[tab] A.2 Überholverbot</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image4.png)</td></tr>
-<tr><td colspan="4">A.3 Verbot des Begegnens und Überholverbot</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image5.png)</td></tr>
-<tr><td colspan="4">A.4 Liegeverbot</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image6.png)</td></tr>
-<tr><td colspan="4">A.5 Ankerverbot</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image7.png)</td></tr>
-<tr><td colspan="4">A.6 Festmacheverbot</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image8.png)</td></tr>
-<tr><td colspan="4">A.7 Wendeverbot</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image9.png)</td></tr>
-<tr><td colspan="2">A.8 Verbot, schädlichen Wellenschlag oder Sog zu erzeugen</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image10.png)</td></tr>
-<tr><td>A.9 Verbot, ausserhalb der angezeigten Begrenzung zu fahren</td><td colspan="7">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image11.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image12.png)</td></tr>
-<tr><td colspan="3">A.10 Verbot des Wasserskifahrens</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image13.png)</td></tr>
-<tr><td colspan="3">A.11 Verbot des Segelsurfbrettfahrens</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image14.png)</td></tr>
-<tr><td colspan="3">A.12 Verbot des Fahrens mit Segelfahrzeugen</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image15.png)</td></tr>
+<tr><td colspan="4">a. für Fahrzeuge aller Art</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image1.png)</td></tr>
+<tr><td colspan="4">zwei Lichtzeichen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image2.png)</td></tr>
+<tr><td colspan="4">b. für Fahrzeuge mit Maschinenantrieb</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image3.png)</td></tr>
+<tr><td colspan="4">[tab] A.2 Überholverbot</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image4.png)</td></tr>
+<tr><td colspan="4">A.3 Verbot des Begegnens und Überholverbot</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image5.png)</td></tr>
+<tr><td colspan="4">A.4 Liegeverbot</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image6.png)</td></tr>
+<tr><td colspan="4">A.5 Ankerverbot</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image7.png)</td></tr>
+<tr><td colspan="4">A.6 Festmacheverbot</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image8.png)</td></tr>
+<tr><td colspan="4">A.7 Wendeverbot</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image9.png)</td></tr>
+<tr><td colspan="2">A.8 Verbot, schädlichen Wellenschlag oder Sog zu erzeugen</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image10.png)</td></tr>
+<tr><td>A.9 Verbot, ausserhalb der angezeigten Begrenzung zu fahren</td><td colspan="7">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image11.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image12.png)</td></tr>
+<tr><td colspan="3">A.10 Verbot des Wasserskifahrens</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image13.png)</td></tr>
+<tr><td colspan="3">A.11 Verbot des Segelsurfbrettfahrens</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image14.png)</td></tr>
+<tr><td colspan="3">A.12 Verbot des Fahrens mit Segelfahrzeugen</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image15.png)</td></tr>
+<tr><td colspan="3">A.13 Verbot des Badens</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image16.png)</td></tr>
 </table>
 
 ### B. Gebotszeichen
 
 <table>
-<tr><td>B.1 Gebot, die durch den Pfeil angezeigte Richtung einzuschlagen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image16.png)</td></tr>
-<tr><td>B.2 Gebot, unter bestimmten Umständen anzuhalten</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image17.png)</td></tr>
-<tr><td>B.3 Gebot, die in km/h angegebene Geschwindigkeit nicht zu überschreiten</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image18.png)</td></tr>
-<tr><td>B.4 Gebot, ein Schallzeichen zu geben</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image19.png)</td></tr>
-<tr><td>B.5 Gebot, besondere Vorsicht walten zu lassen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image20.png)</td></tr>
+<tr><td>B.1 Gebot, die durch den Pfeil angezeigte Richtung einzuschlagen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image17.png)</td></tr>
+<tr><td>B.2 Gebot, unter bestimmten Umständen anzuhalten</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image18.png)</td></tr>
+<tr><td>B.3 Gebot, die in km/h angegebene Geschwindigkeit nicht zu überschreiten</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image19.png)</td></tr>
+<tr><td>B.4 Gebot, ein Schallzeichen zu geben</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image20.png)</td></tr>
+<tr><td>B.5 Gebot, besondere Vorsicht walten zu lassen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image21.png)</td></tr>
 </table>
 
 ### C. Zeichen für Einschränkungen
 
 <table>
-<tr><td>C.1 Beschränkte Durchfahrtshöhe</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image21.png)</td></tr>
-<tr><td>C.2 Beschränkte Durchfahrtsbreite</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image22.png)</td></tr>
-<tr><td>C.3 Das Fahrwasser ist eingeengt; die Zahl auf dem Zeichen gibt den Abstand in Metern an, in dem sich Fahrzeuge vom Ufer entfernt halten sollen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image23.png)</td></tr>
+<tr><td>C.1 Beschränkte Durchfahrtshöhe</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image22.png)</td></tr>
+<tr><td>C.2 Beschränkte Durchfahrtsbreite</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image23.png)</td></tr>
+<tr><td>C.3 Das Fahrwasser ist eingeengt; die Zahl auf dem Zeichen gibt den Abstand in Metern an, in dem sich Fahrzeuge vom Ufer entfernt halten sollen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image24.png)</td></tr>
 </table>
 
 ### D. Empfehlende Zeichen
 
 <table>
-<tr><td>D.1 Empfohlene Durchfahrtsöffnung bei Brücken a. für Verkehr in beiden Richtungen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image24.png)</td></tr>
-<tr><td>b*.* für Verkehr nur in der Richtung in der die Zeichen sichtbar sind</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image25.png) oder ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image26.png)</td></tr>
-<tr><td>D.2 Empfehlung, sich auf der mit «grün» bezeichneten Fahrwasserseite zu halten</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image27.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image28.png)</td></tr>
+<tr><td>D.1 Empfohlene Durchfahrtsöffnung bei Brücken a. für Verkehr in beiden Richtungen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image25.png)</td></tr>
+<tr><td>b*.* für Verkehr nur in der Richtung in der die Zeichen sichtbar sind</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image26.png) oder ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image27.png)</td></tr>
+<tr><td>D.2 Empfehlung, sich auf der mit «grün» bezeichneten Fahrwasserseite zu halten</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image28.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image29.png)</td></tr>
 </table>
 
 ### E. Hinweiszeichen
 
 <table>
-<tr><td colspan="3">E.1 Erlaubnis zum Stilliegen</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image29.png)</td></tr>
-<tr><td colspan="3">E.2 Erlaubnis zum Ankern</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image30.png)</td></tr>
-<tr><td colspan="3">E.3 Ende eines Verbots oder Gebots</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image31.png)</td></tr>
-<tr><td colspan="2">E.4 Erlaubnis zum Wasserskifahren</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image32.png)</td></tr>
-<tr><td colspan="3">E.5 Erlaubnis zum Segelsurfbrettfahren</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image33.png)</td></tr>
-<tr><td>E.6 Kennzeichnung der 2 m-Wasserlinie Bei 2,5 m am Konstanzer Pegel ist seewärts der markierten Stelle eine Mindestwassertiefe von 2 m. Die Zahl auf der Tafel entspricht der in den verschiedenen Bodensee-Schifffahrtskarten eingetragenen Ordnungsnummer.</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image34.png)</td></tr>
-<tr><td>E.7 Kennzeichen der Untiefen und Schifffahrtshindernisse</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image35.png)</td></tr>
+<tr><td colspan="3">E.1 Erlaubnis zum Stilliegen</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image30.png)</td></tr>
+<tr><td colspan="3">E.2 Erlaubnis zum Ankern</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image31.png)</td></tr>
+<tr><td colspan="3">E.3 Ende eines Verbots oder Gebots</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image32.png)</td></tr>
+<tr><td colspan="2">E.4 Erlaubnis zum Wasserskifahren</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image33.png)</td></tr>
+<tr><td colspan="3">E.5 Erlaubnis zum Segelsurfbrettfahren</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image34.png)</td></tr>
+<tr><td>E.6 Kennzeichnung der 2 m-Wasserlinie Bei 2,5 m am Konstanzer Pegel ist seewärts der markierten Stelle eine Mindestwassertiefe von 2 m. Die Zahl auf der Tafel entspricht der in den verschiedenen Bodensee-Schifffahrtskarten eingetragenen Ordnungsnummer.</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image35.png)</td></tr>
+<tr><td>E.7 Kennzeichen der Untiefen und Schifffahrtshindernisse</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image36.png)</td></tr>
 <tr><td colspan="4">E.8 Schifffahrtshindernisse und Absperrungen können auch mit einem weissen Blitz- oder Blinklicht versehen werden.</td></tr>
 </table>
 
@@ -1749,28 +1867,28 @@ Die Hauptzeichen können durch zusätzliche Tafeln, Schilder oder Aufschriften i
 
 <table>
 <tr><td>Beispiel:</td><td></td></tr>
-<tr><td>Gebot, eine Geschwindigkeit von 12 km/h nach 1000 m nicht zu überschreiten</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image36.png)</td></tr>
+<tr><td>Gebot, eine Geschwindigkeit von 12 km/h nach 1000 m nicht zu überschreiten</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image37.png)</td></tr>
 </table>
 
 - 2\. Pfeile, die angeben, in welcher Richtung der Strecke das Hauptzeichen gilt.
 
 <table>
 <tr><td>Beispiel:</td><td></td></tr>
-<tr><td>Erlaubnis zum Stilliegen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image37.png)</td></tr>
+<tr><td>Erlaubnis zum Stilliegen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image38.png)</td></tr>
 </table>
 
 - 3\. Schilder, welche ergänzende Erklärungen oder Hinweise geben. Die Schilder werden unter den Hauptzeichen angebracht.
 
 <table>
 <tr><td>Beispiel:</td><td></td></tr>
-<tr><td>Anhalten zwecks Zollabfertigung</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image38.png)</td></tr>
+<tr><td>Anhalten zwecks Zollabfertigung</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image39.png)</td></tr>
 </table>
 
 ### G. G Gelbe Bojen; Kennzeichnung der Grenzen von Wasserflächen, für die besondere Anordnungen bestehen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image39.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image40.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image40.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220501/de/xml/image/image41.png)
 
 ### H. Starkwind- und Sturmwarnungen
 
@@ -1794,4 +1912,4 @@ Anlage C[^t-4]
 
 ## Abgasvorschriften für Schiffsmotoren
 
-[^t-4]: Der Text dieser Anlage und ihrer Änderungen wird in der AS nicht veröffentlicht. Separatdrucke mit Einschluss der Anlage C sind beim Bundesamt für Bauten und Logistik, Verkauf Bundespublikationen, 3003 Bern erhältlich (siehe [AS 1992 83](https://fedlex.data.admin.ch/eli/oc/1992/83_83_83), [1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976), [2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61), [2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)).
+[^t-4]: Der Text dieser Anlage und ihrer Änderungen wird in der AS nicht veröffentlicht. Separatdrucke mit Einschluss der Anlage C sind beim Bundesamt für Bauten und Logistik, Verkauf Bundespublikationen, 3003 Bern erhältlich (siehe [AS 1992 83](https://fedlex.data.admin.ch/eli/oc/1992/83_83_83); [1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976); [2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61); [2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)).
