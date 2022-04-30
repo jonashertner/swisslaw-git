@@ -3,11 +3,11 @@ sr: "442.15"
 title: Ordinanza del 14 ottobre 2020 sui provvedimenti nel settore della cultura secondo la legge COVID-19 (Ordinanza COVID-19 cultura)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/759"
 language: it
-version: 2022-01-01
+version: 2022-05-01
 adopted: 2020-10-14
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/759/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-759-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/759/20220501/it/xml/fedlex-data-admin-ch-eli-cc-2020-759-20220501-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20220501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20220101/it"
 
 (Ordinanza COVID-19 cultura)
 
-del 14 ottobre 2020 (Stato 1° gennaio 2022)
+del 14 ottobre 2020 (Stato 1° maggio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -98,11 +98,11 @@ Sono assegnati aiuti finanziari soltanto alle imprese culturali che:
 
 <sup>4</sup> Per gli aiuti finanziari secondo la presente sezione sono considerate imprese culturali anche gli organizzatori amatoriali a condizione che dispongano di un budget per la manifestazione di almeno 50 000 franchi e che subiscano un danno di almeno 10 000 franchi.
 
-<sup>5</sup> Con la cessazione di tutti i provvedimenti statali, compreso l’obbligo del certificato COVID, l’indennità per perdita di guadagno termina alla fine del corrente periodo di danno secondo l’articolo 6 capoverso 1. Lo stesso vale anche per il sostegno a organizzazioni culturali amatoriali.[^4-3]
+<sup>5</sup> Gli aiuti finanziari sono versati fino al 30 giugno 2022. L’articolo 5 capoverso 1 lettera a non è applicabile ai danni insorti tra il 17 febbraio 2022 e il 30 giugno 2022.[^4-3]
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
 [^4-2]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
-[^4-3]: Introdotto dal n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 905](https://fedlex.data.admin.ch/eli/oc/2021/905)).
+[^4-3]: Introdotto dal n. I dell’O del 17 dic. 2021 ([RU 2021 905](https://fedlex.data.admin.ch/eli/oc/2021/905)). Nuovo testo giusta il n. I dell’O del 13 apr. 2022, in vigore dal 1° mag. 2022 ([RU 2022 245](https://fedlex.data.admin.ch/eli/oc/2022/245)).
 
 #### Art. 5
 
@@ -127,16 +127,14 @@ Sono indennizzabili soltanto i danni che:
 
 Le richieste vanno presentate ai servizi competenti designati dai Cantoni entro i termini seguenti:
 
-- a. per i danni insorti tra il 1° dicembre 2021 e il 31 dicembre 2021: entro il 31 gennaio 2022;
-- b. per i danni insorti tra il 1° gennaio 2022 e il 30 aprile 2022: entro il 31 maggio 2022;
-- c. per i danni insorti tra il 1° maggio 2022 e il 31 agosto 2022, entro il 30 settembre 2022;
-- d. per i danni insorti tra il 1° settembre 2022 e il 31 dicembre 2022, entro il 30 novembre 2022.[^6-1]
+- a. per i danni insorti tra il 1° gennaio 2022 e il 30 aprile 2022: entro il 31 maggio 2022;
+- b. per i danni insorti tra il 1° maggio 2022 e il 30 giugno 2022: entro il 31 luglio 2022.[^6-1]
 
 <sup>2</sup> Il Cantone competente è quello in cui ha sede l’impresa culturale o è domiciliato l’operatore culturale.[^6-2]
 
 <sup>3</sup> I Cantoni decidono in merito alle richieste. La procedura è disciplinata dal diritto cantonale.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 905](https://fedlex.data.admin.ch/eli/oc/2021/905)).
+[^6-1]: Nuovo testo giusta il n. I dell’O del 13 apr. 2022, in vigore dal 1° mag. 2022 ([RU 2022 245](https://fedlex.data.admin.ch/eli/oc/2022/245)).
 [^6-2]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
 
 ## Sezione 3: Contributi a progetti di ristrutturazione
@@ -244,9 +242,9 @@ Le richieste sono valutate secondo i seguenti criteri:
 
 <sup>1</sup> Le organizzazioni culturali amatoriali che ne fanno richiesta ricevono aiuti finanziari per danni economici legati all’annullamento, al rinvio o alle limitazioni nello svolgimento di manifestazioni.
 
-<sup>2</sup> ...[^15-1]
+<sup>2</sup> Gli aiuti finanziari sono versati fino al 30 giugno 2022. L’articolo 16 capoverso 1 lettera a non è applicabile ai danni insorti tra il 17 febbraio 2022 e il 30 giugno 2022.[^15-1]
 
-[^15-1]: Abrogato dal n. I dell’O del 18 dic. 2020, con effetto dal 19 dic. 2020 ([RU 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
+[^15-1]: Nuovo testo giusta il n. I dell’O del 13 apr. 2022, in vigore dal 1° mag. 2022 ([RU 2022 245](https://fedlex.data.admin.ch/eli/oc/2022/245)).
 
 #### Art. 16
 
@@ -269,11 +267,11 @@ Sono indennizzabili soltanto i danni che:
 
 **Procedura**
 
-<sup>1</sup> Le richieste possono essere presentate fino al 30 novembre 2022 alle associazioni mantello riconosciute dal Dipartimento federale dell’interno.[^17-1]
+<sup>1</sup> Le richieste possono essere presentate fino al 31 luglio 2022 alle associazioni mantello riconosciute dal Dipartimento federale dell’interno.[^17-1]
 
 <sup>2</sup> Le associazioni mantello decidono in merito alle richieste in qualità di autorità ai sensi dell’articolo 1 capoverso 2 lettera e PA[^17-2].
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 905](https://fedlex.data.admin.ch/eli/oc/2021/905)).
+[^17-1]: Nuovo testo giusta il n. I dell’O del 13 apr. 2022, in vigore dal 1° mag. 2022 ([RU 2022 245](https://fedlex.data.admin.ch/eli/oc/2022/245)).
 [^17-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 ## Sezione 6: Disposizioni procedurali comuni

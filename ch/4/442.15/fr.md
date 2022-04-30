@@ -3,11 +3,11 @@ sr: "442.15"
 title: Ordonnance du 14 octobre 2020 sur les mesures dans le domaine de la culture prévues par la loi COVID-19 (Ordonnance COVID-19 culture)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/759"
 language: fr
-version: 2022-01-01
+version: 2022-05-01
 adopted: 2020-10-14
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/759/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-759-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/759/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-2020-759-20220501-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20220501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20220101/fr"
 
 (Ordonnance COVID-19 culture)
 
-du 14 octobre 2020 (Etat le 1<sup>er</sup> janvier 2022)
+du 14 octobre 2020 (Etat le 1<sup>er</sup> mai 2022)
 
 Le Conseil fédéral suisse,
 
@@ -98,11 +98,11 @@ Les aides financières peuvent être allouées exclusivement aux entreprises cul
 
 <sup>4</sup> Sont également réputées entreprises culturelles et peuvent prétendre aux aides financières visées par la présente section les organisations d’amateurs dotées d’un budget d’au moins 50 000 francs pour leurs manifestations et qui subissent une perte d’au moins 10 000 francs.
 
-<sup>5</sup> En cas de levée totale des mesures de l’État, y compris l’obligation de présenter un certificat COVID, les indemnités pour pertes financières des entreprises culturelles et des acteurs culturels sont accordées jusqu’au terme de la période de dommage courante, conformément à l’art. 6, al. 1. Il en va de même des indemnités destinées aux associations culturelles d’amateurs.[^4-3]
+<sup>5</sup> Les aides financières sont versées jusqu’au 30 juin 2022. L’art. 5, al. 1, let. a, ne s’applique pas aux dommages subis entre le 17 février 2022 et le 30 juin 2022.[^4-3]
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 19 déc. 2020 ([RO 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
-[^4-3]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 905](https://fedlex.data.admin.ch/eli/oc/2021/905)).
+[^4-3]: Introduit par le ch. I de l’O du 17 déc. 2021 ([RO 2021 905](https://fedlex.data.admin.ch/eli/oc/2021/905)). Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 245](https://fedlex.data.admin.ch/eli/oc/2022/245)).
 
 #### Art. 5
 
@@ -127,16 +127,14 @@ Ne peuvent être compensés par une indemnité que les dommages qui:
 
 Les demandes doivent être déposées auprès des services compétents désignés par les cantons dans les délais suivants:
 
-- a. pour les dommages subis entre le 1<sup>er</sup> décembre 2021 et le 31 décembre 2021: jusqu’au 31 janvier 2022;
-- b. pour les dommages subis entre le 1<sup>er</sup> janvier 2022 et le 30 avril 2022: jusqu’au 31 mai 2022;
-- c. pour les dommages subis entre le 1<sup>er</sup> mai 2022 et le 31 août 2022: jusqu’au 30 septembre 2022;
-- d. pour les dommages subis entre le 1<sup>er</sup> septembre 2022 et le 31 décembre 2022: jusqu’au 30 novembre 2022.[^6-1]
+- a. pour les dommages subis entre le 1<sup>er</sup> janvier 2022 et le 30 avril 2022: jusqu’au 31 mai 2022;
+- b. pour les dommages subis entre le 1<sup>er</sup> mai 2022 et le 30 juin 2022: jusqu’au 31 juillet 2022.[^6-1]
 
 <sup>2</sup> Le canton compétent est celui dans lequel l’entreprise culturelle a son siège ou l’acteur culturel son domicile.[^6-2]
 
 <sup>3</sup> Les cantons statuent sur les demandes. La procédure est régie par le droit cantonal.
 
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 905](https://fedlex.data.admin.ch/eli/oc/2021/905)).
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 245](https://fedlex.data.admin.ch/eli/oc/2022/245)).
 [^6-2]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 19 déc. 2020 ([RO 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
 
 ## Section 3 Contributions à des projets de transformation
@@ -244,9 +242,9 @@ Les demandes sont évaluées sur la base des critères suivants:
 
 <sup>1</sup> Les associations culturelles d’amateurs reçoivent, sur demande, des aides financières pour les pertes financières résultant de l’annulation, du report ou de la tenue dans un format réduit de manifestations.
 
-<sup>2</sup> ...[^15-1]
+<sup>2</sup> Les aides financières sont versées jusqu’au 30 juin 2022. L’art. 16, al. 1, let. a, ne s’applique pas aux dommages subis entre le 17 février 2022 et le 30 juin 2022.[^15-1]
 
-[^15-1]: Abrogé par le ch. I de l’O du 18 déc. 2020, avec effet au 19 déc. 2020 ([RO 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 245](https://fedlex.data.admin.ch/eli/oc/2022/245)).
 
 #### Art. 16
 
@@ -269,11 +267,11 @@ Ne peuvent être compensés par une indemnité que les dommages qui:
 
 **Procédure**
 
-<sup>1</sup> Les demandes peuvent être déposées d’ici au 30 novembre 2022 auprès des associations faîtières reconnues par le Département fédéral de l’intérieur.[^17-1]
+<sup>1</sup> Les demandes peuvent être déposées d’ici au 31 juillet 2022 auprès des associations faîtières reconnues par le Département fédéral de l’intérieur.[^17-1]
 
 <sup>2</sup> Les associations faîtières statuent sur les demandes en tant qu’autorités au sens de l’art. 1, al. 2, let. e, PA[^17-2].
 
-[^17-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 905](https://fedlex.data.admin.ch/eli/oc/2021/905)).
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 245](https://fedlex.data.admin.ch/eli/oc/2022/245)).
 [^17-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 ## Section 6 Dispositions de procédure communes

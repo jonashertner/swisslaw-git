@@ -3,11 +3,11 @@ sr: "442.15"
 title: Verordnung vom 14. Oktober 2020 über die Massnahmen im Kulturbereich gemäss Covid-19-Gesetz (Covid-19-Kulturverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/759"
 language: de
-version: 2022-01-01
+version: 2022-05-01
 adopted: 2020-10-14
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/759/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-759-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/759/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2020-759-20220501-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20220501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20220101/de"
 
 (Covid-19-Kulturverordnung)
 
-vom 14. Oktober 2020 (Stand am 1. Januar 2022)
+vom 14. Oktober 2020 (Stand am 1. Mai 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -98,11 +98,11 @@ Es erhalten nur Kulturunternehmen Finanzhilfen, die:
 
 <sup>4</sup> Für die Finanzhilfen nach diesem Abschnitt gelten als Kulturunternehmen auch Veranstalter im Laienbereich, sofern sie ein Veranstaltungsbudget von mindesten 50 000 Franken aufweisen und einen Schaden von mindestens 10 000 Franken erleiden.
 
-<sup>5</sup> Bei vollständiger Aufhebung der staatlichen Massnahmen inklusive Zertifikatspflicht wird die Ausfallentschädigung für Kulturunternehmen und Kulturschaffende bis zum Ende des dannzumal laufenden Zeitraums gemäss Artikel 6 Absatz 1 ausgerichtet. Dasselbe gilt für die Entschädigungen für Kulturvereine im Laienbereich.[^4-3]
+<sup>5</sup> Die Finanzhilfen werden bis zum 30. Juni 2022 ausgerichtet. Für Schäden zwischen dem 17. Februar 2022 und dem 30. Juni 2022 findet Artikel 5 Absatz 1 Buchstabe a keine Anwendung.[^4-3]
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020, in Kraft seit 19. Dez. 2020 ([AS 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
 [^4-2]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. April 2021 ([AS 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
-[^4-3]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 905](https://fedlex.data.admin.ch/eli/oc/2021/905)).
+[^4-3]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021 ([AS 2021 905](https://fedlex.data.admin.ch/eli/oc/2021/905)). Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Mai 2022 ([AS 2022 245](https://fedlex.data.admin.ch/eli/oc/2022/245)).
 
 #### Art. 5
 
@@ -127,16 +127,14 @@ Ersatzfähig sind nur Schäden, die:
 
 Gesuche sind bei den von den Kantonen bezeichneten zuständigen Stellen wie folgt einzureichen:
 
-- a. für Schäden zwischen dem 1. Dezember 2021 und dem 31. Dezember 2021: bis zum 31. Januar 2022;
-- b. für Schäden zwischen dem 1. Januar 2022 und dem 30. April 2022: bis zum 31. Mai 2022;
-- c. für Schäden zwischen dem 1. Mai 2022 und dem 31. August 2022: bis zum 30. September 2022;
-  - d. für Schäden zwischen dem 1. September 2022 und dem 31. Dezember 2022: bis zum 30. November 2022.[^6-1]
+- a. für Schäden zwischen dem 1. Januar 2022 und dem 30. April 2022: bis zum 31. Mai 2022;
+- b. für Schäden zwischen dem 1. Mai 2022 und dem 30. Juni 2022: bis zum 31. Juli 2022.[^6-1]
 
 <sup>2</sup> Örtlich zuständig ist der Kanton am Sitz des Kulturunternehmens beziehungsweise am Wohnsitz des Kulturschaffenden.[^6-2]
 
 <sup>3</sup> Die Kantone entscheiden über die Gesuche. Das Verfahren richtet sich nach kantonalem Recht.
 
-[^6-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 905](https://fedlex.data.admin.ch/eli/oc/2021/905)).
+[^6-1]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Mai 2022 ([AS 2022 245](https://fedlex.data.admin.ch/eli/oc/2022/245)).
 [^6-2]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020, in Kraft seit 19. Dez. 2020 ([AS 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
 
 ## 3. Abschnitt: Beiträge an Transformationsprojekte
@@ -244,9 +242,9 @@ Die Gesuche werden nach den folgenden Kriterien beurteilt:
 
 <sup>1</sup> Kulturvereine im Laienbereich erhalten auf Gesuch Finanzhilfen für den finanziellen Schaden, der aus der Absage, Verschiebung oder eingeschränkten Durchführung von Veranstaltungen entsteht.
 
-<sup>2</sup> …[^15-1]
+<sup>2</sup> Die Finanzhilfen werden bis zum 30. Juni 2022 ausgerichtet. Für Schäden zwischen dem 17. Februar 2022 und dem 30. Juni 2022 findet Artikel 16 Absatz 1 Buchstabe a keine Anwendung.[^15-1]
 
-[^15-1]: Aufgehoben durch Ziff. I der V vom 18. Dez. 2020, mit Wirkung seit 19. Dez. 2020 ([AS 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
+[^15-1]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Mai 2022 ([AS 2022 245](https://fedlex.data.admin.ch/eli/oc/2022/245)).
 
 #### Art. 16
 
@@ -269,11 +267,11 @@ Ersatzfähig sind nur Schäden, die:
 
 **Verfahren**
 
-<sup>1</sup> Gesuche können bis zum 30. November 2022 bei den vom Eidgenössischen Departement des Innern anerkannten Dachverbänden eingereicht werden.[^17-1]
+<sup>1</sup> Gesuche können bis zum 31. Juli 2022 bei den vom Eidgenössischen Departement des Innern anerkannten Dachverbänden eingereicht werden.[^17-1]
 
 <sup>2</sup> Die Dachverbände entscheiden als Behörden im Sinne von Artikel 1 Absatz 2 Buchstabe e VwVG[^17-2] über die Gesuche.
 
-[^17-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 905](https://fedlex.data.admin.ch/eli/oc/2021/905)).
+[^17-1]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Mai 2022 ([AS 2022 245](https://fedlex.data.admin.ch/eli/oc/2022/245)).
 [^17-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 ## 6. Abschnitt: Gemeinsame Verfahrensbestimmungen
