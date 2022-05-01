@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2022-04-01
+version: 2022-05-02
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220502/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220502-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220502/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220401/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 1<sup>er</sup> avril 2022)
+du 19 juin 2020 (Etat le 2 mai 2022)
 
 Le Conseil fédéral suisse,
 
@@ -750,41 +750,15 @@ Annexe 1*[^t-1]*
 
 ## Liste des pays et régions à risque
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 20 janv. 2022, en vigueur depuis le 24 janv. 2022 ([RO 2022 26](https://fedlex.data.admin.ch/eli/oc/2022/26)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 21 avr. 2022, en vigueur depuis le 2 mai 2022 ([RO 2022 254](https://fedlex.data.admin.ch/eli/oc/2022/254)).
 
 ### 1. Liste des pays et régions à risque (art. 3, al. 2, let. a)
 
-Tous les États et régions en dehors de l’espace Schengen, sauf les suivants:
-
-- – Andorre
-- – Arabie saoudite
-- – Bahreïn
-- – Bulgarie
-- – Chili
-- – Chypre
-- – Colombie
-- – Corée (Sud)
-- – Croatie
-- – Émirats arabes unis
-- – Hong Kong
-- – Indonésie
-- – Irlande
-- – Koweït
-- – Macao
-- – Monaco
-- – Nouvelle-Zélande
-- – Pérou
-- – Qatar
-- – Roumanie
-- – Rwanda
-- – Saint-Marin
-- – Saint-Siège
-- – Taïwan (Taipei chinois)
-- – Uruguay
+La présente liste ne contient actuellement aucune entrée.
 
 ### 2. Pays et régions à risque avec un variant du virus SARS-CoV-2 dont le risque d’infection ou d’évolution grave de la maladie est plus élevé que pour le variant du virus qui prévaut dans l’espace Schengen (art. 3, al. 2, let. b)
 
-L’annexe ne contient actuellement aucune entrée.
+La présente liste ne contient actuellement aucune entrée.
 
 Annexe 1a*[^t-2]*
 

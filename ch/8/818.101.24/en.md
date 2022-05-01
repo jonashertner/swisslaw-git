@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2022-04-01
+version: 2022-05-02
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220401/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220401-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220401/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220502/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220502-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220502/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 1 April 2022)
+of 19 June 2020 (Status as of 2 May 2022)
 
 The Swiss Federal Council,
 
@@ -752,37 +752,11 @@ Annex 1*[^t-1]*
 
 ## List of high-risk countries and regions
 
-[^t-1]: Amended by No I of the FDJP O of 20 Jan. 2022, in force since 24 Jan. 2022 ([AS 2022 26](https://fedlex.data.admin.ch/eli/oc/2022/26)).
+[^t-1]: Amended by No I of the FDJP O of 21 April 2022, in force since 2 May 2022 ([AS 2022 254](https://fedlex.data.admin.ch/eli/oc/2022/254)).
 
 ### 1. High-risk countries and regions (Art. 3 para. 2 let. a)
 
-All countries and regions outside the Schengen area, with the exception of:
-
-- – Andorra
-- – Bahrain
-- – Bulgaria
-- – Chile
-- – Colombia
-- – Croatia
-- – Cyprus
-- – Holy See
-- – Hong Kong
-- – Indonesia
-- – Ireland
-- – Kuwait
-- – Macau
-- – Monaco
-- – New Zealand
-- – Qatar
-- – Peru
-- – Romania
-- – Rwanda
-- – San Marino
-- – Saudi Arabia
-- – South Korea
-- – Taiwan (Chinese Taipei)
-- – United Arab Emirates
-- – Uruguay
+*There are no entries currently on this list*
 
 ### 2. High-risk countries and regions with a variant of the Sars-CoV-2 virus that carries a higher risk of infection or causes a more severe form of the disease in comparison with the variant of the virus prevalent in the Schengen area (Art. 3 para. 2 let. b)
 

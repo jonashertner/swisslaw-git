@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2022-04-01
+version: 2022-05-02
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220502/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220502-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220502/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220401/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 1. April 2022)
+vom 19. Juni 2020 (Stand am 2. Mai 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -92,7 +92,7 @@ Von diesem Einreiseverbot ausgenommen sind Personen, die:
 - b. glaubhaft machen, dass sie sich in einer Situation der äussersten Notwendigkeit befinden;
 - c.[^4-9] das 18. Altersjahr noch nicht vollendet haben.[^4-10]
 
-<sup>2bis</sup> ...[^4-11]
+<sup>2bis</sup> …[^4-11]
 
 <sup>2ter</sup> Die Ausnahmen nach Absatz 2 Buchstaben a, a<sup>bis</sup> und c gelten nicht für Personen, die aus einem Land oder einer Region nach Anhang 1 Ziffer 2 in die Schweiz einreisen wollen.[^4-12]
 
@@ -750,41 +750,15 @@ Anhang 1*[^t-1]*
 
 ## Liste der Risikoländer und -regionen
 
-[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 20. Jan. 2022, in Kraft seit 24. Jan. 2022 ([AS 2022 26](https://fedlex.data.admin.ch/eli/oc/2022/26)).
+[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 21. April 2022, in Kraft seit 2. Mai 2022 ([AS 2022 254](https://fedlex.data.admin.ch/eli/oc/2022/254)).
 
 ### 1. Risikoländer und -regionen (Art. 3 Abs. 2 Bst. a)
 
-Alle Staaten und Regionen ausserhalb des Schengen-Raums, mit Ausnahme von:
-
-- – Andorra
-- – Bahrain
-- – Bulgarien
-- – Chile
-- – Heiliger Stuhl
-- – Hongkong
-- – Indonesien
-- – Irland
-- – Katar
-- – Kolumbien
-- – Korea (Süd-)
-- – Kroatien
-- – Kuwait
-- – Macau
-- – Monaco
-- – Neuseeland
-- – Peru
-- – Ruanda
-- – Rumänien
-- – San Marino
-- – Saudi-Arabien
-- – Taiwan (Chinesisches Taipei)
-- – Uruguay
-- – Vereinigte Arabische Emirate
-- – Zypern
+Diese Liste enthält zurzeit keine Einträge.
 
 ### 2. Risikoländer und -regionen mit einer Variante des Virus Sars-CoV-2, von der im Vergleich zu der im Schengen-Raum verbreiteten Virusvariante eine höhere Gefahr der Ansteckung oder eines schweren Krankheitsverlaufs ausgeht (Art. 3 Abs. 2 Bst. b)
 
-*Dieser Anhang enthält zurzeit keine Einträge.*
+Diese Liste enthält zurzeit keine Einträge.
 
 - [tab]
 
