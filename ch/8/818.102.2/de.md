@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2022-04-14
+version: 2022-05-02
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220414/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220414-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220414/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220502/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220502-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220502/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220414/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 14. April 2022)
+vom 4. Juni 2021 (Stand am 2. Mai 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -129,7 +129,7 @@ Die Kantone und der Oberfeldarzt melden die bezeichneten Ausstellerinnen und Aus
 
 <sup>1</sup>
 
-Die Kantone und der Oberfeldarzt sorgen dafür, dass in den nachstehenden Fällen Anträge auf Ausstellung eines Covid-19-Impfzertifikats oder eines Covid-19-Genesungszertifikats nach Artikel 16 Absatz 1 behandelt werden, auch wenn dafür keine Krankengeschichte oder Primärdokumentation bei einer Ausstellerin oder einem Aussteller nach Artikel 6 vorliegt:[^7-2]
+Die Kantone und der Oberfeldarzt sorgen dafür, dass in den nachstehenden Fällen Anträge auf Ausstellung eines Covid-19-Impfzertifikats oder eines Covid-19-Genesungszertifikats nach Artikel 16 Absatz 1 Buchstabe a behandelt werden, auch wenn dafür keine Krankengeschichte oder Primärdokumentation bei einer Ausstellerin oder einem Aussteller nach Artikel 6 vorliegt:[^7-2]
 
 - a. für eine in der Schweiz erhaltene Impfung oder durchgemachte, mit einer molekularbiologischen Analyse nachweisbare Erkrankung;
 - b.[^7-3]
@@ -144,11 +144,16 @@ Die Kantone und der Oberfeldarzt sorgen dafür, dass in den nachstehenden Fälle
   - 6\. Personen mit einer Legitimationskarte nach Artikel 17 der Gaststaatverordnung vom 7. Dezember 2007[^7-7],
   - 7\. Personen mit einem Ci-Ausweis nach Artikel 22 Absatz 3 der Gaststaatverordnung.[^7-8]
 
-<sup>1bis</sup> …[^7-9]
+<sup>1bis</sup>
+
+Die Kantone sorgen dafür, dass Anträge auf Ausstellung eines Covid-19-Genesungszertifikats nach Artikel 16 Absatz 1 Buchstaben b oder c für folgende Personen behandelt werden, auch wenn dafür keine Krankengeschichte oder Primärdokumentation bei einer Ausstellerin oder einem Aussteller nach Artikel 6 vorliegt:
+
+- a. Personen, die eine Absonderungsverfügung erhalten haben;
+- b. Personen, für die ein Covid-19-Genesungszertifikat nach Artikel 16 Absatz 1 Buchstabe b in der Fassung vom 19. Januar 2022[^7-9] ausgestellt wurde.[^7-10]
 
 <sup>2</sup> Sie bezeichnen für die Behandlung solcher Anträge mindestens eine Ausstellerin oder einen Aussteller.
 
-<sup>3</sup> Der Antrag auf Ausstellung eines Covid-19-Impfzertifikats oder eines Covid-19-Genesungszertifikats nach Absatz 1 muss zusammen mit den Unterlagen nach den Artikeln 13 Absatz 2 Buchstabe c und 16 in einer Amtssprache des Kantons, in Englisch oder in einer amtlich beglaubigten Übersetzung in einer dieser Sprachen eingereicht werden.[^7-10]
+<sup>3</sup> Der Antrag auf Ausstellung eines Covid-19-Impfzertifikats oder eines Covid-19-Genesungszertifikats nach Absatz 1 muss zusammen mit den Unterlagen nach den Artikeln 13 Absatz 2 Buchstabe c und 16 in einer Amtssprache des Kantons, in Englisch oder in einer amtlich beglaubigten Übersetzung in einer dieser Sprachen eingereicht werden.[^7-11]
 
 <sup>4</sup>
 
@@ -162,23 +167,24 @@ Bestehen Zweifel an der Echtheit der eingereichten Unterlagen, so kann die Ausst
   - 2\. amtliche Beglaubigungen der Unterlagen einreicht,
   - 3\. weitere Informationen oder Unterlagen, die zur Beurteilung des Antrags notwendig sind, einreicht;
 
-- b. unter Einhaltung von Artikel 62 des Epidemiengesetzes vom 28. September 2012[^7-11] weitere Informationen von zuständigen ausländischen Stellen einholen.[^7-12]
+- b. unter Einhaltung von Artikel 62 des Epidemiengesetzes vom 28. September 2012[^7-12] weitere Informationen von zuständigen ausländischen Stellen einholen.[^7-13]
 
-<sup>5</sup> Bestehen trotz Massnahmen weiterhin Zweifel an der Echtheit der Unterlagen, so kann die Ausstellerin oder der Aussteller den Antrag ablehnen. Die antragstellende Person hat diesfalls keinen Anspruch auf Rückerstattung einer allfällig bezahlten Gebühr.[^7-13]
+<sup>5</sup> Bestehen trotz Massnahmen weiterhin Zweifel an der Echtheit der Unterlagen, so kann die Ausstellerin oder der Aussteller den Antrag ablehnen. Die antragstellende Person hat diesfalls keinen Anspruch auf Rückerstattung einer allfällig bezahlten Gebühr.[^7-14]
 
 [^7-1]: Fassung gemäss Anhang Ziff. 3 der V vom 17. Dez. 2021, in Kraft seit 17. Jan. 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
-[^7-2]: Fassung gemäss Ziff. I der V vom 16. Febr. 2022 (Auslaufen der nur in der Schweiz gültigen Covid-19-Zertifikate), in Kraft seit 17. Febr. 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+[^7-2]: Fassung gemäss Ziff. I der V vom 27. April 2022 (EU-kompatible Covid-19-Genesungszertifikate für Antigen-Schnelltests), in Kraft seit 2. Mai 2022 ([AS 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)).
 [^7-3]: Fassung gemäss Ziff. I der V vom 16. Febr. 2022 (Auslaufen der nur in der Schweiz gültigen Covid-19-Zertifikate), in Kraft seit 17. Febr. 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
 [^7-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^7-5]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^7-6]: [SR 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
 [^7-7]: [SR 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)
 [^7-8]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 3. Febr. 2022 ([AS 2022 60](https://fedlex.data.admin.ch/eli/oc/2022/60)).
-[^7-9]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022 ([AS 2022 60](https://fedlex.data.admin.ch/eli/oc/2022/60)). Aufgehoben durch Ziff. I der V vom 16. Febr. 2022 (Auslaufen der nur in der Schweiz gültigen Covid-19-Zertifikate), mit Wirkung seit 17. Febr. 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
-[^7-10]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
-[^7-11]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^7-12]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^7-9]: [AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)
+[^7-10]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022 ([AS 2022 60](https://fedlex.data.admin.ch/eli/oc/2022/60)). Fassung gemäss Ziff. I der V vom 27. April 2022 (EU-kompatible Covid-19-Genesungszertifikate für Antigen-Schnelltests), in Kraft seit 2. Mai 2022 ([AS 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)).
+[^7-11]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^7-12]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^7-13]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^7-14]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
 
 #### Art. 7a
 
@@ -366,11 +372,30 @@ Covid-19-Impfzertifikate enthalten neben dem allgemeinen Inhalt aller Covid-19-Z
 
 **Voraussetzungen**[^16-1]
 
-<sup>1</sup> Ein Covid-19-Genesungszertifikat wird ausgestellt, wenn eine Person sich mit Sars-CoV-2 angesteckt hat und als genesen gilt. Der Befund, dass die Person sich angesteckt hat, muss sich auf ein positives Ergebnis einer molekularbiologischen Analyse auf Sars-CoV-2 stützen.
+<sup>1</sup>
+
+Ein Covid-19-Genesungszertifikat wird ausgestellt, wenn eine Person sich mit Sars-CoV-2 angesteckt hat und als genesen gilt. Der Befund, dass die Person sich angesteckt hat, muss sich auf ein positives Ergebnis einer der folgenden Analysen stützen:
+
+- a. eine molekularbiologische Analyse auf Sars-CoV-2;
+- b.
+
+  ein Sars-CoV-2-Schnelltest zur Fachanwendung nach Artikel 24*a* Absatz 1 der Covid-19-Verordnung 3 vom 19. Juni 2020[^16-2], sofern:
+
+  - 1\. die Probe ab dem 1. Oktober 2021 in der Schweiz von einer Einrichtung nach Anhang 6 Ziffer 1.4.3 Buchstabe a der Covid-19-Verordnung 3 entnommen wurde, und
+  - 2\. der Test weder auf einer Probeentnahme nur aus dem Nasenraum noch auf einer Speichelprobe basiert;
+
+- c.
+
+  eine laborbasierte immunologische Analyse auf Sars-CoV-2-Antigene, sofern:
+
+  - 1\. die Analyse durch ein nach Artikel 16 des Epidemiengesetzes vom 28. September 2012[^16-3] bewilligtes Laboratorium durchgeführt wurde,
+  - 2\. die Analyse in der EU für die Ausstellung eines digitalen Covid-19-Zertifikats der EU zugelassen ist,
+  - 3\. die Probe ab dem 1. Oktober 2021 in der Schweiz von einer Einrichtung nach Anhang 6 Ziffer 1.4.3 Buchstabe a der Covid-19-Verordnung 3 entnommen wurde, und
+  - 4\. die Analyse weder auf einer Probeentnahme nur aus dem Nasenraum noch auf einer Speichelprobe basiert.[^16-4]
 
 <sup>2</sup>
 
-Ein Antrag auf Ausstellung eines Covid-19-Zertifikats nach Absatz 1 für eine im Ausland durchgemachte Erkrankung muss folgende Unterlagen umfassen:
+Ein Antrag auf Ausstellung eines Covid-19-Genesungszertifikats für eine im Ausland durchgemachte Erkrankung muss sich auf ein positives Ergebnis einer molekularbiologischen Analyse auf Sars-CoV-2 stützen und folgende Unterlagen umfassen:[^16-5]
 
 - a.
 
@@ -383,6 +408,10 @@ Ein Antrag auf Ausstellung eines Covid-19-Zertifikats nach Absatz 1 für eine im
 - b. Bestätigung der Aufhebung der Absonderung oder ärztliche Bestätigung der Genesung von einer zuständigen Stelle mit behördlichen Aufgaben einschliesslich Name und Adresse dieser Stelle.
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 16. Febr. 2022 (Auslaufen der nur in der Schweiz gültigen Covid-19-Zertifikate), in Kraft seit 17. Febr. 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+[^16-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^16-3]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^16-4]: Fassung gemäss Ziff. I der V vom 27. April 2022 (EU-kompatible Covid-19-Genesungszertifikate für Antigen-Schnelltests), in Kraft seit 2. Mai 2022 ([AS 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)).
+[^16-5]: Fassung gemäss Ziff. I der V vom 27. April 2022 (EU-kompatible Covid-19-Genesungszertifikate für Antigen-Schnelltests), in Kraft seit 2. Mai 2022 ([AS 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)).
 
 #### Art. 17
 
@@ -957,7 +986,7 @@ Anhang 5*[^t-6]*
 
 ## Liste der anerkannten ausländischen Zertifikate
 
-[^t-6]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), vom 19. Jan. 2022 (Covid-Genesungszertifikate für Antigen-Schnelltests) ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), Ziff. I Abs. 2 der V des EDI vom 1. Febr. 2022 (Vollständigkeit von Grundimmunisierungen und Auffrischimpfungen, Berücksichtigung von weiteren Impfstoffen) ([AS 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)) und Ziff. I der V des EDI vom 22. Febr. 2022, in Kraft seit 23. Febr. 2022 ([AS 2022 117](https://fedlex.data.admin.ch/eli/oc/2022/117)).
+[^t-6]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), vom 19. Jan. 2022 (Covid-Genesungszertifikate für Antigen-Schnelltests) ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), Ziff. I der V des EDI vom 22. Febr. 2022 ([AS 2022 117](https://fedlex.data.admin.ch/eli/oc/2022/117)) und Ziff. II der V vom 27. April 2022 (EU-kompatible Covid-19-Genesungszertifikate für Antigen-Schnelltests), in Kraft seit 2. Mai 2022 ([AS 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)).
 
 ### 1 Anerkannte Zertifikate, die von einem Mitgliedstaat der EU oder der EFTA ausgestellt wurden
 
@@ -1006,6 +1035,7 @@ Anhang 5*[^t-6]*
 
   Anerkannt sind die Impf- und Testzertifikate, die in Übereinstimmung mit der Verordnung (EU) 2021/953 interoperabel sind und die von den folgenden Staaten und Regionen ausgestellt wurden:
 
+  - – Malaysia
   - – Neuseeland
   - – Singapur
   - – Taiwan (Chinesisches Taipei)
@@ -1017,6 +1047,7 @@ Anhang 5*[^t-6]*
   Anerkannt sind die Impfzertifikate, die in Übereinstimmung mit der Verordnung (EU) 2021/953 interoperabel sind und die von den folgenden Staaten und Regionen ausgestellt wurden:
 
   - – Jordanien
+  - – Kolumbien
   - – Libanon
   - – Tunesien
 

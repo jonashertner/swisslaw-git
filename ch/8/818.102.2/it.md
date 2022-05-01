@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2022-04-14
+version: 2022-05-02
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220414/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220414-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220414/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220502/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220502-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220502/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220414/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 14 aprile 2022) (Stato 14 aprile 2022)
+del 4 giugno 2021 (Stato 2 maggio 2022) (Stato 2 maggio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -131,7 +131,7 @@ I Cantoni e il medico in capo dell’esercito effettuano una comunicazione all�
 
 <sup>1</sup>
 
-I Cantoni e il medico capo dell’esercito provvedono affinché, nei seguenti casi, le richieste di emissione di certificati di vaccinazione COVID-19 o di certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 1 siano elaborate anche se a tal fine non è disponibile né una cartella clinica né documentazione primaria presso un emittente di cui all’articolo 6:[^7-2]
+I Cantoni e il medico capo dell’esercito provvedono affinché, nei seguenti casi, le richieste di emissione di certificati di vaccinazione COVID-19 o di certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 1 lettera a siano elaborate anche se a tal fine non è disponibile né una cartella clinica né documentazione primaria presso un emittente di cui all’articolo 6:[^7-2]
 
 - a. per una vaccinazione ricevuta in Svizzera o una guarigione avvenuta in Svizzera attestabile mediante un’analisi di biologia molecolare;
 - b.[^7-3]
@@ -146,11 +146,16 @@ I Cantoni e il medico capo dell’esercito provvedono affinché, nei seguenti ca
   - 6\. persone titolari di una carta di legittimazione secondo l’articolo 17 dell’ordinanza del 7 dicembre 2007[^7-7] sullo Stato ospite (OSOsp),
   - 7\. persone titolari di un permesso Ci secondo l’articolo 22 capoverso 3 OSOsp.[^7-8]
 
-<sup>1bis</sup> ...[^7-9]
+<sup>1bis</sup>
+
+I Cantoni provvedono affinché siano elaborate le richieste di emissione di certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 1 lettera b o c, anche se a tal fine non è disponibile né una cartella clinica né documentazione primaria presso un emittente di cui all’articolo 6, per le persone:
+
+- a. che hanno ricevuto una decisione di isolamento;
+- b. per le quali è stato emesso un certificato di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 1 lettera b nella versione del 19 gennaio 2022[^7-9].[^7-10]
 
 <sup>2</sup> Per l’elaborazione di tali richieste, designano almeno un emittente.
 
-<sup>3</sup> La richiesta di emissione di un certificato di vaccinazione COVID-19 o di un certificato di guarigione dalla COVID-19 di cui al capoverso 1, compresa la documentazione di cui agli articoli 13 capoverso 2 lettera c e 16, deve essere presentata in una lingua ufficiale del Cantone, in inglese o come traduzione autenticata ufficialmente in una di queste lingue.[^7-10]
+<sup>3</sup> La richiesta di emissione di un certificato di vaccinazione COVID-19 o di un certificato di guarigione dalla COVID-19 di cui al capoverso 1, compresa la documentazione di cui agli articoli 13 capoverso 2 lettera c e 16, deve essere presentata in una lingua ufficiale del Cantone, in inglese o come traduzione autenticata ufficialmente in una di queste lingue.[^7-11]
 
 <sup>4</sup>
 
@@ -164,23 +169,24 @@ Se sussistono dubbi sull’autenticità della documentazione presentata, l’emi
   - 2\. presentare autenticazioni ufficiali della documentazione,
   - 3\. presentare altre informazioni o altra documentazione necessaria per valutare la domanda;
 
-- b. chiedere altre informazioni a servizi esteri competenti, nel rispetto dell’articolo 62 della legge del 28 settembre 2012[^7-11] sulle epidemie.[^7-12]
+- b. chiedere altre informazioni a servizi esteri competenti, nel rispetto dell’articolo 62 della legge del 28 settembre 2012[^7-12] sulle epidemie.[^7-13]
 
-<sup>5</sup> Se nonostante i provvedimenti permangono dubbi sull’autenticità della documentazione, l’emittente può respingere la richiesta. In questo caso il richiedente non ha diritto ad alcun rimborso di un eventuale emolumento versato.[^7-13]
+<sup>5</sup> Se nonostante i provvedimenti permangono dubbi sull’autenticità della documentazione, l’emittente può respingere la richiesta. In questo caso il richiedente non ha diritto ad alcun rimborso di un eventuale emolumento versato.[^7-14]
 
 [^7-1]: Nuovo testo giusta l’all. n. 3 dell’O del 17 dic. 2021, in vigore dal 17 gen. 2022 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
-[^7-2]: Nuovo testo giusta n. I dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera), in vigore dal 17 feb. 2022 ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+[^7-2]: Nuovo testo giusta n. I dell’O del 27 apr. 2022 (Certificati di guarigione dalla COVID-19 compatibili con l’UE basati su test antigenici rapidi), in vigore dal 2 mag. 2022 ([RU 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)).
 [^7-3]: Nuovo testo giusta n. I dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera), in vigore dal 17 feb. 2022 ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
 [^7-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^7-5]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^7-6]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
 [^7-7]: [RS 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)
 [^7-8]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 3 feb. 2022 ([RU 2022 60](https://fedlex.data.admin.ch/eli/oc/2022/60)).
-[^7-9]: Introdotto dal n. I dell’O del 2 feb. 2022 ([RU 2022 60](https://fedlex.data.admin.ch/eli/oc/2022/60)). Abrogato dal n. I dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera), con effetto dal 17 feb. 2022 ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
-[^7-10]: Introdotto dal n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
-[^7-11]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^7-12]: Introdotto dal n. I dell’O del 1° ott. 2021, in vigore dall’11 ott. 2021 ([RU 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^7-9]: [RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)
+[^7-10]: Introdotto dal n. I dell’O del 2 feb. 2022 ([RU 2022 60](https://fedlex.data.admin.ch/eli/oc/2022/60)). Nuovo testo giusta n. I dell’O del 27 apr. 2022 (Certificati di guarigione dalla COVID-19 compatibili con l’UE basati su test antigenici rapidi), in vigore dal 2 mag. 2022 ([RU 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)).
+[^7-11]: Introdotto dal n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^7-12]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^7-13]: Introdotto dal n. I dell’O del 1° ott. 2021, in vigore dall’11 ott. 2021 ([RU 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^7-14]: Introdotto dal n. I dell’O del 1° ott. 2021, in vigore dall’11 ott. 2021 ([RU 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
 
 #### Art. 7a
 
@@ -367,11 +373,30 @@ Oltre al contenuto generale di tutti i certificati COVID-19, i certificati di va
 
 **Condizioni**[^16-1]
 
-<sup>1</sup> Un certificato di guarigione dalla COVID-19 è emesso se una persona è stata contagiata dal SARS-CoV-2 ed è considerata guarita. L’attestazione che la persona si è infettata deve basarsi sul risultato positivo di un’analisi di biologia molecolare per il rilevamento del SARS-CoV-2.
+<sup>1</sup>
+
+Un certificato di guarigione dalla COVID-19 è emesso se una persona si è infettata con il SARS-CoV-2 ed è considerata guarita. L’attestazione che la persona si è infettata deve basarsi sul risultato positivo di una delle seguenti analisi:
+
+- a. un’analisi di biologia molecolare per il rilevamento del SARS-CoV-2;
+- b.
+
+  un test rapido SARS-CoV-2 per uso professionale secondo l’articolo 24*a* capoverso 1 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^16-2], a condizione che:
+
+  - 1\. il campione sia stato prelevato in Svizzera a partire dal 1° ottobre 2021 da una struttura secondo l’allegato 6 numero 1.4.3 lettera a dell’ordinanza 3 COVID-19, e
+  - 2\. il test non si basi né su un campione prelevato soltanto dalla cavità nasale né su un campione di saliva;
+
+- c.
+
+  un’analisi immunologica di laboratorio degli antigeni SARS-CoV-2, a condizione che:
+
+  - 1\. l’analisi sia stata effettuata da un laboratorio autorizzato secondo l’articolo 16 della legge del 28 settembre 2012[^16-3] sulle epidemie,
+  - 2\. l’analisi sia ammessa nell’UE per l’emissione di un certificato COVID‑19 digitale dell’UE,
+  - 3\. il campione sia stato prelevato in Svizzera a partire dal 1° ottobre 2021 da una struttura secondo l’allegato 6 numero 1.4.3 lettera a dell’ordinanza 3 COVID-19, e
+  - 4\. l’analisi non si basi né su un campione prelevato soltanto dalla cavità nasale né su un campione di saliva.[^16-4]
 
 <sup>2</sup>
 
-Una richiesta di emissione di un certificato COVID-19 di cui al capoverso 1 per una guarigione avvenuta all’estero deve comprendere la seguente documentazione:
+Una richiesta di emissione di un certificato di guarigione COVID-19 per una guarigione avvenuta all’estero deve basarsi su un’attestazione di un risultato positivo di un’analisi di biologia molecolare per il rilevamento del SARS-CoV-2 e comprendere la seguente documentazione:[^16-5]
 
 - a.
 
@@ -384,6 +409,10 @@ Una richiesta di emissione di un certificato COVID-19 di cui al capoverso 1 per 
 - b. conferma della revoca dell’isolamento o conferma medica della guarigione rilasciata da un servizio competente che adempie compiti delle autorità, incluso il nome e l’indirizzo di questo servizio.
 
 [^16-1]: Nuovo testo giusta n. I dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera), in vigore dal 17 feb. 2022 ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+[^16-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^16-3]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^16-4]: Nuovo testo giusta n. I dell’O del 27 apr. 2022 (Certificati di guarigione dalla COVID-19 compatibili con l’UE basati su test antigenici rapidi), in vigore dal 2 mag. 2022 ([RU 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)).
+[^16-5]: Nuovo testo giusta n. I dell’O del 27 apr. 2022 (Certificati di guarigione dalla COVID-19 compatibili con l’UE basati su test antigenici rapidi), in vigore dal 2 mag. 2022 ([RU 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)).
 
 #### Art. 17
 
@@ -959,7 +988,7 @@ Allegato 5*[^t-6]*
 
 ## Elenco dei certificati esteri riconosciuti
 
-[^t-6]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dal n. II delle O del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi) ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), dal n. I cpv. 2 dell’O del DFI del 1° feb. 2022 (Completamento delle immunizzazioni di base e vaccinazioni di richiamo, considerazione di ulteriori vaccini ([RU 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)) e dal n. I dell’O del del DFI del 22 feb. 2022, in vigore dal 23 feb. 2022 ([RU 2022 117](https://fedlex.data.admin.ch/eli/oc/2022/117)).
+[^t-6]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dal n. II delle O del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi) ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), dal n. I dell’O del del DFI del 22 feb. 2022 ([RU 2022 117](https://fedlex.data.admin.ch/eli/oc/2022/117)) e dal n. II dell’O del 27 apr. 2022 (Certificati di guarigione dalla COVID-19 compatibili con l’UE basati su test antigenici rapidi), in vigore dal 2 mag. 2022 ([RU 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)).
 
 ### 1 Certificati riconosciuti emessi da uno Stato membro dell’UE o dell’AELS
 
@@ -1009,6 +1038,7 @@ Allegato 5*[^t-6]*
   Sono riconosciuti i certificati di vaccinazione e di test che sono interoperabili conformemente al regolamento (UE) 2021/953 e che sono stati emessi dagli Stati e dalle regioni seguenti:
 
   - – Emirati Arabi Uniti
+  - – Malaysia
   - – Nuova Zelanda
   - – Singapore
   - – Taiwan (Taipei cinese)
@@ -1018,6 +1048,7 @@ Allegato 5*[^t-6]*
 
   Sono riconosciuti i certificati di vaccinazione che sono interoperabili conformemente al regolamento (UE) 2021/953 e che sono stati emessi dagli Stati e dalle regioni seguenti:
 
+  - – Colombia
   - – Giordania
   - – Libano
   - – Tunisia
