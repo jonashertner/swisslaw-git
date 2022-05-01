@@ -4,28 +4,27 @@ number: BeE 370.700
 title: Reglement für das Gartenbad Bettingen
 short: Gartenbad-Reglement
 language: de
-version: 2020-01-09
-valid_until: 2022-05-01
-version_adopted: 2019-12-09
+version: 2022-05-02
+version_adopted: 2022-04-11
 adopted: 2022-04-11
 in_force: 2022-05-02
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20370.700"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4753/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5524/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement für das Gartenbad Bettingen
 
-Gartenbad: Reglement | Bettingen: Einwohnergemeinde
+Einwohnergemeinde Bettingen / Gesundheit
 
 (Gartenbad-Reglement)
 
-Vom 18. April 2016 (Stand 9. Januar 2020)
+Vom 11. April 2022 (Stand 2. Mai 2022)
 
 Der Gemeinderat Bettingen,
 
-gestützt auf § 30 Abs. 1 Ziff. 6 der Gemeindeordnung der Einwohnergemeinde Bettingen vom 26. April 2016[^ingress-1],
+gestützt auf § 30 Abs. 1 Ziff. 6 und Abs. 5 der Gemeindeordnung der Einwohnergemeinde Bettingen vom 26. April 2016[^ingress-1],
 
 beschliesst:
 
@@ -33,15 +32,72 @@ beschliesst:
 
 #### § 1
 
-**Öffnungszeiten**
+**Allgemeines**
 
-<sup>1</sup> Der Gemeinderat legt die Betriebs- und Öffnungszeiten fest. Beginn und Schluss der Badesaison werden auf der Homepage der Gemeinde Bettingen publiziert; ebenso können diese Informationen bei der Gemeindeverwaltung eingesehen werden.
+<sup>1</sup> Die Einwohnergemeinde Bettingen betreibt das Gartenbad Bettingen.
 
-<sup>2</sup> Die Betriebsleitung kann aufgrund der Wetterverhältnisse oder bei besonderen Anlässen und Vorkommnissen sowie für Reinigungs- und Unterhaltsarbeiten die Öffnungszeiten vorübergehend einschränken, verlängern oder einstellen. Auch kann die Nutzung einzelner Bereiche des Gartenbads eingeschränkt werden.
+<sup>2</sup> Sie trifft die für den Betrieb des Gartenbades erforderlichen Anordnungen.
 
-<sup>3</sup> Das Betreten des Gartenbads ausserhalb der Öffnungszeiten ist verboten und kann mit Busse geahndet werden.
+<sup>3</sup> Der Gemeinderat setzt eine Betriebsleitung ein. Die Betriebsleitung ist zuständig für:
+
+- a) den Betrieb und Unterhalt der Anlage;
+- b) die Instandhaltung und Instandsetzung;
+- c) die Sicherheit;
+- d) das gemeindeeigene Personal.
+
+<sup>4</sup> Der Gemeinderat kann die Führung des Gastronomiebereichs an eine externe Firma übertragen. Die Betriebsleitung des Gartenbads ist Schnittstelle zwischen Badebetrieb und Gastronomiebereich.
 
 #### § 2
+
+**Nutzungs- und Zutrittsberechtigung**
+
+<sup>1</sup> Das Gartenbad ist während den publizierten Zeiten öffentlich zugänglich. Zutrittsberechtigt ist, wer die Eintrittsgebühr entrichtet und sich an das Gartenbad-Reglement hält.
+
+<sup>2</sup> Für Teile der Anlage kann die Nutzung zeitlich und örtlich eingeschränkt werden.
+
+<sup>3</sup> Keine Zutritts- und Nutzungsberechtigung haben Personen:
+
+- a) die unter Betäubungsmittel- oder Alkoholeinfluss stehen;
+- b) die durch Kleidung oder Verhalten Anstoss erregen oder die Hygiene gefährden;
+- c) die den geordneten Betrieb auf der Anlage stören oder gefährden;
+- d) denen ein Hausverbot auferlegt worden ist.
+
+<sup>4</sup> Der Zutritt kann mit Auflagen verbunden sein, wenn eine Person nicht selbst für ihre Sicherheit besorgt sein kann. Insbesondere haben Kinder unter acht Jahren und Personen, die zu ihrer Sicherheit auf dauernde Assistenz und Überwachung angewiesen sind, nur in Begleitung einer geeigneten Person Zutritt zum Gartenbad. Die Mitarbeitenden können zur Kontrolle einen Ausweis verlangen.
+
+<sup>5</sup> Es dürfen keine Hunde oder andere Tiere mitgeführt werden, mit Ausnahme von Blindenführhunden oder Assistenzhunden für Menschen mit Behinderung.
+
+<sup>6</sup> Das von der Gemeinde beauftragte Personal übt die Zutrittskontrolle im Gartenbad aus. Das Personal sorgt für einen geordneten Badebetrieb und kann die hierzu notwendigen Weisungen erteilen.
+
+<sup>7</sup> Das Personal ist befugt, sämtliche Anlageteile jederzeit zu kontrollieren und zu beaufsichtigen. Die Privatsphäre der Badegäste ist dabei zu wahren.
+
+#### § 3
+
+**Schulklassen**
+
+<sup>1</sup> Schulklassen haben das Gartenbad nach Anmeldung beim zuständigen Badepersonal unter Führung ihrer Lehrkräfte geschlossen zu betreten und zu verlassen.
+
+<sup>2</sup> Der Einlass beschränkt sich auf höchsten zwei Schulklassen pro Tag.
+
+<sup>3</sup> Beim Besuch von Schulklassen sprechen sich die begleitenden Lehrkräfte und das zuständige Badepersonal über die Aufsicht ab. Die Verantwortung für die Schülerinnen und Schüler verbleibt in jedem Fall bei den Lehrkräften.
+
+#### § 4
+
+**Öffnungszeiten**
+
+<sup>1</sup> Der Gemeinderat kann die Betriebs- und Öffnungszeiten jährlich neu festlegen. Beginn und Schluss der Badesaison werden publiziert.
+
+<sup>2</sup> Die Betriebsleitung kann die Benützung aus folgenden Gründen ganz oder teilweise einschränken:
+
+- a) Veranstaltungen und besondere Anlässe;
+- b) Witterungsverhältnisse und witterungsbedingte Einflüsse;
+- c) Reinigungs- und technische Unterhaltsarbeiten;
+- d) unvorhergesehene Ereignisse.
+
+<sup>3</sup> Das Gartenbad ist rechtzeitig, spätestens aber auf allgemeinen Hinweis zu verlassen, damit alle Besuchenden am Ende der Öffnungszeiten alle Garderoben und Nebenräume geräumt haben.
+
+<sup>4</sup> Das Betreten des Gartenbads ausserhalb der Öffnungszeiten ist verboten und kann mit Busse geahndet werden.
+
+#### § 5
 
 **Gebühren**
 
@@ -53,136 +109,122 @@ beschliesst:
 
 <sup>4</sup> Bei Nichtgebrauch des Saisonabonnements besteht kein Anspruch auf Rückerstattung.
 
-#### § 3
-
-**Zutrittsbeschränkungen**
-
-<sup>1</sup> Das Gartenbad darf nicht betreten:
-
-- 1\. wer alkoholisiert ist, unter Drogeneinfluss steht oder unter Einfluss anderer berauschender Mittel sich selbst oder andere Gäste gefährdet;
-- 2\. wer offene Wunden hat oder an übertragbaren Krankheiten leidet;
-- 3\. wer wegen mangelnder Körperpflege die Hygiene gefährdet;
-- 4\. wer durch sein Verhalten Anstoss erregt;
-- 5\. wer weggewiesen wurde oder wem es durch Verfügung verboten ist, das Gartenbad zu betreten;
-- 6\. wer Tiere mit sich führt; ausgenommen sind Personen mit Assistenzhunden.
-
-<sup>2</sup> Kinder unter acht Jahren haben nur in Begleitung von Erwachsenen oder Jugendlichen ab 14 Jahren Zutritt. Das Badepersonal kann zur Alterskontrolle einen Ausweis verlangen.
-
-<sup>3</sup> Das Badepersonal übt die Zutrittskontrolle im Gartenbad aus und kann mitgebrachte Gepäckstücke auf alkoholische Getränke, Betäubungsmittel oder Drogen kontrollieren. Es sorgt für einen geordneten Badebetrieb und kann die hierzu notwendigen Weisungen erteilen.
-
-<sup>4</sup> Das Badepersonal ist befugt, sämtliche Anlageteile jederzeit zu kontrollieren und zu beaufsichtigen. Die Privatsphäre der Badegäste ist dabei zu wahren.
-
-#### § 4
-
-**Sanktionen**
-
-<sup>1</sup> Die Betriebsleitung ist befugt, Personen zu verwarnen oder aus dem Gartenbad wegzuweisen, die gegen dieses Reglement oder gegen Weisungen des Badepersonals verstossen. Bei Abwesenheit der Betriebsleitung ist das Badepersonal für die Wegweisung zuständig.
-
-<sup>2</sup> Zur Durchsetzung einer Wegweisung kann die Betriebsleitung bzw. das Badepersonal die Hilfe der Polizei in Anspruch nehmen.
-
-<sup>3</sup> Die Gemeindeverwalterin oder der Gemeindeverwalter sowie die bereichsleitende Gemeinderätin oder der bereichsleitende Gemeinderat kann auf Antrag der Betriebsleitung ein zeitlich begrenztes Zutrittsverbot aussprechen und entscheidet bei Inhaberinnen oder Inhabern von Saisonabonnementen, wie lange das Zutrittsverbot gilt.
-
-<sup>4</sup> Die Gemeindeverwalterin oder der Gemeindeverwalter sowie die bereichsleitende Gemeinderätin oder der bereichsleitende Gemeinderat kann nach Anhörung der betroffenen Person ein definitives Zutrittsverbot erlassen.
-
-<sup>5</sup> Bei Zutrittsverboten wird der Eintrittspreis nicht zurückerstattet.
-
-<sup>6</sup> Gegen definitive Zutrittsverbote kann beim Gemeinderat innert 10 Tagen seit deren Eröffnung Rekurs erhoben werden; innert 30 Tagen vom gleichen Zeitpunkt an gerechnet, hat die Rekursbegründung zu erfolgen. Der Gemeinderat entscheidet endgültig.
-
-#### § 5
-
-**Schulklassen**
-
-<sup>1</sup> Schulklassen haben das Gartenbad nach Anmeldung beim zuständigen Badepersonal unter Führung ihrer Lehrkräfte geschlossen zu betreten und zu verlassen.
-
-<sup>2</sup> Der Einlass beschränkt sich auf höchstens zwei Schulklassen.
-
-<sup>3</sup> Beim Besuch von Schulklassen sprechen sich die begleitende Lehrkraft und das zuständige Badepersonal über die Aufsicht ab. Die Verantwortung für die Schülerinnen und Schüler verbleibt in jedem Fall bei der Lehrkraft.
-
 #### § 6
 
-**Bewilligungspflicht**
+**Sauberkeit und Hygiene**
 
-<sup>1</sup> Für die Benützung des Gartenbades zu Trainingszwecken sowie für sportliche und andere Veranstaltungen erteilt die Betriebsleitung die Bewilligung.
+<sup>1</sup> Alle Einrichtungen und Räumlichkeiten sind sauber zu halten. Abfälle sind in den vorgesehenen Behältern zu entsorgen.
 
-<sup>2</sup> Das Verteilen und der Verkauf von Waren und Produkten sowie von Prospekten und anderen Drucksachen ist untersagt. Ausnahmen können von der Betriebsleitung bewilligt werden.
+<sup>2</sup> Vor der Benutzung des Bades ist das Duschen obligatorisch.
+
+<sup>3</sup> Das Baden ist nur in Badekleidung erlaubt. Das Personal kann Flächen ausweisen, zu denen Gästen der Zutritt nur in Badebekleidung erlaubt ist. Unter der Badebekleidung darf keine Unterbekleidung getragen werden.
+
+<sup>4</sup> Seifen und Duschmittel dürfen nur in Duschräumen verwendet werden.
+
+<sup>5</sup> In den Garderoben, an den Beckenrändern und im Schwimmbecken darf nicht gegessen, getrunken oder geraucht werden.
+
+<sup>6</sup> Das Wärmen von Speisen oder das Grillieren ist nur dort gestattet, wo entsprechende Einrichtungen ausgewiesen sind.
+
+<sup>7</sup> Mitgebrachte Lebensmittel dürfen nicht im Gastronomieareal konsumiert werden.
 
 #### § 7
 
-**Sicherheit**
+**Musikinstrumente, Musik- und Lautsprecheranlagen**
 
-<sup>1</sup> Nichtschwimmerinnen und Nichtschwimmern ist der Aufenthalt im Schwimmerabteil untersagt.
+<sup>1</sup> Das Mitbringen von Musikgeräten mit Lautsprechern und Musikinstrumenten ist verboten.
 
-<sup>2</sup> Das Springen ins Schwimmbecken darf nur an den dafür vorgesehenen Stellen erfolgen und geschieht auf eigene Gefahr. Die Springenden haben sich zu überzeugen, dass der Sprung ohne Gefährdung anderer Badegäste ausgeführt werden kann.
-
-<sup>3</sup> Das Badepersonal kann bei regem Betrieb weitere Einschränkungen vornehmen.
-
-<sup>4</sup> Personen, die sich wegen körperlichen oder geistigen Beeinträchtigungen nicht sicher bewegen oder sich gefährden können (z.B. Epilepsie), sollen die Badezone zusammen mit einer geeigneten Begleitperson betreten oder das zuständige Badepersonal verständigen.
+<sup>2</sup> Über die Nutzung von fest installierten Lautsprecheranlagen entscheidet die Betriebsleitung.
 
 #### § 8
 
-**Haftung und Fundgegenstände**
+**Filmen und Fotografieren**
 
-<sup>1</sup> Die Benutzung des Gartenbads erfolgt auf eigene Gefahr. Bei Unfällen tritt eine Haftung des Gartenbadbetriebes nur ein, wenn Mängel an Einrichtungen oder Verschulden des Personals nachgewiesen werden können.
+<sup>1</sup> Fotografieren und Filmen ist nur im Einverständnis mit den abzubildenden Personen und für private Zwecke erlaubt.
 
-<sup>2</sup> Für unbeaufsichtigte Kinder im Gartenbadareal wird jede Haftung abgelehnt.
-
-<sup>3</sup> Für Verlust, Diebstahl oder Beschädigungen von mitgebrachten Gegenständen wird jede Haftung abgelehnt.
-
-<sup>4</sup> Fundgegenstände sind an der Kasse abzugeben und können von der rechtmässigen Besitzerin oder vom rechtmässigen Besitzer dort abgeholt werden.
-
-<sup>5</sup> Verunreinigungen oder Beschädigungen sind umgehend dem Badepersonal zu melden. Die Kosten für die Behebung von Verunreinigungen und Beschädigungen sind von der Verursacherin oder dem Verursacher zu tragen.
+<sup>2</sup> Fotografieren und Filmen für kommerzielle oder publizistische Zwecke bedürfen der ausdrücklichen Bewilligung der abzubildenden Personen sowie des Gemeinderats. Für kommerzielle Foto- oder Filmaufnahmen können Gebühren erhoben werden.
 
 #### § 9
 
-**Allgemeine Verhaltensregeln**
+**Sicherheit**
 
-<sup>1</sup> Die Badegäste haben aufeinander Rücksicht zu nehmen und den Anlagen Sorge zu tragen. Der benutzte Liegeplatz ist sauber zu verlassen; Papier und andere Abfälle sind in die hierfür aufgestellten Behälter zu werfen.
+<sup>1</sup> Die Nutzung des Gartenbads erfolgt auf eigene Verantwortung. Es dürfen grundsätzlich nur diejenigen Teile der Anlage benutzt werden, bei denen die eigene Sicherheit und die Sicherheit Dritter jederzeit gewährleistet sind.
 
-<sup>2</sup> Das Baden ist aus hygienischen Gründen ausschliesslich mit ordentlicher Badebekleidung aus Synthetikmaterialien (z.B. Bikini, Badekleid, Badehose oder kurze Badeshorts ohne Taschen, keine Unterwäsche, keine Bermudas) erlaubt.
+<sup>2</sup> Bei Personen, die zu ihrer Sicherheit auf Begleitpersonen angewiesen sind, sind die Begleitpersonen für die Aufsicht verantwortlich.
 
-<sup>3</sup> Das Verhalten und die Badebekleidung darf das allgemeine sittliche Empfinden nicht verletzen.
+<sup>3</sup> Schwimmunkundige Personen dürfen nur die für sie vorgesehenen Becken benutzen. Die Planschbecken sind Kleinkindern und ihren Eltern vorbehalten.
 
-<sup>4</sup> Das An- und Auskleiden erfolgt in den Garderoberäumen.
+<sup>4</sup> In den Schwimmbecken sind ausserhalb bewilligter Trainings Auftriebskörper aller Art verboten. Geräte- und Apnoetauchen ist nur mit Bewilligung des Personals erlaubt.
 
-<sup>5</sup> Aus hygienischen Gründen ist das Duschen vor dem Baden obligatorisch.
+<sup>5</sup> Die Benutzung von Fahrrädern, Rollbrettern und Rollschuhen ist nicht erlaubt.
 
-<sup>6</sup> Jede Verunreinigung des Wassers ist zu vermeiden.
-
-<sup>7</sup> Es ist insbesondere untersagt:
-
-- 1\. Tiere mitzubringen (vorbehältlich Assistenzhunde);
-- 2\. mitgebrachte Lebensmittel im Kioskareal oder an den vorgesehenen Tischen und Stühlen zu konsumieren;
-- 3\. Fahrzeuge, Rollschuhe oder Rollbretter zu benützen;
-- 4\. Badegäste zu belästigen, insbesondere zu bespritzen, unterzutauchen und ins Bassin zu werfen;
-- 5\. in den Garderoben und Kabinen, im Wasser und im Beckenbereich zu rauchen, zu essen und zu trinken;
-- 6\. in den Bassins Seife zu verwenden;
-- 7\. offene Feuer zu entfachen und Kochapparate zu gebrauchen;
-- 8\. Personen ohne deren Zustimmung oder zu Erwerbszwecken zu filmen, zu fotografieren oder sonst wie Aufnahmen von ihnen zu machen;
-- 9\. alkoholische Getränke mitzubringen oder zu konsumieren;
-- 10\. in störender Weise zu musizieren oder elektronische Unterhaltungsgeräte abzuspielen;
-- 11\. die Alarmsirene oder Rettungseinrichtungen zu missbrauchen;
-- 12\. Ball oder andere Spiele, die Personen oder Pflanzen schädigen können, zu spielen;
-- 13\. im Beckenbereich zu rennen;
-- 14\. auf Bäume, Einrichtungen und Dächer zu klettern.
-
-<sup>8</sup> Das Badepersonal ist befugt, jederzeit ergänzende Regelungen für die Nutzung der jeweiligen Anlage festzusetzen und den Badegästen entsprechende Anweisungen zu erteilen.
+<sup>6</sup> Es ist untersagt, alkoholische Getränke mitzubringen oder zu konsumieren.
 
 #### § 10
 
-**Organisation**
+**Beachten von Weisungen**
 
-<sup>1</sup> Die Einwohnergemeinde Bettingen betreibt das Gartenbad Bettingen.
+<sup>1</sup> Personen, die sich im Gartenbad aufhalten, haben sich an die Weisungen der Mitarbeitenden zu halten und einschlägige Hinweisschilder und Bodenbeschriftungen zu beachten.
 
-<sup>2</sup> Die Einwohnergemeinde Bettingen trifft alle für den Betrieb des Gartenbades erforderlichen Anordnungen.
+<sup>2</sup> Das Badepersonal ist befugt, jederzeit ergänzende Regelungen für die Nutzung des Gartenbads festzusetzen, sofern dies nötig ist, und den Badegästen entsprechende Weisungen zu erteilen.
 
-<sup>3</sup> Wünsche, Anregungen und Beschwerden über die Arbeitsausführung und Anordnungen des Badepersonals sind schriftlich an die Betriebsleitung Gartenbad zu richten.
+#### § 11
 
-<sup>4</sup> Beschwerden gegen Entscheide und Anordnungen der Betriebsleitung sind schriftlich an den Gemeinderat zu richten.
+**Wegweisung und Zutrittsverbote**
 
-<sup>5</sup> Der Gemeinderat entscheidet endgültig.
+<sup>1</sup> Die Betriebsleitung bzw. die oder der tagesverantwortliche Mitarbeitende kann bei Widerhandlungen gegen das Reglement oder gegen Weisungen der Mitarbeitenden fehlbare Personen für maximal 72 Stunden wegweisen. Sie oder er kann die Personalien dieser Personen aufnehmen.
 
-Schlussbestimmung
+<sup>2</sup> Zur Durchsetzung einer Wegweisung kann die Betriebsleitung oder das Personal die Hilfe der Polizei in Anspruch nehmen.
 
-Dieses Reglement ist zu publizieren; es wird sofort wirksam.
+<sup>3</sup> Wer weggewiesen worden ist, darf die Anlage erst wieder betreten, wenn die Frist abgelaufen bzw. der Wegweisungsgrund dahingefallen ist.
 
-KB 23.04.2016
+<sup>4</sup> Die Gemeindeverwalterin oder der Gemeindeverwalter sowie die bereichsleitende Gemeinderätin oder der bereichsleitende Gemeinderat kann auf Antrag der Betriebsleitung länger dauernde, befristete Zutrittsverbote verfügen. Sie oder er kann nach Anhörung der betroffenen Person ein unbefristetes Zutrittsverbot erlassen.
+
+<sup>5</sup> Bei Zutrittsverboten wird der Eintrittspreis nicht zurückerstattet.
+
+#### § 12
+
+**Haftung bei Beschädigung**
+
+<sup>1</sup> Benutzende haften für durch sie an den Einrichtungen verursachten Schäden.
+
+<sup>2</sup> Verunreinigungen oder Beschädigungen sind unverzüglich dem Badepersonal zu melden.
+
+<sup>3</sup> Die Einwohnergemeinde haftet nicht für Schäden oder Folgen von Schäden, die durch Dritte verursacht wurden. Sie haftet nicht für den Verlust von Gegenständen, Geld oder Wertsachen.
+
+#### § 13
+
+**Fundsachen**
+
+<sup>1</sup> Fundsachen sind an der Kasse abzugeben. Sie werden während zwei Wochen aufbewahrt. Meldet sich die Eigentümerin oder der Eigentümer der Fundsachen nicht innert dieser Frist, werden die Fundsachen, mit Ausnahme von offensichtlich wertlosen Sachen, der Gemeindeverwaltung übergeben. Offensichtlich wertlose Sachen werden entsorgt.
+
+#### § 14
+
+**Sondernutzung**
+
+<sup>1</sup> Der Handel oder Verkauf von Waren oder Dienstleistungen, das Verteilen oder Anbringen von Werbung und anderen Drucksachen und weitere Sondernutzung ist nur mit schriftlicher Bewilligung der Betriebsleitung erlaubt.
+
+<sup>2</sup> Für die Benützung des Gartenbades zu Trainingszwecken sowie für sportliche und andere Veranstaltungen erteilt die Betriebsleitung die Bewilligung.
+
+<sup>3</sup> Veranstaltungen, die ausschliessliche Nutzung von Teilen des Gartenbades, die Benützung spezieller Geräte und dergleichen sind grundsätzlich bewilligungspflichtig.
+
+<sup>4</sup> Für Sondernutzungen können Gebühren erhoben werden.
+
+#### § 15
+
+**Bussen**
+
+<sup>1</sup> Wer den Bestimmungen dieses Reglements zuwiderhandelt, kann vom Gemeinderat mit Busse bis zu Fr. 500 bestraft werden.
+
+<sup>2</sup> In schweren Fällen leitet der Gemeinderat ein Strafverfahren wegen Missachtung von Benützungsvorschriften gemäss dem kantonalen Übertretungsstrafgesetz (ÜStG) vom 13. Februar 2019 ein.
+
+#### § 16
+
+**Rechtsmittel**
+
+<sup>1</sup> Gegen Verfügungen, die sich auf dieses Reglement stützen, kann nach den allgemeinen Vorschriften Rekurs an den Gemeinderat ergriffen werden.
+
+*Schlussbestimmung:*
+
+Dieses Reglement ist zu publizieren; es tritt am 2. Mai 2022 in Kraft. Auf den gleichen Zeitpunkt wird das Reglement für das Gartenbad Bettingen vom 18. April 2016 aufgehoben.
+
+KB 27.04.2022
