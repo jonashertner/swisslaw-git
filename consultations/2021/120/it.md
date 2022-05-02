@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Pacchetto di ordinanze agricole 2022
 document: Progetto posto in consultazione
 language: it
