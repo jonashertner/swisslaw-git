@@ -4,13 +4,13 @@ number: "821.40.63"
 title: Ordonnance sur les mesures économiques destinées à lutter contre les effets du coronavirus par un soutien aux cas de rigueur
 short: OMECR COVID-19
 language: fr
-version: 2021-12-24
-valid_until: 2022-05-02
-version_adopted: 2021-12-21
+version: 2022-05-03
+valid_until: 2022-08-31
+version_adopted: 2022-03-15
 adopted: 2020-11-16
 in_force: 2020-11-16
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.63"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7080/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7475/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ COVID-19, soutien aux cas de rigueur – O
 
 (OMECR COVID-19)
 
-du 16.11.2020 (version entrée en vigueur le 24.12.2021)
+du 16.11.2020 (version entrée en vigueur le 03.05.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -74,6 +74,8 @@ Arrête:
 - a) d'une part, du montant de 15 millions de francs fixé à l'article 6 al. 1 de la loi du 14 octobre 2020 approuvant les mesures urgentes du Conseil d'Etat visant à surmonter l'épidémie de COVID-19 (ci-après: la loi cantonale d'approbation) et,
 - b) d'autre part, des montants déjà engagés dans des mesures d'aide d'urgence reconnues par le droit fédéral.
 
+<sup>1a<sup>bis</sup></sup> Le financement dévolu aux aides complémentaires pour décembre 2021 provient du décret du 23 mars 2022 relatif au financement des mesures complémentaires pour les cas de rigueur et au financement des mesures concernant les manifestations publiques (parapluie de protection).
+
 <sup>1b</sup> En cas de besoin, le Conseil d'Etat détermine la manière dont la part cantonale additionnelle doit être couverte.
 
 <sup>2</sup> En cas de traitement des demandes par un tiers mandaté, les frais sont couverts par le montant prévu à l'alinéa 1a let. a.
@@ -95,6 +97,28 @@ Arrête:
 - a) dans lesquelles la Confédération, le canton ou les communes de plus de 12'000 habitants détiennent au total plus de 10 % du capital, de manière directe ou indirecte;
 - b) qui, dans le canton, n'exercent pas d'activité commerciale et n'emploient pas de personnel;
 - c) qui ont déjà bénéficié d'un soutien financier de l'Etat ou de la Confédération au sens de l'article 10 al. 1 de la présente ordonnance, à l'exception des entreprises au sens de l'alinéa 1a du présent article.
+
+#### Art. 3a
+
+**Aide complémentaire pour décembre 2021**
+
+<sup>1</sup> Sont éligibles à une aide complémentaire au sens du présent article les entreprises qui remplissent les conditions cumulatives suivantes:
+
+- a) elles ont subi une perte de chiffre d'affaires de 30 % au minimum en décembre 2021 par rapport à décembre 2019 en raison des mesures de protection contre l'épidémie de COVID-19 en vigueur durant cette même période;
+- b) elles ont été créées ou inscrites au registre du commerce avant le 1<sup>er</sup> octobre 2020;
+- c) elles ont bénéficié d'une indemnité ou d'une subvention octroyée au sens de la présente ordonnance dans la mesure où celle-ci était due;
+- d) elles entrent dans un des groupes d'activités suivants:
+  - 1\. groupe 1: bars et discothèques au bénéfice d'une patente D, domaine des sports et loisirs;
+  - 2\. groupe 2: hôtellerie au bénéfice d'une patente A;
+  - 3\. groupe 3: parahôtellerie au bénéfice d'une patente I, restauration, transport de personnes hors délégation d'une tâche publique (autocaristes, taxis), prestataires de services dans l'évènementiel, traiteurs;
+  - 4\. groupe 4: agences de voyage, voyagistes.
+
+<sup>2</sup> Sont dispensées de justifier d'une perte de chiffre d'affaires de 30 % au minimum:
+
+- a) les entreprises du groupe 1;
+- b) les entreprises créées ou inscrites au registre du commerce entre le 1<sup>er</sup> mars 2020 et le 30 septembre 2020.
+
+<sup>3</sup> Pour les entreprises créées entre le 2 décembre 2019 et le 29 février 2020, est considéré comme chiffre d'affaires pour décembre 2019 le chiffre d'affaires mensuel moyen calculé de la date de création au 29 février 2020.
 
 #### Art. 4
 
@@ -186,6 +210,16 @@ Arrête:
 <sup>2</sup> …
 
 <sup>3</sup> Si, lors de l'examen de la demande, l'entreprise présente une situation de surendettement qui permet de préjuger que sa survie demeurerait menacée malgré l'aide, celle-ci peut lui être refusée.
+
+#### Art. 7a
+
+**Viabilité ou rentabilité des entreprises éligibles selon l'article 3a**
+
+<sup>1</sup> Est considérée comme rentable ou viable en vertu des articles 6 al. 1 let. a l'entreprise qui atteste que:
+
+- a) elle ne fait pas l'objet d'une procédure de faillite ou d'une liquidation au moment du dépôt de la demande;
+- b) elle est à jour avec sa situation fiscale (paiement des impôts et dépôt de la déclaration 2020);
+- c) elle ne fait pas l'objet d'une procédure de poursuite relative à des cotisations sociales, à moins qu'un plan de paiement n'ait été convenu ou que la procédure ne se soit conclue par un paiement au moment du dépôt de la demande.
 
 #### Art. 8
 
@@ -326,6 +360,27 @@ Arrête:
 
 <sup>1</sup> Pour les entreprises et les établissements publics soumis à patente, au sens de la loi sur les établissements publics (LEPu), créés après le 1<sup>er</sup> octobre 2020 et ayant déjà perçu de l'aide par le biais de l'OMAF COVID-19 ou de l'OPCR-Gastro COVID-19, une aide forfaitaire exceptionnelle équivalant à un loyer mensuel hors charges ou aux intérêts mensuels de la dette peut être octroyée, sans déduction des aides déjà perçues sur la base desdites ordonnances, pour chaque mois de fermeture à compter du 1<sup>er</sup> février 2021 et jusqu'à réouverture complète autorisée par les autorités.
 
+#### Art. 13d
+
+**Aide complémentaire pour les entreprises éligibles selon l'article 3a**
+
+<sup>1</sup> Le soutien financier consiste en une aide complémentaire calculée en pourcentage de la perte de chiffre d'affaires sur le mois de décembre 2021 en comparaison avec le mois de décembre 2019:
+
+- a) 25 % pour les groupes 1, 2 et 3 au sens de l'article 3a al. 1 let. d de la présente ordonnance;
+- b) 10 % pour le groupe 4 au sens de l'article 3a al. 1 let. d de la présente ordonnance.
+
+<sup>2</sup> Pour les entreprises créées entre le 2 décembre 2019 et le 29 février 2020, est considéré comme chiffre d'affaires pour décembre 2019 le chiffre d'affaires mensuel moyen calculé selon l'article 3a al. 3.
+
+<sup>3</sup> Pour les entreprises créées ou inscrites entre le 1<sup>er</sup> mars 2020 et le 30 septembre 2020, l'aide consiste en un loyer mensuel hors charges ou l'équivalent des intérêts mensuels de la dette pour le mois de décembre 2021.
+
+<sup>4</sup> Pour les entreprises précédemment indemnisées en application de l'article 17c de la présente ordonnance, le soutien financier de l'alinéa 1 porte sur le même secteur.
+
+<sup>5</sup> Si l'aide complémentaire calculée selon l'alinéa 1 occasionne une surindemnisation par rapport aux coûts fixes non couverts sur ce même mois, le Service peut fixer un pourcentage de la perte de chiffre d'affaires plus faible.
+
+<sup>6</sup> En cas de surindemnisation non remboursée de l'indemnité ou de la subvention allouée en vertu de la présente ordonnance, celle-ci est déduite de l'aide complémentaire pour décembre 2021.
+
+<sup>7</sup> En cas d'indemnisation de la perte de chiffre d'affaires de décembre 2021 par une assurance privée, 75 % de cette indemnité est déduite de l'aide complémentaire.
+
 #### Art. 14
 
 **Prise en compte de la situation patrimoniale de l'entreprise**
@@ -358,6 +413,21 @@ Arrête:
 
 <sup>2</sup> Il peut être décidé et versé en plusieurs étapes.
 
+#### Art. 15a
+
+**Montant maximal de l'aide complémentaire au sens de l'article 3a**
+
+<sup>1</sup> L'article 15 ci-avant ne s'applique pas à l'aide complémentaire au sens de l'article 3a de la présente ordonnance.
+
+<sup>2</sup> Le montant maximal de l'aide complémentaire est plafonné à un pourcentage du chiffre d'affaires moyen des exercices 2018 et 2019 comme il suit selon les groupes déterminés à l'article 3a al. 1 let. d:
+
+- a) 2,5 % pour les groupes 1 et 2;
+- b) 1,5 % pour les groupes 3 et 4.
+
+<sup>3</sup> Dans tous les cas, le montant maximal de l'aide complémentaire est plafonné à 100'000 francs par entreprise bénéficiaire pour le mois de décembre 2021.
+
+<sup>4</sup> Ce plafond s'applique aussi aux entreprises bénéficiaires dont le chiffre d'affaires est supérieur à 5 millions de francs.
+
 #### Art. 16
 
 **Durée**
@@ -382,7 +452,7 @@ Arrête:
 
 **Demande – Procédure ordinaire**
 
-<sup>1</sup> Les entreprises qui s'estiment éligibles à la mesure de soutien aux cas de rigueur au sens de l'article 4 al. 1 et 2 (procédure ordinaire) déposent leur demande auprès du Secrétariat général de la Direction de l'économie et de l'emploi (ci-après: le Service), au moyen de la formule en ligne sur le site dédié à cette fin www.promfr.ch.
+<sup>1</sup> Les entreprises qui s'estiment éligibles à la mesure de soutien aux cas de rigueur au sens de l'article 4 al. 1 et 2 (procédure ordinaire) déposent leur demande auprès du Secrétariat général de la Direction de l'économie, de l'emploi et de la formation professionnelle (ci-après: le Service), au moyen de la formule en ligne sur le site dédié à cette fin www.promfr.ch.
 
 <sup>2</sup> Elles annexent à leur demande:
 
@@ -467,6 +537,31 @@ Arrête:
 
 <sup>3</sup> Les articles 20 à 26 de la présente ordonnance sont réservés.
 
+#### Art. 17e
+
+**Entreprises éligibles selon l'article 3a**
+
+<sup>1</sup> Les entreprises qui s'estiment éligibles à la mesure de soutien aux cas de rigueur au sens de l'article 3a sont invitées par le Service à déposer leur demande via le portail électronique communiqué directement par courriel.
+
+<sup>2</sup> Elles annexent à leur demande:
+
+- a) les recettes hors TVA des mois de décembre 2019 et 2021;
+- b) un extrait récent du registre des poursuites;
+- c) les justificatifs permettant de les attester (extraits des comptes de produits ou lectures des caisses enregistreuses);
+- d) une copie de la police d'assurance de l'entreprise et, en cas de clause d'indemnité de perte de chiffre d'affaires liée à la pandémie figurant dans cette dernière, une copie des décomptes d'indemnités correspondants;
+- e) pour les entreprises créées entre le 1<sup>er</sup> mars 2020 et le 30 septembre 2020, la copie du contrat de bail ou l'attestation de la dette hypothécaire.
+
+<sup>3</sup> Elles certifient les informations suivantes par auto-déclaration:
+
+- a) la demanderesse a régulièrement payé les charges sociales à sa charge et celles qu'elle doit verser pour le compte de ses employé-e-s;
+- b) la demanderesse a régulièrement payé ses taxes d'exploitation selon la LEPu si son activité est soumise à patente au sens de dite loi;
+- c) au jour de la demande, la demanderesse est à jour s'agissant de sa situation fiscale, notamment en ce qui concerne le respect des délais de dépôt de ses déclarations fiscales, le paiement de ses impôts et les retenues de l'impôt à la source de ses employé-e-s;
+- d) l'entreprise ne dispose pas d'une assurance privée permettant de couvrir tout ou partie des pertes de chiffres d'affaires ou, le cas échéant, elle s'engage à fournir une attestation des indemnités obtenues grâce à une telle assurance.
+
+<sup>4</sup> Le Service est autorisé à exiger de l'entreprise requérante qu'elle lui fournisse, dans un délai de 10 jours ouvrables, les compléments et/ou clarifications nécessaires au traitement de la demande. Si celle-ci ne fournit pas les renseignements demandés dans le délai imparti, la demande est considérée comme retirée. Cette obligation de renseigner s'étend également au-delà de la période de soutien, dans la mesure où des contrôles sont nécessaires.
+
+<sup>5</sup> Au demeurant, les alinéas 5 à 7 de l'article 17 sont applicables.
+
 #### Art. 18
 
 **Délais**
@@ -484,20 +579,28 @@ Arrête:
 
 <sup>4</sup> Pour les entreprises qui déposent une demande en procédure ordinaire pour une période qui suit une aide en procédure allégée, un délai de dix jours s'applique à compter de la réception du décompte final selon l'article 13a al. 3 let. c.
 
+#### Art. 18a
+
+**Délai – Entreprises éligibles au sens de l'article 3a**
+
+<sup>1</sup> La demande pour une aide complémentaire au sens de l'article 3a est introduite d'ici au 31 mai 2022.
+
 #### Art. 19
 
 **Compétences décisionnelle et financières**
 
 <sup>1</sup> Toute décision d'octroi ne peut intervenir que dans les limites des disponibilités financières, au sens de l'article 2.
 
-<sup>2</sup> La Direction de l'économie et de l'emploi (DEE), respectivement le Conseil d'Etat, statuent par voie de décision.
+<sup>2</sup> La Direction de l'économie, de l'emploi et de la formation professionnelle (DEEF), respectivement le Conseil d'Etat, statuent par voie de décision.
+
+<sup>2a</sup> L'entreprise bénéficiaire reçoit un décompte final. En cas de désaccord avec ce dernier et dans un délai de 10 jours dès réception, elle peut déposer une demande en reconsidération dûment motivée auprès de la DEEF. En cas de maintien dudit décompte, celle-ci rend une décision attaquable. Dans le cas contraire, l'entreprise bénéficiaire reçoit un nouveau décompte final et le versement correspondant à la différence.
 
 <sup>3</sup> Pour l'octroi des contributions au sens de la présente ordonnance, les compétences financières sont fixées comme suit:
 
-- a) jusqu'à 200'000 francs pour la DEE;
+- a) jusqu'à 200'000 francs pour la DEEF;
 - b) au-delà, pour le Conseil d'Etat.
 
-<sup>4</sup> Les décisions prises par la DEE ou le Conseil d'Etat sont sujettes à recours conformément au code de procédure et de juridiction administrative.
+<sup>4</sup> Les décisions prises par la DEEF ou le Conseil d'Etat sont sujettes à recours conformément au code de procédure et de juridiction administrative.
 
 #### Art. 19a
 
@@ -571,6 +674,8 @@ Arrête:
 <sup>3</sup> Il en va de même si les conditions émises dans la présente ordonnance ainsi que dans la loi fédérale COVID-19 et son ordonnance d'application ne sont pas remplies ou si les informations remises par l'entreprise bénéficiaire se révèlent inexactes ou erronées.
 
 <sup>4</sup> En cas de versement d'indemnités par une assurance privée, dont l'existence n'aurait pas été communiquée au moment du dépôt de la demande, couvrant tout ou partie de la perte de chiffre d'affaires objet des mesures de soutien en application de la présente ordonnance, l'entreprise bénéficiaire s'engage à rembourser à l'Etat le montant, jusqu'à concurrence de l'aide perçue mais au maximum à hauteur de 75 % des indemnités versées par l'assurance privée.
+
+<sup>5</sup> Si la bénéficiaire de l'aide au sens de l'article 3a ne communique pas, dans le délai imparti par l'autorité, les documents complémentaires demandés après obtention de l'aide, le montant perçu pour le mois de décembre 2021 devra être remboursé.
 
 ## 6 Dispositions finales
 

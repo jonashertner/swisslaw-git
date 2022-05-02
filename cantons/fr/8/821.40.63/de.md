@@ -4,13 +4,13 @@ number: "821.40.63"
 title: Verordnung über wirtschaftliche Massnahmen zur Abfederung der Auswirkungen des Coronavirus durch Beiträge für Härtefälle
 short: WMHV-COVID-19
 language: de
-version: 2021-12-24
-valid_until: 2022-05-02
-version_adopted: 2021-12-21
+version: 2022-05-03
+valid_until: 2022-08-31
+version_adopted: 2022-03-15
 adopted: 2020-11-16
 in_force: 2020-11-16
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.63"
-pdf: "https://bdlf.fr.ch/api/de/versions/7080/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7475/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ COVID-19, Beiträge für Härtefälle – V
 
 (WMHV-COVID-19)
 
-vom 16.11.2020 (Fassung in Kraft getreten am 24.12.2021)
+vom 16.11.2020 (Fassung in Kraft getreten am 03.05.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -72,6 +72,8 @@ beschliesst:
 - a) der Betrag von 15 Millionen Franken, der gestützt auf Artikel 6 Abs. 1 des Gesetzes vom 14. Oktober 2020 über die Genehmigung der Sofortmassnahmen zur Bewältigung der COVID-19-Epidemie (das kantonale Genehmigungsgesetz) bereitgestellt wurde, und
 - b) die im Rahmen der vom Bundesrecht anerkannten Sofortmassnahmen bereits verpflichteten Beträge.
 
+<sup>1a<sup>bis</sup></sup> Zur Finanzierung des Zusatzbeitrags für den Monat Dezember 2021 werden die Mittel verwendet, die gemäss Dekret vom 23. März 2022 über einen Verpflichtungskredit zur Finanzierung von ergänzenden Massnahmen für Härtefälle und von Massnahmen für Publikumsanlässe (Schutzschirm) zur Verfügung gestellt werden.
+
 <sup>1b</sup> Bei Bedarf legt der Staatsrat fest, wie der zusätzliche kantonale Anteil gedeckt werden muss.
 
 <sup>2</sup> Werden die Gesuche von einem beauftragten Dritten bearbeitet, so werden die damit verbundenen Kosten über den Betrag nach Absatz 1a Bst. a finanziert.
@@ -93,6 +95,28 @@ beschliesst:
 - a) an deren Kapital Bund, Kantone oder Gemeinden mit mehr als 12'000 Einwohnerinnen und Einwohnern insgesamt zu mehr als 10 % direkt oder indirekt beteiligt sind;
 - b) die im Kanton weder eine Geschäftstätigkeit ausüben noch eigenes Personal beschäftigen;
 - c) die bereits eine finanzielle Unterstützung des Staats Freiburg oder des Bundes im Sinne von Artikel 10 Abs. 1 dieser Verordnung erhalten haben, mit Ausnahme der Unternehmen im Sinne von Absatz 1a dieses Artikels.
+
+#### Art. 3a
+
+**Zusatzbeitrag für den Monat Dezember 2021**
+
+<sup>1</sup> Unternehmen, welche die folgenden Bedingungen kumulativ erfüllen, können einen Zusatzbeitrag für den Monat Dezember 2021 erhalten:
+
+- a) Sie haben im Dezember 2021 aufgrund von Massnahmen zur Bekämpfung der Covid-19-Epidemie, die in diesem Zeitraum galten, einen Umsatzrückgang von mindestens 30 % gegenüber dem Umsatz vom Dezember 2019 verzeichnet;
+- b) Sie wurden vor dem 1. Oktober 2020 im Handelsregister eingetragen oder gegründet.
+- c) Sie haben rechtmässig einen Beitrag im Sinne dieser Verordnung erhalten.
+- d) Sie gehören einer der folgenden Kategorien an:
+  - 1\. Kategorie 1: Bars und Diskotheken mit Patent D, Sport- und Freizeitbetriebe;
+  - 2\. Kategorie 2: Beherbergungsbetriebe mit Patent A;
+  - 3\. Kategorie 3: Parahotelleriebetriebe mit Patent I, Gastronomie, Personenbeförderung ohne Übertragung öffentlicher Aufgaben (Busreiseveranstalter, Taxis), Dienstleistungserbringer im Veranstaltungssektor, Traiteure;
+  - 4\. Kategorie 4: Reisebüros, Reiseveranstalter.
+
+<sup>2</sup> Die folgenden Unternehmen müssen keinen Umsatzrückgang von mindestens 30 % belegen:
+
+- a) die Unternehmen der Kategorie 1;
+- b) die Unternehmen, die zwischen dem 1. März 2020 und dem 30. September 2020 ins Handelsregister eingetragen oder gegründet wurden.
+
+<sup>3</sup> Für Unternehmen, die zwischen dem 2. Dezember 2019 und dem 29. Februar 2020 gegründet wurden, gilt der im Monatsdurchschnitt erzielte Umsatz zwischen dem Gründungsdatum und dem 29. Februar 2020 als Referenzumsatz für den Monat Dezember 2019.
 
 #### Art. 4
 
@@ -184,6 +208,16 @@ beschliesst:
 <sup>2</sup> …
 
 <sup>3</sup> Ist das Unternehmen zum Zeitpunkt der Prüfung des Gesuchs derart überschuldet, dass sein Überleben trotz Härtefallbeitrag ungewiss erscheint, kann die Gewährung des Beitrags abgelehnt werden.
+
+#### Art. 7a
+
+**Überlebensfähigkeit und Profitabilität der Unternehmen im Sinne von Artikel 3a**
+
+<sup>1</sup> Als profitabel oder überlebensfähig gemäss Artikel 6 Abs. 1 Bst. a gilt ein Unternehmen, das nachweist, dass es
+
+- a) sich zum Zeitpunkt der Gesuchstellung nicht in einem Konkursverfahren oder in Liquidation befindet;
+- b) hinsichtlich seiner Steuersituation auf dem aktuellen Stand ist (Zahlung der Steuern, Einreichen der Steuererklärung 2020);
+- c) sich nicht in einem Betreibungsverfahren für Sozialversicherungsbeiträge befindet, es sei denn, dass zum Zeitpunkt der Gesuchstellung eine vereinbarte Zahlungsplanung vorliegt oder das Verfahren durch Zahlung abgeschlossen ist.
 
 #### Art. 8
 
@@ -324,6 +358,27 @@ beschliesst:
 
 <sup>1</sup> Betriebe und öffentliche Gaststätten mit einem Patent im Sinne des Gesetzes über die öffentlichen Gaststätten (ÖGG), die nach dem 1. Oktober 2020 gegründet wurden und denen bereits ein Beitrag nach BMSV-COVID-19 oder KWPV-Gastro-COVID-19 ausgezahlt wurde, können einen ausserordentlichen Pauschalbeitrag erhalten, der einem monatlichen Miet- oder Pachtzins oder den für einen Monat geschuldeten Hypothekarzinsen entspricht. Die Beträge, die bereits gestützt auf die genannten Verordnungen ausgezahlt wurden, werden davon nicht abgezogen. Der Pauschalbeitrag wird für jeden Monat der Schliessung ab dem 1. Februar 2021 bis zur behördlich erlaubten vollständigen Wiedereröffnung gewährt.
 
+#### Art. 13d
+
+**Zusatzbeitrag für Unternehmen im Sinne von Artikel 3a**
+
+<sup>1</sup> Die finanzielle Unterstützung besteht aus einem Zusatzbeitrag, der einem Prozentsatz des Umsatzrückgangs im Dezember 2021 gegenüber Dezember 2019 entspricht:
+
+- a) 25 % für die Unternehmen der Kategorien 1, 2 und 3 im Sinne von Artikel 3a Abs. 1 Bst. d;
+- b) 10 % für die Unternehmen der Kategorie 4 im Sinne von Artikel 3a Abs. 1 Bst. d.
+
+<sup>2</sup> Bei Unternehmen, die zwischen dem 2. Dezember 2019 und dem 29. Februar 2020 gegründet wurden, gilt der gemäss Artikel 3a Abs. 3 berechnete durchschnittliche Monatsumsatz als Umsatz für den Monat Dezember 2019.
+
+<sup>3</sup> Unternehmen, die zwischen dem 1. März 2020 und dem 30. September 2020 ins Handelsregister eingetragen oder gegründet wurden, erhalten einen Zusatzbeitrag in der Höhe des für den Monat Dezember 2021 geschuldeten Miet- oder Pachtzinses ohne Nebenkosten oder der entsprechenden Hypothekarzinsen.
+
+<sup>4</sup> Bei Unternehmen, die bereits gestützt auf Artikel 17c eine Härtefallhilfe erhalten haben, ist der Zusatzbeitrag für die gleiche Betriebssparte bestimmt.
+
+<sup>5</sup> Das Amt kann einen tieferen Beitragssatz festlegen, falls es feststellt, dass der nach Absatz 1 berechnete Zusatzbeitrag zu einer Überentschädigung in Bezug auf die ungedeckten Fixkosten des Monats Dezember 2021 führt.
+
+<sup>6</sup> Falls die Beiträge im Sinne dieser Verordnung zu einer Überentschädigung geführt haben, die noch nicht zurückgezahlt wurde, wird diese vom Zusatzbeitrag für den Monat Dezember 2021 abgezogen.
+
+<sup>7</sup> Falls eine private Versicherung eine Entschädigung für den Umsatzrückgang des Monats Dezember 2021 zahlt, werden 75 % dieser Entschädigung vom Zusatzbeitrag abgezogen.
+
 #### Art. 14
 
 **Berücksichtigung der Vermögens- und Kapitalsituation des Unternehmens**
@@ -356,6 +411,21 @@ beschliesst:
 
 <sup>2</sup> Er kann in mehreren Etappen zugesichert und ausgezahlt werden.
 
+#### Art. 15a
+
+**Höchstbetrag des Zusatzbeitrags im Sinne von Artikel 3a**
+
+<sup>1</sup> Artikel 15 ist nicht auf den Zusatzbeitrag im Sinne von Artikel 3a anwendbar.
+
+<sup>2</sup> Der Zusatzbeitrag darf einen Prozentsatz des durchschnittlichen Jahresumsatzes der Jahre 2018 und 2019 nicht überschreiten. Dieser Prozentsatz wird für die Kategorien nach Artikel 3a Abs. 1 Bst. d wie folgt festgelegt:
+
+- a) 2,5 % für die Kategorien 1 und 2;
+- b) 1,5 % für die Kategorien 3 und 4.
+
+<sup>3</sup> Der Zusatzbeitrag für den Monat Dezember 2021 darf jedoch in keinem Fall 100 000 Franken pro Unternehmen überschreiten.
+
+<sup>4</sup> Dieser Höchstbetrag gilt auch für Unternehmen mit einem Umsatz über 5 Millionen Franken.
+
 #### Art. 16
 
 **Dauer**
@@ -380,7 +450,7 @@ beschliesst:
 
 **Gesuch – Ordentliches Verfahren**
 
-<sup>1</sup> Unternehmen, die eine Massnahme für Härtefälle im Sinne von Artikel 4 Abs. 1 und 2 (ordentliches Verfahren) beantragen möchten, reichen über das elektronische Formular auf der Website www.promfr.ch ein Gesuch beim Generalsekretariat der Volkswirtschaftsdirektion (das Amt) ein.
+<sup>1</sup> Unternehmen, die eine Massnahme für Härtefälle im Sinne von Artikel 4 Abs. 1 und 2 (ordentliches Verfahren) beantragen möchten, reichen über das elektronische Formular auf der Website www.promfr.ch/de/ ein Gesuch beim Generalsekretariat der Volkswirtschafts- und Berufsbildungsdirektion (das Amt) ein.
 
 <sup>2</sup> Sie legen ihrem Gesuch die folgenden Unterlagen bei:
 
@@ -465,6 +535,31 @@ beschliesst:
 
 <sup>3</sup> Die Artikel 20 bis 26 bleiben vorbehalten.
 
+#### Art. 17e
+
+**Unternehmen im Sinne von Artikel 3a**
+
+<sup>1</sup> Unternehmen, die eine Massnahme für Härtefälle im Sinne von Artikel 3a beantragen möchten, reichen ihr Gesuch beim Amt ein und nutzen dafür das elektronische Portal, dessen Adresse sie per E-Mail erhalten haben.
+
+<sup>2</sup> Sie legen ihrem Gesuch die folgenden Informationen und Unterlagen bei:
+
+- a) die Einnahmen ohne MWST vom Dezember 2019 und Dezember 2021;
+- b) einen aktuellen Betreibungsregisterauszug;
+- c) die Belege für die angegebenen Einnahmen (Auszüge aus den Ertragskonten, Ablesungen der Registrierkassen);
+- d) eine Kopie der Versicherungspolice des Unternehmens und falls diese eine Entschädigung für den Umsatzrückgang in Verbindung mit der Pandemie vorsieht, eine Kopie der entsprechenden Leistungsabrechnungen;
+- e) eine Kopie des Miet- bzw. Pachtvertrags oder des Hypothekarzinsausweises, falls das Unternehmen zwischen dem 1. März 2020 und dem 30. September 2020 gegründet wurde.
+
+<sup>3</sup> Das Unternehmen bestätigt durch eine Selbstdeklaration, dass es
+
+- a) regelmässig die selbst geschuldeten und im Namen der Angestellten zu bezahlenden Sozialversicherungsbeiträge gezahlt hat;
+- b) seine Betriebsgebühren gemäss ÖGG regelmässig bezahlt hat, falls für die Ausübung seiner Tätigkeit ein Patent nach diesem Gesetz erforderlich ist;
+- c) zum Zeitpunkt der Gesuchstellung hinsichtlich seiner Steuersituation auf dem aktuellen Stand ist, insbesondere was die Einhaltung der Frist für die Abgabe der Steuererklärung, die Steuerzahlungen und das Inkasso der Quellensteuern seiner Angestellten betrifft;
+- d) über keine private Versicherung verfügt, die den Umsatzrückgang ganz oder teilweise deckt, oder falls eine derartige Versicherung vorhanden ist, es sich verpflichtet, den Beleg über die Zahlung einer Entschädigung durch diese Versicherung vorzulegen.
+
+<sup>4</sup> Das Amt ist befugt, vom gesuchstellenden Unternehmen zu verlangen, dass es innert einer Frist von 10 Arbeitstagen zusätzliche Informationen oder Auskünfte erteilt, die für die Bearbeitung des Gesuchs benötigt werden. Werden die verlangten Auskünfte nicht innerhalb der gesetzten Frist erteilt, wird dies als Rückzug des Gesuchs gewertet. Diese Auskunftspflicht bleibt über die Dauer des Unterstützungszeitraums hinaus bestehen, damit die nötigen Kontrollen durchgeführt werden können.
+
+<sup>5</sup> Im Übrigen gilt Artikel 17 Abs. 5-7.
+
 #### Art. 18
 
 **Fristen**
@@ -482,20 +577,28 @@ beschliesst:
 
 <sup>4</sup> Für Unternehmen, die ein Gesuch im ordentlichen Verfahren für einen Zeitraum stellen, der auf eine Härtefallhilfe im erleichterten Verfahren folgt, gilt eine Frist von zehn Tagen ab Empfang der Schlussabrechnung gemäss Artikel 13a Abs. 3 Bst. c.
 
+#### Art. 18a
+
+**Frist – Unternehmen im Sinne von Artikel 3a**
+
+<sup>1</sup> Gesuche um einen Zusatzbeitrag im Sinne von Artikel 3a müssen bis am 31. Mai 2022 eingereicht werden.
+
 #### Art. 19
 
 **Entscheid- und Finanzkompetenzen**
 
 <sup>1</sup> Beiträge können nur im Rahmen der nach Artikel 2 zur Verfügung stehenden Mittel vergeben werden.
 
-<sup>2</sup> Die Volkswirtschaftsdirektion beziehungsweise der Staatsrat erlässt einen Entscheid über das Gesuch.
+<sup>2</sup> Die Volkswirtschafts- und Berufsbildungsdirektion (VWBD) beziehungsweise der Staatsrat erlässt eine Verfügung über das Gesuch.
+
+<sup>2a</sup> Das begünstigte Unternehmen erhält eine Schlussabrechnung. Ist das Unternehmen mit der Schlussabrechnung nicht einverstanden, so kann es innerhalb von 10 Tagen ab Erhalt bei der VWBD ein begründetes Gesuch um Wiedererwägung stellen. Bleibt die Schlussabrechnung unverändert, so erlässt die VWBD eine anfechtbare Wiedererwägungsverfügung. Andernfalls wird dem begünstigten Unternehmen eine neue Schlussabrechnung zugestellt und die Differenz ausgezahlt.
 
 <sup>3</sup> Für die Gewährung der Beiträge im Sinne dieser Verordnung werden die Finanzkompetenzen wie folgt festgelegt:
 
-- a) bis 200'000 Franken ist die Volkswirtschaftsdirektion (VWD) zuständig;
+- a) bis 200 000 Franken ist die VWBD zuständig;
 - b) für höhere Beträge ist der Staatsrat zuständig.
 
-<sup>4</sup> Die Verfügungen der VWD und des Staatsrats sind können mit Beschwerde gemäss dem Gesetz über die Verwaltungsrechtspflege angefochten werden.
+<sup>4</sup> Die Verfügungen der VWBD und des Staatsrats können mit Beschwerde gemäss dem Gesetz über die Verwaltungsrechtspflege angefochten werden.
 
 #### Art. 19a
 
@@ -569,6 +672,8 @@ beschliesst:
 <sup>3</sup> Dasselbe gilt, falls die Bedingungen dieser Verordnung sowie des COVID-19-Gesetzes des Bundes und seiner Ausführungsverordnung nicht erfüllt sind oder sich die eingereichten Informationen als unrichtig oder falsch erweisen.
 
 <sup>4</sup> Bei Auszahlung einer Entschädigung durch eine private Versicherung, die den Umsatzrückgang, auf den sich die Unterstützung in Anwendung dieser Verordnung bezieht, ganz oder teilweise deckt, und über deren Existenz nicht informiert wurde, verpflichtet sich das begünstigte Unternehmen, dem Staat den Betrag, der dem Härtefallbeitrag entspricht, höchstens aber 75 % der von der privaten Versicherung gezahlten Entschädigung, zurückzuzahlen.
+
+<sup>5</sup> Falls das begünstigte Unternehmen im Sinne von Artikel 3a die nach Zahlung des Beitrags verlangten ergänzenden Unterlagen nicht innerhalb der gesetzten Frist einreicht, muss der für Dezember 2021 erhaltene Beitrag zurückerstattet werden.
 
 ## 6 Schlussbestimmungen
 
