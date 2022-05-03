@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sull’infrastruttura di dati sulla mobilità
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale concernant l’infrastructure de données sur la mobilité
 document: Projet mis en consultation
 language: fr
