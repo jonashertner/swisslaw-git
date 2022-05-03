@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de la loi fédérale sur les étrangers et l’intégration: Limitation des prestations d’aide sociale octroyées aux ressortissants d’États tiers"
 document: Projet mis en consultation
 language: fr

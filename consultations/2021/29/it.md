@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica della legge federale sugli stranieri e la loro integrazione: Limitazione delle prestazioni di aiuto sociale versate a stranieri provenienti da Paesi terzi"
 document: Progetto posto in consultazione
 language: it

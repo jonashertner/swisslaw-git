@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung des Ausländer- und Integrationsgesetzes: Einschränkung der Sozialhilfeleistungen für Ausländerinnen und Ausländer aus Drittstaaten"
 document: Vernehmlassungsvorlage
 language: de
