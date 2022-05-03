@@ -3,18 +3,18 @@ sr: "951.153"
 title: "Règlement d'organisation de la Banque nationale suisse du 14 mai 2004"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/438"
 language: fr
-version: 2016-07-15
+version: 2022-05-04
 adopted: 2004-05-14
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/438/20160715/fr/xml/fedlex-data-admin-ch-eli-cc-2004-438-20160715-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/438/20160715/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/438/20220504/fr/xml/fedlex-data-admin-ch-eli-cc-2004-438-20220504-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/438/20220504/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Règlement d’organisation de la Banque nationale suisse
 
-du 14 mai 2004 (Etat le 15 juillet 2016)
+du 14 mai 2004 (État le 4 mai 2022)
 
 Approuvé par le Conseil fédéral le 23 juin 2004
 
@@ -46,7 +46,7 @@ Le règlement d’organisation établit les principales règles internes qui ré
 
 #### Art. 3
 
-**Départements**
+**Départements**[^3-1]
 
 <sup>1</sup> La BNS est structurée en trois départements. Chaque département a une sphère d’activité déterminée.
 
@@ -54,39 +54,43 @@ Le règlement d’organisation établit les principales règles internes qui ré
 
 <sup>3</sup> Chaque département est dirigé par un membre de la Direction générale, le 1<sup>er</sup> département par le président de la Direction générale.
 
-<sup>4</sup> Chaque membre de la Direction générale a un suppléant. Il l’intègre dans la direction de son département. Les suppléants représentent les membres de la Direction générale, en cas d’absence de ces derniers, aux séances de la Direction générale et sont en charge de la gestion des affaires dans leur département.[^3-1]
+<sup>4</sup> Chaque membre de la Direction générale a jusqu’à deux suppléants. Les membres disposant de deux suppléants déterminent lequel des deux le représente à la Direction générale et à la Direction générale élargie en cas d’empêchement. Lorsqu’un membre de la Direction générale est absent pour une période prolongée ou indéterminée, le Conseil de banque détermine, sur demande des autres membres de la Direction générale, lequel des deux suppléants assume la représentation et la direction du département pendant la durée de l’absence.
 
-[^3-1]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 8 avr. 2011, approuvée par le CF le 29 juin 2011 et en vigueur depuis le 15 juil. 2011 ([RO 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
+<sup>5</sup> Les membres de la Direction générale intègrent les suppléants dans la direction de leurs départements respectifs. Les suppléants sont en charge de la gestion des affaires dans le département concerné. La répartition des tâches entre les suppléants au sein d’un département est définie conformément aux prescriptions de la Direction générale.
+
+<sup>6</sup> Il convient de veiller à une rotation régulière des suppléants entre les départements.
+
+[^3-1]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 20 avr. 2022, approuvée par le CF le 4 mai 2022 et en vigueur depuis le 4 mai 2022 ([RO 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 4
 
 **Sphères d’activité**[^4-1]
 
-<sup>1</sup> La sphère d’activité du 1<sup>er</sup> département englobe la coopération monétaire internationale, les affaires économiques, les affaires juridiques et les services.[^4-2]
+<sup>1</sup> La sphère d’activité du 1<sup>er</sup> département englobe notamment les affaires économiques, la coopération monétaire internationale et la statistique.
 
-<sup>2</sup> La sphère d’activité du 2<sup>e</sup> département englobe les billets et monnaies, les finances, la gestion des risques et la stabilité financière.[^4-3]
+<sup>2</sup> La sphère d’activité du 2<sup>e</sup> département englobe notamment la stabilité financière et les billets et monnaies.
 
-<sup>3</sup> La sphère d’activité du 3<sup>e</sup> département englobe les marchés financiers, les opérations bancaires et l’informatique.
+<sup>3</sup> La sphère d’activité du 3<sup>e</sup> département englobe notamment les marchés financiers et les opérations bancaires.
 
-[^4-1]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 8 avr. 2011, approuvée par le CF le 29 juin 2011 et en vigueur depuis le 15 juil. 2011 ([RO 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
-[^4-2]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 8 avr. 2016, approuvée par le CF le 3 juin 2016 et en vigueur depuis le 15 juil. 2016 ([RO 2016 2367](https://fedlex.data.admin.ch/eli/oc/2016/383)).
-[^4-3]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 8 avr. 2016, approuvée par le CF le 3 juin 2016 et en vigueur depuis le 15 juil. 2016 ([RO 2016 2367](https://fedlex.data.admin.ch/eli/oc/2016/383)).
+[^4-1]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 20 avr. 2022, approuvée par le CF le 4 mai 2022 et en vigueur depuis le 4 mai 2022 ([RO 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 5
 
-**Secrétariat général**
+**Secrétariat général**[^5-1]
 
-<sup>1</sup> Le Secrétariat général est le service d’état-major de la Direction générale et du Conseil de banque. Il est dirigé par le secrétaire général.
+<sup>1</sup> Le Secrétariat général est le service d’état-major des organes de surveillance et de direction. Il est dirigé par le secrétaire général.
 
 <sup>2</sup> Il relève de la Direction générale. Lorsque ses activités concernent l’Assemblée générale ou le Conseil de banque, il est subordonné sur le plan technique au président du Conseil de banque.
 
 <sup>3</sup> Le Secrétariat général est rattaché administrativement au 1<sup>er</sup> département.
 
+[^5-1]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 20 avr. 2022, approuvée par le CF le 4 mai 2022 et en vigueur depuis le 4 mai 2022 ([RO 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
+
 #### Art. 6
 
 **Révision interne**
 
-<sup>1</sup> La Révision interne est un instrument indépendant de surveillance et de contrôle des activités de la BNS. Elle est subordonnée au Comité d’audit. [^6-1]
+<sup>1</sup> La Révision interne est un instrument indépendant de surveillance et de contrôle des activités de la BNS. Elle est subordonnée au Comité d’audit.[^6-1]
 
 <sup>2</sup> La Révision interne est rattachée administrativement au 1<sup>er</sup> département.
 
@@ -106,23 +110,19 @@ Le règlement d’organisation établit les principales règles internes qui ré
 
 #### Art. 8
 
-**Constitution**
+**Constitution**[^8-1]
 
-<sup>1</sup> La présidence de l’Assemblée générale est exercée par le président ou, en cas d’empêchement, par le vice-président du Conseil de banque.
+<sup>1</sup> La présidence de l’Assemblée générale est exercée le président ou, en cas d’empêchement, par le vice-président du Conseil de banque.
 
-<sup>2</sup> L’Assemblée générale élit les scrutateurs à main levée, à la majorité absolue des actionnaires présents. Les membres du Conseil de banque ne peuvent pas être élus scrutateurs.
+<sup>2</sup> La personne qui préside l’Assemblée générale désigne les scrutateurs.
 
-<sup>3</sup> Le procès-verbal de l’Assemblée générale est dressé par le secrétaire général ou, en cas d’empêchement, par un remplaçant.
+<sup>3</sup> Le procès-verbal de l’Assemblée générale est dressé par le secrétaire général ou, en cas d’empêchement, par un remplaçant. Le procès-verbal consigne les décisions.
 
 <sup>4</sup> Une liste de présence est tenue. Elle indique le nombre des actionnaires présents, le nombre des actionnaires représentés et le nombre des actions représentées à l’Assemblée générale.
 
-<sup>5</sup>
+<sup>5</sup> Le procès-verbal et la liste de présence doivent être signés par le président et par la personne qui rédige le procès-verbal.
 
-Le procès-verbal et la liste de présence doivent être signés par:
-
-- a. le président;
-- b. le rédacteur du procès-verbal;
-- c. les scrutateurs.
+[^8-1]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 20 avr. 2022, approuvée par le CF le 4 mai 2022 et en vigueur depuis le 4 mai 2022 ([RO 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 9
 
@@ -150,24 +150,25 @@ Il a les tâches et les compétences suivantes:
 - b. il règle l’organisation de la comptabilité, du contrôle financier et de la planification financière; il surveille l’activité des organes interne et externe de révision et évalue l’efficacité du système de contrôle interne (SCI);
 - c.[^10-3] il approuve le budget annuel et une réserve de planification pour dépenses imprévues ainsi que les investissements et les dépenses non inscrits au budget dans la mesure où ils dépassent cette réserve; tout nouveau projet induisant un coût unique supérieur à 5 millions de francs et des coûts récurrents de plus de 1 million de francs doit lui être soumis séparément; le Conseil de banque valide le décompte sur l’utilisation du budget annuel;
 - d. il approuve le niveau des provisions;
-- e. il évalue la gestion des risques de crédit et de marché et surveille sa mise en œuvre; il évalue les principes fondamentaux du processus de placement et veille à leur observation;
+- e.[^10-4] il surveille la gestion des risques en relation avec les placements et évalue la gouvernance du processus de placement;
 - f. il prend connaissance des stratégies de la Banque nationale en matière de gestion des ressources, notamment l’informatique, le personnel et les immeubles, et veille à ce qu’elles fassent l’objet d’un contrôle régulier;
-- g.[^10-4] il établit, à l’intention du Conseil fédéral, des propositions pour la nomination des membres de la Direction générale et de leurs suppléants; il statue sur l’engagement, la promotion et la révocation des directeurs et de la direction de la Révision interne;
+- g.[^10-5] il établit, à l’intention du Conseil fédéral, des propositions pour la nomination des membres de la Direction générale et de leurs suppléants; il statue sur l’engagement, la promotion et la révocation des directeurs et de la direction de la Révision interne;
 - h. il fixe dans un règlement le montant des indemnités de ses membres ainsi que le salaire des membres de la Direction générale et de leurs suppléants; il arrête les principes de la rémunération du personnel;
-- i.[^10-5] il exerce la surveillance sur la gestion des affaires par la Direction générale élargie, notamment eu égard au respect des lois, des statuts, des règlements et des directives (*compliance*);
+- i.[^10-6] il exerce la surveillance sur la gestion des affaires par la Direction générale élargie, notamment eu égard au respect des lois, des statuts, des règlements et des directives (*compliance*);
 - j. il évalue la gestion des risques opérationnels et surveille sa mise en œuvre;
 - k. il adopte le rapport annuel et les comptes annuels à l’intention du Conseil fédéral et de l’Assemblée générale, prépare l’Assemblée générale et exécute ses décisions;
 - l. il approuve les conventions conclues avec le Département fédéral des finances concernant la distribution des bénéfices;
 - m. il choisit le graphisme des billets de banque;
 - n. il nomme les membres des conseils consultatifs régionaux;
-- o.[^10-6] il édicte un règlement sur les placements financiers et les opérations financières des membres des organes de direction.
+- o.[^10-7] il édicte un règlement sur les placements financiers et les opérations financières des membres des organes de direction.
 
 [^10-1]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 24 oct. 2008, approuvée par le CF le 19 déc. 2008 et en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 51](https://fedlex.data.admin.ch/eli/oc/2009/5)).
 [^10-2]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 8 avr. 2016, approuvée par le CF le 3 juin 2016 et en vigueur depuis le 15 juil. 2016 ([RO 2016 2367](https://fedlex.data.admin.ch/eli/oc/2016/383)).
 [^10-3]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 8 avr. 2016, approuvée par le CF le 3 juin 2016 et en vigueur depuis le 15 juil. 2016 ([RO 2016 2367](https://fedlex.data.admin.ch/eli/oc/2016/383)).
-[^10-4]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 8 avr. 2011, approuvée par le CF le 29 juin 2011 et en vigueur depuis le 15 juil. 2011 ([RO 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
-[^10-5]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 8 avr. 2016, approuvée par le CF le 3 juin 2016 et en vigueur depuis le 15 juil. 2016 ([RO 2016 2367](https://fedlex.data.admin.ch/eli/oc/2016/383)).
-[^10-6]: Introduite par le ch. I de la D du Conseil de banque du 8 avr. 2016, approuvée par le CF le 3 juin 2016 et en vigueur depuis le 15 juil. 2016 ([RO 2016 2367](https://fedlex.data.admin.ch/eli/oc/2016/383)).
+[^10-4]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 20 avr. 2022, approuvée par le CF le 4 mai 2022 et en vigueur depuis le 4 mai 2022 ([RO 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
+[^10-5]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 8 avr. 2011, approuvée par le CF le 29 juin 2011 et en vigueur depuis le 15 juil. 2011 ([RO 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
+[^10-6]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 8 avr. 2016, approuvée par le CF le 3 juin 2016 et en vigueur depuis le 15 juil. 2016 ([RO 2016 2367](https://fedlex.data.admin.ch/eli/oc/2016/383)).
+[^10-7]: Introduite par le ch. I de la D du Conseil de banque du 8 avr. 2016, approuvée par le CF le 3 juin 2016 et en vigueur depuis le 15 juil. 2016 ([RO 2016 2367](https://fedlex.data.admin.ch/eli/oc/2016/383)).
 
 #### Art. 11
 
@@ -183,9 +184,9 @@ Il a les tâches et les compétences suivantes:
 
 <sup>1</sup> Le Conseil de banque institue un Comité des risques. Celui-ci se compose d’au moins deux membres du Conseil de banque.
 
-<sup>2</sup> Il aide le Conseil de banque à évaluer et à surveiller la gestion des risques et le processus de placement. Les tâches du Comité des risques sont définies dans un règlement spécial.[^12-1]
+<sup>2</sup> Il aide le Conseil de banque à surveiller la gestion des risques en relation avec les placements et à évaluer la gouvernance du processus de placement. Les tâches du Comité des risques sont définies dans un règlement spécial.[^12-1]
 
-[^12-1]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 31 mars 2006, approuvée par le CF le 16 juin 2006 et en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2609](https://fedlex.data.admin.ch/eli/oc/2006/397)).
+[^12-1]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 20 avr. 2022, approuvée par le CF le 4 mai 2022 et en vigueur depuis le 4 mai 2022 ([RO 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 13
 
@@ -228,27 +229,29 @@ Il établit les propositions pour la nomination:
 
 #### Art. 16
 
-**Séances**
+**Séances**[^16-1]
 
-<sup>1</sup> En règle générale, le Conseil de banque se réunit en séance ordinaire six fois par an. Il peut être convoqué à des séances extraordinaires par le président ou à la demande de trois membres.
+<sup>1</sup> En règle générale, le Conseil de banque se réunit en séance ordinaire six fois par an. Il peut être convoqué à des séances extraordinaires par le président ou à la demande de trois membres. Sur ordre de la personne qui préside la séance, une participation aux séances ordinaires ou extraordinaires par voie électronique est possible.
 
-<sup>2</sup> Le Conseil de banque peut délibérer valablement en présence d’au moins six membres, le président inclus.
+<sup>2</sup> Le Conseil de banque peut délibérer valablement en présence d’au moins six membres, y compris la personne qui préside la séance.
 
-<sup>3</sup> Les décisions sont prises à la majorité absolue des voix des membres présents; en cas d’égalité des suffrages, la voix du président compte double.
+<sup>3</sup> Les décisions sont prises à la majorité absolue des voix des membres présents; en cas d’égalité des voix, la voix de la personne qui préside la séance compte double.
 
-<sup>4</sup> Les membres de la Direction générale assistent aux séances avec voix consultative. Le Conseil de banque peut appeler des spécialistes à prendre part à ses délibérations.
+<sup>4</sup> Les membres de la Direction générale assistent généralement aux séances avec voix consultative. Le Conseil de banque peut appeler des spécialistes à prendre part à ses délibérations.
 
-<sup>5</sup> En cas d’urgence, les décisions peuvent être prises par conférence téléphonique ou par voie de circulaire. Ces décisions sont prises à la majorité absolue des voix des membres du Conseil de banque. Elles doivent être consignées au procès-verbal de la séance suivante.
+<sup>5</sup> Dans des cas particuliers, les décisions peuvent être prises par voie de circulaire. Ces décisions sont prises à la majorité absolue des voix des membres du Conseil de banque. Elles sont consignées au procès-verbal de la séance suivante.
+
+[^16-1]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 20 avr. 2022, approuvée par le CF le 4 mai 2022 et en vigueur depuis le 4 mai 2022 ([RO 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 17
 
 **Ordre du jour et procès-verbal**
 
-<sup>1</sup> Le président du Conseil de banque arrête l’ordre du jour. Chacun des membres peut demander par écrit, au plus tard dix jours avant la séance, la mise d’une affaire à l’ordre du jour. Les propositions soumises au Conseil de banque peuvent être rédigées en français ou en allemand.[^17-1]
+<sup>1</sup> La personne qui préside la séance du Conseil de banque arrête l’ordre du jour. Chacun des membres peut demander par écrit, au plus tard dix jours avant la séance, la mise d’une affaire à l’ordre du jour. Les propositions soumises au Conseil de banque peuvent être rédigées en français ou en allemand.[^17-1]
 
 <sup>2</sup> Le procès-verbal des séances du Conseil de banque est dressé par le secrétaire général ou par un remplaçant. Il doit comprendre le libellé exact des décisions et, si les délibérations portent sur des questions essentielles, les motifs des décisions.
 
-[^17-1]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 8 avr. 2016, approuvée par le CF le 3 juin 2016 et en vigueur depuis le 15 juil. 2016 ([RO 2016 2367](https://fedlex.data.admin.ch/eli/oc/2016/383)).
+[^17-1]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 20 avr. 2022, approuvée par le CF le 4 mai 2022 et en vigueur depuis le 4 mai 2022 ([RO 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 ## Section 5 Direction générale
 
@@ -274,27 +277,31 @@ En plus des tâches énumérées à l’art. 46, al. 2, LBN, la Direction géné
 
 #### Art. 19
 
-**Séances**
+**Séances**[^19-1]
 
-<sup>1</sup> En règle générale, la Direction générale se réunit en séance ordinaire deux fois par mois. Le président ou le vice-président préside les séances. Chacun des membres de la Direction générale peut demander la convocation d’une séance extraordinaire.
+<sup>1</sup> En règle générale, la Direction générale se réunit en séance ordinaire deux fois par mois. Le président, ou en cas d’empêchement le vice-président préside les séances. Chacun des membres de la Direction générale peut demander la convocation d’une séance extraordinaire. Sur ordre de la personne qui préside la séance, la participation par voie électronique aux séances ordinaires ou extraordinaires est possible.
 
 <sup>2</sup> Les affaires qui appellent des décisions doivent faire l’objet, avant la séance, de propositions écrites de la part des départements ou du Secrétariat général.
 
 <sup>3</sup> Le président du Conseil de banque a le droit d’assister, avec voix consultative, aux séances de la Direction générale, à l’exception de celles qui portent sur la préparation et l’adoption des décisions de politique monétaire.
 
-<sup>4</sup> La Direction générale délibère valablement’ si au moins deux membres de la Direction générale et le suppléant du membre absent sont présents. Toutes les décisions sont prises à la majorité des voix.
+<sup>4</sup> La Direction générale délibère valablement si au moins deux membres de la Direction générale et le suppléant désigné du membre absent sont présents. Toutes les décisions sont prises à la majorité des voix.
 
-<sup>5</sup> En cas d’urgence, les décisions peuvent être prises par conférence téléphonique ou par voie de circulaire. Ces décisions doivent être consignées au procès-verbal de la séance suivante.
+<sup>5</sup> Dans des cas particuliers, les décisions peuvent être prises par voie de circulaire. Ces décisions sont consignées au procès-verbal de la séance suivante.
+
+[^19-1]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 20 avr. 2022, approuvée par le CF le 4 mai 2022 et en vigueur depuis le 4 mai 2022 ([RO 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 20
 
 **Ordre du jour et procès-verbal**
 
-<sup>1</sup> Le président arrête l’ordre du jour. Chacun des membres peut demander le renvoi à une séance ultérieure de l’examen de propositions ne figurant pas à l’ordre du jour, sous réserve ’des cas d’urgence.
+<sup>1</sup> La personne qui préside la séance arrête l’ordre du jour. Chacun des membres peut demander le renvoi à une séance ultérieure de l’examen de propositions ne figurant pas à l’ordre du jour, sous réserve des cas d’urgence.[^20-1]
 
 <sup>2</sup> Le procès-verbal des séances de la Direction générale est dressé par le secrétaire général ou par un remplaçant. Il doit comprendre le libellé exact des décisions et, si les délibérations portent sur des questions essentielles, les motifs des décisions.
 
 <sup>3</sup> Le procès-verbal des séances de la Direction générale est adressé également au président du Conseil de banque.
+
+[^20-1]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 20 avr. 2022, approuvée par le CF le 4 mai 2022 et en vigueur depuis le 4 mai 2022 ([RO 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 ## Section 6 Direction générale élargie
 
@@ -325,31 +332,33 @@ Elle a les tâches et les compétences suivantes:
 
 #### Art. 23
 
-**Séances**
+**Séances**[^23-1]
 
-<sup>1</sup> La Direction générale élargie se réunit en général quatre à six fois par année. Le président ou le vice-président de la Direction générale préside les séances. [^23-1]
+<sup>1</sup> La Direction générale élargie se réunit en général quatre à six fois par année. Le président, ou en cas d’empêchement le vice-président de la Direction générale préside les séances. Sur ordre de la personne qui préside la séance, la participation aux séances par voie électronique est possible.
 
 <sup>2</sup> Les affaires qui appellent des décisions doivent faire l’objet, avant la séance, de propositions écrites de la part des départements ou du Secrétariat général.
 
 <sup>3</sup> Le président du Conseil de banque a le droit d’assister, avec voix consultative, aux séances de la Direction générale élargie.
 
-<sup>4</sup> La Direction générale élargie délibère valablement si au moins deux membres de la Direction générale, le suppléant du membre absent de la Direction générale et un autre suppléant sont présents. Toutes les décisions sont prises à la majorité des voix des membres présents, mais requièrent les voix d’au moins deux membres de la Direction générale pour être valables. En cas d’égalité des suffrages, les voix des membres de la Direction générale et, le cas échéant, du suppléant d’un membre absent de la Direction générale comptent double.
+<sup>4</sup> La Direction générale élargie délibère valablement si au moins deux membres de la Direction générale, le suppléant désigné du membre absent de la Direction générale et au moins un autre suppléant sont présents. Toutes les décisions sont prises à la majorité des voix des membres présents; les voix des membres de la Direction générale et du suppléant désigné du membre absent de la Direction générale comptent double. Les décisions requièrent l’approbation d’au moins deux membres de la Direction générale. En cas d’égalité des voix, les voix des membres de la Direction générale et du suppléant désigné du membre absent de la Direction générale sont déterminantes.
 
-[^23-1]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 8 avr. 2011, approuvée par le CF le 29 juin 2011 et en vigueur depuis le 15 juil. 2011 ([RO 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
+<sup>5</sup> Dans des cas particuliers, les décisions peuvent être prises par voie de circulaire. Elles sont consignées au procès-verbal de la séance suivante.
+
+[^23-1]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 20 avr. 2022, approuvée par le CF le 4 mai 2022 et en vigueur depuis le 4 mai 2022 ([RO 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 24
 
 **Ordre du jour et procès-verbal**
 
-<sup>1</sup> Le président de la Direction générale élargie arrête l’ordre du jour après avoir consulté le président du Collège des suppléants. Chacun des membres peut demander le renvoi à une séance ultérieure de l’examen de propositions ne figurant pas à l’ordre du jour, sous réserve des cas d’urgence. [^24-1]
+<sup>1</sup> La personne qui préside la séance de la Direction générale élargie arrête l’ordre du jour après avoir consulté le président du Collège des suppléants. Chacun des membres peut demander le renvoi à une séance ultérieure de l’examen de propositions ne figurant pas à l’ordre du jour, sous réserve des cas d’urgence.[^24-1]
 
 <sup>2</sup> Le procès-verbal des séances de la Direction générale élargie est dressé par le secrétaire général ou par un remplaçant. Il doit comprendre le libellé exact des décisions et, si les délibérations portent sur des questions essentielles, les motifs des décisions.
 
 <sup>3</sup> Le procès-verbal des séances de la Direction générale élargie est adressé également au président du Conseil de banque.
 
-[^24-1]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 8 avr. 2011, approuvée par le CF le 29 juin 2011 et en vigueur depuis le 15 juil. 2011 ([RO 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
+[^24-1]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 20 avr. 2022, approuvée par le CF le 4 mai 2022 et en vigueur depuis le 4 mai 2022 ([RO 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
-## Section 6*a***** Collège des suppléants
+## Section 6*a* Collège des suppléants
 
 [^sec6a-1]
 
@@ -357,13 +366,13 @@ Elle a les tâches et les compétences suivantes:
 
 #### Art. 24a
 
-**Composition**
+**Composition**[^24a-1]
 
-<sup>1</sup> Le Collège des suppléants (Collège) se compose des suppléants des membres de la Direction générale.
+<sup>1</sup> Le Collège des suppléants (Collège) se compose des membres suppléants de la Direction générale.
 
 <sup>2</sup> La présidence est exercée en alternance pendant un an. Le mandat prend effet au début de l’année civile.
 
-<sup>3</sup> En cas d’absence d’un membre du Collège, la direction du département concerné peut désigner une autre personne du département pour participer, avec droit de vote, aux séances du Collège.
+[^24a-1]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 20 avr. 2022, approuvée par le CF le 4 mai 2022 et en vigueur depuis le 4 mai 2022 ([RO 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 24b
 
@@ -388,19 +397,19 @@ Il a les tâches et les compétences suivantes:
 
 #### Art. 24c
 
-**Séances et décisions**
+**Séances et décisions**[^24c-1]
 
-<sup>1</sup> Le Collège prend ses décisions à l’unanimité. En l’absence de celle-ci, il soumet l’affaire pour décision à la Direction générale élargie.
+<sup>1</sup> Le Collège se réunit en général deux fois par mois. La personne présidant la séance arrête l’ordre du jour après avoir consulté les membres du Collège. Sur ordre de la personne qui préside la séance, la participation aux séances par voie électronique est possible.
 
-<sup>2</sup> Le Collège se réunit en général deux fois par mois. Le président arrête l’ordre du jour après avoir consulté des membres du Collège. [^24c-1]
+<sup>2</sup> Le Collège délibère valablement dès lors qu’au moins un suppléant de chaque département est présent. Le Collège prend ses décisions à l’unanimité. En l’absence de celle-ci, il soumet l’affaire pour décision à la Direction générale élargie.
 
-<sup>3</sup> Le procès-verbal des séances du Collège est établi par le suppléant du secrétaire général. Il doit comprendre la teneur exacte des décisions et, si les délibérations portent sur des questions essentielles, les motifs des décisions.[^24c-2]
+<sup>3</sup> Dans des cas particuliers, les décisions peuvent être prises par voie de circulaire. Elles sont consignées au procès-verbal de la séance suivante.
 
-<sup>4</sup> Le président du Collège fait rapport à la Direction générale élargie. Les décisions du Collège ne sont discutées au sein de la Direction générale élargie qu’à la demande expresse d’un département. [^24c-3]
+<sup>4</sup> Le procès-verbal des séances du Collège est établi par le Secrétariat général. Il doit comprendre la teneur exacte des décisions et, si les délibérations portent sur des questions essentielles, les motifs des décisions.
 
-[^24c-1]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 8 avr. 2011, approuvée par le CF le 29 juin 2011 et en vigueur depuis le 15 juil. 2011 ([RO 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
-[^24c-2]: Introduit par le ch. I de la D du Conseil de banque du 8 avr. 2011, approuvée par le CF le 29 juin 2011 et en vigueur depuis le 15 juil. 2011 ([RO 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
-[^24c-3]: Introduit par le ch. I de la D du Conseil de banque du 8 avr. 2011, approuvée par le CF le 29 juin 2011 et en vigueur depuis le 15 juil. 2011 ([RO 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
+<sup>5</sup> La personne qui préside la séance du Collège informe le président de la Direction générale des activités et des décisions du Collège. Elle en fait également rapport à la Direction générale élargie. Les décisions du Collège ne sont discutées au sein de la Direction générale élargie qu’à la demande expresse d’un membre de la Direction générale.
+
+[^24c-1]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 20 avr. 2022, approuvée par le CF le 4 mai 2022 et en vigueur depuis le 4 mai 2022 ([RO 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 ## Section 7 Autres dispositions
 
@@ -431,7 +440,9 @@ Les membres du Conseil de banque, les membres de la Direction générale et leur
 - c. concernent une personne morale ou une société, ou touchent les intérêts d’une personne morale ou d’une société, dont ils sont administrateurs ou membres de la direction ou sur laquelle ils exercent une influence déterminante en tant qu’actionnaires ou associés;
 - d. pourraient les concerner pour toute autre raison.
 
-<sup>2</sup> Si la récusation est contestée, l’organe concerné tranche en l’absence du membre en cause. En cas d’égalité des suffrages, la voix du président compte double.
+<sup>2</sup> Si la récusation est contestée, l’organe concerné tranche en l’absence du membre en cause. En cas d’égalité des voix, celle de la personne qui préside la séance compte double.[^26-1]
+
+[^26-1]: Nouvelle teneur selon le ch. I de la D du Conseil de banque du 20 avr. 2022, approuvée par le CF le 4 mai 2022 et en vigueur depuis le 4 mai 2022 ([RO 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 27
 

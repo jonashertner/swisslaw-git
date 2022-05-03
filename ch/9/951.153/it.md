@@ -3,18 +3,18 @@ sr: "951.153"
 title: Regolamento di organizzazione della Banca nazionale svizzera del 14 maggio 2004
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/438"
 language: it
-version: 2016-07-15
+version: 2022-05-04
 adopted: 2004-05-14
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/438/20160715/it/xml/fedlex-data-admin-ch-eli-cc-2004-438-20160715-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/438/20160715/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/438/20220504/it/xml/fedlex-data-admin-ch-eli-cc-2004-438-20220504-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/438/20220504/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Regolamento di organizzazione della Banca nazionale svizzera
 
-del 14 maggio 2004 (Stato 15 luglio 2016)
+del 14 maggio 2004 (Stato 4 maggio 2022)
 
 Approvato dal Consiglio federale il 23 giugno 2004
 
@@ -32,9 +32,9 @@ adotta il seguente regolamento:
 
 **Oggetto**[^1-1]
 
-Il presente regolamento stabilisce l’organizzazione interna della Banca nazionale svizzera (BNS), disciplina lo svolgimento dell’Assemblea generale in complemento agli articoli 34–38 LBN e regola i compiti e l’attività del Consiglio di banca, della Direzione generale, della Direzione generale allargata e del Collegio dei supplenti.
+Il presente regolamento stabilisce l’organizzazione interna della Banca nazionale svizzera (BNS), disciplina lo svolgimento dell’Assemblea generale in complemento agli articoli 34–38 LBN e regola i compiti e l’attività del Consiglio di banca, della Direzione generale, della Direzione generale allargata e del Collegio supplenti.
 
-[^1-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca dell’8 apr. 2016, approvata dal CF il 3 giu. 2016 ed in vigore dal 15 lug. 2016 ([RU 2016 2367](https://fedlex.data.admin.ch/eli/oc/2016/383)).
+[^1-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 2
 
@@ -46,39 +46,45 @@ Il regolamento di organizzazione costituisce l’ordinamento interno di base del
 
 #### Art. 3
 
-**Dipartimenti**
+**Dipartimenti**[^3-1]
 
 <sup>1</sup> La BNS è suddivisa in tre dipartimenti. Ogni dipartimento ha un determinato ambito di attività.
 
-<sup>2</sup> Le unità organizzative dei Dipartimenti I e III sono in maggioranza alla sede di Zurigo e quelle del Dipartimento II in maggioranza alla sede di Berna.
+<sup>2</sup> Le unità organizzative del 1° e del 3° dipartimento sono in maggioranza alla sede di Zurigo e quelle del 2° dipartimento in maggioranza alla sede di Berna.
 
-<sup>3</sup> Ogni dipartimento è diretto da un membro della Direzione generale e il Dipartimento I dal presidente della Direzione generale.
+<sup>3</sup> Ogni dipartimento è diretto da un membro della Direzione generale e il 1° dipartimento dal presidente della Direzione generale.
 
-<sup>4</sup> Ogni membro della Direzione generale ha un supplente. I membri della Direzione generale integrano i supplenti nella direzione dei rispettivi dipartimenti. I supplenti rappresentano i membri della Direzione generale in seno alla Direzione generale e sono responsabili della gestione del proprio dipartimento.[^3-1]
+<sup>4</sup> Ogni membro della Direzione generale ha fino a due supplenti. I membri che dispongono di due supplenti decidono da quale dei due farsi rappresentare in seno alla Direzione generale e alla Direzione generale allargata in caso di impedimento. Qualora un membro della Direzione generale dovesse mancare per un periodo prolungato o indeterminato, il Consiglio di banca decide, su proposta degli altri membri della Direzione generale, quale dei due supplenti assume la rappresentanza e la direzione del dipartimento durante il periodo di assenza.
 
-[^3-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca dell’8 apr. 2011, approvata dal CF il 29 giu. 2011 ed in vigore dal 15 lug. 2011 ([RU 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
+<sup>5</sup> I membri della Direzione generale integrano i supplenti nella direzione dei rispettivi dipartimenti. I supplenti sono responsabili della gestione del proprio dipartimento. La ripartizione dei compiti tra supplenti all’interno di un dipartimento è stabilita nell’ambito delle prescrizioni della Direzione generale.
+
+<sup>6</sup> È opportuno garantire una rotazione regolare dei supplenti fra i dipartimenti.
+
+[^3-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 4
 
 **Ambiti di attività**[^4-1]
 
-<sup>1</sup> L’ambito di attività del Dipartimento I comprende: la cooperazione monetaria internazionale, le questioni economiche, nonché le questioni giuridiche e i servizi.
+<sup>1</sup> L’ambito di attività del 1° dipartimento comprende in particolare le questioni economiche, la cooperazione monetaria internazionale e la statistica.
 
-<sup>2</sup> L’ambito di attività del Dipartimento II comprende: le banconote e le monete, le finanze e i rischi, nonché la stabilità finanziaria.
+<sup>2</sup> L’ambito di attività del 2° dipartimento comprende in particolare la stabilità finanziaria nonché le banconote e le monete.
 
-<sup>3</sup> L’ambito di attività del Dipartimento III comprende: i mercati finanziari, le operazioni bancarie e l’informatica.
+<sup>3</sup> L’ambito di attività del 3° dipartimento comprende in particolare i mercati finanziari e le operazioni bancarie.
 
-[^4-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca dell’8 apr. 2011, approvata dal CF il 29 giu. 2011 ed in vigore dal 15 lug. 2011 ([RU 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
+[^4-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 5
 
-**Segretariato generale**
+**Segretariato generale**[^5-1]
 
-<sup>1</sup> Il Segretariato generale è l’organo di stato maggiore della Direzione generale e del Consiglio di banca. È diretto dal segretario generale.
+<sup>1</sup> Il Segretariato generale è l’organo di stato maggiore degli organi di vigilanza e di direzione. È diretto dal segretario generale.
 
-<sup>2</sup> Esso sottostà alla Direzione generale. Nell’ambito delle sue attività per conto dell’Assemblea generale e del Consiglio di banca esso sottostà specificamente al presidente del Consiglio di banca.
+<sup>2</sup> Il Segretariato generale sottostà alla Direzione generale. Nell’ambito delle sue attività per conto dell’Assemblea generale e del Consiglio di banca esso sottostà specificamente al presidente del Consiglio di banca.
 
-<sup>3</sup> Il Segretariato generale è aggregato amministrativamente al Dipartimento I.
+<sup>3</sup> Il Segretariato generale è aggregato amministrativamente al 1° dipartimento.
+
+[^5-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 6
 
@@ -86,9 +92,10 @@ Il regolamento di organizzazione costituisce l’ordinamento interno di base del
 
 <sup>1</sup> La revisione interna è uno strumento indipendente di sorveglianza e di controllo dell’attività operativa della BNS. Essa sottostà al Comitato di verifica.[^6-1]
 
-<sup>2</sup> La revisione interna è aggregata amministrativamente al Dipartimento I.
+<sup>2</sup> La Revisione interna è aggregata amministrativamente al 1° dipartimento.[^6-2]
 
 [^6-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca dell’8 apr. 2011, approvata dal CF il 29 giu. 2011 ed in vigore dal 15 lug. 2011 ([RU 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
+[^6-2]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 7
 
@@ -96,31 +103,28 @@ Il regolamento di organizzazione costituisce l’ordinamento interno di base del
 
 <sup>1</sup> Per adempiere i compiti di cui all’articolo 5 LBN, la BNS può mantenere succursali e rappresentanze in Svizzera e all’estero.
 
-<sup>2</sup> La BNS mantiene rappresentanze incaricate di osservare l’andamento dell’economia nelle rispettive regioni e di provvedervi alla trasmissione delle informazioni. I competenti delegati alle relazioni economiche regionali sottostanno al Dipartimento I.
+<sup>2</sup> La BNS mantiene rappresentanze incaricate di osservare l’andamento dell’economia nelle rispettive regioni e di provvedere alla trasmissione delle informazioni in loco. I delegati alle relazioni economiche regionali preposti a tale compito sottostanno al 1° dipartimento.[^7-2]
 
 [^7-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca dell’8 apr. 2011, approvata dal CF il 29 giu. 2011 ed in vigore dal 15 lug. 2011 ([RU 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
+[^7-2]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 ## Sezione 3: Svolgimento dell’Assemblea generale
 
 #### Art. 8
 
-**Costituzione**
+**Costituzione**[^8-1]
 
 <sup>1</sup> La presidenza dell’Assemblea generale è esercitata dal presidente del Consiglio di banca o, in caso di impedimento, dal vicepresidente.
 
-<sup>2</sup> L’Assemblea generale designa gli scrutatori con voto palese della maggioranza assoluta degli azionisti presenti. I membri del Consiglio di banca non possono essere designati come scrutatori.
+<sup>2</sup> Il presidente dell’Assemblea generale designa le persone addette allo scrutinio.
 
-<sup>3</sup> Il verbale dell’Assemblea generale è redatto dal segretario generale o, in caso di impedimento, da un supplente.
+<sup>3</sup> Il verbale dell’Assemblea generale è redatto dal segretario generale o, in caso di impedimento, da un supplente. Si tratta di un verbale delle decisioni.
 
 <sup>4</sup> È allestito un elenco delle presenze. Esso indica il numero degli azionisti presenti e rappresentati all’Assemblea generale e il numero di azioni rappresentate.
 
-<sup>5</sup>
+<sup>5</sup> Il verbale e l’elenco delle presenze devono essere firmati dal presidente e dalla persona che redige il verbale.
 
-Il verbale e l’elenco delle presenze devono essere firmati:
-
-- a. dal presidente;
-- b. dal redattore del verbale;
-- c. dagli scrutatori.
+[^8-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 9
 
@@ -144,28 +148,33 @@ Il verbale e l’elenco delle presenze devono essere firmati:
 
 Il Consiglio di banca:
 
-- a. stabilisce i principi di organizzazione della Banca nazionale, decide in merito alla creazione o alla soppressione di succursali, agenzie e rappresentanze; adotta regolamenti sul riconoscimento e la rappresentanza degli azionisti, sui comitati consultivi regionali, nonché sulle norme di firma giuridicamente vincolante in nome della Banca nazionale;
-- b. regola l’organizzazione della contabilità e del controllo finanziario nonché l’allestimento del piano finanziario, sorveglia l’attività della revisione interna ed esterna e valuta l’efficacia del sistema interno di controllo (SCI);
-- c.[^10-3] adotta il preventivo annuale e una riserva progettuale per spese impreviste e approva investimenti e spese non iscritti nel preventivo che superano i limiti di tale riserva. I nuovi progetti che comportano costi unici di oltre 5 milioni di franchi o costi ricorrenti di oltre 1 milione di franchi devono essergli sottoposti con una richiesta separata. Approva il conteggio degli attingimenti dal preventivo;
+- a.[^10-3] stabilisce i principi di organizzazione della Banca nazionale, decide in merito alla creazione o alla soppressione di succursali, agenzie e rappresentanze; adotta regolamenti sul riconoscimento e la rappresentanza degli azionisti, sui comitati consultivi economici regionali, nonché sulle norme di firma giuridicamente vincolante in nome della Banca nazionale;
+- b.[^10-4] regola l’organizzazione della contabilità e del controllo finanziario nonché l’allestimento del piano finanziario, sorveglia l’attività della revisione interna ed esterna e valuta l’efficacia del sistema di controllo interno (SCI);
+- c.[^10-5] adotta il preventivo annuale e una riserva progettuale per spese impreviste e approva investimenti e spese non iscritti nel preventivo che superano i limiti di tale riserva. I nuovi progetti che comportano costi unici di oltre 5 milioni di franchi o costi ricorrenti di oltre 1 milione di franchi devono essergli sottoposti con una richiesta separata. Approva il conteggio degli attingimenti dal preventivo;
 - d. approva il volume degli accantonamenti;
-- e. valuta la gestione dei rischi di credito e di mercato e sorveglia la sua attuazione. Valuta i principi del processo di investimento e ne sorveglia l’osservanza;
+- e.[^10-6] sorveglia la gestione dei rischi in relazione agli investimenti e valuta la governance del processo di investimento;
 - f. prende atto delle strategie di gestione delle risorse della Banca nazionale, in particolare nei settori dell’informatica, del personale e degli immobili e ne ordina il controllo periodico;
-- g.[^10-4] presenta, a destinazione del Consiglio federale, proposte di nomina dei membri e supplenti della Direzione generale e decide in merito all’assunzione, alla promozione e al licenziamento dei direttori e del capo della revisione interna;
-- h. stabilisce in un regolamento le indennità corrisposte ai suoi membri e la rimunerazione dei membri e supplenti della Direzione generale e stabilisce i principi di rimunerazione del personale;
-- i.[^10-5] esercita la vigilanza sull’attività d’affari da parte della Direzione generale allargata, in particolare per quanto riguarda l’osservanza di leggi, statuti, regolamenti e direttive (*compliance*);
+- g.[^10-7] elabora, a destinazione del Consiglio federale, proposte di nomina dei membri e supplenti della Direzione generale e decide in merito all’assunzione, alla promozione e al licenziamento dei direttori e del capo della Revisione interna;
+- h.[^10-8] stabilisce in un regolamento le indennità corrisposte ai suoi membri e la remunerazione dei membri e supplenti della Direzione generale e stabilisce i principi di remunerazione del personale;
+- i.[^10-9] esercita la vigilanza sull’attività d’affari da parte della Direzione generale allargata, in particolare per quanto riguarda l’osservanza di leggi, statuti, regolamenti e direttive (*compliance*);
 - j. valuta la gestione dei rischi operativi e ne sorveglia l’attuazione;
 - k. adotta il rapporto annuale di gestione e il consuntivo annuale a destinazione del Consiglio federale e dell’Assemblea generale, prepara l’Assemblea generale e ne esegue le decisioni;
 - l. approva le convenzioni in materia di distribuzione degli utili concluse con il Dipartimento federale delle finanze;
 - m. decide in merito all’aspetto delle banconote;
-- n. designa i membri dei consultori economici regionali;
-- o.[^10-6] emana un regolamento sugli investimenti finanziari e le operazioni finanziarie dei membri della Direzione della banca.
+- n.[^10-10] designa i membri dei comitati consultivi economici regionali;
+- o.[^10-11] emana un regolamento sugli investimenti finanziari e le operazioni finanziarie dei membri della Direzione della banca.
 
 [^10-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 24 ott. 2008, approvata dal CF il 19 dic. 2008 ed in vigore dal 1° gen. 2009 ([RU 2009 51](https://fedlex.data.admin.ch/eli/oc/2009/5)).
 [^10-2]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca dell’8 apr. 2016, approvata dal CF il 3 giu. 2016 ed in vigore dal 15 lug. 2016 ([RU 2016 2367](https://fedlex.data.admin.ch/eli/oc/2016/383)).
-[^10-3]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca dell’8 apr. 2011, approvata dal CF il 29 giu. 2011 ed in vigore dal 15 lug. 2011 ([RU 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
-[^10-4]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca dell’8 apr. 2011, approvata dal CF il 29 giu. 2011 ed in vigore dal 15 lug. 2011 ([RU 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
-[^10-5]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca dell’8 apr. 2016, approvata dal CF il 3 giu. 2016 ed in vigore dal 15 lug. 2016 ([RU 2016 2367](https://fedlex.data.admin.ch/eli/oc/2016/383)).
-[^10-6]: Introdotta dal n. I della Dec. del Consiglio di banca dell’8 apr. 2016, approvata dal CF il 3 giu. 2016 ed in vigore dal 15 lug. 2016 ([RU 2016 2367](https://fedlex.data.admin.ch/eli/oc/2016/383)).
+[^10-3]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
+[^10-4]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
+[^10-5]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca dell’8 apr. 2011, approvata dal CF il 29 giu. 2011 ed in vigore dal 15 lug. 2011 ([RU 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
+[^10-6]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
+[^10-7]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
+[^10-8]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
+[^10-9]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca dell’8 apr. 2016, approvata dal CF il 3 giu. 2016 ed in vigore dal 15 lug. 2016 ([RU 2016 2367](https://fedlex.data.admin.ch/eli/oc/2016/383)).
+[^10-10]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
+[^10-11]: Introdotta dal n. I della Dec. del Consiglio di banca dell’8 apr. 2016, approvata dal CF il 3 giu. 2016 ed in vigore dal 15 lug. 2016 ([RU 2016 2367](https://fedlex.data.admin.ch/eli/oc/2016/383)).
 
 #### Art. 11
 
@@ -173,7 +182,9 @@ Il Consiglio di banca:
 
 <sup>1</sup> Il Consiglio di banca istituisce un Comitato di verifica. Esso consta di almeno due membri del Consiglio di banca.
 
-<sup>2</sup> Esso coadiuva il Consiglio di banca in materia di vigilanza sulla contabilità e di rendiconto finanziario, come pure di osservanza delle leggi e delle disposizioni di regolazione. Il Comitato valuta l’efficacia del sistema interno di controllo (SIC) e sorveglia l’attività della revisione interna ed esterna. I compiti del Comitato di verifica sono disciplinati da un apposito regolamento.
+<sup>2</sup> Esso coadiuva il Consiglio di banca in materia di vigilanza sulla contabilità e di rendiconto finanziario, come pure di osservanza delle leggi e delle disposizioni di regolamentazione. Il Comitato valuta l’efficacia del sistema di controllo interno (SCI) e sorveglia l’attività della revisione interna ed esterna. I compiti del Comitato di verifica sono disciplinati da un apposito regolamento.[^11-1]
+
+[^11-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 12
 
@@ -181,19 +192,20 @@ Il Consiglio di banca:
 
 <sup>1</sup> Il Consiglio di banca istituisce un Comitato dei rischi*.* Esso consta di almeno due membri del Consiglio di banca.
 
-<sup>2</sup> Esso coadiuva il Consiglio di banca nella valutazione e sorveglianza della gestione dei rischi e del processo di investimento. I compiti del Comitato dei rischi sono disciplinati da un apposito regolamento.[^12-1]
+<sup>2</sup> Esso coadiuva il Consiglio di banca nella sorveglianza della gestione dei rischi in relazione agli investimenti e nella valutazione della governance del processo di investimento. I compiti del Comitato dei rischi sono disciplinati da un apposito regolamento.[^12-1]
 
-[^12-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 31 mar. 2006, approvata dal CF il 16 giu. 2006 ed in vigore dal 1° lug. 2006 ([RU 2006 2609](https://fedlex.data.admin.ch/eli/oc/2006/397)).
+[^12-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 13
 
-**Comitato di rimunerazione**
+**Comitato di remunerazione**[^13-1]
 
-<sup>1</sup> Il Consiglio di banca istituisce un Comitato di rimunerazione*.* Esso consta di almeno tre membri del Consiglio di banca, fra i quali il suo presidente.
+<sup>1</sup> Il Consiglio di banca istituisce un Comitato di remunerazione. Esso consta di almeno tre membri del Consiglio di banca, fra i quali il suo presidente.
 
-<sup>2</sup> Esso coadiuva il Consiglio di banca nella fissazione della politica salariale e di indennizzo della BNS e gli presenta proposte relativamente alla fissazione degli stipendi dei membri della Direzione generale e dei loro supplenti. A tale scopo esso si orienta sui principi dell’articolo 6*a* capoversi 1–6 della legge del 24 marzo 2000[^13-1] sul personale federale. I compiti del Comitato di rimunerazione sono disciplinati da un apposito regolamento.
+<sup>2</sup> Esso coadiuva il Consiglio di banca nella fissazione della politica retributiva della BNS e gli presenta proposte relativamente alla fissazione degli stipendi dei membri della Direzione generale e dei loro supplenti. A tale scopo esso si orienta sui principi dell’articolo 6*a* capoversi 1–6 della legge del 24 marzo 2000[^13-2] sul personale federale. I compiti del Comitato di remunerazione sono disciplinati da un apposito regolamento.
 
-[^13-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^13-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
+[^13-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
 #### Art. 14
 
@@ -216,34 +228,39 @@ Il Comitato di nomina elabora proposte di nomina di:
 
 <sup>1</sup> La Direzione generale trasmette al Consiglio di banca, unitamente ad un breve commento, i risultati intermedi che sono pubblicati trimestralmente, come pure i valori di riferimento del risultato annuale.[^15-1]
 
-<sup>2</sup> Su richiesta del Consiglio di banca essa gli mette a disposizione tutti i documenti necessari all’adempimento del suo compito.
+<sup>2</sup> Su richiesta essa mette a disposizione del Consiglio di banca tutti i documenti necessari all’adempimento dei suoi compiti.[^15-2]
 
-<sup>3</sup> Inoltre essa orienta regolarmente il Consiglio di banca sulla situazione economica, sulla situazione sul fronte dei mercati finanziari, sulla politica monetaria, sulla stabilità del sistema finanziario e sull’investimento degli attivi.[^15-2]
+<sup>3</sup> Inoltre, essa informa regolarmente il Consiglio di banca sulla situazione economica, sulla situazione sul fronte dei mercati finanziari, sulla politica monetaria, sulla stabilità del sistema finanziario e sull’investimento degli attivi.[^15-3]
 
 [^15-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 31 mar. 2006, approvata dal CF il 16 giu. 2006 ed in vigore dal 1° lug. 2006 ([RU 2006 2609](https://fedlex.data.admin.ch/eli/oc/2006/397)).
-[^15-2]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 31 mar. 2006, approvata dal CF il 16 giu. 2006 ed in vigore dal 1° lug. 2006 ([RU 2006 2609](https://fedlex.data.admin.ch/eli/oc/2006/397)).
+[^15-2]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
+[^15-3]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 16
 
-**Sedute**
+**Sedute**[^16-1]
 
-<sup>1</sup> Il Consiglio di banca si riunisce di norma sei volte all’anno in seduta ordinaria. Può essere convocato in seduta straordinaria dal presidente o su richiesta di almeno tre membri.
+<sup>1</sup> Il Consiglio di banca si riunisce di norma sei volte all’anno in seduta ordinaria. Può essere convocato in seduta straordinaria dal presidente o su richiesta di almeno tre membri. Su disposizione del presidente della seduta la partecipazione alle riunioni ordinarie e straordinarie può avvenire in modalità elettronica.
 
-<sup>2</sup> È atto a deliberare se sono presenti almeno sei membri, compreso il presidente.
+<sup>2</sup> Il Consiglio di banca è atto a deliberare se sono presenti almeno sei membri, compreso il presidente della seduta.
 
-<sup>3</sup> Le decisioni sono prese alla maggioranza assoluta dei voti dei membri presenti; in caso di parità dei voti, quello del presidente conta doppio.
+<sup>3</sup> Le decisioni sono prese alla maggioranza assoluta dei voti dei membri presenti; in caso di parità dei voti, quello del presidente della seduta conta doppio.
 
-<sup>4</sup> I membri della Direzione generale partecipano di norma alle sedute del Consiglio di banca a titolo consultivo. Il Consiglio di banca può convocare specialisti alle deliberazioni.
+<sup>4</sup> I membri della Direzione generale partecipano di norma alle sedute del Consiglio di banca a titolo consultivo. Il Consiglio di banca può convocare specialisti alle consultazioni.
 
-<sup>5</sup> Nei casi urgenti le decisioni possono essere prese mediante conferenza telefonica o per via circolare. Tali decisioni sono prese alla maggioranza assoluta dei voti dei membri del Consiglio di banca. Esse devono essere iscritte nel verbale della seduta successiva.
+<sup>5</sup> In casi particolari le decisioni possono essere prese per via circolare. Tali decisioni sono prese alla maggioranza assoluta dei voti dei membri del Consiglio di banca. Esse sono iscritte nel verbale della seduta successiva.
+
+[^16-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 17
 
-**Ordine del giorno e verbale**
+**Ordine del giorno e verbale**[^17-1]
 
-<sup>1</sup> Il presidente del Consiglio di banca stabilisce l’ordine del giorno. Entro 10 giorni prima della seduta, ogni membro può chiedere per scritto l’iscrizione di un oggetto all’ordine del giorno. Le proposte al Consiglio di banca possono essere redatte in tedesco o in francese.
+<sup>1</sup> Il presidente della seduta del Consiglio di banca stabilisce l’ordine del giorno. Fino a 10 giorni prima della seduta, ogni membro può chiedere per scritto l’iscrizione di un oggetto all’ordine del giorno. Le proposte al Consiglio di banca possono essere redatte in tedesco o in francese.
 
-<sup>2</sup> Il verbale delle sedute del Consiglio di banca è redatto dal segretario generale o da un supplente. Esso contiene il testo delle decisioni e, trattandosi di questioni importanti, anche la relativa motivazione.
+<sup>2</sup> Il verbale delle sedute del Consiglio di banca è redatto dal segretario generale o da un supplente. Esso contiene il testo delle decisioni e, se le consultazioni riguardano questioni importanti, anche la relativa motivazione.
+
+[^17-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 ## Sezione 5: Direzione generale
 
@@ -258,38 +275,46 @@ Il Comitato di nomina elabora proposte di nomina di:
 Oltre ai compiti enumerati all’articolo 46 capoverso 2 LBN, alla Direzione generale competono:
 
 - a. l’esame preliminare degli affari sottoposti al Consiglio di banca, fatti salvi quelli che rientrano nell’ambito di competenza della Direzione generale allargata (art. 22 cpv. 2 lett. b–d);
-- b. l’adozione di direttive di politica monetaria, comprese quelle relative alla pubblicazione di dati importanti dal profilo della politica monetaria;
+- b.[^18-1] l’adozione di direttive di politica monetaria, comprese quelle relative alla pubblicazione di dati rilevanti di politica monetaria;
 - c. l’adozione di direttive di politica di investimento;
-- d. l’adozione delle condizioni generali d’affari e di condizioni generali applicabili alle agenzie gestite da altre banche;
+- d.[^18-2] l’adozione delle condizioni generali e di condizioni generali applicabili alle agenzie gestite da altre banche;
 - e. la fissazione della strategia in materia di investimento degli attivi;
 - f. la fissazione del valore nominale delle banconote da emettere;
 - g. l’emissione e il ritiro di tipi e di serie di banconote;
 - h. la conclusione di convenzioni di prestazioni bancarie ai servizi della Confederazione;
 - i. la decisione di avviare processi (eccettuate le procedure in materia di lavoro e di pigioni).
 
+[^18-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
+[^18-2]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
+
 #### Art. 19
 
-**Sedute**
+**Sedute**[^19-1]
 
-<sup>1</sup> La Direzione generale si riunisce di norma due volte al mese in seduta ordinaria. Il presidente o il vicepresidente ne assumono la presidenza. Ogni membro può esigere la convocazione di sedute straordinarie.
+<sup>1</sup> La Direzione generale si riunisce di norma due volte al mese in seduta ordinaria. Il presidente o, in caso di impedimento, il vicepresidente ne assume la presidenza. Ogni membro può esigere la convocazione di sedute straordinarie. Su disposizione del presidente della seduta la partecipazione alle riunioni ordinarie e straordinarie può avvenire in modalità elettronica.
 
-<sup>2</sup> Gli affari che postulano una decisione devono essere oggetto di proposte scritte dei dipartimenti o del Segretariato generale prima della seduta.
+<sup>2</sup> Gli affari che postulano una decisione devono essere oggetto, prima della seduta, di proposte scritte dei dipartimenti o del Segretariato generale.
 
 <sup>3</sup> Il presidente del Consiglio di banca è autorizzato a partecipare a titolo consultivo alle sedute della Direzione generale; ne sono escluse le sedute alle quali sono elaborate e prese decisioni di politica monetaria.
 
-<sup>4</sup> La Direzione generale è atta a deliberare se sono presenti almeno due suoi membri e il supplente del membro assente. Tutte le decisioni sono prese alla maggioranza dei voti.
+<sup>4</sup> La Direzione generale è atta a deliberare se sono presenti almeno due suoi membri e il supplente designato del membro assente. Tutte le decisioni sono prese alla maggioranza dei voti.
 
-<sup>5</sup> Nei casi urgenti le decisioni possono essere prese mediante conferenza telefonica o per via circolare. Tali decisioni devono essere iscritte nel verbale della seduta successiva.
+<sup>5</sup> In casi particolari le decisioni possono essere prese per via circolare. Tali decisioni sono iscritte nel verbale della seduta successiva.
+
+[^19-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 20
 
 **Ordine del giorno e verbale**
 
-<sup>1</sup> Il presidente stabilisce l’ordine del giorno. Ogni membro può esigere che la discussione di proposte che non figurano all’ordine del giorno sia rinviata a una seduta ulteriore, eccettuati i casi urgenti.
+<sup>1</sup> Il presidente della seduta stabilisce l’ordine del giorno. Ogni membro può esigere che la discussione di proposte che non figurano all’ordine del giorno sia rinviata a una seduta ulteriore, eccettuati i casi urgenti.[^20-1]
 
-<sup>2</sup> Il verbale delle sedute della Direzione generale è redatto dal segretario generale o da un supplente. Esso contiene il testo delle decisioni e, trattandosi di questioni importanti, anche la relativa motivazione.
+<sup>2</sup> Il verbale delle sedute della Direzione generale è redatto dal segretario generale o da un supplente. Esso contiene il testo delle decisioni e, se le consultazioni riguardano questioni importanti, anche la relativa motivazione.[^20-2]
 
 <sup>3</sup> Il verbale della Direzione generale è inviato anche al presidente del Consiglio di banca.
+
+[^20-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
+[^20-2]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 ## Sezione 6: Direzione generale allargata
 
@@ -314,51 +339,56 @@ La Direzione generale allargata:
 - c. decide in merito all’assunzione, alla promozione e al licenziamento dei membri della direzione, ad eccezione dei direttori;
 - d. scioglie i membri della direzione dall’obbligo di tutelare il segreto di cui all’articolo 49 LBN.
 
-<sup>3</sup> La Direzione generale allargata può decidere in qualsiasi momento di trattare direttamente le questioni che, secondo l’articolo 24*b*, rientrano nelle competenze del Collegio dei supplenti.
+<sup>3</sup> La Direzione generale allargata può decidere in qualsiasi momento di trattare direttamente le questioni che, secondo l’articolo 24*b*, rientrano nelle competenze del Collegio supplenti.[^22-2]
 
 [^22-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca dell’8 apr. 2011, approvata dal CF il 29 giu. 2011 ed in vigore dal 15 lug. 2011 ([RU 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
+[^22-2]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 23
 
-**Sedute**
+**Sedute**[^23-1]
 
-<sup>1</sup> La Direzione generale allargata si riunisce di norma da quattro a sei volte all’anno. Il presidente o il vicepresidente della Direzione generale ne assume la presidenza.[^23-1]
+<sup>1</sup> La Direzione generale allargata si riunisce di norma da quattro a sei volte all’anno. Il presidente o, in caso di impedimento, il vicepresidente della Direzione generale assume la presidenza delle sedute. Su disposizione del presidente della seduta la partecipazione può avvenire in modalità elettronica.
 
-<sup>2</sup> Gli affari che postulano una decisione devono essere oggetto prima della seduta di proposte scritte dei dipartimenti o del Segretariato generale.
+<sup>2</sup> Gli affari che postulano una decisione devono essere oggetto, prima della seduta, di proposte scritte dei dipartimenti o del Segretariato generale.
 
 <sup>3</sup> Il presidente del Consiglio di banca è autorizzato a partecipare a titolo consultivo alle sedute della Direzione generale allargata.
 
-<sup>4</sup> La Direzione generale allargata è atta a deliberare se sono presenti almeno due membri della Direzione generale, il supplente del membro assente della Direzione generale e un ulteriore supplente. Tutte le decisioni sono prese alla maggioranza dei voti, ma abbisognano del voto di almeno due membri della Direzione generale per essere valide. In caso di parità dei voti, quelli dei membri della Direzione generale e dell’eventuale supplente del membro assente contano doppio.
+<sup>4</sup> La Direzione generale allargata è atta a deliberare se sono presenti almeno due membri della Direzione generale, il supplente designato del membro assente della Direzione generale e almeno un ulteriore supplente. Tutte le decisioni sono prese alla maggioranza dei voti dei membri presenti; i voti dei membri della Direzione generale e il voto del supplente designato del membro assente della Direzione generale contano doppio. Le decisioni necessitano dell’approvazione di almeno due membri della Direzione generale. In caso di parità dei voti, sono determinanti quelli dei membri della Direzione generale e del supplente designato del membro assente della Direzione generale.
 
-[^23-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca dell’8 apr. 2011, approvata dal CF il 29 giu. 2011 ed in vigore dal 15 lug. 2011 ([RU 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
+<sup>5</sup> In casi particolari le decisioni possono essere prese per via circolare. Tali decisioni sono iscritte nel verbale della seduta successiva.
+
+[^23-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 24
 
 **Ordine del giorno e verbale**
 
-<sup>1</sup> Il presidente della Direzione generale allargata stabilisce l’ordine del giorno, previa consultazione del presidente del Collegio dei supplenti. Ogni membro può esigere che la discussione di proposte che non figurano all’ordine del giorno sia rinviata a una seduta ulteriore, eccettuati i casi urgenti.[^24-1]
+<sup>1</sup> Il presidente della seduta della Direzione generale allargata stabilisce l’ordine del giorno, previa consultazione del presidente della seduta del Collegio supplenti. Ogni membro può esigere che la discussione di proposte che non figurano all’ordine del giorno sia rinviata a una seduta ulteriore, eccettuati i casi urgenti.[^24-1]
 
-<sup>2</sup> Il verbale delle sedute della Direzione generale allargata è redatto dal segretario generale o da un supplente. Esso contiene il testo delle decisioni e, trattandosi di questioni importanti, anche la relativa motivazione.
+<sup>2</sup> Il verbale delle sedute della Direzione generale allargata è redatto dal segretario generale o da un supplente. Esso contiene il testo delle decisioni e, se le consultazioni riguardano questioni importanti, anche la relativa motivazione.[^24-2]
 
 <sup>3</sup> Il verbale della Direzione generale allargata è inviato anche al presidente del Consiglio di banca.
 
-[^24-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca dell’8 apr. 2011, approvata dal CF il 29 giu. 2011 ed in vigore dal 15 lug. 2011 ([RU 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
+[^24-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
+[^24-2]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
-## Sezione 6*a*:**** Collegio dei supplenti
+## Sezione 6*a*: Collegio supplenti
 
-[^sec6a-1]
+[^sec6a-1][^sec6a-2]
 
 [^sec6a-1]: Introdotta dal n. I della Dec. del Consiglio di banca del 24 ott. 2008, approvata dal CF il 19 dic. 2008 ed in vigore dal 1° gen. 2009 ([RU 2009 51](https://fedlex.data.admin.ch/eli/oc/2009/5)).
+[^sec6a-2]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 24a
 
-**Composizione**
+**Composizione**[^24a-1]
 
-<sup>1</sup> Il Collegio dei supplenti (Collegio) consta dei supplenti dei membri della Direzione generale.
+<sup>1</sup> Il Collegio supplenti (Collegio) consta dei supplenti dei membri della Direzione generale.
 
-<sup>2</sup> La presidenza è esercitata per un anno. Il nuovo turno comincia all’inizio di ogni anno.
+<sup>2</sup> La presidenza è esercitata per un anno. L’avvicendamento fra i supplenti ha luogo all’inizio di ogni anno.
 
-<sup>3</sup> In caso di assenza di un membro del Collegio, la direzione del dipartimento può designare un altro membro del dipartimento, che partecipa con diritto di voto alle sedute del Collegio.
+[^24a-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 24b
 
@@ -375,27 +405,28 @@ Il Collegio:
 - c. approva i supplementi al preventivo nei limiti della riserva progettuale. Verifica il conteggio degli attingimenti dal preventivo e stila il rendiconto destinato al Consiglio di banca, incluso il rendiconto sulla riserva progettuale;
 - d. emana istruzioni e direttive sulla gestione;
 - e. decide in merito a questioni aziendali di importanza interdipartimentale concernenti l’organizzazione, gli immobili, il personale e l’informatica;
-- f. adotta le esigenze poste al sistema interno di controllo e alla gestione dei rischi operativi;
+- f.[^24b-2] adotta le esigenze poste al sistema di controllo interno e alla gestione dei rischi operativi;
 - g. decide in merito all’assunzione, alla promozione e al licenziamento dei membri dei quadri e conferisce il diritto di firma e la procura;
 - h. scioglie i collaboratori che non sono membri della direzione dall’obbligo di tutelare il segreto di cui all’articolo 49 LBN.
 
 [^24b-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca dell’8 apr. 2011, approvata dal CF il 29 giu. 2011 ed in vigore dal 15 lug. 2011 ([RU 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
+[^24b-2]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 24c
 
-**Sedute e decisioni**
+**Sedute e decisioni**[^24c-1]
 
-<sup>1</sup> Il Collegio delibera all’unanimità. Se non giunge a una decisione, il Collegio sottopone la questione, per decisione, alla Direzione generale allargata.
+<sup>1</sup> Il Collegio si riunisce di norma due volte al mese. Il presidente della seduta stabilisce l’ordine del giorno, previa consultazione dei membri del Collegio. Su disposizione del presidente della seduta la partecipazione può avvenire in modalità elettronica.
 
-<sup>2</sup> l Collegio si riunisce di norma due volte al mese. Il presidente stabilisce l’ordine del giorno, previa consultazione dei membri del Collegio.[^24c-1]
+<sup>2</sup> Il Collegio è atto a deliberare se è presente almeno un supplente di ogni dipartimento. Il Collegio delibera all’unanimità. Se non giunge a una decisione, il Collegio sottopone la questione, per decisione, alla Direzione generale allargata.
 
-<sup>3</sup> Il verbale delle sedute del Collegio è redatto dal segretario generale supplente. Esso contiene il testo delle decisioni e, trattandosi di questioni importanti, anche la relativa motivazione.[^24c-2]
+<sup>3</sup> In casi particolari le decisioni possono essere prese per via circolare. Tali decisioni sono iscritte nel verbale della seduta successiva.
 
-<sup>4</sup> Il presidente fa rapporto alla Direzione generale allargata. Le decisioni del Collegio sono discusse in seno alla Direzione generale allargata soltanto su espressa richiesta di un dipartimento.[^24c-3]
+<sup>4</sup> Il verbale delle sedute del Collegio è redatto dal Segretariato generale. Esso contiene il testo delle decisioni e, se le consultazioni riguardano questioni importanti, anche la relativa motivazione.
 
-[^24c-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca dell’8 apr. 2011, approvata dal CF il 29 giu. 2011 ed in vigore dal 15 lug. 2011 ([RU 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
-[^24c-2]: Introdotto dal n. I della Dec. del Consiglio di banca dell’8 apr. 2011, approvata dal CF il 29 giu. 2011 ed in vigore dal 15 lug. 2011 ([RU 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
-[^24c-3]: Introdotto dal n. I della Dec. del Consiglio di banca dell’8 apr. 2011, approvata dal CF il 29 giu. 2011 ed in vigore dal 15 lug. 2011 ([RU 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
+<sup>5</sup> Il presidente della seduta informa il presidente della Direzione generale in merito alle attività e alle decisioni del Collegio. Egli fa inoltre rapporto alla Direzione generale allargata. Le decisioni del Collegio sono discusse in seno alla Direzione generale allargata soltanto su espressa richiesta di un membro della Direzione generale.
+
+[^24c-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 ## Sezione 7: Altre disposizioni
 
@@ -422,11 +453,15 @@ I membri della Direzione generale sono designati come segue:
 I membri del Consiglio di banca, i membri e i supplenti della Direzione generale devono ricusarsi nel caso di affari:
 
 - a. ai quali sono personalmente interessati;
-- b. ai quali partecipano o hanno un interesse personale persone alle quali sono imparentati sino al terzo grado o affini oppure vincolati da matrimonio o convivenza;
-- c. ai quali partecipa o è interessata una persona giuridica o una società della cui amministrazione o direzione fanno parte oppure sulla quale esercitano un influsso determinante come azionista o socio;
+- b.[^26-1] ai quali partecipano o hanno un interesse personale persone con le quali sono imparentati sino al terzo grado o affini oppure vincolati da matrimonio o convivenza;
+- c.[^26-2] ai quali partecipa o è interessata una persona giuridica o una società della cui amministrazione o direzione fanno parte oppure sulla quale esercitano un influsso determinante come azionista oppure come socio;
 - d. nei quali potrebbero essere prevenuti per altri motivi.
 
-<sup>2</sup> Se la ricusazione è contestata, l’organo pertinente decide in assenza del membro in causa. In caso di parità dei voti, quello del presidente conta doppio.
+<sup>2</sup> Se la ricusazione è contestata, l’organo pertinente decide in assenza del membro in causa. In caso di parità dei voti, quello del presidente della seduta conta doppio.[^26-3]
+
+[^26-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
+[^26-2]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
+[^26-3]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 27
 
@@ -436,7 +471,9 @@ I membri del Consiglio di banca, i membri e i supplenti della Direzione generale
 
 <sup>2</sup> Se raggiungono prima di tale età la durata massima del mandato di 12 anni, essi lo depongono alla data dell’Assemblea generale ordinaria dell’anno in cui completano tale durata.
 
-<sup>3</sup> Se ritengono che le condizioni legali della loro nomina non siano più adempiute, i membri del Consiglio di banca dichiarano al presidente le loro dimissioni per la data della prossima Assemblea generale ordinaria, anche se non hanno completato il loro mandato.
+<sup>3</sup> Se ritengono che le condizioni legali della loro nomina non siano più adempiute, i membri del Consiglio di banca dichiarano al presidente le loro dimissioni per la data della successiva Assemblea generale ordinaria, anche se non hanno completato il loro mandato.[^27-1]
+
+[^27-1]: Nuovo testo giusta il n. I della Dec. del Consiglio di banca del 20 apr. 2022, approvata dal CF il 4 mag. 2022 ed in vigore dal 4 mag. 2022 ([RU 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 28
 

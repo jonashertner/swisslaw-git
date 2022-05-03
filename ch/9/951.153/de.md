@@ -3,18 +3,18 @@ sr: "951.153"
 title: Organisationsreglement der Schweizerischen Nationalbank vom 14. Mai 2004
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/438"
 language: de
-version: 2016-07-15
+version: 2022-05-04
 adopted: 2004-05-14
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/438/20160715/de/xml/fedlex-data-admin-ch-eli-cc-2004-438-20160715-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/438/20160715/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/438/20220504/de/xml/fedlex-data-admin-ch-eli-cc-2004-438-20220504-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/438/20220504/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Organisationsreglement der Schweizerischen Nationalbank
 
-vom 14. Mai 2004 (Stand am 15. Juli 2016)
+vom 14. Mai 2004 (Stand am 4. Mai 2022)
 
 Vom Bundesrat genehmigt am 23. Juni 2004
 
@@ -46,7 +46,7 @@ Das Organisationsreglement bildet die interne Grundordnung der SNB. Es geht den 
 
 #### Art. 3
 
-**Departemente**
+**Departemente**[^3-1]
 
 <sup>1</sup> Die SNB ist in drei Departemente gegliedert. Jedes Departement hat einen bestimmten Geschäftskreis.
 
@@ -54,31 +54,37 @@ Das Organisationsreglement bildet die interne Grundordnung der SNB. Es geht den 
 
 <sup>3</sup> Jedes Departement wird von einem Mitglied des Direktoriums geleitet, das I. Departement von der Präsidentin oder dem Präsidenten des Direktoriums.
 
-<sup>4</sup> Jedes Mitglied des Direktoriums hat eine Stellvertreterin oder einen Stellvertreter. Die Mitglieder des Direktoriums beziehen ihre Stellvertreterin oder ihren Stellvertreter in die Departementsleitung ein. Die Stellvertreterinnen und Stellvertreter vertreten die Mitglieder des Direktoriums im Direktorium und sind für die Betriebsführung in ihrem Departement zuständig.[^3-1]
+<sup>4</sup> Jedes Mitglied des Direktoriums hat bis zu zwei Stellvertreterinnen oder Stellvertreter. Im Fall von zwei Stellvertreterinnen oder Stellvertretern bestimmt das jeweilige Mitglied des Direktoriums, durch welche Stellvertreterin oder welchen Stellvertreter es im Verhinderungsfall im Direktorium und Erweiterten Direktorium vertreten wird. Fällt ein Mitglied des Direktoriums für eine längere oder unbestimmte Zeitdauer aus, bestimmt der Bankrat auf Antrag der übrigen Mitglieder des Direktoriums, welche Stellvertreterin oder welcher Stellvertreter die Vertretung und Departementsleitung für die Zeit des Ausfalls übernimmt.
 
-[^3-1]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 8. April 2011, vom BR genehmigt am 29. Juni 2011 und in Kraft seit 15. Juli 2011 ([AS 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
+<sup>5</sup> Die Mitglieder des Direktoriums beziehen ihre Stellvertreterinnen und Stellvertreter in die Departementsleitung ein. Die Stellvertreterinnen und Stellvertreter sind für die Betriebsführung in ihrem Departement zuständig. Die Aufgabenteilung zwischen den Stellvertreterinnen und Stellvertretern innerhalb eines Departements wird im Rahmen der Vorgaben des Direktoriums festgelegt.
+
+<sup>6</sup> Es wird eine regelmässige Rotation der Stellvertreterinnen und Stellvertreter zwischen den Departementen angestrebt.
+
+[^3-1]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 20. April 2022, vom BR genehmigt am 4. Mai 2022 und in Kraft seit 4. Mai 2022 ([AS 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 4
 
 **Geschäftskreise**[^4-1]
 
-<sup>1</sup> Der Geschäftskreis des I. Departements umfasst: Internationale Währungskooperation, Volkswirtschaft sowie Recht und Dienste.
+<sup>1</sup> Der Geschäftskreis des I. Departements umfasst insbesondere Volkswirtschaft, Internationale Währungskooperation und Statistik.
 
-<sup>2</sup> Der Geschäftskreis des II. Departements umfasst: Bargeld, Finanzen und Risiken sowie Finanzstabilität.
+<sup>2</sup> Der Geschäftskreis des II. Departements umfasst insbesondere Finanzstabilität und Bargeld.
 
-<sup>3</sup> Der Geschäftskreis des III. Departements umfasst: Finanzmärkte, Operatives Bankgeschäft sowie Informatik.
+<sup>3</sup> Der Geschäftskreis des III. Departements umfasst insbesondere Finanzmärkte und Operatives Bankgeschäft.
 
-[^4-1]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 8. April 2011, vom BR genehmigt am 29. Juni 2011 und in Kraft seit 15. Juli 2011 ([AS 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
+[^4-1]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 20. April 2022, vom BR genehmigt am 4. Mai 2022 und in Kraft seit 4. Mai 2022 ([AS 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 5
 
-**Generalsekretariat**
+**Generalsekretariat**[^5-1]
 
-<sup>1</sup> Das Generalsekretariat ist die Stabsstelle des Direktoriums und des Bankrats. Es wird vom Generalsekretär oder der Generalsekretärin geleitet.
+<sup>1</sup> Das Generalsekretariat ist die Stabsstelle der Aufsichts- und Leitungsgremien. Es wird von der Generalsekretärin oder dem Generalsekretär geleitet.
 
-<sup>2</sup> Es untersteht dem Direktorium. Im Rahmen seiner Tätigkeit für die Generalversammlung und den Bankrat ist es fachlich der Präsidentin oder dem Präsidenten des Bankrats unterstellt.
+<sup>2</sup> Das Generalsekretariat untersteht dem Direktorium. Im Rahmen seiner Tätigkeit für die Generalversammlung und den Bankrat ist es fachlich der Präsidentin oder dem Präsidenten des Bankrats unterstellt.
 
 <sup>3</sup> Das Generalsekretariat gehört administrativ zum I. Departement.
+
+[^5-1]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 20. April 2022, vom BR genehmigt am 4. Mai 2022 und in Kraft seit 4. Mai 2022 ([AS 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 6
 
@@ -98,32 +104,25 @@ Das Organisationsreglement bildet die interne Grundordnung der SNB. Es geht den 
 
 <sup>2</sup> Die SNB unterhält Vertretungen, welche die Wirtschaftsbeobachtung und Informationsvermittlung in ihrer Region besorgen. Die dafür zuständigen Delegierten für regionale Wirtschaftskontakte unterstehen dem I. Departement.
 
-<sup>3</sup> …[^7-2]
-
 [^7-1]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 8. April 2011, vom BR genehmigt am 29. Juni 2011 und in Kraft seit 15. Juli 2011 ([AS 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
-[^7-2]: Aufgehoben durch Ziff. I des Beschlusses des Bankrates vom 8. April 2016, vom BR genehmigt am 3. Juni 2016 und mit Wirkung seit 15. Juli 2016 ([AS 2016 2367](https://fedlex.data.admin.ch/eli/oc/2016/383)).
 
 ## 3. Abschnitt: Ablauf der Generalversammlung
 
 #### Art. 8
 
-**Konstituierung**
+**Konstituierung**[^8-1]
 
 <sup>1</sup> Den Vorsitz der Generalversammlung führt die Präsidentin oder der Präsident beziehungsweise im Verhinderungsfall die Vizepräsidentin oder der Vizepräsident des Bankrats.
 
-<sup>2</sup> Die Generalversammlung wählt die Stimmenzählerinnen und Stimmenzähler in offener Abstimmung mit absolutem Mehr der anwesenden Aktionärinnen und Aktionäre. Die Mitglieder des Bankrats sind als Stimmenzählerinnen und Stimmenzähler nicht wählbar.
+<sup>2</sup> Die oder der Vorsitzende der Generalversammlung bezeichnet die Stimmenzählerinnen und Stimmenzähler.
 
-<sup>3</sup> Das Protokoll der Generalversammlung wird von der Generalsekretärin oder dem Generalsekretär beziehungsweise im Verhinderungsfall von einer Stellvertreterin oder einem Stellvertreter geführt.
+<sup>3</sup> Das Protokoll der Generalversammlung wird von der Generalsekretärin oder dem Generalsekretär beziehungsweise im Verhinderungsfall von einer Stellvertreterin oder einem Stellvertreter geführt. Es handelt sich um ein Beschlussprotokoll.
 
 <sup>4</sup> Es wird eine Präsenzliste erstellt. Diese enthält die Zahl der an der Generalversammlung anwesenden und vertretenen Aktionärinnen und Aktionäre und die Zahl der von ihnen vertretenen Aktien.
 
-<sup>5</sup>
+<sup>5</sup> Protokoll und Präsenzliste sind von der Präsidentin oder dem Präsidenten und der Protokollführerin oder dem Protokollführer zu unterzeichnen.
 
-Protokoll und Präsenzliste sind zu unterzeichnen von:
-
-- a. der Präsidentin oder dem Präsidenten;
-- b. der Protokollführerin oder dem Protokollführer;
-- c. den Stimmenzählerinnen und Stimmenzählern.
+[^8-1]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 20. April 2022, vom BR genehmigt am 4. Mai 2022 und in Kraft seit 4. Mai 2022 ([AS 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 9
 
@@ -151,24 +150,25 @@ Er hat folgende Aufgaben und Kompetenzen:
 - b. Er regelt die Ausgestaltung des Rechnungswesens, der Finanzkontrolle und der Finanzplanung, überwacht die Tätigkeit der internen und externen Revision und beurteilt die Wirksamkeit des Internen Kontrollsystems (IKS).
 - c.[^10-3] Er verabschiedet das Jahresbudget und eine Planungsreserve für unvorhergesehene Ausgaben und genehmigt nicht budgetierte Investitionen und Ausgaben, soweit sie die Planungsreserve überschreiten. Neue Vorhaben mit einmaligen Kosten von mehr als 5 Millionen Franken oder wiederkehrenden Kosten von mehr als 1 Million Franken sind in einer separaten Vorlage zu unterbreiten. Er genehmigt die jährliche Budgetabrechnung.
 - d. Er genehmigt die Höhe der Rückstellungen.
-- e. Er beurteilt das Management von Kredit- und Marktrisiken und überwacht dessen Umsetzung. Er beurteilt die Grundsätze des Anlageprozesses und überwacht deren Einhaltung.
+- e.[^10-4] Er überwacht das Risikomanagement im Zusammenhang mit den Anlagen und beurteilt die Governance des Anlageprozesses.
 - f. Er nimmt die Strategien zum Ressourcenmanagement der Nationalbank, insbesondere in den Bereichen Informatik, Personal und Liegenschaften, zur Kenntnis und veranlasst deren regelmässige Überprüfung.
-- g.[^10-4] Er arbeitet zuhanden des Bundesrates Vorschläge für die Wahl der Mitglieder des Direktoriums sowie ihrer Stellvertreterinnen und Stellvertreter aus und entscheidet über Anstellung, Beförderung und Entlassung der Direktorinnen und Direktoren sowie der Leitung der Internen Revision.
+- g.[^10-5] Er arbeitet zuhanden des Bundesrates Vorschläge für die Wahl der Mitglieder des Direktoriums sowie ihrer Stellvertreterinnen und Stellvertreter aus und entscheidet über Anstellung, Beförderung und Entlassung der Direktorinnen und Direktoren sowie der Leiterin oder des Leiters der Internen Revision.
 - h. Er legt in einem Reglement die Entschädigungen für seine Mitglieder sowie die Entlöhnung der Mitglieder des Direktoriums sowie ihrer Stellvertreterinnen und Stellvertreter fest. Er legt die Grundsätze der Entlöhnung des Personals fest.
-- i.[^10-5] Er nimmt die Aufsicht über die Geschäftsführung durch das Erweiterte Direktorium wahr, insbesondere im Hinblick auf die Befolgung der Gesetze, Statuten, Reglemente und Weisungen (*Compliance*).
+- i.[^10-6] Er nimmt die Aufsicht über die Geschäftsführung durch das Erweiterte Direktorium wahr, insbesondere im Hinblick auf die Befolgung der Gesetze, Statuten, Reglemente und Weisungen (*Compliance*).
 - j. Er beurteilt das Management von operationellen Risiken und überwacht dessen Umsetzung.
 - k. Er verabschiedet den Jahresbericht und die Jahresrechnung zuhanden von Bundesrat und Generalversammlung, bereitet die Generalversammlung vor und führt ihre Beschlüsse aus.
 - l. Er genehmigt die Gewinnausschüttungsvereinbarungen mit dem Eidgenössischen Finanzdepartement.
 - m. Er entscheidet über die Gestaltung der Banknoten.
 - n. Er wählt die Mitglieder der regionalen Wirtschaftsbeiräte.
-- o.[^10-6] Er erlässt ein Reglement für die Finanzanlagen und Finanzgeschäfte von Mitgliedern der Bankleitung.
+- o.[^10-7] Er erlässt ein Reglement für die Finanzanlagen und Finanzgeschäfte von Mitgliedern der Bankleitung.
 
 [^10-1]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 24. Okt. 2008, vom BR genehmigt am 19. Dez. 2008 und in Kraft seit 1. Jan. 2009 ([AS 2009 51](https://fedlex.data.admin.ch/eli/oc/2009/5)).
 [^10-2]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 8. April 2016, vom BR genehmigt am 3. Juni 2016 und in Kraft seit 15. Juli 2016 ([AS 2016 2367](https://fedlex.data.admin.ch/eli/oc/2016/383)).
 [^10-3]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 8. April 2011, vom BR genehmigt am 29. Juni 2011 und in Kraft seit 15. Juli 2011 ([AS 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
-[^10-4]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 8. April 2011, vom BR genehmigt am 29. Juni 2011 und in Kraft seit 15. Juli 2011 ([AS 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
-[^10-5]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 8. April 2016, vom BR genehmigt am 3. Juni 2016 und in Kraft seit 15. Juli 2016 ([AS 2016 2367](https://fedlex.data.admin.ch/eli/oc/2016/383)).
-[^10-6]: Eingefügt durch Ziff. I des Beschlusses des Bankrates vom 8. April 2016, vom BR genehmigt am 3. Juni 2016 und in Kraft seit 15. Juli 2016 ([AS 2016 2367](https://fedlex.data.admin.ch/eli/oc/2016/383)).
+[^10-4]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 20. April 2022, vom BR genehmigt am 4. Mai 2022 und in Kraft seit 4. Mai 2022 ([AS 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
+[^10-5]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 20. April 2022, vom BR genehmigt am 4. Mai 2022 und in Kraft seit 4. Mai 2022 ([AS 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
+[^10-6]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 8. April 2016, vom BR genehmigt am 3. Juni 2016 und in Kraft seit 15. Juli 2016 ([AS 2016 2367](https://fedlex.data.admin.ch/eli/oc/2016/383)).
+[^10-7]: Eingefügt durch Ziff. I des Beschlusses des Bankrates vom 8. April 2016, vom BR genehmigt am 3. Juni 2016 und in Kraft seit 15. Juli 2016 ([AS 2016 2367](https://fedlex.data.admin.ch/eli/oc/2016/383)).
 
 #### Art. 11
 
@@ -184,9 +184,9 @@ Er hat folgende Aufgaben und Kompetenzen:
 
 <sup>1</sup> Der Bankrat setzt einen Risikoausschuss ein. Dieser besteht aus mindestens zwei Mitgliedern des Bankrats.
 
-<sup>2</sup> Er unterstützt den Bankrat in der Beurteilung und Überwachung des Risikomanagements und des Anlageprozesses. Die Aufgaben des Risikoausschusses werden in einem besonderen Reglement festgelegt.[^12-1]
+<sup>2</sup> Er unterstützt den Bankrat in der Überwachung des Risikomanagements im Zusammenhang mit den Anlagen und in der Beurteilung der Governance des Anlageprozesses. Die Aufgaben des Risikoausschusses werden in einem besonderen Reglement festgelegt.[^12-1]
 
-[^12-1]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 31. März 2006, vom BR genehmigt am 16. Juni 2006 und in Kraft seit 1. Juli 2006 ([AS 2006 2609](https://fedlex.data.admin.ch/eli/oc/2006/397)).
+[^12-1]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 20. April 2022, vom BR genehmigt am 4. Mai 2022 und in Kraft seit 4. Mai 2022 ([AS 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 13
 
@@ -228,9 +228,9 @@ Er erarbeitet die Wahlvorschläge für:
 
 #### Art. 16
 
-**Sitzungen**
+**Sitzungen**[^16-1]
 
-<sup>1</sup> Der Bankrat tritt in der Regel sechsmal pro Jahr zu einer ordentlichen Sitzung zusammen. Er kann von der Präsidentin oder vom Präsidenten oder auf Verlangen von drei Mitgliedern zu ausserordentlichen Sitzungen einberufen werden.
+<sup>1</sup> Der Bankrat tritt in der Regel sechsmal pro Jahr zu einer ordentlichen Sitzung zusammen. Er kann von der Präsidentin oder vom Präsidenten oder auf Verlangen von drei Mitgliedern zu ausserordentlichen Sitzungen einberufen werden. Auf Anordnung der oder des Vorsitzenden kann die Teilnahme an ordentlichen oder ausserordentlichen Sitzungen auf elektronischem Weg erfolgen.
 
 <sup>2</sup> Der Bankrat ist bei Anwesenheit von mindestens sechs Mitgliedern, die oder der Vorsitzende mitgerechnet, beschlussfähig.
 
@@ -238,7 +238,9 @@ Er erarbeitet die Wahlvorschläge für:
 
 <sup>4</sup> Die Mitglieder des Direktoriums nehmen in der Regel an den Sitzungen des Bankrats mit beratender Stimme teil. Der Bankrat kann Spezialistinnen und Spezialisten zu den Beratungen beiziehen.
 
-<sup>5</sup> In dringenden Fällen können Beschlüsse in Telefonkonferenzen oder auf dem Zirkularweg gefasst werden. Solche Beschlüsse werden mit absoluter Stimmenmehrheit der Mitglieder des Bankrats gefasst. Sie sind in der nächsten Sitzung in das Protokoll aufzunehmen.
+<sup>5</sup> In besonderen Fällen können Beschlüsse auf dem Zirkularweg gefasst werden. Solche Beschlüsse werden mit absoluter Stimmenmehrheit der Mitglieder des Bankrats gefasst. Sie werden in das Protokoll der nächsten Sitzung aufgenommen.
+
+[^16-1]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 20. April 2022, vom BR genehmigt am 4. Mai 2022 und in Kraft seit 4. Mai 2022 ([AS 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 17
 
@@ -272,17 +274,19 @@ Zusätzlich zu den im Artikel 46 Absatz 2 NBG genannten Aufgaben obliegen dem Di
 
 #### Art. 19
 
-**Sitzungen**
+**Sitzungen**[^19-1]
 
-<sup>1</sup> Das Direktorium tritt in der Regel zweimal pro Monat zu einer ordentlichen Sitzung zusammen. Die Präsidentin oder der Präsident oder die Vizepräsidentin oder der Vizepräsident führt den Vorsitz. Jedes Mitglied kann die Einberufung einer ausserordentlichen Sitzung verlangen.
+<sup>1</sup> Das Direktorium tritt in der Regel zweimal pro Monat zu einer ordentlichen Sitzung zusammen. Die Präsidentin oder der Präsident beziehungsweise im Verhinderungsfall die Vizepräsidentin oder der Vizepräsident führt den Vorsitz. Jedes Mitglied kann die Einberufung einer ausserordentlichen Sitzung verlangen. Auf Anordnung der oder des Vorsitzenden kann die Teilnahme an ordentlichen oder ausserordentlichen Sitzungen auf elektronischem Weg erfolgen.
 
 <sup>2</sup> Über Angelegenheiten, in denen Beschlüsse gefasst werden sollen, sind vor der Sitzung schriftliche Anträge durch die Departemente oder das Generalsekretariat einzureichen.
 
 <sup>3</sup> Die Präsidentin oder der Präsident des Bankrats ist berechtigt, an den Sitzungen des Direktoriums mit beratender Stimme teilzunehmen; davon ausgenommen sind die Sitzungen, an denen die geld- und währungspolitischen Entscheide vorbereitet und gefällt werden.
 
-<sup>4</sup> Das Direktorium ist beschlussfähig, wenn mindestens zwei Mitglieder des Direktoriums und die Stellvertreterin oder der Stellvertreter des abwesenden Mitglieds anwesend sind. Alle Beschlüsse werden mit Stimmenmehrheit gefällt.
+<sup>4</sup> Das Direktorium ist beschlussfähig, wenn mindestens zwei Mitglieder des Direktoriums und die designierte Stellvertreterin oder der designierte Stellvertreter des abwesenden Mitglieds anwesend sind. Alle Beschlüsse werden mit Stimmenmehrheit gefällt.
 
-<sup>5</sup> In dringenden Fällen können Beschlüsse in Telefonkonferenzen oder auf dem Zirkularweg gefasst werden. Solche Beschlüsse sind in der nächsten Sitzung in das Protokoll aufzunehmen.
+<sup>5</sup> In besonderen Fällen können Beschlüsse auf dem Zirkularweg gefasst werden. Solche Beschlüsse werden in das Protokoll der nächsten Sitzung aufgenommen.
+
+[^19-1]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 20. April 2022, vom BR genehmigt am 4. Mai 2022 und in Kraft seit 4. Mai 2022 ([AS 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 20
 
@@ -298,9 +302,11 @@ Zusätzlich zu den im Artikel 46 Absatz 2 NBG genannten Aufgaben obliegen dem Di
 
 #### Art. 21
 
-**Zusammensetzung**
+**Zusammensetzung**[^21-1]
 
-Das Erweiterte Direktorium der SNB setzt sich aus den Mitgliedern des Direktoriums und deren Stellvertreterinnen oder Stellvertretern zusammen.
+Das Erweiterte Direktorium der SNB setzt sich aus den Mitgliedern des Direktoriums und deren Stellvertreterinnen und Stellvertretern zusammen.
+
+[^21-1]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 20. April 2022, vom BR genehmigt am 4. Mai 2022 und in Kraft seit 4. Mai 2022 ([AS 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 22
 
@@ -323,17 +329,19 @@ Es hat folgende Aufgaben und Kompetenzen:
 
 #### Art. 23
 
-**Sitzungen**
+**Sitzungen**[^23-1]
 
-<sup>1</sup> Das Erweiterte Direktorium tritt in der Regel vier bis sechs Mal jährlich zusammen. Die Präsidentin oder der Präsident oder die Vizepräsidentin oder der Vizepräsident des Direktoriums führt den Vorsitz.[^23-1]
+<sup>1</sup> Das Erweiterte Direktorium tritt in der Regel vier bis sechs Mal jährlich zusammen. Die Präsidentin oder der Präsident beziehungsweise im Verhinderungsfall die Vizepräsidentin oder der Vizepräsident des Direktoriums führt den Vorsitz. Auf Anordnung der oder des Vorsitzenden kann die Teilnahme an Sitzungen auf elektronischem Weg erfolgen.
 
 <sup>2</sup> Über Angelegenheiten, in denen Beschlüsse gefasst werden sollen, sind vor der Sitzung schriftliche Anträge durch die Departemente oder das Generalsekretariat einzureichen.
 
 <sup>3</sup> Die Präsidentin oder der Präsident des Bankrats ist berechtigt, an den Sitzungen des Erweiterten Direktoriums mit beratender Stimme teilzunehmen.
 
-<sup>4</sup> Das Erweiterte Direktorium ist beschlussfähig, wenn mindestens zwei Mitglieder des Direktoriums, die Stellvertreterin oder der Stellvertreter des abwesenden Mitglieds sowie eine weitere Stellvertreterin oder ein weiterer Stellvertreter anwesend sind. Alle Beschlüsse werden mit Stimmenmehrheit der anwesenden Mitglieder gefasst, bedürfen zu ihrer Gültigkeit aber der Stimmen von mindestens zwei Mitgliedern des Direktoriums. Bei Stimmengleichheit zählen die Stimmen der Mitglieder des Direktoriums und der allfälligen Stellvertreterin oder des allfälligen Stellvertreters eines abwesenden Mitglieds doppelt.
+<sup>4</sup> Das Erweiterte Direktorium ist beschlussfähig, wenn folgende Mitglieder anwesend sind: mindestens zwei Mitglieder des Direktoriums, die designierte Stellvertreterin oder der designierte Stellvertreter des abwesenden Mitglieds des Direktoriums sowie mindestens eine weitere Stellvertreterin oder ein weiterer Stellvertreter. Alle Beschlüsse werden mit Stimmenmehrheit der anwesenden Mitglieder gefasst, wobei die Stimmen der Mitglieder des Direktoriums und die Stimme der designierten Stellvertreterin oder des designierten Stellvertreters des abwesenden Mitglieds des Direktoriums doppelt zählen. Entscheide bedürfen zu ihrer Gültigkeit der Zustimmung von mindestens zwei Mitgliedern des Direktoriums. Bei Stimmengleichheit ist die Stimmabgabe der Mitglieder des Direktoriums sowie der designierten Stellvertreterin oder des designierten Stellvertreters des abwesenden Mitglieds des Direktoriums massgebend.
 
-[^23-1]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 8. April 2011, vom BR genehmigt am 29. Juni 2011 und in Kraft seit 15. Juli 2011 ([AS 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
+<sup>5</sup> In besonderen Fällen können Beschlüsse auf dem Zirkularweg gefasst werden. Solche Beschlüsse werden in das Protokoll der nächsten Sitzung aufgenommen.
+
+[^23-1]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 20. April 2022, vom BR genehmigt am 4. Mai 2022 und in Kraft seit 4. Mai 2022 ([AS 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 24
 
@@ -347,7 +355,7 @@ Es hat folgende Aufgaben und Kompetenzen:
 
 [^24-1]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 8. April 2011, vom BR genehmigt am 29. Juni 2011 und in Kraft seit 15. Juli 2011 ([AS 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
 
-## 6*a*. Abschnitt:**** Kollegium der Stellvertreterinnen und Stellvertreter
+## 6*a*. Abschnitt: Kollegium der Stellvertreterinnen und Stellvertreter
 
 [^sec6a-1]
 
@@ -355,13 +363,13 @@ Es hat folgende Aufgaben und Kompetenzen:
 
 #### Art. 24a
 
-**Zusammensetzung**
+**Zusammensetzung**[^24a-1]
 
-<sup>1</sup> Das Kollegium der Stellvertreterinnen und Stellvertreter (Kollegium) setzt sich aus den Stellvertreterinnen und Stellvertretern der Mitglieder des Direktoriums zusammen.
+<sup>1</sup> Das Kollegium der Stellvertreterinnen und Stellvertreter (Kollegium) setzt sich aus den Stellvertreterinnen und den Stellvertretern der Mitglieder des Direktoriums zusammen.
 
 <sup>2</sup> Der Vorsitz wechselt jährlich. Der Wechsel erfolgt auf Beginn eines Jahres.
 
-<sup>3</sup> Bei Abwesenheit eines Kollegiumsmitglieds kann die Departementsleitung eine andere Person des Departements bezeichnen, die an den Kollegiumssitzungen mit Stimmrecht teilnimmt.
+[^24a-1]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 20. April 2022, vom BR genehmigt am 4. Mai 2022 und in Kraft seit 4. Mai 2022 ([AS 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 #### Art. 24b
 
@@ -386,19 +394,19 @@ Es hat folgende Aufgaben und Kompetenzen:
 
 #### Art. 24c
 
-**Sitzungen und Beschlüsse**
+**Sitzungen und Beschlüsse**[^24c-1]
 
-<sup>1</sup> Das Kollegium fasst seine Beschlüsse einstimmig. Kommt kein Beschluss zustande, so legt es das Geschäft dem Erweiterten Direktorium zur Entscheidung vor.
+<sup>1</sup> Das Kollegium tritt in der Regel zweimal pro Monat zusammen. Die oder der Vorsitzende setzt in Konsultation mit den Mitgliedern des Kollegiums die Tagesordnung fest. Auf Anordnung der oder des Vorsitzenden kann die Teilnahme an Sitzungen auf elektronischem Weg erfolgen.
 
-<sup>2</sup> Das Kollegium tritt in der Regel zweimal pro Monat zusammen. Die oder der Vorsitzende setzt in Konsultation mit den Mitgliedern des Kollegiums die Tagesordnung fest.[^24c-1]
+<sup>2</sup> Das Kollegium ist beschlussfähig, wenn mindestens eine Stellvertreterin oder ein Stellvertreter von jedem Departement anwesend ist. Das Kollegium fasst seine Beschlüsse einstimmig. Kommt kein Beschluss zustande, so legt es das Geschäft dem Erweiterten Direktorium zur Entscheidung vor.
 
-<sup>3</sup> Das Protokoll des Kollegiums wird vom Stellvertretenden Generalsekretär oder von der Stellvertretenden Generalsekretärin geführt. Es soll den Wortlaut der Beschlüsse, bei Beratungen über wesentliche Fragen zudem die Begründung der Beschlüsse enthalten.[^24c-2]
+<sup>3</sup> In besonderen Fällen können Beschlüsse auf dem Zirkularweg gefasst werden. Solche Beschlüsse werden in das Protokoll der nächsten Sitzung aufgenommen.
 
-<sup>4</sup> Die oder der Vorsitzende erstattet dem Erweiterten Direktorium Bericht. Eine Diskussion über Entscheidungen des Kollegiums findet im Erweiterten Direktorium nur statt, sofern ein Departement dies ausdrücklich verlangt.[^24c-3]
+<sup>4</sup> Das Protokoll des Kollegiums wird vom Generalsekretariat geführt. Es soll den Wortlaut der Beschlüsse, bei Beratungen über wesentliche Fragen zudem die Begründung der Beschlüsse enthalten.
 
-[^24c-1]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 8. April 2011, vom BR genehmigt am 29. Juni 2011 und in Kraft seit 15. Juli 2011 ([AS 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
-[^24c-2]: Eingefügt durch Ziff. I des Beschlusses des Bankrates vom 8. April 2011, vom BR genehmigt am 29. Juni 2011 und in Kraft seit 15. Juli 2011 ([AS 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
-[^24c-3]: Eingefügt durch Ziff. I des Beschlusses des Bankrates vom 8. April 2011, vom BR genehmigt am 29. Juni 2011 und in Kraft seit 15. Juli 2011 ([AS 2011 3285](https://fedlex.data.admin.ch/eli/oc/2011/432)).
+<sup>5</sup> Die oder der Vorsitzende informiert die Präsidentin oder den Präsidenten des Direktoriums über die Tätigkeiten und Beschlüsse des Kollegiums. Sie oder er erstattet zudem dem Erweiterten Direktorium darüber Bericht. Eine Diskussion über Entscheidungen des Kollegiums findet im Erweiterten Direktorium nur statt, sofern ein Mitglied des Direktoriums dies ausdrücklich verlangt.
+
+[^24c-1]: Fassung gemäss Ziff. I des Beschlusses des Bankrates vom 20. April 2022, vom BR genehmigt am 4. Mai 2022 und in Kraft seit 4. Mai 2022 ([AS 2022 323](https://fedlex.data.admin.ch/eli/oc/2022/323)).
 
 ## 7. Abschnitt: Weitere Bestimmungen
 
