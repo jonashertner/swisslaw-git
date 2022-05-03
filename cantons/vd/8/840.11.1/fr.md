@@ -4,7 +4,7 @@ number: "840.11.1"
 title: "RÈGLEMENT du 17.01.2007 d'application de la loi sur le logement du 9 septembre 1975 (RLL)"
 short: RLL
 language: fr
-version: 2018-01-01
+version: 2022-05-04
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/840.11.1?id=dd44a717-9a4e-425e-886c-ee3366b7f915"
 ---
 
@@ -238,12 +238,17 @@ arrête
 
 <sup>2</sup> Le revenu locatif initial des immeubles de l'alinéa 1 est fixé par le service et ne peut être supérieur aux éléments ci-après :
 
-- a. l'intérêt des fonds propres est fixé par le service en fonction de son appréciation du marché il ne peut toutefois excéder le taux hypothécaire de référence majoré de 1% ;
-- b. l'intérêt du capital emprunté calculé sur la base du taux hypothécaire de référence ;
+- a. l'intérêt servi aux fonds propres fixé par le service en fonction de son appréciation du marché ; il ne peut toutefois pas excéder le taux hypothécaire de référence, en vigueur au moment de la décision, majoré de 2 % lorsque ledit taux est égal ou inférieur à 2 % et de 1% lorsque ce taux est supérieur à 2 % ;
+- b. l'intérêt du capital emprunté calculé sur la base du taux hypothécaire de référence en vigueur au moment de la décision ;
 - c. un amortissement d'au moins 1% sur le capital emprunté, sauf décision contraire de l'autorité compétente lorsque le créancier hypothécaire suspend son exigence d'amortissement ;
-- d. 1,7% du décompte final au sens de l'article 18 du règlement, représentant notamment les frais d'entretien et d'administration.
+- d. un forfait de 1,7 % du coût déterminant fixé par le service au moment de la décision d'octroi des aides représentant les charges courantes et d'entretien ;
+- e. le montant initial de la rente du droit de superficie, fixé selon les termes de l'acte constitutif.
 
-[^sectionSectionI-1]: Modif. 1 du 28.01.2009: Modification Al. 2 a-b; entrée en vigueur au 01.01.2009 · Modif. 2 du 29.04.2015: Modification Al. 1,2 c; entrée en vigueur au 01.07.2015 · Modif. 6 du 04.05.2022: Modification Al. 2; entrée en vigueur au 04.05.2022; Modification Al. 2, a,b,d; entrée en vigueur au 04.05.2022; Introduction Al. 2, e; entrée en vigueur au 04.05.2022; Introduction Al. 3-4; entrée en vigueur au 04.05.2022; Introduction Art. 20, Al. 1, d; entrée en vigueur au 04.05.2022; Introduction Art. 21, Al. 2, e; entrée en vigueur au 04.05.2022; Introduction Art. 21, Al. 3-4; entrée en vigueur au 04.05.2022; Introduction Art. 23, Al. 1, a-d; entrée en vigueur au 04.05.2022 · Modif. 7 du 19.03.2025: Modification Al. 2, b; entrée en vigueur au 19.03.2025; Introduction Art. 20, Al. 1, e; entrée en vigueur au 19.03.2025; Introduction Art. 23, Al. 1, e; entrée en vigueur au 19.03.2025
+<sup>3</sup> Le revenu locatif annuel calculé selon l'alinéa 2 reste valable pendant 12 mois sans égard à l'éventuelle variation des taux, frais et rentes de droit de superficie pendant cette période.
+
+<sup>4</sup> Le revenu locatif calculé selon l'alinéa 2 ne comprend pas les frais de chauffage et d'eau chaude, ainsi que les taxes d'épuration et d'évacuation des déchets qui peuvent être facturés séparément par le bailleur.
+
+[^sectionSectionI-1]: Modif. 1 du 28.01.2009: Modification Al. 2 a-b; entrée en vigueur au 01.01.2009 · Modif. 2 du 29.04.2015: Modification Al. 1,2 c; entrée en vigueur au 01.07.2015 · Modif. 6 du 04.05.2022: Modification Al. 2; entrée en vigueur au 04.05.2022; Modification Al. 2, a,b,d; entrée en vigueur au 04.05.2022; Introduction Al. 2, e; entrée en vigueur au 04.05.2022; Introduction Al. 3-4; entrée en vigueur au 04.05.2022 · Modif. 7 du 19.03.2025: Modification Al. 2, b; entrée en vigueur au 19.03.2025; Introduction Art. 20, Al. 1, e; entrée en vigueur au 19.03.2025; Introduction Art. 23, Al. 1, e; entrée en vigueur au 19.03.2025
 
 #### Art. 20
 
@@ -251,13 +256,14 @@ arrête
 
 <sup>1</sup> Le revenu locatif est calculé en principe annuellement par le service en application de l'article 19 du règlement. Il peut varier en fonction des critères suivants :
 
-- a. indexation du 1,7% du décompte prévu à l'article 19, lettre d) lorsque l'indice suisse des prix à la consommation varie de 2 points ;
+- a. indexation du coût déterminant de l'article 19, alinéa 2, lettre d à la variation de l'indice des prix à la consommation auquel est appliqué le taux de 1.7 % ;
 - b. la variation du taux hypothécaire de référence ;
 - c. l'exécution de travaux à plus-value autorisés par l'autorité compétente.
+- d. variation du montant de la rente du droit de superficie, que le propriétaire doit transmettre au service à la date requise.
 
 <sup>2</sup> Les communes peuvent prévoir des mesures d'accompagnement consécutives à la fin des aides des pouvoirs publics pour les immeubles qui bénéficient d'une aide à la pierre linéaire. Ces mesures doivent être approuvées par le chef du département en charge du logement (ci-après : le département).
 
-[^19-1]: Modif. 1 du 28.01.2009: Modification Al. 1 b; entrée en vigueur au 01.01.2009 · Modif. 2 du 29.04.2015: Introduction Al. 1 c; entrée en vigueur au 01.07.2015 · Modif. 6 du 04.05.2022: Introduction Art. 19, Al. 2, e; entrée en vigueur au 04.05.2022; Introduction Art. 19, Al. 3-4; entrée en vigueur au 04.05.2022; Modification Al. 1; entrée en vigueur au 04.05.2022; Modification Al. 1, a; entrée en vigueur au 04.05.2022; Introduction Al. 1, d; entrée en vigueur au 04.05.2022; Introduction Art. 21, Al. 2, e; entrée en vigueur au 04.05.2022; Introduction Art. 21, Al. 3-4; entrée en vigueur au 04.05.2022; Introduction Art. 23, Al. 1, a-d; entrée en vigueur au 04.05.2022 · Modif. 7 du 19.03.2025: Modification Al. 1, b; entrée en vigueur au 19.03.2025; Introduction Al. 1, e; entrée en vigueur au 19.03.2025; Introduction Art. 23, Al. 1, e; entrée en vigueur au 19.03.2025
+[^19-1]: Modif. 1 du 28.01.2009: Modification Al. 1 b; entrée en vigueur au 01.01.2009 · Modif. 2 du 29.04.2015: Introduction Al. 1 c; entrée en vigueur au 01.07.2015 · Modif. 6 du 04.05.2022: Modification Al. 1; entrée en vigueur au 04.05.2022; Modification Al. 1, a; entrée en vigueur au 04.05.2022; Introduction Al. 1, d; entrée en vigueur au 04.05.2022 · Modif. 7 du 19.03.2025: Modification Al. 1, b; entrée en vigueur au 19.03.2025; Introduction Al. 1, e; entrée en vigueur au 19.03.2025; Introduction Art. 23, Al. 1, e; entrée en vigueur au 19.03.2025
 
 #### Art. 20a
 
@@ -285,14 +291,19 @@ arrête
 
 <sup>1</sup> L'aide à la pierre est dégressive pour les immeubles qui bénéficient de l'aide financière des pouvoirs publics en vertu d'une décision du Conseil d'Etat jusqu'au 31 décembre 2007.
 
-<sup>2</sup> Le revenu locatif des immeubles de l'alinéa 1 est fixé par le service et ne peut être supérieur au total des éléments ci-après :
+<sup>2</sup> Le revenu locatif initial des immeubles de l'alinéa 1 est fixé par le service et ne peut être supérieur aux éléments ci-après :
 
-- a. l'intérêt servi aux fonds propres est fixé par le service en fonction de son appréciation du marché ; il ne peut toutefois excéder le taux hypothécaire de référence majoré de 1% ;
-- b. l'intérêt du capital emprunté applicable à l'immeuble ;
+- a. l'intérêt servi aux fonds propres fixé par le service en fonction de son appréciation du marché ; il ne peut toutefois pas excéder le taux hypothécaire de référence en vigueur au moment de la décision, majoré de 2 % lorsque ledit taux est égal ou inférieur à 2 % et de 1 % lorsque ce taux est supérieur à 2 % ;
+- b. le taux d'intérêt applicable aux emprunts en vigueur au moment de la décision ;
 - c. un amortissement de ½% du décompte prévu à l'article 18 du règlement ;
-- d. un quota de 1,7% du décompte final au sens de l'article 18 du règlement, représentant les frais d'entretien et d'administration, les impôts, les assurances, l'eau, l'électricité, etc. Le coût de l'immeuble sur lequel est calculé le quota peut être indexé en fonction de l'indice suisse des prix à la consommation.
+- d. un forfait de 1,7 % du coût déterminant fixé par le service au moment de la décision d'octroi des aides représentant les charges courantes et d'entretien ;
+- e. le montant initial de la rente du droit de superficie, fixé selon les termes de l'acte constitutif.
 
-[^sectionSectionII-1]: Modif. 1 du 28.01.2009: Modification Al. 2 a-b; entrée en vigueur au 01.01.2009 · Modif. 2 du 29.04.2015: Modification Al. 2 a; entrée en vigueur au 01.07.2015 · Modif. 6 du 04.05.2022: Introduction Art. 19, Al. 2, e; entrée en vigueur au 04.05.2022; Introduction Art. 19, Al. 3-4; entrée en vigueur au 04.05.2022; Introduction Art. 20, Al. 1, d; entrée en vigueur au 04.05.2022; Modification Al. 2; entrée en vigueur au 04.05.2022; Modification Al. 2, a,b,d; entrée en vigueur au 04.05.2022; Introduction Al. 2, e; entrée en vigueur au 04.05.2022; Introduction Al. 3-4; entrée en vigueur au 04.05.2022; Introduction Art. 23, Al. 1, a-d; entrée en vigueur au 04.05.2022
+<sup>3</sup> Le revenu locatif annuel calculé selon l'alinéa 2 reste valable pendant 12 mois sans égard à l'éventuelle variation des taux, frais et rentes de droit de superficie pendant cette période.
+
+<sup>4</sup> Le revenu locatif calculé selon l'alinéa 2 ne comprend pas les frais de chauffage et d'eau chaude, ainsi que les taxes d'épuration et d'évacuation des déchets qui peuvent être facturés séparément par le bailleur.
+
+[^sectionSectionII-1]: Modif. 1 du 28.01.2009: Modification Al. 2 a-b; entrée en vigueur au 01.01.2009 · Modif. 2 du 29.04.2015: Modification Al. 2 a; entrée en vigueur au 01.07.2015 · Modif. 6 du 04.05.2022: Modification Al. 2; entrée en vigueur au 04.05.2022; Modification Al. 2, a,b,d; entrée en vigueur au 04.05.2022; Introduction Al. 2, e; entrée en vigueur au 04.05.2022; Introduction Al. 3-4; entrée en vigueur au 04.05.2022
 
 #### Art. 22
 
@@ -316,11 +327,16 @@ arrête
 
 **Variation du revenu locatif [^22-1]**
 
-<sup>1</sup> Le revenu locatif est calculé en principe annuellement par le service en application des articles 21 et 22 du règlement. Il ne peut être modifié qu'en cas de variation des éléments composant le revenu locatif ou de réalisation de travaux à plus-value autorisés par l'autorité compétente.
+<sup>1</sup> Le revenu locatif est calculé en principe annuellement par le service en application de l'article 21 du règlement. Il peut varier en fonction des critères suivants :
+
+- a. l'indexation du coût déterminant de l'article 19, alinéa 2, lettre d à la variation de l'indice des prix à la consommation auquel est appliqué le taux de 1.7 % ;
+- b. la variation du taux hypothécaire de référence ;
+- c. l'exécution de travaux à plus-value autorisés par l'autorité compétente ;
+- d. la variation du montant de la rente du droit de superficie que le propriétaire doit transmettre au service à la date requise.
 
 <sup>2</sup> La décision du service en matière d'application de la dégressivité des aides financières des pouvoirs publics est réservée.
 
-[^22-1]: Modif. 1 du 28.01.2009: Modification Al. 1; entrée en vigueur au 01.01.2009 · Modif. 2 du 29.04.2015: Modification Al. 1; entrée en vigueur au 01.07.2015 · Modif. 6 du 04.05.2022: Introduction Art. 19, Al. 2, e; entrée en vigueur au 04.05.2022; Introduction Art. 19, Al. 3-4; entrée en vigueur au 04.05.2022; Introduction Art. 20, Al. 1, d; entrée en vigueur au 04.05.2022; Introduction Art. 21, Al. 2, e; entrée en vigueur au 04.05.2022; Introduction Art. 21, Al. 3-4; entrée en vigueur au 04.05.2022; Modification Al. 1; entrée en vigueur au 04.05.2022; Introduction Al. 1, a-d; entrée en vigueur au 04.05.2022 · Modif. 7 du 19.03.2025: Introduction Art. 20, Al. 1, e; entrée en vigueur au 19.03.2025; Modification Al. 1, b; entrée en vigueur au 19.03.2025; Introduction Al. 1, e; entrée en vigueur au 19.03.2025
+[^22-1]: Modif. 1 du 28.01.2009: Modification Al. 1; entrée en vigueur au 01.01.2009 · Modif. 2 du 29.04.2015: Modification Al. 1; entrée en vigueur au 01.07.2015 · Modif. 6 du 04.05.2022: Modification Al. 1; entrée en vigueur au 04.05.2022; Introduction Al. 1, a-d; entrée en vigueur au 04.05.2022 · Modif. 7 du 19.03.2025: Introduction Art. 20, Al. 1, e; entrée en vigueur au 19.03.2025; Modification Al. 1, b; entrée en vigueur au 19.03.2025; Introduction Al. 1, e; entrée en vigueur au 19.03.2025
 
 ### Section III Variation des loyers
 
