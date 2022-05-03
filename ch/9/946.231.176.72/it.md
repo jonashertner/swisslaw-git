@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2022-04-27
+version: 2022-05-04
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220427/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220427-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220427/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220504/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220504-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220504/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 27 aprile 2022)
+del 4 marzo 2022 (Stato 4 maggio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -1299,7 +1299,7 @@ Allegato 8*[^t-5]*
 
 [^annex8-lvlu1-1]
 
-[^t-5]: Aggiornato dai n. I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)) e del 13 apr. 2022, in vigore dal 13 apr. 2022 alle ore 18.00 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)).
+[^t-5]: Aggiornato dai n. I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)) e del 3 mag. 2022, in vigore dal 4 mag. 2022 alle ore 18.00 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)).
 [^annex8-lvlu1-1]: L’all. non è pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
 
 Allegato 9

@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2022-04-27
+version: 2022-05-04
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220427/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220427-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220427/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220504/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220504-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220504/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (Etat le 27 avril 2022)
+du 4 mars 2022 (Etat le 4 mai 2022)
 
 Le Conseil fédéral suisse,
 
@@ -1300,7 +1300,7 @@ Annexe 8*[^t-5]*
 
 [^annex8-lvlu1-1]
 
-[^t-5]: Mise à jour par le ch. I des O du DEFR du 15 mars 2022 ([RO 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)) et du 13 avr. 2022, en vigueur depuis le 13 avr. 2022 à 18 heures ([RO 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)).
+[^t-5]: Mise à jour par le ch. I des O du DEFR du 15 mars 2022 ([RO 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), du 13 avr. 2022 ([RO 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)) et du 3 mai 2022, en vigueur depuis le 4 mai 2022 à 18 heures ([RO 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)).
 [^annex8-lvlu1-1]: L’annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
 
 Annexe 9
