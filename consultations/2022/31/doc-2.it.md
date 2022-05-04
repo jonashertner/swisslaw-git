@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale concernente un piano di salvataggio per il settore dell’energia elettrica
 document: Progetto posto in consultazione
 language: it

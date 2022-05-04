@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über einen Rettungsschirm für die Elektrizitätswirtschaft
 document: Vernehmlassungsvorlage-2
 language: de

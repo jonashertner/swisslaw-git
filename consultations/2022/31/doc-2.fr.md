@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur un mécanisme de sauvetage destiné au secteur de l’électricité
 document: Projet mis en consultation
 language: fr
