@@ -4,13 +4,12 @@ number: "910.114"
 title: Ausführungsbestimmungen zur Finanzierung von Covid-19-Härtefallmassnahmen für Unternehmen
 short: AB Covid-19-Härtefallmassnahmen
 language: de
-version: 2021-01-28
-valid_until: 2022-05-04
-version_adopted: 2021-01-19
+version: 2022-05-05
+version_adopted: 2022-05-03
 adopted: 2021-01-19
 in_force: 2021-01-28
 url: "http://gdb.ow.ch/app/de/texts_of_law/910.114"
-pdf: "http://gdb.ow.ch/api/de/versions/1563/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1581/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1563/pdf_file"
 
 (AB Covid-19-Härtefallmassnahmen)
 
-vom 19.01.2021 (Stand 28.01.2021)
+vom 19.01.2021 (Stand 05.05.2022)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -48,6 +47,14 @@ beschliesst:
 <sup>3</sup> Die Anforderungen an Unternehmen mit einem Jahresumsatz über fünf Millionen Franken richten sich ausschliesslich nach Bundesrecht.
 
 [^1-1]: SR [818.102](https://db.clex.ch/link/Bund/818.102/de)
+
+#### Art. 1a
+
+**Geltungsbereich**
+
+<sup>1</sup> Die Unterstützung der Unternehmen erfolgt für den Zeitraum bis 30. Juni 2021 nach den Bestimmungen dieser Ausführungsbestimmungen. Für die Unterstützungsmassnahmen ab 1. Juli 2021 bis 31. März 2022 gelten die Ausführungsbestimmungen 2 zur Finanzierung von Covid-19-Härtefallmassnahmen für Unternehmen [^1a-1].
+
+[^1a-1]: GDB [910.115](http://gdb.ow.ch/data/910.115/de)
 
 #### Art. 2
 
@@ -412,7 +419,7 @@ beschliesst:
 
 **Inkrafttreten und Befristung**
 
-<sup>1</sup> Diese Ausführungsbestimmungen treten am 28. Januar 2021 in Kraft und gelten bis zum 31. Dezember 2022.
+<sup>1</sup> Diese Ausführungsbestimmungen treten am 28. Januar 2021 in Kraft.
 
 **Informationen zum Erlass**
 
@@ -430,7 +437,9 @@ geändert durch:
 
 \- Nachtrag vom 30. August 2021, in Kraft seit 19. Juni 2021 (OGS 2021, 29),
 
-\- Nachtrag vom 14. Dezember 2021, rückwirkend in Kraft seit 28. Januar 2021 (OGS 2021, 54)
+\- Nachtrag vom 14. Dezember 2021, rückwirkend in Kraft seit 28. Januar 2021 (OGS 2021, 54),
+
+\- Ausführungsbestimmungen 2 zur Finanzierung von Covid-19-Härtefallmassnahmen für Unternehmen vom 3. Mai 2022, in Kraft seit 5. Mai 2022 (OGS 2022,10)
 
 Aus technischen Gründen können die einzelnen Fassungen und die Änderungsinformationen nicht angezeigt werden. Die einzelnen Änderungen sind im Anhang in synoptischer Form zusammengestellt.
 
