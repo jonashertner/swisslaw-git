@@ -4,11 +4,11 @@ title: "Ordonnance du 5 juin 2015 sur la protection contre les substances et les
 short: OChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/366"
 language: fr
-version: 2022-05-01
+version: 2022-05-05
 adopted: 2015-06-05
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-2015-366-20220501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20220501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/fr/xml/fedlex-data-admin-ch-eli-cc-2015-366-20220505-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20220505/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20220501/fr"
 
 (Ordonnance sur les produits chimiques, OChim)
 
-du 5 juin 2015 (Etat le 1<sup>er</sup> mai 2022)
+du 5 juin 2015 (Etat le 5 mai 2022)
 
 Le Conseil fédéral suisse,
 
@@ -138,7 +138,7 @@ En outre, on entend par:
 
   *substance existante*: toute substance enregistrée conformément à l’art. 5 du règlement (CE) n<sup>o</sup> 1907/2006 (règlement UE-REACH)[^2-4], à l’exception des substances qui:
 
-  - 1\. sont commercialisées en quantités plus importantes que celles enregistrées dans l’Espace économique européen (EEE), ou
+  - 1\.[^2-5] sont mises sur le marché en quantités plus importantes que celles enregistrées dans l’Espace économique européen (EEE), ou
   - 2\. sont exclusivement enregistrées en tant que produits intermédiaires, pour autant qu’il ne s’agisse pas de monomères;
 
 - g.
@@ -158,28 +158,29 @@ En outre, on entend par:
 - o. *scénario d’exposition:* l’ensemble des conditions, y compris les conditions de fonctionnement et les mesures de gestion des risques, décrivant la manière dont la substance est fabriquée ou utilisée pendant son cycle de vie et la manière dont le fabricant contrôle ou recommande aux utilisateurs professionnels de contrôler l’exposition de l’être humain et de l’environnement; un scénario d’exposition peut aussi couvrir un processus spécifique ou, le cas échéant, plusieurs processus ou utilisations;
 - p. *classe de danger:* la nature du danger physique, du danger pour la santé humaine ou du danger pour l’environnement;
 - q. *nanomatériau:* matériau contenant des particules libres, sous forme d’agrégat ou d’agglomérat, dont une ou plusieurs dimensions externes se situent entre 1 et 100 nanomètres ou un matériau présentant une surface spécifique en volume supérieure à 60 m<sup>2</sup>/cm<sup>3</sup>. Un matériau est considéré comme nanomatériau lorsqu’il est produit intentionnellement afin d’exploiter les propriétés découlant des dimensions externes de ses particules ou de la surface spécifique en volume mentionnées ci-dessus. Les fullerènes, les flocons de graphène et les nanotubes de carbone à paroi simple présentant une ou plusieurs dimensions externes inférieures à 1 nanomètre sont considérés comme des nanomatériaux;
-- r.[^2-5] *colorant*: substances et préparations contenant principalement des teintures, des pigments de couleur et des pigments à effets ajoutés uniquement à des fins de coloration ou d’effet.
+- r.[^2-6] *colorant*: substances et préparations contenant principalement des teintures, des pigments de couleur et des pigments à effets ajoutés uniquement à des fins de coloration ou d’effet.
 
 <sup>3</sup> Au surplus, les termes définis de manière différente dans les lois sur lesquelles la présente ordonnance se fonde sont compris ici au sens de la LChim.
 
-<sup>4</sup> Les équivalences entre les expressions utilisées dans le règlement UE-REACH, le règlement (CE) n<sup>o</sup> 1272/2008 (règlement UE-CLP)[^2-6] et la directive 75/324/CEE[^2-7] et celles utilisées dans la présente ordonnance figurent dans l’annexe 1, ch. 1.[^2-8]
+<sup>4</sup> Les équivalences entre les expressions utilisées dans le règlement UE-REACH, le règlement (CE) n<sup>o</sup> 1272/2008 (règlement UE-CLP)[^2-7] et la directive 75/324/CEE[^2-8] et celles utilisées dans la présente ordonnance figurent dans l’annexe 1, ch. 1.[^2-9]
 
 <sup>5</sup> Lorsque la présente ordonnance fait référence à des dispositions du règlement UE-REACH, du règlement UE-CLP ou de la directive 75/324/CEE, qui, elles-mêmes, renvoient à d’autres dispositions de ces actes juridiques, ces autres dispositions s’appliquent également. Dans ce cas, la version mentionnée dans la note de bas de page de l’al. 4 s’applique, ou, en cas de renvoi aux annexes du règlement UE-CLP ou du règlement UE-REACH, la version définie à l’annexe 2, ch. 1, respectivement à l’annexe 4, ch. 3, s’applique. Font exception les renvois successifs aux dispositions du règlement UE-REACH et du règlement UE-CLP mentionnées à l’annexe 1, ch. 2; dans ce cas, les dispositions suisses mentionnées à l’annexe 1, ch. 2, s’appliquent.
 
 <sup>6</sup> Lorsque la présente ordonnance fait référence à des dispositions du règlement UE-REACH ou du règlement UE-CLP qui, elles-mêmes, renvoient à d’autres dispositions du droit de l’UE, le droit suisse mentionné à l’annexe 1, ch. 3, s’applique en lieu et place de ces dispositions de l’UE.
 
-<sup>7</sup> Pour la mise sur le marché de substances et de préparations dont le développement repose sur l’utilisation de ressources génétiques ou de connaissances traditionnelles associées à celles-ci, les dispositions de l’ordonnance de Nagoya du 11 décembre 2015[^2-9] sont réservées.[^2-10]
+<sup>7</sup> Pour la mise sur le marché de substances et de préparations dont le développement repose sur l’utilisation de ressources génétiques ou de connaissances traditionnelles associées à celles-ci, les dispositions de l’ordonnance de Nagoya du 11 décembre 2015[^2-10] sont réservées.[^2-11]
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 [^2-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 [^2-3]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 [^2-4]: Règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n<sup>o</sup> 793/93 du Conseil et le règlement (CE) n<sup>o</sup> 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JO L 396 du 30.12.2006, p. 1; modifié en dernier lieu par le règlement (UE) 2021/2204, JO L 446 du 14.12.2021, p. 34.
-[^2-5]: Introduite par le ch. I de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
-[^2-6]: Règlement (CE) n<sup>o</sup> 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n<sup>o</sup> 1907/2006, JO L 353 du 31.12.2008, p. 1; modifié en dernier lieu par le règlement (UE) 2021/1962, JO L 400 du 12.11.2021, p. 16.
-[^2-7]: Directive 75/324/CEE du Conseil du 20 mai 1975, concernant le rapprochement des législations des États membres relatives aux générateurs aérosols, JO L 147 du 9.6.1975, p. 40; modifiée en dernier lieu par la directive (UE) 2016/2037, JO L 314 du 22.11.2016, p. 11.
-[^2-8]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
-[^2-9]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
-[^2-10]: Introduit par l’annexe ch. 2 de l’O de Nagoya du 11 déc. 2015, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
+[^2-5]: Erratum du 5 mai 2022 ([RO 2022 273](https://fedlex.data.admin.ch/eli/oc/2022/273)).
+[^2-6]: Introduite par le ch. I de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^2-7]: Règlement (CE) n<sup>o</sup> 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n<sup>o</sup> 1907/2006, JO L 353 du 31.12.2008, p. 1; modifié en dernier lieu par le règlement (UE) 2021/1962, JO L 400 du 12.11.2021, p. 16.
+[^2-8]: Directive 75/324/CEE du Conseil du 20 mai 1975, concernant le rapprochement des législations des États membres relatives aux générateurs aérosols, JO L 147 du 9.6.1975, p. 40; modifiée en dernier lieu par la directive (UE) 2016/2037, JO L 314 du 22.11.2016, p. 11.
+[^2-9]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^2-10]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^2-11]: Introduit par l’annexe ch. 2 de l’O de Nagoya du 11 déc. 2015, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
 
 #### Art. 3
 
@@ -567,10 +568,11 @@ Le fabricant d’une nouvelle substance ou son représentant exclusif doit notif
 
 **Substances qui ne sont plus enregistrées**[^25-1]
 
-Lorsqu’une substance entre dans la catégorie des substances à notifier parce qu’elle n’est plus enregistrée en vertu de l’art. 5 du règlement UE-REACH[^25-2], le fabricant peut continuer à la commercialiser sans notification jusqu’à la fin de l’année civile suivant le changement de statut. L’organe de réception des notifications peut accorder un délai de deux ans au plus sur demande dûment motivée.
+Lorsqu’une substance entre dans la catégorie des substances à notifier parce qu’elle n’est plus enregistrée en vertu de l’art. 5 du règlement UE-REACH[^25-2], le fabricant peut continuer à la mettre sur le marché sans notification jusqu’à la fin de l’année civile suivant le changement de statut.[^25-3] L’organe de réception des notifications peut accorder un délai de deux ans au plus sur demande dûment motivée.
 
 [^25-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 [^25-2]: Voir note relative à l’art. 2, al. 2, let. f.
+[^25-3]: Erratum du 5 mai 2022 ([RO 2022 273](https://fedlex.data.admin.ch/eli/oc/2022/273)).
 
 #### Art. 26
 
@@ -1085,13 +1087,17 @@ La communication et la communication élargie doivent être transmises:
 
 <sup>1</sup> Les modifications touchant les données visées aux art. 49 et 50 doivent être communiquées dans les trois mois.
 
-<sup>2</sup> Si, dans le cas des substances et des préparations dangereuses pour l’environnement, la quantité annuelle effectivement remise ne correspond pas à la catégorie quantitative préalablement annoncée, il y a lieu de communiquer, jusqu’au 31 mars de l’année suivante, la quantité effectivement remise durant l’année précédente ventilée selon les catégories précisées à l’art. 49, let. c, ch. 6, et d, ch. 6.
+<sup>2</sup> Si, dans le cas des substances et des préparations dangereuses pour l’environnement, la quantité annuelle effectivement remise ne correspond pas à la catégorie quantitative préalablement annoncée, il y a lieu de communiquer, jusqu’au 31 mars de l’année suivante, la quantité effectivement remise durant l’année précédente ventilée selon les catégories précisées à l’art. 49, al. 1[^52-1], let. c, ch. 6, et d, ch. 6.
+
+[^52-1]: Le renvoi a été adapté au 1<sup>er</sup> mai 2022 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 #### Art. 53
 
 **Formes substitutives de l’obligation de communiquer**
 
-L’obligation de communiquer les préparations conformément à l’art. 48 est réputée remplie lorsqu’une demande d’utilisation d’un nom chimique de remplacement a été déposée (art. 15) et que l’organe de réception des notifications dispose des informations requises à l’art. 49, let. a, b et d, et, le cas échéant, à l’art. 50.
+L’obligation de communiquer les préparations conformément à l’art. 48 est réputée remplie lorsqu’une demande d’utilisation d’un nom chimique de remplacement a été déposée (art. 15) et que l’organe de réception des notifications dispose des informations requises à l’art. 49, al. 1[^53-1], let. a, b et d, et, le cas échéant, à l’art. 50.
+
+[^53-1]: Le renvoi a été adapté au 1<sup>er</sup> mai 2022 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 #### Art. 54
 
@@ -1431,7 +1437,7 @@ Est réputé digne de protection en particulier l’intérêt à la garantie du 
 - a. les indications sur l’identité des produits intermédiaires;
 - b. la composition complète d’une préparation;
 - c. les quantités de substance ou de préparation mises sur le marché;
-- d. les informations concernant des nanomatériaux selon l’art. 49, let. c, ch. 7, et let. d, ch. 7.[^73-1]
+- d. les informations concernant des nanomatériaux selon l’art. 49, al. 1[^73-1], let. c, ch. 7, et let. d, ch. 7.[^73-2]
 
 <sup>4</sup> Si l’organe de réception des notifications apprend que des données réputées confidentielles ont été par ailleurs divulguées en toute légalité, celles-ci perdent leur caractère confidentiel.
 
@@ -1446,13 +1452,14 @@ Ne sont en aucun cas réputés confidentiels:
 - e. la récapitulation des résultats des essais toxicologiques et écotoxicologiques;
 - f. le degré de pureté de la substance considérée et l’identité des impuretés et des additifs déterminants pour la classification;
 - g. les recommandations portant sur les précautions d’usage et sur les mesures d’urgence en cas d’accident;
-- h.[^73-2] les informations figurant sur la fiche de données de sécurité, excepté l’identité des produits intermédiaires;
+- h.[^73-3] les informations figurant sur la fiche de données de sécurité, excepté l’identité des produits intermédiaires;
 - i. les méthodes d’analyse permettant de déterminer le risque d’exposition pour l’être humain et le risque de dispersion dans l’environnement.
 
 <sup>6</sup> L’organe de réception des notifications et les organes d’évaluation peuvent publier les données qui figurent dans le registre des produits et qui ne sont en aucun cas réputées confidentielles.
 
-[^73-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+[^73-1]: Le renvoi a été adapté au 1<sup>er</sup> mai 2022 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 [^73-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+[^73-3]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 
 #### Art. 74
 
@@ -2232,10 +2239,10 @@ Annexe 5*[^t-5]*
 ### 1.1 Groupe 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/fr/xml/image/image1.png) en relation avec</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Mortel en cas d’ingestion, ou H310: Mortel par contact cutané, ou H330: Mortel par inhalation, ou combinaison des mentions de dangers ci-dessus.</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/fr/xml/image/image2.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/fr/xml/image/image1.png) en relation avec</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Mortel en cas d’ingestion, ou H310: Mortel par contact cutané, ou H330: Mortel par inhalation, ou combinaison des mentions de dangers ci-dessus.</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/fr/xml/image/image2.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Substances et préparations selon l’annexe 1.10 ORRChim[^annex5-lvlu1-lvl1-lvl11-2] étiquetées avec:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/fr/xml/image/image3.png) en relation avec</td><td>H340: Peut induire des anomalies génétiques, ou H350: Peut provoquer le cancer (*par inhalation*), ou H360: Peut nuire à la fertilité ou au fœtus</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/fr/xml/image/image3.png) en relation avec</td><td>H340: Peut induire des anomalies génétiques, ou H350: Peut provoquer le cancer (*par inhalation*), ou H360: Peut nuire à la fertilité ou au fœtus</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl1-lvl11-1]: Le numéro de la phrase H n’a pas besoin de figurer sur l’étiquette.
@@ -2244,12 +2251,12 @@ Annexe 5*[^t-5]*
 ### 1.2 Groupe 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/fr/xml/image/image1.png) en relation avec</td><td>H301: Toxique en cas d’ingestion, ou H311: Toxique par contact cutané, ou H331: Toxique par inhalation, ou combinaison des mentions de dangers ci-dessus.</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/fr/xml/image/image3.png) en relation avec</td><td>H370: Risque avéré d’effets graves pour les organes, ou H372: Risque avéré d’effets graves pour les organes à la suite d’expositions répétées ou d’une exposition prolongée.</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/fr/xml/image/image4.png) en relation avec</td><td>H314: Provoque de graves brûlures de la peau et de graves lésions des yeux. (Les préparations classées comme «Skin Corr. 1C» et étiquetées avec la mention H314 exclusivement en raison de leur teneur en acide lactique [n<sup>o</sup> CAS 79-33-4] ne font pas partie du groupe 2.)</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/fr/xml/image/image1.png) en relation avec</td><td>H301: Toxique en cas d’ingestion, ou H311: Toxique par contact cutané, ou H331: Toxique par inhalation, ou combinaison des mentions de dangers ci-dessus.</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/fr/xml/image/image3.png) en relation avec</td><td>H370: Risque avéré d’effets graves pour les organes, ou H372: Risque avéré d’effets graves pour les organes à la suite d’expositions répétées ou d’une exposition prolongée.</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/fr/xml/image/image4.png) en relation avec</td><td>H314: Provoque de graves brûlures de la peau et de graves lésions des yeux. (Les préparations classées comme «Skin Corr. 1C» et étiquetées avec la mention H314 exclusivement en raison de leur teneur en acide lactique [n<sup>o</sup> CAS 79-33-4] ne font pas partie du groupe 2.)</td></tr>
 <tr><td>d.</td><td colspan="2">Récipient de plus d’un kilo étiqueté avec:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/fr/xml/image/image5.png) en relation avec</td><td>H410: Très toxique pour les organismes aquatiques, entraîne des effets néfastes à long terme (n’appartiennent au groupe 2 que les substances et préparations qui, en conséquence de leur classification «Aquatic Chronic 1», doivent être étiquetées avec H410.)</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/fr/xml/image/image6.png) en relation avec</td><td>H250: S’enflamme spontanément au contact de l’air, ou H260: Dégage au contact de l’eau des gaz inflammables qui peuvent s’enflammer spontanément, ou H261: Dégage au contact de l’eau des gaz inflammables.</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/fr/xml/image/image5.png) en relation avec</td><td>H410: Très toxique pour les organismes aquatiques, entraîne des effets néfastes à long terme (n’appartiennent au groupe 2 que les substances et préparations qui, en conséquence de leur classification «Aquatic Chronic 1», doivent être étiquetées avec H410.)</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/fr/xml/image/image6.png) en relation avec</td><td>H250: S’enflamme spontanément au contact de l’air, ou H260: Dégage au contact de l’eau des gaz inflammables qui peuvent s’enflammer spontanément, ou H261: Dégage au contact de l’eau des gaz inflammables.</td></tr>
 <tr><td>f.</td><td></td><td>H230: Peut exploser même en l’absence d’air, ou H231: Peut exploser même en l’absence d’air à une pression et/ou température élevée(s) ou EUH019: Peut former des peroxydes explosifs, ou EUH029: Au contact de l’eau, dégage des gaz toxiques, ou EUH031: Au contact d’un acide, dégage un gaz toxique, ou EUH032: Au contact d’un acide, dégage un gaz très toxique.</td></tr>
 </table>
 
@@ -2258,10 +2265,10 @@ Annexe 5*[^t-5]*
 ### 2.1 Groupe 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/fr/xml/image/image7.png) en relation avec</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Très toxique en cas d’ingestion, ou R27: Très toxique par contact avec la peau, ou R26: Très toxique par inhalation, ou combinaison des phrases R ci-dessus.</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/fr/xml/image/image8.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/fr/xml/image/image7.png) en relation avec</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Très toxique en cas d’ingestion, ou R27: Très toxique par contact avec la peau, ou R26: Très toxique par inhalation, ou combinaison des phrases R ci-dessus.</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/fr/xml/image/image8.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Substances et préparations selon l’annexe 1.10 ORRChim étiquetées avec:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/fr/xml/image/image7.png) en relation avec</td><td>R46: Peut provoquer des altérations génétiques héréditaires, ou R45: Peut provoquer le cancer, ou R49: Peut provoquer le cancer par inhalation, ou R60: Peut altérer la fertilité, ou R61: Risque pendant la grossesse d’effets néfastes pour l’enfant.</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/fr/xml/image/image7.png) en relation avec</td><td>R46: Peut provoquer des altérations génétiques héréditaires, ou R45: Peut provoquer le cancer, ou R49: Peut provoquer le cancer par inhalation, ou R60: Peut altérer la fertilité, ou R61: Risque pendant la grossesse d’effets néfastes pour l’enfant.</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl2-lvl21-1]: Le numéro de la phrase R n’a pas besoin de figurer sur l’étiquette.
@@ -2269,12 +2276,12 @@ Annexe 5*[^t-5]*
 ### 2.2 Groupe 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/fr/xml/image/image7.png) en relation avec</td><td>R25: Toxique en cas d’ingestion, ou R24: Toxique par contact avec la peau, ou R23: Toxique par inhalation, ou combinaison des phrases R ci-dessus.</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/fr/xml/image/image7.png) en relation avec</td><td>R39: Dangers d’effets irréversibles très graves, ou R48: Risques d’effets graves pour la santé en cas d’exposition prolongée.</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/fr/xml/image/image9.png) en relation avec</td><td>R35: Provoque de graves brûlures, ou R34: Provoque des brûlures.</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/fr/xml/image/image7.png) en relation avec</td><td>R25: Toxique en cas d’ingestion, ou R24: Toxique par contact avec la peau, ou R23: Toxique par inhalation, ou combinaison des phrases R ci-dessus.</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/fr/xml/image/image7.png) en relation avec</td><td>R39: Dangers d’effets irréversibles très graves, ou R48: Risques d’effets graves pour la santé en cas d’exposition prolongée.</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/fr/xml/image/image9.png) en relation avec</td><td>R35: Provoque de graves brûlures, ou R34: Provoque des brûlures.</td></tr>
 <tr><td>d.</td><td colspan="2">Récipient de plus d’un kilo étiqueté avec:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/fr/xml/image/image10.png) en relation avec</td><td>R50/53: Très toxiques pour les organismes aquatiques, peut entraîner des effets néfastes à long terme pour l’environnement aquatique.</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/fr/xml/image/image11.png) en relation avec</td><td>R17: Spontanément inflammable à l’air, ou R15: Au contact de l’eau, dégage des gaz extrêmement inflammables.</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/fr/xml/image/image10.png) en relation avec</td><td>R50/53: Très toxiques pour les organismes aquatiques, peut entraîner des effets néfastes à long terme pour l’environnement aquatique.</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/fr/xml/image/image11.png) en relation avec</td><td>R17: Spontanément inflammable à l’air, ou R15: Au contact de l’eau, dégage des gaz extrêmement inflammables.</td></tr>
 <tr><td>f.</td><td></td><td>R6: Danger d’explosion en contact ou sans contact avec l’air, ou R19: Peut former des peroxydes explosifs, ou R29: Au contact de l’eau, dégage des gaz toxiques, ou R31: Au contact d’un acide, dégage un gaz toxique, ou R32: Au contact d’un acide, dégage un gaz très toxique.</td></tr>
 </table>
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 5. Juni 2015 über den Schutz vor gefährlichen Stoffen u
 short: ChemV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/366"
 language: de
-version: 2022-05-01
+version: 2022-05-05
 adopted: 2015-06-05
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2015-366-20220501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20220501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/de/xml/fedlex-data-admin-ch-eli-cc-2015-366-20220505-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20220505/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20220501/de"
 
 (Chemikalienverordnung, ChemV)
 
-vom 5. Juni 2015 (Stand am 1. Mai 2022)
+vom 5. Juni 2015 (Stand am 5. Mai 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -135,7 +135,7 @@ Darüber hinaus bedeuten in dieser Verordnung:
 - d. *Alleinvertreterin:* natürliche oder juristische Person, die von einer Herstellerin mit Wohnsitz oder Geschäftssitz im Ausland zur Anmeldung eines Stoffs in der Schweiz bevollmächtigt ist und mehrere von ihr benannte Importeurinnen vertritt;
 - e. *Gegenstand:* Erzeugnis, bestehend aus einem oder mehreren Stoffen oder Zubereitungen, das bei der Herstellung eine spezifische Form, Oberfläche oder Gestalt erhält, die in grösserem Masse als die chemische Zusammensetzung seine Endfunktion bestimmt;
 - f.[^2-3] *alter Stoff*: Stoff, der nach Artikel 5 der Verordnung (EG) Nr. 1907/2006 (EU-REACH-Verordnung)[^2-4] registriert ist, mit Ausnahme von Stoffen, die:
-- [tab] 1. in höheren Mengen in Verkehr gebracht werden, als sie im Europäischen Wirtschaftsraum (EWR) registriert sind, oder
+- [tab] 1.[^2-5] in höheren Mengen in Verkehr gebracht werden, als sie im Europäischen Wirtschaftsraum (EWR) registriert sind, oder
 - [tab] 2. ausschliesslich als Zwischenprodukte registriert sind, soweit sie keine Monomere sind;
 - g.
 
@@ -154,28 +154,29 @@ Darüber hinaus bedeuten in dieser Verordnung:
 - o. *Expositionsszenario:* Zusammenstellung von Bedingungen einschliesslich der Verwendungsbedingungen und Risikomanagementmassnahmen, mit denen dargestellt wird, wie der Stoff hergestellt oder während seines Lebenszyklus verwendet wird und wie die Herstellerin die Exposition von Mensch und Umwelt beherrscht oder den beruflichen Verwenderinnen zu beherrschen empfiehlt; ein Expositionsszenario kann ein spezifisches Verfahren oder eine spezifische Verwendung oder gegebenenfalls verschiedene Verfahren oder Verwendungen abdecken;
 - p. *Gefahrenklasse:* Art der physikalischen Gefahr, der Gefahr für die Gesundheit des Menschen oder der Gefahr für die Umwelt;
 - q. *Nanomaterial:* Material, das Partikel in ungebundenem Zustand, als Aggregat oder als Agglomerat enthält, bei denen ein oder mehrere Aussenmasse im Bereich von 1 bis 100 Nanometer liegen, oder ein Material, das ein spezifisches Oberflächen-Volumen-Verhältnis von über 60 m<sup>2</sup>/cm<sup>3</sup> aufweist; ein Material gilt nur dann als Nanomaterial, wenn es gezielt zur Nutzung der Eigenschaften hergestellt wird, die sich aus den genannten Aussenmassen der enthaltenen Partikel oder dem genannten Oberflächen-Volumen-Verhältnis des Materials ergeben; Fullerene, Graphenflocken und einwandige Kohlenstoff-Nanoröhren mit einem oder mehreren Aussenmassen unter 1 Nanometer gelten als Nanomaterialien;
-- r.[^2-5] *Farbmittel:* Stoffe und Zubereitungen, die im Wesentlichen Farbstoffe, Farbpigmente und effektgebende Pigmente enthalten, die ausschliesslich zum Zwecke der Färbung oder der Effekte zugemischt werden.
+- r.[^2-6] *Farbmittel:* Stoffe und Zubereitungen, die im Wesentlichen Farbstoffe, Farbpigmente und effektgebende Pigmente enthalten, die ausschliesslich zum Zwecke der Färbung oder der Effekte zugemischt werden.
 
 <sup>3</sup> Im Übrigen werden in dieser Verordnung Begriffe, die in den Gesetzen, die die Grundlage dieser Verordnung bilden, unterschiedlich verwendet werden, im Sinne des ChemG verwendet.
 
-<sup>4</sup> Es gelten die Entsprechungen von Ausdrücken zwischen der EU-REACH-Verordnung, der Verordnung (EG) Nr. 1272/2008 (EU-CLP-Verordnung)[^2-6] und der Richtlinie 75/324/EWG[^2-7] und der vorliegenden Verordnung nach Anhang 1 Ziffer 1.[^2-8]
+<sup>4</sup> Es gelten die Entsprechungen von Ausdrücken zwischen der EU-REACH-Verordnung, der Verordnung (EG) Nr. 1272/2008 (EU-CLP-Verordnung)[^2-7] und der Richtlinie 75/324/EWG[^2-8] und der vorliegenden Verordnung nach Anhang 1 Ziffer 1.[^2-9]
 
 <sup>5</sup> Wird in dieser Verordnung auf Bestimmungen der EU-REACH-Verordnung, der EU-CLP-Verordnung oder der Richtlinie 75/324/EWG verwiesen, die ihrerseits auf andere Bestimmungen dieser Rechtsakte verweisen, so gelten auch diese anderen Bestimmungen; massgebend ist dabei die in der Fussnote zu Absatz 4 festgelegte Fassung des betreffenden EU-Rechtsakts oder, bei Verweisen auf die Anhänge der EU-CLP-Verordnung oder der EU-REACH-Verordnung, die in Anhang 2 Ziffer 1 beziehungsweise Anhang 4 Ziffer 3 festgelegte Fassung. Ausgenommen sind Weiterverweise auf die Bestimmungen der EU-REACH-Verordnung und der EU-CLP-Verordnung nach Anhang 1 Ziffer 2; an deren Stelle gelten die in Anhang 1 Ziffer 2 aufgeführten schweizerischen Bestimmungen.
 
 <sup>6</sup> Wird in dieser Verordnung auf Bestimmungen der EU-REACH-Verordnung oder der EU-CLP-Verordnung verwiesen, die ihrerseits auf anderes EU-Recht verweisen, so gilt statt dieses EU-Rechts das schweizerische Recht nach Anhang 1 Ziffer 3.
 
-<sup>7</sup> Für das Inverkehrbringen von Stoffen und Zubereitungen, deren Entwicklung auf genutzten genetischen Ressourcen oder auf sich darauf beziehendem traditionellem Wissen basiert, bleiben die Bestimmungen der Nagoya-Verordnung vom 11. Dezember 2015[^2-9] vorbehalten.[^2-10]
+<sup>7</sup> Für das Inverkehrbringen von Stoffen und Zubereitungen, deren Entwicklung auf genutzten genetischen Ressourcen oder auf sich darauf beziehendem traditionellem Wissen basiert, bleiben die Bestimmungen der Nagoya-Verordnung vom 11. Dezember 2015[^2-10] vorbehalten.[^2-11]
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 [^2-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 [^2-3]: Fassung gemäss Ziff. I der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 [^2-4]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) 2021/2204, ABl. L 446 vom 14.12.2021, S. 34.
-[^2-5]: Eingefügt durch Ziff. I der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
-[^2-6]: Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006, ABl. L 353 vom 31.12.2008, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2021/1962, ABl. L 400 vom 12.11.2021, S. 16.
-[^2-7]: Richtlinie 75/324/EWG des Rates vom 20. Mai 1975 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Aerosolpackungen, ABl. L 147 vom 9.6.1975, S. 40; zuletzt geändert durch Richtlinie (EU) 2016/2037, ABl. L 314 vom 22.11.2016, S. 11.
-[^2-8]: Fassung gemäss Ziff. I der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
-[^2-9]: [SR 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
-[^2-10]: Eingefügt durch Anhang Ziff. 2 der Nagoya-Verordnung vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
+[^2-5]: Die Berichtigung vom 5. Mai 2022 betrifft nur den französischen Text ([AS 2022 273](https://fedlex.data.admin.ch/eli/oc/2022/273)).
+[^2-6]: Eingefügt durch Ziff. I der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^2-7]: Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006, ABl. L 353 vom 31.12.2008, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2021/1962, ABl. L 400 vom 12.11.2021, S. 16.
+[^2-8]: Richtlinie 75/324/EWG des Rates vom 20. Mai 1975 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Aerosolpackungen, ABl. L 147 vom 9.6.1975, S. 40; zuletzt geändert durch Richtlinie (EU) 2016/2037, ABl. L 314 vom 22.11.2016, S. 11.
+[^2-9]: Fassung gemäss Ziff. I der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^2-10]: [SR 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^2-11]: Eingefügt durch Anhang Ziff. 2 der Nagoya-Verordnung vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
 
 #### Art. 3
 
@@ -564,7 +565,7 @@ Die Herstellerin eines neuen Stoffs oder die Alleinvertreterin muss den neuen St
 
 Wenn ein Stoff anmeldepflichtig wird, weil er nicht mehr nach Artikel 5 der EU-REACH-Verordnung[^25-2] registriert ist, darf die Herstellerin ihn noch bis zum Ende des Kalenderjahres, das auf die Änderung des Registrierungsstatus folgt, ohne Anmeldung in Verkehr bringen. Die Anmeldestelle kann die Frist auf begründeten Antrag um maximal zwei Jahre verlängern.
 
-[^25-1]: Fassung gemäss Ziff. I der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^25-1]: Fassung gemäss Ziff. I der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)). Die Berichtigung vom 5. Mai 2022 betrifft nur den französischen Text ([AS 2022 273](https://fedlex.data.admin.ch/eli/oc/2022/273)).
 [^25-2]: Siehe Fussnote zu Art. 2 Abs. 2 Bst. f
 
 #### Art. 26
@@ -1076,13 +1077,17 @@ Die Meldung und die erweiterte Meldung haben wie folgt zu erfolgen:
 
 <sup>1</sup> Änderungen der Angaben nach den Artikeln 49 und 50 müssen innert 3 Monaten gemeldet werden.
 
-<sup>2</sup> Weicht die jährlich tatsächlich abgegebene Menge umweltgefährlicher Stoffe und Zubereitungen von der gemeldeten Kategorie der in Verkehr gebrachten Menge ab, so ist die im Vorjahr in Verkehr gebrachte Menge bis zum 31. März des Folgejahres nach den Kategorien nach Artikel 49 Buchstabe c Ziffer 6 und Buchstabe d Ziffer 6 zu melden.
+<sup>2</sup> Weicht die jährlich tatsächlich abgegebene Menge umweltgefährlicher Stoffe und Zubereitungen von der gemeldeten Kategorie der in Verkehr gebrachten Menge ab, so ist die im Vorjahr in Verkehr gebrachte Menge bis zum 31. März des Folgejahres nach den Kategorien nach Artikel 49 Absatz 1[^52-1] Buchstabe c Ziffer 6 und Buchstabe d Ziffer 6 zu melden.
+
+[^52-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Mai 2022 angepasst.
 
 #### Art. 53
 
 **Besondere Form der Erfüllung der Meldepflicht**
 
-Die Meldepflichten für Zubereitungen nach Artikel 48 gelten als erfüllt, wenn ein Gesuch um Verwendung einer alternativen chemischen Bezeichnung (Art. 15) gestellt worden ist und die Anmeldestelle über die Informationen verfügt, die in Artikel 49 Buchstaben a, b und d und gegebenenfalls in Artikel 50 verlangt werden.
+Die Meldepflichten für Zubereitungen nach Artikel 48 gelten als erfüllt, wenn ein Gesuch um Verwendung einer alternativen chemischen Bezeichnung (Art. 15) gestellt worden ist und die Anmeldestelle über die Informationen verfügt, die in Artikel 49 Absatz 1[^53-1] Buchstaben a, b und d und gegebenenfalls in Artikel 50 verlangt werden.
+
+[^53-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Mai 2022 angepasst.
 
 #### Art. 54
 
@@ -1101,7 +1106,7 @@ Von den Meldepflichten nach diesem Kapitel ausgenommen sind:
   - 3\. in Mengen unter 100 kg pro Jahr in Verkehr gebracht werden;
 
 - b.[^54-2] Stoffe und Zubereitungen, die ausschliesslich für Analyse-, Forschungs- oder Entwicklungszwecke in Verkehr gebracht werden;
-- b<sup>bis</sup>.[^54-3] Stoffe, die ausschliesslich zu Bildungszwecken in Verkehr gebracht werden;
+- [tab] b<sup>bis</sup>.[^54-3] Stoffe, die ausschliesslich zu Bildungszwecken in Verkehr gebracht werden;
 - c. Stoffe und Zubereitungen, die ausschliesslich für Lebensmittel, Heilmittel oder Futtermittel verwendet werden;
 - d. Dünger, die nach der Dünger-Verordnung vom 10. Januar 2001[^54-4] einer Bewilligung des Bundesamtes für Landwirtschaft (BLW) bedürfen oder beim BLW angemeldet werden müssen;
 - e. Sprengmittel und pyrotechnische Gegenstände, die nach der Sprengstoffverordnung vom 27. November 2000[^54-5] einer Bewilligung unterliegen;
@@ -1425,7 +1430,7 @@ Als schutzwürdig gilt insbesondere das Interesse an der Wahrung des Geschäfts-
 - a. der Angaben über die Identität von Zwischenprodukten;
 - b. der vollständigen Zusammensetzung einer Zubereitung;
 - c. der in Verkehr gebrachten Mengen eines Stoffs oder einer Zubereitung;
-- d. der Informationen über Nanomaterialien nach Artikel 49 Buchstabe c Ziffer 7 und Buchstabe d Ziffer 7.[^73-1]
+- d. der Informationen über Nanomaterialien nach Artikel 49 Absatz 1[^73-1] Buchstabe c Ziffer 7 und Buchstabe d Ziffer 7.[^73-2]
 
 <sup>4</sup> Erhält die Anmeldestelle davon Kenntnis, dass als vertraulich geltende Daten nachträglich rechtmässig bekannt gegeben wurden, so sind diese Angaben nicht mehr vertraulich zu behandeln.
 
@@ -1440,13 +1445,14 @@ In keinem Fall als vertraulich gelten:
 - e. die Zusammenfassung der Ergebnisse der toxikologischen und ökotoxikologischen Prüfungen;
 - f. der Reinheitsgrad eines Stoffs und die Identität der für die Einstufung relevanten Verunreinigungen und Zusatzstoffe;
 - g. die Empfehlungen über Vorsichtsmassnahmen bei der Verwendung und über Sofortmassnahmen bei Unfällen;
-- h.[^73-2] die im Sicherheitsdatenblatt enthaltenen Informationen, ausgenommen die Identität von Zwischenprodukten;
+- h.[^73-3] die im Sicherheitsdatenblatt enthaltenen Informationen, ausgenommen die Identität von Zwischenprodukten;
 - i. die geeigneten Analysemethoden zur Feststellung der Exposition des Menschen und des Vorkommens in der Umwelt.
 
 <sup>6</sup> Die Anmeldestelle und die Beurteilungsstellen können Daten des Produkteregisters, die in keinem Fall als vertraulich gelten, veröffentlichen.
 
-[^73-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+[^73-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Mai 2022 angepasst.
 [^73-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+[^73-3]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 
 #### Art. 74
 
@@ -2222,10 +2228,10 @@ Anhang 5*[^t-5]*
 ### 1.1 Gruppe 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/de/xml/image/image1.png) in Verbindung mit</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Lebensgefahr bei Verschlucken, oder H310: Lebensgefahr bei Hautkontakt, oder H330: Lebensgefahr bei Einatmen, oder Kombinationen der obgenannten Gefahrenhinweise</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/de/xml/image/image2.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/de/xml/image/image1.png) in Verbindung mit</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Lebensgefahr bei Verschlucken, oder H310: Lebensgefahr bei Hautkontakt, oder H330: Lebensgefahr bei Einatmen, oder Kombinationen der obgenannten Gefahrenhinweise</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/de/xml/image/image2.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Stoffe und Zubereitungen nach Anhang 1.10 ChemRRV[^annex5-lvlu1-lvl1-lvl11-2] gekennzeichnet mit:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/de/xml/image/image3.png) in Verbindung mit</td><td>H340: Kann genetische Defekte verursachen, oder H350: Kann (*beim Einatmen*) Krebs erzeugen, oder H360: Kann die Fruchtbarkeit beeinträchtigen / Kann das Kind im Mutterleib schädigen</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/de/xml/image/image3.png) in Verbindung mit</td><td>H340: Kann genetische Defekte verursachen, oder H350: Kann (*beim Einatmen*) Krebs erzeugen, oder H360: Kann die Fruchtbarkeit beeinträchtigen / Kann das Kind im Mutterleib schädigen</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl1-lvl11-1]: Die Nummer des H-Satzes muss nicht in der Kennzeichnung erscheinen.
@@ -2234,12 +2240,12 @@ Anhang 5*[^t-5]*
 ### 1.2 Gruppe 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/de/xml/image/image1.png) in Verbindung mit</td><td>H301: Giftig bei Verschlucken, oder H311: Giftig bei Hautkontakt, oder H331: Giftig bei Einatmen, oder Kombinationen der obgenannten Gefahrenhinweise</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/de/xml/image/image3.png) in Verbindung mit</td><td>H370: Schädigt die Organe, oder H372: Schädigt die Organe bei längerer oder wiederholter Exposition</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/de/xml/image/image4.png) in Verbindung mit</td><td>H314: Verursacht schwere Verätzungen der Haut und schwere Augenschäden. (Nicht als Zubereitungen der Gruppe 2 gelten jene, die ausschliesslich wegen ihrem Gehalt an Milchsäure [CAS Nr. 79-33-4] als «Skin Corr. 1C» eingestuft und mit H314 gekennzeichnet werden müssen.)</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/de/xml/image/image1.png) in Verbindung mit</td><td>H301: Giftig bei Verschlucken, oder H311: Giftig bei Hautkontakt, oder H331: Giftig bei Einatmen, oder Kombinationen der obgenannten Gefahrenhinweise</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/de/xml/image/image3.png) in Verbindung mit</td><td>H370: Schädigt die Organe, oder H372: Schädigt die Organe bei längerer oder wiederholter Exposition</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/de/xml/image/image4.png) in Verbindung mit</td><td>H314: Verursacht schwere Verätzungen der Haut und schwere Augenschäden. (Nicht als Zubereitungen der Gruppe 2 gelten jene, die ausschliesslich wegen ihrem Gehalt an Milchsäure [CAS Nr. 79-33-4] als «Skin Corr. 1C» eingestuft und mit H314 gekennzeichnet werden müssen.)</td></tr>
 <tr><td>d.</td><td colspan="2">Gebinde ab einem Inhalt von mehr als 1 kg gekennzeichnet mit:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/de/xml/image/image5.png) in Verbindung mit</td><td>H410: Sehr giftig für Wasserorganismen mit langfristiger Wirkung (Als Stoffe und Zubereitung der Gruppe 2 gelten dabei nur jene, die wegen ihrer Einstufung als «Aquatic Chronic 1» mit H410 gekennzeichnet werden müssen.)</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/de/xml/image/image6.png) in Verbindung mit</td><td>H250: Entzündet sich in Berührung mit Luft von selbst, oder H260: In Berührung mit Wasser entstehen entzündbare Gase, die sich spontan entzünden können, oder H261: In Berührung mit Wasser entstehen entzündbare Gase</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/de/xml/image/image5.png) in Verbindung mit</td><td>H410: Sehr giftig für Wasserorganismen mit langfristiger Wirkung (Als Stoffe und Zubereitung der Gruppe 2 gelten dabei nur jene, die wegen ihrer Einstufung als «Aquatic Chronic 1» mit H410 gekennzeichnet werden müssen.)</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/de/xml/image/image6.png) in Verbindung mit</td><td>H250: Entzündet sich in Berührung mit Luft von selbst, oder H260: In Berührung mit Wasser entstehen entzündbare Gase, die sich spontan entzünden können, oder H261: In Berührung mit Wasser entstehen entzündbare Gase</td></tr>
 <tr><td>f.</td><td></td><td>H230: Kann auch in Abwesenheit von Luft explosionsartig reagieren, oder H231: Kann auch in Abwesenheit von Luft bei erhöhtem Druck und/oder erhöhter Temperatur explosionsartig reagieren, oder EUH019: Kann explosionsfähige Peroxide bilden, oder EUH029: Entwickelt bei Berührung mit Wasser giftige Gase, oder EUH031: Entwickelt bei Berührung mit Säure giftige Gase, oder EUH032: Entwickelt bei Berührung mit Säure sehr giftige Gase</td></tr>
 </table>
 
@@ -2248,10 +2254,10 @@ Anhang 5*[^t-5]*
 ### 2.1 Gruppe 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/de/xml/image/image7.png) in Verbindung mit</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Sehr giftig beim Verschlucken, oder R27: Sehr giftig bei Berührung mit der Haut, oder R26: Sehr giftig beim Einatmen, oder Kombinationen der obgenannten R-Sätze</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/de/xml/image/image8.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/de/xml/image/image7.png) in Verbindung mit</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Sehr giftig beim Verschlucken, oder R27: Sehr giftig bei Berührung mit der Haut, oder R26: Sehr giftig beim Einatmen, oder Kombinationen der obgenannten R-Sätze</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/de/xml/image/image8.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Stoffe und Zubereitungen gemäss Anhang 1.10 ChemRRV gekennzeichnet mit:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/de/xml/image/image7.png) in Verbindung mit</td><td>R46: Kann vererbbare Schäden verursachen, oder R45: Kann Krebs erzeugen, oder R49: Kann Krebs erzeugen beim Einatmen, oder R60: Kann die Fortpflanzungsfähigkeit beeinträchtigen, oder R61: Kann das Kind im Mutterleib schädigen</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/de/xml/image/image7.png) in Verbindung mit</td><td>R46: Kann vererbbare Schäden verursachen, oder R45: Kann Krebs erzeugen, oder R49: Kann Krebs erzeugen beim Einatmen, oder R60: Kann die Fortpflanzungsfähigkeit beeinträchtigen, oder R61: Kann das Kind im Mutterleib schädigen</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl2-lvl21-1]: Die Nummer des R-Satzes muss nicht in der Kennzeichnung erscheinen.
@@ -2259,12 +2265,12 @@ Anhang 5*[^t-5]*
 ### 2.2 Gruppe 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/de/xml/image/image7.png) in Verbindung mit</td><td>R25: Giftig beim Verschlucken, oder R24: Giftig bei Berührung mit der Haut, oder R23: Giftig beim Einatmen, oder Kombinationen der obgenannten R-Sätze</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/de/xml/image/image7.png) in Verbindung mit</td><td>R39: Ernste Gefahr irreversiblen Schadens, oder R48: Gefahr ernster Gesundheitsschäden bei längerer Exposition</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/de/xml/image/image9.png) in Verbindung mit</td><td>R35: Verursacht schwere Verätzungen, oder R34: Verursacht Verätzungen</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/de/xml/image/image7.png) in Verbindung mit</td><td>R25: Giftig beim Verschlucken, oder R24: Giftig bei Berührung mit der Haut, oder R23: Giftig beim Einatmen, oder Kombinationen der obgenannten R-Sätze</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/de/xml/image/image7.png) in Verbindung mit</td><td>R39: Ernste Gefahr irreversiblen Schadens, oder R48: Gefahr ernster Gesundheitsschäden bei längerer Exposition</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/de/xml/image/image9.png) in Verbindung mit</td><td>R35: Verursacht schwere Verätzungen, oder R34: Verursacht Verätzungen</td></tr>
 <tr><td>d.</td><td colspan="2">Gebinde ab einem Inhalt von mehr als 1 kg gekennzeichnet mit:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/de/xml/image/image10.png) in Verbindung mit</td><td>R50/53: Sehr giftig für Wasserorganismen, kann in Gewässern längerfristig schädliche Wirkungen haben</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220501/de/xml/image/image11.png) in Verbindung mit</td><td>R17: Selbstentzündlich an der Luft, oder R15: Reagiert mit Wasser unter Bildung hochentzündlicher Gase</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/de/xml/image/image10.png) in Verbindung mit</td><td>R50/53: Sehr giftig für Wasserorganismen, kann in Gewässern längerfristig schädliche Wirkungen haben</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/de/xml/image/image11.png) in Verbindung mit</td><td>R17: Selbstentzündlich an der Luft, oder R15: Reagiert mit Wasser unter Bildung hochentzündlicher Gase</td></tr>
 <tr><td>f.</td><td></td><td>R6: Mit und ohne Luft explosionsfähig, oder R19: Kann explosionsfähige Peroxide bilden, oder R29: Entwickelt bei Berührung mit Wasser giftige Gase, oder R31: Entwickelt bei Berührung mit Säure giftige Gase, oder R32: Entwickelt bei Berührung mit Säure sehr giftige Gase</td></tr>
 </table>
 
