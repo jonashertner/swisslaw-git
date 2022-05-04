@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 concernant la mise sur le marché et l'utilisa
 short: OPBio
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: fr
-version: 2022-05-01
+version: 2022-05-05
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220505/fr/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220505-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220505/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220501/fr"
 
 (Ordonnance sur les produits biocides, OPBio)
 
-du 18 mai 2005 (Etat le 1<sup>er</sup> mai 2022)
+du 18 mai 2005 (Etat le 5 mai 2022)
 
 Le Conseil fédéral suisse,
 
@@ -190,7 +190,7 @@ Les termes suivants s’entendent au sens de l’art. 2 de l’ordonnance du 18 
 [^2-9]: Nouvelle expression selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)). Il a été tenu compte de cette mod. dans tout le texte.
 [^2-10]: Cf. note de bas de page relative à l’art. 1*b*, al. 3.
 [^2-11]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
-[^2-12]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^2-12]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^2-13]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^2-14]: Introduit par le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 
@@ -1337,10 +1337,12 @@ Le demandeur fournit les données ci-après à l’organe de réception des noti
 
 En accord avec les organes d’évaluation, l’organe de réception des notifications peut autoriser provisoirement un produit biocide contenant une substance active non encore approuvée. L’autorisation provisoire est accordée si:
 
-- a. le demandeur présente la recommandation d’approbation d’un État membre de l’UE ou de l’AELE pour la substance active non encore autorisée, et
+- a.[^30a-1] le demandeur présente la recommandation d’approbation d’un État membre de l’UE ou de l’AELE pour la substance active non encore approuvée, et
 - b. les organes d’évaluation, considérant l’art. 11*b,* s’attendent à ce que le produit biocide réponde aux exigences de l’art. 11, al. 1, let. a à c.
 
 <sup>2</sup> L’organe de réception des notifications révoque l’autorisation provisoire si la Commission européenne décide de ne pas approuver la substance.
+
+[^30a-1]: Erratum du 5 mai 2022 ([RO 2022 274](https://fedlex.data.admin.ch/eli/oc/2022/274)).
 
 #### Art. 30b
 

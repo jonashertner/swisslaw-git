@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente l'immissione sul mercato e l'ut
 short: OBioc
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: it
-version: 2022-05-01
+version: 2022-05-05
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220501/it/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220505/it/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220505-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220505/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220501/it"
 
 (Ordinanza sui biocidi, OBioc)
 
-del 18 maggio 2005 (Stato 1° maggio 2022) (Stato 1° maggio 2022)
+del 18 maggio 2005 (Stato 5 maggio 2022) (Stato 5 maggio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -1331,10 +1331,12 @@ A seconda dei casi, il richiedente presenta all’organo di notifica i seguenti 
 
 L’organo di notifica può, d’intesa con i servizi di valutazione, omologare provvisoriamente un biocida contenente un principio attivo non ancora approvato. L’omologazione provvisoria è rilasciata se:
 
-- a. il richiedente presenta per il principio attivo non ancora approvato la raccomandazione di uno Stato membro dell’UE o dell’AELS di approvare il principio attivo; e
+- a.[^30a-1] il richiedente presenta per il principio attivo non ancora approvato la raccomandazione di uno Stato membro dell’UE o dell’AELS di approvare il principio attivo; e
 - b. i servizi di valutazione giungono alla convinzione, tenendo conto dell’articolo 11*b*, che il biocida soddisfi presumibilmente le condizioni di cui all’articolo 11 capoverso 1 lettere a–c.
 
 <sup>2</sup> L’organo di notifica revoca l’omologazione provvisoria se la Commissione europea decide di non approvare il principio attivo.
+
+[^30a-1]: La correzione del 5 mag. 2022 concerne soltanto il testo francese ([RU 2022 274](https://fedlex.data.admin.ch/eli/oc/2022/274)).
 
 #### Art. 30b
 

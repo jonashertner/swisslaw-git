@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 über das Inverkehrbringen von und den Umgan
 short: VBP
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: de
-version: 2022-05-01
+version: 2022-05-05
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220505/de/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220505-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220505/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220501/de"
 
 (Biozidprodukteverordnung, VBP)
 
-vom 18. Mai 2005 (Stand am 1. Mai 2022) (Stand am 1. Mai 2022)
+vom 18. Mai 2005 (Stand am 5. Mai 2022) (Stand am 5. Mai 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -1339,10 +1339,12 @@ Die Gesuchstellerin legt der Anmeldestelle je nach Fall folgende Daten vor:
 
 Die Anmeldestelle kann im Einvernehmen mit den Beurteilungsstellen ein Biozidprodukt, das einen noch nicht genehmigten Wirkstoff enthält, vorläufig zulassen. Die vorläufige Zulassung wird erteilt, wenn:
 
-- a. die Gesuchstellerin für den noch nicht genehmigten Wirkstoff die Empfehlung eines EU- oder EFTA-Mitgliedstaates für die Genehmigung des Wirkstoffes vorlegt; und
+- a.[^30a-1] die Gesuchstellerin für den noch nicht genehmigten Wirkstoff die Empfehlung eines EU- oder EFTA-Mitgliedstaates für die Genehmigung des Wirkstoffes vorlegt; und
 - b. die Beurteilungsstellen unter Berücksichtigung von Artikel 11*b* zur Überzeugung gelangen, dass das Biozidprodukt die Voraussetzungen nach Artikel 11 Absatz 1 Buchstaben a–c voraussichtlich erfüllt.
 
 <sup>2</sup> Die Anmeldestelle widerruft die vorläufige Zulassung, wenn die Europäische Kommission entscheidet, den Wirkstoff nicht zu genehmigen.
+
+[^30a-1]: Die Berichtigung vom 5. Mai 2022 betrifft nur den französischen Text ([AS 2022 273](https://fedlex.data.admin.ch/eli/oc/2022/273)).
 
 #### Art. 30b
 

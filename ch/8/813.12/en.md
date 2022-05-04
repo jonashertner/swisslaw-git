@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Placing on the Market and Handling of Bi
 short: OBP
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: en
-version: 2022-05-01
+version: 2022-05-05
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220501/en/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220501-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220501/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220505/en/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220505-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220505/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Ordinance on Biocidal Products, OBP)
 
-of 18 May 2005 (Status as of 1 May 2022)
+of 18 May 2005 (Status as of 5 May 2022)
 
 The Swiss Federal Council,
 
@@ -1337,10 +1337,12 @@ Depending on the particular case, the applicant shall submit the following data 
 
 The Notification Authority may in agreement with the assessment authorities provisionally authorise a biocidal product that contains an active substance that has yet to be approved. The provisional authorisation shall be granted if:
 
-- a. the applicant for the as yet unapproved active substance submits a recommendation from an EU or EFTA member state that the active substance be approved; and
+- a.[^30a-1] the applicant for the as yet unapproved active substance submits a recommendation from an EU or EFTA member state that the active substance be approved; and
 - b. the assessment authorities, having regard to Article 11*b*, take the view that the biocidal product provisionally meets the requirements of Article 11 paragraph 1 letters a–c.
 
 <sup>2</sup> The Notification Authority shall revoke the provisional authorisation if the European Commission decides not to approve the active substance.
+
+[^30a-1]: The correction of 5 May 2022 concerns the French text only ([AS 2022 274](https://fedlex.data.admin.ch/eli/oc/2022/274)).
 
 #### Art. 30b
 
