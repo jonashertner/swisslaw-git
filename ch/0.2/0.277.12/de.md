@@ -3,11 +3,11 @@ sr: "0.277.12"
 title: Übereinkommen vom 10. Juni 1958 über die Anerkennung und Vollstreckung ausländischer Schiedssprüche
 eli: "https://fedlex.data.admin.ch/eli/cc/1965/795_799_793"
 language: de
-version: 2020-09-08
+version: 2022-05-09
 adopted: 1958-06-10
 in_force: 1965-08-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/795_799_793/20200908/de/xml/fedlex-data-admin-ch-eli-cc-1965-795_799_793-20200908-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1965/795_799_793/20200908/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/795_799_793/20220509/de/xml/fedlex-data-admin-ch-eli-cc-1965-795_799_793-20220509-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1965/795_799_793/20220509/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1965** 795; BBl **1964** II 605
 
 Abgeschlossen in New York am 10. Juni 1958 Von der Bundesversammlung genehmigt am 2. März 1965[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 1. Juni 1965 In Kraft getreten für die Schweiz am 30. August 1965
 
-(Stand am 8. September 2020)
+(Stand am 9. Mai 2022)
 
 [^t-1]: [AS 1965 793](https://fedlex.data.admin.ch/eli/oc/1965/793_797_791)
 
@@ -57,7 +57,9 @@ Zur Anerkennung und Vollstreckung, die im vorangehenden Artikel erwähnt wird, i
 
 #### Art. V
 
-<sup>1.</sup> Die Anerkennung und Vollstreckung des Schiedsspruches darf auf Antrag der Partei, gegen die er geltend gemacht wird, nur versagt werden, wenn diese Partei der zuständigen Behörde des Landes, in dem die Anerkennung und Vollstreckung nachgesucht wird, den Beweis erbringt.
+<sup>1.</sup>
+
+Die Anerkennung und Vollstreckung des Schiedsspruches darf auf Antrag der Partei, gegen die er geltend gemacht wird, nur versagt werden, wenn diese Partei der zuständigen Behörde des Landes, in dem die Anerkennung und Vollstreckung nachgesucht wird, den Beweis erbringt:
 
 - a. dass die Parteien, die eine Vereinbarung im Sinne des Artikels II geschlossen haben, nach dem Recht, das für sie persönlich massgebend ist, in irgendeiner Hinsicht hierzu nicht fähig waren, oder dass die Vereinbarung nach dem Recht, dem die Parteien sie unterstellt haben, oder, falls die Parteien hierüber nichts bestimmt haben, nach dem Recht des Landes, in dem der Schiedsspruch ergangen ist, ungültig ist, oder
 - b. dass die Partei, gegen die der Schiedsspruch geltend gemacht wird, von der Bestellung des Schiedsrichters oder von dem schiedsrichterlichen Verfahren nicht gehörig in Kenntnis gesetzt worden ist oder dass sie aus einem anderen Grund ihre Angriffs- oder Verteidigungsmittel nicht hat geltend machen können, oder
@@ -81,7 +83,7 @@ Ist bei der Behörde, die im Sinne des Artikels V Absatz 1 Buchstabe *e* zustän
 <sup>2.</sup> Das Genfer Protokoll über die Schiedsklauseln von 1923[^VII-1] und das Genfer Abkommen zur Vollstreckung ausländischer Schiedssprüche von 1927[^VII-2] treten zwischen den Vertragsstaaten in dem Zeitpunkt und in dem Ausmass ausser Kraft, in dem dieses Übereinkommen für sie verbindlich wird.
 
 [^VII-1]: [SR 0.277.11](https://fedlex.data.admin.ch/eli/cc/44/406_426_420)
-[^VII-2]: [BS **12** 392. [AS 46 688](https://fedlex.data.admin.ch/eli/oc/46/688_704_714), [AS 2005 1513](https://fedlex.data.admin.ch/eli/oc/2005/231). [AS 2009 4239](https://fedlex.data.admin.ch/eli/oc/2009/517)].
+[^VII-2]: [BS **12** 392. [AS 46 688](https://fedlex.data.admin.ch/eli/oc/46/688_704_714); [AS 2005 1513](https://fedlex.data.admin.ch/eli/oc/2005/231). [AS 2009 4239](https://fedlex.data.admin.ch/eli/oc/2009/517)].
 
 #### Art. VIII
 
@@ -149,7 +151,7 @@ Der Generalsekretär der Vereinten Nationen notifiziert allen in Artikel VIII be
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 8. September 2020**[^t-2]**
+Geltungsbereich am 9. Mai 2022**[^t-2]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -171,6 +173,7 @@ Geltungsbereich am 8. September 2020**[^t-2]**
 <tr><td>Barbados\*</td><td>16. März</td><td>1993 B</td><td>14. Juni</td><td>1993</td></tr>
 <tr><td>Belarus\*</td><td>15. November</td><td>1960</td><td>13. Februar</td><td>1961</td></tr>
 <tr><td>Belgien\*</td><td>18. August</td><td>1975</td><td>16. November</td><td>1975</td></tr>
+<tr><td>Belize\*</td><td>15. März</td><td>2021 B</td><td>13. Juni</td><td>2021</td></tr>
 <tr><td>Benin</td><td>16. Mai</td><td>1974 B</td><td>14. August</td><td>1974</td></tr>
 <tr><td>Bhutan\*</td><td>25. September</td><td>2014 B</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Bolivien</td><td>28. April</td><td>1995 B</td><td>27. Juli</td><td>1995</td></tr>
@@ -214,6 +217,7 @@ Geltungsbereich am 8. September 2020**[^t-2]**
 <tr><td>Honduras</td><td>3. Oktober</td><td>2000 B</td><td>1. Januar</td><td>2001</td></tr>
 <tr><td>Indien\*</td><td>13. Juli</td><td>1960</td><td>11. Oktober</td><td>1960</td></tr>
 <tr><td>Indonesien\*</td><td>7. Oktober</td><td>1981 B</td><td>5. Januar</td><td>1982</td></tr>
+<tr><td>Irak\*</td><td>11. November</td><td>2021 B</td><td>9. Februar</td><td>2022</td></tr>
 <tr><td>Iran\*</td><td>15. Oktober</td><td>2001 B</td><td>13. Januar</td><td>2002</td></tr>
 <tr><td>Irland\*</td><td>12. Mai</td><td>1981 B</td><td>10. August</td><td>1981</td></tr>
 <tr><td>Island</td><td>24. Januar</td><td>2002 B</td><td>24. April</td><td>2002</td></tr>
@@ -246,6 +250,7 @@ Geltungsbereich am 8. September 2020**[^t-2]**
 <tr><td>Litauen\*</td><td>14. März</td><td>1995 B</td><td>12. Juni</td><td>1995</td></tr>
 <tr><td>Luxemburg\*</td><td>9. September</td><td>1983</td><td>8. Dezember</td><td>1983</td></tr>
 <tr><td>Madagaskar\*</td><td>16. Juli</td><td>1962 B</td><td>14. Oktober</td><td>1962</td></tr>
+<tr><td>Malawi\*</td><td>4. März</td><td>2021 B</td><td>2. Juni</td><td>2021</td></tr>
 <tr><td>Malaysia\*</td><td>5. November</td><td>1985 B</td><td>3. Februar</td><td>1986</td></tr>
 <tr><td>Malediven</td><td>17. September</td><td>2019 B</td><td>16. Dezember</td><td>2019</td></tr>
 <tr><td>Mali</td><td>8. September</td><td>1994 B</td><td>7. Dezember</td><td>1994</td></tr>
@@ -296,6 +301,7 @@ Geltungsbereich am 8. September 2020**[^t-2]**
 <tr><td>Senegal</td><td>17. Oktober</td><td>1994 B</td><td>15. Januar</td><td>1995</td></tr>
 <tr><td>Serbien\*</td><td>12. März</td><td>2001 N</td><td>27. April</td><td>1992</td></tr>
 <tr><td>Seychellen\*</td><td>3. Februar</td><td>2020 B</td><td>3. Mai</td><td>2020</td></tr>
+<tr><td>Sierra Leone\*</td><td>28. Oktober</td><td>2020 B</td><td>26. Januar</td><td>2021</td></tr>
 <tr><td>Simbabwe</td><td>29. September</td><td>1994 B</td><td>28. Dezember</td><td>1994</td></tr>
 <tr><td>Singapur\*</td><td>21. August</td><td>1986 B</td><td>19. November</td><td>1986</td></tr>
 <tr><td>Slowakei\*</td><td>28. Mai</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
@@ -314,6 +320,7 @@ Geltungsbereich am 8. September 2020**[^t-2]**
 <tr><td>Tschechische Republik\*</td><td>30. September</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Tunesien\*</td><td>17. Juli</td><td>1967 B</td><td>15. Oktober</td><td>1967</td></tr>
 <tr><td>Türkei\*</td><td>2. Juli</td><td>1992 B</td><td>30. September</td><td>1992</td></tr>
+<tr><td>Turkmenistan\*</td><td>4. Mai</td><td>2022 B</td><td>2. August</td><td>2022</td></tr>
 <tr><td>Uganda\*</td><td>12. Februar</td><td>1992 B</td><td>12. Mai</td><td>1992</td></tr>
 <tr><td>Ukraine\*</td><td>10. Oktober</td><td>1960</td><td>8. Januar</td><td>1961</td></tr>
 <tr><td>Ungarn\*</td><td>5. März</td><td>1962 B</td><td>3. Juni</td><td>1962</td></tr>
@@ -334,7 +341,7 @@ Geltungsbereich am 8. September 2020**[^t-2]**
 <tr><td>Vietnam\*</td><td>12. September</td><td>1995 B</td><td>11. Dezember</td><td>1995</td></tr>
 <tr><td>Zentralafrikanische Republik\*</td><td>15. Oktober</td><td>1962 B</td><td>13. Januar</td><td>1963</td></tr>
 <tr><td>Zypern\*</td><td>29. Dezember</td><td>1980 B</td><td>29. März</td><td>1981</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1965 795](https://fedlex.data.admin.ch/eli/oc/1965/795_799_793), [1976 617](https://fedlex.data.admin.ch/eli/oc/1976/617_617_617), [1977 152](https://fedlex.data.admin.ch/eli/oc/1977/152_152_152), [1978 72](https://fedlex.data.admin.ch/eli/oc/1978/72_71_71), [1979 720](https://fedlex.data.admin.ch/eli/oc/1979/720_720_720), [1980 377](https://fedlex.data.admin.ch/eli/oc/1980/377_377_377), [1982 258](https://fedlex.data.admin.ch/eli/oc/1982/258_258_258)[1940](https://fedlex.data.admin.ch/eli/oc/1982/1940_1940_1940), [1983 1192](https://fedlex.data.admin.ch/eli/oc/1983/1192_1192_1192), [1984 309](https://fedlex.data.admin.ch/eli/oc/1984/309_309_309), [1985 173](https://fedlex.data.admin.ch/eli/oc/1985/173_173_173), [1986 337](https://fedlex.data.admin.ch/eli/oc/1986/337_337_337), [1987 712](https://fedlex.data.admin.ch/eli/oc/1987/712_712_712), [1988 2072](https://fedlex.data.admin.ch/eli/oc/1988/2072_2072_2072), [1990 716](https://fedlex.data.admin.ch/eli/oc/1990/716_716_716), [1993 2439](https://fedlex.data.admin.ch/eli/oc/1993/2439_2439_2439), [2004 3889](https://fedlex.data.admin.ch/eli/oc/2004/542), [2007 13](https://fedlex.data.admin.ch/eli/oc/2007/4), [2008 4053](https://fedlex.data.admin.ch/eli/oc/2008/557), [2011 875](https://fedlex.data.admin.ch/eli/oc/2011/132), [2013 1479](https://fedlex.data.admin.ch/eli/oc/2013/345), [2015 751](https://fedlex.data.admin.ch/eli/oc/2015/130), [2018 287](https://fedlex.data.admin.ch/eli/oc/2018/48)und [2020 487](https://fedlex.data.admin.ch/eli/oc/2020/86)[3805](https://fedlex.data.admin.ch/eli/oc/2020/699). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1965 795](https://fedlex.data.admin.ch/eli/oc/1965/795_799_793); [1976 617](https://fedlex.data.admin.ch/eli/oc/1976/617_617_617); [1977 152](https://fedlex.data.admin.ch/eli/oc/1977/152_152_152); [1978 72](https://fedlex.data.admin.ch/eli/oc/1978/72_71_71); [1979 720](https://fedlex.data.admin.ch/eli/oc/1979/720_720_720); [1980 377](https://fedlex.data.admin.ch/eli/oc/1980/377_377_377); [1982 258](https://fedlex.data.admin.ch/eli/oc/1982/258_258_258), [1940](https://fedlex.data.admin.ch/eli/oc/1982/1940_1940_1940); [1983 1192](https://fedlex.data.admin.ch/eli/oc/1983/1192_1192_1192); [1984 309](https://fedlex.data.admin.ch/eli/oc/1984/309_309_309); [1985 173](https://fedlex.data.admin.ch/eli/oc/1985/173_173_173); [1986 337](https://fedlex.data.admin.ch/eli/oc/1986/337_337_337); [1987 712](https://fedlex.data.admin.ch/eli/oc/1987/712_712_712); [1988 2072](https://fedlex.data.admin.ch/eli/oc/1988/2072_2072_2072); [1990 716](https://fedlex.data.admin.ch/eli/oc/1990/716_716_716); [1993 2439](https://fedlex.data.admin.ch/eli/oc/1993/2439_2439_2439); [2004 3889](https://fedlex.data.admin.ch/eli/oc/2004/542); [2007 13](https://fedlex.data.admin.ch/eli/oc/2007/4); [2008 4053](https://fedlex.data.admin.ch/eli/oc/2008/557); [2011 875](https://fedlex.data.admin.ch/eli/oc/2011/132); [2013 1479](https://fedlex.data.admin.ch/eli/oc/2013/345); [2015 751](https://fedlex.data.admin.ch/eli/oc/2015/130); [2018 287](https://fedlex.data.admin.ch/eli/oc/2018/48); [2020 487](https://fedlex.data.admin.ch/eli/oc/2020/86), [3805](https://fedlex.data.admin.ch/eli/oc/2020/699); [2022 284](https://fedlex.data.admin.ch/eli/oc/2022/284). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty

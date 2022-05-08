@@ -3,11 +3,11 @@ sr: "0.277.12"
 title: "Convention du 10 juin 1958 pour la reconnaissance et l'exécution des sentences arbitrales étrangères"
 eli: "https://fedlex.data.admin.ch/eli/cc/1965/795_799_793"
 language: fr
-version: 2020-09-08
+version: 2022-05-09
 adopted: 1958-06-10
 in_force: 1965-08-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/795_799_793/20200908/fr/xml/fedlex-data-admin-ch-eli-cc-1965-795_799_793-20200908-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1965/795_799_793/20200908/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/795_799_793/20220509/fr/xml/fedlex-data-admin-ch-eli-cc-1965-795_799_793-20220509-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1965/795_799_793/20220509/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 1<sup>er</sup> juin 1965
 
 Entrée en vigueur pour la Suisse le 30 août 1965
 
-(Etat le 8 septembre 2020)
+(Etat le 9 mai 2022)
 
 [^t-1]: [RO 1965 797](https://fedlex.data.admin.ch/eli/oc/1965/793_797_791)
 
@@ -159,7 +159,7 @@ Le Secrétaire général de l’Organisation des Nations Unies notifiera à tous
 
 (Suivent les signatures)
 
-Champ d’application le 8 septembre 2020**[^t-2]**
+Champ d’application le 9 mai 2022**[^t-2]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th colspan="2"></th></tr>
@@ -183,6 +183,7 @@ Champ d’application le 8 septembre 2020**[^t-2]**
 <tr><td>Barbade\*</td><td>16 mars</td><td>1993 A</td><td>14 juin</td><td colspan="2">1993</td></tr>
 <tr><td>Bélarus\*</td><td>15 novembre</td><td>1960</td><td>13 février</td><td colspan="2">1961</td></tr>
 <tr><td>Belgique\*</td><td>18 août</td><td>1975</td><td>16 novembre</td><td colspan="2">1975</td></tr>
+<tr><td>Belize<sup>\*</sup></td><td>15 mars</td><td>2021 A</td><td>13 juin</td><td colspan="2">2021</td></tr>
 <tr><td>Bénin</td><td>16 mai</td><td>1974 A</td><td>14 août</td><td colspan="2">1974</td></tr>
 <tr><td>Bhoutan\*</td><td>25 septembre</td><td>2014 A</td><td>24 décembre</td><td colspan="2">2014</td></tr>
 <tr><td>Bolivie</td><td>28 avril</td><td>1995 A</td><td>27 juillet</td><td colspan="2">1995</td></tr>
@@ -243,6 +244,7 @@ Champ d’application le 8 septembre 2020**[^t-2]**
 <tr><td>Inde\*</td><td>13 juillet</td><td>1960</td><td>11 octobre</td><td colspan="2">1960</td></tr>
 <tr><td>Indonésie\*</td><td>7 octobre</td><td>1981 A</td><td>5 janvier</td><td colspan="2">1982</td></tr>
 <tr><td>Iran\*</td><td>15 octobre</td><td>2001 A</td><td>13 janvier</td><td colspan="2">2002</td></tr>
+<tr><td>Iraq<sup>\*</sup></td><td>11 novembre</td><td>2021 A</td><td>9 février</td><td colspan="2">2022</td></tr>
 <tr><td>Irlande\*</td><td>12 mai</td><td>1981 A</td><td>10 août</td><td colspan="2">1981</td></tr>
 <tr><td>Islande</td><td>24 janvier</td><td>2002 A</td><td>24 avril</td><td colspan="2">2002</td></tr>
 <tr><td>Israël\*</td><td>5 janvier</td><td>1959</td><td>7 juin</td><td colspan="2">1959</td></tr>
@@ -265,6 +267,7 @@ Champ d’application le 8 septembre 2020**[^t-2]**
 <tr><td>Macédoine du Nord</td><td>10 mars</td><td>1994 S</td><td colspan="2">17 novembre</td><td>1991</td></tr>
 <tr><td>Madagascar\*</td><td>16 juillet</td><td>1962 A</td><td>14 octobre</td><td colspan="2">1962</td></tr>
 <tr><td>Malaisie\*</td><td>5 novembre</td><td>1985 A</td><td>3 février</td><td colspan="2">1986</td></tr>
+<tr><td>Malawi<sup>\*</sup></td><td>4 mars</td><td>2021 A</td><td>2 juin</td><td colspan="2">2021</td></tr>
 <tr><td>Maldives</td><td>17 septembre</td><td>2019 A</td><td>16 décembre</td><td colspan="2">2019</td></tr>
 <tr><td>Mali</td><td>8 septembre</td><td>1994 A</td><td>7 décembre</td><td colspan="2">1994</td></tr>
 <tr><td>Malte\*</td><td>22 juin</td><td>2000 A</td><td>20 septembre</td><td colspan="2">2000</td></tr>
@@ -323,6 +326,7 @@ Champ d’application le 8 septembre 2020**[^t-2]**
 <tr><td>Sénégal</td><td>17 octobre</td><td>1994 A</td><td>15 janvier</td><td colspan="2">1995</td></tr>
 <tr><td>Serbie\*</td><td>12 mars</td><td>2001 S</td><td>27 avril</td><td colspan="2">1992</td></tr>
 <tr><td>Seychelles\*</td><td>3 février</td><td>2020 A</td><td>3 mai</td><td colspan="2">2020</td></tr>
+<tr><td>Sierra Leone<sup>\*</sup></td><td>28 octobre</td><td>2020 A</td><td>26 janvier</td><td colspan="2">2021</td></tr>
 <tr><td>Singapour\*</td><td>21 août</td><td>1986 A</td><td>19 novembre</td><td colspan="2">1986</td></tr>
 <tr><td>Slovaquie\*</td><td>28 mai</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td colspan="2">1993</td></tr>
 <tr><td>Slovénie</td><td>6 juillet</td><td>1992 S</td><td colspan="2">25 juin</td><td>1991</td></tr>
@@ -337,6 +341,7 @@ Champ d’application le 8 septembre 2020**[^t-2]**
 <tr><td>Tonga\*</td><td>12 juin</td><td>2020 A</td><td>10 septembre</td><td colspan="2">2020</td></tr>
 <tr><td>Trinité-et-Tobago\*</td><td>14 février</td><td>1966 A</td><td>15 mai</td><td colspan="2">1966</td></tr>
 <tr><td>Tunisie\*</td><td>17 juillet</td><td>1967 A</td><td>15 octobre</td><td colspan="2">1967</td></tr>
+<tr><td>Turkménistan<sup>\*</sup></td><td>4 mai</td><td>2022 A</td><td>2 août</td><td colspan="2">2022</td></tr>
 <tr><td>Turquie\*</td><td>2 juillet</td><td>1992 A</td><td>30 septembre</td><td colspan="2">1992</td></tr>
 <tr><td>Ukraine\*</td><td>10 octobre</td><td>1960</td><td>8 janvier</td><td colspan="2">1961</td></tr>
 <tr><td>Uruguay</td><td>30 mars</td><td>1983 A</td><td>28 juin</td><td colspan="2">1983</td></tr>
@@ -347,4 +352,4 @@ Champ d’application le 8 septembre 2020**[^t-2]**
 <tr><td colspan="6">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 1965 799](https://fedlex.data.admin.ch/eli/oc/1965/795_799_793), [1976 617](https://fedlex.data.admin.ch/eli/oc/1976/617_617_617), [1977 151](https://fedlex.data.admin.ch/eli/oc/1977/151_151_151), [1978 71](https://fedlex.data.admin.ch/eli/oc/1978/72_71_71), [1979 720](https://fedlex.data.admin.ch/eli/oc/1979/720_720_720), [1980 377](https://fedlex.data.admin.ch/eli/oc/1980/377_377_377), [1982 258](https://fedlex.data.admin.ch/eli/oc/1982/258_258_258)[1940](https://fedlex.data.admin.ch/eli/oc/1982/1940_1940_1940), [1983 1192](https://fedlex.data.admin.ch/eli/oc/1983/1192_1192_1192), [1984 309](https://fedlex.data.admin.ch/eli/oc/1984/309_309_309), [1985 173](https://fedlex.data.admin.ch/eli/oc/1985/173_173_173), [1986 337](https://fedlex.data.admin.ch/eli/oc/1986/337_337_337), [1987 712](https://fedlex.data.admin.ch/eli/oc/1987/712_712_712), [1988 2072](https://fedlex.data.admin.ch/eli/oc/1988/2072_2072_2072), [1990 716](https://fedlex.data.admin.ch/eli/oc/1990/716_716_716), [1993 2439](https://fedlex.data.admin.ch/eli/oc/1993/2439_2439_2439), [2004 3889](https://fedlex.data.admin.ch/eli/oc/2004/542), [2007 13](https://fedlex.data.admin.ch/eli/oc/2007/4), [2008 4053](https://fedlex.data.admin.ch/eli/oc/2008/557), [2011 875](https://fedlex.data.admin.ch/eli/oc/2011/132), [2013 1479](https://fedlex.data.admin.ch/eli/oc/2013/345), [2015 751](https://fedlex.data.admin.ch/eli/oc/2015/130), [2018 287](https://fedlex.data.admin.ch/eli/oc/2018/48), [2020 487](https://fedlex.data.admin.ch/eli/oc/2020/86)[3805](https://fedlex.data.admin.ch/eli/oc/2020/699). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1965 799](https://fedlex.data.admin.ch/eli/oc/1965/795_799_793); [1976 617](https://fedlex.data.admin.ch/eli/oc/1976/617_617_617); [1977 152](https://fedlex.data.admin.ch/eli/oc/1977/152_152_152); [1978 71](https://fedlex.data.admin.ch/eli/oc/1978/72_71_71); [1979 720](https://fedlex.data.admin.ch/eli/oc/1979/720_720_720); [1980 377](https://fedlex.data.admin.ch/eli/oc/1980/377_377_377); [1982 258](https://fedlex.data.admin.ch/eli/oc/1982/258_258_258), [1940](https://fedlex.data.admin.ch/eli/oc/1982/1940_1940_1940); [1983 1192](https://fedlex.data.admin.ch/eli/oc/1983/1192_1192_1192); [1984 309](https://fedlex.data.admin.ch/eli/oc/1984/309_309_309); [1985 173](https://fedlex.data.admin.ch/eli/oc/1985/173_173_173); [1986 337](https://fedlex.data.admin.ch/eli/oc/1986/337_337_337); [1987 712](https://fedlex.data.admin.ch/eli/oc/1987/712_712_712); [1988 2072](https://fedlex.data.admin.ch/eli/oc/1988/2072_2072_2072); [1990 716](https://fedlex.data.admin.ch/eli/oc/1990/716_716_716); [1993 2439](https://fedlex.data.admin.ch/eli/oc/1993/2439_2439_2439); [2004 3889](https://fedlex.data.admin.ch/eli/oc/2004/542); [2007 13](https://fedlex.data.admin.ch/eli/oc/2007/4); [2008 4053](https://fedlex.data.admin.ch/eli/oc/2008/557); [2011 875](https://fedlex.data.admin.ch/eli/oc/2011/132); [2013 1479](https://fedlex.data.admin.ch/eli/oc/2013/345); [2015 751](https://fedlex.data.admin.ch/eli/oc/2015/130); [2018 287](https://fedlex.data.admin.ch/eli/oc/2018/48); [2020 487](https://fedlex.data.admin.ch/eli/oc/2020/86), [3805](https://fedlex.data.admin.ch/eli/oc/2020/699); [2022 284](https://fedlex.data.admin.ch/eli/oc/2022/284). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
