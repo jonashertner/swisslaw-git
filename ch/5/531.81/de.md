@@ -1,0 +1,86 @@
+---
+sr: "531.81"
+title: Verordnung vom 4. Mai 2022 über die Organisation zur Sicherstellung der wirtschaftlichen Landesversorgung im Bereich der Gaswirtschaft (VOGW)
+short: VOGW
+eli: "https://fedlex.data.admin.ch/eli/cc/2022/278"
+language: de
+version: 2022-05-09
+adopted: 2022-05-04
+in_force: 2022-05-09
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/278/20220509/de/xml/fedlex-data-admin-ch-eli-cc-2022-278-20220509-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/278/20220509/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung über die Organisation zur Sicherstellung der wirtschaftlichen Landesversorgung im Bereich der Gaswirtschaft
+
+(VOGW)
+
+vom 4. Mai 2022 (Stand am 9. Mai 2022)
+
+Der Schweizerische Bundesrat,
+
+gestützt auf die Artikel 57 Absatz 1 und 60 Absatz 1 des Landesversorgungsgesetzes vom 17. Juni 2016[^ingress-1] (LVG),
+
+verordnet:
+
+[^ingress-1]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+
+#### Art. 1
+
+**Aufgaben des VSG**
+
+<sup>1</sup> Der Verband der schweizerischen Gasindustrie (VSG) trifft für den Fall einer schweren Mangellage in den Bereichen Beschaffung, Speicherung, Transport, Verteilung und Verbrauch von Erdgas und von gasförmigen Energieträgern aus erneuerbaren Quellen die notwendigen Vorbereitungsmassnahmen.
+
+<sup>2</sup>
+
+Er erstellt zuhanden des Fachbereichs Energie ein Konzept über die Art und den Umfang der Daten, die erforderlich sind zur:
+
+- a. Beobachtung der Versorgungslage;
+- b. Vorbereitung und Umsetzung von Massnahmen zur Sicherstellung der Versorgung des Landes mit Erdgas und gasförmigen Energieträgern aus erneuerbaren Quellen.
+- [tab] <sup>3</sup> Er wahrt bei der Erfüllung seiner Aufgaben die Interessen der Verbraucher von Erdgas und von gasförmigen Energieträgern aus erneuerbaren Quellen.
+
+#### Art. 2
+
+**Kriseninterventionsorganisation**
+
+<sup>1</sup> Der VSG schafft zur Sicherstellung der Versorgung des Landes mit Erdgas und gasförmigen Energieträgern aus erneuerbaren Quellen und zum Vollzug der vorbereiteten Massnahmen eine Kriseninterventionsorganisation.
+
+<sup>2</sup> Er zieht Verbraucher von Erdgas und von gasförmigen Energieträgern aus erneuerbaren Quellen, die nicht Mitglieder des VSG sind, namentlich bestehende Interessensgemeinschaften, zur Mitwirkung in der Kriseninterventionsorganisation bei.
+
+<sup>3</sup> Nichtmitglieder des VSG können sich der Kriseninterventionsorganisation freiwillig unterstellen.
+
+#### Art. 3
+
+**Aufgaben des Fachbereichs Energie**
+
+<sup>1</sup> Der Fachbereich Energie bestimmt Art und Umfang der Vorbereitungsmassnahmen des VSG.
+
+<sup>2</sup> Er überwacht die Arbeiten des VSG und von dessen Kriseninterventionsorganisation und erteilt ihnen Weisungen.
+
+#### Art. 4
+
+**Zusammenarbeit**
+
+Der Fachbereich Energie und der VSG arbeiten im Fall einer schweren Mangellage mit dem Bundesamt für Energie, dem Bundesamt für Bevölkerungsschutz, der Armee und weiteren relevanten Stellen von Bund und Kantonen zusammen.
+
+#### Art. 5
+
+**Entschädigung**
+
+Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung legt im Rahmen der bewilligten Mittel die Entschädigung des VSG für die Erfüllung der Aufgaben nach Artikel 1 fest.
+
+#### Art. 6
+
+**Vollzug**
+
+Der Fachbereich Energie vollzieht diese Verordnung.
+
+#### Art. 7
+
+**Inkrafttreten und Geltungsdauer**
+
+<sup>1</sup> Diese Verordnung tritt am 9. Mai 2022 in Kraft.
+
+<sup>2</sup> Sie gilt bis zum 31. Mai 2023.
