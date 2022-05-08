@@ -3,11 +3,11 @@ sr: "0.103.2"
 title: Patto internazionale del 16 dicembre 1966 relativo ai diritti civili e politici
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/750_750_750"
 language: it
-version: 2022-01-24
+version: 2022-05-09
 adopted: 1966-12-16
 in_force: 1992-09-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/750_750_750/20220124/it/xml/fedlex-data-admin-ch-eli-cc-1993-750_750_750-20220124-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/750_750_750/20220124/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/750_750_750/20220509/it/xml/fedlex-data-admin-ch-eli-cc-1993-750_750_750-20220509-it-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/750_750_750/20220509/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Nuova York il 16 dicembre 1966 Approvato dall’Assemblea federale il 13 dicembre 1991[^t-1] Istrumento d’adesione depositato dalla Svizzera il 18 giugno 1992 Entrato in vigore per la Svizzera il 18 settembre 1992
 
-(Stato 24 gennaio 2022)
+(Stato 9 maggio 2022)
 
 [^t-1]: [RU 1993 747](https://fedlex.data.admin.ch/eli/oc/1993/747_747_747)
 
@@ -38,7 +38,7 @@ considerato infine che l’individuo, in quanto ha dei doveri verso gli altri e 
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## Parte prima
 
@@ -243,7 +243,7 @@ L’esercizio delle libertà previste al paragrafo 2 del presente articolo compo
 
 <sup>3.</sup> Nessuna disposizione del presente articolo autorizza gli Stati parti della Convenzione dei 1948[^22-1] dell’Organizzazione Internazionale del Lavoro, concernente la libertà sindacale e la tutela del diritto sindacale, a adottare delle misure legislative che causino pregiudizio – o applicare la legge in modo da causare pregiudizio – alle garanzie previste dalla detta Convenzione.
 
-[^22-1]: [RS 0.822.719.7](https://fedlex.data.admin.ch/eli/cc/1976/689_689_689)
+[^22-1]: [RS 0.822.719.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3622)
 
 #### Art. 23
 
@@ -269,7 +269,7 @@ Ogni cittadino ha il diritto, e deve avere la possibilità, senza alcuna delle d
 
 - a) di partecipare alla direzione degli affari pubblici, personalmente o attraverso rappresentanti liberamente scelti;
 - b) di votare e di essere eletto, nel corso di elezioni periodiche, veritiere, effettuate a suffragio universale ed eguale, ed a voto segreto, che garantiscano la libera espressione della volontà degli elettori;
-- c) di accedere, in condizioni generali di eguaglianza, ai pubblici impieghi dei proprio Paese.
+- c) di accedere, in condizioni generali di eguaglianza, ai pubblici impieghi del proprio Paese.
 
 #### Art. 26
 
@@ -471,11 +471,11 @@ Nessuna disposizione del presente Patto può essere interpretata in senso lesivo
 
 <sup>5.</sup> Il Segretario generale delle Nazioni Unite informerà tutti gli Stati che abbiano firmato il presente Patto, o che vi abbiano aderito, dei deposito di ogni strumento di ratifica o di adesione.
 
-[^48-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^48-1]: [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 49
 
-l. Il presente Patto entrerà in vigore tre mesi dopo la data del deposito presso il Segretario generale delle Nazioni Unite del trentacinquesimo strumento di ratifica o di adesione.
+<sup>1.</sup> Il presente Patto entrerà in vigore tre mesi dopo la data del deposito presso il Segretario generale delle Nazioni Unite del trentacinquesimo strumento di ratifica o di adesione.
 
 <sup>2.</sup> Per ognuno degli Stati che ratificheranno il presente Patto o vi aderiranno successivamente al deposito dei trentacinquesimo strumento di ratifica o di adesione, il Patto medesimo entrerà in vigore tre mesi dopo la data del deposito, da parte di tale Stato, dei suo strumento di ratifica o di adesione.
 
@@ -506,7 +506,7 @@ Indipendentemente dalle notifiche effettuate ai sensi dei paragrafo 5 dell’art
 
 (Seguono le firme)
 
-Campo d’applicazione il 28 maggio 2019**[^t-2]**
+Campo d’applicazione il 9 maggio 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -515,6 +515,7 @@ Campo d’applicazione il 28 maggio 2019**[^t-2]**
 <tr><td>Algeria<sup>\*</sup></td><td>12 settembre</td><td>1989</td><td>12 dicembre</td><td>1989</td></tr>
 <tr><td>Andorra</td><td>22 settembre</td><td>2006</td><td>22 dicembre</td><td>2006</td></tr>
 <tr><td>Angola</td><td>10 gennaio</td><td>1992 A</td><td>10 aprile</td><td>1992</td></tr>
+<tr><td>Antigua e Barbuda</td><td>3 luglio</td><td>2019 A</td><td>3 ottobre</td><td>2019</td></tr>
 <tr><td>Argentina<sup>\*</sup></td><td>8 agosto</td><td>1986</td><td>8 novembre</td><td>1986</td></tr>
 <tr><td>Armenia</td><td>23 giugno</td><td>1993 A</td><td>23 settembre</td><td>1993</td></tr>
 <tr><td>Australia<sup>\* \*\*</sup></td><td>13 agosto</td><td>1980</td><td>13 novembre</td><td>1980</td></tr>
@@ -696,23 +697,23 @@ Campo d’applicazione il 28 maggio 2019**[^t-2]**
 <tr><td>Uruguay<sup>\*\*</sup></td><td>1° aprile</td><td>1970</td><td>23 marzo</td><td>1976</td></tr>
 <tr><td>Uzbekistan</td><td>28 settembre</td><td>1995 A</td><td>28 dicembre</td><td>1995</td></tr>
 <tr><td>Vanuatu</td><td>21 novembre</td><td>2008</td><td>21 febbraio</td><td>2009</td></tr>
-<tr><td>Venezuela<sup>\*</sup></td><td>10 maggio</td><td>1978</td><td>10 agosto</td><td>1978</td></tr>
+<tr><td>Venezuela</td><td>10 maggio</td><td>1978</td><td>10 agosto</td><td>1978</td></tr>
 <tr><td>Vietnam<sup>\*</sup></td><td>24 settembre</td><td>1982 A</td><td>24 dicembre</td><td>1982</td></tr>
 <tr><td>Yemen<sup>\*</sup></td><td>9 febbraio</td><td>1987 A</td><td>9 maggio</td><td>1987</td></tr>
 <tr><td>Zambia</td><td>10 aprile</td><td>1984 A</td><td>10 luglio</td><td>1984</td></tr>
 <tr><td>Zimbabwe\*</td><td>13 maggio</td><td>1991 A</td><td>13 agosto</td><td>1991</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, le dichiarazioni e le obiezioni non sono pubblicate nella RU, eccetto le riserve e le dichiarazioni della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazio-nali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, le dichiarazioni e le obiezioni non sono pubblicate nella RU, eccetto le riserve e dichiarazioni della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 1993 750](https://fedlex.data.admin.ch/eli/oc/1993/750_750_750)[3103](https://fedlex.data.admin.ch/eli/oc/1993/3103_3103_3103), [1996 717](https://fedlex.data.admin.ch/eli/oc/1996/717_717_717), [2003 4079](https://fedlex.data.admin.ch/eli/oc/2003/604), [2004 1375](https://fedlex.data.admin.ch/eli/oc/2004/167), [2005 2615](https://fedlex.data.admin.ch/eli/oc/2005/452), [2007 415](https://fedlex.data.admin.ch/eli/oc/2007/82)[3837](https://fedlex.data.admin.ch/eli/oc/2007/496), [2008 645](https://fedlex.data.admin.ch/eli/oc/2008/153), [2009 7097](https://fedlex.data.admin.ch/eli/oc/2009/856), [2011 6527](https://fedlex.data.admin.ch/eli/oc/2011/904), [2016 3149](https://fedlex.data.admin.ch/eli/oc/2016/524), [2017 2247](https://fedlex.data.admin.ch/eli/oc/2017/208)e [2019 1791](https://fedlex.data.admin.ch/eli/oc/2019/328). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1993 750](https://fedlex.data.admin.ch/eli/oc/1993/750_750_750), [3103](https://fedlex.data.admin.ch/eli/oc/1993/3103_3103_3103); [1996 717](https://fedlex.data.admin.ch/eli/oc/1996/717_717_717); [2003 4079](https://fedlex.data.admin.ch/eli/oc/2003/604); [2004 1375](https://fedlex.data.admin.ch/eli/oc/2004/167); [2005 2615](https://fedlex.data.admin.ch/eli/oc/2005/452); [2007 415](https://fedlex.data.admin.ch/eli/oc/2007/82), [3837](https://fedlex.data.admin.ch/eli/oc/2007/496); [2008 645](https://fedlex.data.admin.ch/eli/oc/2008/153); [2009 7097](https://fedlex.data.admin.ch/eli/oc/2009/856); [2011 6527](https://fedlex.data.admin.ch/eli/oc/2011/904); [2016 3149](https://fedlex.data.admin.ch/eli/oc/2016/524); [2019 1791](https://fedlex.data.admin.ch/eli/oc/2019/328); [2022 283](https://fedlex.data.admin.ch/eli/oc/2022/283). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
 
-Rinnovo della dichiarazione della Svizzera in merito al riconoscimento della competenza del Comitato dei diritti dell’uomo in virtù dell’articolo 41**[^t-3]**
+Rinnovo della dichiarazione della Svizzera in merito al riconoscimento della competenza del Comitato dei diritti dell’uomo in virtù dell’articolo 41[^t-3]
 
 Conformemente al paragrafo 1 dell’articolo 41 del Patto, il 27 marzo 2017 la Svizzera ha notificato al Segretario generale delle Nazioni Unite la propria decisione di riconoscere per un periodo di cinque anni (a decorrere dal 27 marzo 2017) la competenza del Comitato dei diritti dell’uomo di ricevere ed esaminare comunicazioni nelle quali uno Stato Parte pretende che un altro Stato parte non adempia agli obblighi derivanti dal Patto.
 
 [^t-3]: [RU 2017 2247](https://fedlex.data.admin.ch/eli/oc/2017/208)
 
-Rinnovo della dichiarazione della Svizzera in merito al riconoscimento della competenza del Comitato dei diritti dell’uomo in virtù dell’articolo 41**[^t-4]**
+Rinnovo della dichiarazione della Svizzera in merito al riconoscimento della competenza del Comitato dei diritti dell’uomo in virtù dell’articolo 41[^t-4]
 
 Conformemente al paragrafo 1 dell’articolo 41 del Patto, il 24 gennaio 2022 la Svizzera ha notificato al Segretario generale delle Nazioni Unite la propria decisione di riconoscere per un periodo di cinque anni la competenza del Comitato dei diritti dell’uomo di ricevere ed esaminare comunicazioni nelle quali uno Stato Parte pretende che un altro Stato parte non adempia agli obblighi derivanti dal Patto.
 
@@ -720,9 +721,9 @@ Conformemente al paragrafo 1 dell’articolo 41 del Patto, il 24 gennaio 2022 la
 
 Altre riserve e dichiarazioni
 
-Svizzera**[^t-5]**
+Svizzera[^t-5]
 
-Articolo 10 paragrafo 2 lettera b*[^t-6]*
+Articolo 10 paragrafo 2 lettera b[^t-6]
 
 ...
 
@@ -730,15 +731,15 @@ Articolo 12 paragrafo 1
 
 Il diritto di circolare e di scegliere liberamente la propria residenza è applicabile con riserva delle disposizioni della legislazione federale sugli stranieri, secondo cui i permessi di soggiorno e di domicilio sono validi soltanto per il Cantone che li ha concessi.
 
-Articolo 14 paragrafo 1*[^t-7]*
+Articolo 14 paragrafo 1[^t-7]
 
 ...
 
-Articolo 14 paragrafo 3 lettere d e f*[^t-8]*
+Articolo 14 paragrafo 3 lettere d e f[^t-8]
 
 ...
 
-Articolo 14 paragrafo 5*[^t-9]*
+Articolo 14 paragrafo 5[^t-9]
 
 ...
 

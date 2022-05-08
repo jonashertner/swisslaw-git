@@ -3,11 +3,11 @@ sr: "0.103.2"
 title: Pacte international du 16 décembre 1966 relatif aux droits civils et politiques
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/750_750_750"
 language: fr
-version: 2022-01-24
+version: 2022-05-09
 adopted: 1966-12-16
 in_force: 1992-09-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/750_750_750/20220124/fr/xml/fedlex-data-admin-ch-eli-cc-1993-750_750_750-20220124-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/750_750_750/20220124/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/750_750_750/20220509/fr/xml/fedlex-data-admin-ch-eli-cc-1993-750_750_750-20220509-fr-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/750_750_750/20220509/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **1993** 750; FF **1991** I 1129
 
 Texte original
 
-Conclu à New York le 16 décembre 1966
+Conclu à New York le 16 décembre 1966 Approuvé par l’Assemblée fédérale le 13 décembre 1991[^t-1] Instrument d’adhésion déposé par la Suisse le 18 juin 1992 Entré en vigueur pour la Suisse le 18 septembre 1992
 
-Approuvé par l’Assemblée fédérale le 13 décembre 1991[^t-1]
-
-Instrument d’adhésion déposé par la Suisse le 18 juin 1992
-
-Entré en vigueur pour la Suisse le 18 septembre 1992
-
-(Etat le 24 janvier 2022)
+(État le 9 mai 2022)
 
 [^t-1]: [RO 1993 747](https://fedlex.data.admin.ch/eli/oc/1993/747_747_747)
 
@@ -44,7 +38,7 @@ prenant en considération le fait que l’individu a des devoirs envers autrui e
 
 sont convenus des articles suivants:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## Première partie
 
@@ -249,7 +243,7 @@ Le droit de réunion pacifique est reconnu. L’exercice de ce droit ne peut fai
 
 <sup>3.</sup> Aucune disposition du présent article ne permet aux États parties à la Convention de 1948[^22-1] de l’Organisation internationale du Travail concernant la liberté syndicale et la protection du droit syndical de prendre des mesures législatives portant atteinte – ou d’appliquer la loi de façon à porter atteinte – aux garanties prévues dans ladite convention.
 
-[^22-1]: [RS 0.822.719.7](https://fedlex.data.admin.ch/eli/cc/1976/689_689_689)
+[^22-1]: [RS 0.822.719.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3622)
 
 #### Art. 23
 
@@ -389,7 +383,7 @@ Les États parties au présent Pacte s’engagent à présenter des rapports sur
 
 #### Art. 41
 
-<sup>1.</sup>
+<sup>1.</sup> Pour chaque affaire, le rapport est communiqué aux États parties intéressés.
 
 Tout État partie au présent Pacte peut, en vertu du présent article, déclarer à tout moment qu’il reconnaît la compétence du Comité pour recevoir et examiner des communications dans lesquelles un État partie prétend qu’un autre État partie ne s’acquitte pas de ses obligations au titre du présent Pacte. Les communications présentées en vertu du présent article ne peuvent être reçues et examinées que si elles émanent d’un État partie qui a fait une déclaration reconnaissant, en ce qui le concerne, la compétence du Comité. Le Comité ne reçoit aucune communication intéressant un État partie qui n’a pas fait une telle déclaration. La procédure ci-après s’applique à l’égard des communications reçues conformément au présent article:
 
@@ -407,8 +401,6 @@ Tout État partie au présent Pacte peut, en vertu du présent article, déclare
 
   - i) si une solution a pu être trouvée conformément aux dispositions de l’alinéa e, le Comité se borne, dans son rapport, à un bref exposé des faits et de la solution intervenue,
   - ii) si une solution n’a pu être trouvée conformément aux dispositions de l’alinéa e, le Comité se borne, dans son rapport, à un bref exposé des faits; le texte des observations écrites et le procès-verbal des observations orales présentées par les États parties intéressés sont joints au rapport.
-
-- Pour chaque affaire, le rapport est communiqué aux États parties intéressés.
 
 <sup>2.</sup> Les dispositions du présent article entreront en vigueur lorsque dix États parties au présent Pacte auront fait la déclaration prévue au paragraphe 1 du présent article. Ladite déclaration est déposée par l’État partie auprès du Secrétaire général de l’Organisation des Nations Unies, qui en communique copie aux autres États parties. Une déclaration peut être retirée à tout moment au moyen d’une notification adressée au Secrétaire général. Ce retrait est sans préjudice de l’examen de toute question qui fait l’objet d’une communication déjà transmise en vertu du présent article; aucune autre communication d’un État partie ne sera reçue après que le Secrétaire général aura reçu notification du retrait de la déclaration, à moins que l’État partie intéressé n’ait fait une nouvelle déclaration.
 
@@ -478,7 +470,7 @@ Aucune disposition du présent Pacte ne sera interprétée comme portant atteint
 
 <sup>5.</sup> Le Secrétaire général de l’Organisation des Nations Unies informe tous les États qui ont signé le présent Pacte ou qui y ont adhéré du dépôt de chaque instrument de ratification ou d’adhésion.
 
-[^48-1]: RS **0.193**.**501**
+[^48-1]: [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 49
 
@@ -513,7 +505,7 @@ Indépendamment des notifications prévues au par. 5 de l’art. 48, le Secréta
 
 (Suivent les signatures)
 
-Champ d’application le 28 mai 2019**[^t-2]**
+Champ d’application le 9 mai 2022[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -524,6 +516,7 @@ Champ d’application le 28 mai 2019**[^t-2]**
 <tr><td>Allemagne\* \*\*</td><td>17 décembre</td><td>1973</td><td>3 janvier</td><td>1976</td></tr>
 <tr><td>Andorre</td><td>22 septembre</td><td>2006</td><td>22 décembre</td><td>2006</td></tr>
 <tr><td>Angola</td><td>10 janvier</td><td>1992 A</td><td>10 avril</td><td>1992</td></tr>
+<tr><td>Antigua-et-Barbuda</td><td>3 juillet</td><td>2019 A</td><td>3 octobre</td><td>2019</td></tr>
 <tr><td>Argentine\*</td><td>8 août</td><td>1986</td><td>8 novembre</td><td>1986</td></tr>
 <tr><td>Arménie</td><td>23 juin</td><td>1993 A</td><td>23 septembre</td><td>1993</td></tr>
 <tr><td>Australie\* \*\*</td><td>13 août</td><td>1980</td><td>13 novembre</td><td>1980</td></tr>
@@ -703,23 +696,23 @@ Champ d’application le 28 mai 2019**[^t-2]**
 <tr><td>Ukraine\*</td><td>12 novembre</td><td>1973</td><td>23 mars</td><td>1976</td></tr>
 <tr><td>Uruguay\*\*</td><td>1<sup>er</sup> avril</td><td>1970</td><td>23 mars</td><td>1976</td></tr>
 <tr><td>Vanuatu</td><td>21 novembre</td><td>2008</td><td>21 février</td><td>2009</td></tr>
-<tr><td>Venezuela\*</td><td>10 mai</td><td>1978</td><td>10 août</td><td>1978</td></tr>
+<tr><td>Venezuela</td><td>10 mai</td><td>1978</td><td>10 août</td><td>1978</td></tr>
 <tr><td>Vietnam\*</td><td>24 septembre</td><td>1982 A</td><td>24 décembre</td><td>1982</td></tr>
 <tr><td>Yémen\*</td><td>9 février</td><td>1987 A</td><td>9 mai</td><td>1987</td></tr>
 <tr><td>Zambie</td><td>10 avril</td><td>1984 A</td><td>10 juillet</td><td>1984</td></tr>
 <tr><td>Zimbabwe\*</td><td>13 mai</td><td>1991 A</td><td>13 août</td><td>1991</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: RO **1993** 769 [3103](https://fedlex.data.admin.ch/eli/oc/1993/3103_3103_3103), [1996 717](https://fedlex.data.admin.ch/eli/oc/1996/717_717_717), [2003 4079](https://fedlex.data.admin.ch/eli/oc/2003/604), [2004 1375](https://fedlex.data.admin.ch/eli/oc/2004/167), [2005 2615](https://fedlex.data.admin.ch/eli/oc/2005/452), [2007 415](https://fedlex.data.admin.ch/eli/oc/2007/82)[3837](https://fedlex.data.admin.ch/eli/oc/2007/496), [2008 645](https://fedlex.data.admin.ch/eli/oc/2008/153), [2009 7097](https://fedlex.data.admin.ch/eli/oc/2009/856), [2010 2987](https://fedlex.data.admin.ch/eli/oc/2010/399), [2011 6527](https://fedlex.data.admin.ch/eli/oc/2011/904), [2016 3149](https://fedlex.data.admin.ch/eli/oc/2016/524), [2019 1791](https://fedlex.data.admin.ch/eli/oc/2019/328). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1993 750](https://fedlex.data.admin.ch/eli/oc/1993/750_750_750), [3103](https://fedlex.data.admin.ch/eli/oc/1993/3103_3103_3103); [1996 717](https://fedlex.data.admin.ch/eli/oc/1996/717_717_717); [2003 4079](https://fedlex.data.admin.ch/eli/oc/2003/604); [2004 1375](https://fedlex.data.admin.ch/eli/oc/2004/167); [2005 2615](https://fedlex.data.admin.ch/eli/oc/2005/452); [2007 415](https://fedlex.data.admin.ch/eli/oc/2007/82), [3837](https://fedlex.data.admin.ch/eli/oc/2007/496); [2008 645](https://fedlex.data.admin.ch/eli/oc/2008/153); [2009 7097](https://fedlex.data.admin.ch/eli/oc/2009/856); [2011 6527](https://fedlex.data.admin.ch/eli/oc/2011/904); [2016 3149](https://fedlex.data.admin.ch/eli/oc/2016/524); [2019 1791](https://fedlex.data.admin.ch/eli/oc/2019/328); [2022 283](https://fedlex.data.admin.ch/eli/oc/2022/283). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty)
 
-Renouvellement de la déclaration de la Suisse reconnaissant la compétence du Comité des droits de l’homme en vertu de l’art. 41**[^t-3]**
+Renouvellement de la déclaration de la Suisse reconnaissant la compétence du Comité des droits de l’homme en vertu de l’art. 41[^t-3]
 
 Le 27 mars 2017, la Suisse a notifié au Secrétaire général des Nations Unies sa décision, conformément au par. 1 de l’art. 41 du Pacte de reconnaître pour une période de cinq ans (à partir du 27 mars 2017) la compétence du Comité des droits de l’homme pour recevoir et examiner des communications dans lesquelles un État partie prétend qu’un autre État partie ne s’acquitte pas de ses obligations découlant du Pacte.
 
 [^t-3]: [RO 2017 2247](https://fedlex.data.admin.ch/eli/oc/2017/208)
 
-Renouvellement de la déclaration de la Suisse reconnaissant la compétence du Comité des droits de l’homme en vertu de l’art. 41**[^t-4]**
+Renouvellement de la déclaration de la Suisse reconnaissant la compétence du Comité des droits de l’homme en vertu de l’art. 41[^t-4]
 
 Le 24 janvier 2022, la Suisse a notifié au Secrétaire général des Nations Unies sa décision, conformément au par. 1 de l’art. 41 du Pacte de reconnaître pour une période de cinq ans la compétence du Comité des droits de l’homme pour recevoir et examiner des communications dans lesquelles un État partie prétend qu’un autre État partie ne s’acquitte pas de ses obligations découlant du Pacte.
 
