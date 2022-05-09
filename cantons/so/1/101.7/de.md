@@ -4,13 +4,13 @@ number: "101.7"
 title: Verordnung 2 über Härtefallmassnahmen für Unternehmen im Zusammenhang mit Covid-19
 short: HFV 2020
 language: de
-version: 2022-05-01
-valid_until: 2022-05-09
-version_adopted: 2022-04-26
+version: 2022-05-10
+valid_until: 2023-02-21
+version_adopted: 2022-05-09
 adopted: 2022-02-22
 in_force: 2022-02-23
 url: "https://bgs.so.ch/app/de/texts_of_law/101.7"
-pdf: "https://bgs.so.ch/api/de/versions/5289/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5290/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5289/pdf_file"
 
 (HFV 2020)
 
-Vom 22.02.2022 (Stand 01.05.2022)
+Vom 22.02.2022 (Stand 10.05.2022)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -223,7 +223,7 @@ beschliesst:
 
 <sup>1</sup> Für die Berechnung der bedingten Gewinnbeteiligung nach Artikel 12 Absatz 1<sup>septies</sup> des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz) vom 25. September 2020[^17-1] massgeblich ist der steuerbare Jahresgewinn 2021 vor Verlustverrechnung, der sinngemäss nach den Artikeln 58 – 67 des Bundesgesetzes vom 14. Dezember 1990[^17-2] über die direkte Bundessteuer ermittelt wird. Vom steuerbaren Jahresgewinn abziehbar ist ausschliesslich ein im Geschäftsjahr 2020 entstandener steuerlich massgeblicher Verlust.
 
-<sup>2</sup> Aussergewöhnliche Positionen in den Jahresrechnungen 2020 und 2021 können bei der Berechnung der bedingten Gewinnbeteiligung korrigiert werden, soweit sie sich nicht im Rahmen der Vorjahre 2018 und 2019 bewegen oder den steuerbaren Gewinn unzulässig mindern. Als aussergewöhnliche Positionen fallen insbesondere der Eigenlohn von Selbständigerwerbenden sowie Arbeitgeber-Beitragsreserven in Betracht. Eine Korrektur ist auch zugunsten des Unternehmens möglich.
+<sup>2</sup> …
 
 [^17-1]: SR [818.102](https://db.clex.ch/link/Bund/818.102/de).
 [^17-2]: SR [642.11](https://db.clex.ch/link/Bund/642.11/de).
