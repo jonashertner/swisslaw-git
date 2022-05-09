@@ -4,13 +4,13 @@ number: "101.8"
 title: Verordnung 3 über Härtefallmassnahmen für Unternehmen im Zusammenhang mit Covid-19 im Jahr 2022
 short: HFV 2022
 language: de
-version: 2022-05-01
-valid_until: 2022-05-09
-version_adopted: 2022-04-26
+version: 2022-05-10
+valid_until: 2023-04-29
+version_adopted: 2022-05-09
 adopted: 2022-04-26
 in_force: 2022-05-01
 url: "https://bgs.so.ch/app/de/texts_of_law/101.8"
-pdf: "https://bgs.so.ch/api/de/versions/5286/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5291/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5286/pdf_file"
 
 (HFV 2022)
 
-Vom 26.04.2022 (Stand 01.05.2022)
+Vom 26.04.2022 (Stand 10.05.2022)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -28,7 +28,7 @@ gestützt auf Artikel 11b und 12 f. des Bundesgesetzes über die gesetzlichen Gr
 beschliesst:
 
 [^ingress-1]: SR [818.102](https://db.clex.ch/link/Bund/818.102/de).
-[^ingress-2]: SR [818.102](https://db.clex.ch/link/Bund/818.102/de).
+[^ingress-2]: SR [951.264](https://db.clex.ch/link/Bund/951.264/de).
 [^ingress-3]: BGS [111.1](https://bgs.so.ch/data/111.1/de).
 [^ingress-4]: BGS [614.11](https://bgs.so.ch/data/614.11/de).
 
@@ -195,7 +195,7 @@ beschliesst:
 
 <sup>2</sup> Ein Verlust im Geschäftsjahr 2020 ist nur abziehbar, soweit er bei der Berechnung des steuerbaren Reingewinns im Geschäftsjahr 2021 nicht berücksichtigt werden konnte.
 
-<sup>3</sup> Aussergewöhnliche Positionen in den Jahresrechnungen 2020 bis 2022 können bei der Berechnung der bedingten Gewinnbeteiligung korrigiert werden, soweit sie sich nicht im Rahmen der Vorjahre 2018 und 2019 bewegen oder den steuerbaren Gewinn unzulässig mindern. Als aussergewöhnliche Positionen fallen insbesondere der Eigenlohn von Selbständigerwerbenden sowie Arbeitgeber-Beitragsreserven in Betracht. Eine Korrektur ist auch zugunsten des Unternehmens möglich.
+<sup>3</sup> …
 
 [^14-1]: SR [818.102](https://db.clex.ch/link/Bund/818.102/de).
 [^14-2]: SR [642.11](https://db.clex.ch/link/Bund/642.11/de).
