@@ -4,13 +4,12 @@ number: "841.3.21"
 title: Verordnung über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen
 short: ELKVF
 language: de
-version: 2021-01-01
-valid_until: 2022-05-10
-version_adopted: 2021-01-19
+version: 2022-05-11
+version_adopted: 2021-12-14
 adopted: 2010-09-06
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/841.3.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/6727/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7538/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Ergänzungsleistungen, Vergütung von Krankheitskosten – V
 
 (ELKVF)
 
-vom 06.09.2010 (Fassung in Kraft getreten am 01.01.2021)
+vom 06.09.2010 (Fassung in Kraft getreten am 11.05.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -247,7 +246,7 @@ beschliesst:
 
 **Schutzmasken**
 
-<sup>1</sup> Auf Gesuch hin können die Bezügerinnen und Bezüger von Ergänzungsleistungen für das Jahr 2021 einen Betrag von 30 Franken als Beteiligung an den Kosten von Schutzmasken gegen das Coronavirus erhalten.
+<sup>1</sup> Auf Gesuch hin können die Bezügerinnen und Bezüger von Ergänzungsleistungen für das Jahr 2022 einen Betrag von 30 Franken als Beteiligung an den Kosten von Schutzmasken gegen das Coronavirus erhalten.
 
 <sup>2</sup> Das Gesuch muss schriftlich bei der kantonalen Ausgleichskasse eingereicht werden.
 
@@ -267,5 +266,13 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 2011 in Kraft.
+
+**Genehmigung**
+
+Diese Verordnung wurde am 03.11.2010 vom Eidgenössischen Departement des Innern genehmigt ([ASF INFO 2022-07](https://bdlf.fr.ch/app/de/change_documents/3604)).
+
+Die Änderungen vom 02.07.2012, vom 01.09.2020 und vom 19.01.2021 wurden am 20.01.2022 vom Eidgenössischen Departement des Innern genehmigt ([ASF INFO 2022-07](https://bdlf.fr.ch/app/de/change_documents/3604)).
+
+Die Änderung vom 14.12.2021 wurde am 11.05.2022 vom Eidgenössischen Departement des Innern genehmigt ([ASF INFO 2022-25](https://bdlf.fr.ch/app/de/change_documents/3977)).
 
 2010\_087

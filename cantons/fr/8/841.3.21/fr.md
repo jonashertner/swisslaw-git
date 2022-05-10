@@ -4,13 +4,12 @@ number: "841.3.21"
 title: "Ordonnance relative au remboursement des frais de maladie et d'invalidité en matière de prestations complémentaires"
 short: OMPCF
 language: fr
-version: 2021-01-01
-valid_until: 2022-05-10
-version_adopted: 2021-01-19
+version: 2022-05-11
+version_adopted: 2021-12-14
 adopted: 2010-09-06
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/841.3.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6727/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7538/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Prestations complémentaires, remboursement des frais de maladie – O
 
 (OMPCF)
 
-du 06.09.2010 (version entrée en vigueur le 01.01.2021)
+du 06.09.2010 (version entrée en vigueur le 11.05.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -247,7 +246,7 @@ Arrête:
 
 **Masques de protection**
 
-<sup>1</sup> Sur demande, les bénéficiaires de prestations complémentaires peuvent obtenir un montant de 30 francs à titre de participation aux coûts des masques de protection contre le coronavirus pour l'année 2021.
+<sup>1</sup> Sur demande, les bénéficiaires de prestations complémentaires peuvent obtenir un montant de 30 francs à titre de participation aux coûts des masques de protection contre le coronavirus pour l'année 2022.
 
 <sup>2</sup> La demande doit être faite par écrit auprès de la Caisse cantonale de compensation.
 
@@ -267,5 +266,13 @@ Arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2011.
+
+**Approbation**
+
+La présente ordonnance a été approuvée par le Département fédéral de l'intérieur le 03.11.2010 ([ROF INFO 2022-07](https://bdlf.fr.ch/app/fr/change_documents/3604)).
+
+Les modifications du 02.07.2012, du 01.09.2020 et 19.01.2021 ont été approuvées par le Département fédéral de l'intérieur le 20.01.2022 ([ROF INFO 2022-07](https://bdlf.fr.ch/app/fr/change_documents/3604)).
+
+La modification du 14.12.2021 a été approuvée par le Département fédéral de l'intérieur le 11.05.2022 ([ROF INFO 2022-25](https://bdlf.fr.ch/app/fr/change_documents/3977/)).
 
 2010\_087
