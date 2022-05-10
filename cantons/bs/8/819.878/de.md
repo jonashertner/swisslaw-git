@@ -4,13 +4,12 @@ number: "819.878"
 title: Dringlicher Grossratsbeschluss über Massnahmen für Publikumsanlässe von überkantonaler Bedeutung im Zusammenhang mit der Covid-19-Epidemie
 short: Covid-19-GRB-Publikumsanlässe
 language: de
-version: 2021-06-27
-valid_until: 2022-05-10
-version_adopted: 2021-06-23
+version: 2022-05-11
+version_adopted: 2022-05-11
 adopted: 2021-06-23
 in_force: 2021-06-27
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/819.878"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5288/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5559/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ COVID-19-GRB-Publikumsanlässe
 
 (Covid-19-GRB-Publikumsanlässe)
 
-Vom 23. Juni 2021 (Stand 27. Juni 2021)
+Vom 23. Juni 2021 (Stand 11. Mai 2022)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -47,7 +46,7 @@ beschliesst:
 
 **Finanzierung**
 
-<sup>1</sup> Zu diesem Zweck wird ein Betrag von Fr. 19 Mio. bereitgestellt.
+<sup>1</sup> Zu diesem Zweck wird ein Betrag von Fr. 31.75 Mio. bereitgestellt.
 
 #### Ziff. 3
 
@@ -67,7 +66,7 @@ beschliesst:
 
 **Anforderungen an die Veranstaltungen**
 
-<sup>1</sup> In Abweichung zur Covid-19-Verordnung Publikumsanlässe werden Veranstaltungen von überkantonaler Bedeutung unterstützt, deren Durchführungen zwischen dem 1. Juli 2021 und dem 30. April 2022 im Kanton Basel-Stadt geplant sind.
+<sup>1</sup> In Abweichung zur Covid-19-Verordnung Publikumsanlässe werden Veranstaltungen von überkantonaler Bedeutung unterstützt, deren Durchführungen zwischen dem 1. Juli 2021 und dem 31. Dezember 2022 im Kanton Basel-Stadt geplant sind.
 
 <sup>2</sup> Die Veranstaltungen müssen ausserdem
 
@@ -98,7 +97,7 @@ beschliesst:
 
 **Gesuch um Kostenbeteiligung**
 
-<sup>1</sup> Veranstaltungsunternehmen, welche eine Zusicherung gemäss Ziff. 7 haben, können ein Gesuch um Beteiligung an ungedeckten Kosten stellen, sofern die Voraussetzungen gemäss Art. 2 Covid-19-Verordnung Publikumsanlässe eingetreten sind.
+<sup>1</sup> Veranstaltungsunternehmen, welche eine Zusicherung gemäss Ziff. 7 haben, müssen bis spätestens am 30. Juni 2023 ein Gesuch um Beteiligung an ungedeckten Kosten stellen, sofern die Voraussetzungen gemäss Art. 2 Covid-19-Verordnung Publikumsanlässe eingetreten sind.
 
 ## V. Schlussbestimmungen
 
