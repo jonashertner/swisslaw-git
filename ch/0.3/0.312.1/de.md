@@ -3,16 +3,16 @@ sr: "0.312.1"
 title: Römer Statut des Internationalen Strafgerichtshofs vom 17. Juli 1998
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/586"
 language: de
-version: 2021-07-07
+version: 2022-05-12
 adopted: 1998-07-17
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20210707/de/xml/fedlex-data-admin-ch-eli-cc-2002-586-20210707-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20210707/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20220512/de/xml/fedlex-data-admin-ch-eli-cc-2002-586-20220512-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20220512/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Römer Statut des Internationalen Strafgerichtshofs
+# Römer Statut des Internationalen Strafgerichtshofs**** ****
 
 AS **2002** 3743; BBl **2001** 391[^t-1][^t-2]
 
@@ -20,7 +20,7 @@ AS **2002** 3743; BBl **2001** 391[^t-1][^t-2]
 
 Abgeschlossen in Rom am 17. Juli 1998 Von der Bundesversammlung genehmigt am 22. Juni 2001[^t-3] Ratifikationsurkunde durch die Schweiz hinterlegt am 12. Oktober 2001 In Kraft getreten für die Schweiz am 1. Juli 2002
 
-(Stand am 7. Juli 2021)
+(Stand am 12. Mai 2022)
 
 [^t-1]: Der Titel der abgestimmten deutschen Übersetzung dieses Vertrags lautet: «Römisches Statut des Internationalen Strafgerichtshofs». Es wurde Einvernehmen unter den Beteiligten erzielt, dass jede Seite in innerstaatlichen Dokumenten die Bezeichnung «Römer Statut des Internationalen Strafgerichtshofs» verwenden kann.
 [^t-2]: Die Änd. vom 10. Juni 2010 ([SR [0.312.12](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/645); [[AS 2015](http://www.admin.ch/ch/d/as/2002/3130.pdf)3833](https://fedlex.data.admin.ch/eli/oc/2015/645)) und 11. Juni 2010 ([SR [0.312.11](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/644); [[AS 2015 3825](http://www.admin.ch/ch/d/as/2002/3130.pdf)](https://fedlex.data.admin.ch/eli/oc/2015/644)) sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihnen beigetreten sind. Siehe die entsprechenden Geltungsbereiche.
@@ -103,7 +103,7 @@ Die Gerichtsbarkeit des Gerichtshofs ist auf die schwersten Verbrechen beschrän
 - c) Kriegsverbrechen;
 - d) das Verbrechen der Aggression.
 
-<sup>2.</sup> ...[^5-1]
+<sup>2.</sup> …[^5-1]
 
 [^5-1]: Aufgehoben durch Anhang I Ziff. 1 der Änderungen betreffend das Verbrechen der Aggression vom 11. Juni 2010, von der BVers genehmigt am 20. März 2015 und mit Wirkung für die Schweiz am 10. Sept. 2016 ([AS 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [BBl 2014 2045](https://fedlex.data.admin.ch/eli/fga/2014/401)).
 
@@ -993,7 +993,9 @@ so unterrichtet der Ankläger die Vorverfahrenskammer und den nach Artikel 14 un
 - b) ergreift geeignete Massnahmen, um die wirksame Ermittlung und Strafverfolgung von der Gerichtsbarkeit des Gerichtshofs unterliegenden Verbrechen zu gewährleisten, wobei er die Interessen und persönlichen Lebensumstände der Opfer und Zeugen, namentlich Alter, Geschlecht im Sinne des Artikels 7 Absatz 3 und Gesundheitszustand, achtet und die Art des Verbrechens berücksichtigt, insbesondere soweit es mit sexueller Gewalt, geschlechtsspezifischer Gewalt oder Gewalt gegen Kinder verbunden ist, und
 - c) achtet uneingeschränkt die sich aus diesem Statut ergebenden Rechte der Personen.
 
-<sup>2.</sup> Der Ankläger kann Ermittlungen im Hoheitsgebiet eines Staates durchführen
+<sup>2.</sup>
+
+Der Ankläger kann Ermittlungen im Hoheitsgebiet eines Staates durchführen:
 
 - a) in Übereinstimmung mit Teil 9 oder
 - b) auf Grund einer Ermächtigung der Vorverfahrenskammer nach Artikel 57 Absatz 3 Buchstabe d.
@@ -2217,7 +2219,7 @@ Die Urschrift dieses Statuts, dessen arabischer, chinesischer, englischer, franz
 
 *Zu Urkund dessen* haben die von ihren Regierungen hierzu gehörig befugten Unterzeichneten dieses Statut unterschrieben. Geschehen zu Rom am 17. Juli 1998. (Es folgen die Unterschriften)
 
-Geltungsbereich am 2. August 2018[^t-4]
+Geltungsbereich am 12. Mai 2022**[^t-4]**
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -2274,6 +2276,7 @@ Geltungsbereich am 2. August 2018[^t-4]
 <tr><td colspan="2">Kanada</td><td>7. Juli</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td colspan="2">Kap Verde\*</td><td>10. Oktober</td><td>2011</td><td>1. Januar</td><td>2012</td></tr>
 <tr><td colspan="2">Kenia</td><td>15. März</td><td>2005</td><td>1. Juni</td><td>2005</td></tr>
+<tr><td colspan="2">Kiribati</td><td>26. November</td><td>2019 B</td><td>1. Februar</td><td>2020</td></tr>
 <tr><td colspan="2">Kolumbien<sup>\*</sup></td><td>5. August</td><td>2002</td><td>1. November</td><td>2002</td></tr>
 <tr><td colspan="2">Komoren</td><td>18. August</td><td>2006</td><td>1. November</td><td>2006</td></tr>
 <tr><td colspan="2">Kongo (Brazzaville)</td><td>3. Mai</td><td>2004</td><td>1. August</td><td>2004</td></tr>
@@ -2314,7 +2317,6 @@ Geltungsbereich am 2. August 2018[^t-4]
 <tr><td colspan="2">Panama<sup>\*</sup></td><td>21. März</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td colspan="2">Paraguay</td><td>14. Mai</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td colspan="2">Peru<sup>\*</sup></td><td>10. November</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td>Philippinen[^t-5]</td><td colspan="2">30. August</td><td>2011</td><td>1. November</td><td>2011</td></tr>
 <tr><td colspan="2">Polen<sup>\*</sup></td><td>12. November</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td colspan="2">Portugal<sup>\*</sup></td><td>5. Februar</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td colspan="2">Rumänien<sup>\*</sup></td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
@@ -2362,15 +2364,14 @@ Geltungsbereich am 2. August 2018[^t-4]
 <tr><td colspan="2">Turks- und Caicosinseln</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
 <tr><td colspan="2">Zentralafrikanische Republik</td><td>3. Oktober</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td colspan="2">Zypern<sup>\*</sup></td><td>7. März</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="6">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Statut gilt nicht für Tokelau. <sup>b</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="6">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Statut gilt nicht für Tokelau. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-4]: [AS 2002 3743](https://fedlex.data.admin.ch/eli/oc/2002/586); [2004 3891](https://fedlex.data.admin.ch/eli/oc/2004/543); [2005 4991](https://fedlex.data.admin.ch/eli/oc/2005/681); [2007 15](https://fedlex.data.admin.ch/eli/oc/2007/5); [2008 4197](https://fedlex.data.admin.ch/eli/oc/2008/598); [2010 1625](https://fedlex.data.admin.ch/eli/oc/2010/236); [2012 105](https://fedlex.data.admin.ch/eli/oc/2012/13); [2015 4449](https://fedlex.data.admin.ch/eli/oc/2015/741); [2018 3003](https://fedlex.data.admin.ch/eli/oc/2018/463). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
-[^t-5]: Rücktritt vom Statut gemäss Art. 127 Abs. 1 mit Wirkung per 17. März 2019
+[^t-4]: [AS 2002 3743](https://fedlex.data.admin.ch/eli/oc/2002/586); [2004 3891](https://fedlex.data.admin.ch/eli/oc/2004/543); [2005 4991](https://fedlex.data.admin.ch/eli/oc/2005/681); [2007 15](https://fedlex.data.admin.ch/eli/oc/2007/5); [2008 4197](https://fedlex.data.admin.ch/eli/oc/2008/598); [2010 1625](https://fedlex.data.admin.ch/eli/oc/2010/236); [2012 105](https://fedlex.data.admin.ch/eli/oc/2012/13); [2015 4449](https://fedlex.data.admin.ch/eli/oc/2015/741); [2018 3003](https://fedlex.data.admin.ch/eli/oc/2018/463); [2022 293](https://fedlex.data.admin.ch/eli/oc/2022/293). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty
 
 Vorbehalte und Erklärungen
 
-Schweiz**[^t-6]**
+Schweiz**[^t-5]**
 
 Erklärungen der Schweiz auf Grund des Artikels 87 Absätze 1 und 2
 
@@ -2384,4 +2385,4 @@ Erklärungen der Schweiz auf Grund des Artikels 103 Absatz 1
 
 Die Schweiz erklärt ihre Bereitschaft, nach Artikel 103 Absatz 1 des Statuts Personen, die vom Gerichtshof zu einer Freiheitsstrafe verurteilt wurden, zum Vollzug der Strafe zu übernehmen, sofern diese Personen Schweizer Bürgerinnen oder Bürger sind oder in der Schweiz ihren gewöhnlichen Aufenthalt haben.
 
-[^t-6]: Art. 1 Abs. 3 des BB vom 22. Juni 2001 ([AS 2002 3741](https://fedlex.data.admin.ch/eli/oc/2002/585))
+[^t-5]: Art. 1 Abs. 3 des BB vom 22. Juni 2001 ([AS 2002 3741](https://fedlex.data.admin.ch/eli/oc/2002/585))

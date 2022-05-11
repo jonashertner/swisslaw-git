@@ -3,11 +3,11 @@ sr: "0.312.1"
 title: Statut de Rome de la Cour pénale internationale du 17 juillet 1998
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/586"
 language: fr
-version: 2021-07-07
+version: 2022-05-12
 adopted: 1998-07-17
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20210707/fr/xml/fedlex-data-admin-ch-eli-cc-2002-586-20210707-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20210707/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20220512/fr/xml/fedlex-data-admin-ch-eli-cc-2002-586-20220512-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20220512/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 12 octobre 2001
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> juillet 2002
 
-(Etat le 7 juillet 2021)
+(Etat le 12 mai 2022)
 
 [^t-1]: Les Am. du 10 juin 2010 ([RS 0.312.12](https://fedlex.data.admin.ch/eli/cc/2015/645); [RO 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645)) et du 11 juin 2010 ([RS [0.312.11](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/644); [[RO 2015 3825](http://www.admin.ch/ch/d/as/2002/3130.pdf)](https://fedlex.data.admin.ch/eli/oc/2015/644)) sont insérés dans ce texte, mais ils sont applicables uniquement aux Etats les ayant ratifiés. Voir en conséquence leur propre champ d’application.
 [^t-2]: Art. 1 al. 1 de l’AF du 22 juin 2001 ([RO 2002 3741](https://fedlex.data.admin.ch/eli/oc/2002/585))
@@ -2282,7 +2282,7 @@ L’original du présent Statut, dont les textes anglais, arabe, chinois, espagn
 
 *En foi de quoi,* les soussignés, à ce dûment autorisés par leur gouvernement respectif, ont signé le présent Statut. Fait à Rome ce dix-septième jour de juillet de l’an mil neuf cent quatre-vingt-dix-huit. *(Suivent les signatures)*
 
-Champ d’application le 2 août 2018**[^t-3]**
+Champ d’application le 12 mai 2022**[^t-3]**
 
 <table>
 <tr><th colspan="3">États parties</th><th colspan="2">Ratification Adhésion (A) Succession (S)</th><th colspan="2"></th><th>Entrée en vigueur</th><th></th></tr>
@@ -2350,13 +2350,14 @@ Champ d’application le 2 août 2018**[^t-3]**
 <tr><td colspan="3">Japon</td><td colspan="2">17 juillet</td><td colspan="2">2007 A</td><td>1<sup>er</sup> octobre</td><td>2007</td></tr>
 <tr><td colspan="3">Jordanie\*</td><td colspan="2">11 avril</td><td colspan="2">2002</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td colspan="3">Kenya</td><td colspan="2">15 mars</td><td colspan="2">2005</td><td>1<sup>er</sup> juin</td><td>2005</td></tr>
+<tr><td colspan="3">Kiribati</td><td colspan="2">26 novembre</td><td colspan="2">2019 A</td><td>1<sup>er</sup> février</td><td>2020</td></tr>
 <tr><td colspan="3">Lesotho\*</td><td colspan="2">6 septembre</td><td colspan="2">2000</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td colspan="3">Lettonie\*</td><td colspan="2">28 juin</td><td colspan="2">2002</td><td>1<sup>er</sup> septembre</td><td>2002</td></tr>
 <tr><td colspan="3">Libéria</td><td colspan="2">22 septembre</td><td colspan="2">2004</td><td>1<sup>er</sup> décembre</td><td>2004</td></tr>
 <tr><td colspan="3">Liechtenstein\*</td><td colspan="2">2 octobre</td><td colspan="2">2001</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td colspan="3">Lituanie\*</td><td colspan="2">12 mai</td><td colspan="2">2003</td><td>1<sup>er</sup> août</td><td>2003</td></tr>
 <tr><td colspan="3">Luxembourg\*</td><td colspan="2">8 septembre</td><td colspan="2">2000</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
-<tr><td colspan="3">Macédoine\*</td><td colspan="2">6 mars</td><td colspan="2">2002</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
+<tr><td colspan="3">Macédoine du Nord\*</td><td colspan="2">6 mars</td><td colspan="2">2002</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td colspan="3">Madagascar</td><td colspan="2">14 mars</td><td colspan="2">2008</td><td>1<sup>er</sup> juin</td><td>2008</td></tr>
 <tr><td colspan="3">Malawi</td><td colspan="2">19 septembre</td><td colspan="2">2002</td><td>1<sup>er</sup> décembre</td><td>2002</td></tr>
 <tr><td colspan="3">Maldives</td><td colspan="2">21 septembre</td><td colspan="2">2011 A</td><td>1<sup>er</sup> décembre</td><td>2011</td></tr>
@@ -2383,7 +2384,7 @@ Champ d’application le 2 août 2018**[^t-3]**
 <tr><td colspan="3">Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td colspan="2">17 juillet</td><td colspan="2">2001</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td colspan="3">Sint Maarten</td><td colspan="2">17 juillet</td><td colspan="2">2001</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td colspan="3">Pérou\*</td><td colspan="2">10 novembre</td><td colspan="2">2001</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
-<tr><td colspan="3">Philippines[^t-4]</td><td colspan="2">30 août</td><td colspan="2">2011</td><td>1<sup>er</sup> novembre</td><td>2011</td></tr>
+<tr><td colspan="3">Philippines</td><td colspan="2">30 août</td><td colspan="2">2011</td><td>1<sup>er</sup> novembre</td><td>2011</td></tr>
 <tr><td colspan="3">Pologne\*</td><td colspan="2">12 novembre</td><td colspan="2">2001</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td colspan="3">Portugal\*</td><td colspan="2">5 février</td><td colspan="2">2002</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td colspan="3">République centrafricaine</td><td colspan="2">3 octobre</td><td colspan="2">2001</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
@@ -2432,12 +2433,11 @@ Champ d’application le 2 août 2018**[^t-3]**
 <tr><td colspan="9"><sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-3]: RO **2002** 3816, [2004 3891](https://fedlex.data.admin.ch/eli/oc/2004/543), [2005 4991](https://fedlex.data.admin.ch/eli/oc/2005/681), [2007 15](https://fedlex.data.admin.ch/eli/oc/2007/5), [2008 4197](https://fedlex.data.admin.ch/eli/oc/2008/598), [2010 1625](https://fedlex.data.admin.ch/eli/oc/2010/236), [2012 105](https://fedlex.data.admin.ch/eli/oc/2012/13), [2015 4449](https://fedlex.data.admin.ch/eli/oc/2015/741), [2018 3003](https://fedlex.data.admin.ch/eli/oc/2018/463). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
-[^t-4]: Retrait du Statut conformément à son art. 27, par. 1, avec effet au 17 mars 2019.
+[^t-3]: RO **2002** 3816; [2004 3891](https://fedlex.data.admin.ch/eli/oc/2004/543); [2005 4991](https://fedlex.data.admin.ch/eli/oc/2005/681); [2007 15](https://fedlex.data.admin.ch/eli/oc/2007/5); [2008 4197](https://fedlex.data.admin.ch/eli/oc/2008/598); [2010 1625](https://fedlex.data.admin.ch/eli/oc/2010/236); [2012 105](https://fedlex.data.admin.ch/eli/oc/2012/13); [2015 4449](https://fedlex.data.admin.ch/eli/oc/2015/741); [2018 3003](https://fedlex.data.admin.ch/eli/oc/2018/463); [2022 293](https://fedlex.data.admin.ch/eli/oc/2022/293). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
 
 Réserves et déclarations
 
-**Suisse**[^t-5]
+**Suisse**[^t-4]
 
 Déclarations en vertu des par. 1 et 2 de l’art. 87
 
@@ -2451,4 +2451,4 @@ Déclarations en vertu de l’art. 103, par. 1
 
 Conformément à l’art. 103, par. 1 du Statut, la Suisse déclare être prête à prendre en charge l’exécution des peines privatives de liberté infligées par la Cour à des ressortissants suisses ou à des personnes ayant leur résidence habituelle en Suisse.
 
-[^t-5]: Art. 1 al. 3 de l’AF du 21 juin 2001 ([RO 2002 3741](https://fedlex.data.admin.ch/eli/oc/2002/585))
+[^t-4]: Art. 1 al. 3 de l’AF du 21 juin 2001 ([RO 2002 3741](https://fedlex.data.admin.ch/eli/oc/2002/585))

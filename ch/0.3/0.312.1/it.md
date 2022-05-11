@@ -3,30 +3,24 @@ sr: "0.312.1"
 title: Statuto di Roma della Corte penale internazionale del 17 luglio 1998
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/586"
 language: it
-version: 2021-07-07
+version: 2022-05-12
 adopted: 1998-07-17
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20210707/it/xml/fedlex-data-admin-ch-eli-cc-2002-586-20210707-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20210707/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20220512/it/xml/fedlex-data-admin-ch-eli-cc-2002-586-20220512-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20220512/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Statuto di Roma della Corte penale internazionale
+# Statuto di Roma della Corte penale internazionale****
 
 RU **2002** 3743; FF **2001** 311[^t-1]
 
 Traduzione
 
-Concluso a Roma il 17 luglio 1998
+Concluso a Roma il 17 luglio 1998 Approvato dall’Assemblea federale il 22 giugno 2001[^t-2] Ratificato con strumenti depositati dalla Svizzera il 12 ottobre 2001 Entrato in vigore per la Svizzera il 1° luglio 2002
 
-Approvato dall’Assemblea federale il 22 giugno 2001[^t-2]
-
-Ratificato con strumenti depositati dalla Svizzera il 12 ottobre 2001
-
-Entrato in vigore per la Svizzera il 1° luglio 2002
-
-(Stato 7 luglio 2021)
+(Stato 12 maggio 2022)
 
 [^t-1]: Le mod. del 10 giu. 2010 ([RS [0.312.12](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/645); [[RU 2015](http://www.admin.ch/ch/d/as/2002/3130.pdf)3833](https://fedlex.data.admin.ch/eli/oc/2015/645)) e dell’11 giu. 2010 ([RS [0.312.11](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/644); [[RU 2015 3825](http://www.admin.ch/ch/d/as/2002/3130.pdf)](https://fedlex.data.admin.ch/eli/oc/2015/644)) sono introdotte nel presente testo. Le stesse valgono comunque unicamente nei rapporti con gli Stati parte. Vedi pertanto il loro specifico campo d’applicazione.
 [^t-2]: Art. 1 cpv. 1 del DF del 22 giu. 2001 ([RU 2002 3741](https://fedlex.data.admin.ch/eli/oc/2002/585)).
@@ -2284,7 +2278,7 @@ L’originale del presente Statuto, i cui testi in arabo, cinese, francese, ingl
 
 (Seguono le firme)
 
-Campo d’applicazione il 2 agosto 2018[^t-3]
+Campo d’applicazione il 12 maggio 2022**[^t-3]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -2330,7 +2324,6 @@ Campo d’applicazione il 2 agosto 2018[^t-3]
 <tr><td>El Salvador<sup>\*</sup></td><td>3 marzo</td><td>2016 A</td><td>1° giugno</td><td>2016</td></tr>
 <tr><td>Estonia<sup>\*</sup></td><td>30 gennaio</td><td>2002</td><td>1° luglio</td><td>2002</td></tr>
 <tr><td>Figi</td><td>29 novembre</td><td>1999</td><td>1° luglio</td><td>2002</td></tr>
-<tr><td>Filippine[^t-4]</td><td>30 agosto</td><td>2011</td><td>1° novembre</td><td>2011</td></tr>
 <tr><td>Finlandia<sup>\* \*\*</sup></td><td>29 dicembre</td><td>2000</td><td>1° luglio</td><td>2002</td></tr>
 <tr><td>Francia<sup>\*</sup></td><td>9 giugno</td><td>2000</td><td>1° luglio</td><td>2002</td></tr>
 <tr><td>Gabon</td><td>20 settembre</td><td>2000</td><td>1° luglio</td><td>2002</td></tr>
@@ -2353,13 +2346,14 @@ Campo d’applicazione il 2 agosto 2018[^t-3]
 <tr><td>Isole Marshall<sup>\*</sup></td><td>7 dicembre</td><td>2000</td><td>1° luglio</td><td>2002</td></tr>
 <tr><td>Italia<sup>\*</sup></td><td>26 luglio</td><td>1999</td><td>1° luglio</td><td>2002</td></tr>
 <tr><td>Kenya</td><td>15 marzo</td><td>2005</td><td>1° giugno</td><td>2005</td></tr>
+<tr><td>Kiribati</td><td>26 novembre</td><td>2019 A</td><td>1° febbraio</td><td>2020</td></tr>
 <tr><td>Lesotho<sup>\*</sup></td><td>6 settembre</td><td>2000</td><td>1° luglio</td><td>2002</td></tr>
 <tr><td>Lettonia<sup>\*</sup></td><td>28 giugno</td><td>2002</td><td>1° settembre</td><td>2002</td></tr>
 <tr><td>Liberia</td><td>22 settembre</td><td>2004</td><td>1° dicembre</td><td>2004</td></tr>
 <tr><td>Liechtenstein<sup>\*</sup></td><td>2 ottobre</td><td>2001</td><td>1° luglio</td><td>2002</td></tr>
 <tr><td>Lituania<sup>\*</sup></td><td>12 maggio</td><td>2003</td><td>1° agosto</td><td>2003</td></tr>
 <tr><td>Lussemburgo<sup>\*</sup></td><td>8 settembre</td><td>2000</td><td>1° luglio</td><td>2002</td></tr>
-<tr><td>Macedonia<sup>\*</sup></td><td>6 marzo</td><td>2002</td><td>1° luglio</td><td>2002</td></tr>
+<tr><td>Macedonia del Nord<sup>\*</sup></td><td>6 marzo</td><td>2002</td><td>1° luglio</td><td>2002</td></tr>
 <tr><td>Madagascar</td><td>14 marzo</td><td>2008</td><td>1° giugno</td><td>2008</td></tr>
 <tr><td>Malawi</td><td>19 settembre</td><td>2002</td><td>1° dicembre</td><td>2002</td></tr>
 <tr><td>Maldive</td><td>21 settembre</td><td>2011 A</td><td>1° dicembre</td><td>2011</td></tr>
@@ -2429,15 +2423,14 @@ Campo d’applicazione il 2 agosto 2018[^t-3]
 <tr><td>Vanuatu</td><td>2 dicembre</td><td>2011 A</td><td>1° febbraio</td><td>2012</td></tr>
 <tr><td>Venezuela</td><td>7 giugno</td><td>2000</td><td>1° luglio</td><td>2002</td></tr>
 <tr><td>Zambia</td><td>13 novembre</td><td>2002</td><td>1° febbraio</td><td>2003</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni ed obiezioni, non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Lo Statuto non vale per Tokelau. <sup>b</sup> Al Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni ed obiezioni, non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Lo Statuto non vale per Tokelau. <sup>b</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-3]: [RU 2002 3743](https://fedlex.data.admin.ch/eli/oc/2002/586), [2004 3891](https://fedlex.data.admin.ch/eli/oc/2004/543), [2005 4991](https://fedlex.data.admin.ch/eli/oc/2005/681), [2007 15](https://fedlex.data.admin.ch/eli/oc/2007/5), [2008 4197](https://fedlex.data.admin.ch/eli/oc/2008/598), [2010 1625](https://fedlex.data.admin.ch/eli/oc/2010/236), [2012 105](https://fedlex.data.admin.ch/eli/oc/2012/13), [2015 4449](https://fedlex.data.admin.ch/eli/oc/2015/741)e [2018 3003](https://fedlex.data.admin.ch/eli/oc/2018/463). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
-[^t-4]: Il 27 mar. 2018 le Filippine hanno notificato la rescissione dello Statuto giusta l’art. 127 cpv. 1, con effeto dal 17 mar. 2019.
+[^t-3]: [RU 2002 3743](https://fedlex.data.admin.ch/eli/oc/2002/586); [2004 3891](https://fedlex.data.admin.ch/eli/oc/2004/543); [2005 4991](https://fedlex.data.admin.ch/eli/oc/2005/681); [2007 15](https://fedlex.data.admin.ch/eli/oc/2007/5); [2008 4197](https://fedlex.data.admin.ch/eli/oc/2008/598); [2010 1625](https://fedlex.data.admin.ch/eli/oc/2010/236); [2012 105](https://fedlex.data.admin.ch/eli/oc/2012/13); [2015 4449](https://fedlex.data.admin.ch/eli/oc/2015/741); [2018 3003](https://fedlex.data.admin.ch/eli/oc/2018/463); [2022 293](https://fedlex.data.admin.ch/eli/oc/2022/293). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
 
 Riserve e dichiarazioni
 
-**Svizzera**[^t-5]
+**Svizzera**[^t-4]
 
 Dichiarazione in virtù dell’articolo 87 paragrafi 1 e 2
 
@@ -2451,4 +2444,4 @@ Dichiarazione in virtù dell’articolo 103 paragrafo 1
 
 Conformemente all’articolo 103 paragrafo 1 dello Statuto, la Svizzera dichiara di essere pronta ad assumersi l’onere dell’esecuzione delle pene privative della libertà inflitte dalla Corte a cittadini svizzeri o a persone che hanno il loro domicilio abituale in Svizzera.
 
-[^t-5]: Art. 1 cpv. 3 del DF del 22 giu. 2001 ([RU 2002 3741](https://fedlex.data.admin.ch/eli/oc/2002/585)).
+[^t-4]: Art. 1 cpv. 3 del DF del 22 giu. 2001 ([RU 2002 3741](https://fedlex.data.admin.ch/eli/oc/2002/585)).
