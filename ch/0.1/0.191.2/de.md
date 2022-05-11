@@ -3,27 +3,26 @@ sr: "0.191.2"
 title: Übereinkommen vom 8. Dezember 1969 über Sondermissionen
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1260_1260_1260"
 language: de
-version: 2008-01-23
+version: 2022-05-12
 adopted: 1969-12-08
 in_force: 1985-06-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1260_1260_1260/20080123/de/xml/fedlex-data-admin-ch-eli-cc-1985-1260_1260_1260-20080123-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1260_1260_1260/20080123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1260_1260_1260/20220512/de/xml/fedlex-data-admin-ch-eli-cc-1985-1260_1260_1260-20220512-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1260_1260_1260/20220512/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Übereinkommen über Sondermissionen
 
-0.191.2 (Stand am 23. Januar 2008)**N****icht löschen bitte "****[^t-1]** **" !!**
+AS **1985** 1260; BBl **1976** III 301
 
 Übersetzung
 
-Abgeschlossen in New York am 8. Dezember 1969 Von der Bundesversammlung genehmigt am 25. März 1977[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 3. November 1977 In Kraft getreten für die Schweiz am 21. Juni 1985
+Abgeschlossen in New York am 8. Dezember 1969 Von der Bundesversammlung genehmigt am 25. März 1977[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 3. November 1977 In Kraft getreten für die Schweiz am 21. Juni 1985
 
-(Stand am 23. Januar 2008)
+(Stand am 12. Mai 2022)
 
-[^t-1]: [AS 1985 1260](https://fedlex.data.admin.ch/eli/oc/1985/1260_1260_1260); [BBl 1976 III 301](https://fedlex.data.admin.ch/eli/fga/1976/3_301_309_325)
-[^t-2]: Art. 1 Abs. 1 Bst. a des BB vom 25. März 1977 ([AS 1985 1259](https://fedlex.data.admin.ch/eli/oc/1985/1259_1259_1259))
+[^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 25. März 1977 ([AS 1985 1259](https://fedlex.data.admin.ch/eli/oc/1985/1259_1259_1259)).
 
 Die Vertragsstaaten dieses Übereinkommens
 
@@ -45,9 +44,9 @@ unter Bekräftigung des Grundsatzes, dass die Regeln des Völkergewohnheitsrecht
 
 haben folgendes vereinbart:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [SR 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^ingress-3]: [SR 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [SR 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^ingress-3]: [SR 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 
 #### Art. 1
 
@@ -67,7 +66,7 @@ Im Sinne dieses Übereinkommens haben die nachstehenden Ausdrücke folgende Bede
 - j) der Ausdruck «Mitglieder des Dienstpersonals» bezeichnet diejenigen Mitglieder des Personals der Sondermission, die von dieser als Hausangestellte oder mit ähnlichen Aufgaben beschäftigt werden;
 - k) der Ausdruck «Privatpersonal» bezeichnet die ausschliesslich im privaten Dienst der Mitglieder der Sondermission beschäftigten Personen.
 
-[^1-1]: [SR 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
+[^1-1]: [SR 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
 
 #### Art. 2
 
@@ -548,7 +547,7 @@ Der Originaltext dieses Übereinkommens, dessen chinesischer, englischer, franz�
 
 *Zu Urkund dessen* haben die Unterzeichneten, von ihren Regierungen hierzu gehörig befugt, dieses am 16. Dezember 1969 in New York zur Unterzeichnung aufgelegte Übereinkommen unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 23. Januar 2008**[^t-3]**
+Geltungsbereich am 12. Mai 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -570,14 +569,16 @@ Geltungsbereich am 23. Januar 2008**[^t-3]**
 <tr><td>Liberia</td><td>16. September</td><td>2005 B</td><td>16. Oktober</td><td>2005</td></tr>
 <tr><td>Liechtenstein</td><td>3. August</td><td>1977</td><td>21. Juni</td><td>1985</td></tr>
 <tr><td>Litauen</td><td>5. August</td><td>2004 B</td><td>4. September</td><td>2004</td></tr>
-<tr><td>Mazedonien</td><td>29. Dezember</td><td>2005 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Mexiko</td><td>31. Januar</td><td>1979 B</td><td>21. Juni</td><td>1985</td></tr>
 <tr><td>Montenegro</td><td>23. Oktober</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
+<tr><td>Nordmazedonien</td><td>29. Dezember</td><td>2005 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Österreich</td><td>22. August</td><td>1978 B</td><td>21. Juni</td><td>1985</td></tr>
+<tr><td>Palästina</td><td>22. März</td><td>2018 B</td><td>21. April</td><td>2018</td></tr>
 <tr><td>Paraguay</td><td>19. September</td><td>1975 B</td><td>21. Juni</td><td>1985</td></tr>
 <tr><td>Philippinen</td><td>26. November</td><td>1976</td><td>21. Juni</td><td>1985</td></tr>
 <tr><td>Polen</td><td>22. März</td><td>1977 B</td><td>21. Juni</td><td>1985</td></tr>
 <tr><td>Ruanda</td><td>29. November</td><td>1977 B</td><td>21. Juni</td><td>1985</td></tr>
+<tr><td>Saudi-Arabien</td><td>10. Mai</td><td>2022 B</td><td>9. Juni</td><td>2022</td></tr>
 <tr><td>Schweiz</td><td>3. November</td><td>1977</td><td>21. Juni</td><td>1985</td></tr>
 <tr><td>Serbien</td><td>12. März</td><td>2001 N</td><td>27. April</td><td>1992</td></tr>
 <tr><td>Seychellen</td><td>28. Dezember</td><td>1977 B</td><td>21. Juni</td><td>1985</td></tr>
@@ -590,7 +591,7 @@ Geltungsbereich am 23. Januar 2008**[^t-3]**
 <tr><td>Ukraine</td><td>27. August</td><td>1993 B</td><td>26. September</td><td>1993</td></tr>
 <tr><td>Uruguay</td><td>17. Dezember</td><td>1980 B</td><td>21. Juni</td><td>1985</td></tr>
 <tr><td>Zypern</td><td>24. Januar</td><td>1972</td><td>21. Juni</td><td>1985</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org) oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-3]: Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (http://www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1985 1260](https://fedlex.data.admin.ch/eli/oc/1985/1260_1260_1260); [1988 1703](https://fedlex.data.admin.ch/eli/oc/1988/1703_1703_1703); [1993 2350](https://fedlex.data.admin.ch/eli/oc/1993/2350_2350_2350); [2001 1007](https://fedlex.data.admin.ch/eli/oc/2001/144); [2005 4937](https://fedlex.data.admin.ch/eli/oc/2005/667); [2008 617](https://fedlex.data.admin.ch/eli/oc/2008/139); [2022 292](https://fedlex.data.admin.ch/eli/oc/2022/292). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty

@@ -3,11 +3,11 @@ sr: "0.191.2"
 title: "Convenzione dell'8 dicembre 1969 sulle missioni speciali"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1260_1260_1260"
 language: it
-version: 2008-01-23
+version: 2022-05-12
 adopted: 1969-12-08
 in_force: 1985-06-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1260_1260_1260/20080123/it/xml/fedlex-data-admin-ch-eli-cc-1985-1260_1260_1260-20080123-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1260_1260_1260/20080123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1260_1260_1260/20220512/it/xml/fedlex-data-admin-ch-eli-cc-1985-1260_1260_1260-20220512-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1260_1260_1260/20220512/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,41 +18,35 @@ RU **1985** 1260; FF **1976** III 325
 
 Traduzione
 
-Conchiusa a New York l’8 dicembre 1969
+Conchiusa a New York l’8 dicembre 1969 Approvata dall’Assemblea federale il 25 marzo 1977[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 3 novembre 1977 Entrata in vigore per la Svizzera il 21 giugno 1985
 
-Approvata dall’Assemblea federale il 25 marzo 1977[^t-1]
-
-Istrumento di ratificazione depositato dalla Svizzera il 3 novembre 1977
-
-Entrata in vigore per la Svizzera il 21 giugno 1985
-
-(Stato 23 gennaio 2008)
+(Stato 12 maggio 2022)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 25 mar. 1977 ([RU 1985 1259](https://fedlex.data.admin.ch/eli/oc/1985/1259_1259_1259)).
 
 Gli Stati Partecipanti alla presente Convenzione,
 
-Rammentando che sempre è stato concesso un trattamento particolare alle missioni speciali,
+Rammentando che sempre è stato concesso un trattamento particolare alle missioni speciali;
 
-Coscienti delle finalità e dei principi della Carta delle Nazioni Unite[^ingress-1] concernente l’uguaglianza sovrana degli Stati, il mantenimento della pace e della sicurezza internazionali e lo sviluppo delle relazioni pacifiche della cooperazione tra gli Stati,
+Coscienti delle finalità e dei principi della Carta delle Nazioni Unite[^ingress-1] concernente l’uguaglianza sovrana degli Stati, il mantenimento della pace e della sicurezza internazionali e lo sviluppo delle relazioni pacifiche della cooperazione tra gli Stati;
 
-Rammentando che l’importanza del problema delle missioni speciali è stato riconosciuto nella Conferenza delle Nazioni Unite sui rapporti e le immunità diplomatiche come anche nella risoluzione prima adottata da detta Conferenza il 10 aprile 1961,
+Rammentando che l’importanza del problema delle missioni speciali è stato riconosciuto nella Conferenza delle Nazioni Unite sui rapporti e le immunità diplomatiche come anche nella risoluzione prima adottata da detta Conferenza il 10 aprile 1961;
 
-Considerando che la Conferenza delle Nazioni Unite sui rapporti e le immunità diplomatiche ha adottato la Convenzione di Vienna sui rapporti diplomatici che è stata aperta alla firma il 18 aprile 1961[^ingress-2],
+Considerando che la Conferenza delle Nazioni Unite sui rapporti e le immunità diplomatiche ha adottato la Convenzione di Vienna sui rapporti diplomatici che è stata aperta alla firma il 18 aprile 1961[^ingress-2];
 
-Considerando che la Conferenza delle Nazioni Unite sui rapporti consolari ha adottato la Convenzione di Vienna sui rapporti consolari che è stata aperta alla firma il 24 aprile 1963[^ingress-3],
+Considerando che la Conferenza delle Nazioni Unite sui rapporti consolari ha adottato la Convenzione di Vienna sui rapporti consolari che è stata aperta alla firma il 24 aprile 1963[^ingress-3];
 
-Persuasi che una Convenzione internazionale sulle missioni speciali completerebbe le due menzionate Convenzioni e contribuirebbe a promuovere i rapporti d’amicizia tra i Paesi indipendentemente dai loro regimi costituzionali e sociali,
+Persuasi che una Convenzione internazionale sulle missioni speciali completerebbe le due menzionate Convenzioni e contribuirebbe a promuovere i rapporti d’amicizia tra i Paesi indipendentemente dai loro regimi costituzionali e sociali;
 
-Convinti che la finalità dei privilegi e dell’immunità concernenti le missioni speciali non risiedono nell’avvantaggiare individui bensì nel garantire il compimento efficace delle funzioni della missione avente carattere rappresentativo di uno Stato,
+Convinti che la finalità dei privilegi e dell’immunità concernenti le missioni speciali non risiedono nell’avvantaggiare individui bensì nel garantire il compimento efficace delle funzioni della missione avente carattere rappresentativo di uno Stato;
 
 Affermando che le regole del diritto internazionale abitudinario continuano a reggere le questioni che non sono state disciplinate dalle disposizioni della presente Convenzione,
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^ingress-3]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^ingress-3]: [RS 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 
 #### Art. 1
 
@@ -72,7 +66,7 @@ Ai fini della presente Convenzione:
 - j) l’espressione «membri del personale di servizio» intende i membri del personale della missione speciale assunti da quest’ultimi come impiegati domestici o per compiti analoghi;
 - k) l’espressione «persone al servizio privato» intende le persone impiegate esclusivamente al servizio privato dei membri della missione speciale.
 
-[^1-1]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
+[^1-1]: [RS 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
 
 #### Art. 2
 
@@ -553,14 +547,13 @@ Il Segretario generale dell’Organizzazione delle Nazioni Unite notifica a tutt
 
 L’originale della presente Convenzione, i cui testi inglese, cinese, spagnolo, francese e russo sono ugualmente autentici, è depositato presso il Segretario generale dell’Organizzazione delle Nazioni Unite che invierà copia certificata conforme a tutti gli Stati appartenenti a una delle categorie menzionate all’articolo 50.
 
-*In fede di che,* i sottoscritti, debitamente autorizzati dai rispettivi governi, hanno firmato la presente Convenzione che è stata aperta alla firma, a New York, il 16 dicembre 1969.
+*In fede di che,* i sottoscritti, debitamente autorizzati dai rispettivi governi, hanno firmato la presente Convenzione che è stata aperta alla firma, a New York, il 16 dicembre 1969. (Seguono le firme)
 
-(Seguono le firme)
-
-Campo d’applicazione il 23 gennaio 2008**[^t-2]**
+Campo d’applicazione il 12 maggio 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Arabia Saudita</td><td>10 maggio</td><td>2022 A</td><td>9 giugno</td><td>2022</td></tr>
 <tr><td>Argentina</td><td>13 ottobre</td><td>1972</td><td>21 giugno</td><td>1985</td></tr>
 <tr><td>Austria</td><td>22 agosto</td><td>1978 A</td><td>21 giugno</td><td>1985</td></tr>
 <tr><td>Belarus</td><td>28 agosto</td><td>1997 A</td><td>27 settembre</td><td>1997</td></tr>
@@ -582,9 +575,10 @@ Campo d’applicazione il 23 gennaio 2008**[^t-2]**
 <tr><td>Liberia</td><td>16 settembre</td><td>2005 A</td><td>16 ottobre</td><td>2005</td></tr>
 <tr><td>Liechtenstein</td><td>3 agosto</td><td>1977</td><td>21 giugno</td><td>1985</td></tr>
 <tr><td>Lituania</td><td>5 agosto</td><td>2004 A</td><td>4 settembre</td><td>2004</td></tr>
-<tr><td>Macedonia</td><td>29 dicembre</td><td>2005 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord</td><td>29 dicembre</td><td>2005 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Messico</td><td>31 gennaio</td><td>1979 A</td><td>21 giugno</td><td>1985</td></tr>
 <tr><td>Montenegro</td><td>23 ottobre</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
+<tr><td>Palestina</td><td>22 marzo</td><td>2018 A</td><td>21 aprile</td><td>2018</td></tr>
 <tr><td>Paraguay</td><td>19 settembre</td><td>1975 A</td><td>21 giugno</td><td>1985</td></tr>
 <tr><td>Polonia</td><td>22 marzo</td><td>1977 A</td><td>21 giugno</td><td>1985</td></tr>
 <tr><td>Repubblica Ceca</td><td>22 febbraio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
@@ -599,23 +593,7 @@ Campo d’applicazione il 23 gennaio 2008**[^t-2]**
 <tr><td>Tunisia</td><td>2 novembre</td><td>1971</td><td>21 giugno</td><td>1985</td></tr>
 <tr><td>Ucraina</td><td>27 agosto</td><td>1993 A</td><td>26 settembre</td><td>1993</td></tr>
 <tr><td>Uruguay</td><td>17 dicembre</td><td>1980 A</td><td>21 giugno</td><td>1985</td></tr>
-<tr><td colspan="5">\* Riserve, vedi qui appresso.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org), oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (http://www.dfae.admin.ch/trattati).
-
-Riserve
-
-## Bulgaria
-
-Riserva relativa all’articolo 8:
-
-Conformemente al principio di uguaglianza sovrana degli Stati, la Repubblica popolare di Bulgaria è del parere che ogni divergenza sulla determinazione dell’effettivo della missione speciale deve essere retta da un accordo tra lo Stato inviante e quello ospitante.
-
-Riserva relativa all’articolo 25:
-
-La Repubblica popolare di Bulgaria non riconosce le disposizioni dell’articolo 25 paragrafo 1 della Convenzione secondo le quali in caso d’incendio o altro sinistro gli agenti dello Stato ospitante possono penetrare nei locali in cui la missione speciale è sistemata senza il consenso esplicito del capo della missione speciale o, all’occorrenza, del capo della missione permanente.
-
-## Cuba
-
-Il Governo rivoluzionario della Repubblica di Cuba formula una riserva espressa per quanto concerne l’articolo 25 paragrafo 1 terzo periodo e, per conseguenza, non accetta che il consenso del capo della missione speciale si possa presumere acquisito nei casi contemplati nel detto paragrafo né in nessun altro caso.
+[^t-2]: [RU 1985 1260](https://fedlex.data.admin.ch/eli/oc/1985/1260_1260_1260); [1988 1703](https://fedlex.data.admin.ch/eli/oc/1988/1703_1703_1703); [1993 2350](https://fedlex.data.admin.ch/eli/oc/1993/2350_2350_2350); [2001 1007](https://fedlex.data.admin.ch/eli/oc/2001/144); [2005 4937](https://fedlex.data.admin.ch/eli/oc/2005/667); [2008 617](https://fedlex.data.admin.ch/eli/oc/2008/139); [2022 292](https://fedlex.data.admin.ch/eli/oc/2022/292). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
