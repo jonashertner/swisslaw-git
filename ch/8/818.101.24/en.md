@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2022-05-02
+version: 2022-05-13
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220502/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220502-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220502/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220513/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220513-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220513/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 2 May 2022)
+of 19 June 2020 (Status as of 13 May 2022)
 
 The Swiss Federal Council,
 
@@ -1017,7 +1017,7 @@ Annex 6*[^t-8]*
 
 ## Services and maximum amounts paid for Sars-CoV-2 analyses
 
-[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Annex No 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), No II para. 2 of the O of 25 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), No II of the O of 1 Oct. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), Annex No 1 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), No II para. 1 of the O of 17 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), No III 1 of the O of 2 Feb. 2022 (Lifting the Requirement for Contact Quarantine and to Work from Home) ([AS 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)), No I of the O of 4 Feb. 2022 ([AS 2022 65](https://fedlex.data.admin.ch/eli/oc/2022/65)), No II of the O of 16 Feb. 2022 ([AS 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)) and No II para. 2 of the O of 30 March 2022, in force since 1 April 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Annex No 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), No II para. 2 of the O of 25 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), No II of the O of 1 Oct. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), Annex No 1 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), No II para. 1 of the O of 17 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), No III 1 of the O of 2 Feb. 2022 (Lifting the Requirement for Contact Quarantine and to Work from Home) ([AS 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)), No I of the O of 4 Feb. 2022 ([AS 2022 65](https://fedlex.data.admin.ch/eli/oc/2022/65)), No II of the O of 16 Feb. 2022 ([AS 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)) and No II para. 2 of the O of 30 March 2022, in force since 1 April 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)). The correction of 13 May 2022 concerns the French and Italian text only ([AS 2022 286](https://fedlex.data.admin.ch/eli/oc/2022/286)).
 
 ### 1 Standard tariff for symptom- and case-based testing
 

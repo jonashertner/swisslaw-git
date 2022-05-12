@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2022-05-02
+version: 2022-05-13
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220502/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220502-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220502/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220513/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220513-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220513/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220502/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 2. Mai 2022)
+vom 19. Juni 2020 (Stand am 13. Mai 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -942,7 +942,7 @@ Anhang 5a*[^t-7]*
 
 (Art. 21 Abs. 1<sup>bis</sup> und 3)
 
-## Liste der Wirkstoffe für die Verhütung einer Covid-19 Infektion
+## Liste der Wirkstoffe für die Verhütung einer Covid-19-Infektion
 
 [^t-7]: Eingefügt durch Ziff. III Abs. 1 der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Fassung gemäss Ziff. II Abs. 1 der V vom 30. März 2022, in Kraft seit 1. April 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
 
@@ -954,7 +954,7 @@ Anhang 6*[^t-8]*
 
 ## Übernommene Leistungen und Höchstbeträge bei Analysen auf Sars-CoV-2
 
-[^t-8]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), vom 23. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), der Berichtigung vom 29. Juni 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Anhang Ziff. 3 I der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Ziff. II Abs. 2 der V vom 25. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), Ziff. II der V vom 1. Okt. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), Anhang Ziff. 1 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), Ziff. II Abs. 1 der V vom 17. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), Ziff. III 1 der V vom 2. Febr. 2022 (Aufhebung der Kontaktquarantäne und der Homeofficepflicht) ([AS 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)), Ziff. I der V vom 4. Febr. 2022 ([AS 2022 65](https://fedlex.data.admin.ch/eli/oc/2022/65)), Ziff. II der V vom 16. Febr. 2022 ([AS 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)) und Ziff. II Abs. 2 der V vom 30. März 2022, in Kraft seit 1. April 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+[^t-8]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), vom 23. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), der Berichtigung vom 29. Juni 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Anhang Ziff. 3 I der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Ziff. II Abs. 2 der V vom 25. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), Ziff. II der V vom 1. Okt. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), Anhang Ziff. 1 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), Ziff. II Abs. 1 der V vom 17. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), Ziff. III 1 der V vom 2. Febr. 2022 (Aufhebung der Kontaktquarantäne und der Homeofficepflicht) ([AS 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)), Ziff. I der V vom 4. Febr. 2022 ([AS 2022 65](https://fedlex.data.admin.ch/eli/oc/2022/65)), Ziff. II der V vom 16. Febr. 2022 ([AS 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)) und Ziff. II Abs. 2 der V vom 30. März 2022, in Kraft seit 1. April 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)). Die Berichtigung vom 13. Mai 2022 betrifft nur den französischen und italienischen Text ([AS 2022 286](https://fedlex.data.admin.ch/eli/oc/2022/286)).
 
 ### 1 Regulärer Tarif für symptom- und fallorientierte Testungen
 

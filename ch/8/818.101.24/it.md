@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2022-05-02
+version: 2022-05-13
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220502/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220502-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220502/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220513/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220513-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220513/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220502/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 2 maggio 2022)
+del 19 giugno 2020 (Stato 13 maggio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -948,7 +948,7 @@ Allegato 6*[^t-8]*
 
 ## Prestazioni assunte e importi massimi per le analisi per il SARS-CoV-2
 
-[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), dalla correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), dall’all. n. 3 I dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II cpv. 2 dell’O del 25 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), dal n. II dell’O del 1° ott. 2021 ([RU 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), dall’all. n. 1 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), dal n. II cpv. 1 dell’O del 17 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), dal n. III 1 dell’O del 2 feb. 2022 (Revoca della quarantena dei contatti e dell’obbligo di telelavoro) ([RU 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)), dal n. I dell’O del 4 feb. 2022 ([RU 2022 65](https://fedlex.data.admin.ch/eli/oc/2022/65)), dal n. II dell’O del 16 feb. 2022 ([RU 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)) e dal n. II cpv. 2 dell’O del 30 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), dalla correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), dall’all. n. 3 I dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II cpv. 2 dell’O del 25 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), dal n. II dell’O del 1° ott. 2021 ([RU 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), dall’all. n. 1 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), dal n. II cpv. 1 dell’O del 17 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), dal n. III 1 dell’O del 2 feb. 2022 (Revoca della quarantena dei contatti e dell’obbligo di telelavoro) ([RU 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)), dal n. I dell’O del 4 feb. 2022 ([RU 2022 65](https://fedlex.data.admin.ch/eli/oc/2022/65)), dal n. II dell’O del 16 feb. 2022 ([RU 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)) e dal n. II cpv. 2 dell’O del 30 mar. 2022 ([RU 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)). Correzione del 13 mag. 2022 ([RU 2022 286](https://fedlex.data.admin.ch/eli/oc/2022/286)).
 
 ### 1 Tariffe ordinarie per i test orientati ai sintomi e ai casi
 
@@ -1525,7 +1525,7 @@ Allegato 6*[^t-8]*
 - 4\.1 Se su una persona sono eseguite lo stesso giorno un’analisi di biologia molecolare per il SARS-CoV-2 secondo il numero 1.1 e un’analisi per gli anticorpi contro il SARS-CoV-2 secondo il numero 1.3, la Confederazione assume *una tantum* l’importo per il prelievo del campione secondo i numeri 1.1.3 lettera a e 1.3.3 lettera a, nonché quello per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione secondo i numeri 1.1.3 lettera b e 1.3.3 lettera b.
 - 4\.2 ...
 - 4\.3 Se su una persona sono eseguite dallo stesso fornitore di prestazioni un’analisi di biologia molecolare per il SARS-CoV-2 secondo il numero 1.1 e un rilevamento di biologia molecolare di una o più varianti di SARS-CoV-2 preoccupanti secondo il numero 1.5 o un sequenziamento del SARS-CoV-2 secondo il numero 1.6, la Confederazione assume *una tantum* l’importo per il disbrigo dell’incarico e i costi generali secondo i numeri 1.1.3 lettera b, 1.5.3 o 1.6.3.
-- 4\.4 Per le analisi per il SARS-CoV-2 nelle quali il campione è prelevato dalla persona testata stessa, il prelievo del campione non può essere fatturato.
+- 4\.4 Per le analisi per il SARS-CoV-2 nelle quali il campione può essere prelevato dalla persona testata stessa, il prelievo del campione non può essere fatturato.
 
 Allegato 7*[^t-9]*
 
