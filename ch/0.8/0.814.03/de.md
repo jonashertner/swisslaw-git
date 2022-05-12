@@ -3,11 +3,11 @@ sr: "0.814.03"
 title: Stockholmer Übereinkommen vom 22. Mai 2001 über persistente organische Schadstoffe (POP-Konvention) (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/347"
 language: de
-version: 2020-12-03
+version: 2022-05-13
 adopted: 2001-05-22
 in_force: 2004-05-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/347/20201203/de/xml/fedlex-data-admin-ch-eli-cc-2004-347-20201203-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/347/20201203/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/347/20220513/de/xml/fedlex-data-admin-ch-eli-cc-2004-347-20220513-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/347/20220513/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -28,7 +28,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 30. Juli 2003
 
 In Kraft getreten für die Schweiz am 17. Mai 2004
 
-(Stand am 3. Dezember 2020)
+(Stand am 13. Mai 2022)
 
 [^t-1]: [AS 2004 2795](https://fedlex.data.admin.ch/eli/oc/2004/346)
 
@@ -597,7 +597,7 @@ Die Urschrift dieses Übereinkommens, dessen arabischer, chinesischer, englische
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Stockholm am 22. Mai 2001*.* (Es folgen die Unterschriften)
 
-Anlage A*[^t-2]*
+Anlage A[^t-2]
 
 ## Eliminierung
 
@@ -823,7 +823,7 @@ Alle Parteien, die eine Ausnahmeregelung nach Artikel 4 für die Produktion und 
 
 <sup>3</sup> Im Hinblick auf die spezifische Ausnahmeregelung für die Verwendung von Perfluoroctyliodid für die Produktion von Perfluoroctylbromid für die Herstellung pharmazeutischer Produkte, prüft die Vertragsstaatenkonferenz das weitere Erfordernis für diese spezifische Ausnahmeregelung auf ihrer 13. ordentlichen Tagung und auf jeder zweiten ordentlichen Tagung danach. Diese spezifische Ausnahmeregelung läuft in jedem Fall spätestens 2036 aus.
 
-Anlage B*[^t-3]*
+Anlage B[^t-3]
 
 ## Beschränkung
 
@@ -837,7 +837,6 @@ Anlage B*[^t-3]*
 <tr><td></td><td>Verwendung</td><td colspan="2">Akzeptabler Zweck: Bekämpfung von Krankheitsüberträgern nach Teil II dieser Anlage Spezifische Ausnahmeregelungen: *Produktion von Dicofol* *Zwischenprodukt*</td></tr>
 <tr><td>Perfluoroctansulfonsäure (CAS-Nr.: 1763-23-1), ihre Salze<sup>a</sup> und Perfluoroctansulfonylfluorid\* (CAS-Nr.: 307-35-7)</td><td>Produktion</td><td>Akzeptabler Zweck: Nach Teil III dieser Anlage Produktion anderer Chemikalien, die nur für die nachstehenden Verwendungen verwendet werden dürfen. Produktion für die nachstehend aufgeführten Verwendungen. Spezifische Ausnahmeregelungen: keine</td></tr>
 <tr><td><sup>a</sup> Zum Beispiel: Kalium-Perfluoroctansulfonat (CAS-Nr.: 2795-39-3); Lithium-Perfluoroctansulfonat (CAS-Nr.: 29457-72-5); Ammonium-Perfluoroctansulfonat (CAS-Nr.: 29081-56-9); Diethanolammonium-Perfluoroctansulfonat (CAS-Nr.: 70225-14-8); Tetraethylammonium-Perfluoroctansulfonat (CAS-Nr.: 56773-42-3); Didecyldimethylammonium-Perfluoroctansulfonat (CAS-Nr.: 251099-16-8)</td><td>Verwendung</td><td colspan="2">**Akzeptabler Zweck:** Nach Teil III dieser Anlage für die folgenden akzeptablen Zwecke oder als Zwischenprodukt bei der Produktion von Chemikalien mit den folgenden akzeptablen Zwecken: – Insektenköder mit Wirkstoff Sulfluramid (CAS-Nr. 4151-50-2) zur Bekämpfung von Blattschneideameisen der Gattungen *Atta spp.* und *Acromyr**mex spp.* ausschliesslich zur Verwendung in der Landwirtschaft Spezifische Ausnahmeregelungen: – Metallgalvanisierung (Hartmetallbeschichtung) ausschliesslich in geschlossenen Kreislaufsystemen – Feuerlöschschaum zur Bekämpfung von Dämpfen aus Flüssigbrennstoffen und Bränden von Flüssigbrennstoffen (Brandklasse B), der bereits in installierten Systemen – sowohl mobiler als auch stationärer Art – enthalten ist, wie in Teil III Absatz 10 dieser Anlage aufgeführt</td></tr>
-<tr><td></td><td></td><td colspan="2">Spezifische Ausnahmeregelung: Für die folgenden spezifischen Verwendungen oder als Zwischenprodukt bei der Produktion von Chemikalien mit den folgenden spezifischen Verwendungen: – Fotomasken in der Halbleiter- und Flüssigkristall-(LCD)-Industrie – Metallgalvanisierung (Hartmetallbeschichtung) – Metallgalvanisierung (Zierbeschichtung) – Elektrische und elektronische Bauteile für verschiedene Farbdrucker und Farbkopierer – Insektizide zur Bekämpfung von Roten Feuerameisen und Termiten – Chemisch gestützte Ölproduktion – Teppiche – Leder und Bekleidung – Textilien und Polster – Papier und Verpackungen – Beschichtungen und Beschichtungsadditive – Gummi und Kunststoffe</td></tr>
 </table>
 
 Anmerkungen:
@@ -918,7 +917,7 @@ Perfluoroctansulfonsäure, ihre Salze und Perfluoroctansulfonylfluorid
 - e) unternimmt im Einklang mit Artikel 6 Absatz 1 so schnell wie möglich entschiedene Anstrengungen, die zu einem umweltverträglichen Umgang mit Feuerlöschschaumbeständen und -abfällen führen, die PFOS, ihre Salze oder PFOSF enthalten oder enthalten könnten.
 - [tab]
 
-Anlage C*[^t-4]*
+Anlage C[^t-4]
 
 ## Unerwünschte Nebenprodukte
 
@@ -1125,7 +1124,7 @@ Es soll eine Bewertung vorgenommen werden, die sich auf die möglichen Kontrollm
 - f. Status der Kontroll- und Überwachungskapazität und
 - g. etwaige nationale oder regionale Kontrollmassnahmen, darunter Informationen zu Alternativen, und sonstige einschlägige Informationen zum Risikomanagement.
 
-Anlage G*[^t-5]*
+Anlage G[^t-5]
 
 ## Beilegung von Streitigkeiten
 
@@ -1264,7 +1263,7 @@ Bei Meinungsverschiedenheiten über die Zuständigkeit der Vergleichskommission 
 
 Die Kosten der Vergleichskommission werden von den Streitparteien zu zwischen ihnen vereinbarten Teilen getragen. Die Kommission verzeichnet alle ihre Kosten und legt den Streitparteien eine Schlussabrechnung vor.
 
-Geltungsbereich am 9. August 2019**[^t-6]**
+Geltungsbereich am 13. Mai 2022[^t-6]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1274,6 +1273,7 @@ Geltungsbereich am 9. August 2019**[^t-6]**
 <tr><td>Algerien</td><td>22. September</td><td>2006</td><td>21. Dezember</td><td>2006</td></tr>
 <tr><td>Angola</td><td>23. Oktober</td><td>2006 B</td><td>21. Januar</td><td>2007</td></tr>
 <tr><td>Antigua und Barbuda</td><td>10. September</td><td>2003</td><td>17. Mai</td><td>2004</td></tr>
+<tr><td>Äquatorialguinea</td><td>24. Dezember</td><td>2019 B</td><td>23. März</td><td>2020</td></tr>
 <tr><td>Argentinien\*</td><td>25. Januar</td><td>2005</td><td>25. April</td><td>2005</td></tr>
 <tr><td>Armenien</td><td>26. November</td><td>2003</td><td>17. Mai</td><td>2004</td></tr>
 <tr><td>Aserbaidschan</td><td>13. Januar</td><td>2004 B</td><td>17. Mai</td><td>2004</td></tr>
@@ -1320,6 +1320,7 @@ Geltungsbereich am 9. August 2019**[^t-6]**
 <tr><td>Gambia</td><td>28. April</td><td>2006</td><td>27. Juli</td><td>2006</td></tr>
 <tr><td>Georgien</td><td>4. Oktober</td><td>2006</td><td>2. Januar</td><td>2007</td></tr>
 <tr><td>Ghana</td><td>30. Mai</td><td>2003</td><td>17. Mai</td><td>2004</td></tr>
+<tr><td>Grenada</td><td>15. Oktober</td><td>2021 B</td><td>13. Januar</td><td>2022</td></tr>
 <tr><td>Griechenland</td><td>3. Mai</td><td>2006</td><td>1. August</td><td>2006</td></tr>
 <tr><td>Guatemala\*</td><td>30. Juli</td><td>2008</td><td>28. Oktober</td><td>2008</td></tr>
 <tr><td>Guinea</td><td>11. Dezember</td><td>2007</td><td>10. März</td><td>2008</td></tr>
@@ -1456,4 +1457,4 @@ Geltungsbereich am 9. August 2019**[^t-6]**
 <tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland. <sup>b</sup> Das Übereink. gilt nicht für Tokelau. <sup>c</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-6]: [AS 2004 2797](https://fedlex.data.admin.ch/eli/oc/2004/347)[4353](https://fedlex.data.admin.ch/eli/oc/2004/657), [2005 4443](https://fedlex.data.admin.ch/eli/oc/2005/574), [2006 849](https://fedlex.data.admin.ch/eli/oc/2006/146), [2007 597](https://fedlex.data.admin.ch/eli/oc/2007/121)[5089](https://fedlex.data.admin.ch/eli/oc/2007/716), [2009 3725](https://fedlex.data.admin.ch/eli/oc/2009/473), [2010 2299](https://fedlex.data.admin.ch/eli/oc/2010/327), [2012 435](https://fedlex.data.admin.ch/eli/oc/2012/50), [2014 1427](https://fedlex.data.admin.ch/eli/oc/2014/307)und [2019 2595](https://fedlex.data.admin.ch/eli/oc/2019/483). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-6]: [AS 2004 2797](https://fedlex.data.admin.ch/eli/oc/2004/347), [4353](https://fedlex.data.admin.ch/eli/oc/2004/657); [2005 4443](https://fedlex.data.admin.ch/eli/oc/2005/574); [2006 849](https://fedlex.data.admin.ch/eli/oc/2006/146); [2007 597](https://fedlex.data.admin.ch/eli/oc/2007/121), [5089](https://fedlex.data.admin.ch/eli/oc/2007/716); [2009 3725](https://fedlex.data.admin.ch/eli/oc/2009/473); [2010 2299](https://fedlex.data.admin.ch/eli/oc/2010/327); [2012 435](https://fedlex.data.admin.ch/eli/oc/2012/50); [2014 1427](https://fedlex.data.admin.ch/eli/oc/2014/307); [2019 2595](https://fedlex.data.admin.ch/eli/oc/2019/483); [2022 298](https://fedlex.data.admin.ch/eli/oc/2022/298). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty

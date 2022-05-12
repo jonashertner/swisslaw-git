@@ -3,11 +3,11 @@ sr: "0.814.03"
 title: Convenzione di Stoccolma del 22 maggio 2001 sugli inquinanti organici persistenti (Convenzione POP) (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/347"
 language: it
-version: 2020-12-03
+version: 2022-05-13
 adopted: 2001-05-22
 in_force: 2004-05-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/347/20201203/it/xml/fedlex-data-admin-ch-eli-cc-2004-347-20201203-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/347/20201203/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/347/20220513/it/xml/fedlex-data-admin-ch-eli-cc-2004-347-20220513-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/347/20220513/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,15 +20,9 @@ Traduzione
 
 (Convenzione POP)
 
-Conclusa a Stoccolma il 22 maggio 2001
+Conclusa a Stoccolma il 22 maggio 2001 Approvata dall’Assemblea federale il 2 giugno 2003[^t-1] Ratificata con strumenti depositati dalla Svizzera il 30 luglio 2003 Entrata in vigore per la Svizzera il 17 maggio 2004
 
-Approvata dall’Assemblea federale il 2 giugno 2003[^t-1]
-
-Ratificata con strumenti depositati dalla Svizzera il 30 luglio 2003
-
-Entrata in vigore per la Svizzera il 17 maggio 2004
-
-(Stato 3 dicembre 2020)
+(Stato 13 maggio 2022)
 
 [^t-1]: [RU 2004 2795](https://fedlex.data.admin.ch/eli/oc/2004/346)
 
@@ -647,7 +641,7 @@ L’originale della presente Convenzione, i cui testi in lingua araba, cinese, i
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tal fine, hanno firmato la presente Convenzione. Fatto a Stoccolma il ventidue maggio duemilauno. (Seguono le firme)
 
-Allegato A*[^t-2]*
+Allegato A[^t-2]
 
 ## Eliminazione
 
@@ -703,7 +697,7 @@ Allegato A*[^t-2]*
 <tr><td></td><td>Uso</td><td>Nessuno</td></tr>
 <tr><td>Pentaclorofenolo e i suoi sali ed esteri</td><td>Produzione</td><td>Come ammessa per le Parti iscritte nel registro conformemente alle disposizioni della parte VIII del presente allegato</td></tr>
 <tr><td></td><td>Uso</td><td>Come ammessa per le Parti iscritte nel registro conformemente alle disposizioni della parte VIII del presente allegato</td></tr>
-<tr><td>Acido perfluoroottanoico (PFOA), i suoi sali e i composti a esso correlati Per «acido perfluoroottanoico (PFOA), i suoi sali e i composti a esso correlati» si intende: i) l’acido perfluoroottanoico (PFOA; n. CAS 335-67-1), compresi i suoi isomeri ramificati; ii) i suoi sali; iii) i composti a esso correlati che siano, ai fini della presente Convenzione, sostanze che degradano in PFOA, compresa qualsiasi sostanza (a inclusione di sali e polimeri) avente, come uno degli elementi strutturali, un gruppo perfluoroeptil lineare o ramificato con la frazione (C<sub>7</sub>F<sub>15</sub>)C direttamente correlato a un altro atomo di carbonio; I composti seguenti non sono inclusi tra i composti correlati al PFOA: i) composti con la formula C<sub>8</sub>F<sub>17</sub>-X, dove X= F, Cl, Br; ii) fluoropolimeri con la formula CF<sub>3</sub>[CF<sub>2</sub>]n-R’, dove R’ designa un gruppo qualsiasi, con n&gt;16; iii) acidi perfluorocarbossilici e acidi fosfonici (compresi i loro sali, esteri, alogenuri e anidridi) con almeno otto atomi di perfluorocarburi; iv) acidi perfluoroalcani solfonici (compresi i loro sali, esteri, alogenuri e anidridi) con almeno nove atomi di perfluorocarburi; v) acido perfluorottano solfonico (PFOS), i suoi sali e il fluoruro di solfato di perfluorottano sulfonile (PFOSF), che figurano nell’allegato B della Convenzione di Stoccolma.</td><td>Produzione</td><td>Schiume antincendio: nessuna Altre produzioni: quali quelle autorizzate dalle Parti iscritte nel registro, conformemente alle disposizioni della parte X del presente allegato</td></tr>
+<tr><td>Acido perfluoroottanoico (PFOA), i suoi sali e i composti a esso correlati Per «acido perfluoroottanoico (PFOA), i suoi sali e i composti a esso correlati» si intende: i) l’acido perfluoroottanoico (PFOA; n. CAS 335-67-1), compresi i suoi isomeri ramificati; ii) i suoi sali; iii) i composti a esso correlati che siano, ai fini della presente Convenzione, sostanze che degradano in PFOA, compresa qualsiasi sostanza (a inclusione di sali e polimeri) avente, come uno degli elementi strutturali, un gruppo perfluoroeptil lineare o ramificato con la frazione (C<sub>7</sub>F<sub>15</sub>)C direttamente correlato a un altro atomo di carbonio; I composti seguenti non sono inclusi tra i composti correlati al PFOA: i) composti con la formula C<sub>8</sub>F<sub>17</sub>-X, dove X= F, Cl, Br; ii) fluoropolimeri con la formula CF<sub>3</sub>[CF<sub>2</sub>]n-R’, dove R’ designa un gruppo qualsiasi, con n&gt;16; iii) acidi perfluorocarbossilici e acidi fosfonici (compresi i loro sali, esteri, alogenuri e anidridi) con almeno otto atomi di perfluorocarburi; iv) acidi perfluoroalcani solfonici (compresi i loro sali, esteri, alogenuri e anidridi) con almeno nove atomi di perfluorocarburi; v) acido perfluoroottansolfonico (PFOS), i suoi sali e il fluoruro di solfato di perfluorottano sulfonile (PFOSF), che figurano nell’allegato B della Convenzione di Stoccolma.</td><td>Produzione</td><td>Schiume antincendio: nessuna Altre produzioni: quali quelle autorizzate dalle Parti iscritte nel registro, conformemente alle disposizioni della parte X del presente allegato</td></tr>
 <tr><td></td><td>Uso</td><td>Conformemente alle disposizioni della parte X del presente allegato: fotolitografia o processi di incisione rivestimenti fotografici applicati alle pellicole tessuti idrorepellenti e oleorepellenti per la protezione dei lavoratori dai liquidi pericolosi che comportano rischi per la loro salute e la loro sicurezza dispositivi medici invasivi e impiantabili</td></tr>
 <tr><td>[tab]</td><td></td><td>Schiume antincendio per l’eliminazione dei vapori dei combustibili liquidi e per gli incendi di combustibili liquidi (incendi di classe B) già installate in sistemi, sia mobili sia fissi, conformemente al paragrafo 2 della parte X del presente allegato. Uso di ioduro di perfluoroottile per la produzione di bromuro di perfluoroottile per la fabbricazione di prodotti farmaceutici conformemente alle disposizioni del paragrafo 3 della parte X del presente allegato. Produzione di politetrafluoroetilene (PTFE) e di fluoruro di polivinilidene (PVDF) per la fabbricazione di: – membrane per la filtrazione del gas, membrane per la filtrazione dell’acqua e membrane per tessuti medicali ad alte prestazioni e resistenti alla corrosione – scambiatori di calore per il recupero di calore residuo industriale – sigillanti industriali in grado di impedire la dispersione di composti organici volatili e particolato PM2,5 Produzione di polifluoroetilene-propilene per la fabbricazione di fili e cavi elettrici ad alta tensione per la trasmissione di corrente Produzione di fluoroelastomeri per la fabbricazione di guarnizioni O-ring, di cinghie di trasmissione trapezoidali e di accessori in plastica per gli interni dei veicoli automobili</td></tr>
 <tr><td>Bifenili policlorurati (PCB)\*</td><td>Produzione</td><td>Nessuna</td></tr>
@@ -861,7 +855,7 @@ Ciascuna parte che ha fatto registrare una deroga conformemente all’articolo 4
 
 <sup>3</sup> Quanto alla deroga specifica relativa all’uso di ioduro di perfluoroottile per la produzione di bromuro di perfluoroottile ai fini della fabbricazione di prodotti farmaceutici, in occasione della sua tredicesima riunione ordinaria e, in seguito, in occasione di una riunione ordinaria su due, la Conferenza delle Parti valuterà la necessità di mantenere questa deroga specifica. Quest’ultima scadrà in ogni caso al più tardi nel 2036.
 
-Allegato B*[^t-3]*
+Allegato B[^t-3]
 
 ## Limitazione
 
@@ -877,7 +871,7 @@ Allegato B*[^t-3]*
 
 <table>
 <tr><th>Sostanza chimica</th><th>Attività</th><th>Scopo accettabile o deroga specifica</th></tr>
-<tr><td>Acido perfluorottano solfonico (n. CAS 1763-23-1), suoi sali<sup>a</sup> e fluoruro di perfluorottano sulfonile (n. CAS 307-35-7)</td><td>Produzione</td><td>**Scopo accettabile:** conformemente alla parte III del presente allegato, produzione di altre sostanze chimiche destinate esclusivamente all’uso indicato qui appresso. Produzione per gli usi elencati qui appresso. Deroga specifica: nessuna</td></tr>
+<tr><td>Acido perfluoroottansolfonico (n. CAS 1763-23-1), suoi sali<sup>a</sup> e fluoruro di perfluorottano sulfonile (n. CAS 307-35-7)</td><td>Produzione</td><td>**Scopo accettabile:** conformemente alla parte III del presente allegato, produzione di altre sostanze chimiche destinate esclusivamente all’uso indicato qui appresso. Produzione per gli usi elencati qui appresso. Deroga specifica: nessuna</td></tr>
 <tr><td><sup>a</sup> Per esempio: perfluorottano solfonato di potassio (n. CAS 2795-39-3); perfluorottano solfonato di litio (n. CAS 29457-72-5); perfluorottano solfonato di ammonio (n. CAS 29081-56-9); perfluorottano solfonato di dietanolammonio (n. CAS 70225-14-8); perfluorottano solfonato di tetraetilammonio (n. CAS 56773-42-3); perfluorottano solfonato di didecildimetilammonio (n. CAS 251099-16-8)</td><td>Uso</td><td>**Scopo accettabile:** uso conforme alla parte III del presente allegato per il seguente scopo accettabile o in quanto prodotto intermedio per la produzione di sostanze chimiche per il seguente scopo accettabile: – esche contenenti sulfluramid (n. CAS 4151-50-2) come ingrediente attivo per la lotta contro le formiche tagliatrici di foglie appartenenti alle specie *Atta spp.* e *Acromyrmex spp.*, esclusivamente a fini agricoli Deroga specifica: – metallizzazione (rivestimento in metallo duro) in circuito chiuso – schiume antincendio per l’eliminazione dei vapori dei combustibili liquidi e per gli incendi di combustibili liquidi (incendi di classe B) già installate in sistemi, sia mobili sia fissi, conformemente al paragrafo 10 della parte III del presente allegato</td></tr>
 </table>
 
@@ -920,13 +914,13 @@ Note:
 
 <sup>7</sup> In qualsiasi momento, una Parte può ritirare il proprio nome dal registro del DDT tramite notifica scritta al Segretariato. Il ritiro entra in vigore alla data indicata nella notifica.
 
-### Parte III Acido perfluorottano solfonico, i suoi sali e fluoruro di perfluorottano sulfonile
+### Parte III Acido perfluoroottansolfonico, i suoi sali e fluoruro di perfluorottano sulfonile
 
-<sup>1</sup> La produzione e l’uso di acido perfluorottano solfonico, dei suoi sali e di fluoruro di perfluorottano sulfonile sono abbandonati da tutte le Parti, salvo nei casi previsti nella prima parte del presente allegato per le Parti che hanno espresso al Segretariato l’intenzione di produrli o di utilizzarli per uno scopo accettabile. La presente Convenzione istituisce un Registro degli scopi accettabili accessibile al pubblico. La tenuta di detto Registro è garantita dal Segretariato. Se una Parte non iscritta al registro constata l’esigenza di ricorrere all’acido perfluorottano solfonico, ai suoi sali o al fluoruro di perfluorottano sulfonile per uno scopo accettabile menzionato nella prima parte del presente allegato, deve notificarlo quanto prima al Segretariato in modo tale da poter essere immediatamente iscritta nel registro.
+<sup>1</sup> La produzione e l’uso di acido perfluoroottansolfonico, dei suoi sali e di fluoruro di perfluorottano sulfonile sono abbandonati da tutte le Parti, salvo nei casi previsti nella prima parte del presente allegato per le Parti che hanno espresso al Segretariato l’intenzione di produrli o di utilizzarli per uno scopo accettabile. La presente Convenzione istituisce un Registro degli scopi accettabili accessibile al pubblico. La tenuta di detto Registro è garantita dal Segretariato. Se una Parte non iscritta al registro constata l’esigenza di ricorrere all’acido perfluoroottansolfonico, ai suoi sali o al fluoruro di perfluorottano sulfonile per uno scopo accettabile menzionato nella prima parte del presente allegato, deve notificarlo quanto prima al Segretariato in modo tale da poter essere immediatamente iscritta nel registro.
 
 <sup>2</sup> Le Parti che producono o utilizzano queste sostanze tengono conto, se del caso, degli orientamenti forniti nei passaggi pertinenti delle indicazioni generali sulle migliori tecniche disponibili e sulle migliori prassi ambientali di cui alla parte V dell’allegato C alla presente Convenzione.
 
-<sup>3</sup> Ogni Parte che utilizza e/o produce queste sostanze stende, a scadenza quadriennale, un rapporto sui propri progressi nell’eliminazione dell’acido perfluorottano solfonico, dei suoi sali e del fluoruro di perfluorottano sulfonile e trasmette le informazioni su detti progressi alla Conferenza delle Parti nel quadro dell’obbligo di rapporto in virtù dell’articolo 15 della Convenzione.
+<sup>3</sup> Ogni Parte che utilizza e/o produce queste sostanze stende, a scadenza quadriennale, un rapporto sui propri progressi nell’eliminazione dell’acido perfluoroottansolfonico, dei suoi sali e del fluoruro di perfluorottano sulfonile e trasmette le informazioni su detti progressi alla Conferenza delle Parti nel quadro dell’obbligo di rapporto in virtù dell’articolo 15 della Convenzione.
 
 <sup>4</sup> Al fine di ridurre e, a termine, di eliminare l’uso e/o la produzione di queste sostanze, la Conferenza delle Parti sollecita:
 
@@ -949,15 +943,15 @@ Note:
 
 <sup>9</sup> Le disposizioni della nota iii) della parte I dell’allegato B non si applicano a queste sostanze.
 
-<sup>10</sup> Ciascuna Parte che, conformemente all’articolo 4, ha fatto registrare una deroga per l’uso di acido perfluorottano solfonico, dei suoi sali o di fluoruro di perfluorottano sulfonile nelle schiume antincendio deve:
+<sup>10</sup> Ciascuna Parte che, conformemente all’articolo 4, ha fatto registrare una deroga per l’uso di acido perfluoroottansolfonico, dei suoi sali o di fluoruro di perfluorottano sulfonile nelle schiume antincendio deve:
 
-- a) nonostante il paragrafo 2 dell’articolo 3, fare in modo che le schiume antincendio che contengono o possono contenere acido perfluorottano solfonico, suoi sali o fluoruro di perfluorottano sulfonile non siano esportate o importate, salvo ai fini di uno smaltimento rispettoso dell’ambiente, come previsto alla lettera d del paragrafo 1 dell’articolo 6;
-- b) evitare di usare schiume antincendio che contengono o possono contenere acido perfluorottano solfonico, suoi sali o fluoruro di perfluorottano sulfonile a fini di formazione;
-- c) evitare di usare schiume antincendio che contengono o possono contenere acido perfluorottano solfonico, suoi sali o fluoruro perfluorottano sulfonile a fini di prova, a meno che i rilasci siano totalmente segregati;
-- d) entro la fine del 2022, se la Parte è in grado di farlo, limitare l’uso di schiume antincendio che contengono o possono contenere acido perfluorottano solfonico, suoi sali o fluoruro di perfluorottano sulfonile ai siti nei quali i rilasci possano essere totalmente segregati;
-- e) impegnarsi con determinazione per arrivare quanto prima a una gestione razionale dal profilo ecologico delle scorte di schiume antincendio e dei rifiuti che contengono o possono contenere acido perfluorottano solfonico, suoi sali o fluoruro di perfluorottano sulfonile, conformemente al paragrafo 1 dell’articolo 6.
+- a) nonostante il paragrafo 2 dell’articolo 3, fare in modo che le schiume antincendio che contengono o possono contenere acido perfluoroottansolfonico, suoi sali o fluoruro di perfluorottano sulfonile non siano esportate o importate, salvo ai fini di uno smaltimento rispettoso dell’ambiente, come previsto alla lettera d del paragrafo 1 dell’articolo 6;
+- b) evitare di usare schiume antincendio che contengono o possono contenere acido perfluoroottansolfonico, suoi sali o fluoruro di perfluorottano sulfonile a fini di formazione;
+- c) evitare di usare schiume antincendio che contengono o possono contenere acido perfluoroottansolfonico, suoi sali o fluoruro perfluorottano sulfonile a fini di prova, a meno che i rilasci siano totalmente segregati;
+- d) entro la fine del 2022, se la Parte è in grado di farlo, limitare l’uso di schiume antincendio che contengono o possono contenere acido perfluoroottansolfonico, suoi sali o fluoruro di perfluorottano sulfonile ai siti nei quali i rilasci possano essere totalmente segregati;
+- e) impegnarsi con determinazione per arrivare quanto prima a una gestione razionale dal profilo ecologico delle scorte di schiume antincendio e dei rifiuti che contengono o possono contenere acido perfluoroottansolfonico, suoi sali o fluoruro di perfluorottano sulfonile, conformemente al paragrafo 1 dell’articolo 6.
 
-Allegato C*[^t-4]*
+Allegato C[^t-4]
 
 ## Produzione non intenzionale
 
@@ -1179,7 +1173,7 @@ Le possibili misure di controllo delle sostanze chimiche esaminate in vista di u
 - a) qualsiasi misura di controllo nazionale o regionale adottata, comprese informazioni sulle alternative e altre informazioni pertinenti concernenti la gestione dei rischi.
 - [tab]
 
-Allegato G*[^t-5]*
+Allegato G[^t-5]
 
 ## Composizione delle cotntroversie
 
@@ -1318,7 +1312,7 @@ In caso di disaccordo sulla competenza della commissione di conciliazione, è la
 
 Le spese della commissione sono sostenute dalle Parti in causa secondo le proporzioni da esse convenute. La commissione tiene un registro di tutte le proprie spese e ne fornisce un estratto finale alle.
 
-Campo d’applicazione il 9 agosto 2019**[^t-6]**
+Campo d’applicazione il 13 maggio 2022[^t-6]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1396,8 +1390,10 @@ Campo d’applicazione il 9 agosto 2019**[^t-6]**
 <tr><td>Gibuti</td><td>11 marzo</td><td>2004</td><td>9 giugno</td><td>2004</td></tr>
 <tr><td>Giordania</td><td>8 novembre</td><td>2004</td><td>6 febbraio</td><td>2005</td></tr>
 <tr><td>Grecia</td><td>3 maggio</td><td>2006</td><td>1° agosto</td><td>2006</td></tr>
+<tr><td>Grenada</td><td>15 ottobre</td><td>2021 A</td><td>13 gennaio</td><td>2022</td></tr>
 <tr><td>Guatemala<sup>\*</sup></td><td>30 luglio</td><td>2008</td><td>28 ottobre</td><td>2008</td></tr>
 <tr><td>Guinea</td><td>11 dicembre</td><td>2007</td><td>10 marzo</td><td>2008</td></tr>
+<tr><td>Guinea Equatoriale</td><td>24 dicembre</td><td>2019 A</td><td>23 marzo</td><td>2020</td></tr>
 <tr><td>Guinea-Bissau</td><td>6 agosto</td><td>2008</td><td>4 novembre</td><td>2008</td></tr>
 <tr><td>Guyana</td><td>12 settembre</td><td>2007 A</td><td>11 dicembre</td><td>2007</td></tr>
 <tr><td>Honduras</td><td>23 maggio</td><td>2005</td><td>21 agosto</td><td>2005</td></tr>
@@ -1507,10 +1503,10 @@ Campo d’applicazione il 9 agosto 2019**[^t-6]**
 <tr><td>Yemen</td><td>9 gennaio</td><td>2004</td><td>17 maggio</td><td>2004</td></tr>
 <tr><td>Zambia</td><td>7 luglio</td><td>2006</td><td>5 ottobre</td><td>2006</td></tr>
 <tr><td>Zimbabwe</td><td>1° marzo</td><td>2012</td><td>30 maggio</td><td>2012</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto interna-zionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto interna-zionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> La Conv. non si applica alla Groenlandia.</td></tr>
 <tr><td colspan="5"><sup>b</sup> La Conv. non vale per Tokelau.</td></tr>
 <tr><td colspan="5"><sup>c</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-6]: [RU 2004 2797](https://fedlex.data.admin.ch/eli/oc/2004/347)[4353](https://fedlex.data.admin.ch/eli/oc/2004/657), [2005 4443](https://fedlex.data.admin.ch/eli/oc/2005/574), [2006 849](https://fedlex.data.admin.ch/eli/oc/2006/146), [2007 597](https://fedlex.data.admin.ch/eli/oc/2007/121)[5089](https://fedlex.data.admin.ch/eli/oc/2007/716), [2009 3725](https://fedlex.data.admin.ch/eli/oc/2009/473), [2010 2299](https://fedlex.data.admin.ch/eli/oc/2010/327), [2012 435](https://fedlex.data.admin.ch/eli/oc/2012/50), [2014 1427](https://fedlex.data.admin.ch/eli/oc/2014/307)e [2019 2595](https://fedlex.data.admin.ch/eli/oc/2019/483). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-6]: [RU 2004 2797](https://fedlex.data.admin.ch/eli/oc/2004/347), [4353](https://fedlex.data.admin.ch/eli/oc/2004/657); [2005 4443](https://fedlex.data.admin.ch/eli/oc/2005/574); [2006 849](https://fedlex.data.admin.ch/eli/oc/2006/146); [2007 597](https://fedlex.data.admin.ch/eli/oc/2007/121), [5089](https://fedlex.data.admin.ch/eli/oc/2007/716); [2009 3725](https://fedlex.data.admin.ch/eli/oc/2009/473); [2010 2299](https://fedlex.data.admin.ch/eli/oc/2010/327); [2012 435](https://fedlex.data.admin.ch/eli/oc/2012/50); [2014 1427](https://fedlex.data.admin.ch/eli/oc/2014/307); [2019 2595](https://fedlex.data.admin.ch/eli/oc/2019/483);[2022 298](https://fedlex.data.admin.ch/eli/oc/2022/298). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty

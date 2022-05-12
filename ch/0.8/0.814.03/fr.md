@@ -3,11 +3,11 @@ sr: "0.814.03"
 title: Convention de Stockholm du 22 mai 2001 sur les polluants organiques persistants (Convention POP) (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/347"
 language: fr
-version: 2020-12-03
+version: 2022-05-13
 adopted: 2001-05-22
 in_force: 2004-05-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/347/20201203/fr/xml/fedlex-data-admin-ch-eli-cc-2004-347-20201203-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/347/20201203/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/347/20220513/fr/xml/fedlex-data-admin-ch-eli-cc-2004-347-20220513-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/347/20220513/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,7 +18,7 @@ RO **2004** 2797; FF **2002** 6751
 
 Texte original
 
-(Convention-POP)
+(Convention POP)
 
 Conclue à Stockholm le 22 mai 2001
 
@@ -28,7 +28,7 @@ Instrument de ratification déposé par la Suisse le 30 juillet 2003
 
 Entrée en vigueur pour la Suisse le 17 mai 2004
 
-(Etat le 3 décembre 2020)
+(Etat le 13 mai 2022)
 
 [^t-1]: [RO 2004 2795](https://fedlex.data.admin.ch/eli/oc/2004/346)
 
@@ -1327,7 +1327,7 @@ En cas de désaccord au sujet de la compétence de la commission de conciliation
 
 Les frais de la commission sont supportés par les parties au différend dans des proportions dont elles conviennent. La commission tient un relevé de tous ses frais et en fournit un état final aux parties.
 
-Champ d’application le 9 août 2019**[^t-6]**
+Champ d’application le 13 mai 2022**[^t-6]**
 
 <table>
 <tr><th colspan="2">États parties</th><th colspan="2">Ratification Adhésion (A)</th><th colspan="2"></th><th>Entrée en vigueur</th><th></th></tr>
@@ -1399,8 +1399,10 @@ Champ d’application le 9 août 2019**[^t-6]**
 <tr><td colspan="2">Géorgie</td><td colspan="2">4 octobre</td><td colspan="2">2006</td><td>2 janvier</td><td>2007</td></tr>
 <tr><td colspan="2">Ghana</td><td colspan="2">30 mai</td><td colspan="2">2003</td><td>17 mai</td><td>2004</td></tr>
 <tr><td colspan="2">Grèce</td><td colspan="2">3 mai</td><td colspan="2">2006</td><td>1<sup>er</sup> août</td><td>2006</td></tr>
+<tr><td colspan="2">Grenade</td><td colspan="2">15 octobre</td><td colspan="2">2021 A</td><td>13 janvier</td><td>2022</td></tr>
 <tr><td colspan="2">Guatemala\*</td><td colspan="2">30 juillet</td><td colspan="2">2008</td><td>28 octobre</td><td>2008</td></tr>
 <tr><td colspan="2">Guinée</td><td colspan="2">11 décembre</td><td colspan="2">2007</td><td>10 mars</td><td>2008</td></tr>
+<tr><td colspan="2">Guinée équatoriale</td><td colspan="2">24 décembre</td><td colspan="2">2019 A</td><td>23 mars</td><td>2020</td></tr>
 <tr><td colspan="2">Guinée-Bissau</td><td colspan="2">6 août</td><td colspan="2">2008</td><td>4 novembre</td><td>2008</td></tr>
 <tr><td colspan="2">Guyana</td><td colspan="2">12 septembre</td><td colspan="2">2007 A</td><td>11 décembre</td><td>2007</td></tr>
 <tr><td colspan="2">Honduras</td><td colspan="2">23 mai</td><td colspan="2">2005</td><td>21 août</td><td>2005</td></tr>
@@ -1519,4 +1521,4 @@ Champ d’application le 9 août 2019**[^t-6]**
 <tr><td colspan="8">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas au Groenland. <sup>b</sup> La Convention ne s’applique pas aux Tokélaou. <sup>c</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-6]: [RO 2004 2797](https://fedlex.data.admin.ch/eli/oc/2004/347)[4353](https://fedlex.data.admin.ch/eli/oc/2004/657), [2005 4443](https://fedlex.data.admin.ch/eli/oc/2005/574), [2006 849](https://fedlex.data.admin.ch/eli/oc/2006/146), [2007 597](https://fedlex.data.admin.ch/eli/oc/2007/121)[5089](https://fedlex.data.admin.ch/eli/oc/2007/716), [2009 3725](https://fedlex.data.admin.ch/eli/oc/2009/473), [2010 2299](https://fedlex.data.admin.ch/eli/oc/2010/327), [2012 435](https://fedlex.data.admin.ch/eli/oc/2012/50), [2014 1427](https://fedlex.data.admin.ch/eli/oc/2014/307), [2019 2595](https://fedlex.data.admin.ch/eli/oc/2019/483). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-6]: [RO 2004 2797](https://fedlex.data.admin.ch/eli/oc/2004/347)[4353](https://fedlex.data.admin.ch/eli/oc/2004/657), [2005 4443](https://fedlex.data.admin.ch/eli/oc/2005/574), [2006 849](https://fedlex.data.admin.ch/eli/oc/2006/146), [2007 597](https://fedlex.data.admin.ch/eli/oc/2007/121)[5089](https://fedlex.data.admin.ch/eli/oc/2007/716), [2009 3725](https://fedlex.data.admin.ch/eli/oc/2009/473), [2010 2299](https://fedlex.data.admin.ch/eli/oc/2010/327), [2012 435](https://fedlex.data.admin.ch/eli/oc/2012/50), [2014 1427](https://fedlex.data.admin.ch/eli/oc/2014/307), [2019 2595](https://fedlex.data.admin.ch/eli/oc/2019/483); [2022 298](https://fedlex.data.admin.ch/eli/oc/2022/298). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
