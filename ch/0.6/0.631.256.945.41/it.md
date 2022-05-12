@@ -3,25 +3,26 @@ sr: "0.631.256.945.41"
 title: "Convenzione tra la Svizzera e l'Italia del 2 luglio 1953 per il traffico di frontiera ed il pascolo (con All., Scambio di lettere e Processo verbale)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1956/532_577_581"
 language: it
-version: 1956-02-17
+version: 2022-05-13
 adopted: 1953-07-02
 in_force: 1956-02-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/532_577_581/19560217/it/xml/fedlex-data-admin-ch-eli-cc-1956-532_577_581-19560217-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1956/532_577_581/19560217/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/532_577_581/20220513/it/xml/fedlex-data-admin-ch-eli-cc-1956-532_577_581-20220513-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1956/532_577_581/20220513/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione tra la Svizzera e l’Italia per il traffico di frontiera ed il pascolo
 
-(Stato 5 novembre 1999)0.631.256.945.41Nicht löschen bitte "[^t-1] " !!
+RU **1956** 581; FF **1955** II 738 ediz. ted. 762 ediz. franc.
 
 Testo originale
 
-Conchiusa il 2 luglio 1953 Approvato dall’Assemblea federale il 22 dicembre 1955[^t-2] Istrumenti di ratificazione scambiati il 17 febbraio 1956 Entrata in vigore il 17 febbraio 1956
+Conchiusa il 2 luglio 1953 Approvato dall’Assemblea federale il 22 dicembre 1955[^t-1] Istrumenti di ratificazione scambiati il 17 febbraio 1956 Entrata in vigore il 17 febbraio 1956
 
-[^t-1]: [RU 1956 581](https://fedlex.data.admin.ch/eli/oc/1956/532_577_581); FF **1955** II 738 ediz. ted. 762 ediz. franc.
-[^t-2]: [RU 1956 579](https://fedlex.data.admin.ch/eli/oc/1956/531_575_579)
+(Stato 13 maggio 2022)
+
+[^t-1]: [RU 1956 579](https://fedlex.data.admin.ch/eli/oc/1956/531_575_579)
 
 Il Presidente della Repubblica Italiana ed il Consiglio federale della Confederazione Svizzera,
 
@@ -251,13 +252,15 @@ Fatto a Roma, il 2 luglio 1953.
 <tr><td>Widmer</td><td>Ettore Spallazzi</td></tr>
 </table>
 
-Allegato I
+Allegato I[^t-2]
 
 ## Elenco dei Comuni e frazioni di Comuni italiani ammessi a beneficiare delle disposizioni della Convenzione relativa al traffico di frontiera ed al pascolo
 
+[^t-2]: Aggiornato dalla correzione del 13 mag. 2022 ([RU 2022 290](https://fedlex.data.admin.ch/eli/oc/2022/290)).
+
 Valle d’Aosta
 
-Courmayeur – Saint Rhémy – Saint Oyen – Etroubles – Allain – Gignod – Doues – Valpelline – Oyace – Bionaz – Valtournanche –Ayas – Gressoney la Trinité – Gressoney St. Jean (limitatamente al capoluogo e al territorio a Nord di esso).
+Courmayeur – Saint Rhémy – Saint Oyen – Etroubles – Allain – Gignod – Doues – Ollomont – Valpelline – Oyace – Bionaz – Valtournanche –Ayas – Gressoney la Trinité – Gressoney St. Jean (limitatamente al capoluogo e al territorio a Nord di esso).
 
 Provincia di Vercelli
 
@@ -496,6 +499,5 @@ A tale scopo, si è convenuto quanto appresso:
 Roma, 2 luglio 1953.
 
 <table>
-<tr><td>Il Direttore generale delle dogane svizzere:</td><td>Il Direttore generale delle dogane ed I. I. italiane:</td></tr>
-<tr><td>Widmer</td><td>Ettore Spallazzi</td></tr>
+<tr><td>Il Direttore generale delle dogane svizzere: Widmer</td><td>Il Direttore generale delle dogane ed I. I. italiane: Ettore Spallazzi</td></tr>
 </table>

@@ -3,26 +3,27 @@ sr: "0.631.256.945.41"
 title: "Convention du 2 juillet 1953 entre la Suisse et l'Italie relative au trafic de frontière et au pacage (avec annexes, échanges de lettres et procès-verbal)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1956/532_577_581"
 language: fr
-version: 1956-02-17
+version: 2022-05-13
 adopted: 1953-07-02
 in_force: 1956-02-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/532_577_581/19560217/fr/xml/fedlex-data-admin-ch-eli-cc-1956-532_577_581-19560217-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1956/532_577_581/19560217/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/532_577_581/20220513/fr/xml/fedlex-data-admin-ch-eli-cc-1956-532_577_581-20220513-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1956/532_577_581/20220513/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention entre la Suisse et l’Italie relative au trafic de frontière et au pacage
 
-0.631.256.945.41 (Etat le 5 novembre 1999)Nicht löschen bitte "[^t-1] " !!
+RO **1956** 577; FF **1955** II 762
 
-Traduction*[^t-2]*
+Traduction[^t-1]
 
-Conclue le 2 juillet 1953 Approuvée par l’Assemblée fédérale le 22 décembre 1955[^t-3] Instruments de ratification échangés le 17 février 1956 Entrée en vigueur le 17 février 1956
+Conclue le 2 juillet 1953 Approuvée par l’Assemblée fédérale le 22 décembre 1955[^t-2] Instruments de ratification échangés le 17 février 1956 Entrée en vigueur le 17 février 1956
 
-[^t-1]: [RO 1956 577](https://fedlex.data.admin.ch/eli/oc/1956/532_577_581); [FF 1955 II 762](https://fedlex.data.admin.ch/eli/fga/1955/2_738_762_723)
-[^t-2]: Le texte original est publié, sous le même chiffre, dans l’édition italienne du présent recueil.
-[^t-3]: [RO 1956 575](https://fedlex.data.admin.ch/eli/oc/1956/531_575_579)
+(État le 13 mai 2022)
+
+[^t-1]: Le texte original est publié, sous le même chiffre, dans l’édition italienne du présent recueil.
+[^t-2]: [RO 1956 575](https://fedlex.data.admin.ch/eli/oc/1956/531_575_579)
 
 Le président de la République italienne e le Conseil fédéral de la Confédération suisse
 
@@ -44,7 +45,7 @@ Les listes des Communes ou fractions de Communes comprises dans les zones préci
 
 Sont réputés «frontaliers», au sens de la présente Convention, les personnes qui habitent dans la zone frontière de l’un des deux Pays et qui se rendent fréquemment dans la zone frontière limitrophe pour leur activité habituelle, pour leurs intérêts privés ou pour des raisons permanentes de famille.
 
-A part les exceptions prévues par la présente Convention, le «trafic de frontière» s’entend des importations et des exportations (définitives ou temporaires) se déroulant entre les deux zones susmentionnées, limitrophes et contiguës, en tant qu’il s’agit d’échanges effectués exclusivement par des frontaliers pour les besoins normaux de leur propre ménage ou de la culture et de l’amodiation de leurs terres.
+À part les exceptions prévues par la présente Convention, le «trafic de frontière» s’entend des importations et des exportations (définitives ou temporaires) se déroulant entre les deux zones susmentionnées, limitrophes et contiguës, en tant qu’il s’agit d’échanges effectués exclusivement par des frontaliers pour les besoins normaux de leur propre ménage ou de la culture et de l’amodiation de leurs terres.
 
 Le mouvement des personnes dans le trafic de frontière précité est, en ce qui concerne les prescriptions de police, régi par les accords spéciaux en la matière, conclus entre les deux Pays.
 
@@ -58,7 +59,7 @@ Les Autorités douanières des deux Pays fixeront, d’un commun accord, le syst
 
 **Trafic rural et forestier**
 
-A la fin du pacage ou des travaux, les animaux, engins, outils, machines et véhicules, de même que les excédents de fourrages, de carburants contenus dans le réservoir normal précité, de lubrifiants, d’engrais, de semences et de tout autre matériel devront être réexportés. Un cautionnement ne sera pas exigé, sauf si l’on est fondé à soupçonner des abus. En ce qui concerne les animaux conduits au pacage journalier, les bureaux n’appliqueront que les mesures de contrôle tendant à empêcher des abus éventuels. Le pacage de longue durée est régi par les normes de l’art. 6.
+À la fin du pacage ou des travaux, les animaux, engins, outils, machines et véhicules, de même que les excédents de fourrages, de carburants contenus dans le réservoir normal précité, de lubrifiants, d’engrais, de semences et de tout autre matériel devront être réexportés. Un cautionnement ne sera pas exigé, sauf si l’on est fondé à soupçonner des abus. En ce qui concerne les animaux conduits au pacage journalier, les bureaux n’appliqueront que les mesures de contrôle tendant à empêcher des abus éventuels. Le pacage de longue durée est régi par les normes de l’art. 6.
 
 III. En ce qui concerne les exploitations coupées par la ligne des douanes, la franchise de tout droit de douane, taxe ou impôt est accordée aux «produits de l’économie rurale et forestière», y compris les produits de l’élevage du bétail et de la viticulture (vin inclus), provenant de la mise en œuvre des produits bruts des biens-fonds appartenant à l’exploitation précitée, et qui sont transférés d’un local de la maison d’habitation ou du bâtiment rural, situé dans l’une des zones, dans un autre local situé dans l’autre zone, mais faisant partie de l’ensemble des bâtiments de l’exploitation rurale. Les deux Administrations des douanes régleront entre elles l’application de cette concession.
 
@@ -252,13 +253,15 @@ Fait à Rome, le 2 juillet 1953.
 <tr><td>Widmer</td><td>Ettore Spallazzi</td></tr>
 </table>
 
-Annexe I
+Annexe I[^t-3]
 
 ## Liste des communes et fractions de communes italiennes bénéficiant des dispositions de la Convention relative au trafic de frontière et au pacage
 
+[^t-3]: Mise à jour par l’erratum du 13 mai 2022 ([RO 2022 290](https://fedlex.data.admin.ch/eli/oc/2022/290)).
+
 Val d’Aoste
 
-Courmayeur, Saint-Rhémy, Saint-Oyen, Etroubles, Allain, Gignod, Doues, Valpelline, Oyace, Bionaz, Valtournanche, Ayas, Gressoney-la-Trinité, Gressoney-Saint-Jean (application de la convention uniquement au chef-lieu et au territoire situé au nord de ce dernier).
+Courmayeur, Saint-Rhémy, Saint-Oyen, Etroubles, Allain, Gignod, Doues, Ollomont, Valpelline, Oyace, Bionaz, Valtournanche, Ayas, Gressoney-la-Trinité, Gressoney-Saint-Jean (application de la convention uniquement au chef-lieu et au territoire situé au nord de ce dernier).
 
 Province de Vercelli
 
@@ -426,7 +429,7 @@ Le soussigné déclare qu’il cultive lui-même les biens-fonds précités et c
 <tr><td colspan="2">La douane italienne autorise l’importation</td><td></td><td>La douane suisse autorise l’importation</td></tr>
 </table>
 
-## Echanges de lettres du 2 juillet 1953
+## Échanges de lettres du 2 juillet 1953
 
 <table>
 <tr><td>Le Président</td><td>Rome, le 2 juillet 1953</td></tr>
@@ -464,7 +467,7 @@ Monsieur le Président,
 J’ai l’honneur d’accuser réception de votre lettre d’hier, dont voici la teneur:
 
 - «Au cours des pourparlers qui se sont terminés hier, nous avons eu l’occasion d’examiner la question concernant la situation des viticulteurs italiens dans la Valteline.
-- A ce sujet, la Délégation italienne a présenté à la Délégation suisse un mémorandum précisant la requête italienne.
+- À ce sujet, la Délégation italienne a présenté à la Délégation suisse un mémorandum précisant la requête italienne.
 - Au demeurant, il a été constaté qu’il s’agit d’un problème spécial.
 - Ayant pris note de la grande importance que l’Italie attache à cette requête – importance que vous avez soulignée avec chaleur – j’ai l’honneur de vous assurer que je ne manquerai pas d’attirer sur elle l’attention des Autorités suisses compétentes, auxquelles nous nous empresserons de soumettre la question, afin de tendre à une solution satisfaisante.
 - Veuillez agréer, Monsieur le Président, l’expression de ma plus haute considération.»
@@ -483,7 +486,7 @@ Au cours des pourparlers qui se sont terminés hier par la conclusion de la Conv
 
 Il ressort de cet examen qu’il est utile et opportun de simplifier les formalités douanières concernant ces transports.
 
-A cet effet, il a été convenu ce qui suit:
+À cet effet, il a été convenu ce qui suit:
 
 - 1\. Les documents douaniers utilisés actuellement sont remplacés par un seul document commun, établi en 4 exemplaires par le procédé du décalque; le premier et le 4<sup>e</sup> exemplaires sont destinés aux douanes du Pays dans lequel le transport commence et se termine; le 2<sup>e</sup> et le 3<sup>e</sup> exemplaires, aux douanes du Pays de transit;
 - 2\. En principe, les plombs apposés au convoi par les douanes de l’un des deux Pays seront reconnus valables par les douanes de l’autre pays, sous réserve de la faculté pour ces douanes d’y apposer, suivant le cas, leurs propres plombs supplémentaires et de vérifier le chargement en cours de route;

@@ -3,26 +3,26 @@ sr: "0.631.256.945.41"
 title: "Abkommen vom 2. Juli 1953 zwischen der Schweiz und Italien betreffend den Grenz- und Weideverkehr (mit Anhängen, Briefwechseln und Prot.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1956/532_577_581"
 language: de
-version: 1956-02-17
+version: 2022-05-13
 adopted: 1953-07-02
 in_force: 1956-02-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/532_577_581/19560217/de/xml/fedlex-data-admin-ch-eli-cc-1956-532_577_581-19560217-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1956/532_577_581/19560217/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/532_577_581/20220513/de/xml/fedlex-data-admin-ch-eli-cc-1956-532_577_581-20220513-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1956/532_577_581/20220513/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Abkommen zwischen der Schweiz und Italien betreffend den Grenz- und Weideverkehr
 
-0.631.256.945.41Nicht löschen bitte "[^t-1] " !! (Stand am 5. November 1999)
+AS **1956** 532; BBl **1955** II 738
 
-Übersetzung*[^t-2]*
+Übersetzung
 
-Abgeschlossen am 2. Juli 1953 Von der Bundesversammlung genehmigt am 22. Dezember 1955[^t-3] Ratifikationsurkunden ausgetauscht am 17. Februar 1956 In Kraft getreten am 17. Februar 1956
+Abgeschlossen am 2. Juli 1953 Von der Bundesversammlung genehmigt am 22. Dezember 1955[^t-1] Ratifikationsurkunden ausgetauscht am 17. Februar 1956 In Kraft getreten am 17. Februar 1956
 
-[^t-1]: [AS 1956 532](https://fedlex.data.admin.ch/eli/oc/1956/532_577_581); [BBl 1955 II 738](https://fedlex.data.admin.ch/eli/fga/1955/2_738_762_723)
-[^t-2]: Der Originaltext findet sich unter der gleichen Nummer in der italienischen Ausgabe dieser Sammlung.
-[^t-3]: [AS 1956 531](https://fedlex.data.admin.ch/eli/oc/1956/531_575_579)
+(Stand am 13. Mai 2022)
+
+[^t-1]: [AS 1956 531](https://fedlex.data.admin.ch/eli/oc/1956/531_575_579)
 
 Der Präsident der Italienischen Republik und der Bundesrat der Schweizerischen Eidgenossenschaft
 
@@ -252,13 +252,15 @@ Ausgefertigt in Rom am 2. Juli 1953.
 <tr><td>Widmer</td><td>Ettore Spallazzi</td></tr>
 </table>
 
-Anhang I
+Anhang I[^t-2]
 
 ## Verzeichnis der italienischen Gemeinden und Gemeindefraktionen, die im Genusse der im Abkommen über den Grenz- und Weideverkehr vorgesehenen Bestimmungen stehen
 
+[^t-2]: Bereinigt gemäss Berichtigung vom 13. Mai 2022 ([AS 2022 290](https://fedlex.data.admin.ch/eli/oc/2022/290)).
+
 Aostatal
 
-Courmayeur, Saint-Rhémy, Saint-Oyen, Etroubles, Allain, Gignod, Doues, Valpelline, Oyace, Bionaz, Valtournanche, Ayas, Gressonney-la-Trinité, Gressoney Saint-Jean (nur Hauptort und das Gebiet nördlich davon).
+Courmayeur, Saint-Rhémy, Saint-Oyen, Etroubles, Allain, Gignod, Doues, Ollomont, Valpelline, Oyace, Bionaz, Valtournanche, Ayas, Gressonney-la-Trinité, Gressoney Saint-Jean (nur Hauptort und das Gebiet nördlich davon).
 
 Provinz Vercelli
 
@@ -492,6 +494,5 @@ Zu diesem Zwecke ist folgendes vereinbart worden:
 Rom, den 2. Juli 1953.
 
 <table>
-<tr><td>Der Oberzolldirektor der schweizerischen Zollverwaltung:</td><td>Der Generaldirektor der italienischen Zölle und indirekten Steuern:</td></tr>
-<tr><td>Widmer</td><td>Ettore Spallazzi</td></tr>
+<tr><td>Der Oberzolldirektor der schweizerischen Zollverwaltung: Widmer</td><td>Der Generaldirektor der italienischen Zölle und indirekten Steuern: Ettore Spallazzi</td></tr>
 </table>
