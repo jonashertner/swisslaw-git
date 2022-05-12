@@ -3,11 +3,11 @@ sr: "0.972.2"
 title: Übereinkommen vom 4. Dezember 1965 über die Errichtung der Asiatischen Entwicklungsbank
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/860_861_861"
 language: de
-version: 2006-05-11
+version: 2022-05-13
 adopted: 1965-12-04
 in_force: 1967-12-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/860_861_861/20060511/de/xml/fedlex-data-admin-ch-eli-cc-1971-860_861_861-20060511-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/860_861_861/20060511/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/860_861_861/20220513/de/xml/fedlex-data-admin-ch-eli-cc-1971-860_861_861-20220513-de-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/860_861_861/20220513/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,20 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/860_861_861/20060511/de"
 
 AS **1971** 860; BBl **1967** I 1082
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen in Manila am 4. Dezember 1965
+Abgeschlossen in Manila am 4. Dezember 1965 Von der Bundesversammlung genehmigt am 5. Dezember 1967[^t-1] Schweizerische Annahme‑Urkunde hinterlegt am 29. Dezember 1967 In Kraft getreten für die Schweiz am 31. Dezember 1967
 
-Von der Bundesversammlung genehmigt am 5. Dezember 1967[^t-2]
+(Stand am 13. Mai 2022)
 
-Schweizerische Annahme‑Urkunde hinterlegt am 29. Dezember 1967
-
-In Kraft getreten für die Schweiz am 31. Dezember 1967
-
-(Stand am 11. Mai 2006)
-
-[^t-1]: Übersetzung des englischen Originaltextes.
-[^t-2]: [AS 1971 858](https://fedlex.data.admin.ch/eli/oc/1971/858_859_860)
+[^t-1]: [AS 1971 858](https://fedlex.data.admin.ch/eli/oc/1971/858_859_860)
 
 Die Vertragsparteien
 
@@ -61,7 +54,7 @@ Zur Erfüllung ihres Zwecks hat die Bank folgende Aufgaben:
 - ii) die ihr zur Verfügung stehenden Mittel zur Finanzierung der Entwicklung der in der Region gelegenen, in der Entwicklung befindlichen Mitgliedstaaten zu verwenden; dabei sollen jene regionalen, subregionalen und nationalen Projekte und Programme, die am wirksamsten zum harmonischen wirtschaftlichen Wachstum der Region als ganzes beitragen, den Vorrang erhalten und die Bedürfnisse der in der Region gelegenen kleineren oder weniger entwickelten Mitgliedstaaten besonders berücksichtigt werden;
 - iii) Gesuchen der in der Region gelegenen Mitgliedstaaten um Unterstützung bei der gegenseitigen Koordinierung ihrer Entwicklungspolitik und ‑pläne zu entsprechen, um ihre Hilfsquellen besser zu nutzen, eine bessere gegenseitige Ergänzung ihrer Volkswirtschaften zu erreichen und ihren Aussenhandel, insbesondere den innerregionalen Handel, in geregelter Weise auszuweiten;
 - iv) technische Hilfe bei der Vorbereitung, Finanzierung und Durchführung von Entwicklungsvorhaben und ‑programmen zu leisten, einschliesslich der Ausarbeitung konkreter Projektvorschläge;
-- v) in einer der Bank geeignet erscheinenden Weise im Rahmen dieses Abkommens mit den Vereinten Nationen, ihren Organen und Unterorganisationen, insbesondere mit der Wirtschaftskommission für Asien und den Fernen Osten sowie mit öffentlichen internationalen Organisationen und sonstigen internationalen Institutionen sowie mit nationalen Körperschaften öffentlich‑rechtlicher oder privatrechtlicher Natur, die sich mit der Anlage von Entwicklungsmitteln befassen, zusammenzuarbeiten und diese Institutionen und Körperschaften an neuen Investitions‑ und Hilfsmöglichkeiten zu interessieren, und
+- v) in einer der Bank geeignet erscheinenden Weise im Rahmen dieses Abkommens mit den Vereinten Nationen, ihren Organen und Unterorganisationen, insbesondere mit der Wirtschaftskommission für Asien und den Fernen Osten sowie mit öffentlichen internationalen Organisationen und sonstigen internationalen Institutionen sowie mit nationalen Körperschaften öffentlich‑rechtlicher oder privatrechtlicher Natur, die sich mit der Anlage von Entwicklungsmitteln befassen, zusammenzuarbeiten und diese Institutionen und Körperschaften an neuen Investitions‑ und Hilfsmöglichkeiten zu interessieren; und
 - vi) alle sonstigen Tätigkeiten auszuüben und Dienste zu leisten, die ihren Zweck fördern.
 
 #### Art. 3
@@ -112,7 +105,7 @@ Zur Erfüllung ihres Zwecks hat die Bank folgende Aufgaben:
 
 <sup>2.</sup> Zur Einzahlung der Erstzeichnung auf das ursprüngliche einbezahlte Stammkapital sind von jeder Rate
 
-- a) fünfzig (50) Prozent in Gold oder konvertierbarer Währung und
+- a) fünfzig (50) Prozent in Gold oder konvertierbarer Währung; und
 - b) fünfzig (50) Prozent in der Währung des betreffenden Mitglieds einzuzahlen.
 
 <sup>3.</sup> An Stelle des nach Absatz 2 Buchstabe b in der Währung des Mitglieds zu zahlenden Betrags nimmt die Bank von jedem Mitglied Schuldscheine oder sonstige Schuldverschreibungen entgegen, die von der Regierung des Mitglieds oder von der von diesem Mitglied bezeichneten Hinterlegungsstelle ausgestellt sind, sofern die Bank diese Währung für die Durchführung ihrer Geschäfte nicht benötigt. Diese Schuldscheine oder Schuldverschreibungen sind unübertragbar, unverzinslich und auf Verlangen zum Nennwert an die Bank zahlbar. Zahlungsaufforderungen für solche in konvertierbarer Währung zahlbaren Schuldscheine oder Schuldverschreibungen erfolgen, innert angemessener Zeitabschnitte, zu einem für alle Schuldscheine oder Schuldverschreibungen einheitlichen Prozentsatz; Artikel 24 Absatz 2 Ziffer ii) bleibt vorbehalten.
@@ -194,7 +187,7 @@ Unter Vorbehalt der in diesem Übereinkommen festgesetzten Bedingungen kann die 
 
 Bei der Gewährung von oder der Beteiligung an direkten Darlehen kann die Bank Finanzierungsmittel auf folgende Weise zur Verfügung stellen:
 
-- i) indem sie dem Darlehensnehmer die zur Deckung des Devisenaufwands des Projektes erforderlichen Währungen zur Verfügung stellt mit Ausnahme der (im folgenden als «Landeswährung» bezeichneten) Währung des Mitgliedstaates, auf dessen Gebiet das Projekt ausgeführt werden soll, oder
+- i) indem sie dem Darlehensnehmer die zur Deckung des Devisenaufwands des Projektes erforderlichen Währungen zur Verfügung stellt mit Ausnahme der (im folgenden als «Landeswährung» bezeichneten) Währung des Mitgliedstaates, auf dessen Gebiet das Projekt ausgeführt werden soll; oder
 - ii) indem sie Finanzierungsmittel zur Deckung der örtlichen Ausgaben für das betreffende Projekt zur Verfügung stellt, wenn sie dies durch Bereitstellung von Mitteln in Landeswährung tun kann, ohne aus ihren Beständen Gold oder konvertierbare Währungen zu veräussern. In Sonderfällen, in denen nach Ansicht der Bank das Projekt die Zahlungsbilanz des Mitglieds, in dessen Gebiet das Projekt ausgeführt werden soll, durch unverhältnismässige Verluste oder Beanspruchungen belastet oder belasten könnte, können die von der Bank zur Deckung örtlicher Ausgaben gewährten Finanzierungsmittel in anderen Währungen als der Landeswährung zur Verfügung gestellt werden; in derartigen Fällen dürfen die von der Bank für diesen Zweck zur Verfügung gestellten Finanzierungsmittel einen angemessenen Teil der dem Darlehensnehmer entstehenden gesamten örtlichen Ausgaben nicht überschreiten.
 
 #### Art. 14
@@ -252,7 +245,7 @@ Die gemäss Artikel 16 von der Bank eingenommenen Kommissionen und Garantiegebü
 
 <sup>2.</sup> Zahlungen zur Erfüllung von Verbindlichkeiten der Bank aus Krediten oder Garantien nach Artikel 11 Ziffern ii) und iv), die aus den ordentlichen Kapitalbeständen zu bestreiten sind, gehen
 
-- i) vorerst zu Lasten der in Artikel 17 vorgesehenen Sonderreserve und
+- i) vorerst zu Lasten der in Artikel 17 vorgesehenen Sonderreserve; und
 - ii) sodann, soweit erforderlich und nach freiem Ermessen der Bank zu Lasten der übrigen Reserven, des Überschusses und des Kapitals, über welche die Bank verfügt.
 
 <sup>3.</sup> Zur Erfüllung der vertraglichen Zinszahlungen, sonstiger Spesen und Amortisationen für Kreditaufnahmen der Bank im Rahmen der ordentlichen Geschäftstätigkeit oder zur Erfüllung ähnlicher Zahlungsverpflichtungen auf Grund von Darlehens‑Garantien, die zu Lasten ihrer ordentlichen Kapitalmittel gehen, kann die Bank nötigenfalls nach Artikel 6 Absätze 6 und 7 einen entsprechenden Betrag des noch nicht abgerufenen gezeichneten bei Abruf zahlbaren Kapitals einfordern.
@@ -261,7 +254,7 @@ Die gemäss Artikel 16 von der Bank eingenommenen Kommissionen und Garantiegebü
 
 Tritt bei einem Darlehen, das die Bank im Rahmen ihrer ordentlichen Geschäftstätigkeit garantiert oder aus aufgenommenen Krediten gewährt hat, ein Zahlungsverzug ein, so kann sie, wenn nach ihrer Ansicht der Verzug von langer Dauer sein kann, für folgende Zwecke einen zusätzlichen Betrag des bei Abruf zahlbaren Kapitals abrufen, der jedoch in einem (1) Jahr ein (1) Prozent der Gesamtzeichnungen der Mitglieder auf dieses Kapital nicht überschreiten darf:
 
-- i) um die Verbindlichkeiten der Bank in Bezug auf das gesamte oder einen Teil des ausstehenden Kapitals eines von ihr garantierten Darlehens, für das der Schuldner sich in Verzug befindet, vor der Fälligkeit abzulösen oder auf andere Weise zu erfüllen, und
+- i) um die Verbindlichkeiten der Bank in Bezug auf das gesamte oder einen Teil des ausstehenden Kapitals eines von ihr garantierten Darlehens, für das der Schuldner sich in Verzug befindet, vor der Fälligkeit abzulösen oder auf andere Weise zu erfüllen; und
 - ii) um die Verbindlichkeiten der Bank aus den von ihr aufgenommenen, noch nicht zurückbezahlten Mitteln vollständig oder teilweise zurückzukaufen oder in anderer Weise zu erfüllen.
 
 <sup>5.</sup> Soll das gezeichnete abrufbare Stammkapital der Bank nach den Absätzen 3 und 4 vollständig abgerufen werden, so kann die Bank, wenn es für die in Absatz 3 aufgeführten Zwecke erforderlich ist, die Währung jedes Mitglieds ohne Einschränkung verwenden oder umwechseln, und zwar auch ohne die Einschränkung nach Artikel 24 Absatz 2 Ziffern i) und ii).
@@ -272,7 +265,7 @@ Tritt bei einem Darlehen, das die Bank im Rahmen ihrer ordentlichen Geschäftst�
 
 <sup>1.</sup> Die Bank kann
 
-- i) mit den Stimmen von zwei Dritteln aller Gouverneure, die dabei mindestens drei Viertel der Gesamtstimmenzahl der Mitglieder vertreten, vom unverminderten einbezahlten Kapital der Bank höchstens je zehn (10) Prozent des von den Mitgliedern gemäss Artikel 6 Absatz 2 Buchstabe a und des gemäss Artikel 6 Absatz 2 Buchstabe b einbezahlten Teils abzweigen und daraus einen oder mehrere Sonderfonds errichten, sowie
+- i) mit den Stimmen von zwei Dritteln aller Gouverneure, die dabei mindestens drei Viertel der Gesamtstimmenzahl der Mitglieder vertreten, vom unverminderten einbezahlten Kapital der Bank höchstens je zehn (10) Prozent des von den Mitgliedern gemäss Artikel 6 Absatz 2 Buchstabe a und des gemäss Artikel 6 Absatz 2 Buchstabe b einbezahlten Teils abzweigen und daraus einen oder mehrere Sonderfonds errichten; sowie
 - ii) die Verwaltung von Sonderfonds übernehmen, die dazu bestimmt sind, dem Zweck der Bank zu dienen, und in ihren Aufgabenbereich fallen.
 
 <sup>2.</sup> Die von der Bank nach Absatz 1 Ziffer i) errichteten Sonderfonds können zur Garantierung oder Gewährung von Darlehen für besonders dringende Entwicklungsvorhaben verwendet werden, die eine längere Laufzeit, später einsetzende Rückzahlungen und niedrigere Zinssätze haben können, als die Bank für ihre ordentliche Geschäftstätigkeit festsetzt. Solche Fonds dürfen auch zu anderen Bedingungen verwendet werden, die die Bank bei der Errichtung dieser Fonds festlegen kann, die aber weder den anwendbaren Bestimmungen dieses Übereinkommens noch dem Charakter dieser Fonds als revolvierender Fonds widersprechen dürfen.
@@ -290,7 +283,7 @@ In diesem Übereinkommen bezieht sich der Ausdruck «Sonderfondsmittel» auf die
 - a) Mittel, die vom einbezahlten Kapital für einen Sonderfonds ausgeschieden oder auf andere Weise ursprünglich in einen Sonderfonds eingelegt wurden,
 - b) Mittel, welche die Bank zur Einlage in einen Sonderfonds übernommen hat,
 - c) Mittel, die für Darlehen oder Garantien, welche aus einem Sonderfonds finanziert wurden, zurückbezahlt werden und ihm auf Grund der für diesen Sonderfonds geltenden Vorschriften und Regelungen der Bank zufallen,
-- d) Einkünfte aus Geschäften der Bank, in denen Mittel der oben erwähnten Art verwendet oder gebunden sind, sofern diese Einkünfte auf Grund der für den betreffenden Sonderfonds geltenden Vorschriften und Regelungen der Bank diesem Sonderfonds zufallen, und
+- d) Einkünfte aus Geschäften der Bank, in denen Mittel der oben erwähnten Art verwendet oder gebunden sind, sofern diese Einkünfte auf Grund der für den betreffenden Sonderfonds geltenden Vorschriften und Regelungen der Bank diesem Sonderfonds zufallen; und
 - e) alle sonstigen einem Sonderfonds zur Verfügung gestellten Mittel.
 
 ## Kapitel IV: Kreditaufnahme und sonstige Befugnisse verschiedener Art
@@ -347,15 +340,15 @@ Die Mitglieder dürfen keine Beschränkungen beibehalten oder einführen, welche
 
 <sup>2.</sup> Die Mitglieder dürfen keine Beschränkungen aufrechterhalten oder einführen, welche die Bank oder einen Empfänger der Bank daran hindern, für Zahlungen in irgendeinem Land die Währungen eines Mitglieds, die die Bank erhalten hat und die nicht unter die Bestimmungen des vorerwähnten Absatzes fallen, zu verwenden oder zu halten, es sei denn,
 
-- i) ein in Entwicklung befindliches Mitgliedland beschränkt nach Beratung mit der Bank und vorbehältlich periodischer Überprüfung durch diese die Verwendung seiner Währung ganz oder teilweise für Zahlungen für Güter oder Dienstleistungen, die in seinem Gebiet erzeugt werden und zur dortigen Verwendung bestimmt sind, oder
-- ii) ein Mitglied, dessen Zeichnungsbetrag in Teil A des Anhanges A zu diesem Abkommen festgelegt worden ist und dessen Ausfuhr an Industrieerzeugnissen keinen bedeutenden Teil seiner Gesamtausfuhr ausmacht, hinterlegt zusammen mit seiner Ratifikations‑ oder Annahmeurkunde eine Erklärung, wonach es die Verwendung des gemäss Artikel 6 Absatz 2 (b) einbezahlten Teiles seiner Zeichnung ganz oder teilweise für Zahlungen für in seinem Gebiet erzeugte Güter oder erbrachte Dienstleistungen zu beschränken wünscht; dies mit der Massgabe, dass solche Beschränkungen periodischen Überprüfungen durch und Konsultationen mit der Bank unterliegen und dass unter Vorbehalt der üblichen Ausschreibung auf Wettbewerbsbasis Ausgaben für Güter oder Dienstleistungen im Gebiet des betreffenden Mitglieds zuerst dem gemäss Artikel 6 Absatz 2 (b) einbezahlten Teil seiner Zeichnung belastet werden sollen, oder
+- i) ein in Entwicklung befindliches Mitgliedland beschränkt nach Beratung mit der Bank und vorbehältlich periodischer Überprüfung durch diese die Verwendung seiner Währung ganz oder teilweise für Zahlungen für Güter oder Dienstleistungen, die in seinem Gebiet erzeugt werden und zur dortigen Verwendung bestimmt sind; oder
+- ii) ein Mitglied, dessen Zeichnungsbetrag in Teil A des Anhanges A zu diesem Abkommen festgelegt worden ist und dessen Ausfuhr an Industrieerzeugnissen keinen bedeutenden Teil seiner Gesamtausfuhr ausmacht, hinterlegt zusammen mit seiner Ratifikations‑ oder Annahmeurkunde eine Erklärung, wonach es die Verwendung des gemäss Artikel 6 Absatz 2 (b) einbezahlten Teiles seiner Zeichnung ganz oder teilweise für Zahlungen für in seinem Gebiet erzeugte Güter oder erbrachte Dienstleistungen zu beschränken wünscht; dies mit der Massgabe, dass solche Beschränkungen periodischen Überprüfungen durch und Konsultationen mit der Bank unterliegen und dass unter Vorbehalt der üblichen Ausschreibung auf Wettbewerbsbasis Ausgaben für Güter oder Dienstleistungen im Gebiet des betreffenden Mitglieds zuerst dem gemäss Artikel 6 Absatz 2 (b) einbezahlten Teil seiner Zeichnung belastet werden sollen; oder
 - iii) eine solche Währung gehört zu den gemäss Artikel 19 Absatz 1 ii) verfügbaren Sonderfondsmitteln der Bank, und ihre Verwendung unterliegt besonderen Regeln und Vorschriften.
 
 <sup>3.</sup> Die Mitglieder dürfen keine Beschränkungen aufrechterhalten oder einführen in Bezug auf den Besitz und die Verwendung von Währungen durch die Bank, mit welchen sie Amortisationen oder Vorauszahlungen oder vollständige oder teilweise Rückkäufe ihrer Verbindlichkeiten vornehmen will, und welche die Bank als Rückzahlung auf direkten, aus ihren ordentlichen Kapitalbeständen gewährten Darlehen erhalten hat; dies jedoch mit der Massgabe, dass dieser Besitz oder diese Verwendung bis zu dem Zeitpunkt, in dem das gezeichnete abrufbare Stammkapital der Bank voll abgerufen ist, allen gemäss Absatz 2 Ziffer i) dieses Artikels auferlegten Beschränkungen unterliegt, ausgenommen in Bezug auf Verbindlichkeiten, die in der Währung des betreffenden Mitglieds zahlbar sind.
 
 <sup>4.</sup> Gold oder Währungen im Besitz der Bank werden von ihr nicht zum Kauf anderer Währungen von Mitgliedern oder Nichtmitgliedern verwendet, es sei denn,
 
-- i) um die Verpflichtungen der Bank im ordentlichen Geschäftsbetrieb zu erfüllen oder
+- i) um die Verpflichtungen der Bank im ordentlichen Geschäftsbetrieb zu erfüllen; oder
 - ii) nach einem mit den Stimmen von Direktoren, die dabei mindestens zwei Drittel der Gesamtstimmenzahl der Mitglieder vertreten, gefassten Beschluss des Direktoriums.
 
 <sup>5.</sup> Keine hier angeführte Bestimmung hindert die Bank daran, die Währung eines Mitglieds für Verwaltungsausgaben zu verwenden, die der Bank auf dem Gebiet dieses Mitglieds erwachsen sind.
@@ -368,20 +361,20 @@ Die Mitglieder dürfen keine Beschränkungen beibehalten oder einführen, welche
 
 so hat dieses Mitglied an die Bank innerhalb einer angemessenen Frist denjenigen zusätzlichen Betrag seiner Währung einzuzahlen, der erforderlich ist, um den Wert aller im Besitz der Bank befindlichen Bestände in dieser Währung aufrechtzuerhalten; mit Ausnahme
 
-- a) im Internationalen Währungsfonds die Parität der Währung eines Mitglieds im Verhältnis zu dem in Artikel 4 definierten Dollar herabgesetzt wird oder
-- b) die Bank nach Konsultation mit dem Internationalen Währungsfonds der Ansicht ist, dass der Devisenwert der Währung eines Mitglieds in beträchtlichem Masse gesunken ist,
+- a) im Internationalen Währungsfonds die Parität der Währung eines Mitglieds im Verhältnis zu dem in Artikel 4 definierten Dollar herabgesetzt wird; oder
+- b) die Bank nach Konsultation mit dem Internationalen Währungsfonds der Ansicht ist, dass der Devisenwert der Währung eines Mitglieds in beträchtlichem Masse gesunken ist;
 
-- a) von Währungsbeständen der Bank, die aus den von ihr aufgenommenen Krediten herrühren, und
+- a) von Währungsbeständen der Bank, die aus den von ihr aufgenommenen Krediten herrühren; und
 - b) der von der Bank nach Artikel 19 Absatz 1 Ziffer ii) übernommenen Sondermittel, sofern die Abkommen über die Errichtung von Sonderfonds nicht etwas anderes vorsehen.
 
 <sup>2.</sup> Wenn
 
 so zahlt die Bank diesem Mitglied innerhalb einer angemessenen Frist denjenigen Betrag dieser Währung aus, der erforderlich ist, um den Wert aller im Besitz der Bank befindlichen Bestände in dieser Währung zu berichtigen; mit Ausnahme
 
-- a) im Internationalen Währungsfonds die Parität der Währung eines Mitgliedes im Verhältnis zu dem genannten Dollar erhöht wird oder
-- b) die Bank nach Konsultation mit dem Internationalen Währungsfonds der Ansicht ist, dass der Devisenwert der Währung eines Mitglieds in beträchtlichem Masse gestiegen ist,
+- a) im Internationalen Währungsfonds die Parität der Währung eines Mitgliedes im Verhältnis zu dem genannten Dollar erhöht wird; oder
+- b) die Bank nach Konsultation mit dem Internationalen Währungsfonds der Ansicht ist, dass der Devisenwert der Währung eines Mitglieds in beträchtlichem Masse gestiegen ist;
 
-- a) von Währungsbeständen der Bank, die aus den von ihr aufgenommenen Krediten herrühren,
+- a) von Währungsbeständen der Bank, die aus den von ihr aufgenommenen Krediten herrühren;
 - b) der von der Bank nach Artikel 19 Absatz 1 Ziffer ii) übernommenen Sondermittel, sofern die Abkommen über die Errichtung von Sonderfonds nicht etwas anderes vorsehen.
 
 <sup>3.</sup> Die Bank kann auf die Anwendung dieses Artikels verzichten, wenn sich die Parität der Währungen aller ihrer Mitglieder einheitlich im gleichen Verhältnis ändert.
@@ -444,7 +437,7 @@ Die Bank soll einen Gouverneursrat, ein Direktorium, einen Präsidenten, einen o
 **Das Direktorium: Zusammensetzung**
 
 - 1\. i) Das Direktorium setzt sich aus zehn (10) Mitgliedern, die nicht dem Gouverneursrat angehören dürfen, zusammen, von denen
-  - a) sieben (7) von den die regionalen Mitglieder vertretenden Gouverneuren und
+  - a) sieben (7) von den die regionalen Mitglieder vertretenden Gouverneuren; und
   - b) drei (3) von den die nichtregionalen Mitglieder vertretenden Gouverneuren gewählt werden.
 
 - Zu Direktoren sollen hochqualifizierte Wirtschafts‑ und Finanzfachleute nach Massgabe von Anhang B gewählt werden.
@@ -460,9 +453,9 @@ Die Bank soll einen Gouverneursrat, ein Direktorium, einen Präsidenten, einen o
 
 Das Direktorium ist für die Leitung der allgemeinen Geschäftstätigkeit der Bank verantwortlich und übt zu diesem Zwecke neben den ihm in diesem Übereinkommen ausdrücklich zugewiesenen Befugnissen alle ihm vom Gouverneursrat übertragenen Befugnisse aus und hat insbesondere
 
-- i) die Arbeit des Gouverneursrats vorzubereiten,
-- ii) in Übereinstimmung mit den allgemeinen Weisungen des Gouverneursrats Entscheide über Darlehen, Garantien, Anlagen in Beteiligungskapital, Kreditaufnahmen durch die Bank, die Bereitstellung technischer Hilfe und die sonstige Geschäftstätigkeit der Bank zu treffen,
-- iii) dem Gouverneursrat an jeder Jahresversammlung den Rechnungsabschluss für das Geschäftsjahr zur Genehmigung vorzulegen,
+- i) die Arbeit des Gouverneursrats vorzubereiten;
+- ii) in Übereinstimmung mit den allgemeinen Weisungen des Gouverneursrats Entscheide über Darlehen, Garantien, Anlagen in Beteiligungskapital, Kreditaufnahmen durch die Bank, die Bereitstellung technischer Hilfe und die sonstige Geschäftstätigkeit der Bank zu treffen;
+- iii) dem Gouverneursrat an jeder Jahresversammlung den Rechnungsabschluss für das Geschäftsjahr zur Genehmigung vorzulegen;
 - iv) das Budget der Bank zu genehmigen.
 
 #### Art. 32
@@ -645,8 +638,8 @@ Um es der Bank zu ermöglichen, in wirksamer Weise ihren Zweck zu erfüllen und 
 
 Die Bank besitzt volle Rechtspersönlichkeit und insbesondere die uneingeschränkte Fähigkeit,
 
-- i) Verträge zu schliessen,
-- ii) unbewegliches und bewegliches Vermögen zu erwerben und darüber zu verfügen sowie
+- i) Verträge zu schliessen;
+- ii) unbewegliches und bewegliches Vermögen zu erwerben und darüber zu verfügen; sowie
 - iii) gerichtliche Verfahren anhängig zu machen.
 
 #### Art. 50
@@ -690,7 +683,7 @@ Jedes Mitglied behandelt den amtlichen Nachrichtenverkehr der Bank nicht weniger
 Alle Gouverneure, Direktoren, Stellvertreter, Beamten und Angestellten der Bank einschliesslich der Sachverständigen, die im Auftrag der Bank tätig sind,
 
 - i) geniessen Immunität von der Gerichtsbarkeit für ihre in amtlicher Eigenschaft vorgenommenen Handlungen, sofern nicht die Bank diese Immunität aufhebt;
-- ii) geniessen, falls sie nicht Inländer oder Staatsbürger sind, die gleiche Immunität von Einwanderungsbeschränkungen, von der Meldepflicht für Ausländer und von staatlichen Dienstpflichten sowie die gleichen Erleichterungen in Bezug auf Devisenvorschriften, wie sie die Mitglieder den in vergleichbarem Rang stehenden Vertretern, Beamten und Angestellten anderer Mitglieder gewähren, und
+- ii) geniessen, falls sie nicht Inländer oder Staatsbürger sind, die gleiche Immunität von Einwanderungsbeschränkungen, von der Meldepflicht für Ausländer und von staatlichen Dienstpflichten sowie die gleichen Erleichterungen in Bezug auf Devisenvorschriften, wie sie die Mitglieder den in vergleichbarem Rang stehenden Vertretern, Beamten und Angestellten anderer Mitglieder gewähren; und
 - iii) geniessen in Bezug auf Reiseerleichterungen die gleiche Behandlung, wie sie die Mitglieder den in vergleichbarem Rang stehenden Vertretern, Beamten und Angestellten anderer Mitglieder gewähren.
 
 #### Art. 56
@@ -703,12 +696,12 @@ Alle Gouverneure, Direktoren, Stellvertreter, Beamten und Angestellten der Bank 
 
 <sup>3.</sup> Von der Bank ausgegebene Obligationen oder Wertpapiere, einschliesslich der darauf entfallenden Dividenden oder Zinsen, gleichviel in wessen Besitz sie sich befinden, unterliegen keiner Steuer,
 
-- i) die solche Obligationen oder Wertpapiere nur deswegen benachteiligt, weil sie von der Bank ausgegeben sind, oder
+- i) die solche Obligationen oder Wertpapiere nur deswegen benachteiligt, weil sie von der Bank ausgegeben sind; oder
 - ii) deren einzige rechtliche Grundlage der Ort oder die Währung ist, in der diese Papiere ausgegeben werden, zahlbar sind oder bezahlt werden, oder der Ort einer von der Bank unterhaltenen Geschäftsstelle oder Geschäftseinrichtung ist.
 
 <sup>4.</sup> Von der Bank garantierte Obligationen oder Wertpapiere, einschliesslich der darauf entfallenden Dividenden oder Zinsen, gleichviel in wessen Besitz sie sich befinden, unterliegen keiner Steuer,
 
-- i) die solche Obligationen oder Wertpapiere nur deswegen benachteiligt, weil sie von der Bank garantiert sind, oder
+- i) die solche Obligationen oder Wertpapiere nur deswegen benachteiligt, weil sie von der Bank garantiert sind; oder
 - ii) deren einzige rechtliche Grundlage der Ort einer von der Bank unterhaltenen Geschäftsstelle oder Geschäftseinrichtung ist.
 
 #### Art. 57
@@ -733,8 +726,8 @@ Die Bank kann nach ihrem eigenen Ermessen in jedem einzelnen Falle auf Vorrechte
 
 <sup>2.</sup> Ungeachtet des Absatzes 1 ist die Einstimmigkeit im Gouverneursrat erforderlich für jede Änderung
 
-- i) des Rechts zum Austritt aus der Bank,
-- ii) der Haftungsbeschränkungen nach Artikel 5 Absätze 6 und 7, und
+- i) des Rechts zum Austritt aus der Bank;
+- ii) der Haftungsbeschränkungen nach Artikel 5 Absätze 6 und 7; und
 - iii) der Rechte im Zusammenhang mit dem Erwerb von Stammkapital nach Artikel 5 Absatz 2.
 
 <sup>3.</sup> Alle Vorschläge zur Änderung dieses Übereinkommens, gleichviel ob sie von einem Mitglied oder dem Direktorium ausgehen, sind dem Vorsitzenden des Gouverneursrats zuzuleiten, der sie dem Rat vorlegt. Ist eine Änderung angenommen worden, so bestätigt die Bank die Annahme in einer an alle Mitglieder gerichteten amtlichen Mitteilung. Änderungen treten für alle Mitglieder drei (3) Monate nach dem Datum der amtlichen Mitteilung in Kraft, sofern der Gouverneursrat in dieser nicht eine andere Frist festsetzt.
@@ -804,69 +797,73 @@ Anhang A
 
 ### Teil A Regionale Staaten
 
-### I
+I
 
 <table>
-<tr><td></td><td colspan="2">Zeichnungsbetrag (in Millionen US-Dollar)</td></tr>
-<tr><td>1. Afghanistan</td><td colspan="2">3,36</td></tr>
-<tr><td>2. Australien</td><td colspan="2">85,00</td></tr>
-<tr><td>3. Kambodscha</td><td colspan="2">3,00</td></tr>
-<tr><td>4. China</td><td colspan="2">16,00</td></tr>
-<tr><td>5. Indien</td><td colspan="2">93,00</td></tr>
-<tr><td>6. Iran</td><td colspan="2">60,00</td></tr>
-<tr><td>7. Japan</td><td colspan="2">200,00</td></tr>
-<tr><td>8. Korea (-Süd)</td><td colspan="2">30,00</td></tr>
-<tr><td>9. Laos</td><td colspan="2">0,42</td></tr>
-<tr><td>10. Malaysia</td><td colspan="2">20,00</td></tr>
-<tr><td>11. Nepal</td><td colspan="2">2,16</td></tr>
-<tr><td>12. Neuseeland</td><td colspan="2">22,56</td></tr>
-<tr><td>13. Pakistan</td><td colspan="2">32,00</td></tr>
-<tr><td>14. Philippinen</td><td colspan="2">35,00</td></tr>
-<tr><td>15. Samoa</td><td colspan="2">0,06</td></tr>
-<tr><td>16. Singapur</td><td colspan="2">4,00</td></tr>
-<tr><td>17. Sri Lanka</td><td colspan="2">8,52</td></tr>
-<tr><td>18. Thailand</td><td colspan="2">20,00</td></tr>
-<tr><td>19. Vietnam (-Süd)</td><td colspan="2">7,00</td></tr>
-<tr><td>Insgesamt</td><td colspan="2">642,08</td></tr>
+<tr><th></th><th>Zeichnungsbetrag (in Millionen US-Dollar)</th></tr>
+<tr><td>1. Afghanistan</td><td>3,36</td></tr>
+<tr><td>2. Australien</td><td>85,00</td></tr>
+<tr><td>3. Kambodscha</td><td>3,00</td></tr>
+<tr><td>4. China</td><td>16,00</td></tr>
+<tr><td>5. Indien</td><td>93,00</td></tr>
+<tr><td>6. Iran</td><td>60,00</td></tr>
+<tr><td>7. Japan</td><td>200,00</td></tr>
+<tr><td>8. Korea (-Süd)</td><td>30,00</td></tr>
+<tr><td>9. Laos</td><td>0,42</td></tr>
+<tr><td>10. Malaysia</td><td>20,00</td></tr>
+<tr><td>11. Nepal</td><td>2,16</td></tr>
+<tr><td>12. Neuseeland</td><td>22,56</td></tr>
+<tr><td>13. Pakistan</td><td>32,00</td></tr>
+<tr><td>14. Philippinen</td><td>35,00</td></tr>
+<tr><td>15. Samoa</td><td>0,06</td></tr>
+<tr><td>16. Singapur</td><td>4,00</td></tr>
+<tr><td>17. Sri Lanka</td><td>8,52</td></tr>
+<tr><td>18. Thailand</td><td>20,00</td></tr>
+<tr><td>19. Vietnam (-Süd)</td><td>7,00</td></tr>
+<tr><td>Insgesamt</td><td>642,08</td></tr>
 </table>
 
-### II
+II
 
 Folgende regionale Staaten können nach Artikel 63 Unterzeichner dieses Übereinkommens werden, sofern sie bei der Unterzeichnung folgende Beträge des Stammkapitals der Bank zeichnen:
 
 <table>
-<tr><td></td><td colspan="2">Zeichnungsbetrag (in Millionen US-Dollar)</td></tr>
-<tr><td>1. Mongolei</td><td colspan="2">0,18</td></tr>
-<tr><td>2. Myanmar</td><td colspan="2">7,74</td></tr>
-<tr><td>Insgesamt</td><td colspan="2">7,92</td></tr>
+<tr><th></th><th>Zeichnungsbetrag (in Millionen US-Dollar)</th></tr>
+<tr><td>1. Mongolei</td><td>0,18</td></tr>
+<tr><td>2. Myanmar</td><td>7,74</td></tr>
+<tr><td>Insgesamt</td><td>7,92</td></tr>
 </table>
 
 ### Teil B Nichtregionale Staaten
 
-### I
+I
 
 <table>
-<tr><td></td><td colspan="2">Zeichnungsbetrag (in Millionen US-Dollar)</td></tr>
-<tr><td>1. Belgien</td><td colspan="2">5,00</td></tr>
-<tr><td>2. Kanada</td><td colspan="2">25,00</td></tr>
-<tr><td>3. Dänemark</td><td colspan="2">5,00</td></tr>
-<tr><td>4. Deutschland, Bundesrepublik</td><td colspan="2">30,00</td></tr>
-<tr><td>5. Italien</td><td colspan="2">10,00</td></tr>
-<tr><td>6. Niederlande</td><td colspan="2">11,00</td></tr>
-<tr><td>7. Vereinigtes Königreich von Grossbritannien und Nordirland</td><td colspan="2">10,00</td></tr>
-<tr><td>8. Vereinigte Staaten von Amerika</td><td colspan="2">200,00</td></tr>
-<tr><td>Insgesamt</td><td colspan="2">296,00</td></tr>
+<tr><th></th><th>Zeichnungsbetrag (in Millionen US-Dollar)</th></tr>
+<tr><td>1. Belgien</td><td>5,00</td></tr>
+<tr><td>2. Kanada</td><td>25,00</td></tr>
+<tr><td>3. Dänemark</td><td>5,00</td></tr>
+<tr><td>4. Deutschland, Bundesrepublik</td><td>30,00</td></tr>
+<tr><td>5. Italien</td><td>10,00</td></tr>
+<tr><td>6. Niederlande</td><td>11,00</td></tr>
+<tr><td>7. Vereinigtes Königreich von Grossbritannien und Nordirland</td><td>10,00</td></tr>
+<tr><td>8. Vereinigte Staaten von Amerika</td><td>200,00</td></tr>
+<tr><td>Insgesamt</td><td>296,00</td></tr>
 </table>
 
-### II
+II
 
-Les pays suivants, extérieurs à la région, qui ont participé à la réunion du Comité Folgende nichtregionale Staaten, die an der Tagung des Vorbereitenden Komitees für die Asiatische Entwicklungsbank in Bangkok vom 21. Oktober bis 1. November 1965 teilgenommen haben und dort ihr Interesse an einer Mitgliedschaft in der Bank zum Ausdruck brachten, können nach Artikel 63 Unterzeichner dieses Übereinkommens werden, sofern sie bei der Unterzeichnung je mindestens fünf Millionen Dollar ($ 5 000 000) des Stammkapitals der Bank zeichnen:
+Folgende nichtregionale Staaten, die an der Tagung des Vorbereitenden Komitees für die Asiatische Entwicklungsbank in Bangkok vom 21. Oktober bis 1. November 1965 teilgenommen haben und dort ihr Interesse an einer Mitgliedschaft in der Bank zum Ausdruck brachten, können nach Artikel 63 Unterzeichner dieses Übereinkommens werden, sofern sie bei der Unterzeichnung je mindestens fünf Millionen Dollar ($ 5 000 000) des Stammkapitals der Bank zeichnen:
 
-\1. Österreich 3. Norwegen
+\1. Österreich
 
-\2. Finnland 4. Schweden
+\2. Finnland
 
-### III
+\3. Norwegen
+
+\4. Schweden
+
+III
 
 Bis zum 31. Januar 1966 kann jeder in Teil B Abschnitt I aufgeführte nichtregionale Staat seinen Zeichnungsbetrag durch eine entsprechende Bekanntgabe an den Exekutivsekretär der Wirtschaftskommission der Vereinten Nationen für Asien und den Fernen Osten erhöhen; jedoch darf der Gesamtbetrag der Erstzeichnungen der in Teil B Abschnitte I und II aufgeführten nichtregionalen Staaten dreihundertfünfzig Millionen Dollar ($ 350 000 000) nicht übersteigen.
 
@@ -910,165 +907,67 @@ Anhang B
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 11. Mai 2006**[^t-3]**
+Geltungsbereich am 13. Mai 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Afghanistan</td><td>22. August</td><td>1966</td><td>22. August</td><td>1966</td></tr>
-<tr><td>Australien<sup>\*</sup></td><td>19. September</td><td>1966</td><td>19. September</td><td>1966</td></tr>
-<tr><td>Bangladesch<sup>a</sup></td><td>14. März</td><td>1973</td><td>14. März</td><td>1973</td></tr>
+<tr><td>Australien\*</td><td>19. September</td><td>1966</td><td>19. September</td><td>1966</td></tr>
+<tr><td>Bangladesch <sup>a</sup></td><td>14. März</td><td>1973</td><td>14. März</td><td>1973</td></tr>
 <tr><td>Belgien</td><td>16. August</td><td>1966</td><td>22. August</td><td>1966</td></tr>
-<tr><td>Bhutan<sup>a</sup></td><td>15. April</td><td>1982</td><td>15. April</td><td>1982</td></tr>
-<tr><td>China<sup>a</sup></td><td>10. März</td><td>1986</td><td>10. März</td><td>1986</td></tr>
-<tr><td>Cook-Inseln<sup>b</sup></td><td>20. April</td><td>1976</td><td>20. April</td><td>1976</td></tr>
-<tr><td>Dänemark<sup>\*</sup></td><td>16. August</td><td>1966</td><td>22. August</td><td>1966</td></tr>
-<tr><td>Deutschland<sup>\*</sup></td><td>30. August</td><td>1966</td><td>30. August</td><td>1966</td></tr>
-<tr><td>Fidschi<sup>b</sup></td><td>2. April</td><td>1970</td><td>2. April</td><td>1970</td></tr>
+<tr><td>Bhutan <sup>a</sup></td><td>15. April</td><td>1982</td><td>15. April</td><td>1982</td></tr>
+<tr><td>China <sup>a</sup></td><td>10. März</td><td>1986</td><td>10. März</td><td>1986</td></tr>
+<tr><td>Hongkong <sup>b</sup></td><td>27. März</td><td>1969</td><td>27. März</td><td>1969</td></tr>
+<tr><td>Cook-Inseln <sup>b</sup></td><td>20. April</td><td>1976</td><td>20. April</td><td>1976</td></tr>
+<tr><td>Dänemark\*</td><td>16. August</td><td>1966</td><td>22. August</td><td>1966</td></tr>
+<tr><td>Deutschland\*</td><td>30. August</td><td>1966</td><td>30. August</td><td>1966</td></tr>
+<tr><td>Fidschi <sup>b</sup></td><td>2. April</td><td>1970</td><td>2. April</td><td>1970</td></tr>
 <tr><td>Finnland</td><td>22. August</td><td>1966</td><td>22. August</td><td>1966</td></tr>
-<tr><td>Frankreich<sup>\*</sup> <sup>a</sup></td><td>27. Juli</td><td>1970</td><td>27. Juli</td><td>1970</td></tr>
-<tr><td>Hongkong<sup>b</sup></td><td>27. März</td><td>1969</td><td>27. März</td><td>1969</td></tr>
-<tr><td>Indien<sup>\*</sup></td><td>20. Juli</td><td>1966</td><td>22. August</td><td>1966</td></tr>
-<tr><td>Indonesien<sup>a</sup></td><td>24. November</td><td>1966</td><td>24. November</td><td>1966</td></tr>
-<tr><td>Italien<sup>\*</sup></td><td>30. September</td><td>1966</td><td>30. September</td><td>1966</td></tr>
-<tr><td>Japan<sup>\*</sup></td><td>16. August</td><td>1966</td><td>22. August</td><td>1966</td></tr>
+<tr><td>Frankreich\* <sup>a</sup></td><td>27. Juli</td><td>1970</td><td>27. Juli</td><td>1970</td></tr>
+<tr><td>Indien\*</td><td>20. Juli</td><td>1966</td><td>22. August</td><td>1966</td></tr>
+<tr><td>Indonesien <sup>a</sup></td><td>24. November</td><td>1966</td><td>24. November</td><td>1966</td></tr>
+<tr><td>Italien\*</td><td>30. September</td><td>1966</td><td>30. September</td><td>1966</td></tr>
+<tr><td>Japan\*</td><td>16. August</td><td>1966</td><td>22. August</td><td>1966</td></tr>
 <tr><td>Kambodscha</td><td>30. September</td><td>1966</td><td>30. September</td><td>1966</td></tr>
-<tr><td>Kanada<sup>\*</sup></td><td>22. August</td><td>1966</td><td>22. August</td><td>1966</td></tr>
-<tr><td>Kiribati<sup>b</sup></td><td>28. Mai</td><td>1974</td><td>28. Mai</td><td>1974</td></tr>
-<tr><td>Korea (Süd-)<sup>\*</sup></td><td>16. August</td><td>1966</td><td>22. August</td><td>1966</td></tr>
+<tr><td>Kanada\*</td><td>22. August</td><td>1966</td><td>22. August</td><td>1966</td></tr>
+<tr><td>Kiribati <sup>b</sup></td><td>28. Mai</td><td>1974</td><td>28. Mai</td><td>1974</td></tr>
+<tr><td>Korea (Süd-)\*</td><td>16. August</td><td>1966</td><td>22. August</td><td>1966</td></tr>
 <tr><td>Laos</td><td>30. August</td><td>1966</td><td>30. August</td><td>1966</td></tr>
-<tr><td>Malaysia<sup>\*</sup></td><td>16. August</td><td>1966</td><td>22. August</td><td>1966</td></tr>
-<tr><td>Malediven<sup>a</sup></td><td>14. Februar</td><td>1978</td><td>14. Februar</td><td>1978</td></tr>
-<tr><td>Myanmar<sup>a</sup></td><td>26. April</td><td>1973</td><td>26. April</td><td>1973</td></tr>
+<tr><td>Malaysia\*</td><td>16. August</td><td>1966</td><td>22. August</td><td>1966</td></tr>
+<tr><td>Malediven <sup>a</sup></td><td>14. Februar</td><td>1978</td><td>14. Februar</td><td>1978</td></tr>
+<tr><td>Myanmar <sup>a</sup></td><td>26. April</td><td>1973</td><td>26. April</td><td>1973</td></tr>
 <tr><td>Nepal</td><td>21. Juni</td><td>1966</td><td>22. August</td><td>1966</td></tr>
 <tr><td>Neuseeland</td><td>29. September</td><td>1966</td><td>29. September</td><td>1966</td></tr>
-<tr><td>Niederlande<sup>\*</sup></td><td>29. August</td><td>1966</td><td>29. August</td><td>1966</td></tr>
-<tr><td>Norwegen<sup>\*</sup></td><td>14. Juli</td><td>1966</td><td>22. August</td><td>1966</td></tr>
+<tr><td>Niederlande\*</td><td>29. August</td><td>1966</td><td>29. August</td><td>1966</td></tr>
+<tr><td>Niue <sup>a</sup></td><td>11. März</td><td>2019</td><td>11. März</td><td>2019</td></tr>
+<tr><td>Norwegen\*</td><td>14. Juli</td><td>1966</td><td>22. August</td><td>1966</td></tr>
 <tr><td>Österreich</td><td>29. September</td><td>1966</td><td>29. September</td><td>1966</td></tr>
 <tr><td>Pakistan</td><td>12. Mai</td><td>1966</td><td>22. August</td><td>1966</td></tr>
-<tr><td>Papua-Neuguinea<sup>b</sup></td><td>8. April</td><td>1971</td><td>8. April</td><td>1971</td></tr>
-<tr><td>Philippinen<sup>\*</sup></td><td>5. Juli</td><td>1966</td><td>22. August</td><td>1966</td></tr>
-<tr><td>Salomoninseln<sup>b</sup></td><td>18. April</td><td>1973</td><td>18. April</td><td>1973</td></tr>
+<tr><td>Papua-Neuguinea <sup>b</sup></td><td>8. April</td><td>1971</td><td>8. April</td><td>1971</td></tr>
+<tr><td>Philippinen\*</td><td>5. Juli</td><td>1966</td><td>22. August</td><td>1966</td></tr>
+<tr><td>Salomoninseln <sup>b</sup></td><td>18. April</td><td>1973</td><td>18. April</td><td>1973</td></tr>
 <tr><td>Samoa</td><td>23. Juni</td><td>1966</td><td>22. August</td><td>1966</td></tr>
-<tr><td>Schweden<sup>\*</sup></td><td>29. September</td><td>1966</td><td>29. September</td><td>1966</td></tr>
-<tr><td>Schweiz<sup>\*</sup> <sup>a</sup></td><td>29. Dezember</td><td>1967</td><td>31. Dezember</td><td>1967</td></tr>
-<tr><td>Singapur<sup>\*</sup></td><td>21. September</td><td>1966</td><td>21. September</td><td>1966</td></tr>
-<tr><td>Spanien<sup>a</sup></td><td>14. Februar</td><td>1986</td><td>14. Februar</td><td>1986</td></tr>
-<tr><td>Sri Lanka<sup>\*</sup></td><td>29. September</td><td>1966</td><td>29. September</td><td>1966</td></tr>
+<tr><td>Schweden\*</td><td>29. September</td><td>1966</td><td>29. September</td><td>1966</td></tr>
+<tr><td>Schweiz\* <sup>a</sup></td><td>29. Dezember</td><td>1967</td><td>31. Dezember</td><td>1967</td></tr>
+<tr><td>Singapur\*</td><td>21. September</td><td>1966</td><td>21. September</td><td>1966</td></tr>
+<tr><td>Spanien <sup>a</sup></td><td>14. Februar</td><td>1986</td><td>14. Februar</td><td>1986</td></tr>
+<tr><td>Sri Lanka\*</td><td>29. September</td><td>1966</td><td>29. September</td><td>1966</td></tr>
 <tr><td>Thailand</td><td>16. August</td><td>1966</td><td>22. August</td><td>1966</td></tr>
-<tr><td>Tonga<sup>a</sup></td><td>29. März</td><td>1972</td><td>29. März</td><td>1972</td></tr>
-<tr><td>Usbekistan<sup>a</sup></td><td>31. August</td><td>1995</td><td>31. August</td><td>1995</td></tr>
-<tr><td>Vanuatu<sup>a</sup></td><td>15. April</td><td>1982</td><td>15. April</td><td>1982</td></tr>
-<tr><td>Vereinigte Staaten<sup>\*</sup></td><td>16. August</td><td>1966</td><td>22. August</td><td>1966</td></tr>
-<tr><td>Vereinigtes Königreich<sup>\*</sup></td><td>26. September</td><td>1966</td><td>26. September</td><td>1966</td></tr>
+<tr><td>Tonga <sup>a</sup></td><td>29. März</td><td>1972</td><td>29. März</td><td>1972</td></tr>
+<tr><td>Usbekistan <sup>a</sup></td><td>31. August</td><td>1995</td><td>31. August</td><td>1995</td></tr>
+<tr><td>Vanuatu <sup>a</sup></td><td>15. April</td><td>1982</td><td>15. April</td><td>1982</td></tr>
+<tr><td>Vereinigte Staaten\*</td><td>16. August</td><td>1966</td><td>22. August</td><td>1966</td></tr>
+<tr><td>Vereinigtes Königreich\*</td><td>26. September</td><td>1966</td><td>26. September</td><td>1966</td></tr>
 <tr><td>Vietnam</td><td>22. September</td><td>1966</td><td>22. September</td><td>1966</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen siehe hiernach.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen siehe hiernach. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Aufnahme gemäss Art. 3 Abs. 2.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Aufnahme gemäss Art. 3 Abs. 3.</td></tr>
 </table>
 
-[^t-3]: Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (http://www.eda.admin.ch/eda/de/home/topics/intla/intrea/dbstv.html).
+[^t-2]: [AS 1971 860](https://fedlex.data.admin.ch/eli/oc/1971/860_861_861); [1974 1192](https://fedlex.data.admin.ch/eli/oc/1974/1192_1192_1192); [1981 1357](https://fedlex.data.admin.ch/eli/oc/1981/1357_1357_1357); [1983 442](https://fedlex.data.admin.ch/eli/oc/1983/442_442_442); [1986 1961](https://fedlex.data.admin.ch/eli/oc/1986/1961_1961_1961); [2006 3455](https://fedlex.data.admin.ch/eli/oc/2006/547); [2022 299](https://fedlex.data.admin.ch/eli/oc/2022/299). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10).
 
 Vorbehalte und Erklärungen
 
-## Australien
-
-Die australische Regierung erklärt ferner gemäss Artikel 56 Absatz 2 des Übereinkommens, dass Australien sich das Recht vorbehält, den Gehalt und die sonstigen Bezüge zu besteuern, welche die Bank für in Australien geleistete Dienste an Direktoren, Stellvertreter, leitende oder sonstige Bedienstete der Bank einschliesslich der im Auftrag der Bank tätigen Sachverständigen zahlt, die im Sinne des australischen Einkommensteuerrechts in Australien ansässig sind, es sei denn, dass der Betreffende kein australischer Staatsbürger ist und lediglich deshalb nach Australien gekommen ist, um Aufgaben des Amtes wahrzunehmen, das er bei der Bank innehat.
-
-Die australische Regierung ist nicht in der Lage, der Bank für Postsäcke, die sie in Australien durch die Post befördern lassen möchte, die niedrigeren Tarife zu gewähren, welche die australische Regierung auf der Grundlage der Gegenseitigkeit bestimmten anderen Regierungen für Postsäcke gewährt, die ihre diplomatischen Missionen in Australien durch die Post versenden.
-
-Die australische Regierung ist nicht in der Lage, den Artikel 54 des Übereinkommens, der vorschreibt, dass jedes Mitglied den amtlichen Nachrichtenverkehr der Bank nicht weniger günstig behandelt als den amtlichen Nachrichtenverkehr anderer Mitglieder, vollständig zu erfüllen, soweit er sich auf Prioritäten, Tarife und Gebühren im Fernmeldeverkehr bezieht, solange nicht alle anderen Regierungen beschlossen haben, zwecks Gewährung dieser Behandlung an internationale Organisationen zusammenzuarbeiten. Dieser Vorbehalt lässt das Recht der Bank unberührt, Pressetelegramme zu den vorgeschriebenen Pressetarifen an Presse und Rundfunk in Australien aufzugeben.
-
-Die australische Regierung vertritt die Meinung, dass das Übereinkommen die Anwendung australischer Quarantänegesetze nicht berührt.
-
-## Dänemark
-
-Gemäss Artikel 14 ix) des Übereinkommens zur Errichtung der Asiatischen Entwicklungsbank werden die Beträge eines Darlehens, einer Kapitalanlage oder einer sonstigen Finanzierung, die im Rahmen der ordentlichen Geschäftstätigkeit der Bank oder mit Sonderfonds durchgeführt wird, welche die Bank nach Artikel 19 Absatz 1 i) errichtet hat, ausschliesslich in Mitgliedstaaten für die Beschaffung von in Mitgliedstaaten erzeugten Waren und erbrachten Dienstleistungen verwendet …
-
-Die erklärte Schifffahrtspolitik der dänischen Regierung beruht auf dem Grundsatz des freien Schiffsverkehrs im internationalen Handel bei freiem und fairem Wettbewerb. Entsprechend dieser Politik sollten Transaktionen und Transfers im Zusammenhang mit Beförderungen zur See nicht durch Bestimmungen behindert werden, die einem Staat oder einer Staatengruppe eine Vorzugsbehandlung einräumen, und hierbei ist stets anzustreben, dass die Art der Beförderung und die Flagge, unter der sie erfolgt, nach normalen geschäftlichen Erwägungen bestimmt werden. Die Regierung Dänemarks erwartet, dass Artikel 14 ix) nicht entgegen diesem Grundsatz angewendet wird.
-
-## Deutschland
-
-Die Bundesrepublik Deutschland erklärt gemäss Artikel 56 Absatz 2 des Übereinkommens, dass sie sich und ihren Gebietskörperschaften das Recht vorbehält, die von der Asiatischen Entwicklungsbank gezahlten Gehälter und sonstigen Bezüge der Deutschen im Sinne des Artikels 116 des Grundgesetzes für die Bundesrepublik Deutschland, die einen Wohnsitz oder ihren gewöhnlichen Aufenthalt im Geltungsbereich dieses Grundgesetzes einschliesslich des Landes Berlin haben, zu besteuern.
-
-## Frankreich
-
-In Anwendung von Artikel 56 Absatz 2 des Übereinkommens behält sich die französische Regierung vor, die Steuern auf den Gehältern und sonstigen Bezügen, die den französischen Staatsangehörigen von der Bank ausbezahlt werden, gemäss der französischen Gesetzgebung zu erheben.
-
-## Indien
-
-Die Regierung Indiens erklärt, dass Indien für sich und seine Gebietskörperschaften das Recht vorbehält, die von der Asiatischen Entwicklungsbank an Staatsbürger oder Staatsangehörige Indiens bezahlten Gehälter und sonstigen Bezüge zu besteuern.
-
-## Italien
-
-Gemäss Artikel 56 Absatz 2 des Übereinkommens behält sich die italienische Regierung für Italien und seine Gebietskörperschaften das Recht vor, die Gehälter und sonstigen Bezüge zu besteuern, welche die Bank an italienische Staatsbürger bezahlt, die in Büros beschäftigt sind, welche die Bank in Italien errichtet, oder die für die Bank in Italien tätig sind.
-
-Nach Auffassung der italienischen Regierung ist Artikel 56 Absatz 1 entsprechend der üblichen Praxis bei der Befreiung internationaler Organisationen von der Steuer auszulegen. Nach dieser Praxis wird internationalen Organisationen eine Steuervergünstigung nur für Gegenstände gewährt, die im Rahmen der amtlichen Tätigkeit einer Organisation erworben werden, und bei innerstaatlichen indirekten Steuern nur für erhebliche Käufe, bei denen die Gewährung einer derartigen Vergünstigung billigerweise durchführbar ist.
-
-Nach Auffassung der italienischen Regierung ist die Bestimmung des Artikels 50 Absatz 1 über die Immunität von der Gerichtsbarkeit innerhalb der völkerrechtlich vorgesehenen Grenzen auszulegen.
-
-Ferner beabsichtigt die italienische Regierung, sich mit der Asiatischen Entwicklungsbank dahingehend zu verständigen, dass das nach Artikel 50 Absatz 2 in der Satzung und den Regelungen der Bank oder in den mit der Bank geschlossenen Verträgen vorzuschreibende besondere Verfahren die Zuständigkeit der italienischen Gerichte für alle von privaten Parteien geltend gemachten Ansprüche nicht beeinträchtigt.
-
-## Japan
-
-Gleicher Vorbehalt wie Indien.
-
-## Kanada
-
-Gemäss Artikel 56 Absatz 2 des Übereinkommens über die Asiatische Entwicklungsbank behält sich die Regierung Kanadas für Kanada und seine Gebietskörperschaften das Recht vor, die von der Bank an Staatsbürger oder Staatsangehörige Kanadas, die ihren Aufenthalt oder gewöhnlichen Aufenthalt in Kanada haben, bezahlten Gehälter und sonstigen Bezüge zu besteuern.
-
-## Korea (-Süd)
-
-Gleicher Vorbehalt wie Indien.
-
-## Malaysia
-
-Die Regierung Malaysias erklärt, dass sie sich das Recht vorbehält, die von der Asiatischen Entwicklungsbank an malaysische Staatsbürger bezahlten Gehälter und sonstigen Bezüge zu besteuern.
-
-## Niederlande
-
-Gleicher Vorbehalt wie Indien.
-
-## Norwegen
-
-Gleicher Vorbehalt wie Dänemark.
-
-## Philippinen
-
-Gleicher Vorbehalt wie Indien.
-
-## Schweden
-
-Gemäss der Hauptregel des Artikels 14 ix) des Übereinkommens zur Errichtung der Asiatischen Entwicklungsbank werden die Beträge eines Darlehens, einer Kapitalanlage oder einer sonstigen Finanzierung, die von der Bank durchgeführt wird, ausschliesslich in Mitgliedstaaten für die Beschaffung von in Mitgliedstaaten erzeugten Waren und erbrachten Dienstleistungen verwendet.
-
-Die Schifffahrtspolitik der schwedischen Regierung beruht auf dem Grundsatz des freien Schiffsverkehrs im internationalen Handel bei freiem und fairem Wettbewerb. Die schwedische Regierung erwartet, dass Artikel 14 Ziffer ix) nicht entgegen diesem Grundsatz angewendet wird. Ferner gehört es zur Entwicklungshilfepolitik der schwedischen Regierung, dass eine multilaterale Entwicklungshilfe auf dem Grundsatz des freien internationalen Wettbewerbs beruhen soll. Die schwedische Regierung gibt der Hoffnung Ausdruck, dass es möglich sein wird, sich auf eine Änderung des Artikels 14 Ziffer ix) zu einigen, so dass er nicht mehr in Gegensatz zu diesem Grundsatz steht.
-
-## Schweiz
+Schweiz
 
 Gemäss Artikel 56 Absatz 2 des Übereinkommens über die Errichtung der Asiatischen Entwicklungsbank behält sich die Schweiz das Recht vor, die Gehälter und sonstigen Bezüge, die von der Bank an Schweizerbürger mit Wohnsitz in der Schweiz ausbezahlt werden, der Einkommenssteuer der Eidgenossenschaft, der Kantone und Gemeinden zu unterstellen.
-
-## Singapur
-
-Gleicher Vorbehalt wie Malaysia.
-
-## Sri Lanka
-
-Gleicher Vorbehalt wie Kanada.
-
-## Vereinigte Staaten
-
-Gleicher Vorbehalt wie Korea (‑Süd).
-
-## Vereinigtes Königreich
-
-Gemäss Artikel 56 Absatz 2 behält sich Grossbritannien das Recht vor, die von der Asiatischen Entwicklungsbank an Staatsangehörige des Vereinigten Königreichs und der Kolonien bezahlten Gehälter und sonstigen Bezüge zu besteuern.
-
-Gemäss Artikel 54 des Übereinkommens stehen der Asiatischen Entwicklungsbank Vorrechte auf dem Gebiet des Fernmeldeverkehrs zu. Die in Anhang 3 des am 21. Dezember 1959[^declu2-lvlu19-1] in Genf unterzeichneten Internationalen Fernmeldevertrages enthaltene Liste der Personen und Stellen, die Anspruch auf derartige Vorrechte haben, führt ausser den Vereinten Nationen keine internationalen Organisationen auf. Es besteht also ein eindeutiger Gegensatz zwischen Artikel 54 und dem Fernmeldevertrag, dessen Vertragspartei das Vereinigte Königreich und zweifellos auch andere Mitglieder der Asiatischen Entwicklungsbank sind. Das Vereinigte Königreich gedenkt vorzuschlagen, dass dieser Gegensatz auf einer baldigen Sitzung des Gouverneurrats erörtert wird.
-
-Artikel 56 Absatz 1 des Übereinkommens könnte vielleicht so ausgelegt werden, als räume er der Asiatischen Entwicklungsbank eine vollständige Befreiung von allen Zollabgaben und Steuern auf Waren ohne jede Beschränkung ein. Es ist üblich, internationalen Organisationen Steuervergünstigungen für Waren nur in Bezug auf Gegenstände zu gewähren, die im Rahmen der amtlichen Tätigkeit der Organisation erworben werden, und bei innerstaatlichen indirekten Steuern nur für erhebliche Käufe, bei denen die Gewährung einer derartigen Vergünstigung billigerweise durchführbar ist. Nach Auffassung der Regierung des Vereinigten Königreichs ist Artikel 56 Absatz 1 entsprechend der üblichen Praxis auszulegen.
-
-... die Regierung des Vereinigten Königreichs beabsichtigt, sich mit der Asiatischen Entwicklungsbank dahingehend zu verständigen,
-
-- a) dass die Bank für jedes ihr gehörende oder für sie betriebene Kraftfahrzeug eine Haftpflichtversicherung gegen alle Schäden abschliesst, die aus Unfällen entstehen, welche von derartigen Fahrzeugen im Vereinigten Königreich verursacht werden, und dass die Immunität der Bank von der Gerichtsbarkeit nach Artikel 50 Absatz 1 nicht in Anspruch genommen wird im Falle einer Zivilklage eines Dritten im Vereinigten Königreich wegen Schäden, die aus einem von einem derartigen Fahrzeug verursachten Unfall entstehen;
-- b) dass die Immunität auf Grund des Artikels 55 nicht in Anspruch genommen wird bei Verstössen von Mitgliedern des Bankpersonals gegen die Rechtsvorschriften über den Motorfahrzeugverkehr oder bei Schäden, die ein einem Mitglied gehörendes oder von ihm geführtes Motorfahrzeug verursacht.
-
-[^declu2-lvlu19-1]: [[AS 1960 1394](https://fedlex.data.admin.ch/eli/oc/1960/1394_1451_1451). [AS 1968 1358](https://fedlex.data.admin.ch/eli/oc/1968/1358_1406_1322)]

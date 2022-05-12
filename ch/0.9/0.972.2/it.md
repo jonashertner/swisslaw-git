@@ -3,11 +3,11 @@ sr: "0.972.2"
 title: "Accordo di fondazione della Banca asiatica di sviluppo, del 4 dicembre 1965"
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/860_861_861"
 language: it
-version: 2006-05-11
+version: 2022-05-13
 adopted: 1965-12-04
 in_force: 1967-12-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/860_861_861/20060511/it/xml/fedlex-data-admin-ch-eli-cc-1971-860_861_861-20060511-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/860_861_861/20060511/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/860_861_861/20220513/it/xml/fedlex-data-admin-ch-eli-cc-1971-860_861_861-20220513-it-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/860_861_861/20220513/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,20 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/860_861_861/20060511/it"
 
 RU **1971** 861; FF **1967** II 9
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conchiuso a Manila il 4 dicembre 1965
+Conchiuso a Manila il 4 dicembre 1965 Approvato dall’Assemblea federale il 5 dicembre 1967[^t-1] Strumento d’accettazione depositato dalla Svizzera il 29 dicembre 1967 Entrato in vigore per la Svizzera il 31 dicembre 1967
 
-Approvato dall’Assemblea federale il 5 dicembre 1967[^t-2]
+(Stato 13 maggio 2022)
 
-Strumento d’accettazione depositato dalla Svizzera il 29 dicembre 1967
-
-Entrato in vigore per la Svizzera il 31 dicembre 1967
-
-(Stato 11 maggio 2006)
-
-[^t-1]: Dal testo originale inglese.
-[^t-2]: [RU 1971 860](https://fedlex.data.admin.ch/eli/oc/1971/858_859_860)
+[^t-1]: [RU 1971 860](https://fedlex.data.admin.ch/eli/oc/1971/858_859_860)
 
 Le Parti contraenti,
 
@@ -43,7 +36,7 @@ convinte che la reazione d’un istituto finanziario avente un carattere premine
 
 hanno convenuto di istituire con il presente accordo la Banca Asiatica per lo sviluppo (appresso «Banca»), il cui funzionamento si conformerà ai: Seguenti articoli dell’Accordo
 
-## Capitolo I Scopi, funzioni e membri
+## Capitolo I: Scopi, funzioni e membri
 
 #### Art. 1
 
@@ -55,10 +48,10 @@ Lo scopo della Banca è di favorire la crescita e la cooperazione economica nell
 
 Per perseguire lo scopo, la Banca esercita le seguenti funzioni:
 
-- i) Promuove, nella regione, l’investimento di capitali pubblici e privati ai fini dello sviluppo;
-- ii) Impiega i mezzi a sua disposizione per finanziare i Paesi membri in via di sviluppo della regione, dando priorità ai progetti ed ai programmi regionali, sotto-regionali, come pure a quelli nazionali atti a contribuire, il più efficacemente possibile, ad una armonica crescita economica dell’insieme della regione, prestando particolare cura ai bisogni dei Paesi membri piccoli o meno sviluppati appartenenti, alla regione;
-- iii) Esaudisce le richieste, dei membri appartenenti alla regione, attinenti all’assistenza nel campo della coordinazione delle varie politiche e piani di sviluppo nell’intento di giungere ad una più razionale utilizzazione delle risorse, di rendere le loro economie sempre più complementari, e di favorire un’ordinata espansione del commercio estero e, segnatamente, di quello interregionale;
-- iv) Fornisce la necessaria assistenza tecnica per la progettazione, il funzionamento e l’esecuzione dei piani e programmi di sviluppo compresa l’elaborazione di proposte attinenti a specifici progetti;
+- i) Promuove, nella regione, l’investimento di capitali pubblici e privati ai fini dello sviluppo.
+- ii) Impiega i mezzi a sua disposizione per finanziare i Paesi membri in via di sviluppo della regione, dando priorità ai progetti ed ai programmi regionali, sotto-regionali, come pure a quelli nazionali atti a contribuire, il più efficacemente possibile, ad una armonica crescita economica dell’insieme della regione, prestando particolare cura ai bisogni dei Paesi membri piccoli o meno sviluppati appartenenti, alla regione.
+- iii) Esaudisce le richieste, dei membri appartenenti alla regione, attinenti all’assistenza nel campo della coordinazione delle varie politiche e piani di sviluppo nell’intento di giungere ad una più razionale utilizzazione delle risorse, di rendere le loro economie sempre più complementari, e di favorire un’ordinata espansione del commercio estero e, segnatamente, di quello interregionale.
+- iv) Fornisce la necessaria assistenza tecnica per la progettazione, il funzionamento e l’esecuzione dei piani e programmi di sviluppo compresa l’elaborazione di proposte attinenti a specifici progetti.
 - v) Coopera, nel modo giudicato più appropriato dalla Banca e nell’ambito delle disposizioni del presente Accordo, con l’Organizzazione delle Nazioni Unite, i suoi organi e uffici ausiliari, compresa, in particolare, la Commissione economica per l’Asia e l’Estremo-Oriente, e con le organizzazioni pubbliche ed altre istituzioni internazionali, come pure con gli istituti nazionali, pubblici o privati, che si occupano dell’investimento nella regione, di fondi destinati allo sviluppo, ed aiuta, tali istituti od organismi, nella ricerca d’ulteriori possibilità d’investimento e d’assistenza; e
 - vi) Intraprende ogni forma d’attività e presta ogni altro genere di servizio atti a favorire lo scopo.
 
@@ -72,7 +65,7 @@ Per perseguire lo scopo, la Banca esercita le seguenti funzioni:
 
 <sup>3.</sup> Per quanto riguarda i membri associati della Commissione economica delle Nazioni Unite per l’Asia e l’Estremo Oriente che non sono responsabili della condotta delle loro relazioni internazionali, la richiesta d’ammissione, quale membro della Banca, dev’essere presentata dal membro della Banca responsabile delle relazioni internazionali del candidato e corredata dall’impegno del summenzionato membro che, fino al momento in cui il candidato avrà assunto tale responsabilità, egli risponderà di ogni obbligo, contratto dal candidato, desunto dalla sua qualità di membro della Banca e dai vantaggi che, da tale statuto, ne derivano. L’espressione «Paese», utilizzata nel presente Accordo, designa anche un territorio membro associato della Commissione economica delle nazioni Unite per l’Asia e l’Estremo Oriente.
 
-## Capitolo II Capitale
+## Capitolo II: Capitale
 
 #### Art. 4
 
@@ -112,8 +105,8 @@ Per perseguire lo scopo, la Banca esercita le seguenti funzioni:
 
 I pagamenti a liberazione del capitale azionario inizialmente sottoscritto vanno effettuati:
 
-- a. per il cinquanta (50) per cento, in oro o in valuta convertibile;
-- b. per il rimanente cinquanta (50) per cento nella valuta nazionale.
+- a) per il cinquanta (50) per cento, in oro o in valuta convertibile;
+- b) per il rimanente cinquanta (50) per cento nella valuta nazionale.
 
 <sup>3.</sup> Invece della somma pagabile in valuta nazionale giusta il paragrafo 2, lettera b, la Banca accetta, da ogni Paese membro, certificati di riconoscimento di debito od ogni altro genere d’obbligazione emessa dal governo del Paese membro o dal depositario da esso designato, a meno che la valuta in questione non le sia indispensabile per il regolare svolgimento degli affari. Tali certificati od obbligazioni non possono essere negoziati, non fruttano interesse alcuno e sono pagabili, su richiesta della Banca, al valore nominale in valuta convertibile. Con riserva delle disposizioni del paragrafo 2 ii) dell’articolo 24, gli inviti al pagamento di detti titoli avvengono in periodi adeguati e concernono una percentuale uniforme di essi.
 
@@ -131,13 +124,13 @@ I pagamenti a liberazione del capitale azionario inizialmente sottoscritto vanno
 
 Ai sensi del presente Accordo, l’espressione, «capitale ordinario», designa:
 
-- i) Il capitale azionario autorizzato della Banca, composta sia delle azioni liberate sia di quelle soggette a richiamo, sottoscritte in conformità dell’articolo 5 del presente Accordo, eccettuata quella parte di esso che potrebbe essere destinata a uno o più Fondi Speciali in ossequio alle disposizioni del paragrafo 1 i) dell’articolo 19 del presente Accordo;
-- ii) I mezzi provenienti da crediti assunti dalla Banca, in virtù dei poteri ad essa conferitigli giusta la lettera i) dell’articolo 21, ed ai quali è applicabile la disposizione concernente il richiamo giusta l’articolo 6, paragrafo 5;
-- iii) I rimborsi di mutui o garanzie concessi sui mezzi di cui ai capoversi i) e ii) del presente articolo;
-- iv) I redditi da prestiti concessi sui mezzi di cui al capoverso precedente o da garanzie ed ai quali è applicabile la disposizione concernente il richiamo giusta l’articolo 6, paragrafo 5;
+- i) Il capitale azionario autorizzato della Banca, composta sia delle azioni liberate sia di quelle soggette a richiamo, sottoscritte in conformità dell’articolo 5 del presente Accordo, eccettuata quella parte di esso che potrebbe essere destinata a uno o più Fondi Speciali in ossequio alle disposizioni del paragrafo 1 i) dell’articolo 19 del presente Accordo.
+- ii) I mezzi provenienti da crediti assunti dalla Banca, in virtù dei poteri ad essa conferitigli giusta la lettera i) dell’articolo 21, ed ai quali è applicabile la disposizione concernente il richiamo giusta l’articolo 6, paragrafo 5.
+- iii) I rimborsi di mutui o garanzie concessi sui mezzi di cui ai capoversi i) e ii) del presente articolo.
+- iv) I redditi da prestiti concessi sui mezzi di cui al capoverso precedente o da garanzie ed ai quali è applicabile la disposizione concernente il richiamo giusta l’articolo 6, paragrafo 5.
 - v) Tutti gli altri mezzi o redditi ricevuti dalla Banca e non appartenenti ai Fondi Speciali menzionati all’articolo 20.
 
-## Capitolo III Operazioni
+## Capitolo III: Operazioni
 
 #### Art. 8
 
@@ -171,8 +164,8 @@ I mezzi e le istituzioni della Banca sono esclusivamente destinati allo scopo e 
 
 Riservate le condizioni stipulate nel presente Accordo, la Banca ha la facoltà di procurare mezzi di finanziamento o di facilitarne il conseguimento ad ogni Paese membro od a ogni istituzione, organismo o suddivisione politica di quest’ultimo, od a ogni corporazione o impresa che svolga attività sul territorio di un Paese membro, come pure alle istituzioni od organizzazioni internazionali o regionali che si interessano allo sviluppo economico della regione. La Banca può effettuare le operazioni in uno qualsiasi dei modi seguenti:
 
-- i) Concedendo mutui diretti o partecipando ad essi per mezzo del capitale liberato e non ridotto e, con riserva delle disposizioni previste all’articolo 17, per mezzo delle riserve e delle eccedenze non distribuite oppure mediante la parte dei Fondi speciali non impegnata;
-- ii) Concedendo mutui diretti o partecipando ad essi per mezzo di fondi ottenuti dalla Banca sul mercato dei capitali o prestati o altrimenti acquisiti dalla Banca per integrarli nel capitale ordinario;
+- i) Concedendo mutui diretti o partecipando ad essi per mezzo del capitale liberato e non ridotto e, con riserva delle disposizioni previste all’articolo 17, per mezzo delle riserve e delle eccedenze non distribuite oppure mediante la parte dei Fondi speciali non impegnata.
+- ii) Concedendo mutui diretti o partecipando ad essi per mezzo di fondi ottenuti dalla Banca sul mercato dei capitali o prestati o altrimenti acquisiti dalla Banca per integrarli nel capitale ordinario.
 - iii) Investendo i mezzi di cui ai capoversi i) e ii) nel capitale sociale d’una istituzione o impresa, restando inteso che un tale investimento può essere effettuato soltanto se il Consiglio dei Governatori, a maggioranza del plenum rappresentante la maggioranza assoluta del totale delle voci attribuite ai Paesi membri, abbia deciso che la Banca è in grado di svolgere simili operazioni; oppure
 - iv) Garantendo, totalmente o in parte, come primo o secondo debitore, mutui per lo sviluppo economico a cui essa partecipa.
 
@@ -194,7 +187,7 @@ Riservate le condizioni stipulate nel presente Accordo, la Banca ha la facoltà 
 
 Accordando mutui diretti o partecipando ad essi, la Banca ha le seguenti possibilità di finanziamento:
 
-- i) Fornire al mutuatario fondi in valuta diversa da quella in uso nel Paese membro sul cui territorio dev’essere portata a compimento l’opera finanziata (d’appresso «valuta nazionale») e questo nell’intento di coprire le spese in divise estere relative al summenzionato progetto;
+- i) Fornire al mutuatario fondi in valuta diversa da quella in uso nel Paese membro sul cui territorio dev’essere portata a compimento l’opera finanziata (d’appresso «valuta nazionale») e questo nell’intento di coprire le spese in divise estere relative al summenzionato progetto.
 - ii) Assicurare il finanziamento, in moneta nazionale, delle spese locali relative al progetto in questione allorquando la fornitura di valuta può essere attuata senza una vendita preventiva d’oro o altre divise convertibili. In casi particolari ove, secondo l’apprezzamento della Banca, il progetto causi o potesse causare una perdita eccessiva o incida in modo esagerato sulla bilancia del Paese membro sul cui territorio vien eseguita l’opera, i mezzi finanziari, accordati dalla Banca a copertura delle spese locali, potranno essere forniti in valuta diversa da quella in uso nel paese membro; in simili casi la somma concessa della Banca a tale scopo, non supererà una frazione ragionevole delle spese locali totali sostenute dal mutuatario.
 
 #### Art. 14
@@ -203,19 +196,19 @@ Accordando mutui diretti o partecipando ad essi, la Banca ha le seguenti possibi
 
 Le operazioni della Banca si conformano ai seguenti principi:
 
-- i) Le operazioni della Banca assicurano principalmente il finanziamento di progetti specifici, compresi quelli facenti parte di un programma di sviluppo nazionale, sotto regionale o regionale. Esse possono, inoltre, comportare la concessione di mutui o la garanzia per mutui accordati a banche per lo sviluppo nazionale o ad altre istituzioni affinché siano in grado di finanziare progetti di sviluppo i cui bisogni finanziari, a giudizio della Banca, non hanno l’importanza da giustificare un suo intervento diretto;
-- ii) Nella scelta dei progetti la Banca si conformerà sempre alle disposizioni dell’articolo 2, paragrafo ii);
-- iii) La Banca non finanzia nessuna opera sul territorio d’un Paese membro se quest’ultimo si oppone;
-- iv) Prima di accordare un mutuo, il richiedente deve aver inoltrato una domanda a tale scopo, e, il Presidente della Banca deve aver sottoposto al Consiglio d’Amministrazione un rapporto scritto sulla richiesta in questione, corredato delle sue raccomandazioni fondate su uno studio fatto dai competenti servizi della Banca;
-- v) Per l’esame di una richiesta di mutuo o di garanzia, la Banca deve debitamente prendere in considerazione la possibilità che avrebbe il mutuatario di procurarsi altrove i fondi o le facilitazioni necessarie, a condizioni da essa giudicate ragionevoli per il mutuatario, tenendo conto di ogni fattore pertinente;
-- vi) Nel concedere o garantire un mutuo la Banca terrà debitamente conto delle possibilità del mutuatario e, all’occorrenza, del suo garante di adempiere agli obblighi derivanti dal contratto di mutuo;
-- vii) Concedendo o garantendo un mutuo, la Banca si assicura che, il tasso d’interesse, le spese d’altro genere e il piano d’ammortamento siano confacenti al mutuo in questione;
-- [tab] viii) Garantendo un mutuo, concesso da altri istituti d’investimento, o la sottoscrizione di titoli, la Banca riceve un’adeguata indennità per rischi;
-- ix) Il reddito di ogni genere di mutuo, investimento od altro finanziamento fatto nell’ambito delle operazioni ordinarie della Banca, o mediante i Fondi speciali da essa costituiti in virtù del paragrafo 1 i), dell’articolo 19, è destinato unicamente all’acquisto di beni, prodotti e servizi forniti da Paesi membri, a meno che, il Consiglio d’Amministrazione, con decisione presa alla maggioranza dei due terzi del numero totale delle voci attribuite ai Paesi membri, non conceda l’autorizzazione per l’acquisto di detti beni, prodotti e servizi in un paese non membro se circostanze speciali giustificano l’acquisto come, ad esempio, nel caso in cui un paese non membro abbia fornito alla Banca un ingente quantitativo di fondi;
-- x) Per un mutuo diretto concesso dalla Banca, quest’ultima autorizzerà il mutuatario ad attingere ai fondi per coprire le spese attinenti al progetto soltanto nella misura in cui esse sorgono;
-- xi) La Banca prenderà tutte le misure intese a verificare che il reddito di ogni genere di mutuo da essa garantito o concesso, o cui essa partecipa, sia utilizzato per lo scopo prestabilito, tenendo debitamente conto delle considerazioni di ordine economico e produttivo;
-- xii) La Banca cercherà di evitare che una parte sproporzionata dei suoi mezzi venga impiegata a profitto di uno qualunque dei membri;
-- xiii) La Banca farà in modo di mantenere una ragionevole distribuzione negli investimenti in capitale sociale; essa non si assume nessuna responsabilità nella direzione di una corporazione od impresa in cui ha investito fondi salvo che, tale ingerenza, sia necessaria per la tutela dell’investimento;
+- i) Le operazioni della Banca assicurano principalmente il finanziamento di progetti specifici, compresi quelli facenti parte di un programma di sviluppo nazionale, sotto regionale o regionale. Esse possono, inoltre, comportare la concessione di mutui o la garanzia per mutui accordati a banche per lo sviluppo nazionale o ad altre istituzioni affinché siano in grado di finanziare progetti di sviluppo i cui bisogni finanziari, a giudizio della Banca, non hanno l’importanza da giustificare un suo intervento diretto.
+- ii) Nella scelta dei progetti la Banca si conformerà sempre alle disposizioni dell’articolo 2, paragrafo ii).
+- iii) La Banca non finanzia nessuna opera sul territorio d’un Paese membro se quest’ultimo si oppone.
+- iv) Prima di accordare un mutuo, il richiedente deve aver inoltrato una domanda a tale scopo, e, il Presidente della Banca deve aver sottoposto al Consiglio d’Amministrazione un rapporto scritto sulla richiesta in questione, corredato delle sue raccomandazioni fondate su uno studio fatto dai competenti servizi della Banca.
+- v) Per l’esame di una richiesta di mutuo o di garanzia, la Banca deve debitamente prendere in considerazione la possibilità che avrebbe il mutuatario di procurarsi altrove i fondi o le facilitazioni necessarie, a condizioni da essa giudicate ragionevoli per il mutuatario, tenendo conto di ogni fattore pertinente.
+- vi) Nel concedere o garantire un mutuo la Banca terrà debitamente conto delle possibilità del mutuatario e, all’occorrenza, del suo garante di adempiere agli obblighi derivanti dal contratto di mutuo.
+- vii) Concedendo o garantendo un mutuo, la Banca si assicura che, il tasso d’interesse, le spese d’altro genere e il piano d’ammortamento siano confacenti al mutuo in questione.
+- viii) Garantendo un mutuo, concesso da altri istituti d’investimento, o la sottoscrizione di titoli, la Banca riceve un’adeguata indennità per rischi.
+- ix) Il reddito di ogni genere di mutuo, investimento od altro finanziamento fatto nell’ambito delle operazioni ordinarie della Banca, o mediante i Fondi speciali da essa costituiti in virtù del paragrafo 1 i), dell’articolo 19, è destinato unicamente all’acquisto di beni, prodotti e servizi forniti da Paesi membri, a meno che, il Consiglio d’Amministrazione, con decisione presa alla maggioranza dei due terzi del numero totale delle voci attribuite ai Paesi membri, non conceda l’autorizzazione per l’acquisto di detti beni, prodotti e servizi in un paese non membro se circostanze speciali giustificano l’acquisto come, ad esempio, nel caso in cui un paese non membro abbia fornito alla Banca un ingente quantitativo di fondi.
+- x) Per un mutuo diretto concesso dalla Banca, quest’ultima autorizzerà il mutuatario ad attingere ai fondi per coprire le spese attinenti al progetto soltanto nella misura in cui esse sorgono.
+- xi) La Banca prenderà tutte le misure intese a verificare che il reddito di ogni genere di mutuo da essa garantito o concesso, o cui essa partecipa, sia utilizzato per lo scopo prestabilito, tenendo debitamente conto delle considerazioni di ordine economico e produttivo.
+- xii) La Banca cercherà di evitare che una parte sproporzionata dei suoi mezzi venga impiegata a profitto di uno qualunque dei membri.
+- xiii) La Banca farà in modo di mantenere una ragionevole distribuzione negli investimenti in capitale sociale; essa non si assume nessuna responsabilità nella direzione di una corporazione od impresa in cui ha investito fondi salvo che, tale ingerenza, sia necessaria per la tutela dell’investimento.
 - xiv) Le operazioni della Banca seguono i principi di una sana gestione bancaria.
 
 #### Art. 15
@@ -274,7 +267,7 @@ I pagamenti destinati a liberare la Banca dagli impegni contratti per crediti o 
 
 La Banca ha la facoltà di:
 
-- i) Prelevare, su decisione dei Governatori a maggioranza dei due terzi del plenum rappresentante almeno i tre quarti del totale delle voci attribuite ai Paesi membri, un importo massimo pari al 10 per cento della frazione di capitale liberato e non ridotto della Banca, versato dai Paesi membri in virtù, dei paragrafi 2 a e 2 b dell’articolo 6, per istituire uno o più Fondi speciali;
+- i) Prelevare, su decisione dei Governatori a maggioranza dei due terzi del plenum rappresentante almeno i tre quarti del totale delle voci attribuite ai Paesi membri, un importo massimo pari al 10 per cento della frazione di capitale liberato e non ridotto della Banca, versato dai Paesi membri in virtù, dei paragrafi 2 a e 2 b dell’articolo 6, per istituire uno o più Fondi speciali.
 - ii) Gestire quei Fondi speciali che servono agli scopi della Banca e rientrano nelle sue funzioni.
 
 <sup>2.</sup> I Fondi speciali istituiti dalla Banca in virtù del paragrafo 1 i) del presente articolo possono essere utilizzati per accordare o garantire mutui caratterizzati (da tassi d’interesse più bassi e da termini di respiro maggiori di quelli usualmente concessi nell’ambito delle operazioni ordinarie nonché da scadenza più lunga) attinenti a progetti particolarmente urgenti per lo sviluppo. Questi fondi possono essere parimenti utilizzati secondo altre modalità e condizioni che la Banca stabilisce all’atto dell’istituzione, sempreché tali disciplinamenti non siano incompatibili né con le disposizioni del presente Accordo né con il carattere circolante proprio a detti Fondi.
@@ -289,13 +282,13 @@ La Banca ha la facoltà di:
 
 Ai sensi del presente Accordo, l’espressione «mezzi dei Fondi speciali» designa i mezzi propri di ogni Fondo speciale e comprende:
 
-- a. Le risorse prelevate sul capitale da liberare e destinate ad un Fondo speciale oppure originariamente computate in un Fondo speciale;
-- b. i mezzi accettati dalla Banca per essere integrati in un Fondo speciale;
-- c. i rimborsi, conformemente al disciplinamento della Banca concernente il Fondo speciale, su mutui o su garanzie finanziate con mezzi di esso;
-- d. le entrate da operazioni per mezzo delle quali la Banca impiega o impegna una certa quantità di mezzi od un certo numero dei summenzionati fondi se, in conformità dei disciplinamenti bancari applicabili al Fondo speciale in questione, tali entrate spettano al Fondo;
-- e. ogni altra risorsa messa a disposizione di un Fondo speciale.
+- a) le risorse prelevate sul capitale da liberare e destinate ad un Fondo speciale oppure originariamente computate in un Fondo speciale;
+- b) i mezzi accettati dalla Banca per essere integrati in un Fondo speciale;
+- c) i rimborsi, conformemente al disciplinamento della Banca concernente il Fondo speciale, su mutui o su garanzie finanziate con mezzi di esso;
+- d) le entrate da operazioni per mezzo delle quali la Banca impiega o impegna una certa quantità di mezzi od un certo numero dei summenzionati fondi se, in conformità dei disciplinamenti bancari applicabili al Fondo speciale in questione, tali entrate spettano al Fondo;
+- e) ogni altra risorsa messa a disposizione di un Fondo speciale.
 
-## Capitolo IV Assunzione di crediti ed altre competenze
+## Capitolo IV: Assunzione di crediti ed altre competenze
 
 #### Art. 21
 
@@ -307,15 +300,15 @@ Oltre le competenze ad essa riconosciute dal presente Accordo, la Banca ha la fa
 
   Contrarre mutui nei Paesi membri od altrove e, all’uopo, prestare fideiussioni e altre garanzie da essa giudicate come adeguate, restando tuttavia inteso che:
 
-  - a. prima di mettere in vendita proprie obbligazioni sul territorio di un Paese, la Banca abbia il consenso da quest’ultimo;
-  - b. se dette obbligazioni devono essere nella valuta di un Paese membro, occorre il consenso di quest’ultimo;
-  - c. essa ottenga l’assenso dei Paesi di cui alle lettere a e b del presente paragrafo affinché il reddito dei mutui possa essere cambiato, senza restrizioni, nella valuta di qualsiasi Paese membro;
-  - d. prima di emettere dette obbligazioni in un determinato Paese, la Banca esaminerà il montante da essa, eventualmente, già mutuato nel Paese in questione, nonché in altri Paesi e la possibilità di trovare dei fondi in quest’ultimi; essa terrà debitamente conto del principio secondo cui i mutui assunti siano distribuiti nella maggior misura possibile fra i Paesi finanziatori.
+  - a) prima di mettere in vendita proprie obbligazioni sul territorio di un Paese, la Banca abbia il consenso da quest’ultimo,
+  - b) se dette obbligazioni devono essere nella valuta di un Paese membro, occorre il consenso di quest’ultimo,
+  - c) essa ottenga l’assenso dei Paesi di cui alle lettere a e b del presente paragrafo affinché il reddito dei mutui possa essere cambiato, senza restrizioni, nella valuta di qualsiasi Paese membro,
+  - d) prima di emettere dette obbligazioni in un determinato Paese, la Banca esaminerà il montante da essa, eventualmente, già mutuato nel Paese in questione, nonché in altri Paesi e la possibilità di trovare dei fondi in quest’ultimi; essa terrà debitamente conto del principio secondo cui i mutui assunti siano distribuiti nella maggior misura possibile fra i Paesi finanziatori;
 
-- ii) Acquistare e vendere titoli da essa emessi o garantiti od in cui essa abbia investito dei fondi; rimane tuttavia riservato il previo consenso del Paese sul cui territorio i titoli sono acquistati o venduti;
-- iii) Garantire per facilitarne la vendita, titoli in cui essa abbia fatto degli investimenti;
-- iv) Garantire, o partecipare alla garanzia di sottoscrizione, dei titoli emessi da una qualsiasi corporazione od impresa le cui finalità siano in armonia con quelle della Banca;
-- v) Investire, secondo il suo libero apprezzamento, mezzi, ad essa non necessari per il regolare svolgimento delle operazioni, in determinate obbligazioni statali o private nel territorio dei Paesi membri, come anche i propri mezzi in vitalizi o in altre prestazioni analoghe mediante titoli negoziabili, emessi da Paesi membri o dai loro cittadini;
+- ii) Acquistare e vendere titoli da essa emessi o garantiti od in cui essa abbia investito dei fondi; rimane tuttavia riservato il previo consenso del Paese sul cui territorio i titoli sono acquistati o venduti.
+- iii) Garantire per facilitarne la vendita, titoli in cui essa abbia fatto degli investimenti.
+- iv) Garantire, o partecipare alla garanzia di sottoscrizione, dei titoli emessi da una qualsiasi corporazione od impresa le cui finalità siano in armonia con quelle della Banca.
+- v) Investire, secondo il suo libero apprezzamento, mezzi, ad essa non necessari per il regolare svolgimento delle operazioni, in determinate obbligazioni statali o private nel territorio dei Paesi membri, come anche i propri mezzi in vitalizi o in altre prestazioni analoghe mediante titoli negoziabili, emessi da Paesi membri o dai loro cittadini.
 - vi) Prestare consulenza e assistenza tecnica nell’ambito dei suoi scopi e competenze e, allorquando le spese attinenti a questo genere di servizio non sono rimborsabili, computarle nel reddito netto della Banca; durante i primi cinque anni d’attività, la Banca ha la facoltà di devolvere per detto servizio fino al due per cento, non rimborsabile, del suo capitale azionario liberato.
 - vii) Esercitare ogni altra competenza come pure stabilire i disciplinamenti necessari ai propri scopi e all’adempimento delle sue funzioni, conformemente alle disposizioni del presente Accordo.
 
@@ -325,7 +318,7 @@ Oltre le competenze ad essa riconosciute dal presente Accordo, la Banca ha la fa
 
 Ogni titolo emesso o garantito dalla Banca deve portare sul retto una annotazione attestante che esso non incorpora nessun impegno da parte di alcun Governo a meno che esso rappresenti effettivamente un impegno di un determinato Governo.
 
-## Capitolo V Valute
+## Capitolo V: Valute
 
 #### Art. 23
 
@@ -341,18 +334,18 @@ Compete alla Banca, previa consultazione del Fondo Monetario Internazionale, di 
 
 I Paesi membri non hanno la facoltà di mantenere o di imporre restrizioni per quanto riguarda la possessione o l’uso, da parte della Banca o di qualunque altro possessore da essa designato, dei seguenti valori per effettuare pagamenti in qualsiasi Paese:
 
-- i) L’oro o le divise convertibili incassate dalla Banca a titolo di liberazione di capitale azionario, ad eccezione della parte pagata dai Paesi membri in conformità dell’articolo 6, paragrafo 2, lettera b, oggetto delle restrizioni di cui alle lettere i) e ii) del paragrafo 2 del presente articolo;
-- ii) Le valute dei Paesi membri acquistate con oro o valute convertibili giusta il paragrafo precedente;
-- iii) Le valute che la Banca si procura contraendo mutui, conformemente alla lettera i) dell’articolo 21, allo scopo di integrarle nel capitale ordinario;
-- iv) L’oro o le valute che la Banca ha ricevuto in pagamento per la somma mutuata, gli interessi, i dividendi o altri oneri inerenti a mutui o investimenti con i fondi di cui alle lettere da i) a iii) del presente paragrafo, oppure in pagamento dei canoni concernenti le garanzie;
+- i) L’oro o le divise convertibili incassate dalla Banca a titolo di liberazione di capitale azionario, ad eccezione della parte pagata dai Paesi membri in conformità dell’articolo 6, paragrafo 2, lettera b, oggetto delle restrizioni di cui alle lettere i) e ii) del paragrafo 2 del presente articolo.
+- ii) Le valute dei Paesi membri acquistate con oro o valute convertibili giusta il paragrafo precedente.
+- iii) Le valute che la Banca si procura contraendo mutui, conformemente alla lettera i) dell’articolo 21, allo scopo di integrarle nel capitale ordinario.
+- iv) L’oro o le valute che la Banca ha ricevuto in pagamento per la somma mutuata, gli interessi, i dividendi o altri oneri inerenti a mutui o investimenti con i fondi di cui alle lettere da i) a iii) del presente paragrafo, oppure in pagamento dei canoni concernenti le garanzie.
 - v) Le valute, diverse dalla propria, che un Paese membro riceve dalla Banca a titolo di ripartizione dei redditi netti di essa, in conformità all’articolo 40.
 
 <sup>2.</sup>
 
 I membri non possono né mantenere né imporre restrizioni attinenti alla detenzione o l’uso, in vista d’effettuare pagamenti in qualsiasi Paese, da parte della Banca o di qualsiasi altro destinatario da esso designato, della valuta di un Paese membro ricevuta dalla Banca e che non soggiace alle disposizioni del paragrafo precedente salvo che:
 
-- i) Un Paese membro in via di sviluppo, dopo aver consultato la Banca e con riserva di un esame periodico da parte dell’istituto, non restringa, totalmente o parzialmente, l’uso di detta valuta unicamente per il pagamento di beni prodotti o di servizi forniti sul suo territorio e destinati ad essere usati sul posto;
-- ii) Un altro Paese membro, la cui sottoscrizione figura alla lettera A dell’Allegato A al presente Accordo e le cui esportazioni di prodotti industriali non incidono in modo determinante sul totale delle esportazioni, non deponga, all’atto di consegna degli strumenti di ratifica o d’accettazione, una dichiarazione in cui vien espresso il desiderio che l’impiego della propria frazione di sottoscrizione liberata, giusta la lettera b del paragrafo 2 dell’articolo 6, sia limitato, totalmente o parzialmente, al pagamento di beni prodotti o di servizi forniti sul proprio territorio; resta tuttavia inteso che dette restrizioni saranno oggetto di periodici esami e consultazioni da parte della Banca e che ogni acquisto di beni o di servizi nel territorio del summenzionato Paese membro, riservata la abituale considerazione della competitività dell’offerta, venga avantutto computato nella frazione di sottoscrizione liberata in virtù della lettera b del paragrafo 2 dell’articolo 6;
+- i) Un Paese membro in via di sviluppo, dopo aver consultato la Banca e con riserva di un esame periodico da parte dell’istituto, non restringa, totalmente o parzialmente, l’uso di detta valuta unicamente per il pagamento di beni prodotti o di servizi forniti sul suo territorio e destinati ad essere usati sul posto.
+- ii) Un altro Paese membro, la cui sottoscrizione figura alla lettera A dell’Allegato A al presente Accordo e le cui esportazioni di prodotti industriali non incidono in modo determinante sul totale delle esportazioni, non deponga, all’atto di consegna degli strumenti di ratifica o d’accettazione, una dichiarazione in cui vien espresso il desiderio che l’impiego della propria frazione di sottoscrizione liberata, giusta la lettera b del paragrafo 2 dell’articolo 6, sia limitato, totalmente o parzialmente, al pagamento di beni prodotti o di servizi forniti sul proprio territorio; resta tuttavia inteso che dette restrizioni saranno oggetto di periodici esami e consultazioni da parte della Banca e che ogni acquisto di beni o di servizi nel territorio del summenzionato Paese membro, riservata la abituale considerazione della competitività dell’offerta, venga avantutto computato nella frazione di sottoscrizione liberata in virtù della lettera b del paragrafo 2 dell’articolo 6.
 - iii) Detta valuta non appartenga ai fondi speciali della Banca, disponibili in conformità delle lettere ii), paragrafo 1 dell’articolo 19, e che il modo d’impiego non sia sottoposto a disciplinamenti speciali.
 
 <sup>3.</sup> I Paesi membri non hanno la facoltà di mantenere o di imporre restrizioni per quanto riguarda il possesso o l’uso, da parte della Banca, delle valute da essa incassate a titolo di rimborso di mutui diretti concessi sul capitale ordinario, per ammortamenti, anticipazioni o riscatto totale o parziale d’impegni; rimane tuttavia inteso che, fino al momento in cui il capitale azionario sottoscritto e soggetto a richiamo non sia stato completamente versato, la detenzione o l’uso dev’essere conforme alle restrizione di cui al paragrafo 2 i) del presente articolo, se non concerne gli impegni pagabili nella valuta del Paese membro interessato.
@@ -361,7 +354,7 @@ I membri non possono né mantenere né imporre restrizioni attinenti alla detenz
 
 La Banca non utilizza l’oro e le valute in suo possesso per acquistare altre divise di Paesi, membri e non membri, salvo che:
 
-- i) Ciò sia necessario per far fronte ai propri impegni nell’attività regolare oppure se
+- i) Ciò sia necessario per far fronte ai propri impegni nell’attività regolare; oppure se
 - ii) Il Consiglio d’amministrazione, con decisione presa alla maggioranza dei due terzi del numero totale dei suffragi attribuiti ai paesi membri, disponga altrimenti.
 
 <sup>5.</sup> Nessuna disposizione del presente articolo vieta alla Banca di impiegare la valuta di un Paese membro per pagare spese amministrative da essa assunte nel territorio di esso.
@@ -376,7 +369,7 @@ La Banca non utilizza l’oro e le valute in suo possesso per acquistare altre d
 
 <sup>3.</sup> La Banca ha la facoltà di rinunciare all’applicazione delle disposizioni del presente articolo, allorquando la modifica della parità è proporzionale e uniforme per tutte le valute dei Paesi membri.
 
-## Capitolo VI Organizzazione e gestione
+## Capitolo VI: Organizzazione e gestione
 
 #### Art. 26
 
@@ -402,16 +395,16 @@ La Banca avrà un Consiglio dei Governatori, un Consiglio d’amministrazione, u
 
 Il Consiglio dei Governatori ha la facoltà di delegare parte o totalità delle competenze al Consiglio d’amministrazione, ad eccezione della facoltà:
 
-- i) D’ammettere nuovi membri e di decretarne le condizioni d’ammissione;
-- ii) D’aumentare o di ridurre il capitale azionario autorizzato;
-- iii) Di pronunciare la sospensione di un Paese membro;
-- iv) Di pronunciarsi in ultima istanza, sulle interpretazioni ed applicazioni del presente Accordo da parte del Consiglio d’amministrazione;
-- v) D’autorizzare la conclusione d’accordi generali di cooperazione con altri organismi internazionali;
-- vi) D’eleggere gli Amministratori e il Presidente della Banca;
-- vii) Di stabilire la retribuzione degli Amministratori e dei loro supplenti come pure la rimunerazione e le altre condizioni previste nel contratto di lavoro del Presidente;
-- [tab] viii) D’approvare dopo aver consultato il rapporto dei revisori dei conti il bilancio generale ed il conto perdite e profitti della Banca;
-- ix) Di determinare l’ammontare destinato alle riserve e la ripartizione degli utili netti della Banca;
-- x) D’emendare il presente Accordo;
+- i) D’ammettere nuovi membri e di decretarne le condizioni d’ammissione.
+- ii) D’aumentare o di ridurre il capitale azionario autorizzato.
+- iii) Di pronunciare la sospensione di un Paese membro.
+- iv) Di pronunciarsi in ultima istanza, sulle interpretazioni ed applicazioni del presente Accordo da parte del Consiglio d’amministrazione.
+- v) D’autorizzare la conclusione d’accordi generali di cooperazione con altri organismi internazionali.
+- vi) D’eleggere gli Amministratori e il Presidente della Banca.
+- vii) Di stabilire la retribuzione degli Amministratori e dei loro supplenti come pure la rimunerazione e le altre condizioni previste nel contratto di lavoro del Presidente.
+- viii) D’approvare dopo aver consultato il rapporto dei revisori dei conti il bilancio generale ed il conto perdite e profitti della Banca.
+- ix) Di determinare l’ammontare destinato alle riserve e la ripartizione degli utili netti della Banca.
+- x) D’emendare il presente Accordo.
 - xi) Di decidere la chiusura dell’attività della Banca e di ripartirne il patrimonio; e
 - xii) D’esercitare ogni altra competenza che il presente Accordo espressamente conferisce al Consiglio dei Governatori.
 
@@ -435,7 +428,10 @@ Il Consiglio dei Governatori ha la facoltà di delegare parte o totalità delle 
 
 **Consiglio d’amministrazione: composizione**
 
-- 1\. i) Il Consiglio d’amministrazione è composto di dieci (10) membri non appartenenti al Consiglio dei Governatori, di cui
+- 1\. i)
+
+  Il Consiglio d’amministrazione è composto di dieci (10) membri non appartenenti al Consiglio dei Governatori, di cui:
+
   - a. sette (7), eletti dai Governatori rappresentanti i Paesi membri della regione; e
   - b. tre (3) dai Governatori nominati dai Paesi membri non appartenenti alla regione.
 
@@ -452,9 +448,9 @@ Il Consiglio dei Governatori ha la facoltà di delegare parte o totalità delle 
 
 Il Consiglio d’amministrazione è responsabile delle operazioni generali della Banca e, a questo scopo, esercita, oltre le competenze che gli sono espressamente conferite dal presente Accordo, tutte quelle delegategli dal Consiglio dei Governatori e, segnatamente:
 
-- i) Preparare il lavoro del Consiglio dei Governatori;
-- ii) Prendere, giusta le direttive generali del Consiglio dei Governatori, decisioni attinenti a mutui, garanzie, investimenti in azioni ed a crediti assunti dalla Banca, come pure all’assistenza tecnica e alle altre operazioni effettuate dalla Banca;
-- iii) Sottoporre i conti d’esercizio all’approvazione del Consiglio dei Governatori in occasione dell’assemblea annuale di quest’ultimo;
+- i) Preparare il lavoro del Consiglio dei Governatori.
+- ii) Prendere, giusta le direttive generali del Consiglio dei Governatori, decisioni attinenti a mutui, garanzie, investimenti in azioni ed a crediti assunti dalla Banca, come pure all’assistenza tecnica e alle altre operazioni effettuate dalla Banca.
+- iii) Sottoporre i conti d’esercizio all’approvazione del Consiglio dei Governatori in occasione dell’assemblea annuale di quest’ultimo.
 - iv) Approvare i bilanci di previsione della Banca.
 
 #### Art. 32
@@ -550,7 +546,7 @@ Il Consiglio d’amministrazione è responsabile delle operazioni generali della
 
 <sup>3.</sup> I pagamenti vengono fatti nel modo e nella valuta stabiliti dal Consiglio dei Governatori.
 
-## Capitolo VII Recesso e sospensione d’un Paese membro; sospensione e cessazione delle operazioni della Banca
+## Capitolo VII: Recesso e sospensione d’un Paese membro; sospensione e cessazione delle operazioni della Banca
 
 #### Art. 41
 
@@ -623,7 +619,7 @@ Avverandosi circostanze gravi, il Consiglio d’amministrazione può sospendere 
 
 <sup>3.</sup> Ogni Paese membro, ricevuto che abbia degli averi ripartiti in virtù del presente articolo, è surrogato in tutti i diritti sui medesimi, spettanti alla Banca prima della ripartizione.
 
-## Capitolo VIII Statuto, immunità, esenzioni e privilegi
+## Capitolo VIII: Statuto, immunità, esenzioni e privilegi
 
 #### Art. 48
 
@@ -715,7 +711,7 @@ Ciascun Paese membro prenderà senza indugio, conformemente alla propria legisla
 
 La Banca può, a suo libito ed in ogni circostanza, levare qualunque privilegio, immunità ed esenzione, conferiti in virtù del presente capitolo, ed applicare all’uopo le modalità e le condizioni che reputi meglio rispondenti ai propri interessi.
 
-## Capitolo IX Emendamenti, interpretazione, arbitrato
+## Capitolo IX: Emendamenti, interpretazione, arbitrato
 
 #### Art. 59
 
@@ -753,7 +749,7 @@ Ogni litigio fra la Banca e un Paese cessato da membro oppure, dopo la decisione
 
 Ogniqualvolta si richiede l’approvazione di un Paese membro affinché la Banca possa agire, tale approvazione è considerata come data se il Paese in questione nulla obietta contro il ragionevole termine fissatogli dalla Banca all’atto della notificazione dell’azione progettata.
 
-## Capitolo X Disposizioni finali
+## Capitolo X: Disposizioni finali
 
 #### Art. 63
 
@@ -796,10 +792,10 @@ Allegato A
 
 ### Parte A Paesi appartenenti alla Regione
 
-### I
+I
 
 <table>
-<tr><td>Paesi</td><td>Ammontare sottoscritto (in milioni di dollari U.S.)</td></tr>
+<tr><th>Paesi</th><th>Ammontare sottoscritto (in milioni di dollari U.S.)</th></tr>
 <tr><td>1. Afghanistan</td><td>3.36</td></tr>
 <tr><td>2. Australia</td><td>85.00</td></tr>
 <tr><td>3. Cambogia</td><td>3.00</td></tr>
@@ -822,12 +818,12 @@ Allegato A
 <tr><td>Totale</td><td>642.08</td></tr>
 </table>
 
-### II
+II
 
 I seguenti Paesi, appartenenti alla Regione, possono firmare il presente Accordo in virtù dell’articolo 63, alla condizione di partecipare, all’atto della sottoscrizione, al capitale azionario, della Banca con le seguenti somme:
 
 <table>
-<tr><td>Paesi</td><td>Ammontare sottoscritto (in milioni di dollari U.S.)</td></tr>
+<tr><th>Paesi</th><th>Ammontare sottoscritto (in milioni di dollari U.S.)</th></tr>
 <tr><td>1. Myanmar</td><td>7.74</td></tr>
 <tr><td>2. Mongolia</td><td>0.18</td></tr>
 <tr><td>Totale</td><td>7.92</td></tr>
@@ -835,10 +831,10 @@ I seguenti Paesi, appartenenti alla Regione, possono firmare il presente Accordo
 
 ### Parte B Paesi non appartenenti alla Regione
 
-### I
+I
 
 <table>
-<tr><td>Paesi</td><td>Ammontare sottoscritto (in milioni di dollari U.S.)</td></tr>
+<tr><th>Paesi</th><th>Ammontare sottoscritto (in milioni di dollari U.S.)</th></tr>
 <tr><td>1. Belgio</td><td>5.00</td></tr>
 <tr><td>2. Canada</td><td>25.00</td></tr>
 <tr><td>3. Danimarca</td><td>5.00</td></tr>
@@ -850,9 +846,9 @@ I seguenti Paesi, appartenenti alla Regione, possono firmare il presente Accordo
 <tr><td>Totale</td><td>296.00</td></tr>
 </table>
 
-### II
+II
 
-I seguenti Paesi, non appartenenti alla Regione, che hanno partecipato a Bangkok, dal 21 ottobre al 1<sup>o</sup> novembre 1965, alla riunione del Comitato preparatorio della Banca Asiatica di sviluppo possono firmare il presente Accordo, in virtù dell’articolo 63, alla condizione che ognuno di essi partecipi, all’atto della sottoscrizione, al capitale azionario della Banca con una somma non inferiore ai cinque milioni di dollari ($ 5000000).
+I seguenti Paesi, non appartenenti alla Regione, che hanno partecipato a Bangkok, dal 21 ottobre al 1° novembre 1965, alla riunione del Comitato preparatorio della Banca Asiatica di sviluppo possono firmare il presente Accordo, in virtù dell’articolo 63, alla condizione che ognuno di essi partecipi, all’atto della sottoscrizione, al capitale azionario della Banca con una somma non inferiore ai cinque milioni di dollari ($ 5000000).
 
 \1. Austria
 
@@ -862,7 +858,7 @@ I seguenti Paesi, non appartenenti alla Regione, che hanno partecipato a Bangkok
 
 \4. Svezia
 
-### III
+III
 
 Fino al 31 gennaio 1966, ogni Paese non appartenente alla Regione menzionata alla Parte B i) del presente Allegato ha la facoltà d’aumentare l’importo della sua sottoscrizione informando il Segretario esecutivo della Commissione economica delle Nazioni Unite per l’Asia e l’Estremo Oriente a Bangkok; rimane tuttavia riservato il principio secondo cui l’ammontare totale delle sottoscrizioni iniziali dei Paesi non appartenenti alla Regione, menzionati alla Parte B i) e B ii) del presente Allegato, non superi i trecentocinquanta milioni di dollari ($ 350000000).
 
@@ -878,10 +874,10 @@ Allegato B
 
 \3. Se sette (7) amministratori non sono stati eletti al primo scrutinio, si procederà ad un secondo scrutinio; il candidato che avrà ottenuto il minor numero di voti al primo scrutinio diverrà ineleggibile, e voteranno soltanto:
 
-- a. i governatori che hanno votato al primo scrutinio per un candidato che non è stato eletto: e
-- b. i governatori i cui coti dati ad un candidato eletto sono considerati, conformemente al paragrafo 4 del presente articolo, come se avessero aumentato il numero dei voti ottenuti da detto candidato a più dell’undici (11) percento del numero complessivo dei voti attribuiti ai Paesi membri appartenenti alla regione.
-- 4\. a. Per stabilire se i voti dati da un governatore debbano essere considerati come se avessero aumentato il totale dei voti ottenuti da un candidato a più di undici (11) percento, quest’ultima aliquota verrà reputata come se essa comprendesse dapprima i voti del governatore che ha dato il maggior numero di voti a detto candidato o poscia, in ordine decrescente, i voti di ciascuno dei governatori che hanno dato il numero di voti immediatamente inferiore, fino a concorrenza dell’undici (11) percento.
-- b. Qualsiasi governatore, i cui voti devono essere parzialmente contati per aumentare il totale ottenuto da un candidato a più del dieci (10) percento verrà considerato come se avesse dato tutti i voti a detto candidato, anche se il totale dei voti ottenuti dall’interessato risulta pertanto a superare l’undici (11) percento.
+- a) i governatori che hanno votato al primo scrutinio per un candidato che non è stato eletto: e
+- b) i governatori i cui coti dati ad un candidato eletto sono considerati, conformemente al paragrafo 4 del presente articolo, come se avessero aumentato il numero dei voti ottenuti da detto candidato a più dell’undici (11) percento del numero complessivo dei voti attribuiti ai Paesi membri appartenenti alla regione.
+- 4\. a) Per stabilire se i voti dati da un governatore debbano essere considerati come se avessero aumentato il totale dei voti ottenuti da un candidato a più di undici (11) percento, quest’ultima aliquota verrà reputata come se essa comprendesse dapprima i voti del governatore che ha dato il maggior numero di voti a detto candidato o poscia, in ordine decrescente, i voti di ciascuno dei governatori che hanno dato il numero di voti immediatamente inferiore, fino a concorrenza dell’undici (11) percento.
+- b) Qualsiasi governatore, i cui voti devono essere parzialmente contati per aumentare il totale ottenuto da un candidato a più del dieci (10) percento verrà considerato come se avesse dato tutti i voti a detto candidato, anche se il totale dei voti ottenuti dall’interessato risulta pertanto a superare l’undici (11) percento.
 
 \5. Qualora, dopo il secondo scrutinio, non vi siano sette (7) eletti, si procede, conformemente ai principi ed alla procedura descritta nel presente capitolo, a scrutini suppletivi, pur restando inteso che dopo l’elezione di sei (6) amministratori il settimo può – nonostante le disposizioni del paragrafo 2 del presente capitolo – essere eletto alla maggioranza semplice dei voti rimanenti dei Paesi appartenenti alla regione, i quali saranno tutti considerati come se avessero contribuito all’elezione del settimo amministratore.
 
@@ -895,10 +891,10 @@ Allegato B
 
 \3. Se tre (3) amministratori non sono stati eletti al primo scrutinio si procederà ad un secondo scrutinio; il candidato che avrà ottenuto il minor numero di voti al primo scrutinio diverrà ineleggibile e voteranno soltanto:
 
-- a. i governatori che hanno votato al primo scrutinio per un candidato che non è stato eletto; e
-- b. i governatori, i cui voti dati a un candidato eletto sono considerati, conformemente al paragrafo 4 del presente capitolo, come se avessero aumentato il numero dei voti raccolti dal candidato a più del ventisei (26) percento del numero totale dei voti attribuiti ai Paesi membri che non appartengono alla regione.
-- 4\. a. Per stabilire se i voti dati a un governatore debbono essere considerati come se avessero aumentato il totale dei voti ottenuti da un candidato a più di ventisei (26) percento, questa aliquota è considerata come se comprendesse dapprima i voti del governatore che ha dato il maggior numero di voti al candidato e poscia, in ordine decrescente, i voti di ciascuno dei governatori che hanno dato il numero di voti immediatamente inferiore, fino a concorrenza del ventisei (26) percento.
-- b. Qualsiasi governatore, i cui voti devono essere parzialmente contati per aumentare il totale ottenuto da un candidato a più del venticinque (25) percento, è considerato come se avesse dato tutti i suoi voti a detto candidato, anche se il totale dei voti ottenuti dall’interessato risulta pertanto a superare il ventisei (26) percento.
+- a) I governatori che hanno votato al primo scrutinio per un candidato che non è stato eletto; e
+- b) I governatori, i cui voti dati a un candidato eletto sono considerati, conformemente al paragrafo 4 del presente capitolo, come se avessero aumentato il numero dei voti raccolti dal candidato a più del ventisei (26) percento del numero totale dei voti attribuiti ai Paesi membri che non appartengono alla regione.
+- 4\. a) Per stabilire se i voti dati a un governatore debbono essere considerati come se avessero aumentato il totale dei voti ottenuti da un candidato a più di ventisei (26) percento, questa aliquota è considerata come se comprendesse dapprima i voti del governatore che ha dato il maggior numero di voti al candidato e poscia, in ordine decrescente, i voti di ciascuno dei governatori che hanno dato il numero di voti immediatamente inferiore, fino a concorrenza del ventisei (26) percento.
+- b) Qualsiasi governatore, i cui voti devono essere parzialmente contati per aumentare il totale ottenuto da un candidato a più del venticinque (25) percento, è considerato come se avesse dato tutti i suoi voti a detto candidato, anche se il totale dei voti ottenuti dall’interessato risulta pertanto a superare il ventisei (26) percento.
 
 \5. Se, dopo il secondo scrutinio, non vi sono tre (3) eletti, si procederà, conformemente ai principi e alla procedura stabiliti nel presente capitolo, a scrutini suppletivi, restando però inteso che dopo l’elezione di due (2) amministratori, il terzo può – a condizione che il totale delle sottoscrizioni dei Paesi membri non appartenenti alla regione abbia raggiunto l’importo minimo di trecentoquarantacinque milioni di dollari ($ 345 milioni), e nonostante le disposizioni del paragrafo 2 del presente capitolo – essere eletto a maggioranza semplice dei voti rimanenti, i quali verranno considerati come se avessero contribuito all’elezione del terzo amministratore.
 
@@ -906,165 +902,67 @@ Allegato B
 
 (Seguono le firme)
 
-Campo d’applicazione l’11 maggio 2006**[^t-3]**
+Campo d’applicazione il 13 maggio 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Afghanistan</td><td>22 agosto</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
-<tr><td>Australia<sup>\*</sup></td><td>19 settembre</td><td>1966</td><td>19 settembre</td><td>1966</td></tr>
+<tr><td>Australia\*</td><td>19 settembre</td><td>1966</td><td>19 settembre</td><td>1966</td></tr>
 <tr><td>Austria</td><td>29 settembre</td><td>1966</td><td>29 settembre</td><td>1966</td></tr>
-<tr><td>Bangladesh<sup>a</sup></td><td>14 marzo</td><td>1973</td><td>14 marzo</td><td>1973</td></tr>
+<tr><td>Bangladesh <sup>a</sup></td><td>14 marzo</td><td>1973</td><td>14 marzo</td><td>1973</td></tr>
 <tr><td>Belgio</td><td>16 agosto</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
-<tr><td>Bhutan<sup>a</sup></td><td>15 aprile</td><td>1982</td><td>15 aprile</td><td>1982</td></tr>
+<tr><td>Bhutan <sup>a</sup></td><td>15 aprile</td><td>1982</td><td>15 aprile</td><td>1982</td></tr>
 <tr><td>Cambogia</td><td>30 settembre</td><td>1966</td><td>30 settembre</td><td>1966</td></tr>
-<tr><td>Canada<sup>\*</sup></td><td>22 agosto</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
-<tr><td>Cina<sup>a</sup></td><td>10 marzo</td><td>1986</td><td>10 marzo</td><td>1986</td></tr>
-<tr><td>Hong Kong<sup>b</sup></td><td>27 marzo</td><td>1969</td><td>27 marzo</td><td>1969</td></tr>
-<tr><td>Corea (Sud)<sup>\*</sup></td><td>16 agosto</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
-<tr><td>Danimarca<sup>\*</sup></td><td>16 agosto</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
-<tr><td>Figi<sup>b</sup></td><td>2 aprile</td><td>1970</td><td>2 aprile</td><td>1970</td></tr>
-<tr><td>Filippine<sup>\*</sup></td><td>5 luglio</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
+<tr><td>Canada\*</td><td>22 agosto</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
+<tr><td>Cina <sup>a</sup></td><td>10 marzo</td><td>1986</td><td>10 marzo</td><td>1986</td></tr>
+<tr><td>Hong Kong <sup>b</sup></td><td>27 marzo</td><td>1969</td><td>27 marzo</td><td>1969</td></tr>
+<tr><td>Corea (Sud)\*</td><td>16 agosto</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
+<tr><td>Danimarca\*</td><td>16 agosto</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
+<tr><td>Figi <sup>b</sup></td><td>2 aprile</td><td>1970</td><td>2 aprile</td><td>1970</td></tr>
+<tr><td>Filippine\*</td><td>5 luglio</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
 <tr><td>Finlandia</td><td>22 agosto</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
-<tr><td>Francia<sup>\*</sup> <sup>a</sup></td><td>27 luglio</td><td>1970</td><td>27 luglio</td><td>1970</td></tr>
-<tr><td>Germania<sup>\*</sup></td><td>30 agosto</td><td>1966</td><td>30 agosto</td><td>1966</td></tr>
-<tr><td>Giappone<sup>\*</sup></td><td>16 agosto</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
-<tr><td>India<sup>\*</sup></td><td>20 luglio</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
-<tr><td>Indonesia<sup>a</sup></td><td>24 novembre</td><td>1966</td><td>24 novembre</td><td>1966</td></tr>
-<tr><td>Isole Cook<sup>b</sup></td><td>20 aprile</td><td>1976</td><td>20 aprile</td><td>1976</td></tr>
-<tr><td>Italia<sup>\*</sup></td><td>30 settembre</td><td>1966</td><td>30 settembre</td><td>1966</td></tr>
-<tr><td>Kiribati<sup>b</sup></td><td>28 maggio</td><td>1974</td><td>28 maggio</td><td>1974</td></tr>
+<tr><td>Francia\* <sup>a</sup></td><td>27 luglio</td><td>1970</td><td>27 luglio</td><td>1970</td></tr>
+<tr><td>Germania\*</td><td>30 agosto</td><td>1966</td><td>30 agosto</td><td>1966</td></tr>
+<tr><td>Giappone\*</td><td>16 agosto</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
+<tr><td>India\*</td><td>20 luglio</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
+<tr><td>Indonesia <sup>a</sup></td><td>24 novembre</td><td>1966</td><td>24 novembre</td><td>1966</td></tr>
+<tr><td>Isole Cook <sup>b</sup></td><td>20 aprile</td><td>1976</td><td>20 aprile</td><td>1976</td></tr>
+<tr><td>Italia\*</td><td>30 settembre</td><td>1966</td><td>30 settembre</td><td>1966</td></tr>
+<tr><td>Kiribati <sup>b</sup></td><td>28 maggio</td><td>1974</td><td>28 maggio</td><td>1974</td></tr>
 <tr><td>Laos</td><td>30 agosto</td><td>1966</td><td>30 agosto</td><td>1966</td></tr>
-<tr><td>Malaysia<sup>\*</sup></td><td>16 agosto</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
-<tr><td>Maldive<sup>a</sup></td><td>14 febbraio</td><td>1978</td><td>14 febbraio</td><td>1978</td></tr>
+<tr><td>Malaysia\*</td><td>16 agosto</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
+<tr><td>Maldive <sup>a</sup></td><td>14 febbraio</td><td>1978</td><td>14 febbraio</td><td>1978</td></tr>
 <tr><td>Myanmar <sup>a</sup></td><td>26 aprile</td><td>1973</td><td>26 aprile</td><td>1973</td></tr>
 <tr><td>Nepal</td><td>21 giugno</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
-<tr><td>Norvegia<sup>\*</sup></td><td>14 luglio</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
+<tr><td>Niue <sup>a</sup></td><td>11 marzo</td><td>2019</td><td>11 marzo</td><td>2019</td></tr>
+<tr><td>Norvegia\*</td><td>14 luglio</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
 <tr><td>Nuova Zelanda</td><td>29 settembre</td><td>1966</td><td>29 settembre</td><td>1966</td></tr>
-<tr><td>Paesi Bassi<sup>\*</sup></td><td>29 agosto</td><td>1966</td><td>29 agosto</td><td>1966</td></tr>
+<tr><td>Paesi Bassi\*</td><td>29 agosto</td><td>1966</td><td>29 agosto</td><td>1966</td></tr>
 <tr><td>Pakistan</td><td>12 maggio</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
 <tr><td>Papua Nuova Guinea <sup>b</sup></td><td>8 aprile</td><td>1971</td><td>8 aprile</td><td>1971</td></tr>
-<tr><td>Regno Unito<sup>\*</sup></td><td>26 settembre</td><td>1966</td><td>26 settembre</td><td>1966</td></tr>
+<tr><td>Regno Unito\*</td><td>26 settembre</td><td>1966</td><td>26 settembre</td><td>1966</td></tr>
 <tr><td>Salomone, Isole <sup>b</sup></td><td>18 aprile</td><td>1973</td><td>18 aprile</td><td>1973</td></tr>
 <tr><td>Samoa</td><td>23 giugno</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
-<tr><td>Singapore<sup>\*</sup></td><td>21 settembre</td><td>1966</td><td>21 settembre</td><td>1966</td></tr>
-<tr><td>Spagna<sup>a</sup></td><td>14 febbraio</td><td>1986</td><td>14 febbraio</td><td>1986</td></tr>
-<tr><td>Sri Lanka<sup>\*</sup></td><td>29 settembre</td><td>1966</td><td>29 settembre</td><td>1966</td></tr>
-<tr><td>Stati Uniti<sup>\*</sup></td><td>16 agosto</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
-<tr><td>Svezia<sup>\*</sup></td><td>29 settembre</td><td>1966</td><td>29 settembre</td><td>1966</td></tr>
-<tr><td>Svizzera<sup>\*</sup> <sup>a</sup></td><td>29 dicembre</td><td>1967</td><td>31 dicembre</td><td>1967</td></tr>
+<tr><td>Singapore\*</td><td>21 settembre</td><td>1966</td><td>21 settembre</td><td>1966</td></tr>
+<tr><td>Spagna <sup>a</sup></td><td>14 febbraio</td><td>1986</td><td>14 febbraio</td><td>1986</td></tr>
+<tr><td>Sri Lanka\*</td><td>29 settembre</td><td>1966</td><td>29 settembre</td><td>1966</td></tr>
+<tr><td>Stati Uniti\*</td><td>16 agosto</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
+<tr><td>Svezia\*</td><td>29 settembre</td><td>1966</td><td>29 settembre</td><td>1966</td></tr>
+<tr><td>Svizzera\* <sup>a</sup></td><td>29 dicembre</td><td>1967</td><td>31 dicembre</td><td>1967</td></tr>
 <tr><td>Thailandia</td><td>16 agosto</td><td>1966</td><td>22 agosto</td><td>1966</td></tr>
-<tr><td>Tonga<sup>a</sup></td><td>29 marzo</td><td>1972</td><td>29 marzo</td><td>1972</td></tr>
-<tr><td>Uzbekistan<sup>a</sup></td><td>31 agosto</td><td>1995</td><td>31 agosto</td><td>1995</td></tr>
+<tr><td>Tonga <sup>a</sup></td><td>29 marzo</td><td>1972</td><td>29 marzo</td><td>1972</td></tr>
+<tr><td>Uzbekistan <sup>a</sup></td><td>31 agosto</td><td>1995</td><td>31 agosto</td><td>1995</td></tr>
 <tr><td>Vanuatu</td><td>15 aprile</td><td>1982</td><td>15 aprile</td><td>1982</td></tr>
 <tr><td>Vietnam</td><td>22 settembre</td><td>1966</td><td>22 settembre</td><td>1966</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni, vedi qui appresso.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](https://treaties.un.org/Pages/Home.aspx?clang=_en) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Ammissione conformemente all’art. 3 cpv. 2.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Ammissione conformemente all’art. 3 cpv. 3.</td></tr>
 </table>
 
-[^t-3]: Una versione del campo d’applicazione aggiornata è pubblicata sul sito internet del DFAE (http://www.eda.admin.ch/eda/it/home/topics/intla/intrea/dbstv.html).
+[^t-2]: [RU 1971 861](https://fedlex.data.admin.ch/eli/oc/1971/860_861_861); [1974 1192](https://fedlex.data.admin.ch/eli/oc/1974/1192_1192_1192); [1981 1357](https://fedlex.data.admin.ch/eli/oc/1981/1357_1357_1357); [1983 442](https://fedlex.data.admin.ch/eli/oc/1983/442_442_442); [1986 1961](https://fedlex.data.admin.ch/eli/oc/1986/1961_1961_1961); [2006 3455](https://fedlex.data.admin.ch/eli/oc/2006/547); [2022 299](https://fedlex.data.admin.ch/eli/oc/2022/299). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10).
 
 Riserve e dichiarazioni
 
-## Australia
-
-Il Governo australiano dichiara inoltre che, conformemente al paragrafo 2 dell’articolo 56 dell’Accordo, si riserva il diritto d’imporre gli stipendi e le retribuzioni pagate dalla Banca per servizi resi in Australia a qualunque direttore, direttore aggiunto, amministratore o impiegato della Banca, compreso qualunque perito effettuante una missione per conto della Banca, residente in Australia giusta la legislazione australiana concernente l’imposta sul reddito, a meno che l’interessato non sia cittadino australiano e sia unicamente venuto in Australia per svolgere compiti inerenti alla sua funzione presso la Banca.
-
-Il Governo australiano non è in grado d’accordare alla Banca, per quanto concerne i sacchi postali che essa intendesse far trasportare per posta in Australia, la riduzione tariffale che il governo australiano concede, in condizioni di reciprocità, a taluni Governi quanto ai trasporti di sacchi postali, spediti per posta in Australia dalle loro missioni diplomatiche.
-
-Il Governo australiano non è in grado, nella misura in cui l’articolo 54 dell’Accordo si applica ai privilegi, alle tariffe e tasse concernenti le telecomunicazioni, di applicare integralmente detto articolo, il quale dispone che, riguardo alle comunicazioni ufficiali, la Banca beneficia in ogni Paese membro d’un regime almeno altrettanto favorevole come quello da esso applicato alle comunicazioni ufficiali degli altri Paesi membri, e ciò fintanto che tutti gli altri Governi avranno risolto di cooperare allo scopo di accordare detto regime alle organizzazioni internazionali. La riserva non infirma il diritto della Banca d’inviare telegrammi-stampa, alle tariffe appositamente prescritte, alla stampa e alla radio australiane.
-
-Il Governo australiano interpreta l’Accordo nel senso che esso non pregiudica affatto l’applicazione d’una qualsiasi legge australiana sulla quarantena.
-
-## Canada
-
-… Il Canada riserva ad esso stesso e alle sue sottodivisioni politiche il diritto d’imporre ai cittadini canadesi residenti o aventi la residenza abituale nel Canada.
-
-## Corea di Sud
-
-La Repubblica di Corea riserva ad essa stessa e alle sue sottodivisioni politiche il diritto d’imporre gli stipendi e le retribuzioni pagate dalla Banca ai suoi cittadini.
-
-## Danimarca
-
-Conformemente al paragrafo ix) dell’articolo 14 dell’Accordo, il reddito di ogni mutuo, investimento o altro finanziamento fatto nell’ambito delle operazioni ordinarie della Banca o mediante i Fondi speciali da essa costituiti in virtù del paragrafo 1 i) dell’articolo 19, dev’essere impiegato nei Paesi membri soltanto per l’acquisto di merci o di servizi dei Paesi membri ...
-
-La politica ufficiale del Governo danese in materia di trasporti marittimi è fondata sul principio della libertà dei trasporti marittimi nel commercio internazionale, secondo il sistema della competitività libera e leale. Secondo detta politica, le transazioni e i trasferimenti inerenti ai trasporti marittimi non devono essere ostacolati da disposizioni accordanti un regime preferenziale a un Paese o a un gruppo di Paesi, tenendo conto che la scelta del mezzo di trasporto e della bandiera deve essere determinata secondo normali considerazioni commerciali. Il Governo danese auspica che il paragrafo ix) dell’articolo 14 non verrà applicato in modo da infirmare detto principio.
-
-## Filippine
-
-Stessa riserva della Corea.
-
-## Francia
-
-Il Governo francese, in applicazione dell’articolo 56 (§ 2) dell’Accordo, si riserva il diritto di riscuotere l’imposta conformemente alla legislazione francese sugli stipendi e sulle rimunerazioni pagati dalla Banca ai cittadini francesi.
-
-## Germania
-
-\1. La Repubblica federale di Germania, prevalendosi della riserva prevista nel paragrafo 2 dell’articolo 56 dell’Accordo di fondazione della Banca asiatica per lo sviluppo (appresso: «Accordo»), riserva ad essa stessa e alle sue suddivisioni politiche il diritto d’imporre gli stipendi e le retribuzioni pagate dalla Banca asiatica per lo sviluppo a cittadini germanici, giusta l’articolo 116 della Legge fondamentale della Repubblica federale di Germania, aventi il domicilio o la residenza abituale sul territorio dove è applicabile la suddetta Legge fondamentale, compreso il territorio del «Land» Berlino.
-
-## Giappone
-
-Stessa riserva della Corea.
-
-## India
-
-Stessa riserva della Corea.
-
-## Italia
-
-Conformemente al paragrafo 2 dell’articolo 56 dell’Accordo, il Governo italiano riserva ad esso stesso ed alle sue sottodivisioni politiche il diritto d’imporre gli stipendi e le retribuzioni pagate dalla Banca a cittadini italiani che verranno assunti negli uffici istituiti dalla Banca in Italia o che eserciteranno attività in Italia per conto della Banca.
-
-Il Governo italiano considera che il paragrafo 1 dell’articolo 56 deve essere interpretato tenendo conto dell’uso corrente in materia d’esenzione fiscale delle organizzazioni internazionali. Secondo questo uso, le organizzazioni internazionali sono esonerate dalle imposte soltanto per quanto concerne gli articoli acquistati nell’esercizio delle loro attività ufficiali e, quanto alle imposte interne dirette, solo per quanto concerne gli acquisti importanti per i quali è materialmente possibile accordare siffatto esonero.
-
-Il Governo italiano considera che le disposizioni del paragrafo 1 dell’articolo 50 concernente l’immunità di giurisdizione devono essere interpretate tenendo conto dei limiti nel quadro dei quali tale immunità è accordata dal diritto internazionale.
-
-... il Governo italiano intende invitare la Banca a convenire che la procedura particolare, che dev’essere istituita in applicazione del paragrafo 2 dell’articolo 50 dei regolamenti e statuti della Banca o prevista nei contratti conchiusi con essa, non venga a pregiudicare la competenza dei tribunali italiani riguardo ai crediti fatti valere da particolari.
-
-## Malaysia
-
-Il Governo della Malaysia dichiara di riservarsi il diritto d’imporre gli stipendi e le rimunerazioni pagati dalla Banca ai cittadini della Malaysia.
-
-## Norvegia
-
-Stessa riserva della Danimarca.
-
-## Paesi Bassi
-
-Stessa riserva della Corea.
-
-## Regno Unito
-
-... conformemente al paragrafo 2 dell’articolo 56, il governo del Regno Unito dichiara di riservarsi il diritto d’imporre gli stipendi e le rimunerazioni pagati dalla Banca ai cittadini del Regno Unito e delle sue colonie.
-
-L’articolo 54 dell’Accordo consente d’accordare alla Banca taluni privilegi nel campo delle comunicazioni ufficiali. L’elenco delle persone e autorità beneficianti di detti privilegi figurante all’allegato 3 della Convenzione internazionale delle telecomunicazioni, firmata a Ginevra il 21 dicembre 1959, non comprende altre organizzazioni internazionali oltre all’ONU. Sussiste pertanto una manifesta incompatibilità fra l’articolo 54 e la Convenzione delle telecomunicazioni cui partecipa il Regno Unito (come, indubbiamente, altri membri della Banca).
-
-Al Regno Unito preme quindi di proporre che tale incompatibilità venga esaminata in un’adunata del Consiglio dei governatori, la quale dovrebbe essere indetta senza indugio.
-
-Il paragrafo 1 dell’articolo 56 dell’Accordo potrebbe essere interpretato come se esso consentisse alla Banca d’essere completamente esonerata, senza alcuna riserva, da qualsiasi dazio o imposta sulle merci. È uso corrente di esonerare le organizzazioni internazionali dalle imposte sulle merci soltanto per quanto concerne gli articoli acquistati nell’esercizio delle loro attività ufficiali e, quanto alle imposte interne dirette, solo riguardo ad acquisti importanti per i quali è materialmente possibile di concedere siffatto esonero. Il Governo del Regno Unito considera che il paragrafo 1 dell’articolo 56 debba essere interpretato tenendo conto dell’uso corrente.
-
-... il Regno Unito intende invitare la Banca a convenire che:
-
-- a. essa assicuri qualsiasi autoveicolo appartenentele o impiegato per suo conto, contro le pretese di terzi, risultanti da incidenti causati da un tale veicolo nel Regno Unito, e che essa non invocherà l’immunità di giurisdizione di cui gode in virtù del paragrafo 1 dell’articolo 50 in caso d’azione di risarcimento promossa nel Regno Unito da un terzo a cagione di anni risultanti da un infortunio causato da detto veicolo;
-- b. non sarà invocata alcuna delle immunità previste nell’articolo 55 in caso di infrazioni ai regolamenti della circolazione, commesse da un funzionario della Banca, né in caso di danni provocati da un autoveicolo appartenente a tale funzionario o condotto da lui.
-
-## Singapore
-
-Stessa riserva della Malaysia.
-
-## Sri Lanka
-
-Stessa riserva del Canada.
-
-## Stati Uniti
-
-Stessa riserva della Corea.
-
-## Svezia
-
-Giusta la norma principale stabilita nel paragrafo ix) dell’articolo 14 dell’Accordo, il reddito di ogni genere di mutuo, investimento o d’altro finanziamento fatto dalla Banca sarà unicamente utilizzato nei Paesi membri per l’acquisto di merci e la fornitura di servizi di questi Paesi.
-
-La politica del Governo svedese nel campo dei trasporti marittimi è fondata sul principio della libertà del commercio marittimo internazionale nel quadro d’una competitività libera e leale. Il Governo svedese s’attende pertanto che il paragrafo ix) dell’articolo 14 non sia applicato in modo incompatibile con detto principio. Inoltre, la politica assistenziale del Governo svedese prevede che l’assistenza multilaterale per lo sviluppo debba pure essere fondata sul principio della libera competitività internazionale dell’offerta. Il Governo svedese esprime il desiderio che si possa trovare un accordo per modificare il paragrafo ix) dell’articolo 14 in modo che non sia incompatibile con detto principio.
-
-## Svizzera
+Svizzera
 
 Conformemente al paragrafo 2 dell’articolo 56 dell’Accordo, la Svizzera si riserva il diritto di sottoporre all’imposta federale, cantonale e comunale sul reddito gli stipendi e le retribuzioni pagati dalla Banca a cittadini svizzeri residenti in Svizzera.
