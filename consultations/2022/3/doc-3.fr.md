@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur la mensuration officielle et d’ordonnances d’exécution techniques
 document: Projet mis en consultation
 language: fr

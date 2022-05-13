@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza concernente la misurazione ufficiale e delle ordinanze tecniche d’esecuzione
 document: Progetto posto in consultazione-2
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verordnung über die amtliche Vermessung sowie technische Ausführungsverordnungen
 document: Vernehmlassungsvorlage-2
 language: de
