@@ -4,11 +4,11 @@ title: "Ordinanza del 26 ottobre 2011 concernente l'importazione di prodotti agr
 short: OIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: it
-version: 2022-05-01
+version: 2022-05-15
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20220501/it/xml/fedlex-data-admin-ch-eli-cc-2011-770-20220501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20220515/it/xml/fedlex-data-admin-ch-eli-cc-2011-770-20220515-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220515/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220501/it"
 
 (Ordinanza sulle importazioni agricole, OIAgr)
 
-del 26 ottobre 2011 (Stato 1° maggio 2022)
+del 26 ottobre 2011 (Stato 15 maggio 2022) (Stato 15 maggio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -2884,7 +2884,7 @@ Allegato 3*[^t-3]*
 
 ## Contingenti doganali interi e parziali
 
-[^t-3]: Aggiornato dal n. II dell’O del 18 ott. 2017 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), dal n. I dell’O del 18 ott. 2017 ([RU 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), dal n. II dell’O del 31 ott. 2018 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), dall’all. 2 n. 2 dell’O del 26 ago. 2020 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), dal n. II cpv. 1 dell’O dell’11 nov. 2020 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), dall’all. 3 n. 14 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), dal n. I dell’O del 17 set. 2021 ([RU 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), dalla correzione del 18 ott. 2021 ([RU 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), dal n. III dell’O dell’UFAG del 30 ago. 2021 ([RU 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)), dai n. I delle O dell’UFAG del 17 nov. 2021 ([RU 2021 797](https://fedlex.data.admin.ch/eli/oc/2021/797)), del 3 feb. 2022 ([RU 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), del 1° feb. 2022 ([RU 2022 116](https://fedlex.data.admin.ch/eli/oc/2022/116)), del 15 mar. 2022, ([RU 2022 185](https://fedlex.data.admin.ch/eli/oc/2022/185)) e dal n. I cpv. 1 dell’O del 30 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)).
+[^t-3]: Aggiornato dal n. II dell’O del 18 ott. 2017 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), dal n. I dell’O del 18 ott. 2017 ([RU 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), dal n. II dell’O del 31 ott. 2018 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), dall’all. 2 n. 2 dell’O del 26 ago. 2020 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), dal n. II cpv. 1 dell’O dell’11 nov. 2020 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), dall’all. 3 n. 14 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), dal n. I dell’O del 17 set. 2021 ([RU 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), dalla correzione del 18 ott. 2021 ([RU 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), dal n. III dell’O dell’UFAG del 30 ago. 2021 ([RU 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)), dai n. I delle O dell’UFAG del 17 nov. 2021 ([RU 2021 797](https://fedlex.data.admin.ch/eli/oc/2021/797)), del 3 feb. 2022 ([RU 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), del 1° feb. 2022 ([RU 2022 116](https://fedlex.data.admin.ch/eli/oc/2022/116)), del 15 mar. 2022, ([RU 2022 185](https://fedlex.data.admin.ch/eli/oc/2022/185)), dal n. I cpv. 1 dell’O del 30 mar. 2022 ([RU 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)) e dal n. I dell’O dell’UFAG del 20 apr. 2022, in vigore dal 15 mag. 2022 ([RU 2022 280](https://fedlex.data.admin.ch/eli/oc/2022/280)).
 
 ### 1. Disciplinamento del mercato: animali della specie equina
 
@@ -3015,6 +3015,7 @@ Allegato 3*[^t-3]*
 <tr><td>14.2.2</td><td>Aumento temporaneo del contingente doganale parziale per il 2022: dal 1° marzo al 30 giugno 2022</td><td>**20 000**</td></tr>
 <tr><td>14.3</td><td>Patate da tavola</td><td>**6500**</td></tr>
 <tr><td>14.3.1</td><td>Aumento temporaneo del contingente doganale parziale per il 2022: dal 1° marzo al 15 luglio 2022</td><td>**20 000**</td></tr>
+<tr><td>14.3.2</td><td>Aumento temporaneo del contingente doganale parziale per il 2022: dal 15 maggio al 31 luglio 2022</td><td>5000</td></tr>
 <tr><td>14.4</td><td>Prodotti a base di patate, di cui:</td><td>**4000**</td></tr>
 <tr><td>14.4.1</td><td>Categoria di merce prodotti semilavorati</td><td>**1500**</td></tr>
 <tr><td>14.4.2</td><td>Categoria di merce prodotti finiti</td><td>**2500**</td></tr>
