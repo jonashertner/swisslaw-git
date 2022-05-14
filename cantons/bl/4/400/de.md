@@ -4,13 +4,13 @@ number: "400"
 title: Raumplanungs- und Baugesetz
 short: RBG
 language: de
-version: 2020-04-01
-valid_until: 2022-05-14
-version_adopted: 2019-12-12
+version: 2022-05-15
+valid_until: 2022-12-31
+version_adopted: 2021-12-15
 adopted: 1998-01-08
 in_force: 1999-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/400"
-pdf: "https://bl.clex.ch/api/de/versions/3694/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3696/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3694/pdf_file"
 
 (RBG)
 
-Vom 08.01.1998 (Stand 01.04.2020)
+Vom 08.01.1998 (Stand 15.05.2022)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -1206,7 +1206,7 @@ beschliesst:[^ingress-2]
 
 <sup>2</sup> Ohne schriftliche Zustimmung der Nachbarschaft müssen höhere Stützmauern und Einfriedigungen um das doppelte Mass ihrer Überhöhung von der Grenze zurückgestellt werden.
 
-<sup>3</sup> Für Stützmauern und Einfriedigungen, die keinen Durchblick gewähren und die Höhe von 2,5 m überschreiten, gelten die Abstandsvorschriften zwischen Nachbargundstücken.
+<sup>3</sup> Für Stützmauern und Einfriedigungen, die keinen Durchblick gewähren und die Höhe von 2,5 m überschreiten, gelten die Abstandsvorschriften zwischen Nachbargrundstücken.
 
 <sup>4</sup> Die Höhe der Stützmauern und Einfriedigungen wird vom tiefer liegenden Terrain gemessen.
 
@@ -1472,6 +1472,15 @@ beschliesst:[^ingress-2]
 **Bestehende zonenfremde Bauten und Anlagen**
 
 <sup>1</sup> Bestehende, rechtmässig erstellte, aber zonenfremd gewordene Bauten und Anlagen, namentlich für Dienstleistungen, Industrie und Gewerbe, dürfen erhalten, angemessen erweitert, umgebaut oder in ihrem Zweck teilweise geändert werden, wenn ihre Einwirkungen auf die Nachbarschaft gleich bleiben oder reduziert werden.
+
+#### § 109a
+
+**Bestehende Bauten und Anlagen im Gewässerraum**
+
+<sup>1</sup> Bestehende, rechtmässig erstellte Bauten und Anlagen im Gewässerraum dürfen:
+
+- a. erhalten werden;
+- b. angemessen erweitert, umgebaut oder in ihrem Zweck geändert werden, wenn dadurch die Funktionen des Gewässerraums nicht zusätzlich beeinträchtigt und im Übrigen die Bedingungen von § 109 eingehalten werden.
 
 #### § 110
 
