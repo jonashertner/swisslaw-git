@@ -4,13 +4,13 @@ number: "101.1"
 title: Constitution du canton de Berne
 short: ConstC
 language: fr
-version: 2021-09-26
-valid_until: 2022-05-14
-version_adopted: 2021-09-26
+version: 2022-05-15
+valid_until: 2023-12-31
+version_adopted: 2022-05-15
 adopted: 1993-06-06
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/101.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2420/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2614/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2420/pdf_file"
 
 (ConstC[^ingress-1])
 
-du 06.06.1993 (état au 26.09.2021)
+du 06.06.1993 (état au 15.05.2022)
 
 Dans l'intention de protéger la liberté et le droit et d'aménager une collectivité dans laquelle tous vivent solidairement et sont conscients de leur responsabilité envers la création,
 
@@ -690,9 +690,9 @@ le peuple bernois se donne la Constitution suivante:
 
 <sup>1</sup> Un projet soumis au vote populaire est accepté lorsqu'il a recueilli la majorité des suffrages valablement exprimés dans le canton.
 
-<sup>2</sup> Le Grand Conseil peut joindre un projet alternatif à tout projet soumis à la votation facultative ou obligatoire. Si le vote populaire a lieu, le corps électoral se prononce sur le projet principal et sur le projet alternatif. Si, en cas de votation facultative, le vote populaire n'est pas demandé, le projet alternatif est caduc.
+<sup>2</sup> Le Grand Conseil peut joindre un projet alternatif à tout projet soumis à la votation facultative ou obligatoire. Si le vote populaire a lieu et si aucun projet populaire selon l'alinéa 3 n’est soumis, le corps électoral se prononce sur le projet principal et sur le projet alternatif. Si, en cas de votation facultative, le vote populaire n'est pas demandé ou si un projet populaire est soumis, le projet alternatif est caduc.
 
-<sup>3</sup> 10'000 citoyens et citoyennes peuvent proposer un projet populaire dans les trois mois qui suivent la publication d'un projet de loi ou d'arrêté de principe si le Grand Conseil renonce à présenter lui-même un projet alternatif. Le projet populaire a également la valeur d'une demande de vote populaire sur le projet du Grand Conseil.
+<sup>3</sup> 10'000 citoyens et citoyennes peuvent proposer un projet populaire dans les trois mois qui suivent la publication d'un projet de loi ou d'arrêté de principe. Le projet populaire a également la valeur d'une demande de vote populaire sur le projet du Grand Conseil.
 
 <sup>4</sup> Lorsqu'un projet alternatif ou un projet populaire est présenté, le vote a lieu selon la procédure applicable à une initiative avec contre-projet.
 

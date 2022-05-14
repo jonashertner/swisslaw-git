@@ -4,13 +4,13 @@ number: "101.1"
 title: Verfassung des Kantons Bern
 short: KV
 language: de
-version: 2021-09-26
-valid_until: 2022-05-14
-version_adopted: 2021-09-26
+version: 2022-05-15
+valid_until: 2023-12-31
+version_adopted: 2022-05-15
 adopted: 1993-06-06
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/101.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2420/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2614/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2420/pdf_file"
 
 (KV[^ingress-1])
 
-vom 06.06.1993 (Stand 26.09.2021)
+vom 06.06.1993 (Stand 15.05.2022)
 
 In der Absicht, Freiheit und Recht zu schützen und ein Gemeinwesen zu gestalten, in dem alle in Verantwortung gegenüber der Schöpfung zusammenleben,
 
@@ -690,9 +690,9 @@ gibt sich das Volk des Kantons Bern folgende Verfassung:
 
 <sup>1</sup> Eine Abstimmungsvorlage ist angenommen, wenn sie die Mehrheit der im Kanton gültig abgegebenen Stimmen erhalten hat.
 
-<sup>2</sup> Der Grosse Rat kann in einer Vorlage, die der Volksabstimmung untersteht, einen Eventualantrag stellen. Findet die Volksabstimmung statt, so ist neben der Hauptvorlage auch der Eventualantrag den Stimmberechtigten zu unterbreiten. Findet keine Volksabstimmung statt, so fällt der Eventualantrag dahin.
+<sup>2</sup> Der Grosse Rat kann in einer Vorlage, die der Volksabstimmung untersteht, einen Eventualantrag stellen. Findet die Volksabstimmung statt und wird kein Volksvorschlag nach Absatz 3 eingereicht, so ist neben der Hauptvorlage auch der Eventualantrag den Stimmberechtigten zu unterbreiten. Findet keine Volksabstimmung statt oder wird ein Volksvorschlag eingereicht, so fällt der Eventualantrag dahin.
 
-<sup>3</sup> Stellt der Grosse Rat keinen Eventualantrag, können 10'000 Stimmberechtigte innert drei Monaten seit Publikation eines Gesetzes oder eines Grundsatzbeschlusses einen Volksvorschlag einreichen. Dieser gilt als Referendum.
+<sup>3</sup> 10'000 Stimmberechtigte können innert drei Monaten seit Publikation eines Gesetzes oder eines Grundsatzbeschlusses einen Volksvorschlag einreichen. Dieser gilt als Referendum.
 
 <sup>4</sup> Bei Eventualanträgen und Volksvorschlägen findet das gleiche Abstimmungsverfahren wie bei einem Gegenvorschlag zu einer Initiative Anwendung.
 
