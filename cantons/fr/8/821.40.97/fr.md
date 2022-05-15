@@ -4,13 +4,13 @@ number: "821.40.97"
 title: Ordonnance sur les mesures en lien avec le coronavirus concernant les manifestations publiques
 short: OMMP COVID-19
 language: fr
-version: 2021-06-01
-valid_until: 2022-05-15
-version_adopted: 2021-05-26
+version: 2022-05-16
+valid_until: 2022-12-31
+version_adopted: 2022-05-16
 adopted: 2021-05-26
 in_force: 2021-06-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.97"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6837/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7479/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ COVID-19, mesures concernant les manifestations publiques – O
 
 (OMMP COVID-19)
 
-du 26.05.2021 (version entrée en vigueur le 01.06.2021)
+du 26.05.2021 (version entrée en vigueur le 16.05.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -75,11 +75,13 @@ Arrête:
 
 <sup>1</sup> Les moyens financiers mis à disposition pour le financement des mesures de soutien en faveur des manifestations publiques sont définis par le droit fédéral.
 
-<sup>2</sup> Le financement de la part cantonale exigée par le droit fédéral est couvert par la provision «COVID-19» constituée lors du bouclement des comptes 2020 de l'Etat, dans les limites des disponibilités financières.
+<sup>2</sup> Le financement de la part cantonale exigée par le droit fédéral provient du montant de 3 millions de francs fixé à l'article 1 al. 2 let. b du Décret du 23 mars 2022 relatif à l'octroi d'un crédit d'engagement en vue du financement des mesures complémentaires pour les cas de rigueur et au financement des mesures concernant les manifestations publiques (parapluie de protection).
 
-<sup>3</sup> En cas de besoin, le Conseil d'Etat détermine la manière dont la part cantonale additionnelle doit être couverte.
+<sup>3</sup> …
 
 <sup>4</sup> En cas de traitement des demandes par un tiers mandaté, les frais sont couverts par le montant prévu à l'alinéa 2.
+
+<sup>5</sup> Les aides versées au titre de la présente ordonnance doivent être identifiées de manière spécifique dans les comptes de l'Etat. L'Administration des finances fournit les instructions nécessaires à cet effet.
 
 #### Art. 3
 
@@ -220,6 +222,6 @@ Arrête:
 
 **Durée de validité**
 
-<sup>1</sup> La présente ordonnance reste en vigueur jusqu'au 30 avril 2022. Selon l'évolution de la situation, sa durée de validité peut être prolongée.
+<sup>1</sup> La présente ordonnance reste en vigueur jusqu'au 31 décembre 2022. Selon l'évolution de la situation, cette durée peut être prolongée.
 
 2021\_062

@@ -4,13 +4,13 @@ number: "821.40.97"
 title: Verordnung über Massnahmen für Publikumsanlässe im Zusammenhang mit dem Coronavirus
 short: MPAV-COVID-19
 language: de
-version: 2021-06-01
-valid_until: 2022-05-15
-version_adopted: 2021-05-26
+version: 2022-05-16
+valid_until: 2022-12-31
+version_adopted: 2022-05-16
 adopted: 2021-05-26
 in_force: 2021-06-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.97"
-pdf: "https://bdlf.fr.ch/api/de/versions/6837/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7479/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ COVID-19, Massnahmen für Publikumsanlässe – V
 
 (MPAV-COVID-19)
 
-vom 26.05.2021 (Fassung in Kraft getreten am 01.06.2021)
+vom 26.05.2021 (Fassung in Kraft getreten am 16.05.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -75,11 +75,13 @@ beschliesst:
 
 <sup>1</sup> Die Mittel, die zur Finanzierung der Beiträge für Publikumsanlässe bereitgestellt werden, richten sich nach Bundesrecht.
 
-<sup>2</sup> Die vom Bund verlangte Kostenbeteiligung des Kantons wird im Rahmen der verfügbaren Mittel durch die «COVID-19»-Rückstellung gedeckt, die beim Jahresabschluss 2020 gebildet wurde.
+<sup>2</sup> Die vom Bund verlangte Kostenbeteiligung des Kantons wird über den Betrag von 3 Millionen Franken finanziert, der gestützt auf Artikel 1 Abs. 2 Bst. b des Dekrets vom 23. März 2022 über einen Verpflichtungskredit zur Finanzierung von ergänzenden Massnahmen für Härtefälle und von Massnahmen für Publikumsanlässe (Schutzschirm) bereitgestellt wird.
 
-<sup>3</sup> Bei Bedarf legt der Staatsrat fest, wie der zusätzliche kantonale Anteil gedeckt werden muss.
+<sup>3</sup> …
 
 <sup>4</sup> Werden die Gesuche durch einen beauftragten Dritten bearbeitet, so werden die damit verbundenen Kosten über die Mittel nach Absatz 2 finanziert.
+
+<sup>5</sup> Die aufgrund dieser Verordnung ausgezahlten Beiträge müssen in der Staatsrechnung besonders gekennzeichnet werden. Die Finanzverwaltung erteilt die entsprechenden Anweisungen.
 
 #### Art. 3
 
@@ -220,6 +222,6 @@ beschliesst:
 
 **Geltungsdauer**
 
-<sup>1</sup> Diese Verordnung gilt bis am 30. April 2022. Je nach Entwicklung der Lage kann ihre Geltungsdauer verlängert werden.
+<sup>1</sup> Diese Verordnung gilt bis am 31. Dezember 2022. Je nach Entwicklung der Lage kann die Geltungsdauer verlängert werden.
 
 2021\_062
