@@ -3,11 +3,11 @@ sr: "0.916.117.1"
 title: Accordo internazionale del 2007 sul caffè del 28 settembre 2007 (con all. e Risoluzione)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/608"
 language: it
-version: 2022-02-02
+version: 2022-05-17
 adopted: 2007-09-28
 in_force: 2011-02-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/608/20220202/it/xml/fedlex-data-admin-ch-eli-cc-2011-608-20220202-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/608/20220202/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/608/20220517/it/xml/fedlex-data-admin-ch-eli-cc-2011-608-20220517-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/608/20220517/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Londra il 28 settembre 2007 Approvato dall’Assemblea federale il 10 marzo 2009[^t-1] Strumento di ratifica depositato dalla Svizzera l’11 settembre 2009 Entrato in vigore per la Svizzera il 2 febbraio 2011
 
-(Stato 2 febbraio 2022)
+(Stato 17 maggio 2022)
 
 [^t-1]: [RU 2011 4419](https://fedlex.data.admin.ch/eli/oc/2011/607)
 
@@ -704,7 +704,7 @@ decide di:
 
 [^annexu1-lvlu2-1]: [RS 0.111](https://fedlex.data.admin.ch/eli/cc/1990/1112_1112_1112)
 
-Campo d’applicazione il 2 dicembre 2020**[^t-2]**
+Campo d’applicazione il 17 maggio 2022**[^t-2]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -739,6 +739,7 @@ Campo d’applicazione il 2 dicembre 2020**[^t-2]**
 <tr><td>Panama</td><td>12 marzo</td><td>2009</td><td>2 febbraio</td><td>2011</td></tr>
 <tr><td>Papua Nuova Guinea <sup>a</sup></td><td>16 dicembre</td><td>2016</td><td>16 dicembre</td><td>2016</td></tr>
 <tr><td>Perù</td><td>14 dicembre</td><td>2015 A</td><td>14 dicembre</td><td>2015</td></tr>
+<tr><td>Regno Unito</td><td>31 dicembre</td><td>2020 A</td><td>31 dicembre</td><td>2020</td></tr>
 <tr><td>Rep. Centrafricana</td><td>24 agosto</td><td>2010</td><td>2 febbraio</td><td>2011</td></tr>
 <tr><td>Ruanda</td><td>17 maggio</td><td>2012</td><td>17 maggio</td><td>2012</td></tr>
 <tr><td>Russia</td><td>24 aprile</td><td>2015 A</td><td>24 aprile</td><td>2015</td></tr>
@@ -749,7 +750,6 @@ Campo d’applicazione il 2 dicembre 2020**[^t-2]**
 <tr><td>Timor-Leste</td><td>5 gennaio</td><td>2009</td><td>2 febbraio</td><td>2011</td></tr>
 <tr><td>Togo</td><td>21 settembre</td><td>2010</td><td>2 febbraio</td><td>2011</td></tr>
 <tr><td>Tunisia</td><td>21 settembre</td><td>2010</td><td>2 febbraio</td><td>2011</td></tr>
-<tr><td>Uganda</td><td>1° marzo</td><td>2010</td><td>2 febbraio</td><td>2011</td></tr>
 <tr><td>Unione europea<sup>\*</sup></td><td>17 giugno</td><td>2008</td><td>2 febbraio</td><td>2011</td></tr>
 <tr><td>Venezuela</td><td>12 ottobre</td><td>2017 A</td><td>12 ottobre</td><td>2017</td></tr>
 <tr><td>Vietnam</td><td>28 agosto</td><td>2008</td><td>2 febbraio</td><td>2011</td></tr>
@@ -759,4 +759,4 @@ Campo d’applicazione il 2 dicembre 2020**[^t-2]**
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’ Organizzazione internazionale del Caffè: www.ico.org &gt; Français &gt; À notre sujet &gt; Accord de 2007, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Applicazione provvisoria dell’Acc. dal 6 nov. 2009.</td></tr>
 </table>
 
-[^t-2]: [RU 2011 4421](https://fedlex.data.admin.ch/eli/oc/2011/608), [2013 3035](https://fedlex.data.admin.ch/eli/oc/2013/592), [2015 2737](https://fedlex.data.admin.ch/eli/oc/2015/516), [2017 3629](https://fedlex.data.admin.ch/eli/oc/2017/405), [2019 2465](https://fedlex.data.admin.ch/eli/oc/2019/458), [2020 5773](https://fedlex.data.admin.ch/eli/oc/2020/971). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2011 4421](https://fedlex.data.admin.ch/eli/oc/2011/608); [2013 3035](https://fedlex.data.admin.ch/eli/oc/2013/592); [2015 2737](https://fedlex.data.admin.ch/eli/oc/2015/516); [2017 3629](https://fedlex.data.admin.ch/eli/oc/2017/405); [2019 2465](https://fedlex.data.admin.ch/eli/oc/2019/458); [2020 5773](https://fedlex.data.admin.ch/eli/oc/2020/971); [2022 309](https://fedlex.data.admin.ch/eli/oc/2022/309). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty

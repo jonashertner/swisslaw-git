@@ -3,11 +3,11 @@ sr: "0.916.117.1"
 title: Accord international de 2007 sur le café du 28 septembre 2007 (avec annexe et résolution)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/608"
 language: fr
-version: 2022-02-02
+version: 2022-05-17
 adopted: 2007-09-28
 in_force: 2011-02-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/608/20220202/fr/xml/fedlex-data-admin-ch-eli-cc-2011-608-20220202-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/608/20220202/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/608/20220517/fr/xml/fedlex-data-admin-ch-eli-cc-2011-608-20220517-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/608/20220517/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification suisse déposé le 11 septembre 2009
 
 Entré en vigueur pour la Suisse le 2 février 2011
 
-(Etat le 2 février 2022)
+(Etat le 17 mai 2022)
 
 [^t-1]: [RO 2011 4419](https://fedlex.data.admin.ch/eli/oc/2011/607)
 
@@ -710,7 +710,7 @@ décide:
 
 [^annexu1-lvlu2-1]: [RS 0.111](https://fedlex.data.admin.ch/eli/cc/1990/1112_1112_1112)
 
-Champ d’application le 2 décembre 2020**[^t-2]**
+Champ d’application le 17 mai 2022**[^t-2]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -741,12 +741,12 @@ Champ d’application le 2 décembre 2020**[^t-2]**
 <tr><td>Népal</td><td>17 mars</td><td>2017 A</td><td>17 mars</td><td>2017</td></tr>
 <tr><td>Nicaragua</td><td>12 août</td><td>2009</td><td>2 février</td><td>2011</td></tr>
 <tr><td>Norvège</td><td>21 septembre</td><td>2010</td><td>2 février</td><td>2011</td></tr>
-<tr><td>Ouganda</td><td>1<sup>er</sup> mars</td><td>2010</td><td>2 février</td><td>2011</td></tr>
 <tr><td>Panama</td><td>12 mars</td><td>2009</td><td>2 février</td><td>2011</td></tr>
 <tr><td>Papouasie-Nouvelle-Guinée <sup>a</sup></td><td>16 décembre</td><td>2016</td><td>16 décembre</td><td>2016</td></tr>
 <tr><td>Pérou</td><td>14 décembre</td><td>2015 A</td><td>14 décembre</td><td>2015</td></tr>
 <tr><td>Philippines</td><td>29 mars</td><td>2011 A</td><td>29 mars</td><td>2011</td></tr>
 <tr><td>République centrafricaine</td><td>24 août</td><td>2010</td><td>2 février</td><td>2011</td></tr>
+<tr><td>Royaume-Uni</td><td>31 décembre</td><td>2020 A</td><td>31 décembre</td><td>2020</td></tr>
 <tr><td>Russie</td><td>24 avril</td><td>2015 A</td><td>24 avril</td><td>2015</td></tr>
 <tr><td>Rwanda</td><td>17 mai</td><td>2012</td><td>17 mai</td><td>2012</td></tr>
 <tr><td>Sierra Leone</td><td>5 mai</td><td>2011 A</td><td>5 mai</td><td>2011</td></tr>
@@ -765,4 +765,4 @@ Champ d’application le 2 décembre 2020**[^t-2]**
 <tr><td colspan="5">\* Réserves et déclarations: Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du Café (OIC): www.ico.org &gt; Français &gt; À notre sujet &gt; Accord de 2007, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Application provisoire de l’accord dès le 6 novembre 2009.</td></tr>
 </table>
 
-[^t-2]: [RO 2011 4421](https://fedlex.data.admin.ch/eli/oc/2011/608), [2013 3035](https://fedlex.data.admin.ch/eli/oc/2013/592), [2015 2737](https://fedlex.data.admin.ch/eli/oc/2015/516), [2017 3629](https://fedlex.data.admin.ch/eli/oc/2017/405), [2019 2465](https://fedlex.data.admin.ch/eli/oc/2019/458), [2020 5773](https://fedlex.data.admin.ch/eli/oc/2020/971). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2011 4421](https://fedlex.data.admin.ch/eli/oc/2011/608); [2013 3035](https://fedlex.data.admin.ch/eli/oc/2013/592); [2015 2737](https://fedlex.data.admin.ch/eli/oc/2015/516); [2017 3629](https://fedlex.data.admin.ch/eli/oc/2017/405); [2019 2465](https://fedlex.data.admin.ch/eli/oc/2019/458); [2020 5773](https://fedlex.data.admin.ch/eli/oc/2020/971); [2022 309](https://fedlex.data.admin.ch/eli/oc/2022/309). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty

@@ -3,11 +3,11 @@ sr: "0.916.117.1"
 title: Internationales Kaffee-Übereinkommen von 2007 vom 28. September 2007 (mit Anlagen und Resolution)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/608"
 language: de
-version: 2022-02-02
+version: 2022-05-17
 adopted: 2007-09-28
 in_force: 2011-02-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/608/20220202/de/xml/fedlex-data-admin-ch-eli-cc-2011-608-20220202-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/608/20220202/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/608/20220517/de/xml/fedlex-data-admin-ch-eli-cc-2011-608-20220517-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/608/20220517/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 11. September 2009
 
 Für die Schweiz in Kraft getreten am 2. Februar 2011
 
-(Stand am 2. Februar 2022)
+(Stand am 17. Mai 2022)
 
 [^t-1]: [AS 2011 4419](https://fedlex.data.admin.ch/eli/oc/2011/607)
 
@@ -722,7 +722,7 @@ entscheidet:
 
 [^annexu1-lvlu2-1]: [SR 0.111](https://fedlex.data.admin.ch/eli/cc/1990/1112_1112_1112)
 
-Geltungsbereich am 2. Dezember 2020**[^t-2]**
+Geltungsbereich am 17. Mai 2022**[^t-2]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -770,11 +770,11 @@ Geltungsbereich am 2. Dezember 2020**[^t-2]**
 <tr><td>Timor-Leste</td><td>5. Januar</td><td>2009</td><td>2. Februar</td><td>2011</td></tr>
 <tr><td>Togo</td><td>21. September</td><td>2010</td><td>2. Februar</td><td>2011</td></tr>
 <tr><td>Tunesien</td><td>21. September</td><td>2010</td><td>2. Februar</td><td>2011</td></tr>
-<tr><td>Uganda</td><td>1. März</td><td>2010</td><td>2. Februar</td><td>2011</td></tr>
 <tr><td>Venezuela</td><td>12. Oktober</td><td>2017 B</td><td>12. Oktober</td><td>2017</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>31. Dezember</td><td>2020 B</td><td>31. Dezember</td><td>2020</td></tr>
 <tr><td>Vietnam</td><td>28. August</td><td>2008</td><td>2. Februar</td><td>2011</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>24. August</td><td>2010</td><td>2. Februar</td><td>2011</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen: Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationale Kaffee-Organisation (ICO): www.ico.org &gt; Français &gt; À notre sujet &gt; Accord de 2007 eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge 3003 Bern, bezogen werden. <sup>a</sup> Vorläufige Anwendung des Übereinkommens seit dem 6. November 2009.</td></tr>
 </table>
 
-[^t-2]: [AS 2011 4421](https://fedlex.data.admin.ch/eli/oc/2011/608), [2013 3035](https://fedlex.data.admin.ch/eli/oc/2013/592), [2015 2737](https://fedlex.data.admin.ch/eli/oc/2015/516)[2017 3629](https://fedlex.data.admin.ch/eli/oc/2017/405), [2019 2465](https://fedlex.data.admin.ch/eli/oc/2019/458), [2020 5773](https://fedlex.data.admin.ch/eli/oc/2020/971). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2011 4421](https://fedlex.data.admin.ch/eli/oc/2011/608); [2013 3035](https://fedlex.data.admin.ch/eli/oc/2013/592); [2015 2737](https://fedlex.data.admin.ch/eli/oc/2015/516); [2017 3629](https://fedlex.data.admin.ch/eli/oc/2017/405); [2019 2465](https://fedlex.data.admin.ch/eli/oc/2019/458); [2020 5773](https://fedlex.data.admin.ch/eli/oc/2020/971); [2022 309](https://fedlex.data.admin.ch/eli/oc/2022/309). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty
