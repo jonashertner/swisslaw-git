@@ -5,12 +5,12 @@ title: "Lescha davart l'execuziun giudiziala en il chantun Grischun"
 short: "lescha davart l'execuziun giudiziala, LExeG"
 language: rm
 version: 2022-01-01
-valid_until: 2024-12-31
+corrected: 2022-05-18
 version_adopted: 2021-08-27
 adopted: 2009-08-27
 in_force: 2010-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/350.500"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3250/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3219/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -436,7 +436,7 @@ concluda:
 - e) collocar en in local ch'è segirà spezialmain e che na cuntegna nagins objects periclitants;
 - f) liar.
 
-<sup>3</sup> Las mesiras tenor l'alinea 2 literas a, c ed e èn er admissiblas, sch'il privel da la liberaziun u sch'in disturbi considerabel da l'urden en l'instituziun d'execuziun na po betg vegnir evità autramain.
+<sup>3</sup> Las mesiras tenor l'alinea 1 literas a, c ed e èn er admissiblas, sch'il privel da la liberaziun u sch'in disturbi considerabel da l'urden en l'instituziun d'execuziun na po betg vegnir evità autramain.
 
 <sup>4</sup> Sin ordinaziun da l'instituziun d'execuziun èsi admess da liar ina persuna collocada per la sortida, per la preschentaziun u per il transport er alura, sch'igl exista in privel da fugia augmentà per auters motivs che quels da l'alinea 1.
 

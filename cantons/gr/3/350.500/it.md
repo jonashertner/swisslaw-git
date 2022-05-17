@@ -5,12 +5,12 @@ title: "Legge sull'esecuzione giudiziaria nel Cantone dei Grigioni"
 short: LEG
 language: it
 version: 2022-01-01
-valid_until: 2024-12-31
+corrected: 2022-05-18
 version_adopted: 2021-08-27
 adopted: 2009-08-27
 in_force: 2010-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/350.500"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3250/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3219/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -432,7 +432,7 @@ decide:
 - e) collocarlo in un locale particolarmente sicuro e privo di oggetti pericolosi;
 - f) ammanettarlo.
 
-<sup>3</sup> Le misure di cui al capoverso 2 lettere a, c ed e sono consentite anche se il pericolo di fuga o un notevole turbamento dell'ordine dell'istituzione d'esecuzione non possono essere evitati in altro modo.
+<sup>3</sup> Le misure di cui al capoverso 1 lettere a, c ed e sono consentite anche se il pericolo di fuga o un notevole turbamento dell'ordine dell'istituzione d'esecuzione non possono essere evitati in altro modo.
 
 <sup>4</sup> È consentito ammanettare un collocato su ordine dell'istituzione d'esecuzione per farlo uscire, accompagnarlo o trasportarlo, anche se l'elevato pericolo di fuga sussiste per motivi diversi da quelli di cui al capoverso 1.
 
