@@ -3,11 +3,11 @@ sr: "0.193.212"
 title: Abkommen vom 18. Oktober 1907 zur friedlichen Erledigung internationaler Streitfälle (mit Schlussakte)
 eli: "https://fedlex.data.admin.ch/eli/cc/26/305_271_293"
 language: de
-version: 2016-07-05
+version: 2022-05-18
 adopted: 1907-10-18
 in_force: 1910-07-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/26/305_271_293/20160705/de/xml/fedlex-data-admin-ch-eli-cc-26-305_271_293-20160705-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/26/305_271_293/20160705/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/26/305_271_293/20220518/de/xml/fedlex-data-admin-ch-eli-cc-26-305_271_293-20220518-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/26/305_271_293/20220518/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/26/305_271_293/20160705/de"
 
 BS **11** 207; BBl **1909** I 1
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen im Haag am 18. Oktober 1907 Von der Bundesversammlung genehmigt am 4. April 1910[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 12. Mai 1910 In Kraft getreten für die Schweiz am 11. Juli 1910
+Abgeschlossen im Haag am 18. Oktober 1907 Von der Bundesversammlung genehmigt am 4. April 1910[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 12. Mai 1910 In Kraft getreten für die Schweiz am 11. Juli 1910
 
-(Stand am 5. Juli 2016)
+(Stand am 18. Mai 2022)
 
-[^t-1]: Übersetzung des französischen Originaltexts.
-[^t-2]: BS **11** 229
+[^t-1]: BS **11** 229
 
 Seine Majestät der Deutsche Kaiser, König von Preussen; der Präsident der Vereinigten Staaten von Amerika; der Präsident der Argentinischen Republik; Seine Majestät der Kaiser von Österreich, König von Böhmen usw. und Apostolischer König von Ungarn; Seine Majestät der König der Belgier; der Präsident der Republik Bolivien; der Präsident der Republik der Vereinigten Staaten von Brasilien; Seine Königliche Hoheit der Fürst von Bulgarien; der Präsident der Republik Chile; Seine Majestät der Kaiser von China; der Präsident der Republik Kolumbien; der einstweilige Gouverneur der Republik Kuba; Seine Majestät der König von Dänemark‑, der Präsident der Dominikanischen Republik; der Präsident der Republik Ecuador; Seine Majestät der König von Spanien; der Präsident der Französischen Republik; Seine Majestät der König des Vereinigten Königreichs von Grossbritannien und Irland und der Britischen überseeischen Lande, Kaiser von Indien; Seine Majestät der König der Hellenen; der Präsident der Republik Guatemala; der Präsident der Republik Haiti; Seine Majestät der König von Italien; Seine Majestät der Kaiser von Japan; Seine Königliche Hoheit der Grossherzog von Luxemburg, Herzog zu Nassau; der Präsident der Vereinigten Staaten von Mexiko; Seine Königliche Hoheit der Fürst von Montenegro; Seine Majestät der König von Norwegen; der Präsident der Republik Panama; der Präsident der Republik Paraguay; Ihre Majestät die Königin der Niederlande; der Präsident der Republik Peru; Seine Kaiserliche Majestät der Schah von Persien; Seine Majestät der König von Portugal und Algarbien usw.; Seine Majestät der König von Rumänien; Seine Majestät der Kaiser aller Reussen, der Präsident der Republik Salvador; Seine Majestät der König von Serbien; Seine Majestät der König von Siam; Seine Majestät der König von Schweden; der Schweizerische Bundesrat; Seine Majestät der Kaiser der Osmanen; der Präsident des Orientalischen Freistaats Uruguay; der Präsident der Vereinigten Staaten von Venezuela,
 
@@ -648,7 +647,7 @@ Jede Vertragsmacht hat das Recht, von diesem Register Kenntnis zu nehmen und beg
 
 *Zu Urkund dessen* haben die Bevollmächtigten dieses Abkommen mit ihren Unterschriften versehen. Geschehen Im Haag, am achtzehnten Oktober neunzehnhundertsieben in einer einzigen Ausfertigung, die im Archiv der Regierung der Niederlande hinterlegt bleiben soll und wovon beglaubigte Abschriften den Vertragsmächten auf diplomatischem Wege übergeben werden sollen. (Es folgen die Unterschriften)
 
-Geltungsbereich am 5. Juli 2016**[^t-3]**
+Geltungsbereich am 18. Mai 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -669,6 +668,8 @@ Geltungsbereich am 5. Juli 2016**[^t-3]**
 <tr><td>Burkina Faso</td><td>30. August</td><td>1961 B</td><td>30. August</td><td>1961</td></tr>
 <tr><td>Chile\*</td><td>19. November</td><td>1997</td><td>18. Januar</td><td>1998</td></tr>
 <tr><td>China</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
+<tr><td>Hongkong</td><td>1. Juli</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
+<tr><td>Macau</td><td>20. Dezember</td><td>1999</td><td>20. Dezember</td><td>1999</td></tr>
 <tr><td>Costa Rica</td><td>21. Mai</td><td>1999 B</td><td>20. Juli</td><td>1999</td></tr>
 <tr><td>Dänemark</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
 <tr><td>Deutschland</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
@@ -677,6 +678,7 @@ Geltungsbereich am 5. Juli 2016**[^t-3]**
 <tr><td>El Salvador</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
 <tr><td>Eritrea</td><td>5. August</td><td>1997 B</td><td>4. Oktober</td><td>1997</td></tr>
 <tr><td>Estland</td><td>3. Juli</td><td>2003 B</td><td>1. September</td><td>2003</td></tr>
+<tr><td>Eswatini</td><td>26. Oktober</td><td>1970 B</td><td>25. Dezember</td><td>1970</td></tr>
 <tr><td>Finnland</td><td>10. April</td><td>1922 B</td><td>9. Juni</td><td>1922</td></tr>
 <tr><td>Frankreich</td><td>7. Oktober</td><td>1910</td><td>6. Dezember</td><td>1910</td></tr>
 <tr><td>Georgien\*</td><td>21. Januar</td><td>2015 B</td><td>22. März</td><td>2015</td></tr>
@@ -713,9 +715,9 @@ Geltungsbereich am 5. Juli 2016**[^t-3]**
 <tr><td>Malaysia</td><td>7. März</td><td>2002 B</td><td>6. Mai</td><td>2002</td></tr>
 <tr><td>Malta</td><td>9. Juli</td><td>1968 B</td><td>7. September</td><td>1968</td></tr>
 <tr><td>Marokko</td><td>5. April</td><td>2001 B</td><td>4. Juni</td><td>2001</td></tr>
-<tr><td>Mazedonien</td><td>19. Dezember</td><td>2000 B</td><td>17. Februar</td><td>2001</td></tr>
 <tr><td>Mexiko\*</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
-<tr><td>Neuseeland<sup>a</sup></td><td>13. April</td><td>2010</td><td>12. Juni</td><td>2010</td></tr>
+<tr><td>Mongolei</td><td>15. März</td><td>2019 B</td><td>14. Mai</td><td>2019</td></tr>
+<tr><td>Neuseeland <sup>a</sup></td><td>13. April</td><td>2010</td><td>12. Juni</td><td>2010</td></tr>
 <tr><td>Nicaragua</td><td>16. Dezember</td><td>1909 B</td><td>14. Februar</td><td>1910</td></tr>
 <tr><td>Niederlande</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
 <tr><td>Aruba</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
@@ -723,6 +725,7 @@ Geltungsbereich am 5. Juli 2016**[^t-3]**
 <tr><td>Sint Maarten</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
 <tr><td>Nigeria</td><td>18. Dezember</td><td>1986 B</td><td>16. Februar</td><td>1987</td></tr>
+<tr><td>Nordmazedonien</td><td>19. Dezember</td><td>2000 B</td><td>17. Februar</td><td>2001</td></tr>
 <tr><td>Norwegen</td><td>19. September</td><td>1910</td><td>18. November</td><td>1910</td></tr>
 <tr><td>Österreich</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
 <tr><td>Palästina</td><td>30. Oktober</td><td>2015 B</td><td>29. Dezember</td><td>2015</td></tr>
@@ -747,7 +750,6 @@ Geltungsbereich am 5. Juli 2016**[^t-3]**
 <tr><td>Südafrika</td><td>22. Oktober</td><td>1998 B</td><td>21. Dezember</td><td>1998</td></tr>
 <tr><td>Sudan</td><td>3. Oktober</td><td>1966 B</td><td>2. Dezember</td><td>1966</td></tr>
 <tr><td>Suriname</td><td>28. Oktober</td><td>1992 B</td><td>27. Dezember</td><td>1992</td></tr>
-<tr><td>Swasiland</td><td>26. Oktober</td><td>1970 B</td><td>25. Dezember</td><td>1970</td></tr>
 <tr><td>Thailand</td><td>12. März</td><td>1910</td><td>11. Mai</td><td>1910</td></tr>
 <tr><td>Togo</td><td>18. Oktober</td><td>2004 B</td><td>17. Dezember</td><td>2004</td></tr>
 <tr><td>Tschechische Republik</td><td>11. Oktober</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
@@ -757,20 +759,30 @@ Geltungsbereich am 5. Juli 2016**[^t-3]**
 <tr><td>Vereinigte Staaten\*</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>13. August</td><td>1970</td><td>12. Oktober</td><td>1970</td></tr>
 <tr><td>Anguilla</td><td>13. August</td><td>1970</td><td>12. Oktober</td><td>1970</td></tr>
+<tr><td>Bermudas</td><td>12. Oktober</td><td>1970</td><td>12. Oktober</td><td>1970</td></tr>
+<tr><td>Britisches Antarktis-Territorium</td><td>12. Oktober</td><td>1970</td><td>12. Oktober</td><td>1970</td></tr>
+<tr><td>Falklandinseln</td><td>12. Oktober</td><td>1970</td><td>12. Oktober</td><td>1970</td></tr>
+<tr><td>Gibraltar</td><td>12. Oktober</td><td>1970</td><td>12. Oktober</td><td>1970</td></tr>
+<tr><td>Kaimaninseln</td><td>12. Oktober</td><td>1970</td><td>12. Oktober</td><td>1970</td></tr>
+<tr><td>Montserrat</td><td>12. Oktober</td><td>1970</td><td>12. Oktober</td><td>1970</td></tr>
+<tr><td>Pitcairn-Inseln (Ducie, Oeno, Henderson und Pitcairn)</td><td>12. Oktober</td><td>1970</td><td>12. Oktober</td><td>1970</td></tr>
+<tr><td>St. Helena und Nebengebiete (Ascension und Tristan da Cunha)</td><td>12. Oktober</td><td>1970</td><td>12. Oktober</td><td>1970</td></tr>
+<tr><td>Südgeorgien und Südliche Sandwichinseln</td><td>12. Oktober</td><td>1970</td><td>12. Oktober</td><td>1970</td></tr>
+<tr><td>Turks- und Caicosinseln</td><td>12. Oktober</td><td>1970</td><td>12. Oktober</td><td>1970</td></tr>
 <tr><td>Vietnam</td><td>29. Dezember</td><td>2011 B</td><td>27. Februar</td><td>2012</td></tr>
 <tr><td>Zypern</td><td>13. September</td><td>1993 B</td><td>12. November</td><td>1993</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Niederländischen Regierung: https://treatydatabase.overheid.nl/eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Abkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-3]: [AS 1971 1808](https://fedlex.data.admin.ch/eli/oc/1971/1808_1813_1813), [1977 1466](https://fedlex.data.admin.ch/eli/oc/1977/1466_1466_1466), [1982 2260](https://fedlex.data.admin.ch/eli/oc/1982/2260_2260_2260), [1987 796](https://fedlex.data.admin.ch/eli/oc/1987/796_796_796), [1994 1118](https://fedlex.data.admin.ch/eli/oc/1994/1118_1118_1118), [2004 2009](https://fedlex.data.admin.ch/eli/oc/2004/223), [2006 749](https://fedlex.data.admin.ch/eli/oc/2006/102), [2009 3145](https://fedlex.data.admin.ch/eli/oc/2009/389), [2011 3291](https://fedlex.data.admin.ch/eli/oc/2011/434), [2015 1121](https://fedlex.data.admin.ch/eli/oc/2015/224)und [2016 2617](https://fedlex.data.admin.ch/eli/oc/2016/411). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1971 1808](https://fedlex.data.admin.ch/eli/oc/1971/1808_1813_1813); [1977 1466](https://fedlex.data.admin.ch/eli/oc/1977/1466_1466_1466); [1982 2260](https://fedlex.data.admin.ch/eli/oc/1982/2260_2260_2260); [1987 796](https://fedlex.data.admin.ch/eli/oc/1987/796_796_796); [1994 1118](https://fedlex.data.admin.ch/eli/oc/1994/1118_1118_1118); [2004 2009](https://fedlex.data.admin.ch/eli/oc/2004/223); [2006 749](https://fedlex.data.admin.ch/eli/oc/2006/102); [2009 3145](https://fedlex.data.admin.ch/eli/oc/2009/389); [2011 3291](https://fedlex.data.admin.ch/eli/oc/2011/434); [2015 1121](https://fedlex.data.admin.ch/eli/oc/2015/224); [2016 2617](https://fedlex.data.admin.ch/eli/oc/2016/411); [2022 448](https://fedlex.data.admin.ch/eli/oc/2022/448). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty.
 
 Vorbehalt
 
-**Schweiz**[^t-4]
+**Schweiz**[^t-3]
 
 Unter Vorbehalt von Artikel 53 Buchstabe 2.
 
-[^t-4]: Ziff. I des BB vom 4. April 1910 (BS **11** 229)
+[^t-3]: Ziff. I des BB vom 4. April 1910 (BS **11** 229)
 
 Schlussakte der zweiten internationalen Friedenskonferenz
 
@@ -784,20 +796,20 @@ Folgende Mächte haben an der Konferenz teilgenommen und dazu die nachstehend au
 
 In einer Reihe von Sitzungen während der Zeit vom 15. Juni bis zum 18. Oktober 1907, in denen die genannten Delegierten beständig von dem Wunsche beseelt waren, in möglichst weitem Masse die hochherzigen Gedanken des Erlauchten Veranstalters der Konferenz und die Absichten ihrer Regierungen zu verwirklichen, hat die Konferenz den Wortlaut der Abkommen und der Erklärung festgestellt, die nachstehend aufgezählt und dieser Akte als Anlage beigegeben sind, um den Bevollmächtigten zur Unterzeichnung unterbreitet zu werden:
 
-- I. Abkommen zur friedlichen Erledigung internationaler Streitfälle[^t-5];
-- II. Abkommen betreffend die Beschränkung der Anwendung von Gewalt bei der Eintreibung von Vertragsschulden[^t-6];
-- III. Abkommen über den Beginn der Feindseligkeiten[^t-7];
-- IV. Abkommen betreffend die Gesetze und Gebräuche des Landkriegs[^t-8];
-- V. Abkommen betreffend die Rechte und Pflichten der neutralen Mächte und Personen im Falle eines Landkriegs[^t-9];
-- VI. Abkommen über die Behandlung der feindlichen Kauffahrteischiffe beim Ausbruch der Feindseligkeiten[^t-10];
-- VII. Abkommen über die Umwandlung von Kauffahrteischiffen in Kriegsschiffe[^t-11];
-- VIII. Abkommen über die Legung von unterseeischen, selbsttätigen Kontaktminen[^t-12];
-- IX. Abkommen betreffend die Beschiessung durch Seestreitkräfte in Kriegszeiten[^t-13];
-- X. Abkommen über die Anwendung der Grundsätze des Genfer Abkommens auf den Seekrieg[^t-14];
-- XI. Abkommen über gewisse Beschränkungen in der Ausübung des Beuterechts im Seekrieg[^t-15];
-- XII. Abkommen über die Errichtung eines internationalen Prisenhofs[^t-16];
-- XIII. Abkommen betreffend die Rechte und die Pflichten der neutralen Mächte im Falle eines Seekrieges[^t-17];
-- XIV. Erklärung betreffend das Verbot des Werfens von Geschossen und Sprengstoffen aus Luftschiffen[^t-18].
+- I. Abkommen zur friedlichen Erledigung internationaler Streitfälle[^t-4];
+- II. Abkommen betreffend die Beschränkung der Anwendung von Gewalt bei der Eintreibung von Vertragsschulden[^t-5];
+- III. Abkommen über den Beginn der Feindseligkeiten[^t-6];
+- IV. Abkommen betreffend die Gesetze und Gebräuche des Landkriegs[^t-7];
+- V. Abkommen betreffend die Rechte und Pflichten der neutralen Mächte und Personen im Falle eines Landkriegs[^t-8];
+- VI. Abkommen über die Behandlung der feindlichen Kauffahrteischiffe beim Ausbruch der Feindseligkeiten[^t-9];
+- VII. Abkommen über die Umwandlung von Kauffahrteischiffen in Kriegsschiffe[^t-10];
+- VIII. Abkommen über die Legung von unterseeischen, selbsttätigen Kontaktminen[^t-11];
+- IX. Abkommen betreffend die Beschiessung durch Seestreitkräfte in Kriegszeiten[^t-12];
+- X. Abkommen über die Anwendung der Grundsätze des Genfer Abkommens auf den Seekrieg[^t-13];
+- XI. Abkommen über gewisse Beschränkungen in der Ausübung des Beuterechts im Seekrieg[^t-14];
+- XII. Abkommen über die Errichtung eines internationalen Prisenhofs[^t-15];
+- XIII. Abkommen betreffend die Rechte und die Pflichten der neutralen Mächte im Falle eines Seekrieges[^t-16];
+- XIV. Erklärung betreffend das Verbot des Werfens von Geschossen und Sprengstoffen aus Luftschiffen[^t-17].
 
 Diese Abkommen und diese Erklärung sollen ebenso viele besondere Urkunden bilden. Diese Urkunden sollen das Datum des heutigen Tages tragen und können bis zum 30. Juni 1908 im Haag von den Bevollmächtigten der auf der zweiten Friedenskonferenz vertretenen Mächte unterzeichnet werden.
 
@@ -812,14 +824,14 @@ Sie ist endlich einstimmig darin, auszusprechen, dass, wenn es ihr auch nicht ge
 
 Ausserdem hat die Konferenz mit Einstimmigkeit folgenden Beschluss gefasst:
 
-Die zweite Friedenskonferenz bestätigt den auf der Konferenz von 1899 in Ansehung der Beschränkungen der Militärlasten angenommenen Beschluss[^t-19] und erklärt im Hinblick darauf, dass die Militärlasten seit jenem Jahre in fast allen Ländern erheblich gewachsen sind, es für höchst wünschenswert, dass die Regierungen das ernstliche Studium dieser Frage wieder aufnehmen.
+Die zweite Friedenskonferenz bestätigt den auf der Konferenz von 1899 in Ansehung der Beschränkungen der Militärlasten angenommenen Beschluss[^t-18] und erklärt im Hinblick darauf, dass die Militärlasten seit jenem Jahre in fast allen Ländern erheblich gewachsen sind, es für höchst wünschenswert, dass die Regierungen das ernstliche Studium dieser Frage wieder aufnehmen.
 
 Sie hat ferner folgende Wünsche ausgesprochen:
 
-- 1\. Die Konferenz empfiehlt den Signatarmächten die Annahme des anliegenden Entwurfs eines Abkommens über die Errichtung eines Schiedsgerichtshofes und seine Inkraftsetzung, sobald eine Einigung über die Auswahl der Richter und die Zusammensetzung des Gerichtshofes erfolgt ist.[^t-20]
+- 1\. Die Konferenz empfiehlt den Signatarmächten die Annahme des anliegenden Entwurfs eines Abkommens über die Errichtung eines Schiedsgerichtshofes und seine Inkraftsetzung, sobald eine Einigung über die Auswahl der Richter und die Zusammensetzung des Gerichtshofes erfolgt ist.[^t-19]
 - 2\. Die Konferenz spricht den Wunsch aus, dass im Kriegsfalle die zuständigen Zivil‑ und Militärbehörden es sich zur ganz besonderen Pflicht machen, den Fortbestand des friedlichen Verkehrs und namentlich der kaufmännischen und industriellen Beziehungen zwischen der Bevölkerung der kriegführenden Staaten und den neutralen Ländern zu sichern und zu schützen.
 - 3\. Die Konferenz spricht den Wunsch aus, dass die Mächte durch besondere Abkommen die Lage der auf ihren Gebieten ansässigen Ausländer in Ansehung der Militärlasten regeln.
-- 4\. Die Konferenz spricht den Wunsch aus, dass die Ausarbeitung einer Ordnung der Gesetze und Gebräuche des Seekriegs in das Programm der nächsten Konferenz aufgenommen werde und dass jedenfalls die Mächte die Grundsätze des Abkommens über die Gesetze und Gebräuche des Landkriegs[^t-21] soweit wie möglich auf den Seekrieg anwenden.
+- 4\. Die Konferenz spricht den Wunsch aus, dass die Ausarbeitung einer Ordnung der Gesetze und Gebräuche des Seekriegs in das Programm der nächsten Konferenz aufgenommen werde und dass jedenfalls die Mächte die Grundsätze des Abkommens über die Gesetze und Gebräuche des Landkriegs[^t-20] soweit wie möglich auf den Seekrieg anwenden.
 
 Endlich empfiehlt die Konferenz den Mächten, die Zusammenberufung einer dritten Friedenskonferenz, deren Zusammentritt nach Ablauf eines Zeitraums, etwa so wie er seit der vorigen Konferenz verstrichen ist, zu einer zwischen den Mächten zu vereinbarenden Zeit stattzufinden hätte; sie lenkt ihre Aufmerksamkeit auf die Notwendigkeit, die Arbeiten dieser dritten Konferenz im voraus so rechtzeitig vorzubereiten, dass deren Beratungen mit der unerlässlichen Würde und Schnelligkeit Fortgang nehmen.
 
@@ -831,20 +843,20 @@ Geschehen Im Haag, am achtzehnten Oktober neunzehnhundertsieben in einer einzige
 
 (Es folgen die Unterschriften)
 
-[^t-5]: Siehe hiervor.
-[^t-6]: Dieses Abkommen wurde von der Schweiz nicht unterzeichnet.
-[^t-7]: [SR 0.515.10](https://fedlex.data.admin.ch/eli/cc/26/391_318_373)
-[^t-8]: [SR 0.515.112](https://fedlex.data.admin.ch/eli/cc/26/429_338_411)
-[^t-9]: [SR 0.515.21](https://fedlex.data.admin.ch/eli/cc/26/499_376_481)
-[^t-10]: [SR 0.515.122](https://fedlex.data.admin.ch/eli/cc/26/545_401_527)
-[^t-11]: [SR 0.515.123](https://fedlex.data.admin.ch/eli/cc/26/583_421_565)
-[^t-12]: [SR 0.515.124](https://fedlex.data.admin.ch/eli/cc/26/619_440_601)
-[^t-13]: [SR 0.515.125](https://fedlex.data.admin.ch/eli/cc/26/657_460_639)
-[^t-14]: [BS **11** 522. [AS 1951 207](https://fedlex.data.admin.ch/eli/oc/1951/207_209_205)Art. 58]
-[^t-15]: [SR 0.515.126](https://fedlex.data.admin.ch/eli/cc/26/751_509_733)
-[^t-16]: Dieses Abkommen ist nur von Nicaragua ratifiziert worden und nie in Kraft getreten.
-[^t-17]: [SR 0.515.22](https://fedlex.data.admin.ch/eli/cc/26/793_530_775)
-[^t-18]: [SR 0.515.104](https://fedlex.data.admin.ch/eli/cc/26/843_556_825)
-[^t-19]: [SR 0.193.211](https://fedlex.data.admin.ch/eli/cc/18/517_433_502)Schlussprot.
-[^t-20]: Diesem Wunsch hat der Schweizerische Bundesrat nicht beigepflichtet.
-[^t-21]: [SR 0.515.112](https://fedlex.data.admin.ch/eli/cc/26/429_338_411)
+[^t-4]: Siehe hiervor.
+[^t-5]: Dieses Abkommen wurde von der Schweiz nicht unterzeichnet.
+[^t-6]: [SR 0.515.10](https://fedlex.data.admin.ch/eli/cc/26/391_318_373)
+[^t-7]: [SR 0.515.112](https://fedlex.data.admin.ch/eli/cc/26/429_338_411)
+[^t-8]: [SR 0.515.21](https://fedlex.data.admin.ch/eli/cc/26/499_376_481)
+[^t-9]: [SR 0.515.122](https://fedlex.data.admin.ch/eli/cc/26/545_401_527)
+[^t-10]: [SR 0.515.123](https://fedlex.data.admin.ch/eli/cc/26/583_421_565)
+[^t-11]: [SR 0.515.124](https://fedlex.data.admin.ch/eli/cc/26/619_440_601)
+[^t-12]: [SR 0.515.125](https://fedlex.data.admin.ch/eli/cc/26/657_460_639)
+[^t-13]: [BS **11** 522. [AS 1951 207](https://fedlex.data.admin.ch/eli/oc/1951/207_209_205)Art. 58]
+[^t-14]: [SR 0.515.126](https://fedlex.data.admin.ch/eli/cc/26/751_509_733)
+[^t-15]: Dieses Abkommen ist nur von Nicaragua ratifiziert worden und nie in Kraft getreten.
+[^t-16]: [SR 0.515.22](https://fedlex.data.admin.ch/eli/cc/26/793_530_775)
+[^t-17]: [SR 0.515.104](https://fedlex.data.admin.ch/eli/cc/26/843_556_825)
+[^t-18]: [SR 0.193.211](https://fedlex.data.admin.ch/eli/cc/18/517_433_502)Schlussprot.
+[^t-19]: Diesem Wunsch hat der Schweizerische Bundesrat nicht beigepflichtet.
+[^t-20]: [SR 0.515.112](https://fedlex.data.admin.ch/eli/cc/26/429_338_411)

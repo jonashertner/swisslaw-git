@@ -3,11 +3,11 @@ sr: "0.193.212"
 title: Convention du 18 octobre 1907 pour le règlement pacifique des conflits internationaux (avec acte final)
 eli: "https://fedlex.data.admin.ch/eli/cc/26/305_271_293"
 language: fr
-version: 2016-07-05
+version: 2022-05-18
 adopted: 1907-10-18
 in_force: 1910-07-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/26/305_271_293/20160705/fr/xml/fedlex-data-admin-ch-eli-cc-26-305_271_293-20160705-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/26/305_271_293/20160705/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/26/305_271_293/20220518/fr/xml/fedlex-data-admin-ch-eli-cc-26-305_271_293-20220518-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/26/305_271_293/20220518/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,11 +26,11 @@ Instrument de ratification déposé par la Suisse le 12 mai 1910
 
 Entrée en vigueur pour la Suisse le 11 juillet 1910
 
-(Etat le 5 juillet 2016)
+(État le 18 mai 2022)
 
 [^t-1]: RS **11** 215
 
-Sa Majesté l’Empereur d’Allemagne, Roi de Prusse; le Président des Etats-Unis d’Amérique; le Président de la République Argentine; Sa Majesté l’Empereur d’Autriche, Roi de Bohême, etc., et Roi Apostolique de Hongrie; Sa Majesté le Roi des Belges; le Président de la République de Bolivie; le Président de la République des Etats-Unis du Brésil; Son Altesse Royale le Prince de Bulgarie; le Président de la République de Chili; Sa Majesté l’Empereur de Chine; le Président de la République de Colombie; le Gouverneur Provisoire de la République de Cuba; Sa Majesté Je Roi de Danemark; le Président de la République Dominicaine; le Président de la République de l’Equateur; Sa Majesté le Roi d’Espagne; le Président de la République Française; Sa Majesté le Roi du Royaume-Uni de Grande-Bretagne et d’Irlande et des Territoires Britanniques au delà des Mers, Empereur des Indes; Sa Majesté le Roi des Hellènes; le Président de la République de Guatemala; le Président de la République d’Haïti; Sa Majesté le Roi d’Italie; Sa Majesté l’Empereur du Japon; Son Altesse Royale le Grand-Duc de Luxembourg, Duc de Nassau; le Président des Etats-Unis Mexicains; Son Altesse Royale le Prince de Monténégro; Sa Majesté le Roi de Norvège; le Président de la République de Panama; le Président de la République du Paraguay: Sa Majesté la Reine des Pays-Bas; le Président de la République du Pérou; Sa Majesté Impériale le Schah de Perse; Sa Majesté le Roi de Portugal et des Algarves, etc.; Sa Majesté le Roi de Roumanie; Sa Majesté l’Empereur de Toutes les Russies; le Président de la République du Salvador, Sa Majesté le Roi de Serbie; Sa Majesté le Roi de Siam; Sa Majesté le Roi de Suède; le Conseil Fédéral Suisse; Sa Majesté l’Empereur des Ottomans; le Président de la République Orientale de l’Uruguay; le Président des Etats-Unis de Venezuela,
+Sa Majesté l’Empereur d’Allemagne, Roi de Prusse; le Président des États-Unis d’Amérique; le Président de la République Argentine; Sa Majesté l’Empereur d’Autriche, Roi de Bohême, etc., et Roi Apostolique de Hongrie; Sa Majesté le Roi des Belges; le Président de la République de Bolivie; le Président de la République des États-Unis du Brésil; Son Altesse Royale le Prince de Bulgarie; le Président de la République de Chili; Sa Majesté l’Empereur de Chine; le Président de la République de Colombie; le Gouverneur Provisoire de la République de Cuba; Sa Majesté Je Roi de Danemark; le Président de la République Dominicaine; le Président de la République de l’Équateur; Sa Majesté le Roi d’Espagne; le Président de la République Française; Sa Majesté le Roi du Royaume-Uni de Grande-Bretagne et d’Irlande et des Territoires Britanniques au delà des Mers, Empereur des Indes; Sa Majesté le Roi des Hellènes; le Président de la République de Guatemala; le Président de la République d’Haïti; Sa Majesté le Roi d’Italie; Sa Majesté l’Empereur du Japon; Son Altesse Royale le Grand-Duc de Luxembourg, Duc de Nassau; le Président des États-Unis Mexicains; Son Altesse Royale le Prince de Monténégro; Sa Majesté le Roi de Norvège; le Président de la République de Panama; le Président de la République du Paraguay: Sa Majesté la Reine des Pays-Bas; le Président de la République du Pérou; Sa Majesté Impériale le Schah de Perse; Sa Majesté le Roi de Portugal et des Algarves, etc.; Sa Majesté le Roi de Roumanie; Sa Majesté l’Empereur de Toutes les Russies; le Président de la République du Salvador, Sa Majesté le Roi de Serbie; Sa Majesté le Roi de Siam; Sa Majesté le Roi de Suède; le Conseil Fédéral Suisse; Sa Majesté l’Empereur des Ottomans; le Président de la République Orientale de l’Uruguay; le Président des États-Unis de Venezuela,
 
 animés de la ferme volonté de concourir au maintien de la paix générale,
 
@@ -44,7 +44,7 @@ convaincus que l’institution permanente d’une juridiction arbitrale accessib
 
 considérant les avantages d’une organisation générale et régulière de la procédure arbitrale,
 
-estimant avec l’Auguste Initiateur de la Conférence internationale de la Paix qu’il importe de consacrer dans un accord international les principes d’équité et de droit sur lesquels reposent la sécurité des Etats et le bien-être des peuples,
+estimant avec l’Auguste Initiateur de la Conférence internationale de la Paix qu’il importe de consacrer dans un accord international les principes d’équité et de droit sur lesquels reposent la sécurité des États et le bien-être des peuples,
 
 désireux, dans ce but, de mieux assurer le fonctionnement pratique des Commissions d’enquête et des tribunaux d’arbitrage et de faciliter le recours à la justice arbitrale lorsqu’il s’agit de litiges de nature à comporter une procédure sommaire,
 
@@ -62,7 +62,7 @@ sont convenus de ce qui suit:
 
 #### Art. 1
 
-En vue de prévenir autant que possible le recours à la force dans les rapports entre les Etats, les Puissances contractantes conviennent d’employer tous leurs efforts pour assurer le règlement pacifique des différends internationaux.
+En vue de prévenir autant que possible le recours à la force dans les rapports entre les États, les Puissances contractantes conviennent d’employer tous leurs efforts pour assurer le règlement pacifique des différends internationaux.
 
 ## Titre II Des bons offices et de la médiation
 
@@ -72,7 +72,7 @@ En cas de dissentiment grave ou de conflit, avant d’en appeler aux armes, les 
 
 #### Art. 3
 
-Indépendamment de ce recours, les Puissances contractantes jugent utile et désirable qu’une ou plusieurs Puissances étrangères au conflit offrent de leur propre initiative, en tant que les circonstances s’y prêtent, leurs bons offices ou leur médiation aux Etats en conflit.
+Indépendamment de ce recours, les Puissances contractantes jugent utile et désirable qu’une ou plusieurs Puissances étrangères au conflit offrent de leur propre initiative, en tant que les circonstances s’y prêtent, leurs bons offices ou leur médiation aux États en conflit.
 
 Le droit d’offrir les bons offices ou la médiation appartient aux Puissances étrangères au conflit, même pendant le cours des hostilités.
 
@@ -80,7 +80,7 @@ L’exercice de ce droit ne peut jamais être considéré par l’une ou l’aut
 
 #### Art. 4
 
-Le rôle du médiateur consiste à concilier les prétentions opposées et à apaiser les ressentiments qui peuvent s’être produits entre les Etats en conflit.
+Le rôle du médiateur consiste à concilier les prétentions opposées et à apaiser les ressentiments qui peuvent s’être produits entre les États en conflit.
 
 #### Art. 5
 
@@ -100,9 +100,9 @@ Si elle intervient après l’ouverture des hostilités, elle n’interrompt pas
 
 Les Puissances contractantes sont d’accord pour recommander l’application, dans les circonstances qui le permettent, d’une médiation spéciale sous la forme suivante.
 
-En cas de différend grave compromettant la paix, les Etats en conflit choisissent respectivement une Puissance à laquelle ils confient la mission d’entrer en rapport direct avec la Puissance choisie d’autre part, à l’effet de prévenir la rupture des relations pacifiques.
+En cas de différend grave compromettant la paix, les États en conflit choisissent respectivement une Puissance à laquelle ils confient la mission d’entrer en rapport direct avec la Puissance choisie d’autre part, à l’effet de prévenir la rupture des relations pacifiques.
 
-Pendant la durée de ce mandat dont le terme, sauf stipulation contraire, ne peut excéder trente jours, les Etats en litige cessent tout rapport direct au sujet du conflit, lequel est considéré comme déféré exclusivement aux Puissances médiatrices. Celles-ci doivent appliquer tous leurs efforts à régler le différend.
+Pendant la durée de ce mandat dont le terme, sauf stipulation contraire, ne peut excéder trente jours, les États en litige cessent tout rapport direct au sujet du conflit, lequel est considéré comme déféré exclusivement aux Puissances médiatrices. Celles-ci doivent appliquer tous leurs efforts à régler le différend.
 
 En cas de rupture effective des relations pacifiques, ces Puissances demeurent chargées de la mission commune de profiter de toute occasion pour rétablir la paix.
 
@@ -172,7 +172,7 @@ Aux dates prévues, chaque Partie communique à la Commission et à l’autre Pa
 
 La Commission a la faculté, avec l’assentiment des Parties, de se transporter momentanément sur les lieux où elle juge utile de recourir à ce moyen d’information, ou d’y déléguer un ou plusieurs de ses membres.
 
-L’autorisation de l’Etat sur le territoire duquel il doit être procédé à cette information devra être obtenue.
+L’autorisation de l’État sur le territoire duquel il doit être procédé à cette information devra être obtenue.
 
 #### Art.21
 
@@ -200,7 +200,7 @@ La Commission aura aussi toujours la faculté de recourir à l’intermédiaire 
 
 #### Art. 25
 
-Les témoins et les experts sont appelés à la requête des Parties ou d’office par la Commission, et, dans tous les cas, par l’intermédiaire du gouvernement de l’Etat sur le territoire duquel ils se trouvent.
+Les témoins et les experts sont appelés à la requête des Parties ou d’office par la Commission, et, dans tous les cas, par l’intermédiaire du gouvernement de l’État sur le territoire duquel ils se trouvent.
 
 Les témoins sont entendus, successivement et séparément, en présence des agents et des conseils et dans un ordre à fixer par la Commission.
 
@@ -268,7 +268,7 @@ Chaque Partie supporte ses propres frais et une part égale des frais de la Comm
 
 #### Art.37
 
-L’arbitrage international a pour objet le règlement de litiges entre les Etats par des juges de leur choix et sur la base du respect du droit.
+L’arbitrage international a pour objet le règlement de litiges entre les États par des juges de leur choix et sur la base du respect du droit.
 
 Le recours à l’arbitrage implique l’engagement de se soumettre de bonne foi à la sentence.
 
@@ -328,7 +328,7 @@ En cas de décès ou de retraite d’un membre de la Cour, il est pourvu à son 
 
 Lorsque les Puissances contractantes veulent s’adresser à la Cour permanente pour le règlement d’un différend survenu entre Elles, le choix des arbitres appelés à former le Tribunal compétent pour statuer sur ce différend doit être fait dans la liste générale des membres de la Cour.
 
-A défaut de constitution du Tribunal arbitral par l’accord des Parties, il est procédé de la manière suivante:
+À défaut de constitution du Tribunal arbitral par l’accord des Parties, il est procédé de la manière suivante:
 
 Chaque Partie nomme deux arbitres, dont un seulement peut être son national ou choisi parmi ceux qui ont été désignés par Elle comme Membres de la Cour permanente. Ces arbitres choisissent ensemble un sur-arbitre.
 
@@ -366,7 +366,7 @@ Le Bureau devra porter aussitôt la déclaration à la connaissance de l’autre
 
 #### Art.49
 
-Le Conseil administratif permanent, composé des Représentants diplomatiques des Puissances contractantes accrédités à La Haye et du Ministre des Affaires Etrangères des Pays-Bas, qui remplit les fonctions de Président, a la direction et le contrôle du Bureau international.
+Le Conseil administratif permanent, composé des Représentants diplomatiques des Puissances contractantes accrédités à La Haye et du Ministre des Affaires Étrangères des Pays-Bas, qui remplit les fonctions de Président, a la direction et le contrôle du Bureau international.
 
 Le Conseil arrête son règlement d’ordre ainsi que tous autres règlements nécessaires.
 
@@ -419,11 +419,11 @@ Le cinquième membre est de droit Président de la commission.
 
 Les fonctions arbitrales peuvent être conférées à un arbitre unique ou à plusieurs arbitres désignés par les Parties à leur gré, ou choisis par Elles parmi les membres de la Cour permanente d’arbitrage établie par la présente Convention.
 
-A défaut de constitution du Tribunal par l’accord des Parties, il est procédé de la manière indiquée à l’art. 45, al. 3 à 6.
+À défaut de constitution du Tribunal par l’accord des Parties, il est procédé de la manière indiquée à l’art. 45, al. 3 à 6.
 
 #### Art.56
 
-Lorsqu’un Souverain ou un chef d’Etat est choisi pour arbitre, la procédure arbitrale est réglée par Lui.
+Lorsqu’un Souverain ou un chef d’État est choisi pour arbitre, la procédure arbitrale est réglée par Lui.
 
 #### Art.57
 
@@ -441,7 +441,7 @@ En cas de décès, de démission ou d’empêchement, pour quelque cause que fix
 
 #### Art.60
 
-A défaut de désignation par les Parties, le Tribunal siège à La Haye.
+À défaut de désignation par les Parties, le Tribunal siège à La Haye.
 
 Le Tribunal ne peut siéger sur le territoire d’une tierce Puissance qu’avec l’assentiment de celle-ci.
 
@@ -475,7 +475,7 @@ Toute pièce produite par l’une des Parties doit être communiquée, en copie 
 
 #### Art.65
 
-A moins de circonstances spéciales, le Tribunal ne se réunit qu’après la clôture de l’instruction.
+À moins de circonstances spéciales, le Tribunal ne se réunit qu’après la clôture de l’instruction.
 
 #### Art.66
 
@@ -593,7 +593,7 @@ Le sur-arbitre préside le Tribunal, qui rend ses décisions à la majorité des
 
 #### Art.88
 
-A défaut d’accord préalable, le Tribunal fixe, dès qu’il est constitué, le délai dans lequel les deux Parties devront lui soumettre leurs mémoires respectifs.
+À défaut d’accord préalable, le Tribunal fixe, dès qu’il est constitué, le délai dans lequel les deux Parties devront lui soumettre leurs mémoires respectifs.
 
 #### Art.89
 
@@ -617,7 +617,7 @@ La présente Convention sera ratifiée aussitôt que possible.
 
 Les ratifications seront déposées à La Haye.
 
-Le premier dépôt de ratifications sera constaté par un procès-verbal signé par les représentants des Puissances qui y prennent part et par le Ministre des Affaires Etrangères des Pays-Bas.
+Le premier dépôt de ratifications sera constaté par un procès-verbal signé par les représentants des Puissances qui y prennent part et par le Ministre des Affaires Étrangères des Pays-Bas.
 
 Les dépôts ultérieurs de ratifications se feront au moyen d’une notification écrite, adressée au Gouvernement des Pays-Bas et accompagnée de l’instrument de ratification.
 
@@ -647,16 +647,16 @@ La dénonciation ne produira ses effets qu’à l’égard de la Puissance qui l
 
 #### Art.97
 
-Un registre tenu par le Ministère des Affaires Etrangères des Pays-Bas indiquera la date du dépôt de ratifications effectué en vertu de l’art. 92, al. 3 et 4, ainsi que la date à laquelle auront été reçues les notifications d’adhésion (art. 93, al. 2) ou de dénonciation (art. 96, al. 1).
+Un registre tenu par le Ministère des Affaires Étrangères des Pays-Bas indiquera la date du dépôt de ratifications effectué en vertu de l’art. 92, al. 3 et 4, ainsi que la date à laquelle auront été reçues les notifications d’adhésion (art. 93, al. 2) ou de dénonciation (art. 96, al. 1).
 
 Chaque Puissance contractante est admise à prendre connaissance de ce registre et à en demander des extraits certifiés conformes.
 
 *En foi de quoi,* les Plénipotentiaires ont revêtu la présente Convention de leurs signatures. Fait à La Haye, le dix-huit octobre mil neuf cent sept, en un seul exemplaire qui restera déposé, dans les archives du Gouvernement des Pays-Bas et dont des copies certifiées conformes, seront remises par la voie diplomatique aux Puissances contractantes. (Suivent les signatures)
 
-Champ d’application le 5 juillet 2016**[^t-2]**
+Champ d’application le 18 mai 2022[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud</td><td>22 octobre</td><td>1998 A</td><td>21 décembre</td><td>1998</td></tr>
 <tr><td>Albanie</td><td>28 octobre</td><td>2011 A</td><td>27 décembre</td><td>2011</td></tr>
 <tr><td>Allemagne</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
@@ -679,6 +679,8 @@ Champ d’application le 5 juillet 2016**[^t-2]**
 <tr><td>Canada\*</td><td>10 mai</td><td>1994</td><td>9 juillet</td><td>1994</td></tr>
 <tr><td>Chili\*</td><td>19 novembre</td><td>1997</td><td>18 janvier</td><td>1998</td></tr>
 <tr><td>Chine</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
+<tr><td>Hong Kong</td><td>1<sup>er</sup> juillet</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
+<tr><td>Macao</td><td>20 décembre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
 <tr><td>Chypre</td><td>13 septembre</td><td>1993 A</td><td>12 novembre</td><td>1993</td></tr>
 <tr><td>Colombie</td><td>16 janvier</td><td>1997</td><td>17 mars</td><td>1997</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>25 mars</td><td>1961 A</td><td>25 mars</td><td>1961</td></tr>
@@ -687,14 +689,15 @@ Champ d’application le 5 juillet 2016**[^t-2]**
 <tr><td>Cuba</td><td>22 février</td><td>1912</td><td>22 avril</td><td>1912</td></tr>
 <tr><td>Danemark</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
 <tr><td>Djibouti</td><td>17 février</td><td>2016 A</td><td>17 avril</td><td>2016</td></tr>
-<tr><td>Egypte</td><td>5 septembre</td><td>1968 A</td><td>4 novembre</td><td>1968</td></tr>
+<tr><td>Égypte</td><td>5 septembre</td><td>1968 A</td><td>4 novembre</td><td>1968</td></tr>
 <tr><td>El Salvador</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
-<tr><td>Emirats arabes unis</td><td>6 novembre</td><td>2008 A</td><td>5 janvier</td><td>2009</td></tr>
-<tr><td>Erythrée</td><td>5 août</td><td>1997 A</td><td>4 octobre</td><td>1997</td></tr>
+<tr><td>Émirats arabes unis</td><td>6 novembre</td><td>2008 A</td><td>5 janvier</td><td>2009</td></tr>
+<tr><td>Érythrée</td><td>5 août</td><td>1997 A</td><td>4 octobre</td><td>1997</td></tr>
 <tr><td>Espagne\*</td><td>18 mars</td><td>1913</td><td>17 mai</td><td>1913</td></tr>
 <tr><td>Estonie</td><td>3 juillet</td><td>2003 A</td><td>1<sup>er</sup> septembre</td><td>2003</td></tr>
-<tr><td>Etats-Unis\*</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
-<tr><td>Ethiopie</td><td>30 juillet</td><td>2003 A</td><td>28 septembre</td><td>2003</td></tr>
+<tr><td>Eswatini</td><td>26 octobre</td><td>1970 A</td><td>25 décembre</td><td>1970</td></tr>
+<tr><td>États-Unis\*</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
+<tr><td>Éthiopie</td><td>30 juillet</td><td>2003 A</td><td>28 septembre</td><td>2003</td></tr>
 <tr><td>Finlande</td><td>10 avril</td><td>1922 A</td><td>9 juin</td><td>1922</td></tr>
 <tr><td>France</td><td>7 octobre</td><td>1910</td><td>6 décembre</td><td>1910</td></tr>
 <tr><td>Géorgie\*</td><td>21 janvier</td><td>2015 A</td><td>22 mars</td><td>2015</td></tr>
@@ -719,12 +722,13 @@ Champ d’application le 5 juillet 2016**[^t-2]**
 <tr><td>Liechtenstein\*</td><td>25 juillet</td><td>1994 A</td><td>23 septembre</td><td>1994</td></tr>
 <tr><td>Lituanie\*</td><td>10 novembre</td><td>2004 A</td><td>9 janvier</td><td>2005</td></tr>
 <tr><td>Luxembourg</td><td>5 septembre</td><td>1912</td><td>4 novembre</td><td>1912</td></tr>
-<tr><td>Macédoine</td><td>19 décembre</td><td>2000 A</td><td>17 février</td><td>2001</td></tr>
+<tr><td>Macédoine du Nord</td><td>19 décembre</td><td>2000 A</td><td>17 février</td><td>2001</td></tr>
 <tr><td>Madagascar</td><td>7 octobre</td><td>2009 A</td><td>6 décembre</td><td>2009</td></tr>
 <tr><td>Malaisie</td><td>7 mars</td><td>2002 A</td><td>6 mai</td><td>2002</td></tr>
 <tr><td>Malte</td><td>9 juillet</td><td>1968 A</td><td>7 septembre</td><td>1968</td></tr>
 <tr><td>Maroc</td><td>5 avril</td><td>2001 A</td><td>4 juin</td><td>2001</td></tr>
 <tr><td>Mexique\*</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
+<tr><td>Mongolie</td><td>15 mars</td><td>2019 A</td><td>14 mai</td><td>2019</td></tr>
 <tr><td>Nicaragua</td><td>16 décembre</td><td>1909 A</td><td>14 février</td><td>1910</td></tr>
 <tr><td>Nigéria</td><td>18 décembre</td><td>1986 A</td><td>16 février</td><td>1987</td></tr>
 <tr><td>Norvège</td><td>19 septembre</td><td>1910</td><td>18 novembre</td><td>1910</td></tr>
@@ -742,11 +746,21 @@ Champ d’application le 5 juillet 2016**[^t-2]**
 <tr><td>Pologne</td><td>27 mars</td><td>1922 A</td><td>26 mai</td><td>1922</td></tr>
 <tr><td>Portugal</td><td>13 avril</td><td>1911</td><td>12 juin</td><td>1911</td></tr>
 <tr><td>Qatar</td><td>3 octobre</td><td>2005 A</td><td>2 décembre</td><td>2005</td></tr>
+<tr><td>République dominicaine</td><td>9 juillet</td><td>1958</td><td>7 septembre</td><td>1958</td></tr>
+<tr><td>République tchèque</td><td>11 octobre</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Roumanie\*</td><td>1<sup>er</sup> mars</td><td>1912</td><td>30 avril</td><td>1912</td></tr>
 <tr><td>Royaume-Uni</td><td>13 août</td><td>1970</td><td>12 octobre</td><td>1970</td></tr>
 <tr><td>Anguilla</td><td>13 août</td><td>1970</td><td>12 octobre</td><td>1970</td></tr>
-<tr><td>République dominicaine</td><td>9 juillet</td><td>1958</td><td>7 septembre</td><td>1958</td></tr>
-<tr><td>République tchèque</td><td>11 octobre</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Bermudes</td><td>12 octobre</td><td>1970</td><td>12 octobre</td><td>1970</td></tr>
+<tr><td>Géorgie du Sud et Îles Sandwich du Sud</td><td>12 octobre</td><td>1970</td><td>12 octobre</td><td>1970</td></tr>
+<tr><td>Gibraltar</td><td>12 octobre</td><td>1970</td><td>12 octobre</td><td>1970</td></tr>
+<tr><td>Îles Cayman</td><td>12 octobre</td><td>1970</td><td>12 octobre</td><td>1970</td></tr>
+<tr><td>Îles Falkland</td><td>12 octobre</td><td>1970</td><td>12 octobre</td><td>1970</td></tr>
+<tr><td>Îles Pitcairn (Ducie, Oeno, Henderson et Pitcairn)</td><td>12 octobre</td><td>1970</td><td>12 octobre</td><td>1970</td></tr>
+<tr><td>Îles Turques et Caïques</td><td>12 octobre</td><td>1970</td><td>12 octobre</td><td>1970</td></tr>
+<tr><td>Montserrat</td><td>12 octobre</td><td>1970</td><td>12 octobre</td><td>1970</td></tr>
+<tr><td>Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)</td><td>12 octobre</td><td>1970</td><td>12 octobre</td><td>1970</td></tr>
+<tr><td>Territoire antarctique britannique</td><td>12 octobre</td><td>1970</td><td>12 octobre</td><td>1970</td></tr>
 <tr><td>Russie\*</td><td>7 mars</td><td>1955 A</td><td>7 mars</td><td>1955</td></tr>
 <tr><td>Rwanda</td><td>29 avril</td><td>2011 A</td><td>28 juin</td><td>2011</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>5 septembre</td><td>2014 A</td><td>4 novembre</td><td>2014</td></tr>
@@ -758,17 +772,16 @@ Champ d’application le 5 juillet 2016**[^t-2]**
 <tr><td>Suède</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
 <tr><td>Suisse\*</td><td>12 mai</td><td>1910</td><td>11 juillet</td><td>1910</td></tr>
 <tr><td>Suriname</td><td>28 octobre</td><td>1992 A</td><td>27 décembre</td><td>1992</td></tr>
-<tr><td>Swaziland</td><td>26 octobre</td><td>1970 A</td><td>25 décembre</td><td>1970</td></tr>
 <tr><td>Thaïlande</td><td>12 mars</td><td>1910</td><td>11 mai</td><td>1910</td></tr>
 <tr><td>Togo</td><td>18 octobre</td><td>2004 A</td><td>17 décembre</td><td>2004</td></tr>
 <tr><td>Ukraine\*</td><td>4 avril</td><td>1962 A</td><td>4 avril</td><td>1962</td></tr>
 <tr><td>Vietnam</td><td>29 décembre</td><td>2011 A</td><td>27 février</td><td>2012</td></tr>
 <tr><td>Zambie</td><td>1<sup>er</sup> novembre</td><td>1999 A</td><td>31 décembre</td><td>1999</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Gouvernement des Pays-Bas: https://treatydatabase.overheid.nl/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet du Gouvernement des Pays-Bas: https://treatydatabase.overheid.nl/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 <tr><td colspan="5"><sup>a</sup> La Convention ne s’applique pas à Tokelau.</td></tr>
 </table>
 
-[^t-2]: [RO 1971 1813](https://fedlex.data.admin.ch/eli/oc/1971/1808_1813_1813), [1977 1466](https://fedlex.data.admin.ch/eli/oc/1977/1466_1466_1466),[1982 2260](https://fedlex.data.admin.ch/eli/oc/1982/2260_2260_2260), [1987 796](https://fedlex.data.admin.ch/eli/oc/1987/796_796_796), [1994 1118](https://fedlex.data.admin.ch/eli/oc/1994/1118_1118_1118),[2004 2009](https://fedlex.data.admin.ch/eli/oc/2004/223), [2006 749](https://fedlex.data.admin.ch/eli/oc/2006/102), [2009 3145](https://fedlex.data.admin.ch/eli/oc/2009/389), [2011 3291](https://fedlex.data.admin.ch/eli/oc/2011/434), [2015 1121](https://fedlex.data.admin.ch/eli/oc/2015/224), [2016 2617](https://fedlex.data.admin.ch/eli/oc/2016/411). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1971 1813](https://fedlex.data.admin.ch/eli/oc/1971/1808_1813_1813), [1977 1466](https://fedlex.data.admin.ch/eli/oc/1977/1466_1466_1466),[1982 2260](https://fedlex.data.admin.ch/eli/oc/1982/2260_2260_2260), [1987 796](https://fedlex.data.admin.ch/eli/oc/1987/796_796_796), [1994 1118](https://fedlex.data.admin.ch/eli/oc/1994/1118_1118_1118),[2004 2009](https://fedlex.data.admin.ch/eli/oc/2004/223), [2006 749](https://fedlex.data.admin.ch/eli/oc/2006/102), [2009 3145](https://fedlex.data.admin.ch/eli/oc/2009/389), [2011 3291](https://fedlex.data.admin.ch/eli/oc/2011/434), [2015 1121](https://fedlex.data.admin.ch/eli/oc/2015/224), [2016 2617](https://fedlex.data.admin.ch/eli/oc/2016/411), [2022 448](https://fedlex.data.admin.ch/eli/oc/2022/448). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.
 
 Réserve
 
@@ -782,7 +795,7 @@ Acte final de la Deuxième Conférence internationale de la Paix
 
 Signé à La Haye le 18 octobre 1907
 
-La Deuxième Conférence Internationale de la Paix, proposée d’abord par Monsieur le Président des Etats-Unis d’Amérique, ayant été, sur l’invitation de Sa Majesté l’Empereur de Toutes les Russies, convoquée par Sa Majesté la Reine des Pays-Bas, s’est réunie le 15 juin 1907 à La Haye, dans la Salle des Chevaliers, avec la mission de donner un développement nouveau aux principes humanitaires qui ont servi de base à l’œuvre de la Première Conférence de 1899.
+La Deuxième Conférence Internationale de la Paix, proposée d’abord par Monsieur le Président des États-Unis d’Amérique, ayant été, sur l’invitation de Sa Majesté l’Empereur de Toutes les Russies, convoquée par Sa Majesté la Reine des Pays-Bas, s’est réunie le 15 juin 1907 à La Haye, dans la Salle des Chevaliers, avec la mission de donner un développement nouveau aux principes humanitaires qui ont servi de base à l’œuvre de la Première Conférence de 1899.
 
 Les Puissances, dont l’énumération suit, ont pris part à la Conférence, pour laquelle elles avaient désigné les Délégués nommés ci-après:
 
@@ -811,8 +824,8 @@ La Conférence, se conformant à l’esprit d’entente et de concessions récip
 
 Elle est unanime,
 
-- 1\. A reconnaître le principe de l’arbitrage obligatoire;
-- 2\. A déclarer que certains différends, et notamment ceux relatifs à l’interprétation et à l’application des stipulations conventionnelles internationales, sont susceptibles d’être soumis à l’arbitrage obligatoire sans aucune restriction.
+- 1\. À reconnaître le principe de l’arbitrage obligatoire;
+- 2\. À déclarer que certains différends, et notamment ceux relatifs à l’interprétation et à l’application des stipulations conventionnelles internationales, sont susceptibles d’être soumis à l’arbitrage obligatoire sans aucune restriction.
 
 Elle est unanime enfin à proclamer que, s’il n’a pas été donné de conclure dès maintenant une Convention en ce sens, les divergences d’opinion qui se sont manifestées n’ont pas dépassé les limites d’une controverse juridique, et qu’en travaillant ici ensemble pendant quatre mois, toutes les Puissances du monde, non seulement ont appris à se comprendre et à se rapprocher davantage, mais ont su dégager, au cours de cette longue collaboration, un sentiment très élevé du bien commun de l’humanité.
 
@@ -823,7 +836,7 @@ La Deuxième Conférence de la Paix confirme la Résolution adoptée par la Conf
 Elle a, de plus, émis les Vœux suivants:
 
 - 1\. La Conférence recommande aux Puissances signataires l’adoption du projet ci-annexé de Convention pour l’établissement d’une Cour de Justice arbitrale, et sa mise en vigueur dès qu’un accord sera intervenu sur le choix des juges et la constitution de la Cour.[^t-9]
-- 2\. La Conférence émet le vœu qu’en cas de guerre, les autorités compétentes, civiles et militaires, se fassent un devoir tout spécial d’assurer et de protéger le maintien des rapports pacifiques et notamment des relations commerciales et industrielles entre les populations des Etats belligérants et les pays neutres.
+- 2\. La Conférence émet le vœu qu’en cas de guerre, les autorités compétentes, civiles et militaires, se fassent un devoir tout spécial d’assurer et de protéger le maintien des rapports pacifiques et notamment des relations commerciales et industrielles entre les populations des États belligérants et les pays neutres.
 - 3\. La Conférence émet le vœu que les Puissances règlent, par des Conventions particulières, la situation, au point de vue des Charges militaires, des étrangers établis sur leurs territoires.
 - 4\. La Conférence émet le vœu que l’élaboration d’un règlement relatif aux lois et coutumes de la guerre-maritime figure au programme de la prochaine Conférence et que, dans tous les cas, les Puissances appliquent, autant que possible, à la guerre sur mer, les principes de la Convention relative aux lois et coutumes de la guerre sur terre[^t-10].
 

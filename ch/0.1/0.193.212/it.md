@@ -3,11 +3,11 @@ sr: "0.193.212"
 title: Convenzione del 18 ottobre 1907 per la risoluzione pacifica dei conflitti internazionali (con Atto finale)
 eli: "https://fedlex.data.admin.ch/eli/cc/26/305_271_293"
 language: it
-version: 2016-07-05
+version: 2022-05-18
 adopted: 1907-10-18
 in_force: 1910-07-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/26/305_271_293/20160705/it/xml/fedlex-data-admin-ch-eli-cc-26-305_271_293-20160705-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/26/305_271_293/20160705/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/26/305_271_293/20220518/it/xml/fedlex-data-admin-ch-eli-cc-26-305_271_293-20220518-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/26/305_271_293/20220518/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/26/305_271_293/20160705/it"
 
 CS **11** 196; FF **1909** I l ediz. ted. 97 ediz. franc.
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conchiusa all’Aja il 18 ottobre 1907 Approvata dall’Assemblea federale il 4 aprile 1910[^t-2] Istrumento di ratificazione depositato dalla Svizzera il 12 maggio 1910 Entrata in vigore per la Svizzera l’11 luglio 1910
+Conchiusa all’Aja il 18 ottobre 1907 Approvata dall’Assemblea federale il 4 aprile 1910[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 12 maggio 1910 Entrata in vigore per la Svizzera l’11 luglio 1910
 
-(Stato 5 luglio 2016)
+(Stato 18 maggio 2022)
 
-[^t-1]: Dal testo originale francese.
-[^t-2]: CS **11** 217
+[^t-1]: CS **11** 217
 
 Sua Maestà l’Imperatore di Germania, Re di Prussia; il Presidente degli Stati Uniti d’America; il Presidente della Repubblica Argentina; Sua Maestà l’Imperatore d’Austria, Re di Boemia, ecc., e Re Apostolico di Ungheria; Sua Maestà il Re dei Belgi; il Presidente della Repubblica di Bolivia; il Presidente della Repubblica degli Stati Uniti del Brasile; Sua Altezza Reale il Principe di Bulgaria; il Presidente della Repubblica del Chili; Sua Maestà l’Imperatore della Cina; il Presidente della Repubblica di Colombia; il Governatore Provvisorio della Repubblica di Cuba; Sua Maestà il Re di Danimarca; il Presidente della Repubblica Dominicana; il Presidente della Repubblica dell’Equatore; Sua Maestà il Re di Spagna; il Presidente della Repubblica Francese; Sua Maestà il Re del Regno Unito di Gran Bretagna e d’Irlanda e dei Territori Britannici al di là dei Mari, Imperatore delle Indie; Sua Maestà il Re degli Elleni; il Presidente della Repubblica di Guatemala; il Presidente della Repubblica di Haiti; Sua Maestà il Re d’Italia; Sua Maestà l’Imperatore del Giappone; Sua Altezza Reale il Granduca di Lussemburgo, Duca di Nassau; il Presidente degli Stati Uniti Messicani; Sua Altezza Reale il Principe di Montenegro; Sua Maestà il Re di Norvegia; il Presidente della Repubblica di Panama; il Presidente della Repubblica del Paraguay; Sua Maestà la Regina dei Paesi Bassi; il Presidente della Repubblica del Perù; Sua Maestà Imperiale lo Scià di Persia; Sua Maestà il Re di Portogallo e degli Algarvi, ecc.; Sua Maestà il Re di Romania; Sua Maestà l’Imperatore di Tutte le Russie; il Presidente della Repubblica del Salvador; Sua Maestà il Re di Serbia; Sua Maestà il Re del Siam; Sua Maestà il Re di Svezia; il Consiglio Federale Svizzero; Sua Maestà l’Imperatore degli Ottomani; il Presidente della Repubblica Orientale dell\`Uruguay; il Presidente degli Stati Uniti del Venezuela,
 
@@ -650,7 +649,7 @@ Ciascuna Potenza contraente è ammessa ad esaminare tale registro e a domandarne
 
 *In fede di che,* i Plenipotenziari hanno munito la presente Convenzione delle loro firme. Fatto all’Aja, il diciotto ottobre millenovecentosette, in un solo esemplare che resterà depositato nell’archivio del Governo dei Paesi Bassi e di cui copie certificate conformi saranno rimesse nelle vie diplomatiche alle Potenze contraenti. (Seguono le firme)
 
-Campo d’applicazione il 5 luglio 2016**[^t-3]**
+Campo d’applicazione il 18 maggio 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -675,6 +674,8 @@ Campo d’applicazione il 5 luglio 2016**[^t-3]**
 <tr><td>Ceca, Repubblica</td><td>11 ottobre</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Cile<sup>\*</sup></td><td>19 novembre</td><td>1997</td><td>18 gennaio</td><td>1998</td></tr>
 <tr><td>Cina</td><td>27 novembre</td><td>1909</td><td>26 gennaio</td><td>1910</td></tr>
+<tr><td>Hong Kong</td><td>1° luglio</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
+<tr><td>Macao</td><td>20 dicembre</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
 <tr><td>Cipro</td><td>13 settembre</td><td>1993 A</td><td>12 novembre</td><td>1993</td></tr>
 <tr><td>Colombia</td><td>16 gennaio</td><td>1997</td><td>17 marzo</td><td>1997</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>25 marzo</td><td>1961 A</td><td>25 marzo</td><td>1961</td></tr>
@@ -688,6 +689,7 @@ Campo d’applicazione il 5 luglio 2016**[^t-3]**
 <tr><td>Emirati Arabi Uniti</td><td>6 novembre</td><td>2008 A</td><td>5 gennaio</td><td>2009</td></tr>
 <tr><td>Eritrea</td><td>5 agosto</td><td>1997 A</td><td>4 ottobre</td><td>1997</td></tr>
 <tr><td>Estonia</td><td>3 luglio</td><td>2003 A</td><td>1° settembre</td><td>2003</td></tr>
+<tr><td>Eswatini</td><td>26 ottobre</td><td>1970 A</td><td>25 dicembre</td><td>1970</td></tr>
 <tr><td>Etiopia</td><td>30 luglio</td><td>2003 A</td><td>28 settembre</td><td>2003</td></tr>
 <tr><td>Filippine</td><td>14 luglio</td><td>2010 A</td><td>12 settembre</td><td>2010</td></tr>
 <tr><td>Finlandia</td><td>10 aprile</td><td>1922 A</td><td>9 giugno</td><td>1922</td></tr>
@@ -716,7 +718,7 @@ Campo d’applicazione il 5 luglio 2016**[^t-3]**
 <tr><td>Liechtenstein<sup>\*</sup></td><td>25 luglio</td><td>1994 A</td><td>23 settembre</td><td>1994</td></tr>
 <tr><td>Lituania<sup>\*</sup></td><td>10 novembre</td><td>2004 A</td><td>9 gennaio</td><td>2005</td></tr>
 <tr><td>Lussemburgo</td><td>5 settembre</td><td>1912</td><td>4 novembre</td><td>1912</td></tr>
-<tr><td>Macedonia</td><td>19 dicembre</td><td>2000 A</td><td>17 febbraio</td><td>2001</td></tr>
+<tr><td>Macedonia del Nord</td><td>19 dicembre</td><td>2000 A</td><td>17 febbraio</td><td>2001</td></tr>
 <tr><td>Madagascar</td><td>7 ottobre</td><td>2009 A</td><td>6 dicembre</td><td>2009</td></tr>
 <tr><td>Malaysia</td><td>7 marzo</td><td>2002 A</td><td>6 maggio</td><td>2002</td></tr>
 <tr><td>Malta</td><td>9 luglio</td><td>1968 A</td><td>7 settembre</td><td>1968</td></tr>
@@ -739,6 +741,16 @@ Campo d’applicazione il 5 luglio 2016**[^t-3]**
 <tr><td>Qatar</td><td>3 ottobre</td><td>2005 A</td><td>2 dicembre</td><td>2005</td></tr>
 <tr><td>Regno Unito</td><td>13 agosto</td><td>1970</td><td>12 ottobre</td><td>1970</td></tr>
 <tr><td>Anguilla</td><td>13 agosto</td><td>1970</td><td>12 ottobre</td><td>1970</td></tr>
+<tr><td>Bermuda</td><td>12 ottobre</td><td>1970</td><td>12 ottobre</td><td>1970</td></tr>
+<tr><td>Cayman, Isole</td><td>12 ottobre</td><td>1970</td><td>12 ottobre</td><td>1970</td></tr>
+<tr><td>Falkland, Isole</td><td>12 ottobre</td><td>1970</td><td>12 ottobre</td><td>1970</td></tr>
+<tr><td>Georgia del Sud e Sandwich Australi, Isole</td><td>12 ottobre</td><td>1970</td><td>12 ottobre</td><td>1970</td></tr>
+<tr><td>Gibilterra</td><td>12 ottobre</td><td>1970</td><td>12 ottobre</td><td>1970</td></tr>
+<tr><td>Montserrat</td><td>12 ottobre</td><td>1970</td><td>12 ottobre</td><td>1970</td></tr>
+<tr><td>Pitcairn, Isole (Ducie, Oeno, Henderson e Pitcairn)</td><td>12 ottobre</td><td>1970</td><td>12 ottobre</td><td>1970</td></tr>
+<tr><td>Sant’Elena e dipendenze (Ascension e Tristan da Cunha)</td><td>12 ottobre</td><td>1970</td><td>12 ottobre</td><td>1970</td></tr>
+<tr><td>Territorio antartico britannico</td><td>12 ottobre</td><td>1970</td><td>12 ottobre</td><td>1970</td></tr>
+<tr><td>Turks e Caicos, Isole</td><td>12 ottobre</td><td>1970</td><td>12 ottobre</td><td>1970</td></tr>
 <tr><td>Romania<sup>\*</sup></td><td>1° marzo</td><td>1912</td><td>30 aprile</td><td>1912</td></tr>
 <tr><td>Ruanda</td><td>29 aprile</td><td>2011 A</td><td>28 giugno</td><td>2011</td></tr>
 <tr><td>Russia<sup>\*</sup></td><td>7 marzo</td><td>1955 A</td><td>7 marzo</td><td>1955</td></tr>
@@ -754,7 +766,6 @@ Campo d’applicazione il 5 luglio 2016**[^t-3]**
 <tr><td>Suriname</td><td>28 ottobre</td><td>1992 A</td><td>27 dicembre</td><td>1992</td></tr>
 <tr><td>Svezia</td><td>27 novembre</td><td>1909</td><td>26 gennaio</td><td>1910</td></tr>
 <tr><td>Svizzera<sup>\*</sup></td><td>12 maggio</td><td>1910</td><td>11 luglio</td><td>1910</td></tr>
-<tr><td>Swaziland</td><td>26 ottobre</td><td>1970 A</td><td>25 dicembre</td><td>1970</td></tr>
 <tr><td>Thailandia</td><td>12 marzo</td><td>1910</td><td>11 maggio</td><td>1910</td></tr>
 <tr><td>Togo</td><td>18 ottobre</td><td>2004 A</td><td>17 dicembre</td><td>2004</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>4 aprile</td><td>1962 A</td><td>4 aprile</td><td>1962</td></tr>
@@ -764,15 +775,15 @@ Campo d’applicazione il 5 luglio 2016**[^t-3]**
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazione non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Governo Paesi Bassi: https://treatydatabase.overheid.nl/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica a Tokelau.</td></tr>
 </table>
 
-[^t-3]: [RU 1971 1813](https://fedlex.data.admin.ch/eli/oc/1971/1808_1813_1813), [1977 1466](https://fedlex.data.admin.ch/eli/oc/1977/1466_1466_1466), [1982 2260](https://fedlex.data.admin.ch/eli/oc/1982/2260_2260_2260), [1987 796](https://fedlex.data.admin.ch/eli/oc/1987/796_796_796), [1994 1118](https://fedlex.data.admin.ch/eli/oc/1994/1118_1118_1118), [2004 2009](https://fedlex.data.admin.ch/eli/oc/2004/223), [2006 749](https://fedlex.data.admin.ch/eli/oc/2006/102), [2009 3145](https://fedlex.data.admin.ch/eli/oc/2009/389), [2011 3291](https://fedlex.data.admin.ch/eli/oc/2011/434), [2015 1121](https://fedlex.data.admin.ch/eli/oc/2015/224), [2016 2617](https://fedlex.data.admin.ch/eli/oc/2016/411). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1971 1813](https://fedlex.data.admin.ch/eli/oc/1971/1808_1813_1813); [1977 1466](https://fedlex.data.admin.ch/eli/oc/1977/1466_1466_1466); [1982 2260](https://fedlex.data.admin.ch/eli/oc/1982/2260_2260_2260); [1987 796](https://fedlex.data.admin.ch/eli/oc/1987/796_796_796); [1994 1118](https://fedlex.data.admin.ch/eli/oc/1994/1118_1118_1118); [2004 2009](https://fedlex.data.admin.ch/eli/oc/2004/223); [2006 749](https://fedlex.data.admin.ch/eli/oc/2006/102); [2009 3145](https://fedlex.data.admin.ch/eli/oc/2009/389); [2011 3291](https://fedlex.data.admin.ch/eli/oc/2011/434); [2015 1121](https://fedlex.data.admin.ch/eli/oc/2015/224); [2016 2617](https://fedlex.data.admin.ch/eli/oc/2016/411); [2022 448](https://fedlex.data.admin.ch/eli/oc/2022/448). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
 
 Riserva
 
-**Svizzera**[^t-4]
+**Svizzera**[^t-3]
 
 Con riserva dell’articolo 53 numero 2.
 
-[^t-4]: N. I del DF del 4 apr. 1910 (CS **11** 217).
+[^t-3]: No I del DF del 4 apr. 1910 (CS **11** 217).
 
 Atto finale della Seconda Conferenza internazionale per la Pace
 
@@ -786,20 +797,20 @@ Le Potenze, di cui segue l’enumerazione, hanno preso parte alla Conferenza, pe
 
 In una serie di riunioni, tenute dal 15 giugno al 18 ottobre 1907, nelle quali i Delegati delle Potenze sono stati costantemente animati dal desiderio di attuare, nella maggior misura possibile, le vedute generose dell’Augusto Iniziatore della Conferenza e le intenzioni dei loro Governi, la Conferenza ha stabilito, per essere sottoposto alla firma dei Plenipotenziari, il testo delle Convenzioni e della Dichiarazione enumerate qui appresso e allegate al presente Atto:
 
-- I. Convenzione per la risoluzione pacifica dei conflitti internazionali[^t-5].
-- II. Convenzione concernente la limitazione dell’uso della forza per la ricuperazione dei debiti contrattuali[^t-6].
-- III. Convenzione concernente l’apertura delle ostilità[^t-7].
-- IV. Convenzione concernente le leggi e i costumi della guerra per terra[^t-8].
-- V. Convenzione concernente i diritti e i doveri delle Potenze e delle persone neutrali in caso di guerra per terra[^t-9].
-- VI. Convenzione concernente il regime delle navi di commercio nemiche allo scoppiare delle ostilità[^t-10].
-- VII. Convenzione concernente la trasformazione delle navi di commercio in bastimenti da guerra[^t-11].
-- VIII. Convenzione concernente il collocamento di mine sottomarine automatiche di contatto[^t-12].
-- IX. Convenzione concernente il bombardamento con forze navali in tempo di guerra[^t-13].
-- X. Convenzione per l’adattamento alla guerra marittima dei principi della Convenzione di Ginevra[^t-14].
-- XI. Convenzione concernente certe restrizioni all’esercizio del diritto di cattura nella guerra marittima[^t-15].
-- XII. Convenzione concernente l’istituzione di una Corte internazionale delle prede[^t-16].
-- XIII. Convenzione concernente i diritti e i doveri delle Potenze neutrali in caso di guerra marittima[^t-17].
-- XIV. Dichiarazione circa la proibizione di lanciare proiettili ed esplodenti dall’alto dei palloni[^t-18].
+- I. Convenzione per la risoluzione pacifica dei conflitti internazionali[^t-4].
+- II. Convenzione concernente la limitazione dell’uso della forza per la ricuperazione dei debiti contrattuali[^t-5].
+- III. Convenzione concernente l’apertura delle ostilità[^t-6].
+- IV. Convenzione concernente le leggi e i costumi della guerra per terra[^t-7].
+- V. Convenzione concernente i diritti e i doveri delle Potenze e delle persone neutrali in caso di guerra per terra[^t-8].
+- VI. Convenzione concernente il regime delle navi di commercio nemiche allo scoppiare delle ostilità[^t-9].
+- VII. Convenzione concernente la trasformazione delle navi di commercio in bastimenti da guerra[^t-10].
+- VIII. Convenzione concernente il collocamento di mine sottomarine automatiche di contatto[^t-11].
+- IX. Convenzione concernente il bombardamento con forze navali in tempo di guerra[^t-12].
+- X. Convenzione per l’adattamento alla guerra marittima dei principi della Convenzione di Ginevra[^t-13].
+- XI. Convenzione concernente certe restrizioni all’esercizio del diritto di cattura nella guerra marittima[^t-14].
+- XII. Convenzione concernente l’istituzione di una Corte internazionale delle prede[^t-15].
+- XIII. Convenzione concernente i diritti e i doveri delle Potenze neutrali in caso di guerra marittima[^t-16].
+- XIV. Dichiarazione circa la proibizione di lanciare proiettili ed esplodenti dall’alto dei palloni[^t-17].
 
 Queste Convenzioni e questa Dichiarazione formeranno altrettanti atti separati. Tali atti porteranno la data d’oggi e potranno essere firmati fino al 30 giugno 1908 all’Aja dai Plenipotenziari delle Potenze rappresentate alla Seconda Conferenza per la Pace.
 
@@ -814,38 +825,20 @@ Essa è infine unanime nel proclamare, che se non è stato concesso di concluder
 
 Inoltre, la Conferenza ha accettato all’unanimità la seguente Risoluzione:
 
-La Seconda Conferenza per la Pace conferma la Risoluzione accettata dalla Conferenza del 1899 circa la limitazione delle spese militari[^t-19]; e considerando che le spese militari si sono considerevolmente accresciute dopo il detto anno in quasi tutti i paesi, la Conferenza dichiara che è grandemente desiderabile che i Governi riprendano lo studio serio di tale questione. Essa ha inoltre espresso i seguenti Voti:
+La Seconda Conferenza per la Pace conferma la Risoluzione accettata dalla Conferenza del 1899 circa la limitazione delle spese militari[^t-18]; e considerando che le spese militari si sono considerevolmente accresciute dopo il detto anno in quasi tutti i paesi, la Conferenza dichiara che è grandemente desiderabile che i Governi riprendano lo studio serio di tale questione. Essa ha inoltre espresso i seguenti Voti:
 
-- 1\. La Conferenza raccomanda alle Potenze firmatarie di accettare l’allegato progetto di Convenzione per l’istituzione di una Corte di Giustizia arbitrale, e di attuarlo, dopo che sarà intervenuto un accordo su la scelta dei giudici e la costituzione della Corte[^t-20].
-- 2\. La Conferenza esprime il voto che in caso di guerra, le autorità competenti,
-- civili e militari, si facciano uno speciale dovere di assicurare e di proteggere il mantenimento dei rapporti pacifici e specialmente delle relazioni commerciali e industriali tra le popolazioni degli Stati belligeranti e i paesi neutrali.
-- 3\. La Conferenza esprime il voto che le Potenze regolino, mediante Convenzioni particolari, la condizione degli stranieri stabiliti nel loro territorio, per quanto riguarda gli obblighi militari.
-- 4\. La Conferenza esprime il voto che nel programma della prossima Conferenza sia compresa la compilazione di un regolamento sulle leggi e sui costumi della guerra marittima, e che in ogni caso le Potenze applichino, per quanto è possibile, alla guerra per mare, i principi della Convenzione concernente le leggi e i costumi della guerra per terra[^t-21].
-
-La Conferenza raccomanda, infine, alle Potenze che sia convocata una terza Conferenza per la Pace, che potrebbe aver luogo, entro un periodo analogo a quello decorso dopo la precedente Conferenza, a una data da fissarsi di comune accordo fra le Potenze, e richiama la loro attenzione sulla necessità di preparare i lavori di questa terza Conferenza molto tempo innanzi, affinché le sue deliberazioni proseguano con l’autorità e la rapidità necessarie.
-
-Per conseguire tale scopo, la Conferenza stima che sarebbe molto desiderabile che, circa due anni avanti il tempo probabile della riunione, un Comitato preparatorio fosse incaricato dai Governi di raccogliere le varie proposte da sottoporsi alla Conferenza, di ricercare le materie che possono formare l’oggetto d’un prossimo regolamento internazionale e di preparare un programma che i Governi stabilirebbero abbastanza in tempo per poter essere seriamente studiato in ogni paese. Questo Comitato sarebbe, inoltre, incaricato di proporre un modo d’organizzazione e di procedura per la Conferenza stessa.
-
-*In fede di che,* i Plenipotenziari hanno sottoscritto il presente atto e vi hanno apposto i loro sigilli.
-
-Fatto all’Aja, il diciotto ottobre millenovecentosette, in un solo esemplare che sarà depositato nell’archivio del Governo dei Paesi Bassi e di cui copie, certificate conformi, saranno rilasciate a tutte le Potenze rappresentate alla Conferenza.
-
-(Seguono le firme)
-
-[^t-5]: Vedi qui avanti.
-[^t-6]: Questa Conv. non è stata firmata dalla Svizzera.
-[^t-7]: [RS 0.515.10](https://fedlex.data.admin.ch/eli/cc/26/391_318_373)
-[^t-8]: [RS 0.515.112](https://fedlex.data.admin.ch/eli/cc/26/429_338_411)
-[^t-9]: [RS 0.515.21](https://fedlex.data.admin.ch/eli/cc/26/499_376_481)
-[^t-10]: [RS 0.515.122](https://fedlex.data.admin.ch/eli/cc/26/545_401_527)
-[^t-11]: [RS 0.515.123](https://fedlex.data.admin.ch/eli/cc/26/583_421_565)
-[^t-12]: [RS 0.515.124](https://fedlex.data.admin.ch/eli/cc/26/619_440_601)
-[^t-13]: [RS 0.515.125](https://fedlex.data.admin.ch/eli/cc/26/657_460_639)
-[^t-14]: [CS **11** 495. RU **1951** 215 art. 58].
-[^t-15]: [RS 0.515.126](https://fedlex.data.admin.ch/eli/cc/26/751_509_733)
-[^t-16]: Questa Conv. è stata ratificata solamente dal Nicaragua e non è mai entrata in vigore.
-[^t-17]: [RS 0.515.22](https://fedlex.data.admin.ch/eli/cc/26/793_530_775)
-[^t-18]: [RS 0.515.104](https://fedlex.data.admin.ch/eli/cc/26/843_556_825)
-[^t-19]: [RS 0.193.211](https://fedlex.data.admin.ch/eli/cc/18/517_433_502)Atto finale.
-[^t-20]: Il Consiglio federale svizzero non ha accettato questa raccomandazione.
-[^t-21]: [RS 0.515.112](https://fedlex.data.admin.ch/eli/cc/26/429_338_411)
+[^t-4]: Vedi qui avanti.
+[^t-5]: Questa Conv. non è stata firmata dalla Svizzera.
+[^t-6]: [RS 0.515.10](https://fedlex.data.admin.ch/eli/cc/26/391_318_373)
+[^t-7]: [RS 0.515.112](https://fedlex.data.admin.ch/eli/cc/26/429_338_411)
+[^t-8]: [RS 0.515.21](https://fedlex.data.admin.ch/eli/cc/26/499_376_481)
+[^t-9]: [RS 0.515.122](https://fedlex.data.admin.ch/eli/cc/26/545_401_527)
+[^t-10]: [RS 0.515.123](https://fedlex.data.admin.ch/eli/cc/26/583_421_565)
+[^t-11]: [RS 0.515.124](https://fedlex.data.admin.ch/eli/cc/26/619_440_601)
+[^t-12]: [RS 0.515.125](https://fedlex.data.admin.ch/eli/cc/26/657_460_639)
+[^t-13]: [CS **11** 495. RU **1951** 215 art. 58]
+[^t-14]: [RS 0.515.126](https://fedlex.data.admin.ch/eli/cc/26/751_509_733)
+[^t-15]: Questa Conv. è stata ratificata solamente dal Nicaragua e non è mai entrata in vigore.
+[^t-16]: [RS 0.515.22](https://fedlex.data.admin.ch/eli/cc/26/793_530_775)
+[^t-17]: [RS 0.515.104](https://fedlex.data.admin.ch/eli/cc/26/843_556_825)
+[^t-18]: [RS 0.193.211](https://fedlex.data.admin.ch/eli/cc/18/517_433_502)(Atto finale).
