@@ -4,13 +4,13 @@ number: "171.1"
 title: Geschäftsordnung des Grossen Rates des Kantons Thurgau
 short: GOGR
 language: de
-version: 2016-05-01
-valid_until: 2022-05-17
-version_adopted: 2016-03-09
+version: 2022-05-18
+valid_until: 2024-05-21
+version_adopted: 2021-10-27
 adopted: 2000-03-22
 in_force: 2000-05-24
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/171.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2499/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2504/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ GOGR
 
 (GOGR)
 
-vom 22.03.2000 (Stand 01.05.2016)
+vom 22.03.2000 (Stand 18.05.2022)
 
 ## 1. Konstituierung und Organisation
 
@@ -550,6 +550,24 @@ vom 22.03.2000 (Stand 01.05.2016)
 **Andere Anträge**
 
 <sup>1</sup> Für Anträge von Kommissionen oder Ratsmitgliedern an den Regierungsrat, welche die Einhaltung geltenden Rechtes, die Einholung von Berichten oder die Anordnung einer Untersuchung betreffen, gilt das Verfahren für Motionen sinngemäss.
+
+#### § 52a
+
+**Fragestunde**
+
+<sup>1</sup> Mit einer Frage wird vom Regierungsrat Auskunft über eine zu seinem Geschäftsbereich gehörende kantonale Angelegenheit verlangt.
+
+<sup>2</sup> Pro traktandierte Fragestunde darf von einem Ratsmitglied maximal eine Frage gestellt werden. Sie ist kurz und klar zu formulieren und zu begründen.
+
+<sup>3</sup> Die Frage ist bei den Parlamentsdiensten zuhanden des Präsidiums und zur Weiterleitung an den Regierungsrat bis am Mittwoch der Vorwoche vor der traktandierten Fragestunde schriftlich einzureichen.
+
+<sup>4</sup> Die Fragestunde findet in der Regel alle zwei Monate statt. Das Präsidium kann wegen übergeordneter Geschäfte oder aus zeitlichen Gründen die Fragestunde auf die Folgesitzung verschieben. Im Bedarfsfall kann eine zusätzliche Fragestunde traktandiert werden.
+
+<sup>5</sup> Der Regierungsrat beantwortet in der Fragestunde die eingereichten Fragen mündlich.
+
+<sup>6</sup> Eine sachbezogene Verständnis- oder Nachfrage ist zulässig.
+
+<sup>7</sup> Es findet keine Diskussion statt.
 
 ### 3.4. Volksinitiativen, Petitionen und andere Eingaben
 
