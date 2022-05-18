@@ -3,11 +3,11 @@ sr: "0.632.290.17"
 title: Accord du 9 décembre 2019 sous forme d’échange de lettres entre la Confédération suisse et l’Union européenne dans le cadre des négociations au titre de l’art. XXVIII du GATT de 1994 sur la modification des concessions de la Suisse à l’OMC en ce qui concerne la viande assaisonnée
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/247"
 language: fr
-version: 2021-01-01
+version: 2022-05-19
 adopted: 2019-12-09
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/247/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-247-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/247/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/247/20220519/fr/xml/fedlex-data-admin-ch-eli-cc-2021-247-20220519-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/247/20220519/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,9 +24,12 @@ Approuvé par l’Assemblée fédérale le 19 mars 2021[^t-1]
 
 Appliqué provisoirement dès le 1<sup>er</sup> janvier 2021
 
-(Etat le 1<sup>er</sup> janvier 2021)
+Entré en vigueur par échange de notes le 19 mai 2022[^t-2]
+
+(Etat le 19 mai 2022)
 
 [^t-1]: [FF 2021 679](https://fedlex.data.admin.ch/eli/fga/2021/679)
+[^t-2]: [RO 2022 341](https://fedlex.data.admin.ch/eli/oc/2022/341)
 
 ## A. Lettre de la Confédération suisse
 

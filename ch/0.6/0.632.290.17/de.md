@@ -3,11 +3,11 @@ sr: "0.632.290.17"
 title: Abkommen vom 9. Dezember 2019 in Form eines Briefwechsels zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Union im Rahmen von Verhandlungen gemäss Artikel XXVIII des GATT 1994 über die Änderung der WTO-Zugeständnisse der Schweiz für gewürztes Fleisch
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/247"
 language: de
-version: 2021-01-01
+version: 2022-05-19
 adopted: 2019-12-09
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/247/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2021-247-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/247/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/247/20220519/de/xml/fedlex-data-admin-ch-eli-cc-2021-247-20220519-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/247/20220519/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,9 +24,12 @@ Von der Bundesversammlung genehmigt am 19. März 2021[^t-1]
 
 Provisorisch angewendet seit dem 1. Januar 2021
 
-(Stand am 1. Januar 2021)
+In Kraft getreten am 19. Mai 2022[^t-2]
+
+(Stand am 19. Mai 2022)
 
 [^t-1]: [BBl 2021 679](https://fedlex.data.admin.ch/eli/fga/2021/679)
+[^t-2]: [AS 2022 341](https://fedlex.data.admin.ch/eli/oc/2022/341)
 
 ## A. Schreiben der Schweizerischen Eidgenossenschaft
 

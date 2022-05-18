@@ -3,11 +3,11 @@ sr: "0.632.290.17"
 title: Accordo del 9 dicembre 2019 in forma di scambio di lettere tra l’Unione europea e la Confederazione Svizzera nel quadro dei negoziati ai sensi dell’articolo XXVIII del GATT del 1994 sulla modifica delle concessioni della Svizzera all’OMC per quanto riguarda le carni insaporite
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/247"
 language: it
-version: 2021-01-01
+version: 2022-05-19
 adopted: 2019-12-09
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/247/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2021-247-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/247/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/247/20220519/it/xml/fedlex-data-admin-ch-eli-cc-2021-247-20220519-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/247/20220519/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,12 @@ RU **2021** 247; FF **2021** 348
 
 Testo originale
 
-Concluso a Bruxelles il 9 dicembre 2019
+Concluso a Bruxelles il 9 dicembre 2019 Approvato dall’Assemblea federale il 19 marzo 2021[^t-1] Applicato provvisoriamente dal 1° gennaio 2021 Entrato in vigore il 19 maggio 2022[^t-2]
 
-Approvato dall’Assemblea federale il 19 marzo 2021[^t-1]
-
-Applicato provvisoriamente dal 1° gennaio 2021
-
-(Stato 1° gennaio 2021)
+(Stato 19 maggio 2022)
 
 [^t-1]: [FF 2021 679](https://fedlex.data.admin.ch/eli/fga/2021/679)
+[^t-2]: [RU 2022 341](https://fedlex.data.admin.ch/eli/oc/2022/341)
 
 ## A. Lettera della Confederazione Svizzera
 
