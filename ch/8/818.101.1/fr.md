@@ -4,11 +4,11 @@ title: "Ordonnance du 29 avril 2015 sur la lutte contre les maladies transmissib
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: fr
-version: 2022-04-01
+version: 2022-05-20
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220520/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220520-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220520/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220401/fr"
 
 (Ordonnance sur les épidémies, OEp)
 
-du 29 avril 2015 (Etat le 1<sup>er</sup> avril 2022)
+du 29 avril 2015 (Etat le 20 mai 2022)
 
 Le Conseil fédéral suisse,
 
@@ -973,29 +973,21 @@ Le DFI peut ajouter d’autres médicaments dans l’annexe dès lors qu’ils r
 
 <sup>3</sup> Chaque médicament a une valeur comptable unique de 150 francs.
 
-<sup>4</sup>
-
-Lorsque le médicament est remis par un pharmacien admis comme fournisseur de prestations au sens de la LAMal, la Confédération prend en charge 4 fr. 20 supplémentaires pour la vérification, à condition que l’ordonnance comporte uniquement ledit médicament. Ce montant comprend les prestations suivantes:
-
-- a. vérification de l’ordonnance;
-- b. vérification de l’admissibilité;
-- c. vérification du dosage et des limitations éventuelles de quantité à l’intérieur de l’ordonnance;
-- d. contrôle des interactions dans le cadre du traitement;
-- e. vérification des facteurs de risque et des contre-indications, pour autant qu’ils soient connus du pharmacien;
-- f. prise de contact avec le médecin ayant délivré l’ordonnance, pour autant que cela soit médicalement nécessaire ou souhaité par le patient;
-- g. contrôle des abus à l’intérieur de l’ordonnance.
+<sup>4</sup> Lorsque le médicament est remis par un pharmacien admis comme fournisseur de prestations au sens de la LAMal, la Confédération prend en charge 24 francs supplémentaires pour les frais liés à la remise du médicament.[^64e-3]
 
 <sup>5</sup>
 
-La rémunération de la valeur comptable unique du médicament visée à l’al. 3 et de la vérification visée à l’al. 4 est effectuée selon le système du tiers payant au sens de l’art. 42, al. 2, LAMal. Elle est due par les assureurs dans les cas suivants:
+La rémunération de la valeur comptable unique du médicament visée à l’al. 3 et des frais liés à la remise du médicament visés à l’al. 4 est effectuée selon le système du tiers payant au sens de l’art. 42, al. 2, LAMal. Elle est due par les assureurs dans les cas suivants:[^64e-4]
 
-- a. pour les personnes qui disposent d’une assurance obligatoire des soins au sens de la LAMal, par la caisse-maladie visée à l’art. 2 de la loi du 26 septembre 2014 sur la surveillance de l’assurance-maladie[^64e-3], auprès de laquelle la personne traitée est assurée;
+- a. pour les personnes qui disposent d’une assurance obligatoire des soins au sens de la LAMal, par la caisse-maladie visée à l’art. 2 de la loi du 26 septembre 2014 sur la surveillance de l’assurance-maladie[^64e-5], auprès de laquelle la personne traitée est assurée;
 - b. pour les personnes qui sont assurées en cas de maladie auprès de l’assurance militaire, par l’assurance militaire;
 - c. pour les personnes qui ne disposent pas d’une assurance obligatoire des soins au sens de la LAMal par l’institution commune visée à l’art. 18 LAMal.
 
 [^64e-1]: Introduit par le ch. I de l’O du 16 fév. 2022 (Prise en charge des coûts des médicaments utilisés pour le traitement du COVID-19), en vigueur depuis le 17 fév. 2022 ([RO 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
 [^64e-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^64e-3]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^64e-3]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2022, en vigueur depuis le 20 mai 2022 ([RO 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)).
+[^64e-4]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2022, en vigueur depuis le 20 mai 2022 ([RO 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)).
+[^64e-5]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
 
 #### Art. 64f
 

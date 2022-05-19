@@ -4,11 +4,11 @@ title: "Ordinanza del 29 aprile 2015 concernente la lotta contro le malattie tra
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: it
-version: 2022-04-01
+version: 2022-05-20
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220520/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220520-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220520/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220401/it"
 
 (Ordinanza sulle epidemie, OEp)
 
-del 29 aprile 2015 (Stato 1° aprile 2022)
+del 29 aprile 2015 (Stato 20 maggio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -965,29 +965,21 @@ Il DFI può inserire ulteriori medicamenti nell’allegato, purché siano adempi
 
 <sup>3</sup> Ogni medicamento ha un valore contabile uniforme di 150 franchi.
 
-<sup>4</sup>
-
-In caso di consegna di un medicamento da parte di un farmacista autorizzato quale fornitore di prestazioni secondo la LAMal, la Confederazione assume in aggiunta 4.20 franchi per il controllo del medicamento, a condizione che la prescrizione menzioni esclusivamente tale medicamento. In questo importo sono comprese le seguenti prestazioni:
-
-- a. verifica della prescrizione;
-- b. verifica dell’ammissibilità;
-- c. verifica del dosaggio e di eventuali limitazioni quantitative all’interno della prescrizione;
-- d. controllo delle interazioni all’interno del trattamento;
-- e. controllo dei fattori di rischio e delle controindicazioni, se noti al farmacista;
-- f. contatto con il medico prescrivente, se necessario sotto il profilo medico o auspicato dal paziente;
-- g. controllo degli abusi all’interno della prescrizione.
+<sup>4</sup> In caso di consegna di un medicamento da parte di un farmacista autorizzato quale fornitore di prestazioni secondo la LAMal, la Confederazione assume in aggiunta 24 franchi per gli oneri associati alla consegna.[^64e-3]
 
 <sup>5</sup>
 
-La rimunerazione del valore contabile uniforme del medicamento di cui al capoverso 3 e del controllo del medicamento di cui al capoverso 4 avviene secondo il sistema del terzo pagante ai sensi dell’articolo 42 capoverso 2 LAMal. Sono debitori della rimunerazione i seguenti assicuratori:
+La rimunerazione del valore contabile uniforme del medicamento di cui al capoverso 3 e degli oneri associati alla consegna di cui al capoverso 4 avviene secondo il sistema del terzo pagante ai sensi dell’articolo 42 capoverso 2 LAMal. Sono debitori della rimunerazione i seguenti assicuratori:[^64e-4]
 
-- a. per le persone che dispongono di un’assicurazione obbligatoria delle cure me-dico-sanitarie secondo la LAMal, la cassa malati secondo l’articolo 2 della legge del 26 settembre 2014[^64e-3] sulla vigilanza sull’assicurazione malattie presso la quale è assicurata la persona trattata;
+- a. per le persone che dispongono di un’assicurazione obbligatoria delle cure me-dico-sanitarie secondo la LAMal, la cassa malati secondo l’articolo 2 della legge del 26 settembre 2014[^64e-5] sulla vigilanza sull’assicurazione malattie presso la quale è assicurata la persona trattata;
 - b. per le persone coperte contro malattia dall’assicurazione militare, l’assicurazione militare;
 - c. per le persone che non dispongono di un’assicurazione obbligatoria delle cure medico-sanitarie secondo la LAMal, l’istituzione comune di cui all’articolo 18 LAMal.
 
 [^64e-1]: Introdotto dal n. I dell’O del 16 feb. 2022 (Assunzione dei costi dei medicamenti COVID-19), in vigore dal 17 feb. 2022 ([RU 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
 [^64e-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^64e-3]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^64e-3]: Nuovo testo giusta il n. I dell’O del 10 giu. 2022, in vigore dal 20 mag. 2022 ([RU 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)).
+[^64e-4]: Nuovo testo giusta il n. I dell’O del 10 giu. 2022, in vigore dal 20 mag. 2022 ([RU 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)).
+[^64e-5]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
 
 #### Art. 64f
 

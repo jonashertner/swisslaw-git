@@ -4,11 +4,11 @@ title: "Verordnung vom 29. April 2015 über die Bekämpfung übertragbarer Krank
 short: EpV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: de
-version: 2022-04-01
+version: 2022-05-20
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220520/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220520-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220520/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220401/de"
 
 (Epidemienverordnung, EpV)
 
-vom 29. April 2015 (Stand am 1. April 2022)
+vom 29. April 2015 (Stand am 20. Mai 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -969,29 +969,21 @@ Das EDI kann weitere Arzneimittel in den Anhang aufnehmen, sofern sie folgende V
 
 <sup>3</sup> Jedes Arzneimittel hat einen einheitlichen Buchwert von 150 Franken.
 
-<sup>4</sup>
-
-Bei der Abgabe eines Arzneimittels durch eine Apothekerin oder einen Apotheker, die oder der als Leistungserbringer nach dem KVG zugelassen ist, übernimmt der Bund zusätzlich 4.20 Franken für den Medikamentencheck, sofern das Rezept ausschliesslich über dieses Arzneimittel ausgestellt wurde. In diesem Betrag sind folgende Leistungen enthalten:
-
-- a. Rezeptüberprüfung;
-- b. Zulässigkeitsüberprüfung;
-- c. Überprüfung der Anwendungsdosierung und allfälliger Mengenlimitationen innerhalb des Rezepts;
-- d. Interaktionskontrolle innerhalb der Behandlung;
-- e. Kontrolle von Risikofaktoren und Kontraindikationen, soweit sie dem Apotheker oder der Apothekerin bekannt sind;
-- f. Kontaktnahme zur verordnenden Ärztin oder zum verordnenden Arzt, soweit medizinisch notwendig oder von der Patientin oder vom Patienten gewünscht;
-- g. Missbrauchskontrolle innerhalb des Rezepts.
+<sup>4</sup> Bei der Abgabe eines Arzneimittels durch eine Apothekerin oder einen Apotheker, die oder der als Leistungserbringer nach dem KVG zugelassen ist, übernimmt der Bund zusätzlich 24 Franken für die mit der Abgabe verbundenen Aufwände.[^64e-3]
 
 <sup>5</sup>
 
-Die Vergütung des einheitlichen Buchwerts der Arzneimittel nach Absatz 3 und des Medikamentenchecks nach Absatz 4 erfolgt nach dem System des *Tiers payant* im Sinne von Artikel 42 Absatz 2 KVG. Sie wird von folgenden Versicherern geschuldet:
+Die Vergütung des einheitlichen Buchwerts der Arzneimittel nach Absatz 3 und der mit der Abgabe verbundenen Aufwände nach Absatz 4 erfolgt nach dem System des *Tiers payant* im Sinne von Artikel 42 Absatz 2 KVG. Sie wird von folgenden Versicherern geschuldet:[^64e-4]
 
-- a. bei Personen, die über eine obligatorische Krankenpflegeversicherung nach dem KVG verfügen, von der Krankenkasse nach Artikel 2 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014[^64e-3], bei der die behandelte Person versichert ist;
+- a. bei Personen, die über eine obligatorische Krankenpflegeversicherung nach dem KVG verfügen, von der Krankenkasse nach Artikel 2 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014[^64e-5], bei der die behandelte Person versichert ist;
 - b. bei Personen, die bei der Militärversicherung gegen Krankheit versichert sind, von der Militärversicherung;
 - c. bei Personen, die nicht über eine obligatorische Krankenpflegeversicherung nach dem KVG verfügen, von der gemeinsamen Einrichtung nach Artikel 18 KVG.
 
 [^64e-1]: Eingefügt durch Ziff. I der V vom 16. Febr. 2022 (Übernahme der Kosten von Covid-19-Arzneimitteln), in Kraft seit 17. Febr. 2022 ([AS 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
 [^64e-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^64e-3]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^64e-3]: Fassung gemäss Ziff. I der V vom 10. Juni 2022, in Kraft seit 20. Mai 2022 ([AS 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)).
+[^64e-4]: Fassung gemäss Ziff. I der V vom 10. Juni 2022, in Kraft seit 20. Mai 2022 ([AS 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)).
+[^64e-5]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
 
 #### Art. 64f
 
