@@ -3,11 +3,11 @@ sr: "0.672.924.91"
 title: "Convention du 25 septembre 2013 entre le Conseil fédéral suisse et le Gouvernement de la République populaire de Chine en vue d'éviter les doubles impositions en matière d'impôts sur le revenu et sur la fortune (avec prot.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/623"
 language: fr
-version: 2021-09-17
+version: 2022-05-23
 adopted: 2013-09-25
 in_force: 2014-11-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/623/20210917/fr/xml/fedlex-data-admin-ch-eli-cc-2014-623-20210917-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/623/20210917/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/623/20220523/fr/xml/fedlex-data-admin-ch-eli-cc-2014-623-20220523-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/623/20220523/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,18 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/623/20210917/fr"
 
 RO **2014** 3583; FF **2014** 45
 
-Traduction*[^t-1]*
+Traduction
 
 Conclue le 25 septembre 2013
 
-Approuvée par l’Assemblée fédérale le 20 juin 2014[^t-2]
+Approuvée par l’Assemblée fédérale le 20 juin 2014[^t-1]
 
 Entrée en vigueur par échange de notes le 15 novembre 2014
 
-(Etat le 17 septembre 2021)
+(Etat le 23 mai 2022)
 
-[^t-1]: Traduction du texte original allemand.
-[^t-2]: [RO 2014 3581](https://fedlex.data.admin.ch/eli/oc/2014/622)
+[^t-1]: [RO 2014 3581](https://fedlex.data.admin.ch/eli/oc/2014/622)
 
 Le Conseil fédéral suisse et le Gouvernement de la République populaire de Chine,
 
@@ -265,7 +264,7 @@ Toutefois, ces dividendes sont aussi imposables dans l’État contractant dont 
 
 <sup>2.</sup> Toutefois, ces redevances sont aussi imposables dans l’État contractant d’où elles proviennent et selon la législation de cet État, mais si la personne qui est le bénéficiaire effectif de ces redevances est résidente d’un autre État contractant, l’impôt ainsi établi ne peut excéder 9 % du montant brut des redevances. Les autorités compétentes des États contractants règlent d’un commun accord les modalités d’application de cette limitation.
 
-<sup>3.</sup> Le terme «redevances» employé dans le présent article désigne les rémunérations de toute nature payées pour l’usage ou la concession de l’usage d’un droit d’auteur sur une œuvre littéraire, artistique ou scientifique, y compris les films cinématographiques, les enregistrements sur bande pour la radiodiffusion et la télévision, d’un brevet, d’une marque de fabrique ou de commerce, d’un dessin ou d’un modèle, d’un plan, d’une formule ou d’un procédé secrets et pour des informations ayant trait à une expérience acquise dans le domaine industriel, commercial ou scientifique.
+<sup>3.</sup> Le terme «redevances» employé dans le présent article désigne les rémunérations de toute nature payées pour l’usage ou la concession de l’usage d’un droit d’auteur sur une œuvre littéraire, artistique ou scientifique, y compris les films cinématographiques, les enregistrements sur bande pour la radiodiffusion et la télévision, d’un brevet, d’une marque de fabrique ou de commerce, d’un dessin ou d’un modèle, d’un plan, d’une formule ou d’un procédé secrets, ainsi que pour l’usage ou la concession de l’usage d’un équipement industriel, commercial ou scientifique ou pour des informations ayant trait à une expérience acquise dans le domaine industriel, commercial ou scientifique.[^12-1]
 
 <sup>4.</sup> Les par. 1 et 2 ne s’appliquent pas lorsque le bénéficiaire effectif des redevances, résident d’un État contractant, exerce dans l’autre État contractant d’où proviennent les redevances, soit une activité industrielle ou commerciale par l’intermédiaire d’un établissement stable qui y est situé, soit une profession indépendante au moyen d’une base fixe qui y est située, et que le droit ou le bien générateur des redevances s’y rattache effectivement. Dans ce cas, les dispositions de l’art. 7 ou de l’art. 14, suivant les cas, sont applicables.
 
@@ -274,6 +273,8 @@ Toutefois, ces dividendes sont aussi imposables dans l’État contractant dont 
 <sup>6.</sup> Lorsque, en raison de relations spéciales existant entre le débiteur et le bénéficiaire effectif ou que l’un et l’autre entretiennent avec de tierces personnes, le montant des redevances, compte tenu de la prestation pour laquelle elles sont payées, excède celui dont seraient convenus le débiteur et le bénéficiaire effectif en l’absence de pareilles relations, les dispositions du présent article ne s’appliquent qu’à ce dernier montant. Dans ce cas, la partie excédentaire des paiements reste imposable selon la législation de chaque État contractant et compte tenu des autres dispositions de la présente Convention.
 
 <sup>7.</sup> Les dispositions du présent article ne sont pas applicables si la raison principale de la personne concernée par l’émission ou l’aliénation des droits à raison desquels les redevances sont versées, était de tirer avantage de cette émission ou de cette aliénation par le biais du présent article.
+
+[^12-1]: Erratum du 23 mai 2022 ([RO 2022 312](https://fedlex.data.admin.ch/eli/oc/2022/312)).
 
 #### Art. 13
 

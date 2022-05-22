@@ -3,11 +3,11 @@ sr: "0.672.924.91"
 title: Convenzione del 25 settembre 2013 tra il Consiglio federale svizzero e il Governo della Repubblica popolare Cinese per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio (con Protocollo)
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/623"
 language: it
-version: 2021-09-17
+version: 2022-05-23
 adopted: 2013-09-25
 in_force: 2014-11-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/623/20210917/it/xml/fedlex-data-admin-ch-eli-cc-2014-623-20210917-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/623/20210917/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/623/20220523/it/xml/fedlex-data-admin-ch-eli-cc-2014-623-20220523-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/623/20220523/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,13 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/623/20210917/it"
 
 Traduzione
 
-Conclusa il 25 settembre 2013
+Conclusa il 25 settembre 2013 Approvata dall’Assemblea federale il 20 giugno 2014[^t-1] Entrata in vigore attraverso uno scambio di note il 15 novembre 2014
 
-Approvata dall’Assemblea federale il 20 giugno 2014[^t-1]
-
-Entrata in vigore attraverso uno scambio di note il 15 novembre 2014
-
-(Stato 17 settembre 2021)
+(Stato 23 maggio 2022)
 
 [^t-1]: [RU 2014 3581](https://fedlex.data.admin.ch/eli/oc/2014/622)
 
@@ -261,7 +257,7 @@ Tuttavia, tali dividendi sono imponibili anche nello Stato contraente di cui la 
 
 <sup>2.</sup> Tuttavia, tali canoni sono imponibili anche nello Stato contraente dal quale essi provengono e in conformità alla legislazione di detto Stato, ma, se il beneficiario effettivo è un residente dell’altro Stato contraente, l’imposta così applicata non può eccedere il 9 per cento dell’importo lordo dei canoni. Le autorità competenti degli Stati contraenti regolano di comune accordo le modalità di applicazione di dette limitazioni.
 
-<sup>3.</sup> Ai fini del presente articolo il termine «canoni» designa i compensi di qualsiasi natura corrisposti per l’uso o la concessione in uso di un diritto d’autore su opere letterarie, artistiche o scientifiche, ivi comprese le pellicole cinematografiche, o le registrazioni su nastro per trasmissioni radiofoniche e televisive, di brevetti, marchi di fabbrica o di commercio, disegni o modelli, progetti, formule o procedimenti segreti oppure per l’uso o la concessione in uso di attrezzature industriali, commerciali o scientifiche o per informazioni concernenti esperienze di carattere industriale, commerciale o scientifico.
+<sup>3.</sup> Ai fini del presente articolo il termine «canoni» designa i compensi di qualsiasi natura corrisposti per l’uso o la concessione in uso di un diritto d’autore su opere letterarie, artistiche o scientifiche, ivi comprese le pellicole cinematografiche, o le registrazioni su nastro per trasmissioni radiofoniche e televisive, di brevetti, marchi di fabbrica o di commercio, disegni o modelli, progetti, formule o procedimenti segreti oppure per l’uso o la concessione in uso di attrezzature industriali, commerciali o scientifiche o per informazioni concernenti esperienze di carattere industriale, commerciale o scientifico.[^12-1]
 
 <sup>4.</sup> Le disposizioni dei paragrafi 1–2 non si applicano nel caso in cui il beneficiario effettivo dei canoni residente di uno Stato contraente eserciti, nell’altro Stato contraente da cui provengono i canoni, un’attività commerciale o industriale per mezzo di una stabile organizzazione ivi situata, o una professione indipendente mediante una sede fissa ivi situata e i diritti o i beni generatori dei canoni si ricolleghino effettivamente a detta stabile organizzazione o sede fissa. In tale ipotesi, si applicano le disposizioni dell’articolo 7 o dell’articolo 14, a seconda dei casi.
 
@@ -270,6 +266,8 @@ Tuttavia, tali dividendi sono imponibili anche nello Stato contraente di cui la 
 <sup>6.</sup> Se, in conseguenza di particolari relazioni esistenti tra debitori e beneficiario effettivo o tra ciascuno di essi e terze persone, l’importo dei canoni, tenuto conto della prestazione per la quale sono pagati, eccede quello che sarebbe stato convenuto tra debitore e beneficiario effettivo in assenza di simili relazioni, le disposizioni del presente articolo si applicano soltanto a quest’ultimo importo. In tal caso, la parte eccedente dei pagamenti è imponibile in conformità della legislazione di ciascuno Stato contraente e tenuto conto delle altre disposizioni della presente Convenzione.
 
 <sup>7.</sup> Se una persona emette o trasferisce diritti per cui vengono pagati canoni e dall’emissione o dal trasferimento intende principalmente trarre vantaggio in virtù delle disposizioni del presente articolo, queste non si applicano.
+
+[^12-1]: La correzione del 23 mag. 2022 concerne soltanto il testo francese ([RU 2022 312](https://fedlex.data.admin.ch/eli/oc/2022/312)).
 
 #### Art. 13
 

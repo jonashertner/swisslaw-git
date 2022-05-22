@@ -3,11 +3,11 @@ sr: "0.672.924.91"
 title: Abkommen vom 25. September 2013 zwischen dem Schweizerischen Bundesrat und der Regierung der Volksrepublik China zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen (mit Prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/623"
 language: de
-version: 2021-09-17
+version: 2022-05-23
 adopted: 2013-09-25
 in_force: 2014-11-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/623/20210917/de/xml/fedlex-data-admin-ch-eli-cc-2014-623-20210917-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/623/20210917/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/623/20220523/de/xml/fedlex-data-admin-ch-eli-cc-2014-623-20220523-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/623/20220523/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 20. Juni 2014[^t-1]
 
 In Kraft getreten durch Notenaustausch am 15. November 2014
 
-(Stand am 17. September 2021)
+(Stand am 23. Mai 2022)
 
 [^t-1]: [AS 2014 3581](https://fedlex.data.admin.ch/eli/oc/2014/622)
 
@@ -264,7 +264,7 @@ Diese Dividenden können jedoch auch in dem Vertragsstaat, in dem die die Divide
 
 <sup>2.</sup> Diese Lizenzgebühren können jedoch auch im Vertragsstaat, aus dem sie stammen, nach dem Recht dieses Staates besteuert werden; die Steuer darf aber, wenn die nutzungsberechtigte Person eine im andern Vertragsstaat ansässige Person ist, 9 Prozent des Bruttobetrags der Lizenzgebühren nicht übersteigen. Die zuständigen Behörden der Vertragsstaaten regeln die Durchführung dieser Beschränkung in gegenseitigem Einvernehmen.
 
-<sup>3.</sup> Der in diesem Artikel verwendete Ausdruck «Lizenzgebühren» bedeutet Vergütungen jeder Art, die für die Benutzung oder für das Recht auf Benutzung von Urheberrechten an literarischen, künstlerischen oder wissenschaftlichen Werken, einschliesslich kinematografischer Filme oder Bandaufzeichnungen für Rundfunk und Fernsehen, von Patenten, Marken, Mustern oder Modellen, Plänen, geheimen Formeln oder Verfahren oder für die Benutzung oder das Recht auf Benutzung gewerblicher, kaufmännischer oder wissenschaftlicher Ausrüstungen oder für die Mitteilung gewerblicher, kaufmännischer oder wissenschaftlicher Erfahrungen gezahlt werden.
+<sup>3.</sup> Der in diesem Artikel verwendete Ausdruck «Lizenzgebühren» bedeutet Vergütungen jeder Art, die für die Benutzung oder für das Recht auf Benutzung von Urheberrechten an literarischen, künstlerischen oder wissenschaftlichen Werken, einschliesslich kinematografischer Filme oder Bandaufzeichnungen für Rundfunk und Fernsehen, von Patenten, Marken, Mustern oder Modellen, Plänen, geheimen Formeln oder Verfahren oder für die Benutzung oder das Recht auf Benutzung gewerblicher, kaufmännischer oder wissenschaftlicher Ausrüstungen oder für die Mitteilung gewerblicher, kaufmännischer oder wissenschaftlicher Erfahrungen gezahlt werden.[^12-1]
 
 <sup>4.</sup> Die Absätze 1 und 2 sind nicht anwendbar, wenn die in einem Vertragsstaat ansässige nutzungsberechtigte Person im anderen Vertragsstaat, aus dem die Lizenzgebühren stammen, eine gewerbliche Tätigkeit durch eine dort gelegene Betriebsstätte oder eine selbstständige Arbeit durch eine dort gelegene feste Einrichtung ausübt und wenn die Rechte oder Vermögenswerte, für die die Lizenzgebühren gezahlt werden, tatsächlich zu dieser Betriebsstätte oder festen Einrichtung gehören. In einem solchen Fall ist, je nachdem, Artikel 7 oder Artikel 14 anwendbar.
 
@@ -273,6 +273,8 @@ Diese Dividenden können jedoch auch in dem Vertragsstaat, in dem die die Divide
 <sup>6.</sup> Bestehen zwischen dem Schuldner und der nutzungsberechtigten Person oder zwischen beiden und einer Drittperson besondere Beziehungen und übersteigen deshalb die Lizenzgebühren, gemessen an der zugrunde liegenden Leistung, den Betrag, den Schuldner und nutzungsberechtigte Person ohne diese Beziehungen vereinbart hätten, so wird dieser Artikel nur auf den letztgenannten Betrag angewendet. In diesem Fall kann der übersteigende Betrag nach dem Recht eines jeden Vertragsstaats und unter Berücksichtigung der anderen Bestimmungen dieses Abkommens besteuert werden.
 
 <sup>7.</sup> Die Bestimmungen dieses Artikels sind nicht anwendbar, wenn es der Hauptzweck einer mit der Schaffung oder der Übertragung der Rechte, aufgrund derer die Lizenzgebühren gezahlt werden, befassten Person war, mit dieser Schaffung oder Übertragung einen Vorteil aus diesem Artikel zu ziehen.
+
+[^12-1]: Die Berichtigung vom 23. Mai 2022 betrifft nur den französischen Text ([AS 2022 312](https://fedlex.data.admin.ch/eli/oc/2022/312)).
 
 #### Art. 13
 
