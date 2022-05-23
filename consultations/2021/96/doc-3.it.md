@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisioni parziali di quattro ordinanze d’esecuzione della legge federale sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (LSCPT)
 document: Progetto posto in consultazione-2
 language: it

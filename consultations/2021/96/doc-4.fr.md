@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révisions partielles de quatre ordonnances d’exécution de la loi fédérale sur la surveillance de la correspondance par poste et télécommunication (LSCPT)
 document: Projet mis en consultation-4
 language: fr

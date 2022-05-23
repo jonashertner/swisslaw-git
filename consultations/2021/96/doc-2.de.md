@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevisionen vier Ausführungserlasse des Bundesgesetzes über die Überwachung des Post- und Fernmeldeverkehrs (BÜPF)
 document: Vernehmlassungsvorlage-3
 language: de
