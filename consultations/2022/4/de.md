@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Energiegesetzes
 document: Vernehmlassungsvorlage
 language: de
