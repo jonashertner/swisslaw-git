@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 15.434 n Iv. pa. (Kessler) Weibel. Congedo maternità per padri superstiti
 document: Progetto posto in consultazione
 language: it

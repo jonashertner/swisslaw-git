@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 15.434 n Iv. pa. (Kessler) Weibel. Octroyer le congé de maternité au père en cas de décès de la mère
 document: Projet mis en consultation
 language: fr

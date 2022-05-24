@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 15.434 n Pa. Iv. (Kessler) Weibel. Mutterschaftsurlaub für hinterbliebene Väter
 document: Vernehmlassungsvorlage
 language: de
