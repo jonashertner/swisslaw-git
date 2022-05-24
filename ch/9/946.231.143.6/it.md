@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordinanza dell' 11 novembre 2015 che istituisce provvedimenti nei confronti della Repubblica Islamica dell'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: it
-version: 2022-01-01
+version: 2022-05-25
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20220525/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20220525-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20220525/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica Islamica dell’Iran
 
-dell’11 novembre 2015 (Stato 1° gennaio 2022)
+dell’11 novembre 2015 (Stato 25 maggio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -618,5 +618,5 @@ Allegato 7[^t-3]
 
 [^annex7-lvlu1-1]
 
-[^t-3]: Aggiornato dal n. I delle O del DEFR del 17 mag. 2016 ([RU 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), del 1° mag. 2017 ([RU 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), del 23 apr. 2018 ([RU 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), del 7 mag. 2019 ([RU 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), del 29 apr. 2020 ([RU 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)) e del 27 apr. 2021, in vigore dal 28 apr. 2021 ([RU 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)).
+[^t-3]: Aggiornato dal n. I delle O del DEFR del 17 mag. 2016 ([RU 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), del 1° mag. 2017 ([RU 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), del 23 apr. 2018 ([RU 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), del 7 mag. 2019 ([RU 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), del 29 apr. 2020 ([RU 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), del 27 apr. 2021 ([RU 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)) e del 24 mag. 2022, in vigore dal 25 mag. 2022 alle ore 18.00 ([RU 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)).
 [^annex7-lvlu1-1]: È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.

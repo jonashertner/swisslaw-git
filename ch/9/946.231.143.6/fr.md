@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordonnance du 11 novembre 2015 instituant des mesures à l'encontre de la République islamique d'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: fr
-version: 2022-01-01
+version: 2022-05-25
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20220525/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20220525-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20220525/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République islamique d’Iran
 
-du 11 novembre 2015 (État le 1<sup>er</sup> janvier 2022)
+du 11 novembre 2015 (État le 25 mai 2022)
 
 Le Conseil fédéral suisse,
 
@@ -617,5 +617,5 @@ Annexe 7[^t-3]
 
 [^annex7-lvlu1-1]
 
-[^t-3]: Mise à jour par le ch. I des O du DEFR du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 1<sup>er</sup> mai 2017 ([RO 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), du 23 avr. 2018 ([RO 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), du 7 mai 2019 ([RO 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), du 29 avr. 2020 ([RO 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)) et du 27 avr. 2021, en vigueur depuis le 28 avr. 2021 ([RO 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)).
+[^t-3]: Mise à jour par le ch. I des O du DEFR du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 1<sup>er</sup> mai 2017 ([RO 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), du 23 avr. 2018 ([RO 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), du 7 mai 2019 ([RO 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), du 29 avr. 2020 ([RO 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), du 27 avr. 2021 ([RO 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)) et du 24 mai 2022, en vigueur depuis le 25 mai 2022 à 18 heures ([RO 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)).
 [^annex7-lvlu1-1]: Cette annexe n’est pas publiée au RO. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consultée sur [www.seco.admin.ch](https://www.seco.admin.ch) &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
