@@ -4,11 +4,11 @@ title: "Ordonnance du 20 septembre 2013 relative à la recherche sur l'être hum
 short: ORH
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/642"
 language: fr
-version: 2021-05-26
+version: 2022-05-26
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20210526/fr/xml/fedlex-data-admin-ch-eli-cc-2013-642-20210526-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20210526/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20220526/fr/xml/fedlex-data-admin-ch-eli-cc-2013-642-20220526-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20220526/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20210526/fr"
 
 (Ordonnance relative à la recherche sur l’être humain, ORH)
 
-du 20 septembre 2013 (Etat le 26 mai 2021)
+du 20 septembre 2013 (Etat le 26 mai 2022)
 
 Le Conseil fédéral suisse,
 
@@ -118,9 +118,14 @@ Les risques et les contraintes inhérents au prélèvement de matériel biologiq
 - c. le prélèvement ou le recueil de substances corporelles sans mesures invasives (notamment l’échantillon de salive, d’urine ou de selles);
 - d. les frottis;
 - e. les tomographies à résonance magnétique sans produit de contraste, les échographies et les électrogrammes;
-- f.[^7-1] les examens au moyen de dispositifs médicaux visés à l’art. 3 de l’ordonnance du 1<sup>er</sup> juillet 2020 sur les dispositifs médicaux[^7-2] pourvus d’un marquage de conformité sans produit de contraste ou au moyen de médicaments autorisés susceptibles d’émettre des rayonnements ionisants, dans la mesure où la dose efficace est inférieure à 5 mSv par projet de recherche et par personne examinée.
+- f.[^7-1]
 
-[^7-1]: Nouvelle teneur selon l’annexe 2 ch. 1 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+  les examens au moyen de rayonnements ionisants, dans la mesure où la dose efficace est inférieure à 5 mSv par projet de recherche et par personne examinée et où:
+
+  - 1\. les médicaments utilisés à cet effet sont autorisés ou dispensés d’une autorisation, ou
+  - 2\. les dispositifs au sens de l’art. 1 de l’ordonnance du 1<sup>er</sup> juillet 2020 sur les dispositifs médicaux[^7-2] sont pourvus d’un marquage de conformité et aucun produit de contraste n’est utilisé.
+
+[^7-1]: Nouvelle teneur selon l’annexe 2 ch. 1 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^7-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 #### Art. 8
@@ -385,7 +390,7 @@ La direction du projet annonce à la commission d’éthique la fin ou l’arrê
 <sup>6</sup> Dans le cadre de son avis au sens de l’art. 19 ou sur demande, l’OFSP peut prévoir d’autres exceptions à l’obligation d’établir un rapport visé à l’al. 4.
 
 [^23-1]: Nouvelle teneur selon l’annexe 11 ch. 5 de l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
-[^23-2]: [<sup>RS</sup> <sup>814.501</sup>](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^23-2]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
 
 ## Chapitre 3 Réutilisation pour la recherche avec du matériel biologique et des données personnelles liées à la santé
 
@@ -678,7 +683,7 @@ Les dispositions suivantes sont applicables par analogie:
 - a. pour le dépôt de la demande, l’art. 14;
 - b. pour la procédure et les délais, l’art. 16;
 - c. pour les projets de recherche multicentriques, la procédure selon l’art. 17;
-- c. pour les obligations en matière d’annonce, l’art. 36.
+- d. pour les obligations en matière d’annonce, l’art. 36.
 
 ## Chapitre 6 Dispositions finales
 

@@ -4,11 +4,11 @@ title: "Ordinance of 20 September 2013 on Human Research with the Exception of C
 short: HRO
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/642"
 language: en
-version: 2021-05-26
+version: 2022-05-26
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20210526/en/xml/fedlex-data-admin-ch-eli-cc-2013-642-20210526-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20210526/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20220526/en/xml/fedlex-data-admin-ch-eli-cc-2013-642-20220526-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20220526/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Human Research Ordinance, HRO)
 
-of 20 September 2013 (Status as of 26 May 2021)
+of 20 September 2013 (Status as of 26 May 2022)
 
 The Swiss Federal Council,
 
@@ -120,9 +120,14 @@ Sampling biological material or collecting health-related personal data entails 
 - c. removing or collecting bodily substances without invasive interventions (in particular, saliva, urine and stool samples);
 - d. taking swabs;
 - e. magnetic resonance imaging scans without a contrast medium, ultrasound examinations or electrograms;
-- f.[^7-1] examinations using medical devices in accordance with Article 3 of the Medical Devices Ordinance of 1 July 2020[^7-2] that bear a conformity marking and are used without a contrast medium, and examinations using authorised medicinal products capable of emitting ionising radiation, provided that the effective dose is below 5 mSv per research project and per participant.
+- f.[^7-1]
 
-[^7-1]: Amended by Annex 2 No 1 of the O of 1 July 2020 on Clinical Trials with Medical Devices, in force since 26 May 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+  examinations using ionising radiation, provided that the effective dose is below 5 mSv per research project and per person concerned and:
+
+  - 1\. the medicinal product used is authorised or exempt from authorisation, or
+  - 2\. the devices under Article 1 of the Medical Devices Ordinance of 1 July 2020[^7-2] bear conformity markings and no contrast medium is used.
+
+[^7-1]: Amended by Annex 2 No 1 of the O of 4 May 2022, in force since 26 May 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^7-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 #### Art. 8

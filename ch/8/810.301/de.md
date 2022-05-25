@@ -4,11 +4,11 @@ title: "Verordnung vom 20. September 2013 über die Humanforschung mit Ausnahme 
 short: HFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/642"
 language: de
-version: 2021-05-26
+version: 2022-05-26
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20210526/de/xml/fedlex-data-admin-ch-eli-cc-2013-642-20210526-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20210526/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20220526/de/xml/fedlex-data-admin-ch-eli-cc-2013-642-20220526-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20220526/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20210526/de"
 
 (Humanforschungsverordnung, HFV)
 
-vom 20. September 2013 (Stand am 26. Mai 2021)
+vom 20. September 2013 (Stand am 26. Mai 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -118,9 +118,14 @@ Die Entnahme biologischen Materials oder die Erhebung gesundheitsbezogener Perso
 - c. die Entnahme oder Abgabe von Körpersubstanzen ohne invasive Massnahmen (insbesondere Speichel-, Urin- und Stuhlproben);
 - d. Abstriche;
 - e. Magnetresonanztomographien ohne Kontrastmittel, Ultraschalluntersuchungen oder Elektrogramme;
-- f.[^7-1] Untersuchungen mit Medizinprodukten nach Artikel 3 der Medizinprodukteverordnung vom 1. Juli 2020[^7-2], die ein Konformitätskennzeichen aufweisen und ohne Kontrastmittel angewendet werden, und Untersuchungen mit zugelassenen Arzneimitteln, die ionisierende Strahlen aussenden können, sofern die effektive Dosis unter 5 mSv pro Forschungsprojekt und teilnehmender Person liegt.
+- f.[^7-1]
 
-[^7-1]: Fassung gemäss Anhang 2 Ziff. 1 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+  Untersuchungen mit ionisierender Strahlung, sofern die effektive Dosis unter 5 mSv pro Forschungsprojekt und teilnehmender Person liegt und:
+
+  - 1\. die dazu angewendeten Arzneimittel zugelassen oder zulassungsbefreit sind, oder
+  - 2\. die Produkte nach Artikel 1 der Medizinprodukteverordnung vom 1. Juli 2020[^7-2] ein Konformitätskennzeichen aufweisen und kein Kontrastmittel angewendet wird.
+
+[^7-1]: Fassung gemäss Anhang 2 Ziff. 1 der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^7-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 #### Art. 8

@@ -4,11 +4,11 @@ title: "Ordinanza del 20 settembre 2013 concernente i progetti di ricerca sull'e
 short: ORUm
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/642"
 language: it
-version: 2021-05-26
+version: 2022-05-26
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20210526/it/xml/fedlex-data-admin-ch-eli-cc-2013-642-20210526-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20210526/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20220526/it/xml/fedlex-data-admin-ch-eli-cc-2013-642-20220526-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20220526/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20210526/it"
 
 (Ordinanza sulla ricerca umana, ORUm)
 
-del 20 settembre 2013 (Stato 26 maggio 2021)
+del 20 settembre 2013 (Stato 26 maggio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -118,9 +118,14 @@ Il prelievo di materiale biologico o la raccolta di dati sanitari personali comp
 - c. il prelievo o la raccolta di sostanze organiche senza misure invasive (in particolare campioni di saliva, urina e feci);
 - d. gli strisci;
 - e. le tomografie a risonanza magnetica senza mezzo di contrasto, le ecografie o gli elettrogrammi;
-- f.[^7-1] gli esami con dispositivi medici di cui all’articolo 3 dell’ordinanza del 1° luglio 2020[^7-2] relativa ai dispositivi medici, provvisti di marchio di conformità senza mezzo di contrasto oppure con medicamenti omologati che possono emettere radiazioni ionizzanti, se la dose efficace è inferiore a 5 mSv per progetto di ricerca e per persona partecipante.
+- f.[^7-1]
 
-[^7-1]: Nuovo testo giusta l’all. 2 n. 1 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici, in vigore dal 26 mag. 2021 ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+  gli esami con radiazioni ionizzanti, se la dose efficace è inferiore a 5 mSv per progetto di ricerca e per persona partecipante, e:
+
+  - 1\. i medicamenti utilizzati a tale scopo sono omologati o esenti da omologazione, oppure
+  - 2\. i dispositivi secondo l’articolo 1 dell’ordinanza del 1° luglio 2020[^7-2] relativa ai dispositivi medici sono provvisti di marchio di conformità e non è utilizzato alcun mezzo di contrasto.
+
+[^7-1]: Nuovo testo giusta l’all. 2 n. 1 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^7-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 #### Art. 8
