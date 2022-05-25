@@ -4,11 +4,11 @@ title: "Ordonnance du 20 septembre 2013 sur les essais cliniques hors essais cli
 short: OClin
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/643"
 language: fr
-version: 2021-05-26
+version: 2022-05-26
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20210526/fr/xml/fedlex-data-admin-ch-eli-cc-2013-643-20210526-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20210526/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20220526/fr/xml/fedlex-data-admin-ch-eli-cc-2013-643-20220526-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20220526/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20210526/fr"
 
 (Ordonnance sur les essais cliniques, OClin)[^t-1]
 
-du 20 septembre 2013 (Etat le 26 mai 2021)
+du 20 septembre 2013 (Etat le 26 mai 2022)
 
 [^t-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
@@ -48,11 +48,11 @@ La présente ordonnance règle:
   les exigences fixées pour la réalisation:
 
   - 1\.[^1-2] d’essais cliniques de médicaments, y compris de combinaisons au sens de l’art. 2, al. 1, let. f et g, de l’ordonnance du 1<sup>er</sup> juillet 2020 sur les dispositifs médicaux (ODim)[^1-3], ou de transplants standardisés,
-  - 2\. d’essais cliniques de dispositifs médicaux de diagnostic *in vitro* ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh[^1-4],
+  - 2\. d’essais cliniques …[^1-4] de dispositifs au sens de l’art. 2*a*, al. 2, LPTh[^1-5],
   - 3\. d’essais cliniques de transplantation,
   - 4\. d’essais cliniques qui ne sont pas des essais cliniques visés aux ch. 1 à 3;
 
-- b. les procédures d’autorisation et de déclaration[^1-5] pour les essais cliniques;
+- b. les procédures d’autorisation et de déclaration[^1-6] pour les essais cliniques;
 - c. les tâches et les compétences des commissions d’éthique de la recherche (commissions d’éthique), de l’Institut suisse des produits thérapeutiques (institut) ainsi que de l’Office fédéral de la santé publique (OFSP) en matière de procédures d’autorisation et de déclaration;
 - d. l’enregistrement des essais cliniques et l’accès du public au registre.
 
@@ -60,17 +60,20 @@ La présente ordonnance règle:
 
 Sont applicables:
 
-- a. pour les essais cliniques de dispositifs médicaux au sens de l’ODim, l’ordonnance du 1<sup>er</sup> juillet 2020 sur les essais cliniques de dispositifs médicaux[^1-6];
-- b. pour les essais cliniques de xénotransplantation, l’ordonnance du 16 mars 2007 sur la xénotransplantation[^1-7].[^1-8]
+- a.[^1-7] pour les essais cliniques de dispositifs médicaux au sens de l’art. 1 ODim et de l’art. 1 de l’ordonnance du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro[^1-8], l’ordonnance du 1<sup>er</sup> juillet 2020 sur les essais cliniques de dispositifs médicaux[^1-9];
+- b. pour les essais cliniques de xénotransplantation, l’ordonnance du 16 mars 2007 sur la xénotransplantation[^1-10].[^1-11]
 
 [^1-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 [^1-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 19 mai 2021, en vigueur depuis le 26 mai 2021 ([RO 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 [^1-3]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^1-4]: Nouvelle expression selon l’annexe ch. 2 de l’O du 19 mai 2021, en vigueur depuis le 26 mai 2021 ([RO 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)). Il a été tenu compte de cette mod. dans tout le texte.
-[^1-5]: Nouvelle expression selon l’annexe 2 ch. 2 al. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)). Il a été tenu compte de cette mod. dans tout le texte.
-[^1-6]: RS **812.213.3**
-[^1-7]: [RS 810.213](https://fedlex.data.admin.ch/eli/cc/2007/283)
-[^1-8]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^1-4]: Expression abrogée par l’annexe 2 ch. 2 de l’O du 4 mai 2022, avec effet au 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-5]: Nouvelle expression selon l’annexe ch. 2 de l’O du 19 mai 2021, en vigueur depuis le 26 mai 2021 ([RO 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-6]: Nouvelle expression selon l’annexe 2 ch. 2 al. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-7]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^1-8]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
+[^1-9]: [RS 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
+[^1-10]: [RS 810.213](https://fedlex.data.admin.ch/eli/cc/2007/283)
+[^1-11]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
 #### Art. 2
 
@@ -89,13 +92,19 @@ Dans la présente ordonnance, on entend par:
   - 3\. le prélèvement ou le recueil de substances corporelles sans mesures invasives, notamment les échantillons de salive, d’urine ou de selles,
   - 4\. les frottis,
   - 5\. les tomographies à résonance magnétique sans produit de contraste, échographies et électrogrammes,
-  - 6\. les examens au moyen de dispositifs médicaux au sens de l’art. 3 ODim[^2-2] pourvus d’un marquage de conformité sans produit de contraste ou au moyen de médicaments autorisés susceptibles d’émettre des rayonnements ionisants, dans la mesure où la dose efficace est inférieure à 5 mSv par projet de recherche et par personne examinée;
+  - 6\.[^2-2]
+
+    les examens au moyen de rayonnements ionisants, dans la mesure où la dose efficace est inférieure à 5 mSv par projet de recherche et par personne examinée et où:
+
+    - – les médicaments utilisés à cet effet sont autorisés ou dispensés d’une autorisation, ou
+    - – les dispositifs au sens de l’art. 1 ODim[^2-3] sont pourvus d’un marquage de conformité et aucun produit de contraste n’est utilisé;
 
 - d. *promoteur:* toute personne ou institution dont le siège ou une représentation se trouvent en Suisse, qui assume la responsabilité de l’initiative d’un essai clinique en Suisse, notamment du lancement, de la gestion et du financement;
 - e. *investigateur:* toute personne responsable de la réalisation pratique de l’essai clinique en Suisse ainsi que de la protection des personnes participant à l’essai clinique au lieu de réalisation; lorsqu’un investigateur assume la responsabilité de l’initiative d’un essai clinique en Suisse, il est également promoteur.
 
 [^2-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
-[^2-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^2-2]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^2-3]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 ### Section 2 Principes
 
@@ -145,13 +154,14 @@ L’investigateur d’un essai clinique doit:
 - a. justifier d’une formation suffisante en matière de bonnes pratiques cliniques ainsi que des connaissances et de l’expérience professionnelles nécessaires; et
 - b. disposer des connaissances relatives aux exigences légales applicables aux essais cliniques ou être en mesure de les garantir par le biais d’un expert.
 
-<sup>2</sup> L’investigateur d’un essai clinique de médicaments ou de transplantation doit de surcroît être habilité à exercer la profession de médecin sous sa propre responsabilité professionnelle.
+<sup>2</sup> L’investigateur d’un essai clinique de médicaments, de produits au sens de l’art. 2*a*, al. 2, LPTh ou de transplantation doit de surcroît être habilité à exercer la profession de médecin sous sa propre responsabilité professionnelle.[^6-1]
 
-<sup>3</sup> S’agissant d’essais cliniques de dispositifs médicaux de diagnostic *in vitro*[^6-1] ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh et d’essais cliniques au sens du chapitre 4, la responsabilité à titre d’investigateur peut également être assumée par une personne sans qualification médicale, pour autant qu’elle soit habilitée à exercer sous sa propre responsabilité la profession qui lui donne les qualifications spécifiquement requises pour pratiquer l’essai clinique.
+<sup>3</sup> S’agissant d’essais cliniques au sens du chapitre 4, la responsabilité à titre d’investigateur peut également être assumée par une personne sans qualification médicale, pour autant qu’elle soit habilitée à exercer sous sa propre responsabilité la profession qui lui donne les qualifications spécifiquement requises pour pratiquer l’essai clinique.[^6-2]
 
 <sup>4</sup> Les autres personnes qui accomplissent l’essai clinique doivent disposer des connaissances et de l’expérience professionnelles nécessaires à l’activité concernée.
 
-[^6-1]: Nouvelle expression selon l’annexe 2 ch. 2 al. 1 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)). Il a été tenu compte de cette mod. dans tout le texte.
+[^6-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^6-2]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 ### Section 3 Information, consentement et révocation
 
@@ -222,11 +232,11 @@ L’anonymisation du matériel biologique et des données personnelles n’est p
 
 <sup>1</sup>
 
-Est libéré de la responsabilité liée à l’essai clinique au sens de l’art. 19 LRH celui qui prouve que le dommage est imputable à:
+Est libéré de la responsabilité liée à l’essai clinique au sens de l’art. 19, al. 1, LRH celui qui prouve que le dommage est imputable à:[^10-1]
 
 - a. l’administration d’un médicament autorisé et utilisé conformément à l’information professionnelle;
 - b. l’administration d’un médicament autorisé, lorsque la directive dont l’élaboration obéit à des critères de qualité reconnus internationalement en établit le caractère standard;
-- c. l’emploi d’un dispositif médical de diagnostic *in vitro* ou d’un dispositif au sens de l’art. 2*a*, al. 2, LPTh pourvu d’une marque de conformité et utilisé conformément au mode d’emploi;
+- c.[^10-2] l’emploi d’un produit au sens de l’art. 2*a*, al. 2, LPTh qui a été déclaré conformément à l’art. 6, al. 3, ODim[^10-3] dans sa version du 1<sup>er</sup> janvier 2002[^10-4] en application de l’art. 108, al. 1, let. b, ODim et utilisé conformément au mode d’emploi;
 - d. l’application d’une autre intervention liée à la santé lorsque la directive dont l’élaboration obéit à des critères de qualité reconnus internationalement en établit le caractère standard.
 
 <sup>2</sup>
@@ -235,6 +245,11 @@ Est en outre libéré de la responsabilité au sens de l’art. 19, al. 1, LRH c
 
 - a. qu’un dommage équivalent aurait également pu survenir si la personne lésée avait subi la thérapie utilisée habituellement pour le traitement de sa maladie, ou
 - b. que, en cas de maladie présentant un risque mortel immédiat, il n’existe aucune thérapie standard pour cette maladie.
+
+[^10-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^10-2]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^10-3]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^10-4]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
 #### Art. 11
 
@@ -349,11 +364,7 @@ Quiconque conserve du matériel biologique dans le cadre d’un essai clinique d
 - b. garantir le respect des exigences techniques pour la conservation appropriée du matériel biologique;
 - c. mettre à disposition les ressources nécessaires à la conservation.
 
-## Chapitre 2 Procédures d’autorisation et de déclaration pour les essais cliniques de médicament, dispositif médical de diagnostic *in vitro*****, dispositif au sens de l’art. 2*a*, al. 2, LPTh ou de transplants standardisés
-
-[^chap2-1]
-
-[^chap2-1]: Nouvelle expression selon l’annexe 2 ch. 2 al. 1 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)). Il a été tenu compte de cette mod. dans tout le texte.
+## Chapitre 2 Procédures d’autorisation et de déclaration pour les essais cliniques de médicaments, de dispositifs au sens de l’art. 2*a*, al. 2, LPTh ou de transplants standardisés
 
 ### Section 1 Dispositions générales
 
@@ -388,22 +399,26 @@ Les essais cliniques de médicaments sont de catégorie B lorsque le médicament
 
 #### Art. 20
 
-**Classification des essais cliniques de dispositifs médicaux de diagnostic *in vitro* ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh**
+**Classification des essais cliniques de produits au sens de l’art. 2*a*, al. 2, LPTh**[^20-1]
 
 <sup>1</sup>
 
-Les essais cliniques de dispositifs médicaux de diagnostic *in vitro* ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh sont de catégorie A lorsque le dispositif médical de diagnostic *in vitro* ou le dispositif au sens de l’art. 2*a*, al. 2, LPTh:
+Les essais cliniques de produits au sens de l’art. 2*a*, al. 2, LPTh sont de catégorie A lorsque le produit à analyser répond aux conditions suivantes:
 
-- a. est pourvu d’une marque de conformité, et
-- b. est utilisé conformément au mode d’emploi.
+- a. avoir été déclaré conformément à l’art. 6, al. 3, ODim[^20-2] dans sa version du 1<sup>er</sup> janvier 2002[^20-3] en application de l’art. 108, al. 1, let. b, ODim;
+- b. être utilisé conformément au mode d’emploi.
 
 <sup>2</sup>
 
-Ils sont de catégorie C lorsque:
+Ils sont de catégorie C dans les cas suivants:
 
-- a. le dispositif médical de diagnostic *in vitro* ou le dispositif au sens de l’art. 2*a*, al. 2, LPTh n’est pas pourvu d’une marque de conformité;
-- b. l’utilisation du dispositif médical de diagnostic *in vitro* ou du dispositif au sens de l’art. 2*a*, al. 2, LPTh s’écarte du mode d’emploi admis lors de l’évaluation de la conformité, ou que
-- c. l’utilisation du dispositif médical de diagnostic *in vitro* ou du dispositif au sens de l’art. 2*a*, al. 2, LPTh est interdite en Suisse.
+- a. le produit à analyser n’a pas été déclaré conformément à l’art. 6, al. 3, ODim dans sa version du 1<sup>er</sup> janvier 2002 en application de l’art. 108, al. 1, let. b, ODim;
+- b. l’utilisation du produit à analyser s’écarte du mode d’emploi admis;
+- c. l’utilisation du produit à analyser est interdite en Suisse.
+
+[^20-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^20-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^20-3]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
 #### Art. 21
 
@@ -472,7 +487,7 @@ La commission d’éthique compétente vérifie:
 - g. que l’investigateur et les autres personnes qui réalisent l’essai clinique disposent de connaissances et d’une expérience suffisantes dans le domaine concerné et pour la réalisation d’un essai clinique;
 - h. l’existence d’infrastructures appropriées au lieu de réalisation de l’essai clinique;
 - i. le financement de l’essai clinique et les accords entre le promoteur, les tiers et l’investigateur relatifs à la répartition des tâches, la rémunération et à la publication;
-- j. en outre, pour les essais cliniques de médicament, dispositif médical de diagnostic *in vitro* ou dispositif au sens de l’art. 2*a*, al. 2, LPTh classés dans la catégorie A susceptibles d’émettre des rayonnements ionisants, la conformité à la législation sur la radioprotection ainsi que l’estimation de la dose;
+- j. en outre, pour les essais cliniques de médicaments ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh classés dans la catégorie A susceptibles d’émettre des rayonnements ionisants, la conformité à la législation sur la radioprotection ainsi que l’estimation de la dose;
 - k. en outre, pour les examens de sources de rayonnement[^25-1], la conformité à la législation sur la radioprotection ainsi que l’estimation de la dose, sauf si un avis de l’OFSP doit être sollicité en application de l’art. 28;
 - l. d’autres domaines dans la mesure où cela est nécessaire pour évaluer la protection des personnes participant à l’essai clinique.
 
@@ -591,7 +606,7 @@ Pour les essais cliniques de médicaments, l’institut vérifie:
 
 <sup>3</sup>
 
-Pour les essais cliniques de dispositifs médicaux de diagnostic *in vitro* ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh, il vérifie:
+Pour les essais cliniques de dispositifs au sens de l’art. 2*a*, al. 2, LPTh, il vérifie:
 
 - a. que le dossier de demande est complet;
 - b. les exigences fixées par l’art. 54, al. 4, let. b, LPTh.
@@ -604,7 +619,7 @@ Pour les essais cliniques de dispositifs médicaux de diagnostic *in vitro* ou d
 
 <sup>2</sup> Il rend une décision dans les 30 jours à compter de la confirmation de la réception du dossier conforme aux exigences formelles.
 
-<sup>3</sup> Si le médicament, dispositif médical de diagnostic *in vitro* ou dispositif au sens de l’art. 2*a*, al. 2, LPTh est utilisé pour la première fois sur des personnes ou s’il est fabriqué selon un nouveau procédé, il peut prolonger ce délai de 30 jours au plus. Il communique cette prolongation au promoteur.
+<sup>3</sup> Si le médicament ou le dispositif au sens de l’art. 2*a*, al. 2, LPTh est utilisé pour la première fois sur des personnes ou s’il est fabriqué selon un nouveau procédé, il peut prolonger ce délai de 30 jours au plus. Il communique cette prolongation au promoteur.
 
 <sup>4</sup> Si l’institut exige des informations supplémentaires au sens de l’art. 31, al. 2, le délai est suspendu jusqu’à la réception de ces documents.
 
@@ -622,9 +637,9 @@ Pour les essais cliniques de dispositifs médicaux de diagnostic *in vitro* ou d
 
 Sont considérées comme des modifications essentielles:
 
-- a. les modifications apportées au médicament, dispositif médical de diagnostic *in vitro* ou dispositif au sens de l’art. 2*a*, al. 2, LPTh ou encore à l’administration, respectivement l’utilisation de celui-ci;
+- a. les modifications apportées au médicament ou au dispositif au sens de l’art. 2*a*, al. 2, LPTh ou encore à l’administration, respectivement l’utilisation de celui-ci;
 - b. les modifications apportées sur la base de nouvelles données précliniques ou cliniques qui peuvent avoir un effet sur la sécurité du produit, ou
-- c. les modifications dans la fabrication du médicament, dispositif médical de diagnostic *in vitro* ou dispositif au sens de l’art. 2*a*, al. 2, LPTh qui peuvent avoir un effet sur la sécurité du produit.
+- c. les modifications dans la fabrication du médicament ou du dispositif au sens de l’art. 2*a*, al. 2, LPTh qui peuvent avoir un effet sur la sécurité du produit.
 
 <sup>4</sup> L’institut rend une décision dans les 30 jours à compter de la réception de l’ensemble des documents concernés par la modification. L’art. 33 est applicable par analogie.
 
@@ -659,9 +674,9 @@ Il accorde l’autorisation lorsque:
 
 #### Art. 36
 
-**Essais cliniques de médicament, dispositif médical de diagnostic *in vitro* ou dispositif au sens de l’art. 2*a*, al. 2, LPTh susceptibles d’émettre des rayonnements ionisants**
+**Essais cliniques de médicaments ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh susceptibles d’émettre des rayonnements ionisants**
 
-<sup>1</sup> Pour les essais cliniques de catégories B et C de médicament, dispositif médical de diagnostic *in vitro* ou dispositif au sens de l’art. 2*a*, al. 2, LPTh susceptibles d’émettre des rayonnements ionisants, les documents supplémentaires requis au sens de l’annexe 4, ch. 5, doivent être fournis à l’institut.
+<sup>1</sup> Pour les essais cliniques de catégories B et C de médicaments ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh susceptibles d’émettre des rayonnements ionisants, les documents supplémentaires requis au sens de l’annexe 4, ch. 5, doivent être fournis à l’institut.
 
 <sup>2</sup> Pour les essais cliniques de catégorie C, l’institut sollicite l’avis de l’OFSP avant d’octroyer l’autorisation. L’OFSP vérifie la conformité à la législation sur la radioprotection ainis que l’estimation de la dose.
 
@@ -689,7 +704,7 @@ Pour les essais cliniques de catégorie C, il transmet à l’OFSP immédiatemen
 
 <sup>1</sup> L’investigateur déclare à la commission d’éthique dans les sept jours les mesures de sécurité et de protection qui doivent être prises immédiatement pendant la réalisation d’un essai clinique ainsi que les circonstances qui ont rendu ces mesures nécessaires.
 
-<sup>2</sup> Pour les essais cliniques de dispositifs médicaux de diagnostic *in vitro* ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh, la déclaration est à remettre dans les deux jours.
+<sup>2</sup> Pour les essais cliniques de dispositifs au sens de l’art. 2*a*, al. 2, LPTh, la déclaration est à remettre dans les deux jours.
 
 <sup>3</sup> Pour les essais cliniques de catégories B et C, les déclarations au sens des al. 1 et 2 sont effectuées auprès de l’institut. Cette obligation incombe au promoteur.
 
@@ -747,7 +762,7 @@ Pour les essais cliniques de catégorie C, il transmet à l’OFSP immédiatemen
 
 #### Art. 42
 
-**Événements indésirables graves (*Serious Adverse Events, SAE*) et défectuosités des dispositif médicaux de diagnostic *in vitro* au cours d’essais cliniques de dispositifs médicaux de diagnostics *in vitro**[^42-1]*
+**Événements indésirables graves (*Serious Adverse Events, SAE*) et défectuosités des produits au sens de l’art. 2*a*, al. 2, LPTh au cours d’essais cliniques de produits au sens de l’art. 2*a*, al. 2, LPTh**[^42-1]
 
 <sup>1</sup>
 
@@ -755,44 +770,45 @@ L’investigateur déclare dans les sept jours à la commission d’éthique com
 
 - a.
 
-  tout événement indésirable grave qui s’est produit sur des personnes participant à l’essai clinique en Suisse au cours d’un essai clinique de catégorie C de dispositifs médicaux de diagnostic *in vitro* et dont on ne peut pas exclure qu’il soit imputable:
+  tout événement indésirable grave qui s’est produit sur des personnes participant à l’essai clinique en Suisse au cours d’un essai clinique de catégorie C de produits au sens de l’art. 2*a*, al. 2, LPTh et dont on ne peut pas exclure qu’il soit imputable:
 
-  - 1\. au dispositif médical de diagnostic *in vitro* soumis à l’essai clinique, ou
+  - 1\. au produit à analyser, ou
   - 2\. à une intervention effectuée au cours de l’essai clinique;
 
-- b. toute défectuosité des dispositifs médicaux de diagnostic *in vitro* qui aurait pu déboucher sur un événement indésirable grave en l’absence de mesures appropriées ou d’une intervention ou si les circonstances avaient été moins favorables.
+- b. toute défectuosité des produits à analyser au sens de l’art. 2*a*, al. 2, LPTh qui aurait pu déboucher sur un événement indésirable grave en l’absence de mesures appropriées ou d’une intervention ou si les circonstances avaient été moins favorables.
 
-<sup>2</sup> Si des événements indésirables graves ou des défectuosités des dispositifs médicaux de diagnostic *in vitro* se produisent lors d’un essai clinique multicentrique sur l’un des lieux de réalisation, l’investigateur coordinateur remet également la déclaration à la commission d’éthique compétente concernée.
+<sup>2</sup> Si des événements indésirables graves ou des défectuosités des produits au sens de l’art. 2*a*, al. 2, LPTh se produisent lors d’un essai clinique multicentrique sur l’un des lieux de réalisation, l’investigateur coordinateur remet également la déclaration à la commission d’éthique compétente concernée.
 
-<sup>3</sup> Pour un essai clinique de catégorie C, les déclarations visées à l’al. 1 sont également remises à l’institut. Cette obligation incombe au promoteur. Il déclare de surcroît à l’institut les événements survenus à l’étranger et les défectuosités des dispositifs médicaux de diagnostic *in vitro* constatés. Pour un essai clinique de catégorie A, l’obligation de déclarer visée à l’art. 15, al. 1, de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux[^42-2] incombe au promoteur.
+<sup>3</sup> Pour un essai clinique de catégorie C, les déclarations visées à l’al. 1 sont également remises à l’institut. Cette obligation incombe au promoteur. Il déclare de surcroît à l’institut les événements survenus à l’étranger et les défectuosités constatées des produits au sens de l’art. 2*a*, al. 2, LPTh. Pour un essai clinique de catégorie A, l’obligation de déclarer visée à l’art. 15, al. 1, ODim[^42-2] dans sa version du 1<sup>er</sup> janvier 2002[^42-3] en application de l’art. 103, al. 2, ODim incombe au promoteur.
 
-<sup>4</sup> La définition des événements indésirables graves et des défectuosités des dispositifs médicaux de diagnostic *in vitro* obéit aux règles de bonnes pratiques cliniques définies dans l’annexe 1, ch. 2, ch. 2.
+<sup>4</sup> La définition des événements indésirables graves et des défectuosités des produits au sens de l’art. 2*a*, al. 2, LPTh obéit aux règles de bonnes pratiques cliniques définies dans l’annexe 1, ch. 2.
 
-[^42-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
-[^42-2]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520), [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170)
+[^42-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^42-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^42-3]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
 #### Art. 43
 
 **Rapport sur la sécurité des personnes participant au projet de recherche**
 
-<sup>1</sup> L’investigateur soumet une fois par an à la commission d’éthique compétente une liste des événements, défectuosités des dispositifs médicaux de diagnostic *in vitro* et effets du médicament au sens des art. 40 à 42, avec un rapport sur leur degré de gravité, le lien de causalité avec l’intervention et la sécurité des personnes participant à l’essai clinique (*Annual Safety Report*).[^43-1]
+<sup>1</sup> L’investigateur soumet une fois par an à la commission d’éthique compétente une liste des événements et des défectuosités des produits à analyser au sens de l’art. 2*a*, al. 2, LPTh et des effets du médicament au sens des art. 40 à 42, avec un rapport sur leur degré de gravité, leur lien de causalité avec l’intervention et la sécurité des personnes participant à l’essai clinique (*Annual Safety Report, ASR*).[^43-1]
 
-<sup>2</sup> Pour les essais cliniques qui sont aussi réalisés à l’étranger sur la base du même protocole de recherche, les événements, défectuosités des dispositifs médicaux de diagnostic *in vitro* et effets du médicament observés à l’étranger doivent figurer en sus dans la liste et le rapport.[^43-2]
+<sup>2</sup> Pour les investigations cliniques qui sont aussi réalisées à l’étranger sur la base du même protocole de recherche, les événements, les défectuosités des produits à analyser au sens de l’art. 2*a*, al. 2, LPTh et les effets du médicament observés à l’étranger doivent figurer en sus dans la liste et le rapport.[^43-2]
 
 <sup>3</sup> Pour les essais cliniques de catégories B et C, le rapport visé aux al. 1 et 2 est également remis à l’institut. Cette obligation incombe au promoteur.
 
-[^43-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
-[^43-2]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^43-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^43-2]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 44
 
 **Contrôle, déclaration et rapport sur les examens à l’aide de sources de rayonnement**[^44-1]
 
-<sup>1</sup> Lors des essais cliniques de médicament, dispositif médical de diagnostic *in vitro* ou dispositif au sens de l’art. 2*a*, al. 2, LPTh qui peuvent émettre des rayonnements ionisants ainsi que lors d’examens avec des sources de rayonnement, l’investigateur contrôle le respect de la contrainte de dose visée à l’art. 45 de l’ordonnance du 26 avril 2017 sur la radioprotection[^44-2].
+<sup>1</sup> Lors des essais cliniques de médicaments ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh qui peuvent émettre des rayonnements ionisants ainsi que lors d’examens avec des sources de rayonnement, l’investigateur contrôle le respect de la contrainte de dose visée à l’art. 45 de l’ordonnance du 26 avril 2017 sur la radioprotection[^44-2].
 
 <sup>2</sup> Il déclare un dépassement de la contrainte de dose dans un délai de sept jours ouvrables suivant la constatation de l’événement à la commission d’éthique.
 
-<sup>3</sup> Pour les essais cliniques de catégories B et C de médicament, dispositif médical de diagnostic *in vitro* ou dispositif au sens de l’art. 2*a*, al. 2, LPTh émettant des rayonnements ionisants, la déclaration visée à l’al. 2 doit aussi être envoyée à l’Institut. Cette obligation incombe au sponsor.
+<sup>3</sup> Pour les essais cliniques de catégories B et C de médicaments ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh émettant des rayonnements ionisants, la déclaration visée à l’al. 2 doit aussi être envoyée à l’Institut. Cette obligation incombe au sponsor.
 
 <sup>4</sup> La commission d’éthique et l’Institut peuvent solliciter l’expertise technique de l’OFSP pour l’appréciation du calcul ou de l’estimation des doses ainsi que la détermination des mesures à prendre.
 
@@ -809,14 +825,14 @@ L’investigateur déclare dans les sept jours à la commission d’éthique com
 
 **Obligation de conservation**
 
-<sup>1</sup> Le promoteur est tenu de conserver toutes les données relatives à l’essai clinique jusqu’à la date de péremption du dernier lot livré du médicament testé ou du dernier dispositif médical de diagnostic *in vitro* fabriqué, mais au moins pendant 10 ans à compter de la fin ou de l’arrêt de l’essai clinique.[^45-1]
+<sup>1</sup> Le promoteur est tenu de conserver toutes les données relatives à l’essai clinique jusqu’à la date du dernier lot livré du médicament testé ou du dernier produit à analyser au sens de l’art. 2*a*, al. 2, LPTh fabriqué, mais au moins pendant 10 ans à compter de la fin ou de l’arrêt de l’essai clinique. Pour les produits implantables au sens de l’art. 2*a*, al. 2, LPTh, le délai de conservation est de 15 ans au moins.[^45-1]
 
-<sup>2</sup> L’investigateur est tenu de conserver tous les documents nécessaires à l’identification et au suivi médical des personnes participant à l’essai clinique ainsi que toutes les autres données originales pendant 10 ans au moins à compter de la fin ou de l’arrêt de l’essai clinique.[^45-2]
+<sup>2</sup> L’investigateur est tenu de conserver tous les documents nécessaires à l’identification et au suivi médical des personnes participant à l’essai clinique ainsi que toutes les autres données originales pendant 10 ans au moins à compter de la fin ou de l’arrêt de l’essai clinique. Pour les produits implantables au sens de l’art. 2*a*, al. 2, LPTh, le délai de conservation est de 15 ans au moins.[^45-2]
 
 <sup>3</sup> Pour les essais cliniques de transplants standardisés et pour les essais cliniques avec du sang ou des produits sanguins, l’obligation de conservation est régie par l’art. 40, al. 1, LPTh.
 
-[^45-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
-[^45-2]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^45-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^45-2]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 ### Section 6 Inspections et mesures administratives
 
@@ -824,7 +840,7 @@ L’investigateur déclare dans les sept jours à la commission d’éthique com
 
 **Inspections effectuées par l’institut**
 
-<sup>1</sup> L’institut a le droit d’inspecter tous les essais cliniques de médicament, dispositif médical de diagnostic *in vitro*, dispositif au sens de l’art. 2*a*, al. 2, LPTh ou de transplants standardisés.
+<sup>1</sup> L’institut a le droit d’inspecter tous les essais cliniques de médicaments, de dispositifs au sens de l’art. 2*a*, al. 2, LPTh ou de transplants standardisés.
 
 <sup>2</sup> Si l’institut procède à des inspections, il en informe au préalable la commission d’éthique ainsi que les autorités cantonales et fédérales compétentes. Celles-ci peuvent prendre part à l’inspection.
 
@@ -834,7 +850,7 @@ L’investigateur déclare dans les sept jours à la commission d’éthique com
 
 <sup>5</sup> L’institut informe la commission d’éthique et les autorités cantonales et fédérales compétentes des résultats de l’inspection.
 
-[^46-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l'art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
+[^46-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
 
 #### Art. 47
 
@@ -989,7 +1005,7 @@ L’OFSP peut révoquer l’autorisation, la suspendre ou soumettre la poursuite
 
 **Objet**
 
-Le présent chapitre est applicable aux essais cliniques qui ne sont ni des essais cliniques de médicament, dispositif médical de diagnostic *in vitro*, dispositif au sens de l’art. 2*a*, al. 2, LPTh ou de transplants standardisés, ni des essais cliniques de transplantation.
+Le présent chapitre est applicable aux essais cliniques qui ne sont ni des essais cliniques de médicaments, de dispositifs au sens de l’art. 2*a*, al. 2, LPTh ou de transplants standardisés, ni des essais cliniques de transplantation.
 
 #### Art. 61
 
@@ -1183,7 +1199,7 @@ Les principes de base et procédures des Académies suisses des sciences relativ
 Les règles de bonnes pratiques cliniques suivantes sont applicables:
 
 - 1\. pour les essais cliniques de médicaments et de transplants standardisés, la directive de la Conférence internationale sur l’harmonisation relative aux bonnes pratiques cliniques, dans sa version du 9 novembre 2016 (directive ICH)[^annex1-lvlu1-lvl2-1];
-- 2\. pour les essais cliniques de dispositifs médicaux de diagnostic *in vitro* ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh, les annexes VIII et X de la directive 93/42/CEE[^annex1-lvlu1-lvl2-2] et les annexes 6 et 7 de la directive 90/385/CEE[^annex1-lvlu1-lvl2-3] concrétisée par la norme EN ISO 14155: 2011[^annex1-lvlu1-lvl2-4]; la définition de l’événement indésirable grave (*Serious Adverse Event*) visé à l’art. 42 est régie par les *Guidelines on Medical Devices* (MEDDEV 2.7/3) de mai 2015[^annex1-lvlu1-lvl2-5];
+- 2\. pour les essais cliniques de dispositifs au sens de l’art. 2*a*, al. 2, LPTh, les annexes VIII et X de la directive 93/42/CEE[^annex1-lvlu1-lvl2-2] et les annexes 6 et 7 de la directive 90/385/CEE[^annex1-lvlu1-lvl2-3] concrétisée par la norme EN ISO 14155: 2011[^annex1-lvlu1-lvl2-4]; la définition de l’événement indésirable grave (*Serious Adverse Event*) visé à l’art. 42 est régie par les *Guidelines on Medical Devices* (MEDDEV 2.7/3) de mai 2015[^annex1-lvlu1-lvl2-5];
 - 3\. pour les essais cliniques au sens des chapitres 3 et 4 de la présente ordonnance, la directive ICH est applicable par analogie.
 
 [^annex1-lvlu1-lvl2-1]: Cette directive peut être consultée gratuitement auprès de l’Office fédéral de la santé publique, 3003 Berne, ou sur les sites suivants: www.bag.admin.ch &gt; Médecine & recherche &gt; Recherche sur l’être humain et www.ich.org &gt; work products &gt; ICH Guidelines &gt; Efficacy Guidelines.
@@ -1226,9 +1242,9 @@ Annexe 3*[^t-3]*
 
 ## Documents requis pour la procédure auprès de la commission d’éthique compétente pour les essais cliniques
 
-[^t-3]: Erratum du 27 déc. 2013 ([RO 2013 5579](https://fedlex.data.admin.ch/eli/oc/2013/892)).
+[^t-3]: Mise à jour par l’erratum du 27 déc. 2013 ([RO 2013 5579](https://fedlex.data.admin.ch/eli/oc/2013/892)) et l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
-### 1 Documents requis pour les essais cliniques de catégorie A de médicament, dispositif médical de diagnostic *in vitro*, dispositif au sens de l’art. 2*a*, al. 2, LPTh ou de transplants standardisés
+### 1 Documents requis pour les essais cliniques de catégorie A de médicaments, de dispositifs au sens de l’art. 2*a*, al. 2, LPTh ou de transplants standardisés
 
 - 1\.1 Formulaire de base incluant le résumé du protocole de recherche rédigé dans la langue nationale du lieu de réalisation et une motivation de la demande de classification dans la catégorie souhaitée;
 - 1\.2 protocole de recherche;
@@ -1237,16 +1253,19 @@ Annexe 3*[^t-3]*
 - 1\.5 autres documents remis à la personne participant au projet de recherche;
 - 1\.6 données relatives au mode et au montant du dédommagement des personnes participant au projet de recherche;
 - 1\.7 pour les essais cliniques de médicaments, l’information professionnelle relative au produit;
-- 1\.8 pour les essais cliniques de dispositifs médicaux de diagnostic *in vitro* ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh, la marque de conformité, y compris l’usage prévu et le mode d’emploi;
-- 1\.9 pour les essais cliniques qui n’utilisent pas de préparations originales, documentation de la conformité aux bonnes pratiques cliniques et à l’étiquetage correct des médicament, dispositif médical de diagnostic *in vitro* ou dispositif au sens de l’art. 2*a*, al. 2, LPTh;
+- 1\.8 pour les essais cliniques de produits au sens de l’art. 2*a*, al. 2, LPTh déclarés conformément à l’art. 6, al. 3, ODim[^annex3-lvlu1-lvl1-1] dans sa version du 1<sup>er</sup> janvier 2002[^annex3-lvlu1-lvl1-2] en application de l’art. 108, al. 1, let. b, ODim, les données sur la conformité, l’usage prévu et le mode d’emploi fournies lors de la déclaration;
+- 1\.9 pour les essais cliniques qui n’utilisent pas de préparations originales, documentation de la conformité aux bonnes pratiques cliniques et à l’étiquetage correct des médicaments ou des dispositifs au sens de l’art. 2*a*, al. 2, LPTh;
 - 1\.10 curriculum vitæ de l’investigateur incluant l’attestation de ses connaissances et de son expérience, ainsi qu’une liste des autres personnes qui accomplissent l’essai clinique, avec leurs fonctions ainsi que leurs connaissances professionnelles en la matière;
 - 1\.11 données relatives aux infrastructures appropriées et disponibles au lieu de réalisation de l’essai clinique;
 - 1\.12 données relatives à la sécurité du traitement des données personnelles;
 - 1\.13 accords entre le promoteur, ou les tiers qu’il a mandatés, et l’investigateur, notamment en ce qui concerne le financement de l’essai clinique, la rémunération de l’investigateur et la publication;
-- 1\.14 certificat d’assurance ou autre attestation de garantie d’éventuels dommages, y compris les accords y relatifs entre le promoteur, ou les tiers qu’il a mandatés, et l’investigateur;
+- 1\.14 certificat d’assurance ou autre attestation de garantie d’éventuels dommages, y compris les accords qui s’y rapportent entre le promoteur, ou les tiers qu’il a mandatés, et l’investigateur;
 - 1\.15 décisions ou avis éventuels rendus sur l’essai clinique par des commissions d’éthique à l’étranger, y compris les éventuelles objections et leurs motivations.
 
-### 2 Documents requis pour les essais cliniques des catégories B et C de médicament, dispositif médical de diagnostic *in vitro*, dispositif au sens de l’art. 2*a*, al. 2, LPTh ou de transplants standardisés
+[^annex3-lvlu1-lvl1-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex3-lvlu1-lvl1-2]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
+
+### 2 Documents requis pour les essais cliniques des catégories B et C de médicaments, de dispositifs au sens de l’art. 2*a*, al. 2, LPTh ou de transplants standardisés
 
 - 2\.1 Formulaire de base incluant le résumé du protocole de recherche rédigé dans la langue nationale du lieu de réalisation et une motivation de la demande de classification dans la catégorie souhaitée;
 - 2\.2 protocole de recherche;
@@ -1256,17 +1275,20 @@ Annexe 3*[^t-3]*
 - 2\.6 données relatives au mode et au montant du dédommagement des personnes participant au projet de recherche;
 - 2\.7 pour les essais cliniques de médicaments de catégorie B, l’information professionnelle et la brochure de l’investigateur (*Investigator’s Brochure, IB*), uniquement en ce qui concerne les déviations de l’administration du produit;
 - 2\.8 pour les essais cliniques de médicaments de catégorie C, la brochure de l’investigateur (*Investigator’s Brochure, IB)*;
-- 2\.9 pour les essais cliniques de dispositifs médicaux de diagnostic *in vitro* ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh de catégorie C sans marque de conformité: les documents mentionnés dans l’annexe 4, ch. 3.4, let. a;
-- 2\.10 pour les essais cliniques de dispositifs médicaux de diagnostic *in vitro* ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh de catégorie C avec marque de conformité qui s’écartent de l’usage prévu ou du mode d’emploi: les documents mentionnés dans l’annexe 4, ch. 3.5, let. a à d;
+- 2\.9 pour les essais cliniques de dispositifs au sens de l’art. 2*a*, al. 2, LPTh de catégorie C sans marque de conformité: les documents mentionnés dans l’annexe 4, ch. 3.4, let. a;
+- 2\.10 pour les essais cliniques de classe C de produits au sens de l’art. 2*a*, al. 2, LPTh déclarés conformément à l’art. 6, al. 3, ODim[^annex3-lvlu1-lvl2-1] dans sa version du 1<sup>er</sup> janvier 2002[^annex3-lvlu1-lvl2-2] en application de l’art. 108, al. 1, let. b, ODim qui s’écartent de l’usage prévu ou du mode d’emploi: les documents mentionnés dans l’annexe 4, ch. 3.5, let. a à d;
 - 2\.11 curriculum vitæ de l’investigateur incluant l’attestation de ses connaissances et de son expérience, ainsi qu’une liste des autres personnes qui accomplissent l’essai clinique, avec leurs fonctions ainsi que leurs connaissances professionnelles en la matière;
 - 2\.12 données relatives aux infrastructures appropriées et disponibles au lieu de réalisation de l’essai clinique;
 - 2\.13 données relatives à la sécurité du traitement des données personnelles;
 - 2\.14 accords entre le promoteur, ou les tiers qu’il a mandatés, et l’investigateur, notamment en ce qui concerne le financement de l’essai clinique, la rémunération de l’investigateur et la publication;
-- 2\.15 certificat d’assurance ou autre attestation de garantie d’éventuels dommages, y compris les accords y relatifs entre le promoteur, ou les tiers qu’il a mandatés, et l’investigateur;
+- 2\.15 certificat d’assurance ou autre attestation de garantie d’éventuels dommages, y compris les accords qui s’y rapportent entre le promoteur, ou les tiers qu’il a mandatés, et l’investigateur;
 - 2\.16 pour les essais cliniques de thérapie génique, les données mentionnées dans l’annexe 4, ch. 4;
 - 2\.17 décisions ou avis éventuels rendus sur l’essai clinique par des commissions d’éthique à l’étranger, y compris les éventuelles objections et leurs motivations.
 
-### 3 Documents requis pour les essais cliniques de transplantation et les essais cliniques sans médicament, dispositif médical de diagnostic *in vitro* ou dispositif au sens de l’art. 2*a*, al. 2, LPTh
+[^annex3-lvlu1-lvl2-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex3-lvlu1-lvl2-2]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
+
+### 3 Documents requis pour les essais cliniques de transplantation et les essais cliniques sans médicament ou dispositif au sens de l’art. 2*a*, al. 2, LPTh
 
 - 3\.1 Formulaire de base incluant le résumé du protocole de recherche rédigé dans la langue nationale du lieu de réalisation et une motivation de la demande de classification dans la catégorie souhaitée;
 - 3\.2 protocole de recherche;
@@ -1287,7 +1309,7 @@ Annexe 3*[^t-3]*
 - 3\.10 données relatives aux infrastructures appropriées et disponibles au lieu de réalisation de l’essai clinique;
 - 3\.11 données relatives à la sécurité du traitement des données personnelles;
 - 3\.12 accords entre le promoteur, ou les tiers qu’il a mandatés, et l’investigateur, notamment en ce qui concerne le financement de l’essai clinique, la rémunération de l’investigateur et la publication;
-- 3\.13 certificat d’assurance ou autre attestation de garantie d’éventuels dommages, y compris les accords y relatifs entre le promoteur, ou les tiers qu’il a mandatés, et l’investigateur;
+- 3\.13 certificat d’assurance ou autre attestation de garantie d’éventuels dommages, y compris les accords qui s’y rapportent entre le promoteur, ou les tiers qu’il a mandatés, et l’investigateur;
 - 3\.14 pour les essais cliniques de transplantation d’organes, de tissus ou de cellules génétiquement modifiés d’origine humaine, les données mentionnées dans l’annexe 4, ch. 6.7;
 - 3\.15 décisions ou avis éventuels rendus sur l’essai clinique par des commissions d’éthique à l’étranger, y compris les éventuelles charges et leurs motivations.
 
@@ -1299,9 +1321,9 @@ Annexe 3*[^t-3]*
 - 4\.4 curriculum vitæ de l’investigateur actif au lieu de réalisation concerné, incluant l’attestation de ses connaissances et de son expérience, ainsi qu’une liste des autres personnes qui accomplissent l’essai clinique au lieu de réalisation concerné, avec leurs fonctions ainsi que leurs connaissances professionnelles en la matière;
 - 4\.5 données relatives aux infrastructures appropriées et disponibles au lieu de réalisation concerné de l’essai clinique;
 - 4\.6 accords entre le promoteur, ou les tiers qu’il a mandatés, et l’investigateur coordinateur ainsi que les investigateurs sur les autres lieux de réalisation, notamment en ce qui concerne la rémunération de l’investigateur actif au lieu de réalisation concerné;
-- 4\.7 certificat d’assurance ou autre attestation de garantie d’éventuels dommages survenus au lieu de réalisation concerné, y compris les accords y relatifs entre le promoteur, ou les tiers qu’il a mandatés, et l’investigateur.
+- 4\.7 certificat d’assurance ou autre attestation de garantie d’éventuels dommages survenus au lieu de réalisation concerné, y compris les accords qui s’y rapportent entre le promoteur, ou les tiers qu’il a mandatés, et l’investigateur.
 
-### 5 Documents supplémentaires requis pour les essais cliniques de médicament, dispositif médical de diagnostic *in vitro* ou dispositif au sens de l’art. 2*a*, al. 2, LPTh susceptibles d’émettre des rayonnements ionisants entrant dans la catégorie A et pour les examens de sources de rayonnement
+### 5 Documents supplémentaires requis pour les essais cliniques de médicaments ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh susceptibles d’émettre des rayonnements ionisants entrant dans la catégorie A et pour les examens de sources de rayonnement
 
 - 5\.1 Données sur les aspects essentiels de la radioprotection, en particulier un calcul ou une estimation de la dose efficace, des doses délivrées aux organes et des éventuelles doses tumorales;
 - 5\.2 les autorisations nécessaires en vertu de l’art. 28 de la loi du 22 mars 1991 sur la radioprotection[^annex3-lvlu1-lvl5-1].
@@ -1318,11 +1340,13 @@ Annexe 3*[^t-3]*
 
 [^annex3-lvlu1-lvl6-1]: Ce formulaire peut être obtenu auprès de l’Office fédéral de la santé publique, Division de la radioprotection, 3003 Berne, ou être consulté sur le site de l’office à l’adresse suivante: www.bag.admin.ch &gt; Vivre en bonne santé &gt; Environnement & santé &gt; Rayonnement, radioactivité & son.
 
-Annexe 4
+Annexe 4*[^t-4]*
 
 (art. 31, 34 à 36, 54 et 55)
 
-## Documents requis pour la procédure auprès de l’Institut suisse des produits thérapeutiques et auprès de l'OFSP pour les essais cliniques de médicaments, de dispositifs médicaux de diagnostic in vitro, de dispositifs selon l'art. 2*a*, al. 2, LPTh ouet de transplants standardisés, pour les essais de thérapie génique, pour les essais avec des organismes génétiquement modifiés ou pathogènes et pour les essais cliniques de transplantation
+## Documents requis pour la procédure auprès de l’Institut suisse des produits thérapeutiques et auprès de l’OFSP pour les essais cliniques de médicaments, de dispositifs selon l’art. 2*a*, al. 2, LPTh ou de transplants standardisés, pour les essais de thérapie génique, pour les essais avec des organismes génétiquement modifiés ou pathogènes et pour les essais cliniques de transplantation
+
+[^t-4]: Mise à jour par l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 ### 1 Documents requis pour les essais cliniques de catégorie B de médicaments et de transplants standardisés
 
@@ -1348,39 +1372,41 @@ Annexe 4
 - 2\.8 éventuelles décisions relatives à l’essai clinique prises par des autorités chargées de la surveillance des médicaments dans d’autres pays, incluant d’éventuelles charges et leur motivation;
 - 2\.9 informations sur d’éventuelles demandes pendantes devant une commisson d’éthique en Suisse, et sur d’éventuelles décisions de commissions d’éthique en Suisse.
 
-### 3 Documents requis pour les essais cliniques de catégorie C de dispositifs médicaux de diagnostic *in vitro* ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh
+### 3 Documents requis pour les essais cliniques de catégorie C de dispositifs au sens de l’art. 2*a*, al. 2, LPTh
 
 - 3\.1 Formulaire de base;
 - 3\.2 protocole de recherche;
 - 3\.3 cahier d’observation (*Case Report Form, CRF*);
 - 3\.4
 
-  pour les essais cliniques d’un dispositif médical de diagnostic *in vitro* ou d’un dispositif au sens de l’art. 2*a*, al. 2, LPTh sans marque de conformité, la documentation y relative incluant:
+  pour les essais cliniques d’un produit au sens de l’art. 2*a*, al. 2, LPTh n’ayant pas été déclaré conformément à l’art. 6, al. 3, ODim[^annex4-lvlu1-lvl3-1] dans sa version du 1<sup>er</sup> janvier 2002[^annex4-lvlu1-lvl3-2] en application de l’art. 108, al. 2, let. b, ODim, la documentation qui s’y rapporte incluant:
 
   - a. la brochure de l’investigateur *(Investigator’s Brochure, IB)* avec une liste des informations cliniques et non cliniques actuelles relatives au produit à tester et à ses composants,
-  - b. la liste des normes applicables aux dispositifs médicaux de diagnostic *in vitro* ou aux dispositifs au sens de l’art. 2*a*, al. 2, LPTh et la description de tous les écarts,
+  - b. la liste des normes applicables aux dispositifs au sens de l’art. 2*a*, al. 2, LPTh et la description de tous les écarts,
   - c. la documentation et la motivation des éventuels écarts par rapport à la norme ISO 14155,
-  - d. la déclaration, respectivement la libération du fabricant au sens de l’annexe VIII de la directive 93/42/CEE[^annex4-lvlu1-lvl3-1] ou de l’annexe 6 de la directive 90/385/CEE[^annex4-lvlu1-lvl3-2],
+  - d. la déclaration, respectivement la libération du fabricant au sens de l’annexe VIII de la directive 93/42/CEE[^annex4-lvlu1-lvl3-3] ou de l’annexe 6 de la directive 90/385/CEE[^annex4-lvlu1-lvl3-4],
   - e. déclaration de mise à disposition des documents mentionnés dans l’annexe VIII de la directive 93/42/CEE ou de l’annexe 6 de la directive 90/385/CEE,
   - f. pour autant que le promoteur de l’essai clinique et le fabricant ne soient pas identiques: le contrat conclu par le promoteur et le fabricant en matière de gestion des risques;
 
 - 3\.5
 
-  pour les essais cliniques d’un dispositif médical de diagnostic *in vitro* ou d’un dispositif au sens de l’art. 2*a*, al. 2, LPTh avec marque de conformité qui s’écartent de l’usage prévu ou du mode d’emploi, la documentation relative au dispositif médical de diagnostic *in vitro* ou relative au dispositif au sens de l’art. 2*a*, al. 2, LPTh incluant:
+  pour les essais cliniques d’un produit au sens de l’art. 2*a*, al. 2, LPTh déclaré conformément à l’art. 6, al. 3, ODim dans sa version du 1<sup>er</sup> janvier 2002 en application de l’art. 108, al. 1, let. b, ODim qui s’écartent de l’usage prévu ou du mode d’emploi, la documentation qui s’y rapporte incluant:
 
-  - a. les données sur la conformité du dispositif médical de diagnostic *in vitro* ou du dispositif au sens de l’art. 2*a*, al. 2, LPTh,
+  - a. les données sur la conformité du dispositif au sens de l’art. 2*a*, al. 2, LPTh,
   - b. l’information sur le produit (notice d’emballage),
   - c. l’analyse des risques de la nouvelle utilisation et les mesures de sécurité qui en découlent,
   - d. d’autres éléments figurant dans la brochure de l’investigateur *(Invest**i**gator’s Brochure, IB)* et qui concernent la nouvelle utilisation,
-  - e. une liste des normes pour dispositifs médicaux de diagnostic *in vitro* ou dispositifs au sens de l’art. 2*a*, al. 2, LPTh applicables et la description des éventuelles déviations dues à la nouvelle utilisation,
+  - e. une liste des normes pour dispositifs au sens de l’art. 2*a*, al. 2, LPTh applicables et la description des éventuelles déviations dues à la nouvelle utilisation,
   - f. la documentation et la motivation des éventuels écarts par rapport à la norme ISO 14155;
 
 - 3\.6 feuille d’information et déclaration du consentement éclairé;
 - 3\.7 éventuelles décisions relatives à l’essai clinique prises par des autorités chargées de la surveillance des médicaments dans d’autres pays, incluant d’éventuelles conditions et leur motivation;
 - 3\.8 informations sur d’éventuelles demandes pendantes devant une commisson d’éthique en Suisse, et sur d’éventuelles décisions de commissions d’éthique en Suisse.
 
-[^annex4-lvlu1-lvl3-1]: Directive 93/42/CEE du Conseil du 14 juin 1993 relative aux dispositifs médicaux, JO L 169 du 12.7.1993, p. 1; modifiée en dernier lieu par la directive 2007/47/CEE, JO L 247 du 21.9.2007, p. 21.
-[^annex4-lvlu1-lvl3-2]: Directive 90/385/CEE du Conseil du 20 juin 1990 concernant le rapprochement des législations des Etats membres relatives aux dispositifs médicaux implantables actifs, JO L 189 du 20.7.1990, p. 17; modifiée en dernier lieu par la directive 2007/47/CEE, JO L 247 du 21.9.2007, p. 21.
+[^annex4-lvlu1-lvl3-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex4-lvlu1-lvl3-2]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
+[^annex4-lvlu1-lvl3-3]: Directive 93/42/CEE du Conseil du 14 juin 1993 relative aux dispositifs médicaux, JO L 169 du 12.7.1993, p. 1; modifiée en dernier lieu par la directive 2007/47/CEE, JO L 247 du 21.9.2007, p. 21.
+[^annex4-lvlu1-lvl3-4]: Directive 90/385/CEE du Conseil du 20 juin 1990 concernant le rapprochement des législations des Etats membres relatives aux dispositifs médicaux implantables actifs, JO L 189 du 20.7.1990, p. 17; modifiée en dernier lieu par la directive 2007/47/CEE, JO L 247 du 21.9.2007, p. 21.
 
 ### 4 Documents supplémentaires requis pour les essais cliniques de catégories B et C de thérapie génique ou avec des organismes génétiquement modifiés ou pathogènes
 
@@ -1388,13 +1414,13 @@ Annexe 4
 - 4\.2 évaluation des risques liés à la réalisation de l’essai clinique pour la protection de l’être humain et de l’environnement;
 - 4\.3 description des mesures de sécurité nécessaires à la protection de l’être humain, de l’animal et de l’environnement, notamment les mesures permettant d’empêcher la libération de microorganismes dans l’environnement pendant et après la transplantation, lors du transport, du stockage et du traitement des déchets.
 
-### 5 Documents supplémentaires requis pour les essais cliniques de médicament, dispositif médical de diagnostic *in vitro* ou dispositif au sens de l’art. 2*a*, al. 2, LPTh susceptibles d’émettre des rayonnements ionisants
+### 5 Documents supplémentaires requis pour les essais cliniques de médicaments ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh susceptibles d’émettre des rayonnements ionisants
 
 - 5\.1 Données sur les aspects essentiels de la radioprotection, en particulier un calcul ou une estimation de la dose efficace, des doses délivrées aux organes et des éventuelles doses tumorales;
 - 5\.2 les autorisations nécessaires en vertu de l’art. 28 de la loi du 22 mars 1991 sur la radioprotection[^annex4-lvlu1-lvl5-1];
 - 5\.3
 
-  pour les médicament, dispositifs médicaux de diagnostic *in vitro* ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh qui contiennent des sources radioactives[^annex4-lvlu1-lvl5-2]:
+  pour les médicament ou dispositifs au sens de l’art. 2*a*, al. 2, LPTh qui contiennent des sources radioactives[^annex4-lvlu1-lvl5-2]:
 
   - a. les données relatives aux propriétés radiopharmaceutiques, notamment la pharmacocinétique, la qualité, la stabilité, la pureté radiochimique et l’unité d’activité du radionucléide,
   - b. pour les produits radiopharmaceutiques autorisés, l’information professionnelle,

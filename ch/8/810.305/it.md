@@ -4,11 +4,11 @@ title: "Ordinanza del 20 settembre 2013 sulle sperimentazioni cliniche ad eccezi
 short: OSRUm
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/643"
 language: it
-version: 2021-05-26
+version: 2022-05-26
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20210526/it/xml/fedlex-data-admin-ch-eli-cc-2013-643-20210526-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20210526/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20220526/it/xml/fedlex-data-admin-ch-eli-cc-2013-643-20220526-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20220526/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20210526/it"
 
 (Ordinanza sulle sperimentazioni cliniche, OSRUm)[^t-1]
 
-del 20 settembre 2013 (Stato 26 maggio 2021)
+del 20 settembre 2013 (Stato 26 maggio 2022)
 
 [^t-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici, in vigore dal 26 mag. 2021 ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
@@ -48,7 +48,7 @@ La presente ordinanza disciplina:
   i requisiti posti allo svolgimento di:
 
   - 1\.[^1-2] sperimentazioni cliniche con medicamenti, incluse le combinazioni ai sensi dell’articolo 2 capoverso 1 lettere f e g dell’ordinanza del 1° luglio 2020[^1-3] relativa ai dispositivi medici (ODmed), o gli espianti standardizzati,
-  - 2\. sperimentazioni cliniche con dispositivi medico-diagnostici in vitro o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer[^1-4],
+  - 2\. sperimentazioni cliniche con ...[^1-4] dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer[^1-5],
   - 3\. sperimentazioni cliniche di trapianti,
   - 4\. sperimentazioni cliniche che non sono sperimentazioni cliniche di cui ai numeri 1–3;
 
@@ -60,16 +60,19 @@ La presente ordinanza disciplina:
 
 Sono applicabili:
 
-- a. alle sperimentazioni cliniche con dispositivi medici ai sensi dell’ODmed, l’ordinanza del 1° luglio 2020[^1-5] sulle sperimentazioni cliniche con dispositivi medici;
-- b. alle sperimentazioni cliniche di xenotrapianti, l’ordinanza del 16 marzo 2007[^1-6] sugli xenotrapianti.[^1-7]
+- a.[^1-6] alle sperimentazioni cliniche con dispositivi medici secondo l’articolo 1 ODmed e secondo l’articolo 1 dell’ordinanza del 4 maggio 2022[^1-7] relativa ai dispositivi medico-diagnostici in vitro: l’ordinanza del 1° luglio 2020[^1-8] sulle sperimentazioni cliniche con dispositivi medici;
+- b. alle sperimentazioni cliniche di xenotrapianti, l’ordinanza del 16 marzo 2007[^1-9] sugli xenotrapianti.[^1-10]
 
 [^1-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici, in vigore dal 26 mag. 2021 ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 [^1-2]: Nuovo testo giusta l’all. n. 2 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 [^1-3]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^1-4]: Nuova espressione giusta l’all. n. 2 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^1-5]: RS **812.213.3**
-[^1-6]: [RS 810.213](https://fedlex.data.admin.ch/eli/cc/2007/283)
-[^1-7]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici, in vigore dal 26 mag. 2021 ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^1-4]: Espr. stralciata giusta l’all. 2 n. 2 dell’O del 4 mag. 2022, con effetto dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^1-5]: Nuova espr. giusta l’all. n. 2 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^1-6]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^1-7]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
+[^1-8]: [RS 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
+[^1-9]: [RS 810.213](https://fedlex.data.admin.ch/eli/cc/2007/283)
+[^1-10]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici, in vigore dal 26 mag. 2021 ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
 #### Art. 2
 
@@ -88,13 +91,19 @@ Ai sensi della presente ordinanza s’intende per:
   - 3\. il prelievo o la raccolta di sostanze organiche senza misure invasive (in particolare campioni di saliva, urina e feci),
   - 4\. gli strisci,
   - 5\. le tomografie a risonanza magnetica senza mezzo di contrasto, le ecografie o gli elettrogrammi,
-  - 6\. gli esami con dispositivi medici secondo l’articolo 3 dell’ODmed[^2-2], provvisti di marchio di conformità senza mezzo di contrasto oppure con medicamenti omologati che possono emettere radiazioni ionizzanti, se la dose efficace è inferiore a 5 mSv per progetto di ricerca e per persona interessata;
+  - 6\.[^2-2]
+
+    gli esami con radiazioni ionizzanti, se la dose efficace è inferiore a 5 mSv per progetto di ricerca e per persona partecipante, e:
+
+    - – i medicamenti utilizzati a tale scopo sono omologati o esenti da omologazione, oppure
+    - – i dispositivi secondo l’articolo 1 ODmed[^2-3] sono provvisti di marchio di conformità e non è utilizzato alcun mezzo di contrasto;
 
 - d. *promotore:* persona o istituzione con sede o rappresentanza in Svizzera che assume la responsabilità dell’organizzazione di una sperimentazione clinica, segnatamente dell’avvio, della gestione e del finanziamento della stessa in Svizzera;
 - e. *sperimentatore:* persona responsabile sul posto dello svolgimento pratico di una sperimentazione clinica in Svizzera, nonché della protezione delle persone partecipanti; lo sperimentatore che assume la responsabilità di organizzare in Svizzera una sperimentazione clinica ne è allo stesso tempo il promotore.
 
 [^2-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici, in vigore dal 26 mag. 2021 ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
-[^2-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^2-2]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^2-3]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 ### Sezione 2: Principi
 
@@ -144,13 +153,14 @@ Lo sperimentatore responsabile di una sperimentazione clinica deve:
 - a. disporre di una formazione sufficiente in materia di Buona prassi clinica, nonché delle necessarie conoscenze ed esperienze specifiche per la sperimentazione clinica; e
 - b. essere a conoscenza delle condizioni legali poste a una sperimentazione clinica o essere in grado di garantirle avvalendosi di un esperto.
 
-<sup>2</sup> Lo sperimentatore responsabile di una sperimentazione clinica con medicamenti o trapianti deve inoltre essere autorizzato a esercitare la professione di medico sotto la propria responsabilità professionale.
+<sup>2</sup> Lo sperimentatore responsabile di una sperimentazione clinica con medicamenti, prodotti ai sensi dell’articolo 2*a* capoverso 2 LATer o trapianti deve inoltre essere autorizzato a esercitare la professione di medico sotto la propria responsabilità professionale.[^6-1]
 
-<sup>3</sup> È abilitata a svolgere sperimentazioni cliniche con dispositivi medico-diagnostici in vitro[^6-1] o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer e sperimentazioni cliniche secondo il capitolo 4 in veste di sperimentatore anche una persona senza qualifiche mediche, sempre che sia autorizzata a esercitare la professione che le conferisce le qualifiche specifiche per svolgere la sperimentazione clinica sotto la propria responsabilità.
+<sup>3</sup> È abilitata a svolgere sperimentazioni cliniche secondo il capitolo 4 in veste di sperimentatore anche una persona senza qualifiche mediche, sempre che sia autorizzata a esercitare la professione che le conferisce le qualifiche specifiche per svolgere la sperimentazione clinica sotto la propria responsabilità.[^6-2]
 
 <sup>4</sup> Le altre persone che svolgono la sperimentazione clinica devono disporre delle conoscenze ed esperienze specifiche corrispondenti all’attività in questione.
 
-[^6-1]: Nuova espressione giusta l’all. 2 n. 2 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici, in vigore dal 26 mag. 2021 ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^6-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^6-2]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 ### Sezione 3: Informazione, consenso e revoca
 
@@ -225,7 +235,7 @@ Si può omettere l’anonimizzazione del materiale biologico e dei dati personal
 
 - a. alla somministrazione di un medicamento omologato, utilizzato conformemente all’informazione professionale;
 - b. alla somministrazione di un medicamento omologato, qualora sia considerata un trattamento standard in una direttiva redatta secondo criteri qualitativi riconosciuti a livello internazionale;
-- c. all’impiego di un dispositivo medico-diagnostico in vitro o dispositivo ai sensi dell’articolo 2*a* capoverso 2 LATer, recante un marchio di conformità e utilizzato conformemente alle istruzioni per l’uso;
+- c.[^10-1] all’impiego di un prodotto ai sensi dell’articolo 2*a* capoverso 2 LATer e notificato secondo l’articolo 6 capoverso 3 ODmed[^10-2] nella versione del 1° gennaio 2002[^10-3] in applicazione dell’articolo 108 capoverso 1 lettera b ODmed e utilizzato conformemente alle istruzioni per l’uso;
 - d. all’esecuzione di un altro intervento relativo alla salute, considerato un intervento standard in una direttiva redatta secondo criteri qualitativi riconosciuti a livello internazionale.
 
 <sup>2</sup>
@@ -234,6 +244,10 @@ Si può omettere l’anonimizzazione del materiale biologico e dei dati personal
 
 - a. che un danno equivalente avrebbe potuto sopraggiungere anche se la persona danneggiata si fosse sottoposta a una terapia ordinaria per la cura della sua malattia; o
 - b. in caso di malattie che presentano un pericolo di morte incombente, che per esse non esiste alcuna terapia standard.
+
+[^10-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^10-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^10-3]: [RU 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
 #### Art. 11
 
@@ -348,7 +362,7 @@ Chi conserva materiale biologico nell’ambito di una sperimentazione clinica de
 - b. garantire i requisiti tecnici per la conservazione appropriata del materiale biologico;
 - c. mettere a disposizione le risorse necessarie alla conservazione.
 
-## Capitolo 2: Procedura di autorizzazione e di notifica per sperimentazioni cliniche con medicamenti, dispositivi medico-diagnostici in vitro, dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer o espianti standardizzati
+## Capitolo 2: Procedura di autorizzazione e di notifica per sperimentazioni cliniche con medicamenti o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer o espianti standardizzati
 
 ### Sezione 1: Disposizioni generali
 
@@ -383,22 +397,26 @@ Le sperimentazioni cliniche con medicamenti rientrano nella categoria B se il me
 
 #### Art. 20
 
-**Classificazione delle sperimentazioni cliniche con dispositivi medico-diagnostici in vitro o di dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer**
+**Classificazione delle sperimentazioni cliniche con prodotti ai sensi dell’articolo 2*a* capoverso 2 LATer**[^20-1]
 
 <sup>1</sup>
 
-Le sperimentazioni cliniche con dispositivi medico-diagnostici in vitro o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer rientrano nella categoria A se:
+Le sperimentazioni cliniche con prodotti ai sensi dell’articolo 2*a* capoverso 2 LATer rientrano nella categoria A se:
 
-- a. il dispositivo medico-diagnostico in vitro o il dispositivo ai sensi dell’articolo 2*a* capoverso 2 LATer è provvisto di un marchio di conformità; e
+- a. il prodotto in esame è stato notificato secondo l’articolo 6 capoverso 3 ODmed[^20-2] nella versione del 1° gennaio 2002[^20-3] in applicazione dell’articolo 108 capoverso 1 lettera b ODmed; e
 - b. viene utilizzato conformemente alle istruzioni per l’uso.
 
 <sup>2</sup>
 
 Esse rientrano nella categoria C se:
 
-- a. il dispositivo medico-diagnostico in vitro o il dispositivo ai sensi dell’articolo 2*a* capoverso 2 LATer non è provvisto di un marchio di conformità;
-- b. la sua utilizzazione diverge dalle prescrizioni contenute nelle istruzioni per l’uso riconosciute nell’ambito del marchio di conformità; oppure
-- c. l’utilizzazione del dispositivo medico-diagnostico in vitro o del dispositivo ai sensi dell’articolo 2*a* capoverso 2 LATer è proibita in Svizzera.
+- a. il prodotto in esame non è stato notificato secondo l’articolo 6 capoverso 3 ODmed nella versione del 1° gennaio 2002 in applicazione dell’articolo 108 capoverso 1 lettera b ODmed;
+- b. la sua utilizzazione diverge dalle prescrizioni contenute nelle istruzioni per l’uso riconosciute; oppure
+- c. l’utilizzazione del prodotto in esame è proibita in Svizzera.
+
+[^20-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^20-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^20-3]: [RU 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
 #### Art. 21
 
@@ -467,7 +485,7 @@ La commissione d’etica competente verifica:
 - g. le sufficienti conoscenze ed esperienze dello sperimentatore e delle altre persone che svolgono la sperimentazione clinica in merito al settore specifico e allo svolgimento di una sperimentazione clinica;
 - h. l’idoneità delle infrastrutture nel luogo di svolgimento;
 - i. il finanziamento della sperimentazione clinica e gli accordi tra il promotore, i terzi e lo sperimentatore in merito alla ripartizione dei compiti, alla retribuzione e alla pubblicazione;
-- j. nelle sperimentazioni cliniche con medicamenti, dispositivi medico-diagnostici in vitro o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer, che possono emettere radiazioni ionizzanti e che sono classificati nelle categoria A, inoltre, il rispetto della legislazione sulla radioprotezione e la stima delle dosi;
+- j. nelle sperimentazioni cliniche con medicamenti o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer, che possono emettere radiazioni ionizzanti e che sono classificati nelle categoria A, inoltre, il rispetto della legislazione sulla radioprotezione e la stima delle dosi;
 - k. negli esami con sorgenti di radiazioni[^25-1], inoltre, il rispetto della legislazione sulla radioprotezione e la stima delle dosi, ove non sia necessario ottenere un parere dell’UFSP conformemente all’articolo 28;
 - l. altri ambiti, ove necessario per garantire la protezione delle persone partecipanti.
 
@@ -585,7 +603,7 @@ Per le sperimentazioni cliniche con medicamenti, l’Istituto verifica:
 
 <sup>3</sup>
 
-Per le sperimentazioni cliniche con dispositivi medico-diagnostici in vitro o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer, l’Istituto verifica:
+Per le sperimentazioni cliniche con dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer, l’Istituto verifica:
 
 - a. la completezza della domanda;
 - b. i requisiti di cui all’articolo 54 capoverso 4 lettera b LATer.
@@ -651,9 +669,9 @@ Esso rilascia l’autorizzazione se:
 
 #### Art. 36
 
-**Sperimentazioni cliniche con medicamenti, dispositivi medico-diagnostici in vitro o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer che possono emettere radiazioni ionizzanti**
+**Sperimentazioni cliniche con medicamenti o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer che possono emettere radiazioni ionizzanti**
 
-<sup>1</sup> Per le sperimentazioni cliniche delle categorie B e C con medicamenti, dispositivi medico-diagnostici in vitro o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer che possono emettere radiazioni ionizzanti, devono essere presentati all’Istituto anche i documenti previsti nell’allegato 4 numero 5.
+<sup>1</sup> Per le sperimentazioni cliniche delle categorie B e C con medicamenti o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer che possono emettere radiazioni ionizzanti, devono essere presentati all’Istituto anche i documenti previsti nell’allegato 4 numero 5.
 
 <sup>2</sup> Per le sperimentazioni cliniche della categoria C, prima di rilasciare l’autorizzazione l’Istituto chiede il parere dell’UFSP. L’UFSP verifica il rispetto della legislazione sulla radioprotezione e la stima delle dosi.
 
@@ -681,7 +699,7 @@ Per le sperimentazioni cliniche della categoria C, esso trasmette all’UFSP imm
 
 <sup>1</sup> Se durante lo svolgimento di una sperimentazione clinica devono essere adottate senza indugio misure di sicurezza e tutela, lo sperimentatore notifica entro sette giorni alla commissione d’etica tali misure e le circostanze per cui si sono rese necessarie.
 
-<sup>2</sup> Per le sperimentazioni cliniche con dispositivi medico-diagnostici in vitro o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer, tale notifica deve aver luogo entro due giorni.
+<sup>2</sup> Per le sperimentazioni cliniche con dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer, tale notifica deve aver luogo entro due giorni.
 
 <sup>3</sup> Per le sperimentazioni cliniche delle categorie B e C le notifiche di cui ai capoversi 1 e 2 devono essere presentate all’Istituto. Tale obbligo incombe al promotore.
 
@@ -739,7 +757,7 @@ Per le sperimentazioni cliniche della categoria C, esso trasmette all’UFSP imm
 
 #### Art. 42
 
-**Eventi indesiderati gravi (Serious Adverse Events, SAE) e vizi del dispositivo medico-diagnostico in vitro sopraggiunti durante sperimentazioni cliniche con dispositivi medico-diagnostici in vitro**[^42-1]
+**Eventi indesiderati gravi (*Serious Adverse Events, SAE*) e vizi del prodotto ai sensi dell’articolo 2*a* capoverso 2 LATer sopraggiunti durante sperimentazioni cliniche con prodotti ai sensi dell’articolo 2*a* capoverso 2 LATer**[^42-1]
 
 <sup>1</sup>
 
@@ -747,44 +765,45 @@ Lo sperimentatore notifica alla commissione d’etica competente entro sette gio
 
 - a.
 
-  qualsiasi evento indesiderato grave sopraggiunto durante una sperimentazione clinica con dispositivi medico-diagnostici in vitro della categoria C in persone partecipanti in Svizzera, per il quale non si può escludere che sia imputabile:
+  qualsiasi evento indesiderato grave sopraggiunto durante una sperimentazione clinica della categoria C con prodotti ai sensi dell’articolo 2*a* capoverso 2 LATer in persone partecipanti in Svizzera, per il quale non si può escludere che sia imputabile:
 
-  - 1\. al dispositivo medico-diagnostico in vitro in esame, oppure
+  - 1\. al prodotto in esame, oppure
   - 2\. a un intervento avvenuto durante la sperimentazione clinica;
 
-- b. i vizi del dispositivo medico-diagnostico in vitro in esame che avrebbero potuto causare eventi indesiderati gravi senza provvedimenti appropriati, senza un intervento oppure in condizioni meno favorevoli.
+- b. i vizi del prodotto ai sensi dell’articolo 2*a* capoverso 2 LATer in esame che avrebbero potuto causare eventi indesiderati gravi senza provvedimenti appropriati, senza un intervento oppure in condizioni meno favorevoli.
 
-<sup>2</sup> Se in una sperimentazione clinica multicentrica sopraggiungono eventi indesiderati gravi o vizi del dispositivo medico-diagnostico in vitro in uno dei luoghi di svolgimento, lo sperimentatore coordinatore presenta la notifica anche alla competente commissione d’etica partecipante.
+<sup>2</sup> Se in una sperimentazione clinica multicentrica sopraggiungono eventi indesiderati gravi o vizi del prodotto ai sensi dell’articolo 2*a* capoverso 2 LATer in esame in uno dei luoghi di svolgimento, lo sperimentatore coordinatore presenta la notifica anche alla competente commissione d’etica partecipante.
 
-<sup>3</sup> Per una sperimentazione clinica della categoria C, le notifiche di cui al capoverso 1 devono essere presentate anche all’Istituto. Quest’obbligo incombe al promotore. Egli notifica all’Istituto anche gli eventi sopraggiunti all’estero e i vizi constatati sul dispositivo medico-diagnostico in vitro. Per una sperimentazione clinica della categoria A, l’obbligo di notifica incombe al promotore secondo all’articolo 15 capoverso 1 dell’ordinanza del 17 ottobre 2001[^42-2] relativa ai dispositivi medici.
+<sup>3</sup> Per una sperimentazione clinica della categoria C, le notifiche di cui al capoverso 1 devono essere presentate anche all’Istituto. Quest’obbligo incombe al promotore. Egli notifica all’Istituto anche gli eventi sopraggiunti all’estero e i vizi constatati sul prodotto ai sensi dell’articolo 2*a* capoverso 2 LATer in esame. Per una sperimentazione clinica della categoria A, l’obbligo di notifica incombe al promotore secondo l’articolo 15 capoverso 1 ODmed[^42-2] nella versione del 1° gennaio 2002[^42-3] in applicazione dell’articolo 103 capoverso 2 ODmed.
 
-<sup>4</sup> La definizione degli eventi indesiderati gravi e dei vizi del dispositivo medico-diagnostico in vitro è retta dalle norme della Buona prassi clinica di cui all’allegato 1 numero 2 numero 2.
+<sup>4</sup> La definizione degli eventi indesiderati gravi e dei vizi del prodotto ai sensi dell’articolo 2*a* capoverso 2 LATer è retta dalle norme della Buona prassi clinica di cui all’allegato 1 numero 2.
 
-[^42-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici, in vigore dal 26 mag. 2021 ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
-[^42-2]: [RU 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520), [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170)
+[^42-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^42-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^42-3]: [RU 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
 #### Art. 43
 
 **Rapporto sulla sicurezza delle persone partecipanti alla sperimentazione**
 
-<sup>1</sup> Lo sperimentatore sottopone una volta all’anno alla commissione d’etica competente un elenco degli eventi, dei vizi del dispositivo medico-diagnostico in vitro in esame e delle reazioni avverse ai medicamenti di cui agli articoli 40–42 e le presenta un rapporto basato su di esso sul grado di gravità di tali eventi e reazioni, sul relativo nesso di causalità con l’intervento e sulla sicurezza delle persone partecipanti (*Annual Safety Report, ASR*).[^43-1]
+<sup>1</sup> Lo sperimentatore sottopone una volta all’anno alla commissione d’etica competente un elenco degli eventi, dei vizi constatati sul prodotto ai sensi dell’articolo 2*a* capoverso 2 LATer in esame e delle reazioni avverse ai medicamenti di cui agli articoli 40–42 e su questa base le presenta un rapporto sul grado di gravità di tali eventi e reazioni, sul relativo nesso di causalità con l’intervento e sulla sicurezza delle persone partecipanti (*Annual Safety Report, ASR*).[^43-1]
 
-<sup>2</sup> Per le sperimentazioni cliniche che sono condotte anche all’estero sulla base dello stesso protocollo della sperimentazione, nell’elenco e nel rapporto devono inoltre figurare gli eventi, i vizi del dispositivo medico-diagnostico in vitro in esame e le reazioni avverse ai medicamenti sopraggiunti all’estero.[^43-2]
+<sup>2</sup> Per le sperimentazioni cliniche che sono condotte anche all’estero sulla base dello stesso protocollo della sperimentazione, nell’elenco e nel rapporto devono inoltre figurare gli eventi, i vizi constatati sul prodotto ai sensi dell’articolo 2*a* capoverso 2 LATer in esame e le reazioni avverse ai medicamenti sopraggiunti all’estero.[^43-2]
 
 <sup>3</sup> Per le sperimentazioni cliniche delle categorie B e C occorre presentare anche all’Istituto un rapporto conformemente ai capoversi 1 e 2. Tale obbligo incombe al promotore.
 
-[^43-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici, in vigore dal 26 mag. 2021 ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
-[^43-2]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici, in vigore dal 26 mag. 2021 ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^43-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^43-2]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 44
 
 **Monitoraggio, notifica e rapporto in caso di impiego di sorgenti di radiazioni**[^44-1]
 
-<sup>1</sup> Nel caso di sperimentazioni cliniche con medicamenti, dispositivi medico-diagnostici in vitro o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer che possono emettere radiazioni ionizzanti e di esami con sorgenti di radiazioni, lo sperimentatore monitora il rispetto del vincolo di dose di cui all’articolo 45 dell’ordinanza sulla radioprotezione del 26 aprile 2017[^44-2].
+<sup>1</sup> Nel caso di sperimentazioni cliniche con medicamenti o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer che possono emettere radiazioni ionizzanti e di esami con sorgenti di radiazioni, lo sperimentatore monitora il rispetto del vincolo di dose di cui all’articolo 45 dell’ordinanza sulla radioprotezione del 26 aprile 2017[^44-2].
 
 <sup>2</sup> Notifica alla commissione d’etica competente il superamento del vincolo di dose ammesso entro sette giorni lavorativi dal momento in cui ne ha conoscenza.
 
-<sup>3</sup> Per le sperimentazioni cliniche delle categorie B e C con medicamenti, dispositivi medico-diagnostici in vitro o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer che emettono radiazioni ionizzanti occorre dare notifica anche all’Istituto conformemente al capoverso 2. Tale obbligo incombe al promotore.
+<sup>3</sup> Per le sperimentazioni cliniche delle categorie B e C con medicamenti o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer che emettono radiazioni ionizzanti occorre dare notifica anche all’Istituto conformemente al capoverso 2. Tale obbligo incombe al promotore.
 
 <sup>4</sup> La commissione d’etica competente e l’Istituto possono richiedere la consulenza tecnica dell’UFSP per valutare il calcolo o la stima della dose nonché per definire ulteriori misure.
 
@@ -801,14 +820,14 @@ Lo sperimentatore notifica alla commissione d’etica competente entro sette gio
 
 **Obbligo di conservazione**
 
-<sup>1</sup> Il promotore conserva tutti i dati relativi alla sperimentazione clinica fino alla data di scadenza dell’ultimo lotto fornito del medicamento esaminato o dell’ultimo dispositivo medico-diagnostico in vitro fabbricato, ma almeno per dieci anni dalla conclusione o dall’arresto della sperimentazione clinica.[^45-1]
+<sup>1</sup> Il promotore conserva tutti i dati relativi alla sperimentazione clinica fino alla data di scadenza dell’ultimo lotto fornito del medicamento in esame o dell’ultimo prodotto ai sensi dell’articolo 2*a* capoverso 2 LATer fabbricato, ma almeno per dieci anni dalla conclusione o dall’arresto della sperimentazione clinica. Per i prodotti impiantabili ai sensi dell’articolo 2*a* capoverso 2 LATer il termine di conservazione è di almeno 15 anni.[^45-1]
 
-<sup>2</sup> Lo sperimentatore conserva tutti i documenti necessari all’identificazione e alla cura successiva delle persone partecipanti alla sperimentazione, nonché tutti gli altri dati originali durante almeno dieci anni dalla conclusione o dall’arresto della sperimentazione clinica.[^45-2]
+<sup>2</sup> Lo sperimentatore conserva tutti i documenti necessari all’identificazione e alla cura successiva delle persone partecipanti alla sperimentazione, nonché tutti gli altri dati originali durante almeno dieci anni dalla conclusione o dall’arresto della sperimentazione clinica. Per i prodotti impiantabili ai sensi dell’articolo 2*a* capoverso 2 LATer il termine di conservazione è di almeno 15 anni.[^45-2]
 
 <sup>3</sup> Per le sperimentazioni cliniche con espianti standardizzati e per le sperimentazioni cliniche con sangue e suoi derivati il termine di conservazione è retto dall’articolo 40 capoverso 1 LATer.
 
-[^45-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici, in vigore dal 26 mag. 2021 ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
-[^45-2]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici, in vigore dal 26 mag. 2021 ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^45-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^45-2]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 ### Sezione 6: Ispezioni e misure amministrative
 
@@ -816,7 +835,7 @@ Lo sperimentatore notifica alla commissione d’etica competente entro sette gio
 
 **Ispezioni dell’Istituto**
 
-<sup>1</sup> L’Istituto è autorizzato a procedere a ispezioni per tutte le sperimentazioni cliniche con medicamenti, dispositivi medico-diagnostici in vitro, dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer o espianti standardizzati.
+<sup>1</sup> L’Istituto è autorizzato a procedere a ispezioni per tutte le sperimentazioni cliniche con medicamenti o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer o espianti standardizzati.
 
 <sup>2</sup> Se procede a ispezioni, l’Istituto ne informa previamente la commissione d’etica competente, nonché altre autorità cantonali e federali competenti. Queste ultime possono partecipare all’ispezione.
 
@@ -981,7 +1000,7 @@ L’UFSP può revocare o sospendere l’autorizzazione rilasciata oppure vincola
 
 **Oggetto**
 
-Il presente capitolo è applicabile alle sperimentazioni cliniche che non trattano né medicamenti, dispositivi medico-diagnostici in vitro, dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer o espianti standardizzati, né trapianti.
+Il presente capitolo è applicabile alle sperimentazioni cliniche che non trattano né medicamenti o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer o espianti standardizzati, né trapianti.
 
 #### Art. 61
 
@@ -1113,7 +1132,7 @@ Sono abrogate:
 - 3\. l’ordinanza del 30 giugno 1993[^69-3] sugli studi HIV.
 
 [^69-1]: [[RU 1993 1983](https://fedlex.data.admin.ch/eli/oc/1993/1983_1983_1983)]
-[^69-2]: [[RU 2001 3511](https://fedlex.data.admin.ch/eli/oc/2001/521), [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)n. I 6, [2007 5651](https://fedlex.data.admin.ch/eli/oc/2007/778)n. II 3, [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170)all. 7 [4043](https://fedlex.data.admin.ch/eli/oc/2010/586), [2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)all. 5 n. 4]
+[^69-2]: [[RU 2001 3511](https://fedlex.data.admin.ch/eli/oc/2001/521); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)n. I 6; [2007 5651](https://fedlex.data.admin.ch/eli/oc/2007/778)n. II 3; [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170)all. 7, [4043](https://fedlex.data.admin.ch/eli/oc/2010/586); [2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)all. 5 n. 4]
 [^69-3]: [[RU 1993 2294](https://fedlex.data.admin.ch/eli/oc/1993/2294_2294_2294)]
 
 #### Art. 70
@@ -1175,7 +1194,7 @@ Sono applicabili i principi e le regole procedurali in materia di integrità sci
 Quali regole della Buona prassi clinica sono applicabili:
 
 - 1\. per le sperimentazioni cliniche con medicamenti ed espianti standardizzati, la direttiva sulla Buona prassi clinica della Conferenza internazionale di armonizzazione nella versione del 9 novembre 2016[^annex1-lvlu1-lvl2-1] (Linea guida ICH);
-- 2\. per le sperimentazioni cliniche con dispositivi medico-diagnostici in vitro o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer, gli allegati VIII e X della direttiva 93/42/CEE[^annex1-lvlu1-lvl2-2] nonché gli allegati 6 e 7 della direttiva 90/385/CEE[^annex1-lvlu1-lvl2-3] e la concretizzazione mediante la norma EN ISO 14155: 2011[^annex1-lvlu1-lvl2-4]. La definizione di *«Serious Adverse Event»* di cui all’articolo 42 è retta dalle *Guidelines on Medical Devices* (MEDDEV 2.7/3) del maggio 2015[^annex1-lvlu1-lvl2-5];
+- 2\. per le sperimentazioni cliniche con dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer, gli allegati VIII e X della direttiva 93/42/CEE[^annex1-lvlu1-lvl2-2] nonché gli allegati 6 e 7 della direttiva 90/385/CEE[^annex1-lvlu1-lvl2-3] e la concretizzazione mediante la norma EN ISO 14155: 2011[^annex1-lvlu1-lvl2-4]. La definizione di *«Serious Adverse Event»* di cui all’articolo 42 è retta dalle *Guidelines on Medical Devices* (MEDDEV 2.7/3) del maggio 2015[^annex1-lvlu1-lvl2-5];
 - 3\. per le sperimentazioni cliniche di cui ai capitoli 3 e 4 della presente ordinanza, per analogia la Linea guida ICH.
 
 [^annex1-lvlu1-lvl2-1]: Il testo della direttiva può essere consultato gratuitamente presso l’Ufficio federale della sanità pubblica, 3003 Berna, o scaricato dai siti www.bag.admin.ch &gt; Medicina & ricerca &gt; Ricerca sull’essere umano e www.ich.org &gt; Work Products &gt; ICH Guidelines &gt; Efficacy Guidelines.
@@ -1212,13 +1231,15 @@ Allegato 2
   - b. 50 000 franchi per danni materiali;
   - c. 10 milioni di franchi per la sperimentazione clinica nel complesso.
 
-Allegato 3
+Allegato 3*[^t-3]*
 
 (art. 24, 27–29)
 
 ## Documentazione richiesta per la procedura presso la commissione d’etica competente in materia di sperimentazioni cliniche
 
-### 1 Documenti richiesti per le sperimentazioni cliniche della categoria A con medicamenti, dispositivi medico-diagnostici in vitro, dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer o espianti standardizzati
+[^t-3]: Aggiornato dall’all. 2 n. 2 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+
+### 1 Documenti richiesti per le sperimentazioni cliniche della categoria A con medicamenti, dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer o espianti standardizzati
 
 - 1\.1 Modulo di base, compresa la sintesi del protocollo della sperimentazione redatta nella lingua nazionale del luogo di svolgimento e il motivo della classificazione richiesta;
 - 1\.2 protocollo della sperimentazione;
@@ -1227,8 +1248,8 @@ Allegato 3
 - 1\.5 altri documenti consegnati alla persona partecipante alla sperimentazione;
 - 1\.6 indicazioni relative al genere e all’entità dell’indennizzo previsto per le persone partecipanti alla sperimentazione;
 - 1\.7 in caso di sperimentazioni cliniche con medicamenti: l’informazione professionale;
-- 1\.8 in caso di sperimentazioni cliniche con dispositivi medico-diagnostici in vitro o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer: il marchio di conformità, compresa la relativa destinazione e le istruzioni per l’uso;
-- 1\.9 in caso di sperimentazioni cliniche in cui sono utilizzati preparati non originali: prova del rispetto della Buona prassi di fabbricazione e della corretta caratterizzazione dei medicamenti, dispositivi medico-diagnostici in vitro o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer;
+- 1\.8 in caso di sperimentazioni cliniche con prodotti ai sensi dell’articolo 2*a* capoverso 2 LATer notificati secondo l’articolo 6 capoverso 3 ODmed[^annex3-lvlu1-lvl1-1] nella versione del 1° gennaio 2002[^annex3-lvlu1-lvl1-2] in applicazione dell’articolo 108 capoverso 1 lettera b ODmed: le indicazioni concernenti la conformità, la relativa destinazione d’uso e le istruzioni per l’uso fornite all’atto della notifica;
+- 1\.9 in caso di sperimentazioni cliniche in cui sono utilizzati preparati non originali: prova del rispetto della Buona prassi di fabbricazione e della corretta caratterizzazione dei medicamenti o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer;
 - 1\.10 curriculum vitae dello sperimentatore, compreso l’attestato delle sue conoscenze ed esperienze, nonché un elenco delle altre persone coinvolte nella sperimentazione clinica con l’indicazione delle loro funzioni, conoscenze ed esperienze in materia;
 - 1\.11 indicazioni sull’idoneità e sulla disponibilità delle infrastrutture nel luogo di svolgimento della sperimentazione;
 - 1\.12 indicazioni sull’impiego sicuro dei dati personali;
@@ -1236,7 +1257,10 @@ Allegato 3
 - 1\.14 certificato d’assicurazione o altro attestato di garanzia per eventuali danni, compresi i relativi accordi tra il promotore o terzi da esso incaricate e lo sperimentatore;
 - 1\.15 eventuali decisioni o pareri delle commissioni d’etica all’estero in merito alla sperimentazione clinica, compresi eventuali oneri e relativa motivazione.
 
-### 2 Documenti richiesti per le sperimentazioni cliniche delle categorie B e C con medicamenti, dispositivi medico-diagnostici in vitro, dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer o espianti standardizzati
+[^annex3-lvlu1-lvl1-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex3-lvlu1-lvl1-2]: [RU 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
+
+### 2 Documenti richiesti per le sperimentazioni cliniche delle categorie B e C con medicamenti, dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer o espianti standardizzati
 
 - 2\.1 Modulo di base, compresa la sintesi del protocollo della sperimentazione redatta nella lingua nazionale del luogo di svolgimento e il motivo della classificazione richiesta;
 - 2\.2 protocollo della sperimentazione;
@@ -1246,8 +1270,8 @@ Allegato 3
 - 2\.6 indicazioni relative al genere e all’entità dell’indennizzo previsto per le persone partecipanti alla sperimentazione;
 - 2\.7 in caso di sperimentazioni cliniche con medicamenti della categoria B: l’informazione professionale e le divergenze rispetto al dossier per lo sperimentatore (*Investigator’s Brochure, IB*) riguardanti la somministrazione del prodotto;
 - 2\.8 in caso di sperimentazioni cliniche con medicamenti della categoria C: il dossier per lo sperimentatore (*Investigator’s Brochure, IB*);
-- 2\.9 in caso di sperimentazioni cliniche con dispositivi medico-diagnostici in vitro o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer della categoria C senza valutazione della conformità: i documenti di cui all’allegato 4 numero 3.4 lettera a;
-- 2\.10 in caso di sperimentazioni cliniche con dispositivi medico-diagnostici in vitro o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer della categoria C provviste di marchio di conformità, che non sono utilizzati conformemente allo scopo o alle modalità d’uso: i documenti di cui all’allegato 4 numero 3.5 lettere a−d;
+- 2\.9 in caso di sperimentazioni cliniche con dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer della categoria C senza valutazione della conformità: i documenti di cui all’allegato 4 numero 3.4 lettera a;
+- 2\.10 in caso di sperimentazioni cliniche della categoria C con prodotti ai sensi dell’articolo 2*a* capoverso 2 LATer notificati secondo l’articolo 6 capoverso 3 ODmed nella versione del 1° gennaio 2002 in applicazione dell’articolo 108 capoverso 1 lettera b ODmed, che non sono utilizzati conformemente alla destinazione d’uso o alle istruzioni per l’uso: i documenti di cui all’allegato 4 numero 3.5 lettere a−d;
 - 2\.11 curriculum vitae dello sperimentatore, compreso l’attestato delle sue conoscenze ed esperienze, nonché un elenco delle altre persone coinvolte nella sperimentazione clinica con l’indicazione delle loro funzioni, conoscenze ed esperienze in materia;
 - 2\.12 indicazioni sull’idoneità e sulla disponibilità delle infrastrutture nel luogo di svolgimento della sperimentazione;
 - 2\.13 indicazioni sull’impiego sicuro dei dati personali;
@@ -1256,7 +1280,7 @@ Allegato 3
 - 2\.16 in caso di sperimentazioni cliniche della terapia genica: le indicazioni di cui all’allegato 4 numero 4;
 - 2\.17 eventuali decisioni o pareri delle commissioni d’etica all’estero in merito alla sperimentazione clinica, compresi eventuali oneri e relativa motivazione.
 
-### 3 Documenti richiesti per le sperimentazioni cliniche di trapianti e le sperimentazioni cliniche senza medicamenti, dispositivi medico-diagnostici in vitro o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer
+### 3 Documenti richiesti per le sperimentazioni cliniche di trapianti e le sperimentazioni cliniche senza medicamenti, o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer
 
 - 3\.1 Modulo di base, compresa la sintesi del protocollo della sperimentazione redatta nella lingua nazionale del luogo di svolgimento e il motivo della classificazione richiesta;
 - 3\.2 protocollo della sperimentazione;
@@ -1291,7 +1315,7 @@ Allegato 3
 - 4\.6 accordi tra il promotore o terzi da esso incaricati e lo sperimentatore coordinatore e altri sperimentatori negli altri luoghi di svolgimento della sperimentazione, segnatamente per quanto concerne la retribuzione dello sperimentatore nel corrispondente luogo di svolgimento della sperimentazione;
 - 4\.7 certificato d’assicurazione o altro attestato di garanzia per eventuali danni nel luogo di svolgimento della sperimentazione, compresi i relativi accordi tra il promotore o terzi da esso incaricati e lo sperimentatore.
 
-### 5 Ulteriori documenti per le sperimentazioni cliniche della categoria A con medicamenti, dispositivi medico-diagnostici in vitro o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer che possono emettere radiazioni ionizzanti e per gli esami con sorgenti di radiazioni
+### 5 Ulteriori documenti per le sperimentazioni cliniche della categoria A con medicamenti o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer che possono emettere radiazioni ionizzanti e per gli esami con sorgenti di radiazioni
 
 - 5\.1 Indicazioni relative ad aspetti essenziali della radioprotezione, in particolare un calcolo o una stima della dose efficace di radiazioni, delle dosi relative agli organi e delle dosi tumorali;
 - 5\.2 le licenze richieste conformemente all’articolo 28 della legge del 22 marzo 1991[^annex3-lvlu1-lvl5-1] sulla radioprotezione.
@@ -1308,11 +1332,13 @@ Allegato 3
 
 [^annex3-lvlu1-lvl6-1]: Il modulo può essere ottenuto presso l’Ufficio federale della sanità pubblica, Divisione radioprotezione, 3003 Berna, oppure scaricato dal sito www.bag.admin.ch &gt; Vivere in salute &gt; Ambiente & salute &gt; Radiazioni, radioattività & suono.
 
-Allegato 4
+Allegato 4*[^t-4]*
 
 (art. 31, 34–36, 54, 55)
 
-## Documentazione per la procedura presso l’Istituto svizzero per gli agenti terapeutici o l’UFSP relativa a sperimentazioni cliniche con medicamenti, dispositivi medico-diagnostici in vitro, dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer o espianti standardizzati, a sperimentazioni cliniche della terapia genica e con organismi geneticamente modificati o con agenti patogeni, nonché a sperimentazioni cliniche di trapianti
+## Documentazione per la procedura presso l’Istituto svizzero per gli agenti terapeutici o l’UFSP relativa a sperimentazioni cliniche con medicamenti, dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer o espianti standardizzati, a sperimentazioni cliniche della terapia genica e con organismi geneticamente modificati o con agenti patogeni, nonché a sperimentazioni cliniche di trapianti
+
+[^t-4]: Aggiornato dall’all. 2 n. 2 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 ### 1 Documenti relativi alle sperimentazioni cliniche della categoria B con medicamenti ed espianti standardizzati
 
@@ -1338,39 +1364,41 @@ Allegato 4
 - 2\.8 eventuali decisioni sulla sperimentazione clinica delle autorità di vigilanza sui medicamenti di altri Paesi, compresi eventuali oneri e relativa motivazione;
 - 2\.9 informazioni su eventuali domande pendenti presso le commissioni d’etica in Svizzera e su eventuali decisioni delle stesse.
 
-### 3 Documenti relativi a sperimentazioni cliniche della categoria C con dispositivi medico-diagnostici in vitro o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer
+### 3 Documenti relativi a sperimentazioni cliniche della categoria C con dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer
 
 - 3\.1. Modulo di base;
 - 3\.2 protocollo della sperimentazione;
 - 3\.3 scheda di raccolta dei dati (*Case Report Form, CRF*);
 - 3\.4
 
-  in caso di sperimentazioni cliniche con dispositivo medico-diagnostico in vitro o dispositivo ai sensi dell’articolo 2*a* capoverso 2 LATer privo del marchio di conformità, la relativa documentazione comprendente:
+  in caso di sperimentazioni cliniche con un prodotto ai sensi dell’articolo 2*a* capoverso 2 LATer che non è stato notificato secondo l’articolo 6 capoverso 3 ODmed[^annex4-lvlu1-lvl3-1] nella versione del 1° gennaio 2002[^annex4-lvlu1-lvl3-2] in applicazione dell’articolo 108 capoverso 1 lettera b ODmed, la relativa documentazione comprendente:
 
   - a. il dossier per lo sperimentatore con un elenco delle informazioni cliniche e non cliniche attuali relative al prodotto oggetto della sperimentazione e ai suoi componenti,
-  - b. l’elenco delle norme applicabili ai dispositivi medico-diagnostici in vitro o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer e la descrizione di tutte le divergenze,
+  - b. l’elenco delle norme applicabili ai dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer e la descrizione di tutte le divergenze,
   - c. la documentazione e la motivazione di eventuali divergenze rispetto alla norma ISO 14155,
-  - d. l’assicurazione o la liberazione del fabbricante conformemente all’allegato VIII della direttiva 93/42/CEE[^annex4-lvlu1-lvl3-1] o all’allegato 6 della direttiva 90/385/CEE[^annex4-lvlu1-lvl3-2],
+  - d. l’assicurazione o la liberazione del fabbricante conformemente all’allegato VIII della direttiva 93/42/CEE[^annex4-lvlu1-lvl3-3] o all’allegato 6 della direttiva 90/385/CEE[^annex4-lvlu1-lvl3-4],
   - e. conferma della disponibilità dei documenti conformemente all’allegato VIII della direttiva 93/42/CEE o all’allegato 6 della direttiva 90/385/CEE,
   - f. se il promotore della sperimentazione clinica e il fabbricante del prodotto non coincidono: il contratto concluso tra il promotore e il fabbricante in materia di gestione dei rischi;
 
 - 3\.5
 
-  in caso di sperimentazioni cliniche con dispositivo medico-diagnostico in vitro o dispositivo ai sensi dell’articolo 2*a* capoverso 2 LATer provvisto del marchio di conformità, che viene utilizzato diversamente dalla destinazione prevista o dalle istruzioni per l’uso: la documentazione relativa al dispositivo medico-diagnostico in vitro o dispositivo ai sensi dell’articolo 2*a* capoverso 2 LATer comprendente:
+  in caso di sperimentazioni cliniche con un prodotto ai sensi dell’articolo 2*a* capoverso 2 LATer notificato secondo l’articolo 6 capoverso 3 ODmed nella versione del 1° gennaio 2002 in applicazione dell’articolo 108 capoverso 1 lettera b ODmed, che viene utilizzato diversamente dalla destinazione d’uso prevista o dalle istruzioni per l’uso: la relativa documentazione comprendente:
 
   - a. indicazioni sulla conformità del dispositivo medico-diagnostico in vitro o dispositivo ai sensi dell’articolo 2*a* capoverso 2 LATer,
   - b. informazione relativa al dispositivo medico-diagnostico in vitro o dispositivo ai sensi dell’articolo 2*a* capoverso 2 LATer,
   - c. analisi dei rischi della nuova utilizzazione e misure di sicurezza che ne derivano,
   - d. altri elementi che figurano nel dossier per lo sperimentatore (*Investigator’s Brochure,* IB) che concernono la nuova utilizzazione,
-  - e. elenco delle norme applicabili per i dispositivi medico-diagnostici in vitro o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer, descrizione delle deroghe a queste ultime dovute alla nuova applicazione,
+  - e. elenco delle norme applicabili per i dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer, descrizione delle deroghe a queste ultime dovute alla nuova applicazione,
   - f. documentazione e motivazione di eventuali deroghe alla norma ISO 14155;
 
 - 3\.6 foglio esplicativo e dichiarazione di consenso informato;
 - 3\.7 eventuali decisioni sulla sperimentazione clinica delle autorità di vigilanza sui medicamenti di altri Paesi, compresi eventuali oneri e la relativa motivazione;
 - 3\.8 informazioni su eventuali domande pendenti presso le commissioni d’etica in Svizzera e su eventuali decisioni delle stesse.
 
-[^annex4-lvlu1-lvl3-1]: Direttiva 93/42/CEE del Consiglio del 14 giugno 1993 concernente i dispositivi medici, GU L 169 del 12.7.1993, pag. 1; modificata dalla direttiva 2007/47/CE, GU L 247 del 21.9.2007, pag. 21.
-[^annex4-lvlu1-lvl3-2]: Direttiva 90/385/CEE del Consiglio del 20 giugno 1990 per il ravvicinamento delle legislazioni degli Stati membri relative ai dispositivi medici impiantabili attivi, GU L 189 del 20.7.1990, pag. 17; modificata dalla direttiva 2007/47/CE, GU L 247 del 21.9.2007, pag. 21.
+[^annex4-lvlu1-lvl3-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex4-lvlu1-lvl3-2]: [RU 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
+[^annex4-lvlu1-lvl3-3]: Direttiva 93/42/CEE del Consiglio del 14 giugno 1993 concernente i dispositivi medici, GU L 169 del 12.7.1993, pag. 1; modificata dalla direttiva 2007/47/CE, GU L 247 del 21.9.2007, pag. 21.
+[^annex4-lvlu1-lvl3-4]: Direttiva 90/385/CEE del Consiglio del 20 giugno 1990 per il ravvicinamento delle legislazioni degli Stati membri relative ai dispositivi medici impiantabili attivi, GU L 189 del 20.7.1990, pag. 17; modificata dalla direttiva 2007/47/CE, GU L 247 del 21.9.2007, pag. 21.
 
 ### 4 Ulteriori documenti relativi alle sperimentazioni cliniche delle categorie B e C riguardanti la terapia genica, nonché con organismi geneticamente modificati e agenti patogeni
 
@@ -1378,13 +1406,13 @@ Allegato 4
 - 4\.2 analisi dei rischi della sperimentazione clinica dal punto di vista della tutela dell’essere umano e dell’ambiente;
 - 4\.3 una descrizione delle misure di sicurezza necessarie per la tutela degli esseri umani, degli animali e dell’ambiente, segnatamente le misure volte a impedire la liberazione di microrganismi nell’ambiente durante e dopo il trapianto o durante il trasporto, la conservazione e l’eliminazione.
 
-### 5 Documenti supplementari per le sperimentazioni cliniche con medicamenti, dispositivi medico-diagnostici in vitro o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer che possono emettere radiazioni ionizzanti
+### 5 Documenti supplementari per le sperimentazioni cliniche con medicamenti o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer che possono emettere radiazioni ionizzanti
 
 - 5\.1 Indicazioni relative ad aspetti essenziali della radioprotezione, in particolare un calcolo o una stima della dose efficace di radiazioni, delle dosi relative agli organi e delle dosi tumorali;
 - 5\.2 le licenze richieste conformemente all’articolo 28 della legge del 22 marzo 1991[^annex4-lvlu1-lvl5-1] sulla radioprotezione;
 - 5\.3
 
-  in caso di medicamenti, dispositivi medico-diagnostici in vitro o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer contenenti sorgenti radioattive:
+  in caso di medicamenti o dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer contenenti sorgenti radioattive:
 
   - a. dati sulle caratteristiche radiofarmacologiche, segnatamente in materia di farmacocinetica, qualità, stabilità, purezza radiochimica e purezza radionuclidica,
   - b. in caso di radiofarmaci omologati: l’informazione professionale,
