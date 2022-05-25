@@ -4,11 +4,11 @@ title: "Ordonnance d'organisation du 20 septembre 2013 concernant la loi relativ
 short: Org LRH
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/644"
 language: fr
-version: 2021-05-26
+version: 2022-05-26
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20210526/fr/xml/fedlex-data-admin-ch-eli-cc-2013-644-20210526-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20210526/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20220526/fr/xml/fedlex-data-admin-ch-eli-cc-2013-644-20220526-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20220526/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20210526/fr"
 
 (Ordonnance d’organisation concernant la LRH, Org LRH)
 
-du 20 septembre 2013 (Etat le 26 mai 2021)
+du 20 septembre 2013 (Etat le 26 mai 2022)
 
 Le Conseil fédéral suisse,
 
@@ -115,7 +115,7 @@ Les membres de la commission d’éthique se récusent, quand:
 La commission d’éthique statue dans une composition à trois membres sur:
 
 - a.[^6-1] les essais cliniques de la catégorie A au sens des art. 19, al. 1, 20, al. 1, 49, al. 1, et 61, al. 1, de l’ordonnance du 20 septembre 2013 sur les essais cliniques (OClin)[^6-2] si l’essai ne soulève pas de questions spécifiques d’ordre éthique, scientifique ou juridique;
-- a<sup>bis</sup>.[^6-3] les essais cliniques avec des dispositifs médicaux de la sous-catégorie A1 au sens de l’art. 6, al. 1, de l’ordonnance du 1<sup>er</sup> juillet 2020 sur les essais cliniques avec des dispositifs médicaux[^6-4] si l’essai ne soulève pas de questions spécifiques d’ordre éthique, scientifique ou juridique;
+- a<sup>bis</sup>.[^6-3] les essais cliniques de sous-catégorie A1 au sens de l’art. 6, al. 2, let. a, et de l’art. 6*a*, al. 1, let. a, de l’ordonnance du 1<sup>er</sup> juillet 2020 sur les essais cliniques de dispositifs médicaux[^6-4], si l’essai ne soulève pas de questions spécifiques d’ordre éthique, scientifique ou juridique;
 - b. les projets de recherche sur des personnes de la catégorie A selon l’art. 7, al. 1, de l’ordonnance du 20 septembre 2013 relative à la recherche sur l’être humain[^6-5];
 - c. la réutilisation de matériel biologique et de données personnelles liées à la santé à des fins de recherche en cas de défaut de consentement ou d’information selon l’art. 34 LRH, si le projet de recherche ne soulève pas de questions spécifiques d’ordre éthique, scientifique ou juridique;
 - d. les projets de recherche sur des personnes décédées, exception faite des projets de recherche sur des personnes décédées placées sous respiration artificielle selon l’art. 37, al. 2, LRH;
@@ -134,8 +134,8 @@ La procédure ordinaire est appliquée quand:
 
 [^6-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 19 mai 2021, en vigueur depuis le 26 mai 2021 ([RO 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 [^6-2]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^6-3]: Introduite par l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
-[^6-4]: RS **812.213.3**
+[^6-3]: Introduite par l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)). Nouvelle teneur selon l’annexe 2 ch. 3 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^6-4]: [RS 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
 [^6-5]: [RS 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
 [^6-6]: Nouvelle teneur selon l’annexe 2 ch. 3 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 

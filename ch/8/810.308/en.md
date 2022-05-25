@@ -4,11 +4,11 @@ title: "Ordinance of 20 September 2013 on Organisational Aspects of the Human Re
 short: OrgO-HRA
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/644"
 language: en
-version: 2021-05-26
+version: 2022-05-26
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20210526/en/xml/fedlex-data-admin-ch-eli-cc-2013-644-20210526-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20210526/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20220526/en/xml/fedlex-data-admin-ch-eli-cc-2013-644-20220526-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20220526/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (HRA Organisation Ordinance, OrgO-HRA)
 
-of 20 September 2013 (Status as of 26 May 2021)
+of 20 September 2013 (Status as of 26 May 2022)
 
 The Swiss Federal Council,
 
@@ -117,7 +117,7 @@ Members of the ethics committee shall withdraw from participation in cases where
 The ethics committee shall make decisions with the participation of three members on:
 
 - a.[^6-1] Category A clinical trials, as specified in Article 19 paragraph 1, Article 20 paragraph 1, Article 49 paragraph 1 and Article 61 paragraph 1 of the Ordinance of 20 September 2013[^6-2] on Clinical Trials (ClinO), provided that the trial does not raise any particular ethical, scientific or legal issues;
-- a<sup>bis</sup>.[^6-3] clinical trials of devices in Subcategory A1 as referred to in Article 6 paragraph 1 of the Ordinance of 1 July 2020[^6-4] on Clinical Trials with Medical Devices, provided the trial does not raise any particular specific ethical, scientific or legal issues;
+- a<sup>bis</sup>.[^6-3] clinical trials in Subcategory A1 as referred to in Article 6 paragraph 2 letter a and Article 6*a* paragraph 1 letter a of the Ordinance of 1 July 2020[^6-4] on Clinical Trials with Medical Devices, provided the trial does not raise any particular specific ethical, scientific or legal issues;
 - b. Category A research projects involving persons, as specified in Article 7 paragraph 1 of the Human Research Ordinance of 20 September 2013[^6-5];
 - c. the further use for research of biological material or health-related personal data in the absence of informed consent, in accordance with Article 34 HRA, provided that this does not raise any particular ethical, scientific or legal issues;
 - d. research projects involving deceased persons, with the exception of research projects involving deceased persons undergoing artificial respiration, as specified in Article 37 paragraph 2 HRA;
@@ -136,7 +136,7 @@ The regular procedure shall be adopted if:
 
 [^6-1]: Amended by Annex No 3 of the O of 19 May 2021, in force since 26 May 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 [^6-2]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^6-3]: Inserted by Annex 2 No 3 of the O of 1 July 2020 on Clinical Trials with Medical Devices, in force since 26 May 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^6-3]: Inserted by Annex 2 No 3 of the O of 1 July 2020 on Clinical Trials with Medical Devices ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)). Amended by Annex 2 No 3 of the O of 4 May 2022, in force since 26 May 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^6-4]: SR **812.213.3**
 [^6-5]: [SR 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
 [^6-6]: Amended by Annex 2 No 3 of the O of 1 July 2020 on Clinical Trials with Medical Devices, in force since 26 May 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
@@ -244,8 +244,8 @@ In the absence of legislation that guarantees adequate protection, personal data
 - c. sufficient safeguards, in particular contractual clauses, ensure an adequate level of protection abroad; or
 - d. the data subject has consented in the particular case.
 
-## Chapter 4 Commencement
+## Chapter 4 Entry into Force
 
 #### Art. 13
 
-This Ordinance shall come into force on 1 January 2014.
+This Ordinance shall enter into force on 1 January 2014.

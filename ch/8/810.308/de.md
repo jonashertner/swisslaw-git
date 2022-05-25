@@ -4,11 +4,11 @@ title: "Organisationsverordnung vom 20. September 2013 zum Humanforschungsgesetz
 short: OV-HFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/644"
 language: de
-version: 2021-05-26
+version: 2022-05-26
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20210526/de/xml/fedlex-data-admin-ch-eli-cc-2013-644-20210526-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20210526/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20220526/de/xml/fedlex-data-admin-ch-eli-cc-2013-644-20220526-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20220526/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20210526/de"
 
 (Organisationsverordnung HFG, OV-HFG)
 
-vom 20. September 2013 (Stand am 26. Mai 2021)
+vom 20. September 2013 (Stand am 26. Mai 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -115,7 +115,7 @@ Die Mitglieder der Ethikkommission treten in den Ausstand, wenn:
 Die Ethikkommission entscheidet in einer Besetzung von drei Mitgliedern über:
 
 - a.[^6-1] klinische Versuche der Kategorie A nach den Artikeln 19 Absatz 1, 20 Absatz 1, 49 Absatz 1 und 61 Absatz 1 der Verordnung vom 20. September 2013[^6-2] über klinische Versuche (KlinV), wenn der Versuch nicht mit besonderen Fragen in ethischer, wissenschaftlicher oder rechtlicher Hinsicht verbunden ist;
-- a<sup>bis</sup>.[^6-3] klinische Versuche mit Produkten der Unterkategorie A1 nach Artikel 6 Absatz 1 der Verordnung vom 1. Juli 2020[^6-4] über klinische Versuche mit Medizinprodukten, wenn der Versuch nicht mit besonderen Fragen in ethischer, wissenschaftlicher oder rechtlicher Hinsicht verbunden ist;
+- a<sup>bis</sup>.[^6-3] klinische Versuche der Unterkategorie A1 nach Artikel 6 Absatz 2 Buchstabe a und Artikel 6*a* Absatz 1 Buchstabe a der Verordnung vom 1. Juli 2020[^6-4] über klinische Versuche mit Medizinprodukten, wenn der Versuch nicht mit besonderen Fragen in ethischer, wissenschaftlicher oder rechtlicher Hinsicht verbunden ist;
 - b. Forschungsprojekte mit Personen der Kategorie A nach Artikel 7 Absatz 1 der Humanforschungsverordnung vom 20. September 2013[^6-5];
 - c. die Weiterverwendung von biologischem Material und gesundheitsbezogenen Personendaten für die Forschung bei fehlender Einwilligung oder Information nach Artikel 34 HFG, die nicht mit besonderen Fragen in ethischer, wissenschaftlicher oder rechtlicher Hinsicht verbunden ist;
 - d. Forschungsprojekte an verstorbenen Personen, mit Ausnahme der Forschungsprojekte an künstlich beatmeten verstorbenen Personen nach Artikel 37 Absatz 2 HFG;
@@ -134,8 +134,8 @@ Das ordentliche Verfahren wird durchgeführt, wenn:
 
 [^6-1]: Fassung gemäss Anhang Ziff. 3 der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 [^6-2]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^6-3]: Eingefügt durch Anhang 2 Ziff. 3 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
-[^6-4]: SR **812.213.3**
+[^6-3]: Eingefügt durch Anhang 2 Ziff. 3 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)). Fassung gemäss Anhang 2 Ziff. 3 der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^6-4]: [SR 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
 [^6-5]: [SR 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
 [^6-6]: Fassung gemäss Anhang 2 Ziff. 3 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 

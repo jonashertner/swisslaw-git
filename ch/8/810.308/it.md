@@ -4,11 +4,11 @@ title: "Ordinanza sull'organizzazione del 20 settembre 2013 relativa alla legge 
 short: Org-LRUm
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/644"
 language: it
-version: 2021-05-26
+version: 2022-05-26
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20210526/it/xml/fedlex-data-admin-ch-eli-cc-2013-644-20210526-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20210526/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20220526/it/xml/fedlex-data-admin-ch-eli-cc-2013-644-20220526-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20220526/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20210526/it"
 
 (Ordinanza sull’organizzazione relativa alla LRUm, Org-LRUm)
 
-del 20 settembre 2013 (Stato 26 maggio 2021)
+del 20 settembre 2013 (Stato 26 maggio 2022) (Stato 26 maggio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -115,7 +115,7 @@ I membri della commissione d’etica si ricusano se:
 La commissione d’etica decide nella composizione di tre membri su:
 
 - a.[^6-1] sperimentazioni cliniche della categoria A secondo gli articoli 19 capoverso 1, 20 capoverso 1, 49 capoverso 1 e 61 capoverso 1 dell’ordinanza del 20 settembre 2013[^6-2] sulle sperimentazioni cliniche (OSRUm), se la sperimentazione non solleva questioni particolari di natura etica, scientifica o giuridica;
-- a<sup>bis</sup>.[^6-3] sperimentazioni cliniche con dispositivi della sottocategoria A1 secondo l’articolo 6 capoverso 1 dell’ordinanza del 1° luglio 2020 [^6-4] sulle sperimentazioni cliniche con dispositivi medici, se la sperimentazione non solleva questioni particolari di natura etica, scientifica o giuridica;
+- a<sup>bis</sup>.[^6-3] sperimentazioni cliniche della sottocategoria A1 secondo gli articoli 6 capoverso 2 lettera a e 6*a* capoverso 1 lettera a dell’ordinanza del 1° luglio 2020[^6-4] sulle sperimentazioni cliniche con dispositivi medici, se la sperimentazione non solleva questioni particolari di natura etica, scientifica o giuridica;
 - b. progetti di ricerca con persone della categoria A secondo l’articolo 7 capoverso 1 dell’ordinanza del 20 settembre 2013[^6-5] sulla ricerca umana;
 - c. la riutilizzazione di materiale biologico e di dati sanitari personali per la ricerca in caso di assenza di consenso o informazione secondo l’articolo 34 LRUm, se non solleva questioni particolari di natura etica, scientifica o giuridica;
 - d. progetti di ricerca su persone decedute, ad eccezione dei progetti di ricerca su persone decedute sottoposte a respirazione artificiale secondo l’articolo 37 capoverso 2 LRUm;
@@ -134,8 +134,8 @@ La procedura ordinaria è svolta se:
 
 [^6-1]: Nuovo testo giusta l’all. n. 3 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 [^6-2]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^6-3]: Introdotta dall’all. 2 n. 3 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici, in vigore dal 26 mag. 2021 ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
-[^6-4]: RS **812.213.3**
+[^6-3]: Introdotta dall’all. 2 n. 3 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)). Nuovo testo giusta l’all. 2 n. 3 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^6-4]: [RS 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
 [^6-5]: [RS 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
 [^6-6]: Nuovo testo giusta l’all. 2 n. 3 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici, in vigore dal 26 mag. 2021 ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
