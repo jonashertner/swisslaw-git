@@ -4,11 +4,11 @@ title: "Ordonnance du 9 mai 2012 sur l'utilisation des organismes en milieu conf
 short: OUC
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/329"
 language: fr
-version: 2020-01-01
+version: 2022-05-26
 adopted: 2012-05-09
 in_force: 2012-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-329-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20220526/fr/xml/fedlex-data-admin-ch-eli-cc-2012-329-20220526-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20220526/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20200101/fr"
 
 (Ordonnance sur l’utilisation confinée, OUC)
 
-du 9 mai 2012 (Etat le 1<sup>er</sup> janvier 2020)
+du 9 mai 2012 (État le 26 mai 2022)
 
 *Le Conseil fédéral suisse,*
 
-vu les art. 29*b,* al. 2 et 3, 29*f*, 38, al. 3, 39, al. 1, 41, al. 2 et 3, 44, al. 3, 46, al. 2 et 3, 48, al. 2, et 59*b* de la loi du 7 octobre 1983 sur la protection de l’environnement (LPE)[^ingress-1], vu les art. 10, al. 2, 14, 19, 20, 24, al. 2 et 3, 25, et 34 de la loi du 21 mars 2003 sur le génie génétique (LGG)[^ingress-2], vu les art. 26*,* al. 2 et 3, 29 et 78, al. 1, de la loi du 28 septembre 2012 sur les épidémies[^ingress-3], en exécution des art. 8, let. g, h et l, et 19, al. 4, de la Convention du 5 juin 1992 sur la diversité biologique[^ingress-4],[^ingress-5]
+vu les art. 29*b*, al. 2 et 3, 29*f*, 38, al. 3, 39, al. 1, 41, al. 2 et 3, 44, al. 3, 46, al. 2 et 3, 48, al. 2, et 59*b* de la loi du 7 octobre 1983 sur la protection de l’environnement (LPE)[^ingress-1], vu les art. 10, al. 2, 14, 19, 20, 24, al. 2 et 3, 25, et 34 de la loi du 21 mars 2003 sur le génie génétique (LGG)[^ingress-2], vu les art. 26*,* al. 2 et 3, 29 et 78, al. 1, de la loi du 28 septembre 2012 sur les épidémies[^ingress-3], en exécution des art. 8, let. g, h et l, et 19, al. 4, de la Convention du 5 juin 1992 sur la diversité biologique[^ingress-4],[^ingress-5]
 
 arrête:
 
@@ -58,14 +58,14 @@ La présente ordonnance a pour but de protéger l’être humain, les animaux et
 La présente ordonnance ne s’applique pas à l’utilisation d’organismes:
 
 - a. au sens de l’ordonnance du 20 septembre 2013 sur les essais cliniques[^2-5];
-- b. dans le cadre d’un usage personnel de dispositifs médicaux destinés au diagnostic *in vitro* dont la remise est autorisée en vertu de l’art. 17, al. 3, de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux[^2-6].[^2-7]
+- b.[^2-6] dans le cadre d’un usage personnel de dispositifs dont la remise est autorisée en vertu de l’art. 61, al. 3, ou 84 de l’ordonnance du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro.[^2-7]
 
 [^2-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 [^2-2]: [RS 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
 [^2-3]: Nouvelle teneur selon le ch. III 2 de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 [^2-4]: [RS 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
 [^2-5]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^2-6]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^2-6]: Nouvelle teneur selon l’annexe 5 ch. 2 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^2-7]: Nouvelle teneur selon le ch. I de l’O du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 #### Art. 3
@@ -160,7 +160,7 @@ La détection au sens de l’al. 1 n’est autorisée que pour les collaborateur
 - a. les services cantonaux d’intervention en cas d’événements B au sens de l’art. 3, let. e, de l’ordonnance du 29 avril 2015 sur les laboratoires de microbiologie[^5a-2];
 - b. les organes de la police des épizooties en cas de mesures de lutte au sens de l’art. 63 de l’ordonnance du 27 juin 1995 sur les épizooties[^5a-3];
 - c. les services phytosanitaires fédéraux ou cantonaux en cas de mesures de précaution au sens de l’art. 10, de surveillance au sens de l’art. 18 ou d’enquête au sens de l’art. 19 de l’ordonnance du 31 octobre 2018 sur la santé des végétaux (OSaVé)[^5a-4];
-- d. les entreprises agréées en vertu de l’art. 76 OSaVé en cas d’examens au sens de l’art. 84 de celle-ci.
+- d. les entreprises agréées en vertu de l’art. 76 OSaVé en cas d’examens au sens de l’art. 84 de celle‑ci.
 
 [^5a-1]: Introduit par le ch. I de l’O du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 [^5a-2]: [RS 818.101.32](https://fedlex.data.admin.ch/eli/cc/2015/299)
@@ -573,10 +573,10 @@ Les informations suivantes sont dans tous les cas accessibles au public:
 <sup>1</sup> Il est perçu les émoluments suivants:
 
 <table>
-<tr><td></td><td></td><td></td><td></td><td>Francs</td></tr>
-<tr><td></td><td>a.</td><td>examen des notifications au sens de l’art. 19</td><td></td><td>100–2000</td></tr>
-<tr><td></td><td>b.</td><td>examen des demandes d’autorisation au sens de l’art. 20</td><td></td><td>300–4000</td></tr>
-<tr><td></td><td>c.</td><td>examen des demandes d’autorisation au sens de l’art. 21</td><td></td><td>100–4000</td></tr>
+<tr><td></td><td>Francs</td></tr>
+<tr><td>a. examen des notifications au sens de l’art. 19</td><td>100–2000</td></tr>
+<tr><td>b. examen des demandes d’autorisation au sens de l’art. 20</td><td>300–4000</td></tr>
+<tr><td>c. examen des demandes d’autorisation au sens de l’art. 21</td><td>100–4000</td></tr>
 </table>
 
 <sup>2</sup> L’émolument est calculé en fonction du travail fourni. Si le travail fourni est exceptionnellement important, l’émolument peut être augmenté de 50 % au plus.
@@ -616,7 +616,7 @@ Les ordonnances suivantes sont abrogées:
 - 1\. ordonnance du 25 août 1999 sur l’utilisation confinée[^33-1];
 - 2\. ordonnance du 15 octobre 2001 fixant les émoluments pour les prestations relevant de l’ordonnance sur l’utilisation confinée[^33-2].
 
-[^33-1]: [[RO 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443), [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)ch. I 3, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 82, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 35, [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 6]
+[^33-1]: [[RO 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443); [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)ch. I 3; [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 82; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 35; [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 6]
 [^33-2]: [[RO 2001 2878](https://fedlex.data.admin.ch/eli/oc/2001/426)]
 
 #### Art. 34
@@ -644,7 +644,7 @@ La modification du droit en vigueur est réglée à l’annexe 5.
 S’agissant des mauvaises herbes particulièrement dangereuses au sens de l’annexe 6 de l’ordonnance du 27 octobre 2010 sur la protection des végétaux[^35a-2], le confinement obligatoire selon l’art. 5, al. 1, let. c, demeurera en vigueur jusqu’au 31 décembre 2023.
 
 [^35a-1]: Introduit par l’annexe 8 ch. 4 de l’O du 31 oct. 2018 sur la santé des végétaux, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^35a-2]: [RO 2010 6167](https://fedlex.data.admin.ch/eli/oc/2010/882), [2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451), [2012 6385](https://fedlex.data.admin.ch/eli/oc/2012/760), [2014 4009](https://fedlex.data.admin.ch/eli/oc/2014/676), [2015 4567](https://fedlex.data.admin.ch/eli/oc/2015/767), [2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)[3215](https://fedlex.data.admin.ch/eli/oc/2016/539), [2017 6141](https://fedlex.data.admin.ch/eli/oc/2017/679), [2018 2041](https://fedlex.data.admin.ch/eli/oc/2018/291)
+[^35a-2]: [RO 2010 6167](https://fedlex.data.admin.ch/eli/oc/2010/882); [2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451); [2012 6385](https://fedlex.data.admin.ch/eli/oc/2012/760); [2014 4009](https://fedlex.data.admin.ch/eli/oc/2014/676); [2015 4567](https://fedlex.data.admin.ch/eli/oc/2015/767); [2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393), [3215](https://fedlex.data.admin.ch/eli/oc/2016/539); [2017 6141](https://fedlex.data.admin.ch/eli/oc/2017/679); [2018 2041](https://fedlex.data.admin.ch/eli/oc/2018/291)
 
 #### Art. 36
 
@@ -679,7 +679,7 @@ Annexe 2
 
 ## Étude et évaluation du risque
 
-Annexe 2.1*[^t-1]*
+Annexe 2.1[^t-1]
 
 (art. 6 et 26)
 
@@ -765,7 +765,7 @@ Annexe 2.1*[^t-1]*
 
 <sup>6</sup> Si l’on ne peut savoir de manière claire, dans un cas particulier, auquel de deux groupes un organisme doit être attribué, le risque doit être évalué en pesant à la fois la gravité de la maladie et des dommages, la probabilité de la propagation ainsi que l’existence ou non de mesures de lutte préventives ou thérapeutiques. En cas de doute, l’organisme sera attribué au groupe supérieur.
 
-Annexe 2.2*[^t-2]*
+Annexe 2.2[^t-2]
 
 (art. 7)
 
@@ -840,7 +840,7 @@ La notification globale au sens de l’art. 8 comprend les informations suivante
 
 [^annex31-lvlu1-1]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 
-Annexe 3.2*[^t-3]*
+Annexe 3.2[^t-3]
 
 ## Informations requises pour la notification et l’autorisation d’activités des classes 2 à 4
 
@@ -873,7 +873,7 @@ Annexe 3.2*[^t-3]*
 - f. niveau de sécurité et mesures de sécurité prévus pour les activités et, le cas échéant, pour les différentes étapes de travail;
 - g. informations concernant la date et le lieu d’importation d’organismes des groupes 3 et 4 pathogènes pour l’homme.
 
-Annexe 4*[^t-4]*
+Annexe 4[^t-4]
 
 (art. 12)
 

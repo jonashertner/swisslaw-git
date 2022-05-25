@@ -4,11 +4,11 @@ title: "Verordnung vom 9. Mai 2012 über den Umgang mit Organismen in geschlosse
 short: ESV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/329"
 language: de
-version: 2020-01-01
+version: 2022-05-26
 adopted: 2012-05-09
 in_force: 2012-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2012-329-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20220526/de/xml/fedlex-data-admin-ch-eli-cc-2012-329-20220526-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20220526/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20200101/de"
 
 (Einschliessungsverordnung, ESV)
 
-vom 9. Mai 2012 (Stand am 1. Januar 2020)
+vom 9. Mai 2012 (Stand am 26. Mai 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -58,14 +58,14 @@ Diese Verordnung soll den Menschen, die Tiere und die Umwelt sowie die biologisc
 Diese Verordnung gilt nicht für den Umgang mit Organismen:
 
 - a. nach der Verordnung vom 20. September 2013[^2-5] über klinische Versuche in der Humanforschung;
-- b. bei der Eigenanwendung von Medizinprodukten zur In-vitro-Diagnostik, deren Abgabe nach Artikel 17 Absatz 3 der Medizinprodukteverordnung vom 17. Oktober 2001[^2-6] bewilligt ist.[^2-7]
+- b.[^2-6] bei der Eigenanwendung von Produkten, deren Abgabe nach Artikel 61 Absatz 3 oder 84 der Verordnung vom 4. Mai 2022 über In-vitro-Diagnostika bewilligt ist.[^2-7]
 
 [^2-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 [^2-2]: [SR 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
 [^2-3]: Fassung gemäss Ziff. III 2 der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 [^2-4]: [SR 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
 [^2-5]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^2-6]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^2-6]: Fassung gemäss Anhang 5 Ziff. 2 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^2-7]: Fassung gemäss Ziff. I der V vom 27. Sept. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 #### Art. 3
@@ -574,9 +574,9 @@ Folgende Angaben sind in jedem Fall öffentlich:
 
 <table>
 <tr><td></td><td>Franken</td></tr>
-<tr><td colspan="2">a. Prüfung der Meldungen nach Artikel 19</td><td>100–2000</td></tr>
-<tr><td colspan="2">b. Prüfung der Bewilligungsgesuche nach Artikel 20</td><td>300–4000</td></tr>
-<tr><td colspan="2">c. Prüfung der Bewilligungsgesuche nach Artikel 21</td><td>100–4000</td></tr>
+<tr><td>a. Prüfung der Meldungen nach Artikel 19</td><td>100–2000</td></tr>
+<tr><td>b. Prüfung der Bewilligungsgesuche nach Artikel 20</td><td>300–4000</td></tr>
+<tr><td>c. Prüfung der Bewilligungsgesuche nach Artikel 21</td><td>100–4000</td></tr>
 </table>
 
 <sup>2</sup> Die Gebühr wird nach Aufwand bemessen. Ist der Aufwand ungewöhnlich hoch, so kann die Gebühr bis zu 50 Prozent erhöht werden.
@@ -616,7 +616,7 @@ Die folgenden Verordnungen werden aufgehoben:
 - 1\. Einschliessungsverordnung vom 25. August 1999[^33-1];
 - 2\. Verordnung vom 15. Oktober 2001[^33-2] über die Gebühren für Dienstleistungen nach der Einschliessungsverordnung.
 
-[^33-1]: [[AS 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443), [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)Ziff. I 3, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 82, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 35, [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 6]
+[^33-1]: [[AS 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443); [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)Ziff. I 3; [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 82; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 35; [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 6]
 [^33-2]: [[AS 2001 2878](https://fedlex.data.admin.ch/eli/oc/2001/426)]
 
 #### Art. 34
@@ -644,7 +644,7 @@ Die Änderung bisherigen Rechts wird in Anhang 5 geregelt.
 Für besonders gefährliche Unkräuter nach Anhang 6 der Pflanzenschutzverordnung vom 27. Oktober 2010[^35a-2] gilt die Einschliessungspflicht nach Artikel 5 Absatz 1 Buchstabe c noch bis zum 31. Dezember 2023.
 
 [^35a-1]: Eingefügt durch Anhang 8 Ziff. 4 der Pflanzengesundheitsverordnung vom 31. Okt. 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^35a-2]: [AS 2010 6167](https://fedlex.data.admin.ch/eli/oc/2010/882), [2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451), [2012 6385](https://fedlex.data.admin.ch/eli/oc/2012/760), [2014 4009](https://fedlex.data.admin.ch/eli/oc/2014/676), [2015 4567](https://fedlex.data.admin.ch/eli/oc/2015/767), [2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)[3215](https://fedlex.data.admin.ch/eli/oc/2016/539), [2017 6141](https://fedlex.data.admin.ch/eli/oc/2017/679), [2018 2041](https://fedlex.data.admin.ch/eli/oc/2018/291)
+[^35a-2]: [AS 2010 6167](https://fedlex.data.admin.ch/eli/oc/2010/882); [2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451); [2012 6385](https://fedlex.data.admin.ch/eli/oc/2012/760); [2014 4009](https://fedlex.data.admin.ch/eli/oc/2014/676); [2015 4567](https://fedlex.data.admin.ch/eli/oc/2015/767); [2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393), [3215](https://fedlex.data.admin.ch/eli/oc/2016/539); [2017 6141](https://fedlex.data.admin.ch/eli/oc/2017/679); [2018 2041](https://fedlex.data.admin.ch/eli/oc/2018/291)
 
 #### Art. 36
 
@@ -679,7 +679,7 @@ Anhang 2
 
 ## Ermittlung und Bewertung des Risikos
 
-Anhang 2.1*[^t-1]*
+Anhang 2.1[^t-1]
 
 (Art. 6 und 26)
 
@@ -765,7 +765,7 @@ Anhang 2.1*[^t-1]*
 
 <sup>6</sup> Ist im Einzelfall unklar, welcher von zwei Gruppen ein Organismus zuzuordnen ist, so ist das Risiko in wechselseitiger Abwägung zwischen der Schwere von Krankheit und Schäden, der Wahrscheinlichkeit der Ausbreitung des Organismus sowie der Verfügbarkeit wirksamer präventiver oder therapeutischer Bekämpfungsmassnahmen zu bewerten. Im Zweifelsfall ist ein Organismus der höheren von zwei Gruppen zuzuordnen.
 
-Anhang 2.2*[^t-2]*
+Anhang 2.2[^t-2]
 
 (Art. 7)
 
@@ -840,7 +840,7 @@ Die globale Meldung nach Artikel 8 umfasst folgende Angaben:
 
 [^annex31-lvlu1-1]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 
-Anhang 3.2*[^t-3]*
+Anhang 3.2[^t-3]
 
 ## Angaben für die Meldung und Bewilligung von Tätigkeiten der Klassen 2–4
 
@@ -872,9 +872,8 @@ Anhang 3.2*[^t-3]*
 - e. Art der Abfälle und ihre Entsorgung;
 - f. vorgesehene Sicherheitsstufen und Sicherheitsmassnahmen für die Tätigkeiten und gegebenenfalls einzelne Arbeitsschritte;
 - g. Informationen zu Zeitpunkt und Ort der Einfuhr von humanpathogenen Organismen der Gruppen 3 und 4.
-- [tab]
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 (Art. 12)
 
@@ -955,9 +954,9 @@ HEPA-Filter bedeutet High Efficiency Particulate Air Filter (Hochleistungs-Schwe
 <tr><td>19</td><td>Oberflächen gegen Wasser, Säuren, Laugen, Lösungs-, Desinfektions- und Dekontaminationsmittel resistent</td><td>P L G V Werkbank</td><td colspan="2">P L G V Werkbank</td><td>P L G V Werkbank und Fussboden</td><td>P L G V Werkbank, Fussboden, Decke und Wände</td></tr>
 <tr><td>20</td><td>Arbeitsbereich mit kompletter, eigener Ausrüstung</td><td>– – – –</td><td colspan="2">– – – –</td><td>[P] [L] [G] [V]</td><td>P L G V</td></tr>
 <tr><td>21</td><td>Mikrobiologische Sicherheitswerkbank (MSW), falls mit Mikroorganismen gearbeitet wird</td><td>– – – –</td><td colspan="2">[P] [L] [G] [V]</td><td>P L G V</td><td>P L G V MSW III inklusive Ein- und Ausschleusesystem oder MSW II mit Vollschutz; auf den Vollschutz kann bei Tätigkeiten mit Tier- und Pflanzenpathogenen verzichtet werden, wenn das zuständige Bundesamt dies bewilligt</td></tr>
-<tr><td>22</td><td>Massnahmen gegen die die Verbreitung von Aerosolen</td><td>– – – –</td><td colspan="2">P L G V Aerosolverbreitung minimieren</td><td>P L G V Aerosolverbreitung verhindern</td><td>P L G V Aerosolverbreitung verhindern</td></tr>
+<tr><td>22</td><td>Massnahmen gegen die Verbreitung von Aerosolen</td><td>– – – –</td><td colspan="2">P L G V Aerosolverbreitung minimieren</td><td>P L G V Aerosolverbreitung verhindern</td><td>P L G V Aerosolverbreitung verhindern</td></tr>
 <tr><td>23</td><td>…</td><td></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>24</td><td>Für die jeweilige Tierart geeignete Haltungssysteme (z.B. Käfige), die leicht zu dekontaminieren sind</td><td>– – – V waschbar</td><td colspan="2">– – – V dekontaminierbar</td><td>– – – V dekontaminierbar</td><td>– – – V dekontaminierbar</td></tr>
+<tr><td>24</td><td>Für die jeweilige Tierart geeignete Haltungssysteme (z. B. Käfige), die leicht zu dekontaminieren sind</td><td>– – – V waschbar</td><td colspan="2">– – – V dekontaminierbar</td><td>– – – V dekontaminierbar</td><td>– – – V dekontaminierbar</td></tr>
 <tr><td>25</td><td>Filter an den Isolatoren (Isolator = durchsichtiger Behälter, in dem das Tier inner- oder ausserhalb eines Käfigs aufbewahrt wird) oder isolierte Räume (für grosse Tiere)</td><td>– – – –</td><td colspan="2">– – – [V]</td><td>– – – V</td><td>– – – V</td></tr>
 <tr><td>26</td><td>Anforderungen an Dichtungen von primären geschlossenen Systemen</td><td>– – – –</td><td colspan="2">P – – – Entweichen von Organismen minimieren</td><td>P – – – Entweichen von Organismen verhindern</td><td>P – – – Entweichen von Organismen verhindern</td></tr>
 <tr><td></td><td>Arbeitsorganisation</td><td></td><td colspan="2"></td><td></td><td></td></tr>

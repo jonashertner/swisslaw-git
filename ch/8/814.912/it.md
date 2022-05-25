@@ -4,11 +4,11 @@ title: "Ordinanza del 9 maggio 2012 sull'utilizzazione di organismi in sistemi c
 short: OIConf
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/329"
 language: it
-version: 2020-01-01
+version: 2022-05-26
 adopted: 2012-05-09
 in_force: 2012-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2012-329-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20220526/it/xml/fedlex-data-admin-ch-eli-cc-2012-329-20220526-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20220526/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20200101/it"
 
 (Ordinanza sull’impiego confinato, OIConf)
 
-del 9 maggio 2012 (Stato 1° gennaio 2020)
+del 9 maggio 2012 (Stato 26 maggio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -58,14 +58,14 @@ Lo scopo della presente ordinanza è di proteggere l’uomo, gli animali e l’a
 La presente ordinanza non si applica all’utilizzazione di organismi:
 
 - a. conformemente all’ordinanza del 20 settembre 2013[^2-5] sulle sperimentazioni cliniche nella ricerca umana;
-- b. per l’uso proprio di dispositivi medici per la diagnostica in vitro la cui dispensazione in virtù dell’articolo 17 capoverso 3 dell’ordinanza del 17 ottobre 2001[^2-6] relativa ai dispositivi medici è autorizzata.[^2-7]
+- b.[^2-6] per l’uso proprio di dispositivi la cui dispensazione in virtù degli articoli 61 capoverso 3 o 84 dell’ordinanza del 4 maggio 2022 relativa ai dispositivi medico-diagnostici in vitro è autorizzata.[^2-7]
 
 [^2-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 [^2-2]: [RS 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
 [^2-3]: Nuovo testo giusta il n. III 2 dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 [^2-4]: [RS 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
 [^2-5]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^2-6]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^2-6]: Nuovo testo giusta l’all. 5 n. 2 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^2-7]: Nuovo testo giusta il n. I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 #### Art. 3
@@ -74,22 +74,22 @@ La presente ordinanza non si applica all’utilizzazione di organismi:
 
 Ai sensi della presente ordinanza s’intende per:
 
-- a. *organismi*: entità biologiche cellulari o non cellulari capaci di moltiplicarsi o di trasmettere materiale genetico, in particolare animali, piante e microrganismi; sono loro equiparati anche le miscele, gli oggetti e i prodotti che contengono tali entità;
-- b. *microrganismi*: entità microbiologiche, in particolare batteri, alghe, funghi, protozoi, virus e viroidi; sono loro equiparati le colture cellulari, i prioni e il materiale genetico biologicamente attivo;
+- a. *organismi**:* entità biologiche cellulari o non cellulari capaci di moltiplicarsi o di trasmettere materiale genetico, in particolare animali, piante e microrganismi; sono loro equiparati anche le miscele, gli oggetti e i prodotti che contengono tali entità;
+- b. *microrganismi**:* entità microbiologiche, in particolare batteri, alghe, funghi, protozoi, virus e viroidi; sono loro equiparati le colture cellulari, i prioni e il materiale genetico biologicamente attivo;
 - c. *piccoli invertebrati:* artropodi, anellidi, nematodi e platelminti;
-- d. *organismi geneticamente modificati*: organismi il cui materiale genetico è stato modificato con tecniche di modificazione genetica secondo l’allegato 1 in un modo non riscontrabile in condizioni naturali in seguito a incrocio o a ricombinazione naturale, nonché organismi patogeni o alloctoni che sono nel contempo geneticamente modificati;
-- e. *organismi patogeni*: organismi che possono causare malattie nell’uomo, negli animali e nelle piante addomesticati, nella flora e nella fauna selvatiche o in altri organismi, nonché organismi alloctoni che sono nel contempo patogeni;
+- d. *organismi geneticamente modificati**:* organismi il cui materiale genetico è stato modificato con tecniche di modificazione genetica secondo l’allegato 1 in un modo non riscontrabile in condizioni naturali in seguito a incrocio o a ricombinazione naturale, nonché organismi patogeni o alloctoni che sono nel contempo geneticamente modificati;
+- e. *organismi patogeni:* organismi che possono causare malattie nell’uomo, negli animali e nelle piante addomesticati, nella flora e nella fauna selvatiche o in altri organismi, nonché organismi alloctoni che sono nel contempo patogeni;
 - f.
 
-  *organismi alloctoni*: organismi di una specie, sottospecie o unità tassonomica inferiore se:
+  *organismi alloctoni:* organismi di una specie, sottospecie o unità tassonomica inferiore se:
 
   - 1\. la loro area di diffusione naturale non comprende né la Svizzera né gli altri Stati membri dell’AELS e i Paesi membri dell’UE (senza territori d’oltremare), e
   - 2\. non sono stati coltivati per un’utilizzazione nell’agricoltura o nell’orticoltura produttiva, al punto tale da ridurne le capacità di sopravvivenza in natura;
 
 - g. *organismi alloctoni invasivi:* organismi alloctoni che, notoriamente o presumibilmente, possono diffondersi in Svizzera e raggiungere una densità di popolazione tale da pregiudicare la diversità biologica e la sua utilizzazione sostenibile o mettere in pericolo l’uomo, gli animali o l’ambiente;
-- h. *sistema chiuso*: installazione che, mediante barriere fisiche o mediante una combinazione di barriere fisiche e barriere chimiche o biologiche, limita o impedisce il contatto degli organismi con l’uomo o con l’ambiente;
-- i. *utilizzazione*: qualsiasi attività intenzionale con organismi, in particolare l’impiego, la lavorazione, la moltiplicazione, la modificazione, la rilevazione, il trasporto, il deposito o lo smaltimento;
-- j.[^3-1] *utilizzazione indebita*: utilizzazione di organismi soggetti a impiego confinato che in maniera illecita e dolosa mette in pericolo o pregiudica l’uomo, gli animali e l’ambiente o la diversità biologica e la sua utilizzazione sostenibile.
+- h. *sistema chiuso**:* installazione che, mediante barriere fisiche o mediante una combinazione di barriere fisiche e barriere chimiche o biologiche, limita o impedisce il contatto degli organismi con l’uomo o con l’ambiente;
+- i. *utilizzazione**:* qualsiasi attività intenzionale con organismi, in particolare l’impiego, la lavorazione, la moltiplicazione, la modificazione, la rilevazione, il trasporto, il deposito o lo smaltimento;
+- j.[^3-1] *utilizzazione indebita:* utilizzazione di organismi soggetti a impiego confinato che in maniera illecita e dolosa mette in pericolo o pregiudica l’uomo, gli animali e l’ambiente o la diversità biologica e la sua utilizzazione sostenibile.
 
 [^3-1]: Introdotta dal n. I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
@@ -385,7 +385,7 @@ Per le decisioni necessarie nel quadro delle attività soggette all’obbligo di
 Per servizi specializzati s’intendono:
 
 - a. per tutte le attività: l’UFSP, l’UFAM, la Commissione federale d’etica per la biotecnologia nel settore non umano (CENU), il servizio specializzato designato dal Cantone nonché, su sua richiesta, la Segreteria di Stato dell’economia (SECO);
-- b. per le attività delle classi 2-4: l’Istituto nazionale svizzero di assicurazione contro gli infortuni (SUVA);
+- b. per le attività delle classi 2–4: l’Istituto nazionale svizzero di assicurazione contro gli infortuni (SUVA);
 - c. per le attività delle classi 3 e 4 e per le domande secondo l’articolo 12 capoverso 3 lettera a: la CFSB;
 - d. per le attività con organismi patogeni per gli animali: l’Ufficio federale della sicurezza alimentare e di veterinaria (USAV)[^18-1];
 - e. per le attività con organismi fitopatogeni e alloctoni soggetti a impiego confinato: l’Ufficio federale dell’agricoltura (UFAG).
@@ -614,7 +614,7 @@ Le seguenti ordinanze sono abrogate:
 - 1\. ordinanza del 25 agosto 1999[^33-1] sull’impiego confinato;
 - 2\. ordinanza del 15 ottobre 2001[^33-2] relativa agli emolumenti riscossi per le prestazioni stabilite dall’ordinanza sull’impiego confinato.
 
-[^33-1]: [[RU 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443), [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)n. I 3, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 82, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 35, [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 6]
+[^33-1]: [[RU 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443); [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)n. I 3; [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 82; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 35; [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 6]
 [^33-2]: [[RU 2001 2878](https://fedlex.data.admin.ch/eli/oc/2001/426)]
 
 #### Art. 34
@@ -642,7 +642,7 @@ La modifica del diritto vigente è disciplinata nell’allegato 5.
 Per le piante infestanti particolarmente pericolose menzionate nell’allegato 6 dell’ordinanza del 27 ottobre 2010[^35a-2] sulla protezione dei vegetali l’obbligo di impiego confinato secondo l’articolo 5 capoverso 1 lettera c si applica fino al 31 dicembre 2023.
 
 [^35a-1]: Introdotto dal n. 4 dell’all. 8 all’O del 31 ott. 2018 sulla salute dei vegetali, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^35a-2]: [RU 2010 6167](https://fedlex.data.admin.ch/eli/oc/2010/882), [2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451), [2012 6385](https://fedlex.data.admin.ch/eli/oc/2012/760), [2014 4009](https://fedlex.data.admin.ch/eli/oc/2014/676), [2015 4567](https://fedlex.data.admin.ch/eli/oc/2015/767), [2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)[3215](https://fedlex.data.admin.ch/eli/oc/2016/539), [2017 6141](https://fedlex.data.admin.ch/eli/oc/2017/679), [2018 2041](https://fedlex.data.admin.ch/eli/oc/2018/291)
+[^35a-2]: [RU 2010 6167](https://fedlex.data.admin.ch/eli/oc/2010/882); [2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451); [2012 6385](https://fedlex.data.admin.ch/eli/oc/2012/760); [2014 4009](https://fedlex.data.admin.ch/eli/oc/2014/676); [2015 4567](https://fedlex.data.admin.ch/eli/oc/2015/767); [2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393), [3215](https://fedlex.data.admin.ch/eli/oc/2016/539); [2017 6141](https://fedlex.data.admin.ch/eli/oc/2017/679); [2018 2041](https://fedlex.data.admin.ch/eli/oc/2018/291)
 
 #### Art. 36
 
@@ -677,7 +677,7 @@ Allegato 2
 
 ## Determinazione e valutazione del rischio
 
-Allegato 2.1*[^t-1]*
+Allegato 2.1[^t-1]
 
 (art. 6 e 26)
 
@@ -763,7 +763,7 @@ Allegato 2.1*[^t-1]*
 
 <sup>6</sup> Se nel singolo caso non è chiaro in quale di due gruppi classificare un organismo, occorre valutare il rischio ponderando reciprocamente la gravità della malattia e dei danni, la probabilità di diffusione dell’organismo e la disponibilità di misure preventive o terapeutiche di lotta efficaci. In caso di dubbio, l’organismo va classificato nel gruppo più elevato.
 
-Allegato 2.2*[^t-2]*
+Allegato 2.2[^t-2]
 
 (art. 7)
 
@@ -838,7 +838,7 @@ La notifica globale secondo l’articolo 8 comprende i dati seguenti:
 
 [^annex31-lvlu1-1]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 
-Allegato 3.2*[^t-3]*
+Allegato 3.2[^t-3]
 
 ## Dati per la notifica e l’autorizzazione di attività delle classi 2–4
 
@@ -871,7 +871,7 @@ Allegato 3.2*[^t-3]*
 - f. livelli e misure di sicurezza previsti per le attività e, se del caso, singole fasi di lavoro;
 - g. informazioni sul momento e sul luogo dell’importazione di organismi umano-patogeni dei gruppi 3 e 4.
 
-Allegato 4*[^t-4]*
+Allegato 4[^t-4]
 
 (art. 12)
 
@@ -913,12 +913,14 @@ Tabella
 
 Legenda:
 
-- P significa che la misura è necessaria per le attività di produzione.
-- L significa che la misura è necessaria per tutte le altre attività di laboratorio.
-- G significa che la misura è necessaria per le attività in serre.
-- V significa che la misura è necessaria per le attività in impianti con animali.
-- [ ] significa che la misura è necessaria per il settore di attività tra parentesi, ma può essere modificata, sostituita o tralasciata con l’approvazione dell’Ufficio federale competente.
-- – significa che la misura corrispondente non è necessaria.
+<table>
+<tr><td>P</td><td>significa che la misura è necessaria per le attività di produzione.</td></tr>
+<tr><td>L</td><td>significa che la misura è necessaria per tutte le altre attività di laboratorio.</td></tr>
+<tr><td>G</td><td>significa che la misura è necessaria per le attività in serre.</td></tr>
+<tr><td>V</td><td>significa che la misura è necessaria per le attività in impianti con animali.</td></tr>
+<tr><td>[ ]</td><td>significa che la misura è necessaria per il settore di attività tra parentesi, ma può essere modificata, sostituita o tralasciata con l’approvazione dell’Ufficio federale competente.</td></tr>
+<tr><td>–</td><td>significa che la misura corrispondente non è necessaria.</td></tr>
+</table>
 
 BSM II/III significa banco di lavoro di sicurezza microbiologica della classe II/III.
 
@@ -932,7 +934,7 @@ Filtro HEPA significa «High Efficiency Particulate Air Filter» (sistema di fil
 <tr><td>2</td><td>Accesso limitato al settore di lavoro</td><td>– – – –</td><td>P L G V</td><td>P L G V</td><td>P L G V</td></tr>
 <tr><td>3</td><td>Locali in cui sono tenuti gli animali separati da porte che possono essere bloccate</td><td>– – – V solo in impianti con vertebrati</td><td>– – – V solo in impianti con vertebrati</td><td>– – – V</td><td>– – – V</td></tr>
 <tr><td>4</td><td>Accesso al settore di lavoro attraverso una camera di separazione (locale separato) La parte interna della camera di separazione deve essere divisa dalla parte esterna da un vestiario e, di preferenza, da porte che possono essere chiuse a chiave</td><td>– – – –</td><td>– – – –</td><td>[P] [L] [G] [V]</td><td>P L G V porte della camera di separazione bloccate da ambo le parti</td></tr>
-<tr><td>5</td><td>Locale docce nella camera di separazione</td><td>– – – –</td><td>– – – –</td><td>P L G V secondo il rischio è possi-bile rinunciare a tale misura sen-za l’autorizza-zione dell’Uffi-cio federale competente</td><td>[P] [L] [G] [V]</td></tr>
+<tr><td>5</td><td>Locale docce nella camera di separazione</td><td>– – – –</td><td>– – – –</td><td>P L G V secondo il rischio è possi-bile rinunciare a tale misura senza l’autorizzazione dell’Ufficio federale competente</td><td>[P] [L] [G] [V]</td></tr>
 <tr><td>6</td><td>Kit di decontaminazione personale nel settore di lavoro</td><td>– – – –</td><td>P L G V</td><td>P L G V</td><td>P L G V</td></tr>
 <tr><td>7</td><td>Finestre o altri dispositivi per l’osservazione del settore di lavoro</td><td>– – – –</td><td>– – – –</td><td>[P] [L] [G] [V]</td><td>P L G V</td></tr>
 <tr><td>8</td><td>Segnalazioni di pericolo biologico</td><td>– – – –</td><td>P L G V</td><td>P L G V</td><td>P L G V</td></tr>
@@ -951,7 +953,7 @@ Filtro HEPA significa «High Efficiency Particulate Air Filter» (sistema di fil
 <tr><td>20</td><td>Settore di lavoro con proprio equipaggiamento completo</td><td>– – – –</td><td>– – – –</td><td>[P] [L] [G] [V]</td><td>P L G V</td></tr>
 <tr><td>21</td><td>Banco di lavoro di sicurezza microbiologica (BSM) in caso di lavoro con microrganismi</td><td>– – – –</td><td>[P] [L] [G] [V]</td><td>P L G V</td><td>P L G V BSM III con sistema di introduzione ed estrazione o BSM II con protezione totale; previa autorizzazione dell’Ufficio federale competente è possibile rinunciare alla protezione totale in caso di attività con organismi patogeni per piante e animali</td></tr>
 <tr><td>22</td><td>Misure contro la propagazione di aerosol</td><td>– – – –</td><td>P L G V ridurre al minimo la propagazione di aerosol</td><td>P L G V impedire la propagazione di aerosol</td><td>P L G V impedire la propagazione di aerosol</td></tr>
-<tr><td>23</td><td>...</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>23</td><td>…</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>24</td><td>Sistemi di detenzione degli animali adatti alla specie (p. es. gabbie), facilmente decontaminabili</td><td>– – – V lavabili</td><td>– – – V decontaminabili</td><td>– – – V decontaminabili</td><td>– – – V decontaminabili</td></tr>
 <tr><td>25</td><td>Isolatori muniti di filtro (isolatore = contenitore trasparente nel quale gli animali sono tenuti all’interno o all’esterno di una gabbia) o locali isolati (per animali di grossa taglia)</td><td>– – – –</td><td>– – – [V]</td><td>– – – V</td><td>– – – V</td></tr>
 <tr><td>26</td><td>Requisiti relativi alla sigillatura dei sistemi chiusi primari</td><td>– – – –</td><td>P – – – ridurre al minimo la fuoriuscita di organismi</td><td>P – – – impedire la fuoriuscita di organismi</td><td>P – – – impedire la fuoriuscita di organismi</td></tr>
@@ -962,7 +964,7 @@ Filtro HEPA significa «High Efficiency Particulate Air Filter» (sistema di fil
 <tr><td>30</td><td>Inattivazione di microrganismi nell’acqua di scarico dei bacini di lavaggio, delle condotte e delle docce</td><td>– – – –</td><td>– – – –</td><td>[P] [L] [G] [V]</td><td>P L G V</td></tr>
 <tr><td>31</td><td>Fuoriuscita di acque di scarico contaminate</td><td>– – [G] – ridurre al minimo</td><td>– – [G] – ridurre al minimo</td><td>– – G – impedire</td><td>– – G – impedire</td></tr>
 <tr><td>32</td><td>Fuoriuscita di parti riproduttive di piante attraverso l’aria o vettori</td><td>– – [G] – ridurre al minimo</td><td>– – [G] – ridurre al minimo</td><td>– – G – impedire</td><td>– – G – impedire</td></tr>
-<tr><td>33</td><td>...</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>33</td><td>…</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>34</td><td>Inattivazione di grandi quantità di terreno di coltura prima del prelievo dai recipienti di coltura</td><td>– – – –</td><td>P – – –</td><td>P – – –</td><td>P – – –</td></tr>
 <tr><td>35</td><td>Ridurre al minimo o impedire la fuoriuscita di organismi durante il trasporto all’interno dell’azienda tra un settore di lavoro e l’altro</td><td>P L G V ridurre al minimo</td><td>P L G V ridurre al minimo</td><td>P L G V impedire</td><td>P L G V impedire</td></tr>
 <tr><td>36</td><td>Inattivazione di microrganismi nel materiale contaminato, nei rifiuti e sugli apparecchi contaminati, di animali e piante e di liquidi di processo per le attività di produzione «P»</td><td>P L G V smaltimento innocuo; inattivazione di microrganismi geneticamente modificati in loco o smaltimento come rifiuti speciali; i metodi di inattivazione sono consentiti se ne è comprovata l’efficacia</td><td>[P] [L] [G] [V] l’autoclave nell’edificio può avvenire all’esterno previa autorizzazione dell’Ufficio federale competente; altri metodi di inattivazione equivalenti sono consentiti se ne è comprovata l’efficacia; possono essere smaltiti come rifiuti speciali: a. il materiale contaminato, le carcasse di animali e i campioni diagnostici; b. le colture solide, previa autorizzazione dell’Ufficio federale competente</td><td>[P] [L] [G] [V] l’autoclave nel settore di lavoro può avvenire altrove nell’edificio previa autorizzazione dell’Ufficio federale competente; altri metodi di inattivazione equivalenti sono consentiti se convalidati; l’autoclave può essere tralasciata previa autorizzazione dell’Ufficio federale competente.</td><td>P L G V inattivazione e autoclave ad attraversamento nel settore di lavoro</td></tr>
@@ -983,6 +985,6 @@ Allegato 5
 
 ## Modifica del diritto vigente
 
-...[^annex5-lvlu1-1]
+…[^annex5-lvlu1-1]
 
 [^annex5-lvlu1-1]: Le mod. possono essere consultate alla [RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329).

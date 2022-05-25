@@ -4,11 +4,11 @@ title: "Ordinance of 9 May 2012 on Handling Organisms in Contained Systems (Cont
 short: ContainO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/329"
 language: en
-version: 2020-01-01
+version: 2022-05-26
 adopted: 2012-05-09
 in_force: 2012-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20200101/en/xml/fedlex-data-admin-ch-eli-cc-2012-329-20200101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20200101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20220526/en/xml/fedlex-data-admin-ch-eli-cc-2012-329-20220526-en-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20220526/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,13 +19,13 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Containment Ordinance, ContainO)
 
-of 9 May 2012 (Status as of 1 January 2020)
+of 9 May 2012 (Status as of 26 May 2022)
 
 The Swiss Federal Council,
 
 on the basis of Articles 29*b* paragraphs 2 and 3, 29*f*, 38 paragraph 3, 39 paragraph 1, 41 paragraphs 2 and 3, 44 paragraph 3, 46 paragraphs 2 and 3, 48 paragraph 2 and 59*b* of the Environmental Protection Act of 7 October 1983[^ingress-1] (EPA), and Articles 10 paragraph 2, 14, 19, 20, 24 paragraphs 2 and 3, 25 and 34 of the Gene Technology Act of 21 March 2003[^ingress-2] (GTA), on Articles 26 paragraphs 2 and 3, 29 and 78 paragraph 1 of the Epidemics Act of 28 September 2012[^ingress-3]
 
-and in implementation of Article 8 letters g, h and l and Article 19 paragraph 4 of the Convention of 5 June 1992[^ingress-4] on Biological Diversity,[^ingress-5]
+and in implementation of Articles 8 letters g, h and l and 19 paragraph 4 of the Convention of 5 June 1992[^ingress-4] on Biological Diversity,[^ingress-5]
 
 ordains:
 
@@ -62,15 +62,16 @@ This Ordinance is intended to protect human beings, animals and the environment,
 This Ordinance does not apply to the handling of organisms:
 
 - a. in accordance with the Ordinance of 20 September 2013[^2-5] on Clinical Trials in Human Research;
-- b. in the case of personal use of medical devices for the purposes of in-vitro diagnostics, the dispensing of which is authorised in accordance with Article 17 paragraph 3 of the Medical Devices Ordinance of 17 October 2001[^2-6].[^2-7]
+- b.[^2-6] in the case of personal use of devices the supply of which is authorised in accordance with Article 61 paragraph 3 or Article 84 of the Ordinance of 4 May 2022[^2-7] on In Vitro Diagnostic Medical Devices.[^2-8]
 
 [^2-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 [^2-2]: [SR 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
 [^2-3]: Amended by No III 2 of the O of 29 April 2015, in force since 1 June 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 [^2-4]: [SR 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
 [^2-5]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^2-6]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^2-7]: Amended by No I of the O of 27 Sept. 2019, in force since 1 Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
+[^2-6]: Amended by Annex 5 No 2 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, in force since 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^2-7]: [SR 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
+[^2-8]: Amended by No I of the O of 27 Sept. 2019, in force since 1 Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 #### Art. 3
 
@@ -95,7 +96,7 @@ In this Ordinance:
 - i. *handling* means any deliberate activity involving organisms, and in particular use, processing, propagation, modification, detection, transport, storage or disposal;
 - j.[^3-1] *improper use* means the handling of organisms subject to a containment obligation which illegally and intentionally endangers or harms humans, animals, the environment or biological diversity and their sustainable use.
 
-[^3-1]: Amended by No I of the O of 27 Sept. 2019, in force since 1 Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
+[^3-1]: Inserted by No I of the O of 27 Sept. 2019, in force since 1 Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 ## Chapter 2 Requirements for Handling Organisms in Contained Systems
 
@@ -112,7 +113,7 @@ Any person handling organisms in contained systems must take all due care to ens
 - a. cannot endanger people, animals or the environment;
 - b. do not harm biological diversity or its sustainable use.
 
-<sup>2</sup> The relevant regulations and the distributor's instructions and recommendations must be observed.
+<sup>2</sup> The relevant regulations and the distributor’s instructions and recommendations must be observed.
 
 <sup>3</sup> Compliance with the duty of care must be clearly documented. The documentation must be retained for ten years following the conclusion of the activity and must be made available on request to the enforcement authorities.
 
@@ -122,7 +123,7 @@ Any person handling organisms in contained systems must take all due care to ens
 
 <sup>1</sup>
 
-The following organisms must be handled only in contained systems unless they may be handled in the environment in accordance with the Release Ordinance of 10 September 2008,[^5-1] the Plant Protection Products Ordinance of 12 May 2010[^5-2] or the Biocidal Products Ordinance of 18 May 2005[^5-3]:
+The following organisms must be handled only in contained systems unless they may be handled in the environment in accordance with the Release Ordinance of 10 September 2008[^5-1], the Plant Protection Products Ordinance of 12 May 2010[^5-2] or the Biocidal Products Ordinance of 18 May 2005[^5-3]:
 
 - a. genetically modified organisms;
 - b. pathogenic organisms;
@@ -141,7 +142,7 @@ The following organisms must be handled only in contained systems unless they ma
 [^5-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 [^5-2]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
 [^5-3]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^5-4]: Amended by Annex 8 No 4 of the Plant Health Ordinance of 31 October 2018, in force since 1 Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^5-4]: Amended by Annex 8 No 4 of the Plant Health Ordinance of 31 Oct. 2018, in force since 1 Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 [^5-5]: [SR 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
 
 #### Art. 5a
@@ -161,8 +162,8 @@ Where a pathogenic organism with the potential to do considerable harm naturally
 
 Detection as defined in paragraph 1 is only permissible if carried out by employees of the following competent authorities who possess the requisite specialist expertise:
 
-- a. the cantonal emergency services for B-incidents in accordance with Article 3 letter e of the Ordinance of 29 April[^5a-2] on Microbiological Laboratories;
-- b. the competent veterinary authorities responsible for measures to combat disease in accordance with Article 63 of the Epizootic Diseases Ordinance of 27 June 1995[^5a-3];
+- a. the cantonal emergency services for B-incidents in accordance with Article 3 letter e of the Ordinance of 29 April 2015[^5a-2] on Microbiological Laboratories;
+- b. the competent veterinary authorities responsible for measures to combat disease in accordance with Article 63 of the Epizootic Diseases Ordinance of 27 June 1995[^5a-3] (TSV);
 - c. the federal or cantonal plant protection services responsible for preventive measures in accordance with Article 10, for monitoring in accordance with Article 18 and for surveying in accordance with Article 19 of the Plant Health Ordinance of 31 October 2018[^5a-4] (PHO);
 - d. the establishments authorised in accordance with Article 76 PHO to conduct assessments in accordance with Article 84 PHO.
 
@@ -227,7 +228,7 @@ In order to assess the risks determined, the planned activity must be allocated 
 
 <sup>2</sup> Any technical or administrative change in the notified activity or its termination must be notified.
 
-<sup>3</sup> If an authorisation is required under Article 49 paragraph 2 of the Epizootic Diseases Ordinance of 27 June 1995[^9-1] (EzDO), this must be obtained before starting the activity.
+<sup>3</sup> If an authorisation is required under Article 49 paragraph 2 TSV[^9-1], this must be obtained before starting the activity.
 
 [^9-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 
@@ -398,7 +399,7 @@ The following are the specialist agencies:
 
 <sup>3</sup> If the FOPH, the FOEN, the FOAG or the FSVO are the specialist agencies, the competent federal office decides with their consent in cases where the matter in question relates to compliance with the legislation enforced by these agencies.
 
-<sup>4</sup> In the case of activities with highly contagious epizootic diseases under Article 2 EzDO[^18-2] that are intended to be carried out outside the Institute for Virology and Immunology (IVI) [^18-3], the competent federal office coordinates its decision with that of the FSVO under Article 49 paragraph 2 EzDO.
+<sup>4</sup> In the case of activities with highly contagious epizootic diseases under Article 2 TSV[^18-2] that are intended to be carried out outside the Institute for Virology and Immunology (IVI)[^18-3], the competent federal office coordinates its decision with that of the FSVO under Article 49 paragraph 2 EzDO.
 
 [^18-1]: The name of the federal office was changed on 1 Jan. 2014 in accordance with Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). The change has been made throughout the text.
 [^18-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
@@ -566,7 +567,7 @@ The following information shall always be accessible to the public:
 
 <sup>1</sup> Any person who causes the Federal Coordination Centre for Biotechnology, the FOEN or the FOPH to provide a service or the offices to issue a ruling under this Ordinance must pay a fee.
 
-<sup>2</sup> Unless this Ordinance contains special regulations, the provisions of the General Fees Ordinance of 8 September 2004[^29-1]apply.
+<sup>2</sup> Unless this Ordinance contains special regulations, the provisions of the General Fees Ordinance of 8 September 2004[^29-1] apply.
 
 [^29-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
@@ -620,7 +621,7 @@ The following ordinances are repealed:
 - 1\. Containment Ordinance of 25 August 1999[^33-1];
 - 2\. Ordinance of 15 October 2001[^33-2] on Fees for Services under the Containment Ordinance.
 
-[^33-1]: [[AS 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443), [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)No I 3, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)No II 82, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)No IV 35, [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 6]
+[^33-1]: [[AS 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443); [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)No I 3; [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)No II 82; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)No IV 35; [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 6]
 [^33-2]: [[AS 2001 2878](https://fedlex.data.admin.ch/eli/oc/2001/426)]
 
 #### Art. 34
@@ -648,7 +649,7 @@ The amendment of current legislation is regulated in Annex 5.
 The duty to contain particularly dangerous plants as listed in Annex 6 of the Plant Protection Ordinance of 27 October 2010[^35a-2] in accordance with Article 5 paragraph 1 letter c applies until 31 December 2023.
 
 [^35a-1]: Inserted by Annex 8 No 4 of the Plant Health Ordinance of 31 Oct. 2018, in force since 1 Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^35a-2]: [AS 2010 6167](https://fedlex.data.admin.ch/eli/oc/2010/882), [2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451), [2012 6385](https://fedlex.data.admin.ch/eli/oc/2012/760), [2014 4009](https://fedlex.data.admin.ch/eli/oc/2014/676), [2015 4567](https://fedlex.data.admin.ch/eli/oc/2015/767), [2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)[3215](https://fedlex.data.admin.ch/eli/oc/2016/539), [2017 6141](https://fedlex.data.admin.ch/eli/oc/2017/679), [2018 2041](https://fedlex.data.admin.ch/eli/oc/2018/291)
+[^35a-2]: [AS 2010 6167](https://fedlex.data.admin.ch/eli/oc/2010/882); [2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451); [2012 6385](https://fedlex.data.admin.ch/eli/oc/2012/760); [2014 4009](https://fedlex.data.admin.ch/eli/oc/2014/676); [2015 4567](https://fedlex.data.admin.ch/eli/oc/2015/767); [2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393), [3215](https://fedlex.data.admin.ch/eli/oc/2016/539); [2017 6141](https://fedlex.data.admin.ch/eli/oc/2017/679); [2018 2041](https://fedlex.data.admin.ch/eli/oc/2018/291)
 
 #### Art. 36
 
@@ -683,13 +684,13 @@ Annex 2
 
 ## Determination and Assessment of Risk
 
-Annex 2.1*[^t-1]*
+Annex 2.1[^t-1]
 
 (Arts 6 and 26)
 
 ## Assigning organisms to groups
 
-[^t-1]: Corrected by No 2 of the O of 27 Sept. 2019, in force since 1 Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
+[^t-1]: Updated by No 2 of the O of 27 Sept. 2019, in force since 1 Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 ### 1 Risk determination
 
@@ -769,13 +770,13 @@ Annex 2.1*[^t-1]*
 
 <sup>6</sup> If, in an individual case, it is unclear to which of two groups an organism belongs, the risk must be assessed by weighing the seriousness of the illness and damage, and the probability that the organism will spread, against the availability of effective preventive or therapeutic measures. In the event of any doubt, an organism must be assigned to the higher of two groups.
 
-Annex 2.2*[^t-2]*
+Annex 2.2[^t-2]
 
 (Art. 7)
 
 ## Classification of activities
 
-[^t-2]: Corrected by No 2 of the O of 27 Sept. 2019, in force since 1 Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
+[^t-2]: Updated by No 2 of the O of 27 Sept. 2019, in force since 1 Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 ### 1 Risk determination
 
@@ -821,7 +822,7 @@ In order to determine the risk arising from planned activities with organisms in
 
 <sup>4</sup> When Group 4 organisms are processed, the activity should in most cases be assigned to Class 4. However, if a primary diagnostics of Group 4 organisms from non-inactivated clinical material is performed by direct or indirect methods without replication, this activity may be assigned to Class 3. Where further testing is carried out using the same source material containing Group 4 organisms, this activity must in all cases be assigned to Class 4.
 
-<sup>5</sup> Primary diagnosis of Group 3 organisms that are pathogenic to animals may in exceptional cases and in accordance with Article 49 para. 2 EzDO[^annex22-lvlu1-lvl2-lvl22-1] be assigned to Class 2 if it can be assumed that there is a high probability that no pathogen organisms are present in the samples.
+<sup>5</sup> Primary diagnosis of Group 3 organisms that are pathogenic to animals may in exceptional cases and in accordance with Article 49 para. 2 TSV[^annex22-lvlu1-lvl2-lvl22-1] be assigned to Class 2 if it can be assumed that there is a high probability that no pathogen organisms are present in the samples.
 
 [^annex22-lvlu1-lvl2-lvl22-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 
@@ -844,11 +845,11 @@ The global notification under Article 8 includes the following information:
 
 [^annex31-lvlu1-1]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 
-Annex 3.2*[^t-3]*
+Annex 3.2[^t-3]
 
 ## Information for the notification and authorisation of activities in Classes 2–4
 
-[^t-3]: Corrected by No 2 of the O of 27 Sept. 2019, in force since 1 Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
+[^t-3]: Updated by No 2 of the O of 27 Sept. 2019, in force since 1 Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 ### 1 Principles
 
@@ -877,13 +878,13 @@ Annex 3.2*[^t-3]*
 - f. The planned safety levels and safety measures for the activities and, if applicable, the individual procedures;
 - g. Information on the time and place that the human pathogens in Groups 3 and 4 are brought into the country.
 
-Annex 4*[^t-4]*
+Annex 4[^t-4]
 
 (Art. 12)
 
 ## Safety Measures
 
-[^t-4]: Corrected by No 2 of the O of 27 Sept. 2019, in force since 1 Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
+[^t-4]: Updated by No 2 of the O of 27 Sept. 2019, in force since 1 Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 ### 1 General safety measures
 
@@ -919,17 +920,14 @@ Table
 
 Key
 
-P means that the measure is required for production activities.
-
-L means that the measure is required for all other laboratory activities.
-
-G means that the measure is required for activities in greenhouses.
-
-V means that the measure is required for activities in installations with animals.
-
-[ ] means that the measure is required for the field of activity in brackets, but may be modified, replaced or omitted with the authorisation of the competent federal office.
-
-– means that the relevant measure is not required.
+<table>
+<tr><td>P</td><td>means that the measure is required for production activities.</td></tr>
+<tr><td>L</td><td>means that the measure is required for all other laboratory activities.</td></tr>
+<tr><td>G</td><td>means that the measure is required for activities in greenhouses.</td></tr>
+<tr><td>V</td><td>means that the measure is required for activities in installations with animals.</td></tr>
+<tr><td>[ ]</td><td>means that the measure is required for the field of activity in brackets, but may be modified, replaced or omitted with the authorisation of the competent federal office.</td></tr>
+<tr><td>–</td><td>means that the relevant measure is not required.</td></tr>
+</table>
 
 MSC II/III means the Class II/III microbiological safety cabinet.
 
@@ -962,8 +960,8 @@ HEPA filter means High Efficiency Particulate Air Filter
 <tr><td>20</td><td>Work area with complete, independent equipment</td><td>– – – –</td><td colspan="2">– – – –</td><td>[P] [L] [G] [V]</td><td>P L G V</td></tr>
 <tr><td>21</td><td>Microbiological safety cabinet (MSC) when working with microorganisms</td><td>– – – –</td><td colspan="2">[P] [L] [G] [V]</td><td>P L G V</td><td>P L G V MSC III including airlock entry and exit system or MSC II with full protection; full protection may be omitted for activities with animal and plant pathogens if authorised by the competent federal office</td></tr>
 <tr><td>22</td><td>Measures against aerosol formation and dissemination</td><td>– – – –</td><td colspan="2">P L G V Minimise aerosol dissemination</td><td>P L G V Prevent aerosol dissemination</td><td>P L G V Prevent aerosol dissemination</td></tr>
-<tr><td>23</td><td>...</td><td></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>24</td><td>For the animal species concerned, suitable systems for keeping animals (e.g. cages), that are easily decontaminated</td><td>– – – V Washable</td><td colspan="2">– – – V Decontaminable</td><td>– – – V Decontaminable</td><td>– – – V Decontaminable</td></tr>
+<tr><td>23</td><td>…</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>24</td><td>For the animal species concerned, suitable systems for keeping animals (e. g. cages), that are easily decontaminated</td><td>– – – V Washable</td><td colspan="2">– – – V Decontaminable</td><td>– – – V Decontaminable</td><td>– – – V Decontaminable</td></tr>
 <tr><td>25</td><td>Filter on isolation chambers (Isolation chamber = transparent container in which the animal is kept when inside or outside a cage) or isolation rooms (for large animals)</td><td>– – – –</td><td colspan="2">– – – [V]</td><td>– – – V</td><td>– – – V</td></tr>
 <tr><td>26</td><td>Requirements for seals on primary contained systems</td><td>– – – –</td><td colspan="2">P – – – Minimise any escape of organisms</td><td>P – – – Prevent any escape of organisms</td><td>P – – – Prevent any escape of organisms</td></tr>
 <tr><td></td><td>Work Organisation</td><td></td><td colspan="2"></td><td></td><td></td></tr>
@@ -973,10 +971,10 @@ HEPA filter means High Efficiency Particulate Air Filter
 <tr><td>30</td><td>Inactivation of microorganisms in the outflow of sinks, pipes and showers</td><td>– – – –</td><td colspan="2">– – – –</td><td>[P] [L] [G] [V]</td><td>P L G V</td></tr>
 <tr><td>31</td><td>Escape of contaminated waste water</td><td>– – [G] – Minimise</td><td colspan="2">– – [G] – Minimise</td><td>– – G – Prevent</td><td>– – G – Prevent</td></tr>
 <tr><td>32</td><td>Escape of reproductive plant parts in the air or via vectors</td><td>– – [G] – Minimise</td><td colspan="2">– – [G] – Minimise</td><td>– – G – Prevent</td><td>– – G – Prevent</td></tr>
-<tr><td>33</td><td>...</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>33</td><td>…</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>34</td><td>Inactivation of large volumes of culture medium prior to its removal from the primary contained system</td><td>– – – –</td><td colspan="2">P – – –</td><td>P – – –</td><td>P – – –</td></tr>
 <tr><td>35</td><td>Minimise or prevent the escape of organisms during internal transport between various work areas</td><td>P L G V Minimise</td><td colspan="2">P L G V Minimise</td><td>P L G V Prevent</td><td>P L G V Prevent</td></tr>
-<tr><td>36</td><td>Inactivation of the microorganisms in contaminated material, in waste and on contaminated apparatus, from animals, plants and process fluid in production activities ‘P’.</td><td>P L G V Harmless disposal; inactivation of genetically modified microorganisms on site or disposal as hazardous waste; Deactivation methods are permissible if their effectiveness is proven.</td><td colspan="2">[P] [L] [G] [V] Autoclaving in the building, may take place outside the building if approval given by the federal office responsible; other equivalent deactivation methods are permissible if their effectiveness is proven; may be disposed of as hazardous waste: a. contaminated material, animal cadavers, diagnostic samples; b. solid cultures, if approval given by the federal office responsible</td><td>[P] [L] [G] [V] Autoclaving in the work area, may take place elsewhere in the building if approval given by the federal office responsible; other equivalent deactivation methods are permissible if validated; the autoclave may be omitted if approval given by the federal office responsible.</td><td>P L G V Deactivation and pass-through autoclave in work area</td></tr>
+<tr><td>36</td><td>Inactivation of the microorganisms in contaminated material, in waste and on contaminated apparatus, from animals, plants and process fluid in production activities ’P’.</td><td>P L G V Harmless disposal; inactivation of genetically modified microorganisms on site or disposal as hazardous waste; Deactivation methods are permissible if their effectiveness is proven.</td><td colspan="2">[P] [L] [G] [V] Autoclaving in the building, may take place outside the building if approval given by the federal office responsible; other equivalent deactivation methods are permissible if their effectiveness is proven; may be disposed of as hazardous waste: a. contaminated material, animal cadavers, diagnostic samples; b. solid cultures, if approval given by the federal office responsible</td><td>[P] [L] [G] [V] Autoclaving in the work area, may take place elsewhere in the building if approval given by the federal office responsible; other equivalent deactivation methods are permissible if validated; the autoclave may be omitted if approval given by the federal office responsible.</td><td>P L G V Deactivation and pass-through autoclave in work area</td></tr>
 </table>
 
 ### 2.2 Activities with alien organisms subject to a containment obligation
@@ -994,6 +992,6 @@ Annex 5
 
 ## Amendment of Current Legislation
 
-...[^annex5-lvlu1-1]
+…[^annex5-lvlu1-1]
 
 [^annex5-lvlu1-1]: These amendments may be consulted under [AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329).
