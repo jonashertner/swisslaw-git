@@ -4,11 +4,11 @@ title: Ordinanza del 1° luglio 2020 relativa ai dispositivi medici (ODmed)
 short: ODmed
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/552"
 language: it
-version: 2021-05-26
+version: 2022-05-26
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20210526/it/xml/fedlex-data-admin-ch-eli-cc-2020-552-20210526-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20210526/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20220526/it/xml/fedlex-data-admin-ch-eli-cc-2020-552-20220526-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20220526/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20210526/it"
 
 (ODmed)
 
-del 1° luglio 2020 (Stato 26 maggio 2021)
+del 1° luglio 2020 (Stato 26 maggio 2022) (Stato 26 maggio 2022)
 
 Il Consiglio federale svizzero,
 
-vista la legge del 15 dicembre 2000[^ingress-1] sugli agenti terapeutici (LATer); visto l’articolo 21 numero 2 della legge del 24 giugno 1902[^ingress-2] sugli impianti elettrici; visto l’articolo 5 della legge federale del 17 giugno 2011[^ingress-3] sulla metrologia; visto l’articolo 4 capoverso 1 della legge federale del 12 giugno 2009[^ingress-4] sulla sicurezza dei prodotti; visto l’articolo 37 della legge del 22 marzo 1991[^ingress-5] sulla radioprotezione; in esecuzione della legge federale del 6 ottobre 1995[^ingress-6] sugli ostacoli tecnici al commercio,
+vista la legge del 15 dicembre 2000[^ingress-1] sugli agenti terapeutici (LATer); visto l’articolo 21 numero 2 della legge del 24 giugno 1902[^ingress-2] sugli impianti elettrici; visto l’articolo 5 della legge federale del 17 giugno 2011[^ingress-3] sulla metrologia; visto l’articolo 4 capoverso 1 della legge federale del 12 giugno 2009[^ingress-4] sulla sicurezza dei prodotti; visto l’articolo 37 capoverso 1 della legge del 22 marzo 1991[^ingress-5] sulla radioprotezione; in esecuzione della legge federale del 6 ottobre 1995[^ingress-6] sugli ostacoli tecnici al commercio,[^ingress-7]
 
 ordina:
 
@@ -31,6 +31,7 @@ ordina:
 [^ingress-4]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
 [^ingress-5]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
 [^ingress-6]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-7]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -79,9 +80,13 @@ La presente ordinanza non si applica a:
 - f. combinazioni indivisibili derivanti da un dispositivo destinato a somministrare un medicamento e da un medicamento, che sono destinate a essere utilizzate esclusivamente in questa combinazione e non riutilizzabili;
 - g. combinazioni che, al momento dell’immissione in commercio o della messa in servizio, oltre al dispositivo incorporano come parte integrante un medicamento avente una funzione principale;
 - h. combinazioni che, al momento dell’immissione in commercio o della messa in servizio, oltre al dispositivo incorporano come parte integrante tessuti o cellule non vitali di origine umana, o loro derivati, aventi una funzione principale;
-- i. dispositivi medici che sono destinati unicamente all’uso veterinario o alla diagnostica veterinaria.
+- i. dispositivi medici che sono destinati unicamente all’uso veterinario o alla diagnostica veterinaria;
+- j.[^2-1] combinazioni che, al momento dell’immissione in commercio o della messa in servizio, oltre al dispositivo incorporano come parte integrante un espianti standardizzati.
 
-<sup>2</sup> Nei casi di cui al capoverso 1 lettere f–h, per la parte della combinazione che è considerata dispositivo devono essere soddisfatti i requisiti generali di sicurezza e prestazione di cui all’articolo 6.
+<sup>2</sup> Nei casi di cui al capoverso 1 lettere f–h e j, per la parte della combinazione considerata dispositivo devono essere rispettati i requisiti generali di sicurezza e prestazione secondo l’articolo 6.[^2-2]
+
+[^2-1]: Introdotta dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^2-2]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 ### Sezione 2: Definizioni e rimandi al diritto europeo
 
@@ -138,12 +143,14 @@ Nella presente ordinanza si intende per:
 - j. *operatore economico:* un fabbricante, un mandatario, un importatore, un distributore o la persona di cui all’articolo 22 paragrafi 1 e 3 UE-MDR;
 - k. *istituzione sanitaria:* organizzazione il cui fine principale è la cura o il trattamento di pazienti o la promozione della salute pubblica;
 - l. *ospedale:* istituzione sanitaria nella quale sono attuati mediante prestazioni mediche e infermieristiche e con degenza ospedaliera trattamenti di malattie oppure trattamenti di riabilitazione medica o interventi medici per scopi estetici;
-- m. *Stato contraente:* Stato vincolato al reciproco riconoscimento di valutazioni e procedure di conformità per dispositivi da una convenzione di diritto internazionale con la Svizzera basata sull’equivalenza delle legislazioni.
+- m. *Stato contraente:* Stato vincolato al reciproco riconoscimento di valutazioni e procedure di conformità per dispositivi da una convenzione di diritto internazionale con la Svizzera basata sull’equivalenza delle legislazioni;
+- n.[^4-2] *prestatore di servizi della società dell’informazione:* ogni persona fisica o giuridica che presta un servizio di cui all’articolo 7 capoverso 4.
 
-<sup>2</sup> Si applicano inoltre le definizioni di cui all’articolo 2 punti 3–26, 31, 37, 38, 40–44, 46, 48, 51–53, 57–69 e 71 UE-MDR, tenendo conto delle modifiche alle definizioni di cui all’articolo 2 punti 18–21 UE-MDR che la Commissione europea apporta mediante atti delegati[^4-2].
+<sup>2</sup> Si applicano inoltre le definizioni di cui all’articolo 2 punti 3–26, 31, 37, 38, 40–44, 46, 48, 51–53, 57–69 e 71 UE-MDR, tenendo conto delle modifiche alle definizioni di cui all’articolo 2 punti 18–21 UE-MDR che la Commissione europea apporta mediante atti delegati[^4-3].
 
 [^4-1]: Regolamento (UE) 2017/745 del Parlamento europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medici, che modifica la direttiva 2001/83/CE, il regolamento (CE) n. 178/2002 e il regolamento (CE) n. 1223/2009 e che abroga le direttive 90/385/CEE e 93/42/CEE del Consiglio; GU L 117 del 5.5.2017, pag. 1; modificato da ultimo dal regolamento (UE) 2020/561, GU L 130 del 24.4.2020, pag. 18.
-[^4-2]: Cfr. allegato 4.
+[^4-2]: Introdotta dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^4-3]: Cfr. allegato 4.
 
 #### Art. 5
 
@@ -167,27 +174,32 @@ Nella presente ordinanza si intende per:
 
 <sup>2</sup> Tenuto conto della loro destinazione d’uso, i dispositivi devono soddisfare i requisiti generali di sicurezza e prestazione di cui all’allegato I UE-MDR[^6-1].
 
-<sup>3</sup> Per la parte della combinazione che nei casi di cui all’articolo 2 lettere f–h è considerata dispositivo, la prova del rispetto dei requisiti del dispositivo deve poter essere presentata su richiesta all’autorità competente.
+<sup>3</sup> Per la parte della combinazione che nei casi di cui all’articolo 2 lettere f–h e j è considerata dispositivo, la prova del rispetto dei requisiti del dispositivo deve poter essere presentata su richiesta all’autorità competente.[^6-2]
 
-<sup>4</sup> L’osservanza dei requisiti della presente ordinanza concretizzati in norme tecniche designate[^6-2], specifiche comuni o prescrizioni della farmacopea[^6-3] si ritiene adempiuta quando il dispositivo concorda con dette norme, specifiche o prescrizioni.
+<sup>4</sup> Se il dispositivo soddisfa le norme tecniche o le specifiche comuni applicabili designate dall’Istituto svizzero per gli agenti terapeutici (Swissmedic), o le pertinenti parti di queste, oppure le prescrizioni della farmacopea conformemente all’ordinanza del 17 ottobre 2001[^6-3] sulla farmacopea, si presume la conformità del dispositivo con i requisiti della presente ordinanza che sono coperti dalle norme tecniche oppure dalle specifiche comuni applicabili designate, o dalle pertinenti parti di queste, oppure dalle prescrizioni della farmacopea.[^6-4]
 
-<sup>5</sup> La presunzione di cui al capoverso 4 si applica anche al rispetto degli obblighi in materia di sistemi o processi imposti agli operatori economici dalla presente ordinanza, compresi quelli relativi ai sistemi di gestione della qualità, alla gestione del rischio, ai sistemi di sorveglianza post-commercializzazione, alle sperimentazioni cliniche, alla valutazione clinica o al *follow-up* clinico post-commercializzazione.
+<sup>5</sup> La presunzione di cui al capoverso 4 si applica anche al rispetto dei requisiti in materia di sistemi o processi imposti agli operatori economici dalla presente ordinanza, compresi quelli relativi ai sistemi di gestione della qualità, alla gestione del rischio, ai sistemi di sorveglianza post-commercializzazione, alle indagini cliniche, alla valutazione clinica o al *follow-up* clinico post-commercializzazione.[^6-5]
 
-<sup>6</sup> Le specifiche comuni di cui al capoverso 4 devono essere adempiute a meno che il fabbricante non possa adeguatamente dimostrare che le soluzioni da lui adottate garantiscono i requisiti di sicurezza e prestazione in modo equivalente. È fatto salvo l’articolo 8 capoverso 1.
+<sup>6</sup> Le specifiche comuni di cui al capoverso 4 devono essere adempiute a meno che il fabbricante non possa adeguatamente dimostrare che le soluzioni da lui adottate garantiscono il livello di sicurezza e prestazione in modo equivalente. È fatto salvo l’articolo 8 capoverso 1.[^6-6]
 
 [^6-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
-[^6-2]: Le norme elettrotecniche sono ottenibili presso l’Associazione Electrosuisse, Luppmenstrasse 1, 8320 Fehraltorf, www.electrosuisse.ch. Le altre norme sono ottenibili presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch.
+[^6-2]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^6-3]: [RS 812.211](https://fedlex.data.admin.ch/eli/cc/2001/442)
+[^6-4]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^6-5]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^6-6]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 7
 
 **Vendite a distanza**
 
-<sup>1</sup> I dispositivi offerti mediante i servizi della società dell’informazione, segnatamente mediante un servizio online che soddisfa i requisiti di cui al capoverso 4, devono essere conformi ai requisiti della presente ordinanza.
+<sup>1</sup> I dispositivi offerti in Svizzera mediante i servizi della società dell’informazione, segnatamente mediante un servizio online che soddisfa i requisiti di cui al capoverso 4, devono essere conformi ai requisiti della presente ordinanza.[^7-1]
+
+<sup>1bis</sup> Un dispositivo offerto online o mediante un’altra forma di vendita a distanza a utilizzatori in Svizzera è da ritenersi messo a disposizione sul mercato.[^7-2]
 
 <sup>2</sup> Devono altresì soddisfare i requisiti della presente ordinanza i dispositivi non immessi in commercio, ma utilizzati nell’ambito di un’attività commerciale, a titolo oneroso o gratuito, per fornire servizi diagnostici o terapeutici offerti mediante i servizi della società dell’informazione o altri canali di comunicazione.
 
-<sup>3</sup> Chi offre un dispositivo ai sensi del capoverso 1 o fornisce un servizio secondo il capoverso 2 deve fornire all’Istituto svizzero per gli agenti terapeutici (Swissmedic), su richiesta, una copia della dichiarazione di conformità.
+<sup>3</sup> Chi offre un dispositivo secondo il capoverso 1 o fornisce servizi diagnostici o terapeutici secondo il capoverso 2 deve fornire a Swissmedic, su richiesta, una copia della dichiarazione di conformità.[^7-3]
 
 <sup>4</sup>
 
@@ -197,7 +209,12 @@ Un dispositivo si considera offerto mediante i servizi della società dell’inf
 - b. avviene per via elettronica; e
 - c. avviene su richiesta individuale di un destinatario o del suo rappresentante.
 
-<sup>5</sup> Per la tutela della salute pubblica, Swissmedic può esigere da un fornitore di servizi della società dell’informazione che ponga fine alla sua attività in Svizzera.
+<sup>5</sup> ...[^7-4]
+
+[^7-1]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^7-2]: Introdotto dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^7-3]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^7-4]: Abrogato dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, con effetto dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 8
 
@@ -274,12 +291,13 @@ Non è permesso apporre un marchio di conformità su:
 - b. dispositivi destinati esclusivamente a scopi di dimostrazione ed esposizione;
 - c. sistemi e kit procedurali;
 - d. dispositivi oggetto di sperimentazione clinica, fatto salvo l’articolo 6 dell’ordinanza del 1° luglio 2020[^13-2] sulle sperimentazioni cliniche con dispositivi medici;
-- e. dispositivi fabbricati e utilizzati in istituzioni sanitarie.
+- e.[^13-3] dispositivi secondo l’articolo 9.
 
 <sup>3</sup> I dispositivi la cui conformità deve essere valutata da un organismo designato devono recare, oltre al marchio di conformità, il numero d’identificazione di tale organismo.
 
 [^13-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
 [^13-2]: [RS 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
+[^13-3]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 14
 
@@ -296,7 +314,11 @@ Non è permesso apporre un marchio di conformità su:
 [^14-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
 [^14-2]: Regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008, che pone norme in materia di accreditamento e vigilanza del mercato per quanto riguarda la commercializzazione dei prodotti e che abroga il regolamento (CEE) n. 339/93 del Consiglio; versione della GU L 218 del 13.8.2008, pag. 30.
 
-### Sezione 2: Classificazione, etichettatura e identificazione del dispositivo
+### Sezione 2: Classificazione, informazione e identificazione****
+
+[^chap2-sec2-1]
+
+[^chap2-sec2-1]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 15
 
@@ -304,9 +326,10 @@ Non è permesso apporre un marchio di conformità su:
 
 <sup>1</sup> I dispositivi sono suddivisi nelle classi I, IIa, IIb e III in funzione della loro destinazione d’uso e dei rischi che essa comporta. Per la classificazione è determinante l’allegato VIII UE-MDR[^15-1].
 
-<sup>2</sup> La procedura per la risoluzione di controversie tra il fabbricante e un organismo designato riguardanti la classificazione di un dispositivo è retta dall’articolo 51 paragrafo 2 UE-MDR.
+<sup>2</sup> ...[^15-2]
 
 [^15-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^15-2]: Abrogato dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, con effetto dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 16
 
@@ -320,7 +343,7 @@ Non è permesso apporre un marchio di conformità su:
 
 L’informazione sul dispositivo può limitarsi a meno di tre lingue ufficiali o può essere redatta solo in inglese purché:
 
-- a. il dispositivo sia dispensato esclusivamente a specialisti o si tratti di un dispositivo su misura o di un dispositivo fabbricato e utilizzato all’interno di un’istituzione sanitaria;
+- a.[^16-2] il dispositivo sia dispensato esclusivamente a professionisti della salute o si tratti di un dispositivo su misura o di un dispositivo di cui all’articolo 9;
 - b. l’utilizzatore disponga dei necessari presupposti specialistici e linguistici e sia d’accordo con tale limitazione linguistica;
 - c. la tutela dei pazienti, degli utilizzatori e di terzi sia garantita; e
 - d. l’utilizzazione efficace e performante non sia a rischio.
@@ -334,6 +357,7 @@ L’informazione sul dispositivo può limitarsi a meno di tre lingue ufficiali o
 <sup>7</sup> Le indicazioni ingannevoli o contraddittorie su destinazione d’uso, sicurezza e prestazioni di un dispositivo sono vietate.
 
 [^16-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^16-2]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 17
 
@@ -361,7 +385,7 @@ L’informazione sul dispositivo può limitarsi a meno di tre lingue ufficiali o
 
 #### Art. 18
 
-**Obbligo di notifica per l’utilizzo di dispositivi fabbricati in istituzioni sanitarie**
+**Notifica dei dispositivi fabbricati in istituzioni sanitarie[^18-1]**
 
 <sup>1</sup>
 
@@ -371,13 +395,14 @@ Le istituzioni sanitarie che fabbricano e utilizzano dispositivi secondo l’art
 - b. nome e destinazione d’uso del dispositivo;
 - c. classe di rischio del dispositivo secondo l’articolo 15 capoverso 1.
 
-<sup>2</sup> Tutte le altre indicazioni pertinenti su tali dispositivi devono essere fornite a Swissmedic su richiesta. La dichiarazione di cui all’articolo 5 paragrafo 5 lettera e UE-MDR[^18-1] deve essere messa a disposizione del pubblico.
+<sup>2</sup> Tutte le altre indicazioni pertinenti su tali dispositivi devono essere fornite a Swissmedic su richiesta.[^18-2]
 
 <sup>3</sup> Le modifiche alle indicazioni di cui al capoverso 1 devono essere notificate a Swissmedic entro 30 giorni.
 
 <sup>4</sup> In base al rischio intrinseco del dispositivo e della sua utilizzazione, Swissmedic può esentare dall’obbligo di notifica di cui al capoverso 1 i dispositivi fabbricati e utilizzati secondo l’articolo 9.
 
-[^18-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^18-1]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^18-2]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 19
 
@@ -420,11 +445,16 @@ Chi mette a disposizione sul mercato in Svizzera dispositivi su misura deve comu
 
 <sup>1</sup> Chi, avendo sede in Svizzera, mette dispositivi a disposizione sul mercato in Svizzera o in uno Stato contraente, deve presentare alle autorità competenti per il controllo nel quadro della sorveglianza del mercato, su richiesta, la dichiarazione di conformità.
 
-<sup>2</sup> Chi, avendo sede in Svizzera, immette in commercio o, senza immissione in commercio, mette in servizio in Svizzera o in uno Stato contraente un dispositivo, deve, prima dell’immissione in commercio o della messa in servizio, eseguire e poter dimostrare una valutazione della conformità ai requisiti generali di sicurezza e prestazione.
+<sup>2</sup> Il fabbricante che, avendo sede in Svizzera, immette in commercio in Svizzera o in uno Stato contraente un dispositivo, deve, prima dell’immissione in commercio, eseguire una valutazione della conformità secondo le procedure di valutazione della conformità applicabili. Il fabbricante e l’importatore devono poter dimostrare che tale valutazione di conformità è stata eseguita e che il dispositivo è conforme.[^21-1]
 
-<sup>3</sup> La prova del rispetto dei requisiti generali di sicurezza e prestazione comprende anche una valutazione clinica conformemente all’articolo 61 UE-MDR[^21-1].
+<sup>3</sup> Il fabbricante che, avendo sede in Svizzera, mette in servizio in Svizzera o in uno Stato contraente un dispositivo non immesso in commercio deve, prima della messa in servizio, eseguire una valutazione della conformità secondo le procedure di valutazione della conformità applicabili. Deve poter dimostrare che tale valutazione di conformità è stata eseguita e che il dispositivo è conforme.[^21-2]
 
-[^21-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+<sup>4</sup> La prova del rispetto dei requisiti generali di sicurezza e prestazione comprende anche una valutazione delle prestazioni conformemente all’articolo 61 UE-MDR[^21-3].[^21-4]
+
+[^21-1]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^21-2]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^21-3]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^21-4]: Introdotto dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 22
 
@@ -442,12 +472,14 @@ Swissmedic può autorizzare, su richiesta motivata, l’immissione in commercio 
 Singoli dispositivi per i quali la pertinente procedura di valutazione della conformità non è stata svolta possono essere immessi in commercio e applicati senza autorizzazione di Swissmedic, se:
 
 - a. servono a rimediare a situazioni di pericolo di morte o a disturbi permanenti di una funzione fisiologica;
-- b. non è disponibile alcun dispositivo conforme per quella determinata indicazione;
+- b.[^22-1] non è disponibile alcun dispositivo conforme per quella determinata destinazione d’uso;
 - c. sono applicati esclusivamente da persone esercitanti una professione medica su singole persone;
 - d. la persona esercitante una professione medica che applica il dispositivo ha informato la singola persona interessata della non conformità del dispositivo e dei relativi rischi; e
 - e. la singola persona interessata ha acconsentito all’applicazione del dispositivo.
 
 <sup>3</sup> Per i dispositivi destinati a essere immessi in commercio esclusivamente all’interno dell’esercito o nel quadro dei suoi compiti speciali, il Dipartimento federale dell’interno (DFI), d’intesa con il Dipartimento federale della difesa, della protezione della popolazione e dello sport, può concedere deroghe.
+
+[^22-1]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 23
 
@@ -470,11 +502,12 @@ La procedura di valutazione della conformità è retta dagli articoli 52 e 54 no
 
 <sup>4</sup> Se un fabbricante ritira la sua domanda per lo svolgimento di una procedura di valutazione della conformità prima della decisione dell’organismo designato in merito alla valutazione della conformità, l’organismo designato interessato ne informa Swissmedic e gli altri organismi designati.
 
-<sup>5</sup> L’informazione di cui al capoverso 4 deve avvenire esclusivamente tramite Eudamed.
+<sup>5</sup> ...[^24-1]
 
-<sup>6</sup> In caso di cambio volontario dell’organismo designato occorre osservare i requisiti di cui all’articolo 58 UE-MDR[^24-1].
+<sup>6</sup> In caso di cambio volontario dell’organismo designato occorre osservare i requisiti di cui all’articolo 58 UE-MDR[^24-2].
 
-[^24-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^24-1]: Abrogato dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, con effetto dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^24-2]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
 
 ### Sezione 2: Certificato di conformità
 
@@ -490,14 +523,15 @@ La procedura di valutazione della conformità è retta dagli articoli 52 e 54 no
 
 <sup>4</sup>
 
-I certificati che sono rilasciati da organi designati ai sensi del diritto dell’UE con sede in uno Stato UE o SEE e che non sono riconosciuti mediante un accordo internazionale sono equiparati ai certificati di organi svizzeri, se può essere reso verosimile che:
+I certificati che sono rilasciati da organismi designati ai sensi del diritto dell’UE con sede in uno Stato UE o SEE e che non sono riconosciuti mediante un accordo internazionale sono equiparati ai certificati di organismi svizzeri, se può essere reso verosimile che:[^25-3]
 
 - a. le procedure di valutazione della conformità applicate soddisfano i requisiti svizzeri; ed
-- b. essi sono rilasciati da un organo che dispone di una qualificazione equivalente a quella richiesta in Svizzera.[^25-3]
+- b. essi sono rilasciati da un organo che dispone di una qualificazione equivalente a quella richiesta in Svizzera.[^25-4]
 
 [^25-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
 [^25-2]: Cfr. allegato 4.
-[^25-3]: Introdotto dal n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^25-3]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^25-4]: Introdotto dal n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 
 #### Art. 26
 
@@ -612,7 +646,7 @@ L’autorizzazione è rilasciata se:
 
 **Presupposti e domanda**
 
-<sup>1</sup> Swissmedic designa soltanto gli organismi di valutazione della conformità che hanno svolto una procedura di valutazione secondo l’articolo 34 e soddisfano i presupposti di cui all’allegato VII UE-MDR[^33-1].
+<sup>1</sup> Swissmedic designa soltanto gli organismi di valutazione della conformità che hanno sede in Svizzera, che hanno svolto una procedura di valutazione secondo l’articolo 34 e che soddisfano i presupposti di cui all’allegato VII UE-MDR[^33-1].[^33-2]
 
 <sup>2</sup>
 
@@ -626,6 +660,7 @@ La domanda di designazione deve essere presentata a Swissmedic. Essa deve conten
 <sup>4</sup> Swissmedic esamina la domanda e la documentazione allegata e redige un rapporto di valutazione preliminare.
 
 [^33-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^33-2]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 34
 
@@ -744,7 +779,7 @@ Se Swissmedic sospende o limita la designazione di un organismo designato, i cer
 I certificati rimangono parimenti validi se Swissmedic:
 
 - a. conferma che durante il periodo di sospensione o di limitazione non sono rilasciati, modificati o rinnovati certificati interessati dalla sospensione; e
-- b. indica che l’organismo designato è in grado di continuare a controllare e a rimanere responsabile dei certificati esistenti durante il periodo della sospensione o della limitazione.
+- b.[^43-1] indica che l’organismo designato è in grado di continuare a svolgere la sorveglianza e a rimanere responsabile dei certificati esistenti durante il periodo della sospensione o della limitazione.
 
 <sup>3</sup> L’organismo designato informa i fabbricanti interessati o le persone che immettono in commercio i dispositivi in questione.
 
@@ -754,6 +789,8 @@ Se Swissmedic constata che l’organismo designato non è in grado di mantenere 
 
 - a. un altro organismo designato qualificato assume temporaneamente i compiti di sorveglianza; e
 - b. questi è responsabile dei certificati durante il periodo di sospensione o di limitazione.
+
+[^43-1]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 44
 
@@ -946,17 +983,19 @@ Gli altri obblighi del distributore prima e dopo la messa a disposizione sul mer
 
 #### Art. 55
 
-<sup>1</sup> Entro tre mesi dalla prima immissione in commercio di un dispositivo, i fabbricanti o i loro mandatari e gli importatori registrano presso Swissmedic le necessarie indicazioni di cui all’allegato VI parte A punto 1 UE-MDR[^55-1].
+<sup>1</sup> Entro tre mesi dalla prima volta che hanno immesso in commercio un dispositivo, i fabbricanti o i loro mandatari e gli importatori registrano presso Swissmedic le necessarie indicazioni di cui all’allegato VI parte A punto 1 UE-MDR[^55-1]*.*[^55-2]
 
 <sup>2</sup> Le modifiche delle indicazioni devono essere notificate a Swissmedic dall’operatore economico interessato entro una settimana.
 
 <sup>3</sup> Ulteriori obblighi e modalità riguardanti la registrazione sono retti dagli articoli 30 paragrafo 3 e 31 UE-MDR.
 
-<sup>4</sup> Swissmedic verifica le indicazioni notificate dagli operatori economici e attribuisce loro un numero di identificazione unico.
+<sup>4</sup> Swissmedic verifica le indicazioni notificate dagli operatori economici e attribuisce loro un numero di registrazione unico svizzero (CHRN).[^55-3]
 
 <sup>5</sup> Chi immette in commercio per la prima volta sistemi e kit procedurali secondo l’articolo 11 registra presso Swissmedic entro tre mesi dall’immissione in commercio del sistema o del kit procedurale il proprio nome e l’indirizzo al quale può essere contattato. Se è richiesto un mandatario secondo l’articolo 51 capoverso 5, anche il nome e l’indirizzo di quest’ultimo devono essere registrati presso Swissmedic.
 
 [^55-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^55-2]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^55-3]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 ## Capitolo 7: Sorveglianza sui dispositivi
 
@@ -1067,32 +1106,37 @@ Durante l’intera vita del dispositivo in questione, nel rapporto sulla sicurez
 
 <sup>3</sup> Il contenuto minimo della sintesi è retto dall’articolo 32 paragrafo 2 UE-MDR[^63-1].
 
-<sup>4</sup> La bozza della sintesi va presentata unitamente alla documentazione all’organismo designato coinvolto nella valutazione della conformità secondo l’articolo 24, che la convalida.
+<sup>4</sup> La bozza della sintesi va presentata unitamente alla documentazione all’organismo designato coinvolto nella valutazione della conformità per convalida.[^63-2]
 
-<sup>5</sup> La sintesi validata è pubblicata dal fabbricante.[^63-2]
+<sup>5</sup> La sintesi validata è pubblicata dal fabbricante.[^63-3]
 
 <sup>6</sup> Il fabbricante indica sull’etichetta o nelle istruzioni per l’uso dove è reperibile la sintesi.
 
 [^63-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
-[^63-2]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^63-2]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^63-3]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 
 ### Sezione 4: Tracciabilità e registrazione dell’identificazione del dispositivo
 
 #### Art. 64
 
-**Tracciabilità**
+**Tracciabilità**[^64-1]
 
-<sup>1</sup> I distributori e gli importatori cooperano con i fabbricanti e i loro mandatari affinché i dispositivi siano adeguatamente tracciabili.
+<sup>1</sup> I distributori e gli importatori cooperano con i fabbricanti o i loro mandatari affinché i dispositivi siano adeguatamente tracciabili.
 
-<sup>2</sup> L’obbligo di comunicazione di cui all’articolo 47*c* LATer vige per almeno dieci anni, nel caso di dispositivi impiantabili per almeno 15 anni, dall’immissione in commercio dell’ultimo dispositivo oggetto della dichiarazione di conformità.
+<sup>2</sup> L’obbligo di comunicazione di cui all’articolo 47*c* LATer vige per almeno dieci anni e nel caso di dispositivi impiantabili per almeno 15 anni dalla data in cui il dispositivo è stato ricevuto o fornito.
+
+[^64-1]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 65
 
 **Registrazione dell’UDI**
 
-<sup>1</sup> Gli operatori economici e le istituzioni sanitarie registrano e conservano, di preferenza per via elettronica, gli UDI dei dispositivi impiantabili della classe III che hanno ricevuto o che hanno fornito.
+<sup>1</sup> Gli operatori economici e le istituzioni sanitarie registrano e conservano, di preferenza per via elettronica, gli UDI dei dispositivi impiantabili della classe III che hanno fornito o ricevuto.[^65-1]
 
 <sup>2</sup> Swissmedic può estendere tale obbligo ad altri dispositivi, categorie o gruppi di dispositivi.
+
+[^65-1]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 ### Sezione 5: Vigilanza
 
@@ -1147,17 +1191,22 @@ La dispensazione di dispositivi è conforme alla destinazione d’uso e alle ind
 
 <sup>2</sup> Le indicazioni ingannevoli, in particolare su destinazione d’uso, sicurezza e prestazioni di un dispositivo, sono vietate.
 
-<sup>3</sup> La pubblicità destinata al pubblico è vietata per i dispositivi destinati esclusivamente all’applicazione da parte di specialisti.
+<sup>3</sup> La pubblicità destinata al pubblico è vietata per i dispositivi destinati esclusivamente all’applicazione da parte di professionisti della salute.[^69-1]
+
+[^69-1]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 70
 
-**Applicazione da parte di specialisti**
+**Applicazione[^70-1]**
 
 <sup>1</sup> Chi, quale specialista, applica direttamente un dispositivo proveniente dall’estero senza immetterlo in commercio è responsabile della conformità del dispositivo.
 
-<sup>2</sup> I gruppi di dispositivi destinati all’applicazione da parte di specialisti che possono mettere in pericolo la salute delle persone se non sono utilizzati a regola d’arte sono elencati nell’allegato 6.
+<sup>2</sup> I gruppi di dispositivi destinati all’applicazione da parte di professionisti della salute che possono mettere in pericolo la salute delle persone se non sono utilizzati a regola d’arte sono elencati nell’allegato 6.[^70-2]
 
 <sup>3</sup> I gruppi di dispositivi menzionati nell’allegato 6 possono essere applicati soltanto alle condizioni relative alle qualifiche professionali e all’azienda ivi menzionate.
+
+[^70-1]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^70-2]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 71
 
@@ -1215,11 +1264,13 @@ Chi ricondiziona dispositivi per terzi deve:
 
 #### Art. 74
 
-**Cybersicurezza**
+**Cibersicurezza[^74-1]**
 
 <sup>1</sup> Le istituzioni sanitarie adottano ogni misura tecnica e organizzativa che sia necessaria, secondo lo stato della tecnica, a garantire la tutela da attacchi e accessi elettronici per i dispositivi con funzionalità di rete.
 
 <sup>2</sup> Gli ospedali identificano, valutano e documentano le misure secondo il capoverso 1 in base ai principi di un sistema di gestione del rischio. Questo sistema è parte integrante del sistema di gestione della qualità degli ospedali.
+
+[^74-1]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 ## Capitolo 9: Sorveglianza del mercato
 
@@ -1229,13 +1280,37 @@ Chi ricondiziona dispositivi per terzi deve:
 
 <sup>1</sup> Il controllo nel quadro della sorveglianza del mercato include i dispositivi messi a disposizione sul mercato, le procedure di valutazione della conformità, la sorveglianza sui dispositivi, l’impiego dei dispositivi e il rispetto degli obblighi da parte degli operatori economici. Il controllo include anche dispositivi messi a disposizione negli Stati contraenti da persone con sede in Svizzera, le relative procedure di valutazione della conformità e la sorveglianza sui dispositivi, nonché il rispetto degli obblighi da parte di tali persone.
 
-<sup>2</sup> Le attività di sorveglianza del mercato di Swissmedic e dei Cantoni sono rette dagli articoli 93–95, 97 e 98 UE-MDR[^75-1]. Sono esclusi gli articoli 97 paragrafo 3 e 98 paragrafi 3 e 4 UE-MDR.
+<sup>2</sup> Le attività di sorveglianza del mercato di Swissmedic e dei Cantoni sono rette dall’articolo 66 LATer e dagli articoli 93–95, 97 e 98 UE-MDR[^75-1]. Sono esclusi gli articoli 97 paragrafo 3 e 98 paragrafi 3 e 4 UE-MDR.[^75-2]
 
 <sup>3</sup> I Cantoni elaborano piani annuali per le loro attività di sorveglianza del mercato di cui al capoverso 2. Trasmettono a Swissmedic una sintesi annuale dei risultati delle proprie attività di sorveglianza. Swissmedic può determinare il contenuto della sintesi e la forma in cui gli viene messa a disposizione.
 
 <sup>4</sup> Per quanto necessario per proteggere la popolazione, Swissmedic adotta le misure secondo l’articolo 66 LATer sotto forma di una decisione di portata generale.
 
 [^75-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^75-2]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+
+#### Art. 75a
+
+**Attività congiunte e utilizzo delle informazioni**[^75a-1]
+
+<sup>1</sup> Le autorità di sorveglianza del mercato, insieme a organizzazioni che rappresentano gli operatori economici o gli utilizzatori, possono convenire di svolgere attività congiunte per promuovere la conformità e altri fini analoghi.
+
+<sup>2</sup> Le autorità di sorveglianza del mercato possono utilizzare tutte le informazioni acquisite nell’ambito di queste attività per sorvegliare il mercato.
+
+[^75a-1]: Introdotto dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+
+#### Art. 75b
+
+**Misure supplementari**[^75b-1]
+
+Oltre alle misure di cui all’articolo 75 capoverso 2, le autorità competenti possono adottare in particolare le seguenti misure:
+
+- a. possono richiedere agli operatori economici di fornire informazioni pertinenti, necessarie ai fini dell’accertamento della proprietà di siti Internet se le informazioni in questione sono in rapporto con l’oggetto dell’indagine;
+- b. possono esigere l’eliminazione di contenuti da un’interfaccia utenti online o l’esplicita visualizzazione di un’avvertenza per gli utilizzatori laddove non vi siano altri mezzi efficaci per eliminare un rischio grave;
+- c. qualora non sia stato dato seguito ad un’ingiunzione secondo la lettera b, possono dare istruzioni ai prestatori di servizi della società dell’informazione di limitare l’accesso all’interfaccia utenti online, anche incaricando un terzo di attuare questa misura;
+- d. per la tutela della salute pubblica, possono esigere da un fornitore di servizi della società dell’informazione che ponga fine alla sua attività in Svizzera.
+
+[^75b-1]: Introdotto dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 76
 
@@ -1287,7 +1362,11 @@ Allo scopo di verificare la conformità dei dispositivi, le autorità competenti
 
 **Obbligo di collaborazione e di informazione**
 
-Gli operatori economici che immettono in commercio in Svizzera o in uno Stato contraente un dispositivo nonché gli operatori economici, gli specialisti e le istituzioni sanitarie che mettono a disposizione sul mercato o mettono in servizio in Svizzera o in uno Stato contraente un dispositivo sono tenuti a collaborare all’esecuzione. Devono in particolare fornire gratuitamente agli organi d’esecuzione tutte le informazioni necessarie e consegnare le prove e i documenti necessari.
+<sup>1</sup> Gli operatori economici che immettono in commercio in Svizzera o in uno Stato contraente un dispositivo nonché gli operatori economici, gli specialisti e le istituzioni sanitarie che mettono a disposizione sul mercato o mettono in servizio in Svizzera o in uno Stato contraente un dispositivo sono tenuti a collaborare all’esecuzione. Devono in particolare fornire gratuitamente agli organi d’esecuzione tutte le informazioni necessarie e consegnare le prove e i documenti necessari.
+
+<sup>2</sup> I prestatori di servizi della società dell’informazione sono parimenti tenuti a collaborare all’esecuzione. Devono in particolare notificare senza indugio alle competenti autorità presunte attività o informazioni illecite dei destinatari dei loro servizi e comunicare, su richiesta, informazioni che consentano l’identificazione dei destinatari dei loro servizi con cui hanno accordi di memorizzazione dei dati.[^78-1]
+
+[^78-1]: Introdotto dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 ## Capitolo 10: Trattamento dei dati
 
@@ -1371,9 +1450,11 @@ Il sistema d’informazione sui dispositivi medici contiene i seguenti dati:
 
 #### Art. 86
 
-**Scambio di dati con altri sistemi d’informazione**
+**Scambio di dati con altri sistemi d’informazione**[^86-1]
 
-Il sistema d’informazione sui dispositivi medici può ricevere e inviare i dati di cui all’articolo 85 da e verso Eudamed e da e verso i sistemi elettronici cantonali.
+Il sistema d’informazione sui dispositivi medici può ricevere e inviare i dati di cui all’articolo 85 da e verso la banca dati europea dei dispositivi medici e da e verso i sistemi elettronici cantonali.
+
+[^86-1]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 87
 
@@ -1464,11 +1545,13 @@ Swissmedic informa sul proprio sito Internet sugli atti della Commissione europe
 
 **Collaborazione con la Commissione europea e con le autorità degli Stati contraenti**
 
-<sup>1</sup> Swissmedic, gli organismi designati e gli operatori economici collaborano con la Commissione europea e con le autorità degli Stati contraenti, per quanto lo preveda un accordo internazionale.
+<sup>1</sup> Swissmedic, gli organismi designati, gli operatori economici secondo l’articolo 47 LATer, nonché i prestatori di servizi della società dell’informazione, collaborano con la Commissione europea e con le autorità degli Stati contraenti, per quanto lo preveda un accordo internazionale.[^96-1]
 
 <sup>2</sup> Swissmedic può nominare esperti che siano qualificati nella valutazione degli organismi di valutazione della conformità nel campo dei dispositivi medici.
 
 <sup>3</sup> Esso può nominare esperti per la partecipazione a gruppi di specialisti della Commissione europea e delle autorità degli Stati contraenti.
+
+[^96-1]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 97
 
@@ -1477,6 +1560,10 @@ Swissmedic informa sul proprio sito Internet sugli atti della Commissione europe
 <sup>1</sup> Le autorità doganali forniscono a Swissmedic informazioni sull’importazione, l’esportazione e il transito di dispositivi.
 
 <sup>2</sup> Swissmedic può incaricare le autorità doganali di trattenere dispositivi per ulteriori chiarimenti e di raccogliere dei campioni.
+
+<sup>3</sup> Swissmedic può comunicare alle autorità doganali informazioni in merito ai procedimenti amministrativi o penali in corso o conclusi e alle sanzioni nell’ambito dell’attività di sorveglianza del mercato.[^97-1]
+
+[^97-1]: Introdotto dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 98
 
@@ -1514,7 +1601,7 @@ Sono abrogate:
 - 1\. l’ordinanza del 17 ottobre 2001[^99-1] relativa ai dispositivi medici;
 - 2\. l’ordinanza del 22 giugno 2006[^99-2] concernente la lista dei dispositivi medici soggetti a prescrizione medica.
 
-[^99-1]: [[RU 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520),[2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)n. I 5, II cpv. 2, [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 2, [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170)[2749](https://fedlex.data.admin.ch/eli/oc/2010/358)n. I 7, [2015 999](https://fedlex.data.admin.ch/eli/oc/2015/189), [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650), [2019 999](https://fedlex.data.admin.ch/eli/oc/2019/183)art. 28 cpv. 2, [2020 2975](https://fedlex.data.admin.ch/eli/oc/2020/551)]
+[^99-1]: [[RU 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520);[2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)n. I 5 II cpv. 2; [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 2; [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170), [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)n. I 7; [2015 999](https://fedlex.data.admin.ch/eli/oc/2015/189); [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650); [2019 999](https://fedlex.data.admin.ch/eli/oc/2019/183)art. 28 cpv. 2; [2020 2975](https://fedlex.data.admin.ch/eli/oc/2020/551)]
 [^99-2]: [[RU 2006 3679](https://fedlex.data.admin.ch/eli/oc/2006/560)]
 
 #### Art. 100
@@ -1585,27 +1672,26 @@ Se il fabbricante ha sede in uno Stato UE o SEE o ha dato mandato a una persona 
 
 [^104a-1]: Introdotto dal n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 
+#### Art. 104a<sup>bis</sup>
+
+**Apposizione delle informazioni sul mandatario**[^104abis-1]
+
+Per i dispositivi della classe I nonché i sistemi e kit procedurali che sono stati immessi in commercio secondo il nuovo diritto, le informazioni stabilite nell’allegato I capo III punto 23.2 lettera d UE-MDR[^104abis-2] sul mandatario di cui all’articolo 51 capoverso 1 o 5 della presente ordinanza possono essere apposte, fino al 31 luglio 2023, su un documento che accompagna il dispositivo.
+
+[^104abis-1]: Introdotto dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^104abis-2]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
 #### Art. 104b
 
-**Registrazione da parte degli operatori economici**[^104b-1]
+[^104b-1]
 
-Gli operatori economici che hanno immesso in commercio già prima del 26 maggio 2021 dispositivi secondo l’articolo 22*a* dell’ordinanza del 17 ottobre 2001[^104b-2] relativa ai dispositivi medici devono eseguire le registrazioni di cui all’articolo 55 capoversi 1 e 5 entro il 26 novembre 2021.
-
-[^104b-1]: Introdotto dal n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
-[^104b-2]: Cfr. nota a piè di pagina relativa all’art. 99 n. 1.
+[^104b-1]: Introdotto dal n. I dell’O del 19 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)). Abrogato dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, con effetto dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 105
 
-**Dispositivi medico-diagnostici in vitro**[^105-1]
+[^105-1]
 
-<sup>1</sup> Fino all’emanazione di una specifica ordinanza in materia, ai dispositivi medico-diagnostici in vitro si applica l’ordinanza del 17 ottobre 2001[^105-2] relativa ai dispositivi medici. Sono fatti salvi i capoversi 2 e 3.
-
-<sup>2</sup> Se un dispositivo medico-diagnostico in vitro è provvisto del nome e dell’indirizzo della persona che lo immette per la prima volta in commercio in uno Stato UE o SEE, non è necessario che etichetta, imballaggio esterno o istruzioni per l’uso siano provvisti del nome e dell’indirizzo della persona che lo immette per la prima volta in commercio in Svizzera.
-
-<sup>3</sup> Se i dispositivi medico-diagnostici in vitro sono stati notificati all’autorità competente di uno Stato UE o SEE conformemente all’articolo 6 capoverso 2 dell’ordinanza del 17 ottobre 2001 relativa ai dispositivi medici, non è necessaria un’ulteriore notifica a Swissmedic.
-
-[^105-1]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
-[^105-2]: Cfr. nota a piè di pagina relativa all’art. 99 n. 1.
+[^105-1]: Abrogato dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, con effetto dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 106
 
@@ -1623,9 +1709,10 @@ Finché Swissmedic non avrà designato specifiche comuni secondo l’articolo 8 
 
 <sup>3</sup> La designazione di organismo di valutazione della conformità secondo la sezione 4*a* dell’ordinanza del 17 ottobre 2001 relativa ai dispositivi medici mantiene la propria validità.
 
-<sup>4</sup> Fino all’entrata in vigore di una specifica ordinanza in materia di dispositivi medico-diagnostici in vitro, gli organismi di valutazione della conformità di tali dispositivi continuano a essere designati secondo le sezioni 4 e 4*a* dell’ordinanza del 17 ottobre 2001 relativa ai dispositivi medici.
+<sup>4</sup> ...[^107-2]
 
 [^107-1]: Cfr. nota a piè di pagina relativa all’art. 99 n. 1.
+[^107-2]: Abrogato dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, con effetto dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 108
 
@@ -1674,88 +1761,90 @@ Allegato 1
 - 5\. Apparecchiature che emettono radiazioni elettromagnetiche ad alta intensità, come infrarossi, luce visibile e ultravioletti, destinate a essere utilizzate sul corpo umano, comprese fonti coerenti e non coerenti, monocromatiche e ad ampio spettro, come laser e apparecchiature a luce pulsata ad alta intensità per fotoringiovanimento cutaneo, tatuaggio o epilazione o altro trattamento dermico.
 - 6\. Attrezzature destinate alla stimolazione cerebrale che applicano correnti elettriche o campi magnetici o elettromagnetici che attraversano il cranio per modificare l’attività neuronale del cervello.
 
-Allegato 2
+Allegato 2*[^t-1]*
 
 (art. 5 cpv. 1)
 
 ## Equivalenze terminologiche
 
+[^t-1]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+
 Le espressioni qui appresso dell’UE-MDR[^annex2-lvlu1-1] hanno nella presente ordinanza gli equivalenti seguenti:
 
 <table>
-<tr><th colspan="2">Unione europea</th><th>Svizzera</th></tr>
-<tr><td colspan="2">a. Espressioni in tedesco:</td><td></td></tr>
-<tr><td colspan="2">Union</td><td>Schweiz</td></tr>
-<tr><td colspan="2">Mitgliedstaat</td><td>Schweiz</td></tr>
-<tr><td colspan="2">Drittstaat / Drittland</td><td>anderer Staat</td></tr>
-<tr><td colspan="2">Unionsmarkt</td><td>Schweizer Markt</td></tr>
-<tr><td colspan="2">Rechtsvorschriften der Union / Harmonisierungsrechtssvorschriften der Union</td><td>Rechtsvorschriften</td></tr>
-<tr><td colspan="2">Harmonisierte Norm</td><td>Bezeichnete Norm</td></tr>
-<tr><td colspan="2">Stand der Technik</td><td>Stand von Wissenschaft und Technik</td></tr>
-<tr><td colspan="2">EU-Konformitätserklärung</td><td>Konformitätserklärung</td></tr>
-<tr><td colspan="2">Amtsblatt der Europäischen Union</td><td>Bundesblatt</td></tr>
-<tr><td colspan="2">Ausserhalb / In der Union ansässig</td><td>Sitz ausserhalb / in der Schweiz</td></tr>
-<tr><td colspan="2">Behörde</td><td>Nach schweizerischem Recht zuständige Behörde</td></tr>
-<tr><td colspan="2">Angehörige der Gesundheitsberufe</td><td>Fachpersonen</td></tr>
-<tr><td colspan="2">Aussetzung</td><td>Suspendierung</td></tr>
-<tr><td colspan="2">Zurückziehung</td><td>Widerruf</td></tr>
-<tr><td colspan="2">Transplantate</td><td>Organe</td></tr>
-<tr><td colspan="2">b. Espressioni in francese:</td><td></td></tr>
-<tr><td colspan="2">Union</td><td>Suisse</td></tr>
-<tr><td colspan="2">État membre</td><td>Suisse</td></tr>
-<tr><td colspan="2">État tiers / pays tiers</td><td>autre État</td></tr>
-<tr><td colspan="2">marché de l’Union</td><td>marché suisse</td></tr>
-<tr><td colspan="2">législation (actes legislatifs) de l’Union / législation d’harmonisation de l’Union</td><td>législations</td></tr>
-<tr><td colspan="2">norme harmonisée</td><td>norme designée</td></tr>
-<tr><td colspan="2">état de l’art</td><td>état de la science et de la technique</td></tr>
-<tr><td colspan="2">déclaration de conformité UE</td><td>déclaration de conformité</td></tr>
-<tr><td colspan="2">investigation clinique</td><td>essai clinique</td></tr>
-<tr><td colspan="2">dispositif faisant l’objet d’une investigation</td><td>dispositif faisant l’objet d’un essai clinique</td></tr>
-<tr><td colspan="2">Journal officiel de l’Union européenne</td><td>Feuille fédérale</td></tr>
-<tr><td colspan="2">situé hors de l’Union / établi dans l’Union</td><td>sis à l’étranger / en Suisse</td></tr>
-<tr><td colspan="2">notice d’utilisation</td><td>mode d’emploi</td></tr>
-<tr><td colspan="2">conditionnement</td><td>emballage</td></tr>
-<tr><td colspan="2">notification des incidents graves</td><td>déclaration des incidents graves</td></tr>
-<tr><td colspan="2">autorités</td><td>autorités compétentes en vertu du droit suisse</td></tr>
-<tr><td colspan="2">professionnels de la santé</td><td>professionnels</td></tr>
-<tr><td colspan="2">retrait</td><td>révocation</td></tr>
-<tr><td colspan="2">c. Espressioni in italiano:</td><td></td></tr>
-<tr><td colspan="2">Unione</td><td>Svizzera</td></tr>
-<tr><td colspan="2">Stato membro</td><td>Svizzera</td></tr>
-<tr><td colspan="2">paese terzo</td><td>altro Stato</td></tr>
-<tr><td colspan="2">mercato dell’Unione</td><td>mercato svizzero</td></tr>
-<tr><td colspan="2">atto legislativo dell’Unione / normativa di armonizzazione dell’Unione</td><td>legislazioni</td></tr>
-<tr><td colspan="2">norma armonizzata</td><td>norma designata</td></tr>
-<tr><td colspan="2">stato dell’arte</td><td>stato della scienza e della tecnica</td></tr>
-<tr><td colspan="2">dichiarazione di conformità UE</td><td>dichiarazione di conformità</td></tr>
-<tr><td colspan="2">marcatura CE di conformità</td><td>marchio di conformità</td></tr>
-<tr><td colspan="2">Gazzetta ufficiale dell’Unione europea</td><td>Foglio federale</td></tr>
-<tr><td colspan="2">avente sede fuori dall’Unione / stabilito nell’Unione</td><td>avente sede all’estero / in Svizzera</td></tr>
-<tr><td colspan="2">autorità</td><td>autorità competente secondo il diritto svizzero</td></tr>
-<tr><td colspan="2">operatori sanitari</td><td>specialisti</td></tr>
-<tr><td colspan="2">controllata</td><td>società controllata</td></tr>
-<tr><td colspan="2">ritiro</td><td>revoca</td></tr>
-<tr><td colspan="2">controllata</td><td>società controllata</td></tr>
-<tr><td colspan="2">immissione sul mercato</td><td>immissione in commercio</td></tr>
-<tr><td colspan="2">segnalazione di incidenti gravi</td><td>notifica di incidenti gravi</td></tr>
-<tr><td colspan="2">indagini cliniche</td><td>sperimentazioni cliniche</td></tr>
-<tr><td colspan="2">dispositivo oggetto di indagine</td><td>dispositivo oggetto di sperimentazione clinica</td></tr>
-<tr><td colspan="2">confezionamento</td><td>imballaggio</td></tr>
+<tr><th>Unione europea</th><th>Svizzera</th></tr>
+<tr><td>*a. Espressioni in tedesco*</td><td></td></tr>
+<tr><td>Union</td><td>Schweiz</td></tr>
+<tr><td>Mitgliedstaat</td><td>Schweiz</td></tr>
+<tr><td>Drittstaat / Drittland</td><td>anderer Staat</td></tr>
+<tr><td>Unionsmarkt</td><td>Schweizer Markt</td></tr>
+<tr><td>Rechtsvorschriften der Union / Harmonisierungsrechtssvorschriften der Union</td><td>Rechtsvorschriften</td></tr>
+<tr><td>Harmonisierte Norm</td><td>Bezeichnete Norm</td></tr>
+<tr><td>Stand der Technik</td><td>Stand von Wissenschaft und Technik</td></tr>
+<tr><td>EU-Konformitätserklärung</td><td>Konformitätserklärung</td></tr>
+<tr><td>Amtsblatt der Europäischen Union</td><td>Bundesblatt</td></tr>
+<tr><td>Ausserhalb / In der Union ansässig</td><td>Sitz ausserhalb / in der Schweiz</td></tr>
+<tr><td>Behörde</td><td>Nach schweizerischem Recht zuständige Behörde</td></tr>
+<tr><td>Angehörige der Gesundheitsberufe</td><td>Gesundheitsfachpersonen</td></tr>
+<tr><td>Aussetzung</td><td>Suspendierung</td></tr>
+<tr><td>Zurückziehung</td><td>Widerruf</td></tr>
+<tr><td>Transplantate</td><td>Organe</td></tr>
+<tr><td>*b. Espressioni in francese*</td><td></td></tr>
+<tr><td>Union</td><td>Suisse</td></tr>
+<tr><td>État membre</td><td>Suisse</td></tr>
+<tr><td>État tiers / pays tiers</td><td>autre État</td></tr>
+<tr><td>marché de l’Union</td><td>marché suisse</td></tr>
+<tr><td>législation (actes législatifs) de l’Union / législation d’harmonisation de l’Union</td><td>législations</td></tr>
+<tr><td>norme harmonisée</td><td>norme désignée</td></tr>
+<tr><td>état de l’art</td><td>état de la science et de la technique</td></tr>
+<tr><td>déclaration de conformité UE</td><td>déclaration de conformité</td></tr>
+<tr><td>dispositif faisant l’objet d’une investigation</td><td>dispositif faisant l’objet d’un essai clinique</td></tr>
+<tr><td>Journal officiel de l’Union européenne</td><td>Feuille fédérale</td></tr>
+<tr><td>situé hors de l’Union / établi dans l’Union</td><td>sis à l’étranger / en Suisse</td></tr>
+<tr><td>notice d’utilisation</td><td>mode d’emploi</td></tr>
+<tr><td>conditionnement</td><td>emballage</td></tr>
+<tr><td>notification des incidents graves</td><td>déclaration des incidents graves</td></tr>
+<tr><td>autorités</td><td>autorités compétentes en vertu du droit suisse</td></tr>
+<tr><td>retrait des certificats</td><td>révocation des certificats</td></tr>
+<tr><td>retrait de la désignation</td><td>révocation de la désignation</td></tr>
+<tr><td>*c. Espressioni in italiano*</td><td></td></tr>
+<tr><td>Unione</td><td>Svizzera</td></tr>
+<tr><td>Stato Membro</td><td>Svizzera</td></tr>
+<tr><td>paese terzo</td><td>altro Stato</td></tr>
+<tr><td>mercato dell’Unione</td><td>mercato svizzero</td></tr>
+<tr><td>legislativo dell’Unione / normativa di armonizzazione dell’Unione</td><td>legislazioni</td></tr>
+<tr><td>norma armonizzata</td><td>norma designata</td></tr>
+<tr><td>stato dell’arte</td><td>stato della scienza e della tecnica</td></tr>
+<tr><td>dichiarazione di conformità UE</td><td>dichiarazione di conformità</td></tr>
+<tr><td>marcatura CE di conformità</td><td>marchio di conformità</td></tr>
+<tr><td>Gazzetta ufficiale dell’Unione europea</td><td>Foglio federale</td></tr>
+<tr><td>avente sede fuori dall’Unione, / stabilito nell’Unione</td><td>avente sede all’estero/ in Svizzera</td></tr>
+<tr><td>autorità</td><td>autorità competente secondo il diritto svizzero</td></tr>
+<tr><td>operatori sanitari</td><td>professionisti della salute</td></tr>
+<tr><td>controllata</td><td>società controllata</td></tr>
+<tr><td>ritiro dei certificati</td><td>revoca dei certificati</td></tr>
+<tr><td>ritiro della designazione</td><td>revoca della designazione</td></tr>
+<tr><td>immissione sul mercato</td><td>immissione in commercio</td></tr>
+<tr><td>segnalazione di incidenti gravi</td><td>notifica di incidenti gravi</td></tr>
+<tr><td>dispositivo oggetto di indagine</td><td>dispositivo oggetto di sperimentazione clinica</td></tr>
+<tr><td>confezionamento</td><td>imballaggio</td></tr>
 </table>
 
 [^annex2-lvlu1-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
 
-Allegato 3
+Allegato 3*[^t-2]*
 
 (art. 5 cpv. 2)
 
 ## Diritto applicabile
 
+[^t-2]: Aggiornato dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+
 ### 1 Diritto UE
 
 Se nella presente ordinanza si rimanda a disposizioni dell’UE-MDR[^annex3-lvlu1-lvl1-1] che, a loro volta, rimandano alle seguenti normative UE, valgono le seguenti versioni:
 
-- 1\.1 Regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008, relativo alla classificazione, all’etichettatura e all’imballaggio delle sostanze e delle miscele che modifica e abroga le direttive 67/548/CEE e 1999/45/CE e che reca modifica al regolamento (CE) n. 1907/2006 (GU L 353 del 31.12.2008, pag. 1);
+- 1\. 1 Regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008, relativo alla classificazione, all’etichettatura e all’imballaggio delle sostanze e delle miscele che modifica e abroga le direttive 67/548/CEE e 1999/45/CE e che reca modifica al regolamento (CE) n. 1907/2006, GU L 353 del 31.12.2008, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2021/1962, GU L 400 del 12.11.2021, pag. 16.
 - 1\.2 Regolamento (UE) n. 207/2012 della Commissione, del 9 marzo 2012, relativo alle istruzioni per l’uso elettroniche dei dispositivi medici (GU L 72 del 10.3.2012, pag. 28);
 - 1\.3 Regolamento (UE) n. 722/2012 della Commissione, dell’8 agosto 2012 relativo ai requisiti particolari per quanto riguarda i requisiti di cui alle direttive 90/385/CEE e 93/42/CEE del Consiglio per i dispositivi medici impiantabili attivi e i dispositivi medici fabbricati con tessuti d’origine animale (GU L 212 del 9.8.2012, pag. 3).
 
@@ -1767,47 +1856,46 @@ Se la presente ordinanza rimanda a disposizioni dell’UE-MDR[^annex3-lvlu1-lvl2
 
 <table>
 <tr><th colspan="2">Diritto UE</th><th>Diritto svizzero</th></tr>
-<tr><td>1. Direttiva 2001/83/CE del Parlamento europeo e del Consiglio, del 6 novembre 2001, recante un codice comunitario relativo ai medicinali per uso umano, GU L 311 del 28.1.2001, pag. 67</td><td colspan="2">[tab] Legge del 15 dicembre 2000[^annex3-lvlu1-lvl2-2] sugli agenti terapeutici</td></tr>
+<tr><td>1. Direttiva 2001/83/CE del Parlamento europeo e del Consiglio, del 6 novembre 2001, recante un codice comunitario relativo ai medicinali per uso umano, GU L 311 del 28.11.2001, pag. 67</td><td colspan="2">[tab] Legge del 15 dicembre 2000 sugli agenti terapeutici</td></tr>
 <tr><td>2. Regolamento (CE) n. 726/2004 del Parlamento europeo e del Consiglio del 31 marzo 2004 che istituisce procedure comunitarie per l’autorizzazione e la sorveglianza dei medicinali per uso umano e veterinario, e che istituisce l’agenzia europea per i medicinali, GU L 136 del 30.4.2004, pag. 1</td><td colspan="2">[tab] Legge del 15 dicembre 2000 sugli agenti terapeutici</td></tr>
 <tr><td>3. Regolamento (CE) n. 1394/2007 del Parlamento europeo e del Consiglio, del 13 novembre 2007, sui medicinali per terapie avanzate recante modifica della direttiva 2001/83/CE e del regolamento (CE) n. 726/2004, GU L 324 del 10.12.2007, pag. 121</td><td colspan="2">[tab] Legge del 15 dicembre 2000 sugli agenti terapeutici</td></tr>
 <tr><td>4. Regolamento (UE) 2017/746 del Parlamento europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medico-diagnostici in vitro e che abroga la direttiva 98/79/CE e la decisione 2010/227/UE della Commissione, GU L 117 del 5.5.2017, pag. 176</td><td colspan="2">[tab] Legge del 15 dicembre 2000 sugli agenti terapeutici</td></tr>
-<tr><td>5. Direttiva 85/374/CEE del Consiglio del 25 luglio 1985 relativa al ravvicinamento delle disposizioni legislative, regolamentari ed amministrative degli Stati Membri in materia di responsabilità per danno da prodotti difettosi, GU L 210 del 7.8.1985, pag. 29</td><td colspan="2">[tab] Legge federale del 18 giugno 1993[^annex3-lvlu1-lvl2-3] sulla responsabilità per danno da prodotti</td></tr>
-<tr><td>6. Direttiva 2014/30/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, concernente l’armonizzazione delle legislazioni degli Stati membri relative alla compatibilità elettromagnetica (rifusione), GU L 96 del 29.3.2014, pag. 79</td><td colspan="2">[tab] Ordinanza del 25 novembre 2015[^annex3-lvlu1-lvl2-4] sulla compatibilità elettromagnetica</td></tr>
-<tr><td>7. Direttiva 2006/42/CE del Parlamento europeo e del Consiglio, del 17 maggio 2006, relativa alle macchine e che modifica la direttiva 95/16/CE (rifusione), GU L 157 del 9.6.2006, pag. 24</td><td colspan="2">[tab] Ordinanza del 2 aprile 2008[^annex3-lvlu1-lvl2-5] sulle macchine</td></tr>
-<tr><td>8. Regolamento (CE) n. 1223/2009 del Parlamento europeo e del Consiglio del 30 novembre 2009, sui prodotti cosmetici, GU L 324 del 22.12.2009, pag. 59</td><td colspan="2">[tab] Ordinanza del DFI del 16 dicembre 2016[^annex3-lvlu1-lvl2-6] sui cosmetici</td></tr>
-<tr><td>9. Direttiva 2004/23/CE del Parlamento europeo e del Consiglio, del 31 marzo 2004, sulla definizione di norme di qualità e di sicurezza per la donazione, l’approvvigionamento, il controllo, la lavorazione, la conservazione, lo stoccaggio e la distribuzione di tessuti e cellule umani, GU L 102 del 7.4.2004, pag. 48</td><td colspan="2">[tab] Legge del 15 dicembre 2000 sugli agenti terapeutici e legge dell’8 ottobre 2004[^annex3-lvlu1-lvl2-7] sui trapianti</td></tr>
+<tr><td>5. Direttiva 85/374/CEE del Consiglio del 25 luglio 1985 relativa al ravvicinamento delle disposizioni legislative, regolamentari ed amministrative degli Stati Membri in materia di responsabilità per danno da prodotti difettosi, GU L 210 del 7.8.1985, pag. 29</td><td colspan="2">[tab] Legge federale del 18 giugno 1993[^annex3-lvlu1-lvl2-2] sulla responsabilità per danno da prodotti</td></tr>
+<tr><td>6. Direttiva 2014/30/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, concernente l’armonizzazione delle legislazioni degli Stati membri relative alla compatibilità elettromagnetica (rifusione), GU L 96 del 29.3.2014, pag. 79</td><td colspan="2">[tab] Ordinanza del 25 novembre 2015[^annex3-lvlu1-lvl2-3] sulla compatibilità elettromagnetica</td></tr>
+<tr><td>7. Direttiva 2006/42/CE del Parlamento europeo e del Consiglio, del 17 maggio 2006, relativa alle macchine e che modifica la direttiva 95/16/CE (rifusione), GU L 157 del 9.6.2006, pag. 24</td><td colspan="2">[tab] Ordinanza del 2 aprile 2008[^annex3-lvlu1-lvl2-4] sulle macchine</td></tr>
+<tr><td>8. Regolamento (CE) n. 1223/2009 del Parlamento europeo e del Consiglio del 30 novembre 2009, sui prodotti cosmetici, GU L 324 del 22.12.2009, pag. 59</td><td colspan="2">[tab] Ordinanza del DFI del 16 dicembre 2016[^annex3-lvlu1-lvl2-5] sui cosmetici</td></tr>
+<tr><td>9. Direttiva 2004/23/CE del Parlamento europeo e del Consiglio, del 31 marzo 2004, sulla definizione di norme di qualità e di sicurezza per la donazione, l’approvvigionamento, il controllo, la lavorazione, la conservazione, lo stoccaggio e la distribuzione di tessuti e cellule umani, GU L 102 del 7.4.2004, pag. 48</td><td colspan="2">[tab] Legge del 15 dicembre 2000 sugli agenti terapeutici e legge dell’8 ottobre 2004[^annex3-lvlu1-lvl2-6] sui trapianti</td></tr>
 <tr><td>10. Direttiva 2002/98/CE del Parlamento europeo e del Consiglio, del 27 gennaio 2003, che stabilisce norme di qualità e di sicurezza per la raccolta, il controllo, la lavorazione, la conservazione e la distribuzione del sangue umano e dei suoi componenti e che modifica la direttiva 2001/83/CE, GU L 33 dell’8.2.2003, pag. 30</td><td colspan="2">[tab] Legge del 15 dicembre 2000 sugli agenti terapeutici e legge dell’8 ottobre 2004 sui trapianti</td></tr>
-<tr><td>11. Regolamento (CE) n. 178/2002 del Parlamento europeo e del Consiglio, del 28 gennaio 2002, che stabilisce i principi e i requisiti generali della legislazione alimentare, istituisce l’Autorità europea per la sicurezza alimentare e fissa procedure nel campo della sicurezza alimentare, GU L 31 del 1.2.2002, pag. 1</td><td colspan="2">[tab] Legge del 20 giugno 2014[^annex3-lvlu1-lvl2-8] sulle derrate alimentari</td></tr>
-<tr><td>12. Regolamento (UE) n. 1025/2012 del Parlamento europeo e del Consiglio, del 25 ottobre 2012, sulla normazione europea, che modifica le direttive 89/686/CEE e 93/15/CEE del Consiglio nonché le direttive 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE e 2009/105/CE del Parlamento europeo e del Consiglio e che abroga la decisione 87/95/CEE del Consiglio e la decisione n. 1673/2006/CE del Parlamento europeo e del Consiglio, GU L 316 del 14.11.2012, pag. 12</td><td colspan="2">[tab] Legge del 15 dicembre 2000 sugli agenti terapeutici e legge federale del 6 ottobre 1995[^annex3-lvlu1-lvl2-9] sugli ostacoli tecnici al commercio</td></tr>
-<tr><td>13. Regolamento (CE) n. 45/2001 del Parlamento europeo e del Consiglio, del 18 dicembre 2000, concernente la tutela delle persone fisiche in relazione al trattamento dei dati personali da parte delle istituzioni e degli organismi comunitari, nonché la libera circolazione di tali dati, GU L 8 del 12.1.2001, pag. 1</td><td colspan="2">[tab] Legge federale del 19 giugno 1992[^annex3-lvlu1-lvl2-10] sulla protezione dei dati</td></tr>
-<tr><td>14. Regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008, che pone norme in materia di accreditamento e vigilanza del mercato per quanto riguarda la commercializzazione dei prodotti e che abroga il regolamento (CEE) n. 339/93, GU L 218 del 13.8.2008, pag. 30</td><td colspan="2">[tab] Legge federale del 6 ottobre 1995 sugli ostacoli tecnici al commercio e legge federale del 12 giugno 2009[^annex3-lvlu1-lvl2-11] sulla sicurezza dei prodotti</td></tr>
-<tr><td>15. Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1</td><td colspan="2">[tab] Legge del 15 dicembre 2000[^annex3-lvlu1-lvl2-12] sui prodotti chimici</td></tr>
-<tr><td>16. Regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio, del 22 maggio 2012, relativo alla messa a disposizione sul mercato e all’uso dei biocidi, GU L 167 del 27.6.2012, pag. 1</td><td colspan="2">[tab] Ordinanza del 18 maggio 2005[^annex3-lvlu1-lvl2-13] sui biocidi</td></tr>
-<tr><td>17. Direttiva 80/181/CEE del Consiglio, del 20 dicembre 1979, per il ravvicinamento delle legislazioni degli Stati Membri relative alle unità di misura che abroga la direttiva 71/354/CEE, GU L 39 del 15.2.1980, pag. 40</td><td colspan="2">[tab] Legge federale del 17 giugno 2011[^annex3-lvlu1-lvl2-14] sulla metrologia</td></tr>
-<tr><td>18. Direttiva 2013/59/Euratom del Consiglio, del 5 dicembre 2013, che stabilisce norme fondamentali di sicurezza relative alla protezione contro i pericoli derivanti dall’esposizione alle radiazioni ionizzanti, e che abroga le direttive 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom e 2003/122/Euratom, GU L 13 del 17.1.2014, pag. 1</td><td colspan="2">[tab] Legge federale del 22 marzo 1991[^annex3-lvlu1-lvl2-15] sulla radioprotezione</td></tr>
-<tr><td>19. Direttiva 2004/10/CE del Parlamento europeo e del Consiglio, dell’11 febbraio 2004, concernente il ravvicinamento delle disposizioni legislative, regolamentari ed amministrative relative all’applicazione dei principi di buona pratica di laboratorio e al controllo della loro applicazione per le prove sulle sostanze chimiche, GU L 50 del 20.2.2004, pag. 44</td><td colspan="2">[tab] Ordinanza del 18 maggio 2005[^annex3-lvlu1-lvl2-16] sulla buona prassi di laboratorio</td></tr>
+<tr><td>11. Regolamento (CE) n. 178/2002 del Parlamento europeo e del Consiglio, del 28 gennaio 2002, che stabilisce i principi e i requisiti generali della legislazione alimentare, istituisce l’Autorità europea per la sicurezza alimentare e fissa procedure nel campo della sicurezza alimentare, GU L 31 del 1.2.2002, pag. 1</td><td colspan="2">[tab] Legge del 20 giugno 2014[^annex3-lvlu1-lvl2-7] sulle derrate alimentari</td></tr>
+<tr><td>12. Regolamento (UE) n. 1025/2012 del Parlamento europeo e del Consiglio, del 25 ottobre 2012, sulla normazione europea, che modifica le direttive 89/686/CEE e 93/15/CEE del Consiglio nonché le direttive 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE e 2009/105/CE del Parlamento europeo e del Consiglio e che abroga la decisione 87/95/CEE del Consiglio e la decisione n. 1673/2006/CE del Parlamento europeo e del Consiglio, GU L 316 del 14.11.2012, pag. 12</td><td colspan="2">[tab] Legge del 15 dicembre 2000 sugli agenti terapeutici e legge federale del 6 ottobre 1995[^annex3-lvlu1-lvl2-8] sugli ostacoli tecnici al commercio</td></tr>
+<tr><td>13. Regolamento (CE) n. 45/2001 del Parlamento europeo e del Consiglio, del 18 dicembre 2000, concernente la tutela delle persone fisiche in relazione al trattamento dei dati personali da parte delle istituzioni e degli organismi comunitari, nonché la libera circolazione di tali dati, GU L 8 del 12.1.2001, pag. 1</td><td colspan="2">[tab] Legge federale del 19 giugno 1992[^annex3-lvlu1-lvl2-9] sulla protezione dei dati</td></tr>
+<tr><td>14. Regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008, che pone norme in materia di accreditamento e vigilanza del mercato per quanto riguarda la commercializzazione dei prodotti e che abroga il regolamento (CEE) n. 339/93, GU L 218 del 13.8.2008, pag. 30</td><td colspan="2">[tab] Legge federale del 6 ottobre 1995 sugli ostacoli tecnici al commercio e legge federale del 12 giugno 2009[^annex3-lvlu1-lvl2-10] sulla sicurezza dei prodotti</td></tr>
+<tr><td>15. Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1</td><td colspan="2">[tab] Legge del 15 dicembre 2000[^annex3-lvlu1-lvl2-11] sui prodotti chimici</td></tr>
+<tr><td>16. Regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio, del 22 maggio 2012, relativo alla messa a disposizione sul mercato e all’uso dei biocidi, GU L 167 del 27.6.2012, pag. 1</td><td colspan="2">[tab] Ordinanza del 18 maggio 2005[^annex3-lvlu1-lvl2-12] sui biocidi</td></tr>
+<tr><td>17. Direttiva 80/181/CEE del Consiglio, del 20 dicembre 1979, per il ravvicinamento delle legislazioni degli Stati Membri relative alle unità di misura che abroga la direttiva 71/354/CEE, GU L 39 del 15.2.1980, pag. 40</td><td colspan="2">[tab] Legge federale del 17 giugno 2011[^annex3-lvlu1-lvl2-13] sulla metrologia</td></tr>
+<tr><td>18. Direttiva 2013/59/Euratom del Consiglio, del 5 dicembre 2013, che stabilisce norme fondamentali di sicurezza relative alla protezione contro i pericoli derivanti dall’esposizione alle radiazioni ionizzanti, e che abroga le direttive 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom e 2003/122/Euratom, GU L 13 del 17.1.2014, pag. 1</td><td colspan="2">[tab] Legge federale del 22 marzo 1991[^annex3-lvlu1-lvl2-14] sulla radioprotezione</td></tr>
+<tr><td>19. Direttiva 2004/10/CE del Parlamento europeo e del Consiglio, dell’11 febbraio 2004, concernente il ravvicinamento delle disposizioni legislative, regolamentari ed amministrative relative all’applicazione dei principi di buona pratica di laboratorio e al controllo della loro applicazione per le prove sulle sostanze chimiche, GU L 50 del 20.2.2004, pag. 44</td><td colspan="2">[tab] Ordinanza del 18 maggio 2005[^annex3-lvlu1-lvl2-15] sulla buona prassi di laboratorio</td></tr>
 <tr><td>20. Direttiva 90/385/CEE del Consiglio, del 20 giugno 1990, per il ravvicinamento delle legislazioni degli Stati Membri relative ai dispositivi medici impiantabili attivi, GU L 189 del 20.7.1990, pag. 17.</td><td colspan="2">[tab] Ordinanza relativa ai dispositivi medici del 17 ottobre 2001</td></tr>
 <tr><td>21. Direttiva 93/42/CEE del Consiglio, del 14 giugno 1993, concernente i dispositivi medici, GU L 169 del 12.7.1993, pag. 1.</td><td colspan="2">[tab] Ordinanza relativa ai dispositivi medici del 17 ottobre 2001</td></tr>
 </table>
 
 [^annex3-lvlu1-lvl2-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
-[^annex3-lvlu1-lvl2-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^annex3-lvlu1-lvl2-3]: [RS 221.112.944](https://fedlex.data.admin.ch/eli/cc/1993/3122_3122_3122)
-[^annex3-lvlu1-lvl2-4]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
-[^annex3-lvlu1-lvl2-5]: [RS 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
-[^annex3-lvlu1-lvl2-6]: [RS 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
-[^annex3-lvlu1-lvl2-7]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
-[^annex3-lvlu1-lvl2-8]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^annex3-lvlu1-lvl2-9]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^annex3-lvlu1-lvl2-10]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^annex3-lvlu1-lvl2-11]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^annex3-lvlu1-lvl2-12]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^annex3-lvlu1-lvl2-13]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^annex3-lvlu1-lvl2-14]: [RS 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^annex3-lvlu1-lvl2-15]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^annex3-lvlu1-lvl2-16]: [RS 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
+[^annex3-lvlu1-lvl2-2]: [RS 221.112.944](https://fedlex.data.admin.ch/eli/cc/1993/3122_3122_3122)
+[^annex3-lvlu1-lvl2-3]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+[^annex3-lvlu1-lvl2-4]: [RS 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
+[^annex3-lvlu1-lvl2-5]: [RS 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
+[^annex3-lvlu1-lvl2-6]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^annex3-lvlu1-lvl2-7]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^annex3-lvlu1-lvl2-8]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^annex3-lvlu1-lvl2-9]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^annex3-lvlu1-lvl2-10]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^annex3-lvlu1-lvl2-11]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
+[^annex3-lvlu1-lvl2-12]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^annex3-lvlu1-lvl2-13]: [RS 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
+[^annex3-lvlu1-lvl2-14]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^annex3-lvlu1-lvl2-15]: [RS 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
 
-Allegato 4*[^t-1]*
+Allegato 4*[^t-3]*
 
 (art. 4 cpv. 2, 17 cpv. 4, 19 cpv. 1 lett. c, 20 cpv. 1, 23, 25 cpv. 3, 29 cpv. 2, 45 cpv. 2, 46 cpv. 3, 47 cpv. 1 e 98 cpv. 2 lett. b)
 
@@ -1815,7 +1903,7 @@ Allegato 4*[^t-1]*
 
 [^annex4-lvlu1-1]
 
-[^t-1]: Aggiornato dall’errata del 4 mag. 2021 ([RU 2021 260](https://fedlex.data.admin.ch/eli/oc/2021/260)).
+[^t-3]: Aggiornato dall’errata del 4 mag. 2021 ([RU 2021 260](https://fedlex.data.admin.ch/eli/oc/2021/260)).
 [^annex4-lvlu1-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
 
 Nell’applicazione della presente ordinanza gli atti emanati sulla base delle disposizioni dell’UE-MDR sotto elencate sono direttamente applicabili in Svizzera nella rispettiva versione vincolante per gli Stati membri dell’UE:
@@ -1843,21 +1931,23 @@ Allegato 5
 
 Il marchio di conformità è indicato nel modo seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20210526/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20220526/it/xml/image/image1.png)
 
 Se occorre fare ricorso a un organismo designato, oltre al marchio di conformità va indicato anche il numero d’identificazione di tale organismo.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20210526/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20220526/it/xml/image/image2.png)
 
-Allegato 6
+Allegato 6*[^t-4]*
 
 (art. 70 cpv. 2 e 3)
 
-## Gruppi di dispositivi destinati all’applicazione da parte di specialisti e presupposti professionali e aziendali per il loro utilizzo
+## Gruppi di dispositivi destinati all’applicazione da parte di professionisti della salute e presupposti professionali e aziendali per il loro utilizzo
+
+[^t-4]: Aggiornato dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 ### 1. Gruppi di dispositivi
 
-I dispositivi per iniezione destinati a rimanere nel corpo umano per più di 30 giorni (dispositivi a lunga permanenza) possono essere utilizzati esclusivamente da un medico oppure da uno specialista formato conformemente al numero 2 e sotto il diretto controllo e la responsabilità di un medico.
+I dispositivi per iniezione destinati a rimanere nel corpo umano per più di 30 giorni (dispositivi a lunga permanenza) possono essere utilizzati esclusivamente da un medico oppure da un professionista della salute formato conformemente al numero 2 e sotto il diretto controllo e la responsabilità di un medico.
 
 ## 2. Presupposti professionali
 

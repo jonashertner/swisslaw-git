@@ -4,11 +4,11 @@ title: Medizinprodukteverordnung vom 1. Juli 2020 (MepV)
 short: MepV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/552"
 language: de
-version: 2021-05-26
+version: 2022-05-26
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20210526/de/xml/fedlex-data-admin-ch-eli-cc-2020-552-20210526-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20210526/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20220526/de/xml/fedlex-data-admin-ch-eli-cc-2020-552-20220526-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20220526/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20210526/de"
 
 (MepV)
 
-vom 1. Juli 2020 (Stand am 26. Mai 2021)
+vom 1. Juli 2020 (Stand am 26. Mai 2022)
 
 Der Schweizerische Bundesrat
 
-gestützt auf das Heilmittelgesetz vom 15. Dezember 2000[^ingress-1] (HMG), Artikel 21 Ziffer 2 des Elektrizitätsgesetzes vom 24. Juni 1902[^ingress-2], Artikel 5 des Bundesgesetzes vom 17. Juni 2011 über das Messwesen[^ingress-3], Artikel 4 Absatz 1 des Bundesgesetzes vom 12. Juni 2009[^ingress-4] über die Produktesicherheit, Artikel 37 des Strahlenschutzgesetzes vom 22. März 1991[^ingress-5] sowie in Ausführung des Bundesgesetzes vom 6. Oktober 1995[^ingress-6] über die technischen Handelshemmnisse,
+gestützt auf das Heilmittelgesetz vom 15. Dezember 2000[^ingress-1] (HMG), Artikel 21 Ziffer 2 des Elektrizitätsgesetzes vom 24. Juni 1902[^ingress-2], Artikel 5 des Messgesetzes vom 17. Juni 2011[^ingress-3], Artikel 4 Absatz 1 des Bundesgesetzes vom 12. Juni 2009[^ingress-4] über die Produktesicherheit, Artikel 37 Absatz 1 des Strahlenschutzgesetzes vom 22. März 1991[^ingress-5] sowie in Ausführung des Bundesgesetzes vom 6. Oktober 1995[^ingress-6] über die technischen Handelshemmnisse,[^ingress-7]
 
 verordnet:
 
@@ -31,6 +31,7 @@ verordnet:
 [^ingress-4]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
 [^ingress-5]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
 [^ingress-6]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-7]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -81,9 +82,13 @@ Diese Verordnung gilt nicht für:
 - f. untrennbare Kombinationen aus einem Produkt, das zur Abgabe eines Arzneimittels bestimmt ist, und einem Arzneimittel, die ausschliesslich zur Verwendung in dieser Kombination bestimmt und nicht wiederverwendbar sind;
 - g. Kombinationen, die beim Inverkehrbringen oder bei der Inbetriebnahme neben dem Produkt als integralen Bestandteil ein Arzneimittel enthalten, dem eine hauptsächliche Funktion zukommt;
 - h. Kombinationen, die beim Inverkehrbringen oder bei der Inbetriebnahme neben dem Produkt als integralen Bestandteil nicht lebensfähiges Gewebe oder nicht lebensfähige Zellen menschlichen Ursprungs oder deren Derivate enthalten, denen eine hauptsächliche Funktion zukommt;
-- i. Medizinprodukte, die ausschliesslich zur Anwendung an Tieren oder zur veterinärmedizinischen Diagnostik bestimmt sind.
+- i. Medizinprodukte, die ausschliesslich zur Anwendung an Tieren oder zur veterinärmedizinischen Diagnostik bestimmt sind;
+- j.[^2-1] Kombinationen, die beim Inverkehrbringen oder bei der Inbetriebnahme neben dem Produkt als integralen Bestandteil Transplantatprodukte enthalten.
 
-<sup>2</sup> In den Fällen nach Absatz 1 Buchstaben f–h sind die grundlegenden Sicherheits- und Leistungsanforderungen nach Artikel 6 für den Teil der Kombination, der als Produkt gilt, zu erfüllen.
+<sup>2</sup> In den Fällen nach Absatz 1 Buchstaben f–h und j sind die grundlegenden Sicherheits- und Leistungsanforderungen nach Artikel 6 für den Teil der Kombination, der als Produkt gilt, zu erfüllen.[^2-2]
+
+[^2-1]: Eingefügt durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^2-2]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 ### 2. Abschnitt: Begriffe und Verweise auf Europäisches Recht
 
@@ -118,7 +123,9 @@ Als Medizinprodukte gelten ebenfalls:
 *Zubehör eines Medizinprodukts* ist ein Gegenstand, der an sich kein Medizinprodukt ist, aber vom Hersteller dazu bestimmt ist, zusammen mit einem oder mehreren bestimmten Medizinprodukten verwendet zu werden, und:
 
 - a. der speziell dessen oder deren Verwendung gemäss seiner oder ihrer Zweckbestimmung ermöglicht; oder
-- b. mit dem die medizinische Funktion des Medizinprodukts bzw. der Medizinprodukte im Hinblick auf dessen oder deren Zweckbestimmung gezielt und unmittelbar unterstützt wird.
+- b.[^3-1] mit dem die medizinische Funktion des Medizinprodukts oder der Medizinprodukte im Hinblick auf dessen oder deren Zweckbestimmung gezielt und unmittelbar unterstützt werden soll.
+
+[^3-1]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 4
 
@@ -140,12 +147,14 @@ In dieser Verordnung bedeuten:
 - j. *Wirtschaftsakteur:* Hersteller, Bevollmächtigter, Importeur, Händler und die Person nach Artikel 22 Absätze 1 und 3 EU-MDR;
 - k. *Gesundheitseinrichtung:* Organisation, deren Hauptzweck in der Versorgung oder Behandlung von Patientinnen und Patienten oder der Förderung der öffentlichen Gesundheit besteht;
 - l. *Spital:* Gesundheitseinrichtung, in der durch ärztliche und pflegerische Hilfeleistungen stationäre Behandlungen von Krankheiten oder stationäre Mass-nahmen der medizinischen Rehabilitation oder stationäre medizinische Massnahmen zum Zwecke der Ästhetik durchgeführt werden;
-- m. *Vertragsstaat:* Staat, der durch eine auf der Äquivalenz der Gesetzgebungen basierte völkerrechtliche Vereinbarung mit der Schweiz zur gegenseitigen Anerkennung von Konformitätsbewertungen und ‑verfahren für Produkte gebunden ist.
+- m. *Vertragsstaat:* Staat, der durch eine auf der Äquivalenz der Gesetzgebungen basierte völkerrechtliche Vereinbarung mit der Schweiz zur gegenseitigen Anerkennung von Konformitätsbewertungen und ‑verfahren für Produkte gebunden ist;
+- n.[^4-2] *Anbieter von Dienstleistungen der Informationsgesellschaft:* jede natürliche oder juristische Person, die eine Dienstleistung nach Artikel 7 Absatz 4 anbietet.
 
-<sup>2</sup> Es gelten zudem die Begriffe nach Artikel 2 Ziffern 3–26, 31, 37, 38, 40–44, 46, 48, 51–53, 57–69 und 71 EU-MDR, unter Berücksichtigung der Änderungen der Begriffsbestimmungen nach Artikel 2 Ziffern 18–21 EU-MDR, die von der Europäischen Kommission mittels delegierter Rechtsakte[^4-2] vorgenommen werden.
+<sup>2</sup> Es gelten zudem die Begriffe nach Artikel 2 Ziffern 3–26, 31, 37, 38, 40–44, 46, 48, 51–53, 57–69 und 71 EU-MDR, unter Berücksichtigung der Änderungen der Begriffsbestimmungen nach Artikel 2 Ziffern 18–21 EU-MDR, die von der Europäischen Kommission mittels delegierter Rechtsakte[^4-3] vorgenommen werden.
 
 [^4-1]: Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates, ABl. L 117 vom 5.5.2017, S. 1; zuletzt geändert durch Verordnung (EU) 2020/561, ABl. L 130 vom 24.4.2020, S. 18.
-[^4-2]: Siehe Anhang 4.
+[^4-2]: Eingefügt durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^4-3]: Siehe Anhang 4.
 
 #### Art. 5
 
@@ -169,27 +178,32 @@ In dieser Verordnung bedeuten:
 
 <sup>2</sup> Produkte müssen unter Berücksichtigung ihrer Zweckbestimmung den grundlegenden Sicherheits- und Leistungsanforderungen nach Anhang I EU-MDR[^6-1] genügen.
 
-<sup>3</sup> Für den Teil der Kombination, der in den Fällen nach Artikel 2 Buchstaben f–h als Produkt gilt, muss der entsprechende Nachweis zur Erfüllung der Produktanforderungen auf Verlangen der zuständigen Behörde vorgelegt werden können.
+<sup>3</sup> Für den Teil der Kombination, der in den Fällen nach Artikel 2 Buchstaben f–h und j als Produkt gilt, muss der entsprechende Nachweis zur Erfüllung der Produktanforderungen auf Verlangen der zuständigen Behörde vorgelegt werden können.[^6-2]
 
-<sup>4</sup> Die Einhaltung der Anforderungen dieser Verordnung, die durch bezeichnete technische Normen[^6-2], gemeinsame Spezifikationen oder durch Vorschriften der Pharmakopöe[^6-3] konkretisiert werden, wird vermutet, wenn das Produkt mit diesen Normen, Spezifikationen oder Vorschriften übereinstimmt.
+<sup>4</sup> Stimmt das Produkt mit den vom Schweizerischen Heilmittelinstitut (Swissmedic) bezeichneten anwendbaren technischen Normen oder gemeinsamen Spezifikationen, oder deren einschlägigen Teilen, oder mit den Vorschriften der Pharmakopöe gemäss der Pharmakopöeverordnung vom 17. Oktober 2001[^6-3] überein, so wird die Konformität des Produktes mit denjenigen Anforderungen der vorliegenden Verordnung, die durch die anwendbaren bezeichneten technischen Normen oder gemeinsamen Spezifikationen, oder deren einschlägigen Teilen, oder die Vorschriften der Pharmakopöe abgedeckt sind, vermutet.[^6-4]
 
-<sup>5</sup> Die Vermutung nach Absatz 4 gilt auch in Bezug auf die Einhaltung der System- oder Prozessanforderungen, die gemäss dieser Verordnung von den Wirtschaftsakteuren einzuhalten sind, einschliesslich der Anforderungen im Zusammenhang mit den Qualitätsmanagementsystemen, dem Risikomanagement, den Systemen zur Überwachung nach dem Inverkehrbringen, den klinischen Versuchen, der klinischen Bewertung oder der klinischen Nachbeobachtung nach dem Inverkehrbringen.
+<sup>5</sup> Die Vermutung nach Absatz 4 gilt auch in Bezug auf die Einhaltung der System- oder Prozessanforderungen, die gemäss dieser Verordnung von den Wirtschaftsakteuren einzuhalten sind, einschliesslich der Anforderungen im Zusammenhang mit den Qualitätsmanagementsystemen, dem Risikomanagement, den Systemen zur Überwachung nach dem Inverkehrbringen, den klinischen Prüfungen, der klinischen Bewertung oder der klinischen Nachbeobachtung nach dem Inverkehrbringen.[^6-5]
 
-<sup>6</sup> Gemeinsame Spezifikationen nach Absatz 4 sind einzuhalten, sofern der Hersteller nicht angemessen nachweisen kann, dass mit den von ihm gewählten Lösungen die Sicherheits- und Leistungsanforderungen gleichwertig gewährleistet sind. Artikel 8 Absatz 1 bleibt vorbehalten.
+<sup>6</sup> Gemeinsame Spezifikationen nach Absatz 4 sind einzuhalten, sofern der Hersteller nicht angemessen nachweisen kann, dass mit den von ihm gewählten Lösungen das Sicherheits- und Leistungsniveau gleichwertig gewährleistet ist. Artikel 8 Absatz 1 bleibt vorbehalten.[^6-6]
 
 [^6-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
-[^6-2]: Die elektrotechnischen Normen können beim Verband Electrosuisse, Luppmenstrasse 1, 8320 Fehraltorf, www.electrosuisse.ch, bezogen werden; die übrigen Normen können bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch, bezogen werden .
+[^6-2]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^6-3]: [SR 812.211](https://fedlex.data.admin.ch/eli/cc/2001/442)
+[^6-4]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^6-5]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^6-6]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 7
 
 **Fernabsatz**
 
-<sup>1</sup> Produkte, die über eine Dienstleistung der Informationsgesellschaft angeboten werden, namentlich über einen Online-Dienst, der die Bedingungen nach Absatz 4 erfüllt, müssen den Anforderungen dieser Verordnung entsprechen.
+<sup>1</sup> Produkte, die in der Schweiz über eine Dienstleistung der Informationsgesellschaft angeboten werden, namentlich über einen Online-Dienst, der die Bedingungen nach Absatz 4 erfüllt, müssen den Anforderungen dieser Verordnung entsprechen.[^7-1]
+
+<sup>1bis</sup> Produkte, die Anwenderinnen und Anwendern in der Schweiz online oder über eine andere Form des Fernabsatzes angeboten werden, gelten als auf dem Markt bereitgestellt.[^7-2]
 
 <sup>2</sup> Ebenso dieser Verordnung entsprechen müssen Produkte, die zwar nicht in Verkehr gebracht, aber im Rahmen einer gewerblichen Tätigkeit gegen Entgelt oder unentgeltlich eingesetzt werden zur Erbringung diagnostischer oder therapeutischer Dienstleistungen, die über eine Dienstleistung der Informationsgesellschaft oder über andere Kommunikationskanäle angeboten werden.
 
-<sup>3</sup> Wer ein Produkt gemäss Absatz 1 anbietet oder Dienstleistungen nach Absatz 2 erbringt, muss dem Schweizerischen Heilmittelinstitut (Swissmedic) auf Verlangen eine Kopie der Konformitätserklärung vorlegen.
+<sup>3</sup> Wer ein Produkt nach Absatz 1 anbietet oder diagnostische oder therapeutische Dienstleistungen nach Absatz 2 erbringt, muss der Swissmedic auf Verlangen eine Kopie der Konformitätserklärung vorlegen.[^7-3]
 
 <sup>4</sup>
 
@@ -199,7 +213,12 @@ Ein Produkt gilt als über eine Dienstleistung der Informationsgesellschaft ange
 - b. elektronisch erfolgt; und
 - c. auf individuelle Anforderung des Empfängers oder ihres Vertreters erfolgt.
 
-<sup>5</sup> Die Swissmedic kann zum Schutz der öffentlichen Gesundheit von einem Anbieter von Dienstleistungen der Informationsgesellschaft verlangen, seine Tätigkeit in der Schweiz einzustellen.
+<sup>5</sup> …[^7-4]
+
+[^7-1]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^7-2]: Eingefügt durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^7-3]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^7-4]: Aufgehoben durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, mit Wirkung seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 8
 
@@ -276,12 +295,13 @@ Kein Konformitätskennzeichen darf angebracht werden auf:
 - b. Produkten, die ausschliesslich Demonstrations- und Ausstellungszwecken dienen;
 - c. Systemen und Behandlungseinheiten;
 - d. Prüfprodukten, unter Vorbehalt von Artikel 6 der Verordnung vom 1. Juli 2020[^13-2] über klinische Versuche mit Medizinprodukten;
-- e. Produkten, die in Gesundheitseinrichtungen hergestellt und verwendet werden.
+- e.[^13-3] Produkten nach Artikel 9.
 
 <sup>3</sup> Bei Produkten, deren Konformität von einer bezeichneten Stelle zu beurteilen ist, muss dem Konformitätskennzeichen die Kennnummer dieser Stelle hinzugefügt werden.
 
 [^13-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
 [^13-2]: [SR 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
+[^13-3]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 14
 
@@ -298,7 +318,11 @@ Kein Konformitätskennzeichen darf angebracht werden auf:
 [^14-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
 [^14-2]: Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates, Fassung gemäss ABl. L 218 vom 13.8.2008, S. 30.
 
-### 2. Abschnitt: Klassifizierung, Kennzeichnung und Produktidentifikation
+### 2. Abschnitt: Klassifizierung, Produktinformation und Produktidentifikation****
+
+[^chap2-sec2-1]
+
+[^chap2-sec2-1]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 15
 
@@ -306,9 +330,10 @@ Kein Konformitätskennzeichen darf angebracht werden auf:
 
 <sup>1</sup> Produkte werden unter Berücksichtigung ihrer Zweckbestimmung und der damit verbundenen Risiken in die Klassen I, IIa, IIb und III eingestuft. Für die Klassifizierung ist Anhang VIII EU-MDR[^15-1] massgebend.
 
-<sup>2</sup> Das Verfahren zur Regelung von Meinungsverschiedenheiten zwischen dem Hersteller und einer bezeichneten Stelle betreffend die Klassifizierung eines Produkts richtet sich nach Artikel 51 Absatz 2 EU-MDR.
+<sup>2</sup> …[^15-2]
 
 [^15-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
+[^15-2]: Aufgehoben durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, mit Wirkung seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 16
 
@@ -322,8 +347,8 @@ Kein Konformitätskennzeichen darf angebracht werden auf:
 
 Die Produktinformation kann sich auf weniger als drei Amtssprachen oder auf Englisch beschränken, sofern:
 
-- a. das Produkt ausschliesslich Fachpersonen abgegeben wird oder es sich beim Produkt um eine Sonderanfertigung oder um ein in einer Gesundheitseinrichtung hergestelltes und verwendetes Produkt handelt;
-- b. sichergestellt ist, dass die Anwenderin oder der Anwender die notwendigen fachlichen und sprachlichen Voraussetzungen mitbringt und damit einverstanden ist;
+- a.[^16-2] das Produkt ausschliesslich Gesundheitsfachpersonen abgegeben wird oder es sich beim Produkt um eine Sonderanfertigung oder um ein Produkt nach Artikel 9 handelt;
+- b.[^16-3] die Anwenderin oder der Anwender die notwendigen fachlichen und sprachlichen Voraussetzungen mitbringt und damit einverstanden ist;
 - c. der Schutz von Patientinnen und Patienten, von Anwenderinnen und Anwendern sowie Dritter gewährleistet ist; und
 - d. die wirksame und leistungsbezogene Anwendung nicht gefährdet wird.
 
@@ -336,6 +361,8 @@ Die Produktinformation kann sich auf weniger als drei Amtssprachen oder auf Engl
 <sup>7</sup> Irreführende oder widersprüchliche Angaben über Zweckbestimmung, Sicherheit und Leistungsfähigkeit eines Produkts sind verboten.
 
 [^16-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
+[^16-2]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^16-3]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 17
 
@@ -349,7 +376,7 @@ Die Produktinformation kann sich auf weniger als drei Amtssprachen oder auf Engl
 
 <sup>4</sup> Die mit der Produktidentifikation und der Produkteregistrierung verbundenen Pflichten und Modalitäten richten sich nach den Artikeln 27, 29 und Anhang VI EU-MDR, unter Berücksichtigung der Änderungen dieses Anhangs, die von der Europäischen Kommission mittels delegierter Rechtsakte[^17-6] vorgenommen werden.
 
-<sup>5</sup> ...[^17-7]
+<sup>5</sup> …[^17-7]
 
 [^17-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
 [^17-2]: Steht für «Unique Device Identification».
@@ -363,7 +390,7 @@ Die Produktinformation kann sich auf weniger als drei Amtssprachen oder auf Engl
 
 #### Art. 18
 
-**Meldepflicht für das Verwenden von in Gesundheitseinrichtungen hergestellten Produkten**
+**Meldung von in Gesundheitseinrichtungen hergestellten Produkten[^18-1]**
 
 <sup>1</sup>
 
@@ -373,13 +400,14 @@ Gesundheitseinrichtungen, die Produkte nach Artikel 9 herstellen und verwenden, 
 - b. den Namen und die Zweckbestimmung des Produkts;
 - c. die Risikoklasse des Produkts nach Artikel 15 Absatz 1.
 
-<sup>2</sup> Alle weiteren relevanten Angaben zu diesen Produkten sind der Swissmedic auf Verlangen vorzulegen. Die Erklärung nach Artikel 5 Absatz 5 Buchstabe e EU-MDR[^18-1] ist öffentlich zugänglich zu machen.
+<sup>2</sup> Alle weiteren relevanten Angaben zu diesen Produkten sind der Swissmedic auf Verlangen vorzulegen.[^18-2]
 
 <sup>3</sup> Änderungen der Angaben nach Absatz 1 sind der Swissmedic innerhalb von 30 Tagen zu melden.
 
 <sup>4</sup> Die Swissmedic kann entsprechend dem Risiko, das einem Produkt und seiner Anwendung eigen ist, Produkte, die nach Artikel 9 hergestellt und verwendet werden, von der Meldepflicht nach Absatz 1 ausnehmen.
 
-[^18-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
+[^18-1]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^18-2]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 19
 
@@ -422,11 +450,16 @@ Wer Sonderanfertigungen in der Schweiz auf dem Markt bereitstellt, muss der Swis
 
 <sup>1</sup> Wer in der Schweiz oder in einem Vertragsstaat Produkte auf dem Markt bereitstellt und Sitz in der Schweiz hat, muss den Behörden, die für die Kontrolle im Rahmen der Marktüberwachung zuständig sind, auf Verlangen die Konformitätserklärung vorlegen.
 
-<sup>2</sup> Wer in der Schweiz oder in einem Vertragsstaat ein Produkt in Verkehr bringt oder es ohne Inverkehrbringen in Betrieb nimmt und Sitz in der Schweiz hat, muss vor dem Inverkehrbringen oder der Inbetriebnahme eine Bewertung der Konformität mit den grundlegenden Sicherheits- und Leistungsanforderungen durchführen und belegen können.
+<sup>2</sup> Ein Hersteller, der in der Schweiz oder in einem Vertragsstaat ein Produkt in Verkehr bringt und Sitz in der Schweiz hat, muss vor dem Inverkehrbringen eine Bewertung der Konformität gemäss den geltenden Konformitätsbewertungsverfahren durchführen. Der Hersteller und der Importeur müssen belegen können, dass eine solche Konformitätsbewertung durchgeführt wurde und das Produkt konform ist.[^21-1]
 
-<sup>3</sup> Der Nachweis der Einhaltung der grundlegenden Sicherheits- und Leistungsanforderungen umfasst auch eine klinische Bewertung gemäss Artikel 61 EU-MDR[^21-1].
+<sup>3</sup> Ein Hersteller, der in der Schweiz oder in einem Vertragsstaat ein nicht in Verkehr gebrachtes Produkt in Betrieb nimmt und Sitz in der Schweiz hat, muss vor der Inbetriebnahme eine Bewertung der Konformität gemäss den geltenden Konformitätsbewertungsverfahren durchführen. Er muss belegen können, dass eine solche Konformitätsbewertung durchgeführt wurde und das Produkt konform ist.[^21-2]
 
-[^21-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
+<sup>4</sup> Der Nachweis der Einhaltung der grundlegenden Sicherheits- und Leistungsanforderungen umfasst auch eine Leistungsbewertung gemäss Artikel 61 EU-MDR[^21-3].[^21-4]
+
+[^21-1]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^21-2]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^21-3]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
+[^21-4]: Eingefügt durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 22
 
@@ -444,12 +477,14 @@ Auf begründeten Antrag kann die Swissmedic das Inverkehrbringen und die Inbetri
 Einzelne Produkte, bei denen das einschlägige Konformitätsbewertungsverfahren nicht durchgeführt wurde, können ohne Bewilligung der Swissmedic in Verkehr gebracht und angewendet werden, wenn:
 
 - a. sie der Behebung lebensbedrohender Zustände oder der Beseitigung dauernder Beeinträchtigungen einer Körperfunktion dienen;
-- b. kein konformes Produkt für die bestimmte Indikation vorhanden ist;
+- b.[^22-1] kein konformes Produkt für die bestimmte Zweckbestimmung vorhanden ist;
 - c. sie ausschliesslich von Medizinalpersonen an Einzelpersonen angewendet werden;
 - d. die anwendende Medizinalperson die betroffene Einzelperson über die Nichtkonformität des Produkts und die damit verbundenen Risiken aufgeklärt hat; und
 - e. die betroffene Einzelperson der Anwendung des Produkts zugestimmt hat.
 
 <sup>3</sup> Für Produkte, die ausschliesslich innerhalb der Armee oder im Rahmen von deren besonderen Aufgaben in Verkehr gebracht werden, kann das Eidgenössische Departement des Innern (EDI) im Einvernehmen mit dem Eidgenössischen Departement für Verteidigung, Bevölkerungsschutz und Sport Ausnahmen gewähren.
+
+[^22-1]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 23
 
@@ -472,11 +507,12 @@ Das Konformitätsbewertungsverfahren richtet sich nach den Artikeln 52 und 54 so
 
 <sup>4</sup> Zieht ein Hersteller seinen Antrag auf Durchführung eines Konformitätsbewertungsverfahrens zurück, bevor der Entscheid der bezeichneten Stelle über die Konformitätsbewertung ergangen ist, so informiert die betreffende bezeichnete Stelle die Swissmedic und die anderen bezeichneten Stellen.
 
-<sup>5</sup> Die Information nach Absatz 4 hat ausschliesslich über Eudamed zu erfolgen.
+<sup>5</sup> …[^24-1]
 
-<sup>6</sup> Bei einem freiwilligen Wechsel der bezeichneten Stelle sind die Anforderungen von Artikel 58 EU-MDR[^24-1] einzuhalten.
+<sup>6</sup> Bei einem freiwilligen Wechsel der bezeichneten Stelle sind die Anforderungen von Artikel 58 EU-MDR[^24-2] einzuhalten.
 
-[^24-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
+[^24-1]: Aufgehoben durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, mit Wirkung seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^24-2]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
 
 ### 2. Abschnitt: Konformitätsbescheinigung
 
@@ -614,7 +650,7 @@ Die Bewilligung wird erteilt, wenn:
 
 **Voraussetzungen und Gesuch**
 
-<sup>1</sup> Die Swissmedic bezeichnet nur Konformitätsbewertungsstellen, die ein Bewertungsverfahren gemäss Artikel 34 durchlaufen haben und die Voraussetzungen nach Anhang VII EU-MDR[^33-1] erfüllen.
+<sup>1</sup> Die Swissmedic bezeichnet nur Konformitätsbewertungsstellen, die ihren Sitz in der Schweiz haben, die ein Bewertungsverfahren gemäss Artikel 34 durchlaufen haben und die Voraussetzungen nach Anhang VII EU-MDR[^33-1] erfüllen.[^33-2]
 
 <sup>2</sup>
 
@@ -628,6 +664,7 @@ Das Gesuch um Bezeichnung ist bei der Swissmedic einzureichen. Es muss insbesond
 <sup>4</sup> Sie prüft das Gesuch und die beigefügten Unterlagen und erstellt einen vorläufigen Bewertungsbericht.
 
 [^33-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
+[^33-2]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 34
 
@@ -746,7 +783,7 @@ Suspendiert die Swissmedic die Bezeichnung einer bezeichneten Stelle oder schrä
 Die Bescheinigungen bleiben auch gültig, wenn die Swissmedic:
 
 - a. bestätigt, dass während der Dauer der Suspendierung oder Einschränkung keine von der Suspendierung betroffenen Bescheinigungen ausgestellt, geändert oder erneut ausgestellt werden; und
-- b. angibt, dass die bezeichnete Stelle in der Lage ist, bestehende Bescheinigungen während der Dauer der Suspendierung oder Einschränkung weiterhin zu kontrollieren und die Verantwortung dafür zu übernehmen.
+- b.[^43-1] angibt, dass die bezeichnete Stelle in der Lage ist, bestehende Bescheinigungen während der Dauer der Suspendierung oder Einschränkung weiterhin zu überwachen und die Verantwortung dafür zu übernehmen.
 
 <sup>3</sup> Die bezeichnete Stelle informiert die betroffenen Hersteller oder die Personen, die die betroffenen Produkte in Verkehr bringen.
 
@@ -756,6 +793,8 @@ Stellt die Swissmedic fest, dass die bezeichnete Stelle bestehende Bescheinigung
 
 - a. eine andere qualifizierte bezeichnete Stelle vorübergehend die Aufgaben zur Überwachung übernimmt; und
 - b. diese während der Dauer der Suspendierung oder Einschränkung für die Bescheinigungen verantwortlich ist.
+
+[^43-1]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 44
 
@@ -954,11 +993,12 @@ Die weiteren Pflichten des Händlers vor und nach der Bereitstellung eines Produ
 
 <sup>3</sup> Weitere Pflichten und Modalitäten zur Registrierung richten sich nach den Artikeln 30 Absatz 3 und 31 EU-MDR.
 
-<sup>4</sup> Die Swissmedic überprüft die von den Wirtschaftsakteuren gemeldeten Angaben und teilt ihnen eine einmalige Identifikationsnummer zu.
+<sup>4</sup> Die Swissmedic überprüft die von den Wirtschaftsakteuren gemeldeten Angaben und teilt ihnen eine einmalige schweizerische Registrierungsnummer (CHRN) zu.[^55-2]
 
 <sup>5</sup> Wer Systeme und Behandlungseinheiten nach Artikel 11 zum ersten Mal in Verkehr bringt, registriert innerhalb von drei Monaten nach dem Inverkehrbringen des Systems oder der Behandlungseinheit seinen Namen und die Adresse, unter der er zu erreichen ist, bei der Swissmedic. Wird nach Artikel 51 Absatz 5 ein Bevollmächtigter verlangt, so müssen dessen Name und Adresse ebenfalls bei der Swissmedic registriert werden.
 
 [^55-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
+[^55-2]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 ## 7. Kapitel: Produktebeobachtung
 
@@ -1069,32 +1109,37 @@ Während der gesamten Lebensdauer des betreffenden Produkts bleiben im Sicherhei
 
 <sup>3</sup> Der Mindestinhalt des Kurzberichts richtet sich nach Artikel 32 Absatz 2 EU-MDR[^63-1].
 
-<sup>4</sup> Der Entwurf des Kurzberichts ist zusammen mit der Dokumentation der gemäss Artikel 24 an der Konformitätsbewertung beteiligten bezeichneten Stelle zu übermitteln und wird von dieser Stelle validiert.
+<sup>4</sup> Der Entwurf des Kurzberichts ist zusammen mit der Dokumentation der an der Konformitätsbewertung beteiligten bezeichneten Stelle zur Validierung zu übermitteln.[^63-2]
 
-<sup>5</sup> Der validierte Kurzbericht wird vom Hersteller publiziert.[^63-2]
+<sup>5</sup> Der validierte Kurzbericht wird vom Hersteller publiziert.[^63-3]
 
 <sup>6</sup> Der Hersteller gibt auf der Kennzeichnung oder in der Gebrauchsanweisung an, wo der Kurzbericht verfügbar ist.
 
 [^63-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
-[^63-2]: Fassung gemäss Ziff. I der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^63-2]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^63-3]: Fassung gemäss Ziff. I der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 
 ### 4. Abschnitt: Rückverfolgbarkeit und Erfassung der Produktidentifikation
 
 #### Art. 64
 
-**Rückverfolgbarkeit**
+**Rückverfolgbarkeit**[^64-1]
 
-<sup>1</sup> Die Händler und Importeure arbeiten mit den Herstellern und ihren Bevollmächtigten so zusammen, dass die Produkte angemessen rückverfolgbar sind.
+<sup>1</sup> Die Händler und Importeure arbeiten mit den Herstellern oder ihren Bevollmächtigten so zusammen, dass die Produkte angemessen rückverfolgbar sind.
 
-<sup>2</sup> Die Offenlegungspflicht gemäss Artikel 47*c* HMG gilt mindestens 10 Jahre, bei implantierbaren Produkten mindestens 15 Jahre, nachdem das letzte von der Konformitätserklärung erfasste Produkt in Verkehr gebracht wurde.
+<sup>2</sup> Die Offenlegungspflicht gemäss Artikel 47*c* HMG gilt mindestens 10 Jahre und bei implantierbaren Produkten mindestens 15 Jahren ab dem Zeitpunkt, zu dem das Produkt bezogen oder geliefert wurde.
+
+[^64-1]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 65
 
 **Erfassen des UDI**
 
-<sup>1</sup> Die Wirtschaftsakteure und die Gesundheitseinrichtungen erfassen und speichern, vorzugsweise elektronisch, den UDI der implantierbaren Produkte der Klasse III, die sie bezogen oder abgegeben haben.
+<sup>1</sup> Die Wirtschaftsakteure und die Gesundheitseinrichtungen erfassen und speichern, vorzugsweise elektronisch, den UDI der implantierbaren Produkte der Klasse III, die sie abgegeben oder bezogen haben.[^65-1]
 
 <sup>2</sup> Die Swissmedic kann diese Pflicht auf weitere Produkte, Produktekategorien oder Produktegruppen ausdehnen.
+
+[^65-1]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 ### 5. Abschnitt: Vigilance
 
@@ -1113,7 +1158,7 @@ Der Hersteller eines in der Schweiz bereitgestellten Produkts oder die Person, d
 
 <sup>2bis</sup> Wird nach Artikel 51 ein Bevollmächtigter verlangt, so trägt dieser die Verantwortung für die Meldung nach Absatz 1. Zudem reicht der Bevollmächtigte unaufgefordert die Trendberichte nach Absatz 2 bezüglich Vorkommnissen in der Schweiz sowie im Ausland bei der Swissmedic ein. Abschlussberichte gemäss Artikel 89 Absatz 5 EU-MDR sind der Swissmedic einzureichen. Die Übertragung dieser Pflichten vom Hersteller oder von der Person, die gemäss Artikel 22 Absätze 1 und 3 EU-MDR Systeme oder Behandlungseinheiten zusammenstellt, auf den Bevollmächtigten ist im Mandat schriftlich zu vereinbaren.[^66-3]
 
-<sup>3</sup> ...[^66-4]
+<sup>3</sup> …[^66-4]
 
 <sup>4</sup> Wer als Fachperson bei der Anwendung von Produkten ein schwerwiegendes Vorkommnis feststellt, muss dieses dem Lieferanten und der Swissmedic melden. Die Meldung kann durch eine Fachgesellschaft erfolgen. Die Fristen richten sich nach Artikel 87 EU-MDR.
 
@@ -1150,17 +1195,22 @@ Die Abgabe von Produkten richtet sich nach der Zweckbestimmung und den Angaben d
 
 <sup>2</sup> Irreführende Angaben, insbesondere über Zweckbestimmung, Sicherheit und Leistungsfähigkeit eines Produkts, sind verboten.
 
-<sup>3</sup> Die Publikumswerbung ist verboten für Produkte, die ausschliesslich für die Anwendung durch Fachpersonen bestimmt sind.
+<sup>3</sup> Die Publikumswerbung ist verboten für Produkte, die ausschliesslich für die Anwendung durch Gesundheitsfachpersonen bestimmt sind.[^69-1]
+
+[^69-1]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 70
 
-**Anwendung durch Fachpersonen**
+**Anwendung[^70-1]**
 
 <sup>1</sup> Wer als Fachperson ein Produkt aus dem Ausland, ohne es in Verkehr zu bringen, direkt anwendet, ist für die Konformität des Produkts verantwortlich.
 
-<sup>2</sup> Produktegruppen, die zur Anwendung durch Fachpersonen bestimmt sind und die bei nicht sachgemässer Anwendung die Gesundheit von Menschen gefährden können, sind in Anhang 6 aufgelistet.
+<sup>2</sup> Produktegruppen, die zur Anwendung durch Gesundheitsfachpersonen bestimmt sind und die bei nicht sachgemässer Anwendung die Gesundheit von Menschen gefährden können, sind in Anhang 6 aufgelistet.[^70-2]
 
 <sup>3</sup> Die Produktegruppen nach Anhang 6 dürfen nur unter den dort genannten fachlichen und betrieblichen Voraussetzungen angewendet werden.
+
+[^70-1]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^70-2]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 71
 
@@ -1232,13 +1282,37 @@ Wer Produkte für Dritte aufbereitet, muss:
 
 <sup>1</sup> Die Kontrolle im Rahmen der Marktüberwachung umfasst die auf dem Markt bereitgestellten Produkte, die Konformitätsbewertungsverfahren, die Produktebeobachtung, den Umgang mit Produkten sowie das Erfüllen der Pflichten der Wirtschaftsakteure. Sie umfasst auch Produkte, die von Personen mit Sitz in der Schweiz in Vertragsstaaten bereitgestellt werden, deren Konformitätsbewertungsverfahren und die Produktebeobachtung sowie das Erfüllen der Pflichten dieser Personen.
 
-<sup>2</sup> Die Marktüberwachungstätigkeiten der Swissmedic und der Kantone richten sich nach den Artikeln 93–95, 97 und 98 EU-MDR[^75-1]. Ausgenommen sind die Artikel 97 Absatz 3 und 98 Absätze 3 und 4 EU-MDR.
+<sup>2</sup> Die Marktüberwachungstätigkeiten der Swissmedic und der Kantone richten sich nach Artikel 66 HMG und den Artikeln 93–95, 97 und 98 EU-MDR[^75-1]. Ausgenommen sind die Artikel 97 Absatz 3 und 98 Absätze 3 und 4 EU-MDR.[^75-2]
 
 <sup>3</sup> Die Kantone erstellen Jahrespläne für ihre Marktüberwachungstätigkeiten nach Absatz 2. Sie übermitteln der Swissmedic eine jährliche Zusammenfassung der Ergebnisse ihrer Überwachungstätigkeiten. Die Swissmedic kann den Inhalt der Zusammenfassung und die Form, in der sie verfügbar gemacht wird, bestimmen.
 
 <sup>4</sup> Sofern dies zum Schutz der Bevölkerung erforderlich ist, erlässt die Swissmedic die Massnahmen nach Artikel 66 HMG als Allgemeinverfügung.
 
 [^75-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
+[^75-2]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+
+#### Art. 75a
+
+**Gemeinsame Tätigkeiten und Nutzung von Informationen**[^75a-1]
+
+<sup>1</sup> Die Marktüberwachungsbehörden können mit Organisationen, die Wirtschaftsakteure oder Anwenderinnen und Anwender vertreten, die Durchführung gemeinsamer Tätigkeiten zur Förderung der Konformität und weiteren ähnlichen Zwecken vereinbaren.
+
+<sup>2</sup> Sie können alle im Rahmen dieser Tätigkeiten gewonnenen Informationen für die Marktüberwachung nutzen.
+
+[^75a-1]: Eingefügt durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+
+#### Art. 75b
+
+**Zusätzliche Massnahmen**[^75b-1]
+
+Zusätzlich zu den Massnahmen nach Artikel 75 Absatz 2 können die zuständigen Behörde insbesondere folgende Massnahmen ergreifen:
+
+- a. Sie können von Wirtschaftsakteuren die Herausgabe einschlägiger Informationen verlangen, die für die Feststellung des Eigentums an Websites erforderlich sind, wenn die betreffenden Informationen im Zusammenhang mit dem Gegenstand der Ermittlung stehen.
+- b. Sie können die Entfernung von Inhalten von einer Online-Schnittstelle oder die ausdrückliche Anzeige eines Warnhinweises für Anwenderinnen und Anwender verlangen, sofern es keine andere Möglichkeit gibt, ein ernstes Risiko zu beseitigen.
+- c. Sofern eine Aufforderung nach Buchstabe b nicht befolgt wurde, können sie Anbieter von Dienstleistungen der Informationsgesellschaft anweisen, den Zugang zu der Online-Schnittstelle einzuschränken, unter anderem, indem sie einen Dritten zur Durchführung dieser Massnahme auffordern.
+- d. Zum Schutz der öffentlichen Gesundheit können sie von einem Anbieter von Dienstleistungen der Informationsgesellschaft verlangen, seine Tätigkeit in der Schweiz einzustellen.
+
+[^75b-1]: Eingefügt durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 76
 
@@ -1290,7 +1364,11 @@ Die für die Überwachung zuständigen Behörden nach Artikel 76 können zur Üb
 
 **Mitwirkungs- und Auskunftspflicht**
 
-Die Wirtschaftsakteure, die ein Produkt in der Schweiz oder in einem Vertragsstaat in Verkehr bringen, sowie Wirtschaftsakteure, Fachpersonen und Gesundheitseinrichtungen, die ein Produkt in der Schweiz oder in einem Vertragsstaat auf dem Markt bereitstellen oder in Betrieb nehmen, sind beim Vollzug zur Mitwirkung verpflichtet. Sie haben insbesondere den Vollzugsorganen unentgeltlich alle erforderlichen Auskünfte zu erteilen sowie die erforderlichen Nachweise und Unterlagen herauszugeben.
+<sup>1</sup> Die Wirtschaftsakteure, die ein Produkt in der Schweiz oder in einem Vertragsstaat in Verkehr bringen, sowie Wirtschaftsakteure, Fachpersonen und Gesundheitseinrichtungen, die ein Produkt in der Schweiz oder in einem Vertragsstaat auf dem Markt bereitstellen oder in Betrieb nehmen, sind beim Vollzug zur Mitwirkung verpflichtet. Sie haben insbesondere den Vollzugsorganen unentgeltlich alle erforderlichen Auskünfte zu erteilen sowie die erforderlichen Nachweise und Unterlagen herauszugeben.
+
+<sup>2</sup> Die Anbieter von Dienstleistungen der Informationsgesellschaft sind beim Vollzug ebenfalls zur Mitwirkung verpflichtet. Sie haben insbesondere die zuständigen Behörden unverzüglich über mutmassliche rechtswidrige Tätigkeiten oder Informationen der Nutzerinnen und Nutzer ihres Dienstes zu unterrichten und auf Verlangen Informationen zu übermitteln, anhand deren die Nutzerinnen und Nutzer ihres Dienstes, mit denen sie Vereinbarungen über die Speicherung geschlossen haben, ermittelt werden können.[^78-1]
+
+[^78-1]: Eingefügt durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 ## 10. Kapitel: Datenbearbeitung
 
@@ -1374,9 +1452,11 @@ Das Informationssystem Medizinprodukte enthält folgende Daten:
 
 #### Art. 86
 
-**Datenaustausch mit anderen Informationssystemen**
+**Datenaustausch mit anderen Informationssystemen**[^86-1]
 
-Das Informationssystem Medizinprodukte kann Daten nach Artikel 85 aus Eudamed sowie aus kantonalen elektronischen Systemen beziehen und sie dahin abgeben.
+Das Informationssystem Medizinprodukte kann Daten nach Artikel 85 aus der Europäischen Datenbank für Medizinprodukte sowie aus kantonalen elektronischen Systemen beziehen und sie dahin abgeben.
+
+[^86-1]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 87
 
@@ -1465,11 +1545,13 @@ Die Swissmedic informiert auf ihrer Internetseite über die Rechtsakte der Europ
 
 **Zusammenarbeit mit der Europäischen Kommission und den Behörden der Vertragsstaaten**
 
-<sup>1</sup> Sofern ein internationales Abkommen dies vorsieht, arbeiten die Swissmedic, die bezeichneten Stellen und die Wirtschaftsakteure mit der Europäischen Kommission und den Behörden der Vertragsstaaten zusammen.
+<sup>1</sup> Sofern ein internationales Abkommen dies vorsieht, arbeiten die Swissmedic, die bezeichneten Stellen und die Wirtschaftsakteure im Sinne von Artikel 47 HMG sowie die Anbieter von Dienstleistungen der Informationsgesellschaft mit der Europäischen Kommission und den Behörden der Vertragsstaaten zusammen.[^96-1]
 
 <sup>2</sup> Die Swissmedic kann Expertinnen und Experten ernennen, die für die Bewertung von Konformitätsbewertungsstellen auf dem Gebiet der Medizinprodukte qualifiziert sind.
 
 <sup>3</sup> Sie kann Expertinnen und Experten für die Teilnahme in Fachgruppen der Europäischen Kommission und der Behörden der Vertragsstaaten ernennen.
+
+[^96-1]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 97
 
@@ -1478,6 +1560,10 @@ Die Swissmedic informiert auf ihrer Internetseite über die Rechtsakte der Europ
 <sup>1</sup> Die Zollbehörden erteilen der Swissmedic Auskünfte über die Einfuhr, die Ausfuhr und die Durchfuhr von Produkten.
 
 <sup>2</sup> Die Swissmedic kann die Zollbehörden beauftragen, Produkte zur weiteren Abklärung anzuhalten und Probematerial zu beschaffen.
+
+<sup>3</sup> Sie kann den Zollbehörden Informationen über laufende oder abgeschlossene administrative oder strafrechtliche Verfolgungen und Sanktionen im Rahmen der Marktüberwachung mitteilen.[^97-1]
+
+[^97-1]: Eingefügt durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 98
 
@@ -1586,27 +1672,26 @@ Hat der Hersteller seinen Sitz in einem EU- oder EWR-Staat oder hat er eine Pers
 
 [^104a-1]: Eingefügt durch Ziff. I der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 
+#### Art. 104a<sup>bis</sup>
+
+**Anbringung der Angaben des Bevollmächtigten**[^104abis-1]
+
+Bei Produkten der Klasse I sowie bei Systemen und Behandlungseinheiten, welche gemäss neuem Recht in Verkehr gebracht werden, können die in Anhang I Kapitel III Abschnitt 23.2. Buchstabe d EU-MDR[^104abis-2] festgelegten Angaben zum Bevollmächtigten nach Artikel 51 Absatz 1 oder 5 dieser Verordnung bis zum 31. Juli 2023 auf einem dem Produkt beiliegenden Dokument angebracht werden.
+
+[^104abis-1]: Eingefügt durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^104abis-2]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
+
 #### Art. 104b
 
-**Registrierungen durch Wirtschaftsakteure**[^104b-1]
+[^104b-1]
 
-Wirtschaftsakteure, die Produkte bereits vor dem 26. Mai 2021 gemäss Artikel 22*a* der Medizinprodukteverordnung vom 17. Oktober 2001[^104b-2] in Verkehr gebracht haben, müssen die Registrierungen nach Artikel 55 Absätze 1 und 5 bis zum 26. November 2021 vornehmen.
-
-[^104b-1]: Eingefügt durch Ziff. I der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
-[^104b-2]: Siehe Fussnote zu Art. 99 Ziff. 1.
+[^104b-1]: Eingefügt durch Ziff. I der V vom 19. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)). Aufgehoben durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, mit Wirkung seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 105
 
-**In-vitro-Diagnostika**[^105-1]
+[^105-1]
 
-<sup>1</sup> Bis zum Erlass einer entsprechenden besonderen Verordnung gilt für In-vitro-Diagnostika die Medizinprodukteverordnung vom 17. Oktober 2001[^105-2]. Die Absätze 2 und 3 bleiben vorbehalten.
-
-<sup>2</sup> In-vitro-Diagnostika müssen den Namen und die Anschrift der Person, die das In-vitro-Diagnostikum erstmals in der Schweiz in Verkehr bringt, nicht auf der Kennzeichnung, der äusseren Verpackung oder der Gebrauchsanweisung aufweisen, wenn sie den Namen und die Anschrift der Person aufweisen, die das In-vitro-Diagnostikum erstmals in einem EU- oder EWR-Staat in Verkehr bringt.
-
-<sup>3</sup> Wurden In-vitro-Diagnostika gemäss Artikel 6 Absatz 2 der Medizinprodukteverordnung vom 17. Oktober 2001 bei der zuständigen Behörde eines EU- oder EWR-Staats gemeldet, ist keine zusätzliche Meldung bei der Swissmedic erforderlich.
-
-[^105-1]: Fassung gemäss Ziff. I der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
-[^105-2]: Siehe Fussnote zu Art. 99 Ziff. 1.
+[^105-1]: Aufgehoben durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, mit Wirkung seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 106
 
@@ -1624,9 +1709,10 @@ Solange die Swissmedic für Produkte ohne medizinische Zweckbestimmung nach Anha
 
 <sup>3</sup> Bezeichnungen von Konformitätsbewertungsstellen nach dem 4*a*. Abschnitt der Medizinprodukteverordnung vom 17. Oktober 2001 behalten ihre Gültigkeit
 
-<sup>4</sup> Bis zum Inkrafttreten einer besonderen Verordnung über In-vitro-Diagnostika werden die Konformitätsbewertungsstellen für diese Produkte weiterhin gemäss dem 4. und dem 4*a*. Abschnitt der Medizinprodukteverordnung vom 17. Oktober 2001 bezeichnet.
+<sup>4</sup> …[^107-2]
 
 [^107-1]: Siehe Fussnote zu Art. 99 Ziff. 1.
+[^107-2]: Aufgehoben durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, mit Wirkung seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 108
 
@@ -1639,7 +1725,7 @@ Bis zum Inkrafttreten von Artikel 17 Absatz 5 bleiben folgende Meldepflichten f�
 - a. für Hersteller sowie für Personen, die gemäss Artikel 22 Absätze 1 und 3 EU-MDR[^108-2] Systeme oder Behandlungseinheiten zusammenstellen: die Meldepflichten nach Artikel 6 Absätze 1 und 4 der Medizinprodukteverordnung vom 17. Oktober 2001[^108-3];
 - b. für Personen, die Medizinprodukte nach Artikel 2 Absatz 1 der Medizinprodukteverordnung vom 17. Oktober 2001 in Verkehr bringen: die Meldepflichten nach Artikel 6 Absätze 3 und 4 der Medizinprodukteverordnung vom 17. Oktober 2001.
 
-<sup>2</sup> ...[^108-4]
+<sup>2</sup> …[^108-4]
 
 [^108-1]: Fassung gemäss Ziff. I der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 [^108-2]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
@@ -1675,33 +1761,35 @@ Anhang 1
 - 5\. Für die Anwendung am menschlichen Körper bestimmte Geräte, die hochintensive elektromagnetische Strahlung, wie Infrarotstrahlung, sichtbares Licht, ultraviolette Strahlung, abgeben, kohärente und nichtkohärente Lichtquellen sowie monochromatisches Licht und Licht im Breitbandspektrum eingeschlossen, etwa Laser und mit intensiv gepulstem Licht arbeitende Geräte zum Abtragen der oberen Hautschichten („skin resurfacing“), zur Tattoo- oder Haarentfernung oder zu anderen Formen der Hautbehandlung.
 - 6\. Geräte zur transkraniellen Stimulation des Gehirns durch elektrischen Strom oder magnetische oder elektromagnetische Felder zur Änderung der neuronalen Aktivität im Gehirn.
 
-Anhang 2
+Anhang 2*[^t-1]*
 
 (Art. 5 Abs. 1)
 
 ## Entsprechungen von Ausdrücken
 
-Die nachstehenden Ausdrücke der EU-MDR**[^annex2-lvlu1-1]** und der vorliegenden Verordnung entsprechen sich wie folgt:
+[^t-1]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+
+Die nachstehenden Ausdrücke der EU-MDR[^annex2-lvlu1-1] und der vorliegenden Verordnung entsprechen sich wie folgt:
 
 <table>
 <tr><th>EU</th><th>Schweiz</th></tr>
-<tr><td>a. Deutsche Ausdrücke</td><td></td></tr>
+<tr><td>*a. Deutsche Ausdrücke*</td><td></td></tr>
 <tr><td>Union</td><td>Schweiz</td></tr>
 <tr><td>Mitgliedstaat</td><td>Schweiz</td></tr>
 <tr><td>Drittstaat / Drittland</td><td>anderer Staat</td></tr>
 <tr><td>Unionsmarkt</td><td>Schweizer Markt</td></tr>
-<tr><td>Rechtsvorschriften der Union / Harmonisierungsrechtssvorschriften der Union</td><td>Rechtsvorschriften</td></tr>
+<tr><td>Rechtsvorschriften der Union / Harmonisierungsrechtsvorschriften der Union</td><td>Rechtsvorschriften</td></tr>
 <tr><td>Harmonisierte Norm</td><td>Bezeichnete Norm</td></tr>
 <tr><td>Stand der Technik</td><td>Stand von Wissenschaft und Technik</td></tr>
 <tr><td>EU-Konformitätserklärung</td><td>Konformitätserklärung</td></tr>
 <tr><td>Amtsblatt der Europäischen Union</td><td>Bundesblatt</td></tr>
 <tr><td>Ausserhalb / In der Union ansässig</td><td>Sitz ausserhalb / in der Schweiz</td></tr>
 <tr><td>Behörde</td><td>Nach schweizerischem Recht zuständige Behörde</td></tr>
-<tr><td>Angehörige der Gesundheitsberufe</td><td>Fachpersonen</td></tr>
+<tr><td>Angehörige der Gesundheitsberufe</td><td>Gesundheitsfachpersonen</td></tr>
 <tr><td>Aussetzung</td><td>Suspendierung</td></tr>
 <tr><td>Zurückziehung</td><td>Widerruf</td></tr>
 <tr><td>Transplantate</td><td>Organe</td></tr>
-<tr><td>b. Französische Ausdrücke</td><td></td></tr>
+<tr><td>*b. Französische Ausdrücke*</td><td></td></tr>
 <tr><td>Union</td><td>Suisse</td></tr>
 <tr><td>État membre</td><td>Suisse</td></tr>
 <tr><td>État tiers / pays tiers</td><td>autre État</td></tr>
@@ -1710,7 +1798,6 @@ Die nachstehenden Ausdrücke der EU-MDR**[^annex2-lvlu1-1]** und der vorliegende
 <tr><td>norme harmonisée</td><td>norme désignée</td></tr>
 <tr><td>état de l’art</td><td>état de la science et de la technique</td></tr>
 <tr><td>déclaration de conformité UE</td><td>déclaration de conformité</td></tr>
-<tr><td>investigation clinique</td><td>essai clinique</td></tr>
 <tr><td>dispositif faisant l’objet d’une investigation</td><td>dispositif faisant l’objet d’un essai clinique</td></tr>
 <tr><td>Journal officiel de l’Union européenne</td><td>Feuille fédérale</td></tr>
 <tr><td>situé hors de l’Union / établi dans l’Union</td><td>sis à l’étranger / en Suisse</td></tr>
@@ -1718,9 +1805,9 @@ Die nachstehenden Ausdrücke der EU-MDR**[^annex2-lvlu1-1]** und der vorliegende
 <tr><td>conditionnement</td><td>emballage</td></tr>
 <tr><td>notification des incidents graves</td><td>déclaration des incidents graves</td></tr>
 <tr><td>autorités</td><td>autorités compétentes en vertu du droit suisse</td></tr>
-<tr><td>professionnels de la santé</td><td>professionnels</td></tr>
-<tr><td>retrait</td><td>révocation</td></tr>
-<tr><td>c. Italienische Ausdrücke</td><td></td></tr>
+<tr><td>retrait des certificats</td><td>révocation des certificats</td></tr>
+<tr><td>retrait de la désignation</td><td>révocation de la désignation</td></tr>
+<tr><td>*c. Italienische Ausdrücke*</td><td></td></tr>
 <tr><td>Unione</td><td>Svizzera</td></tr>
 <tr><td>Stato Membro</td><td>Svizzera</td></tr>
 <tr><td>paese terzo</td><td>altro Stato</td></tr>
@@ -1731,31 +1818,33 @@ Die nachstehenden Ausdrücke der EU-MDR**[^annex2-lvlu1-1]** und der vorliegende
 <tr><td>dichiarazione di conformità UE</td><td>dichiarazione di conformità</td></tr>
 <tr><td>marcatura CE di conformità</td><td>marchio di conformità</td></tr>
 <tr><td>Gazzetta ufficiale dell’Unione europea</td><td>Foglio federale</td></tr>
-<tr><td>avente sede fuori dall’Unione,/ stabilito nell’Unione</td><td>avente sede all’estero/ in Svizzera</td></tr>
+<tr><td>avente sede fuori dall’Unione, / stabilito nell’Unione</td><td>avente sede all’estero / in Svizzera</td></tr>
 <tr><td>autorità</td><td>autorità competente secondo il diritto svizzero</td></tr>
-<tr><td>operatori sanitari</td><td>specialisti</td></tr>
+<tr><td>operatori sanitari</td><td>professionisti della salute</td></tr>
 <tr><td>controllata</td><td>società controllata</td></tr>
-<tr><td>ritiro</td><td>revoca</td></tr>
+<tr><td>ritiro dei certificati</td><td>revoca dei certificati</td></tr>
+<tr><td>ritiro della designazione</td><td>revoca della designazione</td></tr>
 <tr><td>immissione sul mercato</td><td>immissione in commercio</td></tr>
 <tr><td>segnalazione di incidenti gravi</td><td>notifica di incidenti gravi</td></tr>
-<tr><td>indagini cliniche</td><td>sperimentazioni cliniche</td></tr>
 <tr><td>dispositivo oggetto di indagine</td><td>dispositivo oggetto di sperimentazione clinica</td></tr>
 <tr><td>confezionamento</td><td>imballaggio</td></tr>
 </table>
 
 [^annex2-lvlu1-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
 
-Anhang 3
+Anhang 3*[^t-2]*
 
 (Art. 5 Abs. 2)
 
 ## Anwendbares Recht
 
+[^t-2]: Bereinigt gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+
 ### 1 EU-Recht
 
 Wird in dieser Verordnung auf Bestimmungen der EU-MDR[^annex3-lvlu1-lvl1-1] verwiesen, die ihrerseits auf folgendes EU-Recht verweisen, so gilt die folgende Fassung:
 
-- 1\.1 Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1)
+- 1\.1 Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006, ABl. L 353 vom 31.12.2008, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2021/1962, ABl. L 400 vom 12.11.2021, S. 16.
 - 1\.2 Verordnung (EU) Nr. 207/2012 der Kommission vom 9. März 2012 über elektronische Gebrauchsanweisungen für Medizinprodukte (ABl. L 72 vom 10.3.2012, S. 28).
 - 1\.3 Verordnung (EU) Nr. 722/2012 der Kommission vom 8. August 2012 über besondere Anforderungen betreffend die in der Richtlinie 90/385/EWG bzw. 93/42/EWG des Rates festgelegten Anforderungen an unter Verwendung von Gewebe tierischen Ursprungs hergestellte aktive implantierbare medizinische Geräte und Medizinprodukte (ABl. L 212 vom 9.8.2012, S. 3).
 
@@ -1766,48 +1855,47 @@ Wird in dieser Verordnung auf Bestimmungen der EU-MDR[^annex3-lvlu1-lvl1-1] verw
 Wird in dieser Verordnung auf Bestimmungen der EU-MDR[^annex3-lvlu1-lvl2-1] verwiesen, die ihrerseits auf folgendes EU-Recht verweisen, so gilt statt dieses EU‑Rechts das folgende schweizerische Recht:
 
 <table>
-<tr><th colspan="2">EU-Recht</th><th>Schweizerisches Recht</th></tr>
-<tr><td>1. Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes, ABl. L 311 vom 28.1.2001, S. 67</td><td colspan="3">[tab] Heilmittelgesetz vom 15. Dezember 2000[^annex3-lvlu1-lvl2-2]</td></tr>
-<tr><td>2. Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung von Gemeinschaftsverfahren für die Genehmigung und Überwachung von Human- und Tierarzneimitteln und zur Errichtung einer Europäischen Arzneimittel- Agentur, ABl. L 136 vom 30.4.2004, S. 1</td><td colspan="3">[tab] Heilmittelgesetz vom 15. Dezember 2000</td></tr>
-<tr><td>3. Verordnung (EG) Nr. 1394/2007 des Europäischen Parlaments und des Rates vom 13. November 2007 über Arzneimittel für neuartige Therapien und zur Änderung der Richtlinie 2001/83/EG und der Verordnung (EG) Nr. 726/2004, ABl. L 324 vom 10.12.2007, S. 121</td><td colspan="3">[tab] Heilmittelgesetz vom 15. Dezember 2000</td></tr>
-<tr><td>4. Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates vom 5. April 2017 über In-vitro-Diagnostika und zur Aufhebung der Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der Kommission, ABl. L 117 vom 5.5.2017, S. 176</td><td colspan="3">[tab] Heilmittelgesetz vom 15. Dezember 2000</td></tr>
-<tr><td>5. Richtlinie 85/374/EWG des Rates vom 25. Juli 1985 zur Angleichung der Rechts-und Verwaltungsvorschriften der Mitgliedstaaten über die Haftung für fehlerhafte Produkte, ABl. L 210 vom 7.8.1985, S. 29</td><td colspan="3">[tab] Produktehaftpflichtgesetz vom 18. Juni 1993[^annex3-lvlu1-lvl2-3]</td></tr>
-<tr><td>6. Richtlinie 2014/30/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die elektromagnetische Verträglichkeit, ABl. L 96 vom 29.3.2014, S. 79</td><td colspan="3">[tab] Verordnung vom 25. November 2015[^annex3-lvlu1-lvl2-4] über die elektromagnetische Verträglichkeit</td></tr>
-<tr><td>7. Richtlinie 2006/42/EG des Europäischen Parlaments und des Rates vom 17. Mai 2006 über Maschinen und zur Änderung der Richtlinie 95/16/EG, ABl. L 157 vom 9.6.2006, S. 24</td><td colspan="3">[tab] Maschinenverordnung vom 2. April 2008[^annex3-lvlu1-lvl2-5]</td></tr>
-<tr><td>8. Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel, ABl. L 324 vom 22.12.2009, S. 59</td><td colspan="3">[tab] Verordnung des EDI vom 16. Dezember 2016[^annex3-lvlu1-lvl2-6] über kosmetische Mittel</td></tr>
-<tr><td>9. Richtlinie 2004/23/EG des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung von Qualitäts- und Sicherheitsstandards für die Spende, Beschaffung, Testung, Verarbeitung, Konservierung, Lagerung und Verteilung von menschlichen Geweben und Zellen, ABl. L 102 vom 7.4.2004, S. 48</td><td colspan="3">[tab] Heilmittelgesetz vom 15. Dezember 2000 und Transplantationsgesetz vom 8. Oktober 2004[^annex3-lvlu1-lvl2-7]</td></tr>
-<tr><td>10. Richtlinie 2002/98/EG des Europäischen Parlaments und des Rates vom 27. Januar 2003 zur Festlegung von Qualitäts- und Sicherheitsstandards für die Gewinnung, Testung, Verarbeitung, Lagerung und Verteilung von menschlichem Blut und Blutbestandteilen zur Änderung der Richtlinie 2001/83/EG, ABl. L 33 vom 8.2.2003, S. 30</td><td colspan="3">[tab] Heilmittelgesetz vom 15. Dezember 2000 und Transplantationsgesetz vom 8. Oktober 2004</td></tr>
-<tr><td>11. Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen der Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit, ABl. L 31 vom 1.2.2002, S. 1</td><td colspan="3">[tab] Lebensmittelgesetz vom 20. Juni 2014[^annex3-lvlu1-lvl2-8]</td></tr>
-<tr><td>12. Verordnung (EU) Nr. 1025/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur europäischen Normung, zur Änderung der Richtlinien 89/686/EWG und 93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG des Europäischen Parlaments und des Rates und zur Aufhebung des Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG des Europäischen Parlaments und des Rates, ABl. L 316 vom 14.11.2012, S. 12</td><td colspan="3">[tab] Heilmittelgesetz vom 15. Dezember 2000 und Bundesgesetz vom 6. Oktober 1995[^annex3-lvlu1-lvl2-9] über die technischen Handelshemmnisse</td></tr>
-<tr><td>13. Verordnung (EG) Nr. 45/2001 des Europäischen Parlaments und des Rates vom 18. Dezember 2000 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener durch die Organe und Einrichtungen der Gemeinschaft und zum freien Datenverkehr, ABl. L 8 vom 12.1.2001, S. 1</td><td colspan="3">[tab] Bundesgesetz vom 19. Juni 1992[^annex3-lvlu1-lvl2-10] über den Datenschutz</td></tr>
-<tr><td>14. Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates, ABl. L 218 vom 13.8.2008, S. 30</td><td colspan="3">[tab] Bundesgesetz vom 6. Oktober 1995 über die technischen Handelshemm- nisse und Produktesicherheitsgesetz vom 12. Juni 2009[^annex3-lvlu1-lvl2-11]</td></tr>
-<tr><td>15. Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1</td><td colspan="3">[tab] Chemikaliengesetz vom 15. Dezember 2000[^annex3-lvlu1-lvl2-12]</td></tr>
-<tr><td>16. Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten, ABl. L 167 vom 27.6.2012, S. 1</td><td colspan="3">[tab] Biozidprodukteverordnung vom 18. Mai 2005[^annex3-lvlu1-lvl2-13]</td></tr>
-<tr><td>17. Richtlinie 80/181/EWG des Rates vom 20. Dezember 1979 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Einheiten im Messwesen und zur Aufhebung der Richtlinie 71/354/EWG, ABl. L 39 vom 15.2.1980, S. 40</td><td colspan="3">[tab] Messgesetz vom 17. Juni 2011[^annex3-lvlu1-lvl2-14]</td></tr>
-<tr><td>18. Richtlinie 2013/59/Euratom des Rates vom 5. Dezember 2013 zur Festlegung grundlegender Sicherheitsnormen für den Schutz vor den Gefahren einer Exposition gegenüber ionisierender Strahlung und zur Aufhebung der Richtlinien 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom und 2003/122/Euratom, ABl. L 13 vom 17.1.2014, S. 1</td><td colspan="3">[tab] Strahlenschutzgesetz vom 22. März 1991[^annex3-lvlu1-lvl2-15]</td></tr>
-<tr><td>19. Richtlinie 2004/10/EG des Europäischen Parlaments und des Rates vom 11. Februar 2004 zur Angleichung der Rechts- und Verwaltungsvorschriften für die Anwendung der Grundsätze der Guten Laborpraxis und zur Kontrolle ihrer Anwendung bei Versuchen mit chemischen Stoffen, ABl. L 50 vom 20.2.2004, S. 44</td><td colspan="3">[tab] Verordnung vom 18. Mai 2005[^annex3-lvlu1-lvl2-16] über die Gute Laborpraxis</td></tr>
-<tr><td>20. Richtlinie 90/385/EWG des Rates vom 20. Juni 1990 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über aktive implantierbare medizinische Geräte, ABl. L 189 vom 20.7.1990, S. 17.</td><td colspan="3">[tab] Medizinprodukteverordnung vom 17. Oktober 2001</td></tr>
-<tr><td>21. Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 über Medizinprodukte, ABl. L 169 vom 12.7.1993, S. 1.</td><td colspan="3">[tab] Medizinprodukteverordnung vom 17. Oktober 2001</td></tr>
+<tr><th>EU-Recht</th><th>Schweizerisches Recht</th></tr>
+<tr><td>1. Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Humanarzneimittel, ABl. L 311 vom 28.11.2001, S. 67</td><td colspan="2">[tab] Heilmittelgesetz vom 15. Dezember 2000</td></tr>
+<tr><td>2. Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung von Gemeinschaftsverfahren für die Genehmigung und Überwachung von Human- und Tierarzneimitteln und zur Errichtung einer Europäischen Arzneimittel- Agentur, ABl. L 136 vom 30.4.2004, S. 1</td><td colspan="2">[tab] Heilmittelgesetz vom 15. Dezember 2000</td></tr>
+<tr><td>3. Verordnung (EG) Nr. 1394/2007 des Europäischen Parlaments und des Rates vom 13. November 2007 über Arzneimittel für neuartige Therapien und zur Änderung der Richtlinie 2001/83/EG und der Verordnung (EG) Nr. 726/2004, ABl. L 324 vom 10.12.2007, S. 121</td><td colspan="2">[tab] Heilmittelgesetz vom 15. Dezember 2000</td></tr>
+<tr><td>4. Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates vom 5. April 2017 über In-vitro-Diagnostika und zur Aufhebung der Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der Kommission, ABl. L 117 vom 5.5.2017, S. 176</td><td colspan="2">[tab] Heilmittelgesetz vom 15. Dezember 2000</td></tr>
+<tr><td>5. Richtlinie 85/374/EWG des Rates vom 25. Juli 1985 zur Angleichung der Rechts-und Verwaltungsvorschriften der Mitgliedstaaten über die Haftung für fehlerhafte Produkte, ABl. L 210 vom 7.8.1985, S. 29</td><td colspan="2">[tab] Produktehaftpflichtgesetz vom 18. Juni 1993[^annex3-lvlu1-lvl2-2]</td></tr>
+<tr><td>6. Richtlinie 2014/30/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die elektromagnetische Verträglichkeit, ABl. L 96 vom 29.3.2014, S. 79</td><td colspan="2">[tab] Verordnung vom 25. November 2015[^annex3-lvlu1-lvl2-3] über die elektromagnetische Verträglichkeit</td></tr>
+<tr><td>7. Richtlinie 2006/42/EG des Europäischen Parlaments und des Rates vom 17. Mai 2006 über Maschinen und zur Änderung der Richtlinie 95/16/EG, ABl. L 157 vom 9.6.2006, S. 24</td><td colspan="2">[tab] Maschinenverordnung vom 2. April 2008[^annex3-lvlu1-lvl2-4]</td></tr>
+<tr><td>8. Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel, ABl. L 324 vom 22.12.2009, S. 59</td><td colspan="2">[tab] Verordnung des EDI vom 16. Dezember 2016[^annex3-lvlu1-lvl2-5] über kosmetische Mittel</td></tr>
+<tr><td>9. Richtlinie 2004/23/EG des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung von Qualitäts- und Sicherheitsstandards für die Spende, Beschaffung, Testung, Verarbeitung, Konservierung, Lagerung und Verteilung von menschlichen Geweben und Zellen, ABl. L 102 vom 7.4.2004, S. 48</td><td colspan="2">[tab] Heilmittelgesetz vom 15. Dezember 2000 und Transplantationsgesetz vom 8. Oktober 2004[^annex3-lvlu1-lvl2-6]</td></tr>
+<tr><td>10. Richtlinie 2002/98/EG des Europäischen Parlaments und des Rates vom 27. Januar 2003 zur Festlegung von Qualitäts- und Sicherheitsstandards für die Gewinnung, Testung, Verarbeitung, Lagerung und Verteilung von menschlichem Blut und Blutbestandteilen zur Änderung der Richtlinie 2001/83/EG, ABl. L 33 vom 8.2.2003, S. 30</td><td colspan="2">[tab] Heilmittelgesetz vom 15. Dezember 2000 und Transplantationsgesetz vom 8. Oktober 2004</td></tr>
+<tr><td>11. Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen der Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit, ABl. L 31 vom 1.2.2002, S. 1</td><td colspan="2">[tab] Lebensmittelgesetz vom 20. Juni 2014[^annex3-lvlu1-lvl2-7]</td></tr>
+<tr><td>12. Verordnung (EU) Nr. 1025/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur europäischen Normung, zur Änderung der Richtlinien 89/686/EWG und 93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG des Europäischen Parlaments und des Rates und zur Aufhebung des Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG des Europäischen Parlaments und des Rates, ABl. L 316 vom 14.11.2012, S. 12</td><td colspan="2">[tab] Heilmittelgesetz vom 15. Dezember 2000 und Bundesgesetz vom 6. Oktober 1995[^annex3-lvlu1-lvl2-8] über die technischen Handelshemmnisse</td></tr>
+<tr><td>13. Verordnung (EG) Nr. 45/2001 des Europäischen Parlaments und des Rates vom 18. Dezember 2000 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die Organe und Einrichtungen der Gemeinschaft und zum freien Datenverkehr, ABl. L 8 vom 12.1.2001, S. 1</td><td colspan="2">[tab] Bundesgesetz vom 19. Juni 1992[^annex3-lvlu1-lvl2-9] über den Datenschutz</td></tr>
+<tr><td>14. Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates, ABl. L 218 vom 13.8.2008, S. 30</td><td colspan="2">[tab] Bundesgesetz vom 6. Oktober 1995 über die technischen Handelshemmnisse und Bundesgesetz vom 12. Juni 2009[^annex3-lvlu1-lvl2-10] über die Produktesicherheit</td></tr>
+<tr><td>15. Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1</td><td colspan="2">[tab] Chemikaliengesetz vom 15. Dezember 2000[^annex3-lvlu1-lvl2-11]</td></tr>
+<tr><td>16. Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten, ABl. L 167 vom 27.6.2012, S. 1</td><td colspan="2">[tab] Biozidprodukteverordnung vom 18. Mai 2005[^annex3-lvlu1-lvl2-12]</td></tr>
+<tr><td>17. Richtlinie 80/181/EWG des Rates vom 20. Dezember 1979 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Einheiten im Messwesen und zur Aufhebung der Richtlinie 71/354/EWG, ABl. L 39 vom 15.2.1980, S. 40</td><td colspan="2">[tab] Messgesetz vom 17. Juni 2011[^annex3-lvlu1-lvl2-13]</td></tr>
+<tr><td>18. Richtlinie 2013/59/Euratom des Rates vom 5. Dezember 2013 zur Festlegung grundlegender Sicherheitsnormen für den Schutz vor den Gefahren einer Exposition gegenüber ionisierender Strahlung und zur Aufhebung der Richtlinien 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom und 2003/122/Euratom, ABl. L 13 vom 17.1.2014, S. 1</td><td colspan="2">[tab] Strahlenschutzgesetz vom 22. März 1991[^annex3-lvlu1-lvl2-14]</td></tr>
+<tr><td>19. Richtlinie 2004/10/EG des Europäischen Parlaments und des Rates vom 11. Februar 2004 zur Angleichung der Rechts- und Verwaltungsvorschriften für die Anwendung der Grundsätze der Guten Laborpraxis und zur Kontrolle ihrer Anwendung bei Versuchen mit chemischen Stoffen, ABl. L 50 vom 20.2.2004, S. 44</td><td colspan="2">[tab] Verordnung vom 18. Mai 2005[^annex3-lvlu1-lvl2-15] über die Gute Laborpraxis</td></tr>
+<tr><td>20. Richtlinie 90/385/EWG des Rates vom 20. Juni 1990 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über aktive implantierbare medizinische Geräte, ABl. L 189 vom 20.7.1990, S. 17.</td><td colspan="2">[tab] Medizinprodukteverordnung vom 17. Oktober 2001</td></tr>
+<tr><td>21. Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 über Medizinprodukte, ABl. L 169 vom 12.7.1993, S. 1.</td><td colspan="2">[tab] Medizinprodukteverordnung vom 17. Oktober 2001</td></tr>
 </table>
 
 [^annex3-lvlu1-lvl2-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
-[^annex3-lvlu1-lvl2-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^annex3-lvlu1-lvl2-3]: [SR 221.112.944](https://fedlex.data.admin.ch/eli/cc/1993/3122_3122_3122)
-[^annex3-lvlu1-lvl2-4]: [SR 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
-[^annex3-lvlu1-lvl2-5]: [SR 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
-[^annex3-lvlu1-lvl2-6]: [SR 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
-[^annex3-lvlu1-lvl2-7]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
-[^annex3-lvlu1-lvl2-8]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^annex3-lvlu1-lvl2-9]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^annex3-lvlu1-lvl2-10]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^annex3-lvlu1-lvl2-11]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^annex3-lvlu1-lvl2-12]: [SR 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^annex3-lvlu1-lvl2-13]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^annex3-lvlu1-lvl2-14]: [SR 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^annex3-lvlu1-lvl2-15]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^annex3-lvlu1-lvl2-16]: [SR 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
+[^annex3-lvlu1-lvl2-2]: [SR 221.112.944](https://fedlex.data.admin.ch/eli/cc/1993/3122_3122_3122)
+[^annex3-lvlu1-lvl2-3]: [SR 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+[^annex3-lvlu1-lvl2-4]: [SR 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
+[^annex3-lvlu1-lvl2-5]: [SR 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
+[^annex3-lvlu1-lvl2-6]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^annex3-lvlu1-lvl2-7]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^annex3-lvlu1-lvl2-8]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^annex3-lvlu1-lvl2-9]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^annex3-lvlu1-lvl2-10]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^annex3-lvlu1-lvl2-11]: [SR 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
+[^annex3-lvlu1-lvl2-12]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^annex3-lvlu1-lvl2-13]: [SR 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
+[^annex3-lvlu1-lvl2-14]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^annex3-lvlu1-lvl2-15]: [SR 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
 
-Anhang 4*[^t-1]*
+Anhang 4*[^t-3]*
 
 (Art. 4 Abs. 2, 17 Abs. 4, 19 Abs. 1 Bst. c, 20 Abs. 1, 23, 25 Abs. 3, 29 Abs. 2, 45 Abs. 2, 46 Abs. 3, 47 Abs. 1 und 98 Abs. 2 Bst. b)
 
@@ -1815,7 +1903,7 @@ Anhang 4*[^t-1]*
 
 [^annex4-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss Berichtigung vom 4. Mai 2021 ([AS 2021 260](https://fedlex.data.admin.ch/eli/oc/2021/260)).
+[^t-3]: Bereinigt gemäss Berichtigung vom 4. Mai 2021 ([AS 2021 260](https://fedlex.data.admin.ch/eli/oc/2021/260)).
 [^annex4-lvlu1-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
 
 Bei der Anwendung dieser Verordnung gelten die gestützt auf die unten aufgeführten Bestimmungen der EU-MDR erlassenen Rechtsakte unmittelbar in der Schweiz, in der jeweiligen für die EU-Mitgliedstaaten verbindlichen Fassung:
@@ -1843,21 +1931,23 @@ Anhang 5
 
 Für die Angabe des Konformitätskennzeichens gilt folgende Darstellung:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20210526/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20220526/de/xml/image/image1.png)
 
 Sofern eine bezeichnete Stelle beigezogen werden muss, ist neben ihrem Konformitätskennzeichen auch ihre Kennnummer anzugeben.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20210526/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20220526/de/xml/image/image2.png)
 
-Anhang 6
+Anhang 6*[^t-4]*
 
 (Art. 70 Abs. 2 und 3)
 
-## Produktegruppen, die zur Anwendung durch Fachpersonen bestimmt sind, sowie fachliche und betriebliche Voraussetzungen zu deren Anwendung
+## Produktegruppen, die zur Anwendung durch Gesundheitsfachpersonen bestimmt sind, sowie fachliche und betriebliche Voraussetzungen zu deren Anwendung
+
+[^t-4]: Bereinigt gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 ### 1. Produktegruppen
 
-Produkte zur Injektion, die dazu bestimmt sind, länger als 30 Tage im Körper des Menschen zu verbleiben (langzeitverbleibende Produkte), dürfen ausschliesslich durch einen Arzt oder eine Ärztin oder durch eine gemäss Ziffer 2 ausgebildete Fachperson unter direkter Kontrolle und Verantwortung eines Arztes oder einer Ärztin angewendet werden.
+Produkte zur Injektion, die dazu bestimmt sind, länger als 30 Tage im Körper des Menschen zu verbleiben (langzeitverbleibende Produkte), dürfen ausschliesslich durch einen Arzt oder eine Ärztin oder durch eine gemäss Ziffer 2 ausgebildete Gesundheitsfachperson unter direkter Kontrolle und Verantwortung eines Arztes oder einer Ärztin angewendet werden.
 
 ### 2. Fachliche Voraussetzungen
 
