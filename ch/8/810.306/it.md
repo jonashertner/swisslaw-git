@@ -4,11 +4,11 @@ title: Ordinanza del 1° luglio 2020 sulle sperimentazioni cliniche con disposit
 short: OSRUm-Dmed
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/553"
 language: it
-version: 2021-05-26
+version: 2022-05-26
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20210526/it/xml/fedlex-data-admin-ch-eli-cc-2020-553-20210526-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20210526/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20220526/it/xml/fedlex-data-admin-ch-eli-cc-2020-553-20220526-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20220526/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20210526/it"
 
 (OSRUm-Dmed)
 
-del 1° luglio 2020 (Stato 26 maggio 2021)
+del 1° luglio 2020 (Stato 26 maggio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -40,7 +40,13 @@ ordina:
 
 La presente ordinanza disciplina:
 
-- a. i requisiti posti allo svolgimento di sperimentazioni cliniche con dispositivi medici e altri dispositivi di cui all’articolo 1 dell’ordinanza del 1° luglio 2020[^1-1] relativa ai dispositivi medici (ODmed);
+- a.[^1-1]
+
+  i requisiti posti allo svolgimento di sperimentazioni cliniche:
+
+  - 1\. con dispositivi medici e altri dispositivi di cui all’articolo 1 dell’ordinanza del 1° luglio 2020[^1-2] relativa ai dispositivi medici (ODmed),
+  - 2\. con dispositivi medico-diagnostici in vitro e loro accessori di cui all’articolo 1 capoverso 1 dell’ordinanza del 4 maggio 2022[^1-3] relativa ai dispositivi medico-diagnostici in vitro (ODIV);
+
 - b. le procedure di autorizzazione e di notifica per le sperimentazioni cliniche con i dispositivi di cui alla lettera a;
 - c. i compiti e le competenze delle commissioni d’etica per la ricerca (commissioni d’etica), dell’Istituto svizzero per gli agenti terapeutici (Swissmedic) e dell’Ufficio federale della sanità pubblica (UFSP) in relazione alle procedure di autorizzazione e di notifica;
 - d. la registrazione delle sperimentazioni cliniche con i dispositivi di cui alla lettera a;
@@ -48,7 +54,9 @@ La presente ordinanza disciplina:
 
 <sup>2</sup> Nella presente ordinanza per *dispositivi* si intendono tutti i dispositivi di cui al capoverso 1 lettera a.
 
-[^1-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^1-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^1-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^1-3]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
 
 #### Art. 2
 
@@ -56,11 +64,48 @@ La presente ordinanza disciplina:
 
 Ai sensi della presente ordinanza si intende per:
 
-- a. *sperimentazione clinica:* indagine sistematica di un dispositivo condotta su una o più persone per valutare la sicurezza o la prestazione del dispositivo;
+- a.[^2-1] *sperimentazione clinica:* indagine clinica e studio delle prestazioni;
+- a<sup>bis</sup>.[^2-2] *indagine clinica:* indagine sistematica condotta su una o più persone per valutare la sicurezza o la prestazione di un dispositivo secondo l’ODmed[^2-3];
+- a<sup>ter</sup>.[^2-4]
+
+  *studio delle prestazioni:* studio destinato a stabilire o confermare la prestazione analitica o clinica di un dispositivo secondo l’ODIV[^2-5] e in cui i risultati dei test:
+
+  - 1\. potrebbero influenzare le decisioni in materia di gestione del paziente o di trattamento (*studio interventistico delle prestazioni*),
+  - 2\. non sono suscettibili di influenzare le decisioni in materia di gestione del paziente o di trattamento (*studio non interventistico delle prestazioni*);
+
 - b. *sperimentazione clinica riguardante la conformità:* sperimentazione clinica svolta al fine di comprovare la conformità del dispositivo esaminato;
 - c. *Stato contraente:* Stato vincolato al reciproco riconoscimento di valutazioni e procedure di conformità per dispositivi da una convenzione di diritto internazionale con la Svizzera basata sull’equivalenza delle legislazioni;
 - d. *promotore:* persona o istituzione che assume la responsabilità dell’organizzazione di una sperimentazione clinica, segnatamente dell’avvio, della gestione e del finanziamento della stessa in Svizzera;
 - e. *sperimentatore:* persona responsabile sul posto dello svolgimento pratico di una sperimentazione clinica in Svizzera, nonché della protezione delle persone partecipanti; lo sperimentatore che assume la responsabilità di organizzare in Svizzera una sperimentazione clinica ne è allo stesso tempo il promotore.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^2-2]: Introdotta dal n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^2-3]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^2-4]: Introdotta dal n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^2-5]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
+
+#### Art. 2a
+
+**Deroghe al campo d’applicazione**[^2a-1]
+
+<sup>1</sup>
+
+Lo svolgimento di studi non interventistici delle prestazioni è retto dal capitolo 2 dell’ordinanza del 20 settembre 2013[^2a-2] sulla ricerca umana (ORUm) se:
+
+- a. è prelevato materiale biologico dalle persone interessate, ma senza praticare interventi chirurgici invasivi; e
+- b. rispetto alla procedura applicata nelle normali condizioni d’uso del dispositivo in esame, le persone interessate non sono sottoposte a procedure supplementari invasive o gravose.
+
+<sup>2</sup> Lo svolgimento di studi non interventistici delle prestazioni in cui sono riutilizzati esclusivamente materiale biologico già disponibile o dati sanitari personali già raccolti è retto dal capitolo 3 ORUm.
+
+<sup>3</sup> Lo svolgimento di studi non interventistici delle prestazioni in cui sono riutilizzati esclusivamente materiale biologico anonimizzato già disponibile o dati sanitari anonimizzati già raccolti è retto dagli articoli 3 e 4 dell’ordinanza del 20 settembre 2013[^2a-3] sulle sperimentazioni cliniche (OSRUm), l’articolo 25 ORUm e l’articolo 57 del regolamento (UE) 2017/746[^2a-4] (UE-IVDR).
+
+<sup>4</sup> Lo svolgimento di sperimentazioni cliniche con prodotti secondo l’articolo 2*a* capoverso 2 LATer o combinazioni secondo l’articolo 2 capoverso 1 lettere f, g e j ODmed[^2a-5] è retto dall’OSRUm.
+
+[^2a-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^2a-2]: [RS 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
+[^2a-3]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^2a-4]: Regolamento (UE) 2017/746 del Parlamento europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medico-diagnostici *in vitro* e che abroga la direttiva 98/79/CE e la decisione 2010/227/UE della Commissione, GU L 117 del 5.5.2017, pag. 176, modificato da ultimo dal regolamento (UE) 2022/112, GU L 19 del 28.1.2022, pag. 3.
+[^2a-5]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 #### Art. 3
 
@@ -77,13 +122,15 @@ Alle sperimentazioni cliniche con dispositivi sono applicabili le seguenti dispo
 - e. la conservazione dei dati sanitari personali e del materiale biologico: articolo 18 OSRUm;
 - f. le ispezioni e le misure amministrative: articolo 46 capoversi 1, 2, 4 e 5 nonché articoli 47 e 48 OSRUm.
 
-<sup>2</sup> I poteri di Swissmedic e gli obblighi di collaborazione e di informazione del promotore e dello sperimentatore in caso di ispezioni e misure amministrative sono retti per analogia dagli articoli 77 e 78 ODmed[^3-2].
+<sup>2</sup> I poteri di Swissmedic e gli obblighi di collaborazione e di informazione del promotore e dello sperimentatore in caso di ispezioni e misure amministrative sono retti dagli articoli 77 e 78 ODmed[^3-2] o dagli articoli 70 e 71 ODIV[^3-3].[^3-4]
 
-<sup>3</sup> Alle sperimentazioni cliniche con dispositivi medico-diagnostici in vitro, dispositivi ai sensi dell’articolo 2*a* capoverso 2 LATer o combinazioni ai sensi dell’articolo 2 capoverso 1 lettere f e g ODmed si applica l’OSRUm.[^3-3]
+<sup>3</sup> ....[^3-5]
 
 [^3-1]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 [^3-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^3-3]: Nuovo testo giusta l’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^3-3]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
+[^3-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^3-5]: Abrogato dal n. I dell’O del 4 mag. 2022, con effetto dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 ### Sezione 2: Obblighi generali del promotore e dello sperimentatore e qualifica professionale
 
@@ -91,15 +138,23 @@ Alle sperimentazioni cliniche con dispositivi sono applicabili le seguenti dispo
 
 **Obblighi generali del promotore e dello sperimentatore**
 
-<sup>1</sup> Il promotore e lo sperimentatore devono svolgere le sperimentazioni cliniche conformemente ai requisiti di cui all’articolo 72 e all’allegato XV capi I e III del regolamento (UE) 2017/745[^4-1] relativo ai dispositivi medici (UE-MDR).
+<sup>1</sup>
 
-<sup>2</sup> L’osservanza dei requisiti di cui al capoverso 1 concretizzati in norme tecniche designate[^4-2] o specifiche comuni ai sensi dell’articolo 9 paragrafo 1 UE-MDR è presunta quando la sperimentazione clinica viene effettuata conformemente a dette norme o specifiche. L’articolo 6 capoverso 5 ODmed[^4-3] è applicabile per analogia.
+Il promotore e lo sperimentatore devono adempiere i requisiti seguenti:
+
+- a. per le indagini cliniche: i requisiti di cui all’articolo 72 e all’allegato XV capi I e III del regolamento (UE) 2017/745[^4-1] (UE-MDR);
+- b. per gli studi delle prestazioni: i requisiti di cui all’articolo 68 e all’allegato XIII parte A UE-IVDR[^4-2].[^4-3]
+
+<sup>2</sup> L’osservanza dei requisiti di cui al capoverso 1 concretizzati in norme tecniche designate o specifiche comuni ai sensi dell’articolo 9 paragrafo 1 UE-MDR o dell’articolo 9 capoverso 1 UE-IVDR è presunta quando la sperimentazione clinica viene effettuata conformemente a dette norme o specifiche. L’articolo 6 capoverso 5 ODmed[^4-4] e l’articolo 6 capoverso 4 ODIV[^4-5] sono applicabili per analogia.[^4-6]
 
 <sup>3</sup> Se non ha né sede né domicilio in Svizzera, il promotore designa un rappresentante con sede o domicilio in Svizzera quale domicilio di recapito. Il rappresentante deve garantire il rispetto dei doveri del promotore.
 
-[^4-1]: Regolamento (UE) n. 2017/745 del Parlamento europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medici, che modifica la direttiva 2001/83/CE, il regolamento (CE) n. 178/2002 e il regolamento (CE) n. 1223/2009 e che abroga le direttive 90/385/CEE e 93/42/CEE del Consiglio, versione della GU L 117 del 5.5.2017, pag. 1, modificato da ultimo dal regolamento (UE) n. 2020/561, GU L 130 del 24.4.2020, pag. 18.
-[^4-2]: Queste norme elettrotecniche possono essere ottenute presso l’Associazione Electrosuisse, Luppmenstrasse 1, 8320 Fehraltorf, www.electrosuisse.ch; le altre norme possono essere ottenute presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch.
-[^4-3]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^4-1]: Regolamento (UE) 2017/745 del Parlamento europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medici, che modifica la direttiva 2001/83/CE, il regolamento (CE) n. 178/2002 e il regolamento (CE) n. 1223/2009 e che abroga le direttive 90/385/CEE e 93/42/CEE del Consiglio, versione della GU L 117 del 5.5.2017, pag. 1, modificato da ultimo dal regolamento (UE) 2020/561, GU L 130 del 24.4.2020, pag. 18.
+[^4-2]: Cfr. nota a piè di pagina relativa all’art. 2*a* cpv. 3.
+[^4-3]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^4-4]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^4-5]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
+[^4-6]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 5
 
@@ -121,32 +176,76 @@ Lo sperimentatore di una sperimentazione clinica deve:
 
 #### Art. 6
 
-**Classificazione delle sperimentazioni cliniche**
+**Classificazione delle indagini cliniche[^6-1]**
 
 <sup>1</sup>
 
-Le sperimentazioni cliniche rientrano nella categoria A se:
+Le indagini cliniche rientrano nella categoria A se:[^6-2]
 
-- a. il dispositivo in esame è provvisto di un marchio di conformità di cui all’articolo 13 ODmed[^6-1];
+- a. il dispositivo in esame è provvisto di un marchio di conformità di cui all’articolo 13 ODmed[^6-3];
 - b. il dispositivo in esame viene utilizzato conformemente alle istruzioni per l’uso; e
 - c. la messa a disposizione sul mercato, la messa in servizio o l’applicazione del dispositivo in esame non sono vietate in Svizzera.
 
 <sup>2</sup>
 
-Le sperimentazioni cliniche della categoria A rientrano nelle seguenti sottocategorie:
+Le indagini cliniche della categoria A rientrano nelle seguenti sottocategorie:
 
-- a. categoria A 1: se, rispetto alla procedura applicata nelle normali condizioni d’uso del dispositivo, le persone interessate non sono sottoposte a procedure supplementari invasive o gravose;
-- b. categoria A 2: se, rispetto alla procedura applicata nelle normali condizioni d’uso del dispositivo, le persone interessate sono sottoposte a procedure supplementari invasive o gravose.
+- a. se, rispetto alla procedura applicata nelle normali condizioni d’uso del dispositivo in esame, le persone interessate non sono sottoposte a procedure supplementari invasive o gravose: nella sottocategoria A1;
+- b. se, rispetto alla procedura applicata nelle normali condizioni d’uso del dispositivo in esame, le persone interessate sono sottoposte a procedure supplementari invasive o gravose: nella sottocategoria A2.[^6-4]
 
 <sup>3</sup>
 
-Le sperimentazioni cliniche rientrano nella categoria C se:
+Le indagini cliniche rientrano nella categoria C se:
 
-- a. il dispositivo è provvisto di un marchio di conformità di cui all’articolo 13 ODmed, ma non è utilizzato conformemente alle istruzioni per l’uso (sottocategoria C1);
-- b. il dispositivo non è provvisto di un marchio di conformità di cui all’articolo 13 ODmed (sottocategoria C2); oppure
+- a. il dispositivo in esame è provvisto di un marchio di conformità di cui all’articolo 13 ODmed, ma non è utilizzato conformemente alle istruzioni per l’uso (sottocategoria C1);
+- b. il dispositivo in esame non è provvisto di un marchio di conformità di cui all’articolo 13 ODmed (sottocategoria C2); oppure
+- c. la messa a disposizione sul mercato, la messa in servizio o l’applicazione del dispositivo in esame è proibita in Svizzera (sottocategoria C3).[^6-5]
+
+[^6-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^6-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^6-3]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^6-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^6-5]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+
+#### Art. 6a
+
+**Classificazione degli studi delle prestazioni**[^6a-1]
+
+<sup>1</sup>
+
+Gli studi delle prestazioni rientrano nella categoria A se:
+
+- a.
+
+  si tratta di uno studio interventistico delle prestazioni e sono soddisfatte le seguenti condizioni (sottocategoria A1):
+
+  - 1\. il dispositivo in esame è provvisto di un marchio di conformità di cui all’articolo 12 ODIV[^6a-2],
+  - 2\. il dispositivo in esame è utilizzato conformemente alle istruzioni per l’uso,
+  - 3\. la messa a disposizione sul mercato, la messa in servizio o l’applicazione del dispositivo in esame non è proibita in Svizzera,
+  - 4\. non è applicata nessuna delle procedure di cui alla lettera b numero 2;
+
+- b.
+
+  è soddisfatta una delle seguenti condizioni (sottocategoria A2):
+
+  - 1\. si tratta di uno studio non interventistico delle prestazioni non contemplato dall’articolo 2*a* capoversi 1–3,
+  - 2\.
+
+    si tratta di uno studio interventistico delle prestazioni di cui alla lettera a numeri 1–3 e:
+
+    - – sono applicate procedure chirurgiche invasive per prelevare materiale biologico sulle persone interessate esclusivamente ai fini dello studio delle prestazioni, oppure
+    - – rispetto alla procedura applicata nelle normali condizioni d’uso del dispositivo in esame le persone interessate sono sottoposte a procedure supplementari invasive o gravose.
+
+<sup>2</sup>
+
+Gli studi delle prestazioni rientrano nella categoria C se si tratta di uno studio interventistico delle prestazioni e:
+
+- a. il dispositivo in esame è provvisto di un marchio di conformità di cui all’articolo 12 ODIV, ma non è utilizzato conformemente alle istruzioni per l’uso (sottocategoria C1);
+- b. il dispositivo in esame non è provvisto di un marchio di conformità di cui all’articolo 12 ODIV (sottocategoria C2); oppure
 - c. la messa a disposizione sul mercato, la messa in servizio o l’applicazione del dispositivo è proibita in Svizzera (sottocategoria C3).
 
-[^6-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^6a-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^6a-2]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
 
 #### Art. 7
 
@@ -156,15 +255,34 @@ Le sperimentazioni cliniche della categoria A sono esonerate dall’obbligo di o
 
 #### Art. 8
 
-**Trattamento dei dati insistemi elettronici e scambio di informazioni**
+**Trattamento dei dati in sistemi elettronici e scambio di informazioni**[^8-1]
 
-<sup>1</sup> a <sup>5</sup> ...[^8-1]
+<sup>1</sup>
 
-<sup>6</sup> Il sistema di informazione per i dispositivi medici di cui all’articolo 62*c* LATer e il sistema d’informazione dei Cantoni di cui all’articolo 56*a* LRUm possono contenere informazioni su perseguimenti e sanzioni amministrativi o penali concernenti il promotore, lo sperimentatore o il fabbricante necessarie a Swissmedic e alla commissione d’etica competente per adempiere i loro compiti conformemente alla presente ordinanza.
+Per l’inserimento e la trasmissione di domande, notifiche, rapporti e altre informazioni secondo la presente ordinanza il promotore deve utilizzare i seguenti sistemi d’informazione:
 
-<sup>7</sup> Su richiesta Swissmedic inoltra alle commissioni d’etica i dati degni di particolare protezione di cui al capoverso 6.
+- a. il sistema d’informazione dei Cantoni di cui all’articolo 56*a* LRUm per i documenti e le informazioni destinati alla commissione d’etica competente;
+- b. il sistema d’informazione sui dispositivi medici di cui all’articolo 62*c* LATer per i documenti e le informazioni destinati a Swissmedic.
 
-[^8-1]: Non ancora in vigore ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)art. 50).
+<sup>2</sup>
+
+Per l’inserimento e la trasmissione di decisioni nonché per lo scambio di informazioni con i richiedenti:
+
+- a. Swissmedic deve utilizzare il sistema d’informazione sui dispositivi medici di cui all’articolo 62*c* LATer;
+- b. la commissione d’etica competente deve utilizzare il sistema d’informazione dei Cantoni di cui all’articolo 56*a* LRUm.
+
+<sup>3</sup>
+
+Il sistema d’informazione sui dispositivi medici di cui all’articolo 62*c* LATer e il sistema d’informazione dei Cantoni di cui all’articolo 56*a* LRUm possono contenere informazioni su perseguimenti e sanzioni amministrativi o penali che:
+
+- a. concernono il promotore, lo sperimentatore o un operatore economico secondo l’articolo 4 capoverso 1 lettera j ODmed[^8-2] o l’articolo 4 capoverso 1 lettera i ODIV[^8-3]; e
+- b. sono necessarie a Swissmedic e alla commissione d’etica competente per adempiere i loro compiti conformemente alla presente ordinanza.
+
+<sup>4</sup> Su richiesta Swissmedic inoltra alle commissioni d’etica i dati degni di particolare protezione di cui al capoverso 3
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^8-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^8-3]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
 
 #### Art. 9
 
@@ -172,9 +290,11 @@ Le sperimentazioni cliniche della categoria A sono esonerate dall’obbligo di o
 
 La commissione d’etica competente e Swissmedic si informano reciprocamente e coordinano le loro valutazioni per quanto riguarda:
 
-- a. la classificazione della sperimentazione clinica secondo le prescrizioni dell’articolo 6;
+- a.[^9-1] la classificazione delle sperimentazioni cliniche secondo le prescrizioni dell’articolo 6 o 6*a*;
 - b. aspetti che concernono gli ambiti di verifica di cui sia all’articolo 11 che all’articolo 17;
 - c. l’esecuzione di procedure di cui agli articoli 12 e 19 nonché al capitolo 3.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 ### Sezione 2: Procedura presso la commissione d’etica competente
 
@@ -258,7 +378,7 @@ La commissione d’etica rilascia l’autorizzazione se:
 
 <sup>1</sup> Tutte le modifiche a una sperimentazione clinica autorizzata che possono avere ripercussioni significative sulla sicurezza, la salute o i diritti dei partecipanti nonché sulla solidità o l’affidabilità dei dati clinici da ottenere (modifiche essenziali) devono essere previamente autorizzate dalla commissione d’etica. Tale obbligo non si applica alle misure che devono essere adottate senza indugio per la protezione delle persone partecipanti.
 
-<sup>2</sup> Il promotore presenta la documentazione di cui all’articolo 10 capoverso 1 interessata dalla modifica. Le modifiche devono essere chiaramente caratterizzate. Nel contempo il promotore informa la commissione d’etica sui motivi e sulla natura della modifica.
+<sup>2</sup> Il promotore presenta la documentazione di cui all’articolo 10 capoverso 1 interessata dalla modifica. Le modifiche devono essere chiaramente contrassegnate. Nel contempo il promotore informa la commissione d’etica sui motivi e sulla natura della modifica.[^15-1]
 
 <sup>3</sup> La commissione d’etica decide delle modifiche essenziali entro 30 giorni. L’articolo 12 si applica per analogia.
 
@@ -267,6 +387,8 @@ La commissione d’etica rilascia l’autorizzazione se:
 <sup>5</sup> Le altre modifiche devono essere notificate alla commissione d’etica con l’annuale rapporto sulla sicurezza di cui all’articolo 35.
 
 <sup>6</sup> Per le sperimentazioni cliniche della sottocategoria A2 il promotore informa anche gli Stati contraenti, in cui la sperimentazione clinica è o dev’essere svolta, sui motivi e sulla natura di tali modifiche; vi allega la documentazione di cui all’allegato 1 interessata dalla modifica.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 ### Sezione 3: Procedura di autorizzazione presso Swissmedic
 
@@ -295,14 +417,22 @@ Per le sperimentazioni cliniche Swissmedic verifica:
 
 Swissmedic esegue una verifica semplificata se il promotore comprova nella domanda che:
 
-- a. si tratta di una sperimentazione clinica della sottocategoria C1 o C2 con un dispositivo non invasivo classificato nelle classi I o IIa conformemente all’articolo 15 ODmed[^17-1];
+- a.[^17-1]
+
+  si tratta di:
+
+  - 1\. un’indagine clinica della sottocategoria C1 o C2 con un dispositivo non invasivo classificato nella classe I o IIa secondo l’articolo 15 ODmed[^17-2], oppure
+  - 2\. uno studio interventistico delle prestazioni della sottocategoria C1 o C2 con un dispositivo della classe A o B secondo l’articolo 14 ODIV[^17-3].
+
 - b. l’utilizzazione del dispositivo in esame comporta tutt’al più rischi minimi per le persone partecipanti;
 - c. lo sperimentatore ha concordato per scritto con il promotore di informarlo senza indugio di tutti gli eventi indesiderati gravi o di qualsiasi altro evento di cui all’articolo 32;
 - d. il promotore dispone di un sistema per gestire i rischi e per vigilare sulla sicurezza.
 
 <sup>3</sup> Nella verifica semplificata Swissmedic si limita a verificare se la domanda è completa e se le prove di cui al capoverso 2 sono state prodotte.
 
-[^17-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^17-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^17-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^17-3]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
 
 #### Art. 18
 
@@ -349,19 +479,19 @@ Swissmedic rilascia l’autorizzazione se:
 
 <sup>4</sup> Le altre modifiche che concernono i documenti presentati a Swissmedic gli devono essere notificate quanto prima.
 
-<sup>4bis</sup> Per le sperimentazioni cliniche delle sottocategorie C1 e C2 riguardanti la conformità che sono o devono essere svolte anche in Stati UE o SEE, il promotore notifica a Swissmedic i motivi e la natura delle modifiche essenziali della sperimentazione svolta in Stati UE o SEE concernenti il protocollo della sperimentazione, il dispositivo oggetto della sperimentazione o le istruzioni per l’uso del dispositivo oggetto della sperimentazione.[^20-1]
+<sup>4bis</sup> Per le sperimentazioni cliniche delle sottocategorie C1 e C2 riguardanti la conformità che sono o devono essere svolte anche in Stati dell’Unione europea (UE) o dello Spazio economico europeo (SEE), il promotore notifica a Swissmedic i motivi e la natura delle modifiche essenziali della sperimentazione svolta in Stati UE o SEE concernenti il protocollo della sperimentazione, il dispositivo in esame o le istruzioni per l’uso del dispositivo in esame.[^20-1]
 
 <sup>5</sup> Il promotore di una sperimentazione clinica delle sottocategorie C1 e C2 riguardante la conformità informa anche gli Stati contraenti, in cui la sperimentazione clinica è o dev’essere svolta, sui motivi e sulla natura di tali modifiche; allega i documenti di cui all’allegato 1 interessati dalle modifiche.
 
-[^20-1]: Introdotto dall’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^20-1]: Introdotto dall’all. n. 1 dell’O del 19 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)). Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
-## Capitolo 3: Procedura di valutazione coordinata
+## Capitolo 3: ...
 
 #### Art. 21 a 31
 
 [^2131-1]
 
-[^2131-1]: Non ancora in vigore (art. 50 cpv. 2).
+[^2131-1]: Privo di oggetto ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 ## Capitolo 4: Documentazione, notifiche e rapporto
 
@@ -382,38 +512,51 @@ Il promotore deve documentare in forma standardizzata i seguenti eventi indeside
 
 <sup>2</sup> Su loro richiesta, il promotore invia a Swissmedic e alla commissione d’etica competente la documentazione di cui al capoverso 1.
 
-<sup>3</sup> Le definizioni di eventi indesiderati e difetti di un dispositivo sono rette dall’articolo 2 punti 57–59 UE-MDR[^32-1].
+<sup>3</sup>
 
-[^32-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1.
+Le definizioni di eventi indesiderati e difetti di un dispositivo sono rette:
+
+- a. dall’articolo 2 punti 57–59 UE-MDR[^32-1] per i dispositivi ai sensi dell’ODmed[^32-2];
+- b. dall’articolo 2 punti 60–62 UE-IVDR[^32-3] per i dispositivi ai sensi dell’ODIV[^32-4].[^32-5]
+
+[^32-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. a.
+[^32-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^32-3]: Cfr. nota a piè di pagina relativa all’art. 2*a* cpv. 3.
+[^32-4]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
+[^32-5]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 33
 
-**Notifica di eventi indesiderati gravi[^33-1]**
+**Notifica di eventi indesiderati gravi**[^33-1]
 
 <sup>1</sup>
 
-Per le sperimentazioni cliniche della categoria C il promotore notifica senza indugio a Swissmedic e alla commissione d’etica competente:
+Per gli studi delle prestazioni della sottocategoria A2 nonché per le sperimentazioni cliniche della categoria C il promotore notifica senza indugio alla commissione d’etica competente:
 
-- a. ogni evento indesiderato grave per il quale esiste o appare senz’altro possibile un nesso di causalità con il dispositivo oggetto della sperimentazione, il comparatore o la procedura di sperimentazione;
-- b. ogni difetto di un dispositivo che avrebbe potuto causare eventi indesiderati gravi senza provvedimenti appropriati, senza un intervento oppure in condizioni meno favorevoli;
+- a. ogni evento indesiderato grave per il quale esiste o appare senz’altro possibile un nesso di causalità con il dispositivo in esame, il comparatore o la procedura d’esame;
+- b. ogni difetto del dispositivo che avrebbe potuto causare eventi indesiderati gravi senza provvedimenti appropriati, senza un intervento oppure in condizioni meno favorevoli;
 - c. tutte le nuove conoscenze relative a un evento già notificato di cui alle lettere a e b.
 
-<sup>1bis</sup> Per le sperimentazioni cliniche delle sottocategorie C1 e C2 riguardanti la conformità che sono svolte anche all’estero, il promotore notifica senza indugio a Swissmedic e alla commissione d’etica competente anche tutti gli eventi, i difetti e le conoscenze elencati nel capoverso 1 che emergono dallo svolgimento della sperimentazione clinica all’estero.[^33-2]
+<sup>2</sup> Per le sperimentazioni cliniche della categoria C le notifiche di cui al capoverso 1 devono essere presentate anche a Swissmedic.
 
-<sup>2</sup> Per garantire una notifica senza indugio, il promotore può presentare inizialmente una notifica incompleta.
+<sup>3</sup> Per le sperimentazioni cliniche delle sottocategorie C1 e C2 riguardanti la conformità che sono svolte anche all’estero, il promotore notifica senza indugio a Swissmedic e alla commissione d’etica competente anche tutti gli eventi, i difetti e le conoscenze elencati nel capoverso 1 che emergono dallo svolgimento della sperimentazione clinica all’estero.
 
-<sup>3</sup> Per le sperimentazioni cliniche delle sottocategorie C1 e C2 riguardanti la conformità, il promotore presenta le notifiche di cui al capoverso 1 anche agli Stati contraenti in cui la sperimentazione clinica è o dev’essere svolta.
+<sup>4</sup> Per garantire una notifica senza indugio, il promotore può presentare inizialmente una notifica incompleta.
 
-<sup>4</sup>
+<sup>5</sup>
 
-Per le sperimentazioni cliniche della categoria A il promotore notifica:
+Le notifiche di cui al capoverso 1 devono essere presentate anche agli Stati contraenti in cui la sperimentazione clinica è o dev’essere svolta:
 
-- a. alla commissione d’etica competente: senza indugio qualsiasi evento indesiderato grave se è stato stabilito un nesso di causalità tra l’evento e la procedura d’esame utilizzata nella sperimentazione clinica; è applicabile il capoverso 2;
-- b. a Swissmedic e alla commissione d’etica competente: le notifiche di cui agli articoli 87–90 UE-MDR[^33-3].
+- a. per gli studi delle prestazioni della sottocategoria A2 riguardanti la conformità;
+- b. per le sperimentazioni cliniche delle sottocategorie C1 e C2 riguardanti la conformità.
 
-[^33-1]: Nuovo testo giusta l’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
-[^33-2]: Introdotto dall’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
-[^33-3]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1.
+<sup>6</sup> Per le indagini cliniche della categoria A e gli studi delle prestazioni della sottocategoria A1 il promotore è responsabile che sia notificato senza indugio alla commissione d’etica competente qualsiasi evento indesiderato grave se è stato stabilito un nesso di causalità tra l’evento e la procedura d’esame utilizzata nella sperimentazione clinica. È applicabile il capoverso 2.
+
+<sup>7</sup> Per le sperimentazioni cliniche della categoria A il promotore è responsabile che siano notificati a Swissmedic gli eventi indesiderati gravi in applicazione dell’articolo 66 ODmed[^33-2] oppure dell’articolo 59 ODIV[^33-3].
+
+[^33-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^33-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^33-3]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
 
 #### Art. 34
 
@@ -427,10 +570,11 @@ Per le sperimentazioni cliniche della categoria A il promotore notifica:
 
 <sup>3</sup> Per le sperimentazioni cliniche della categoria C, la notifica di cui ai capoversi 1 e 1<sup>bis</sup> deve essere presentata anche a Swissmedic.[^34-2]
 
-<sup>4</sup> Per le sperimentazioni cliniche delle sottocategorie C1 e C2 riguardanti la conformità il promotore presenta le notifiche di cui al capoverso 1 anche agli Stati contraenti in cui la sperimentazione clinica è o dev’essere svolta.
+<sup>4</sup> Per gli studi delle prestazioni della sottocategoria A2 riguardanti la conformità nonché per le sperimentazioni cliniche delle sottocategorie C1 e C2 il promotore presenta entro due giorni le notifiche di cui al capoverso 1 anche agli Stati contraenti in cui la sperimentazione clinica è o dev’essere svolta.[^34-3]
 
 [^34-1]: Introdotto dall’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 [^34-2]: Nuovo testo giusta l’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^34-3]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 ### Sezione 2: Rapporto sulla sicurezza delle persone partecipanti alla sperimentazione nonché notifica e rapporto alla conclusione della sperimentazione clinica e in caso di arresto o interruzione
 
@@ -475,7 +619,7 @@ Se l’arresto o l’interruzione avviene per motivi di sicurezza, vale quanto s
 
 <sup>1</sup>
 
-Il promotore presenta alla commissione d’etica un rapporto finale conformemente all’allegato XV capo I punto 2.8 e capo III punto 7 UE-MDR[^37-1]:
+Il promotore presenta alla commissione d’etica un rapporto finale conformemente all’allegato XV capo I punto 2.8 e capo III punto 7 UE-MDR[^37-1] per le indagini cliniche e conformemente all’allegato XIII parte A punto 2.3.3 UE-IVDR[^37-2] per gli studi delle prestazioni:[^37-3]
 
 - a. entro un anno dalla conclusione della sperimentazione clinica;
 - b. entro tre mesi dall’arresto o dall’interruzione della sperimentazione clinica.
@@ -484,7 +628,9 @@ Il promotore presenta alla commissione d’etica un rapporto finale conformement
 
 <sup>3</sup> Al rapporto finale deve essere allegata una sintesi formulata in termini comprensibili a tutti.
 
-[^37-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1.
+[^37-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. a.
+[^37-2]: Cfr. nota a piè di pagina relativa all’art. 2*a* cpv. 3.
+[^37-3]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 38
 
@@ -522,11 +668,26 @@ Per le sperimentazioni cliniche della categoria C, le notifiche e i rapporti di 
 
 ## Capitolo 5: Trasparenza
 
-#### Art. 41 e 42
+#### Art. 41
 
-[^4142-1]
+**Registrazione**[^41-1]
 
-[^4142-1]: Non ancora in vigore (art. 50 cpv. 2).
+Il promotore deve registrare le sperimentazioni cliniche secondo gli articoli 64, 65 capoversi 1 e 3, 66 e 67 OSRUm[^41-2].
+
+[^41-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^41-2]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+
+#### Art. 42
+
+**Pubblicazione dei risultati**[^42-1]
+
+Il promotore deve pubblicare i risultati delle sperimentazioni cliniche in un registro riconosciuto secondo l’articolo 64 capoverso 1 OSRUm[^42-2] entro il seguente termine:
+
+- a. per le sperimentazioni cliniche concluse con dispositivi già provvisti di un marchio di conformità che sono utilizzati conformemente alle istruzioni per l’uso nonché in caso di arresto o interruzione della sperimentazione clinica: immediatamente dopo la presentazione del rapporto finale secondo l’articolo 37;
+- b. per tutte le altre sperimentazioni cliniche concluse: al più tardi prima che il dispositivo venga immesso in commercio, oppure un anno dopo la presentazione del rapporto finale secondo l’articolo 37 se fino a quel momento il dispositivo non è ancora stato immesso in commercio.
+
+[^42-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^42-2]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 
 ## Capitolo 6: Disposizioni finali
 
@@ -544,9 +705,11 @@ La modifica di altri atti normativi è disciplinata nell’allegato 2.
 
 #### Art. 45
 
-**Informazione sugli atti della Commissione europea direttamente applicabili**
+**Informazione sugli atti della Commissione europea direttamente applicabili**[^45-1]
 
-Swissmedic informa sul proprio sito Internet sugli atti della Commissione europea la cui versione vincolante per gli Stati membri dell’Unione europea è secondo la presente ordinanza direttamente applicabile anche per la Svizzera.
+Swissmedic informa sul proprio sito Internet sugli atti della Commissione europea la cui versione vincolante per gli Stati membri dell’UE è secondo la presente ordinanza direttamente applicabile anche per la Svizzera.
+
+[^45-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 46
 
@@ -556,17 +719,21 @@ Swissmedic informa sul proprio sito Internet sugli atti della Commissione europe
 
 <sup>2</sup>
 
-Nell’esecuzione della presente ordinanza, in particolare per fornire moduli elettronici e aiuti all’esecuzione, Swissmedic e le commissioni d’etica si attengono agli atti di esecuzione emanati dalla Commissione europea secondo gli articoli 70, 78 e 81 UE-MDR[^46-1], in particolare per quanto concerne:
+Nell’esecuzione della presente ordinanza, in particolare per fornire moduli elettronici e aiuti all’esecuzione, Swissmedic e le commissioni d’etica si attengono agli atti di esecuzione e agli atti delegati emanati dalla Commissione europea secondo gli articoli 70, 78 e 81 UE-MDR[^46-1] e gli articoli 66, 74 e 77 UE-IVDR[^46-2], segnatamente per quanto concerne:[^46-3]
 
 - a. i moduli elettronici uniformi per le domande relative agli studi clinici e alla loro valutazione, per la procedura presso le commissioni d’etica e Swissmedic e per la procedura di valutazione coordinata;
 - b. i moduli elettronici uniformi per le modifiche essenziali;
 - c. i moduli elettronici uniformi per la notifica di eventi indesiderati gravi e dei difetti dei dispositivi;
 - d. lo scambio di informazioni tra gli Stati membri e la Svizzera nell’ambito dell’annuncio di misure, dell’arresto di una sperimentazione clinica per motivi di sicurezza, del ritiro di una domanda e del rifiuto di autorizzare una sperimentazione clinica;
 - e. i termini di notifica di eventi indesiderati gravi e dei difetti dei dispositivi che, a causa della loro gravità, sono soggetti all’obbligo di notifica;
-- f. i requisiti di cui all’allegato XV capo II UE-MDR;
-- g. la procedura di valutazione coordinata.
+- f.[^46-4] i requisiti di cui all’allegato XV capo II UE-MDR e all’allegato XIV capo 1 UE-IVDR;
+- g.[^46-5] ...
 
-[^46-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1.
+[^46-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. a.
+[^46-2]: Cfr. nota a piè di pagina relativa all’art. 2*a* cpv. 3.
+[^46-3]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^46-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^46-5]: Abrogata dal n. I dell’O del 4 mag. 2022, con effetto dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 47
 
@@ -588,33 +755,19 @@ Nell’esecuzione della presente ordinanza, in particolare per fornire moduli el
 
 [^48-1]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 
+#### Art. 48a
+
+**Disposizioni transitorie per gli studi delle prestazioni autorizzati prima dell’entrata in vigore della modifica del 4 maggio 2022**[^48a-1]
+
+Se la sperimentazione clinica di cui all’articolo 48 è uno studio delle prestazioni, in caso di modifiche essenziali il promotore deve richiedere nel contempo una classificazione conformemente all’articolo 6*a*.
+
+[^48a-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+
 #### Art. 49
 
-**Disposizioni transitorie**
+[^49-1]
 
-<sup>1</sup>
-
-Fino all’entrata in vigore dell’articolo 8 capoversi 1, 4 e 5 della presente ordinanza (art. 50 cpv. 2), per l’inserimento e la trasmissione di domande, notifiche, rapporti e altre informazioni conformemente alla presente ordinanza, il promotore deve utilizzare i seguenti sistemi di informazione:
-
-- a. il sistema d’informazione dei Cantoni di cui all’articolo 56*a* LRUm, per i documenti e le informazioni destinati alla commissione d’etica competente;
-- b. il sistema di informazione per i dispositivi medici di cui all’articolo 62*c* LATer, per i documenti e le informazioni destinati a Swissmedic.
-
-<sup>2</sup>
-
-Fino all’entrata in vigore dell’articolo 8 capoversi 2 e 3 della presente ordinanza (art. 50 cpv. 2):
-
-- a. Swissmedic deve utilizzare il sistema di informazione per i dispositivi medici di cui all’articolo 62*c* LATer, per l’inserimento e la trasmissione di decisioni e per lo scambio di informazioni con i richiedenti;
-- b. la commissione d’etica competente deve utilizzare ai fini della lettera a il sistema d’informazione dei Cantoni di cui all’articolo 56*a* LRUm.
-
-<sup>3</sup>
-
-Fino all’entrata in vigore degli articoli 41 e 42 della presente ordinanza (art. 50 cpv. 2), il promotore deve registrare le sperimentazioni cliniche secondo gli articoli 64, 65 capoversi 1 e 3, 66 e 67 OSRUm[^49-1]. Deve inoltre pubblicare i risultati di tali sperimentazioni cliniche in un registro riconosciuto di cui all’articolo 64 capoverso 1 OSRUm entro il seguente termine:
-
-- a.[^49-2] per le sperimentazioni cliniche concluse della categoria C: al più tardi prima che il dispositivo venga immesso in commercio, oppure un anno dopo la presentazione del rapporto finale conformemente all’articolo 37, se fino a quel momento non è ancora stato immesso in commercio;
-- b. per le sperimentazioni cliniche concluse della categoria A e in caso di arresto o interruzione della sperimentazione clinica: immediatamente dopo la presentazione del rapporto finale conformemente all’articolo 37.
-
-[^49-1]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^49-2]: Nuovo testo giusta l’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^49-1]: Abrogato dal n. I dell’O del 4 mag. 2022, con effetto dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 50
 
@@ -622,7 +775,9 @@ Fino all’entrata in vigore degli articoli 41 e 42 della presente ordinanza (ar
 
 <sup>1</sup> Fatto salvo il capoverso 2, la presente ordinanza entra in vigore il 26 maggio 2021.
 
-<sup>2</sup> Gli articoli 8 capoversi 1–5, 21–31, 41 e 42 entreranno in vigore in un secondo tempo.
+<sup>2</sup> ...[^50-1]
+
+[^50-1]: Abrogato dal n. I dell’O del 4 mag. 2022, con effetto dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 Allegato 1*[^t-1]*
 
@@ -630,51 +785,46 @@ Allegato 1*[^t-1]*
 
 ## Documenti per la procedura di autorizzazione delle sperimentazioni cliniche
 
-[^t-1]: Aggiornato dell’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^t-1]: Aggiornato dell’all. n. 1 dell’O del 19 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)) e dal n. II dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 ### 1. Documenti per le sperimentazioni cliniche della categoria A
 
 - 1\.1
 
-  Occorre presentare i documenti di cui all’allegato XV capo II UE-MDR[^annex1-lvlu1-lvl1-1], tenendo conto delle modifiche all’allegato apportate dalla Commissione europea mediante atti delegati basati sull’articolo 70 UE-MDR, con le seguenti precisazioni:
+  Occorre presentare i documenti di cui all’allegato XV capo II UE-MDR[^annex1-lvlu1-lvl1-1] o di cui all’allegato XIV capo I e all’allegato XIII punto 2.3.2 lettera c UE-IVDR[^annex1-lvlu1-lvl1-2], tenendo conto delle modifiche a tali allegati apportate dalla Commissione europea mediante atti delegati basati sull’articolo 70 UE-MDR o sull’articolo 66 UE-IVDR, con:
 
-  - a. concernenti l’allegato XV capo II punti 1.1 e 3.1.2 UE-MDR (informazioni sul promotore): nome, indirizzo e coordinate del promotore e, qualora non abbia né sede né domicilio in Svizzera, del suo rappresentante in Svizzera;
-  - b. concernenti l’allegato XV capo II punto 3.1 UE-MDR: le seguenti ulteriori indicazioni per le sperimentazioni cliniche multicentriche in Svizzera: nome, indirizzo e coordinate dello sperimentatore coordinatore in Svizzera.
+  - a. le seguenti precisazioni concernenti l’allegato XV capo II punti 1.1 e 3.1.2 UE-MDR o l’allegato XIV capo I punto 1.1 UE-IVDR: nome, indirizzo e coordinate del promotore e, qualora non abbia né sede né domicilio in Svizzera, del suo rappresentante in Svizzera;
+  - b. le seguenti ulteriori indicazioni concernenti l’allegato XV capo II punto 3.1.3 UE-MDR o l’allegato XIII punto 2.3.2 lettera c UE-IVDR per le sperimentazioni cliniche multicentriche in Svizzera: nome, indirizzo e dati di contatto dello sperimentatore coordinatore in Svizzera.
 
 - 1\.1<sup>bis</sup> Per le sperimentazioni cliniche che sono o devono essere svolte anche in Stati UE o SEE, occorre inoltre presentare eventuali perizie sulla sperimentazione clinica effettuate dalla commissione d’etica estera corrispondente, inclusi gli eventuali oneri e la motivazione di questi oneri.
 - 1\.2
 
-  Non occorre presentare le seguenti indicazioni di cui all’allegato XV capo II UE-MDR:
+  Non occorre presentare le seguenti indicazioni di cui all’allegato XV capo II UE-MDR o all’allegato XIV capo I UE-IVDR:
 
-  - a. le indicazioni di cui al punto 1.16;
-  - b. le indicazioni di cui ai punti 2.3–2.8;
-  - c. le indicazioni di cui al punto 4.2.
+  - a. le indicazioni di cui al punto 1.16 (UE-MDR e UE-IVDR);
+  - b. le indicazioni di cui ai punti 2.3–2.8 (UE-MDR) e, in caso di studi delle prestazioni della categoria A1, di cui ai punti 2.4–2.8 (UE-IVDR);
+  - c. le indicazioni di cui al punto 4.2 (UE-MDR e UE-IVDR).
 
 - 1\.3 Swissmedic informa sul proprio sito Internet sugli atti delegati di cui al punto 1.1, la cui versione vincolante per gli Stati membri dell’UE è secondo la presente ordinanza direttamente applicabile anche per la Svizzera (art. 45).
 
-[^annex1-lvlu1-lvl1-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1.
+[^annex1-lvlu1-lvl1-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. a.
+[^annex1-lvlu1-lvl1-2]: Cfr. nota a piè di pagina relativa all’art. 2*a* cpv. 3.
 
 ### 2. Documenti per le sperimentazioni cliniche della categoria C
 
-- 2\.1 Occorre presentare i documenti di cui all’allegato XV capo II UE-MDR, tenendo conto delle modifiche al presente allegato apportate dalla Commissione europea mediante atti delegati basati sull’articolo 70 UE-MDR, con le seguenti precisazioni ai punti 1.1 e 3.1.2 (informazioni sul promotore): nome, indirizzo e coordinate del promotore e, qualora non abbia né sede né domicilio in Svizzera, del suo rappresentante in Svizzera.
-- 2\.1<sup>bis</sup> Per le sperimentazioni cliniche che sono o devono essere svolte anche in Stati UE o SEE, occorre inoltre presentare eventuali decisioni o perizie sulla sperimentazione clinica effettuate dall’autorità di vigilanza sui dispositivi medici e della commissione d’etica estere corrispondenti, inclusi gli eventuali oneri e la motivazione di questi oneri.
-- 2\.2 Se si tratta di una sperimentazione clinica multicentrica in Svizzera, oltre alle indicazioni di cui all’allegato XV capo II punto 3.1.3 UE-MDR occorre specificare nome, indirizzo e coordinate dello sperimentatore coordinatore in Svizzera.
+- 2\.1 Occorre presentare i documenti di cui all’allegato XV capo II UE-MDR o di cui all’allegato XIV capo I UE-IVDR, tenendo conto delle modifiche a tali allegati apportate dalla Commissione europea mediante atti delegati basati sull’articolo 70 UE-MDR o sull’articolo 66 UE-IVDR, con le seguenti precisazioni ai punti 1.1 e 3.1.2 UE-MDR o al punto 1.1 UE-IVDR: nome, indirizzo e coordinate del promotore e, qualora non abbia né sede né domicilio in Svizzera, del suo rappresentante in Svizzera.
+- 2\.1<sup>bis</sup> Per le sperimentazioni cliniche che sono o devono essere svolte anche in Stati UE o SEE, occorre inoltre presentare eventuali decisioni o perizie sulla sperimentazione clinica effettuate dall’autorità di vigilanza sui dispositivi medici e dalla commissione d’etica estere corrispondenti, inclusi gli eventuali oneri e la motivazione di questi oneri.
+- 2\.2 Se si tratta di una sperimentazione clinica multicentrica in Svizzera, oltre alle indicazioni di cui all’allegato XV capo II punto 3.1.3 UE-MDR o all’allegato XIII punto 2.3.2 lettera c UE-IVDR, occorre specificare nome, indirizzo e coordinate dello sperimentatore coordinatore in Svizzera.
 - 2\.3
 
-  Non occorre presentare le seguenti indicazioni di cui all’allegato XV capo II UE-MDR:
+  Non occorre presentare le indicazioni di cui:
 
-  - a. le indicazioni di cui al punto 1.16;
-  - b. le indicazioni di cui al punto 4.2.
+  - a. all’allegato XV capo II punti 1.16 e 4.2 UE-MDR;
+  - b. all’allegato XIV capo I punti 1.16 e 4.2 UE-IVDR.
 
 - 2\.4 Swissmedic informa sul proprio sito Internet sugli atti delegati di cui al punto 2.1 la cui versione vincolante per gli Stati membri dell’UE è secondo la presente ordinanza direttamente applicabile anche per la Svizzera (art. 45).
 
-### 3. Documenti per le sperimentazioni cliniche delle sottocategorie C1 e C2 nella procedura coordinata
-
-- 3\.1 Parte generale
-- [tab] Per quanto concerne la parte generale occorre presentare i documenti di cui all’allegato XV capo II UE-MDR, ad eccezione della parte nazionale di cui all’articolo 23 capoverso 2, tenendo conto delle modifiche al presente allegato apportate dalla Commissione europea mediante atti delegati basati sull’articolo 70 UE-MDR, con le seguenti precisazioni ai punti 1.1 e 3.1.2 (informazioni sul promotore): nome, indirizzo e coordinate del promotore e, qualora non abbia sede in Svizzera, del suo rappresentante in Svizzera.
-- 3\.2 Parte nazionale
-- [tab] Per quanto concerne la parte nazionale occorre presentare i documenti di cui all’allegato XV capo II punti 1.13, 3.1.3 e 4.2–4.4 UE-MDR, tenendo conto delle modifiche all’allegato apportate dalla Commissione europea mediante atti delegati basati sull’articolo 70 UE-MDR, con la seguente precisazione al punto 3.1.2: per le sperimentazioni cliniche multicentriche in Svizzera: nome, indirizzo e coordinate dello sperimentatore coordinatore in Svizzera.
-- 3\.3 Swissmedic informa sul proprio sito Internet sugli atti delegati di cui ai punti 3.1 e 3.2 la cui versione vincolante per gli Stati membri dell’UE è secondo la presente ordinanza direttamente applicabile anche per la Svizzera (art. 45).
+### 3. ...
 
 ### 4 Ulteriori documenti per le sperimentazioni cliniche con dispositivi che possono emettere radiazioni ionizzanti nonché per gli esami con sorgenti di radiazioni (art. 14 cpv. 1)
 
