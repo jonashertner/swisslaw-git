@@ -4,13 +4,13 @@ number: "861.520"
 title: Verordnung über die Wohnraumförderung
 short: "Wohnraumförderungsverordnung, WRFV"
 language: de
-version: 2021-01-01
-valid_until: 2022-05-27
-version_adopted: 2020-06-23
+version: 2022-05-28
+valid_until: 2025-09-30
+version_adopted: 2022-04-26
 adopted: 2014-06-17
 in_force: 2014-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/861.520"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5446/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5551/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Wohnraumförderungsverordnung | Sozialer Wohnungsbau / Erhaltung von Wohnraum
 
 (Wohnraumförderungsverordnung, WRFV)
 
-Vom 17. Juni 2014 (Stand 1. Januar 2021)
+Vom 17. Juni 2014 (Stand 28. Mai 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -241,7 +241,7 @@ beschliesst:
 
 **Bedarf nach einer rollstuhlgängigen Wohnung**
 
-<sup>1</sup> Ein Beitrag an den Mietzins gemäss § 16b des Gesetzes über die Rechte von Menschen mit Behinderungen (Behindertenrechtegesetz, BRG) vom 18. September 2019 kann beantragt werden, wenn mindestens eine im Haushalt wohnende Person auf eine rollstuhlgängige Wohnung angewiesen ist.
+<sup>1</sup> Ein Beitrag an den Mietzins gemäss § 16b des Gesetzes über die Wohnraumförderung (Wohnraumfördergesetz, WRFG) vom 5. Juni 2013 kann beantragt werden, wenn mindestens eine im Haushalt wohnende Person auf eine rollstuhlgängige Wohnung angewiesen ist.
 
 <sup>2</sup> Eine Person ist dann auf den Rollstuhl angewiesen, wenn sie die Voraussetzungen für den Erhalt eines Rollstuhls seitens der AHV oder der IV erfüllt.
 
