@@ -3,13 +3,12 @@ canton: BS
 number: "790.150"
 title: Verordnung betreffend die Sachverständigen der Baurekurskommission
 language: de
-version: 2016-06-19
-valid_until: 2022-05-27
-version_adopted: 2016-06-07
+version: 2022-05-28
+version_adopted: 2022-04-26
 adopted: 1996-05-14
 in_force: 1996-05-23
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/790.150"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3838/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5550/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3838/pdf_file"
 
 Sachverständige der Baurekurskommission: Verordnung | Baurekurskommission
 
-Vom 14. Mai 1996 (Stand 19. Juni 2016)
+Vom 14. Mai 1996 (Stand 28. Mai 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -45,11 +44,14 @@ beschliesst:
 - 11\. Grundwasser,
 - 12\. Sonderabfälle und industrielle Abwässer,
 - 13\. Tankanlagen,
-- 14\. Brandschutz.
+- 14\. Brandschutz,
+- 15\. Wohnraumschutz.
 
 #### § 2
 
 <sup>1</sup> Der Regierungsrat wählt aus jedem Fachgebiet in der Regel zwei Sachverständige auf die Amtsdauer der Baurekurskommission.
+
+*Schlussbestimmung*
 
 Diese Verordnung ist zu publizieren; sie wird sofort wirksam.[^footer-1]
 
