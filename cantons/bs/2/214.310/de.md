@@ -4,13 +4,12 @@ number: "214.310"
 title: Verordnung über das Grundbuch
 short: VOGB
 language: de
-version: 2020-09-01
-valid_until: 2022-05-27
-version_adopted: 2020-08-25
+version: 2022-05-28
+version_adopted: 2022-04-26
 adopted: 2003-12-16
 in_force: 2004-04-15
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/214.310"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5001/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5547/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Grundbuchverordnung | Sachenrecht
 
 (VOGB)
 
-Vom 16. Dezember 2003 (Stand 1. September 2020)
+Vom 16. Dezember 2003 (Stand 28. Mai 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -166,6 +165,16 @@ beschliesst:
 **Aufteilungspläne**
 
 <sup>1</sup> Die Aufteilungspläne gemäss Art. 68 GBV müssen im DIN-Format A4 oder A3 eingereicht werden.
+
+#### § 9b
+
+**Bewilligung gemäss § 8 Abs. 5 des Gesetzes über die Wohnraumförderung (Wohnraumfördergesetz, WRFG) vom 5. Juni 2013**
+
+<sup>1</sup> Für die Bewilligung gemäss § 8 Abs. 5 WRFG ist die Wohnschutzkommission zuständig.
+
+<sup>2</sup> Kann das Grundbuch- und Vermessungsamt die Bewilligungspflicht nicht ohne weiteres ausschliessen, so setzt es das Verfahren aus und verweist die Antragstellerin oder den Antragsteller an die Bewilligungsbehörde, um innert 30 Tagen ein Gesuch einzureichen. Wird nicht fristgerecht gehandelt oder die Bewilligung verweigert, wird die Anmeldung abgewiesen.
+
+<sup>3</sup> Weist das Grundbuch- und Vermessungsamt die Anmeldung aufgrund fehlender Bewilligung ab, kann dagegen Beschwerde an die nach dem WRFG zuständige Beschwerdeinstanz erhoben werden.
 
 #### § 10
 
