@@ -3,13 +3,13 @@ canton: BS
 number: "257.110"
 title: Verordnung über die Durchführung des polizeilichen Ermittlungsverfahrens bei Vergehen und Übertretungen
 language: de
-version: 2021-01-01
-valid_until: 2022-05-27
-version_adopted: 2020-12-08
+version: 2022-05-28
+valid_until: 2022-06-30
+version_adopted: 2022-04-26
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/257.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5511/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5549/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5511/pdf_file"
 
 Ermittlungsverfahren: Verordnung | Strafprozess / Rechtshilfe / Opferhilfe
 
-Vom 21. Dezember 2010 (Stand 1. Januar 2021)
+Vom 21. Dezember 2010 (Stand 28. Mai 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -91,7 +91,7 @@ beschliesst:
 
 <sup>3</sup> Die Überweisung mit Antrag ist der beschuldigten Person durch die überweisende Strafverfolgungsbehörde anzukündigen.
 
-Schlussbestimmung
+*Schlussbestimmung*
 
 Diese Verordnung ist zu publizieren; sie wird am 1. Januar 2011 wirksam. Auf den gleichen Zeitpunkt wird die Verordnung über die Verfolgung von Straftaten im Verzeigungsverfahren vom 16. Dezember 1997 aufgehoben.
 
