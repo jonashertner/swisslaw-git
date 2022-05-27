@@ -4,28 +4,28 @@ number: "861.500"
 title: Gesetz über die Wohnraumförderung
 short: "Wohnraumfördergesetz, WRFG"
 language: de
-version: 2021-01-01
-valid_until: 2022-05-27
-version_adopted: 2019-09-18
+version: 2022-05-28
+valid_until: 2025-02-16
+version_adopted: 2021-11-28
 adopted: 2013-06-05
 in_force: 2014-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/861.500"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5124/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6215/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Wohnraumförderung
 
-Wohnraumfördergesetz | Sozialer Wohnungsbau / Erhaltung vonWohnraum
+Sozialer Wohnungsbau / Erhaltung von Wohnraum
 
 (Wohnraumfördergesetz, WRFG)
 
-Vom 5. Juni 2013 (Stand 1. Januar 2021)
+Vom 5. Juni 2013 (Stand 28. Mai 2022)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
-im Sinne eines Gegenvorschlages zur formulierten Volksinitiative «Bezahlbares und sicheres Wohnen für alle!» und nach Einsichtnahme in den Ratschlag und Bericht des Regierungsrates [Nr. 12.1202.01](http://www.grosserrat.bs.ch/?gnr=12.1202) vom 20. August 2012 sowie in den Bericht der Wirtschafts- und Abgabekommission [Nr. 12.1202.02](http://www.grosserrat.bs.ch/)gnr=12.1202) vom 28. Januar 2013 und den Mitbericht der Bau- und Raumplanungskommission [Nr. 12.1202.02](http://www.grosserrat.bs.ch/?nr=12.1202) vom 30. April 2013,
+im Sinne eines Gegenvorschlages zur formulierten Volksinitiative «Bezahlbares und sicheres Wohnen für alle!» und nach Einsichtnahme in den Ratschlag und Bericht des Regierungsrates [Nr. 12.1202.01](http://www.grosserrat.bs.ch/?gnr=12.1202) vom 20. August 2012 sowie in den Bericht der Wirtschafts- und Abgabekommission [Nr. 12.1202.02](https://grosserrat.bs.ch/dokumente/100375/000000375594.pdf) vom 28. Januar 2013 und den Mitbericht der Bau- und Raumplanungskommission [Nr. 12.1202.02](https://grosserrat.bs.ch/dokumente/100374/000000374035.pdf) vom 30. April 2013,
 
 beschliesst:
 
@@ -35,20 +35,28 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Dieses Gesetz bezweckt den Erhalt und die Schaffung von vielfältigem, unterschiedlichen Ansprüchen genügendem, insbesondere familiengerechtem Wohnraum.
+<sup>1</sup> Dieses Gesetz bezweckt den Erhalt und die Schaffung von vielfältigem, unterschiedlichen Ansprüchen genügendem, insbesondere familiengerechtem, bezahlbarem wie auch preisgünstigem Wohnraum.
+
+<sup>2</sup> In Zeiten von Wohnungsnot bezweckt es gemäss den überwiegenden Bedürfnissen der Wohnbevölkerung zudem deren wirksamen Schutz, insbesondere für die langjährigen und älteren Mietparteien, vor Verdrängung durch Kündigungen und Mietzinserhöhungen.
 
 #### § 2
 
 **Fördergrundsätze**
 
-<sup>1</sup> Im Rahmen der Wohnraumförderung sollen insbesondere
+<sup>1</sup> Wohnraumförderung besteht gleichrangig in der Förderung des Wohnungsbaus wie in der Erhaltung und Sicherung von bestehendem bezahlbarem (leistbarem) sowie von preisgünstigem Wohnraum.
 
-- a) die Nachhaltigkeit bezüglich Zahl der Einwohnerinnen und Einwohner und eine ausgewogene Gesellschaftsstruktur begünstigt werden,
-- b) das verdichtete Bauen gefördert werden,
-- c) eine hohe Flexibilität für mittelfristige Entwicklungen des Wohnraums bewahrt werden und
-- d) Ressourcen und Umwelt geschont werden.
+- a) …
+- b) …
+- c) …
+- d) …
 
-<sup>2</sup> Der Kanton sorgt primär für gute Rahmenbedingungen, damit der Zweck und die Grundsätze dieses Gesetzes durch private Initiativen verwirklicht werden. Daneben fördert er die Wohnraumentwicklung mit eigenen Mitteln.
+<sup>2</sup> Im Rahmen der Wohnraumförderung sollen insbesondere:
+
+- a) der Erhalt von bestehendem bezahlbarem Wohnraum gefördert werden;
+- b) die Nachhaltigkeit in Bezug auf Zahl der Einwohnerinnen und Einwohner und eine ausgewogene Gesellschaftsstruktur begünstigt werden;
+- c) das verdichtete Bauen unterstützt werden;
+- d) Ressourcen und Umwelt geschont werden und
+- e) Flexibilität für mittelfristige Entwicklungen des Wohnraums bewahrt werden.
 
 #### § 3
 
@@ -57,6 +65,18 @@ beschliesst:
 <sup>1</sup> Das Gesetz gilt für alle Arten von Wohnraum im Kanton Basel-Stadt, namentlich für Miet-, Genossenschafts- und Eigentumswohnungen sowie Einfamilienhäuser.
 
 <sup>2</sup> Es ergänzt die in diesem Bereich bestehenden Massnahmen des Bundes.
+
+#### § 3a
+
+**Wohnschutzkommission**
+
+<sup>1</sup> Die Wohnschutzkommission ist Teil der Staatlichen Schlichtungsstelle für Mietstreitigkeiten und untersteht administrativ und disziplinarisch der Aufsicht des zuständigen Departements. In ihrer Tätigkeit ist sie unabhängig. Ihre Entscheide sind für die Bewilligungsbehörden verbindlich. Sie erhält ausreichend Ressourcen zur Wahrung der Fristen gemäss Bau- und Planungsgesetz.
+
+<sup>2</sup> Sie setzt sich paritätisch aus drei Mitgliedern der Staatlichen Schlichtungsstelle für Mietstreitigkeiten zusammen. Den Vorsitz führt ein Mitglied, das Gewähr für eine unabhängige Behandlung der Verfahren bietet.
+
+<sup>3</sup> Der Regierungsrat wählt die Mitglieder und die notwendigen Ersatzmitglieder. Wählbar ist, wer den Wohnsitz in der Schweiz hat. Der Regierungsrat berücksichtigt bei der Wahl den Bezug zum Kanton Basel-Stadt. Die Amtsdauer beträgt vier Jahre.
+
+<sup>4</sup> Er wählt eine Person als Schreiberin oder Schreiber. Die a.o. Schreiberinnen und Schreiber werden mit Genehmigung des zuständigen Departements von der Staatlichen Schlichtungsstelle für Mietstreitigkeiten ernannt. Die Amtsdauer beträgt vier Jahre.
 
 #### § 4
 
@@ -67,6 +87,12 @@ beschliesst:
 <sup>2</sup> Als Organisationen des gemeinnützigen Wohnungsbaus gelten die Träger des gemeinnützigen Wohnungsbaus, ihre Dachorganisationen und andere nicht gewinnstrebige Institutionen, die sich der Förderung von und der Deckung des Bedarfs an preisgünstigem Wohnraum widmen.
 
 <sup>3</sup> Als Zweckentfremdung gilt die Verwendung von Wohnraum als Verwaltungsräume oder zu gewerblichen Zwecken.
+
+<sup>4</sup> Wohnungsnot besteht bei einem Leerwohnungsbestand von 1,5 Prozent oder weniger.
+
+<sup>5</sup> Der geschützte bezahlbare Mietwohnraum umfasst allen bestehenden Mietwohnraum. Ausgenommen sind für höchstens drei Monate gemietete Wohnungen, luxuriöse Wohnungen gemäss Art. 253b Abs. 2 OR sowie Fälle von nur ein bis drei Wohnungen.
+
+<sup>6</sup> Mit bezahlbar (leistbar) sind Mietzinse gemeint, die in Bezug auf die überwiegenden Bedürfnisse der Wohnbevölkerung geeignet sind, den Charakter der Quartiere, den aktuellen Wohnbestand sowie die bestehenden Wohn- und Lebensverhältnisse zu bewahren.
 
 ## B. Erhalt, Schaffung und Aufwertung von Wohnraum
 
@@ -98,22 +124,26 @@ beschliesst:
 
 <sup>2</sup> Keiner Bewilligung gemäss diesem Gesetz bedarf der Abbruch, der aufgrund einer rechtskräftigen behördlichen Verfügung oder im Interesse von öffentlichen Bauten und Anlagen oder des gemeinnützigen Wohnungsbaus erforderlich ist.
 
-<sup>3</sup> Vorbehältlich der Einhaltung der nutzungsplanerischen Vorschriften zum Wohnanteil wird die Abbruchbewilligung erteilt, wenn in der Folge
+<sup>3</sup> Vorbehältlich der Einhaltung der nutzungsplanerischen Vorschriften zum Wohnanteil kann die Abbruchbewilligung ausnahmsweise erteilt werden, wenn:
 
-- a) mindestens gleich viel Wohnraum entsteht oder
-- b) das zulässige Mass der baulichen Nutzung in einem städtebaulich sinnvollen Rahmen ausgeschöpft wird und der Anteil der Wohnnutzung gleich bleibt.
+- a) der Ersatzneubau mindestens 20 % mehr Wohnraum umfasst, sofern eine Aufstockung im Bestand technisch nicht möglich oder nach ökologischen Kriterien auch unter Berücksichtigung des Aspekts der grauen Energie nicht sinnvoll erscheint und der Ersatzneubau ökologischen Kriterien vollumfänglich entspricht;
+- b) der Ersatzbau mindestens 40 % mehr Wohnraum umfasst, sofern die ökologischen Kriterien nicht erfüllt werden und
+- c) die gesicherte Finanzierung nachgewiesen ist.
 
-<sup>4</sup> Die Abbruchbewilligung kann erteilt werden, wenn es die Umstände rechtfertigen, insbesondere wenn:
+<sup>4</sup> In Zeiten der Wohnungsnot kann eine Ausnahmebewilligung gemäss Abs. 3 zudem nur erteilt werden, sofern die Kriterien von §§ 8a bis 8e erfüllt sind.
 
-- a) die Mehrzahl der Wohnungen dem zeitgemässen Wohnstandard nicht mehr entspricht;
-- b) der zum Abbruch vorgesehene Wohnraum mit angemessenem Aufwand nicht erhalten werden kann;
-- c) mit der Ersatzbaute mehrheitlich gewerblichen Zwecken dienende Räume oder Verwaltungsräume geschaffen werden sollen und die Voraussetzungen erfüllt sind, eine Zweckentfremdung der betroffenen Wohnräume zu bewilligen.
+- a) …
+- b) …
+- c) …
 
-<sup>5</sup> Die Erteilung einer Bewilligung für den Abbruch kann vom Nachweis der gesicherten Finanzierung des geplanten Projektes abhängig gemacht werden.
+<sup>5</sup> Die Abbruchbewilligung kann auch in Zeiten der Wohnungsnot erteilt werden, wenn:
+
+- a) der zum Abbruch vorgesehene Wohnraum mit angemessenem Aufwand nicht erhalten werden kann, es sei denn, dieser Aufwand ist auf eine offensichtliche Vernachlässigung des Gebäudeunterhalts zurückzuführen;
+- b) mit der Ersatzbaute mehrheitlich gewerblichen Zwecken dienende Räume oder Verwaltungsräume geschaffen werden sollen und die Voraussetzungen erfüllt sind, eine Zweckentfremdung der betroffenen Wohnräume zu bewilligen.
 
 #### § 8
 
-**Zweckentfremdung von Wohnraum**
+**Zweckentfremdung und Umwandlung in Stockwerkeigentum**
 
 <sup>1</sup> Jede Zweckentfremdung von bestehendem Wohnraum bedarf einer Bewilligung.
 
@@ -132,7 +162,91 @@ beschliesst:
 
 <sup>4</sup> Die Bewilligungsbehörde berücksichtigt bei ihrem Entscheid das im betroffenen Quartier verträgliche Mass gewerblicher Nutzung.
 
-<sup>5</sup> Bewilligungen können befristet, auf Widerruf, unter Bedingungen oder mit Auflagen erteilt werden. Befristungen und Widerrufsvorbehalte können im Grundbuch angemerkt werden.
+<sup>5</sup> Die Begründung von Stockwerkeigentum bei bereits gebauten Liegenschaften mit vier oder mehr Wohnungen ist in Zeiten der Wohnungsnot bewilligungspflichtig. Die Eigentümerschaft hat gegenüber der Wohnschutzkommission den Nachweis zu erbringen, dass die ganze Liegenschaft im Zeitpunkt der Stockwerkseigentumsbegründung einen für Stockwerkeigentum angemessenen Standard aufweist.
+
+<sup>6</sup> Die Wohnschutzkommission prüft innerhalb von vier Monaten, ob eine Bewilligung im Sinne von Abs. 5 erteilt werden kann.
+
+<sup>7</sup> Bewilligungen können befristet, auf Widerruf, unter Bedingungen oder mit Auflagen erteilt werden. Befristungen und Widerrufsvorbehalte können im Grundbuch angemerkt werden.
+
+#### § 8a
+
+**Sanierung, Renovation und Umbau in Zeiten der Wohnungsnot**
+
+<sup>1</sup> Sämtliche Umbau-, Renovations- und Sanierungsvorhaben, die über den einfachen ordentlichen Unterhalt hinausgehen, unterliegen in Zeiten der Wohnungsnot einer Bewilligungspflicht gemäss §§ 8d und 8e. In den Fällen von § 8c genügt eine Meldepflicht. Dies gilt für das ordentliche, vereinfachte und generelle Baubewilligungsverfahren sowie für das Meldeverfahren und Kanalisationsbegehren.
+
+<sup>2</sup> Keiner Bewilligung gemäss Abs. 1 bedürfen Umbau, Renovation und Sanierung, die aufgrund einer rechtskräftigen behördlichen Verfügung oder im Interesse von öffentlichen Bauten und Anlagen oder des gemeinnützigen Wohnungsbaus erforderlich sind.
+
+<sup>3</sup> Die Bewilligung wird erteilt, wenn in der Folge:
+
+- a) den Mietparteien das Recht zur Rückkehr in die sanierte oder umgebaute Liegenschaft zusteht und [^8a-1]
+- b) die gemäss §§ 8b bis 8e festgelegten Mietzinse eingehalten werden.
+
+[^8a-1]: § 8a Abs. 3 lit. a wurde gemäss Urteil des Bundesgerichts vom 19. Dezember 2022 [(1C 759/2021)](https://www.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?highlight_docid=aza%3A%2F%2Faza://19-12-2022-1C_759-2021&lang=de&zoom=&type=show_document) aufgehoben.
+
+#### § 8b
+
+**Überwiegende Bedürfnisse der Wohnbevölkerung und Bewahrung des aktuellen Wohnbestands**
+
+<sup>1</sup> Mietzinse für Wohnraum, der gestützt auf eine Bewilligung gemäss diesem Gesetz ersetzt, umgebaut oder saniert wurde, unterliegen während fünf Jahren von der definitiven Nutzungsfreigabe an einer amtlichen Beschränkung der Mietzinsaufschläge und einer Mietzinskontrolle. Diese ist im Grundbuch von der zuständigen Behörde anmerken zu lassen. Ausgenommen ist der im Rahmen eines Ersatzneubaus zusätzlich geschaffene Wohnraum.
+
+<sup>2</sup> Die Massnahmen, insbesondere jene in § 8e, haben zum Zweck, die Mietzinse so zu gestalten, dass sie den überwiegenden Bedürfnissen der Wohnbevölkerung entsprechen und so den Charakter der Quartiere, den aktuellen Wohnbestand sowie die bestehenden Wohn- und Lebensverhältnisse schützen und bewahren.
+
+#### § 8c
+
+**Einfaches Prüfungsverfahren**
+
+<sup>1</sup> Für Umbau-, Renovations- oder Sanierungsvorhaben in bewohntem Zustand, welche zu keinen Mietzinsanpassungen führen, besteht ein einfaches Meldeverfahren.
+
+<sup>2</sup> Die Wohnschutzkommission stellt der beantragenden Vermieterschaft nach einfacher Prüfung eine Verfügung zu, welche die Parteien, den vom Vorhaben betroffenen Wohnraum sowie die Feststellung enthält, dass keinerlei Mietzinsanpassung erfolgt. Eine vollständige Kopie geht an die Mieterschaften.
+
+#### § 8d
+
+**Vereinfachtes Bewilligungsverfahren**
+
+<sup>1</sup> Für ein Umbau-, Renovations- oder Sanierungsvorhaben in bewohntem Zustand besteht ein einfaches Bewilligungsverfahren, sofern es einen monatlichen Mietzinsaufschlag zur Folge hat, der sich in einer Bandbreite von zwischen 0 und 80 Franken für Wohnungen mit ein oder zwei Zimmern, von zwischen 0 und 120 Franken für Wohnungen mit drei Zimmern und von zwischen 0 und 160 Franken für Wohnungen mit vier und mehr Zimmern bewegt.
+
+<sup>2</sup> Diese Pauschalen können reduziert werden, wenn sich unter Bezugnahme auf verlässliche Statistiken oder vergleichbare Dokumente ergibt, dass sie die überwiegenden Bedürfnisse der Wohnbevölkerung nicht oder nicht genügend wiedergeben. Eine Erhöhung der Pauschale ist auf gleiche Art nachzuweisen. Eine Bezugnahme auf das Basler Mietpreisraster genügt hierbei nicht.
+
+<sup>3</sup> Die Wohnschutzkommission prüft anhand der eingereichten Unterlagen inklusive einer Kostenzusammenstellung, ob die Wohnungen nach Umbau, Renovation oder Sanierung in derselben Kategorie verbleiben wie zuvor und den überwiegenden Bedürfnissen der Wohnbevölkerung entsprechen. Sie stellt der beantragenden Vermieterschaft eine Verfügung zu. Diese hat die Parteien des Mietvertrags, das Vorhaben sowie das Ausmass des bewilligten Mietzinsaufschlags zu enthalten. Eine vollständige Kopie geht an die Mieterschaften.
+
+#### § 8e
+
+**Umfassendes Bewilligungsverfahren**
+
+<sup>1</sup> Mit begründetem Antrag kann verlangt werden, dass Sanierungsvorhaben nicht gemäss §§ 8c und 8d beurteilt werden. Die Wohnschutzkommission unterzieht die Unterlagen, wenn sie vollständig vorliegen, einer Vorprüfung. In der Regel findet ein Augenschein statt. In Abwägung aller Umstände und nach Anhörung der Parteien legt sie fest, ob und gegebenenfalls in welchem Umfang ein Mietzinsaufschlag nach Abschluss des Vorhabens zulässig ist.
+
+<sup>2</sup> Gemäss diesem Verfahren kann sie eine Bewilligung erteilen, wenn die Wohnungen nach Abschluss des Vorhabens in derselben Kategorie verbleiben wie zuvor, den überwiegenden Bedürfnissen der Wohnbevölkerung entsprechen und so den Charakter der Quartiere, den aktuellen Wohnbestand sowie die bestehenden Wohn- und Lebensverhältnisse schützen und bewahren.
+
+<sup>3</sup> Das Vorhaben entspricht insbesondere dann den überwiegenden Bedürfnissen der Wohnbevölkerung, wenn es auch nach Auffassung von Fachorganisationen:
+
+- a) notwendig ist, weil der Lebenszyklus einzelner Bauteile oder Einrichtungen abgelaufen ist;
+- b) standardisiert vorgenommen wird, indem bei Mehrfamilienhäusern von mindestens sechs Wohnungen die Arbeitsvorgänge nach einfachen fachlichen Kriterien durchgeführt werden;
+- c) schonend vorgenommen wird, indem die bestehende Baustruktur sowie der bisherige Standard des Wohnraums belassen werden, und
+- d) nachweislich zu bedeutenden Energieeinsparungen insbesondere bezüglich grauer Energie führt.
+
+<sup>4</sup> Zur Festlegung der Mietzinse nach Umbau, Renovation oder Sanierung dürfen nur solche Investitionskosten berücksichtigt werden, welche direkt den Zielen nach Abs. 3 lit. a bis d dienen, die Wohnungen nach Abschluss des Vorhabens in derselben Kategorie belassen und den überwiegenden Bedürfnissen der Wohnbevölkerung entsprechen.
+
+<sup>5</sup> Soweit erschwerte bauliche Bedingungen vorliegen, welche trotz standardisiertem Vorgehen im Sinne des Abs. 3 Mehrkosten verursachen, können diese bei der Bewilligungserteilung mitberücksichtigt werden, soweit dies mit Bezug auf die überwiegenden Bedürfnisse der Wohnbevölkerung angemessen erscheint.
+
+<sup>6</sup> Dasselbe gilt für unvermeidliche Mehrkosten aufgrund besonders wertvoller ökologischer Sanierungsvorhaben, soweit sie nicht durch Ausschöpfung sämtlicher Förderbeiträge und entsprechender weiterer Kostenträger ohne Rückgriff auf die Mieterinnen und Mieter ausgeglichen werden können.
+
+<sup>7</sup> Vorbehalten bleiben besondere Nachweise im Rahmen des Bundesrechts, soweit die Bauherrschaft Antrag stellt und sie im Detail belegt.
+
+<sup>8</sup> Die Verordnung regelt die Einzelheiten.
+
+#### § 8f
+
+**Ersatzneubau**
+
+<sup>1</sup> Bei Ersatzneubau werden pro Wohnung nach Zimmerzahl maximale Netto-Mietzinse festgelegt, welche sich an preisgünstigen Neubauwohnungen orientieren und gewährleisten, dass sie den überwiegenden Bedürfnissen der Wohnbevölkerung entsprechen und den aktuellen Wohnbestand bewahren.
+
+<sup>2</sup> Dies ist im Grundbuch von der zuständigen Behörde anmerken zu lassen.
+
+#### § 8g
+
+**Gebühren**
+
+<sup>1</sup> Für die Prüfung von Gesuchen gemäss diesem Gesetz kann eine Gebühr bis Fr. 1’000 erhoben werden.
 
 ### III. Förderung des gemeinnützigen Wohnraumangebots
 
@@ -166,7 +280,7 @@ beschliesst:
 
 **Bürgschaften**
 
-<sup>1</sup> Für die Schaffung von neuem und die Sanierung sowie den Um- und Ausbau von bestehendem Mietwohnraum kann der Regierungsrat Organisationen des gemeinnützigen Wohnungsbaus unter Auflagen Bürgschaften bis höchstens 94% der anerkannten Anlagekosten gewähren.
+<sup>1</sup> Für die Schaffung von neuem und die Sanierung sowie den Um- und Ausbau und Erwerb von bestehendem Mietwohnraum kann der Regierungsrat Organisationen des gemeinnützigen Wohnungsbaus unter Auflagen Bürgschaften bis höchstens 94 % der anerkannten Anlagekosten gewähren.
 
 <sup>2</sup> Der Regierungsrat kann eine geeignete Institution mit der Prüfung entsprechender Gesuche betrauen.
 
@@ -218,11 +332,13 @@ beschliesst:
 
 #### § 16a
 
-**Beratung und Unterstützung bei der Suche nach geeignetem Wohnraum**
+**Bedürfnisse von älteren und langjährigen Mietparteien**
 
-<sup>1</sup> Der Kanton kann für Menschen mit Behinderungen Beratung und Unterstützung bei der Suche nach geeignetem Wohnraum anbieten.
+<sup>1</sup> Der Kanton verpflichtet Investoren, bei geplanten Vorhaben ergänzend zu den Vorgaben dieses Gesetzes in einer sehr frühen Planungsphase Massnahmen für unterschiedliche Zielgruppen von älteren und langjährigen Personen zu ergreifen. Hierzu gehören auch Wohnungsangebote aus dem Portfolio, Unterstützung bei der Wohnungssuche und Angebote für bezahlbare Wohnungen im bisherigen Wohnquartier sowie darüber hinaus Massnahmen für finanzielle Härtesituationen.
 
-<sup>2</sup> Der Regierungsrat kann eine geeignete Institution mit den entsprechenden Aufgaben betrauen.
+<sup>2</sup> Der Kanton kann benachteiligten Personen bei Bedarf Beratung und Unterstützung bei der Suche nach geeignetem Wohnraum anbieten.
+
+<sup>3</sup> Der Regierungsrat kann geeignete Institutionen mit dieser Aufgabe betrauen.
 
 #### § 16b
 
@@ -239,6 +355,14 @@ beschliesst:
 **Beobachtung der Entwicklung**
 
 <sup>1</sup> Der Kanton beobachtet die Wohnraum- und Wohnumfeldentwicklung, insbesondere die Zusammensetzung des Wohnungs- und Leerwohnungsbestands sowie die Entwicklung der Mietzinsen und er analysiert die entsprechenden Daten.
+
+#### § 17a
+
+**Kantonale Strategie zur Wohnraumentwicklung**
+
+<sup>1</sup> Die kantonale Strategie zur Wohnraumentwicklung legt die Ziele der Wohnraumentwicklung und die entsprechenden Massnahmen fest.
+
+<sup>2</sup> Der Regierungsrat legt dem Grossen Rat zur Kenntnisnahme alle vier Jahre eine kantonale Strategie zur Wohnraumentwicklung vor.
 
 #### § 18
 
@@ -266,28 +390,37 @@ beschliesst:
 
 **Strafbestimmung**
 
-<sup>1</sup> Wer den Vorschriften dieses Gesetzes und seiner Ausführungsbestimmungen zuwiderhandelt, wird mit Busse bestraft, namentlich wer:
+<sup>1</sup> Mit Busse bis zu Fr. 100‘000 wird bestraft, wer vorsätzlich:
 
-- a) vorsätzlich durch unwahre oder unvollständige Angaben oder in anderer Weise zu Unrecht eine Bewilligung bzw. staatliche Leistungen nach diesem Gesetz erwirkt;
-- b) vorsätzlich Bedingungen oder Auflagen missachtet, die mit einer Bewilligung bzw. staatlichen Leistung verbunden sind.
+- a) durch unwahre oder unvollständige Angaben oder in anderer Weise zu Unrecht eine Bewilligung bzw. staatliche Leistungen nach diesem Gesetz erwirkt oder
+- b) Bedingungen oder Auflagen missachtet, die mit einer Bewilligung bzw. staatlichen Leistung verbunden sind, oder
+- c) als Eigentümerschaft ihre Mitwirkungspflichten verletzt.
 
 #### § 21
 
-**Besondere Bestimmungen zum Abbruch und zur Zweckentfremdung von Wohnraum**
+**Besondere Bestimmungen**
 
-<sup>1</sup> Für Abbrüche und Zweckentfremdungen, welche ohne Bewilligung oder in wesentlicher Abweichung von einer Bewilligung vorgenommen wurden, gelten die Abwehrmassnahmen des Bau- und Planungsgesetzes vom 17. November 1999.
+<sup>1</sup> Für Abbruch, Umbau, Sanierung und Ersatzneubau sowie Zweckentfremdung, welche ohne die erforderliche Bewilligung oder in wesentlicher Abweichung von einer Bewilligung vorgenommen wurden, gelten die Abwehrmassnahmen des Bau- und Planungsgesetzes (BPG) vom 17. November 1999.
 
-<sup>2</sup> Das Verwaltungsgericht prüft auch die Angemessenheit von Entscheiden der Baurekurskommission betreffend Abbruch und Zweckentfremdung von Wohnraum.
+<sup>2</sup> Das Verwaltungsgericht prüft auch die Angemessenheit von Entscheiden der Baurekurskommission betreffend Abbruch, Umbau, Sanierung und Ersatzneubau sowie Zweckentfremdung von Wohnraum.
 
-<sup>3</sup> Zur Rekurserhebung gegen Entscheide betreffend Abbruch und Zweckentfremdung von Wohnraum ist die betroffene Mieterin bzw. der betroffene Mieter, unabhängig vom Fortbestand des Mietverhältnisses, befugt, wenn das Mietverhältnis beim Einreichen des Rekurses noch bestand.
+<sup>3</sup> Zur Rekurserhebung gegen Entscheide betreffend Abbruch, Umbau, Sanierung und Ersatzneubau sowie Zweckentfremdung von Wohnraum ist die betroffene Mieterschaft, unabhängig vom Fortbestand des Mietverhältnisses, befugt, wenn das Mietverhältnis beim Einreichen des Rekurses noch bestand.
 
-<sup>4</sup> Private Organisationen im Kanton, die seit mindestens zehn Jahren statutengemäss die Interessen der Mieterinnen und Mieter wahren, sind im Verfahren betreffend die Bewilligung eines Abbruchs rekursberechtigt. Sie haben sich im Einspracheverfahren vor der Bewilligungsbehörde als Partei zu beteiligen.
+<sup>4</sup> Private kantonale Organisationen im Kanton, die seit mindestens zehn Jahren statutengemäss die Interessen der Mieterschaft wahren, sind in jedem Verfahren betreffend Abbruch, Umbau, Renovation, Sanierung oder Zweckentfremdung rekursberechtigt. Die Wohnschutzkommission informiert sie über die eingehenden Gesuche und ermöglicht ihnen, ihr Rekursrecht im Bedarfsfall auszuüben.
 
 #### § 22
 
 **Ausführungsbestimmungen**
 
 <sup>1</sup> Der Regierungsrat erlässt die erforderlichen Ausführungsbestimmungen.
+
+#### § 22a
+
+**Übergangsbestimmungen gemäss Grossratsbeschluss vom 8. September 2021**
+
+<sup>1</sup> Bei Inkrafttreten der neuen Vorschriften hängige Verfahren unterstehen bis zum Abschluss der jeweiligen Verfahrensstufe dem bisherigen Recht. Daran anschliessende Rechtsmittelverfahren unterstehen dem neuen Recht.
+
+<sup>2</sup> Das Gesetz tritt sechs Monate nach Annahme der Initiative in Kraft.
 
 ## E. Schlussbestimmungen
 
@@ -312,7 +445,7 @@ beschliesst:
 [^24-3]: SG 650.100.
 [^24-4]: SG 253.100.
 
-Publikation und Wirksamkeit
+*Publikation und Wirksamkeit*
 
 Dieses Gesetz ist zu publizieren. Es unterliegt dem Referendum. Nach Eintritt der Rechtskraft bestimmt der Regierungsrat den Zeitpunkt der Wirksamkeit[^footer-1].
 
