@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2022-05-04
+version: 2022-05-29
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220504/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220504-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220504/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220529/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220529-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220529/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 4 maggio 2022)
+del 4 marzo 2022 (Stato 29 maggio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -828,7 +828,7 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 - b. attività della società civile che promuovono direttamente la democrazia, i diritti umani o lo Stato di diritto nella Federazione Russa.
 
 [^28d-1]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^28d-2]: In vigore dal dal 29 mag. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260))
+[^28d-2]: In vigore dal 29 mag. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 ## Sezione 4: Ulteriori restrizioni
 

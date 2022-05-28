@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2022-05-04
+version: 2022-05-29
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220504/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220504-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220504/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220529/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220529-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220529/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 4. Mai 2022)
+vom 4. März 2022 (Stand am 29. Mai 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -833,7 +833,7 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD
 - b. zivilgesellschaftliche Aktivitäten zur direkten Förderung der Demokratie, der Menschenrechte oder der Rechtsstaatlichkeit in der Russischen Föderation.
 
 [^28d-1]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^28d-2]: Tritt am 29. Mai 2022 in Kraft ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^28d-2]: In Kraft seit 29. Mai 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 ## 4. Abschnitt: Weitere Beschränkungen
 
