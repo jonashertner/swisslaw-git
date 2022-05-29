@@ -4,20 +4,20 @@ title: Verordnung der Bundesversammlung vom 18. März 1988 zum Parlamentsressour
 short: VPRG
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166"
 language: de
-version: 2014-09-01
+version: 2022-05-30
 adopted: 1988-03-18
 in_force: 1988-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166/20140901/de/xml/fedlex-data-admin-ch-eli-cc-1988-1166_1166_1166-20140901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1166_1166_1166/20140901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166/20220530/de/xml/fedlex-data-admin-ch-eli-cc-1988-1166_1166_1166-20220530-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1166_1166_1166/20220530/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung der Bundesversammlung zum Parlamentsressourcengesetz
 
-(VPRG)**[^t-1]**
+(VPRG)[^t-1]
 
-vom 18. März 1988 (Stand am 1. September 2014)
+vom 18. März 1988 (Stand am 30. Mai 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Dez. 2002 ([AS 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [BBl 2002 4001](https://fedlex.data.admin.ch/eli/fga/2002/575)[4006](https://fedlex.data.admin.ch/eli/fga/2002/577)).
 
@@ -69,24 +69,34 @@ Für die Tätigkeit im Ausland beträgt die Mahlzeiten- und Übernachtungsentsch
 
 Die Ratsmitglieder erhalten als Pauschalentschädigung für Reisen im Inland:
 
-- a. ein Generalabonnement 1. Klasse der schweizerischen Transportunternehmungen; oder
+- a. ein Generalabonnement 1. Klasse der schweizerischen Transportunternehmen; oder
 - b. einen Betrag in Höhe der dem Bund entstehenden Kosten eines solchen Abonnements.
-
-<sup>1bis</sup> Die Verwaltungsdelegation legt für Ratsmitglieder, die im Zeitpunkt ihrer Wahl den Wohnsitz im Ausland haben, weitergehende Entschädigungen fest. Die Distanz vom Wohnort wird dabei angemessen berücksichtigt.[^4-2]
 
 <sup>2</sup> Ratsmitgliedern, die ihr Motorfahrzeug benützen, werden die Parkgebühren zurückerstattet. Schäden, die bei diesen Fahrten am Motorfahrzeug entstehen, deckt der Bund.
 
-<sup>3</sup> In Sonderfällen erhalten Ratsmitglieder einen zusätzlichen Beitrag an effektive Reisekosten, vor allem für inländische Linienflüge von und nach Bern. Über die Gewährung und die Höhe dieses Beitrages entscheidet die Verwaltungsdelegation.
+<sup>3</sup> Für Reisen zu offiziellen parlamentarischen Anlässen im Ausland organisiert der Bund die notwendigen Billette.
 
 <sup>4</sup>
 
-Für Reisen zu Anlässen im Ausland besorgt der Bund die notwendigen Billette. Organisiert das Ratsmitglied seine Reise selbst, so werden ihm folgende Kosten erstattet:
+Flugreisen werden organisiert, wenn die Reisezeit mit dem Flugzeug kürzer ist als mit dem Zug und:
 
-- a. für Reisen, die mit Linienflügen ausgeführt werden können: die Hälfte der dem Bund entstehenden Kosten für einen Flug in der Business-Class;
-- b. für übrige Reisen: die Kosten für ein Bahnbillett der 1. Klasse ab der Schweizergrenze.
+- a. die Reisezeit mit dem Zug mindestens sechs Stunden beträgt; oder
+- b. die Reisezeit mit dem Zug weniger als sechs Stunden beträgt, mit einer Zugreise jedoch eine oder mehrere zusätzliche Übernachtungen notwendig werden.
 
-[^4-1]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Dez. 2002 ([AS 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [BBl 2002 4001](https://fedlex.data.admin.ch/eli/fga/2002/575)[4006](https://fedlex.data.admin.ch/eli/fga/2002/577)).
-[^4-2]: Eingefügt durch Ziff. I der V der BVers vom 18. März 2011 (Ratsmitglieder mit Wohnsitz im Ausland), in Kraft seit 5. Dez. 2011 ([AS 2011 5005](https://fedlex.data.admin.ch/eli/oc/2011/728); [BBl 2010 8759](https://fedlex.data.admin.ch/eli/fga/2010/1644)[8765](https://fedlex.data.admin.ch/eli/fga/2010/1646)).
+<sup>5</sup> Für die Berechnung der Flugreisezeit ist die Reisezeit vom nächstgelegenen inländischen internationalen Abflughafen vom Wohnort des Ratsmitglieds bis zum Ankunftsflughafen massgebend. Für die Berechnung der Zugreisezeit ist die Reisezeit vom nächst gelegenen Hauptbahnhof des möglichen Abflugorts bis zum Reiseziel massgebend.
+
+<sup>6</sup>
+
+Organisiert das Ratsmitglied seine Reise gemäss Absatz 3 ausnahmsweise selbst, so werden ihm folgende Kosten erstattet:
+
+- a. für Flugreisen gemäss Absatz 4, die mit Linienflügen ausgeführt werden können, die Hälfte der dem Bund entstehenden Flugkosten;
+- b. für übrige Reisen, die Kosten für eine Zugreise in der 1. Klasse ab der Schweizergrenze.
+
+<sup>7</sup> Die Verwaltungsdelegation kann in begründeten Fällen eine Flugreise anstelle einer Zugreise bewilligen. Sie kann den Entscheid an ein Mitglied der Verwaltungsdelegation delegieren. Die Einzelheiten regelt sie in einer Weisung.
+
+<sup>8</sup> Die Verwaltungsdelegation legt für Ratsmitglieder, die im Zeitpunkt ihrer Wahl den Wohnsitz im Ausland haben, weitergehende Entschädigungen fest. Die Distanz vom Wohnort wird dabei angemessen berücksichtigt.
+
+[^4-1]: Fassung gemäss Ziff. I der V der BVers vom 17. Dez. 2021, in Kraft seit 30. Mai 2022 ([AS 2022 141](https://fedlex.data.admin.ch/eli/oc/2022/141); [BBl 2021 2074](https://fedlex.data.admin.ch/eli/fga/2021/2074)).
 
 #### Art. 5
 

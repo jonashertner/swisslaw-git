@@ -3,18 +3,18 @@ sr: "171.211"
 title: "Ordinanza dell'Assemblea federale del 18 marzo 1988 concernente la legge sulle indennità parlamentari"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166"
 language: it
-version: 2014-09-01
+version: 2022-05-30
 adopted: 1988-03-18
 in_force: 1988-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166/20140901/it/xml/fedlex-data-admin-ch-eli-cc-1988-1166_1166_1166-20140901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1166_1166_1166/20140901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166/20220530/it/xml/fedlex-data-admin-ch-eli-cc-1988-1166_1166_1166-20220530-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1166_1166_1166/20220530/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza dell’Assemblea federale concernente la legge sulle indennità parlamentari****
+# Ordinanza dell’Assemblea federale concernente la legge sulle indennità parlamentari
 
-del 18 marzo 1988 (Stato 1° settembre 2014)[^t-1]
+del 18 marzo 1988 (Stato 30 maggio 2022) (Stato 30 maggio 2022)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° dic. 2002 ([RU 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3570](https://fedlex.data.admin.ch/eli/fga/2002/574)[3591](https://fedlex.data.admin.ch/eli/fga/2002/577)).
 
@@ -67,23 +67,33 @@ Per le attività all’estero, l’indennità per il vitto e quella di pernottam
 Quale contributo forfettario a copertura delle spese di viaggio all’interno del Paese il parlamentare riceve:
 
 - a. un abbonamento generale di 1<sup>a</sup> classe delle imprese svizzere di trasporto; oppure
-- b. un importo corrispondente al prezzo pagato dalla Confederazione per l’abbonamento generale.
-
-<sup>1bis</sup> La Delegazione amministrativa stabilisce indennità specifiche per parlamentari domiciliati all’estero al momento della loro elezione. Tiene adeguatamente conto della distanza dal luogo di domicilio.[^4-2]
+- b. un importo corrispondente al prezzo pagato dalla Confederazione per tale abbonamento.
 
 <sup>2</sup> Al parlamentare che viaggia con il proprio veicolo a motore sono rimborsate le tasse di parcheggio. La Confederazione copre i danni causati al veicolo durante le trasferte.
 
-<sup>3</sup> In casi speciali, la Confederazione può versare ai parlamentari un contributo supplementare a copertura delle spese di viaggio effettive, in particolare per i voli di linea interni da e per Berna. La concessione e l’importo di tale contributo sono decisi dalla Delegazione amministrativa.
+<sup>3</sup> La Confederazione procura i biglietti necessari per i viaggi effettuati per partecipare a manifestazioni parlamentari ufficiali all’estero.
 
 <sup>4</sup>
 
-La Confederazione procura i biglietti necessari per i viaggi effettuati per partecipare a manifestazioni all’estero. Se il parlamentare organizza il viaggio individualmente, la Confederazione gli rimborsa le seguenti spese:
+Sono organizzati viaggi in aereo se la durata del viaggio in aereo è inferiore a quella del viaggio in treno e se:
 
-- a. per i viaggi che possono essere effettuati con un volo di linea: la metà del prezzo pagato dalla Confederazione per un biglietto d’aereo in business class;
-- b. per gli altri viaggi: il prezzo di un biglietto ferroviario di prima classe a partire dalla frontiera svizzera.
+- a. la durata del viaggio in treno è di almeno sei ore; oppure
+- b. la durata del viaggio in treno è inferiore a sei ore, ma con un viaggio in treno si renderebbero necessari uno o più pernottamenti supplementari.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° dic. 2002 ([RU 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3570](https://fedlex.data.admin.ch/eli/fga/2002/574)[3591](https://fedlex.data.admin.ch/eli/fga/2002/577)).
-[^4-2]: Introdotto dal n. I dell’O dell’AF del 18 mar. 2011 (Parlamentari con domicilio all’estero), in vigore dal 5 dic. 2011 ([RU 2011 5005](https://fedlex.data.admin.ch/eli/oc/2011/728); [FF 2010 7761](https://fedlex.data.admin.ch/eli/fga/2010/1644)[7767](https://fedlex.data.admin.ch/eli/fga/2010/1646)).
+<sup>5</sup> Per il calcolo della durata del viaggio in aereo è determinante la durata del viaggio dall’aeroporto internazionale interno di partenza più vicino al domicilio del parlamentare fino all’aeroporto di arrivo. Per il calcolo della durata del viaggio in treno è determinante la durata del viaggio dalla stazione ferroviaria centrale più vicina al possibile aeroporto di partenza fino al luogo di destinazione.
+
+<sup>6</sup>
+
+Se, a titolo eccezionale, il parlamentare organizza individualmente il viaggio secondo il capoverso 3, la Confederazione gli rimborsa le seguenti spese:
+
+- a. per i viaggi in aereo di cui al capoverso 4 che possono essere effettuati con un volo di linea, la metà del prezzo pagato dalla Confederazione;
+- b. per gli altri viaggi, il prezzo di un biglietto ferroviario di prima classe a partire dalla frontiera svizzera.
+
+<sup>7</sup> In casi giustificati la Delegazione amministrativa può autorizzare un viaggio in aereo invece di un viaggio in treno. Può delegare tale decisione a un membro della Delegazione amministrativa. Essa disciplina i dettagli in istruzioni.
+
+<sup>8</sup> La Delegazione amministrativa stabilisce indennità specifiche per parlamentari domiciliati all’estero al momento della loro elezione. Tiene adeguatamente conto della distanza dal luogo di domicilio.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O dell’AF del 17 dic. 2021, in vigore dal 30 mag. 2022 ([RU 2022 141](https://fedlex.data.admin.ch/eli/oc/2022/141); [FF 2021 2074](https://fedlex.data.admin.ch/eli/fga/2021/2074)).
 
 #### Art. 5
 

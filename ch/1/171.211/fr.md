@@ -4,20 +4,20 @@ title: "Ordonnance de l'Assemblée fédérale du 18 mars 1988 relative à la loi
 short: OMAP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166"
 language: fr
-version: 2014-09-01
+version: 2022-05-30
 adopted: 1988-03-18
 in_force: 1988-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166/20140901/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1166_1166_1166-20140901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1166_1166_1166/20140901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166/20220530/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1166_1166_1166-20220530-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1166_1166_1166/20220530/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’Assemblée fédérale relative à la loi sur les moyens alloués aux parlementaires
 
-(OMAP)**[^t-1]**
+(OMAP)[^t-1]
 
-du 18 mars 1988 (Etat le 1<sup>er</sup> septembre 2014)
+du 18 mars 1988 (État le 30 mai 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574)[3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
 
@@ -67,26 +67,36 @@ Pour les activités à l’étranger, le montant du défraiement pour repas et c
 
 <sup>1</sup>
 
-A titre de défraiement forfaitaire, il est remis à chaque député pour les déplacements sur le territoire national:
+À titre de défraiement forfaitaire, il est remis à chaque député pour les déplacements sur le territoire national:
 
 - a. soit un abonnement général de première classe des entreprises suisses de transport;
 - b. soit une somme équivalant au prix payé par la Confédération pour un tel abonnement.
 
-<sup>1bis</sup> La Délégation administrative prévoit des indemnités spécifiques pour les députés qui, au moment de leur élection, sont domiciliés à l’étranger. Le montant de ces indemnités est déterminé en fonction de la distance séparant le lieu de domicile du lieu de séance.[^4-2]
-
 <sup>2</sup> La Confédération rembourse les taxes de parcage au député qui utilise son véhicule privé pour se rendre à une séance. Elle couvre également les dommages occasionnés au véhicule lors de ces déplacements.
 
-<sup>3</sup> Dans des cas particuliers, la Confédération peut verser aux députés un montant supplémentaire destiné à couvrir les frais de déplacement effectifs, notamment pour les vols intérieurs au départ ou à destination de Berne. La Délégation administrative décide du versement de ce montant et de son importance.
+<sup>3</sup> En ce qui concerne les manifestations parlementaires officielles qui ont lieu à l’étranger, la Confédération fournit les titres de transport nécessaires.
 
 <sup>4</sup>
 
-En ce qui concerne les manifestations qui ont lieu à l’étranger, la Confédération fournit les billets de train ou d’avion nécessaires. Si le député préfère organiser lui-même son déplacement, la Confédération lui rembourse:
+Le député peut voyager en avion lorsque la durée du voyage en avion est plus courte que celle du voyage en train et:
 
-- a. concernant les déplacements qu’il peut effectuer au moyen d’un avion de ligne: la moitié du prix payé par la Confédération pour un billet en classe affaires;
-- b. concernant les autres déplacements: le prix d’un billet de train pour un voyage en première classe, à partir de la frontière suisse.
+- a. lorsque la durée du voyage en train est d’au moins 6 heures, ou
+- b. lorsque la durée du voyage en train est inférieure à 6 heures, mais qu’un voyage en train entraîne une ou plusieurs nuits d’hôtel supplémentaires.
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574)[3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
-[^4-2]: Introduit par le ch. I de l’O de l’Ass. féd. du 18 mars 2011 (Députés domiciliés à l’étranger), en vigueur depuis le 5 déc. 2011 ([RO 2011 5005](https://fedlex.data.admin.ch/eli/oc/2011/728); [FF 2010 8009](https://fedlex.data.admin.ch/eli/fga/2010/1644)[8015](https://fedlex.data.admin.ch/eli/fga/2010/1646)).
+<sup>5</sup> Pour le calcul de la durée du voyage en avion, le temps de trajet entre l’aéroport de départ international en Suisse le plus proche du lieu de domicile du député et l’aéroport d’arrivée est déterminant. Pour le calcul de la durée du voyage en train, le temps de trajet entre la gare centrale la plus proche de l’aéroport de départ éventuel et la destination est déterminant.
+
+<sup>6</sup>
+
+Si, à titre exceptionnel, le député préfère organiser lui-même son déplacement conformément aux dispositions de l’al. 3, la Confédération lui rembourse:
+
+- a. concernant les voyages en avion visés à l’al. 4 qu’il peut effectuer au moyen d’un avion de ligne: la moitié du prix payé par la Confédération pour un billet;
+- b. concernant les autres déplacements: le prix d’un voyage en train en première classe, à partir de la frontière suisse.
+
+<sup>7</sup> Dans les cas justifiés, la Délégation administrative peut autoriser un voyage en avion à la place d’un voyage en train. Elle peut déléguer cette décision à un membre de la Délégation administrative. Elle règle les modalités dans une directive.
+
+<sup>8</sup> La Délégation administrative prévoit des indemnités spécifiques pour les députés qui, au moment de leur élection, sont domiciliés à l’étranger. Le montant de ces indemnités est déterminé en fonction de la distance séparant le lieu de domicile du lieu de séance.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 17 déc. 2021, en vigueur depuis le 30 mai 2022 ([RO 2022 141](https://fedlex.data.admin.ch/eli/oc/2022/141); [FF 2021 2074](https://fedlex.data.admin.ch/eli/fga/2021/2074)).
 
 #### Art. 5
 
@@ -192,7 +202,7 @@ La Confédération conclut une assurance qui, en cas de maladie ou d’accident 
 
 <sup>1</sup> La compensation allouée aux députés au titre de la perte de l’indemnité journalière leur est versée dès le début de la maladie ou la survenance de l’accident, pendant 730 jours calendaires au plus. Le droit de percevoir la compensation prend fin avec l’ouverture du droit à une rente invalidité.
 
-<sup>2</sup> Pendant les 30 premiers jours, le député perçoit 100 % de l’indemnité journalière. A partir du 31<sup>e</sup> jour, il n’en perçoit plus que 80 %.
+<sup>2</sup> Pendant les 30 premiers jours, le député perçoit 100 % de l’indemnité journalière. À partir du 31<sup>e</sup> jour, il n’en perçoit plus que 80 %.
 
 <sup>3</sup> Toute députée absente pour cause de congé maternité perçoit l’indemnité journalière.
 
