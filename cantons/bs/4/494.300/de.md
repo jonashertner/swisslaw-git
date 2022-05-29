@@ -3,13 +3,12 @@ canton: BS
 number: "494.300"
 title: Kulturfördergesetz
 language: de
-version: 2021-01-01
-valid_until: 2022-05-29
-version_adopted: 2019-09-18
+version: 2022-05-30
+version_adopted: 2022-03-23
 adopted: 2009-10-21
 in_force: 2010-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/494.300"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5121/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5830/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,11 +17,11 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5121/pdf_file"
 
 Kulturfördergesetz | Förderung von Wissenschaft, Kunst und Kultur
 
-Vom 21. Oktober 2009 (Stand 1. Januar 2021)
+Vom 21. Oktober 2009 (Stand 30. Mai 2022)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
-nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 09.0218.01 vom 17. März 2009 sowie in den Bericht der Bildungs- und Kulturkommission Nr. 09.0218.02 vom 11. Juni 2009, gestützt auf § 35 Abs. 1 der Verfassung des Kantons Basel-Stadt vom 23. März 2005[^ingress-1],
+nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. [09.0218.01](https://grosserrat.bs.ch/ratsbetrieb/geschaefte/200103815) vom 17. März 2009 sowie in den Bericht der Bildungs- und Kulturkommission Nr. [09.0218.02](https://grosserrat.bs.ch/ratsbetrieb/geschaefte/200103815) vom 11. Juni 2009, gestützt auf § 35 Abs. 1 der Verfassung des Kantons Basel-Stadt vom 23. März 2005[^ingress-1],
 
 beschliesst:
 
@@ -40,15 +39,15 @@ beschliesst:
 
 <sup>3</sup> Vorbehalten bleiben:
 
-– Gesetz über das Archivwesen (Archivgesetz) vom 11. September 1996[^1-1];
+\- Gesetz über das Archivwesen (Archivgesetz) vom 11. September 1996[^1-1];
 
-– Gesetz über die Museen des Kantons Basel-Stadt (Museumsgesetz) vom 16. Juni 1999[^1-2];
+\- Gesetz über die Museen des Kantons Basel-Stadt (Museumsgesetz) vom 16. Juni 1999[^1-2];
 
-– Gesetz über das Universitätsgut (Universitätsgutsgesetz) vom 16. Juni 1999[^1-3];
+\- Gesetz über das Universitätsgut (Universitätsgutsgesetz) vom 16. Juni 1999[^1-3];
 
-– Gesetz über den Denkmalschutz vom 20. März 1980[^1-4];
+\- Gesetz über den Denkmalschutz vom 20. März 1980[^1-4];
 
-– Gesetz betreffend Vorführung von Filmen vom 11. Februar 1971[^1-5].
+\- Gesetz betreffend Vorführung von Filmen vom 11. Februar 1971[^1-5].
 
 [^1-1]: SG [153.600](https://www.gesetzessammlung.bs.ch/data/153.600/de).
 [^1-2]: SG [451.100](https://www.gesetzessammlung.bs.ch/data/451.100/de).
@@ -72,7 +71,7 @@ beschliesst:
 
 <sup>6</sup> Er zeigt sich offen gegenüber neuen kulturellen Ausdrucksformen.
 
-<sup>7</sup> Er setzt sich insbesondere für die Förderung der Jugendkultur und entsprechende Rahmenbedingungen ein.
+<sup>7</sup> Er setzt sich insbesondere für die Förderung der Jugend- und Alternativkultur in allen Sparten und entsprechende Rahmenbedingungen ein.
 
 #### § 3
 
@@ -163,6 +162,8 @@ beschliesst:
 
 <sup>1</sup> Die Kulturförderung im Kanton wird insbesondere finanziert durch die im Budget eingestellten Mittel, von Dritten zur Verfügung gestellte Mittel und weitere öffentliche Beiträge.
 
+<sup>2</sup> Von den im Budget eingestellten Mitteln für die Kulturförderung werden mindestens 5 % für die Jugend- und Alternativkultur gemäss § 2 Abs. 7 eingesetzt. Der Regierungsrat berichtet dem Grossen Rat alle vier Jahre.
+
 #### § 12
 
 **Verfahren, Rechtsanspruch**
@@ -170,6 +171,12 @@ beschliesst:
 <sup>1</sup> Der Regierungsrat erlässt die zu diesem Gesetz notwendigen Verordnungen.
 
 <sup>2</sup> Dieses Gesetz gewährt keinen Rechtsanspruch auf staatliche Leistungen.
+
+#### § 12a
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Die Umsetzung des § 11 Abs. 2 erfolgt ab Inkrafttreten der Bestimmung stufenweise innert drei Jahren.
 
 #### § 13
 
