@@ -4,11 +4,11 @@ title: Standing Orders of the National Council of 3 October 2003 (SO-NC)
 short: SO-NC
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/514"
 language: en
-version: 2021-01-01
+version: 2022-05-30
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2003-514-20210101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20220530/en/xml/fedlex-data-admin-ch-eli-cc-2003-514-20220530-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20220530/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (SO-NC)
 
-of 3 October 2003 (Status as of 1 January 2021)
+of 3 October 2003 (Status as of 30 May 2022)
 
 The National Council,
 
@@ -245,11 +245,13 @@ The Legislature Planning Committee is constituted in the first session of the le
 
 **Sub-committees**
 
-<sup>1</sup> Every committee may, with the approval of the Bureau, establish its own sub-committee.
+<sup>1</sup> Every committee may establish its own sub-committee.[^14-1]
 
 <sup>2</sup> The committee issues the sub-committee with an assignment that specifies its task and sets a deadline for the submission of its reports.
 
 <sup>3</sup> The finance and the control committee may establish standing sub-committees to supervise certain areas on behalf of the committee.
+
+[^14-1]: Amended by No I of the NC Decree of 18 March 2022 (Improving the Functioning of Parliament, in particular in Crisis Situations), in force since 30 May 2021 ([AS 2022 295](https://fedlex.data.admin.ch/eli/oc/2022/295); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 15
 
@@ -1047,7 +1049,7 @@ The following persons are allowed access to the Chamber and its anterooms (the L
 
 The Standing Orders of the National Council of 22 June 1990[^63-1] are repealed.
 
-[^63-1]: [[AS 1990 954](https://fedlex.data.admin.ch/eli/oc/1990/954_954_954); [1991 2158](https://fedlex.data.admin.ch/eli/oc/1991/2158_2158_2158); [1992 505](https://fedlex.data.admin.ch/eli/oc/1992/505_505_505); [1994 362](https://fedlex.data.admin.ch/eli/oc/1994/362_362_362), [2150](https://fedlex.data.admin.ch/eli/oc/1994/2150_2150_2150); [1995 530](https://fedlex.data.admin.ch/eli/oc/1995/530_530_530), [4358](https://fedlex.data.admin.ch/eli/oc/1995/4358_4358_4358); [1998 782](https://fedlex.data.admin.ch/eli/oc/1998/782_782_782); [1999 161](https://fedlex.data.admin.ch/eli/oc/1999/24), [2612](https://fedlex.data.admin.ch/eli/oc/1999/405)]
+[^63-1]: [[AS 1990 954](https://fedlex.data.admin.ch/eli/oc/1990/954_954_954), [1991 2158](https://fedlex.data.admin.ch/eli/oc/1991/2158_2158_2158), [1992 505](https://fedlex.data.admin.ch/eli/oc/1992/505_505_505), [1994 362](https://fedlex.data.admin.ch/eli/oc/1994/362_362_362)[2150](https://fedlex.data.admin.ch/eli/oc/1994/2150_2150_2150), [1995 530](https://fedlex.data.admin.ch/eli/oc/1995/530_530_530)[4358](https://fedlex.data.admin.ch/eli/oc/1995/4358_4358_4358), [1998 782](https://fedlex.data.admin.ch/eli/oc/1998/782_782_782), [1999 161](https://fedlex.data.admin.ch/eli/oc/1999/24)[2612](https://fedlex.data.admin.ch/eli/oc/1999/405)]
 
 #### Art. 64
 

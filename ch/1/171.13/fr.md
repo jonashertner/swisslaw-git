@@ -4,11 +4,11 @@ title: Règlement du Conseil national du 3 octobre 2003 (RCN)
 short: RCN
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/514"
 language: fr
-version: 2021-01-01
+version: 2022-05-30
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-514-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20220530/fr/xml/fedlex-data-admin-ch-eli-cc-2003-514-20220530-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20220530/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20210101/fr"
 
 (RCN)
 
-du 3 octobre 2003 (Etat le 1<sup>er</sup> janvier 2021)
+du 3 octobre 2003 (État le 30 mai 2022)
 
 Le Conseil national,
 
@@ -243,11 +243,13 @@ Sauf disposition contraire de la loi ou d’une ordonnance de l’Assemblée fé
 
 **Sous-commissions**
 
-<sup>1</sup> Chaque commission peut, avec l’accord du bureau, instituer des sous-commissions en son sein.
+<sup>1</sup> Chaque commission peut instituer des sous-commissions en son sein.[^14-1]
 
 <sup>2</sup> Lorsqu’elle institue une sous-commission, la commission lui confie un mandat précis et lui fixe un délai pour la remise de son rapport.
 
 <sup>3</sup> La Commission des finances et la Commission de gestion peuvent instituer des sous-commissions permanentes, auxquelles elles confient une partie de leur domaine de compétences.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’A du CN du 18 mars 2022 (Amélioration du fonctionnement du Parlement, notamment en situation de crise), en vigueur depuis le 30 mai 2022 ([RO 2022 295](https://fedlex.data.admin.ch/eli/oc/2022/295); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 15
 
@@ -507,7 +509,7 @@ L’urgence est déclarée:
 [^30-2]: Nouvelle teneur selon le ch. I de l’A du CN du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), avec effet au 25 nov. 2013 ([RO 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^30-3]: Nouvelle teneur selon le ch. I de l’A du CN du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), avec effet au 25 nov. 2013 ([RO 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
-### a<sup>bis</sup>.**** Débat d’actualité
+### a<sup>bis</sup>. Débat d’actualité
 
 [^chap3-sec2-lvlabis-1]
 
@@ -560,7 +562,7 @@ L’urgence est déclarée:
 
 <sup>2</sup> Sur proposition d’un député, le conseil peut décider de débattre de la déclaration.
 
-### d.**** Programme de la législature
+### d. Programme de la législature
 
 [^chap3-sec2-lvld-1]
 
@@ -606,7 +608,7 @@ L’urgence est déclarée:
 
 [^33cbis-1]: Introduit par le ch. I de l’A du CN du 19 déc. 2008 (Rapport de gestion du Conseil fédéral) ([RO 2009 699](https://fedlex.data.admin.ch/eli/oc/2009/116); [FF 2008 985](https://fedlex.data.admin.ch/eli/fga/2008/229), [995](https://fedlex.data.admin.ch/eli/fga/2008/232)). Abrogé par le ch. I de l’A du CN du 29 sept. 2017 (Rapport de gestion du Conseil fédéral), avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 5141](https://fedlex.data.admin.ch/eli/oc/2017/563); [FF 2017 3241](https://fedlex.data.admin.ch/eli/fga/2017/776), [3247](https://fedlex.data.admin.ch/eli/fga/2017/778)).
 
-### f.**** Immunité relative
+### f. Immunité relative
 
 [^chap3-sec2-lvlf-1]
 
@@ -1072,7 +1074,7 @@ Le conseil se prononce:
 
 Le présent règlement entre en vigueur le 1<sup>er</sup> décembre 2003 en même temps que la loi sur le Parlement.
 
-## Dispositions transitoires de la modification du 3 octobre 2008****
+## Dispositions transitoires de la modification du 3 octobre 2008
 
 [^u1-1]
 
@@ -1086,7 +1088,7 @@ Tout groupe ayant droit à des sièges supplémentaires au sein des commissions 
 
 Les art. 28*a* et 28*b* s’appliquent aux initiatives parlementaires, motions et postulats qui n’ont pas encore été déposés au moment de l’entrée en vigueur de la modification du 3 octobre 2008.
 
-## Dispositions transitoires de la modification du 12 décembre 2014****
+## Dispositions transitoires de la modification du 12 décembre 2014
 
 [^u2-1]
 

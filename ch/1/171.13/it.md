@@ -4,11 +4,11 @@ title: Regolamento del Consiglio nazionale del 3 ottobre 2003 (RCN)
 short: RCN
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/514"
 language: it
-version: 2021-01-01
+version: 2022-05-30
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2003-514-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20220530/it/xml/fedlex-data-admin-ch-eli-cc-2003-514-20220530-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20220530/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20210101/it"
 
 (RCN)
 
-del 3 ottobre 2003 (Stato 1° gennaio 2021)
+del 3 ottobre 2003 (Stato 30 maggio 2022) (Stato 30 maggio 2022)
 
 Il Consiglio nazionale,
 
@@ -243,11 +243,13 @@ Nella prima sessione di ogni legislatura è istituita una commissione speciale i
 
 **Sottocommissioni**
 
-<sup>1</sup> Ogni commissione può istituire sottocommissioni al proprio interno.
+<sup>1</sup> Ogni commissione può istituire sottocommissioni al proprio interno.[^14-1]
 
 <sup>2</sup> La commissione definisce il mandato delle sue sottocommissioni precisandone i compiti e i termini entro cui riferire al plenum.
 
 <sup>3</sup> La Commissione delle finanze e la Commissione della gestione possono istituire sottocommissioni permanenti incaricate di trattare per loro singoli settori di compiti.
+
+[^14-1]: La mod. del 18 mar. 2022, in vigore dal 30 mag. 2022, concerne soltanto i testi tedesco e francese ([RU 2022 295](https://fedlex.data.admin.ch/eli/oc/2022/295); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 15
 
@@ -507,7 +509,7 @@ La dichiarazione d’urgenza compete:
 [^30-2]: Nuovo testo giusta il n. I del D del CN del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^30-3]: Nuovo testo giusta il n. I del D del CN del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
-### a<sup>bis</sup>.**** Dibattito d’attualità
+### a<sup>bis</sup>. Dibattito d’attualità
 
 [^chap3-sec2-lvlabis-1]
 
@@ -560,7 +562,7 @@ La dichiarazione d’urgenza compete:
 
 <sup>2</sup> Su proposta di un deputato, la Camera può decidere d’aprire la discussione su una tale dichiarazione.
 
-### d.**** Programma di legislatura
+### d. Programma di legislatura
 
 [^chap3-sec2-lvld-1]
 
@@ -606,7 +608,7 @@ La dichiarazione d’urgenza compete:
 
 [^33cbis-1]: Introdotto dal n. I del D del CN del 19 dic. 2008 (Rapporto di gestione del Consiglio federale) ([RU 2009 699](https://fedlex.data.admin.ch/eli/oc/2009/116); [FF 2008 939](https://fedlex.data.admin.ch/eli/fga/2008/229)[949](https://fedlex.data.admin.ch/eli/fga/2008/232)). Abrogato del n. I del D del CN del 29 set. 2017 (Rapporto di gestione del Consiglio federale), con effetto dal 1° gen. 2018 ([RU 2017 5141](https://fedlex.data.admin.ch/eli/oc/2017/563); [FF 2017 2977](https://fedlex.data.admin.ch/eli/fga/2017/776)[2983](https://fedlex.data.admin.ch/eli/fga/2017/778)).
 
-### f.**** Immunità relativa
+### f. Immunità relativa
 
 [^chap3-sec2-lvlf-1]
 
@@ -1070,7 +1072,7 @@ La Camera decide inoltre sui ricorsi:
 
 Il presente regolamento entra in vigore il 1° dicembre 2003, simultaneamente alla legge sul Parlamento.
 
-## Disposizioni transitorie della modifica del 3 ottobre 2008****
+## Disposizioni transitorie della modifica del 3 ottobre 2008
 
 [^u1-1]
 
@@ -1084,7 +1086,7 @@ Un gruppo parlamentare che, secondo l’articolo 15 capoverso 1 lettera a, ha di
 
 Gli articoli 28*a* e 28*b* si applicano alle iniziative parlamentari, alle mozioni e ai postulati non ancora presentati al momento dell’entrata in vigore della modifica del 3 ottobre 2008.
 
-## Disposizione transitoria della modifica del 12 dicembre 2014****
+## Disposizione transitoria della modifica del 12 dicembre 2014
 
 [^u2-1]
 

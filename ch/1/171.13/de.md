@@ -4,11 +4,11 @@ title: Geschäftsreglement des Nationalrates vom 3. Oktober 2003 (GRN)
 short: GRN
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/514"
 language: de
-version: 2021-01-01
+version: 2022-05-30
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2003-514-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20220530/de/xml/fedlex-data-admin-ch-eli-cc-2003-514-20220530-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20220530/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20210101/de"
 
 (GRN)
 
-vom 3. Oktober 2003 (Stand am 1. Januar 2021)
+vom 3. Oktober 2003 (Stand am 30. Mai 2022)
 
-Der Nationalrat (N),
+Der Nationalrat,
 
 gestützt auf Artikel 36 des Parlamentsgesetzes vom 13. Dezember 2002[^ingress-1] (ParlG), nach Einsicht in den Bericht der Staatspolitischen Kommission des Nationalrates vom 10. April 2003[^ingress-2],
 
@@ -243,11 +243,13 @@ Die Legislaturplanungskommission wird in der ersten Session einer Legislaturperi
 
 **Subkommissionen**
 
-<sup>1</sup> Jede Kommission kann mit Zustimmung des Büros aus ihrer Mitte Subkommissionen einsetzen.
+<sup>1</sup> Jede Kommission kann aus ihrer Mitte Subkommissionen einsetzen.[^14-1]
 
 <sup>2</sup> Die Kommission erteilt ihrer Subkommission einen Auftrag, der ihre Aufgabe umschreibt und ihr eine Frist für die Berichterstattung an die Kommission setzt.
 
 <sup>3</sup> Die Finanzkommission und die Geschäftsprüfungskommission können ständige Subkommissionen einsetzen, welche im Auftrag der Kommission einzelne Aufgabenbereiche betreuen.
+
+[^14-1]: Fassung gemäss Ziff. I des Beschlusses des N vom 18. März 2022 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 30. Mai 2022 ([AS 2022 295](https://fedlex.data.admin.ch/eli/oc/2022/295); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 15
 
@@ -507,7 +509,7 @@ Zuständig für die Dringlicherklärung ist:
 [^30-2]: Fassung gemäss Ziff. I des Beschlusses des N vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^30-3]: Fassung gemäss Ziff. I des Beschlusses des N vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
-### a<sup>bis</sup>.**** Aktuelle Debatte
+### a<sup>bis</sup>. Aktuelle Debatte
 
 [^chap3-sec2-lvlabis-1]
 
@@ -560,7 +562,7 @@ Zuständig für die Dringlicherklärung ist:
 
 <sup>2</sup> Der Rat kann auf Antrag eines Mitglieds eine Diskussion über die Erklärung beschliessen.
 
-### d.**** Legislaturplanung
+### d. Legislaturplanung
 
 [^chap3-sec2-lvld-1]
 
@@ -606,7 +608,7 @@ Zuständig für die Dringlicherklärung ist:
 
 [^33cbis-1]: Eingefügt durch Ziff. I des Beschlusses des N vom 19. Dez. 2008 (Geschäftsbericht des Bundesrates) ([AS 2009 699](https://fedlex.data.admin.ch/eli/oc/2009/116); [BBl 2008 1095](https://fedlex.data.admin.ch/eli/fga/2008/229)[1105](https://fedlex.data.admin.ch/eli/fga/2008/232)). Aufgehoben durch Ziff. I des Beschlusses vom 29. Sept. 2017 (Geschäftsbericht des Bundesrates), mit Wirkung seit 1. Jan. 2018 ([AS 2017 5141](https://fedlex.data.admin.ch/eli/oc/2017/563); [BBl 2017 3419](https://fedlex.data.admin.ch/eli/fga/2017/776)[3425](https://fedlex.data.admin.ch/eli/fga/2017/778)).
 
-### f.**** Relative Immunität
+### f. Relative Immunität
 
 [^chap3-sec2-lvlf-1]
 
@@ -1070,7 +1072,7 @@ Der Rat beschliesst:
 
 Dieses Reglement tritt zusammen mit dem Parlamentsgesetz auf den 1. Dezember 2003 in Kraft.
 
-## Übergangsbestimmungen zur Änderung vom 3. Oktober 2008****
+## Übergangsbestimmungen zur Änderung vom 3. Oktober 2008
 
 [^u1-1]
 
@@ -1084,7 +1086,7 @@ Einer Fraktion, welche nach Artikel 15 Absatz 1 Buchstabe a Anspruch auf zusätz
 
 Die Artikel 28*a* und 28*b* gelten für parlamentarische Initiativen, Motionen und Postulate, welche zum Zeitpunkt des Inkrafttretens der Änderung vom 3. Oktober 2008 noch nicht eingereicht worden sind.
 
-## Übergangsbestimmung zur Änderung vom 12. Dezember 2014****
+## Übergangsbestimmung zur Änderung vom 12. Dezember 2014
 
 [^u2-1]
 
