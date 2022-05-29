@@ -3,11 +3,11 @@ sr: "0.732.440"
 title: "Convenzione del 31 gennaio 1963 complementare alla Convenzione di Parigi del 29 luglio 1960 sulla responsabilità civile nel campo dell’energia nucleare, emendate dal Protocollo addizionale del 28 gennaio 1964, dal Protocollo del 16 novembre 1982 e dal Protocollo del 12 febbraio 2004"
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/45"
 language: it
-version: 2022-01-01
+version: 2022-05-30
 adopted: 1963-01-31
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/45/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2022-45-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/45/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/45/20220530/it/xml/fedlex-data-admin-ch-eli-cc-2022-45-20220530-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/45/20220530/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/45/20220101/it"
 
 Conclusa a Bruxelles il 31 gennaio 1963 Approvata dall’Assemblea federale il 13 giugno 2008[^t-2] Strumento di ratifica depositato dalla Svizzera l’11 marzo 2009 Entrata in vigore per la Svizzera il 1° gennaio 2022[^t-1]
 
-(Stato 1° gennaio 2022)
+(Stato 30 maggio 2022)
 
 [^t-1]: RU **2022** 45; FF **2007** 4957 Testo consolidato ufficioso della Conv. complementare di Bruxelles che incorpora le disposizioni dei tre Protocolli emendativi summenzionati.
 [^t-2]: Art. 1 cpv. 1 lett. b del DF 13 giu. 2008 ([RU 2022 42](https://fedlex.data.admin.ch/eli/oc/2022/42)).
@@ -278,7 +278,11 @@ II
 - e) Il Protocollo entrerà in vigore in conformità alle disposizioni dell’articolo 21 della Convenzione.
 - f) Il Governo belga comunicherà a tutti i Firmatari nonché ai Governi aderenti, la ricezione degli strumenti di ratifica, di accettazione, di approvazione o di adesione.
 
-## Campi di applicazione dell’11 gennaio 2022:
+## Campo di applicazione il 30 maggio 2022****
+
+[^annexu1-lvlu2-1]
+
+[^annexu1-lvlu2-1]: [RU 2022 45](https://fedlex.data.admin.ch/eli/oc/2022/45), [329](https://fedlex.data.admin.ch/eli/oc/2022/329). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
 
 ### Convenzione del 31 gennaio 1963 complementare e Protocollo addizionale del 28 gennaio 1964
 
@@ -289,6 +293,18 @@ II
 <tr><td>Groenlandia</td><td>4 settembre</td><td>1974</td><td>4 dicembre</td><td>1974</td></tr>
 <tr><td>Finlandia\*</td><td>14 gennaio</td><td>1977 A</td><td>14 aprile</td><td>1977</td></tr>
 <tr><td>Francia</td><td>30 marzo</td><td>1966</td><td>4 dicembre</td><td>1974</td></tr>
+<tr><td>[tab] Guadalupa</td><td>30 marzo</td><td>1966</td><td>4 dicembre</td><td>1974</td></tr>
+<tr><td>[tab] Guyana francese</td><td>30 marzo</td><td>1966</td><td>4 dicembre</td><td>1974</td></tr>
+<tr><td>[tab] Isole Wallis e Futuna</td><td>30 marzo</td><td>1966</td><td>4 dicembre</td><td>1974</td></tr>
+<tr><td>[tab] Martinica</td><td>30 marzo</td><td>1966</td><td>4 dicembre</td><td>1974</td></tr>
+<tr><td>[tab] Mayotte</td><td>30 marzo</td><td>1966</td><td>4 dicembre</td><td>1974</td></tr>
+<tr><td>[tab] Nuova Caledonia</td><td>30 marzo</td><td>1966</td><td>4 dicembre</td><td>1974</td></tr>
+<tr><td>[tab] Polinesia francese</td><td>30 marzo</td><td>1966</td><td>4 dicembre</td><td>1974</td></tr>
+<tr><td>[tab] Riunione</td><td>30 marzo</td><td>1966</td><td>4 dicembre</td><td>1974</td></tr>
+<tr><td>[tab] Saint Barthélemy</td><td>30 marzo</td><td>1966</td><td>4 dicembre</td><td>1974</td></tr>
+<tr><td>[tab] Saint Martin</td><td>30 marzo</td><td>1966</td><td>4 dicembre</td><td>1974</td></tr>
+<tr><td>[tab] St. Pierre e Miquelon</td><td>30 marzo</td><td>1966</td><td>4 dicembre</td><td>1974</td></tr>
+<tr><td>[tab] Territori australi e antartici francesi</td><td>30 marzo</td><td>1966</td><td>4 dicembre</td><td>1974</td></tr>
 <tr><td>Germania\*</td><td>1° ottobre</td><td>1975</td><td>1° gennaio</td><td>1976</td></tr>
 <tr><td>Italia</td><td>3 febbraio</td><td>1976</td><td>3 maggio</td><td>1976</td></tr>
 <tr><td>Norvegia\*</td><td>9 luglio</td><td>1973</td><td>4 dicembre</td><td>1974</td></tr>
@@ -301,8 +317,10 @@ II
 <tr><td>Spagna</td><td>27 luglio</td><td>1966</td><td>4 dicembre</td><td>1974</td></tr>
 <tr><td>Svezia</td><td>3 aprile</td><td>1968</td><td>4 dicembre</td><td>1974</td></tr>
 <tr><td>Svizzera</td><td>11 marzo</td><td>2009</td><td>1° gennaio</td><td>2022</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in francese ed in inglese si possono consultare sul sito internet del Governo belga: http://diplomatie.belgium.be/fr/traites o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. <sup>a</sup> La Convenzione complementare e il Protocollo addizionale non si applicano alle Isole Faeröer. [tab]</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Agenzia per l’energia nucleare dell’OCSE (NEA): www.oecd-nea.org &gt; Topics &gt; Nuclear Law &gt; Nuclear liability &gt; the 1960 Paris Convention on Third Party Liability in the Field of Nuclear Energy &gt; Resources, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. complementare e il Prot. addizionale non si applicano alle Isole Faeröer. [tab]</td></tr>
 </table>
+
+## Campi di applicazione dell’11 gennaio 2022:
 
 ## Protocollo di modifica del 16 novembre 1982 della Convenzione complementare del 31 gennaio 1963
 

@@ -3,24 +3,22 @@ sr: "0.732.440"
 title: "Convention du 31 janvier 1963 complémentaire à la Convention de Paris du 29 juillet 1960 sur la responsabilité civile dans le domaine de l’énergie nucléaire, amendée par le protocole additionnel du 28 janvier 1964, par le protocole du 16 novembre 1982 et par le protocole du 12 février 2004"
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/45"
 language: fr
-version: 2022-01-01
+version: 2022-05-30
 adopted: 1963-01-31
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/45/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-45-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/45/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/45/20220530/fr/xml/fedlex-data-admin-ch-eli-cc-2022-45-20220530-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/45/20220530/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention du 31 janvier 1963 complémentaire à la Convention de Paris du 29 juillet 1960 sur la responsabilité civile dans le domaine de l’énergie nucléaire, amendée par le protocole additionnel du 28 janvier 1964, par le protocole du 16 novembre 1982 et par le protocole du 12 février 2004****
 
-[^t-1]
-
-<sup>R</sup>O **2022** 45; FF **2007** 5125
+RO **2022** 45; FF **2007** 5125[^t-1]
 
 Conclue à Bruxelles le 31 janvier 1963 Approuvée par l’Assemblée fédérale le 13 juin 2008[^t-2] Instrument de ratification déposé par la Suisse le 11 mars 2009 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 2022
 
-(Etat le 1<sup>er</sup> janvier 2022)
+(Etat le 30 mai 2022)
 
 [^t-1]: Texte consolidé officieux de la Convention Complémentaire de Bruxelles incorporant les dispositions des trois Protocoles d’amendement susvisés.
 [^t-2]: Art. 1, al. 1, let. b, de l’AF du 13 juin 2008 ([RO 2022 42](https://fedlex.data.admin.ch/eli/oc/2022/42)).
@@ -279,19 +277,33 @@ II
 - e) Le présent Protocole entrera en vigueur conformément aux dispositions de l’art. 21 de la Convention.
 - f) Le Gouvernement Belge donnera communication à tous les Signataires ainsi qu’aux Gouvernements adhérents de la réception des instruments de ratification, d’acceptation, d’approbation ou d’adhésion.
 
-## Champs d’application du 11 janvier 2022:
+Champ d’application le 30 mai 2022**[^t-3]**
 
-### Convention du 31 janvier 1963 complémentaire et du Protocole additionnel du 28 janvier 1964
+[^t-3]: [RO 2022 45](https://fedlex.data.admin.ch/eli/oc/2022/45), [329](https://fedlex.data.admin.ch/eli/oc/2022/329). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
+
+Convention du 31 janvier 1963 complémentaire et du Protocole additionnel du 28 janvier 1964
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td>Allemagne\*</td><td>1<sup>er</sup> octobre</td><td>1975</td><td><sup>er</sup> janvier</td><td>1976</td></tr>
+<tr><td>Allemagne\*</td><td>1<sup>er</sup> octobre</td><td>1975</td><td>1<sup>er</sup> janvier</td><td>1976</td></tr>
 <tr><td>Belgique</td><td>20 août</td><td>1985</td><td>20 novembre</td><td>1985</td></tr>
 <tr><td>Danemark <sup>a</sup></td><td>4 septembre</td><td>1974</td><td>4 décembre</td><td>1974</td></tr>
 <tr><td>Groenland</td><td>4 septembre</td><td>1974</td><td>4 décembre</td><td>1974</td></tr>
 <tr><td>Espagne</td><td>27 juillet</td><td>1966</td><td>4 décembre</td><td>1974</td></tr>
 <tr><td>Finlande\*</td><td>14 janvier</td><td>1977 A</td><td>14 avril</td><td>1977</td></tr>
 <tr><td>France</td><td>30 mars</td><td>1966</td><td>4 décembre</td><td>1974</td></tr>
+<tr><td>[tab] Guadeloupe</td><td>30 mars</td><td>1966</td><td>4 décembre</td><td>1974</td></tr>
+<tr><td>[tab] Guyana (française)</td><td>30 mars</td><td>1966</td><td>4 décembre</td><td>1974</td></tr>
+<tr><td>[tab] Martinique</td><td>30 mars</td><td>1966</td><td>4 décembre</td><td>1974</td></tr>
+<tr><td>[tab] Mayotte</td><td>30 mars</td><td>1966</td><td>4 décembre</td><td>1974</td></tr>
+<tr><td>[tab] Nouvelle-Calédonie</td><td>30 mars</td><td>1966</td><td>4 décembre</td><td>1974</td></tr>
+<tr><td>[tab] Polynésie française</td><td>30 mars</td><td>1966</td><td>4 décembre</td><td>1974</td></tr>
+<tr><td>[tab] Réunion</td><td>30 mars</td><td>1966</td><td>4 décembre</td><td>1974</td></tr>
+<tr><td>[tab] Saint-Barthélemy</td><td>30 mars</td><td>1966</td><td>4 décembre</td><td>1974</td></tr>
+<tr><td>[tab] Saint-Martin</td><td>30 mars</td><td>1966</td><td>4 décembre</td><td>1974</td></tr>
+<tr><td>[tab] Saint-Pierre-et-Miquelon</td><td>30 mars</td><td>1966</td><td>4 décembre</td><td>1974</td></tr>
+<tr><td>[tab] Terres australes et antarctiques françaises</td><td>30 mars</td><td>1966</td><td>4 décembre</td><td>1974</td></tr>
+<tr><td>[tab] Îles de Wallis-et-Futuna</td><td>30 mars</td><td>1966</td><td>4 décembre</td><td>1974</td></tr>
 <tr><td>Italie</td><td>3 février</td><td>1976</td><td>3 mai</td><td>1976</td></tr>
 <tr><td>Norvège\*</td><td>9 juillet</td><td>1973</td><td>4 décembre</td><td>1974</td></tr>
 <tr><td>Pays-Bas\*</td><td>28 septembre</td><td>1979</td><td>28 décembre</td><td>1979</td></tr>
@@ -305,7 +317,9 @@ II
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Gouvernement belge: http://diplomatie.belgium.be/fr/traites/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention complémentaire et le Protocole additionnel ne s’appliquent pas aux îles Féroé. [tab]</td></tr>
 </table>
 
-### Protocole du 16 novembre 1982 portant modification de la Convention complémentaire du 31 janvier 1963
+Champs d’application le 11 janvier 2022
+
+Protocole du 16 novembre 1982 portant modification de la Convention complémentaire du 31 janvier 1963
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -328,7 +342,7 @@ II
 <tr><td colspan="5"><sup>a</sup> Le Protocole ne s’applique pas aux îles Féroé. [tab]</td></tr>
 </table>
 
-## Protocole du 12 février 2004 portant modification de la Convention complémentaire du 31 janvier 1963
+Protocole du 12 février 2004 portant modification de la Convention complémentaire du 31 janvier 1963
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>

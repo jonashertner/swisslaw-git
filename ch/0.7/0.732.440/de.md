@@ -3,11 +3,11 @@ sr: "0.732.440"
 title: "Zusatzübereinkommen vom 31. Januar 1963 zum Pariser Übereinkommen vom 29. Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie in der Fassung des Zusatzprotokolls vom 28. Januar 1964, des Protokolls vom 16. November 1982 und des Protokolls vom 12. Februar 2004"
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/45"
 language: de
-version: 2022-01-01
+version: 2022-05-30
 adopted: 1963-01-31
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/45/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2022-45-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/45/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/45/20220530/de/xml/fedlex-data-admin-ch-eli-cc-2022-45-20220530-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/45/20220530/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 11. März 2009
 
 In Kraft getreten für die Schweiz am 1. Januar 2022
 
-(Stand am 1. Januar 2022)
+(Stand am 30. Mai 2022)
 
 [^t-1]: Konsolidierter offiziöser Text des Brüsseler Zusatzübereinkommens einschliesslich der Bestimmungen der drei oben erwähnten Zusatzprotokolle.
 [^t-2]: Art. 1 Abs. 1 Bst. b des BB vom 13. Juni 2008 ([AS 2022 42](https://fedlex.data.admin.ch/eli/oc/2022/42))
@@ -286,9 +286,11 @@ II
 - e) Dieses Protokoll tritt nach Artikel 21 des Übereinkommens in Kraft.
 - f) Die belgische Regierung zeigt allen Unterzeichnern und allen beitretenden Regierungen den Eingang jeder Ratifikations-, Annahme-, Genehmigungs- und Beitrittsurkunde an.
 
-Geltungsbereiche am 11. Januar 2022:
+Geltungsbereich am 30. Mai 2022:**[^t-3]**
 
 ## Zusatzübereinkommen vom 31. Januar 1963 und des Zusatzprotokolls vom 28. Januar 1964
+
+[^t-3]: [AS 2022 45](https://fedlex.data.admin.ch/eli/oc/2022/45), [329](https://fedlex.data.admin.ch/eli/oc/2022/329). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -298,6 +300,18 @@ Geltungsbereiche am 11. Januar 2022:
 <tr><td>Grönland</td><td>4. September</td><td>1974</td><td>4. Dezember</td><td>1974</td></tr>
 <tr><td>Finnland\*</td><td>14. Januar</td><td>1977 B</td><td>14. April</td><td>1977</td></tr>
 <tr><td>Frankreich</td><td>30. März</td><td>1966</td><td>4. Dezember</td><td>1974</td></tr>
+<tr><td>Französisch Guyana</td><td>30. März</td><td>1966</td><td>4. Dezember</td><td>1974</td></tr>
+<tr><td>Französisch Polynesien</td><td>30. März</td><td>1966</td><td>4. Dezember</td><td>1974</td></tr>
+<tr><td>Französische Süd- und Antarktisgebiete</td><td>30. März</td><td>1966</td><td>4. Dezember</td><td>1974</td></tr>
+<tr><td>Guadeloupe</td><td>30. März</td><td>1966</td><td>4. Dezember</td><td>1974</td></tr>
+<tr><td>Martinique</td><td>30. März</td><td>1966</td><td>4. Dezember</td><td>1974</td></tr>
+<tr><td>Mayotte</td><td>30. März</td><td>1966</td><td>4. Dezember</td><td>1974</td></tr>
+<tr><td>Neukaledonien</td><td>30. März</td><td>1966</td><td>4. Dezember</td><td>1974</td></tr>
+<tr><td>Réunion</td><td>30. März</td><td>1966</td><td>4. Dezember</td><td>1974</td></tr>
+<tr><td>Saint-Barthélemy</td><td>30. März</td><td>1966</td><td>4. Dezember</td><td>1974</td></tr>
+<tr><td>St. Martin</td><td>30. März</td><td>1966</td><td>4. Dezember</td><td>1974</td></tr>
+<tr><td>St. Pierre und Miquelon</td><td>30. März</td><td>1966</td><td>4. Dezember</td><td>1974</td></tr>
+<tr><td>Wallis und Futuna</td><td>30. März</td><td>1966</td><td>4. Dezember</td><td>1974</td></tr>
 <tr><td>Italien</td><td>3. Februar</td><td>1976</td><td>3. Mai</td><td>1976</td></tr>
 <tr><td>Niederlande\*</td><td>28. September</td><td>1979</td><td>28. Dezember</td><td>1979</td></tr>
 <tr><td>Norwegen\*</td><td>9. Juli</td><td>1973</td><td>4. Dezember</td><td>1974</td></tr>
@@ -311,6 +325,8 @@ Geltungsbereiche am 11. Januar 2022:
 <tr><td>Jersey</td><td>9. Mai</td><td>1983</td><td>9. Mai</td><td>1983</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Belgischen Regierung: http://diplomatie.belgium.be/fr/traites/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Zusatzübereinkommen und das Zusatzprotokoll gelten nicht für die Färöer. [tab]</td></tr>
 </table>
+
+Geltungsbereiche am 11. Januar 2022:
 
 Protokoll vom 16. November 1982 zur Änderung des Zusatzübereinkommens vom 31. Januar 1963
 
