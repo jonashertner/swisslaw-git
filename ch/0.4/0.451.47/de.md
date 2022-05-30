@@ -3,11 +3,11 @@ sr: "0.451.47"
 title: Abkommen vom 15. August 1996 zur Erhaltung der afrikanisch-eurasischen wandernden Wasservögel (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/420"
 language: de
-version: 2019-07-02
+version: 2022-05-31
 adopted: 1996-08-15
 in_force: 1999-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/420/20190702/de/xml/fedlex-data-admin-ch-eli-cc-2004-420-20190702-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/420/20190702/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/420/20220531/de/xml/fedlex-data-admin-ch-eli-cc-2004-420-20220531-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/420/20220531/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Schweiz unterzeichnet am 15. Oktober 1996[^t-1]
 
 In Kraft getreten für die Schweiz am 1. November 1999
 
-(Stand am 2. Juli 2019)
+(Stand am 31. Mai 2022)
 
 [^t-1]: Ohne Ratifikationsvorbehalt.
 
@@ -953,7 +953,7 @@ Bemerkungen
 
 <table>
 <tr><th>Bestände</th><th>A</th><th>B</th><th>C</th></tr>
-<tr><td colspan="4">Familie ANATIDAE (Entenverwandte)</td></tr>
+<tr><td colspan="4">**Familie ANATIDAE (Entenverwandte)**</td></tr>
 <tr><td>*Dendrocygna viduata* (Witwenpfeifgans (-ente))</td><td></td><td></td><td></td></tr>
 <tr><td>– Westafrika (von Senegal bis Tschad)</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Ostafrika und südliches Afrika</td><td></td><td></td><td>1</td></tr>
@@ -1144,7 +1144,7 @@ Bemerkungen
 <tr><td>– Nordwesteuropa</td><td></td><td></td><td>1</td></tr>
 <tr><td>– W-Sibirien und NO-Europa/Schwarzes Meer und Mittelmeer</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Westsibirien/SW-Asien und NO-Afrika</td><td></td><td>2c</td><td></td></tr>
-<tr><td colspan="4">Familie PODICIPEDIDAE (Lappentaucher)</td></tr>
+<tr><td colspan="4">**Familie PODICIPEDIDAE (Lappentaucher)**</td></tr>
 <tr><td>*Tachybaptus ruficollis ruficollis* (Zwergtaucher)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa und Nordwestafrika</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Podiceps grisegena grisegena* (Rothalstaucher)</td><td></td><td></td><td></td></tr>
@@ -1167,7 +1167,7 @@ Bemerkungen
 <tr><td>– Westasien/Südwest- und Südasien</td><td>3c</td><td></td><td></td></tr>
 <tr><td>*Podiceps nigricollis gurneyi* (Schwarzhalstaucher)</td><td></td><td></td><td></td></tr>
 <tr><td>– Südliches Afrika</td><td>2</td><td></td><td></td></tr>
-<tr><td colspan="4">Familie PHOENICOPTERIDAE (Flamingos)</td></tr>
+<tr><td colspan="4">**Familie PHOENICOPTERIDAE (Flamingos)**</td></tr>
 <tr><td>*Phoenicopterus roseus* (Rosaflamingo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Westafrika</td><td>3a</td><td></td><td></td></tr>
 <tr><td>– Ostafrika</td><td>3a/3c</td><td></td><td></td></tr>
@@ -1179,7 +1179,7 @@ Bemerkungen
 <tr><td>– Westafrika</td><td>3a</td><td></td><td></td></tr>
 <tr><td>– Ostafrika</td><td>(3c)</td><td></td><td></td></tr>
 <tr><td>– Südliches Afrika (bis Madagaskar)</td><td>4</td><td></td><td></td></tr>
-<tr><td colspan="4">Familie PHAETHONTIDAE (Tropikvögel)</td></tr>
+<tr><td colspan="4">**Familie PHAETHONTIDAE (Tropikvögel)**</td></tr>
 <tr><td>*Phaethon aethereus aethereus* (Rotschnabel-Tropikvogel)</td><td></td><td></td><td></td></tr>
 <tr><td>– Südatlantik</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Phaethon aethereus indicus* (Rotschnabel-Tropikvogel)</td><td></td><td></td><td></td></tr>
@@ -1188,7 +1188,7 @@ Bemerkungen
 <tr><td>– Indischer Ozean</td><td></td><td>1</td><td></td></tr>
 <tr><td>*Phaethon lepturus lepturus* (Weissschwanz-Tropikvogel)</td><td></td><td></td><td></td></tr>
 <tr><td>– Westlicher Indischer Ozean</td><td></td><td>1</td><td></td></tr>
-<tr><td colspan="4">Familie RALLIDAE (Rallen)</td></tr>
+<tr><td colspan="4">**Familie RALLIDAE (Rallen)**</td></tr>
 <tr><td>*Sarothrura elegans reichenovi* (Tropfenralle)</td><td></td><td></td><td></td></tr>
 <tr><td>– S-Westafrika bis Zentralafrika</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Sarothrura elegans elegans* (Tropfenralle)</td><td></td><td></td><td></td></tr>
@@ -1232,7 +1232,7 @@ Bemerkungen
 <tr><td>– Nordwesteuropa (Wi)</td><td></td><td>2c</td><td></td></tr>
 <tr><td>– Schwarzes Meer und Mittelmeer (Wi)</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Südwestasien (Wi)</td><td></td><td></td><td>(1)</td></tr>
-<tr><td colspan="4">Familie GRUIDAE (Kraniche)</td></tr>
+<tr><td colspan="4">**Familie GRUIDAE (Kraniche)**</td></tr>
 <tr><td>*Balearica regulorum regulorum* (Südafrikanischer Kronenkranich)</td><td></td><td></td><td></td></tr>
 <tr><td>– Südliches Afrika (nördlich von Angola und S‑Simbabwe)</td><td>1b/1c</td><td></td><td></td></tr>
 <tr><td>*Balearica regulorum gibbericeps* (Südafrikanischer Kronenkranich)</td><td></td><td></td><td></td></tr>
@@ -1258,7 +1258,7 @@ Bemerkungen
 <tr><td>– Westsibirien/Südasien</td><td></td><td>(1)</td><td></td></tr>
 <tr><td>*Grus grus archibaldi* (Kranich)</td><td></td><td></td><td></td></tr>
 <tr><td>– Türkei und Georgien (Br)</td><td>1c</td><td></td><td></td></tr>
-<tr><td colspan="4">Familie GAVIIDAE (Seetaucher)</td></tr>
+<tr><td colspan="4">**Familie GAVIIDAE (Seetaucher)**</td></tr>
 <tr><td>*Gavia stellata* (Sterntaucher)</td><td></td><td></td><td></td></tr>
 <tr><td>– Nordwesteuropa (Wi)</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>– Kaspisches Meer, Schwarzes Meer und östliches Mittelmeer (Wi)</td><td>1c</td><td></td><td></td></tr>
@@ -1269,10 +1269,10 @@ Bemerkungen
 <tr><td>– Europa (Wi)</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Gavia adamsii* (Gelbschnabeltaucher)</td><td></td><td></td><td></td></tr>
 <tr><td>– Nordeuropa (Wi)</td><td>1c</td><td></td><td></td></tr>
-<tr><td colspan="4">Familie SPHENISCIDAE (Pinguine)</td></tr>
+<tr><td colspan="4">**Familie SPHENISCIDAE (Pinguine)**</td></tr>
 <tr><td>*Spheniscus demersus* (Brillenpinguin)</td><td></td><td></td><td></td></tr>
 <tr><td>– Südliches Afrika</td><td>1b/3c</td><td></td><td></td></tr>
-<tr><td colspan="4">Familie CICONIIDAE (Störche)</td></tr>
+<tr><td colspan="4">**Familie CICONIIDAE (Störche)**</td></tr>
 <tr><td>*Leptoptilos crumenifer* (Marabu)</td><td></td><td></td><td></td></tr>
 <tr><td>– Subsahara-Afrika</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Mycteria ibis* (Nimmersatt)</td><td></td><td></td><td></td></tr>
@@ -1292,7 +1292,7 @@ Bemerkungen
 <tr><td>– Westliches Europa und Nordwestafrika/Subsahara-Afrika</td><td></td><td>2b</td><td></td></tr>
 <tr><td>– Mittel- und Osteuropa/Subsahara-Afrika</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Westasien/Südwestasien</td><td>3c</td><td></td><td></td></tr>
-<tr><td colspan="4">Familie THRESKIORNITHIDAE (Ibisse)</td></tr>
+<tr><td colspan="4">**Familie THRESKIORNITHIDAE (Ibisse)**</td></tr>
 <tr><td>*Platalea alba* (Afrikanischer Löffler/Rosenfusslöffler)</td><td></td><td></td><td></td></tr>
 <tr><td>[tab] Subsahara-Afrika</td><td></td><td>1</td><td></td></tr>
 <tr><td>*Platalea leucorodia leucorodia* (Löffler)</td><td></td><td></td><td></td></tr>
@@ -1313,7 +1313,7 @@ Bemerkungen
 <tr><td>– Subsahara-Afrika (Br)</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Schwarzes Meer und Mittelmeer/Westafrika</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Südwestasien/Ostafrika</td><td></td><td>(1)</td><td></td></tr>
-<tr><td colspan="4">Familie ARDEIDAE (Reiher)</td></tr>
+<tr><td colspan="4">**Familie ARDEIDAE (Reiher)**</td></tr>
 <tr><td>*Botaurus stellaris stellaris* (Rohrdommel)</td><td></td><td></td><td></td></tr>
 <tr><td>– W-Europa, NW-Afrika (Br)</td><td>1c</td><td></td><td></td></tr>
 <tr><td>– Mittel- und O-Europa, Schwarzes Meer und östliches Mittelmeer (Br)</td><td></td><td></td><td>1</td></tr>
@@ -1384,10 +1384,10 @@ Bemerkungen
 <tr><td>– Südwestasien und Südasien</td><td>2</td><td></td><td></td></tr>
 <tr><td>*Egretta gularis dimorpha* (Küstenreiher)</td><td></td><td></td><td></td></tr>
 <tr><td>– Küste Ostafrikas</td><td>2</td><td></td><td></td></tr>
-<tr><td colspan="4">Familie BALAENICIPITIDAE (Schuhschnabel)</td></tr>
+<tr><td colspan="4">**Familie BALAENICIPITIDAE (Schuhschnabel)**</td></tr>
 <tr><td>*Balaeniceps rex* (Schuhschnabel)</td><td></td><td></td><td></td></tr>
 <tr><td>– Tropisches Zentralafrika</td><td>1b/1c</td><td></td><td></td></tr>
-<tr><td colspan="4">Familie PELECANIDAE (Pelikane)</td></tr>
+<tr><td colspan="4">**Familie PELECANIDAE (Pelikane)**</td></tr>
 <tr><td>*Pelecanus crispus* (Krauskopfpelikan)</td><td></td><td></td><td></td></tr>
 <tr><td>– Schwarzes Meer und Mittelmeer (Wi)</td><td>1a/1c</td><td></td><td></td></tr>
 <tr><td>– Südwestasien und Südasien (Wi)</td><td>1a/2</td><td></td><td></td></tr>
@@ -1398,19 +1398,19 @@ Bemerkungen
 <tr><td>– Westafrika</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Ostafrika</td><td></td><td>2c</td><td></td></tr>
 <tr><td>– Europa und Westasien (Br)</td><td>1a</td><td></td><td></td></tr>
-<tr><td colspan="4">Familie FREGATIDAE (Fregattvögel)</td></tr>
+<tr><td colspan="4">**Familie FREGATIDAE (Fregattvögel)**</td></tr>
 <tr><td>*Fregata ariel iredalei* (Arielfregattvogel)</td><td></td><td></td><td></td></tr>
 <tr><td>– Westlicher Indischer Ozean</td><td>2</td><td></td><td></td></tr>
 <tr><td>*Fregata minor aldabrensis* (Bindenfregattvogel)</td><td></td><td></td><td></td></tr>
 <tr><td>– Westlicher Indischer Ozean</td><td>2</td><td></td><td></td></tr>
-<tr><td colspan="4">Familie SULIDAE (Tölpel)</td></tr>
+<tr><td colspan="4">**Familie SULIDAE (Tölpel)**</td></tr>
 <tr><td>*Morus bassanus* (Basstölpel)</td><td></td><td></td><td></td></tr>
 <tr><td>– Nordatlantik</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Morus capensis* (Kaptölpel)</td><td></td><td></td><td></td></tr>
 <tr><td>– Südliches Afrika</td><td>1b</td><td></td><td></td></tr>
 <tr><td>*Sula dactylatra melanops* (Maskentölpel)</td><td></td><td></td><td></td></tr>
 <tr><td>– Westlicher Indischer Ozean</td><td>3c</td><td></td><td></td></tr>
-<tr><td colspan="4">Familie PHALACROCORACIDAE (Kormorane)</td></tr>
+<tr><td colspan="4">**Familie PHALACROCORACIDAE (Kormorane)**</td></tr>
 <tr><td>*Microcarbo coronatus* (Wahlberg-Scharbe)</td><td></td><td></td><td></td></tr>
 <tr><td>– Küste Südwestafrikas</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Microcarbo pygmaeus* (Zwergscharbe)</td><td></td><td></td><td></td></tr>
@@ -1435,23 +1435,23 @@ Bemerkungen
 <tr><td>– Golf von Aden, Sokotra, Arabisches Meer</td><td>1b</td><td></td><td></td></tr>
 <tr><td>*Phalacrocorax neglectus* (Küstenscharbe)</td><td></td><td></td><td></td></tr>
 <tr><td>– Küste Südwestafrikas</td><td>1b/2</td><td></td><td></td></tr>
-<tr><td colspan="4">Familie BURHINIDAE (Triele)</td></tr>
+<tr><td colspan="4">**Familie BURHINIDAE (Triele)**</td></tr>
 <tr><td>*Burhinus senegalensis* (Senegaltriel)</td><td></td><td></td><td></td></tr>
 <tr><td>– Westafrika</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Nordost- und Ostafrika</td><td>(3c)</td><td></td><td></td></tr>
-<tr><td colspan="4">Familie PLUVIANIDAE (Krokodilwächter)</td></tr>
+<tr><td colspan="4">**Familie PLUVIANIDAE (Krokodilwächter)**</td></tr>
 <tr><td>*Pluvianus aegyptius* (Krokodilwächter)</td><td></td><td></td><td></td></tr>
 <tr><td>– Westafrika</td><td></td><td>(1)</td><td></td></tr>
 <tr><td>– Ostafrika</td><td>1c</td><td></td><td></td></tr>
 <tr><td>– Unteres Kongobecken</td><td>1c</td><td></td><td></td></tr>
-<tr><td colspan="4">Familie HAEMATOPODIDAE (Austernfischer)</td></tr>
+<tr><td colspan="4">**Familie HAEMATOPODIDAE (Austernfischer)**</td></tr>
 <tr><td>*Haematopus moquini* (Schwarzer Austernfischer)</td><td></td><td></td><td></td></tr>
 <tr><td>– Küste des südlichen Afrikas</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Haematopus ostralegus ostralegus* (Austernfischer)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa/Süd- und Westeuropa sowie NW-Afrika</td><td>4</td><td></td><td></td></tr>
 <tr><td>*Haematopus ostralegus longipes* (Austernfischer)</td><td></td><td></td><td></td></tr>
 <tr><td>– SO-Europa und W-Asien/SW-Asien und NO‑Afrika</td><td>4</td><td></td><td></td></tr>
-<tr><td colspan="4">Familie RECURVIROSTRIDAE (Säbelschnäblerverwandte)</td></tr>
+<tr><td colspan="4">**Familie RECURVIROSTRIDAE (Säbelschnäblerverwandte)**</td></tr>
 <tr><td>*Recurvirostra avosetta* (Säbelschnäbler)</td><td></td><td></td><td></td></tr>
 <tr><td>– Südliches Afrika</td><td>2</td><td></td><td></td></tr>
 <tr><td>– Ostafrika</td><td></td><td>(1)</td><td></td></tr>
@@ -1464,7 +1464,7 @@ Bemerkungen
 <tr><td>– SW-Europa und Nordwestafrika/Westafrika</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Mitteleuropa und östliches Mittelmeer/ N‑Zentralafrika</td><td></td><td>1</td><td></td></tr>
 <tr><td>– W-, Zentral- und SW-Asien/SW-Asien und NO‑Afrika</td><td></td><td>(1)</td><td></td></tr>
-<tr><td colspan="4">Familie CHARADRIIDAE (Regenpfeiferverwandte)</td></tr>
+<tr><td colspan="4">**Familie CHARADRIIDAE (Regenpfeiferverwandte)**</td></tr>
 <tr><td>*Pluvialis squatarola squatarola* (Kiebitzregenpfeifer)</td><td></td><td></td><td></td></tr>
 <tr><td>– W-Sibirien /W-Europa und W-Afrika</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Mittel- und Ostsibirien/SW-Asien und südliches Afrika</td><td></td><td>1</td><td></td></tr>
@@ -1544,7 +1544,7 @@ Bemerkungen
 <tr><td>– SW-Asien/SW-Asien und NO-Afrika</td><td></td><td></td><td></td></tr>
 <tr><td>– Zentralasiatische Republiken/Südasien</td><td></td><td></td><td></td></tr>
 <tr><td>– Zentral- & SW-Asien/NO-Afrika, SW- & S‑Asien</td><td></td><td>1</td><td></td></tr>
-<tr><td colspan="4">Familie SCOLOPACIDAE (Schnepfenverwandte)</td></tr>
+<tr><td colspan="4">**Familie SCOLOPACIDAE (Schnepfenverwandte)**</td></tr>
 <tr><td>*Numenius phaeopus phaeopus* (Regenbrachvogel)</td><td></td><td></td><td></td></tr>
 <tr><td>– Nordeuropa/Westafrika</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>– Westsibirien/südliches Afrika und Ostafrika</td><td></td><td></td><td>(1)</td></tr>
@@ -1661,10 +1661,10 @@ Bemerkungen
 <tr><td>*Tringa stagnatilis* (Teichwasserläufer)</td><td></td><td></td><td></td></tr>
 <tr><td>– Osteuropa/West- und Zentralafrika</td><td></td><td>(1)</td><td></td></tr>
 <tr><td>– Westasien/SW-Asien, Ostafrika und südliches Afrika</td><td></td><td>1</td><td></td></tr>
-<tr><td colspan="4">Familie DROMADIDAE (Reihenläufer)</td></tr>
+<tr><td colspan="4">**Familie DROMADIDAE (Reihenläufer)**</td></tr>
 <tr><td>*Dromas ardeola* (Reiherläufer)</td><td></td><td></td><td></td></tr>
 <tr><td>– Nordwestlicher Indischer Ozean, Rotes Meer und Golf</td><td></td><td>1</td><td></td></tr>
-<tr><td colspan="4">Familie GLAREOLIDAE (Brachschwalbenverwandte)</td></tr>
+<tr><td colspan="4">**Familie GLAREOLIDAE (Brachschwalbenverwandte)**</td></tr>
 <tr><td>*Glareola pratincola pratincola* (Rotflügelbrachschwalbe)</td><td></td><td></td><td></td></tr>
 <tr><td>– Westeuropa und NW-Afrika/Westafrika</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Schwarzes Meer und O-Mittelmeer/östliche Sahelzone</td><td>2</td><td></td><td></td></tr>
@@ -1679,7 +1679,7 @@ Bemerkungen
 <tr><td>– Westafrika</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Glareola cinerea* (Weissachselbrachschwalbe)</td><td></td><td></td><td></td></tr>
 <tr><td>– SO-Westafrika und Zentralafrika</td><td>(2)</td><td></td><td></td></tr>
-<tr><td colspan="4">Familie LARIDAE (Möwen, Seeschwalben)</td></tr>
+<tr><td colspan="4">**Familie LARIDAE (Möwen, Seeschwalben)**</td></tr>
 <tr><td>*Anous stolidus plumbeigularis* (Noddiseeschwalbe)</td><td></td><td></td><td></td></tr>
 <tr><td>– Rotes Meer und Golf von Aden</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Anous tenuirostris tenuirostris* (Kleine Noddiseeschwalbe/Schlankschnabelnoddi)</td><td></td><td></td><td></td></tr>
@@ -1830,12 +1830,12 @@ Bemerkungen
 <tr><td>– Rotes Meer und Nordostafrika</td><td>2</td><td></td><td></td></tr>
 <tr><td>*Thalasseus bergii thalassinus* (Eilseeschwalbe)</td><td></td><td></td><td></td></tr>
 <tr><td>– Ostafrika und Seychellen</td><td>1c</td><td></td><td></td></tr>
-<tr><td colspan="4">Familie STERCORARIIDAE (Raubmöwen)</td></tr>
+<tr><td colspan="4">**Familie STERCORARIIDAE (Raubmöwen)**</td></tr>
 <tr><td>*Stercorarius longicaudus longicaudus* (Kleine Raubmöwe)</td><td></td><td></td><td></td></tr>
 <tr><td>– N-Europa & W-Sibirien/S-Atlantik</td><td>[tab]</td><td>[tab]</td><td>[tab] 1</td></tr>
 <tr><td>*Catharacta skua* (Grosse Raubmöwe)</td><td></td><td></td><td></td></tr>
 <tr><td>– N-Europa / N-Atlantik</td><td>[tab]</td><td>[tab] 1</td><td>[tab]</td></tr>
-<tr><td colspan="4">Familie ALCIDAE (Alken)</td></tr>
+<tr><td colspan="4">**Familie ALCIDAE (Alken)**</td></tr>
 <tr><td>*Fratercula arctica* (Papageitaucher)</td><td></td><td></td><td></td></tr>
 <tr><td>– Von Hudson Bay und Maine ostwärts bis S‑Grönland, Island, Bäreninsel, Norwegen bis S‑Nowaja Semlja</td><td>1b</td><td></td><td></td></tr>
 <tr><td>– NO-Kanada, N-Grönland bis Jan Mayen, Spitzbergen, N-Nowaja Semlja</td><td>1b</td><td></td><td></td></tr>
@@ -1868,7 +1868,7 @@ Bemerkungen
 
 [^annexu1-lvlu1-lvlu4-1]: Am 18. Februar 2019 legte die Schweiz einen Vorbehalt gemäss Artikel X des Abkommens vor, da das interne Genehmigungsverfahren für diese Änderung, wie es an der 7. Sitzung der Sitzung der Vertragsparteien des Abkommens angenommen wurde, nicht abgeschlossen werden konnte.
 
-Geltungsbereich am 21. März 2019**[^t-5]**
+Geltungsbereich am 31. Mai 2022**[^t-5]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1876,6 +1876,7 @@ Geltungsbereich am 21. März 2019**[^t-5]**
 <tr><td>Albanien</td><td>20. Juni</td><td>2001 B</td><td>1. September</td><td>2001</td></tr>
 <tr><td>Algerien</td><td>4. Juli</td><td>2006 B</td><td>1. Oktober</td><td>2006</td></tr>
 <tr><td>Äquatorialguinea</td><td>3. Oktober</td><td>2002 B</td><td>1. Januar</td><td>2003</td></tr>
+<tr><td>Armenien</td><td>9. April</td><td>2020 B</td><td>1. Juli</td><td>2020</td></tr>
 <tr><td>Äthiopien</td><td>3. November</td><td>2009 B</td><td>1. Februar</td><td>2010</td></tr>
 <tr><td>Belarus\*</td><td>15. Januar</td><td>2016 B</td><td>1. April</td><td>2016</td></tr>
 <tr><td>Belgien</td><td>3. März</td><td>2006</td><td>1. Juni</td><td>2006</td></tr>
@@ -1890,7 +1891,7 @@ Geltungsbereich am 21. März 2019**[^t-5]**
 <tr><td>Dschibuti</td><td>31. Dezember</td><td>2003 B</td><td>1. März</td><td>2004</td></tr>
 <tr><td>Estland\*</td><td>1. August</td><td>2008 B</td><td>1. November</td><td>2008</td></tr>
 <tr><td>Eswatini</td><td>23. Oktober</td><td>2012 B</td><td>1. Januar</td><td>2013</td></tr>
-<tr><td>Europäische Union</td><td>27. Juli</td><td>2005</td><td>1. Oktober</td><td>2005</td></tr>
+<tr><td>Europäische Union (EU)\*</td><td>27. Juli</td><td>2005</td><td>1. Oktober</td><td>2005</td></tr>
 <tr><td>Finnland\*</td><td>29. Oktober</td><td>1999</td><td>1. Januar</td><td>2000</td></tr>
 <tr><td>Frankreich</td><td>30. September</td><td>2003</td><td>1. Dezember</td><td>2003</td></tr>
 <tr><td>Gabun</td><td>10. September</td><td>2012 B</td><td>1. Dezember</td><td>2012</td></tr>
@@ -1913,6 +1914,7 @@ Geltungsbereich am 21. März 2019**[^t-5]**
 <tr><td>Litauen</td><td>23. August</td><td>2004 B</td><td>1. November</td><td>2004</td></tr>
 <tr><td>Luxemburg</td><td>12. September</td><td>2003</td><td>1. Dezember</td><td>2003</td></tr>
 <tr><td>Madagaskar</td><td>12. Oktober</td><td>2006 B</td><td>1. Januar</td><td>2007</td></tr>
+<tr><td>Malawi</td><td>25. Juni</td><td>2019 B</td><td>1. September</td><td>2019</td></tr>
 <tr><td>Mali</td><td>18. Oktober</td><td>1999</td><td>1. Januar</td><td>2000</td></tr>
 <tr><td>Marokko</td><td>24. September</td><td>2012</td><td>1. Dezember</td><td>2012</td></tr>
 <tr><td>Mauretanien</td><td>25. Februar</td><td>2015 B</td><td>1. Mai</td><td>2015</td></tr>
@@ -1944,6 +1946,7 @@ Geltungsbereich am 21. März 2019**[^t-5]**
 <tr><td>Tschad</td><td>1. August</td><td>2011 B</td><td>1. November</td><td>2011</td></tr>
 <tr><td>Tschechische Republik\*</td><td>23. Juni</td><td>2006 B</td><td>1. September</td><td>2006</td></tr>
 <tr><td>Tunesien</td><td>26. April</td><td>2005 B</td><td>1. Juli</td><td>2005</td></tr>
+<tr><td>Turkmenistan</td><td>27. Oktober</td><td>2020 B</td><td>1. Januar</td><td>2021</td></tr>
 <tr><td>Uganda</td><td>22. September</td><td>2000 B</td><td>1. Dezember</td><td>2000</td></tr>
 <tr><td>Ukraine</td><td>18. Oktober</td><td>2002</td><td>1. Januar</td><td>2003</td></tr>
 <tr><td>Ungarn\*</td><td>17. Dezember</td><td>2002 B</td><td>1. März</td><td>2003</td></tr>
@@ -1957,8 +1960,8 @@ Geltungsbereich am 21. März 2019**[^t-5]**
 <tr><td>Zentralafrikanische Republik</td><td>15. Oktober</td><td>2018 B</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Zypern</td><td>19. Juni</td><td>2008 B</td><td>1. September</td><td>2008</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite des Aussenministeriums der Niederlande https://treatydatabase.overheid.nl/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern (in Französisch und Englisch) bezogen werden.</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Aussenministeriums der Niederlande https://treatydatabase.overheid.nl/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Mit einem Vorbehalt betreffend Grönland.</td></tr>
 </table>
 
-[^t-5]: [AS 2004 3249](https://fedlex.data.admin.ch/eli/oc/2004/420), [2006 807](https://fedlex.data.admin.ch/eli/oc/2006/125)[3335](https://fedlex.data.admin.ch/eli/oc/2006/522), [2009 1131](https://fedlex.data.admin.ch/eli/oc/2009/181), [2011 6329](https://fedlex.data.admin.ch/eli/oc/2011/889), [2013 1389](https://fedlex.data.admin.ch/eli/oc/2013/330), **2017** 2537, [2019 1139](https://fedlex.data.admin.ch/eli/oc/2019/217). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-5]: [AS 2004 3249](https://fedlex.data.admin.ch/eli/oc/2004/420); [2006 807](https://fedlex.data.admin.ch/eli/oc/2006/125), [3335](https://fedlex.data.admin.ch/eli/oc/2006/522); [2009 1131](https://fedlex.data.admin.ch/eli/oc/2009/181); [2011 6329](https://fedlex.data.admin.ch/eli/oc/2011/889); [2013 1389](https://fedlex.data.admin.ch/eli/oc/2013/330); [2017 2485](https://fedlex.data.admin.ch/eli/oc/2017/234); [2019 1139](https://fedlex.data.admin.ch/eli/oc/2019/217); [2022 331](https://fedlex.data.admin.ch/eli/oc/2022/331). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty

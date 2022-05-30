@@ -3,11 +3,11 @@ sr: "0.451.47"
 title: "Accordo del 15 agosto 1996 sulla conservazione degli uccelli acquatici migratori dell'Africa-Eurasia (con allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/420"
 language: it
-version: 2019-07-02
+version: 2022-05-31
 adopted: 1996-08-15
 in_force: 1999-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/420/20190702/it/xml/fedlex-data-admin-ch-eli-cc-2004-420-20190702-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/420/20190702/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/420/20220531/it/xml/fedlex-data-admin-ch-eli-cc-2004-420-20220531-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/420/20220531/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,13 +18,9 @@ RU **2004** 3249
 
 Traduzione
 
-Concluso all’Aia il 15 agosto 1996
+Concluso all’Aia il 15 agosto 1996 Firmato dalla Svizzera il 15 ottobre 1996[^t-1] Entrato in vigore per la Svizzera il 1° novembre 1999
 
-Firmato dalla Svizzera il 15 ottobre 1996[^t-1]
-
-Entrato in vigore per la Svizzera il 1° novembre 1999
-
-(Stato 2 luglio 2019)
+(Stato 31 maggio 2022)
 
 [^t-1]: Senza riserva di ratifica.
 
@@ -657,7 +653,7 @@ Allegato 3*[^t-3]*
 
 ## Piano d’azione
 
-[^t-3]: Nuovo testo giusta l'em. dell’8 dic. 2018 ([RU 2019 1139](https://fedlex.data.admin.ch/eli/oc/2019/217)). Aggiornato dalla correzione del 2 lug. 2019, in vigore dal 2 lug. 2019 ([RU 2019 2015](https://fedlex.data.admin.ch/eli/oc/2019/371)).
+[^t-3]: Nuovo testo giusta l’em. dell’8 dic. 2018 ([RU 2019 1139](https://fedlex.data.admin.ch/eli/oc/2019/217)). Aggiornato dalla correzione del 2 lug. 2019, in vigore dal 2 lug. 2019 ([RU 2019 2015](https://fedlex.data.admin.ch/eli/oc/2019/371)).
 
 ### 1 Campo d’applicazione
 
@@ -952,7 +948,7 @@ Note
 
 <table>
 <tr><th>Popolazioni</th><th>A</th><th>B</th><th>C</th></tr>
-<tr><td colspan="4">Famiglia ANATIDAE (Anatre, oche, cigni)</td></tr>
+<tr><td colspan="4">**Famiglia ANATIDAE (Anatre, oche, cigni)**</td></tr>
 <tr><td>*Dendrocygna viduata* (Anatra fischiatrice facciabianca)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa O (dal Senegal al Ciad)</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Africa E e S</td><td></td><td></td><td>1</td></tr>
@@ -1143,7 +1139,7 @@ Note
 <tr><td>– Europa NO</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Siberia O ed Europa NE/Mar Nero e Mediterraneo</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Siberia O/Asia SO e Africa NE</td><td></td><td>2c</td><td></td></tr>
-<tr><td colspan="4">Famiglia PODICIPEDIDAE (Svassi)</td></tr>
+<tr><td colspan="4">**Famiglia** **PODICIPEDIDAE** **(Svassi)**</td></tr>
 <tr><td>*Tachybaptus ruficollis ruficollis* (Tuffetto)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa e Africa NO</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Podiceps grisegena grisegena* (Svasso collorosso)</td><td></td><td></td><td></td></tr>
@@ -1166,7 +1162,7 @@ Note
 <tr><td>– Asia O/Asia SO e S</td><td>3c</td><td></td><td></td></tr>
 <tr><td>*Podiceps nigricollis gurneyi* (Svasso piccolo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa S</td><td>2</td><td></td><td></td></tr>
-<tr><td colspan="4">Famiglia PHOENICOPTERIDAE (Fenicotteri)</td></tr>
+<tr><td colspan="4">**Famiglia** **PHOENICOPTERIDAE (Fenicotteri)**</td></tr>
 <tr><td>*Phoenicopterus roseus* (Fenicottero)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa O</td><td>3a</td><td></td><td></td></tr>
 <tr><td>– Africa E</td><td>3a/3c</td><td></td><td></td></tr>
@@ -1178,7 +1174,7 @@ Note
 <tr><td>– Africa O</td><td>3a</td><td></td><td></td></tr>
 <tr><td>– Africa E</td><td>(3c)</td><td></td><td></td></tr>
 <tr><td>– Africa S (fino al Madagascar)</td><td>4</td><td></td><td></td></tr>
-<tr><td colspan="4">Famiglia PHAETHONTIDAE (Fetonti)</td></tr>
+<tr><td colspan="4">**Famiglia** **PHAETHONTIDAE** **(Fetonti)**</td></tr>
 <tr><td>*Phaethon aetherus aethereus* (Fetonte beccorosso)</td><td></td><td></td><td></td></tr>
 <tr><td>– Atlantico S</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Phaethon aetherus indicus* (Fetonte beccorosso)</td><td></td><td></td><td></td></tr>
@@ -1187,7 +1183,7 @@ Note
 <tr><td>– Oceano Indiano</td><td></td><td>1</td><td></td></tr>
 <tr><td>*Phaethon lepturus lepturus* (Fetonte codabianca)</td><td></td><td></td><td></td></tr>
 <tr><td>– Oceano Indiano O</td><td></td><td>1</td><td></td></tr>
-<tr><td colspan="4">Famiglia RALLIDAE (Rallidi, folaga, gallinella d’acqua e simili)</td></tr>
+<tr><td colspan="4">**Famiglia RALLIDAE (Rallidi, folaga, gallinella d’acqua e simili)**</td></tr>
 <tr><td>*Sarothrura elegans reichenovi* (Schiribilla macchiefulve)</td><td></td><td></td><td></td></tr>
 <tr><td>– dall’Africa SO all’Africa centrale</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Sarothrura elegans elegans* (Schiribilla macchiefulve)</td><td></td><td></td><td></td></tr>
@@ -1231,7 +1227,7 @@ Note
 <tr><td>– Europa NO (svern)</td><td></td><td>2c</td><td></td></tr>
 <tr><td>– Mar Nero e Mediterraneo (svern)</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Asia SO (svern)</td><td></td><td></td><td>(1)</td></tr>
-<tr><td colspan="4">Famiglia GRUIDAE (Gru)</td></tr>
+<tr><td colspan="4">**Famiglia GRUIDAE (Gru)**</td></tr>
 <tr><td>*Balearica regulorum regulorum* (Gru coronata grigia)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa S (a N di Angola e Zimbabwe S)</td><td>1b/1c</td><td></td><td></td></tr>
 <tr><td>*Balearica regulorum gibbericeps* (Gru coronata grigia)</td><td></td><td></td><td></td></tr>
@@ -1257,7 +1253,7 @@ Note
 <tr><td>– Siberia O/Asia S</td><td></td><td>(1)</td><td></td></tr>
 <tr><td>*Grus grus archibaldi* (Gru)</td><td></td><td></td><td></td></tr>
 <tr><td>[tab] Turchia e Georgia (rip)</td><td>1c</td><td></td><td></td></tr>
-<tr><td colspan="4">Famiglia GAVIIDAE (Strolaghe)</td></tr>
+<tr><td colspan="4">**Famiglia GAVIIDAE (Strolaghe)**</td></tr>
 <tr><td>*Gavia stellata* (Strolaga minore)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa NO (svern)</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>– Mar Caspio, Mar Nero e Mediterraneo E (svern)</td><td>1c</td><td></td><td></td></tr>
@@ -1268,10 +1264,10 @@ Note
 <tr><td>– Europa (svern)</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Gavia adamsii* (Strolaga beccogiallo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa N (svern)</td><td>1c</td><td></td><td></td></tr>
-<tr><td colspan="4">Famiglia SPHENISCIDAE (Pinguini)</td></tr>
+<tr><td colspan="4">**Famiglia SPHENISCIDAE (Pinguini)**</td></tr>
 <tr><td>*Spheniscus demersus* (Pinguino africano; pinguino del Capo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa S</td><td>1b/3c</td><td></td><td></td></tr>
-<tr><td colspan="4">Famiglia CICONIIDAE (Cigogne)</td></tr>
+<tr><td colspan="4">**Famiglia CICONIIDAE (Cigogne)**</td></tr>
 <tr><td>*Leptoptilos crumenifer* (Marabù africano)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa subsahariana</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Mycteria ibis* (Tantalo africano)</td><td></td><td></td><td></td></tr>
@@ -1291,7 +1287,7 @@ Note
 <tr><td>– Europa O e Africa NO/Africa subsahariana</td><td></td><td>2b</td><td></td></tr>
 <tr><td>– Europa centrale ed E/Africa subsahariana</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Asia O/Asia SO</td><td>3c</td><td></td><td></td></tr>
-<tr><td colspan="4">Famiglia THRESKIORNITHIDAE (Ibis, Spatole)</td></tr>
+<tr><td colspan="4">**Famiglia THRESKIORNITHIDAE (Ibis, Spatole)**</td></tr>
 <tr><td>*Platalea alba* (Spatola bianca)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa subsahariana</td><td></td><td>1</td><td></td></tr>
 <tr><td>*Platalea leucorodia leucorodia* (Spatola)</td><td></td><td></td><td></td></tr>
@@ -1312,7 +1308,7 @@ Note
 <tr><td>– Africa subsahariana (rip)</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Mar Nero e Mediterraneo/Africa O</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Asia SO/Africa E</td><td></td><td>(1)</td><td></td></tr>
-<tr><td colspan="4">Famiglia ARDEIDAE (Aironi, tarabusi, nitticore)</td></tr>
+<tr><td colspan="4">**Famiglia ARDEIDAE (Aironi, tarabusi, nitticore)**</td></tr>
 <tr><td>*Botaurus stellaris stellaris* (Tarabuso)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa O, Africa NO (rip)</td><td>1c</td><td></td><td></td></tr>
 <tr><td>– Europa centrale ed E/Mar Nero e Mediterraneo E (rip)</td><td></td><td></td><td>1</td></tr>
@@ -1383,10 +1379,10 @@ Note
 <tr><td>– Asia SO e Asia S</td><td>2</td><td></td><td></td></tr>
 <tr><td>*Egretta gularis dimorpha* (Airone schistaceo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa costiera E</td><td>2</td><td></td><td></td></tr>
-<tr><td colspan="4">Famiglia BALAENICIPITIDAE (Becco a scarpa)</td></tr>
+<tr><td colspan="4">**Famiglia BALAENICIPITIDAE (Becco a scarpa)**</td></tr>
 <tr><td>*Balaeniceps rex* (Becco a scarpa)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa centro-tropicale</td><td>1b/1c</td><td></td><td></td></tr>
-<tr><td colspan="4">Famiglia PELECANIDAE (Pellicani)</td></tr>
+<tr><td colspan="4">**Famiglia PELECANIDAE (Pellicani)**</td></tr>
 <tr><td>*Pelecanus crispus* (Pellicano riccio)</td><td></td><td></td><td></td></tr>
 <tr><td>– Mar Nero e Mediterraneo (svern)</td><td>1a/1c</td><td></td><td></td></tr>
 <tr><td>– Asia SO e Asia S (svern)</td><td>1a/2</td><td></td><td></td></tr>
@@ -1397,19 +1393,19 @@ Note
 <tr><td>– Africa O</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Africa E</td><td></td><td>2c</td><td></td></tr>
 <tr><td>– Europa e Asia O (rip)</td><td>1a</td><td></td><td></td></tr>
-<tr><td colspan="4">Famiglia FREGATIDAE (Fregate)</td></tr>
+<tr><td colspan="4">**Famiglia FREGATIDAE (Fregate)**</td></tr>
 <tr><td>*Fregata ariel iredalei* (Fregata ariel)</td><td></td><td></td><td></td></tr>
 <tr><td>– Oceano Indiano O</td><td>2</td><td></td><td></td></tr>
 <tr><td>*Fregata minor aldabrensis* (Fregata minore)</td><td></td><td></td><td></td></tr>
 <tr><td>– Oceano Indiano O</td><td>2</td><td></td><td></td></tr>
-<tr><td colspan="4">Famiglia SULIDAE (Sule)</td></tr>
+<tr><td colspan="4">**Famiglia SULIDAE (Sule)**</td></tr>
 <tr><td>*Morus bassanus* (Sula settentrionale; sula bassana)</td><td></td><td></td><td></td></tr>
 <tr><td>– Atlantico N</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Morus capensis* (Sula del Capo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa S</td><td>1b</td><td></td><td></td></tr>
 <tr><td>*Sula dactylatra melanops* (Sula mascherata)</td><td></td><td></td><td></td></tr>
 <tr><td>– Oceano Indiano O</td><td>3c</td><td></td><td></td></tr>
-<tr><td colspan="4">Famiglia PHALACROCORACIDAE (Cormorani)</td></tr>
+<tr><td colspan="4">**Famiglia PHALACROCORACIDAE (Cormorani)**</td></tr>
 <tr><td>*Microcarbo coronatus* (Cormorano coronato)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa costiera SO</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Microcarbo pygmaeus* (Marangone minore)</td><td></td><td></td><td></td></tr>
@@ -1434,23 +1430,23 @@ Note
 <tr><td>– Golfo di Aden, Socotra, Mare Arabico</td><td>1b</td><td></td><td></td></tr>
 <tr><td>*Phalacrocorax neglectus* (Cormorano di riva africano)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa costiera SO</td><td>1b/2</td><td></td><td></td></tr>
-<tr><td colspan="4">Famiglia BURHINIDAE (Occhioni)</td></tr>
+<tr><td colspan="4">**Famiglia BURHINIDAE (Occhioni)**</td></tr>
 <tr><td>*Burhinus senegalensis* (Occhione del Senegal)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa O</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Africa NE ed E</td><td>(3c)</td><td></td><td></td></tr>
-<tr><td colspan="4">Famiglia PLUVIANIDAE (Guardiano dei coccodrilli)</td></tr>
+<tr><td colspan="4">**Famiglia PLUVIANIDAE (Guardiano dei coccodrilli)**</td></tr>
 <tr><td>*Pluvianus aegyptius* (Guardiano dei coccodrilli)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa O</td><td></td><td>(1)</td><td></td></tr>
 <tr><td>– Africa E</td><td>1c</td><td></td><td></td></tr>
 <tr><td>– Bacino inferiore del Congo</td><td>1c</td><td></td><td></td></tr>
-<tr><td colspan="4">Famiglia HAEMATOPODIDAE (Beccacce di mare)</td></tr>
+<tr><td colspan="4">**Famiglia HAEMATOPODIDAE (Beccacce di mare)**</td></tr>
 <tr><td>*Haematopus moquini* (Beccaccia di mare nera africana)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa costiera S</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Haematopus ostralegus ostralegus* (Beccaccia di mare)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa/Europa S e O e Africa NO</td><td>4</td><td></td><td></td></tr>
 <tr><td>*Haematopus ostralegus longipes* (Beccaccia di mare)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa SE e Asia O/Asia SO e Africa NE</td><td>4</td><td></td><td></td></tr>
-<tr><td colspan="4">Famiglia RECURVIROSTRIDAE (Avocette, Cavaliere d’Italia)</td></tr>
+<tr><td colspan="4">**Famiglia RECURVIROSTRIDAE (Avocette, Cavaliere d’Italia)**</td></tr>
 <tr><td>*Recurvirostra avosetta* (Avocetta)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa S</td><td>2</td><td></td><td></td></tr>
 <tr><td>– Africa E</td><td></td><td>(1)</td><td></td></tr>
@@ -1463,7 +1459,7 @@ Note
 <tr><td>– Europa SO e Africa NO/Africa O</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Europa centrale e Mediterraneo E/Africa centrale, Africa N</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Asia O, centrale e SO/Asia SO e Africa NE</td><td></td><td>(1)</td><td></td></tr>
-<tr><td colspan="4">Famiglia CHARADRIIDAE (Pivieri, pavoncelle)</td></tr>
+<tr><td colspan="4">**Famiglia CHARADRIIDAE (Pivieri, pavoncelle)**</td></tr>
 <tr><td>*Pluvialis squatarola squatarola* (Pivieressa)</td><td></td><td></td><td></td></tr>
 <tr><td>– Siberia O/Europa O e Africa O</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Siberia E e centrale/Asia SO, Africa E e S</td><td></td><td>1</td><td></td></tr>
@@ -1541,7 +1537,7 @@ Note
 <tr><td>– Asia centrale/S, Asia SO, Africa NE</td><td>1a/1b/2</td><td></td><td></td></tr>
 <tr><td>*Vanellus leucurus* (Pavoncella codabianca)</td><td></td><td></td><td></td></tr>
 <tr><td>– Asia centrale & Asia SO/Africa NE, Asia SO & S</td><td></td><td>1</td><td></td></tr>
-<tr><td colspan="4">Famiglia SCOLOPACIDAE (Beccacce, beccaccini, piovanelli, falaropi e affini)</td></tr>
+<tr><td colspan="4">**Famiglia SCOLOPACIDAE (Beccacce, beccaccini, piovanelli, falaropi e affini)**</td></tr>
 <tr><td>*Numenius phaeopus phaeopus* (Chiurlo piccolo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa N/Africa O</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>– Siberia O/Africa S ed E</td><td></td><td></td><td>(1)</td></tr>
@@ -1658,10 +1654,10 @@ Note
 <tr><td>*Tringa stagnatilis* (Albastrello)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa E/Africa O e centrale</td><td></td><td>(1)</td><td></td></tr>
 <tr><td>– Asia O/Asia SO, Africa E e S</td><td></td><td>1</td><td></td></tr>
-<tr><td colspan="4">Famiglia DROMADIDAE (Dromas)</td></tr>
+<tr><td colspan="4">**Famiglia DROMADIDAE (Dromas)**</td></tr>
 <tr><td>*Dromas ardeola* (Droma)</td><td></td><td></td><td></td></tr>
 <tr><td>– Oceano Indiano NO, Mar Rosso e Golfo</td><td></td><td>1</td><td></td></tr>
-<tr><td colspan="4">Famiglia GLAREOLIDAE (Pernici di mare e corrioni)</td></tr>
+<tr><td colspan="4">**Famiglia GLAREOLIDAE (Pernici di mare e corrioni)**</td></tr>
 <tr><td>*Glareola pratincola pratincola* (Pernice di mare)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa O e Africa NO/Africa O</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Mar Nero e Mediterraneo E/zona E del Sahel</td><td>2</td><td></td><td></td></tr>
@@ -1676,7 +1672,7 @@ Note
 <tr><td>– Africa O</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Glareola cinerea* (Pernice di mare cenerina)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa occidentale SE e Africa centrale</td><td>(2)</td><td></td><td></td></tr>
-<tr><td colspan="4">Famiglia LARIDAE (Gabbiani, sterne, becchi a cesoie)</td></tr>
+<tr><td colspan="4">**Famiglia LARIDAE (Gabbiani, sterne, becchi a cesoie)**</td></tr>
 <tr><td>*Anous stolidus plumbeigularis* (Sterna stolida bruna)</td><td></td><td></td><td></td></tr>
 <tr><td>– Mar Rosso e Golfo di Aden</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Anous tenuirostris tenuirostris* (Sterna stolida minore)</td><td></td><td></td><td></td></tr>
@@ -1827,12 +1823,12 @@ Note
 <tr><td>– Mar Rosso e Africa NE</td><td>2</td><td></td><td></td></tr>
 <tr><td>*Thalasseus bergii thalassinus* (Beccapesci di Berg)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa E e Seychelles</td><td>1c</td><td></td><td></td></tr>
-<tr><td colspan="4">Famiglia STERCORARIIDAE (Stercorari)</td></tr>
+<tr><td colspan="4">**Famiglia STERCORARIIDAE (Stercorari)**</td></tr>
 <tr><td>*Stercorarius longicaudus longicaudus* (Labbo codalunga)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa N & Siberia O/Atlantico S</td><td>[tab]</td><td>[tab]</td><td>[tab] 1</td></tr>
 <tr><td>*Catharacta skua* (Stercorario maggiore)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa N/Atlantico N</td><td>[tab]</td><td>[tab] 1</td><td>[tab]</td></tr>
-<tr><td colspan="4">Famiglia ALCIDAE (Pulcinelle di mare, urie, gazze di mare e affini)</td></tr>
+<tr><td colspan="4">**Famiglia ALCIDAE (Pulcinelle di mare, urie, gazze di mare e affini)**</td></tr>
 <tr><td>*Fratercula arctica* (Pulcinella di mare)</td><td></td><td></td><td></td></tr>
 <tr><td>– Dalla Baia di Hudson e dal Maine E fino alla Groenlandia S, Islanda, isola di Bear, dalla Norvegia alla Nuova Zemlya S</td><td>1b</td><td></td><td></td></tr>
 <tr><td>– Canada NE, Groenlandia N fino a Jan Mayen, Svalbard, Nuova Zemlya N</td><td>1b</td><td></td><td></td></tr>
@@ -1865,12 +1861,13 @@ Note
 
 [^annex3-lvlu1-lvlu8-lvlu4-1]: Il 18 feb. 2019 la Svizzera ha presentato una riserva secondo l’art. X dell’Acc. poiché la procedura interna d’approvazione per questo emendamento, quale è stata adottata alla settima Conferenza delle Parti, non è stata conclusa.
 
-Campo d’applicazione il 21 marzo 2019**[^t-4]**
+Campo d’applicazione il 31 maggio 2022**[^t-4]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>20 giugno</td><td>2001 A</td><td>1° settembre</td><td>2001</td></tr>
 <tr><td>Algeria</td><td>4 luglio</td><td>2006 A</td><td>1° ottobre</td><td>2006</td></tr>
+<tr><td>Armenia</td><td>9 aprile</td><td>2020 A</td><td>1° luglio</td><td>2020</td></tr>
 <tr><td>Belarus<sup>\*</sup></td><td>15 gennaio</td><td>2016 A</td><td>1° aprile</td><td>2016</td></tr>
 <tr><td>Belgio</td><td>3 marzo</td><td>2006</td><td>1° giugno</td><td>2006</td></tr>
 <tr><td>Benin</td><td>26 ottobre</td><td>1999 F</td><td>1° gennaio</td><td>2000</td></tr>
@@ -1913,6 +1910,7 @@ Campo d’applicazione il 21 marzo 2019**[^t-4]**
 <tr><td>Lussemburgo</td><td>12 settembre</td><td>2003</td><td>1° dicembre</td><td>2003</td></tr>
 <tr><td>Macedonia del Nord</td><td>1° novembre</td><td>1999 A</td><td>1° febbraio</td><td>2000</td></tr>
 <tr><td>Madagascar</td><td>12 ottobre</td><td>2006 A</td><td>1° gennaio</td><td>2007</td></tr>
+<tr><td>Malawi</td><td>25 giugno</td><td>2019 A</td><td>1° settembre</td><td>2019</td></tr>
 <tr><td>Mali</td><td>18 ottobre</td><td>1999</td><td>1° gennaio</td><td>2000</td></tr>
 <tr><td>Marocco</td><td>24 settembre</td><td>2012</td><td>1° dicembre</td><td>2012</td></tr>
 <tr><td>Mauritania</td><td>25 febbraio</td><td>2015 A</td><td>1° maggio</td><td>2015</td></tr>
@@ -1947,14 +1945,15 @@ Campo d’applicazione il 21 marzo 2019**[^t-4]**
 <tr><td>Tanzania</td><td>31 agosto</td><td>1999</td><td>1° novembre</td><td>1999</td></tr>
 <tr><td>Togo</td><td>22 marzo</td><td>1999</td><td>1° novembre</td><td>1999</td></tr>
 <tr><td>Tunisia</td><td>26 aprile</td><td>2005 A</td><td>1° luglio</td><td>2005</td></tr>
+<tr><td>Turkmenistan</td><td>27 ottobre</td><td>2020 A</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>Ucraina</td><td>18 ottobre</td><td>2002</td><td>1° gennaio</td><td>2003</td></tr>
 <tr><td>Uganda</td><td>22 settembre</td><td>2000 A</td><td>1° dicembre</td><td>2000</td></tr>
 <tr><td>Ungheria<sup>\*</sup></td><td>17 dicembre</td><td>2002 A</td><td>1° marzo</td><td>2003</td></tr>
-<tr><td>Unione europea</td><td>27 luglio</td><td>2005</td><td>1° ottobre</td><td>2005</td></tr>
+<tr><td>Unione europea (UE) <sup>\*</sup></td><td>27 luglio</td><td>2005</td><td>1° ottobre</td><td>2005</td></tr>
 <tr><td>Uzbekistan</td><td>30 gennaio</td><td>2004 A</td><td>1° aprile</td><td>2004</td></tr>
 <tr><td>Zimbabwe</td><td>8 marzo</td><td>2012 A</td><td>1° giugno</td><td>2012</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, in inglese, possono essere consultati sul sito Internet del Ministero degli Affari esteri dei Paesi Bassi: https://treatydatabase.overheid.nl/ oppure ottenuti (in francese e inglese) presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Con una riserva riguardante la Groenlandia.</td></tr>
 </table>
 
-[^t-4]: [RU 2004 3249](https://fedlex.data.admin.ch/eli/oc/2004/420), [2006 807](https://fedlex.data.admin.ch/eli/oc/2006/125)[3335](https://fedlex.data.admin.ch/eli/oc/2006/522), [2009 1131](https://fedlex.data.admin.ch/eli/oc/2009/181), [2011 6329](https://fedlex.data.admin.ch/eli/oc/2011/889), [2013 1389](https://fedlex.data.admin.ch/eli/oc/2013/330), **2017** 2537 e [2019 1139](https://fedlex.data.admin.ch/eli/oc/2019/217). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-4]: [RU 2004 3249](https://fedlex.data.admin.ch/eli/oc/2004/420); [2006 807](https://fedlex.data.admin.ch/eli/oc/2006/125), [3335](https://fedlex.data.admin.ch/eli/oc/2006/522); [2009 1131](https://fedlex.data.admin.ch/eli/oc/2009/181); [2011 6329](https://fedlex.data.admin.ch/eli/oc/2011/889); [2013 1389](https://fedlex.data.admin.ch/eli/oc/2013/330); [2017 2485](https://fedlex.data.admin.ch/eli/oc/2017/234); [2019 1139](https://fedlex.data.admin.ch/eli/oc/2019/217); [2022 331](https://fedlex.data.admin.ch/eli/oc/2022/331). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty

@@ -3,11 +3,11 @@ sr: "0.451.47"
 title: "Accord du 15 août 1996 sur la conservation des oiseaux d'eaux migrateurs d'Afrique-Eurasie (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/420"
 language: fr
-version: 2019-07-02
+version: 2022-05-31
 adopted: 1996-08-15
 in_force: 1999-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/420/20190702/fr/xml/fedlex-data-admin-ch-eli-cc-2004-420-20190702-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/420/20190702/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/420/20220531/fr/xml/fedlex-data-admin-ch-eli-cc-2004-420-20220531-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/420/20220531/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Signé par la Suisse le 15 octobre 1996[^t-1]
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> novembre 1999
 
-(Etat le 2 juillet 2019)
+(Etat le 31 mai 2022)
 
 [^t-1]: Sans réserve de ratification.
 
@@ -46,7 +46,7 @@ reconnaissant la nécessité de prendre des mesures immédiates pour mettre un t
 
 convaincues que la conclusion d’un accord multilatéral et sa mise en œuvre par des mesures coordonnées et concertées contribueront d’une manière significative à une conservation efficace des oiseaux d’eau migrateurs et de leurs habitats et auront une incidence bénéfique sur de nombreuses autres espèces de faune et de flore;
 
-reconnaissant que l’application efficace d’un tel accord nécessitera une aide à certains Etats de l’aire de répartition pour la recherche, la formation et la surveillance continue relative aux espèces migratrices d’oiseaux d’eau et à leurs habitats, pour la gestion de ces habitats et pour la création ou l’amélioration d’institutions scientifiques et administratives chargées de la mise en œuvre de l’accord,
+reconnaissant que l’application efficace d’un tel accord nécessitera une aide à certains États de l’aire de répartition pour la recherche, la formation et la surveillance continue relative aux espèces migratrices d’oiseaux d’eau et à leurs habitats, pour la gestion de ces habitats et pour la création ou l’amélioration d’institutions scientifiques et administratives chargées de la mise en œuvre de l’accord,
 
 sont convenues de ce qui suit:
 
@@ -80,7 +80,7 @@ Aux fins du présent Accord:
 
 **Principes fondamentaux**
 
-<sup>1.</sup> Les Parties prennent des mesures coordonnées pour maintenir ou rétablir les espèces d’oiseaux d’eau migrateurs dans un état de conservation favorable. A ces fins, elles prennent, dans les limites de leur juridiction nationale, les mesures prescrites à l’art. III, ainsi que les mesures particulières prévues dans le Plan d’action prévu à l’art. IV du présent Accord.
+<sup>1.</sup> Les Parties prennent des mesures coordonnées pour maintenir ou rétablir les espèces d’oiseaux d’eau migrateurs dans un état de conservation favorable. À ces fins, elles prennent, dans les limites de leur juridiction nationale, les mesures prescrites à l’art. III, ainsi que les mesures particulières prévues dans le Plan d’action prévu à l’art. IV du présent Accord.
 
 <sup>2.</sup> Dans la mise en application des mesures du par. 1 ci-dessus, les Parties devraient prendre en considération le principe de précaution.
 
@@ -92,7 +92,7 @@ Aux fins du présent Accord:
 
 <sup>2.</sup>
 
-A cette fin, les Parties:
+À cette fin, les Parties:
 
 - (a) accordent une protection aussi stricte aux oiseaux d’eau migrateurs en danger dans la zone de l’accord que celle qui est prévue aux par. 4 et 5 de l’art. III de la Convention;
 - (b) s’assurent que toute utilisation d’oiseaux d’eau migrateurs est fondée sur une évaluation faite à partir des meilleures connaissances disponibles sur l’écologie de ces oiseaux, ainsi que sur le principe de l’utilisation durable de ces espèces et des systèmes écologiques dont ils dépendent;
@@ -136,10 +136,10 @@ Un Plan d’action constitue l’Annexe 3 du présent Accord. Ce Plan précise l
 
 Chaque Partie:
 
-- (a) désigne la ou les Autorité(s) chargée(s) de la mise en œuvre du présent Accord qui, entre autres, exercera (exerceront) un suivi de toutes les activités susceptibles d’avoir un impact sur l’état de conservation des espèces d’oiseaux d’eau migrateurs à l’égard desquelles elle est un Etat de l’aire de répartition;
+- (a) désigne la ou les Autorité(s) chargée(s) de la mise en œuvre du présent Accord qui, entre autres, exercera (exerceront) un suivi de toutes les activités susceptibles d’avoir un impact sur l’état de conservation des espèces d’oiseaux d’eau migrateurs à l’égard desquelles elle est un État de l’aire de répartition;
 - (b) désigne un point de contact pour les autres Parties; son nom et son adresse sont communiqués sans délai au secrétariat de l’accord et sont transmis immédiatement par le secrétariat aux autres Parties;
 - (c) prépare pour chaque session ordinaire de la Réunion des Parties, à partir de sa deuxième session, un rapport sur l’application par chaque Partie de l’accord en se référant particulièrement aux mesures de conservation qu’elle a prises. La structure de ce rapport est établie par la première session de la Réunion des Parties et revue, si nécessaire, à l’occasion d’une session ultérieure de la Réunion des Parties. Chaque rapport est soumis au secrétariat de l’accord au plus tard cent vingt jours avant l’ouverture de la session ordinaire de la Réunion des Parties pour laquelle il a été préparé, et copie en est transmise immédiatement aux autres Parties par le secrétariat de l’accord.
-- 2\. (a) Chaque Partie contribue au budget de l’accord conformément au barème des contributions établi par l’Organisation des Nations Unies. Aucune Partie qui est un Etat de l’aire de répartition ne peut être appelée à apporter une contribution supérieure à 25 % du budget total. Il ne peut être exigé d’aucune organisation d’intégration économique régionale une contribution supérieure à 2,5 % des frais administratifs;
+- 2\. (a) Chaque Partie contribue au budget de l’accord conformément au barème des contributions établi par l’Organisation des Nations Unies. Aucune Partie qui est un État de l’aire de répartition ne peut être appelée à apporter une contribution supérieure à 25 % du budget total. Il ne peut être exigé d’aucune organisation d’intégration économique régionale une contribution supérieure à 2,5 % des frais administratifs;
 - (b) les décisions relatives au budget, y compris une modification éventuelle du barème des contributions, sont adoptées par la Réunion des Parties par consensus.
 
 <sup>3.</sup> La Réunion des Parties peut créer un fonds de conservation alimenté par des contributions volontaires des Parties ou par toute autre source dans le but de financer la surveillance continue, la recherche, la formation ainsi que des projets concernant la conservation, y compris la protection et la gestion, des oiseaux d’eau migrateurs.
@@ -154,17 +154,17 @@ Chaque Partie:
 
 <sup>2.</sup> Le dépositaire convoque, en consultation avec le Secrétariat de la Convention, une session de la Réunion des Parties un an au plus tard après la date à laquelle le présent Accord est entré en vigueur. Par la suite, le secrétariat de l’accord convoque, en consultation avec le Secrétariat de la Convention, des sessions ordinaires de la Réunion des Parties à des intervalles de trois ans au plus, à moins que la Réunion n’en décide autrement. Dans la mesure du possible, ces sessions devraient être tenues à l’occasion des réunions ordinaires de la Conférence des Parties à la Convention.
 
-<sup>3.</sup> A la demande écrite d’au moins un tiers des Parties, le secrétariat de l’accord convoque une session extraordinaire de la Réunion des Parties.
+<sup>3.</sup> À la demande écrite d’au moins un tiers des Parties, le secrétariat de l’accord convoque une session extraordinaire de la Réunion des Parties.
 
-<sup>4.</sup> L’Organisation des Nations Unies, ses institutions spécialisées, l’Agence internationale de l’énergie atomique, tout Etat non Partie au présent Accord, et les secrétariats des conventions internationales concernées, entre autres, par la conservation, y compris la protection et la gestion, des oiseaux d’eau, peuvent être représentés aux sessions de la Réunion des Parties par des observateurs. Toute organisation ou toute institution techniquement qualifiée dans les domaines ci-dessus mentionnés ou dans la recherche sur les oiseaux d’eau migrateurs peut également être représentée aux sessions de la Réunion des Parties en qualité d’observateur, à moins qu’un tiers au moins des Parties présentes ne s’y opposent.
+<sup>4.</sup> L’Organisation des Nations Unies, ses institutions spécialisées, l’Agence internationale de l’énergie atomique, tout État non Partie au présent Accord, et les secrétariats des conventions internationales concernées, entre autres, par la conservation, y compris la protection et la gestion, des oiseaux d’eau, peuvent être représentés aux sessions de la Réunion des Parties par des observateurs. Toute organisation ou toute institution techniquement qualifiée dans les domaines ci-dessus mentionnés ou dans la recherche sur les oiseaux d’eau migrateurs peut également être représentée aux sessions de la Réunion des Parties en qualité d’observateur, à moins qu’un tiers au moins des Parties présentes ne s’y opposent.
 
-<sup>5.</sup> Seules les Parties ont le droit de vote. Chaque Partie dispose d’une voix mais les organisations d’intégration économique régionale Parties au présent Accord exercent, dans les domaines de leur compétence, leur droit de vote avec un nombre de voix égal au nombre de leurs Etats membres qui sont Parties au présent Accord. Une organisation d’intégration économique régionale n’exerce pas son droit de vote si ses Etats membres exercent le leur, et réciproquement.
+<sup>5.</sup> Seules les Parties ont le droit de vote. Chaque Partie dispose d’une voix mais les organisations d’intégration économique régionale Parties au présent Accord exercent, dans les domaines de leur compétence, leur droit de vote avec un nombre de voix égal au nombre de leurs États membres qui sont Parties au présent Accord. Une organisation d’intégration économique régionale n’exerce pas son droit de vote si ses États membres exercent le leur, et réciproquement.
 
-<sup>6.</sup> A moins que le présent Accord n’en dispose autrement, les décisions de la Réunion des Parties sont adoptées par consensus ou, si le consensus ne peut être obtenu, à la majorité des deux tiers des Parties présentes et votantes.
+<sup>6.</sup> À moins que le présent Accord n’en dispose autrement, les décisions de la Réunion des Parties sont adoptées par consensus ou, si le consensus ne peut être obtenu, à la majorité des deux tiers des Parties présentes et votantes.
 
 <sup>7.</sup>
 
-A sa première session, la Réunion des Parties:
+À sa première session, la Réunion des Parties:
 
 - (a) adopte son règlement intérieur par consensus;
 - (b) établit le secrétariat de l’accord au sein du Secrétariat de la Convention, afin de remplir les fonctions énumérées à l’art. VIII du présent Accord;
@@ -174,7 +174,7 @@ A sa première session, la Réunion des Parties:
 
 <sup>8.</sup>
 
-A chacune de ses sessions ordinaires, la Réunion des Parties:
+À chacune de ses sessions ordinaires, la Réunion des Parties:
 
 - (a) prend en considération les modifications réelles et potentielles de l’état de conservation des oiseaux d’eau migrateurs et des habitats importants pour leur survie ainsi que les facteurs susceptibles d’affecter ces espèces et ces habitats;
 - (b) passe en revue les progrès accomplis et toute difficulté rencontrée dans l’application du présent Accord;
@@ -185,7 +185,7 @@ A chacune de ses sessions ordinaires, la Réunion des Parties:
 
 <sup>9.</sup>
 
-A chacune de ses sessions, la Réunion des Parties peut:
+À chacune de ses sessions, la Réunion des Parties peut:
 
 - (a) faire des recommandations aux Parties, lorsqu’elle le juge nécessaire et approprié;
 - (b) adopter des mesures spécifiques pour améliorer l’efficacité de l’accord et, le cas échéant, des mesures d’urgence au sens de l’art. VII, par. 4;
@@ -206,7 +206,7 @@ Le comité technique est composé de:
 - (b) un représentant de l’Union internationale pour la conservation de la nature et de ses ressources (UICN), du Bureau international de recherches sur les oiseaux d’eau et les zones humides (BIROE) et un représentant du Conseil international de la chasse et de la conservation du gibier (CIC);
 - (c) un expert dans chacun des domaines suivants: économie rurale, gestion du gibier, droit de l’environnement.
 
-<sup>2.</sup> A moins que la réunion des Parties n’en décide autrement, les réunions du comité technique sont convoquées par le secrétariat de l’accord; ces réunions sont tenues à l’occasion de chaque session de la réunion des Parties, et au moins une fois entre les sessions ordinaires de la Réunion des Parties.
+<sup>2.</sup> À moins que la réunion des Parties n’en décide autrement, les réunions du comité technique sont convoquées par le secrétariat de l’accord; ces réunions sont tenues à l’occasion de chaque session de la réunion des Parties, et au moins une fois entre les sessions ordinaires de la Réunion des Parties.
 
 <sup>3.</sup>
 
@@ -230,7 +230,7 @@ Les fonctions du secrétariat de l’accord sont les suivantes:
 - (a) assurer l’organisation et fournir les services nécessaires à la tenue des sessions de la Réunion des Parties ainsi que des réunions du comité technique;
 - (b) mettre en œuvre les décisions qui lui sont adressées par la Réunion des Parties;
 - (c) promouvoir et coordonner, conformément aux décisions de la Réunion des Parties, les activités entreprises aux termes de l’accord, y compris le Plan d’action;
-- (d) assurer la liaison avec les Etats de l’aire de répartition non Parties au présent Accord, faciliter la coordination entre les Parties et avec les organisations internationales et nationales dont les activités ont trait directement ou indirectement à la conservation, y compris la protection et la gestion, des oiseaux d’eau migrateurs;
+- (d) assurer la liaison avec les États de l’aire de répartition non Parties au présent Accord, faciliter la coordination entre les Parties et avec les organisations internationales et nationales dont les activités ont trait directement ou indirectement à la conservation, y compris la protection et la gestion, des oiseaux d’eau migrateurs;
 - (e) rassembler et évaluer les informations qui permettront de mieux atteindre les objectifs et favoriseront la mise en œuvre de l’accord, et prendre toutes dispositions pour diffuser ces informations d’une manière appropriée;
 - (f) appeler l’attention de la Réunion des Parties sur toute question ayant trait aux objectifs du présent Accord;
 - (g) transmettre à chaque Partie, soixante jours au moins avant l’ouverture de chaque session ordinaire de la Réunion des Parties, copie des rapports des autorités auxquelles il est fait référence à l’art. V, par. 1 (a), du présent Accord, celui du comité technique, ainsi que copie des rapports qu’il doit fournir en application du par. (h) du présent article;
@@ -290,14 +290,14 @@ Le secrétariat de l’accord consulte:
 
 <sup>1.</sup>
 
-Le présent Accord est ouvert à la signature de tout Etat de l’aire de répartition, que des zones relevant de la juridiction de cet Etat fassent ou non partie de la zone de l’accord, et aux organisations d’intégration économique régionale dont un des membres au moins est un Etat de l’aire de répartition, soit par:
+Le présent Accord est ouvert à la signature de tout État de l’aire de répartition, que des zones relevant de la juridiction de cet État fassent ou non partie de la zone de l’accord, et aux organisations d’intégration économique régionale dont un des membres au moins est un État de l’aire de répartition, soit par:
 
-- (a) signature sans réserve de ratification, d’acceptation ou d’approbation; ou
+- (a) signature sans réserve de ratification, d’acceptation ou d’approbation, ou
 - (b) signature avec réserve de ratification, d’acceptation ou d’approbation, suivie de ratification, d’acceptation ou d’approbation.
 
 <sup>2.</sup> Le présent Accord restera ouvert à la signature à La Haye jusqu’à la date de son entrée en vigueur.
 
-<sup>3.</sup> Le présent Accord est ouvert à l’adhésion de tout Etat de l’aire de répartition et des organisations d’intégration économique régionale mentionnés au par. 1 ci-dessus à partir de la date de son entrée en vigueur.
+<sup>3.</sup> Le présent Accord est ouvert à l’adhésion de tout État de l’aire de répartition et des organisations d’intégration économique régionale mentionnés au par. 1 ci-dessus à partir de la date de son entrée en vigueur.
 
 <sup>4.</sup> Les instruments de ratification, d’acceptation, d’approbation ou d’adhésion sont déposés auprès du dépositaire du présent Accord.
 
@@ -305,11 +305,11 @@ Le présent Accord est ouvert à la signature de tout Etat de l’aire de répar
 
 **Entrée en vigueur**
 
-<sup>1.</sup> Le présent Accord entrera en vigueur le premier jour du troisième mois après que quatorze Etats de l’aire de répartition ou organisations d’intégration économique régionale, dont au moins sept d’Afrique et sept d’Eurasie, l’auront signé sans réserve de ratification, acceptation ou approbation, ou auront déposé leur instrument de ratification, d’acceptation ou d’approbation, conformément à l’art. XIII du présent Accord.
+<sup>1.</sup> Le présent Accord entrera en vigueur le premier jour du troisième mois après que quatorze États de l’aire de répartition ou organisations d’intégration économique régionale, dont au moins sept d’Afrique et sept d’Eurasie, l’auront signé sans réserve de ratification, acceptation ou approbation, ou auront déposé leur instrument de ratification, d’acceptation ou d’approbation, conformément à l’art. XIII du présent Accord.
 
-<sup>2.</sup> Pour tout Etat de l’aire de répartition ou toute organisation d’intégration économique régionale qui
+<sup>2.</sup> Pour tout État de l’aire de répartition ou toute organisation d’intégration économique régionale qui
 
-après la date à laquelle le nombre d’Etats de l’aire de répartition et d’organisations d’intégration économique régionale requis pour son entrée en vigueur l’ont signé sans réserve ou, le cas échéant, l’ont ratifié, accepté ou approuvé, le présent Accord entrera en vigueur le premier jour du troisième mois suivant la signature sans réserve ou le dépôt, par ledit Etat ou par ladite organisation, de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
+après la date à laquelle le nombre d’États de l’aire de répartition et d’organisations d’intégration économique régionale requis pour son entrée en vigueur l’ont signé sans réserve ou, le cas échéant, l’ont ratifié, accepté ou approuvé, le présent Accord entrera en vigueur le premier jour du troisième mois suivant la signature sans réserve ou le dépôt, par ledit État ou par ladite organisation, de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
 
 - (a) signera le présent Accord sans réserve de ratification, d’acceptation ou d’approbation, ou
 - (b) le ratifiera, l’acceptera ou l’approuvera, ou
@@ -319,7 +319,7 @@ après la date à laquelle le nombre d’Etats de l’aire de répartition et d�
 
 **Réserves**
 
-Les dispositions du présent Accord ne peuvent faire l’objet de réserves générales. Toutefois, tout Etat ou toute organisation d’intégration économique régionale peut, en signant sans réserve de ratification, d’acceptation ou d’approbation ou, selon le cas, en déposant son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, faire une réserve spéciale à l’égard de toute espèce couverte par l’accord ou de toute disposition particulière du Plan d’action. Une telle réserve peut être retirée par l’Etat ou l’organisation qui l’a formulée par notification écrite adressée au dépositaire; un tel Etat ou une telle organisation ne devient lié par les dispositions qui avaient fait l’objet de la réserve que trente jours après la date du retrait de ladite réserve.
+Les dispositions du présent Accord ne peuvent faire l’objet de réserves générales. Toutefois, tout État ou toute organisation d’intégration économique régionale peut, en signant sans réserve de ratification, d’acceptation ou d’approbation ou, selon le cas, en déposant son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, faire une réserve spéciale à l’égard de toute espèce couverte par l’accord ou de toute disposition particulière du Plan d’action. Une telle réserve peut être retirée par l’État ou l’organisation qui l’a formulée par notification écrite adressée au dépositaire; un tel État ou une telle organisation ne devient lié par les dispositions qui avaient fait l’objet de la réserve que trente jours après la date du retrait de ladite réserve.
 
 #### Art. XVI
 
@@ -331,13 +331,13 @@ Toute Partie peut dénoncer à tout moment le présent Accord par notification �
 
 **Dépositaire**
 
-<sup>1.</sup> Le texte original du présent Accord, en langues anglaise, arabe, française et russe, chacune de ces versions étant également authentique, sera déposé auprès du Gouvernement du Royaume des Pays-Bas qui en est le dépositaire. Le dépositaire fait parvenir des copies certifiées conformes de chacune de ces versions à tous les Etats et à toutes les organisations d’intégration économique régionale mentionnés à l’art. XIII, par. 1, du présent Accord, ainsi qu’au secrétariat de l’accord après qu’il aura été constitué.
+<sup>1.</sup> Le texte original du présent Accord, en langues anglaise, arabe, française et russe, chacune de ces versions étant également authentique, sera déposé auprès du Gouvernement du Royaume des Pays-Bas qui en est le dépositaire. Le dépositaire fait parvenir des copies certifiées conformes de chacune de ces versions à tous les États et à toutes les organisations d’intégration économique régionale mentionnés à l’art. XIII, par. 1, du présent Accord, ainsi qu’au secrétariat de l’accord après qu’il aura été constitué.
 
 <sup>2.</sup> Dès l’entrée en vigueur du présent Accord, une copie certifiée conforme en est transmise par le dépositaire au Secrétariat de l’Organisation des Nations Unies aux fins d’enregistrement et de publication, conformément à l’art. 102 de la Charte des Nations Unies[^XVII-1].
 
-<sup>3.</sup> Le dépositaire transmet à tous les Etats et à toutes les organisations d’intégration économique régionale signataires du présent Accord ou qui y ont adhéré et au secrétariat de l’accord le texte de toute réserve, de toute nouvelle annexe et de tout amendement à l’accord et à ses annexes.
+<sup>3.</sup> Le dépositaire transmet à tous les États et à toutes les organisations d’intégration économique régionale signataires du présent Accord ou qui y ont adhéré et au secrétariat de l’accord le texte de toute réserve, de toute nouvelle annexe et de tout amendement à l’accord et à ses annexes.
 
-Le dépositaire informe tous les Etats et toutes les organisations d’intégration économique régionale signataires du présent Accord ou qui y ont adhéré, ainsi que le secrétariat de l’accord de:
+Le dépositaire informe tous les États et toutes les organisations d’intégration économique régionale signataires du présent Accord ou qui y ont adhéré, ainsi que le secrétariat de l’accord de:
 
 - (a) toute signature;
 - (b) tout dépôt d’instrument de ratification, d’acceptation, d’approbation ou d’adhésion;
@@ -675,7 +675,7 @@ Annexe 3*[^t-3]*
   - b) interdisent les perturbations intentionnelles, dans la mesure où ces perturbations seraient significatives pour la conservation de la population concernée, et
   - c) interdisent la détention, l’utilisation et le commerce des oiseaux de ces populations et de leurs œufs lorsqu’ils ont été prélevés en contravention aux interdictions établies en application de l’al. a) ci-dessus ainsi que la détention, l’utilisation et le commerce de toute partie ou produit facilement identifiable de ces oiseaux et de leurs œufs.
 
-- A titre d’exception pour les populations listées en catégories 2 et 3 de la colonne A et marquées par un astérisque, et pour les populations listées en catégorie 4 de la colonne A, la chasse peut continuer de manière durable[^annex3-lvlu1-lvl2-1]. L’utilisation durable doit être menée dans le cadre d’un plan d’action international par espèce au travers duquel les Parties essaieront de mettre en œuvre les principes de gestion adaptative des prélèvements[^annex3-lvlu1-lvl2-2]. Une telle utilisation doit au moins être sujette aux mêmes mesures juridiques que le prélèvement d’oiseaux de populations listées à la colonne B du tableau 1, tel que demandé au par. 2.1.2 ci-dessous.
+- À titre d’exception pour les populations listées en catégories 2 et 3 de la colonne A et marquées par un astérisque, et pour les populations listées en catégorie 4 de la colonne A, la chasse peut continuer de manière durable[^annex3-lvlu1-lvl2-1]. L’utilisation durable doit être menée dans le cadre d’un plan d’action international par espèce au travers duquel les Parties essaieront de mettre en œuvre les principes de gestion adaptative des prélèvements[^annex3-lvlu1-lvl2-2]. Une telle utilisation doit au moins être sujette aux mêmes mesures juridiques que le prélèvement d’oiseaux de populations listées à la colonne B du tableau 1, tel que demandé au par. 2.1.2 ci-dessous.
 - 2\.1.2
 
   Les Parties ayant des populations figurant au tableau 1 réglementent le prélèvement d’oiseaux et d’œufs de toutes les populations inscrites à la colonne B du tableau 1. L’objet de cette réglementation est de maintenir ou de contribuer à la restauration de ces populations en un état de conservation favorable et de s’assurer, sur la base des meilleures connaissances disponibles sur la dynamique des populations, que tout prélèvement ou toute autre utilisation de ces oiseaux ou de ces œufs est durable. Cette réglementation, en particulier, et sous réserve des dispositions du par. 2.1.3 ci-dessous:
@@ -763,7 +763,7 @@ Annexe 3*[^t-3]*
 - 4\.1.6 Les Parties élaborent et appliquent des mesures pour réduire et, dans la mesure du possible, éliminer les prélèvements illégaux.
 - 4\.1.7 S’il y a lieu, les Parties encouragent les chasseurs, aux niveaux local, national et international, à former leurs propres associations ou organisations, afin de coordonner leurs activités et mettre en œuvre le concept d’utilisation durable.
 - 4\.1.8 S’il y a lieu, les Parties encouragent l’exigence de tests de compétence pour les chasseurs, y compris, entre autres, l’identification des oiseaux.
-- 4\.2 *Ecotourisme*
+- 4\.2 *Écotourisme*
 - 4\.2.1 Sauf s’il s’agit de zones centrales d’aires protégées, les Parties encouragent, lorsque cela est approprié, l’élaboration de programmes de coopération entre tous les intéressés pour développer un écotourisme adapté et approprié dans les zones humides où sont concentrées des populations figurant au tableau 1.
 - 4\.2.2 Les Parties, en coopération avec les organisations internationales compétentes, s’efforcent d’évaluer les coûts, les avantages et les autres conséquences pouvant découler de l’écotourisme dans des zones humides comportant des concentrations de populations figurant au tableau 1 choisies à cet effet. Elles communiquent le résultat de toute évaluation ainsi entreprise au secrétariat de l’Accord.
 - 4\.3 *Autres activités humaines*
@@ -794,11 +794,11 @@ Annexe 3*[^t-3]*
 - 5\.7 Les Parties s’efforcent de réaliser des études sur l’impact de la chasse et du commerce sur les populations figurant au tableau 1 et sur l’importance de ces formes d’utilisation pour l’économie locale et nationale.
 - 5\.8 Les Parties s’efforcent de coopérer avec les organisations internationales compétentes et d’accorder leur appui à des projets de recherche et de surveillance continue.
 
-### 6 Education et information
+### 6 Éducation et information
 
 - 6\.1 Les Parties, lorsque cela s’avère nécessaire, mettent en place des programmes de formation pour faire en sorte que le personnel chargé de l’application du Plan d’action ait des connaissances suffisantes pour l’appliquer efficacement.
 - 6\.2 Les Parties coopèrent entre elles et avec le secrétariat de l’Accord afin d’élaborer des programmes de formation et d’échanger la documentation disponible.
-- 6\.3 Les Parties s’efforcent d’élaborer des programmes, des documents et des mécanismes d’information pour mieux faire prendre conscience au public en général des objectifs, des dispositions et du contenu du Plan d’action. A cet égard, une attention particulière doit être accordée aux personnes vivant à l’intérieur et autour des zones humides importantes, aux utilisateurs de ces zones (chasseurs, pêcheurs, touristes, etc.), aux autorités locales et aux autres décideurs.
+- 6\.3 Les Parties s’efforcent d’élaborer des programmes, des documents et des mécanismes d’information pour mieux faire prendre conscience au public en général des objectifs, des dispositions et du contenu du Plan d’action. À cet égard, une attention particulière doit être accordée aux personnes vivant à l’intérieur et autour des zones humides importantes, aux utilisateurs de ces zones (chasseurs, pêcheurs, touristes, etc.), aux autorités locales et aux autres décideurs.
 - 6\.4 Les Parties s’efforcent de lancer des campagnes spécifiques de sensibilisation du public pour la conservation des populations figurant au tableau 1.
 
 ### 7 Mesures d’application
@@ -807,7 +807,7 @@ Annexe 3*[^t-3]*
 - 7\.2 Lorsque plusieurs populations de la même espèce figurant au tableau 1 se trouvent sur le territoire d’une Partie, cette Partie applique les mesures de conservation appropriées à la population ou aux populations qui ont l’état de conservation le moins favorable.
 - 7\.3
 
-  Le secrétariat de l’Accord, en coordination avec le comité technique et avec l’assistance d’experts d’Etats de l’aire de répartition, coordonne l’élaboration de lignes directrices de conservation, conformément à l’art. IV (4) de l’Accord, pour aider les Parties dans l’application du Plan d’action. Le secrétariat de l’Accord fait en sorte, lorsque cela s’avère possible, d’assurer la cohérence de ces lignes directrices avec celles approuvées aux termes d’autres instruments internationaux. Les lignes directrices de conservation visent à introduire le principe d’utilisation durable. Elles portent, entre autres, sur:
+  Le secrétariat de l’Accord, en coordination avec le comité technique et avec l’assistance d’experts d’États de l’aire de répartition, coordonne l’élaboration de lignes directrices de conservation, conformément à l’art. IV (4) de l’Accord, pour aider les Parties dans l’application du Plan d’action. Le secrétariat de l’Accord fait en sorte, lorsque cela s’avère possible, d’assurer la cohérence de ces lignes directrices avec celles approuvées aux termes d’autres instruments internationaux. Les lignes directrices de conservation visent à introduire le principe d’utilisation durable. Elles portent, entre autres, sur:
 
   - a) les plans d’action par espèce;
   - b) les mesures d’urgence;
@@ -849,7 +849,7 @@ Tableau 1*[^annex3-lvlu1-lvl7-1]*
 
 [^annex3-lvlu1-lvl7-1]: Tableau 1, «Etat des populations d’oiseaux d’eaux migrateurs» fait partie du Plan d’action contenu en Annexe 3 de l’Accord.
 
-### Etat des populations d’oiseaux d’eau migrateurs
+### État des populations d’oiseaux d’eau migrateurs
 
 ### Explication de la classification
 
@@ -891,14 +891,14 @@ Le présent tableau sera:
 Il est à noter que les aires de répartition des oiseaux d’eau connaissent des frontières biologiques mais non politiques et que la correspondance précise d’entités biologiques et politiques est extrêmement rare. Les descriptions des aires de répartition utilisées n’ont aucune signification politique et sont seulement données à titre d’indication générale. Pour des relevés concis et cartographiés des aires de répartition des oiseaux d’eau, se reporter à l’outil du Réseau de sites critiques à l’adresse suivante: http://wow.wetlands.org/informationflyway/criticalsitenetworktool/tabid/ 1349/language/en-US/Default.aspx
 
 <table>
-<tr><td>Afrique du Nord</td><td>Algérie, Egypte, Lybie, Maroc, Tunisie.</td></tr>
+<tr><td>Afrique du Nord</td><td>Algérie, Égypte, Lybie, Maroc, Tunisie.</td></tr>
 <tr><td>Afrique de l’Ouest</td><td>Bénin, Burkina Faso, Cameroun, Cabo Verde, Côte d’Ivoire, Gambie, Ghana, Guinée, Guinée-Bissau, Liberia, Mali, Mauritanie, Niger, Nigeria, Sénégal, Sierra Leone, Tchad, Togo.</td></tr>
-<tr><td>Afrique de l’Est</td><td>Burundi, Djibouti, Erythrée, Ethiopie, Kenya, Ouganda, Rwanda, Somalie, Soudan, Soudan du Sud, Tanzanie (République-Unie de).</td></tr>
+<tr><td>Afrique de l’Est</td><td>Burundi, Djibouti, Érythrée, Éthiopie, Kenya, Ouganda, Rwanda, Somalie, Soudan, Soudan du Sud, Tanzanie (République-Unie de).</td></tr>
 <tr><td>Afrique du Nord-Ouest</td><td>Maroc, Algérie et Tunisie.</td></tr>
-<tr><td>Afrique du Nord-Est</td><td>Djibouti, Egypte, Erythrée, Ethiopie, Somalie, Soudan, Soudan du Sud.</td></tr>
+<tr><td>Afrique du Nord-Est</td><td>Djibouti, Égypte, Érythrée, Éthiopie, Somalie, Soudan, Soudan du Sud.</td></tr>
 <tr><td>Afrique australe</td><td>Afrique du Sud, Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibie, Zambie, Zimbabwe.</td></tr>
 <tr><td>Afrique centrale</td><td>Cameroun, Congo, Gabon, Guinée équatoriale, République centrafricaine, République démocratique du Congo, Sao Tomé-et-Principe.</td></tr>
-<tr><td>Afrique sub-saharienne</td><td>Tous les Etats africains au sud du Sahara.</td></tr>
+<tr><td>Afrique sub-saharienne</td><td>Tous les États africains au sud du Sahara.</td></tr>
 <tr><td>Afrique tropicale</td><td>Afrique sub-saharienne à l’exclusion de l’Afrique du Sud, de l’Eswatini, du Lesotho et de la Namibie.</td></tr>
 <tr><td>Paléarctique occidental</td><td>Comme défini dans le manuel des oiseaux d’Europe, du Moyen-Orient et de l’Afrique du Nord (Cramp et Simmons 1977).</td></tr>
 <tr><td>Europe du Nord-Ouest</td><td>Allemagne, Belgique, Danemark, Finlande, France, Irlande, Islande, Luxembourg, Norvège, Pays-Bas, Royaume-Uni de Grande Bretagne et d’Irlande du Nord, Suède.</td></tr>
@@ -915,10 +915,10 @@ Il est à noter que les aires de répartition des oiseaux d’eau connaissent de
 <tr><td>Sibérie occidentale</td><td>Fédération de Russie de l’est de l’Oural au fleuve Ienisseï et au sud jusqu’à la frontière du Kazakhstan.</td></tr>
 <tr><td>Sibérie centrale</td><td>Fédération de Russie, du fleuve Ienisseï à la frontière orientale de la péninsule de Taïmyr et au sud jusqu’à l’Altaï.</td></tr>
 <tr><td>Méditerranée occidentale</td><td>Algérie, Espagne, France, Italie, Malte, Maroc, Monaco, Portugal, Saint-Marin, Tunisie.</td></tr>
-<tr><td>Méditerranée orientale</td><td>Albanie, Bosnie-Herzégovine, Chypre, Croatie, Egypte, Grèce, Israël, Lybie, Liban, Macédoine du Nord, Monténégro, République arabe syrienne, Serbie, Slovénie, Turquie.</td></tr>
+<tr><td>Méditerranée orientale</td><td>Albanie, Bosnie-Herzégovine, Chypre, Croatie, Égypte, Grèce, Israël, Lybie, Liban, Macédoine du Nord, Monténégro, République arabe syrienne, Serbie, Slovénie, Turquie.</td></tr>
 <tr><td>Mer Noire</td><td>Arménie, Bulgarie, Fédération de Russie, Géorgie, République de Moldavie, Roumanie, Turquie, Ukraine.</td></tr>
 <tr><td>Mer Caspienne</td><td>Azerbaïdjan, Kazakhstan, Ouzbékistan, République islamique d’Iran, Sud-Ouest de la Fédération de Russie, Turkménistan.</td></tr>
-<tr><td>Asie du Sud-Ouest</td><td>Arabie Saoudite, Bahreïn, Emirats arabes unis, Irak, Israël, Jordanie, Kazakhstan, Koweït, Liban, Oman, Ouzbékistan, Qatar, République arabe syrienne, République islamique d’Iran, Turkménistan, Turquie orientale, Yémen.</td></tr>
+<tr><td>Asie du Sud-Ouest</td><td>Arabie Saoudite, Bahreïn, Émirats arabes unis, Irak, Israël, Jordanie, Kazakhstan, Koweït, Liban, Oman, Ouzbékistan, Qatar, République arabe syrienne, République islamique d’Iran, Turkménistan, Turquie orientale, Yémen.</td></tr>
 <tr><td>Golfe</td><td>Le golfe Persique, golfe d’Oman et mer d’Arabie jusqu’au golfe d’Aden à l’ouest.</td></tr>
 <tr><td>Asie occidentale</td><td>Partie occidentale de la Fédération de Russie à l’est de l’Oural et des pays de la mer Caspienne.</td></tr>
 <tr><td>Asie centrale</td><td>Afghanistan, Kazakhstan, Kirghizistan, Ouzbékistan, Tadjikistan, Turkménistan.</td></tr>
@@ -934,8 +934,8 @@ Il est à noter que les aires de répartition des oiseaux d’eau connaissent de
 <tr><td>S: sud</td><td>O: ouest</td></tr>
 <tr><td>NE: nord-est</td><td>NO: nord-ouest</td></tr>
 <tr><td>SE: sud-est</td><td>SO: sud-ouest</td></tr>
-<tr><td colspan="2">(): Etat de conservation de la population inconnu. Etat de conservation estimé.</td></tr>
-<tr><td colspan="2">\*: A titre exceptionnel, les populations figurant dans les catégories 2 et 3 de la colonne A et marquées d’un astérisque peuvent continuer à être chassées sur une base durable. Cette utilisation durable doit trouver place dans le cadre des dispositions spéciales d’un plan d’action international par espèce, qui devra chercher à mettre en œuvre les principes de gestion adaptive des prélèvements (voir le par. 2.1.1 de l’Annexe 3 de l’Accord).</td></tr>
+<tr><td colspan="2">(): État de conservation de la population inconnu. État de conservation estimé.</td></tr>
+<tr><td colspan="2">\*: À titre exceptionnel, les populations figurant dans les catégories 2 et 3 de la colonne A et marquées d’un astérisque peuvent continuer à être chassées sur une base durable. Cette utilisation durable doit trouver place dans le cadre des dispositions spéciales d’un plan d’action international par espèce, qui devra chercher à mettre en œuvre les principes de gestion adaptive des prélèvements (voir le par. 2.1.1 de l’Annexe 3 de l’Accord).</td></tr>
 </table>
 
 Remarques
@@ -987,8 +987,8 @@ Remarques
 <tr><td>– Svalbard, Danemark & R-U</td><td>2</td><td></td><td></td></tr>
 <tr><td>– Canada & Groenland/Irlande</td><td>3a</td><td></td><td></td></tr>
 <tr><td>*Branta leucopsis* (Bernache nonnette)</td><td></td><td></td><td></td></tr>
-<tr><td>– Groenland de l’Est/Ecosse & Irlande</td><td></td><td>1</td><td></td></tr>
-<tr><td>– Svalbard/Ecosse du Sud-Ouest</td><td>3a</td><td></td><td></td></tr>
+<tr><td>– Groenland de l’Est/Écosse & Irlande</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Svalbard/Écosse du Sud-Ouest</td><td>3a</td><td></td><td></td></tr>
 <tr><td>– Russie/Allemagne & Pays-Bas</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Branta ruficollis* (Bernache à cou roux)</td><td></td><td></td><td></td></tr>
 <tr><td>– Sibérie du Nord/mer Noire & mer Caspienne</td><td>1a/1b/3a</td><td></td><td></td></tr>
@@ -1865,14 +1865,15 @@ Remarques
 
 [^annex3-lvlu1-lvlu9-1]: Le 18 février 2019 la Suisse a présenté une réserve conformément à l’art. X de l’Accord dans l’attente de l’accomplissement des procédures internes d’approbation concernant cet amendement, tel qu’accepté lors de la 7<sup>e</sup> session de la réunion des Parties à l’Accord.
 
-Champ d’application le 21 mars 2019**[^t-4]**
+Champ d’application le 31 mai 2022**[^t-4]**
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud</td><td>1<sup>er</sup> janvier</td><td>2002</td><td>1<sup>er</sup> avril</td><td>2002</td></tr>
 <tr><td>Albanie</td><td>20 juin</td><td>2001 A</td><td>1<sup>er</sup> septembre</td><td>2001</td></tr>
 <tr><td>Algérie</td><td>4 juillet</td><td>2006 A</td><td>1<sup>er</sup> octobre</td><td>2006</td></tr>
 <tr><td>Allemagne</td><td>9 décembre</td><td>1998</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
+<tr><td>Arménie</td><td>9 avril</td><td>2020 A</td><td>1<sup>er</sup> juillet</td><td>2020</td></tr>
 <tr><td>Bélarus\*</td><td>15 janvier</td><td>2016 A</td><td>1<sup>er</sup> avril</td><td>2016</td></tr>
 <tr><td>Belgique</td><td>3 mars</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2006</td></tr>
 <tr><td>Bénin</td><td>26 octobre</td><td>1999 Si</td><td>1<sup>er</sup> janvier</td><td>2000</td></tr>
@@ -1886,11 +1887,11 @@ Champ d’application le 21 mars 2019**[^t-4]**
 <tr><td>Croatie</td><td>26 juin</td><td>2000 A</td><td>1<sup>er</sup> septembre</td><td>2000</td></tr>
 <tr><td>Danemark <sup>a</sup></td><td>29 octobre</td><td>1999</td><td>1<sup>er</sup> janvier</td><td>2000</td></tr>
 <tr><td>Djibouti</td><td>31 décembre</td><td>2003 A</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
-<tr><td>Egypte</td><td>4 mars</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
+<tr><td>Égypte</td><td>4 mars</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
 <tr><td>Espagne</td><td>30 mars</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
 <tr><td>Estonie\*</td><td>1<sup>er</sup> août</td><td>2008 A</td><td>1<sup>er</sup> novembre</td><td>2008</td></tr>
 <tr><td>Eswatini</td><td>23 octobre</td><td>2012 A</td><td>1<sup>er</sup> janvier</td><td>2013</td></tr>
-<tr><td>Ethiopie</td><td>3 novembre</td><td>2009 A</td><td>1<sup>er</sup> février</td><td>2010</td></tr>
+<tr><td>Éthiopie</td><td>3 novembre</td><td>2009 A</td><td>1<sup>er</sup> février</td><td>2010</td></tr>
 <tr><td>Finlande\*</td><td>29 octobre</td><td>1999</td><td>1<sup>er</sup> janvier</td><td>2000</td></tr>
 <tr><td>France</td><td>30 septembre</td><td>2003</td><td>1<sup>er</sup> décembre</td><td>2003</td></tr>
 <tr><td>Gambie</td><td>12 mars</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
@@ -1914,6 +1915,7 @@ Champ d’application le 21 mars 2019**[^t-4]**
 <tr><td>Luxembourg</td><td>12 septembre</td><td>2003</td><td>1<sup>er</sup> décembre</td><td>2003</td></tr>
 <tr><td>Macédoine du Nord</td><td>1<sup>er</sup> novembre</td><td>1999 A</td><td>1<sup>er</sup> février</td><td>2000</td></tr>
 <tr><td>Madagascar</td><td>12 octobre</td><td>2006 A</td><td>1<sup>er</sup> janvier</td><td>2007</td></tr>
+<tr><td>Malawi</td><td>25 juin</td><td>2019 A</td><td>1<sup>er</sup> septembre</td><td>2019</td></tr>
 <tr><td>Mali</td><td>18 octobre</td><td>1999</td><td>1<sup>er</sup> janvier</td><td>2000</td></tr>
 <tr><td>Maurice</td><td>26 octobre</td><td>2000 A</td><td>1<sup>er</sup> janvier</td><td>2001</td></tr>
 <tr><td>Mauritanie</td><td>25 février</td><td>2015 A</td><td>1<sup>er</sup> mai</td><td>2015</td></tr>
@@ -1934,7 +1936,7 @@ Champ d’application le 21 mars 2019**[^t-4]**
 <tr><td>Royaume-Uni</td><td>22 février</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
 <tr><td>Gibraltar</td><td>22 février</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
 <tr><td>Guernesey</td><td>22 février</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
-<tr><td>Ile de Man</td><td>22 février</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
+<tr><td>Île de Man</td><td>22 février</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
 <tr><td>Jersey</td><td>22 février</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
 <tr><td>Sainte-Hélène et dépendances Ascension et Tristan da Cunha)</td><td>22 février</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
 <tr><td>Rwanda</td><td>11 juin</td><td>2014 A</td><td>1<sup>er</sup> septembre</td><td>2014</td></tr>
@@ -1950,11 +1952,12 @@ Champ d’application le 21 mars 2019**[^t-4]**
 <tr><td>Tchad</td><td>1<sup>er</sup> août</td><td>2011 A</td><td>1<sup>er</sup> novembre</td><td>2011</td></tr>
 <tr><td>Togo</td><td>22 mars</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
 <tr><td>Tunisie</td><td>26 avril</td><td>2005 A</td><td>1<sup>er</sup> juillet</td><td>2005</td></tr>
+<tr><td>Turkménistan</td><td>27 octobre</td><td>2020 A</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
 <tr><td>Ukraine</td><td>18 octobre</td><td>2002</td><td>1<sup>er</sup> janvier</td><td>2003</td></tr>
-<tr><td>[tab] Union européenne (CE/UE/CEE)</td><td>27 juillet</td><td>2005</td><td>1<sup>er</sup> octobre</td><td>2005</td></tr>
+<tr><td>Union européenne (UE)\*</td><td>27 juillet</td><td>2005</td><td>1<sup>er</sup> octobre</td><td>2005</td></tr>
 <tr><td>Zimbabwe</td><td>8 mars</td><td>2012 A</td><td>1<sup>er</sup> juin</td><td>2012</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet du Ministère des Affaires étrangères des Pays-Bas: https://treatydatabase.overheid.nl/ ou obtenus (en français et en anglais) à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Ministère des Affaires étrangères des Pays-Bas: https://treatydatabase.overheid.nl/ ou obtenus à la Direction du droit international public, Section des traités internationaux, 3003 Berne.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Avec une réserve concernant le Groenland.</td></tr>
 </table>
 
-[^t-4]: [RO 2006 807](https://fedlex.data.admin.ch/eli/oc/2006/125)[3335](https://fedlex.data.admin.ch/eli/oc/2006/522), [2009 1131](https://fedlex.data.admin.ch/eli/oc/2009/181), [2011 6329](https://fedlex.data.admin.ch/eli/oc/2011/889), [2013 1389](https://fedlex.data.admin.ch/eli/oc/2013/330), [2017 2485](https://fedlex.data.admin.ch/eli/oc/2017/234), [2019 1139](https://fedlex.data.admin.ch/eli/oc/2019/217). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-4]: [RO 2006 807](https://fedlex.data.admin.ch/eli/oc/2006/125), [3335](https://fedlex.data.admin.ch/eli/oc/2006/522); [2009 1131](https://fedlex.data.admin.ch/eli/oc/2009/181); [2011 6329](https://fedlex.data.admin.ch/eli/oc/2011/889); [2013 1389](https://fedlex.data.admin.ch/eli/oc/2013/330); [2017 2485](https://fedlex.data.admin.ch/eli/oc/2017/234); [2019 1139](https://fedlex.data.admin.ch/eli/oc/2019/217); [2022 331](https://fedlex.data.admin.ch/eli/oc/2022/331). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
