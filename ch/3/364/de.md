@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. März 2008 über die Anwendung polizeilichen Zwangs
 short: ZAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/759"
 language: de
-version: 2018-01-01
+version: 2022-06-01
 adopted: 2008-03-20
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/759/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2008-759-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/759/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/759/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2008-759-20220601-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/759/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/759/20180101/de"
 
 (Zwangsanwendungsgesetz, ZAG)
 
-vom 20. März 2008 (Stand am 1. Januar 2018)
+vom 20. März 2008 (Stand am 1. Juni 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -86,9 +86,13 @@ Als polizeilicher Zwang gilt der gegen Personen gerichtete Einsatz von:
 Als polizeiliche Massnahmen gelten:
 
 - a. das kurzfristige Festhalten von Personen;
+- a<sup>bis</sup>.[^6-1] die Wegweisung und das Fernhalten von Personen;
 - b. die Durchsuchung von Personen und ihrer persönlichen Effekten;
-- c. die Durchsuchung von Räumen und Fahrzeugen;
+- c.[^6-2] die Durchsuchung von Räumen, Gegenständen und Fahrzeugen;
 - d. die Beschlagnahme von Gegenständen.
+
+[^6-1]: Eingefügt durch Ziff. I 10 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^6-2]: Fassung gemäss Ziff. I 10 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 7
 
@@ -226,6 +230,14 @@ Wird eine Person kurzfristig festgehalten, so muss sie:
 
 <sup>2</sup> Eine Person darf nur solange festgehalten werden, als die Umstände dies erfordern, höchstens aber 24 Stunden.
 
+#### Art. 19a
+
+**Wegweisung und Fernhaltung**[^19a-1]
+
+Personen können von einem Ort vorübergehend weggewiesen oder ferngehalten werden, wenn dies für den Vollzug einer polizeilichen Massnahme erforderlich ist.
+
+[^19a-1]: Eingefügt durch Ziff. I 10 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
 #### Art. 20
 
 **Durchsuchen und Abtasten von Personen sowie Untersuchungen im Intimbereich**
@@ -237,6 +249,18 @@ Wird eine Person kurzfristig festgehalten, so muss sie:
 <sup>3</sup> Die Absätze 1 und 2 gelten nicht für das Abtasten von Personen, bei denen der Verdacht besteht, dass sie Waffen oder gefährliche Gegenstände mit sich führen.
 
 <sup>4</sup> Untersuchungen im Intimbereich von Personen dürfen nur von einem Arzt oder einer Ärztin vorgenommen werden.
+
+#### Art. 20a
+
+**Durchsuchung von Räumen, Gegenständen und Fahrzeugen**[^20a-1]
+
+<sup>1</sup> Räume, Gegenstände und Fahrzeuge können durchsucht werden, wenn sie von einer Person genutzt werden, die die Voraussetzungen einer Durchsuchung erfüllt.
+
+<sup>2</sup> Die Durchsuchung erfolgt nach Möglichkeit in Gegenwart der Person, welche die Sachherrschaft innehat.
+
+<sup>3</sup> Erfolgt sie in Abwesenheit dieser Person, so wird die Durchsuchung dokumentiert.
+
+[^20a-1]: Eingefügt durch Ziff. I 10 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 21
 
@@ -317,7 +341,7 @@ Eine betroffene Person ist vor Beginn des Transportes ärztlich zu untersuchen, 
 
 <sup>2</sup> Während des Fluges unterstehen die rückzuführenden Personen und die Begleitpersonen der Bordgewalt des Kommandanten oder der Kommandantin des Luftfahrzeugs.
 
-## 7. Abschnitt: Aus- und Weiterbildung****
+## 7. Abschnitt: Aus- und Weiterbildung
 
 [^sec7-1]
 

@@ -4,11 +4,11 @@ title: "Legge federale del 20 marzo 2008 sulla coercizione di polizia e le misur
 short: LCoe
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/759"
 language: it
-version: 2018-01-01
+version: 2022-06-01
 adopted: 2008-03-20
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/759/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2008-759-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/759/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/759/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2008-759-20220601-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/759/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/759/20180101/it"
 
 (Legge sulla coercizione, LCoe)
 
-del 20 marzo 2008 (Stato 1° gennaio 2018) (Stato 1° gennaio 2018)
+del 20 marzo 2008 (Stato 1° giugno 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -86,9 +86,13 @@ Per coercizione di polizia s’intende l’uso nei confronti di persone:
 Per misure di polizia s’intendono:
 
 - a. il fermo di breve durata di persone;
+- a<sup>bis</sup>.[^6-1] l’allontanamento e la tenuta a distanza di persone;
 - b. la perquisizione di persone e dei loro effetti personali;
-- c. la perquisizione di locali e veicoli;
+- c.[^6-2] la perquisizione di locali, oggetti e veicoli;
 - d. il sequestro di oggetti.
+
+[^6-1]: Introdotta dal n. I 10 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^6-2]: Nuovo testo giusta il n. I 10 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 7
 
@@ -226,6 +230,14 @@ Una persona fermata per un breve periodo deve:
 
 <sup>2</sup> Il fermo può durare solo fintanto che le circostanze lo esigono, ma al massimo 24 ore.
 
+#### Art. 19a
+
+**Allontanamento e tenuta a distanza**[^19a-1]
+
+Le persone possono essere temporaneamente allontanate o tenute a distanza da un luogo se ciò è necessario per l’esecuzione di una misura di polizia.
+
+[^19a-1]: Introdotto dal n. I 10 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
 #### Art. 20
 
 **Perquisizione e tastamento di persone, visita delle zone intime**
@@ -237,6 +249,18 @@ Una persona fermata per un breve periodo deve:
 <sup>3</sup> I capoversi 1 e 2 non si applicano al tastamento di persone sospettate di portare seco armi od oggetti pericolosi.
 
 <sup>4</sup> La visita delle zone intime personali può essere effettuata soltanto da un medico.
+
+#### Art. 20a
+
+**Perquisizione di locali, oggetti e veicoli**[^20a-1]
+
+<sup>1</sup> I locali, gli oggetti e i veicoli possono essere perquisiti se sono utilizzati da una persona che adempie i presupposti per una perquisizione.
+
+<sup>2</sup> Per quanto possibile, la perquisizione è eseguita in presenza del possessore della cosa.
+
+<sup>3</sup> Se è eseguita in assenza di tale persona, la perquisizione è documentata.
+
+[^20a-1]: Introdotto dal n. I 10 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 21
 
@@ -317,7 +341,7 @@ L’interessato deve essere esaminato da un medico prima della partenza se:
 
 <sup>2</sup> Durante il volo, le persone rinviate e la scorta soggiacciono all’autorità del comandante dell’aeromobile.
 
-## Sezione 7: Formazione e formazione continua****
+## Sezione 7: Formazione e formazione continua
 
 [^sec7-1]
 

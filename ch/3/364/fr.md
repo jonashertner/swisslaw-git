@@ -4,11 +4,11 @@ title: "Loi du 20 mars 2008 sur l'usage de la contrainte et de mesures policièr
 short: LUsC
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/759"
 language: fr
-version: 2018-01-01
+version: 2022-06-01
 adopted: 2008-03-20
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/759/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-759-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/759/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/759/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2008-759-20220601-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/759/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/759/20180101/fr"
 
 (Loi sur l’usage de la contrainte, LUsC)
 
-du 20 mars 2008 (Etat le 1<sup>er</sup> janvier 2018)
+du 20 mars 2008 (État le 1<sup>er</sup> juin 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -52,7 +52,7 @@ La présente loi s’applique:
 
 <sup>2</sup> La présente loi ne s’applique à l’armée que lorsqu’elle effectue un service d’appui ou apporte une aide spontanée en Suisse en faveur des organes de police civils de la Confédération ou des cantons ou en faveur du Corps des gardes-frontière.[^2-2]
 
-[^2-1]: Nouvelle teneur selon le ch. II 11 de l’annexe à la L du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^2-1]: Nouvelle teneur selon l’annexe ch. II 11 de la L du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^2-2]: Nouvelle teneur selon le ch. 5 de l’annexe à la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 3
@@ -86,9 +86,13 @@ Par contrainte policière, on entend l’usage à l’encontre de personnes:
 Par mesures policières, on entend:
 
 - a. la rétention de personnes pour une courte durée;
+- a<sup>bis</sup>.[^6-1] le renvoi et l’éloignement de personnes;
 - b. la fouille de personnes et de leurs effets personnels;
-- c. la fouille de locaux et de véhicules;
+- c.[^6-2] la fouille de locaux, d’objets et de véhicules;
 - d. le séquestre de biens.
+
+[^6-1]: Introduite par le ch. I 10 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^6-2]: Nouvelle teneur selon le ch. I 10 de la LF du 25 sept. 2020 sur les mesures poli-cières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 7
 
@@ -196,7 +200,7 @@ Le Conseil fédéral établit la liste des moyens auxiliaires et des armes qui p
 
 #### Art. 17
 
-**Equipement**
+**Équipement**
 
 <sup>1</sup> Le Conseil fédéral peut définir les spécifications techniques des armes et des moyens auxiliaires (équipement) des organes de police de la Confédération.
 
@@ -226,6 +230,14 @@ Lorsqu’une personne est retenue pour une courte durée, elle doit:
 
 <sup>2</sup> La rétention peut durer qu’aussi longtemps que les circonstances l’exigent; elle ne peut pas excéder 24 heures.
 
+#### Art. 19a
+
+**Renvoi et éloignement**[^19a-1]
+
+Une personne peut être renvoyée ou éloignée temporairement d’un lieu si cela est nécessaire à l’exécution d’une mesure policière.
+
+[^19a-1]: Introduit par le ch. I 10 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
 #### Art. 20
 
 **Fouille, palpation et fouille des parties intimes**
@@ -237,6 +249,18 @@ Lorsqu’une personne est retenue pour une courte durée, elle doit:
 <sup>3</sup> La palpation d’une personne soupçonnée de transporter des armes et des objets dangereux n’est pas soumise aux exigences prévues aux al. 1 et 2.
 
 <sup>4</sup> La fouille des parties intimes d’une personne ne peut être effectuée que par un médecin.
+
+#### Art. 20a
+
+**Fouille de locaux, d’objets et de véhicules**[^20a-1]
+
+<sup>1</sup> Un local, un objet ou un véhicule peut être fouillé lorsqu’il est utilisé par une personne remplissant les conditions de la fouille.
+
+<sup>2</sup> La fouille a lieu si possible en présence de la personne qui a la maîtrise sur la chose.
+
+<sup>3</sup> La fouille est documentée si elle a lieu en l’absence de cette personne.
+
+[^20a-1]: Introduit par le ch. I 10 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 21
 
