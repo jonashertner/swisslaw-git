@@ -4,11 +4,11 @@ title: "Legge federale del 22 giugno 2001 sui documenti d'identità dei cittadin
 short: LDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/441"
 language: it
-version: 2018-01-01
+version: 2022-06-01
 adopted: 2001-06-22
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/441/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2002-441-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/441/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/441/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2002-441-20220601-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/441/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/441/20180101/it"
 
 (Legge sui documenti d’identità, LDI)
 
-del 22 giugno 2001 (Stato 1° gennaio 2018) (Stato 1° gennaio 2018)
+del 22 giugno 2001 (Stato 1° giugno 2022) (Stato 1° giugno 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -324,13 +324,15 @@ Per adempiere i compiti spettanti loro per legge, le autorità o i servizi segue
 - c. il Corpo delle guardie di confine, esclusivamente per la verifica dell’identità;
 - d. i servizi di polizia designati dalla Confederazione e dai Cantoni, esclusivamente per la verifica dell’identità;
 - e. i servizi di polizia incaricati dai Cantoni di registrare le comunicazioni concernenti la perdita di documenti d’identità;
-- f. il servizio di polizia della Confederazione designato competente per le richieste di verifica dell’identità provenienti dall’estero, esclusivamente per la verifica dell’identità.
+- f. il servizio di polizia della Confederazione designato competente per le richieste di verifica dell’identità provenienti dall’estero, esclusivamente per la verifica dell’identità;
+- g.[^12-2] il Servizio delle attività informative della Confederazione, esclusivamente per la verifica dell’identità.
 
 <sup>3</sup> I dati del sistema d’informazione possono essere trasmessi allo scopo di identificare vittime di incidenti, di catastrofi naturali e di atti violenti nonché persone scomparse. La trasmissione di informazioni ad altre autorità è retta dai principi dell’assistenza amministrativa.
 
 <sup>4</sup> Le autorità competenti di cui al capoverso 2 lettere c e d possono anche, mediante procedura di richiamo, consultare i dati del sistema d’informazione basandosi sul nome e sui dati biometrici dell’interessato, sempre che questi non possa esibire un documento d’identità.
 
 [^12-1]: Nuovo testo giusta l’art. 2 n. 1 del DF del 13 giu. 2008 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la Comunità europea concernente il recepimento del regolamento (CE) n. 2252/2004 sui passaporti e i documenti di viaggio biometrici, in vigore dal 1° mar. 2010 ([RU 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667); [FF 2007 4731](https://fedlex.data.admin.ch/eli/fga/2007/731)).
+[^12-2]: Introdotta dal n. I 5 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 13
 

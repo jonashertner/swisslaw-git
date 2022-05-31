@@ -4,11 +4,11 @@ title: "Loi fédérale du 22 juin 2001 sur les documents d'identité des ressort
 short: LDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/441"
 language: fr
-version: 2018-01-01
+version: 2022-06-01
 adopted: 2001-06-22
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/441/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-441-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/441/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/441/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2002-441-20220601-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/441/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/441/20180101/fr"
 
 (Loi sur les documents d’identité, LDI)
 
-du 22 juin 2001 (Etat le 1<sup>er</sup> janvier 2018)
+du 22 juin 2001 (Etat le 1<sup>er</sup> juin 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -92,7 +92,7 @@ Chaque document d’identité doit comporter les données suivantes:
 
 <sup>1</sup> La puce doit être protégée contre les falsifications et la lecture non autorisée. Le Conseil fédéral fixe les exigences techniques.
 
-<sup>2</sup> Le Conseil fédéral est autorisé à conclure des traités avec d’autres Etats concernant la lecture des empreintes digitales enregistrées dans la puce, pour autant que les Etats concernés disposent d’une protection des données analogue à celle appliquée par la Suisse.
+<sup>2</sup> Le Conseil fédéral est autorisé à conclure des traités avec d’autres États concernant la lecture des empreintes digitales enregistrées dans la puce, pour autant que les États concernés disposent d’une protection des données analogue à celle appliquée par la Suisse.
 
 <sup>3</sup> Il peut autoriser les compagnies de transport, les exploitants d’aéroports et d’autres services adéquats qui doivent vérifier l’identité de personnes à lire les empreintes digitales enregistrées dans la puce.
 
@@ -104,7 +104,7 @@ Chaque document d’identité doit comporter les données suivantes:
 
 La durée de validité des documents d’identité est limitée. Elle est fixée par le Conseil fédéral.
 
-## Section 2 Etablissement, production, retrait et perte des documents d’identité****
+## Section 2 Établissement, production, retrait et perte des documents d’identité****
 
 [^sec2-1]
 
@@ -116,7 +116,7 @@ La durée de validité des documents d’identité est limitée. Elle est fixée
 
 <sup>1</sup> Les documents d’identité sont établis en Suisse par les services désignés par les cantons. Le Conseil fédéral peut désigner d’autres services. Si un canton dispose de plusieurs autorités habilitées à établir des documents d’identité, il désigne un service responsable.[^4-1]
 
-<sup>2</sup> A l’étranger, les documents d’identité sont établis par les services désignés par le Conseil fédéral.
+<sup>2</sup> À l’étranger, les documents d’identité sont établis par les services désignés par le Conseil fédéral.
 
 <sup>3</sup> Le Conseil fédéral règle les compétences à raison du lieu et de la matière.
 
@@ -150,7 +150,7 @@ Le Conseil fédéral édicte des dispositions relatives à la procédure de dema
 <sup>3</sup> Le Conseil fédéral peut, tout en tenant compte des dispositions internationales et des possibilités techniques, prévoir des exceptions à l’obligation du requérant de se présenter en personne.
 
 [^5-1]: Nouvelle teneur selon l’art. 2 ch. 1 de l’AF du 13 juin 2008 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la Communauté européenne concernant la reprise du Règlement (CE) n<sup>o</sup> 2252/2004 relatif aux passeports biométriques et aux documents de voyage, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667); [FF 2007 4893](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^5-2]: Nouvelle expression selon le ch. 2 de l’annexe à la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)). Il a été tenu compte de cette mod. dans tout le texte.
+[^5-2]: Nouvelle expression selon l’annexe ch. 2 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)). Il a été tenu compte de cette mod. dans tout le texte.
 [^5-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Demande de cartes d’identité non biométriques auprès de la commune de domicile), en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2011 5003](https://fedlex.data.admin.ch/eli/oc/2011/727); [FF 2011 2137](https://fedlex.data.admin.ch/eli/fga/2011/297)[2151](https://fedlex.data.admin.ch/eli/fga/2011/299)).
 [^5-4]: Introduite par le ch. I de la LF du 17 juin 2011 (Demande de cartes d’identité non biométriques auprès de la commune de domicile), en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2011 5003](https://fedlex.data.admin.ch/eli/oc/2011/727); [FF 2011 2137](https://fedlex.data.admin.ch/eli/fga/2011/297)[2151](https://fedlex.data.admin.ch/eli/fga/2011/299)).
 
@@ -173,7 +173,7 @@ L’établissement d’un document d’identité est refusé:
 
 <sup>4</sup> L’établissement d’un document d’identité est refusé en accord avec l’autorité compétente lorsque le requérant fait l’objet d’un mandat d’arrêt pour un crime ou un délit signalé dans le système de recherches informatisées de police (RIPOL).
 
-<sup>5</sup> L’établissement d’un document d’identité est refusé lorsque le requérant dépose sa demande dans un Etat étranger et qu’il est poursuivi ou a été condamné dans un Etat étranger pour une infraction qui constitue un crime ou un délit selon le droit suisse et qu’il y a lieu de craindre qu’il veuille se soustraire à la poursuite pénale ou à l’exécution de la peine. L’établissement du document d’identité n’est pas refusé lorsque les conséquences de la peine prévue sont incompatibles avec l’ordre public suisse.[^6-4]
+<sup>5</sup> L’établissement d’un document d’identité est refusé lorsque le requérant dépose sa demande dans un État étranger et qu’il est poursuivi ou a été condamné dans un État étranger pour une infraction qui constitue un crime ou un délit selon le droit suisse et qu’il y a lieu de craindre qu’il veuille se soustraire à la poursuite pénale ou à l’exécution de la peine. L’établissement du document d’identité n’est pas refusé lorsque les conséquences de la peine prévue sont incompatibles avec l’ordre public suisse.[^6-4]
 
 [^6-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Demande de cartes d’identité non biométriques auprès de la commune de domicile), en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2011 5003](https://fedlex.data.admin.ch/eli/oc/2011/727); [FF 2011 2137](https://fedlex.data.admin.ch/eli/fga/2011/297)[2151](https://fedlex.data.admin.ch/eli/fga/2011/299)).
 [^6-2]: Introduit par le ch. I de la LF du 17 juin 2011 (Demande de cartes d’identité non biométriques auprès de la commune de domicile), en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2011 5003](https://fedlex.data.admin.ch/eli/oc/2011/727); [FF 2011 2137](https://fedlex.data.admin.ch/eli/fga/2011/297)[2151](https://fedlex.data.admin.ch/eli/fga/2011/299)).
@@ -236,7 +236,7 @@ Un document d’identité est retiré:
 
 <sup>1bis</sup> L’autorité qui prononce l’annulation d’une naturalisation ou d’une réintégration en vertu de l’art. 36 de la loi du 20 juin 2014 sur la nationalité suisse[^7-1] ordonne simultanément le retrait des documents d’identité.[^7-2]
 
-<sup>1ter</sup> Les documents d’identité retirés sont à restituer dans un délai de 30 jours à l’autorité compétente qui les a émis. A l’échéance de ce délai, les documents d’identité retirés mais non restitués sont réputés perdus et signalés comme tels dans le système de recherche informatisé de police (RIPOL).[^7-3]
+<sup>1ter</sup> Les documents d’identité retirés sont à restituer dans un délai de 30 jours à l’autorité compétente qui les a émis. À l’échéance de ce délai, les documents d’identité retirés mais non restitués sont réputés perdus et signalés comme tels dans le système de recherche informatisé de police (RIPOL).[^7-3]
 
 <sup>2</sup>
 
@@ -246,8 +246,8 @@ Le service compétent de la Confédération[^7-4] peut, après avoir consulté l
 - b. a été condamné par un jugement passé en force prononcé par un tribunal suisse et que la peine ou la mesure n’a pas été subie et n’est pas prescrite.
 
 [^7-1]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^7-2]: Introduit par le ch. II 3 de l’annexe à la L du 20 juin 2014 sur la nationalité suisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 2561](https://fedlex.data.admin.ch/eli/oc/2016/404); [FF 2011 2639](https://fedlex.data.admin.ch/eli/fga/2011/422)).
-[^7-3]: Introduit par le ch. II 3 de l’annexe à la L du 20 juin 2014 sur la nationalité suisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 2561](https://fedlex.data.admin.ch/eli/oc/2016/404); [FF 2011 2639](https://fedlex.data.admin.ch/eli/fga/2011/422)).
+[^7-2]: Introduit par l’annexe ch. II 3 de la L du 20 juin 2014 sur la nationalité suisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 2561](https://fedlex.data.admin.ch/eli/oc/2016/404); [FF 2011 2639](https://fedlex.data.admin.ch/eli/fga/2011/422)).
+[^7-3]: Introduit par l’annexe ch. II 3 de la L du 20 juin 2014 sur la nationalité suisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 2561](https://fedlex.data.admin.ch/eli/oc/2016/404); [FF 2011 2639](https://fedlex.data.admin.ch/eli/fga/2011/422)).
 [^7-4]: Office fédéral de la police
 
 #### Art. 8
@@ -258,7 +258,7 @@ Toute perte d’un document d’identité doit être signalée à la police. Cel
 
 #### Art. 9
 
-**Emoluments**
+**Émoluments**
 
 <sup>1</sup> Le Conseil fédéral règle l’assujettissement et fixe le montant des émoluments.
 
@@ -324,13 +324,15 @@ Pour accomplir les tâches qui leur incombent de par la loi, les autorités et o
 - c. le Corps des gardes-frontière, exclusivement pour les vérifications d’identité;
 - d. les services de police désignés par la Confédération et les cantons, exclusivement pour les vérifications d’identité;
 - e. les services de police chargés par les cantons d’enregistrer les déclarations de perte de documents d’identité;
-- f. le service de police de la Confédération désigné pour le traitement des demandes de vérification d’identité émanant de l’étranger, exclusivement pour les vérifications d’identité.
+- f. le service de police de la Confédération désigné pour le traitement des demandes de vérification d’identité émanant de l’étranger, exclusivement pour les vérifications d’identité;
+- g.[^12-2] le Service de renseignement de la Confédération, exclusivement pour les vérifications d’identité.
 
 <sup>3</sup> Les données du système d’information peuvent être transmises à des fins d’identification de victimes d’accidents, de catastrophes naturelles et d’actes de violence ainsi que de personnes disparues. La transmission de renseignements à d’autres autorités se fonde sur les principes de l’assistance administrative.
 
 <sup>4</sup> Les autorités désignées à l’al. 2, let. c et d, peuvent également consulter en ligne les données du système d’information sur la base du nom et des données biométriques de la personne concernée lorsque celle-ci ne peut présenter de document d’identité.
 
 [^12-1]: Nouvelle teneur selon l’art. 2 ch. 1 de l’AF du 13 juin 2008 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la Communauté européenne concernant la reprise du Règlement (CE) n<sup>o</sup> 2252/2004 relatif aux passeports biométriques et aux documents de voyage, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667); [FF 2007 4893](https://fedlex.data.admin.ch/eli/fga/2007/731)).
+[^12-2]: Introduite par le ch. I 5 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 13
 

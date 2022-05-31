@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 22. Juni 2001 über die Ausweise für Schweizer Staatsa
 short: AwG
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/441"
 language: de
-version: 2018-01-01
+version: 2022-06-01
 adopted: 2001-06-22
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/441/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2002-441-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/441/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/441/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2002-441-20220601-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/441/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/441/20180101/de"
 
 (Ausweisgesetz, AwG)
 
-vom 22. Juni 2001 (Stand am 1. Januar 2018)
+vom 22. Juni 2001 (Stand am 1. Juni 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -326,13 +326,15 @@ Folgende Behörden oder Stellen können zur Erfüllung ihrer gesetzlichen Aufgab
 - c. das Grenzwachtkorps, ausschliesslich zur Identitätsabklärung;
 - d. die vom Bund und von den Kantonen bezeichneten Polizeistellen, ausschliesslich zur Identitätsabklärung;
 - e. die von den Kantonen bezeichneten Polizeistellen zur Aufnahme von Verlustmeldungen;
-- f. die für aus dem Ausland eingehende Anfragen zur Identitätsabklärung als zuständig bezeichnete Polizeistelle des Bundes, ausschliesslich zur Identitätsabklärung.
+- f. die für aus dem Ausland eingehende Anfragen zur Identitätsabklärung als zuständig bezeichnete Polizeistelle des Bundes, ausschliesslich zur Identitätsabklärung;
+- g.[^12-2] der Nachrichtendienst des Bundes, ausschliesslich zur Identitätsabklärung.
 
 <sup>3</sup> Zur Identifikation von Opfern von Unfällen, Naturkatastrophen und Gewalttaten sowie von vermissten Personen dürfen Daten aus dem Informationssystem weitergegeben werden. Auskünfte an weitere Behörden richten sich nach den Grundsätzen der Amtshilfe.
 
 <sup>4</sup> Die zuständigen Behörden nach Absatz 2 Buchstaben c und d können die Daten im Informationssystem auch anhand des Namens und der biometrischen Daten der betreffenden Person im Abrufverfahren abfragen, sofern diese keinen Ausweis vorlegen kann.
 
 [^12-1]: Fassung gemäss Art. 2 Ziff. 1 des BB vom 13. Juni 2008 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EG betreffend die biometrischen Pässe und Reisedokumente, in Kraft seit 1. März 2010 ([AS 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667); [BBl 2007 5159](https://fedlex.data.admin.ch/eli/fga/2007/731)).
+[^12-2]: Eingefügt durch Ziff. I 5 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 13
 
