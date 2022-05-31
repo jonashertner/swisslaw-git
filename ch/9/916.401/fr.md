@@ -4,11 +4,11 @@ title: Ordonnance du 27 juin 1995 sur les épizooties (OFE)
 short: OFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: fr
-version: 2022-01-01
+version: 2022-06-01
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20220101-fr-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20220601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20220101/fr"
 
 (OFE)
 
-du 27 juin 1995 (Etat le 1<sup>er</sup> janvier 2022)
+du 27 juin 1995 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -572,7 +572,7 @@ Le passeport équin doit de plus comprendre les annexes suivantes:
 [^15d-3]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^15d-4]: Introduit par le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15d-5]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^15d-6]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^15d-6]: [[RO 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747); [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [4809](https://fedlex.data.admin.ch/eli/oc/2006/739); [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)annexe 2 ch. 2, [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)ch. II 1; [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)annexe 8 ch. II 2, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)annexe 2 ch. II 2, [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)annexe 2 ch. II 4; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 8; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)annexe 3 ch. II 6, 5201 annexe ch. II 3. [RO 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62 al. 1]. Voir actuellement l’O du 16 déc. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
 [^15d-7]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^15d-8]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 
@@ -1246,12 +1246,12 @@ La patente est délivrée si le requérant:
 
 <sup>5</sup> Les marchands de bétail qui livrent leurs animaux directement aux abattoirs ne sont pas tenus de posséder un local de stabulation.
 
-<sup>6</sup> La délivrance de la patente doit être saisie par le vétérinaire cantonal dans le système ASAN visé par l’OSIVét[^34-3].[^34-4]
+<sup>6</sup> La délivrance de la patente doit être saisie par le vétérinaire cantonal dans le système d’information pour les données d’exécution du service vétérinaire public (ASAN) visé dans l’ordonnance du 27 avril 2022 sur les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire[^34-3].[^34-4]
 
 [^34-1]: Nouvelle teneur selon le ch. I de l’O du 19 août 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
 [^34-2]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^34-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^34-4]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
+[^34-4]: Nouvelle teneur selon l’annexe 4 ch. II 8 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 35
 
@@ -1269,13 +1269,12 @@ Le renouvellement de la patente est refusé ou la patente déjà délivrée est 
 - b. si le marchand de bétail ou son personnel a enfreint de façon grave ou réitérée la législation sur les épizooties, sur la protection des animaux, sur les denrées alimentaires, sur les produits thérapeutiques ou sur l’agriculture;
 - c.[^35-3] le marchand n’a pas suivi le cours de formation continue ou s’il n’a pas repassé le cours d’introduction.
 
-<sup>4</sup> Tout retrait ou refus de renouvellement de la patente doit être saisi par le vétérinaire cantonal dans le système ASAN visé par l’OSIVét[^35-4].[^35-5]
+<sup>4</sup> Tout retrait ou refus de renouvellement de la patente de marchand de bétail doit être saisi par le vétérinaire cantonal dans le système ASAN.[^35-4]
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 19 août 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
 [^35-2]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
 [^35-3]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
-[^35-4]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^35-5]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
+[^35-4]: Nouvelle teneur selon l’annexe 4 ch. II 8 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 36
 
@@ -1349,7 +1348,7 @@ Le vétérinaire cantonal organise une surveillance vétérinaire officielle des
 
 <sup>2</sup> Dans les grands abattoirs, le vétérinaire officiel doit établir un plan des mesures d’urgence en cas de constat ou de suspicion d’une épizootie hautement contagieuse.
 
-[^38-1]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^38-1]: [[RO 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747); [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [4809](https://fedlex.data.admin.ch/eli/oc/2006/739); [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)annexe 2 ch. 2, [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)ch. II 1; [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)annexe 8 ch. II 2, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)annexe 2 ch. II 2, [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)annexe 2 ch. II 4; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 8; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)annexe 3 ch. II 6, 5201 annexe ch. II 3. [RO 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62 al. 1]. Voir actuellement l’O du 16 déc. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
 [^38-2]: Nouvelle teneur selon l’annexe ch. II 3 de l’O du 23 nov. 2005 concernant l’abattage d’animaux et le contrôle des viandes, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747)).
 
 ### Section 9**** Taxe perçue à l’abattage
@@ -6378,7 +6377,7 @@ Un laboratoire est agréé aux conditions suivantes:
 - b.[^312-4] dans le cadre de ses missions principales, il propose une gamme d’analyses portant sur au moins 15 épizooties au sens des art. 3 à 5 et dispose des méthodes nécessaires pour ces analyses;
 - c. il a son siège et effectue ses analyses en Suisse;
 - d. il remplit les exigences en matière de personnel fixées aux al. 3 et 4;
-- e.[^312-5] il est connecté à ALIS.
+- e.[^312-5] il est connecté au système d’information pour les résultats de contrôles et d’analyses visé dans l’ordonnance du 27 avril 2022 sur les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire[^312-6].
 
 <sup>3</sup> Le laboratoire doit être placé sous la direction d’un vétérinaire spécialisé dans le diagnostic vétérinaire des infections effectué en laboratoire et disposer d’une suppléance équivalente sur le plan technique. Les personnes concernées doivent avoir accompli une formation qualifiante en lutte contre les épizooties et travailler chacune à au moins 60 % dans le même laboratoire.
 
@@ -6390,7 +6389,8 @@ Un laboratoire est agréé aux conditions suivantes:
 [^312-2]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
 [^312-3]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 [^312-4]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^312-5]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^312-5]: Nouvelle teneur selon l’annexe 4 ch. II 8 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^312-6]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
 
 #### Art. 312a
 

@@ -4,11 +4,11 @@ title: Ordinanza del 27 giugno 1995 sulle epizoozie (OFE)
 short: OFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: it
-version: 2022-01-01
+version: 2022-06-01
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20220101-it-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20220601/it/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20220601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20220101/it"
 
 (OFE)
 
-del 27 giugno 1995 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 27 giugno 1995 (Stato 1° giugno 2022) (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -576,7 +576,7 @@ Il passaporto per equide deve inoltre contenere i seguenti allegati:
 [^15d-3]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^15d-4]: Introdotto dal n. I dell’O del 20 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15d-5]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^15d-6]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)n. II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 n. II 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 3. [RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62]. Vedi ora la l’O del 16 dic. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
+[^15d-6]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)n. II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 n. II 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 3. [RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62]. Vedi ora l’O del 16 dic. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
 [^15d-7]: Nuovo testo giusta il n. I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^15d-8]: Nuovo testo giusta il n. I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 
@@ -1253,12 +1253,12 @@ La patente è rilasciata se il richiedente:
 
 <sup>5</sup> Sono esentati dall’obbligo di disporre di una stalla i commercianti di bestiame che consegnano gli animali direttamente ai macelli.
 
-<sup>6</sup> Il veterinario cantonale registra il rilascio della patente per il commercio di bestiame in ASAN secondo l’O-SISVet[^34-3].[^34-4]
+<sup>6</sup> Il veterinario cantonale registra il rilascio della patente per il commercio di bestiame nel sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione (ASAN) secondo l’ordinanza del 27 aprile 2022[^34-3] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare.[^34-4]
 
 [^34-1]: Nuovo testo giusta il n. I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
 [^34-2]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^34-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^34-4]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
+[^34-4]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 35
 
@@ -1276,13 +1276,12 @@ La patente per il commercio di bestiame non è rinnovata o è revocata in caso d
 - b. violazione ripetuta o grave da parte del commerciante di bestiame o del suo personale delle prescrizioni delle legislazioni in materia di epizoozie, di protezione degli animali, di derrate alimentari, di agenti terapeutici e di agricoltura;
 - c.[^35-3] mancata frequentazione del corso di formazione continua o mancata ripetizione del corso di introduzione.
 
-<sup>4</sup> Il veterinario cantonale registra la revoca o il mancato rinnovo della patente per il commercio di bestiame in ASAN secondo l’O-SISVet[^35-4].[^35-5]
+<sup>4</sup> Il veterinario cantonale registra la revoca o il mancato rinnovo della patente per il commercio di bestiame in ASAN.[^35-4]
 
 [^35-1]: Nuovo testo giusta il n. I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
 [^35-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
 [^35-3]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
-[^35-4]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^35-5]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
+[^35-4]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 36
 
@@ -1356,7 +1355,7 @@ Il veterinario cantonale dispone che le stalle dei commercianti di bestiame e le
 
 <sup>2</sup> Nei grandi stabilimenti di macellazione, il veterinario ufficiale[^38-3] allestisce un catalogo di provvedimenti urgenti da applicare qualora venga accertata o sospettata un’epizoozia altamente contagiosa.
 
-[^38-1]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)n. II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 n. II 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 3. [RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62]. Vedi ora la l’O del 16 dic. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
+[^38-1]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)n. II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 n. II 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 3. [RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62]. Vedi ora l’O del 16 dic. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
 [^38-2]: Nuovo testo giusta l’all. n. II 3 dell’O del 23 nov. 2005 concernente la macellazione e il controllo delle carni, in vigore dal 1° gen. 2006 ([RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747)).
 [^38-3]: Nuova espr. giusta l’all. 2 n. 5 dell’O del 24 gen. 2007 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico, in vigore dal 1° apr. 2007 ([RU 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)). Di detta mod. é tenuto conto in tutto il presente testo.
 
@@ -1763,7 +1762,7 @@ Il veterinario ufficiale, l’assistente specializzato ufficiale, l’ispettore 
 
 [^65b-1]
 
-[^65b-1]: Introdotto dal n. I dell’O del 15 nov. 2006 ([RU 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)). Abrogato dall’art. 25 dell’O del 29 ott. 2008 concernente il Sistema d’informazione per il Servizio veterinario pubblico, con effetto dal 1° gen. 2009 ([RU 2008 5589](https://fedlex.data.admin.ch/eli/oc/2008/775)).
+[^65b-1]: Introdotto dal n. I dell’O del 15 nov. 2006 (RU **200****6** 5217). Abrogato dall’art. 25 dell’O del 29 ott. 2008 concernente il Sistema d’informazione per il Servizio veterinario pubblico, con effetto dal 1° gen. 2009 ([RU 2008 5589](https://fedlex.data.admin.ch/eli/oc/2008/775)).
 
 ### Sezione 3: Provvedimenti di sequestro
 
@@ -4152,7 +4151,7 @@ Egli revoca il sequestro:
 È diagnosticata la besnoitiosi quando:
 
 - a. l’esito dellʼanalisi sierologica è positivo; oppure
-- b. è messa in evidenza la *Besnoitia besnoiti* nel materiale analizzato.
+- b. è messa in evidenza la *Besnoiti**a besnoiti* nel materiale analizzato.
 
 <sup>3</sup> LʼUSAV emana prescrizioni tecniche sul prelievo e lʼanalisi di campioni.
 
@@ -6372,7 +6371,7 @@ Un laboratorio è riconosciuto se:
 - b.[^312-4] nel quadro dei suoi compiti principali è in grado di analizzare uno spettro di almeno 15 epizoozie di cui agli articoli 3–5 e dispone dei metodi necessari per le analisi;
 - c. ha sede e svolge le analisi in Svizzera;
 - d. adempie i requisiti in materia di personale di cui ai capoversi 3 e 4;
-- e.[^312-5] è collegato ad ALIS.
+- e.[^312-5] è collegato al sistema d’informazione per i risultati dei controlli e delle analisi secondo l’ordinanza del 27 aprile 2022[^312-6] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare.
 
 <sup>3</sup> Il laboratorio deve essere diretto da un veterinario specializzato in diagnostica delle malattie infettive e da un sostituto con una specializzazione equivalente. Il direttore e il suo sostituto devono avere portato a termine un perfezionamento in lotta alle epizoozie e lavorare almeno al 60 per cento nello stesso laboratorio.
 
@@ -6384,7 +6383,8 @@ Un laboratorio è riconosciuto se:
 [^312-2]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
 [^312-3]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 [^312-4]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^312-5]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^312-5]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^312-6]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
 
 #### Art. 312a
 
