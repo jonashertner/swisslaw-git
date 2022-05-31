@@ -3,20 +3,19 @@ canton: LU
 number: 775b
 title: Reglement für den Verkehrsverbund Luzern
 language: de
-version: 2022-01-01
-valid_until: 2022-05-31
-version_adopted: 2022-02-04
+version: 2022-06-01
+version_adopted: 2022-05-17
 adopted: 2010-01-08
 in_force: 2010-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/775b"
-pdf: "https://srl.lu.ch/api/de/versions/3897/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3914/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement für den Verkehrsverbund Luzern
 
-vom 08.01.2010 (Stand 01.01.2022)
+vom 08.01.2010 (Stand 01.06.2022)
 
 Der Verbundrat des Verkehrsverbundes Luzern,
 
@@ -164,7 +163,9 @@ beschliesst:
 
 **Zeichnungsberechtigung**
 
-<sup>1</sup> Der Geschäftsleiter oder die Geschäftsleiterin, im Verhinderungsfall der Stellvertreter oder die Stellvertreterin, zeichnet im Rahmen seiner oder ihrer Kompetenzen allein.
+<sup>1</sup> Für den Abschluss von Rechtsgeschäften gilt Kollektivunterschrift zu zweien. Der Verbundrat legt die zeichnungsberechtigten Personen und deren finanzielle Kompetenzen fest.
+
+<sup>2</sup> Für Entscheide, Weisungen, Korrespondenz und Ähnliches im Zusammenhang mit der Führung und Organisation des Verkehrsverbundes besitzt der Geschäftsleiter oder die Geschäftsleiterin im Rahmen der Kompetenzen die Einzelzeichnungsbefugnis.
 
 ## 3 Steuerung
 
