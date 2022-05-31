@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 16.504 n Iv. pa. Giezendanner. Garantie de l’approvisionnement en sang et gratuité du don de sang
 document: Projet mis en consultation
 language: fr

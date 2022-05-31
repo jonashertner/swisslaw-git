@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 16.504 n Iv. pa. Giezendanner. Garantire l’approvvigionamento di sangue e la gratuità della donazione
 document: Progetto posto in consultazione
 language: it

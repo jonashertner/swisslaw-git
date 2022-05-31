@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 16.504 n Pa. Iv. Giezendanner. Sicherstellung der Blutversorgung und Unentgeltlichkeit der Blutspende
 document: Vernehmlassungsvorlage
 language: de
