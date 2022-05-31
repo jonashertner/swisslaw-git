@@ -4,13 +4,12 @@ number: "611.1"
 title: Gesetz über den Finanzhaushalt des Kantons und der Gemeinden
 short: "Finanzhaushaltgesetz, FHG"
 language: de
-version: 2018-01-01
-valid_until: 2022-05-31
-version_adopted: 2017-11-28
+version: 2022-06-01
+version_adopted: 2022-03-03
 adopted: 2006-08-31
 in_force: 2007-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/611.1"
-pdf: "https://bgs.zg.ch/api/de/versions/1731/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2339/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1731/pdf_file"
 
 (Finanzhaushaltgesetz, FHG)
 
-Vom 31. August 2006 (Stand 1. Januar 2018)
+Vom 31. August 2006 (Stand 1. Juni 2022)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -438,11 +437,13 @@ beschliesst:
 
 #### § 29
 
-**Notstandskredit**
+**Notkredit**
 
-<sup>1</sup> Wenn für eine Ausgabe die Rechtsgrundlage fehlt und deren Aufschub schwerwiegende Nachteile für das Gemeinwesen bewirken würde, kann die Exekutive Notstandskredite beschliessen. Darüber ist die Staatswirtschaftskommission, die Geschäftsprüfungskommission beziehungsweise die Rechnungsprüfungskommission umgehend, die Legislative so schnell wie möglich zu informieren.
+<sup>1</sup> Wenn für eine Ausgabe die Rechtsgrundlage fehlt und deren Aufschub schwerwiegende Nachteile für das Gemeinwesen bewirken würde, die später nicht mehr wiedergutzumachen sind, kann die Exekutive ​Notkredite beschliessen. Darüber hinausgehende Ausgaben sind auf dem ordentlichen Weg zu genehmigen.
 
-<sup>2</sup> Der entsprechende Verpflichtungskredit ist nachträglich im ordentlichen Verfahren einzuholen.
+<sup>2</sup> Vor dem Beschluss gemäss Abs. 1 hat die Exekutive die Staatswirtschaftskommission bzw. die Geschäftsprüfungs- oder Rechnungsprüfungskommission anzuhören.
+
+<sup>3</sup> Die Exekutive legt der Legislative unverzüglich einen Bericht zur Kenntnisnahme vor.
 
 #### § 30
 
@@ -503,7 +504,8 @@ beschliesst:
 - c) …
 - d) die Gewährung von Bürgschaften, Garantien und Darlehen bis 1 Mio. Franken;[^35-2]
 - e) die Umwandlung von nicht mehr benötigtem Verwaltungsvermögen in Finanzvermögen, wobei die Staatswirtschaftskommission zu informieren ist;
-- f) das Mahnwesen von Gebühren und Auslagen.
+- f) das Mahnwesen von Gebühren und Auslagen;
+- g) neue Ausgaben bis 500 000 Franken pro Einzelfall, maximal 1 Mio. Franken pro Rechnungsjahr. Darüber informiert der Regierungsrat jeweils im Geschäftsbericht in einem separaten Kapitel.
 
 <sup>3</sup> Der Regierungsrat regelt den Ausgabenvollzug. Er kann seine Ausgabenkompetenzen bis 500 000 Franken an die Direktionen und die Staatskanzlei delegieren.[^35-3]
 
