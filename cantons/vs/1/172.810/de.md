@@ -4,13 +4,12 @@ number: "172.810"
 title: Allgemeine Ausführungsverordnung zum Gesetz über die Referenzdatenbanken und die Harmonisierung der Register
 short: AVGRDB
 language: de
-version: 2021-01-01
-valid_until: 2022-05-31
-version_adopted: 2021-02-03
+version: 2022-06-01
+version_adopted: 2022-05-18
 adopted: 2021-02-03
 in_force: 2021-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/172.810"
-pdf: "https://lex.vs.ch/api/de/versions/2847/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3456/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2847/pdf_file"
 
 (AVGRDB)
 
-vom 03.02.2021 (Stand 01.01.2021)
+vom 03.02.2021 (Stand 01.06.2022)
 
 Der Staatsrat des Kantons Wallis
 
@@ -165,6 +164,18 @@ verordnet:
 <sup>1</sup> Die aktiven Quelldatenbanken übermitteln die Nachführungen ihrer Daten gemäss Artikel 8 mindestens wöchentlich.
 
 <sup>2</sup> Andernfalls meldet die für die Informatik zuständige Dienststelle dies dem betreffenden Registerhalter und informiert die Koordinationsstelle Verwaltung.
+
+#### Art. 10a
+
+**Zulassung von Anwendungen zur Verwaltung der Quelldatenbanken**
+
+<sup>1</sup> Der Staatsrat legt die Bedingungen für die Zulassung von Anwendungen und die Fristen für die Nacherfüllung fest. Er hält in den Ausführungsverordnungen fest, welche Anwendungen zertifiziert werden müssen.
+
+<sup>2</sup> Das KRDB kann von den Registerhaltern verlangen, ihre Anwendungen zertifizieren zu lassen, wenn die Regelmässigkeit oder Qualität der Übertragungen nicht den erwarteten Standards entspricht.
+
+<sup>3</sup> Für die Zertifizierung der Anwendungen ist die für die Informatik zuständige Dienststelle verantwortlich. Sie legt die technologischen und sicherheitstechnischen Standards für die Lieferung der Quelldaten fest.
+
+<sup>4</sup> Anbieter von IT-Lösungen für Quelldaten können die Zulassung ihrer Lösung beantragen, sofern sie die festgelegten Anforderungen erfüllen.
 
 #### Art. 11
 
@@ -510,6 +521,8 @@ verordnet:
 
 <sup>1</sup> Die vorliegende Ausführungsverordnung tritt ab ihrem Inkrafttreten an die Stelle der Bestimmungen, die durch sie aufgehoben werden und auf die in der geltenden Gesetzgebung verwiesen wird.
 
-<sup>2</sup> Den Behörden wird ab Inkrafttreten der vorliegenden Verordnung eine zweijährige Frist zugestanden, um die Bestimmungen der Verordnungen zum GRDB zu erfüllen. Der Staatsrat kann diese Frist von Jahr zu Jahr verlängern.
+<sup>2</sup> Den Behörden wird ab Inkrafttreten der vorliegenden Verordnung eine zweijährige Frist zugestanden, um die Bestimmungen der Verordnungen zum GRDB zu erfüllen. Der Staatsrat kann diese Frist von Jahr zu Jahr verlängern. [^36-1]
+
+[^36-1]: vgl. Frist verlängert: [https://lex.vs.ch/app/de/change\_documents/1380](https://lex.vs.ch/app/de/change_documents/1380)
 
 CSW RO/AGS 2021-012
