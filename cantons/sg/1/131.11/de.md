@@ -4,13 +4,13 @@ number: "131.11"
 title: Geschäftsreglement des Kantonsrates
 short: GeschKR
 language: de
-version: 2022-01-01
-valid_until: 2022-05-31
+version: 2022-06-01
+valid_until: 2022-11-29
 version_adopted: 2021-12-01
 adopted: 1979-10-24
 in_force: 1980-05-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/131.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3302/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3303/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3302/pdf_file"
 
 (GeschKR)
 
-vom 24.10.1979 (Stand 01.01.2022)
+vom 24.10.1979 (Stand 01.06.2022)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -1705,7 +1705,9 @@ als Reglement:[^ingress-7]
 
 <sup>2</sup> Das absolute Mehr wird nach der Zahl der Stimmzettel ermittelt, die wenigstens einen gültigen Namen enthalten.
 
-<sup>3</sup> Überzählige Namen sind von unten nach oben zu streichen. Der gleiche Name wird nur einmal gezählt.
+<sup>3</sup> Der gleiche Name wird nur einmal gezählt.
+
+<sup>3<sup>bis</sup></sup> Ungültig sind Stimmzettel, auf denen die Zahl der angekreuzten Namen die Zahl der zu wählenden Personen übersteigt. Bei unterschiedlichen Wahlen, die auf demselben Stimmzettel aufgeführt werden, bezieht sich die Ungültigkeit nur auf die betroffene Wahl.
 
 <sup>4</sup> Erreichen mehr Personen, als zu wählen sind, das absolute Mehr, so fällt der Kandidat mit der geringsten Stimmenzahl aus der Wahl. Bei Stimmengleichheit zieht der Präsident das Los.
 
