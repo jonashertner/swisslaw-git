@@ -3,11 +3,11 @@ sr: "0.748.131.934.911"
 title: Notenaustausch vom 19. Dezember 1994 zwischen der Schweiz und Frankreich über die Errichtung nebeneinander liegender Grenzabfertigungsstellen auf dem Flughafen Genf-Cointrin
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4078_4078_4078"
 language: de
-version: 1994-12-19
+version: 2022-06-01
 adopted: 1994-12-19
 in_force: 1994-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4078_4078_4078/19941219/de/xml/fedlex-data-admin-ch-eli-cc-1995-4078_4078_4078-19941219-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4078_4078_4078/19941219/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4078_4078_4078/20220601/de/xml/fedlex-data-admin-ch-eli-cc-1995-4078_4078_4078-20220601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4078_4078_4078/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,7 +18,9 @@ AS **1995** III 4078
 
 In Kraft getreten am 19. Dezember 1994
 
-Übersetzung*[^ingress-1]*
+(Stand am 1. Juni 2022)
+
+Übersetzung
 
 <table>
 <tr><td>Ministerium</td><td>Paris, den 19. Dezember 1994</td></tr>
@@ -29,17 +31,16 @@ In Kraft getreten am 19. Dezember 1994
 
 Das Ministerium für auswärtige Angelegenheiten bezeugt der Schweizerischen Botschaft seine Hochachtung und beehrt sich, den Empfang ihrer Note vom 19. Dezember 1994, die folgenden Wortlaut hat, zu bestätigen.
 
-- «Die Schweizerische Botschaft bezeugt dem Ministerium für auswärtige Angelegenheiten ihre Hochachtung und beehrt sich, unter Bezugnahme auf Artikel 1 Absatz 4 des Abkommens zwischen der Schweiz und Frankreich vom 28. September 1960[^ingress-2] über die Errichtung nebeneinanderliegender Grenzabfertigungsstellen und die Grenzabfertigung während der Fahrt, ihm folgendes mitzuteilen:
+- «Die Schweizerische Botschaft bezeugt dem Ministerium für auswärtige Angelegenheiten ihre Hochachtung und beehrt sich, unter Bezugnahme auf Artikel 1 Absatz 4 des Abkommens zwischen der Schweiz und Frankreich vom 28. September 1960[^ingress-1] über die Errichtung nebeneinanderliegender Grenzabfertigungsstellen und die Grenzabfertigung während der Fahrt, ihm folgendes mitzuteilen:
 - Der Schweizerische Bundesrat hat von der Vereinbarung über die Errichtung nebeneinanderliegender Grenzabfertigungsstellen auf dem Flughafen Genf-Cointrin Kenntnis genommen.
-- Diese Vereinbarung ersetzt diejenige betreffend die Errichtung nebeneinanderliegender Grenzabfertigungsstellen im Flughafen Genf-Cointrin, die durch Notenaustausch vom 29. August 1983[^ingress-3] bestätigt wurde. Sie wurde am 2. September 1992 vom Generaldirektor der schweizerischen Zollverwaltung und am 30. März 1993 vom Generaldirektor der französischen Zollverwaltung und der Indirekten Steuern unterzeichnet und hat folgenden Wortlaut:
-- Gestützt auf das Abkommen vom 25. April 1956[^ingress-4] zwischen der Schweiz und Frankreich betreffend den Ausbau des Flughafens Genf-Cointrin und die Errichtung von nebeneinanderliegenden Kontrollbüros der beiden Staaten in Ferney-Voltaire und in Genf-Cointrin.
-- gestützt auf Artikel 1 Absatz 3 des Abkommens zwischen der Schweiz und Frankreich vom 28. September 1960[^ingress-5] über die Errichtung nebeneinanderliegender Grenzabfertigungsstellen und die Grenzabfertigung während der Fahrt, wird folgendes vereinbart:
+- Diese Vereinbarung ersetzt diejenige betreffend die Errichtung nebeneinanderliegender Grenzabfertigungsstellen im Flughafen Genf-Cointrin, die durch Notenaustausch vom 29. August 1983[^ingress-2] bestätigt wurde. Sie wurde am 2. September 1992 vom Generaldirektor der schweizerischen Zollverwaltung und am 30. März 1993 vom Generaldirektor der französischen Zollverwaltung und der Indirekten Steuern unterzeichnet und hat folgenden Wortlaut:
+- Gestützt auf das Abkommen vom 25. April 1956[^ingress-3] zwischen der Schweiz und Frankreich betreffend den Ausbau des Flughafens Genf-Cointrin und die Errichtung von nebeneinanderliegenden Kontrollbüros der beiden Staaten in Ferney-Voltaire und in Genf-Cointrin.
+- gestützt auf Artikel 1 Absatz 3 des Abkommens zwischen der Schweiz und Frankreich vom 28. September 1960[^ingress-4] über die Errichtung nebeneinanderliegender Grenzabfertigungsstellen und die Grenzabfertigung während der Fahrt, wird folgendes vereinbart:
 
-[^ingress-1]: Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
-[^ingress-2]: [SR 0.631.252.934.95](https://fedlex.data.admin.ch/eli/cc/1961/569_574_590)
-[^ingress-3]: [[AS 1983 1472](https://fedlex.data.admin.ch/eli/oc/1983/1472_1472_1472)]
-[^ingress-4]: [SR 0.748.131.934.91](https://fedlex.data.admin.ch/eli/cc/1958/129_135_141)
-[^ingress-5]: [SR 0.631.252.934.95](https://fedlex.data.admin.ch/eli/cc/1961/569_574_590)
+[^ingress-1]: [SR 0.631.252.934.95](https://fedlex.data.admin.ch/eli/cc/1961/569_574_590)
+[^ingress-2]: [[AS 1983 1472](https://fedlex.data.admin.ch/eli/oc/1983/1472_1472_1472)]
+[^ingress-3]: [SR 0.748.131.934.91](https://fedlex.data.admin.ch/eli/cc/1958/129_135_141)
+[^ingress-4]: [SR 0.631.252.934.95](https://fedlex.data.admin.ch/eli/cc/1961/569_574_590)
 
 #### Art. 1
 
@@ -53,41 +54,48 @@ Das Ministerium für auswärtige Angelegenheiten bezeugt der Schweizerischen Bot
 
 #### Art. 2
 
-Die Zone im Hauptflughof ist in zwei Sektoren eingeteilt:
+[^2-1]
+
+A. Die Zone im Hauptflughof ist in zwei Sektoren eingeteilt:
 
 - 1\.
 
-  einen von den Bediensteten beider Staaten gemeinsam benützten Sektor, umfassend:
+  Einen von den Bediensteten beider Staaten gemeinsam benützten Sektor, umfassend:
 
   - a.
 
-    auf der Verkehrsfläche gemäss beigefügtem Plan Nr. 1[^2-1]:
+    auf der Verkehrsfläche gemäss Plan Nr. 1, der dem Notenwechsel vom 19. Dezember 1994 beigefügt ist[^2-2]:
 
-    - – den für die Abstellplätze Nr. 8, 11 und 12 bestimmten Teil, der vorrangig Flugzeugen vorbehalten ist, die den französischen Eingangs- oder Ausgangsformalitäten und -kontrollen unterstehen. Dieser Sektor hat eine Länge von 225 m und eine Breite von 100 m. Die Länge wird vom Winkel der Südwestfassade des Pavillons «gros porteur» und der Galerie für Reisende, die den Zutritt dorthin erlaubt, gemessen.
-    - – die Abstellplätze Nr. 14, 15 und 16 sowie die entsprechenden Wege, wenn ein «gros porteur» den französischen Eingangs- oder Ausgangsformalitäten und -kontrollen unterworfen wird. Dieser Sektor hat eine Länge von 225 m und eine Breite von 100 m. Die Länge wird vom Winkel der Nordostfassade des Pavillons «gros porteur» und der Galerie für Reisende, die den Zutritt dorthin erlaubt, gemessen.
+    - – Den für die Abstellplätze Nr. 8, 11 und 12 bestimmten Teil, der vorrangig Flugzeugen vorbehalten ist, die den französischen Eingangs- oder Ausgangsformalitäten und -kontrollen unterstehen. Dieser Sektor hat eine Länge von 225 m und eine Breite von 100 m. Die Länge wird vom Winkel der Südwestfassade des Pavillons «gros porteur» und der Galerie für Reisende, die den Zutritt dorthin erlaubt, gemessen.
+    - – Die Abstellplätze Nr. 14, 15 und 16 sowie die entsprechenden Wege, wenn ein «gros porteur» den französischen Eingangs- oder Ausgangsformalitäten und -kontrollen unterworfen wird. Dieser Sektor hat eine Länge von 225 m und eine Breite von 100 m. Die Länge wird vom Winkel der Nordostfassade des Pavillons «gros porteur» und der Galerie für Reisende, die den Zutritt dorthin erlaubt, gemessen.
 
-  - b. im Innern des Flughofes den Gang, in dem das Gepäck herein- und hinausgeführt wird bis auf die Höhe der Stützpfeiler im Zentrum der Umschlagshalle für Gepäck, einschliesslich der drei Flächen, die die Verbindung zum französischen Sektor herstellen. Er ist auf dem beiliegenden Plan Nr. 2[^2-2] ersichtlich.
+  - b. Im Innern des Flughofes den Gang, in dem das Gepäck herein- und hinausgeführt wird bis auf die Höhe der Stützpfeiler im Zentrum der Umschlagshalle für Gepäck, einschliesslich der drei Flächen, die die Verbindung zum französischen Sektor herstellen. Er ist aus den Plänen Nr. 2.1, 2.2, 2.3, 2.4 und 2.5 ersichtlich, die die Pläne Nr. 2 und 3 im Anhang zum Notenwechsel vom 19. Dezember 1994 ersetzen[^2-3].
 
 - 2\.
 
-  einen den französischen Bediensteten vorbehaltenen Sektor, umfassend:
+  Einen den französischen Bediensteten vorbehaltenen Sektor, umfassend:
 
   - a.
 
     auf der Höhe der Piste:
 
-    - – den Innenraum des Nordostflügels des Gebäudes, der gemäss dem beiliegenden Plan Nr. 2[^2-3] begrenzt wird;
+    - – den Innenraum des Nordostflügels des Gebäudes, der gemäss dem beiliegenden Plan Nr. 2.1 begrenzt wird, der den Plan Nr. 2 im Anhang des Notenwechsels vom 19. Dezember 1994 ersetzt[^2-4],
     - – den Hof und die Zollstrasse bis zur Landesgrenze;
 
-  - b.
+  - b. auf der Höhe der «Ankunft» im Obergeschoss des Hauptflughofs:
+  - die Treppe, die es den Reisenden erlaubt, den Ort der französischen Ausgangsabfertigung «sortie de France» zu verlassen, einschliesslich des Durchgangs am Fuss der Treppe bis zur zentralen Säule, die in der Verlängerung der südöstlichen Wand der vom Pavillon Nr. 12 herführenden Galerie für Reisende steht und durch eine Markierung am Boden erkennbar ist.
 
-    auf der Höhe der «Ankunft»:
+B. Die Reisende nutzen die folgenden Strecken:
 
-    - – die Treppe, die es den Reisenden erlaubt, den Ort der französischen Ausgangsabfertigung «sortie de France» zu verlassen, einschliesslich des Durchgangs am Fuss der Treppe bis zur zentralen Säule, die in der Verlängerung der südöstlichen Wand der vom Pavillon Nr. 12 herführenden Galerie für Reisende steht und durch eine Markierung am Boden erkennbar ist.
+- 1\. Reisende, die aus dem schweizerischen Hoheitsgebiet kommen, um ein Flugzeug nach Frankreich zu besteigen, haben Zugang zum französischen Sektor, gemäss Artikel 11 Absatz 2 (erster Gedankenstrich) des Abkommen von 25. April 1956[^2-5] betreffend den Ausbau des Flughafens Genf‑Cointrin und die Errichtung von nebeneinander liegenden Kontrollbüros der beiden Staaten in Ferney-Voltaire und in Genf-Cointrin, durch eine automatische Türe (oder ein gleichwertiges System), die sich auf der Höhe der Piste vom Hauptflughof befindet. Diese Reisenden unterliegen den Kontrollen der französischen Verwaltung.
+- 2\. Ein sekundärer nur in eine Richtung zugänglicher Eingang zum Sektor, der den französischen Dienststellen zugewiesen ist gemäss Artikel 11 Absatz 2 (erster Gedankenstrich) des Abkommen von 25. April 1956, auf der Höhe der Ankunft im Obergeschoss des Hauptflughofs, wird gemäss festgelegtem Bedarf geöffnet. Dieser Zugang, der unter der Kontrolle des französischen Zolls steht, wird für bestimmte Flugstrecken genutzt. Der Bedarf wird zweimal pro Jahr in Absprache mit dem Schweizer Zoll und dem Betreiber des Flughafens Genf-Cointrin festgelegt.
+- 3\. Reisende, die aus dem französischen Hoheitsgebiet über die in Artikel 13 des Abkommens vom 25. April 1956 vorgesehene Zollstrasse ankommen, um ein nicht nach Frankreich fliegendes Flugzeug zu besteigen, erhalten Zugang zum den schweizerischen Dienststellen zugewiesen Sektor gemäss Artikel 11 Absatz 2 (zweiter Gedankenstrich) des Abkommens, durch eine automatische Türe (oder ein gleichwertiges System), das sich auf der Höhe der Piste des den französischen Dienststellen zugewiesen Sektors befindet.
 
-[^2-1]: In der AS nicht veröffentlicht.
-[^2-2]: [SR 0.631.252.934.95](https://fedlex.data.admin.ch/eli/cc/1961/569_574_590)
+[^2-1]: Fassung gemäss Art. 1 des Abk. in Form eines Notenwechsels vom 29. Juli/2. Aug. 2021, in Kraft seit 1. Juni 2022 ([AS 2022 288](https://fedlex.data.admin.ch/eli/oc/2022/288)).
+[^2-2]: In der AS nicht veröffentlicht.
 [^2-3]: In der AS nicht veröffentlicht.
+[^2-4]: In der AS nicht veröffentlicht.
+[^2-5]: [SR 0.748.131.934.91](https://fedlex.data.admin.ch/eli/cc/1958/129_135_141)
 
 #### Art. 3
 
@@ -129,7 +137,11 @@ Drei Pläne[^6-1] der Zone, die mit 1, 2 und 3 numeriert sind, bilden einen inte
 
 Sollte ein den französischen Eingangs- und Ausgangskontrollen und -formalitäten unterstehendes Flugzeug ausnahmsweise ausserhalb der in den Artikeln 2, 3 und 4 bezeichneten Fläche abgestellt werden, so werden die vom Flugzeug belegte Fläche sowie der Weg vom und zum Sektor, der den französischen Bediensteten zugewiesen ist, für die Zeit der Stationierung als Teil der Zone betrachtet.
 
+Das im Hauptflughofs aufgegebene Gepäck von Reisenden, die den sekundären Zugang zum französischen Sektor gemäss Artikel 2, Buchstabe B, dieser Vereinbarung benutzen, werden in einen hierfür festgelegten Bereich der Gepäcksortieranlage im den französischen Dienststellen zugewiesenen Sektor geleitet. Sollte das Gepäck ausnahmsweise ausserhalb des hierfür bestimmten Bereichs geleitet werden, so gilt dieser Bereich sowie die Strecke, die vom Sektor der französischen Dienststellen ausgeht oder zu diesem führt, für die Dauer der Kontrollen als Teil des den französischen Dienststellen zugewiesenen Sektors im Sinne von Artikel 11 Absatz 2 (erster Gedankenstrich) des Abkommens vom 25. April 1956[^6-2].[^6-3]
+
 [^6-1]: In der AS nicht veröffentlicht.
+[^6-2]: [SR 0.748.131.934.91](https://fedlex.data.admin.ch/eli/cc/1958/129_135_141)
+[^6-3]: Absatz eingefügt durch Art. 2 des Abk. in Form eines Notenwechsels vom 29. Juli/ 2. Aug. 2021, in Kraft seit 1. Juni 2022 ([AS 2022 288](https://fedlex.data.admin.ch/eli/oc/2022/288)).
 
 #### Art. 7
 

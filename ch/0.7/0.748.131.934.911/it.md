@@ -3,20 +3,24 @@ sr: "0.748.131.934.911"
 title: "Scambio di note del 19 dicembre 1994 tra la Svizzera e la Francia concernente l'istituzione di un ufficio a controlli nazionali abbinati all'aeroporto di Ginevra-Cointrin"
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4078_4078_4078"
 language: it
-version: 1994-12-19
+version: 2022-06-01
 adopted: 1994-12-19
 in_force: 1994-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4078_4078_4078/19941219/it/xml/fedlex-data-admin-ch-eli-cc-1995-4078_4078_4078-19941219-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4078_4078_4078/19941219/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4078_4078_4078/20220601/it/xml/fedlex-data-admin-ch-eli-cc-1995-4078_4078_4078-20220601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4078_4078_4078/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Scambio di note del 19 dicembre 1994 tra la Svizzera e la Francia concernente l’istituzione di un ufficio a controlli nazionali abbinati all’aeroporto di Ginevra‑Cointrin
 
+RU **1995** IV 4078
+
 Entrato in vigore il 19 dicembre 1994
 
-Traduzione*[^ingress-1]*
+(Stato 1° giugno 2022)
+
+Traduzione
 
 <table>
 <tr><td>Ministero degli Affari Esteri</td><td>Parigi, 19 dicembre 1994</td></tr>
@@ -26,139 +30,157 @@ Traduzione*[^ingress-1]*
 
 Il Ministero degli Affari Esteri presenta i suoi omaggi all’Ambasciata di Svizzera e si onora di dichiarare ricevuta la nota del 19 dicembre 1994 del seguente tenore:
 
-- «L’Ambasciata di Svizzera presenta i suoi omaggi al Ministero degli Affari Esteri e, riferendosi all’articolo 1 paragrafo 4 della Convenzione del 28 settembre 1960[^ingress-2] tra la Confederazione Svizzera e la Francia concernente gli uffici a controlli nazionali abbinati e i controlli in corso di viaggio, ha l’onore di comunicare quanto segue:
+- «L’Ambasciata di Svizzera presenta i suoi omaggi al Ministero degli Affari Esteri e, riferendosi all’articolo 1 paragrafo 4 della Convenzione del 28 settembre 1960[^ingress-1] tra la Confederazione Svizzera e la Francia concernente gli uffici a controlli nazionali abbinati e i controlli in corso di viaggio, ha l’onore di comunicare quanto segue:
 - Il Consiglio federale ha preso atto dell’accordo amministrativo concernente l’istituzione di un ufficio a controlli nazionali abbinati all’aeroporto di Ginevra‑Cointrin.
-- Il presente accordo abroga e sostituisce quello concernente l’istituzione, all’aeroporto di Ginevra‑Cointrin, di un ufficio a controlli nazionali abbinati, confermato mediante scambio di note del 29 agosto 1983[^ingress-3]. È stato firmato rispettivamente il 2 settembre 1992 dal Direttore generale delle dogane svizzere e il 30 marzo 1993 dal Direttore generale delle Dogane e Dazi indiretti francese ed ha il seguente tenore:
-- «Vista la Convenzione del 25 aprile 1956[^ingress-4] tra la Svizzera e la Francia concernente la sistemazione dell’aeroporto di Ginevra‑Cointrin e l’istituzione di uffici per i servizi nazionali coordinati di controllo a Ferney-Voltaire e a Ginevra‑Cointrin,
-- Visto l’articolo 1 capoverso 3 della Convenzione del 28 set**tembre 1960****[^ingress-5]** **tra la Confederazione Svizzera e la Francia concer**nente gli uffici a controlli nazionali abbinati e i controlli in corso di viaggio, è convenuto quanto segue:
+- Il presente accordo abroga e sostituisce quello concernente l’istituzione, all’aeroporto di Ginevra‑Cointrin, di un ufficio a controlli nazionali abbinati, confermato mediante scambio di note del 29 agosto 1983[^ingress-2]. È stato firmato rispettivamente il 2 settembre 1992 dal Direttore generale delle dogane svizzere e il 30 marzo 1993 dal Direttore generale delle Dogane e Dazi indiretti francese ed ha il seguente tenore:
+- «Vista la Convenzione del 25 aprile 1956[^ingress-3] tra la Svizzera e la Francia concernente la sistemazione dell’aeroporto di Ginevra‑Cointrin e l’istituzione di uffici per i servizi nazionali coordinati di controllo a Ferney-Voltaire e a Ginevra‑Cointrin,
+- Visto l’articolo 1 capoverso 3 della Convenzione del 28 settembre 1960[^ingress-4] tra la Confederazione Svizzera e la Francia concernente gli uffici a controlli nazionali abbinati e i controlli in corso di viaggio, è convenuto quanto segue:
 
-[^ingress-1]: Il testo originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^ingress-2]: [RS 0.631.252.934.95](https://fedlex.data.admin.ch/eli/cc/1961/569_574_590)
-[^ingress-3]: [RU 1983 1472](https://fedlex.data.admin.ch/eli/oc/1983/1472_1472_1472)
-[^ingress-4]: [RS 0.748.131.934.91](https://fedlex.data.admin.ch/eli/cc/1958/129_135_141)
-[^ingress-5]: [RS 0.631.252.934.95](https://fedlex.data.admin.ch/eli/cc/1961/569_574_590)
+[^ingress-1]: [RS 0.631.252.934.95](https://fedlex.data.admin.ch/eli/cc/1961/569_574_590)
+[^ingress-2]: [RU 1983 1472](https://fedlex.data.admin.ch/eli/oc/1983/1472_1472_1472)
+[^ingress-3]: [RS 0.748.131.934.91](https://fedlex.data.admin.ch/eli/cc/1958/129_135_141)
+[^ingress-4]: [RS 0.631.252.934.95](https://fedlex.data.admin.ch/eli/cc/1961/569_574_590)
 
-<table>
-<tr><td></td><td>**Art. 1**</td></tr>
-</table>
+#### Art. 1
 
-- 1. Nell’aerostazione passeggeri, nel centro d’aviazione generale (parimenti denominato C 2), nell’edificio (denominato C 3) e nel reparto merci dell’aeroporto di Ginevra‑Cointrin, in territorio svizzero, è istituito un ufficio a controlli nazionali abbinati per effettuarvi il controllo dei viaggiatori e delle merci provenienti dalla Svizzera e a destinazione della Francia o viceversa.
-- 2. I servizi francesi di dogana e di polizia vi procedono parimenti, alle condizioni stabilite nella Convenzione del 28 settembre 1960[^t-1], al controllo dei viaggiatori e delle merci provenienti da un Paese diverso dalla Svizzera e a destinazione della Francia o viceversa.
-- 3. I controlli svizzeri e francesi d’entrata e d’uscita effettuati nel centro d’aviazione generale (C 2) e nell’edificio (C 3) si limitano alle persone nonché ai bagagli e alle merci da essi trasportati. Il controllo effettuato nel padiglione merci si limita alle merci.
+<sup>1.</sup> Nell’aerostazione passeggeri, nel centro d’aviazione generale (parimenti denominato C 2), nell’edificio (denominato C 3) e nel reparto merci dell’aeroporto di Ginevra‑Cointrin, in territorio svizzero, è istituito un ufficio a controlli nazionali abbinati per effettuarvi il controllo dei viaggiatori e delle merci provenienti dalla Svizzera e a destinazione della Francia o viceversa.
 
-<table>
-<tr><td></td><td>**Art. 2**</td></tr>
-</table>
+<sup>2.</sup> I servizi francesi di dogana e di polizia vi procedono parimenti, alle condizioni stabilite nella Convenzione del 28 settembre 1960[^1-1], al controllo dei viaggiatori e delle merci provenienti da un Paese diverso dalla Svizzera e a destinazione della Francia o viceversa.
 
-- La zona costituita nell’aerostazione viaggiatori è suddivisa in due settori:
--
+<sup>3.</sup> I controlli svizzeri e francesi d’entrata e d’uscita effettuati nel centro d’aviazione generale (C 2) e nell’edificio (C 3) si limitano alle persone nonché ai bagagli e alle merci da essi trasportati. Il controllo effettuato nel padiglione merci si limita alle merci.
 
-  1. Un settore utilizzato in comune dagli agenti dei due Stati comprendente:
+[^1-1]: [RS 0.631.252.934.95](https://fedlex.data.admin.ch/eli/cc/1961/569_574_590)
 
-  - a. sull’area di traffico secondo il piano n. 1 allegato[^t-2]
-    - – i posti di stazionamento n. 8, 11 e 12 prioritariamente riservati agli aeromobili sottoposti alle formalità e ai controlli francesi d’entrata e d’uscita. Questo settore ha una lunghezza di 225 m e una larghezza di 100 m misurate rispettivamente a partire dall’angolo della facciata sud ovest del padiglione «gros porteurs» e dalla facciata dell’aerostazione rivolta verso la pista;
-    - – i posti di stazionamento n. 14, 15 e 16, nonché i relativi percorsi, allorquando un «gros porteur» è sottoposto alle formalità e ai controlli francesi d’entrata e d’uscita. Questo settore ha una lunghezza di 225 m e una larghezza di 100 m misurate rispettivamente a partire dall’angolo della facciata nord est del padiglione «gros porteurs» e dalla galleria d’accesso dei viaggiatori;
+#### Art. 2
 
-  - b. all’interno dell’aerostazione, il corridoio d’entrata e d’uscita dei bagagli sino all’altezza dei pilastri di sostegno nella sala di deposito dei bagagli, comprese le tre campate contigue al settore riservato agli agenti francesi. Esso è delimitato sul piano n. 2 allegato[^t-3].
+[^2-1]
 
--
+A. La zona costituita nell’aerostazione viaggiatori è suddivisa in due settori:
 
-<table>
-<tr><td></td><td>**Art. 3**</td></tr>
-</table>
+- [tab]
 
--
+  1. Un settore utilizzato in comune dagli agenti dei due Stati, comprendente:
 
-  La zona costituita dal centro d’aviazione generale (C 2) è suddivisa in due settori:
+  - a.
 
-  - 1\. un settore utilizzato in comune dagli agenti dei due Stati comprendente l’insieme dell’area di traffico delimitata sul piano n. 1 allegato[^t-4];
-  - 2\. un settore riservato agli agenti francesi, comprendente il locale situato nell’angolo del pianterreno dell’edificio amministrativo.
+    sull’area di traffico secondo il piano n. 1[^2-2] allegato allo scambio di note del 19 dicembre 1994:
 
-<table>
-<tr><td></td><td>**Art. 4**</td></tr>
-</table>
+    - – i posti di stazionamento n. 8, 11 e 12 prioritariamente riservati agli aeromobili sottoposti alle formalità e ai controlli francesi d’entrata e d’uscita. Questo settore ha una lunghezza di 225 m e una larghezza di 100 m, misurate rispettivamente a partire dall’angolo della facciata sud-ovest del padiglione «gros porteurs» e dalla facciata dell’aerostazione rivolta verso la pista,
+    - – i posti di stazionamento n. 14, 15 e 16 nonché i relativi percorsi, quando un «gros porteur» è sottoposto alle formalità e ai controlli francesi d’entrata e d’uscita. Questo settore ha una lunghezza di 225 m e una larghezza di 100 m, misurate rispettivamente a partire dall’angolo della facciata nord-est del padiglione «gros porteurs» e dalla galleria d’accesso dei viaggiatori;
 
--
+  - b. all’interno dell’aerostazione, il corridoio d’entrata e d’uscita dei bagagli sino all’altezza dei pilastri di sostegno nella sala di deposito dei bagagli, comprese le tre campate contigue al settore riservato agli agenti francesi. Esso è delimitato sui piani n. 2.1, 2.2, 2.3, 2.4 e 2.5, che sostituiscono i piani n. 2 e 3[^2-3] allegati allo scambio di note del 19 dicembre 1994.
 
-  La zona costituita nell’edificio (C 3) è suddivisa in due settori:
+- [tab]
 
-  - 1\. un settore utilizzato in comune dagli agenti dei due Stati comprendente l’insieme dell’area di traffico delimitata sul piano n. 1 allegato[^t-5];
-  - 2\. un settore riservato agli agenti francesi comprendente il locale a destra della porta d’entrata (lato Jura), di fianco al locale riservato agli agenti svizzeri.
+  2. Un settore riservato agli agenti francesi, comprendente:
 
-<table>
-<tr><td></td><td>**Art. 5**</td></tr>
-</table>
+  - a.
 
--
+    a livello della pista:
 
-  La zona costituita nel padiglione merci è suddivisa in due settori:
+    - – l’interno dell’ala nord-est dell’aerostazione delimitata sul piano n. 2.1, che sostituisce il piano n. 2[^2-4] allegato allo scambio di note del 19 dicembre 1994,
+    - – il cortile e la strada doganali fino alla frontiera;
 
-  - 1\. un settore utilizzato in comune dagli agenti dei due Stati, situato all’interno del padiglione merci utilizzato da Swissair, sul lato del tarmac, tra i punti E. 14 – G. 0 e 3.4 – 4.0, secondo il piano n. 3 allegato[^t-6];
-  - 2\.
+  - b. a livello degli arrivi al piano superiore dell’aerostazione principale, la scala per i viaggiatori provenienti dalla Francia che lasciano l’area di controllo francese «uscita dalla Francia», compreso il passaggio in fondo alla scala sino al pilastro centrale eretto nel prolungamento della parete sud-est della galleria viaggiatori provenienti dal padiglione n. 12 e marcato sul suolo.
 
-    un settore riservato agli agenti francesi comprendente:
+B. I viaggiatori utilizzano i seguenti percorsi:
 
-    - a. l’ufficio e il deposito situato a nord est del padiglione merci, tra i pilastri I – J e 3 – 4, come anche gli uffici ubicati nel mezzanino, secondo il piano n. 3 allegato[^t-7];
-    - b. il cortile e la strada doganale sino alla frontiera.
+- 1\. I viaggiatori che provengono dal territorio svizzero per imbarcarsi su un aeromobile diretto in Francia accedono al settore francese, definito al secondo capoverso (primo trattino) del numero 2 dell’articolo 11 della Convenzione del 25 aprile 1956[^2-5] tra la Francia e la Svizzera concernente la sistemazione dell’aeroporto di Ginevra-Cointrin e l’istituzione di uffici per i servizi nazionali coordinati di controllo a Ferney-Voltaire e a Ginevra-Cointrin, attraverso una porta automatica (o un sistema equivalente) situata a livello della pista dell’aerostazione principale e sono soggetti ai controlli da parte dell’amministrazione francese.
+- 2\. A livello degli arrivi al piano superiore dell’aerostazione principale viene aperto, a seconda delle esigenze stabilite, un accesso secondario a senso unico che permette di accedere al settore assegnato ai servizi francesi, definito al secondo capoverso (primo trattino) del numero 2 dell’articolo 11 della Convenzione del 25 aprile 1956. Questo accesso, che è sotto il controllo della dogana francese, sarà utilizzato per alcune compagnie aeree. Le suddette esigenze saranno stabilite due volte l’anno di concerto con la dogana svizzera e l’esercente dell’aeroporto di Ginevra.
+- 3\. I viaggiatori che giungono dal territorio francese attraverso la strada doganale di cui all’articolo 13 della Convenzione del 25 aprile 1956 per imbarcarsi su un aereo non diretto in Francia accedono al settore assegnato ai servizi svizzeri, definito nel terzo capoverso (secondo trattino) del numero 2 dell’articolo 11 della Convenzione, attraverso una porta automatica (o un sistema equivalente) situato a livello della pista del settore assegnato ai servizi francesi.
 
-<table>
-<tr><td></td><td>**Art. 6**</td></tr>
-</table>
+[^2-1]: Nuovo testo giusta l’art. 2 dell’Acc. sotto forma dei sambio di note del 29 lug./2 ago. 2021, in vigore dal 1° giu. 2022 ([RU 2022 288](https://fedlex.data.admin.ch/eli/oc/2022/288)).
+[^2-2]: Non pubblicato nella RU.
+[^2-3]: Non pubblicati nella RU.
+[^2-4]: Non pubblicati nella RU.
+[^2-5]: [RS 0.748.131.934.91](https://fedlex.data.admin.ch/eli/cc/1958/129_135_141)
 
-- Tre piani[^t-8] della zona numerati 1, 2 e 3 sono parte integrante dell’accordo.
-- Se un aeromobile sottoposto ai controlli e alle formalità francesi d’entrata o d’uscita dovesse stazionare eccezionalmente al di fuori delle aree delimitate negli articoli 2, 3 e 4, la superficie occupata dall’areomobile come anche il percorso in provenienza o in direzione del settore riservato agli agenti francesi sono considerati, durante lo stazionamento, parti della zona.
+#### Art. 3
 
-<table>
-<tr><td></td><td>**Art. 7**</td></tr>
-</table>
+La zona costituita dal centro d’aviazione generale (C 2) è suddivisa in due settori:
 
-- Gli agenti doganali svizzeri possono, d’intesa con le dogane francesi, recarsi nel cortile doganale del settore francese e prendervi i provvedimenti necessari contro ogni frode durante i passaggi in transito previsti nell’articolo 22 della Convenzione del 25 aprile 1956[^t-9].
+- 1\. un settore utilizzato in comune dagli agenti dei due Stati comprendente l’insieme dell’area di traffico delimitata sul piano n. 1 allegato[^3-1];
+- 2\. un settore riservato agli agenti francesi, comprendente il locale situato nell’angolo del pianterreno dell’edificio amministrativo.
 
-<table>
-<tr><td></td><td>**Art. 8**</td></tr>
-</table>
+[^3-1]: Non pubblicato nella RU.
 
-- Per quanto concerne il centro d’aviazione generale (C 2) e l’edificio (C 3):
-- 1. Gli agenti dei servizi francesi incaricati del controllo possono, con veicoli autorizzati dalla Direzione dell’aeroporto, utilizzare il tratto ovest della strada periferica all’interno del recinto dell’aeroporto per recarsi dal settore francese, situato nell’aerostazione viaggiatori, al centro d’aviazione generale o all’edificio (C 3), o per ritornarsene, nonché per scortare qualsiasi persona arrestata oppure per trasportare qualsiasi merce proveniente o a destinazione del centro d’aviazione generale o dell’edificio (C 3).
-- 2. I trasporti di persone e di merci, tra il centro d’aviazione generale o l’edificio (C 3) e l’aerostazione viaggiatori o il padiglione merci, sono effettuati mediante veicoli ufficiali della Direzione dell’aeroporto e sono ritenuti eseguiti all’interno della zona.
-- 3. Inoltre, gli agenti dei servizi francesi incaricati del controllo che entrano in servizio nella zona o ne ritornano dopo averlo terminato, possono prendere la strada fuori del recinto dell’aeroporto la quale conduce dal centro d’aviazione generale a Ferney‑Voltaire e a Prévessin, passando dall’ufficio doganale svizzero di Mategnin.
+#### Art. 4
 
-<table>
-<tr><td></td><td>**Art. 9**</td></tr>
-</table>
+La zona costituita nell’edificio (C 3) è suddivisa in due settori:
 
-- La ripartizione delle spese di manutenzione delle costruzioni nonché delle spese di riscaldamento, di climatizzazione, d’illuminazione e di pulizia dei locali e degli impianti avviene sulla base dell’articolo 26 della Convenzione franco‑svizzera del 25 aprile 1956[^t-10] concernente la sistemazione dell’aeroporto di Ginevra‑Cointrin.
+- 1\. un settore utilizzato in comune dagli agenti dei due Stati comprendente l’insieme dell’area di traffico delimitata sul piano n. 1 allegato[^4-1];
+- 2\. un settore riservato agli agenti francesi comprendente il locale a destra della porta d’entrata (lato Jura), di fianco al locale riservato agli agenti svizzeri.
 
-<table>
-<tr><td></td><td>**Art. 10**</td></tr>
-</table>
+[^4-1]: Non pubblicato nella RU.
 
-- La Direzione del VI° circondario delle dogane svizzere a Ginevra e il capo della polizia della Repubblica e Cantone di Ginevra, da un canto, e la Direzione regionale delle dogane del Lemano ad Annecy e la Direzione dipartimentale della polizia aerea e di confine dell’Ain, dall’altro, disciplinano di comune accordo i dettagli, in particolare lo svolgimento del traffico d’intesa con la Direzione aeroportuale e, all’occorrenza, con le altre amministrazioni e i servizi interessati.
-- Gli agenti in servizio responsabili delle amministrazioni interessate dei due Stati adottano, di comune intesa, i provvedimenti applicabili immediatamente o per un breve lasso di tempo, segnatamente per appianare le difficoltà che dovessero sorgere durante i controlli.
+#### Art. 5
 
-<table>
-<tr><td></td><td>**Art. 11**</td></tr>
-</table>
+La zona costituita nel padiglione merci è suddivisa in due settori:
 
-- Il presente accordo abroga quello del 29 agosto 1983[^t-11] sull’istituzione nell’aeroporto di Ginevra‑Cointrin di un ufficio a controlli nazionali abbinati.
-- Il presente accordo può essere denunciato da ciascuno dei due Governi mediante preavviso di sei mesi. La denuncia avrà effetto il primo giorno del mese successivo alla data di scadenza del preavviso.»
-- Il Consiglio federale svizzero ha approvato le disposizioni del presente accordo.
-- L’Ambasciata propone pertanto che la presente nota e quella di risposta del Ministero degli Affari Esteri costituiscano, conformemente all’articolo 1 paragrafo 4 della Convenzione citata del 28 settembre 1960[^t-12] l’intesa tra i due Governi circa la conferma dell’accordo sull’istituzione nell’aeroporto di Ginevra‑Cointrin di un ufficio a controlli nazionali abbinati. Essa propone che questo accordo entri in vigore il 19 dicembre 1994.
-- L’Ambasciata di Svizzera coglie l’occasione per rinnovare al Ministero degli Affari Esteri l’espressione della sua alta considerazione.»
+- 1\. un settore utilizzato in comune dagli agenti dei due Stati, situato all’interno del padiglione merci utilizzato da Swissair, sul lato del tarmac, tra i punti E. 14 – G. 0 e 3.4 – 4.0, secondo il piano n. 3 allegato[^5-1];
+- 2\.
+
+  un settore riservato agli agenti francesi comprendente:
+
+  - a. l’ufficio e il deposito situato a nord est del padiglione merci, tra i pilastri I – J e 3 – 4, come anche gli uffici ubicati nel mezzanino, secondo il piano n. 3 allegato[^5-2];
+  - b. il cortile e la strada doganale sino alla frontiera.
+
+[^5-1]: Non pubblicato nella RU.
+[^5-2]: Non pubblicato nella RU.
+
+#### Art. 6
+
+Tre piani[^6-1] della zona numerati 1, 2 e 3 sono parte integrante dell’accordo.
+
+Se un aeromobile sottoposto ai controlli e alle formalità francesi d’entrata o d’uscita dovesse stazionare eccezionalmente al di fuori delle aree delimitate negli articoli 2, 3 e 4, la superficie occupata dall’areomobile come anche il percorso in provenienza o in direzione del settore riservato agli agenti francesi sono considerati, durante lo stazionamento, parti della zona.
+
+I bagagli registrati nell’aerostazione principale per i viaggiatori che utilizzano l’accesso secondario al settore francese, definito alla lettera B dell’articolo 2 del presente accordo, sono indirizzati verso una zona definita secondo le esigenze nell’area di smistamento dei bagagli che rientra nel settore assegnato ai servizi francesi. Qualora i bagagli dovessero essere indirizzati eccezionalmente al di fuori della zona così delimitata, la superficie occupata dai bagagli così come il percorso da o verso il settore assegnato ai servizi francesi sono considerati, per la durata dei controlli, parte del settore assegnato ai servizi francesi, definito al secondo capoverso (primo trattino) del numero 2 dell’articolo 11 della Convenzione del 25 aprile 1956[^6-2].[^6-3]
+
+[^6-1]: Non pubblicato nella RU.
+[^6-2]: [RS 0.748.131.934.91](https://fedlex.data.admin.ch/eli/cc/1958/129_135_141)
+[^6-3]: Par. introdotto dall’art. 2 dell’Acc. sotto forma dei sambio di note del 29 lug./2 ago. 2021, in vigore dal 1° giu. 2022 ([RU 2022 288](https://fedlex.data.admin.ch/eli/oc/2022/288)).
+
+#### Art. 7
+
+Gli agenti doganali svizzeri possono, d’intesa con le dogane francesi, recarsi nel cortile doganale del settore francese e prendervi i provvedimenti necessari contro ogni frode durante i passaggi in transito previsti nell’articolo 22 della Convenzione del 25 aprile 1956[^7-1].
+
+[^7-1]: [RS 0.748.131.934.91](https://fedlex.data.admin.ch/eli/cc/1958/129_135_141)
+
+#### Art. 8
+
+Per quanto concerne il centro d’aviazione generale (C 2) e l’edificio (C 3):
+
+- 1\. Gli agenti dei servizi francesi incaricati del controllo possono, con veicoli autorizzati dalla Direzione dell’aeroporto, utilizzare il tratto ovest della strada periferica all’interno del recinto dell’aeroporto per recarsi dal settore francese, situato nell’aerostazione viaggiatori, al centro d’aviazione generale o all’edificio (C 3), o per ritornarsene, nonché per scortare qualsiasi persona arrestata oppure per trasportare qualsiasi merce proveniente o a destinazione del centro d’aviazione generale o dell’edificio (C 3).
+- 2\. I trasporti di persone e di merci, tra il centro d’aviazione generale o l’edificio (C 3) e l’aerostazione viaggiatori o il padiglione merci, sono effettuati mediante veicoli ufficiali della Direzione dell’aeroporto e sono ritenuti eseguiti all’interno della zona.
+- 3\. Inoltre, gli agenti dei servizi francesi incaricati del controllo che entrano in servizio nella zona o ne ritornano dopo averlo terminato, possono prendere la strada fuori del recinto dell’aeroporto la quale conduce dal centro d’aviazione generale a Ferney‑Voltaire e a Prévessin, passando dall’ufficio doganale svizzero di Mategnin.
+
+#### Art. 9
+
+La ripartizione delle spese di manutenzione delle costruzioni nonché delle spese di riscaldamento, di climatizzazione, d’illuminazione e di pulizia dei locali e degli impianti avviene sulla base dell’articolo 26 della Convenzione franco‑svizzera del 25 aprile 1956[^9-1] concernente la sistemazione dell’aeroporto di Ginevra‑Cointrin.
+
+[^9-1]: [RS 0.748.131.934.91](https://fedlex.data.admin.ch/eli/cc/1958/129_135_141)
+
+#### Art. 10
+
+La Direzione del VI° circondario delle dogane svizzere a Ginevra e il capo della polizia della Repubblica e Cantone di Ginevra, da un canto, e la Direzione regionale delle dogane del Lemano ad Annecy e la Direzione dipartimentale della polizia aerea e di confine dell’Ain, dall’altro, disciplinano di comune accordo i dettagli, in particolare lo svolgimento del traffico d’intesa con la Direzione aeroportuale e, all’occorrenza, con le altre amministrazioni e i servizi interessati.
+
+Gli agenti in servizio responsabili delle amministrazioni interessate dei due Stati adottano, di comune intesa, i provvedimenti applicabili immediatamente o per un breve lasso di tempo, segnatamente per appianare le difficoltà che dovessero sorgere durante i controlli.
+
+#### Art. 11
+
+Il presente accordo abroga quello del 29 agosto 1983[^11-1] sull’istituzione nell’aeroporto di Ginevra‑Cointrin di un ufficio a controlli nazionali abbinati.
+
+Il presente accordo può essere denunciato da ciascuno dei due Governi mediante preavviso di sei mesi. La denuncia avrà effetto il primo giorno del mese successivo alla data di scadenza del preavviso.»
+
+Il Consiglio federale svizzero ha approvato le disposizioni del presente accordo.
+
+L’Ambasciata propone pertanto che la presente nota e quella di risposta del Ministero degli Affari Esteri costituiscano, conformemente all’articolo 1 paragrafo 4 della Convenzione citata del 28 settembre 1960[^11-2] l’intesa tra i due Governi circa la conferma dell’accordo sull’istituzione nell’aeroporto di Ginevra‑Cointrin di un ufficio a controlli nazionali abbinati. Essa propone che questo accordo entri in vigore il 19 dicembre 1994.
+
+L’Ambasciata di Svizzera coglie l’occasione per rinnovare al Ministero degli Affari Esteri l’espressione della sua alta considerazione.»
 
 Il Ministero degli Affari Esteri si onora di informare l’Ambasciata di Svizzera che il Governo francese approva quanto precede.
 
 Il Ministero degli Affari Esteri coglie l’occasione per rinnovare all’Ambasciata di Svizzera l’espressione della sua alta considerazione.
 
-[^t-1]: [RS 0.631.252.934.95](https://fedlex.data.admin.ch/eli/cc/1961/569_574_590)
-[^t-2]: Non pubblicato nella RU.
-[^t-3]: [RS 0.631.252.934.95](https://fedlex.data.admin.ch/eli/cc/1961/569_574_590)
-[^t-4]: Non pubblicato nella RU.
-[^t-5]: Non pubblicato nella RU.
-[^t-6]: Non pubblicato nella RU.
-[^t-7]: Non pubblicato nella RU.
-[^t-8]: Non pubblicato nella RU.
-[^t-9]: [RS 0.748.131.934.91](https://fedlex.data.admin.ch/eli/cc/1958/129_135_141)
-[^t-10]: [RS 0.748.131.934.91](https://fedlex.data.admin.ch/eli/cc/1958/129_135_141)
-[^t-11]: [RU 1983 1472](https://fedlex.data.admin.ch/eli/oc/1983/1472_1472_1472)
-[^t-12]: [RS 0.631.252.934.95](https://fedlex.data.admin.ch/eli/cc/1961/569_574_590)
+[^11-1]: [RU 1983 1472](https://fedlex.data.admin.ch/eli/oc/1983/1472_1472_1472)
+[^11-2]: [RS 0.631.252.934.95](https://fedlex.data.admin.ch/eli/cc/1961/569_574_590)

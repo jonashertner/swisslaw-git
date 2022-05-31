@@ -3,20 +3,22 @@ sr: "0.748.131.934.911"
 title: "Échange de notes du 19 décembre 1994 entre la Suisse et la France relatif à la création d'un bureau à contrôles nationaux juxtaposés à l'aéroport de Genève-Cointrin"
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4078_4078_4078"
 language: fr
-version: 1994-12-19
+version: 2022-06-01
 adopted: 1994-12-19
 in_force: 1994-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4078_4078_4078/19941219/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4078_4078_4078-19941219-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4078_4078_4078/19941219/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4078_4078_4078/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4078_4078_4078-20220601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4078_4078_4078/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Echange de notes du 19 décembre 1994 entre la Suisse et la France relatif à la création d’un bureau à contrôles nationaux juxtaposés à l’aéroport de Genève-Cointrin
+# Échange de notes du 19 décembre 1994 entre la Suisse et la France relatif à la création d’un bureau à contrôles nationaux juxtaposés à l’aéroport de Genève-Cointrin
 
-RU **1995** III 4078
+RO **1995** III 4078
 
 Entré en vigueur le 19 décembre 1994
+
+(Etat le 1<sup>er</sup> juin 2022)
 
 Texte original
 
@@ -49,25 +51,25 @@ Le Ministère des affaires étrangères présente ses compliments à l’Ambassa
 - 3. Les contrôles suisses et français d’entrée et de sortie effectués au centre d’aviation générale (C 2) et au bâtiment (C 3) se limitent aux personnes ainsi qu’aux bagages et marchandises qu’elles transportent. Les contrôles effectués à la halle de fret se limitent aux marchandises.
 
 <table>
-<tr><td></td><td>**Art. 2**</td></tr>
+<tr><td></td><td>**Art. 2**[^t-2]</td></tr>
 </table>
 
 -
 
-  La zone constituée dans l’aérogare passagers est divisée en deux secteurs:
+  A. La zone constituée dans l’aérogare passagers est divisée en deux secteurs:
 
-  - 1\.
+  -
 
-    Un secteur utilisé en commun par les agents des deux Etats, comprenant:
+    1. Un secteur utilisé en commun par les agents des deux États, comprenant:
 
     - a.
 
-      Sur l’aire de trafic, selon plan n<sup>o</sup> 1 annexé[^t-2]:
+      sur l’aire de trafic, selon le plan n<sup>o</sup> 1[^t-3] annexé à l’échange de note du 19 décembre 1994:
 
-      - – les postes de stationnement n<sup>o</sup> 8, 11, et 12 réservés en priorité aux avions soumis aux formalités et contrôles français d’en-trée ou de sortie. Ce secteur a une longueur de 225 m et une largeur de 100 m mesurées respectivement à partir de l’angle de la façade sud-ouest du pavillon «gros porteurs» et de la façade de l’aérogare donnant sur la piste.
-      - – les postes de stationnement n<sup>o</sup> 14, 15 et 16, ainsi que les cheminements correspondants, lorsqu’un «gros porteur» est soumis aux formalités et contrôles français d’entrée ou de sortie. Ce secteur a une longueur de 225 m et une largeur de 100 m mesurées respectivement à partir de l’angle de la façade nord-est du pavillon «gros porteurs» et de la galerie passagers y donnant accès.
+      - – les postes de stationnement n<sup>o</sup> 8, 11, et 12 réservés en priorité aux avions soumis aux formalités et contrôles français d’entrée ou de sortie. Ce secteur a une longueur de 225 m et une largeur de 100 m mesurées respectivement à partir de l’angle de la façade sud-ouest du pavillon «gros porteurs» et de la façade de l’aérogare donnant sur la piste,
+      - – les postes de stationnement n<sup>o</sup> 14, 15 et 16, ainsi que les cheminements correspondants, lorsqu’un «gros porteur» est soumis aux formalités et contrôles français d’entrée ou de sortie. Ce secteur a une longueur de 225 m et une largeur de 100 m mesurées respectivement à partir de l’angle de la façade nord-est du pavillon «gros porteurs» et de la galerie passagers y donnant accès;
 
-    - b. A l’intérieur de l’aérogare, le couloir entrée et sortie des bagages jusqu’à hauteur des piliers de soutènement dans la salle de manutentions des bagages, y compris les trois travées jouxtant le secteur affecté aux agents français. Il est délimité sur le plan no 2 annexé[^t-3].
+    - b. à l’intérieur de l’aérogare, le couloir entrée et sortie des bagages jusqu’à hauteur des piliers de soutènement dans la salle de manutentions des bagages, y compris les trois travées jouxtant le secteur affecté aux agents français. Il est délimité sur les plans n<sup>o</sup> 2.1, 2.2, 2.3, 2.4 et 2.5 qui remplacent les plans n<sup>o</sup> 2 et 3[^t-4] annexés à l’échange de note du 19 décembre 1994.
 
   - 2\.
 
@@ -75,12 +77,20 @@ Le Ministère des affaires étrangères présente ses compliments à l’Ambassa
 
     - a.
 
-      Au niveau de la piste:
+      au niveau de la piste:
 
-      - – l’intérieur de l’aile nord-est de l’aérogare délimitée sur le plan n<sup>o</sup> 2 annexé[^t-4];
+      - – l’intérieur de l’aile nord-est de l’aérogare délimitée sur le plan 2.1 qui remplace le plan n<sup>o</sup> 2[^t-5] annexé à l’échange de note du 19 décembre 1994,
       - – la cour et la route douanières jusqu’à la frontière;
 
-    - b. Au niveau de l’arrivée, l’escalier permettant aux voyageurs de quitter les emplacements de contrôle français «sortie de France», y compris le dégagement au bas de l’escalier jusqu’au pilier central érigé dans l’alignement de la paroi sud-est de la galerie passagers provenant du pavillon n<sup>o</sup> 12, et matérialisé par marquage sur le sol.
+    - b. au niveau de l’arrivée à l’étage supérieur de l’aérogare principale, l’escalier permettant aux voyageurs arrivant de la France de quitter les emplacements de contrôle français «sortie de France», y compris le dégagement au bas de l’escalier jusqu’au pilier central érigé dans l’alignement de la paroi sud-est de la galerie passagers provenant du pavillon n<sup>o</sup> 12, et matérialisé par marquage sur le sol.
+
+- [tab]
+
+  B. Les voyageurs empruntent les cheminements suivants:
+
+  - 1\. Les voyageurs en provenance du territoire suisse pour embarquer dans un aéronef à destination de la France, accèdent au secteur français, défini au deuxième alinéa (premier tiret) du par. 2 de l’art. 11 de la Convention du 25 avril 1956 entre la France et la Suisse concernant l’aménagement de l’aéroport de Genève-Cointrin et la création de bureaux à contrôles nationaux juxtaposés à Ferney-Voltaire et à Genève-Cointrin[^t-6], par une port automatique (ou un système équivalent) située au niveau de la piste de l’aérogare principale et sont soumis aux contrôles de l’administration française.
+  - 2\. Un accès secondaire unidirectionnel permettant d’accéder au secteur affecté aux services français défini au deuxième alinéa (premier tiret) du par. 2 de l’art. 11 de la Convention du 25 avril 1956 au niveau de l’arrivé à l’étage supérieur de l’aérogare principale est ouvert selon les besoins définis. Cet accès, dont la douane française dispose de la maîtrise, sera utilisé pour certaines lignes aériennes. Les besoins seront définis deux fois par an en concertation avec les douanes suisses et l’exploitant de l’aéroport de Genève.
+  - 3\. Les voyageurs en provenance du territoire français par la route douanière prévue à l’art. 13 de la Convention du 25 avril 1956 afin d’embarquer dans un aéronef non destiné à la France accèdent au secteur affecté aux services suisses défini au troisième alinéa (deuxième tiret) du par. 2 de l’art. 11 de la Convention par une porte automatique (ou un système équivalent) située au niveau de la piste du secteur affecté aux services français.
 
 <table>
 <tr><td></td><td>**Art. 3**</td></tr>
@@ -90,7 +100,7 @@ Le Ministère des affaires étrangères présente ses compliments à l’Ambassa
 
   La zone constituée dans le centre d’aviation générale (C 2) est divisée en deux secteurs:
 
-  - 1\. Un secteur utilisé en commun par les agents des deux Etats comprenant l’ensemble de l’aire de trafic délimitée sur le plan n<sup>o</sup> 1 annexé[^t-5];
+  - 1\. Un secteur utilisé en commun par les agents des deux États comprenant l’ensemble de l’aire de trafic délimitée sur le plan n<sup>o</sup> 1 annexé[^t-7];
   - 2\. Un secteur réservé aux agents français, comprenant le local situé dans l’angle ouest du rez-de-chaussée du bâtiment administratif.
 
 <table>
@@ -101,7 +111,7 @@ Le Ministère des affaires étrangères présente ses compliments à l’Ambassa
 
   La zone constituée dans le bâtiment (C 3) est divisée en deux secteurs:
 
-  - 1\. Un secteur utilisé en commun par les agents des deux Etats comprenant l’ensemble de l’aire de trafic délimitée sur le plan n<sup>o</sup> 1 annexé[^t-6];
+  - 1\. Un secteur utilisé en commun par les agents des deux États comprenant l’ensemble de l’aire de trafic délimitée sur le plan n<sup>o</sup> 1 annexé[^t-8];
   - 2\. Un secteur réservé aux agents français, comprenant le local situé à droite de la porte d’entrée (côté Jura), à côté du local réservé aux agents suisses.
 
 <table>
@@ -112,26 +122,27 @@ Le Ministère des affaires étrangères présente ses compliments à l’Ambassa
 
   La zone constituée dans la halle de fret est divisée en deux secteurs:
 
-  - 1\. Un secteur utilisé en commun par les agents des deux Etats, situé à l’intérieur de la halle de fret exploitée par Swissair, du côté du tarmac, entre les points E. 14 – G. 0 et 3.4 – 4.0, selon le plan n<sup>o</sup> 3 annexé[^t-7];
+  - 1\. Un secteur utilisé en commun par les agents des deux États, situé à l’intérieur de la halle de fret exploitée par Swissair, du côté du tarmac, entre les points E. 14 – G. 0 et 3.4 – 4.0, selon le plan n<sup>o</sup> 3 annexé[^t-9];
   - 2\.
 
     Un secteur réservé aux agents français comprenant:
 
-    - a. le bureau et le magasin sis au nord-est de la halle de fret, entre les piliers I – J et 3 – 4, ainsi que les bureaux installés à la mezzanine, selon le plan n<sup>o</sup> 3 annexé[^t-8];
+    - a. le bureau et le magasin sis au nord-est de la halle de fret, entre les piliers I – J et 3 – 4, ainsi que les bureaux installés à la mezzanine, selon le plan n<sup>o</sup> 3 annexé[^t-10];
     - b. la cour et la route douanières jusqu’à la frontière.
 
 <table>
 <tr><td></td><td>**Art. 6**</td></tr>
 </table>
 
-- Trois plans[^t-9] de la zone numérotés 1, 2 et 3, font partie intégrante de l’arrangement.
+- Trois plans[^t-11] de la zone numérotés 1, 2 et 3, font partie intégrante de l’arrangement.
 - Si un avion soumis aux contrôles et formalités français d’entrée ou de sortie devait stationner exceptionnellement en dehors des aires délimitées aux art. 2, 3 et 4, la surface occupée par l’avion ainsi que la cheminement venant du secteur affecté aux agents français ou y conduisant, sont considérés, pour la durée du stationnement, comme partie de la zone.
+- Les bagages enregistrés dans l’aérogare principale, pour les voyageurs utilisant l’accès secondaire au secteur français, tel que défini au B de l’art. 2 du présent accord sont dirigés vers un espace défini selon les besoins dans la zone de l’espace tri bagage qui relève du secteur affecté aux services français. Si les bagages devaient être dirigés exceptionnellement en dehors de l’espace ainsi délimité, la surface utilisée par les bagages ainsi que le cheminement venant du secteur affecté aux services français ou y conduisant sont considérés pour la durée des contrôles, comme partie du secteur affecté aux services français défini au deuxième alinéa (premier tiret) du par. 2 de l’art. 11 de la Convention du 25 avril 1956[^t-12].[^t-13]
 
 <table>
 <tr><td></td><td>**Art. 7**</td></tr>
 </table>
 
-- Les agents des douanes suisses peuvent, en accord avec les douanes françaises, se rendre dans la cour douanière du secteur français et y prendre les mesures nécessaires contre toute fraude lors des passages en transit prévus à l’art. 22 de la Convention du 25 avril 1956[^t-10].
+- Les agents des douanes suisses peuvent, en accord avec les douanes françaises, se rendre dans la cour douanière du secteur français et y prendre les mesures nécessaires contre toute fraude lors des passages en transit prévus à l’art. 22 de la Convention du 25 avril 1956[^t-14].
 
 <table>
 <tr><td></td><td>**Art. 8**</td></tr>
@@ -146,23 +157,23 @@ Le Ministère des affaires étrangères présente ses compliments à l’Ambassa
 <tr><td></td><td>**Art. 9**</td></tr>
 </table>
 
-- La répartition des frais d’entretien des constructions ainsi que des frais de chauffage, de climatisation, d’éclairage et de nettoyage des locaux et installations, s’effectue sur la base de l’art. 26 de la Convention franco-suisse concernant l’aménagement de l’aéroport de Genève-Cointrin, du 25 avril 1956[^t-11].
+- La répartition des frais d’entretien des constructions ainsi que des frais de chauffage, de climatisation, d’éclairage et de nettoyage des locaux et installations, s’effectue sur la base de l’art. 26 de la Convention franco-suisse concernant l’aménagement de l’aéroport de Genève-Cointrin, du 25 avril 1956[^t-15].
 
 <table>
 <tr><td></td><td>**Art. 10**</td></tr>
 </table>
 
 - La Direction du VI<sup>e</sup> arrondissement des Douanes à Genève et le Chef de la Police de la République et Canton de Genève, d’une part, et la Direction régionale des Douanes du Léman à Annecy et la Direction départementale de la Police de l’Air et des Frontières de l’Ain, d’autre part, règlent d’un commun accord les questions de détail, en particulier le déroulement du trafic, d’entente avec la Direction de l’aéroport et, le cas échéant, avec les autres administrations et services intéressés.
-- Les agents responsables, en service, des administrations intéressées des deux Etats prennent, d’un commun accord, les mesures applicables sur l’heure ou pendant un court laps de temps, notamment pour aplanir les difficultés susceptibles de surgir lors des contrôles.
+- Les agents responsables, en service, des administrations intéressées des deux États prennent, d’un commun accord, les mesures applicables sur l’heure ou pendant un court laps de temps, notamment pour aplanir les difficultés susceptibles de surgir lors des contrôles.
 
 <table>
 <tr><td></td><td>**Art. 11**</td></tr>
 </table>
 
-- Le présent arrangement abroge celui du 29 août 1983[^t-12] relatif à la création dans l’aéroport de Genève-Cointrin d’un bureau à contrôles nationaux juxtaposés.
+- Le présent arrangement abroge celui du 29 août 1983[^t-16] relatif à la création dans l’aéroport de Genève-Cointrin d’un bureau à contrôles nationaux juxtaposés.
 - Le présent arrangement pourra être dénoncé par chacun des deux Gouvernements avec un préavis de six mois. La dénonciation prendra effet le premier jour du mois suivant la date de l’échéance du préavis.»
 - Le Conseil fédéral suisse a approuvé les dispositions de cet arrangement.
-- L’Ambassade propose, dès lors, que la présente note et celle que le Ministère des affaires étrangères voudra bien lui adresser en réponse constituent, conformément à l’art. 1, par. 4, de la Convention susvisée du 28 septembre 1960[^t-13], l’accord entre les deux Gouvernements sur la confirmation de l’arrangement relatif à la création d’un bureau à contrôles nationaux juxtaposés à l’aéroport de Genève-Cointrin. Elle suggère que cet arrangement entre en vigueur le 19 décembre 1994.
+- L’Ambassade propose, dès lors, que la présente note et celle que le Ministère des affaires étrangères voudra bien lui adresser en réponse constituent, conformément à l’art. 1, par. 4, de la Convention susvisée du 28 septembre 1960[^t-17], l’accord entre les deux Gouvernements sur la confirmation de l’arrangement relatif à la création d’un bureau à contrôles nationaux juxtaposés à l’aéroport de Genève-Cointrin. Elle suggère que cet arrangement entre en vigueur le 19 décembre 1994.
 - L’Ambassade de Suisse saisit cette occasion pour renouveler au Ministère des affaires étrangères les assurances de sa haute considération.»
 
 Le Ministère des affaires étrangères a l’honneur de faire savoir à l’Ambassade de Suisse que le Gouvernement français approuve ce qui précède.
@@ -170,15 +181,19 @@ Le Ministère des affaires étrangères a l’honneur de faire savoir à l’Amb
 Le Ministère des affaires étrangères saisit cette occasion pour renouveler à l’Ambas-sade de Suisse l’assurance de sa haute considération.
 
 [^t-1]: [RS 0.631.252.934.95](https://fedlex.data.admin.ch/eli/cc/1961/569_574_590)
-[^t-2]: Pas publié au RO.
-[^t-3]: [RS 0.631.252.934.95](https://fedlex.data.admin.ch/eli/cc/1961/569_574_590)
+[^t-2]: Nouvelle teneur selon l’art. 1 de l’accord sous forme d’échange de notes du 29 juil./2 août 2021, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 288](https://fedlex.data.admin.ch/eli/oc/2022/288)).
+[^t-3]: Pas publié au RO.
 [^t-4]: Pas publié au RO.
 [^t-5]: Pas publié au RO.
-[^t-6]: Pas publié au RO.
+[^t-6]: [RS 0.748.131.934.91](https://fedlex.data.admin.ch/eli/cc/1958/129_135_141)
 [^t-7]: Pas publié au RO.
 [^t-8]: Pas publié au RO.
 [^t-9]: Pas publié au RO.
-[^t-10]: [RS 0.748.131.934.91](https://fedlex.data.admin.ch/eli/cc/1958/129_135_141)
-[^t-11]: [RS 0.748.131.934.91](https://fedlex.data.admin.ch/eli/cc/1958/129_135_141)
-[^t-12]: [[RO 1983 1472](https://fedlex.data.admin.ch/eli/oc/1983/1472_1472_1472)]
-[^t-13]: [RS 0.631.252.934.95](https://fedlex.data.admin.ch/eli/cc/1961/569_574_590)
+[^t-10]: Pas publié au RO.
+[^t-11]: Pas publié au RO.
+[^t-12]: [RS 0.748.131.934.91](https://fedlex.data.admin.ch/eli/cc/1958/129_135_141)
+[^t-13]: Par. introduit par l’art. 2 de l’accord sous forme d’échange de notes du 29 juil./2 août 2021, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 288](https://fedlex.data.admin.ch/eli/oc/2022/288)).
+[^t-14]: [RS 0.748.131.934.91](https://fedlex.data.admin.ch/eli/cc/1958/129_135_141)
+[^t-15]: [RS 0.748.131.934.91](https://fedlex.data.admin.ch/eli/cc/1958/129_135_141)
+[^t-16]: [[RO 1983 1472](https://fedlex.data.admin.ch/eli/oc/1983/1472_1472_1472)]
+[^t-17]: [RS 0.631.252.934.95](https://fedlex.data.admin.ch/eli/cc/1961/569_574_590)
