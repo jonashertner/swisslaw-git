@@ -5,20 +5,21 @@ title: "Loi d'application de loi fédérale sur la géoinformation"
 short: LcGéo
 language: fr
 version: 2016-07-01
-corrected: 2017-03-22
+corrected: 2022-06-01
 version_adopted: 2016-03-10
 adopted: 2016-03-10
 in_force: 2016-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/211.7"
-pdf: "https://lex.vs.ch/api/fr/versions/601/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/750/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Loi d'application de loi fédérale sur la géoinformation (LcGéo)
+# Loi d'application de loi fédérale sur la géoinformation
 
-du 10 mars 2016
+(LcGéo)
+
+du 10.03.2016 (état 01.07.2016)
 
 Le Grand Conseil du canton du Valais
 
@@ -26,7 +27,9 @@ vu l'article 75a de la Constitution fédérale;
 
 vu la loi fédérale sur la géoinformation du 5 octobre 2007 (LGéo);
 
-vu l'ordonnance fédérale sur la géoinformation du 21 mai 2008 (OGéo); vu l'ordonnance fédérale sur le cadastre des restrictions de droit public à la propriété foncière du 2 septembre 2009 (OCRDP);
+vu l'ordonnance fédérale sur la géoinformation du 21 mai 2008 (OGéo);
+
+vu l'ordonnance fédérale sur le cadastre des restrictions de droit public à la propriété foncière du 2 septembre 2009 (OCRDP);
 
 vu les articles 31 et 42 de la Constitution cantonale;
 
@@ -34,7 +37,7 @@ sur la proposition du Conseil d'Etat,
 
 ordonne:
 
-### Chapitre 1: Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
@@ -53,13 +56,9 @@ ordonne:
 <sup>1</sup> Sous réserve de la législation fédérale et cantonale spéciale, la présente loi régit à l'égard du canton et des communes:
 
 - a) la saisie, la mise à jour et la gestion des géodonnées de base;
-
 - b) l'accès et l'utilisation des géodonnées de base;
-
 - c) la tenue du système cantonal d'information du territoire, de l'infrastructure cantonale de géodonnées et du système d'information du territoire du canton du Valais (ci-après: SIT-Valais);
-
 - d) l'introduction et la tenue du cadastre des restrictions de droit public à la propriété foncière (ci-après: cadastre RDPPF);
-
 - e) la plate-forme informatique du Registre fédéral des bâtiments et des logements.
 
 <sup>2</sup> Le Conseil d'Etat définit le catalogue des géodonnées de base relevant du droit cantonal.
@@ -84,9 +83,9 @@ ordonne:
 
 <sup>2</sup> Si une commune ne respecte pas les délais impartis ou n'atteint pas le niveau de qualité requis dans l'exécution des tâches qui lui incombent, le Conseil d'Etat peut ordonner l'exécution par substitution, après sommation et audition de la commune. Le coût de l'exécution par substitution est pris en charge par la commune défaillante.
 
-### Chapitre 2: Principes
+## 2 Principes
 
-### Section 1: Exigences qualitatives et techniques
+### 2.1 Exigences qualitatives et techniques
 
 #### Art. 5
 
@@ -114,7 +113,7 @@ ordonne:
 
 <sup>3</sup> Les géométadonnées sont saisies, mises à jour et archivées en même temps que les géodonnées de base.
 
-### Section 2: Saisie, mise à jour et gestion
+### 2.2 Saisie, mise à jour et gestion
 
 #### Art. 7
 
@@ -138,21 +137,21 @@ ordonne:
 
 **Assistance**
 
-Les obligations d'assistance prévues par la LGéo s'appliquent par analogie lors de la saisie et de la mise à jour des géodonnées de base relevant du droit cantonal.
+<sup>1</sup> Les obligations d'assistance prévues par la LGéo s'appliquent par analogie lors de la saisie et de la mise à jour des géodonnées de base relevant du droit cantonal.
 
-### Section 3: Accès et utilisation
+### 2.3 Accès et utilisation
 
 #### Art. 10
 
 **Principe**
 
-Les géodonnées de base sont accessibles au public, selon les règles d'accès décrites à l'article 12, et peuvent être utilisées par chacun, à moins que des intérêts publics ou privés prépondérants ne s'y opposent.
+<sup>1</sup> Les géodonnées de base sont accessibles au public, selon les règles d'accès décrites à l'article 12, et peuvent être utilisées par chacun, à moins que des intérêts publics ou privés prépondérants ne s'y opposent.
 
 #### Art. 11
 
 **Protection des données et sécurité**
 
-La LIPDA s'applique aux géodonnées de base relevant du droit cantonal. Les articles 12 et 14 de la présente loi sont réservés.
+<sup>1</sup> La LIPDA s'applique aux géodonnées de base relevant du droit cantonal. Les articles 12 et 14 de la présente loi sont réservés.
 
 #### Art. 12
 
@@ -180,7 +179,7 @@ La LIPDA s'applique aux géodonnées de base relevant du droit cantonal. Les art
 
 <sup>3</sup> Le département en charge de la géoinformation négocie avec la Confédération les modalités d'échange de géodonnées de base.
 
-### Chapitre 3: Infrastructure cantonale de géodonnées et SIT-Valais
+## 3 Infrastructure cantonale de géodonnées et SIT-Valais
 
 #### Art. 15
 
@@ -208,7 +207,7 @@ La LIPDA s'applique aux géodonnées de base relevant du droit cantonal. Les art
 
 <sup>6</sup> La commune peut mettre en place un SIT communal à des fins propres. Le service en charge de la géoinformation édicte des directives au sujet de l'intégration des géoservices du canton dans le SIT communal.
 
-### Chapitre 4: Cadastre et plate-forme informatique
+## 4 Cadastre et plate-forme informatique
 
 #### Art. 17
 
@@ -228,15 +227,15 @@ La LIPDA s'applique aux géodonnées de base relevant du droit cantonal. Les art
 
 #### Art. 18
 
-Plate-forme informatique du Registre des bâtiments et des logements
+**Plate-forme informatique du Registre des bâtiments et des logements**
 
 <sup>1</sup> Le canton peut exploiter une plate-forme informatique du Registre des bâtiments et des logements qui constitue le registre reconnu au sens de l'ordonnance fédérale sur le Registre fédéral des bâtiments et des logements.
 
 <sup>2</sup> Le Conseil d'Etat désigne le service chargé de la mise en place et de l'administration de la plate-forme informatique.
 
-### Chapitre 5: Financement et émoluments
+## 5 Financement et émoluments
 
-### Section 1: Financement
+### 5.1 Financement
 
 #### Art. 19
 
@@ -266,9 +265,9 @@ Plate-forme informatique du Registre des bâtiments et des logements
 
 **Formation et recherche**
 
-Le canton peut encourager la formation et la recherche dans le domaine de la géoinformation.
+<sup>1</sup> Le canton peut encourager la formation et la recherche dans le domaine de la géoinformation.
 
-### Section 2: Emoluments
+### 5.2 Emoluments
 
 #### Art. 22
 
@@ -296,50 +295,28 @@ Le canton peut encourager la formation et la recherche dans le domaine de la gé
 
 <sup>2</sup> Le canton met à disposition des communes, sans frais, les géodonnées de base de droit fédéral et cantonal selon les modalités fixées par le service en charge de la géoinformation.
 
-### Chapitre 6: Dispositions finales
+## 6 Dispositions finales
 
 #### Art. 25
 
 **Dispositions transitoires**
 
-Durant une période transitoire définie par le Conseil d'Etat, le canton et les communes ne sont tenus d'adapter les géodonnées de base relevant du droit cantonal qu'ils gèrent aux exigences qualitatives et techniques prévues aux articles 5 et 6 LcGéo que dans les cas suivants:
+<sup>1</sup> Durant une période transitoire définie par le Conseil d'Etat, le canton et les communes ne sont tenus d'adapter les géodonnées de base relevant du droit cantonal qu'ils gèrent aux exigences qualitatives et techniques prévues aux articles 5 et 6 LcGéo que dans les cas suivants:
 
 - a) le droit cantonal le prescrit impérativement;
-
 - b) il s'agit de données dont la base juridique est créée par l'entrée en vigueur de la présente loi ou ultérieurement;
-
 - c) ils entreprennent une nouvelle saisie des données.
 
 #### Art. 26
 
 **Modification du droit en vigueur**
 
-La loi sur la mensuration officielle et l'information géographique du 16 mars 2006 est modifiée comme suit:
-
-Titre: Loi sur la mensuration officielle du 16 mars 2006
-
-#### Art. 9
-
-**Système d'information du territoire**
-
-Abrogé.
+<sup>1</sup> La loi sur la mensuration officielle et l'information géographique du 16 mars 2006 est modifiée.
 
 #### Art. 27
 
 **Entrée en vigueur**
 
-Le Conseil d'Etat fixe l'entrée en vigueur de la présente loi.
+<sup>1</sup> Le Conseil d'Etat fixe l'entrée en vigueur de la présente loi.
 
-Ainsi adopté en lecture unique (art. 101 RGC) en séance du Grand Conseil, à Sion, le 10 mars 2016.
-
-Le président du Grand Conseil: Nicolas Voide Le chef du Service parlementaire: Claude Bumann
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-**01.07.16**
-
-**No 22/2016**
-
-vigueur Loi d'application de loi fédérale sur la BO No 15/2016, BO géoinformation (LcGéo) du 10 mars 2016
+RCV BO/Abl. 15/2016, 22/2016

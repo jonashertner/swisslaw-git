@@ -5,20 +5,21 @@ title: Ausführungsgesetz zum Bundesgesetz über Geoinformation
 short: kGeoIG
 language: de
 version: 2016-07-01
-corrected: 2017-03-22
+corrected: 2022-06-01
 version_adopted: 2016-03-10
 adopted: 2016-03-10
 in_force: 2016-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/211.7"
-pdf: "https://lex.vs.ch/api/de/versions/601/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/750/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ausführungsgesetz zum Bundesgesetz über Geoinformation (kGeoIG)
+# Ausführungsgesetz zum Bundesgesetz über Geoinformation
 
-vom 10. März 2016
+(kGeoIG)
+
+vom 10.03.2016 (Stand 01.07.2016)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -36,7 +37,7 @@ auf Antrag des Staatsrates,
 
 verordnet:
 
-### 1. Kapitel: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -55,14 +56,10 @@ verordnet:
 <sup>1</sup> Unter Vorbehalt der eidgenössischen und kantonalen Spezialgesetzgebung regelt das vorliegende Gesetz für den Kanton und die Gemeinden:
 
 - a) die Erfassung, die Nachführung und die Verwaltung der Geobasisdaten;
-
 - b) den Zugang zu den Geobasisdaten und deren Nutzung;
-
 - c) die Führung des kantonalen Geoinformationssystems, der kantonalen Geodateninfrastruktur und des Geoinformationssystems des Kantons Wallis (nachstehend: GIS-Wallis);
-
 - d) die Einführung und die Führung des Katasters der öffentlich-rechtlichen Eigentumsbeschränkungen (nachstehend: ÖREB-Kataster);
-
-- e) die Informatikplattform des eidgenössischen Gebäude- und Wohnungsregisters.
+- e) die Informatikplattform des eidgenössischen Gebäude- und Wohnungsr- egisters.
 
 <sup>2</sup> Der Staatsrat definiert den Katalog der Geobasisdaten des kantonalen Rechts.
 
@@ -86,9 +83,9 @@ verordnet:
 
 <sup>2</sup> Erfüllt eine Gemeinde ihre Aufgaben nicht fristgerecht oder qualitativ ungenügend, kann der Staatsrat nach deren Ermahnung und Anhörung die Ersatzvornahme anordnen. Die Kosten der Ersatzvornahme gehen zulasten der säumigen Gemeinde.
 
-### 2. Kapitel: Grundsätze
+## 2 Grundsätze
 
-### 1. Abschnitt: Qualitative und technische Anforderungen
+### 2.1 Qualitative und technische Anforderungen
 
 #### Art. 5
 
@@ -116,7 +113,7 @@ verordnet:
 
 <sup>3</sup> Die Geometadaten werden gleichzeitig mit den Geobasisdaten erfasst, nachgeführt und archiviert.
 
-### 2. Abschnitt: Erfassung, Nachführung und Verwaltung
+### 2.2 Erfassung, Nachführung und Verwaltung
 
 #### Art. 7
 
@@ -140,21 +137,21 @@ verordnet:
 
 **Unterstützung**
 
-Die im GeoIG vorgesehene Unterstützungspflicht ist für die Erfassung und Nachführung der Geobasisdaten des kantonalen Rechts analog anwendbar.
+<sup>1</sup> Die im GeoIG vorgesehene Unterstützungspflicht ist für die Erfassung und Nachführung der Geobasisdaten des kantonalen Rechts analog anwendbar.
 
-### 3. Abschnitt: Zugang und Nutzung
+### 2.3 Zugang und Nutzung
 
 #### Art. 10
 
 **Grundsatz**
 
-Die Geobasisdaten sind öffentlich zugänglich, gemäss den Regeln von Artikel 12, und können von jeder Person genutzt werden, sofern dem keine überwiegenden öffentlichen oder privaten Interessen entgegenstehen.
+<sup>1</sup> Die Geobasisdaten sind öffentlich zugänglich, gemäss den Regeln von Artikel 12, und können von jeder Person genutzt werden, sofern dem keine überwiegenden öffentlichen oder privaten Interessen entgegenstehen.
 
 #### Art. 11
 
 **Datenschutz und -sicherheit**
 
-Das GIDA ist für die Geobasisdaten des kantonalen Rechts anwendbar. Vorbehalten bleiben die Artikel 12 und 14 des vorliegenden Gesetzes.
+<sup>1</sup> Das GIDA ist für die Geobasisdaten des kantonalen Rechts anwendbar. Vorbehalten bleiben die Artikel 12 und 14 des vorliegenden Gesetzes.
 
 #### Art. 12
 
@@ -182,7 +179,7 @@ Das GIDA ist für die Geobasisdaten des kantonalen Rechts anwendbar. Vorbehalten
 
 <sup>3</sup> Das für die Geoinformation zuständige Departement verhandelt mit dem Bund die Einzelheiten des Austauschs der Geobasisdaten.
 
-### 3. Kapitel: Kantonale Geodateninfrastruktur und GIS-Wallis
+## 3 Kantonale Geodateninfrastruktur und GIS-Wallis
 
 #### Art. 15
 
@@ -210,7 +207,7 @@ Das GIDA ist für die Geobasisdaten des kantonalen Rechts anwendbar. Vorbehalten
 
 <sup>6</sup> Die Gemeinde kann für ihre Zwecke ein kommunales GIS einrichten. Die für die Geoinformation zuständige Dienststelle erlässt Richtlinien für die Integration der Geodienste des Kantons in das kommunale GIS.
 
-### 4. Kapitel: Kataster und Informatikplattform
+## 4 Kataster und Informatikplattform
 
 #### Art. 17
 
@@ -236,9 +233,9 @@ Das GIDA ist für die Geobasisdaten des kantonalen Rechts anwendbar. Vorbehalten
 
 <sup>2</sup> Der Staatsrat bestimmt die für den Aufbau und die Verwaltung der Informatikplattform zuständige Dienststelle.
 
-### 5. Kapitel: Finanzierung und Gebühren
+## 5 Finanzierung und Gebühren
 
-### 1. Abschnitt: Finanzierung
+### 5.1 Finanzierung
 
 #### Art. 19
 
@@ -268,9 +265,9 @@ Das GIDA ist für die Geobasisdaten des kantonalen Rechts anwendbar. Vorbehalten
 
 **Ausbildung und Forschung**
 
-Der Kanton kann die Ausbildung und die Forschung im Bereich Geoinformation fördern.
+<sup>1</sup> Der Kanton kann die Ausbildung und die Forschung im Bereich Geoinformation fördern.
 
-### 2. Abschnitt: Gebühren
+### 5.2 Gebühren
 
 #### Art. 22
 
@@ -298,48 +295,28 @@ Der Kanton kann die Ausbildung und die Forschung im Bereich Geoinformation förd
 
 <sup>2</sup> Der Kanton stellt den Gemeinden die Geobasisdaten des eidgenössischen und kantonalen Rechts gemäss der von der für die Geoinformation zuständigen Dienststelle festgelegten Modalitäten kostenlos zur Verfügung.
 
-### 6. Kapitel: Schlussbestimmungen
+## 6 Schlussbestimmungen
 
 #### Art. 25
 
 **Übergangsbestimmungen**
 
-Während einer vom Staatsrat festgelegten Übergangszeit müssen der Kanton und die Gemeinden die Geobasisdaten des kantonalen Rechts den qualitativen und technischen Anforderungen gemäss den Artikeln 5 und 6 des vorliegenden Gesetzes nur anpassen, wenn:
+<sup>1</sup> Während einer vom Staatsrat festgelegten Übergangszeit müssen der Kanton und die Gemeinden die Geobasisdaten des kantonalen Rechts den qualitativen und technischen Anforderungen gemäss den Artikeln 5 und 6 des vorliegenden Gesetzes nur anpassen, wenn:
 
 - a) das kantonale Recht es zwingend vorschreibt;
-
 - b) es sich um Daten handelt, deren Rechtsgrundlage mit oder nach dem Inkrafttreten des vorliegenden Gesetzes geschaffen wird;
-
 - c) sie die Daten neu erfassen.
 
 #### Art. 26
 
 **Änderung geltenden Rechts**
 
-Das Gesetz über die amtliche Vermessung und Geoinformation vom 16. März 2006 wird wie folgt geändert:
-
-Titel: Gesetz über die amtliche Vermessung vom 16. März 2006
-
-#### Art. 9
-
-**Geoinformationssystem**
-
-Aufgehoben.
+<sup>1</sup> Das Gesetz über die amtliche Vermessung und Geoinformation vom 16. März 2006 wird geändert.
 
 #### Art. 27
 
 **Inkrafttreten**
 
-Der Staatsrat setzt das Inkrafttreten des vorliegenden Gesetzes fest.
+<sup>1</sup> Der Staatsrat setzt das Inkrafttreten des vorliegenden Gesetzes fest.
 
-So angenommen in einziger Lesung (Art. 101 RGR) im Grossen Rat in Sitten, den 10. März 2016.
-
-Der Präsident des Grossen Rates: Nicolas Voide Der Chef des Parlamentsdienstes: Claude Bumann
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-**01.07.16**
-
-Ausführungsgesetz zum Bundesgesetz über Abl. Nr. 15/2016, Geoinformation (kGeoIG) vom 10. März Abl. Nr. 22/2016
-
-### 2016
+CSW BO/Abl. 15/2016, 22/2016
