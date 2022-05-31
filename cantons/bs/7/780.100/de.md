@@ -4,13 +4,13 @@ number: "780.100"
 title: Umweltschutzgesetz Basel-Stadt
 short: USG BS
 language: de
-version: 2021-01-01
-valid_until: 2022-05-31
-version_adopted: 2019-09-18
+version: 2022-06-01
+valid_until: 2022-07-31
+version_adopted: 2021-04-14
 adopted: 1991-03-13
 in_force: 1992-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/780.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5344/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5542/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Umweltschutzgesetz | Umweltschutz
 
 (USG BS)
 
-Vom 13. März 1991 (Stand 1. Januar 2021)
+Vom 13. März 1991 (Stand 1. Juni 2022)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -283,6 +283,12 @@ beschliesst:
 - d) der Strassenunterhalt nicht übermässig erschwert wird.
 
 <sup>4</sup> Die zuständigen Behörden sorgen dafür, dass die betroffene Bevölkerung bei der Planung solcher Massnahmen in geeigneter Weise mitwirken kann.
+
+#### § 16a
+
+**Lademöglichkeiten für Elektroautos**
+
+<sup>1</sup> Der Kanton sorgt dafür, dass eine genügende Anzahl öffentlich zugänglicher Parkplätze mit Lademöglichkeiten für Elektroautos ausgerüstet ist. Er kann diese Aufgabe an Dritte übertragen.
 
 #### § 17
 
