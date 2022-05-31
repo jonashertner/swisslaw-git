@@ -4,13 +4,12 @@ number: "131.1"
 title: Gesetz über die Gemeinden
 short: GemG
 language: de
-version: 2021-01-01
-valid_until: 2022-05-31
-version_adopted: 2020-05-20
+version: 2022-06-01
+version_adopted: 2022-02-16
 adopted: 1999-05-05
 in_force: 2000-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/131.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2008/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2544/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ GemG
 
 (GemG)
 
-vom 05.05.1999 (Stand 01.01.2021)
+vom 05.05.1999 (Stand 01.06.2022)
 
 ## 1. Geltungsbereich
 
@@ -204,9 +203,9 @@ vom 05.05.1999 (Stand 01.01.2021)
 
 **Beginn der Amtsdauer**
 
-<sup>1</sup> Der Regierungsrat regelt den Beginn der Amtsdauer[^18-1]
+<sup>1</sup> Der Regierungsrat regelt den Beginn der Amtsdauer.[^18-1]
 
-[^18-1]: ABl. 1999, Seite 1867.
+[^18-1]: Beginn Amtsdauer Politische Gemeinden und Bürgergemeinden: 1. Juni (erstmals 2003), Beginn Amtsdauer Schulgemeinden: 1. August (erstmals 2001), vgl. RRB Nr. 728 vom 7. September 1999, ABl. Nr. 36/1999 S. 1867
 
 #### § 19
 
@@ -344,7 +343,7 @@ vom 05.05.1999 (Stand 01.01.2021)
 - 6\. Beschlüsse, bei Abstimmungen und Wahlen auch das Ergebnis;
 - 7\. bei Gemeindeversammlungen und Parlamentssitzungen den Verhandlungsablauf in summarischer Form sowie die Anträge und Namen der Antragstellenden.
 
-<sup>3</sup> Die Protokolle der Gemeindeversammlung und der öffentlichen Sitzungen des Gemeindeparlamentes stehen den Stimmberechtigten zur Einsicht offen.
+<sup>3</sup> Die Protokolle der Gemeindeversammlung und der öffentlichen Sitzungen des Gemeindeparlamentes sind öffentlich.
 
 #### § 36
 
