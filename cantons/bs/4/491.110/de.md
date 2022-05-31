@@ -4,13 +4,12 @@ number: "491.110"
 title: Vollziehungsverordnung zum Gesetz betreffend Ausbildungsbeiträge
 short: VVAusbBG
 language: de
-version: 2012-02-26
-valid_until: 2022-05-31
-version_adopted: 2011-11-08
+version: 2022-06-01
+version_adopted: 2022-05-03
 adopted: 2011-11-08
 in_force: 2012-02-26
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/491.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5231/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5554/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,15 +18,18 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5231/pdf_file"
 
 Ausbildungsbeiträge: Vollziehungsverordnung | Ausbildungsbeiträge
 
-Vom 8. November 2011 (Stand 26. Februar 2012)
+(VVAusbBG[^ingress-1])
+
+Vom 8. November 2011 (Stand 1. Juni 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
-in Ausführung des § 22 des Gesetzes betreffend Ausbildungsbeiträge vom 12. Oktober 1967[^ingress-1],
+in Ausführung des § 22 des Gesetzes betreffend Ausbildungsbeiträge vom 12. Oktober 1967[^ingress-2],
 
 beschliesst:
 
-[^ingress-1]: SG [491.100](https://www.gesetzessammlung.bs.ch/data/491.100/de).
+[^ingress-1]: Fassung vom 3. Mai 2022, in Kraft seit 1. Juni 2022 (KB 07.05.2022)
+[^ingress-2]: SG [491.100](https://www.gesetzessammlung.bs.ch/data/491.100/de).
 
 ## I. Allgemeine Verfahrensbestimmungen
 
@@ -77,7 +79,7 @@ beschliesst:
 
 <sup>1</sup> Stipendien und Darlehen werden in der Regel nur während der üblichen Dauer des ursprünglich gewählten Ausbildungsganges gewährt.
 
-<sup>2</sup> Wenn die Ausbildung aus sozialen, familiären oder gesundheitlichen Gründen zwingend als Teilzeitstudium absolviert werden muss, ist die beitragsberechtigte Studienzeit entsprechend zu verlängern.
+<sup>2</sup> Die beitragsberechtigte Ausbildungszeit kann aus zwingenden sozialen, familiären, wirtschaftlichen oder gesundheitlichen Gründen verlängert werden.
 
 <sup>3</sup> Die rückwirkende Bewilligung von Ausbildungsbeiträgen ist ausgeschlossen.
 
@@ -95,13 +97,13 @@ beschliesst:
 
 <sup>1</sup> Als beitragsberechtigte Ausbildungen auf der Sekundarstufe II und auf der Tertiärstufe gelten die Erstausbildung, die Vorbildung mit eingeschlossen, in Schulen und Lehrgängen nach der obligatorischen Schulzeit zur Erreichung eines vom Bund oder vom Kanton anerkannten Berufsziels.
 
-<sup>2</sup> Die Kommission für Ausbildungsbeiträge kann zudem auf der Sekundarstufe II und auf der Tertiärstufe mit Stipendien oder Darlehen fördern:
+<sup>2</sup> Die Kommission für Ausbildungsbeiträge kann zudem auf der Sekundarstufe II und auf der Tertiärstufe sowie im Weiterbildungsbereich mit Stipendien oder Darlehen fördern:
 
-- a) die Weiterbildung in anerkannten Ausbildungsstätten und -gängen, um eine höhere Stufe im erlernten Berufsfeld zu erreichen, sofern diese Weiterbildung nicht durch andere Institutionen finanziert werden kann;
-- b) die Zweitausbildung aus wirtschaftlichen, gesundheitlichen oder anderen zwingenden Gründen nach abgeschlossener Erstausbildung;
+- a) die Weiterbildung, um eine höhere Stufe im erlernten Berufsfeld zu erreichen, sofern diese Weiterbildung nicht durch andere Institutionen finanziert werden kann;
+- b) die Zweitausbildung aus zwingenden sozialen, familiären, wirtschaftlichen oder gesundheitlichen Gründen nach abgeschlossener Erstausbildung;
 - c) die Umschulung, wenn durch besondere Gründe der angestammte Beruf nicht mehr ausgeübt werden kann und die zwingende Umschulung nicht durch andere Institutionen gefördert werden kann.
 
-<sup>3</sup> Keine Ausbildungsbeiträge werden gewährt, wenn neben der Aus- oder Weiterbildung eine existenzsichernde Erwerbstätigkeit zumutbar ist.
+<sup>3</sup> In der Regel nicht beitragsberechtigt sind Aus- oder Weiterbildungen, wenn daneben eine existenzsichernde Erwerbstätigkeit ausgeübt werden kann.
 
 #### § 9
 
@@ -139,15 +141,15 @@ beschliesst:
 
 **Stipendienrahmen**
 
-<sup>1</sup> Der jährliche Mindestbetrag eines Stipendiums beträgt CHF 1'200 p.a..
+<sup>1</sup> Der jährliche Mindestbetrag eines Stipendiums beträgt Fr. 500 pro Jahr.
 
-<sup>2</sup> Der jährliche Höchstbetrag eines Stipendiums beträgt ohne Ausbildungskosten und ohne zusätzliche Pendelpauschale:
+<sup>2</sup> Der jährliche Höchstbetrag eines Stipendiums beträgt grundsätzlich Fr. 19’000 pro Jahr.
 
-- a) für eine bei den Eltern wohnende Person CHF 8'200,
-- b) für eine in eigenem Haushalt lebende Person CHF 15'700,
-- c) für eine in eigenem Haushalt in Partnerschaft lebende Person CHF 23'400.
+- a) …
+- b) …
+- c) …
 
-<sup>3</sup> Für jedes Kind, für das die Person in Ausbildung unterhaltspflichtig ist, werden die Ansätze um CHF 4'000 angehoben.
+<sup>3</sup> Für Personen in Ausbildung mit unterhaltspflichtigen Kindern gelten die Höchstansätze gemäss Art. 15 der Interkantonalen Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen vom 18. Juni 2009, sofern diese den Höchstbetrag gemäss Abs. 2 übersteigen.
 
 ### 2. Familienbudget
 
@@ -177,11 +179,11 @@ beschliesst:
 
 <sup>4</sup> Fehlt eine Steuerveranlagung oder haben sich die Verhältnisse seither erheblich verändert, wird eine entsprechende Berechnung auf der Grundlage der letzten Lohnausweise und anderer Einkommens- und Vermögensbelege vorgenommen.
 
-<sup>5</sup> Vom Total der Einkünfte werden für die im Haushalt lebenden Personen pro Elternteil CHF 2'000 und pro Kind CHF 1'000 pauschal als Einkommensfreibetrag abgezogen.
+<sup>5</sup> Vom Total der Einkünfte werden für die im Haushalt lebenden Personen pro Elternteil Fr. 2'000 und pro Kind Fr. 1'000 pauschal als Einkommensfreibetrag abgezogen.
 
 <sup>6</sup> Nicht berücksichtigt für das Total der Einkünfte werden: der Eigenmietwert und die Liegenschaftsunterhaltskosten sowie die Unterhaltsbeiträge, die für die in Ausbildung stehende Person mit eigenem Haushalt bestimmt sind.
 
-<sup>7</sup> Als Abzug vom Total der Einkünfte gelten: für Steuerpflichtige mit selbstständiger Erwerbstätigkeit oder Lohnabhängige ohne Pensionskasse Beiträge an die Säule 3a und beim Einkauf von Beitragsjahren für die 2. Säule oder die Pensionskasse gilt ein Freibetrag von maximal CHF 15'000 p.a..
+<sup>7</sup> Als Abzug vom Total der Einkünfte gelten: für Steuerpflichtige mit selbstständiger Erwerbstätigkeit oder Lohnabhängige ohne Pensionskasse Beiträge an die Säule 3a und beim Einkauf von Beitragsjahren für die 2. Säule oder die Pensionskasse gilt ein Freibetrag von maximal Fr. 15'000 p.a..
 
 <sup>8</sup> Ergänzungsleistungen zur AHV und IV sowie kantonale Beihilfen werden zum Einkommen hinzugerechnet.
 
@@ -189,7 +191,7 @@ beschliesst:
 
 **Vermögen**
 
-<sup>1</sup> Im Familienbudget werden 10% des steuerbaren Reinvermögens gemäss der gültigen rechtskräftigen Steuerveranlagung nach Abzug der geltenden Freibeträge (CHF 60'000 pro Elternteil und pro unterstütztes Kind CHF 15'000) als Einkommen angerechnet.
+<sup>1</sup> Im Familienbudget werden 10 % des steuerbaren Reinvermögens gemäss der gültigen rechtskräftigen Steuerveranlagung nach Abzug der geltenden Freibeträge (Fr. 60'000 pro Elternteil und pro unterstütztes Kind Fr. 15'000) als Einkommen angerechnet.
 
 #### § 16
 
@@ -197,7 +199,7 @@ beschliesst:
 
 <sup>1</sup> Die anerkannten Lebenshaltungskosten setzen sich zusammen aus dem Grundbedarf für den Lebensunterhalt, den Wohnkosten, der medizinischen Grundversorgung sowie den Steuern und den Berufskosten.
 
-<sup>2</sup> Als Zuschlag zu den anerkannten Lebenshaltungskosten wird das um 20% erweiterte Total aus Grundbetrag und Wohnkosten gemäss Anhang gewährt.
+<sup>2</sup> Als Zuschlag zu den anerkannten Lebenshaltungskosten wird das um 20 % erweiterte Total aus Grundbedarf und Wohnkosten gewährt.
 
 <sup>3</sup> Weitere unvermeidbare Auslagen können anerkannt werden. Diese müssen jedoch mit Belegen nachgewiesen werden.
 
@@ -205,19 +207,25 @@ beschliesst:
 
 **Grundbedarf**
 
-<sup>1</sup> Der Grundbedarf richtet sich nach der Haushaltsgrösse und den im Anhang aufgeführten Höchstbeträgen.
+<sup>1</sup> Der Grundbedarf richtet sich nach der Haushaltsgrösse und den anrechenbaren Ausgaben für den Lebensunterhalt.
+
+<sup>2</sup> Die Kommission für Ausbildungsbeiträge legt in einer Richtlinie die anrechenbaren Pauschalbeträge fest.
 
 #### § 18
 
 **Wohnkosten**
 
-<sup>1</sup> Als Wohnkosten werden die effektiven Wohnungsmietkosten einschliesslich Nebenkosten oder bei Wohneigentum die Summe des Hypothekarzinses und der Liegenschaftsunterhaltskosten angerechnet, jedoch limitiert bis zum Maximalsatz für die anerkannten Wohnkosten im Anhang. Die Anrechnung des Eigenmietwertes entfällt.
+<sup>1</sup> Als Wohnkosten werden die effektiven Wohnungsmietkosten einschliesslich Nebenkosten oder bei Wohneigentum die Summe des Hypothekarzinses und der Liegenschaftsunterhaltskosten angerechnet.
+
+<sup>2</sup> Die Kommission für Ausbildungsbeiträge legt in einer Richtlinie Höchstbeträge für die anrechenbaren Wohnkosten fest.
 
 #### § 19
 
-**Medizinische Grundgversorgung**
+**Medizinische Grundversorgung**
 
-<sup>1</sup> Als medizinische Grundversorgungskosten werden die Prämien der obligatorischen Krankenpflegeversicherung (Grundversicherung) und die Kosten jährlicher Zahnkontrollen und Dentalhygiene sowie Zahnbehandlungskosten im Rahmen der im Anhang aufgeführten Pauschalen angerechnet.
+<sup>1</sup> Als medizinische Grundversorgungskosten werden die Prämien der obligatorischen Krankenpflegeversicherung (Grundversicherung) und die Zahnbehandlungskosten angerechnet.
+
+<sup>2</sup> Die Kommission für Ausbildungsbeiträge legt in einer Richtlinie Pauschalen für die anrechenbaren Prämien der Grundversicherung sowie für Zahnbehandlungskosten unter Berücksichtigung der kantonalen Prämienverbilligung fest.
 
 #### § 20
 
@@ -225,7 +233,9 @@ beschliesst:
 
 <sup>1</sup> Als zusätzliche Ausgaben werden die Gemeinde-, die Kantons- und die Bundessteuern sowie die Berufskosten angerechnet.
 
-<sup>2</sup> Als anerkannte Berufskosten gelten die steuerrechtlich anerkannten Kosten sowie zusätzlich allfällige Fahrtkosten zwischen Wohnort- und Arbeitsstätte sowie die notwendigen Mehrkosten für auswärtige Verpflegung.
+<sup>2</sup> Als anerkannte Berufskosten gelten die steuerrechtlich anerkannten Kosten sowie zusätzlich allfällige Fahrtkosten zwischen Wohnort und Arbeitsort und die notwendigen Mehrkosten für auswärtige Verpflegung.
+
+<sup>3</sup> Die Kommission für Ausbildungsbeiträge legt in einer Richtlinie die Höchstbeträge der anrechenbaren Fahrt- und Verpflegungskosten fest.
 
 #### § 21
 
@@ -235,7 +245,7 @@ beschliesst:
 
 <sup>2</sup> Das Ergebnis wird als Einnahme im persönlichen Budget angerechnet.
 
-<sup>3</sup> Bei Personen in Ausbildung gemäss § 28 Abs. 1 werden lediglich 35% des Ergebnisses als Einnahme im persönlichen Budget angerechnet.
+<sup>3</sup> Bei Personen in Ausbildung gemäss § 28 Abs. 1 werden lediglich 35 % des Ergebnisses als Einnahme im persönlichen Budget angerechnet.
 
 #### § 22
 
@@ -253,7 +263,7 @@ beschliesst:
 
 <sup>1</sup> Im Budget der gesuchstellenden Person werden ihre Verhältnisse sowie bei Führung eines eigenen Haushaltes die Verhältnisse ihrer Partnerin bzw. ihres allfälligen Partners und ihrer Kinder erfasst.
 
-<sup>2</sup> Als Partnerin oder Partner gelten die Ehegattin oder der Ehegatte, die Partnerin oder der Partner in eingetragener Partnerschaft und die Partnerin oder der Partner in stabiler eheähnlicher Beziehung.
+<sup>2</sup> Als Partnerin oder Partner gelten die Ehegattin oder der Ehegatte, die Partnerin oder der Partner in eingetragener Partnerschaft und die Partnerin oder der Partner in stabiler eheähnlicher Beziehung, die mehr als zwei Jahre andauert oder wenn gemeinsame Kinder vorhanden sind.
 
 #### § 24
 
@@ -272,9 +282,9 @@ beschliesst:
 
 **Anrechnung des Vermögens**
 
-<sup>1</sup> Im Budget der gesuchstellenden Person werden 25% des effektiven Vermögens zu Beginn der Beitragsperiode nach Abzug eines Freibetrages von CHF 10'000 angerechnet.
+<sup>1</sup> Im Budget der gesuchstellenden Person werden 25 % des effektiven Vermögens zu Beginn der Beitragsperiode nach Abzug eines Freibetrages von Fr. 10'000 angerechnet.
 
-<sup>2</sup> Das Vermögen der Partnerin oder des Partners wird nach Abzug eines Freibetrages von CHF 20'000 ebenfalls zu 25% hinzugerechnet.
+<sup>2</sup> Das Vermögen der Partnerin oder des Partners wird nach Abzug eines Freibetrages von Fr. 20'000 ebenfalls zu 25 % hinzugerechnet.
 
 <sup>3</sup> Eine zumutbare Vermögensbildung beziehungsweise Vermögenserhaltung wird angerechnet.
 
@@ -316,13 +326,11 @@ beschliesst:
 
 **Anerkannte Lebenshaltungskosten im eigenen Haushalt**
 
-<sup>1</sup> Die anrechenbaren Lebenshaltungskosten für Auszubildende mit eigenem Haushalt richten sich nach den §§ 17 bis 20 und den im Anhang aufgeführten Höchstbeträgen für das Budget der Person in Ausbildung.
+<sup>1</sup> Die anrechenbaren Lebenshaltungskosten für Auszubildende mit eigenem Haushalt richten sich nach den §§ 17 - 20 und den von der Kommission für Ausbildungsbeiträge festgelegten Höchstbeträgen für das Budget der Person in Ausbildung.
 
 #### § 30
 
-**Fehlbetrag**
-
-<sup>1</sup> Bei verheirateten oder in Partnerschaft lebenden Auszubildenden wird ein im persönlichen Budget ausgewiesener Fehlbetrag halbiert.
+**…**
 
 ## IV. Darlehen
 
@@ -354,7 +362,7 @@ beschliesst:
 
 <sup>1</sup> Das Amt kann auf Rückzahlung des Darlehens während der ersten beiden Jahre nach Ausbildungsabschluss verzichten.
 
-<sup>2</sup> Die Rückzahlung erfolgt nach einem auf die ökonomischen Verhältnisse der Darlehensschuldnerin bzw. des Darlehensschuldners Rücksicht nehmenden, durch das Amt zu genehmigenden Plan, wobei die jährlichen Rückzahlungsraten mindestens ein Zwölftel der Schuld und nicht weniger als CHF 2'400 betragen sollen.
+<sup>2</sup> Die Rückzahlung erfolgt nach einem auf die ökonomischen Verhältnisse der Darlehensschuldnerin bzw. des Darlehensschuldners Rücksicht nehmenden, durch das Amt zu genehmigenden Plan, wobei die jährlichen Rückzahlungsraten mindestens ein Zwölftel der Schuld und nicht weniger als Fr. 2'400 betragen sollen.
 
 <sup>3</sup> Das Amt überwacht die Rückzahlung der Darlehen.
 
@@ -364,7 +372,7 @@ beschliesst:
 
 **Verzinsung**
 
-<sup>1</sup> Darlehen sind nach Abschluss oder Abbruch der Ausbildung ab folgendem Monatsbeginn zu 4% zu verzinsen.
+<sup>1</sup> Darlehen sind nach Abschluss oder Abbruch der Ausbildung ab folgendem Monatsbeginn zu 4 % zu verzinsen.
 
 <sup>2</sup> Der Zins wird einmal jährlich fällig. In der Regel kann der Zins nicht gestundet werden.
 
@@ -388,7 +396,7 @@ beschliesst:
 
 <sup>2</sup> Sie entscheidet durch offenes Handmehr.
 
-<sup>3</sup> Sie verabschiedet Budget, Rechnung und Jahresbericht des Amtes für Ausbildungsbeiträge zuhanden des Erziehungsdepartements.
+<sup>3</sup> Sie verabschiedet den Jahresbericht des Amtes für Ausbildungsbeiträge zuhanden des Erziehungsdepartements sowie das Budget und die Rechnung zuhanden des Regierungsrates.
 
 <sup>4</sup> Sie begutachtet oder stellt Anträge auf Änderung des Gesetzes betreffend Ausbildungsbeiträge und dessen Vollziehungsverordnung.
 
@@ -398,7 +406,7 @@ beschliesst:
 
 <sup>1</sup> Die Leiterin oder der Leiter des Amtes wird vom Regierungsrat auf den Vorschlag des Erziehungsdepartements gewählt.
 
-<sup>2</sup> Sie oder er unterbreitet der Kommission für Ausbildungsbeiträge zuhanden des Erziehungsdepartements das Budget, die Jahresrechnung und den Jahresbericht ihrer resp. seiner Amtsstelle.
+<sup>2</sup> Sie oder er unterbreitet der Kommission für Ausbildungsbeiträge das Budget, die Jahresrechnung und den Jahresbericht ihrer bzw. seiner Amtsstelle.
 
 <sup>3</sup> Sie oder er nimmt an den Sitzungen der Kommission mit beratender Stimme teil und führt deren Sekretariat.
 
