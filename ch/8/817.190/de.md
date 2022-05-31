@@ -4,11 +4,11 @@ title: Verordnung vom 16. Dezember 2016 über das Schlachten und die Fleischkont
 short: VSFK
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/66"
 language: de
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-66-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2017-66-20220601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20220101/de"
 
 (VSFK)
 
-vom 16. Dezember 2016 (Stand am 1. Januar 2022)
+vom 16. Dezember 2016 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -265,17 +265,19 @@ Ausserhalb von bewilligten Schlachtbetrieben sind zulässig:
 
 [^chap3-sec2a-1]: Eingefügt durch Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
-**Art. 9**a
+#### Art. 9a
 
 <sup>1</sup> Die Hoftötung zur Fleischgewinnung ist zulässig für Schlachtvieh, die Weidetötung zur Fleischgewinnung für Tiere der Rindergattung ab vier Monaten und für Gehegewild.
 
-<sup>2</sup> Tierhalterinnen und Tierhalter, die Hof- oder Weidetötungen zur Fleischgewinnung vornehmen wollen, bedürfen einer Bewilligung der zuständigen kantonalen Behörde. Diese wird mit folgenden Auflagen erteilt:
+<sup>2</sup>
+
+Tierhalterinnen und Tierhalter, die Hof- oder Weidetötungen zur Fleischgewinnung vornehmen wollen, bedürfen einer Bewilligung der zuständigen kantonalen Behörde. Diese wird mit folgenden Auflagen erteilt:
 
 - a.
 
   Die Tierhalterin oder der Tierhalter muss gewährleisten, dass die Anforderungen der Tierschutzgesetzgebung an das Betäuben und das Entbluten der Tiere eingehalten werden; er oder sie muss insbesondere dafür sorgen, dass:
 
-  - 1\. bei der Hoftötung zur Fleischgewinnung die Tiere in einer geeigneten Einrichtung fixiert und durch eine Fachperson nach Artikel 177 Absatz 1<sup>bis</sup> der Tierschutzverordnung vom 23. April 2008[^chap3-sec2a-2] (TSchV) betäubt und entblutet werden;
+  - 1\. bei der Hoftötung zur Fleischgewinnung die Tiere in einer geeigneten Einrichtung fixiert und durch eine Fachperson nach Artikel 177 Absatz 1<sup>bis</sup> der Tierschutzverordnung vom 23. April 2008[^9a-1] (TSchV) betäubt und entblutet werden;
   - 2\. bei der Weidetötung zur Fleischgewinnung die Tiere unter sicheren Bedingungen durch eine fachkundige Person nach Artikel 177 Absatz 1<sup>bis</sup> TSchV geschossen und entblutet werden;
   - 3\. der Betäubungserfolg, das ausreichende Entbluten sowie der Todeseintritt überprüft werden und unverzüglich Massnahmen ergriffen werden, wenn das Betäuben oder das Entbluten nicht korrekt erfolgt ist.
 
@@ -288,7 +290,7 @@ Ausserhalb von bewilligten Schlachtbetrieben sind zulässig:
 
 <sup>5</sup> Bei der Weidetötung zur Fleischgewinnung muss der Abschuss und das Entbluten der Tiere immer von einer amtlichen Tierärztin oder einem amtlichen Tierarzt überwacht werden.
 
-[^chap3-sec2a-2]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^9a-1]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 
 ### 3. Abschnitt: Krankes oder verunfalltes Schlachtvieh und verunfalltes Jagdwild
 
@@ -1097,6 +1099,11 @@ Die amtliche Tierärztin oder der amtliche Tierarzt kontrolliert regelmässig un
 
 <sup>2</sup> Die Kontrollbefunde sind aufzuzeichnen und zu bewerten. Bei der Kontrolle der Hygiene sind die Ergebnisse der Selbstkontrolle und dokumentierte Systeme wie Zertifizierungen zu berücksichtigen.
 
+<sup>3</sup> Die Kontrollbefunde sind im Informationssystem für Kontrolldaten nach den Artikeln 6–9 der Verordnung vom 23. Oktober 2013[^55-1] über Informationssysteme im Bereich der Landwirtschaft zu erfassen.[^55-2]
+
+[^55-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^55-2]: Eingefügt durch Anhang 4 Ziff. II 6 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+
 #### Art. 56
 
 **Weitere Aufgaben**
@@ -1124,12 +1131,12 @@ Die Kantonstierärztin oder der Kantonstierarzt kann die amtliche Tierärztin od
 
 <sup>1</sup> Die amtliche Tierärztin oder der amtliche Tierarzt muss die Ergebnisse der Schlachttier- und Fleischuntersuchung sowie der weiteren Kontrollen täglich aufzeichnen, diese in einer Statistik zusammenfassen und jährlich einen allgemeinen Bericht über die Tätigkeit zuhanden der Kantonstierärztin oder des Kantonstierarztes erstellen.
 
-<sup>2</sup> Die kantonale Vollzugsbehörde erfasst die Ergebnisse der Schlachttier- und Fleischuntersuchung im Informationssystem über die Ergebnisse der Schlachttier- und Fleischuntersuchungen (Fleko) nach der Verordnung vom 6. Juni 2014[^57-1] über die Informationssysteme für den öffentlichen Veterinärdienst (ISVet-V) oder lässt sie aus den Systemen der Schlachtbetriebe an Fleko übermitteln. Zu erfassen oder zu übermitteln sind die TVD-Nummern der Schlachtbetriebe sowie die Daten nach Anhang 2*a* Ziffer 2 ISVet-V.[^57-2]
+<sup>2</sup> Die kantonale Vollzugsbehörde erfasst die Ergebnisse der Schlachttier- und Fleischuntersuchung im Informationssystem für die Ergebnisse der Schlachttier- und Fleischuntersuchungen (Fleko) nach der Verordnung vom 27. April 2022[^57-1] über Informationssysteme des BLV für die Lebensmittelkette (ISLK-V) oder lässt sie aus den Systemen der Schlachtbetriebe an das Fleko übermitteln. Zu erfassen oder zu übermitteln sind die TVD-Nummern der Schlachtbetriebe sowie die Daten nach Anhang 3 Ziffer 2 ISLK-V.[^57-2]
 
 <sup>3</sup> Die Unterlagen nach Absatz 1 sind während drei Kalenderjahren aufzubewahren.
 
 [^57-1]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^57-2]: Fassung gemäss Anhang Ziff. 1 der V vom 31. Okt. 2018 über die Informationssysteme für den öffentlichen Veterinärdienst, in Kraft seit 1. Jan. 2019 ([AS 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
+[^57-2]: Fassung gemäss Anhang 4 Ziff. II 6 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ### 5. Abschnitt: Meldungen
 
@@ -1204,16 +1211,15 @@ Sie setzen die Gebühren für die Untersuchung wie folgt fest:
 <tr><th></th><th>Franken mindestens</th><th>Franken höchstens</th></tr>
 <tr><td>a. Tier der Rindergattung, das 8 Monate alt oder älter ist</td><td>7.50</td><td>12.–</td></tr>
 <tr><td>b. Tier der Rindergattung, das jünger ist als 8 Monate</td><td>5.–</td><td>10.–</td></tr>
-<tr><td>c. Schaf</td><td>0.30</td><td>8.-</td></tr>
-<tr><td>d. Ziege</td><td>0.30</td><td>8.-</td></tr>
-<tr><td>e. Schwein</td><td>1.50</td><td>8.-</td></tr>
-<tr><td>f. Pferd</td><td>4.50</td><td>12.-</td></tr>
-<tr><td>g. anderes Schlachtvieh</td><td>4.50</td><td>8.-</td></tr>
+<tr><td>c. Schaf</td><td>0.30</td><td>8.–</td></tr>
+<tr><td>d. Ziege</td><td>0.30</td><td>8.–</td></tr>
+<tr><td>e. Schwein</td><td>1.50</td><td>8.–</td></tr>
+<tr><td>f. Pferd</td><td>4.50</td><td>12.–</td></tr>
+<tr><td>g. anderes Schlachtvieh</td><td>4.50</td><td>8.–</td></tr>
 <tr><td>h. Hausgeflügel, Hauskaninchen</td><td>0.01</td><td>0.20</td></tr>
-<tr><td>i. Gehegewild</td><td>0.75</td><td>8.-</td></tr>
-<tr><td>[tab]</td><td></td><td></td></tr>
+<tr><td>i. Gehegewild</td><td>0.75</td><td>8.–</td></tr>
 <tr><td>j. Federwild, Hase</td><td>0.01</td><td>0.20</td></tr>
-<tr><td>k. anderes Wild</td><td>0.50</td><td>8.-</td></tr>
+<tr><td>k. anderes Wild</td><td>0.50</td><td>8.–</td></tr>
 </table>
 
 <sup>5</sup> Pro Kilogramm Fleisch nach Abschluss der Schlachtung beträgt die Gebühr für die Untersuchung unabhängig von der Tierart zwischen drei und zehn Rappen pro Kilogramm.

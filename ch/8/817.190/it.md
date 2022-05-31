@@ -4,11 +4,11 @@ title: Ordinanza del 16 dicembre 2016 concernente la macellazione e il controllo
 short: OMCC
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/66"
 language: it
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-66-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2017-66-20220601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20220101/it"
 
 (OMCC)
 
-del 16 dicembre 2016 (Stato 1° gennaio 2022)
+del 16 dicembre 2016 (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -1100,6 +1100,11 @@ Il veterinario ufficiale verifica regolarmente e in funzione dei rischi che i ma
 
 <sup>2</sup> I risultati dei controlli vanno registrati e valutati. Nell’ambito del controllo dell’igiene occorre tener conto dei risultati del controllo autonomo e dei sistemi documentati quali le certificazioni.
 
+<sup>3</sup> I risultati dei controlli devono essere registrati nel sistema d’informazione per i dati sui controlli secondo gli articoli 6–9 dell’ordinanza del 23 ottobre 2013[^55-1] sui sistemi d’informazione nel campo dell’agricoltura.[^55-2]
+
+[^55-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^55-2]: Introdotto dall’all. 4 n. II 6 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+
 #### Art. 56
 
 **Ulteriori compiti**
@@ -1127,12 +1132,12 @@ Nel singolo caso, il veterinario cantonale può incaricare il veterinario uffici
 
 <sup>1</sup> Il veterinario ufficiale registra quotidianamente i risultati del controllo degli animali da macello e delle carni nonché degli ulteriori controlli, riassume i relativi dati in una statistica e allestisce ogni anno un rapporto generale d’attività, all’indirizzo del veterinario cantonale.
 
-<sup>2</sup> L’autorità cantonale di esecuzione registra i risultati del controllo degli animali da macello e del controllo delle carni nell’apposito sistema d’informazione Fleko di cui all’ordinanza del 6 giugno 2014[^57-1] concernente i sistemi d’informazione per il servizio veterinario pubblico (O-SISVet) oppure li fa trasmettere a Fleko dai sistemi informatici dei macelli. Devono essere registrati o comunicati i numeri BDTA dei macelli e i dati di cui all’allegato 2*a* numero 2 O-SISVet.[^57-2]
+<sup>2</sup> L’autorità cantonale di esecuzione registra i risultati del controllo degli animali da macello e del controllo delle carni nel sistema d’informazione sui risultati del controllo degli animali da macello e del controllo delle carni (Fleko) di cui all’ordinanza del 27 aprile 2022[^57-1] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare (O-SIFA) oppure li fa trasmettere a Fleko dai sistemi informatici dei macelli. Devono essere registrati o comunicati i numeri BDTA dei macelli e i dati di cui all’allegato 3 numero 2 O-SIFA.[^57-2]
 
 <sup>3</sup> La documentazione di cui al capoverso 1 deve essere conservata per tre anni civili.
 
 [^57-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^57-2]: Nuovo testo giusta l’all. n. 1 dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
+[^57-2]: Nuovo testo giusta l’all. 4 n. II 6 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ### Sezione 5: Notifiche
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 16 décembre 2016 concernant l'abattage d'animaux et le co
 short: OAbCV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/66"
 language: fr
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-66-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2017-66-20220601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20220101/fr"
 
 (OAbCV)
 
-du 16 décembre 2016 (Etat le 1<sup>er</sup> janvier 2022)
+du 16 décembre 2016 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -1108,6 +1108,11 @@ Quant à l’abattoir, le vétérinaire officiel vérifie régulièrement et en 
 
 <sup>2</sup> Les résultats des contrôles doivent être consignés et évalués. Lors du contrôle de l’hygiène, les résultats de l’autocontrôle et des systèmes documentés, tels que les certifications, doivent être pris en considération.
 
+<sup>3</sup> Les résultats des contrôles doivent être saisis dans le système d’information pour les données de contrôle visés aux art. 6 à 9 de l’ordonnance du 23 octobre 2013 sur les systèmes d’information dans le domaine de l’agriculture[^55-1].[^55-2]
+
+[^55-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^55-2]: Introduit par l’annexe 4 ch. II 6 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+
 #### Art. 56
 
 **Autres tâches**
@@ -1135,12 +1140,12 @@ Dans des cas particuliers, le vétérinaire cantonal peut charger le vétérinai
 
 <sup>1</sup> Le vétérinaire officiel doit consigner chaque jour par écrit les résultats du contrôle des animaux avant l’abattage, ceux du contrôle des viandes et des autres contrôles effectués. Il en fait une statistique et établit chaque année un rapport général des activités à l’attention du vétérinaire cantonal.
 
-<sup>2</sup> L’autorité d’exécution cantonale saisit les résultats du contrôle des animaux avant l’abattage et du contrôle des viandes dans le système d’information Fleko prévu à cet effet, visé dans l’ordonnance du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public (OSIVét)[^57-1] ou les fait transmettre au Fleko via les systèmes informatiques de l’abattoir. Il faut saisir ou transmettre le numéro BDTA de l’abattoir et les données énumérées dans l’annexe 2*a*, ch. 2, OSIVét.[^57-2]
+<sup>2</sup> L’autorité d’exécution cantonale saisit les résultats du contrôle des animaux avant l’abattage et du contrôle des viandes dans le système d’information pour les résultats du contrôle des animaux avant l’abattage et du contrôle des viandes (Fleko) visé dans l’ordonnance du 27 avril 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire (O-SICAL)[^57-1] ou les fait transmettre à Fleko via les systèmes informatiques de l’abattoir. Il faut saisir ou transmettre le numéro BDTA de l’abattoir et les données énumérées dans l’annexe 3, ch. 2, O-SICAL.[^57-2]
 
 <sup>3</sup> Les pièces mentionnées à l’al. 1 doivent être conservées durant trois années civiles.
 
 [^57-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^57-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 31 oct. 2018 concernant les systèmes d’information du service vétérinaire public, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
+[^57-2]: Nouvelle teneur selon l’annexe 4 ch. II 6 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ### Section 5 Notifications
 
