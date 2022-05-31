@@ -4,20 +4,20 @@ title: Bundesgesetz vom 7. Oktober 1994 über die kriminalpolizeilichen Zentrals
 short: ZentG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/875_875_875"
 language: de
-version: 2022-01-01
+version: 2022-06-01
 adopted: 1994-10-07
 in_force: 1995-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/875_875_875/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1995-875_875_875-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/875_875_875/20220601/de/xml/fedlex-data-admin-ch-eli-cc-1995-875_875_875-20220601-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Bundesgesetz über die kriminalpolizeilichen Zentralstellen des Bundes und gemeinsame Zentren für Polizei- und Zollzusammenarbeit mit anderen Staaten****
+# Bundesgesetz über die kriminalpolizeilichen Zentralstellen des Bundes und gemeinsame Zentren für Polizei- und Zollzusammenarbeit mit anderen Staaten
 
-(ZentG)**[^t-2]**[^t-1]
+(ZentG)[^t-2][^t-1]
 
-vom 7. Oktober 1994 (Stand am 1. Januar 2022)
+vom 7. Oktober 1994 (Stand am 1. Juni 2022)
 
 [^t-1]: Fassung gemäss Art. 3 des BB vom 21. März 2014 über die Genehmigung des Vertrags zwischen der Schweiz, Österreich und Liechtenstein über die grenzüberschreitende polizeiliche Zusammenarbeit, in Kraft seit 1. Aug. 2014 ([AS 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386); [BBl 2013 755](https://fedlex.data.admin.ch/eli/fga/2013/129)).
 [^t-2]: Eingefügt durch Ziff. I des BG vom 18. Juni 1999, in Kraft seit 15. Juni 2000 ([AS 2000 1367](https://fedlex.data.admin.ch/eli/oc/2000/214); [BBl 1997 IV 1293](https://fedlex.data.admin.ch/eli/fga/1997/4_1293_1149_1029)).
@@ -36,13 +36,36 @@ beschliesst:
 
 #### Art. 1
 
-**Zentralstellen[^1-1]**
+**Zusammenarbeit zwischen schweizerischen Polizeibehörden**[^1-1]
 
-<sup>1</sup> Der Bund führt Zentralstellen zur Bekämpfung des organisierten und international tätigen Verbrechens.
+<sup>1</sup> Die Polizeibehörden von Bund und Kantonen unterstützen sich gegenseitig und stimmen ihre Tätigkeit aufeinander ab.
 
-<sup>2</sup> Die Zentralstellen arbeiten mit den Strafverfolgungs- und Polizeibehörden der Kantone und des Auslandes zusammen.
+<sup>2</sup>
 
-[^1-1]: Fassung gemäss Art. 3 des BB vom 21. März 2014 über die Genehmigung des Vertrags zwischen der Schweiz, Österreich und Liechtenstein über die grenzüberschreitende polizeiliche Zusammenarbeit, in Kraft seit 1. Aug. 2014 ([AS 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386); [BBl 2013 755](https://fedlex.data.admin.ch/eli/fga/2013/129)).
+Der Bund kann sich zur Erfüllung seiner Aufgaben an Organisationen der Kantone beteiligen und mit den Kantonen gemeinsame Einrichtungen betreiben, insbesondere in folgenden Bereichen:
+
+- a. Bekämpfung der Cyberkriminalität;
+- b. Bewältigung von besonderen und ausserordentlichen Lagen sowie Grossereignissen;
+- c. polizeiliche Ausbildung;
+- d. Harmonisierung, Beschaffung, Betrieb und Weiterentwicklung von polizeilichen Einsatzmitteln, einschliesslich Informations- und Kommunikationsmitteln;
+- e. Zeugenschutz.
+
+<sup>3</sup> Der Bund kann für die Kantone polizeiliche Einsatzmittel beschaffen, wenn er die Mittel gleichzeitig zur Erfüllung eigener Aufgaben beschafft, die zentrale Beschaffung zu einem erheblichen Effizienzgewinn für die Kantone führt und die Kantone einverstanden sind. Bund und Kantone tragen die Kosten anteilsmässig.
+
+<sup>4</sup>
+
+Der Bundesrat ist für den Abschluss der Vereinbarungen mit den Kantonen zuständig. Die Vereinbarungen regeln insbesondere:
+
+- a. die Zuständigkeiten;
+- b. die Organisation;
+- c. die Finanzierung;
+- d. die Rechtsverhältnisse, insbesondere hinsichtlich der Staatshaftung, der Arbeitsverhältnisse, der beruflichen Vorsorge und des Datenschutzes.
+
+<sup>5</sup> Die Vereinbarungen können ein Organ einer Organisation oder Einrichtung ermächtigen, Regelungen über die Inhalte nach Absatz 4 Buchstaben a–d zu erlassen.
+
+<sup>6</sup> Die gemeinsamen Organisationen und Einrichtungen sind in Bezug auf ihre Leistungen, die sie für Behörden erbringen, von jeder Besteuerung durch Bund, Kantone und Gemeinden befreit.
+
+[^1-1]: Eingefügt durch Ziff. I 8 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 1a
 
@@ -56,16 +79,14 @@ beschliesst:
 
 #### Art. 2
 
-**Aufgaben**
+**Zentralstellen[^2-2]**[^2-1]
 
-Die Zentralstellen nach diesem Gesetz:
+<sup>1</sup> Der Bund führt Zentralstellen zur Bekämpfung des organisierten und international tätigen Verbrechens.
 
-- a. bearbeiten die Informationen aus dem In- und Ausland in ihrem Zuständigkeitsbereich;
-- b. koordinieren die interkantonalen und internationalen Ermittlungen;
-- c. erstellen Lage- und Bedrohungsberichte zuhanden des Eidgenössischen Justiz- und Polizeidepartementes (Departement) und der Strafverfolgungsbehörden;
-- d. stellen den nationalen und internationalen kriminalpolizeilichen Informationsaustausch sicher und wirken bei der Durchführung von Rechtshilfeersuchen des Auslandes mit;
-- e. setzen die Polizeiverbindungsleute im Ausland ein;
-- f. führen gerichtspolizeiliche Ermittlungen durch, wenn der Bund dafür zuständig ist.
+<sup>2</sup> Die Zentralstellen arbeiten mit den Strafverfolgungs- und Polizeibehörden der Kantone und des Auslandes zusammen.
+
+[^2-1]: Ursprünglich: Art. 1.
+[^2-2]: Fassung gemäss Art. 3 des BB vom 21. März 2014 über die Genehmigung des Vertrags zwischen der Schweiz, Österreich und Liechtenstein über die grenzüberschreitende polizeiliche Zusammenarbeit, in Kraft seit 1. Aug. 2014 ([AS 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386); [BBl 2013 755](https://fedlex.data.admin.ch/eli/fga/2013/129)).
 
 #### Art. 2a
 
@@ -128,6 +149,28 @@ Der Chef oder die Chefin der Bundeskriminalpolizei beendet die verdeckte Fahndun
 [^3a-2]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
 [^3a-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
+#### Art. 3b
+
+**Ausschreibung von Personen und Sachen zur verdeckten Registrierung oder gezielten Kontrolle**[^3b-1]
+
+<sup>1</sup> Fedpol kann auf Ersuchen der Strafverfolgungsbehörden des Bundes oder auf Ersuchen von Polizeibehörden der Kantone im automatisierten Polizeifahndungssystem nach Artikel 15 des Bundesgesetzes vom 13. Juni 2008[^3b-2] über die polizeilichen Informationssysteme (BPI) sowie im nationalen Teil des Schengener Informationssystems nach Artikel 16 BPI Personen, Fahrzeuge, Wasserfahrzeuge, Luftfahrzeuge und Container zur verdeckten Registrierung oder gezielten Kontrolle ausschreiben.
+
+<sup>2</sup>
+
+Die Ausschreibung von Personen zwecks Strafverfolgung oder zur Abwehr von Gefahren ist nur zulässig, wenn:
+
+- a. Anhaltspunkte dafür vorliegen, dass die betroffene Person eine schwere Straftat plant oder begeht;
+- b. die Gesamtbeurteilung einer Person insbesondere aufgrund der bisher von ihr begangenen Straftaten erwarten lässt, dass sie erneut eine schwere Straftat begeht; oder
+- c. Anhaltspunkte dafür vorliegen, dass von der betroffenen Person eine erhebliche Gefährdung der öffentlichen Sicherheit und Ordnung oder andere erhebliche Gefahren für die innere oder äussere Sicherheit ausgehen.
+
+<sup>3</sup> Die Ausschreibung von Fahrzeugen, Wasserfahrzeugen, Luftfahrzeugen und Containern ist nur zulässig, wenn Anhaltspunkte dafür vorliegen, dass eine Verbindung zu schweren Straftaten oder erheblichen Gefahren nach Absatz 2 besteht.
+
+<sup>4</sup> Als schwere Straftaten nach den Absätzen 2 und 3 gelten insbesondere die Straftaten nach Artikel 286 Absatz 2 StPO[^3b-3].
+
+[^3b-1]: Eingefügt durch Ziff. I 8 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^3b-2]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^3b-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+
 #### Art. 4
 
 **Zusammenarbeit mit Behörden und Amtsstellen**
@@ -152,7 +195,7 @@ Der Bundesrat regelt für jede Zentralstelle durch Verordnung, unter welchen Vor
 
 <sup>1</sup> Polizeiverbindungsleute in ausgewählten schweizerischen Vertretungen im Ausland oder bei internationalen Organisationen unterstützen die Strafverfolgungsbehörden bei der Verfolgung von Straftaten im Zuständigkeitsbereich der Zentralstellen. Sie arbeiten im Rahmen der nachfolgenden Bestimmungen als Angehörige der Zentralstelle direkt mit den zuständigen Behörden des Empfangsstaates und bestimmter Drittländer zusammen.
 
-<sup>1bis</sup> Das Bundesamt für Polizei (fedpol) kann im Einvernehmen mit dem Bundesamt für Zoll und Grenzsicherheit (BAZG) Aufgaben der Polizeiverbindungsleute an die Verbindungsleute des BAZG delegieren. Soweit dies für die Aufgabenerfüllung erforderlich ist, sind die Verbindungleute des BAZG im Rahmen der von fedpol übertragenen Aufgaben den Polizeiverbindungsleuten bezüglich des Zugriffs auf Informationssysteme und der Berechtigung zur Datenbearbeitung gleichgestellt.[^5-1]
+<sup>1bis</sup> Fedpol kann im Einvernehmen mit dem Bundesamt für Zoll und Grenzsicherheit (BAZG) Aufgaben der Polizeiverbindungsleute an die Verbindungsleute des BAZG delegieren.[^5-1] Soweit dies für die Aufgabenerfüllung erforderlich ist, sind die Verbindungleute des BAZG im Rahmen der von fedpol übertragenen Aufgaben den Polizeiverbindungsleuten bezüglich des Zugriffs auf Informationssysteme und der Berechtigung zur Datenbearbeitung gleichgestellt.[^5-2]
 
 <sup>2</sup> Die Polizeiverbindungsleute können auch bei Fahndungen und Ermittlungen zur Verfolgung von Verbrechen und Vergehen, bei denen die Schweiz Rechtshilfe gewähren kann, eingesetzt werden.
 
@@ -160,7 +203,8 @@ Der Bundesrat regelt für jede Zentralstelle durch Verordnung, unter welchen Vor
 
 <sup>4</sup> Der Bundesrat wird ermächtigt, mit den zuständigen Behörden des Auslandes die Stationierung von ausländischen Polizeiverbindungsleuten in der Schweiz zu vereinbaren.
 
-[^5-1]: Eingefügt durch Anhang Ziff. 2 des BB vom 15. Dez. 2017 (Übernahme der Verordnung [EU] 2016/1624 über die Europäische Grenz- und Küstenwache) ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)). Fassung gemäss Ziff. I 8 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^5-1]: Fassung gemäss Ziff. I 8 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^5-2]: Eingefügt durch Anhang Ziff. 2 des BB vom 15. Dez. 2017 (Übernahme der Verordnung [EU] 2016/1624 über die Europäische Grenz- und Küstenwache) ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)). Fassung gemäss Ziff. I 8 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 6
 
@@ -190,13 +234,13 @@ Der Bundesrat regelt für jede Zentralstelle durch Verordnung, unter welchen Vor
 
 <sup>1</sup> Die Zentralstelle für die Bekämpfung des organisierten Verbrechens hat insbesondere die Aufgabe, kriminelle Organisationen im Sinne von Artikel 260<sup>ter</sup> des Strafgesetzbuches[^7-1] zu erkennen und die von solchen Organisationen begangenen Straftaten zu bekämpfen.
 
-<sup>2</sup> Sie hat zudem die Aufgabe, Wirtschaftsstraftaten, für welche die Staatsanwaltschaft des Bundes ein Vorverfahren eröffnen kann (Art. 24 der Strafprozessordnung vom 5. Okt. 2007[^7-2], StPO), zu erkennen und zu bekämpfen.[^7-3]
+<sup>2</sup> Sie hat zudem die Aufgabe, Wirtschaftsstraftaten, für welche die Staatsanwaltschaft des Bundes ein Vorverfahren eröffnen kann (Art. 24 StPO[^7-2]), zu erkennen und zu bekämpfen.[^7-3]
 
 <sup>3</sup> Sie kann im Rahmen von Rechtshilfeverfahren mit Beweiserhebungen betraut werden; diese führt sie nach den Bestimmungen der StPO durch.[^7-4]
 
 [^7-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^7-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^7-3]: Eingefügt durch Ziff. II 2 des BG vom 22. Dez. 1999 (Schaffung neuer Verfahrens-kompetenzen des Bundes in den Bereichen organisiertes Verbrechen und Wirtschafts-kriminalität)([AS 2001 3071](https://fedlex.data.admin.ch/eli/oc/2001/459); BBl **1998** 1529). Fassung gemäss Anhang 1 Ziff. II 15 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^7-3]: Eingefügt durch Ziff. II 2 des BG vom 22. Dez. 1999 (Schaffung neuer Verfahrens-kompetenzen des Bundes in den Bereichen organisiertes Verbrechen und Wirtschafts-kriminalität)([AS 2001 3071](https://fedlex.data.admin.ch/eli/oc/2001/459); BBl **1998** 1529). Fassung gemäss Ziff. I 8 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^7-4]: Eingefügt durch Ziff. II 2 des BG vom 22. Dez. 1999 (Schaffung neuer Verfahrens-kompetenzen des Bundes in den Bereichen organisiertes Verbrechen und Wirtschafts-kriminalität)([AS 2001 3071](https://fedlex.data.admin.ch/eli/oc/2001/459); BBl **1998** 1529). Fassung gemäss Anhang 1 Ziff. II 15 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 8
@@ -222,7 +266,7 @@ Der Bundesrat regelt für jede Zentralstelle durch Verordnung, unter welchen Vor
 
 <sup>2</sup> Sie kann im Rahmen von Rechtshilfeverfahren mit Beweiserhebungen betraut werden; diese führt sie nach den Bestimmungen der StPO[^9-1] durch.[^9-2]
 
-<sup>3</sup> ...[^9-3]
+<sup>3</sup> …[^9-3]
 
 [^9-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 [^9-2]: Fassung gemäss Anhang 1 Ziff. II 15 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).

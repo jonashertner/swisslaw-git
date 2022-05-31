@@ -4,20 +4,20 @@ title: "Loi fédérale du 7 octobre 1994 sur les Offices centraux de police crim
 short: LOC
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/875_875_875"
 language: fr
-version: 2022-01-01
+version: 2022-06-01
 adopted: 1994-10-07
 in_force: 1995-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/875_875_875/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-875_875_875-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/875_875_875/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-1995-875_875_875-20220601-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les Offices centraux de police criminelle de la Confédération et les centres communs de coopération policière et douanière avec d’autres États****
+# Loi fédérale sur les Offices centraux de police criminelle de la Confédération et les centres communs de coopération policière et douanière avec d’autres États
 
-(LOC)**[^t-2]**[^t-1]
+(LOC)[^t-2][^t-1]
 
-du 7 octobre 1994 (Etat le 1<sup>er</sup> janvier 2022)
+du 7 octobre 1994 (État le 1<sup>er</sup> juin 2022)
 
 [^t-1]: Nouvelle teneur selon l’art. 3 de l’AF du 21 mars 2014 portant approbation de l’Ac. entre la Suisse, l’Autriche et le Liechtenstein concernant la coopération policière transfrontalière, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386); [FF 2013 691](https://fedlex.data.admin.ch/eli/fga/2013/129)).
 [^t-2]: Abréviation introduite par le ch. I de la LF du 18 juin 1999, en vigueur depuis le 15 juin 2000 ([RO 2000 1367](https://fedlex.data.admin.ch/eli/oc/2000/214); [FF 1997 IV 1149](https://fedlex.data.admin.ch/eli/fga/1997/4_1293_1149_1029)).
@@ -36,13 +36,36 @@ arrête:
 
 #### Art. 1
 
-**Offices centraux[^1-1]**
+**Collaboration entre les autorités de police suisses**[^1-1]
 
-<sup>1</sup> La Confédération dirige des offices centraux de lutte contre le crime international organisé.
+<sup>1</sup> Les autorités de police fédérales et cantonales s’entraident et coordonnent leurs activités.
 
-<sup>2</sup> Les offices centraux travaillent en collaboration avec les autorités de poursuite pénale et les services de police des cantons et de l’étranger.
+<sup>2</sup>
 
-[^1-1]: Nouvelle teneur selon l’art. 3 de l’AF du 21 mars 2014 portant approbation de l’Ac. entre la Suisse, l’Autriche et le Liechtenstein concernant la coopération policière transfrontalière, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386); [FF 2013 691](https://fedlex.data.admin.ch/eli/fga/2013/129)).
+La Confédération peut, pour accomplir ses tâches, participer à des organisations cantonales et exploiter des structures communes avec les cantons, en particulier dans les domaines suivants:
+
+- a. lutte contre la cybercriminalité;
+- b. gestion de situations particulières ou extraordinaires et d’événements majeurs;
+- c. formation policière;
+- d. harmonisation, acquisition, exploitation et développement de moyens d’intervention policiers, y compris de moyens d’information et de communication;
+- e. protection des témoins.
+
+<sup>3</sup> La Confédération peut acquérir des moyens d’intervention policiers pour les cantons si elle les acquiert simultanément pour accomplir ses propres tâches, si l’acquisition centralisée entraîne des gains d’efficacité considérables pour les cantons et si les cantons y consentent. Les coûts sont répartis proportionnellement entre la Confédération et les cantons.
+
+<sup>4</sup>
+
+Le Conseil fédéral est responsable de la conclusion de conventions avec les cantons. Les conventions règlent en particulier les points suivants:
+
+- a. les compétences;
+- b. l’organisation;
+- c. le financement;
+- d. le droit applicable, en particulier en matière de responsabilité de l’État, de rapports de travail, de prévoyance professionnelle et de protection des données.
+
+<sup>5</sup> Les conventions peuvent autoriser un organe d’une organisation ou d’une institution à émettre des règles concernant les contenus visés à l’al. 4, let. a à d.
+
+<sup>6</sup> Les organisations et institutions communes sont exonérées des impôts fédéraux, cantonaux et communaux pour ce qui est des prestations qu’elles fournissent aux autorités.
+
+[^1-1]: Introduit par le ch. I 8 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 1a
 
@@ -56,16 +79,14 @@ arrête:
 
 #### Art. 2
 
-**Tâches**
+**Offices centraux[^2-2]**[^2-1]
 
-Au sens de la présente loi, les offices centraux:
+<sup>1</sup> La Confédération dirige des offices centraux de lutte contre le crime international organisé.
 
-- a. traitent les informations qui relèvent de leur domaine de compétences, qu’elles émanent de Suisse ou d’un pays étranger;
-- b. coordonnent les investigations menées aux échelons intercantonal ou international;
-- c. établissent des rapports de situation et dressent un bilan de la menace à l’intention du Département fédéral de justice et police (département) et des autorités de poursuite pénale;
-- d. garantissent l’échange national et international des informations de police criminelle et traitent des demandes d’entraide judiciaire émanant de pays étrangers;
-- e. détachent des agents de liaison à l’étranger;
-- f. mènent des enquêtes de police judiciaire dans les domaines de compétence de la Confédération.
+<sup>2</sup> Les offices centraux travaillent en collaboration avec les autorités de poursuite pénale et les services de police des cantons et de l’étranger.
+
+[^2-1]: Anciennement art. 1.
+[^2-2]: Nouvelle teneur selon l’art. 3 de l’AF du 21 mars 2014 portant approbation de l’Ac. entre la Suisse, l’Autriche et le Liechtenstein concernant la coopération policière transfrontalière, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386); [FF 2013 691](https://fedlex.data.admin.ch/eli/fga/2013/129)).
 
 #### Art. 2a
 
@@ -128,6 +149,28 @@ Le chef de la Police judiciaire fédérale met immédiatement fin aux recherches
 [^3a-2]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
 [^3a-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
+#### Art. 3b
+
+**Signalement de personnes et d’objets aux fins de surveillance discrète ou de contrôle ciblé**[^3b-1]
+
+<sup>1</sup> À la demande des autorités fédérales de poursuite pénale ou à la demande des services de police des cantons, fedpol peut signaler des personnes, des véhicules, des embarcations, des aéronefs et des conteneurs aux fins de surveillance discrète ou de contrôle ciblé dans le système de recherches informatisées de police visé à l’art. 15 de la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération (LSIP)[^3b-2] et dans la partie nationale du Système d’information Schengen en vertu de l’art. 16 LSIP.
+
+<sup>2</sup>
+
+Le signalement de personnes aux fins de poursuite pénale ou de prévention des menaces n’est admissible que:
+
+- a. s’il existe des indices selon lesquels la personne concernée prépare ou commet une infraction grave;
+- b. si l’évaluation générale d’une personne, notamment les infractions qu’elle a déjà commises, laisse supposer qu’elle commettra à nouveau une infraction grave, ou
+- c. s’il existe des indices selon lesquels la personne concernée représente une menace grave pour la sécurité et l’ordre publics ou d’autres risques graves pour la sécurité intérieure ou extérieure.
+
+<sup>3</sup> Le signalement de véhicules, d’embarcations, d’aéronefs et de conteneurs n’est autorisé qu’en cas d’indices selon lesquels il existe un lien avec une infraction grave ou avec une menace grave conformément à l’al. 2.
+
+<sup>4</sup> Sont des infractions graves au sens des al. 2 et 3 en particulier les infractions visées à l’art. 286, al. 2, CPP[^3b-3].
+
+[^3b-1]: Introduit par le ch. I 8 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^3b-2]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^3b-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+
 #### Art. 4
 
 **Collaboration avec les autorités et les offices**
@@ -144,7 +187,7 @@ Le Conseil fédéral règle par voie d’ordonnance les modalités et l’ampleu
 
 <sup>2</sup> L’autorité supérieure hiérarchiquement arbitre les différends au sein de l’administration fédérale; la cour des plaintes du Tribunal pénal fédéral arbitre les différends entre autorités de la Confédération et autorités des cantons.[^4-1]
 
-[^4-1]: Nouvelle teneur selon le ch. 16 de l’annexe à la LF du 4 oct. 2002 sur le TPF, en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^4-1]: Nouvelle teneur selon l’annexe ch. 16 de la LF du 4 oct. 2002 sur le TPF, en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 5
 
@@ -152,7 +195,7 @@ Le Conseil fédéral règle par voie d’ordonnance les modalités et l’ampleu
 
 <sup>1</sup> Les agents de liaison détachés auprès de certaines représentations suisses à l’étranger ou d’organisations internationales apportent leur soutien aux autorités chargées de la poursuite pénale des infractions qui sont de la compétence des offices centraux. Ils collaborent directement, en tant que membres de l’office central et dans les limites des dispositions suivantes, avec les autorités compétentes de l’État de résidence et de certains États tiers.
 
-<sup>1bis</sup> L’Office fédéral de la police (fedpol) peut, en accord avec l’Office fédéral de la douane et de la sécurité des frontières (OFDF), déléguer des tâches de ses propres agents de liaison aux agents de liaison de l’OFDF. Dans le cadre des tâches déléguées par fedpol, les agents de liaison de l’OFDF sont assimilés aux agents de liaison de fedpol en ce qui concerne l’accès aux systèmes d’information et le droit de traiter les données pour autant que cela soit nécessaire à l’accomplissement des tâches.[^5-1]
+<sup>1bis</sup> Fedpol peut, en accord avec l’Office fédéral des douanes et de la sécurité des frontières (OFDF), déléguer des tâches de ses propres agents de liaison aux agents de liaison de l’OFDF.[^5-1] Dans le cadre des tâches déléguées par fedpol, les agents de liaison de l’OFDF sont assimilés aux agents de liaison de fedpol en ce qui concerne l’accès aux systèmes d’information et le droit de traiter les données pour autant que cela soit nécessaire à l’accomplissement des tâches.[^5-2]
 
 <sup>2</sup> Les agents de liaison peuvent aussi être engagés dans des investigations et des enquêtes concernant des crimes et des délits pour lesquels la Suisse peut accorder l’entraide judiciaire.
 
@@ -160,7 +203,8 @@ Le Conseil fédéral règle par voie d’ordonnance les modalités et l’ampleu
 
 <sup>4</sup> Le Conseil fédéral est habilité à convenir avec les autorités étrangères compétentes de l’établissement d’agents de liaison étrangers en Suisse.
 
-[^5-1]: Introduit par le ch. 2 de l’annexe à l’AF du 15 déc. 2017 (Reprise du règlement [UE] 2016/1624 relatif au corps européen de garde-frontières et de garde-côtes), ([RO 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3891](https://fedlex.data.admin.ch/eli/fga/2017/1056)). Nouvelle teneur selon le ch. I 8 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^5-1]: Nouvelle teneur selon le ch. I 8 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^5-2]: Introduit par l’annexe ch. 2 de l’AF du 15 déc. 2017 (Reprise du règlement [UE] 2016/1624 relatif au corps européen de garde-frontières et de garde-côtes), ([RO 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3891](https://fedlex.data.admin.ch/eli/fga/2017/1056)). Nouvelle teneur selon le ch. I 8 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 6
 
@@ -190,14 +234,14 @@ Le Conseil fédéral règle par voie d’ordonnance les modalités et l’ampleu
 
 <sup>1</sup> L’Office central de lutte contre le crime organisé est notamment chargé de démasquer les organisations criminelles telles qu’elles sont définies à l’art. 260<sup>ter</sup> du code pénal[^7-1] et de lutter contre les infractions commises par ces organisations.
 
-<sup>2</sup> Il a également pour tâche de découvrir et de combattre les infractions relevant de la criminalité économique sur lesquelles le Ministère public de la Confédération peut ouvrir une procédure préliminaire (art. 24 du code de procédure pénale du 5 oct. 2007, CPP[^7-2]).[^7-3]
+<sup>2</sup> Il a également pour tâche de découvrir et de combattre les infractions relevant de la criminalité économique sur lesquelles le Ministère public de la Confédération peut ouvrir une procédure préliminaire (art. 24 CPP[^7-2]).[^7-3]
 
 <sup>3</sup> Dans le cadre de procédures d’entraide judiciaire, il peut être chargé d’administrer des preuves conformément au CPP.[^7-4]
 
 [^7-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^7-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^7-3]: Introduit par le ch. II 2 de la LF du 22 déc. 1999 (Nouvelles compétences de procédure en faveur de la Confédération dans les domaines du crime organisé et de la criminalité économique ([RO 2001 3071](https://fedlex.data.admin.ch/eli/oc/2001/459); FF **1998** 1253). Nouvelle teneur selon le ch. II 15 de l’annexe 1 au CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^7-4]: Introduit par le ch. II 2 de la LF du 22 déc. 1999 (Nouvelles compétences de procédure en faveur de la Confédération dans les domaines du crime organisé et de la criminalité économique ([RO 2001 3071](https://fedlex.data.admin.ch/eli/oc/2001/459); FF **1998** 1253). Nouvelle teneur selon le ch. II 15 de l’annexe 1 au CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^7-3]: Introduit par le ch. II 2 de la LF du 22 déc. 1999 (Nouvelles compétences de procédure en faveur de la Confédération dans les domaines du crime organisé et de la criminalité économique ([RO 2001 3071](https://fedlex.data.admin.ch/eli/oc/2001/459); FF **1998** 1253). Nouvelle teneur selon le ch. I 8 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^7-4]: Introduit par le ch. II 2 de la LF du 22 déc. 1999 (Nouvelles compétences de procédure en faveur de la Confédération dans les domaines du crime organisé et de la criminalité économique ([RO 2001 3071](https://fedlex.data.admin.ch/eli/oc/2001/459); FF **1998** 1253). Nouvelle teneur selon l’annexe 1 ch. II 15 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 8
 
@@ -209,7 +253,7 @@ Le Conseil fédéral règle par voie d’ordonnance les modalités et l’ampleu
 
 [^8-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^8-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^8-3]: Nouvelle teneur selon le ch. II 15 de l’annexe 1 au CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^8-3]: Nouvelle teneur selon l’annexe 1 ch. II 15 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^8-4]: Nouvelle teneur selon le ch. II 2 de la LF du 22 déc. 1999 (Nouvelles compétences de procédure en faveur de la Confédération dans les domaines du crime organisé et de la criminalité économique), en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2001 3071](https://fedlex.data.admin.ch/eli/oc/2001/459)3076; FF **1998** 1253).
 
 ## Section 3 Office central de lutte contre le trafic illicite des stupéfiants
@@ -225,7 +269,7 @@ Le Conseil fédéral règle par voie d’ordonnance les modalités et l’ampleu
 <sup>3</sup> ...[^9-3]
 
 [^9-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^9-2]: Nouvelle teneur selon le ch. II 15 de l’annexe 1 au CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^9-2]: Nouvelle teneur selon l’annexe 1 ch. II 15 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^9-3]: Abrogé par le ch. II 2 de la LF du 22 déc. 1999 (Nouvelles compétences de procédure en faveur de la Confédération dans les domaines du crime organisé et de la criminalité économique), avec effet au 1<sup>er</sup> janv. 2002 ([RO 2001 3071](https://fedlex.data.admin.ch/eli/oc/2001/459); FF **1998** 1253).
 
 #### Art. 10
@@ -242,7 +286,7 @@ Les cantons doivent signaler à temps à l’office central toute poursuite pén
 
 [^1112-1]
 
-[^1112-1]: Abrogés par le ch. 8 de l’annexe 1 à la LF du 13 juin 2008 sur les systèmes d’information de police de la Confédération, avec effet au 5 déc. 2008 ([RO 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4819](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^1112-1]: Abrogés par l’annexe 1 ch. 8 de la LF du 13 juin 2008 sur les systèmes d’information de police de la Confédération, avec effet au 5 déc. 2008 ([RO 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4819](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 
 #### Art. 13
 
@@ -259,7 +303,7 @@ Les cantons doivent signaler à temps à l’office central toute poursuite pén
 
 [^14-1]
 
-[^14-1]: Abrogé par le ch. 8 de l’annexe 1 à la LF du 13 juin 2008 sur les systèmes d’information de police de la Confédération, avec effet au 5 déc. 2008 ([RO 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4819](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^14-1]: Abrogé par l’annexe 1 ch. 8 de la LF du 13 juin 2008 sur les systèmes d’information de police de la Confédération, avec effet au 5 déc. 2008 ([RO 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4819](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 
 ## Section 5 Dispositions finales
 

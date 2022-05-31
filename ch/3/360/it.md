@@ -4,20 +4,20 @@ title: Legge federale del 7 ottobre 1994 sugli Uffici centrali di polizia giudiz
 short: LUC
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/875_875_875"
 language: it
-version: 2022-01-01
+version: 2022-06-01
 adopted: 1994-10-07
 in_force: 1995-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/875_875_875/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1995-875_875_875-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/875_875_875/20220601/it/xml/fedlex-data-admin-ch-eli-cc-1995-875_875_875-20220601-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Legge federale sugli Uffici centrali di polizia giudiziaria della Confederazione e i centri comuni di cooperazione di polizia e doganale con altri Stati****
+# Legge federale sugli Uffici centrali di polizia giudiziaria della Confederazione e i centri comuni di cooperazione di polizia e doganale con altri Stati
 
-(LUC)**[^t-2]**[^t-1]
+(LUC)[^t-2][^t-1]
 
-del 7 ottobre 1994 (Stato 1° gennaio 2022)
+del 7 ottobre 1994 (Stato 1° giugno 2022)
 
 [^t-1]: Nuovo testo giusta l’art. 3 del DF del 21 mar. 2014 che approva l’Accordo tra la Svizzera, l’Austria e il Liechtenstein sulla cooperazione transfrontaliera in materia di polizia, in vigore dal 1° ago. 2014 ([RU 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386); [FF 2013 663](https://fedlex.data.admin.ch/eli/fga/2013/129)).
 [^t-2]: Abbreviazione introdotta dal n. I della LF del 18 giu. 1999, in vigore dal 15 giu. 2000 ([RU 2000 1367](https://fedlex.data.admin.ch/eli/oc/2000/214)1368; [FF 1997 IV 1029](https://fedlex.data.admin.ch/eli/fga/1997/4_1293_1149_1029)).
@@ -36,13 +36,36 @@ decreta:
 
 #### Art. 1
 
-**Uffici centrali[^1-1]**
+**Collaborazione tra autorità di polizia svizzere**[^1-1]
 
-<sup>1</sup> La Confederazione gestisce uffici centrali per la lotta contro la criminalità organizzata e attiva sul piano internazionale.
+<sup>1</sup> Le autorità di polizia della Confederazione e dei Cantoni si sostengono reciprocamente e coordinano le loro attività.
 
-<sup>2</sup> Gli uffici centrali lavorano in collaborazione con le autorità preposte al procedimento penale e con i servizi di polizia cantonali ed esteri.
+<sup>2</sup>
 
-[^1-1]: Nuovo testo giusta l’art. 3 del DF del 21 mar. 2014 che approva l’Accordo tra la Svizzera, l’Austria e il Liechtenstein sulla cooperazione transfrontaliera in materia di polizia, in vigore dal 1° ago. 2014 ([RU 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386); [FF 2013 663](https://fedlex.data.admin.ch/eli/fga/2013/129)).
+Per l’adempimento dei suoi compiti, la Confederazione può partecipare a organizzazioni dei Cantoni e gestire con essi strutture comuni, in particolare nei seguenti settori:
+
+- a. lotta contro la cibercriminalità;
+- b. gestione di situazioni particolari e straordinarie nonché di eventi di vasta portata;
+- c. formazione di polizia;
+- d. armonizzazione, acquisto, gestione e sviluppo di mezzi d’intervento di polizia, compresi i mezzi di informazione e comunicazione;
+- e. protezione dei testimoni.
+
+<sup>3</sup> La Confederazione può acquistare mezzi d’intervento di polizia per i Cantoni, se nel contempo acquista tali mezzi per adempiere i propri compiti, se l’acquisto centralizzato porta a un incremento notevole dell’efficienza per i Cantoni e se questi ultimi acconsentono. La Confederazione e i Cantoni si assumono i costi in modo proporzionale.
+
+<sup>4</sup>
+
+Il Consiglio federale è competente per la conclusione delle convenzioni con i Cantoni. Le convenzioni disciplinano in particolare:
+
+- a. le competenze;
+- b. l’organizzazione;
+- c. il finanziamento;
+- d. i rapporti giuridici, in particolare per quanto concerne la responsabilità dello Stato, i rapporti di lavoro, la previdenza professionale e la protezione dei dati.
+
+<sup>5</sup> Le convenzioni possono autorizzare un organo di un’organizzazione o di un’istituzione a emanare disposizioni concernenti gli ambiti di cui al capoverso 4 lettere a–d.
+
+<sup>6</sup> Le organizzazioni e le istituzioni comuni sono esenti da qualsiasi imposizione fiscale da parte della Confederazione, dei Cantoni e dei Comuni per quanto riguarda le prestazioni da esse fornite alle autorità.
+
+[^1-1]: Introdotto dal n. I 8 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 1a
 
@@ -56,16 +79,13 @@ decreta:
 
 #### Art. 2
 
-**Compiti**
+**Uffici centrali[^2-1]**
 
-Gli uffici centrali giusta la presente legge:
+<sup>1</sup> La Confederazione gestisce uffici centrali per la lotta contro la criminalità organizzata e attiva sul piano internazionale.
 
-- a. elaborano le informazioni provenienti dall’interno e dall’estero e rientranti nelle loro competenze;
-- b. coordinano le indagini intercantonali e internazionali;
-- c. stendono rapporti di situazione e allestiscono il bilancio della minaccia a destinazione del Dipartimento federale di giustizia e polizia (Dipartimento) e delle autorità preposte al perseguimento penale;
-- d. garantiscono lo scambio nazionale e internazionale delle informazioni di polizia giudiziaria e trattano le domande di assistenza giudiziaria provenienti dall’estero;
-- e. insediano gli agenti di collegamento all’estero;
-- f. conducono inchieste di polizia giudiziaria nei settori di competenza della Confederazione.
+<sup>2</sup> Gli uffici centrali lavorano in collaborazione con le autorità preposte al procedimento penale e con i servizi di polizia cantonali ed esteri.
+
+[^2-1]: Originario art. 1. Nuovo testo giusta l’art. 3 del DF del 21 mar. 2014 che approva l’Accordo tra la Svizzera, l’Austria e il Liechtenstein sulla cooperazione transfrontaliera in materia di polizia, in vigore dal 1° ago. 2014 ([RU 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386); [FF 2013 663](https://fedlex.data.admin.ch/eli/fga/2013/129)).
 
 #### Art. 2a
 
@@ -128,6 +148,28 @@ Il capo della Polizia giudiziaria federale pone fine senza indugio alle indagini
 [^3a-2]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
 [^3a-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
+#### Art. 3b
+
+**Segnalazione di persone e oggetti ai fini di una sorveglianza discreta o di un controllo mirato**[^3b-1]
+
+<sup>1</sup> Su richiesta delle autorità federali preposte al perseguimento penale o delle autorità cantonali di polizia, fedpol può segnalare nel sistema di ricerca informatizzato di polizia di cui all’articolo 15 della legge federale del 13 giugno 2008[^3b-2] sui sistemi d’informazione di polizia della Confederazione (LSIP) e nella parte nazionale del Sistema d’informazione Schengen di cui all’articolo 16 LSIP, persone, veicoli, natanti, aeromobili e container ai fini di una sorveglianza discreta o di un controllo mirato.
+
+<sup>2</sup>
+
+La segnalazione di persone ai fini del perseguimento penale o della prevenzione di minacce è consentita soltanto se:
+
+- a. sussistono indizi che la persona in questione pianifichi o commetta un reato grave;
+- b. la valutazione globale di una persona, in particolare sulla base dei reati che ha commesso sino a quel momento, induce a supporre che commetterà nuovamente un reato grave; o
+- c. sussistono indizi che la persona in questione costituisca una grave minaccia per la sicurezza e l’ordine pubblici oppure sia all’origine di altri gravi pericoli per la sicurezza interna o esterna.
+
+<sup>3</sup> La segnalazione di veicoli, natanti, aeromobili e container è consentita soltanto se sussistono indizi di un collegamento con reati gravi o con gravi minacce di cui al capoverso 2.
+
+<sup>4</sup> Per reati gravi ai sensi dei capoversi 2 e 3 s’intendono in particolare i reati di cui all’articolo 286 capoverso 2 CPP[^3b-3].
+
+[^3b-1]: Introdotto dal n. I 8 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^3b-2]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^3b-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+
 #### Art. 4
 
 **Collaborazione con autorità e uffici**
@@ -152,7 +194,7 @@ Per ogni ufficio centrale il Consiglio federale disciplina mediante ordinanza a 
 
 <sup>1</sup> Gli agenti di collegamento distaccati presso determinate rappresentanze svizzere all’estero o presso organizzazioni internazionali appoggiano le autorità penali nel perseguimento dei reati penali che rientrano nelle competenze degli uffici centrali. Essi operano, nel quadro delle disposizioni che seguono, come addetti dell’ufficio centrale direttamente con le autorità competenti dello Stato ospitante e di determinati Stati terzi.
 
-<sup>1bis</sup> L’Ufficio federale di polizia (fedpol), d’intesa con l’Ufficio federale della dogana e della sicurezza dei confini (UDSC), può delegare compiti dei propri agenti di collegamento agli agenti di collegamento dell’UDSC. Nel quadro dei compiti delegati da fedpol, gli agenti di collegamento dell’UDSC sono equiparati a quelli di fedpol per quanto riguarda l’accesso ai sistemi d’informazione e il diritto di trattare i dati, purché ciò sia necessario per l’adempimento dei compiti.[^5-1]
+<sup>1bis</sup> Fedpol, d’intesa con l’Ufficio federale della dogana e della sicurezza dei confini (UDSC), può delegare compiti dei propri agenti di collegamento agli agenti di collegamento dell’UDSC.[^5-1] Nel quadro dei compiti delegati da fedpol, gli agenti di collegamento dell’UDSC sono equiparati a quelli di fedpol per quanto riguarda l’accesso ai sistemi d’informazione e il diritto di trattare i dati, purché ciò sia necessario per l’adempimento dei compiti.[^5-2]
 
 <sup>2</sup> Gli agenti di collegamento possono intervenire anche in caso di ricerche e indagini per il perseguimento di crimini e delitti per i quali la Svizzera può concedere assistenza giudiziaria.
 
@@ -160,7 +202,8 @@ Per ogni ufficio centrale il Consiglio federale disciplina mediante ordinanza a 
 
 <sup>4</sup> Il Consiglio federale è autorizzato a convenire con le competenti autorità straniere lo stazionamento di agenti stranieri di collegamento in Svizzera.
 
-[^5-1]: Introdotto dall’all. n. 2 del DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea) ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)). Nuovo testo giusta il n. I 8 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^5-1]: Nuovo testo giusta il n. I 8 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^5-2]: Introdotto dall’all. n. 2 del DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea) ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)). Nuovo testo giusta il n. I 8 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 6
 
@@ -190,13 +233,13 @@ Per ogni ufficio centrale il Consiglio federale disciplina mediante ordinanza a 
 
 <sup>1</sup> L’Ufficio centrale per la lotta contro la criminalità organizzata è segnatamente incaricato di smascherare le organizzazioni criminali ai sensi dell’articolo 260<sup>ter</sup> del Codice penale[^7-1] nonché di lottare contro i reati commessi da dette organizzazioni.
 
-<sup>2</sup> È inoltre incaricato di smascherare e di combattere i reati di ordine economico, riguardo ai quali il pubblico ministero della Confederazione può aprire una procedura preliminare (art. 24 del Codice di procedura penale del 5 ott. 2007[^7-2], CPP).[^7-3]
+<sup>2</sup> È inoltre incaricato di smascherare e di combattere i reati di ordine economico, riguardo ai quali il pubblico ministero della Confederazione può aprire una procedura preliminare (art. 24 CPP[^7-2]).[^7-3]
 
 <sup>3</sup> Può essere incaricato di raccogliere le prove nell’ambito dei procedimenti d’assistenza giudiziaria; tale raccolta di prove è svolta secondo le disposizioni del CPP.[^7-4]
 
 [^7-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^7-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^7-3]: Introdotto dal n. II 2 del DF del 22 dic. 1999 (Sull’istituzione di nuove competenze procedurali della Confederazione nei settori della criminalità organizzata e della criminalità economica) ([RU 2001 3071](https://fedlex.data.admin.ch/eli/oc/2001/459); FF **1998** 1095). Nuovo testo giusta l’all. 1 n. II 15 del Codice di diritto processuale penale svizzero del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^7-3]: Introdotto dal n. II 2 del DF del 22 dic. 1999 (Sull’istituzione di nuove competenze procedurali della Confederazione nei settori della criminalità organizzata e della criminalità economica) ([RU 2001 3071](https://fedlex.data.admin.ch/eli/oc/2001/459); FF **1998** 1095). Nuovo testo giusta il n. I 8 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^7-4]: Introdotto dal n. II 2 del DF del 22 dic. 1999 (Sull’istituzione di nuove competenze procedurali della Confederazione nei settori della criminalità organizzata e della criminalità economica ([RU 2001 3071](https://fedlex.data.admin.ch/eli/oc/2001/459); FF **1998** 1095). Nuovo testo giusta l’all. 1 n. II 15 del Codice di diritto processuale penale svizzero del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 8
