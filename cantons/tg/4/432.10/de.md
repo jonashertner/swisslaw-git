@@ -4,13 +4,12 @@ number: "432.10"
 title: Gesetz über Aktenführung und Archivierung
 short: ArchivG
 language: de
-version: 2021-01-01
-valid_until: 2022-05-31
-version_adopted: 2020-05-20
+version: 2022-06-01
+version_adopted: 2022-02-16
 adopted: 2020-05-20
 in_force: 2021-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/432.10"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2143/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2509/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ ArchivG
 
 (ArchivG)
 
-vom 20.05.2020 (Stand 01.01.2021)
+vom 20.05.2020 (Stand 01.06.2022)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -212,7 +211,7 @@ vom 20.05.2020 (Stand 01.01.2021)
 
 **Schutzfristen**
 
-<sup>1</sup> Die allgemeine Schutzfrist für Akten beträgt 20 Jahre.
+<sup>1</sup> Die allgemeine Schutzfrist für Akten, die vor dem 20. Mai 2019 erstellt oder empfangen wurden, beträgt 20 Jahre.
 
 <sup>2</sup> Die Schutzfrist für Akten mit besonders schützenswerten Personendaten gemäss dem Gesetz über den Datenschutz[^18-1] beträgt 100 Jahre.
 
@@ -220,8 +219,11 @@ vom 20.05.2020 (Stand 01.01.2021)
 
 <sup>4</sup> Die Schutzfrist beginnt mit dem Datum der jüngsten Unterlage der Akte.
 
+<sup>5</sup> Für amtliche Akten im Sinne von § 5 Abs. 1 des Gesetzes über das Öffentlichkeitsprinzip (Öffentlichkeitsgesetz, ÖffG)[^18-3], die sich bereits im zuständigen Archiv befinden, gelten die Bestimmungen des Öffentlichkeitsgesetzes. Zuständiges öffentliches Organ im Sinne des Öffentlichkeitsgesetzes ist das zuständige Archiv.
+
 [^18-1]: RB [170.7](https://www.rechtsbuch.tg.ch/data/170.7/de)
 [^18-2]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+[^18-3]: RB [170.6](https://www.rechtsbuch.tg.ch/data/170.6/de)
 
 #### § 19
 
