@@ -4,225 +4,222 @@ number: "142.11"
 title: Dienstordnung der Finanz- und Kirchendirektion
 short: Do FKD
 language: de
-version: 2021-01-01
-valid_until: 2022-05-31
-version_adopted: 2020-12-15
+version: 2022-06-01
+valid_until: 2022-12-31
+version_adopted: 2022-05-10
 adopted: 2022-05-10
 in_force: 2022-06-01
 url: "https://bl.clex.ch/app/de/texts_of_law/142.11"
-pdf: "https://bl.clex.ch/api/de/versions/2839/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3334/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dienstordnung der Finanz- und Kirchendirektion
 
-Vom 21.12.1999 (Stand 01.01.2021)
+(Do FKD)
+
+Vom 10.05.2022 (Stand 01.06.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 20 Abs. 4 und § 24 des Gesetzes vom 28. September 2017[^ingress-1] über die Organisation des Regierungsrats und der Verwaltung des Kantons Basel-Landschaft (Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft, RVOG BL),
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und auf das Gesetz über die Organisation des Regierungsrats und der Verwaltung des Kantons Basel-Landschaft (Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft, RVOG BL) vom 28. September 2017[^ingress-2],
 
 beschliesst:
 
-[^ingress-1]: [SGS 140](https://bl.clex.ch/data/140/de/art20)
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 140](https://bl.clex.ch/data/140/de)
 
 ## 1 Allgemeine Bestimmungen
 
 #### § 1
 
-**Aufgabenkreis**
+**Geltungsbereich**
 
-<sup>1</sup> In den Aufgabenkreis der Finanz- und Kirchendirektion (kurz: Direktion) fallen namentlich:
-
-- a. im Bereich des Finanz- und Rechnungswesens:
-  - 1\. Erarbeitung der Grundsätze für die Finanzpolitik,
-  - 2\. Steuerung und Koordination des kantonalen Finanzhaushaltes,
-  - 3\. Steuerung und Weiterentwicklung der Führungsinstrumente und Prozesse in Zusammenarbeit mit den Direktionen,
-  - 4\. Vollzug des Steuerwesens,
-  - 5\. Beratung der kantonalen Verwaltung in Organisationsfragen,
-  - 6\. Steuerung und Koordination des Versicherungswesen,
-  - 7\. Verwaltung der Handschin-Stiftung,
-  - 8\. Zentrale Bewirtschaftung von Verlustscheinen;
-- b. Steuerung des Vollzugs der Krankenkassenprämienverbilligung;
-- c. im Bereich des Personalwesens:
-  - 1\. Erarbeitung der Grundsätze für die Personalpolitik,
-  - 2\. Durchführung des zentralen Personalwesens;
-- d. im Bereich der Gleichstellung von Frau und Mann:
-  - 1\. Erarbeitung der Grundsätze für die Gleichstellungspolitik,
-  - 2\. Beratung und Unterstützung der Direktionen, der Gerichte und Dritten beim Vollzug,
-  - 3\. Koordination und Monitoring,
-  - 4\. Entwicklung von Programmen und Massnahmen zur Förderung der Gleichstellung durch Dritte;
-- e. im Bereich der Informatik:
-  - 1\. Erarbeitung der Grundsätze für den Einsatz der Informatik,
-  - 2\. Koordination des Einsatzes und der Beschaffung der Informatik-Mittel,
-  - 3\. Koordination der Informatik-Ausbildung,
-  - 4\. Erbringen von Querschnittsdienstleistungen in Zusammenarbeit mit den Direktionen (insbesondere Betrieb des Kantonsnetzes, des Mailsystems usw.);
-- f. im Bereich des Gemeindewesens:
-  - 1\. Erarbeitung der Grundsätze für das Verhältnis zu den Gemeinden,
-  - 2\. Aufsicht über die Gemeinden,
-  - 3\. Durchführung des Finanzausgleichs unter den Gemeinden;
-- g. im Bereich der Statistik:
-  - 1\. Vollzug der kantonalen Statistikaufgaben,
-  - 2\. Vollzug von Bundesstatistiken;
-- h. im Bereich der Sozialhilfe:
-  - 1\. Erarbeitung der Grundsätze für die Sozialhilfepolitik,
-  - 2\. Aufsicht über die kommunalen Sozialhilfebehörden,
-  - 3\. Vollzug der kantonalen Sozialhilfeaufgaben;
-- i. im Bereich des Kirchenwesens:
-  - 1\. Wahrnehmung der rechtlichen und repräsentativen Aufgaben bei den Kirchen,
-  - 2\. Ausrichtung der Kirchensteuern und der Beiträge an die Landeskirchen,
-  - 3\. Vermittlung zwischen den Landeskirchen,
-  - 4\. Mitwirkung bei der Verwaltung der Stiftung «Kirchen- und Schulgut»;
-- k. ...
-- l. im Bereich der Medienpolitik:
-  - 1\. Erarbeitung der Grundsätze für die Medienpolitik,
-  - 2\. Koordination und Unterstützung der Medienpolitik;
-- m. ...
-- n. im Bereich der Beteiligungen:
-  - 1\. Steuerung und Koordination des Beteiligungsportfolio,
-  - 2\. Beratung und Unterstützung des Regierungsrates und der Fachdirektionen;
-- o. …
-- p. im Bereich des Registerwesens:
-  - 1\. Aufsicht über die Einwohnerregister,
-  - 2\. Betrieb des kantonalen Personenregisters.
+<sup>1</sup> Diese Dienstordnung regelt die Organisation der Dienststellen und Fachstellen der Finanz- und Kirchendirektion (kurz: Direktion).
 
 #### § 2
 
-**Gliederung**
+**Aufgabenkreis**
 
-<sup>1</sup> Die Gliederung der Direktion in Dienststellen richtet sich nach § 9 der Verordnung vom 19. Dezember 2017[^2-1] zum Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft.
+<sup>1</sup> Die Direktion übt ihre Kernkompetenzen in folgenden Handlungsfeldern aus:
 
-- a. …
-- b. …
-- c. …
-- d. …
-- e. …
-- f. …
-- g. …
-- h. …
-
-<sup>2</sup> Die Direktion umfasst folgende Fachstellen:
-
-- a. Unter dem Namen «Gleichstellung für Frauen und Männer Kanton Basel-Landschaft» die Fachstelle für Gleichstellung von Frau und Mann;
-- b. ...
-
-<sup>3</sup> ...
-
-<sup>4</sup> Der Direktion sind zugeordnet:
-
-- a. die Sozialversicherungsanstalt Basel-Landschaft,
-- b. die Basellandschaftliche Pensionskasse,
-- c. die Basellandschaftliche Gebäudeversicherung,
-- d. die Basellandschaftliche Kantonalbank.
-
-[^2-1]: [SGS 140.11](https://bl.clex.ch/data/140.11/de/art9)
+- a. Finanzen;
+- b. Steuern;
+- c. Personal;
+- d. Gleichstellung für Frauen und Männer;
+- e. Informatik;
+- f. Gemeinden;
+- g. Statistik;
+- h. Sozialhilfe;
+- i. Kirchen;
+- j. Medienpolitik;
+- k. Beteiligungen;
+- l. Registerwesen.
 
 #### § 3
 
-**Führung**
+**Gliederung**
 
-<sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher führt die Direktion mit Hilfe von Leistungsaufträgen.
+<sup>1</sup> Die Gliederung der Direktion in Dienststellen richtet sich nach § 9 der Verordnung zum Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft (Regierungs- und Verwaltungsorganisationsverordnung Basel-Landschaft, RVOV BL) vom 19. Dezember 2017[^3-1].
 
-<sup>2</sup> Sie bzw. er kann Pflichtenhefte für die Dienstellenleiterinnen und Dienststellenleiter erlassen und den Aufgabenkreis der Dienststellen umschreiben.
+<sup>2</sup> Die Finanz- und Kirchendirektion führt die Fachstelle «Gleichstellung für Frauen und Männer Kanton Basel-Landschaft».
 
-<sup>3</sup> Die Dienststellenleiterinnen und Dienststellenleiter können Pflichtenhefte für die Leiterinnen und Leiter der Einheiten erlassen und den Aufgabenkreis der Einheiten umschreiben. Pflichtenhefte und Umschreibungen des Aufgabenkreises bedürfen der Genehmigung der Direktion.
-
-<sup>4</sup> Die Stellvertretung der Direktionsvorsteherin oder des Direktionsvorstehers in Verwaltungsbelangen wird von der Generalsekretärin oder dem Generalsekretär wahrgenommen.
+[^3-1]: [SGS 140.11](https://bl.clex.ch/data/140.11/de/art9)
 
 #### § 4
+
+**Führung**
+
+<sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher führt die Direktion mit Hilfe von Leistungsaufträgen sowie weiteren Führungsinstrumenten.
+
+<sup>2</sup> Die Stellvertretung der Direktionsvorsteherin oder des Direktionsvorstehers in Verwaltungsbelangen wird von der Generalsekretärin oder dem Generalsekretär wahrgenommen.
+
+#### § 5
 
 **Verfügungskompetenz**
 
 <sup>1</sup> Die Dienstellenleiterin oder der Dienststellenleiter ist zur Unterzeichnung der Verfügungen zuständig, die im Rahmen des Aufgabenbereichs der Dienststelle zu erlassen sind.
 
-<sup>2</sup> Sie bzw. er kann in bestimmten Aufgabenbereichen die Verfügungskompetenz an Einheiten delegieren. Die Delegation bedarf der Genehmigung der Direktion.
+<sup>2</sup> Sie bzw. er kann in bestimmten Aufgabenbereichen die Verfügungskompetenz an Einheiten delegieren. Die Delegation bedarf der Genehmigung der Direktionsvorsteherin oder des Direktionsvorstehers.
 
-#### § 5
+<sup>3</sup> Die jeweils fachlich zuständige Juristin oder der jeweils fachlich zuständige Jurist ist zur Unterzeichnung von verfahrensleitenden Verfügungen befugt.
 
-**Grundsätze zur Einnahmen- und Ausgabenkompetenz**
-
-<sup>1</sup> Die Kostenstellen- resp. Projektverantwortlichen sind für die in ihrem Bereich eingestellten Einnahmen und Ausgaben der Finanz- und Betriebsbuchhaltung sowie der Investitionsrechnung zuständig.
-
-<sup>2</sup> Die Direktionsvorsteherin bzw. der Direktionsvorsteher regelt die Kompetenzen beim Abschluss von Verträgen.
+<sup>4</sup> Die Dienststelle, welche die Verfügung erlassen hat, stellt auf Verlangen die Rechtskraftbescheinigung gemäss Verwaltungsverfahrensgesetzgebung aus.
 
 #### § 6
 
-**Anstellungsbehörden**
+**Grundsätze zur Einnahmen- und Ausgabenkompetenz**
 
-<sup>1</sup> Anstellungsbehörden gemäss § 2 Abs. 4 der Verordnung vom 19. Dezember 2000[^6-1] zum Personalgesetz sind:
+<sup>1</sup> Die Dienststellenleiterin oder der Dienststellenleiter ist verantwortlich für die Kosten- und Leistungsrechnung gemäss § 31 des Finanzhaushaltsgesetzes (FHG) vom 1. Juni 2017[^6-1].
 
-- a. für die Mitarbeitenden der 2. Führungsstufe: die Generalsekretärin oder der Generalsekretär und die Dienststellenleiterin oder der Dienststellenleiter;
-- b. für die Mitarbeitenden des Generalsekretariats: die Direktionsvorsteherin oder der Direktionsvorsteher und die Generalsekretärin oder der Generalsekretär;
-- c. für die übrigen Mitarbeitenden: die Generalsekretärin oder der Generalsekretär und die Dienststellenleiterin oder der Dienststellenleiter oder eine von ihr bzw. ihm bestimmte Person der 2. Führungsstufe der Dienststelle;
-- d. für die Mitarbeitenden an integrativen Arbeitsplätzen: die Dienstellenleiterin oder der Dienststellenleiter des Personalamtes und die Leiterin oder der Leiter des Aufgabenbereichs integrative Arbeitsplätze;
-- e. für Personen mit Lehrverträgen: die Leiterin oder der Leiter und eine Mitarbeiterin oder ein Mitarbeiter des Aufgabenbereichs Berufsbildung im Generalsekretariat;
-- f. für die Personen mit Praktikumsverträgen gilt Regelung gemäss Buchstaben b und c.
+<sup>2</sup> Die Zuständigkeit für Ausgabenbewilligungen richtet sich nach dem Reglement über die Zuständigkeit für Ausgabenbewilligungen in der Finanz- und Kirchendirektion vom 1. Februar 2018[^6-2].
 
-<sup>2</sup> Zur 2. Führungsstufe gehören diejenigen Mitarbeitenden, die direkt einer Person unterstellt sind, deren Anstellungsbehörde der Regierungsrat ist.
+<sup>3</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher regelt die Kompetenzen beim Abschluss von Verträgen in einem Reglement.
 
-<sup>3</sup> Anstellungsverträge werden in der Regel zuerst durch die Mitarbeiterin oder den Mitarbeiter unterzeichnet.
-
-[^6-1]: [SGS 150.11](https://bl.clex.ch/data/150.11/de/art2)
-
-## 2 Organisation der Dienststellen
+[^6-1]: [SGS 310](https://bl.clex.ch/data/310/de)
+[^6-2]: [SGS 142.111](https://bl.clex.ch/data/142.111/de)
 
 #### § 7
 
-**Generalsekretariat**
+**Anstellungsbehörden**
 
-<sup>1</sup> Das Generalsekretariat ist in folgende Einheiten gegliedert:
+<sup>1</sup> Anstellungsbehörden der Dienststellenleitungen sowie der Leitung der Fachstelle für Gleichstellung von Frauen und Männern ist gemäss § 2 Abs. 1 der Verordnung zum Personalgesetz (Personalverordnung) vom 19. Dezember 2000[^7-1] der Regierungsrat. Die Direktionsvorsteherin oder der Direktionsvorsteher übt die Aufgaben der Anstellungsbehörde aus, sofern kein formeller Beschluss erforderlich ist.
 
-- a. Stabsaufgaben,
-- b. …
-- c. …
-- d. HR-Beratung,
-- e. Stabsstelle Gemeinden.
+<sup>2</sup> Für juristische Volontärinnen und Volontäre gilt § 2 Abs. 2 der Personalverordnung.
 
-#### § 7a
+<sup>3</sup> Anstellungsbehörde für die Mitarbeitenden an integrativen Arbeitsplätzen ist gemäss § 2 Abs. 3 Personalverordnung die Dienstellenleiterin oder der Dienststellenleiter des Personalamts mit der Leiterin oder dem Leiter des Aufgabenbereichs integrative Arbeitsplätze.
 
-**Fachstelle für Gleichstellung von Frau und Mann**
+<sup>4</sup> Anstellungsbehörden gemäss § 2 Abs. 4 Personalverordnung sind:
 
-<sup>1</sup> Die Fachstelle für Gleichstellung von Frau und Mann ist dem Generalsekretariat administrativ unterstellt.
+- a. für die Mitarbeitenden des Generalsekretariats: die Direktionsvorsteherin oder der Direktionsvorsteher und die Generalsekretärin oder der Generalsekretär;
+- b. für Personen mit Lehrverträgen: die Dienststellenleiterin oder der Dienststellenleiter und die oder der Berufsbildungsverantwortliche;
+- c. für die übrigen Mitarbeitenden: die Generalsekretärin oder der Generalsekretär und die Dienststellenleiterin oder der Dienststellenleiter.
 
-<sup>2</sup> Die Aufgaben der Fachstelle richten sich nach dem Einführungsgesetz vom 27. November 1997[^7a-1] zum Gleichstellungsgesetz (EG GlG) sowie nach den dazugehörigen Verordnungen.
+<sup>5</sup> Für Personen mit Praktikumsverträgen gilt die Regelung gemäss Abs. 4 lit. a und c.
 
-<sup>3</sup> Die Fachstelle tritt unter dem Namen «Gleichstellung für Frauen und Männer Kanton Basel-Landschaft», abgekürzt «Gleichstellung BL» oder «GfFM BL», auf.
+[^7-1]: [SGS 150.11](https://bl.clex.ch/data/150.11/de/art2)
 
-[^7a-1]: [SGS 108](https://bl.clex.ch/data/108/de)
+## 2 Organisation der Dienststellen
+
+### 2.1 Generalsekretariat
 
 #### § 8
 
-**Finanzverwaltung**
+**Organisation**
 
-<sup>1</sup> Die Finanzverwaltung ist wie folgt gegliedert:
+<sup>1</sup> Das Generalsekretariat ist wie folgt gegliedert:
 
-- a. Zentrales Finanz- und Rechnungswesen,
-- b. Finanzplanung und Controlling,
-- c. Finanz- und Volkswirtschaft.
-
-<sup>2</sup> Die Finanzverwaltung übt die Funktionen der Koordinationsstelle Beteiligungen aus.
+- a. Stabsaufgaben;
+- b. HR-Beratung;
+- c. Stabsstelle Gemeinden.
 
 #### § 9
 
-**Steuerverwaltung**
+**Aufgaben**
+
+<sup>1</sup> Das Generalsekretariat hat folgende Aufgaben:
+
+- a. umfassende Führungsunterstützung der Direktionsvorsteherin oder des Direktionsvorstehers;
+- b. Beratung und Unterstützung der Dienststellen;
+- c. Erlass von Fachweisungen gegenüber den Dienststellen;
+- d. Planung, Koordination und Qualitätssicherung innerhalb der Direktion;
+- e. Kompetenzzentrum für allgemeine Gemeindefragen und Aufsicht über die Gemeinden (exklusive Gemeindefinanzen);
+- f. Wahrnehmung der Aufgaben im Zusammenhang mit den Landeskirchen und Religionsgemeinschaften sowie der Aufsicht über die «Stiftung Kirchengut» im Auftrag des Regierungsrats;
+- g. Kompetenzzentrum für Kommunikation und Medienpolitik.
+
+### 2.2 Fachstelle Gleichstellung für Frauen und Männer
+
+#### § 10
+
+**Organisation**
+
+<sup>1</sup> Die Fachstelle Gleichstellung für Frauen und Männer ist dem Generalsekretariat administrativ unterstellt.
+
+<sup>2</sup> Die Fachstelle tritt unter dem Namen «Gleichstellung für Frauen und Männer Kanton Basel-Landschaft», abgekürzt «Gleichstellung BL» oder «GfFM BL», auf.
+
+#### § 11
+
+**Aufgaben**
+
+<sup>1</sup> Die Fachstelle hat insbesondere folgende Aufgaben:
+
+- a. Erarbeitung der Grundsätze für die Gleichstellungspolitik;
+- b. Beratung und Unterstützung der Direktionen, der Gerichte und Dritter beim Vollzug;
+- c. Entwicklung von Programmen und Massnahmen zur Förderung der Gleichstellung durch Dritte;
+- d. Koordination und Monitoring.
+
+### 2.3 Finanzverwaltung
+
+#### § 12
+
+**Organisation**
+
+<sup>1</sup> Die Finanzverwaltung ist wie folgt gegliedert:
+
+- a. Regierungscontrolling;
+- b. Finanz- und Volkswirtschaft;
+- c. Finanzen und Tresorerie;
+- d. Stabsaufgaben;
+- e. Versicherungsmanagement.
+
+<sup>2</sup> Die Finanzverwaltung übt die Funktionen der Koordinationsstelle Beteiligungen aus.
+
+#### § 13
+
+**Aufgaben**
+
+<sup>1</sup> Die Finanzverwaltung hat folgende Aufgaben:
+
+- a. übergeordnete Planung und Steuerung des Staatshaushalts zur Sicherstellung des Finanzhaushaltsgleichgewichts;
+- b. Umsetzung und Weiterentwicklung des Finanzrechts;
+- c. Organisation des Rechnungswesens und fachliche Führung im Bereich Rechnungslegung;
+- d. Steuerung der Prämienverbilligungen und Übernahme von Verlustscheinen aus der obligatorischen Krankenversicherung;
+- e. fachliche Führung bzw. Koordination in den Bereichen Risikomanagement und Internes Kontrollsystem (IKS), Beteiligungsmanagement, Versicherungen sowie Gesetzgebung Motorfahrzeugsteuer.
+
+### 2.4 Steuerverwaltung
+
+#### § 14
+
+**Organisation**
 
 <sup>1</sup> Die Steuerverwaltung ist wie folgt gegliedert:
 
 - a. Natürliche Personen 1:
   - 1\. Selbständigerwerbende I,
   - 2\. Selbständigerwerbende II,
-  - 3\. Unselbständigerwerbende,
-  - 4\. Unselbständigerwerbende/Selbständigerwerbende;
+  - 3\. Unselbständigerwerbende I,
+  - 4\. Unselbständigerwerbende II,
+  - 5\. Unselbständigerwerbende / Selbständigerwerbende;
 - b. Natürliche Personen 2 (inkl. Verrechnungssteuer);
 - c. Gemeinden und Einsprachen (inkl. Nach- und Strafsteuern);
 - d. Juristische Personen;
 - e. Revisorat;
-- f. Logistik und Projekte;
-  - 1\. …
-  - 2\. …
-  - 3\. …
-  - 4\. …
+- f. Logistik und Projekte:
+  - 1\. Kanzlei,
+  - 2\. Registratur,
+  - 3\. Stammdatenbewirtschaftung,
+  - 4\. Fachbereich NEST;
 - g. Spezialsteuern;
 - h. Steuerbezug:
   - 1\. Service Center,
@@ -234,90 +231,130 @@ beschliesst:
 
 <sup>2</sup> Der Geschäftsleitung sind ein Stab der Geschäftsleitung und der Rechtsdienst als Stabsstellen unterstellt.
 
-<sup>3</sup> ...
-
-#### § 10
-
-**Personalamt**
-
-<sup>1</sup> Das Personalamt ist wie folgt gegliedert:
-
-- a. Dienstleistungszentrum,
-- b. Personalcontrolling,
-- c. Personalentwicklung,
-- d. Personalhonorierung,
-- e. Personalmanagement,
-- f. Personalrecht,
-- g. Personalsysteme.
-
-#### § 11
-
-**…**
-
-#### § 12
-
-**Statistisches Amt**
-
-<sup>1</sup> Das Statistische Amt ist wie folgt gegliedert:
-
-- a. Statistik:
-  - 1\. Fachbereiche,
-  - 2\. Projekt-Management,
-  - 3\. Informatik,
-  - 4\. Informations-Management;
-- b. Gemeindefinanzen:
-  - 1\. Passation von Voranschlägen und Rechnungen,
-  - 2\. Berechnung und Durchführung des Finanzausgleichs,
-  - 3\. Vollzug des Ausgleichsfonds;
-- c. Registerwesen: Fachstelle kantonales Personenregister.
-
-#### § 13
-
-**Kantonales Sozialamt**
-
-<sup>1</sup> Das Kantonale Sozialamt ist in folgende Abteilungen gegliedert:
-
-- a. Sozialhilfe,
-- b. Unterhaltsbeiträge,
-- c. Koordination Asyl,
-- d. Rechtsdienst,
-- e. Finanz- und Rechnungswesen.
-
-#### § 13a
-
-**Zentrale Informatik**
-
-<sup>1</sup> Die Zentrale Informatik ist wie folgt gegliedert:
-
-- a. Leitung,
-- b. Informatikplanung und -koordination (IPK),
-- c. Application Management,
-- d. Infrastructure Management,
-- e. Customer Services.
-
-## 3 Schlussbestimmungen
-
-#### § 14
-
-**Änderung bisherigen Rechts**
-
-<sup>1</sup> Die Verordnung vom 17. Januar 1989[^14-1] über die verfahrensleitenden Instanzen im Beschwerdeverfahren wird wie folgt geändert: ...[^14-2]
-
-[^14-1]: GS 30.6, SGS 175.15
-[^14-2]: GS 33.1001
-
 #### § 15
 
-**Aufhebung bisherigen Rechts**
+**Aufgaben**
 
-<sup>1</sup> Die Dienstordnung vom 23. Oktober 1984[^15-1] der Finanz- und Kirchendirektion wird aufgehoben.
+<sup>1</sup> Die Steuerverwaltung hat folgende Aufgaben:
 
-[^15-1]: GS 28.718, SGS 142.11
+- a. Vollzug der eidgenössischen und kantonalen Steuergesetze;
+- b. Prüfen der Steuererklärungen und Veranlagen von natürlichen und juristischen Personen;
+- c. Veranlagen der Grundstückgewinn- und Handänderungssteuer sowie der Erbschafts- und Schenkungssteuer (Spezialsteuern);
+- d. Bezug der Staatssteuer, der direkten Bundessteuer, der Spezialsteuern sowie der Gemeindesteuer im Auftrag von Gemeinden;
+- e. zentrale Bewirtschaftung der Verlustscheine für alle Dienststellen des Kantons;
+- f. Bearbeiten und Bezug der Quellensteuer;
+- g. Bearbeiten des Meldewesens und Verkehr mit Amtsstellen sowie mit der Eidgenössischen Steuerverwaltung;
+- h. Weiterentwicklung und Anpassung der Steuergesetze;
+- i. Betreuen und Unterstützen der Gemeindesteuerämter;
+- j. Ausbau und Weiterentwicklung der Dienstleistungen mit Fokus auf Digitalisierung des Angebots und der Prozesse.
+
+### 2.5 Personalamt
 
 #### § 16
 
-**Inkrafttreten**
+**Organisation**
 
-<sup>1</sup> Dieses Dienstordnung tritt am 1. Januar 2000 in Kraft.
+<sup>1</sup> Das Personalamt ist wie folgt gegliedert:
 
-GS 33.0996
+- a. Dienstleistungszentrum:
+  - 1\. HR-Administration,
+  - 2\. Lohn- und Sozialversicherungen,
+  - 3\. HR-Support,
+  - 4\. Zentrale Dienste;
+- b. Kompetenzzentrum:
+  - 1\. Fachbereich Honorierung,
+  - 2\. Fachbereich Personalrecht,
+  - 3\. Fachbereich Personal- und Organisationsentwicklung.
+
+<sup>2</sup> Der Leitung des Personalamts sind die Stabstellen Controlling sowie Kommunikation und Projekte unterstellt.
+
+#### § 17
+
+**Aufgaben**
+
+<sup>1</sup> Das Personalamt hat folgende Aufgaben:
+
+- a. strategische Beratung des Regierungsrats in der Weiterentwicklung der Personalpolitik sowie der Personalmanagementstrategie;
+- b. Erarbeitung der Grundsätze und Umsetzung der Personalpolitik sowie der Personalmanagementstrategie in Zusammenarbeit mit den Direktionen sowie den Besonderen Behörden;
+- c. Bereitstellen, Koordination und Monitoring der kantonalen Personalinstrumente und -prozesse;
+- d. Weiterentwicklung, Anpassung und Vollzug des Personalrechts;
+- e. Beratung der kantonalen Verwaltung, der Gemeinden und der öffentlich-rechtlichen Institutionen;
+- f. Durchführung der administrativen HR-Prozesse und des Lohnlaufs.
+
+### 2.6 Statistisches Amt
+
+#### § 18
+
+**Organisation**
+
+<sup>1</sup> Das Statistische Amt ist wie folgt gegliedert:
+
+- a. Stabsaufgaben;
+- b. Statistik;
+- c. Aufsicht über die Gemeindefinanzen und Finanzausgleich;
+- d. Fachstelle Register.
+
+#### § 19
+
+**Aufgaben**
+
+<sup>1</sup> Das Statistische Amt hat folgende Aufgaben:
+
+- a. Vollzug der kantonalen Statistikaufgaben;
+- b. Vollzug von Bundesstatistiken;
+- c. Aufsicht über die Gemeindefinanzen, insbesondere über die Budgets und die Jahresrechnungen;
+- d. Berechnung und Durchführung des Finanzausgleichs unter den Gemeinden;
+- e. Vollzug des Ausgleichsfonds;
+- f. Aufgaben der Fachstelle Register gemäss Anmeldungs- und Registergesetz (ARG) vom 19. Juni 2008[^19-1] sowie dazugehörigen Verordnungen.
+
+[^19-1]: [SGS 111](https://bl.clex.ch/data/111/de)
+
+### 2.7 Kantonales Sozialamt
+
+#### § 20
+
+**Organisation**
+
+<sup>1</sup> Das Kantonale Sozialamt ist wie folgt gegliedert:
+
+- a. Sozialhilfe und Asyl;
+- b. Unterhaltsbeiträge und Inkasso;
+- c. Projekte;
+- d. Stabsstelle.
+
+#### § 21
+
+**Aufgaben**
+
+<sup>1</sup> Das Kantonale Sozialamt hat folgende Aufgaben:
+
+- a. Erarbeitung der Grundsätze für die Sozialhilfepolitik;
+- b. Aufsicht über die kommunalen Sozialhilfebehörden;
+- c. Vollzug der kantonalen Aufgaben in den Bereichen Sozialhilfe, Bevorschussung und Vollstreckung für Unterhaltsbeiträge und Asyl- und Flüchtlingswesen.
+
+### 2.8 Zentrale Informatik
+
+#### § 22
+
+**Organisation**
+
+<sup>1</sup> Die Zentrale Informatik ist wie folgt gegliedert:
+
+- a. Leitung;
+- b. IT Management Services;
+- c. Digitale Transformation;
+- d. IT-Arbeitsplatz;
+- e. IT-Infrastruktur.
+
+#### § 23
+
+**Aufgaben**
+
+<sup>1</sup> Die Aufgaben der Zentralen Informatik sind in der Verordnung über die Informatik (Informatikverordnung) vom 24. Januar 2017[^23-1], in der Verordnung zum Gesetz über die elektronische Geschäftsabwicklung und Kommunikation (E-Government-Verordnung, Vo E-GovG) vom 14. Dezember 2021[^23-2], in der Verordnung über die Informationssicherheit (VIS) vom 11. März 2008[^23-3] sowie in der Verordnung zum Projekt- und Projektportfolio-Management (VPPM) vom 24. Januar 2017[^23-4] geregelt.
+
+[^23-1]: [SGS 140.51](https://bl.clex.ch/data/140.51/de)
+[^23-2]: [SGS 164.11](https://bl.clex.ch/data/164.11/de)
+[^23-3]: [SGS 162.51](https://bl.clex.ch/data/162.51/de)
+[^23-4]: [SGS 140.15](https://bl.clex.ch/data/140.15/de)
+
+GS 2022.051
