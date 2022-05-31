@@ -4,11 +4,11 @@ title: Bundesgesetz vom 21. März 1997 über Massnahmen zur Wahrung der inneren 
 short: BWIS
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546"
 language: de
-version: 2021-01-01
+version: 2022-06-01
 adopted: 1997-03-21
 in_force: 1998-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1998-1546_1546_1546-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1546_1546_1546/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546/20220601/de/xml/fedlex-data-admin-ch-eli-cc-1998-1546_1546_1546-20220601-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1546_1546_1546/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/1546_1546_1546/20210101/de"
 
 (BWIS)
 
-vom 21. März 1997 (Stand am 1. Januar 2021)
+vom 21. März 1997 (Stand am 1. Juni 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Artikel 54 Absatz 1 und 57 Absatz 2 der Bundesverfassung[^ingress-1] sowie auf die Zuständigkeit des Bundes zur Wahrung der inneren und äusseren Sicherheit der Eidgenossenschaft, nach Einsicht in die Botschaft des Bundesrates vom 7. März 1994[^ingress-2],[^ingress-3]
+gestützt auf die Artikel 54 Absatz 1, 57 Absatz 2, 123 Absatz 1 und 173 Absatz 2 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in die Botschaft des Bundesrates vom 7. März 1994[^ingress-3],
 
 beschliesst:
 
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [BBl 1994 II 1127](https://fedlex.data.admin.ch/eli/fga/1994/2_1127_1123_1004)
-[^ingress-3]: Fassung gemäss Ziff. I des BG vom 24. März 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 3703](https://fedlex.data.admin.ch/eli/oc/2006/563); [BBl 2005 5613](https://fedlex.data.admin.ch/eli/fga/2005/888)).
+[^ingress-2]: Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^ingress-3]: [BBl 1994 II 1127](https://fedlex.data.admin.ch/eli/fga/1994/2_1127_1123_1004)
 
 ## 1. Abschnitt: Zweck, Aufgaben und Schranken
 
@@ -51,9 +51,11 @@ Vorbeugende polizeiliche Massnahmen sind:
 - b. Massnahmen zum Schutz von Bundesbehörden, völkerrechtlich geschützten Personen, ständigen diplomatischen Missionen, konsularischen Posten und internationalen Organisationen;
 - c. Sicherstellung, Beschlagnahme und Einziehung von Propagandamaterial mit zu Gewalt aufrufendem Inhalt;
 - d. Beschlagnahme gefährlicher Gegenstände nach Artikel 13*f*, soweit dies zur Erfüllung der Aufgaben nach diesem Gesetz erforderlich ist;
+- d<sup>bis</sup>.[^2-2] Massnahmen nach dem 5. Abschnitt zur Verhinderung terroristischer Aktivitäten;
 - e. Massnahmen nach dem 5*a*. Abschnitt zur Verhinderung von Gewalt anlässlich von Sportveranstaltungen.
 
 [^2-1]: Fassung gemäss Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^2-2]: Eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 3
 
@@ -96,11 +98,12 @@ Der Bundesrat erlässt ein Leitbild der Massnahmen zum Schutz von:
 
 <sup>1</sup> Jeder Kanton bestimmt die Behörde, die beim Vollzug dieses Gesetzes mit dem Bundesamt für Polizei (fedpol) zusammenarbeitet. Er legt den Dienstweg so fest, dass dringliche Einzelaufträge des Bundes ohne Verzug durchgeführt werden.[^6-1]
 
-<sup>2</sup> Hat ein Kanton sicherheitspolizeiliche Aufgaben bestimmten Gemeinden übertragen, so arbeiten diese wie ein Kanton direkt mit den Bundesbehörden zusammen.
+<sup>2</sup> Hat ein Kanton Aufgaben nach diesem Gesetz bestimmten Gemeinden übertragen, so arbeiten die Bundesbehörden direkt mit diesen zusammen.[^6-2]
 
 <sup>3</sup> Personen, die von den Kantonen mit Aufgaben nach diesem Gesetz betraut sind, unterstehen dem kantonalen Dienstrecht und der kantonalen Dienstaufsicht.
 
 [^6-1]: Fassung gemäss Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^6-2]: Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 7–9
 
@@ -277,7 +280,11 @@ Die Daten können erhoben werden:
 [^21-5]: Fassung gemäss Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 [^21-6]: Zweiter Satz aufgehoben durch Ziff. II 1 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-## 5. Abschnitt: Aufgaben zum Schutz von Personen und Gebäuden
+## 4*a*. Abschnitt: Aufgaben zum Schutz von Personen und Gebäuden
+
+[^sec4a-1]
+
+[^sec4a-1]: Ursprünglich: 5. Abschnitt.
 
 #### Art. 22
 
@@ -305,7 +312,7 @@ Der Bundesrat bestimmt:
 
 - a.[^23-1] die Personen, die im Auftrag des Bundes eine öffentliche Funktion ausüben und zu deren Gunsten nach Massgabe der mit dieser Funktion verbundenen Gefährdungslage Schutzmassnahmen getroffen werden;
 - b. die Gebäude des Bundes, in denen zum Schutz der Personen und Einrichtungen das Personal von fedpol eingesetzt wird;
-- c.[^23-2] ...
+- c.[^23-2] …
 
 <sup>1bis</sup> In begründeten Fällen kann der Bundesrat eine Verlängerung von Schutzmassnahmen zugunsten von Personen nach Absatz 1 Buchstabe a auch nach dem Ausscheiden aus ihrer Funktion vorsehen.[^23-3]
 
@@ -317,7 +324,7 @@ Der Bundesrat bestimmt:
 
 <sup>4</sup> Die Baubehörden des Bundes legen im Einvernehmen mit fedpol und den untergebrachten Departementen, Gruppen und Ämtern und andern Bundesbehörden die baulichen und technischen Schutzmassnahmen fest.
 
-<sup>5</sup> ...[^23-8]
+<sup>5</sup> …[^23-8]
 
 [^23-1]: Fassung gemäss Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^23-2]: Aufgehoben durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
@@ -390,13 +397,241 @@ Folgenden Stellen und Personen dürfen Daten, einschliesslich besonders schütze
 
 [^23c-1]: Eingefügt durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 
-#### Art. 24
+#### Art. 23d
 
-**Erfüllung der völkerrechtlichen Schutzpflichten**
+**Erfüllung der völkerrechtlichen Schutzpflichten**[^23d-1]
 
 Die Kantone treffen in Absprache mit fedpol die Massnahmen auf ihrem Gebiet, die für die Erfüllung der völkerrechtlichen Schutzpflichten der Schweiz notwendig sind; wenn nötig arbeiten sie mit den Sicherheitsdiensten der auf ihrem Gebiet niedergelassenen internationalen oder diplomatischen Vertretungen sowie den ausländischen Polizeibehörden zusammen, die für die Sicherheitsfragen im Grenzgebiet zuständig sind.
 
-## Abschnitt 5*a*:**** Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen
+[^23d-1]: Ursprünglich: Art. 24.
+
+## 5. Abschnitt: Massnahmen zur Verhinderung terroristischer Aktivitäten
+
+[^sec5-1]
+
+[^sec5-1]: Eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
+#### Art. 23e
+
+**Begriffe**
+
+<sup>1</sup> Als terroristische Gefährderin oder terroristischer Gefährder gilt eine Person, wenn aufgrund konkreter und aktueller Anhaltspunkte davon ausgegangen werden muss, dass sie oder er eine terroristische Aktivität ausüben wird.
+
+<sup>2</sup> Als terroristische Aktivität gelten Bestrebungen zur Beeinflussung oder Veränderung der staatlichen Ordnung, die durch die Begehung oder Androhung von schweren Straftaten oder mit der Verbreitung von Furcht und Schrecken verwirklicht oder begünstigt werden sollen.
+
+#### Art. 23f
+
+**Grundsätze**
+
+<sup>1</sup>
+
+Fedpol verfügt gegenüber einer terroristischen Gefährderin oder einem terroristischen Gefährder Massnahmen nach den Artikeln 23*k*–23*q*, wenn:
+
+- a. der von ihr oder ihm ausgehenden Gefährdung mit sozialen, integrativen oder therapeutischen Massnahmen sowie Massnahmen des Kinder- und Erwachsenenschutzes voraussichtlich nicht wirksam begegnet werden kann;
+- b. Massnahmen der allgemeinen Gefahrenabwehr durch die Kantone nicht ausreichend sind; und
+- c. keine Ersatzmassnahme oder freiheitsentziehende Zwangsmassnahme nach der Strafprozessordnung[^23f-1] angeordnet wurde, die dieselbe Wirkung hat wie eine Massnahme nach den Artikeln 23*k*–23*q;* das Vorgehen ist zwischen fedpol und der zuständigen Staatsanwaltschaft abzusprechen.
+
+<sup>2</sup> Die Massnahmen nach den Artikeln 23*k*–23*o* sind nach Möglichkeit mit sozialen, integrativen oder therapeutischen Massnahmen zu begleiten.
+
+<sup>3</sup> Eine Massnahme ist aufzuheben, wenn die Voraussetzungen für deren Anordnung nicht mehr erfüllt sind. Die betroffene Person ist umgehend über die Aufhebung in Kenntnis zu setzen.
+
+<sup>4</sup> Die betroffene Person kann bei fedpol jederzeit ein Gesuch um Aufhebung der Massnahme stellen.
+
+[^23f-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+
+#### Art. 23g
+
+**Dauer einer Massnahme**
+
+<sup>1</sup> Die Dauer einer Massnahme ist auf sechs Monate begrenzt. Sie kann einmalig um maximal sechs Monate verlängert werden. Die Dauer der Eingrenzung auf eine Liegenschaft richtet sich nach Artikel 23*o* Absatz 5.
+
+<sup>2</sup> Dieselbe Massnahme kann erneut angeordnet werden, wenn neue und konkrete Anhaltspunkte für eine terroristische Aktivität vorliegen.
+
+#### Art. 23h
+
+**Datenbearbeitung**
+
+<sup>1</sup> Fedpol und die zuständigen kantonalen Behörden können zur Begründung der Anordnung einer Massnahme nach den Artikeln 23*k*–23*q,* zur Prüfung, ob die Voraussetzungen der Anordnung erfüllt sind, sowie zur Durchführung der Massnahmen besonders schützenswerte Personendaten von terroristischen Gefährderinnen und Gefährdern bearbeiten, insbesondere Daten über religiöse und weltanschauliche Ansichten oder Tätigkeiten, über die Gesundheit, über Massnahmen der sozialen Hilfe sowie über administrative oder strafrechtliche Verfolgungen und Sanktionen. Besonders schützenswerte Personendaten Dritter dürfen nur bearbeitet werden, sofern die terroristische Gefährderin oder der terroristische Gefährder mit diesen Personen in Kontakt steht oder stand und dies zur Einschätzung der von der terroristischen Gefährderin oder dem terroristischen Gefährder ausgehenden Gefahr zwingend erforderlich ist.
+
+<sup>2</sup> Die Polizei- und Strafverfolgungsbehörden von Bund und Kantonen sowie die kantonalen Strafvollzugsbehörden, die Kindes- und Erwachsenenschutzbehörden, Schulen und Bildungsbehörden, Integrationsfachstellen, Einwohner-, Migrations-, Jugend- und Sozialämter können die zur Erfüllung der Aufgaben nach diesem Abschnitt erforderlichen Personendaten einschliesslich besonders schützenswerter Personendaten untereinander austauschen. Artikel 6 Absatz 2 bleibt vorbehalten.
+
+<sup>3</sup> Fedpol kann den Betreiber einer kritischen Infrastruktur nach Artikel 6 Absatz 1 Buchstabe a Ziffer 4 des Nachrichtendienstgesetzes vom 25. September 2015[^23h-1] (NDG) über die Anordnung einer Massnahme nach den Artikeln 23*k*–23*q* informieren, wenn die terroristische Gefährderin oder der terroristische Gefährder für diese Infrastruktur eine Gefahr darstellt. Dazu kann fedpol besonders schützenswerte Personendaten übermitteln.
+
+[^23h-1]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+
+#### Art. 23i
+
+**Antrag**
+
+<sup>1</sup> Die zuständige kantonale oder kommunale Behörde und der NDB können fedpol Massnahmen nach diesem Abschnitt beantragen.
+
+<sup>2</sup> Im Antrag ist darzulegen, dass die gesetzlichen Voraussetzungen erfüllt sind; der Antrag muss zudem Angaben zur Art, zur Dauer und zum Vollzug der beantragten Massnahme enthalten.
+
+#### Art. 23j
+
+**Verfügung von Massnahmen**
+
+<sup>1</sup> Fedpol verfügt die Massnahmen nach den Artikeln 23*k*–23*q*. Wurde die Massnahme von einer kantonalen oder kommunalen Behörde beantragt, so hört fedpol vorgängig den NDB an. Wurde die Massnahme vom NDB beantragt, so hört fedpol vorgängig den betroffenen Kanton an.
+
+<sup>2</sup> Es schreibt die Massnahme sowie eine Widerhandlung gegen die Massnahme im automatisierten Polizeifahndungssystem (RIPOL) nach Artikel 15 Absatz 1 des Bundesgesetzes vom 13. Juni 2008[^23j-1] über die polizeilichen Informationssysteme des Bundes aus.
+
+<sup>3</sup> Es kann im Einvernehmen mit dem betroffenen Kanton oder der betroffenen Gemeinde eine Massnahme sistieren, wenn wichtige Gründe vorliegen.
+
+[^23j-1]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+
+#### Art. 23k
+
+**Melde- und Gesprächsteilnahmepflicht**
+
+<sup>1</sup> Fedpol kann eine terroristische Gefährderin oder einen terroristischen Gefährder verpflichten, sich regelmässig bei einer von der antragstellenden Behörde bezeichneten kantonalen oder kommunalen Stelle persönlich zu melden und Gespräche mit einer oder mehreren Fachpersonen zu führen.
+
+<sup>2</sup> Die Gespräche dienen dazu, die von der terroristischen Gefährderin oder dem terroristischen Gefährder ausgehende Gefahr und deren Entwicklung zu beurteilen sowie der Gefahr entgegenzuwirken.
+
+<sup>3</sup> Ist die betroffene Person minderjährig, so sind die Eltern oder andere erziehungsberechtigte Personen in die Gespräche miteinzubeziehen, sofern der Zweck des Gesprächs dadurch nicht gefährdet wird.
+
+<sup>4</sup> Kann die betroffene Person einen vereinbarten Termin nicht einhalten, so hat sie die zuständige kantonale oder kommunale Stelle unter Angabe der Gründe unverzüglich darüber zu informieren und um eine Verschiebung zu ersuchen. Diese wird nur gewährt, wenn wichtige Gründe vorliegen und diese von der betroffenen Person belegt werden.
+
+<sup>5</sup>
+
+Die kantonale oder kommunale Stelle informiert die antragstellende Behörde sowie fedpol über:
+
+- a. sicherheitsrelevante Vorgänge während der Umsetzung der Massnahme;
+- b. die Verletzung der Meldepflicht;
+- c. verschobene oder ausgefallene Termine;
+- d. die Verweigerung der Teilnahme am Gespräch mit einer Fachperson;
+- e. das Ergebnis der mit der Fachperson geführten Gespräche.
+
+<sup>6</sup> Die Information nach Absatz 5 Buchstaben a und b hat ohne Verzug zu erfolgen.
+
+#### Art. 23l
+
+**Kontaktverbot**
+
+Fedpol kann einer terroristischen Gefährderin oder einem terroristischen Gefährder verbieten, mit bestimmten Personen oder Personengruppen direkt oder über Drittpersonen in Kontakt zu stehen.
+
+#### Art. 23m
+
+**Ein- und Ausgrenzung**
+
+<sup>1</sup> Fedpol kann einer terroristischen Gefährderin oder einem terroristischen Gefährder verbieten, ein ihr oder ihm zugewiesenes Gebiet zu verlassen oder ein bestimmtes Gebiet oder eine bestimmte Liegenschaft zu betreten.
+
+<sup>2</sup> Es kann aus wichtigen Gründen Ausnahmen bewilligen.
+
+#### Art. 23n
+
+**Ausreiseverbot**
+
+<sup>1</sup> Fedpol kann einer terroristischen Gefährderin oder einem terroristischen Gefährder verbieten, aus der Schweiz auszureisen, wenn aufgrund konkreter und aktueller Anhaltspunkte angenommen werden muss, dass sie oder er ausreisen will, um im Ausland eine terroristische Aktivität auszuüben.
+
+<sup>2</sup>
+
+Im Falle eines Ausreiseverbots kann fedpol:
+
+- a. Schweizer Reisedokumente beschlagnahmen;
+- b. ausländische Reisedokumente sicherstellen, sofern ein überwiegendes Interesse der Schweiz besteht, die Ausreise zu verbieten, und keine milderen Massnahmen zur Verfügung stehen.
+
+<sup>3</sup> Fedpol informiert den betroffenen Staat über die Sicherstellung der ausländischen Reisedokumente. Ist dieser damit nicht einverstanden, so hebt fedpol die Sicherstellung auf und händigt der betroffenen Person die Reisedokumente aus.
+
+<sup>4</sup> Es kann beschlagnahmte Schweizer Reisedokumente für ungültig erklären und im RIPOL, im nationalen Teil des Schengener Informationssystems (SIS) sowie über Interpol (Art. 351 Abs. 2 des Strafgesetzbuchs [StGB][^23n-1]) ausschreiben.
+
+<sup>5</sup> Es kann ausländische Reisedokumente im RIPOL, im SIS sowie über Interpol (Art. 351 Abs. 2 StGB) ausschreiben, wenn der betroffene Staat die Dokumente für ungültig erklärt hat und mit der Ausschreibung einverstanden ist.
+
+<sup>6</sup> Fedpol, das Bundesamt für Zoll und Grenzsicherheit (BAZG) und die kantonalen Polizeibehörden können Reisebillette beschlagnahmen. Sie können Reiseunternehmen anweisen, elektronische Reisebillette für ungültig zu erklären.
+
+<sup>7</sup> Sie können bei Gefahr in Verzug Schweizer und ausländische Reisedokumente sowie Reisebillette ohne vorgängige Anordnung des Ausreiseverbots provisorisch sicherstellen oder Reiseunternehmen anweisen, elektronische Reisebillette für ungültig zu erklären.
+
+<sup>8</sup> Handelt es sich bei der betroffenen Person um eine Schweizerin oder einen Schweizer, so stellt fedpol ihr oder ihm für die Dauer des Ausreiseverbots einen Ersatznachweis über die Staatsangehörigkeit und die Identität aus. Einer Ausländerin oder einem Ausländer stellt fedpol einen Ersatznachweis über die Identität aus.
+
+[^23n-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 23o
+
+**Eingrenzung auf eine Liegenschaft: Grundsätze**
+
+<sup>1</sup>
+
+Fedpol kann einer terroristischen Gefährderin oder einem terroristischen Gefährder verbieten, eine bestimmte, von der antragstellenden Behörde bezeichnete Liegenschaft oder Einrichtung zu verlassen, wenn:
+
+- a. konkrete und aktuelle Anhaltspunkte bestehen, dass von ihr oder ihm eine erhebliche Gefahr für Leib und Leben Dritter ausgeht, die nicht anders abgewendet werden kann; und
+- b. sie oder er gegen eine oder mehrere gestützt auf die Artikel 23*k*–23*n* angeordnete Massnahmen verstossen hat.
+
+<sup>2</sup>
+
+Die Eingrenzung hat auf eine Liegenschaft zu erfolgen, die von der terroristischen Gefährderin oder dem terroristischen Gefährder für Wohnzwecke genutzt wird oder in der sie oder er sich zu Pflege- oder Behandlungszwecken aufhält. Die Eingrenzung kann ausnahmsweise auf eine andere öffentliche oder private Liegenschaft oder Einrichtung erfolgen, wenn:
+
+- a. der Gefährdung nicht auf andere Art wirksam begegnet werden kann; und
+- b. die Liegenschaft oder Einrichtung die Möglichkeit zu einer selbstbestimmten Lebensgestaltung und einer eigenverantwortlichen Lebensführung in einem häuslichen Umfeld bietet.
+
+<sup>3</sup> Fedpol kann nach Anhörung der beteiligten Behörden aus wichtigen Gründen Ausnahmen von der Eingrenzung bewilligen, namentlich aus medizinischen Gründen, zu Erwerbs- und Bildungszwecken, zur Ausübung der Glaubensfreiheit oder zur Wahrnehmung von familiären Verpflichtungen.
+
+<sup>4</sup> Die Kontakte zur Aussenwelt und das soziale Leben dürfen nur so weit eingeschränkt werden, als dies zur Durchführung der Massnahme zwingend erforderlich ist.
+
+<sup>5</sup> Die Dauer der Massnahme ist auf drei Monate begrenzt. Sie kann zwei Mal um jeweils maximal drei Monate verlängert werden.
+
+#### Art. 23p
+
+**Eingrenzung auf eine Liegenschaft: Verfahren**
+
+<sup>1</sup> Fedpol unterbreitet den Antrag auf Anordnung der Eingrenzung zur Prüfung der Rechtmässigkeit und Angemessenheit unverzüglich dem Zwangsmassnahmengericht des Kantons Bern. Dieses entscheidet unverzüglich, spätestens aber innert 48 Stunden nach Eingang des Antrags.
+
+<sup>2</sup> Soll die Massnahme verlängert werden, so reicht fedpol dem Zwangsmassnahmengericht spätestens vier Tage vor deren Ablauf einen schriftlich begründeten Antrag ein. Das Zwangsmassnahmengericht kann anordnen, dass die Massnahme verlängert wird, bis es über den Antrag entschieden hat.
+
+<sup>3</sup> Die Entschädigung des Kantons Bern richtet sich nach Artikel 65 Absatz 4 des Strafbehördenorganisationsgesetzes vom 19. März 2010[^23p-1].
+
+<sup>4</sup> Stellt die betroffene Person fedpol ein schriftlich begründetes Gesuch um Aufhebung der Massnahme und lehnt fedpol das Gesuch ab, so leitet es dieses innert dreier Tage mit einer begründeten Stellungnahme an das Zwangsmassnahmengericht weiter. Dieses entscheidet spätestens innert fünf Tagen nach Eingang des Gesuchs.
+
+<sup>5</sup>
+
+Fedpol beendet die Eingrenzung auf eine Liegenschaft unverzüglich, wenn:
+
+- a. die Voraussetzungen für die Anordnung der Massnahme nicht mehr erfüllt sind;
+- b. das Zwangsmassnahmengericht die Genehmigung zur Anordnung oder Verlängerung der Massnahme verweigert; oder
+- c. fedpol oder das Zwangsmassnahmengericht dem Gesuch um Aufhebung der Massnahme entspricht.
+
+[^23p-1]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+
+#### Art. 23q
+
+**Elektronische Überwachung und Mobilfunklokalisierung**
+
+<sup>1</sup> Zum Vollzug der Massnahmen nach den Artikeln 23*l*–23*o* kann fedpol eine elektronische Überwachung oder Lokalisierung über Mobilfunk einer terroristischen Gefährderin oder eines terroristischen Gefährders anordnen, wenn die im Rahmen der Massnahmenvollzugskontrolle bislang getroffenen Massnahmen erfolglos geblieben sind oder der Massnahmenvollzug ohne Überwachung oder Lokalisierung aussichtslos wäre oder übermässig erschwert würde.
+
+<sup>2</sup> Geräte zur elektronischen Überwachung können mit dem Körper der terroristischen Gefährderin oder des terroristischen Gefährders fest verbunden werden. Wird das Gerät mit dem Körper nicht fest verbunden, so hat die Gefährderin oder der Gefährder es ständig und in betriebsbereitem Zustand bei sich zu führen. Die Funktionsfähigkeit des Geräts darf nicht beeinträchtigt werden.
+
+<sup>3</sup> Zur Mobilfunklokalisierung kann die für den Vollzug zuständige Behörde die dafür erforderlichen Randdaten des Fernmeldeverkehrs nach Artikel 8 Buchstabe b des Bundesgesetzes vom 18. März 2016[^23q-1] betreffend die Überwachung des Post- und Fernmeldeverkehrs einfordern. Die terroristische Gefährderin oder der terroristische Gefährder hat das Mobilfunkgerät ständig sowie eingeschaltet und in betriebsbereitem Zustand bei sich zu führen.
+
+<sup>4</sup>
+
+Die erhobenen Daten dürfen nur zu den folgenden Zwecken bearbeitet werden:
+
+- a. zur Feststellung von Verstössen gegen Massnahmen nach den Artikeln 23*l*–23*o*;
+- b. zur strafrechtlichen Verfolgung eines Verbrechens oder schweren Vergehens gemäss dem anwendbaren Verfahrensrecht;
+- c. zur Abwehr einer Gefährdung Dritter oder einer schweren Selbstgefährdung;
+- d. zur Prüfung und Aufrechterhaltung der Funktionsfähigkeit der technischen Mittel.
+
+<sup>5</sup> Die im Rahmen der elektronischen Überwachung erhobenen Daten müssen spätestens 12 Monate nach Abschluss der Überwachung vernichtet werden, sofern kein konkreter Grund zur Annahme besteht, dass sie als Beweismittel in einem Strafverfahren dienen können.
+
+<sup>6</sup> Die für den Vollzug der Massnahme zuständige Behörde legt fest, welche Personen die erhobenen Daten bearbeiten dürfen, und trifft geeignete Massnahmen, um die Daten vor missbräuchlicher Verwendung zu schützen.
+
+[^23q-1]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+
+#### Art. 23r
+
+**Vollzug der Massnahmen**
+
+<sup>1</sup> Der Vollzug und die Kontrolle der Massnahmen nach diesem Abschnitt sind Sache der Kantone. Vorbehalten bleibt Artikel 23*n.*
+
+<sup>2</sup> Fedpol leistet Amts- und Vollzugshilfe.
+
+<sup>3</sup> Die für den Vollzug der Massnahmen zuständigen Behörden können, soweit die zu schützenden Rechtsgüter es rechtfertigen, polizeilichen Zwang und polizeiliche Massnahmen anwenden.
+
+#### Art. 24
+
+[^24-1]
+
+[^24-1]: Aufgehoben. Siehe Art. 23*d*.
+
+## Abschnitt 5*a*: Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen
 
 [^sec5a-1]
 
@@ -424,16 +659,19 @@ In das Informationssystem dürfen Informationen über Personen, gegen die Ausrei
 
 <sup>6</sup> Fedpol prüft, ob die Informationen, die ihm übermittelt werden, richtig und erheblich im Sinne von Absatz 2 sind. Es vernichtet unrichtige oder unerhebliche Informationen und benachrichtigt darüber den Absender.
 
-<sup>7</sup> Das Informationssystem steht den für den Vollzug dieses Gesetzes zuständigen Stellen von fedpol sowie den Polizeibehörden der Kantone, der Schweizerischen Zentralstelle für Hooliganismus (Zentralstelle) und den Zollbehörden über ein Abrufverfahren zur Verfügung. Der Bundesrat legt die Voraussetzungen für die Aufbewahrung und Löschung der Daten fest. Er bestimmt den Anschluss der kantonalen Sicherheitsorgane im Einzelnen und regelt die Zugriffsrechte.
+<sup>7</sup> Das Informationssystem steht den für den Vollzug dieses Gesetzes zuständigen Stellen von fedpol sowie den Polizeibehörden der Kantone und dem BAZG über ein Abrufverfahren zur Verfügung.[^24a-2] Der Bundesrat legt die Voraussetzungen für die Aufbewahrung und Löschung der Daten fest. Er bestimmt den Anschluss der kantonalen Sicherheitsorgane im Einzelnen und regelt die Zugriffsrechte.
 
 <sup>8</sup> Die Vollzugsbehörden können Personendaten nach Absatz 1 an Organisatoren von Sportveranstaltungen in der Schweiz weitergeben, wenn die Daten für die Anordnung von Massnahmen zur Verhinderung von Gewalttätigkeiten anlässlich bestimmter Veranstaltungen nötig sind. Die Empfänger der Daten dürfen diese nur im Rahmen des Vollzuges der Massnahmen an Dritte weitergeben. Der Bundesrat regelt, wie die Daten durch die Empfänger und durch Dritte bearbeitet werden.
 
-<sup>9</sup> Fedpol und die Zentralstelle können Personendaten an ausländische Polizeibehörden und Sicherheitsorgane weitergeben. Die Weitergabe richtet sich nach den Voraussetzungen von Artikel 17 Absätze 3–5. Die Daten dürfen nur weitergegeben werden, wenn der Empfänger garantiert, dass sie ausschliesslich der Anordnung von Massnahmen zur Verhinderung von Gewalttätigkeiten anlässlich von Sportveranstaltungen dienen. Der Quellenschutz ist zu wahren.
+<sup>9</sup> Fedpol kann Personendaten an ausländische Polizeibehörden und Sicherheitsorgane weitergeben. Artikel 61 Absätze 1, 2, 5 und 6 NDG[^24a-3] ist sinngemäss anwendbar. Die Daten dürfen nur weitergegeben werden, wenn die Behörde oder das Organ garantiert, dass die Daten ausschliesslich der Anordnung von Massnahmen zur Verhinderung von Gewalttätigkeiten anlässlich von Sportveranstaltungen dienen. Der Quellenschutz ist zu wahren.[^24a-4]
 
-<sup>10</sup> Das Recht, Auskünfte über die Daten im Informationssystem zu bekommen, und das Recht, die Daten berichtigen zu lassen, richten sich nach den Artikeln 5 und 8 des Bundesgesetzes vom 19. Juni 1992[^24a-2] über den Datenschutz. Fedpol teilt der betroffenen Person die Erfassung und Löschung ihrer Daten im Informationssystem mit.
+<sup>10</sup> Das Recht, Auskünfte über die Daten im Informationssystem zu bekommen, und das Recht, die Daten berichtigen zu lassen, richten sich nach den Artikeln 5 und 8 des Bundesgesetzes vom 19. Juni 1992[^24a-5] über den Datenschutz. Fedpol teilt der betroffenen Person die Erfassung und Löschung ihrer Daten im Informationssystem mit.
 
 [^24a-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5091](https://fedlex.data.admin.ch/eli/oc/2009/592); [BBl 2007 6465](https://fedlex.data.admin.ch/eli/fga/2007/964)).
-[^24a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^24a-2]: Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^24a-3]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^24a-4]: Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^24a-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 24b
 
@@ -449,7 +687,7 @@ In das Informationssystem dürfen Informationen über Personen, gegen die Ausrei
 
 Einer Person kann die Ausreise aus der Schweiz in ein bestimmtes Land für eine bestimmte Zeitdauer untersagt werden, wenn:
 
-- a.[^24c-1] gegen sie ein Rayonverbot besteht, weil sie sich anlässlich von Sportveranstaltungen nachweislich an Gewalttätigkeiten gegen Personen oder Sachen beteiligt hat; und
+- a.[^24c-1] gegen sie ein Rayonverbot oder eine Meldeauflage besteht, weil sie sich anlässlich von Sportveranstaltungen nachweislich an Gewalttätigkeiten gegen Personen oder Sachen beteiligt hat; und
 - b. aufgrund ihres Verhaltens angenommen werden muss, dass sie sich anlässlich einer Sportveranstaltung im Bestimmungsland an Gewalttätigkeiten beteiligen wird.
 
 <sup>2</sup> Eine Ausreisebeschränkung kann auch gegen eine Person verfügt werden, gegen die kein Rayonverbot besteht, sofern konkrete und aktuelle Tatsachen die Annahme begründen, dass sie sich im Bestimmungsland an Gewalttätigkeiten beteiligen werden.
@@ -458,13 +696,14 @@ Einer Person kann die Ausreise aus der Schweiz in ein bestimmtes Land für eine 
 
 <sup>4</sup> Während der Dauer der Beschränkung ist jede Ausreise verboten, mit der ein Aufenthalt im Bestimmungsland angestrebt wird. Ausnahmen können von fedpol bewilligt werden, wenn die betreffende Person wichtige Gründe für den Aufenthalt im Bestimmungsland geltend macht.
 
-<sup>5</sup> Fedpol verfügt die Ausreisebeschränkung. Die Kantone und die Zentralstelle können Ausreisebeschränkungen beantragen.
+<sup>5</sup> Fedpol verfügt die Ausreisebeschränkung. Die Kantone können Ausreisebeschränkungen beantragen.[^24c-2]
 
-<sup>6</sup> Die Ausreisebeschränkung wird im automatisierten Polizeifahndungssystem (RIPOL; Art. 15 des BG vom 13. Juni 2008[^24c-2] über die polizeilichen Informationssysteme des Bundes) ausgeschrieben.[^24c-3]
+<sup>6</sup> Die Ausreisebeschränkung wird im RIPOL (Art. 15 des BG vom 13. Juni 2008[^24c-3] über die polizeilichen Informationssysteme des Bundes) ausgeschrieben.[^24c-4]
 
-[^24c-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5091](https://fedlex.data.admin.ch/eli/oc/2009/592); [BBl 2007 6465](https://fedlex.data.admin.ch/eli/fga/2007/964)).
-[^24c-2]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^24c-3]: Fassung gemäss Anhang 1 Ziff. 1 des BG vom 13. Juni 2008 über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^24c-1]: Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^24c-2]: Fassung des zweiten Satzes gemäss Ziff. I 1 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^24c-3]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^24c-4]: Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 24d und 24e
 
@@ -472,27 +711,45 @@ Einer Person kann die Ausreise aus der Schweiz in ein bestimmtes Land für eine 
 
 [^24d24e-1]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 1. Jan. 2010 ([AS 2009 5091](https://fedlex.data.admin.ch/eli/oc/2009/592); [BBl 2007 6465](https://fedlex.data.admin.ch/eli/fga/2007/964)).
 
+## 5*b**.* Abschnitt: Gemeinsame Bestimmungen zum 5*.* und 5*a**.* Abschnitt
+
+[^sec5b-1]
+
+[^sec5b-1]: Eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
 #### Art. 24f
 
-**Untere Altersgrenze**[^24f-1]
+**Altersgrenze**[^24f-1]
 
-Massnahmen nach Artikel 24*c* können nur gegen Personen verfügt werden, die das 12. Altersjahr vollendet haben.
+<sup>1</sup> Die Massnahmen nach den Artikeln 23*k*–23*n* sowie 23*q* und 24*c* können nur gegen eine Person verfügt werden, die das 12. Altersjahr vollendet hat.
 
-[^24f-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5091](https://fedlex.data.admin.ch/eli/oc/2009/592); [BBl 2007 6465](https://fedlex.data.admin.ch/eli/fga/2007/964)).
+<sup>2</sup> Die Massnahme nach Artikel 23*o* kann nur gegen eine Person verfügt werden, die das 15. Altersjahr vollendet hat.
+
+[^24f-1]: Eingefügt durch Ziff. I des BG vom 24. März 2006 ([AS 2006 3703](https://fedlex.data.admin.ch/eli/oc/2006/563); [BBl 2005 5613](https://fedlex.data.admin.ch/eli/fga/2005/888)). Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 24g
 
-**Aufschiebende Wirkung**[^24g-1]
+**Rechtsschutz**[^24g-1]
 
-Einer Beschwerde gegen eine Verfügung über Massnahmen nach Artikel 24*c* kommt aufschiebende Wirkung zu, wenn dadurch der Zweck der Massnahme nicht gefährdet wird und wenn die Beschwerdeinstanz oder das Gericht diese in einem Zwischenentscheid ausdrücklich gewährt.
+<sup>1</sup> Gegen Verfügungen von fedpol über Massnahmen nach dem 5. und 5*a*. Abschnitt sowie gegen Entscheide des Zwangsmassnahmengerichts nach Artikel 23*p* kann beim Bundesverwaltungsgericht Beschwerde geführt werden.
 
-[^24g-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5091](https://fedlex.data.admin.ch/eli/oc/2009/592); [BBl 2007 6465](https://fedlex.data.admin.ch/eli/fga/2007/964)).
+<sup>2</sup>
+
+Das Beschwerderecht richtet sich nach Artikel 48 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^24g-2]. Zur Beschwerde berechtigt sind auch:
+
+- a. die antragstellende kantonale oder kommunale Behörde gegen Verfügungen von fedpol;
+- b. fedpol gegen Entscheide des Zwangsmassnahmengerichts.
+
+<sup>3</sup> Beschwerden haben keine aufschiebende Wirkung. Die Instruktionsrichterin oder der Instruktionsrichter der Beschwerdeinstanz kann einer Beschwerde von Amtes wegen oder auf Antrag einer Partei aufschiebende Wirkung erteilen, wenn der Zweck der Massnahme dadurch nicht gefährdet wird.
+
+[^24g-1]: Eingefügt durch Ziff. I des BG vom 24. März 2006 ([AS 2006 3703](https://fedlex.data.admin.ch/eli/oc/2006/563); [BBl 2005 5613](https://fedlex.data.admin.ch/eli/fga/2005/888)). Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^24g-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 #### Art. 24h
 
 [^24h-1]
 
-[^24h-1]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 1. Jan. 2010 ([AS 2009 5091](https://fedlex.data.admin.ch/eli/oc/2009/592); [BBl 2007 6465](https://fedlex.data.admin.ch/eli/fga/2007/964)).
+[^24h-1]: Eingefügt durch Ziff. I des BG vom 24. März 2006 ([AS 2006 3703](https://fedlex.data.admin.ch/eli/oc/2006/563); [BBl 2005 5613](https://fedlex.data.admin.ch/eli/fga/2005/888)). Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 1. Jan. 2010 ([AS 2009 5091](https://fedlex.data.admin.ch/eli/oc/2009/592); [BBl 2007 6465](https://fedlex.data.admin.ch/eli/fga/2007/964)).
 
 ## 6. Abschnitt: Organisatorische Bestimmungen
 
@@ -506,19 +763,42 @@ Einer Beschwerde gegen eine Verfügung über Massnahmen nach Artikel 24*c* kommt
 
 **Finanzielle Leistungen an die Kantone**
 
-<sup>1</sup> ...[^28-1]
+<sup>1</sup> …[^28-1]
 
-<sup>2</sup> Der Bund leistet an Kantone, die in grossem Ausmass Schutzaufgaben nach dem fünften Abschnitt erfüllen müssen, sowie bei ausserordentlichen Ereignissen eine angemessene Abgeltung.
+<sup>2</sup> Der Bund leistet an Kantone, die in grossem Ausmass Schutzaufgaben nach dem fünften Abschnitt[^28-2] erfüllen müssen, sowie bei ausserordentlichen Ereignissen eine angemessene Abgeltung.
 
 <sup>3</sup> Der Bund gewährt dem Schweizerischen Polizeiinstitut Neuenburg Finanzhilfen für die im Interesse des Bundes erbrachten Leistungen.
 
 [^28-1]: Aufgehoben durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^28-2]: Heute: 4*a*. Abschnitt.
 
 #### Art. 29
 
 **Ausbildung**
 
 Bund und Kantone arbeiten bei der Ausbildung im Bereiche der inneren Sicherheit zusammen, insbesondere durch gemeinsame Ausbildungsangebote.
+
+## 6*a*. Abschnitt: Strafbestimmungen
+
+[^sec6a-1]
+
+[^sec6a-1]: Eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
+#### Art. 29a
+
+**Verstösse gegen Massnahmen nach den Artikeln 23*k*–23*q***
+
+<sup>1</sup> Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer gegen Massnahmen nach den Artikeln 23*l*–23*q* verstösst.
+
+<sup>2</sup> Handelt die Täterin oder der Täter fahrlässig, so ist die Strafe Busse.
+
+<sup>3</sup> Mit Busse wird bestraft, wer vorsätzlich oder fahrlässig gegen die Massnahme nach Artikel 23*k* verstösst.
+
+#### Art. 29b
+
+**Strafverfolgung**
+
+Die Verfolgung und die Beurteilung der Widerhandlungen nach Artikel 29*a* unterstehen der Bundesgerichtsbarkeit.
 
 ## 7. Abschnitt: Schlussbestimmungen
 
@@ -532,7 +812,7 @@ Der Bundesrat vollzieht dieses Gesetz. Er erlässt die Ausführungsbestimmungen.
 
 **Änderung bisherigen Rechts**
 
-### ...**
+### …
 
 [^31-subdiv-1]
 
