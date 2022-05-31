@@ -3,20 +3,19 @@ canton: GL
 number: VII D/41/4
 title: Verordnung über die Schifffahrt auf dem Linthkanal
 language: de
-version: 2016-05-27
-valid_until: 2022-05-31
-version_adopted: 2016-03-17
+version: 2022-06-01
+version_adopted: 2022-03-25
 adopted: 2003-11-20
 in_force: 2004-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-D.41.4"
-pdf: "https://gesetze.gl.ch/api/de/versions/1873/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2300/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Schifffahrt auf dem Linthkanal
 
-Vom 20.11.2003 (Stand 27.05.2016)
+Vom 20.11.2003 (Stand 01.06.2022)
 
 Die Linthkommission,
 
@@ -62,7 +61,7 @@ verordnet:
 
 <sup>1</sup> Der Linthingenieur erteilt die Bewilligung.
 
-<sup>2</sup> Bewilligungen werden nur für die Monate März, April, Juli, August und September erteilt, wenn Gewähr besteht, dass die Anlagen des Linthwerkes durch die Fahrten nicht beeinträchtigt werden.
+<sup>2</sup> Bewilligungen für Motorschiffe werden nur für die Monate März, April, Juli, August und September erteilt, wenn Gewähr besteht, dass die Anlagen des Linthwerkes durch die Fahrten nicht beeinträchtigt werden.
 
 <sup>3</sup> Für einen bestimmten Tag werden höchstens zehn Bewilligungen erteilt.
 
@@ -87,9 +86,11 @@ verordnet:
 
 #### Art. 7
 
-**Nachtfahrverbot**
+**Nachtfahrverbot und Fahrzeiteinschränkungen**
 
 <sup>1</sup> Zwischen 21 Uhr und 6 Uhr darf der Linthkanal nicht befahren werden.
+
+<sup>1a</sup> Zusätzlich darf der Linthkanal in den Monaten Juli und August zwischen 9 und 18 Uhr nicht befahren werden.
 
 <sup>2</sup> Der Linthingenieur kann Ausnahmen erlauben.
 
