@@ -1,0 +1,615 @@
+---
+sr: "916.408"
+title: Ordinanza del 27 aprile 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare (O-SIFA)
+short: O-SIFA
+eli: "https://fedlex.data.admin.ch/eli/cc/2022/272"
+language: it
+version: 2022-06-01
+adopted: 2022-04-27
+in_force: 2022-06-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2022-272-20220601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20220601/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare
+
+(O-SIFA)
+
+del 27 aprile 2022 (Stato 1° giugno 2022)
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 45*c* capoverso 4, 45*d* capoverso 3 e 45*f* della legge del 1° luglio 1966[^ingress-1] sulle epizoozie (LFE); visto l’articolo 62 capoverso 6 della legge del 20 giugno 2014[^ingress-2] sulle derrate alimentari; visto l’articolo 165*g* della legge del 29 aprile 1998[^ingress-3] sull’agricoltura; visto l’articolo 64*f* della legge del 15 dicembre 2000[^ingress-4] sugli agenti terapeutici,
+
+ordina:
+
+[^ingress-1]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^ingress-3]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-4]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+
+## Sezione 1: Oggetto
+
+#### Art. 1
+
+<sup>1</sup>
+
+La presente ordinanza disciplina:
+
+- a. il sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione (ASAN);
+- b. il sistema d’informazione per i risultati di controlli e analisi (ARES);
+- c. il sistema d’informazione sui risultati del controllo degli animali da macello e del controllo delle carni (Fleko).
+
+<sup>2</sup>
+
+Essa comprende in particolare disposizioni riguardanti:
+
+- a. le responsabilità in materia di sistemi d’informazione;
+- b. lo scopo e il contenuto dei sistemi d’informazione;
+- c. i diritti di trattamento e di consultazione;
+- d. la comunicazione dei dati;
+- e. il collegamento con altri sistemi d’informazione;
+- f. le competenze;
+- g. il finanziamento dei sistemi d’informazione;
+- h. la protezione dei dati e la sicurezza dei dati e informatica;
+- i. la conservazione e l’archiviazione dei dati.
+
+<sup>3</sup> Essa disciplina inoltre la valutazione e l’analisi di dati nell’ambito di competenza dell’Ufficio federale della sicurezza alimentare e di veterinaria (USAV).
+
+## Sezione 2: Responsabilità per i sistemi d’informazione, scopo e loro contenuto
+
+#### Art. 2
+
+**Responsabilità**
+
+L’USAV è responsabile di ASAN, ARES e Fleko; essi sono parti del sistema d’informazione centrale lungo la filiera agroalimentare comune all’USAV e all’Ufficio federale dell’agricoltura (UFAG).
+
+#### Art. 3
+
+**Scopo dei sistemi d’informazione**
+
+<sup>1</sup> ASAN serve al trattamento dei dati di cui la Confederazione e i Cantoni necessitano per l’adempimento dei loro compiti esecutivi nei settoridella salute, della protezione degli animali, della sicurezza dei medicamenti veterinari, della sicurezza delle derrate alimentari in ambito veterinario e per la gestione amministrativa.
+
+<sup>2</sup>
+
+ARES serve al trattamento dei risultati:
+
+- a. delle analisi di laboratori riconosciuti di cui all’articolo 312 dell’ordinanza del 27 giugno 1995[^3-1] sulle epizoozie (OFE);
+- b.
+
+  del controllo ufficiale:
+
+  - 1\. delle derrate alimentari e degli oggetti d’uso,
+  - 2\. delle aziende che impiegano derrate alimentari e oggetti d’uso, ad eccezione dei controlli dei macelli;
+
+- c. del controllo del latte secondo l’ordinanza del 20 ottobre 2010[^3-2] sul controllo del latte (OCL).
+
+<sup>3</sup> ARES può essere inoltre utilizzato come interfaccia per la trasmissione dei dati di cui all’allegato 1 numero 2.3 dai sistemi d’informazione cantonali al sistema di valutazione e di analisi (art. 23).
+
+<sup>4</sup> Fleko serve al trattamento dei risultati del controllo degli animali da macello e del controllo delle carni di cui all’articolo 57 dell’ordinanza del 16 dicembre 2016[^3-3] concernente la macellazione e il controllo delle carni.
+
+[^3-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^3-2]: [RS 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
+[^3-3]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+
+#### Art. 4
+
+**Contenuto dei sistemi d’informazione**
+
+<sup>1</sup>
+
+ASAN, ARES e Fleko contengono i seguenti tipi di dati:
+
+- a. dati di base: dati che servono a identificare e categorizzare persone, aziende, aziende detentrici di animali e animali;
+- b.
+
+  dati raccolti nell’ambito dell’esecuzione: dati rilevati nel quadro dei compiti di esecuzione nei seguenti settori:
+
+  - 1\. salute degli animali,
+  - 2\. protezione degli animali,
+  - 3\. sicurezza delle derrate alimentari e degli oggetti d’uso,
+  - 4\. medicamenti veterinari,
+  - 5\. professioni veterinarie;
+
+- c. dati di sistema: dati che servono alla gestione e all’adeguamento dei sistemi d’informazione alle esigenze esecutive;
+- d. dati utenti: dati di autenticazione, ruoli assegnati agli utenti e impostazioni di base per l’utilizzazione dei sistemi d’informazione.
+
+<sup>2</sup> I cataloghi dei dati figurano negli allegati 1–3.
+
+## Sezione 3: Diritti di accesso, comunicazione dei dati e collegamento dei sistemi d’informazione
+
+#### Art. 5
+
+**Servizi con diritto di accesso: trattamento dei dati**
+
+I servizi seguenti possono trattare i dati di ASAN, ARES e Fleko, nell’ambito dei loro compiti legali, per gli scopi seguenti:
+
+- a.
+
+  garantire la sicurezza delle derrate alimentari e degli oggetti d’uso, la sicurezza degli alimenti per animali, la protezione dagli inganni, la sicurezza dei medicamenti veterinari, la salute e la protezione degli animali nonché una produzione primaria ineccepibile:
+
+  - 1\. l’USAV,
+  - 2\. le autorità cantonali di esecuzione per adempiere i compiti esecutivi e i compiti cantonali in questi settori,
+  - 3\. i terzi incaricati dalle autorità cantonali di esecuzione di adempiere i compiti esecutivi in questi settori per assolvere il loro incarico;
+
+- b. adempiere i loro obblighi di notifica: i laboratori riconosciuti secondo l’articolo 312 OFE[^5-1] e i laboratori di prova per il controllo del latte secondo l’OCL[^5-2];
+- c. garantire la gestione, concedere diritti di accesso e fornire supporto agli utenti: i servizi specializzati (art. 19).
+
+[^5-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^5-2]: [RS 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
+
+#### Art. 6
+
+**Servizi con diritto di accesso: consultazione dei dati**
+
+I servizi seguenti possono consultare i dati di ASAN, ARES e Fleko, nell’ambito dei loro compiti legali, per gli scopi seguenti:
+
+- a.
+
+  garantire la sicurezza delle derrate alimentari e degli oggetti d’uso, la sicurezza degli alimenti per animali, la protezione dagli inganni, la sicurezza dei medicamenti veterinari, la salute e la protezione degli animali nonché una produzione primaria ineccepibile:
+
+  - 1\. l’UFAG,
+  - 2\. l’Ufficio federale della dogana e della sicurezza dei confini (UDSC) in relazione al trasferimento di merci nel o dal territorio doganale;
+
+- b. garantire la salute e la protezione degli animali selvatici: l’Ufficio federale dell’ambiente (UFAM);
+- c. sorvegliare l’esecuzione della legislazione in materia di salute dei vegetali, alimenti per animali, epizoozie, protezione degli animali e derrate alimentari: l’Unità federale per la filiera agroalimentare (UFAL).
+
+#### Art. 7
+
+**Dati di base: trattamento dei dati**
+
+Se i compiti di cui all’articolo 5 lo esigono, le seguenti persone possono trattare i dati di base di ASAN, ARES e Fleko:
+
+- a. i collaboratori delle autorità cantonali di esecuzione;
+- b. i collaboratori del servizio specializzato competente per il rispettivo sistema.
+
+#### Art. 8
+
+**Dati di base: consultazione dei dati**
+
+Se i compiti di cui agli articoli 5 e 6 lo esigono, le seguenti persone possono consultare i dati di base:
+
+- a. i collaboratori dellʼUSAV, dellʼUFAG, dellʼUDSC dellʼUFAM e dellʼUFAL;
+- b. i collaboratori di terzi incaricati dalle autorità cantonali di esecuzione.
+
+#### Art. 9
+
+**Dati raccolti nell’ambito dell’esecuzione: trattamento dei dati**
+
+Se i compiti di cui all’articolo 5 lo esigono, le seguenti persone possono trattare i dati seguenti raccolti nell’ambito dell’esecuzione:
+
+- a.
+
+  i collaboratori dell’USAV:
+
+  - 1\. i dati raccolti nell’ambito dell’esecuzione inseriti dall’USAV,
+  - 2\. i dati raccolti nell’ambito dell’esecuzione inseriti dalle autorità cantonali di esecuzione nel quadro dei loro obblighi di notifica;
+
+- b. i collaboratori delle autorità cantonali di esecuzione: i dati raccolti durante l’esecuzione inseriti dalle proprie autorità;
+- c. i collaboratori di terzi incaricati dalle autorità cantonali di esecuzione: i dati raccolti nell’ambito dell’esecuzione, necessari ad adempiere i compiti loro assegnati;
+- d. i collaboratori dei laboratori riconosciuti secondo l’articolo 312 OFE[^9-1] e i laboratori di prova secondo l’OCL[^9-2]: i dati raccolti nell’ambito dell’esecuzione inseriti dal proprio laboratorio;
+- e. i collaboratori dei servizi specializzati: tutti i dati del rispettivo sistema raccolti nell’ambito dell’esecuzione.
+
+[^9-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^9-2]: [RS 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
+
+#### Art. 10
+
+**Dati raccolti nell’ambito dell’esecuzione: consultazione dei dati**
+
+Se i compiti di cui agli articoli 5 e 6 lo esigono, le seguenti persone possono consultare i dati seguenti raccolti nell’ambito dell’esecuzione:
+
+- a. i collaboratori dell’UFAG, dell’USDC, dell’UFAM e dell’UFAL: i dati raccolti nell’ambito dell’esecuzione inseriti dalle autorità cantonali di esecuzione nel quadro dei loro obblighi di notifica;
+- b. i collaboratori delle autorità cantonali di esecuzione: i dati raccolti nell’ambito dell’esecuzione di unità amministrative di altri Cantoni; la consultazione è retta dall’articolo 13.
+
+#### Art. 11
+
+**Dati di sistema e dati utenti: trattamento dei dati**
+
+Se i compiti di cui all’articolo 5 lo esigono, i servizi specializzati possono trattare i dati di sistema e i dati utenti del rispettivo sistema.
+
+#### Art. 12
+
+**Concessione e revoca dei diritti di accesso**
+
+<sup>1</sup> Per ottenere l’accesso ai sistemi d’informazione o per modificare il ruolo utente occorre presentare una domanda scritta al servizio specializzato.
+
+<sup>2</sup> Il servizio specializzato concede i diritti di accesso a tempo indeterminato.
+
+<sup>3</sup> Esso revoca i diritti di accesso alle persone che non lavorano più per un servizio con diritto di accesso. I servizi con diritto di accesso notificano queste persone al servizio specializzato.
+
+<sup>4</sup> I diritti di accesso dei terzi incaricati dalle autorità cantonali di esecuzione devono essere definiti nell’incarico. Sono attribuiti e revocati dalle autorità cantonali.
+
+#### Art. 13
+
+**Consultazione dei dati raccolti nell’ambito dell’esecuzione di un’unità amministrativa di un altro Cantone**
+
+<sup>1</sup> I collaboratori di un’autorità cantonale di esecuzione possono consultare i dati raccolti nell’ambito dell’esecuzione di un’unità amministrativa di un altro Cantone solo se l’unità amministrativa interessata acconsente a tale consultazione. L’unità amministrativa effettua le impostazioni tecniche appropriate per la consultazione dei dati nei sistemi d’informazione o incarica l’USAV di farlo.
+
+<sup>2</sup>
+
+Non è richiesto alcun consenso per la consultazione dei dati raccolti nell’ambito dell’esecuzione di ARES, relativi alle analisi dei laboratori riconosciuti secondo l’articolo 312 OFE[^13-1], che sono stati prodotti per l’unità amministrativa di un altro Cantone. La consultazione di questi dati avviene inserendo:
+
+- a. il numero RIS dell’azienda di cui all’articolo 3 capoverso 2 lettera c dell’ordinanza del 30 giugno 1993[^13-2] sul Registro delle imprese e degli stabilimenti;
+- b. il numero AVS del detentore di animali;
+- c. il numero BDTA dell’azienda detentrice o il numero di identificazione dell’animale interessato secondo l’ordinanza del 3 novembre 2021[^13-3] concernente Identitas AG e la banca dati sul traffico di animali (OIBDTA); oppure
+- d. il nome del detentore di animali o della persona che ha inviato il campione da analizzare o ha conferito l’incarico di analizzarlo.
+
+[^13-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^13-2]: [RS 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
+[^13-3]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+
+#### Art. 14
+
+**Diritti di consultazione dei macelli, dei detentori di animali e di altre persone autorizzate**
+
+I macelli, i detentori di animali e altre persone autorizzate possono consultare nella banca dati sul traffico di animali secondo l’OIBDTA[^14-1] i dati concernenti i risultati del controllo degli animali da macello e quelli concernenti il controllo delle carni che riguardano la commestibilità.
+
+[^14-1]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+
+#### Art. 15
+
+**Comunicazione di dati ad altre autorità**
+
+L’USAV e le autorità cantonali di esecuzione possono comunicare ad altre autorità i dati non degni di particolare protezione di ASAN, ARES e Fleko in forma elettronica o in un’altra modalità appropriata, se le autorità lo necessitano per l’adempimento dei loro compiti.
+
+#### Art. 16
+
+**Comunicazione di dati per scopi scientifici e statistici**
+
+<sup>1</sup> L’USAV e le autorità cantonali di esecuzione possono comunicare a terzi dietro domanda scritta i dati non degni di particolare protezione di ASAN, ARES e Fleko per scopi scientifici e statistici.
+
+<sup>2</sup> Questi dati devono essere resi anonimi, per quanto possibile, prima della comunicazione. Se vengono comunicati dati non resi anonimi, le autorità concludono un accordo con la terza parte.
+
+#### Art. 17
+
+**Collegamento con altri sistemi d’informazione**
+
+<sup>1</sup>
+
+Ciascuno dei tre sistemi ASAN, ARES e Fleko può accedere ai dati degli altri due sistemi d’informazione e ai sistemi d’informazione seguenti:
+
+- a. sistema d’informazione per i dati su aziende, strutture e contributi secondo gli articoli 2–5*a* dell’ordinanza del 23 ottobre 2013[^17-1] sui sistemi d’informazione nel campo dell’agricoltura (OSIAgr);
+- b. sistema d’informazione per i dati di controllo secondo gli articoli 6–9 OSIAgr;
+- c. banca dati sul traffico di animali secondo gli articoli 10–40 OIBDTA[^17-2];
+- d. Registro delle imprese e degli stabilimenti secondo l’ordinanza del 30 giugno 1993[^17-3] sul Registro delle imprese e degli stabilimenti;
+- e. sistema d’informazione geografica secondo gli articoli 10–13 OSIAgr;
+- f. banca dati centrale sui cani secondo l’articolo 30 capoverso 2 LFE;
+- g. sistema d’informazione sugli antibiotici nella medicina veterinaria secondo l’ordinanza del 31 ottobre 2018[^17-4] concernente il sistema d’informazione sugli antibiotici nella medicina veterinaria;
+- h. banca dati del latte secondo l’articolo 12 capoverso 2 lettera d dell’ordinanza del 25 giugno 2008[^17-5] sul sostegno del prezzo del latte;
+- i. sistemi d’informazione dei Cantoni, nella misura in cui ciò sia necessario per la trasmissione di dati di cui all’allegato 1 n. 2.3 nel sistema di valutazione e analisi (art. 23).
+
+<sup>2</sup> I sistemi d’informazione di cui al capoverso 1 lettere b, c e g possono accedere ai dati tramite ASAN, ARES e Fleko.
+
+[^17-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^17-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^17-3]: [RS 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
+[^17-4]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^17-5]: [RS 916.350.2](https://fedlex.data.admin.ch/eli/cc/2008/521)
+
+## Sezione 4: Compiti dell’USAV, servizi specializzati e comitato misto
+
+#### Art. 18
+
+**Compiti dell’USAV**
+
+<sup>1</sup> L’USAV provvede alla gestione di ASAN, ARES e Fleko. In particolare, adotta le misure necessarie per garantire la gestione economica.
+
+<sup>2</sup>
+
+L’USAV svolge anche i seguenti compiti:
+
+- a. conclude gli accordi con i fornitori di prestazioni che mettono a disposizione l’infrastruttura e i servizi informatici;
+- b. conclude gli accordi di utilizzazione con i Cantoni;
+- c. per ciascun sistema d’informazione gestisce un servizio specializzato;
+- d. allestisce il preventivo annuo, il conto annuale e una pianificazione finanziaria pluriennale per i sistemi d’informazione;
+- e. pianifica l’ulteriore sviluppo dei sistemi d’informazione con il coinvolgimento dei Cantoni.
+
+#### Art. 19
+
+**Servizi specializzati**
+
+<sup>1</sup>
+
+Ai servizi specializzati dell’USAV competono:
+
+- a. la concessione, la gestione e la revoca dei diritti di accesso agli utenti;
+- b. il supporto agli utenti e la loro informazione su aspetti tecnici e modifiche;
+- c. lo svolgimento di corsi di formazione;
+- d. gli adeguamenti tecnici e specialistici;
+- e. il coordinamento e la sorveglianza degli incarichi affidati ai diversi fornitori di prestazioni;
+- f. l’eliminazione di guasti in collaborazione con i fornitori di prestazioni;
+- g. l’esame tecnico e contenutistico dei dati ripresi dagli altri sistemi d’informazione.
+
+<sup>2</sup> I servizi specializzati collaborano con i servizi specializzati dell’UFAG e con i rappresentanti delle autorità cantonali e dei macelli.
+
+#### Art. 20
+
+**Comitato misto**
+
+<sup>1</sup> Il comitato misto per ASAN, ARES e Fleko si compone di quattro rappresentanti dell’USAV e quattro rappresentanti delle autorità veterinarie cantonali nonché di un rappresentante di un’autorità di esecuzione per il diritto in materia di derrate alimentari. Esso provvede autonomamente alla propria organizzazione.
+
+<sup>2</sup>
+
+Esso svolge i compiti seguenti:
+
+- a. collabora all’allestimento della pianificazione finanziaria pluriennale per i sistemi d’informazione e del preventivo annuo per la gestione dei sistemi d’informazione;
+- b. fornisce consulenza all’USAV in merito ad aspetti strategici, tecnici e finanziari legati alla gestione dei sistemi d’informazione;
+- c. formula proposte per lo sviluppo dei sistemi d’informazione, istituisce gruppi di progetto e ne approva i risultati.
+
+<sup>3</sup> Nel caso di sviluppi che si ripercuotono sui sistemi d’informazione dell’UFAG e di Identitas AG, il comitato misto coinvolge rappresentanti di questi uffici.
+
+<sup>4</sup> Esso può assegnare incarichi ai servizi specializzati e obbligarli a istituire per determinate questioni specifiche uno o più comitati di esperti composti da rappresentanti dei Cantoni e di altri uffici federali. Può ricorrere inoltre a esperti esterni.
+
+## Sezione 5: ...
+
+#### Art. 21 e 22
+
+[^2122-1]
+
+[^2122-1]: In vigore il 1° gen. 2023 (art. 30 cpv. 2).
+
+## Sezione 6: Valutazione e analisi dei dati
+
+#### Art. 23
+
+<sup>1</sup>
+
+L’USAV gestisce il sistema di valutazione e di analisi della sicurezza alimentare e della salute pubblica veterinaria (ALVPH) per valutare e analizzare i dati del proprio ambito di competenza. Vengono valutati e analizzati i dati:
+
+- a. di ASAN, ARES e Fleko;
+- b. dei sistemi d’informazione di cui all’articolo 17 lettere a–d e g;
+- c. del sistema d’informazione animex-ch secondo l’ordinanza animex-ch del 1° settembre 2010[^23-1];
+- d. del sistema d’informazione per il riconoscimento precoce dell’infestazione degli apiari con il piccolo coleottero dell’alveare (*Aethina tumida*);
+- e. del sistema d’informazione per la campionatura dei bovini nei macelli;
+- f. della piattaforma utenti per la protezione dei consumatori;
+- g. del sistema «Trade Control and Expert System» (TRACES)» integrato nel sistema per il trattamento delle informazioni per i controlli ufficiali dell’Unione europea di cui agli articoli 131–136 del regolamento (UE) 2017/625[^23-2];
+- h. del sistema d’informazione per il confronto elettronico dei dati tra il sistema per la dichiarazione doganale dell’UDSC e TRACES che consente la verifica automatizzata delle partite importate in merito alle autorizzazioni valide e ai documenti veterinari di cui all’articolo 79*a* dell’ordinanza del 18 novembre 2015[^23-3] concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi.
+
+<sup>2</sup> I diritti di accesso ai dati in ALVPH sono retti dalle disposizioni legali che si applicano singolarmente ai sistemi d’informazione. I diritti di accesso ai dati che vengono trasmessi dai sistemi d’informazione dei Cantoni ad ALPHV tramite l’interfaccia in ARES (art. 3 cpv. 3) sono retti dagli articoli 9 e 10.
+
+[^23-1]: [RS 455.61](https://fedlex.data.admin.ch/eli/cc/2010/563)
+[^23-2]: Regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio, del 15 marzo 2017, relativo ai controlli ufficiali e alle altre attività ufficiali effettuati per garantire l’applicazione della legislazione sugli alimenti e sui mangimi, delle norme sulla salute e sul benessere degli animali, sulla sanità delle piante nonché sui prodotti fitosanitari, recante modifica dei regolamenti (CE) n. 999/ 2001, (CE) n. 396/2005, (CE) n. 1069/2009, (CE) n. 1107/2009, (UE) n. 1151/2012, (UE) n. 652/2014, (UE) 2016/429 e (UE) 2016/2031 del Parlamento europeo e del Consiglio, dei regolamenti (CE) n. 1/ 2005 e (CE) n. 1099/2009 del Consiglio e delle direttive 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/ CE e 2008/120/CE del Consiglio, e che abroga i regolamenti (CE) n. 854/2004 e (CE) n. 882/2004 del Parlamento europeo e del Consiglio, le direttive 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE e 97/78/CE del Consiglio e la decisione 92/438/CEE del Consiglio (regolamento sui controlli ufficiali) GU L 95 del 7.4.2017, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2019/2127, GU L 321 del 12.12.2019, pag. 111.
+[^23-3]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+
+## Sezione 7: Protezione dei dati, sicurezza dei dati e informatica, conservazione e archiviazione dei dati, disposizioni di tipo tecnico
+
+#### Art. 24
+
+**Protezione dei dati, sicurezza dei dati e informatica**
+
+<sup>1</sup> L’USAV è responsabile del rispetto delle disposizioni in materia di protezione dei dati nonché di sicurezza dei dati e informatica nel suo settore.
+
+<sup>2</sup> Esso emana i necessari regolamenti sul trattamento dei dati per garantire la protezione dei dati nonché la sicurezza dei dati e informatica.
+
+<sup>3</sup> Esso formula disposizioni in materia di protezione dei dati nonché di sicurezza dei dati e informatica negli accordi di prestazione con i fornitori di prestazioni e negli accordi di utilizzazione conclusi con i Cantoni.
+
+<sup>4</sup> Le autorità cantonali di esecuzione, i laboratori riconosciuti e i terzi incaricati dalle autorità cantonali di esecuzione sono responsabili nel loro settore del rispetto delle disposizioni in materia di protezione dei dati e di sicurezza dei dati e informatica. In particolare, garantiscono l’accesso sicuro ai sistemi d’informazione mediante misure tecniche e organizzative.
+
+#### Art. 25
+
+**Diritti delle persone interessate**
+
+I diritti delle persone i cui dati sono trattati in ASAN, in ARES o in Fleko, in particolare i diritti in materia di comunicazione dei loro dati, di rettifica e distruzione di dati nonché di acquisizione degli stessi, sono retti:
+
+- a. dalla legge del 19 giugno 1992[^25-1] sulla protezione dei dati se fanno valere i loro diritti nei confronti dell’USAV;
+- b. dalla rispettiva legge cantonale sulla protezione dei dati se fanno valere i loro diritti nei confronti di un’autorità cantonale di esecuzione.
+
+[^25-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 26
+
+**Conservazione e archiviazione dei dati**
+
+<sup>1</sup> I dati di ASAN, ARES e Fleko possono essere conservati per un massimo di 30 anni nei sistemi d’informazione.
+
+<sup>2</sup> L’archiviazione è retta dalla legge del 26 giugno 1998[^26-1] sull’archiviazione. L’USAV informa i Cantoni dell’imminente archiviazione e, se necessario, li sostiene nell’esportazione dai sistemi d’informazione dei dati da loro registrati.
+
+<sup>3</sup> I dati resi anonimi possono essere conservati nei sistemi d’informazione oltre il termine di cui al capoverso 1.
+
+[^26-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+
+#### Art. 27
+
+**Disposizioni di tipo tecnico**
+
+Previa consultazione dei Cantoni, l’USAV emana disposizioni di tipo tecnico in particolare su:
+
+- a. interfacce e trasmissione di dati ad altri sistemi d’informazione della Confederazione, a sistemi d’informazione dei Cantoni e a terzi incaricati;
+- b. frequenza di trasmissione dei dati;
+- c. standardizzazione dei contenuti dei dati ed elenchi di riferimento;
+- d. requisiti tecnici e organizzativi per l’utilizzazione;
+- e. forma e utilizzazione del catalogo dei dati dei sistemi d’informazione.
+
+## Sezione 8: Disposizioni finali
+
+#### Art. 28
+
+**Abrogazione e modifica di altri atti normativi**
+
+L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’allegato 4.
+
+#### Art. 29
+
+**Disposizione transitoria della modifica del 27 aprile 2022**
+
+Per il finanziamento dei sistemi d’informazione si applica fino al 31 dicembre 2022 l’articolo 29*a* dell’ordinanza del 6 giugno 2014[^29-1] concernente i sistemi d’informazione per il servizio veterinario pubblico nella sua versione attuale.
+
+[^29-1]: [RU 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325); [2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)
+
+#### Art. 30
+
+**Entrata in vigore**
+
+<sup>1</sup> Fatto salvo il capoverso 2, la presente ordinanza entra in vigore il 1° giugno 2022.
+
+<sup>2</sup> Gli articoli 21 e 22 entrano in vigore il 1° gennaio 2023.
+
+Allegato 1
+
+(art. 4 cpv. 2)
+
+## Catalogo dei dati di ASAN
+
+### 1 Dati di base
+
+- **1.1** **Persone**
+- 1\.1.1 Nome, cognome, indirizzo, recapiti
+- 1\.1.2 Peculiarità della persona: funzione, qualifica, ruolo
+- 1\.1.3 Attiva / inattiva nel sistema
+- 1\.1.4 Numero assegnato automaticamente dal sistema
+- 1\.1.5 Numeri utili a identificare una persona
+- 1\.1.6 Numero della competente autorità cantonale di esecuzione
+- **1.2** **Aziende**
+- 1\.2.1 Nome, indirizzo, informazioni sull’ubicazione
+- 1\.2.2 Categoria aziendale
+- 1\.2.3 Attiva / inattiva nel sistema
+- 1\.2.4 Numero assegnato automaticamente dal sistema
+- 1\.2.5 Numeri d’identificazione dell’azienda
+- 1\.2.6 Numero della competente autorità cantonale di esecuzione
+- 1\.2.7 Dati strutturali dell’azienda
+- 1\.2.8 Informazioni relative a una caratterizzazione più precisa di un’ubicazione
+- **1.3** **Animali**
+- 1\.3.1 Informazioni relative ai singoli animali, quali specie, genere, razza, età, identificazione
+- **1.4** **Relazioni tra unità (persone, aziende, animali)**
+
+### 2 Dati raccolti nell’ambito dell’esecuzione
+
+- **2.1** **Autorizzazioni**
+- 2\.1.1 Protezione degli animali
+- 2\.1.2 Salute degli animali
+- 2\.1.3 Sicurezza alimentare
+- 2\.1.4 Medicamenti veterinari
+- 2\.1.5 Professioni veterinarie
+- **2.2** **Notifiche**
+- 2\.2.1 Protezione degli animali
+- 2\.2.2 Salute degli animali, comprese le epizoozie
+- 2\.2.3 Sicurezza alimentare
+- 2\.2.4 Medicamenti veterinari
+- **2.3** **Controlli**
+- 2\.3.1 Controlli per i quali i dati sono registrati o caricati nel sistema d’informazione per i dati sui controlli secondo gli articoli 6–9 OSIAgr[^annex1-lvlu1-lvl2-1]
+- 2\.3.2 Altri controlli
+- **2.4** **Decisioni, misure e procedure relative alle misure**
+
+<table>
+<tr><th>Tipi di misure</th><th>Procedure relative alle misure</th><th>Stato</th></tr>
+<tr><td>– Divieto di tenere animali – Confisca – Sequestro secondo il diritto in materia di epizoozie – Sequestro secondo il diritto in materia di derrate alimentari – Revoca dell’autorizzazione – Fatturazione dei costi – Misura generale – Divieto di allevare animali – Sorveglianza veterinaria ufficiale – Eliminazione – Misure igieniche – Vaccinazione – Indennità per gli animali</td><td>Diritto di audizione</td><td>– Bozza – Sottoposto – Parere pervenuto</td></tr>
+<tr><td></td><td>Decisione</td><td>– Bozza – Sottoposta con effetto sospensivo – Sottoposta senza effetto sospensivo – Rimedio giuridico adottato: opposizione – Rimedio giuridico adottato: reclamo/ricorso – In vigore – Revocata – Abrogata</td></tr>
+<tr><td>– Fatturazione dei costi – Misura generale</td><td>Contestazione</td><td>– Bozza – Sottoposta – Revocata – Parere pervenuto</td></tr>
+<tr><td>– Misura generale</td><td>Feedback</td><td>– Fornito – Sottoposto – Revocato – Parere pervenuto</td></tr>
+<tr><td>– Procedimento penale – Controllo di verifica – Notifica a un altro organo – Notifica a un altro processo – Nessuna misura – Notifica di epizoozia all’USAV</td><td colspan="2">[tab] Nessuna procedura prevista</td></tr>
+</table>
+
+- **2.5** **Pendenze**
+- **2.6** **Documenti**
+- 2\.6.1 Modelli di documento
+- 2\.6.2 Documenti specifici per ogni unità elaborati in sede di esecuzione
+- **3** **Dati di sistema**
+- 3\.1 Elenchi di riferimento
+- 3\.2 Modelli di rapporto
+- 3\.3 File log del sistema
+- **4** **Dati utenti**
+- 4\.1 Identificazione dell’utente
+- 4\.2 Ruolo dell’utente
+
+[^annex1-lvlu1-lvl2-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+
+Allegato 2
+
+(art. 4 cpv. 2)
+
+## Catalogo dei dati di ARES
+
+### 1 Sorveglianza delle epizoozie, lotta alle epizoozie e monitoraggio della resistenza
+
+- **1.1** **Dati di base**
+- 1\.1.1 Identificazione e indirizzo dell’azienda di provenienza degli animali
+- 1\.1.2 Identificazione degli animali
+- **1.2** **Dati raccolti nell’ambito dell’esecuzione**
+- 1\.2.1 Committente
+- 1\.2.2 Identificazione dell’animale e dell’azienda di provenienza
+- 1\.2.3 Indicazioni sul motivo dell’analisi
+- 1\.2.4 Indicazioni sul campione analizzato
+- 1\.2.5 Indicazioni sul risultato dell’analisi
+- **1.3** **Dati di sistema**
+- 1\.3.1 Informazioni sul ricevimento della notifica in caso di trasmissione elettronica
+- 1\.3.2 File log del sistema
+- 1\.3.3 Elenchi di riferimento
+- **1.4** **Dati utenti**
+- [tab] –
+
+### 2 Sicurezza delle derrate alimentari
+
+- **2.1** **Dati di base**
+- [tab] –
+- **2.2** **Dati raccolti nell’ambito dell’esecuzione**
+- 2\.2.1 Controllo dei prodotti
+- 2\.2.1.1 Committente
+- 2\.2.1.2 Indicazioni sul campione analizzato
+- 2\.2.1.3 Indicazioni sul risultato dell’analisi
+- 2\.2.2 Controllo del processo
+- 2\.2.2.1 Committente
+- 2\.2.2.2 Indicazioni sull’ispezione
+- 2\.2.2.3 Indicazioni sul risultato dell’ispezione
+- **2.3** **Dati di sistema**
+- 2\.3.1 Informazioni sul ricevimento della notifica in caso di trasmissione elettronica
+- 2\.3.2 File log del sistema
+- 2\.3.3 Elenchi di riferimento
+- **2.4** **Dati utenti**
+- [tab] –
+
+Allegato 3
+
+(art. 4 cpv. 2)
+
+## Catalogo dei dati di Fleko
+
+### 1 Dati di base
+
+- 1\.1 Identificazione, nome e indirizzo del macello
+- 1\.2 Notifiche dalla banca dati sul traffico di animali relative alla macellazione di animali secondo l’allegato 1 numero 1 lettera e, numero 2 lettera e, numero 3 lettera c e numero 4 lettera j OIBDTA[^annex3-lvlu1-lvl1-1]
+- 1\.3 Identificazione e nome delle persone responsabili del controllo delle carni
+
+[^annex3-lvlu1-lvl1-1]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+
+### 2 Dati raccolti nell’ambito dell’esecuzione
+
+- **2.1** **Informazioni generali**
+- 2\.1.1 Macello
+- 2\.1.2 Animale o gruppo di animali
+- 2\.1.3 Numero di animali controllati
+- 2\.1.4 Identificazione dell’azienda di provenienza
+- **2.2** **Risultati del controllo degli animali da macello**
+- **2.3** **Risultati del controllo delle carni**
+
+### 3 Dati di sistema
+
+- 3\.1 Informazioni sul ricevimento della notifica in caso di trasmissione elettronica
+- 3\.2 File log del sistema
+- 3\.3 Elenchi di riferimento
+
+### 4 Dati utenti
+
+- 4\.1 Identificazione dell’utente
+- 4\.2 Ruolo dell’utente
+
+Allegato 4
+
+(art. 28)
+
+## Abrogazione e modifica di altri atti normativi
+
+I
+
+L’ordinanza del 6 giugno 2014[^annex4-lvlu1-1] concernente i sistemi d’informazione per il servizio veterinario pubblico è abrogata.
+
+II
+
+Gli atti normativi qui appresso sono modificati come segue:
+
+...[^annex4-lvlu1-2]
+
+[^annex4-lvlu1-1]: [[RU 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325); [2015 4269](https://fedlex.data.admin.ch/eli/oc/2015/717); [2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)art. 20 n. 3, [4543](https://fedlex.data.admin.ch/eli/oc/2018/708); [2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)all. n. 34, [751](https://fedlex.data.admin.ch/eli/oc/2021/751)all. 3 n. II 11]
+[^annex4-lvlu1-2]: Le mod. possono essere consultate alla [RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272).
