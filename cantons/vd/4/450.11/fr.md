@@ -4,15 +4,15 @@ number: "450.11"
 title: LOI du 10.12.1969 sur la protection de la nature et des sites (LPNS)
 short: LPNS
 language: fr
-version: 2017-01-01
+version: 2022-06-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/450.11?id=230fe1a7-41ac-40e2-8fb2-12201121fb46"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
-# LOI sur la protection de la nature, des monuments et des sites
+# LOI sur la protection de la nature et des sites
 
-(LPNMS)
+(LPNS)
 
 du 10 décembre 1969
 
@@ -31,9 +31,9 @@ décrète
 <sup>1</sup> La présente loi a pour but, dans l'intérêt de la communauté ou de la science :
 
 - a. d'assurer la protection et le développement de la diversité du patrimoine naturel et paysager du Canton, en ménageant l'espace vital nécessaire à la flore et à la faune et en maintenant les milieux naturels caractéristiques ;
-- b. de ménager l'aspect caractéristique du paysage et des localités, les sites évocateurs du passé et les beautés naturelles ;
-- c. de protéger et conserver les monuments de la préhistoire, de l'histoire, de l'art ou de l'architecture et les antiquités immobilières situées ou trouvées dans le canton ;
-- d. de promouvoir toutes mesures éducatives en faveur de la protection de la nature, des monuments et des sites ;
+- b. de ménager l'aspect caractéristique du paysage et les beautés naturelles ;
+- c. ...
+- d. de promouvoir toutes mesures éducatives en faveur de la protection de la nature ;
 - e. de permettre et faciliter la recherche scientifique dans les domaines intéressés ;
 - f. de soutenir et encourager les efforts entrepris dans le même sens par les communes, les personnes physiques ou morales ;
 - g. de favoriser l'interconnexion des biotopes ;
@@ -61,7 +61,7 @@ décrète
 
 **Définition [^chapterChapitreII-1]**
 
-<sup>1</sup> Sont protégés conformément à la présente loi tous les objets immobiliers, soit tous les territoires, paysages, sites, localités, immeubles qui méritent d'être sauvegardés en raison de l'intérêt général, notamment esthétique, historique, scientifique ou éducatif qu'ils présentent.
+<sup>1</sup> Sont protégés conformément à la présente loi tous les territoires et paysages qui méritent d'être sauvegardés en raison de l'intérêt général, notamment esthétique, scientifique ou éducatif qu'ils présentent.
 
 <sup>2</sup> Aucune atteinte ne peut leur être portée qui en altère le caractère.
 
@@ -73,7 +73,7 @@ décrète
 
 <sup>1</sup> Sont protégés les biotopes au sens des articles 18 et suivants de la loi fédérale sur la protection de la nature [^4a-1] .
 
-<sup>2</sup> Toute construction ou installation portant atteinte à un biotope doit faire l'objet d'une autorisation spéciale du Département de la sécurité et de l'environnement.
+<sup>2</sup> Toute construction ou installation portant atteinte à un biotope doit faire l'objet d'une autorisation spéciale du Département en charge de la protection de la nature et des paysages (ci-après : le département).
 
 <sup>2bis</sup> L'obligation de fournir une mesure de compensation ou de remplacement découlant d'une autorisation spéciale prise en vertu de l' alinéa 2 fait l'objet d'une mention au registre foncier sur demande du département.
 
@@ -121,15 +121,13 @@ décrète
 
 **Cours d'eau, lacs et marais [^6-2]**
 
-<sup>1</sup> Le cours naturel des cours d'eau, les rives des lacs, les marais et les roselières ne peuvent être modifiés sans autorisation du Département de la sécurité et de l'environnement [^7-1] . Le Département de la sécurité et de l'environnement est compétent pour appliquer les dispositions de la loi cantonale sur la police des eaux dépendant du domaine public [^7-2] .
+<sup>1</sup> Le cours naturel des cours d'eau, les rives des lacs, les marais et les roselières ne peuvent être modifiés sans autorisation du département. Celui-ci est compétent pour appliquer les dispositions de la loi cantonale sur la police des eaux dépendant du domaine public.
 
 [^6-2]: Modif. 8 du 19.06.1995: Modification Art. 7; entrée en vigueur au 29.08.1995 · Modif. 19 du 30.11.2021: Modification Al. 1; entrée en vigueur au 01.06.2022
-[^7-1]: Mise à jour par la loi du 19.03.2002 modifiant celle du 10.12.1969 sur la protection de la nature, des monuments et des sites (R 2002 128)
-[^7-2]: Loi du 03.12.1957 sur la police des eaux dépendant du domaine public ([BLV 721.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/721.01?id=ff4c6edf-3eb3-45fd-ba16-6ec5989c6433))
 
 #### Art. 7a
 
-**Suivi de la biodiversité [^7-3]**
+**Suivi de la biodiversité [^7-1]**
 
 <sup>1</sup> Le département réalise un suivi de la biodiversité et du paysage dans le canton permettant d'évaluer les mesures de préservation à prendre.
 
@@ -137,7 +135,7 @@ décrète
 
 <sup>3</sup> Les autorités compétentes rendent compte au département de la réalisation des mesures de compensation.
 
-[^7-3]: Modif. 14 du 17.12.2008: Introduction Art. 7a; entrée en vigueur au 01.03.2009
+[^7-1]: Modif. 14 du 17.12.2008: Introduction Art. 7a; entrée en vigueur au 01.03.2009
 
 #### Art. 8
 
@@ -155,31 +153,29 @@ décrète
 
 **Mesures conservatoires [^9-1]**
 
-<sup>1</sup> En présence d'un danger imminent, le Département de la sécurité et de l'environnement [^10-1] prend les mesures de sauvegarde nécessaires.
+<sup>1</sup> En présence d'un danger imminent, le département prend les mesures de sauvegarde nécessaires.
 
 <sup>2</sup> Les municipalités sont tenues de lui signaler immédiatement de tels dangers.
 
 <sup>3</sup> Il peut notamment ordonner l'arrêt immédiat des travaux qui porteraient atteinte à l'objet, le cas échéant le rétablissement de son état antérieur.
 
 [^9-1]: Modif. 8 du 19.06.1995: Modification Al. 1; entrée en vigueur au 29.08.1995 · Modif. 19 du 30.11.2021: Modification Al. 1; entrée en vigueur au 01.06.2022
-[^10-1]: Mise à jour par la loi du 19.03.2002 modifiant celle du 10.12.1969 sur la protection de la nature, des monuments et des sites (R 2002 128)
 
 #### Art. 11
 
-**[^10-2]**
+**[^10-1]**
 
-<sup>1</sup> Si aucune enquête en vue du classement de l'objet au sens des dispositions des chapitres III, section II, et V, section II, ci-après n'a été ouverte dans un délai de six mois dès la date des mesures conservatoires, celles-ci deviennent caduques. En cas de nécessité, le Département de la sécurité et de l'environnement, respectivement le département en charge des monuments, sites et archéologie [^11-1] peut prolonger ce délai de six mois au plus.
+<sup>1</sup> Si aucune enquête en vue du classement de l'objet n'a été ouverte dans un délai de six mois dès la date des mesures conservatoires, celles-ci deviennent caduques. En cas de nécessité, le département peut prolonger ce délai de six mois au plus.
 
-[^10-2]: Modif. 11 du 11.02.2003: Modification Art. 11; entrée en vigueur au 01.01.2004 · Modif. 16 du 08.04.2014: Modification Al. 1; entrée en vigueur au 01.08.2014 · Modif. 19 du 30.11.2021: Modification Al. 1; entrée en vigueur au 01.06.2022
-[^11-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^10-1]: Modif. 11 du 11.02.2003: Modification Art. 11; entrée en vigueur au 01.01.2004 · Modif. 16 du 08.04.2014: Modification Al. 1; entrée en vigueur au 01.08.2014 · Modif. 19 du 30.11.2021: Modification Al. 1; entrée en vigueur au 01.06.2022
 
 #### Art. 11bis
 
-**[^11-2]**
+**[^11-1]**
 
 <sup>1</sup> Des agents privés peuvent être chargés de veiller à ce que le public se conforme aux dispositions de la présente loi, des arrêtés d'exécution et des décisions de classement et, le cas échéant, de constater les contraventions à ces dispositions. Ils peuvent être dotés à cet effet de compétences de police.
 
-[^11-2]: Modif. 1 du 21.09.1971: Introduction Art. 11bis; entrée en vigueur au 08.10.1971
+[^11-1]: Modif. 1 du 21.09.1971: Introduction Art. 11bis; entrée en vigueur au 08.10.1971
 
 ## Chapitre III Protection spéciale de la nature et des sites
 
@@ -189,7 +185,7 @@ décrète
 
 **Inventaire des monuments naturels et des sites [^sectionSectionI-1]**
 
-<sup>1</sup> Un inventaire sera dressé des territoires, paysages, monuments naturels, sites, localités, arbres, immeubles, situés dans le canton, qui, en raison de l'intérêt général, notamment scientifique, esthétique ou éducatif qu'ils présentent, méritent d'être sauvegardés.
+<sup>1</sup> Un inventaire sera dressé des territoires, paysages, monuments naturels, sites, arbres, situés dans le canton, qui, en raison de l'intérêt général, notamment scientifique, esthétique ou éducatif qu'ils présentent, méritent d'être sauvegardés.
 
 <sup>1bis</sup> Lorsque cela renforce la compréhension des objectifs de sauvegarde ou lorsque les éléments relèvent de la protection de la nature et des sites, des inventaires spécifiques peuvent être réalisés.
 
@@ -225,21 +221,19 @@ décrète
 
 **Obligation du propriétaire [^15-1]**
 
-<sup>1</sup> Le propriétaire ou autre titulaire d'un droit réel sur un objet ou ses abords figurant à l'inventaire a l'obligation d'annoncer au Département de la sécurité et de l'environnement, respectivement le département en charge des monuments, sites et archéologie [^16-1] , tous travaux qu'il envisage d'y apporter.
+<sup>1</sup> Le propriétaire ou autre titulaire d'un droit réel sur un objet ou ses abords figurant à l'inventaire a l'obligation d'annoncer au département tous travaux qu'il envisage d'y apporter.
 
 [^15-1]: Modif. 8 du 19.06.1995: Modification Art. 16; entrée en vigueur au 29.08.1995 · Modif. 16 du 08.04.2014: Modification Al. 1; entrée en vigueur au 01.08.2014 · Modif. 19 du 30.11.2021: Modification Al. 1; entrée en vigueur au 01.06.2022
-[^16-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 17
 
-**Effet de l'inventaire [^16-2]**
+**Effet de l'inventaire [^16-1]**
 
-<sup>1</sup> Le Département de la sécurité et de l'environnement, respectivement le département en charge des monuments, sites et archéologie [^17-1] peut, soit autoriser les travaux annoncés, soit ouvrir une enquête en vue de classement.
+<sup>1</sup> Le département peut, soit autoriser les travaux annoncés, soit ouvrir une enquête en vue de classement.
 
 <sup>2</sup> Aucune atteinte ne peut être portée à l'objet durant l'enquête.
 
-[^16-2]: Modif. 8 du 19.06.1995: Modification Al. 1; entrée en vigueur au 29.08.1995 · Modif. 16 du 08.04.2014: Modification Al. 1; entrée en vigueur au 01.08.2014 · Modif. 19 du 30.11.2021: Modification Al. 1; entrée en vigueur au 01.06.2022
-[^17-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^16-1]: Modif. 8 du 19.06.1995: Modification Al. 1; entrée en vigueur au 29.08.1995 · Modif. 16 du 08.04.2014: Modification Al. 1; entrée en vigueur au 01.08.2014 · Modif. 19 du 30.11.2021: Modification Al. 1; entrée en vigueur au 01.06.2022
 
 #### Art. 18
 
@@ -283,18 +277,17 @@ décrète
 
 **Effet du classement [^22-1]**
 
-<sup>1</sup> Aucune atteinte ne peut être portée à un objet classé sans autorisation préalable Département de la sécurité et de l'environnement, respectivement le département en charge des monuments, sites et archéologie [^23-1] .
+<sup>1</sup> Aucune atteinte ne peut être portée à un objet classé sans autorisation préalable du département.
 
 [^22-1]: Modif. 8 du 19.06.1995: Modification Art. 23; entrée en vigueur au 29.08.1995 · Modif. 16 du 08.04.2014: Modification Al. 1; entrée en vigueur au 01.08.2014 · Modif. 19 du 30.11.2021: Modification Al. 1; entrée en vigueur au 01.06.2022
-[^23-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 24
 
-**Procédure d'enquête publique [^23-2]**
+**Procédure d'enquête publique [^23-1]**
 
 <sup>1</sup> Le projet de décision de classement, le cas échéant, le plan de classement sont soumis par le Service des forêts, de la faune et de la nature [^24-1] à une enquête publique. Ils sont déposés, avec les pièces annexées, pendant trente jours au greffe municipal de la commune sur le territoire de laquelle se trouve l'objet à classer, où le public peut en prendre connaissance. L'article 73 LATC [^24-2] est applicable par analogie.
 
-[^23-2]: Modif. 7 du 09.02.1994: Modification Art. 24; entrée en vigueur au 09.02.1994 · Modif. 9 du 20.02.1996: Modification Art. 24; entrée en vigueur au 30.04.1996 · Modif. 10 du 19.03.2002: Modification Art. 24; entrée en vigueur au 07.06.2002 · Modif. 11 du 11.02.2003: Modification Art. 24; entrée en vigueur au 01.01.2004
+[^23-1]: Modif. 7 du 09.02.1994: Modification Art. 24; entrée en vigueur au 09.02.1994 · Modif. 9 du 20.02.1996: Modification Art. 24; entrée en vigueur au 30.04.1996 · Modif. 10 du 19.03.2002: Modification Art. 24; entrée en vigueur au 07.06.2002 · Modif. 11 du 11.02.2003: Modification Art. 24; entrée en vigueur au 01.01.2004
 [^24-1]: Direction générale de l'environnement
 [^24-2]: Loi du 04.12.1985 sur l'aménagement du territoire et les constructions ([BLV 700.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/700.11?id=94980419-1c0b-4c3e-bf5d-6d37d57902ec))
 
@@ -308,7 +301,7 @@ décrète
 
 **Procédure de décision [^25-1]**
 
-<sup>1</sup> Le Département de la sécurité et de l'environnement rend la décision de classement et la publie.
+<sup>1</sup> Le département rend la décision de classement et la publie.
 
 <sup>2</sup> Il informe par avis recommandé les propriétaires, les opposants et les communes de sa décision.
 
@@ -325,7 +318,7 @@ décrète
 
 <sup>1</sup> La décision de classement a une durée illimitée.
 
-<sup>2</sup> Il ne peut être modifié ou abrogé que pour des motifs impérieux d'intérêt public ou si l'objet qu'il protège ne présente plus d'intérêt du point de vue de la présente loi. Le préavis de la Commission pour la protection de la nature, respectivement la Commission des monuments historiques est nécessaire.
+<sup>2</sup> Il ne peut être modifié ou abrogé que pour des motifs impérieux d'intérêt public ou si l'objet qu'il protège ne présente plus d'intérêt du point de vue de la présente loi. Le préavis de la Commission pour la protection de la nature est nécessaire.
 
 [^26-2]: Modif. 10 du 19.03.2002: Modification Al. 2; entrée en vigueur au 07.06.2002 · Modif. 19 du 30.11.2021: Modification Al. 2; entrée en vigueur au 01.06.2022
 
@@ -345,35 +338,31 @@ décrète
 
 <sup>1</sup> Sous réserve des dispositions découlant des articles 32 à 34 ci-après, l'entretien d'un objet classé incombe à son propriétaire.
 
-<sup>2</sup> Si besoin est, Département de la sécurité et de l'environnement, respectivement le département en charge des monuments, sites et archéologie [^29-1] lui fixe un délai convenable pour effectuer les travaux d'entretien nécessaires.
+<sup>2</sup> Si besoin est, le département lui fixe un délai convenable pour effectuer les travaux d'entretien nécessaires.
 
 <sup>3</sup> …
 
 [^sectionSectionIII-1]: Modif. 8 du 19.06.1995: Modification Al. 2; entrée en vigueur au 29.08.1995 · Modif. 13 du 28.10.2008: Abrogation Al. 3; entrée en vigueur au 01.01.2009 · Modif. 16 du 08.04.2014: Modification Al. 1; entrée en vigueur au 01.08.2014 · Modif. 19 du 30.11.2021: Modification Al. 2; entrée en vigueur au 01.06.2022
-[^29-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 30
 
-**[^29-2]**
+**[^29-1]**
 
-<sup>1</sup> Lorsque le propriétaire d'un objet classé lui a porté atteinte sans autorisation, il est tenu de le rétablir dans son état antérieur. Le Département de la sécurité et de l'environnement, respectivement le département en charge des monuments, sites et archéologie [^30-1] lui fixe un délai convenable à cet effet.
+<sup>1</sup> Lorsque le propriétaire d'un objet classé lui a porté atteinte sans autorisation, il est tenu de le rétablir dans son état antérieur. Le Département lui fixe un délai convenable à cet effet.
 
 <sup>2</sup> …
 
-[^29-2]: Modif. 8 du 19.06.1995: Modification Al. 1; entrée en vigueur au 29.08.1995 · Modif. 13 du 28.10.2008: Abrogation Al. 2; entrée en vigueur au 01.01.2009 · Modif. 16 du 08.04.2014: Modification Al. 1; entrée en vigueur au 01.08.2014 · Modif. 19 du 30.11.2021: Modification Al. 1; entrée en vigueur au 01.06.2022
-[^30-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^29-1]: Modif. 8 du 19.06.1995: Modification Al. 1; entrée en vigueur au 29.08.1995 · Modif. 13 du 28.10.2008: Abrogation Al. 2; entrée en vigueur au 01.01.2009 · Modif. 16 du 08.04.2014: Modification Al. 1; entrée en vigueur au 01.08.2014 · Modif. 19 du 30.11.2021: Modification Al. 1; entrée en vigueur au 01.06.2022
 
 #### Art. 31
 
-**[^30-2]**
+**[^30-1]**
 
-<sup>1</sup> S'agissant d'un immeuble, les frais engagés par l'Etat en application des articles 29, alinéa 3 et 30, alinéa 2, ci-dessus sont garantis par une hypothèque légale, conformément au code de droit privé judiciaire vaudois [^31-1] .
+<sup>1</sup> ...
 
-<sup>2</sup> L'hypothèque d'un montant supérieur à mille francs est inscrite au Registre foncier sur la réquisition Département de la sécurité et de l'environnement, respectivement le département en charge des monuments, sites et archéologie [^31-2] indiquant le nom du débiteur, les immeubles grevés et la durée de la garantie. La réquisition est accompagnée d'une copie de l'avis de perception certifiée conforme à l'original, ainsi que, le cas échéant, des décisions prises par l'autorité de recours.
+<sup>2</sup> L'hypothèque d'un montant supérieur à mille francs est inscrite au Registre foncier sur la réquisition Département indiquant le nom du débiteur et les immeubles grevés. La réquisition est accompagnée d'une copie de l'avis de perception certifiée conforme à l'original, ainsi que, le cas échéant, des décisions prises par l'autorité de recours.
 
-[^30-2]: Modif. 8 du 19.06.1995: Modification Al. 2; entrée en vigueur au 29.08.1995 · Modif. 15 du 16.12.2009: Modification Al. 1; entrée en vigueur au 01.01.2011 · Modif. 16 du 08.04.2014: Modification Al. 2; entrée en vigueur au 01.08.2014 · Modif. 19 du 30.11.2021: Abrogation Al. 1; entrée en vigueur au 01.06.2022; Modification Al. 2; entrée en vigueur au 01.06.2022
-[^31-1]: Code de droit privé judiciaire vaudois du 12.01.2010 ([BLV 211.02](https://prestations.vd.ch/pub/blv-publication/actes/consolide/211.02?id=ad4e8c23-b444-4fb7-82a3-3149dc38ed0e))
-[^31-2]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^30-1]: Modif. 8 du 19.06.1995: Modification Al. 2; entrée en vigueur au 29.08.1995 · Modif. 15 du 16.12.2009: Modification Al. 1; entrée en vigueur au 01.01.2011 · Modif. 16 du 08.04.2014: Modification Al. 2; entrée en vigueur au 01.08.2014 · Modif. 19 du 30.11.2021: Abrogation Al. 1; entrée en vigueur au 01.06.2022; Modification Al. 2; entrée en vigueur au 01.06.2022
 
 #### Art. 32
 
@@ -426,10 +415,9 @@ décrète
 - a. par un crédit annuel prévu au budget de l'Etat;
 - b. par des libéralités et autres prestations.
 
-<sup>2</sup> Il est géré par le Département de la sécurité et de l'environnement [^38-1] .
+<sup>2</sup> Il est géré par le département.
 
 [^37-1]: Modif. 8 du 19.06.1995: Modification Al. 2; entrée en vigueur au 29.08.1995 · Modif. 19 du 30.11.2021: Modification Al. 2; entrée en vigueur au 01.06.2022
-[^38-1]: Mise à jour par la loi du 19.03.2002 modifiant celle du 10.12.1969 sur la protection de la nature, des monuments et des sites (R 2002 128)
 
 ### Section V Dispositions diverses
 
@@ -560,40 +548,33 @@ décrète
 [^45d-3]: Modif. 17 du 11.11.2014: Introduction Art. 45e; entrée en vigueur au 01.02.2015
 [^45e-1]: Modif. 19 du 30.11.2021: Abrogation ; entrée en vigueur au 01.06.2022
 
-## Chapitre IV Protection générale des monuments historiques et des antiquités
+## Chapitre IV ...
 
 [^45e-1]
 
 #### Art. 46
 
-**Définition [^chapterChapitreIV-1]**
+**... [^chapterChapitreIV-1]**
 
-<sup>1</sup> Sont protégés conformément à la présente loi tous les monuments de la préhistoire, de l'histoire, de l'art et de l'architecture et les antiquités immobilières situés dans le canton, qui présentent un intérêt archéologique, historique, artistique, scientifique ou éducatif.
-
-<sup>2</sup> Sont également protégés les terrains contenant ces objets et leurs abords.
-
-<sup>3</sup> Aucune atteinte ne peut leur être portée qui en altère le caractère.
+...
 
 [^chapterChapitreIV-1]: Modif. 16 du 08.04.2014: Modification Al. 1; entrée en vigueur au 01.05.2015 · Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1-3; entrée en vigueur au 01.06.2022
 
 #### Art. 47
 
-**Mesures conservatoires [^46-1]**
+**... [^46-1]**
 
-<sup>1</sup> Lorsqu'un danger imminent menace un tel objet, le département en charge des monuments, sites et archéologie [^47-1] prend les mesures nécessaires à sa sauvegarde.
-
-<sup>2</sup> L'article 10, alinéas 2 et 3, est applicable.
+...
 
 [^46-1]: Modif. 16 du 08.04.2014: Modification Al. 1; entrée en vigueur au 01.08.2014 · Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1-2; entrée en vigueur au 01.06.2022
-[^47-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 48
 
-**[^47-2]**
+**... [^47-1]**
 
-<sup>1</sup> Si aucune enquête en vue du classement n'a été ouverte dans un délai de trois mois dès la date des mesures conservatoires, celles-ci deviennent caduques. En cas de nécessité, le Conseil d'Etat peut prolonger ce délai de six mois au plus.
+...
 
-[^47-2]: Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1; entrée en vigueur au 01.06.2022
+[^47-1]: Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1; entrée en vigueur au 01.06.2022
 
 ## Chapitre V Protection spéciale des monuments historiques et des antiquités
 
@@ -601,34 +582,25 @@ décrète
 
 #### Art. 49
 
-**Inventaire [^sectionSectionI-2]**
+**... [^sectionSectionI-2]**
 
-<sup>1</sup> Un inventaire sera dressé de tous les monuments de la préhistoire, de l'histoire, de l'art et de l'architecture et des antiquités immobilières situés dans le canton, qui méritent d'être conservés en raison de l'intérêt archéologique, historique, artistique, scientifique ou éducatif qu'ils présentent.
-
-<sup>1bis</sup> Lorsque cela renforce la compréhension des objectifs de sauvegarde ou lorsque les éléments relèvent de la protection des monuments historiques et des antiquités, des inventaires spécifiques peuvent être réalisés.
-
-<sup>2</sup> Dans tous les cas, la ou les communes concernées seront consultées.
+...
 
 [^sectionSectionI-2]: Modif. 14 du 17.12.2008: Introduction Al. 1bis; entrée en vigueur au 01.03.2009 · Modif. 16 du 08.04.2014: Modification Al. 1; entrée en vigueur au 01.05.2015 · Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1,1bis,2; entrée en vigueur au 01.06.2022
 
 #### Art. 50
 
-**Contenu de l'inventaire [^49-1]**
+**... [^49-1]**
 
-<sup>1</sup> L'inventaire comprend:
-
-- a. la désignation de l'objet inscrit, le cas échéant de ses abords, de l'intérêt qu'il présente et des dangers qui le menacent;
-- b. le cas échéant des photographies et un relevé;
-- c. les mesures de protection déjà prises;
-- d. les mesures de conservation ou de restauration nécessaires.
+...
 
 [^49-1]: Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1; entrée en vigueur au 01.06.2022
 
 #### Art. 51
 
-**Renvoi [^50-1]**
+**... [^50-1]**
 
-<sup>1</sup> Les articles 14 à 19 de la présente loi sont au surplus applicables par analogie, sous réserve de l'autorité compétente.
+...
 
 [^50-1]: Modif. 11 du 11.02.2003: Modification Art. 51; entrée en vigueur au 01.01.2004 · Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1; entrée en vigueur au 01.06.2022
 
@@ -636,153 +608,132 @@ décrète
 
 #### Art. 52
 
-**Classement [^sectionSectionII-1]**
+**... [^sectionSectionII-1]**
 
-<sup>1</sup> Pour assurer la protection d'un monument historique ou d'une antiquité au sens de l'article 46 de la présente loi, il peut être procédé à son classement par voie de décision assorti au besoin d'un plan de classement.
-
-<sup>2</sup> Dans tous les cas, la ou les communes concernées seront consultées.
+...
 
 [^sectionSectionII-1]: Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1-2; entrée en vigueur au 01.06.2022
 
 #### Art. 53
 
-**Contenu du classement [^52-1]**
+**... [^52-1]**
 
-<sup>1</sup> La décision de classement définit:
-
-- a. l'objet classé, le cas échéant ses abords et l'intérêt qu'il présente;
-- b. les mesures de protection déjà prises;
-- c. les mesures de conservation ou de restauration nécessaires.
+...
 
 [^52-1]: Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1; entrée en vigueur au 01.06.2022
 
 #### Art. 54
 
-**Renvoi [^53-1]**
+**... [^53-1]**
 
-<sup>1</sup> Les articles 22 à 28 de la présente loi sont applicables par analogie, sous réserve de l'autorité compétente.
+...
 
 [^53-1]: Modif. 11 du 11.02.2003: Modification Art. 54; entrée en vigueur au 01.01.2004 · Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1; entrée en vigueur au 01.06.2022
 [^54-1]: Modif. 19 du 30.11.2021: Abrogation ; entrée en vigueur au 01.06.2022
 
-### Section III Entretien et conservation des objets classés
+### Section III ...
 
 [^54-1]
 
 #### Art. 55
 
-**Dispositions générales [^sectionSectionIII-2]**
+**... [^sectionSectionIII-2]**
 
-<sup>1</sup> Sous réserve des dispositions de l'article 56 ci-après, les monuments historiques et les antiquités classés doivent être entretenus par leur propriétaire.
-
-<sup>2</sup> Les articles 29, alinéa 2, 30 et 31 sont au surplus applicables, sous réserve de l'autorité compétente.
+...
 
 [^sectionSectionIII-2]: Modif. 11 du 11.02.2003: Modification Al. 2; entrée en vigueur au 01.01.2004 · Modif. 13 du 28.10.2008: Modification Al. 2; entrée en vigueur au 01.01.2009 · Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1-2; entrée en vigueur au 01.06.2022
 
 #### Art. 56
 
-**Participation financière de l'Etat [^55-1]**
+**... [^55-1]**
 
-<sup>1</sup> L'Etat peut participer financièrement aux fouilles ainsi qu'à l'entretien et à la restauration des monuments historiques et antiquités classés.
+...
 
 [^55-1]: Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1; entrée en vigueur au 01.06.2022
 
 #### Art. 57
 
-**[^56-1]**
+**... [^56-1]**
 
-<sup>1</sup> Le département en charge des monuments, sites et archéologie [^57-1] peut réduire ou supprimer les subsides alloués pour des fouilles ou des restaurations lorsque les travaux ont été exécutés de manière non conforme aux conditions prescrites.
+...
 
 [^56-1]: Modif. 16 du 08.04.2014: Modification Al. 1; entrée en vigueur au 01.08.2014 · Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1; entrée en vigueur au 01.06.2022
-[^57-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 58
 
-**Délégation de compétence [^57-2]**
+**... [^57-1]**
 
-<sup>1</sup> L'Etat peut confier l'entretien et la restauration d'objets protégés aux communes, à des personnes physiques ou morales poursuivant les buts définis à l'article premier.
+...
 
-<sup>2</sup> Il peut accorder des subventions pour couvrir tout ou partie des frais découlant de cette tâche.
-
-[^57-2]: Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1-2; entrée en vigueur au 01.06.2022
+[^57-1]: Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1-2; entrée en vigueur au 01.06.2022
 
 #### Art. 59
 
-**Dispositions spéciales [^58-1]**
+**... [^58-1]**
 
-<sup>1</sup> Les dispositions spéciales pouvant figurer à la décision de classement sont réservées.
+...
 
 [^58-1]: Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1; entrée en vigueur au 01.06.2022
 [^59-1]: Modif. 19 du 30.11.2021: Abrogation ; entrée en vigueur au 01.06.2022
 
-### Section IV Fonds cantonal des monuments historiques
+### Section IV ...
 
 [^59-1]
 
 #### Art. 60
 
-**Fonds [^sectionSectionIV-1]**
+**... [^sectionSectionIV-1]**
 
-<sup>1</sup> Pour assurer le financement des tâches incombant à l'Etat en matière de conservation des monuments historiques et des antiquités, il est créé un «Fonds cantonal des monuments historiques».
+...
 
 [^sectionSectionIV-1]: Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1; entrée en vigueur au 01.06.2022
 
 #### Art. 61
 
-**Financement du fonds [^60-1]**
+**... [^60-1]**
 
-<sup>1</sup> Ce fonds est alimenté par:
-
-- a. un crédit annuel prévu au budget de l'Etat;
-- b. des libéralités et autres prestations.
-
-<sup>2</sup> Il est géré par le département en charge des monuments, sites et archéologie [^61-1] .
+...
 
 [^60-1]: Modif. 16 du 08.04.2014: Modification Al. 2; entrée en vigueur au 01.08.2014 · Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1-2; entrée en vigueur au 01.06.2022
-[^61-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
-[^61-2]: Modif. 19 du 30.11.2021: Abrogation ; entrée en vigueur au 01.06.2022
+[^61-1]: Modif. 19 du 30.11.2021: Abrogation ; entrée en vigueur au 01.06.2022
 
-### Section V Dispositions diverses
+### Section V ...
 
-[^61-2]
+[^61-1]
 
 #### Art. 62
 
-**Mention du classement au registre foncier [^sectionSectionV-1]**
+**... [^sectionSectionV-1]**
 
-<sup>1</sup> Le classement d'un immeuble est mentionné au registre foncier conformément à l'article 962 CCS [^62-1] .
+...
 
 [^sectionSectionV-1]: Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1; entrée en vigueur au 01.06.2022
-[^62-1]: [Code civil suisse du 10 décembre 1907, RS 210](https://www.admin.ch/opc/fr/classified-compilation/19070042/index.html)
 
 #### Art. 63
 
-**… [^62-2]**
+**… [^62-1]**
 
-[^62-2]: Modif. 4 du 25.11.1974: Abrogation Art. 63; entrée en vigueur au 01.01.1975
+[^62-1]: Modif. 4 du 25.11.1974: Abrogation Art. 63; entrée en vigueur au 01.01.1975
 
 #### Art. 64
 
-**Acquisitions par l'Etat [^63-1]**
+**... [^63-1]**
 
-<sup>1</sup> L'Etat peut procéder par voie contractuelle ou par voie d'expropriation à l'acquisition d'un monument historique ou d'une antiquité.
-
-<sup>2</sup> La loi cantonale sur l'expropriation [^64-1] est applicable.
+...
 
 [^63-1]: Modif. 9 du 20.02.1996: Modification Al. 2; entrée en vigueur au 30.04.1996 · Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1-2; entrée en vigueur au 01.06.2022
-[^64-1]: Loi du 25.11.1974 sur l'expropriation ([BLV 710.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/710.01?id=225fca58-33c6-460b-b444-a4fffce598e2))
 
 #### Art. 65
 
-**Droit de préemption [^64-2]**
+**... [^64-1]**
 
-<sup>1</sup> L'Etat a un droit de préemption légal sur les monuments historiques classés.
+<sup>1</sup> ...
 
 <sup>2</sup> …
 
-<sup>3</sup> Ce droit doit s'exercer dans un délai de trois mois.
+<sup>3</sup> ...
 
-[^64-2]: Modif. 16 du 08.04.2014: Modification Al. 1; entrée en vigueur au 01.05.2015; Abrogation Al. 2; entrée en vigueur au 01.05.2015 · Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1,3; entrée en vigueur au 01.06.2022
+[^64-1]: Modif. 16 du 08.04.2014: Modification Al. 1; entrée en vigueur au 01.05.2015; Abrogation Al. 2; entrée en vigueur au 01.05.2015 · Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1,3; entrée en vigueur au 01.06.2022
 
 #### Art. 66
 
@@ -794,31 +745,27 @@ décrète
 
 #### Art. 67
 
-**Régions archéologiques [^chapterChapitreVI-1]**
+**... [^chapterChapitreVI-1]**
 
-<sup>1</sup> Le département en charge des monuments, sites et archéologie [^67-1] détermine les régions archéologiques dans lesquelles tous travaux dans le sol ou sous les eaux doivent faire l'objet d'une autorisation.
+...
 
 [^chapterChapitreVI-1]: Modif. 16 du 08.04.2014: Modification Al. 1; entrée en vigueur au 01.08.2014 · Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1; entrée en vigueur au 01.06.2022
-[^67-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 68
 
-**Signalement des trouvailles [^67-2]**
+**Signalement des trouvailles [^67-1]**
 
-<sup>1</sup> La découverte de toute construction ancienne ou de tout objet archéologique doit être immédiatement signalée au département en charge des monuments, sites et archéologie [^68-1] et la découverte de toute curiosité naturelle au sens de l'article 724 CCS [^68-2] au Département de la sécurité et de l'environnement [^68-3] .
+<sup>1</sup> Toute découverte de curiosité naturelle doit être immédiatement signalée au département, conformément à l'article 27 de la loi du 8 avril 2014 sur le patrimoine mobilier et immatériel (LPMI).
 
-[^67-2]: Modif. 8 du 19.06.1995: Modification Art. 68; entrée en vigueur au 29.08.1995 · Modif. 16 du 08.04.2014: Modification Al. 1; entrée en vigueur au 01.08.2014 · Modif. 19 du 30.11.2021: Modification Al. 1; entrée en vigueur au 01.06.2022
-[^68-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
-[^68-2]: [Code civil suisse du 10 décembre 1907, RS 210](https://www.admin.ch/opc/fr/classified-compilation/19070042/index.html)
-[^68-3]: Mise à jour par la loi du 19.03.2002 modifiant celle du 10.12.1969 sur la protection de la nature, des monuments et des sites (R 2002 128)
+[^67-1]: Modif. 8 du 19.06.1995: Modification Art. 68; entrée en vigueur au 29.08.1995 · Modif. 16 du 08.04.2014: Modification Al. 1; entrée en vigueur au 01.08.2014 · Modif. 19 du 30.11.2021: Modification Al. 1; entrée en vigueur au 01.06.2022
 
 #### Art. 69
 
-**Suspension des travaux [^68-4]**
+**Suspension des travaux [^68-1]**
 
 <sup>1</sup> Des travaux ne peuvent être poursuivis, sur les lieux de la découverte, que moyennant l'accord du département concerné.
 
-[^68-4]: Modif. 8 du 19.06.1995: Modification Art. 69; entrée en vigueur au 29.08.1995
+[^68-1]: Modif. 8 du 19.06.1995: Modification Art. 69; entrée en vigueur au 29.08.1995
 
 #### Art. 70
 
@@ -834,22 +781,21 @@ décrète
 
 #### Art. 72
 
-**Fouilles archéologiques [^71-1]**
+**... [^71-1]**
 
-<sup>1</sup> Aucune fouille archéologique ne peut être entreprise sans l'autorisation du département en charge des monuments, sites et archéologie [^72-1] . L'autorisation d'entreprendre de telles fouilles n'entraîne pas de droit sur les objets découverts.
+...
 
 [^71-1]: Modif. 16 du 08.04.2014: Modification Al. 1; entrée en vigueur au 01.08.2014 · Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1; entrée en vigueur au 01.06.2022
-[^72-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 73
 
-**[^72-2]**
+**[^72-1]**
 
-<sup>1</sup> Le propriétaire d'un fonds dans lequel se trouvent des curiosités naturelles ou des antiquités offrant un intérêt scientifique est tenu de permettre les fouilles nécessaires.
+<sup>1</sup> Le propriétaire d'un fonds dans lequel se trouvent des curiosités naturelles ou offrant un intérêt scientifique est tenu de permettre les fouilles nécessaires.
 
 <sup>2</sup> De telles fouilles peuvent donner droit à une indemnité au sens de l'article 724, al. 2 CCS [^73-1] .
 
-[^72-2]: Modif. 19 du 30.11.2021: Modification Al. 1; entrée en vigueur au 01.06.2022
+[^72-1]: Modif. 19 du 30.11.2021: Modification Al. 1; entrée en vigueur au 01.06.2022
 [^73-1]: [Code civil suisse du 10 décembre 1907, RS 210](https://www.admin.ch/opc/fr/classified-compilation/19070042/index.html)
 
 ## Chapitre VII Musées cantonaux et musées locaux
@@ -880,7 +826,7 @@ décrète
 
 **Haute surveillance [^sectionSectionI-3]**
 
-<sup>1</sup> Le Conseil d'Etat exerce la haute surveillance en matière de protection de la nature, des monuments et des sites.
+<sup>1</sup> Le Conseil d'Etat exerce la haute surveillance en matière de protection de la nature.
 
 [^sectionSectionI-3]: Modif. 19 du 30.11.2021: Modification Al. 1; entrée en vigueur au 01.06.2022
 
@@ -894,7 +840,7 @@ décrète
 - 2\. approuve les inventaires ;
 - 3\. ...
 - 4\. tranche les conflits de compétence que pourrait soulever l'application de la présente loi et de ses règlements d'application ;
-- 5\. prend toutes mesures utiles pour assurer la collaboration avec les autorités des autres cantons en matière de protection de la nature, des monuments et des sites ;prend toutes mesures utiles pour assurer la collaboration avec les autorités des autres cantons en matière de protection de la nature, des monuments et des sites ;
+- 5\. prend toutes mesures utiles pour assurer la collaboration avec les autorités des autres cantons en matière de protection de la nature ;
 - 6\. statue sur les demandes de subventions supérieures à Fr. 200'000.-.
 
 [^77-1]: Modif. 2 du 23.02.1972: Modification Al. 1 ch.8; entrée en vigueur au 01.04.1972 · Modif. 6 du 18.12.1989: Abrogation Al. 1 ch.5; entrée en vigueur au 01.07.1991 · Modif. 8 du 19.06.1995: Modification Al. 1 ch.8; entrée en vigueur au 29.08.1995 · Modif. 9 du 20.02.1996: Abrogation Al. 1 ch.3; entrée en vigueur au 30.04.1996 · Modif. 14 du 17.12.2008: Modification Al. 1 ch.6; entrée en vigueur au 01.03.2009 · Modif. 16 du 08.04.2014: Abrogation Al. 1 ch.3; entrée en vigueur au 01.05.2015 · Modif. 19 du 30.11.2021: Modification Al. 1, 5; entrée en vigueur au 01.06.2022
@@ -938,47 +884,31 @@ décrète
 [^80-1]: Modif. 8 du 19.06.1995: Modification Al. 1 ch.5; entrée en vigueur au 29.08.1995 · Modif. 11 du 11.02.2003: Abrogation Al. 1 ch.5; entrée en vigueur au 01.01.2004
 [^81-1]: Modif. 19 du 30.11.2021: Abrogation ; entrée en vigueur au 01.06.2022
 
-### Section III Commission des monuments historiques
+### Section III ...
 
 [^81-1]
 
 #### Art. 82
 
-**Composition [^sectionSectionIII-3]**
+**... [^sectionSectionIII-3]**
 
-<sup>1</sup> La Commission des monuments historiques est composée de onze à treize membres, nommés par le Conseil d'Etat.
-
-<sup>2</sup> Elle comprend notamment le conservateur cantonal des monuments et sites, l'archéologue cantonal, l'architecte cantonal, des professionnels actifs dans le domaine de l'architecture, de l'archéologie, de l'histoire régionale et de la formation académique de ces disciplines, ainsi que deux membres au moins d'associations privées poursuivant les buts définis par la présente loi.
-
-<sup>3</sup> Un représentant du département en charge du patrimoine culturel mobilier et immatériel [^82-1] participe aux travaux lorsque ceux-ci portent sur un bien culturel immobilier lié à un élément du patrimoine culturel mobilier ou immatériel.
+...
 
 [^sectionSectionIII-3]: Modif. 10 du 19.03.2002: Modification Al. 2; entrée en vigueur au 07.06.2002 · Modif. 16 du 08.04.2014: Modification Al. 2,2; entrée en vigueur au 01.11.2014; Introduction Al. 3; entrée en vigueur au 01.11.2014 · Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1-3; entrée en vigueur au 01.06.2022
-[^82-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 83
 
-**Compétences [^82-2]**
+**... [^82-1]**
 
-<sup>1</sup> La commission a un caractère consultatif.
+...
 
-<sup>2</sup> Elle peut proposer toutes mesures propres à concourir aux buts de la présente loi.
-
-<sup>3</sup> Elle peut déléguer ses pouvoirs à des sous-commissions permanentes ou occasionnelles.
-
-[^82-2]: Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1-3; entrée en vigueur au 01.06.2022
+[^82-1]: Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1-3; entrée en vigueur au 01.06.2022
 
 #### Art. 84
 
-**[^83-1]**
+**... [^83-1]**
 
-<sup>1</sup> Elle donne son préavis notamment :
-
-- 1\. sur l'inscription à l'inventaire des monuments historiques, des sites bâtis et archéologiques ;
-- 2\. sur les décisions de classement et de déclassement des monuments historiques, des sites bâtis et archéologiques ;
-- 3\. sur les achats ou expropriations envisagés ;
-- 4\. sur les projets de travaux affectant des monuments historiques, des sites bâtis et archéologiques (art. 47, 54, 58) ;
-- 5\. ...
-- 6\. sur tout autre point relevant de la protection, de la conservation et de la mise en valeur des monuments historiques, des sites bâtis et archéologiques du canton.
+...
 
 [^83-1]: Modif. 11 du 11.02.2003: Abrogation Al. 1 ch.5; entrée en vigueur au 01.01.2004 · Modif. 16 du 08.04.2014: Modification Al. 1 ch.1,2,4; entrée en vigueur au 01.11.2014; Abrogation Al. 1 ch.5; entrée en vigueur au 01.11.2014; Introduction Al. 1 ch.6; entrée en vigueur au 01.11.2014 · Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1; entrée en vigueur au 01.06.2022
 
@@ -988,7 +918,7 @@ décrète
 
 **Commissions spéciales [^sectionSectionIV-2]**
 
-<sup>1</sup> Le Conseil d'Etat peut nommer des commissions spéciales pour l'exécution de missions déterminées relatives à la protection de la nature, des monuments et des sites.
+<sup>1</sup> Le Conseil d'Etat peut nommer des commissions spéciales pour l'exécution de missions déterminées relatives à la protection de la nature.
 
 [^sectionSectionIV-2]: Modif. 19 du 30.11.2021: Modification Al. 1; entrée en vigueur au 01.06.2022
 
@@ -996,7 +926,7 @@ décrète
 
 **[^85-1]**
 
-<sup>1</sup> La commission pour la protection de la nature et la commission des monuments historiques peuvent désigner dans les diverses régions du canton des correspondants ayant mission d'informateurs.
+<sup>1</sup> La commission pour la protection de la nature peut désigner dans les diverses régions du canton des correspondants ayant mission d'informateurs.
 
 [^85-1]: Modif. 19 du 30.11.2021: Modification Al. 1; entrée en vigueur au 01.06.2022
 
@@ -1006,36 +936,31 @@ décrète
 
 **Compétences [^sectionSectionV-2]**
 
-<sup>1</sup> L'exécution de la présente loi relève respectivement du département en charge du patrimoine naturel et paysager pour la protection de la nature et du paysage [^87-1] , et du département en charge des monuments, sites et archéologie pour la protection des monuments historiques et des sites archéologiques (ci-après : le département compétent) [^87-2] .
+<sup>1</sup> L'exécution de la présente loi relève du département.
 
 <sup>2</sup> …
 
 <sup>3</sup> …
 
-<sup>4</sup> Le département compétent peut confier à des spécialistes, notamment à l'archéologue cantonal, au conservateur cantonal des monuments et des sites et au conservateur de la nature, certaines tâches qui lui incombent.
+<sup>4</sup> Le département peut confier à des spécialistes, notamment au conservateur de la nature, certaines tâches qui lui incombent.
 
 <sup>5</sup> …
 
 [^sectionSectionV-2]: Modif. 2 du 23.02.1972: Modification Al. 4; entrée en vigueur au 01.04.1972 · Modif. 8 du 19.06.1995: Modification Art. 87; entrée en vigueur au 29.08.1995 · Modif. 10 du 19.03.2002: Modification Al. 1,2,4; entrée en vigueur au 07.06.2002 · Modif. 14 du 17.12.2008: Modification Al. 5; entrée en vigueur au 01.03.2009 · Modif. 16 du 08.04.2014: Modification Al. 1; entrée en vigueur au 01.08.2014; Modification Al. 1,4; entrée en vigueur au 01.05.2015; Abrogation Al. 2,3,5; entrée en vigueur au 01.05.2015 · Modif. 19 du 30.11.2021: Modification Al. 1,4; entrée en vigueur au 01.06.2022
-[^87-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
-[^87-2]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 87a
 
-**Recours et ordre de remise en état [^87-3]**
+**... [^87-1]**
 
-<sup>1</sup> Le chef du département en charge des monuments, sites et archéologie est compétent pour recourir au sens de l'article 104a LATC [^87a-1] , lorsqu'il invoque des griefs relatifs à la protection du patrimoine bâti.
+...
 
-<sup>2</sup> Il est également compétent pour suspendre et, le cas échéant, supprimer ou modifier, aux frais du propriétaire, tous travaux qui ne sont pas conformes aux prescriptions légales ou réglementaires en matière de protection du patrimoine bâti, conformément à l'article 105 LATC. Il peut déléguer cette tâche au service.
-
-[^87-3]: Modif. 18 du 14.12.2016: Introduction Art. 87a; entrée en vigueur au 01.01.2017 · Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1-2; entrée en vigueur au 01.06.2022
-[^87a-1]: Loi du 04.12.1985 sur l'aménagement du territoire et les constructions ([BLV 700.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/700.11?id=94980419-1c0b-4c3e-bf5d-6d37d57902ec))
+[^87-1]: Modif. 18 du 14.12.2016: Introduction Art. 87a; entrée en vigueur au 01.01.2017 · Modif. 19 du 30.11.2021: Abrogation tArt; entrée en vigueur au 01.06.2022; Abrogation Al. 1-2; entrée en vigueur au 01.06.2022
 
 #### Art. 88
 
-**… [^87a-2]**
+**… [^87a-1]**
 
-[^87a-2]: Modif. 16 du 08.04.2014: Abrogation Art. 88; entrée en vigueur au 01.05.2015
+[^87a-1]: Modif. 16 du 08.04.2014: Abrogation Art. 88; entrée en vigueur au 01.05.2015
 [^88-1]: Modif. 8 du 19.06.1995: Abrogation ; entrée en vigueur au 29.08.1995
 
 ### Section VI …
@@ -1054,7 +979,7 @@ décrète
 
 **Droit de recours [^89-1]**
 
-<sup>1</sup> Outre les propriétaires touchés, les communes, de même que les associations d'importance cantonale, qui, aux termes de leurs statuts, se vouent à la protection de la nature, des monuments et des sites, ont qualité pour recourir contre les décisions prises en application de la présente loi et susceptibles de recours.
+<sup>1</sup> Outre les propriétaires touchés, les communes, de même que les associations d'importance cantonale, qui, aux termes de leurs statuts, se vouent à la protection de la nature, ont qualité pour recourir contre les décisions prises en application de la présente loi et susceptibles de recours.
 
 [^89-1]: Modif. 19 du 30.11.2021: Modification Al. 1; entrée en vigueur au 01.06.2022
 
@@ -1092,14 +1017,13 @@ décrète
 
 **[^95-2]**
 
-<sup>1</sup> Sont et demeurent classés en vertu de la présente loi, les monuments historiques, antiquités, sites ou curiosités naturelles classés en vertu de la loi du 4 juin 1951 sur la conservation des antiquités et des monuments historiques [^96-1] .
+<sup>1</sup> Sont et demeurent classés en vertu de la présente loi les sites ou curiosités naturelles classés en vertu de la loi du 4 juin 1951 sur la conservation des antiquités et des monuments historiques.
 
 <sup>2</sup> Sont et demeurent reconnus les musées locaux reconnus en vertu de l'article 26 de ladite loi.
 
-<sup>3</sup> Les régions archéologiques déterminées en application de ladite loi subsistent également.
+<sup>3</sup> ...
 
 [^95-2]: Modif. 19 du 30.11.2021: Modification Al. 1; entrée en vigueur au 01.06.2022; Abrogation Al. 3; entrée en vigueur au 01.06.2022
-[^96-1]: R 1951 p.83
 
 #### Art. 97
 
