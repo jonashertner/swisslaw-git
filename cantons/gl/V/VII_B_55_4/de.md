@@ -3,20 +3,19 @@ canton: GL
 number: VII B/55/4
 title: Verordnung über den Schutz und die Nutzung der Anlagen des Linthwerkes
 language: de
-version: 2016-05-27
-valid_until: 2022-05-31
-version_adopted: 2016-03-17
+version: 2022-06-01
+version_adopted: 2022-06-01
 adopted: 2003-11-20
 in_force: 2004-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-B.55.4"
-pdf: "https://gesetze.gl.ch/api/de/versions/1871/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2341/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Schutz und die Nutzung der Anlagen des Linthwerkes
 
-Vom 20.11.2003 (Stand 27.05.2016)
+Vom 20.11.2003 (Stand 01.06.2022)
 
 Die Linthkommission,
 
@@ -301,7 +300,7 @@ verordnet:
 
 **Einmalige Konzessionsgebühren**
 
-<sup>1</sup> Die einmalige Konzessionsgebühr beträgt 1000 bis 200'000 Franken.
+<sup>1</sup> Die einmalige Konzessionsgebühr beträgt 1000 bis 200 000 Franken. Für die Wärme- beziehungsweise Kältegewinnung beträgt die Gebühr 0.2 bis 5 Rappen pro Kubikmeter des während eines Jahres bezogenen Wassers.
 
 <sup>2</sup> Mit Zustimmung der Konzessionsbehörde kann die Bezahlung der einmaligen Konzessionsgebühr auf höchstens fünf Jahre aufgeteilt werden. Die so gestundete Summe ist angemessen zu verzinsen.
 
@@ -309,11 +308,11 @@ verordnet:
 
 **Wiederkehrende Konzessionsgebühren**
 
-<sup>1</sup> Für die konzessionspflichtige Entnahme von Wasser beträgt die Grundgebühr 3 Franken pro Minutenliter. Zusätzlich ist eine Verbrauchsgebühr von 4 Rappen pro Kubikmeter des gemessenen Wasserbezuges zu entrichten. Für Wasserentnahmen zur Wärmegewinnung ist ausschliesslich Absatz 3 dieses Artikels anwendbar.
+<sup>1</sup> Für die konzessionspflichtige Entnahme von Wasser beträgt die Grundgebühr 3 Franken pro Minutenliter. Zusätzlich ist eine Verbrauchsgebühr von 4 Rappen pro Kubikmeter des gemessenen Wasserbezuges zu entrichten. Für Wasserentnahmen zur Wärme- beziehungsweise Kältegewinnung ist ausschliesslich Absatz 3 dieses Artikels anwendbar.
 
 <sup>2</sup> Für die Entnahme von Kies, Sand und Steinen wird eine Konzessionsgebühr von 1 bis 22 Franken pro m³ erhoben.
 
-<sup>3</sup> Für die Wärmeentnahme ist eine jährliche Konzessionsgebühr von 5.50 Franken pro kW maximal zulässiger Wärmeentnahme zu entrichten.
+<sup>3</sup> Für die thermische Nutzung beträgt der Wasserzins 0.2 bis 10 Rappen pro Kubikmeter des bezogenen Wassers.
 
 <sup>4</sup> Für Bootsstationierungsplätze wird eine jährliche Konzessionsgebühr von 250 bis 600 Franken pro Stationierungsplatz erhoben.
 
