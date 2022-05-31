@@ -4,13 +4,13 @@ number: "351"
 title: Verordnung über die Luzerner Polizei
 short: PolV
 language: de
-version: 2021-11-01
-valid_until: 2022-05-31
-version_adopted: 2021-09-28
+version: 2022-06-01
+valid_until: 2022-12-31
+version_adopted: 2022-07-05
 adopted: 2004-04-06
 in_force: 2004-05-01
 url: "https://srl.lu.ch/app/de/texts_of_law/351"
-pdf: "https://srl.lu.ch/api/de/versions/3831/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3928/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3831/pdf_file"
 
 (PolV)
 
-vom 06.04.2004 (Stand 01.11.2021)
+vom 06.04.2004 (Stand 01.06.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -54,25 +54,26 @@ beschliesst:
 
 <sup>2</sup> Die Luzerner Polizei ist zuständig für
 
-- a. Massnahmen nach dem Bundesgesetz über Massnahmen zur Wahrung der inneren Sicherheit (BWIS) vom 21. März 1997[^2-1]; insbesondere kann sie beim zuständigen Bundesamt Ausreisebeschränkungen beantragen,
-- b. Bewilligungen nach Artikel 3a Absatz 1 und Massnahmen nach den Artikeln 3a Absätze 2–4, 3b und 4–9 sowie Meldungen nach Artikel 13 Absatz 3 des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen vom 15. November 2007/2. Februar 2012[^2-2].
+- a. Massnahmen nach dem Bundesgesetz über Massnahmen zur Wahrung der inneren Sicherheit (BWIS) vom 21. März 1997[^2-1]; insbesondere beantragt sie beim zuständigen Bundesamt Ausreisebeschränkungen und Massnahmen zur Verhinderung terroristischer Aktivitäten gemäss den Artikeln 23k–23q BWIS; für den Antrag auf Massnahmen gemäss den Artikeln 23k–23q BWIS spricht sie sich gegebenenfalls mit dem Amt für Migration und der Staatsanwaltschaft ab; für die elektronischen Überwachungen nach Artikel 23q BWIS kann sie mit der gemäss § 1 der Verordnung über den Vollzug zivilgerichtlicher Anordnungen der elektronischen Überwachung zum Schutz vor Gewalt, Drohungen oder Nachstellungen vom 23. November 2021[^2-2] zuständigen Dienststelle oder mit der von dieser beauftragten privaten Einrichtung und mit anderen Kantonen Leistungsvereinbarungen abschliessen oder im Einzelfall zusammenarbeiten,
+- b. Bewilligungen nach Artikel 3a Absatz 1 und Massnahmen nach den Artikeln 3a Absätze 2–4, 3b und 4–9 sowie Meldungen nach Artikel 13 Absatz 3 des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen vom 15. November 2007/2. Februar 2012[^2-3].
 
-<sup>3</sup> Die in Anwendung des BWIS und des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen erlassenen Verfügungen können nach den Vorschriften des Gesetzes über die Verwaltungsrechtspflege vom 3. Juli 1972[^2-3] angefochten werden. Vorbehalten bleiben besondere Bestimmungen über die Anfechtbarkeit im BWIS, im Konkordat oder im Gesetz über die Luzerner Polizei.
+<sup>3</sup> Die in Anwendung des BWIS und des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen erlassenen Verfügungen können nach den Vorschriften des Gesetzes über die Verwaltungsrechtspflege vom 3. Juli 1972[^2-4] angefochten werden. Vorbehalten bleiben besondere Bestimmungen über die Anfechtbarkeit im BWIS, im Konkordat oder im Gesetz über die Luzerner Polizei.
 
-<sup>4</sup> Die Luzerner Polizei nimmt die Aufgaben gemäss der Interkantonalen Vereinbarung über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten (ViCLAS-Konkordat) vom 2. April 2009[^2-4] wahr, soweit diese Aufgaben nicht anderen Behörden zugewiesen sind. Sie führt insbesondere die ViCLAS-Aussenstelle Zentralschweiz.
+<sup>4</sup> Die Luzerner Polizei nimmt die Aufgaben gemäss der Interkantonalen Vereinbarung über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten (ViCLAS-Konkordat) vom 2. April 2009[^2-5] wahr, soweit diese Aufgaben nicht anderen Behörden zugewiesen sind. Sie führt insbesondere die ViCLAS-Aussenstelle Zentralschweiz.
 
 <sup>5</sup> …
 
-<sup>6</sup> Die Luzerner Polizei ist die kantonale Vollzugsbehörde im Sinn von Artikel 9 des Bundesgesetzes über den Nachrichtendienst (NDG) vom 25. September 2015[^2-5].
+<sup>6</sup> Die Luzerner Polizei ist die kantonale Vollzugsbehörde im Sinn von Artikel 9 des Bundesgesetzes über den Nachrichtendienst (NDG) vom 25. September 2015[^2-6].
 
-<sup>7</sup> Das Polizeikommando kann die Überwachung des Post- und Fernmeldeverkehrs anordnen, um eine verurteilte Person zu finden (Art. 36 und 37 Bundesgesetz betreffend die Überwachung des Post- und Fernmeldeverkehrs vom 18. März 2016[^2-6]). Die Anordnung bedarf der Genehmigung des Zwangsmassnahmengerichtes.
+<sup>7</sup> Das Polizeikommando kann die Überwachung des Post- und Fernmeldeverkehrs anordnen, um eine verurteilte Person zu finden (Art. 36 und 37 Bundesgesetz betreffend die Überwachung des Post- und Fernmeldeverkehrs vom 18. März 2016[^2-7]). Die Anordnung bedarf der Genehmigung des Zwangsmassnahmengerichtes.
 
 [^2-1]: SR [120](https://db.clex.ch/link/Bund/120/de)
-[^2-2]: SRL Nr. [353](https://srl.lu.ch/data/353/de)
-[^2-3]: SRL Nr. [40](https://srl.lu.ch/data/40/de)
-[^2-4]: SRL Nr. [354](https://srl.lu.ch/data/354/de)
-[^2-5]: SR [121](https://db.clex.ch/link/Bund/121/de)
-[^2-6]: SR [780.1](https://db.clex.ch/link/Bund/780.1/de)
+[^2-2]: SRL Nr. [203a](https://srl.lu.ch/data/203a/de)
+[^2-3]: SRL Nr. [353](https://srl.lu.ch/data/353/de)
+[^2-4]: SRL Nr. [40](https://srl.lu.ch/data/40/de)
+[^2-5]: SRL Nr. [354](https://srl.lu.ch/data/354/de)
+[^2-6]: SR [121](https://db.clex.ch/link/Bund/121/de)
+[^2-7]: SR [780.1](https://db.clex.ch/link/Bund/780.1/de)
 
 #### § 2a
 
