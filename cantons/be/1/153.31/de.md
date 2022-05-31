@@ -4,20 +4,21 @@ number: "153.31"
 title: Gesetz über die finanziellen Leistungen an die Mitglieder des Regierungsrates
 short: FLRG
 language: de
-version: 2003-01-01
-valid_until: 2022-05-31
-version_adopted: 2002-03-27
+version: 2022-06-01
+version_adopted: 2021-09-07
 adopted: 2002-03-27
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/153.31"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/94/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2573/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die finanziellen Leistungen an die Mitglieder des Regierungsrates
 
-vom 27.03.2002 (Stand 01.01.2003)
+(FLRG)
+
+vom 27.03.2002 (Stand 01.06.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -29,11 +30,11 @@ beschliesst:
 
 #### Art. 1
 
-**Lohn und Sozialzulagen**
+**Gehalt sowie Familien- und Betreuungszulagen**
 
-<sup>1</sup> Der Lohn der Mitglieder des Regierungsrates entspricht 115 Prozent des Maximums der höchsten für das Kantonspersonal geltenden Lohnklasse.
+<sup>1</sup> Das Gehalt der Mitglieder des Regierungsrates entspricht 115 Prozent des Maximums der höchsten für das Kantonspersonal geltenden Gehaltsklasse.
 
-<sup>2</sup> Die Mitglieder des Regierungsrates haben Anspruch auf Sozialzulagen nach den für das Kantonspersonal geltenden Bestimmungen.
+<sup>2</sup> Die Mitglieder des Regierungsrates haben Anspruch auf Familien- und Betreuungszulagen nach den für das Kantonspersonal geltenden Bestimmungen.
 
 <sup>3</sup> Im Übrigen gilt sinngemäss das allgemeine Personalrecht.
 
@@ -61,57 +62,94 @@ beschliesst:
 
 <sup>2</sup> Im Übrigen regelt der Regierungsrat die Einzelheiten des Auslagenersatzes und den Anspruch auf die Benutzung der kantonalen Infrastruktur zu dienstlichen Zwecken durch Verordnung.
 
-## 2 Vorsorgerechtliche Sonderregelungen
+## 2 Berufliche Vorsorge
 
 #### Art. 5
 
-**Grundsatz**
-
-<sup>1</sup> Die Bernische Pensionskasse (BPK) versichert die Mitglieder des Regierungsrates gegen die wirtschaftlichen Folgen von Alter, Tod und Invalidität.
+<sup>1</sup> Die Bernische Pensionskasse (BPK) versichert die Mitglieder des Regierungsrates gegen die wirtschaftlichen Folgen von Alter, Invalidität und Tod.
 
 <sup>2</sup> Sofern nachfolgend keine besonderen Regelungen getroffen werden, gelten für die Mitglieder des Regierungsrates die gleichen Bestimmungen wie für das übrige bei der BPK versicherte Kantonspersonal.
 
 #### Art. 6
 
-**Einkauf bei Amtsantritt**
+**…**
 
-<sup>1</sup> Bei der Amtsübernahme sind Austrittsleistungen anderer Vorsorgeeinrichtungen an die BPK zu überweisen. Sie werden für den Einkauf verwendet.
+## 2a Finanzielle Leistungen nach dem Ausscheiden aus dem Amt
 
 #### Art. 7
 
-**Renten- und Kapitalleistungen**
+**Grundsatz**
 
-<sup>1</sup> Beim Ausscheiden aus dem Amt leistet die BPK eine Kapitalabfindung oder sie richtet eine Ruhestandsrente aus. Die Art der Leistung und bei der Ruhestandsrente auch deren Höhe richten sich nach dem Lebensjahr, welches die oder der Zurücktretende im betreffenden Kalenderjahr erreicht, sowie nach der Zahl der zum Zeitpunkt des Rücktrittes zurückgelegten vollen Amtsjahre im Regierungsrat. Für ganze Jahre und bei einem Einkauf auf das 31. Altersjahr zurück ist die Tabelle gemäss Anhang massgebend.
+<sup>1</sup> Beim Ausscheiden aus dem Amt haben die Mitglieder des Regierungsrates Anspruch auf
 
-<sup>2</sup> Die Ruhestandsrente wird für jedes nicht bis zum 31. Altersjahr zurück eingekaufte Versicherungsjahr um zwei Prozent des versicherten Verdienstes gekürzt.
+- a Gehaltsfortzahlung,
+- b Fortzahlung der Familien- und Betreuungszulagen, sofern die Anspruchsvoraussetzungen nach den für das Kantonspersonal geltenden Bestimmungen erfüllt sind,
+- c Versicherungsschutz gemäss Artikel 7c.
 
-<sup>3</sup> Die Kapitalabfindung setzt sich aus dem Betrag der vom Mitglied des Regierungsrates geleisteten Eintrittsleistung samt einfachem Zins sowie aus 200 Prozent der vom Mitglied des Regierungsrates geleisteten Beiträge ohne Zins zusammen. Die Kapitalabfindung entspricht mindestens der Austrittsleistung im Freizügigkeitsfall nach den BPK- Leistungsgrundsätzen.
+<sup>2–3</sup> …
 
-#### Art. 8
+<sup>4</sup> Die Bestimmungen des Personalrechts betreffend die Auszahlung des Gehalts sowie der Familien- und Betreuungszulagen gelten über das Ausscheiden aus dem Amt hinaus sinngemäss weiter.
 
-**Überbrückungsrente**
+#### Art. 7a
 
-<sup>1</sup> Bezieht ein Mitglied des Regierungsrates eine Ruhestandsrente, aber noch keine AHV- oder IV-Rente, hat es Anspruch auf eine Überbrückungsrente im Sinne der BPK-Leistungsgrundsätze, sofern das Ausscheiden aus dem Amt nach Vollendung des 60. Altersjahres oder nach Vollendung des 56. Altersjahres und mindestens zwölf Amtsjahren im Regierungsrat erfolgt.
+**Höhe**
 
-#### Art. 9
+<sup>1</sup> Die Höhe des fortgezahlten Gehalts beträgt 65 Prozent des Gehalts gemäss Artikel 1 Absatz 1 zum Zeitpunkt des Ausscheidens aus dem Amt.
 
-**Kinderrente**
+<sup>2</sup> Familien- und Betreuungszulagen werden auf einem Beschäftigungsgrad von 100 Prozent ausgerichtet.
 
-<sup>1</sup> Das aus dem Regierungsrat ausscheidende Mitglied hat einen Anspruch auf eine Kinderrente von 5/65 der Ruhestandsrente nach den BPK-Leistungsgrundsätzen.
+#### Art. 7b
 
-#### Art. 10
+**Entstehung, Dauer und Ende**
 
-**Rückerstattung der Mehrleistungen**
+<sup>1</sup> Der Anspruch auf Gehaltsfortzahlung sowie auf Fortzahlung der Familien- und Betreuungszulagen entsteht im ersten Monat nach dem Ausscheiden aus dem Amt.
 
-<sup>1</sup> Der Kanton erstattet der BPK die auf Grund der vorsorgerechtlichen Sonderregelungen dieses Gesetzes erbrachten Mehrleistungen zurück.
+<sup>2</sup> Er erlischt spätestens 36 Monate nach seiner Entstehung.
 
-<sup>2</sup> Als Mehrleistungen gelten die gesamten Leistungen der BPK aus diesem Gesetz sowie die gesetzlichen Arbeitgeber- und die Arbeitnehmerbeiträge, bis das Mitglied des Regierungsrates das 65. Altersjahr vollendet hat.
+<sup>3</sup> Er endet früher auf Ende des Monats, in dem
+
+- a das ausgeschiedene Mitglied des Regierungsrates das reglementarische ordentliche Rentenalter der BPK erreicht,
+- b das ausgeschiedene Mitglied des Regierungsrates Anspruch auf eine ganze Rente aufgrund einer Invalidität hat,
+- c das ausgeschiedene Mitglied des Regierungsrates stirbt; vorbehalten bleiben die Bestimmungen über die Gehaltsfortzahlung für Familienangehörige (Art. 67 des Personalgesetzes vom 16. September 2004 [PG][^7b-1]).
+
+[^7b-1]: BSG 153.01
+
+#### Art. 7c
+
+**Versicherungsschutz**
+
+<sup>1</sup> Während der Dauer der Gehaltsfortzahlung bleibt das ausgeschiedene Mitglied des Regierungsrates bei der BPK gegen die wirtschaftlichen Folgen von Alter, Invalidität und Tod versichert.
+
+<sup>2</sup> Das für die Versicherung massgebende Gehalt entspricht dem fortgezahlten Gehalt gemäss Artikel 7a Absatz 1.
+
+<sup>3</sup> Der Kanton richtet dem ausgeschiedenen Mitglied des Regierungsrates während der Dauer der Gehaltsfortzahlung ergänzende Leistungen zur Aufrechterhaltung des berufsvorsorgerechtlichen Versicherungsschutzes aus, deren Höhe
+
+- a sich nach dem Vorsorgereglement der BPK richtet,
+- b höchstens dem Total aller Spar- und Risikobeiträge auf der Differenz zwischen dem Gehalt gemäss Artikel 1 Absatz 1 zum Zeitpunkt des Ausscheidens aus dem Amt und dem fortgezahlten Gehalt gemäss Artikel 7a Absatz 1 entspricht.
+
+#### Art. 8–10
+
+**…**
 
 #### Art. 11
 
-**Rentenkürzung**
+**Voraussetzungen für eine Kürzung und Höhe der Kürzung**
 
-<sup>1</sup> Erzielt das ausgeschiedene Mitglied des Regierungsrates vor der Vollendung des 60. Altersjahres ein Erwerbseinkommen, das zusammen mit den Leistungen auf Grund dieses Gesetzes sein auf den jeweiligen Zeitpunkt umgerechnetes früheres Gesamteinkommen übersteigt, so wird die Rente der BPK um den Mehrbetrag bis auf die den eigenen Leistungen entsprechende Rente gekürzt.
+<sup>1</sup> Erzielt das ausgeschiedene Mitglied des Regierungsrates ein Erwerbs-, Erwerbsersatz- oder Renteneinkommen, das zusammen mit dem fortgezahlten Gehalt das Gehalt gemäss Artikel 1 Absatz 1 übersteigt, so wird das fortgezahlte Gehalt um den übersteigenden Betrag gekürzt.
+
+<sup>2</sup> Die ergänzenden Leistungen für die Aufrechterhaltung des berufsvorsorgerechtlichen Versicherungsschutzes gemäss Artikel 7c Absatz 3 werden angepasst, falls das ausgeschiedene Mitglied des Regierungsrates ein Einkommen erzielt, das den für die Versicherungspflicht massgebenden Mindestbetrag nach der Gesetzgebung über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge übersteigt.
+
+<sup>3</sup> Erhält das ausgeschiedene Mitglied des Regierungsrates Familien- oder Betreuungszulagen, so werden die fortgezahlten Zulagen um die entsprechenden Beträge gekürzt.
+
+#### Art. 11a
+
+**Verfahren und Art der Kürzung**
+
+<sup>1</sup> Das ausgeschiedene Mitglied des Regierungsrates teilt der zuständigen Stelle der Staatskanzlei das erzielte Erwerbs-, Erwerbsersatz- und Renteneinkommen jährlich schriftlich mit.
+
+<sup>2</sup> Die zuständige Stelle der Staatskanzlei kann vom ausgeschiedenen Mitglied des Regierungsrates zusätzliche Auskünfte und Unterlagen verlangen.
+
+<sup>3</sup> Die Kürzung erfolgt durch Rückforderung oder durch Verrechnung mit künftigen Leistungen.
 
 ## 3 Übergangs- und Schlussbestimmungen
 
@@ -140,6 +178,16 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Dieses Gesetz tritt am 1. Januar 2003 in Kraft.
+
+## T1 Übergangsbestimmungen der Änderung vom 07.09.2021
+
+#### Art. T1-1
+
+<sup>1</sup> Für die zum Zeitpunkt des Inkrafttretens dieser Änderung wiedergewählten Mitglieder des Regierungsrates bleibt das bisherige Recht unter Vorbehalt von Absatz 2 anwendbar bis 31. Mai 2026.
+
+<sup>2</sup> In Abweichung von Artikel 11 des bisherigen Rechts werden zur Berechnung von Rentenkürzungen auch Erwerbseinkommen berücksichtigt, die das ausgeschiedene Mitglied des Regierungsrates nach Vollendung des 60. Altersjahrs erzielt, wobei Artikel 11a sinngemäss Anwendung findet.
+
+<sup>3</sup> Für die zum Zeitpunkt des Inkrafttretens dieser Änderung bereits ausgeschiedenen Mitglieder des Regierungsrates bleibt das bisherige Recht anwendbar.
 
 Bern, 27. März 2002
 
