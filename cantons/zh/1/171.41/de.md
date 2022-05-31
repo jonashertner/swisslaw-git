@@ -4,11 +4,10 @@ number: "171.41"
 title: Verordnung über das kantonale Jugendparlament (VJP)
 short: VJP
 language: de
-version: "2019-04-01"
-nachtrag: "104"
-valid_until: 2022-06-01
+version: "2022-06-01"
+nachtrag: "117"
 adopted: 2017-01-25
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-171_41-2017_01_25-2017_05_01-104.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-171_41-2017_01_25-2017_05_01-117.html"
 text: pdf
 ---
 
@@ -20,13 +19,14 @@ text: pdf
 
 Der Regierungsrat,
 
-gestützt auf § 38 a Abs. 2 des Kantonsratsgesetzes vom 5. April 1981 (KRG)[^t-3],
+gestützt auf § 140 Abs. 2 des Kantonsratsgesetzes vom 25. März 2019 (KRG)[^t-3],[^t-4]
 
 beschliesst:
 
 [^t-1]: OS 72, 174; Begründung siehe ABl 2017-02-03.
 [^t-2]: Inkrafttreten: 1. Mai 2017.
 [^t-3]: LS 171.1.
+[^t-4]: Fassung gemäss RRB vom 16. März 2022 (OS 77, 201; ABl 2022-03-25). In Kraft seit 1. Juni 2022. 1. 7. 22 - 117 3
 
 #### § 1
 
@@ -68,7 +68,7 @@ beschliesst:
 
 **1**
 
-- 1\. 4. 19 - 104
+- 1\. 7. 22 - 117
 
 <sup>2</sup> Stellen mehrere Vereine ein Gesuch um Anerkennung, wird derjenige Verein anerkannt, der die Voraussetzungen gemäss § 1 am besten erfüllt und dessen Mitglieder die Jugendlichen des Kantons Zürich am besten repräsentieren.
 
@@ -86,7 +86,7 @@ beschliesst:
 
 <sup>1</sup> Das Jugendparlament führt jährlich mindestens zwei Sitzungen durch. Die Sitzungen sind öffentlich.
 
-<sup>2</sup> Es fällt die ihm gemäss Vereinsstatuten und Organisationsreglement zustehenden Beschlüsse und kann diese in Form einer Petition gemäss Art. 16 KV[^5-1] beim Kantonsrat einreichen (§ 38 b KRG[^5-2].
+<sup>2</sup> Es fällt die ihm gemäss Vereinsstatuten und Organisationsreglement zustehenden Beschlüsse und kann diese in Form einer Petition gemäss Art. 16 KV[^5-1] beim Kantonsrat einreichen (§ 141 KRG[^5-2].[^5-3]
 
 <sup>3</sup> Es ist beschlussfähig, wenn mehr als ein Viertel seiner Mitglieder, mindestens aber 15 Mitglieder, anwesend sind. Die Anwesenheit der Mitglieder wird protokolliert.
 
@@ -94,6 +94,7 @@ beschliesst:
 
 [^5-1]: LS 101.
 [^5-2]: LS 171.1.
+[^5-3]: Fassung gemäss RRB vom 16. März 2022 (OS 77, 201; ABl 2022-03-25). In Kraft seit 1. Juni 2022. 1. 7. 22 - 117 3
 
 #### § 6
 
@@ -111,15 +112,15 @@ Das Jugendparlament ist berechtigt, mindestens zweimal jährlich den grossen Rat
 
 <sup>3</sup> Das Jugendparlament, die Parlamentsdienste, die Direktionen und die Staatskanzlei bezeichnen Ansprechpersonen, über die der Informationsaustausch erfolgt.
 
-[^7-1]: Fassung gemäss RRB vom 19. Dezember 2018 (OS 74, 89; ABl 2019-01-11). In Kraft seit 1. April 2019. 1. 4. 19 - 104 3
+[^7-1]: Fassung gemäss RRB vom 16. März 2022 (OS 77, 201; ABl 2022-03-25). In Kraft seit 1. Juni 2022. 1. 7. 22 - 117 3
 
 #### § 8
 
 **c. finanzielle Unterstützung**
 
-<sup>1</sup> Die Direktion kann dem Jugendparlament Subventionen ausrichten:[^7-1] a. für Projekte des Jugendparlaments bis Fr. 10 000,
+<sup>1</sup> Die Direktion kann dem Jugendparlament Subventionen ausrichten:[^7-1] a. für Projekte des Jugendparlaments bis Fr. 25 000,
 
-- b. für ein Sekretariat zur administrativen Unterstützung bis Fr. 15 000.
+- b. für ein Sekretariat zur administrativen Unterstützung bis Fr. 25 000.
 
 <sup>2</sup> Das Jugendparlament erstattet der Direktion Bericht über die Verwendung der Subventionen.
 
