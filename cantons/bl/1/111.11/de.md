@@ -4,13 +4,13 @@ number: "111.11"
 title: Anmeldungs- und Registerverordnung
 short: ARV
 language: de
-version: 2022-05-01
-valid_until: 2022-05-31
-version_adopted: 2022-05-24
+version: 2022-06-01
+valid_until: 2022-06-30
+version_adopted: 2022-05-10
 adopted: 2014-05-13
 in_force: 2014-06-01
 url: "https://bl.clex.ch/app/de/texts_of_law/111.11"
-pdf: "https://bl.clex.ch/api/de/versions/3330/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3335/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3330/pdf_file"
 
 (ARV)
 
-Vom 13.05.2014 (Stand 01.05.2022)
+Vom 13.05.2014 (Stand 01.06.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
@@ -293,7 +293,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>1</sup> Das kantonale Personenregister trägt den Namen arbo.
 
-<sup>2</sup> Das Statistische Amt ist für den Vollzug zuständig. Es führt bei sich die Fachstelle arbo und wird von den Zentralen Informatikdiensten unterstützt.
+<sup>2</sup> Das Statistische Amt ist für den Vollzug zuständig. Es führt bei sich die Fachstelle Register und wird von den Zentralen Informatikdiensten unterstützt.
 
 <sup>3</sup> Der Leiter oder die Leiterin des Statistischen Amts regelt die betriebstechnisch bedingten Zugriffsrechte auf das kantonale Personenregister.
 
@@ -303,7 +303,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>1</sup> Die Einwohnergemeinden melden innert 5 Arbeitstagen die berichtigten Daten, wenn sie vom kantonalen Personenregister eine Fehlermeldung erhalten.
 
-<sup>2</sup> Sie melden auf Verlangen der Fachstelle arbo die Gesamtheit der aktuellen Daten des Einwohnerregisters.
+<sup>2</sup> Sie melden auf Verlangen der Fachstelle Register die Gesamtheit der aktuellen Daten des Einwohnerregisters.
 
 #### § 10
 
@@ -336,7 +336,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 **Voranzeige von IT-Wechseln**
 
-<sup>1</sup> Beabsichtigt eine Einwohnergemeinde, einen Wechsel der Einwohnerregister-Software vorzunehmen, meldet sie dies mindestens 3 Monate vor dem Wechsel der Fachstelle arbo. Einen Release-Wechsel meldet sie mindestens 2 Monate vorher.
+<sup>1</sup> Beabsichtigt eine Einwohnergemeinde, einen Wechsel der Einwohnerregister-Software vorzunehmen, meldet sie dies mindestens 3 Monate vor dem Wechsel der Fachstelle Register. Einen Release-Wechsel meldet sie mindestens 2 Monate vorher.
 
 #### § 12
 
@@ -357,7 +357,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 **Kantonaler Personenidentifikator ([§ 13 Abs. 1](https://bl.clex.ch/data/111/de/art13) ARG)**
 
-<sup>1</sup> Die Fachstelle arbo ordnet den kantonalen Personenidentifikator zu und vergibt ihn nur einmal.
+<sup>1</sup> Die Fachstelle Register ordnet den kantonalen Personenidentifikator zu und vergibt ihn nur einmal.
 
 <sup>2</sup> Der kantonale Personenidentifikator ist als nicht sprechend und rein nummerisch auszugestalten. Er enthält 9 Stellen, davon die letzte als Prüfziffer.
 
@@ -451,7 +451,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 **Besprechung, Mitbericht**
 
-<sup>1</sup> Vor der Einleitung des Mitberichtsverfahrens führt die Fachstelle arbo mit der anschlusswilligen Stelle eine Besprechung über die Details der Antragstellung durch.
+<sup>1</sup> Vor der Einleitung des Mitberichtsverfahrens führt die Fachstelle Register mit der anschlusswilligen Stelle eine Besprechung über die Details der Antragstellung durch.
 
 <sup>2</sup> Die Direktionen begrüssen im Mitberichtsverfahren mindestens das Statistische Amt, die Zentrale Informatik, den Rechtsdienst von Regierungsrat und Landrat, die Finanzverwaltung sowie die Landeskanzlei.
 
@@ -469,9 +469,9 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>1</sup> Die abfrageberechtigten Stellen führen für den Anschluss ans kantonale Personenregister ein Projekt nach den Standards der kantonalen Verwaltung und stellen die Projektleitung.
 
-<sup>2</sup> Sie tragen mit Ausnahme der Personalkosten der Fachstelle arbo die Kosten des Anschlusses, so insbesondere die Kosten der Projektorganisation, die Kosten der technischen Anpassungen auf ihrer Seite sowie die Kosten ausserordentlicher technischer Anpassungen auf Seite des kantonalen Personenregisters.
+<sup>2</sup> Sie tragen mit Ausnahme der Personalkosten der Fachstelle Register die Kosten des Anschlusses, so insbesondere die Kosten der Projektorganisation, die Kosten der technischen Anpassungen auf ihrer Seite sowie die Kosten ausserordentlicher technischer Anpassungen auf Seite des kantonalen Personenregisters.
 
-<sup>3</sup> Die Fachstelle arbo ist zuständig für den Anschluss der abfrageberechtigten Stellen ans kantonale Personenregister.
+<sup>3</sup> Die Fachstelle Register ist zuständig für den Anschluss der abfrageberechtigten Stellen ans kantonale Personenregister.
 
 <sup>4</sup> Der Regierungsrat legt die Reihenfolge des Anschlusses anschlusswilliger Stellen fest.
 
@@ -483,10 +483,10 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>2</sup> Die Leiterin oder der Leiter der abfrageberechtigten Stelle bzw. des abfrageberechtigten Aufgabenbereichs
 
-- a. meldet der Fachstelle arbo schriftlich die abfrageberechtigten Personen der Stelle oder der einzelnen Aufgabenbereiche;
+- a. meldet der Fachstelle Register schriftlich die abfrageberechtigten Personen der Stelle oder der einzelnen Aufgabenbereiche;
 - b. nimmt die Meldung gemäss Buchstabe a unverzüglich nach Erteilung oder nach Aufhebung der Abfrageberechtigung vor;
 - c. beaufsichtigt die Abfragen der abfrageberechtigten Personen;
-- d. kann von der Fachstelle arbo die Protokolle der Abfragen verlangen, die von einer abfragenden Person vorgenommen worden sind;
+- d. kann von der Fachstelle Register die Protokolle der Abfragen verlangen, die von einer abfragenden Person vorgenommen worden sind;
 - e. entzieht bei Abfragemissbrauch der fehlbaren Person die Abfrageberechtigung und nimmt die Meldung gemäss Buchstabe b vor.
 
 #### § 24
@@ -545,7 +545,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 - b. die abgefragte Person,
 - c. den Zeitpunkt der Abfrage.
 
-<sup>3</sup> Die Fachstelle arbo führt die Protokollierung der Abfragen. Sie löscht die Protokollierung 2 Jahre nach der Abfrage.
+<sup>3</sup> Die Fachstelle Register führt die Protokollierung der Abfragen. Sie löscht die Protokollierung 2 Jahre nach der Abfrage.
 
 #### § 28
 
@@ -553,7 +553,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>1</sup> Die Protokollierung der Abfragen dient der Leiterin oder dem Leiter der abfrageberechtigten Stelle, die Aufsicht gemäss § 23 Abs. 2 Bst. c und d wahrzunehmen.
 
-<sup>2</sup> Sie dient in anonymisierter Form der Fachstelle arbo, betriebstechnische Informationen über das kantonale Personenregister zu erhalten.
+<sup>2</sup> Sie dient in anonymisierter Form der Fachstelle Register, betriebstechnische Informationen über das kantonale Personenregister zu erhalten.
 
 #### § 29
 
@@ -567,7 +567,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 - b. wie technisch und organisatorisch sichergestellt ist, dass die Rechte der betroffenen Personen, insbesondere das Recht auf Auskunft und Einsicht, der Anspruch auf Berichtigung sowie das Recht auf Sperrung der Datenbekanntgabe gewährleistet sind;
 - c. wie technisch und organisatorisch sichergestellt ist, dass die Datenbearbeitungen rechtmässig und verhältnismässig erfolgen und durch Kontrollmassnahmen überprüfbar sind;
 - d. wie technisch und organisatorisch sichergestellt ist, dass die aufgenommenen Daten in Bestand und Qualität langfristig erhalten bleiben;
-- e. wie die Verantwortlichkeiten für den Datenschutz und die Datensicherheit unter der Direktion und der Fachstelle sowie unter den Datenlieferanten und den Datenbezügern geregelt sind.
+- e. wie die Verantwortlichkeiten für den Datenschutz und die Datensicherheit unter der Direktion und der Fachstelle Register sowie unter den Datenlieferanten und den Datenbezügern geregelt sind.
 
 ## 5 Übergangsbestimmung
 
