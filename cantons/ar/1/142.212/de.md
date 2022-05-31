@@ -4,13 +4,13 @@ number: "142.212"
 title: Personalverordnung
 short: PGV
 language: de
-version: 2021-10-01
-valid_until: 2022-05-31
-version_adopted: 2021-09-07
+version: 2022-06-01
+valid_until: 2023-06-30
+version_adopted: 2022-04-26
 adopted: 2007-11-20
 in_force: 2008-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/142.212"
-pdf: "https://ar.clex.ch/api/de/versions/1369/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1420/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1369/pdf_file"
 
 (PGV)
 
-vom 20.11.2007 (Stand 01.10.2021)
+vom 20.11.2007 (Stand 01.06.2022)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
