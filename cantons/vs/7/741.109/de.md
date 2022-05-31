@@ -1,104 +1,81 @@
 ---
 canton: VS
 number: "741.109"
-title: Beschluss betreffend die Beschränkungen des Motorfahrzeugverkehrs auf der Strasse Täsch - Zermatt
+title: Beschluss betreffend die Beschränkungen des Motorfahrzeugverkehrs auf der Kantonsstrasse NG 13 Täsch - Zermatt
 language: de
-version: 1983-03-30
-corrected: 2017-10-06
-version_adopted: 1983-03-30
+version: 2022-06-01
+valid_until: 2026-02-28
+version_adopted: 2022-02-23
 adopted: 2020-06-24
 in_force: 2020-07-17
 url: "https://lex.vs.ch/app/de/texts_of_law/741.109"
-pdf: "https://lex.vs.ch/api/de/versions/275/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3031/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Beschluss betreffend die Beschränkungen des Motorfahrzeugverkehrs auf der Strasse Täsch - Zermatt
+# Beschluss betreffend die Beschränkungen des Motorfahrzeugverkehrs auf der Kantonsstrasse NG 13 Täsch - Zermatt
 
-vom 4. Oktober 1978
+vom 24.06.2020 (Stand 01.06.2022)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen den Artikel 3, Absatz 4 des Bundesgesetzes über den Strassenverkehr vom 19. Dezember 1958 (SVG);
+eingesehen den Artikel 3 Absatz 4 des Bundesgesetzes über den Strassenverkehr vom 19. Dezember 1958 (SVG);
 
-eingesehen den Artikel 3 des Dekretes vom 1. Februar 1963 betreffend die Einführung des Strassenverkehrsgesetzes vom 19. Dezember 1958;
+eingesehen den Artikel 1 des Ausführungsgesetzes über die Bundesgesetzgebung betreffend den Strassenverkehr vom 30. September 1987 (AGSVG);
 
-eingesehen den Artikel 230, Absatz 1 des Strassengesetzes vom 3. September 1965;
+eingesehen den Artikel 230 Absatz 1 des Strassengesetzes vom 3. September 1965 (StrG);
 
-auf Antrag des Justiz- und Polizeidepartementes,
+eingesehen die Vereinbarung vom 24. Juni 2020 und das Schreiben vom 28. Oktober 2020, in denen die zwischen Bund, Kanton und Einwohnergemeinde Zermatt vereinbarten Bedingungen für den Ausbau der Bahnverbindung Täsch – Zermatt präzisiert werden;
+
+auf Antrag des für die Mobilität zuständigen Departements,
 
 beschliesst:
 
 #### Art. 1
 
-Der Motorfahrzeugverkehr auf der Strasse Täsch-Zermatt ist folgenden Beschränkungen unterworfen:
+<sup>1</sup> Der Motorfahrzeugverkehr auf der Kantonsstrasse NG 13 Täsch - Zermatt ist den funktionellen Verkehrsbeschränkungen dieses Beschlusses unterworfen.
 
-- Nur die Fahrzeughalter, die im Besitze einer speziellen Bewilligung sind, dürfen dieses Strassenteilstück befahren.
+<sup>2</sup> Die Kantonsstrasse NG 13 Täsch - Zermatt darf nur von Fahrzeugen und Fahrzeughaltern mit einer gültigen Spezialbewilligung befahren werden.
 
-- Unter Vorbehalt der Bestimmungen des Artikels 5 ist der Motorfahrzeugverkehr nur Fahrzeugen gestattet, die nicht breiter als 2,10 m sind und deren Gewicht samt Ladung 3,5 t nicht übersteigt; die Geschwindigkeit ist auf 40 Std/km begrenzt.
+<sup>3</sup> …
 
 #### Art. 2
 
-Das Justiz- und Polizeidepartement ist durch die Kantonspolizei für die Erteilung von Verkehrsbewilligung bis zum Eingang von Zermatt zuständig. Diese Bewilligungen, welche jährlich zu erneuern sind, werden auf Gesuch hin, nur den in der Gemeinde Zermatt wohnhaften Fahrzeughaltern und auf Vorweisung einer Wohnsitzbestätigung der Gemeindebehörde erteilt.
+<sup>1</sup> Fahrzeuge mit einem Gesamtgewicht von über 3,5 Tonnen sowie Ausnahmetransporte dürfen die Kantonsstrasse NG 13 Täsch – Zermatt nur benutzen, wenn sie über eine von der für die Mobilität zuständigen Dienstelle erteilte Spezialbewilligung verfügen.
 
-Das Justiz- und Polizeidepartement durch die Kantonspolizei kann den Fahrzeughaltern die das Gesuch stellen und ein genügendes Interesse am Befahren der Strecke Täsch-Zermatt nachweisen können, weitere einmalige oder jährliche Bewilligungen erteilen.
+- a) …
+- b) …
+- c) …
+
+<sup>2</sup> Die Bewilligung für das Befahren der Kantonsstrasse NG 13 Täsch – Zermatt mit einem Motofahrzeug mit einem Gewicht von unter 3,5 Tonnen wird von der Kantonspolizei ausgestellt.
+
+<sup>3</sup> Der Staatsrat legt die Höhe der Bewilligungsgebühr mittels separatem Beschluss fest.
 
 #### Art. 3
 
-Als genügendes Interesse ist namentlich zu betrachten:
-
-- 1\. der Kranken- oder der Verletztentransport in ein Krankenhaus;
-
-- 2\. die Fahrten in Verbindung mit einer regelmässig auszuübenden beruflichen Tätigkeit in Zermatt, dies auf Grund einer Bestätigung des Arbeitgebers, welche von der Gemeinde Zermatt gegenunterzeichnet werden muss;
-
-- 3\. die Anwohner der Strecke Täsch-Zermatt auf Vorweisung einer Wohnsitzbestätigung der Gemeinde Täsch;
-
-- 4\. der Werkzeug- oder Materialtransport sowie der Transport von leicht verderblichen Lebensmittel, für welche sich das Umladen auf den Zug nicht als zweckmässig erweist;
-
-- 5\. den berufsmässigen Personentransport;
-
-- 6\. die Fahrten in Verbindung mit der Landwirtschaft;
-
-- 7\. sämtliche andere Fahrten, welche einen notwendigen Charakter aufweisen.
+**…**
 
 #### Art. 4
 
-Die vor der Veröffentlichung des vorliegenden Beschlusses erteilten Fahrbewilligungen werden als hinfällig erklärt.
+<sup>1</sup> Eine Bewilligung zum Befahren der Kantonsstrasse NG 13 Täsch - Zermatt mit Motorfahrzeugen kann erteilt werden an:
 
-[^4-1]: Änderung vom 30. März 1983: n.W.: Art. 5 GS/VS 1983 66 30.3.1983 a.: aufgehoben; n.: neu; n.W.: neuer Wortlaut
+- a) Rettungsdienste (Blaulichtorganisationen);
+- b) kantonale Organe, die Einwohnergemeinden und die Burgergemeinden von Täsch und Zermatt;
+- c) private Unternehmen oder Personen, die unter Vorlegung eines ensprechenden Nachweises einer regelmässigen beruflichen Tätigkeit in Zermatt nachgehen;
+- d) private Unternehmen oder Personen, die den berufsmässigen Personentransport ausüben;
+- e) Einwohner im Besitze einer Wohnsitzbestätigung der Gemeinde Täsch, deren Hauptwohnsitz an der Kantonsstrasse NG 13 Täsch – Zermatt, nach der signalisierten Verkehrsbeschränkung, und auf dem Gebiet der Gemeinde Täsch liegt;
+- f) Einwohner im Besitze einer Wohnsitzbestätigung der Einwohnergemeinde Zermatt, die über einen Haupt- oder Zweitwohnsitz sowie einen Parkplatz auf Gebiet der Gemeinde Zermatt verfügen;
+- g) Halter von Landwirtschaftsfahrzeugen für Einsätze auf Gebiet der betreffenden Gemeinden;
+- h) Eigentümer der Bahninfrastruktur und deren Betreiber für Tätigkeiten im Zusammenhang mit dem Bustransport, einschliesslich des Schienenersatzverkehrs;
+- i) Halter von Fahrzeugen, die irgendeine Form des Material- und/oder des Gütertransportes ausführen, der von der Kantonspolizei als solcher genehmigt worden ist.
 
 #### Art. 5
 
-[^4-1]
-
-Für Motorfahrzeuge, welche die in Artikel 1, Absatz 3, vorgeschriebene Breite sowie das Gewicht überschreiten, hat die Kantonspolizei das Verkehrsbewilligungsgesuch dem zuständigen Strassenmeister zur Vormeinung zu unterbreiten. In dringenden Fällen kann diese Vormeinung auch telefonisch erfolgen, muss aber unverzüglich schriftlich bestätigt werden.
+<sup>1</sup> Das Abstellen von Motorfahrzeugen auf der Fahrbahn der Kantonsstrasse NG 13 Täsch - Zermatt ausserhalb der bewilligten Abstellplätze ist untersagt.
 
 #### Art. 6
 
-Jegliches Parkieren auf der Strecke Täsch-Zermatt ist untersagt.
+<sup>1</sup> Gegen die von der zuständigen Behörde auf Grund dieses Beschlusses erlassenen Verfügungen kann in der im Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege vorgeschriebenen Form und innert der dort vorgesehenen Frist beim Staatsrat Beschwerde geführt werden.
 
-#### Art. 7
-
-Gegen die von der zuständigen Behörde auf Grund dieses Beschlusses erlassenen Verfügungen kann in der im Gesetz vom 6. Oktober 1976 über das Verwaltungsverfahren und die Verwaltungsrechtspflege vorgeschriebenen Form und innert der dort vorgesehenen Frist beim Staatsrat Beschwerde geführt werden.
-
-#### Art. 8
-
-Der Beschluss vom 20. Juli 1977, welcher den Beschluss vom 6. Juli 1977 betreffend Beschränkungen des Motorfahrzeugverkehrs auf der Strasse Täsch-Zermatt abändert, wird aufgehoben.
-
-#### Art. 9
-
-Der vorliegende Beschluss tritt am Tage seiner Veröffentlichung im kantonalen Amtsblatt in Kraft.
-
-So beschlossen in der Sitzung des Staatsrates vom 4. Oktober 1978.
-
-Der Präsident des Staatsrates: G. Genoud Der Staatskanzler: G. Moulin
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-**4.10.1978**
-
-B betreffend die Beschränkungen des GS/VS 1978, 58
-
-### Motorfahrzeugverkehrs auf der Strasse Täsch - Zermatt vom 4. Oktober 1978
+CSW RO/AGS 2020-055
