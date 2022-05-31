@@ -3,20 +3,19 @@ canton: GL
 number: V A/11/2
 title: Polizeiverordnung
 language: de
-version: 2019-01-01
-valid_until: 2022-05-31
-version_adopted: 2018-06-19
+version: 2022-06-01
+version_adopted: 2022-05-03
 adopted: 2008-04-29
 in_force: 2008-05-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/V-A.11.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2027/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2296/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Polizeiverordnung
 
-Vom 29.04.2008 (Stand 01.01.2019)
+Vom 29.04.2008 (Stand 01.06.2022)
 
 Der Regierungsrat,
 
@@ -296,7 +295,9 @@ verordnet:
 
 **Massnahmen zur Wahrung der inneren Sicherheit**
 
-<sup>1</sup> Zuständig für polizeiliche Massnahmen gemäss Artikel 24b (Rayonverbot), 24d (Meldeauflage) und 24e (Polizeigewahrsam) des Bundesgesetzes über Massnahmen zur Wahrung der inneren Sicherheit ist die Kantonspolizei.
+<sup>1</sup> Die Kantonspolizei ist vorbehältlich anderweitiger gesetzlicher Regelung zuständig für den Vollzug des Bundesgesetzes über Massnahmen zur Wahrung der inneren Sicherheit[^29-1].
+
+[^29-1]: SR 120
 
 #### Art. 30
 
