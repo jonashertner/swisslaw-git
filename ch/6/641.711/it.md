@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordinanza del 30 novembre 2012 sulla riduzione delle emissioni di CO<sub>2</sub> (Ordinanza sul CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: it
-version: 2022-03-04
+version: 2022-06-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220304/it/xml/fedlex-data-admin-ch-eli-cc-2012-856-20220304-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220304/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2012-856-20220601-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220304/it"
 
 (Ordinanza sul CO<sub>2</sub>)
 
-del 30 novembre 2012 (Stato 4 marzo 2022)
+del 30 novembre 2012 (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -50,47 +50,18 @@ La presente ordinanza disciplina la riduzione delle emissioni dei seguenti gas s
 
 #### Art. 2
 
+[^2-1]
+
 Ai sensi della presente ordinanza si intende per:
 
-- a.[^2-1]
+- a. *potenza termica**:* energia termica massima che può essere fornita a un impianto per unità di tempo;
+- b. *potenza termica totale:* somma delle potenze termiche di tutti gli impianti di un gestore considerati nel sistema di scambio di quote di emissioni (SSQE);
+- c. *potenza complessiva:* somma delle potenze elettriche e termiche nominali fornite da una centrale termica a combustibili fossili o da un impianto di cogenerazione di energia elettrica e termica (impianto ICFC);
+- d. *rendimento globale:* rapporto tra potenza complessiva e potenza termica di una centrale termica a combustibili fossili o di un impianto ICFC secondo le indicazioni del costruttore;
+- e. *partecipanti al SSQE:* i gestori di impianti e gli operatori di aeromobili che partecipano al SSQE svizzero;
+- f. *Stato partner:* Stato con il quale la Svizzera ha stipulato un accordo di diritto internazionale per realizzare progetti svizzeri di protezione del clima in questo Stato.
 
-  *automobile*:
-
-  - 1\. un’automobile di cui all’articolo 11 capoverso 2 lettera a dell’ordinanza del 19 giugno 1995[^2-2] concernente le esigenze tecniche per i veicoli stradali (OETV),
-  - 2\. non sono considerate automobili ai sensi della presente ordinanza i veicoli per uso speciale secondo l’allegato II parte A numero 5 della direttiva 2007/46/CE[^2-3] o secondo l’allegato I parte A numero 5 del regolamento (UE) 2018/858[^2-4];
-
-- a<sup>bis</sup>.[^2-5]
-
-  *autofurgone*:
-
-  - 1\. un autofurgone di cui all’articolo 11 capoverso 2 lettera e OETV con un peso complessivo massimo di 3,5 t,
-  - 2\. i veicoli con una propulsione a zero emissioni e un peso complessivo da 3,5 t a 4,25 t che, a prescindere dal peso, corrispondono alla definizione di autofurgone purché il peso che oltrepassa 3,5 t possa essere causato unicamente dal peso aggiuntivo della propulsione a zero emissioni,
-  - 3\. non sono considerati autofurgoni ai sensi della presente ordinanza gli autofurgoni con peso a vuoto superiore a 2,585 t, le cui emissioni sono rilevate in base alla procedura di misurazione per veicoli pesanti conformemente al regolamento (CE) n. 595/2009[^2-6], che non presentano valori di emissione di cui al regolamento (CE) n. 715/2007[^2-7] e che non dispongono di una propulsione a zero emissioni, nonché i veicoli per uso speciale secondo l’allegato II parte A numero 5 della direttiva 2007/46/CE o secondo l’allegato I parte A numero 5 del regolamento (UE) 2018/858;
-
-- a<sup>ter</sup>.[^2-8]
-
-  *trattore a sella leggero*:
-
-  - 1\. un trattore a sella di cui all’articolo 11 capoverso 2 lettera i OETV con un peso complessivo fino a 3,50 t,
-  - 2\. non sono considerati trattori a sella leggeri ai sensi della presente ordinanza i trattori a sella con peso a vuoto superiore a 2,585 t, le cui emissioni sono rilevate in base alla procedura di misurazione per veicoli pesanti conformemente al regolamento (CE) n. 595/2009 e che non presentano valori di emissione di cui al regolamento (CE) n. 715/2007, nonché i veicoli per uso speciale secondo l’allegato II parte A numero 5 della direttiva 2007/46/CE o secondo l’allegato I parte A numero 5 del regolamento (UE) 2018/858;
-
-- b.[^2-9] *...*
-- c.[^2-10] *potenza termica*: energia termica massima che può essere fornita a un impianto per unità di tempo;
-- d.[^2-11] *potenza termica totale*: somma delle potenze termiche di tutti gli impianti di un gestore considerati nel sistema di scambio di quote di emissioni (SSQE);
-- e. *potenza complessiva:* somma delle potenze nominali elettriche e termiche fornite da una centrale termica a combustibili fossili;
-- f. *rendimento globale**:* rapporto tra potenza complessiva e potenza termica di una centrale termica a combustibili fossili secondo le indicazioni del costruttore.
-
-[^2-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^2-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^2-3]: Direttiva 2007/46/CE del Parlamento europeo e del Consiglio, del 5 settembre 2007, che istituisce un quadro per l’omologazione dei veicoli a motore e dei loro rimorchi, nonché dei sistemi, componenti ed entità tecniche destinati a tali veicoli («direttiva quadro»), GU L 263 del 9.10.2007, pag. 1; modificata da ultimo dal regolamento (UE) 2019/543, GU L 95 del 4.4.2019, pag. 1
-[^2-4]: Regolamento (UE) n. 2018/858 del Parlamento europeo e del Consiglio, del 30 maggio 2018, relativo all'omologazione e alla vigilanza del mercato dei veicoli a motore e dei loro rimorchi, nonché dei sistemi, dei componenti e delle entità tecniche indipendenti destinati a tali veicoli, che modifica i regolamenti (CE) n. 715/2007 e (CE) n. 595/2009 e abroga la direttiva 2007/46/CE, GU L 151 del 14.6.2018, pag. 1; modificato da ultimo dal regolamento (EU) 2019/2144, GU L 325 del 16.12.2019, pag. 1.
-[^2-5]: Introdotta dal n. I dell’O del 1° nov. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^2-6]: Regolamento (CE) n. 595/2009 del Parlamento europeo e del Consiglio, del 18 giugno 2009, relativo all’omologazione dei veicoli a motore e dei motori riguardo alle emissioni dei veicoli pesanti (euro VI) e all’accesso alle informazioni relative alla riparazione e alla manutenzione del veicolo e che modifica il regolamento (CE) n. 715/2007 e la direttiva 2007/46/CE e che abroga le direttive 80/1269/CEE, 2005/55/CE e 2005/78/CE, GU L 188 del 18.7.2009, pag. 1; modificato da ultimo dal regolamento (UE) n. 133/2014, GU L 47 del 18.2.2014, pag. 1.
-[^2-7]: Regolamento (CE) n. 715/2007 del Parlamento europeo e del Consiglio, del 20 giugno 2007, relativo all’omologazione dei veicoli a motore riguardo alle emissioni dei veicoli passeggeri e commerciali leggeri (euro 5 ed euro 6) e all’ottenimento di informazioni sulla riparazione e la manutenzione del veicolo, GU L 171 del 29.6.2007 pag. 1; modificato da ultimo dal regolamento (UE) n. 459/2012, GU L 142 dell’1.6.2012, pag. 16.
-[^2-8]: Introdotta dal n. I dell’O del 1° nov. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^2-9]: Abrogata dal n. I dell’O del 13 nov. 2019, con effetto dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^2-10]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^2-11]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^2-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### Sezione 3: Obiettivi intermedi settoriali
 
@@ -106,76 +77,64 @@ Gli obiettivi intermedi per il 2015 sono:
 
 <sup>2</sup> Se un obiettivo intermedio settoriale di cui al capoverso 1 non è raggiunto, il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) chiede al Consiglio federale di prendere ulteriori misure dopo aver consultato i Cantoni e le cerchie interessate.
 
-### Sezione 4: Riduzioni delle emissioni conseguite all’estero****
-
-[^chap1-sec4-1]
-
-[^chap1-sec4-1]: Nuovo testo giusta il n. I dell’O dell’8 ott. 2014, in vigore dal 1° dic. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
+### Sezione 4: ...
 
 #### Art. 4
 
-**Riduzioni delle emissioni computabili per progetti realizzati all’estero[^4-1]**
+[^4-1]
 
-<sup>1</sup> Possono farsi computare le riduzioni delle emissioni conseguite all’estero soltanto le imprese e le persone autorizzate ai sensi della presente ordinanza.
-
-<sup>2</sup>
-
-Le riduzioni delle emissioni conseguite all’estero sono computabili se:
-
-- a. sono attestate da un certificato di riduzione ai sensi della Convenzione quadro delle Nazioni Unite del 9 maggio 1992[^4-2] sui cambiamenti climatici; e
-- b. se l’allegato 2 non esclude di computarle.
-
-[^4-1]: Introdotta dal n. I dell’O dell’8 ott. 2014, in vigore dal 1° dic. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
-[^4-2]: [RS 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
+[^4-1]: Abrogato dal n. I dell’O del 4 mag. 2022, con effetto dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 4a
 
-**Lettera di approvazione per progetti**[^4a-1]
+[^4a-1]
 
-<sup>1</sup> Chi desidera ricevere certificati di riduzione delle emissioni per un progetto di riduzione delle emissioni all’estero, può richiedere all’Ufficio federale dell’ambiente (UFAM) la lettera di approvazione necessaria a tale scopo secondo le regole dell’articolo 6 capoverso 3 o dell’articolo 12 capoverso 5 del Protocollo di Kyoto dell’11 dicembre 1997[^4a-2] della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici (Protocollo di Kyoto).
+[^4a-1]: Introdotto dal n. I dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Abrogato dal n. I dell’O del 4 mag. 2022, con effetto dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-<sup>2</sup> L’UFAM rilascia la lettera di approvazione se sono adempiute le condizioni di cui all’articolo 4 capoverso 2 lettera b.
+### Sezione 5:**** Attestati per progetti e programmi di riduzione delle emissioni o di aumento delle prestazioni dei pozzi di carbonio in Svizzera e all’estero****
 
-[^4a-1]: Introdotto dal n. I dell’O dell’8 ott. 2014, in vigore dal 1° dic. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
-[^4a-2]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
-
-### Sezione 5:**** Attestati per progetti e programmi di riduzione delle emissioni realizzati in Svizzera
-
-[^chap1-sec5-1]
+[^chap1-sec5-1][^chap1-sec5-2]
 
 [^chap1-sec5-1]: Nuovo testo giusta il n. I dell’O dell’8 ott. 2014, in vigore dal 1° dic. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
+[^chap1-sec5-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 5
 
-**Requisiti**
+**Requisiti**[^5-1]
 
 <sup>1</sup>
 
-Sono rilasciati attestati per progetti e programmi di riduzione delle emissioni realizzati in Svizzera se:
+Sono rilasciati attestati nazionali o internazionali (attestati) per progetti e programmi di riduzione delle emissioni o di aumento delle prestazioni dei pozzi di carbonio realizzati in Svizzera e all’estero se:
 
-- a. l’allegato 3 non lo esclude;
+- a. gli allegati 2*a* o 3 non lo escludono;
 - b.
 
-  il progetto o i piani inclusi in un programma:
+  è reso verosimile e comprensibile che il progetto:
 
-  - 1\. non sarebbero redditizi senza il ricavo della vendita degli attestati,
-  - 2\. sono almeno conformi allo stato della tecnica, e
-  - 3\. prevedono provvedimenti che portano a una riduzione supplementare delle emissioni rispetto all’evoluzione di riferimento di cui all’articolo 6 capoverso 2 lettera d;
+  - 1\. non sarebbe redditizio senza il ricavo della vendita degli attestati per la durata del progetto,
+  - 2\. è conforme almeno allo stato della tecnica,
+  - 3\. prevede provvedimenti che portano a una riduzione supplementare delle emissioni o a un aumento delle prestazioni dei pozzi di carbonio rispetto all’evoluzione di riferimento di cui all’articolo 6 capoverso 2 lettera d,
+  - 4\. rispetta le altre disposizioni legali determinanti,
+  - 5\. contribuisce allo sviluppo sostenibile sul posto all’estero e tale contributo è stato confermato dallo Stato partner;
 
 - c.
 
-  le riduzioni delle emissioni:
+  le riduzioni delle emissioni o l’aumento delle prestazioni dei pozzi di carbonio:
 
   - 1\. sono documentabili e quantificabili,
-  - 2\.[^5-1] non riguardano emissioni di gas serra registrate nel SSQE, e
-  - 3\.[^5-2] non sono state conseguite da un gestore soggetto a un impegno di riduzione secondo l’articolo 66 capoverso 1 che al contempo chiede il rilascio di attestati secondo l’articolo 12; sono esclusi i gestori con impegni di riduzione secondo l’articolo 67, per quanto le riduzioni delle emissioni da progetti e programmi non siano contemplate dall’obiettivo di emissione; e
+  - 2\. non riguardano emissioni di gas serra registrate nel SSQE,
+  - 3\. non sono state conseguite da un gestore soggetto a un impegno di riduzione secondo l’articolo 66 capoverso 1 che al contempo chiede il rilascio di attestati secondo l’articolo 12; sono esclusi i gestori con impegni di riduzione secondo l’articolo 67, per quanto le riduzioni delle emissioni da progetti o programmi non siano contemplate dall’obiettivo di emissione,
+  - 4\. sono calcolate in modo da escludere importanti sovrastime delle riduzioni delle emissioni o dell’aumento delle prestazioni dei pozzi di carbonio computabili;
 
-- d. la realizzazione del progetto o del programma ha avuto inizio non più di tre mesi prima della presentazione della domanda di cui all’articolo 7.
+- d. la realizzazione del progetto o del programma ha avuto inizio non più di tre mesi prima della presentazione della domanda di cui all’articolo 7;
+- e. il progetto o il programma non è ancora terminato; e
+- f. l’attuazione del progetto o del programma non comporta alcuna rilocalizzazione delle emissioni.
 
-<sup>2</sup> Per inizio della realizzazione si intende il momento in cui il richiedente si impegna finanziariamente in maniera determinante nei confronti di terzi o adotta provvedimenti organizzativi riferiti al progetto o al programma.
+<sup>2</sup> Per progetti e programmi che immagazzinano carbonio sono rilasciati attestati se, oltre ai requisiti di cui al capoverso 1, la permanenza del sequestro di carbonio è garantita in misura sufficiente, indipendentemente dalla durata del progetto, per almeno 30 anni dopo l’inizio degli effetti e ciò sia dimostrato in modo comprensibile;
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+<sup>3</sup> Per inizio della realizzazione si intende il momento in cui la persona richiedente si impegna finanziariamente in maniera determinante nei confronti di terzi o adotta provvedimenti organizzativi riferiti al progetto o al programma.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 5a
 
@@ -183,132 +142,194 @@ Sono rilasciati attestati per progetti e programmi di riduzione delle emissioni 
 
 <sup>1</sup>
 
-I piani possono essere riuniti in un programma se:
+I progetti possono essere riuniti in un programma se:[^5a-1]
 
-- a. perseguono un obiettivo comune oltre alla riduzione delle emissioni;
+- a.[^5a-2] perseguono un obiettivo comune oltre alla riduzione delle emissioni o all’aumento delle prestazioni dei pozzi di carbonio;
 - b. impiegano una delle tecnologie stabilite nella descrizione del programma;
-- c. soddisfano i criteri di inclusione fissati nella descrizione del programma, i quali garantiscono che i piani adempiono i requisiti di cui all’articolo 5; e
+- c. soddisfano i criteri di inclusione fissati nella descrizione del programma, i quali garantiscono che i progetti[^5a-3] adempiono i requisiti di cui all’articolo 5; e
 - d. la loro realizzazione non è ancora iniziata.
 
-<sup>2</sup> I piani possono essere inclusi nei programmi esistenti se soddisfano le condizioni di cui al capoverso 1 e se è comprovato che erano notificati per partecipare al programma già prima di esservi inclusi.
+<sup>2</sup> I progetti possono essere inclusi nei programmi esistenti se soddisfano le condizioni di cui al capoverso 1 e se è comprovato che erano notificati per partecipare al programma già prima di esservi inclusi.
 
-<sup>3</sup> I programmi che dopo la scadenza del primo periodo di credito includono un unico piano sono portati avanti come progetti secondo l’articolo 5.[^5a-1]
+<sup>3</sup> I programmi che dopo la scadenza del primo periodo di credito includono un unico progetto sono portati avanti come progetti secondo l’articolo 5.[^5a-4]
 
-[^5a-1]: Introdotto dal n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^5a-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^5a-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^5a-3]: Nuova espressione giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)). Di detta mod, è tenuto conto in tutto il presente testo.
+[^5a-4]: Introdotto dal n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+
+#### Art. 5b
+
+**Accompagnamento scientifico**[^5b-1]
+
+<sup>1</sup> In caso di progetti o programmi il cui effetto secondo l’articolo 5 capoverso 1 lettera c numero 1 non può essere quantificato in modo sufficientemente preciso, la persona richiedente esegue, a proprie spese, provvedimenti di accompagnamento del progetto in base a principi scientifici (accompagnamento scientifico).
+
+<sup>2</sup>
+
+La persona richiedente presenta all’Ufficio federale dell’ambiente (UFAM) un piano per l’accompagnamento scientifico. Il piano contiene in particolare indicazioni riguardanti:
+
+- a. l’obiettivo e la problematica;
+- b. lo stato attuale delle conoscenze, compresi i dati statistici utilizzati per determinare l’inaccuratezza della misurabilità;
+- c. la procedura e la valutazione;
+- d. le conoscenze specialistiche delle persone che partecipano all’accompagnamento scientifico;
+- e. l’indipendenza e i possibili conflitti d’interesse delle persone che partecipano all’accompagnamento scientifico.
+
+<sup>3</sup> L’accompagnamento scientifico termina quando l’effetto del progetto o del programma è stato quantificato in modo sufficientemente preciso. L’UFAM decide in merito alla fine dell’accompagnamento scientifico. Nella sua decisione tiene conto della raccomandazione dell’organismo di controllo.
+
+<sup>4</sup> I risultati dei provvedimenti di accompagnamento al progetto devono essere pubblicati nel rispetto dei segreti di fabbricazione e d’affari.
+
+[^5b-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 6
 
-**Convalida di progetti e programmi**
+**Convalida di progetti e programmi**[^6-1]
 
-<sup>1</sup> Chi intende chiedere attestati per un progetto o un programma di riduzione delle emissioni deve farlo convalidare a proprie spese da un organismo di convalida ammesso dall’UFAM.
-
-<sup>2bis</sup> Il richiedente può far svolgere all’UFAM un esame preliminare della bozza di progetto. Se l’UFAM ha svolto un esame preliminare, occorre inoltrare all’organismo di convalida, oltre alle informazioni di cui al capoverso 2, anche la bozza di progetto e i risultati di tale esame.[^6-1]
-
-<sup>2ter</sup> Per progetti e programmi connessi a una rete di riscaldamento a distanza o per progetti o programmi riguardanti gas di discarica, la descrizione dei dati richiesti al capoverso 2 lettere d, e, nonché i avviene secondo i requisiti di cui agli allegati 3*a* o 3*b*.[^6-2]
+<sup>1</sup> Chi intende chiedere attestati per un progetto o un programma deve farlo convalidare a proprie spese da un organismo di convalida ammesso dall’UFAM.
 
 <sup>2</sup>
 
 All’organismo di convalida deve essere presentata una descrizione del progetto o del programma. Essa deve contenere informazioni riguardanti:
 
-- a. i provvedimenti di riduzione delle emissioni;
+- a. i provvedimenti di riduzione delle emissioni o di aumento delle prestazioni dei pozzi di carbonio;
 - b. le tecnologie impiegate;
 - c. la delimitazione rispetto ad altri strumenti di politica climatica ed energetica;
-- d. l’evoluzione ipotetica delle emissioni di gas serra se i provvedimenti di riduzione delle emissioni del progetto o del programma non venissero realizzati (evoluzione di riferimento);
-- e. la portata delle attese riduzioni delle emissioni annuali e il metodo di calcolo applicato;
+- d. l’evoluzione ipotetica delle emissioni di gas serra se i provvedimenti del progetto o del programma di riduzione delle emissioni o di aumento delle prestazioni dei pozzi di carbonio non venissero realizzati (evoluzione di riferimento);
+- e. la portata delle attese riduzioni delle emissioni annuali o dell’aumento delle prestazioni dei pozzi di carbonio e il metodo di calcolo applicato;
 - f. l’organizzazione del progetto o del programma;
 - g. i probabili costi di investimento e di esercizio e i probabili proventi;
 - h. il finanziamento;
-- i. il piano di monitoraggio, che stabilisce l’inizio del monitoraggio e definisce il metodo che permette di comprovare la riduzione delle emissioni;
-- j.[^6-3] la durata del progetto, del programma e dei singoli piani;
-- k. inoltre, per i programmi: lo scopo, i criteri per l’inclusione dei piani nel programma, la gestione dei piani, nonché un esempio di piano per ogni tecnologia definita.
+- i. il piano di monitoraggio, che stabilisce l’inizio del monitoraggio e definisce il metodo che permette di comprovare la riduzione delle emissioni o l’aumento delle prestazioni dei pozzi di carbonio;
+- j. la durata del progetto o del programma;
+- k. inoltre, per i programmi: lo scopo, i criteri per l’inclusione dei progetti nel programma, la gestione dei progetti, nonché un esempio di progetto per ogni tecnologia definita;
+- l. inoltre, per progetti o programmi con un accompagnamento scientifico, nel piano di monitoraggio secondo la lettera i: un piano secondo l’articolo 5*b*;
+- m. inoltre, per progetti o programmi di aumento delle prestazioni dei pozzi di carbonio, nel piano di monitoraggio di cui alla lettera i: la procedura che permette di dimostrare che la permanenza di cui all’articolo 5 capoverso 2 è garantita;
+- n.
 
-<sup>3</sup> Per la convalida, l’organismo di convalida esamina le informazioni di cui al capoverso 2 e se il progetto è conforme ai requisiti di cui all’articolo 5 o se il programma è conforme ai requisiti di cui agli articoli 5 e 5*a*.
+  per progetti o programmi realizzati all’estero, inoltre:
 
-<sup>4</sup> Riassume i risultati dell’esame in un rapporto di convalida.
+  - 1\. il contributo atteso per lo sviluppo sostenibile in loco sulla base di indicatori che illustrano i contributi agli obiettivi di sviluppo sostenibile delle Nazioni Unite e che possono essere verificati oggettivamente, e
+  - 2\. un piano di sostenibilità finanziaria che illustri l’esercizio e la manutenzione a lungo termine della tecnologia al termine del periodo di credito.
 
-[^6-1]: Introdotto dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^6-2]: Originario cpv. 2 <sup>bis</sup>. Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 (RU **2018** 5477).
-[^6-3]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+<sup>3</sup> Per progetti e programmi realizzati in Svizzera, connessi a una rete di riscaldamento a distanza e per progetti o programmi riguardanti gas di discarica, la descrizione dei dati richiesti al capoverso 2 lettere d, e, nonché i, avviene secondo i requisiti di cui rispettivamente agli allegati 3*a* e3*b*.
+
+<sup>4</sup> La persona richiedente può far svolgere all’UFAM un esame preliminare della bozza di progetto. Se l’UFAM ha svolto un esame preliminare, occorre inoltrare all’organismo di convalida, oltre alle informazioni di cui al capoverso 2, anche la bozza di progetto e i risultati di tale esame.
+
+<sup>5</sup> Per la convalida, l’organismo di convalida esamina le informazioni di cui al capoverso 2 e se il progetto è conforme ai requisiti di cui all’articolo 5 o se il programma è conforme ai requisiti di cui agli articoli 5 e 5*a*.
+
+<sup>6</sup> Riassume i risultati dell’esame in un rapporto di convalida.
+
+<sup>7</sup> L’UFAM stabilisce la forma della descrizione del progetto o del programma e del rapporto di convalida.
+
+[^6-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 7
 
-**Domanda di rilascio di attestati**
+**Domanda di valutazione dell’idoneità di un progetto o di un programma per il rilascio di attestati**[^7-1]
 
-<sup>1</sup> La domanda di rilascio di attestati deve essere presentata all’UFAM. Essa comprende la descrizione del progetto o del programma e il rapporto di convalida.
+<sup>1</sup> Chi intende chiedere attestati per un progetto o un programma deve presentare all’UFAM una domanda di valutazione dell’idoneità per il rilascio di attestati. La domanda comprende la descrizione del progetto o del programma e il rapporto di convalida.
 
-<sup>2</sup> L’UFAM può chiedere al richiedente le informazioni supplementari di cui necessita per valutare la domanda.
+<sup>2</sup> Per progetti o programmi all’estero, la domanda comprende anche la decisione dello Stato partner sull’idoneità del progetto o del programma.
 
-<sup>3</sup> L’UFAM prescrive la forma della descrizione del progetto o del programma.[^7-1]
+<sup>3</sup> L’UFAM può chiedere alla persona richiedente le informazioni supplementari di cui necessita per valutare la domanda.
 
-[^7-1]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 (RU **2018** 5477).
+[^7-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 8
 
-**Decisione sull’idoneità di un progetto o di un programma**
+**Decisione sull’idoneità di un progetto o di un programma per il rilascio di attestati**[^8-1]
 
-<sup>1</sup> L’UFAM decide in base alla domanda se il progetto o il programma è idoneo al rilascio di attestati.
+<sup>1</sup> L’UFAM decide in base alla domanda ed eventualmente alle informazioni supplementari secondo l’articolo 7 capoverso 3 se il progetto o il programma è idoneo al rilascio di attestati.
 
-<sup>2</sup> La decisione è valida per sette anni dall’inizio della realizzazione del progetto o del programma (periodo di credito).
+<sup>2</sup> Se nell’ambito di progetti o programmi realizzati all’estero lo Stato partner stabilisce, nell’autorizzazione del progetto o del programma, una limitazione all’utilizzazione ammessa delle riduzioni delle emissioni o dell’aumento delle prestazioni dei pozzi di carbonio, tale limitazione è presa in considerazione nella decisione.
 
-<sup>3</sup>
+<sup>3</sup> La decisione è valida dall’inizio della realizzazione del progetto o del programma fino al più tardi al 31 dicembre 2030 (periodo di credito).
 
-Per i piani inclusi in programmi non viene rilasciato alcun attestato se:
-
-- a. in seguito a una modifica di disposizioni legali determinanti, durante il periodo di credito devono venire realizzati provvedimenti di riduzione delle emissioni;
-- b. le riduzioni delle emissioni fatte valere per il rilascio di attestati sono riconducibili alla realizzazione dei provvedimenti di cui alla lettera a; e
-- c. la realizzazione dei piani è iniziata soltanto dopo l’entrata in vigore della modifica delle disposizioni legali.
+[^8-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 8a
 
-**Proroga del periodo di credito**
+**Menzione nel registro fondiario**[^8a-1]
 
-<sup>1</sup> Il periodo di credito è prorogato di altri tre anni se il richiedente fa convalidare nuovamente il progetto o il programma e presenta all’UFAM una domanda di proroga al più tardi sei mesi prima della scadenza del periodo di credito.
+<sup>1</sup> La limitazione dell’utilizzazione come serbatoio biologico o geologico del carbonio deve essere menzionata nel registro fondiario su richiesta di iscrizione dell’UFAM. Ciò non si applica allo stoccaggio del carbonio nei materiali da costruzione.
 
-<sup>2</sup> L’UFAM approva la proroga se continuano a essere adempiuti i requisiti di cui agli articoli 5 e 5*a*.
+<sup>2</sup>
+
+L’UFAM notifica la cancellazione della menzione nel registro fondiario se:
+
+- a. il progetto o il programma è terminato, ma al più presto 30 anni dopo l’inizio degli effetti; oppure
+- b. il carbonio stoccato è rilasciato sul fondo in questione prima di tale data.
+
+<sup>3</sup> Il proprietario del fondo in questione si assume le spese d’iscrizione, modifica e cancellazione.
+
+<sup>4</sup> I Cantoni informano senza indugio l’UFAM non appena il fondo in questione è utilizzato per altri scopi.
+
+[^8a-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+
+#### Art. 8b
+
+**Proroga del periodo di credito**[^8b-1]
+
+<sup>1</sup>
+
+Il periodo di credito per progetti o programmi realizzati in Svizzera, che sono stati considerati idonei prima del 1°gennaio 2022, è prorogato fino al massimo al 31 dicembre 2030 se la persona richiedente:
+
+- a. fa convalidare nuovamente il progetto o il programma; e
+- b. presenta all’UFAM una domanda di proroga al più tardi sei mesi prima della scadenza del periodo di credito.
+
+<sup>2</sup> L’UFAM approva la proroga se continuano a essere adempiuti i requisiti determinanti di cui agli articoli 5 e 5*a*.
+
+[^8b-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 9
 
-**Rapporto di monitoraggio e verifica del rapporto di monitoraggio**
+**Rapporto di monitoraggio e verifica del rapporto di monitoraggio**[^9-1]
 
-<sup>1</sup> Il richiedente rileva i dati che secondo il piano di monitoraggio sono necessari a comprovare la riduzione delle emissioni e li registra in un rapporto di monitoraggio.
+<sup>1</sup> La persona richiedente rileva i dati che secondo il piano di monitoraggio sono necessari a comprovare la riduzione delle emissioni o l’aumento delle prestazioni dei pozzi di carbonio e la loro permanenza e li registra in un rapporto di monitoraggio.
 
-<sup>2</sup> A proprie spese, sottopone il rapporto di monitoraggio per verifica a un organismo di controllo ammesso dall’UFAM. Questa verifica non può essere effettuata dallo stesso organismo che ha convalidato il progetto o il programma.
+<sup>2</sup> A proprie spese, essa sottopone il rapporto di monitoraggio per verifica a un organismo di controllo ammesso dall’UFAM. Questa verifica non può essere effettuata dallo stesso organismo che ha convalidato il progetto o il programma in ultima istanza.
 
-<sup>3</sup> L’organismo di controllo esamina se le riduzioni delle emissioni comprovate adempiono i requisiti di cui all’articolo 5. Per i programmi, esamina inoltre se i piani adempiono i requisiti di inclusione di cui all’articolo 5*a* capoverso 1 lettera c. Può limitare l’esame a singoli piani rappresentativi.
+<sup>3</sup> L’organismo di controllo esamina se le riduzioni delle emissioni comprovate o l’aumento delle prestazioni dei pozzi di carbonio adempiono i requisiti di cui all’articolo 5. Per i programmi, esamina inoltre se i progetti adempiono i requisiti di inclusione di cui all’articolo 5*a* capoverso 1 lettera c. Esso può limitare l’esame a singoli progetti rappresentativi del programma.
 
 <sup>4</sup> L’organismo di controllo registra i risultati della verifica in un rapporto di verifica.
 
-<sup>5</sup> Tutti i rapporti di monitoraggio e i relativi rapporti di verifica devono essere presentati all’UFAM almeno ogni tre anni a partire dall’inizio della realizzazione secondo l’articolo 5 capoverso 2. Le riduzioni delle emissioni devono essere comprovate per ogni anno civile.[^9-1]
+<sup>5</sup> Il rapporto di monitoraggio, i dati delle misurazioni e il relativo rapporto di verifica comprendono un periodo massimo di tre anni. Devono essere presentati all’UFAM al più tardi un anno dopo tale periodo. Le riduzioni delle emissioni o l’aumento delle prestazioni dei pozzi di carbonio devono essere comprovati per ogni anno civile.
 
-<sup>6</sup> L’UFAM prescrive la forma del rapporto di monitoraggio.[^9-2]
+<sup>6</sup> Per i progetti o i programmi con accompagnamento scientifico, i rapporti di monitoraggio, i relativi rapporti di verifica e i risultati dell’accompagnamento scientifico devono essere presentati all’UFAM annualmente. La quantificazione delle riduzioni delle emissioni o dell’aumento delle prestazioni dei pozzi di carbonio deve essere rivalutata annualmente.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 (RU **2018** 5477).
-[^9-2]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 (RU **2018** 5477).
+<sup>7</sup> Per i progetti o i programmi in relazione con un obiettivo di emissione di cui all’articolo 67, i rapporti di monitoraggio e i rapporti di verifica devono essere presentati all’UFAM annualmente entro il 31 maggio dell’anno successivo.
+
+<sup>8</sup> Per i progetti o i programmi di stoccaggio del carbonio, indipendentemente dalla loro durata, per il 2030 deve essere presentato all’UFAM un rapporto di monitoraggio e di verifica.
+
+<sup>9</sup> L’UFAM emana disposizioni sulla forma del rapporto di monitoraggio e di verifica.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 10
 
-**Rilascio degli attestati**
+**Rilascio degli attestati**[^10-1]
 
-<sup>1</sup> L’UFAM esamina il rapporto di monitoraggio e il relativo rapporto di verifica. Se necessario per il rilascio di attestati, l’UFAM effettua ulteriori chiarimenti presso il richiedente.[^10-1]
+<sup>1</sup> L’UFAM esamina il rapporto di monitoraggio e il relativo rapporto di verifica. Se necessario per il rilascio di attestati, l’UFAM effettua ulteriori accertamenti presso la persona richiedente.
 
-<sup>1bis</sup> Esso decide sulla base delle informazioni di cui al capoverso 1 sul rilascio di attestati.[^10-2]
+<sup>2</sup> Per il rilascio di attestati internazionali esso verifica inoltre il riconoscimento del trasferimento delle riduzioni delle emissioni o dell’aumento delle prestazioni dei pozzi di carbonio da parte dello Stato partner. Se necessario per il rilascio di attestati internazionali, l’UFAM effettua ulteriori chiarimenti presso lo Stato partner.
 
-<sup>2</sup> Per i progetti, gli attestati sono rilasciati in misura corrispondente alle riduzioni delle emissioni delle quali è comprovato che sono state conseguite sino alla fine del periodo di credito.
+<sup>3</sup> Esso decide sulla base delle informazioni di cui ai capoversi 1 e 2 sul rilascio di attestati.
 
-<sup>3</sup> Per i programmi, gli attestati sono rilasciati in misura corrispondente alle riduzioni delle emissioni delle quali è comprovato che sono state conseguite fino al massimo dieci anni dopo la scadenza del periodo di credito, per quanto la la realizzazione del piano in questione sia iniziata durante il periodo di credito.
+<sup>4</sup> Per progetti e programmi, gli attestati sono rilasciati in misura corrispondente alle riduzioni delle emissioni o all’aumento delle prestazioni dei pozzi di carbonio per cui è comprovato il conseguimento sino alla fine del periodo di credito.
 
-<sup>4</sup> Al richiedente sono rilasciati attestati per le riduzioni delle emissioni riconducibili a prestazioni in denaro non rimborsabili di Confederazione, Cantoni o Comuni volte a promuovere le energie rinnovabili, l’efficienza energetica o la protezione del clima unicamente se comprova che l’ente pubblico competente non fa valere in altro modo le riduzioni delle emissioni. Non sono rilasciati attestati per le riduzioni delle emissioni riconducibili al versamento di fondi sulla base dell’articolo 19 in combinato disposto con l’articolo 21 o degli articoli 25, 27, 32 e 73 capoverso 4 della legge del 30 settembre 2016[^10-3] sull’energia (LEne).[^10-4]
+<sup>5</sup> Per i progetti non ancora realizzati nell’ambito di programmi non sono rilasciati attestati se, a seguito di una modifica di disposizioni legali determinanti, devono essere attuati i provvedimenti previsti nel programma per ridurre le emissioni o aumentare la capacità dei pozzi di carbonio.
 
-<sup>5</sup> Il plusvalore ecologico delle riduzioni delle emissioni è compensato con il rilascio dell’attestato. Se il plusvalore ecologico è già stato indennizzato, non viene rilasciato alcun attestato.
+<sup>6</sup> Gli attestati sono rilasciati in misura delle riduzioni delle emissioni o dell’aumento delle prestazioni dei pozzi di carbonio complessivi attestati annualmente.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
-[^10-2]: Introdotto dal n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
-[^10-3]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^10-4]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+<sup>7</sup> Alla persona richiedente sono rilasciati attestati per le riduzioni delle emissioni o l’aumento delle prestazioni dei pozzi di carbonio riconducibili a prestazioni in denaro non rimborsabili di Confederazione, Cantoni o Comuni volte a promuovere le energie rinnovabili, l’efficienza energetica o la protezione del clima unicamente se comprova che l’ente pubblico competente non fa valere in altro modo le riduzioni delle emissioni. Non sono rilasciati attestati per le riduzioni delle emissioni riconducibili al versamento di fondi sulla base dell’articolo 19 della legge del 30 settembre 2016[^10-2] sull’energia (LEne).
+
+<sup>8</sup> Il plusvalore ecologico derivante dalle riduzioni delle emissioni o dall’aumento delle prestazioni dei pozzi di carbonio è compensato con il rilascio dell’attestato. Se il plusvalore ecologico è già stato indennizzato, non viene rilasciato alcun attestato.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^10-2]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 
 #### Art. 11
 
-**Modifiche sostanziali del progetto o del programma**
+**Modifiche sostanziali del progetto o del programma**[^11-1]
 
 <sup>1</sup> Le modifiche sostanziali del progetto o del programma apportate dopo la decisione sull’idoneità o sulla proroga del periodo di credito devono essere notificate all’UFAM.
 
@@ -316,19 +337,20 @@ Per i piani inclusi in programmi non viene rilasciato alcun attestato se:
 
 Una modifica di un progetto o di un programma è sostanziale in particolare se:
 
-- a. le riduzioni delle emissioni differiscono di oltre il 20 per cento dalle attese riduzioni delle emissioni annuali indicate nella descrizione del progetto o del programma;
-- b. i costi di investimento e di esercizio differiscono di oltre il 20 per cento dai valori indicati nella descrizione del progetto o del programma.
+- a. le riduzioni delle emissioni o l’aumento delle prestazioni dei pozzi di carbonio differiscono di oltre il 20 per cento dalle riduzioni delle emissioni o dall’aumento delle prestazioni dei pozzi di carbonio, che sono attesi in quell’anno e indicati nella descrizione del progetto o del programma;
+- b. i costi di investimento e di esercizio o i ricavi differiscono di oltre il 20 per cento dai valori indicati nella descrizione del progetto o del programma;
+- c. si verifica un cambiamento tecnologico; oppure
+- d. il limite di sistema di un progetto o di un programma è modificato.
 
-<sup>3</sup> Se necessario, l’UFAM ordina una nuova convalida. Per le riduzioni delle emissioni conseguite dopo una modifica sostanziale sono rilasciati attestati soltanto dopo la nuova decisione sull’idoneità conformemente all’articolo 8.
+<sup>3</sup> Se necessario, l’UFAM ordina una nuova convalida. Per le riduzioni delle emissioni o l’aumento delle prestazioni dei pozzi di carbonio conseguiti dopo una modifica sostanziale sono rilasciati attestati soltanto dopo la nuova decisione sull’idoneità conformemente all’articolo 8.
 
-<sup>4</sup>
+<sup>4</sup> Per progetti e programmi all’estero è inoltre necessaria una nuova decisione dello Stato partner in merito all’idoneità.
 
-Dopo una nuova convalida, il periodo di credito a partire dal momento in cui si verifica la modifica sostanziale è di:[^11-1]
+<sup>5</sup> L’UFAM approva la modifica sostanziale se continuano a essere adempiuti i requisiti di cui agli articoli 5 e 5*a*.
 
-- a. sette anni se il periodo di credito non è stato ancora prorogato;
-- b. tre anni se il periodo di credito è già stato prorogato.
+<sup>6</sup> Dopo una nuova convalida, il periodo di credito decorre dal momento in cui si verifica la modifica sostanziale fino al 31 dicembre 2030.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^11-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### Sezione 5*a*: Attestati per i gestori di impianti****
 
@@ -424,15 +446,17 @@ Ai gestori di impianti che hanno convenuto con la Confederazione obiettivi sull�
 
 I dati e i documenti seguenti sono gestiti in una banca dati tenuta dall’UFAM:
 
-- a. nome, cognome e informazioni di contatto del richiedente, dell’organismo di convalida e dell’organismo di controllo;
+- a. nome, cognome e informazioni di contatto della persona richiedente[^13-3], dell’organismo di convalida e dell’organismo di controllo;
 - b. il numero di attestati rilasciati;
 - c. i dati fondamentali del progetto o del programma; e
-- d. la descrizione del progetto e del programma, i rapporti di convalida, i rapporti di monitoraggio e i rapporti di verifica.
+- d.[^13-4] la descrizione del progetto e del programma, i rapporti di convalida, i rapporti di monitoraggio, i rapporti di verifica e i rispettivi dati.
 
 <sup>3</sup> Il titolare di un attestato può accedere, su richiesta, ai dati di cui al capoverso 2 lettere a e b che riguardano il suo attestato. L’accesso ai dati e ai documenti di cui al capoverso 2 lettere c e d può essere accordato se sono tutelati il segreto di fabbricazione e il segreto d’affari.
 
 [^13-1]: Nuovo testo giusta il n. I dell’O dell’8 ott. 2014, in vigore dal 1° dic. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
 [^13-2]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^13-3]: Nuova espr. giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)). Di detta mod. é tenuto conto in tutto il presente testo
+[^13-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 14
 
@@ -442,17 +466,19 @@ I dati e i documenti seguenti sono gestiti in una banca dati tenuta dall’UFAM:
 
 Sempre che siano tutelati il segreto di fabbricazione e il segreto d’affari, l’UFAM può pubblicare:
 
-- a. le descrizioni dei progetti e dei programmi di riduzione delle emissioni realizzati in Svizzera;
-- b. i rapporti di convalida di cui all’articolo 6 capoverso 4;
+- a.[^14-2] le descrizioni dei progetti e dei programmi di riduzione delle emissioni o di aumento delle prestazioni dei pozzi di carbonio;
+- b. [^14-3] i rapporti di convalida di cui all’articolo 6 capoverso 6;
 - c. i rapporti di monitoraggio di cui all’articolo 9 capoverso 1;
 - d. i rapporti di verifica di cui all’articolo 9 capoverso 4;
-- e.[^14-2] le decisioni di cui agli articoli 8 capoverso 1 e 10 capoverso 1<sup>bis</sup>.
+- e.[^14-4] le decisioni di cui agli articoli 8 capoverso 1 e 10 capoverso 1<sup>bis</sup>.
 
-<sup>2</sup> Prima della pubblicazione l’UFAM sottopone al richiedente i documenti di cui al capoverso 1. Gli chiede di indicare le informazioni soggette al segreto di fabbricazione e d’affari.[^14-3]
+<sup>2</sup> Prima della pubblicazione l’UFAM sottopone alla persona richiedente i documenti di cui al capoverso 1. Le chiede di indicare le informazioni soggette al segreto di fabbricazione e d’affari.[^14-5]
 
 [^14-1]: Nuovo testo giusta il n. I dell’O dell’8 ott. 2014, in vigore dal 1° dic. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
-[^14-2]: Introdotta dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^14-3]: Introdotto dal n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^14-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^14-3]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^14-4]: Introdotta dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^14-5]: Introdotto dal n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 
 ### Sezione 6: Coordinamento dei provvedimenti di adattamento
 
@@ -489,7 +515,7 @@ Il rapporto deve contenere informazioni concernenti:
 
 #### Art. 17
 
-**Campo d’applicazione**[^17-1]
+**Campo di applicazione personale[^17-2]**[^17-1]
 
 <sup>1</sup>
 
@@ -501,23 +527,65 @@ Alle disposizioni del presente capitolo è assoggettato chi importa o produce in
 
 <sup>2</sup>
 
-È considerato importatore di un veicolo chi:
+È considerato importatore di un veicolo chi:[^17-3]
 
-- a. è titolare dell’approvazione del tipo o della scheda tecnica di cui agli articoli 3 e 3*a* dell’ordinanza del 19 giugno 1995[^17-2] concernente l’approvazione del tipo di veicoli stradali (OATV): se per l’immatricolazione del veicolo viene utilizzata l’approvazione del tipo o la corrispondente scheda tecnica;
-- b. è importatore del veicolo secondo la dichiarazione doganale: se per l’immatricolazione del veicolo viene utilizzato il certificato di conformità in formato elettronico (Certificate of Conformity, COC) secondo l’articolo 37 del regolamento (UE) 2018/858[^17-3]; oppure
+- a. è titolare dell’approvazione del tipo o della scheda tecnica di cui agli articoli 3 e 3*a* dell’ordinanza del 19 giugno 1995[^17-4] concernente l’approvazione del tipo di veicoli stradali (OATV): se per l’immatricolazione del veicolo viene utilizzata l’approvazione del tipo o la corrispondente scheda tecnica;
+- b.[^17-5] è importatore del veicolo secondo la dichiarazione doganale: se per l’omologazione del veicolo viene utilizzato il certificato di conformità in formato elettronico secondo l’articolo 37 del regolamento (UE) 2018/858[^17-6] (*Certificate of Conformity,* COC); oppure
 - c. chi ottiene dall’Ufficio federale delle strade (USTRA) la certificazione di importatore: se per l’immatricolazione non viene utilizzato alcun documento di cui alle lettere a e b.
 
 [^17-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^17-2]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
-[^17-3]: Cfr. nota a piè di pagina relativa all’art. 2 lett. a n. 2
+[^17-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^17-3]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^17-4]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^17-5]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^17-6]: Regolamento (UE) n. 2018/858 del Parlamento europeo e del Consiglio, del 30 maggio 2018, relativo all’omologazione e alla vigilanza del mercato dei veicoli a motore e dei loro rimorchi, nonché dei sistemi, dei componenti e delle entità tecniche indipendenti destinati a tali veicoli, che modifica i regolamenti (CE) n. 715/2007 e (CE) n. 595/2009 e abroga la direttiva 2007/46/CE, GU L 151 del 14.6.2018, pag. 1; modificato da ultimo dal regolamento (UE) 2019/2144, GU L 325 del 16.12.2019, pag. 1.
 
 #### Art. 17a
 
-**Prima messa in circolazione**[^17a-1]
+**Automobile**[^17a-1]
+
+<sup>1</sup> Le disposizioni del presente capitolo si applicano alle automobili di cui all’articolo 11 capoverso 2 lettera a dell’ordinanza del 19 giugno 1995[^17a-2] concernente le esigenze tecniche per i veicoli stradali (OETV).
+
+<sup>2</sup> Non si applicano ai veicoli per uso speciale secondo l’allegato II parte A punto 5 della direttiva 2007/46/CE[^17a-3] o secondo l’allegato I parte A punto 5 del regolamento (UE) 2018/858[^17a-4].
+
+[^17a-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^17a-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^17a-3]: Direttiva 2007/46/CE del Parlamento europeo e del Consiglio, del 5 settembre 2007, che istituisce un quadro per l’omologazione dei veicoli a motore e dei loro rimorchi, nonché dei sistemi, componenti ed entità tecniche destinati a tali veicoli («direttiva quadro»), GU L 263 del 9.10.2007, pag. 1; modificata da ultimo dal regolamento (UE) 2019/543, GU L 95 del 4.4.2019, pag. 1.
+[^17a-4]: Cfr. nota a piè di pagina relativa all’art. 17 cpv. 2 lett. b.
+
+#### Art. 17b
+
+**Autofurgoni**[^17b-1]
+
+<sup>1</sup> Le disposizioni del presente capitolo si applicano ai furgoni secondo l’articolo 11 capoverso 2 lettera e OETV con un peso complessivo non superiore a 3,50 t, nonché ai veicoli con una propulsione a zero emissioni e un peso complessivo da 3,5 t a 4,25 t che, a prescindere dal peso, corrispondono alla definizione di autofurgone purché il peso che oltrepassa 3,5 t possa essere causato unicamente dal peso aggiuntivo della propulsione a zero emissioni.
+
+<sup>2</sup> Esse non si applicano agli autofurgoni con peso a vuoto superiore a 2,585 t, le cui emissioni sono rilevate in base alla procedura di misurazione per veicoli pesanti conformemente al regolamento (CE) n. 595/2009[^17b-2] e che non dispongono di una propulsione esclusivamente elettrica con elettricità o idrogeno quale fonte di energia, e neppure ai veicoli per uso speciale secondo l’allegato II parte A numero 5 della direttiva 2007/46/CE[^17b-3] o secondo l’allegato I parte A numero 5 del regolamento (UE) 2018/858[^17b-4].
+
+[^17b-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^17b-2]: Regolamento (CE) n. 595/2009 del Parlamento europeo e del Consiglio, del 18 giugno 2009, relativo all’omologazione dei veicoli a motore e dei motori riguardo alle emissioni dei veicoli pesanti (euro VI) e all’accesso alle informazioni relative alla riparazione e alla manutenzione del veicolo e che modifica il regolamento (CE) n. 715/2007 e la direttiva 2007/46/CE e che abroga le direttive 80/1269/CEE, 2005/55/CE e 2005/78/CE, GU L 188 del 18.7.2009, pag. 1; modificato da ultimo dal regolamento (UE) n. 133/2014, GU L 47 del 18.2.2014, pag. 1.
+[^17b-3]: Cfr. nota a piè di pagina relativa all’art. 17*a* cpv. 2.
+[^17b-4]: Cfr. nota a piè di pagina relativa all’art. 17 cpv. 2 lett. b.
+
+#### Art. 17c
+
+**Trattori a sella leggeri**[^17c-1]
+
+<sup>1</sup> Le disposizioni del presente capitolo si applicano ai trattori a sella leggeri di cui all’articolo 11 capoverso 2 lettera i OETV con un peso complessivo fino a 3,50 t.
+
+<sup>2</sup> Esse non si applicano ai trattori a sella con peso a vuoto superiore a 2,585 t, le cui emissioni sono rilevate in base alla procedura di misurazione per veicoli pesanti conformemente al regolamento (CE) n. 595/2009[^17c-2], e neppure ai veicoli per uso speciale secondo l’allegato II parte A numero 5 della direttiva 2007/46/CE[^17c-3] o secondo l’allegato I parte A numero 5 del regolamento (UE) 2018/858[^17c-4].
+
+[^17c-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^17c-2]: Cfr. nota a piè di pagina relativa all’art. 17*b* cpv. 2.
+[^17c-3]: Cfr. nota a piè di pagina relativa all’art. 17*a* cpv. 2.
+[^17c-4]: Cfr. nota a piè di pagina relativa all’art. 17 cpv. 2 lett. b.
+
+#### Art. 17d
+
+**Prima messa in circolazione**[^17d-1]
 
 <sup>1</sup> Sono considerati messi in circolazione per la prima volta in Svizzera i veicoli ammessi per la prima volta alla circolazione e il cui uso specificato nella prima immatricolazione corrisponde all’uso effettivo da parte dell’utilizzatore finale.
 
-<sup>2</sup> L’immatricolazione in un’enclave doganale svizzera secondo l’articolo 3 capoverso 3 della legge del 18 marzo 2005[^17a-2] sulle dogane (LD) e nel Liechtenstein è considerata come immatricolazione in Svizzera. L’immatricolazione in un’enclave doganale estera secondo l’articolo 3 capoverso 2 LD, fatta eccezione per il Liechtenstein, è considerata come immatricolazione all’estero.
+<sup>2</sup> L’immatricolazione in un’enclave doganale svizzera secondo l’articolo 3 capoverso 3 della legge del 18 marzo 2005[^17d-2] sulle dogane (LD) e nel Liechtenstein è considerata come immatricolazione in Svizzera. L’immatricolazione in un’enclave doganale estera secondo l’articolo 3 capoverso 2 LD, fatta eccezione per il Liechtenstein, è considerata come immatricolazione all’estero.
 
 <sup>3</sup> Non sono considerati messi in circolazione per la prima volta i veicoli importati la cui immatricolazione all’estero risale a più di sei mesi prima della dichiarazione doganale.
 
@@ -528,28 +596,28 @@ Se il termine di cui al capoverso 3 porta a una sostanziale disparità di tratta
 - [tab] a. ridurre il termine o prorogarlo a un anno al massimo;
 - [tab] b. stabilire un numero minimo di chilometri percorsi.
 
-[^17a-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^17a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^17d-1]: Originario art. 17*a*. Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^17d-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
-#### Art. 17a<sup>bis</sup>
+#### Art. 17e
 
-**Anno di riferimento**[^17abis-1]
+**Anno di riferimento**[^17e-1]
 
 Per anno di riferimento si intende l’anno civile in cui è stato esaminato il raggiungimento dell’obiettivo individuale.
 
-[^17abis-1]: Originario art. 17*a*. Introdotto dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^17e-1]: Originario art. 17*a* e 17*a*<sup>bis</sup>. Introdotto dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
-#### Art. 17b
+#### Art. 17f
 
-**Procedure di prova e di correlazione applicabili e obiettivi secondo l’articolo 10 capoversi 1 e 2 della legge sul CO<sub>2</sub>**[^17b-1]
+**Procedure di prova e di correlazione applicabili e obiettivi secondo l’articolo 10 capoversi 1 e 2 della legge sul CO<sub>2</sub>**[^17f-1]
 
 <sup>1</sup>
 
 Per determinare gli obiettivi di cui all’articolo 10 capoversi 1 e 2 della legge sul CO<sub>2</sub> si applicano le procedure di prova e di correlazione seguenti:
 
-- a. la procedura di prova per i veicoli leggeri armonizzata a livello mondiale secondo l’allegato XXI del regolamento (UE) 2017/1151[^17b-2] (WLTP);
-- b. le procedure di prova e di correlazione secondo l’allegato I del regolamento di esecuzione (UE) 2017/1152[^17b-3];
-- c. le procedure di prova e di correlazione secondo l’allegato I del regolamento di esecuzione (UE) 2017/1153[^17b-4].
+- a. la procedura di prova per i veicoli leggeri armonizzata a livello mondiale secondo l’allegato XXI del regolamento (UE) 2017/1151[^17f-2] (WLTP);
+- b. le procedure di prova e di correlazione secondo l’allegato I del regolamento di esecuzione (UE) 2017/1152[^17f-3];
+- c. le procedure di prova e di correlazione secondo l’allegato I del regolamento di esecuzione (UE) 2017/1153[^17f-4].
 
 <sup>2</sup>
 
@@ -558,10 +626,10 @@ In applicazione della procedura di prova e di correlazione di cui al capoverso 1
 - a. per le automobili: 118 grammi di CO<sub>2</sub>/km;
 - b. per gli autofurgoni e i trattori a sella leggeri: 186 grammi di CO<sub>2</sub>/km.
 
-[^17b-1]: Introdotto dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^17b-2]: Regolamento (UE) 2017/1151 della Commissione, del 1° giugno 2017, che integra il regolamento (CE) n. 715/2007 del Parlamento europeo e del Consiglio relativo all’omologazione dei veicoli a motore riguardo alle emissioni dai veicoli passeggeri e commerciali leggeri (Euro 5 ed Euro 6) e all’ottenimento di informazioni sulla riparazione e la manutenzione del veicolo, che modifica la direttiva 2007/46/CE del Parlamento europeo e del Consiglio, il regolamento (CE) n. 692/2008 della Commissione e il regolamento (UE) n. 1230/2012 della Commissione e abroga il regolamento (CE) n. 692/2008 della Commissione, GU L 175 del 7.7.2017, pag. 1; modificato da ultimo dal regolamento (UE) 2020/49 GU L 17 del 22.1.2020, pag. 1.
-[^17b-3]: Regolamento di esecuzione (UE) 2017/1152 della Commissione, del 2 giugno 2017, che stabilisce un metodo per determinare i parametri di correlazione necessari per tener conto del cambio di procedura regolamentare di prova per quanto riguarda i veicoli commerciali leggeri e che modifica il regolamento (UE) n. 293/2012, GU L 175 del 7.7.2017, pag. 644; modificato da ultimo dal regolamento di esecuzione (UE) 2019/1839, GU L 282 del 4.11.2019, pag. 1.
-[^17b-4]: Regolamento di esecuzione (UE) 2017/1153 della Commissione del 2 giugno 2017 che stabilisce un metodo per determinare i parametri di correlazione necessari per tener conto del cambio di procedura regolamentare di prova e che modifica il regolamento (UE) n. 1014/2010, GU L 175 del 7.7.2017, pag. 679; modificato da ultimo dal regolamento di esecuzione (UE) 2019/1840, GU L 282 del 4.11.2019, pag. 9.
+[^17f-1]: Originario art. 17*b*. Introdotto dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^17f-2]: Regolamento (UE) 2017/1151 della Commissione, del 1° giugno 2017, che integra il regolamento (CE) n. 715/2007 del Parlamento europeo e del Consiglio relativo all’omologazione dei veicoli a motore riguardo alle emissioni dai veicoli passeggeri e commerciali leggeri (Euro 5 ed Euro 6) e all’ottenimento di informazioni sulla riparazione e la manutenzione del veicolo, che modifica la direttiva 2007/46/CE del Parlamento europeo e del Consiglio, il regolamento (CE) n. 692/2008 della Commissione e il regolamento (UE) n. 1230/2012 della Commissione e abroga il regolamento (CE) n. 692/2008 della Commissione, GU L 175 del 7.7.2017, pag. 1; modificato da ultimo dal regolamento (UE) 2020/49 GU L 17 del 22.1.2020, pag. 1.
+[^17f-3]: Regolamento di esecuzione (UE) 2017/1152 della Commissione, del 2 giugno 2017, che stabilisce un metodo per determinare i parametri di correlazione necessari per tener conto del cambio di procedura regolamentare di prova per quanto riguarda i veicoli commerciali leggeri e che modifica il regolamento (UE) n. 293/2012, GU L 175 del 7.7.2017, pag. 644; modificato da ultimo dal regolamento di esecuzione (UE) 2019/1839, GU L 282 del 4.11.2019, pag. 1.
+[^17f-4]: Regolamento di esecuzione (UE) 2017/1153 della Commissione del 2 giugno 2017 che stabilisce un metodo per determinare i parametri di correlazione necessari per tener conto del cambio di procedura regolamentare di prova e che modifica il regolamento (UE) n. 1014/2010, GU L 175 del 7.7.2017, pag. 679; modificato da ultimo dal regolamento di esecuzione (UE) 2019/1840, GU L 282 del 4.11.2019, pag. 9.
 
 ### Sezione 2: Importatori e costruttori
 
@@ -599,9 +667,11 @@ A un costruttore si applicano nell’anno di riferimento per analogia le disposi
 
 **Raggruppamento di emissioni**
 
-<sup>1</sup> Gli importatori e i costruttori che intendono costituire un raggruppamento di emissioni devono presentare all’UFE, entro il 30 novembre antecedente l’anno di riferimento, una corrispondente richiesta per un periodo da uno a cinque anni.
+<sup>1</sup> Gli importatori e i costruttori che intendono costituire un raggruppamento di emissioni devono presentare all’UFE, entro il 31 dicembre antecedente l’anno di riferimento, una corrispondente richiesta per un periodo da uno a cinque anni.[^22-1]
 
 <sup>2</sup> Il raggruppamento di emissioni deve designare un rappresentante.
+
+[^22-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 22a
 
@@ -611,7 +681,10 @@ A un costruttore si applicano nell’anno di riferimento per analogia le disposi
 
 <sup>2</sup> L’importatore deve notificare tale accordo all’USTRA antecedentemente alla prima immatricolazione del veicolo. La notifica deve contenere una dichiarazione di consenso del grande importatore che riprende i veicoli.
 
+<sup>3</sup> I veicoli possono essere ceduti una sola volta. La revoca di una cessione non è possibile.[^22a-2]
+
 [^22a-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^22a-2]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### Sezione 3: Basi di calcolo
 
@@ -722,12 +795,12 @@ L’obiettivo individuale per le emissioni di CO<sub>2</sub> del parco veicoli n
 
 <sup>2</sup> Ai fini del calcolo della sanzione le emissioni che superano l’obiettivo individuale vengono arrotondate per difetto al precedente decigrammo di CO<sub>2</sub>/km.
 
-<sup>3</sup> Se non paga la sanzione entro il termine stabilito, il grande importatore deve un interesse di mora. Il relativo tasso d’interesse è stabilito dal Dipartimento federale delle finanze.[^30-2]
+<sup>3</sup> Se non paga la sanzione entro il termine stabilito, il grande importatore deve un interesse di mora. Il Dipartimento federale delle finanze (DFF) ne stabilisce il tasso.[^30-2]
 
 <sup>4</sup> ... [^30-3]
 
 [^30-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^30-2]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^30-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^30-3]: Abrogato dal n. I dell’O del 24 nov. 2021con effetto dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 #### Art. 31
@@ -740,16 +813,16 @@ L’obiettivo individuale per le emissioni di CO<sub>2</sub> del parco veicoli n
 
 Esso può chiedere ai grandi importatori il versamento di acconti trimestrali a titolo di computo dell’eventuale sanzione nell’anno di riferimento, in particolare se:
 
-- a. l’importatore è considerato provvisoriamente nell’anno di riferimento come grande importatore;
+- a. le emissioni di CO<sub>2</sub> medie di un parco veicoli nuovi superano l’obiettivo individuale nell’anno di riferimento di oltre 5 g CO<sub>2</sub>/km;
 - b. il grande importatore ha la propria sede all’estero;
-- c. a carico del grande importatore vi sono esecuzioni pendenti o gli è stato rilasciato un attestato di carenza di beni;
-- d. le emissioni di CO<sub>2</sub> medie di un parco veicoli nuovi superano l’obiettivo individuale nell’anno di riferimento di oltre 5 g CO<sub>2</sub>/km.
+- c. a carico del grande importatore vi sono esecuzioni pendenti o gli è stato rilasciato un attestato di carenza di beni.[^31-1]
 
 <sup>3</sup> L’UFE calcola gli importi degli acconti basandosi sui dati di cui al capoverso 1. Gli acconti già versati sono considerati nella fatturazione.
 
-<sup>4</sup> Se gli acconti versati superano la sanzione dovuta per l’intero anno per il parco veicoli nuovi, l’UFE rimborsa la differenza, compreso un interesse sugli importi da rimborsare. [^31-1]
+<sup>4</sup> Se gli acconti versati superano la sanzione dovuta per l’intero anno per il parco veicoli nuovi, l’UFE rimborsa la differenza, compreso un interesse sugli importi da rimborsare. [^31-2]
 
-[^31-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^31-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^31-2]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 #### Art. 32 e 33
 
@@ -824,9 +897,15 @@ L’UFE informa annualmente in forma appropriata la popolazione in merito al rag
 
 <sup>2</sup> Un gestore di impianti che vuole avviare un’attività secondo l’allegato 6 deve notificarlo all’UFAM al più tardi tre mesi prima del previsto avvio dell’attività.[^40-3]
 
+<sup>3</sup> La notifica deve contenere informazioni sulle attività di cui all’allegato 6 e sulle emissioni di gas serra.[^40-4]
+
+<sup>4</sup> L’UFAM può chiedere ulteriori informazioni di cui necessita per la valutazione della notifica.[^40-5]
+
 [^40-1]: Nuova espr. giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Di detta mod. é tenuto conto in tutto il presente testo. La correzione del 4 mar. 2022 concerne soltanto il testo francese ([RU 2022 150](https://fedlex.data.admin.ch/eli/oc/2022/150)).
 [^40-2]: Nuovo testo giusta il n. I dell’O dell’8 ott. 2014, in vigore dal 1° dic. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
 [^40-3]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^40-4]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^40-5]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 41
 
@@ -921,7 +1000,7 @@ L’UFAM decide in merito alla partecipazione dei gestori di impianti al SSQE e 
 
 L’UFAM trattiene ogni anno una quota dei diritti di emissione calcolati secondo il capoverso 1 per renderla accessibile ai seguenti gestori di impianti:
 
-- a. gestori di impianti che secondo l’articolo 46*a* capoverso 1 entrano a far parte del SSQE;
+- a.[^45-2] gestori di impianti che secondo l’articolo 46*a* capoverso 1 hanno diritto a un’assegnazione a titolo gratuito di diritti di emissione; e
 - b.
 
   gestori di impianti che già partecipano al SSQE, se:
@@ -933,7 +1012,7 @@ L’UFAM trattiene ogni anno una quota dei diritti di emissione calcolati second
 
 La quota di cui al capoverso 2 è costituita dalla somma:
 
-- a. del 5 per cento dei diritti di emissione secondo il capoverso 1; e
+- a.[^45-3] di almeno il 5 per cento dei diritti di emissione secondo il capoverso 1; e
 - b.
 
   dei diritti di emissione che non sono più assegnati a titolo gratuito in virtù:
@@ -946,14 +1025,21 @@ La quota di cui al capoverso 2 è costituita dalla somma:
 
 Se la quota di cui al capoverso 2 non è sufficiente per adempiere completamente i diritti, i diritti di emissione sono assegnati annualmente nel seguente ordine:
 
-- a. ai gestori di cui all’articolo 46*a* che fanno parte del SSQE da almeno un intero anno civile;
-- b. ai gestori di cui all’articolo 46*a* che sono entrati a far parte del SSQE l’anno precedente;
+- a. ai gestori di cui all’articolo 46*a* che fanno parte del SSQE da almeno un intero anno civile o i cui nuovi elementi di assegnazione sono in esercizio da almeno un intero anno civile;
+- b. ai gestori di cui all’articolo 46*a* che sono entrati a far parte del SSQE l’anno precedente o i cui nuovi elementi di assegnazione sono stati messi in esercizio l’anno precedente;
 - c. ai gestori di impianti di cui al capoverso 2 lettera b numero 2;
-- d. ai gestori di impianti di cui all’articolo 46*a*, che sono entrati a far parte del SSQE nell’anno interessato.
+- d. ai gestori di impianti di cui all’articolo 46*a* che sono entrati a far parte del SSQE nell’anno interessato o i cui nuovi elementi di assegnazione sono stati attivati nell’anno interessato.[^45-4]
 
-<sup>5</sup> Se all’interno di un gruppo di cui al capoverso 4 lettere a, b o d, i diritti non possono essere pienamente soddisfatti, per l’assegnazione dei diritti di emissione ai singoli gestori è determinante il momento della messa in esercizio degli impianti. Se i diritti non possono essere pienamente soddisfatti all’interno del gruppo secondo il capoverso 4 lettera c, l’UFAM riduce proporzionalmente la quantità di diritti di emissione da assegnare a titolo gratuito ai singoli gestori.
+<sup>5</sup> Se all’interno di un gruppo di cui al capoverso 4 lettere a, b o d, i diritti non possono essere pienamente soddisfatti, per l’assegnazione dei diritti di emissione ai singoli gestori è determinante il momento in cui sono entrati a far parte del SSQE o della messa in esercizio di nuovi elementi di assegnazione. Se la notifica è effettuata solo dopo l’inizio dell’attività o solo dopo la messa in esercizio di un nuovo elemento di assegnazione, è determinante la data della notifica.[^45-5]
+
+<sup>6</sup> Se i diritti non possono essere pienamente soddisfatti all’interno del gruppo secondo il capoverso 4 lettera c, l’UFAM riduce proporzionalmente la quantità di diritti di emissione da assegnare a titolo gratuito ai singoli gestori.[^45-6]
 
 [^45-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^45-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^45-3]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^45-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^45-5]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^45-6]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 46
 
@@ -1043,13 +1129,14 @@ Se la quota di cui al capoverso 2 non è sufficiente per adempiere completamente
 
 <sup>2</sup> *...*[^46f-3]
 
-<sup>3</sup> Un operatore di aeromobile che si è impegnato a partecipare al SSQE secondo l’articolo 46*d* capoverso 1 e che in un dato anno non opera voli secondo l’allegato 13 deve restituire i diritti di emissione assegnati a titolo gratuito per quell’anno entro il 31 marzo dell’anno successivo all’autorità competente di cui all’allegato 14. I diritti di emissione restituiti sono cancellati.
+<sup>3</sup> Un operatore di aeromobile a cui sono stati assegnati diritti di emissione a titolo gratuito e che in un dato anno non opera voli secondo l’allegato 13 deve restituire all’UFAM i diritti di emissione assegnati a titolo gratuito per quell’anno entro il 30 novembre dell’anno successivo. I diritti di emissione restituiti sono cancellati.[^46f-4]
 
 <sup>4</sup> I diritti di emissione che non possono essere assegnati a titolo gratuito sono cancellati.
 
 [^46f-1]: [RS 641.714.11](https://fedlex.data.admin.ch/eli/cc/2017/378)
 [^46f-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^46f-3]: Abrogato dal n. I dell’O del 25 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^46f-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### Sezione 2:**** Vendita all’asta dei diritti di emissione
 
@@ -1072,9 +1159,9 @@ Hanno diritto a partecipare all’asta dei diritti di emissione i gestori di imp
 L’UFAM vende all’asta regolarmente:
 
 - a.[^48-1] i diritti di emissione a disposizione per gli impianti del relativo anno che non vengono assegnati a titolo gratuito;
-- b. il 15 per cento dei diritti di emissione disponibili annualmente per gli aeromobili secondo l’allegato 15 numero 2.
+- b.[^48-2] il 15 per cento dei diritti di emissione disponibili annualmente per gli aeromobili secondo l’allegato 15 numero 3.
 
-<sup>1bis</sup> La quantità dei diritti di emissione da vendere all’asta secondo il capoverso 1 lettera a viene ridotta del 50 per cento se la differenza tra l’offerta di diritti di emissione per impianti e la domanda di diritti di emissione per impianti (quantità in circolazione) corrisponde a oltre il 50 per cento della quantità massima di diritti di emissione disponibili nell’anno precedente conformemente all’articolo 45 capoverso 1. Il calcolo della quantità in circolazione viene effettuato secondo quanto previsto nell’allegato 8 numero 2. [^48-2]
+<sup>1bis</sup> La quantità dei diritti di emissione da vendere all’asta secondo il capoverso 1 lettera a viene ridotta del 50 per cento se la differenza tra l’offerta di diritti di emissione per impianti e la domanda di diritti di emissione per impianti (quantità in circolazione) corrisponde a oltre il 50 per cento della quantità massima di diritti di emissione disponibili nell’anno precedente conformemente all’articolo 45 capoverso 1. Il calcolo della quantità in circolazione viene effettuato secondo quanto previsto nell’allegato 8 numero 2. [^48-3]
 
 <sup>2</sup>
 
@@ -1093,7 +1180,8 @@ L’UFAM può interrompere l’asta senza aggiudicazioni, se:
 <sup>6</sup> L’UFAM può affidare l’asta ad organizzazioni private.
 
 [^48-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^48-2]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^48-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^48-3]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 #### Art. 49
 
@@ -1158,27 +1246,27 @@ L’UFAM, o un servizio da esso incaricato, rileva i dati che sono necessari per
 
 **Piano di monitoraggio**[^51-1]
 
-<sup>1</sup> I gestori di impianti nel SSQE della Svizzera sottopongono per approvazione all’autorità competente di cui all’allegato 14 un piano di monitoraggio al più tardi tre mesi dopo la scadenza del termine di notifica di cui all’articolo 40 capoverso 2 o dopo presentazione della domanda di partecipazione di cui all’articolo 42. A tale scopo, utilizzano il modello messo a disposizione o approvato dall’UFAM.[^51-2]
+<sup>1</sup> I gestori di impianti sottopongono per approvazione all’autorità competente di cui all’allegato 14 un piano di monitoraggio al più tardi tre mesi dopo la scadenza del termine di notifica di cui all’articolo 40 capoverso 2 o dopo presentazione della domanda di partecipazione di cui all’articolo 42. A tale scopo, utilizzano il modello messo a disposizione o approvato dall’UFAM.[^51-2]
 
 <sup>2</sup> Gli operatori di aeromobili nel SSQE della Svizzera sottopongono per approvazione all’autorità competente di cui all’allegato 14 un piano di monitoraggio al più tardi tre mesi dopo la scadenza del termine di notifica dell’obbligo di partecipare per la prima volta di cui all’articolo 46*d* capoverso 2. Se il piano di monitoraggio deve essere presentato all’UFAM, utilizzano il modello messo a disposizione a tale scopo o un modello approvato dall’UFAM.[^51-3]
 
 <sup>3</sup> Il piano di monitoraggio deve soddisfare i requisiti di cui all’allegato 16.
 
-<sup>4</sup> I gestori di impianti e gli operatori di aeromobili nel SSQE della Svizzera (partecipanti SSQE) adeguano il piano di monitoraggio se non soddisfa più i requisiti di cui all’allegato 16. Sottopongono il piano di monitoraggio adeguato all’autorità competente di cui all’allegato 14 per approvazione.[^51-4]
+<sup>4</sup> Il piano di monitoraggio deve essere adeguato se non soddisfa più i requisiti di cui all’allegato 16. Il piano di monitoraggio adeguato deve essere presentato all’autorità competente di cui all’allegato 14 per approvazione.[^51-4]
 
 <sup>5</sup> Il piano di monitoraggio del CO<sub>2</sub> conformemente all’ordinanza del 2 giugno 2017[^51-5] sul rilevamento di dati concernenti le tonnellate-chilometro e sull’elaborazione di piani di monitoraggio per le rotte aeree è considerato come piano di monitoraggio.
 
 [^51-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^51-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^51-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^51-3]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^51-4]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^51-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^51-5]: [RS 641.714.11](https://fedlex.data.admin.ch/eli/cc/2017/378)
 
 #### Art. 52
 
 **Rapporto di monitoraggio**[^52-1]
 
-<sup>1</sup> I partecipanti al SSQE presentano annualmente all’autorità competente di cui all’allegato 14 un rapporto di monitoraggio entro il 31 marzo dell’anno successivo. Se il rapporto di monitoraggio deve essere presentato all’UFAM, utilizzano il modello messo a disposizione a tale scopo o approvato dall’UFAM.[^52-2]
+<sup>1</sup> I gestori di impianti o gli operatori di aeromobili presentano annualmente all’autorità competente di cui all’allegato 14 un rapporto di monitoraggio entro il 31 marzo dell’anno successivo. Se il rapporto di monitoraggio deve essere presentato all’UFAM, utilizzano il modello messo a disposizione a tale scopo o approvato dall’UFAM.[^52-2]
 
 <sup>2</sup> Il rapporto di monitoraggio deve riportare le informazioni di cui all’allegato 17. L’UFAM può chiedere ulteriori informazioni, se necessarie per il monitoraggio.
 
@@ -1186,19 +1274,21 @@ L’UFAM, o un servizio da esso incaricato, rileva i dati che sono necessari per
 
 <sup>4</sup> Gli operatori di aeromobili devono far verificare il loro rapporto di monitoraggio da un organismo di controllo di cui all’allegato 18.
 
-<sup>5</sup> Il rapporto di monitoraggio di operatori di aeromobili le cui emissioni di CO<sub>2</sub> rispettano i limiti di cui all’articolo 28*a* paragrafo 6 della direttiva 2003/87/CE[^52-3] viene considerato come verificato se l’operatore di aeromobili si avvale a tale scopo di uno strumento di cui all’articolo 54 paragrafo 2 del regolamento (UE) n. 601/2012[^52-4].
+<sup>5</sup> Il rapporto di monitoraggio di operatori di aeromobili le cui emissioni di CO<sub>2</sub> rispettano i valori limite di cui all’articolo 28*a* paragrafo 6 della direttiva 2003/87/CE[^52-3] viene considerato come verificato se l’operatore di aeromobili si avvale a tale scopo di uno strumento di cui all’articolo 55 paragrafo 2 del regolamento di esecuzione (UE) 2018/2066[^52-4].[^52-5]
 
-<sup>6</sup> Se un partecipante SSQE presenta un rapporto di monitoraggio inesatto, incompleto o non rispetta i termini stabiliti, l’autorità competente di cui all’allegato 14 stima le relative emissioni a spese del partecipante SSQE.
+<sup>6</sup> Se viene presentato un rapporto di monitoraggio inesatto, incompleto o che non rispetta i termini stabiliti, l’autorità competente di cui all’allegato 14 stima le emissioni determinanti a spese del gestore di impianti o dell’operatore di aeromobili.[^52-6]
 
 <sup>7</sup> In caso di dubbi sulla correttezza del rapporto di monitoraggio verificato, l’autorità competente di cui all’allegato 14 può correggere le emissioni entro i limiti del suo potere d’apprezzamento.
 
-<sup>8</sup> Se nel rapporto di monitoraggio i dati necessari per un adeguamento secondo l’articolo 46*b* sono errati o incompleti, l’UFAM stabilisce una scadenza adeguata affinché possano essere riveduti. Se il rapporto di monitoraggio non è corretto o completato entra tale scadenza, per gli elementi di assegnazione in questione i diritti di emissione non sono assegnati a titolo gratuito per l’anno corrispondente.[^52-5]
+<sup>8</sup> Se nel rapporto di monitoraggio i dati necessari per un adeguamento secondo l’articolo 46*b* sono errati o incompleti, l’UFAM stabilisce una scadenza adeguata affinché possano essere riveduti. Se il rapporto di monitoraggio non è corretto o completato entra tale scadenza, per gli elementi di assegnazione in questione i diritti di emissione non sono assegnati a titolo gratuito per l’anno corrispondente.[^52-7]
 
 [^52-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^52-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^52-3]: Direttiva 2003/87/CE del Parlamento europeo e del Consiglio, del 13 ottobre 2003, che istituisce un sistema per lo scambio di quote di emissioni dei gas a effetto serra nella Comunità e che modifica la direttiva 96/61/CE del Consiglio, GU L 275 del 25.10.2003, pag. 32; direttiva modificata, da ultimo, dalla direttiva 2018/410, GU L 76 del 19.3.2018, pag. 3.
-[^52-4]: Regolamento (UE) n. 601/2012 della Commissione, del 21 giugno 2012, concernente il monitoraggio e la comunicazione delle emissioni di gas a effetto serra ai sensi della direttiva 2003/87/CE del Parlamento europeo e del Consiglio, GU L 181 del 12.7.2012, pag. 30; direttiva modificata, da ultimo, dal regolamento di esecuzione (UE) 2018/2066, GU L 334 del 31.12.2018, pag. 1.
-[^52-5]: Introdotto dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^52-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^52-3]: Direttiva 2003/87/CE del Parlamento europeo e del Consiglio, del 13 ottobre 2003, che istituisce un sistema per lo scambio di quote di emissioni dei gas a effetto serra nella Comunità e che modifica la direttiva 96/61/CE del Consiglio, GU L 275 del 25.10.2003, pag. 32; modificata, da ultimo, dalla direttiva (UE) 2018/410, GU L 76 del 19.3.2018, pag. 3.
+[^52-4]: Regolamento di esecuzione (UE) n. 2018/2066 della Commissione, del 19 dicembre 2018, concernente il monitoraggio e la comunicazione delle emissioni di gas a effetto serra ai sensi della direttiva 2003/87/CE del Parlamento europeo e del Consiglio e che modifica il regolamento (UE) n. 601/2012 della Commissione, GU L 334 del 31.12.2018, pag. 1; modificato, da ultimo, dal regolamento di esecuzione (UE) 2020/2085, GU L 423 del 15.12.2020, pag. 37.
+[^52-5]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^52-6]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^52-7]: Introdotto dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 #### Art. 53
 
@@ -1213,19 +1303,30 @@ I partecipanti al SSQE notificano senza indugio all’autorità competente secon
 
 <sup>2</sup> Gli operatori di aeromobili che non operano più voli secondo l’allegato 13 lo comunicano all’autorità competente di cui all’allegato 14 al più tardi tre mesi dopo la cessazione delle relative operazioni di volo.
 
+<sup>3</sup>
+
+I gestori di impianti che esercitano un’attività di cui all’allegato 6 e sono esentati dall’obbligo di partecipare al SSQE informano senza indugio l’UFAM:
+
+- a. se le emissioni di gas serra annuali degli impianti sono pari o superiori a 25 000 tonnellate di CO<sub>2</sub>eq;
+- b. di qualsiasi modifica delle informazioni di contatto.[^53-2]
+
 [^53-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^53-2]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 54
 
 **Compiti dei Cantoni**
 
-<sup>1</sup> I Cantoni controllano se i gestori di impianti nel SSQE adempiono ai loro obblighi di notifica di cui agli articoli 40 capoverso 2 e 53 capoverso 1 e se le informazioni trasmesse sono complete e comprensibili.[^54-1]
+<sup>1</sup> I Cantoni verificano se i gestori di impianti adempiono ai loro obblighi di notifica di cui agli articoli 40 capoverso 2 e 53 capoversi 1 e 3 e se le informazioni trasmesse sono complete e comprensibili.[^54-1]
 
 <sup>2</sup> L’UFAM mette a disposizione dei Cantoni le informazioni che servono a tale scopo.
 
 <sup>3</sup> Se constata che i requisiti sanciti nella presente ordinanza non sono adempiuti, il Cantone informa senza indugio l’UFAM.
 
-[^54-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+<sup>4</sup> L’UFAM può coinvolgere i Cantoni per chiarire domande a cui è necessario rispondere per l’esecuzione delle disposizioni relative al SSQE.[^54-2]
+
+[^54-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^54-2]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### Sezione 4: Obbligo di consegna di diritti di emissione****
 
@@ -1283,12 +1384,13 @@ Nei casi in cui i diritti di emissione europei non sono riconosciuti nel SSQE sv
 
 <sup>1</sup> Se un partecipante al SSQE non adempie all’obbligo di consegna dei diritti di emissione entro il termine stabilito, l’UFAM decide la sanzione di cui all’articolo 21 della legge sul CO<sub>2</sub>.[^56-1]
 
-<sup>2</sup> Il termine di pagamento è di 30 giorni dalla data della notifica della decisione. In caso di pagamento tardivo è addebitato un interesse di mora del 5 per cento l’anno.
+<sup>2</sup> Il termine di pagamento è di 30 giorni dalla data della notifica della decisione. In caso di pagamento tardivo è addebitato un interesse di mora. Il DFF ne stabilisce il tasso.[^56-2]
 
-<sup>3</sup> I diritti di emissione mancanti non consegnati dal partecipante al SSQE entro il 31 gennaio dell’anno successivo sono detratti dai diritti di emissione da assegnare a titolo gratuito in quell’anno.[^56-2]
+<sup>3</sup> I diritti di emissione mancanti non consegnati dal partecipante al SSQE entro il 31 gennaio dell’anno successivo sono detratti dai diritti di emissione da assegnare a titolo gratuito in quell’anno.[^56-3]
 
 [^56-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^56-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^56-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^56-3]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 ### Sezione 5: Registro dello scambio di quote di emissioni****
 
@@ -1304,7 +1406,7 @@ Nei casi in cui i diritti di emissione europei non sono riconosciuti nel SSQE sv
 
 <sup>2</sup> I gestori di impianti e gli operatori di aeromobili nel SSQE dell’Unione europea nonché le imprese autorizzate all’asta nell’Unione europea provenienti dallo SEE che desiderano partecipare all’asta devono avere un conto personale.
 
-<sup>3</sup> I gestori con impegno di riduzione secondo il capitolo 5 nonché gli importatori e i produttori di combustibili fossili secondo il capitolo 7 che intendono tenere o scambiare diritti di emissione, certificati di riduzione delle emissioni o attestati nel registro dello scambio di quote di emissioni devono avere un conto per gestori o un conto personale.
+<sup>3</sup> Gli importatori e i produttori di combustibili fossili secondo il capitolo 7 che intendono tenere o scambiare diritti di emissione, certificati di riduzione delle emissioni o attestati nel registro dello scambio di quote di emissioni devono avere un conto per gestori o un conto personale.[^57-2]
 
 <sup>4</sup> Tutte le altre imprese e persone che intendono tenere o scambiare diritti di emissione, certificati di riduzione delle emissioni o attestati nel registro dello scambio di quote di emissioni devono avere un conto personale.
 
@@ -1313,6 +1415,7 @@ Nei casi in cui i diritti di emissione europei non sono riconosciuti nel SSQE sv
 <sup>6</sup> Un titolare di conti personali può depositare sui suoi conti personali al massimo un milione di diritti di emissione.
 
 [^57-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^57-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 58
 
@@ -1326,10 +1429,11 @@ La domanda deve contenere:
 
 - a. per i gestori di impianti o gli operatori di aeromobili e altre imprese: un estratto del registro di commercio e la fotocopia di un documento d’identità della persona autorizzata a rappresentarli;
 - b. per le persone fisiche: un documento d’identità;
-- c. nome, cognome, indirizzo postale, indirizzo di posta elettronica e documento d’identità del richiedente;
+- [tab] b<sup>bis</sup>.[^58-2] per le autorità competenti di uno Stato partner: una conferma ufficiale del Governo e una fotocopia di un documento d’identità della persona autorizzata a rappresentarle;
+- c. nome, cognome, indirizzo postale, indirizzo di posta elettronica e documento d’identità della persona richiedente;
 - d. nome, cognome, indirizzo postale, indirizzo di posta elettronica personale, numero di cellulare, documento d’identità ed estratto del casellario giudiziale di almeno una, ma al massimo di quattro persone titolari di una procura sul conto;
 - e. nome, cognome, indirizzo postale, indirizzo di posta elettronica personale, numero di cellulare, documento d’identità ed estratto del casellario giudiziale di almeno una, ma al massimo di quattro persone incaricate di convalidare le offerte;
-- f. una dichiarazione con la quale il richiedente accetta le condizioni generali relative al registro dello scambio di quote di emissioni.
+- f. una dichiarazione con la quale la persona richiedente accetta le condizioni generali relative al registro dello scambio di quote di emissioni.
 
 <sup>3</sup> È possibile derogare alla presentazione di un estratto del casellario giudiziale svizzero se si certifica, con una conferma notarile, che non sussistono condanne per reati di cui all’articolo 59*a* capoverso 1 lettera b.
 
@@ -1339,11 +1443,12 @@ La domanda deve contenere:
 
 <sup>6</sup> Le informazioni relative agli estratti del registro di commercio, ai documenti d’identità, agli estratti del casellario giudiziale nonché le informazioni di cui ai capoversi 4 e 5 devono essere autenticate. Le copie di documenti rilasciati al di fuori della Svizzera devono essere convalidate mediante ulteriore certificazione. La data dei documenti da presentare e la data dell’autenticazione o dell’ulteriore certificazione non deve essere anteriore di più di tre mesi alla data della richiesta.
 
-<sup>7</sup> L’UFAM apre il conto richiesto dopo aver esaminato le informazioni e la documentazione e non appena il richiedente ha versato gli emolumenti.
+<sup>7</sup> L’UFAM apre il conto richiesto dopo aver esaminato le informazioni e la documentazione e non appena la persona richiedente ha versato gli emolumenti.
 
-<sup>8</sup> Gli operatori di aeromobili per i quali l’UFAM è competente devono depositare, entro 30 giorni lavorativi dall’approvazione del loro piano di monitoraggio o dall’assegnazione alla Svizzera, una richiesta di apertura di un conto nel registro dello scambio di quote di emissioni. La richiesta deve contenere il numero di identificazione univoco di ciascuno degli aeromobili gestiti dal richiedente che rientrano nel SSQE della Svizzera o nel SSQE dell’Unione europea.
+<sup>8</sup> Gli operatori di aeromobili per i quali l’UFAM è competente devono depositare, entro 30 giorni lavorativi dall’approvazione del loro piano di monitoraggio o dall’assegnazione alla Svizzera, una richiesta di apertura di un conto nel registro dello scambio di quote di emissioni. La richiesta deve contenere il numero di identificazione univoco di ciascuno degli aeromobili gestiti della persona richiedente che rientrano nel SSQE della Svizzera o nel SSQE dell’Unione europea.
 
 [^58-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^58-2]: Introdotta dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 59
 
@@ -1375,11 +1480,13 @@ Chi ha un conto per gestori o personale secondo l’articolo 57 deve designare u
 I capoversi 3 e 4 non si applicano:
 
 - a. ai conti di operatori di aeromobili al di fuori della Svizzera o dello SEE;
-- b. alle imprese e alle persone con sede o domicilio nel Regno Unito, se dispongono di un conto bancario in Svizzera, nello SEE o nel Regno Unito.[^59-3]
+- b. alle imprese e alle persone con sede o domicilio nel Regno Unito, se dispongono di un conto bancario in Svizzera, nello SEE o nel Regno Unito;
+- c.[^59-3] alle autorità competenti di uno Stato partner.[^59-4]
 
 [^59-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^59-2]: Introdotto dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^59-3]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^59-3]: Introdotta dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^59-4]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 #### Art. 59a
 
@@ -1394,9 +1501,10 @@ L’UFAM rifiuta l’apertura di un conto o l’iscrizione di titolari di una pr
 
 <sup>2</sup> Sospende l’apertura del conto o l’iscrizione se contro l’impresa o una persona di cui al capoverso 1 lettera b è pendente un’inchiesta per un reato menzionato nel capoverso 1 lettera b.
 
-<sup>3</sup> Se è rifiutata l’apertura di un conto a un gestore di impianti o a un operatore di aeromobili tenuto a partecipare al SSQE, l’UFAM apre un conto bloccato sul quale sono accreditati tutti i diritti di emissione assegnati secondo l’articolo 46 o 46*f*. Il conto è bloccato fino alla decadenza dei motivi del rifiuto di apertura del conto.
+<sup>3</sup> Se è rifiutata l’apertura di un conto a un gestore di impianti o a un operatore di aeromobili tenuto a partecipare al SSQE, l’UFAM apre un conto bloccato sul quale sono accreditati tutti i diritti di emissione assegnati secondo l’articolo 46, 46*b* o 46*f*. Il conto è bloccato fino alla decadenza dei motivi del rifiuto di apertura del conto.[^59a-2]
 
 [^59a-1]: Introdotto dal n. I dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^59a-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 60
 
@@ -1481,11 +1589,14 @@ L’UFAM può chiudere i conti:
 - b. i cui titolari o utenti registrati violano le disposizioni sul registro dello scambio di quote di emissioni da almeno un anno;
 - c. se gli emolumenti annuali per la gestione del conto non sono stati pagati da più di un anno.[^64-2]
 
-<sup>3</sup> Se un conto che deve essere chiuso presenta un saldo positivo, l’UFAM invita il titolare del conto a indicare entro 40 giorni lavorativi un altro conto sul quale devono essere trasferite le unità. Se a tale richiesta non segue riscontro, l’UFAM cancella le unità interessate.[^64-3]
+<sup>2bis</sup> Dal 1° gennaio 2026 l’UFAM chiude i conti per gestori con impegno di riduzione secondo l’articolo 31 della legge sul CO<sub>2</sub>. I gestori interessati hanno la possibilità di aprire un conto personale secondo l’articolo 57 capoverso 4.[^64-3]
+
+<sup>3</sup> Se un conto che deve essere chiuso presenta un saldo positivo, l’UFAM invita il titolare del conto a indicare entro 40 giorni lavorativi un altro conto sul quale devono essere trasferite le unità. Se a tale richiesta non segue riscontro, l’UFAM cancella le unità interessate.[^64-4]
 
 [^64-1]: Nuovo testo giusta il n. I dell’O dell’8 ott. 2014, in vigore dal 1° dic. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
 [^64-2]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^64-3]: Introdotto dal n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^64-3]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^64-4]: Introdotto dal n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 
 #### Art. 65
 
@@ -1506,15 +1617,21 @@ L’UFAM può pubblicare elettronicamente i seguenti dati contenuti nel registro
 
 - c. i diritti di emissione, i certificati di riduzione delle emissioni e gli attestati per ogni conto;
 - c<sup>bis</sup>. le transazioni;
-- d. per i partecipanti SSQE: le offerte d’asta, i dati riguardanti gli impianti, gli aeromobili e le emissioni, la quantità di diritti di emissione assegnati a titolo gratuito e la quantità di diritti di emissione e di certificati di riduzione delle emissioni consegnati per adempiere all’obbligo;
-- d<sup>bis</sup>. per gli operatori di aeromobili gestiti da un’autorità estera fino all’entrata in vigore dell’accordo SSQE[^65-2]: i dati riguardanti gli aeromobili e le emissioni, la quantità di diritti di emissione assegnati a titolo gratuito e la quantità di diritti di emissione consegnati per adempiere all’obbligo, non prima del 2013;
-- d<sup>ter</sup>. per le imprese ammesse all’asta nell’Unione europea provenienti dallo SEE: le offerte d’asta;
-- e. per i progetti e i programmi per la riduzione delle emissioni in Svizzera: quantità di attestati rilasciati per ogni periodo di monitoraggio nonché il numero di conto per gestori o di conto personale sul quale sono rilasciati gli attestati per il progetto o il programma;
-- f. per le persone soggette all’obbligo di compensazione: l’ammontare dell’obbligo di compensazione, la quantità di attestati e certificati di riduzione delle emissioni consegnati per adempiere all’obbligo;
-- g. per gestori di impianti con impegno di riduzione secondo l’articolo 66 capoverso 1: quantità dei certificati di riduzione delle emissioni consegnati per adempiere all’impegno di riduzione.
+- d.[^65-2] per i partecipanti SSQE: i dati riguardanti gli impianti, gli aeromobili e le emissioni, la quantità di diritti di emissione assegnati a titolo gratuito e la quantità di diritti di emissione e di certificati di riduzione delle emissioni consegnati per adempiere all’obbligo;
+- [tab] d<sup>bis</sup>.[^65-3] per gli operatori di aeromobili gestiti da un’autorità estera fino all’entrata in vigore dell’accordo SSQE[^65-4]: i dati riguardanti gli aeromobili e le emissioni, la quantità di diritti di emissione assegnati a titolo gratuito e la quantità di diritti di emissione e di certificati di riduzione delle emissioni consegnati per adempiere all’obbligo, non prima del 2012;
+- [tab] d<sup>ter</sup>. [^65-5] per le aste: le offerte d’asta, la data e la quantità delle aste, la quantità minima e massima delle offerte, il prezzo e la quantità aggiudicati, i partecipanti ammessi all’asta;
+- e.[^65-6] per i progetti e i programmi di riduzione delle emissioni o di aumento delle prestazioni dei pozzi di carbonio in Svizzera e all’estero: la quantità di attestati rilasciati per ogni periodo di monitoraggio nonché il numero di conto per gestori o di conto personale sul quale sono rilasciati gli attestati per il progetto o il programma;
+- f.[^65-7] per le persone soggette all’obbligo di compensazione: l’ammontare dell’obbligo di compensazione, la quantità di attestati, di certificati di riduzione delle emissioni e di diritti di emissione consegnati per adempiere l’obbligo;
+- g.[^65-8] per gestori con impegno di riduzione: la quantità di certificati di riduzione delle emissioni e di diritti di emissione consegnati per adempiere all’impegno di riduzione.
 
 [^65-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^65-2]: [RS 0.814.011.268](https://fedlex.data.admin.ch/eli/cc/2018/124)
+[^65-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^65-3]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^65-4]: [RS 0.814.011.268](https://fedlex.data.admin.ch/eli/cc/2018/124)
+[^65-5]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^65-6]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^65-7]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^65-8]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ## Capitolo 5: Impegno di riduzione delle emissioni di gas serra
 
@@ -1658,7 +1775,7 @@ Le riduzioni di emissioni conseguite da un gestore di impianti al di fuori dei p
 
 **Rapporto di monitoraggio**[^72-1]
 
-<sup>1</sup> Il gestore di impianti presenta annualmente, entro il 31 maggio dell’anno successivo, un rapporto di monitoraggio alle organizzazione private incaricate conformemente all’articolo 130 capoverso 6. Queste inoltrano il rapporto di monitoraggio all’UFAM.
+<sup>1</sup> Il gestore di impianti presenta annualmente, entro il 31 maggio dell’anno successivo, un rapporto di monitoraggio alle organizzazioni private incaricate conformemente all’articolo 130 capoverso 6. Se la collaborazione con le organizzazioni private termina, il gestore presenta il rapporto di monitoraggio all’UFE. Le organizzazioni private incaricate o l’UFE trasmettono il rapporto di monitoraggio all’UFAM.[^72-2]
 
 <sup>2</sup>
 
@@ -1675,6 +1792,7 @@ Il rapporto di monitoraggio deve contenere:
 <sup>4</sup> L’UFAM può chiedere ulteriori informazioni di cui necessita per il monitoraggio.
 
 [^72-1]: Nuovo testo giusta il n. I dell’O dell’8 ott. 2014, in vigore dal 1° dic. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
+[^72-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 73
 
@@ -1707,9 +1825,9 @@ L’UFAM adegua l’obiettivo di emissione se in seguito a una modifica sostanzi
 
 **Computo di attestati all’obiettivo di emissione**[^74a-1]
 
-Al fine di conseguire l’obiettivo di riduzione, le riduzioni delle emissioni per le quali sono stati rilasciati attestati secondo l’articolo 12 capoverso 2 come pure le riduzioni delle emissioni ottenute nel quadro di progetti o programmi secondo gli articoli 5 o 5*a* sono considerate emissioni di gas serra del relativo richiedente.
+Ai fini del raggiungimento dell’obiettivo di emissione, le riduzioni delle emissioni per le quali sono rilasciati attestati secondo gli articoli 5 o 12 capoverso 2 sono considerate emissioni di gas serra dei rispettivi gestori di impianti.
 
-[^74a-1]: Introdotto dal n. I dell’O del 1° nov. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^74a-1]: Introdotto dal n. I dell’O del 1° nov. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 74b
 
@@ -1749,11 +1867,12 @@ Un gestore di impianti che non ha raggiunto il suo obiettivo di emissione o il s
 La quantità di certificati di riduzione delle emissioni computabili di cui al capoverso 1:
 
 - a. per un gestore di impianti soggetto soltanto temporaneamente negli anni 2013–2020 a un impegno di riduzione: è ridotta proporzionalmente a questo lasso di tempo;
-- b. per un gestore di impianti che rispetto al 2012 produce anche energia elettrica utilizzata al di fuori degli impianti: è aumentata del 50 per cento della prestazione di riduzione supplementare che si rende necessaria;
+- b.[^75-3] per un gestore di impianti che, fino al 2021 produce rispetto al 2012 anche energia elettrica utilizzata al di fuori degli impianti: è aumentata del 50 per cento della prestazione di riduzione supplementare che si rende necessaria;
 - c. per un gestore di impianti di cui al capoverso 1 lettera a, il cui obiettivo di emissione o il cui obiettivo basato sui provvedimenti è adeguato: è aumentata o diminuita in funzione dell’adeguamento; la quantità di certificati di riduzione delle emissioni computabili viene ridotta al massimo all’8 per cento del quintuplo dei diritti di emissione ammessi come media annuale negli anni 2008–2012, dedotti i certificati di riduzione delle emissioni computati nello stesso periodo.
 
 [^75-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^75-2]: Introdotta dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^75-3]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 76
 
@@ -1763,14 +1882,15 @@ La quantità di certificati di riduzione delle emissioni computabili di cui al c
 
 <sup>1bis</sup> Se un gestore di impianti di cogenerazione non adempie all’obbligo di investire di cui all’articolo 96*a* capoverso 2 o all’articolo 98*a* capoverso 2, l’UFAM ordina la restituzione del 40 per cento dell’importo versato a titolo di rimborso per i combustibili impiegati per la produzione di energia elettrica di cui all’articolo 32*a* della legge sul CO<sub>2</sub>.[^76-3]
 
-<sup>2</sup> Il termine di pagamento è di 30 giorni dalla data della notifica della decisione. In caso di pagamento tardivo è addebitato un interesse di mora del 5 per cento l’anno.
+<sup>2</sup> Il termine di pagamento è di 30 giorni dalla data della notifica della decisione. In caso di pagamento tardivo è addebitato un interesse di mora. Il DFF ne stabilisce il tasso.[^76-4]
 
-<sup>3</sup> Gli importi restituiti di cui al capoverso 1<sup>bis</sup> sono considerati proventi della tassa sul CO<sub>2</sub>.[^76-4]
+<sup>3</sup> Gli importi restituiti di cui al capoverso 1<sup>bis</sup> sono considerati proventi della tassa sul CO<sub>2</sub>.[^76-5]
 
 [^76-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 [^76-2]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^76-3]: Introdotto dal n. I dell’O del 1° nov. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^76-4]: Introdotto dal n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^76-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^76-5]: Introdotto dal n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 
 #### Art. 77
 
@@ -1780,15 +1900,15 @@ Se un gestore di impianti rischia di non raggiungere il suo obiettivo, l’UFAM 
 
 #### Art. 78
 
-**Obbligo di notifica in caso di cambiamenti[^78-1]**
+**Obbligo di notifica in caso di cambiamenti [^78-1]**
 
 Il gestore di impianti notifica senza indugio all’UFAM:[^78-2]
 
 - a. qualsiasi cambiamento che potrebbe incidere sull’impegno di riduzione;
 - b. qualsiasi modifica delle informazioni di contatto.
 
-[^78-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^78-2]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^78-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^78-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 79
 
@@ -1800,14 +1920,15 @@ Sempre che siano tutelati il segreto di fabbricazione e il segreto d’affari, l
 - b. gli obiettivi di emissione o gli obiettivi basati sui provvedimenti;
 - c. le emissioni di gas serra di ciascun impianto;
 - d. l’entità delle riduzioni delle emissioni di cui all’articolo 71 che ciascun gestore di impianti si fa computare all’adempimento dell’impegno di riduzione;
-- e. la quantità di certificati di riduzione delle emissioni consegnati da ciascun gestore di impianti;
+- e.[^79-2] la quantità di certificati di riduzione delle emissioni o di diritti di emissione consegnati da ciascun gestore di impianti;
 - f. la quantità di crediti di cui all’articolo 138 capoverso 1 lettera b che ciascun gestore di impianti si fa computare all’adempimento dell’impegno di riduzione;
 - g. la quantità di attestati di cui all’articolo 12 rilasciati a ciascun gestore di impianti;
 - h. l’entità degli investimenti effettuati di cui all’articolo 96*a* capoverso 2 o all’articolo 98*a* capoverso 2;
-- i.[^79-2] l’organizzazione privata incaricata secondo l’articolo 69 capoverso 2<sup>bis</sup>.
+- i.[^79-3] l’organizzazione privata incaricata secondo l’articolo 69 capoverso 2<sup>bis</sup>.
 
 [^79-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^79-2]: Introdotta dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^79-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^79-3]: Introdotta dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 ## Capitolo 6: ...
 
@@ -2062,10 +2183,11 @@ Sono considerati centrali termoelettriche a combustibili fossili gli impianti ch
 
 <sup>4</sup> I gestori di centrali termoelettriche a combustibili fossili presentano la domanda di rimborso entro il 30 giugno all’UFAM all’attenzione delle autorità esecutive. La richiesta deve contenere i prezzi per l’acquisto dei diritti di emissione dei 12 mesi precedenti. I relativi giustificativi devono essere allegati.
 
-<sup>5</sup> Se il gestore non presenta alcun dato verificabile relativo agli importi pagati, l’UFAM stima gli importi entro i limiti del suo potere d’apprezzamento. L’UFAM tiene conto dell’origine dei diritti di emissione, dei prezzi degli appalti e dei prezzi pubblicati nel mercato secondario.
+<sup>5</sup> Se il gestore non presenta alcun dato verificabile relativo agli importi pagati, si suppone un valore di franchi zero.[^96b-3]
 
 [^96b-1]: Introdotto dal n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^96b-2]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^96b-3]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 97
 
@@ -2084,7 +2206,7 @@ Deve contenere:
 
 <sup>3</sup> L’UDSC può chiedere ulteriori prove di cui necessita per restituire la tassa. In particolare devono essergli presentate su sua richiesta le fatture relative alle tasse sul CO<sub>2</sub> versate.[^97-4]
 
-[^97-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° d gen ic. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^97-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° dic. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^97-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^97-3]: Abrogata dal n. I dell’O del 25 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^97-4]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
@@ -2180,7 +2302,7 @@ I gestori di impianti di cogenerazione che non partecipano al SSQE né hanno pre
 
 <sup>1</sup> Chi utilizza a scopo non energetico combustibili assoggettati alla tassa e intende chiedere la restituzione della tassa deve comprovare le quantità non utilizzate a scopo energetico. A tal fine, deve effettuare rilevamenti (controlli del consumo) sulle entrate, sulle uscite e sul consumo dei combustibili, nonché sulle scorte.
 
-<sup>1bis</sup> L’UDSC può accordare sulla base della quantità acquistata il rimborso della tassa per combustibili non utilizzati a scopo energetico, purché le condizioni aziendali del richiedente non suscitino dubbi sull’utilizzazione a scopo non energetico e il richiedente conferma in modo vincolante all’UDSC l’utilizzazione a scopo non energetico dei combustibili.[^99-1]
+<sup>1bis</sup> L’UDSC può accordare sulla base della quantità acquistata il rimborso della tassa per combustibili non utilizzati a scopo energetico, purché le condizioni aziendali della persona richiedente non suscitino dubbi sull’utilizzazione a scopo non energetico e la persona richiedente conferma in modo vincolante all’UDSC l’utilizzazione a scopo non energetico dei combustibili.[^99-1]
 
 <sup>2</sup> La domanda di restituzione deve essere presentata all’UDSC nella forma prescritta da quest’ultima.
 
@@ -2351,7 +2473,7 @@ Abrogato
 
 <sup>4</sup> Il gruppo di esperti esamina le domande e trasmette all’UFE una raccomandazione per la valutazione del progetto. Il rappresentante del Cantone non ha voce in capitolo nella raccomandazione. Nell’adempimento del proprio compito il gruppo di esperti può coinvolgere altri specialisti.
 
-<sup>5</sup> Se sono soddisfatti i requisiti per la concessione di un contributo, la Confederazione stipula con il richiedente un contratto di diritto amministrativo. In esso vengono stabilite in particolare le condizioni per la restituzione secondo l’articolo 113*b*.
+<sup>5</sup> Se sono soddisfatti i requisiti per la concessione di un contributo, la Confederazione stipula con la persona richiedente un contratto di diritto amministrativo. In esso vengono stabilite in particolare le condizioni per la restituzione secondo l’articolo 113*b*.
 
 [^113-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 [^113-2]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
@@ -2360,7 +2482,7 @@ Abrogato
 
 **Ordine di presa in considerazione**[^113a-1]
 
-<sup>1</sup> Se non vi sono risorse disponibili oppure se le risorse non sono sufficienti, l’UFE inserisce il progetto in una lista d’attesa, salvo che risulti evidente che il progetto non soddisfa i requisiti. L’UFE ne dà comunicazione al richiedente.
+<sup>1</sup> Se non vi sono risorse disponibili oppure se le risorse non sono sufficienti, l’UFE inserisce il progetto in una lista d’attesa, salvo che risulti evidente che il progetto non soddisfa i requisiti. L’UFE ne dà comunicazione alla persona richiedente.
 
 <sup>2</sup> Se vi sono nuovamente risorse disponibili, l’UFE considera i progetti più avanzati. Se più progetti presentano lo stesso livello d’avanzamento, viene considerato il progetto la cui domanda completa è stata presentata per prima in ordine cronologico.
 
@@ -2541,7 +2663,9 @@ Ogni assicuratore comunica all’Ufficio federale della sanità pubblica, entro 
 - a. il numero di persone da esso assicurate che il 1° gennaio dell’anno di riscossione soddisfano le condizioni di cui all’articolo 120 capoverso 3;
 - b. la somma degli importi effettivi distribuiti l’anno precedente.
 
-<sup>2</sup> Gli assicuratori informano le persone assicurate sull’ammontare dell’importo da distribuire in occasione della comunicazione dei nuovi premi per l’anno di riscossione.
+<sup>2</sup> Gli assicuratori informano le persone assicurate sull’ammontare dell’importo da distribuire in occasione della comunicazione dei nuovi premi per l’anno di riscossione. Essi devono inoltre far pervenire alle persone assicurate un promemoria redatto dall’UFAM sulle modalità di esecuzione della ridistribuzione.[^122-1]
+
+[^122-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 123
 
@@ -2567,7 +2691,7 @@ Per le spese d’esecuzione secondo la presente ordinanza e l’ordinanza del 12
 
 **Distribuzione**
 
-<sup>1</sup> La quota spettante all’economia viene distribuita dalle casse di compensazione AVS (casse di compensazione) ai datori di lavoro su incarico e sotto la vigilanza dell’UFAM nonché secondo le istruzioni dell’Ufficio federale delle assicurazioni sociali. La differenza tra proventi annui stimati ed effettivi nonché la quota spettante alla popolazione delle risorse secondo l’articolo 34 capoverso 4 della legge sul CO<sub>2</sub> non impiegate vengono compensate nella distribuzione dei proventi due anni dopo.[^125-1]
+<sup>1</sup> La quota spettante all’economia viene distribuita dalle casse di compensazione AVS (casse di compensazione), con la collaborazione dell’Ufficio centrale di compensazione, ai datori di lavoro su incarico e sotto la vigilanza dell’UFAM, nonché secondo le istruzioni dell’Ufficio federale delle assicurazioni sociali. La differenza tra proventi annui stimati ed effettivi nonché la quota spettante alla popolazione delle risorse secondo l’articolo 34 capoverso 4 della legge sul CO<sub>2</sub> non impiegate vengono compensate nella distribuzione dei proventi due anni dopo.[^125-1]
 
 <sup>2</sup> Le casse di compensazione distribuiscono la quota dei proventi spettante all’economia entro il 30 settembre dell’anno di riscossione. Su richiesta, in casi motivati l’UFAM può prorogare adeguatamente questo termine.[^125-2]
 
@@ -2575,9 +2699,12 @@ Per le spese d’esecuzione secondo la presente ordinanza e l’ordinanza del 12
 
 <sup>4</sup> Le casse di compensazione distribuiscono la quota spettante all’economia, detraendola dai conteggi dei contributi dei datori di lavoro esigibili nell’anno di riscossione o versandola ai datori di lavoro. Gli importi non detraibili sono versati a partire da un importo di 50 franchi. In caso di mutazioni, gli importi sono detratti o versati a partire da 50 franchi.[^125-3]
 
-[^125-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+<sup>5</sup> Gli uffici di revisione delle casse di compensazione verificano, nell’ambito della revisione finale, la ripartizione della quota dei proventi spettante all’economia e riferiscono all’UFAM secondo le istruzioni dell’Ufficio federale delle assicurazioni sociali.[^125-4]
+
+[^125-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^125-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 [^125-3]: Nuovo testo giusta il n. I dell’O dell’8 ott. 2014, in vigore dal 1° dic. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
+[^125-4]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 126
 
@@ -2629,7 +2756,12 @@ L’UFAM informa il pubblico in particolare su:
 
 <sup>3</sup> L’UDSC esegue le disposizioni relative alla tassa sul CO<sub>2</sub>.
 
-<sup>4</sup> L’UFAM, d’intesa con l’UFE, esegue le disposizioni relative agli attestati per le riduzioni delle emissioni in Svizzera e alla promozione delle tecnologie atte a ridurre le emissioni di gas serra.[^130-3]
+<sup>4</sup>
+
+L’UFAM esegue:
+
+- a. d’intesa con l’UFE: le disposizioni relative agli attestati per le riduzioni delle emissioni e l’aumento delle prestazioni dei pozzi di carbonio in Svizzera, nonché alla promozione delle tecnologie atte a ridurre le emissioni di gas serra;
+- b. d’intesa con l’UFE, la Segreteria di Stato dell’economia e il Dipartimento federale degli affari esteri: le disposizioni relative agli attestati per le riduzioni delle emissioni e l’aumento delle prestazioni dei pozzi di carbonio all’estero.[^130-3]
 
 <sup>4</sup> <sup>bis</sup> L’UFE esegue le disposizioni relative ai contributi globali per la riduzione a lungo termine delle emissioni di CO<sub>2</sub> degli edifici e ai contributi per l’impiego diretto della geotermia.[^130-4]
 
@@ -2641,9 +2773,27 @@ L’UFAM informa il pubblico in particolare su:
 
 [^130-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^130-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
-[^130-3]: Nuovo testo giusta il n. I dell’O dell’8 ott. 2014, in vigore dal 1° dic. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
+[^130-3]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^130-4]: Introdotto dal n. I dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 [^130-5]: Introdotto dal n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+
+#### Art. 130a
+
+**Sistemi d’informazione e di documentazione**[^130a-1]
+
+<sup>1</sup>
+
+Le seguenti procedure sono eseguite elettronicamente mediante i sistemi d’informazione e di documentazione dell’UFAM:
+
+- a. le procedure di rilascio di attestati per le riduzioni delle emissioni o per l’aumento delle prestazioni dei pozzi di carbonio (art. 5–11);
+- b. le procedure di partecipazione al SSQE (art. 40–4*6f* e art. 50–54);
+- c. le procedure relative all’impegno di riduzione (art. 66–79).
+
+<sup>2</sup> Se in determinati settori i sistemi d’informazione e di documentazione non sono ancora stati predisposti per l’esecuzione delle procedure elettroniche, le domande devono essere inviate per posta.
+
+<sup>3</sup> In deroga al capoverso 1, l’UFAM può emanare e notificare le decisioni per posta.
+
+[^130a-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 131
 
@@ -3074,11 +3224,23 @@ L’UFAM può prorogare il termine per la consegna dei diritti di emissione dell
 Le riduzioni delle emissioni conseguite all’estero sono computabili fino all’anno 2021 se:
 
 - a. sono attestate da un certificato di riduzione ai sensi della Convenzione quadro delle Nazioni Unite del 9 maggio 1992[^146l-1] sui cambiamenti climatici; e
-- b. l’allegato 2 non esclude il loro computo.
+- a. l’allegato 2 non esclude il loro computo.
 
 [^146l-1]: [RS 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
 
 #### Art. 146m
+
+**Inizio dell’attuazione per progetti e programmi all’estero o per l’aumento delle prestazioni dei pozzi di carbonio in Svizzera**
+
+In deroga all’articolo 5 capoverso 1 lettera d per progetti e programmi sono rilasciati attestati se:
+
+- a. sono stati attuati in uno Stato partner prima del 1° gennaio 2022 sulla base di un accordo contrattuale tra la Confederazione Svizzera e la Fondazione Centesimo per il Clima;
+- a.
+
+  dopo il 1° gennaio 2022:
+
+  - 1\. vengono attuati all’estero o aumentano le prestazioni dei pozzi di carbonio in Svizzera, e
+  - 2\. la persona richiedente presenta la domanda secondo l’articolo 7 entro il 30 settembre 2022.
 
 #### Art. 146n
 
@@ -3188,11 +3350,11 @@ Allegato 1
 
 Allegato 2*[^t-1]*
 
-(art. 4 cpv. 2 lett. b)
+(art. 146*l* lett. b)
 
 ## Riduzioni delle emissioni all’estero non computabili
 
-[^t-1]: Aggiornato dal n. II dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)) e dal n. II cpv. 1 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-1]: Aggiornato dal n. II dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), dal n. II cpv. 1 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) e dal n. II 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 \1. I seguenti certificati di riduzione delle emissioni non sono computati:
 
@@ -3216,33 +3378,61 @@ Allegato 2*[^t-1]*
 
 [^annex2-lvlu1-1]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 
-Allegato 3*[^t-2]*
+Allegato 2a*[^t-2]*
 
 (art. 5 cpv. 1 lett. a)
 
-## Riduzioni delle emissioni conseguite in Svizzera per le quali non sono rilasciati attestati
+## Riduzioni delle emissioni o aumento delle prestazioni dei pozzi di carbonio all’estero per le quali non sono rilasciati attestati
 
-[^t-2]: Aggiornato da n. II dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), dai II cpv. 1 dell’O del 1° nov. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)) e del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-2]: Introdotto dal n. II cpv. 1 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-Per i progetti o i programmi di riduzione delle emissioni realizzati in Svizzera non sono rilasciati attestati se le riduzioni delle emissioni sono conseguite mediante:
+Per un progetto o un programma realizzato all’estero non sono rilasciati attestati internazionali se le riduzioni delle emissioni o gli aumenti delle prestazioni dei pozzi di carbonio sono conseguiti mediante:
+
+- a. investimenti nell’utilizzo di combustibili o carburanti fossili per la produzione di energia o nell’estrazione di vettori energetici fossili;
+- b. l’impiego di energia nucleare;
+- c. l’impiego di impianti idroelettrici con una capacità di produzione installata superiore a 20 MW;
+- d. progetti in grandi aziende industriali che non corrispondono allo stato attuale della tecnica sul mercato globale;
+- e. attività nel settore dei rifiuti senza utilizzo materiale o energetico o senza riduzione dei rifiuti;
+- f. progetti di sequestro biologico di CO<sub>2</sub>;
+- g. la riduzione della deforestazione;
+- h. la degradazione dei boschi;
+- i. la rinuncia all’estrazione di vettori energetici fossili;
+- j. attività in contrasto con le convenzioni in materia di ambiente e diritti umani ratificate dalla Svizzera;
+- k. attività che hanno notevoli ripercussioni sociali o ecologiche;
+- l. attività che contraddicono gli obiettivi della politica estera o di sviluppo della Svizzera.
+
+Allegato 3*[^t-3]*
+
+(art. 5 cpv. 1 lett. a)
+
+## Riduzioni delle emissioni o aumento delle prestazioni dei pozzi di carbonio in Svizzera per le quali non sono rilasciati attestati
+
+[^t-3]: Nuovo testo giusta il n. II cpv. 2 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+
+Per un progetto o un programma realizzato in Svizzera non sono rilasciati attestati nazionali se le riduzioni delle emissioni o l’aumento delle prestazioni dei pozzi di carbonio sono conseguiti mediante:
 
 - a. l’impiego di energia nucleare;
-- b. il sequestro biologico o geologico di CO<sub>2</sub>; è escluso il sequestro biologico di CO<sub>2</sub> nei prodotti legnosi;
-- b<sup>bis</sup>. la riumidificazione di paludi e zone umide;
-- c. attività di ricerca e sviluppo o informazione e consulenza;
-- d. l’impiego di biocarburanti e biocombustibili che non soddisfano i requisiti per i biocarburanti di cui all’articolo 12*b* capoversi 1 e 3 della legge federale del 21 giugno 1996[^annex3-lvlu1-1] sull’imposizione degli oli minerali e delle relative disposizioni attuative;
-- e. la conversione di veicoli a benzina o a diesel in veicoli a gas naturale, ad eccezione della conversione di intere flotte di veicoli;
-- f. la sostituzione di caldaie a combustibili fossili con caldaie a combustibili fossili.
+- b. attività di ricerca e sviluppo o informazione e consulenza;
+- c. l’impiego di biocombustibili e biocarburanti che non soddisfano i requisiti ecologici e sociali secondo l’articolo 12*b* della legge sull’imposizione degli oli minerali del 21 giugno 1996[^annex3-lvlu1-1] e delle relative disposizioni attuative;
+- d. la sostituzione di vettori energetici fossili con vettori energetici fossili (ad es. in caldaie, veicoli e veicoli ibridi);
+- e. l’impiego di idrogeno, escluso l’impiego di bioidrogeno secondo l’arti-colo 19*a* lettera f dell’ordinanza del 20 novembre 1996[^annex3-lvlu1-2] sull’imposizione degli oli minerali in pile combustibili;
+- f. energia elettrica impiegata quale sostituto del combustibile per il calore di processo; è fatto salvo l’utilizzo in pompe di calore;
+- g. la rinuncia all’utilizzo o il sottoutilizzo;
+- h. l’impiego di carbone vegetale; è fatto salvo l’impiego di meno di otto tonnellate per ettaro per periodo di credito, se il carbone vegetale impiegato soddisfa i requisiti di cui all’ordinanza sulla messa in commercio di concimi del 10 gennaio 2001[^annex3-lvlu1-3];
+- i. il ricorso a tecniche di adsorbimento e assorbimento per la produzione di freddo o calore; è escluso il ricorso a esse in caso di utilizzo decentralizzato di calore residuo disponibile in misura sufficiente secondo l’articolo 2 lettera e dell’ordinanza del 1° novembre 2017[^annex3-lvlu1-4] sulla promozione dell’energia.
 
 [^annex3-lvlu1-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^annex3-lvlu1-2]: [RS 641.611](https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393)
+[^annex3-lvlu1-3]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^annex3-lvlu1-4]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 
-Allegato 3a*[^t-3]*
+Allegato 3a*[^t-4]*
 
 (art. 6 cpv. 2<sup>bis</sup>)
 
 ## Requisiti per il calcolo delle riduzioni delle emissioni e il piano di monitoraggio per progetti e programmi connessi a reti di riscaldamento a distanza
 
-[^t-3]: Introdotto dal n. II cpv. 1 dell’O del 21 set. 2018 ([RU 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Aggiornato dalla correzione del 19 feb. 2019 ([RU 2019 683](https://fedlex.data.admin.ch/eli/oc/2019/118)) e dal n. II cpv. 1 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-4]: Introdotto dal n. II cpv. 1 dell’O del 21 set. 2018 ([RU 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Aggiornato dalla correzione del 19 feb. 2019 ([RU 2019 683](https://fedlex.data.admin.ch/eli/oc/2019/118)) e dal n. II cpv. 1 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 ### 1. Campo d’applicazione
 
@@ -3332,13 +3522,13 @@ dove:
 
 ### 3.5 Calcolo delle emissioni del progetto o del programma
 
-Le emissioni annuali del progetto o di ciascun piano del programma devono essere calcolate come segue:
+Le emissioni annuali del progetto o di ciascun progetto del programma devono essere calcolate come segue:
 
 *EP**<sub>y</sub>* *= FE2**<sub>olio da riscald.</sub>**\* Q**<sub>olio da riscald.,y</sub>* *+ FE2**<sub>gas</sub>* *\* Q**<sub>gas,y</sub>* *+ FE**<sub>el.</sub>* *\* Q**<sub>el.,y</sub>* (4)
 
 dove:
 
-- EP<sub>y</sub> Emissioni attese del progetto o del piano del programma nell’anno y [tCO<sub>2</sub>eq]
+- EP<sub>y</sub> Emissioni attese del progetto o del progetto del programma nell’anno y [tCO<sub>2</sub>eq]
 - Q<sub>olio da riscald.,y</sub> Quantità attesa di olio da riscaldamento bruciato per l’esercizio della centrale di riscaldamento nell’anno y [l]; nel monitoraggio questo parametro è sostituito dal valore misurato secondo il numero 4.4.
 - Q<sub>gas,y</sub> Quantità attesa di gas bruciato per l’esercizio della centrale di riscaldamento nell’anno y [Nm<sup>3</sup>]; nel monitoraggio questo parametro è sostituito dal valore misurato secondo il numero 4.5.
 - Q<sub>el.,y</sub> Quantità di energia elettrica attesa per l’esercizio di pompe di calore nella centrale di riscaldamento nell’anno y [kWh]; nel monitoraggio questo parametro è sostituito dal valore misurato secondo il numero 4.6.
@@ -3347,7 +3537,7 @@ dove:
 
 ### 3.6 Calcolo delle riduzioni delle emissioni
 
-Le riduzioni delle emissioni annuali di progetti o piani di programmi devono essere calcolate come segue:
+Le riduzioni delle emissioni annuali di progetti o progetti di programmi devono essere calcolate come segue:
 
 *RE**<sub>y</sub>* *= ERif**<sub>y</sub>* *- EP**<sub>y</sub>* (5)
 
@@ -3444,13 +3634,13 @@ Nella misurazione dell’energia elettrica (Q<sub>el.,y</sub>) devono essere ade
 - d. la misurazione deve essere continua; e
 - e. la qualità deve essere garantita conformemente ai requisiti dell’OStrM e alle relative prescrizioni d’esecuzione del DFGP.
 
-Allegato 3b*[^t-4]*
+Allegato 3b*[^t-5]*
 
-(art. 6 cpv. 2<sup>bis</sup>)
+(art. 6 cpv. 4)
 
 ## Requisiti per il calcolo delle riduzioni delle emissioni e il piano di monitoraggio per progetti e programmi riguardanti il gas di discarica
 
-[^t-4]: Introdotto dal n. II cpv. 1 dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 (RU **2018** 5477).
+[^t-5]: Introdotto dal n. II cpv. 1 dell’O del 21 set. 2018 (RU **2018** 5477). Aggiornato dal n. II 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1. Campo d’applicazione
 
@@ -3488,25 +3678,24 @@ Ai sensi del presente allegato si intendono per:
 
 Per la determinazione del valore del fattore di ossidazione (OX) necessario per i calcoli delle riduzioni di emissioni deve essere utilizzato il seguente albero decisionale:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220304/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220601/it/xml/image/image1.png)
 
 ### 3.3 Calcolo ex ante delle riduzioni delle emissioni
 
 Le riduzioni delle emissioni possono essere calcolate ex ante basandosi sui dati delle misurazioni degli ultimi uno a tre anni oppure applicando la formula seguente:
 
-*ERif**<sub>ex-ante,y,torcia</sub>* *= (FE* *–* *OX) \* SE \* FOD**<sub>CH4,y</sub>* *\* GWP**<sub>eff,CH4</sub>* *- EP**<sub>y</sub>* (1)
+*ERif**<sub>ex-ante,y,torcia</sub>* *= (FE – OX) \* SE \* FOD**<sub>CH4,y</sub>* *\* GWP**<sub>eff,CH4</sub>* *- EP**<sub>y</sub>* (1)
 
 dove:
 
-- RE<sub>ex-ante,y,torcia</sub> Riduzioni delle emissioni stimate in caso di trattamento del gas di bassa qualità nell’anno y (tCO<sub>2</sub>eq).
-- GWP<sub>eff,CH4</sub> Potenziale di gas serra effettivo del metano (22,25 t CO<sub>2</sub>eq/t CH4).
-- FE Efficienza della torcia.
-- OX Fattore di ossidazione.
-- SE Efficienza di aspirazione.
-- FOD<sub>CH4,y</sub> Quantità di metano prodotta nella discarica nell’anno y calcolata con una formula «First Order Decay» (t CH<sub>4</sub>); cfr. formula (2).
-- EP<sub>y</sub> Emissioni del progetto nell’anno y.
-
-*FOD**<sub>CH4,y</sub>* *= (16/12) \*F\* DOC**<sub>f</sub>* *\** *∑**<sub>x</sub>* *∑**<sub>j</sub>* *A**<sub>j,x</sub>* *\* DOC**<sub>j</sub>* *\**
+- ERif<sub>ex-ante,y,torcia</sub> Riduzioni delle emissioni stimate in caso di trattamento del gas di bassa qualità nell’anno y (tCO<sub>2</sub>eq)
+- GWP<sub>eff,CH4</sub> Potenziale di gas serra effettivo del metano (25,25 tCO<sub>2</sub>eq/t CH4)
+- FE Efficienza della torcia
+- OX Fattore di ossidazione
+- SE Efficienza di aspirazione
+- FOD<sub>CH4,y</sub> Quantità di metano prodotta nella discarica nell’anno y calcolata con una formula «First Order Decay» (t CH<sub>4</sub>); cfr. formula (2)
+- EP<sub>y</sub> Emissioni del progetto nell’anno y
+- [tab] *FOD**<sub>CH4,y</sub>* *= (16/12) \*F\* DOC**<sub>f</sub>* *\** *∑**<sub>x</sub>* *∑**<sub>j</sub>* *A**<sub>j,x</sub>* *\* DOC**<sub>j</sub>* *\**
 
 *Exp(-k**<sub>j</sub>**(y-x)) \* (1* *–* *Exp(-k**<sub>j</sub>**))* (2)
 
@@ -3614,13 +3803,13 @@ Nella determinazione della quantità di gas (Q<sub>gas,y</sub>) devono essere ad
 - d. la misurazione deve essere continua o avvenire alla fornitura di ogni nuova bombola di gas; e
 - e. la qualità deve essere garantita secondo le specifiche del fabbricante.
 
-Allegato 4*[^t-5]*
+Allegato 4*[^t-6]*
 
 (art. 25 cpv. 2)
 
 ## Calcolo delle emissioni di CO<sub>2</sub> di veicoli in mancanza di dati di cui all’articolo 25 capoverso 2
 
-[^t-5]: Nuovo testo giusta il n. II cpv. 2 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)). Aggiornato dal n. II cpv. 1 dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-6]: Nuovo testo giusta il n. II cpv. 2 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)). Aggiornato dal n. II cpv. 1 dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Calcolo delle emissioni di CO<sub>2</sub> per le automobili
 
@@ -3700,13 +3889,13 @@ Allegato 4*[^t-5]*
   - a. se è uguale o inferiore a 4, il valore della seconda cifra decimale è arrotondato per difetto;
   - b. se è uguale o superiore a 5, il valore della seconda cifra decimale è arrotondato per eccesso.
 
-Allegato 4a*[^t-6]*
+Allegato 4a*[^t-7]*
 
 (art. 28 cpv. 1)
 
 ## Calcolo dell’obiettivo di emissione individuale
 
-[^t-6]: Introdotto dal n. II cpv. 3 dell’O del 1° nov. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Aggiornato dai n. I dell’O del DATEC del 16 set. 2019 ([RU 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), del 18 set. 2020 1° nov. 2020 ([RU 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), dal. n. II cpv. 1 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), e dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-7]: Introdotto dal n. II cpv. 3 dell’O del 1° nov. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Aggiornato dai n. I dell’O del DATEC del 16 set. 2019 ([RU 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), del 18 set. 2020 1° nov. 2020 ([RU 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), dal. n. II cpv. 1 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), e dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Calcolo dell’obiettivo individuale
 
@@ -3749,13 +3938,13 @@ Allegato 4a*[^t-6]*
   - b. 2019: 2067 kg;
   - c. 2021: 2089 kg.
 
-Allegato 5*[^t-7]*
+Allegato 5*[^t-8]*
 
 (art. 29 cpv. 1)
 
 ## Importi delle sanzioni in caso di superamento dell’obiettivo individuale (art. 13 cpv. 1 legge sul CO<sub>2</sub>)
 
-[^t-7]: Nuovo testo giusta il n. I cpv. 2 dell’O del DATEC del 21 set. 2018 ([RU 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Aggiornato dai n. I dell’O del DATEC del 16 set. 2019 ([RU 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)) e dal n. II cpv. 1 dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-8]: Nuovo testo giusta il n. I cpv. 2 dell’O del DATEC del 21 set. 2018 ([RU 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Aggiornato dai n. I dell’O del DATEC del 16 set. 2019 ([RU 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)) e dal n. II cpv. 1 dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Importi delle sanzioni per l’anno di riferimento 2017
 
@@ -3784,13 +3973,13 @@ Gli importi dovuti in caso di superamento dell'obiettivo individuale per ogni gr
 - c. per l’anno di riferimento 2021: 103.50 franchi;
 - d. per l’anno di riferimento 2022: 104.00 franchi.
 
-Allegato 6*[^t-8]*
+Allegato 6*[^t-9]*
 
 (art. 40 cpv. 1)
 
 ## Gestori di impianti con obbligo di partecipazione al SSQE
 
-[^t-8]: Aggiornato dal n. II dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), dall’all. 6 n. 2 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dai n. II cpv. 1 delle O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)) e del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-9]: Aggiornato dal n. II dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), dall’all. 6 n. 2 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dai n. II cpv. 1 delle O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)) e del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 Un gestore di impianti che esercita almeno una delle seguenti attività deve partecipare al SSQE:
 
@@ -3823,13 +4012,13 @@ Un gestore di impianti che esercita almeno una delle seguenti attività deve par
 
 [^annex6-lvlu1-1]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
 
-Allegato 7*[^t-9]*
+Allegato 7*[^t-10]*
 
 (art. 42 cpv. 1 lett. a, 66 cpv. 1 lett. a e b nonché cpv. 3 lett. a e b)
 
 ## Attività che autorizzano alla partecipazione al SSQE o all’esenzione dalla tassa con un impegno di riduzione
 
-[^t-9]: Aggiornato dai n. II dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)) e II cpv. 1 dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^t-10]: Aggiornato dai n. II dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), II cpv. 1 dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 
 - 1\. Coltivazione di piante in serra;
 - 2\. estrazione di pietre e minerali e altre attività estrattive;
@@ -3854,13 +4043,13 @@ Allegato 7*[^t-9]*
 - 20\. produzione di calore o freddo generata da combustibili fossili, eventualmente combinata con la produzione di energia elettrica, immessa in reti regionali di teleriscaldamento e teleraffreddamento o fornita a gestori di impianti che esercitano attività di cui ai numeri 1–19 e 21;
 - 21\. pulizia di fusti, container e altri contenitori utilizzati in relazione con attività secondo il presente allegato.
 
-Allegato 8*[^t-10]*
+Allegato 8*[^t-11]*
 
 (art. 45 cpv. 1 e 48 cpv. 1<sup>bis</sup>)
 
 ## Calcolo della quantità massima di diritti di emissione disponibili per i gestori di impianti nel SSQE e calcolo della quantità in circolazione
 
-[^t-10]: Nuovo testo giusta il n. II cpv. 2 dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-11]: Nuovo testo giusta il n. II cpv. 2 dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Calcolo della quantità massima di diritti di emissione disponibili per i gestori di impianti nel SSQE
 
@@ -3885,13 +4074,13 @@ La quantità massima di diritti di emissione disponibili annualmente per l’ins
 
 - 2\.3 La domanda di diritti di emissione per gli impianti è il risultato della seguente sottrazione: le emissioni rilevanti di gas serra degli impianti di cui all’articolo 55 dedotti i certificati di riduzione delle emissioni consegnati per gli anni 2013–2020 a copertura di queste emissioni di gas serra.
 
-Allegato 9*[^t-11]*
+Allegato 9*[^t-12]*
 
 (art. 46 cpv. 1, 46*a* cpv. 2 e 46*b* cpv. 1 e 3)
 
 ## Calcolo dei diritti di emissione da assegnare a titolo gratuito per i gestori di impianti nel SSQE
 
-[^t-11]: Aggiornato dai n. II delle O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), del 22 giu. 2016 ([RU 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)), dal n. II cpv. 1 delle O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), del 25 nov. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), dalla correzione del 10 feb. 2021 ([RU 2021 80](https://fedlex.data.admin.ch/eli/oc/2021/80)) e dal n. II cpv. 1 dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-12]: Aggiornato dai n. II delle O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), del 22 giu. 2016 ([RU 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)), dal n. II cpv. 1 delle O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), del 25 nov. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), dalla correzione del 10 feb. 2021 ([RU 2021 80](https://fedlex.data.admin.ch/eli/oc/2021/80)), dal n. II cpv. 1 dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) e dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Parametri di riferimento
 
@@ -3956,7 +4145,7 @@ Allegato 9*[^t-11]*
 - 1\.2 Se non è applicabile alcun parametro di riferimento relativo al prodotto, la quantità dei diritti di emissione da assegnare annualmente a titolo gratuito è calcolata secondo il parametro di riferimento relativo al calore nel seguente modo:
 -
 
-  47,3 diritti di emissione per TJ di calore misurabile, ove solo il calore misurabile generato o importato da altri impianti, i cui gestori prendono parte al SSQE, ha diritto all’assegnazione, purché questo calore non sia generato da energia elettrica e:
+  47,3 diritti di emissione per TJ di calore misurabile, ove solo il calore misurabile generato o importato da altri impianti, i cui gestori prendono parte al SSQE, ha diritto all’assegnazione, purché questo calore non sia generato con energia elettrica o dall’impiego di energia nucleare:
 
   - a. all’interno dei limiti del sistema del gestore di impianti, che prende parte al SSQE, sia utilizzato per fabbricare prodotti, generare energia meccanica impiegata a scopi diversi dalla generazione di energia elettrica, riscaldare o refrigerare, comunque non per la generazione di energia elettrica; oppure
   - b. sia esportato a terzi al di fuori del SSQE, fatta eccezione per le esportazioni per la generazione di energia elettrica e il trasferimento del calore importato.
@@ -3966,7 +4155,7 @@ Allegato 9*[^t-11]*
 - 1\.4 Se non è applicabile nessuno dei parametri di riferimento di cui ai numeri 1.1–1.3, la quantità dei diritti di emissione da assegnare annualmente a titolo gratuito è calcolata moltiplicando le emissioni di processo per 0,97.
 - 1\.5 Se si utilizzano gas provenienti da processi e contenenti un elevato tenore di carbonio non completamente ossidato (gas residui), è effettuata un’ulteriore assegnazione a titolo gratuito per compensare le maggiori emissioni di CO<sub>2</sub> e la minore efficienza nell’uso dei gas residui rispetto al gas naturale. Questa assegnazione è effettuata solo se il gas residuo si trova al di fuori di un elemento di assegnazione con un parametro di riferimento relativo al prodotto ed è utilizzato all’interno dell’impianto nel SSQE per generare calore misurabile o non misurabile o per la produzione di energia elettrica.
 - 1\.6 Per il calore risultante dalla produzione di acido nitrico non sono assegnati diritti di emissione a titolo gratuito.
-- 1\.7 Se il calore utilizzato all’interno di un elemento di assegnazione con un parametro di riferimento relativo al prodotto è importato da terzi che non prendono parte al SSQE, risulta dalla produzione di acido nitrico o è generato da energia elettrica, l’assegnazione a titolo gratuito calcolata secondo il parametro di riferimento relativo al prodotto è ridotta di questa quantità di calore, moltiplicata per il parametro di riferimento relativo al calore di 47,3 diritti di emissione per TJ.
+- 1\.7 Se il calore utilizzato all’interno di un elemento di assegnazione con un parametro di riferimento relativo al prodotto è importato da terzi che non prendono parte al SSQE, risulta dalla produzione di acido nitrico o è generato con energia elettrica o dall’impiego di energia nucleare, l’assegnazione a titolo gratuito calcolata secondo il parametro di riferimento relativo al prodotto è ridotta di questa quantità di calore, moltiplicata per il parametro di riferimento relativo al calore di 47,3 diritti di emissione per TJ.
 
 ### 2 Calcolo generale della quantità di diritti di emissione da assegnare a titolo gratuito
 
@@ -4067,13 +4256,13 @@ Allegato 9*[^t-11]*
   - 1\. il calore utilizzato all’interno di un elemento di assegnazione con parametro di riferimento relativo al prodotto secondo il numero 1.7;
   - 2\. il rapporto tra le emissioni dirette e la somma delle emissioni dirette e indirette secondo il numero 4.1.
 
-Allegato 10*[^t-12]*
+Allegato 10*[^t-13]*
 
 (art. 86 cpv. 1 e 89 cpv. 2)
 
 ## Carburanti le cui emissioni di CO<sub>2</sub> devono essere compensate
 
-[^t-12]: Nuovo testo giusta l’all. 2 n. 3 dell’O del 29 mar. 2017 riguardante l’inventario federale dei paesaggi, siti e monumenti naturali, in vigore dal 1° giu. 2017 ([RU 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)).
+[^t-13]: Nuovo testo giusta l’all. 2 n. 3 dell’O del 29 mar. 2017 riguardante l’inventario federale dei paesaggi, siti e monumenti naturali, in vigore dal 1° giu. 2017 ([RU 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)).
 
 <table>
 <tr><td>Voce della tariffa doganale[^annex10-lvlu1-1]</td><td>Designazione della merce</td><td>Fattore di emissione t CO<sub>2</sub> per 1000 kg</td><td>Fattore di emissione t CO<sub>2</sub> per TJ</td><td>Fattore di emissione t CO<sub>2</sub> per m<sup>3</sup></td></tr>
@@ -4092,17 +4281,15 @@ Allegato 10*[^t-12]*
 
 [^annex10-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), allegato
 
-Allegato 11*[^t-13]*
+Allegato 11*[^t-14]*
 
 (art. 94 cpv. 2)
 
-## Ammontare della tassa sul CO<sub>2</sub> e aliquote della tassa
+## Tariffa della tassa sul CO<sub>2</sub> sui combustibili: 120 franchi per tonnellata di CO<sub>2</sub>
 
-[^t-13]: Nuovo testo giusta il n. II cpv. 2 dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-14]: Nuovo testo giusta il n. II cpv. 2 dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)). Aggiornato dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-### 1 Ammontare della tassa sul CO<sub>2</sub>
-
-La tassa sul CO<sub>2</sub> ammonta a 120 franchi per tonnellata di CO<sub>2</sub>.
+### 1 ...
 
 ### 2 Aliquote della tassa
 
@@ -4132,14 +4319,15 @@ Per i combustibili menzionati qui di seguito si applicano le seguenti aliquote:
 </table>
 
 <table>
-<tr><th>Voce di tariffa doganale</th><th>Designazione della merce</th><th>Aliquota della tassa in fr.</th></tr>
-<tr><td></td><td>– – altri:</td><td></td></tr>
-<tr><td></td><td>– – – destinati ad altri usi:</td><td></td></tr>
-<tr><td>1991</td><td>– – – – petrolio</td><td>301,20</td></tr>
-<tr><td>1992</td><td>– – – – oli per il riscaldamento:</td><td></td></tr>
-<tr><td></td><td>– – – – – extraleggero</td><td>318,00</td></tr>
-<tr><td></td><td></td><td>ogni 1000 kg</td></tr>
-<tr><td></td><td>– – – – – medio e pesante</td><td>380,40</td></tr>
+<tr><th>Voce di tariffa doganale</th><th>Designazione della merce</th><th colspan="2">Aliquota della tassa in fr.</th></tr>
+<tr><td></td><td>– – altri:</td><td colspan="2"></td></tr>
+<tr><td></td><td>– – – destinati ad altri usi:</td><td colspan="2"></td></tr>
+<tr><td>1991</td><td>– – – – petrolio</td><td colspan="2">301,20</td></tr>
+<tr><td>1992</td><td>– – – – oli per il riscaldamento:</td><td colspan="2"></td></tr>
+<tr><td></td><td>– – – – – extraleggero</td><td colspan="2">318,00</td></tr>
+<tr><td></td><td></td><td colspan="2">ogni 1000 kg</td></tr>
+<tr><td></td><td>– – – – – medio e pesante</td><td colspan="2">380,40</td></tr>
+<tr><td>1993</td><td>– – – – distillati di oli minerali contenenti meno del 20% in volume prima di 300 °C, non miscelati</td><td>379.40</td></tr>
 <tr><td>1999</td><td>– – – – altri distillati e prodotti:</td><td></td></tr>
 <tr><td></td><td></td><td>ogni 1000 l a 15 °C</td></tr>
 <tr><td></td><td>– – – – – gasolio</td><td>318,00</td></tr>
@@ -4197,13 +4385,13 @@ Per i combustibili menzionati qui di seguito si applicano le seguenti aliquote:
 
 - I combustibili impiegati conformemente al numero 3.1 sono assoggettati alle aliquote della tassa di cui al numero 2.
 
-Allegato 12*[^t-14]*
+Allegato 12*[^t-15]*
 
 (art. 112–113*b*)
 
 ## Impiego diretto della geotermia per la produzione di calore
 
-[^t-14]: Introdotto dal n. II cpv. 3 dell’O del 1° nov. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Aggiornato dal n. II cpv. 1 dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-15]: Introdotto dal n. II cpv. 3 dell’O del 1° nov. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Aggiornato dal n. II cpv. 1 dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Prospezione e sfruttamento
 
@@ -4271,8 +4459,8 @@ Allegato 12*[^t-14]*
 
   Se vi sono i presupposti per la concessione del contributo alla prospezione, nel contratto vengono regolamentati secondo l’articolo 113 capoverso 5 in particolare i seguenti punti:
 
-  - a. le tappe principali che il richiedente deve raggiungere e le scadenze da rispettare;
-  - b. l’obbligo di informazione del richiedente nei confronti dell’UFE, segnatamente relativo a rapporti finanziari, conteggi finali ed eventuali modifiche del progetto;
+  - a. le tappe principali che la persona richiedente deve raggiungere e le scadenze da rispettare;
+  - b. l’obbligo di informazione della persona richiedente nei confronti dell’UFE, segnatamente relativo a rapporti finanziari, conteggi finali ed eventuali modifiche del progetto;
   - c. l’entità, le condizioni e la scadenza del contributo alla prospezione;
   - d. fatti salvi monopoli cantonali, il trasferimento a titolo gratuito dell’impianto alla Confederazione e la concessione a quest’ultima di un diritto di compera del fondo, se un progetto non viene portato avanti e nemmeno utilizzato per altri scopi;
   - e. la pubblicazione di tutti i dati finanziari necessari al calcolo di eventuali perdite o utili secondo l’articolo 113*b*;
@@ -4329,8 +4517,8 @@ Allegato 12*[^t-14]*
 
   Se vi sono i presupposti per la concessione del contributo allo sfruttamento, nel contratto vengono regolamentati secondo l’articolo 113 capoverso 5 in particolare i seguenti punti:
 
-  - a. le tappe principali che il richiedente deve raggiungere e le scadenze da rispettare;
-  - b. l’obbligo di informazione del richiedente nei confronti dell’UFE, segnatamente relativo a rapporti finanziari, conteggi finali ed eventuali modifiche del progetto;
+  - a. le tappe principali che la persona richiedente deve raggiungere e le scadenze da rispettare;
+  - b. l’obbligo di informazione della persona richiedente nei confronti dell’UFE, segnatamente relativo a rapporti finanziari, conteggi finali ed eventuali modifiche del progetto;
   - c. l’entità, le condizioni e la scadenza del contributo allo sfruttamento;
   - d. fatti salvi monopoli cantonali, il trasferimento a titolo gratuito dell’impianto alla Confederazione e la concessione a quest’ultima di un diritto di compera del fondo, se un progetto non viene portato avanti e nemmeno utilizzato per altri scopi;
   - e. la pubblicazione di tutti i dati finanziari necessari al calcolo di eventuali perdite o utili secondo l’articolo 113*d*;
@@ -4346,20 +4534,20 @@ Allegato 12*[^t-14]*
 
 ### 5 Geodati
 
-- 5\.1 Il richiedente fornisce a titolo gratuito a swisstopo e al Cantone di ubicazione, entro al massimo sei mesi dopo il rilevamento effettuato secondo le disposizioni tecniche di swisstopo, i rispettivi geodati.
+- 5\.1 La persona richiedente fornisce a titolo gratuito a swisstopo e al Cantone di ubicazione, entro al massimo sei mesi dopo il rilevamento effettuato secondo le disposizioni tecniche di swisstopo, i rispettivi geodati.
 - 5\.2 Nel quadro degli obiettivi della legge del 5 ottobre 2007[^annex12-lvlu1-lvl5-1] sulla geoinformazione e dell’ordinanza del 21 maggio 2008[^annex12-lvlu1-lvl5-2] sulla geologia nazionale swisstopo può utilizzare ed elaborare questi geodati; lo stesso vale per i Cantoni di ubicazione secondo le rispettive regolamentazioni cantonali.
 - 5\.3 Esso mette a disposizione del pubblico i geodati primari e i geodati primari processati al più tardi entro 24 mesi dalla fine della prospezione ed entro 12 mesi dalla fine dello sfruttamento.
 
 [^annex12-lvlu1-lvl5-1]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
 [^annex12-lvlu1-lvl5-2]: [RS 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
 
-Allegato 13*[^t-15]*
+Allegato 13*[^t-16]*
 
 (art. 46*d*)
 
 ## Operatori di aeromobili con obbligo di partecipazione al SSQE
 
-[^t-15]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^t-16]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019,in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 
 - 1\.
 
@@ -4402,13 +4590,13 @@ Allegato 13*[^t-15]*
 
 [^annex13-lvlu1-1]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
-Allegato 14*[^t-16]*
+Allegato 14*[^t-17]*
 
 (art. 46*d* cpv. 1 e 2, 51 cpv. 1, 2 e 4, 52 cpv. 1, 6 e 7, 53 cpv. 1 e 2, 55 cpv. 2 e 130 cpv. 1)
 
 ## Autorità competente per i partecipanti al SSQE
 
-[^t-16]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^t-17]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 
 ### 1 Gestori di impianti
 
@@ -4428,13 +4616,13 @@ Allegato 14*[^t-16]*
 
 [^annex14-lvlu1-lvl2-1]: Cfr. nota a piè di pagina all’art. 135 lett. f.
 
-Allegato 15*[^t-17]*
+Allegato 15*[^t-18]*
 
 (art. 46*e* e 46*f*)
 
 ## Calcolo della quantità massima di diritti di emissione disponibili e della quantità di diritti di emissione da assegnare a titolo gratuito per gli operatori di aeromobili
 
-[^t-17]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-18]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 - 1\. La quantità di diritti di emissione è calcolata in base al seguente parametro di riferimento:
 - 0,000642186914222035 diritti di emissione per tonnellata-chilometro
@@ -4463,13 +4651,13 @@ Allegato 15*[^t-17]*
 - *Assegnazione**<sub>202x</sub>* *=* *Assegnazione**<sub>2020</sub>* *– x \* 0,022 \* assegnazione**<sub>2020</sub>*
 - *Assegnazione**<sub>202x</sub>* Assegnazione per l’anno 202x; con x = 1, 2, 3 ecc.
 
-Allegato 16*[^t-18]*
+Allegato 16*[^t-19]*
 
 (art. 51)
 
 ## Requisiti relativi al piano di monitoraggio
 
-[^t-18]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-19]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) e dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Piano di monitoraggio per gestori di impianti
 
@@ -4512,17 +4700,17 @@ Allegato 16*[^t-18]*
 - cherosene (Jet A-1 o Jet A): 3,15
 - Jet B: 3,10
 - carburante per aeromobili (AvGas): 3,10
-- 3\.3 Il fattore di emissione per i combustibili da biomassa è pari a zero, a condizione che la biomassa utilizzata soddisfi i criteri di sostenibilità di cui all’articolo 17 della direttiva 2009/28/CE[^annex16-lvlu1-lvl3-1].
+- 3\.3 Il fattore di emissione per i combustibili da biomassa è pari a zero, a condizione che la biomassa utilizzata soddisfi i criteri di sostenibilità di cui all’articolo 29 della direttiva (UE) 2018/2001[^annex16-lvlu1-lvl3-1].
 
-[^annex16-lvlu1-lvl3-1]: Direttiva 2009/28/CE del Parlamento europeo e del Consiglio, del 23 aprile 2009, sulla promozione dell’uso dell’energia da fonti rinnovabili, recante modifica e successiva abrogazione delle direttive 2001/77/CE e 2003/30/CE, GU L 140 del 05.06.2009, pag. 16; direttiva modificata, da ultimo, dalla direttiva 2015/1513, GU L 239 del 15.09.2015, pag. 1.
+[^annex16-lvlu1-lvl3-1]: Direttiva (UE) 2018/2001 del Parlamento europeo e del Consiglio, dell’11 dicembre 2018, sulla promozione dell’uso dell’energia da fonti rinnovabili (rifusione), GU L 328 del 21.12.2018, pag. 82.
 
-Allegato 17*[^t-19]*
+Allegato 17*[^t-20]*
 
 (art. 52)
 
 ## Requisiti posti al rapporto di monitoraggio
 
-[^t-19]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-20]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) e dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Rapporto di monitoraggio per gestori di impianti
 
@@ -4555,17 +4743,17 @@ Allegato 17*[^t-19]*
   - h. in caso di lacune nei dati, una descrizione dei motivi di tali lacune, il metodo utilizzato per stimare i dati sostitutivi e le emissioni da essi calcolate;
   - i. per ogni coppia di aeroporti, l’identificativo ICAO dell’aeroporto e il numero di voli per i quali devono essere raccolti i dati e le relative emissioni annue.
 
-- 2\.2 Gli emettitori di entità ridotta di cui all’articolo 54 paragrafo 1 del regolamento (UE) n. 601/2012[^annex17-lvlu1-lvl2-1] possono stimare il proprio consumo di combustibili con uno strumento per emettitori di entità ridotta di cui all’articolo 54 paragrafo 2 del regolamento (UE) n. 601/2012.
+- 2\.2 Gli emettitori di entità ridotta di cui all’articolo 55 paragrafo 1 del regolamento di esecuzione (UE) 2018/2066[^annex17-lvlu1-lvl2-1] possono stimare il proprio consumo di combustibili con uno strumento per emettitori di entità ridotta di cui all’articolo 55 paragrafo 2 del regolamento di esecuzione (UE) 2018/2066.
 
-[^annex17-lvlu1-lvl2-1]: Cfr. nota all’art. 52 cpv. 5.
+[^annex17-lvlu1-lvl2-1]: Cfr. nota a piè di pagina all’art. 52 cpv. 5.
 
-Allegato 18*[^t-20]*
+Allegato 18*[^t-21]*
 
 (art. 52)
 
-## Verifica dei rapporti di monitoraggio degli operatori di aeromobili e requisiti posti all’organismo di controllo
+## Verifica dei rapporti di monitoraggio degli operatori di aeromobili e dei requisiti posti all’organismo di controllo
 
-[^t-20]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^t-21]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Obblighi dell’organismo di controllo e dell’operatore di aeromobile
 
@@ -4607,5 +4795,5 @@ La verifica dei rapporti di monitoraggio prevede le fasi seguenti:
 - 4\.4 Deve conoscere tutte le norme rilevanti in materia, nonché le disposizioni legali e amministrative in vigore.
 
 [^annex18-lvlu1-lvl4-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^annex18-lvlu1-lvl4-2]: Regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008, che pone norme in materia di accreditamento e vigilanza del mercato per quanto riguarda la commercializzazione dei prodotti e che abroga il regolamento (CEE) n. 339/93 del Consiglio, GU L 218 del 13.8.2008, pag. 30.
-[^annex18-lvlu1-lvl4-3]: Regolamento di esecuzione (UE) 2018/2067 della Commissione, del 19 dicembre 2018, concernente la verifica dei dati e l’accreditamento dei verificatori a norma della direttiva 2003/87/CE del Parlamento europeo e del Consiglio, GU L 334 del 31.12.2018, pag. 94.
+[^annex18-lvlu1-lvl4-2]: Regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008, che pone norme in materia di accreditamento e vigilanza del mercato per quanto riguarda la commercializzazione dei prodotti e che abroga il regolamento (CEE) n. 339/93 del Consiglio, GU L 218 del 13.8.2008, pag. 30, modificato da ultimo dal regolamento (UE) 2019/1020, GU L 169 del 25.6.2019, pag. 1.
+[^annex18-lvlu1-lvl4-3]: Regolamento di esecuzione (UE) 2018/2067 della Commissione, del 19 dicembre 2018, relativo alla verifica dei dati e all’accreditamento dei verificatori a norma della direttiva 2003/87/CE del Parlamento europeo e del Consiglio, GU L 334 del 31.12.2018, pag. 94, modificato da ultimo dal regolamento di esecuzione (UE) 2020/2084, GU L 423 del 15.12.2020, pag. 23.

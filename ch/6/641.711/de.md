@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Verordnung vom 30. November 2012 über die Reduktion der CO<sub>2</sub>-Emissionen (CO<sub>2</sub>-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: de
-version: 2022-03-04
+version: 2022-06-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220304/de/xml/fedlex-data-admin-ch-eli-cc-2012-856-20220304-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220304/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2012-856-20220601-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220304/de"
 
 (CO<sub>2</sub>-Verordnung)
 
-vom 30. November 2012 (Stand am 4. März 2022)
+vom 30. November 2012 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -50,47 +50,19 @@ Diese Verordnung regelt die Verminderung der Emission folgender Treibhausgase:
 
 #### Art. 2
 
+[^2-1]
+
 Im Sinne dieser Verordnung bedeuten:
 
-- a.[^2-1]
+- a. *Feuerungswärmeleistung*: einer Anlage maximal zuführbare Wärmeenergie pro Zeiteinheit;
+- b. *Gesamtfeuerungswärmeleistung*: Summe der Feuerungswärmeleistungen der Anlagen eines Betreibers, die im Emissionshandelssystem (EHS) berücksichtigt werden;
+- c. *Gesamtleistung*: Summe der abgegebenen elektrischen und thermischen Nennleistungen eines fossil-thermischen Kraftwerks oder einer Wärme-Kraftkopplungsanlage (WKK-Anlage);
 
-  *Personenwagen*:
+- d. *Gesamtwirkungsgrad*: Verhältnis der Gesamtleistung zur Feuerungswärmeleistung eines fossil-thermischen Kraftwerks oder einer WKK-Anlage gemäss Herstellerangaben;
+- e. *EHS-Teilnehmer*: Betreiber von Anlagen und Betreiber von Luftfahrzeugen, die am EHS der Schweiz teilnehmen;
+- f. *Partnerstaat*: Staat, mit welchem die Schweiz eine völkerrechtliche Vereinbarung zur Durchführung von Klimaschutzprojekten der Schweiz in diesem Staat abgeschlossen hat.
 
-  - 1\. Personenwagen nach Artikel 11 Absatz 2 Buchstabe a der Verordnung vom 19. Juni 1995[^2-2] über die technischen Anforderungen an Strassenfahrzeuge (VTS),
-  - 2\. nicht als Personenwagen im Sinne dieser Verordnung gelten Fahrzeuge mit besonderer Zweckbestimmung nach Anhang II Teil A Ziffer 5 der Richtlinie 2007/46/EG[^2-3] oder nach Anhang I Teil A Ziffer 5 der Verordnung (EU) 2018/858[^2-4];
-
-- a<sup>bis</sup>.[^2-5]
-
-  *Lieferwagen*:
-
-  - 1\. Lieferwagen nach Artikel 11 Absatz 2 Buchstabe e VTS mit einem Gesamtgewicht von höchstens 3,50 t,
-  - 2\. Fahrzeuge mit einem emissionsfreien Antrieb und einem Gesamtgewicht von über 3,50 t bis zu 4,25 t, die abgesehen vom Gewicht der Definition des Lieferwagens entsprechen und bei denen das 3,50 t überschreitende Gewicht einzig durch das Mehrgewicht des emissionsfreien Antriebs verursacht wird,
-  - 3\. nicht als Lieferwagen im Sinne dieser Verordnung gelten Lieferwagen mit einem Leergewicht von über 2,585 t, die nach dem Messverfahren für schwere Motorwagen gemäss Verordnung (EG) Nr. 595/2009[^2-6] gemessen werden, bei denen keine Emissionswerte gemäss Verordnung (EG) Nr. 715/2007[^2-7] vorliegen und die nicht über einen emissionsfreien Antrieb verfügen, sowie Fahrzeuge mit besonderer Zweckbestimmung nach Anhang 2 Teil A Ziffer 5 der Richtlinie 2007/46/EG oder nach Anhang I Teil A Ziffer 5 der Verordnung (EU) 2018/858;
-
-- a<sup>ter</sup>.[^2-8]
-
-  *leichte Sattelschlepper*:
-
-  - 1\. Sattelschlepper nach Artikel 11 Absatz 2 Buchstabe i VTS mit einem Gesamtgewicht von bis zu 3,50 t,
-  - 2\. nicht als leichte Sattelschlepper im Sinne dieser Verordnung gelten Sattelschlepper mit einem Leergewicht von über 2,585 t, die nach dem Messverfahren für schwere Motorwagen gemäss Verordnung (EG) Nr. 595/2009 gemessen werden und bei denen keine Emissionswerte gemäss Verordnung (EG) Nr. 715/2007 vorliegen, sowie Fahrzeuge mit besonderer Zweckbestimmung nach Anhang 2 Teil A Ziffer 5 der Richtlinie 2007/46/EG oder nach Anhang 1 Teil A Ziffer 5 der Verordnung (EU) 2018/858;
-
-- b.[^2-9] …
-- c*.*[^2-10] *Feuerungswärmeleistung*: einer Anlage maximal zuführbare Wärmeenergie pro Zeiteinheit;
-- d*.*[^2-11] *Gesamtfeuerungswärmeleistung*: Summe der Feuerungswärmeleistungen der Anlagen eines Betreibers, die im Emissionshandelssystem (EHS) berücksichtigt werden;
-- e. *Gesamtleistung*: Summe der abgegebenen elektrischen und thermischen Nennleistungen eines fossil-thermischen Kraftwerks;
-- f. *Gesamtwirkungsgrad*: Verhältnis der Gesamtleistung zur Feuerungswärmeleistung eines fossil-thermischen Kraftwerks gemäss Herstellerangaben.
-
-[^2-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^2-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^2-3]: Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (Rahmenrichtlinie), ABl. L 263 vom 9.10.2007, S. 1; zuletzt geändert durch Verordnung (EU) 2019/543, ABl. L 95 vom 4.4.2019, S. 1.
-[^2-4]: Verordnung (EU) 2018/858 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die Genehmigung und die Marktüberwachung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge, zur Änderung der Verordnungen (EG) Nr. 715/2007 und (EG) Nr. 595/2009 und zur Aufhebung der Richtlinie 2007/46/EG, ABl. L 151 vom 14.6.2018, S. 1; zuletzt geändert durch Verordnung (EU) 2019/2144, ABl. L 325 vom 16.12.2019, S. 1.
-[^2-5]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^2-6]: Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Typengenehmigung von Kraftfahrzeugen und Motoren hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Verordnung (EG) Nr. 715/2007 und der Richtlinie 2007/46/EG sowie zur Aufhebung der Richtlinien 80/1269/EWG, 2005/55/EG und 2005/78/EG, ABl. L 188 vom 18.7.2009, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 133/2014, ABl. L 47 vom 18.2.2014, S. 1.
-[^2-7]: Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typengenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge, ABl. L 171 vom 29.6.2007, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 459/2012, ABl. L 142 vom 1.6.2012, S. 16.
-[^2-8]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^2-9]: Aufgehoben durch Ziff. I der V vom 13. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^2-10]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^2-11]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^2-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 3. Abschnitt: Sektorielle Zwischenziele
 
@@ -106,76 +78,64 @@ Die Zwischenziele für das Jahr 2015 betragen:
 
 <sup>2</sup> Wird ein sektorielles Zwischenziel nach Absatz 1 nicht erreicht, so beantragt das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) nach Anhörung der Kantone und der betroffenen Kreise dem Bundesrat weitere Massnahmen.
 
-### 4. Abschnitt: Emissionsverminderungen im Ausland****
-
-[^chap1-sec4-1]
-
-[^chap1-sec4-1]: Fassung gemäss Ziff. I der V vom 8. Okt. 2014, in Kraft seit 1. Dez. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
+### 4. Abschnitt: …
 
 #### Art. 4
 
-**Anrechenbare Emissionsverminderungen für Projekte im Ausland[^4-1]**
+[^4-1]
 
-<sup>1</sup> Emissionsverminderungen im Ausland können sich nur die nach dieser Verordnung berechtigten Unternehmen und Personen anrechnen lassen.
-
-<sup>2</sup>
-
-Emissionsverminderungen im Ausland sind anrechenbar, wenn:
-
-- a. sie mit einem Emissionsminderungszertifikat nach dem Rahmenübereinkommen vom 9. Mai 1992[^4-2] der Vereinten Nationen über Klimaänderungen bescheinigt sind; und
-- b. ihre Anrechnung nicht nach Anhang 2 ausgeschlossen ist.
-
-[^4-1]: Eingefügt durch Ziff. I der V vom 8. Okt. 2014, in Kraft seit 1. Dez. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
-[^4-2]: [SR 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
+[^4-1]: Aufgehoben durch Ziff. I der V vom 4. Mai 2022, mit Wirkung seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 4a
 
-**Genehmigungsschreiben für Projekte**[^4a-1]
+[^4a-1]
 
-<sup>1</sup> Wer für ein Projekt zur Emissionsverminderung im Ausland Emissionsminderungszertifikate erhalten möchte, kann das nach den Regeln von Artikel 6 Absatz 3 oder von Artikel 12 Absatz 5 des Protokolls von Kyoto vom 11. Dezember 1997[^4a-2] zum Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen (Kyoto-Protokoll) dafür notwendige Genehmigungsschreiben beim Bundesamt für Umwelt (BAFU) beantragen.
+[^4a-1]: Eingefügt durch Ziff. I der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Aufgehoben durch Ziff. I der V vom 4. Mai 2022, mit Wirkung seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-<sup>2</sup> Das BAFU stellt das Genehmigungsschreiben aus, wenn die Voraussetzung nach Artikel 4 Absatz 2 Buchstabe b erfüllt ist.
+### 5. Abschnitt:**** Bescheinigungen für Projekte und Programme für Emissionsverminderungen oder die Erhöhung der Senkenleistungen im In- und Ausland****
 
-[^4a-1]: Eingefügt durch Ziff. I der V vom 8. Okt. 2014, in Kraft seit 1. Dez. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
-[^4a-2]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
-
-### 5. Abschnitt:**** Bescheinigungen für Projekte und Programme für Emissionsverminderungen im Inland
-
-[^chap1-sec5-1]
+[^chap1-sec5-1][^chap1-sec5-2]
 
 [^chap1-sec5-1]: Fassung gemäss Ziff. I der V vom 8. Okt. 2014, in Kraft seit 1. Dez. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
+[^chap1-sec5-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 5
 
-**Anforderungen**
+**Anforderungen**[^5-1]
 
 <sup>1</sup>
 
-Für Projekte und Programme werden Bescheinigungen für Emissionsverminderungen im Inland ausgestellt, wenn:
+Für Projekte und Programme für Emissionsverminderungen oder die Erhöhung der Senkenleistung im Inland und Ausland werden nationale beziehungsweise internationale Bescheinigungen (Bescheinigungen) ausgestellt, wenn:
 
-- a. Anhang 3 dies nicht ausschliesst;
+- a. die Anhänge 2*a* oder 3 dies nicht ausschliessen;
 - b.
 
-  das Projekt oder die Vorhaben des Programms:
+  glaubhaft und nachvollziehbar dargestellt wird, dass das Projekt:
 
-  - 1\. ohne den Erlös aus dem Verkauf der Bescheinigungen nicht wirtschaftlich wären,
-  - 2\. mindestens dem Stand der Technik entsprechen, und
-  - 3\. Massnahmen vorsehen, die, gemessen an der Referenzentwicklung nach Artikel 6 Absatz 2 Buchstabe d, zu einer zusätzlichen Emissionsverminderung führen;
+  - 1\. ohne den Erlös aus dem Verkauf der Bescheinigungen über die Projektdauer nicht wirtschaftlich wäre,
+  - 2\. mindestens dem Stand der Technik entspricht,
+  - 3\. Massnahmen vorsieht, die, gemessen an der Referenzentwicklung nach Artikel 6 Absatz 2 Buchstabe d, zu einer zusätzlichen Emissionsverminderung oder einer Erhöhung der Senkenleistung führen,
+  - 4\. die übrigen massgebenden rechtlichen Bestimmungen einhält,
+  - 5\. im Ausland zur nachhaltigen Entwicklung vor Ort beiträgt und dieser Beitrag vom Partnerstaat bestätigt wurde;
 
 - c.
 
-  die Emissionsverminderungen:
+  die Emissionsverminderungen oder die Erhöhung der Senkenleistungen:
 
   - 1\. nachweisbar und quantifizierbar sind,
-  - 2\.[^5-1] nicht Treibhausgasemissionen betreffen, die vom EHS erfasst sind, und
-  - 3\.[^5-2] nicht von einem Betreiber mit Verminderungsverpflichtung nach Artikel 66 Absatz 1 erzielt wurden, der gleichzeitig die Ausstellung von Bescheinigungen nach Artikel 12 beantragt; davon ausgenommen sind Betreiber mit Verminderungsverpflichtungen mit Emissionsziel nach Artikel 67, soweit die Emissionsverminderungen aus Projekten oder Programmen vom Emissionsziel nicht erfasst sind; und
+  - 2\. nicht Treibhausgasemissionen betreffen, die vom EHS erfasst sind,
+  - 3\. nicht von einem Betreiber mit Verminderungsverpflichtung nach Artikel 66 Absatz 1 erzielt wurden, der gleichzeitig die Ausstellung von Bescheinigungen nach Artikel 12 beantragt; davon ausgenommen sind Betreiber mit Verminderungsverpflichtungen mit Emissionsziel nach Artikel 67, soweit die Emissionsverminderungen aus Projekten oder Programmen vom Emissionsziel nicht erfasst sind,
+  - 4\. so berechnet sind, dass wesentliche Überschätzungen der anrechenbaren Emissionsverminderungen oder der anrechenbaren Erhöhung der Senkenleistungen ausgeschlossen sind;
 
-- d. der Beginn der Umsetzung des Projekts oder des Programms bei der Einreichung des Gesuchs nach Artikel 7 nicht länger als drei Monate zurückliegt.
+- d. der Beginn der Umsetzung des Projekts oder des Programmes bei der Einreichung des Gesuchs nach Artikel 7 nicht länger als drei Monate zurückliegt;
+- e. das Projekt oder Programm noch nicht beendet ist; und
+- f. die Umsetzung des Projekts oder des Programms zu keiner Verlagerung der Emissionen führt.
 
-<sup>2</sup> Als Beginn der Umsetzung gilt der Zeitpunkt, zu dem sich der Gesuchsteller gegenüber Dritten finanziell massgeblich verpflichtet oder bei sich projekt- oder programmbezogene organisatorische Massnahmen ergreift.
+<sup>2</sup> Für Projekte und Programme, die Kohlenstoff speichern, werden Bescheinigungen ausgestellt, wenn zusätzlich zu den Anforderungen nach Absatz 1 die Permanenz der Kohlenstoffbindung unabhängig von der Projektdauer bis mindestens 30 Jahre nach Wirkungsbeginn ausreichend sichergestellt ist und nachvollziehbar dargelegt wird.
 
-[^5-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^5-2]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+<sup>3</sup> Als Beginn der Umsetzung gilt der Zeitpunkt, zu dem sich die gesuchstellende Person gegenüber Dritten finanziell massgeblich verpflichtet oder bei sich projekt- oder programmbezogene organisatorische Massnahmen ergreift.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 5a
 
@@ -183,132 +143,194 @@ Für Projekte und Programme werden Bescheinigungen für Emissionsverminderungen 
 
 <sup>1</sup>
 
-Vorhaben können zu einem Programm zusammengefasst werden, wenn:
+Projekte können zu einem Programm zusammengefasst werden, wenn:[^5a-1]
 
-- a. sie nebst der Emissionsverminderung einen gemeinsamen Zweck verfolgen;
+- a.[^5a-2] sie nebst der Emissionsverminderung oder der Erhöhung der Senkenleistung einen gemeinsamen Zweck verfolgen;
 - b. sie eine der in der Programmbeschreibung festgelegten Technologien einsetzen;
-- c. sie die in der Programmbeschreibung festgelegten Aufnahmekriterien erfüllen, die gewährleisten, dass die Vorhaben die Anforderungen nach Artikel 5 erfüllen; und
+- c. sie die in der Programmbeschreibung festgelegten Aufnahmekriterien erfüllen, die gewährleisten, dass die Projekte[^5a-3] die Anforderungen nach Artikel 5 erfüllen; und
 - d. mit deren Umsetzung noch nicht begonnen wurde.
 
-<sup>2</sup> Vorhaben können in bestehende Programme aufgenommen werden, wenn sie die Voraussetzungen nach Absatz 1 erfüllen und bereits vor der Aufnahme nachweislich beim Programm angemeldet waren.
+<sup>2</sup> Projekte können in bestehende Programme aufgenommen werden, wenn sie die Voraussetzungen nach Absatz 1 erfüllen und bereits vor der Aufnahme nachweislich beim Programm angemeldet waren.
 
-<sup>3</sup> Programme, die nach Ablauf der ersten Kreditierungsperiode nur ein Vorhaben umfassen, werden als Projekte nach Artikel 5 weitergeführt.[^5a-1]
+<sup>3</sup> Programme, die nach Ablauf der ersten Kreditierungsperiode nur ein Projekt umfassen, werden als Projekte nach Artikel 5 weitergeführt.[^5a-4]
 
-[^5a-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^5a-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^5a-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^5a-3]: Ausdruck gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^5a-4]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 
-#### Art. 6
+#### Art. 5b
 
-**Validierung von Projekten und Programmen**
+**Wissenschaftliche Begleitung**[^5b-1]
 
-<sup>1</sup> Wer für ein Projekt oder ein Programm zur Emissionsverminderung Bescheinigungen beantragen möchte, muss dieses durch eine vom BAFU zugelassene Validierungsstelle auf eigene Kosten validieren lassen.
+<sup>1</sup> Bei Projekten oder Programmen, deren Wirkung nach Artikel 5 Absatz 1 Buchstabe c Ziffer 1 nicht ausreichend genau quantifiziert werden kann, führt die gesuchstellende Person auf eigene Kosten projektbegleitende Massnahmen nach wissenschaftlichen Grundsätzen (wissenschaftliche Begleitung) durch.
 
 <sup>2</sup>
 
-Der Validierungsstelle ist eine Beschreibung des Projekts oder des Programms einzureichen. Diese muss Angaben enthalten über:
+Die gesuchstellende Person reicht dem Bundesamt für Umwelt (BAFU) ein Konzept für die wissenschaftliche Begleitung ein. Das Konzept enthält insbesondere Angaben über:
 
-- a. die Massnahmen zur Emissionsverminderung;
+- a. das Ziel und die Fragestellung;
+- b. den aktuellen Stand des Wissens, inklusive die statistischen Daten, die zur Bestimmung der Ungenauigkeit der Messbarkeit benutzt wurden;
+- c. das Vorgehen und die Auswertung;
+- d. die Fachkenntnisse der an der wissenschaftlichen Begleitung beteiligten Personen;
+- e. die Unabhängigkeit sowie mögliche Interessenkonflikte der an der wissenschaftlichen Begleitung beteiligten Personen.
+
+<sup>3</sup> Die wissenschaftliche Begleitung wird beendet, wenn die Wirkung des Projekts oder Programmes ausreichend genau quantifiziert worden ist. Das BAFU entscheidet über die Beendigung der wissenschaftlichen Begleitung. Es berücksichtigt bei seinem Entscheid die Empfehlung der Verifizierungsstelle.
+
+<sup>4</sup> Die Resultate der wissenschaftlichen Begleitung sind unter Wahrung des Fabrikations- und Geschäftsgeheimnisses zu publizieren.
+
+[^5b-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+
+#### Art. 6
+
+**Validierung von Projekten und Programmen**[^6-1]
+
+<sup>1</sup> Wer für ein Projekt oder ein Programm Bescheinigungen beantragen möchte, muss dieses durch eine vom BAFU zugelassene Validierungsstelle auf eigene Kosten validieren lassen.
+
+<sup>2</sup>
+
+Der Validierungsstelle ist eine Beschreibung des Projekts oder des Programms einzureichen. Diese muss insbesondere Angaben enthalten über:
+
+- a. die Massnahmen zur Emissionsverminderung oder zur Erhöhung der Senkenleistung;
 - b. die eingesetzten Technologien;
 - c. die Abgrenzung von anderen klima- und energiepolitischen Instrumenten;
-- d. die hypothetische Entwicklung der Treibhausgasemissionen, wenn die emissionsvermindernden Massnahmen des Projekts beziehungsweise des Programms nicht umgesetzt würden (Referenzentwicklung);
-- e. den Umfang der erwarteten jährlichen Emissionsverminderungen und die zugrundeliegende Berechnungsmethode;
-- f. die Organisation des Projekts beziehungsweise des Programms;
+- d. die hypothetische Entwicklung der Treibhausgasemissionen, wenn die Massnahmen des Projekts beziehungsweise des Programmes zur Emissionsverminderung oder zur Erhöhung der Senkenleistung nicht umgesetzt würden (Referenzentwicklung);
+- e. den Umfang der erwarteten jährlichen Emissionsverminderungen oder der Erhöhung der Senkenleistungen und die zugrundeliegende Berechnungsmethode;
+- f. die Organisation des Projekts beziehungsweise des Programmes;
 - g. die voraussichtlichen Investitions- und Betriebskosten und die voraussichtlichen Erträge;
 - h. die Finanzierung;
-- i. das Monitoringkonzept, das den Beginn des Monitorings festlegt und die Methode zum Nachweis der Emissionsverminderungen umschreibt;
-- j.[^6-1] die Dauer des Projekts, des Programms und der einzelnen Vorhaben;
-- k. bei Programmen zusätzlich: den Zweck, die Kriterien für die Aufnahme der Vorhaben ins Programm, die Verwaltung der Vorhaben sowie pro festgelegte Technologie ein Beispiel für ein Vorhaben.
+- i. das Monitoringkonzept, das den Beginn des Monitorings festlegt und die Methode zum Nachweis der Emissionsverminderungen oder der Erhöhung der Senkenleistungen umschreibt;
+- j. die Dauer des Projekts beziehungsweise des Programms;
+- k. bei Programmen zusätzlich: den Zweck, die Kriterien für die Aufnahme der Projekte ins Programm, die Verwaltung der Projekte sowie, pro festgelegte Technologie, ein Beispiel für ein Projekt;
+- l. bei Projekten oder Programmen mit einer wissenschaftlichen Begleitung zusätzlich, im Monitoringkonzept nach Buchstabe i: ein Konzept nach Artikel 5*b*;
+- m. bei Projekten oder Programmen zur Erhöhung der Senkenleistung zusätzlich, im Monitoringkonzept nach Buchstabe i: die Vorgehensweise für den Nachweis, dass die Permanenz nach Artikel 5 Absatz 2 sichergestellt ist;
+- n.
 
-<sup>2bis</sup> Der Gesuchsteller kann eine Projektskizze durch das BAFU vorprüfen lassen. Hat das BAFU eine Vorprüfung der Projektskizze durchgeführt, so sind der Validierungsstelle zusätzlich zu den Angaben nach Absatz 2 die Projektskizze und die Resultate der Vorprüfung einzureichen.[^6-2]
+  bei Projekten oder Programmen im Ausland zusätzlich:
 
-<sup>2ter</sup> Bei Projekten und Programmen im Zusammenhang mit einem Wärmeverbund oder bei Deponiegasprojekten und -programmen erfolgt die Beschreibung der in Absatz 2 Buchstabe d, e und i verlangten Angaben nach den Anforderungen der Anhänge 3*a* oder 3*b*.[^6-3]
+  - 1\. den erwarteten Beitrag zur nachhaltigen Entwicklung vor Ort anhand von Indikatoren, die Beiträge zu den nachhaltigen Entwicklungszielen der Vereinten Nationen aufzeigen und die objektiv überprüft werden können, und
+  - 2\. ein Konzept zur finanziellen Nachhaltigkeit, welches den langfristigen Betrieb und Unterhalt der Technologie nach dem Ende der Kreditierungsperiode aufzeigt.
 
-<sup>3</sup> Bei der Validierung prüft die Validierungsstelle die Angaben nach Absatz 2 sowie, ob das Projekt den Anforderungen nach Artikel 5 beziehungsweise ob das Programm den Anforderungen nach den Artikeln 5 und 5*a* entspricht.
+<sup>3</sup> Bei Projekten und Programmen im Inland im Zusammenhang mit einem Wärmeverbund und bei Deponiegasprojekten und -programmen erfolgt die Beschreibung der in Absatz 2 Buchstabe d, e und i verlangten Angaben nach den Anforderungen der Anhänge 3*a* beziehungsweise 3*b*.
 
-<sup>4</sup> Sie fasst die Ergebnisse der Prüfung in einem Validierungsbericht zusammen.
+<sup>4</sup> Die gesuchstellende Person kann eine Projektskizze durch das BAFU vorprüfen lassen. Hat das BAFU eine Vorprüfung der Projektskizze durchgeführt, so sind der Validierungsstelle zusätzlich zu den Angaben nach Absatz 2 die Projektskizze und die Resultate der Vorprüfung einzureichen.
 
-[^6-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
-[^6-2]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^6-3]: Ursprünglich Abs. 2<sup>bis</sup>. Eingefügt durch Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Nov. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)).
+<sup>5</sup> Bei der Validierung prüft die Validierungsstelle die Angaben nach Absatz 2 sowie, ob das Projekt den Anforderungen nach Artikel 5 beziehungsweise ob das Programm den Anforderungen nach den Artikeln 5 und 5*a* entspricht.
+
+<sup>6</sup> Die Validierungsstelle fasst die Ergebnisse der Prüfung in einem Validierungsbericht zusammen.
+
+<sup>7</sup> Das BAFU legt die Form der Beschreibung des Projekts oder Programmes und des Validierungsberichts fest.
+
+[^6-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 7
 
-**Gesuch um Ausstellung von Bescheinigungen**
+**Gesuch um die Beurteilung der Eignung eines Projekts oder Programms für das Ausstellen von Bescheinigungen**[^7-1]
 
-<sup>1</sup> Das Gesuch um Ausstellung von Bescheinigungen ist dem BAFU einzureichen. Es umfasst die Projekt- oder Programmbeschreibung und den Validierungsbericht.
+<sup>1</sup> Wer für ein Projekt oder ein Programm Bescheinigungen beantragen möchte, muss dem BAFU ein Gesuch um die Beurteilung der Eignung für die Ausstellung von Bescheinigungen einreichen. Das Gesuch umfasst die Projekt- oder Programmbeschreibung und den Validierungsbericht.
 
-<sup>2</sup> Das BAFU kann vom Gesuchsteller zusätzliche Informationen verlangen, soweit es diese für die Beurteilung des Gesuchs benötigt.
+<sup>2</sup> Bei Projekten oder Programmen im Ausland umfasst das Gesuch zusätzlich den Entscheid über die Eignung des Projektes oder Programmes durch den Partnerstaat.
 
-<sup>3</sup> Das BAFU macht Vorgaben für die Form der Projekt- oder Programmbeschreibung.[^7-1]
+<sup>3</sup> Das BAFU kann von der gesuchstellenden Person zusätzliche Informationen verlangen, soweit es diese für die Beurteilung des Gesuchs benötigt.
 
-[^7-1]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Nov. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)).
+[^7-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 8
 
-**Entscheid über die Eignung eines Projekts oder Programms**
+**Entscheid über die Eignung eines Projekts oder Programms für das Ausstellen von Bescheinigungen**[^8-1]
 
-<sup>1</sup> Das BAFU entscheidet gestützt auf das Gesuch, ob das Projekt beziehungsweise das Programm für die Ausstellung von Bescheinigungen geeignet ist.
+<sup>1</sup> Das BAFU entscheidet gestützt auf das Gesuch und gegebenenfalls auf die zusätzlichen Informationen nach Artikel 7 Absatz 3, ob das Projekt beziehungsweise das Programm für die Ausstellung von Bescheinigungen geeignet ist.
 
-<sup>2</sup> Der Entscheid gilt für sieben Jahre ab Beginn der Umsetzung des Projekts beziehungsweise des Programms (Kreditierungsperiode).
+<sup>2</sup> Falls bei Projekten oder Programmen im Ausland der Partnerstaat in der Bewilligung des Projektes oder des Programmes eine Beschränkung zur zugelassenen Nutzung der Emissionsverminderungen oder der Erhöhung der Senkenleistungen festlegt, wird diese Beschränkung im Entscheid berücksichtigt.
 
-<sup>3</sup>
+<sup>3</sup> Der Entscheid gilt ab dem Beginn der Umsetzung des Projektes beziehungsweise des Programmes bis spätestens am 31. Dezember 2030 (Kreditierungsperiode).
 
-Für Vorhaben von Programmen werden keine Bescheinigungen ausgestellt, wenn:
-
-- a. eine Änderung massgebender gesetzlicher Bestimmungen dazu führt, dass während der Kreditierungsperiode emissionsvermindernde Massnahmen umgesetzt werden müssen;
-- b. die für die Ausstellung von Bescheinigungen geltend gemachten Emissionsverminderungen auf die Umsetzung der Massnahmen nach Buchstabe a zurückzuführen sind; und
-- c. mit der Umsetzung der Vorhaben erst nach dem Inkrafttreten der Änderung der gesetzlichen Bestimmungen begonnen wurde.
+[^8-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 8a
 
-**Verlängerung der Kreditierungsperiode**
+**Anmerkung im Grundbuch**[^8a-1]
 
-<sup>1</sup> Die Kreditierungsperiode wird um jeweils drei weitere Jahre verlängert, wenn der Gesuchsteller das Projekt oder das Programm erneut validieren lässt und dem BAFU spätestens sechs Monate vor Ablauf der Kreditierungsperiode ein Gesuch um Verlängerung einreicht.
+<sup>1</sup> Die Nutzungsbeschränkung als biologischer oder geologischer Speicher von Kohlenstoff ist auf Anmeldung des BAFU im Grundbuch anzumerken. Dies gilt nicht für die Speicherung von Kohlenstoff in Baustoffen.
 
-<sup>2</sup> Das BAFU genehmigt die Verlängerung, wenn die Anforderungen nach den Artikeln 5 und 5*a* weiterhin erfüllt sind.
+<sup>2</sup>
+
+Das BAFU meldet die Löschung der Anmerkung im Grundbuch an, wenn:
+
+- a. das Projekt oder Programm beendet ist, frühestens jedoch 30 Jahre nach Wirkungsbeginn; oder
+- b. der gespeicherte Kohlenstoff vor diesem Zeitpunkt auf dem betroffenen Grundstück freigesetzt wird.
+
+<sup>3</sup> Die Eigentümerin oder der Eigentümer des betroffenen Grundstücks trägt die Kosten für den Eintrag, die Änderung und die Löschung der Anmerkung.
+
+<sup>4</sup> Die Kantone informieren das BAFU unverzüglich, sobald das betroffene Grundstück anderweitig genutzt wird.
+
+[^8a-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+
+#### Art. 8b
+
+**Verlängerung der Kreditierungsperiode**[^8b-1]
+
+<sup>1</sup>
+
+Die Kreditierungsperiode für Projekte oder Programme im Inland, die vor dem 1. Januar 2022 als geeignet befunden wurden, wird bis maximal zum 31. Dezember 2030 verlängert, wenn die gesuchstellende Person:
+
+- a. das Projekt oder das Programm erneut validieren lässt; und
+- b. dem BAFU spätestens sechs Monate vor Ablauf der Kreditierungsperiode ein Gesuch um Verlängerung einreicht.
+
+<sup>2</sup> Das BAFU genehmigt die Verlängerung, wenn die massgebenden Anforderungen nach den Artikeln 5 und 5*a* weiterhin erfüllt sind.
+
+[^8b-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 9
 
-**Monitoringbericht und Verifizierung des Monitoringberichts**
+**Monitoringbericht und Verifizierung des Monitoringberichts**[^9-1]
 
-<sup>1</sup> Der Gesuchsteller erhebt die Daten, die gemäss dem Monitoringkonzept für den Nachweis der Emissionsverminderungen erforderlich sind, und hält diese in einem Monitoringbericht fest.
+<sup>1</sup> Die gesuchstellende Person erhebt die Daten, die gemäss dem Monitoringkonzept für den Nachweis der Emissionsverminderungen oder der Erhöhung der Senkenleistungen und ihrer Permanenz erforderlich sind, und hält diese in einem Monitoringbericht fest.
 
-<sup>2</sup> Er lässt den Monitoringbericht auf eigene Kosten von einer vom BAFU zugelassenen Verifizierungsstelle verifizieren. Die Verifizierung darf nicht von der Stelle durchgeführt werden, die das Projekt oder das Programm validiert hat.
+<sup>2</sup> Sie lässt den Monitoringbericht auf eigene Kosten von einer vom BAFU zugelassenen Verifizierungsstelle verifizieren. Die Verifizierung darf nicht von der Stelle durchgeführt werden, die das Projekt oder das Programm zuletzt validiert hat.
 
-<sup>3</sup> Die Verifizierungsstelle prüft, ob die nachgewiesenen Emissionsverminderungen die Anforderungen nach Artikel 5 erfüllen. Bei Programmen prüft sie zusätzlich, ob die Vorhaben die Aufnahmekriterien nach Artikel 5*a* Absatz 1 Buchstabe c erfüllen. Sie kann die Prüfung auf einzelne repräsentative Vorhaben beschränken.
+<sup>3</sup> Die Verifizierungsstelle prüft, ob die ausgewiesenen Emissionsverminderungen oder die Erhöhung der Senkenleistungen die Anforderungen nach Artikel 5 erfüllen. Bei Programmen prüft sie zusätzlich, ob die Projekte die Aufnahmekriterien nach Artikel 5*a* Absatz 1 Buchstabe c erfüllen. Sie kann die Prüfung auf einzelne repräsentative Projekte des Programmes beschränken.
 
 <sup>4</sup> Die Verifizierungsstelle hält die Ergebnisse der Verifizierung in einem Verifizierungsbericht fest.
 
-<sup>5</sup> Alle Monitoringberichte und die dazugehörigen Verifizierungsberichte sind dem BAFU mindestens alle drei Jahre ab dem Beginn der Umsetzung nach Artikel 5 Absatz 2 einzureichen. Die Emissionsverminderungen sind pro Kalenderjahr auszuweisen.[^9-1]
+<sup>5</sup> Der Monitoringbericht, die zugrundeliegenden Messdaten und der dazugehörige Verifizierungsbericht umfassen einen Zeitraum von höchstens drei Jahren. Sie sind dem BAFU spätestens ein Jahr nach diesem Zeitraum einzureichen. Die Emissionsverminderungen oder die Erhöhung der Senkenleistungen sind pro Kalenderjahr auszuweisen.
 
-<sup>6</sup> Das BAFU macht Vorgaben für die Form des Monitoringberichts.[^9-2]
+<sup>6</sup> Für Projekte oder Programme mit einer wissenschaftlichen Begleitung sind dem BAFU die Monitoringberichte, die dazugehörigen Verifizierungsberichte sowie die Resultate der wissenschaftlichen Begleitung jährlich einzureichen. Die Quantifizierung der Emissionsverminderungen oder der Erhöhung der Senkenleistungen ist jährlich neu auszuwerten.
 
-[^9-1]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Nov. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)).
-[^9-2]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Nov. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)).
+<sup>7</sup> Für Projekte oder Programme, welche in Bezug zu einem Emissionsziel nach Artikel 67 stehen, sind dem BAFU die Monitoringberichte und die Verifizierungsberichte jährlich bis am 31. Mai des Folgejahres einzureichen.
+
+<sup>8</sup> Für Projekte oder Programme, die Kohlenstoff speichern, sind dem BAFU unabhängig von ihrer Laufzeit für das Jahr 2030 ein Monitoring- und ein Verifizierungsbericht einzureichen.
+
+<sup>9</sup> Das BAFU macht Vorgaben für die Form des Monitoring- und des Verifizierungsberichts.
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 10
 
-**Ausstellung der Bescheinigungen**
+**Ausstellung der Bescheinigungen**[^10-1]
 
-<sup>1</sup> Das BAFU prüft den Monitoringbericht und den dazugehörigen Verifizierungsbericht. Soweit es für die Ausstellung von Bescheinigungen notwendig ist, führt das BAFU beim Gesuchsteller weitere Abklärungen durch.[^10-1]
+<sup>1</sup> Das BAFU prüft den Monitoringbericht und den dazugehörigen Verifizierungsbericht. Soweit es für die Ausstellung von Bescheinigungen notwendig ist, führt das BAFU bei der gesuchstellenden Person weitere Abklärungen durch.
 
-<sup>1bis</sup> Es entscheidet gestützt auf die Angaben nach Absatz 1 über die Ausstellung von Bescheinigungen.[^10-2]
+<sup>2</sup> Es prüft für die Ausstellung von internationalen Bescheinigungen zusätzlich die Anerkennung der Übertragung der Emissionsverminderungen oder der Erhöhung der Senkenleistungen durch den Partnerstaat. Soweit es für die Ausstellung von internationalen Bescheinigungen erforderlich ist, führt das BAFU beim Partnerstaat weitere Abklärungen durch.
 
-<sup>2</sup> Bei Projekten werden Bescheinigungen im Umfang der Emissionsverminderungen ausgestellt, die bis zum Ende der Kreditierungsperiode nachweislich erzielt wurden.
+<sup>3</sup> Es entscheidet gestützt auf die Angaben nach den Absätzen 1 und 2 über die Ausstellung von Bescheinigungen.
 
-<sup>3</sup> Bei Programmen werden Bescheinigungen im Umfang der Emissionsverminderungen ausgestellt, die bis längstens zehn Jahre nach Ablauf der Kreditierungsperiode des Programms nachweislich erzielt wurden, sofern mit der Umsetzung des betreffenden Vorhabens während der Kreditierungsperiode begonnen wurde.
+<sup>4</sup> Bei Projekten und Programmen werden Bescheinigungen im Umfang der Emissionsverminderungen oder der Erhöhung der Senkenleistungen ausgestellt, die bis zum Ende der Kreditierungsperiode nachweislich erzielt wurden.
 
-<sup>4</sup> Emissionsverminderungen, die auf nichtrückzahlbare Geldleistungen von Bund, Kantonen oder Gemeinden zur Förderung erneuerbarer Energien, der Energieeffizienz oder des Klimaschutzes zurückzuführen sind, werden dem Gesuchsteller nur bescheinigt, wenn dieser nachweist, dass das zuständige Gemeinwesen die Emissionsverminderungen nicht anderweitig geltend macht. Nicht bescheinigt werden Emissionsverminderungen, die auf die Ausrichtung von Mitteln gestützt auf Artikel 19 in Verbindung mit 21 oder auf die Artikel 25, 27, 32 und 73 Absatz 4 des Energiegesetzes vom 30. September 2016[^10-3] (EnG) zurückzuführen sind.[^10-4]
+<sup>5</sup> Für noch nicht umgesetzte Projekte in Programmen werden keine Bescheinigungen ausgestellt, wenn eine Änderung massgebender gesetzlicher Bestimmungen dazu führt, dass die im Programm geplanten Massnahmen zur Emissionsverminderung oder zur Erhöhung der Senkenleistung umgesetzt werden müssen.
 
-<sup>5</sup> Der ökologische Mehrwert von Emissionsverminderungen ist mit der Ausstellung der Bescheinigung abgegolten. Ist der ökologische Mehrwert bereits vergütet worden, so werden keine Bescheinigungen ausgestellt.
+<sup>6</sup> Die Bescheinigungen werden im Umfang der gesamten jährlich ausgewiesenen Emissionsverminderungen oder Erhöhung der Senkenleistung ausgestellt.
 
-[^10-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
-[^10-2]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
-[^10-3]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^10-4]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+<sup>7</sup> Die Emissionsverminderungen oder die Erhöhung der Senkenleistungen, die auf nichtrückzahlbare Geldleistungen von Bund, Kantonen oder Gemeinden zur Förderung erneuerbarer Energien, der Energieeffizienz oder des Klimaschutzes zurückzuführen sind, werden der gesuchstellenden Person nur bescheinigt, wenn diese nachweist, dass das zuständige Gemeinwesen die Emissionsverminderungen nicht anderweitig geltend macht. Nicht bescheinigt werden Emissionsverminderungen, die auf die Ausrichtung von Mitteln gestützt auf Artikel 19 des Energiegesetzes vom 30. September 2016[^10-2] (EnG) zurückzuführen sind.
+
+<sup>8</sup> Der ökologische Mehrwert von Emissionsverminderungen oder der Erhöhung der Senkenleistung ist mit der Ausstellung der Bescheinigung abgegolten. Ist der ökologische Mehrwert bereits vergütet worden, so werden keine Bescheinigungen ausgestellt.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^10-2]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 
 #### Art. 11
 
-**Wesentliche Änderungen des Projekts oder des Programms**
+**Wesentliche Änderungen des Projekts oder des Programms**[^11-1]
 
 <sup>1</sup> Wesentliche Änderungen des Projekts oder des Programms, die nach dem Entscheid über die Eignung oder die Verlängerung der Kreditierungsperiode erfolgen, müssen dem BAFU gemeldet werden.
 
@@ -316,19 +338,20 @@ Für Vorhaben von Programmen werden keine Bescheinigungen ausgestellt, wenn:
 
 Eine Änderung eines Projekts oder Programms ist insbesondere dann wesentlich, wenn:
 
-- a. die Emissionsverminderungen um mehr als 20 Prozent von den in der Projekt- oder Programmbeschreibung angegebenen erwarteten jährlichen Emissionsverminderungen abweichen;
-- b. die Investitions- oder Betriebskosten um mehr als 20 Prozent von den in der Projekt- oder Programmbeschreibung angegebenen Werten abweichen.
+- a. die Emissionsverminderungen oder die Erhöhung der Senkenleistungen um mehr als 20 Prozent von den in der Projekt- oder Programmbeschreibung angegebenen erwarteten jährlichen Emissionsverminderungen oder Erhöhung der Senkenleistungen abweichen;
+- b. die Investitionskosten, die Betriebskosten oder die Einnahmen um mehr als 20 Prozent von den in der Projekt- oder Programmbeschreibung angegebenen Werten abweichen;
+- c. ein Technologiewechsel stattfindet; oder
+- d. die Systemgrenze eines Projekts oder Programmes geändert wird.
 
-<sup>3</sup> Soweit notwendig ordnet das BAFU eine erneute Validierung an. Emissionsverminderungen, die nach einer wesentlichen Änderung erzielt werden, werden erst nach dem erneuten Entscheid über die Eignung nach Artikel 8 bescheinigt.
+<sup>3</sup> Soweit notwendig ordnet das BAFU eine erneute Validierung an. Die Emissionsverminderungen oder die Erhöhung der Senkenleistungen, die nach einer wesentlichen Änderung erzielt werden, werden erst nach dem erneuten Entscheid über die Eignung nach Artikel 8 bescheinigt.
 
-<sup>4</sup>
+<sup>4</sup> Bei Projekten und Programmen im Ausland ist zusätzlich ein erneuter Entscheid des Partnerstaats über die Eignung erforderlich.
 
-Nach einer erneuten Validierung beträgt die Kreditierungsperiode ab dem Zeitpunkt des Eintritts der wesentlichen Änderung:[^11-1]
+<sup>5</sup> Das BAFU genehmigt die wesentliche Änderung, wenn die Anforderungen nach den Artikeln 5 und 5*a* weiterhin erfüllt sind.
 
-- a. sieben Jahre, wenn die Kreditierungsperiode noch nicht verlängert worden ist;
-- b. drei Jahre, wenn die Kreditierungsperiode bereits verlängert worden ist.
+<sup>6</sup> Nach einer erneuten Validierung dauert die Kreditierungsperiode ab dem Zeitpunkt des Eintritts der wesentlichen Änderung bis spätestens zum 31. Dezember 2030.
 
-[^11-1]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Nov. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)).
+[^11-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 5*a*. Abschnitt: Bescheinigungen für Betreiber von Anlagen****
 
@@ -424,15 +447,17 @@ Betreibern von Anlagen, die mit dem Bund Ziele über die Entwicklung des Energie
 
 Die folgenden Daten und Dokumente werden in einer vom BAFU geführten Datenbank verwaltet:
 
-- a. Vornamen, Namen und Kontaktangaben des Gesuchstellers, der Validierungsstelle und der Verifizierungsstelle;
+- a. Vornamen, Namen und Kontaktangaben der gesuchstellenden Person[^13-3], der Validierungsstelle und der Verifizierungsstelle;
 - b. die Anzahl ausgestellter Bescheinigungen;
 - c. die Kerndaten des Projekts beziehungsweise des Programms; und
-- d. die Projekt- und Programmbeschreibung, die Validierungsberichte, die Monitoringberichte und die Verifizierungsberichte.
+- d.[^13-4] die Projekt- und Programmbeschreibung, die Validierungs-, die Monitoring- und die Verifizierungsberichte sowie die dazugehörigen Daten.
 
 <sup>3</sup> Dem Inhaber einer Bescheinigung wird auf Anfrage Einsicht in die Daten nach Absatz 2 Buchstaben a und b gewährt, die im Zusammenhang mit seiner Bescheinigung stehen. Einsicht in die Daten und Unterlagen nach Absatz 2 Buchstaben c und d kann unter Wahrung des Fabrikations- und Geschäftsgeheimnisses gewährt werden.
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 8. Okt. 2014, in Kraft seit 1. Dez. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
 [^13-2]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^13-3]: Ausdruck gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^13-4]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 14
 
@@ -442,17 +467,19 @@ Die folgenden Daten und Dokumente werden in einer vom BAFU geführten Datenbank 
 
 Das BAFU kann unter Wahrung des Fabrikations- und Geschäftsgeheimnisses veröffentlichen:
 
-- a. Beschreibungen der Projekte und Programme zur Emissionsverminderung im Inland;
-- b. die Validierungsberichte nach Artikel 6 Absatz 4;
+- a.[^14-2] Beschreibungen der Projekte und Programme zur Emissionsverminderung oder zur Erhöhung der Senkenleistung;
+- b.[^14-3] die Validierungsberichte nach Artikel 6 Absatz 6;
 - c. die Monitoringberichte nach Artikel 9 Absatz 1;
 - d. die Verifizierungsberichte nach Artikel 9 Absatz 4;
-- e.[^14-2] die Entscheide nach den Artikeln 8 Absatz 1 und 10 Absatz 1<sup>bis</sup>.
+- e.[^14-4] die Entscheide nach den Artikeln 8 Absatz 1 und 10 Absatz 1<sup>bis</sup>.
 
-<sup>2</sup> Vor der Veröffentlichung stellt das BAFU dem Gesuchsteller die Unterlagen nach Absatz 1 zu. Es fordert den Gesuchsteller auf, die Informationen zu bezeichnen, die aus seiner Sicht dem Fabrikations- und Geschäftsgeheimnis unterliegen.[^14-3]
+<sup>2</sup> Vor der Veröffentlichung stellt das BAFU der gesuchstellenden Person die Unterlagen nach Absatz 1 zu. Es fordert die gesuchstellende Person auf, die Informationen zu bezeichnen, die aus ihrer Sicht dem Fabrikations- und Geschäftsgeheimnis unterliegen.[^14-5]
 
 [^14-1]: Fassung gemäss Ziff. I der V vom 8. Okt. 2014, in Kraft seit 1. Dez. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
-[^14-2]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^14-3]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^14-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^14-3]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^14-4]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^14-5]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 
 ### 6. Abschnitt: Koordination der Anpassungsmassnahmen
 
@@ -489,7 +516,7 @@ Der Bericht muss Angaben enthalten über:
 
 #### Art. 17
 
-**Geltungsbereich**[^17-1]
+**Persönlicher Geltungsbereich[^17-2]**[^17-1]
 
 <sup>1</sup>
 
@@ -503,21 +530,62 @@ Den Bestimmungen dieses Kapitels untersteht, wer eines der folgenden Fahrzeuge, 
 
 Als Importeur eines Fahrzeugs gilt, wer:
 
-- a. Inhaber der Typengenehmigung oder des Datenblatts nach den Artikeln 3 und 3*a* der Verordnung vom 19. Juni 1995[^17-2] über die Typengenehmigung von Strassenfahrzeugen (TGV) ist: wenn für die Zulassung des Fahrzeugs zum Verkehr dessen Typengenehmigung oder das entsprechende Datenblatt verwendet wird;
-- b. gemäss der Zollanmeldung Importeur des Fahrzeugs ist: wenn für die Zulassung des Fahrzeugs die elektronische Übereinstimmungsbescheinigung nach Artikel 37 der Verordnung (EU) 2018/858[^17-3] (Certificate of Conformity, COC) verwendet wird; oder
+- a. Inhaber der Typengenehmigung oder des Datenblatts nach den Artikeln 3 und 3*a* der Verordnung vom 19. Juni 1995[^17-3] über die Typengenehmigung von Strassenfahrzeugen (TGV) ist: wenn für die Zulassung des Fahrzeugs zum Verkehr dessen Typengenehmigung oder das entsprechende Datenblatt verwendet wird;
+- b.[^17-4] gemäss der Zollanmeldung Importeur des Fahrzeugs ist: wenn für die Zulassung des Fahrzeugs die elektronische Übereinstimmungsbescheinigung nach Artikel 37 der Verordnung (EU) 2018/858[^17-5] (*Certificate of Conformity*, COC) verwendet wird; oder
 - c. sich vom Bundesamt für Strassen (ASTRA) als Importeur bescheinigen lässt: wenn für die Zulassung keines der Dokumente nach den Buchstaben a und b verwendet wird.
 
 [^17-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^17-2]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
-[^17-3]: Siehe Fussnote zu Art. 2 Bst. a Ziff. 2.
+[^17-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^17-3]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^17-4]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^17-5]: Verordnung (EU) 2018/858 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die Genehmigung und die Marktüberwachung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge, zur Änderung der Verordnungen (EG) Nr. 715/2007 und (EG) Nr. 595/2009 und zur Aufhebung der Richtlinie 2007/46/EG, ABl. L 151 vom 14.6.2018, S. 1; zuletzt geändert durch Verordnung (EU) 2019/2144, ABl. L 325 vom 16.12.2019, S. 1.
 
 #### Art. 17a
 
-**Erstmaliges Inverkehrsetzen**[^17a-1]
+**Personenwagen**[^17a-1]
+
+<sup>1</sup> Die Bestimmungen dieses Kapitels gelten für Personenwagen nach Artikel 11 Absatz 2 Buchstabe a der Verordnung vom 19. Juni 1995[^17a-2] über die technischen Anforderungen an Strassenfahrzeuge (VTS).
+
+<sup>2</sup> Sie gelten nicht für Fahrzeuge mit besonderer Zweckbestimmung nach Anhang II Teil A Ziffer 5 der Richtlinie 2007/46/EG[^17a-3] oder nach Anhang I Teil A Ziffer 5 der Verordnung (EU) 2018/858[^17a-4].
+
+[^17a-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^17a-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^17a-3]: Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (Rahmenrichtlinie), ABl. L 263 vom 9.10.2007, S. 1; zuletzt geändert durch Verordnung (EU) 2019/543, ABl. L 95 vom 4.4.2019, S. 1.
+[^17a-4]: Siehe Fussnote zu Art. 17 Abs. 2 Bst. b.
+
+#### Art. 17b
+
+**Lieferwagen**[^17b-1]
+
+<sup>1</sup> Die Bestimmungen dieses Kapitels gelten für Lieferwagen nach Artikel 11 Absatz 2 Buchstabe e VTS mit einem Gesamtgewicht von höchstens 3,50 t sowie Fahrzeuge mit einem emissionsfreien Antrieb und einem Gesamtgewicht von über 3,50 t bis zu 4,25 t, die abgesehen vom Gewicht der Definition des Lieferwagens entsprechen und bei denen das 3,50 t überschreitende Gewicht einzig durch das Mehrgewicht des emissionsfreien Antriebs verursacht wird.
+
+<sup>2</sup> Sie gelten nicht für Lieferwagen mit einem Leergewicht von über 2,585 t, die nach dem Messverfahren für schwere Motorwagen gemäss Verordnung (EG) Nr. 595/2009[^17b-2] gemessen werden und die nicht mit Elektrizität oder mit Wasserstoff als Energiequelle ausschliesslich elektrisch angetrieben werden, sowie für Fahrzeuge mit besonderer Zweckbestimmung nach Anhang 2 Teil A Ziffer 5 der Richtlinie 2007/46/EG[^17b-3] oder nach Anhang I Teil A Ziffer 5 der Verordnung (EU) 2018/858[^17b-4].
+
+[^17b-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^17b-2]: Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Typengenehmigung von Kraftfahrzeugen und Motoren hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Verordnung (EG) Nr. 715/2007 und der Richtlinie 2007/46/EG sowie zur Aufhebung der Richtlinien 80/1269/EWG, 2005/55/EG und 2005/78/EG, ABl. L 188 vom 18.7.2009, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 133/2014, ABl. L 47 vom 18.2.2014, S. 1.
+[^17b-3]: Siehe Fussnote zu Art. 17*a* Abs. 2.
+[^17b-4]: Siehe Fussnote zu Art. 17 Abs. 2 Bst. b.
+
+#### Art. 17c
+
+**Leichter Sattelschlepper**[^17c-1]
+
+<sup>1</sup> Die Bestimmungen dieses Kapitels gelten für Sattelschlepper nach Artikel 11 Absatz 2 Buchstabe i VTS mit einem Gesamtgewicht von bis zu 3,50 t.
+
+<sup>2</sup> Sie gelten nicht für Sattelschlepper mit einem Leergewicht von über 2,585 t, die nach dem Messverfahren für schwere Motorwagen gemäss Verordnung (EG) Nr. 595/2009[^17c-2] gemessen werden, sowie für Fahrzeuge mit besonderer Zweckbestimmung nach Anhang 2 Teil A Ziffer 5 der Richtlinie 2007/46/EG[^17c-3] oder nach Anhang 1 Teil A Ziffer 5 der Verordnung (EU) 2018/858[^17c-4].
+
+[^17c-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^17c-2]: Siehe Fussnote zu Art. 17*b* Abs. 2.
+[^17c-3]: Siehe Fussnote zu Art. 17*a* Abs. 2.
+[^17c-4]: Siehe Fussnote zu Art. 17 Abs. 2 Bst. b.
+
+#### Art. 17d
+
+**Erstmaliges Inverkehrsetzen**[^17d-1]
 
 <sup>1</sup> Als erstmals in der Schweiz in Verkehr gesetzt gelten Fahrzeuge, die erstmals zum Verkehr in der Schweiz zugelassen werden und bei denen die in der erstmaligen Zulassung festgelegte Verwendung der tatsächlichen Verwendung durch die Endabnehmerin oder den Endabnehmer entspricht.
 
-<sup>2</sup> Das Inverkehrsetzen in einem Zollausschlussgebiet nach Artikel 3 Absatz 3 des Zollgesetzes vom 18. März 2005[^17a-2] (ZG) sowie in Liechtenstein gilt als Inverkehrsetzen in der Schweiz. Das Inverkehrsetzen in einem Zollanschlussgebiet nach Artikel 3 Absatz 2 ZG, mit Ausnahme von Liechtenstein, gilt als Inverkehrsetzen im Ausland.
+<sup>2</sup> Das Inverkehrsetzen in einem Zollausschlussgebiet nach Artikel 3 Absatz 3 des Zollgesetzes vom 18. März 2005[^17d-2] (ZG) sowie in Liechtenstein gilt als Inverkehrsetzen in der Schweiz. Das Inverkehrsetzen in einem Zollanschlussgebiet nach Artikel 3 Absatz 2 ZG, mit Ausnahme von Liechtenstein, gilt als Inverkehrsetzen im Ausland.
 
 <sup>3</sup> Nicht als erstmals in Verkehr gesetzt gelten eingeführte Fahrzeuge, wenn sie vor mehr als sechs Monaten vor der Zollanmeldung zum Verkehr im Ausland zugelassen worden sind.
 
@@ -528,28 +596,28 @@ Führt die Frist nach Absatz 3 zu einer wesentlichen Ungleichbehandlung von Impo
 - [tab] a. die Frist kürzen oder auf höchstens ein Jahr verlängern; oder
 - [tab] b. eine erforderliche Mindestzahl an zurückgelegten Kilometern festlegen.
 
-[^17a-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^17a-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^17d-1]: Ursprünglich: Art. 17*a*. Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^17d-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
-#### Art. 17a<sup>bis</sup>
+#### Art. 17e
 
-**Referenzjahr**[^17abis-1]
+**Referenzjahr**[^17e-1]
 
 Als Referenzjahr gilt das Kalenderjahr, in dem die Erreichung der individuellen Zielvorgabe überprüft wird.
 
-[^17abis-1]: Ursprünglich: Art. 17*a*. Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^17e-1]: Ursprünglich: Art. 17*a*, dann Art. 17*a*<sup>bis</sup>. Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
-#### Art. 17b
+#### Art. 17f
 
-**Anwendbare Prüf- und Korrelationsverfahren und Zielwerte nach Artikel 10 Absätze 1 und 2 des CO<sub>2</sub>-Gesetzes**[^17b-1]
+**Anwendbare Prüf- und Korrelationsverfahren und Zielwerte nach Artikel 10 Absätze 1 und 2 des CO<sub>2</sub>-Gesetzes**[^17f-1]
 
 <sup>1</sup>
 
 Für die Bestimmung der Zielwerte nach Artikel 10 Absätze 1 und 2 des CO<sub>2</sub>-Gesetzes werden folgende Prüf- und Korrelationsverfahren angewendet:
 
-- a. das weltweit harmonisierte Prüfverfahren für leichte Nutzfahrzeuge gemäss Anhang XXI der Verordnung (EU) 2017/1151[^17b-2] (WLTP);
-- b. die Prüf- und Korrelationsverfahren gemäss Anhang I der Durchführungsverordnung (EU) 2017/1152[^17b-3];
-- c. die Prüf- und Korrelationsverfahren gemäss Anhang I der Durchführungsverordnung 2017/1153[^17b-4].
+- a. das weltweit harmonisierte Prüfverfahren für leichte Nutzfahrzeuge gemäss Anhang XXI der Verordnung (EU) 2017/1151[^17f-2] (WLTP);
+- b. die Prüf- und Korrelationsverfahren gemäss Anhang I der Durchführungsverordnung (EU) 2017/1152[^17f-3];
+- c. die Prüf- und Korrelationsverfahren gemäss Anhang I der Durchführungsverordnung 2017/1153[^17f-4].
 
 <sup>2</sup>
 
@@ -558,10 +626,10 @@ In Anwendung der Prüf- und Korrelationsverfahren nach Absatz 1 entsprechen die 
 - a. für Personenwagen: 118 Gramm CO<sub>2</sub>/km;
 - b. für Lieferwagen und leichte Sattelschlepper: 186 Gramm CO<sub>2</sub>/km.
 
-[^17b-1]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^17b-2]: Verordnung (EU) Nr. 2017/1151 der Kommission vom 1. Juni 2017 zur Ergänzung der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates, der Verordnung (EG) Nr. 692/2008 der Kommission sowie der Verordnung (EU) Nr. 1230/2012 der Kommission und zur Aufhebung der Verordnung (EG) Nr. 692/2008 der Kommission, ABl. L 175 vom 7.7.2017, S. 1; zuletzt geändert durch Verordnung (EU) 2020/49, ABl. L 17 vom 22.1.2020, S. 1.
-[^17b-3]: Durchführungsverordnung (EU) 2017/1152 der Kommission vom 2. Juni 2017 zur Festlegung eines Verfahrens für die Ermittlung der Korrelationsparameter, die erforderlich sind, um der Änderung des Regelprüfverfahrens in Bezug auf leichte Nutzfahrzeuge Rechnung zu tragen, und zur Änderung der Durchführungsverordnung (EU) Nr. 293/2012, ABl. L 175 vom 7.7.2017, S. 644; zuletzt geändert durch Durchführungsverordnung (EU) 2019/1839, ABl. L 282 vom 4.11.2019, S. 1.
-[^17b-4]: Durchführungsverordnung (EU) 2017/1153 der Kommission vom 2. Juni 2017 zur Festlegung eines Verfahrens für die Ermittlung der Korrelationsparameter, die erforderlich sind, um der Änderung des Regelprüfverfahrens Rechnung zu tragen, und zur Änderung der Verordnung (EU) Nr. 1014/2010, ABl. L 175 vom 7.7.2017, S. 679; zuletzt geändert durch Durchführungsverordnung (EU) 2019/1840, ABl. L 282 vom 4.11.2019, S. 9.
+[^17f-1]: Ursprünglich: Art. 17*b*. Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^17f-2]: Verordnung (EU) Nr. 2017/1151 der Kommission vom 1. Juni 2017 zur Ergänzung der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates, der Verordnung (EG) Nr. 692/2008 der Kommission sowie der Verordnung (EU) Nr. 1230/2012 der Kommission und zur Aufhebung der Verordnung (EG) Nr. 692/2008 der Kommission, ABl. L 175 vom 7.7.2017, S. 1; zuletzt geändert durch Verordnung (EU) 2020/49, ABl. L 17 vom 22.1.2020, S. 1.
+[^17f-3]: Durchführungsverordnung (EU) 2017/1152 der Kommission vom 2. Juni 2017 zur Festlegung eines Verfahrens für die Ermittlung der Korrelationsparameter, die erforderlich sind, um der Änderung des Regelprüfverfahrens in Bezug auf leichte Nutzfahrzeuge Rechnung zu tragen, und zur Änderung der Durchführungsverordnung (EU) Nr. 293/2012, ABl. L 175 vom 7.7.2017, S. 644; zuletzt geändert durch Durchführungsverordnung (EU) 2019/1839, ABl. L 282 vom 4.11.2019, S. 1.
+[^17f-4]: Durchführungsverordnung (EU) 2017/1153 der Kommission vom 2. Juni 2017 zur Festlegung eines Verfahrens für die Ermittlung der Korrelationsparameter, die erforderlich sind, um der Änderung des Regelprüfverfahrens Rechnung zu tragen, und zur Änderung der Verordnung (EU) Nr. 1014/2010, ABl. L 175 vom 7.7.2017, S. 679; zuletzt geändert durch Durchführungsverordnung (EU) 2019/1840, ABl. L 282 vom 4.11.2019, S. 9.
 
 ### 2. Abschnitt: Importeure und Hersteller
 
@@ -599,9 +667,11 @@ Abhängig von der Anzahl der im Jahr vor dem Referenzjahr erstmals in Verkehr ge
 
 **Emissionsgemeinschaft**
 
-<sup>1</sup> Importeure und Hersteller, die sich zu einer Emissionsgemeinschaft zusammenschliessen wollen, müssen dem BFE bis zum 30. November des Jahres vor dem Referenzjahr einen entsprechenden Antrag für die Dauer von ein bis fünf Jahren stellen.
+<sup>1</sup> Importeure und Hersteller, die sich zu einer Emissionsgemeinschaft zusammenschliessen wollen, müssen dem BFE bis zum 31. Dezember des Jahres vor dem Referenzjahr einen entsprechenden Antrag für die Dauer von ein bis fünf Jahren stellen.[^22-1]
 
 <sup>2</sup> Die Emissionsgemeinschaft hat eine Vertreterin oder einen Vertreter zu bezeichnen.
+
+[^22-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 22a
 
@@ -611,7 +681,10 @@ Abhängig von der Anzahl der im Jahr vor dem Referenzjahr erstmals in Verkehr ge
 
 <sup>2</sup> Er muss dies dem ASTRA vor dem erstmaligen Inverkehrsetzen der betreffenden Fahrzeuge melden. Die Meldung muss eine Einverständniserklärung des übernehmenden Grossimporteurs enthalten.
 
+<sup>3</sup> Fahrzeuge können nur einmal abgetreten werden. Ein Widerruf einer Abtretung ist nicht möglich.[^22a-2]
+
 [^22a-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^22a-2]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 3. Abschnitt: Bemessungsgrundlagen
 
@@ -722,12 +795,12 @@ Die individuelle Zielvorgabe für die CO<sub>2</sub>-Emissionen der Neuwagenflot
 
 <sup>2</sup> Emissionen, welche die individuelle Zielvorgabe überschreiten, werden zur Berechnung der Sanktion auf das nächste Zehntel Gramm CO<sub>2</sub>/km abgerundet.
 
-<sup>3</sup> Bezahlt ein Grossimporteur die Sanktion nicht fristgerecht, so schuldet er einen Verzugszins. Das Eidgenössische Finanzdepartement legt den Zinssatz fest.[^30-2]
+<sup>3</sup> Bezahlt ein Grossimporteur die Sanktion nicht fristgerecht, so schuldet er einen Verzugszins. Das Eidgenössische Finanzdepartement (EFD) legt den Zinssatz fest.[^30-2]
 
 <sup>4</sup> …[^30-3]
 
 [^30-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^30-2]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^30-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^30-3]: Aufgehoben durch Ziff. I der V vom 24. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 #### Art. 31
@@ -740,16 +813,16 @@ Die individuelle Zielvorgabe für die CO<sub>2</sub>-Emissionen der Neuwagenflot
 
 Es kann Grossimporteuren quartalsweise Anzahlungen in Anrechnung an die allfällige Sanktion im Referenzjahr in Rechnung stellen, insbesondere wenn:
 
-- a. der Importeur im Referenzjahr provisorisch als Grossimporteur behandelt wird;
+- a. die durchschnittlichen CO<sub>2</sub>-Emissionen einer Neuwagenflotte die individuelle Zielvorgabe im Referenzjahr um mehr als 5 g CO<sub>2</sub>/km überschreitet;
 - b. der Grossimporteur Sitz im Ausland hat;
-- c. gegen den Grossimporteur Betreibungen hängig sind oder ein Verlustschein vorliegt;
-- d. die durchschnittlichen CO<sub>2</sub>-Emissionen einer Neuwagenflotte die individuelle Zielvorgabe im Referenzjahr um mehr als 5 g CO<sub>2</sub>/km überschreitet.
+- c. gegen den Grossimporteur Betreibungen hängig sind oder ein Verlustschein vorliegt.[^31-1]
 
 <sup>3</sup> Die Höhe der Anzahlungen berechnet das BFE aufgrund der Daten nach Absatz 1. Bereits geleistete Anzahlungen werden bei der Rechnungsstellung berücksichtigt.
 
-<sup>4</sup> Übersteigen die geleisteten Anzahlungen die für das ganze Jahr geschuldete Sanktion für die Neuwagenflotte, so erstattet das BFE die Differenz zuzüglich eines Rückerstattungszinses zurück.[^31-1]
+<sup>4</sup> Übersteigen die geleisteten Anzahlungen die für das ganze Jahr geschuldete Sanktion für die Neuwagenflotte, so erstattet das BFE die Differenz zuzüglich eines Rückerstattungszinses zurück.[^31-2]
 
-[^31-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^31-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^31-2]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 #### Art. 32 und 33
 
@@ -826,9 +899,15 @@ Aufgehoben
 
 <sup>2</sup> Ein Betreiber von Anlagen, der eine Tätigkeit nach Anhang 6 neu aufnehmen will, muss dies dem BAFU spätestens drei Monate vor der geplanten Aufnahme der Tätigkeit melden.[^40-3]
 
+<sup>3</sup> Die Meldung muss Angaben zu den Tätigkeiten nach Anhang 6 und den Treibhausgasemissionen enthalten.[^40-4]
+
+<sup>4</sup> Das BAFU kann weitere Angaben verlangen, soweit es diese für die Beurteilung der Meldung benötigt.[^40-5]
+
 [^40-1]: Ausdruck gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Diese Änd. wurde im ganzen Erlass berücksichtigt. Die Berichtigung vom 4. März 2022 betrifft nur den französischen Text ([AS 2022 150](https://fedlex.data.admin.ch/eli/oc/2022/150)).
 [^40-2]: Fassung gemäss Ziff. I der V vom 8. Okt. 2014, in Kraft seit 1. Dez. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
 [^40-3]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^40-4]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^40-5]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 41
 
@@ -923,7 +1002,7 @@ Das BAFU entscheidet durch Verfügung über die Teilnahme von Betreibern von Anl
 
 Es behält jährlich einen Anteil der nach Absatz 1 berechneten Menge zurück, um sie folgenden Betreibern von Anlagen zugänglich zu machen:
 
-- a. Betreibern von Anlagen, die nach Artikel 46*a* Absatz 1 neu am EHS teilnehmen; und
+- a.[^45-2] Betreibern von Anlagen, die nach Artikel 46*a* Absatz 1 einen Anspruch auf eine kostenlose Zuteilung von Emissionsrechten haben; und
 - b.
 
   Betreibern von Anlagen, die bereits am EHS teilnehmen, wenn:
@@ -935,7 +1014,7 @@ Es behält jährlich einen Anteil der nach Absatz 1 berechneten Menge zurück, u
 
 Der Anteil nach Absatz 2 ist die Summe von:
 
-- a. 5 Prozent der Emissionsrechte nach Absatz 1; und
+- a.[^45-3] mindestens 5 Prozent der Emissionsrechte nach Absatz 1; und
 - b.
 
   der Gesamtheit der Emissionsrechte, die nicht mehr kostenlos zugeteilt werden aufgrund:
@@ -944,19 +1023,25 @@ Der Anteil nach Absatz 2 ist die Summe von:
   - 2\. von Anpassungen nach Artikel 46*b*,
   - 3\. eines fehlerhaften oder unvollständigen Monitoringberichts (Art. 52 Abs. 8).
 
-<sup>4</sup> Reicht der Anteil nach Absatz 2 nicht aus, um die Ansprüche vollständig zu erfüllen, so werden die Emissionsrechte in der folgenden Reihenfolge zugeteilt:
+<sup>4</sup>
 
-Betreibern nach Artikel 46*a*, die seit mindestens einem ganzen Kalenderjahr am EHS teilnehmen;
+Reicht der Anteil nach Absatz 2 nicht aus, um die Ansprüche vollständig zu erfüllen, so werden die Emissionsrechte in der folgenden Reihenfolge zugeteilt:
 
-Betreibern nach Artikel 46*a*, deren Teilnahme am EHS im Vorjahr begonnen hat;
+- a. Betreibern nach Artikel 46*a*, die seit mindestens einem ganzen Kalenderjahr am EHS teilnehmen beziehungsweise deren neue Zuteilungselemente seit mindestens einem ganzen Kalenderjahr in Betrieb sind;
+- b. Betreibern nach Artikel 46*a*, deren Teilnahme am EHS im Vorjahr begonnen hat beziehungsweise deren neue Zuteilungselemente im Vorjahr in Betrieb genommen wurden;
+- c. Betreibern von Anlagen nach Absatz 2 Buchstabe b Ziffer 2;
+- d. Betreibern von Anlagen nach Artikel 46*a*, die im betreffenden Jahr neu am EHS teilnehmen beziehungsweise deren neue Zuteilungselemente im betreffenden Jahr in Betrieb genommen wurden.[^45-4]
 
-Betreibern von Anlagen nach Absatz 2 Buchstabe b Ziffer 2;
+<sup>5</sup> Können die Ansprüche innerhalb einer Gruppe nach Absatz 4 Buchstabe a, b oder d nicht vollständig erfüllt werden, so ist für die Zuteilung der Emissionsrechte an die einzelnen Betreiber der Zeitpunkt der Teilnahme am EHS beziehungsweise der Inbetriebnahme neuer Zuteilungselemente massgebend. Erfolgt die Meldung erst nach der Aufnahme der Tätigkeit beziehungsweise erst nach Inbetriebnahme eines neuen Zuteilungselements, so ist das Datum der Meldung massgebend.[^45-5]
 
-Betreibern von Anlagen nach Artikel 46*a*, die im betreffenden Jahr neu am EHS teilnehmen.
-
-<sup>5</sup> Können die Ansprüche innerhalb einer Gruppe nach Absatz 4 Buchstabe a, b oder d nicht vollständig erfüllt werden, so ist für die Zuteilung der Emissionsrechte an die einzelnen Betreiber der Zeitpunkt der Inbetriebnahme der Anlagen massgebend. Können die Ansprüche innerhalb der Gruppe nach Absatz 4 Buchstabe c nicht vollständig erfüllt werden, so kürzt das BAFU die Menge der den einzelnen Betreibern kostenlos zuzuteilenden Emissionsrechte anteilsmässig.
+<sup>6</sup> Können die Ansprüche innerhalb der Gruppe nach Absatz 4 Buchstabe c nicht vollständig erfüllt werden, so kürzt das BAFU die Menge der den einzelnen Betreibern kostenlos zuzuteilenden Emissionsrechte anteilsmässig.[^45-6]
 
 [^45-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^45-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^45-3]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^45-4]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^45-5]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^45-6]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 46
 
@@ -1046,13 +1131,14 @@ Betreibern von Anlagen nach Artikel 46*a*, die im betreffenden Jahr neu am EHS t
 
 <sup>2</sup> …[^46f-3]
 
-<sup>3</sup> Führt ein Luftfahrzeugbetreiber, der nach Artikel 46*d* Absatz 1 zur Teilnahme am EHS verpflichtet ist, in einem bestimmten Jahr keine Flüge nach Anhang 13 aus, muss er die für dieses Jahr kostenlos zugeteilten Emissionsrechte bis zum 31. März des Folgejahres an die zuständige Behörde nach Anhang 14 zurückgeben. Die zurückgegebenen Emissionsrechte werden gelöscht.
+<sup>3</sup> Führt ein Luftfahrzeugbetreiber, dem kostenlos Emissionsrechte zugeteilt worden sind, in einem bestimmten Jahr keine Flüge nach Anhang 13 durch, muss er die für dieses Jahr kostenlos zugeteilten Emissionsrechte bis zum 30. November des Folgejahres an das BAFU zurückgeben. Die zurückgegebenen Emissionsrechte werden gelöscht.[^46f-4]
 
 <sup>4</sup> Emissionsrechte, die nicht kostenlos zugeteilt werden können, werden gelöscht.
 
 [^46f-1]: [SR 641.714.11](https://fedlex.data.admin.ch/eli/cc/2017/378)
 [^46f-2]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^46f-3]: Aufgehoben durch Ziff. I der V vom 25. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^46f-4]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 2. Abschnitt:**** Versteigerung von Emissionsrechten
 
@@ -1075,9 +1161,9 @@ Zur Teilnahme an der Versteigerung von Emissionsrechten berechtigt sind Betreibe
 Das BAFU versteigert regelmässig:
 
 - a.[^48-1] die Emissionsrechte für Anlagen des entsprechenden Jahres, die nicht kostenlos zugeteilt werden;
-- b. fünfzehn Prozent der jährlich maximal zur Verfügung stehenden Emissionsrechte für Luftfahrzeuge nach Anhang 15 Ziffer 2.
+- b.[^48-2] 15 Prozent der jährlich maximal zur Verfügung stehenden Emissionsrechte für Luftfahrzeuge nach Anhang 15 Ziffer 3.
 
-<sup>1bis</sup> Die Menge der nach Absatz 1 Buchstabe a zu versteigernden Emissionsrechte wird um fünfzig Prozent reduziert, wenn die Differenz zwischen dem Angebot an Emissionsrechten für Anlagen und der Nachfrage nach Emissionsrechten für Anlagen (Umlaufmenge) mehr als fünfzig Prozent der im Vorjahr maximal zur Verfügung stehenden Menge an Emissionsrechten für Anlagen nach Artikel 45 Absatz 1 beträgt. Die Berechnung der Umlaufmenge erfolgt nach den Vorgaben von Anhang 8 Ziffer 2.[^48-2]
+<sup>1bis</sup> Die Menge der nach Absatz 1 Buchstabe a zu versteigernden Emissionsrechte wird um fünfzig Prozent reduziert, wenn die Differenz zwischen dem Angebot an Emissionsrechten für Anlagen und der Nachfrage nach Emissionsrechten für Anlagen (Umlaufmenge) mehr als fünfzig Prozent der im Vorjahr maximal zur Verfügung stehenden Menge an Emissionsrechten für Anlagen nach Artikel 45 Absatz 1 beträgt. Die Berechnung der Umlaufmenge erfolgt nach den Vorgaben von Anhang 8 Ziffer 2.[^48-3]
 
 <sup>2</sup>
 
@@ -1096,7 +1182,8 @@ Das BAFU kann die Versteigerung ohne Zuschlagserteilung abbrechen, wenn:
 <sup>6</sup> Das BAFU kann private Organisationen mit der Versteigerung beauftragen.
 
 [^48-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^48-2]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^48-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^48-3]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 #### Art. 49
 
@@ -1163,27 +1250,27 @@ Das BAFU oder eine von ihm beauftragte Stelle erhebt die Daten, die erforderlich
 
 **Monitoringkonzept**[^51-1]
 
-<sup>1</sup> Betreiber von Anlagen im EHS der Schweiz reichen der zuständigen Behörde nach Anhang 14 spätestens drei Monate nach Ablauf der Meldefrist nach Artikel 40 Absatz 2 oder nach Einreichung des Teilnahmegesuchs nach Artikel 42 ein Monitoringkonzept zur Genehmigung ein. Sie verwenden die dazu vom BAFU zur Verfügung gestellte oder genehmigte Vorlage.[^51-2]
+<sup>1</sup> Betreiber von Anlagen reichen der zuständigen Behörde nach Anhang 14 spätestens drei Monate nach Ablauf der Meldefrist nach Artikel 40 Absatz 2 oder nach Einreichung des Teilnahmegesuchs nach Artikel 42 ein Monitoringkonzept zur Genehmigung ein. Sie verwenden die dazu vom BAFU zur Verfügung gestellte oder genehmigte Vorlage.[^51-2]
 
 <sup>2</sup> Betreiber von Luftfahrzeugen im EHS der Schweiz reichen der zuständigen Behörde nach Anhang 14 spätestens drei Monate nach der Meldung der erstmaligen Teilnahmepflicht nach Artikel 46*d* Absatz 2 ein Monitoringkonzept zur Genehmigung ein. Muss das Monitoringkonzept dem BAFU eingereicht werden, so verwenden sie die dazu vom BAFU zur Verfügung gestellte oder genehmigte Vorlage.[^51-3]
 
 <sup>3</sup> Das Monitoringkonzept muss den Anforderungen nach Anhang 16 genügen.
 
-<sup>4</sup> Betreiber von Anlagen und von Luftfahrzeugen im EHS der Schweiz (EHS-Teilnehmer) passen das Monitoringkonzept an, wenn dieses den Anforderungen von Anhang 16 nicht mehr genügt. Sie reichen das angepasste Monitoringkonzept der zuständigen Behörde nach Anhang 14 zur Genehmigung ein.[^51-4]
+<sup>4</sup> Das Monitoringkonzept muss angepasst werden, wenn es den Anforderungen nach Anhang 16 nicht mehr genügt. Das angepasste Monitoringkonzept ist der zuständigen Behörde nach Anhang 14 zur Genehmigung einzureichen.[^51-4]
 
 <sup>5</sup> Der CO<sub>2</sub>-Monitoringplan nach der Verordnung vom 2. Juni 2017[^51-5] über die Erhebung von Tonnenkilometerdaten und die Erstellung von Monitoringplänen bei Flugstrecken gilt als Monitoringkonzept.
 
 [^51-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^51-2]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^51-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^51-3]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^51-4]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^51-4]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^51-5]: [SR 641.714.11](https://fedlex.data.admin.ch/eli/cc/2017/378)
 
 #### Art. 52
 
 **Monitoringbericht**[^52-1]
 
-<sup>1</sup> EHS-Teilnehmer reichen der zuständigen Behörde nach Anhang 14 jährlich bis zum 31. März des Folgejahres einen Monitoringbericht ein. Muss der Monitoringbericht dem BAFU eingereicht werden, so verwenden sie die dazu vom BAFU zur Verfügung gestellte oder genehmigte Vorlage.[^52-2]
+<sup>1</sup> Betreiber von Anlagen oder von Luftfahrzeugen reichen jährlich bis zum 31. März des Folgejahres den Monitoringbericht bei der zuständigen Behörde nach Anhang 14 eingereicht werden. Muss der Monitoringbericht dem BAFU eingereicht werden, so ist dazu eine vom BAFU zur Verfügung gestellte oder genehmigte Vorlage zu verwenden.[^52-2]
 
 <sup>2</sup> Der Monitoringbericht muss die jeweiligen Angaben nach Anhang 17 enthalten. Das BAFU kann weitere Angaben verlangen, soweit es diese für das Monitoring benötigt.
 
@@ -1191,19 +1278,21 @@ Das BAFU oder eine von ihm beauftragte Stelle erhebt die Daten, die erforderlich
 
 <sup>4</sup> Luftfahrzeugbetreiber müssen ihren Monitoringbericht von einer Verifizierungsstelle nach Anhang 18 verifizieren lassen.
 
-<sup>5</sup> Der Monitoringbericht von Luftfahrzeugbetreibern mit CO<sub>2</sub>-Emissionen, welche die in Artikel 28*a* Absatz 6 der Richtlinie 2003/87/EG[^52-3] genannten Schwellenwerte unterschreiten, gilt als verifiziert, wenn der Luftfahrzeugbetreiber sich dafür auf ein Instrument nach Artikel 54 Absatz 2 der Verordnung (EU) Nr. 601/2012[^52-4] abstützt.
+<sup>5</sup> Der Monitoringbericht von Luftfahrzeugbetreibern mit CO<sub>2</sub>-Emissionen, welche die in Artikel 28*a* Absatz 6 der Richtlinie 2003/87/EG[^52-3] genannten Schwellenwerte unterschreiten, gilt als verifiziert, wenn der Luftfahrzeugbetreiber sich dafür auf ein Instrument nach Artikel 55 Absatz 2 der Durchführungsverordnung (EU) 2018/2066[^52-4] abstützt.[^52-5]
 
-<sup>6</sup> Reicht ein EHS-Teilnehmer den Monitoringbericht fehlerhaft, nicht vollständig oder nicht fristgemäss ein, so schätzt die zuständige Behörde nach Anhang 14 die massgebenden Emissionen auf seine Kosten.
+<sup>6</sup> Wird ein Monitoringbericht fehlerhaft, nicht vollständig oder nicht fristgemäss eingereicht, so schätzt die zuständige Behörde nach Anhang 14 die massgebenden Emissionen auf Kosten des Betreibers der Anlagen oder der Luftfahrzeuge.[^52-6]
 
 <sup>7</sup> Ergeben sich Zweifel an der Richtigkeit des verifizierten Monitoringberichts, so kann die zuständige Behörde nach Anhang 14 die Emissionen nach pflichtgemässem Ermessen korrigieren.
 
-<sup>8</sup> Werden im Monitoringbericht die erforderlichen Angaben für eine Anpassung nach Artikel 46*b* fehlerhaft oder nicht vollständig ausgewiesen, so setzt das BAFU eine angemessene Frist zur Nachbesserung. Wird der Monitoringbericht innerhalb dieser Frist nicht nachgebessert, so werden für die davon betroffenen Zuteilungselemente für das entsprechende Jahr keine Emissionsrechte kostenlos zugeteilt.[^52-5]
+<sup>8</sup> Werden im Monitoringbericht die erforderlichen Angaben für eine Anpassung nach Artikel 46*b* fehlerhaft oder nicht vollständig ausgewiesen, so setzt das BAFU eine angemessene Frist zur Nachbesserung. Wird der Monitoringbericht innerhalb dieser Frist nicht nachgebessert, so werden für die davon betroffenen Zuteilungselemente für das entsprechende Jahr keine Emissionsrechte kostenlos zugeteilt.[^52-7]
 
 [^52-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^52-2]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^52-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^52-3]: Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über ein System für den Handel mit Treibhausgasemissionszertifikaten in der Gemeinschaft und zur Änderung der Richtlinie 96/61/EG des Rates, ABl. L 275 vom 25.10.2003, S. 32; zuletzt geändert durch Richtlinie (EU) 2018/410, ABl. L 76 vom 19.3.2018, S. 3.
-[^52-4]: Verordnung (EU) Nr. 601/2012 der Kommission vom 21. Juni 2012 über die Überwachung von und die Berichterstattung über Treibhausgasemissionen gemäss der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates, ABl. L 181 vom 12.7.2012, S. 30; zuletzt geändert durch Durchführungsverordnung (EU) 2018/2066, ABl. L 334 vom 31.12.2018, S. 1.
-[^52-5]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^52-4]: Durchführungsverordnung (EU) 2018/2066 der Kommission vom 19. Dezember 2018 über die Überwachung von und die Berichterstattung über Treibhausgasemissionen gemäß der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates und zur Änderung der Verordnung (EU) Nr. 601/2012 der Kommission, ABl. L 334 vom 31.12.2018, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2020/2085, ABl. L 423 vom 15.12.2020, S. 37.
+[^52-5]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^52-6]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^52-7]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 #### Art. 53
 
@@ -1218,19 +1307,30 @@ EHS-Teilnehmer informieren die zuständige Behörde nach Anhang 14 unverzüglich
 
 <sup>2</sup> Luftfahrzeugbetreiber, die keine Flüge mehr nach Anhang 13 durchführen, melden dies der zuständigen Behörde nach Anhang 14 spätestens drei Monate nach Aufgabe der entsprechenden Flugaktivitäten.
 
+<sup>3</sup>
+
+Betreiber von Anlagen, die eine Tätigkeit nach Anhang 6 ausüben und von der Pflicht zur Teilnahme am EHS ausgenommen sind, informieren das BAFU unverzüglich:
+
+- a. wenn die jährlichen Treibhausgasemissionen der Anlagen 25 000 Tonnen CO<sub>2</sub>eq oder mehr betragen;
+- b. über Änderungen der Kontaktangaben.[^53-2]
+
 [^53-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^53-2]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 54
 
 **Aufgaben der Kantone**
 
-<sup>1</sup> Die Kantone überprüfen, ob die Betreiber von Anlagen im EHS ihren Meldepflichten nach den Artikeln 40 Absatz 2 und 53 Absatz 1 nachkommen und ob die gemeldeten Informationen vollständig und nachvollziehbar sind.[^54-1]
+<sup>1</sup> Die Kantone überprüfen, ob die Betreiber von Anlagen ihren Meldepflichten nach den Artikeln 40 Absatz 2 und 53 Absatz 1 und 3 nachkommen und ob die gemeldeten Informationen vollständig und nachvollziehbar sind.[^54-1]
 
 <sup>2</sup> Das BAFU stellt den Kantonen die dafür benötigten Angaben zur Verfügung.
 
 <sup>3</sup> Stellt ein Kanton fest, dass die Anforderungen dieser Verordnung nicht erfüllt sind, so informiert er das BAFU unverzüglich.
 
-[^54-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+<sup>4</sup> Das BAFU kann die Kantone zur Klärung von Fragen beiziehen, die für den Vollzug der Bestimmungen zum EHS zu beantworten sind.[^54-2]
+
+[^54-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^54-2]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 4. Abschnitt: Pflicht zur Abgabe von Emissionsrechten****
 
@@ -1288,12 +1388,13 @@ Das BAFU kann auf Gesuch hin in Fällen, in denen europäische Emissionsrechte i
 
 <sup>1</sup> Erfüllt ein EHS-Teilnehmer seine Pflicht zur Abgabe von Emissionsrechten nicht fristgemäss, so verfügt das BAFU die Sanktion nach Artikel 21 des CO<sub>2</sub>-Gesetzes.[^56-1]
 
-<sup>2</sup> Die Zahlungsfrist beträgt 30 Tage ab Eröffnung der Verfügung. Bei verspäteter Zahlung ist ein Verzugszins von 5 Prozent pro Jahr geschuldet.
+<sup>2</sup> Die Zahlungsfrist beträgt 30 Tage ab Eröffnung der Verfügung. Bei verspäteter Zahlung ist ein Verzugszins geschuldet. Das EFD setzt den Zinssatz fest.[^56-2]
 
-<sup>3</sup> Gibt der EHS-Teilnehmer die fehlenden Emissionsrechte nicht bis zum 31. Januar des Folgejahres ab, so werden sie mit den in diesem Jahr kostenlos zuzuteilenden Emissionsrechten verrechnet.[^56-2]
+<sup>3</sup> Gibt der EHS-Teilnehmer die fehlenden Emissionsrechte nicht bis zum 31. Januar des Folgejahres ab, so werden sie mit den in diesem Jahr kostenlos zuzuteilenden Emissionsrechten verrechnet.[^56-3]
 
 [^56-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^56-2]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^56-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^56-3]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 ### 5. Abschnitt: Emissionshandelsregister****
 
@@ -1309,7 +1410,7 @@ Das BAFU kann auf Gesuch hin in Fällen, in denen europäische Emissionsrechte i
 
 <sup>2</sup> Betreiber von Anlagen und von Luftfahrzeugen im EHS der Europäischen Union sowie die übrigen in der Europäischen Union zur Versteigerung zugelassenen Unternehmen aus dem EWR, die an der Versteigerung teilnehmen wollen, müssen ein Personenkonto haben.
 
-<sup>3</sup> Betreiber mit Verminderungsverpflichtung nach dem 5. Kapitel sowie Importeure und Hersteller fossiler Treibstoffe nach dem 7. Kapitel, die Emissionsrechte, Emissionsminderungszertifikate oder Bescheinigungen im Emissionshandelsregister halten oder mit diesen handeln wollen, müssen ein Betreiberkonto oder ein Personenkonto haben.
+<sup>3</sup> Importeure und Hersteller fossiler Treibstoffe nach dem 7. Kapitel, die Emissionsrechte, Emissionsminderungszertifikate oder Bescheinigungen im Emissionshandelsregister halten oder mit diesen handeln wollen, müssen ein Betreiberkonto oder ein Personenkonto haben.[^57-2]
 
 <sup>4</sup> Alle übrigen Unternehmen und Personen, die Emissionsrechte, Emissionsminderungszertifikate oder Bescheinigungen im Emissionshandelsregister halten oder mit diesen handeln wollen, müssen ein Personenkonto haben.
 
@@ -1318,6 +1419,7 @@ Das BAFU kann auf Gesuch hin in Fällen, in denen europäische Emissionsrechte i
 <sup>6</sup> Ein Inhaber oder eine Inhaberin von Personenkonten darf auf seinen oder ihren Personenkonten maximal eine Million Emissionsrechte aufbewahren.
 
 [^57-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^57-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 58
 
@@ -1331,10 +1433,11 @@ Das Gesuch muss enthalten:
 
 - a. für Betreiber von Anlagen oder von Luftfahrzeugen und übrige Unternehmen: einen Auszug aus dem Handelsregister sowie eine Kopie eines Identitätsnachweises der Person, die zur Vertretung berechtigt ist;
 - b. für natürliche Personen: einen Identitätsnachweis;
-- c. Vornamen, Namen, Post- und E-Mail-Adresse und Identitätsnachweis der Gesuchstellerin oder des Gesuchstellers;
+- b<sup>bis</sup>.[^58-2] für zuständige Behörden eines Partnerstaates: eine offizielle Bestätigung der Regierung sowie eine Kopie eines Identitätsnachweises der Person, die zur Vertretung berechtigt ist;
+- c. Vornamen, Namen, Post- und E-Mail-Adresse und Identitätsnachweis der gesuchstellenden Person;
 - d. Vornamen, Namen, Postadresse, persönliche E-Mail-Adresse, Mobiltelefonnummer, Identitätsnachweis und Strafregisterauszug von mindestens einer oder einem, höchstens vier Kontobevollmächtigten;
 - e. Vornamen, Namen, Postadresse, persönliche E-Mail-Adresse, Mobiltelefonnummer, Identitätsnachweis und Strafregisterauszug von mindestens einer oder einem Transaktionsvalidierenden, höchstens aber vier Transaktionsvalidierenden;
-- f. eine Erklärung, wonach die Gesuchstellerin oder der Gesuchsteller die allgemeinen Bedingungen für das Emissionshandelsregister anerkennt.
+- f. eine Erklärung, wonach die gesuchstellende Person die allgemeinen Bedingungen für das Emissionshandelsregister anerkennt.
 
 <sup>3</sup> Auf die Einreichung eines schweizerischen Strafregisterauszugs kann verzichtet werden, wenn mit einer notariellen Bestätigung nachgewiesen wird, dass keine Verurteilungen in Zusammenhang mit den in Artikel 59*a* Absatz 1 Buchstabe b aufgeführten Straftatbeständen vorliegen.
 
@@ -1344,11 +1447,12 @@ Das Gesuch muss enthalten:
 
 <sup>6</sup> Angaben zu Handelsregisterauszügen, Identitätsnachweisen, Strafregisterauszügen sowie Angaben nach den Absätzen 4 und 5 müssen beglaubigt werden. Abschriften von ausserhalb der Schweiz ausgestellten Dokumenten müssen überbeglaubigt sein. Das Datum der einzureichenden Dokumente sowie der Beglaubigung oder Überbeglaubigung darf nicht mehr als drei Monate vor dem Antragsdatum liegen.
 
-<sup>7</sup> Das BAFU eröffnet das beantragte Konto, nachdem es die Angaben und Unterlagen geprüft hat und sobald die Gesuchstellerin oder der Gesuchsteller die Gebühren entrichtet hat.
+<sup>7</sup> Das BAFU eröffnet das beantragte Konto, nachdem es die Angaben und Unterlagen geprüft hat und sobald die gesuchstellende Person die Gebühren entrichtet hat.
 
 <sup>8</sup> Luftfahrzeugbetreiber, für die das BAFU zuständig ist, müssen innerhalb von 30 Arbeitstagen nach der Genehmigung ihres Monitoringkonzepts oder nach ihrer Zuordnung zur Schweiz einen Antrag zur Eröffnung eines Kontos im Emissionshandelsregister stellen. Der Antrag muss das eindeutige Luftfahrzeugkennzeichen jedes vom Antragsteller betriebenen Luftfahrzeugs enthalten, das unter das EHS der Schweiz oder das EHS der Europäischen Union fällt.
 
 [^58-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^58-2]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 59
 
@@ -1380,11 +1484,13 @@ Wer ein Betreiber- oder Personenkonto nach Artikel 57 hat, muss für die folgend
 Die Absätze 3 und 4 gelten nicht:
 
 - a. für Konten von Betreibern von Luftfahrzeugen ausserhalb der Schweiz und des EWR;
-- b. für Unternehmen und Personen mit Sitz oder Wohnsitz im Vereinigten Königreich, sofern diese über ein Bankkonto in der Schweiz, im EWR oder im Vereinigten Königreich verfügen.[^59-3]
+- b. für Unternehmen und Personen mit Sitz oder Wohnsitz im Vereinigten Königreich, sofern diese über ein Bankkonto in der Schweiz, im EWR oder im Vereinigten Königreich verfügen;
+- c.[^59-3] für die zuständigen Behörden eines Partnerstaates.[^59-4]
 
 [^59-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^59-2]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^59-3]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^59-3]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^59-4]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 #### Art. 59a
 
@@ -1399,9 +1505,10 @@ Das BAFU lehnt die Kontoeröffnung oder den Eintrag von Kontobevollmächtigten, 
 
 <sup>2</sup> Es sistiert die Kontoeröffnung oder den Eintrag, wenn gegen das Unternehmen oder eine Person nach Absatz 1 Buchstabe b wegen einer in Absatz 1 Buchstabe b genannten strafbaren Handlung eine Untersuchung hängig ist.
 
-<sup>3</sup> Wird bei einem Betreiber von Anlagen oder von Luftfahrzeugen, der zur Teilnahme am EHS verpflichtet ist, die Eröffnung eines Kontos abgelehnt, so eröffnet das BAFU ein Sperrkonto, auf das die nach Artikel 46 oder Artikel 46*f* zugeteilten Emissionsrechte gutgeschrieben werden. Die Sperrung des Kontos dauert bis zum Wegfall der Gründe, die zur Ablehnung der Kontoeröffnung geführt haben.
+<sup>3</sup> Wird bei einem Betreiber von Anlagen oder von Luftfahrzeugen, der zur Teilnahme am EHS verpflichtet ist, die Eröffnung eines Kontos abgelehnt, so eröffnet das BAFU ein Sperrkonto, auf das die nach Artikel 46, 46*b* oder 46*f* zugeteilten Emissionsrechte gutgeschrieben werden. Die Sperrung des Kontos dauert bis zum Wegfall der Gründe, die zur Ablehnung der Kontoeröffnung geführt haben.[^59a-2]
 
 [^59a-1]: Eingefügt durch Ziff. I der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^59a-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 60
 
@@ -1486,11 +1593,14 @@ Das BAFU kann Konten schliessen:
 - b. deren Inhaberinnen oder Inhaber oder deren registrierte Nutzer seit mindestens einem Jahr gegen die Vorschriften über das Emissionshandelsregister verstossen;
 - c. wenn die jährlichen Kontoführungsgebühren seit mehr als einem Jahr nicht bezahlt wurden.[^64-2]
 
-<sup>3</sup> Weist ein Konto, das geschlossen werden soll, einen positiven Kontostand auf, so fordert das BAFU die Kontoinhaberin oder den Kontoinhaber auf, innerhalb von 40 Arbeitstagen ein anderes Konto anzugeben, auf das die Einheiten transferiert werden sollen. Wird dieser Aufforderung nicht Folge geleistet, so löscht das BAFU die betroffenen Einheiten.[^64-3]
+<sup>2bis</sup> Das BAFU schliesst ab dem 1. Januar 2026 Betreiberkonten von Betreibern mit Verminderungsverpflichtung nach Artikel 31 des CO<sub>2</sub>-Gesetzes. Die betroffenen Betreiber haben die Möglichkeit, ein Personenkonto nach Artikel 57 Absatz 4 zu eröffnen.[^64-3]
+
+<sup>3</sup> Weist ein Konto, das geschlossen werden soll, einen positiven Kontostand auf, so fordert das BAFU die Kontoinhaberin oder den Kontoinhaber auf, innerhalb von 40 Arbeitstagen ein anderes Konto anzugeben, auf das die Einheiten transferiert werden sollen. Wird dieser Aufforderung nicht Folge geleistet, so löscht das BAFU die betroffenen Einheiten.[^64-4]
 
 [^64-1]: Fassung gemäss Ziff. I der V vom 8. Okt. 2014, in Kraft seit 1. Dez. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
 [^64-2]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^64-3]: Eingefügt durch Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^64-3]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^64-4]: Eingefügt durch Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 
 #### Art. 65
 
@@ -1511,15 +1621,21 @@ Das BAFU kann folgende im Emissionshandelsregister enthaltene Daten unter Wahrun
 
 - c. Emissionsrechte, Emissionsminderungszertifikate und Bescheinigungen pro Konto;
 - c<sup>bis</sup>. Transaktionen;
-- d. bei EHS-Teilnehmern: Versteigerungsgebote, Anlagen-, Luftfahrzeug- und Emissionsdaten, Menge der kostenlos zugeteilten Emissionsrechte, Menge der zur Erfüllung der Pflicht abgegebenen Emissionsrechte und Emissionsminderungszertifikate;
-- d<sup>bis</sup>. bei Luftfahrzeugbetreibern, die bis zum Inkrafttreten des EHS-Abkommens[^65-2] durch eine ausländische Behörde verwaltet worden sind: Luftfahrzeug- und Emissionsdaten, Menge der kostenlos zugeteilten Emissionsrechte, Menge der zur Erfüllung der Pflicht abgegebenen Emissionsrechte, jeweils frühestens seit 2013;
-- d<sup>ter</sup>. bei in der Europäischen Union zur Versteigerung zugelassenen Unternehmen aus dem EWR: Versteigerungsgebote;
-- e. bei Projekten und Programmen für Emissionsverminderung im Inland: Menge der ausgestellten Bescheinigungen pro Monitoringperiode sowie Kontonummer des Betreiber- oder Personenkontos, auf das die Bescheinigungen für das Projekt oder das Programm ausgestellt werden;
-- f. bei kompensationspflichtigen Personen: Höhe der Kompensationspflicht, Menge der zur Erfüllung der Pflicht abgegebenen Bescheinigungen und Emissionsminderungszertifikate;
-- g. bei Betreibern mit Verminderungsverpflichtung nach Artikel 66 Absatz 1: Menge der zur Erfüllung der Verminderungsverpflichtung abgegebenen Emissionsminderungszertifikate.
+- d.[^65-2] bei EHS-Teilnehmern: Anlagen-, Luftfahrzeug- und Emissionsdaten, Menge der kostenlos zugeteilten Emissionsrechte, Menge der zur Erfüllung der Pflicht abgegebenen Emissionsrechte und Emissionsminderungszertifikate;
+- d<sup>bis</sup>.[^65-3] bei Luftfahrzeugbetreibern, die bis zum Inkrafttreten des EHS-Abkommens[^65-4] durch eine ausländische Behörde verwaltet worden sind: Luftfahrzeug- und Emissionsdaten, Menge der kostenlos zugeteilten Emissionsrechte, Menge der zur Erfüllung der Pflicht abgegebenen Emissionsrechte und Emissionsminderungszertifikate, jeweils frühestens seit 2012;
+- d<sup>ter</sup>.[^65-5] bei Versteigerungen: Versteigerungsgebote, Versteigerungsdatum und –menge, Mindest- und Höchstgebotsmenge, Zuschlagspreis und -menge, an der Versteigerung zugelassene Teilnehmer;
+- e.[^65-6] bei Projekten und Programmen für Emissionsverminderungen oder die Erhöhung der Senkenleistungen im In- und Ausland: Menge der ausgestellten Bescheinigungen pro Monitoringperiode sowie Kontonummer des Betreiber- oder Personenkontos, auf das die Bescheinigungen für das Projekt oder das Programm ausgestellt werden;
+- f.[^65-7] bei kompensationspflichtigen Personen: Höhe der Kompensationspflicht, Menge der zur Erfüllung der Pflicht abgegebenen Bescheinigungen, Emissionsminderungszertifikate und Emissionsrechte;
+- g.[^65-8] bei Betreibern mit Verminderungsverpflichtung: Menge der zur Erfüllung der Verminderungsverpflichtung abgegebenen Emissionsminderungszertifikate und Emissionsrechte.
 
 [^65-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^65-2]: [SR 0.814.011.268](https://fedlex.data.admin.ch/eli/cc/2018/124)
+[^65-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^65-3]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^65-4]: [SR 0.814.011.268](https://fedlex.data.admin.ch/eli/cc/2018/124)
+[^65-5]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^65-6]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^65-7]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^65-8]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ## 5. Kapitel: Verpflichtung zur Verminderung der Treibhausgasemissionen
 
@@ -1663,7 +1779,7 @@ Emissionsverminderungen, die ein Betreiber von Anlagen aufgrund von Produkteverb
 
 **Monitoringbericht**[^72-1]
 
-<sup>1</sup> Der Betreiber von Anlagen reicht den nach Artikel 130 Absatz 6 beauftragten privaten Organisationen jährlich bis zum 31. Mai des Folgejahres einen Monitoringbericht ein. Diese leiten den Monitoringbericht an das BAFU weiter.
+<sup>1</sup> Der Betreiber von Anlagen reicht den nach Artikel 130 Absatz 6 beauftragten privaten Organisationen jährlich bis zum 31. Mai des Folgejahres einen Monitoringbericht ein. Endet die Zusammenarbeit mit den privaten Organisationen, reicht der Betreiber den Monitoringbericht dem BFE ein. Die beauftragten privaten Organisationen beziehungsweise das BFE leiten den Monitoringbericht an das BAFU weiter.[^72-2]
 
 <sup>2</sup>
 
@@ -1680,6 +1796,7 @@ Der Monitoringbericht muss enthalten:
 <sup>4</sup> Das BAFU kann weitere Angaben verlangen, soweit es diese für das Monitoring benötigt.
 
 [^72-1]: Fassung gemäss Ziff. I der V vom 8. Okt. 2014, in Kraft seit 1. Dez. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
+[^72-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 73
 
@@ -1712,9 +1829,9 @@ Das BAFU passt das Emissionsziel an, wenn die Treibhausgasemissionen der Anlagen
 
 **Anrechnung von Bescheinigungen an das Emissionsziel**[^74a-1]
 
-Emissionsverminderungen, die zur Ausstellung von Bescheinigungen nach Artikel 12 Absatz 2 führen, sowie Emissionsverminderungen, die im Rahmen von Projekten oder Programmen nach Artikel 5 oder 5*a* erzielt werden, gelten im Hinblick auf die Erfüllung des Emissionsziels als Treibhausgasemissionen der jeweiligen Gesuchstellerin oder des jeweiligen Gesuchstellers.
+Emissionsverminderungen, für die Bescheinigungen nach den Artikeln 5 oder 12 Absatz 2 ausgestellt werden, gelten im Hinblick auf die Erfüllung des Emissionsziels als Treibhausgasemissionen der jeweiligen Betreiber von Anlagen.
 
-[^74a-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^74a-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 74b
 
@@ -1754,11 +1871,12 @@ Ein Betreiber von Anlagen, der sein Emissions- oder Massnahmenziel nicht erreich
 Die Menge der anrechenbaren Emissionsminderungszertifikate nach Absatz 1 wird:
 
 - a. für einen Betreiber von Anlagen, der in den Jahren 2013–2020 nur zeitweise einer Verminderungsverpflichtung unterliegt: entsprechend dieser Zeitdauer reduziert;
-- b. für einen Betreiber von Anlagen, der im Vergleich zum Jahr 2012 zusätzlich ausserhalb der Anlagen verwendeten Strom produziert: im Umfang von 50 Prozent der dadurch erforderlichen zusätzlichen Verminderungsleistung erhöht;
+- b.[^75-3] für einen Betreiber von Anlagen, der bis 2021 im Vergleich zum Jahr 2012 zusätzlich ausserhalb der Anlagen verwendeten Strom produziert: im Umfang von 50 Prozent der dadurch erforderlichen zusätzlichen Verminderungsleistung erhöht;
 - c. für einen Betreiber von Anlagen nach Absatz 1 Buchstabe a, dessen Emissions- oder Massnahmenziel angepasst wird: nach Massgabe der Anpassung erhöht oder reduziert; die Menge der anrechenbaren Emissionsminderungszertifikate wird dabei reduziert auf maximal 8 Prozent des Fünffachen der im Durchschnitt in den Jahren 2008–2012 jährlich zugestandenen Emissionen abzüglich der in diesem Zeitraum angerechneten Emissionsminderungszertifikate.
 
 [^75-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^75-2]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^75-3]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 76
 
@@ -1768,14 +1886,15 @@ Die Menge der anrechenbaren Emissionsminderungszertifikate nach Absatz 1 wird:
 
 <sup>1bis</sup> Erfüllt ein Betreiber von WKK-Anlagen die Investitionspflicht nach Artikel 96*a* Absatz 2 oder nach Artikel 98*a* Absatz 2 nicht, so verfügt das BAFU die Rückzahlung von 40 Prozent der geleisteten Rückerstattung für Brennstoffe, die zur Stromproduktion nach Artikel 32*a* des CO<sub>2</sub>-Gesetzes eingesetzt wurden.[^76-3]
 
-<sup>2</sup> Die Zahlungsfrist beträgt 30 Tage ab Eröffnung der Verfügung. Bei verspäteter Zahlung ist ein Verzugszins von 5 Prozent pro Jahr geschuldet.
+<sup>2</sup> Die Zahlungsfrist beträgt 30 Tage ab Eröffnung der Verfügung. Bei verspäteter Zahlung ist ein Verzugszins geschuldet. Das EFD setzt den Zinssatz fest.[^76-4]
 
-<sup>3</sup> Die rückbezahlten Beträge nach Absatz 1<sup>bis</sup> gelten als Einnahme aus der CO<sub>2</sub>-Abgabe.[^76-4]
+<sup>3</sup> Die rückbezahlten Beträge nach Absatz 1<sup>bis</sup> gelten als Einnahme aus der CO<sub>2</sub>-Abgabe.[^76-5]
 
 [^76-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 [^76-2]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^76-3]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^76-4]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^76-4]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^76-5]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 
 #### Art. 77
 
@@ -1785,15 +1904,15 @@ Ist die Zielerreichung bei einem Betreiber von Anlagen gefährdet, so kann das B
 
 #### Art. 78
 
-**Veröffentlichung von Informationen[^78-1]**
+**Meldepflicht bei Änderungen[^78-1]**
 
-Der Betreiber von Anlagen informiert das BAFU unverzüglich über:[^78-2]
+Der Betreiber von Anlagen meldet dem BAFU unverzüglich:[^78-2]
 
 - a. Änderungen, die sich auf die Verminderungsverpflichtung auswirken könnten;
 - b. Änderungen der Kontaktangaben.
 
-[^78-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^78-2]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^78-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^78-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 79
 
@@ -1805,14 +1924,15 @@ Das BAFU kann unter Wahrung des Fabrikations- und Geschäftsgeheimnisses veröff
 - b. die Emissions- oder Massnahmenziele;
 - c. die Treibhausgasemissionen jeder Anlage;
 - d. den Umfang der Emissionsverminderungen nach Artikel 71, die jeder Betreiber von Anlagen an die Erfüllung der Verminderungsverpflichtung anrechnen lässt;
-- e. die Menge der Emissionsminderungszertifikate, die jeder Betreiber von Anlagen abgibt;
+- e.[^79-2] die Menge der Emissionsminderungszertifikate oder der Emissionsrechte, die jeder Betreiber von Anlagen abgibt;
 - f. die Menge der Gutschriften nach Artikel 138 Absatz 1 Buchstabe b, die jeder Betreiber von Anlagen an die Erfüllung der Verminderungsverpflichtung anrechnen lässt;
 - g. die Menge der Bescheinigungen nach Artikel 12, die jedem Betreiber von Anlagen ausgestellt werden;
 - h. den Umfang der getätigten Investitionen nach Artikel 96*a* Absatz 2 oder nach Artikel 98*a* Absatz 2;
-- i.[^79-2] die nach Artikel 69 Absatz 2<sup>bis</sup> beauftragte private Organisation.
+- i.[^79-3] die nach Artikel 69 Absatz 2<sup>bis</sup> beauftragte private Organisation.
 
 [^79-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^79-2]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^79-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^79-3]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 ## 6. Kapitel: …
 
@@ -2066,10 +2186,11 @@ Als fossil-thermische Kraftwerke gelten Anlagen, die aus fossilen Energieträger
 
 <sup>4</sup> Betreiber von fossil-thermischen Kraftwerken reichen das Rückerstattungsgesuch bis zum 30. Juni beim BAFU zuhanden der Vollzugsbehörden ein. Das Gesuch muss die Preise für den Kauf der Emissionsrechte der vergangenen zwölf Monate enthalten. Die entsprechenden Belege sind beizulegen.
 
-<sup>5</sup> Liefert der Betreiber keine belegbaren Angaben zu den bezahlten Beträgen, so schätzt das BAFU diese nach pflichtgemässem Ermessen. Es berücksichtigt dabei die Herkunft der Emissionsrechte, der Zuschlagspreise und der öffentlich publizierten Sekundärmarktpreise.
+<sup>5</sup> Liefert der Betreiber keine belegbaren Angaben zu den bezahlten Beträgen, so wird ein Wert von null Franken angenommen.[^96b-3]
 
 [^96b-1]: Eingefügt durch Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^96b-2]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^96b-3]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 97
 
@@ -2183,7 +2304,7 @@ Betreiber von WKK-Anlagen, die weder am EHS teilnehmen noch einer Verminderungsv
 
 <sup>1</sup> Wer abgabebelastete Brennstoffe nicht energetisch nutzt und eine Rückerstattung beantragen will, muss nachweisen, welche Mengen nicht energetisch genutzt worden sind. Er oder sie muss zu diesem Zweck Aufzeichnungen (Verbrauchskontrollen) über Eingang, Ausgang und Verbrauch der Brennstoffe sowie über die Lagerbestände führen.
 
-<sup>1bis</sup> Das BAZG kann die Rückerstattung der Abgabe für nicht energetisch genutzte Brennstoffe aufgrund der eingekauften Menge gewähren, sofern aufgrund der betrieblichen Verhältnisse beim Gesuchsteller keine Zweifel am nicht energetischen Verwendungszweck bestehen und der Gesuchsteller die nicht energetische Verwendung der Brennstoffe gegenüber dem BAZG verbindlich bestätigt.[^99-1]
+<sup>1bis</sup> Das BAZG kann die Rückerstattung der Abgabe für nicht energetisch genutzte Brennstoffe aufgrund der eingekauften Menge gewähren, sofern aufgrund der betrieblichen Verhältnisse bei der gesuchstellenden Person keine Zweifel am nicht energetischen Verwendungszweck bestehen und die gesuchstellende Person die nicht energetische Verwendung der Brennstoffe gegenüber dem BAZG verbindlich bestätigt.[^99-1]
 
 <sup>2</sup> Das Rückerstattungsgesuch ist beim BAZG in der von diesem vorgeschriebenen Form einzureichen.
 
@@ -2354,7 +2475,7 @@ Aufgehoben
 
 <sup>4</sup> Das Expertengremium begutachtet die Gesuche und gibt zuhanden des BFE eine Empfehlung für die Beurteilung des Projekts ab. Bei der Empfehlung zuhanden des BFE hat die Kantonsvertreterin oder der Kantonsvertreter keine Stimme. Das Expertengremium kann zur Erfüllung seiner Aufgaben weitere Fachleute beiziehen.
 
-<sup>5</sup> Sind die Voraussetzungen für die Gewährung eines Beitrages gegeben, so schliesst der Bund mit der Gesuchstellerin oder dem Gesuchsteller einen verwaltungsrechtlichen Vertrag ab. Darin sind insbesondere die Voraussetzungen für die Rückforderung nach Artikel 113*b* festzuhalten.
+<sup>5</sup> Sind die Voraussetzungen für die Gewährung eines Beitrages gegeben, so schliesst der Bund mit der gesuchstellenden Person einen verwaltungsrechtlichen Vertrag ab. Darin sind insbesondere die Voraussetzungen für die Rückforderung nach Artikel 113*b* festzuhalten.
 
 [^113-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 [^113-2]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
@@ -2363,7 +2484,7 @@ Aufgehoben
 
 **Reihenfolge der Berücksichtigung**[^113a-1]
 
-<sup>1</sup> Stehen für ein Projekt keine oder nicht genügend Mittel zur Verfügung, so nimmt das BFE das Projekt in eine Warteliste auf, es sei denn, es erfüllt die Anspruchsvoraussetzungen offensichtlich nicht. Das BFE teilt dies der Gesuchstellerin oder dem Gesuchsteller mit.
+<sup>1</sup> Stehen für ein Projekt keine oder nicht genügend Mittel zur Verfügung, so nimmt das BFE das Projekt in eine Warteliste auf, es sei denn, es erfüllt die Anspruchsvoraussetzungen offensichtlich nicht. Das BFE teilt dies der gesuchstellenden Person mit.
 
 <sup>2</sup> Stehen wieder Mittel zur Verfügung, so berücksichtigt das BFE die am weitesten fortgeschrittenen Projekte. Sind mehrere Projekte gleich weit fortgeschritten, so wird das Projekt berücksichtigt, für das das vollständige Gesuch am frühesten eingereicht wurde.
 
@@ -2544,7 +2665,9 @@ Jeder Versicherer meldet dem Bundesamt für Gesundheit bis zum 20. März des Erh
 - a. die Anzahl der bei ihm versicherten Personen, die per 1. Januar des Erhebungsjahres die Voraussetzungen nach Artikel 120 Absatz 3 erfüllen;
 - b. die Summe der im Vorjahr tatsächlich verteilten Beträge.
 
-<sup>2</sup> Die Versicherer informieren die versicherten Personen anlässlich der Mitteilung der neuen Prämie für das Erhebungsjahr über die Höhe des zu verteilenden Betrags.
+<sup>2</sup> Die Versicherer informieren die versicherten Personen anlässlich der Mitteilung der neuen Prämie für das Erhebungsjahr über die Höhe des zu verteilenden Betrags. Zusätzlich müssen sie den versicherten Personen ein vom BAFU verfasstes Merkblatt über den Ablauf der Rückverteilung zukommen lassen.[^122-1]
+
+[^122-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 123
 
@@ -2570,7 +2693,7 @@ Für den Vollzugsaufwand nach dieser Verordnung sowie nach der Verordnung vom 12
 
 **Verteilung**
 
-<sup>1</sup> Der Ertragsanteil der Wirtschaft wird im Auftrag und unter Aufsicht des BAFU sowie nach den Weisungen des Bundesamtes für Sozialversicherungen den Arbeitgebern von den AHV-Ausgleichskassen (Ausgleichskassen) verteilt. Die Differenz zwischen dem geschätzten und dem tatsächlichen Jahresertrag sowie der Anteil der Bevölkerung an den nicht ausgeschöpften Mittel nach Artikel 34 Absatz 4 des CO<sub>2</sub>-Gesetzes werden jeweils bei der Ertragsverteilung im übernächsten Jahr ausgeglichen.[^125-1]
+<sup>1</sup> Der Ertragsanteil der Wirtschaft wird im Auftrag und unter Aufsicht des BAFU sowie nach den Weisungen des Bundesamtes für Sozialversicherungen den Arbeitgebern von den AHV-Ausgleichskassen (Ausgleichskassen) und mit Beteiligung der Zentralen Ausgleichsstelle verteilt. Die Differenz zwischen dem geschätzten und dem tatsächlichen Jahresertrag sowie der Anteil der Bevölkerung an den nicht ausgeschöpften Mitteln nach Artikel 34 Absatz 4 des CO<sub>2</sub>-Gesetzes werden jeweils bei der Ertragsverteilung im übernächsten Jahr ausgeglichen.[^125-1]
 
 <sup>2</sup> Die Ausgleichskassen verteilen den Ertragsanteil der Wirtschaft bis zum 30. September des Erhebungsjahres. In begründeten Fällen kann das BAFU diese Frist auf Gesuch hin angemessen erstrecken.[^125-2]
 
@@ -2578,9 +2701,12 @@ Für den Vollzugsaufwand nach dieser Verordnung sowie nach der Verordnung vom 12
 
 <sup>4</sup> Die Ausgleichskassen verteilen den Ertragsanteil der Wirtschaft, indem sie ihn mit den im Erhebungsjahr fälligen Beitragsabrechnungen der Arbeitgeber verrechnen oder ihn an die Arbeitgeber auszahlen. Beträge, die nicht verrechnet werden können, werden ab einer Höhe von 50 Franken ausbezahlt. Bei Mutationen werden Beträge ab einer Höhe von 50 Franken verrechnet oder ausbezahlt.[^125-3]
 
-[^125-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+<sup>5</sup> Die Revisionsstellen der Ausgleichskassen prüfen im Rahmen der Abschlussrevision die Verteilung des Ertragsanteils der Wirtschaft und erstatten dem BAFU nach den Weisungen des Bundesamts für Sozialversicherungen Bericht.[^125-4]
+
+[^125-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^125-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 [^125-3]: Fassung gemäss Ziff. I der V vom 8. Okt. 2014, in Kraft seit 1. Dez. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
+[^125-4]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 126
 
@@ -2632,7 +2758,12 @@ Das BAFU informiert die Öffentlichkeit insbesondere über:
 
 <sup>3</sup> Das BAZG vollzieht die Bestimmungen über die CO<sub>2</sub>-Abgabe.
 
-<sup>4</sup> Das BAFU vollzieht im Einvernehmen mit dem BFE die Bestimmungen über die Bescheinigungen für Emissionsverminderungen im Inland und über die Förderung von Technologien zur Verminderung der Treibhausgasemissionen.[^130-3]
+<sup>4</sup>
+
+Das BAFU vollzieht:
+
+- a. im Einvernehmen mit dem BFE: die Bestimmungen über die Bescheinigungen für Emissionsverminderungen und die Erhöhung der Senkenleistungen im Inland sowie über die Förderung von Technologien zur Verminderung der Treibhausgasemissionen;
+- b. im Einvernehmen mit dem BFE, dem Staatssekretariat für Wirtschaft und dem Eidgenössischen Departement für auswärtige Angelegenheiten: die Bestimmungen über die Bescheinigungen für Emissionsverminderungen und die Erhöhung der Senkenleistungen im Ausland.[^130-3]
 
 <sup>4bis</sup> Das BFE vollzieht die Bestimmungen über die Globalbeiträge zur langfristigen Verminderung der CO<sub>2</sub>-Emissionen bei Gebäuden und über die Beiträge für die direkte Nutzung der Geothermie.[^130-4]
 
@@ -2644,9 +2775,22 @@ Das BAFU informiert die Öffentlichkeit insbesondere über:
 
 [^130-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^130-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
-[^130-3]: Fassung gemäss Ziff. I der V vom 8. Okt. 2014, in Kraft seit 1. Dez. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
+[^130-3]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^130-4]: Eingefügt durch Ziff. I der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Fassung gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 [^130-5]: Eingefügt durch Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+
+#### Art. 130a
+
+**Informations- und Dokumentationssysteme**[^130a-1]
+
+- [tab] <sup>1</sup> Die folgenden Verfahren werden elektronisch über die Informations-und Dokumentationssysteme des BAFU durchgeführt:
+- a. Verfahren über die Ausstellung von Bescheinigungen für Emissionsverminderungen oder die Erhöhung der Senkenleistungen (Art. 5–11);
+- b. Verfahren über die Teilnahme am EHS (Art. 40–46*f* und Art. 50–54);
+- c. Verfahren über die Verminderungsverpflichtung (Art. 66–79).
+- [tab] <sup>2</sup> Wenn die Informations- und Dokumentationssysteme in einzelnen Bereichen noch nicht für die Durchführung von elektronischen Verfahren eingerichtet sind, müssen die Eingaben postalisch erfolgen.
+- [tab] <sup>3</sup> Das BAFU kann in Abweichung von Absatz 1 Verfügungen postalisch erlassen.
+
+[^130a-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 131
 
@@ -3082,6 +3226,18 @@ Emissionsverminderungen im Ausland sind bis im Jahr 2021 anrechenbar, wenn:
 
 #### Art. 146m
 
+**Beginn der Umsetzung für Projekte und Programme im Ausland oder zur Erhöhung der Senkenleistung im Inland**
+
+In Abweichung von Artikel 5 Absatz 1 Buchstabe d werden für Projekte und Programme Bescheinigungen ausgestellt, wenn:
+
+- a. sie vor dem 1. Januar 2022 gestützt auf eine vertragliche Vereinbarung zwischen der Schweizerischen Eidgenossenschaft und der Stiftung Klimarappen in einem Partnerstaat umgesetzt wurden;
+- b.
+
+  sie nach dem 1. Januar 2022:
+
+  - 1\. im Ausland umgesetzt werden oder die Senkenleistung im Inland erhöhen, und
+  - 2\. die gesuchstellende Person das Gesuch nach Artikel 7 bis am 30. September 2022 einreicht.
+
 #### Art. 146n
 
 **Vorläufige Rückerstattung der CO<sub>2</sub>-Abgabe 2022**
@@ -3190,11 +3346,11 @@ Anhang 1
 
 Anhang 2*[^t-1]*
 
-(Art. 4 Abs. 2 Bst. b)
+(Art. 146l Bst. b)
 
 ## Nicht anrechenbare Emissionsverminderungen im Ausland
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)) und Ziff. II Abs. 1 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), Ziff. II Abs. 1 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) und Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 \1. Folgende Emissionsminderungszertifikate werden nicht angerechnet:
 
@@ -3218,33 +3374,61 @@ Anhang 2*[^t-1]*
 
 [^annex2-lvlu1-1]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 
-Anhang 3*[^t-2]*
+Anhang 2a*[^t-2]*
 
 (Art. 5 Abs. 1 Bst. a)
 
-## Emissionsverminderungen im Inland, für die keine Bescheinigungen ausgestellt werden
+## Emissionsverminderungen oder Erhöhung der Senkenleistungen im Ausland, für die keine Bescheinigungen ausgestellt werden
 
-[^t-2]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), Ziff. II Abs. 1 der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)) und 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-2]: Eingefügt durch Ziff. II Abs. 1 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-Für ein Projekt oder Programm zur Emissionsverminderung im Inland werden keine Bescheinigungen ausgestellt, wenn die Emissionsverminderungen erzielt werden durch:
+- [tab] Für ein Projekt oder Programm im Ausland werden keine internationalen Bescheinigungen ausgestellt, wenn die Emissionsverminderungen oder die Erhöhungen der Senkenleistungen erzielt werden durch:
+- a. Investitionen in die Nutzung fossiler Brenn- oder Treibstoffe zur Energiegewinnung oder in die Extraktion fossiler Energieträger;
+- b. den Einsatz von Kernenergie;
+- c. den Einsatz von Wasserkraftanlagen mit einer installierten Produktionskapazität von mehr als 20 MW;
+- d. Projekte in industriellen Grossbetrieben, die nicht dem im globalen Markt verfügbaren Stand der Technik entsprechen;
+- e. Aktivitäten im Abfallsektor ohne stoffliche oder energetische Nutzung oder Reduktion des Abfalls;
+- f. Projekte zur biologischen CO<sub>2</sub>-Sequestrierung;
+- g. die Reduktion von Entwaldung;
+- h. die Degradierung von Wäldern;
+- i. den Verzicht auf die Extraktion fossiler Energieträger;
+- j. Aktivitäten, die im Widerspruch zu von der Schweiz ratifizierten Umwelt- und Menschenrechtsübereinkommen stehen;
+- k. Aktivitäten, die erhebliche negative soziale oder ökologische Auswirkungen haben;
+- l. Aktivitäten, die Anliegen der Aussen- oder Entwicklungspolitik der Schweiz widersprechen.
+
+Anhang 3*[^t-3]*
+
+(Art. 5 Abs. 1 Bst. a)
+
+## Emissionsverminderungen oder Erhöhung der Senkenleistungen im Inland, für die keine Bescheinigungen ausgestellt werden
+
+[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+
+Für ein Projekt oder Programm im Inland werden keine nationalen Bescheinigungen ausgestellt, wenn die Emissionsverminderungen oder die Erhöhung der Senkenleistungen erzielt werden durch:
 
 - a. den Einsatz von Kernenergie;
-- b. den Einsatz biologischer oder geologischer CO<sub>2</sub>-Sequestrierung; ausgenommen ist die biologische CO<sub>2</sub>-Sequestrierung in Holzprodukten;
-- b<sup>bis</sup>. die Wiedervernässung von Mooren und Feuchtgebieten;
-- c. Forschung und Entwicklung oder Information und Beratung;
-- d. den Einsatz biogener Brenn- und Treibstoffe, die den Anforderungen an biogene Treibstoffe nach Artikel 12*b* Absätze 1 und 3 des Mineralölsteuergesetzes vom 21. Juni 1996[^annex3-lvlu1-1] und der dazugehörigen Ausführungsvorschriften nicht entsprechen;
-- e. einen Treibstoffwechsel von Benzin- oder Dieselfahrzeugen zu Erdgasfahrzeugen; ausgenommen ist der Wechsel ganzer Fahrzeugflotten;
-- f. den Ersatz von fossilen Heizkesseln durch fossile Heizkessel.
+- b. Forschung und Entwicklung oder Information und Beratung;
+- c. den Einsatz biogener Brenn- und Treibstoffe, die den ökologischen und sozialen Anforderungen nach Artikel 12*b* des Mineralölsteuergesetzes vom 21. Juni 1996[^annex3-lvlu1-1] und der dazugehörigen Ausführungsvorschriften nicht entsprechen;
+- d. den Ersatz fossiler Energieträger durch fossile Energieträger (z.B. in Heizkesseln, Fahrzeugen und Hybridfahrzeugen);
+- e. den Einsatz von Wasserstoff; ausgenommen ist die Verwendung von Biowasserstoff nach Artikel 19*a* Buchstabe f der Mineralölsteuerverordnung vom 20. November 1996[^annex3-lvlu1-2] in Brennstoffzellen;
+- f. Strom als Brennstoffersatz für Prozesswärme; ausgenommen ist die Verwendung in Wärmepumpen;
+- g. Nutzungsverzicht oder Unternutzung;
+- h. den Einsatz von Pflanzenkohle; ausgenommen ist der Einsatz von weniger als acht Tonnen pro Hektare pro Kreditierungsperiode, wenn die eingesetzte Pflanzenkohle den Anforderungen nach der Dünger-Verordnung vom 10. Januar 2001[^annex3-lvlu1-3] entspricht;
+- i. den Einsatz von Ad- und Absorptionstechniken zur Bereitstellung von Kälte oder Wärme; ausgenommen ist deren Einsatz bei der dezentralen Nutzung von ausreichend verfügbarer Abwärme nach Artikel 2 Buchstabe e der Energieförderungsverordnung vom 1. November 2017[^annex3-lvlu1-4].
+- [tab]
 
 [^annex3-lvlu1-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^annex3-lvlu1-2]: [SR 641.611](https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393)
+[^annex3-lvlu1-3]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^annex3-lvlu1-4]: [SR 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 
-Anhang 3a*[^t-3]*
+Anhang 3a*[^t-4]*
 
 (Art. 6 Abs. 2<sup>bis</sup>)
 
 ## Anforderungen an die Berechnung der Emissionsverminderungen und das Monitoringkonzept für Projekte und Programme im Zusammenhang mit Wärmeverbünden
 
-[^t-3]: Eingefügt durch Ziff. II Abs. 1 der V vom 21. Sept. 2018, in Kraft seit 1. Nov. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Bereinigt gemäss Berichtigung vom 19. Febr. 2019 ([AS 2019 683](https://fedlex.data.admin.ch/eli/oc/2019/118)), Ziff. II Abs. 1 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)) und 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-4]: Eingefügt durch Ziff. II Abs. 1 der V vom 21. Sept. 2018, in Kraft seit 1. Nov. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Bereinigt gemäss Berichtigung vom 19. Febr. 2019 ([AS 2019 683](https://fedlex.data.admin.ch/eli/oc/2019/118)), Ziff. II Abs. 1 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)) und 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 ### 1 Geltungsbereich
 
@@ -3334,13 +3518,13 @@ dabei bedeuten:
 
 ### 3.5 Berechnung der Projekt- oder Programmemissionen
 
-Die jährlichen Projektemissionen des Projektes oder die Projektemissionen eines jeden Vorhabens des Programmes sind wie folgt zu berechnen:
+Die jährlichen Projektemissionen des Projekts oder die Projektemissionen eines jeden Projekts des Programmes sind wie folgt zu berechnen:
 
 *PE**<sub>y</sub>* *= EF2**<sub>Heizöl</sub>* *\* M**<sub>Heizöl,y</sub>* *+ EF2**<sub>Gas</sub>* *\* M**<sub>Gas,y</sub>* *+ EF**<sub>el</sub>* *\* M**<sub>el,y</sub>* (4)
 
 dabei bedeuten:
 
-- PE<sub>y</sub> Erwartete Projektemissionen des Projektes oder des Vorhabens des Programmes im Jahr y [tCO<sub>2</sub>eq]
+- PE<sub>y</sub> Erwartete Projektemissionen des Projekts oder des Projekts des Programmes im Jahr y [tCO<sub>2</sub>eq]
 - M<sub>Heizöl,y</sub> Erwartete Menge an verbranntem Heizöl zum Betrieb der Heizzentrale im Jahr y [l]; dieser Parameter wird im Monitoring durch den gemessenen Wert nach Ziffer 4.4 ersetzt.
 - M<sub>Gas,y</sub> Erwartete Menge an verbranntem Gas zum Betrieb der Heizzentrale im Jahr y [Nm<sup>3</sup>]; dieser Parameter wird im Monitoring durch den gemessenen Wert nach Ziffer 4.5 ersetzt.
 - M<sub>el,y</sub> Erwartete Menge an elektrischer Energie zum Betrieb von Wärmepumpen in der Heizzentrale im Jahr y [kWh]; dieser Parameter wird im Monitoring durch den gemessenen Wert nach Ziffer 4.6 ersetzt.
@@ -3349,7 +3533,7 @@ dabei bedeuten:
 
 ### 3.6 Berechnung der Emissionsverminderungen
 
-Die jährlichen Emissionsverminderungen sind für Projekte oder Vorhaben von Programmen wie folgt zu berechnen:
+Die jährlichen Emissionsverminderungen sind für Projekte oder Projekte von Programmen wie folgt zu berechnen:
 
 - *ER**<sub>y</sub>* *= RE**<sub>y</sub>* *– PE**<sub>y</sub>* (5)
 
@@ -3446,13 +3630,13 @@ Bei der Messung von elektrischer Energie (M<sub>el,y</sub>) sind alle der folgen
 - d. Die Messung hat kontinuierlich zu erfolgen.
 - e. Die Qualitätssicherung hat nach den Vorgaben der MessMV und den entsprechenden Ausführungsvorschriften des EJPD zu erfolgen.
 
-Anhang 3b*[^t-4]*
+Anhang 3b*[^t-5]*
 
-(Art. 6 Abs. 2<sup>bis</sup>)
+(Art. 6 Abs. 4)
 
 ## Anforderungen an die Berechnung der Emissionsverminderungen und das Monitoringkonzept für Deponiegasprojekte- und -programme
 
-[^t-4]: Eingefügt durch Ziff. II Abs. 1 der V vom 21. Sept. 2018, in Kraft seit 1. Nov. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)).
+[^t-5]: Eingefügt durch Ziff. II Abs. 1 der V vom 21. Sept. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Geltungsbereich
 
@@ -3490,23 +3674,22 @@ Im Sinne dieses Anhangs bedeuten:
 
 Für die Festlegung des Werts für den in den Berechnungen der Emissionsverminderungen notwendige Paramater Oxidationsfaktor (OX) ist der folgende Entscheidungsbaum zu verwenden:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220304/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220601/de/xml/image/image1.png)
 
 ### 3.3 Ex-ante Berechnung der Emissionsverminderungen
 
-Die Emissionsverminderungen können ex-ante aufgrund von Messdaten der vorhergegangenen ein bis drei Jahre ermittelt oder gemäss nachfolgender Formel berechnet werden:
+- [tab] Die Emissionsverminderungen können ex-ante aufgrund von Messdaten der vorhergegangenen ein bis drei Jahre ermittelt oder gemäss nachfolgender Formel berechnet werden:
 
-*ER**<sub>ex-ante,y,Fackel</sub>* *= (AE – OX) \* SE \* FOD**<sub>CH4,y</sub>* *\* GWP**<sub>eff,CH4</sub>* *– PE**<sub>y</sub>* (1)
+*ER**<sub>ex-ante,y,Fackel</sub>* *= (AE – OX) \* SE \* FOD**CH4,y* *\* GWP**eff,CH4* *– PE**y* (1)
 
-dabei bedeuten:
-
+- [tab] dabei bedeuten:
 - ER<sub>ex-ante,y,Fackel</sub> Abgeschätzte Emissionsverminderungen bei einer Schwachgasbehandlung im Jahr y (tCO<sub>2</sub>eq).
-- GWP<sub>eff,CH4</sub> Effektives Treibhausgaspotenzial von Methan (22.25 tCO<sub>2</sub>eq / t CH<sub>4</sub>).
+- GWP<sub>eff,CH4</sub> Effektives Treibhausgaspotenzial von Methan (25,25 tCO<sub>2</sub>eq / t CH<sub>4</sub>).
 - AE Abfackelungseffizienz.
 - OX Oxidationsfaktor.
 - SE Saugeffizienz.
 - FOD<sub>CH4,y</sub> Die mit einer «First Order Decay» Formel berechnete Methanmenge, die in der Deponie im Jahr y erzeugt wird (t CH<sub>4</sub>); s. Formel (2).
-- PE<sub>y</sub> Projektemissionen aus dem Jahr y
+- PE<sub>y</sub> Projektemissionen aus dem Jahr y.
 
 *FOD**<sub>CH4,y</sub>* *= (16/12) \* F \* DOC**<sub>f</sub>* *\* ∑**<sub>x</sub>* *∑**<sub>j</sub>* *A**<sub>j,x</sub>* *\* DOC**<sub>j</sub>* *\**
 
@@ -3569,8 +3752,8 @@ Im Monitoringbericht ist der Wert der Abfackelungseffizienz (AE) wie folgt festz
   Es gilt die folgende Vorgehensweise zu beachten:
 
   - 1\. Als Pauschalwert ist ein Wert von 90 % für die Verbrennungseffizienz einer geschlossenen Fackel zu verwenden.
-  - 2\. Gesuchsteller können auch die Herstellerangaben verwenden, falls nachgewiesen werden kann, dass diese eingehalten werden.
-  - 3\. Gesuchsteller können eigene Messungen vornehmen.
+  - 2\. Gesuchstellende Personen können auch die Herstellerangaben verwenden, falls nachgewiesen werden kann, dass diese eingehalten werden.
+  - 3\. Gesuchstellende Personen können eigene Messungen vornehmen.
 
 - c. Die Festlegung der Abfackelungseffizienz muss als Anteil (%) erfolgen.
 - d. Die Festlegung hat jährlich zu erfolgen.
@@ -3616,13 +3799,13 @@ Bei der Bestimmung der Gasmenge (M<sub>Gas,y</sub>) sind alle der folgenden Anfo
 - d. Die Messung hat kontinuierlich oder bei jeder Lieferung neuer Gasflaschen zu erfolgen.
 - e. Die Qualitätssicherung hat gemäss Herstellerangaben zu erfolgen.
 
-Anhang 4*[^t-5]*
+Anhang 4*[^t-6]*
 
 (Art. 25 Abs. 2)
 
 ## Berechnung der CO<sub>2</sub>-Emissionen von Fahrzeugen ohne Angaben nach Artikel 25 Absatz 2
 
-[^t-5]: Fassung gemäss Ziff. II Abs. 2 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-6]: Fassung gemäss Ziff. II Abs. 2 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Berechnung der CO<sub>2</sub>-Emissionen von Personenwagen
 
@@ -3702,13 +3885,13 @@ Anhang 4*[^t-5]*
   - a. Ist der Wert der zweiten Dezimalstelle 4 oder kleiner, so wird abgerundet.
   - b. Ist der Wert der zweiten Dezimalstelle 5 oder grösser, so wird aufgerundet.
 
-Anhang 4a*[^t-6]*
+Anhang 4a*[^t-7]*
 
 (Art. 28 Abs. 1)
 
 ## Berechnung der individuellen Zielvorgabe
 
-[^t-6]: Eingefügt durch Ziff. II Abs. 3 der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Bereinigt gemäss Ziff. I der V des UVEK vom 16. Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), vom 18. Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) und vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-7]: Eingefügt durch Ziff. II Abs. 3 der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Bereinigt gemäss Ziff. I der V des UVEK vom 16. Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), vom 18. Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) und vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Berechnung der individuellen Zielvorgabe
 
@@ -3752,13 +3935,13 @@ Anhang 4a*[^t-6]*
   - c. 2020: 2089 kg.
   - [tab]
 
-Anhang 5*[^t-7]*
+Anhang 5*[^t-8]*
 
 (Art. 29 Abs. 1)
 
 ## Sanktionsbeträge bei Überschreiten der individuellen Zielvorgabe (Art. 13 Abs. 1 des CO<sub>2</sub>-Gesetzes)
 
-[^t-7]: Fassung gemäss Ziff. I Abs. 2 der V des UVEK vom 21. Sept. 2018 ([AS 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Bereinigt gemäss Ziff. I der V des UVEK vom 16. Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), vom 18. Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)) und Ziff. II Abs. 1 der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-8]: Fassung gemäss Ziff. I Abs. 2 der V des UVEK vom 21. Sept. 2018 ([AS 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Bereinigt gemäss Ziff. I der V des UVEK vom 16. Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), vom 18. Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)) und Ziff. II Abs. 1 der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Sanktionsbeträge für das Referenzjahr 2017
 
@@ -3788,13 +3971,13 @@ Die zu entrichtenden Sanktionsbeträge bei Überschreiten der individuellen Ziel
 - d. für das Referenzjahr 2022: 104 Franken.
 - [tab]
 
-Anhang 6*[^t-8]*
+Anhang 6*[^t-9]*
 
 (Art. 40 Abs. 1)
 
 ## Zur Teilnahme am EHS verpflichtete Betreiber von Anlagen
 
-[^t-8]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), Anhang 6 Ziff. 2 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)) und Ziff. II Abs. 1 der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)) und 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-9]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), Anhang 6 Ziff. 2 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)) und Ziff. II Abs. 1 der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)) und 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 Ein Betreiber von Anlagen, der mindestens eine der folgenden Tätigkeiten ausübt, muss am EHS teilnehmen:
 
@@ -3827,13 +4010,13 @@ Ein Betreiber von Anlagen, der mindestens eine der folgenden Tätigkeiten ausüb
 
 [^annex6-lvlu1-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
 
-Anhang 7*[^t-9]*
+Anhang 7*[^t-10]*
 
 (Art. 42 Abs. 1 Bst. a und 66 Abs. 1 Bst. a und b und 3 Bst. a und b)
 
 ## Tätigkeiten, die zur Teilnahme am EHS oder zur Abgabebefreiung mit Verminderungsverpflichtung berechtigen
 
-[^t-9]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)) und Ziff. II Abs. 1 vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^t-10]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)) und Ziff. II Abs. 1 vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 
 - 1\. Anbau von Pflanzen in Gewächshäusern;
 - 2\. Gewinnung von Steinen und Erden und sonstiger Bergbau;
@@ -3858,13 +4041,13 @@ Anhang 7*[^t-9]*
 - 20\. Produktion von fossil erzeugter Wärme oder Kälte, allenfalls gekoppelt mit der Produktion von Strom, die in regionale Fernwärme- und Fernkältenetze eingespeist oder an Betreiber von Anlagen geliefert wird, die Tätigkeiten nach den Ziffern 1–19 und 21 ausüben;
 - 21\. Reinigung von Fässern, Containern und anderen Gebinden, die im Zusammenhang mit Tätigkeiten nach diesem Anhang verwendet werden.
 
-Anhang 8*[^t-10]*
+Anhang 8*[^t-11]*
 
 *(*Art. 45 Abs. 1 und 48 Abs. 1<sup>bis</sup>)
 
 ## Berechnung der maximal zur Verfügung stehenden Menge der Emissionsrechte für Betreiber von Anlagen im EHS und Berechnung der Umlaufmenge
 
-[^t-10]: Fassung gemäss Ziff. II Abs. 2 der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-11]: Fassung gemäss Ziff. II Abs. 2 der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Maximal zur Verfügung stehende Menge der Emissionsrechte für Betreiber von Anlagen im EHS
 
@@ -3889,13 +4072,13 @@ Die jährlich für die Gesamtheit der Betreiber von Anlagen im EHS maximal zur V
 
 - 2\.3 Die Nachfrage nach Emissionsrechten für Anlagen ist das Ergebnis folgender Subtraktion: die in der Zeit vom Jahr 2013 bis zum Vorjahr nach Artikel 55 relevanten Treibhausgasemissionen der Anlagen abzüglich der Emissionsminderungszertifikate, die für die Jahre 2013–2020 zur Deckung dieser Treibhausgasemissionen abgegeben worden sind.
 
-Anhang 9*[^t-11]*
+Anhang 9*[^t-12]*
 
 (Art. 46 Abs. 1, 46*a* Abs. 2 sowie 46*b* Abs. 1 und 3)
 
 ## Berechnung der kostenlos zugeteilten Emissionsrechte für Betreiber von Anlagen im EHS
 
-[^t-11]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), vom 22. Juni 2016 ([AS 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)), Ziff. II Abs. 1 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), der Berichtigung vom 10. Febr. 2021 ([AS 2021 80](https://fedlex.data.admin.ch/eli/oc/2021/80)) und Ziff. II Abs. 1 der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-12]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), vom 22. Juni 2016 ([AS 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)), Ziff. II Abs. 1 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), der Berichtigung vom 10. Febr. 2021 ([AS 2021 80](https://fedlex.data.admin.ch/eli/oc/2021/80)), Ziff. II Abs. 1 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Benchmarks
 
@@ -3960,7 +4143,7 @@ Anhang 9*[^t-11]*
 - 1\.2 Ist kein Produktbenchmark anwendbar, so wird die Menge der jährlich kostenlos zuzuteilenden Emissionsrechte nach dem Wärmebenchmark wie folgt berechnet:
 -
 
-  47,3 Emissionsrechte pro TJ messbarer Wärme, wobei nur erzeugte messbare Wärme oder von anderen Anlagen, deren Betreiber am EHS teilnehmen, importierte messbare Wärme zuteilungsberechtigt ist, soweit diese Wärme nicht aus Strom erzeugt wird und:
+  47,3 Emissionsrechte pro TJ messbarer Wärme, wobei nur erzeugte messbare Wärme oder von anderen Anlagen, deren Betreiber am EHS teilnehmen, importierte messbare Wärme zuteilungsberechtigt ist, soweit diese Wärme nicht mit Strom oder durch den Einsatz von Kernenergie erzeugt wird und:
 
   - a. innerhalb der Systemgrenzen des Betreibers von Anlagen, der am EHS teilnimmt, genutzt wird zur Herstellung von Produkten, zur Erzeugung anderer als zur Stromerzeugung verwendeter mechanischer Energie, zur Heizung oder zur Kühlung, jedoch nicht zur Stromerzeugung; oder
   - b. an Dritte ausserhalb des EHS exportiert wird, mit Ausnahme von Exporten für die Stromerzeugung und der Weiterleitung importierter Wärme.
@@ -3970,7 +4153,7 @@ Anhang 9*[^t-11]*
 - 1\.4 Ist keiner der Benchmarks nach den Ziffern 1.1–1.3 anwendbar, so wird die Menge der jährlich kostenlos zuzuteilenden Emissionsrechte basierend auf dem 0,97–Fachen der Prozessemissionen berechnet.
 - 1\.5 Beim Einsatz von Gasen, die aus Prozessen herrühren und einen wesentlichen Anteil an unvollständig oxidiertem Kohlenstoff aufweisen (Restgase), erfolgt eine zusätzliche kostenlose Zuteilung zum Ausgleich für höhere CO<sub>2</sub>-Emissionen und niedrigere Effizienz der Nutzung von Restgasen im Vergleich zu Erdgas. Diese Zuteilung erfolgt nur, wenn das Restgas ausserhalb eines Zuteilungselements mit Produktbenchmark anfällt und innerhalb der Anlage im EHS zur Erzeugung von messbarer oder nicht messbarer Wärme oder für die Produktion von Strom verwendet wird.
 - 1\.6 Für die bei der Herstellung von Salpetersäure angefallene Wärme werden keine Emissionsrechte kostenlos zugeteilt.
-- 1\.7 Wird innerhalb eines Zuteilungselements mit Produktbenchmark genutzte Wärme von Dritten ausserhalb des EHS importiert, stammt sie aus der Herstellung von Salpetersäure oder wird sie aus Strom erzeugt, so wird die nach dem Produktbenchmark berechnete Menge der kostenlos zuzuteilenden Emissionsrechte um diese Wärmemenge, multipliziert mit dem Wärmebenchmark von 47,3 Emissionsrechten pro TJ, reduziert.
+- 1\.7 Wird innerhalb eines Zuteilungselements mit Produktbenchmark genutzte Wärme von Dritten ausserhalb des EHS importiert, stammt sie aus der Herstellung von Salpetersäure oder wird sie mit Strom oder durch den Einsatz von Kernenergie erzeugt, so wird die nach dem Produktbenchmark berechnete Menge der kostenlos zuzuteilenden Emissionsrechte um diese Wärmemenge, multipliziert mit dem Wärmebenchmark von 47,3 Emissionsrechten pro TJ, reduziert.
 
 ### 2 Allgemeine Berechnung der Menge der kostenlos zuzuteilenden Emissionsrechte
 
@@ -4072,13 +4255,13 @@ Anhang 9*[^t-11]*
   - 2\. das Verhältnis der direkten Emissionen zur Summe der direkten und indirekten Emissionen gemäss Ziffer 4.1.
   - [tab]
 
-Anhang 10*[^t-12]*
+Anhang 10*[^t-13]*
 
 (Art. 86 Abs. 1 und 89 Abs. 2)
 
 ## Treibstoffe, deren CO<sub>2</sub>-Emissionen kompensiert werden müssen
 
-[^t-12]: Eingefügt durch Anhang 2 Ziff. 3 der V vom 29. März 2017 über das Bundesinventar der Landschaften und Naturdenkmäler, in Kraft seit 1. Juni 2017 ([AS 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)).
+[^t-13]: Eingefügt durch Anhang 2 Ziff. 3 der V vom 29. März 2017 über das Bundesinventar der Landschaften und Naturdenkmäler, in Kraft seit 1. Juni 2017 ([AS 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)).
 
 <table>
 <tr><td>Zolltarifnummer[^annex10-lvlu1-1]</td><td>Warenbezeichnung</td><td>Emissionsfaktor t CO<sub>2</sub> je 1000 kg</td><td>Emissionsfaktor t CO<sub>2</sub> je TJ</td><td>Emissionsfaktor t CO<sub>2</sub> je m<sup>3</sup></td></tr>
@@ -4097,17 +4280,15 @@ Anhang 10*[^t-12]*
 
 [^annex10-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
 
-Anhang 11*[^t-13]*
+Anhang 11*[^t-14]*
 
 (Art. 94 Abs. 2)
 
-## Höhe der CO<sub>2</sub>-Abgabe und Abgabesätze
+## Tarif der CO<sub>2</sub>-Abgabe auf Brennstoffen: 120 Franken pro Tonne CO<sub>2</sub>
 
-[^t-13]: Fassung gemäss Ziff. II Abs. 2 der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-14]: Fassung gemäss Ziff. II Abs. 2 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-### 1 Höhe der CO<sub>2</sub>-Abgabe
-
-Die CO<sub>2</sub>-Abgabe beträgt 120 Franken pro Tonne CO<sub>2</sub>.
+### 1 …
 
 ### 2 Abgabesätze
 
@@ -4138,51 +4319,52 @@ Für die folgenden Brennstoffe gelten die folgenden Abgabesätze:
 </table>
 
 <table>
-<tr><th>Zolltarifnummer</th><th>Warenbezeichnung</th><th>Abgabesatz Fr.</th></tr>
-<tr><td></td><td>– – – zu andern Zwecken:</td><td></td></tr>
-<tr><td>1991</td><td>– – – – Petroleum</td><td>301.20</td></tr>
-<tr><td>1992</td><td>– – – – Heizöle zu Feuerungszwecken:</td><td></td></tr>
-<tr><td></td><td>– – – – – extraleicht</td><td>318.00</td></tr>
-<tr><td></td><td></td><td>je 1000 kg</td></tr>
-<tr><td></td><td>– – – – – mittel und schwer</td><td>380.40</td></tr>
-<tr><td>1999</td><td>– – – – andere Destillate und Produkte:</td><td></td></tr>
-<tr><td></td><td></td><td>je 1000 l bei 15 °C</td></tr>
-<tr><td></td><td>– – – – – Gasöl</td><td>318.00</td></tr>
-<tr><td></td><td></td><td>je 1000 kg</td></tr>
-<tr><td></td><td>– – – – – andere</td><td>380.40</td></tr>
-<tr><td></td><td></td><td>je 1000 l bei 15 °C</td></tr>
-<tr><td></td><td>– Erdöle oder Öle aus bituminösen Mineralien (andere als rohe Öle) und anderweit weder genannte noch inbegriffene Zubereitungen mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von 70 % oder mehr, in denen diese Öle den wesentlichen Bestandteil bilden, Biodiesel enthaltend, andere als Ölabfälle:</td><td></td></tr>
-<tr><td>2090</td><td>– – zu andern Zwecken (nur fossiler Anteil)</td><td>318.00</td></tr>
-<tr><td></td><td></td><td>je 1000 lkg</td></tr>
-<tr><td>2711.</td><td>Erdgas und andere gasförmige Kohlenwasserstoffe:</td><td></td></tr>
-<tr><td></td><td>– verflüssigt:</td><td></td></tr>
-<tr><td></td><td>– – Erdgas:</td><td></td></tr>
-<tr><td>1190</td><td>– – – anderes</td><td>321.60</td></tr>
-<tr><td></td><td></td><td>je 1000 l bei 15 °C</td></tr>
-<tr><td></td><td>– – Propan:</td><td></td></tr>
-<tr><td>1290</td><td>– – – anderes</td><td>182.40</td></tr>
-<tr><td></td><td>– – Butane:</td><td></td></tr>
-<tr><td>1390</td><td>– – – andere</td><td>211.20</td></tr>
-<tr><td></td><td>– – Ethylen, Propylen, Butylen und Butadien:</td><td></td></tr>
-<tr><td>1490</td><td>– – – andere</td><td>234.00</td></tr>
-<tr><td></td><td>– – andere:</td><td></td></tr>
-<tr><td>1990</td><td>– – – andere</td><td>234.00</td></tr>
-<tr><td></td><td></td><td>je 1000 kg</td></tr>
-<tr><td></td><td>– in gasförmigem Zustand:</td><td></td></tr>
-<tr><td></td><td>– – Erdgas:</td><td></td></tr>
-<tr><td>2190</td><td>– – – anderes</td><td>321.60</td></tr>
-<tr><td></td><td>– – andere:</td><td></td></tr>
-<tr><td>2990</td><td>– – – andere</td><td>331.30</td></tr>
-<tr><td>2713.</td><td>Petrolkoks, Bitumen aus Erdöl und andere Rückstände aus Erdölen oder Ölen aus bituminösen Mineralien:</td><td></td></tr>
-<tr><td></td><td>– Petrolkoks:</td><td></td></tr>
-<tr><td>1100</td><td>– – nicht calciniert</td><td>349.20</td></tr>
-<tr><td>1200</td><td>– – calciniert</td><td>349.20</td></tr>
-<tr><td></td><td></td><td>je 1000 l bei 15 °C</td></tr>
-<tr><td>2905.</td><td>Acyclische Alkohole und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate: – gesättigte einwertige Alkohole: – – Methanol (Methylalkohol):</td><td colspan="2"></td></tr>
-<tr><td>1190</td><td>– – – anderer (nur fossiler Anteil)</td><td colspan="2">130.75</td></tr>
-<tr><td>3826.</td><td>Biodiesel und seine Mischungen, keine Erdöle oder Öle aus bituminösen Mineralien enthaltend oder mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von weniger als 70 %:</td><td></td></tr>
-<tr><td>0090</td><td>– andere (nur fossiler Anteil)</td><td>318.00</td></tr>
-<tr><td>…</td><td>Brennstoffe aus anderen fossilen Ausgangsstoffen</td><td>278.40</td></tr>
+<tr><th>Zolltarifnummer</th><th>Warenbezeichnung</th><th colspan="2">Abgabesatz Fr.</th></tr>
+<tr><td></td><td>– – – zu andern Zwecken:</td><td colspan="2"></td></tr>
+<tr><td>1991</td><td>– – – – Petroleum</td><td colspan="2">301.20</td></tr>
+<tr><td>1992</td><td>– – – – Heizöle zu Feuerungszwecken:</td><td colspan="2"></td></tr>
+<tr><td></td><td>– – – – – extraleicht</td><td colspan="2">318.00</td></tr>
+<tr><td></td><td></td><td colspan="2">je 1000 kg</td></tr>
+<tr><td></td><td>– – – – – mittel und schwer</td><td colspan="2">380.40</td></tr>
+<tr><td>1993</td><td colspan="2">– – – – Mineralöldestillate, bei denen weniger als 20 % Vol vor 300 °C übergehen, unvermischt</td><td colspan="3">379.40</td></tr>
+<tr><td>1999</td><td>– – – – andere Destillate und Produkte:</td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td colspan="2">je 1000 l bei 15 °C</td></tr>
+<tr><td></td><td>– – – – – Gasöl</td><td colspan="2">318.00</td></tr>
+<tr><td></td><td></td><td colspan="2">je 1000 kg</td></tr>
+<tr><td></td><td>– – – – – andere</td><td colspan="2">380.40</td></tr>
+<tr><td></td><td></td><td colspan="2">je 1000 l bei 15 °C</td></tr>
+<tr><td></td><td>– Erdöle oder Öle aus bituminösen Mineralien (andere als rohe Öle) und anderweit weder genannte noch inbegriffene Zubereitungen mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von 70 % oder mehr, in denen diese Öle den wesentlichen Bestandteil bilden, Biodiesel enthaltend, andere als Ölabfälle:</td><td colspan="2"></td></tr>
+<tr><td>2090</td><td>– – zu andern Zwecken (nur fossiler Anteil)</td><td colspan="2">318.00</td></tr>
+<tr><td></td><td></td><td colspan="2">je 1000 lkg</td></tr>
+<tr><td>2711.</td><td>Erdgas und andere gasförmige Kohlenwasserstoffe:</td><td colspan="2"></td></tr>
+<tr><td></td><td>– verflüssigt:</td><td colspan="2"></td></tr>
+<tr><td></td><td>– – Erdgas:</td><td colspan="2"></td></tr>
+<tr><td>1190</td><td>– – – anderes</td><td colspan="2">321.60</td></tr>
+<tr><td></td><td></td><td colspan="2">je 1000 l bei 15 °C</td></tr>
+<tr><td></td><td>– – Propan:</td><td colspan="2"></td></tr>
+<tr><td>1290</td><td>– – – anderes</td><td colspan="2">182.40</td></tr>
+<tr><td></td><td>– – Butane:</td><td colspan="2"></td></tr>
+<tr><td>1390</td><td>– – – andere</td><td colspan="2">211.20</td></tr>
+<tr><td></td><td>– – Ethylen, Propylen, Butylen und Butadien:</td><td colspan="2"></td></tr>
+<tr><td>1490</td><td>– – – andere</td><td colspan="2">234.00</td></tr>
+<tr><td></td><td>– – andere:</td><td colspan="2"></td></tr>
+<tr><td>1990</td><td>– – – andere</td><td colspan="2">234.00</td></tr>
+<tr><td></td><td></td><td colspan="2">je 1000 kg</td></tr>
+<tr><td></td><td>– in gasförmigem Zustand:</td><td colspan="2"></td></tr>
+<tr><td></td><td>– – Erdgas:</td><td colspan="2"></td></tr>
+<tr><td>2190</td><td>– – – anderes</td><td colspan="2">321.60</td></tr>
+<tr><td></td><td>– – andere:</td><td colspan="2"></td></tr>
+<tr><td>2990</td><td>– – – andere</td><td colspan="2">331.30</td></tr>
+<tr><td>2713.</td><td>Petrolkoks, Bitumen aus Erdöl und andere Rückstände aus Erdölen oder Ölen aus bituminösen Mineralien:</td><td colspan="2"></td></tr>
+<tr><td></td><td>– Petrolkoks:</td><td colspan="2"></td></tr>
+<tr><td>1100</td><td>– – nicht calciniert</td><td colspan="2">349.20</td></tr>
+<tr><td>1200</td><td>– – calciniert</td><td colspan="2">349.20</td></tr>
+<tr><td></td><td></td><td colspan="2">je 1000 l bei 15 °C</td></tr>
+<tr><td>2905.</td><td>Acyclische Alkohole und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate: – gesättigte einwertige Alkohole: – – Methanol (Methylalkohol):</td><td colspan="3"></td></tr>
+<tr><td>1190</td><td>– – – anderer (nur fossiler Anteil)</td><td colspan="3">130.75</td></tr>
+<tr><td>3826.</td><td>Biodiesel und seine Mischungen, keine Erdöle oder Öle aus bituminösen Mineralien enthaltend oder mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von weniger als 70 %:</td><td colspan="2"></td></tr>
+<tr><td>0090</td><td>– andere (nur fossiler Anteil)</td><td colspan="2">318.00</td></tr>
+<tr><td>…</td><td>Brennstoffe aus anderen fossilen Ausgangsstoffen</td><td colspan="2">278.40</td></tr>
 </table>
 
 [^annex11-lvlu1-lvl2-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
@@ -4202,13 +4384,13 @@ Für die folgenden Brennstoffe gelten die folgenden Abgabesätze:
 
 - Die nach Ziffer 3.1 verwendeten Brennstoffe unterliegen den Abgabesätzen nach Ziffer 2.
 
-Anhang 12*[^t-14]*
+Anhang 12*[^t-15]*
 
 (Art. 112–113*b*)
 
 ## Direkte Nutzung der Geothermie für die Wärmebereitstellung
 
-[^t-14]: Eingefügt durch Ziff. II Abs. 3 der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-15]: Eingefügt durch Ziff. II Abs. 3 der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Prospektion und Erschliessung
 
@@ -4279,8 +4461,8 @@ Anhang 12*[^t-14]*
 
   Kann der Prospektionsbeitrag gewährt werden, so werden im Vertrag nach Artikel 113 Absatz 5 insbesondere folgende Punkte geregelt:
 
-  - a. die von der Gesuchstellerin oder dem Gesuchsteller zu erreichenden Meilensteine und die einzuhaltenden Termine;
-  - b. die Informationspflicht der Gesuchstellerin oder des Gesuchstellers gegenüber dem BFE namentlich bezüglich der Finanzrapporte, der Schlussabrechnungen und allfälliger Änderungen des Projekts;
+  - a. die von der gesuchstellenden Person zu erreichenden Meilensteine und die einzuhaltenden Termine;
+  - b. die Informationspflicht der gesuchstellenden Person gegenüber dem BFE namentlich bezüglich der Finanzrapporte, der Schlussabrechnungen und allfälliger Änderungen des Projekts;
   - c. Umfang, Bedingungen und Fälligkeiten des Prospektionsbeitrags;
   - d. vorbehaltlich kantonaler Monopole die unentgeltliche Übertragung der Anlage auf den Bund und die Einräumung eines Kaufrechts am Grundstück zugunsten des Bundes, wenn ein Projekt nicht weiterverfolgt und auch nicht anderweitig genutzt wird;
   - e. die Offenlegung aller finanzieller Daten, die zur Berechnung allfälliger Verluste oder Gewinne nach Artikel 113*b* notwendig sind;
@@ -4337,8 +4519,8 @@ Anhang 12*[^t-14]*
 
   Kann der Erschliessungsbeitrag gewährt werden, so werden im Vertrag nach Artikel 113 Absatz 5 insbesondere folgende Punkte geregelt:
 
-  - a die von der Gesuchstellerin oder dem Gesuchsteller zu erreichenden Meilensteine und die einzuhaltenden Termine;
-  - b. die Informationspflicht der Gesuchstellerin oder des Gesuchstellers gegenüber dem BFE namentlich bezüglich der Finanzrapporte, der Schlussabrechnungen und allfälliger Änderungen des Projekts;
+  - a die von der gesuchstellenden Person zu erreichenden Meilensteine und die einzuhaltenden Termine;
+  - b. die Informationspflicht der gesuchstellenden Person gegenüber dem BFE namentlich bezüglich der Finanzrapporte, der Schlussabrechnungen und allfälliger Änderungen des Projekts;
   - c. Umfang, Bedingungen und Fälligkeiten des Erschliessungsbeitrags;
   - d. vorbehaltlich kantonaler Monopole die unentgeltliche Übertragung der Anlage auf den Bund und die Einräumung eines Kaufrechts am Grundstück zugunsten des Bundes, wenn ein Projekt nicht weiterverfolgt und auch nicht anderweitig genutzt wird;
   - e. die Offenlegung aller finanziellen Daten, die zur Berechnung allfälliger Verluste oder Gewinne nach Artikel 113*d* notwendig sind;
@@ -4354,7 +4536,7 @@ Anhang 12*[^t-14]*
 
 ### 5 Geodaten
 
-- 5\.1 Die Gesuchstellerin oder der Gesuchsteller stellt dem swisstopo und dem Standortkanton jeweils spätestens sechs Monate nach der Erhebung die jeweiligen Geodaten nach den technischen Vorgaben des swisstopo unentgeltlich zur Verfügung.
+- 5\.1 Die gesuchstellende Person stellt dem swisstopo und dem Standortkanton jeweils spätestens sechs Monate nach der Erhebung die jeweiligen Geodaten nach den technischen Vorgaben des swisstopo unentgeltlich zur Verfügung.
 - 5\.2 Das swisstopo darf diese Geodaten gemäss den Zielsetzungen des Geoinformationsgesetz vom 5. Oktober 2007[^annex12-lvlu1-lvl5-1] sowie der Landesgeologieverordnung vom 21. Mai 2008[^annex12-lvlu1-lvl5-2] nutzen und bearbeiten, die Standortkantone gemäss ihren jeweiligen kantonalen Regelungen.
 - 5\.3 Es stellt die primären und die prozessierten primären Geodaten innert 24 Monaten nach Abschluss der Prospektion und innert 12 Monaten nach Abschluss der Erschliessung der Öffentlichkeit zur Verfügung.
 - [tab]
@@ -4362,13 +4544,13 @@ Anhang 12*[^t-14]*
 [^annex12-lvlu1-lvl5-1]: [SR 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
 [^annex12-lvlu1-lvl5-2]: [SR 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
 
-Anhang 13*[^t-15]*
+Anhang 13*[^t-16]*
 
 (Art. 46*d*)
 
 ## Zur Teilnahme am EHS verpflichtete Betreiber von Luftfahrzeugen
 
-[^t-15]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 
 - 1\.
 
@@ -4411,13 +4593,13 @@ Anhang 13*[^t-15]*
 
 [^annex13-lvlu1-1]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
-Anhang 14*[^t-16]*
+Anhang 14*[^t-17]*
 
 (Art. 46*d* Abs. 1 und 2, 51 Abs. 1, 2 und 4, 52 Abs. 1, 6 und 7, 53 Abs. 1 und 2, 55 Abs. 2 sowie 130 Abs. 1)
 
 ## Zuständige Behörde für EHS-Teilnehmer
 
-[^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^t-17]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 
 ### 1 Betreiber von Anlagen
 
@@ -4437,13 +4619,13 @@ Anhang 14*[^t-16]*
 
 [^annex14-lvlu1-lvl2-1]: Siehe Fussnote zu Art. 135 Bst. f.
 
-Anhang 15*[^t-17]*
+Anhang 15*[^t-18]*
 
 (Art. 46*e* und 46*f*)
 
 ## Berechnung der maximal zur Verfügung stehenden Menge der Emissionsrechte und der Menge der kostenlos zuzuteilenden Emissionsrechte für Luftfahrzeuge
 
-[^t-17]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-18]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 - 1\. Die Menge der Emissionsrechte wird basierend auf folgendem Benchmark berechnet:
 - 0,000642186914222035 Emissionsrechte pro Tonnenkilometer
@@ -4480,13 +4662,13 @@ BM Benchmark
 
 Zuteilung<sub>202x</sub> Zuteilung für das Jahr 202x; mit x = 1, 2, 3 etc.
 
-Anhang 16*[^t-18]*
+Anhang 16*[^t-19]*
 
 (Art. 51)
 
 ## Anforderungen an das Monitoringkonzept
 
-[^t-18]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-19]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) und Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Monitoringkonzept für Betreiber von Anlagen
 
@@ -4529,17 +4711,17 @@ Anhang 16*[^t-18]*
 - Kerosin (Jet A-1 oder Jet A): 3,15
 - Jet B: 3,10
 - Flugbenzin (AvGas): 3,10
-- 3\.3 Der Emissionsfaktor von Treibstoffen aus Biomasse ist null, sofern die eingesetzte Biomasse die Nachhaltigkeitskriterien nach Artikel 17 der Richtlinie 2009/28/EG[^annex16-lvlu1-lvl3-1] erfüllt.
+- 3\.3 Der Emissionsfaktor von Treibstoffen aus Biomasse ist null, sofern die eingesetzte Biomasse die Nachhaltigkeitskriterien nach Artikel 29 der Richtlinie (EU) 2018/2001[^annex16-lvlu1-lvl3-1] erfüllt.
 
-[^annex16-lvlu1-lvl3-1]: Richtlinie 2009/28/EG des Europäischen Parlaments und des Rates vom 23. April 2009 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen und zur Änderung und anschliessenden Aufhebung der Richtlinien 2001/77/EG und 2003/30/EG, ABl. L 140 vom 5.6.2009, S. 16; zuletzt geändert durch Richtlinie (EU) 2015/1513, ABl. L 239 vom 15.9.2015, S. 1.
+[^annex16-lvlu1-lvl3-1]: Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (Neufassung), ABl. L 328 vom 21.12.2018, S. 82.
 
-Anhang 17*[^t-19]*
+Anhang 17*[^t-20]*
 
 (Art. 52)
 
 ## Anforderungen an den Monitoringbericht
 
-[^t-19]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-20]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) und Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Monitoringbericht für Betreiber von Anlagen
 
@@ -4572,17 +4754,17 @@ Anhang 17*[^t-19]*
   - h. bei Datenlücken eine Beschreibung der Gründe für die Datenlücke, die angewandte Methode zur Schätzung der Ersatzdaten und die daraus berechneten Emissionen;
   - i. für jedes Flugplatzpaar die Flugplatz-Bezeichnung gemäss ICAO und die Anzahl Flüge, für die Daten zu erfassen sind, und die damit verbundenen Jahresemissionen.
 
-- 2\.2 Kleinemittenten gemäss Artikel 54 Absatz 1 der Verordnung (EU) Nr. 601/2012[^annex17-lvlu1-lvl2-1] können ihren Treibstoffverbrauch mit einem Instrument für Kleinemittenten gemäss Artikel 54 Absatz 2 der Verordnung (EU) Nr. 601/2012 schätzen.
+- 2\.2 Kleinemittenten gemäss Artikel 55 Absatz 1 der Durchführungsverordnung (EU) 2018/2066[^annex17-lvlu1-lvl2-1] können ihren Treibstoffverbrauch mit einem Instrument für Kleinemittenten gemäss Artikel 55 Absatz 2 der Durchführungsverordnung (EU) 2018/2066 schätzen.
 
 [^annex17-lvlu1-lvl2-1]: Siehe Fussnote zu Art. 52 Abs. 5.
 
-Anhang 18*[^t-20]*
+Anhang 18*[^t-21]*
 
 (Art. 52)
 
 ## Verifizierung der Monitoringberichte von Luftfahrzeugbetreibern und Anforderungen an die Verifizierungsstelle
 
-[^t-20]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^t-21]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Pflichten der Verifizierungsstelle und des Luftfahrzeugbetreibers
 
@@ -4624,5 +4806,7 @@ Die Verifizierung der Monitoringberichte erfolgt in folgenden Schritten:
 - 4\.4 Sie muss vertraut sein mit allen relevanten Bestimmungen sowie den geltenden Rechts- und Verwaltungsvorschriften.
 
 [^annex18-lvlu1-lvl4-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^annex18-lvlu1-lvl4-2]: Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates, ABl. L 218 vom 13.8.2008, S. 30.
-[^annex18-lvlu1-lvl4-3]: Durchführungsverordnung (EU) 2018/2067 der Kommission vom 19. Dezember 2018 über die Prüfung von Daten und die Akkreditierung von Prüfstellen gemäss der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates, ABl. L 334 vom 31.12.2018, S. 94.
+[^annex18-lvlu1-lvl4-2]: Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates, ABl. L 218 vom 13.8.2008, S. 30, zuletzt geändert durch Verordnung (EU) 2019/1020, ABl. L 169 vom 25.6.2019, S. 1.
+[^annex18-lvlu1-lvl4-3]: Durchführungsverordnung (EU) 2018/2067 der Kommission vom 19. Dezember 2018 über die Prüfung von Daten und die Akkreditierung von Prüfstellen gemäss der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates, ABl. L 334 vom 31.12.2018, S. 94, zuletzt geändert durch Durchführungsverordnung (EU) 2020/2084, ABl. L 423 vom 15.12.2020, S. 23.
+
+## Inhaltsverzeichnis
