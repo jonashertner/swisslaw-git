@@ -3,20 +3,20 @@ canton: BL
 number: "107.11"
 title: Kantonale Statistikverordnung
 language: de
-version: 2019-05-01
-valid_until: 2022-05-31
-version_adopted: 2019-04-09
+version: 2022-06-01
+valid_until: 2023-02-28
+version_adopted: 2022-05-10
 adopted: 2008-06-17
 in_force: 2008-09-01
 url: "https://bl.clex.ch/app/de/texts_of_law/107.11"
-pdf: "https://bl.clex.ch/api/de/versions/2400/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3333/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonale Statistikverordnung
 
-Vom 17.06.2008 (Stand 01.05.2019)
+Vom 17.06.2008 (Stand 01.06.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
