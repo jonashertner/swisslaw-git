@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Auslän
 short: AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: de
-version: 2022-05-01
+version: 2022-06-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20220501-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20220501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20220601-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20220501/de"
 
 (Ausländer- und Integrationsgesetz, AIG)[^t-1]
 
-vom 16. Dezember 2005 (Stand am 1. Mai 2022)
+vom 16. Dezember 2005 (Stand am 1. Juni 2022)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -464,12 +464,13 @@ Von den Zulassungsvoraussetzungen (Art. 18–29) kann abgewichen werden, um:
 
 <sup>2</sup> Erfüllt die staatenlose Person die Tatbestände nach Artikel 83 Absatz 7, so kommen die Bestimmungen über vorläufig aufgenommene Personen nach Artikel 83 Absatz 8 zur Anwendung.
 
-<sup>3</sup> Staatenlose Personen nach den Absätzen 1 und 2 sowie staatenlose Personen, die mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^31-1] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^31-2] belegt sind, können in der ganzen Schweiz eine Erwerbstätigkeit ausüben. Artikel 61 AsylG[^31-3] gilt sinngemäss.[^31-4]
+<sup>3</sup> Staatenlose Personen nach den Absätzen 1 und 2 sowie staatenlose Personen, die mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^31-1] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^31-2] oder mit einer rechtskräftigen Ausweisung nach Artikel 68 des vorliegenden Gesetzes belegt sind, können in der ganzen Schweiz eine Erwerbstätigkeit ausüben.[^31-3] Artikel 61 AsylG[^31-4] gilt sinngemäss.[^31-5]
 
 [^31-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^31-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^31-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^31-4]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^31-3]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^31-4]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^31-5]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
 ## 6. Kapitel: Regelung des Aufenthalts
 
@@ -1558,26 +1559,28 @@ Die zuständige kantonale Behörde kann einer Person die Auflage machen, ein ihr
 
 <sup>1</sup>
 
-Um die Durchführung eines Wegweisungsverfahrens oder eines strafrechtlichen Verfahrens, in dem eine Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^75-1] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^75-2] droht, sicherzustellen, kann die zuständige kantonale Behörde eine Person, die keine Kurzaufenthalts-, Aufenthalts- oder Niederlassungsbewilligung besitzt, während der Vorbereitung des Entscheides über ihre Aufenthaltsberechtigung für höchstens sechs Monate in Haft nehmen, wenn sie:[^75-3]
+Um die Durchführung eines Weg- oder Ausweisungsverfahrens oder eines strafrechtlichen Verfahrens, in dem eine Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^75-1] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^75-2] droht, sicherzustellen, kann die zuständige kantonale Behörde eine Person, die keine Kurzaufenthalts-, Aufenthalts- oder Niederlassungsbewilligung besitzt, während der Vorbereitung des Entscheides über ihre Aufenthaltsberechtigung für höchstens sechs Monate in Haft nehmen, wenn die Person:[^75-3]
 
-- a.[^75-4] sich im Asylverfahren, im Wegweisungsverfahren oder im strafrechtlichen Verfahren, in dem eine Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG droht, weigert, ihre Identität offenzulegen, mehrere Asylgesuche unter verschiedenen Identitäten einreicht, wiederholt einer Vorladung ohne ausreichende Gründe nicht Folge leistet oder andere Anordnungen der Behörden im Asylverfahren missachtet;
+- a.[^75-4] sich im Asylverfahren, im Weg- oder Ausweisungsverfahren oder im strafrechtlichen Verfahren, in dem eine Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG droht, weigert, ihre Identität offenzulegen, mehrere Asylgesuche unter verschiedenen Identitäten einreicht, wiederholt einer Vorladung ohne ausreichende Gründe nicht Folge leistet oder andere Anordnungen der Behörden im Asylverfahren missachtet;
 - b. ein ihr nach Artikel 74 zugewiesenes Gebiet verlässt oder ein ihr verbotenes Gebiet betritt;
 - c. trotz Einreiseverbot das Gebiet der Schweiz betritt und nicht sofort weggewiesen werden kann;
 - d. nach einem rechtskräftigen Widerruf (Art. 62 und 63) oder einer Nichtverlängerung der Bewilligung wegen Verletzung oder Gefährdung der öffentlichen Sicherheit und Ordnung oder wegen Gefährdung der inneren oder der äusseren Sicherheit weggewiesen wurde und ein Asylgesuch einreicht;
 - e. nach einer Ausweisung (Art. 68) ein Asylgesuch einreicht;
 - f. sich rechtswidrig in der Schweiz aufhält, ein Asylgesuch einreicht und damit offensichtlich bezweckt, den drohenden Vollzug einer Weg- oder Ausweisung zu vermeiden; ein solcher Zweck ist zu vermuten, wenn eine frühere Einreichung des Asylgesuchs möglich und zumutbar war und wenn das Gesuch in einem engen zeitlichen Zusammenhang mit einer Verhaftung, einem Strafverfahren, dem Vollzug einer Strafe oder dem Erlass einer Wegweisungsverfügung eingereicht wird;
 - g. Personen ernsthaft bedroht oder an Leib und Leben erheblich gefährdet und deshalb strafrechtlich verfolgt wird oder verurteilt worden ist;
-- h. wegen eines Verbrechens verurteilt worden ist.
+- h. wegen eines Verbrechens verurteilt worden ist;
+- i.[^75-5] Erkenntnissen von fedpol oder des NDB zufolge die innere oder äussere Sicherheit der Schweiz gefährdet.
 
-<sup>1bis</sup> …[^75-5]
+<sup>1bis</sup> …[^75-6]
 
 <sup>2</sup> Die zuständige Behörde entscheidet über die Aufenthaltsberechtigung der inhaftierten Person ohne Verzug.
 
 [^75-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^75-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^75-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^75-4]: Fassung gemäss Anhang Ziff. 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^75-5]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG) ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Aufgehoben durch Anhang Ziff. I 1 des BB vom 26. Sept. 2014 (Übernahme der V[EU] Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines Antrags auf internationalen Schutz zuständig ist), mit Wirkung seit 1. Juli 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^75-3]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^75-4]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^75-5]: Eingefügt durch Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^75-6]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG) ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Aufgehoben durch Anhang Ziff. I 1 des BB vom 26. Sept. 2014 (Übernahme der V[EU] Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines Antrags auf internationalen Schutz zuständig ist), mit Wirkung seit 1. Juli 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 
 #### Art. 76
 
@@ -1585,14 +1588,14 @@ Um die Durchführung eines Wegweisungsverfahrens oder eines strafrechtlichen Ver
 
 <sup>1</sup>
 
-Wurde ein erstinstanzlicher Weg- oder Ausweisungsentscheid eröffnet oder eine erstinstanzliche Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^76-1] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^76-2], so kann die zuständige Behörde die betroffene Person zur Sicherstellung des Vollzugs:[^76-3]
+Wurde ein erstinstanzlicher Weg- oder Ausweisungsentscheid eröffnet oder eine erstinstanzliche Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^76-1] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^76-2] ausgesprochen, so kann die zuständige Behörde die betroffene Person zur Sicherstellung des Vollzugs:[^76-3]
 
 - a. in Haft belassen, wenn sie sich gestützt auf Artikel 75 bereits in Haft befindet;
 - b.
 
   in Haft nehmen, wenn:
 
-  - 1\.[^76-4] Gründe nach Artikel 75 Absatz 1 Buchstaben a, b, c, f, g oder h vorliegen,
+  - 1\.[^76-4] Gründe nach Artikel 75 Absatz 1 Buchstabe a, b, c, f, g, h oder i vorliegen,
   - 2\.[^76-5] …
   - 3\.[^76-6] konkrete Anzeichen befürchten lassen, dass sie sich der Ausschaffung entziehen will, insbesondere weil sie der Mitwirkungspflicht nach Artikel 90 dieses Gesetzes sowie Artikel 8 Absatz 1 Buchstabe a oder Absatz 4 AsylG[^76-7] nicht nachkommt,
   - 4\. ihr bisheriges Verhalten darauf schliessen lässt, dass sie sich behördlichen Anordnungen widersetzt,
@@ -1609,8 +1612,8 @@ Wurde ein erstinstanzlicher Weg- oder Ausweisungsentscheid eröffnet oder eine e
 
 [^76-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^76-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^76-3]: Fassung gemäss Ziff. IV 1 des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^76-4]: Fassung gemäss Anhang Ziff. I 1 des BB vom 26. Sept. 2014 (Übernahme der V[EU] Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines Antrags auf internationalen Schutz zuständig ist), in Kraft seit 1. Juli 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^76-3]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^76-4]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^76-5]: Aufgehoben durch Anhang Ziff. 1 des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^76-6]: Fassung gemäss Anhang Ziff. 1 des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^76-7]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
@@ -1645,14 +1648,15 @@ Folgende konkrete Anzeichen lassen befürchten, dass sich die betroffene Person 
 - f. Sie hält sich rechtswidrig in der Schweiz auf, reicht ein Asylgesuch ein und bezweckt damit offensichtlich, den drohenden Vollzug einer Wegweisung zu vermeiden.
 - g. Sie bedroht Personen ernsthaft oder gefährdet diese erheblich an Leib und Leben und wird deshalb strafrechtlich verfolgt oder ist deshalb verurteilt worden.
 - h. Sie ist wegen eines Verbrechens verurteilt worden.
-- i. Sie verneint der zuständigen Behörde gegenüber, dass sie in einem Dublin-Staat einen Aufenthaltstitel beziehungsweise ein Visum besitzt oder besessen oder ein Asylgesuch eingereicht hat.
+- i. Sie verneint der zuständigen Behörde gegenüber, dass sie in einem Dublin-Staat einen Aufenthaltstitel beziehungsweise ein Visum besitzt oder besessen oder ein Asylgesuch eingereicht hat;
+- j.[^76a-4] Sie gefährdet Erkenntnissen von fedpol oder des NDB zufolge die innere oder äussere Sicherheit der Schweiz.
 
 <sup>3</sup>
 
 Die betroffene Person kann in Haft belassen oder in Haft genommen werden ab Haftanordnung für die Dauer von höchstens:
 
 - a. sieben Wochen während der Vorbereitung des Entscheides über die Zuständigkeit für das Asylgesuch; dazu gehört die Stellung des Übernahmeersuchens an den anderen Dublin-Staat, die Wartefrist bis zur Antwort oder bis zur stillschweigenden Annahme sowie die Abfassung des Entscheides und dessen Eröffnung;
-- b. fünf Wochen während eines Verfahrens gemäss Artikel 5 der Verordnung (EG) Nr. 1560/2003[^76a-4];
+- b. fünf Wochen während eines Verfahrens gemäss Artikel 5 der Verordnung (EG) Nr. 1560/2003[^76a-5];
 - c. sechs Wochen zur Sicherstellung des Vollzugs zwischen der Eröffnung des Weg- oder Ausweisungsentscheides beziehungsweise nach Beendigung der aufschiebenden Wirkung eines allfällig eingereichten Rechtsmittels gegen einen erstinstanzlich ergangenen Weg- oder Ausweisungsentscheid und der Überstellung der betroffenen Person an den zuständigen Dublin-Staat.
 
 <sup>4</sup> Weigert sich eine Person, ein Transportmittel zur Durchführung der Überstellung in den zuständigen Dublin-Staat zu besteigen, oder verhindert sie auf eine andere Art und Weise durch ihr persönliches Verhalten die Überstellung, so kann sie, um die Überstellung sicherzustellen, in Haft genommen werden, sofern die Anordnung der Haft nach Absatz 3 Buchstabe c nicht mehr möglich ist und eine weniger einschneidende Massnahme nicht zum Ziel führt. Die Haft darf nur so lange dauern, bis die erneute Überstellung möglich ist, jedoch höchstens sechs Wochen. Sie kann mit Zustimmung der richterlichen Behörde verlängert werden, sofern die betroffene Person weiterhin nicht bereit ist, ihr Verhalten zu ändern. Die Höchstdauer dieser Haft beträgt drei Monate.
@@ -1662,7 +1666,8 @@ Die betroffene Person kann in Haft belassen oder in Haft genommen werden ab Haft
 [^76a-1]: Eingefügt durch Anhang Ziff. I 1 des BB vom 26. Sept. 2014 (Übernahme der V[EU] Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines Antrags auf internationalen Schutz zuständig ist), in Kraft seit 1. Juli 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 [^76a-2]: Siehe Fussnote zu Art. 64*a* Abs. 1.
 [^76a-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^76a-4]: Verordnung (EG) Nr. 1560/2003 der Kommission vom 2. Sept. 2003 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 343/2003 des Rates zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen in einem Mitgliedstaat gestellten Asylantrags zuständig ist, ABl. L 222 vom 5.9.2003, S. 3.
+[^76a-4]: Eingefügt durch Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^76a-5]: Verordnung (EG) Nr. 1560/2003 der Kommission vom 2. Sept. 2003 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 343/2003 des Rates zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen in einem Mitgliedstaat gestellten Asylantrags zuständig ist, ABl. L 222 vom 5.9.2003, S. 3.
 
 #### Art. 77
 
@@ -1812,6 +1817,15 @@ Zudem richten sich die Haftbedingungen:
 - b. bei Dublin-Überstellungen: nach Artikel 28 Absatz 4 der Verordnung (EU) Nr. 604/2013[^81-5];
 - c.[^81-6] nach Artikel 37 des Übereinkommens vom 20. November 1989[^81-7] über die Rechte des Kindes.[^81-8]
 
+<sup>5</sup>
+
+Die zuständige Behörde kann anordnen, dass die Möglichkeiten einer inhaftierten Ausländerin oder eines inhaftierten Ausländers eingeschränkt werden, mit bestimmten Personen oder Personengruppen direkt oder über Drittpersonen in Kontakt zu stehen, wenn:
+
+- a. die betreffende Person Erkenntnissen der Polizei- oder Strafverfolgungsbehörden von Bund und Kantonen zufolge eine konkrete Gefahr für die innere oder äussere Sicherheit darstellt; und
+- b. andere Massnahmen erfolglos geblieben sind oder nicht zur Verfügung stehen.[^81-9]
+
+<sup>6</sup> Erweist sich die Einschränkung nach Absatz 5 als nicht ausreichend, um der Gefährdung der inneren oder äusseren Sicherheit wirksam entgegenzutreten, so kann die zuständige Behörde Einzelhaft anordnen.[^81-10]
+
 [^81-1]: Fassung gemäss Art. 2 Ziff. 1 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG), in Kraft seit 1. Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 [^81-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^81-3]: Fassung gemäss Anhang Ziff. I 1 des BB vom 26. Sept. 2014 (Übernahme der V[EU] Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines Antrags auf internationalen Schutz zuständig ist), in Kraft seit 1. Juli 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
@@ -1820,6 +1834,8 @@ Zudem richten sich die Haftbedingungen:
 [^81-6]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^81-7]: [SR 0.107](https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055)
 [^81-8]: Eingefügt durch Anhang Ziff. I 1 des BB vom 26. Sept. 2014 (Übernahme der V[EU] Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines Antrags auf internationalen Schutz zuständig ist), in Kraft seit 1. Juli 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^81-9]: Eingefügt durch Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^81-10]: Eingefügt durch Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 82
 
@@ -1846,7 +1862,7 @@ Der Bund beteiligt sich mit einer Tagespauschale an den Betriebskosten der Kanto
 
 **Anordnung der vorläufigen Aufnahme**
 
-<sup>1</sup> Ist der Vollzug der Weg- oder Ausweisung nicht möglich, nicht zulässig oder nicht zumutbar, so verfügt das SEM die vorläufige Aufnahme.
+<sup>1</sup> Ist der Vollzug der Wegweisung nicht möglich, nicht zulässig oder nicht zumutbar, so verfügt das SEM die vorläufige Aufnahme.[^83-1]
 
 <sup>2</sup> Der Vollzug ist nicht möglich, wenn die Ausländerin oder der Ausländer weder in den Heimat- oder in den Herkunftsstaat noch in einen Drittstaat ausreisen oder dorthin gebracht werden kann.
 
@@ -1854,34 +1870,38 @@ Der Bund beteiligt sich mit einer Tagespauschale an den Betriebskosten der Kanto
 
 <sup>4</sup> Der Vollzug kann für Ausländerinnen oder Ausländer unzumutbar sein, wenn sie in Situationen wie Krieg, Bürgerkrieg, allgemeiner Gewalt und medizinischer Notlage im Heimat- oder Herkunftsstaat konkret gefährdet sind.
 
-<sup>5</sup> Der Bundesrat bezeichnet Heimat- oder Herkunftsstaaten oder Gebiete dieser Staaten, in welche eine Rückkehr zumutbar ist. Kommen weg- oder ausgewiesene Ausländerinnen und Ausländer aus einem dieser Staaten oder aus einem Mitgliedstaat der EU oder der EFTA, so ist ein Vollzug der Weg- oder Ausweisung in der Regel zumutbar.[^83-1]
+<sup>5</sup> Der Bundesrat bezeichnet Heimat- oder Herkunftsstaaten oder Gebiete dieser Staaten, in welche eine Rückkehr zumutbar ist.[^83-2] Kommen weggewiesene Ausländerinnen und Ausländer aus einem dieser Staaten oder aus einem Mitgliedstaat der EU oder der EFTA, so ist ein Vollzug der Wegweisung in der Regel zumutbar.[^83-3]
 
-<sup>5bis</sup> Der Bundesrat überprüft den Beschluss nach Absatz 5 periodisch.[^83-2]
+<sup>5bis</sup> Der Bundesrat überprüft den Beschluss nach Absatz 5 periodisch.[^83-4]
 
 <sup>6</sup> Die vorläufige Aufnahme kann von kantonalen Behörden beantragt werden.
 
 <sup>7</sup>
 
-Die vorläufige Aufnahme nach den Absätzen 2 und 4 wird nicht verfügt, wenn die weg- oder ausgewiesene Person:
+Die vorläufige Aufnahme nach den Absätzen 2 und 4 wird nicht verfügt, wenn die weggewiesene Person:[^83-5]
 
-- a.[^83-3] zu einer längerfristigen Freiheitsstrafe im In- oder Ausland verurteilt wurde oder wenn gegen sie eine strafrechtliche Massnahme im Sinne der Artikel 59–61 oder 64 StGB[^83-4] angeordnet wurde;
+- a.[^83-6] zu einer längerfristigen Freiheitsstrafe im In- oder Ausland verurteilt wurde oder wenn gegen sie eine strafrechtliche Massnahme im Sinne der Artikel 59–61 oder 64 StGB[^83-7] angeordnet wurde;
 - b. erheblich oder wiederholt gegen die öffentliche Sicherheit und Ordnung in der Schweiz oder im Ausland verstossen hat oder diese gefährdet oder die innere oder die äussere Sicherheit gefährdet; oder
-- c. die Unmöglichkeit des Vollzugs der Weg- oder Ausweisung durch ihr eigenes Verhalten verursacht hat.
+- c.[^83-8] die Unmöglichkeit des Vollzugs der Wegweisung durch ihr eigenes Verhalten verursacht hat.
 
-<sup>8</sup> Flüchtlinge, bei denen Asylausschlussgründe nach Artikel 53 und 54 AsylG[^83-5] vorliegen, werden vorläufig aufgenommen.
+<sup>8</sup> Flüchtlinge, bei denen Asylausschlussgründe nach Artikel 53 und 54 AsylG[^83-9] vorliegen, werden vorläufig aufgenommen.
 
-<sup>9</sup> Die vorläufige Aufnahme wird nicht verfügt oder erlischt, wenn eine Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^83-6] rechtskräftig geworden ist.[^83-7]
+<sup>9</sup> Die vorläufige Aufnahme wird nicht verfügt oder erlischt, wenn eine Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^83-10] oder eine Ausweisung nach Artikel 68 des vorliegenden Gesetzes rechtskräftig geworden ist.[^83-11]
 
-<sup>10</sup> Die kantonalen Behörden können mit vorläufig aufgenommenen Personen Integrationsvereinbarungen abschliessen, wenn ein besonderer Integrationsbedarf nach den Kriterien gemäss Artikel 58*a* besteht.[^83-8]
+<sup>10</sup> Die kantonalen Behörden können mit vorläufig aufgenommenen Personen Integrationsvereinbarungen abschliessen, wenn ein besonderer Integrationsbedarf nach den Kriterien gemäss Artikel 58*a* besteht.[^83-12]
 
-[^83-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^83-2]: Eingefügt durch Anhang Ziff. 1 des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^83-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^83-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^83-5]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^83-6]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^83-7]: Eingefügt durch Anhang Ziff. 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^83-8]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^83-1]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^83-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^83-3]: Fassung des zweiten Satzes gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^83-4]: Eingefügt durch Anhang Ziff. 1 des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^83-5]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^83-6]: Fassung gemäss Anhang Ziff. 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^83-7]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^83-8]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^83-9]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^83-10]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^83-11]: Eingefügt durch Anhang Ziff. 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer) ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)). Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^83-12]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
 #### Art. 84
 
@@ -1889,16 +1909,17 @@ Die vorläufige Aufnahme nach den Absätzen 2 und 4 wird nicht verfügt, wenn di
 
 <sup>1</sup> Das SEM überprüft periodisch, ob die Voraussetzungen für die vorläufige Aufnahme noch gegeben sind.
 
-<sup>2</sup> Das SEM hebt die vorläufige Aufnahme auf und ordnet den Vollzug der Weg- oder Ausweisung an, wenn die Voraussetzungen nicht mehr gegeben sind.
+<sup>2</sup> Das SEM hebt die vorläufige Aufnahme auf und ordnet den Vollzug der Wegweisung an, wenn die Voraussetzungen nicht mehr gegeben sind.[^84-1]
 
-<sup>3</sup> Auf Antrag der kantonalen Behörden, von fedpol oder des NDB kann das SEM die vorläufige Aufnahme wegen Unzumutbarkeit oder Unmöglichkeit des Vollzuges (Art. 83 Abs. 2 und 4) aufheben und den Vollzug der Wegweisung anordnen, wenn Gründe nach Artikel 83 Absatz 7 gegeben sind.[^84-1]
+<sup>3</sup> Auf Antrag der kantonalen Behörden, von fedpol oder des NDB kann das SEM die vorläufige Aufnahme wegen Unzumutbarkeit oder Unmöglichkeit des Vollzuges (Art. 83 Abs. 2 und 4) aufheben und den Vollzug der Wegweisung anordnen, wenn Gründe nach Artikel 83 Absatz 7 gegeben sind.[^84-2]
 
-<sup>4</sup> Die vorläufige Aufnahme erlischt mit der definitiven Ausreise, bei einem nicht bewilligten Auslandaufenthalt von mehr als zwei Monaten oder bei Erhalt einer Aufenthaltsbewilligung.[^84-2]
+<sup>4</sup> Die vorläufige Aufnahme erlischt mit der definitiven Ausreise, bei einem nicht bewilligten Auslandaufenthalt von mehr als zwei Monaten oder bei Erhalt einer Aufenthaltsbewilligung.[^84-3]
 
 <sup>5</sup> Gesuche um Erteilung einer Aufenthaltsbewilligung von vorläufig aufgenommenen Ausländerinnen und Ausländern, die sich seit mehr als fünf Jahren in der Schweiz aufhalten, werden unter Berücksichtigung der Integration, der familiären Verhältnisse und der Zumutbarkeit einer Rückkehr in den Herkunftsstaat vertieft geprüft.
 
-[^84-1]: Fassung gemäss Ziff. I 2 der V vom 12. Dez. 2008 über die Anpassung gesetzlicher Bestimmungen infolge Überführung der nachrichtendienstlichen Teile des Dienstes für Analyse und Prävention zum VBS, in Kraft seit 1. Jan. 2009 ([AS 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
-[^84-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^84-1]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^84-2]: Fassung gemäss Ziff. I 2 der V vom 12. Dez. 2008 über die Anpassung gesetzlicher Bestimmungen infolge Überführung der nachrichtendienstlichen Teile des Dienstes für Analyse und Prävention zum VBS, in Kraft seit 1. Jan. 2009 ([AS 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+[^84-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 85
 
@@ -1978,18 +1999,19 @@ Die Aufnahme und die Beendigung der Erwerbstätigkeit sowie ein Stellenwechsel m
 Für die folgenden Personen gelten bezüglich Sozialhilfestandards die gleichen Bestimmungen wie für Flüchtlinge, denen die Schweiz Asyl gewährt hat:
 
 - a. vorläufig aufgenommene Flüchtlinge;
-- b. Flüchtlinge mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^86-3] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^86-4];
+- b.[^86-3] Flüchtlinge, die mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^86-4] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^86-5] oder mit einer rechtskräftigen Ausweisung nach Artikel 68 des vorliegenden Gesetzes belegt sind;
 - c. staatenlose Personen nach Artikel 31 Absätze 1 und 2; und
-- d. staatenlose Personen mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG.[^86-5]
+- d.[^86-6] staatenlose Personen, die mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG oder mit einer rechtskräftigen Ausweisung nach Artikel 68 des vorliegenden Gesetzes belegt sind.
 
-<sup>2</sup> Bezüglich obligatorischer Krankenversicherung für vorläufig aufgenommene Personen sind die entsprechenden Bestimmungen für Asylsuchende nach dem AsylG und dem Bundesgesetz vom 18. März 1994[^86-6] über die Krankenversicherung anwendbar.
+<sup>2</sup> Bezüglich obligatorischer Krankenversicherung für vorläufig aufgenommene Personen sind die entsprechenden Bestimmungen für Asylsuchende nach dem AsylG und dem Bundesgesetz vom 18. März 1994[^86-7] über die Krankenversicherung anwendbar.
 
 [^86-1]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^86-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^86-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^86-4]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^86-5]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^86-6]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^86-3]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^86-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^86-5]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^86-6]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^86-7]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 87
 
@@ -2002,7 +2024,7 @@ Der Bund zahlt den Kantonen für:
 - a.[^87-1] jede vorläufig aufgenommene Person eine Pauschale nach den Artikeln 88 Absätze 1 und 2 und 89 des AsylG[^87-2];
 - b.[^87-3] jeden vorläufig aufgenommenen Flüchtling und jede staatenlose Person nach Artikel 31 Absatz 2 eine Pauschale nach den Artikeln 88 Absatz 3 und 89 AsylG;
 - c.[^87-4] Personen, deren vorläufige Aufnahme rechtskräftig aufgehoben wurde, die Pauschale nach Artikel 88 Absatz 4 AsylG, sofern diese nicht bereits in einem früheren Zeitpunkt ausgerichtet worden ist;
-- d.[^87-5] jede staatenlose Person nach Artikel 31 Absatz 1 und jede staatenlose Person mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^87-6] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^87-7] eine Pauschale nach den Artikeln 88 Absatz 3 und 89 AsylG.
+- d.[^87-5] jede staatenlose Person nach Artikel 31 Absatz 1 und jede staatenlose Person, die mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^87-6] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^87-7] oder mit einer rechtskräftigen Ausweisung nach Artikel 68 des vorliegenden Gesetzes belegt ist, eine Pauschale nach den Artikeln 88 Absatz 3 und 89 AsylG.
 
 <sup>2</sup> Die Übernahme der Ausreisekosten und die Ausrichtung von Rückkehrhilfe richten sich nach den Artikeln 92 und 93 AsylG.
 
@@ -2014,7 +2036,7 @@ Der Bund zahlt den Kantonen für:
 [^87-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^87-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 25. Sept. 2015, in Kraft seit 1. Jan. 2018 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^87-4]: Eingefügt durch Ziff. IV 2 des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^87-5]: Eingefügt durch Anhang Ziff. 1 des BG vom 25. Sept. 2015 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)). Fassung gemäss Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^87-5]: Eingefügt durch Anhang Ziff. 1 des BG vom 25. Sept. 2015 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)). Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^87-6]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^87-7]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^87-8]: Fassung gemäss Anhang Ziff. 1 des BG vom 25. Sept. 2015, in Kraft seit 1. Jan. 2018 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
@@ -2067,7 +2089,7 @@ Die Ausländerinnen und Ausländer sowie an Verfahren nach diesem Gesetz beteili
 
 <sup>2</sup> Wer eine grenzüberschreitende Dienstleistung in Anspruch nimmt, hat sich durch Einsicht in den Ausweis oder durch Nachfrage bei den zuständigen Behörden zu vergewissern, dass die Person, welche die Dienstleistung erbringt, zur Ausübung der Erwerbstätigkeit in der Schweiz berechtigt ist.
 
-### 2. Abschnitt: Pflichten der Transportunternehmen
+### 2. Abschnitt: Pflichten der Transportunternehmen****
 
 [^chap12-sec2-1]
 
@@ -2242,6 +2264,16 @@ Das EDA kann im Einvernehmen mit dem SEM Dritte ermächtigen, folgende Aufgaben 
 <sup>3</sup> Der Bundesrat bestimmt, unter welchen Bedingungen Dritte mit den Aufgaben nach Absatz 1 beauftragt werden können.
 
 [^98b-1]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung der Notenaustausche betreffend das Visa-Informationssystem), in Kraft seit 1. Jan. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272)[5761](https://fedlex.data.admin.ch/eli/oc/2010/814); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
+
+#### Art. 98c
+
+**Zusammenarbeit und Koordination mit fedpol**[^98c-1]
+
+<sup>1</sup> Das SEM arbeitet im Rahmen seiner gesetzlichen Aufgaben bei der Terrorismusbekämpfung mit fedpol zusammen.
+
+<sup>2</sup> Es koordiniert die Massnahmen in seinem Zuständigkeitsbereich mit den vorbeugenden polizeilichen und administrativen Massnahmen von fedpol.
+
+[^98c-1]: Eingefügt durch Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 99
 

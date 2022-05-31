@@ -4,11 +4,11 @@ title: Federal Act of 16 December 2005 on Foreign Nationals (FNA)
 short: FNA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: en
-version: 2022-05-01
+version: 2022-06-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20220501/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20220501-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20220501/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20220601/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20220601-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20220601/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Foreign Nationals and Integration Act, FNIA)**[^t-1]**
 
-of 16 December 2005 (Status as of 1 May 2022)
+of 16 December 2005 (Status as of 1 June 2022)
 
 [^t-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -260,7 +260,7 @@ Foreign nationals may be admitted to work on a self-employed basis if:
 
 <sup>2</sup> It may define quotas for the Confederation and the cantons.
 
-<sup>3</sup> The SEM may, within the federal quota limits, grant first-time short stay and residence permits or increase the cantonal quotas. In doing so, it shall take account of the needs of the cantons and overall economic interests.
+<sup>3</sup> SEM may, within the federal quota limits, grant first-time short stay and residence permits or increase the cantonal quotas. In doing so, it shall take account of the needs of the cantons and overall economic interests.
 
 #### Art. 21
 
@@ -465,12 +465,13 @@ Derogations from the admission requirements (Art. 18–29) are permitted in orde
 
 <sup>2</sup> If the stateless person satisfies the criteria in Article 83 paragraph 7, the provisions on temporarily admitted persons of Article 83 paragraph 8 apply.
 
-<sup>3</sup> Stateless persons in accordance with paragraphs 1 and 2 and stateless persons who are subject to a legally enforceable expulsion order under Articles 66*a* or 66*a*<sup>bis</sup> SCC[^31-1] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^31-2] may work anywhere in Switzerland. Article 61 AsylA[^31-3] applies by analogy.[^31-4]
+<sup>3</sup> Stateless persons in accordance with paragraphs 1 and 2 and stateless persons who are subject to a legally enforceable order for expulsion from Switzerland under Articles 66*a* or 66*a*<sup>bis</sup> SCC[^31-1] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^31-2], or a legally enforceable expulsion order under Article 68 of this Act may work anywhere in Switzerland.[^31-3] Article 61 AsylA[^31-4] applies by analogy.[^31-5]
 
 [^31-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^31-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^31-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^31-4]: Amended by No I of the FA of 14 Dec. 2018 (Procedural Regulations and Information Systems), in force since 1 June 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^31-3]: Amended by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^31-4]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^31-5]: Amended by No I of the FA of 14 Dec. 2018 (Procedural Regulations and Information Systems), in force since 1 June 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
 ## Chapter 6 Regulation of the Period of stay
 
@@ -592,7 +593,7 @@ Persons with a short stay, residence or settlement permit are free to choose the
 
 <sup>2</sup> If a foreign national is not entitled to work, the competent cantonal authority is required to issue a preliminary decision based on the employment market in order to authorise employment, a change of job, or a change to self-employment.
 
-<sup>3</sup> If a canton submits an application to grant a short stay or residence permit in terms of the federal quotas, the SEM shall issue a preliminary decision based on the employment market.
+<sup>3</sup> If a canton submits an application to grant a short stay or residence permit in terms of the federal quotas, SEM shall issue a preliminary decision based on the employment market.
 
 #### Art. 41
 
@@ -608,7 +609,7 @@ Persons with a short stay, residence or settlement permit are free to choose the
 
 <sup>5</sup> The Federal Council specifies which persons are issued with an identity card with a data chip and which data must be stored on the chip.[^41-2]
 
-<sup>6</sup> The SEM specifies the form and the content of identity cards. It may delegate the production of identity cards wholly or partly to third parties.[^41-3]
+<sup>6</sup> SEM specifies the form and the content of identity cards. It may delegate the production of identity cards wholly or partly to third parties.[^41-3]
 
 [^41-1]: Amended by Art. 2 No I of the FD of 18 June 2010 (Development of the Schengen Acquis and Introduction of Biometric Data into Foreign National Identity Cards), in force since 24 Jan. 2011 ([AS 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 [^41-2]: Inserted by Art. 2 No I of the FD of 18 June 2010 (Development of the Schengen Acquis and Introduction of Biometric Data into Foreign National Identity Cards), in force since 24 Jan. 2011 ([AS 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
@@ -639,7 +640,7 @@ The office entrusted with issuing biometric identity cards and the general contr
 
 <sup>2</sup> Beneficial owners, shareholders and members of the board or an equivalent management body, executive managers and other persons who have or could have a significant influence on the undertaking or production of foreign national identity cards must be of good reputation. Security screening in accordance with Article 6 of the Ordinance of 19 December 2001[^41b-2] on Personnel Security Screening may be carried out.
 
-<sup>3</sup> The SEM may at any time request the documents necessary to verify compliance with the requirements listed in paragraphs 1 and 2. If the issuing office is part of a corporate group, the requirements apply to the entire group.
+<sup>3</sup> SEM may at any time request the documents necessary to verify compliance with the requirements listed in paragraphs 1 and 2. If the issuing office is part of a corporate group, the requirements apply to the entire group.
 
 <sup>4</sup> The provisions of paragraphs 1–3 apply to service providers and suppliers if the products or services provided are essential for the production of the identify cards.
 
@@ -908,13 +909,13 @@ The cantons shall provide appropriate integration measures for persons with spec
 
 <sup>1</sup> The Federal Council shall determine the integration policy within the remit of the Confederation. It shall ensure that the federal offices, together with the competent cantonal authorities, take measures to encourage integration and to prevent discrimination.
 
-<sup>2</sup> The SEM shall coordinate the measures by the federal offices to encourage integration and to prevent discrimination, in particular in the areas of social security, vocational education and training, continuing education, and healthcare. The federal offices shall involve the SEM in activities that may have an impact on integration.
+<sup>2</sup> SEM shall coordinate the measures by the federal offices to encourage integration and to prevent discrimination, in particular in the areas of social security, vocational education and training, continuing education, and healthcare. The federal offices shall involve SEM in activities that may have an impact on integration.
 
-<sup>3</sup> The SEM shall ensure there is an exchange of information and experiences with the cantons, communes and other parties involved.
+<sup>3</sup> SEM shall ensure there is an exchange of information and experiences with the cantons, communes and other parties involved.
 
-<sup>4</sup> The cantons shall determine the integration policy within their remit. They shall ensur that the cantonal authorities, together with the competent communal authorities, take measures to encourage integration and to prevent discrimination. They are the SEM’s contact points for integration issues and shall ensure there is an exchange of information and experiences with the communes.
+<sup>4</sup> The cantons shall determine the integration policy within their remit. They shall ensur that the cantonal authorities, together with the competent communal authorities, take measures to encourage integration and to prevent discrimination. They are SEM’s contact points for integration issues and shall ensure there is an exchange of information and experiences with the communes.
 
-<sup>5</sup> In cooperation with the cantons, the SEM shall periodically review the integration of the foreign population and guarantee quality assurance in the measures to encourage integration.
+<sup>5</sup> In cooperation with the cantons, SEM shall periodically review the integration of the foreign population and guarantee quality assurance in the measures to encourage integration.
 
 [^56-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -996,7 +997,7 @@ When assessing integration, the competent authority shall take the following cri
 
 **Issue of travel documents[^59-1]**
 
-<sup>1</sup> The SEM may issue travel documents[^59-2] to foreign nationals without identification documents.
+<sup>1</sup> SEM may issue travel documents[^59-2] to foreign nationals without identification documents.
 
 <sup>2</sup>
 
@@ -1213,7 +1214,7 @@ The competent authorities shall issue an ordinary removal order if:
 
 **Removal under the Dublin Association Agreements**[^64a-1]
 
-<sup>1</sup> If a different state that is bound by one of the Dublin Association Agreements (para. 4) is responsible for conducting an asylum procedure on the basis of Regulation (EC) No. 604/2013[^64a-2] (Dublin State), the SEM shall issue a removal order against a person who is residing illegally in Switzerland.[^64a-3]
+<sup>1</sup> If a different state that is bound by one of the Dublin Association Agreements (para. 4) is responsible for conducting an asylum procedure on the basis of Regulation (EC) No. 604/2013[^64a-2] (Dublin State), SEM shall issue a removal order against a person who is residing illegally in Switzerland.[^64a-3]
 
 <sup>2</sup> An appeal must be filed within five working days of notification of the order. The appeal does not have suspensive effect. The foreign national may apply for the order to be suspended within the deadline for filing the appeal. The Federal Administrative Court shall decide on the matter within five days of receipt of the application. If the removal order is not suspended within this period, it may be enforced.
 
@@ -1336,7 +1337,7 @@ On giving notice of a removal order, the competent authority may require the for
 
 <sup>1</sup>
 
-The SEM shall, subject to paragraph 5, order a ban on entry against foreign nationals who have been issued with a removal order if:
+SEM shall, subject to paragraph 5, order a ban on entry against foreign nationals who have been issued with a removal order if:
 
 - a. the removal order is enforced immediately in accordance with Article 64*d* paragraph 2 letters a–c;
 - b. the person does not leave by the deadline set.
@@ -1379,11 +1380,11 @@ It[^67-2] may order a ban on entry against foreign nationals who:
 
 <sup>1</sup> and <sup>2</sup> ...
 
-<sup>3</sup> The SEM may supply biometric data to the SIS that is already available in the automated fingerprint identification system under Article 354 SCC (AFIS) or in ZEMIS. The supply of data may be automated.
+<sup>3</sup> SEM may supply biometric data to the SIS that is already available in the automated fingerprint identification system under Article 354 SCC (AFIS) or in ZEMIS. The supply of data may be automated.
 
 <sup>4</sup> ...
 
-<sup>5</sup> In connection with its alerts, fedpol may supply supply biometric data to the SIS that is already available in the AFIS. The supply of data may be automated. If no biometric data are available, fedpol may order the retroactive recording of the data from the authorities that detect a hit on these alerts.
+<sup>5</sup> In connection with its alerts, fedpol may supply biometric data to the SIS that is already available in the AFIS. The supply of data may be automated. If no biometric data are available, fedpol may order the retroactive recording of the data from the authorities that detect a hit on these alerts.
 
 <sup>6</sup> ...
 
@@ -1448,9 +1449,9 @@ The Federal Department of Justice and Police (FDJP) shall support the cantons re
 
 **International return interventions**[^71a-1]
 
-<sup>1</sup> The SEM and the cantons shall work together in the case of international return interventions on the basis of Regulation (EU) 2016/1624[^71a-2].
+<sup>1</sup> SEM and the cantons shall work together in the case of international return interventions on the basis of Regulation (EU) 2016/1624[^71a-2].
 
-<sup>2</sup> The FDJP may enter into agreements with the competent European Union agency for the surveillance of the Schengen external borders relating to the deployment of personnel from the SEM and the cantons in connection with international return interventions and the deployment of third parties to monitor returns.
+<sup>2</sup> The FDJP may enter into agreements with the competent European Union agency for the surveillance of the Schengen external borders relating to the deployment of personnel from SEM and the cantons in connection with international return interventions and the deployment of third parties to monitor returns.
 
 <sup>3</sup> The FDJP shall enter into an agreement with the cantons on the modalities of the deployment of personnel.
 
@@ -1476,8 +1477,8 @@ The Federal Department of Justice and Police (FDJP) shall support the cantons re
 The attending medical professional shall on request disclose the medical data required to assess the fitness to travel of persons subject to a legally binding removal or expulsion order to the following authorities insofar as these authorities require the data to fulfil their statutory duties:
 
 - a. the cantonal authorities responsible for removal or expulsion;
-- b. employees of the SEM who are responsible for the centralised organisation and coordination of the compulsory execution of removal and expulsion orders;
-- c. the medical professionals responsible on behalf of the SEM for medical supervision on execution of removal and expulsion orders at the time of departure.
+- b. employees of SEM who are responsible for the centralised organisation and coordination of the compulsory execution of removal and expulsion orders;
+- c. the medical professionals responsible on behalf of SEM for medical supervision on execution of removal and expulsion orders at the time of departure.
 
 <sup>2</sup> The Federal Council regulates the retention and deletion of the data.
 
@@ -1489,7 +1490,7 @@ The attending medical professional shall on request disclose the medical data re
 
 <sup>1</sup> In order to ensure the enforcement of removal or expulsion or expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^72-2] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^72-3], foreign nationals are required to undergo a COVID-19 test if this is necessary in order to comply with the entry requirements of the person's native country or country of origin or of the competent Dublin State or the requirements of the airline concerned.
 
-<sup>2</sup> The competent authorites shall inform the person concerned in advance about this requirement and about the possibility of the compulsory conduct of tests under paragraph 3.
+<sup>2</sup> The competent authorities shall inform the person concerned in advance about this requirement and about the possibility of the compulsory conduct of tests under paragraph 3.
 
 <sup>3</sup> If the person concerned refuses to undergo a COVID-19 test, the competent authorities for the enforcement of removal or expulsion or expulsion from Switzerland may conduct the test against the person's will, unless deportation can be enforced by other less stringent means. While conducting the test, no force may be used that could endanger the health of the person concerned. The compulsory conduct of COVID-19 tests is not permitted in the case of children and young persons under the age of 15.
 
@@ -1557,25 +1558,27 @@ The competent cantonal authority may require a person not to leave the area they
 
 <sup>1</sup>
 
-To facilitate the conduct of removal proceedings or criminal proceedings in which the potential penalty includes an order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^75-1] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^75-2], the competent cantonal authority may detain a person who does not hold a short stay, residence or settlement permit while preparing to decide on that person’s residence status for a maximum of six months if they:[^75-3]
+To facilitate the conduct of removal or expulsion proceedings or criminal proceedings in which the potential penalty includes an order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^75-1] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^75-2], the competent cantonal authority may detain a person who does not hold a short stay, residence or settlement permit while preparing to decide on that person’s residence status for a maximum of six months if that person:[^75-3]
 
-- a.[^75-4] refuse during asylum proceedings, removal proceedings or or criminal proceedings in which the potential penalty includes an order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC or Article 49*a* or 49*a*<sup>bis</sup> MCC to disclose their identity, submit several applications for asylum using various identities or repeatedly fail to comply with a summons without sufficient reason or ignore other instructions issued by the authorities in the asylum procedure;
+- a.[^75-4] refuses during asylum proceedings, removal or expulsion proceedings or criminal proceedings in which the potential penalty includes an order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC or Article 49*a* or 49*a*<sup>bis</sup> MCC to disclose their identity, submit several applications for asylum using various identities or repeatedly fail to comply with a summons without sufficient reason or ignore other instructions issued by the authorities in the asylum procedure;
 - b. leave an area allocated to them in accordance with Article 74 or enter an area from which they are excluded;
 - c. enter Swiss territory despite a ban on entry and cannot be immediately removed;
 - d. were removed and submitted an application for asylum following a legally binding revocation (Art. 62 and 63) or a non-renewal of the permit due to violation of or representing a threat to the public security and order or due to representing a threat to internal or external security;
 - e. submit an application for asylum after expulsion (Art. 68);
 - f. stay unlawfully in Switzerland and submit an application for asylum with the obvious intention of avoiding the imminent enforcement of a removal or expulsion order; such an intention shall be suspected if it were possible and reasonable to file the asylum application earlier and if the application is submitted in close chronological relation to detention, criminal proceedings, the implementation of a penalty or the issue of a removal order;
 - g. seriously threaten other persons or considerably endanger the life and limb of other persons and are therefore being prosecuted or have been convicted;
-- h. have been convicted of a felony.
-- [tab] <sup>1bis</sup> ...[^75-5]
+- h. have been convicted of a felony;
+- i.[^75-5] is a risk to Switzerland’s internal or external security according to findings made by fedpol or the FIS.
+- [tab] <sup>1bis</sup> ...[^75-6]
 
 <sup>2</sup> The competent authority shall decide on the residence status of the person held in detention without delay.
 
 [^75-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^75-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^75-3]: Amended by Annex No I of the FA of 20 March 2015 (Implementation of Art. 121 para. 3–6 Federal Constitution on the expulsion of foreign nationals convicted of certain offences), in force since 1 Oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^75-4]: Amended by Annex No I of the FA of 20 March 2015 (Implementation of Art. 121 para. 3–6 Federal Constitution on the expulsion of foreign nationals convicted of certain offences), in force since 1 Oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^75-5]: Inserted by Art. 2 No 1 of the FD of 18 June 2010 on the Adoption of the EC Directive on the Return of Illegal Immigrants (Directive 2008/115/EC) ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Repealed by Annex No I 1 of the FD of 26 Sept. 2014 (Adoption of R[EU] No 604/2013 establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection), with effect from 1 July 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489))
+[^75-3]: Amended by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^75-4]: Amended by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^75-5]: Inserted by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^75-6]: Inserted by Art. 2 No 1 of the FD of 18 June 2010 on the Adoption of the EC Directive on the Return of Illegal Immigrants (Directive 2008/115/EC) ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Repealed by Annex No I 1 of the FD of 26 Sept. 2014 (Adoption of R[EU] No 604/2013 establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection), with effect from 1 July 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489))
 
 #### Art. 76
 
@@ -1590,7 +1593,7 @@ If the court of first instance has issued an expulsion or removal order or an or
 
   detaining the person concerned if:
 
-  - 1\.[^76-4] there are grounds for doing so in terms of Article 75 paragraph 1 letters a, b, c, f, g or h,
+  - 1\.[^76-4] there are grounds for doing so in terms of Article 75 paragraph 1 letters a, b, c, f, g, h or i,
   - 2\.[^76-5] ...
   - 3\.[^76-6] specific indications lead to the belief that they are seeking to evade deportation, in particular because they fail to comply with the obligation to cooperate in accordance with Article 90 of this Act as well as Article 8 paragraph 1 letter a or paragraph 4 AsylA[^76-7],
   - 4\. their previous conduct leads to the conclusion that they will refuse to comply with official instructions,
@@ -1607,8 +1610,8 @@ If the court of first instance has issued an expulsion or removal order or an or
 
 [^76-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^76-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^76-3]: Amended by No IV 1 of the FA of 25 Sept. 2015, in force since 1 March 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^76-4]: Amended by Annex No I 1 of the FD of 26 Sept. 2014 (Adoption of R[EU] No 604/2013 establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection), in force since 1 July 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^76-3]: Amended by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^76-4]: Amended by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^76-5]: Repealed by Annex No 1 of the FA of 14 Dec. 2012, with effect from 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^76-6]: Amended by Annex No 1 of the FA of 25 Sept. 2015, in force since 1 March 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^76-7]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
@@ -1644,13 +1647,14 @@ The following specific indications suggest that the person concerned intends to 
 - g. They seriously threaten other persons or considerably endanger the life and limb of other persons and are therefore being prosecuted or have been convicted.
 - h. They have been convicted of a felony.
 - i. They deny to the competent authority that they hold or have held a residence document and/or a visa in a Dublin State or have submitted an asylum application there.
+- j.[^76a-4] They are a risk to Switzerland’s internal or external security according to findings made by fedpol or the FIS.
 
 <sup>3</sup>
 
 The person concerned may remain or be placed in detention from the date of the detention order for a maximum duration of:
 
 - a. seven weeks while preparing the decision on responsibility for the asylum application; this includes submitting the request to take charge to the other Dublin State, waiting for the response or tacit acceptance, and drafting and giving notice of the decision;
-- b. five weeks during proceedings under Article 5 of Regulation (EC) No 1560/2003[^76a-4];
+- b. five weeks during proceedings under Article 5 of Regulation (EC) No 1560/2003[^76a-5];
 - c. six weeks to ensure enforcement from notice being given of the removal or expulsion decision or the date on which the suspensive effect of any appeal against a first instance decision on removal or expulsion ceases to apply and the transfer of the person concerned to the competent Dublin State.
 
 <sup>4</sup> If a person refuses to board the means of transport being used to effect the transfer to the competent Dublin State, or if they prevent the transfer in any other way through their personal conduct, they may, in order to guarantee the transfer, be placed in detention if a detention order under paragraph 3 letter c is no longer possible and a less restrictive measure will not achieve a satisfactory result. The person may be detained until transfer is again possible, but no longer than six weeks. The period of detention may be extended with the consent of a judicial authority if the person concerned remains unprepared to modify their conduct. The maximum duration of this period of detention is three months.
@@ -1660,7 +1664,8 @@ The person concerned may remain or be placed in detention from the date of the d
 [^76a-1]: Inserted by Annex No I 1 of the FD of 26 Sept. 2014 (Adoption of R[EU] No 604/2013 establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection), in force since 1 July 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 [^76a-2]: See footnote to Art. 64*a* para. 1.
 [^76a-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^76a-4]: Commission Regulation (EC) No 1560/2003 of 2 Sept. 2003 laying down detailed rules for the application of Council Regulation (EC) No 343/2003 establishing the criteria and mechanisms for determining the Member State responsible for examining an asylum application lodged in one of the Member States by a third-country national, OJ L 222 of 5.9.2003, p. 3.
+[^76a-4]: Inserted by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^76a-5]: Commission Regulation (EC) No 1560/2003 of 2 Sept. 2003 laying down detailed rules for the application of Council Regulation (EC) No 343/2003 establishing the criteria and mechanisms for determining the Member State responsible for examining an asylum application lodged in one of the Member States by a third-country national, OJ L 222 of 5.9.2003, p. 3.
 
 #### Art. 77
 
@@ -1810,6 +1815,15 @@ The detention arrangements are otherwise governed by:
 - b. Article 28 paragraph 4 of Regulation (EU) No 604/2013[^81-5] for Dublin transfers;
 - c.[^81-6] in accordance with Article 37 of the Convention of 20 November 1989[^81-7] on the Rights of the Child.[^81-8]
 
+<sup>5</sup>
+
+The competent authority may order that the opportunities for detainees to have contact with specific persons or groups either directly or via third parties be restricted if:
+
+- a. the person concerned according to findings made by the police or prosecution authorities poses a specific risk to internal or external security; and
+- b. other measures have failed or are not available.[^81-9]
+
+<sup>6</sup> If the restrictions under paragraph 5 prove inadequate to counter the risk to internal or external security, the competent authority may order solitary confinement.[^81-10]
+
 [^81-1]: Amended by Art. 2 No 1 of the FD of 18 June 2010 on the Adoption of the EC Directive on the Return of Illegal Immigrants (Directive 2008/115/EC), in force since 1 Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 [^81-2]: Amended by No I of the FA of 14 Dec. 2018 (Procedural Regulations and Information Systems), in force since 1 June 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^81-3]: Amended by Annex No I 1 of the FD of 26 Sept. 2014 (Adoption of R[EU] No 604/2013 establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection), in force since 1 July 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
@@ -1818,6 +1832,8 @@ The detention arrangements are otherwise governed by:
 [^81-6]: Inserted by No I of the FA of 14 Dec. 2018 (Procedural Regulations and Information Systems), in force since 1 June 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^81-7]: [SR 0.107](https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055)
 [^81-8]: Inserted by Annex No I 1 of the FD of 26 Sept. 2014 (Adoption of R[EU] No 604/2013 establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection), in force since 1 July 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^81-9]: Inserted by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^81-10]: Inserted by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 82
 
@@ -1831,7 +1847,7 @@ The Confederation shall contribute to the cantons’ operating costs for detaini
 
 - a. asylum seekers;
 - b. refugees and other foreign nationals who are detained in connection with the revocation of temporary admission;
-- c. foreign nationals whose detention has been ordered by the SEM in connection with a removal order;
+- c. foreign nationals whose detention has been ordered by SEM in connection with a removal order;
 - d. refugees who are expelled in accordance with Article 65 AsylA[^82-3].
 
 [^82-1]: Amended by Annex No 1 of the FA of 14 Dec. 2012, in force since 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
@@ -1844,7 +1860,7 @@ The Confederation shall contribute to the cantons’ operating costs for detaini
 
 **Order for temporary admission**
 
-<sup>1</sup> If the enforcement of removal or expulsion is not possible, not permitted or not reasonable, the SEM shall order temporary admission.
+<sup>1</sup> If the enforcement of removal is not possible, not permitted or not reasonable, SEM shall order temporary admission.[^83-1]
 
 <sup>2</sup> Enforcement is not possible if the foreign national is unable to travel or be brought either to their native country or to their country of origin or a third country.
 
@@ -1852,51 +1868,56 @@ The Confederation shall contribute to the cantons’ operating costs for detaini
 
 <sup>4</sup> Enforcement may be unreasonable for foreign nationals if they are specifically endangered by situations such as war, civil war, general violence and medical emergency in their native country or country of origin.
 
-<sup>5</sup> The Federal Council shall designate native countries or countries of origin or areas of these countries to which return is reasonable. If foreign nationals being removed or expelled come from one of these countries or from a member state of the EU or EFTA, enforcement of removal or expulsion is reasonable.[^83-1]
+<sup>5</sup> The Federal Council shall designate native countries or countries of origin or areas of these countries to which return is reasonable.[^83-2] If foreign nationals being removed come from one of these countries or from a member state of the EU or EFTA, enforcement of removal is reasonable.[^83-3]
 
-<sup>5bis</sup> The Federal Council shall periodically review the decision under paragraph 5.[^83-2]
+<sup>5bis</sup> The Federal Council shall periodically review the decision under paragraph 5.[^83-4]
 
 <sup>6</sup> Temporary admission may be requested by the cantonal authorities.
 
 <sup>7</sup>
 
-Temporary admission shall not be ordered in terms of paragraphs 2 and 4 if the person removed or expelled:
+Temporary admission shall not be ordered in terms of paragraphs 2 and 4 if the person removed:[^83-5]
 
-- a.[^83-3] has been sentenced to a long-term custodial sentence in Switzerland or abroad or has been made subject to a criminal law measure in terms of Article 59–61 or 64 of the SCC[^83-4];
+- a.[^83-6] has been sentenced to a long-term custodial sentence in Switzerland or abroad or has been made subject to a criminal law measure in terms of Article 59–61 or 64 of the SCC[^83-7];
 - b. has seriously or repeatedly violated or represented a threat to public security and order in Switzerland or abroad or represented a threat to internal or the external security; or
-- c. has made their removal or expulsion impossible due to their own conduct.
+- c.[^83-8] has made their removal impossible by their own conduct.
 
-<sup>8</sup> Refugees for whom there are reasons for refusing asylum in accordance with Articles 53 and 54 AsylA[^83-5] shall be granted temporary admission.
+<sup>8</sup> Refugees for whom there are reasons for refusing asylum in accordance with Articles 53 and 54 AsylA[^83-9] shall be granted temporary admission.
 
-<sup>9</sup> Temporary admission shall not be granted or shall expire if an order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC or Article 49*a* or 49*a*<sup>bis</sup> MCC[^83-6] becomes legally enforceable.[^83-7]
+<sup>9</sup> Temporary admission shall not be granted or shall expire if an order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC or Article 49*a* or 49*a*<sup>bis</sup> MCC[^83-10], or an expulsion order under Article 68 of this Act becomes legally enforceable.[^83-11]
 
-<sup>10</sup> The cantonal authorities may conclude integration agreements with temporarily admitted persons if there is a special need for integration in accordance with the criteria set out in Article 58*a*.[^83-8]
+<sup>10</sup> The cantonal authorities may conclude integration agreements with temporarily admitted persons if there is a special need for integration in accordance with the criteria set out in Article 58*a*.[^83-12]
 
-[^83-1]: Amended by Annex No 1 of the FA of 14 Dec. 2012, in force since 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). See also the transitional provision to this amendment at the end of the text.
-[^83-2]: Inserted by Annex No 1 of the FA of 14 Dec. 2012, in force since 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). See also the transitional provision to this amendment at the end of the text.
-[^83-3]: Amended by Annex No I of the FA of 20 March 2015 (Implementation of Art. 121 para. 3–6 Federal Constitution on the expulsion of foreign nationals convicted of certain offences), in force since 1 Oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^83-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^83-5]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^83-6]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^83-7]: Inserted by Annex No I of the FA of 20 March 2015 (Implementation of Art. 121 para. 3–6 Federal Constitution on the expulsion of foreign nationals convicted of certain offences), in force since 1 Oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^83-8]: Inserted by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^83-1]: Amended by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^83-2]: Amended by Annex No 1 of the FA of 14 Dec. 2012, in force since 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). See also the transitional provision to this amendment at the end of the text.
+[^83-3]: Second sentence amended by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^83-4]: Inserted by Annex No 1 of the FA of 14 Dec. 2012, in force since 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). See also the transitional provision to this amendment at the end of the text.
+[^83-5]: Amended by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^83-6]: Amended by Annex No I of the FA of 20 March 2015 (Implementation of Art. 121 para. 3–6 Federal Constitution on the expulsion of foreign nationals convicted of certain offences), in force since 1 Oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^83-7]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^83-8]: Amended by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^83-9]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^83-10]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^83-11]: Inserted by Annex No I of the FA of 20 March 2015 (Implementation of Art. 121 para. 3–6 Federal Constitution on the expulsion of foreign nationals convicted of certain offences) ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)). Amended by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^83-12]: Inserted by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
 #### Art. 84
 
 **Termination of temporary admission**
 
-<sup>1</sup> The SEM periodically examines whether the requirements for temporary admission are still met.
+<sup>1</sup> SEM periodically examines whether the requirements for temporary admission are still met.
 
-<sup>2</sup> The SEM shall revoke temporary admission and order the enforcement of removal or expulsion if the requirements no longer met.
+<sup>2</sup> SEM shall revoke temporary admission and order the enforcement of removal if the requirements no longer met.[^84-1]
 
-<sup>3</sup> At the request of the cantonal authorities, fedpol or the FIS, the SEM may revoke temporary admission due to the unreasonableness or impossibility of enforcement (Art. 83 paras 2 and 4) and order the enforcement of removal if there are grounds in terms of Article 83 paragraph 7.[^84-1]
+<sup>3</sup> At the request of the cantonal authorities, fedpol or the FIS, SEM may revoke temporary admission due to the unreasonableness or impossibility of enforcement (Art. 83 paras 2 and 4) and order the enforcement of removal if there are grounds in terms of Article 83 paragraph 7.[^84-2]
 
-<sup>4</sup> Temporary admission expires in the event of definitive departure, an unauthorised stay abroad of more than two months, or on the granting of a residence permit.[^84-2]
+<sup>4</sup> Temporary admission expires in the event of definitive departure, an unauthorised stay abroad of more than two months, or on the granting of a residence permit.[^84-3]
 
 <sup>5</sup> Applications for a residence permit made by temporarily admitted foreign nationals who have resided in Switzerland for more than five years are closely examined relating to integration, family circumstances and the reasonableness of return to the country of origin.
 
-[^84-1]: Amended by No I 2 of the Ordinance of 12 Dec. 2008 on the Amendment of Statutory Provisions due to the Transfer of the Intelligence Units of the Service for Analysis and Prevention to the DDPS, in force since 1 Jan. 2009 ([AS 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
-[^84-2]: Amended by Annex No 1 of the FA of 14 Dec. 2012, in force since 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^84-1]: Amended by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^84-2]: Amended by No I 2 of the Ordinance of 12 Dec. 2008 on the Amendment of Statutory Provisions due to the Transfer of the Intelligence Units of the Service for Analysis and Prevention to the DDPS, in force since 1 Jan. 2009 ([AS 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+[^84-3]: Amended by Annex No 1 of the FA of 14 Dec. 2012, in force since 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 85
 
@@ -1906,7 +1927,7 @@ Temporary admission shall not be ordered in terms of paragraphs 2 and 4 if the p
 
 <sup>2</sup> For the allocation of temporarily admitted persons, Article 27 AsylA[^85-1] applies *mutatis mutandis*.
 
-<sup>3</sup> Temporarily admitted persons must submit their application to move to another canton to the SEM. The SEM shall make a final decision subject to the reservation of paragraph 4 on the change of canton after hearing the cantons concerned.
+<sup>3</sup> Temporarily admitted persons must submit their application to move to another canton to SEM. SEM shall make a final decision subject to the reservation of paragraph 4 on the change of canton after hearing the cantons concerned.
 
 <sup>4</sup> The decision on the change of canton may only be contested on the ground that it violates the principle of family unity.
 
@@ -1928,7 +1949,7 @@ Spouses and unmarried children under 18 years of temporarily admitted persons an
 
 <sup>7ter</sup> In the case of single children under the age of 18, the requirement set out in paragraph 7 letter d does not apply. The requirement of Article 49*a* paragraph 2 may be also waived for good cause.[^85-8]
 
-<sup>8</sup> If, on assessing the reunification of spouses in accordance with Articles 42–45, the SEM has reason to believe that there are grounds under Article 105 numbers 5 or 6 CC[^85-9] for the marriage to be annulled, they shall report this to the competent authority under Article 106 CC. The request for the reunification of spouses is suspended until this authority makes its decision. If the authority raises an action for annulment, the request is suspended until a legally binding judgment has been issued.[^85-10]
+<sup>8</sup> If, on assessing the reunification of spouses in accordance with Articles 42–45, SEM has reason to believe that there are grounds under Article 105 numbers 5 or 6 CC[^85-9] for the marriage to be annulled, they shall report this to the competent authority under Article 106 CC. The request for the reunification of spouses is suspended until this authority makes its decision. If the authority raises an action for annulment, the request is suspended until a legally binding judgment has been issued.[^85-10]
 
 [^85-1]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^85-2]: Second sentence inserted by Annex No 1 of the FA of 14 Dec. 2012, in force since 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
@@ -1976,18 +1997,19 @@ The employer must report the start or end of employment to the cantonal authorit
 The same provisions on social assistance standards apply to the following persons as for refugees who have been granted asylum in Switzerland:
 
 - a. temporarily admitted refugees;
-- b. refugees subject to a legally enforceable expulsion order under Article 66*a* or 66*a*<sup>bis</sup> SCC[^86-3] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^86-4];
+- b.[^86-3] refugees subject to a legally enforceable order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^86-4] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^86-5], or a legally enforceable expulsion order under Article 68 of this Act;
 - c. stateless persons in accordance with Article 31 paragraphs 1 and 2; and
-- d. stateless persons subject to a legally enforceable expulsion order under Article 66*a* or 66*a*<sup>bis</sup> SCC or Article 49*a* or 49*a*<sup>bis</sup> MCC.[^86-5]
+- d.[^86-6] stateless persons subject to a legally enforceable order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC or Article 49*a* or 49*a*<sup>bis</sup> MCC, or a legally enforceable expulsion order under Article 68 of this Act.
 
-<sup>2</sup> In relation to compulsory health insurance for temporarily admitted persons, the corresponding provisions for asylum seekers in accordance with the AsylA and the Federal Act of 18 March 1994[^86-6] on Health Insurance apply.
+<sup>2</sup> In relation to compulsory health insurance for temporarily admitted persons, the corresponding provisions for asylum seekers in accordance with the AsylA and the Federal Act of 18 March 1994[^86-7] on Health Insurance apply.
 
 [^86-1]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^86-2]: Amended by No I of the FA of 14 Dec. 2018 (Procedural Regulations and Information Systems), in force since 1 June 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^86-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^86-4]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^86-5]: Inserted by No I of the FA of 14 Dec. 2018 (Procedural Regulations and Information Systems), in force since 1 June 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^86-6]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^86-3]: Amended by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^86-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^86-5]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^86-6]: Amended by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^86-7]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 87
 
@@ -2000,7 +2022,7 @@ The Confederation pays the cantons:
 - a.[^87-1] a flat-rate payment for every temporarily admitted person in accordance with Articles 88 paragraphs 1 and 2 and 89 AsylA[^87-2];
 - b.[^87-3] a flat-rate payment in accordance with Articles 88 paragraph 3 and 89 AsylA for every temporarily admitted refugee and every stateless person in accordance with Article 31 paragraph 2;
 - c.[^87-4] the flat-rate payment in accordance with Article 88 paragraph 4 AsylA for persons whose preliminary admission has been revoked in a legally binding decision, unless this payment was made previously;
-- d.[^87-5] a flat-rate payment in accordance with Articles 88 paragraph 3 and 89 AsylA for every stateless person in accordance with Article 31 paragraph 1 and every stateless person subject to a legally enforceable expulsion order under Article 66*a* or 66*a*<sup>bis</sup> SCC[^87-6] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^87-7].
+- d.[^87-5] a flat-rate payment in accordance with Articles 88 paragraph 3 and 89 AsylA for every stateless person in accordance with Article 31 paragraph 1 and every stateless person subject to a legally enforceable order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^87-6] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^87-7] or a legally enforceable expulsion order under Article 68 of this Act.
 
 <sup>2</sup> The assumption of departure costs and payment of return assistance are governed by Articles 92 and 93 AsylA.
 
@@ -2012,7 +2034,7 @@ The Confederation pays the cantons:
 [^87-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^87-3]: Amended by Annex No 1 of the FA of 25 Sept. 2015, in force since 1 Jan. 2018 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^87-4]: Inserted by No IV 2 of the FA of 16 Dec. 2005, in force since 1 Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727),[2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^87-5]: Inserted by Annex No 1 of the FA of 25 Sept. 2015 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)). Amended by No I of the FA of 14 Dec. 2018 (Procedural Regulations and Information Systems), in force since 1 June 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673))
+[^87-5]: Inserted by Annex No 1 of the FA of 25 Sept. 2015 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)). Amended by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^87-6]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^87-7]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^87-8]: Amended by Annex No 1 of the FA of 25 Sept. 2015, in force since 1 Jan. 2018 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
@@ -2118,7 +2140,7 @@ If the air carrier is unable to provide evidence that it has fulfilled its duty 
 
 **Cooperation with the authorities**[^94-1]
 
-<sup>1</sup> The air carriers shall cooperate with the competent federal and cantonal authorities. The modalities of this cooperation may be stipulated in the operating licence or in an agreement between the SEM and the carrier.
+<sup>1</sup> The air carriers shall cooperate with the competent federal and cantonal authorities. The modalities of this cooperation may be stipulated in the operating licence or in an agreement between SEM and the carrier.
 
 <sup>2</sup>
 
@@ -2203,7 +2225,7 @@ The Federal Council shall determine what data must be reported to the authoritie
 
 **Allocation of tasks**
 
-<sup>1</sup> The SEM is responsible for all tasks that are not expressly reserved to other federal authorities or the cantonal authorities.
+<sup>1</sup> SEM is responsible for all tasks that are not expressly reserved to other federal authorities or the cantonal authorities.
 
 <sup>2</sup> The Federal Council shall regulate the entry and exit, admission as well as residency of the persons benefiting from privileges, immunities and facilities in accordance with Article 2 paragraph 2 of the Host State Act of 22 June 2007[^98-1].[^98-2]
 
@@ -2227,7 +2249,7 @@ The persons entrusted with the enforcement of this Act may use police control an
 
 <sup>1</sup>
 
-The FDFA in consultation with the SEM may authorise third parties to carry out the following tasks in relation to the visa procedure:
+The FDFA in consultation with SEM may authorise third parties to carry out the following tasks in relation to the visa procedure:
 
 - a. arrangement of appointments with a view to granting a visa;
 - b. receiving documents (visa application form, passport, supporting documents);
@@ -2235,11 +2257,21 @@ The FDFA in consultation with the SEM may authorise third parties to carry out t
 - d. recording of biometrical data for the central visa information system;
 - e. returning passports to their holders at the end of the procedure.
 
-<sup>2</sup> The FDFA and the SEM shall ensure that the third parties to whom duties are delegated comply with the regulations on data protection and security.
+<sup>2</sup> The FDFA and SEM shall ensure that the third parties to whom duties are delegated comply with the regulations on data protection and security.
 
 <sup>3</sup> The Federal Council shall determine the conditions under which third parties may be delegated duties in accordance with paragraph 1.
 
 [^98b-1]: Inserted by Art. 2 No 1 of the FD of 11 Dec. 2009 (Approval and Implementation of the Exchanges of Notes relating to the Visa Information System), in force since 1 Jan. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272)[5761](https://fedlex.data.admin.ch/eli/oc/2010/814); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
+
+#### Art. 98c
+
+**Cooperation and coordination with fedpol**[^98c-1]
+
+<sup>1</sup> SEM shall work with fedpol within the scope of its statutory duties in relation to combating terrorism.
+
+<sup>2</sup> It shall coordinate the measures within its sphere of responsibility with fedpol’s preventive police and administrative measures.
+
+[^98c-1]: Inserted by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 99
 
@@ -2304,7 +2336,7 @@ The Federal Council may conclude agreements with foreign states or international
 
 <sup>3</sup> It shall work with the competent authorities of the Confederation, the cantons and the communes and with non-governmental organisations involved in migration matters; these include the cantonal and communal commissions for foreign nationals involved in integration. It shall participate in the international exchange of views and experiences.
 
-<sup>4</sup> The Commission may be consulted on questions of principle relating to the promotion of integration. It is entitled to request financial contributions from the SEM for conducting integration projects of national importance.
+<sup>4</sup> The Commission may be consulted on questions of principle relating to the promotion of integration. It is entitled to request financial contributions from SEM for conducting integration projects of national importance.
 
 <sup>5</sup> The Federal Council may assign additional tasks to the Commission.
 
@@ -2327,7 +2359,7 @@ The Federal Council may conclude agreements with foreign states or international
 
 **Data processing**[^101-1]
 
-The SEM, the cantonal immigration authorities and, where it has jurisdiction, the Federal Administrative Court may process or instruct someone else to process personal data, including particularly sensitive data and personality profiles of foreign nationals as well third parties involved in procedures in accordance with this Act, insofar as they need this data to fulfil their statutory duties.
+SEM, the cantonal immigration authorities and, where it has jurisdiction, the Federal Administrative Court may process or instruct someone else to process personal data, including particularly sensitive data and personality profiles of foreign nationals as well third parties involved in procedures in accordance with this Act, insofar as they need this data to fulfil their statutory duties.
 
 [^101-1]: Amended by No I 1 of the Ordinance of the Federal Assembly of 20 Dec. 2006 on the Adaptation of Legislation to the Provisions of the Federal Supreme Court Act and the Federal Administrative Court Act, in force since 1 Jan. 2008 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [BBl 2006 7759](https://fedlex.data.admin.ch/eli/fga/2006/974)).
 
@@ -2540,7 +2572,7 @@ The Federal Council shall regulate:
 
 **Air carriers' duty to provide data**[^104-1]
 
-<sup>1</sup> In order to improve border controls and to combat unlawful entry into the Schengen area and transit through the international transit zones of the airports, at the request of the border control authorities SEM may require air carriers to provide personal data on the passengers it is carrying and data on the flight to the SEM or to the authority responsible for the border controls. The data must be transmitted immediately after departure.[^104-2]
+<sup>1</sup> In order to improve border controls and to combat unlawful entry into the Schengen area and transit through the international transit zones of the airports, at the request of the border control authorities SEM may require air carriers to provide personal data on the passengers it is carrying and data on the flight to SEM or to the authority responsible for the border controls. The data must be transmitted immediately after departure.[^104-2]
 
 <sup>1bis</sup>
 
@@ -2579,7 +2611,7 @@ The duty to provide data applies to the following data categories:
 
 Air carriers may retain the data in accordance with paragraph 3 solely for evidentiary purposes. They must erase the data:
 
-- a. when it is established that the SEM will not open proceedings for a violation of the duty to provide data, or two years after the date of the flight at the latest;
+- a. when it is established that SEM will not open proceedings for a violation of the duty to provide data, or two years after the date of the flight at the latest;
 - b. on the day after the ruling in application of Article 122*b* takes full legal effect.
 
 [^104-1]: Amended by No I of the FA of 20 June 2014 (Violations of the Duty of Care and to Report by Air Carriers, Information Systems), in force since 1 Oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
@@ -2594,7 +2626,7 @@ Air carriers may retain the data in accordance with paragraph 3 solely for evide
 
 <sup>1</sup>
 
-The SEM shall maintain a passenger information system (API System) in order to:
+SEM shall maintain a passenger information system (API System) in order to:
 
 - a. improve border controls;
 - b. combat unlawful entry into the Schengen area and transit through the international transit zones of the airports;
@@ -2602,7 +2634,7 @@ The SEM shall maintain a passenger information system (API System) in order to:
 
 <sup>1bis</sup> The API System contains the data in accordance with Article 104 paragraph 3 and the results of comparisons in accordance with paragraph 4.[^104a-3]
 
-<sup>2</sup> In order to check whether air carriers are fulfilling their duty to provide data, and to enforce penalties under Article 122*b*, the SEM may retrieve data in accordance with Article 104 paragraph 3 from the API System*.*[^104a-4]
+<sup>2</sup> In order to check whether air carriers are fulfilling their duty to provide data, and to enforce penalties under Article 122*b*, SEM may retrieve data in accordance with Article 104 paragraph 3 from the API System*.*[^104a-4]
 
 <sup>3</sup> In order to improve border controls and to combat unlawful entry into the Schengen area and transit through the international transit zones of the airports, the authorities responsible for checks on persons at the Schengen external borders may retrieve data in accordance with Article 104 paragraph 3 from the API System.[^104a-5]
 
@@ -2667,7 +2699,7 @@ The passenger lists must contain the following data:
 
 **Disclosure of personal data abroad**
 
-<sup>1</sup> In order to fulfil their duties, and in particular to combat criminal offence in terms of this Act, the SEM and the competent authorities of the cantons may disclose personal data of foreign nationals to foreign authorities and international organisations entrusted with corresponding duties provided such authorities and organisation guarantee a level of data protection equivalent to that in Switzerland.
+<sup>1</sup> In order to fulfil their duties, and in particular to combat criminal offence in terms of this Act, SEM and the competent authorities of the cantons may disclose personal data of foreign nationals to foreign authorities and international organisations entrusted with corresponding duties provided such authorities and organisation guarantee a level of data protection equivalent to that in Switzerland.
 
 <sup>2</sup>
 
@@ -2699,7 +2731,7 @@ For the implementation of removals or expulsions to the native country or countr
 
 **Disclosure of personal data under readmission and transit agreements**
 
-<sup>1</sup> In order to implement the readmission and transit agreements mentioned in Article 100, the SEM and the competent authorities of the cantons may also disclose the required personal data to states that do not provide a level of data protection equivalent to that in Switzerland.
+<sup>1</sup> In order to implement the readmission and transit agreements mentioned in Article 100, SEM and the competent authorities of the cantons may also disclose the required personal data to states that do not provide a level of data protection equivalent to that in Switzerland.
 
 <sup>2</sup>
 
@@ -2753,8 +2785,8 @@ For the purpose of the transit of members of third countries, the following data
 
 The following authorities may consult C-VIS data online:
 
-- a.[^109a-4] the SEM, Swiss representations abroad and missions, the cantonal migration authorities responsible for the visa and the communal authorities to which the cantons have delegated these responsibilities, the State Secretariat and the Directorate of Political Affairs of the FDFA, the Border Guard and the border posts of the cantonal police authorities: in the course of the visa procedure;
-- b.[^109a-5] the SEM: to determine the state responsible for assessing an asylum application under Regulation (EC) No. 604/2013[^109a-6] and in the course of assessing an asylum application if Switzerland is responsible for its processing;
+- a.[^109a-4] SEM, Swiss representations abroad and missions, the cantonal migration authorities responsible for the visa and the communal authorities to which the cantons have delegated these responsibilities, the State Secretariat and the Directorate of Political Affairs of the FDFA, the Border Guard and the border posts of the cantonal police authorities: in the course of the visa procedure;
+- b.[^109a-5] SEM: to determine the state responsible for assessing an asylum application under Regulation (EC) No. 604/2013[^109a-6] and in the course of assessing an asylum application if Switzerland is responsible for its processing;
 - c. the Border Guard and the cantonal police authorities responsible for checks at the Schengen external borders: to conduct checks at the external border crossing points and on Swiss sovereign territory;
 - d.[^109a-7] the Border Guard and the cantonal and communal police authorities that conduct checks on persons: to identify persons who do not or who no longer fulfil the requirements for entry into Swiss sovereign territory or for a stay in Switzerland.
 
@@ -2782,7 +2814,7 @@ The following authorities may request specific C-VIS data from the central acces
 
 **National visa system**[^109b-1]
 
-<sup>1</sup> The SEM shall operate a national visa system. The system serves the registration of visa applications and the issue of visas granted by Switzerland. In particular, it contains the data transmitted via the national interface (N-VIS) to the C-VIS.
+<sup>1</sup> SEM shall operate a national visa system. The system serves the registration of visa applications and the issue of visas granted by Switzerland. In particular, it contains the data transmitted via the national interface (N-VIS) to the C-VIS.
 
 <sup>2</sup>
 
@@ -2796,7 +2828,7 @@ The national visa system contains the following categories of data on visa appli
 
 <sup>2bis</sup> The national visa system also contains a subsystem with the files on the visa applicants in electronic form.[^109b-5]
 
-<sup>3</sup> The SEM, Swiss representations abroad and missions, cantonal migration authorities responsible for visas and the communal authorities to which the cantons have delegated these responsibilities, the State Secretariat and the Directorate of Political Affairs of the FDFA and the Border Guard and the border posts of the cantonal police authorities that issue exceptional visas may enter, modify and delete data in the national visa system in order to fulfil their duties under the visa procedure.[^109b-6] They must enter and process the data transmitted to the C‑VIS in accordance with Regulation (EC) No 767/2008[^109b-7].
+<sup>3</sup> SEM, Swiss representations abroad and missions, cantonal migration authorities responsible for visas and the communal authorities to which the cantons have delegated these responsibilities, the State Secretariat and the Directorate of Political Affairs of the FDFA and the Border Guard and the border posts of the cantonal police authorities that issue exceptional visas may enter, modify and delete data in the national visa system in order to fulfil their duties under the visa procedure.[^109b-6] They must enter and process the data transmitted to the C‑VIS in accordance with Regulation (EC) No 767/2008[^109b-7].
 
 [^109b-1]: Inserted by Art. 2 No 1 of the FD of 11 Dec. 2009 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of the Regulation and Decision concerning the Visa Information System (VIS), in force since 20 Jan. 2014 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^109b-2]: Inserted by No I of the FA of 20 June 2014 (Violations of the Duty of Care and to Report by Air Carriers, Information Systems), in force since 1 Oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
@@ -2810,7 +2842,7 @@ The national visa system contains the following categories of data on visa appli
 
 **Consultation of the national visa system**[^109c-1]
 
-The SEM may grant the following authorities online access to the data in the national visa system:
+SEM may grant the following authorities online access to the data in the national visa system:
 
 - a. the Border Guard and the border posts of the cantonal police authorities: to carry out checks on persons and to issue exceptional visas;
 - b. the Swiss representations abroad and the Swiss Missions: to verify visa applications;
@@ -2986,7 +3018,7 @@ The Federal Council shall regulate:
 
 **...[^110-2]**[^110-1]
 
-The SEM in cooperation with the Federal Administrative Court and the competent cantonal authorities shall maintain an automated personal file and documentation system.
+SEM in cooperation with the Federal Administrative Court and the competent cantonal authorities shall maintain an automated personal file and documentation system.
 
 [^110-1]: Amended by No I 1 of the Ordinance of the Federal Assembly of 20 Dec. 2006 on the Adaptation of Legislation to the Provisions of the Federal Supreme Court Act and the Federal Administrative Court Act, in force since 1 Jan. 2008 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [BBl 2006 7759](https://fedlex.data.admin.ch/eli/fga/2006/974)).
 [^110-2]: Removed by No I of the FA of 14 Dec. 2018 (Procedural Regulations and Information Systems), with effect from 1 June 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
@@ -2995,7 +3027,7 @@ The SEM in cooperation with the Federal Administrative Court and the competent c
 
 **Information systems for travel documents**
 
-<sup>1</sup> The SEM shall maintain an information system for the issue of Swiss travel documents and return visas to foreign nationals (the ISR) in accordance with Article 59.[^111-1]
+<sup>1</sup> SEM shall maintain an information system for the issue of Swiss travel documents and return visas to foreign nationals (the ISR) in accordance with Article 59.[^111-1]
 
 <sup>2</sup>
 
@@ -3010,11 +3042,11 @@ The ISR shall contain the following data:
 
 <sup>3</sup> To check whether an alert has been issued in respect of the applicant due to a felony or a misdemeanour, the RIPOL computerised search system automatically conducts a search.[^111-3]
 
-<sup>4</sup> The data collected in accordance with paragraph 2 shall be processed by employees of the SEM who deal with issuing Swiss travel documents and return visas.[^111-4]
+<sup>4</sup> The data collected in accordance with paragraph 2 shall be processed by employees of SEM who deal with issuing Swiss travel documents and return visas.[^111-4]
 
 <sup>5</sup>
 
-The SEM may make the data that it has collected in accordance with paragraph 2 accessible to the following authorities or offices through a retrieval process, insofar as they need the data for the fulfilment of their duties:[^111-5]
+SEM may make the data that it has collected in accordance with paragraph 2 accessible to the following authorities or offices through a retrieval process, insofar as they need the data for the fulfilment of their duties:[^111-5]
 
 - a. the office responsible for issuing travel documents;
 - b. the border posts of the cantonal police authorities and the Border Guard, in order to carry out checks on persons;
@@ -3048,7 +3080,7 @@ The disclosure of personal data to the competent authorities of states that are 
 
 **Data processing**
 
-<sup>1</sup> The SEM is the central authority for consultations in connection with visa applications under the Schengen Association Agreements.
+<sup>1</sup> SEM is the central authority for consultations in connection with visa applications under the Schengen Association Agreements.
 
 <sup>2</sup>
 
@@ -3157,11 +3189,11 @@ In addition to the fingerprints, the following data shall be obtained:
 
 <sup>6</sup> The border posts and the immigration and police authorities in the cantons and communes may obtain a full set of fingerprints from any foreign national who is over the age of 14 and who is residing illegally in Switzerland in order to establish whether they have already made an application for asylum in another state that is bound by any of the Dublin Association Agreements.
 
-<sup>7</sup> The data obtained in accordance with paragraphs 1, 2 and 6 shall be transmitted to the SEM for passing on to the Central Unit.
+<sup>7</sup> The data obtained in accordance with paragraphs 1, 2 and 6 shall be transmitted to SEM for passing on to the Central Unit.
 
 <sup>8</sup>
 
-The data transmitted in accordance with paragraphs 1 and 2 shall be stored by the Central Unit in the Eurodac database and shall be automatically erased 18 months after the fingerprints are taken. The SEM shall immediately request the Central Unit to erase the data before this date as soon as it is notified that the foreign national concerned:
+The data transmitted in accordance with paragraphs 1 and 2 shall be stored by the Central Unit in the Eurodac database and shall be automatically erased 18 months after the fingerprints are taken. SEM shall immediately request the Central Unit to erase the data before this date as soon as it is notified that the foreign national concerned:
 
 - a. has been granted a residence permit in Switzerland;
 - b. has left the sovereign territory of the states that are bound by any of the Dublin Association Agreements;
@@ -3365,7 +3397,7 @@ The penalty shall be a fine for any person who:
 
 **Seizure and confiscation of documents**[^121-1]
 
-<sup>1</sup> Forged and falsified travel documents and identity papers, and genuine travel documents and identity papers where there is specific evidence that they are being used unlawfully may, as directed by of the SEM, be forfeited to authorities or offices or seized for return to their rightful owners.
+<sup>1</sup> Forged and falsified travel documents and identity papers, and genuine travel documents and identity papers where there is specific evidence that they are being used unlawfully may, as directed by of SEM, be forfeited to authorities or offices or seized for return to their rightful owners.
 
 <sup>2</sup> The forfeiture or return under paragraph 1 is also possible if there is specific evidence that genuine travel documents and identity papers are intended for persons who are staying unlawfully in Switzerland.
 
@@ -3435,7 +3467,7 @@ There is no violation of the duty to provide data where the air carrier proves t
 
 <sup>1</sup> Articles 122*a* and 122*b* apply irrespective of whether the duty of care or duty to provide data was violated in Switzerland or abroad.
 
-<sup>2</sup> The SEM is responsible for imposing penalties for infringements under Articles 122*a* and 122*b*.
+<sup>2</sup> SEM is responsible for imposing penalties for infringements under Articles 122*a* and 122*b*.
 
 <sup>3</sup>
 
