@@ -3,18 +3,18 @@ sr: "360.1"
 title: "Ordinanza del 30 novembre 2001 sull'adempimento di compiti di polizia giudiziaria in seno all'Ufficio federale di polizia"
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/29"
 language: it
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2001-11-30
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/29/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-29-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/29/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/29/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2002-29-20220601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/29/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’adempimento di compiti di polizia giudiziaria in seno all’Ufficio federale di polizia
 
-del 30 novembre 2001 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 30 novembre 2001 (Stato 1° giugno 2022) (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -24,7 +24,7 @@ ordina:
 
 [^ingress-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
 [^ingress-2]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^ingress-3]: [CS **3** 286; [RU 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)n. III 4, [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 2, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 4, [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 15 [2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)all. n. 2, [1993 1993](https://fedlex.data.admin.ch/eli/oc/1993/1993_1993_1993), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 7, [2000 505](https://fedlex.data.admin.ch/eli/oc/2000/95)n. I 3 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453)n. II 3 [2725](https://fedlex.data.admin.ch/eli/oc/2000/454)n. II, [2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22)n. I 3 [3071](https://fedlex.data.admin.ch/eli/oc/2001/459)n. II 1 [3096](https://fedlex.data.admin.ch/eli/oc/2001/467)all. n. 2 [3308](https://fedlex.data.admin.ch/eli/oc/2001/492), [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 9, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 4, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 19, [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)all. n. 10, [2007 6087](https://fedlex.data.admin.ch/eli/oc/2007/811), [2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232)all. n. 1 [4989](https://fedlex.data.admin.ch/eli/oc/2008/698)all. 1 n. 6 [5463](https://fedlex.data.admin.ch/eli/oc/2008/759)all. n. 3, [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)all. n. II 3. [RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. I cpv. 1]. Vedi ora il Codice di procedura penale del 5 ott. 2007 ([RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)).
+[^ingress-3]: [CS **3** 286; [RU 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)n. III 4; [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 2; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 4; [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 15, [2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)all. n. 2; [1993 1993](https://fedlex.data.admin.ch/eli/oc/1993/1993_1993_1993); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 7; [2000 505](https://fedlex.data.admin.ch/eli/oc/2000/95)n. I 3, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453)n. II 3, [2725](https://fedlex.data.admin.ch/eli/oc/2000/454)n. II; [2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22)n. I 3, [3071](https://fedlex.data.admin.ch/eli/oc/2001/459)n. II 1, [3096](https://fedlex.data.admin.ch/eli/oc/2001/467)all. n. 2, [3308](https://fedlex.data.admin.ch/eli/oc/2001/492); [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 9; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 4; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 19; [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)all. n. 10; [2007 6087](https://fedlex.data.admin.ch/eli/oc/2007/811); [2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232)all. n. 1, [4989](https://fedlex.data.admin.ch/eli/oc/2008/698)all. 1 n. 6, [5463](https://fedlex.data.admin.ch/eli/oc/2008/759)all. n. 3; [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)all. n. II 3. [RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. I cpv. 1]. Vedi ora il Codice di procedura penale del 5 ott. 2007 ([RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)).
 [^ingress-4]: Nuovo testo giusta il n. I 12 dell’O del 15 ott. 2008 sugli adeguamenti alla LF sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
 
 #### Art. 1
@@ -37,14 +37,15 @@ La Polizia giudiziaria federale in seno all’Ufficio federale di polizia (fedpo
 - b. Ufficio centrale per la lotta contro la criminalità organizzata, ai sensi dell’articolo 7 LUC;
 - c. Ufficio centrale per la lotta contro il traffico illegale di stupefacenti, ai sensi dell’articolo 9 LUC e dell’articolo 29 della legge federale del 3 ottobre 1951[^1-2] sugli stupefacenti;
 - d. Ufficio centrale per la lotta contro la falsificazione delle monete, ai sensi dell’articolo 12 della Convenzione internazionale del 20 aprile 1929[^1-3] per la lotta contro la falsificazione delle monete;
-- e. Ufficio centrale per la lotta contro la tratta delle bianche, ai sensi dell’articolo 1 dell’Accordo internazionale del 18 maggio 1904[^1-4] inteso a garantire una protezione efficace contro il traffico criminale conosciuto sotto il nome di tratta delle bianche;
-- f. Ufficio centrale per la lotta contro la diffusione delle pubblicazioni oscene, ai sensi dell’articolo 1 dell’Accordo internazionale del 4 maggio 1910[^1-5] per reprimere la diffusione delle pubblicazioni oscene.
+- e.[^1-4] Ufficio centrale per la lotta contro la tratta di esseri umani, ai sensi dell’articolo 5 capoverso 1 della Convenzione del 16 maggio 2005[^1-5] sulla lotta contro la tratta di esseri umani;
+- f. Ufficio centrale per la lotta contro la diffusione delle pubblicazioni oscene, ai sensi dell’articolo 1 dell’Accordo internazionale del 4 maggio 1910[^1-6] per reprimere la diffusione delle pubblicazioni oscene.
 
 [^1-1]: Nuovo testo giusta il n. I 12 dell’O del 15 ott. 2008 sugli adeguamenti alla LF sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
 [^1-2]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 [^1-3]: [RS 0.311.51](https://fedlex.data.admin.ch/eli/cc/1949/1082_1174_1105)
-[^1-4]: [RS 0.311.31](https://fedlex.data.admin.ch/eli/cc/21/37_25_37)
-[^1-5]: [RS 0.311.41](https://fedlex.data.admin.ch/eli/cc/27/225_223_285)
+[^1-4]: Nuovo testo giusta il n. I 8 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^1-5]: [RS 0.311.543](https://fedlex.data.admin.ch/eli/cc/2013/94)
+[^1-6]: [RS 0.311.41](https://fedlex.data.admin.ch/eli/cc/27/225_223_285)
 
 #### Art. 2
 
@@ -62,7 +63,7 @@ La Polizia giudiziaria federale in seno all’Ufficio federale di polizia (fedpo
 
 **Compiti quale Ufficio centrale di polizia giudiziaria**[^3-1]
 
-<sup>1</sup> In qualità di Ufficio centrale per la lotta contro la criminalità organizzata e attiva a livello internazionale, la Polizia giudiziaria federale svolge, in collaborazione con la divisione principale Cooperazione internazionale di polizia dell’Ufficio federale di polizia, i compiti d’informazione e coordinamento previsti nell’articolo 2 lettere a, b, d ed e LUC.
+<sup>1</sup> In qualità di Ufficio centrale per la lotta contro la criminalità organizzata e attiva a livello internazionale, la Polizia giudiziaria federale svolge, in collaborazione con la divisione principale Cooperazione internazionale di polizia di fedpol, i compiti di cui all’articolo 2*a* lettere a, b, d, e ed f LUC.[^3-2]
 
 <sup>2</sup>
 
@@ -70,14 +71,58 @@ Nell’ambito della sua attività di coordinamento, la Polizia giudiziaria feder
 
 - a. il contatto con le autorità nazionali ed estere di perseguimento penale e di polizia;
 - b. lo svolgimento coordinato delle investigazioni sul piano temporale e materiale;
-- c.[^3-2] la conduzione degli agenti di collegamento di fedpol della divisione principale Cooperazione internazionale di polizia distaccati all’estero.
+- c.[^3-3] la conduzione degli agenti di collegamento di fedpol della divisione principale Cooperazione internazionale di polizia distaccati all’estero.
 
 <sup>2bis</sup> La divisione principale Cooperazione internazionale di polizia garantisce l’assistenza agli agenti di collegamento stranieri distaccati in Svizzera.
 
-<sup>3</sup> L’attività d’analisi strategica ai sensi dell’articolo 2 lettera c LUC è espletata dalla divisione Analisi in seno all’Ufficio federale di polizia. Vi rientra l’analisi dei dati relativi a gruppi di autori, segnatamente la loro provenienza, composizione, delinquenza e specificità, nonché ai tipi di reati e ai metodi utilizzati per commetterli. I rapporti di situazione sono allestiti a destinazione del Dipartimento federale di giustizia e polizia e delle autorità di perseguimento penale della Confederazione e dei Cantoni. Essi possono essere resi accessibili sotto forma anonima anche ad altre autorità o organizzazioni sempreché siano necessari all’adempimento dei loro compiti. Si può rinunciare a rendere anonimi i dati qualora le autorità di perseguimento penale abbiano già reso noto al pubblico l’identità degli interessati e le fattispecie che li concernono. È fatta salva la comunicazione di dati personali ai sensi degli articoli 5–7.
+<sup>3</sup> Il compito di cui all’articolo 2*a* lettera c LUC è assolto dalla Polizia giudiziaria federale. Vi rientra l’analisi dei dati relativi a gruppi di autori, segnatamente la loro provenienza, composizione, delinquenza e specificità, nonché ai tipi di reati e ai metodi utilizzati per commetterli. I rapporti di situazione sono allestiti a destinazione del Dipartimento federale di giustizia e polizia e delle autorità di perseguimento penale della Confederazione e dei Cantoni. Essi possono essere resi accessibili sotto forma anonima anche ad altre autorità o organizzazioni sempreché siano necessari all’adempimento dei loro compiti. Si può rinunciare a rendere anonimi i dati qualora le autorità di perseguimento penale abbiano già reso noto al pubblico l’identità degli interessati e le fattispecie che li concernono. È fatta salva la comunicazione di dati personali ai sensi degli articoli 5–7.[^3-4]
 
 [^3-1]: Nuovo testo giusta l’all. n. 14 dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
-[^3-2]: Nuovo testo giusta il n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+[^3-2]: Nuovo testo giusta il n. I 8 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^3-3]: Nuovo testo giusta il n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+[^3-4]: Nuovo testo giusta il n. I 8 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+
+#### Art. 3a
+
+**Attestato sostitutivo**[^3a-1]
+
+<sup>1</sup>
+
+L’attestato sostitutivo di cui all’articolo 23*n* capoverso 8 della legge federale del 21 marzo 1997[^3a-2] sulle misure per la salvaguardia della sicurezza interna (LMSI) contiene i seguenti dati:
+
+- a.
+
+  in merito alla persona il cui documento di viaggio è stato sequestrato o messo al sicuro:
+
+  - 1\. fotografia,
+  - 2\. cognome e nome,
+  - 3\. sesso,
+  - 4\. luogo di nascita,
+  - 5\. data di nascita,
+  - 6\. luoghi d’origine,
+  - 7\. cittadinanza,
+  - 8\. statura,
+  - 9\. firma;
+
+- b.
+
+  in merito al documento di viaggio sequestrato o messo al sicuro, se disponibili:
+
+  - 1\. categoria,
+  - 2\. numero,
+  - 3\. data di rilascio,
+  - 4\. durata di validità;
+
+- c. una menzione indicante che la persona non ha il diritto di lasciare la Svizzera.
+
+<sup>2</sup> Se la persona è uno straniero, l’attestato sostitutivo non contiene dati sul luogo d’origine e la cittadinanza.
+
+<sup>3</sup> Se mette al sicuro un documento di viaggio estero (art. 23*n* cpv. 2 lett. b LMSI), fedpol ne informa il servizio della Segreteria di Stato della migrazione competente per i documenti di viaggio.
+
+<sup>4</sup> Il documento di viaggio sequestrato o messo al sicuro è restituito alla persona non appena vengono meno i motivi per il sequestro o la messa al sicuro.
+
+[^3a-1]: Introdotto dal n. I 8 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^3a-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 
 #### Art. 4
 
@@ -88,12 +133,15 @@ Nell’ambito della sua attività di coordinamento, la Polizia giudiziaria feder
 Le seguenti autorità sono tenute, su richiesta della Polizia giudiziaria federale, a collaborare e a informare ai sensi dell’articolo 4 LUC:
 
 - a. autorità di perseguimento penale, segnatamente pubblici ministeri, giudici istruttori, autorità preposte all’assistenza giudiziaria e organi di polizia giudiziaria della Confederazione e dei Cantoni;
-- b. servizi di polizia, segnatamente organi di polizia di sicurezza e amministrativa della Confederazione e dei Cantoni, nonché autorità della Confederazione incaricate dell’esecuzione della legge federale del 21 marzo 1997[^4-1] sulle misure per la salvaguardia della sicurezza interna (LMSI);
+- b.[^4-1] servizi di polizia, segnatamente organi di polizia di sicurezza e amministrativa della Confederazione e dei Cantoni, nonché autorità della Confederazione incaricate dell’esecuzione della LMSI[^4-2];
 - c. organi delle guardie di confine e delle dogane;
-- d.[^4-2] autorità della Confederazione e dei Cantoni che svolgono compiti in materia di diritto degli stranieri e sono competenti in materia d’entrata e soggiorno degli stranieri, nonché di concessione dell’asilo o di ammissione provvisoria;
+- d.[^4-3] autorità della Confederazione e dei Cantoni che svolgono compiti in materia di diritto degli stranieri e sono competenti in materia d’entrata e soggiorno degli stranieri, nonché di concessione dell’asilo o di ammissione provvisoria;
 - e. controlli degli abitanti e registri pubblici, segnatamente registri di commercio, di stato civile, fiscale, della circolazione stradale, dell’aviazione civile nonché registro fondiario;
 - f. autorità competenti per le relazioni diplomatiche e consolari;
-- g. autorità competenti per il rilascio dei permessi nell’ambito della circolazione di determinati beni.
+- g. autorità competenti per il rilascio dei permessi nell’ambito della circolazione di determinati beni;
+- h.[^4-4] Ufficio federale dell’ambiente;
+- i.[^4-5] Segreteria di Stato dell’economia;
+- j.[^4-6] autorità che aggiudicano commesse pubbliche.
 
 <sup>2</sup> Le autorità di cui al capoverso 1 sono tenute a fornire informazioni qualora i dati personali richiesti siano indispensabili all’adempimento dei compiti legali della Polizia giudiziaria federale. Inoltre esse trasmettono alla Polizia giudiziaria federale tutti i dati, non relativi a persone, che la Polizia giudiziaria federale necessita per l’adempimento del mandato legale e le forniscono appoggio logistico.
 
@@ -108,8 +156,12 @@ Le informazioni di cui al capoverso 2 comprendono segnatamente:
 
 <sup>5</sup> La Polizia giudiziaria federale può fissare temi d’informazione prioritari nonché standardizzare il rilascio delle informazioni. A questo proposito si tiene conto, in particolare, delle richieste delle autorità cantonali di perseguimento penale e di polizia.
 
-[^4-1]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^4-2]: Nuovo testo giusta il n. I 12 dell’O del 15 ott. 2008 sugli adeguamenti alla LF sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+[^4-1]: Nuovo testo giusta il n. I 8 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^4-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^4-3]: Nuovo testo giusta il n. I 12 dell’O del 15 ott. 2008 sugli adeguamenti alla LF sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+[^4-4]: Introdotta dal n. I 8 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^4-5]: Introdotta dal n. I 8 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^4-6]: Introdotta dal n. I 8 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 5
 
@@ -153,31 +205,38 @@ Per ottenere le informazioni di cui necessita e per motivare le sue domande d’
 
 <sup>2</sup>
 
-La Polizia giudiziaria federale può inoltre comunicare spontaneamente i dati personali alle seguenti autorità, a sostegno dell’adempimento dei loro compiti legali:
+La Polizia giudiziaria federale può inoltre comunicare spontaneamente i dati personali alle seguenti autorità, affinché possano adempiere i loro compiti legali:[^6-5]
 
 - a. altri servizi del fedpol;
 - b. autorità di altri Paesi, che svolgono funzioni di perseguimento penale, per le loro investigazioni di polizia giudiziaria sempreché siano adempiute le premesse di cui all’articolo 13 capoverso 2 LUC;
 - c. organizzazioni internazionali che svolgono compiti in materia di perseguimento penale e di polizia (segnatamente EUROPOL e INTERPOL) sempreché siano adempiute le premesse di cui all’articolo 13 capoverso 2 LUC;
 - d. autorità federali e cantonali competenti in materia di finanze, per le loro investigazioni di polizia giudiziaria in ambito fiscale;
 - e. Amministrazione federale delle finanze, per i suoi procedimenti penali amministrativi;
-- f.[^6-5] Autorità federale di vigilanza sui mercati finanziari, a sostegno della sua attività di vigilanza svolta nell’ambito delle leggi sui mercati finanziari giusta l’articolo 1 capoverso 1 della legge federale del 22 giugno 2007[^6-6] sulla vigilanza dei mercati finanziari, sempreché si tratti di informazioni attendibili, necessarie in sede di procedimento o atte ad avviare un procedimento;
+- f.[^6-6] Autorità federale di vigilanza sui mercati finanziari, a sostegno della sua attività di vigilanza svolta nell’ambito delle leggi sui mercati finanziari giusta l’articolo 1 capoverso 1 della legge federale del 22 giugno 2007[^6-7] sulla vigilanza dei mercati finanziari, sempreché si tratti di informazioni attendibili, necessarie in sede di procedimento o atte ad avviare un procedimento;
 - g. Commissione federale delle case da gioco, a sostegno dell’attività di vigilanza svolta nell’ambito della legislazione sulle case da gioco;
-- h.[^6-7] ...
-- i. autorità federali competenti in materia di controlli di sicurezza relativi alle persone nonché di misure atte a tutelare la sicurezza ai sensi dell’articolo 2 capoverso 4 lettere c e d LMSI, per i loro accertamenti, sempreché si tratti di informazioni attendibili.
+- h.[^6-8] ...
+- i.[^6-9] autorità federali competenti in materia di controlli di sicurezza relativi alle persone nonché di misure atte a tutelare la sicurezza ai sensi dell’articolo 2 capoverso 2 lettere a e b LMSI[^6-10], per i loro accertamenti, sempreché si tratti di informazioni attendibili;
+- j.[^6-11] servizio di polizia cantonale competente in materia di controllo dei precedenti personali ai sensi degli articoli 108*b*–108*e* della legge federale del 21 dicembre 1948[^6-12] sulla navigazione aerea, al fine di accertare un eventuale rischio per la sicurezza, sempreché si tratti di informazioni attendibili.k. autorità federali competenti in materia di controlli di sicurezza relativi alle persone nonché di misure atte a tutelare la sicurezza ai sensi dell’articolo 2 capoverso 4 lettere c nonché d LMSI[^6-13];
 
-<sup>3</sup> Tutti i dati personali sono comunicati, su richiesta, alle autorità di vigilanza della Confederazione e dei Cantoni nonché all’Incaricato federale della protezione dei dati e della trasparenza[^6-8] per l’adempimento delle loro funzioni di controllo.
+<sup>3</sup> Tutti i dati personali sono comunicati, su richiesta, alle autorità di vigilanza della Confederazione e dei Cantoni nonché all’Incaricato federale della protezione dei dati e della trasparenza[^6-14] per l’adempimento delle loro funzioni di controllo.
 
-<sup>4</sup> La Polizia giudiziaria federale deve offrire all’Archivio federale, per l’archiviazione, tutti i documenti di cui non ha più bisogno in modo permanente ai sensi della legge federale del 26 giugno 1998[^6-9] sull’archiviazione.
+<sup>4</sup> La Polizia giudiziaria federale deve offrire all’Archivio federale, per l’archiviazione, tutti i documenti di cui non ha più bisogno in modo permanente ai sensi della legge federale del 26 giugno 1998[^6-15] sull’archiviazione.
 
 [^6-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo. Precedentemente: Commissione federale delle banche.
 [^6-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo. Precedentemente: Servizio di controllo in materia di riciclaggio di denaro.
 [^6-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^6-4]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^6-5]: Nuovo testo giusta l’all. 1 n. 4 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^6-6]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^6-7]: Abrogata dall’all. 1 n. 4 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^6-8]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^6-9]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^6-5]: Nuovo testo giusta il n. I 8 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^6-6]: Nuovo testo giusta l’all. 1 n. 4 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^6-7]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^6-8]: Abrogata dall’all. 1 n. 4 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^6-9]: Nuovo testo giusta il n. I 8 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^6-10]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^6-11]: Nuovo testo giusta il n. I 8 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^6-12]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^6-13]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^6-14]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^6-15]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 #### Art. 7
 
@@ -210,17 +269,16 @@ Gli agenti di collegamento di fedpol adempiono segnatamente i compiti seguenti:[
 
 <sup>3</sup> Per adempiere i loro compiti gli agenti di collegamento di fedpol collaborano con le autorità estere ai sensi dell’articolo 13 capoverso 2 LUC e dell’articolo 6 capoverso 2 lettere a e b della presente ordinanza.[^8-4] Per la collaborazione con le autorità svizzere si applicano gli articoli 4–7.
 
-<sup>3bis</sup> Fedpol, d’intesa con l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^8-5], può delegare compiti dei propri agenti di collegamento agli agenti di collegamento dell’UDSC. Nel quadro dei compiti attribuiti da fedpol, gli agenti di collegamento dell’UDSC sono equiparati a quelli di fedpol per quanto riguarda l’accesso ai sistemi d’informazione e il diritto di trattare i dati, sempreché ciò sia necessario all’adempimento dei compiti.[^8-6]
+<sup>3bis</sup> ...[^8-5]
 
-<sup>4</sup> La conclusione di accordi con l’estero sullo stazionamento degli agenti di collegamento di fedpol spetta al Dipartimento federale di giustizia e polizia.[^8-7]
+<sup>4</sup> La conclusione di accordi con l’estero sullo stazionamento degli agenti di collegamento di fedpol spetta al Dipartimento federale di giustizia e polizia.[^8-6]
 
 [^8-1]: Nuovo testo giusta il n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
 [^8-2]: Nuovo testo giusta il n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
 [^8-3]: Nuovo testo giusta il n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
 [^8-4]: Nuovo testo giusta il n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
-[^8-5]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^8-6]: Introdotto dal n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
-[^8-7]: Nuovo testo giusta il n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+[^8-5]: Introdotto dal n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)). Abrogato dal n. I 8 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, con effetto dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^8-6]: Nuovo testo giusta il n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
 
 #### Art. 9
 

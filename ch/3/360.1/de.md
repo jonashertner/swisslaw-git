@@ -3,18 +3,18 @@ sr: "360.1"
 title: Verordnung vom 30. November 2001 über die Wahrnehmung kriminalpolizeilicher Aufgaben im Bundesamt für Polizei
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/29"
 language: de
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2001-11-30
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/29/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-29-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/29/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/29/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2002-29-20220601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/29/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Wahrnehmung kriminalpolizeilicher Aufgaben im Bundesamt für Polizei
 
-vom 30. November 2001 (Stand am 1. Januar 2022)
+vom 30. November 2001 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -24,7 +24,7 @@ verordnet:
 
 [^ingress-1]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
 [^ingress-2]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^ingress-3]: [BS **3** 303; [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)Ziff. III 4, [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 2, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 Ziff. 4, [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 15 [2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)Anhang Ziff. 2, [1993 1993](https://fedlex.data.admin.ch/eli/oc/1993/1993_1993_1993), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 7, [2000 505](https://fedlex.data.admin.ch/eli/oc/2000/95)Ziff. I 3 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453)Ziff. II 3 [2725](https://fedlex.data.admin.ch/eli/oc/2000/454)Ziff. II, [2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22)Ziff. I 3 [3071](https://fedlex.data.admin.ch/eli/oc/2001/459)Ziff. II 1 [3096](https://fedlex.data.admin.ch/eli/oc/2001/467)Anhang Ziff. 2 [3308](https://fedlex.data.admin.ch/eli/oc/2001/492), [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 9, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 4, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 19, [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Anhang Ziff. 10, [2007 6087](https://fedlex.data.admin.ch/eli/oc/2007/811), [2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232)Anhang Ziff. 1 [4989](https://fedlex.data.admin.ch/eli/oc/2008/698)Anhang 1 Ziff. 6 [5463](https://fedlex.data.admin.ch/eli/oc/2008/759)Anhang Ziff. 3, [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)Anhang Ziff. II 3. [AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Anhang 1 Ziff. I 1]. Siehe heute: die Strafprozessordnung vom 5. Okt. 2007 ([SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)).
+[^ingress-3]: [BS **3** 303; [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)Ziff. III 4; [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 2; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 Ziff. 4; [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 15, [2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)Anhang Ziff. 2; [1993 1993](https://fedlex.data.admin.ch/eli/oc/1993/1993_1993_1993); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 7; [2000 505](https://fedlex.data.admin.ch/eli/oc/2000/95)Ziff. I 3, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453)Ziff. II 3, [2725](https://fedlex.data.admin.ch/eli/oc/2000/454)Ziff. II; [2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22)Ziff. I 3, [3071](https://fedlex.data.admin.ch/eli/oc/2001/459)Ziff. II 1, [3096](https://fedlex.data.admin.ch/eli/oc/2001/467)Anhang Ziff. 2, [3308](https://fedlex.data.admin.ch/eli/oc/2001/492); [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 9; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 4; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 19; [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Anhang Ziff. 10; [2007 6087](https://fedlex.data.admin.ch/eli/oc/2007/811); [2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232)Anhang Ziff. 1, [4989](https://fedlex.data.admin.ch/eli/oc/2008/698)Anhang 1 Ziff. 6, [5463](https://fedlex.data.admin.ch/eli/oc/2008/759)Anhang Ziff. 3; [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)Anhang Ziff. II 3. [AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Anhang 1 Ziff. I 1]. Siehe heute: die Strafprozessordnung vom 5. Okt. 2007 ([SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)).
 [^ingress-4]: Fassung gemäss Ziff. I 12 der V vom 15. Okt. 2008 über die Anpassungen an das Bundesgesetz über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
 
 #### Art. 1
@@ -37,14 +37,15 @@ Die Bundeskriminalpolizei im Bundesamt für Polizei (fedpol) erfüllt Aufgaben:[
 - b. als Zentralstelle zur Bekämpfung des organisierten Verbrechens nach Artikel 7 ZentG;
 - c. als Zentralstelle für die Bekämpfung des unerlaubten Betäubungsmittelverkehrs nach Artikel 9 ZentG und Artikel 29 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^1-2];
 - d. als Zentralstelle für die Bekämpfung der Falschmünzerei nach Artikel 12 des Internationalen Abkommens vom 20. April 1929[^1-3] zur Bekämpfung der Falschmünzerei;
-- e. als Zentralstelle für die Bekämpfung des Mädchenhandels nach Artikel 1 des Internationalen Übereinkommens vom 18. Mai 1904[^1-4] zur Gewährleistung eines wirksamen Schutzes gegen das unter dem Namen «Mädchenhandel» bekannte verbrecherische Treiben;
-- f. als Zentralstelle für die Bekämpfung der Verbreitung unzüchtiger Veröffentlichungen nach Artikel 1 des Internationalen Übereinkommens vom 4. Mai 1910[^1-5] zur Bekämpfung der Verbreitung unzüchtiger Veröffentlichungen.
+- e.[^1-4] als Zentralstelle für die Bekämpfung des Menschenhandels nach Artikel 5 Absatz 1 des Übereinkommens vom 16. Mai 2005[^1-5] zur Bekämpfung des Menschenhandels;
+- f. als Zentralstelle für die Bekämpfung der Verbreitung unzüchtiger Veröffentlichungen nach Artikel 1 des Internationalen Übereinkommens vom 4. Mai 1910[^1-6] zur Bekämpfung der Verbreitung unzüchtiger Veröffentlichungen.
 
 [^1-1]: Fassung gemäss Ziff. I 12 der V vom 15. Okt. 2008 über die Anpassungen an das Bundesgesetz über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
 [^1-2]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 [^1-3]: [SR 0.311.51](https://fedlex.data.admin.ch/eli/cc/1949/1082_1174_1105)
-[^1-4]: [SR 0.311.31](https://fedlex.data.admin.ch/eli/cc/21/37_25_37)
-[^1-5]: [SR 0.311.41](https://fedlex.data.admin.ch/eli/cc/27/225_223_285)
+[^1-4]: Fassung gemäss Ziff. I 8 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^1-5]: [SR 0.311.543](https://fedlex.data.admin.ch/eli/cc/2013/94)
+[^1-6]: [SR 0.311.41](https://fedlex.data.admin.ch/eli/cc/27/225_223_285)
 
 #### Art. 2
 
@@ -62,7 +63,7 @@ Die Bundeskriminalpolizei im Bundesamt für Polizei (fedpol) erfüllt Aufgaben:[
 
 **Aufgaben als kriminalpolizeiliche Zentralstelle**[^3-1]
 
-<sup>1</sup> Als Zentralstelle zur Bekämpfung des organisierten und international tätigen Verbrechens nimmt die Bundeskriminalpolizei in Zusammenarbeit mit der Hauptabteilung Internationale Polizeikooperation des Bundesamtes die in Artikel 2 Buchstaben a, b, d und e ZentG vorgesehenen Informations- und Koordinationsaufgaben wahr.
+<sup>1</sup> Als Zentralstelle zur Bekämpfung des organisierten und international tätigen Verbrechens nimmt die Bundeskriminalpolizei in Zusammenarbeit mit der Hauptabteilung Internationale Polizeikooperation von fedpol die Aufgaben nach Artikel 2*a* Buchstaben a, b, d, e und f ZentG wahr.[^3-2]
 
 <sup>2</sup>
 
@@ -74,9 +75,53 @@ Im Rahmen ihrer Koordinationstätigkeit stellt die Bundeskriminalpolizei sicher:
 
 <sup>2bis</sup> Die Hauptabteilung Internationale Polizeikooperation stellt die Betreuung der ausländischen Polizeiverbindungsleute in der Schweiz sicher.
 
-<sup>3</sup> Die strategische Analysetätigkeit im Sinne von Artikel 2 Buchstabe c ZentG wird von der Abteilung Analyse des Bundesamtes ausgeführt. Zu dieser Aufgabe gehört die Analyse von Daten in Bezug auf Tätergruppen, insbesondere deren Herkunft, Zusammensetzung, Delinquenz und Eigenart, sowie hinsichtlich Deliktsarten und Verbrechensbegehungsmethoden, ferner Lageberichte, welche zuhanden des Eidgenössischen Justiz- und Polizeidepartements und der Strafverfolgungsbehörden des Bundes und der Kantone erstellt werden. Sie können in anonymisierter Form auch weiteren Behörden und Organisationen zugänglich gemacht werden, soweit es für deren Aufgabenerfüllung erforderlich ist. Auf eine Anonymisierung kann verzichtet werden, wenn die Öffentlichkeit über die Identität der betroffenen Personen und die sie betreffenden Sachverhalte bereits durch eine Strafverfolgungsbehörde informiert ist. Die Weitergabe von Personendaten nach den Artikeln 5–7 bleibt vorbehalten.
+<sup>3</sup> Für die Aufgabe nach Artikel 2*a* Buchstabe c ZentG ist die Bundeskriminalpolizei zuständig. Zu dieser Aufgabe gehört die Analyse von Daten in Bezug auf Tätergruppen, insbesondere deren Herkunft, Zusammensetzung, Delinquenz und Eigenart, sowie hinsichtlich Deliktsarten und Verbrechensbegehungsmethoden, ferner Lageberichte, welche zuhanden des Eidgenössischen Justiz- und Polizeidepartements und der Strafverfolgungsbehörden des Bundes und der Kantone erstellt werden. Sie können in anonymisierter Form auch weiteren Behörden und Organisationen zugänglich gemacht werden, soweit es für deren Aufgabenerfüllung erforderlich ist. Auf eine Anonymisierung kann verzichtet werden, wenn die Öffentlichkeit über die Identität der betroffenen Personen und die sie betreffenden Sachverhalte bereits durch eine Strafverfolgungsbehörde informiert ist. Die Weitergabe von Personendaten nach den Artikeln 5–7 bleibt vorbehalten.[^3-3]
 
 [^3-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^3-2]: Fassung gemäss Ziff. I 8 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^3-3]: Fassung gemäss Ziff. I 8 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+
+#### Art. 3a
+
+**Ersatznachweis**[^3a-1]
+
+<sup>1</sup>
+
+Der Ersatznachweis nach Artikel 23*n* Absatz 8 des Bundesgesetzes vom 21. März 1997[^3a-2] über Massnahmen zur Wahrung der inneren Sicherheit (BWIS) muss folgende Daten enthalten:
+
+- a.
+
+  über die Person, deren Reisedokument beschlagnahmt oder sichergestellt worden ist:
+
+  - 1\. Foto,
+  - 2\. Namen und Vornamen,
+  - 3\. Geschlecht,
+  - 4\. Geburtsort,
+  - 5\. Geburtsdatum,
+  - 6\. Heimatorte,
+  - 7\. Staatsangehörigkeiten,
+  - 8\. Körpergrösse,
+  - 9\. Unterschrift;
+
+- b.
+
+  über das beschlagnahmte oder sichergestellte Reisedokument, falls vorhanden:
+
+  - 1\. Kategorie,
+  - 2\. Nummer,
+  - 3\. Ausstellungsdatum,
+  - 4\. Gültigkeitsdauer;
+
+- c. einen Vermerk, dass die Person nicht aus der Schweiz ausreisen darf.
+
+<sup>2</sup> Handelt es sich bei der Person um eine Ausländerin oder einen Ausländer, so enthält der Ersatznachweis keine Daten zum Heimatort und zur Staatsangehörigkeit.
+
+<sup>3</sup> Wird ein ausländisches Reisedokument sichergestellt (Art. 23*n* Abs. 2 Bst. b BWIS), so informiert fedpol die für Reisedokumente zuständige Stelle des Staatssekretariats für Migration.
+
+<sup>4</sup> Beschlagnahmte oder sichergestellte Reisedokumente werden der Person zurückgegeben, sobald die Gründe für die Beschlagnahmung oder Sicherstellung nicht mehr gegeben sind.
+
+[^3a-1]: Eingefügt durch Ziff. I 8 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^3a-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 
 #### Art. 4
 
@@ -87,12 +132,15 @@ Im Rahmen ihrer Koordinationstätigkeit stellt die Bundeskriminalpolizei sicher:
 Folgende Behörden sind auf Ersuchen der Bundeskriminalpolizei zur Zusammenarbeit und Erteilung von Auskünften im Sinne von Artikel 4 ZentG verpflichtet:
 
 - a. Strafverfolgungsbehörden; insbesondere die Staatsanwaltschaften, Untersuchungsrichter, Rechtshilfebehörden und die Organe der gerichtlichen Polizei des Bundes und der Kantone;
-- b. Polizeistellen; insbesondere Organe der Sicherheits- und Verwaltungspolizei des Bundes und der Kantone sowie die mit dem Vollzug des Bundesgesetzes vom 21. März 1997[^4-1] über Massnahmen zur Wahrung der inneren Sicherheit (BWIS) betrauten Behörden des Bundes;
+- b.[^4-1] Polizeistellen; insbesondere Organe der Sicherheits- und Verwaltungspolizei des Bundes und der Kantone sowie die mit dem Vollzug des BWIS[^4-2] betrauten Behörden des Bundes;
 - c. Grenzwacht- und Zollorgane;
-- d.[^4-2] Behörden des Bundes und der Kantone, die ausländerrechtliche Aufgaben wahrnehmen, für die Einreise und den Aufenthalt von Ausländern und Ausländerinnen, für die Gewährung von Asyl oder für die Anordnung der vorläufigen Aufnahme zuständig sind;
+- d.[^4-3] Behörden des Bundes und der Kantone, die ausländerrechtliche Aufgaben wahrnehmen, für die Einreise und den Aufenthalt von Ausländern und Ausländerinnen, für die Gewährung von Asyl oder für die Anordnung der vorläufigen Aufnahme zuständig sind;
 - e. Einwohnerkontrollen und öffentliche Register; insbesondere Handelsregister, Zivilstandsregister, Steuerregister, Strassenverkehrsregister, das Grundbuch und das Zivilluftfahrtsregister;
 - f. Behörden, die für den diplomatischen und konsularischen Verkehr zuständig sind;
-- g. Behörden, die für Bewilligungen im Zusammenhang mit dem Verkehr mit bestimmten Gütern zuständig sind.
+- g. Behörden, die für Bewilligungen im Zusammenhang mit dem Verkehr mit bestimmten Gütern zuständig sind;
+- h.[^4-4] das Bundesamt für Umwelt;
+- i.[^4-5] das Staatssekretariat für Wirtschaft;
+- j.[^4-6] Behörden, die öffentliche Aufträge vergeben.
 
 <sup>2</sup> Die Behörden nach Absatz 1 sind zur Auskunft verpflichtet, soweit die angeforderten Personendaten für die Erfüllung der gesetzlichen Aufgaben der Bundeskriminalpolizei unentbehrlich sind. Daneben erteilen die Behörden nach Absatz 1 der Bundeskriminalpolizei alle nicht personenbezogenen Auskünfte, welche diese zur Erfüllung ihres gesetzlichen Auftrages benötigt und gewähren ihr logistische Unterstützung.
 
@@ -107,8 +155,12 @@ Unter die Auskünfte nach Absatz 2 fallen namentlich:
 
 <sup>5</sup> Die Bundeskriminalpolizei kann Informationsschwerpunkte bestimmen und die Auskunftserteilung standardisieren. Dabei werden insbesondere die Anliegen kantonaler Strafverfolgungs- und Polizeibehörden berücksichtigt.
 
-[^4-1]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^4-2]: Fassung gemäss Ziff. I 12 der V vom 15. Okt. 2008 über die Anpassungen an das Bundesgesetz über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+[^4-1]: Fassung gemäss Ziff. I 8 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^4-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^4-3]: Fassung gemäss Ziff. I 12 der V vom 15. Okt. 2008 über die Anpassungen an das Bundesgesetz über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+[^4-4]: Eingefügt durch Ziff. I 8 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^4-5]: Eingefügt durch Ziff. I 8 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^4-6]: Eingefügt durch Ziff. I 8 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 5
 
@@ -152,7 +204,7 @@ Die Bundeskriminalpolizei kann, soweit dies zur Erlangung der von ihr benötigte
 
 <sup>2</sup> f.[^6-4] der Eidgenössischen Finanzmarktaufsicht zur Unterstützung von deren Aufsichtstätigkeit im Rahmen der Finanzmarktgesetze gemäss Artikel 1 Absatz 1 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^6-5], soweit es sich um gesicherte Informationen handelt, die für ein Verfahren benötigt werden oder ein solches in Gang setzen können;
 
-Darüber hinaus kann die Bundeskriminalpolizei Personendaten folgenden Behörden zur Unterstützung deren gesetzlicher Aufgaben unaufgefordert weitergeben:
+Darüber hinaus kann die Bundeskriminalpolizei Personendaten folgenden Behörden unaufgefordert weitergeben, damit diese ihre gesetzlichen Aufgaben wahrnehmen können:[^6-6]
 
 - a. den anderen Stellen von fedpol;
 - b. den Behörden anderer Länder, welche Strafverfolgungsfunktionen wahrnehmen, für deren gerichtspolizeilichen Ermittlungen, sofern die Voraussetzungen nach Artikel 13 Absatz 2 ZentG erfüllt sind;
@@ -161,21 +213,27 @@ Darüber hinaus kann die Bundeskriminalpolizei Personendaten folgenden Behörden
 - e. der Eidgenössischen Finanzverwaltung für deren verwaltungsstrafrechtlichen Verfahren;
 
 - g. der Eidgenössischen Spielbankenkommission zur Unterstützung ihrer Aufsichtstätigkeit im Rahmen der Glücksspielgesetzgebung;
-- h.[^6-6] ...
-- i. den mit Personensicherheitsüberprüfungen und mit Schutzmassnahmen im Sinne von Artikel 2 Absatz 4 Buchstaben c und d BWIS betrauten Bundesbehörden für deren Abklärungen, soweit es sich um gesicherte Informationen handelt.
+- h.[^6-7] …
+- i.[^6-8] den mit Personensicherheitsüberprüfungen und Schutzmassnahmen im Sinne von Artikel 2 Absatz 2 Buchstaben a und b BWIS[^6-9] betrauten Bundesbehörden für deren Abklärungen, soweit es sich um gesicherte Informationen handelt;
+- j.[^6-10] der zuständigen kantonalen Polizeistelle für Zuverlässigkeitsprüfungen nach den Artikeln 108*b*–108*e* des Luftfahrtgesetzes vom 21. Dezember 1948[^6-11] zur Abklärung des Sicherheitsrisikos, soweit es sich um gesicherte Informationen handelt.
 
-<sup>3</sup> Zur Erfüllung ihrer Kontrollfunktionen werden den Aufsichtsbehörden des Bundes und der Kantone sowie dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten[^6-7] auf Verlangen alle Personendaten bekannt gegeben.
+<sup>3</sup> Zur Erfüllung ihrer Kontrollfunktionen werden den Aufsichtsbehörden des Bundes und der Kantone sowie dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten[^6-12] auf Verlangen alle Personendaten bekannt gegeben.
 
-<sup>4</sup> Sämtliche von der Bundeskriminalpolizei nicht mehr ständig benötigten Unterlagen werden gemäss Bundesgesetz vom 26. Juni 1998[^6-8] über die Archivierung dem Bundesarchiv zur Übernahme angeboten.
+<sup>4</sup> Sämtliche von der Bundeskriminalpolizei nicht mehr ständig benötigten Unterlagen werden gemäss Bundesgesetz vom 26. Juni 1998[^6-13] über die Archivierung dem Bundesarchiv zur Übernahme angeboten.
 
 [^6-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 [^6-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 [^6-3]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^6-4]: Fassung gemäss Anhang 1 Ziff. 4 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 [^6-5]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^6-6]: Aufgehoben durch Anhang 1 Ziff. 4 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^6-7]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
-[^6-8]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^6-6]: Fassung gemäss Ziff. I 8 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^6-7]: Aufgehoben durch Anhang 1 Ziff. 4 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^6-8]: Fassung gemäss Ziff. I 8 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^6-9]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^6-10]: Eingefügt durch Ziff. I 8 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^6-11]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^6-12]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
+[^6-13]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 #### Art. 7
 
@@ -208,14 +266,13 @@ Sie haben insbesondere folgende Aufgaben:
 
 <sup>3</sup> Zur Erfüllung ihrer Aufgaben arbeiten sie im Rahmen von Artikel 13 Absatz 2 ZentG und Artikel 6 Absatz 2 Buchstaben a und b dieser Verordnung mit ausländischen Behörden zusammen. Für die Zusammenarbeit mit inländischen Behörden gelten die Artikel 4–7.
 
-<sup>3bis</sup> Fedpol kann im Einvernehmen mit dem Bundesamt für Zoll und Grenzsicherheit (BAZG)[^8-2] Aufgaben der Polizeiverbindungsleute an die Verbindungsleute des BAZG delegieren. Die Verbindungleute des BAZG sind im Rahmen der von fedpol übertragenen Aufgaben den Polizeiverbindungsleuten bezüglich des Zugriffs auf Informationssysteme und der Berechtigung zur Datenbearbeitung gleichgestellt, soweit dies für die Aufgabenerfüllung erforderlich ist.[^8-3]
+<sup>3bis</sup> …[^8-2]
 
-<sup>4</sup> Das Eidgenössische Justiz- und Polizeidepartement ist zuständig für den Abschluss von Vereinbarungen mit dem Ausland über die Stationierung von Polizeiverbindungsleuten.[^8-4]
+<sup>4</sup> Das Eidgenössische Justiz- und Polizeidepartement ist zuständig für den Abschluss von Vereinbarungen mit dem Ausland über die Stationierung von Polizeiverbindungsleuten.[^8-3]
 
 [^8-1]: Fassung gemäss Ziff. I 2 der V vom 23. Nov. 2016 über die gegenseitige Wahrnehmung von Aufgaben durch Polizeiverbindungsleute und Verbindungsleute der Eidgenössischen Zollverwaltung, in Kraft seit 1. Jan. 2017 ([AS 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
-[^8-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
-[^8-3]: Eingefügt durch Ziff. I 2 der V vom 23. Nov. 2016 über die gegenseitige Wahrnehmung von Aufgaben durch Polizeiverbindungsleute und Verbindungsleute der Eidgenössischen Zollverwaltung, in Kraft seit 1. Jan. 2017 ([AS 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
-[^8-4]: Fassung gemäss Ziff. I 1 der V vom 23. Nov. 2016 über die gegenseitige Wahrnehmung von Aufgaben durch Polizeiverbindungsleute und Verbindungsleute der Eidgenössischen Zollverwaltung, in Kraft seit 1. Jan. 2017 ([AS 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+[^8-2]: Eingefügt durch Ziff. I 2 der V vom 23. Nov. 2016 über die gegenseitige Wahrnehmung von Aufgaben durch Polizeiverbindungsleute und Verbindungsleute der Eidgenössischen Zollverwaltung ([AS 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)). Aufgehoben durch Ziff. I 8 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, mit Wirkung seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^8-3]: Fassung gemäss Ziff. I 1 der V vom 23. Nov. 2016 über die gegenseitige Wahrnehmung von Aufgaben durch Polizeiverbindungsleute und Verbindungsleute der Eidgenössischen Zollverwaltung, in Kraft seit 1. Jan. 2017 ([AS 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
 
 #### Art. 9
 
