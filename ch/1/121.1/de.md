@@ -4,11 +4,11 @@ title: "Verordnung vom 16. August 2017 über den Nachrichtendienst (Nachrichtend
 short: NDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/495"
 language: de
-version: 2021-12-01
+version: 2022-06-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/495/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2017-495-20211201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20211201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/495/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2017-495-20220601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20211201/de"
 
 (Nachrichtendienstverordnung, NDV)
 
-vom 16. August 2017 (Stand am 1. Dezember 2021)
+vom 16. August 2017 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -825,13 +825,13 @@ Anhang 2
 
 Im Streitfall verfügt der NDB die Höhe der Entschädigung.
 
-Anhang 3*[^t-1]*
+Anhang 3[^t-1]
 
 (Art. 32 Abs. 1)
 
 ## Bekanntgabe von Personendaten an inländische Behörden und Amtsstellen
 
-[^t-1]: Bereinigt gemäss Anhang 3 Ziff. II 1 der Bevölkerungsschutzverordnung vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
+[^t-1]: Bereinigt gemäss Anhang 3 Ziff. II 1 der Bevölkerungsschutzverordnung vom 11. Nov. 2020 ([AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)) und Ziff. I 2 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 Der NDB gibt den schweizerischen Strafverfolgungsbehörden Personendaten unter den in Artikel 60 Absätze 2–4 NDG genannten Voraussetzungen bekannt; den Aufsichtsbehörden gibt er die Daten vorbehaltlos bekannt.
 
@@ -890,7 +890,8 @@ Der NDB kann den folgenden inländischen Behörden und Amtsstellen Personendaten
     - 9\.3.9 zur Aussprechung von Fernhaltemassnahmen und Ausweisungen
     - 9\.3.10 zur Beschlagnahme von Propagandamaterial sowie zur Löschung und Sperrung von Websites nach Artikel 13*e* des Bundesgesetzes vom 21. März 1997[^annex3-lvlu1-3] über die Massnahmen zur Wahrung der inneren Sicherheit
     - 9\.3.11 für die Sicherheit von Personen im Zeugenschutzprogramm sowie von deren nahestehenden Angehörigen
-    - 9\.3.12 für die Sicherheit von Passagieren schweizerischer Luftfahrzeuge;
+    - 9\.3.12 für die Sicherheit von Passagieren schweizerischer Luftfahrzeuge
+    - 9\.3.13 zur Bearbeitung von Aufgaben nach dem Bundesgesetz vom 21. März 1997[^annex3-lvlu1-4] über Massnahmen zur Wahrung der inneren Sicherheit;
 
 - 10\.
 
@@ -920,7 +921,7 @@ Der NDB kann den folgenden inländischen Behörden und Amtsstellen Personendaten
     dem Bundesamt für Bevölkerungsschutz:
 
     - 10\.4.1 dem Geschäftsbereich Bevölkerungsschutzpolitik im Zusammenhang mit dem Schutz kritischer Infrastrukturen
-    - 10\.4.2 der Nationalen Alarmzentrale: im Hinblick auf die Beschaffung, Analyse und Verbreitung von Informationen nach der Bevölkerungsschutzverordnung vom 11. November 2020[^annex3-lvlu1-4]
+    - 10\.4.2 der Nationalen Alarmzentrale: im Hinblick auf die Beschaffung, Analyse und Verbreitung von Informationen nach der Bevölkerungsschutzverordnung vom 11. November 2020[^annex3-lvlu1-5]
     - 10\.4.3 dem Labor Spiez: im Zusammenhang mit Informationen und Erkenntnissen zur ABC-Sicherheit,
 
   - 10\.5 der Fachstelle für Personensicherheitsprüfungen: zur Durchführung von Personensicherheitsprüfungen;
@@ -954,7 +955,7 @@ Der NDB kann den folgenden inländischen Behörden und Amtsstellen Personendaten
 
     dem Staatssekretariat für Wirtschaft:
 
-    - 12\.1.1 zum Vollzug des Kriegsmaterialgesetzes vom 13. Dezember 1996[^annex3-lvlu1-5] und des Güterkontrollgesetzes vom 13. Dezember 1996[^annex3-lvlu1-6]
+    - 12\.1.1 zum Vollzug des Kriegsmaterialgesetzes vom 13. Dezember 1996[^annex3-lvlu1-6] und des Güterkontrollgesetzes vom 13. Dezember 1996[^annex3-lvlu1-7]
     - 12\.1.2 zur Ergreifung von Massnahmen auf dem Gebiet des Aussenwirtschaftsrechts
     - 12\.1.3 zur Vorbereitung oder Durchführung eines polizeilichen Ermittlungsverfahrens
     - 12\.1.4 zur Beurteilung der wirtschaftlichen und wirtschaftspolitischen Lage in den Interessensgebieten der Schweiz,
@@ -975,7 +976,7 @@ Der NDB kann den folgenden inländischen Behörden und Amtsstellen Personendaten
     - 13\.2.1 im Zusammenhang mit dem Vollzug der Kernenergiegesetzgebung
     - 13\.2.2 im Rahmen seiner Mitwirkungsrechte auf dem Gebiet des Aussenwirtschaftsrechts,
 
-  - 13\.3 dem Eidgenössischen Nuklearsicherheitsinspektorat: im Zusammenhang mit dem Vollzug der Strahlenschutzgesetzgebung und der Aufgaben nach Artikel 2 Absatz 1 des Bundesgesetzes vom 22. Juni 2007[^annex3-lvlu1-7] über das Eidgenössische Nuklearsicherheitsinspektorat,
+  - 13\.3 dem Eidgenössischen Nuklearsicherheitsinspektorat: im Zusammenhang mit dem Vollzug der Strahlenschutzgesetzgebung und der Aufgaben nach Artikel 2 Absatz 1 des Bundesgesetzes vom 22. Juni 2007[^annex3-lvlu1-8] über das Eidgenössische Nuklearsicherheitsinspektorat,
   - 13\.4 dem Bundesamt für Umwelt: im Zusammenhang mit dem Vollzug der Umweltschutzgesetzgebung;
 
 - 14\. Behörden und Amtsstellen des Bundes, der Kantone und der Gemeinden, wenn es zu deren Sicherheit oder zur Abwehr einer unmittelbar drohenden Gefahr notwendig ist.
@@ -983,10 +984,11 @@ Der NDB kann den folgenden inländischen Behörden und Amtsstellen Personendaten
 [^annex3-lvlu1-1]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
 [^annex3-lvlu1-2]: [[AS 2001 1741](https://fedlex.data.admin.ch/eli/oc/2001/271); [2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)Anhang Ziff. 1; [2008 4295](https://fedlex.data.admin.ch/eli/oc/2008/606); [2014 2291](https://fedlex.data.admin.ch/eli/oc/2014/384); [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)Anhang 4 Ziff. II 2]. Siehe heute: die V vom 24. Juni 2020 ([SR 120.72](https://fedlex.data.admin.ch/eli/cc/2020/546)).
 [^annex3-lvlu1-3]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^annex3-lvlu1-4]: [SR 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
-[^annex3-lvlu1-5]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^annex3-lvlu1-6]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^annex3-lvlu1-7]: [SR 732.2](https://fedlex.data.admin.ch/eli/cc/2007/775)
+[^annex3-lvlu1-4]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^annex3-lvlu1-5]: [SR 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
+[^annex3-lvlu1-6]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^annex3-lvlu1-7]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^annex3-lvlu1-8]: [SR 732.2](https://fedlex.data.admin.ch/eli/cc/2007/775)
 
 Anhang 4
 
@@ -1005,7 +1007,7 @@ II
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annex4-lvlu1-3]
+…[^annex4-lvlu1-3]
 
 [^annex4-lvlu1-1]: [[AS 2000 61](https://fedlex.data.admin.ch/eli/oc/2000/11); [2001 1369](https://fedlex.data.admin.ch/eli/oc/2001/189); [2006 5249](https://fedlex.data.admin.ch/eli/oc/2006/795); [2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)Anhang Ziff. 5; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 3]
 [^annex4-lvlu1-2]: [[AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848);[2010 3865](https://fedlex.data.admin.ch/eli/oc/2010/558);[2012 3767](https://fedlex.data.admin.ch/eli/oc/2012/430), [5527](https://fedlex.data.admin.ch/eli/oc/2012/638)Art. 15 Ziff. 2, [6731](https://fedlex.data.admin.ch/eli/oc/2012/815)Anhang Ziff. 1; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 2; [2014 3231](https://fedlex.data.admin.ch/eli/oc/2014/554)Art. 46;[2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)Anhang Ziff. II 1; [2017 707](https://fedlex.data.admin.ch/eli/oc/2017/133)]

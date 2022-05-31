@@ -4,11 +4,11 @@ title: "Ordonnance du 16 août 2017 sur le service de renseignement (Ordonnance 
 short: ORens
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/495"
 language: fr
-version: 2021-12-01
+version: 2022-06-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/495/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-495-20211201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20211201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/495/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2017-495-20220601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20211201/fr"
 
 (Ordonnance sur le renseignement, ORens)
 
-du 16 août 2017 (Etat le 1<sup>er</sup> décembre 2021)
+du 16 août 2017 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -209,7 +209,7 @@ Si le SRC recherche des informations en Suisse en collaboration avec un service 
 
 #### Art. 16
 
-**Collaboration avec des services étrangers ou des particuliers basés à l’étranger et dmandats de recherche d’informations**
+**Collaboration avec des services étrangers ou des particuliers basés à l’étranger et de mandats de recherche d’informations**
 
 <sup>1</sup> Si le SRC recherche des informations à l’étranger en collaboration avec un service étranger ou un particulier à l’étranger, ou s’il confie un mandat de recherche d’informations à un service étranger ou à un particulier à l’étranger, il est tenu de communiquer au service étranger ou au particulier les dispositions légales applicables et de l’instruire si nécessaire pour garantir une recherche conforme à la loi.
 
@@ -825,13 +825,13 @@ Annexe 2
 
 En cas de litige, le SRC arrête le montant de l’indemnité.
 
-Annexe 3*[^t-1]*
+Annexe 3[^t-1]
 
 (art. 32, al. 1)
 
 ## Communication de données personnelles à des autorités et services suisses
 
-[^t-1]: Mise à jour par l’annexe 3 ch. II 1 de l’O du 11 nov. 2020 sur la protection de la population, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
+[^t-1]: Mise à jour par l’annexe 3 ch. II 1 de l’O du 11 nov. 2020 sur la protection de la population ([RO 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)) et le ch. I 2 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 Le SRC communique des données personnelles aux autorités suisses de poursuite pénale aux conditions énumérées à l’art. 60, al. 2 à 4, LRens; il les communique sans réserve aux autorités de surveillance.
 
@@ -866,7 +866,10 @@ Le SRC peut communiquer des données personnelles aux autorités et services sui
   Département fédéral de justice et police:
 
   - 9\.1 Office fédéral de la justice: pour le traitement des demandes d’entraide judiciaire en matière pénale;
-    - 9\.2 Secrétariat d’État aux migrations:
+  - 9\.2
+
+    Secrétariat d’État aux migrations:
+
     - 9\.2.1 pour traiter les demandes de naturalisation,
     - 9\.2.2 pour les mesures prises à l’encontre de ressortissants étrangers, notamment pour les interdictions d’entrée,
     - 9\.2.3 pour l’appréciation de demandes d’asile,
@@ -887,7 +890,8 @@ Le SRC peut communiquer des données personnelles aux autorités et services sui
     - 9\.3.9 pour ordonner des mesures d’éloignement et d’expulsion,
     - 9\.3.10 pour la saisie de matériel de propagande ainsi que suppression et blocage de sites Internet conformément à l’art. 13*e* de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^annex3-lvlu1-3],
     - 9\.3.11 pour la sécurité de personnes faisant l’objet d’un programme de protection des témoins et de leurs proches,
-    - 9\.3.12 pour la sécurité des passagers voyageant à bord d’aéronefs suisses;
+    - 9\.3.12 pour la sécurité des passagers voyageant à bord d’aéronefs suisses,
+    - 9\.3.13 pour le traitement de tâches prévues par la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^annex3-lvlu1-4];
 
 - 10\.
 
@@ -917,7 +921,7 @@ Le SRC peut communiquer des données personnelles aux autorités et services sui
     Office fédéral de la protection de la population:
 
     - 10\.4.1 division de la politique en matière protection de la population, en corrélation avec la protection des infrastructures critiques,
-    - 10\.4.2 Centrale nationale d’alarme: en vue de rechercher, d’analyser et de communiquer des informations conformément à l’ordonnance du 11 novembre 2020 sur la protection de la population[^annex3-lvlu1-4],
+    - 10\.4.2 Centrale nationale d’alarme: en vue de rechercher, d’analyser et de communiquer des informations conformément à l’ordonnance du 11 novembre 2020 sur la protection de la population[^annex3-lvlu1-5],
     - 10\.4.3 laboratoire de Spiez: en corrélation avec des informations, des renseignements et des rapports relatifs à la sécurité NBC,
 
   - 10\.5 service spécialisé chargé des contrôles de sécurité relatifs aux personnes: pour l’exécution des contrôles;
@@ -951,7 +955,7 @@ Le SRC peut communiquer des données personnelles aux autorités et services sui
 
     Secrétariat d’État à l’économie:
 
-    - 12\.1.1 pour l’exécution de la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^annex3-lvlu1-5] et de la loi du 13 décembre 1996 sur le contrôle des biens[^annex3-lvlu1-6],
+    - 12\.1.1 pour l’exécution de la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^annex3-lvlu1-6] et de la loi du 13 décembre 1996 sur le contrôle des biens[^annex3-lvlu1-7],
     - 12\.1.2 pour la prise de mesures dans le domaine du droit du commerce extérieur,
     - 12\.1.3 pour la préparation ou l’exécution de procédures d’enquête de police judiciaire,
     - 12\.1.4 pour l’appréciation de la situation économique et de politique d’économie dans les zones d’intérêts du territoire national,
@@ -972,18 +976,19 @@ Le SRC peut communiquer des données personnelles aux autorités et services sui
     - 13\.2.1 dans le cadre de l’exécution de la législation sur l’énergie nucléaire,
     - 13\.2.2 dans le cadre de ses droits de participation relevant du droit du commerce extérieur,
 
-  - 13\.3 Inspection fédérale de la sécurité nucléaire: dans le cadre de l’exécution de la législation sur la radioprotection et de ses tâches selon l’art. 2, al. 1, de la loi du 22 juin 2007 sur l’Inspection fédérale de la sécurité nucléaire[^annex3-lvlu1-7],
+  - 13\.3 Inspection fédérale de la sécurité nucléaire: dans le cadre de l’exécution de la législation sur la radioprotection et de ses tâches selon l’art. 2, al. 1, de la loi du 22 juin 2007 sur l’Inspection fédérale de la sécurité nucléaire[^annex3-lvlu1-8],
   - 13\.4 Office fédéral de l’agriculture: en corrélation avec l’exécution de la législation sur la protection de l’environnement.
 
-- 14\. Autorités et services de la Confédération, des cantons et des communes, lorsqu’il y a une nécessité pour leur sécurité ou pour contrer une menace imminente.
+- 14\. autorités et services de la Confédération, des cantons et des communes, lorsqu’il y a une nécessité pour leur sécurité ou pour contrer une menace imminente.
 
 [^annex3-lvlu1-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
 [^annex3-lvlu1-2]: [[RO 2001 1741](https://fedlex.data.admin.ch/eli/oc/2001/271); [2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)annexe ch. 1; [2008 4295](https://fedlex.data.admin.ch/eli/oc/2008/606); [2014 2291](https://fedlex.data.admin.ch/eli/oc/2014/384); [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)annexe 4 ch. II 2. [RO 2020 2929](https://fedlex.data.admin.ch/eli/oc/2020/546)art. 54]. Voir actuellement l’O du 24 juin 2020 sur la protection des personnes et des bâtiments relevant de la compétence fédérale ([RS 120.72](https://fedlex.data.admin.ch/eli/cc/2020/546)).
 [^annex3-lvlu1-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^annex3-lvlu1-4]: [RS 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
-[^annex3-lvlu1-5]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^annex3-lvlu1-6]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^annex3-lvlu1-7]: [RS 732.2](https://fedlex.data.admin.ch/eli/cc/2007/775)
+[^annex3-lvlu1-4]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^annex3-lvlu1-5]: [RS 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
+[^annex3-lvlu1-6]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^annex3-lvlu1-7]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^annex3-lvlu1-8]: [RS 732.2](https://fedlex.data.admin.ch/eli/cc/2007/775)
 
 Annexe 4
 

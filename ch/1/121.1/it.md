@@ -3,11 +3,11 @@ sr: "121.1"
 title: Ordinanza del 16 agosto 2017 sulle attività informative (OAIn)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/495"
 language: it
-version: 2021-12-01
+version: 2022-06-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/495/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2017-495-20211201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20211201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/495/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2017-495-20220601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20211201/it"
 
 (OAIn)
 
-del 16 agosto 2017 (Stato 1° dicembre 2021)
+del 16 agosto 2017 (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -824,23 +824,23 @@ Allegato 2
 
 In caso di controversie il SIC decide l’entità dell’indennità.
 
-Allegato 3*[^t-1]*
+Allegato 3[^t-1]
 
 (art. 32 cpv. 1)
 
 ## Comunicazione di dati personali ad autorità e servizi svizzeri
 
-[^t-1]: Aggiornato dall’all. 3 n. II 1 dell’O dell’11 nov. 2020 sulla protezione della popolazione, in vigore dal 1° gen. 2021 ([RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
+[^t-1]: Aggiornato dall’all. 3 n. II 1 dell’O dell’11 nov. 2020 sulla protezione della popolazione, ([RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)) e dal n. I 2 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 Il SIC comunica dati personali alle autorità di perseguimento penale svizzere alle condizioni menzionate all’articolo 60 capoversi 2–4 LAIn; esso comunica i dati senza riserve alle autorità di vigilanza.
 
 Il SIC può comunicare dati personali alle autorità e ai servizi svizzeri seguenti alle condizioni menzionate all’articolo 60 LAIn e per gli scopi menzionati qui appresso:
 
-- 1\. autorità di vigilanza regolamentatrici quali la Commissione federale dell’energia elettrica e la Commissione federale delle comunicazioni: per la protezione in caso di attacchi a infrastrutture critiche;
-- 2\. organi della condotta in materia di politica di sicurezza del Consiglio federale: per la salvaguardia della sicurezza interna o esterna;
-- 3\. stati maggiori di crisi e speciali della Confederazione: per la gestione di situazioni particolari;
-- 4\. autorità d’esecuzione cantonali: per l’applicazione della LAIn;
-- 5\. autorità cantonali di polizia: per l’adozione di misure di sicurezza cantonali al di fuori del perseguimento penale;
+- 1\. Autorità di vigilanza regolamentatrici quali la Commissione federale dell’energia elettrica e la Commissione federale delle comunicazioni: per la protezione in caso di attacchi a infrastrutture critiche;
+- 2\. Organi della condotta in materia di politica di sicurezza del Consiglio federale: per la salvaguardia della sicurezza interna o esterna;
+- 3\. Stati maggiori di crisi e speciali della Confederazione: per la gestione di situazioni particolari;
+- 4\. Autorità d’esecuzione cantonali: per l’applicazione della LAIn;
+- 5\. Autorità cantonali di polizia: per l’adozione di misure di sicurezza cantonali al di fuori del perseguimento penale;
 - 6\. Servizio specializzato nei controlli di sicurezza relativi alle persone della Cancelleria federale: per l’esecuzione di controlli di sicurezza relativi alle persone;
 - 7\.
 
@@ -889,7 +889,8 @@ Il SIC può comunicare dati personali alle autorità e ai servizi svizzeri segue
     - 9\.3.9 per la pronuncia di misure di respingimento ed espulsioni,
     - 9\.3.10 per il sequestro di materiale di propaganda nonché per la cancellazione e il blocco di siti Internet secondo l’articolo 13*e* della legge federale del 21 marzo 1997[^annex3-lvlu1-3] sulle misure per la salvaguardia della sicurezza interna,
     - 9\.3.11 per la sicurezza delle persone ammesse a un programma di protezione dei testimoni e delle persone ad esse vicine,
-    - 9\.3.12 per la sicurezza di passeggeri di aeromobili svizzeri;
+    - 9\.3.12 per la sicurezza di passeggeri di aeromobili svizzeri,
+    - 9\.3.13 per il disbrigo di compiti secondo la legge federale del 21 marzo 1997[^annex3-lvlu1-4] sulle misure per la salvaguardia della sicurezza interna;
 
 - 10\.
 
@@ -919,7 +920,7 @@ Il SIC può comunicare dati personali alle autorità e ai servizi svizzeri segue
     Ufficio federale della protezione della popolazione:
 
     - 10\.4.1 Divisione Politica di protezione della popolazione: in relazione con la protezione di infrastrutture critiche,
-    - 10\.4.2 Centrale nazionale d’allarme: in vista dell’acquisizione, dell’analisi e della diffusione di informazioni secondo l’ordinanza dell’11 novembre 2020[^annex3-lvlu1-4] sulla protezione della popolazione,
+    - 10\.4.2 Centrale nazionale d’allarme: in vista dell’acquisizione, dell’analisi e della diffusione di informazioni secondo l’ordinanza dell’11 novembre 2020[^annex3-lvlu1-5] sulla protezione della popolazione,
     - 10\.4.3 Laboratorio di Spiez: in relazione a informazioni riguardanti la sicurezza NBC,
 
   - 10\.5 servizio specializzato per i controlli di sicurezza relativi alle persone: per l’esecuzione di controlli di sicurezza relativi alle persone;
@@ -953,7 +954,7 @@ Il SIC può comunicare dati personali alle autorità e ai servizi svizzeri segue
 
     Segreteria di Stato dell’economia:
 
-    - 12\.1.1 per l’esecuzione della legge del 13 dicembre 1996[^annex3-lvlu1-5] sul materiale bellico e della legge del 13 dicembre 1996[^annex3-lvlu1-6] sul controllo dei beni a duplice impiego,
+    - 12\.1.1 per l’esecuzione della legge del 13 dicembre 1996[^annex3-lvlu1-6] sul materiale bellico e della legge del 13 dicembre 1996[^annex3-lvlu1-7] sul controllo dei beni a duplice impiego,
     - 12\.1.2 per l’adozione di misure nel settore del diritto riguardante l’economia esterna,
     - 12\.1.3 per la preparazione o l’esecuzione di un’indagine di polizia,
     - 12\.1.4 per la valutazione della situazione economica e in materia di politica economica nelle aree di interesse per la Svizzera,
@@ -974,18 +975,19 @@ Il SIC può comunicare dati personali alle autorità e ai servizi svizzeri segue
     - 13\.2.1 per l’applicazione della legislazione sull’energia nucleare,
     - 13\.2.2 per l’esercizio dei suoi diritti di partecipazione nel settore del diritto riguardante l’economia esterna,
 
-  - 13\.3 Ispettorato federale della sicurezza nucleare: per l’esecuzione della legislazione sulla radioprotezione e dei compiti secondo l’articolo 2 capoverso 1 della legge federale del 22 giugno 2007[^annex3-lvlu1-7] sull’Ispettorato federale della sicurezza nucleare,
+  - 13\.3 Ispettorato federale della sicurezza nucleare: per l’esecuzione della legislazione sulla radioprotezione e dei compiti secondo l’articolo 2 capoverso 1 della legge federale del 22 giugno 2007[^annex3-lvlu1-8] sull’Ispettorato federale della sicurezza nucleare,
   - 13\.4 Ufficio federale dell’ambiente: in relazione all’esecuzione della legislazione sulla protezione dell’ambiente;
 
-- 14\. autorità e servizi della Confederazione, dei Cantoni e dei Comuni: se necessario per la loro sicurezza o per sventare una minaccia incombente.
+- 14\. Autorità e servizi della Confederazione, dei Cantoni e dei Comuni: se necessario per la loro sicurezza o per sventare una minaccia incombente.
 
 [^annex3-lvlu1-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
 [^annex3-lvlu1-2]: [[RU 2001 1741](https://fedlex.data.admin.ch/eli/oc/2001/271); [2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)all. n. 1; [2008 4295](https://fedlex.data.admin.ch/eli/oc/2008/606); [2014 2291](https://fedlex.data.admin.ch/eli/oc/2014/384); [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)all. 4 n. II 2. [RU 2020 2929](https://fedlex.data.admin.ch/eli/oc/2020/546)art. 54]. Vedi ora l’O del 27 giu. 2001 sulla protezione di persone ed edifici di competenza federale ([RS 120.72](https://fedlex.data.admin.ch/eli/cc/2020/546)).
 [^annex3-lvlu1-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^annex3-lvlu1-4]: [RS 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
-[^annex3-lvlu1-5]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^annex3-lvlu1-6]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^annex3-lvlu1-7]: [RS 732.2](https://fedlex.data.admin.ch/eli/cc/2007/775)
+[^annex3-lvlu1-4]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^annex3-lvlu1-5]: [RS 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
+[^annex3-lvlu1-6]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^annex3-lvlu1-7]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^annex3-lvlu1-8]: [RS 732.2](https://fedlex.data.admin.ch/eli/cc/2007/775)
 
 Allegato 4
 
