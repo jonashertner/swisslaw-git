@@ -4,11 +4,11 @@ title: "Ordinanza del 23 ottobre 2013 sui sistemi d'informazione nel campo dell'
 short: OSIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/733"
 language: it
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/733/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2013-733-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/733/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2013-733-20220601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20220101/it"
 
 (OSIAgr)
 
-del 23 ottobre 2013 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 23 ottobre 2013 (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -126,10 +126,14 @@ I dati di cui all’articolo 2 possono essere comunicati ai servizi di seguito e
 
 **Collegamento con altri sistemi d’informazione**[^5a-1]
 
-Il sistema d’informazione sugli antibiotici nella medicina veterinaria secondo l’ordinanza del 31 ottobre 2018[^5a-2] concernente il sistema d’informazione sugli antibiotici nella medicina veterinaria può accedere ai dati sulle aziende e sugli animali contenuti in AGIS.
+I seguenti sistemi d’informazione possono accedere ai dati sulle aziende e sugli animali contenuti in AGIS:
 
-[^5a-1]: Introdotto dall’art. 20 n. 4 dell’O del 31 ott. 2018 concernente il sistema d’informazione sugli antibiotici nella medicina veterinaria, in vigore dal 1° gen. 2019 ([RU 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
+- a. il sistema d’informazione sugli antibiotici nella medicina veterinaria secondo l’ordinanza del 31 ottobre 2018[^5a-2] concernente il sistema d’informazione sugli antibiotici nella medicina veterinaria;
+- b. i sistemi d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione (ASAN), per i risultati di controlli e analisi (ARES) e sui risultati del controllo degli animali da macello e del controllo delle carni (Fleko) secondo l’ordinanza del 27 aprile 2022[^5a-3] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare (O-SIFA).
+
+[^5a-1]: Introdotto dall’art. 20 n. 4 dell’O del 31 ott. 2018 concernente il sistema d’informazione sugli antibiotici nella medicina veterinaria ([RU 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)). Nuovo testo giusta l’all. 4 n. II 11 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 [^5a-2]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^5a-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
 
 ## Sezione 3: Sistema d’informazione per i dati sui controlli
 
@@ -188,9 +192,16 @@ I Cantoni registrano i dati entro i seguenti termini:
 
 #### Art. 9
 
-**Collegamento ad altri sistemi d’informazione**
+**Collegamento ad altri sistemi d’informazione**[^9-1]
 
-I dati di cui all’articolo 6 lettere a–c possono essere acquisiti da AGIS.
+<sup>1</sup> Acontrol può accedere ai dati di AGIS di cui all’articolo 6 lettere a–c.
+
+<sup>2</sup> Esso può accedere ai dati contenuti nei sistemi d’informazione ASAN, ARES e Fleko secondo l’O-SIFA[^9-2].
+
+<sup>3</sup> I sistemi d’informazione ASAN, ARES e Fleko possono accedere ai dati di Acontrol.
+
+[^9-1]: Nuovo testo giusta l’all. 4 n. II 11 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^9-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
 
 ## Sezione 4: Sistema d’informazione geografica
 
@@ -230,7 +241,12 @@ Il sistema d’informazione geografica (SIG) contiene i seguenti geodati:
 
 **Collegamento ad altri sistemi d’informazione**
 
-I dati nel SIG dell’UFAG possono essere collegati con i dati di cui all’allegato 1 numeri 1 e 2.
+<sup>1</sup> I dati nel SIG dell’UFAG possono essere collegati con i dati di cui all’allegato 1 numeri 1 e 2.
+
+<sup>2</sup> I sistemi d’informazione ASAN, ARES e Fleko possono accedere ai dati di GIS secondo l’O-SIFA[^13-1].[^13-2]
+
+[^13-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^13-2]: Introdotto dall’all. 4 n. II 11 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ## Sezione 5: Sistema d’informazione centrale sui trasferimenti di sostanze nutritive
 
@@ -428,7 +444,7 @@ L’UFAG emana, d’intesa con gli uffici federali coinvolti, istruzioni su:
 
 <sup>6</sup> Le autorità che nell’ambito dei loro compiti legali trattano dati provenienti dai sistemi d’informazione nel campo dell’agricoltura di cui all’articolo 1 capoverso 1 lettere a–d possono rendere accessibili o comunicare dati non particolarmente degni di protezione solo se previsto dal diritto federale o da un accordo internazionale.[^27-4]
 
-<sup>7</sup> Per la pubblicazione dei dati sui controlli di cui all’articolo 6 lettera d provenienti dai settori della sicurezza alimentare, della salute degli animali e della protezione degli animali, di competenza dell’USAV, si applicano gli articoli 22–24 dell’ordinanza del 6 giugno 2014[^27-5] concernente i sistemi d’informazione per il servizio veterinario pubblico.[^27-6]
+<sup>7</sup> Per la pubblicazione dei dati sui controlli di cui all’articolo 6 lettera d provenienti dai settori della sicurezza alimentare, della salute degli animali e della protezione degli animali, di competenza dell’USAV, si applicano le disposizioni di cui alla sezione 3 dell’O-SIFA[^27-5].[^27-6]
 
 <sup>8</sup> L’UFAG può rendere opportunamente accessibili l’indirizzo del gestore, i numeri d’identificazione e l’appartenenza territoriale agli enti incaricati dell’esecuzione dell’ordinanza del 25 maggio 2011[^27-7] sulle designazioni «montagna» e «alpe», in particolare agli enti di certificazione secondo l’ordinanza del 17 giugno 1996[^27-8] sull’accreditamento e sulla designazione.[^27-9]
 
@@ -444,7 +460,7 @@ Su richiesta, può rendere accessibili online a terzi, come indicato di seguito,
 [^27-3]: Abrogato dal n. I dell’O del 31 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)).
 [^27-4]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)).
 [^27-5]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^27-6]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6157](https://fedlex.data.admin.ch/eli/oc/2017/682)).
+[^27-6]: Nuovo testo giusta l’all. 4 n. II 11 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 [^27-7]: [RS 910.19](https://fedlex.data.admin.ch/eli/cc/2011/340)
 [^27-8]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 [^27-9]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6157](https://fedlex.data.admin.ch/eli/oc/2017/682)).

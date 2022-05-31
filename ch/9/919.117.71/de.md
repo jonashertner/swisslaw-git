@@ -4,11 +4,11 @@ title: Verordnung vom 23. Oktober 2013 über Informationssysteme im Bereich der 
 short: ISLV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/733"
 language: de
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/733/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2013-733-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/733/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2013-733-20220601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20220101/de"
 
 (ISLV)
 
-vom 23. Oktober 2013 (Stand am 1. Januar 2022)
+vom 23. Oktober 2013 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -127,10 +127,14 @@ Die Daten nach Artikel 2 können an folgende Stellen zur Erfüllung der ihnen ü
 
 **Verknüpfung mit anderen Informationssystemen**[^5a-1]
 
-Das Informationssystem Antibiotika in der Veterinärmedizin nach der Verordnung vom 31. Oktober 2018[^5a-2] über das Informationssystem Antibiotika in der Veterinärmedizin kann Daten über Betriebe und Tiere aus AGIS beziehen.
+Die folgenden Informationssysteme können Daten über Betriebe und Tiere aus AGIS beziehen:
 
-[^5a-1]: Eingefügt durch Art. 20 Ziff. 4 der V vom 31. Okt. 2018 über das Informationssystem Antibiotika in der Veterinärmedizin, in Kraft seit 1. Jan. 2019 ([AS 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
+- a. das Informationssystem Antibiotika in der Veterinärmedizin nach der Verordnung vom 31. Oktober 2018[^5a-2] über das Informationssystem Antibiotika in der Veterinärmedizin;
+- b. das Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes (ASAN), das Informationssystem für Resultate von Kontrollen und Untersuchungen (ARES) und das Informationssystem für die Ergebnisse der Schlachttier- und Fleischuntersuchungen (Fleko) nach der Verordnung vom 27. April 2022[^5a-3] über Informationssysteme des BLV für die Lebensmittelkette (ISLK-V).
+
+[^5a-1]: Eingefügt durch Art. 20 Ziff. 4 der V vom 31. Okt. 2018 über das Informationssystem Antibiotika in der Veterinärmedizin ([AS 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)). Fassung gemäss Anhang 4 Ziff. II 11 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 [^5a-2]: [SR 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^5a-3]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
 
 ## 3. Abschnitt: Informationssystem für Kontrolldaten
 
@@ -186,9 +190,16 @@ Das Informationssystem für Kontrolldaten (Acontrol) enthält folgende Daten:
 
 #### Art. 9
 
-**Verknüpfung mit anderen Informationssystemen**
+**Verknüpfung mit anderen Informationssystemen**[^9-1]
 
-Die Daten nach Artikel 6 Buchstaben a–c können aus AGIS bezogen werden.
+<sup>1</sup> Acontrol kann die Daten nach Artikel 6 Buchstaben a–c aus AGIS beziehen.
+
+<sup>2</sup> Es kann Daten aus den Informationssystemen ASAN, ARES und Fleko nach der ISLK-V[^9-2] beziehen.
+
+<sup>3</sup> Die Informationssysteme ASAN, ARES und Fleko können Daten aus Acontrol beziehen.
+
+[^9-1]: Fassung gemäss Anhang 4 Ziff. II 11 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^9-2]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
 
 ## 4. Abschnitt: Geografisches Informationssystem
 
@@ -228,7 +239,12 @@ Das geografische Informationssystem (GIS) enthält die folgenden Geodaten:
 
 **Verknüpfung mit anderen Informationssystemen**
 
-Die Daten im GIS können mit Daten nach Anhang 1 Ziffern 1 und 2 verknüpft werden.
+<sup>1</sup> Die Daten im GIS können mit Daten nach Anhang 1 Ziffern 1 und 2 verknüpft werden.
+
+<sup>2</sup> Die Informationssysteme ASAN, ARES und Fleko nach der ISLK-V[^13-1] können Daten aus dem GIS beziehen.[^13-2]
+
+[^13-1]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^13-2]: Eingefügt durch Anhang 4 Ziff. II 11 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ## 5. Abschnitt: Zentrales Informationssystem zu Nährstoffverschiebungen
 
@@ -425,7 +441,7 @@ Das BLW erlässt in Absprache mit den involvierten Bundesämtern Weisungen über
 
 <sup>6</sup> Behörden, die im Rahmen ihrer gesetzlichen Aufgaben Daten aus den Informationssystemen im Bereich der Landwirtschaft nach Artikel 1 Absatz 1 Buchstaben a–d bearbeiten, dürfen nicht besonders schützenswerte Daten zugänglich machen oder weitergeben, wenn dies im Bundesrecht oder in einem internationalen Abkommen vorgesehen ist.[^27-4]
 
-<sup>7</sup> Für die Bekanntgabe von Kontrolldaten nach Artikel 6 Buchstabe d aus den Bereichen Lebensmittelsicherheit, Tiergesundheit und Tierschutz, für die das BLV zuständig ist, gelten die Artikel 22–24 der Verordnung vom 6. Juni 2014[^27-5] über die Informationssysteme für den öffentlichen Veterinärdienst.[^27-6]
+<sup>7</sup> Für die Bekanntgabe von Kontrolldaten nach Artikel 6 Buchstabe d aus den Bereichen Lebensmittelsicherheit, Tiergesundheit und Tierschutz, für die das BLV zuständig ist, gelten die Bestimmungen nach dem 3. Abschnitt der ISLK-V[^27-5].[^27-6]
 
 <sup>8</sup> Das BLW kann die Adresse des Bewirtschafters oder der Bewirtschafterin, die Identifikationsnummern und die Gebietszugehörigkeit in geeigneter Weise den mit dem Vollzug der Berg- und Alp-Verordnung vom 25. Mai 2011[^27-7] beauftragten Stellen, insbesondere den Zertifizierungsstellen nach der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^27-8], zugänglich machen.[^27-9]
 
@@ -441,7 +457,7 @@ Es kann auf Gesuch hin Daten nach den Artikeln 2, 6, mit Ausnahme der Daten nach
 [^27-3]: Aufgehoben durch Ziff. I der V vom 31. Okt. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)).
 [^27-4]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)).
 [^27-5]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^27-6]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6157](https://fedlex.data.admin.ch/eli/oc/2017/682)).
+[^27-6]: Fassung gemäss Anhang 4 Ziff. II 11 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 [^27-7]: [SR 910.19](https://fedlex.data.admin.ch/eli/cc/2011/340)
 [^27-8]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 [^27-9]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6157](https://fedlex.data.admin.ch/eli/oc/2017/682)).

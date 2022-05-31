@@ -4,11 +4,11 @@ title: "Ordonnance du 23 octobre 2013 sur les systèmes d'information dans le do
 short: OSIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/733"
 language: fr
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/733/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-733-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/733/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2013-733-20220601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20220101/fr"
 
 (OSIAgr)
 
-du 23 octobre 2013 (Etat le 1<sup>er</sup> janvier 2022)
+du 23 octobre 2013 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -125,12 +125,16 @@ Les données visées à l’art. 2 peuvent être transmises aux services suivant
 
 #### Art. 5a
 
-**Couplage avec d’autres systèmes d’information**[^5a-1]
+**Couplage d’autres systèmes d’information**[^5a-1]
 
-Le système d’information sur les antibiotiques en médecine vétérinaire (SI ABV) visé dans l’ordonnance du 31 octobre 2018 concernant le système d’information sur les antibiotiques en médecine vétérinaire[^5a-2] peut tirer des informations sur les animaux et sur les exploitations du SIPA.
+Les systèmes d’information suivants peuvent tirer de SIPA des données sur les exploitations et les animaux:
 
-[^5a-1]: Introduit par l’art. 20 ch. 4 de l’O du 31 oct. 2018 concernant le système d'information sur les antibiotiques en médecine vétérinaire, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
+- a. le système d’information sur les antibiotiques en médecine vétérinaire visé dans l’ordonnance du 31 octobre 2018 concernant le système d’information sur les antibiotiques en médecine vétérinaire[^5a-2];
+- b. le système d’information pour les données d’exécution du service vétérinaire public (ASAN), le système d’information pour les résultats de contrôles et d’analyses (ARES) et le système d’information pour les résultats du contrôle des animaux avant l’abattage et du contrôle des viandes (Fleko) visés dans l’ordonnance du 27 avril 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire (O-SICAL)[^5a-3].
+
+[^5a-1]: Introduit par l’art. 20 ch. 4 de l’O du 31 oct. 2018 concernant le système d'information sur les antibiotiques en médecine vétérinaire ([RO 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)). Nouvelle teneur selon l’annexe 4 ch. II 11 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 [^5a-2]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^5a-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
 
 ## Section 3 Système d’information pour les données de contrôle
 
@@ -185,9 +189,16 @@ Le système d’information pour les données de contrôle (Acontrol) contient l
 
 #### Art. 9
 
-**Lien avec d’autres systèmes d’information**
+**Lien avec d’autres systèmes d’information**[^9-1]
 
-Les données visées à l’art. 6, let. a à c, peuvent être obtenues à partir de SIPA.
+<sup>1</sup> Acontrol peut tirer de SIPA les données visées à l’art. 6, let. a à c.
+
+<sup>2</sup> Il peut tirer des données des systèmes d’information ASAN, ARES et Fleko visés dans l’O-SICAL[^9-2].
+
+<sup>3</sup> Les systèmes d’information ASAN, ARES et Fleko peuvent tirer des données de Acontrol.
+
+[^9-1]: Nouvelle teneur selon l’annexe 4 ch. II 11 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^9-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
 
 ## Section 4 Système d’information géographique
 
@@ -227,7 +238,12 @@ Le système d’information géographique (SIG) comprend les géodonnées suivan
 
 **Lien avec d’autres systèmes d’information**
 
-Les données dans le SIG peuvent être couplées aux données visées à l’annexe 1, ch. 1 et 2.
+<sup>1</sup> Les données dans le SIG peuvent être couplées aux données visées à l’annexe 1, ch. 1 et 2.
+
+<sup>2</sup> Les systèmes d’information ASAN, ARES et Fleko visés dans l’O-SICAL[^13-1] peuvent tirer des données du SIG.[^13-2]
+
+[^13-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^13-2]: Introduit par l’annexe 4 ch. II 11 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ## Section 5 Système d’information centralisé relatif aux flux d’éléments fertilisants
 
@@ -424,7 +440,7 @@ En accord avec les offices fédéraux concernés, l’OFAG émet des instruction
 
 <sup>6</sup> Les autorités qui, dans le cadre de leurs tâches légales, traitent des données provenant des systèmes d’information dans le domaine de l’agriculture visées à l’art. 1, al. 1, let. a à d, peuvent rendre accessibles ou transmettre des données qui ne sont pas sensibles si cela est prévu dans le droit fédéral ou dans un accord international.[^27-4]
 
-<sup>7</sup> En ce qui concerne la diffusion des données de contrôle visées à l’art. 6, let. d, appartenant aux domaines de la sécurité des aliments, de la santé des animaux et de la protection des animaux, pour lesquels l’OSAV est compétent, les art. 22 à 24 de l’ordonnance du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public[^27-5] s’appliquent.[^27-6]
+<sup>7</sup> En ce qui concerne la diffusion des données de contrôle visées à l’art. 6, let. d, appartenant aux domaines de la sécurité des aliments, de la santé des animaux et de la protection des animaux, pour lesquels l’OSAV est compétent, les dispositions de la section 3 de l’O-SICAL[^27-5] s’appliquent.[^27-6]
 
 <sup>8</sup> L’OFAG peut rendre accessible de manière appropriée l’adresse de l’exploitant, les numéros d’identification et la région à laquelle appartient l’exploitation aux services chargés de l’exécution de l’ordonnance du 25 mai 2011 sur les dénominations «montagne» et «alpage»[^27-7], notamment aux organes de certification visés dans l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^27-8].[^27-9]
 
@@ -440,7 +456,7 @@ Il peut, sur demande, rendre accessibles en ligne aux tiers mentionnés ci-desso
 [^27-3]: Abrogé par le ch. I de l’O du 31 oct. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)).
 [^27-4]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)).
 [^27-5]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^27-6]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6157](https://fedlex.data.admin.ch/eli/oc/2017/682)).
+[^27-6]: Nouvelle teneur selon l’annexe 4 ch. II 11 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 [^27-7]: [RS 910.19](https://fedlex.data.admin.ch/eli/cc/2011/340)
 [^27-8]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 [^27-9]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6157](https://fedlex.data.admin.ch/eli/oc/2017/682)).
