@@ -4,11 +4,11 @@ number: "722.1"
 title: Strassengesetz (StrG)
 short: StrG
 language: de
-version: "2021-07-01"
-nachtrag: "113"
-valid_until: 2022-06-01
+version: "2022-06-01"
+nachtrag: "117"
+valid_until: 2026-06-01
 adopted: 1981-09-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-722_1-1981_09_27-1983_01_01-113.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-722_1-1981_09_27-1983_01_01-117.html"
 text: pdf
 ---
 
@@ -60,11 +60,11 @@ Vorbehalten bleibt die Gesetzgebung über die Nationalstrassen, über die Flur- 
 
 **1**
 
-- 1\. 7. 21 - 113 § 4. <sup>1</sup> Nebenanlagen zu Strassen sind Anlagen, die gemäss Planungs- und Baugesetz[^2-1] durch Baulinien für Betriebsanlagen zu Verkehrsbauten gesichert werden können.
+- 1\. 7. 22 - 117 § 4. <sup>1</sup> Nebenanlagen zu Strassen sind Anlagen, die gemäss Planungs- und Baugesetz[^2-1] durch Baulinien für Betriebsanlagen zu Verkehrsbauten gesichert werden können.
 
 **Nebenanlagen**
 
-<sup>2</sup> Vorbehalten bleibt das Gesetz über den öffentlichen Personenverkehr[^2-2].<sup>18</sup>
+<sup>2</sup> Vorbehalten bleibt das Gesetz über den öffentlichen Personenverkehr[^2-2].[^2-3]
 
 - 3\. Einteilung der Strassen
 
@@ -76,6 +76,7 @@ Vorbehalten bleibt die Gesetzgebung über die Nationalstrassen, über die Flur- 
 
 [^2-1]: LS 700.1.
 [^2-2]: LS 740.1.
+[^2-3]: Fassung gemäss Gesetz über den öffentlichen Personenverkehr (OS 50, 393). In Kraft seit 1. Mai 1988 (OS 50, 401).
 
 ### II. Strassenbau
 
@@ -105,19 +106,20 @@ Vorbehalten bleibt die Gesetzgebung über die Nationalstrassen, über die Flur- 
 
 **Staatsstrassen 1. Bauprogramm**
 
-§ 8.<sup>13</sup> <sup>1</sup> Der Regierungsrat erstattet dem Kantonsrat jährlich gleichzeitig mit dem Voranschlag Bericht über das Bauprogramm für Staatsstrassen der nächsten drei Jahre.
+§ 8.[^7-1] <sup>1</sup> Der Regierungsrat erstattet dem Kantonsrat jährlich gleichzeitig mit dem Voranschlag Bericht über das Bauprogramm für Staatsstrassen der nächsten drei Jahre.
 
-<sup>2</sup> Er berücksichtigt beim Bauprogramm die kantonalen und regionalen Verkehrspläne und die kommunalen Erschliessungspläne gemäss Planungs- und Baugesetz[^7-1].
+<sup>2</sup> Er berücksichtigt beim Bauprogramm die kantonalen und regionalen Verkehrspläne und die kommunalen Erschliessungspläne gemäss Planungs- und Baugesetz[^7-2].
 
-[^7-1]: LS 700.1.
-[^7-2]: LS 101.
-[^7-3]: LS 611.
+[^7-1]: In Kraft seit 1. Oktober 1982 (OS 48, 610).
+[^7-2]: LS 700.1.
+[^7-3]: LS 101.
+[^7-4]: LS 611.
 
 #### § 9
 
 **2. Kredite**
 
-Verpflichtungskredite werden gemäss den Bestimmungen der Kantonsverfassung[^7-2] und des Finanzhaushaltsgesetzes[^7-3] bewilligt.
+Verpflichtungskredite werden gemäss den Bestimmungen der Kantonsverfassung[^7-3] und des Finanzhaushaltsgesetzes[^7-4] bewilligt.
 
 [^9-1]: LS 700.1.
 
@@ -155,7 +157,7 @@ Verpflichtungskredite werden gemäss den Bestimmungen der Kantonsverfassung[^7-2
 
 **3**
 
-- 1\. 7. 21 - 113
+- 1\. 7. 22 - 117
 
 <sup>3</sup> Wird das Projekt aufgelegt, sind Einwendungen innert 30 Tagen nach der Bekanntmachung einzureichen; in schriftliche Stellungnahmen kann während 60 Tagen nach dem Kreditbeschluss auf der Gemeindeverwaltung Einsicht genommen werden. Im Übrigen gelten für das Verfahren sinngemäss die Bestimmungen des Planungs- und Baugesetzes[^13-1] über die Festsetzung von Richtplänen.
 
@@ -212,12 +214,13 @@ Verpflichtungskredite werden gemäss den Bestimmungen der Kantonsverfassung[^7-2
 Die Betroffenen haben schadenmindernde Massnahmen an ihren Grundstücken, wie den Einbau von Schallschutzfenstern, zu dulden, soweit es ihnen nach den Umständen zugemutet und dadurch eine Schadenersatzpflicht vermieden oder erheblich vermindert werden kann.
 
 [^19-1]: LS 700.1.
+[^19-2]: LS 910.1.
 
 #### § 20
 
 **Verfahren 1. Landumlegung**
 
-<sup>1</sup> Die Landumlegung erfolgt in der Form des Quartierplans gemäss Planungs- und Baugesetz[^19-1] oder der Güterzusammenlegung gemäss Landwirtschaftsgesetz<sup>11</sup>.
+<sup>1</sup> Die Landumlegung erfolgt in der Form des Quartierplans gemäss Planungs- und Baugesetz[^19-1] oder der Güterzusammenlegung gemäss Landwirtschaftsgesetz[^19-2].
 
 <sup>2</sup> Die Güterzusammenlegung kann nötigenfalls wie das Quartierplanverfahren mit einem auf diese Zielsetzung beschränkten Beizugsgebiet durchgeführt werden.
 
@@ -225,7 +228,7 @@ Die Betroffenen haben schadenmindernde Massnahmen an ihren Grundstücken, wie de
 
 **5**
 
-- 1\. 7. 21 - 113 § 21.<sup>23</sup> Die Enteignung erfolgt nach der kantonalen Enteignungsgesetzgebung[^20-1]; sofern dieses Gesetz keine abweichenden Bestimmungen enthält.
+- 1\. 7. 22 - 117 § 21.<sup>23</sup> Die Enteignung erfolgt nach der kantonalen Enteignungsgesetzgebung[^20-1]; sofern dieses Gesetz keine abweichenden Bestimmungen enthält.
 
 **2. Enteignung**
 
@@ -300,7 +303,7 @@ Die Betroffenen haben schadenmindernde Massnahmen an ihren Grundstücken, wie de
 
 **7**
 
-- 1\. 7. 21 - 113
+- 1\. 7. 22 - 117
 
 <sup>2</sup> Die Standortgemeinden beteiligen sich an den Kosten von Wegabschnitten, die im oder angrenzend an das Siedlungsgebiet verlaufen, sofern der Wegabschnitt:
 
@@ -318,17 +321,21 @@ Die Betroffenen haben schadenmindernde Massnahmen an ihren Grundstücken, wie de
 
 - 2\. Staatsbeiträge an Gemeinden
 
-**Sonderlastenausgleich**
+**Unterhalt von Gemeindestrassen**
 
-§ 29.<sup>26</sup> Aus dem Strassenfonds wird jährlich ein Beitrag in den geografisch-topografischen Sonderlastenausgleich ausgerichtet. Die Höhe des Beitrags richtet sich nach einem Prozentsatz der Einlagen in den Strassenfonds. Der Regierungsrat bestimmt diesen Prozentsatz in einer Verordnung.
+§ 29. <sup>1</sup> Der Kanton leistet den Gemeinden einen Kostenanteil für den Unterhalt der Gemeindestrassen. Massgebend sind die Kilometer Gemeindestrassen, die vom motorisierten Individualverkehr befahren werden können.<sup>37</sup>
+
+<sup>2</sup> Aus dem Strassenfonds wird jährlich ein Beitrag in den geografisch-topografischen Sonderlastenausgleich ausgerichtet. Die Höhe des Beitrags richtet sich nach einem Prozentsatz der Einlagen in den Strassenfonds. Der Regierungsrat bestimmt diesen Prozentsatz in einer Verordnung.
 
 **Aussergewöhnliche Aufwendungen**
 
 § 30.<sup>26</sup> Der Kanton kann Gemeinden, denen wegen besonderer Vorkommnisse, wie Elementarschäden, aussergewöhnliche Aufwendungen erwachsen, Beiträge bis zur Hälfte der Wiederherstellungskosten gewähren.
 
-§§ 31 und 32.<sup>27</sup>
+**Finanzierung**
 
-- 3\. Leistungen Dritter
+§ 31.<sup>27,</sup> <sup>37</sup> Für die Kostenanteile und Beiträge gemäss §§ 29 f. wird mindestens 20% der jährlichen Einlage in den Strassenfonds verwendet.
+
+§ 32.<sup>27</sup> 3. Leistungen Dritter
 
 **Leistungspflicht**
 
@@ -368,27 +375,23 @@ Projektierung, Bau und Unterhalt werden, soweit die fachgerechte Betreuung und �
 
 <sup>3</sup> Derartige Anlagen sind auf Kosten ihres Trägers zu verlegen oder anzupassen, wenn dies ein Strassenprojekt erfordert.
 
-#### § 38
+**9**
+
+- 1\. 7. 22 - 117 § 38. <sup>1</sup> Soll eine öffentliche Strasse aufgehoben werden, fasst der Strasseneigentümer darüber einen förmlichen Beschluss, der im kantonalen Amtsblatt und in der betreffenden Gemeinde öffentlich bekanntgemacht wird.
 
 **Aufhebung öffentlicher Strassen**
 
-<sup>1</sup> Soll eine öffentliche Strasse aufgehoben werden, fasst der Strasseneigentümer darüber einen förmlichen Beschluss, der im kantonalen Amtsblatt und in der betreffenden Gemeinde öffentlich bekanntgemacht wird.
-
 <sup>2</sup> Wenn die aufzuhebende Strasse einzige Zufahrt zu Grundstücken bildet, die nach ihrer Zweckbestimmung darauf angewiesen sind, trifft der Strasseneigentümer im Aufhebungsbeschluss die Massnahmen, die zur Erhaltung einer Verbindung dieser Grundstücke mit dem öffentlichen Strassennetz unerlässlich sind; es steht ihm zu diesem Zweck das Enteignungsrecht zu.
 
-**9**
+<sup>3</sup> Vorbehalten bleiben die Bestimmungen des Planungs- und Baugesetzes[^37-1].
 
-- 1\. 7. 21 - 113
-
-<sup>3</sup> Vorbehalten bleiben die Bestimmungen des Planungs- und Baugesetzes[^38-1].
-
-[^38-1]: LS 700.1.
+[^37-1]: LS 700.1.
 
 #### § 39
 
 **Strassenpolizeiliche Vorschriften**
 
-<sup>1</sup> Staat und Gemeinden stellen, soweit ein Bedürfnis besteht und das Planungs- und Baugesetz[^38-1] keine abschliessende Ordnung trifft, Polizeivorschriften über das Strassengebiet selbst, seine Benützung sowie über das an die öffentlichen und privaten Strassen im Gemeingebrauch grenzende Gebiet auf.
+<sup>1</sup> Staat und Gemeinden stellen, soweit ein Bedürfnis besteht und das Planungs- und Baugesetz[^37-1] keine abschliessende Ordnung trifft, Polizeivorschriften über das Strassengebiet selbst, seine Benützung sowie über das an die öffentlichen und privaten Strassen im Gemeingebrauch grenzende Gebiet auf.
 
 <sup>2</sup> Vorbehalten bleiben die verkehrspolizeilichen Vorschriften.
 
@@ -428,7 +431,7 @@ Projektierung, Bau und Unterhalt werden, soweit die fachgerechte Betreuung und �
 
 **Bauprogramme**
 
-§ 44.<sup>21</sup> Die Stadträte erstatten dem Regierungsrat jährlich bis Ende Oktober des Vorjahres Bericht über das Bauprogramm der nächsten drei Jahre für die Strassen mit überkommunaler Bedeutung auf ihrem Gebiet.
+§ 44.[^43-1] Die Stadträte erstatten dem Regierungsrat jährlich bis Ende Oktober des Vorjahres Bericht über das Bauprogramm der nächsten drei Jahre für die Strassen mit überkommunaler Bedeutung auf ihrem Gebiet.
 
 **Projektierung und Projektgenehmigung**
 
@@ -440,7 +443,7 @@ Projektierung, Bau und Unterhalt werden, soweit die fachgerechte Betreuung und �
 
 **Finanzierung 1. Bau**
 
-§ 46.<sup>21</sup> <sup>1</sup> Für die Erstellung, den Ausbau und die Erneuerung der Strassen mit überkommunaler Bedeutung auf dem Gebiet der Städte Zürich und Winterthur leistet der Staat jährlich einen pauschalen Betrag.
+§ 46.[^43-1] <sup>1</sup> Für die Erstellung, den Ausbau und die Erneuerung der Strassen mit überkommunaler Bedeutung auf dem Gebiet der Städte Zürich und Winterthur leistet der Staat jährlich einen pauschalen Betrag.
 
 <sup>2</sup> Der Betrag entspricht dem Produkt der Länge ihres Strassennetzes mit überkommunaler Bedeutung und der um einen Faktor erhöhten Investitionsausgaben des Staates im letzten abgeschlossenen Rechnungsjahr je Kilometer seines Strassennetzes.
 
@@ -448,35 +451,38 @@ Projektierung, Bau und Unterhalt werden, soweit die fachgerechte Betreuung und �
 
 <sup>4</sup> Der Anspruch auf die Baupauschale entfällt, wenn im letzten abgeschlossenen Rechnungsjahr die Reservestellung einer Stadt das Dreifache des ihr zustehenden Betrags erreicht hat.
 
+**11**
+
+- 1\. 7. 22 - 117
+
 <sup>5</sup> Nationalstrassen fallen bei der Berechnung ausser Betracht. Autobahnähnliche Strassen werden doppelt, Einbahnstrassensysteme in beiden Richtungen angerechnet.
 
 **2. Unterhalt**
 
-§ 47.<sup>21</sup> <sup>1</sup> Für den Unterhalt der Strassen mit überkommunaler Bedeutung auf dem Gebiet der beiden Städte leistet der Staat jährlich einen pauschalen Betrag.
+§ 47.[^43-1] <sup>1</sup> Für den Unterhalt der Strassen mit überkommunaler Bedeutung auf dem Gebiet der beiden Städte leistet der Staat jährlich einen pauschalen Betrag.
 
 <sup>2</sup> Der Betrag entspricht dem Produkt der Länge ihres Strassennetzes mit überkommunaler Bedeutung und der um einen Faktor erhöhten Unterhaltsaufwendungen des Staates im letzten abgeschlossenen Rechnungsjahr je Kilometer seines Strassennetzes.
 
 <sup>3</sup> Die Faktoren werden alle drei Jahre durch den Regierungsrat festgesetzt, der dabei die durch städtische Verhältnisse bedingten Mehrkosten angemessen berücksichtigt.
 
-**11**
-
-- 1\. 7. 21 - 113
-
 <sup>4</sup> Nationalstrassen fallen bei der Berechnung der Beträge ausser Betracht. Autobahnähnlich ausgebaute Strassen werden doppelt, Einbahnstrassensysteme in beiden Richtungen angerechnet.
 
 **3. Berichterstattung**
 
-§ 48.<sup>21</sup> <sup>1</sup> Über die Verwendung der mit den Pauschalbeträgen zur Verfügung gestellten Mittel und den Stand der Reservestellungen bzw. Fehldeckungen erstatten die Stadträte dem Regierungsrat jährlich bis Ende März für das in diesem Zeitpunkt abgeschlossene Rechnungsjahr Bericht.
+§ 48.[^43-1] <sup>1</sup> Über die Verwendung der mit den Pauschalbeträgen zur Verfügung gestellten Mittel und den Stand der Reservestellungen bzw. Fehldeckungen erstatten die Stadträte dem Regierungsrat jährlich bis Ende März für das in diesem Zeitpunkt abgeschlossene Rechnungsjahr Bericht.
 
 <sup>2</sup> Fehldeckungen sind durch die Städte mittelfristig auszugleichen.
 
-§ 49.<sup>20</sup>
+§ 49.[^43-2]
 
 **Staatlicher Bau 1. Umfang**
 
 § 50. <sup>1</sup> Anstelle der Städte kann der Staat jederzeit Strassen des kantonalen Verkehrsplans in diesen beiden Gemeinden erstellen oder ausbauen, wenn er das Vorhaben aufgrund der zeitlichen Festlegungen der Richtplanung oder aus verkehrstechnischen Gründen für notwendig hält und die Standortgemeinde dessen Verwirklichung ablehnt.
 
 <sup>2</sup> Für Strassen des regionalen Verkehrsplans ist dieses Recht des Staates nur gegeben, wenn durch das Vorhaben wesentliche Interessen einer benachbarten Gemeinde wahrgenommen werden.
+
+[^43-1]: Fassung gemäss G vom 1. April 1990 (OS 51, 101). In Kraft seit 1. Januar 1991 (OS 51, 200). 1. 7. 22 - 117 19
+[^43-2]: Aufgehoben durch G vom 1. April 1990 (OS 51, 101). In Kraft seit 1. Januar 1991 (OS 51, 200).
 
 #### § 51
 
@@ -524,6 +530,10 @@ Die generellen und die Ausführungsprojekte bedürfen der Genehmigung durch den 
 
 <sup>1</sup> Der Regierungsrat kann den Unterhalt von Staatsstrassen der Standortgemeinde auf deren Gesuch allgemein oder im Einzelfall übertragen; er hat dem Begehren zu entsprechen, wenn sich die Gemeinde für mindestens fünf Kalenderjahre verpflichtet und den Unterhalt fach- und zeitgerecht besorgt.
 
+**13**
+
+- 1\. 7. 22 - 117
+
 <sup>2</sup> Die Gemeinde wird zu einem Ansatz entschädigt, der den durchschnittlichen Aufwendungen des Staates für den Unterhalt der Staatsstrassen in vergleichbaren Verhältnissen entspricht. Aussergewöhnliche Arbeiten werden zusätzlich vergütet, sofern sie mit vorgängiger Zustimmung der Baudirektion durchgeführt worden sind.
 
 <sup>3</sup> Über die Höhe der Vergütung entscheidet die Baudirektion.
@@ -535,10 +545,6 @@ Die generellen und die Ausführungsprojekte bedürfen der Genehmigung durch den 
 <sup>1</sup> Der Regierungsrat kann für Staatsstrassen der Standortgemeinde auf deren Gesuch die Regelung der Inanspruchnahme zu privaten Zwecken allgemein oder im Einzelfall übertragen.
 
 <sup>2</sup> Er hat Begehren auf Regelung des Sondergebrauchs zu entsprechen, wenn die Gemeinde den Unterhalt besorgt; die Einnahmen sind dabei an die Ersatzforderung gegenüber dem Staat anzurechnen.
-
-**13**
-
-- 1\. 7. 21 - 113
 
 <sup>3</sup> Ist eine Anrechnung an den Ersatz der Unterhaltskosten nicht möglich, ist die staatliche Beteiligung an den Einnahmen aus dem Sondergebrauch bei der Übertragung zu ordnen.
 
@@ -580,47 +586,35 @@ Die generellen und die Ausführungsprojekte bedürfen der Genehmigung durch den 
 
 Die Bestimmungen dieses Gesetzes über die Finanzierung der Staatsstrassen finden keine Anwendung auf Projekte, für die vor Inkrafttreten ein Verpflichtungskredit durch das nach bisherigem Recht zuständige Organ bewilligt worden ist.
 
-[^61-1]: LS 781.
-
 #### § 62
 
-**Grundeigen-**
+**Grundeigentümerbeiträge**
 
-**20.**
+Nachstehende Bestimmungen des Strassengesetzes vom 20. August 1893 gelten mit folgenden Änderungen vorerst weiter:
 
-**tümerbeiträge**
+- a. (§ 17 a) Private, welche Grundeigentum zu öffentlichen Strassen, Plätzen und Trottoiren abtreten müssen, haben Anspruch auf vollen Ersatz aller Vermögensnachteile gemäss der kantonalen Enteignungsgesetzgebung[^62-1].
 
-Nachstehende Bestimmungen des Strassengesetzes vom August 1893 gelten mit folgenden Änderungen vorerst weiter: (§ 17 a) Private, welche Grundeigentum zu öffentlichen Strassen, Plätzen und Trottoiren abtreten müssen, haben Anspruch auf vollen Ersatz aller Vermögensnachteile gemäss der kantonalen Enteignungsgesetzgebung[^61-1].
-
-**a.**
-
-**b.**
-
-(§ 17 b) Die Grundeigentümer, deren Liegenschaften durch den Bau oder die Verbesserung einer Strasse oder eines Platzes eine Wertvermehrung erfahren, leisten dem baupflichtigen Gemeinwesen Beiträge an die Kosten.
+- b. (§ 17 b) Die Grundeigentümer, deren Liegenschaften durch den Bau oder die Verbesserung einer Strasse oder eines Platzes eine Wertvermehrung erfahren, leisten dem baupflichtigen Gemeinwesen Beiträge an die Kosten.
 
 Bei Strassenverbreiterungen, die vorwiegend mit Rücksicht auf den durchgehenden Verkehr erfolgen, sind Beiträge nur für Liegenschaften zu leisten, bei denen die veränderten Verkehrsverhältnisse die Wertvermehrung bewirken.
 
-**c.**
+- c. (§ 17 c) Der Beitrag des einzelnen Grundeigentümers soll sich auf die Hälfte der Wertvermehrung seiner Liegenschaft belaufen, doch darf die Summe aller Beiträge drei Viertel der vollen Kosten mit Einschluss des Landerwerbs nach Abzug allfälliger Bundes- und Staatsbeiträge nicht übersteigen.
 
-(§ 17 c) Der Beitrag des einzelnen Grundeigentümers soll sich auf die Hälfte der Wertvermehrung seiner Liegenschaft belaufen, doch darf die Summe aller Beiträge drei Viertel der vollen Kosten mit Einschluss des Landerwerbs nach Abzug allfälliger Bundes- und Staatsbeiträge nicht übersteigen.
-
-**d.**
-
-(§ 17 d) Die Eigentümer der an Strassen und Plätze anstossenden Liegenschaften, die in bebauten oder in baulicher Entwicklung befindlichen Gebieten liegen, haben an die Kosten der erstmaligen Erstellung von Trottoiren angemessene Beiträge zu leisten.
+- d. (§ 17 d) Die Eigentümer der an Strassen und Plätze anstossenden Liegenschaften, die in bebauten oder in baulicher Entwicklung befindlichen Gebieten liegen, haben an die Kosten der erstmaligen Erstellung von Trottoiren angemessene Beiträge zu leisten.
 
 Die Summe der Anstösserbeiträge darf die Hälfte der vollen Kosten mit Einschluss des Landerwerbs, jedoch nach Abzug allfälliger Bundes- und Staatsbeiträge, nicht übersteigen.
 
-Wo nur ein Trottoir erstellt wird, dürfen die Eigentümer der gegenüberliegenden Grundstücke höchstens mit einem Drittel der Summe der Anstösserbeiträge belastet werden. Wird später auch das gegenüberliegende Trottoir erstellt, sind die Beiträge entsprechend der Aufteilung beim Bau des ersten Trottoirs auf die beidseitigen Anstösser zu verlegen.
+**15**
+
+- 1\. 7. 22 - 117 Wo nur ein Trottoir erstellt wird, dürfen die Eigentümer der gegenüberliegenden Grundstücke höchstens mit einem Drittel der Summe der Anstösserbeiträge belastet werden. Wird später auch das gegenüberliegende Trottoir erstellt, sind die Beiträge entsprechend der Aufteilung beim Bau des ersten Trottoirs auf die beidseitigen Anstösser zu verlegen.
 
 Bei Trottoirbauten, die vorwiegend mit Rücksicht auf den durchgehenden Verkehr erfolgen, sind Beiträge nur für Liegenschaften zu leisten, bei denen die veränderten Verkehrsverhältnisse die Wertvermehrung bewirken.
 
-Der Regierungsrat regelt durch Verordnung die Beiträge für Trottoire, welche der Staat anlegt<sup>12</sup> oder an welche er den Gemeinden Beiträge leistet. Im Übrigen regeln die Gemeinden die Beiträge durch Verordnungen, die der Genehmigung durch den Regierungsrat bedürfen.
-
-**15**
-
-- 1\. 7. 21 - 113 (§ 17 e) Die Strassen- und Trottoirbeiträge sind in dem für den Bezug von Mehrwertbeiträgen gemäss der kantonalen Enteignungsgesetzgebung[^62-1] vorgeschriebenen Verfahren zu erheben.
+Der Regierungsrat regelt durch Verordnung die Beiträge für Trottoire, welche der Staat anlegt[^62-2] oder an welche er den Gemeinden Beiträge leistet. Im Übrigen regeln die Gemeinden die Beiträge durch Verordnungen, die der Genehmigung durch den Regierungsrat bedürfen.
 
 **e.**
+
+(§ 17 e) Die Strassen- und Trottoirbeiträge sind in dem für den Bezug von Mehrwertbeiträgen gemäss der kantonalen Enteignungsgesetzgebung[^62-1] vorgeschriebenen Verfahren zu erheben.
 
 Hat der Grundeigentümer für den Strassen- und Trottoirbau Rechte abzutreten, wird die vom baupflichtigen Gemeinwesen zu leistende Abtretungsentschädigung mit dem Mehrwertbeitrag verrechnet. Schuldner des Beitrags bleibt, wer im Zeitpunkt der Vollendung der Anlage Eigentümer des Grundstücks ist, für welches die Beitragspflicht besteht.
 
@@ -642,46 +636,57 @@ Wird die Liegenschaft parzelliert, verfällt der Beitrag anteilmässig für die 
 
 (§ 17 h) Über Gesuche um Erstreckung der Zahlungsfrist, deren Widerruf sowie um vorläufigen Verzicht auf die Geltendmachung der Beitragsforderung und deren nachträgliche Geltendmachung entscheidet die Baudirektion oder bei Bauten der Gemeinden die zuständige Gemeindebehörde.
 
-- i. (§ 17 i) Für die nicht verrechneten Beitragsforderungen besteht am betreffenden Grundstück zugunsten der beitragsberechtigten Gemeinwesen ein gesetzliches Pfandrecht gemäss § 194 lit. f des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch[^62-2].
+**i.**
 
-- k. (§ 17 k) Das Gemeinwesen kann innert 60 Tagen, nachdem der letzte Entscheid über die Abtretungsentschädigung und die Beiträge in Rechtskraft erwachsen ist, auf die Ausführung des Unternehmens oder auf die Abtretung im einzelnen Fall verzichten, sofern nicht die sofortige Abtretung von Rechten gemäss der kantonalen Enteignungsgesetzgebung[^62-1] erfolgt ist.
+(§ 17 i) Für die nicht verrechneten Beitragsforderungen besteht am betreffenden Grundstück zugunsten der beitragsberechtigten Gemeinwesen ein gesetzliches Pfandrecht gemäss § 194 lit. f des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch[^62-3].
+
+**k.**
+
+(§ 17 k) Das Gemeinwesen kann innert 60 Tagen, nachdem der letzte Entscheid über die Abtretungsentschädigung und die Beiträge in Rechtskraft erwachsen ist, auf die Ausführung des Unternehmens oder auf die Abtretung im einzelnen Fall verzichten, sofern nicht die sofortige Abtretung von Rechten gemäss der kantonalen Enteignungsgesetzgebung[^62-1] erfolgt ist.
 
 Das Gemeinwesen hat dem Grundeigentümer den aus einem Verzicht entstehenden Schaden zu ersetzen. Der Ersatzanspruch ist bei der Schätzungskommission oder, wenn ein Weiterzug erfolgt ist, unmittelbar bei der obern Instanz geltend zu machen; er verjährt zwölf Monate nach der Verzichterklärung.
 
-- l. (§ 17 l) Der Grundeigentümer kann sich der Bezahlung des von ihm verlangten Beitrags dadurch entziehen, dass er dem Gemeinwesen die Liegenschaft, für welche er beitragspflichtig erklärt worden ist, bis spätestens 60 Tage nach der Rechtskraft des Entscheids anbietet.
+**l.**
 
-In diesem Fall hat das Gemeinwesen, wenn es nicht gemäss § 17 k auf die Ausführung des Projekts verzichtet, den bisherigen Wert der Liegenschaft ohne Rücksicht auf die entstehende Wertvermehrung zu vergüten.
+(§ 17 l) Der Grundeigentümer kann sich der Bezahlung des von ihm verlangten Beitrags dadurch entziehen, dass er dem Gemeinwesen die Liegenschaft, für welche er beitragspflichtig erklärt worden ist, bis spätestens 60 Tage nach der Rechtskraft des Entscheids anbietet.
+
+**17**
+
+- 1\. 7. 22 - 117 In diesem Fall hat das Gemeinwesen, wenn es nicht gemäss § 17 k auf die Ausführung des Projekts verzichtet, den bisherigen Wert der Liegenschaft ohne Rücksicht auf die entstehende Wertvermehrung zu vergüten.
 
 Können sich Gemeinwesen und Grundeigentümer über den Wert der Liegenschaft nicht einigen, entscheidet auf Begehren des Grundeigentümers die Schätzungskommission; ist ein Weiterzug erfolgt, ist die Klage unmittelbar bei der obern Instanz anzubringen.
 
-§ 63.<sup>20</sup>
+§ 63.[^62-4]
 
 **Änderung bisherigen Rechts**
 
 § 64. Die nachstehenden Gesetze werden wie folgt geändert:
 
-- a. das Einführungsgesetz zum Schweizerischen Zivilgesetzbuch (EG zum ZGB) vom 2. April 1911: . . .<sup>15</sup>
+- a. das Einführungsgesetz zum Schweizerischen Zivilgesetzbuch (EG zum ZGB) vom 2. April 1911: . . .[^62-5]
 
-- b. das Einführungsgesetz zum Nationalstrassengesetz vom 24. März 1963: . . .<sup>15</sup>
+- b. das Einführungsgesetz zum Nationalstrassengesetz vom 24. März 1963: . . .[^62-5]
 
-- c. das Gesetz über die Verkehrsabgaben und den Vollzug des Strassenverkehrsrechts des Bundes (Verkehrsabgabengesetz) vom 11. September 1966: . . .<sup>15</sup>
-
-**17**
-
-- 1\. 7. 21 - 113 § 65. Das Gesetz betreffend das Strassenwesen vom 20. August 1893 wird aufgehoben.
-
-[^62-1]: LS 781.
-[^62-2]: LS 230.
-
-#### § 66
+- c. das Gesetz über die Verkehrsabgaben und den Vollzug des Strassenverkehrsrechts des Bundes (Verkehrsabgabengesetz) vom 11. September 1966: . . .[^62-5]
 
 **Aufhebung bisherigen Rechts**
+
+§ 65. Das Gesetz betreffend das Strassenwesen vom 20. August 1893 wird aufgehoben.
+
+[^62-1]: LS 781.
+[^62-2]: Gemäss Ziffer III des RRB über die Inkraftsetzung des Strassengesetzes (OS 48, 618) sind die von den Grundeigentümern zu leistenden Anstösserbeiträge an die Kosten der erstmaligen Erstellung von Trottoiren an Staatsstrassen in bebauten oder in baulicher Entwicklung befindlichen Gebieten auf 25% der gesamten Kosten einschliesslich Landerwerb festgesetzt.
+[^62-3]: LS 230.
+[^62-4]: Aufgehoben durch G vom 1. April 1990 (OS 51, 101). In Kraft seit 1. Januar 1991 (OS 51, 200).
+[^62-5]: Text siehe OS 48, 273.
+
+#### § 66
 
 **Inkrafttreten**
 
 <sup>1</sup> Dieses Gesetz untersteht der Volksabstimmung.
 
-<sup>2</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens<sup>14</sup>.
+<sup>2</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens[^66-1].
+
+[^66-1]: In Kraft seit 1. Januar 1983 (OS 48, 618).
 
 ### Übergangsbestimmung zur Änderung vom 28. Oktober 2013
 
@@ -694,28 +699,6 @@ Die Zuständigkeit für die Beurteilung der im Zeitpunkt des Inkrafttretens hän
 (OS 71, 98)
 
 § 28 b gilt nicht für Projekte, die bei Inkrafttreten dieser Gesetzesänderung bereits nach § 13 StrG der Bevölkerung unterbreitet worden sind.
-
-<sup>11</sup> LS 910.1.
-
-<sup>12</sup> Gemäss Ziffer III des RRB über die Inkraftsetzung des Strassengesetzes (OS 48, 618) sind die von den Grundeigentümern zu leistenden Anstösserbeiträge an die Kosten der erstmaligen Erstellung von Trottoiren an Staatsstrassen in bebauten oder in baulicher Entwicklung befindlichen Gebieten auf 25% der gesamten Kosten einschliesslich Landerwerb festgesetzt.
-
-<sup>13</sup> In Kraft seit 1. Oktober 1982 (OS 48, 610).
-
-<sup>14</sup> In Kraft seit 1. Januar 1983 (OS 48, 618).
-
-<sup>15</sup> Text siehe OS 48, 273.
-
-<sup>16</sup> Eingefügt durch G vom 28. September 1986 (OS 49, 807). In Kraft seit 1. Dezember 1986 (OS 49, 809).
-
-<sup>17</sup> Fassung gemäss G vom 28. September 1986 (OS 49, 807). In Kraft seit 1. Dezember 1986 (OS 49, 809).
-
-<sup>18</sup> Fassung gemäss Gesetz über den öffentlichen Personenverkehr (OS 50, 393). In Kraft seit 1. Mai 1988 (OS 50, 401).
-
-<sup>19</sup> Fassung gemäss Staatsbeitragsgesetz vom 1. April 1990 (OS 51, 77). In Kraft seit 1. Januar 1991 (OS 51, 350).
-
-<sup>20</sup> Aufgehoben durch G vom 1. April 1990 (OS 51, 101). In Kraft seit 1. Januar 1991 (OS 51, 200).
-
-<sup>21</sup> Fassung gemäss G vom 1. April 1990 (OS 51, 101). In Kraft seit 1. Januar 1991 (OS 51, 200).
 
 <sup>22</sup> Aufgehoben durch Verwaltungsrechtspflegegesetz vom 8. Juni 1997 (OS 54, 268). In Kraft seit 1. Januar 1998 (OS 54, 290).
 
@@ -739,10 +722,6 @@ Die Zuständigkeit für die Beurteilung der im Zeitpunkt des Inkrafttretens hän
 
 <sup>32</sup> Aufgehoben durch Urteil des Bundesgerichts vom 4. November 2015 (1C\_157/ 2014).
 
-**19**
-
-- 1\. 7. 21 - 113
-
 <sup>33</sup> Fassung gemäss Gemeindegesetz vom 20. April 2015 (OS 72, 183; ABl 2013- 04-19). In Kraft seit 1. Januar 2018.
 
 <sup>34</sup> Eingefügt durch G vom 18. Juni 2018 (OS 74, 73; ABl 2017-12-22). In Kraft seit 1. Februar 2019.
@@ -751,8 +730,13 @@ Die Zuständigkeit für die Beurteilung der im Zeitpunkt des Inkrafttretens hän
 
 <sup>36</sup> Eingefügt durch G vom 31. August 2020 (OS 76, 156; ABl 2019-04-12). In Kraft seit 1. Juli 2021.
 
+<sup>37</sup> Eingefügt durch G vom 18. November 2019 (OS 77, 232; ABl 2018-12-07). In Kraft seit 1. Juni 2022.
+
 ## Weitere Fussnoten
 
 - [3] LS 131.1.
 - [4] LS 175.2.
 - [6] LS 331.
+- [16] Eingefügt durch G vom 28. September 1986 (OS 49, 807). In Kraft seit 1. Dezember 1986 (OS 49, 809).
+- [17] Fassung gemäss G vom 28. September 1986 (OS 49, 807). In Kraft seit 1. Dezember 1986 (OS 49, 809).
+- [19] Fassung gemäss Staatsbeitragsgesetz vom 1. April 1990 (OS 51, 77). In Kraft seit 1. Januar 1991 (OS 51, 350).
