@@ -4,27 +4,28 @@ number: "211.1"
 title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: EGZGB
 language: de
-version: 2016-10-01
-corrected: 2018-01-25
-version_adopted: 2016-05-12
+version: 2022-06-01
+valid_until: 2022-12-31
+version_adopted: 2020-12-17
 adopted: 1998-03-24
 in_force: 1999-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/211.1"
-pdf: "https://lex.vs.ch/api/de/versions/618/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2962/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 
-vom 24. März 1998
+(EGZGB)
+
+vom 24.03.1998 (Stand 01.06.2022)
 
 Der Grosse Rat des Kantons Wallis
 
-eingesehen den Artikel 52 des Schlusstitels des Zivilgesetzbuches;
+eingesehen Artikel 52 des Schlusstitels des Zivilgesetzbuches;
 
-eingesehen die Artikel 31 und 42, Absätze 1 und 2 der Verfassung des Kantons Wallis;
+eingesehen die Artikel 31 und 42 Absätze 1 und 2 der Verfassung des Kantons Wallis;
 
 auf Vorschlag des Staatsrates,
 
@@ -32,7 +33,7 @@ verordnet:
 
 #### Art. 1
 
-<sup>9</sup> Gegenstand des Gesetzes
+**Gegenstand des Gesetzes**
 
 <sup>1</sup> Das vorliegende Gesetz bestimmt die Zuständigkeit der mit der Anwendung des Bundesprivatrechts beauftragten Behörden.
 
@@ -42,80 +43,75 @@ verordnet:
 
 <sup>4</sup> Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
 
-### 1. Titel: Anwendung des Bundesprivatrechts
+## 1 Anwendung des Bundesprivatrechts
 
-### 1. Kapitel: Allgemeines
+### 1.1 Allgemeines
 
 #### Art. 2
 
 **Gerichts- und Verwaltungssachen**
 
-<sup>1</sup> Die Anwendung des Bundesprivatrechts ist entweder den Verwaltungsbehörden (Kapitel 2 des 1. Titels) oder den Gerichtsbehörden (Kapitel 3 des 1. Titels) anvertraut.
+<sup>1</sup> Die Anwendung des Bundesprivatrechts ist entweder den Verwaltungsbehörden (Kapitel 1.2) oder den Gerichtsbehörden (Kapitel 1.3) anvertraut.
 
 <sup>2</sup> Überlässt das vorliegende Gesetz oder die Ausführungsgesetzgebung die Entscheide nicht den Verwaltungsbehörden, so sind, unter Vorbehalt gegenteiliger Bestimmungen des Bundesrechts, die Gerichtsbehörden zuständig.
 
-<sup>3</sup> Fehlen im vorliegenden Gesetz Bestimmungen, die das von den Justizbehörden anzuwendende Verfahren regeln, wenden diese die Schweizerische Zivilprozessordnung als kantonales Recht an.[^2-1]
-
-[^2-1]: Änderung vom 8. Mai 2014 Abl. Nr. 22/2014, 01.07.14 Abl. Nr. 23/2014
-[^2-2]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2011
+<sup>3</sup> Fehlen im vorliegenden Gesetz Bestimmungen, die das von den Justizbehörden anzuwendende Verfahren regeln, wenden diese die Schweizerische Zivilprozessordnung als kantonales Recht an.
 
 #### Art. 3
 
-**Aufgehoben**[^2-2]
+**…**
 
 #### Art. 4
 
 **Revision des Bundesrechts**
 
-Soweit eine Anpassung an neue Bestimmungen des Bundesrechts notwendig ist, wird das vorliegende Gesetz durch ein Einführungsgesetz im Sinne der Kantonsverfassung vom Grossen Rat aufgehoben oder abgeändert.
+<sup>1</sup> Soweit eine Anpassung an neue Bestimmungen des Bundesrechts notwendig ist, wird das vorliegende Gesetz durch ein Einführungsgesetz im Sinne der Kantonsverfassung vom Grossen Rat aufgehoben oder abgeändert.
 
-### 2. Kapitel: Zivile Verwaltungssachen
+### 1.2 Zivile Verwaltungssachen
 
-### 1. Zuständigkeit und Verfahren im Allgemeinen
+### 1.2.1 Zuständigkeit und Verfahren im Allgemeinen
 
-- a) Allgemeine Bestimmungen
+### 1.2.1.1 Allgemeine Bestimmungen
 
 #### Art. 5
 
-<sup>5,9</sup> Anwendbares Recht
+**Anwendbares Recht**
 
 <sup>1</sup> Unter Vorbehalt der Bestimmungen des Bundesrechts ist das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege für zivilrechtliche Entscheide der Verwaltungsbehörden anwendbar.
 
 <sup>2</sup> Unter Vorbehalt des Bundesrechts und der folgenden Bestimmungen kann jeder durch eine Verwaltungsbehörde in erster Instanz oder auf Beschwerde hin gefällte Entscheid in Bezug auf eine Streitigkeit über zivilrechtliche Ansprüche und Verpflichtungen an die zivilrechtliche Abteilung des Kantonsgerichts weiter gezogen werden, sofern weder die Verwaltungsgerichtsbeschwerde an die öffentlichrechtliche Abteilung des Kantonsgerichts noch die Beschwerde an die Sozialversicherungsabteilung des Kantonsgerichts zulässig ist.
 
-- b) Besondere Zuständigkeiten
+- a) …
+- b) …
+
+### 1.2.1.2 Besondere Zuständigkeiten
 
 #### Art. 6
 
-<sup>10</sup> Polizeibehörden
+**Polizeibehörden**
 
-Die Polizeibehörden sind zuständig:
+<sup>1</sup> Die Polizeibehörden sind zuständig:
 
-- 1\. auf Begehren des Familienhauptes (Art. 333 Abs. 3 ZGB) die nötigen Sicherheitsmassnahmen zu treffen oder zu veranlassen gegenüber Personen mit einer geistigen Behinderung oder mit psychischen Störungen;
-
-- 2\. Fundanzeigen entgegen zu nehmen (Art. 720 ZGB).
+- a) auf Begehren des Familienhauptes (Art. 333 Abs. 3 ZGB) die nötigen Sicherheitsmassnahmen zu treffen oder zu veranlassen gegenüber Personen mit einer geistigen Behinderung oder mit psychischen Störungen;
+- b) Fundanzeigen entgegen zu nehmen (Art. 720 ZGB).
 
 #### Art. 7
 
 **Gemeindepräsident**
 
-Der Gemeindepräsident kann die Unterschrift einer in seiner Gemeinde wohnsässigen Person beglaubigen (Art. 195).
+<sup>1</sup> Der Gemeindepräsident kann die Unterschrift einer in seiner Gemeinde wohnsässigen Person beglaubigen (Art. 195).
 
 #### Art. 8
 
-<sup>1</sup> Gemeinderat
+**Gemeinderat**
 
-Der Gemeinderat ist die zuständige Behörde für:
+<sup>1</sup> Der Gemeinderat ist die zuständige Behörde für:
 
-- 1\. die Aufsicht über Stiftungen, die nach ihrer Bestimmung der Gemeinde angehören (Art. 84 ZGB); vorbehalten bleiben Entscheide, die ausschliesslich vom zuständigen Departement zu treffen sind;
-
-- 2\. Aufgehoben
-
-- 3\. die Erhebung der Klage zur Anfechtung der Anerkennung gemäss den Artikeln 259, Absatz 2 und 260a, Absatz 1 ZGB oder jene zur Anfechtung der Adoption (Art. 269a ZGB) sowie die Verteidigung gegen die Vaterschaftsklage im Sinne von Artikel 261, Absatz 2 ZGB;
-
-- 4\. das Verbot des Betretens von Wald und Weide im Interesse der Kulturen (Art. 699 Abs. 1 ZGB), ohne Beeinträchtigung der durch die Forstdienste in Anwendung der Forstgesetzgebung des Bundes und des Kantons getroffenen Entscheide;
-
-- 5\. die Durchsetzung der Vollziehung von Auflagen, welche in unentgeltlichen Zuwendungen unter Lebenden oder von Todes wegen enthalten sind, wenn die Vollziehung dieser Auflagen im Interesse der Gemeinde liegt (Art. 482 ZGB, 246 Abs. 2 OR).
+- a) die Aufsicht über Stiftungen, die nach ihrer Bestimmung der Gemeinde angehören (Art. 84 ZGB); vorbehalten bleiben Entscheide, die ausschliesslich vom zuständigen Departement zu treffen sind;
+- b) …
+- c) die Erhebung der Klage zur Anfechtung der Anerkennung gemäss den Artikeln 259 Absatz 2 und 260a Absatz 1 ZGB oder jene zur Anfechtung der Adoption (Art. 269a ZGB) sowie die Verteidigung gegen die Vaterschaftsklage im Sinne von Artikel 261 Absatz 2 ZGB;
+- d) das Verbot des Betretens von Wald und Weide im Interesse der Kulturen (Art. 699 Abs. 1 ZGB), ohne Beeinträchtigung der durch die Forstdienste in Anwendung der Forstgesetzgebung des Bundes und des Kantons getroffenen Entscheide;
+- e) die Durchsetzung der Vollziehung von Auflagen, welche in unentgeltlichen Zuwendungen unter Lebenden oder von Todes wegen enthalten sind, wenn die Vollziehung dieser Auflagen im Interesse der Gemeinde liegt (Art. 482 ZGB, 246 Abs. 2 OR).
 
 #### Art. 9
 
@@ -123,52 +119,37 @@ Der Gemeinderat ist die zuständige Behörde für:
 
 <sup>1</sup> Der Regierungsstatthalter ist die zuständige Behörde für:
 
-- 1\. die Aufsicht über Stiftungen, die nach ihrer Bestimmung dem Bezirk oder mehreren Gemeinden desselben angehören (Art. 84 ZGB); vorbehalten bleiben Entscheide, die ausschliesslich vom zuständigen Departement zu treffen sind;
-
-- 2\. die Durchsetzung der Vollziehung von Auflagen, welche in unentgeltlichen Zuwendungen unter Lebenden oder von Todes wegen enthalten sind, wenn die Vollziehung dieser Auflagen im Interesse des Bezirkes oder mehrerer Gemeinden desselben liegt (Art. 482 ZGB, 246 Abs. 2 OR);
-
-- 3\. die Überwachung der Auslosung der in Serie herausgegebenen Gülten (Art. 882 ZGB);
+- a) die Aufsicht über Stiftungen, die nach ihrer Bestimmung dem Bezirk oder mehreren Gemeinden desselben angehören (Art. 84 ZGB); vorbehalten bleiben Entscheide, die ausschliesslich vom zuständigen Departement zu treffen sind;
+- b) die Durchsetzung der Vollziehung von Auflagen, welche in unentgeltlichen Zuwendungen unter Lebenden oder von Todes wegen enthalten sind, wenn die Vollziehung dieser Auflagen im Interesse des Bezirkes oder mehrerer Gemeinden desselben liegt (Art. 482 ZGB, 246 Abs. 2 OR);
+- c) die Überwachung der Auslosung der in Serie herausgegebenen Gülten (Art. 882 ZGB);
 
 <sup>2</sup> Im Übrigen kann er die Unterschrift einer Person beglaubigen, die in einer der Gemeinden seines Bezirkes wohnsässig ist (Art. 195).
 
 #### Art. 10
 
-<sup>1,12</sup> Zuständiges Departement
+**Zuständiges Departement**
 
 <sup>1</sup> Dem zuständigen Departement kommen folgende Aufgaben zu:
 
-- 1\. die Ausübung der Amtsbefugnisse der Aufsichtsbehörde im Bereich des Zivilstandswesens, im Rahmen der entsprechenden kantonalen Gesetzgebung (Art. 39 ff. ZGB);
-
-- 2\. die Klageerhebung zur Auflösung einer juristischen Person, deren Zweck rechts- oder sittenwidrig geworden ist;
-
-- 3\. die Aufsicht über die Stiftungen, die nach ihrer Bestimmung dem Kanton oder mehreren Bezirken desselben angehören (Art. 84 ZGB);
-
-- 4\. die Änderungen der Organisation, des Zwecks oder der Auflagen einer Stiftung, ungeachtet der entsprechend ihrem Zweck zuständigen kantonalen Behörde (Art. 85, 86, 86a und 88 Abs. 1 ZGB);
-
-- 5\. der Entscheid, eine Klage auf Eheungültigkeit einzureichen (Art. 106 Abs. 1, 1. Satz ZGB);
-
-- 6\. die Bewilligung zur Adoption (Art. 268 ZGB);
-
-- 7\. aufgehoben[^10-1]
-
-- 8\. die Durchsetzung der Vollziehung von Auflagen, welche in unentgeltlichen Zuwendungen unter Lebenden oder von Todes wegen enthalten sind, wenn die Vollziehung dieser Auflagen im Interesse des Kantons oder mehrerer Bezirke liegt (Art. 482 ZGB, 246 Abs. 2 OR);
-
-- 9\. die Ermächtigung an Geldinstitute und Genossenschaften zur Annahme der Viehverpfändung (Art. 885 ZGB);
-
-- 10\. aufgehoben;[^10-2] 10bis die Entscheide und die Aufsicht betreffend die berufliche Ehe- oder Partnerschaftsvermittlung, sofern diese Tätigkeit Personen betrifft, welche aus den Ausland stammen (Art. 406c Abs. 1 OR);
-
-- 11\. die Bewilligung an Lagerhalter zur Ausgabe von Wertpapieren für die gelagerten Waren (Art. 482 OR);
-
-- 12\. die Anerkennung der Pfrundanstalten und Genehmigung der Aufnahmebedingungen und der Hausordnung (Art. 522 und 524 OR);
-
-- 13\. die Ausübung der Aufsicht im Bereich des Handelsregisters (Art. 927 Abs. 3 OR).
+- a) die Vollstreckung angeordneter elektronischer Überwachungsmassnahmen gemäss der Bestimmung über Gewalt, Drohungen oder Nachstellungen (Art. 28b ZGB);
+- a<sup>bis</sup>) die Ausübung der Befugnisse der Aufsichtsbehörde für das Zivilstandswesen im Rahmen der einschlägigen kantonalen Gesetzgebung (Art. 39ff ZGB);
+- b) die Klageerhebung zur Auflösung einer juristischen Person, deren Zweck rechts- oder sittenwidrig geworden ist;
+- c) die Aufsicht über die Stiftungen, die nach ihrer Bestimmung dem Kanton oder mehreren Bezirken desselben angehören (Art. 84 ZGB);
+- d) die Änderungen der Organisation, des Zwecks oder der Auflagen einer Stiftung, ungeachtet der entsprechend ihrem Zweck zuständigen kantonalen Behörde (Art. 85, 86, 86a und 88 Abs. 1 ZGB);
+- e) der Entscheid, eine Klage auf Eheungültigkeit einzureichen (Art. 106 Abs. 1, 1. Satz ZGB);
+- f) die Bewilligung zur Adoption (Art. 268 ZGB);
+- g) …
+- h) die Durchsetzung der Vollziehung von Auflagen, welche in unentgeltlichen Zuwendungen unter Lebenden oder von Todes wegen enthalten sind, wenn die Vollziehung dieser Auflagen im Interesse des Kantons oder mehrerer Bezirke liegt (Art. 482 ZGB, 246 Abs. 2 OR);
+- i) die Ermächtigung an Geldinstitute und Genossenschaften zur Annahme der Viehverpfändung (Art. 885 ZGB);
+- j) …
+- j<sup>bis</sup>) die Entscheide und die Aufsicht betreffend die berufliche Ehe- oder Partnerschaftsvermittlung, sofern diese Tätigkeit Personen betrifft, welche aus den Ausland stammen (Art. 406c Abs. 1 OR);
+- k) die Bewilligung an Lagerhalter zur Ausgabe von Wertpapieren für die gelagerten Waren (Art. 482 OR);
+- l) die Anerkennung der Pfrundanstalten und Genehmigung der Aufnahmebedingungen und der Hausordnung (Art. 522 und 524 OR);
+- m) die Ausübung der Aufsicht im Bereich des Handelsregisters (Art. 927 Abs. 3 OR).
 
 <sup>2</sup> Durch veröffentlichten Entscheid kann der Departementsvorsteher die eine oder andere Zuständigkeit, die er aufgrund des vorliegenden Artikels inne hat, an eine Dienststelle übertragen.
 
 <sup>3</sup> Die Aufgaben der Departemente, namentlich die Organisations-, Ausführungs- und Überwachungsmassnahmen, können Gegenstand einer Verordnung des Staatsrates bilden, insbesondere um die Anwendung der vom Bundesrat erlassenen, ergänzenden bundesrechtlichen Bestimmungen zu gewährleisten.
-
-[^10-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2013
-[^10-2]: Aufgehoben (Kantonales Arbeitsgesetz vom Abl. Nr. 23/2016; 01.10.2016 12. Mai 2016, Art. 71 Bst. c) Abl. Nr. 39/2016
 
 #### Art. 11
 
@@ -180,33 +161,32 @@ Der Gemeinderat ist die zuständige Behörde für:
 
 #### Art. 12
 
-<sup>4</sup> Staatsrat
+**Staatsrat**
 
 <sup>1</sup> Der Staatsrat ist die zuständige Behörde für:
 
-- 1\. die Bewilligung zur Namensänderung (Art. 30 Abs. 1 und 2 ZGB);
-
-- 2\. die Bewilligung zur Ausübung des Pfandleihgewerbes im Kanton (Art. 907 ZGB).
+- a) die Bewilligung zur Namensänderung (Art. 30 Abs. 1 und 2 ZGB);
+- b) die Bewilligung zur Ausübung des Pfandleihgewerbes im Kanton (Art. 907 ZGB).
 
 <sup>2</sup> Durch im Amtsblatt veröffentlichten Entscheid kann der Staatsrat seine Zuständigkeit einem Departement übertragen; die Verwaltungsbeschwerde an den Staatsrat bleibt vorbehalten.
 
-- c) Kindes- und Erwachsenenschutzbehörde
+### 1.2.1.3 Kindes- und Erwachsenenschutzbehörde
 
 #### Art. 13
 
-<sup>10</sup> Kommunale oder interkommunale Behörde
+**Kommunale oder interkommunale Behörde**
 
 <sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde (Schutzbehörde) ist eine von der Verwaltung unabhängige kommunale Behörde.
 
 <sup>2</sup> Die Gemeinden können vereinbaren, gemeinsam eine interkommunale Schutzbehörde in einer vom Gemeindegesetz vorgesehenen Form zu ernennen.
 
+<sup>3</sup> …
+
 #### Art. 14
 
-<sup>10</sup> Zusammensetzung der Schutzbehörde
+**Zusammensetzung der Schutzbehörde**
 
-<sup>1</sup> Die Schutzbehörde setzt sich aus einem Präsidenten, zwei Mitgliedern und zwei Stellvertretern zusammen. Diese werden vom Gemeinderat oder vom ausführenden Organ der Gemeindevereinigung für vier Jahre ernannt. Die Ernennungsbehörde stellt die interdisziplinäre Zusammensetzung sicher (Art.
-
-440 ZGB). Es können auch Personen ohne Wohnsitz in der Gemeinde oder im interkommunalen Gebiet Mitglied sein.
+<sup>1</sup> Die Schutzbehörde setzt sich aus einem Präsidenten, zwei Mitgliedern und zwei Stellvertretern zusammen. Diese werden vom Gemeinderat oder vom ausführenden Organ der Gemeindevereinigung für vier Jahre ernannt. Die Ernennungsbehörde stellt die interdisziplinäre Zusammensetzung sicher (Art. 440 ZGB). Es können auch Personen ohne Wohnsitz in der Gemeinde oder im interkommunalen Gebiet Mitglied sein.
 
 <sup>2</sup> Der Gemeinderichter oder einer der Gemeinderichter der Vereinigung, welcher gemäss den Grundsätzen der Gemeindevereinigungen bezeichnet wird, muss Mitglied der Schutzbehörde sein.
 
@@ -220,7 +200,7 @@ Der Gemeinderat ist die zuständige Behörde für:
 
 #### Art. 15
 
-<sup>10</sup> Beratungen und Entscheide
+**Beratungen und Entscheide**
 
 <sup>1</sup> Unter Vorbehalt der Kompetenzen, welche im vorliegenden Gesetz ausdrücklich dem Präsidenten oder seinem Stellvertreter zugesprochen werden (Art. 112 Abs. 3) und der Aufgaben, welche der Präsident an ein einzelnes Mitglied der Behörde oder an einen speziell zu diesem Zweck bestellten Beisitzer delegiert hat (Art. 112 Abs. 4), kann die Schutzbehörde nur gültig beraten, wenn drei ihrer Mitglieder anwesend sind.
 
@@ -238,45 +218,63 @@ Der Gemeinderat ist die zuständige Behörde für:
 
 #### Art. 16
 
-<sup>10</sup> Aufsicht
+**Aufsicht**
 
-Der Staatsrat beaufsichtigt die Organisation der Schutzbehörde gemäss den durch die Verordnung festgelegten Auflagen.
+<sup>1</sup> Der Staatsrat beaufsichtigt die Organisation der Schutzbehörde gemäss den durch die Verordnung festgelegten Auflagen.
 
-cbis) Berufsbeistandschaft
+<sup>2</sup> …
+
+<sup>3</sup> …
+
+<sup>4</sup> …
+
+### 1.2.1.3a Berufsbeistandschaft
 
 #### Art. 17
 
-<sup>10</sup> Grundsätze
+**Grundsätze**
 
 <sup>1</sup> Die Berufsbeistandschaft übernimmt Betreuungs- und Verwaltungsmandate, welche die Kindes- und Erwachsenenschutzbehörde weder einer Privatperson noch dem kantonalen Jugendamt übertragen kann.
 
 <sup>2</sup> Zuständig ist die Berufsbeistandschaft der Gemeinde, in welcher die betroffene Person ihren Wohnsitz hat.
 
+<sup>3</sup> …
+
+<sup>4</sup> …
+
+<sup>5</sup> …
+
+#### Art. 17a
+
+**…**
+
 #### Art. 18
 
-<sup>10</sup> Rechtlicher Status
+**Rechtlicher Status**
 
 <sup>1</sup> Die Berufsbeistandschaft ist eine kommunale Einrichtung.
 
 <sup>2</sup> Die Gemeinde erfüllt diese Aufgabe:
 
 - a) durch Errichtung einer eigenen Berufsbeistandschaft;
-
 - b) durch Delegation an eine andere Gemeinde, an eine Gemeindevereinigung oder an Dritte;
-
 - c) durch einen interkommunalen privatrechtlichen Zusammenarbeitsvertrag oder durch eine Gemeindevereinigung als Träger einer Berufsbeistandschaft.
 
 <sup>3</sup> Die Aufgabendelegation und die interkommunalen Vereinbarungen gemäss Absatz 2 Buchstaben b und c sind durch das Gemeindegesetz geregelt.
 
 #### Art. 19
 
-<sup>10</sup> Verordnete Zusammenarbeit
+**Verordnete Zusammenarbeit**
 
-Eine Gemeinde, die offensichtlich nicht in der Lage ist, den Betrieb einer Berufsbeistandschaft zu gewährleisten, kann vom Staatsrat angewiesen werden, in einer der nach Artikel 18 Absatz 2 Buchstaben b und c vorgesehenen Form zusammenzuarbeiten.
+<sup>1</sup> Eine Gemeinde, die offensichtlich nicht in der Lage ist, den Betrieb einer Berufsbeistandschaft zu gewährleisten, kann vom Staatsrat angewiesen werden, in einer der nach Artikel 18 Absatz 2 Buchstaben b und c vorgesehenen Form zusammenzuarbeiten.
+
+<sup>2</sup> …
+
+<sup>3</sup> …
 
 #### Art. 19a
 
-<sup>10</sup> Interne Organisation
+**Interne Organisation**
 
 <sup>1</sup> Die Berufsbeistandschaft verfügt über einen oder mehrere vollamtliche oder teilamtliche Berufsbeistände.
 
@@ -285,24 +283,22 @@ Eine Gemeinde, die offensichtlich nicht in der Lage ist, den Betrieb einer Beruf
 <sup>3</sup> Die Berufsbeistandschaft hat:
 
 - a) sicherzustellen, dass die Berufsbeistände die Instruktion, Beratung und Unterstützung erhalten, die sie für die Erfüllung ihrer Aufgaben benötigen;
-
 - b) die Vertraulichkeit der bearbeiteten Daten zu garantieren.
 
 #### Art. 19b
 
-<sup>10</sup> Zivilrechtliche Verantwortlichkeit
+**Zivilrechtliche Verantwortlichkeit**
 
 <sup>1</sup> Der Kanton haftet direkt für Schaden, der durch widerrechtliches Handeln oder Unterlassen von Organen des Kindes- und Erwachsenenschutzes entsteht (Art. 454 ZGB).
 
 <sup>2</sup> Der Kanton hat ein doppeltes Rückgriffsrecht:
 
 - a) gegenüber der Gemeinde oder dem Gemeindeverband, die bzw. der für die betroffene Berufsbeistandschaft verantwortlich ist;
-
 - b) gegenüber dem Mandatsträger.
 
-<sup>3</sup> Artikel 14 ff. des Gesetzes über die Verantwortlichkeit der öffentlichen Gemeinwesen und ihrer Amtsträger regelt das Verfahren über den Rückgriff auf den Berufsbeistand oder Berufsvormund. Diese Bestimmungen finden analoge Anwendung, wenn die Behörde das Mandat einer Privatperson überträgt.
+<sup>3</sup> Artikel 14 und folgende des Gesetzes über die Verantwortlichkeit der öffentlichen Gemeinwesen und ihrer Amtsträger regelt das Verfahren über den Rückgriff auf den Berufsbeistand oder Berufsvormund. Diese Bestimmungen finden analoge Anwendung, wenn die Behörde das Mandat einer Privatperson überträgt.
 
-- d) Notare
+### 1.2.1.4 Notare
 
 #### Art. 20
 
@@ -318,29 +314,37 @@ Die letztwilligen Verfügungen sowie die Erbverträge werden einerseits der kant
 
 <sup>4</sup> In Ausübung ihrer amtlichen Tätigkeit haben sie sich an das Notariatsgesetz zu halten.
 
-### 2. Besondere Verwaltungsverfahren
+### 1.2.2 Besondere Verwaltungsverfahren
 
-- a) Personenrecht
+### 1.2.2.1 Personenrecht
+
+#### Art. 20a
+
+**Elektronische Überwachung**
+
+<sup>1</sup> Die für die Vollstreckung von Strafen und Massnahmen zuständige Dienststelle ist für die Vollstreckung angeordneter elektronischer Überwachungsmassnahmen zuständig, die gemäss der Bestimmung über Gewalt, Drohungen oder Nachstellungen verhängt werden.
+
+<sup>2</sup> Das in der Verordnung über die elektronische Überwachung vorgesehene Verfahren gilt sinngemäss.
 
 #### Art. 21
 
 **Namensänderung**
 
-Die Namensänderung beim Jugendlichen kann nur nach Anhörung seiner nächsten Verwandten in aufsteigender Linie ausgesprochen werden.
+<sup>1</sup> Die Namensänderung beim Jugendlichen kann nur nach Anhörung seiner nächsten Verwandten in aufsteigender Linie ausgesprochen werden.
 
 #### Art. 22
 
-<sup>1</sup> Zivilstand
+**Zivilstand**
 
 <sup>1</sup> Die Organisation der Behörden und der Kreise, die Ausbildung, die Ernennung und die Abberufung der Zivilstandsbeamten, die Aufsicht, die Gehälter und Gebühren, das Führen der Register und die Leistungen der Gemeinden und des Staates im Zivilstandswesen bilden Gegenstand einer Verordnung des Staatsrates.
 
 <sup>2</sup> Zusätzlich enthält die Verordnung die Ausführungsbestimmungen zum Bundesrecht betreffend das Vorbereitungsverfahren und die Trauung.
 
-- b) Stiftungen
+### 1.2.2.2 Stiftungen
 
 #### Art. 23
 
-<sup>10</sup> Stiftungsaufsicht
+**Stiftungsaufsicht**
 
 <sup>1</sup> Die Organisation der Stiftungsaufsicht, die Art der Ausübung sowie die Gebührenordnung werden in einer Verordnung des Staatsrates geregelt.
 
@@ -358,11 +362,11 @@ Die Namensänderung beim Jugendlichen kann nur nach Anhörung seiner nächsten V
 
 <sup>2</sup> Bei Nichterfüllung nach erfolgloser Mahnung können sie, gemäss den Bestimmungen über die administrativen Strafentscheide, mit Haft oder Busse bestraft werden.
 
-- c) Aufnahme von Kindern und Adoption
+### 1.2.2.3 Aufnahme von Kindern und Adoption
 
 #### Art. 25
 
-<sup>10</sup> Aufnahme von Kindern
+**Aufnahme von Kindern**
 
 <sup>1</sup> Die Bewilligung und Aufsicht der Aufnahme von Kindern fällt in die Zuständigkeit des kantonalen Jugendamtes entsprechend der Bundes- und Kantonsgesetzgebung in diesem Bereich.
 
@@ -376,43 +380,51 @@ Die Namensänderung beim Jugendlichen kann nur nach Anhörung seiner nächsten V
 
 **Vermittlertätigkeit zur Adoption**
 
-Das kantonale Jugendamt ist die zuständige Behörde im Bereich der Adoptivkindervermittlung.
+<sup>1</sup> Das kantonale Jugendamt ist die zuständige Behörde im Bereich der Adoptivkindervermittlung.
 
 #### Art. 27
 
 **Adoption**
 
-Das Adoptionsgesuch ist an das zuständige Departement zu richten, welches nach einer Untersuchung beim kantonalen Jugendamt entscheidet.
+<sup>1</sup> Das Adoptionsgesuch ist an das zuständige Departement zu richten. Im Falle der Adoption eines minderjährigen Kindes entscheidet das Departement nach einer Untersuchung bei der Dienststelle für die Jugend.
 
-- d) Ernennung und Entschädigung des Beistands und des
+<sup>2</sup> Auf deren Wunsch bietet die kantonale Dienststelle für die Jugend Beratungen an:
 
-### Vormundes
+- a) den Adoptivkindern bei der Suche nach ihrer Abstammung;
+- b) den biologischen Eltern und deren direkten Nachkommen bei der Suche nach Informationen über ihre Kinder beziehungsweise ihre Geschwister.
+
+### 1.2.2.4 Ernennung und Entschädigung des Beistands und des Vormundes
 
 #### Art. 28
 
-<sup>10</sup> Grundsätze
+**Grundsätze**
 
-Die Bestimmungen über die Ernennung und Entschädigung des Beistands gelten:
+<sup>1</sup> Die Bestimmungen über die Ernennung und Entschädigung des Beistands gelten:
 
 - a) in gleicher Weise für die Kindes- und die Erwachsenenschutzmassnahmen;
-
 - b) in Analogie für den Vormund für Kinder.
+
+<sup>2</sup> …
+
+<sup>3</sup> …
 
 #### Art. 29
 
-<sup>10</sup> Ernennung
+**Ernennung**
 
-<sup>1</sup> Die Ernennung des Beistands richtet sich nach Artikel 400 ff. ZGB.
+<sup>1</sup> Die Ernennung des Beistands richtet sich nach Artikel 400 und folgende ZGB.
 
 <sup>2</sup> Wenn die Schutzbehörde keine geeignete Privatperson für die Führung eines Mandats findet, ersucht sie die zuständige Berufsbeistandschaft, ihr eine geeignete Person vorzuschlagen.
 
+<sup>3</sup> …
+
 #### Art. 30
 
-<sup>10</sup> Wiedererwägung der Ernennung und Beschwerde
+**Wiedererwägung der Ernennung und Beschwerde**
 
-<sup>1</sup> Die gegen ihren Willen ernannte Person kann innert zehn Tagen nach Mitteilung der Ernennung bei der Schutzbehörde einen Ablehnungsgrund geltend machen.
+<sup>1</sup> …
 
-<sup>2</sup> Ablehnungsgründe im Sinne von Artikel 400 Absatz 2 ZGB sind namentlich starke familiäre oder berufliche Belastungen oder bereits übernommene öffentliche Aufgaben auf einem höheren Niveau.
+<sup>2</sup> …
 
 <sup>3</sup> Ausserdem kann jede Person, die ein Interesse hat, die Wahl innert zehn Tagen, nachdem sie von ihr Kenntnis erhalten hat, als gesetzwidrig anfechten.
 
@@ -420,18 +432,17 @@ Die Bestimmungen über die Ernennung und Entschädigung des Beistands gelten:
 
 <sup>5</sup> Der Beistand, der die Wahl ablehnt oder dessen Ernennung angefochten wird, hat das Mandat zu führen, bis die Schutzbehörde entschieden hat.
 
-<sup>6</sup> Der Beistand, der sich weigert, das Amt auszuüben und der keinen Einspruch erhoben hat oder dessen Einspruch abgewiesen wurde, kann mit Busse bestraft werden, welche gemäss den Bestimmungen über die administrativen Strafentscheide ausgesprochen wird. Überdies kann ihm die Schutzbehörde die durch seine Nachlässigkeit zusätzlich verursachten Kosten auferlegen.
+<sup>6</sup> …
 
 #### Art. 31
 
-<sup>10</sup> Entschädigung und Vergütung der Spesen
+**Entschädigung und Vergütung der Spesen**
 
 <sup>1</sup> Die Schutzbehörde beschliesst die Entschädigung des Beistands und die Vergütung der notwendigen Spesen, grundsätzlich im Rahmen der periodischen Berichts- und Rechnungsprüfung.
 
 <sup>2</sup> Die monatliche Entschädigung wird zwischen 50 und 300 Franken festgelegt. Die Erwachsenenschutzbehörde kann jedoch:
 
 - a) eine höhere Entschädigung festlegen, wenn die Mandatsführung mit einem ausserordentlichen Aufwand oder spezifischen Kompetenzen verbunden war;
-
 - b) eine tiefere Entschädigung festlegen, wenn zwischen der effektiv erbrachten Leistung und dem Minimaltarif ein offensichtliches Missverhältnis besteht. Dem Beistand steht es frei, auf jegliche Entschädigung zu verzichten.
 
 <sup>3</sup> Die Bestimmungen des Gesetzes betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- oder Verwaltungsbehörden bezüglich Reiseentschädigungen und den Ersatz der effektiven oder pauschalen Spesen finden analoge Anwendung.
@@ -439,18 +450,19 @@ Die Bestimmungen über die Ernennung und Entschädigung des Beistands gelten:
 <sup>4</sup> Wenn die mit der Entschädigung und dem Spesenersatz verbundenen Kosten nicht dem Vermögen der betroffenen Person belastet werden können:
 
 - a) erhält der Beistand zusätzlich zum Spesenersatz 70 Prozent der regulären Entschädigung;
-
-- b) übernimmt die Wohnsitzgemeinde der betroffenen Person die Kosten für die Mandatsführung.
+- b) übernimmt die Wohnsitzgemeinde der betroffenen Person die Kosten für die Mandatsführung. Diese ist verpflichtet, den von der Gemeinde geleisteten Vorschuss zurückzuzahlen, sobald sie zu neuem Vermögen kommt.
 
 <sup>5</sup> Die Entschädigung des Berufsbeistandes fällt an den Arbeitgeber, sofern er die Tätigkeit vollamtlich ausführt (Art. 404 Abs. 1 ZGB).
 
-dbis) Führung der Beistandschaft
+<sup>6</sup> Die Ausführungsbestimmungen des vorliegenden Gesetzes sind in der Verordnung über den Kindes- und Erwachsenenschutz vom 22. August 2012 festgelegt.
+
+### 1.2.2.4a Führung der Beistandschaft
 
 #### Art. 32
 
-<sup>10</sup> Grundsätze
+**Grundsätze**
 
-<sup>1</sup> Die Führung der Beistandschaft richtet sich nach den Bestimmungen von Artikel 405 ff. ZGB.
+<sup>1</sup> Die Führung der Beistandschaft richtet sich nach den Bestimmungen von Artikel 405 und folgende ZGB.
 
 <sup>2</sup> Die folgenden ergänzenden Ausführungsbestimmungen betreffen insbesondere die Vermögensverwaltung.
 
@@ -458,9 +470,9 @@ dbis) Führung der Beistandschaft
 
 #### Art. 33
 
-<sup>10</sup> Inventar
+**Inventar**
 
-<sup>1</sup> Das vom Beistand bei der Übernahme des Mandats (Art. 405 Abs. 2 ZGB) erstellte Vermögensinventar ist in analoger Anwendung der Artikel 98 und 99 des vorliegenden Gesetzes zu errichten.
+<sup>1</sup> Das vom Beistand oder vom Vormund bei Amtsantritt erstellte Inventar (Art. 405 Abs. 2 ZGB) ist in analoger Anwendung der Artikel 98 und 99 des vorliegenden Gesetzes zu errichten.
 
 <sup>2</sup> Ordnet die Schutzbehörde ein öffentliches Inventar an (Art. 405 Abs. 3 ZGB), sind die Artikel 106 und 108 des vorliegenden Gesetzes analog anwendbar.
 
@@ -468,103 +480,172 @@ dbis) Führung der Beistandschaft
 
 #### Art. 34
 
-<sup>10</sup> Wertsachen und Vermögensanlagen
+**Wertsachen und Vermögensanlagen**
 
 <sup>1</sup> Der Staatsrat erlässt Bestimmungen über die Aufbewahrung und Erhaltung von Wertsachen, Kostbarkeiten und wichtigen Dokumenten der betroffenen Person.
 
-<sup>2</sup> Er bestimmt die Institute, die für die Entgegennahme von Wertsachen und Vermögensanlagen in Frage kommen.
+<sup>2</sup> …
 
 <sup>3</sup> Die vom Bundesrat gemäss Artikel 408 Absatz 3 ZGB erlassenen Bestimmungen bleiben vorbehalten.
 
+<sup>4</sup> …
+
 #### Art. 35
 
-<sup>10</sup> Versteigerung
+**Versteigerung**
 
-<sup>1</sup> Der Verkauf von Gegenständen oder Rechten mit einem geschätzten Wert von 10'000 Franken und darüber sowie der Verkauf von Grundstücken erfolgt durch öffentliche Versteigerung, ausser die Erwachsenenschutzbehörde bewillige einen freihändigen Verkauf.
+<sup>1</sup> …
 
 <sup>2</sup> Die öffentliche Versteigerung erfolgt nach den Anforderungen von Artikel. 189 des vorliegenden Gesetzes.
 
 <sup>3</sup> Vor dem Verkauf ist eine Schätzung eines Experten einzuholen:
 
 - a) für Gegenstände, deren Schätzung im Eingangsinventar nicht mehr richtig erscheint;
-
 - b) für Grundstücke, deren Wert offensichtlich über 50'000 Franken liegt.
 
 <sup>4</sup> Vor der Versteigerung sind Ort, Tag und Stunde der Versteigerung zu publizieren. Die Publikation hat zweimal zu erfolgen, wenn ein Grundstück versteigert wird.
 
 #### Art. 36
 
-<sup>10</sup> Rechnung und Berichterstattung
+**Rechnung und Berichterstattung**
 
 <sup>1</sup> Die Rechnung hat alle Einnahmen und Ausgaben des Rechnungsjahres sowie den aktuellen Vermögensstand der betroffenen Person auszuweisen.
 
-<sup>2</sup> Der Beistand hat der Schutzbehörde alle Belege zu den Kontoeintragungen zur Verfügung zu halten.
+<sup>2</sup> Der Beistand oder der Vormund hat der Schutzbehörde alle Belege zu den Kontoeintragungen zur Verfügung zu halten.
 
-<sup>3</sup> Darüber hinaus bestimmt der Staatsrat die formellen Anforderungen an die periodische Rechnungsablage und Berichterstattung (Art. 410 und 411 ZGB) des Beistands.
+<sup>3</sup> Darüber hinaus bestimmt der Staatsrat die formellen Anforderungen an die periodische Rechnungsablage und Berichterstattung des Beistands oder des Vormunds zuhanden der Schutzbehörde (Art. 410 und 411 ZGB) .
 
 #### Art. 37
 
-<sup>10</sup> Ergänzende Bestimmungen
+**Ergänzende Bestimmungen**
 
 <sup>1</sup> Der Staatsrat erlässt die nötigen ergänzenden Bestimmungen zur Vollstreckung der Entscheide der Schutzbehörde.
 
 <sup>2</sup> Er kann die in Artikel 31 und 35 festgelegten Beträge dem Landesindex der Konsumentenpreise anpassen.
 
-[^37-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2013
+#### Art. 38
 
-#### Art. 38 bis
+**…**
 
-**44[^37-1]**
+#### Art. 39
 
-Aufgehoben
+**…**
 
-- e) Entmündigung, Errichtung einer Beiratschaft oder einer
+#### Art. 40
 
-### Beistandschaft, Aufhebung dieser Massnahmen
+**…**
 
-[^hBeistandschaftAufh-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2013
+#### Art. 41
 
-#### Art. 45 bis
+**…**
 
-**54[^hBeistandschaftAufh-1]**
+#### Art. 42
 
-Aufgehoben
+**…**
 
-- f) Kindesschutz
+#### Art. 43
+
+**…**
+
+#### Art. 44
+
+**…**
+
+### 1.2.2.5
+
+#### Art. 45
+
+**…**
+
+#### Art. 46
+
+**…**
+
+#### Art. 47
+
+**…**
+
+#### Art. 48
+
+**…**
+
+#### Art. 49
+
+**…**
+
+#### Art. 50
+
+**…**
+
+#### Art. 51
+
+**…**
+
+#### Art. 52
+
+**…**
+
+#### Art. 53
+
+**…**
+
+#### Art. 54
+
+**…**
+
+### 1.2.2.6 Kindesschutz
 
 #### Art. 55
 
-<sup>10</sup> Zuständigkeit des Richters
+**Zuständigkeit des Richters**
 
-Die Zuständigkeit des Richters betreffend Kindesschutzmassnahmen ist in Artikel 315a und 315b ZGB geregelt.
+<sup>1</sup> Die Zuständigkeit des Richters betreffend Kindesschutzmassnahmen ist in Artikel 315a und 315b ZGB geregelt.
 
-[^55-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2013
+<sup>2</sup> …
 
-#### Art. 56 bis
+<sup>3</sup> …
 
-**58[^55-1]**
+<sup>4</sup> …
 
-Aufgehoben
+#### Art. 56
 
-- g) Vollzug der fürsorgerischen Unterbringung und
+**…**
 
-### Nachbetreuung
+#### Art. 57
+
+**…**
+
+#### Art. 58
+
+**…**
+
+### 1.2.2.7 Vollzug der fürsorgerischen Unterbringung und Nachbetreuung
 
 #### Art. 59
 
-<sup>10</sup> Geeignete Einrichtungen
+**Geeignete Einrichtungen**
 
-Das Gesundheitsgesetz und das Gesetz über die Krankenanstalten und -institutionen bezeichnen und regeln die geeigneten Einrichtungen für die fürsorgerische Unterbringung von Personen, die aufgrund einer psychischen Störung, einer geistigen Behinderung oder schwerer Verwahrlosung einer Betreuung oder Behandlung bedürfen, die nicht anders erbracht werden kann (Art. 426 Abs. 1 ZGB).
+<sup>1</sup> Das Gesundheitsgesetz und das Gesetz über die Krankenanstalten und -institutionen bezeichnen und regeln die geeigneten Einrichtungen für die fürsorgerische Unterbringung von Personen, die aufgrund einer psychischen Störung, einer geistigen Behinderung oder schwerer Verwahrlosung einer Betreuung oder Behandlung bedürfen, die nicht anders erbracht werden kann (Art. 426 Abs. 1 ZGB).
+
+<sup>2</sup> …
+
+<sup>3</sup> …
+
+<sup>4</sup> …
 
 #### Art. 60
 
-<sup>10</sup> Musterformulare
+**Musterformulare**
 
-Das Departement, dem die Justiz angegliedert ist, stellt den Einrichtungen und den ermächtigten Ärzten einen Musterentscheid für die in Artikel 383, 427, 430, 434 und 438 ZGB vorgesehenen Massnahmen zur Verfügung sowie den Musterbrief, mit dem die betroffene Person oder eine ihr nahe stehende Person den Richter anrufen kann (Art. 385 et 439 ZGB; 114 Abs. 1 Bst. b des vorliegenden Gesetzes).
+<sup>1</sup> Das Departement, dem die Justiz angegliedert ist, stellt den Einrichtungen und den ermächtigten Ärzten einen Musterentscheid für die in Artikel 383, 427, 430, 434 und 438 ZGB vorgesehenen Massnahmen zur Verfügung sowie den Musterbrief, mit dem die betroffene Person oder eine ihr nahe stehende Person den Richter anrufen kann (Art. 385 et 439 ZGB; 114 Abs. 1 Bst. b des vorliegenden Gesetzes).
+
+- a) …
+- b) …
+- c) …
 
 #### Art. 61
 
-<sup>10</sup> Nachbetreuung
+**Nachbetreuung**
 
 <sup>1</sup> In allen Fällen, in denen eine Rückfallgefahr besteht, muss beim Austritt eine Nachbetreuung angeordnet werden.
 
@@ -576,7 +657,7 @@ Das Departement, dem die Justiz angegliedert ist, stellt den Einrichtungen und d
 
 #### Art. 62
 
-<sup>10</sup> Ambulante Behandlung
+**Ambulante Behandlung**
 
 <sup>1</sup> Die ambulante Behandlung kann an Stelle einer Betreuung in einer Einrichtung treten. Sie kann auch Teil der Nachbetreuung sein.
 
@@ -585,26 +666,23 @@ Das Departement, dem die Justiz angegliedert ist, stellt den Einrichtungen und d
 <sup>3</sup> Die ambulante Behandlung kann namentlich in folgender Form erfolgen:
 
 - a) Anweisungen für eine bestimmte Lebensweise oder die Einnahme von bestimmten Medikamenten nach medizinischen Empfehlungen;
-
 - b) die Verpflichtung, regelmässig vor einer bestimmten Gesundheitsbehörde zu erscheinen oder sich einer Therapie zu unterziehen.
 
 <sup>4</sup> Die betroffene Person kann eine Vertrauensperson bezeichnen, die sie während der Dauer der Behandlung unterstützt (in Analogie zu Art. 432 ZGB).
 
 #### Art. 63
 
-<sup>10</sup> Kosten der Unterbringung, Behandlung und Nachbetreuung
+**Kosten der Unterbringung, Behandlung und Nachbetreuung**
 
 <sup>1</sup> Die Kosten einer fürsorgerischen Unterbringung, der stationären oder ambulanten Behandlung, sowie jene der Nachbetreuung gehen zu Lasten der betroffenen Person und ihrer Krankenversicherung.
 
 <sup>2</sup> Subsidiär werden die Kosten gemäss den Bestimmungen des Gesetzes über die Eingliederung und die Sozialhilfe von der Wohnsitzgemeinde der betroffenen Person getragen.
 
-[^63-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2013
-
 #### Art. 64
 
-**Aufgehoben**[^63-1]
+**…**
 
-- h) Viehverpfändung
+### 1.2.2.8 Viehverpfändung
 
 #### Art. 65
 
@@ -618,7 +696,7 @@ Das Departement, dem die Justiz angegliedert ist, stellt den Einrichtungen und d
 
 <sup>4</sup> Der Staatsrat erlässt mittels Verordnung die ergänzenden Vorschriften über die Organisation und die Führung der Register sowie den Gebührentarif.
 
-- i) Grundbuch, Vermessung und Vermarkung
+### 1.2.2.9 Grundbuch, Vermessung und Vermarkung
 
 #### Art. 66
 
@@ -626,17 +704,12 @@ Das Departement, dem die Justiz angegliedert ist, stellt den Einrichtungen und d
 
 <sup>1</sup> Der Kanton Wallis wird in folgende sechs Grundbuchkreise eingeteilt:
 
-- der erste, bestehend aus den Bezirken Goms, Östlich-Raron, Brig und Visp, mit Sitz in Brig;
-
-- der zweite, bestehend aus den Bezirken Westlich-Raron und Leuk, mit Sitz in Leuk;
-
-- der dritte, bestehend aus dem Bezirk Siders, mit Sitz in Siders;
-
-- der vierte, bestehend aus den Bezirken Sitten, Ering und Gundis, mit Sitz in Sitten;
-
-- der fünfte, bestehend aus den Bezirken Martinach und Entremont und den Gemeinden Finhaut, Salvan und Vernayaz, mit Sitz in Martinach;
-
-- der sechste, bestehend aus dem Bezirk Monthey mit den übrigen Gemeinden des Bezirkes St-Maurice, mit Sitz in Monthey.
+- a) der erste, bestehend aus den Bezirken Goms, Östlich-Raron, Brig und Visp, mit Sitz in Brig;
+- b) der zweite, bestehend aus den Bezirken Westlich-Raron und Leuk, mit Sitz in Leuk;
+- c) der dritte, bestehend aus dem Bezirk Siders, mit Sitz in Siders;
+- d) der vierte, bestehend aus den Bezirken Sitten, Ering und Gundis, mit Sitz in Sitten;
+- e) der fünfte, bestehend aus den Bezirken Martinach und Entremont und den Gemeinden Finhaut, Salvan und Vernayaz, mit Sitz in Martinach;
+- f) der sechste, bestehend aus dem Bezirk Monthey mit den übrigen Gemeinden des Bezirkes St-Maurice, mit Sitz in Monthey.
 
 <sup>2</sup> Die Gemeinden, in welchen Grundbuchämter ihren Sitz haben, müssen die erforderlichen Räumlichkeiten auf eigene Kosten zur Verfügung stellen.
 
@@ -676,7 +749,7 @@ Das Departement, dem die Justiz angegliedert ist, stellt den Einrichtungen und d
 
 **Vermessung, Triangulation und Vermarkung**
 
-Die Vermessungs-, Triangulations- und Vermarkungsarbeiten sowie die Übertragung dieser Arbeiten bilden Gegenstand eines Spezialgesetzes.
+<sup>1</sup> Die Vermessungs-, Triangulations- und Vermarkungsarbeiten sowie die Übertragung dieser Arbeiten bilden Gegenstand eines Spezialgesetzes.
 
 #### Art. 71
 
@@ -706,7 +779,7 @@ Die Vermessungs-, Triangulations- und Vermarkungsarbeiten sowie die Übertragung
 
 **Anträge**
 
-Die Notare sind von Amtes wegen verpflichtet, die Eintragung der von ihnen errichteten Urkunden im Grundbuch zu verlangen.
+<sup>1</sup> Die Notare sind von Amtes wegen verpflichtet, die Eintragung der von ihnen errichteten Urkunden im Grundbuch zu verlangen.
 
 #### Art. 75
 
@@ -724,25 +797,37 @@ Die Notare sind von Amtes wegen verpflichtet, die Eintragung der von ihnen erric
 
 <sup>2</sup> Er bestimmt insbesondere die technischen Hilfsmittel zur Führung des Grundbuches, unter Vorbehalt der Genehmigung durch die zuständige Bundesbehörde.
 
-### 3. Kapitel: Zivile Gerichtssachen
+### 1.3 Zivile Gerichtssachen
 
-### 1. Streitige Zivilgerichtsbarkeit
+### 1.3.1 Streitige Zivilgerichtsbarkeit
 
-### 1.1 Allgemeine Bestimmungen
+### 1.3.1.1
 
-[^h11AllgemeineBesti-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2011
+#### Art. 77
 
-#### Art. 77 bis
+**…**
 
-**81[^h11AllgemeineBesti-1]**
+#### Art. 78
 
-Aufgehoben
+**…**
 
-### 1.2 Von der Schlichtung im Bereich des Miet- und Pachtrechtes
+#### Art. 79
+
+**…**
+
+#### Art. 80
+
+**…**
+
+#### Art. 81
+
+**…**
+
+### 1.3.1.2 Von der Schlichtung im Bereich des Miet- und Pachtrechtes
 
 #### Art. 82
 
-<sup>9</sup> Schlichtungsbehörde
+**Schlichtungsbehörde**
 
 <sup>1</sup> Es wird eine für den ganzen Kanton zuständige Kommission zum Vollzug der in den Artikeln 201, 210 Absatz 1 Buchstabe b und 212 der Schweizerischen Zivilprozessordnung vorgesehenen Aufgaben eingesetzt.
 
@@ -751,16 +836,13 @@ Aufgehoben
 <sup>3</sup> Die Kommission ist ebenfalls zuständig für:
 
 - a) die Erstellung der offiziellen Formulare für die Kündigung, für die Begründung von Mieterhöhungen und für einseitige Abänderungen des Vertrages;
-
 - b) die Auflage dieser Formulare auf den Gemeindekanzleien und Kontrolle, dass sie dort in ausreichender Zahl zur Verfügung stehen;
-
 - c) die jährliche Veröffentlichung der Zusammensetzung der Kommission;
-
 - d) die Verfassung des Berichtes für das Eidgenössische Volkswirtschaftsdepartement.
 
 #### Art. 83
 
-<sup>9</sup> Organisation
+**Organisation**
 
 <sup>1</sup> Die Kommission besteht aus einem Präsidenten, zwei Präsidenten-Stellvertretern, die grundsätzlich einen Universitätstitel der Rechtswissenschaft besitzen, und zwölf Beisitzern. Sie werden vom Staatsrat ernannt.
 
@@ -778,7 +860,7 @@ Aufgehoben
 
 #### Art. 84
 
-<sup>9</sup> Verfahrenssprache
+**Verfahrenssprache**
 
 <sup>1</sup> Der Schriftenwechsel und die mündlichen Anträge der Parteien oder ihrer Beauftragten können in deutscher oder französischer Sprache erfolgen.
 
@@ -786,67 +868,64 @@ Aufgehoben
 
 #### Art. 85
 
-<sup>9</sup> Vertragliche Vertretung
+**Vertragliche Vertretung**
 
-Die gewerbsmässig qualifizierten Vertreter sind befugt, die Parteien vor der Schlichtungsbehörde zu vertreten.
-
-[^85-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2011
+<sup>1</sup> Die gewerbsmässig qualifizierten Vertreter sind befugt, die Parteien vor der Schlichtungsbehörde zu vertreten.
 
 #### Art. 86
 
-[^85-1]
+**…**
 
-Aufgehoben 2. Nichtstreitige Zivilgerichtsbarkeit
+### 1.3.2 Nichtstreitige Zivilgerichtsbarkeit
 
-### 2.1 Allgemeine Bestimmungen
+### 1.3.2.1 Allgemeine Bestimmungen
 
-[^h21AllgemeineBesti-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2011
+#### Art. 87
 
-#### Art. 87 bis
+**…**
 
-**89[^h21AllgemeineBesti-1]**
+#### Art. 88
 
-Aufgehoben
+**…**
+
+#### Art. 89
+
+**…**
 
 #### Art. 90
 
-<sup>9</sup> Gemeinderichter
+**Gemeinderichter**
 
 <sup>1</sup> In die Zuständigkeit des Gemeinderichters fallen:
 
-- 1\. das Inventar der mit einer Nacherbschaft belasteten Güter (Art. 490 ZGB, 100 des vorliegenden Gesetzes);
-
-- 2\. die Entgegennahme der mündlichen letztwilligen Verfügung (Art. 507 ZGB);
-
-- 3\. die Siegelung der Erbschaftsgüter (Art. 552 ZGB, 102 bis 104 des vorliegenden Gesetzes);
-
-- 4\. das Erbschaftsinventar (Art. 553 ZGB, 100 und 101 des vorliegenden Gesetzes);
-
-- 5\. die Erbschaftsverwaltung (Art. 554 ZGB);
-
-- 6\. die Eröffnung der Testamente und der Erbverträge, sowie das Ausstellen von Erbenbescheinigungen, nach Konsultation der Zivilstandsregister (Art. 556 bis 559 ZGB);
-
-- 7\. die Vertretung eines Gläubigers bei der Teilung (Art. 609 Abs. 1 ZGB);
-
-- 8\. die amtliche Bezeichnung von Sachverständigen zur Bestimmung des Anrechnungswertes von Grundstücken (Art. 618 ZGB);
-
-- 9\. die Bewilligungserteilung zur öffentlichen Versteigerung von Fundgegenständen in den Fällen von Artikel 721 Absatz 2 ZGB;
-
-- 10\. das Bekanntmachungsverfahren (Art. 258 bis 260 ZPO).
+- a) das Inventar der mit einer Nacherbschaft belasteten Güter (Art. 490 ZGB, 100 des vorliegenden Gesetzes);
+- b) die Entgegennahme der mündlichen letztwilligen Verfügung (Art. 507 ZGB);
+- c) die Siegelung der Erbschaftsgüter (Art. 552 ZGB, 102 bis 104 des vorliegenden Gesetzes);
+- d) das Erbschaftsinventar (Art. 553 ZGB, 100 und 101 des vorliegenden Gesetzes);
+- e) die Erbschaftsverwaltung (Art. 554 ZGB);
+- f) die Eröffnung der Testamente und der Erbverträge, sowie das Ausstellen von Erbenbescheinigungen, nach Konsultation der Zivilstandsregister (Art. 556 bis 559 ZGB);
+- g) die Vertretung eines Gläubigers bei der Teilung (Art. 609 Abs. 1 ZGB);
+- h) die amtliche Bezeichnung von Sachverständigen zur Bestimmung des Anrechnungswertes von Grundstücken (Art. 618 ZGB);
+- i) die Bewilligungserteilung zur öffentlichen Versteigerung von Fundgegenständen in den Fällen von Artikel 721 Absatz 2 ZGB;
+- j) das Bekanntmachungsverfahren (Art. 258 bis 260 ZPO).
 
 <sup>2</sup> Im Weiteren nimmt der Gemeinderichter am Verfahren zur Ablösung von Grundpfandrechten (Art. 828 ff. ZGB) und an den öffentlichen Versteigerungen (Art. 236, 435 OR) gemäss den Bestimmungen des vorliegenden Gesetzes teil (Art. 176, 188).
 
-[^90-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2011
+#### Art. 91
 
-#### Art. 91 bis
+**…**
 
-**93[^90-1]**
+#### Art. 92
 
-Aufgehoben
+**…**
 
-### 2.2 Spezielle Verfahren
+#### Art. 93
 
-- a) Verschollenerklärung
+**…**
+
+### 1.3.2.2 Spezielle Verfahren
+
+### 1.3.2.2.1 Verschollenerklärung
 
 #### Art. 94
 
@@ -878,21 +957,21 @@ Aufgehoben
 
 <sup>2</sup> Die Aufnahme des geschätzten Vermögensinventars des Verschollenen geht der Besitzesübertragung voraus.
 
-abis) Scheidung auf gemeinsames Begehren
-
-[^96-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2011
+### 1.3.2.2.1a
 
 #### Art. 96a
 
-**und 96b[^96-1]**
+**…**
 
-Aufgehoben
+#### Art. 96b
 
-ater) Vertretung des Kindes im Scheidungsverfahren
+**…**
+
+### 1.3.2.2.1b Vertretung des Kindes im Scheidungsverfahren
 
 #### Art. 96c
 
-<sup>1,9</sup> Grundsätze
+**Grundsätze**
 
 <sup>1</sup> Der Scheidungsrichter errichtet in den vom Bundesrecht vorgesehenen Fällen eine Vertretungsbeistandschaft (Art. 299 ZPO).
 
@@ -900,7 +979,9 @@ ater) Vertretung des Kindes im Scheidungsverfahren
 
 <sup>3</sup> Er legt in seinem Urteil analog den Bestimmungen über die Gewährung von Entschädigungen die Entlöhnung des Beistandes fest; wenn eine der Parteien den Rechtsbeistand erhalten hat, kann er die Entlöhnung des Beistandes höchstens um 30 Prozent kürzen. Er entscheidet über die Auferlegung dieser Kosten; im Falle der Zahlungsunfähigkeit des Schuldners leistet die Staatskasse den Vorschuss der Kosten und sorgt für deren Inkasso.
 
-- b) Inventar im Allgemeinen
+<sup>4</sup> …
+
+### 1.3.2.2.2 Inventar im Allgemeinen
 
 #### Art. 97
 
@@ -930,7 +1011,7 @@ ater) Vertretung des Kindes im Scheidungsverfahren
 
 **Schätzung**
 
-Wenn es notwendig ist, wird die Schätzung der Gegenstände in Zusammenarbeit mit einem oder mehreren Sachverständigen vorgenommen.
+<sup>1</sup> Wenn es notwendig ist, wird die Schätzung der Gegenstände in Zusammenarbeit mit einem oder mehreren Sachverständigen vorgenommen.
 
 #### Art. 100
 
@@ -950,29 +1031,27 @@ Wenn es notwendig ist, wird die Schätzung der Gegenstände in Zusammenarbeit mi
 
 **Andere Fälle des Sicherungsinventars der Erbschaft**
 
-Das Erbschaftsinventar wird erstellt in den vom Bundesrecht vorgesehenen Fällen (Art. 490 und 553 ZGB) sowie:
+<sup>1</sup> Das Erbschaftsinventar wird erstellt in den vom Bundesrecht vorgesehenen Fällen (Art. 490 und 553 ZGB) sowie:
 
-- 1\. im Falle der Besitzesübertragung der Erbschaft eines Verschwundenen oder bei einer Erbschaft oder einem Teil einer Erbschaft, die einem Verschwundenen angefallen ist (Art. 96 Abs. 2);
+- a) im Falle der Besitzesübertragung der Erbschaft eines Verschwundenen oder bei einer Erbschaft oder einem Teil einer Erbschaft, die einem Verschwundenen angefallen ist (Art. 96 Abs. 2);
+- b) im Falle der Erbschaftsverwaltung (Art. 554 ZGB).
 
-- 2\. im Falle der Erbschaftsverwaltung (Art. 554 ZGB).
-
-- c) Siegelung
+### 1.3.2.2.3 Siegelung
 
 #### Art. 102
 
 **Anwendungsfälle der Siegelung**
 
-<sup>1</sup> Der Gemeinderichter, verbeiständet durch einen Notar, ist in folgenden Fällen für die Versiegelung zuständig:[^102-1] 1. wenn ein minderjähriger Erbe unter Vormundschaft steht oder zu bevormunden ist (Art. 553 Abs. 1 Ziff. 1 ZGB);[^102-1] 2. wenn ein Erbe dauernd und ohne Vertretung abwesend ist (Art. 553 Abs. 1 Ziff. 2 ZGB);
+<sup>1</sup> Der Gemeinderichter, verbeiständet durch einen Notar, ist in folgenden Fällen für die Versiegelung zuständig:
 
-2bis. wenn ein volljähriger Erbe unter umfassender Beistandschaft steht oder zu bevormunden ist (Art. 553 Abs. 1 Ziff. 4 ZGB);[^102-1] 3. wenn nicht sicher ist ob der Verstorbene Erben hinterlassen hat oder nicht alle Erben des Verstorbenen bekannt sind;
+- a) wenn ein minderjähriger Erbe unter Vormundschaft steht oder zu bevormunden ist (Art. 553 Abs. 1 Ziff. 1 ZGB);
+- b) wenn ein Erbe dauernd und ohne Vertretung abwesend ist (Art. 553 Abs. 1 Ziff. 2 ZGB);
+- b<sup>bis</sup>) wenn ein volljähriger Erbe unter umfassender Beistandschaft steht oder zu bevormunden ist (Art. 553 Abs. 1 Ziff. 4 ZGB);
+- c) wenn nicht sicher ist ob der Verstorbene Erben hinterlassen hat oder nicht alle Erben des Verstorbenen bekannt sind;
+- d) wenn ein Erbe oder Vermächtnisnehmer dies verlangt; im letzteren Fall wird nur der Gegenstand des Vermächtnisses unter Siegelung gestellt.
+- e) wenn diese durch den Bezirksrichter oder durch die Kindes- und Erwachsenenschutzbehörde verlangt wird.
 
-- 4\. wenn ein Erbe oder Vermächtnisnehmer dies verlangt; im letzteren Fall wird nur der Gegenstand des Vermächtnisses unter Siegelung gestellt.
-
-- 5\. wenn diese durch den Bezirksrichter oder durch die Kindes- und Erwachsenenschutzbehörde verlangt wird.[^102-1]
-
-<sup>2</sup> Die Erben und die Verwandten des Verstorbenen sind bei persönlicher Verantwortlichkeit verpflichtet, den Gemeinderichter über das Vorliegen der in den vorgenannten Ziffern 1, 2, 2bis und 3 vorgesehenen Fälle zu benachrichtigen.[^102-1]
-
-[^102-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2013
+<sup>2</sup> Die Erben und die Verwandten des Verstorbenen sind bei persönlicher Verantwortlichkeit verpflichtet, den Gemeinderichter über das Vorliegen der in den vorgenannten Buchstaben a, b, b<sup>bis</sup> und c vorgesehenen Fälle zu benachrichtigen.
 
 #### Art. 103
 
@@ -996,13 +1075,13 @@ Das Erbschaftsinventar wird erstellt in den vom Bundesrecht vorgesehenen Fällen
 
 <sup>3</sup> Stellt der Richter anlässlich der Entsiegelung Anzeichen von Betrug oder Siegelbruch fest, erstellt er darüber ein Protokoll und informiert die Strafgerichtsbehörde.
 
-- d) Öffentliches Inventar und amtliche Liquidation
+### 1.3.2.2.4 Öffentliches Inventar und amtliche Liquidation
 
 #### Art. 105
 
 **Grundsätze und sichernde Massnahmen**
 
-<sup>1</sup> Die folgenden Bestimmungen sind auf das Verfahren des öffentlichen Inventars der Artikel 580 und folgende ZGB sowie das Inventar im Falle des Erbschaftsanfalls an das Gemeinwesen anwendbar (Art. 592 ZGB);
+<sup>1</sup> Die folgenden Bestimmungen sind auf das Verfahren des öffentlichen Inventars der Artikel 580 und folgende ZGB sowie das Inventar im Falle des Erbschaftsanfalls an das Gemeinwesen anwendbar (Art. 592 ZGB).
 
 <sup>2</sup> Der Bezirksrichter, bei dem innert gesetzlicher oder aus wichtigen Gründen verlängerten Frist ein öffentliches Inventar verlangt wird, trifft die zur Erhaltung und Verwaltung der Erbschaft notwendigen sichernden Massnahmen.
 
@@ -1066,38 +1145,31 @@ Das Erbschaftsinventar wird erstellt in den vom Bundesrecht vorgesehenen Fällen
 
 <sup>5</sup> Die Artikel 98, 105, 106 und 108 des vorliegenden Gesetzes sind im Bereich der amtlichen Liquidation anwendbar.
 
-- e) Organisation der Kindes- und Erwachsenenschutzbehörden
+### 1.3.2.2.5 Organisation der Kindes- und Erwachsenenschutzbehörden
 
 #### Art. 111
 
-<sup>10</sup> Ordentliche erstinstanzliche Behörde
+**Ordentliche erstinstanzliche Behörde**
 
-Die ordentliche Schutzbehörde ist eine kommunale oder interkommunale Behörde (Art. 13 und 14).
+<sup>1</sup> Die ordentliche Schutzbehörde ist eine kommunale oder interkommunale Behörde (Art. 13 und 14).
+
+<sup>2</sup> …
 
 #### Art. 112
 
-<sup>10</sup> Beratungen und interne Kompetenzaufteilung
+**Beratungen und interne Kompetenzaufteilung**
 
 <sup>1</sup> Unter Vorbehalt der in den Absätzen 3 und 4 aufgezählten Fälle, trifft die Schutzbehörde ihre Entscheide als Kollegialbehörde (Art. 440 Abs. 2 ZGB). Dies namentlich in folgenden Fällen:
 
-- a) Anordnung, Änderung und Aufhebung von Massnahmen nach Art. 306 ff. und 324 ff. ZGB für Minderjährige, 390 ff. und 426 ff. ZGB für Erwachsene;
-
+- a) Anordnung, Änderung und Aufhebung von Massnahmen nach Art. 306 und folgende und 324 une folgende ZGB für Minderjährige, 390 und folgende und 426 und folgende ZGB für Erwachsene;
 - b) Erteilung der Zustimmung zur Adoption des Kindes unter Vormundschaft (Art. 265 Abs. 3 ZGB) und Entscheid über das Gesuch, von der Zustimmung eines Elternteils zur Adoption eines Kindes abzusehen (Art. 265d Abs. 1 ZGB);
-
-- c) Anordnungen über den persönlichen Verkehr (Art. 275 Abs. 1, 134 Abs. 4, 298d Abs. 2 und 301a Abs. 2 und 5 ZGB);[^112-1]
-
+- c) Anordnungen über den persönlichen Verkehr (Art. 275 Abs. 1, 134 Abs. 4, 298d Abs. 2 und 301a Abs. 2 und 5 ZGB);
 - d) Entscheide betreffend das Recht von Eltern ohne elterliche Sorge auf Auskunft und Information (Art. 275a Abs. 3 ZGB);
-
-- e) Entscheid über die elterliche Sorge in den Fällen der Artikel 134 Absatz 3, 296 Absatz 3, 297 Absatz 2, 298b, 298d Absatz 1, 301a Absatz 5 und 311 Absatz 1 Ziffer 1 ZGB;[^112-1]
-
+- e) Entscheid über die elterliche Sorge in den Fällen der Artikel 134 Absatz 3, 296 Absatz 3, 297 Absatz 2, 298b, 298d Absatz 1, 301a Absatz 5 und 311 Absatz 1 Ziffer 1 ZGB;
 - f) Anordnung oder Änderung der Kindesschutzmassnahmen in den Fällen von Artikel 315a Absatz 3 und 315b Absatz 2 ZGB;
-
 - g) Beschränkung oder Entzug der Vertretungsbefugnisse im Rahmen der eigenen Vorsorge und der Massnahmen von Gesetzes wegen sowie einer damit verbundenen Beistandschaft (Art. 368 Abs. 2, 373 Abs. 2 und 381 ZGB);
-
 - h) Entscheid über Beschwerden nach Artikel 419 ZGB;
-
 - i) Vernehmlassungen oder Wiedererwägungen bei allen Beschwerden gegen Entscheide der Schutzbehörde als Kollegialbehörde oder von einem ihrer Mitglieder (Art. 450d ZGB);
-
 - j) periodische Überprüfung einer fürsorgerischen Unterbringung (Art. 431 ZGB).
 
 <sup>2</sup> Bei Einstimmigkeit kann die Schutzbehörde auf dem Zirkulationsweg entscheiden, wenn sie auf die Anhörung der betroffenen Person durch das Kollegium verzichtet, weil sie diese für unverhältnismässig hält, die betroffene Person sich weigert oder sich die Anhörung aus anderen Gründen als unmöglich erweist.
@@ -1105,144 +1177,112 @@ Die ordentliche Schutzbehörde ist eine kommunale oder interkommunale Behörde (
 <sup>3</sup> In die ausschliessliche Kompetenz des Präsidenten der Schutzbehörde oder seines Stellvertreters fallen:
 
 - a) die Meldung eines Findelkindes an das Zivilstandsamt (Art. 7 Abs. 2 Bst. b und 10 ZStV);
-
-- b) die Genehmigung von Unterhaltsverträgen (Art. 287 Abs. 1 und 2, 288 Abs. 2 Ziff. 1 und 134 Abs. 3 ZGB) oder der Empfang der gemeinsamen Erklärung der Eltern (Art. 298a Abs. 4 ZGB);[^112-1]
-
-- c) das Gesuch an den Richter um Neuregelung der elterlichen Sorge (Art.
-
-134 Abs. 1 ZGB);
-
+- b) die Genehmigung von Unterhaltsverträgen (Art. 287 Abs. 1 und 2, 288 Abs. 2 Ziff. 1 und 134 Abs. 3 ZGB) oder der Empfang der gemeinsamen Erklärung der Eltern (Art. 298a Abs. 4 ZGB);
+- c) das Gesuch an den Richter um Neuregelung der elterlichen Sorge (Art. 134 Abs. 1 ZGB);
 - d) der Antrag an das zuständige Gericht, dem Kind in einem eherechtlichen Verfahren einen Beistand zu ernennen (Art. 299 ff. ZPO);
-
 - e) die Entgegennahme und Registrierung der Zustimmung der Eltern zur Adoption ihres Kindes (Art. 265a Abs. 2 ZGB);
-
-- f) die Ernennung eines Beistands für das ungeborene Kind, wenn die Wahrung seiner Interessen es erfordert (Art. 544 Abs. 1bis ZGB);
-
+- f) die Ernennung eines Beistands für das ungeborene Kind, wenn die Wahrung seiner Interessen es erfordert (Art. 544 Abs. 1<sup>bis</sup> ZGB);
 - g) die Anordnung von vorsorglichen Massnahmen bei besonderer Dringlichkeit (Art. 445 Abs. 2 und 314 Abs. 1 ZGB);
-
-- h) die Bezeichnung des Beistands oder des Vormunds des Kindes (Art. 299
-
-- ff. ZPO und 327c Abs. 2 ZGB) und des Beistands für Erwachsene (Art.
-
-400 Abs. 1 ZGB);
-
+- h) die Bezeichnung des Beistands oder des Vormunds des Kindes (Art. 299 ff. ZPO und 327c Abs. 2 ZGB) und des Beistands für Erwachsene (Art. 400 Abs. 1 ZGB);
 - i) die Erteilung eines Auftrags an eine Drittperson oder die Bezeichnung einer geeigneten Person oder Stelle (Art. 392 Ziff. 2 und 3 ZGB);
-
 - j) die Erteilung oder Verweigerung der Zustimmung zu Handlungen des gesetzlichen Vertreters (Art. 327c Abs. 2, 374 Abs. 3, 416 und 417 ZGB);
-
 - k) die Entbindung von Pflichten im Rahmen der Führung einer Beistandschaft durch Angehörige (Art. 420 und 327c Abs. 2 ZGB);
-
 - l) die Delegation der Zuständigkeit für die Entlassung einer Person an die Einrichtung bei einer fürsorgerischen Unterbringung (Art. 428 Abs. 2 ZGB);
-
 - m) die Genehmigung oder Nichtgenehmigung der ihm zur Prüfung unterbreiteten Rechnungen (Art. 318 Abs. 3, 322 Abs. 2 und Art. 324 Abs. 2 ZGB; Art. 327c Abs. 2, 368 Abs. 2, 415 Abs. 1 und 425 Abs. 1 ZGB);
-
-- n) die Information über das Bestehen einer Massnahme des Erwachsenenschutzes (Art. 451 Abs. 2 ZGB)
+- n) die Information über das Bestehen einer Massnahme des Erwachsenenschutzes (Art. 451 Abs. 2 ZGB).
 
 <sup>4</sup> Der Präsident kann zu diesem Zweck folgende Kompetenzen einem einzelnen Mitglied der Behörde oder einem delegierten Beisitzer übertragen:
 
 - a) die Aufforderung an die Eltern zu einer Mediation (Art. 314 Abs. 2 ZGB);
-
-- b) die Verantwortung, Massnahmen zum Schutze des Kindesvermögens zu treffen in den Fällen von Artikel. 318 bis 322 ZGB;
-
+- b) die Verantwortung, Massnahmen zum Schutze des Kindesvermögens zu treffen in den Fällen von Artikel 318 bis 322 ZGB;
 - c) die Feststellung der Gültigkeit, der Annahme, der Auslegung und Ergänzung eines Vorsorgeauftrags (Art. 363 und 364 ZGB);
-
-- d) die Verantwortung, einzuschreiten, wenn die Interessen der Person im Rahmen der eigenen Vorsorge oder von Massnahmen von Gesetzes wegen auf dem Spiel stehen, unter dem Vorbehalt der Beschränkung oder des Entzugs der Vertretungsbefugnis und der Errichtung einer Beistandschaft (Art. 366, 367, 368. 373, 376, 381, 385 und 386 ZGB);
-
+- d) die Verantwortung, einzuschreiten, wenn die Interessen der Person im Rahmen der eigenen Vorsorge oder von Massnahmen von Gesetzes wegen auf dem Spiel stehen, unter dem Vorbehalt der Beschränkung oder des Entzugs der Vertretungsbefugnis und der Errichtung einer Beistandschaft (Art. 366, 367, 368, 373, 376, 381, 385 und 386 ZGB);
 - e) die Suche nach geeigneten Personen für die Übernahme eines Mandats als Beistand oder Vormund (Art. 400 Abs. 1 und 2; 327c Abs. 2 ZGB);
-
 - f) die Verantwortung dafür zu sorgen, dass der Beistand oder Vormund die erforderliche Instruktion, Beratung und Unterstützung zur Erfüllung seiner Aufgaben erhält (Art. 400 Abs. 3 und 327c Abs. 2 ZGB);
-
-- g) die Verantwortung für die Mitwirkung der Schutzbehörde bei der Errichtung eines Eingangsinventars und die Anordnung eines öffentlichen Inventars, wenn die Umstände es rechtfertigen (Art. 405 Abs. 2 und 3 ZGB);
-
+- g) die Verantwortung für die Mitwirkung bei der Errichtung eines Inventars bei Amtsantritt des Beistands oder des Vormunds und die Anordnung eines öffentlichen Inventars, wenn die Umstände es rechtfertigen (Art. 405 Abs. 2 und 3 ZGB);
 - h) die Mitteilung an die Schuldner über das Bestehen einer Beistandschaft, welche die Handlungsfähigkeit einer Person einschränkt (Art. 452 Abs. 2 ZGB);
-
 - i) die Mitteilung an das Zivilstandsamt über das Bestehen einer umfassenden Beistandschaft oder eines Vorsorgeauftrags (Art. 449c ZGB);
-
-- j) die vorgängige Überprüfung von Rechnungen, die der Schutzbehörde zur Genehmigung unterbreitet werden und die Prüfung der Berichte an die Schutzbehörde (Art. 318 Abs. 3, 322 Abs. 2 und 324 Abs. 2 ZGB; Art. 327c Abs. 2, 368 Abs. 2, 415 Abs. 1 und 425 Abs. 1 ZGB);
-
+- j) die vorgängige Überprüfung von Rechnungen, die der Schutzbehörde zur Genehmigung unterbreitet werden und die Prüfung der Berichte an die Schutzbehörde (Art. 318 Abs. 3, 322 Abs. 2 und 324 Abs. 2 ZGB; 327c Abs. 2, 368 Abs. 2, 415 Abs. 1 und 425 Abs. 1 ZGB);
 - k) das Gesuch um Errichtung eines Inventars im Rahmen eines Erbgangs (Art. 553 Abs. 1 Ziff. 3 ZGB).
 
 <sup>5</sup> Der Schreiber beteiligt sich mit beratender Stimme an den kollegialen oder individuellen Entscheiden und unterschreibt diese zusammen mit dem Präsidenten, seinem Stellvertreter, dem delegierten Mitglied oder dem Beisitzer.
 
-[^112-1]: Änderung vom 8. Mai 2014 Abl. Nr. 22/2014, 01.07.14 Abl. Nr. 23/2014
+<sup>6</sup> …
+
+<sup>7</sup> …
+
+<sup>8</sup> …
+
+<sup>9</sup> …
 
 #### Art. 113
 
-<sup>10</sup> Ärztliche Unterbringung
+**Ärztliche Unterbringung**
 
 <sup>1</sup> Wenn eine Person an einer psychischen Störung leidet und Gefahr im Verzug ist, sind die an einer Notfallorganisation beteiligten Ärzte ermächtigt, eine fürsorgerische Unterbringung anzuordnen. Diese kann auf unbestimmte Zeit erfolgen, sie darf jedoch sechs Wochen nicht überschreiten (Art. 429 Abs. 1 ZGB).
 
 <sup>2</sup> Unter Vorbehalt einer neuen anders lautenden Entscheidung der Schutzbehörde verfügt die Einrichtung in diesen Fällen über die Entlassung (Art. 429 Abs. 3 ZGB).
 
+<sup>3</sup> …
+
+<sup>4</sup> …
+
 #### Art. 114
 
-<sup>10</sup> Rechtsmittelinstanzen
+**Rechtsmittelinstanzen**
 
 <sup>1</sup> Die zuständige Rechtsmittelinstanz ist:
 
-- a) die Schutzbehörde für Beschwerden gegen Handlungen und Unterlassungen des Beistands oder einer Drittperson oder Stelle, der die Schutzbehörde einen Auftrag erteilt hat (Art. 419 ZGB);
-
+- a) die Schutzbehörde für Beschwerden gegen Handlungen und Unterlassungen des Beistands, des Vormunds oder einer Drittperson oder Stelle, der die Schutzbehörde einen Auftrag erteilt hat (Art. 419 ZGB);
 - b) ein durch das Kantonsgericht ernannter spezialisierter Richter für Berufungen gestützt auf Artikel 439 ZGB;
-
 - c) das Kantonsgericht für Beschwerden:
-
-- 1\. gegen Beschwerdeentscheide der Schutzbehörde (Art. 114 Abs. 1 Bst.
-
-- a);
-
-- 2\. gegen vorsorgliche Massnahmen (Art. 445 Abs. 3 ZGB);
-
-- 3\. gegen Entscheide des spezialisierten Richters bei Berufungen gestützt auf Artikel 439 ZGB;
-
-- 4\. gegen die übrigen Entscheide der Schutzbehörde (Art. 450 Abs. 1 ZGB).
+  - 1\. gegen Beschwerdeentscheide der Schutzbehörde (Art. 114 Abs. 1 Bst. a),
+  - 2\. gegen vorsorgliche Massnahmen (Art. 445 Abs. 3 ZGB),
+  - 3\. gegen Entscheide des spezialisierten Richters bei Berufungen gestützt auf Artikel 439 ZGB,
+  - 4\. gegen die übrigen Entscheide der Schutzbehörde (Art. 450 Abs. 1 ZGB).
 
 <sup>2</sup> Beschwerden an das Kantonsgericht können durch einen Einzelrichter beurteilt werden.
 
 <sup>3</sup> Diese Rechtsmittelwege gelten in analoger Weise für den Kindesschutz.
 
-[^114-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2013
+### 1.3.2.2.6
 
 #### Art. 115
 
-**Aufgehoben**[^114-1]
+**…**
 
 #### Art. 116
 
-<sup>10</sup> Gerichtsstand: a) Im Allgemeinen
+**Gerichtsstand a) Im Allgemeinen**
 
 <sup>1</sup> Die örtliche Zuständigkeit richtet sich nach:
 
 - a) Artikel 315 ZGB für die Kindesschutzmassnahmen;
-
 - b) Artikel 442 ZGB für die Erwachsenenschutzmassnahmen.
 
 <sup>2</sup> Zuständig für die Ernennung des Vormunds (Art. 327a ZGB) oder des Beistands (Art. 400 und 327c Abs. 2 ZGB) ist die Schutzbehörde am Wohnsitz des betroffenen Kindes oder Erwachsenen.
 
-[^116-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2013
-
 #### Art. 116a
 
-**b) Anrufung des Gerichts**[^116-1]
+**b) Anrufung des Gerichts**
 
 <sup>1</sup> Im Fall von Artikel 439 Absatz 1 Ziffer 1 ZGB befindet sich der Gerichtsstand am Wohnsitz der betroffenen Person.
 
 <sup>2</sup> Für die Fälle von Artikel 439 Absatz 1 Ziffer 2 bis 5 ZGB befindet sich der Gerichtsstand am Sitz der Einrichtung.
 
-[^116a-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2013
-
 #### Art. 116b
 
-**c) Beschwerden**[^116a-1]
+**c) Beschwerden**
 
 <sup>1</sup> Der Gerichtsstand für Beschwerden nach Artikel 419 ZGB befindet sich am Sitz der Schutzbehörde.
 
 <sup>2</sup> Der Gerichtsstand für Beschwerden nach Artikel 445 Absatz 3 und 450 Absatz 1 ZGB befindet sich am Sitz des Kantonsgerichts.
 
-- f) Verfahren vor der Kindes- und Erwachsenenschutzbehörde
+### 1.3.2.2.6a Verfahren vor der Kindes- und Erwachsenenschutzbehörde
 
 #### Art. 117
 
-<sup>10</sup> Grundsätze: a) Regeln des Zivilgesetzbuches
+**Grundsätze a) Regeln des Zivilgesetzbuches**
 
 <sup>1</sup> Das Verfahren vor der Schutzbehörde richtet sich nach Artikel 443 ff. ZGB. Diese Bestimmungen sind im Verfahren betreffend Kindesschutz sinngemäss anwendbar (Art. 314b Abs. 1 ZGB).
 
@@ -1252,41 +1292,47 @@ Die ordentliche Schutzbehörde ist eine kommunale oder interkommunale Behörde (
 
 <sup>4</sup> Vorbehalten bleiben die Bestimmungen internationaler Übereinkommen.
 
-[^117-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2013
+<sup>5</sup> …
+
+<sup>6</sup> …
+
+<sup>7</sup> …
+
+### 1.3.2.2.7
 
 #### Art. 118
 
-**b) Andere bundesrechtliche und kantonale Bestimmungen**[^117-1]
+**b) Andere bundesrechtliche und kantonale Bestimmungen**
 
-Die Bestimmungen der eidgenössischen Zivilprozessordnung finden analog Anwendung unter dem Vorbehalt von:
+<sup>1</sup> Die Bestimmungen der eidgenössischen Zivilprozessordnung finden analog Anwendung unter dem Vorbehalt von:
 
 - a) Verfahrensbestimmungen des Zivilgesetzbuchs (Art. 117);
-
 - b) Verfahrensbestimmungen des kantonalen Rechts (Art. 118a ff.).
+
+<sup>2</sup> …
+
+<sup>3</sup> …
+
+<sup>4</sup> …
 
 #### Art. 118a
 
-<sup>10</sup> Verfahrensregeln nach kantonalem Recht: a) Rechtshängigkeit
+**Verfahrensregeln nach kantonalem Recht a) Rechtshängigkeit**
 
 <sup>1</sup> Das Verfahren vor der Schutzbehörde wird eingeleitet durch:
 
 - a) die Einreichung eines Gesuches;
-
 - b) eine Meldung, die nicht offensichtlich unbegründet ist;
-
 - c) die Anrufung der Schutzbehörde in den vom Zivilgesetzbuch vorgesehenen Fällen;
-
 - d) die Eröffnung von Amtes wegen.
 
 <sup>2</sup> Das Verfahren gilt als von Amtes wegen eröffnet, wenn die Schutzbehörde es den betroffenen Personen anzeigt oder wenn sie Schritte gegenüber Dritten unternimmt.
 
 <sup>3</sup> Die Rechtshängigkeit bewirkt, dass die Zuständigkeit bis zum Abschluss des Verfahrens bestehen bleibt. Vorbehalten bleibt der Fall der Zuerkennung an eine andere Behörde im Fall eines positiven Kompetenzkonflikts.
 
-[^118a-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2013
-
 #### Art. 118b
 
-**b) Zusammensetzung – Vorladung**[^118a-1]
+**b) Zusammensetzung - Vorladung**
 
 <sup>1</sup> Die Zusammensetzung der Schutzbehörde wird in der Vorladung bekannt gegeben. Sie muss für die ganze Dauer des Verfahrens bestehen bleiben, ausser bei Vorliegen ausserordentlicher Umstände.
 
@@ -1294,11 +1340,9 @@ Die Bestimmungen der eidgenössischen Zivilprozessordnung finden analog Anwendun
 
 <sup>3</sup> Darüber hinaus richtet sich die Vorladung nach Artikel 133 ff. ZPO, die analog anwendbar sind.
 
-[^118b-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2013
-
 #### Art. 118c
 
-**c) Vorabklärungen**[^118b-1]
+**c) Vorabklärungen**
 
 <sup>1</sup> Der Präsident oder sein Stellvertreter unterbreitet das Ergebnis seiner Vorabklärungen der Schutzbehörde, die darüber entscheidet, ob das Verfahren fortgesetzt oder eingestellt wird. Artikel 112 Absätze 3 und 4 dieses Gesetzes bleiben vorbehalten.
 
@@ -1308,15 +1352,11 @@ Die Bestimmungen der eidgenössischen Zivilprozessordnung finden analog Anwendun
 
 <sup>4</sup> Das Verfahren muss beschleunigt sein und die Gerichtsferien gelten nicht.
 
-<sup>5</sup> Das Verfahren richtet sich im Übrigen nach den Grundsätzen von Artikel.
-
-446 Absätze 3 und 4 ZGB.
-
-[^118c-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2013
+<sup>5</sup> Das Verfahren richtet sich im Übrigen nach den Grundsätzen von Artikel. 446 Absätze 3 und 4 ZGB.
 
 #### Art. 118d
 
-**d) Vorsorgliche Massnahmen**[^118c-1]
+**d) Vorsorgliche Massnahmen**
 
 <sup>1</sup> Die Schutzbehörde trifft die für die Dauer des Verfahrens notwendigen vorsorglichen Massnahmen (Art. 445 Abs. 1 ZGB).
 
@@ -1326,11 +1366,9 @@ Die Bestimmungen der eidgenössischen Zivilprozessordnung finden analog Anwendun
 
 <sup>4</sup> Gegen den Entscheid kann innert zehn Tagen nach dessen Zustellung Beschwerde erhoben werden (Art. 445 Abs. 3 ZGB). Doch fällt das rechtlich geschützte Interesse an einer solchen Beschwerde dahin, wenn der dringliche Entscheid aufgehoben wird.
 
-[^118d-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2013
-
 #### Art. 118e
 
-**e) Recht auf Anhörung**[^118d-1]
+**e) Recht auf Anhörung**
 
 <sup>1</sup> Die betroffene Person wird persönlich angehört, es sei denn die Schutzbehörde erachte dies als unverhältnismässig, die Person widersetze sich der Anhörung oder andere Gründe verunmöglichen dies, wie wenn Gefahr im Verzug ist. Die Schutzbehörde kann die betroffene Person verpflichten, zu erscheinen, nötigenfalls unter Anwendung von Zwang.
 
@@ -1342,25 +1380,17 @@ Die Bestimmungen der eidgenössischen Zivilprozessordnung finden analog Anwendun
 
 <sup>5</sup> Die Anhörung des Kindes richtet sich nach Artikel 314a ZGB.
 
-[^118e-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2013
-
 #### Art. 118f
 
-**f) Begutachtung**[^118e-1]
+**f) Arztzeugnis**
 
-<sup>1</sup> Unter Vorbehalt von dringlichen vorsorglichen Massnahmen wird eine medizinisch-psychiatrische Begutachtung angeordnet:
+<sup>1</sup> …
 
-- a) wenn Zweifel bestehen bezüglich der geistigen Fähigkeiten oder bezüglich der psychischen Stabilität der betroffenen Person und wenn der Entscheid, der zu treffen ist, dadurch beeinflusst werden kann;
-
-- b) bei jedem Entscheid über eine unfreiwillige Unterbringung oder Behandlung aufgrund einer psychischen Störung.
-
-<sup>2</sup> Eine Person darf gegen ihren Willen nur unter den Voraussetzungen von Artikel 449 ZGB zur Begutachtung in einer Einrichtung untergebracht werden.
+<sup>2</sup> …
 
 <sup>3</sup> Die Feststellung der Urteilsunfähigkeit als Voraussetzung für die Wirksamkeit der eigenen Vorsorge (Art. 360 ff. ZGB) oder von Massnahmen von Gesetzes wegen (Art. 374 ZGB) geschieht in der Regel durch ein Arztzeugnis.
 
-- g) Aufgehoben
-
-- h) Anerkennung der Vaterschaft
+### 1.3.2.2.8 Anerkennung der Vaterschaft
 
 #### Art. 119
 
@@ -1370,11 +1400,11 @@ Die Bestimmungen der eidgenössischen Zivilprozessordnung finden analog Anwendun
 
 <sup>2</sup> Dieselben Mitteilungen sind durch den Gemeinderichter vorzunehmen, anlässlich der Eröffnung einer Verfügung von Todes wegen, welche eine Vaterschaftsanerkennung enthält.
 
-- i) Gerichtliche Hinterlegung
+### 1.3.2.2.9 Gerichtliche Hinterlegung
 
 #### Art. 120
 
-<sup>9</sup> Grundsatz
+**Grundsatz**
 
 <sup>1</sup> Die gerichtliche Hinterlegung wird auf Gesuch hin angeordnet, wenn es das Gesetz erlaubt. Das Gesuch enthält eine summarische Darstellung des Sachverhalts sowie die Gründe der Hinterlegung.
 
@@ -1382,7 +1412,7 @@ Die Bestimmungen der eidgenössischen Zivilprozessordnung finden analog Anwendun
 
 #### Art. 121
 
-<sup>1</sup> Verfahren
+**Verfahren**
 
 <sup>1</sup> Die Hinterlegung wird der anderen am Rechtsverhältnis beteiligten Partei mitgeteilt. Der Richter bestimmt den Ort und die Modalitäten der Hinterlegung.
 
@@ -1400,29 +1430,27 @@ Die Bestimmungen der eidgenössischen Zivilprozessordnung finden analog Anwendun
 
 **Hinterlegung durch den Mieter**
 
-Die kantonale Hinterlegungsstelle für Mieten ist die Walliser Kantonalbank.
+<sup>1</sup> Die kantonale Hinterlegungsstelle für Mieten ist die Walliser Kantonalbank.
 
-- j) Besitzesschutz hinsichtlich eines Parkplatzes
+### 1.3.2.2.10
 
-[^123-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2011
+#### Art. 123a
 
-#### Art. 123bis
+**…**
 
-**Aufgehoben**[^123-1]
+## 2 Ergänzendes und organisatorisches kantonales Recht
 
-### 2. Titel: Ergänzendes und organisatorisches kantonales Recht
+### 2.1 Bestimmungen des ergänzenden kantonalen Rechts
 
-### 1. Kapitel: Bestimmungen des ergänzenden kantonalen Rechts
-
-- a) Allgemeine Bestimmungen
+### 2.1.1 Allgemeine Bestimmungen
 
 #### Art. 124
 
-<sup>9</sup> Allgemeiner Teil
+**Allgemeiner Teil**
 
 <sup>1</sup> Soweit das vorliegende Gesetz es nicht anders bestimmt, sind die allgemeinen Grundsätze des Schweizerischen Zivilgesetzbuches und des Obligationenrechts als ergänzendes Walliser Zivilrecht anwendbar.
 
-<sup>2</sup> Aufgehoben
+<sup>2</sup> …
 
 #### Art. 125
 
@@ -1434,7 +1462,7 @@ Die kantonale Hinterlegungsstelle für Mieten ist die Walliser Kantonalbank.
 
 <sup>3</sup> Wenn das Gesetz selber den Ortsgebrauch im Sinne von Artikel 5 Absatz 2 ZGB bestimmt, so ist der Nachweis eines gegenteiligen Gebrauchs immer zulässig.
 
-- b) Körperschaften des kantonalen Rechts
+### 2.1.2 Körperschaften des kantonalen Rechts
 
 #### Art. 126
 
@@ -1445,9 +1473,7 @@ Die kantonale Hinterlegungsstelle für Mieten ist die Walliser Kantonalbank.
 <sup>2</sup> Diese Körperschaften werden geregelt:
 
 - a) durch ihre vom Staatsrat genehmigten Statuten und Reglemente, unter Vorbehalt zwingender gesetzlicher Vorschriften;
-
 - b) durch das vorliegende Gesetz, allenfalls durch den Ortsgebrauch;
-
 - c) subsidiär, durch die Bestimmungen der Genossenschaft, welche als ergänzendes kantonales Recht angewandt werden.
 
 #### Art. 127
@@ -1469,9 +1495,7 @@ Die kantonale Hinterlegungsstelle für Mieten ist die Walliser Kantonalbank.
 <sup>1</sup> Die Allmendgenossenschaften und andere Geteilschaften werden aufgelöst:
 
 - a) in Übereinstimmung mit den Statuten;
-
 - b) durch statutenkonformen Generalversammlungsentscheid;
-
 - c) durch ein Urteil, wenn Gesellschafter, welche mehr als zehn Prozent der Anteile vertreten, dies aus berechtigten Gründen verlangen; der Richter kann statt dessen eine andere den Umständen angepasste und für die betroffenen annehmbare Lösung wählen.
 
 <sup>2</sup> Die Liquidation erfolgt gemäss den für die Genossenschaft geltenden Grundsätzen; es erfolgt nur ein einziger Gläubigeraufruf. Der Saldo der Aktiven kommt den Genossenschaftern entsprechend ihrem Anteil zu, wenn nicht durch die Statuten oder Reglemente anders bestimmt worden ist.
@@ -1508,9 +1532,9 @@ Die kantonale Hinterlegungsstelle für Mieten ist die Walliser Kantonalbank.
 
 <sup>2</sup> Die Übertragung erfordert die schriftliche Form; vorbehalten bleibt die öffentliche Beurkundung, wenn die Rechte im Grundbuch eingetragen sind. Die Übertragung wird im übrigen im Register der Gesellschafter eingetragen.
 
-<sup>3</sup> Die Bestimmungen des Bundeszivilrechts bleiben vorbehalten, wenn der veräusserte Teil zu einem Landwirtschaftsbetrieb gehört (Art. 5 Bst. b des BG über das bäuerliche Bodenrecht).
+<sup>3</sup> Die Bestimmungen des Bundeszivilrechts bleiben vorbehalten, wenn der veräusserte Teil zu einem Landwirtschaftsbetrieb gehört (Art. 5 Bst. b des Bundesgesetzes über das bäuerliche Bodenrecht).
 
-- c) Verantwortlichkeit der öffentlichen Körperschaften in bezug auf die Aufgaben des Bundeszivilrechts
+### 2.1.3 Verantwortlichkeit der öffentlichen Körperschaften in bezug auf die Aufgaben des Bundeszivilrechts
 
 #### Art. 132
 
@@ -1522,98 +1546,81 @@ Die kantonale Hinterlegungsstelle für Mieten ist die Walliser Kantonalbank.
 
 #### Art. 133
 
-Im Bereich des Zivilstandswesens und des Handelsregisters Der Kanton haftet direkt für unrechtmässige Handlungen und Unterlassungen der Zivilstandsämter und des Handelsregisters ohne Beeinträchtigung der Möglichkeit der direkten Klage gegen den verantwortlichen Beamten aufgrund des Bundesrechts.
+**Im Bereich des Zivilstandswesens und des Handelsregisters**
 
-[^133-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2013
+<sup>1</sup> Der Kanton haftet direkt für unrechtmässige Handlungen und Unterlassungen der Zivilstandsämter und des Handelsregisters ohne Beeinträchtigung der Möglichkeit der direkten Klage gegen den verantwortlichen Beamten aufgrund des Bundesrechts.
 
 #### Art. 134
 
-**Aufgehoben**[^133-1]
+**…**
 
-- d) Familiengemeinschaft
+### 2.1.4 Familiengemeinschaft
 
 #### Art. 135
 
 **Gemeinderschaft**
 
-Der erste Mai oder der erste November ist der ortsübliche Frühjahrs- oder Herbsttermin, auf welchen ein als Gesamtgut geführter Landwirtschafts- oder Weinbaubetrieb gekündigt werden kann.
+<sup>1</sup> Der erste Mai oder der erste November ist der ortsübliche Frühjahrs- oder Herbsttermin, auf welchen ein als Gesamtgut geführter Landwirtschafts- oder Weinbaubetrieb gekündigt werden kann.
 
 #### Art. 136
 
-<sup>1</sup> Familienheimstätte
+**…**
 
-Aufgehoben.
-
-- e) Erbrecht
+### 2.1.5 Erbrecht
 
 #### Art. 137
 
 **Erbschaft des Staates und der Gemeinde**
 
-Bei Fehlen von Erben fällt die im Kanton Wallis eröffnete Erbschaft zur Hälfte dem Kanton und zur Hälfte der Gemeinde des letzten Wohnsitzes des Erblassers zu.
+<sup>1</sup> Bei Fehlen von Erben fällt die im Kanton Wallis eröffnete Erbschaft zur Hälfte dem Kanton und zur Hälfte der Gemeinde des letzten Wohnsitzes des Erblassers zu.
 
 #### Art. 138
 
 **Erbteilung**
 
-Im Bereich der Erbteilung bleiben die Artikel 862 und 863 des Walliser Zivilgesetzbuches als Ausdruck bisherigen Ortsgebrauchs in Kraft, welche folgenden Wortlaut haben:
+<sup>1</sup> Im Bereich der Erbteilung bleiben die Artikel 862 und 863 des Walliser Zivilgesetzbuches als Ausdruck bisherigen Ortsgebrauchs in Kraft, welche folgenden Wortlaut haben:
 
-#### Art. 862
+Art. 862:
 
-### Bei der Bildung der Lose soll man, soviel möglich, die Verstückelung der Grundgüter vermeiden; übrigens ist darauf zu sehen, dass in jedes Los so viel
+Bei der Bildung der Lose soll man, soviel möglich, die Verstückelung der Grundgüter vermeiden; übrigens ist darauf zu sehen, dass in jedes Los so viel es sich tun lässt, die nämliche Anzahl Fahrnisse, Liegenschaften, Rechte und Schuldforderungen von gleicher Natur und von gleichem Werte gebracht werden.
 
-es sich tun lässt, die nämliche Anzahl Fahrnisse, Liegenschaften, Rechte und
+Art. 863:
 
-### Schuldforderungen von gleicher Natur und von gleichem Werte gebracht
+Die Ungleichheit der Lose in Natura wird durch Zugabe von Schuldtiteln oder an Geld vergütet.
 
-werden.
-
-#### Art. 863
-
-### Die Ungleichheit der Lose in Natura wird durch Zugabe von Schuldtiteln oder
-
-an Geld vergütet.
-
-- f) Eigentum im Allgemeinen
+### 2.1.6 Eigentum im Allgemeinen
 
 #### Art. 139
 
 **Bestandteile**
 
-Als Bestandteile gelten gemäss dem Walliser Ortsgebrauch im Rahmen des Schweizerischen Zivilgesetzbuches:
+<sup>1</sup> Als Bestandteile gelten gemäss dem Walliser Ortsgebrauch im Rahmen des Schweizerischen Zivilgesetzbuches:
 
-- 1\. die auf irgendeine Art mit einem Gebäude verbundenen Gegenstände, die nicht entfernt werden können, ohne dass sie selbst oder der Teil des Gebäudes, woran sie befestigt sind, zerbrochen oder beschädigt werden;
-
-- 2\. eingelegte, eingesenkte, eingezimmerte oder eingemauerte oder sonst mit Grund und Boden in dauernde Verbindung gebrachte Brunnen, Wasserbehälter, Wasserleitungsröhren, Jauchekästen, Einfriedungen und dergleichen sowie die nach ihrer Beschaffenheit ausschliesslich für ein Grundstück bestimmten Vorrichtungen wie Türen, Fenster, Vorfenster, Fensterläden, Schlüssel, Bewässerungseinrichtungen, Brunnen-, Grubendeckel und dergleichen;
-
-- 3\. auf industriellem Grund die mit dem Gebäude verbundenen Gegenstände, wie Wasserräder, Turbinen, Maschinen, Dynamos, Aufzüge, Dampfkessel, Ventilatoren usw.
+- a) die auf irgendeine Art mit einem Gebäude verbundenen Gegenstände, die nicht entfernt werden können, ohne dass sie selbst oder der Teil des Gebäudes, woran sie befestigt sind, zerbrochen oder beschädigt werden;
+- b) eingelegte, eingesenkte, eingezimmerte oder eingemauerte oder sonst mit Grund und Boden in dauernde Verbindung gebrachte Brunnen, Wasserbehälter, Wasserleitungsröhren, Jauchekästen, Einfriedungen und dergleichen sowie die nach ihrer Beschaffenheit ausschliesslich für ein Grundstück bestimmten Vorrichtungen wie Türen, Fenster, Vorfenster, Fensterläden, Schlüssel, Bewässerungseinrichtungen, Brunnen-, Grubendeckel und dergleichen;
+- c) auf industriellem Grund die mit dem Gebäude verbundenen Gegenstände, wie Wasserräder, Turbinen, Maschinen, Dynamos, Aufzüge, Dampfkessel, Ventilatoren usw.
 
 #### Art. 140
 
 **Zugehör**
 
-Als Zugehör gelten gemäss dem Walliser Ortsgebrauch im Rahmen des Schweizerischen Zivilgesetzbuches:
+<sup>1</sup> Als Zugehör gelten gemäss dem Walliser Ortsgebrauch im Rahmen des Schweizerischen Zivilgesetzbuches:
 
-- 1\. die Mobiliargegenstände, die der Eigentümer mit einem Gebäudegrundstück für immer in Verbindung gebracht hat, wie zum Beispiel Schlüssel, Spiegel, Gemälde und andere Verzierungen einer Wohnung;
+- a) die Mobiliargegenstände, die der Eigentümer mit einem Gebäudegrundstück für immer in Verbindung gebracht hat, wie zum Beispiel Schlüssel, Spiegel, Gemälde und andere Verzierungen einer Wohnung;
+- b) Statuen, auch nicht befestigte, wenn sie in einer zu deren Aufnahme besonders angelegten Nische aufgestellt sind;
+- c) auf industriellem Grund alle dem Betrieb dienenden Geräte, wie Hotelmobiliar, Motoren und andere Maschinen, wenn sie nicht schon Bestandteil des Gebäudes sind;
+- d) der auf einem landwirtschaftlichen Gute vorhandene und zu dessen Bebauung bestimmte Dünger sowie die Baum- und Rebpfähle, sobald sie einmal benutzt worden sind, nicht aber das zu einem landwirtschaftlichen Betriebe gehörende Vieh.
 
-- 2\. Statuen, auch nicht befestigte, wenn sie in einer zu deren Aufnahme besonders angelegten Nische aufgestellt sind;
-
-- 3\. auf industriellem Grund alle dem Betrieb dienenden Geräte, wie Hotelmobiliar, Motoren und andere Maschinen, wenn sie nicht schon Bestandteil des Gebäudes sind;
-
-- 4\. der auf einem landwirtschaftlichen Gute vorhandene und zu dessen Bebauung bestimmte Dünger sowie die Baum- und Rebpfähle, sobald sie einmal benutzt worden sind, nicht aber das zu einem landwirtschaftlichen Betriebe gehörende Vieh.
-
-- g) Nachbarrecht im Allgemeinen
+### 2.1.7 Nachbarrecht im Allgemeinen
 
 #### Art. 141
 
-**1. Schädliche Anlagen**
+**Schädliche Anlagen**
 
 <sup>1</sup> Insofern er auf seinem Grund und Boden keine Mauer oder Gegenmauer erstellt, um Schädigungen des Nachbarn zu verhindern, darf niemand errichten:
 
 - a) Schöpfbrunnen, Zisternen, Abtrittgruben oder jede dem Nachbarn schädliche Ausgrabung in einer Entfernung von weniger als zwei Metern von der Grenzmauer, ungeachtet, ob diese gemeinschaftlich ist oder ganz dem Nachbarn gehört;
-
 - b) eine Verbrennungsanlage in einer Entfernung von weniger als einem Meter von der Grenzmauer, ungeachtet, ob diese gemeinschaftlich ist oder ganz dem Nachbarn gehört;
-
 - c) ein Lager oder ein Abfluss von ätzendem Material an der Grenzmauer, ungeachtet, ob diese gemeinschaftlich ist oder ganz dem Nachbarn gehört.
 
 <sup>2</sup> Der Grundeigentümer, der den Boden ganz oder teilweise ausgraben will, hat bis zur Grenze des Nachbargrundstückes einen Abstand zu lassen, welcher der Tiefe der Ausgrabung entspricht, es sei denn, dass der Grundbesitzer die nötigen Vorkehren trifft, um jeden Schaden von der Nachbarschaft abzuwenden.
@@ -1622,7 +1629,7 @@ Als Zugehör gelten gemäss dem Walliser Ortsgebrauch im Rahmen des Schweizerisc
 
 #### Art. 142
 
-**2. Grenzgemeinschaft: a) Vermutung der Mittelmauer**
+**Grenzgemeinschaft a) Vermutung der Mittelmauer**
 
 <sup>1</sup> Auf der Grenze errichtete Mauern, Gräben, Bäume und Zäune werden als gemeinschaftlich vermutet.
 
@@ -1630,125 +1637,79 @@ Als Zugehör gelten gemäss dem Walliser Ortsgebrauch im Rahmen des Schweizerisc
 
 <sup>3</sup> Es gilt die umgekehrte Vermutung, wenn die Artikel 493 Absatz 2, 494 und 506 des Zivilgesetzbuches des Kantons Wallis Anwendung finden, welche folgenden Wortlaut haben:
 
-#### Art. 493
+Art. 493 Abs. 2:
 
-**Abs. 2**
+Sind die Grundgüter von ungleicher Höhe, und unterstützt eine Mauer das höhere Erdreich, so wird die Mauer als ausschliessliches Eigentum desjenigen angesehen, dessen Grundstück sie unterstützt.
 
-### Sind die Grundgüter von ungleicher Höhe, und unterstützt eine Mauer das
-
-höhere Erdreich, so wird die Mauer als ausschliessliches Eigentum desjenigen angesehen, dessen Grundstück sie unterstützt.
-
-#### Art. 494
+Art. 494:
 
 Es ist ein Merkmal, dass die Mauer nicht gemeinschaftlich sei:
 
-- a) wenn wirklich bestehende Öffnungen, wie Türen und Fenster, oder
+a) wenn wirklich bestehende Öffnungen, wie Türen und Fenster, oder Kennzeichen alter Öffnungen dieser Art, wie Wandbretter, Rahmen und Karniese sich vorfinden;
 
-### Kennzeichen alter Öffnungen dieser Art, wie Wandbretter, Rahmen und
+b) wenn eine Traufe besteht;
 
-Karniese sich vorfinden;
+c) desgleichen, wenn nur auf einer Seite entweder eine Mauerkappe oder Steinleisten und Kragsteine, die bei Errichtung der Mauer daselbst angebracht wurden, sich befinden.
 
-- b) wenn eine Traufe besteht;
-
-- c) desgleichen, wenn nur auf einer Seite entweder eine Mauerkappe oder
-
-### Steinleisten und Kragsteine, die bei Errichtung der Mauer daselbst
-
-angebracht wurden, sich befinden.
-
-### In diesen Fällen wird die Mauer als ausschliesslich dem Eigentümer
-
-zugehörig betrachtet zu dessen Gunsten die Öffnungen angebracht sind, oder auf dessen Seite die Traufe, die Mauerkappe oder die Leisten und Kragsteine sich befinden.
+In diesen Fällen wird die Mauer als ausschliesslich dem Eigentümer zugehörig betrachtet zu dessen Gunsten die Öffnungen angebracht sind, oder auf dessen Seite die Traufe, die Mauerkappe oder die Leisten und Kragsteine sich befinden.
 
 Die Verzahnungssteine stehen nicht als Beweis einer Mittelmauer.
 
-#### Art. 506
+Art. 506:
 
-### Ein Merkmal der Nichtgemeinschaft ist, wenn der Erdwall oder der Auswurf
+Ein Merkmal der Nichtgemeinschaft ist, wenn der Erdwall oder der Auswurf der Erde sich nur auf einer Seite des Grabens befindet und seit drei Jahren daselbst angehäuft ist.
 
-der Erde sich nur auf einer Seite des Grabens befindet und seit drei Jahren daselbst angehäuft ist.
+Der Graben wird als ausschliessliches Eigentum desjenigen angesehen, auf dessen Seite sich der Auswurf befindet.
 
-### Der Graben wird als ausschliessliches Eigentum desjenigen angesehen, auf
+Diese Vermutung hört auf, wenn die abschüssige Lage des Bodens oder jedes andere augenscheinliche Hindernis die Erde nur auf eine Seite zu werfen nötigt.
 
-dessen Seite sich der Auswurf befindet.
+#### Art. 143
 
-### Diese Vermutung hört auf, wenn die abschüssige Lage des Bodens oder jedes
+**b) Mittelmauerrecht**
 
-andere augenscheinliche Hindernis die Erde nur auf eine Seite zu werfen nötigt.
-
-#### Art. 143 b
-
-**) Mittelmauerrecht**
-
-Das Mittelmauerrecht wird weiterhin durch die Bestimmungen des Walliser Zivilgesetzbuches geordnet.
+<sup>1</sup> Das Mittelmauerrecht wird weiterhin durch die Bestimmungen des Walliser Zivilgesetzbuches geordnet.
 
 Dieselben lauten:
 
-#### Art. 495
+Art. 495:
 
-### Die Ausbesserung und Wiedereinführung einer gemeinschaftlichen Mauer
+Die Ausbesserung und Wiedereinführung einer gemeinschaftlichen Mauer liegen allen jenen zur Last, welche ein Recht daran haben, und nach Verhältnis der Rechte eines jeden.
 
-liegen allen jenen zur Last, welche ein Recht daran haben, und nach Verhältnis der Rechte eines jeden.
+Art. 496:
 
-#### Art. 496
+Jedoch kann jeder Miteigentümer einer Mittelmauer sich des Beitrags zur Ausbesserung und Wiederaufbauung überheben, wenn er der Gemeinschaft entsagt, vorausgesetzt, dass die Mittelmauer kein ihm zugehöriges Gebäude unterstütze.
 
-### Jedoch kann jeder Miteigentümer einer Mittelmauer sich des Beitrags zur Ausbesserung und Wiederaufbauung überheben, wenn er der Gemeinschaft
+Ungeachtet dieser Verzichtleistung kann derjenige, welcher der Gemeinschaft entsagt hat, zu den Ausbesserungen, die er durch seine Handlung veranlasst hat, gehalten werden.
 
-entsagt, vorausgesetzt, dass die Mittelmauer kein ihm zugehöriges Gebäude unterstütze.
+Art. 497:
 
-### Ungeachtet dieser Verzichtleistung kann derjenige, welcher der Gemeinschaft
+Jeder Miteigentümer kann an eine Mittelmauer bauen und bis zur Hälfte ihrer Dicke Balken oder Durchzüge einlegen.
 
-entsagt hat, zu den Ausbesserungen, die er durch seine Handlung veranlasst hat, gehalten werden.
+Jedoch kann er in derselben keine Einbrechungen machen, weder irgend ein Werk daran anlegen oder darauf stützen, ohne vorher die Einwilligung des Miteigentümers einzuholen, oder, auf dessen Verweigerung, vor dem Bezirksrichter die erforderlichen Mittel bestimmen zu lassen, wie das neue Werk gemacht werden könne, ohne den Rechten des andern schädlich zu sein.
 
-#### Art. 497
+Art. 498:
 
-### Jeder Miteigentümer kann an eine Mittelmauer bauen und bis zur Hälfte ihrer
+Jeder Miteigentümer kann die Mittelmauer erhöhen lassen, doch hat er die Erhöhungskosten und die Unterhaltsausbesserungen des erhöhten Teiles sowie die Arbeiten allein zu bezahlen, zu welchen er auf Gesuch seines Nachbarn oder fehlendenfalls durch Entscheid des Bezirksrichters veranlasst würde, damit die Mittelmauer die von der Erhöhung herrührende grössere Last, ohne etwas an ihrer Festigkeit zu verlieren, ertragen könne.
 
-Dicke Balken oder Durchzüge einlegen.
+Art. 499:
 
-### Jedoch kann er in derselben keine Einbrechungen machen, weder irgend ein Werk daran anlegen oder darauf stützen, ohne vorher die Einwilligung des Miteigentümers einzuholen, oder, auf dessen Verweigerung, vor dem Be-zirksrichter die erforderlichen Mittel bestimmen zu lassen, wie das neue
+Ist die Mittelmauer nicht stark genug, um die Erhöhung zu ertragen, so muss derjenige, der sie erhöhen will, selber auf eigene Kosten von Neuem aufführen lassen, und der Zusatz, um den sie dicker wird, muss auf seine Seite genommen werden.
 
-Werk gemacht werden könne, ohne den Rechten des andern schädlich zu sein.
+In den Fällen des gegenwärtigen und vorhergehenden Artikels ist der Miteigentümer überdies gehalten, den Schaden, welchen sein Nachbar aus der Erhöhung oder der neuen Aufführung, wenn gleich nur temporär erlitten hätte, zu vergüten.
 
-#### Art. 498
+Art. 500:
 
-### Jeder Miteigentümer kann die Mittelmauer erhöhen lassen, doch hat er die Erhöhungskosten und die Unterhaltsausbesserungen des erhöhten Teiles
+Der Nachbar, welcher zur Erhöhung nichts beigetragen hat, kann die Gemeinschaft desselben erwerben, wenn er die Hälfte der Erhöhungskosten und den Wert der Hälfte des Bodens ersetzt, der für den allfälligen Zusatz an Dicke angewendet worden ist.
 
-sowie die Arbeiten allein zu bezahlen, zu welchen er auf Gesuch seines
+Art. 501:
 
-### Nachbarn oder fehlendenfalls durch Entscheid des Bezirksrichters veranlasst
+Jeder Eigentümer dessen Grundstück unmittelbar an die Mauer des Nachbars anstösst, hat ebenfalls das Recht, sie ganz oder zum Teil gemeinschaftlich zu machen, wenn er dem Eigentümer der Mauer die Hälfte ihres Werts, oder die Hälfte des Werts desjenigen Teils, welchen er gemeinschaftlich machen will, und die Hälfte des Werts des Bodens, worauf die Mauer gebaut ist, bezahlt, mit der fernen Verbindlichkeit, die erforderlich erachteten Arbeiten, um dem Nachbarn nicht zu schaden, auszuführen.
 
-würde, damit die Mittelmauer die von der Erhöhung herrührende grössere Last, ohne etwas an ihrer Festigkeit zu verlieren, ertragen könne.
-
-#### Art. 499
-
-### Ist die Mittelmauer nicht stark genug, um die Erhöhung zu ertragen, so muss
-
-derjenige, der sie erhöhen will, selber auf eigene Kosten von Neuem aufführen lassen, und der Zusatz, um den sie dicker wird, muss auf seine Seite genommen werden.
-
-### In den Fällen des gegenwärtigen und vorhergehenden Artikels ist der Miteigentümer überdies gehalten, den Schaden, welchen sein Nachbar aus der Erhöhung oder der neuen Aufführung, wenn gleich nur temporär erlitten
-
-hätte, zu vergüten.
-
-#### Art. 500
-
-### Der Nachbar, welcher zur Erhöhung nichts beigetragen hat, kann die Gemeinschaft desselben erwerben, wenn er die Hälfte der Erhöhungskosten
-
-und den Wert der Hälfte des Bodens ersetzt, der für den allfälligen Zusatz an Dicke angewendet worden ist.
-
-#### Art. 501
-
-### Jeder Eigentümer dessen Grundstück unmittelbar an die Mauer des Nachbars
-
-anstösst, hat ebenfalls das Recht, sie ganz oder zum Teil gemeinschaftlich zu machen, wenn er dem Eigentümer der Mauer die Hälfte ihres Werts, oder die Hälfte des Werts desjenigen Teils, welchen er gemeinschaftlich machen will, und die Hälfte des Werts des Bodens, worauf die Mauer gebaut ist, bezahlt, mit der fernen Verbindlichkeit, die erforderlich erachteten Arbeiten, um dem Nachbarn nicht zu schaden, auszuführen.
-
-### Das Mittelmauerrecht kann auf schriftlichen Antrag der Eigentümer der Mauer als Dienstbarkeit eingetragen werden (Art. 33 Abs. 2 der
-
-eidgenössischen Grundbuchverordnung).
+<sup>2</sup> Das Mittelmauerrecht kann auf schriftlichen Antrag der Eigentümer der Mauer als Dienstbarkeit eingetragen werden (Art. 33 Abs. 2 der eidgenössischen Grundbuchverordnung).
 
 #### Art. 144
 
-**3. Aufschüttungen und Erdarbeiten**
+**Aufschüttungen und Erdarbeiten**
 
 <sup>1</sup> Der Bodeneigentümer kann das Bodenniveau nur erhöhen, wenn er zur Grenze den gleichen Abstand wie die Erhöhung einhält.
 
@@ -1756,7 +1717,7 @@ eidgenössischen Grundbuchverordnung).
 
 #### Art. 145
 
-**4. Pflanzungen: a) Allgemeine Grundsätze**
+**Pflanzungen a) Allgemeine Grundsätze**
 
 <sup>1</sup> Die durch die nachfolgenden Bestimmungen vorgeschriebenen Abstände berechnen sich vom Zentrum des Fusses der Pflanze rechtwinklig zum nächstgelegenen Grenzpunkt des Nachbargrundstückes.
 
@@ -1766,27 +1727,24 @@ eidgenössischen Grundbuchverordnung).
 
 <sup>4</sup> Die Bestimmungen betreffend die Höhe und die Abstände der Pflanzungen sind nur anwendbar unter Vorbehalt der Bestimmungen des öffentlichen kantonalen oder kommunalen Rechts; sie sind auf Pflanzungen des Gemeinwesens nur bei Fehlen eines gegenteiligen öffentlichen Interesses anwendbar.
 
-#### Art. 146 b
+#### Art. 146
 
-**) Abstände und Höhen**
+**b) Abstände und Höhen**
 
 <sup>1</sup> Bezüglich der Grenze des Nachbargrundstückes, können nicht gepflanzt werden:
 
 - a) bis zu einer Distanz von fünf Metern hochstämmige nicht Fruchtbäume wie Eichen, Buchen, Ulmen, Pappeln und andere vergleichbare sowie Nuss- und Kastanienbäume;
-
 - b) bis zu einer Distanz von drei Metern die Fruchtbäume, welche nicht unter Buchstabe c erwähnt sind;
-
 - c) bis zu einer Distanz von zwei Metern die Pfirsich-, Aprikosen-, Zwetschgen- und Quittenbäume;
-
 - d) bis zu einer Distanz von 50 Zentimetern Zwerg- oder Spalierbäume, Sträucher und Gebüsche.
 
 <sup>2</sup> In allen Fällen darf die Höhe die doppelte Distanz zur Grenze nicht überschreiten.
 
 <sup>3</sup> Es ist nicht notwendig, diese Distanzen einzuhalten, wenn das Grundstück von jenem des Nachbarn durch eine Grenzmauer, eine Palisade oder eine Hecke getrennt ist und soweit die Pflanzen die Höhe der Mauer nicht überschreiten.
 
-#### Art. 147 c
+#### Art. 147
 
-**) Spezialregeln**
+**c) Spezialregeln**
 
 <sup>1</sup> Die Abstände zwischen den Weinbergen werden durch die Gesetzgebung über den Rebbau geregelt.
 
@@ -1794,9 +1752,9 @@ eidgenössischen Grundbuchverordnung).
 
 <sup>3</sup> Der Kanton und die Gemeinden können die Anlage und die Beibehaltung von Pflanzungen erlauben, die von den Abständen und Höhen des vorliegenden Gesetzes abweichen, wenn der Schutz gegen den Wind oder andere natürliche Schadenereignisse dies erfordern.
 
-#### Art. 148 d
+#### Art. 148
 
-**) Klageerhebung**
+**d) Klageerhebung**
 
 <sup>1</sup> Die Klage auf Entfernung oder Kappen der Pflanzungen, die nicht den Bestimmungen des vorliegenden Gesetzes entsprechen, wird vor dem Bezirksrichter eingereicht.
 
@@ -1804,9 +1762,9 @@ eidgenössischen Grundbuchverordnung).
 
 <sup>3</sup> Wenn zwischen aneinanderliegenden Grundstücken ein Zaun besteht, kann die Klage nur für Pflanzungen, die diesen übersteigen eingereicht werden und zwar nur in diesem Ausmass.
 
-#### Art. 149 e
+#### Art. 149
 
-**) Äste, Wurzeln und Früchte**
+**e) Äste, Wurzeln und Früchte**
 
 <sup>1</sup> Der Eigentümer eines Grundstücks muss nicht dulden, dass die Äste oder Wurzeln der Fruchtbäume des Nachbargrundstückes auf das seinige vordringen.
 
@@ -1814,7 +1772,7 @@ eidgenössischen Grundbuchverordnung).
 
 #### Art. 150
 
-**5. Umzäunung: a) Freiheit und Verbot der Umzäunung**
+**Umzäunung a) Freiheit und Verbot der Umzäunung**
 
 <sup>1</sup> Jeder ist frei, sein Grundstück zu umzäunen, unter Vorbehalt der durch das Gesetz vorgesehenen Ausnahmen.
 
@@ -1826,9 +1784,9 @@ eidgenössischen Grundbuchverordnung).
 
 <sup>5</sup> Wenn diese Massnahme einer Enteignung gleichkommt, kann der Entscheid nur mittels einer vorab zu bezahlenden angemessenen Entschädigung an die Anspruchsberechtigten getroffen werden.
 
-#### Art. 151 b
+#### Art. 151
 
-**) Freiheit nicht zu umzäunen und Verpflichtung zu umzäunen**
+**b) Freiheit nicht zu umzäunen und Verpflichtung zu umzäunen**
 
 <sup>1</sup> Jeder ist frei sein Grundstück nicht zu umzäunen.
 
@@ -1838,17 +1796,17 @@ eidgenössischen Grundbuchverordnung).
 
 <sup>4</sup> Die Umzäunung von Weiden und Alpweiden muss gemäss Ortsgebrauch den freien Durchgang auf den Pfaden und üblichen Durchgängen gewährleisten (Art. 699 Abs. 1 ZGB).
 
-#### Art. 152 c
+#### Art. 152
 
-**) Abstände und Höhen**
+**c) Abstände und Höhen**
 
 <sup>1</sup> Die Umzäunungen in Form von Grünhecken sind den Artikeln 145 bis 149 des vorliegenden Gesetzes unterstellt.
 
-<sup>2</sup> Die Mauern, Pfahlzäune und andere nicht verschiebbare Umzäunungen, welche nicht in einem Gebäude integriert sind, dürfen an der Grenze die Höhe von 1,5 Metern nicht übersteigen. Soll die Umzäunung höher sein, so muss sie die Hälfte dieser Überhöhe entsprechend weiter von der Grenze entfernt sein.
+<sup>2</sup> Die Mauern, Pfahlzäune und andere nicht verschiebbare Umzäunungen, welche nicht in einem Gebäude integriert sind, dürfen an der Grenze die Höhe von 1.5 Metern nicht übersteigen. Soll die Umzäunung höher sein, so muss sie die Hälfte dieser Überhöhe entsprechend weiter von der Grenze entfernt sein.
 
-#### Art. 153 d
+#### Art. 153
 
-**) Gerichtliche Klage**
+**d) Gerichtliche Klage**
 
 <sup>1</sup> Für die Streitsachen im Bereich der Pflicht und des Verbots der Umzäunung sowie deren Beschaffenheit, ist der Bezirksrichter zuständig.
 
@@ -1856,11 +1814,9 @@ eidgenössischen Grundbuchverordnung).
 
 <sup>3</sup> Die Bestimmungen des öffentlichen Rechts sind vorbehalten.
 
-#### Art. 154 e
+#### Art. 154
 
-**) Grenzgemeinschaft der anderen Umzäunungen und**
-
-Pflanzungen
+**e) Grenzgemeinschaft der anderen Umzäunungen und Pflanzungen**
 
 <sup>1</sup> Bei Mauern, Schranken, Hecken und andern Umzäunungen, welche auf der Grenze stehen und zwei Grundstücke scheiden, wird Miteigentum der beiden Nachbarn vermutet, es sei denn, dass nur eines dieser Grundstücke eingezäunt wäre. Solche Einzäunungen sind von den Eigentümern des angrenzenden Bodens nach dem Verhältnis ihrer Grenzlinie zu unterhalten, es sei denn, dass eine andere Unterhaltspflicht nachgewiesen werden kann.
 
@@ -1868,7 +1824,7 @@ Pflanzungen
 
 <sup>3</sup> Alle Streitigkeiten bezüglich der vorliegenden Bestimmung liegen in der Zuständigkeit des Bezirksrichters. Die Klage zur Entfernung verwirkt in fünf Jahren seit Eintritt der widerrechtlichen Situation.
 
-- h) Wegrechte
+### 2.1.8 Wegrechte
 
 #### Art. 155
 
@@ -1889,13 +1845,9 @@ Pflanzungen
 <sup>2</sup> In allen Fällen sind folgende Bestimmungen auf dem ganzen Kantonsgebiet zu beachten:
 
 - a) wenn es zur Bearbeitung seines Grundstückes unerlässlich ist, ist der Landwirt berechtigt, auf das Land des Nachbars soweit notwendig hinauszufahren; für den verursachten Schaden hat er einen angemessenen Ersatz zu leisten;
-
 - b) der Eigentümer eines Privatwaldes, der keinen genügenden Ausgang zum Abtransport seines Holzes hat, ist befugt, vom Eigentümer des unterhalb gelegenen Grundstückes an geeigneter Stelle den Durchlass des Holzes mittels Ziehen und nötigenfalls mittels Reistes zu verlangen. Das Ziehenoder Reisten darf nur nach vorheriger Anzeige erfolgen und wenn der überquerte Boden gefroren und schneebedeckt ist. Der angerichtete Schaden ist zu entschädigen, wobei die geschädigten Eigentümer das gereistete Holz bis zur Schadensregelung zurückbehalten können;
-
 - c) die üblichen Fahrwege zur Winterzeit über fremdes Eigentum sind, wenn nichts Abweichendes festgesetzt ist, in der Regel nur wenn der Boden gefroren ist zu benutzen. Ausnahmsweise können diese auf schneefreiem und nicht gefrorenem Boden benutzt werden, wenn Dringlichkeit vorhanden ist und kein anderer Weg ohne namhafte Erschwerung benutzt werden kann. Entsteht dadurch dem Eigentümer eines Grundstückes Schaden, so muss derselbe ersetzt werden;
-
 - d) unter derselben Entschädigungspflicht kann der Eigentümer, der seinen Grund und Boden durch Auftragung oder Zufuhr von Erde, Kies, Sand und dergleichen aufbessern will, während der toten Jahreszeit über die nachbarlichen Grundstücke einen Fussweg oder Fahrweg beanspruchen;
-
 - e) wenn infolge von Winterkälte und Schnee der Eigentümer eines Grundstückes seine gewöhnliche Tränke nicht benutzen kann, so ist er befugt, gegen angemessene Entschädigung sein Vieh auf dem für den Nachbarn unschädlichsten Weg zur Tränke zu treiben.
 
 #### Art. 157
@@ -1915,9 +1867,7 @@ Pflanzungen
 <sup>1</sup> Während der Jagdzeit ist der Jäger berechtigt, Grundstücke anderer zu Fuss zu betreten. Dieses Betretungsrecht gilt nicht:
 
 - a) in einem Umkreis von 100 Metern von bewohnten Gebäuden;
-
 - b) in Gemüsekulturen, Gärten, Baumschulen, Baumgärten, sowie in Weinbergen vor der Lese;
-
 - c) in Friedhöfen und Erholungspärken.
 
 <sup>2</sup> Die rechtmässige Ausübung der Fischerei erlaubt es dem Fischer entlang der Ufer der Wasserläufe, die dem Staatsregal unterstellt sind, zu gehen, sich dort aufzuhalten und, mit Ausnahme von bebauten Flächen, fremde Grundstücke auf dem am wenigsten Schaden verursachenden Weg zur Erreichung des Ufers zu betreten.
@@ -1934,7 +1884,7 @@ Pflanzungen
 
 <sup>3</sup> Der Kanton und die Gemeinden schützen und fördern, nötigenfalls durch Enteignung, den Zutritt zu Orten wo sich Altertümer, Naturdenkmäler, Naturschönheiten und Aussichtspunkte befinden.
 
-- i) Quellen und Privatgewässer
+### 2.1.9 Quellen und Privatgewässer
 
 #### Art. 160
 
@@ -1945,7 +1895,6 @@ Pflanzungen
 <sup>2</sup> Die Bewilligung wird erteilt, gegebenenfalls durch Enteignung, ausser:
 
 - a) wenn sie Vorschriften des Bundes oder des Kantons widerspricht, oder
-
 - b) wenn die Gemeinde unverzüglich entscheidet, alles oder einen Teil des abzuleitenden Wassers oder die zuzuschüttende Quelle zu erwerben.
 
 #### Art. 161
@@ -1958,11 +1907,11 @@ Pflanzungen
 
 <sup>3</sup> Vorbehalten bleiben zu den Gewohnheitsrechten und Gebräuchen der verschiedenen Teile des Kantons die übrigen Rechte der Nachbarn oder Bewohner von Weilern und Dörfern, zur Benutzung von privatem Wasser Dritter, zu häuslichen, landwirtschaftlichen oder forstwirtschaftlichen Zwecken.
 
-- j) Öffentliches Eigentum und herrenlose Grundstücke
+### 2.1.10 Öffentliches Eigentum und herrenlose Grundstücke
 
 #### Art. 162
 
-<sup>11</sup> Herrenlose Grundstücke
+**Herrenlose Grundstücke**
 
 <sup>1</sup> Der Grundbuchverwalter benachrichtigt die betroffene Einwohnergemeinde unverzüglich über die Aufgabe des Eigentums an einem Grundstück.
 
@@ -2012,89 +1961,61 @@ Pflanzungen
 
 <sup>2</sup> Die nachfolgenden Bestimmungen des Zivilgesetzbuches des Kantons Wallis bleiben zudem in Kraft:
 
-#### Art. 399
+Art. 399:
 
-### Gleiche Bewandtnis hat es mit den Ansätzen, welche das fliessende Wasser
+Gleiche Bewandtnis hat es mit den Ansätzen, welche das fliessende Wasser bildet, das sich allmählich von einem seiner Ufer wegzieht, indem es auf das andere übertritt; die Anschwemmung kommt alsdann dem Eigentümer des entblössten Ufers zu Gute, ohne dass der Ufereigentümer der entgegengesetzten Seite den von ihm verlorenen Boden ansprechen kann.
 
-bildet, das sich allmählich von einem seiner Ufer wegzieht, indem es auf das andere übertritt; die Anschwemmung kommt alsdann dem Eigentümer des entblössten Ufers zu Gute, ohne dass der Ufereigentümer der entgegengesetzten Seite den von ihm verlorenen Boden ansprechen kann.
-
-#### Art. 400
+Art. 400:
 
 Die Anschwemmung des Lemanersees gehört dem Staate zu.
 
-#### Art. 401
+Art. 401:
 
-### Die Anschwemmung kommt den Ufereigentümern nicht zu Gute, wenn die Eigentume längs dem Strome oder Flusse abgemarkt sind; in diesem Falle
+Die Anschwemmung kommt den Ufereigentümern nicht zu Gute, wenn die Eigentume längs dem Strome oder Flusse abgemarkt sind; in diesem Falle gehört die Anschwemmung der Gemeinde zu, auf deren Gebiete sich solche gebildet hat.
 
-gehört die Anschwemmung der Gemeinde zu, auf deren Gebiete sich solche gebildet hat.
+Art. 402:
 
-#### Art. 402
+Die Anschwemmung hat in Betreff der Teiche nicht statt, deren Eigentümer den Boden immer behält, den das Wasser bedeckt, wenn es zur Höhe des Abflusses des Teiches angestiegen ist; wenn auch schon die Masse des Wassers sich nachher vermindern sollte.
 
-### Die Anschwemmung hat in Betreff der Teiche nicht statt, deren Eigentümer
+Dagegen erwirbt der Eigentümer des Teiches auch kein Recht auf die Ufergrundstücke, welche sein Wasser bei einer ausserordentlichen Anschwemmung überdeckt.
 
-den Boden immer behält, den das Wasser bedeckt, wenn es zur Höhe des
+Art. 403:
 
-### Abflusses des Teiches angestiegen ist; wenn auch schon die Masse des
+Wird von dem Strome, von einem Flusse oder Bache ein beträchtlicher und erkennbarer Teil eines am Ufer gelegenen Grundstückes durch plötzliche Gewalt fortgerissen und einem an oder unter dem entgegengesetzten Ufer befindlichen Grundstücke zugeführt, so kann der Eigentümer des abgerissenen Stückes sein Eigentum in Anspruch nehmen, jedoch muss er seine Klage innerhalb eines Jahres einlegen; nach Verlauf dieser Frist wird er damit nicht mehr zugelassen.
 
-Wassers sich nachher vermindern sollte.
+Art. 405:
 
-### Dagegen erwirbt der Eigentümer des Teiches auch kein Recht auf die Ufergrundstücke, welche sein Wasser bei einer ausserordentlichen
+Die Inseln und Anschwemmungen, welche sich in der Rhone, den Flüssen und Bächen bilden, gehören den Ufereigentümern derjenigen Seite zu, auf der die Insel sich gebildet hat; ist die Insel, nicht auf einer Seite allein gebildet, so gehört sie den Ufereigentümern der beiden Seiten zu, nach Massgabe der Linie, die man als mitten in dem Strome, Flusse oder Bache gezogen annimmt, ausgenommen die am Ufer gelegenen Grundgüter seien angemarkt, in welchem Falle die Inseln und Anschwemmungen den Ufergemeinden anheimfallen.
 
-Anschwemmung überdeckt.
-
-#### Art. 403
-
-### Wird von dem Strome, von einem Flusse oder Bache ein beträchtlicher und
-
-erkennbarer Teil eines am Ufer gelegenen Grundstückes durch plötzliche
-
-### Gewalt fortgerissen und einem an oder unter dem entgegengesetzten Ufer
-
-befindlichen Grundstücke zugeführt, so kann der Eigentümer des abgerissenen Stückes sein Eigentum in Anspruch nehmen, jedoch muss er seine Klage innerhalb eines Jahres einlegen; nach Verlauf dieser Frist wird er damit nicht mehr zugelassen.
-
-#### Art. 405
-
-### Die Inseln und Anschwemmungen, welche sich in der Rhone, den Flüssen und Bächen bilden, gehören den Ufereigentümern derjenigen Seite zu, auf der die Insel sich gebildet hat; ist die Insel, nicht auf einer Seite allein gebildet, so
-
-gehört sie den Ufereigentümern der beiden Seiten zu, nach Massgabe der Linie, die man als mitten in dem Strome, Flusse oder Bache gezogen annimmt, ausgenommen die am Ufer gelegenen Grundgüter seien angemarkt, in welchem Falle die Inseln und Anschwemmungen den Ufergemeinden anheimfallen.
-
-#### Art. 406
+Art. 406:
 
 Wenn die Rhone, ein Fluss oder ein Bach, durch Bildung eines neuen Armes, das Grundstück eines Eigentümers durchschneidet, und solcher Gestalt umfasst, dass dadurch eine Insel gebildet wird, so behält dieser das Eigentum seines Grundstücks.
 
-#### Art. 407
+Art. 407:
 
-### Wenn die Rhone, ein Fluss oder Bach, sein altes Bett verlässt und sich einen
+Wenn die Rhone, ein Fluss oder Bach, sein altes Bett verlässt und sich einen neuen Lauf bahnt, so haben die Eigentümer des neu eingenommenen Grundstückes das Recht auf dem verlassenen Bette einen dem Werte der eingenommenen Grundstücke entsprechenden Bodenteil zu erhalten.
 
-neuen Lauf bahnt, so haben die Eigentümer des neu eingenommenen
+Bleibt nach geschehener Entschädigung der Eigentümer noch ein Bodenteil über, so wird es den Ufereigentümern des verlassenen Bettes angehören.
 
-### Grundstückes das Recht auf dem verlassenen Bette einen dem Werte der
+Art. 408:
 
-eingenommenen Grundstücke entsprechenden Bodenteil zu erhalten.
+Die Verfügungen des gegenwärtigen Abschnittes beeinträchtigen keineswegs das Recht, den Strom und die Flüsse innerhalb ihrer Schranken zu halten oder zurück zu versetzen.
 
-### Bleibt nach geschehener Entschädigung der Eigentümer noch ein Bodenteil
+### 2.1.11
 
-über, so wird es den Ufereigentümern des verlassenen Bettes angehören.
+#### Art. 167
 
-#### Art. 408
+**…**
 
-### Die Verfügungen des gegenwärtigen Abschnittes beeinträchtigen keineswegs
+#### Art. 168
 
-das Recht, den Strom und die Flüsse innerhalb ihrer Schranken zu halten oder zurück zu versetzen.
+**…**
 
-- k) Aneignung gewisser beweglicher oder Teile von unbeweglichen
+#### Art. 169
 
-### Sachen
+**…**
 
-[^hSachen-1]: Änderung gemäss Gesetz über den Natur- und GS/VS 2000, 3 1.10.2000 Heimatschutz vom 13.11. 1998
-
-#### Art. 167 bis
-
-**169[^hSachen-1]**
-
-Aufgehoben
-
-- l) Dienstbarkeiten und Grundlasten
+### 2.1.12 Dienstbarkeiten und Grundlasten
 
 #### Art. 170
 
@@ -2128,7 +2049,7 @@ Aufgehoben
 
 <sup>2</sup> Auf Antrag der zuständigen Behörde können sie im Grundbuch angemerkt werden.
 
-- m) Grundpfandrechte im Allgemeinen
+### 2.1.13 Grundpfandrechte im Allgemeinen
 
 #### Art. 174
 
@@ -2140,7 +2061,7 @@ Aufgehoben
 
 #### Art. 175
 
-<sup>11</sup> Einschränkungen der Verpfändung
+**Einschränkungen der Verpfändung**
 
 <sup>1</sup> Der kantonale und kommunale öffentliche Grund und Boden kann nicht verpfändet werden.
 
@@ -2150,7 +2071,7 @@ Aufgehoben
 
 #### Art. 176
 
-<sup>9</sup> Einseitige Ablösung
+**Einseitige Ablösung**
 
 <sup>1</sup> Die Bestimmungen bezüglich der Ablösung von Grundpfandrechten sind im Kanton anwendbar.
 
@@ -2168,7 +2089,7 @@ Aufgehoben
 
 <sup>8</sup> Wenn die öffentliche Versteigerung durch den belasteten Eigentümer verlangt wird, so erfolgt sie unter der Amtsgewalt des Gemeinderichters gemäss Artikel 189 des vorliegenden Gesetzes. Die Aufteilung und die Bezahlung erfolgen gemäss den Absätzen 6 und 7.
 
-- n) Gesetzliche Grundpfandrechte des öffentlichen Rechts
+### 2.1.14 Gesetzliche Grundpfandrechte des öffentlichen Rechts
 
 #### Art. 177
 
@@ -2200,7 +2121,7 @@ Aufgehoben
 
 <sup>3</sup> Das Recht die Vorausverwertung allfälliger Pfänder zu verlangen (Bene-ficium excussionis realis), kann im Bereich des gesetzlichen Grundpfandrechts des öffentlichen Rechts nicht geltend gemacht werden.
 
-- o) Gült und Schuldbrief
+### 2.1.15 Gült und Schuldbrief
 
 #### Art. 180
 
@@ -2218,15 +2139,15 @@ Aufgehoben
 
 #### Art. 181
 
-<sup>3</sup> Errichtung von Schuldbriefen
+**Errichtung von Schuldbriefen**
 
-Die Errichtung eines Schuldbriefes ist ohne Einschränkung möglich.
+<sup>1</sup> Die Errichtung eines Schuldbriefes ist ohne Einschränkung möglich.
 
 #### Art. 182
 
 **Schuldbriefe und Gülten des Eigentümers**
 
-Die Notare beantragen die Eintragung der Schuldbriefe und Gülten, welche auf den Inhaber oder den Namen des Eigentümers selber ausgestellt sind, wenn letzterer dies verlangt.
+<sup>1</sup> Die Notare beantragen die Eintragung der Schuldbriefe und Gülten, welche auf den Inhaber oder den Namen des Eigentümers selber ausgestellt sind, wenn letzterer dies verlangt.
 
 #### Art. 183
 
@@ -2236,7 +2157,7 @@ Die Notare beantragen die Eintragung der Schuldbriefe und Gülten, welche auf de
 
 <sup>2</sup> Auf jeden Fall kann die Kündigung durch den Schuldner nach 6 Jahren nach Ausgabe des Titels nicht ausgeschlossen werden.
 
-- p) Grundbuch
+### 2.1.16 Grundbuch
 
 #### Art. 184
 
@@ -2278,13 +2199,13 @@ Die Notare beantragen die Eintragung der Schuldbriefe und Gülten, welche auf de
 
 <sup>7</sup> Der Staatsrat erlässt auf dem Verordnungsweg die technischen Vorschriften betreffend die Amtshandlungen des Grundbuchverwalters im Bereich des Stockwerkeigentums.
 
-- q) Verkauf
+### 2.1.17 Verkauf
 
 #### Art. 187
 
 **Wirtschaftsschuld**
 
-Die Eintreibung der aus dem Detailverkauf von alkoholischen Getränken resultierenden Schuld, inbegriffen die Wirtschaftsschuld, ist nicht begrenzt.
+<sup>1</sup> Die Eintreibung der aus dem Detailverkauf von alkoholischen Getränken resultierenden Schuld, inbegriffen die Wirtschaftsschuld, ist nicht begrenzt.
 
 #### Art. 188
 
@@ -2306,11 +2227,9 @@ Die Eintreibung der aus dem Detailverkauf von alkoholischen Getränken resultier
 
 <sup>3</sup> Bei Liegenschaften enthält das Protokoll alle notwendigen Angaben zur Eintragung im Grundbuch. Die Versteigerungsbedingungen, der Grundbuchauszug oder der Katasterauszug mit Lastenverzeichnis sind vor dem Beginn der Versteigerung öffentlich zu verlesen; dies wird im Protokoll angemerkt.
 
-<sup>4</sup> Die Versteigerungen im Zusammenhang mit Kindes- und Erwachsenenschutzmassnahmen (Art. 35) werden von einem von der Schutzbehörde bezeichneten Notar durchgeführt.[^189-1]
+<sup>4</sup> Die Versteigerungen im Zusammenhang mit Kindes- und Erwachsenenschutzmassnahmen (Art. 35) werden von einem von der Schutzbehörde bezeichneten Notar durchgeführt.
 
 <sup>5</sup> Der Zuschlag wird in ortsüblicher Weise erteilt.
-
-[^189-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2013
 
 #### Art. 190
 
@@ -2324,7 +2243,7 @@ Die Eintreibung der aus dem Detailverkauf von alkoholischen Getränken resultier
 
 <sup>4</sup> Vorbehalten bleiben die Bestimmungen des BG über die Schuldbetreibung und den Konkurs.
 
-- r) Miete
+### 2.1.18 Miete
 
 #### Art. 191
 
@@ -2338,9 +2257,9 @@ Die Eintreibung der aus dem Detailverkauf von alkoholischen Getränken resultier
 
 **Amtliches Formular zum Abschluss von Mietverträgen**
 
-Im Falle von Wohnungsnot ist der Staatsrat befugt, für das gesamte oder einen Teil des Kantonsgebietes, zum Abschluss von Mietverträgen für Wohnungen oder Geschäftsräume, das amtliche Formular von Artikel 270 Absatz 2 OR als obligatorisch zu erklären.
+<sup>1</sup> Im Falle von Wohnungsnot ist der Staatsrat befugt, für das gesamte oder einen Teil des Kantonsgebietes, zum Abschluss von Mietverträgen für Wohnungen oder Geschäftsräume, das amtliche Formular von Artikel 270 Absatz 2 OR als obligatorisch zu erklären.
 
-- s) Versicherungsvertrag
+### 2.1.19 Versicherungsvertrag
 
 #### Art. 193
 
@@ -2352,39 +2271,30 @@ Im Falle von Wohnungsnot ist der Staatsrat befugt, für das gesamte oder einen T
 
 <sup>3</sup> Fehlt eine entsprechende Anzeige, so kann jeder Pfandgläubiger im Rahmen des Versicherungsvertrages den ausbezahlten Entschädigungsbetrag bestreiten und vom Versicherer die Auszahlung des Restbetrages bis zur Höhe seines Anspruchs und gemäss seinem Rang verlangen.
 
-### 2. Kapitel: Organisatorische Vorschriften des kantonalen Rechts
+### 2.2 Organisatorische Vorschriften des kantonalen Rechts
 
-- a) Veröffentlichungen
+### 2.2.1 Veröffentlichungen
 
 #### Art. 194
 
-<sup>7</sup> Öffentliche Bekanntmachung
+**Öffentliche Bekanntmachung**
 
 <sup>1</sup> Die im Zivilgesetzbuch, im Bundesgesetz über das Obligationenrecht und im gegenwärtigen Gesetz vorgeschriebenen öffentlichen Bekanntmachungen erfolgen durch wenigstens einmalige Publikation im Amtsblatt des Kantons Wallis.
 
 <sup>2</sup> In folgenden Fällen erfolgt die Bekanntmachung in drei Nummern des Amtsblattes:
 
 - a) für die Aufforderung zur Meldung von Nachrichten über einen Verschwundenen oder Abwesenden (Art. 36 ZGB, 94 des vorliegenden Gesetzes);
-
-- b) für die Aufforderung zur Erbgangsmeldung bei unbekannten Erben (Art.
-
-555 ZGB);
-
+- b) für die Aufforderung zur Erbgangsmeldung bei unbekannten Erben (Art. 555 ZGB);
 - c) für die Mitteilung einer Verfügung von Todes wegen an Bedachte mit unbekanntem Aufenthalt (Art. 558 ZGB);
-
-- d) für die Aufforderung, die Forderungen und Schulden anzumelden (Art.
-
-582 ZGB, 108 des vorliegenden Gesetzes);
-
+- d) für die Aufforderung, die Forderungen und Schulden anzumelden (Art. 582 ZGB, 108 des vorliegenden Gesetzes);
 - e) für die Fristansetzung zur Geltendmachung von Einsprüchen bei der aus-serordentlichen Ersitzung von Grundstücken (Art. 662 ZGB);
-
 - f) für die Aufforderung zur Anmeldung und Eintragung der dinglichen Rechte an Grundstücken bei der Einführung des Grundbuches (Schlusstitel Art. 43 ZGB, 211 des vorliegenden Gesetzes).
 
 <sup>3</sup> Die für die Bekanntmachung zuständige Behörde oder der Richter können andere Publikationsmittel anordnen, wenn diese ihnen angemessen erscheinen, insbesondere die Publikation in ausserkantonalen Amtsblättern oder im Schweizerischen Handelsamtsblatt.
 
-<sup>4</sup> Aufgehoben
+<sup>4</sup> …
 
-- b) Beglaubigung
+### 2.2.2 Beglaubigung
 
 #### Art. 195
 
@@ -2400,7 +2310,7 @@ Im Falle von Wohnungsnot ist der Staatsrat befugt, für das gesamte oder einen T
 
 <sup>5</sup> Die vorangehenden Bestimmungen sind für die Beglaubigung von Handzeichen von Personen, die nicht unterzeichnen können, anwendbar; die Verhinderung wird mit dem Handzeichen beurkundet.
 
-- c) Öffentliche Urkunden
+### 2.2.3 Öffentliche Urkunden
 
 #### Art. 196
 
@@ -2414,31 +2324,28 @@ Im Falle von Wohnungsnot ist der Staatsrat befugt, für das gesamte oder einen T
 
 **Übertragung kleiner Grundstücksflächen**
 
-Für die nachfolgenden Grundstückübertragungen sieht der Staatsrat, auf dem Verordnungsweg, ein vereinfachtes öffentliches Beurkundungsverfahren vor:
+<sup>1</sup> Für die nachfolgenden Grundstückübertragungen sieht der Staatsrat, auf dem Verordnungsweg, ein vereinfachtes öffentliches Beurkundungsverfahren vor:
 
 - a) freiwillige Grenzverbesserungen gestützt auf Artikel 57 des Bundesgesetzes über das bäuerliche Bodenrecht;
-
 - b) Übertragungen in der Folge von freiwilligen Güterzusammenlegungen im Sinne von Artikel 82 des eidgenössischen Landwirtschaftsgesetzes und von Artikel 21 des kantonalen Dekretes über die Landumlegung und Grenzregulierung;
-
 - c) Anpassung der Grenzen ans Nachbarrecht;
-
 - d) Verkauf oder Liegenschaftstausch und Grundpfandbestellung, deren Vertrags- oder Tauschwert 5'000 Franken nicht übersteigt.
 
-### 3. Titel: Übergangs- und Schlussbestimmungen
+## 3 Übergangs- und Schlussbestimmungen
 
-### 1. Kapitel: Übergangsrecht im Allgemeinen
+### 3.1 Übergangsrecht im Allgemeinen
 
 #### Art. 198
 
 **Anwendbares Recht**
 
-Die Bestimmungen des Schlusstitels des Schweizerischen Zivilgesetzbuches sind auf das kantonale Übergangsrecht anwendbar soweit das gegenwärtige Gesetz nichts anderes bestimmt.
+<sup>1</sup> Die Bestimmungen des Schlusstitels des Schweizerischen Zivilgesetzbuches sind auf das kantonale Übergangsrecht anwendbar soweit das gegenwärtige Gesetz nichts anderes bestimmt.
 
 #### Art. 199
 
 **Beibehaltung des früheren Übergangsrechts**
 
-Die Rechtsverhältnisse zwischen dem alten kantonalen Zivilrecht und dem Bundesprivatrecht zum Zeitpunkt des Inkrafttretens des Zivilgesetzbuches bleiben den Artikeln 264 und folgende des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch vom 15. Mai 1912 insbesondere den Artikeln 264, 265, 272 bis 275 und 297 unterstellt. Vorbehalten bleiben gegenteilige Bestimmungen des vorliegenden Gesetzes.
+<sup>1</sup> Die Rechtsverhältnisse zwischen dem alten kantonalen Zivilrecht und dem Bundesprivatrecht zum Zeitpunkt des Inkrafttretens des Zivilgesetzbuches bleiben den Artikeln 264 und folgende des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch vom 15. Mai 1912 insbesondere den Artikeln 264, 265, 272 bis 275 und 297 unterstellt. Vorbehalten bleiben gegenteilige Bestimmungen des vorliegenden Gesetzes.
 
 #### Art. 200
 
@@ -2446,7 +2353,7 @@ Die Rechtsverhältnisse zwischen dem alten kantonalen Zivilrecht und dem Bundesp
 
 <sup>1</sup> Die Allmendgenossenschaften und andere Geteilschaften, welche bereits 1912 bestanden, bleiben als juristische Personen anerkannt, wenn sie dies bereits unter altem Recht waren.
 
-<sup>2</sup> Diese Gesellschaften müssen jedoch unter Androhung von Busse bis zu 3000 Franken, welche gemäss den Bestimmungen über administrative Strafentscheide verhängt wird, ihre Statuten dem Staatsrat innert fünf Jahren seit Inkrafttreten des gegenwärtigen Gesetzes unterbreiten.
+<sup>2</sup> Diese Gesellschaften müssen jedoch unter Androhung von Busse bis zu 3'000 Franken, welche gemäss den Bestimmungen über administrative Strafentscheide verhängt wird, ihre Statuten dem Staatsrat innert fünf Jahren seit Inkrafttreten des gegenwärtigen Gesetzes unterbreiten.
 
 <sup>3</sup> Die durch die Gesellschafter vor 1912 wohlerworbenen Rechte an Alpen, Wäldern, Wasser oder anderen Gütern der Allmendgenossenschaften und Geteilschaften in Form des Gesamt- oder Miteigentums sowie die an den Anteil des Gesellschafters gebundenen dinglichen Rechte bleiben gemäss den erwiesenen Gebräuchen und den früheren Gewohnheitsrechten erhalten.
 
@@ -2458,7 +2365,7 @@ Die Rechtsverhältnisse zwischen dem alten kantonalen Zivilrecht und dem Bundesp
 
 **Nachbarrecht**
 
-Die beim Inkrafttreten dieses Gesetzes bestehenden Wasserleiten, Bauten, Pflanzungen und Einzäunungen bleiben den Abstands- und Höhenbestimmungen des alten Rechts unterstellt, soweit die diesbezüglichen Bestimmungen des gegenwärtigen Gesetzes für deren Eigentümer nicht vorteilhafter sind.
+<sup>1</sup> Die beim Inkrafttreten dieses Gesetzes bestehenden Wasserleiten, Bauten, Pflanzungen und Einzäunungen bleiben den Abstands- und Höhenbestimmungen des alten Rechts unterstellt, soweit die diesbezüglichen Bestimmungen des gegenwärtigen Gesetzes für deren Eigentümer nicht vorteilhafter sind.
 
 #### Art. 202
 
@@ -2472,17 +2379,15 @@ Die beim Inkrafttreten dieses Gesetzes bestehenden Wasserleiten, Bauten, Pflanzu
 
 #### Art. 203
 
-Ursprüngliches und umgewandeltes Stockwerkeigentum:
-
-- a) Grundsätze
+**Ursprüngliches und umgewandeltes Stockwerkeigentum 1. Grundsätze**
 
 <sup>1</sup> Das Stockwerkeigentum des alten kantonalen Rechts ist mit deren Inkrafttreten den Artikeln 712a und folgende ZGB unterstellt, ob es im Grundbuch angemerkt ist oder nicht.
 
 <sup>2</sup> Das Stockwerkeigentum, welches seit 1912 in Form des Miteigentums mit persönlichen Nutzungsrechten errichtet oder umgewandelt wurde, untersteht den Bestimmungen der Artikel 712a und folgende ZGB, sobald die Eintragungen im Grundbuch entsprechend den Artikeln 204 bis 207 des vorliegenden Gesetzes abgeändert sind.
 
-#### Art. 204 b
+#### Art. 204
 
-**) Anpassung der Eintragungen: aa) im Allgemeinen**
+**2. Anpassung der Eintragungen 2.1. Im Allgemeinen**
 
 <sup>1</sup> Die Anpassung an die neue gesetzliche Eigentumsordnung gemäss Artikel 203 erfolgt in der Regel aufgrund eines Begründungsaktes im Sinne von Artikel 712d ZGB.
 
@@ -2490,7 +2395,7 @@ Ursprüngliches und umgewandeltes Stockwerkeigentum:
 
 #### Art. 205
 
-**bb) anlässlich der Einführung des Grundbuches: 1. Grundsätze**
+**2.2. Anlässlich der Einführung des Grundbuches a) Grundsätze**
 
 <sup>1</sup> Um das Grundbuch und den Kataster den Bestimmungen des Bundesrechts über das Stockwerkeigentum anzupassen, fordert der Grundbuchverwalter von Amtes wegen oder auf Begehren eines Miteigentümers die Berechtigten auf, ihre Rechte festzulegen und räumt ihnen dazu eine angemessene Frist ein.
 
@@ -2500,21 +2405,17 @@ Ursprüngliches und umgewandeltes Stockwerkeigentum:
 
 <sup>4</sup> Es sind eine Lageskizze und eine Beschreibung der Räume zu erstellen und von den am Grundstück oder den Anteilen Berechtigten zu unterzeichnen.
 
-[^205-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2011
-
 #### Art. 206
 
-**2. Bestreitung**[^205-1]
+**b) Bestreitung**
 
 <sup>1</sup> Derjenige, der die Pflicht zur Anpassung der ihn betreffenden Rechte innert 30 Tagen seit Zustellung des Entscheides bestreitet, hat das Bezirksgericht anzurufen.
 
 <sup>2</sup> Wird keine Klage eingereicht oder wird diese abgewiesen, so wird bei fehlendem Einvernehmen gemäss den Bestimmungen von Artikel 207 verfahren.
 
-[^206-1]: Änderung vom 11.02.2009 Abl. Nr. 13/2009 1.01.2011
-
 #### Art. 207
 
-**3. Anpassung von Amtes wegen**[^206-1]
+**c) Anpassung von Amtes wegen**
 
 <sup>1</sup> Können sich die Berechtigten über die Festsetzung ihrer Anteile nicht einigen, so hat der Grundbuchverwalter oder die von ihm bezeichnete Person einen Augenschein durchzuführen und die Parteien wenn möglich anzuhören. Er erstellt hierauf einen Verteilungsplan mit einer Beschreibung der Räume und einer Planskizze der Stockwerke unter Angabe der Anteile. Zur Festsetzung der Wertquoten hat der Grundbuchverwalter die Gebäudeteile zu berücksichtigen, die dem Sonderrecht unterliegen. Zu diesem Zweck kann er einen Sachverständigen beiziehen.
 
@@ -2534,7 +2435,7 @@ Ursprüngliches und umgewandeltes Stockwerkeigentum:
 
 <sup>2</sup> Der Artikel 179 ist anwendbar ab Inkrafttreten des Gesetzes auf bestehende Forderungen und welche bereits durch das gesetzliche Grundpfandrecht gesichert sind.
 
-### 2. Kapitel: Einführung des Grundbuches
+### 3.2 Einführung des Grundbuches
 
 #### Art. 209
 
@@ -2542,8 +2443,7 @@ Ursprüngliches und umgewandeltes Stockwerkeigentum:
 
 <sup>1</sup> Bis zur Einführung des Grundbuches kommt den nachfolgenden Formen des alten kantonalen Rechts Grundbuchwirkung im Sinne von Artikel 48 Absatz 1 Schlusstitel des Zivilgesetzbuches zu:
 
-- a) für den Erwerb und die Übertragung von Grundeigentum sowie für die Errichtung, die Änderung oder die Löschung von Dienstbarkeiten und Grundlasten mit der Form der Eintragung (Transkription) in die öffentlichen vom Grundbuchverwalter geführten Eintragungsregister (Transkrip-tionsregister);
-
+- a) für den Erwerb und die Übertragung von Grundeigentum sowie für die Errichtung, die Änderung oder die Löschung von Dienstbarkeiten und Grundlasten mit der Form der Eintragung (Transkription) in die öffentlichen vom Grundbuchverwalter geführten Eintragungsregister (Transkriptionsregister);
 - b) für die Errichtung, die Änderung oder die Löschung von Grundpfandrechten, von Vormerkungen oder Anmerkungen mit der Form der Eintragung oder Löschung in den Grundpfandregistern.
 
 <sup>2</sup> Der Staatsrat erlässt auf dem Verordnungsweg die notwendigen Bestimmungen zur Führung der Gemeindekataster.
@@ -2552,7 +2452,7 @@ Ursprüngliches und umgewandeltes Stockwerkeigentum:
 
 #### Art. 210
 
-<sup>13</sup> Formelle Einführung des Grundbuches
+**Formelle Einführung des Grundbuches**
 
 <sup>1</sup> Das Grundbuch wird in den durch das zuständige Departement bezeichneten Gemeinden oder Teilen von Gemeinden eingeführt, wenn diese über Pläne und Parzellenvermessungen verfügen, welche den Anforderungen des Bundesrechts und jenen der Gesetzgebung über die amtliche Vermessung entsprechen.
 
@@ -2590,98 +2490,56 @@ Ursprüngliches und umgewandeltes Stockwerkeigentum:
 
 **Folgen der Nichteintragung**
 
-Die Rechte, welche nicht im Grundbuch eingetragen werden, behalten zwar ihre Gültigkeit, können aber Dritten, die sich in gutem Glauben auf das Grundbuch verlassen, entsprechend Artikel 44, Absatz 1 Schlusstitel des Zivilgesetzbuches, nicht entgegengehalten werden.
+<sup>1</sup> Die Rechte, welche nicht im Grundbuch eingetragen werden, behalten zwar ihre Gültigkeit, können aber Dritten, die sich in gutem Glauben auf das Grundbuch verlassen, entsprechend Artikel 44, Absatz 1 Schlusstitel des Zivilgesetzbuches, nicht entgegengehalten werden.
 
-### 3. Kapitel: Schlussbestimmungen
+### 3.3 Schlussbestimmungen
 
 #### Art. 214
 
 **Abänderung des geltenden Rechts**
 
-- 1\. Das Gesetz über das Notariat vom 15. Mai 1942 wird abgeändert wie folgt:
+<sup>1</sup> Das Gesetz über das Notariat vom 15. Mai 1942 wird abgeändert.
 
-#### Art. 38
-
-**Abs. 2 (neuer Wortlaut):**
-
-Die in diesem Artikel vorgeschriebenen Anmeldungen und Gesuche haben in der von den Gesetzen vorgeschriebenen Frist und beim Fehlen einer besonderen Vorschrift binnen 60 Tagen zu erfolgen.
-
-#### Art. 42
-
-**(neuer Wortlaut):**
-
-Die Beglaubigung wird durch das Einführungsgesetz zum Schweizerischen Zivilgesetzbuch geregelt.
-
-- 2\. Das Stempelgesetz vom 14. November 1953 wird durch einen neuen Artikel 16bis ersetzt, welcher folgenden Wortlaut hat:
-
-#### Art. 16bis
-
-**neu**
-
-Die Gründung von Stockwerkeigentum durch einen Begründungsvertrag im Sinne von Artikel 712d des Zivilgesetzbuches unterliegt einer festen Stempelgebühr in Höhe von 100 Franken.
+<sup>2</sup> Das Stempelgesetz vom 14. November 1953 wird durch einen neuen Artikel 16<sup>bis</sup> ersetzt.
 
 #### Art. 214a
 
-<sup>10</sup> Anpassung des kantonalen Rechts
+**Anpassung des kantonalen Rechts**
 
-Wo das kantonale Recht auf Begriffe des Vormundschaftsrechts verweist, wird es wie folgt angepasst:
+<sup>1</sup> Wo das kantonale Recht auf Begriffe des Vormundschaftsrechts verweist, wird es wie folgt angepasst:
 
 - a) Vormundschaft entspricht der Vormundschaft für Minderjährige oder der umfassenden Beistandschaft bei Erwachsenen;
-
-**Kindes- und**
-
-- b) Vormundschaftsbehörde, die Vormundschaftskammer oder die Kammer für Vormundschaft entspricht der Erwachsenenschutzbehörde;
-
+- b) Vormundschaftsbehörde, die Vormundschaftskammer oder die Kammer für Vormundschaft entspricht der Kindes- und Erwachsenenschutzbehörde;
 - c) Mündel entspricht dem Kind oder Erwachsenen unter einer Schutzmassnahme;
-
 - d) Fürsorgerische Freiheitsentziehung entspricht der Fürsorgerischen Unterbringung;
-
-<sup>e)</sup> Entmündigung entspricht dem Entzug der Handlungsfähigkeit.
+- e) Entmündigung entspricht dem Entzug der Handlungsfähigkeit.
 
 #### Art. 215
 
-<sup>2</sup> Aufhebungen
+**Aufhebungen**
 
 <sup>1</sup> Mit dem Inkrafttreten des gegenwärtigen Gesetzes sind alle ihm widersprechenden Bestimmungen aufgehoben, namentlich:
 
-- a) das Einführungsgesetz vom 15. Mai 1912 zum Schweizerischen Zivilgesetzbuch, unter Vorbehalt der im gegenwärtigen Gesetz vorgesehenen Anwendung;
-
+- a) das Einführungsgesetz zum Schweizerischen Zivilgesetzbuch vom 15. Mai 1912, unter Vorbehalt der im gegenwärtigen Gesetz vorgesehenen Anwendung;
 - b) die Bestimmungen des Walliser Zivilgesetzbuches vom 1. Dezember 1853, welche nicht schon früher aufgehoben wurden und nicht ins gegenwärtige Gesetz übernommen wurden;
-
 - c) das Einführungsgesetz vom 10. November 1965 zum Bundesgesetz vom 19. Dezember 1963 über die Änderung des vierten Teils des Zivilgesetzbuches (Miteigentum und Stockwerkeigentum);
-
-- d) das Gesetz vom 17. Januar 1933 betreffend das Eigentum an öffentlichen und herrenlosen Gütern;
-
-- e) das Gesetz vom 25. Wintermonat 1889 betreffend Bezeichnung des Appells- und Kassationsgerichtshofes als Gerichtsstelle für die Erkenntnis über zivilrechtliche Streitigkeiten wegen Nachahmung patentierter Gegenstände;
-
-- f) das Gesetz vom 19. November 1902 betreffend die zuständige Gerichtsstelle in zivilrechtlichen Streitigkeiten, welche nach den Bestimmungen von Bundesgesetzen einer einzigen kantonalen Instanz zugewiesen werden;
-
-- g) das Gesetz vom 13. November 1923 betreffend die Zuständigkeit des Kantonsgerichtes in Sachen zivilrechtlicher Streitigkeiten über das Urheberrecht an Werken der Literatur und Kunst;
-
+- d) das Gesetz betreffend das Eigentum an öffentlichen und herrenlosen Gütern vom 17. Januar 1933;
+- e) das Gesetz betreffend Bezeichnung des Appells- und Kassationsgerichtshofes als Gerichtsstelle für die Erkenntnis über zivilrechtliche Streitigkeiten wegen Nachahmung patentierter Gegenstände vom 25. Wintermonat 1889;
+- f) das Gesetz betreffend die zuständige Gerichtsstelle in zivilrechtlichen Streitigkeiten, welche nach den Bestimmungen von Bundesgesetzen einer einzigen kantonalen Instanz zugewiesen werden vom 19. November 1902;
+- g) das Gesetz betreffend die Zuständigkeit des Kantonsgerichtes in Sachen zivilrechtlicher Streitigkeiten über das Urheberrecht an Werken der Literatur und Kunst vom 13. November 1923;
 - h) das Dekret vom 22. Mai 1985 über die Vollziehung des Bundesgesetzes vom 16. Dezember 1983 über die Änderung des Schweizerischen Zivilgesetzbuches (Persönlichkeitsschutz);
-
-- i) das Dekret vom 12. November 1993 zu Artikel 6 § 3 der Europäischen Menschenrechtskonvention im Zivilbereich;
-
-- k) das Dekret vom 25. März 1988 betreffend die Bezeichnung der zuständigen Behörde für die Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen;
-
+- i) das Dekret zu Artikel 6 § 3 der Europäischen Menschenrechtskonvention im Zivilbereich vom 12. November 1993;
+- k) das Dekret betreffend die Bezeichnung der zuständigen Behörde für die Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen vom 25. März 1988;
 - l) die Ausführungsverordnung vom 7. Oktober 1987 betreffend die Anwendung des Bundesgesetzes vom 5. Oktober 1984 über die Änderung des Schweizerischen Zivilgesetzbuches (Wirkungen der Ehe im Allgemeinen, Ehegüterrecht und Erbrecht);
-
-- m) die Vollzugsverordnung vom 15. Juni 1978 betreffend die Einführung des neuen Kindesrechts;
-
-- n) die Verordnung vom 29. März 1973 über die Adoption;
-
+- m) die Vollzugsverordnung betreffend die Einführung des neuen Kindesrechts vom 15. Juni 1978 ;
+- n) die Verordnung über die Adoption vom 29. März 1973;
 - o) die Vollziehungsverordnung vom 7. Oktober 1981 zum Bundesgesetz vom 6. Oktober 1978 über die Änderung des Schweizerischen Zivilgesetzbuches (fürsorgliche Freiheitsentziehung);
-
 - p) die Verordnung vom 20. Februar 1991 über den Vollzug des neuen Mietrechts, mit Änderung vom 18. Dezember 1991.
 
-<sup>2</sup> Bis zum Erlass der im gegenwärtigen Gesetz vorgesehenen Verordnungen und Reglemente bleiben die vom Staatsrat angenommenen Verordnungen und Reglemente, soweit sie den vorgenannten Bestimmungen nicht widersprechen, in Kraft.
+<sup>2</sup> Bis zum Erlass der im gegenwärtigen Gesetz vorgesehenen Verordnungen und Reglemente bleiben die vom Staatsrat angenommenen Verordnungen und Reglemente, soweit sie den vorgenannten Bestimmungen nicht widersprechen, in Kraft. Diese Verordnungen und Reglemente wurden angenommen:
 
-Diese Verordnungen und Reglemente wurden angenommen:
-
-- a) in Ausführung des Einführungsgesetzes vom 15. Mai 1912 zum Schweizerischen Zivilgesetzbuch;
-
+- a) in Ausführung des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch vom 15. Mai 1912;
 - b) aufgrund von Artikel 52 Schlusstitel des Zivilgesetzbuches;
-
 - c) in Ausführung von Bundesgesetzen, welche das Zivilgesetzbuch und das Obligationenrecht abänderten.
 
 #### Art. 216
@@ -2692,25 +2550,18 @@ Diese Verordnungen und Reglemente wurden angenommen:
 
 <sup>2</sup> Der Staatsrat legt das Datum des Inkrafttretens des vorliegenden Gesetzes gleichzeitig mit jenem der Zivilprozessordnung fest.
 
-So angenommen in zweiter Lesung in der Sitzung des Grossen Rates, in Sitten, am 24. März 1998.
+## T1 Übergangsbestimmung der Änderung vom 17. Dezember 2020
 
-Der Präsident des Grossen Rates : Daniel Perruchoud Die Sekretäre: Hans-Peter Constantin, Grégoire Dayer
+#### Art. T1-1
 
-### Titel und Änderungen Veröffentlichung Inkrafftreten
+**Personal**
 
-**1.1.1999**
+<sup>1</sup> Die Stellen innerhalb der kantonalen Schutzbehörden werden durch eine Ausschreibung besetzt.
 
-GS/VS 1998, 28
+<sup>2</sup> Vorrang haben Mitarbeiter von kommunalen/interkommunalen Schutzbehörden, sofern sie die Anforderungen der Stelle erfüllen.
 
-## Weitere Fussnoten
+<sup>2<sup>bis</sup></sup> Bei der ersten Anstellung können abweichend von Artikel 14 Absatz 1 und Artikel 14a Absatz 1 Buchstabe a des vorliegenden Gesetzes Personen, die nicht über die erforderliche Ausbildung verfügen, bis zum Erreichen des gesetzlichen AHV-Rentenalters zum Präsidenten der Behörde ernannt werden, sofern sie über eine mindestens fünfjährige, für die Funktion relevante Erfahrung verfügen.
 
-- [1] Änderung vom 22.09.1999 GS/VS 1999, 47 1.01.2000
-- [3] Änderung vom 12.09.2002 GS/VS 2003, 1 1.03.2003
-- [4] Änderung vom 6.03.2003 GS/VS 2003, 13 1.09.2003
-- [5] Änderung vom 11.10.2006 GS/VS 2006, 66 1.01.2007
-- [6] Änderung vom 9.11.2006 GS/VS 2007, 64 1.07.2007
-- [7] Änderung vom 14.09.2006 GS/VS 2007, 9 1.01.2008
-- [8] Änderung vom 9.10.2008 Abl. Nr. 45/2008 7.11.2008
-- [11] Änderung vom 16.06.2011 Abl. Nr. 28/2011 1.11.2011
-- [12] Fassung gemäss Art. 3 Ziff. 1 des Gesetzes Abl. Nr. 25/2011 30.09.2011 betreffend den Beitritt des Kantons Wallis zum 38/2011 1.01.2012 Konkordat über die Schaffung der Westschweizer BVG- und Stiftungsaufsichtsbehörde vom 16. Juni 2011
-- [13] Fassung gemäss Ziff. I/2 des Gesetzes über Abl. Nr. 38/2011 1.01.2012 die zweite Etappe der Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund, Kanton und Gemeinden vom 15.09.2011
+<sup>3</sup> Mitarbeiter von kommunalen/interkommunalen Schutzbehörden haben keinen Anspruch auf Anstellung.
+
+CSW RO/AGS 1998 f 27, 356 | d 28
