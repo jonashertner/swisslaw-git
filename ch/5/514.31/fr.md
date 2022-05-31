@@ -4,11 +4,11 @@ title: Ordonnance du 23 février 2005 concernant les véhicules automobiles de l
 short: OVCC
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/163"
 language: fr
-version: 2021-01-01
+version: 2022-06-01
 adopted: 2005-02-23
 in_force: 2005-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/163/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-163-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/163/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/163/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2005-163-20220601-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/163/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/163/20210101/fr"
 
 (OVCC)
 
-du 23 février 2005 (Etat le 1<sup>er</sup> janvier 2021)
+du 23 février 2005 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -44,14 +44,14 @@ La présente ordonnance réglemente:
 - b. l’instruction, l’engagement et les obligations des employés de la Confédération, y compris du personnel militaire, en tant que conducteurs de véhicules de la Confédération, pour autant que des actes relatifs au personnel ou des conditions d’engagement ne prévoient pas de réglementation dérogatoire;
 - c. le comportement en cas d’accident et le règlement des sinistres en rapport avec l’utilisation de véhicules de la Confédération et de véhicules privés utilisés pour les besoins du service;
 - d. l’acquisition (achat, location, leasing), l’entretien et la mise hors service des véhicules de l’administration;
-- e.[^1-2] l’approvisionnement en carburant.
+- e.[^1-2] l’approvisionnement en énergie motrice.
 
 <sup>2</sup> L’acquisition et la mise hors service de véhicules militaires sont régies par l’ordonnance du DDPS du 6 décembre 2007 sur le matériel de l’armée[^1-3].[^1-4]
 
 <sup>3</sup> L’utilisation militaire et la maintenance de véhicules militaires sont régies par l’ordonnance du 11 février 2004 sur la circulation militaire (OCM)[^1-5].[^1-6]
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 1<sup>er</sup> mars 2016 ([RO 2016 399](https://fedlex.data.admin.ch/eli/oc/2016/60)).
-[^1-2]: Introduite par le ch. III 1 de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+[^1-2]: Introduite par le ch. III 1 de l’O du 2 déc. 2016 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)). Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
 [^1-3]: [RS 514.20](https://fedlex.data.admin.ch/eli/cc/2018/225)
 [^1-4]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1871](https://fedlex.data.admin.ch/eli/oc/2013/408)).
 [^1-5]: [RS 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
@@ -67,7 +67,7 @@ La présente ordonnance s’applique aux services mentionnés ci-après et à le
 
 - a. les unités centralisées et décentralisées de l’administration fédérale selon l’art. 2, al. 1 à 3, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration;
 - b. les Services du Parlement selon l’art. 64 de la loi du 13 décembre 2002 sur le Parlement[^2-1];
-- c. les commissions fédérales de recours et d’arbitrage;
+- c.[^2-2] ...
 - d. les tribunaux de la Confédération.
 
 <sup>2</sup>
@@ -78,27 +78,27 @@ La présente ordonnance ne s’applique pas:
 - b. au personnel militaire et aux enseignants spécialisés, qui conduisent des véhicules militaires durant leurs activités professionnelles;
 - c. au personnel militaire disposant de véhicules de service personnels;
 - d. aux véhicules du Département fédéral des affaires étrangères immatriculés et engagés à l’étranger ainsi qu’à leurs conducteurs;
-- e. au domaine des EPF.[^2-2]
+- e. au domaine des EPF.[^2-3]
 
 [^2-1]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
-[^2-2]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1871](https://fedlex.data.admin.ch/eli/oc/2013/408)).
+[^2-2]: Abrogée par le ch. I de l’O du 4 mai 2022, avec effet au 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1871](https://fedlex.data.admin.ch/eli/oc/2013/408)).
 
 #### Art. 3
 
-**Définitions**
+**Définitions**[^3-1]
 
-On entend par:
+Au sens de la présente ordonnance, on entend par:
 
-- a. véhicules de la Confédération: les véhicules de l’administration et les véhicules militaires;
-- b. véhicules de l’administration: les véhicules acquis pour les services mentionnés à l’art. 2, al. 1, et pour leurs employés ou mis à leur disposition;
-- c.[^3-1] véhicules militaires: les véhicules qui ont été achetés, loués, pris en leasing, prêtés ou réquisitionnés pour l’armée (art. 4, let. a, OCM[^3-2]);
-- d. véhicules officiels: les véhicules de la Confédération qui sont utilisés pour le transport de personnalités de haut rang conformément à l’art. 14;
-- d<sup>bis</sup>.[^3-3] véhicules de protection particulière: les véhicules blindés de la Confédération utilisés conformément à l’art. 14, al. 3, pour protéger des personnes de la Confédération;
-- e. employés de la Confédération: les personnes qui travaillent pour la Confédération sur la base d’un contrat de durée déterminée ou indéterminée.
+- a. *véhicules de la Confédération:* les véhicules de l’administration et les véhicules militaires;
+- b. *véhicules de l’administration:* les véhicules acquis pour les services mentionnés à l’art. 2, al. 1, et pour leurs employés ou mis à leur disposition;
+- c. *véhicules militaires:* les véhicules achetés, loués, pris en leasing, empruntés ou réquisitionnés pour l’armée (art. 4, let. a, OCM[^3-2]);
+- d. *véhicules officiels:* les véhicules de la Confédération utilisés aux fins de l’art. 14;
+- e. *véhicules de protection particulière:* les véhicules blindés de la Confédération utilisés conformément à l’art. 14, al. 3, pour protéger des personnes;
+- f. *énergie motrice:* les carburants fossiles ou renouvelables, liquides ou gazeux, ainsi que l’électricité.
 
-[^3-1]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1871](https://fedlex.data.admin.ch/eli/oc/2013/408)).
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
 [^3-2]: [RS 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
-[^3-3]: Introduite par le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 1<sup>er</sup> mars 2016 ([RO 2016 399](https://fedlex.data.admin.ch/eli/oc/2016/60)).
 
 #### Art. 4
 
@@ -127,14 +127,9 @@ Les sigles suivants sont utilisés pour désigner des actes:
 
 #### Art. 5
 
-**Ordre de priorité pour les voyages de service et les transports**
+[^5-1]
 
-Les voyages de service et les transports doivent répondre en premier lieu à des principes écologiques et économiques. S’applique à cet effet l’ordre de priorité suivant:
-
-- 1\. utilisation de moyens de transport et de circulation publics;
-- 2\. utilisation de véhicules de la Confédération;
-- 3\. utilisation de véhicules en prêt et de véhicules de location;
-- 4\. pour des distances jusqu’à environ 150 km, utilisation des véhicules privés des employés pour autant qu’aucun véhicule du service concerné ne soit disponible.
+[^5-1]: Abrogé par le ch. I de l’O du 4 mai 2022, avec effet au 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
 
 #### Art. 6
 
@@ -162,25 +157,23 @@ Tout service cité à l’art. 2, al. 1, qui utilise des véhicules de la Confé
 
 **Remise de véhicules militaires**
 
-<sup>1</sup> La BLA peut remettre des véhicules militaires aux services cités à l’art. 2, al. 1, ainsi qu’à des tiers, dans la mesure où ces véhicules et leurs équipements satisfont aux prescriptions et aux exigences techniques en vigueur pour les véhicules civils. Ces conditions ne s’appliquent pas à la remise de véhicules à des unités administratives du Groupement Défense et d’armasuisse.[^8-1]
+<sup>1</sup> Des véhicules militaires peuvent être remis aux services cités à l’art. 2, al. 1, ainsi qu’à des tiers, dans la mesure où ces véhicules et leurs équipements satisfont aux prescriptions et aux exigences techniques en vigueur pour les véhicules civils. Ces conditions ne s’appliquent pas à la remise de véhicules à des unités administratives du Groupement Défense et d’armasuisse.[^8-1]
 
-<sup>2</sup> Si la remise à des services externes au Groupement Défense et à armasuisse dépasse 30 jours, lesdits services doivent munir les véhicules militaires de plaques de contrôle civiles cantonales. Le chef de la Base logistique de l’armée peut autoriser la remise à des tiers de véhicules militaires munis de plaques de contrôle militaires pour une durée supérieure à 30 jours à condition qu’il y ait un accord écrit et qu’il existe un lien intrinsèque avec l’exécution des tâches de la Confédération.[^8-2]
+<sup>1bis</sup> Le service qui remet des véhicules informe les conducteurs de leurs obligations conformément à la présente ordonnance et édicte les directives concernant l’utilisation des véhicules. Lorsque des véhicules militaires sont remis à des tiers, les obligations de leurs conducteurs et les prescriptions concernant l’utilisation des véhicules doivent être fixées dans un accord écrit.[^8-2]
+
+<sup>2</sup> Si la remise à des services externes au Groupement Défense et à armasuisse dépasse 30 jours, lesdits services doivent munir les véhicules militaires de plaques de contrôle civiles cantonales. Le chef de la Base logistique de l’armée peut autoriser la remise à des tiers de véhicules militaires munis de plaques de contrôle militaires pour une durée supérieure à 30 jours à condition qu’il y ait un accord écrit et qu’il existe un lien intrinsèque avec l’exécution des tâches de la Confédération.[^8-3]
 
 <sup>3</sup> La remise de véhicules de combat et de systèmes au contenu sensible ou classifié requiert l’autorisation préalable du chef de l’armée.
 
-[^8-1]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1871](https://fedlex.data.admin.ch/eli/oc/2013/408)).
-[^8-2]: Nouvelle teneur selon le ch. III de l’O du 13 fév. 2019, en vigueur depuis le 15 mars 2019 ([RO 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
+[^8-2]: Introduit par le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
+[^8-3]: Nouvelle teneur selon le ch. III de l’O du 13 fév. 2019, en vigueur depuis le 15 mars 2019 ([RO 2019 771](https://fedlex.data.admin.ch/eli/oc/2019/138)).
 
 #### Art. 9
 
-**Transport de marchandises dangereuses**[^9-1]
+[^9-1]
 
-<sup>1</sup> Un certificat de formation ADR valide est requis pour le transport, avec des véhicules de la Confédération, de marchandises dangereuses au-delà de la limite libre selon la sous-section 1.1.3.6 ADR[^9-2].
-
-<sup>2</sup> La formation visée au chapitre 1.3 et à la section 8.2.3 ADR suffit pour le transport de marchandises dangereuses en deçà de la limite libre avec des véhicules de la Confédération.
-
-[^9-1]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1871](https://fedlex.data.admin.ch/eli/oc/2013/408)).
-[^9-2]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^9-1]: Abrogé par le ch. I de l’O du 4 mai 2022, avec effet au 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
 
 #### Art. 10
 
@@ -215,24 +208,19 @@ Le conducteur est tenu de contrôler ou de faire contrôler l’état de marche 
 
 #### Art. 13
 
-**Carburant**
+**Énergie motrice**[^13-1]
 
-<sup>1</sup> Les carburants destinés aux véhicules de la Confédération sont fournis par les stations d’essence de la Confédération indiquées sur la liste de la BLA ou par des stations d’essence civiles qui ont conclu un contrat avec la Confédération (stations d’essence contractantes).[^13-1]
+<sup>1</sup> L’énergie motrice destinée aux véhicules de la Confédération est fournie par les stations d’essence et les stations de recharge de la Confédération ou par des stations d’essence et des stations de recharge contractantes.
 
-<sup>2</sup> La carte de ravitaillement en carburants de la Confédération est utilisée pour tout approvisionnement en carburants.
+<sup>2</sup> Si l’énergie motrice ne peut pas être prélevée auprès d’une station d’essence ou d’une station de recharge citée à l’al. 1, les dépenses peuvent alors être recouvrées auprès du service compétent cité à l’art. 2, al. 1.
 
-<sup>3</sup> Si le carburant ne peut pas être prélevé auprès d’une station d’essence de la Confédération ou d’une station d’essence contractante, les dépenses concernant le carburant prélevé aux stations d’essence civiles en Suisse peuvent alors être recouvrées auprès du service compétent cité à l’art. 2, al. 1. Le prix du remboursement suit les prix moyens fixés par la BLA pour les stations d’essence appartenant à la Confédération.[^13-2]
+<sup>3</sup> Les prélèvements d’énergie motrice à l’étranger sont remboursés entièrement par le service compétent cité à l’art. 2, al. 1. La base de calcul est le cours de change valable pendant la période d’utilisation.
 
-<sup>4</sup> Les prélèvements de carburant à l’étranger sont remboursés entièrement par le service compétent cité à l’art. 2, al. 1. La base de calcul est le cours de change valable pendant la période d’utilisation.
+<sup>4</sup> Les services cités à l’art. 2, al. 1, contrôlent la consommation d’énergie motrice.
 
-<sup>5</sup> Les services mentionnés à l’art. 2, al. 1, contrôlent la consommation de carburant.[^13-3]
+<sup>5</sup> L’énergie motrice destinée aux véhicules privés utilisés pour les besoins du service ne doit pas être prélevée aux stations d’essence de la Confédération.
 
-<sup>6</sup> Le carburant destiné aux véhicules privés utilisés pour les besoins du service ne doit pas être prélevé aux stations d’essence de la Confédération.[^13-4]
-
-[^13-1]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1871](https://fedlex.data.admin.ch/eli/oc/2013/408)).
-[^13-2]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1871](https://fedlex.data.admin.ch/eli/oc/2013/408)).
-[^13-3]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1871](https://fedlex.data.admin.ch/eli/oc/2013/408)).
-[^13-4]: Introduit par le ch. III 1 de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
 
 ## Section 3 Engagement de véhicules officiels et de véhicules de protection particulière****
 
@@ -262,24 +250,28 @@ Lorsque des missions officielles l’exigent, des véhicules officiels avec chau
 - d. les anciens membres du Conseil fédéral ou les membres des directions d’offices, pour autant qu’ils soient engagés sur ordre du Conseil fédéral;
 - e. les femmes ou hommes d’État étrangers, les organes de direction d’organisations internationales ainsi que les officiers étrangers ayant le rang de général en visite officielle en Suisse.
 
-<sup>3</sup> Des véhicules de protection particulière sont mis à disposition pour le transport des personnes visées à l’art. 6, al. 1, de l’ordonnance du 27 juin 2001 sur la sécurité relevant de la compétence fédérale[^14-2], dans la mesure où la protection de ces personnes l’exige.[^14-3]
+<sup>3</sup> Des véhicules de protection particulière sont mis à disposition pour le transport des personnes visées à l’art. 6 de l’ordonnance du 24 juin 2020 sur la protection des personnes et des bâtiments relevant de la compétence fédérale[^14-2], dans la mesure où la protection de ces personnes l’exige.[^14-3]
 
 <sup>4</sup> ...[^14-4]
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 1<sup>er</sup> mars 2016 ([RO 2016 399](https://fedlex.data.admin.ch/eli/oc/2016/60)).
 [^14-2]: [RS 120.72](https://fedlex.data.admin.ch/eli/cc/2020/546)
-[^14-3]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 1<sup>er</sup> mars 2016 ([RO 2016 399](https://fedlex.data.admin.ch/eli/oc/2016/60)).
+[^14-3]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
 [^14-4]: Abrogé par le ch. I de l’O du 13 janv. 2016, avec effet au 1<sup>er</sup> mars 2016 ([RO 2016 399](https://fedlex.data.admin.ch/eli/oc/2016/60)).
 
 #### Art. 14a
 
 **Demande de transport**[^14a-1]
 
-<sup>1</sup> Les départements désignent dans leur domaine de compétence les services qui peuvent annoncer au poste d’engagement les demandes de transport à bord de véhicules officiels.
+<sup>1</sup> Les services cités à l’art. 2, al. 1, désignent dans leur domaine de compétence les services qui peuvent annoncer aux postes d’engagement les demandes de transport à bord de véhicules officiels.
 
-<sup>2</sup> Les demandes de transports visant à protéger des personnes conformément à l’art. 14, al. 3, doivent être adressées au Service fédéral de sécurité. Ce dernier décide de l’engagement des véhicules de protection particulière après avoir consulté le service compétent au sein de l’État-major de conduite de l’armée.
+<sup>2</sup> Les demandes de transport à bord de véhicules officiels sans besoin de sécurité doivent être adressées au poste d’engagement des transports officiels de la Confédération.
 
-[^14a-1]: Introduit par le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 1<sup>er</sup> mars 2016 ([RO 2016 399](https://fedlex.data.admin.ch/eli/oc/2016/60)).
+<sup>3</sup> Les demandes de transport à bord de véhicules officiels avec besoin de sécurité doivent être adressées au poste d’engagement des transports de sécurité de la Confédération.
+
+<sup>4</sup> Les demandes de transport visant à protéger des personnes conformément à l’art. 14, al. 3, doivent être adressées au Service fédéral de sécurité. Se fondant sur une analyse des dangers, celui-ci décide de l’engagement des véhicules de protection particulière après avoir consulté le poste d’engagement des transports de sécurité de la Confédération.
+
+[^14a-1]: Introduit par le ch. I de l’O du 13 janv. 2016 ([RO 2016 399](https://fedlex.data.admin.ch/eli/oc/2016/60)). Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
 
 #### Art. 15
 
@@ -323,24 +315,23 @@ La Chancellerie fédérale assure la surveillance en collaboration avec la Conf�
 
 <sup>1</sup> Le poste d’engagement est responsable de la formation des conducteurs.[^17-1]
 
-<sup>1bis</sup> Les employés de la Confédération ne peuvent être instruits sur des véhicules de la Confédération qu’avec l’assentiment du département ou d’un autre service responsable.[^17-2]
+<sup>1bis</sup> Les employés des services cités à l’art. 2, al. 1, ne peuvent être instruits sur des véhicules de la Confédération qu’avec l’assentiment du service responsable.[^17-2]
 
 <sup>2</sup> Cet assentiment n’est pas nécessaire pour l’instruction d’apprentis; les accords convenus selon le contrat d’apprentissage sont applicables.
 
-<sup>3</sup> Les employés de la Confédération ne peuvent être instruits comme conducteur aux frais de la Confédération que pour les besoins impérieux du service.
+<sup>3</sup> Les employés des services cités à l’art. 2, al. 1, ne peuvent être instruits comme conducteur aux frais de la Confédération que pour les besoins impérieux du service.[^17-3]
 
 <sup>4</sup> Si les employés doivent conduire des véhicules de la Confédération pour les besoins du service, la Confédération prend à sa charge les frais relatifs au permis et aux examens cantonaux ainsi que les frais des visites médicales et des contrôles.
 
 [^17-1]: Introduit par le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 1<sup>er</sup> mars 2016 ([RO 2016 399](https://fedlex.data.admin.ch/eli/oc/2016/60)).
-[^17-2]: Anciennement al. 1
+[^17-2]: Anciennement al. 1. Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
+[^17-3]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
 
 #### Art. 18
 
-**Participation aux frais et remboursement**
+[^18-1]
 
-<sup>1</sup> Les employés de la Confédération doivent participer dans une mesure équitable aux frais d’instruction à la conduite de motocyclettes (cat. A1 et A) et de voitures de tourisme (cat. B). Le montant doit être réglé dans les contrats d’engagement. Les accords convenus selon le contrat d’apprentissage s’appliquent pour l’instruction d’apprentis.
-
-<sup>2</sup> La personne qui a été instruite sur des voitures automobiles de la catégorie C1, C, D1 ou D doit rembourser proportionnellement les frais d’instruction si elle rompt ses rapports de travail avec la Confédération avant l’expiration d’un délai de quatre ans après la fin de l’instruction.
+[^18-1]: Abrogé par le ch. I de l’O du 4 mai 2022, avec effet au 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
 
 ## Section 5 Accidents de la circulation
 
@@ -377,12 +368,13 @@ Outre les dispositions de l’art. 51 LCR, il faut faire appel à la police si, 
 
 <sup>1</sup> Le règlement des dommages se fait par le Centre de dommages du DDPS. En cas d’utilisation autorisée d’un véhicule privé à des fins de service, le règlement des dommages s’effectue au préalable par l’assurance automobile privée.[^21-1]
 
-<sup>2</sup> Le Centre de dommages du DDPS statue en première instance à l’égard des employés de la Confédération sur les recours et la participation aux frais découlant de sinistres en rapport avec des véhicules de la Confédération.[^21-2]
+<sup>2</sup> Le Centre de dommages du DDPS statue en première instance à l’égard des employés des services cités à l’art. 2, al. 1, sur les recours et les participations aux frais découlant de sinistres en rapport avec des véhicules de la Confédération.[^21-2]
 
-<sup>3</sup> Les conducteurs de la Confédération ne doivent signer aucune reconnaissance de responsabilité.
+<sup>3</sup> Les conducteurs de véhicules de la Confédération ne doivent signer aucune reconnaissance de responsabilité.[^21-3]
 
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1871](https://fedlex.data.admin.ch/eli/oc/2013/408)).
-[^21-2]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1871](https://fedlex.data.admin.ch/eli/oc/2013/408)).
+[^21-2]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
+[^21-3]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
 
 #### Art. 21a
 
@@ -413,34 +405,32 @@ Outre les dispositions de l’art. 51 LCR, il faut faire appel à la police si, 
 
 **Acquisition de véhicules de l’administration**[^23-1]
 
-<sup>1</sup> Les services cités à l’art. 2, al. 1, commandent les véhicules de l’administration à acquérir auprès d’armasuisse. Les coûts d’acquisition sont imputés aux crédits des services concernés.
+<sup>1</sup> Les services cités à l’art. 2, al. 1, let. a, commandent auprès d’armasuisse les véhicules de l’administration à acquérir. Les coûts d’acquisition sont imputés aux crédits des services concernés.[^23-2]
 
 <sup>2</sup> Si la location ou le leasing de véhicules se révèlent économiquement et écologiquement plus judicieux, il faut préférer ces types d’acquisition à l’achat du véhicule.
 
-<sup>3</sup> Les véhicules doivent être choisis selon des critères économiques et écologiques, notamment selon le principe du rendement énergétique. Les services cités à l’art. 2, al. 1, doivent justifier la commande de véhicules pourvus d’étiquettes-énergie des classes C et D. L’acquisition de véhicules pourvus d’étiquettes-énergie des classes E, F et G (annexe 4 de l’ordonnance du 1<sup>er</sup> novembre 2017 sur les exigences relatives à l’efficacité énergétique[^23-2]) est interdite. Les secrétariats généraux compétents des services cités à l’art. 2, al. 1, se prononcent sur les exceptions.[^23-3]
+<sup>3</sup> Les véhicules destinés aux services cités à l’art. 2, al. 1, let. a, doivent être choisis selon des critères économiques et écologiques, notamment selon le principe du rendement énergétique. Lors de nouvelles acquisitions, le choix doit se porter en principe sur des véhicules dont la technologie est aussi neutre que possible en termes d’émissions de CO<sub>2</sub>.[^23-3]
 
 <sup>4</sup> L’acquisition de véhicules personnels de service est régie par l’art. 71 de l’ordonnance du 3 juillet 2001 sur le personnel de la Confédération[^23-4].
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 22 fév. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 793](https://fedlex.data.admin.ch/eli/oc/2006/118)).
-[^23-2]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
-[^23-3]: Nouvelle teneur selon le ch. I 2 de l’annexe 5 à l’O du 1<sup>er</sup> nov. 2017 sur les exigences relatives à l’efficacité énergétique, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6951](https://fedlex.data.admin.ch/eli/oc/2017/765)).
+[^23-2]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
+[^23-3]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
 [^23-4]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 #### Art. 24
 
-**Immatriculation et contrôle de véhicules de l’administration**
+**Immatriculation et contrôle de véhicules de l’administration**[^24-1]
 
 <sup>1</sup> Les véhicules de l’administration sont immatriculés avec des plaques de contrôle cantonales.
 
-<sup>2</sup> L’OCRNA est responsable de la première immatriculation de tous les véhicules de l’administration. Il saisit les données de base, établit les documents d’immatriculation nécessaires et transmet ces derniers au service cité à l’art. 2, al. 1, en vue de l’immatriculation des véhicules auprès des autorités d’immatriculation compétentes du canton de stationnement.
+<sup>2</sup> Les documents nécessaires à l’immatriculation sont transmis par le service cité à l’art. 2, al. 1, aux autorités d’immatriculation du canton de stationnement. Sur ordre dudit service, le Centre de dommages du DDPS établit l’attestation d’assurance et la remet directement aux autorités cantonales d’immatriculation.
 
-<sup>3</sup> Après la première immatriculation, toutes les autres mutations sont effectuées par l’office cité à l’art. 2, al. 1, directement auprès des autorités cantonales d’immatriculation.
+<sup>3</sup> Le service cité à l’art. 2, al. 1, effectue toutes les mutations directement auprès des autorités cantonales d’immatriculation.
 
-<sup>4</sup> Les frais pour la première immatriculation et toutes les autres mutations effectuées auprès des autorités cantonales d’immatriculation sont à la charge du service concerné mentionné à l’art. 2, al. 1.[^24-1]
+<sup>4</sup> Il supporte les frais pour l’immatriculation et les mutations effectuées auprès des autorités cantonales d’immatriculation.
 
-<sup>5</sup> Pour les véhicules de l’administration immatriculés sur le plan cantonal, le canton de stationnement est responsable du contrôle individuel précédant la première immatriculation ainsi que du contrôle périodique et du contrôle extraordinaire.
-
-[^24-1]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1871](https://fedlex.data.admin.ch/eli/oc/2013/408)).
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
 
 #### Art. 25
 
@@ -448,9 +438,10 @@ Outre les dispositions de l’art. 51 LCR, il faut faire appel à la police si, 
 
 <sup>1</sup> Les services cités à l’art. 2, al. 1, sont responsables de l’entretien de leurs véhicules de l’administration. Ils mandatent les agences officielles pour les travaux d’entretien. Les crédits d’entretien doivent être inscrits au budget du service concerné.[^25-1]
 
-<sup>2</sup> Les exploitations logistiques de la BLA ne fournissent en principe aucune prestation aux services civils cités à l’art. 2, al. 1. Dans des cas motivés ou pour les véhicules disposant d’un équipement sensible ou classifié, elles peuvent autoriser des exceptions.
+<sup>2</sup> Les exploitations logistiques de la BLA ne fournissent en principe aucune prestation aux services civils cités à l’art. 2, al. 1. Dans des cas motivés ou pour les véhicules disposant d’un équipement sensible ou classifié, le chef de la BLA peut autoriser des exceptions.[^25-2]
 
 [^25-1]: Nouvelle teneur selon le ch. I de l’O du 22 fév. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 793](https://fedlex.data.admin.ch/eli/oc/2006/118)).
+[^25-2]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
 
 #### Art. 26
 
@@ -472,21 +463,23 @@ Les cyclomoteurs sont immatriculés par l’OCRNA avec des plaques de contrôle 
 
 #### Art. 28
 
-**Véhicules militaires**
+**Immatriculation avec des plaques de contrôle militaires**[^28-1]
 
-<sup>1</sup> Les véhicules militaires et les véhicules du Corps des gardes-frontière, des autorités de visite douanière, du Service de renseignement de la Confédération ainsi que d’armasuisse sont immatriculés par l’OCRNA avec des plaques de contrôle militaires.[^28-1]
+<sup>1</sup> Les véhicules militaires, les véhicules du Service de renseignement de la Confédération et ceux d’armasuisse sont immatriculés par l’OCRNA avec des plaques de contrôle militaires.
 
-<sup>2</sup> La BLA est responsable de l’examen des véhicules équipés de plaques de contrôle militaires. Elle édicte les directives requises.
+<sup>2</sup> L’OCRNA est responsable de l’examen des véhicules équipés de plaques de contrôle militaires. Il édicte les directives requises.
 
-[^28-1]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1871](https://fedlex.data.admin.ch/eli/oc/2013/408)).
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
 
 ## Section 7 Dispositions finales
 
 #### Art. 29
 
-**Disposition transitoire**
+**Disposition transitoire**[^29-1]
 
-Les véhicules de l’administration doivent être annoncés d’ici au 1<sup>er</sup> octobre 2005 auprès de l’autorité d’immatriculation du canton de stationnement avec le permis de circulation. Ils peuvent être conduits avec les permis de circulation et les plaques de contrôle actuels jusqu’à l’immatriculation cantonale.
+Les véhicules du Corps des gardes-frontière et des autorités de visite douanière peuvent encore être conduits jusqu’au 31 décembre 2023 au plus tard avec des permis de circulation militaires et des plaques de contrôle militaires.
+
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 305](https://fedlex.data.admin.ch/eli/oc/2022/305)).
 
 #### Art. 30
 
@@ -525,10 +518,10 @@ Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
 ...[^annexu1-lvlu1-7]
 
-[^annexu1-lvlu1-1]: [[RO 1971 399](https://fedlex.data.admin.ch/eli/oc/1971/399_399_399), [1983 627](https://fedlex.data.admin.ch/eli/oc/1983/627_627_627)art. 88 ch. 2, [1985 907](https://fedlex.data.admin.ch/eli/oc/1985/907_907_907), [1989 937](https://fedlex.data.admin.ch/eli/oc/1989/937_937_937), [1990 1838](https://fedlex.data.admin.ch/eli/oc/1990/1838_1838_1838)art. 8, [1994 2211](https://fedlex.data.admin.ch/eli/oc/1994/2211_2211_2211)art. 63 ch. 2, [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 ch. 16, [1999 891](https://fedlex.data.admin.ch/eli/oc/1999/131)]
-[^annexu1-lvlu1-2]: [[RO 1978 1982](https://fedlex.data.admin.ch/eli/oc/1978/1982_1982_1982), [1994 1667](https://fedlex.data.admin.ch/eli/oc/1994/1667_1667_1667)]
-[^annexu1-lvlu1-3]: [[RO 1990 1838](https://fedlex.data.admin.ch/eli/oc/1990/1838_1838_1838)[2002](https://fedlex.data.admin.ch/eli/oc/1990/2002_2002_2002), [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)ch. II 7, [2000 198](https://fedlex.data.admin.ch/eli/oc/2000/35)art. 32 ch. 2]
-[^annexu1-lvlu1-4]: [[RO 1979 61](https://fedlex.data.admin.ch/eli/oc/1979/61_61_61), [1985 254](https://fedlex.data.admin.ch/eli/oc/1985/254_254_254), [1988 565](https://fedlex.data.admin.ch/eli/oc/1988/565_565_565), [1990 16](https://fedlex.data.admin.ch/eli/oc/1990/16_16_16)]
-[^annexu1-lvlu1-5]: [[RO 1949 1701](https://fedlex.data.admin.ch/eli/oc/1949/1601_1701_1632), [1953 154](https://fedlex.data.admin.ch/eli/oc/1953/154_154_153), [1971 359](https://fedlex.data.admin.ch/eli/oc/1971/359_359_359)]
+[^annexu1-lvlu1-1]: [[RO 1971 399](https://fedlex.data.admin.ch/eli/oc/1971/399_399_399); [1983 627](https://fedlex.data.admin.ch/eli/oc/1983/627_627_627)art. 88 ch. 2; [1985 907](https://fedlex.data.admin.ch/eli/oc/1985/907_907_907); [1989 937](https://fedlex.data.admin.ch/eli/oc/1989/937_937_937); [1990 1838](https://fedlex.data.admin.ch/eli/oc/1990/1838_1838_1838)art. 8; [1994 2211](https://fedlex.data.admin.ch/eli/oc/1994/2211_2211_2211)art. 63 ch. 2; [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 ch. 16; [1999 891](https://fedlex.data.admin.ch/eli/oc/1999/131)]
+[^annexu1-lvlu1-2]: [[RO 1978 1982](https://fedlex.data.admin.ch/eli/oc/1978/1982_1982_1982); [1994 1667](https://fedlex.data.admin.ch/eli/oc/1994/1667_1667_1667)]
+[^annexu1-lvlu1-3]: [[RO 1990 1838](https://fedlex.data.admin.ch/eli/oc/1990/1838_1838_1838),[2002](https://fedlex.data.admin.ch/eli/oc/1990/2002_2002_2002); [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)ch. II 7; [2000 198](https://fedlex.data.admin.ch/eli/oc/2000/35)art. 32 ch. 2]
+[^annexu1-lvlu1-4]: [[RO 1979 61](https://fedlex.data.admin.ch/eli/oc/1979/61_61_61); [1985 254](https://fedlex.data.admin.ch/eli/oc/1985/254_254_254); [1988 565](https://fedlex.data.admin.ch/eli/oc/1988/565_565_565); [1990 16](https://fedlex.data.admin.ch/eli/oc/1990/16_16_16)]
+[^annexu1-lvlu1-5]: [[RO 1949 1701](https://fedlex.data.admin.ch/eli/oc/1949/1601_1701_1632); [1953 154](https://fedlex.data.admin.ch/eli/oc/1953/154_154_153); [1971 359](https://fedlex.data.admin.ch/eli/oc/1971/359_359_359)]
 [^annexu1-lvlu1-6]: [[RO 1967 94](https://fedlex.data.admin.ch/eli/oc/1967/86_94_88)]
 [^annexu1-lvlu1-7]: Les mod. peuvent être consultées au [RO 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163).
