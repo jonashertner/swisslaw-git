@@ -4,11 +4,11 @@ title: Organisationsverordnung vom 17. November 1999 für das Eidgenössische Ju
 short: OV-EJPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/57"
 language: de
-version: 2021-01-01
+version: 2022-06-01
 adopted: 1999-11-17
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2000-57-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2000-57-20220601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20210101/de"
 
 (OV-EJPD)
 
-vom 17. November 1999 (Stand am 1. Januar 2021)
+vom 17. November 1999 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -50,7 +50,7 @@ Die Schwerpunkte der Departementstätigkeiten sind:
 - a. Rechtsetzung: Das Departement leitet die Rechtsetzungsvorhaben, die nicht dem Aufgabenbereich eines andern Departements oder der Bundeskanzlei zugeordnet sind. Es begleitet alle Rechtsetzungsvorhaben des Bundes.
 - b. Polizei und Sicherheit: Es erfüllt die präventiv- und gerichtspolizeilichen Aufgaben des Bundes und weitere zivile Sicherheitsaufgaben.
 - c. Migration: Es setzt die schweizerische Ausländer- und Asylpolitik um und koordiniert diese, in Absprache mit den mitinteressierten Departementen, mit der Migrationspolitik der europäischen Staaten.
-- d.[^1-2] ...
+- d.[^1-2] …
 - e.[^1-3] Wirtschaftsordnung: Es erarbeitet, soweit notwendig in Absprache mit dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung (WBF)[^1-4], die privatrechtlichen Grundlagen in den Bereichen des Vertrags- und Unternehmensrechts sowie des geistigen Eigentums.
 - f.[^1-5] Messwesen: Es erarbeitet die metrologischen Grundlagen und überwacht den Vollzug in den Kantonen.
 
@@ -77,7 +77,7 @@ Das Departement beachtet bei der Verfolgung seiner Ziele und Tätigkeiten neben 
 Das Departement entscheidet über:
 
 - a. die gerichtliche Verfolgung politischer Delikte; in Fällen, welche die Beziehungen zum Ausland betreffen, entscheidet es nach Rücksprache mit dem Eidgenössischen Departement für auswärtige Angelegenheiten (EDA); Fälle von besonderer Bedeutung kann es dem Bundesrat vorlegen;
-- b.[^3-1] ...
+- b.[^3-1] …
 
 [^3-1]: Aufgehoben durch Ziff. I der V vom 19. Dez. 2003, mit Wirkung seit 1. Febr. 2004 ([AS 2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)).
 
@@ -99,9 +99,9 @@ Das Generalsekretariat übt die Funktionen nach Artikel 42 RVOG aus und nimmt fo
 - f. Es organisiert eine effiziente Logistik des Departements, stellt Logistikfunktionen bereit und erbringt departementsinterne und gesamtschweizerische Informatikdienstleistungen.
 - g. Es instruiert Beschwerden gegen Ämter des Departements.
 
-<sup>2</sup> ...[^4-1]
+<sup>2</sup> …[^4-1]
 
-<sup>3</sup> ...[^4-2]
+<sup>3</sup> …[^4-2]
 
 <sup>4</sup> Dem Generalsekretariat administrativ zugeordnet sind die Kommission zur Verhütung von Folter und deren Sekretariat. Die Kommissionsmitglieder haben Anspruch auf Ersatz ihrer Auslagen und auf eine Entschädigung. Für deren Bemessung gilt sinngemäss die Verordnung vom 3. Juni 1996[^4-3] über ausserparlamentarische Kommissionen sowie Leitungsorgane und Vertretungen des Bundes.[^4-4]
 
@@ -250,7 +250,7 @@ Das Bundesamt für Polizei (fedpol) ist die polizeiliche Fachbehörde des Bundes
 
 Zur Verfolgung dieser Ziele nimmt fedpol folgende Funktionen wahr:
 
-- a.[^9-4] ...
+- a.[^9-4] …
 - b.[^9-5] Es erstellt Kriminalanalysen.
 - c. Es ist die Gerichtspolizeibehörde des Bundes.
 - d. Es koordiniert und unterstützt interkantonale und internationale Ermittlungen.
@@ -280,10 +280,10 @@ Fedpol führt:
   folgende Zentralstellen:
 
   - 1\.[^10-1] Waffen,
-  - 2\. und 3.[^10-2] ...
+  - 2\. und 3.[^10-2] …
   - 4\. Sprengstoff und Pyrotechnik;
 
-- b.[^10-3] ...
+- b.[^10-3] …
 - c. das Nationale Zentralbüro INTERPOL;
 - d.[^10-4] die nationale EUROPOL-Kontaktstelle;
 - e.[^10-5] die Alarmzentrale zur Entgegennahme von Meldungen und Alarmen aus den zivilen Gebäuden des Bundes, während sieben Tagen in der Woche rund um die Uhr;
@@ -300,7 +300,7 @@ Fedpol führt:
 
 <sup>5</sup> Es erstellt das Anforderungsprofil für die Sicherheitsbeauftragten für den Luftverkehr, leitet ihre Ausbildung und ist für ihren Einsatz verantwortlich. Es erstellt Risiko- und Bedrohungsanalysen im Zusammenhang mit ihrem Einsatz.[^10-13]
 
-<sup>6</sup> ...[^10-14]
+<sup>6</sup> …[^10-14]
 
 <sup>7</sup> Es sorgt für die ständige Einsatzbereitschaft des Sonderstabes Geiselnahme und Erpressung und führt den Kernstab im Einsatzfall.
 
@@ -314,7 +314,7 @@ Fedpol führt:
 
 <sup>12</sup> Es ist, im Einvernehmen mit dem EDA, für die Entsendung, den Einsatz und die Führung von Polizeiverbindungsleuten zuständig. Die Weisungsbefugnis der Missionschefin oder des Missionschefs bleibt vorbehalten.[^10-20]
 
-<sup>13</sup> ...[^10-21]
+<sup>13</sup> …[^10-21]
 
 <sup>14</sup> Es übt die Aufsicht aus über die forensischen DNA-Analyselabors sowie über Laboratorien, die DNA-Profile im zivilen und administrativen Bereich erstellen.[^10-22]
 
@@ -350,7 +350,7 @@ Fedpol führt:
 
 <sup>1</sup> Fedpol ist zuständig für die Verhängung von Einreiseverboten gegenüber Ausländerinnen und Ausländern, welche die innere oder äussere Sicherheit der Schweiz gefährden; es hört den Nachrichtendienst des Bundes (NDB) vorgängig an. Politisch bedeutsame Fälle sowie Anträge auf Ausweisung aus der Schweiz nach Artikel 121 Absatz 2 der Bundesverfassung[^11-1] legt es nach Rücksprache mit dem EDA und dem NDB dem Departement vor; dieses kann sie dem Bundesrat zum Entscheid unterbreiten.[^11-2]
 
-<sup>2</sup> ...[^11-3]
+<sup>2</sup> …[^11-3]
 
 <sup>3</sup> Es ist die verfügende Behörde für im Ausland beantragte Ausweise gemäss Ausweisgesetz vom 22. Juni 2001[^11-4].
 
@@ -373,7 +373,10 @@ Fedpol führt:
 
 <sup>2</sup> Der Bundesrat vereinbart mit den Kantonen die Einzelheiten der Zusammenarbeit nach Absatz 1, insbesondere zur Aufgabenwahrnehmung, Organisation und Finanzierung.
 
+<sup>3</sup> Fedpol kann zur Erfüllung seiner gesetzlichen Aufgaben mit den kantonalen Strafverfolgungsbehörden Vereinbarungen operativer, technischer und administrativer Natur selbstständig abschliessen.[^11a-2]
+
 [^11a-1]: Eingefügt durch Ziff. I der V vom 2. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1241](https://fedlex.data.admin.ch/eli/oc/2018/198)).
+[^11a-2]: Eingefügt durch Ziff. I 6 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ### 5. Abschnitt:**** Staatssekretariat für Migration****
 
@@ -454,7 +457,7 @@ Zur Verfolgung der Ziele nach Absatz 1 im Asyl- und Flüchtlingsbereich nimmt da
 
 [^14-1]: Fassung gemäss Ziff. II 10 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, in Kraft seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
-### 6. Abschnitt: ...
+### 6. Abschnitt: …
 
 #### Art. 15–16
 
@@ -462,7 +465,7 @@ Zur Verfolgung der Ziele nach Absatz 1 im Asyl- und Flüchtlingsbereich nimmt da
 
 [^1516-1]: Aufgehoben durch Ziff. II 2 der V vom 25. Juni 2003, mit Wirkung seit 1. Juli 2003 ([AS 2003 2122](https://fedlex.data.admin.ch/eli/oc/2003/311)).
 
-### 7. Abschnitt: ...
+### 7. Abschnitt: …
 
 #### Art. 17–18
 
@@ -470,7 +473,7 @@ Zur Verfolgung der Ziele nach Absatz 1 im Asyl- und Flüchtlingsbereich nimmt da
 
 [^1718-1]: Aufgehoben durch Ziff. I der V vom 28. Juni 2000, mit Wirkung seit 1. Juli 2000 ([AS 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
 
-### 8. Abschnitt: ...
+### 8. Abschnitt: …
 
 #### Art. 19–21
 
@@ -478,7 +481,7 @@ Zur Verfolgung der Ziele nach Absatz 1 im Asyl- und Flüchtlingsbereich nimmt da
 
 [^1921-1]: Aufgehoben durch Anhang Ziff. 3 der V vom 21. Nov. 2012 über das Eidgenössische Institut für Metrologie, mit Wirkung seit 1. Jan. 2013 ([AS 2012 6887](https://fedlex.data.admin.ch/eli/oc/2012/832)).
 
-### 9. Abschnitt: ...
+### 9. Abschnitt: …
 
 #### Art. 22–24
 
@@ -621,7 +624,7 @@ II
 
 Die nachfolgenden Erlasse werden wie folgt geändert:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 1977 1549](https://fedlex.data.admin.ch/eli/oc/1977/1549_1549_1549)]
 [^annexu1-lvlu1-2]: Die Änd. können unter [AS 2000 291](https://fedlex.data.admin.ch/eli/oc/2000/57)konsultiert werden.

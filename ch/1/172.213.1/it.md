@@ -4,11 +4,11 @@ title: "Ordinanza del 17 novembre 1999 sull'organizzazione del Dipartimento fede
 short: Org-DFGP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/57"
 language: it
-version: 2021-01-01
+version: 2022-06-01
 adopted: 1999-11-17
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2000-57-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2000-57-20220601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20210101/it"
 
 (Org-DFGP)
 
-del 17 novembre 1999 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 17 novembre 1999 (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -372,7 +372,10 @@ Fedpol dirige:
 
 <sup>2</sup> Il Consiglio federale concorda con i Cantoni le modalità della collaborazione di cui al capoverso 1, in particolare per quanto concerne l’esecuzione dei compiti, l’organizzazione e il finanziamento.
 
+<sup>3</sup> Fedpol può concludere autonomamente convenzioni di natura operativa, tecnica e amministrativa con le autorità cantonali di perseguimento penale al fine di adempiere i suoi compiti legali.[^11a-2]
+
 [^11a-1]: Introdotto dal n. I dell’O del 2 mar. 2018, in vigore dal 15 apr. 2018 ([RU 2018 1241](https://fedlex.data.admin.ch/eli/oc/2018/198)).
+[^11a-2]: Introdotta dal n. I 6 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ### Sezione 5:**** Segreteria di Stato della migrazione****
 

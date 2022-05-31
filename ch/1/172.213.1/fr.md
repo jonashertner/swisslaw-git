@@ -4,11 +4,11 @@ title: "Ordonnance du 17 novembre 1999 sur l'organisation du Département fédé
 short: Org DFJP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/57"
 language: fr
-version: 2021-01-01
+version: 2022-06-01
 adopted: 1999-11-17
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-57-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2000-57-20220601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20210101/fr"
 
 (Org DFJP)
 
-du 17 novembre 1999 (Etat le 1<sup>er</sup> janvier 2021)
+du 17 novembre 1999 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -107,7 +107,7 @@ Outre les fonctions définies à l’art. 42 LOGA, le Secrétariat général exe
 
 [^4-1]: Introduit par l’art. 125 ch. 2 de l’O du 23 fév. 2000 sur les maisons de jeu ([RO 2000 766](https://fedlex.data.admin.ch/eli/oc/2000/129)). Abrogé par le ch. I de l’O du 27 oct. 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
 [^4-2]: Introduit par le ch. II 2 de l’O du 22 août 2007 ([RO 2007 3967](https://fedlex.data.admin.ch/eli/oc/2007/531)). Abrogé par le ch. I de l’O du 27 oct. 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
-[^4-3]: [[RO 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)**,** [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188)**,** [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819). [RO 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)ch. II 1]. Voir actuellement les art. 8*l* à 8*t* de l’O du 25 nov. 1998 sur l’organisation du gouvernement et de l’administration ([RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
+[^4-3]: [[RO 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)**;** **2000** 1157;[2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819). [RO 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)ch. II 1]. Voir actuellement les art. 8*l* à 8*t* de l’O du 25 nov. 1998 sur l’organisation du gouvernement et de l’administration ([RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
 [^4-4]: Introduit par le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5391](https://fedlex.data.admin.ch/eli/oc/2009/650)).
 
 ### Section 2 Dispositions communes aux offices
@@ -358,7 +358,7 @@ Fedpol gère:
 <sup>5</sup> Fedpol est responsable du séquestre et de la confiscation de matériel de propagande dont le contenu incite à la violence; il consulte préalablement le SRC.[^11-6]
 
 [^11-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^11-2]: Nouvelle teneur selon le ch. II 9 de l’annexe 4 à l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^11-2]: Nouvelle teneur selon l’annexe 4 ch. II 9 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 [^11-3]: Abrogé par le ch. I de l’O du 2 mars 2018, avec effet au 15 avr. 2018 ([RO 2018 1241](https://fedlex.data.admin.ch/eli/oc/2018/198)).
 [^11-4]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
 [^11-5]: Introduit par le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
@@ -372,7 +372,10 @@ Fedpol gère:
 
 <sup>2</sup> Le Conseil fédéral convient avec les cantons des modalités de la collaboration visée à l’al. 1, en particulier pour ce qui est de l’exécution des tâches, de l’organisation et du financement.
 
+<sup>3</sup> Fedpol peut conclure seul des conventions de nature opérationnelle, technique et administrative avec les autorités cantonales de poursuite pénale dans le cadre de l’accomplissement de ses tâches légales.[^11a-2]
+
 [^11a-1]: Introduit par le ch. I de l’O du 2 mars 2018, en vigueur depuis le 15 avr. 2018 ([RO 2018 1241](https://fedlex.data.admin.ch/eli/oc/2018/198)).
+[^11a-2]: Introduit par le ch. I 6 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ### Section 5**** Secrétariat d’État aux migrations****
 
