@@ -4,11 +4,11 @@ title: "Ordinanza del 18 agosto 2004 sui medicamenti per uso veterinario (Ordina
 short: OMvet
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/592"
 language: it
-version: 2022-01-28
+version: 2022-06-01
 adopted: 2004-08-18
 in_force: 2004-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20220128/it/xml/fedlex-data-admin-ch-eli-cc-2004-592-20220128-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220128/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2004-592-20220601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220128/it"
 
 (Ordinanza sui medicamenti veterinari, OMVet)
 
-del 18 agosto 2004 (Stato 28 gennaio 2022) (Stato 28 gennaio 2022)
+del 18 agosto 2004 (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -702,7 +702,7 @@ I titolari di farmacie veterinarie private o di altre aziende di commercio al de
 
 <sup>1</sup>
 
-Oltre a registrare i dati relativi ai controlli di cui all’articolo 31 capoverso 4, le competenti autorità cantonali inseriscono regolarmente nel sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione (ASAN) di cui all’ordinanza del 6 giugno 2014[^33-2] concernente i sistemi dʼinformazione per il servizio veterinario pubblico i seguenti dati:
+Oltre a registrare i dati relativi ai controlli di cui all’articolo 31, le competenti autorità cantonali inseriscono regolarmente i dati seguenti nel sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione di cui all’ordinanza del 27 aprile 2022[^33-2] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare:[^33-3]
 
 - a. le misure amministrative ordinate;
 - b. le denunce penali depositate.
@@ -711,6 +711,7 @@ Oltre a registrare i dati relativi ai controlli di cui all’articolo 31 capover
 
 [^33-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 [^33-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^33-3]: Nuovo testo giusta l’all. 4 n. II 2 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 34
 

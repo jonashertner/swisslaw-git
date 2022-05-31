@@ -4,11 +4,11 @@ title: Ordonnance du 18 août 2004 sur les médicaments vétérinaires (OMédV)
 short: OMédv
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/592"
 language: fr
-version: 2022-01-28
+version: 2022-06-01
 adopted: 2004-08-18
 in_force: 2004-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20220128/fr/xml/fedlex-data-admin-ch-eli-cc-2004-592-20220128-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220128/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2004-592-20220601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220128/fr"
 
 (OMédV)
 
-du 18 août 2004 (Etat le 28 janvier 2022)
+du 18 août 2004 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -703,7 +703,7 @@ Les gérants de pharmacies vétérinaires privées ou de commerces de détail ai
 
 <sup>1</sup>
 
-Outre la saisie des données de contrôle visée à l’art. 31, al. 4, les autorités cantonales compétentes saisissent régulièrement les données de contrôle ci-dessous dans le système d’information pour les données d’exécution du service vétérinaire public (ASAN) visé dans l’ordonnance du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public[^33-2]:
+Outre la saisie des données de contrôle visée à l’art. 31, les autorités cantonales compétentes saisissent régulièrement les données de contrôle ci-dessous dans le système d’information pour les données d’exécution du service vétérinaire public visé dans l’ordonnance du 27 avril 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire[^33-2]:[^33-3]
 
 - a. les mesures administratives ordonnées;
 - b. les plaintes pénales.
@@ -712,6 +712,7 @@ Outre la saisie des données de contrôle visée à l’art. 31, al. 4, les auto
 
 [^33-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 [^33-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^33-3]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 34
 

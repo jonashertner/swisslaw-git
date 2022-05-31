@@ -4,11 +4,11 @@ title: "Verordnung vom 18. August 2004 über die Tierarzneimittel (Tierarzneimit
 short: TAMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/592"
 language: de
-version: 2022-01-28
+version: 2022-06-01
 adopted: 2004-08-18
 in_force: 2004-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20220128/de/xml/fedlex-data-admin-ch-eli-cc-2004-592-20220128-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220128/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2004-592-20220601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220128/de"
 
 (Tierarzneimittelverordnung, TAMV)
 
-vom 18. August 2004 (Stand am 28. Januar 2022)
+vom 18. August 2004 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -705,7 +705,7 @@ Die Inhaberinnen und Inhaber tierärztlicher Privatapotheken oder anderer Detail
 
 <sup>1</sup>
 
-Ergänzend zur Erfassung der Kontrolldaten nach Artikel 31 Absatz 4 geben die zuständigen kantonalen Behörden regelmässig die folgenden Daten in das Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes (ASAN) nach der Verordnung vom 6. Juni 2014[^33-2] über Informationssysteme für den öffentlichen Veterinärdienst ein:
+Ergänzend zur Erfassung der Kontrolldaten nach Artikel 31 geben die zuständigen kantonalen Behörden regelmässig die folgenden Daten in das Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes nach der Verordnung vom 27. April 2022[^33-2] über Informationssysteme des BLV für die Lebensmittelkette ein:[^33-3]
 
 - a. die angeordneten Verwaltungsmassnahmen;
 - b. die erfolgten Strafanzeigen.
@@ -714,6 +714,7 @@ Ergänzend zur Erfassung der Kontrolldaten nach Artikel 31 Absatz 4 geben die zu
 
 [^33-1]: Fassung gemäss Ziff. I der V vom 11. März 2016, in Kraft seit 1. April 2016 ([AS 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 [^33-2]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^33-3]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 34
 
