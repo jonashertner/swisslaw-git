@@ -4,11 +4,11 @@ title: Verordnung vom 3. November 2021 über die Identitas AG und die Tierverkeh
 short: IdTVD-V
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: de
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-751-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2021-751-20220601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20220101/de"
 
 (IdTVD-V)
 
-vom 3. November 2021 (Stand am 1. Januar 2022)
+vom 3. November 2021 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -88,7 +88,7 @@ Die Identitas AG betreibt:
 
 Sie stellt die Infrastruktur und die Informatikdienstleistungen bereit für:
 
-- a. das Informationssystem für die Ergebnisse der Schlachttier- und Fleischuntersuchungen (Fleko) nach der Verordnung vom 6. Juni 2014[^3-1] über die Informationssysteme für den öffentlichen Veterinärdienst (ISVet-V);
+- a.[^3-1] das Informationssystem für die Ergebnisse der Schlachttier- und Fleischuntersuchungen (Fleko) nach der Verordnung vom 27. April 2022[^3-2] über Informationssysteme des BLV für die Lebensmittelkette (ISLK-V);
 - b. das Informationssystem für die Beprobung von Rindvieh im Schlachthof (Ribes).
 
 <sup>3</sup> Sie wartet die Informationssysteme nach den Absätzen 1 und 2, entwickelt diese weiter und löst sie bei Bedarf ab. Für die Benutzerinnen und Benutzer stellt sie einen fachlichen Support bereit.
@@ -99,14 +99,15 @@ Sie stellt die Infrastruktur und die Informatikdienstleistungen bereit für:
 
 Sie erbringt zudem die folgenden Aufgaben:
 
-- a. Sie stellt einen fachlichen Support für das zentrale Informationssystem zu Nährstoffverschiebungen (Hoduflu) nach Artikel 14 ISLV[^3-2] bereit.
+- a. Sie stellt einen fachlichen Support für das zentrale Informationssystem zu Nährstoffverschiebungen (Hoduflu) nach Artikel 14 ISLV[^3-3] bereit.
 - b. Sie stellt einen Support für das Login der Benutzerinnen und Benutzer ins Internetportal Agate bereit.
 - c. Sie liefert die Ohrmarken für Klauentiere.
 - d. Sie zahlt Beiträgen an die Kosten der Entsorgung von tierischen Nebenprodukten aus.
 - e. Sie vereinnahmt die Schlachtabgabe.
 
-[^3-1]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^3-2]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^3-1]: Fassung gemäss Anhang 4 Ziff. II 9 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^3-2]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^3-3]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 
 #### Art. 4
 
@@ -225,22 +226,24 @@ Die TVD kann folgende Daten aus anderen Informationssystemen beziehen:
 - a. aus dem Informationssystem für Betriebs-, Struktur- und Beitragsdaten nach den Artikeln 2–5 ISLV[^12-1]: die Daten zu den Tierhaltungen und zu den Tierhalterinnen und Tierhaltern nach den Artikeln 7 und 18*a* TSV[^12-2];
 - b.
 
-  aus dem Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes (ASAN) nach der ISVet-V[^12-3]:
+  aus dem Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes (ASAN) nach der ISLK-V[^12-3]:[^12-4]
 
   - 1\. bei Tieren der Rindergattung, Büffeln und Bisons sowie Tierhaltungen mit solchen Tieren: den Status in Bezug auf die Bovine Virus-Diarrhoe (BVD-Status) der Tiere und der Tierhaltungen,
   - 2\. bei Tierhaltungen mit Tieren der Schafgattung: den Moderhinkestatus einer Tierhaltung,
-  - 3\. die Information, ob die Anforderungen nach Artikel 36 Absatz 2 der Verordnung vom 25. Mai 2011[^12-4] über tierische Nebenprodukte erfüllt worden sind;
+  - 3\. die Information, ob die Anforderungen nach Artikel 36 Absatz 2 der Verordnung vom 25. Mai 2011[^12-5] über tierische Nebenprodukte erfüllt worden sind;
 
-- c. aus dem Informationssystem Antibiotika in der Veterinärmedizin nach der Verordnung vom 31. Oktober 2018[^12-5] über das Informationssystem Antibiotika in der Veterinärmedizin (ISABV-V): die Verbrauchsdaten der Tierhalterinnen und Tierhalter nach Artikel 2 Absatz 1 Buchstabe b Ziffer 1 ISABV-V;
-- d. aus dem Fleko nach der ISVet-V: die Ergebnisse der Schlachttieruntersuchung sowie die Ergebnisse der Fleischuntersuchung, die die Genusstauglichkeit betreffen;
+- c. aus dem Informationssystem Antibiotika in der Veterinärmedizin nach der Verordnung vom 31. Oktober 2018[^12-6] über das Informationssystem Antibiotika in der Veterinärmedizin (ISABV-V): die Verbrauchsdaten der Tierhalterinnen und Tierhalter nach Artikel 2 Absatz 1 Buchstabe b Ziffer 1 ISABV-V;
+- d.[^12-7] aus dem Fleko nach der ISLK-V: die Ergebnisse der Schlachttieruntersuchung sowie die Ergebnisse der Fleischuntersuchung, die die Genusstauglichkeit betreffen;
 - e. aus dem E-Transit: die Informationen über elektronisch erstellte Begleitdokumente;
 - f. aus dem IAM-System: die Daten zu den Benutzerinnen und Benutzern der TVD.
 
 [^12-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 [^12-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 [^12-3]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^12-4]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^12-5]: [SR 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^12-4]: Fassung gemäss Anhang 4 Ziff. II 9 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^12-5]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^12-6]: [SR 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^12-7]: Fassung gemäss Anhang 4 Ziff. II 9 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ### 2. Abschnitt: Registrierung von Personen und Tierhaltungen sowie Erfassung des Tierverkehrs
 
@@ -587,7 +590,7 @@ Die beauftragten Personen nach Artikel 23 können in die gleichen Daten der TVD 
 Die folgenden Informationssysteme können mittels Schnittstellen die Daten aus der TVD beziehen:
 
 - a. das ASAN;
-- b. das Informationssystem für Labordaten;
+- b.[^40-1] das Informationssystem für Resultate von Kontrollen und Untersuchungen nach der ISLK-V[^40-2];
 - c. das Informationssystem Antibiotika in der Veterinärmedizin;
 - d. das Informationssystem für Kontrolldaten;
 - e. das Auswertungs- und Analysesystem für Lebensmittel und Veterinary Public Health;
@@ -595,6 +598,9 @@ Die folgenden Informationssysteme können mittels Schnittstellen die Daten aus d
 - g. das E-Transit;
 - h. das Fleko;
 - i. das Ribes.
+
+[^40-1]: Fassung gemäss Anhang 4 Ziff. II 9 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^40-2]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
 
 ## 4. Kapitel: GVE-Rechner
 

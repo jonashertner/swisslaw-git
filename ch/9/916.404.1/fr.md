@@ -4,11 +4,11 @@ title: Ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de
 short: OId-BDTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: fr
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-751-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2021-751-20220601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20220101/fr"
 
 (OId-BDTA)
 
-du 3 novembre 2021 (Etat le 1<sup>er</sup> janvier 2022)
+du 3 novembre 2021 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -86,7 +86,7 @@ Identitas SA exploite:
 
 <sup>2</sup> Elle fournit l’infrastructure et les services informatiques pour:
 
-- a. le système d’information pour les résultats du contrôle des animaux avant l’abattage et du contrôle des viandes (Fleko) prévu par l’ordonnance du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public (OSIVét)[^3-1];
+- a.[^3-1] le système d’information pour les résultats du contrôle des animaux avant l’abattage et du contrôle des viandes (Fleko) visé dans l’ordonnance du 27 avril 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire (O-SICAL)[^3-2];
 - b. le système d’information pour le contrôle des bovins à l’abattoir (Ribes).
 
 <sup>3</sup> Elle effectue la maintenance des systèmes informatiques visés aux al. 1 et 2, les développe et, si nécessaire, les remplace. Elle fournit un soutien technique aux utilisateurs.
@@ -97,14 +97,15 @@ Identitas SA exploite:
 
 En outre, elle accomplit les tâches suivantes:
 
-- a. elle fournit un soutien technique pour le système d’information centralisé relatif aux flux d’éléments fertilisants (Hoduflu) visé à l’art. 14 OSIAgr[^3-2];
+- a. elle fournit un soutien technique pour le système d’information centralisé relatif aux flux d’éléments fertilisants (Hoduflu) visé à l’art. 14 OSIAgr[^3-3];
 - b. elle fournit un soutien aux utilisateurs pour la connexion au portail Internet Agate;
 - c. elle fournit les marques auriculaires destinées aux animaux à onglons;
 - d. elle verse les contributions aux frais d’élimination des sous-produits animaux;
 - e. elle encaisse la taxe perçue à l’abattage.
 
-[^3-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^3-2]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^3-1]: Nouvelle teneur selon l’annexe 4 ch. II 9 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^3-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^3-3]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 
 #### Art. 4
 
@@ -221,24 +222,26 @@ Les informations détaillées comprennent les données suivantes relatives à un
 La BDTA peut reprendre les données d’autres systèmes d’information:
 
 - a. du système d’information pour les données sur les exploitations, les structures et les contributions visé aux art. 2 à 5 de l’ OSIAgr [^12-1]: les données sur les unités d’élevage et les détenteurs d’animaux visées aux art. 7 et 18*a* OFE[^12-2];
-- b. du système d’information du service vétérinaire public (ASAN) selon
+- b.
 
-  l’OSIVét[^12-3]:
+  du système d’information pour les données d’exécution du service vétérinaire public (ASAN) visé dans l’O-SICAL[^12-3]:[^12-4]
 
   - 1\. concernant les bovins, les buffles ainsi que les unités d’élevage comprenant de tels animaux: le statut relatif à la diarrhée virale bovine (statut BVD) des animaux et des unités d’élevage,
   - 2\. concernant les unités d’élevage comprenant des ovins: le statut piétin d’une unité d’élevage,
-  - 3\. l’information indiquant si les exigences fixées à l’art. 36, al. 2, de l’ordonnance du 25 mai 2011 concernant les sous-produits animaux[^12-4] ont été remplies;
+  - 3\. l’information indiquant si les exigences fixées à l’art. 36, al. 2, de l’ordonnance du 25 mai 2011 concernant les sous-produits animaux[^12-5] ont été remplies;
 
-- c. du système d’information sur les antibiotiques en médecine vétérinaire (SI ABV) visé dans l’ordonnance du 31 octobre 2018 concernant le système d’information sur les antibiotiques en médecine vétérinaire (O-SI ABV)[^12-5]: les données sur l’utilisation par les détenteurs d’animaux visées à l’art. 2, al. 1, let. b, ch. 1, O-SI ABV;
-- d. de Fleko selon l’OSIVét: les résultats du contrôle des animaux avant l’abattage et du contrôle des viandes qui concernent la salubrité de la viande;
+- c. du système d’information sur les antibiotiques en médecine vétérinaire (SI ABV) visé dans l’ordonnance du 31 octobre 2018 concernant le système d’information sur les antibiotiques en médecine vétérinaire (O-SI ABV)[^12-6]: les données sur l’utilisation par les détenteurs d’animaux visées à l’art. 2, al. 1, let. b, ch. 1, O-SI ABV;
+- d.[^12-7] de Fleko visé dans l’O-SICAL: les résultats du contrôle des animaux avant l’abattage et ceux du contrôle des viandes qui concernent la salubrité;
 - e. de eTransit: informations sur les documents d’accompagnement établis électroniquement;
 - f. du système IAM: les données sur les utilisateurs de la BDTA.
 
 [^12-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 [^12-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 [^12-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^12-4]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^12-5]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^12-4]: Nouvelle teneur selon l’annexe 4 ch. II 9 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^12-5]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^12-6]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^12-7]: Nouvelle teneur selon l’annexe 4 ch. II 9 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ### Section 2 Enregistrement des personnes, des unités d’élevage et du trafic des animaux
 
@@ -582,10 +585,10 @@ Les personnes mandatées visées à l’art. 23 peuvent consulter et utiliser le
 
 <sup>3</sup>
 
-Les systèmes d’information ci-dessous peuvent tirer des données de la BDTA:
+Les systèmes d’information suivants peuvent tirer les données de la BDTA via des interfaces:[^40-1]
 
 - a. le système ASAN;
-- b. le système d’information pour les données des laboratoires;
+- b.[^40-2] le système d’information pour les résultats de contrôles et d’analyses visé dans l’O-SICAL[^40-3];
 - c. le système d’information sur les antibiotiques utilisés en médecine vétérinaire;
 - d. le système d’information pour les données de contrôle;
 - e. le système d’évaluation et d’analyse pour les denrées alimentaires et la santé vétérinaire (ALVPH);
@@ -593,6 +596,10 @@ Les systèmes d’information ci-dessous peuvent tirer des données de la BDTA:
 - g. l’e-Transit;
 - h. le Fleko;
 - i. le Ribes.
+
+[^40-1]: Nouvelle teneur selon l’annexe 4 ch. II 9 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^40-2]: Nouvelle teneur selon l’annexe 4 ch. II 9 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^40-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
 
 ## Chapitre 4 Calculateur UGB
 

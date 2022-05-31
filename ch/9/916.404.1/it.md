@@ -4,11 +4,11 @@ title: Ordinanza del 3 novembre 2021 concernente Identitas AG e la banca dati su
 short: OIBDTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: it
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-751-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2021-751-20220601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20220101/it"
 
 (OIBDTA)
 
-del 3 novembre 2021 (Stato 1° gennaio 2022)
+del 3 novembre 2021 (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -88,7 +88,7 @@ Identitas AG gestisce:
 
 Mette a disposizione l’infrastruttura e i servizi informatici per:
 
-- a. il sistema d’informazione sui risultati del controllo degli animali da macello e del controllo delle carni (Fleko) di cui all’ordinanza del 6 giugno 2014[^3-1] concernente i sistemi d’informazione per il servizio veterinario pubblico (O-SISVet);
+- a.[^3-1] il sistema d’informazione sui risultati del controllo degli animali da macello e del controllo delle carni (Fleko) di cui all’ordinanza del 27 aprile 2022[^3-2] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare (O-SIFA);
 - b. il sistema d’informazione per la campionatura dei bovini nei macelli (RiBeS).
 
 <sup>3</sup> Effettua la manutenzione dei sistemi d’informazione di cui ai capoversi 1 e 2, li sviluppa ulteriormente e all’occorrenza li sostituisce. Fornisce il supporto tecnico per gli utenti.
@@ -99,14 +99,15 @@ Mette a disposizione l’infrastruttura e i servizi informatici per:
 
 Svolge inoltre i seguenti compiti:
 
-- a. fornisce il supporto tecnico per il sistema d’informazione centrale sui trasferimenti di sostanze nutritive (HODUFLU) giusta l’articolo 14 OSIAgr[^3-2];
+- a. fornisce il supporto tecnico per il sistema d’informazione centrale sui trasferimenti di sostanze nutritive (HODUFLU) giusta l’articolo 14 OSIAgr[^3-3];
 - b. fornisce il supporto per l’accesso degli utenti al portale Internet Agate;
 - c. fornisce le marche auricolari per gli animali a unghia fessa;
 - d. versa i contributi ai costi per l’eliminazione dei sottoprodotti di origine animale;
 - e. riscuote la tassa di macellazione.
 
-[^3-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^3-2]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^3-1]: Nuovo testo giusta l’all. 4 n. II 9 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^3-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^3-3]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 
 #### Art. 4
 
@@ -225,22 +226,24 @@ La BDTA può acquisire i seguenti dati da altri sistemi d’informazione:
 - a. dal sistema d’informazione per i dati su aziende, strutture e contributi di cui agli articoli 2–5 OSIAgr[^12-1]: i dati concernenti le aziende detentrici di animali e i detentori di animali di cui agli articoli 7 e 18*a* OFE[^12-2];
 - b.
 
-  dal sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione (ASAN) ai sensi dell’O-SISVet[^12-3]:
+  dal sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione (ASAN) ai sensi dell’O-SIFA[^12-3]:[^12-4]
 
   - 1\. per animali della specie bovina, bufali e bisonti nonché per aziende detentrici di tali animali: lo stato riguardo alla diarrea virale bovina (stato BVD) degli animali e delle aziende detentrici di animali,
   - 2\. per aziende detentrici di animali della specie ovina: lo stato riguardo alla zoppina di un’azienda detentrice di animali,
-  - 3\. l’informazione se i requisiti di cui all’articolo 36 capoverso 2 dell’ordinanza del 25 maggio 2011[^12-4] concernente i sottoprodotti di origine animale sono soddisfatti;
+  - 3\. l’informazione se i requisiti di cui all’articolo 36 capoverso 2 dell’ordinanza del 25 maggio 2011[^12-5] concernente i sottoprodotti di origine animale sono soddisfatti;
 
-- c. dal sistema d’informazione sugli antibiotici nella medicina veterinaria ai sensi dell’ordinanza del 31 ottobre 2018[^12-5] concernente il sistema d’informazione sugli antibiotici nella medicina veterinaria (O-SIAMV): i dati concernenti l’uso di antibiotici da parte dei detentori di animali secondo l’articolo 2 capoverso 1 lettera b numero 1 O-SIAMV;
-- d. da Fleko ai sensi della O-SISVet: i risultati del controllo degli animali da macello e quelli del controllo delle carni che riguardano la commestibilità;
+- c. dal sistema d’informazione sugli antibiotici nella medicina veterinaria ai sensi dell’ordinanza del 31 ottobre 2018[^12-6] concernente il sistema d’informazione sugli antibiotici nella medicina veterinaria (O-SIAMV): i dati concernenti l’uso di antibiotici da parte dei detentori di animali secondo l’articolo 2 capoverso 1 lettera b numero 1 O-SIAMV;
+- d.[^12-7] da Fleko ai sensi dell’O-SIFA: i risultati dei controlli degli animali da macello e del controllo delle carni in riferimento alla loro commestibilità;
 - e. da eTransit: le informazioni sui certificati d’accompagnamento creati elettronicamente;
 - f. dal sistema IAM: i dati concernenti gli utenti della BDTA.
 
 [^12-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 [^12-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 [^12-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^12-4]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^12-5]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^12-4]: Nuovo testo giusta l’all. 4 n. II 9 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^12-5]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^12-6]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^12-7]: Nuovo testo giusta l’all. 4 n. II 9 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ### Sezione 2: Registrazione di detentori di animali e di aziende detentrici di animali nonché del traffico degli animali
 
@@ -504,7 +507,7 @@ Chiunque può consultare e utilizzare i seguenti dati:
 <sup>2</sup> Il numero BDTA dell’azienda detentrice di animali funge da codice per la consultazione dei dati di cui al capoverso 1 lettera b. Il numero d’identificazione dell’animale o il numero del microchip dell’animale funge da codice per la consultazione dei dati di cui al capoverso 1 lettera c. L’utente deve procurarsi autonomamente tali codici.
 
 [^33-1]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^33-2]: In vigore dal 1° gen. 2023 (Art. 69 cpv. 3).
+[^33-2]: In vigore dal 1° gen. 2023 (art. 69 cpv. 3).
 [^33-3]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 
 #### Art. 34
@@ -587,7 +590,7 @@ I terzi incaricati di cui all’articolo 23 possono consultare e utilizzare gli 
 I seguenti sistemi d’informazione possono acquisire i dati dalla BDTA tramite interfacce:
 
 - a. ASAN;
-- b. sistema d’informazione per i dati di laboratorio;
+- b.[^40-1] sistema d’informazione per i risultati di controlli e analisi ai sensi dell’O-SIFA[^40-2];
 - c. sistema d’informazione sugli antibiotici nella medicina veterinaria;
 - d. sistema d’informazione per i dati concernenti i controlli;
 - e. sistema di valutazione e di analisi della sicurezza alimentare e della salute pubblica veterinaria;
@@ -595,6 +598,9 @@ I seguenti sistemi d’informazione possono acquisire i dati dalla BDTA tramite 
 - g. eTransit;
 - h. Fleko;
 - i. RiBeS.
+
+[^40-1]: Nuovo testo giusta l’all. 4 n. II 9 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^40-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
 
 ## Capitolo 4: Calcolatore di UBG
 
@@ -640,7 +646,7 @@ Per gli animali della specie bovina, i bufali, i bisonti e gli equidi Identitas 
 
 [^44-1]
 
-[^44-1]: In vigore dal 1° gen. 2024 (Art. 69 cpv. 2).
+[^44-1]: In vigore dal 1° gen. 2024 (art. 69 cpv. 2).
 
 #### Art. 45
 
@@ -659,7 +665,7 @@ Entro 15 giorni dalla scadenza dei periodi di calcolo di cui all’articolo 36 O
 
 [^46-1]
 
-[^46-1]: In vigore dal 1° gen. 2024 (Art. 69 cpv. 2).
+[^46-1]: In vigore dal 1° gen. 2024 (art. 69 cpv. 2).
 
 #### Art. 47
 
@@ -674,7 +680,7 @@ Identitas AG mette a disposizione dei detentori di animali, nonché dei servizi 
 
 [^48-1]
 
-[^48-1]: In vigore dal 1° gen. 2024 (Art. 69 cpv. 2).
+[^48-1]: In vigore dal 1° gen. 2024 (art. 69 cpv. 2).
 
 #### Art. 49
 
