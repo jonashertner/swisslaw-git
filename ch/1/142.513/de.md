@@ -3,11 +3,11 @@ sr: "142.513"
 title: Verordnung vom 12. April 2006 über das Zentrale Migrationsinformationssystem (ZEMIS-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/303"
 language: de
-version: 2022-03-01
+version: 2022-06-01
 adopted: 2006-04-12
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20220301/de/xml/fedlex-data-admin-ch-eli-cc-2006-303-20220301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20220301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2006-303-20220601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20220301/de"
 
 (ZEMIS-Verordnung)
 
-vom 12. April 2006 (Stand am 1. März 2022)
+vom 12. April 2006 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -255,10 +255,10 @@ Daten des Ausländerbereichs kann das SEM folgenden Behörden durch ein Abrufver
 
   folgenden Stellen im Bundesamt für Polizei (fedpol):
 
-  - 1\.[^9-1] dem Rechtsdienst ausschliesslich zum Erlass von Verfügungen von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz nach dem Bundesgesetz vom 21. März 1997[^9-2] über Massnahmen zur Wahrung der inneren Sicherheit (BWIS),
-  - 2\.[^9-3] der für das automatisierte Polizeifahndungssystem (RIPOL) zuständigen Dienststelle: ausschliesslich zur Personenidentifikation im Zusammenhang mit der Kontrolle der RIPOL-Erfassungen nach der RIPOL-Verordnung vom 15. Oktober 2008[^9-4],
-  - 3\.[^9-5] den Dienststellen, welche für den Interpol-Schriftverkehr zuständig sind, sowie der Abteilung Einsatzzentrale: ausschliesslich zur Personenidentifikation in den Bereichen des interkantonalen und internationalen polizeilichen Nachrichtenaustausches, namentlich im Rahmen der Zusammenarbeit mit dem europäischen Polizeiamt (Europol), sowie zur Prüfung von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz,
-  - 4\.[^9-6]
+  - 1\.[^9-1] Verfügungen von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz nach dem Bundesgesetz vom 21. März 1997[^9-2] über Massnahmen zur Wahrung der inneren Sicherheit (BWIS) sowie zur Prüfung von Entfernungs- und Fernhaltemassnahmen nach dem AIG[^9-3],
+  - 2\.[^9-4] der für das automatisierte Polizeifahndungssystem (RIPOL) zuständigen Dienststelle: ausschliesslich zur Personenidentifikation im Zusammenhang mit der Kontrolle der RIPOL-Erfassungen nach der RIPOL-Verordnung vom 15. Oktober 2008[^9-5],
+  - 3\.[^9-6] den Dienststellen, welche für den Interpol-Schriftverkehr zuständig sind, sowie der Abteilung Einsatzzentrale: ausschliesslich zur Personenidentifikation in den Bereichen des interkantonalen und internationalen polizeilichen Nachrichtenaustausches, namentlich im Rahmen der Zusammenarbeit mit dem europäischen Polizeiamt (Europol), sowie zur Prüfung von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz,
+  - 4\.[^9-7]
 
     den zuständigen Dienststellen der Bundeskriminalpolizei: ausschliesslich:
 
@@ -266,81 +266,89 @@ Daten des Ausländerbereichs kann das SEM folgenden Behörden durch ein Abrufver
     - – zur Prüfung der Eignung einer Person für ein Zeugenschutzprogramm und zur Durchführung von Gefährdungsanalysen,
 
   - 5\. dem Dienst Ausweisschriften und Nachforschungen nach vermissten Personen: ausschliesslich für Nachforschungen im Zusammenhang mit dem Aufenthalt von Personen,
-  - 6\.[^9-7] der für die Führung des AFIS zuständigen Dienststelle: ausschliesslich zur Personenidentifikation nach Artikel 102 Absatz 1 AIG[^9-8],
-  - 7\. dem zuständigen Dienst bei der Meldestelle Geldwäscherei: ausschliesslich zur Identifikation von Personen und zur Feststellung ihres Aufenthaltsstatus im Zusammenhang mit der gesetzlichen Aufgabe der Meldestelle im Kampf gegen Geldwäscherei, organisiertes Verbrechen und Terrorismusfinanzierung nach Artikel 23 des Geldwäschereigesetzes vom 10. Oktober 1997[^9-9];
+  - 6\.[^9-8] der für die Führung des AFIS zuständigen Dienststelle: ausschliesslich zur Personenidentifikation nach Artikel 102 Absatz 1 AIG[^9-9],
+  - 7\. dem zuständigen Dienst bei der Meldestelle Geldwäscherei: ausschliesslich zur Identifikation von Personen und zur Feststellung ihres Aufenthaltsstatus im Zusammenhang mit der gesetzlichen Aufgabe der Meldestelle im Kampf gegen Geldwäscherei, organisiertes Verbrechen und Terrorismusfinanzierung nach Artikel 23 des Geldwäschereigesetzes vom 10. Oktober 1997[^9-10];
 
-- c.[^9-10]
+- c.[^9-11]
 
   folgenden Stellen im Bundesamt für Justiz:
 
-  - 1\. der Abteilung Internationale Rechtshilfe im Zusammenhang mit Verfahren der Internationalen Rechtshilfe nach dem Bundesgesetz vom 20. März 1981[^9-11] über internationale Rechtshilfe in Strafsachen,
-  - 2\. dem Direktionsbereich Privatrecht im Zusammenhang mit Verfahren nach dem Bundesgesetz vom 21. Dezember 2007[^9-12] über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen (BG-KKE);
+  - 1\. der Abteilung Internationale Rechtshilfe im Zusammenhang mit Verfahren der Internationalen Rechtshilfe nach dem Bundesgesetz vom 20. März 1981[^9-12] über internationale Rechtshilfe in Strafsachen,
+  - 2\. dem Direktionsbereich Privatrecht im Zusammenhang mit Verfahren nach dem Bundesgesetz vom 21. Dezember 2007[^9-13] über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen (BG-KKE);
 
-- d.[^9-13] dem Bundesverwaltungsgericht: für die Instruktion der Beschwerden nach dem AIG;
+- d.[^9-14] dem Bundesverwaltungsgericht: für die Instruktion der Beschwerden nach dem AIG;
 - e. den Grenzposten der kantonalen Polizeibehörden und dem Grenzwachtkorps: zur Durchführung der Personenkontrolle und zur Erteilung von Ausnahmevisa;
 - f. den schweizerischen Auslandvertretungen und Missionen: zur Prüfung der Visumgesuche und zur Erfüllung ihrer Aufgaben im Bereich des Schweizer Bürgerrechts;
-- g.[^9-14] dem Staatssekretariat, der Politischen Direktion und der Konsularischen Direktion des EDA: zur Prüfung und zum Entscheid über Visumgesuche im Zuständigkeitsbereich des Departements;
-- h. der Zentralen Ausgleichsstelle: zur Abklärung von Leistungsgesuchen sowie zur Zuteilung und Überprüfung der AHV-Nummer[^9-15];
+- g.[^9-15] dem Staatssekretariat, der Politischen Direktion und der Konsularischen Direktion des EDA: zur Prüfung und zum Entscheid über Visumgesuche im Zuständigkeitsbereich des Departements;
+- h. der Zentralen Ausgleichsstelle: zur Abklärung von Leistungsgesuchen sowie zur Zuteilung und Überprüfung der AHV-Nummer[^9-16];
 - i. den kantonalen Steuerbehörden: für ihre Aufgaben bei der Erhebung der Quellensteuer;
-- j. den in Artikel 7 Absatz 1 Buchstabe b des Bundesgesetzes vom 8. Oktober 1999[^9-16] über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer als Kontrollorgane vorgesehenen tripartiten Kommissionen: für deren Aufgaben nach Artikel 11 der Verordnung vom 21. Mai 2003[^9-17] über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer;
-- k.[^9-18] den Zivilstandsämtern, den kantonalen Aufsichtsbehörden im Zivilstandsdienst und dem Eidgenössischen Amt für das Zivilstandswesen zur Personenidentifikation im Zusammenhang mit Zivilstandsereignissen, für die Vorbereitung einer Eheschliessung oder Eintragung der Partnerschaft und zur Verhinderung der Umgehung des Ausländerrechts nach Artikel 97*a* Absatz 1 des Zivilgesetzbuches[^9-19] und Artikel 6 Absatz 2 des Partnerschaftsgesetzes vom 18. Juni 2004[^9-20];
-- l. den kantonalen Asyl- und Flüchtlingskoordinationsstellen: ausschliesslich zur Gewährleistung der Sozialhilfe nach dem AsylG[^9-21];
-- m.[^9-22] den für die Register nach Artikel 2 Absatz 2 des Registerharmonisierungsgesetzes vom 23. Juni 2006[^9-23] zuständigen Stellen: zur Harmonisierung der Register und zur Nachführung der AHV-Nummer;
-- n.[^9-24] dem Nachrichtendienst des Bundes (NDB): ausschliesslich zur Personenidentifikation für das frühzeitige Erkennen und Verhindern von Bedrohungen für die innere oder äussere Sicherheit nach Artikel 6 Absatz 1 Buchstabe a des Nachrichtendienstgesetzes vom 25. September 2015[^9-25] (NDG) sowie zur Erfüllung seiner Aufgaben bei Überprüfungen im Zusammenhang mit der Gefährdung der inneren oder äusseren Sicherheit nach dem BüG[^9-26], dem AIG und dem AsylG;
-- o.[^9-27]
+- j. den in Artikel 7 Absatz 1 Buchstabe b des Bundesgesetzes vom 8. Oktober 1999[^9-17] über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer als Kontrollorgane vorgesehenen tripartiten Kommissionen: für deren Aufgaben nach Artikel 11 der Verordnung vom 21. Mai 2003[^9-18] über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer;
+- k.[^9-19] den Zivilstandsämtern, den kantonalen Aufsichtsbehörden im Zivilstandsdienst und dem Eidgenössischen Amt für das Zivilstandswesen zur Personenidentifikation im Zusammenhang mit Zivilstandsereignissen, für die Vorbereitung einer Eheschliessung oder Eintragung der Partnerschaft und zur Verhinderung der Umgehung des Ausländerrechts nach Artikel 97*a* Absatz 1 des Zivilgesetzbuches[^9-20] und Artikel 6 Absatz 2 des Partnerschaftsgesetzes vom 18. Juni 2004[^9-21];
+- l. den kantonalen Asyl- und Flüchtlingskoordinationsstellen: ausschliesslich zur Gewährleistung der Sozialhilfe nach dem AsylG[^9-22];
+- m.[^9-23] den für die Register nach Artikel 2 Absatz 2 des Registerharmonisierungsgesetzes vom 23. Juni 2006[^9-24] zuständigen Stellen: zur Harmonisierung der Register und zur Nachführung der AHV-Nummer;
+- n.[^9-25]
+
+  dem Nachrichtendienst des Bundes (NDB):
+
+  - 1\. zur Personenidentifikation für das frühzeitige Erkennen und Verhindern von Bedrohungen für die innere oder äussere Sicherheit nach Artikel 6 Absatz 1 Buchstabe a des Nachrichtendienstgesetzes vom 25. September 2015[^9-26] (NDG),
+  - 2\. zur Erfüllung seiner Aufgaben bei Überprüfungen im Zusammenhang mit der Gefährdung der inneren oder äusseren Sicherheit nach dem BüG[^9-27], dem AIG und dem AsylG,
+  - 3\. zur Prüfung von Entfernungs- und Fernhaltemassnahmen nach dem AIG;
+
+- o.[^9-28]
 
   der Eidgenössischen Steuerverwaltung für ihre Aufgaben:
 
   - 1\. bei der Erhebung der Mehrwertsteuer auf den im Inland von steuerpflichtigen Personen gegen Entgelt erbrachten Leistungen (Inlandsteuer) und auf dem Bezug von Leistungen von Unternehmen mit Sitz im Ausland durch Empfängerinnen und Empfänger im Inland (Bezugsteuer) und bei der Durchführung der Verrechnungssteuer,
   - 2\. bei der Durchführung von Strafverfahren sowie von Amts- und Rechtshilfeverfahren;
 
-- p.[^9-28]
+- p.[^9-29]
 
-  dem Bundesamt für Zoll und Grenzsicherheit (BAZG)[^9-29] zur Erfüllung seiner Aufgaben:
+  dem Bundesamt für Zoll und Grenzsicherheit (BAZG)[^9-30] zur Erfüllung seiner Aufgaben:
 
   - 1\. bei der Erhebung der Mehrwertsteuer auf der Einfuhr von Gegenständen (Einfuhrsteuer),
   - 2\. im Bereich der Zollfahndung: zur Personenidentifikation;
 
-- q.[^9-30] …
-- r.[^9-31]
+- q.[^9-31] …
+- r.[^9-32]
 
   dem Bundesamt für Sozialversicherungen für seine Aufgaben:
 
-  - 1\. als zuständige Behörde für Amtshilfe nach Artikel 76 Absatz 2 der Verordnung (EG) Nr. 883/2004[^9-32],
+  - 1\. als zuständige Behörde für Amtshilfe nach Artikel 76 Absatz 2 der Verordnung (EG) Nr. 883/2004[^9-33],
   - 2\. als Verbindungsstelle bei der Durchführung der Amtshilfe im Bereich der Familienleistungen nach den Artikeln 67–69 der Verordnung (EG) Nr. 883/2004.
 
-[^9-1]: Fassung gemäss Anhang Ziff. 9 der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^9-1]: Fassung gemäss Ziff. I 4 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 [^9-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^9-3]: Fassung gemäss Ziff. I 6 der V vom 15. Okt. 2008 über die Anpassungen an das Bundesgesetz über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
-[^9-4]: [SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^9-5]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Dez. 2011 ([AS 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
-[^9-6]: Fassung gemäss Anhang Ziff. 3 der V vom 7. Nov. 2012 über den ausserprozessualen Zeugenschutz, in Kraft seit 1. Jan. 2013 ([AS 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
-[^9-7]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
-[^9-8]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^9-9]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^9-10]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Dez. 2011 ([AS 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
-[^9-11]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^9-12]: [SR 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
-[^9-13]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
-[^9-14]: Fassung gemäss Anhang 4 der Visa-Informationssystem-Verordnung vom 18. Dez. 2013, in Kraft seit 20. Jan. 2014 ([AS 2014 3](https://fedlex.data.admin.ch/eli/oc/2014/2)).
-[^9-15]: Ausdruck gemäss Anhang Ziff. II 3 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^9-16]: [SR 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
-[^9-17]: [SR 823.201](https://fedlex.data.admin.ch/eli/cc/2003/232)
-[^9-18]: Fassung gemäss Anhang Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^9-19]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^9-20]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
-[^9-21]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^9-22]: Eingefügt durch Anhang Ziff. 1 der Registerharmonisierungsverordnung vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
-[^9-23]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^9-24]: Eingefügt durch Anhang Ziff. 9 der V vom 12. Dez. 2008 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)). Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)).
-[^9-25]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^9-26]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^9-27]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Dez. 2011 ([AS 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
-[^9-28]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011 ([AS 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
-[^9-29]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
-[^9-30]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011 ([AS 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Aufgehoben durch Ziff. I der V vom 21. Nov. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
-[^9-31]: Eingefügt durch Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 3047](https://fedlex.data.admin.ch/eli/oc/2015/573)).
-[^9-32]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit, ABl. L 166 vom 30.4.2004, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 1372/2013, ABl. L 346 vom 20.12.2013, S. 27.
+[^9-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^9-4]: Fassung gemäss Ziff. I 6 der V vom 15. Okt. 2008 über die Anpassungen an das Bundesgesetz über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+[^9-5]: [SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
+[^9-6]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Dez. 2011 ([AS 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^9-7]: Fassung gemäss Anhang Ziff. 3 der V vom 7. Nov. 2012 über den ausserprozessualen Zeugenschutz, in Kraft seit 1. Jan. 2013 ([AS 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
+[^9-8]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
+[^9-9]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^9-10]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^9-11]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Dez. 2011 ([AS 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^9-12]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^9-13]: [SR 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
+[^9-14]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
+[^9-15]: Fassung gemäss Anhang 4 der Visa-Informationssystem-Verordnung vom 18. Dez. 2013, in Kraft seit 20. Jan. 2014 ([AS 2014 3](https://fedlex.data.admin.ch/eli/oc/2014/2)).
+[^9-16]: Ausdruck gemäss Anhang Ziff. II 3 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^9-17]: [SR 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
+[^9-18]: [SR 823.201](https://fedlex.data.admin.ch/eli/cc/2003/232)
+[^9-19]: Fassung gemäss Anhang Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^9-20]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^9-21]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^9-22]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^9-23]: Eingefügt durch Anhang Ziff. 1 der Registerharmonisierungsverordnung vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
+[^9-24]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^9-25]: Eingefügt durch Anhang Ziff. 9 der V vom 12. Dez. 2008 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)). Fassung gemäss Ziff. I 4 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-26]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^9-27]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^9-28]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Dez. 2011 ([AS 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^9-29]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011 ([AS 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
+[^9-30]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^9-31]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011 ([AS 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Aufgehoben durch Ziff. I der V vom 21. Nov. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
+[^9-32]: Eingefügt durch Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 3047](https://fedlex.data.admin.ch/eli/oc/2015/573)).
+[^9-33]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit, ABl. L 166 vom 30.4.2004, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 1372/2013, ABl. L 346 vom 20.12.2013, S. 27.
 
 #### Art. 10
 
@@ -729,7 +737,7 @@ Anhang 1*[^t-1]*
 
 ## Berechtigungen zur Abfrage und Bearbeitung der Daten
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 2. Febr. 2022, in Kraft seit 1. März 2022 ([AS 2022 73](https://fedlex.data.admin.ch/eli/oc/2022/73)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 2. Febr. 2022 ([AS 2022 73](https://fedlex.data.admin.ch/eli/oc/2022/73)). Bereinigt gemäss Ziff. I 4 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ### Zeichenerklärung
 
@@ -743,7 +751,7 @@ Zugriffsstufen:
 Organisationseinheiten:
 
 - AV Auslandvertretungen und Missionen
-- BAZG Bundesamt für Zoll und Grenzsicherheit (einschliesslich Hauptabteilung Zollfahndung)
+- BAZG Bundesamt für Zoll und Grenzsicherheit
 - BJ Bundesamt für Justiz: Direktionsbereich Internationale Rechtshilfe, Direktionsbereich Privatrecht
 - BSV Bundesamt für Sozialversicherungen
 - BÜG kantonale Bürgerrechtsbehörden
@@ -755,7 +763,7 @@ Organisationseinheiten:
 - ESTV Eidgenössische Steuerverwaltung
 - EWK kantonale und kommunale Einwohnerkontrollbehörden
 - Fedpol Bundesamt für Polizei
-- – I Rechtsdienst
+- – I Abteilung Recht und Massnahmen
 - – II Bundeskriminalpolizei (BKP)
 - – III Nationales Zentralbüro INTERPOL, Abteilung Einsatzzentrale (insb. SIRENE-Büro), Abteilung Ausweise und Zentralstellen, Abteilung biometrische Identifikation, Meldestelle für Geldwäscherei (MROS)
 - – IV Abteilung Fahndung und Aufsicht

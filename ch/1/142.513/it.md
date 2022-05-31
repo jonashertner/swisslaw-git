@@ -3,11 +3,11 @@ sr: "142.513"
 title: "Ordinanza del 12 aprile 2006 concernente il sistema d'informazione centrale sulla migrazione (Ordinanza SIMIC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/303"
 language: it
-version: 2022-03-01
+version: 2022-06-01
 adopted: 2006-04-12
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20220301/it/xml/fedlex-data-admin-ch-eli-cc-2006-303-20220301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20220301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2006-303-20220601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20220301/it"
 
 (Ordinanza SIMIC)
 
-del 12 aprile 2006 (Stato 1° marzo 2022)
+del 12 aprile 2006 (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -253,10 +253,10 @@ La SEM può permettere alle autorità seguenti di accedere con procedura di rich
 
   i seguenti servizi dell’Ufficio federale di polizia (fedpol):
 
-  - 1\.[^9-1] il Servizio giuridico: esclusivamente per la pronuncia di misure di respingimento per la salvaguardia della sicurezza interna ed esterna della Svizzera conformemente alla legge federale del 21 marzo 1997[^9-2] sulle misure per la salvaguardia della sicurezza interna (LMSI),
-  - 2\.[^9-3] il servizio incaricato della gestione del RIPOL: esclusivamente per l’identificazione delle persone nell’ambito del controllo delle segnalazioni RIPOL ai sensi dell’ordinanza RIPOL del 15 ottobre 2008[^9-4],
-  - 3\.[^9-5] i servizi competenti in materia di corrispondenza Interpol e la Divisione Centrale operativa: esclusivamente per l’identificazione delle persone nell’ambito dello scambio intercantonale e internazionale delle informazioni di polizia, segnatamente nell’ambito della cooperazione con l’Ufficio europeo di polizia (Europol) nonché per l’esame delle misure di respingimento a tutela della sicurezza interna e esterna della Svizzera,
-  - 4\.[^9-6]
+  - 1\.[^9-1] la divisione Diritto e misure: esclusivamente per la pronuncia di misure di respingimento per la salvaguardia della sicurezza interna ed esterna della Svizzera conformemente alla legge federale del 21 marzo 1997[^9-2] sulle misure per la salvaguardia della sicurezza interna (LMSI) nonché per l’esame di misure di allontanamento e di respingimento conformemente alla LStrI[^9-3],
+  - 2\.[^9-4] il servizio incaricato della gestione del RIPOL: esclusivamente per l’identificazione delle persone nell’ambito del controllo delle segnalazioni RIPOL ai sensi dell’ordinanza RIPOL del 15 ottobre 2008[^9-5],
+  - 3\.[^9-6] i servizi competenti in materia di corrispondenza Interpol e la Divisione Centrale operativa: esclusivamente per l’identificazione delle persone nell’ambito dello scambio intercantonale e internazionale delle informazioni di polizia, segnatamente nell’ambito della cooperazione con l’Ufficio europeo di polizia (Europol) nonché per l’esame delle misure di respingimento a tutela della sicurezza interna e esterna della Svizzera,
+  - 4\.[^9-7]
 
     i servizi competenti della Polizia giudiziaria federale: esclusivamente:
 
@@ -264,73 +264,81 @@ La SEM può permettere alle autorità seguenti di accedere con procedura di rich
     - – per l’esame dell’idoneità di una persona per un programma di protezione dei testimoni e lo svolgimento di analisi dei rischi,
 
   - 5\. il servizio competente in materia di documenti e di ricerche di persone scomparse: esclusivamente per le ricerche concernenti la dimora delle persone,
-  - 6\.[^9-7] il servizio incaricato della gestione dell’AFIS: esclusivamente per l’identificazione di persone ai sensi dell’articolo 102 capoverso 1 LStrI[^9-8],
-  - 7\. il servizio competente presso la SEM di comunicazione in materia di riciclaggio di denaro: esclusivamente per l’identificazione delle persone e l’accertamento del loro statuto di dimora effettuati nell’ambito dei suoi compiti legali nella lotta contro il riciclaggio di denaro, la criminalità organizzata e il finanziamento del terrorismo di cui all’articolo 23 della legge federale del 10 ottobre 1997[^9-9] sul riciclaggio di denaro;
-  - c.[^9-10] i seguenti servizi dell’Ufficio federale di giustizia:
-  - 1\. la Divisione Assistenza giudiziaria internazionale: in relazione con procedimenti di assistenza giudiziaria internazionale ai sensi della legge federale del 20 marzo 1981[^9-11] sull’assistenza internazionale in materia penale,
-  - 2\. l’Ambito direzionale Diritto privato: in relazione con procedure ai sensi della legge federale del 21 dicembre 2007[^9-12] sul rapimento internazionale dei minori e sulle Convenzioni dell’Aia sulla protezione dei minori e degli adulti (LF-RMA);
+  - 6\.[^9-8] il servizio incaricato della gestione dell’AFIS: esclusivamente per l’identificazione di persone ai sensi dell’articolo 102 capoverso 1 LStrI[^9-9],
+  - 7\. il servizio competente presso la SEM di comunicazione in materia di riciclaggio di denaro: esclusivamente per l’identificazione delle persone e l’accertamento del loro statuto di dimora effettuati nell’ambito dei suoi compiti legali nella lotta contro il riciclaggio di denaro, la criminalità organizzata e il finanziamento del terrorismo di cui all’articolo 23 della legge federale del 10 ottobre 1997[^9-10] sul riciclaggio di denaro;
+  - c.[^9-11] i seguenti servizi dell’Ufficio federale di giustizia:
+  - 1\. la Divisione Assistenza giudiziaria internazionale: in relazione con procedimenti di assistenza giudiziaria internazionale ai sensi della legge federale del 20 marzo 1981[^9-12] sull’assistenza internazionale in materia penale,
+  - 2\. l’Ambito direzionale Diritto privato: in relazione con procedure ai sensi della legge federale del 21 dicembre 2007[^9-13] sul rapimento internazionale dei minori e sulle Convenzioni dell’Aia sulla protezione dei minori e degli adulti (LF-RMA);
 
-- d.[^9-13] il Tribunale amministrativo federale: per l’istruzione dei ricorsi conformemente alla LStrI;
+- d.[^9-14] il Tribunale amministrativo federale: per l’istruzione dei ricorsi conformemente alla LStrI;
 - e. i posti di frontiera delle autorità cantonali di polizia e il Corpo delle guardie di confine: per l’esecuzione dei controlli delle persone e il rilascio di visti in via eccezionale;
 - f. le rappresentanze e le missioni svizzere all’estero: per l’esame delle richieste di visto e per l’adempimento dei compiti nell’ambito della legislazione svizzera in materia di cittadinanza;
-- g.[^9-14] il Segretariato di Stato, la Direzione politica e la Direzione consolare del DFAE: per l’esame e la decisione relativi alle richieste di visto nella sfera di competenze del Dipartimento;
-- h. la Centrale di compensazione: per il chiarimento delle domande di prestazioni nonché per l’assegnazione e la verifica del numero AVS[^9-15];
+- g.[^9-15] il Segretariato di Stato, la Direzione politica e la Direzione consolare del DFAE: per l’esame e la decisione relativi alle richieste di visto nella sfera di competenze del Dipartimento;
+- h. la Centrale di compensazione: per il chiarimento delle domande di prestazioni nonché per l’assegnazione e la verifica del numero AVS[^9-16];
 - i. le autorità fiscali cantonali: per l’adempimento dei loro compiti in materia di riscossione dell’imposta alla fonte;
-- j. le Commissioni tripartite previste quali organi di controllo nell’articolo 7 capoverso 1 lettera b della legge dell’8 ottobre 1999[^9-16] sui lavoratori distaccati in Svizzera: per lo svolgimento dei loro compiti giusta l’articolo 11 dell’ordinanza del 21 maggio 2003[^9-17] sui lavoratori distaccati in Svizzera;
-- k.[^9-18] gli uffici dello stato civile, le autorità cantonali di vigilanza sullo stato civile e l’Ufficio federale dello stato civile: per l’identificazione delle persone in relazione con fatti di stato civile, per la preparazione della celebrazione del matrimonio o della registrazione dell’unione domestica, nonché per evitare l’elusione del diritto in materia di stranieri secondo gli articoli 97*a* capoverso 1 del Codice civile[^9-19] e 6 capoverso 2 della legge del 18 giugno 2004[^9-20] sull’unione domestica registrata;
-- l. gli uffici cantonali di coordinamento nel settore dell’asilo e dei rifugiati: esclusivamente per garantire l’aiuto sociale giusta la LAsi[^9-21];
-- m.[^9-22] i servizi competenti per i registri di cui all’articolo 2 capoverso 2 della legge del 23 giugno 2006[^9-23] sull’armonizzazione dei registri nell’ambito dell’armonizzazione dei registri e dell’aggiornamento del numero AVS;
-- n.[^9-24] il Servizio delle attività informative della Confederazione (SIC): esclusivamente per l’identificazione delle persone allo scopo di individuare tempestivamente e sventare minacce per la sicurezza interna o esterna secondo l’articolo 6 capoverso 1 lettera a della legge federale del 25 settembre 2015[^9-25] sulle attività informative (LAIn), nonché per adempiere i suoi compiti di verifica della minaccia per la sicurezza interna o esterna ai sensi della LCit[^9-26], della LStrI e della LAsi;
-- o.[^9-27] l’Amministrazione federale delle contribuzioni, per l’adempimento dei suoi compiti:
+- j. le Commissioni tripartite previste quali organi di controllo nell’articolo 7 capoverso 1 lettera b della legge dell’8 ottobre 1999[^9-17] sui lavoratori distaccati in Svizzera: per lo svolgimento dei loro compiti giusta l’articolo 11 dell’ordinanza del 21 maggio 2003[^9-18] sui lavoratori distaccati in Svizzera;
+- k.[^9-19] gli uffici dello stato civile, le autorità cantonali di vigilanza sullo stato civile e l’Ufficio federale dello stato civile: per l’identificazione delle persone in relazione con fatti di stato civile, per la preparazione della celebrazione del matrimonio o della registrazione dell’unione domestica, nonché per evitare l’elusione del diritto in materia di stranieri secondo gli articoli 97*a* capoverso 1 del Codice civile[^9-20] e 6 capoverso 2 della legge del 18 giugno 2004[^9-21] sull’unione domestica registrata;
+- l. gli uffici cantonali di coordinamento nel settore dell’asilo e dei rifugiati: esclusivamente per garantire l’aiuto sociale giusta la LAsi[^9-22];
+- m.[^9-23] i servizi competenti per i registri di cui all’articolo 2 capoverso 2 della legge del 23 giugno 2006[^9-24] sull’armonizzazione dei registri nell’ambito dell’armonizzazione dei registri e dell’aggiornamento del numero AVS;
+- n.[^9-25]
+
+  il Servizio delle attività informative della Confederazione (SIC):
+
+  - 1\. per l’identificazione delle persone allo scopo di individuare tempestivamente e sventare minacce per la sicurezza interna o esterna ai sensi del l’articolo 6 capoverso 1 lettera a della legge federale del 25 settembre 2015[^9-26] sulle attività informative (LAIn),
+  - 2\. per l’adempimento dei suoi compiti di verifica della minaccia per la sicurezza interna o esterna ai sensi della LCit[^9-27], della LStrI e della LAsi,
+  - 3\. per l’esame di misure di allontanamento e di respingimento ai sensi della LStrI;
+
+- o.[^9-28] l’Amministrazione federale delle contribuzioni, per l’adempimento dei suoi compiti:
 - 1\. nell’ambito della riscossione dell’imposta sul valore aggiunto sulle prestazioni che i contribuenti effettuano a titolo oneroso sul territorio svizzero (imposta sulle prestazioni eseguite sul territorio svizzero) e sull’acquisto di prestazioni di imprese con sede all’estero da parte di beneficiari che si trovano sul territorio svizzero (imposta sull’acquisto) e nell’ambito dell’applicazione dell’imposta preventiva,
 - 2\. nell’ambito dell’esecuzione di procedimenti penali e di procedimenti di assistenza amministrativa e giudiziaria;
-- p.[^9-28]
+- p.[^9-29]
 
-  l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^9-29], per l’adempimento dei suoi compiti:
+  l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^9-30], per l’adempimento dei suoi compiti:
 
   - 1\. nell’ambito della riscossione dell’imposta sul valore aggiunto sull’importazione di beni (imposta sull’importazione),
   - 2\. nell’ambito dell’antifrode doganale per l’identificazione delle persone;
 
-- q.[^9-30] ...
-- r.[^9-31]
+- q.[^9-31] ...
+- r.[^9-32]
 
   l’Ufficio federale delle assicurazioni sociali: per l’adempimento dei suoi compiti:
 
-  - 1\. in veste di autorità competente in materia di assistenza amministrativa conformemente all’articolo 76 paragrafo 2 del regolamento (CE) n. 883/2004[^9-32];
+  - 1\. in veste di autorità competente in materia di assistenza amministrativa conformemente all’articolo 76 paragrafo 2 del regolamento (CE) n. 883/2004[^9-33];
   - 2\. in veste di organismo di collegamento per l’attuazione dell’assistenza amministrativa in materia di prestazioni familiari conformemente agli articoli 67–69 del regolamento (CE) n. 883/2004.
 
-[^9-1]: Nuovo testo giusta l’all. n. 9 dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^9-1]: Nuovo testo giusta il n. I 4 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 [^9-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^9-3]: Nuovo testo giusta il n. I 6 dell’O del 15 ott. 2008 sugli adeguamenti alla LF sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
-[^9-4]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^9-5]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
-[^9-6]: Nuovo testo giusta l’all. n. 3 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
-[^9-7]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
-[^9-8]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^9-9]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^9-10]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
-[^9-11]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^9-12]: [RS 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
-[^9-13]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
-[^9-14]: Nuovo testo giusta l’all. 4 dell’O del 18 dic. 2013 sul sistema centrale d’informazione visti e sul sistema nazionale d’informazione visti, con effetto dal 20 gen. 2014 ([RU 2014 3](https://fedlex.data.admin.ch/eli/oc/2014/2)).
-[^9-15]: Nuova espr. giusta l’all. n. II 3 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^9-16]: [RS 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
-[^9-17]: [RS 823.201](https://fedlex.data.admin.ch/eli/cc/2003/232)
-[^9-18]: Nuovo testo giusta l’all. n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^9-19]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^9-20]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
-[^9-21]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^9-22]: Introdotta dall’all. n. 1 dell’O del 21 nov. 2007 sull’armonizzazione dei registri, in vigore dal 1° gen. 2008 ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
-[^9-23]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^9-24]: Introdotta dall’all. n. 9 dell’O del 12 dic. 2008 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)). Nuovo testo giusta il n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)).
-[^9-25]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^9-26]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^9-27]: Introdotta dal n. I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
-[^9-28]: Introdotta dal n. I dell’O del 16 nov. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
-[^9-29]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^9-30]: Introdotta dal n. I dell’O del 16 nov. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Abrogata dal n. I dell’O del 21 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
-[^9-31]: Introdotta dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3047](https://fedlex.data.admin.ch/eli/oc/2015/573)).
-[^9-32]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio del 29 aprile 2004 relativo al coordinamento dei sistemi di sicurezza sociale, GU L 166 del 30.4.2004, pag. 1; modificato da ultimo dal Regolamento (UE) n. 1372/2013, GU L 346 del 20.12.2013, pag. 27.
+[^9-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^9-4]: Nuovo testo giusta il n. I 6 dell’O del 15 ott. 2008 sugli adeguamenti alla LF sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+[^9-5]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
+[^9-6]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^9-7]: Nuovo testo giusta l’all. n. 3 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
+[^9-8]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
+[^9-9]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^9-10]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^9-11]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^9-12]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^9-13]: [RS 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
+[^9-14]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
+[^9-15]: Nuovo testo giusta l’all. 4 dell’O del 18 dic. 2013 sul sistema centrale d’informazione visti e sul sistema nazionale d’informazione visti, con effetto dal 20 gen. 2014 ([RU 2014 3](https://fedlex.data.admin.ch/eli/oc/2014/2)).
+[^9-16]: Nuova espr. giusta l’all. n. II 3 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^9-17]: [RS 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
+[^9-18]: [RS 823.201](https://fedlex.data.admin.ch/eli/cc/2003/232)
+[^9-19]: Nuovo testo giusta l’all. n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^9-20]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^9-21]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^9-22]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^9-23]: Introdotta dall’all. n. 1 dell’O del 21 nov. 2007 sull’armonizzazione dei registri, in vigore dal 1° gen. 2008 ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
+[^9-24]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^9-25]: Introdotta dall’all. n. 9 dell’O del 12 dic. 2008 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)). Nuovo testo giusta il n. I 4 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-26]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^9-27]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^9-28]: Introdotta dal n. I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^9-29]: Introdotta dal n. I dell’O del 16 nov. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
+[^9-30]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^9-31]: Introdotta dal n. I dell’O del 16 nov. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Abrogata dal n. I dell’O del 21 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
+[^9-32]: Introdotta dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3047](https://fedlex.data.admin.ch/eli/oc/2015/573)).
+[^9-33]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio del 29 aprile 2004 relativo al coordinamento dei sistemi di sicurezza sociale, GU L 166 del 30.4.2004, pag. 1; modificato da ultimo dal Regolamento (UE) n. 1372/2013, GU L 346 del 20.12.2013, pag. 27.
 
 #### Art. 10
 
@@ -660,7 +668,7 @@ Deve alla SEM un emolumento a copertura delle spese:
 
 L’ordinanza del 23 novembre 1994[^23-1] sul Registro centrale degli stranieri è abrogata.
 
-[^23-1]: [[RU 1994 2859](https://fedlex.data.admin.ch/eli/oc/1994/2859_2859_2859), [1996 194](https://fedlex.data.admin.ch/eli/oc/1996/194_194_194),[1999 1240](https://fedlex.data.admin.ch/eli/oc/1999/169),[2001 3184](https://fedlex.data.admin.ch/eli/oc/2001/481),[2002 1741](https://fedlex.data.admin.ch/eli/oc/2002/261)art. 35 n. 3,[2003 1380](https://fedlex.data.admin.ch/eli/oc/2003/232)art. 18 n. 1, [2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)n. II 3 [4813](https://fedlex.data.admin.ch/eli/oc/2004/728)all. n. 4,[2005 1321](https://fedlex.data.admin.ch/eli/oc/2005/203)]
+[^23-1]: [[RU 1994 2859](https://fedlex.data.admin.ch/eli/oc/1994/2859_2859_2859); [1996 194](https://fedlex.data.admin.ch/eli/oc/1996/194_194_194);[1999 1240](https://fedlex.data.admin.ch/eli/oc/1999/169);[2001 3184](https://fedlex.data.admin.ch/eli/oc/2001/481);[2002 1741](https://fedlex.data.admin.ch/eli/oc/2002/261)art. 35 n. 3;[2003 1380](https://fedlex.data.admin.ch/eli/oc/2003/232)art. 18 n. 1; [2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)n. II 3, [4813](https://fedlex.data.admin.ch/eli/oc/2004/728)all. n. 4;[2005 1321](https://fedlex.data.admin.ch/eli/oc/2005/203)]
 
 #### Art. 24
 
@@ -713,9 +721,9 @@ Allegato 1*[^t-1]*
 
 (art. 4 cpv. 3)
 
-## Autorizzazioni a consultare o trattare dei dati
+## Autorizzazioni a consultare o trattare dati
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 ([RU 2022 73](https://fedlex.data.admin.ch/eli/oc/2022/73)).
+[^t-1]: Nuovo testo giusta il n. II dell’O del 2 feb. 2022 ([RU 2022 73](https://fedlex.data.admin.ch/eli/oc/2022/73)). Aggiornato dal n. I 4 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ### Legenda
 
@@ -738,7 +746,7 @@ Unità organizzative
 - CP Comandi cantonali e comunali di polizia
 - DFAE Dipartimento federale degli affari esteri, Segreteria di Stato, Direzione politica e Direzione consolare
 - Fedpol Ufficio federale di polizia
-- – I Servizio giuridico
+- – I Divisione Diritto e misure
 - – II Polizia giudiziaria federale (PGF)
 - – III Ufficio centrale nazionale INTERPOL, Divisione Centrale operativa (compreso l’ufficio SIRENE), Divisione Documenti d’identità e uffici centrali, Divisione Identificazione biometrica, Ufficio di comunicazione in materia di riciclaggio di denaro (MROS)
 - – IV Divisione Ricerca e vigilanza
@@ -758,7 +766,7 @@ Unità organizzative
 - – II quarta e quinta corte
 - UCC Ufficio centrale di compensazione
 - UCL Uffici cantonali e comunali del lavoro
-- UDSC Ufficio federale della dogana e della sicurezza dei confini, compresa la divisione principale Antifrode doganale
+- UDSC Ufficio federale della dogana e della sicurezza dei confini
 - UFAS Ufficio federale delle assicurazioni sociali
 - UFG Ufficio federale di giustizia, Divisione Assistenza giudiziaria internazionale e Ambito direzionale Diritto privato
 
@@ -1191,7 +1199,7 @@ Allegato 4*[^t-3]*
 
 ## Accordi d’associazione a Schengen e Dublino
 
-[^t-3]: Introdotto dal n. I 1 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nouvo testo giusta il n. n. I de l’O del 18 set. 2015, in vigore dal 15 ott. 2015 ([RU 2015 3731](https://fedlex.data.admin.ch/eli/oc/2015/628)).
+[^t-3]: Introdotto dal n. I 1 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta il n. I dell’O del 18 set. 2015, in vigore dal 15 ott. 2015 ([RU 2015 3731](https://fedlex.data.admin.ch/eli/oc/2015/628)).
 
 ### 1. Accordi d’associazione a Schengen
 
