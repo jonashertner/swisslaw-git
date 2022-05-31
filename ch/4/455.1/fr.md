@@ -4,11 +4,11 @@ title: Ordonnance du 23 avril 2008 sur la protection des animaux (OPAn)
 short: OPAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/416"
 language: fr
-version: 2022-02-01
+version: 2022-06-01
 adopted: 2008-04-23
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20220201/fr/xml/fedlex-data-admin-ch-eli-cc-2008-416-20220201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20220201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2008-416-20220601-fr-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20220201/fr"
 
 (OPAn)
 
-du 23 avril 2008 (Etat le 1<sup>er</sup> février 2022)
+du 23 avril 2008 (État le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -93,7 +93,7 @@ Au sens de la présente ordonnance, on entend par:
 - v.[^2-8] *animaux génétiquement modifiés:* les animaux dont le matériel génétique a été modifié dans les cellules germinales par des techniques de modification génétique au sens de l’annexe 1 de l’ordonnance du 9 mai 2012 sur l’utilisation confinée[^2-9] d’une manière qui ne se produit pas par croisement dans des conditions naturelles ou par recombinaison naturelle;
 - w.[^2-10] *décapodes marcheurs:* crustacés du sous-ordre *Pleocyemata*, à l’exception des infra-ordres *Stenopodidea* et *Caridea*.
 
-<sup>4</sup> Les termes *région d’estivage, région de montagne* et *unité de main-d’œuvre sta**n**dard* sont utilisés au sens défini dans la législation sur l’agriculture.
+<sup>4</sup> Les termes *région d’estivage, région de montagne* et *unité de main-d’œuvre standard* sont utilisés au sens défini dans la législation sur l’agriculture.
 
 <sup>5</sup> Sont réputés *nouvellement aménagés* au sens de la présente ordonnance, les constructions nouvelles et les bâtiments existants qui ont connu un changement d’affectation ainsi que les bâtiments annexes qui ont été reconstruits ou agrandis.
 
@@ -110,7 +110,7 @@ Au sens de la présente ordonnance, on entend par:
 
 ## Chapitre 2 Détention et manière de traiter les animaux
 
-### Section 1 Dispositions générales****
+### Section 1 Dispositions générales
 
 [^chap2-sec1-1]
 
@@ -530,7 +530,7 @@ Le registre d’élevage doit contenir les informations suivantes:
 - a. s’il s’agit d’un élevage de chiens, de chats ou de grands perroquets, le nom, l’identification et la date de naissance ou d’éclosion de tous les animaux d’élevage et de leurs descendants; les diminutions d’effectif et leur cause, si elle est connue;
 - b. s’il s’agit d’autres espèces animales, le nombre d’animaux d’élevage, leur provenance, leur date de naissance ou d’éclosion et, s’il est connu, le nombre de jeunes animaux; les diminutions d’effectif et leur cause, si elle est connue.
 
-### Section 5**** Manière de traiter les animaux lors de manifestations
+### Section 5 Manière de traiter les animaux lors de manifestations
 
 [^chap2-sec5-1]
 
@@ -945,7 +945,7 @@ Les porcelets sevrés ne doivent pas être détenus dans des cages à plusieurs 
 
 <sup>3</sup> Lorsque les conditions météorologiques ou l’état du sol sont extrêmement défavorables, une surface couverte peut être exceptionnellement utilisée pour la sortie des équidés.
 
-4<sup>4</sup> Les équidés qui ne font l’objet d’aucune utilisation doivent être sortis deux heures au moins chaque jour.[^61-1]
+<sup>4</sup> Les équidés qui ne font l’objet d’aucune utilisation doivent être sortis deux heures au moins chaque jour.[^61-1]
 
 <sup>5</sup> Les équidés qui font l’objet d’une utilisation doivent pouvoir bénéficier de sorties au moins deux jours par semaine pendant au moins deux heures par jour.
 
@@ -1049,7 +1049,7 @@ Il faut prévoir en outre:
 
 [^68-1]
 
-[^68-1]: Abrogé par le ch. I de l’O du 23 nov. 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4871](https://fedlex.data.admin.ch/eli/oc/2016/782))
+[^68-1]: Abrogé par le ch. I de l’O du 23 nov. 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4871](https://fedlex.data.admin.ch/eli/oc/2016/782)).
 
 #### Art. 69
 
@@ -1292,11 +1292,11 @@ Les vétérinaires, les médecins, les responsables de refuges ou de pensions po
 
 <sup>3</sup> S’il apparaît, lors de la vérification des faits, que le chien présente un comportement attirant l’attention, notamment un comportement d’agression supérieur à la norme, le service cantonal compétent ordonne les mesures nécessaires.
 
-<sup>4</sup> Le service cantonal compétent saisit les annonces et les mesures ordonnées dans le système d’information pour les données d’exécution du service vétérinaire public (ASAN) visé dans l’ordonnance du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public[^79-2].[^79-3]
+<sup>4</sup> Le service cantonal compétent saisit les annonces et les mesures ordonnées dans le système d’information pour les données d’exécution du service vétérinaire public (ASAN) visé dans l’ordonnance du 27 avril 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire[^79-2].[^79-3]
 
 [^79-1]: Abrogé par le ch. I de l’O du 23 oct. 2013, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^79-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^79-3]: Introduit par l’annexe 3 ch. II 2 de l’O du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
+[^79-3]: Introduit par l’annexe 3 ch. II 2 de l’O du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public ([RO 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)). Nouvelle teneur selon l’annexe 4 ch. II 1 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ### Section 11 Chats domestiques
 
@@ -1631,13 +1631,13 @@ L’autorisation est délivrée pour une durée maximale de:
 
 [^100-1]: [RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
 
-## Chapitre 5 Prise en charge professionnelle des animaux****
+## Chapitre 5 Prise en charge professionnelle des animaux
 
 [^chap5-1]
 
 [^chap5-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
-### Section 1**** Prise en charge, soins, élevage et détention des animaux
+### Section 1 Prise en charge, soins, élevage et détention des animaux
 
 [^chap5-sec1-1]
 
@@ -1725,7 +1725,7 @@ Dans les cas suivants, il suffit que la personne responsable de la prise en char
 
 - a. dans les pensions et refuges pour animaux d’une capacité maximale de 19 places;
 - b.[^102-2] dans les autres établissements où sont pris en charge au maximum 19 animaux à titre professionnel;
-- [tab] c. et d.[^102-3] ...
+- [tab] c. et d.[^102-3] …
 
 <sup>3</sup> Dans les pensions et refuges pour animaux d’une capacité maximale de 5 places ou dans les autres établissements de prise en charge professionnelle d’animaux d’une capacité maximale de 5 places, il suffit que la personne responsable de la prise en charge des animaux dispose de la formation requise pour la détention de l’espèce animale prise en charge.
 
@@ -2130,7 +2130,7 @@ Le délégué à la protection des animaux s’assure:
 
 #### Art. 130
 
-**Attributions du directeur du domaine de l’expérimentation animale [^130-1]**
+**Attributions du directeur du domaine de l’expérimentation animale[^130-1]**
 
 Le directeur du domaine de l’expérimentation animale est responsable:[^130-2]
 
@@ -2554,7 +2554,7 @@ Le chauffeur doit:
 - b. effectuer le transport des animaux avec ménagement et sans retard inutile après les avoir chargés;
 - c. consigner les blessures subies par les animaux durant le transport;
 - d. aviser immédiatement le destinataire de l’arrivée des animaux;
-- e.[^152-1] consigner par écrit la durée du trajet et la durée du transport au moment de la livraison des animaux à onglons et des animaux conduits à l’abattage..
+- e.[^152-1] consigner par écrit la durée du trajet et la durée du transport au moment de la livraison des animaux à onglons et des animaux conduits à l’abattage.
 
 <sup>2</sup> Le chauffeur est responsable de l’hébergement et des soins aux animaux dès leur prise en charge et jusqu’à leur livraison au destinataire.
 
@@ -2993,7 +2993,7 @@ La mise à mort de vertébrés ou de décapodes marcheurs sans étourdissement e
 
 [^179d-1]: Introduit par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
-### Section 2 Responsabilités lors de l’abattage et manière de traiter les animaux à l’abattoir****
+### Section 2 Responsabilités lors de l’abattage et manière de traiter les animaux à l’abattoir
 
 [^chap8-sec2-1]
 
@@ -3078,7 +3078,7 @@ Le délégué à la protection des animaux est habilité à donner des instructi
 
 [^183187-1]: Abrogés par le ch. I de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
-### Section 3**** Coordination des contrôles dans les abattoirs
+### Section 3 Coordination des contrôles dans les abattoirs
 
 [^chap8-sec3-1]
 
@@ -3092,9 +3092,9 @@ Le délégué à la protection des animaux est habilité à donner des instructi
 
 <sup>3</sup> La surveillance officielle de l’exécution de la législation sur la protection des animaux lors de l’abattage n’est pas soumise à émoluments.
 
-[^188-1]: [[RO 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)annexe 2 ch. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)ch. II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)annexe 8 ch. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)annexe 2 ch. II 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)annexe 3 ch. II 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)annexe ch. II 3. [RO 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62]. Voir actuellement l’O du 16 déc. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
+[^188-1]: [[RO 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747); [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [4809](https://fedlex.data.admin.ch/eli/oc/2006/739); [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)annexe 2 ch. 2, [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)ch. II 1; [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)annexe 8 ch. II 2, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)annexe 2 ch. II 2; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 8; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)annexe 3 ch. II 6; [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608), [5201](https://fedlex.data.admin.ch/eli/oc/2015/843)annexe ch. II 3. [RO 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62]. Voir actuellement l’O du 16 déc. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
 
-## Chapitre 9 Formation et formation continue en matière de détention d’animaux****
+## Chapitre 9 Formation et formation continue en matière de détention d’animaux
 
 [^chap9-1]
 
@@ -3266,7 +3266,7 @@ Par formation dans une profession de la pêche on entend:
 
 <sup>3</sup> Le DFI réglemente les objectifs, la forme, le contenu et l’ampleur de la formation.
 
-### Section 3 Reconnaissance et organisation des formations et des formations continues****
+### Section 3 Reconnaissance et organisation des formations et des formations continues
 
 [^chap9-sec3-1]
 
@@ -3409,7 +3409,7 @@ Les formations visées à l’art. 203 peuvent être dispensées par:
 
 [^206-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
-## Chapitre 9*a***** Infractions
+## Chapitre 9*a* Infractions
 
 [^chap9a-1]
 
@@ -3458,16 +3458,15 @@ L’OSAV procure les connaissances scientifiques nécessaires à l’émission d
 
 <sup>1</sup> L’OSAV peut édicter des ordonnances de l’office à caractère technique.
 
-<sup>2</sup> Il peut obliger les autorités cantonales compétentes à enregistrer les autorisations et les résultats des contrôles officiels dans le système d’information pour les données d’exécution du service vétérinaire public (ASAN) visé dans l’ordonnance du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public[^209-1].[^209-2]
+<sup>2</sup> Il peut obliger les autorités cantonales compétentes à enregistrer les autorisations et les résultats des contrôles officiels dans ASAN.[^209-1]
 
-<sup>3</sup> et <sup>4</sup> …[^209-3]
+<sup>3</sup> et <sup>4</sup> …[^209-2]
 
-<sup>5</sup> …[^209-4]
+<sup>5</sup> …[^209-3]
 
-[^209-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^209-2]: Nouvelle teneur selon l’annexe 3 ch. II 2 de l’O du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
-[^209-3]: Abrogés par le ch. I de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^209-4]: Introduit par le ch. I de l’O du 23 oct. 2013 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Abrogé par le ch. I de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^209-1]: Nouvelle teneur selon l’annexe 4 ch. II 1 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^209-2]: Abrogés par le ch. I de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^209-3]: Introduit par le ch. I de l’O du 23 oct. 2013 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Abrogé par le ch. I de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 209a
 
@@ -3665,7 +3664,7 @@ Les établissements détenant des animaux sauvages qui existaient le 1<sup>er</s
 
 <sup>1</sup> Les personnes enregistrées le 1<sup>er</sup> septembre 2008 comme gérant d’une exploitation agricole ou comme détenteur d’animaux au sens de l’art. 31, al. 4, ne sont pas tenues de rattraper la formation à la détention d’animaux prévue à l’art. 31, al. 1 et 4.
 
-<sup>2</sup> Les personnes qui peuvent établir qu’elles dirigeaient le 1<sup>er</sup> septembre 2008 un établissement de détention professionnel d’équidés ne sont pas tenues de présenter d’attestation de formation visée à l’art. 31, al. 5. [^222-1]
+<sup>2</sup> Les personnes qui peuvent établir qu’elles dirigeaient le 1<sup>er</sup> septembre 2008 un établissement de détention professionnel d’équidés ne sont pas tenues de présenter d’attestation de formation visée à l’art. 31, al. 5.[^222-1]
 
 <sup>3</sup> Les exigences de formation auxquelles doivent satisfaire les directeurs d’expériences sur animaux visés à l’art. 132, et les personnes qui effectuent des expériences en vertu de l’art. 134 ne sont pas applicables aux personnes qui exerçaient déjà cette fonction avant le 1<sup>er</sup> juillet 1999.
 
@@ -3739,7 +3738,7 @@ Doivent remplir les exigences de formation d’ici au 1<sup>er</sup> janvier 201
 
 <sup>2</sup> Les art. 23, al. 1, let. b à d, et 2, 97, al. 2, 100, al. 2, 194, al. 1, let. a, ainsi que les art. 3, deuxième phrase, 5*b* et 5*d* de l’annexe 6, ch. II/4, entrent en vigueur le 1<sup>er</sup> janvier 2009.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 10)
 
@@ -3756,25 +3755,25 @@ Tableau 1
 ## Bovins
 
 <table>
-<tr><th>Catégorie d’animaux</th><th colspan="2"></th><th>Veaux</th><th colspan="2"></th><th></th><th colspan="2">Jeunes animaux</th><th colspan="2"></th><th colspan="2"></th><th></th><th colspan="3">Vaches et génisses en état de gestation avancée<sup>1</sup> hauteur au garrot</th><th></th><th></th></tr>
-<tr><th colspan="2"></th><th></th><th colspan="2">jusqu’à 2 sem.</th><th>jusqu’à 3 sem.</th><th>4 semaines à 4 mois</th><th>jusqu’à 200 kg</th><th colspan="2">200–300 kg</th><th colspan="2">300–400 kg</th><th colspan="2">plus de 400 kg</th><th>125 ±5 cm</th><th>135 ±5 cm</th><th colspan="3">145 ±5 cm</th></tr>
-<tr><td colspan="2">1 Stabulation entravée<sup>2</sup></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td colspan="2">11 Largeur de la couche par animal</td><td>cm</td><td colspan="2">–</td><td>–</td><td>–</td><td>70</td><td colspan="2">80</td><td colspan="2">90</td><td colspan="2">100</td><td>100<sup>3</sup></td><td>110<sup>3</sup></td><td colspan="3">120<sup>3</sup></td></tr>
-<tr><td colspan="2">12 Longueur de la couche</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td colspan="2">121 Couche courte<sup>4</sup></td><td>cm</td><td colspan="2">–</td><td>–</td><td>–</td><td>120</td><td colspan="2">130</td><td colspan="2">145</td><td colspan="2">155</td><td>165<sup>3</sup></td><td>185<sup>3, 5</sup></td><td colspan="3">195<sup>3</sup></td></tr>
-<tr><td colspan="2">122 Couche moyenne</td><td>cm</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>180<sup>3</sup></td><td>200<sup>3</sup></td><td colspan="3">240<sup>3</sup></td></tr>
-<tr><td colspan="2">2 Détention en box</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td colspan="2">21 Largeur</td><td>cm</td><td colspan="2">85</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="3">–</td></tr>
-<tr><td colspan="2">22 Longueur</td><td>cm</td><td colspan="2">130</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="3">–</td></tr>
-<tr><td colspan="2">3 Détention en groupe dans l’étable en stabulation libre</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td colspan="2">31 Surface de l’aire de repos recouverte de litière dans les systèmes sans logettes par animal</td><td>m<sup>2</sup></td><td colspan="2">–</td><td>1,0<sup>6</sup></td><td>1,2–1,5<sup>7</sup></td><td>1,8<sup>8</sup></td><td colspan="2">2,0<sup>8</sup></td><td colspan="2">2,5<sup>8</sup></td><td colspan="2">3,0<sup>8</sup></td><td>4,0<sup>3</sup></td><td>4,5<sup>3</sup></td><td colspan="3">5,0<sup>3</sup></td></tr>
-<tr><td colspan="2">32 Logettes</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td colspan="2">321 Largeur de la logette par animal</td><td>cm</td><td colspan="2">–</td><td>–</td><td>–</td><td>70</td><td colspan="2">80</td><td colspan="2">90</td><td colspan="2">100</td><td>110<sup>3</sup></td><td>120<sup>3,13</sup></td><td colspan="3">125<sup>3</sup></td></tr>
-<tr><td colspan="2">322 Longueur des logettes le long de la paroi</td><td>cm</td><td colspan="2">–</td><td>–</td><td>–</td><td>160</td><td colspan="2">190</td><td colspan="2">210</td><td colspan="2">240</td><td>230<sup>3</sup></td><td>240<sup>3</sup></td><td colspan="3">260<sup>3</sup></td></tr>
-<tr><td colspan="2">323 Longueur des logettes opposées</td><td>cm</td><td colspan="2">–</td><td>–</td><td>–</td><td>150</td><td colspan="2">180</td><td colspan="2">200</td><td colspan="2">220</td><td>200<sup>3</sup></td><td>220<sup>3</sup></td><td colspan="3">235<sup>3</sup></td></tr>
-<tr><td colspan="2">33 Largeur de la place à la mangeoire par animal</td><td>cm</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>65<sup>9</sup></td><td>72<sup>9</sup></td><td colspan="3">78<sup>9</sup></td></tr>
-<tr><td colspan="2">34 Longueur de la place à la mangeoire, y compris couloir<sup>10</sup></td><td>cm</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>290<sup>11</sup></td><td>320<sup>11</sup></td><td colspan="3">330<sup>11</sup></td></tr>
-<tr><td colspan="2">35 Couloir derrière la rangée des logettes<sup>10</sup></td><td>cm</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>220<sup>12</sup></td><td>240<sup>12</sup></td><td colspan="3">260<sup>12</sup></td></tr>
+<tr><th>Catégorie d’animaux</th><th></th><th>Veaux</th><th></th><th></th><th colspan="2">Jeunes animaux</th><th></th><th></th><th colspan="3">Vaches et génisses en état de gestation avancée<sup>1</sup> hauteur au garrot</th><th></th><th></th></tr>
+<tr><th></th><th></th><th>jusqu’à 2 sem.</th><th>jusqu’à 3 sem.</th><th>4 semaines à 4 mois</th><th>jusqu’à 200 kg</th><th>200–300 kg</th><th>300–400 kg</th><th>plus de 400 kg</th><th>125 ±5 cm</th><th>135 ±5 cm</th><th colspan="3">145 ±5 cm</th></tr>
+<tr><td>1 Stabulation entravée<sup>2</sup></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td></tr>
+<tr><td>11 Largeur de la couche par animal</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>70</td><td>80</td><td>90</td><td>100</td><td>100<sup>3</sup></td><td>110<sup>3</sup></td><td colspan="3">120<sup>3</sup></td></tr>
+<tr><td>12 Longueur de la couche</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td></tr>
+<tr><td>121 Couche courte<sup>4</sup></td><td>cm</td><td>–</td><td>–</td><td>–</td><td>120</td><td>130</td><td>145</td><td>155</td><td>165<sup>3</sup></td><td>185<sup>3,</sup> <sup>5</sup></td><td colspan="3">195<sup>3</sup></td></tr>
+<tr><td>122 Couche moyenne</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>180<sup>3</sup></td><td>200<sup>3</sup></td><td colspan="3">240<sup>3</sup></td></tr>
+<tr><td>2 Détention en box</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td></tr>
+<tr><td>21 Largeur</td><td>cm</td><td>85</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="3">–</td></tr>
+<tr><td>22 Longueur</td><td>cm</td><td>130</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="3">–</td></tr>
+<tr><td>3 Détention en groupe dans l’étable en stabulation libre</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td></tr>
+<tr><td>31 Surface de l’aire de repos recouverte de litière dans les systèmes sans logettes par animal</td><td>m<sup>2</sup></td><td>–</td><td>1,0<sup>6</sup></td><td>1,2–1,5<sup>7</sup></td><td>1,8<sup>8</sup></td><td>2,0<sup>8</sup></td><td>2,5<sup>8</sup></td><td>3,0<sup>8</sup></td><td>4,0<sup>3</sup></td><td>4,5<sup>3</sup></td><td colspan="3">5,0<sup>3</sup></td></tr>
+<tr><td>32 Logettes</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td></tr>
+<tr><td>321 Largeur de la logette par animal</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>70</td><td>80</td><td>90</td><td>100</td><td>110<sup>3</sup></td><td>120<sup>3,13</sup></td><td colspan="3">125<sup>3</sup></td></tr>
+<tr><td>322 Longueur des logettes le long de la paroi</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>160</td><td>190</td><td>210</td><td>240</td><td>230<sup>3</sup></td><td>240<sup>3</sup></td><td colspan="3">260<sup>3</sup></td></tr>
+<tr><td>323 Longueur des logettes opposées</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>150</td><td>180</td><td>200</td><td>220</td><td>200<sup>3</sup></td><td>220<sup>3</sup></td><td colspan="3">235<sup>3</sup></td></tr>
+<tr><td>33 Largeur de la place à la mangeoire par animal</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>65<sup>9</sup></td><td>72<sup>9</sup></td><td colspan="3">78<sup>9</sup></td></tr>
+<tr><td>34 Longueur de la place à la mangeoire, y compris couloir<sup>10</sup></td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>290<sup>11</sup></td><td>320<sup>11</sup></td><td colspan="3">330<sup>11</sup></td></tr>
+<tr><td>35 Couloir derrière la rangée des logettes<sup>10</sup></td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>220<sup>12</sup></td><td>240<sup>12</sup></td><td colspan="3">260<sup>12</sup></td></tr>
 </table>
 
 Notes du tableau 1 – Bovins
@@ -3792,7 +3791,7 @@ Notes du tableau 1 – Bovins
 <tr><td><sup>10</sup> Si une stabulation libre est nouvellement installée dans une étable existante, les dimensions peuvent être inférieures de 40 cm au maximum, à condition que les séparations des logettes ne parviennent pas jusqu’à la poutre arrière, que le couloir concerné n’aboutisse pas à une impasse et que d’autres possibilités d’évitement soient prévues.</td></tr>
 <tr><td><sup>11</sup> Est applicable à la zone de la mangeoire en cas de nouvelle installation.</td></tr>
 <tr><td><sup>12</sup> Est applicable aux couloirs nouvellement aménagés.</td></tr>
-<tr><td><sup>13</sup> Dans ces étables, une tolérance de 1 cm est autorisée dans le cas d’arceaux qui n’ont pas d’appui à l’arrière</td></tr>
+<tr><td><sup>13</sup> Dans ces étables, une tolérance de 1 cm est autorisée dans le cas d’arceaux qui n’ont pas d’appui à l’arrière.</td></tr>
 </table>
 
 Tableau 2
@@ -3803,7 +3802,7 @@ Tableau 2
 <tr><th>Catégorie d’animaux</th><th colspan="5">Jeunes animaux</th></tr>
 <tr><th></th><th>jusqu’à 200 kg</th><th>200–250 kg</th><th>250–350 kg</th><th>350–450 kg</th><th>plus de 450 kg</th></tr>
 <tr><td>1 Détention en groupe dans l’étable à stabulation libre</td><td colspan="5"></td></tr>
-<tr><th>11 Surface au sol en cas de détention sur sol entièrement perforé, par animal m<sup>2</sup></th><th>1,8</th><th>2,0</th><th>2,3</th><th>2,5</th><th>3,0</th></tr>
+<tr><td>11 Surface au sol en cas de détention sur sol entièrement perforé, par animal m<sup>2</sup></td><td>1,8</td><td>2,0</td><td>2,3</td><td>2,5</td><td>3,0</td></tr>
 </table>
 
 Tableau 3
@@ -3811,23 +3810,23 @@ Tableau 3
 ## Porcs (minipigs exceptés)
 
 <table>
-<tr><th>Catégorie d’animaux</th><th></th><th>Porcelets sevrés</th><th></th><th>Porcs<sup>1</sup></th><th colspan="2"></th><th colspan="2"></th><th colspan="2"></th><th>Truies</th><th>Verrats reproducteurs</th></tr>
-<tr><th></th><th></th><th>jusqu’à 15 kg</th><th>15–25 kg</th><th colspan="2">25–60 kg</th><th colspan="2">60–85 kg</th><th colspan="2">85–110 kg</th><th>110–160 kg</th><th></th><th></th></tr>
-<tr><td>1 Place à la mangeoire</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td></td></tr>
-<tr><td>11 Place à la mangeoire par animal dans la détention en groupe</td><td>cm</td><td>12</td><td>18</td><td colspan="2">27</td><td colspan="2">30</td><td colspan="2">33</td><td>36</td><td>45<sup>2, 3</sup></td><td>–</td></tr>
-<tr><td>2 Surfaces au sol</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td></td></tr>
-<tr><td>21 Logette, stalles d’alimentation et de repos</td><td>cm</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>65×190<sup>4</sup></td><td>–</td></tr>
-<tr><td>22 Largeur du couloir dans le cas des stalles d’alimentation et de repos</td><td>cm</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>180</td><td>–</td></tr>
-<tr><td>23 Stalle d’alimentation pouvant être fermée</td><td>cm</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>45×160</td><td>–</td></tr>
-<tr><td>3 Aire de repos</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td></td></tr>
-<tr><td>31 Surface totale par animal<sup>5</sup></td><td>m<sup>2</sup></td><td>0,20</td><td>0,35</td><td colspan="2">0,60</td><td colspan="2">0,75</td><td colspan="2">0,90</td><td>1,65</td><td>2,5<sup>6</sup></td><td>6<sup>7</sup></td></tr>
-<tr><td>32 Dont aire de repos par animal<sup>8</sup></td><td>m<sup>2</sup></td><td>0,15</td><td>0,25</td><td colspan="2">0,40</td><td colspan="2">0,50</td><td colspan="2">0,60</td><td>0,95</td><td>–</td><td>3</td></tr>
-<tr><td>321 Jusqu’à 6 animaux</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>1,2<sup>9</sup></td><td>–</td></tr>
-<tr><td>322 7 à 20 animaux</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>1,1<sup>9</sup></td><td>–</td></tr>
-<tr><td>323 Plus de 20 animaux</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>1,0<sup>9</sup></td><td>–</td></tr>
-<tr><td>4 Box de mises bas existants le 1<sup>er</sup> juillet 1997</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>3,5<sup>10</sup></td><td>–</td></tr>
-<tr><td>5 Box de mise bas installés après le 1<sup>er</sup> juillet 1997</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>4,5<sup>11</sup></td><td>–</td></tr>
-<tr><td>6 Box de mise bas nouvellement installés</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>5,5<sup>11</sup></td><td>–</td></tr>
+<tr><th>Catégorie d’animaux</th><th></th><th>Porcelets sevrés</th><th></th><th>Porcs<sup>1</sup></th><th></th><th></th><th></th><th>Truies</th><th>Verrats reproducteurs</th></tr>
+<tr><th></th><th></th><th>jusqu’à 15 kg</th><th>15–25 kg</th><th>25–60 kg</th><th>60–85 kg</th><th>85–110 kg</th><th>110–160 kg</th><th></th><th></th></tr>
+<tr><td>1 Place à la mangeoire</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11 Place à la mangeoire par animal dans la détention en groupe</td><td>cm</td><td>12</td><td>18</td><td>27</td><td>30</td><td>33</td><td>36</td><td>45<sup>2, 3</sup></td><td>–</td></tr>
+<tr><td>2 Surfaces au sol</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>21 Logette, stalles d’alimentation et de repos</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>65×190<sup>4</sup></td><td>–</td></tr>
+<tr><td>22 Largeur du couloir dans le cas des stalles d’alimentation et de repos</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>180</td><td>–</td></tr>
+<tr><td>23 Stalle d’alimentation pouvant être fermée</td><td>cm</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>45×160</td><td>–</td></tr>
+<tr><td>3 Aire de repos</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>31 Surface totale par animal<sup>5</sup></td><td>m<sup>2</sup></td><td>0,20</td><td>0,35</td><td>0,60</td><td>0,75</td><td>0,90</td><td>1,65</td><td>2,5<sup>6</sup></td><td>6<sup>7</sup></td></tr>
+<tr><td>32 Dont aire de repos par animal<sup>8</sup></td><td>m<sup>2</sup></td><td>0,15</td><td>0,25</td><td>0,40</td><td>0,50</td><td>0,60</td><td>0,95</td><td>–</td><td>3</td></tr>
+<tr><td>321 Jusqu’à 6 animaux</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>1,2<sup>9</sup></td><td>–</td></tr>
+<tr><td>322 7 à 20 animaux</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>1,1<sup>9</sup></td><td>–</td></tr>
+<tr><td>323 Plus de 20 animaux</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>1,0<sup>9</sup></td><td>–</td></tr>
+<tr><td>4 Box de mises bas existants le 1<sup>er</sup> juillet 1997</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>3,5<sup>10</sup></td><td>–</td></tr>
+<tr><td>5 Box de mise bas installés après le 1<sup>er</sup> juillet 1997</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>4,5<sup>11</sup></td><td>–</td></tr>
+<tr><td>6 Box de mise bas nouvellement installés</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>5,5<sup>11</sup></td><td>–</td></tr>
 </table>
 
 Notes du tableau 3 – Porcs (minipigs exceptés)
@@ -3851,8 +3850,8 @@ Tableau 4
 ## Moutons
 
 <table>
-<tr><td>Catégorie d’animaux</td><td></td><td>Agneaux</td><td>Jeunes animaux</td><td>Moutons<sup>1</sup></td><td colspan="2">Béliers et brebis<sup>1</sup> sans agneaux</td><td></td><td colspan="2">Brebis<sup>1</sup> avec agneaux<sup>2</sup></td><td></td></tr>
-<tr><td></td><td></td><td>jusqu’à 20 kg</td><td>20–50 kg</td><td>50–70 kg</td><td>70–90 kg</td><td colspan="2">plus de 90 kg</td><td>70–90 kg</td><td colspan="2">plus de 90 kg</td></tr>
+<tr><th>Catégorie d’animaux</th><th></th><th>Agneaux</th><th>Jeunes animaux</th><th>Moutons<sup>1</sup></th><th colspan="2">Béliers et brebis<sup>1</sup> sans agneaux</th><th></th><th colspan="2">Brebis<sup>1</sup> avec agneaux<sup>2</sup></th><th></th></tr>
+<tr><th></th><th></th><th>jusqu’à 20 kg</th><th>20–50 kg</th><th>50–70 kg</th><th>70–90 kg</th><th colspan="2">plus de 90 kg</th><th>70–90 kg</th><th colspan="2">plus de 90 kg</th></tr>
 <tr><td>1 Détention dans des box individuels</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
 <tr><td>11 Surface du box, par animal</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>2,0</td><td>2,0</td><td colspan="2">2,5</td><td>2,5</td><td colspan="2">3,0</td></tr>
 <tr><td>2 Stabulation libre</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
@@ -3875,21 +3874,21 @@ Tableau 5
 ## Chèvres
 
 <table>
-<tr><th>Catégorie d’animaux</th><th colspan="2"></th><th>Cabris</th><th colspan="2">Chèvres<sup>1</sup> et chèvres naines</th><th></th><th>Chèvres<sup>1</sup> et boucs</th><th colspan="2"></th></tr>
-<tr><th></th><th colspan="2"></th><th>jusqu’à 12 kg</th><th>12–22 kg</th><th colspan="2">23–40 kg</th><th colspan="2">40–70 kg</th><th>plus 70 kg</th></tr>
-<tr><td colspan="2">1 Stabulation entravée</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">11 Largeur de la couche, par animal</td><td>cm</td><td>–</td><td>–</td><td colspan="2">40</td><td colspan="2">50</td><td>60</td></tr>
-<tr><td colspan="2">12 Longueur de la couche<sup>2</sup></td><td>cm</td><td>–</td><td>–</td><td colspan="2">75</td><td colspan="2">95</td><td>95</td></tr>
-<tr><td colspan="2">2 Détention dans des box individuels</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">21 Surface du box</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td colspan="2">2,0</td><td colspan="2">3,0</td><td>3,5</td></tr>
-<tr><td colspan="2">3 Stabulation libre</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">31 Largeur de la place à la mangeoire, par animal</td><td>cm</td><td>15</td><td>20</td><td colspan="2">30</td><td colspan="2">35</td><td>40</td></tr>
-<tr><td colspan="2">32 Nbre (n) de places à la mangeoire par animal pour:</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">321 les groupes jusqu’à 15 animaux</td><td>n</td><td>1</td><td>1</td><td colspan="2">1,1</td><td colspan="2">1,25</td><td>1,25</td></tr>
-<tr><td colspan="2">322 les groupes de plus de 15 animaux; pour chaque animal suppl.</td><td>n</td><td>1</td><td>1</td><td colspan="2">1</td><td colspan="2">1</td><td>1</td></tr>
-<tr><td colspan="2">33 Surface de compartiment par animal<sup>3</sup></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">331 Groupes jusqu’à 15 animaux</td><td>m<sup>2</sup></td><td>0,3<sup>4</sup></td><td>0,5</td><td colspan="2">1,2</td><td colspan="2">1,7</td><td>2,2</td></tr>
-<tr><td colspan="2">332 Groupes de plus de 15 animaux; pour chaque animal suppl.</td><td>m<sup>2</sup></td><td>0,2</td><td>0,4</td><td colspan="2">1,0</td><td colspan="2">1,5</td><td>2,0</td></tr>
+<tr><th>Catégorie d’animaux</th><th></th><th>Cabris</th><th colspan="2">Chèvres<sup>1</sup> et chèvres naines</th><th></th><th>Chèvres<sup>1</sup> et boucs</th><th colspan="2"></th></tr>
+<tr><th></th><th></th><th>jusqu’à 12 kg</th><th>12–22 kg</th><th colspan="2">23–40 kg</th><th colspan="2">40–70 kg</th><th>plus 70 kg</th></tr>
+<tr><td>1 Stabulation entravée</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td>11 Largeur de la couche, par animal</td><td>cm</td><td>–</td><td>–</td><td colspan="2">40</td><td colspan="2">50</td><td>60</td></tr>
+<tr><td>12 Longueur de la couche<sup>2</sup></td><td>cm</td><td>–</td><td>–</td><td colspan="2">75</td><td colspan="2">95</td><td>95</td></tr>
+<tr><td>2 Détention dans des box individuels</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td>21 Surface du box</td><td>m<sup>2</sup></td><td>–</td><td>–</td><td colspan="2">2,0</td><td colspan="2">3,0</td><td>3,5</td></tr>
+<tr><td>3 Stabulation libre</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td>31 Largeur de la place à la mangeoire, par animal</td><td>cm</td><td>15</td><td>20</td><td colspan="2">30</td><td colspan="2">35</td><td>40</td></tr>
+<tr><td>32 Nbre (n) de places à la mangeoire par animal pour:</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td>321 les groupes jusqu’à 15 animaux</td><td>n</td><td>1</td><td>1</td><td colspan="2">1,1</td><td colspan="2">1,25</td><td>1,25</td></tr>
+<tr><td>322 les groupes de plus de 15 animaux; pour chaque animal suppl.</td><td>n</td><td>1</td><td>1</td><td colspan="2">1</td><td colspan="2">1</td><td>1</td></tr>
+<tr><td>33 Surface de compartiment par animal<sup>3</sup></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td>331 Groupes jusqu’à 15 animaux</td><td>m<sup>2</sup></td><td>0,3<sup>4</sup></td><td>0,5</td><td colspan="2">1,2</td><td colspan="2">1,7</td><td>2,2</td></tr>
+<tr><td>332 Groupes de plus de 15 animaux; pour chaque animal suppl.</td><td>m<sup>2</sup></td><td>0,2</td><td>0,4</td><td colspan="2">1,0</td><td colspan="2">1,5</td><td>2,0</td></tr>
 </table>
 
 Annexes du tableau 5 – Chèvres
@@ -3906,15 +3905,15 @@ Tableau 6
 ## Lamas et alpagas
 
 <table>
-<tr><th>Catégorie d’animaux</th><th colspan="2"></th><th>animaux adultes<sup>1</sup></th><th colspan="2"></th></tr>
-<tr><td colspan="2">1 Surfaces des enclos</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">11 Groupes comptant jusqu’à 6 animaux;</td><td>m<sup>2</sup></td><td>250</td><td colspan="2"></td></tr>
-<tr><td colspan="2">12 Groupes de plus de 6 animaux, en plus: à partir du 7<sup>e</sup> au 12<sup>e</sup> animal, par animal</td><td>m<sup>2</sup></td><td>30</td><td colspan="2"></td></tr>
-<tr><td colspan="2">13 à partir du 13<sup>e</sup> animal, par animal</td><td>m<sup>2</sup></td><td>10</td><td colspan="2"></td></tr>
-<tr><td colspan="2">2 Détention en groupe</td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">21 Surface de l’abri ou étable par animal</td><td>m<sup>2</sup></td><td>2</td><td></td></tr>
-<tr><td colspan="2">3 Détention individuelle</td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">31 Surface de l’abri ou étable</td><td>m<sup>2</sup></td><td>4</td><td></td></tr>
+<tr><th>Catégorie d’animaux</th><th></th><th>animaux adultes<sup>1</sup></th></tr>
+<tr><td>1 Surfaces des enclos</td><td></td><td></td></tr>
+<tr><td>11 Groupes comptant jusqu’à 6 animaux;</td><td>m<sup>2</sup></td><td>250</td></tr>
+<tr><td>12 Groupes de plus de 6 animaux, en plus: à partir du 7<sup>e</sup> au 12<sup>e</sup> animal, par animal</td><td>m<sup>2</sup></td><td>30</td></tr>
+<tr><td>13 à partir du 13<sup>e</sup> animal, par animal</td><td>m<sup>2</sup></td><td>10</td></tr>
+<tr><td>2 Détention en groupe</td><td></td><td></td></tr>
+<tr><td>21 Surface de l’abri ou étable par animal</td><td>m<sup>2</sup></td><td>2</td></tr>
+<tr><td>3 Détention individuelle</td><td></td><td></td></tr>
+<tr><td>31 Surface de l’abri ou étable</td><td>m<sup>2</sup></td><td>4</td></tr>
 </table>
 
 Annotation du tableau 6 – Lamas et alpagas
@@ -3928,19 +3927,19 @@ Tableau 7
 ## Équidés
 
 <table>
-<tr><td colspan="2">Catégorie d’animaux</td><td></td><td>Équidés</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">Hauteur au garrot</td><td></td><td>&lt;120 cm</td><td>120–134 cm</td><td>134–148 cm</td><td>148–162 cm</td><td>162–175 cm</td><td>&gt;175 cm</td></tr>
-<tr><td>1 Surface par animal</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>11 Box individuel<sup>1, 2</sup> ou box pour groupe à un compartiment<sup>1, 3, 4</sup></td><td colspan="2">m<sup>2</sup></td><td>5,5</td><td>7</td><td>8</td><td>9</td><td>10,5</td><td>12</td></tr>
-<tr><td>12 Valeurs de tolérance<sup>5</sup></td><td colspan="2">m<sup>2</sup></td><td>–</td><td>–</td><td>7</td><td>8</td><td>9</td><td>10,5</td></tr>
-<tr><td>13 Surface de repos en stabulation libre à plusieurs compartiments<sup>1,</sup> <sup>3, 4, 6</sup></td><td colspan="2">m<sup>2</sup></td><td>4</td><td>4,5</td><td>5,5</td><td>6</td><td>7,5</td><td>8</td></tr>
-<tr><td>2 Hauteur du local en m dans le secteur où se tiennent les équidés</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>21 Hauteur minimale</td><td colspan="2">m</td><td>1,8</td><td>1,9</td><td>2,1</td><td>2,3</td><td>2,5</td><td>2,5</td></tr>
-<tr><td>22 Valeurs de tolérance<sup>5</sup></td><td colspan="2">m</td><td>–</td><td>–</td><td>2,0</td><td>2,2</td><td>2,2</td><td>2,2</td></tr>
-<tr><td>3 Aire de sortie<sup>3, 7</sup> par équidé</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>31 Accessible en permanence de l’écurie, surface minimale</td><td colspan="2">m<sup>2</sup></td><td>12</td><td>14</td><td>16</td><td>20</td><td>24</td><td>24</td></tr>
-<tr><td>32 Non attenante à l’écurie, surface minimale</td><td colspan="2">m<sup>2</sup></td><td>18</td><td>21</td><td>24</td><td>30</td><td>36</td><td>36</td></tr>
-<tr><td>4 Surface recommandée<sup>8</sup> par équidé</td><td colspan="2">m<sup>2</sup></td><td>150</td><td>150</td><td>150</td><td>150</td><td>150</td><td>150</td></tr>
+<tr><th>Catégorie d’animaux</th><th></th><th>Équidés</th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Hauteur au garrot</th><th></th><th>&lt;120 cm</th><th>120–134 cm</th><th>134–148 cm</th><th>148–162 cm</th><th>162–175 cm</th><th>&gt;175 cm</th></tr>
+<tr><td>1 Surface par animal</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11 Box individuel<sup>1, 2</sup> ou box pour groupe à un compartiment<sup>1, 3, 4</sup></td><td>m<sup>2</sup></td><td>5,5</td><td>7</td><td>8</td><td>9</td><td>10,5</td><td>12</td></tr>
+<tr><td>12 Valeurs de tolérance<sup>5</sup></td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>7</td><td>8</td><td>9</td><td>10,5</td></tr>
+<tr><td>13 Surface de repos en stabulation libre à plusieurs compartiments<sup>1,</sup> <sup>3, 4, 6</sup></td><td>m<sup>2</sup></td><td>4</td><td>4,5</td><td>5,5</td><td>6</td><td>7,5</td><td>8</td></tr>
+<tr><td>2 Hauteur du local en m dans le secteur où se tiennent les équidés</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>21 Hauteur minimale</td><td>m</td><td>1,8</td><td>1,9</td><td>2,1</td><td>2,3</td><td>2,5</td><td>2,5</td></tr>
+<tr><td>22 Valeurs de tolérance<sup>5</sup></td><td>m</td><td>–</td><td>–</td><td>2,0</td><td>2,2</td><td>2,2</td><td>2,2</td></tr>
+<tr><td>3 Aire de sortie<sup>3, 7</sup> par équidé</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>31 Accessible en permanence de l’écurie, surface minimale</td><td>m<sup>2</sup></td><td>12</td><td>14</td><td>16</td><td>20</td><td>24</td><td>24</td></tr>
+<tr><td>32 Non attenante à l’écurie, surface minimale</td><td>m<sup>2</sup></td><td>18</td><td>21</td><td>24</td><td>30</td><td>36</td><td>36</td></tr>
+<tr><td>4 Surface recommandée<sup>8</sup> par équidé</td><td>m<sup>2</sup></td><td>150</td><td>150</td><td>150</td><td>150</td><td>150</td><td>150</td></tr>
 </table>
 
 Notes du tableau 7 (Équidés)
@@ -3961,34 +3960,34 @@ Tableau 8
 ## Lapins domestiques
 
 <table>
-<tr><td>Catégorie d’animaux</td><td colspan="2"></td><td colspan="2">Lapins adultes<sup>1, 2</sup></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td></td><td colspan="2"></td><td>jusqu’à 2,3 kg</td><td colspan="3">2,3–3,5 kg</td><td colspan="2">3,5–5,5 kg</td><td>&gt;5,5 kg</td></tr>
-<tr><td colspan="2">1 Taille minimale des enclos sans surfaces surélevées:</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">11 Surface de base<sup>3</sup></td><td>cm<sup>2</sup></td><td>3400</td><td colspan="3">4800</td><td colspan="2">7200</td><td>9300</td></tr>
-<tr><td colspan="2">12 Hauteur<sup>4</sup></td><td>cm</td><td>40</td><td colspan="3">50</td><td colspan="2">60</td><td>60</td></tr>
-<tr><td colspan="2">2 Enclos avec surfaces surélevées:</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">21 Surface totale<sup>3</sup> (surface de base et surface surélevée)</td><td>cm<sup>2</sup></td><td>2800</td><td colspan="3">4000</td><td colspan="2">6000</td><td>7800</td></tr>
-<tr><td colspan="2">22 Dont surface de base minimale</td><td>cm<sup>2</sup></td><td>2000</td><td colspan="3">2800</td><td colspan="2">4200</td><td>5400</td></tr>
-<tr><td colspan="2">23 Hauteur<sup>4</sup></td><td>cm</td><td>40</td><td colspan="3">50</td><td colspan="2">60</td><td>60</td></tr>
-<tr><td colspan="2">3 Surface supplémentaire pour le compartiment du nid</td><td>cm<sup>2</sup></td><td>800</td><td colspan="3">1000</td><td colspan="2">1000</td><td>1200</td></tr>
+<tr><th>Catégorie d’animaux</th><th></th><th>Lapins adultes<sup>1, 2</sup></th><th></th><th></th><th></th></tr>
+<tr><th></th><th></th><th>jusqu’à 2,3 kg</th><th>2,3–3,5 kg</th><th>3,5–5,5 kg</th><th>&gt;5,5 kg</th></tr>
+<tr><td>1 Taille minimale des enclos sans surfaces surélevées:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11 Surface de base<sup>3</sup></td><td>cm<sup>2</sup></td><td>3400</td><td>4800</td><td>7200</td><td>9300</td></tr>
+<tr><td>12 Hauteur<sup>4</sup></td><td>cm</td><td>40</td><td>50</td><td>60</td><td>60</td></tr>
+<tr><td>2 Enclos avec surfaces surélevées:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>21 Surface totale<sup>3</sup> (surface de base et surface surélevée)</td><td>cm<sup>2</sup></td><td>2800</td><td>4000</td><td>6000</td><td>7800</td></tr>
+<tr><td>22 Dont surface de base minimale</td><td>cm<sup>2</sup></td><td>2000</td><td>2800</td><td>4200</td><td>5400</td></tr>
+<tr><td>23 Hauteur<sup>4</sup></td><td>cm</td><td>40</td><td>50</td><td>60</td><td>60</td></tr>
+<tr><td>3 Surface supplémentaire pour le compartiment du nid</td><td>cm<sup>2</sup></td><td>800</td><td>1000</td><td>1000</td><td>1200</td></tr>
 </table>
 
 <table>
-<tr><th colspan="2">Catégorie d’animaux</th><th></th><th colspan="5">Jeunes animaux depuis le sevrage jusqu’à la maturité sexuelle</th><th></th><th></th><th></th></tr>
-<tr><th colspan="2"></th><th></th><th colspan="2">Jeunes animaux d’adultes jusqu’à 2,3 kg (lapins nains)</th><th></th><th colspan="4">Jeunes animaux d’adultes de plus de 2,3 kg</th><th></th></tr>
-<tr><td>4 Taille minimale des enclos sans surfaces surélevées:</td><td colspan="2"></td><td></td><td colspan="2"></td><td></td><td colspan="4"></td></tr>
-<tr><td>41 Surface de base</td><td colspan="2">cm<sup>2</sup></td><td>3400</td><td colspan="2"></td><td>4800</td><td colspan="4"></td></tr>
-<tr><td>42 Hauteur<sup>4</sup></td><td colspan="2">cm</td><td>40</td><td colspan="2"></td><td>50</td><td colspan="4"></td></tr>
-<tr><td>5 Enclos avec surfaces surélevées</td><td colspan="2"></td><td></td><td colspan="2"></td><td></td><td colspan="4"></td></tr>
-<tr><td>51 Surface totale (surface de base et surface surélevée)</td><td colspan="2">cm<sup>2</sup></td><td>2800</td><td colspan="2"></td><td>4000</td><td colspan="4"></td></tr>
-<tr><td>52 Dont surface de base minimale</td><td colspan="2">cm<sup>2</sup></td><td>2000</td><td colspan="2"></td><td>2800</td><td colspan="4"></td></tr>
-<tr><td>53 Hauteur<sup>4</sup></td><td colspan="2">cm</td><td>40</td><td colspan="2"></td><td>50</td><td colspan="4"></td></tr>
-<tr><td>6 Surface par jeune animal jusqu’à 1,5 kg<sup>5, 6</sup></td><td colspan="2"></td><td></td><td colspan="2"></td><td></td><td colspan="4"></td></tr>
-<tr><td>61 Dans des groupes de moins de 40 animaux</td><td colspan="2">cm<sup>2</sup></td><td>1000</td><td colspan="2"></td><td>1000</td><td colspan="4"></td></tr>
-<tr><td>62 Dans des groupes de plus de 40 animaux</td><td colspan="2">cm<sup>2</sup></td><td>800</td><td colspan="2"></td><td>800</td><td colspan="4"></td></tr>
-<tr><td>7 Surface par jeune animal de plus de 1,5 kg<sup>5, 6</sup></td><td colspan="2"></td><td></td><td colspan="2"></td><td></td><td colspan="4"></td></tr>
-<tr><td>71 Dans des groupes de moins de 40 animaux</td><td colspan="2">cm<sup>2</sup></td><td>–</td><td colspan="2"></td><td>1500</td><td colspan="4"></td></tr>
-<tr><td>72 Dans des groupes de plus de 40 animaux</td><td colspan="2">cm<sup>2</sup></td><td>–</td><td colspan="2"></td><td>1200</td><td colspan="4"></td></tr>
+<tr><th>Catégorie d’animaux</th><th></th><th colspan="2">Jeunes animaux depuis le sevrage jusqu’à la maturité sexuelle</th><th></th></tr>
+<tr><th></th><th></th><th>Jeunes animaux d’adultes jusqu’à 2,3 kg (lapins nains)</th><th colspan="2">Jeunes animaux d’adultes de plus de 2,3 kg</th></tr>
+<tr><td>4 Taille minimale des enclos sans surfaces surélevées:</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>41 Surface de base</td><td>cm<sup>2</sup></td><td>3400</td><td colspan="2">4800</td></tr>
+<tr><td>42 Hauteur<sup>4</sup></td><td>cm</td><td>40</td><td colspan="2">50</td></tr>
+<tr><td>5 Enclos avec surfaces surélevées</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>51 Surface totale (surface de base et surface surélevée)</td><td>cm<sup>2</sup></td><td>2800</td><td colspan="2">4000</td></tr>
+<tr><td>52 Dont surface de base minimale</td><td>cm<sup>2</sup></td><td>2000</td><td colspan="2">2800</td></tr>
+<tr><td>53 Hauteur<sup>4</sup></td><td>cm</td><td>40</td><td colspan="2">50</td></tr>
+<tr><td>6 Surface par jeune animal jusqu’à 1,5 kg<sup>5, 6</sup></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>61 Dans des groupes de moins de 40 animaux</td><td>cm<sup>2</sup></td><td>1000</td><td colspan="2">1000</td></tr>
+<tr><td>62 Dans des groupes de plus de 40 animaux</td><td>cm<sup>2</sup></td><td>800</td><td colspan="2">800</td></tr>
+<tr><td>7 Surface par jeune animal de plus de 1,5 kg<sup>5, 6</sup></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>71 Dans des groupes de moins de 40 animaux</td><td>cm<sup>2</sup></td><td>–</td><td colspan="2">1500</td></tr>
+<tr><td>72 Dans des groupes de plus de 40 animaux</td><td>cm<sup>2</sup></td><td>–</td><td colspan="2">1200</td></tr>
 </table>
 
 Notes du tableau 8 – Lapins domestiques
@@ -4007,7 +4006,7 @@ Tableau 9
 ## Volailles domestiques
 
 <table>
-<tr><th>**Tableau 9-1 Poules domestiques**</th><th colspan="2">Catégorie d’animaux</th><th>Poussins</th><th>Jeunes animaux</th><th>Pondeuses, parentaux</th><th>Volailles de chair</th></tr>
+<tr><th>**Tableau 9-1** **Poules domestiques**</th><th colspan="2">Catégorie d’animaux</th><th>Poussins</th><th>Jeunes animaux</th><th>Pondeuses, parentaux</th><th>Volailles de chair</th></tr>
 <tr><th></th><th colspan="2">Semaine de vie</th><th>jusqu’à la fin de la 10<sup>e</sup></th><th>à partir de la 11<sup>e</sup> jusqu’au début de la ponte</th><th>à partir du début de la ponte</th><th></th></tr>
 <tr><td colspan="2">1 Équipements de poulailler</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">11 Équipements pour l’alimentation et l’abreuvement, par animal</td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -4031,12 +4030,12 @@ Tableau 9
 </table>
 
 <table>
-<tr><th>**Tab. 9-1 Poules domestiques**</th><th>Catégorie d’animaux</th><th>Poussins</th><th>Jeunes animaux</th><th colspan="2">Pondeuses, parentaux</th><th colspan="2"></th><th>Volailles de chair</th></tr>
+<tr><th>**Tab. 9-1** **Poules domestiques**</th><th>Catégorie d’animaux</th><th>Poussins</th><th>Jeunes animaux</th><th colspan="2">Pondeuses, parentaux</th><th colspan="2"></th><th>Volailles de chair</th></tr>
 <tr><th></th><th>Semaine de vie</th><th>jusqu’à la fin de la 10<sup>e</sup></th><th>à partir de la 11<sup>e</sup> jusqu’au début de la ponte</th><th>jusqu’à 2 kg</th><th colspan="3">plus de 2 kg</th><th></th></tr>
 <tr><td>2 Surfaces sur lesquelles les animaux peuvent se déplacer, par animal<sup>7</sup> dans les unités de détention comportant</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td></td></tr>
 <tr><td>21 à 150 animaux: nbre (n) d’animaux/m<sup>2</sup></td><td>n</td><td>14</td><td>9,3</td><td>7</td><td colspan="3">6</td><td>–</td></tr>
 <tr><td>22 plus de 150 animaux: nbre (n) d’animaux/m<sup>2</sup></td><td>n</td><td>15</td><td>surface grillagée: 16,4 surface recouverte de litière: 10,3</td><td colspan="3">surface grillagée: 12,5 surface grillagée: 3,5</td><td></td><td>–</td></tr>
-<tr><td>3 Surfaces sur lesquelles les animaux peuvent se déplacer, par animal<sup>7</sup> dans les unités de détention8 comportant</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td>3 Surfaces sur lesquelles les animaux peuvent se déplacer, par animal<sup>7</sup> dans les unités de détention<sup>8</sup> comportant</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td></td></tr>
 <tr><td>31 jusqu’à 20 animaux: poids total/m<sup>2</sup></td><td>kg</td><td>–</td><td>–</td><td>–</td><td colspan="3">–</td><td>15</td></tr>
 <tr><td>32 21–40 animaux: poids total/m<sup>2</sup></td><td>kg</td><td>–</td><td>–</td><td>–</td><td colspan="3">–</td><td>20</td></tr>
 <tr><td>33 41-80 animaux: poids total/m<sup>2</sup></td><td>kg</td><td>–</td><td>–</td><td>–</td><td colspan="3">–</td><td>25</td></tr>
@@ -4048,7 +4047,7 @@ Notes du tableau 9-1 – volaille domestique
 
 <table>
 <tr><td><sup>1</sup> Ces valeurs sont applicables aux animaux à l’engrais d’un poids de plus de 2 kg. Pour des animaux plus petits, elles peuvent être réduites de manière appropriée.</td></tr>
-<tr><td><sup>2</sup> Pour de plus grands godets, l’OSAV peut autoriser un nombre plus élevé d’animaux dans le cadre de la procédure d’autorisation des systèmes de stabulation visée à l’art. 82, al. 5</td></tr>
+<tr><td><sup>2</sup> Pour de plus grands godets, l’OSAV peut autoriser un nombre plus élevé d’animaux dans le cadre de la procédure d’autorisation des systèmes de stabulation visée à l’art. 82, al. 5.</td></tr>
 <tr><td><sup>3</sup> Mesure sur les axes.</td></tr>
 <tr><td><sup>4</sup> Pour chaque nid collectif, il faut prévoir plusieurs ouvertures de nids si les nids ne sont pas munis de rideaux.</td></tr>
 <tr><td><sup>5</sup> Les déjections ne doivent pas joncher les surfaces sur lesquelles les animaux peuvent se déplacer.</td></tr>
@@ -4058,12 +4057,12 @@ Notes du tableau 9-1 – volaille domestique
 </table>
 
 <table>
-<tr><th>**Tableau 9-2 Dindes domestiques**</th><th>Jusqu’à la fin de la 6<sup>e</sup> semaine de vie</th><th>À partir de la 7<sup>e</sup> semaine de vie</th></tr>
+<tr><th>**Tableau 9-2** **Dindes domestiques**</th><th>Jusqu’à la fin de la 6<sup>e</sup> semaine de vie</th><th>À partir de la 7<sup>e</sup> semaine de vie</th></tr>
 <tr><td>1 Densité d’occupation</td><td>32 kg par m<sup>2</sup></td><td>36,5 kg par m<sup>2</sup></td></tr>
 </table>
 
 <table>
-<tr><th>**Tab. 9-3** **Pigeons domestiques**</th><th></th><th>Enclos intérieur<sup>a),b)</sup></th><th></th><th>Enclos à front ouvert<sup>a),c)</sup></th><th>Exigences particulières</th></tr>
+<tr><th>**Tab. 9-3****Pigeons domestiques**</th><th></th><th>Enclos intérieur<sup>a),b)</sup></th><th></th><th>Enclos à front ouvert<sup>a),c)</sup></th><th>Exigences particulières</th></tr>
 <tr><th></th><th>Races</th><th>Surface totale par animal (m<sup>2</sup>)</th><th>Enclos extérieur<sup>a),d)</sup></th><th>Surface minimale par animal (m<sup>2</sup>)</th><th></th></tr>
 <tr><td>Pigeons durant la couvaison et l’élevage des jeunes sans possibilité de voler librement chaque jour</td><td>PR<sup>e)</sup> GR<sup>e)</sup></td><td>0,2 0,25</td><td>obligatoire obligatoire</td><td>0,35 0,45</td><td>1) 2) 3) 1) 2) 3)</td></tr>
 <tr><td>Autres pigeons et jeunes pigeons sans possibilité de voler librement chaque jour</td><td>PR<sup>e)</sup> GR<sup>e)</sup></td><td>0,15 0,2</td><td>obligatoire obligatoire</td><td>0,25 0,3</td><td>1) 3) 1) 3)</td></tr>
@@ -4080,7 +4079,7 @@ Notes du tableau 9-3 Pigeons domestiques
 Exigences particulières
 
 <table>
-<tr><td>1) Une surface surélevée par pigeon doit être à disposition dans l’enclos intérieur ou dans l’enclos intérieur intégré. Par «surfaces surélevées» on entend notamment des planches disposées en étagères, une surface en hauteur pour un individu, des planches fixées aux parois ou des compartiments dans des étagères. Dans les enclos extérieurs, les surfaces surélevées à différents niveaux peuvent aussi être mises à disposition sous forme de perchoirs. 2) Un compartiment avec un nid intégré (coque, p. ex.) est exigé par couple reproducteur. 3) La surface minimale des compartiments est de 0,2 m<sup>2</sup> pour les petites races et de 0,3 m<sup>2</sup> pour les grandes races. Les compartiments qui remplissent les conditions en termes de surface minimale peuvent être pris en compte dans le calcul de la densité d’occupation, mais à raison de 100% au plus de la surface de base à disposition sans les compartiments. Un tel compartiment vaut comme surface surélevée pour deux pigeons. Les cellules dont les surfaces sont plus petites ne valent que comme nid et comme surface surélevée.</td></tr>
+<tr><td>1) Une surface surélevée par pigeon doit être à disposition dans l’enclos intérieur ou dans l’enclos intérieur intégré. Par «surfaces surélevées» on entend notamment des planches disposées en étagères, une surface en hauteur pour un individu, des planches fixées aux parois ou des compartiments dans des étagères. Dans les enclos extérieurs, les surfaces surélevées à différents niveaux peuvent aussi être mises à disposition sous forme de perchoirs. 2) Un compartiment avec un nid intégré (coque, p. ex.) est exigé par couple reproducteur. 3) La surface minimale des compartiments est de 0,2 m<sup>2</sup> pour les petites races et de 0,3 m<sup>2</sup> pour les grandes races. Les compartiments qui remplissent les conditions en termes de surface minimale peuvent être pris en compte dans le calcul de la densité d’occupation, mais à raison de 100 % au plus de la surface de base à disposition sans les compartiments. Un tel compartiment vaut comme surface surélevée pour deux pigeons. Les cellules dont les surfaces sont plus petites ne valent que comme nid et comme surface surélevée.</td></tr>
 </table>
 
 Tableau 10
@@ -4088,19 +4087,19 @@ Tableau 10
 ## Chiens domestiques
 
 <table>
-<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">Chiens adultes</td><td colspan="2"></td><td colspan="5"></td></tr>
-<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">jusqu’à 20 kg</td><td colspan="2">20–45 kg</td><td colspan="5">plus de 45 kg</td></tr>
-<tr><td>1 Box</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="6"></td></tr>
-<tr><td>11 Hauteur</td><td colspan="2">m</td><td colspan="2">2</td><td colspan="2">2</td><td colspan="6">2</td></tr>
-<tr><td>12 Surface de base pour un ou deux chiens</td><td colspan="2">m<sup>2</sup></td><td colspan="2">4</td><td colspan="2">8</td><td colspan="6">10</td></tr>
-<tr><td>13 Surface de base pour tout chien supplémentaire</td><td colspan="2">m<sup>2</sup></td><td colspan="2">2</td><td colspan="2">4</td><td colspan="6">5</td></tr>
-<tr><td>2 Chenil<sup>1</sup></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="6"></td></tr>
-<tr><td>21 Hauteur</td><td colspan="2">m</td><td colspan="2">1,8</td><td colspan="2">1,8</td><td colspan="6">1,8</td></tr>
-<tr><td>22 Surface de base pour un chien</td><td colspan="2">m<sup>2</sup></td><td colspan="2">6</td><td colspan="2">8</td><td colspan="6">10</td></tr>
-<tr><td>23 Surface de base pour deux chiens</td><td colspan="2">m<sup>2</sup></td><td colspan="2">10</td><td colspan="2">13</td><td colspan="6">16</td></tr>
-<tr><td>24 Surface de base pour tout chien supplémentaire</td><td colspan="2">m<sup>2</sup></td><td colspan="2">3</td><td colspan="2">4</td><td colspan="6">6</td></tr>
-<tr><td colspan="9">3 Si, pendant la journée, les chiens sont détenus en groupe à l’extérieur, avec possibilité de se retirer, et s’ils ne sont transférés dans des box individuels que pour se reposer et pour dormir, la surface des box doit présenter au moins les dimensions suivantes:</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>31 Surface de base pour un chien</td><td colspan="2">m<sup>2</sup></td><td colspan="2">2,2</td><td colspan="2">4,3</td><td colspan="6">5</td></tr>
+<tr><th></th><th></th><th>Chiens adultes</th><th></th><th colspan="5"></th></tr>
+<tr><th></th><th></th><th>jusqu’à 20 kg</th><th>20–45 kg</th><th colspan="5">plus de 45 kg</th></tr>
+<tr><td>1 Box</td><td></td><td></td><td></td><td colspan="5"></td></tr>
+<tr><td>11 Hauteur</td><td>m</td><td>2</td><td>2</td><td colspan="5">2</td></tr>
+<tr><td>12 Surface de base pour un ou deux chiens</td><td>m<sup>2</sup></td><td>4</td><td>8</td><td colspan="5">10</td></tr>
+<tr><td>13 Surface de base pour tout chien supplémentaire</td><td>m<sup>2</sup></td><td>2</td><td>4</td><td colspan="5">5</td></tr>
+<tr><td>2 Chenil<sup>1</sup></td><td></td><td></td><td></td><td colspan="5"></td></tr>
+<tr><td>21 Hauteur</td><td>m</td><td>1,8</td><td>1,8</td><td colspan="5">1,8</td></tr>
+<tr><td>22 Surface de base pour un chien</td><td>m<sup>2</sup></td><td>6</td><td>8</td><td colspan="5">10</td></tr>
+<tr><td>23 Surface de base pour deux chiens</td><td>m<sup>2</sup></td><td>10</td><td>13</td><td colspan="5">16</td></tr>
+<tr><td>24 Surface de base pour tout chien supplémentaire</td><td>m<sup>2</sup></td><td>3</td><td>4</td><td colspan="5">6</td></tr>
+<tr><td colspan="5">3 Si, pendant la journée, les chiens sont détenus en groupe à l’extérieur, avec possibilité de se retirer, et s’ils ne sont transférés dans des box individuels que pour se reposer et pour dormir, la surface des box doit présenter au moins les dimensions suivantes:</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>31 Surface de base pour un chien</td><td>m<sup>2</sup></td><td>2,2</td><td>4,3</td><td colspan="5">5</td></tr>
 </table>
 
 Note du tableau 10 – Chiens domestiques
@@ -4114,8 +4113,8 @@ Tableau 11
 ## Chats domestiques
 
 <table>
-<tr><td></td><td></td><td>Chats adultes</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Exigences supplémentaires</td></tr>
+<tr><th></th><th></th><th>Chats adultes</th><th></th></tr>
+<tr><th></th><th></th><th></th><th>Exigences supplémentaires</th></tr>
 <tr><td>1 Unité où le chat est détenu<sup>1</sup></td><td></td><td></td><td></td></tr>
 <tr><td>11 Hauteur</td><td>m</td><td>2,0</td><td>Surfaces de repos surélevées, équipements permettant au chat de se retirer, de grimper, de se faire les griffes et de s’occuper. Pour les groupes jusqu’à 5 chats: une caisse à déjection par chat. Pour les groupes à partir de 6 chats: une caisse à déjection pour 2 chats, à condition qu’elle soit nettoyée plusieurs fois par jour ou que les chats aient la possibilité de sortir à l’air libre; à défaut une caisse à déjection par chat.</td></tr>
 <tr><td>12 Surface de base<sup>2</sup> jusqu’à 4 chats</td><td>m<sup>2</sup></td><td>7,0</td><td></td></tr>
@@ -4131,7 +4130,7 @@ Notes du tableau 11 – Chats domestiques
 <tr><td><sup>1</sup> Le tableau indique le nombre maximal de chats admis par unité de surface. Les jeunes animaux peuvent être détenus en plus jusqu’au sevrage. <sup>2</sup> Le rapport entre la longueur et la largeur ne doit pas dépasser 2:1.</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 10)
 
@@ -4163,147 +4162,147 @@ Tableau 1
 ## Enclos pour mammifères
 
 <table>
-<tr><th>Enclos pour mammifères</th><th></th><th colspan="9">Pour des groupes jusqu’à n animaux</th><th></th><th></th><th colspan="2"></th><th colspan="2"></th><th colspan="2">Par animal en plus<sup>a)</sup></th><th></th><th>Exigences particulières</th></tr>
-<tr><th></th><th></th><th colspan="2">Nombre</th><th colspan="2">Enclos extérieur<sup>a)</sup></th><th colspan="2"></th><th colspan="6">Enclos intérieur<sup>a)</sup></th><th colspan="3"></th><th>extérieur</th><th colspan="2">intérieur</th><th></th></tr>
-<tr><th>Espèces animales</th><th></th><th colspan="2">(n)</th><th>Surface<sup>b)</sup> m<sup>2</sup></th><th colspan="3">Volume m<sup>3</sup></th><th colspan="2">Surface<sup>b)</sup> m<sup>2</sup></th><th colspan="7">Volume m<sup>3</sup></th><th>m<sup>2</sup></th><th colspan="2">m<sup>2</sup></th><th></th></tr>
-<tr><td>1 Échidnés</td><td>c)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">2</td><td>1) 6) 11)</td></tr>
-<tr><td>2 Couscous, opossums, phalangers</td><td>c)e)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="7">12</td><td colspan="2">–</td><td colspan="2">2</td><td>2) 3) 4)</td></tr>
-<tr><td>3 Didelphidés, petites espèces</td><td>c)e)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="7">0,35</td><td colspan="2">–</td><td colspan="2">0,05</td><td>2) 3) 4)</td></tr>
-<tr><td>4 Kowari</td><td>c)e)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">1</td><td colspan="7">1,8</td><td colspan="2">–</td><td colspan="2">0,5</td><td>2) 3) 4)</td></tr>
-<tr><td>5 Phalangers volants de grande taille ou de taille moyenne</td><td>c)e)</td><td>6</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="7">12</td><td colspan="2">–</td><td colspan="2">1</td><td>2) 3) 4)</td></tr>
-<tr><td>6 Phalangers volants de petite taille</td><td>c)e)</td><td>6</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">3</td><td colspan="7">6</td><td colspan="2">–</td><td colspan="2">0,5</td><td>2) 3) 4)</td></tr>
-<tr><td>7 Diable de Tasmanie</td><td>c)e)</td><td>2</td><td colspan="2">20</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">–</td><td>1) 3) 4)</td></tr>
-<tr><td>8 Wombat</td><td>c)e)</td><td>2</td><td colspan="2">20</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">–</td><td>1) 3) 4)</td></tr>
-<tr><td>9 Kangourous arboricoles</td><td>c)e)</td><td>2</td><td colspan="2">16</td><td colspan="2">40</td><td colspan="2">16</td><td colspan="7">40</td><td colspan="2">4</td><td colspan="2">4</td><td>2) 5)</td></tr>
-<tr><td>10 Kangourous de petite taille</td><td>c)</td><td>5</td><td colspan="2">40</td><td colspan="2">–</td><td colspan="2">10</td><td colspan="7">–</td><td colspan="2">4</td><td colspan="2">2</td><td>6) 22)</td></tr>
-<tr><td>11 Rats-kangourous</td><td>c)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">8</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">2</td><td>3) 6)</td></tr>
-<tr><td>12 Wallabies de rochers</td><td>c)e)</td><td>5</td><td colspan="2">150</td><td colspan="2">–</td><td colspan="2">15</td><td colspan="7">–</td><td colspan="2">15</td><td colspan="2">3</td><td>2) 7) 8)</td></tr>
-<tr><td>13 Wallabies d’Australie et de Nouvelle-Guinée, thylogales</td><td>c)</td><td>5</td><td colspan="2">250</td><td colspan="2">–</td><td colspan="2">15</td><td colspan="7">–</td><td colspan="2">15</td><td colspan="2">3</td><td>7) 8)</td></tr>
-<tr><td>14 Kangourous de grande taille</td><td>c)e)</td><td>5</td><td colspan="2">300</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="7">–</td><td colspan="2">30</td><td colspan="2">4</td><td>7)</td></tr>
-<tr><td>15 Mégachiroptères de petite taille (p. ex. roussette d’Égypte)</td><td>c)</td><td>20</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="7">50</td><td colspan="2">–</td><td colspan="2">1</td><td>9) 10)</td></tr>
-<tr><td>16 Mégachiroptères de grande taille</td><td>c)</td><td>20</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">30</td><td colspan="7">90</td><td colspan="2">–</td><td colspan="2">1</td><td>9) 10)</td></tr>
-<tr><td>17 Chauves-souris</td><td>c)</td><td>20</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">10</td><td colspan="7">20</td><td colspan="2">–</td><td colspan="2">0,2</td><td>9) 10) 50)</td></tr>
-<tr><td>18 Tupaies</td><td>c)</td><td>5</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">3</td><td colspan="7">6</td><td colspan="2">–</td><td colspan="2">0,5</td><td>2) 3) 6) 34) 36)</td></tr>
-<tr><td>19 Ouistitis</td><td>c)d)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">3</td><td colspan="7">6</td><td colspan="2">–</td><td colspan="2">0,5</td><td>2) 3) 6) 14) 34) 36)</td></tr>
-<tr><td>20 Microcèbes</td><td>c)e)</td><td>5</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">1,5</td><td colspan="7">3</td><td colspan="2">–</td><td colspan="2">0,3</td><td>2) 3) 6) 14) 36)</td></tr>
-<tr><td>21 Loris, potto de Bosman, potto doré</td><td>c)e)</td><td>5</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">1,5</td><td colspan="7">3</td><td colspan="2">–</td><td colspan="2">0,3</td><td>2) 3) 6) 14)</td></tr>
-<tr><td>22 Galago de petite taille, Tarsiers, happalémurs, chirogales</td><td>c)e) c)e)</td><td>5</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">3</td><td colspan="7">6</td><td colspan="2">–</td><td colspan="2">0,5</td><td>2) 3) 6)14) 34) 36)</td></tr>
-<tr><td>23 Tamarins, tamarin de Goeldi</td><td>c)d)e)</td><td>5</td><td colspan="2">–</td><td colspan="2"></td><td colspan="2">3</td><td colspan="7">6</td><td colspan="2">–</td><td colspan="2">0,5</td><td>2) 3) 6) 14) 34) 36)</td></tr>
-<tr><td>24 Douroucouli</td><td>c)d)e)</td><td>5</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="7">12</td><td colspan="2">–</td><td colspan="2">1</td><td>2) 3) 6) 14) 34)</td></tr>
-<tr><td>25 Galago géant, titis</td><td>c)e)</td><td>5</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="7">12</td><td colspan="2">–</td><td colspan="2">1</td><td>2) 3) 6) 14) 34)</td></tr>
-<tr><td>26 Saïmiri Talapoin</td><td>c)d)e) c)e)</td><td>5</td><td colspan="2">6</td><td colspan="2">15</td><td colspan="2">6</td><td colspan="7">15</td><td colspan="2">1,5</td><td colspan="2">1,5</td><td>2) 6) 14)</td></tr>
-<tr><td>27 Lémurs, sakis, ouakaris, hurleurs, capucins</td><td>c)e)</td><td>5</td><td colspan="2">10</td><td colspan="2">30</td><td colspan="2">10</td><td colspan="7">30</td><td colspan="2">2</td><td colspan="2">2</td><td>2) 6) 14)</td></tr>
-<tr><td>28 Cercopithèques, macaques Singe laineux, atèles, semnopithèques de petite taille, varis</td><td>c)d)e) c)e)</td><td>5</td><td colspan="2">15</td><td colspan="2">45</td><td colspan="2">15</td><td colspan="7">45</td><td colspan="2">3</td><td colspan="2">3</td><td>2) 6) 11) 12) 14) Varis: 3)</td></tr>
-<tr><td>29 Patas, cercocèbes, babouins, semnopithèques de grande taille (p. ex. colobes), propithèques</td><td>c)e) c)e)</td><td>5</td><td colspan="2">25</td><td colspan="2">75</td><td colspan="2">25</td><td colspan="7">75</td><td colspan="2">4</td><td colspan="2">4</td><td>2) 6) 11) 14)</td></tr>
-<tr><td>30 Gibbons</td><td>c)e)</td><td>3</td><td colspan="2">25</td><td colspan="2">75</td><td colspan="2">25</td><td colspan="7">75</td><td colspan="2">8</td><td colspan="2">8</td><td>2) 6) 11) 12) 14) 34)</td></tr>
-<tr><td>31 Chimpanzés, orang-outan</td><td>c)e)</td><td>3</td><td colspan="2">35</td><td colspan="2">140</td><td colspan="2">35</td><td colspan="7">140</td><td colspan="2">8</td><td colspan="2">8</td><td>2) 6) 11) 14)</td></tr>
-<tr><td>32 Gorille</td><td>c)e)</td><td>3</td><td colspan="2">50</td><td colspan="2">200</td><td colspan="2">50</td><td colspan="7">200</td><td colspan="2">10</td><td colspan="2">10</td><td>2) 6) 11) 14)</td></tr>
-<tr><td>33 Tatous de petite taille ou de taille moyenne</td><td>c)e)</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">1,5</td><td>1) 3) 51</td></tr>
-<tr><td>34 Tamandua</td><td>c)e)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">12</td><td colspan="7">24</td><td colspan="2">–</td><td colspan="2">4</td><td>2) 3) 4) 15) 51)</td></tr>
-<tr><td>35 Grand fourmilier</td><td>c)e)</td><td>2</td><td colspan="2">100</td><td colspan="2">–</td><td colspan="2">12</td><td colspan="7">–</td><td colspan="2">10</td><td colspan="2">6</td><td>11) 16) 18 )</td></tr>
-<tr><td>36 Paresseux</td><td>c)e)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">10</td><td colspan="7">20</td><td colspan="2">–</td><td colspan="2">2</td><td>2) 36)</td></tr>
-<tr><td>37 Hérisson, sauf *Erinaceus europaeus*</td><td>c)</td><td>1</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">2</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">1</td><td>39) 41)</td></tr>
-<tr><td>38 Tanrek, espèces de petite taille de moins de 10 cm de longueur</td><td>c)</td><td>1</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">0,25</td><td>2) 39) 41)</td></tr>
-<tr><td>39 Tanrek, espèces de grande taille à partir de 10 cm de longueur</td><td>c)</td><td>1</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">2</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">1,0</td><td>2) 39) 41)</td></tr>
-<tr><td>40 Cobaye/cochon d’Inde *Cavia porcellus*</td><td>d)f)g)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">0,2</td><td>39) 41) 45) 47) 54)</td></tr>
-<tr><td>41 Hamster *Mesocricetus sp*.</td><td>d)</td><td>1</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">0,18</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">0,05</td><td>2) 40) 41) 42) 44) 45) 48)</td></tr>
-<tr><td>42 Souris *Mus musculus*</td><td>d)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">0,18</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">0,05</td><td>2) 39) 41) 42) 44) 45) 47)</td></tr>
-<tr><td>43 Gerbille de Mongolie</td><td>d)</td><td>5</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">0,05</td><td>40) 41) 42) 44) 45) 46) 47)</td></tr>
-<tr><td>44 Rat *Rattus norvegicus*</td><td>d)</td><td>5</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="7">0,35</td><td colspan="2">–</td><td colspan="2">0,05</td><td>39) 41) 42) 44) 45) 47)</td></tr>
-<tr><td>45 Dégu</td><td></td><td>5</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="7">0,35</td><td colspan="2">–</td><td colspan="2">0,2</td><td>40) 41) 44) 45) 46) 47)</td></tr>
-<tr><td>46 Chinchilla</td><td>d)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="7">0,75</td><td colspan="2">–</td><td colspan="2">0,2</td><td>39) 41) 42) 43) 44) 45) 46) 47)</td></tr>
-<tr><td>47 Tamias</td><td></td><td>1</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="7">0,75</td><td colspan="2">–</td><td colspan="2">0,2</td><td>2) 39) 41) 42) 43) 48) 50)</td></tr>
-<tr><td>48 Écureuils terrestres, xérus, spermophiles</td><td>c)</td><td>5</td><td colspan="2">20</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">0,6</td><td colspan="2">–</td><td>45) 50) couche à creuser de 80 cm</td></tr>
-<tr><td>49 Écureuils, *Callosciurus quinquestriatus*</td><td>c)</td><td>2</td><td colspan="2">8</td><td colspan="2">20</td><td colspan="2">8</td><td colspan="7">20</td><td colspan="2">2</td><td colspan="2">2</td><td>2) 3) 4) 17) 19)</td></tr>
-<tr><td>50 Écureuils géants, pétauristes de grande taille</td><td>c)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">16</td><td colspan="7">40</td><td colspan="2">–</td><td colspan="2">3</td><td>2) 3) 15) 17) 19)</td></tr>
-<tr><td>51 Athérures, trichys</td><td>c)e)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">5</td><td colspan="7">10</td><td colspan="2">–</td><td colspan="2">2</td><td>2) 3) 6) 19)</td></tr>
-<tr><td>52 Porcs-épics</td><td>c)</td><td>2</td><td colspan="2">40</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="7">–</td><td colspan="2">4</td><td colspan="2">3</td><td>1) 3) 6) 17) 19)</td></tr>
-<tr><td>53 Castor</td><td>c)</td><td>5</td><td colspan="2">40</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">4</td><td colspan="2">–</td><td>3) 18) 19) 34)</td></tr>
-<tr><td>54 Agoutis, pacas, pacarana, acouchis</td><td>c)</td><td>5</td><td colspan="2">20</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="7">–</td><td colspan="2">2</td><td colspan="2">2</td><td>1) 3) 6) 19) 36)</td></tr>
-<tr><td>55 Viscache, lièvre sauteur</td><td></td><td>5</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">2</td><td>1) 3) 6) 11) 19)</td></tr>
-<tr><td>56 Marmottes</td><td>c)</td><td>6</td><td colspan="2">150</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">10</td><td colspan="2">–</td><td>1) 49) 50)</td></tr>
-<tr><td>57 Chien de prairie</td><td>c)</td><td>10</td><td colspan="2">40</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">2</td><td colspan="2">–</td><td>1) 49) 50)</td></tr>
-<tr><td>58 Capybara</td><td>c)</td><td>5</td><td colspan="2">150</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="7">–</td><td colspan="2">10</td><td colspan="2">2,5</td><td>6) 18) 19)</td></tr>
-<tr><td>59 Rat musqué</td><td>c)</td><td>2</td><td colspan="2">4</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">1</td><td colspan="2">–</td><td>1) 3) 18) 19)</td></tr>
-<tr><td>60 Ragondins (forme sauvage)</td><td>c)</td><td>2</td><td colspan="2">10</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">1</td><td colspan="2">–</td><td>3) 18) 19)</td></tr>
-<tr><td>61 Coendou, porc-épic nord-américain</td><td>c)</td><td>2</td><td colspan="2">10</td><td colspan="2">30</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">4</td><td colspan="2">–</td><td>2) 8) 19)</td></tr>
-<tr><td>62 Rat pilori, rat typique, plagiodonte d’Haïti, hutia</td><td>c)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">5</td><td colspan="7">10</td><td colspan="2">–</td><td colspan="2">1,5</td><td>1) 2) 3) 6) 19)</td></tr>
-<tr><td>63 Maras</td><td>c)</td><td>2</td><td colspan="2">40</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">4</td><td colspan="2">–</td><td>1) 3) 6) 19)</td></tr>
-<tr><td>64 Lièvres</td><td>c)</td><td>2</td><td colspan="2">150</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">4</td><td colspan="2">–</td><td>3) 6)</td></tr>
-<tr><td>65 Lapins sauvages, pikas</td><td>c)</td><td>5</td><td colspan="2">30</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">3</td><td colspan="2">–</td><td>1) 6) 49)</td></tr>
-<tr><td>66 Fennec</td><td>c)</td><td>2</td><td colspan="2">20</td><td colspan="2">–</td><td colspan="2">4</td><td colspan="7">–</td><td colspan="2">2</td><td colspan="2">2</td><td>1) 3) 11) 36)</td></tr>
-<tr><td>67 Renards de taille moyenne (p. ex. renard des sables, renard polaire, renard corsac, renard véloce), octocyon, chien viverin</td><td>c)</td><td>2</td><td colspan="2">40</td><td colspan="2">–</td><td colspan="2">8</td><td colspan="7">–</td><td colspan="2">4</td><td colspan="2">1</td><td>1) 3) 6) 8) 11)</td></tr>
-<tr><td>68 Speothos</td><td>c)e)</td><td>4</td><td colspan="2">40</td><td colspan="2">–</td><td colspan="2">12</td><td colspan="7">–</td><td colspan="2">4</td><td colspan="2">1</td><td>1) 3) 6) 11) 18) 34)</td></tr>
-<tr><td>69 Renard commun, renard gris, dusicyons</td><td>c)</td><td>2</td><td colspan="2">100</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">10</td><td colspan="2">–</td><td>1) 3) 6) 11)</td></tr>
-<tr><td>70 Chacals, coyotes, cuon</td><td>c)</td><td>4</td><td colspan="2">150</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">15</td><td colspan="2">–</td><td>3) 6) 34) 11)</td></tr>
-<tr><td>71 Loup à crinière</td><td>c)e)</td><td>2</td><td colspan="2">200</td><td colspan="2">–</td><td colspan="2">2 par animal</td><td colspan="7">–</td><td colspan="2">20</td><td colspan="2">2</td><td>1) 3) 6) 8) 11) 34)</td></tr>
-<tr><td>72 Loup, lycaon</td><td>c)</td><td>4</td><td colspan="2">400</td><td colspan="2">–</td><td colspan="2">4 par animal</td><td colspan="7">–</td><td colspan="2">20</td><td colspan="2">–</td><td>1) 3) 6) 8) 11)</td></tr>
-<tr><td>73 Ours malais</td><td>c)e)</td><td>2</td><td colspan="2">100</td><td colspan="2">–</td><td colspan="2"></td><td colspan="7">–</td><td colspan="2">20</td><td colspan="2">4</td><td>1) 2) 11) 14) 18) 21)</td></tr>
-<tr><td>74 Autres ours, panda géant</td><td>c)e)</td><td>2</td><td colspan="2">150</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">20</td><td colspan="2">–</td><td>1) 2) 11) 14) 18) 21) 22)</td></tr>
-<tr><td>75 Ours polaire</td><td>c)e)</td><td>1</td><td colspan="2">120</td><td colspan="2">–</td><td colspan="2">8</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">–</td><td>2) 4) 14) 18)</td></tr>
-<tr><td>76 Petit panda, raton laveur</td><td>c)e)</td><td>2</td><td colspan="2">20</td><td colspan="2">–</td><td colspan="2">8</td><td colspan="7">16</td><td colspan="2">4</td><td colspan="2">2</td><td>2) 3) ratons laveurs: 18)</td></tr>
-<tr><td>77 Kinkajou, bassaris</td><td>c)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">16</td><td colspan="7">40</td><td colspan="2">–</td><td colspan="2">2</td><td>2) 3) 6)</td></tr>
-<tr><td>78 Coatis</td><td>c)</td><td>2</td><td colspan="2">30</td><td colspan="2">90</td><td colspan="2">20</td><td colspan="7">60</td><td colspan="2">3</td><td colspan="2">3</td><td>2) 3)</td></tr>
-<tr><td>79 Belettes de petite taille</td><td>c)</td><td>2</td><td colspan="2">8</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">–</td><td>3) 4)</td></tr>
-<tr><td>80 Belettes de grande taille</td><td>c)</td><td>2</td><td colspan="2">12</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">–</td><td>3) 4)</td></tr>
-<tr><td>81 Putois, vison sauvage, furets</td><td>c)</td><td>2</td><td colspan="2">15</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">1</td><td colspan="2">–</td><td>3) 4) 18)</td></tr>
-<tr><td>82 Furets (en tant qu’animal de compagnie avec sorties temporaires dans l’appartement)</td><td>c)</td><td>2</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">4</td><td colspan="7">2,4</td><td colspan="2">–</td><td colspan="2">0,5</td><td>3) 14) 16) 55)</td></tr>
-<tr><td>83 Martres arboricoles</td><td>c)</td><td>2</td><td colspan="2">16</td><td colspan="2">40</td><td colspan="2">0</td><td colspan="7">0</td><td colspan="2">–</td><td colspan="2">–</td><td>2) 4) 17) 21)</td></tr>
-<tr><td>84 Tayra</td><td>c)e)</td><td>2</td><td colspan="2">16</td><td colspan="2">40</td><td colspan="2">16</td><td colspan="7">40</td><td colspan="2">4</td><td colspan="2">4</td><td>2) 3) 17)</td></tr>
-<tr><td>85 Glouton</td><td>c)e)</td><td>2</td><td colspan="2">120</td><td colspan="2">–</td><td colspan="2"></td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">–</td><td>1) 2) 4) 21)</td></tr>
-<tr><td>86 Moufette</td><td>c)e)</td><td>2</td><td colspan="2">12</td><td colspan="2">–</td><td colspan="2">12</td><td colspan="7">–</td><td colspan="2">2</td><td colspan="2">2</td><td>1) 3) 6) 17) pour quelques espèces: 18)</td></tr>
-<tr><td>87 Blaireau</td><td>c)</td><td>2</td><td colspan="2">100</td><td colspan="2">–</td><td colspan="2">30</td><td colspan="7">–</td><td colspan="2">4</td><td colspan="2">4</td><td>1) 3) 4) 17)</td></tr>
-<tr><td>88 Loutre naine</td><td>c)</td><td>2</td><td colspan="2">20</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="7">–</td><td colspan="2">3</td><td colspan="2">2</td><td>6) 15) 18)</td></tr>
-<tr><td>89 Loutre de rivière, loutre à joues blanches</td><td>c)</td><td>2</td><td colspan="2">40</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">–</td><td>4) 6) 15) 18)</td></tr>
-<tr><td>90 Loutre géante</td><td>c)</td><td>2</td><td colspan="2">80</td><td colspan="2">–</td><td colspan="2">24</td><td colspan="7">–</td><td colspan="2">10</td><td colspan="2">4</td><td>6), 15) 18)</td></tr>
-<tr><td>91 Loutre de mer</td><td>c)</td><td>2</td><td colspan="2">10</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">3</td><td colspan="2">–</td><td>6) 18)</td></tr>
-<tr><td>92 Mangouste naine</td><td>c)</td><td>6</td><td colspan="2">20</td><td colspan="2">–</td><td colspan="2">10</td><td colspan="7">–</td><td colspan="2">2</td><td colspan="2">2</td><td>1) 3) 15)</td></tr>
-<tr><td>93 Suricate, mangouste rayée, mangouste fauve</td><td>c)</td><td>6</td><td colspan="2">20</td><td colspan="2">–</td><td colspan="2">10</td><td colspan="7">–</td><td colspan="2">2</td><td colspan="2">2</td><td>1) 3) 15) 20)</td></tr>
-<tr><td>94 Autres mangoustes</td><td>c)</td><td>2</td><td colspan="2">20</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="7">–</td><td colspan="2">5</td><td colspan="2">3</td><td>1) 3) 15) 17) 20) Ichneumon des marais: 18)</td></tr>
-<tr><td>95 Chat à pieds noirs, chat léopard du Bengale, chat rougeâtre, manul, viverridés arboricoles</td><td>c)</td><td>2</td><td colspan="2">16</td><td colspan="2">40</td><td colspan="2">16</td><td colspan="7">40</td><td colspan="2">4</td><td colspan="2">3</td><td>2) 4) 6) 11) 15) 17) 21) 23) 52), 53)</td></tr>
-<tr><td>96 Fossa, binturong, civette, chat sauvage, chat des marais, jaguarond</td><td>c)</td><td>2</td><td colspan="2">40</td><td colspan="2">120</td><td colspan="2">20</td><td colspan="7">50</td><td colspan="2">5</td><td colspan="2">4</td><td>2) 4) 6) 11) 15) 17) 21) 23) chat pêcheur, chat à tête plate: 18) 52) 53)</td></tr>
-<tr><td>97 Serval, félidés de taille moyenne, panthère nébuleuse, lynx</td><td>c)</td><td>2</td><td colspan="2">30</td><td colspan="2">75</td><td colspan="2">20</td><td colspan="7">50</td><td colspan="2">10</td><td colspan="2">10</td><td>2) 4) 6) 11) 15) 21) 23) 52) 53)</td></tr>
-<tr><td>98 Jaguar, léopard, puma, panthère des neiges</td><td>c)e)</td><td>2</td><td colspan="2">50</td><td colspan="2">150</td><td colspan="2">25</td><td colspan="7">75</td><td colspan="2">15</td><td colspan="2">12</td><td>2) 4) 6) 11) 15) 21) 23) 52) 53) jaguar: 18)</td></tr>
-<tr><td>99 Lion, tigre</td><td>c)e)</td><td>2</td><td colspan="2">80</td><td colspan="2">240</td><td colspan="2">30</td><td colspan="7">90</td><td colspan="2">20</td><td colspan="2">15</td><td>2) 4) 6) 11) 15) 21) 23) 52) 53) tigre: 18)</td></tr>
-<tr><td>100 Guépard</td><td>c)e)</td><td>2</td><td colspan="2">200</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">20</td><td colspan="2">–</td><td>2) 4) 6) 11) 15) 21) 52) 53)</td></tr>
-<tr><td>101 Protèle</td><td>c)e)</td><td>2</td><td colspan="2">100</td><td colspan="2">–</td><td colspan="2">12 par animal</td><td colspan="7">–</td><td colspan="2">10</td><td colspan="2">6</td><td>1) 11) 21)</td></tr>
-<tr><td>102 Hyènes</td><td>c)e)</td><td>2</td><td colspan="2">200</td><td colspan="2">–</td><td colspan="2"></td><td colspan="7">–</td><td colspan="2">20</td><td colspan="2">–</td><td>1) 6) 11) 21) 53)</td></tr>
-<tr><td>103 Oryctérope</td><td>c)e)</td><td>2</td><td colspan="2">40</td><td colspan="2">–</td><td colspan="2"></td><td colspan="7">–</td><td colspan="2"></td><td colspan="2">5</td><td>1) 3)</td></tr>
-<tr><td>104 Daman</td><td>c)</td><td>5</td><td colspan="2">16</td><td colspan="2">40</td><td colspan="2">16</td><td colspan="7">40</td><td colspan="2">3</td><td colspan="2">3</td><td>2) 8) 36)</td></tr>
-<tr><td>105 Éléphants femelles</td><td>c)e)</td><td>3</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">15 par animal</td><td colspan="7">–</td><td colspan="2">100</td><td colspan="2">–</td><td>24) 25) 52)</td></tr>
-<tr><td>106 Éléphants mâles</td><td>c)e)</td><td>1</td><td colspan="2">150</td><td colspan="2">–</td><td colspan="2">2×30 par animal</td><td colspan="7">–</td><td colspan="2">100</td><td colspan="2">–</td><td>24) 25) 52) deux box</td></tr>
-<tr><td>107 Femelles de zèbres de Grévy et d’hémiones</td><td>c)e)</td><td>5</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">8 par animal</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">–</td><td>8) 25) 26) 52)</td></tr>
-<tr><td>108 Mâles de zèbres de Grévy et d’hémiones</td><td>c)e)</td><td>1</td><td colspan="2">150</td><td colspan="2">–</td><td colspan="2">8</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">–</td><td>8) 25) 26) 52)</td></tr>
-<tr><td>109 Zèbre de Grant, âne sauvage</td><td>c)e)</td><td>5</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">8 par animal</td><td colspan="7">–</td><td colspan="2">80</td><td colspan="2">–</td><td>8) 25) 26) 27)52)</td></tr>
-<tr><td>110 Zèbre des montagnes et cheval de Przewalski</td><td>c)e)</td><td>5</td><td colspan="2">1000</td><td colspan="2">–</td><td colspan="2">8 par animal</td><td colspan="7">–</td><td colspan="2">100</td><td colspan="2">–</td><td>8) 25) 26) 27) 52)</td></tr>
-<tr><td>111 Tapirs</td><td>c)e)</td><td>2</td><td colspan="2">200</td><td colspan="2">–</td><td colspan="2">15 par animal</td><td colspan="7">–</td><td colspan="2">50</td><td colspan="2">–</td><td>24) 25) 28)</td></tr>
-<tr><td>112 Rhinocéros</td><td>c)e)</td><td>2</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">25 par animal</td><td colspan="7">–</td><td colspan="2">150</td><td colspan="2">–</td><td>4) à l’exception du rhinocéros blanc 11) 24) 25) 29) 38)</td></tr>
-<tr><td>113 Sanglier nain</td><td>c)e)</td><td>2</td><td colspan="2">30</td><td colspan="2">–</td><td colspan="2">4</td><td colspan="7">–</td><td colspan="2">10</td><td colspan="2">–</td><td>25) 27) 29)</td></tr>
-<tr><td>114 Autres suidés sauvages</td><td>c)e)</td><td>2</td><td colspan="2">100</td><td colspan="2">–</td><td colspan="2">4</td><td colspan="7">–</td><td colspan="2">20</td><td colspan="2">–</td><td>8) 17) 25) 27) 29)</td></tr>
-<tr><td>115 Pécaris</td><td>c)e)</td><td>4</td><td colspan="2">80</td><td colspan="2">–</td><td colspan="2">3</td><td colspan="7">–</td><td colspan="2">10</td><td colspan="2">–</td><td>25) 29)</td></tr>
-<tr><td>116 Hippopotame nain</td><td>c)e)</td><td>2</td><td colspan="2">100</td><td colspan="2">–</td><td colspan="2">10 par animal</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">–</td><td>4) 24) 29)</td></tr>
-<tr><td>117 Hippopotame</td><td>c)e)</td><td>2</td><td colspan="2">250</td><td colspan="2">–</td><td colspan="2">40 par animal</td><td colspan="7">–</td><td colspan="2">50</td><td colspan="2">10</td><td>24)</td></tr>
-<tr><td>118 Guanaco, vigogne</td><td>c)</td><td>6</td><td colspan="2">300</td><td colspan="2">–</td><td colspan="2">2 par animal</td><td colspan="7">–</td><td colspan="2">50</td><td colspan="2">–</td><td>8)</td></tr>
-<tr><td>119 Chameau, dromadaire</td><td>c)</td><td>3</td><td colspan="2">300</td><td colspan="2">–</td><td colspan="2">8 par animal</td><td colspan="7">–</td><td colspan="2">50</td><td colspan="2">–</td><td>8) 27)</td></tr>
-<tr><td>120 Chevrotain d’Asie</td><td>c)</td><td>2</td><td colspan="2">20</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">2</td><td>6)</td></tr>
-<tr><td>121 Chevrotain aquatique</td><td>c)e)</td><td>2</td><td colspan="2">40</td><td colspan="2">–</td><td colspan="2">8</td><td colspan="7">–</td><td colspan="2">12</td><td colspan="2">2</td><td>6) 18)</td></tr>
-<tr><td>122 Cervidés de petite taille (poudou, hydropotes, muntjac)</td><td>c)</td><td>4</td><td colspan="2">150</td><td colspan="2">–</td><td colspan="2">3 par animal</td><td colspan="7">–</td><td colspan="2">10</td><td colspan="2">–</td><td>6) 8) 30) 52)</td></tr>
-<tr><td>123 Chevreuil</td><td>c)</td><td>2</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">150</td><td colspan="2">–</td><td>6) 8) 30) 52)</td></tr>
-<tr><td>124 Cervidés de taille moyenne (p. ex. sika, daim)</td><td>c)</td><td>8</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">4 par animal</td><td colspan="7">–</td><td colspan="2">60</td><td colspan="2">–</td><td>8) 27) 29) à l’exception du daim 30) 31) 52)</td></tr>
-<tr><td>125 Cervidés de grande taille (barashinga, sambar, cerf des marais, renne, milu)\*</td><td>c)</td><td>6</td><td colspan="2">800</td><td colspan="2">–</td><td colspan="2">6 par animal</td><td colspan="7">–</td><td colspan="2">80</td><td colspan="2">–</td><td>8) 18) à l’exception du renne 27) 29) à l’exception du renne 30) 31) 52)</td></tr>
-<tr><td>126 Élan</td><td>c)</td><td>3</td><td colspan="2">800</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="7">–</td><td colspan="2">80</td><td colspan="2">–</td><td>8) 18) 28) 31) 32) 52)</td></tr>
-<tr><td>127 Okapi</td><td>c)e)</td><td>2</td><td colspan="2">300</td><td colspan="2">–</td><td colspan="2">15 par animal</td><td colspan="7">–</td><td colspan="2">100</td><td colspan="2">–</td><td>4) 26) 52)</td></tr>
-<tr><td>128 Girafe</td><td>c)e)</td><td>4</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">25 par animal</td><td colspan="7">–</td><td colspan="2">100</td><td colspan="2">–</td><td>33) 52) mâle: 26)</td></tr>
-<tr><td>129 Céphalophes de petite taille et de taille moyenne, dik-diks, antilopes naines</td><td>c)e)</td><td>2</td><td colspan="2">50</td><td colspan="2">–</td><td colspan="2">3 par animal</td><td colspan="7">–</td><td colspan="2">20</td><td colspan="2">–</td><td>4) 6) 52)</td></tr>
-<tr><td>130 Raphicère champêtre, raphicère du Cap, oréotrague</td><td>c)e)</td><td>2</td><td colspan="2">50</td><td colspan="2">–</td><td colspan="2">3 par animal</td><td colspan="7">–</td><td colspan="2">20</td><td colspan="2">–</td><td>6) 52) oréotrague: 2)</td></tr>
-<tr><td>131 Oribi, Beira</td><td>c)e)</td><td>4</td><td colspan="2">100</td><td colspan="2">–</td><td colspan="2">3 par animal</td><td colspan="7">–</td><td colspan="2">15</td><td colspan="2">–</td><td>6) 52)</td></tr>
-<tr><td>132 Céphalophes de grande taille</td><td>c)e)</td><td>2</td><td colspan="2">100</td><td colspan="2">–</td><td colspan="2">4 par animal</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2">–</td><td>4) 6) 52)</td></tr>
-<tr><td>133 Gazelles (y compris antidorcas, cervicapre, impala)</td><td>c)e)</td><td>10</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">4 par animal</td><td colspan="7">–</td><td colspan="2">40</td><td colspan="2">–</td><td>6) 8) 27) 52)</td></tr>
-<tr><td>134 Gérénuk, gazelle de Clarke, antilope-chèvre américaine, saiga et autres antilopes de taille moyenne</td><td>c)e)</td><td>6</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">5 par animal</td><td colspan="7">–</td><td colspan="2">50</td><td colspan="2">–</td><td>6) 8) 27) 52)</td></tr>
-<tr><td>135 Antilopes de grande taille, bœufs musqués, bison d’Europe, bison d’Amérique, autres bovins sauvages</td><td>c)e)</td><td>5</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">8 par animal</td><td colspan="7">–</td><td colspan="2">80</td><td colspan="2">–</td><td>8) 11) 25) 27) 31) 32) 52)</td></tr>
-<tr><td>136 Chamois, goral, capricorne, chèvre des Montagnes Rocheuses, takin</td><td>c)e)</td><td>4</td><td colspan="2">400</td><td colspan="2">–</td><td colspan="2">4 par animal</td><td colspan="7">–</td><td colspan="2">50</td><td colspan="2">–</td><td>2) 6) 8) 28)</td></tr>
-<tr><td>137 Mouflon et autres ovins sauvages</td><td>c)</td><td>10</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">2 par animal</td><td colspan="7">–</td><td colspan="2">50</td><td colspan="2">–</td><td>2) 8) 52) autres ovins sauvages: 27)</td></tr>
-<tr><td>138 Caprins sauvages, bharal, aoudad</td><td>c)</td><td>10</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">2 par animal</td><td colspan="7">–</td><td colspan="2">50</td><td colspan="2">–</td><td>2) 8) 27) 52)</td></tr>
+<tr><th>Enclos pour mammifères</th><th></th><th colspan="7">Pour des groupes jusqu’à n animaux</th><th></th><th></th><th colspan="2"></th><th></th><th colspan="2">Par animal en plus<sup>a)</sup></th><th></th><th>Exigences particulières</th></tr>
+<tr><th></th><th></th><th>Nombre</th><th colspan="2">Enclos extérieur<sup>a)</sup></th><th colspan="2"></th><th colspan="5">Enclos intérieur<sup>a)</sup></th><th colspan="2"></th><th>extérieur</th><th colspan="2">intérieur</th><th></th></tr>
+<tr><th>Espèces animales</th><th></th><th>(n)</th><th>Surface<sup>b)</sup> m<sup>2</sup></th><th colspan="2">Volume m<sup>3</sup></th><th colspan="2">Surface<sup>b)</sup> m<sup>2</sup></th><th colspan="6">Volume m<sup>3</sup></th><th>m<sup>2</sup></th><th colspan="2">m<sup>2</sup></th><th></th></tr>
+<tr><td>1 Échidnés</td><td>c)</td><td>2</td><td>–</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="6">–</td><td>–</td><td colspan="2">2</td><td>1) 6) 11)</td></tr>
+<tr><td>2 Couscous, opossums, phalangers</td><td>c)e)</td><td>2</td><td>–</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="6">12</td><td>–</td><td colspan="2">2</td><td>2) 3) 4)</td></tr>
+<tr><td>3 Didelphidés, petites espèces</td><td>c)e)</td><td>2</td><td>–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="6">0,35</td><td>–</td><td colspan="2">0,05</td><td>2) 3) 4)</td></tr>
+<tr><td>4 Kowari</td><td>c)e)</td><td>2</td><td>–</td><td colspan="2">–</td><td colspan="2">1</td><td colspan="6">1,8</td><td>–</td><td colspan="2">0,5</td><td>2) 3) 4)</td></tr>
+<tr><td>5 Phalangers volants de grande taille ou de taille moyenne</td><td>c)e)</td><td>6</td><td>–</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="6">12</td><td>–</td><td colspan="2">1</td><td>2) 3) 4)</td></tr>
+<tr><td>6 Phalangers volants de petite taille</td><td>c)e)</td><td>6</td><td>–</td><td colspan="2">–</td><td colspan="2">3</td><td colspan="6">6</td><td>–</td><td colspan="2">0,5</td><td>2) 3) 4)</td></tr>
+<tr><td>7 Diable de Tasmanie</td><td>c)e)</td><td>2</td><td>20</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="6">–</td><td>–</td><td colspan="2">–</td><td>1) 3) 4)</td></tr>
+<tr><td>8 Wombat</td><td>c)e)</td><td>2</td><td>20</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="6">–</td><td>–</td><td colspan="2">–</td><td>1) 3) 4)</td></tr>
+<tr><td>9 Kangourous arboricoles</td><td>c)e)</td><td>2</td><td>16</td><td colspan="2">40</td><td colspan="2">16</td><td colspan="6">40</td><td>4</td><td colspan="2">4</td><td>2) 5)</td></tr>
+<tr><td>10 Kangourous de petite taille</td><td>c)</td><td>5</td><td>40</td><td colspan="2">–</td><td colspan="2">10</td><td colspan="6">–</td><td>4</td><td colspan="2">2</td><td>6) 22)</td></tr>
+<tr><td>11 Rats-kangourous</td><td>c)</td><td>2</td><td>–</td><td colspan="2">–</td><td colspan="2">8</td><td colspan="6">–</td><td>–</td><td colspan="2">2</td><td>3) 6)</td></tr>
+<tr><td>12 Wallabies de rochers</td><td>c)e)</td><td>5</td><td>150</td><td colspan="2">–</td><td colspan="2">15</td><td colspan="6">–</td><td>15</td><td colspan="2">3</td><td>2) 7) 8)</td></tr>
+<tr><td>13 Wallabies d’Australie et de Nouvelle-Guinée, thylogales</td><td>c)</td><td>5</td><td>250</td><td colspan="2">–</td><td colspan="2">15</td><td colspan="6">–</td><td>15</td><td colspan="2">3</td><td>7) 8)</td></tr>
+<tr><td>14 Kangourous de grande taille</td><td>c)e)</td><td>5</td><td>300</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="6">–</td><td>30</td><td colspan="2">4</td><td>7)</td></tr>
+<tr><td>15 Mégachiroptères de petite taille (p. ex. roussette d’Égypte)</td><td>c)</td><td>20</td><td>–</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="6">50</td><td>–</td><td colspan="2">1</td><td>9) 10)</td></tr>
+<tr><td>16 Mégachiroptères de grande taille</td><td>c)</td><td>20</td><td>–</td><td colspan="2">–</td><td colspan="2">30</td><td colspan="6">90</td><td>–</td><td colspan="2">1</td><td>9) 10)</td></tr>
+<tr><td>17 Chauves-souris</td><td>c)</td><td>20</td><td>–</td><td colspan="2">–</td><td colspan="2">10</td><td colspan="6">20</td><td>–</td><td colspan="2">0,2</td><td>9) 10) 50)</td></tr>
+<tr><td>18 Tupaies</td><td>c)</td><td>5</td><td>–</td><td colspan="2">–</td><td colspan="2">3</td><td colspan="6">6</td><td>–</td><td colspan="2">0,5</td><td>2) 3) 6) 34) 36)</td></tr>
+<tr><td>19 Ouistitis</td><td>c)d)</td><td>2</td><td>–</td><td colspan="2">–</td><td colspan="2">3</td><td colspan="6">6</td><td>–</td><td colspan="2">0,5</td><td>2) 3) 6) 14) 34) 36)</td></tr>
+<tr><td>20 Microcèbes</td><td>c)e)</td><td>5</td><td>–</td><td colspan="2">–</td><td colspan="2">1,5</td><td colspan="6">3</td><td>–</td><td colspan="2">0,3</td><td>2) 3) 6) 14) 36)</td></tr>
+<tr><td>21 Loris, potto de Bosman, potto doré</td><td>c)e)</td><td>5</td><td>–</td><td colspan="2">–</td><td colspan="2">1,5</td><td colspan="6">3</td><td>–</td><td colspan="2">0,3</td><td>2) 3) 6) 14)</td></tr>
+<tr><td>22 Galago de petite taille, Tarsiers, happalémurs, chirogales</td><td>c)e) c)e)</td><td>5</td><td>–</td><td colspan="2">–</td><td colspan="2">3</td><td colspan="6">6</td><td>–</td><td colspan="2">0,5</td><td>2) 3) 6)14) 34) 36)</td></tr>
+<tr><td>23 Tamarins, tamarin de Goeldi</td><td>c)d)e)</td><td>5</td><td>–</td><td colspan="2"></td><td colspan="2">3</td><td colspan="6">6</td><td>–</td><td colspan="2">0,5</td><td>2) 3) 6) 14) 34) 36)</td></tr>
+<tr><td>24 Douroucouli</td><td>c)d)e)</td><td>5</td><td>–</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="6">12</td><td>–</td><td colspan="2">1</td><td>2) 3) 6) 14) 34)</td></tr>
+<tr><td>25 Galago géant, titis</td><td>c)e)</td><td>5</td><td>–</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="6">12</td><td>–</td><td colspan="2">1</td><td>2) 3) 6) 14) 34)</td></tr>
+<tr><td>26 Saïmiri Talapoin</td><td>c)d)e) c)e)</td><td>5</td><td>6</td><td colspan="2">15</td><td colspan="2">6</td><td colspan="6">15</td><td>1,5</td><td colspan="2">1,5</td><td>2) 6) 14)</td></tr>
+<tr><td>27 Lémurs, sakis, ouakaris, hurleurs, capucins</td><td>c)e)</td><td>5</td><td>10</td><td colspan="2">30</td><td colspan="2">10</td><td colspan="6">30</td><td>2</td><td colspan="2">2</td><td>2) 6) 14)</td></tr>
+<tr><td>28 Cercopithèques, macaques Singe laineux, atèles, semnopithèques de petite taille, varis</td><td>c)d)e) c)e)</td><td>5</td><td>15</td><td colspan="2">45</td><td colspan="2">15</td><td colspan="6">45</td><td>3</td><td colspan="2">3</td><td>2) 6) 11) 12) 14) Varis: 3)</td></tr>
+<tr><td>29 Patas, cercocèbes, babouins, semnopithèques de grande taille (p. ex. colobes), propithèques</td><td>c)e) c)e)</td><td>5</td><td>25</td><td colspan="2">75</td><td colspan="2">25</td><td colspan="6">75</td><td>4</td><td colspan="2">4</td><td>2) 6) 11) 14)</td></tr>
+<tr><td>30 Gibbons</td><td>c)e)</td><td>3</td><td>25</td><td colspan="2">75</td><td colspan="2">25</td><td colspan="6">75</td><td>8</td><td colspan="2">8</td><td>2) 6) 11) 12) 14) 34)</td></tr>
+<tr><td>31 Chimpanzés, orang-outan</td><td>c)e)</td><td>3</td><td>35</td><td colspan="2">140</td><td colspan="2">35</td><td colspan="6">140</td><td>8</td><td colspan="2">8</td><td>2) 6) 11) 14)</td></tr>
+<tr><td>32 Gorille</td><td>c)e)</td><td>3</td><td>50</td><td colspan="2">200</td><td colspan="2">50</td><td colspan="6">200</td><td>10</td><td colspan="2">10</td><td>2) 6) 11) 14)</td></tr>
+<tr><td>33 Tatous de petite taille ou de taille moyenne</td><td>c)e)</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="6">–</td><td>–</td><td colspan="2">1,5</td><td>1) 3) 51</td></tr>
+<tr><td>34 Tamandua</td><td>c)e)</td><td>2</td><td>–</td><td colspan="2">–</td><td colspan="2">12</td><td colspan="6">24</td><td>–</td><td colspan="2">4</td><td>2) 3) 4) 15) 51)</td></tr>
+<tr><td>35 Grand fourmilier</td><td>c)e)</td><td>2</td><td>100</td><td colspan="2">–</td><td colspan="2">12</td><td colspan="6">–</td><td>10</td><td colspan="2">6</td><td>11) 16) 18 )</td></tr>
+<tr><td>36 Paresseux</td><td>c)e)</td><td>2</td><td>–</td><td colspan="2">–</td><td colspan="2">10</td><td colspan="6">20</td><td>–</td><td colspan="2">2</td><td>2) 36)</td></tr>
+<tr><td>37 Hérisson, sauf *Erinaceus europaeus*</td><td>c)</td><td>1</td><td>–</td><td colspan="2">–</td><td colspan="2">2</td><td colspan="6">–</td><td>–</td><td colspan="2">1</td><td>39) 41)</td></tr>
+<tr><td>38 Tanrek, espèces de petite taille de moins de 10 cm de longueur</td><td>c)</td><td>1</td><td>–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="6">–</td><td>–</td><td colspan="2">0,25</td><td>2) 39) 41)</td></tr>
+<tr><td>39 Tanrek, espèces de grande taille à partir de 10 cm de longueur</td><td>c)</td><td>1</td><td>–</td><td colspan="2">–</td><td colspan="2">2</td><td colspan="6">–</td><td>–</td><td colspan="2">1,0</td><td>2) 39) 41)</td></tr>
+<tr><td>40 Cobaye/cochon d’Inde *Cavia porcellus*</td><td>d)f)g)</td><td>2</td><td>–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="6">–</td><td>–</td><td colspan="2">0,2</td><td>39) 41) 45) 47) 54)</td></tr>
+<tr><td>41 Hamster *Mesocricetus sp*.</td><td>d)</td><td>1</td><td>–</td><td colspan="2">–</td><td colspan="2">0,18</td><td colspan="6">–</td><td>–</td><td colspan="2">0,05</td><td>2) 40) 41) 42) 44) 45) 48)</td></tr>
+<tr><td>42 Souris *Mus musculus*</td><td>d)</td><td>2</td><td>–</td><td colspan="2">–</td><td colspan="2">0,18</td><td colspan="6">–</td><td>–</td><td colspan="2">0,05</td><td>2) 39) 41) 42) 44) 45) 47)</td></tr>
+<tr><td>43 Gerbille de Mongolie</td><td>d)</td><td>5</td><td>–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="6">–</td><td>–</td><td colspan="2">0,05</td><td>40) 41) 42) 44) 45) 46) 47)</td></tr>
+<tr><td>44 Rat *Rattus norvegicus*</td><td>d)</td><td>5</td><td>–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="6">0,35</td><td>–</td><td colspan="2">0,05</td><td>39) 41) 42) 44) 45) 47)</td></tr>
+<tr><td>45 Dégu</td><td></td><td>5</td><td>–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="6">0,35</td><td>–</td><td colspan="2">0,2</td><td>40) 41) 44) 45) 46) 47)</td></tr>
+<tr><td>46 Chinchilla</td><td>d)</td><td>2</td><td>–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="6">0,75</td><td>–</td><td colspan="2">0,2</td><td>39) 41) 42) 43) 44) 45) 46) 47)</td></tr>
+<tr><td>47 Tamias</td><td></td><td>1</td><td>–</td><td colspan="2">–</td><td colspan="2">0,5</td><td colspan="6">0,75</td><td>–</td><td colspan="2">0,2</td><td>2) 39) 41) 42) 43) 48) 50)</td></tr>
+<tr><td>48 Écureuils terrestres, xérus, spermophiles</td><td>c)</td><td>5</td><td>20</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="6">–</td><td>0,6</td><td colspan="2">–</td><td>45) 50) couche à creuser de 80 cm</td></tr>
+<tr><td>49 Écureuils, *Callosciurus quinquestriatus*</td><td>c)</td><td>2</td><td>8</td><td colspan="2">20</td><td colspan="2">8</td><td colspan="6">20</td><td>2</td><td colspan="2">2</td><td>2) 3) 4) 17) 19)</td></tr>
+<tr><td>50 Écureuils géants, pétauristes de grande taille</td><td>c)</td><td>2</td><td>–</td><td colspan="2">–</td><td colspan="2">16</td><td colspan="6">40</td><td>–</td><td colspan="2">3</td><td>2) 3) 15) 17) 19)</td></tr>
+<tr><td>51 Athérures, trichys</td><td>c)e)</td><td>2</td><td>–</td><td colspan="2">–</td><td colspan="2">5</td><td colspan="6">10</td><td>–</td><td colspan="2">2</td><td>2) 3) 6) 19)</td></tr>
+<tr><td>52 Porcs-épics</td><td>c)</td><td>2</td><td>40</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="6">–</td><td>4</td><td colspan="2">3</td><td>1) 3) 6) 17) 19)</td></tr>
+<tr><td>53 Castor</td><td>c)</td><td>5</td><td>40</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="6">–</td><td>4</td><td colspan="2">–</td><td>3) 18) 19) 34)</td></tr>
+<tr><td>54 Agoutis, pacas, pacarana, acouchis</td><td>c)</td><td>5</td><td>20</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="6">–</td><td>2</td><td colspan="2">2</td><td>1) 3) 6) 19) 36)</td></tr>
+<tr><td>55 Viscache, lièvre sauteur</td><td></td><td>5</td><td>–</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="6">–</td><td>–</td><td colspan="2">2</td><td>1) 3) 6) 11) 19)</td></tr>
+<tr><td>56 Marmottes</td><td>c)</td><td>6</td><td>150</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="6">–</td><td>10</td><td colspan="2">–</td><td>1) 49) 50)</td></tr>
+<tr><td>57 Chien de prairie</td><td>c)</td><td>10</td><td>40</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="6">–</td><td>2</td><td colspan="2">–</td><td>1) 49) 50)</td></tr>
+<tr><td>58 Capybara</td><td>c)</td><td>5</td><td>150</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="6">–</td><td>10</td><td colspan="2">2,5</td><td>6) 18) 19)</td></tr>
+<tr><td>59 Rat musqué</td><td>c)</td><td>2</td><td>4</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="6">–</td><td>1</td><td colspan="2">–</td><td>1) 3) 18) 19)</td></tr>
+<tr><td>60 Ragondins (forme sauvage)</td><td>c)</td><td>2</td><td>10</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="6">–</td><td>1</td><td colspan="2">–</td><td>3) 18) 19)</td></tr>
+<tr><td>61 Coendou, porc-épic nord-américain</td><td>c)</td><td>2</td><td>10</td><td colspan="2">30</td><td colspan="2">–</td><td colspan="6">–</td><td>4</td><td colspan="2">–</td><td>2) 8) 19)</td></tr>
+<tr><td>62 Rat pilori, rat typique, plagiodonte d’Haïti, hutia</td><td>c)</td><td>2</td><td>–</td><td colspan="2">–</td><td colspan="2">5</td><td colspan="6">10</td><td>–</td><td colspan="2">1,5</td><td>1) 2) 3) 6) 19)</td></tr>
+<tr><td>63 Maras</td><td>c)</td><td>2</td><td>40</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="6">–</td><td>4</td><td colspan="2">–</td><td>1) 3) 6) 19)</td></tr>
+<tr><td>64 Lièvres</td><td>c)</td><td>2</td><td>150</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="6">–</td><td>4</td><td colspan="2">–</td><td>3) 6)</td></tr>
+<tr><td>65 Lapins sauvages, pikas</td><td>c)</td><td>5</td><td>30</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="6">–</td><td>3</td><td colspan="2">–</td><td>1) 6) 49)</td></tr>
+<tr><td>66 Fennec</td><td>c)</td><td>2</td><td>20</td><td colspan="2">–</td><td colspan="2">4</td><td colspan="6">–</td><td>2</td><td colspan="2">2</td><td>1) 3) 11) 36)</td></tr>
+<tr><td>67 Renards de taille moyenne (p. ex. renard des sables, renard polaire, renard corsac, renard véloce), octocyon, chien viverin</td><td>c)</td><td>2</td><td>40</td><td colspan="2">–</td><td colspan="2">8</td><td colspan="6">–</td><td>4</td><td colspan="2">1</td><td>1) 3) 6) 8) 11)</td></tr>
+<tr><td>68 Speothos</td><td>c)e)</td><td>4</td><td>40</td><td colspan="2">–</td><td colspan="2">12</td><td colspan="6">–</td><td>4</td><td colspan="2">1</td><td>1) 3) 6) 11) 18) 34)</td></tr>
+<tr><td>69 Renard commun, renard gris, dusicyons</td><td>c)</td><td>2</td><td>100</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="6">–</td><td>10</td><td colspan="2">–</td><td>1) 3) 6) 11)</td></tr>
+<tr><td>70 Chacals, coyotes, cuon</td><td>c)</td><td>4</td><td>150</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="6">–</td><td>15</td><td colspan="2">–</td><td>3) 6) 34) 11)</td></tr>
+<tr><td>71 Loup à crinière</td><td>c)e)</td><td>2</td><td>200</td><td colspan="2">–</td><td colspan="2">2 par animal</td><td colspan="6">–</td><td>20</td><td colspan="2">2</td><td>1) 3) 6) 8) 11) 34)</td></tr>
+<tr><td>72 Loup, lycaon</td><td>c)</td><td>4</td><td>400</td><td colspan="2">–</td><td colspan="2">4 par animal</td><td colspan="6">–</td><td>20</td><td colspan="2">–</td><td>1) 3) 6) 8) 11)</td></tr>
+<tr><td>73 Ours malais</td><td>c)e)</td><td>2</td><td>100</td><td colspan="2">–</td><td colspan="2"></td><td colspan="6">–</td><td>20</td><td colspan="2">4</td><td>1) 2) 11) 14) 18) 21)</td></tr>
+<tr><td>74 Autres ours, panda géant</td><td>c)e)</td><td>2</td><td>150</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="6">–</td><td>20</td><td colspan="2">–</td><td>1) 2) 11) 14) 18) 21) 22)</td></tr>
+<tr><td>75 Ours polaire</td><td>c)e)</td><td>1</td><td>120</td><td colspan="2">–</td><td colspan="2">8</td><td colspan="6">–</td><td>–</td><td colspan="2">–</td><td>2) 4) 14) 18)</td></tr>
+<tr><td>76 Petit panda, raton laveur</td><td>c)e)</td><td>2</td><td>20</td><td colspan="2">–</td><td colspan="2">8</td><td colspan="6">16</td><td>4</td><td colspan="2">2</td><td>2) 3) ratons laveurs: 18)</td></tr>
+<tr><td>77 Kinkajou, bassaris</td><td>c)</td><td>2</td><td>–</td><td colspan="2">–</td><td colspan="2">16</td><td colspan="6">40</td><td>–</td><td colspan="2">2</td><td>2) 3) 6)</td></tr>
+<tr><td>78 Coatis</td><td>c)</td><td>2</td><td>30</td><td colspan="2">90</td><td colspan="2">20</td><td colspan="6">60</td><td>3</td><td colspan="2">3</td><td>2) 3)</td></tr>
+<tr><td>79 Belettes de petite taille</td><td>c)</td><td>2</td><td>8</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="6">–</td><td>–</td><td colspan="2">–</td><td>3) 4)</td></tr>
+<tr><td>80 Belettes de grande taille</td><td>c)</td><td>2</td><td>12</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="6">–</td><td>–</td><td colspan="2">–</td><td>3) 4)</td></tr>
+<tr><td>81 Putois, vison sauvage, furets</td><td>c)</td><td>2</td><td>15</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="6">–</td><td>1</td><td colspan="2">–</td><td>3) 4) 18)</td></tr>
+<tr><td>82 Furets (en tant qu’animal de compagnie avec sorties temporaires dans l’appartement)</td><td>c)</td><td>2</td><td>–</td><td colspan="2">–</td><td colspan="2">4</td><td colspan="6">2,4</td><td>–</td><td colspan="2">0,5</td><td>3) 14) 16) 55)</td></tr>
+<tr><td>83 Martres arboricoles</td><td>c)</td><td>2</td><td>16</td><td colspan="2">40</td><td colspan="2">0</td><td colspan="6">0</td><td>–</td><td colspan="2">–</td><td>2) 4) 17) 21)</td></tr>
+<tr><td>84 Tayra</td><td>c)e)</td><td>2</td><td>16</td><td colspan="2">40</td><td colspan="2">16</td><td colspan="6">40</td><td>4</td><td colspan="2">4</td><td>2) 3) 17)</td></tr>
+<tr><td>85 Glouton</td><td>c)e)</td><td>2</td><td>120</td><td colspan="2">–</td><td colspan="2"></td><td colspan="6">–</td><td>–</td><td colspan="2">–</td><td>1) 2) 4) 21)</td></tr>
+<tr><td>86 Moufette</td><td>c)e)</td><td>2</td><td>12</td><td colspan="2">–</td><td colspan="2">12</td><td colspan="6">–</td><td>2</td><td colspan="2">2</td><td>1) 3) 6) 17) pour quelques espèces: 18)</td></tr>
+<tr><td>87 Blaireau</td><td>c)</td><td>2</td><td>100</td><td colspan="2">–</td><td colspan="2">30</td><td colspan="6">–</td><td>4</td><td colspan="2">4</td><td>1) 3) 4) 17)</td></tr>
+<tr><td>88 Loutre naine</td><td>c)</td><td>2</td><td>20</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="6">–</td><td>3</td><td colspan="2">2</td><td>6) 15) 18)</td></tr>
+<tr><td>89 Loutre de rivière, loutre à joues blanches</td><td>c)</td><td>2</td><td>40</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="6">–</td><td>–</td><td colspan="2">–</td><td>4) 6) 15) 18)</td></tr>
+<tr><td>90 Loutre géante</td><td>c)</td><td>2</td><td>80</td><td colspan="2">–</td><td colspan="2">24</td><td colspan="6">–</td><td>10</td><td colspan="2">4</td><td>6), 15) 18)</td></tr>
+<tr><td>91 Loutre de mer</td><td>c)</td><td>2</td><td>10</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="6">–</td><td>3</td><td colspan="2">–</td><td>6) 18)</td></tr>
+<tr><td>92 Mangouste naine</td><td>c)</td><td>6</td><td>20</td><td colspan="2">–</td><td colspan="2">10</td><td colspan="6">–</td><td>2</td><td colspan="2">2</td><td>1) 3) 15)</td></tr>
+<tr><td>93 Suricate, mangouste rayée, mangouste fauve</td><td>c)</td><td>6</td><td>20</td><td colspan="2">–</td><td colspan="2">10</td><td colspan="6">–</td><td>2</td><td colspan="2">2</td><td>1) 3) 15) 20)</td></tr>
+<tr><td>94 Autres mangoustes</td><td>c)</td><td>2</td><td>20</td><td colspan="2">–</td><td colspan="2">20</td><td colspan="6">–</td><td>5</td><td colspan="2">3</td><td>1) 3) 15) 17) 20) Ichneumon des marais: 18)</td></tr>
+<tr><td>95 Chat à pieds noirs, chat léopard du Bengale, chat rougeâtre, manul, viverridés arboricoles</td><td>c)</td><td>2</td><td>16</td><td colspan="2">40</td><td colspan="2">16</td><td colspan="6">40</td><td>4</td><td colspan="2">3</td><td>2) 4) 6) 11) 15) 17) 21) 23) 52), 53)</td></tr>
+<tr><td>96 Fossa, binturong, civette, chat sauvage, chat des marais, jaguarond</td><td>c)</td><td>2</td><td>40</td><td colspan="2">120</td><td colspan="2">20</td><td colspan="6">50</td><td>5</td><td colspan="2">4</td><td>2) 4) 6) 11) 15) 17) 21) 23) chat pêcheur, chat à tête plate: 18) 52) 53)</td></tr>
+<tr><td>97 Serval, félidés de taille moyenne, panthère nébuleuse, lynx</td><td>c)</td><td>2</td><td>30</td><td colspan="2">75</td><td colspan="2">20</td><td colspan="6">50</td><td>10</td><td colspan="2">10</td><td>2) 4) 6) 11) 15) 21) 23) 52) 53)</td></tr>
+<tr><td>98 Jaguar, léopard, puma, panthère des neiges</td><td>c)e)</td><td>2</td><td>50</td><td colspan="2">150</td><td colspan="2">25</td><td colspan="6">75</td><td>15</td><td colspan="2">12</td><td>2) 4) 6) 11) 15) 21) 23) 52) 53) jaguar: 18)</td></tr>
+<tr><td>99 Lion, tigre</td><td>c)e)</td><td>2</td><td>80</td><td colspan="2">240</td><td colspan="2">30</td><td colspan="6">90</td><td>20</td><td colspan="2">15</td><td>2) 4) 6) 11) 15) 21) 23) 52) 53) tigre: 18)</td></tr>
+<tr><td>100 Guépard</td><td>c)e)</td><td>2</td><td>200</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="6">–</td><td>20</td><td colspan="2">–</td><td>2) 4) 6) 11) 15) 21) 52) 53)</td></tr>
+<tr><td>101 Protèle</td><td>c)e)</td><td>2</td><td>100</td><td colspan="2">–</td><td colspan="2">12 par animal</td><td colspan="6">–</td><td>10</td><td colspan="2">6</td><td>1) 11) 21)</td></tr>
+<tr><td>102 Hyènes</td><td>c)e)</td><td>2</td><td>200</td><td colspan="2">–</td><td colspan="2"></td><td colspan="6">–</td><td>20</td><td colspan="2">–</td><td>1) 6) 11) 21) 53)</td></tr>
+<tr><td>103 Oryctérope</td><td>c)e)</td><td>2</td><td>40</td><td colspan="2">–</td><td colspan="2"></td><td colspan="6">–</td><td></td><td colspan="2">5</td><td>1) 3)</td></tr>
+<tr><td>104 Daman</td><td>c)</td><td>5</td><td>16</td><td colspan="2">40</td><td colspan="2">16</td><td colspan="6">40</td><td>3</td><td colspan="2">3</td><td>2) 8) 36)</td></tr>
+<tr><td>105 Éléphants femelles</td><td>c)e)</td><td>3</td><td>500</td><td colspan="2">–</td><td colspan="2">15 par animal</td><td colspan="6">–</td><td>100</td><td colspan="2">–</td><td>24) 25) 52)</td></tr>
+<tr><td>106 Éléphants mâles</td><td>c)e)</td><td>1</td><td>150</td><td colspan="2">–</td><td colspan="2">2×30 par animal</td><td colspan="6">–</td><td>100</td><td colspan="2">–</td><td>24) 25) 52) deux box</td></tr>
+<tr><td>107 Femelles de zèbres de Grévy et d’hémiones</td><td>c)e)</td><td>5</td><td>500</td><td colspan="2">–</td><td colspan="2">8 par animal</td><td colspan="6">–</td><td>–</td><td colspan="2">–</td><td>8) 25) 26) 52)</td></tr>
+<tr><td>108 Mâles de zèbres de Grévy et d’hémiones</td><td>c)e)</td><td>1</td><td>150</td><td colspan="2">–</td><td colspan="2">8</td><td colspan="6">–</td><td>–</td><td colspan="2">–</td><td>8) 25) 26) 52)</td></tr>
+<tr><td>109 Zèbre de Grant, âne sauvage</td><td>c)e)</td><td>5</td><td>500</td><td colspan="2">–</td><td colspan="2">8 par animal</td><td colspan="6">–</td><td>80</td><td colspan="2">–</td><td>8) 25) 26) 27)52)</td></tr>
+<tr><td>110 Zèbre des montagnes et cheval de Przewalski</td><td>c)e)</td><td>5</td><td>1000</td><td colspan="2">–</td><td colspan="2">8 par animal</td><td colspan="6">–</td><td>100</td><td colspan="2">–</td><td>8) 25) 26) 27) 52)</td></tr>
+<tr><td>111 Tapirs</td><td>c)e)</td><td>2</td><td>200</td><td colspan="2">–</td><td colspan="2">15 par animal</td><td colspan="6">–</td><td>50</td><td colspan="2">–</td><td>24) 25) 28)</td></tr>
+<tr><td>112 Rhinocéros</td><td>c)e)</td><td>2</td><td>500</td><td colspan="2">–</td><td colspan="2">25 par animal</td><td colspan="6">–</td><td>150</td><td colspan="2">–</td><td>4) à l’exception du rhinocéros blanc 11) 24) 25) 29) 38)</td></tr>
+<tr><td>113 Sanglier nain</td><td>c)e)</td><td>2</td><td>30</td><td colspan="2">–</td><td colspan="2">4</td><td colspan="6">–</td><td>10</td><td colspan="2">–</td><td>25) 27) 29)</td></tr>
+<tr><td>114 Autres suidés sauvages</td><td>c)e)</td><td>2</td><td>100</td><td colspan="2">–</td><td colspan="2">4</td><td colspan="6">–</td><td>20</td><td colspan="2">–</td><td>8) 17) 25) 27) 29)</td></tr>
+<tr><td>115 Pécaris</td><td>c)e)</td><td>4</td><td>80</td><td colspan="2">–</td><td colspan="2">3</td><td colspan="6">–</td><td>10</td><td colspan="2">–</td><td>25) 29)</td></tr>
+<tr><td>116 Hippopotame nain</td><td>c)e)</td><td>2</td><td>100</td><td colspan="2">–</td><td colspan="2">10 par animal</td><td colspan="6">–</td><td>–</td><td colspan="2">–</td><td>4) 24) 29)</td></tr>
+<tr><td>117 Hippopotame</td><td>c)e)</td><td>2</td><td>250</td><td colspan="2">–</td><td colspan="2">40 par animal</td><td colspan="6">–</td><td>50</td><td colspan="2">10</td><td>24)</td></tr>
+<tr><td>118 Guanaco, vigogne</td><td>c)</td><td>6</td><td>300</td><td colspan="2">–</td><td colspan="2">2 par animal</td><td colspan="6">–</td><td>50</td><td colspan="2">–</td><td>8)</td></tr>
+<tr><td>119 Chameau, dromadaire</td><td>c)</td><td>3</td><td>300</td><td colspan="2">–</td><td colspan="2">8 par animal</td><td colspan="6">–</td><td>50</td><td colspan="2">–</td><td>8) 27)</td></tr>
+<tr><td>120 Chevrotain d’Asie</td><td>c)</td><td>2</td><td>20</td><td colspan="2">–</td><td colspan="2">6</td><td colspan="6">–</td><td>–</td><td colspan="2">2</td><td>6)</td></tr>
+<tr><td>121 Chevrotain aquatique</td><td>c)e)</td><td>2</td><td>40</td><td colspan="2">–</td><td colspan="2">8</td><td colspan="6">–</td><td>12</td><td colspan="2">2</td><td>6) 18)</td></tr>
+<tr><td>122 Cervidés de petite taille (poudou, hydropotes, muntjac)</td><td>c)</td><td>4</td><td>150</td><td colspan="2">–</td><td colspan="2">3 par animal</td><td colspan="6">–</td><td>10</td><td colspan="2">–</td><td>6) 8) 30) 52)</td></tr>
+<tr><td>123 Chevreuil</td><td>c)</td><td>2</td><td>500</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="6">–</td><td>150</td><td colspan="2">–</td><td>6) 8) 30) 52)</td></tr>
+<tr><td>124 Cervidés de taille moyenne (p. ex. sika, daim)</td><td>c)</td><td>8</td><td>500</td><td colspan="2">–</td><td colspan="2">4 par animal</td><td colspan="6">–</td><td>60</td><td colspan="2">–</td><td>8) 27) 29) à l’exception du daim 30) 31) 52)</td></tr>
+<tr><td>125 Cervidés de grande taille (barashinga, sambar, cerf des marais, renne, milu)\*</td><td>c)</td><td>6</td><td>800</td><td colspan="2">–</td><td colspan="2">6 par animal</td><td colspan="6">–</td><td>80</td><td colspan="2">–</td><td>8) 18) à l’exception du renne 27) 29) à l’exception du renne 30) 31) 52)</td></tr>
+<tr><td>126 Élan</td><td>c)</td><td>3</td><td>800</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="6">–</td><td>80</td><td colspan="2">–</td><td>8) 18) 28) 31) 32) 52)</td></tr>
+<tr><td>127 Okapi</td><td>c)e)</td><td>2</td><td>300</td><td colspan="2">–</td><td colspan="2">15 par animal</td><td colspan="6">–</td><td>100</td><td colspan="2">–</td><td>4) 26) 52)</td></tr>
+<tr><td>128 Girafe</td><td>c)e)</td><td>4</td><td>500</td><td colspan="2">–</td><td colspan="2">25 par animal</td><td colspan="6">–</td><td>100</td><td colspan="2">–</td><td>33) 52) mâle: 26)</td></tr>
+<tr><td>129 Céphalophes de petite taille et de taille moyenne, dik-diks, antilopes naines</td><td>c)e)</td><td>2</td><td>50</td><td colspan="2">–</td><td colspan="2">3 par animal</td><td colspan="6">–</td><td>20</td><td colspan="2">–</td><td>4) 6) 52)</td></tr>
+<tr><td>130 Raphicère champêtre, raphicère du Cap, oréotrague</td><td>c)e)</td><td>2</td><td>50</td><td colspan="2">–</td><td colspan="2">3 par animal</td><td colspan="6">–</td><td>20</td><td colspan="2">–</td><td>6) 52) oréotrague: 2)</td></tr>
+<tr><td>131 Oribi, Beira</td><td>c)e)</td><td>4</td><td>100</td><td colspan="2">–</td><td colspan="2">3 par animal</td><td colspan="6">–</td><td>15</td><td colspan="2">–</td><td>6) 52)</td></tr>
+<tr><td>132 Céphalophes de grande taille</td><td>c)e)</td><td>2</td><td>100</td><td colspan="2">–</td><td colspan="2">4 par animal</td><td colspan="6">–</td><td>–</td><td colspan="2">–</td><td>4) 6) 52)</td></tr>
+<tr><td>133 Gazelles (y compris antidorcas, cervicapre, impala)</td><td>c)e)</td><td>10</td><td>500</td><td colspan="2">–</td><td colspan="2">4 par animal</td><td colspan="6">–</td><td>40</td><td colspan="2">–</td><td>6) 8) 27) 52)</td></tr>
+<tr><td>134 Gérénuk, gazelle de Clarke, antilope-chèvre américaine, saiga et autres antilopes de taille moyenne</td><td>c)e)</td><td>6</td><td>500</td><td colspan="2">–</td><td colspan="2">5 par animal</td><td colspan="6">–</td><td>50</td><td colspan="2">–</td><td>6) 8) 27) 52)</td></tr>
+<tr><td>135 Antilopes de grande taille, bœufs musqués, bison d’Europe, bison d’Amérique, autres bovins sauvages</td><td>c)e)</td><td>5</td><td>500</td><td colspan="2">–</td><td colspan="2">8 par animal</td><td colspan="6">–</td><td>80</td><td colspan="2">–</td><td>8) 11) 25) 27) 31) 32) 52)</td></tr>
+<tr><td>136 Chamois, goral, capricorne, chèvre des Montagnes Rocheuses, takin</td><td>c)e)</td><td>4</td><td>400</td><td colspan="2">–</td><td colspan="2">4 par animal</td><td colspan="6">–</td><td>50</td><td colspan="2">–</td><td>2) 6) 8) 28)</td></tr>
+<tr><td>137 Mouflon et autres ovins sauvages</td><td>c)</td><td>10</td><td>500</td><td colspan="2">–</td><td colspan="2">2 par animal</td><td colspan="6">–</td><td>50</td><td colspan="2">–</td><td>2) 8) 52) autres ovins sauvages: 27)</td></tr>
+<tr><td>138 Caprins sauvages, bharal, aoudad</td><td>c)</td><td>10</td><td>500</td><td colspan="2">–</td><td colspan="2">2 par animal</td><td colspan="6">–</td><td>50</td><td colspan="2">–</td><td>2) 8) 27) 52)</td></tr>
 </table>
 
 Notes du tableau 1 (mammifères)
@@ -4440,7 +4439,7 @@ Notes du tableau 2 (oiseaux)
 <tr><td>c) Dans tous les enclos, la surface au sol doit être de 4 m<sup>2</sup> au minimum.</td></tr>
 <tr><td>d) Dans les cas où le tableau 4 prévoit des dimensions minimales pour les bassins, la surface exigée doit être ajoutée aux surfaces figurant sur le tableau 2.</td></tr>
 <tr><td>e) Une autorisation au sens de l’art. 89 est obligatoire pour détenir ces animaux à titre privé.</td></tr>
-<tr><td>f) Les aras de grande taille: *Anodorhynchus hyacinthinus, Anodorhynchus leari, Ara ambigua, Ara ararauna, Ara caninde, Ara chloroptera, Ara macao, Ara militaris, Ara rubrogenys, Cyanopsitta spixii.* Les cacatoès de grande taille: *Cacatua alba, Cacatua galerita, Cacatua moluccensis, Cacatua ophthalmica, Calyptorhynchus funereus, Calyptorhynchus lathami, Calyptorhynchus magnificus, Probosciger aterrimus.*</td></tr>
+<tr><td>f) Les aras de grande taille: *Anodorhynchus hyacinthinus, Anodorhynchus leari, Ara ambigua, Ara ararauna, Ara caninde, Ara chloroptera, Ara macao,* *Ara militaris,* *Ara rubrogenys, Cyanopsitta spixii.* Les cacatoès de grande taille: *Cacatua alba, Cacatua galerita, Cacatua moluccensis, Cacatua ophthalmica, Calyptorhynchus funereus, Calyptorhynchus* *lathami**, Calyptorhynchus magnificus, Probosciger aterrimus.*</td></tr>
 <tr><td>g) Les présentes dimensions minimales s’appliquent uniquement aux infrastructures existant le 1<sup>er</sup> septembre 2008. Lorsque les installations sont nouvellement aménagées, il y a lieu de tenir compte des dernières connaissances en la matière pour fixer les dimensions minimales.</td></tr>
 <tr><td>h) Les exigences minimales selon les chiffres 31 ou 32 doivent être remplies, selon la taille, pour les espèces de cailles autres que la caille de l’espèce *Coturnix Japonica*.</td></tr>
 </table>
@@ -4572,105 +4571,105 @@ Tableau 5
 ## Reptiles
 
 <table>
-<tr><th>Enclos pour reptiles</th><th colspan="3"></th><th colspan="6">Pour des groupes jusqu’à n animaux</th><th></th><th></th><th></th><th></th><th colspan="2">Par animal en plus</th><th></th><th>Exigences particulières</th></tr>
-<tr><th></th><th colspan="3"></th><th>Nombre</th><th>Terrain</th><th colspan="2">Bassin</th><th></th><th colspan="5">Enclos</th><th>Terrain</th><th colspan="2">Bassin</th><th></th></tr>
-<tr><th>Espèces animales</th><th colspan="3"></th><th>(n)</th><th>Surfaceb) LC</th><th>Surfaceb) LC</th><th colspan="2">Profondeur LC</th><th colspan="5">Hauteur LC</th><th>Surface LC</th><th colspan="2">Surface LC</th><th></th></tr>
-<tr><td colspan="2">Tortues terrestres (Testudinidés *[Testudinidae*])</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">1 Tortues géantes des Galapagos et des Seychelles (*Chelonoidis nigra. Dipsochelys* spp.)</td><td colspan="2">a)</td><td>2</td><td>8×4</td><td>–</td><td colspan="2">–</td><td colspan="5">–</td><td>2×2</td><td colspan="2">–</td><td>1) 2) 3) 5) 6) 7) 12) 26)</td></tr>
-<tr><td colspan="2">2 Tortue sillonnée (*Geochelone* [*Centrochelys*] *sulcata*)</td><td colspan="2">a)</td><td>2</td><td>8×4</td><td>–</td><td colspan="2">–</td><td colspan="5">–</td><td>2×2</td><td colspan="2">–</td><td>1) 3) 5) 6) 7) 9) 12) 26)</td></tr>
-<tr><td colspan="2">3 Tortues terrestres tropicales et subtropicales (*Astrochelys* spp., *Chelonoidis carbonaria, C. chilensis, C. denticulata, Chersina angulata, Geochelone elegans, G. platynota, Gopherus* spp.*, Homopus* spp.*, Indotestudo* spp.*, Kinixys* spp.*, Malacochersus tornieri, Manouria* spp.*, Psammobates* spp.*, Pyxis* spp.*, Stigmochelys pardalis, Testudo kleinmanni*)</td><td colspan="2"></td><td>2</td><td>8×4</td><td>–</td><td colspan="2">–</td><td colspan="5">–</td><td>2×2</td><td colspan="2">–</td><td>5) 9) 12) certaines espèces: 1) 3) 7) 26)</td></tr>
-<tr><td colspan="2">4 Tortues terrestres d’Europe (*Testudo graeca, T. hermanni, T. marginata, T. horsfieldii*)</td><td colspan="2"></td><td>2</td><td>8×4</td><td>–</td><td colspan="2">–</td><td colspan="5">–</td><td>2×2</td><td colspan="2">–</td><td>1) 4) 5) 7) 9) 26)</td></tr>
-<tr><td colspan="2">Tortues alligators (Chelydridés, *[Chelydridae]*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">5 Tortue alligator (*Macroclemys temminckii*)</td><td colspan="2">a)</td><td>2</td><td>–</td><td>4×3</td><td colspan="2">1</td><td colspan="5">–</td><td>–</td><td colspan="2">2×2</td><td>3) 5) 9) 12) 18) 21)</td></tr>
-<tr><td colspan="2">5a Tortue serpentine (*Chelydra* spp.)</td><td colspan="2">a)</td><td>2</td><td>2×2</td><td>4×3</td><td colspan="2">1</td><td colspan="5">–</td><td>–</td><td colspan="2">2×2</td><td>3) 5) 9) 12) 18) certaines espèces 4)</td></tr>
-<tr><td colspan="2">Tortues à carapace molle (Trionychidés *[Trionychidae])*</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">6 Tortues à carapace molle de grande taille (*Amyda cartilaginea*, *Aspideretes nigricans, Chitra* spp., *Pelochelys* spp., *Rafetus* spp., *Trionyx triunguis*)</td><td colspan="2">a)</td><td>2</td><td>2×2</td><td>5×3</td><td colspan="2">2</td><td colspan="5">–</td><td>–</td><td colspan="2">2×2</td><td>3) 5) 7) 9) 18)</td></tr>
-<tr><td colspan="2">7 Tortues à carapace molle de taille moyenne et de petite taille (*Amydia* spp. [sauf *A. cartilaginea*], *Apalone* spp., *Cyclanorbis* spp., *Cycloderma* spp., *Dogaia subplana, Lissemys* spp., *Nilssonia* spp., *Palea steindachneri, Pelodiscus* spp.)</td><td colspan="2"></td><td>2</td><td>2×2</td><td>5×3</td><td colspan="2">2</td><td colspan="5">–</td><td>–</td><td colspan="2">2×2</td><td>3) 5) 7) 9) 18) certaines espèces 4)</td></tr>
-<tr><td colspan="2">*Kinosternoidea*</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">8 Kinosternidés (*Kinosternidea*) (*Claudius angustatus, Dermatemys mawii, Kinosternon* spp., *Staurotypus sarvinii, Sternotherus* spp.)</td><td colspan="2"></td><td>2</td><td>2×2</td><td>4×3</td><td colspan="2">1</td><td colspan="5">–</td><td>1×1</td><td colspan="2">2×2</td><td>3) 5) 9) certaines espèces: 4) 26)</td></tr>
-<tr><td colspan="2">Tortues d’eau douce Eurasienne (*Geoemydidae*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">8a Tortues d’eau douce eurasiennes de grande taille (*Batagur borneensis*, *Orlitia borneensis*)</td><td colspan="2">a)</td><td>2</td><td>2×2</td><td>5×3</td><td colspan="2">2</td><td colspan="5">–</td><td>1×1</td><td colspan="2">3×1</td><td>3) 5) 18)</td></tr>
-<tr><td colspan="2">Émydidés (*Emydidae*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">9 Tortues d’ornement et tortues peintes (*Actinemys marmorata, Chrysemys* spp., *Clemmys guttata,* *Deirochelys* spp., *Emydoidea blandingii, Emys* spp., *Glyptemys* spp., *Graptemys* spp., *Malaclemys terrapin, Pseudemys* spp., *Trachemys* spp.)</td><td colspan="2"></td><td>2</td><td>2×2</td><td>5×3</td><td colspan="2">2</td><td colspan="5">–</td><td>1×1</td><td colspan="2">2×2</td><td>3) 5) 9) 18) 26) certaines espèces: 4)</td></tr>
-<tr><td colspan="2">9a Tortues-boîtes (*Terrapene* spp.)</td><td colspan="2"></td><td>2</td><td>8×4</td><td>–</td><td colspan="2">–</td><td colspan="5">–</td><td>2×2</td><td colspan="2">–</td><td>1) 4) 5) 7) 9) 26)</td></tr>
-<tr><td colspan="2">Pleurodires (*Pleurodira*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">10 Pélomédusidés (*Pelomedusidae*) (*Pelomedusa* spp., *Pelusios* spp.)</td><td colspan="2">a)</td><td>2</td><td>2×2</td><td>4×2</td><td colspan="2">1</td><td colspan="5">–</td><td>1×1</td><td colspan="2">1×1</td><td>3) 5) 9) 18) 26)</td></tr>
-<tr><td colspan="2">11 Tortues à cou de serpent (*Chelidae*) (*Acanthochelys* spp., *Chelodina* spp., *Chelus fimbriata, Elseya* spp., *Elusor macrurus, Emydura* spp., *Hydromedusa* spp., *Mesoclemmys* spp., *Myuchelys* spp., *Phrynops* spp., *Platemys platycephala, Pseudemydura umbrina, Rheodytes leukops, Rhinemys rufipes*)</td><td colspan="2">a)</td><td>2</td><td>2×2</td><td>5×3</td><td colspan="2">2</td><td colspan="5">–</td><td>–</td><td colspan="2">2×2</td><td>3) 5) 9) 18) 26)</td></tr>
-<tr><td colspan="2">12 Podocnémidés (*Podocnemidae*) de grande taille Podocnémide élargie (*Podocnemis expansa*)</td><td colspan="2">a)</td><td>2</td><td>2×2</td><td>4×2</td><td colspan="2">1</td><td colspan="5">–</td><td>–</td><td colspan="2">1×1</td><td>3) 5) 9) 18) 26)</td></tr>
-<tr><td colspan="2">12a Podocnémidés (*Podocnemidae*) de taille moyenne et petite (*Erymnochelys mada**gascariensis*, *Peltocephalus dumeriliana*, *Podocnemis* spp. [excepté *P. expansa*])</td><td colspan="2"></td><td>2</td><td>2×2</td><td>4×2</td><td colspan="2">1</td><td colspan="5">–</td><td>–</td><td colspan="2">1×1</td><td>3) 5) 9) 26)</td></tr>
-<tr><td colspan="2">Caméléons (Chaméléonidés *[Chamaeleonidae]*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">13 Caméléons vrais arboricoles (*Brady**podion* spp.*, Chamaeleo* spp. [sauf *C. namaquensis*]*, Calumma* spp., *Furcifer* spp., *Kinyongia* spp., *Nadzikambia* spp.)</td><td colspan="2">a)</td><td>1</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="5">5</td><td>2×2</td><td colspan="2">–</td><td>selon l’espèce: 1) 3) 4) 5) 8) 9) 13) 15) 26)</td></tr>
-<tr><td colspan="2">14 Caméléon vrai terrestre (*Chamaeleo namaquensis*)</td><td colspan="2">a)</td><td>1</td><td>6×4</td><td>–</td><td colspan="2">–</td><td colspan="5">3</td><td>2×2</td><td colspan="2">–</td><td>1) 3) 4) 5) 9) 13) 15) 26)</td></tr>
-<tr><td colspan="2">15 Caméléons terrestres (*Brookesia* spp.*, Rhampholeon* spp.*, Rieppeleon* spp.)</td><td colspan="2">a)</td><td>1</td><td>6×4</td><td>–</td><td colspan="2">–</td><td colspan="5">4</td><td>2×2</td><td colspan="2">–</td><td>3) 5) 9) 15)</td></tr>
-<tr><td colspan="2">Iguanes (Iguanidés, [*Iguanidae*])</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">16 Iguanes verts (*Iguana* spp.)</td><td colspan="2">a)</td><td>2</td><td>4×3</td><td>–</td><td colspan="2">–</td><td colspan="5">4</td><td>2×2</td><td colspan="2">–</td><td>2) 3) 5) 8) 9) 12) 26)</td></tr>
-<tr><td colspan="2">17 Iguanes terricoles de grande taille (au terme de leur croissance: &gt; 1 m longueur totale) (*Conolophus* spp., *Ctenosaura acanthura, C. pectinata, C. similis, Cyclura* spp.)</td><td colspan="2">a)</td><td>2</td><td>5×4</td><td>–</td><td colspan="2">–</td><td colspan="5">2</td><td>2×2</td><td colspan="2">–</td><td>3) 5) 7) 8) 9) 12) 26)</td></tr>
-<tr><td colspan="2">17a Anolis (*Anolis* spp.)</td><td colspan="2"></td><td>2</td><td>6×6</td><td>–</td><td colspan="2">–</td><td colspan="5">8</td><td>2×2</td><td colspan="2">–</td><td>3) 5) 8) 9) 26)</td></tr>
-<tr><td colspan="2">Agames (Agamidés [*Agamidae*])</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">18 Hydrosaures (*Hydrosaurus* spp.)</td><td colspan="2">a)</td><td>2</td><td>5×3</td><td>4×2</td><td colspan="2">1</td><td colspan="5">5</td><td>2×2</td><td colspan="2">–</td><td>3) 5) 8) 9) 26)</td></tr>
-<tr><td colspan="2">19 Dragons d’eau (*Physignatus* spp.)</td><td colspan="2"></td><td>2</td><td>5×3</td><td>2×2</td><td colspan="2">1</td><td colspan="5">5</td><td>2×2</td><td colspan="2">–</td><td>3) 5) 8) 9) 26)</td></tr>
-<tr><td colspan="2">20 Agames barbus (*Pogona* spp.)</td><td colspan="2"></td><td>2</td><td>5×4</td><td>–</td><td colspan="2">–</td><td colspan="5">4</td><td>2×2</td><td colspan="2">–</td><td>3) 5) 8) 9) 26) certaines espèces: 4) 13)</td></tr>
-<tr><td colspan="2">21 *Calotes* spp.</td><td colspan="2"></td><td>2</td><td>5×4</td><td>–</td><td colspan="2">–</td><td colspan="5">5</td><td>2×2</td><td colspan="2">–</td><td>3) 5) 8) 9) 26)</td></tr>
-<tr><td colspan="2">22 Agames à tête ongulée (*Gonocephalus* spp.)</td><td colspan="2"></td><td>2</td><td>5×4</td><td>–</td><td colspan="2">–</td><td colspan="5">5</td><td>2×2</td><td colspan="2">–</td><td>3) 5) 8) 9) 26)</td></tr>
-<tr><td colspan="2">23 Fouette-queues (*Uromastyx* spp.)</td><td colspan="2"></td><td>2</td><td>5×4</td><td>–</td><td colspan="2">–</td><td colspan="5">3</td><td>2×2</td><td colspan="2">–</td><td>3) 4) 5) 7) 9) 26)</td></tr>
-<tr><td colspan="2">23a Dragons volants (*Draco* spp.)</td><td colspan="2">a)</td><td>2</td><td>20×8</td><td>–</td><td colspan="2">–</td><td colspan="5">20</td><td>8×4</td><td colspan="2"></td><td>3) 5) 8) 9) 25) 26)</td></tr>
-<tr><td colspan="2">23b Diable cornu (*Moloch horridus*)</td><td colspan="2">a)</td><td>2</td><td>6×4</td><td>–</td><td colspan="2">–</td><td colspan="5">3</td><td>2×2</td><td colspan="2"></td><td>3) 5) 9) 25) 26)</td></tr>
-<tr><td colspan="2">Lézards (Lacertidés [*Lacertidae*])</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">24 Lézards des souches, lézards verts, lézards des îles Canaries (*Lacerta* spp., *Gallotia* spp.)</td><td colspan="2"></td><td>2</td><td>6×4</td><td>––</td><td colspan="2">––</td><td colspan="5">4</td><td>2×2</td><td colspan="2">–</td><td>3) 5) 9) 26) certaines espèces: 4) 13)</td></tr>
-<tr><td colspan="2">24a Petits lézards communs (*Podarcis* spp.)</td><td colspan="2"></td><td>2</td><td>8×4</td><td>–</td><td colspan="2">–</td><td colspan="5">6</td><td>2×2</td><td colspan="2">–</td><td>5) 8) 9) 26)</td></tr>
-<tr><td colspan="2">25 Lézards vivipares et *Algyroides* (*Zootoca vivipara, Algyroides* spp.)</td><td colspan="2"></td><td>2</td><td>8×4</td><td>–</td><td colspan="2">–</td><td colspan="5">4</td><td>2×2</td><td colspan="2">–</td><td>3) 13) certaines espèces: 1) 4) 5) 9) 26)</td></tr>
-<tr><td colspan="2">Tégus ou téjus (Teiidés [*Teiidae*]*, Tejus*])</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">26 Dracènes et lézard-caïman (*Dracaena* spp., *Crocodilurus* spp.)</td><td colspan="2">a)</td><td>2</td><td>3×3</td><td>2×2</td><td colspan="2">0,5</td><td colspan="5">3</td><td>1×1</td><td colspan="2">–</td><td>3) 5) 8) 9) 12) 18) 25) 26)</td></tr>
-<tr><td colspan="2">27 Tégus (*Tupinambis* spp.)</td><td colspan="2">a)</td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="5">3</td><td>2×2</td><td colspan="2">–</td><td>3) 5) 7) 9) 12) 26) certaines espèces: 4)</td></tr>
-<tr><td colspan="2">Scinques (Scincidés [*Scincidae*])</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">28 Scinque à queue tronquée et scinque à langue bleue (*Tiliqua* spp.)</td><td colspan="2"></td><td>2</td><td>7×4</td><td>––</td><td colspan="2">––</td><td colspan="5">3</td><td>2×2</td><td colspan="2">–</td><td>3) 4) 5) 9) 26)</td></tr>
-<tr><td colspan="2">28a Scinques terricoles de petite taille et de taille moyenne (*Eumeces* spp., *Mabouya* spp., *Trachylepis* spp.)</td><td colspan="2"></td><td>2</td><td>7×4</td><td>–</td><td colspan="2">–</td><td colspan="5">3</td><td>2×2</td><td colspan="2">–</td><td>3) 5) 7) 9) certaines espèces: 26)</td></tr>
-<tr><td colspan="2">29 Scinque à queue préhensile des Îles Salomon (*Corucia zebrata*)</td><td colspan="2"></td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="5">5</td><td>2×2</td><td colspan="2">–</td><td>3) 5) 8) 9)</td></tr>
-<tr><td colspan="2">Geckos (*Gekkota*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">30 Espèces de geckos nocturnes et aériennes (*Diplodactylus* spp. [certaines espèces]*, Hemidactylus* spp., *Oedura* spp., *Tarentola* spp., *Uroplates* spp.)</td><td colspan="2"></td><td>2</td><td>6×2</td><td>–</td><td colspan="2">–</td><td colspan="5">8</td><td>2×2</td><td colspan="2">–</td><td>3) 5) 8) 9) certaines espèces: 4)</td></tr>
-<tr><td colspan="2">31 Espèces de geckos nocturnes et terricoles (*Coleonyx* spp., *Diplodactylus* spp. [certaines espèces]*, Eublepharis* spp., *Nephrurus* spp.)</td><td colspan="2"></td><td>2</td><td>6×6</td><td>–</td><td colspan="2">–</td><td colspan="5">2</td><td>2×2</td><td colspan="2">–</td><td>3) 5) 9) certaines espèces: 4) 7)</td></tr>
-<tr><td colspan="2">32 Espèces diurnes de geckos (*Gonatodes* spp., *Lygodactylus* spp., *Phelsuma* spp.)</td><td colspan="2"></td><td>2</td><td>6×6</td><td>–</td><td colspan="2">–</td><td colspan="5">8</td><td>2×2</td><td colspan="2">–</td><td>3) 5) 8) 9) 26)</td></tr>
-<tr><td colspan="2">Cordyles (Cordylidés [*Cordylidae*])</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">33 Cordyles (*Cordylus* spp., *Hemicordylus* spp., *Pseudocordylus* spp.)</td><td colspan="2"></td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="5">4</td><td>2×2</td><td colspan="2">–</td><td>3) 5) 9) 26) certaines espèces: 4) 8) 13)</td></tr>
-<tr><td colspan="2">33a Lézards des rochers (*Platysaurus* spp.)</td><td colspan="2"></td><td>2</td><td>8×2</td><td>–</td><td colspan="2">–</td><td colspan="5">5</td><td>2×1</td><td colspan="2">–</td><td>3) 8) 9) 26) certaines espèces: 4) 5) 13)</td></tr>
-<tr><td colspan="2">34 Zonures géants (*Cordylus giganteus*)</td><td colspan="2"></td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="5">3</td><td>2×2</td><td colspan="2">–</td><td>3) 4) 5) 7) 9) 26)</td></tr>
-<tr><td colspan="2">Hélodermes (*Heloderma*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">35 Héloderme granuleux (*Heloderma horridum*)</td><td colspan="2">a)</td><td>2</td><td>4×3</td><td>–</td><td colspan="2">–</td><td colspan="5">3</td><td>2×2</td><td colspan="2">–</td><td>3) 4) 5) 7) 9) 12) 26)</td></tr>
-<tr><td colspan="2">35a Lézard perlé (*Heloderma suspectum*)</td><td colspan="2">a)</td><td>2</td><td>4×3</td><td>–</td><td colspan="2">–</td><td colspan="5">2</td><td>2×2</td><td colspan="2">–</td><td>3) 5) 7) 9) 12) 26)</td></tr>
-<tr><td colspan="2">Varans (Varanidés [*Varanidae*])</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">36 Varans terricoles de grande taille provenant des régions arides[^annexu1-lvlu1-2]</td><td colspan="2">a)</td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="5">2</td><td>2×2</td><td colspan="2">–</td><td>3) 5) 9) 12) 26) certaines espèces: 4) 6) 7) 8)</td></tr>
-<tr><td colspan="2">37 Varans terricoles de grande taille provenant des régions semi-arides à humides (*Varanus bengalensis, V. komodoensis, V. nebulosus*)</td><td colspan="2">a)</td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="5">2</td><td>2×2</td><td colspan="2">–</td><td>2) 3) 5) 6) certaines espèces: 7) 8) 9) 12) 26)</td></tr>
-<tr><td colspan="2">38 Varans arboricoles de grande taille provenant des régions humides[^annexu1-lvlu1-3]</td><td colspan="2">a)</td><td>2</td><td>5×2</td><td>–</td><td colspan="2">–</td><td colspan="5">5</td><td>2×2</td><td colspan="2">–</td><td>2) 3) 5) 6) 8) 9) 12) 26)</td></tr>
-<tr><td colspan="2">39 Varans semi-aquatiques de grande taille[^annexu1-lvlu1-4]</td><td colspan="2">a)</td><td>2</td><td>5×3</td><td>2×2</td><td colspan="2">0,5</td><td colspan="5">2</td><td>2×2</td><td colspan="2">1×1</td><td>2) 3) 5) 6) 8) 9) 12) 18) 26)</td></tr>
-<tr><td colspan="2">40 Varan aquatique de Mertens (*Varanus mertensi*)</td><td colspan="2">a)</td><td>2</td><td>2×2</td><td>3×2</td><td colspan="2">0,5</td><td colspan="5">2</td><td>1×1</td><td colspan="2">1×1</td><td>2) 3) 5) 8) 9) 12) 18) 26)</td></tr>
-<tr><td colspan="2">41 Varans herbivores de grande taille (*Varanus mabitang, V. olivaceus*)</td><td colspan="2">a)</td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="5">5</td><td>2×2</td><td colspan="2">–</td><td>2) 3) 5) 6) 8) 9) 12) 25) 26)</td></tr>
-<tr><td colspan="3">Pythons (Pythonidés [*Pythonidae*]) et boas (Boïdés [*Boidae*])</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">42 Boïdés de grande taille[^annexu1-lvlu1-5]</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,75</td><td>0,2×0,2</td><td colspan="2">–</td><td>2) 3) 5) 10) 12) certaines espèces: 4)</td></tr>
-<tr><td colspan="2">43 Anacondas (*Eunectes* spp.)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>1×0,5</td><td colspan="2">0,2</td><td colspan="5">0,75</td><td>0,2×0,2</td><td colspan="2">0,1×0,1</td><td>2) 3) 5) 12) 17) 18)</td></tr>
-<tr><td colspan="2">43a Pythons et boas de petite taille et de taille moyenne (p. ex. *Boa constrictor, Epicrates cenchria, Morelia spilota, Python curtus, P. regius*)</td><td colspan="2"></td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,75</td><td>0,5×0,2</td><td colspan="2">–</td><td>3) 5) 9) certaines espèces: 2) 8)</td></tr>
-<tr><td colspan="2">43b Python vert arboricole australien et boas (*Morelia viridis*, *Corallus* spp.)</td><td colspan="2"></td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,75</td><td>0,5×0,2</td><td colspan="2">–</td><td>3) 5) 8)</td></tr>
-<tr><td colspan="3">Couleuvres vraies (Colubridés [*Colubridae*])</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">44 Couleuvres aquatiques d’Asie orientale (*Rhabdophis* spp.)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>0,5×0,5</td><td colspan="2">0,2</td><td colspan="5">0,5</td><td>0,5×0,1</td><td colspan="2">0,5×0,1</td><td>3) 5) 8) 11) 12) certaines espèces: 4)</td></tr>
-<tr><td colspan="2">45 Couleuvres de Ceylan (*Balanophis* spp.)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,5</td><td>0,5×0,2</td><td colspan="2">–</td><td>3) 5) 11) 12)</td></tr>
-<tr><td colspan="2">46 Colubridés dangereux (*Boiga dendrophila, B. blandingii, Dispholidus typus, Thelotornis* spp*.*)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,7</td><td>0,5×0,2</td><td colspan="2">–</td><td>3) 5) 9) 11) 12) certaines espèces: 8) 23) 26)</td></tr>
-<tr><td colspan="3">Élapidés (*Elapidae*)</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">47 Élapidés terricoles (p. ex. *Acanthophis* spp., *Aspidelaps* spp., *Naja* spp., *Pseudechis* spp.)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,5</td><td>0,5×0,2</td><td colspan="2">–</td><td>3) 5) 11) 12) 23)</td></tr>
-<tr><td colspan="2">48 Élapidés arboricoles (*Dendroaspis* spp*.* [excepté *D. polylepis*]*, Pseudohaje goldii*)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,7</td><td>0,5×0,2</td><td colspan="2">–</td><td>3) 5) 8) 11) 12) 14) 23)</td></tr>
-<tr><td colspan="2">49 Élapidés de très grande taille (*Dendroaspis polylepis, Oxyuranus* spp*.*)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,5</td><td>0,5×0,2</td><td colspan="2">–</td><td>3) 5) 8) 11) 12) 14) 23)</td></tr>
-<tr><td colspan="2">50 Cobra royal (*Ophiophagus hannah*)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,5</td><td>0,5×0,2</td><td colspan="2">–</td><td>3) 5) 9) 11) 12) 14) 23) 25)</td></tr>
-<tr><td colspan="2">51 Cobra d’eau (*Boulengerina annulata*)</td><td colspan="2">a)</td><td>2</td><td>0,5×0,3</td><td>1×0,5</td><td colspan="2">0,4</td><td colspan="5">0,5</td><td>0,5×0,1</td><td colspan="2">0,5×0,1</td><td>3) 5) 9) 11) 12) 17) 23)</td></tr>
-<tr><td colspan="2">52 Tricots rayés (serpents marins) (*Laticauda* spp.)</td><td colspan="2">a)</td><td>2</td><td>–</td><td>2×1,5</td><td colspan="2">0,7</td><td colspan="5">–</td><td>–</td><td colspan="2">1×1</td><td>5) 12) 18) 20) 23) certaines espèces: 21)</td></tr>
-<tr><td colspan="2">53 Serpent marin noir et jaune (*Pelamis* spp.)</td><td colspan="2">a)</td><td>2</td><td>–</td><td>2×1</td><td colspan="2">0,5</td><td colspan="5">–</td><td>–</td><td colspan="2">1×1</td><td>5) 12) 18) 19) 20) 22) 23)</td></tr>
-<tr><td colspan="3">Vipères (Vipéridés [*Viperidae*])</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">54 Vipères fouisseuses (*Atractaspididae* spp., *Homoroselaps* spp.)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,5</td><td>0,5×0,2</td><td colspan="2">–</td><td>5) 7) 9) 12) 23)</td></tr>
-<tr><td colspan="2">55 Vipéridés et crotalidés terricoles sans les espèces à déplacement par déroulement latéral</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,5</td><td>0,5×0,2</td><td colspan="2">–</td><td>3) 5) 11) 12) 23) certaines espèces: 4) 13) 26)</td></tr>
-<tr><td colspan="2">56 Vipéridés et crotalidés à déplacement par déroulement latéral[^annexu1-lvlu1-6]</td><td colspan="2">a)</td><td>2</td><td>1,5×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,5</td><td>0,5×0,2</td><td colspan="2">–</td><td>3) 5) 11) 12) 23) 24) certaines espèces: 4)</td></tr>
-<tr><td colspan="2">57 Vipéridés et crotalidés arboricoles</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="5">0,7</td><td>0,5×0,2</td><td colspan="2">–</td><td>3) 5) 8) 12) 23) certaines espèces: 13)</td></tr>
-<tr><td colspan="2">58 Mocassin d’eau (*Agkistrodon piscivorus*)</td><td colspan="2">a)</td><td>2</td><td>0,5×0,5</td><td>0,5×0,5</td><td colspan="2">0,1</td><td colspan="5">0,5</td><td>0,5×0,1</td><td colspan="2">0,5×0,1</td><td>3) 4) 5) 11) 12) 23)</td></tr>
-<tr><td colspan="2">Crocodiliens (*Crocodylia*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">59 Crocodiles[^annexu1-lvlu1-7]</td><td colspan="2">a)</td><td>1</td><td>4×2</td><td>4×2</td><td colspan="2">0,5</td><td colspan="5">0,5</td><td>2×2</td><td colspan="2">2×2</td><td>2) 3) 5) 6) 12) 18) 26) tous les jeunes et les adultes de certaines espèces: 11)</td></tr>
-<tr><td colspan="2">Rhynchocéphales (*Rhynchocephalia*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">60 Sphénodons ou tuataras (*Sphenodon* spp.)</td><td colspan="2">a)</td><td>2</td><td>4×3</td><td>2×1</td><td colspan="2">0,4</td><td colspan="5">0,5</td><td>4×3</td><td colspan="2">–</td><td>3) 5) 7) 9) 16)</td></tr>
+<tr><th>Enclos pour reptiles</th><th colspan="3"></th><th colspan="6">Pour des groupes jusqu’à n animaux</th><th></th><th></th><th></th><th></th><th colspan="3">Par animal en plus</th><th></th><th colspan="2">Exigences particulières</th></tr>
+<tr><th></th><th colspan="3"></th><th>Nombre</th><th>Terrain</th><th colspan="2">Bassin</th><th></th><th colspan="6">Enclos</th><th>Terrain</th><th colspan="3">Bassin</th><th></th></tr>
+<tr><th>Espèces animales</th><th colspan="3"></th><th>(n)</th><th>Surface<sup>b)</sup> LC</th><th>Surface<sup>b)</sup> LC</th><th colspan="2">Profondeur LC</th><th colspan="6">Hauteur LC</th><th>Surface LC</th><th colspan="3">Surface LC</th><th></th></tr>
+<tr><td colspan="2">Tortues terrestres (Testudinidés *[Testudinidae*])</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">1 Tortues géantes des Galapagos et des Seychelles (*Chelonoidis nigra.* *Dipsochelys* spp.)</td><td colspan="2">a)</td><td>2</td><td>8×4</td><td>–</td><td colspan="2">–</td><td colspan="6">–</td><td>2×2</td><td colspan="3">–</td><td>1) 2) 3) 5) 6) 7) 12) 26)</td></tr>
+<tr><td colspan="2">2 Tortue sillonnée (*Geochelone* [*Centrochelys*] *sulcata*)</td><td colspan="2">a)</td><td>2</td><td>8×4</td><td>–</td><td colspan="2">–</td><td colspan="6">–</td><td>2×2</td><td colspan="3">–</td><td>1) 3) 5) 6) 7) 9) 12) 26)</td></tr>
+<tr><td colspan="2">3 Tortues terrestres tropicales et subtropicales (*Astrochelys* spp., *Chelonoidis* *carbonaria**, C. chilensis, C. denticulata, Chersina* *angulata**, Geochelone elegans, G. platynota, Gopherus* spp.*, Homopus* spp.*, Indotestudo* spp.*, Kinixys* spp.*,* *Malacochersus* *tornieri, Manouria* spp.*, Psammobates* spp.*, Pyxis* spp.*, Stigmochelys pardalis, Testudo* *kleinmanni*)</td><td colspan="2"></td><td>2</td><td>8×4</td><td>–</td><td colspan="2">–</td><td colspan="6">–</td><td>2×2</td><td colspan="3">–</td><td>5) 9) 12) certaines espèces: 1) 3) 7) 26)</td></tr>
+<tr><td colspan="2">4 Tortues terrestres d’Europe (*Testudo graeca, T. hermanni, T. marginata,* *T. horsfieldii*)</td><td colspan="2"></td><td>2</td><td>8×4</td><td>–</td><td colspan="2">–</td><td colspan="6">–</td><td>2×2</td><td colspan="3">–</td><td>1) 4) 5) 7) 9) 26)</td></tr>
+<tr><td colspan="2">Tortues alligators (Chelydridés, *[Chelydridae]*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">5 Tortue alligator (*Macroclemys temminckii*)</td><td colspan="2">a)</td><td>2</td><td>–</td><td>4×3</td><td colspan="2">1</td><td colspan="6">–</td><td>–</td><td colspan="3">2×2</td><td>3) 5) 9) 12) 18) 21)</td></tr>
+<tr><td colspan="2">5a Tortue serpentine (*Chelydra* spp.)</td><td colspan="2">a)</td><td>2</td><td>2×2</td><td>4×3</td><td colspan="2">1</td><td colspan="6">–</td><td>–</td><td colspan="3">2×2</td><td>3) 5) 9) 12) 18) certaines espèces 4)</td></tr>
+<tr><td colspan="2">Tortues à carapace molle (Trionychidés *[Trionychidae])*</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">6 Tortues à carapace molle de grande taille (*Amyda cartilaginea*, *Aspideretes nigricans, Chitra* spp., *Pelochelys* spp., *Rafetus* spp., *Trionyx triunguis*)</td><td colspan="2">a)</td><td>2</td><td>2×2</td><td>5×3</td><td colspan="2">2</td><td colspan="6">–</td><td>–</td><td colspan="3">2×2</td><td>3) 5) 7) 9) 18)</td></tr>
+<tr><td colspan="2">7 Tortues à carapace molle de taille moyenne et de petite taille (*Amydia* spp. [sauf *A. cartilaginea*], *Apalone* spp., *Cyclanorbis* spp., *Cycloderma* spp., *Dogaia* *subplana, Lissemys* spp., *Nilssonia* spp., *Palea steindachneri, Pelodiscus* spp.)</td><td colspan="2"></td><td>2</td><td>2×2</td><td>5×3</td><td colspan="2">2</td><td colspan="6">–</td><td>–</td><td colspan="3">2×2</td><td>3) 5) 7) 9) 18) certaines espèces 4)</td></tr>
+<tr><td colspan="2">*Kinosternoidea*</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">8 Kinosternidés (*Kinosternidea*) (*Claudius* *angustatus**, Dermatemys mawii, Kinosternon* spp., *Staurotypus sarvinii, Sternotherus* spp.)</td><td colspan="2"></td><td>2</td><td>2×2</td><td>4×3</td><td colspan="2">1</td><td colspan="6">–</td><td>1×1</td><td colspan="3">2×2</td><td>3) 5) 9) certaines espèces: 4) 26)</td></tr>
+<tr><td colspan="2">Tortues d’eau douce Eurasienne (*Geoemydidae*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">8a Tortues d’eau douce eurasiennes de grande taille (*Batagur borneensis*, *Orlitia* *borneensis*)</td><td colspan="2">a)</td><td>2</td><td>2×2</td><td>5×3</td><td colspan="2">2</td><td colspan="6">–</td><td>1×1</td><td colspan="3">3×1</td><td>3) 5) 18)</td></tr>
+<tr><td colspan="2">Émydidés (*Emydidae*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">9 Tortues d’ornement et tortues peintes (*Actinemys* *marmorata, Chrysemys* spp., *Clemmys guttata,* *Deirochelys* spp., *Emydoidea* *blandingii, Emys* spp., *Glyptemys* spp., *Graptemys* spp., *Malaclemys* *terrapin**, Pseudemys* spp., *Trachemys* spp.)</td><td colspan="2"></td><td>2</td><td>2×2</td><td>5×3</td><td colspan="2">2</td><td colspan="6">–</td><td>1×1</td><td colspan="3">2×2</td><td>3) 5) 9) 18) 26) certaines espèces: 4)</td></tr>
+<tr><td colspan="2">9a Tortues-boîtes (*Terrapene* spp.)</td><td colspan="2"></td><td>2</td><td>8×4</td><td>–</td><td colspan="2">–</td><td colspan="6">–</td><td>2×2</td><td colspan="3">–</td><td>1) 4) 5) 7) 9) 26)</td></tr>
+<tr><td colspan="2">Pleurodires (*Pleurodira*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">10 Pélomédusidés (*Pelomedusidae*) (*Pelomedusa* spp., *Pelusios* spp.)</td><td colspan="2">a)</td><td>2</td><td>2×2</td><td>4×2</td><td colspan="2">1</td><td colspan="6">–</td><td>1×1</td><td colspan="3">1×1</td><td>3) 5) 9) 18) 26)</td></tr>
+<tr><td colspan="2">11 Tortues à cou de serpent (*Chelidae*) (*Acanthochelys* spp., *Chelodina* spp., *Chelus fimbriata, Elseya* spp., *Elusor macrurus, Emydura* spp., *Hydromedusa* spp., *Mesoclemmys* spp., *Myuchelys* spp., *Phrynops* spp., *Platemys platycephala, Pseudemydura umbrina, Rheodytes leukops, Rhinemys rufipes*)</td><td colspan="2">a)</td><td>2</td><td>2×2</td><td>5×3</td><td colspan="2">2</td><td colspan="6">–</td><td>–</td><td colspan="3">2×2</td><td>3) 5) 9) 18) 26)</td></tr>
+<tr><td colspan="2">12 Podocnémidés (*Podocnemidae*) de grande taille Podocnémide élargie (*Podocnemis* *expansa*)</td><td colspan="2">a)</td><td>2</td><td>2×2</td><td>4×2</td><td colspan="2">1</td><td colspan="6">–</td><td>–</td><td colspan="3">1×1</td><td>3) 5) 9) 18) 26)</td></tr>
+<tr><td colspan="2">12a Podocnémidés (*Podocnemidae*) de taille moyenne et petite (*Erymnochelys* *mada**gascariensis*, *Peltocephalus dumeriliana*, *Podocnemis* spp. [excepté *P. expansa*])</td><td colspan="2"></td><td>2</td><td>2×2</td><td>4×2</td><td colspan="2">1</td><td colspan="6">–</td><td>–</td><td colspan="3">1×1</td><td>3) 5) 9) 26)</td></tr>
+<tr><td colspan="2">Caméléons (Chaméléonidés *[Chamaeleonidae]*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">13 Caméléons vrais arboricoles (*Brady**podion* spp.*, Chamaeleo* spp. [sauf *C. namaquensis*]*, Calumma* spp., *Furcifer* spp., *Kinyongia* spp., *Nadzikambia* spp.)</td><td colspan="2">a)</td><td>1</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="6">5</td><td>2×2</td><td colspan="3">–</td><td>selon l’espèce: 1) 3) 4) 5) 8) 9) 13) 15) 26)</td></tr>
+<tr><td colspan="2">14 Caméléon vrai terrestre (*Chamaeleo namaquensis*)</td><td colspan="2">a)</td><td>1</td><td>6×4</td><td>–</td><td colspan="2">–</td><td colspan="6">3</td><td>2×2</td><td colspan="3">–</td><td>1) 3) 4) 5) 9) 13) 15) 26)</td></tr>
+<tr><td colspan="2">15 Caméléons terrestres (*Brookesia* spp.*, Rhampholeon* spp.*, Rieppeleon* spp.)</td><td colspan="2">a)</td><td>1</td><td>6×4</td><td>–</td><td colspan="2">–</td><td colspan="6">4</td><td>2×2</td><td colspan="3">–</td><td>3) 5) 9) 15)</td></tr>
+<tr><td colspan="2">Iguanes (Iguanidés, [*Iguanidae*])</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">16 Iguanes verts (*Iguana* spp.)</td><td colspan="2">a)</td><td>2</td><td>4×3</td><td>–</td><td colspan="2">–</td><td colspan="6">4</td><td>2×2</td><td colspan="3">–</td><td>2) 3) 5) 8) 9) 12) 26)</td></tr>
+<tr><td colspan="2">17 Iguanes terricoles de grande taille (au terme de leur croissance: &gt; 1 m longueur totale) (*Conolophus* spp., *Ctenosaura acanthura, C. pectinata, C. similis, Cyclura* spp.)</td><td colspan="2">a)</td><td>2</td><td>5×4</td><td>–</td><td colspan="2">–</td><td colspan="6">2</td><td>2×2</td><td colspan="3">–</td><td>3) 5) 7) 8) 9) 12) 26)</td></tr>
+<tr><td colspan="2">17a Anolis (*Anolis* spp.)</td><td colspan="2"></td><td>2</td><td>6×6</td><td>–</td><td colspan="2">–</td><td colspan="6">8</td><td>2×2</td><td colspan="3">–</td><td>3) 5) 8) 9) 26)</td></tr>
+<tr><td colspan="2">Agames (Agamidés [*Agamidae*])</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">18 Hydrosaures (*Hydrosaurus* spp.)</td><td colspan="2">a)</td><td>2</td><td>5×3</td><td>4×2</td><td colspan="2">1</td><td colspan="6">5</td><td>2×2</td><td colspan="3">–</td><td>3) 5) 8) 9) 26)</td></tr>
+<tr><td colspan="2">19 Dragons d’eau (*Physignatus* spp.)</td><td colspan="2"></td><td>2</td><td>5×3</td><td>2×2</td><td colspan="2">1</td><td colspan="6">5</td><td>2×2</td><td colspan="3">–</td><td>3) 5) 8) 9) 26)</td></tr>
+<tr><td colspan="2">20 Agames barbus (*Pogona* spp.)</td><td colspan="2"></td><td>2</td><td>5×4</td><td>–</td><td colspan="2">–</td><td colspan="6">4</td><td>2×2</td><td colspan="3">–</td><td>3) 5) 8) 9) 26) certaines espèces: 4) 13)</td></tr>
+<tr><td colspan="2">21 *Calotes* spp.</td><td colspan="2"></td><td>2</td><td>5×4</td><td>–</td><td colspan="2">–</td><td colspan="6">5</td><td>2×2</td><td colspan="3">–</td><td>3) 5) 8) 9) 26)</td></tr>
+<tr><td colspan="2">22 Agames à tête ongulée (*Gonocephalus* spp.)</td><td colspan="2"></td><td>2</td><td>5×4</td><td>–</td><td colspan="2">–</td><td colspan="6">5</td><td>2×2</td><td colspan="3">–</td><td>3) 5) 8) 9) 26)</td></tr>
+<tr><td colspan="2">23 Fouette-queues (*Uromastyx* spp.)</td><td colspan="2"></td><td>2</td><td>5×4</td><td>–</td><td colspan="2">–</td><td colspan="6">3</td><td>2×2</td><td colspan="3">–</td><td>3) 4) 5) 7) 9) 26)</td></tr>
+<tr><td colspan="2">23a Dragons volants (*Draco* spp.)</td><td colspan="2">a)</td><td>2</td><td>20×8</td><td>–</td><td colspan="2">–</td><td colspan="6">20</td><td>8×4</td><td colspan="3"></td><td>3) 5) 8) 9) 25) 26)</td></tr>
+<tr><td colspan="2">23b Diable cornu (*Moloch horridus*)</td><td colspan="2">a)</td><td>2</td><td>6×4</td><td>–</td><td colspan="2">–</td><td colspan="6">3</td><td>2×2</td><td colspan="3"></td><td>3) 5) 9) 25) 26)</td></tr>
+<tr><td colspan="2">Lézards (Lacertidés [*Lacertidae*])</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">24 Lézards des souches, lézards verts, lézards des îles Canaries (*Lacerta* spp., *Gallotia* spp.)</td><td colspan="2"></td><td>2</td><td>6×4</td><td>––</td><td colspan="2">––</td><td colspan="6">4</td><td>2×2</td><td colspan="3">–</td><td>3) 5) 9) 26) certaines espèces: 4) 13)</td></tr>
+<tr><td colspan="2">24a Petits lézards communs (*Podarcis* spp.)</td><td colspan="2"></td><td>2</td><td>8×4</td><td>–</td><td colspan="2">–</td><td colspan="6">6</td><td>2×2</td><td colspan="3">–</td><td>5) 8) 9) 26)</td></tr>
+<tr><td colspan="2">25 Lézards vivipares et *Algyroides* (*Zootoca vivipara,* *Algyroides* spp.)</td><td colspan="2"></td><td>2</td><td>8×4</td><td>–</td><td colspan="2">–</td><td colspan="6">4</td><td>2×2</td><td colspan="3">–</td><td>3) 13) certaines espèces: 1) 4) 5) 9) 26)</td></tr>
+<tr><td colspan="2">Tégus ou téjus (Teiidés [*Teiidae*]*, Tejus*])</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">26 Dracènes et lézard-caïman (*Dracaena* spp., *Crocodilurus* spp.)</td><td colspan="2">a)</td><td>2</td><td>3×3</td><td>2×2</td><td colspan="2">0,5</td><td colspan="6">3</td><td>1×1</td><td colspan="3">–</td><td>3) 5) 8) 9) 12) 18) 25) 26)</td></tr>
+<tr><td colspan="2">27 Tégus (*Tupinambis* spp.)</td><td colspan="2">a)</td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="6">3</td><td>2×2</td><td colspan="3">–</td><td>3) 5) 7) 9) 12) 26) certaines espèces: 4)</td></tr>
+<tr><td colspan="2">Scinques (Scincidés [*Scincidae*])</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">28 Scinque à queue tronquée et scinque à langue bleue (*Tiliqua* spp.)</td><td colspan="2"></td><td>2</td><td>7×4</td><td>––</td><td colspan="2">––</td><td colspan="6">3</td><td>2×2</td><td colspan="3">–</td><td>3) 4) 5) 9) 26)</td></tr>
+<tr><td colspan="2">28a Scinques terricoles de petite taille et de taille moyenne (*Eumeces* spp., *Mabouya* spp., *Trachylepis* spp.)</td><td colspan="2"></td><td>2</td><td>7×4</td><td>–</td><td colspan="2">–</td><td colspan="6">3</td><td>2×2</td><td colspan="3">–</td><td>3) 5) 7) 9) certaines espèces: 26)</td></tr>
+<tr><td colspan="2">29 Scinque à queue préhensile des Îles Salomon (*Corucia zebrata*)</td><td colspan="2"></td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="6">5</td><td>2×2</td><td colspan="3">–</td><td>3) 5) 8) 9)</td></tr>
+<tr><td colspan="2">Geckos (*Gekkota*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">30 Espèces de geckos nocturnes et aériennes (*Diplodactylus* spp. [certaines espèces]*,* *Hemidactylus* spp., *Oedura* spp., *Tarentola* spp., *Uroplates* spp.)</td><td colspan="2"></td><td>2</td><td>6×2</td><td>–</td><td colspan="2">–</td><td colspan="6">8</td><td>2×2</td><td colspan="3">–</td><td>3) 5) 8) 9) certaines espèces: 4)</td></tr>
+<tr><td colspan="2">31 Espèces de geckos nocturnes et terricoles (*Coleonyx* spp., *Diplodactylus* spp. [certaines espèces]*, Eublepharis* spp., *Nephrurus* spp.)</td><td colspan="2"></td><td>2</td><td>6×6</td><td>–</td><td colspan="2">–</td><td colspan="6">2</td><td>2×2</td><td colspan="3">–</td><td>3) 5) 9) certaines espèces: 4) 7)</td></tr>
+<tr><td colspan="2">32 Espèces diurnes de geckos (*Gonatodes* spp., *Lygodactylus* spp., *Phelsuma* spp.)</td><td colspan="2"></td><td>2</td><td>6×6</td><td>–</td><td colspan="2">–</td><td colspan="6">8</td><td>2×2</td><td colspan="3">–</td><td>3) 5) 8) 9) 26)</td></tr>
+<tr><td colspan="2">Cordyles (Cordylidés [*Cordylidae*])</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">33 Cordyles (*Cordylus* spp., *Hemicordylus* spp., *Pseudocordylus* spp.)</td><td colspan="2"></td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="6">4</td><td>2×2</td><td colspan="3">–</td><td>3) 5) 9) 26) certaines espèces: 4) 8) 13)</td></tr>
+<tr><td colspan="2">33a Lézards des rochers (*Platysaurus* spp.)</td><td colspan="2"></td><td>2</td><td>8×2</td><td>–</td><td colspan="2">–</td><td colspan="6">5</td><td>2×1</td><td colspan="3">–</td><td>3) 8) 9) 26) certaines espèces: 4) 5) 13)</td></tr>
+<tr><td colspan="2">34 Zonures géants (*Cordylus giganteus*)</td><td colspan="2"></td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="6">3</td><td>2×2</td><td colspan="3">–</td><td>3) 4) 5) 7) 9) 26)</td></tr>
+<tr><td colspan="2">Hélodermes (*Heloderma*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">35 Héloderme granuleux (*Heloderma horridum*)</td><td colspan="2">a)</td><td>2</td><td>4×3</td><td>–</td><td colspan="2">–</td><td colspan="6">3</td><td>2×2</td><td colspan="3">–</td><td>3) 4) 5) 7) 9) 12) 26)</td></tr>
+<tr><td colspan="2">35a Lézard perlé (*Heloderma suspectum*)</td><td colspan="2">a)</td><td>2</td><td>4×3</td><td>–</td><td colspan="2">–</td><td colspan="6">2</td><td>2×2</td><td colspan="3">–</td><td>3) 5) 7) 9) 12) 26)</td></tr>
+<tr><td colspan="2">Varans (Varanidés [*Varanidae*])</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">36 Varans terricoles de grande taille provenant des régions arides[^annexu1-lvlu1-2]</td><td colspan="2">a)</td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="6">2</td><td>2×2</td><td colspan="3">–</td><td>3) 5) 9) 12) 26) certaines espèces: 4) 6) 7) 8)</td></tr>
+<tr><td colspan="2">37 Varans terricoles de grande taille provenant des régions semi-arides à humides (*Varanus beng**alensis, V. komodoensis, V. nebulosus*)</td><td colspan="2">a)</td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="6">2</td><td>2×2</td><td colspan="3">–</td><td>2) 3) 5) 6) certaines espèces: 7) 8) 9) 12) 26)</td></tr>
+<tr><td colspan="2">38 Varans arboricoles de grande taille provenant des régions humides[^annexu1-lvlu1-3]</td><td colspan="2">a)</td><td>2</td><td>5×2</td><td>–</td><td colspan="2">–</td><td colspan="6">5</td><td>2×2</td><td colspan="3">–</td><td>2) 3) 5) 6) 8) 9) 12) 26)</td></tr>
+<tr><td colspan="2">39 Varans semi-aquatiques de grande taille[^annexu1-lvlu1-4]</td><td colspan="2">a)</td><td>2</td><td>5×3</td><td>2×2</td><td colspan="2">0,5</td><td colspan="6">2</td><td>2×2</td><td colspan="3">1×1</td><td>2) 3) 5) 6) 8) 9) 12) 18) 26)</td></tr>
+<tr><td colspan="2">40 Varan aquatique de Mertens (*Varanus mertensi*)</td><td colspan="2">a)</td><td>2</td><td>2×2</td><td>3×2</td><td colspan="2">0,5</td><td colspan="6">2</td><td>1×1</td><td colspan="3">1×1</td><td>2) 3) 5) 8) 9) 12) 18) 26)</td></tr>
+<tr><td colspan="2">41 Varans herbivores de grande taille (*Varanus mabitang, V. olivaceus*)</td><td colspan="2">a)</td><td>2</td><td>5×3</td><td>–</td><td colspan="2">–</td><td colspan="6">5</td><td>2×2</td><td colspan="3">–</td><td>2) 3) 5) 6) 8) 9) 12) 25) 26)</td></tr>
+<tr><td colspan="3">Pythons (Pythonidés [*Pythonidae*]) et boas (Boïdés [*Boidae*])</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">42 Boïdés de grande taille[^annexu1-lvlu1-5]</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="6">0,75</td><td>0,2×0,2</td><td colspan="3">–</td><td>2) 3) 5) 10) 12) certaines espèces: 4)</td></tr>
+<tr><td colspan="2">43 Anacondas (*Eunectes* spp.)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>1×0,5</td><td colspan="2">0,2</td><td colspan="6">0,75</td><td>0,2×0,2</td><td colspan="3">0,1×0,1</td><td>2) 3) 5) 12) 17) 18)</td></tr>
+<tr><td colspan="2">43a Pythons et boas de petite taille et de taille moyenne (p. ex. *Boa constrictor, Epicrates cenchria, Morelia spilota, Python curtus, P. regius*)</td><td colspan="2"></td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="6">0,75</td><td>0,5×0,2</td><td colspan="3">–</td><td>3) 5) 9) certaines espèces: 2) 8)</td></tr>
+<tr><td colspan="2">43b Python vert arboricole australien et boas (*Morelia viridis*, *Corallus* spp.)</td><td colspan="2"></td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="6">0,75</td><td>0,5×0,2</td><td colspan="3">–</td><td>3) 5) 8)</td></tr>
+<tr><td colspan="3">Couleuvres vraies (Colubridés [*Colubridae*])</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">44 Couleuvres aquatiques d’Asie orientale (*Rhabdophis* spp.)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>0,5×0,5</td><td colspan="2">0,2</td><td colspan="6">0,5</td><td>0,5×0,1</td><td colspan="3">0,5×0,1</td><td>3) 5) 8) 11) 12) certaines espèces: 4)</td></tr>
+<tr><td colspan="2">45 Couleuvres de Ceylan (*Balanophis* spp.)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="6">0,5</td><td>0,5×0,2</td><td colspan="3">–</td><td>3) 5) 11) 12)</td></tr>
+<tr><td colspan="2">46 Colubridés dangereux (*Boiga dendrophila, B. blandingii,* *Dispholidus* *typus, Thelotornis* spp*.*)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="6">0,7</td><td>0,5×0,2</td><td colspan="3">–</td><td>3) 5) 9) 11) 12) certaines espèces: 8) 23) 26)</td></tr>
+<tr><td colspan="3">Élapidés (*Elapidae*)</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">47 Élapidés terricoles (p. ex. *Acanthophis* spp., *Aspidelaps* spp., *Naja* spp., *Pseudechis* spp.)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="6">0,5</td><td>0,5×0,2</td><td colspan="3">–</td><td>3) 5) 11) 12) 23)</td></tr>
+<tr><td colspan="2">48 Élapidés arboricoles (*Dendroaspis* spp*.* [excepté *D**. polylepis*]*, Pseudohaje goldii*)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="6">0,7</td><td>0,5×0,2</td><td colspan="3">–</td><td>3) 5) 8) 11) 12) 14) 23)</td></tr>
+<tr><td colspan="2">49 Élapidés de très grande taille (*Dendroaspis polylepis, Oxyuranus* spp*.*)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="6">0,5</td><td>0,5×0,2</td><td colspan="3">–</td><td>3) 5) 8) 11) 12) 14) 23)</td></tr>
+<tr><td colspan="2">50 Cobra royal (*Ophiophagus hannah*)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="6">0,5</td><td>0,5×0,2</td><td colspan="3">–</td><td>3) 5) 9) 11) 12) 14) 23) 25)</td></tr>
+<tr><td colspan="2">51 Cobra d’eau (*Boulengerina annulata*)</td><td colspan="2">a)</td><td>2</td><td>0,5×0,3</td><td>1×0,5</td><td colspan="2">0,4</td><td colspan="6">0,5</td><td>0,5×0,1</td><td colspan="3">0,5×0,1</td><td>3) 5) 9) 11) 12) 17) 23)</td></tr>
+<tr><td colspan="2">52 Tricots rayés (serpents marins) (*Laticauda* spp.)</td><td colspan="2">a)</td><td>2</td><td>–</td><td>2×1,5</td><td colspan="2">0,7</td><td colspan="6">–</td><td>–</td><td colspan="3">1×1</td><td>5) 12) 18) 20) 23) certaines espèces: 21)</td></tr>
+<tr><td colspan="2">53 Serpent marin noir et jaune (*Pelamis* spp.)</td><td colspan="2">a)</td><td>2</td><td>–</td><td>2×1</td><td colspan="2">0,5</td><td colspan="6">–</td><td>–</td><td colspan="3">1×1</td><td>5) 12) 18) 19) 20) 22) 23)</td></tr>
+<tr><td colspan="3">Vipères (Vipéridés [*Viperidae*])</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">54 Vipères fouisseuses (*Atractaspididae* spp., *Homoroselaps* spp.)</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="6">0,5</td><td>0,5×0,2</td><td colspan="3">–</td><td>5) 7) 9) 12) 23)</td></tr>
+<tr><td colspan="2">55 Vipéridés et crotalidés terricoles sans les espèces à déplacement par déroulement latéral</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="6">0,5</td><td>0,5×0,2</td><td colspan="3">–</td><td>3) 5) 11) 12) 23) certaines espèces: 4) 13) 26)</td></tr>
+<tr><td colspan="2">56 Vipéridés et crotalidés à déplacement par déroulement latéral[^annexu1-lvlu1-6]</td><td colspan="2">a)</td><td>2</td><td>1,5×0,5</td><td>–</td><td colspan="2">–</td><td colspan="6">0,5</td><td>0,5×0,2</td><td colspan="3">–</td><td>3) 5) 11) 12) 23) 24) certaines espèces: 4)</td></tr>
+<tr><td colspan="2">57 Vipéridés et crotalidés arboricoles</td><td colspan="2">a)</td><td>2</td><td>1×0,5</td><td>–</td><td colspan="2">–</td><td colspan="6">0,7</td><td>0,5×0,2</td><td colspan="3">–</td><td>3) 5) 8) 12) 23) certaines espèces: 13)</td></tr>
+<tr><td colspan="2">58 Mocassin d’eau (*Agkistrodon piscivorus*)</td><td colspan="2">a)</td><td>2</td><td>0,5×0,5</td><td>0,5×0,5</td><td colspan="2">0,1</td><td colspan="6">0,5</td><td>0,5×0,1</td><td colspan="3">0,5×0,1</td><td>3) 4) 5) 11) 12) 23)</td></tr>
+<tr><td colspan="2">Crocodiliens (*Crocodylia*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">59 Crocodiles[^annexu1-lvlu1-7]</td><td colspan="2">a)</td><td>1</td><td>4×2</td><td>4×2</td><td colspan="2">0,5</td><td colspan="6">0,5</td><td>2×2</td><td colspan="3">2×2</td><td>2) 3) 5) 6) 12) 18) 26) tous les jeunes et les adultes de certaines espèces: 11)</td></tr>
+<tr><td colspan="2">Rhynchocéphales (*Rhynchocephalia*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td colspan="2">60 Sphénodons ou tuataras (*Sphenodon* spp.)</td><td colspan="2">a)</td><td>2</td><td>4×3</td><td>2×1</td><td colspan="2">0,4</td><td colspan="6">0,5</td><td>4×3</td><td colspan="3">–</td><td>3) 5) 7) 9) 16)</td></tr>
 </table>
 
 Notes du tableau 5 (reptiles)
@@ -4682,11 +4681,36 @@ Notes du tableau 5 (reptiles)
 Exigences particulières
 
 <table>
-<tr><td>1) Aménager en plus des possibilités de sorties en plein air pour autant que les conditions météorologiques le permettent. 2) Certaines espèces doivent pouvoir se baigner dans un bassin pouvant être chauffé et ayant une grandeur suffisante; cette exigence est également applicable aux enclos de séparation des animaux. 3) La température doit répondre aux besoins des animaux. Une petite partie de l’enclos doit être maintenue à une température plus élevée et, suivant l’espèce, une source de chaleur doit être à la disposition pour de chaque animal afin qu’il puisse s’exposer individuellement au rayonnement, sauf en cas de détention en plein air. 4) Le climat doit être régulé tout au long de l’année de manière à permettre les périodes de léthargie due à l’hiver ou au froid ou les périodes d’estivation des animaux de toutes les classes d’âge. 5) Les structures sociales doivent être respectées. Dans certaines circonstances, les animaux doivent être détenus individuellement. 6) Pour toutes les tortues géantes, les tortues sillonnées, les tortues à carapace molle, les varans et les crocodiles: si plusieurs animaux sont détenus dans le même enclos, celui-ci doit, en cas de besoin, pouvoir être subdivisé ou des enclos appropriés permettant de séparer les animaux doivent être mis à disposition. 7) Le sol doit être pourvu par endroits d’un substrat qui peut être creusé, permettant aux animaux d’adopter le comportement de fouissage et, suivant l’espèce, de se retirer. 8) Tous les enclos doivent comporter, selon l’espèce, des possibilités de grimper horizontalement et/ou verticalement, tels que des arbres, des branches d’une épaisseur égale à celle du corps de l’animal ou des parois de rocher. 9) Aménager des possibilités de se cacher. 10) Aménager des aires de repos surélevées. 11) Installer des cachettes (terriers, creux d’arbres, caisson avec ouverture, tuyau en liège ou autres) où les animaux peuvent néanmoins être observés. 12) Construction solide de l’enclos (terrarium). 13) Un net rafraîchissement doit être provoqué au cours de la nuit. 14) Un caisson dont l’ouverture peut être actionnée de l’extérieur ou une autre possibilité de séparation doit être à disposition même en cas de détention individuelle. 15) L’enclos doit être bien aéré; il doit comporter au moins deux parois avec du treillis. 16) Une climatisation doit être à disposition, y compris pour le bassin. 17) La profondeur du bassin peut être limitée à 0,6 m quand bien même le résultat purement mathématique donnerait une valeur plus élevée. 18) Installation de filtrage de dimension suffisante. 19) Les coins de l’aquarium doivent être arrondis. Idéalement, le bassin devrait être ovale ou cylindrique. 20) L’aquarium doit être recouvert de manière à empêcher toute fuite. 21) Aquarium d’eau douce, d’eau saumâtre ou d’eau salée, suivant l’espèce, avec une petite partie de terre ferme. 22) Détention dans un aquarium d’eau de mer sans terre ferme. 23) Si un anti-venin (sérum) est disponible pour l’espèce concernée, en garder en réserve ou en garantir l’obtention facile par affiliation à une société stockant des sérums. 24) Les animaux de certaines espèces doivent disposer d’emplacements de sable fin, sans poussière et de consistance meuble dans lequel ils peuvent s’enterrer. 25) La preuve doit être apportée que les animaux peuvent se procurer suffisamment de nourriture conforme à leur espèce. 26) Pour certaines espèces diurnes, il faut utiliser des lampes claires (HQL, HQI ou autres lampes comparables) permettant aux animaux de se réchauffer localement, sauf si les animaux sont détenus en plein air ou dans des enclos avec ensoleillement direct. L’utilisation exclusive de chauffage au sol ou de lampes infra-rouge n’est pas admise.</td></tr>
+<tr><td>1) Aménager en plus des possibilités de sorties en plein air pour autant que les conditions météorologiques le permettent.</td></tr>
+<tr><td>2) Certaines espèces doivent pouvoir se baigner dans un bassin pouvant être chauffé et ayant une grandeur suffisante; cette exigence est également applicable aux enclos de séparation des animaux.</td></tr>
+<tr><td>3) La température doit répondre aux besoins des animaux. Une petite partie de l’enclos doit être maintenue à une température plus élevée et, suivant l’espèce, une source de chaleur doit être à la disposition pour de chaque animal afin qu’il puisse s’exposer individuellement au rayonnement, sauf en cas de détention en plein air.</td></tr>
+<tr><td>4) Le climat doit être régulé tout au long de l’année de manière à permettre les périodes de léthargie due à l’hiver ou au froid ou les périodes d’estivation des animaux de toutes les classes d’âge.</td></tr>
+<tr><td>5) Les structures sociales doivent être respectées. Dans certaines circonstances, les animaux doivent être détenus individuellement.</td></tr>
+<tr><td>6) Pour toutes les tortues géantes, les tortues sillonnées, les tortues à carapace molle, les varans et les crocodiles: si plusieurs animaux sont détenus dans le même enclos, celui-ci doit, en cas de besoin, pouvoir être subdivisé ou des enclos appropriés permettant de séparer les animaux doivent être mis à disposition.</td></tr>
+<tr><td>7) Le sol doit être pourvu par endroits d’un substrat qui peut être creusé, permettant aux animaux d’adopter le comportement de fouissage et, suivant l’espèce, de se retirer.</td></tr>
+<tr><td>8) Tous les enclos doivent comporter, selon l’espèce, des possibilités de grimper horizontalement et/ou verticalement, tels que des arbres, des branches d’une épaisseur égale à celle du corps de l’animal ou des parois de rocher.</td></tr>
+<tr><td>9) Aménager des possibilités de se cacher.</td></tr>
+<tr><td>10) Aménager des aires de repos surélevées.</td></tr>
+<tr><td>11) Installer des cachettes (terriers, creux d’arbres, caisson avec ouverture, tuyau en liège ou autres) où les animaux peuvent néanmoins être observés.</td></tr>
+<tr><td>12) Construction solide de l’enclos (terrarium).</td></tr>
+<tr><td>13) Un net rafraîchissement doit être provoqué au cours de la nuit.</td></tr>
+<tr><td>14) Un caisson dont l’ouverture peut être actionnée de l’extérieur ou une autre possibilité de séparation doit être à disposition même en cas de détention individuelle.</td></tr>
+<tr><td>15) L’enclos doit être bien aéré; il doit comporter au moins deux parois avec du treillis.</td></tr>
+<tr><td>16) Une climatisation doit être à disposition, y compris pour le bassin.</td></tr>
+<tr><td>17) La profondeur du bassin peut être limitée à 0,6 m quand bien même le résultat purement mathématique donnerait une valeur plus élevée.</td></tr>
+<tr><td>18) Installation de filtrage de dimension suffisante.</td></tr>
+<tr><td>19) Les coins de l’aquarium doivent être arrondis. Idéalement, le bassin devrait être ovale ou cylindrique.</td></tr>
+<tr><td>20) L’aquarium doit être recouvert de manière à empêcher toute fuite.</td></tr>
+<tr><td>21) Aquarium d’eau douce, d’eau saumâtre ou d’eau salée, suivant l’espèce, avec une petite partie de terre ferme.</td></tr>
+<tr><td>22) Détention dans un aquarium d’eau de mer sans terre ferme.</td></tr>
+<tr><td>23) Si un anti-venin (sérum) est disponible pour l’espèce concernée, en garder en réserve ou en garantir l’obtention facile par affiliation à une société stockant des sérums.</td></tr>
+<tr><td>24) Les animaux de certaines espèces doivent disposer d’emplacements de sable fin, sans poussière et de consistance meuble dans lequel ils peuvent s’enterrer.</td></tr>
+<tr><td>25) La preuve doit être apportée que les animaux peuvent se procurer suffisamment de nourriture conforme à leur espèce.</td></tr>
+<tr><td>26) Pour certaines espèces diurnes, il faut utiliser des lampes claires (HQL, HQI ou autres lampes comparables) permettant aux animaux de se réchauffer localement, sauf si les animaux sont détenus en plein air ou dans des enclos avec ensoleillement direct. L’utilisation exclusive de chauffage au sol ou de lampes infrarouge n’est pas admise.</td></tr>
 </table>
 
 [^annexu1-lvlu1-2]: *Varanus albigularis, V. exanthematicus, V. giganteus, V. gouldii, V. griseus, V. nesterovi. V. panoptes, V. rosenbergi, V. spenceri, V. varius, V. yemenensis*.
-[^annexu1-lvlu1-3]: *Varanus caerulivirens, V. cerambonensis, V. doreanus, V. dumerilii, V. finschi, V. indicus, V. jobiensis, V. juxtindicus, V. macraei, V. melinus, V. obor, V. rudicollis, V. salvadorii, V. spinulosus, V. yuwonoi.*
+[^annexu1-lvlu1-3]: *Varanus caerulivirens, V. cerambonensis, V. doreanus, V. dumerilii, V. finschi, V. indicus, V. jobiensis, V. juxtindicus, V. macraei, V. melinus, V. obor,* *V. rudicollis,* *V. salvadorii, V. spinulosus, V. yuwonoi.*
 [^annexu1-lvlu1-4]: *Varanus bangonorum*,*V. cumingi*, *V. dalubhasa*, *V. marmoratus*, *V. niloticus*, *V. nuchalis*, *V. ornatus*, *V. palawanensis*, *V. rasmusseni*, *V.* *salvator*, *V. togianus*.
 [^annexu1-lvlu1-5]: *Epicrates angulifer, Liasis olivaceus, L. oenpelliensis, L. papuanus, Morelia amethistina, M. boeleni, Python molurus, P. natalensis, P. reticulatus, P**.* *sebae.*
 [^annexu1-lvlu1-6]: *Bitis peringueyi, B. schneideri, Cerastes* spp.*, Crotalus cerastes, Eristicophis macmahoni, Pseudocerastes persicus.*
@@ -4714,16 +4738,16 @@ Remarques préliminaires
 <tr><td colspan="2">2 Grenouilles non terricoles en provenance de zones tropicales et subptropicales (*Agalychnis* spp., *Hyperolius* spp., *Dendropsophus* spp., *Trachycephalus* spp., *Polypedates* spp.)</td><td colspan="2"></td><td>2</td><td>10×5</td><td>–</td><td colspan="2">–</td><td colspan="5">10</td><td>2×2</td><td colspan="2">–</td><td>1) 2) 3) certaines espèces: 5) 7) 9)</td></tr>
 <tr><td colspan="2">2a Grenouilles terricoles en provenance de zones tropicales et subptropicales (p. ex.. *Ceratophrys* spp., *Hypsiboas* spp.)</td><td colspan="2"></td><td>2</td><td>10×5</td><td>–</td><td colspan="2">–</td><td colspan="5">4</td><td>2×2</td><td colspan="2">–</td><td>1) 3) 8) certaines espèces: 7) 9)</td></tr>
 <tr><td colspan="2">Dendrobatidés (*Dendrobatidae*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">3 Dendrobatidés terricoles</td><td colspan="2"></td><td>2</td><td>25×15</td><td>––</td><td colspan="2">––</td><td colspan="5">8</td><td>15×2</td><td colspan="2">––</td><td>1) 3) 7) 9)</td></tr>
-<tr><td colspan="2">4 Dendrobatidés arboricoles</td><td colspan="2"></td><td>2</td><td>20×10</td><td>––</td><td colspan="2">––</td><td colspan="5">25</td><td>10×2</td><td colspan="2">–</td><td>1) 2) 3) 4) 9) certaines espèces: 5) 7)</td></tr>
+<tr><td colspan="2">3 Dendrobatidés terricoles</td><td colspan="2"></td><td>2</td><td>25×15</td><td>–</td><td colspan="2">–</td><td colspan="5">8</td><td>15×2</td><td colspan="2">–</td><td>1) 3) 7) 9)</td></tr>
+<tr><td colspan="2">4 Dendrobatidés arboricoles</td><td colspan="2"></td><td>2</td><td>20×10</td><td>–</td><td colspan="2">–</td><td colspan="5">25</td><td>10×2</td><td colspan="2">–</td><td>1) 2) 3) 4) 9) certaines espèces: 5) 7)</td></tr>
 <tr><td colspan="2">Pipidés (*Pipidae*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
 <tr><td colspan="2">5 Xénopes et pipidés des eaux tropicales (*Pipa* spp., *Xenopus* spp.)</td><td colspan="2"></td><td>2</td><td>–</td><td>6×4</td><td colspan="2">4</td><td colspan="5">–</td><td>–</td><td colspan="2">2×2</td><td>1) 10)</td></tr>
 <tr><td colspan="3">5a Grenouilles naines africaines (*Hymenochirus* spp.)</td><td></td><td>2</td><td>–</td><td>12×6</td><td colspan="2">8</td><td colspan="5">–</td><td>–</td><td colspan="2">6×3</td><td>1) 10)</td></tr>
 <tr><td colspan="2">Grenouilles vraies (Ranidés [*Ranidae*])</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
 <tr><td colspan="2">6 Grenouilles d’eau (*Lithobates* spp., *Pelophylax* spp.)</td><td colspan="2"></td><td>2</td><td>6×4</td><td>10×5</td><td colspan="2">2</td><td colspan="5">5</td><td>2×2</td><td colspan="2">2×1</td><td>1) 3) certaines espèces: 6)</td></tr>
 <tr><td colspan="2">Crapauds (Bufonidés [*Bufonidae*])</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">7 Crapauds en provenance de zones tempérées (p. ex.. *Bufo bufo, B. viridis, B. calamita*)</td><td colspan="2"></td><td>2</td><td>6×4</td><td>––</td><td colspan="2">––</td><td colspan="5">4</td><td>2×2</td><td colspan="2">––</td><td>1) 3) 6) certaines espèces: 2) 7)</td></tr>
-<tr><td colspan="2">8 Crapauds en provenance de zones tropicales et subtropicales (par ex. *Bufo* *alvarius, B. guttatus,* *B. mauretanicus, B. marinus*, *B. pardalis*)</td><td colspan="2"></td><td>2</td><td>6×4</td><td>––</td><td colspan="2">––</td><td colspan="5">4</td><td>2×2</td><td colspan="2">––</td><td>1) 3) 7) certaines espèces: 8)</td></tr>
+<tr><td colspan="2">7 Crapauds en provenance de zones tempérées (p. ex.. *Bufo bufo, B. viridis, B. calamita*)</td><td colspan="2"></td><td>2</td><td>6×4</td><td>–</td><td colspan="2">–</td><td colspan="5">4</td><td>2×2</td><td colspan="2">–</td><td>1) 3) 6) certaines espèces: 2) 7)</td></tr>
+<tr><td colspan="2">8 Crapauds en provenance de zones tropicales et subtropicales (par ex. *Bufo* *alvarius, B. guttatus,* *B. mauretanicus, B. marinus*, *B. pardalis*)</td><td colspan="2"></td><td>2</td><td>6×4</td><td>–</td><td colspan="2">–</td><td colspan="5">4</td><td>2×2</td><td colspan="2">–</td><td>1) 3) 7) certaines espèces: 8)</td></tr>
 <tr><td colspan="2">9 Crapauds arboricoles (*Pedostibes* spp.)</td><td colspan="2"></td><td>2</td><td>6×4</td><td>–</td><td colspan="2">–</td><td colspan="5">8</td><td>2×2</td><td colspan="2">–</td><td>1) 2) 3) 4) 7)</td></tr>
 <tr><td colspan="2">Salamandridés (*Salamandridae*)</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td></td><td colspan="2"></td><td></td></tr>
 <tr><td colspan="2">10 Salamandre terrestre (*Salamandra* spp*.*)</td><td colspan="2"></td><td>2</td><td>10×4</td><td>–</td><td colspan="2">–</td><td colspan="5">4</td><td>2×2</td><td colspan="2">–</td><td>1) 3) certaines espèces: 6) 7) 9)</td></tr>
@@ -4746,7 +4770,18 @@ Notes du tableau 6 (amphibiens)
 Exigences particulières
 
 <table>
-<tr><td>1) Deux animaux peuvent être détenus ensemble; la détention par paire n’est cependant pas nécessaire. Si les animaux sont d’espèces solitaires, deux animaux sociables peuvent être détenus dans un enclos de taille minimale. 2) L’enclos doit être pourvu d’éléments permettant à l’animal de grimper, tels que plantes, branches ou bouts d’écorce. 3) L’enclos doit présenter des possibilités de se cacher, tels que des cavernes, des fissures ou du feuillage. 4) L’enclos doit être pourvu de plantes vertes, sur lesquelles les animaux peuvent se tenir. 5) L’enclos doit être pourvu de broméliacées ou de plantes vertes présentant une structure en entonnoir comparable. 6) Les animaux doivent pouvoir entrer en léthargie due à l’hiver ou au froid dans un substrat meuble, se prêtant à être creusé. 7) Une cuvette, un récipient d’eau, des plantes contenant de l’eau (p. ex. broméliacées) ou un cours d’eau doivent être à disposition. 8) Le sol de l’enclos doit être constitué d’un substrat meuble, se prêtant à être creusé, afin que les animaux puissent se retirer pour l’estivation. 9) Taux d’humidité élevé de l’air. 10) L’enclos doit être muni d’un bac d’eau répondant aux besoins des animaux qui vivent essentiellement dans l’eau et d’une cachette. 11) Climat saisonnier avec de grandes variations. Provoquer une forte chute de température durant la nuit. 12) Filtre ou arrivée d’eau fraîche.</td></tr>
+<tr><td>1) Deux animaux peuvent être détenus ensemble; la détention par paire n’est cependant pas nécessaire. Si les animaux sont d’espèces solitaires, deux animaux sociables peuvent être détenus dans un enclos de taille minimale.</td></tr>
+<tr><td>2) L’enclos doit être pourvu d’éléments permettant à l’animal de grimper, tels que plantes, branches ou bouts d’écorce.</td></tr>
+<tr><td>3) L’enclos doit présenter des possibilités de se cacher, tels que des cavernes, des fissures ou du feuillage.</td></tr>
+<tr><td>4) L’enclos doit être pourvu de plantes vertes, sur lesquelles les animaux peuvent se tenir.</td></tr>
+<tr><td>5) L’enclos doit être pourvu de broméliacées ou de plantes vertes présentant une structure en entonnoir comparable.</td></tr>
+<tr><td>6) Les animaux doivent pouvoir entrer en léthargie due à l’hiver ou au froid dans un substrat meuble, se prêtant à être creusé.</td></tr>
+<tr><td>7) Une cuvette, un récipient d’eau, des plantes contenant de l’eau (p. ex. broméliacées) ou un cours d’eau doivent être à disposition.</td></tr>
+<tr><td>8) Le sol de l’enclos doit être constitué d’un substrat meuble, se prêtant à être creusé, afin que les animaux puissent se retirer pour l’estivation.</td></tr>
+<tr><td>9) Taux d’humidité élevé de l’air.</td></tr>
+<tr><td>10) L’enclos doit être muni d’un bac d’eau répondant aux besoins des animaux qui vivent essentiellement dans l’eau et d’une cachette.</td></tr>
+<tr><td>11) Climat saisonnier avec de grandes variations. Provoquer une forte chute de température durant la nuit.</td></tr>
+<tr><td>12) Filtre ou arrivée d’eau fraîche.</td></tr>
 </table>
 
 Tableau 7
@@ -4794,8 +4829,8 @@ Remarques préliminaires
 ## Aquariums et étangs
 
 <table>
-<tr><td></td><td>Aquariums<sup>a),b)</sup></td><td></td><td>Étangs<sup>a),b)</sup></td><td></td></tr>
-<tr><td>Catégories par tailles</td><td>LC (en cm)</td><td>Nombre de litres par cm de poisson</td><td>LC (en cm)</td><td>Nombre de litres par cm de poisson</td></tr>
+<tr><th></th><th>Aquariums<sup>a),b)</sup></th><th></th><th>Étangs<sup>a),b)</sup></th><th></th></tr>
+<tr><th>Catégories par tailles</th><th>LC (en cm)</th><th>Nombre de litres par cm de poisson</th><th>LC (en cm)</th><th>Nombre de litres par cm de poisson</th></tr>
 <tr><td>1</td><td>jusqu’à 5</td><td>0,5</td><td>jusqu’à 10</td><td>2</td></tr>
 <tr><td>2</td><td>jusqu’à 10</td><td>0,75</td><td>jusqu’à 20</td><td>2,5</td></tr>
 <tr><td>3</td><td>jusqu’à 15</td><td>1</td><td>jusqu’à 30</td><td>5</td></tr>
@@ -4817,7 +4852,7 @@ Notes du tableau 8 (aquariums et étangs)
 <tr><td>a) Indépendamment des volumes minimaux calculés, il faut toujours tenir compte des besoins spécifiques des espèces de poissons concernées. b) Indépendamment des volumes minimaux calculés, il faut tenir compte des dimensions minimales suivantes: longueur du bassin: au moins 3× la longueur du corps du plus grand poisson largeur du bassin: au moins 2× la longueur du corps du plus grand poisson profondeur de l’eau: au moins 1× la longueur du corps du plus grand poisson</td></tr>
 </table>
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 10)
 
@@ -4839,21 +4874,21 @@ Les valeurs concernent des enclos ou des locaux ventilés. Sans ventilation, les
 <table>
 <tr><th>Espèces animales, poids</th><th>Surface minimale du sol de la cage cm<sup>2</sup></th><th>Surface au sol par animal cm<sup>2</sup></th><th>Hauteur cm</th><th>Notes</th></tr>
 <tr><td>Souris *Mus musculus*</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>&lt;20 g</td><td>330</td><td>60</td><td>12</td><td>1) 3) 5) 6)</td></tr>
+<tr><td>&lt; 20 g</td><td>330</td><td>60</td><td>12</td><td>1) 3) 5) 6)</td></tr>
 <tr><td>20–30 g</td><td>330</td><td>80</td><td>12</td><td>1) 3) 5) 6)</td></tr>
-<tr><td>&gt;30 g</td><td>330</td><td>100</td><td>12</td><td>1) 3) 5) 6)</td></tr>
+<tr><td>&gt; 30 g</td><td>330</td><td>100</td><td>12</td><td>1) 3) 5) 6)</td></tr>
 <tr><td>Rat *Rattus norvegicus*</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>&lt;200 g</td><td>800</td><td>200</td><td>18</td><td>1) 3) 5) 6)</td></tr>
+<tr><td>&lt; 200 g</td><td>800</td><td>200</td><td>18</td><td>1) 3) 5) 6)</td></tr>
 <tr><td>200–300 g</td><td>800</td><td>250</td><td>18</td><td>1) 3) 5) 6)</td></tr>
 <tr><td>300–400 g</td><td>800</td><td>350</td><td>18</td><td>1) 3) 5) 6)</td></tr>
 <tr><td>400–600 g</td><td>1500</td><td>450</td><td>20</td><td>1) 3) 5) 6)</td></tr>
-<tr><td>&gt;600 g</td><td>1500</td><td>600</td><td>20</td><td>1) 3) 5) 6)</td></tr>
+<tr><td>&gt; 600 g</td><td>1500</td><td>600</td><td>20</td><td>1) 3) 5) 6)</td></tr>
 <tr><td>Hamster, *Mesocricetus sp.; Cricetulus griseus*</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>60 g</td><td>800</td><td>250</td><td>18</td><td>1) 3) 5) 6)</td></tr>
-<tr><td>&gt;60 g</td><td>800</td><td>400</td><td>18</td><td>1) 3) 5) 6)</td></tr>
+<tr><td>&lt; 60 g</td><td>800</td><td>250</td><td>18</td><td>1) 3) 5) 6)</td></tr>
+<tr><td>&gt; 60 g</td><td>800</td><td>400</td><td>18</td><td>1) 3) 5) 6)</td></tr>
 <tr><td>Gerbille de Mongolie *Meriones* sp.</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>&lt;40 g</td><td>1500</td><td>350</td><td>20</td><td>1) 3) 5) 7)</td></tr>
-<tr><td>&gt;40 g</td><td>1500</td><td>450</td><td>20</td><td>1) 3) 5) 7)</td></tr>
+<tr><td>&lt; 40 g</td><td>1500</td><td>350</td><td>20</td><td>1) 3) 5) 7)</td></tr>
+<tr><td>&gt; 40 g</td><td>1500</td><td>450</td><td>20</td><td>1) 3) 5) 7)</td></tr>
 <tr><td>Cochon d’Inde *Cavia porcellus*</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>&lt; 300 g</td><td>3800</td><td>350</td><td>30</td><td>1) 2) 3) 4)</td></tr>
 <tr><td>300–700 g</td><td>3800</td><td>700</td><td>30</td><td>1) 2) 3) 4)</td></tr>
@@ -4883,7 +4918,7 @@ Les valeurs concernent des enclos ou des locaux ventilés. Sans ventilation, les
 <tr><td>Souris *Mus musculus*</td><td>500</td><td>12</td><td>1) 3) 5) 6) 8) 9)</td></tr>
 <tr><td>Rat *Rattus norvegicus*</td><td></td><td></td><td></td></tr>
 <tr><td>300–400 g</td><td>800</td><td>18</td><td>1) 3) 5) 6) 10)</td></tr>
-<tr><td>&gt;400 g</td><td>1500</td><td>20</td><td>1) 3) 5) 6) 10)</td></tr>
+<tr><td>&gt; 400 g</td><td>1500</td><td>20</td><td>1) 3) 5) 6) 10)</td></tr>
 <tr><td>Hamster *Mesocricetus* sp.; *Cricetulus griseus*</td><td>800</td><td>18</td><td>1) 3) 5) 6) 11)</td></tr>
 <tr><td>Gerbille de Mongolie *Meriones* sp.</td><td>1500</td><td>20</td><td>1) 3) 5) 7) 8)</td></tr>
 <tr><td>Cochon d’Inde Cavia porcellus</td><td>3800</td><td>30</td><td>1) 2) 3) 4) 8) 12)</td></tr>
@@ -4941,13 +4976,13 @@ La température de l’eau doit se situer entre 18 °C et 22 °C.
 
 <table>
 <tr><th></th><th>Longueur du corps</th><th>Dimension minimale du bassin pour un animal cm<sup>2</sup></th><th>Dimension minimale pour chaque animal supplémentaire cm<sup>2</sup></th><th>Hauteur cm</th></tr>
-<tr><th>Xenopus</th><th>&lt;6 cm</th><th>160</th><th>40</th><th>6</th></tr>
-<tr><th></th><th>6–9 cm</th><th>300</th><th>75</th><th>8</th></tr>
-<tr><th></th><th>9–12 cm</th><th>600</th><th>150</th><th>10</th></tr>
-<tr><th></th><th>&gt;12 cm</th><th>920</th><th>230</th><th>12,5</th></tr>
+<tr><td>Xenopus</td><td>&lt;6 cm</td><td>160</td><td>40</td><td>6</td></tr>
+<tr><td></td><td>6–9 cm</td><td>300</td><td>75</td><td>8</td></tr>
+<tr><td></td><td>9–12 cm</td><td>600</td><td>150</td><td>10</td></tr>
+<tr><td></td><td>&gt; 12 cm</td><td>920</td><td>230</td><td>12,5</td></tr>
 </table>
 
-Annexe 4*[^t-4]*
+Annexe 4[^t-4]
 
 (art. 165, al. 1, let. f)
 
@@ -4990,7 +5025,7 @@ Tableau 2
 <tr><td>30–45 kg</td><td colspan="2">0,25</td><td colspan="6">Hauteur au garrot +25 cm</td><td colspan="2"></td><td>moins de 35 kg</td><td colspan="2">0,25</td><td colspan="3">Hauteur au garrot +50 cm</td></tr>
 <tr><td>45–60 kg</td><td colspan="2">0,33</td><td colspan="6">Hauteur au garrot +30 cm</td><td colspan="2"></td><td>35–55 kg</td><td colspan="2">0,33</td><td colspan="3">Hauteur au garrot +50 cm</td></tr>
 <tr><td>plus de 60 kg</td><td colspan="2">0,40</td><td colspan="6">Hauteur au garrot +30 cm</td><td colspan="2"></td><td>plus de 55 kg</td><td colspan="2">0,50</td><td colspan="3">Hauteur au garrot +50 cm</td></tr>
-<tr><td colspan="5">Espace minimal requis pour le transport de moutons non tondus</td><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="6">Espace minimal requis pour le transport d'équidés</td></tr>
+<tr><td colspan="5">Espace minimal requis pour le transport de moutons non tondus</td><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="6">Espace minimal requis pour le transport d’équidés</td></tr>
 <tr><td colspan="2">Poids kg</td><td colspan="2">Surface par animal m<sup>2</sup></td><td colspan="6">Hauteur minimale du compartiment cm</td><td></td><td colspan="2"></td><td>Surface par animal m<sup>2</sup></td><td colspan="3">Hauteur minimale du compartiment cm</td></tr>
 <tr><td colspan="2">moins de 30 kg</td><td colspan="2">0,20</td><td colspan="6">Hauteur au garrot +20 cm</td><td></td><td colspan="2">Poulains</td><td>0,85</td><td colspan="3">Hauteur au garrot +40 cm</td></tr>
 <tr><td colspan="2">30–45 kg</td><td colspan="2">0,25</td><td colspan="6">Hauteur au garrot +25 cm</td><td></td><td colspan="2">Équidés légers</td><td>1,40</td><td colspan="3">Hauteur au garrot +40 cm</td></tr>
@@ -5016,7 +5051,7 @@ Tableau 3
 <tr><td>plus de 15,0 kg</td><td>90</td><td colspan="3">40</td><td></td><td></td><td colspan="2"></td><td></td></tr>
 </table>
 
-Annexe 5*[^t-5]*
+Annexe 5[^t-5]
 
 (art. 225)
 
@@ -5036,7 +5071,7 @@ Les délais transitoires mentionnés dans la colonne C s’appliquent aux articl
 <tr><td>1</td><td>Art. 26, al. 1</td><td>Interdiction d’utiliser des méthodes de reproduction pour remédier à une carence de reproduction naturelle</td><td>5 ans</td><td colspan="3"></td><td></td></tr>
 <tr><td>2</td><td>Art. 27</td><td>Méthodes de reproduction artificielles appliquées par des spécialistes</td><td>5 ans</td><td colspan="3"></td><td></td></tr>
 <tr><td>3</td><td>Art. 31, al. 1</td><td>Formation agricole pour plus de 10 unités de gros bétail de rente</td><td>5 ans</td><td colspan="3"></td><td></td></tr>
-<tr><td>4</td><td>Art. 31, al. 4</td><td>Attestation de compétences pour moins de 10 unités de gros bétail de bovins, de porcs, de moutons, de chèvres, d' équidés, de lamas, d’alpagas, de lapins ou de volaille</td><td>5 ans</td><td colspan="3"></td><td></td></tr>
+<tr><td>4</td><td>Art. 31, al. 4</td><td>Attestation de compétences pour moins de 10 unités de gros bétail de bovins, de porcs, de moutons, de chèvres, d’ équidés, de lamas, d’alpagas, de lapins ou de volaille</td><td>5 ans</td><td colspan="3"></td><td></td></tr>
 <tr><td>5</td><td>Art. 31, al. 5</td><td>Attestation de compétences en cas de détention de plus de 11 équidés</td><td>5 ans</td><td colspan="3"></td><td></td></tr>
 <tr><td>6</td><td>Art. 32 en relation avec Art. 224</td><td>La castration sans anesthésie des porcelets mâles</td><td>jusqu’au 31.12.2009</td><td colspan="3">[tab]</td><td>[tab]</td></tr>
 <tr><td>7</td><td>Art. 35, al. 3</td><td>Interdiction des nouvelles couches avec dresse-vaches</td><td>5 ans</td><td colspan="3"></td><td></td></tr>
@@ -5060,7 +5095,7 @@ Les délais transitoires mentionnés dans la colonne C s’appliquent aux articl
 <tr><td>25</td><td>Art. 59, al. 3</td><td>Assurer la possibilité de contacts sociaux aux équidés</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
 <tr><td>26</td><td>Art. 61, al. 2, en relation avec l’annexe 1, tableau 7</td><td>Aires de sorties pour les sorties des équidés</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
 <tr><td>27</td><td>Art. 61, al. 4</td><td>Sorties pour les juments d’élevage avec leur poulain, les jeunes chevaux et les chevaux non utilisés</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
-<tr><td>28</td><td>Art. 61, al. 5</td><td>Sorties pour les équidés utilisés</td><td>5 ans</td><td>Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td colspan="3">L’autorité cantonale peut sur demande du détenteur d'équidés prolonger le délai transitoire jusqu’au 1<sup>er</sup> septembre 2023 pour les exploitations professionnelles existant le 1<sup>er</sup> juillet 2001: 1. si on ne peut aménager la surface de sorties nécessaire en raison d’un manque de place, 2. si les équidés sont utilisés en général tous les jours, 3. si l’exploitation compte plus de 10 équidés et 4. si les autres conditions de l’ordonnance sur la protection des animaux sont remplies.</td></tr>
+<tr><td>28</td><td>Art. 61, al. 5</td><td>Sorties pour les équidés utilisés</td><td>5 ans</td><td>Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td colspan="3">L’autorité cantonale peut sur demande du détenteur d’équidés prolonger le délai transitoire jusqu’au 1<sup>er</sup> septembre 2023 pour les exploitations professionnelles existant le 1<sup>er</sup> juillet 2001: 1. si on ne peut aménager la surface de sorties nécessaire en raison d’un manque de place, 2. si les équidés sont utilisés en général tous les jours, 3. si l’exploitation compte plus de 10 équidés et 4. si les autres conditions de l’ordonnance sur la protection des animaux sont remplies.</td></tr>
 <tr><td>29</td><td>Art. 63</td><td>Interdiction de l’utilisation de fil de fer barbelé</td><td>2 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
 <tr><td>30</td><td>Art. 66, al. 2</td><td>Litière sur 20 % de la surface sur laquelle la volaille domestique peut se déplacer</td><td>2 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
 <tr><td>31</td><td>Art. 66, al. 3, let. c</td><td>Perchoirs surélevés pour les poules d’élevage, les pondeuses et les parents des poules ainsi que pour les pintades et les pigeons domestiques</td><td>2 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
@@ -5080,11 +5115,11 @@ Les délais transitoires mentionnés dans la colonne C s’appliquent aux articl
 <tr><td>45</td><td>Art. 203, al. 1</td><td>Formation des formateurs</td><td>2 ans</td><td colspan="3">Formation des détenteurs de chiens</td><td></td></tr>
 <tr><td>46</td><td>Art. 203, al. 2</td><td>Reconnaissance des cours pour formateurs</td><td>2 ans</td><td colspan="3">Formation des détenteurs de chiens</td><td></td></tr>
 <tr><td>47</td><td>Art. 205, let. c</td><td>Document attestant qu’un contrôle externe de la qualité de l’institut de formation a été effectué</td><td>2 ans</td><td colspan="3">Formation des détenteurs de chiens</td><td></td></tr>
-<tr><td>48</td><td>Annexe 1, tableau 1, ch. 1 et 32</td><td>Dimensions (longueur et largeur) pour les jeunes animaux détenus à l’attache et pour les vaches détenues à l’attache ou en groupe</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008 dont les couches ou box de repos présentent des dimensions inférieures aux dimensions ci-contre:</td><td>Jeunes animaux de 301 à 400 kg – sur couche courte: largeur de 90 cm et longueur de 145 cm Jeunes animaux de plus de 400 kg – sur couche courte: largeur de 100 cm et longueur de 155 cm Vaches ayant une hauteur au garrot de plus de 130 cm – sur couche courte: largeur de plus de 165 cm – sur couche moyenne: largeur de 110 cm et longueur de 200 cm – box de repos adossés à la paroi: largeur de 120 cm et longueur de 240 cm – box de repos opposés: largeur de 120 cm et longueur de 220 cm</td></tr>
-<tr><td>49</td><td>Annexe 1, tableau 3, ch. 21</td><td>Dimensions des logettes pour les truies</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td>Au maximum un tiers des logettes peut avoir les dimensions de 55 cm x 170 cm.</td></tr>
+<tr><td>48</td><td>Annexe 1, tableau 1, ch. 1 et 32</td><td>Dimensions (longueur et largeur) pour les jeunes animaux détenus à l’attache et pour les vaches détenues à l’attache ou en groupe</td><td>5 ans</td><td>Unités d’élevage existant le 1<sup>er</sup> septembre 2008 dont les couches ou box de repos présentent des dimensions inférieures aux dimensions ci-contre:</td><td colspan="3">Jeunes animaux de 301 à 400 kg – sur couche courte: largeur de 90 cm et longueur de 145 cm Jeunes animaux de plus de 400 kg – sur couche courte: largeur de 100 cm et longueur de 155 cm Vaches ayant une hauteur au garrot de plus de 130 cm – sur couche courte: largeur de plus de 165 cm – sur couche moyenne: largeur de 110 cm et longueur de 200 cm – box de repos adossés à la paroi: largeur de 120 cm et longueur de 240 cm – box de repos opposés: largeur de 120 cm et longueur de 220 cm</td></tr>
+<tr><td>49</td><td>Annexe 1, tableau 3, ch. 21</td><td>Dimensions des logettes pour les truies</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td>Au maximum un tiers des logettes peut avoir les dimensions de 55 cm × 170 cm.</td></tr>
 <tr><td>50</td><td>Annexe 1, tableau 3, ch. 31 et note 7</td><td>Surface pour les verrats (longueur du côté du box)</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
-<tr><td>51</td><td>Annexe 1, tableau 4, ch. 21 et 22</td><td>Largeur de la place à la mangeoire et surface des box pour les moutons</td><td>10 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td>1. Concernant les box existant le 1<sup>er</sup> septembre 2008 dans les stabulations libres, la surface des box sur laquelle les animaux peuvent se déplacer doit être, par animal, de 0,5 m<sup>2</sup> pour les agneaux à l’engrais de 25 à 50 kg, de 0,7 m<sup>2</sup> pour les moutons âgés d’un an de 50 à 60 kg, de 1,0 m<sup>2</sup> pour les brebis de 60 à 70 kg sans agneaux de 1,5 m<sup>2</sup> pour les brebis de 60 à 70 kg avec agneaux et de 1,5 m<sup>2</sup> pour les béliers de plus de 70 kg. 2. Pour les box existant le 1<sup>er</sup> septembre 2008, dans les stabulations libres, la largeur de la place à la mangeoire pour les agneaux à l’engrais doit être de 20 cm pour les agneaux à l’engrais de 25 à 50 kg, de 30 cm pour les moutons âgés d’un an de 50 à 60 kg, de 40 cm pour les brebis de 60 à 70 kg sans agneaux et de 60 cm pour les brebis de 60 à 70 kg avec agneaux, et de 50 cm pour les béliers de plus de 70 kg. Pour les mangeoires circulaires, la largeur peut être diminuée de 40 %.</td></tr>
-<tr><td>52</td><td>Annexe 1, tableau 5, ch. 21, 32 et 33</td><td>Surface des box et des compartiments, nombre de places à la mangeoire pour les chèvres</td><td>10 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td>1. Concernant les box individuels existant le 1<sup>er</sup> septembre 2008, la surface du box doit être, par animal, de 2,5 m<sup>2</sup> pour les chèvres de plus de 12 mois et de 3,0 m<sup>2</sup> pour les boucs. 2. Pour les compartiments existant le 1<sup>er</sup> septembre 2008, la surface du compartiment dans les stabulations libres doit être, par animal, de 0,4 m<sup>2</sup> pour les cabris âgés de moins de 3 mois, de 0,9 m<sup>2</sup> pour les jeunes cabris de moins de 12 mois, de 1,0 m<sup>2</sup> pour les chèvres de plus de 12 mois et de 1,5 m<sup>2</sup> pour les boucs. Au moins 80 % de cette surface doivent être constitués d’une aire de repos. 3. Chaque animal doit disposer d’au moins une place à la mangeoire.</td></tr>
+<tr><td>51</td><td>Annexe 1, tableau 4, ch. 21 et 22</td><td>Largeur de la place à la mangeoire et surface des box pour les moutons</td><td>10 ans</td><td>Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td colspan="3">1. Concernant les box existant le 1<sup>er</sup> septembre 2008 dans les stabulations libres, la surface des box sur laquelle les animaux peuvent se déplacer doit être, par animal, de 0,5 m<sup>2</sup> pour les agneaux à l’engrais de 25 à 50 kg, de 0,7 m<sup>2</sup> pour les moutons âgés d’un an de 50 à 60 kg, de 1,0 m<sup>2</sup> pour les brebis de 60 à 70 kg sans agneaux de 1,5 m<sup>2</sup> pour les brebis de 60 à 70 kg avec agneaux et de 1,5 m<sup>2</sup> pour les béliers de plus de 70 kg. 2. Pour les box existant le 1<sup>er</sup> septembre 2008, dans les stabulations libres, la largeur de la place à la mangeoire pour les agneaux à l’engrais doit être de 20 cm pour les agneaux à l’engrais de 25 à 50 kg, de 30 cm pour les moutons âgés d’un an de 50 à 60 kg, de 40 cm pour les brebis de 60 à 70 kg sans agneaux et de 60 cm pour les brebis de 60 à 70 kg avec agneaux, et de 50 cm pour les béliers de plus de 70 kg. Pour les mangeoires circulaires, la largeur peut être diminuée de 40 %.</td></tr>
+<tr><td>52</td><td>Annexe 1, tableau 5, ch. 21, 32 et 33</td><td>Surface des box et des compartiments, nombre de places à la mangeoire pour les chèvres</td><td>10 ans</td><td>Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td colspan="3">1. Concernant les box individuels existant le 1<sup>er</sup> septembre 2008, la surface du box doit être, par animal, de 2,5 m<sup>2</sup> pour les chèvres de plus de 12 mois et de 3,0 m<sup>2</sup> pour les boucs. 2. Pour les compartiments existant le 1<sup>er</sup> septembre 2008, la surface du compartiment dans les stabulations libres doit être, par animal, de 0,4 m<sup>2</sup> pour les cabris âgés de moins de 3 mois, de 0,9 m<sup>2</sup> pour les jeunes cabris de moins de 12 mois, de 1,0 m<sup>2</sup> pour les chèvres de plus de 12 mois et de 1,5 m<sup>2</sup> pour les boucs. Au moins 80 % de cette surface doivent être constitués d’une aire de repos. 3. Chaque animal doit disposer d’au moins une place à la mangeoire.</td></tr>
 <tr><td>53</td><td>Annexe 1, tableau 5, ch. 12, annotation 2</td><td>Couches perforées</td><td>2 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td>25 % au plus de la couche peuvent être perforés.</td></tr>
 <tr><td>54</td><td>Annexe 1, tableau 7</td><td>Surface pour équidés</td><td>2 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008, si la surface est inférieure à 75 % des dimensions minimales indiquées dans le tableau</td><td>Les équidés doivent pouvoir se coucher, se reposer et se lever de manière conforme à l’espèce.</td></tr>
 <tr><td>55</td><td>Annexe 1, tableau 7</td><td>Surface pour équidés</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008, si la surface est inférieure aux dimensions minimales indiquées dans le tableau, mais supérieure à 75 % des dimensions indiquées</td><td></td></tr>
