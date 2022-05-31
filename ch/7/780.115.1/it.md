@@ -4,11 +4,11 @@ title: Ordinanza del 15 novembre 2017 sugli emolumenti e le indennità per la so
 short: OEm-SCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/34"
 language: it
-version: 2020-07-01
+version: 2022-06-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/34/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2018-34-20200701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/34/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/34/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2018-34-20220601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/34/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,24 +17,29 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/34/20200701/it"
 
 (OEm-SCPT)
 
-del 15 novembre 2017 (Stato 1° luglio 2020)
+del 15 novembre 2017 (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 23 capoverso 3 e 38 capoverso 4 della legge federale del 18 marzo 2016[^ingress-1] sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (LSCPT),[^ingress-2]
+visti gli articoli 38 capoverso 4 e 38*a* della legge federale del 18 marzo 2016[^ingress-1] sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (LSCPT),[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 20 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2061](https://fedlex.data.admin.ch/eli/oc/2020/403)).
+[^ingress-2]: Nuovo testo giusta il n. I 13 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ## Sezione 1: Disposizioni generali
 
 #### Art. 1
 
-**Oggetto**
+**Oggetto**[^1-1]
 
-La presente ordinanza disciplina gli emolumenti e le indennità nel settore della sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni.
+La presente ordinanza disciplina nel settore della sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni:
+
+- a. la partecipazione ai costi sotto forma di emolumenti da parte delle autorità che hanno disposto la sorveglianza;
+- b. le indennità a favore delle persone obbligate a collaborare.
+
+[^1-1]: Nuovo testo giusta il n. I 13 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 2
 
@@ -84,6 +89,8 @@ Se il Servizio SCPT può trasmettere tempestivamente l’annullamento di un mand
 
 <sup>1</sup> Il Servizio SCPT fattura all’autorità che ha disposto la sorveglianza gli emolumenti e le indennità dopo aver trasmesso il proprio mandato alle persone obbligate a collaborare.
 
+<sup>1bis</sup> Nel caso della localizzazione di un potenziale terrorista tramite telefonia mobile secondo l’articolo 23*q* della legge federale del 21 marzo 1997[^5-1] sulle misure per la salvaguardia della sicurezza interna, il Servizio SCPT fattura le prestazioni all’autorità che ha presentato la pertinente richiesta all’Ufficio federale di polizia.[^5-2]
+
 <sup>2</sup> Subito dopo aver confermato l’esecuzione del mandato o aver fornito l’informazione richiesta, le persone obbligate a collaborare sono autorizzate a fatturare al Servizio SCPT le prestazioni fornite.
 
 <sup>3</sup> Stilano una fattura dettagliata per ogni mese civile e la trasmettono al Servizio SCPT entro il quindicesimo giorno lavorativo del mese successivo.
@@ -91,6 +98,9 @@ Se il Servizio SCPT può trasmettere tempestivamente l’annullamento di un mand
 <sup>4</sup> Se a una misura di sorveglianza partecipano più persone obbligate a collaborare, l’indennità è versata alla persona incaricata dal Servizio SCPT.
 
 <sup>5</sup> Per la fatturazione vanno rispettate le prescrizioni del Servizio SCPT concernenti la forma e il contenuto della fattura nonché le modalità di trasmissione. Il Servizio SCPT mette a disposizione delle persone obbligate a collaborare i relativi modelli.
+
+[^5-1]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^5-2]: Introdotto dal n. I 13 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 6
 
@@ -259,7 +269,7 @@ Allegato*[^t-1]*
 
 ## Emolumenti e indennità, IVA inclusa
 
-[^t-1]: Aggionato dal n. II dell’O del 20 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2061](https://fedlex.data.admin.ch/eli/oc/2020/403)).
+[^t-1]: Aggionato dal n. II dell’O del 20 mag. 2020 ([RU 2020 2061](https://fedlex.data.admin.ch/eli/oc/2020/403)) e dal n. I 13 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 <table>
 <tr><th>Gruppo di mandato – Corrispondenza postale</th><th>Tipo di mandato</th><th>Caso</th><th>OSCPT</th><th>Emolumento Servizio SCPT</th><th>Indennità per persone obbligate a collaborare</th></tr>
@@ -269,44 +279,45 @@ Allegato*[^t-1]*
 </table>
 
 <table>
-<tr><th>Gruppo di mandato – Traffico delle telecomunicazioni</th><th>Tipo di mandato</th><th>Caso</th><th>OSCPT</th><th>Emolumento Servizio SCPT</th><th>Indennità per persone obbligate a collaborare</th></tr>
-<tr><td>Informazione</td><td>IR\_4\_NA</td><td>Informazioni su utenti di servizi di accesso alla rete</td><td>Art. 35</td><td>-</td><td>3 fr.</td></tr>
-<tr><td>Informazione</td><td>IR\_5\_NA\_FLEX</td><td>Informazioni su utenti di servizi di accesso alla rete con ricerca flessibile dei nomi</td><td>Art. 27, 35</td><td>-</td><td>3 fr.</td></tr>
-<tr><td>Informazione</td><td>IR\_6\_NA</td><td>Informazioni sui servizi di accesso alla rete</td><td>Art. 36</td><td>75 fr.</td><td>125 fr.</td></tr>
-<tr><td>Informazione</td><td>IR\_7\_IP</td><td>Identificativo dell’utente per indirizzi IP attribuiti in modo univoco</td><td>Art. 37</td><td>-</td><td>3 fr.</td></tr>
-<tr><td>Informazione</td><td>IR\_8\_IP (NAT)</td><td>Identificativo dell’utente per indirizzi IP attribuiti in modo non univoco (NAT)</td><td>Art. 38</td><td>75 fr.</td><td>125 fr.</td></tr>
-<tr><td>Informazione</td><td>IR\_9\_NAT</td><td>Informazioni su processi di traduzione NAT</td><td>Art. 39</td><td>75 fr.</td><td>125 fr.</td></tr>
-<tr><td>Informazione</td><td>IR\_10\_TEL</td><td>Informazioni su utenti di servizi telefonici e multimediali</td><td>Art. 40</td><td>-</td><td>3 fr.</td></tr>
-<tr><td>Informazione</td><td>IR\_11\_TEL\_FLEX</td><td>Informazioni su utenti di servizi telefonici e multimediali con ricerca flessibile dei nomi</td><td>Art. 27, 40</td><td>-</td><td>3 fr.</td></tr>
-<tr><td>Informazione</td><td>IR\_12\_TEL</td><td>Informazioni su servizi telefonici e multimediali</td><td>Art. 41</td><td>75 fr.</td><td>125 fr.</td></tr>
-<tr><td>Informazione</td><td>IR\_13\_EMAIL</td><td>Informazioni su utenti di servizi di posta elettronica</td><td>Art. 42</td><td>-</td><td>3 fr.</td></tr>
-<tr><td>Informazione</td><td>IR\_14\_EMAIL\_FLEX</td><td>Informazioni su utenti di servizi di posta elettronica con ricerca flessibile dei nomi</td><td>Art. 27, 42</td><td>-</td><td>3 fr.</td></tr>
-<tr><td>Informazione</td><td>IR\_15\_COM</td><td>Informazioni su utenti di altri servizi di telecomunicazione o servizi di comunicazione derivati</td><td>Art. 43</td><td>-</td><td>3 fr.</td></tr>
-<tr><td>Informazione</td><td>IR\_16\_COM\_FLEX</td><td>Informazioni su utenti di altri servizi di telecomunicazione o servizi di comunicazione derivati con ricerca flessibile dei nomi</td><td>Art. 27, 43</td><td>-</td><td>3 fr.</td></tr>
-<tr><td>Informazione</td><td>IR\_17\_PAY</td><td>Informazioni sulle modalità di pagamento degli utenti di servizi di telecomunicazione e servizi di comunicazione derivati</td><td>Art. 44</td><td>75 fr.</td><td>125 fr.</td></tr>
-<tr><td>Informazione</td><td>IR\_18\_ID</td><td>Tipo di informazione – Copia del documento d’identità</td><td>Art. 45</td><td>75 fr.</td><td>125 fr.</td></tr>
-<tr><td>Informazione</td><td>IR\_19\_BILL</td><td>Tipo di informazione – Copia della fattura</td><td>Art. 46</td><td>75 fr.</td><td>125 fr.</td></tr>
-<tr><td>Informazione</td><td>IR\_20\_CONTRACT</td><td>Tipo di informazione – Copia del contratto</td><td>Art. 47</td><td>75 fr.</td><td>125 fr.</td></tr>
-<tr><td>Informazione</td><td>IR\_21\_TECH</td><td>Dati tecnici</td><td>Art. 48</td><td>75 fr.</td><td>125 fr.</td></tr>
-<tr><td>Sorveglianza in tempo reale</td><td>RT\_22\_NA\_IRI</td><td>Servizi di accesso alla rete – Sorveglianza in tempo reale «solo metadati»</td><td>Art. 54</td><td>1800 fr.</td><td>640 fr.</td></tr>
-<tr><td>Sorveglianza in tempo reale</td><td>RT\_23\_NA\_CC\_IRI</td><td>Servizi di accesso alla rete – Sorveglianza in tempo reale «contenuto e metadati»</td><td>Art. 55</td><td>2650 fr.</td><td>1330 fr.</td></tr>
-<tr><td>Sorveglianza in tempo reale</td><td>RT\_24\_TEL\_IRI</td><td>Servizi telefonici e multimediali – Sorveglianza in tempo reale «solo metadati»</td><td>Art. 56</td><td>1800 fr.</td><td>640 fr.</td></tr>
-<tr><td>Sorveglianza in tempo reale</td><td>RT\_25\_TEL\_CC\_IRI</td><td>Servizi telefonici e multimediali – Sorveglianza in tempo reale «contenuto e metadati»</td><td>Art. 57</td><td>2650 fr.</td><td>1330 fr.</td></tr>
-<tr><td>Sorveglianza in tempo reale</td><td>RT\_26\_EMAIL\_IRI</td><td>Servizi di posta elettronica – Sorveglianza in tempo reale «solo metadati»</td><td>Art. 58</td><td>1800 fr.</td><td>640 fr.</td></tr>
-<tr><td>Sorveglianza in tempo reale</td><td>RT\_27\_EMAIL\_CC\_IRI</td><td>Servizi di posta elettronica – Sorveglianza in tempo reale «contenuto e metadati»</td><td>Art. 59</td><td>2650 fr.</td><td>1330 fr.</td></tr>
-<tr><td>Sorveglianza retroattiva</td><td>HD\_28\_NA</td><td>Servizi di accesso alla rete – Sorveglianza retroattiva</td><td>Art. 60</td><td>700 fr.</td><td>500 fr.</td></tr>
-<tr><td>Sorveglianza retroattiva</td><td>HD\_29\_TEL</td><td>Servizi telefonici e multimediali – Sorveglianza retroattiva</td><td>Art. 61</td><td>700 fr.</td><td>500 fr.</td></tr>
-<tr><td>Sorveglianza retroattiva</td><td>HD\_30\_EMAIL</td><td>Servizi di posta elettronica – Sorveglianza retroattiva</td><td>Art. 62</td><td>700 fr.</td><td>500 fr.</td></tr>
-<tr><td>Sorveglianza retroattiva</td><td>HD\_31\_PAGING</td><td>Determinazione dell’ultima attività dell’apparecchiatura terminale mobile</td><td>Art. 63</td><td>100 fr.</td><td>350 fr.</td></tr>
-<tr><td>Sorveglianza retroattiva</td><td>AS\_32\_PREP\_COV</td><td>Analisi della copertura di rete in vista di una ricerca per zona di copertura dell’antenna</td><td>Art. 64</td><td>400 fr.</td><td>2000 fr.</td></tr>
-<tr><td>Sorveglianza retroattiva</td><td>AS\_33\_PREP\_REF</td><td>Comunicazioni di riferimento o accessi alla rete di riferimento in vista di una ricerca per zona di copertura dell’antenna</td><td>Art. 65</td><td>400 fr.</td><td>2000 fr.</td></tr>
-<tr><td>Sorveglianza retroattiva</td><td>AS\_34</td><td>Ricerca per zona di copertura dell’antenna; prima cella Emolumento/indennità all’inizio di ogni periodo di 2 ore</td><td>Art. 66</td><td>700 fr.</td><td>500 fr.</td></tr>
-<tr><td>Sorveglianza retroattiva</td><td>AS\_34\_MORE</td><td>Ricerca per zona di copertura dell’antenna; altre celle Emolumento/indennità all’inizio di ogni periodo di 2 ore</td><td>Art. 66</td><td>100 fr.</td><td>100 fr.</td></tr>
-<tr><td>Ricerca d’emergenza</td><td>EP\_35\_PAGING</td><td>Ultima posizione attiva del terminale mobile</td><td>Art. 67 lett. a</td><td>50 fr.</td><td>250 fr.</td></tr>
-<tr><td>Ricerca d’emergenza</td><td>EP\_36\_RT\_CC\_IRI</td><td>Sorveglianza in tempo reale «contenuto e metadati»</td><td>Art. 67 lett. b</td><td>50 fr.</td><td>750 fr.</td></tr>
-<tr><td>Ricerca d’emergenza</td><td>EP\_37\_RT\_IRI</td><td>Sorveglianza in tempo reale «solo metadati»</td><td>Art. 67 lett. c</td><td>50 fr.</td><td>750 fr.</td></tr>
-<tr><td>Ricerca d’emergenza</td><td>EP\_38\_HD</td><td>Sorveglianza retroattiva</td><td>Art. 67 lett. d</td><td>50 fr.</td><td>700 fr.</td></tr>
-<tr><td>Ricerca di condannati</td><td colspan="5">Gli emolumenti e le indennità per la ricerca di condannati sono fissati secondo le regole del tipo di sorveglianza scelto.</td></tr>
+<tr><th>Gruppo di mandato – Traffico delle telecomunicazioni</th><th>Tipo di mandato</th><th colspan="2">Caso</th><th>OSCPT</th><th>Emolumento Servizio SCPT</th><th colspan="2">Indennità per persone obbligate a collaborare</th></tr>
+<tr><td>Informazione</td><td>IR\_4\_NA</td><td colspan="2">Informazioni su utenti di servizi di accesso alla rete</td><td>Art. 35</td><td>-</td><td colspan="2">3 fr.</td></tr>
+<tr><td>Informazione</td><td>IR\_5\_NA\_FLEX</td><td colspan="2">Informazioni su utenti di servizi di accesso alla rete con ricerca flessibile dei nomi</td><td>Art. 27, 35</td><td>-</td><td colspan="2">3 fr.</td></tr>
+<tr><td>Informazione</td><td>IR\_6\_NA</td><td colspan="2">Informazioni sui servizi di accesso alla rete</td><td>Art. 36</td><td>75 fr.</td><td colspan="2">125 fr.</td></tr>
+<tr><td>Informazione</td><td>IR\_7\_IP</td><td colspan="2">Identificativo dell’utente per indirizzi IP attribuiti in modo univoco</td><td>Art. 37</td><td>-</td><td colspan="2">3 fr.</td></tr>
+<tr><td>Informazione</td><td>IR\_8\_IP (NAT)</td><td colspan="2">Identificativo dell’utente per indirizzi IP attribuiti in modo non univoco (NAT)</td><td>Art. 38</td><td>75 fr.</td><td colspan="2">125 fr.</td></tr>
+<tr><td>Informazione</td><td>IR\_9\_NAT</td><td colspan="2">Informazioni su processi di traduzione NAT</td><td>Art. 39</td><td>75 fr.</td><td colspan="2">125 fr.</td></tr>
+<tr><td>Informazione</td><td>IR\_10\_TEL</td><td colspan="2">Informazioni su utenti di servizi telefonici e multimediali</td><td>Art. 40</td><td>-</td><td colspan="2">3 fr.</td></tr>
+<tr><td>Informazione</td><td>IR\_11\_TEL\_FLEX</td><td colspan="2">Informazioni su utenti di servizi telefonici e multimediali con ricerca flessibile dei nomi</td><td>Art. 27, 40</td><td>-</td><td colspan="2">3 fr.</td></tr>
+<tr><td>Informazione</td><td>IR\_12\_TEL</td><td colspan="2">Informazioni su servizi telefonici e multimediali</td><td>Art. 41</td><td>75 fr.</td><td colspan="2">125 fr.</td></tr>
+<tr><td>Informazione</td><td>IR\_13\_EMAIL</td><td colspan="2">Informazioni su utenti di servizi di posta elettronica</td><td>Art. 42</td><td>-</td><td colspan="2">3 fr.</td></tr>
+<tr><td>Informazione</td><td>IR\_14\_EMAIL\_FLEX</td><td colspan="2">Informazioni su utenti di servizi di posta elettronica con ricerca flessibile dei nomi</td><td>Art. 27, 42</td><td>-</td><td colspan="2">3 fr.</td></tr>
+<tr><td>Informazione</td><td>IR\_15\_COM</td><td colspan="2">Informazioni su utenti di altri servizi di telecomunicazione o servizi di comunicazione derivati</td><td>Art. 43</td><td>-</td><td colspan="2">3 fr.</td></tr>
+<tr><td>Informazione</td><td>IR\_16\_COM\_FLEX</td><td colspan="2">Informazioni su utenti di altri servizi di telecomunicazione o servizi di comunicazione derivati con ricerca flessibile dei nomi</td><td>Art. 27, 43</td><td>-</td><td colspan="2">3 fr.</td></tr>
+<tr><td>Informazione</td><td>IR\_17\_PAY</td><td colspan="2">Informazioni sulle modalità di pagamento degli utenti di servizi di telecomunicazione e servizi di comunicazione derivati</td><td>Art. 44</td><td>75 fr.</td><td colspan="2">125 fr.</td></tr>
+<tr><td>Informazione</td><td>IR\_18\_ID</td><td colspan="2">Tipo di informazione – Copia del documento d’identità</td><td>Art. 45</td><td>75 fr.</td><td colspan="2">125 fr.</td></tr>
+<tr><td>Informazione</td><td>IR\_19\_BILL</td><td colspan="2">Tipo di informazione – Copia della fattura</td><td>Art. 46</td><td>75 fr.</td><td colspan="2">125 fr.</td></tr>
+<tr><td>Informazione</td><td>IR\_20\_CONTRACT</td><td colspan="2">Tipo di informazione – Copia del contratto</td><td>Art. 47</td><td>75 fr.</td><td colspan="2">125 fr.</td></tr>
+<tr><td>Informazione</td><td>IR\_21\_TECH</td><td colspan="2">Dati tecnici</td><td>Art. 48</td><td>75 fr.</td><td colspan="2">125 fr.</td></tr>
+<tr><td>Sorveglianza in tempo reale</td><td>RT\_22\_NA\_IRI</td><td colspan="2">Servizi di accesso alla rete – Sorveglianza in tempo reale «solo metadati»</td><td>Art. 54</td><td>1800 fr.</td><td colspan="2">640 fr.</td></tr>
+<tr><td>Sorveglianza in tempo reale</td><td>RT\_23\_NA\_CC\_IRI</td><td colspan="2">Servizi di accesso alla rete – Sorveglianza in tempo reale «contenuto e metadati»</td><td>Art. 55</td><td>2650 fr.</td><td colspan="2">1330 fr.</td></tr>
+<tr><td>Sorveglianza in tempo reale</td><td>RT\_24\_TEL\_IRI</td><td colspan="2">Servizi telefonici e multimediali – Sorveglianza in tempo reale «solo metadati»</td><td>Art. 56</td><td>1800 fr.</td><td colspan="2">640 fr.</td></tr>
+<tr><td>Sorveglianza in tempo reale</td><td>RT\_25\_TEL\_CC\_IRI</td><td colspan="2">Servizi telefonici e multimediali – Sorveglianza in tempo reale «contenuto e metadati»</td><td>Art. 57</td><td>2650 fr.</td><td colspan="2">1330 fr.</td></tr>
+<tr><td>Sorveglianza in tempo reale</td><td>RT\_26\_EMAIL\_IRI</td><td colspan="2">Servizi di posta elettronica – Sorveglianza in tempo reale «solo metadati»</td><td>Art. 58</td><td>1800 fr.</td><td colspan="2">640 fr.</td></tr>
+<tr><td>Sorveglianza in tempo reale</td><td>RT\_27\_EMAIL\_CC\_IRI</td><td colspan="2">Servizi di posta elettronica – Sorveglianza in tempo reale «contenuto e metadati»</td><td>Art. 59</td><td>2650 fr.</td><td colspan="2">1330 fr.</td></tr>
+<tr><td>Sorveglianza retroattiva</td><td>HD\_28\_NA</td><td colspan="2">Servizi di accesso alla rete – Sorveglianza retroattiva</td><td>Art. 60</td><td>700 fr.</td><td colspan="2">500 fr.</td></tr>
+<tr><td>Sorveglianza retroattiva</td><td>HD\_29\_TEL</td><td colspan="2">Servizi telefonici e multimediali – Sorveglianza retroattiva</td><td>Art. 61</td><td>700 fr.</td><td colspan="2">500 fr.</td></tr>
+<tr><td>Sorveglianza retroattiva</td><td>HD\_30\_EMAIL</td><td colspan="2">Servizi di posta elettronica – Sorveglianza retroattiva</td><td>Art. 62</td><td>700 fr.</td><td colspan="2">500 fr.</td></tr>
+<tr><td>Sorveglianza retroattiva</td><td>HD\_31\_PAGING</td><td colspan="2">Determinazione dell’ultima attività dell’apparecchiatura terminale mobile</td><td>Art. 63</td><td>100 fr.</td><td colspan="2">350 fr.</td></tr>
+<tr><td>Sorveglianza retroattiva</td><td>AS\_32\_PREP\_COV</td><td colspan="2">Analisi della copertura di rete in vista di una ricerca per zona di copertura dell’antenna</td><td>Art. 64</td><td>400 fr.</td><td colspan="2">2000 fr.</td></tr>
+<tr><td>Sorveglianza retroattiva</td><td>AS\_33\_PREP\_REF</td><td colspan="2">Comunicazioni di riferimento o accessi alla rete di riferimento in vista di una ricerca per zona di copertura dell’antenna</td><td>Art. 65</td><td>400 fr.</td><td colspan="2">2000 fr.</td></tr>
+<tr><td>Sorveglianza retroattiva</td><td>AS\_34</td><td colspan="2">Ricerca per zona di copertura dell’antenna; prima cella Emolumento/indennità all’inizio di ogni periodo di 2 ore</td><td>Art. 66</td><td>700 fr.</td><td colspan="2">500 fr.</td></tr>
+<tr><td>Sorveglianza retroattiva</td><td>AS\_34\_MORE</td><td colspan="2">Ricerca per zona di copertura dell’antenna; altre celle Emolumento/indennità all’inizio di ogni periodo di 2 ore</td><td>Art. 66</td><td>100 fr.</td><td colspan="2">100 fr.</td></tr>
+<tr><td>Ricerca d’emergenza</td><td>EP\_35\_PAGING</td><td colspan="2">Ultima posizione attiva del terminale mobile</td><td>Art. 67 lett. a</td><td>50 fr.</td><td colspan="2">250 fr.</td></tr>
+<tr><td>Ricerca d’emergenza</td><td>EP\_36\_RT\_CC\_IRI</td><td colspan="2">Sorveglianza in tempo reale «contenuto e metadati»</td><td>Art. 67 lett. b</td><td>50 fr.</td><td colspan="2">750 fr.</td></tr>
+<tr><td>Ricerca d’emergenza</td><td>EP\_37\_RT\_IRI</td><td colspan="2">Sorveglianza in tempo reale «solo metadati»</td><td>Art. 67 lett. c</td><td>50 fr.</td><td colspan="2">750 fr.</td></tr>
+<tr><td>Ricerca d’emergenza</td><td>EP\_38\_HD</td><td colspan="2">Sorveglianza retroattiva</td><td>Art. 67 lett. d</td><td>50 fr.</td><td colspan="2">700 fr.</td></tr>
+<tr><td>Localizzazione di potenziali terroristi tramite telefonia mobile</td><td colspan="2">ML\_50\_RT</td><td>Localizzazione in tempo reale tramite telefonia mobile</td><td>Art. 68*a*</td><td colspan="2">2 000 fr.</td><td>900 fr.</td></tr>
+<tr><td>Ricerca di condannati</td><td colspan="2">Gli emolumenti e le indennità per ricerche di condannati sono fissati secondo le regole del tipo di sorveglianza scelto.</td><td></td><td></td><td colspan="2"></td><td></td></tr>
 </table>
 
 <table>

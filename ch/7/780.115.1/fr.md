@@ -4,11 +4,11 @@ title: Ordonnance du 15 novembre 2017 sur les émoluments et les indemnités en 
 short: OEI-SCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/34"
 language: fr
-version: 2020-07-01
+version: 2022-06-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/34/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2018-34-20200701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/34/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/34/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2018-34-20220601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/34/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,24 +17,29 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/34/20200701/fr"
 
 (OEI-SCPT)
 
-du 15 novembre 2017 (Etat le 1<sup>er</sup> juillet 2020)
+du 15 novembre 2017 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
-vu les art. 23, al. 3, et 38, al. 4, de la loi fédérale du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication (LSCPT)[^ingress-1],[^ingress-2]
+vu les art. 38, al. 4, et 38*a* de la loi fédérale du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication (LSCPT)[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2061](https://fedlex.data.admin.ch/eli/oc/2020/403)).
+[^ingress-2]: Nouvelle teneur selon le ch. I 13 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ## Section 1 Dispositions générales
 
 #### Art. 1
 
-**Objet**
+**Objet**[^1-1]
 
-La présente ordonnance règle les émoluments et les indemnités en matière de surveillance de la correspondance par poste et télécommunication.
+La présente ordonnance règle en matière de surveillance de la correspondance par poste et télécommunication:
+
+- a. la participation aux coûts des autorités habilitées à ordonner une surveillance sous la forme d’émoluments;
+- b. les indemnités en faveur des personnes obligées de collaborer.
+
+[^1-1]: Nouvelle teneur selon le ch. I 13 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 2
 
@@ -84,6 +89,8 @@ Si le Service SCPT parvient à annuler à temps, conformément aux prescriptions
 
 <sup>1</sup> Après avoir transmis son mandat aux personnes obligées de collaborer, le Service SCPT facture à l’autorité ayant ordonné la surveillance les émoluments et les indemnités dus.
 
+<sup>1bis</sup> En cas de localisation d’un terroriste potentiel par téléphonie mobile en vertu de l’art. 23*q* de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^5-1], le service SCPT facture ses prestations à l’autorité qui en a fait la demande auprès de l’Office fédéral de la police.[^5-2]
+
 <sup>2</sup> Les personnes obligées de collaborer sont autorisées à facturer leurs prestations au Service SCPT aussitôt qu’elles lui ont confirmé que le mandat a été exécuté ou qu’elles ont livré le renseignement demandé.
 
 <sup>3</sup> Elles établissent tous les mois une facture détaillée; elles ont jusqu’au quinzième jour ouvré du mois suivant pour la transmettre au Service SCPT.
@@ -91,6 +98,9 @@ Si le Service SCPT parvient à annuler à temps, conformément aux prescriptions
 <sup>4</sup> Si plusieurs personnes obligées de collaborer participent à une mesure de surveillance, l’indemnité est versée à celle que le Service SCPT a mandatée.
 
 <sup>5</sup> Les personnes obligées de collaborer sont tenues de respecter les prescriptions fixées par le Service SCPT concernant la forme et le contenu des factures, ainsi que les modalités de leur transmission. Le Service SCPT met des modèles à leur disposition.
+
+[^5-1]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^5-2]: Introduit par le ch. I 13 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 6
 
@@ -259,7 +269,7 @@ Annexe*[^t-1]*
 
 ## Liste des émoluments et des indemnités, TVA comprise
 
-[^t-1]: Mise à jour par le ch. II de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2061](https://fedlex.data.admin.ch/eli/oc/2020/403)).
+[^t-1]: Mise à jour par le ch. II de l’O du 20 mai 2020 ([RO 2020 2061](https://fedlex.data.admin.ch/eli/oc/2020/403)) et le ch. I 13 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 <table>
 <tr><th>Groupe de mandats correspondance par poste</th><th>Type de mandat</th><th>Détail de la mesure</th><th>OSCPT</th><th>Émolument du Service SCPT</th><th>Indemnité aux personnes obligées de collaborer</th></tr>
@@ -306,6 +316,7 @@ Annexe*[^t-1]*
 <tr><td>Recherche en cas d’urgence</td><td>EP\_36\_RT\_CC\_IRI</td><td>Surveillance en temps réel du contenu et des données secondaires</td><td>Art. 67, let. b</td><td>Fr. 50</td><td>Fr. 750</td></tr>
 <tr><td>Recherche en cas d’urgence</td><td>EP\_37\_RT\_IRI</td><td>Surveillance en temps réel des données secondaires uniquement</td><td>Art. 67, let. c</td><td>Fr. 50</td><td>Fr. 750</td></tr>
 <tr><td>Recherche en cas d’urgence</td><td>EP\_38\_HD</td><td>Surveillance rétroactive</td><td>Art. 67, let. d</td><td>Fr. 50</td><td>Fr. 700</td></tr>
+<tr><td>Localisation par téléphonie mobile de terroristes potentiels</td><td>ML\_50\_RT</td><td>Localisation par téléphonie mobile en temps réel</td><td>Art. 68*a*</td><td>Fr. 2000</td><td>Fr. 900</td></tr>
 <tr><td>Recherche de personnes condamnées</td><td colspan="5">Les émoluments et les indemnités applicables sont fonction du type de mesures de surveillance mises en œuvre.</td></tr>
 </table>
 

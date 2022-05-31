@@ -4,11 +4,11 @@ title: Verordnung vom 15. November 2017 über die Gebühren und Entschädigungen
 short: GebV-ÜPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/34"
 language: de
-version: 2020-07-01
+version: 2022-06-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/34/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2018-34-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/34/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/34/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2018-34-20220601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/34/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,24 +17,29 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/34/20200701/de"
 
 (GebV-ÜPF)
 
-vom 15. November 2017 (Stand am 1. Juli 2020)
+vom 15. November 2017 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 23 Absatz 3 und 38 Absatz 4 des Bundesgesetzes vom 18. März 2016[^ingress-1] betreffend die Überwachung des Post- und Fernmeldeverkehrs (BÜPF),[^ingress-2]
+gestützt auf Artikel 38 Absatz 4 und 38*a* des Bundesgesetzes vom 18. März 2016[^ingress-1] betreffend die Überwachung des Post- und Fernmeldeverkehrs (BÜPF),[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^ingress-2]: Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2061](https://fedlex.data.admin.ch/eli/oc/2020/403)).
+[^ingress-2]: Fassung gemäss Ziff. I 13 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Gegenstand**
+**Gegenstand**[^1-1]
 
-Diese Verordnung regelt die Gebühren und Entschädigungen im Bereich der Überwachung des Post- und Fernmeldeverkehrs.
+Diese Verordnung regelt im Bereich der Überwachung des Post- und Fernmeldeverkehrs:
+
+- a. die Kostenbeteiligung der anordnenden Behörden in Form von Gebühren;
+- b. die Entschädigungen zugunsten der Mitwirkungspflichtigen.
+
+[^1-1]: Fassung gemäss Ziff. I 13 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 2
 
@@ -84,6 +89,8 @@ Bei einer Annullation eines Überwachungsauftrags, die der Dienst ÜPF gegenübe
 
 <sup>1</sup> Der Dienst ÜPF stellt der anordnenden Behörde nach Übermittlung seines Auftrags an die Mitwirkungspflichtigen Rechnung über die Gebühren und die Entschädigungen.
 
+<sup>1bis</sup> Bei der Mobilfunklokalisierung einer terroristischen Gefährderin oder eines terroristischen Gefährders nach Artikel 23*q* des Bundesgesetzes vom 21. März 1997[^5-1] über Massnahmen zur Wahrung der inneren Sicherheit stellt der Dienst ÜPF derjenigen Behörde Rechnung, die die Lokalisierung über Mobilfunk beim Bundesamt für Polizei beantragt hat.[^5-2]
+
 <sup>2</sup> Die Mitwirkungspflichtigen sind berechtigt, dem Dienst ÜPF Rechnung zu stellen, sobald sie ihm die Ausführung des Auftrags bestätigt oder die verlangte Auskunft erteilt haben.
 
 <sup>3</sup> Sie erstellen pro Kalendermonat eine detaillierte Rechnung und reichen diese dem Dienst ÜPF bis zum fünfzehnten Arbeitstag des Folgemonats ein.
@@ -91,6 +98,9 @@ Bei einer Annullation eines Überwachungsauftrags, die der Dienst ÜPF gegenübe
 <sup>4</sup> Sind an einer Überwachungsmassnahme mehrere Mitwirkungspflichtige beteiligt, so wird die Entschädigung an die vom Dienst ÜPF beauftragte Mitwirkungspflichtige entrichtet.
 
 <sup>5</sup> Bei der Rechnungsstellung sind die Vorgaben des Dienstes ÜPF über die Form und den Inhalt der Rechnung sowie die Übertragungsmodalitäten zu beachten. Der Dienst ÜPF stellt den Mitwirkungspflichtigen entsprechende Vorlagen zur Verfügung.
+
+[^5-1]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^5-2]: Eingefügt durch Ziff. I 13 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 6
 
@@ -253,13 +263,13 @@ Die Verordnung vom 7. April 2004[^20-1] über die Gebühren und Entschädigungen
 
 Diese Verordnung tritt am 1. März 2018 in Kraft.
 
-Anhang[^t-1]
+Anhang*[^t-1]*
 
 (Art. 3 Abs. 1 und 17 Abs. 1)
 
 ## Gebühren und Entschädigungen inklusive Mehrwertsteuer
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 20. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2061](https://fedlex.data.admin.ch/eli/oc/2020/403)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 20. Mai 2020 ([AS 2020 2061](https://fedlex.data.admin.ch/eli/oc/2020/403)) und Ziff. I 13 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 (AS **2022**.
 
 <table>
 <tr><th>Auftragsgruppe Postverkehr</th><th>Auftragstyp</th><th>Geschäftsfall</th><th>VÜPF</th><th>Gebühr Dienst ÜPF</th><th>Entschädigung Mitwirkungspflichtige</th></tr>
@@ -306,6 +316,7 @@ Anhang[^t-1]
 <tr><td>Notsuche</td><td>EP\_36\_RT\_CC\_IRI</td><td>Echtzeitüberwachung «Inhalt und Randdaten»</td><td>Art. 67 Bst. b</td><td>Fr. 50</td><td>Fr. 750</td></tr>
 <tr><td>Notsuche</td><td>EP\_37\_RT\_IRI</td><td>Echtzeitüberwachung «nur Randdaten»</td><td>Art. 67 Bst. c</td><td>Fr. 50</td><td>Fr. 750</td></tr>
 <tr><td>Notsuche</td><td>EP\_38\_HD</td><td>Rückwirkende Überwachung</td><td>Art. 67 Bst. d</td><td>Fr. 50</td><td>Fr. 700</td></tr>
+<tr><td>Mobilfunklokalisierung terroristischer Gefährder/innen</td><td>ML\_50\_RT</td><td>Mobilfunklokalisierung in Echtzeit</td><td>Art. 68*a*</td><td>Fr. 2000</td><td>Fr. 900</td></tr>
 <tr><td>Fahndung</td><td colspan="5">Die Gebühren und Entschädigungen für Fahndungen werden gemäss der Regelung für den gewählten Überwachungstyp festgelegt.</td></tr>
 </table>
 
