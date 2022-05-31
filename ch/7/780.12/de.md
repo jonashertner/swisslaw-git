@@ -4,11 +4,11 @@ title: Verordnung vom 15. November 2017 über das Verarbeitungssystem für die �
 short: VVS-ÜPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/36"
 language: de
-version: 2018-03-01
+version: 2022-06-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/36/20180301/de/xml/fedlex-data-admin-ch-eli-cc-2018-36-20180301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20180301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/36/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2018-36-20220601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20180301/de"
 
 (VVS-ÜPF)
 
-vom 15. November 2017 (Stand am 1. März 2018)
+vom 15. November 2017 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -228,12 +228,16 @@ Die Überwachungsdaten stehen den Behörden mittels Abrufverfahren mit sämtlich
 - a. dem Eintritt der Rechtskraft des Entscheids, mit dem das betreffende Strafverfahren abgeschlossen wird;
 - b. sechs Monate nach dem Abschluss der Operation des Nachrichtendienstes des Bundes (NDB);
 - c. sechs Monate nach Abschluss der Notsuche;
-- d. sechs Monate nach Abschluss der Fahndung; oder
+- d. sechs Monate nach Abschluss der Fahndung;
+- d<sup>bis</sup>.[^13-1] 100 Tage nach Abschluss der Mobilfunklokalisierung einer terroristischen Gefährderin oder eines terroristischen Gefährders gemäss Artikel 23*q* Absatz 3 des Bundesgesetzes vom 21. März 1997[^13-2] über Massnahmen zur Wahrung der inneren Sicherheit; besteht gemäss Artikel 11 Absatz 4<sup>ter</sup> BÜPF ein konkreter Grund zur Annahme, dass die Daten in einem Strafverfahren benötigt werden, so ist Buchstabe a anwendbar; oder
 - e. dem Versand der Datenträger oder Dokumente an die Behörde zur Übermittlung an eine ausländische Behörde im Rahmen eines internationalen Rechtshilfeverfahrens.
 
 <sup>2</sup> Anschliessend werden die Daten mit verminderten Bearbeitungsfunktionen bis zum Ende der Aufbewahrungsdauer nach Artikel 11 BÜPF über einen längeren Zeitraum im Verarbeitungssystem aufbewahrt. Die zuständige Behörde kann anordnen, dass die Daten schon früher in dieser Art gehalten werden.
 
 <sup>3</sup> Im Fall umfassender technischer Änderungen am Verarbeitungssystem stehen den Behörden die Daten noch während sechs bis zwölf Monaten nach der Änderung mit sämtlichen Bearbeitungsfunktionen zur Verfügung.
+
+[^13-1]: Eingefügt durch Ziff. I 14 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^13-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 
 #### Art. 14
 

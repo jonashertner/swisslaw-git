@@ -4,11 +4,11 @@ title: Ordonnance du 15 novembre 2017 sur le système de traitement pour la surv
 short: OST-SCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/36"
 language: fr
-version: 2018-03-01
+version: 2022-06-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/36/20180301/fr/xml/fedlex-data-admin-ch-eli-cc-2018-36-20180301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20180301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/36/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2018-36-20220601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20180301/fr"
 
 (OST-SCPT)
 
-du 15 novembre 2017 (Etat le 1<sup>er</sup> mars 2018)
+du 15 novembre 2017 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -228,12 +228,16 @@ Les données des surveillances sont à la disposition des autorités par une pro
 - a. jusqu’à l’entrée en force de la décision qui clôt la procédure pénale concernée;
 - b. jusqu’à six mois après la fin de l’opération du Service de renseignement de la Confédération (SRC);
 - c. jusqu’à six mois après la fin de la recherche en cas d’urgence;
-- d. jusqu’à six mois après la fin de la recherche d’une personne condamnée, ou
+- d. jusqu’à six mois après la fin de la recherche d’une personne condamnée;
+- d<sup>bis</sup> [^13-1] cent jours après la fin de la localisation par téléphonie mobile de terroristes potentiels en vertu de l’art. 23*q*, al. 3, de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^13-2]; s’il existe, en vertu de l’art. 11, al. 4<sup>ter</sup>, LSCPT, une raison concrète de penser que les données serviront dans une procédure pénale, la let. a est applicable, ou
 - e. jusqu’à l’envoi des supports de données ou documents aux autorités pour transmission à une autorité étrangère dans le cadre d’une procédure d’entraide judiciaire internationale.
 
 <sup>2</sup> Les données restent ensuite disponibles dans le système de traitement pendant une période prolongée, mais avec des fonctions de traitement réduites, jusqu’à la fin de la durée de conservation selon l’art. 11 LSCPT. L’autorité compétente peut demander plus tôt déjà que les données soient conservées de cette façon.
 
 <sup>3</sup> En cas de modifications techniques de grande ampleur apportées au système de traitement, les données sont encore à la disposition des autorités pendant une durée de six à douze mois avec l’ensemble des fonctions de traitement.
+
+[^13-1]: Introduite par le ch. I 14 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^13-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 
 #### Art. 14
 

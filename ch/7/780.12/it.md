@@ -4,11 +4,11 @@ title: Ordinanza del 15 novembre 2017 sul sistema di trattamento per la sorvegli
 short: OST-SCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/36"
 language: it
-version: 2018-03-01
+version: 2022-06-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/36/20180301/it/xml/fedlex-data-admin-ch-eli-cc-2018-36-20180301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20180301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/36/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2018-36-20220601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/36/20180301/it"
 
 (OST-SCPT)
 
-del 15 novembre 2017 (Stato 1° marzo 2018)
+del 15 novembre 2017 (Stato 1° giugno 2022) (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -228,12 +228,16 @@ I dati delle sorveglianze restano a disposizione delle autorità mediante proced
 - a. al passaggio in giudicato della decisione che conclude il procedimento penale in questione;
 - b. sei mesi dopo la fine dell’operazione del SIC;
 - c. per sei mesi dopo la fine della ricerca d’emergenza;
-- d. per sei mesi dopo la fine della ricerca di condannati; o
+- d. per sei mesi dopo la fine della ricerca di condannati;
+- d<sup>bis</sup>.[^13-1] a 100 giorni dalla fine della localizzazione di un potenziale terrorista tramite telefonia mobile secondo l’articolo 23*q* capoverso 3 della legge federale del 21 marzo 1997[^13-2] sulle misure per la salvaguardia della sicurezza interna; se conformemente all’articolo 11 capoverso 4<sup>ter</sup> LSCPT sussiste un motivo concreto per ritenere che tali dati possano servire in un procedimento penale, si applica la lettera a; o
 - e. all’invio dei supporti di dati o dei documenti all’autorità affinché li trasmetta a un’autorità estera nell’ambito di una procedura di assistenza giudiziaria internazionale.
 
 <sup>2</sup> Successivamente i dati vengono conservati nel sistema di trattamento per un periodo prolungato, con funzioni per il trattamento ridotte, sino alla fine del termine di conservazione di cui all’articolo 11 LSCPT. L’autorità competente può ordinare che i dati siano già precedentemente conservati in questo modo.
 
 <sup>3</sup> In caso di modifiche tecniche sostanziali al sistema di trattamento, i dati restano ancora a disposizione delle autorità per un periodo di sei–12 mesi con tutte le funzioni per il trattamento.
+
+[^13-1]: Introdotta dal n. I 14 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^13-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 
 #### Art. 14
 
@@ -287,7 +291,7 @@ Allegato
 <table>
 <tr><th>Gruppi di persone autorizzati</th><th>1. Servizio SCPT</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><th>Funzione</th><th>1.1 Svolgimento del mandato</th><th>1.2 Amministrazione tecnica</th><th>1.3 Controlling</th><th>1.4 Supporto tecnico</th><th>1.5 Finanze</th><th>1.6 Formazione</th><th>1.7 Gestione tecnica e sviluppo</th></tr>
-<tr><th>a. Amministrazione degli utenti</th><th>D</th><th>D</th><th>G</th><th></th><th>M</th><th></th><th>D</th></tr>
+<tr><td>a. Amministrazione degli utenti</td><td>D</td><td>D</td><td>G</td><td></td><td>M</td><td></td><td>D</td></tr>
 <tr><td>b. Manutenzione, riparazione, test e gestione del sistema</td><td>M</td><td>D</td><td></td><td>D</td><td></td><td></td><td>D</td></tr>
 <tr><td>c. Contabilità</td><td>M</td><td></td><td>A</td><td></td><td>D</td><td></td><td></td></tr>
 <tr><td>d. Controllo delle pratiche</td><td>M</td><td>M</td><td>G</td><td></td><td>M</td><td></td><td></td></tr>
