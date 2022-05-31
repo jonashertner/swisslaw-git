@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur le transport international de voyageurs et de marchandises par route
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sui trasporti internazionali di viaggiatori e di merci su strada
 document: Progetto posto in consultazione
 language: it

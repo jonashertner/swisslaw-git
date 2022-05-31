@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über den internationalen Personen- und Güterverkehr auf der Strasse
 document: Vernehmlassungsvorlage
 language: de
