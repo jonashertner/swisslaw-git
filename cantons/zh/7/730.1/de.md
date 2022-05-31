@@ -4,11 +4,11 @@ number: "730.1"
 title: Energiegesetz (EnerG)
 short: EnerG
 language: de
-version: "2016-01-01"
-nachtrag: "91"
-valid_until: 2022-06-01
+version: "2022-06-01"
+nachtrag: "117"
+valid_until: 2022-09-01
 adopted: 1983-06-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-730_1-1983_06_19-1986_07_01-091.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-730_1-1983_06_19-1986_07_01-117.html"
 text: pdf
 ---
 
@@ -34,7 +34,7 @@ I. Allgemeines
 
 - f. die Anwendung erneuerbarer Energien zu fördern.
 
-[^t-1]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010. 1. 1. 16 - 91 9
+[^t-1]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010. 1. 7. 22 - 117 9
 [^t-2]: OS 48, 757.
 [^t-3]: Fassung gemäss G vom 31. August 2009 (OS 65, 460; ABl 2008, 758). In Kraft seit 1. September 2010.
 [^t-4]: Fassung gemäss G vom 20. September 2010 (OS 66, 55; ABl 2009, 1706). In Kraft seit 1. März 2011.
@@ -57,61 +57,66 @@ I. Allgemeines
 
 <sup>2</sup> Bei der Festsetzung der Gebühren werden nach Möglichkeit die tatsächlichen Kosten und die Art des Energiebezugs berücksichtigt.
 
-### II. Energieplanung
+[^3-1]: Fassung gemäss G vom 25. Oktober 2021 (OS 77, 239; ABl 2021-02-05). In Kraft seit 1. Juni 2022.
 
-**1. Energieplanung des Kantons16 a. Zuständigkeit**
+### II. Energiestrategie und -planung
 
-§ 4.[^hIIEnergieplanung-1] <sup>1</sup> Die Energieplanung des Kantons[^hIIEnergieplanung-2] ist Sache des Regierungsrates. Er erstattet darüber alle vier Jahre Bericht. Der Bericht untersteht der Genehmigung durch den Kantonsrat.
+[^3-1]
+
+**1. Energiestrategie und -planung des Kantons a. Energiestrategie**
+
+§ 3 a.[^hIIEnergiestrategie-1] <sup>1</sup> Der Regierungsrat legt dem Kantonsrat alle vier Jahre die Energiestrategie des Kantons zur Genehmigung vor. Diese enthält die Grundsätze der Energieplanung und die Ziele der mittel- und langfristigen Entwicklung der Energieversorgung und -nutzung.
+
+<sup>2</sup> Genehmigt der Kantonsrat die Energiestrategie nicht, unterbreitet ihm der Regierungsrat innert Jahresfrist eine überarbeitete Strategie.
 
 **1**
 
-- 1\. 1. 16 - 91
+- 1\. 7. 22 - 117 § 4. <sup>1</sup> Die Energieplanung des Kantons ist Sache des Regierungsrates. Er erstattet dem Kantonsrat darüber zusammen mit der Energiestrategie Bericht. Der Kantonsrat nimmt den Bericht zur Kenntnis.[^hIIEnergiestrategie-2]
+
+**b. Energieplanung**
 
 <sup>2</sup> Die Energieplanung ist im Bereich der Energieversorgung und -nutzung Entscheidungsgrundlage für Massnahmen der Raumplanung, Projektierung von Anlagen und Förderungsmassnahmen.
 
 <sup>3</sup> Sie dient den Gemeinden als Grundlage für ihre Energieplanung.
 
-[^hIIEnergieplanung-1]: Fassung gemäss G vom 31. August 2009 (OS 65, 460; ABl 2008, 758). In Kraft seit 1. September 2010.
-[^hIIEnergieplanung-2]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010. 1. 1. 16 - 91 9
+[^hIIEnergiestrategie-1]: Eingefügt durch G vom 25. Oktober 2021 (OS 77, 239; ABl 2021-02-05). In Kraft seit 1. Juni 2022.
+[^hIIEnergiestrategie-2]: Fassung gemäss G vom 25. Oktober 2021 (OS 77, 239; ABl 2021-02-05). In Kraft seit 1. Juni 2022.
+[^hIIEnergiestrategie-3]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010. 1. 7. 22 - 117 9
 
 #### § 5
 
-**b. Mitwirkung**
+**c. Mitwirkung von Gemeinden und Unternehmen29**
 
-Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mitwirkung an der Energieplanung verpflichtet. Sie sind rechtzeitig anzuhören und liefern, wie die Verbraucher, dem Kanton[^hIIEnergieplanung-2] die für die Energieplanung erforderlichen Auskünfte.
+Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mitwirkung an der Energieplanung verpflichtet. Sie sind rechtzeitig anzuhören und liefern, wie die Verbraucher, dem Kanton[^hIIEnergiestrategie-3] die für die Energieplanung erforderlichen Auskünfte.
 
-[^5-1]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010. 1. 1. 16 - 91 9
-[^5-2]: Fassung gemäss G vom 25. Juni 1995 (OS 53, 222). In Kraft seit 1. Januar 1996 (OS 53, 302).
+**d. Inhalt**
 
-#### § 6
+§ 6.[^5-1] <sup>1</sup> Die Energiestrategie enthält eine Beurteilung des künftigen Bedarfs und Angebots an Energie im Kanton. Sie legt die Ziele der mittel- und langfristigen Entwicklung der Energieversorgung und -nutzung fest.
 
-**c. Inhalt**
+<sup>2</sup> Die Energieplanung bezeichnet die zur Umsetzung der Energiestrategie notwendigen kantonalen Mittel und Massnahmen.
 
-<sup>1</sup> Die Energieplanung des Kantons[^5-1] enthält eine Beurteilung des künftigen Bedarfs und Angebots an Energie im Kanton. Sie legt die anzustrebende Entwicklung der Energieversorgung und -nutzung fest und bezeichnet die dazu notwendigen kantonalen[^5-1] Mittel und Massnahmen. Sie bestimmt, welcher Anteil der Abwärme insbesondere aus Kehrichtverbrennungs- und Abwasserreinigungsanlagen zu nutzen ist.[^5-2]
+<sup>3</sup> Sie bestimmt, welcher Anteil der Abwärme insbesondere aus Kehrichtverbrennungs- und Abwasserreinigungsanlagen zu nutzen ist.
 
-<sup>2</sup> Die Energieplanung berücksichtigt Energiekonzepte und Sachpläne des Bundes, der Nachbarkantone und der Gemeinden.
-
-<sup>3</sup> Die Energieplanung wird periodisch überprüft und nötigenfalls den veränderten Verhältnissen angepasst.
+<sup>4</sup> Die Energieplanung berücksichtigt Energiekonzepte und Sachpläne des Bundes, der Nachbarkantone und der Gemeinden.
 
 **2. Energieplanung der Gemeinden**
 
-§ 7.[^6-1] <sup>1</sup> Die Gemeinden können für ihr Gebiet eine eigene Energieplanung durchführen. Die zuständige Direktion des Regierungsrates (Direktion) kann einzelne Gemeinden oder die Gemeinden eines zusammenhängenden Energieversorgungsgebiets zur Durchführung einer Energieplanung verpflichten.
+§ 7.[^5-2] <sup>1</sup> Die Gemeinden können für ihr Gebiet eine eigene Energieplanung durchführen. Die zuständige Direktion des Regierungsrates (Direktion) kann einzelne Gemeinden oder die Gemeinden eines zusammenhängenden Energieversorgungsgebiets zur Durchführung einer Energieplanung verpflichten.
 
 <sup>2</sup> Die Energieplanung kann für das Angebot der Wärmeversorgung mit leitungsgebundenen Energieträgern Gebietsausscheidungen enthalten, die insbesondere bei Massnahmen der Raumplanung als Entscheidungsgrundlage dienen.
 
 <sup>3</sup> Die kommunale Energieplanung unterliegt der Genehmigung der Direktion.
 
-**Effiziente Energieanwendung; Richtlinien**
+§ 8.[^5-3]
 
-§ 8.[^6-2] Die kantonale[^6-1] und die kommunale Energieplanung enthalten Richtlinien für eine effiziente Energieanwendung, die für Unternehmen gemäss § 2 Abs. 1 verbindlich sind.
-
-[^6-1]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010. 1. 1. 16 - 91 9
-[^6-2]: Fassung gemäss G vom 26. August 2002 (OS 57, 350). In Kraft seit 1. Juni 2003 (OS 58, 115).
-[^6-3]: Eingefügt durch G vom 20. September 2010 (OS 66, 55; ABl 2009, 1706). In Kraft seit 1. März 2011.
+[^5-1]: Fassung gemäss G vom 25. Oktober 2021 (OS 77, 239; ABl 2021-02-05). In Kraft seit 1. Juni 2022.
+[^5-2]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010. 1. 7. 22 - 117 9
+[^5-3]: Aufgehoben durch G vom 25. Oktober 2021 (OS 77, 239; ABl 2021-02-05). In Kraft seit 1. Juni 2022.
+[^5-4]: Eingefügt durch G vom 20. September 2010 (OS 66, 55; ABl 2009, 1706). In Kraft seit 1. März 2011.
 
 ### II a. Vollzug des Stromversorgungsgesetzes
 
-[^6-3]
+[^5-4]
 
 **Zuteilung der Netzgebiete**
 
@@ -155,7 +160,7 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 
 **3**
 
-- 1\. 1. 16 - 91
+- 1\. 7. 22 - 117
 
 [^hIIaVollzugdesSt-1]: Eingefügt durch G vom 20. September 2010 (OS 66, 55; ABl 2009, 1706). In Kraft seit 1. März 2011.
 [^hIIaVollzugdesSt-2]: SR 734.7.
@@ -231,11 +236,11 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 
 **5**
 
-- 1\. 1. 16 - 91
+- 1\. 7. 22 - 117
 
 <sup>2</sup> Die Elektrizitätswerke der Gemeinden sind verpflichtet, Elektrizität aus dezentralen Wärmekraftkopplungsanlagen auf ihrem Gebiet in einer für das Netz geeigneten Form abzunehmen. Der Preis richtet sich nach den Gestehungskosten für gleichwertige elektrische Energie, die das Werk zusätzlich anderweitig beschaffen müsste. Für Werke im Versorgungsgebiet der Elektrizitätswerke des Kantons Zürich und ihrer Wiederverkäufer gelten die mengenmässigen Einschränkungen aus den Verpflichtungen des Kantons[^13-1] gegenüber den Nordostschweizerischen Kraftwerken.
 
-[^13-1]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010. 1. 1. 16 - 91 9
+[^13-1]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010. 1. 7. 22 - 117 9
 
 #### § 13 a
 
@@ -294,12 +299,12 @@ Die Gemeinden fördern die Information und die Beratung in Energiefragen.
 - c. bis höchstens 400 Franken pro einsparbare oder nutzbare Jahresmegawattstunde an Massnahmen zur rationellen Energienutzung sowie zur Nutzung von Abwärme und erneuerbaren Energien.
 
 [^15-1]: Fassung gemäss G vom 26. August 2002 (OS 57, 350). In Kraft seit 1. Juni 2003 (OS 58, 115).
-[^15-2]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010. 1. 1. 16 - 91 9
+[^15-2]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010. 1. 7. 22 - 117 9
 [^15-3]: Fassung gemäss Finanzausgleichsgesetz vom 12. Juli 2010 (OS 66, 747; ABl 2009, 172). In Kraft seit 1. Januar 2012.
 
 ### IV. Schlussbestimmungen
 
-[^hIVSchlussbestimmun-1]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010. 1. 1. 16 - 91 9
+[^hIVSchlussbestimmun-1]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010. 1. 7. 22 - 117 9
 
 #### § 17
 
@@ -311,7 +316,7 @@ Die Gemeinden fördern die Information und die Beratung in Energiefragen.
 
 **7**
 
-- 1\. 1. 16 - 91 § 18. <sup>1</sup> Wer vorsätzlich den Bestimmungen der §§ 9, 10 a, 10 b, 12, 13 a Abs. 1 und 14 a dieses Gesetzes, der dazugehörigen Ausführungsbestimmungen und sich darauf stützenden Verfügungen und Entscheiden zuwiderhandelt, wird mit Busse bis Fr. 20 000 bestraft.[^17-1]
+- 1\. 7. 22 - 117 § 18. <sup>1</sup> Wer vorsätzlich den Bestimmungen der §§ 9, 10 a, 10 b, 12, 13 a Abs. 1 und 14 a dieses Gesetzes, der dazugehörigen Ausführungsbestimmungen und sich darauf stützenden Verfügungen und Entscheiden zuwiderhandelt, wird mit Busse bis Fr. 20 000 bestraft.[^17-1]
 
 **Strafbestimmung**
 
@@ -363,6 +368,6 @@ Die Zuständigkeit für die Beurteilung der im Zeitpunkt des Inkrafttretens hän
 
 ## Weitere Fussnoten
 
-- [2] LS 700.1.
+- [2] SR 730.
 - [15] Fassung gemäss G über die Anpassung an den geänderten allgemeinen Teil des Strafgesetzbuches und an das neue Jugendstrafgesetz vom 19. Juni 2006 (OS 61, 391; ABl 2005, 1483). In Kraft seit 1. Januar 2007.
 - [18] Fassung gemäss G über die Unterstellung der Steuerrekurskommissionen und der Baurekurskommissionen unter das Verwaltungsgericht vom 13. September 2010 (OS 65, 953; ABl 2010, 266). In Kraft seit 1. Januar 2011.
