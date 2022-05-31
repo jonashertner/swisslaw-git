@@ -4,13 +4,12 @@ number: "170.7"
 title: Gesetz über den Datenschutz
 short: TG DSG
 language: de
-version: 2021-01-01
-valid_until: 2022-05-31
-version_adopted: 2020-05-20
+version: 2022-06-01
+version_adopted: 2022-02-16
 adopted: 1987-11-09
 in_force: 1989-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/170.7"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2019/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2507/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ TG DSG
 
 (TG DSG)
 
-vom 09.11.1987 (Stand 01.01.2021)
+vom 09.11.1987 (Stand 01.06.2022)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -220,7 +219,7 @@ vom 09.11.1987 (Stand 01.01.2021)
 
 **Aufsichtsstelle**
 
-<sup>1</sup> Der Regierungsrat wählt einen Beauftragten für den Datenschutz, welcher seine Aufgaben unabhängig erfüllt.
+<sup>1</sup> Der Regierungsrat wählt einen Datenschutz- und Öffentlichkeitsbeauftragten, der seine Aufgaben unabhängig erfüllt.
 
 <sup>2</sup> Dieser beaufsichtigt die Bearbeitung von Daten durch:
 
@@ -233,14 +232,15 @@ vom 09.11.1987 (Stand 01.01.2021)
 
 **Aufgaben**
 
-<sup>1</sup> Der Beauftragte für den Datenschutz hat folgende Aufgaben:
+<sup>1</sup> Der Datenschutz- und Öffentlichkeitsbeauftragte hat folgende Aufgaben:
 
 - 1\. Er überwacht die Einhaltung der Vorschriften über den Datenschutz;
 - 2\. er berät die betroffenen Personen über ihre Rechte;
 - 3\. er vermittelt zwischen betroffenen Personen und den verantwortlichen Organen;
-- 4\. er berät die Organe in Fragen des Datenschutzes und der Datensicherung.
+- 4\. er berät die Organe in Fragen des Datenschutzes und der Datensicherung;
+- 5\. er nimmt die ihm durch das Gesetz über das Öffentlichkeitsprinzip übertragenen Aufgaben wahr.
 
-<sup>2</sup> Der Beauftragte für den Datenschutz arbeitet zur Erfüllung der Kontrollaufgaben mit den Aufsichtsstellen der Gemeinden, der Kantone, des Bundes und des Auslandes zusammen.
+<sup>2</sup> Der Datenschutz- und Öffentlichkeitsbeauftragte arbeitet zur Erfüllung der Kontrollaufgaben mit den Aufsichtsstellen der Gemeinden, der Kantone, des Bundes und des Auslandes zusammen.
 
 <sup>3</sup> Er ist hinsichtlich der Personendaten, die er bei seiner Tätigkeit zur Kenntnis nimmt, zur gleichen Verschwiegenheit verpflichtet wie das verantwortliche Organ.
 
@@ -250,14 +250,14 @@ vom 09.11.1987 (Stand 01.01.2021)
 
 **Befugnisse**
 
-<sup>1</sup> Der Beauftragte für den Datenschutz kann:
+<sup>1</sup> Der Datenschutz- und Öffentlichkeitsbeauftragte kann:
 
 - 1\. ungeachtet allfälliger Geheimhaltungspflichten Ermittlungen durchführen, alle für die Erfüllung des Kontrollauftrages erforderlichen Informationen über Datenbearbeitungen einholen, Einsicht in alle Unterlagen nehmen, Besichtigungen durchführen und sich Bearbeitungen vorführen lassen;
 - 2\. Daten sperren, löschen oder vernichten lassen, eine Datenbearbeitung verbieten oder dem verantwortlichen Organ Anweisungen zur Datenbearbeitung erteilen;
 - 3\. gegen Entscheide aufgrund dieses Gesetzes beim zuständigen Departement oder gegen Entscheide der Departemente beim Verwaltungsgericht ein Rechtsmittel einlegen;
 - 4\. bei Verstössen gegen das Datenschutzgesetz Strafantrag stellen.
 
-<sup>2</sup> Die verantwortlichen Organe haben den Beauftragten für den Datenschutz zu unterstützen.
+<sup>2</sup> Die verantwortlichen Organe haben den Datenschutz- und Öffentlichkeitsbeauftragten zu unterstützen.
 
 ## 5. Rechte der Betroffenen
 
@@ -328,7 +328,7 @@ vom 09.11.1987 (Stand 01.01.2021)
 
 <sup>1</sup> Gegen Entscheide aufgrund dieses Gesetzes kann beim in der Sache zuständigen Departement Rekurs erhoben werden.
 
-<sup>2</sup> Entscheide der Departemente und des Beauftragten für den Datenschutz unterliegen der Beschwerde an das Verwaltungsgericht.
+<sup>2</sup> Entscheide der Departemente und des Datenschutz- und Öffentlichkeitsbeauftragten unterliegen der Beschwerde an das Verwaltungsgericht.
 
 ## 6. Straf- und Schlussbestimmungen
 
