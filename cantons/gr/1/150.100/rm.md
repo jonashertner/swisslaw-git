@@ -4,13 +4,13 @@ number: "150.100"
 title: Lescha davart ils dretgs politics en il chantun Grischun
 short: LDPC
 language: rm
-version: 2021-10-01
-valid_until: 2022-05-31
-version_adopted: 2021-02-16
+version: 2022-06-01
+valid_until: 2023-12-31
+version_adopted: 2021-12-08
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3190/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3244/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3190/pdf_file"
 
 (LDPC)
 
-dals 17-06-2005 (versiun dals 01-10-2021)
+dals 17-06-2005 (versiun dals 01-06-2022)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -369,6 +369,12 @@ concluda:
 <sup>1</sup> Uschenavant che la votaziun a l'urna è previsa, sa drizza la votaziun tenor l'artitgel 25.
 
 <sup>2</sup> Cas cuntrari ha la votaziun lieu en las vischnancas.
+
+#### Art. 26b
+
+**Custs**
+
+<sup>1</sup> Sch'i vegn votà per correspundenza, surpiglia il chantun ils custs per la respediziun cun posta A en Svizra.
 
 #### Art. 27
 

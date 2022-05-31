@@ -4,13 +4,13 @@ number: "150.100"
 title: Gesetz über die politischen Rechte im Kanton Graubünden
 short: GPR
 language: de
-version: 2021-10-01
-valid_until: 2022-05-31
-version_adopted: 2021-02-16
+version: 2022-06-01
+valid_until: 2023-12-31
+version_adopted: 2021-12-08
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3190/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3244/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3190/pdf_file"
 
 (GPR)
 
-Vom 17.06.2005 (Stand 01.10.2021)
+Vom 17.06.2005 (Stand 01.06.2022)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -369,6 +369,12 @@ beschliesst:
 <sup>1</sup> Soweit die Urnenabstimmung vorgesehen ist, richtet sich die Stimmabgabe nach Artikel 25.
 
 <sup>2</sup> Andernfalls erfolgt die Stimmabgabe in den Gemeinden.
+
+#### Art. 26b
+
+**Kosten**
+
+<sup>1</sup> Die Kosten des Rückversands per A-Post im Inland bei brieflicher Stimmabgabe trägt der Kanton.
 
 #### Art. 27
 

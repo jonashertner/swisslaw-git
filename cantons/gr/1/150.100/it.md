@@ -4,13 +4,13 @@ number: "150.100"
 title: Legge sui diritti politici nel Cantone dei Grigioni
 short: LDPC
 language: it
-version: 2021-10-01
-valid_until: 2022-05-31
-version_adopted: 2021-02-16
+version: 2022-06-01
+valid_until: 2023-12-31
+version_adopted: 2021-12-08
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3190/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3244/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3190/pdf_file"
 
 (LDPC)
 
-del 17.06.2005 (stato 01.10.2021)
+del 17.06.2005 (stato 01.06.2022)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -369,6 +369,12 @@ decide:
 <sup>1</sup> Qualora sia prevista la votazione alle urne, l'esercizio del diritto di voto si conforma all'articolo 25.
 
 <sup>2</sup> In caso contrario l'esercizio del diritto di voto avviene nei comuni.
+
+#### Art. 26b
+
+**Spese**
+
+<sup>1</sup> In caso di voto per corrispondenza, le spese di rispedizione via posta A all'interno della Svizzera vengono assunte dal Cantone.
 
 #### Art. 27
 
