@@ -4,11 +4,11 @@ title: "Ordinanza del 27 maggio 2020 sul piano di controllo nazionale pluriennal
 short: OPCNP
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/459"
 language: it
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-459-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2020-459-20220601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20220101/it"
 
 (OPCNP)
 
-del 27 maggio 2020 (Stato 1° gennaio 2022)
+del 27 maggio 2020 (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -288,12 +288,13 @@ Nellʼambito della protezione degli animali, almeno la seguente percentuale dei 
 
 <sup>1</sup> Le autorità cantonali incaricate dei controlli della produzione primaria secondo le ordinanze di cui all’articolo 10 capoverso 1 provvedono affinché i risultati dei controlli di cui agli articoli 7 e 8 siano registrati o trasferiti nel sistema d’informazione per i dati sui controlli (Acontrol) di cui all’articolo 6 dell’ordinanza del 23 ottobre 2013[^14-1] sui sistemi d’informazione nel campo dell’agricoltura.
 
-<sup>2</sup> Il trattamento successivo dei controlli nella produzione primaria animale avviene nel sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione (ASAN) secondo l’articolo 5 dell’ordinanza del 6 giugno 2014[^14-2] concernente i sistemi d’informazione per il servizio veterinario pubblico.
+<sup>2</sup> Il trattamento successivo dei controlli nella produzione primaria animale avviene nel sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione secondo l’ordinanza del 27 aprile 2022[^14-2] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare.[^14-3]
 
 <sup>3</sup> L’UFAG e l’USAV stabiliscono la tipo e l’ampiezza dei dati che devono essere registrati in ogni sistema d’informazione.
 
 [^14-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 [^14-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^14-3]: Nuovo testo giusta l’all. 4 n. II 4 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 15
 

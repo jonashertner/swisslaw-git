@@ -4,11 +4,11 @@ title: Ordonnance du 27 mai 2020 sur le plan de contrôle national pluriannuel d
 short: OPCNP
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/459"
 language: fr
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-459-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2020-459-20220601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20220101/fr"
 
 (OPCNP)
 
-du 27 mai 2020 (Etat le 1<sup>er</sup> janvier 2022)
+du 27 mai 2020 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -288,12 +288,13 @@ Dans le domaine de la protection des animaux, les contrôles effectués sans pr�
 
 <sup>1</sup> Les autorités cantonales chargées des contrôles de la production primaire relevant des ordonnances visées à l’art. 10, al. 1, veillent à ce que les données des contrôles visés aux art. 7 et 8 soient saisies ou transférées dans le système d’information pour les données de contrôle (Acontrol) visé à l’art. 6 de l’ordonnance du 23 octobre 2013 sur les systèmes d’information dans le domaine de l’agriculture[^14-1].
 
-<sup>2</sup> Le suivi des contrôles dans la production primaire animale est effectué dans le système d’information pour les données d’exécution du service vétérinaire public (ASAN) visé à l’art. 5 de l’ordonnance du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public[^14-2].
+<sup>2</sup> Le suivi des contrôles dans la production primaire animale est effectué dans le système d’information pour les données d’exécution du service vétérinaire public visé dans l’ordonnance du 27 avril 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire[^14-2].[^14-3]
 
 <sup>3</sup> L’OFAG et l’OSAV définissent la nature et la portée des données qui doivent être saisies dans chaque système d’information.
 
 [^14-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 [^14-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^14-3]: Nouvelle teneur selon l’annexe 4 ch. II 4 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 15
 

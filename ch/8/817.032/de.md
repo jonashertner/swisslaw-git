@@ -4,11 +4,11 @@ title: Verordnung vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollpl
 short: MNKPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/459"
 language: de
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-459-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2020-459-20220601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20220101/de"
 
 (MNKPV)
 
-vom 27. Mai 2020 (Stand am 1. Januar 2022)
+vom 27. Mai 2020 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -288,12 +288,13 @@ Im Bereich Tierschutz sind mindestens folgende Anteile der jährlichen Kontrolle
 
 <sup>1</sup> Die kantonalen Behörden, die mit den Kontrollen der Primärproduktion betraut sind, die auf den in Artikel 10 Absatz 1 genannten Verordnungen basieren, sorgen dafür, dass die Ergebnisse der Kontrollen nach den Artikeln 7 und 8 im Informationssystem für Kontrolldaten (Acontrol) nach Artikel 6 der Verordnung vom 23. Oktober 2013[^14-1] über Informationssysteme im Bereich der Landwirtschaft erfasst oder dahin übermittelt werden.
 
-<sup>2</sup> Die Nachbearbeitung der Kontrollen in der tierischen Primärproduktion erfolgt im Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes (ASAN) nach Artikel 5 der Verordnung vom 6. Juni 2014[^14-2] über die Informationssysteme für den öffentlichen Veterinärdienst.
+<sup>2</sup> Die Nachbearbeitung der Kontrollen in der tierischen Primärproduktion erfolgt im Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes nach der Verordnung vom 27. April 2022[^14-2] über Informationssysteme des BLV für die Lebensmittelkette.[^14-3]
 
 <sup>3</sup> Das BLW und das BLV legen fest, welche Daten in welchem Umfang in jedem Informationssystem zu erfassen sind.
 
 [^14-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 [^14-2]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^14-3]: Fassung gemäss Anhang 4 Ziff. II 4 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 15
 
