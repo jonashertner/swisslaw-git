@@ -4,11 +4,11 @@ title: Bundesgesetz vom 23. Dezember 2011 über den ausserprozessualen Zeugensch
 short: ZeugSG
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/814"
 language: de
-version: 2013-01-01
+version: 2022-06-01
 adopted: 2011-12-23
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/814/20130101/de/xml/fedlex-data-admin-ch-eli-cc-2012-814-20130101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/814/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/814/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2012-814-20220601-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/814/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/814/20130101/de"
 
 (ZeugSG)
 
-vom 23. Dezember 2011 (Stand am 1. Januar 2013)
+vom 23. Dezember 2011 (Stand am 1. Juni 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -226,7 +226,7 @@ Die Zeugenschutzstelle stellt sicher, dass:
 
 **Mitwirkung in Verfahren**
 
-- [tab] <sup>1</sup> Eine zu schützende Person ist in Gerichts- und Verwaltungsverfahren von Bund, Kantonen oder Gemeinden, in welchen ihre neue Identität oder der Wohn- oder Aufenthaltsort nicht bekannt ist, berechtigt, Angaben zu verweigern, die Rückschlüsse auf die neue Identität sowie den Wohn- oder Aufenthaltsort erlauben.
+<sup>1</sup> Eine zu schützende Person ist in Gerichts- und Verwaltungsverfahren von Bund, Kantonen oder Gemeinden, in welchen ihre neue Identität oder der Wohn- oder Aufenthaltsort nicht bekannt ist, berechtigt, Angaben zu verweigern, die Rückschlüsse auf die neue Identität sowie den Wohn- oder Aufenthaltsort erlauben.
 
 <sup>2</sup> Anstelle des Wohn- oder Aufenthaltsorts ist die Zeugenschutzstelle zu benennen.
 
@@ -487,9 +487,12 @@ Die Berichterstattung umfasst namentlich Angaben über:
 
 <sup>1</sup> Die Lebenshaltungskosten der zu schützenden Person sowie die laufenden Kosten für die Zeugenschutzmassnahmen im Rahmen von Zeugenschutzprogrammen nach diesem Gesetz trägt der antragstellende Bund oder Kanton.
 
-<sup>2</sup> Den Betrieb der Zeugenschutzstelle tragen Bund und Kantone zu gleichen Teilen.
+<sup>2</sup> …[^34-1]
 
-<sup>3</sup> Der Bundesrat bestimmt den Verteilschlüssel für die Kostentragung der Kantone.
+<sup>3</sup> Der Bundesrat vereinbart mit den Kantonen die Aufteilung der Betriebskosten.[^34-2]
+
+[^34-1]: Aufgehoben durch Ziff. I 7 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, mit Wirkung seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^34-2]: Fassung gemäss Ziff. I 7 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 35
 

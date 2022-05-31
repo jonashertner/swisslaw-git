@@ -4,11 +4,11 @@ title: Legge federale del 23 dicembre 2011 sulla protezione extraprocessuale dei
 short: LPTes
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/814"
 language: it
-version: 2013-01-01
+version: 2022-06-01
 adopted: 2011-12-23
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/814/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2012-814-20130101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/814/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/814/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2012-814-20220601-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/814/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/814/20130101/it"
 
 (LPTes)
 
-del 23 dicembre 2011 (Stato 1° gennaio 2013)
+del 23 dicembre 2011 (Stato 1° giugno 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -487,9 +487,12 @@ Il rapporto contiene segnatamente indicazioni riguardanti:
 
 <sup>1</sup> Le spese di sostentamento della persona da proteggere e le spese correnti per le misure di protezione dei testimoni durante programmi di protezione dei testimoni ai sensi della presente legge sono a carico dell’ente richiedente, Confederazione o Cantone.
 
-<sup>2</sup> La Confederazione e i Cantoni si suddividono in parti uguali le spese di gestione del Servizio di protezione dei testimoni.
+<sup>2</sup> ...[^34-1]
 
-<sup>3</sup> Il Consiglio federale definisce la chiave di ripartizione per l’assunzione delle spese da parte dei Cantoni.
+<sup>3</sup> Il Consiglio federale concorda con i Cantoni la ripartizione delle spese di gestione.[^34-2]
+
+[^34-1]: Abrogato dal n. I 7 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, con effetto dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^34-2]: Nuovo testo giusta il n. I 7 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 35
 
@@ -507,7 +510,7 @@ La modifica del diritto vigente è disciplinata nell’allegato.
 
 Data dell’entrata in vigore: 1° gennaio 2013[^36-1]
 
-[^36-1]: DCF del 7 novembre 2012 ([RU 2012 6713](https://fedlex.data.admin.ch/eli/oc/2012/813)).
+[^36-1]: DCF del 7 nov. 2012 ([RU 2012 6713](https://fedlex.data.admin.ch/eli/oc/2012/813)).
 
 Allegato
 
@@ -519,4 +522,4 @@ Le leggi federali qui appresso sono modificate come segue:
 
 ...[^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Le modifiche possono essere consultate alla [RU 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814).
+[^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814).

@@ -4,11 +4,11 @@ title: Loi fédérale du 23 décembre 2011 sur la protection extraprocédurale d
 short: Ltém
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/814"
 language: fr
-version: 2013-01-01
+version: 2022-06-01
 adopted: 2011-12-23
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/814/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-814-20130101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/814/20130101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/814/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2012-814-20220601-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/814/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/814/20130101/fr"
 
 (Ltém)
 
-du 23 décembre 2011 (Etat le 1<sup>er</sup> janvier 2013)
+du 23 décembre 2011 (État le 1<sup>er</sup> juin 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -52,7 +52,7 @@ La présente loi s’applique à toute personne présentant les caractéristique
 
 <sup>2</sup> La présente loi s’applique également aux personnes qui ont une relation au sens de l’art. 168, al. 1 à 3, du code de procédure pénale (CPP)[^2-1] avec la personne visée à l’al. 1 et qui, de ce fait, sont exposées ou peuvent être exposées à un danger sérieux menaçant leur vie ou leur intégrité corporelle ou à un autre inconvénient grave.
 
-<sup>3</sup> Le chap. 2, sections 4 et 5, de la présente loi s’applique aux personnes faisant l’objet d’un programme de protection des témoins mis en place par un Etat étranger ou par une cour pénale internationale et qui ont été amenées en Suisse pour des raisons de sécurité, pour autant qu’aucun traité international auquel la Suisse est liée ne contienne des dispositions contraires.
+<sup>3</sup> Le chap. 2, sections 4 et 5, de la présente loi s’applique aux personnes faisant l’objet d’un programme de protection des témoins mis en place par un État étranger ou par une cour pénale internationale et qui ont été amenées en Suisse pour des raisons de sécurité, pour autant qu’aucun traité international auquel la Suisse est liée ne contienne des dispositions contraires.
 
 [^2-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
@@ -89,7 +89,7 @@ Le programme de protection peut comprendre notamment les mesures extraprocédura
 - e. lui procurer une nouvelle identité pour le temps durant lequel elle doit être protégée;
 - f. la soutenir financièrement.
 
-### Section 2 Elaboration du programme de protection
+### Section 2 Élaboration du programme de protection
 
 #### Art. 6
 
@@ -315,7 +315,7 @@ Le Service de protection des témoins remplit les tâches suivantes:
 - c. il conseille la personne à protéger, assure son accompagnement et l’assiste dans ses démarches personnelles;
 - d. il coordonne les mesures de protection extraprocédurales prévues par la présente loi avec les mesures de protection procédurales requises par le CPP[^23-1];
 - e. il conseille et assiste les autorités policières suisses dans l’adoption de mesures de protection en faveur de la personne concernée avant et en dehors du programme de protection prévu par la présente loi;
-- f. il procède à l’examen des demandes présentées par un Etat étranger ou par une cour pénale internationale en vue de la mise en place d’un programme de protection pour une personne menacée en Suisse;
+- f. il procède à l’examen des demandes présentées par un État étranger ou par une cour pénale internationale en vue de la mise en place d’un programme de protection pour une personne menacée en Suisse;
 - g. il assure la coordination avec les services étrangers compétents;
 - h. il assure la coordination avec les tiers impliqués, notamment avec les organisations spécialisées dans le domaine de l’aide aux victimes.
 
@@ -383,7 +383,7 @@ Le système d’information contient les données dont le Service de protection 
 
 Le Service de protection des témoins peut collecter les données nécessaires en vertu de l’art. 26 de la manière suivante:
 
-- a. en consultant directement le casier judiciaire, le système d’information central sur la migration, les systèmes d’information de police de la Confédération et, par consultation brève, le système de traitement des données relatives à la protection de l’Etat;
+- a. en consultant directement le casier judiciaire, le système d’information central sur la migration, les systèmes d’information de police de la Confédération et, par consultation brève, le système de traitement des données relatives à la protection de l’État;
 - b. en demandant des extraits des registres des offices des poursuites et des faillites, des offices de l’état civil, des administrations fiscales et des services de contrôle des habitants;
 - c. en demandant aux polices cantonales compétentes de lui transmettre ou de collecter pour lui les données concernant la personne à protéger ou toute personne qui constitue pour elle une menace et qui sont nécessaires à l’appréciation de la menace et des conditions de la mise en œuvre du programme de protection;
 - d. en demandant aux autorités de poursuite pénale compétentes des renseignements relatifs aux procédures pénales en cours;
@@ -406,7 +406,7 @@ Fedpol peut, aux conditions suivantes, transférer une personne à protéger à 
 - b. le Service de protection des témoins chargé de l’accueillir est en mesure d’assurer les mesures de protection nécessaires;
 - c. la personne concernée a donné son accord;
 - d. le transfert ou la prise en charge ne représente pas un danger pour l’ordre public ou la sûreté intérieure ou extérieure de la Suisse;
-- e. la Suisse entretient des relations diplomatiques avec l’Etat concerné;
+- e. la Suisse entretient des relations diplomatiques avec l’État concerné;
 - f. le Service de protection des témoins qui transfère la personne concernée est à tout moment en mesure de la reprendre en charge;
 - g. les frais sont répartis conformément à l’art. 29.
 
@@ -425,7 +425,7 @@ Les frais d’un transfert ou d’une prise en charge en vertu de l’art. 28 so
 
 <sup>2</sup> Dans des cas particuliers, les frais de personnel peuvent être pris en charge, à titre exceptionnel, par le service de protection des témoins requérant pour autant que l’autre partie accorde la réciprocité.
 
-<sup>3</sup> Les conventions de prise en charge des frais conclues avec un service compétent d’un Etat étranger ou avec une cour pénale internationale sur la base d’un traité international sont réservées.
+<sup>3</sup> Les conventions de prise en charge des frais conclues avec un service compétent d’un État étranger ou avec une cour pénale internationale sur la base d’un traité international sont réservées.
 
 ## Chapitre 5 Confidentialité
 
@@ -486,9 +486,12 @@ Ce rapport contient notamment des indications sur les éléments suivants:
 
 <sup>1</sup> Les frais de subsistance de la personne à protéger et les frais courants liés aux mesures de protection prises dans le cadre d’un programme de protection régi par la présente loi sont à la charge de la collectivité qui requiert la mise en place de ce programme (Confédération ou canton).
 
-<sup>2</sup> La Confédération et les cantons se partagent à égalité les frais d’exploitation du Service de protection des témoins.
+<sup>2</sup> …[^34-1]
 
-<sup>3</sup> Le Conseil fédéral définit la clé de répartition entre les cantons.
+<sup>3</sup> Le Conseil fédéral convient avec les cantons de la répartition des frais d’exploitation.[^34-2]
+
+[^34-1]: Abrogé par le ch. I 7 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, avec effet au 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^34-2]: Nouvelle teneur selon le ch. I 7 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 35
 
