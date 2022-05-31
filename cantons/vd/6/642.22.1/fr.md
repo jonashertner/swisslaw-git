@@ -4,7 +4,7 @@ number: "642.22.1"
 title: "RÈGLEMENT du 08.12.2021 sur l'estimation des titres non cotés et des titres non régulièrement cotés en bourse ou hors bourse pour l'impôt sur la fortune (RETIF)"
 short: RETIF
 language: fr
-version: 2022-01-01
+version: 2022-06-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/642.22.1?id=937883c9-c9ab-45b3-bb7f-86cadf708f38"
 ---
 
@@ -50,7 +50,11 @@ arrête
 
 <sup>1</sup> Si le contribuable en fait la demande, le taux de capitalisation, nécessaire à la détermination de la valeur de rendement des titres non cotés ou des titres non régulièrement cotés en bourse ou hors bourse, qu'il détient, équivaut au taux de capitalisation ordinaire de la période fiscale correspondante, figurant dans la liste des cours "Titres suisses et étrangers cotés en Suisse" publiée par l'administration fédérale des contributions, auquel est ajouté une majoration de telle sorte à atteindre 16% à condition que les titres non cotés ou les titres non régulièrement cotés en bourse ou hors bourse détenus soient qualifiés d'outil de travail au sens de l'alinéa 2.
 
-<sup>2</sup> Les titres non cotés et les titres non régulièrement cotés en bourse ou hors bourse sont qualifiés d'outil de travail lorsqu'une personne physique, détenant des droits de participation, seul ou au moyen d'une convention d'actionnaire conclue avec d'autres personnes physiques, qui équivalent à 10% au moins du capital-actions ou du capital social d'une société de capitaux et qui lui permette de se prévaloir d'une majorité qualifiée dans cette société capitaux, notamment occupe au sein de cette même société de capitaux une fonction dirigeante pour laquelle elle perçoit une rémunération conforme au marché, à sa position et à la situation économique de la société.
+<sup>2</sup> Sont qualifiés d'outil de travail, les titres non cotés et les titres non régulièrement cotés en bourse ou hors bourse qui sont détenus par une personne physique pour autant notamment que cette dernière cumulativement :
+
+- a. détienne, dans sa fortune privée, au moins 10% du capital-actions ou du capital social de la société de capitaux émettrice des titres ;
+- b. puisse se prévaloir d'une majorité qualifiée, seule ou au moyen d'une convention d'actionnaires conclue avec d'autres personnes physiques, dans la société de capitaux émettrice des titres ;
+- c. occupe au sein de cette société de capitaux une fonction dirigeante pour laquelle elle perçoit une rémunération conforme au marché, à sa position et à la situation économique de la société.
 
 <sup>3</sup> Sont exclus de la qualification d'outil de travail au sens de l'alinéa 2, les titres non cotés et les titres non régulièrement cotés en bourse ou hors bourse des sociétés immobilières, des sociétés coopératives, des sociétés de gérance de fortune (tant mobilière qu'immobilière), des sociétés de financement et des sociétés d'exploitation sans activité opérationnelle.
 
