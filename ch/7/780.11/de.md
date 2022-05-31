@@ -4,11 +4,11 @@ title: Verordnung vom 15. November 2017 über die Überwachung des Post- und Fer
 short: VÜPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/32"
 language: de
-version: 2019-12-03
+version: 2022-06-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20191203/de/xml/fedlex-data-admin-ch-eli-cc-2018-32-20191203-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20191203/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2018-32-20220601-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20191203/de"
 
 (VÜPF)
 
-vom 15. November 2017 (Stand am 3. Dezember 2019)
+vom 15. November 2017 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -171,11 +171,14 @@ Ausserhalb der Normalarbeitszeiten und an den Feiertagen stellt der Dienst ÜPF 
 - b. die Beauftragung der Aktivierung von Echtzeitüberwachungen gemäss den Artikeln 54–59;
 - c. die Beauftragung der Durchführung von als dringend erklärten rückwirkenden Überwachungen gemäss den Artikeln 60–63, 65 und 66;
 - d. die Beauftragung von Notsuchen und Fahndungen gemäss den Artikeln 67 und 68, ausgenommen die Netzabdeckungsanalyse in Vorbereitung eines Antennensuchlaufs gemäss Artikel 64;
+- d<sup>bis</sup>.[^11-1] die Beauftragung von Mobilfunklokalisierungen terroristischer Gefährderinnen und Gefährder gemäss Artikel 68*a*;
 - e. die Störungsbehebung.
 
 <sup>2</sup> Die FDA, ausser jenen mit reduzierten Überwachungspflichten gemäss Artikel 51, sowie die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Überwachungspflichten gemäss Artikel 52 müssen in der Lage sein, den Dienst ÜPF so zu unterstützen, dass dieser die Leistungen gemäss Absatz 1 jederzeit erbringen kann. Sie müssen für den Dienst ÜPF jederzeit erreichbar sein.
 
 <sup>3</sup> Die Anordnung besonderer Überwachungen und Gesuche um besondere Auskünfte (Art. 25) werden ausserhalb der Normalarbeitszeiten weder entgegengenommen noch bearbeitet.
+
+[^11-1]: Eingefügt durch Ziff. I 12 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ### 4. Abschnitt: Statistiken
 
@@ -191,7 +194,8 @@ Der Dienst ÜPF veröffentlicht jährlich eine Statistik über die im abgelaufen
 - b. der rückwirkenden Überwachungsmassnahmen;
 - c. der Auskünfte;
 - d. der Notsuchen;
-- e. der Fahndungen.
+- e. der Fahndungen;
+- f.[^12-1] der Mobilfunklokalisierungen terroristischer Gefährderinnen und Gefährder.
 
 <sup>2</sup>
 
@@ -199,10 +203,13 @@ Aus der Statistik gemäss Absatz 1 sind ersichtlich:
 
 - a. die Art des Deliktes;
 - b. der Kanton, aus welchem die anordnende Behörde stammt, beziehungsweise die anordnende Behörde des Bundes oder bei Notsuchen auch eine Behörde des Fürstentums Liechtenstein, beziehungsweise für Auskünfte, die zuständige Behörde des Kantons oder des Bundes (Art. 1 Abs. 2 Bst. c–f);
-- c. der Typ der Auskunft, der Überwachung, der Notsuche beziehungsweise der Fahndung;
+- c.[^12-2] der Typ der Auskunft, der Überwachung, der Notsuche, der Fahndung beziehungsweise der Mobilfunklokalisierung terroristischer Gefährderinnen und Gefährder;
 - d. die Dauer der Überwachung, soweit zutreffend;
 - e. die Gebühren;
 - f. die Entschädigungen.
+
+[^12-1]: Eingefügt durch Ziff. I 12 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^12-2]: Fassung gemäss Ziff. I 12 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 13
 
@@ -470,6 +477,10 @@ Die betreffenden Anbieterinnen müssen die folgenden Typen von Fahndungen (Art. 
 - b. die Echtzeitüberwachung von Inhalten und Randdaten bei Netzzugangsdiensten oder Anwendungen (Art. 68 Bst. b);
 - c. die Echtzeitüberwachung von Randdaten bei Netzzugangsdiensten oder Anwendungen (Art. 68 Bst. c);
 - d. die rückwirkende Überwachung bei Netzzugangsdiensten oder Anwendungen (Art. 68 Bst. d).
+
+<sup>5</sup> Die betreffenden Anbieterinnen müssen die Mobilfunklokalisierung terroristischer Gefährderinnen und Gefährder mittels Echtzeitüberwachung von Randdaten bei Netzzugangsdiensten und Anwendungen durchführen (Art. 68*a*).[^28-1]
+
+[^28-1]: Eingefügt durch Ziff. I 12 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ### 2. Abschnitt: Qualitätssicherung
 
@@ -1054,7 +1065,8 @@ Der Überwachungstyp RT\_23\_NA\_CC\_IRI umfasst die Echtzeitüberwachung eines 
 Der Überwachungstyp RT\_24\_TEL\_IRI umfasst die Echtzeitüberwachung eines Telefonie- und Multimediadienstes und, falls zutreffend, der mit diesem konvergierenden Dienste, insbesondere SMS, Voice Mail und RCS. Es sind die folgenden Randdaten des Fernmeldeverkehrs, der über die überwachten Dienste gesendet, bearbeitet oder empfangen wird, in Echtzeit zu übermitteln:
 
 - a. das Datum und die Uhrzeit von Anmelde- beziehungsweise Abmeldevorgängen und deren Ergebnis;
-- b. die verwendeten AAA-Informationen der überwachten Dienste und die Informationen über Registrierungs- und Subskriptionsereignisse sowie die entsprechenden Antworten, insbesondere der Teilnehmeridentifikator (z.B. SIP URI, IMPI), bei Mobilfunk die IMSI sowie – soweit zutreffend – die IP‑Adressen und Portnummern des Clients und des Servers sowie die Angaben zum benutzten Protokoll;
+- b.[^56-1] die verwendeten AAA-Informationen der überwachten Dienste und die Informationen über Registrierungs- und Subskriptionsereignisse sowie die entsprechenden Antworten, insbesondere der Teilnehmeridentifikator (z. B. SIP URI, IMPI) und bei Mobilfunk die IMSI;
+- b<sup>bis</sup>.[^56-2] soweit zutreffend, die IP-Adressen und Portnummern des Clients und des Servers sowie die Angaben zum benutzten Protokoll;
 - c. die Signalisierungsinformationen, insbesondere zum Serving System, zum Status des Teilnehmenden und zur Dienstqualität;
 - d. falls zutreffend, die Präsenzinformationen;
 - e.
@@ -1078,6 +1090,9 @@ Die Standortangaben bestehen aus:
 - a. den Identifikatoren oder einer Kombination von Identifikatoren (z.B. CGI, ECGI, SAI, RAI, TAI, BSSID) sowie den geografischen Koordinaten der Zelle beziehungsweise des WLAN-Zugangspunktes sowie soweit verfügbar dem Typ der benutzten Mobilfunktechnologie;
 - b. der vom Netzwerk bestimmten Position des Targets, zum Beispiel in Form von geografischen Koordinaten und dem zugehörigen Unsicherheitswert oder in Form von Polygonen unter Angabe der geografischen Koordinaten jedes Polygonpunktes sowie dem Typ der benutzten Mobilfunktechnologie; oder
 - c. soweit verfügbar, anderen Angaben zum Standort des Targets oder der Zelle beziehungsweise des WLAN-Zugangspunktes, gemäss internationalen Standards sowie dem Typ der benutzten Mobilfunktechnologie.
+
+[^56-1]: Fassung gemäss Ziff. I 12 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^56-2]: Eingefügt durch Ziff. I 12 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 57
 
@@ -1234,7 +1249,11 @@ Die anordnende Behörde lässt in eigener Regie am fraglichen Standort Referenzk
 
 [^66-1]: Die Berichtigung vom 3. Juli 2018 betrifft nur den italienischen Text ([AS 2018 2551](https://fedlex.data.admin.ch/eli/oc/2018/376)).
 
-### 11. Abschnitt: Notsuche und Fahndung
+### 11. Abschnitt: Notsuche, Fahndung und Mobilfunklokalisierung terroristischer Gefährderinnen und Gefährder****
+
+[^chap3-sec11-1]
+
+[^chap3-sec11-1]: Fassung gemäss Ziff. I 12 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 67
 
@@ -1264,6 +1283,21 @@ Für die Fahndung nach verurteilten Personen gemäss Artikel 36 BÜPF können di
 - b. einer der Überwachungstypen der Echtzeitüberwachung von Randdaten bei Netzzugangsdiensten oder Anwendungen gemäss den Artikeln 54, 56 oder 58;
 - c. einer der Überwachungstypen der rückwirkenden Überwachung gemäss den Artikeln 60–63;
 - d. der Antennensuchlauf gemäss Artikel 66 und die entsprechenden Vorbereitungen gemäss Artikel 64 und 65.
+
+#### Art. 68a
+
+**Überwachungstyp ML\_50\_RT: Mobilfunklokalisierung terroristischer Gefährderinnen und Gefährder in Echtzeit**[^68a-1]
+
+<sup>1</sup> Für die Mobilfunklokalisierung terroristischer Gefährderinnen und Gefährder gemäss Artikel 23*q* Absatz 3 des Bundesgesetzes vom 21. März 1997[^68a-2] über Massnahmen zur Wahrung der inneren Sicherheit kann der Überwachungstyp ML\_50\_RT angeordnet werden.
+
+<sup>2</sup> Er umfasst die Kombination der Echtzeitüberwachung der für die Mobilfunklokalisierung erforderlichen Randdaten bei mobilen Netzzugangsdiensten, bei mobilen Telefonie- und Multimediadiensten und, falls zutreffend, bei den mit diesen konvergierenden mobilen Diensten, insbesondere SMS, Voice Mail und RCS.
+
+<sup>3</sup> Bei mobilen Netzzugangsdiensten sind die Randdaten des Fernmeldeverkehrs nach Artikel 54 Absatz 2 Buchstaben a–c, g und h sowie Absatz 3 zu übermitteln.
+
+<sup>4</sup> Bei mobilen Telefonie- und Multimediadiensten sowie mit diesen konvergierenden mobilen Diensten sind die Randdaten des Fernmeldeverkehrs nach Artikel 56 Absatz 1 Buchstaben a, b, d und e Ziffern 1 und 9 sowie Absatz 2 zu übermitteln.
+
+[^68a-1]: Eingefügt durch Ziff. I 12 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^68a-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 
 ### 12. Abschnitt: Netzexterne Identifikatoren
 
@@ -1319,7 +1353,7 @@ Die Verordnung vom 31. Oktober 2001[^72-1] über die Überwachung des Post- und 
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-**1.** und **2.** …[^73-1]
+…[^73-1]
 
 [^73-1]: Die Änderungen können unter [AS 2018 147](https://fedlex.data.admin.ch/eli/oc/2018/32)konsultiert werden.
 
@@ -1355,6 +1389,18 @@ Bis zur Inbetriebnahme des neuen Verarbeitungssystems, das mit dem Programm FMÜ
 <sup>8</sup> Spätestens 12 Monate nach Inbetriebnahme des neuen Verarbeitungssystems passen die FDA und die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Auskunftspflichten gemäss Artikel 22 ihre Systeme an, um die Auskünfte gemäss den Artikeln 35–37 und 40–42 sowie Artikel 27 in Verbindung mit den Artikeln 35, 40 und 42 automatisiert über die Abfrageschnittstelle des Verarbeitungssystems erteilen (Art. 18 Abs. 2) und um die flexible Namenssuche gemäss Artikel 27 in Verbindung mit den Artikeln 35, 40, 42 und 43 durchführen zu können.
 
 [^74-1]: [BBl 2015 3033](https://fedlex.data.admin.ch/eli/fga/2015/612)
+
+#### Art. 74a
+
+**Übergangsbestimmung zur Änderung vom 4. Mai 2022 betreffend die Mobilfunklokalisierung terroristischer Gefährderinnen und Gefährder**[^74a-1]
+
+<sup>1</sup> Der Dienst ÜPF passt sein Verarbeitungssystem innerhalb von 12 Monaten nach der Erneuerung der Echtzeitsystemkomponente des Verarbeitungssystems an, um die Mobilfunklokalisierungen terroristischer Gefährderinnen und Gefährder standardisiert durchführen und in der Statistik erfassen zu können.
+
+<sup>2</sup> Die FDA mit Ausnahme derjenigen mit reduzierten Überwachungspflichten (Art. 51) und die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Überwachungspflichten (Art. 52) passen ihre Systeme innerhalb von 12 Monaten nach der Erneuerung der Echtzeitsystemkomponente des Verarbeitungssystems an, um die Mobilfunklokalisierungen terroristischer Gefährderinnen und Gefährder (Art. 68*a*) standardisiert durchführen zu können.
+
+<sup>3</sup> Solange die Mobilfunklokalisierungen terroristischer Gefährderinnen und Gefährder noch nicht standardisiert nach Artikel 68*a* durchgeführt werden können, führen die Anbieterinnen stattdessen die Überwachungstypen nach Artikel 54 sowie bei Bedarf nach den Artikeln 56 und 63 aus. Der Dienst ÜPF leitet den berechtigten Behörden die Daten nach den Artikeln 54 und 63 weiter. Die Daten nach Artikel 56 leitet der Dienst ÜPF nur im Umfang von Artikel 68*a* weiter. Kann sein Verarbeitungssystem diese Filterung nicht sicherstellen, so leitet er keine Daten weiter. Daten, die er nicht weiterleitet, vernichtet er. Die Gebühren und Entschädigungen richten sich nach den angeordneten Überwachungstypen (Art. 54, 56 und 63).
+
+[^74a-1]: Eingefügt durch Ziff. I 12 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 75
 

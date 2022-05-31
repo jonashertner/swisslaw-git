@@ -4,11 +4,11 @@ title: Ordonnance du 15 novembre 2017 sur la surveillance de la correspondance p
 short: OSCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/32"
 language: fr
-version: 2019-12-03
+version: 2022-06-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20191203/fr/xml/fedlex-data-admin-ch-eli-cc-2018-32-20191203-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20191203/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2018-32-20220601-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20191203/fr"
 
 (OSCPT)
 
-du 15 novembre 2017 (Etat le 3 décembre 2019)
+du 15 novembre 2017 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -170,11 +170,14 @@ En dehors des heures normales de travail et les jours fériés, le Service SCPT 
 - b. la transmission des mandats d’activation des surveillances en temps réel selon les art. 54 à 59;
 - c. la transmission des mandats d’exécution des surveillances rétroactives selon les art. 60 à 63, 65 et 66 qui ont été déclarées urgentes;
 - d. la transmission des mandats d’exécution de recherches en cas d’urgence et de recherches de personnes condamnées selon les art. 67 et 68, excepté l'analyse de la couverture réseau préalablement à une recherche par champ d’antennes selon l'art. 64;
+- d<sup>bis</sup>.[^11-1] la transmission des mandats de localisation par téléphonie mobile de terroristes potentiels selon l’art. 68*a*;
 - e. la levée de dérangements.
 
 <sup>2</sup> Les FST, à l’exception de ceux ayant des obligations restreintes en matière de surveillance visés à l’art. 51, et les fournisseurs de services de communication dérivés ayant des obligations étendues en matière de surveillance visés à l’art. 52 doivent être en mesure d’apporter un soutien au Service SCPT pour lui permettre de fournir en tout temps les prestations mentionnées à l’al. 1. Le Service SCPT doit pouvoir les joindre en tout temps.
 
 <sup>3</sup> Les ordres portant sur des surveillances spéciales, de même que les demandes de renseignements spéciaux (art. 25), ne sont ni réceptionnés, ni traités en dehors des heures normales de travail.
+
+[^11-1]: Introduite par le ch. I 12 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ### Section 4 Statistiques
 
@@ -190,7 +193,8 @@ Le Service SCPT publie chaque année une statistique des surveillances ordonnée
 - b. le nombre de mesures de surveillance rétroactive;
 - c. le nombre de renseignements;
 - d. le nombre de recherches en cas d’urgence;
-- e. le nombre de recherches de personnes condamnées.
+- e. le nombre de recherches de personnes condamnées;
+- f.[^12-1] le nombre de localisations par téléphonie mobile de terroristes potentiels.
 
 <sup>2</sup>
 
@@ -198,10 +202,13 @@ La statistique selon l’al. 1 indique:
 
 - a. le type d’infraction;
 - b. le canton dont relève l’autorité qui a ordonné la mesure ou la désignation de l’autorité de la Confédération dont il s’agit; pour des recherches en cas d’urgence, il peut aussi s’agir d’une autorité de la Principauté de Liechtenstein; dans le cas d’une demande de renseignements, l’autorité cantonale ou fédérale ayant fait la demande (art. 1, al. 2, let. c à f);
-- c. le type de renseignements, de surveillance, de recherche d’urgence ou de recherche de personnes condamnées;
+- c.[^12-2] le type de renseignements, de surveillance, de recherche en cas d’urgence, de recherche de personnes condamnées ou de localisation par téléphonie mobile de terroristes potentiels;
 - d. le cas échéant, la durée de la surveillance;
 - e. les émoluments;
 - f. les indemnités.
+
+[^12-1]: Introduite par le ch. I 12 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^12-2]: Nouvelle teneur selon le ch. I 12 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 13
 
@@ -468,6 +475,10 @@ Les types de recherche de personnes condamnées (art. 68) que les fournisseurs c
 - b surveillance en temps réel du contenu et des données secondaires de services d’accès au réseau ou d’applications (art. 68, let. b);
 - c. surveillance en temps réel des données secondaires de services d’accès au réseau ou d’applications (art. 68, let. c);
 - d. surveillance rétroactive des données secondaires de services d’accès au réseau ou d’applications (art. 68, let. d).
+
+<sup>5</sup> Les fournisseurs concernés doivent exécuter la localisation par téléphonie mobile de terroristes potentiels au moyen de la surveillance en temps réel des données secondaires de services d’accès au réseau et d’applications (art. 68*a*).[^28-1]
+
+[^28-1]: Introduit par le ch. I 12 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ### Section 2 Assurance de la qualité
 
@@ -1049,10 +1060,13 @@ Le type de surveillance RT\_23\_NA\_CC\_IRI a pour objet la surveillance en temp
 
 **Type de surveillance RT\_24\_TEL\_IRI: surveillance en temps réel des données secondaires de services de téléphonie et multimédia**
 
-Le type de surveillance RT\_24\_TEL\_IRI a pour objet la surveillance en temps réel d’un service de téléphonie ou multimédia, y compris, le cas échéant, des services convergents, en particulier les SMS, la messagerie vocale et les services de communication riches. Doivent être transmises en temps réel les données secondaires ci-après des communications émises, traitées ou reçues via le service surveillé:
+<sup>1</sup>
+
+Le type de surveillance RT\_24\_TEL\_IRI a pour objet la surveillance en temps réel d’un service de téléphonie et multimédia, y compris, le cas échéant, des services convergents, en particulier les SMS, la messagerie vocale et les services de communication riches. Doivent être transmises en temps réel les données secondaires ci-après des communications émises, traitées ou reçues via les services surveillés:[^56-1]
 
 - a. la date et l’heure des procédures de connexion et de déconnexion, ainsi que leur résultat;
-- b. les données d’authentification, d’autorisation et de comptabilité (informations AAA) du service surveillé et les informations relatives aux événements d’enregistrement et de souscription ainsi que les réponses correspondantes, en particulier l’identifiant d’usager (par ex. SIP URI, IMPI), et, dans le cas de la téléphonie mobile, l’IMSI, ainsi que, le cas échéant, les adresses IP et les numéros de port du client et du serveur et les indications concernant le protocole utilisé;
+- b.[^56-2] les données d’authentification, d’autorisation et de comptabilité (informations AAA) des services surveillés et les informations relatives aux événements d’enregistrement et de souscription ainsi que les réponses correspondantes, en particulier l’identifiant d’usager (par ex. SIP URI, IMPI) et, dans le cas de la téléphonie mobile, l’IMSI;
+- b<sup>bis</sup>.[^56-3] le cas échéant, les adresses IP et les numéros de port du client et du serveur ainsi que les indications concernant le protocole utilisé;
 - c. les informations de signalisation, en particulier celles relatives au système serveur, au statut de l’usager et à la qualité du service;
 - d. le cas échéant, les informations de présence;
 - e.
@@ -1076,6 +1090,10 @@ Les données de localisation comprennent:
 - a. les identifiants ou une combinaison d’identifiants (par ex. CGI, ECGI, SAI, RAI, TAI, BSSID), les coordonnées géographiques, le cas échéant, la direction principale d’émission de la cellule ou du point d’accès au réseau WLAN, ainsi que, si ces données sont disponibles, le type de technologie de communication mobile utilisée;
 - b. la position, déterminée par le réseau, de l’équipement terminal sur lequel sont utilisés les services surveillés, exprimée sous la forme par exemple de coordonnées géographiques accompagnées de la valeur d’incertitude correspondante ou sous la forme de polygones, avec indication des coordonnées géographiques de chaque point de polygonation, ainsi que le type de technologie de communication mobile utilisée, ou
 - c. si ces données sont disponibles, d’autres indications, selon les normes internationales, concernant la localisation de la cellule ou du point d’accès au réseau WLAN, ainsi que le type de technologie de communication mobile utilisée.
+
+[^56-1]: Nouvelle teneur selon le ch. I 12 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^56-2]: Nouvelle teneur selon le ch. I 12 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^56-3]: Introduite par le ch. I 12 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 57
 
@@ -1228,7 +1246,11 @@ L’autorité qui ordonne la surveillance fait effectuer, de manière autonome, 
 
 [^66-1]: Erratum du 3 juil. 2018, ne concerne que le texte italien ([RO 2018 2551](https://fedlex.data.admin.ch/eli/oc/2018/376)).
 
-### Section 11 Recherche en cas d’urgence et recherche de personnes condamnées
+### Section 11 Recherche en cas d’urgence, recherche de personnes condamnées et localisation par téléphonie mobile de terroristes potentiels****
+
+[^chap3-sec11-1]
+
+[^chap3-sec11-1]: Nouvelle teneur selon le ch. I 12 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 67
 
@@ -1258,6 +1280,21 @@ Les types de surveillance pouvant être ordonnés pour la recherche de personnes
 - b. un des types de surveillance en temps réel des données secondaires de services d’accès au réseau ou d’applications selon les art. 54, 56 ou 58;
 - c. un des types de surveillance rétroactive des données secondaires de services d’accès au réseau ou d’applications selon les art. 60 à 63;
 - d. une recherche par champ d’antennes selon l’art. 66 et les mesures préalables s’y rapportant selon les art. 64 et 65.
+
+#### Art. 68a
+
+**Type de surveillance ML\_50\_RT: localisation par téléphonie mobile en temps réel de terroristes potentiels**[^68a-1]
+
+<sup>1</sup> Le type de surveillance qui peut être ordonné pour la localisation par téléphonie mobile de terroristes potentiels en vertu de l’art. 23*q*, al. 3, de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^68a-2] est ML\_50\_RT.
+
+<sup>2</sup> Ce type de surveillance a pour objet la combinaison de la surveillance en temps réel, à des fins de localisation par téléphonie mobile, des données secondaires de services d’accès au réseau mobile, de services mobiles de téléphonie et multimédia et, le cas échéant, de services mobiles convergents, en particulier les SMS, la messagerie vocale et les services de communication riches.
+
+<sup>3</sup> S’agissant des services d’accès au réseau mobile, les données secondaires des communications doivent être transmises conformément à l’art. 54, al. 2, let. a à c, g et h, et al. 3.
+
+<sup>4</sup> S’agissant des services mobiles de téléphonie et multimédia et des services mobiles convergents, les données secondaires des communications doivent être transmises conformément à l’art. 56, al. 1, let. a, b, d et e, ch. 1 et 9, et al. 2.
+
+[^68a-1]: Introduit par le ch. I 12 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^68a-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 
 ### Section 12 Identifiants externes au réseau
 
@@ -1315,7 +1352,7 @@ Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
 …[^73-1]
 
-[^73-1]: Les mod. peuvent être cosultées au [RO 2018 147](https://fedlex.data.admin.ch/eli/oc/2018/32).
+[^73-1]: Les mod. peuvent être consultées au [RO 2018 147](https://fedlex.data.admin.ch/eli/oc/2018/32).
 
 #### Art. 74
 
@@ -1349,6 +1386,18 @@ Jusqu’à la mise en service du nouveau système de traitement dont l’acquisi
 <sup>8</sup> Au plus tard 12 mois après la mise en service du nouveau système de traitement, les FST et les fournisseurs de services de communication dérivés ayant des obligations étendues en matière de renseignements visés à l’art. 22 adaptent leurs systèmes pour être en mesure de livrer les renseignements selon les art. 35 à 37 et 40 à 42, ainsi que l’art. 27 en relation avec les art. 35, 40 et 42 de manière automatisée, via l’interface de consultation du système de traitement (art. 18, al. 2), et d’exécuter les recherches flexibles de nom selon l’art. 27 en relation avec les art. 35, 40, 42 et 43.
 
 [^74-1]: [FF 2015 2809](https://fedlex.data.admin.ch/eli/fga/2015/612)
+
+#### Art. 74a
+
+**Disposition transitoire relative à la modification du 4 mai 2022 concernant la localisation par téléphonie mobile de terroristes potentiels**[^74a-1]
+
+<sup>1</sup> Le Service SCPT adapte son système de traitement dans les douze mois qui suivent le renouvellement de ses composants en temps réel afin de pouvoir exécuter les localisations par téléphonie mobile de terroristes potentiels de manière standardisée et les saisir dans la statistique.
+
+<sup>2</sup> Les FST, à l’exception de ceux ayant des obligations restreintes en matière de surveillance (art. 51), et les fournisseurs de services de communication dérivés ayant des obligations étendues en matière de surveillance (art. 52) adaptent leurs systèmes dans les douze mois qui suivent le renouvellement des composants en temps réel du système de traitement afin d’exécuter les localisations par téléphonie mobile de terroristes potentiels (art. 68*a*) de manière standardisée.
+
+<sup>3</sup> Tant que les localisations par téléphonie mobile de terroristes potentiels ne peuvent être exécutées de manière standardisée conformément à l’art. 68*a*, les fournisseurs exécutent en lieu et place les types de surveillance prévus à l’art. 54 et, au besoin, aux art. 56 et 63. Le Service SCPT transmet aux autorités habilitées les données visées aux art. 54 et 63. Il ne transmet les données visées à l’art. 56 que dans les limites de l’art. 68*a*. Si son système de traitement ne peut pas assurer ce tri, il ne transmet aucune donnée. Il détruit les données qui ne sont pas transmises. Les émoluments et les indemnités sont calculés en fonction des types de surveillance ordonnés (art. 54, 56 et 63).
+
+[^74a-1]: Introduit par le ch. I 12 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 75
 

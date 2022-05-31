@@ -4,11 +4,11 @@ title: Ordinance of 15 November 2017 on the Surveillance of Post and Telecommuni
 short: SPTO
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/32"
 language: en
-version: 2019-12-03
+version: 2022-06-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20191203/en/xml/fedlex-data-admin-ch-eli-cc-2018-32-20191203-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20191203/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/32/20220601/en/xml/fedlex-data-admin-ch-eli-cc-2018-32-20220601-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/32/20220601/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (SPTO)
 
-of 15 November 2017 (Status as of 3 December 2019)
+of 15 November 2017 (Status as of 1 June 2022)
 
 The Swiss Federal Council,
 
@@ -173,11 +173,14 @@ Outside normal working hours and on public holidays, the PTSS shall provide the 
 - b. issuing assignments for the activation of real-time surveillance in accordance with Articles 54–59;
 - c. issuing assignments for the conduct of retrospective urgent surveillance activities in accordance with Articles 60–63, 65 and 66;
 - d. issuing assignments for missing and wanted person searches in accordance with Articles 67 and 68, with the exception of the network coverage analysis in preparation for an antenna search in accordance with Article 64;
+- d<sup>bis</sup>.[^11-1] issuing assignments for the mobile phone localisation of suspected terrorists in accordance with Article 68*a*;
 - e. the rectification of faults.
 
 <sup>2</sup> The TSPs, with the exception of those with reduced surveillance duties in accordance with Article 51, and providers of derived communication services with more extensive surveillance duties in accordance with Article 52 must be able to support the PTSS so that it may provide the services in accordance with paragraph 1 at any time. The PTSS must be able to contact them at any time.
 
 <sup>3</sup> The ordering of special surveillance activities and requests for special information (Art. 25) shall not be accepted or processed outside normal working hours.
+
+[^11-1]: Inserted by No I 12 of the O of 4 May 2022 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ### Section 4 Statistics
 
@@ -193,7 +196,8 @@ The PTSS shall publish statistics every year about the surveillance activities o
 - b. of retroactive surveillance measures;
 - c. of instances in which information was provided;
 - d. of missing person searches;
-- e. of wanted person searches.
+- e. of wanted person searches;
+- f.[^12-1] of mobile phone localisations of suspected terrorists.
 
 <sup>2</sup>
 
@@ -201,10 +205,13 @@ The statistics in accordance with paragraph 1 shall indicate:
 
 - a. the type of offence;
 - b. the canton of the ordering authority, the ordering federal authority or, in the case of missing person searches, also an authority from the Principality of Liechtenstein, and in the case of information, the competent cantonal or federal authority (Art. 1 para. 2 lets c–f);
-- c. the type of information, surveillance, missing person search or wanted person search;
+- c.[^12-2] the nature of the information, surveillance, missing person search or wanted person search or mobile phone localisation of suspected terrorists;
 - d. the duration of surveillance, if applicable;
 - e. the fees;
 - f. the compensation.
+
+[^12-1]: Inserted by No I 12 of the O of 4 May 2022 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^12-2]: Amended by No I 12 of the O of 4 May 2022 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 13
 
@@ -472,6 +479,10 @@ The providers concerned must conduct the following types of searches (Art. 68):
 - b. real-time surveillance of content and secondary telecommunications data in the case of network access services or applications (Art. 68 let. b);
 - c. real-time surveillance of secondary telecommunications data in the case of network access services or applications (Art. 68 let. c);
 - d. retroactive surveillance in the case of network access services or applications (Art. 68 let. d).
+
+<sup>5</sup> The providers concerned must conduct the mobile phone localisation of suspected terrorists by means of real-time surveillance of secondary telecommunications data in the case of network access services or applications (Art. 68*a*).[^28-1]
+
+[^28-1]: Inserted by No I 12 of the O of 4 May 2022 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ### Section 2 Quality Assurance
 
@@ -1056,7 +1067,8 @@ Surveillance Type RT\_23\_NA\_CC\_IRI involves the real-time surveillance of a n
 Surveillance Type RT\_24\_TEL\_IRI comprises the real-time surveillance of a telephony and multimedia service and, if applicable, converging services, in particular SMS, voice mail and RCS. The following secondary telecommunications data of the telecommunication that is sent, processed or received via the services under surveillance must be transmitted in real time:
 
 - a. the date and the time of logging-in and logging-out processes and their result;
-- b. the AAA information used by the services under surveillance and the information on registration and subscription events and the corresponding responses, in particular the subscriber identifier (e.g. SIP URI, IMPI), the IMSI in the case of mobile communications and – if applicable – the customer’s and server’s IP addresses and port numbers as well as details of the protocol used;
+- b.[^56-1] the AAA information used by the services under surveillance and the information on registration and subscription events and the corresponding responses, in particular the subscriber identifier (e.g. SIP URI, IMPI) and the IMSI in the case of mobile communications;
+- b<sup>bis</sup>.[^56-2] if applicable, the customer’s and server’s IP addresses and port numbers as well as details of the protocol used;
 - c. the signalling information, in particular on the serving system, on subscriber status and on service quality;
 - d. if applicable, the presence information;
 - e.
@@ -1080,6 +1092,9 @@ The location data comprise:
 - a. the identifiers or a combination of identifiers (e.g. CGI, ECGI, SAI, RAI, TAI, BSSID) and the geographical coordinates of the cell or the WLAN access point and, if available, the type of mobile communications technology used;
 - b. the position of the target determined by the network, for example in the form of geographical coordinates and the related uncertainty value, or in the form of polygons, with details of the geographical coordinates of each polygon point as well as the type of mobile communications technology used; or
 - c. if available, other details in accordance with international standards relevant to the location of the target or the cell or of the WLAN access point, and the type of mobile communications technology used.
+
+[^56-1]: Amended by No I 12 of the O of 4 May 2022 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^56-2]: Inserted by No I 12 of the O of 4 May 2022 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 57
 
@@ -1236,7 +1251,11 @@ The ordering authority shall itself arrange for reference communications to be m
 
 [^66-1]: The correction of 3 July 2018 relates to the Italian text only ([AS 2018 2551](https://fedlex.data.admin.ch/eli/oc/2018/376)).
 
-### Section 11 Missing Person and Wanted Person Searches
+### Section 11 Missing Person and Wanted Person Searches and Mobile Phone Localisation of Suspected Terrorists****
+
+[^chap3-sec11-1]
+
+[^chap3-sec11-1]: Amended by No I 12 of the O of 4 May 2022 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 67
 
@@ -1266,6 +1285,21 @@ The following types of surveillance may be ordered for a search for convicted pe
 - b. one of the types of real-time surveillance of secondary telecommunications data of network access services or applications in accordance with Articles 54, 56 or 58;
 - c. one of the types of retroactive surveillance in accordance with Articles 60–63;
 - d. an antenna search in accordance with Article 66 and the corresponding preparations in accordance with Article 64 and 65.
+
+#### Art. 68a
+
+**Surveillance Type ML\_50\_RT: Mobile phone localisation of suspected terrorists in real time**[^68a-1]
+
+<sup>1</sup> Surveillance Type ML\_50\_RT may be ordered for the mobile phone localisation of suspected terrorists in accordance with Article 23*q* paragraph 3 of the Federal Act of 21 March 1997[^68a-2] on Measures to Safeguard Internal Security.
+
+<sup>2</sup> It comprises the combination of real-time surveillance of the secondary telecommunications data required for mobile phone localisation in the case of mobile network access services, mobile telephone and multimedia services and, if applicable, convergent mobile services, in particular SMS, Voice Mail and RCS.
+
+<sup>3</sup> In the case of mobile network access services, the secondary telecommunications data from telecommunications traffic in accordance with Article 54 paragraph 2 letters a–c, g and h and paragraph 3 must be transmitted.
+
+<sup>4</sup> In the case of mobile telephone and multimedia services and convergent mobile services, the secondary telecommunications data from telecommunications traffic in accordance with Article 56 paragraph 1 letters a, b, d and e numbers 1 and 9 and paragraph 2 must be transmitted.
+
+[^68a-1]: Inserted by No I 12 of the O of 4 May 2022 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^68a-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 
 ### Section 12 Off-Network Identifiers
 
@@ -1321,7 +1355,7 @@ The Ordinance of 31 October 2001[^72-1] on the Surveillance of Post and Telecomm
 
 The ordinances below are amended as follows:
 
-**1.** and **2.** …[^73-1]
+…[^73-1]
 
 [^73-1]: The amendments may be consulted under [AS 2018 147](https://fedlex.data.admin.ch/eli/oc/2018/32).
 
@@ -1357,6 +1391,18 @@ Until the new processing system procured under the telecommunications surveillan
 <sup>8</sup> Within 12 months of the new processing system coming into operation, TSPs and providers of derived communication services with more extensive duties to provide information in accordance with Article 22 shall modify their systems in order to supply the information specified in Articles 35–37 and 40–42 and in Article 27 in conjunction with Articles 35, 40 and 42 automatically via the query interface of the processing system (Art. 18 para. 2) and in order to be able to carry out the flexible name search in accordance with Article 27 in conjunction with Articles 35, 40, 42 and 43.
 
 [^74-1]: [BBl 2015 3033](https://fedlex.data.admin.ch/eli/fga/2015/612)
+
+#### Art. 74a
+
+**Transitional provision to the Amendment of 4 May 2022 relating to the mobile phone localisation of suspected terrorists**[^74a-1]
+
+<sup>1</sup> The PTSS shall adapt its processing system within 12 months of the replacement of the real-time system components of the processing systems in order to be able to conduct the mobile phone localisation of suspected terrorists in a standardised manner and record the same in the statistics.
+
+<sup>2</sup> The TSPs, with the exception of those with reduced surveillance duties (Art. 51), and providers of derived communication services with more extensive surveillance duties (Art. 52) shall adapt their systems within 12 months of the replacement of the real-time system components of the processing systems in order to be able to conduct the mobile phone localisation of suspected terrorists (Art. 68*a*) in a standardised manner.
+
+<sup>3</sup> If the mobile phone localisation of suspected terrorists cannot yet be conducted in a standardised manner in accordance with Article 68*a*, providers shall instead conduct the types of surveillance specified in Article 54 and, if required, Articles 56 and 63. The PTSS shall pass on the data in accordance with Articles 54 and 63 to the authorised authorities. The PTSS shall only pass on the data in accordance with Article 56 to the extent specified in Article 68*a*. If its processing system is unable to guarantee this filtering, it shall not pass on any data. It shall destroy data that it does not pass on. The fees and compensation are determined by the type of surveillance ordered (Art. 54, 56 and 63).
+
+[^74a-1]: Inserted by No I 12 of the O of 4 May 2022 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 75
 
