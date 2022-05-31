@@ -4,13 +4,13 @@ number: "151.21"
 title: Gesetz über den Grossen Rat
 short: "Grossratsgesetz, GRG"
 language: de
-version: 2014-01-01
-valid_until: 2022-05-31
-version_adopted: 2013-06-04
+version: 2022-06-01
+valid_until: 2023-12-31
+version_adopted: 2021-11-29
 adopted: 2013-06-04
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/151.21"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1628/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2602/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1628/pdf_file"
 
 (Grossratsgesetz, GRG)
 
-vom 04.06.2013 (Stand 01.01.2014)
+vom 04.06.2013 (Stand 01.06.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -852,6 +852,52 @@ beschliesst:
 <sup>3</sup> Wahlen können ausnahmsweise durch Aufstehen erfolgen.
 
 <sup>4</sup> Kein Ratsmitglied ist zur Stimmabgabe verpflichtet.
+
+#### Art. 77a
+
+**Externe Stimmabgabe in Krisensituationen**
+
+<sup>1</sup> Das Büro des Grossen Rates kann für Sessionen mit Zweidrittelsmehrheit der Stimmenden abschliessend beschliessen, dass Ratsmitglieder extern abstimmen dürfen, sofern
+
+- a eine Krisensituation vorliegt und
+- b die Repräsentativität von Fraktionen oder Wahlkreisen im Grossen Rat aus diesem Grund stark gefährdet ist.
+
+<sup>2</sup> Der Beschluss nach Absatz 1
+
+- a begründet, inwiefern eine Krisensituation vorliegt (Abs. 1 Bst. a),
+- b legt die Kriterien bezüglich starker Gefährdung der Repräsentativität von Fraktionen oder Wahlkreisen fest (Abs. 1 Bst. b),
+- c legt abschliessend die technischen Anforderungen an die externe Stimmabgabe fest.
+
+<sup>3</sup> Stimmen Ratsmitglieder von extern ab,
+
+- a gelten sie bei Abstimmungen im Sinne von Artikel 76 als anwesend,
+- b werden sie wie üblich entschädigt.
+
+<sup>4</sup> Der Beschluss nach Absatz 1 ist
+
+- a sofort anwendbar,
+- b für längstens zwei aufeinanderfolgende Sessionen gültig.
+
+#### Art. 77b
+
+**Zirkulationsverfahren in Krisensituationen**
+
+<sup>1</sup> Das Büro des Grossen Rates kann für Sessionsgeschäfte des Grossen Rates mit Zweidrittelsmehrheit der Stimmenden abschliessend beschliessen, dass über ein Geschäft schriftlich im Zirkulationsverfahren abgestimmt wird, sofern
+
+- a eine Krisensituation vorliegt,
+- b die Beratungs- und Beschlussfähigkeit des Grossen Rates (Art. 76) aus diesem Grund stark gefährdet ist,
+- c das Geschäft dringend durch den Grossen Rat zu beschliessen ist und
+- d sich das Geschäft für eine Beschlussfassung im Zirkulationsverfahren eignet.
+
+<sup>2</sup> Der Beschluss nach Absatz 1
+
+- a begründet die Kriterien nach Absatz 1,
+- b legt abschliessend die technischen Anforderungen an die Stimmabgabe fest.
+
+<sup>3</sup> Wer an einer Abstimmung im Zirkulationsverfahren teilnimmt,
+
+- a gilt als anwesend im Sinne von Artikel 76,
+- b wird wie üblich entschädigt.
 
 #### Art. 78
 

@@ -4,13 +4,13 @@ number: "151.21"
 title: Loi sur le Grand Conseil
 short: LGC
 language: fr
-version: 2014-01-01
-valid_until: 2022-05-31
-version_adopted: 2013-06-04
+version: 2022-06-01
+valid_until: 2023-12-31
+version_adopted: 2021-11-29
 adopted: 2013-06-04
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/151.21"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1628/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2602/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1628/pdf_file"
 
 (LGC)
 
-du 04.06.2013 (état au 01.01.2014)
+du 04.06.2013 (état au 01.06.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -852,6 +852,52 @@ arrête:
 <sup>3</sup> Pour les élections, le Grand Conseil peut exceptionnellement voter par assis et levé.
 
 <sup>4</sup> Aucun membre du Grand Conseil ne peut être tenu de participer à un vote.
+
+#### Art. 77a
+
+**Vote à distance en situation de crise**
+
+<sup>1</sup> Le Bureau du Grand Conseil est seul compétent pour décider à la majorité des deux tiers des votants et votantes d’autoriser les membres du Grand Conseil à voter à distance lors des sessions, si les conditions suivantes sont réunies:
+
+- a une situation de crise se présente;
+- b la représentativité des groupes ou des cercles électoraux au sein du Grand Conseil est fortement menacée par cette situation.
+
+<sup>2</sup> La décision au sens de l’alinéa 1
+
+- a justifie en quoi il s’agit d’une situation de crise (al.1, lit. a);
+- b fixe les critères déterminant une forte menace pesant sur la représentativité des groupes ou des cercles électoraux (al. 1, lit. b);
+- c fixe de manière exhaustive les exigences techniques relatives au vote à distance.
+
+<sup>3</sup> Les membres du Grand Conseil votant à distance
+
+- a sont considérés comme présents au vote au sens de l'article 76;
+- b touchent des indemnités comme d’ordinaire.
+
+<sup>4</sup> La décision au sens de l’alinéa 1
+
+- a est applicable immédiatement;
+- b vaut pour deux sessions consécutives au maximum.
+
+#### Art. 77b
+
+**Décision par voie de circulation en situation de crise**
+
+<sup>1</sup> Le Bureau du Grand Conseil est seul compétent pour décider à la majorité des deux tiers des votants et votantes qu’une affaire de la session peut faire l’objet d’un vote par voie de circulation si les conditions suivantes sont réunies:
+
+- a une situation de crise se présente;
+- b la validité des délibérations et des décisions du Grand Conseil (art. 76) est fortement menacée par cette situation;
+- c le Grand Conseil doit d’urgence statuer sur l’affaire;
+- d l’affaire se prête à une décision par voie de circulation.
+
+<sup>2</sup> La décision au sens de l’alinéa 1
+
+- a justifie les critères fixés à l'alinéa 1;
+- b fixe de manière exhaustive les exigences techniques relatives au vote.
+
+<sup>3</sup> Les membres prenant part à un vote par voie de circulation
+
+- a sont considérés comme présents au vote au sens de l’article 76;
+- b touchent des indemnités comme d’ordinaire.
 
 #### Art. 78
 
