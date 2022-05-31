@@ -4,11 +4,11 @@ title: "Ordinanza del 1° marzo 2006 sulla navigazione civile dell'Amministrazio
 short: ONCAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/152"
 language: it
-version: 2016-02-15
+version: 2022-06-01
 adopted: 2006-03-01
 in_force: 2006-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/152/20160215/it/xml/fedlex-data-admin-ch-eli-cc-2006-152-20160215-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/152/20160215/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/152/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2006-152-20220601-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/152/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/152/20160215/it"
 
 (ONCAF)
 
-del 1° marzo 2006 (Stato 15 febbraio 2016)
+del 1° marzo 2006 (Stato 1° giugno 2022) (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 56 capoverso 1 della legge federale del 3 ottobre 1975[^ingress-1] sulla navigazione interna (LNI),
+visto l’articolo 56 capoverso 2<sup>bis</sup> della legge federale del 3 ottobre 1975[^ingress-1] sulla navigazione interna (LNI),[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 747.201](https://fedlex.data.admin.ch/eli/cc/1976/725_724_724)
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 306](https://fedlex.data.admin.ch/eli/oc/2022/306)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -35,11 +36,11 @@ ordina:
 
 <sup>1</sup> La presente ordinanza contiene disposizioni esecutive della LNI per la navigazione civile dell’Amministrazione federale.
 
-<sup>2</sup> Essa è applicabile ai battelli acquistati, noleggiati, presi in leasing, presi in prestito o requisiti dall’Amministrazione federale (battelli dell’Amministrazione) per adempiere compiti della Confederazione e ai loro conduttori sulle acque aperte alla navigazione pubblica entro i confini nazionali.[^1-1]
+<sup>2</sup> Essa è applicabile ai battelli acquistati, noleggiati, presi in leasing, presi in prestito o requisiti dall’Amministrazione federale (battelli dell’Amministrazione) per adempiere compiti della Confederazione e ai loro conduttori sulle acque svizzere, comprese quelle confinarie.[^1-1]
 
 <sup>3</sup> Sempre che la presente ordinanza o accordi internazionali non dispongano altrimenti, è applicabile l’ordinanza dell’8 novembre 1978[^1-2] sulla navigazione nelle acque svizzere.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 15 feb. 2016 ([RU 2016 409](https://fedlex.data.admin.ch/eli/oc/2016/63)).
+[^1-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 306](https://fedlex.data.admin.ch/eli/oc/2022/306)).
 [^1-2]: [RS 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337)
 
 #### Art. 1a
@@ -75,7 +76,7 @@ l’Ufficio della circolazione e della navigazione dell’esercito (UCNEs) è co
 
 <sup>2</sup>
 
-La Formazione d’addestramento del genio/salvataggio è competente per:[^3-2]
+La Formazione d’addestramento del genio/salvataggio/NBC è competente per:[^3-2]
 
 - a. la formazione e il perfezionamento dei conduttori di battelli dell’Amministrazione;
 - b.[^3-3] la messa a disposizione del personale specializzato e dei periti d’esame necessari alla formazione e agli esami, conformemente alle direttive dell’UCNEs.
@@ -95,7 +96,7 @@ Armasuisse è competente per:
 - b. la consulenza tecnica a favore dei mandanti.
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 15 feb. 2016 ([RU 2016 409](https://fedlex.data.admin.ch/eli/oc/2016/63)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 15 feb. 2016 ([RU 2016 409](https://fedlex.data.admin.ch/eli/oc/2016/63)).
+[^3-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 306](https://fedlex.data.admin.ch/eli/oc/2022/306)).
 [^3-3]: Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 15 feb. 2016 ([RU 2016 409](https://fedlex.data.admin.ch/eli/oc/2016/63)).
 
 ## Sezione 2: Battelli dell’Amministrazione
@@ -120,7 +121,7 @@ Armasuisse è competente per:
 
 <sup>1bis</sup> Il personale civile dei cantieri navali può condurre battelli dell’Amministrazione soltanto durante corse di prova o trasferimenti. A tal fine, è sufficiente una licenza di condurre natanti cantonale della categoria corrispondente.[^5-2]
 
-<sup>1ter</sup> Nel caso degli agenti di polizia, per le loro attività di servizio è sufficiente una licenza di condurre natanti cantonale della categoria corrispondente. La licenza di condurre militare è rilasciata, per la durata di cinque anni, dal comando della Formazione d’addestramento del genio/salvataggio una volta conclusa l’istruzione complementare.[^5-3]
+<sup>1ter</sup> Gli agenti di polizia, i pompieri e il personale dei servizi sanitari non necessitano di una licenza di condurre natanti federale se durante la loro attività professionale conducono battelli dell’Amministrazione con una licenza di condurre natanti cantonale della categoria corrispondente. La licenza di condurre battelli dell’Amministrazione è rilasciata, per una durata massima di cinque anni, dal comando della Formazione d’addestramento del genio/salvataggio/NBC una volta conclusa l’istruzione complementare.[^5-3]
 
 <sup>2</sup> I battelli dell’Amministrazione possono essere utilizzati unicamente per corse di servizio.
 
@@ -128,7 +129,7 @@ Armasuisse è competente per:
 
 [^5-1]: Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 15 feb. 2016 ([RU 2016 409](https://fedlex.data.admin.ch/eli/oc/2016/63)).
 [^5-2]: Introdotto dal n. I dell’O del 13 gen. 2016, in vigore dal 15 feb. 2016 ([RU 2016 409](https://fedlex.data.admin.ch/eli/oc/2016/63)).
-[^5-3]: Introdotto dal n. I dell’O del 13 gen. 2016, in vigore dal 15 feb. 2016 ([RU 2016 409](https://fedlex.data.admin.ch/eli/oc/2016/63)).
+[^5-3]: Introdotto dal n. I dell’O del 13 gen. 2016 ([RU 2016 409](https://fedlex.data.admin.ch/eli/oc/2016/63)). Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 306](https://fedlex.data.admin.ch/eli/oc/2022/306)).
 
 #### Art. 6
 
@@ -228,6 +229,16 @@ Nel caso d’incidenti e nei casi di danno, il Centro danni del Dipartimento fed
 
 [^13-1]: [RS 514.31](https://fedlex.data.admin.ch/eli/cc/2005/163)
 
+#### Art. 13a
+
+**Trasporto di merci pericolose**[^13a-1]
+
+<sup>1</sup> Il trasporto di merci pericolose è disciplinato nell’allegato.
+
+<sup>2</sup> Il Dipartimento federale della difesa, della protezione della popolazione e dello sport può modificare l’allegato con il consenso del Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni.
+
+[^13a-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 306](https://fedlex.data.admin.ch/eli/oc/2022/306)).
+
 ## Sezione 5: Disposizioni finali
 
 #### Art. 14
@@ -250,4 +261,96 @@ L’istruzione in materia di radar è riconosciuta con effetto retroattivo dal 1
 
 **Entrata in vigore**
 
-La presente ordinanza entra in vigore il 1° aprile 2006.
+### La presente ordinanza entra in vigore il 1° aprile 2006
+
+Allegato[^t-1]
+
+(art. 13*a*)
+
+## Prescrizioni per il trasporto di merci pericolose
+
+[^t-1]: Introdotto dal n. II dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 306](https://fedlex.data.admin.ch/eli/oc/2022/306)).
+
+### Parte 1 Disposizioni generali
+
+### 110 Campo d’applicazione e applicabilità
+
+- 111 Il trasporto di merci pericolose sulle acque svizzere, comprese quelle confinarie, è generalmente vietato. Le deroghe sono stabilite nel presente allegato.
+- 112 I conduttori dei battelli sono responsabili del rispetto delle presenti prescrizioni.
+- 113 L’UCNEs può, con il consenso dell’UFT, autorizzare altre deroghe, segnatamente alle prescrizioni concernenti le modalità di trasporto della merce, i battelli da utilizzare e la marcatura dei colli, dei container, dei battelli e dei gruppi elettrogeni.
+
+### 120 Esenzioni relative alla natura dell’operazione di trasporto
+
+- 121
+
+  L’allegato non si applica:
+
+  - a. ai trasporti di macchinari o dispositivi che possono contenere merci pericolose nel loro interno o nei loro circuiti di funzionamento, a condizione che siano adottate misure per impedire fughe del contenuto in condizioni di trasporto normali;
+  - b. ai trasporti di emergenza destinati a salvare vite umane o a proteggere l’ambiente, a condizione che siano adottate tutte le misure necessarie a effettuare questi trasporti in tutta sicurezza;
+  - c. ai trasporti di merci pericolose di cui sono equipaggiate le persone a bordo.
+
+### 130 Esenzioni relative al trasporto di gas
+
+- 131
+
+  L’allegato non si applica a trasporti di:
+
+  - a. gas nelle bombole da sub, a condizione che siano adottate tutte le misure necessarie a effettuare questi trasporti in tutta sicurezza;
+  - b. gas negli equipaggiamenti del battello o della sua soprastruttura;
+  - c. gas contenuti nei serbatoi di carburante dei veicoli trasportati.
+
+### 140 Esenzioni relative al trasporto di carburanti liquidi
+
+- 141 L’allegato non si applica ai trasporti di carburante che serve alla propulsione del battello o al funzionamento dei suoi equipaggiamenti, segnatamente in recipienti di carburante di riserva portatili (taniche) fissati agli appositi equipaggiamenti o trasportati in modo sufficientemente sicuro.
+
+### 150 Esenzioni relative ai trasporti di dispositivi per l’accumulo e la generazione di energia elettrica
+
+- 151
+
+  L’allegato non si applica ai dispositivi per l’accumulo e la generazione di energia elettrica (per es. pile al litio, condensatori elettrici, condensatori asimmetrici, accumulatori all’idruro di metallo, pile a combustibile):
+
+  - a. installati in un battello che esegue un’operazione di trasporto e destinati alla sua propulsione o al funzionamento di uno dei suoi equipaggiamenti;
+  - b. contenuti, per il suo funzionamento, in un equipaggiamento utilizzato durante il trasporto o destinato a un’utilizzazione durante il trasporto (per es. computer portatile);
+  - c. che servono come batterie di veicoli, macchine da cantiere o altri mezzi di trasporto trasportati come carico e destinate alla loro propulsione o al funzionamento di uno dei loro equipaggiamenti.
+
+### Parte 2 Classificazione
+
+- 210 La classificazione delle merci pericolose (attribuzione del No ONU, dei codici di classificazione e degli eventuali gruppi di imballaggio) si fonda sul RID[^annexu1-lvlu1-part2-1].
+
+[^annexu1-lvlu1-part2-1]: Il testo del RID (appendice C della Conv. del 9 mag. 1980 relativa ai trasporti internazionali per ferrovia; COTIF; [RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) non è pubblicato nella RU. Il testo può essere consultato in francese, tedesco e inglese sul sito Internet dell’Organizzazione intergovernativa per i trasporti internazionali per ferrovia (OTIF) all’indirizzo www.otif.org &gt; Marchandises dangereuses
+
+### Parte 3 Lista delle merci pericolose e disposizioni speciali
+
+- *(aperto)*
+
+### Parte 4 Prescrizioni relative all’utilizzazione di imballaggi
+
+- 410 Le merci pericolose possono essere trasportate unicamente in imballaggi omologati quali taniche, fusti, casse, bottiglie o recipienti a pressione. Non è consentito l’impiego di imballaggi non a tenuta stagna o danneggiati.
+
+### Parte 5 Prescrizioni relative alla spedizione
+
+- *(aperto)*
+
+### Parte 6 Prescrizioni relative alla costruzione e alle prove di imballaggi e di cisterne
+
+- *(aperto)*
+
+### Parte 7 Prescrizioni concernenti le condizioni di trasporto, carico, scarico e movimentazione
+
+- 710 Le differenti parti di un carico di merci pericolose devono essere disposte e assicurate con mezzi idonei in maniera tale da evitare qualsiasi spostamento durante il viaggio.
+
+### Parte 8 Prescrizioni relative all’equipaggio, all’equipaggiamento, all’esercizio dei battelli e alla documentazione
+
+### 810 Prescrizioni generali relative ai battelli e al materiale di bordo
+
+- *(aperto)*
+
+### 820 Prescrizioni relative alla formazione dei conduttori di battelli
+
+- *(aperto)*
+
+### 830 Prescrizioni varie da osservare da parte dell’equipaggio del battello
+
+- 831 Durante il trasporto e le operazioni di carico e scarico è vietato fumare o è consentito fumare soltanto in un luogo appositamente designato.
+- 832 Se, in seguito a un incidente, vi sono rischi per le persone o l’ambiente, deve essere sbarrata la zona pericolosa e devono essere avvertiti i servizi di salvataggio civili.
+- 833 L’equipaggio è tenuto a prestare aiuto.

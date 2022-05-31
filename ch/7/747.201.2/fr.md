@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> mars 2006 concernant la navigation civile d
 short: ONCAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/152"
 language: fr
-version: 2016-02-15
+version: 2022-06-01
 adopted: 2006-03-01
 in_force: 2006-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/152/20160215/fr/xml/fedlex-data-admin-ch-eli-cc-2006-152-20160215-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/152/20160215/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/152/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2006-152-20220601-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/152/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/152/20160215/fr"
 
 (ONCAF)
 
-du 1<sup>er</sup> mars 2006 (Etat le 15 février 2016)
+du 1<sup>er</sup> mars 2006 (État le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 56, al. 1, de la loi fédérale du 3 octobre 1975 sur la navigation intérieure (LNI) [^ingress-1],
+vu l’art. 56, al. 2<sup>bis</sup>, de la loi fédérale du 3 octobre 1975 sur la navigation intérieure (LNI)[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 747.201](https://fedlex.data.admin.ch/eli/cc/1976/725_724_724)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 306](https://fedlex.data.admin.ch/eli/oc/2022/306)).
 
 ## Section 1 Dispositions générales
 
@@ -35,11 +36,11 @@ arrête:
 
 <sup>1</sup> La présente ordonnance contient des dispositions complémentaires à la LNI concernant la navigation civile de l’administration fédérale.
 
-<sup>2</sup> Elle s’applique aux bateaux achetés, loués, pris en leasing, empruntés ou réquisitionnés par l’administration fédérale pour les tâches de la Confédération (bateaux de l’administration) et à leurs conducteurs sur les eaux publiques à l’intérieur des frontières nationales.[^1-1]
+<sup>2</sup> Elle s’applique aux bateaux achetés, loués, pris en leasing, empruntés ou réquisitionnés par l’administration fédérale pour les tâches de la Confédération (bateaux de l’administration) et à leurs conducteurs sur les voies navigables suisses, y compris celles qui sont frontalières.[^1-1]
 
 <sup>3</sup> Sauf dispositions contraires de la présente ordonnance ou d’accords internationaux, l’ordonnance du 8 novembre 1978 sur la navigation dans les eaux suisses[^1-2] est applicable.
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 15 fév. 2016 ([RO 2016 409](https://fedlex.data.admin.ch/eli/oc/2016/63)).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 306](https://fedlex.data.admin.ch/eli/oc/2022/306)).
 [^1-2]: [RS 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337)
 
 #### Art. 1a
@@ -75,7 +76,7 @@ L’Office de la circulation routière et de la navigation de l’armée (OCRNA)
 
 <sup>2</sup>
 
-La Formation d’application du génie et du sauvetage de l’armée suisse est compétente pour:[^3-2]
+La Formation d’application génie/sauvetage/NBC de l’armée est compétente pour:[^3-2]
 
 - a. la formation et la formation continue des conducteurs de bateaux de l’admi-nistration fédérale;
 - b.[^3-3] la mise à disposition du personnel spécialisé requis pour la formation et l’examen ainsi que des experts aux examens conformément aux directives de l’OCRNA.
@@ -95,7 +96,7 @@ L’armasuisse est compétente pour:
 - b. le conseil des mandats en matière technique.
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 15 fév. 2016 ([RO 2016 409](https://fedlex.data.admin.ch/eli/oc/2016/63)).
-[^3-2]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 15 fév. 2016 ([RO 2016 409](https://fedlex.data.admin.ch/eli/oc/2016/63)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 306](https://fedlex.data.admin.ch/eli/oc/2022/306)).
 [^3-3]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 15 fév. 2016 ([RO 2016 409](https://fedlex.data.admin.ch/eli/oc/2016/63)).
 
 ## Section 2 Bateaux de l’administration
@@ -120,7 +121,7 @@ L’armasuisse est compétente pour:
 
 <sup>1bis</sup> Le personnel civil des chantiers navals ne peut conduire des bateaux de l’administration que pour effectuer des courses de transfert et d’essai. A cette fin, un permis de conduire cantonal de la catégorie correspondante est suffisant.[^5-2]
 
-<sup>1ter</sup> Pour les membres de la police, le permis de conduire cantonal de la catégorie correspondante est suffisant pour accomplir leurs activités de service. A l’issue de la formation complémentaire, le commandement de la Formation d’application du génie et du sauvetage délivre l’autorisation de conduire militaire pour une durée de cinq ans.[^5-3]
+<sup>1ter</sup> Les membres de la police, des corps de sapeurs-pompiers et des services sanitaires n’ont pas besoin d’un permis de conduire fédéral lorsqu’ils conduisent des bateaux de l’administration avec un permis de conduire cantonal de la catégorie correspondante pendant leurs activités professionnelles. À l’issue de la formation complémentaire, le commandement de la Formation d’application génie/sauvetage/ NBC leur délivre l’autorisation de conduire des bateaux de l’administration pour une durée de cinq ans au plus.[^5-3]
 
 <sup>2</sup> Les bateaux de l’administration ne doivent être utilisés que pour des courses de service.
 
@@ -128,7 +129,7 @@ L’armasuisse est compétente pour:
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 15 fév. 2016 ([RO 2016 409](https://fedlex.data.admin.ch/eli/oc/2016/63)).
 [^5-2]: Introduit par le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 15 fév. 2016 ([RO 2016 409](https://fedlex.data.admin.ch/eli/oc/2016/63)).
-[^5-3]: Introduit par le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 15 fév. 2016 ([RO 2016 409](https://fedlex.data.admin.ch/eli/oc/2016/63)).
+[^5-3]: Introduit par le ch. I de l’O du 13 janv. 2016 ([RO 2016 409](https://fedlex.data.admin.ch/eli/oc/2016/63)). Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 306](https://fedlex.data.admin.ch/eli/oc/2022/306)).
 
 #### Art. 6
 
@@ -227,6 +228,16 @@ En cas d’accident ou de dommage, le Centre de dommages du Département fédér
 
 [^13-1]: [RS 514.31](https://fedlex.data.admin.ch/eli/cc/2005/163)
 
+#### Art. 13a
+
+**Transport de marchandises dangereuses**[^13a-1]
+
+<sup>1</sup> Le transport de marchandises dangereuses est réglé dans l’annexe.
+
+<sup>2</sup> Le Département fédéral de la défense, de la protection de la population et des sports peut modifier l’annexe avec le consentement du Département fédéral de l’environnement, des transports, de l’énergie et de la communication.
+
+[^13a-1]: Introduit par le le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 306](https://fedlex.data.admin.ch/eli/oc/2022/306)).
+
 ## Section 5 Dispositions finales
 
 #### Art. 14
@@ -250,3 +261,95 @@ Les formations à l’utilisation de radars de bateaux sont reconnues avec effet
 **Entrée en vigueur**
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> avril 2006.
+
+Annexe[^t-1]
+
+(art. 13*a*)
+
+## Dispositions sur le transport de marchandises dangereuses
+
+[^t-1]: Introduite par le le ch. II de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 306](https://fedlex.data.admin.ch/eli/oc/2022/306)).
+
+### Partie 1 Dispositions générales
+
+### 110 Champ d’application et applicabilité
+
+- 111 De manière générale, le transport de marchandises dangereuses est interdit sur les voies navigables suisses, y compris celles qui sont frontalières. Les exceptions sont énumérées dans la présente annexe.
+- 112 La responsabilité du respect des présentes dispositions incombe au conducteur du bateau.
+- 113 L’OCRNA peut accorder, avec le consentement de l’OFT, d’autres exceptions, en particulier aux dispositions concernant le mode de transport des marchandises, les bateaux à employer ainsi que le marquage des colis, des conteneurs, des bateaux et des groupes électrogènes.
+
+### 120 Exemptions liées à la nature de l’opération de transport
+
+- 121
+
+  La présente annexe ne s’applique pas:
+
+  - a. aux transports de machines ou de matériels qui comportent des marchandises dangereuses dans leur structure ou leur circuit de fonctionnement, à condition que des mesures soient prises pour empêcher toute fuite de contenu dans des conditions normales de transport;
+  - b. aux transports d’urgence destinés à sauver des vies humaines ou à protéger l’environnement, à condition que toutes les mesures soient prises afin que la sécurité de ces transports soit assurée;
+  - c. aux transports de marchandises dangereuses dont sont équipées certaines personnes se trouvant à bord.
+
+### 130 Exemptions liées au transport de gaz
+
+- 131
+
+  La présente annexe ne s’applique pas au transport:
+
+  - a. des gaz contenus dans les bouteilles de plongée, à condition que toutes les mesures soient prises pour assurer la sécurité du transport;
+  - b. des gaz contenus dans les pièces ou les superstructures du bateau;
+  - c. des gaz contenus dans les réservoirs à carburant des véhicules transportés.
+
+### 140 Exemptions liées au transport de carburants liquides
+
+- 141 La présente annexe ne s’applique pas au transport du carburant qui sert à la propulsion du bateau ou au fonctionnement de ses équipements, notamment de celui qui se trouve dans des récipients de réserve portatifs (jerricanes) fixés aux installations prévues à cet effet ou emportés en étant arrimés sûrement.
+
+### 150 Exemptions liées au transport de dispositifs de stockage et de production d’énergie électrique
+
+- 151
+
+  La présente annexe ne s’applique pas aux dispositifs de stockage et de production d’énergie électrique (p. ex. batteries au lithium, condensateurs électriques, condensateurs asymétriques, dispositifs de stockage à hydrure métallique et batteries à combustible):
+
+  - a. installés dans des bateaux effectuant une opération de transport et qui sont destinés à leur propulsion ou au fonctionnement d’un de leurs équipements;
+  - b. contenus dans un équipement utilisé ou destiné à une utilisation durant le transport et dont le fonctionnement doit être assuré (p. ex. un ordinateur portable);
+  - c. servant de batteries installées dans des véhicules, des machines de chantier ou d’autres moyens de transport transportés en tant que chargement, et destinées à leur propulsion ou au fonctionnement d’un de leurs équipements.
+
+### Partie 2 Classification
+
+- 210 La classification des marchandises dangereuses (p. ex. attribution des numéros ONU, des codes de classification et des éventuels groupes d’emballages) est régie par le RID[^annexu1-lvlu1-part2-1].
+
+[^annexu1-lvlu1-part2-1]: Le texte du RID (appendice C de la Convention du 9 mai 1980 relative aux transports internationaux ferroviaires; COTIF; [RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) n’est pas publié dans le RS). Il peut être téléchargé sur le site Internet de l’Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF) à l’adresse www.otif.org &gt; Marchandises dangereuses.
+
+### Partie 3 Liste des marchandises dangereuses et des dispositions spéciales
+
+- *(réservé)*
+
+### Partie 4 Dispositions relatives à l’utilisation des emballages
+
+- 410 Les marchandises dangereuses doivent être transportées exclusivement dans les emballages homologués tels que jerricanes, fûts, caisses, bouteilles ou récipients sous pression. Les emballages non étanches ou endommagés ne doivent pas être utilisés.
+
+### Partie 5 Dispositions relatives à l’expédition
+
+- *(réservé)*
+
+### Partie 6 Dispositions relatives à la construction des emballages et des citernes et aux contrôles qu’ils doivent subir
+
+- *(réservé)*
+
+### Partie 7 Dispositions concernant le transport, le chargement, le déchargement et la manutention
+
+- 710 Les différentes parties d’un chargement de marchandises dangereuses doivent être disposées et assurées de manière à éviter tout déplacement pendant le trajet.
+
+### Partie 8 Dispositions relatives aux équipages, à l’équipement, à l’exploitation des bateaux et à la documentation
+
+### 810 Dispositions générales relatives aux bateaux et au matériel de bord
+
+- *(**réservé**)*
+
+### 820 Dispositions relatives à la formation des conducteurs de bateaux
+
+- *(réservé)*
+
+### 830 Dispositions diverses à observer par les équipages
+
+- 831 Il est interdit de fumer pendant le transport, le chargement et le déchargement, sauf à l’endroit désigné à cet effet.
+- 832 En cas d’accident mettant en péril des personnes ou l’environnement, un périmètre de sécurité doit être établi autour de la zone dangereuse, et les services de sauvetage civils doivent être alertés.
+- 833 Les membres d’équipage sont tenus de participer aux opérations de secours.
