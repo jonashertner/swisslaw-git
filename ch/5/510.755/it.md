@@ -4,11 +4,11 @@ title: Ordinanza del 1° marzo 2006 sulla navigazione militare (ONM)
 short: ONM
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/150"
 language: it
-version: 2016-02-15
+version: 2022-06-01
 adopted: 2006-03-01
 in_force: 2006-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20160215/it/xml/fedlex-data-admin-ch-eli-cc-2006-150-20160215-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/150/20160215/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2006-150-20220601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/150/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/150/20160215/it"
 
 (ONM)
 
-del 1° marzo 2006 (Stato 15 febbraio 2016)
+del 1° marzo 2006 (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 27 capoverso 4 e 56 capoverso 1 della legge federale del 3 ottobre 1975[^ingress-1] sulla navigazione interna (LNI); visto l’articolo 150 capoverso 1 della legge militare del 3 febbraio 1995[^ingress-2],
+visti gli articoli 27 capoverso 4 e 56 capoverso 2<sup>bis</sup> della legge federale del 3 ottobre 1975[^ingress-1] sulla navigazione interna (LNI); visto l’articolo 150 capoverso 1 della legge militare del 3 febbraio 1995[^ingress-2],[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 747.201](https://fedlex.data.admin.ch/eli/cc/1976/725_724_724)
 [^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-3]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -40,9 +41,11 @@ La presente ordinanza disciplina, per la navigazione militare, le deroghe a norm
 
 **Campo d’applicazione**
 
-<sup>1</sup> La presente ordinanza è applicabile all’impiego di natanti militari, veicoli anfibi militari e altri mezzi militari anfibi e d’immersione nell’ambito di attività militari di servizio, attività premilitari e attività militari fuori del servizio sulle acque pubbliche entro i confini nazionali o nel settore attribuito alla Svizzera.
+<sup>1</sup> La presente ordinanza è applicabile all’impiego di natanti militari, veicoli anfibi militari e altri mezzi militari anfibi e d’immersione nell’ambito di attività militari di servizio, attività premilitari e attività militari fuori del servizio sulle acque svizzere, comprese quelle confinarie.[^2-1]
 
 <sup>2</sup> Del rimanente sono applicabili le prescrizioni in materia di navigazione civile.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 #### Art. 3
 
@@ -75,10 +78,10 @@ L’Ufficio della circolazione e della navigazione dell’esercito (UCNEs) è co
 
 <sup>2</sup>
 
-La Formazione d’addestramento del genio/del salvataggio è competente per:
+La Formazione d’addestramento del genio/del salvataggio/NBC è competente per:[^4-4]
 
 - a. l’istruzione e il perfezionamento dei conduttori di natanti militari;
-- b.[^4-4] la messa a disposizione del personale specializzato e dei periti d’esame necessari all’istruzione e agli esami, conformemente alle direttive dell’UCNEs;
+- b.[^4-5] la messa a disposizione del personale specializzato e dei periti d’esame necessari all’istruzione e agli esami, conformemente alle direttive dell’UCNEs;
 - c. la consulenza specialistica e il controllo nell’ambito delle attività premilitari e delle attività militari fuori del servizio.
 
 <sup>3</sup>
@@ -97,7 +100,7 @@ Armasuisse è competente per:
 
 <sup>5</sup> Il comandante di truppa responsabile assicura l’applicazione della presente ordinanza e delle prescrizioni civili nell’ambito delle attività militari di servizio.
 
-<sup>5bis</sup> La Formazione d’addestramento responsabile garantisce l’applicazione della presente ordinanza e delle prescrizioni civili nell’ambito delle attività premilitari e delle attività militari fuori del servizio.[^4-5]
+<sup>5bis</sup> La Formazione d’addestramento responsabile garantisce l’applicazione della presente ordinanza e delle prescrizioni civili nell’ambito delle attività premilitari e delle attività militari fuori del servizio.[^4-6]
 
 <sup>6</sup>
 
@@ -109,8 +112,9 @@ La polizia militare provvede alla sicurezza della navigazione militare. È segna
 [^4-1]: Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 15 feb. 2016 ([RU 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
 [^4-2]: Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 15 feb. 2016 ([RU 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
 [^4-3]: Introdotta dal n. I dell’O del 13 gen. 2016, in vigore dal 15 feb. 2016 ([RU 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
-[^4-4]: Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 15 feb. 2016 ([RU 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
-[^4-5]: Introdotto dal n. I dell’O del 13 gen. 2016, in vigore dal 15 feb. 2016 ([RU 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
+[^4-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^4-5]: Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 15 feb. 2016 ([RU 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
+[^4-6]: Introdotto dal n. I dell’O del 13 gen. 2016, in vigore dal 15 feb. 2016 ([RU 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
 
 ## Sezione 2: Natanti militari
 
@@ -171,14 +175,16 @@ Non devono essere immatricolati:
 
 I civili non possono essere presi a bordo di natanti militari. Sono eccettuati i civili che:
 
-- a. partecipano a un’esercitazione militare, a un’attività di servizio della truppa o a manifestazioni militari fuori del servizio;
-- b. devono essere trasportati come visitatori in occasione di esercitazioni militari, giornate delle porte aperte, consegne di bandiere o stendardi, cerimonie di promozione o durante manifestazioni militari fuori del servizio;
-- c. partecipano a visite militari organizzate o devono essere trasportati nel quadro di impieghi della truppa autorizzati secondo l’ordinanza del 21 agosto 2013[^9-1] concernente l’appoggio a favore di attività civili o attività fuori del servizio mediante mezzi militari;
+- a.[^9-1] partecipano a un’esercitazione militare, a un’attività di servizio della truppa o a manifestazioni premilitari o a manifestazioni militari fuori del servizio;
+- b.[^9-2] devono essere trasportati come visitatori in occasione di esercitazioni militari, giornate delle porte aperte, consegne di bandiere o stendardi, cerimonie di promozione o a manifestazioni premilitari o a manifestazioni militari fuori del servizio;
+- c. partecipano a visite militari organizzate o devono essere trasportati nel quadro di impieghi della truppa autorizzati secondo l’ordinanza del 21 agosto 2013[^9-3] concernente l’appoggio a favore di attività civili o attività fuori del servizio mediante mezzi militari;
 - d. devono essere presi a bordo per altre ragioni di servizio o di ordine militare;
-- e. sono presi a bordo in casi d’emergenza o per prestare soccorso.[^9-2]
+- e. sono presi a bordo in casi d’emergenza o per prestare soccorso.[^9-4]
 
-[^9-1]: [RS 513.74](https://fedlex.data.admin.ch/eli/cc/2013/568)
-[^9-2]: Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 15 feb. 2016 ([RU 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
+[^9-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^9-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^9-3]: [RS 513.74](https://fedlex.data.admin.ch/eli/cc/2013/568)
+[^9-4]: Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 15 feb. 2016 ([RU 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
 
 ## Sezione 3: Condotta di natanti militari
 
@@ -186,9 +192,11 @@ I civili non possono essere presi a bordo di natanti militari. Sono eccettuati i
 
 **Istruzione**
 
-<sup>1</sup> I militari e i giovani pontonieri previsti per condurre natanti militari sono istruiti come conduttori di natanti militari in scuole e corsi militari, rispettivamente in corsi nell’ambito delle attività premilitari.
+<sup>1</sup> I militari e i partecipanti ai corsi per pontonieri previsti per condurre natanti militari sono istruiti come conduttori di natanti militari in scuole e corsi militari, rispettivamente in corsi nell’ambito delle attività premilitari.[^10-1]
 
 <sup>2</sup> Le lezioni di guida sono impartite da personale specializzato e possono aver luogo, in parte, collettivamente.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 #### Art. 11
 
@@ -206,15 +214,18 @@ I civili non possono essere presi a bordo di natanti militari. Sono eccettuati i
 
 <sup>1</sup> Chi conduce natanti militari durante il servizio militare o nel quadro di un’attività militare fuori del servizio deve essere titolare di una licenza di condurre natanti militare.
 
-<sup>2</sup> I militari ricevono la licenza di condurre natanti militare se hanno superato l’esame e adempiono le condizioni fisiche, psichiche e militari per condurre in modo sicuro un natante.
+<sup>2</sup> I militari e coloro che assolvono i corsi per pontonieri ricevono la licenza di condurre natanti militare se hanno superato l’esame e adempiono le condizioni fisiche, psichiche e militari per condurre in modo sicuro un natante.[^12-2]
 
-<sup>3</sup> Il personale militare e gli insegnanti specialisti non necessitano di alcuna licenza di condurre natanti militare quando, in servizio militare o nel quadro di attività militari fuori del servizio, conducono natanti militari con una licenza di condurre natanti civile della categoria corrispondente.
+<sup>3</sup> Il personale militare e gli insegnanti specialisti non necessitano di alcuna licenza di condurre natanti militare quando, in servizio militare, durante la loro attività professionale o nel quadro di attività militari fuori del servizio, conducono natanti militari con una licenza di condurre natanti federale della categoria corrispondente.[^12-3]
 
 <sup>4</sup> Coloro ai quali è stato revocata la licenza di condurre natanti civile non sono autorizzati a condurre natanti durante il servizio militare o nel quadro di un’attività militare fuori del servizio.
 
-<sup>5</sup> Nel caso di agenti di polizia, per le rispettive attività di servizio è sufficiente la licenza di condurre cantonale della categoria corrispondente. La licenza di condurre militare è rilasciata per cinque anni dal comando della Formazione d’addestramento del genio/del salvataggio una volta conclusa l’istruzione complementare.
+<sup>5</sup> Gli agenti di polizia, i pompieri e il personale dei servizi sanitari non necessitano di una licenza di condurre natanti militare se durante la loro attività professionale conducono natanti militari con una licenza di condurre natanti cantonale della categoria corrispondente. La licenza di condurre natanti militare è rilasciata loro, per una durata massima di cinque anni, dal comando della Formazione d’addestramento del genio/del salvataggio/NBC una volta conclusa l’istruzione complementare.[^12-4]
 
 [^12-1]: Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 15 feb. 2016 ([RU 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
+[^12-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^12-3]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^12-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 #### Art. 13
 
@@ -249,17 +260,55 @@ I civili non possono essere presi a bordo di natanti militari. Sono eccettuati i
 Revoca al militare la licenza di condurre natanti militare se:
 
 - a. sussiste un motivo di revoca secondo gli articoli 19–21 LNI;
-- b. gli è stata revocata l’autorizzazione a condurre militare secondo l’articolo 38 dell’ordinanza dell’11 febbraio 2004[^14-1] sulla circolazione stradale militare;
+- b.[^14-1] gli è stata revocata l’autorizzazione a condurre militare secondo l’articolo 38 dell’ordinanza dell’11 febbraio 2004[^14-2] sulla circolazione stradale militare (OCSM);
 - c. non soddisfa più le esigenze poste ai conduttori di natanti militari;
 - d. non osserva le prescrizioni militari in materia di consumo di droga o di alcol;
 - e. non soddisfa più i requisiti e le condizioni per il rilascio della licenza di condurre natanti civile o militare;
-- f. non soddisfa più i requisiti medici.[^14-2]
+- f. non soddisfa più i requisiti medici.[^14-3]
 
-<sup>3</sup> La licenza di condurre natanti militare è revocata per tutte le categorie. Contro la decisione di revoca della licenza di condurre natanti militare può essere inoltrato reclamo.[^14-3]
+<sup>3</sup> La licenza di condurre natanti militare è revocata per tutte le categorie. Contro la decisione di revoca della licenza di condurre natanti militare può essere inoltrato reclamo.[^14-4]
 
-[^14-1]: [RS 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
-[^14-2]: Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 15 feb. 2016 ([RU 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
+[^14-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^14-2]: [RS 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
 [^14-3]: Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 15 feb. 2016 ([RU 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
+[^14-4]: Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 15 feb. 2016 ([RU 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
+
+#### Art. 14a
+
+**Idoneità a condurre del conduttore di natanti**[^14a-1]
+
+<sup>1</sup> La persona che conduce un natante militare risponde della propria idoneità a condurre. La persona interessata è tenuta a comunicare al proprio superiore le ragioni che la rendono parzialmente o totalmente inabile a condurre. L’inidoneità a condurre è considerata in ogni caso provata se il conduttore contravviene alle prescrizioni dell’articolo 14*b*.
+
+<sup>2</sup> I superiori sorvegliano l’idoneità a condurre del conduttore di natanti.
+
+<sup>3</sup> Per quanto concerne l’idoneità a condurre, il personale militare e gli insegnanti specialisti che conducono natanti militari durante la loro attività professionale sottostanno alle disposizioni della legislazione sulla navigazione civile. L’articolo 14*b* non è applicabile.
+
+[^14a-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+
+#### Art. 14b
+
+**Consumo di alcol e stupefacenti**[^14b-1]
+
+<sup>1</sup> La persona che sa o, secondo le circostanze, deve presumere di dover condurre un natante militare durante il servizio militare o durante un’attività premilitare o un’attività militare fuori del servizio, deve astenersi dal consumo di bevande alcoliche nelle sei ore che precedono lo spostamento.
+
+<sup>2</sup> Il conduttore non può condurre un natante militare se presenta una concentrazione di alcol nell’aria espirata pari o superiore a 0,05 mg/l o un tasso alcolemico pari o superiore allo 0,10 per mille, oppure se ha nell’organismo una quantità di alcol tale da determinare una simile concentrazione nel sangue.
+
+<sup>3</sup> L’inidoneità a condurre è considerata in ogni caso provata se il conducente ha consumato stupefacenti.
+
+<sup>4</sup> Il conduttore di natanti comunica immediatamente al medico di truppa il consumo di medicamenti e di altre sostanze che possono pregiudicare l’idoneità a condurre e informa il superiore riguardo alla restrizione all’idoneità alla guida. In tal caso il conduttore di natanti non è autorizzato a mettersi alla guida di un natante.
+
+[^14b-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+
+#### Art. 14c
+
+**Procedura**[^14c-1]
+
+<sup>1</sup> Per stabilire l’inosservanza del divieto di consumare bevande alcoliche si applicano alle autorità militari competenti le disposizioni della legislazione sulla navigazione civile.
+
+<sup>2</sup> Nel caso in cui l’accertamento etilometrico venga effettuato con un etilometro precursore di cui all’articolo 40*c* dell’ordinanza dell’8 novembre 1978[^14c-2] sulla navigazione interna, l’inosservanza del divieto di consumare bevande alcoliche è accertata se il valore più basso delle due misurazioni etilometriche corrisponde a una concentrazione di alcol nell’aria espirata pari o superiore a 0,05 ma inferiore a 0,40 mg/l e il conduttore di natanti interessato riconosce questo valore con la propria firma.
+
+[^14c-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^14c-2]: [RS 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337)
 
 #### Art. 15
 
@@ -267,7 +316,9 @@ Revoca al militare la licenza di condurre natanti militare se:
 
 <sup>1</sup> Su richiesta, il Cantone di domicilio rilascia al titolare di una licenza di condurre natanti militare la corrispondente licenza cantonale, sempre che siano soddisfatte tutte le condizioni.
 
-<sup>2</sup> Per le attività premilitari e le attività militari fuori del servizio, il titolare di una licenza di condurre natanti cantonale della categoria A può inoltrare al comando della Formazione d’addestramento del genio/del salvataggio una domanda per il rilascio di una pertinente licenza di condurre natanti militare. Tale comando può ordinare un’istruzione complementare.
+<sup>2</sup> Per le attività premilitari e le attività militari fuori del servizio, il titolare di una licenza di condurre natanti cantonale della categoria A può inoltrare al comando della Formazione d’addestramento del genio/del salvataggio/NBC una domanda per il rilascio di una relativa licenza di condurre natanti militare. Tale comando può ordinare un’istruzione complementare.[^15-1]
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 #### Art. 16
 
@@ -290,6 +341,16 @@ Revoca al militare la licenza di condurre natanti militare se:
 <sup>2</sup> Deroghe permanenti a divieti e a restrizioni di circolazione civili sono segnalati mediante il segnale complementare «Natanti militari autorizzati» di cui all’allegato.
 
 <sup>3</sup> Se le esigenze militari lo richiedono, durante le esercitazioni il comandante di truppa responsabile può ordinare deroghe temporanee a prescrizioni civili concernenti i fanali di bordo, la velocità massima e la navigazione lungo le rive. Egli deve ottenere preliminarmente il consenso delle autorità competenti.
+
+#### Art. 17a
+
+**Trasporto di merci pericolose**[^17a-1]
+
+<sup>1</sup> Il trasporto di merci pericolose è disciplinato nell’allegato 2.
+
+<sup>2</sup> Il DDPS può modificare l’allegato 2 con il consenso del Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni.
+
+[^17a-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 #### Art. 18
 
@@ -323,13 +384,18 @@ Il DDPS è competente per i ricorsi contro decisioni cantonali concernenti provv
 
 <sup>1</sup> L’esercito può appoggiare con materiale militare le società di pontonieri, di battellieri e nautiche riconosciute, sempre che tale materiale serva ad attività premilitari e attività militari fuori del servizio.
 
-<sup>2</sup> La consegna del materiale avviene conformemente all’OIMC. I natanti militari conservano l’immatricolazione militare.
+<sup>2</sup> La consegna del materiale avviene conformemente all’ordinanza del 21 agosto 2013[^22-1] concernente l’appoggio a favore di attività civili e di attività fuori del servizio mediante mezzi militari (OAAM). I natanti militari conservano l’immatricolazione militare.[^22-2]
 
-<sup>3</sup> Gli utenti rispondono dei danni conformemente all’OIMC e devono concludere un’assicurazione di responsabilità civile per l’utilizzazione fuori del servizio.
+<sup>3</sup> Gli utenti rispondono dei danni conformemente all’articolo 12 OAAM e devono concludere un’assicurazione di responsabilità civile per l’utilizzazione fuori del servizio del materiale.[^22-3]
 
-<sup>4</sup> Sono applicabili le prescrizioni in materia di navigazione civile.
+<sup>4</sup> ...[^22-4]
 
 <sup>5</sup> Per le gare e le dimostrazioni che hanno il carattere di una manifestazione nautica, deve essere ottenuta l’autorizzazione dell’autorità civile competente.
+
+[^22-1]: [RS 513.74](https://fedlex.data.admin.ch/eli/cc/2013/568)
+[^22-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^22-3]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^22-4]: Abrogato dal n. I dell’O del 4 mag. 2022, con effetto dal 1° giu. 2022 ([RU 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 ## Sezione 6: Noleggio e requisizione di natanti civili
 
@@ -351,7 +417,9 @@ Il DDPS è competente per i ricorsi contro decisioni cantonali concernenti provv
 
 <sup>2</sup> La presa in consegna, l’impiego, la restituzione e l’indennizzo si fondano sulla decisione di requisizione.
 
-<sup>3</sup> Lo Stato maggiore di condotta dell’esercito rilascia l’autorizzazione di requisizione. La BLEs emana la decisione di requisizione.
+<sup>3</sup> La BLEs rilascia l’autorizzazione di requisizione.[^24-1]
+
+[^24-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 ## Sezione 7: Incidenti e casi di danno
 
@@ -359,10 +427,10 @@ Il DDPS è competente per i ricorsi contro decisioni cantonali concernenti provv
 
 <sup>1</sup> Il comandante di truppa responsabile provvede a notificare gli incidenti della navigazione e i casi di danno.
 
-<sup>2</sup> Il Centro danni DDPS è competente per la liquidazione dei danni e per la decisione di prima istanza in merito al regresso e alla partecipazione alle spese per i danni. Del rimanente sono applicabili per analogia gli articoli 80, 81, 83, 85 e 87 dell’ordinanza dell’11 febbraio 2004[^25-1] sulla circolazione stradale militare.[^25-2]
+<sup>2</sup> Il Centro danni DDPS è competente per la liquidazione dei danni e per la decisione di prima istanza in merito al regresso e alla partecipazione alle spese per i danni. Per il resto sono applicabili per analogia gli articoli 80, 81, 83, 85 e 87 dell’OCSM[^25-1].[^25-2]
 
 [^25-1]: [RS 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
-[^25-2]: Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 15 feb. 2016 ([RU 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
+[^25-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 ## Sezione 8: Disposizioni penali e disposizioni finali
 
@@ -406,7 +474,7 @@ L’ordinanza del 29 novembre 1995[^27-1] sulla navigazione militare è abrogata
 
 La presente ordinanza entra in vigore il 1° aprile 2006.
 
-Allegato
+Allegato 1*[^t-1]*
 
 (art. 17)
 
@@ -414,4 +482,142 @@ Allegato
 
 <sup>2</sup> Il segnale presenta un fondo giallo; il margine e il simbolo sono neri.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20160215/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20220601/it/xml/image/image1.png)
+
+[^t-1]: Originario allegato.
+
+Allegato 2*[^t-2]*
+
+(art. 17*a*)
+
+## Prescrizioni per il trasporto di merci pericolose
+
+[^t-2]: Introdotto dal n. II dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+
+### Parte 1 Disposizioni generali
+
+### 110 Campo d’applicazione e applicabilità
+
+- 111 Il trasporto di merci pericolose sulle acque svizzere, comprese quelle confinarie, è generalmente vietato. Le deroghe sono stabilite nel presente allegato.
+- 112 I conduttori dei natanti sono responsabili del rispetto delle presenti prescrizioni.
+- 113 La classificazione e il trasporto di merci pericolose si fondano in linea di principio sull’ordinanza del 31 ottobre 2012[^annex2-lvlu1-part1-lvl110-1] concernente il trasporto di merci pericolose per ferrovia e tramite impianti di trasporto a fune (RSD).
+- 114 L’UCNEs può, con il consenso dell’UFT, autorizzare altre deroghe, segnatamente alle prescrizioni concernenti le modalità di trasporto della merce, i natanti da utilizzare e la marcatura dei colli, dei container, dei natanti e dei gruppi elettrogeni.
+
+[^annex2-lvlu1-part1-lvl110-1]: [RS 742.412](https://fedlex.data.admin.ch/eli/cc/2012/785)
+
+### 120 Esenzioni relative alla natura dell’operazione di trasporto
+
+- 121
+
+  L’allegato non si applica:
+
+  - a. ai trasporti di macchinari o dispositivi che possono contenere merci pericolose nel loro interno o nei loro circuiti di funzionamento, a condizione che siano adottate misure per impedire fughe del contenuto in condizioni di trasporto normali;
+  - b. ai trasporti di emergenza destinati a salvare vite umane o a proteggere l’ambiente, a condizione che siano adottate tutte le misure necessarie a effettuare questi trasporti in tutta sicurezza;
+  - c. al trasporto di merci della classe 1 che sono considerate parte integrante del sistema d’arma e che servono all’impiego delle armi di bordo;
+  - d. ai trasporti di merci pericolose di cui sono equipaggiate le persone a bordo.
+
+### 130 Esenzioni relative al trasporto di gas
+
+- 131
+
+  L’allegato non si applica a trasporti di:
+
+  - a. gas nelle bombole da sub, a condizione che siano adottate tutte le misure necessarie a effettuare questi trasporti in tutta sicurezza;
+  - b. gas negli equipaggiamenti del natante o della sua soprastruttura;
+  - c. gas contenuti nei serbatoi di carburante dei veicoli trasportati.
+
+### 140 Esenzioni relative al trasporto di carburanti liquidi
+
+- 141
+
+  L’allegato non si applica a trasporti di:
+
+  - a. carburante che serve alla propulsione del natante o al funzionamento dei suoi equipaggiamenti, segnatamente in recipienti di carburante di riserva portatili (taniche) fissati agli appositi equipaggiamenti o trasportati in modo sufficientemente sicuro;
+  - b. carburante in serbatoi di veicoli, macchine da cantiere o altri mezzi di trasporto trasportati come carico, se tale carburante è destinato alla loro propulsione o al funzionamento di uno dei loro equipaggiamenti nonché del relativo carburante di riserva in recipienti portatili (quali le taniche) fissati agli appositi equipaggiamenti.
+
+### 150 Esenzioni relative ai trasporti di dispositivi per l’accumulo e la generazione di energia elettrica
+
+- 151
+
+  L’allegato non si applica ai dispositivi per l’accumulo e la generazione di energia elettrica (per es. pile al litio, condensatori elettrici, condensatori asimmetrici, accumulatori all’idruro di metallo, pile a combustibile):
+
+  - a. installati in un natante che esegue un’operazione di trasporto e destinati alla sua propulsione o al funzionamento di uno dei suoi equipaggiamenti;
+  - b. contenuti, per il suo funzionamento, in un equipaggiamento utilizzato durante il trasporto o destinato a un’utilizzazione durante il trasporto (per es. computer portatile);
+  - c. che servono come batterie di veicoli, macchine da cantiere o altri mezzi di trasporto trasportati come carico e destinate alla loro propulsione o al funzionamento di uno dei loro equipaggiamenti.
+
+### Parte 2 Classificazione
+
+- 210 La classificazione delle merci pericolose (attribuzione del No ONU, dei codici di classificazione e degli eventuali gruppi di imballaggio) si fonda sul RID[^annex2-lvlu1-part2-1].
+
+[^annex2-lvlu1-part2-1]: Il testo del RID (appendice C della Conv. del 9 mag. 1980 relativa ai trasporti internazionali per ferrovia; COTIF; [RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) non è pubblicato nella RU. Il testo può essere consultato in francese, tedesco e inglese sul sito Internet dell’Organizzazione intergovernativa per i trasporti internazionali per ferrovia (OTIF) all’indirizzo www.otif.org &gt; Marchandises dangereuses.
+
+### Parte 3 Lista delle merci pericolose e disposizioni speciali
+
+- *(aperto)*
+
+### Parte 4 Prescrizioni relative all’utilizzazione di imballaggi e di cisterne
+
+- 410 Le merci pericolose possono essere trasportate unicamente in imballaggi omologati originali o d’ordinanza quali taniche, fusti, casse, bottiglie o recipienti a pressione con cui sono state fornite o messe a disposizione a tal fine. I sacchi della spazzatura o i sacchi per i bossoli non sono considerati imballaggi omologati e segnatamente non possono essere impiegati per la restituzione di munizioni inutilizzate. Non è consentito l’impiego di imballaggi non a tenuta stagna o danneggiati.
+- 420 Se le merci pericolose sono trasportate in cisterne, queste devono essere a doppia parete e conformi alle disposizioni in materia di merci pericolose.
+
+### Parte 5 Prescrizioni relative alla spedizione
+
+- 510 Chi spedisce merci pericolose è tenuto ad assicurarsi che il trasporto sia eseguito conformemente alle condizioni imposte dalla presente ordinanza.
+
+### 520 Marcatura ed etichettatura
+
+- 521 Le munizioni nell’imballaggio originale possono essere trasportate senza recare una marcatura e un’etichettatura ai sensi delle sezioni 5.2.1 e 5.2.2 RSD/RID.
+- 522
+
+  In deroga alla RSD e al RID, nell’esercito le merci della classe 1 possono essere contrassegnate con le etichette di pericolo seguenti:
+
+  - 1\.1B per il gruppo di compatibilità B delle divisioni 1.1, 1.2 e 1.4;
+  - 1\.1E per i gruppi di compatibilità C, D, E, G della divisione 1.1;
+  - 1\.2E per i gruppi di compatibilità C, D, E, G delle divisioni 1.2 e 1.4, i gruppi di compatibilità C e G della divisione 1.3 e il gruppo di compatibilità S della divisione 1.4.
+
+- 523 Le merci pericolose della classe 1 possono recare anche nell’esercito le etichette di pericolo conformemente al capitolo 5.2 RSD/RID.
+
+### Parte 6 Prescrizioni relative alla costruzione e alle prove di imballaggi e di cisterne
+
+- 610 Le prescrizioni relative alla costruzione e alle prove della RSD e del RID per imballaggi, grandi recipienti (IBC), grandi imballaggi e cisterne si applicano per analogia. L’Aggruppamento armasuisse è autorizzato a verificare gli imballaggi. Esso può, con il consenso di un organismo di valutazione della conformità designato secondo l’articolo 15 dell’ordinanza del 31 ottobre 2012[^annex2-lvlu1-lvl840-1] sui mezzi di contenimento per merci pericolose, autorizzare deroghe alla RSD e al RSD.
+
+[^annex2-lvlu1-lvl840-1]: [RS 930.111.4](https://fedlex.data.admin.ch/eli/cc/2012/797)
+
+### Parte 7 Prescrizioni concernenti le condizioni di trasporto, carico, scarico e movimentazione
+
+- 710 Le differenti parti di un carico di merci pericolose devono essere disposte e assicurate con mezzi idonei in maniera tale da evitare qualsiasi spostamento durante il viaggio.
+
+### Parte 8 Prescrizioni relative all’equipaggio, all’equipaggiamento, all’esercizio dei natanti e alla documentazione
+
+### 810 Prescrizioni generali relative ai natanti e al materiale di bordo
+
+- *(aperto)*
+
+### 820 Prescrizioni relative alla formazione dei conduttori di natanti
+
+- *(aperto)*
+
+### 830 Prescrizioni varie da osservare da parte dell’equipaggio del natante
+
+- 831 Durante il trasporto e le operazioni di carico e scarico è vietato fumare o è consentito fumare soltanto in un luogo appositamente designato.
+- 832 Se, in seguito a un incidente, vi sono rischi per le persone o l’ambiente, deve essere sbarrata la zona pericolosa e devono essere avvertiti i servizi di salvataggio civili.
+- 833 L’equipaggio è tenuto a prestare aiuto.
+- 834 Nell’ambito di attività premilitari e attività fuori del servizio è vietato trasportare merci pericolose. È unicamente consentito il trasporto di oggetti dell’equipaggiamento personale e del carburante per il funzionamento del natante.
+
+### 840 Prescrizioni relative alla sorveglianza dei natanti
+
+- 841 Per le merci della classe 1 soggette a prescrizioni di sicurezza più restrittive a causa del pericolo di abuso o furto, si applicano le disposizioni/prescrizioni di sicurezza potenziate stabilite nelle pertinenti istruzioni del capo dell’esercito.
+
+### 850 Prescrizioni supplementari relative a classi o a merci particolari
+
+- *(aperto)*
+
+### 860 Restrizioni per veicoli stradali con merci pericolose sui mezzi militari di attraversamento (ponti e traghetti)
+
+- 861 I veicoli stradali che trasportano merci pericolose conformi all’ordinanza dell’11 febbraio 2004[^annex2-lvlu1-part870-lvl860-1] sulla circolazione stradale militare possono viaggiare sui ponti dell’esercito o essere trasportati su traghetti e natanti dell’esercito.
+
+[^annex2-lvlu1-part870-lvl860-1]: [RS 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
+
+### 870 Rifornimento di macchine e apparecchi nell’ambito di attività in acqua e sull’acqua
+
+- 871 Per il rifornimento di carburante delle macchine e degli apparecchi nell’ambito di attività in acqua e sull’acqua, occorre utilizzare esclusivamente gli imballaggi, i grandi imballaggi e le cisterne per merci pericolose omologati per il trasporto in imbarcazioni. In tale ambito vanno adottate tutte le misure per garantire che non ci siano perdite di carburante.

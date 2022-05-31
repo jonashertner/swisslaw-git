@@ -4,11 +4,11 @@ title: Verordnung vom 1. März 2006 über die militärische Schifffahrt (VMSch)
 short: VMSch
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/150"
 language: de
-version: 2016-02-15
+version: 2022-06-01
 adopted: 2006-03-01
 in_force: 2006-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20160215/de/xml/fedlex-data-admin-ch-eli-cc-2006-150-20160215-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/150/20160215/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2006-150-20220601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/150/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/150/20160215/de"
 
 (VMSch)
 
-vom 1. März 2006 (Stand am 15. Februar 2016)
+vom 1. März 2006 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 27 Absatz 4 und 56 Absatz 1 des Bundesgesetzes vom 3. Oktober 1975[^ingress-1] über die Binnenschifffahrt (BSG) und Artikel 150 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^ingress-2],
+gestützt auf die Artikel 27 Absatz 4 und 56 Absatz 2<sup>bis</sup> des Bundesgesetzes vom 3. Oktober 1975[^ingress-1] über die Binnenschifffahrt (BSG) und Artikel 150 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^ingress-2],[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 747.201](https://fedlex.data.admin.ch/eli/cc/1976/725_724_724)
 [^ingress-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-3]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -40,9 +41,11 @@ Diese Verordnung regelt für die militärische Schifffahrt die Ausnahmen von den
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung gilt für den Einsatz von Militärschiffen, militärischen Amphibienfahrzeugen und anderen schwimm- und tauchfähigen militärischen Mitteln im Rahmen von dienstlichen, vor- und ausserdienstlichen militärischen Tätigkeiten auf öffentlichen Gewässern innerhalb der Landesgrenzen oder des schweizerischen Vollzugsbereichs.
+<sup>1</sup> Diese Verordnung gilt für den Einsatz von Militärschiffen, militärischen Amphibienfahrzeugen und anderen schwimm- und tauchfähigen militärischen Mitteln im Rahmen von dienstlichen, vor- und ausserdienstlichen militärischen Tätigkeiten auf schweizerischen Gewässern einschliesslich der Grenzgewässer.[^2-1]
 
 <sup>2</sup> Im Übrigen gelten die Vorschriften über die zivile Schifffahrt.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 #### Art. 3
 
@@ -74,7 +77,7 @@ Das Strassenverkehrs- und Schifffahrtsamt der Armee (SVSAA) ist zuständig für:
 
 <sup>2</sup>
 
-Der militärische Lehrverband Genie/Rettung ist zuständig für:[^4-4]
+Der militärische Lehrverband Genie/Rettung/ABC ist zuständig für:[^4-4]
 
 - a. die Aus- und Weiterbildung der militärischen Schiffsführer und Schiffsführerinnen;
 - b.[^4-5] die Bereitstellung des für die Ausbildung und Prüfung erforderlichen Fachpersonals sowie der Prüfungsexperten und Prüfungsexpertinnen nach den Vorgaben des SVSAA;
@@ -94,9 +97,9 @@ Die armasuisse ist zuständig für:
 - a. die Beschaffung der Militärschiffe;
 - b. die Beratung der militärischen Stellen in fachtechnischen Fragen.
 
-<sup>5</sup> Der verantwortliche Truppenkommandant stellt die Durchsetzung dieser Verordnung und der zivilen Vorschriften im Rahmen der dienstlichen militärischen Tätigkeiten sicher.
+<sup>5</sup> Der verantwortliche Truppenkommandant oder die verantwortliche Truppenkommandantin stellt die Durchsetzung dieser Verordnung und der zivilen Vorschriften im Rahmen der dienstlichen militärischen Tätigkeiten sicher.[^4-6]
 
-<sup>5bis</sup> Der verantwortliche Verband stellt die Umsetzung dieser Verordnung und der zivilen Vorschriften im Rahmen der vor- und ausserdienstlichen militärischen Tätigkeiten sicher.[^4-6]
+<sup>5bis</sup> Der verantwortliche Verband stellt die Umsetzung dieser Verordnung und der zivilen Vorschriften im Rahmen der vor- und ausserdienstlichen militärischen Tätigkeiten sicher.[^4-7]
 
 <sup>6</sup>
 
@@ -108,9 +111,10 @@ Die Militärpolizei sorgt für die Sicherheit in der militärischen Schifffahrt.
 [^4-1]: Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 15. Febr. 2016 ([AS 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
 [^4-2]: Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 15. Febr. 2016 ([AS 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
 [^4-3]: Eingefügt durch Ziff. I der V vom 13. Jan. 2016, in Kraft seit 15. Febr. 2016 ([AS 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
-[^4-4]: Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 15. Febr. 2016 ([AS 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
+[^4-4]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 [^4-5]: Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 15. Febr. 2016 ([AS 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
-[^4-6]: Eingefügt durch Ziff. I der V vom 13. Jan. 2016, in Kraft seit 15. Febr. 2016 ([AS 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
+[^4-6]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^4-7]: Eingefügt durch Ziff. I der V vom 13. Jan. 2016, in Kraft seit 15. Febr. 2016 ([AS 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
 
 ## 2. Abschnitt: Militärschiffe
 
@@ -167,14 +171,16 @@ Nicht immatrikuliert werden müssen:
 
 In Militärschiffen dürfen keine Zivilpersonen mitgeführt werden. Ausgenommen sind Zivilpersonen, die:
 
-- a. bei einer militärischen Übung, einer dienstlichen Verrichtung der Truppe oder bei ausserdienstlichen militärischen Veranstaltungen mitwirken;
-- b. als Besucher oder Besucherinnen bei militärischen Übungen, Besuchstagen, Fahnen- oder Standartenübergaben, Beförderungsfeiern oder ausserdienstlichen militärischen Veranstaltungen transportiert werden müssen;
-- c. an organisierten militärischen Führungen teilnehmen oder im Rahmen von bewilligten Truppeneinsätzen nach der Verordnung vom 21. August 2013[^9-1] über die Unterstützung ziviler oder ausserdienstlicher Tätigkeiten mit militärischen Mitteln transportiert werden müssen;
+- a.[^9-1] bei einer militärischen Übung, einer dienstlichen Verrichtung der Truppe oder bei vor- oder ausserdienstlichen militärischen Veranstaltungen mitwirken;
+- b.[^9-2] als Besucher oder Besucherinnen bei militärischen Übungen, Besuchstagen, Fahnen- oder Standartenübergaben, Beförderungsfeiern oder vor- oder ausserdienstlichen militärischen Veranstaltungen transportiert werden müssen;
+- c. an organisierten militärischen Führungen teilnehmen oder im Rahmen von bewilligten Truppeneinsätzen nach der Verordnung vom 21. August 2013[^9-3] über die Unterstützung ziviler oder ausserdienstlicher Tätigkeiten mit militärischen Mitteln transportiert werden müssen;
 - d. aus anderen dienstlichen oder militärischen Gründen mitfahren müssen;
-- e. in Notfällen oder zur Hilfeleistung mitgeführt werden.[^9-2]
+- e. in Notfällen oder zur Hilfeleistung mitgeführt werden.[^9-4]
 
-[^9-1]: [SR 513.74](https://fedlex.data.admin.ch/eli/cc/2013/568)
-[^9-2]: Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 15. Febr. 2016 ([AS 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
+[^9-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^9-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^9-3]: [SR 513.74](https://fedlex.data.admin.ch/eli/cc/2013/568)
+[^9-4]: Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 15. Febr. 2016 ([AS 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
 
 ## 3. Abschnitt: Führen von Militärschiffen
 
@@ -182,9 +188,11 @@ In Militärschiffen dürfen keine Zivilpersonen mitgeführt werden. Ausgenommen 
 
 **Ausbildung**
 
-<sup>1</sup> Angehörige der Armee und Jungpontoniere, die zum Führen von Militärschiffen vorgesehen sind, werden in militärischen Schulen und Kursen beziehungsweise in Kursen der vordienstlichen militärischen Tätigkeit zum militärischen Schiffsführer oder zur militärischen Schiffsführerin ausgebildet.
+<sup>1</sup> Angehörige der Armee sowie Teilnehmer und Teilnehmerinnen von Pontonierkursen, die zum Führen von Militärschiffen vorgesehen sind, werden in militärischen Schulen und Kursen beziehungsweise in Kursen der vordienstlichen militärischen Tätigkeit zum militärischen Schiffsführer oder zur militärischen Schiffsführerin ausgebildet.[^10-1]
 
 <sup>2</sup> Der Fahrunterricht wird von Fachpersonal erteilt. Er kann teilweise kollektiv erfolgen.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 #### Art. 11
 
@@ -202,15 +210,18 @@ In Militärschiffen dürfen keine Zivilpersonen mitgeführt werden. Ausgenommen 
 
 <sup>1</sup> Wer im Militärdienst oder während der ausserdienstlichen militärischen Tätigkeit Militärschiffe führt, benötigt einen militärischen Schiffsführerausweis.
 
-<sup>2</sup> Angehörige der Armee erhalten den militärischen Schiffsführerausweis, wenn sie die Prüfung bestanden haben und die körperlichen, geistigen und militärischen Voraussetzungen zum sicheren Führen eines Schiffes erfüllen.
+<sup>2</sup> Angehörige der Armee sowie Absolventen und Absolventinnen von Pontonierkursen erhalten den militärischen Schiffsführerausweis, wenn sie die Prüfung bestanden haben und die körperlichen, geistigen und militärischen Voraussetzungen zum sicheren Führen eines Schiffes erfüllen.[^12-2]
 
-<sup>3</sup> Keinen militärischen Schiffsführerausweis benötigen das militärische Personal sowie Fachlehrer und Fachlehrerinnen, wenn sie im Militärdienst oder während der ausserdienstlichen militärischen Tätigkeit Militärschiffe mit einem zivilen Schiffsführerausweis der entsprechenden Ausweiskategorie führen.
+<sup>3</sup> Keinen militärischen Schiffsführerausweis benötigen das militärische Personal sowie Fachlehrer und Fachlehrerinnen, wenn sie im Militärdienst, während ihrer beruflichen Tätigkeit oder der ausserdienstlichen militärischen Tätigkeit Militärschiffe mit einem eidgenössischen Schiffsführerausweis der entsprechenden Kategorie führen.[^12-3]
 
 <sup>4</sup> Personen, denen der zivile Schiffsführerausweis entzogen wurde, dürfen im Militärdienst oder während der ausserdienstlichen militärischen Tätigkeit keine Schiffe führen.
 
-<sup>5</sup> Für Angehörige der Polizei genügt für ihre dienstliche Tätigkeit der kantonale Führerausweis der entsprechenden Kategorie. Die Fahrberechtigung wird nach Abschluss der ergänzenden Ausbildung durch das Kommando des Lehrverbandes Genie/Rettung auf eine Dauer von fünf Jahren erteilt.
+<sup>5</sup> Angehörige der Polizei, der Feuerwehr und der Sanität benötigen keinen militärischen Schiffsführerausweis, wenn sie während ihrer beruflichen Tätigkeit Militärschiffe mit einem kantonalen Schiffsführerausweis der entsprechenden Kategorie führen. Die Fahrberechtigung zum Führen von Militärschiffen wird ihnen nach Abschluss der ergänzenden Ausbildung durch das Kommando des Lehrverbandes Genie/Rettung/ABC für eine Dauer von maximal fünf Jahren erteilt.[^12-4]
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 15. Febr. 2016 ([AS 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
+[^12-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^12-3]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^12-4]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 #### Art. 13
 
@@ -245,17 +256,55 @@ Der militärische Schiffsführerausweis wird für folgende Kategorien ausgestell
 Es entzieht dem oder der Angehörigen der Armee den militärischen Schiffsführerausweis, wenn:
 
 - a. ein Entzugsgrund nach den Artikeln 19–21 BSG vorliegt;
-- b. ihm oder ihr die militärische Fahrberechtigung nach Artikel 38 der Verordnung vom 11. Februar 2004[^14-1] über den militärischen Strassenverkehr entzogen wurde;
+- b.[^14-1] ihm oder ihr die militärische Fahrberechtigung nach Artikel 38 der Verord-nung vom 11. Februar 2004[^14-2] über den militärischen Strassenverkehr (VMSV) entzogen wurde;
 - c. er oder sie den Anforderungen als militärischer Schiffsführer oder militärische Schiffsführerin nicht mehr genügt;
 - d. er oder sie die militärischen Vorschriften bezüglich Alkohol- oder Betäubungsmittelkonsum missachtet;
 - e. er oder sie die Anforderungen und Voraussetzungen zur Erteilung des zivilen oder des militärischen Schiffsführerausweises nicht mehr erfüllt;
-- f. er oder sie den medizinischen Anforderungen nicht mehr genügt.[^14-2]
+- f. er oder sie den medizinischen Anforderungen nicht mehr genügt.[^14-3]
 
-<sup>3</sup> Der militärische Schiffsführerausweis wird für alle Kategorien entzogen. Gegen den Entzug des militärischen Schiffsführerausweises kann Dienstbeschwerde geführt werden.[^14-3]
+<sup>3</sup> Der militärische Schiffsführerausweis wird für alle Kategorien entzogen. Gegen den Entzug des militärischen Schiffsführerausweises kann Dienstbeschwerde geführt werden.[^14-4]
 
-[^14-1]: [SR 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
-[^14-2]: Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 15. Febr. 2016 ([AS 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
+[^14-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^14-2]: [SR 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
 [^14-3]: Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 15. Febr. 2016 ([AS 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
+[^14-4]: Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 15. Febr. 2016 ([AS 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
+
+#### Art. 14a
+
+**Fahrfähigkeit des Schiffsführers oder der Schiffsführerin**[^14a-1]
+
+<sup>1</sup> Wer ein Militärschiff führt, ist dafür verantwortlich, dass er oder sie fahrfähig ist. Er oder sie muss der vorgesetzten Person die Umstände melden, die ihm oder ihr das Führen erschweren oder verunmöglichen. Die Fahrunfähigkeit gilt in jedem Fall als erwiesen, wenn er oder sie gegen die Vorgaben in Artikel 14*b* verstösst.
+
+<sup>2</sup> Die Vorgesetzten überwachen die Fahrfähigkeit der Schiffsführer und Schiffsführerinnen.
+
+<sup>3</sup> Militärisches Personal sowie Fachlehrer und Fachlehrerinnen, die in ihrer beruflichen Tätigkeit Militärschiffe führen, unterstehen bezüglich Fahrfähigkeit den Vorschriften über die zivile Schifffahrt. Artikel 14*b* ist nicht anwendbar.
+
+[^14a-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+
+#### Art. 14b
+
+**Alkohol- und Betäubungsmittelkonsum**[^14b-1]
+
+<sup>1</sup> Wer weiss oder nach den Umständen wissen kann, dass er oder sie im Militärdienst oder während der vor- oder ausserdienstlichen militärischen Tätigkeit ein Militärschiff führen muss, darf ab sechs Stunden vor Antritt der Fahrt keinen Alkohol trinken.
+
+<sup>2</sup> Er oder sie darf kein Militärschiff führen, wenn er oder sie eine Atemalkoholkonzentration von 0,05 mg/l oder mehr oder eine Blutalkoholkonzentration von 0,10 Promille oder mehr aufweist oder eine Alkoholmenge im Körper hat, die zu einer solchen Blutalkoholkonzentration führt.
+
+<sup>3</sup> Die Fahrunfähigkeit gilt in jedem Fall als erwiesen, wenn Betäubungsmittel konsumiert wurden.
+
+<sup>4</sup> Bei Konsum von Medikamenten und anderen Stoffen, welche die Fahrfähigkeit beeinträchtigen können, muss der Schiffsführer oder die Schiffsführerin dies dem Truppenarzt oder der Truppenärztin unverzüglich melden und den Vorgesetzten oder die Vorgesetzte über eine Einschränkung der Fahrfähigkeit informieren. In diesem Fall darf er oder sie als Schiffsführer oder Schiffsführerin nicht eingesetzt werden.
+
+[^14b-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+
+#### Art. 14c
+
+**Verfahren**[^14c-1]
+
+<sup>1</sup> Für die Feststellung der Missachtung des Alkoholverbotes gelten für die zuständigen militärischen Behörden die Vorgaben gemäss den Vorschriften über die zivile Schifffahrt.
+
+<sup>2</sup> Wird die Atemalkoholprobe mit einem Testgerät nach Artikel 40*c* der Binnenschifffahrtsverordnung vom 8. November 1978[^14c-2] durchgeführt, so gilt die Missachtung des Alkoholverbotes als festgestellt, wenn der tiefere Wert der beiden Atemalkoholmessungen einer Atemalkoholkonzentration von 0,05 oder mehr, aber weniger als 0,40 mg/l entspricht und der Schiffsführer oder die Schiffsführerin diesen Wert unterschriftlich anerkennt.
+
+[^14c-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^14c-2]: [SR 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337)
 
 #### Art. 15
 
@@ -263,9 +312,9 @@ Es entzieht dem oder der Angehörigen der Armee den militärischen Schiffsführe
 
 <sup>1</sup> Auf Gesuch hin stellt der Wohnsitzkanton dem Inhaber oder der Inhaberin eines militärischen Schiffsführerausweises den entsprechenden kantonalen Ausweis aus, sofern alle Voraussetzungen erfüllt sind.
 
-<sup>2</sup> Für die vor- und ausserdienstliche militärische Tätigkeit kann der Inhaber oder die Inhaberin eines kantonalen Schiffsführerausweises der Kategorie A das Gesuch um Erteilung eines entsprechenden militärischen Schiffsführerausweises an das Kommando des Lehrverbandes Genie/Rettung stellen. Dieses kann eine ergänzende Ausbildung anordnen.[^15-1]
+<sup>2</sup> Für die vor- und ausserdienstliche militärische Tätigkeit kann der Inhaber oder die Inhaberin eines kantonalen Schiffsführerausweises der Kategorie A das Gesuch um Erteilung eines entsprechenden militärischen Schiffsführerausweises an das Kommando des Lehrverbandes Genie/Rettung/ABC stellen. Dieses kann eine ergänzende Ausbildung anordnen.[^15-1]
 
-[^15-1]: Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 15. Febr. 2016 ([AS 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
+[^15-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 #### Art. 16
 
@@ -285,15 +334,29 @@ Es entzieht dem oder der Angehörigen der Armee den militärischen Schiffsführe
 
 <sup>1</sup> Für militärische Zwecke kann das SVSAA im Einvernehmen mit der zuständigen Behörde und dem BAV Ausnahmen von zivilen Verboten und Beschränkungen verfügen.
 
-<sup>2</sup> Dauernde Ausnahmen von zivilen Fahrverboten und Verkehrseinschränkungen werden mit dem Zusatzsignal «Militärische Schifffahrt gestattet» gemäss Anhang signalisiert.
+<sup>2</sup> Dauernde Ausnahmen von zivilen Fahrverboten und Verkehrseinschränkungen werden mit dem Zusatzsignal «Militärische Schifffahrt gestattet» gemäss Anhang 1 signalisiert.
 
-<sup>3</sup> Wenn es die militärischen Bedürfnisse erfordern, kann der verantwortliche Truppenkommandant bei Übungen vorübergehende Ausnahmen von zivilen Vorschriften über die Lichterführung, die Höchstgeschwindigkeit und das Befahren der Uferzonen anordnen. Er holt vorgängig das Einverständnis der zuständigen Behörden ein.
+<sup>3</sup> Wenn es die militärischen Bedürfnisse erfordern, kann der verantwortliche Truppenkommandant oder die verantwortliche Truppenkommandantin bei Übungen vorübergehende Ausnahmen von zivilen Vorschriften über die Lichterführung, die Höchstgeschwindigkeit und das Befahren der Uferzonen anordnen. Er oder sie holt vorgängig das Einverständnis der zuständigen Behörden ein.[^17-1]
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+
+#### Art. 17a
+
+**Beförderung gefährlicher Güter**[^17a-1]
+
+<sup>1</sup> Die Beförderung gefährlicher Güter richtet sich nach Anhang 2.
+
+<sup>2</sup> Das VBS kann Anhang 2 mit Zustimmung des Eidgenössischen Departements für Umwelt, Verkehr, Energie und Kommunikation ändern.
+
+[^17a-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 #### Art. 18
 
-**Sicherheitsmassnahmen**
+**Sicherheitsmassnahmen**[^18-1]
 
-Könnten bei militärischen Übungen auf dem Wasser oder in der Uferzone Unbeteiligte gefährdet werden, so informiert der verantwortliche Truppenkommandant die zuständige Behörde. Er erlässt die notwendigen Auflagen und Sicherheitsmassnahmen, insbesondere sperrt er den Gefahrenbereich und warnt die Unbeteiligten.
+Könnten bei militärischen Übungen auf dem Wasser oder in der Uferzone Unbeteiligte gefährdet werden, so informiert der verantwortliche Truppenkommandant oder die verantwortliche Truppenkommandantin die zuständige Behörde. Er oder sie erlässt die notwendigen Auflagen und Sicherheitsmassnahmen, insbesondere sperrt er oder sie den Gefahrenbereich und warnt die Unbeteiligten.
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 #### Art. 19
 
@@ -321,13 +384,18 @@ Soweit gegen kantonale Verfügungen über Verkehrsmassnahmen, welche militärisc
 
 <sup>1</sup> Die Armee kann anerkannte Pontonier-, Wasserfahr- und nautische Vereine mit militärischem Material unterstützen, soweit dieses der vor- und ausserdienstlichen militärischen Tätigkeit dient.
 
-<sup>2</sup> Die Abgabe des Materials erfolgt gemäss VEMZ. Militärschiffe bleiben militärisch immatrikuliert.
+<sup>2</sup> Die Abgabe des Materials erfolgt gemäss der Verordnung vom 21. August 2013[^22-1] über die Unterstützung ziviler oder ausserdienstlicher Tätigkeiten mit militärischen Mitteln (VUM). Militärschiffe bleiben militärisch immatrikuliert.[^22-2]
 
-<sup>3</sup> Die Benutzer haften für Schäden gemäss VEMZ und müssen für die ausserdienstliche Verwendung eine Haftpflichtversicherung abschliessen.
+<sup>3</sup> Die Benutzer und Benutzerinnen haften gemäss Artikel 12 VUM für Schäden und müssen für die ausserdienstliche Verwendung des Materials eine Haftpflichtversicherung abschliessen.[^22-3]
 
-<sup>4</sup> Es gelten die Vorschriften über die zivile Schifffahrt.
+<sup>4</sup> …[^22-4]
 
 <sup>5</sup> Für Wettkämpfe und Vorführungen, die den Charakter einer nautischen Veranstaltung haben, ist eine Bewilligung der zuständigen zivilen Behörde einzuholen.
+
+[^22-1]: [SR 513.74](https://fedlex.data.admin.ch/eli/cc/2013/568)
+[^22-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^22-3]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^22-4]: Aufgehoben durch Ziff. I der V vom 4. Mai 2022, mit Wirkung seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 ## 6. Abschnitt: Miete und Requisition ziviler Schiffe
 
@@ -349,18 +417,22 @@ Soweit gegen kantonale Verfügungen über Verkehrsmassnahmen, welche militärisc
 
 <sup>2</sup> Übernahme, Einsatz, Rückgabe und Entschädigung richten sich nach der Requisitionsverfügung.
 
-<sup>3</sup> Der Führungsstab der Armee erteilt die Bewilligung zur Requisition. Die LBA erlässt die Requisitionsverfügung.
+<sup>3</sup> Die LBA erteilt die Bewilligung zur Requisition.[^24-1]
+
+[^24-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 ## 7. Abschnitt: Unfälle und Schadenfälle
 
 #### Art. 25
 
-<sup>1</sup> Der verantwortliche Truppenkommandant sorgt für die Meldung von Schiffsunfällen und Schadenfällen.
+[^25-1]
 
-<sup>2</sup> Das Schadenzentrum VBS ist zuständig für die Schadenregulierung und den erstinstanzlichen Entscheid über Rückgriff und Schadensbeteiligungen. Im Übrigen gelten die Artikel 80, 81, 83, 85 und 87 der Verordnung vom 11. Februar 2004[^25-1] über den militärischen Strassenverkehr sinngemäss.[^25-2]
+<sup>1</sup> Der verantwortliche Truppenkommandant oder die verantwortliche Truppenkommandantin sorgt für die Meldung von Schiffsunfällen und Schadenfällen.
 
-[^25-1]: [SR 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
-[^25-2]: Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 15. Febr. 2016 ([AS 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
+<sup>2</sup> Das Schadenzentrum VBS ist zuständig für die Schadenregulierung und den erstinstanzlichen Entscheid über Rückgriff und Schadensbeteiligungen. Im Übrigen gelten die Artikel 80, 81, 83, 85 und 87 VMSV[^25-2] sinngemäss.
+
+[^25-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^25-2]: [SR 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
 
 ## 8. Abschnitt: Straf- und Schlussbestimmungen
 
@@ -404,7 +476,7 @@ Die Verordnung vom 29. November 1995[^27-1] über den militärischen Schiffsverk
 
 Diese Verordnung tritt am 1. April 2006 in Kraft.
 
-Anhang
+Anhang 1*[^t-1]*
 
 (Art. 17)
 
@@ -412,4 +484,139 @@ Anhang
 
 <sup>2</sup> Das Signal hat einen gelben Grund, Rand und Symbol sind schwarz.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20160215/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20220601/de/xml/image/image1.png)
+
+[^t-1]: Ursprünglich: Anhang.
+
+Anhang 2*[^t-2]*
+
+(Art. 17*a*)
+
+## Vorschriften über die Beförderung gefährlicher Güter
+
+[^t-2]: Eingefügt durch Ziff. II der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+
+### Teil 1 Allgemeine Vorschriften
+
+### 110 Geltungsbereich und Anwendbarkeit
+
+- 111 Die Beförderung gefährlicher Güter auf schweizerischen Gewässern einschliesslich der Grenzgewässer ist generell verboten. Ausnahmen sind in diesem Anhang festgehalten.
+- 112 Der Schiffsführer oder die Schiffsführerin ist für die Einhaltung dieser Bestimmungen verantwortlich.
+- 113 Die Klassifizierung und die Beförderung gefährlicher Güter richten sich grundsätzlich nach der Verordnung vom 31. Oktober 2012[^annex2-lvlu1-part1-lvl110-1] über die Beförderung gefährlicher Güter mit Eisenbahnen und Seilbahnen (RSD).
+- 114 Das SVSAA kann mit Zustimmung des BAV zusätzliche Ausnahmen bewilligen, namentlich von den Vorschriften über die Art der Beförderung des Gutes, die zu verwendenden Schiffe sowie die Kennzeichnung der Versandstücke, Container, Schiffe und Aggregate.
+
+[^annex2-lvlu1-part1-lvl110-1]: [SR 742.412](https://fedlex.data.admin.ch/eli/cc/2012/785)
+
+### 120 Freistellungen in Zusammenhang mit der Art der Beförderungsdurchführung
+
+- 121
+
+  Der Anhang gilt nicht für:
+
+  - a. die Beförderung von Maschinen oder Geräten, die in ihrem inneren Aufbau oder in ihren Funktionselementen gefährliche Güter enthalten, vorausgesetzt, es werden Massnahmen getroffen, die unter normalen Beförderungsbedingungen ein Freiwerden des Inhalts verhindern;
+  - b. die Notfallbeförderung zur Rettung menschlichen Lebens oder zum Schutz der Umwelt, vorausgesetzt, es werden alle Massnahmen zur sicheren Durchführung dieser Beförderung getroffen;
+  - c. die Beförderung von Gütern der Klasse 1, die als Bestandteil des Waffensystems gelten und zum Einsatz von Bordwaffen dienen;
+
+- d. die Beförderung von gefährlichen Gütern, mit denen an Bord befindliche Personen ausgerüstet sind.
+
+### 130 Freistellungen in Zusammenhang mit der Beförderung von Gasen
+
+- 131
+
+  Der Anhang gilt nicht für die Beförderung von:
+
+  - a. Gasen in Taucherflaschen, vorausgesetzt, es werden alle Massnahmen zur sicheren Durchführung dieser Beförderung getroffen;
+  - b. Gasen in Ausrüstungsteilen des Schiffes oder seines Aufbaus;
+  - c. Gasen in Brennstoffbehältern von beförderten Fahrzeugen.
+
+### 140 Freistellungen in Zusammenhang mit der Beförderung von flüssigen Brennstoffen
+
+- 141
+
+  Der Anhang gilt nicht für die Beförderung von:
+
+  - a. Brennstoff, der zum Antrieb des Schiffes oder zum Betrieb seiner Einrichtungen dient, namentlich in tragbaren Reservebrennstoffbehältern (Kanister), die in dafür vorgesehenen Einrichtungen befestigt sind oder gesichert mitgeführt werden;
+  - b. Brennstoff in Behältern von als Ladung beförderten Fahrzeugen, Baugeräten oder anderen Beförderungsmitteln, wenn er für den Antrieb oder zum Betrieb einer ihrer Einrichtungen dient, sowie entsprechendem Reservebrennstoff in tragbaren Behältern wie Kanistern, die in dafür vorgesehenen Einrichtungen befestigt sind.
+
+### 150 Freistellung im Zusammenhang mit der Beförderung von Einrichtungen zur Speicherung und Erzeugung elektrischer Energie
+
+- 151
+
+  Der Anhang gilt nicht für Einrichtungen zur Speicherung und Erzeugung elektrischer Energie (z. B. Lithiumbatterien, elektrische Kondensatoren, asymmetrische Kondensatoren, Metallhydrid-Speichersysteme, Brennstoffzellen):
+
+  - a. die in Schiffen eingebaut sind, mit denen eine Beförderung durchgeführt wird, und die für deren Antrieb oder den Betrieb einer ihrer Einrichtungen dienen;
+  - b. die in einem Gerät für dessen Betrieb enthalten sind, das während der Beförderung verwendet wird oder für die Verwendung während der Beförderung bestimmt ist (z. B. tragbarer Rechner);
+  - c. die als Batterien von als Ladung beförderten Fahrzeugen, Baugeräten oder anderen Beförderungsmitteln für deren Antrieb oder den Betrieb einer ihrer Einrichtungen dienen.
+
+### Teil 2 Klassifizierung
+
+- 210 Die Klassifizierung gefährlicher Güter (z. B. Zuordnung der UN-Nr., der Klassifizierungscodes und der allfälligen Verpackungsgruppen) richtet sich nach dem RID[^annex2-lvlu1-part1-part2-1].
+
+[^annex2-lvlu1-part1-part2-1]: Der Text des RID (Anhang C zum Übereinkommen vom 9. Mai 1980 über den internationalen Eisenbahnverkehr; COTIF; [SR 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) wird in der AS nicht veröffentlicht. Der Text kann auf der Internetseite der Zwischenstaatlichen Organisation für den internationalen Eisenbahnverkehr (OTIF) unter www.otif.org &gt; Gefährliche Güter abgerufen werden.
+
+### Teil 3 Verzeichnis der gefährlichen Güter und Sondervorschriften
+
+- *(bleibt offen)*
+
+### Teil 4 Vorschriften für die Verwendung von Verpackungen und Tanks
+
+- 410 Gefährliche Güter dürfen nur in den bauartgeprüften Original- oder Ordonnanzverpackungen, wie Kanistern, Fässern, Kisten, Flaschen oder Druckgefässen, befördert werden, in denen sie übergeben wurden oder die dafür zur Verfügung gestellt worden sind. Müll- oder Hülsensäcke gelten nicht als bauartgeprüfte Verpackungen; sie dürfen namentlich nicht für den Rückschub von unverbrauchter Munition verwendet werden. Undichte oder beschädigte Verpackungen dürfen nicht verwendet werden.
+- 420 Werden gefährliche Güter in Tanks befördert, so müssen diese doppelwandig sein und den Gefahrgutvorschriften entsprechen.
+
+### Teil 5 Vorschriften für den Versand
+
+- 510 Wer gefährliche Güter versendet, muss sich vergewissern, dass der Transport zu den in dieser Verordnung verlangten Bedingungen ausgeführt wird.
+
+### 520 Kennzeichnung und Bezettelung
+
+- 521 Munition in Originalverpackungen darf ohne Kennzeichnung und Bezettelung nach den Abschnitten 5.2.1 und 5.2.2 RSD/RID befördert werden.
+- 522 Abweichend von der RSD und vom RID können Güter der Klasse 1 in der Armee mit folgenden Gefahrzetteln gekennzeichnet werden:
+- 1\.1B für die Verträglichkeitsgruppe B der Unterklassen 1.1, 1.2 und 1.4;
+- 1\.1E für die Verträglichkeitsgruppen C, D, E und G der Unterklasse 1.1;
+- 1\.2E für die Verträglichkeitsgruppen C, D, E und G der Unterklassen 1.2 und 1.4, die Verträglichkeitsgruppen C und G der Unterklasse 1.3 sowie die Verträglichkeitsgruppe S der Unterklasse 1.4.
+- 523 Gefährliche Güter der Klasse 1 können auch in der Armee mit Gefahrzetteln nach Kapitel 5.2 RSD/RID versehen werden.
+
+### Teil 6 Bau- und Prüfvorschriften für Verpackungen und Tanks
+
+- 610 Die Bau- und Prüfvorschriften der RSD und des RID für Verpackungen, Grosspackmittel (IBC), Grossverpackungen und Tanks gelten sinngemäss. Die Armasuisse ist ermächtigt, Verpackungen zu prüfen. Sie kann mit Zustimmung einer nach Artikel 15 der Gefahrgutumschliessungsverordnung vom 31. Oktober 2012[^annex2-lvlu1-part2-1] bezeichneten Konformitätsbewertungsstelle Ausnahmen von der RSD und vom RID bewilligen.
+
+[^annex2-lvlu1-part2-1]: [SR 930.111.4](https://fedlex.data.admin.ch/eli/cc/2012/797)
+
+### Teil 7 Vorschriften für die Beförderung, die Be- und Entladung und die Handhabung
+
+- 710 Einzelne Teile einer Ladung gefährlicher Güter sind so anzuordnen und mit geeigneten Mitteln zu sichern, dass sie sich während der Fahrt nicht verschieben können.
+
+### Teil 8 Vorschriften für die Schiffsbesatzung, die Ausrüstung, den Betrieb der Schiffe und die Dokumentation
+
+### 810 Allgemeine Vorschriften für die Schiffe und das Bordgerät
+
+- *(bleibt offen)*
+
+### 820 Vorschriften für die Ausbildung der Schiffsführer und Schiffsführerinnen
+
+- *(bleibt offen)*
+
+### 830 Verschiedene Vorschriften, die von der Schiffsbesatzung zu beachten sind
+
+- 831 Beim Transport und bei Ladearbeiten ist das Rauchen verboten oder nur an ausgewiesener Stelle erlaubt.
+- 832 Entstehen durch einen Unfall Gefahren für Mitmenschen oder die Umwelt, so ist die gefährdete Zone abzusichern und die zivilen Rettungsdienste sind zu alarmieren.
+- 833 Die Besatzung ist zur Hilfeleistung verpflichtet.
+- 834 Im Rahmen der vor- und ausserdienstlichen militärischen Tätigkeiten dürfen keine Gefahrgüter mit Schiffen befördert werden. Gestattet ist lediglich das Mitführen von Gegenständen der persönlichen Ausrüstung sowie Brennstoff zum Betrieb des Schiffes.
+
+### 840 Vorschriften für die Überwachung der Schiffe
+
+- 841 Für Güter der Klasse 1, welche aufgrund von Missbrauchs- und Diebstahlgefahr verschärften Sicherungsvorschriften unterliegen, gelten die in den entsprechenden Weisungen des Chefs oder der Chefin der Armee festgelegten erhöhten Sicherungsvorschriften und -anordnungen.
+
+### 850 Zusätzliche Vorschriften für besondere Klassen oder Güter
+
+- *(bleibt offen)*
+
+### 860 Beschränkungen für Strassenfahrzeuge mit gefährlichen Gütern auf militärischen Übergängen (Brücken und Fähren)
+
+- 861 Strassenfahrzeuge, die mit gefährlichen Gütern beladen sind und die der Verordnung vom 11. Februar 2004[^annex2-lvlu1-part850-lvl860-1] über den militärischen Strassenverkehr entsprechen, dürfen auf Brücken der Armee verkehren oder auf Fähren und Schiffen der Armee befördert werden.
+
+[^annex2-lvlu1-part850-lvl860-1]: [SR 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
+
+### 870 Versorgung von Maschinen und Geräten bei Tätigkeiten am und über dem Wasser
+
+- 871 Um Maschinen und Geräte bei Tätigkeiten am und über dem Wasser mit Brennstoff zu versorgen, sind für den Transport mit Booten nur gefahrgutgeprüfte Verpackungen, Grossverpackungen und Tanks zu verwenden. Dabei sind alle Massnahmen zu ergreifen, damit kein Brennstoff ausläuft.

@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> mars 2006 concernant la navigation militair
 short: ONM
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/150"
 language: fr
-version: 2016-02-15
+version: 2022-06-01
 adopted: 2006-03-01
 in_force: 2006-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20160215/fr/xml/fedlex-data-admin-ch-eli-cc-2006-150-20160215-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/150/20160215/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2006-150-20220601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/150/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/150/20160215/fr"
 
 (ONM)
 
-du 1<sup>er</sup> mars 2006 (Etat le 15 février 2016)
+du 1<sup>er</sup> mars 2006 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
-vu les art. 27, al. 4, et 56, al. 1, de la loi fédérale du 3 octobre 1975 sur la navigation intérieure (LNI)[^ingress-1], vu l’art. 150, al. 1, de la loi fédérale du 3 février 1995 sur l’armée et l’administration militaire[^ingress-2],
+vu les art. 27, al. 4, et 56, al. 2<sup>bis</sup>, de la loi fédérale du 3 octobre 1975 sur la navigation intérieure (LNI)[^ingress-1], vu l’art. 150, al. 1, de la loi du 3 février 1995 sur l’armée[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 747.201](https://fedlex.data.admin.ch/eli/cc/1976/725_724_724)
 [^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 ## Section 1 Dispositions générales
 
@@ -40,9 +41,11 @@ La présente ordonnance règle pour la navigation militaire les exceptions aux r
 
 **Champ d’application**
 
-<sup>1</sup> La présente ordonnance s’applique à l’utilisation de bateaux militaires, de véhicules amphibies militaires et d’autres moyens militaires amphibies et d’immersion dans le cadre d’activités militaires de service, prémilitaires et hors du service sur des eaux publiques à l’intérieur des limites territoriales ou du domaine d’exécution suisse.
+<sup>1</sup> La présente ordonnance s’applique à l’utilisation de bateaux militaires, de véhicules amphibies militaires et d’autres moyens militaires amphibies et d’immersion dans le cadre d’activités militaires, prémilitaires et hors du service sur les voies navigables suisses, y compris celles qui sont frontalières.[^2-1]
 
 <sup>2</sup> Au surplus, les prescriptions concernant la navigation civile sont applicables.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 #### Art. 3
 
@@ -74,7 +77,7 @@ L’Office de la circulation routière et de la navigation de l’armée (OCRNA)
 
 <sup>2</sup>
 
-La Formation d’application du génie et du sauvetage de l’armée suisse est compétente pour:[^4-4]
+La Formation d’application génie/sauvetage/NBC de l’armée est compétente pour:[^4-4]
 
 - a. la formation et la formation continue des conducteurs de bateaux militaires;
 - b.[^4-5] la mise à disposition du personnel spécialisé requis pour la formation et l’examen ainsi que des experts aux examens conformément aux directives de l’OCRNA;
@@ -108,7 +111,7 @@ La police militaire veille à la sécurité de la navigation militaire. Elle est
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 15 fév. 2016 ([RO 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 15 fév. 2016 (RO 2016 393).
 [^4-3]: Introduite par le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 15 fév. 2016 ([RO 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
-[^4-4]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 15 fév. 2016 ([RO 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
+[^4-4]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 [^4-5]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 15 fév. 2016 ([RO 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
 [^4-6]: Introduit par le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 15 fév. 2016 ([RO 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
 
@@ -167,14 +170,16 @@ Sont dispensés de l’obligation d’immatriculer:
 
 Les civils ne sont pas autorisés à prendre place à bord de bateaux militaires. Font exception les personnes civiles qui:
 
-- a. participent à un exercice militaire, à une activité de service de la troupe ou à une manifestation militaire hors du service;
-- b. doivent être transportées en qualité de visiteurs lors d’un exercice militaire, d’une journée portes ouvertes, d’une remise de drapeau ou d’étendard, d’une cérémonie de promotion ou d’une manifestation militaire hors du service;
-- c. assistent à des visites guidées militaires ou doivent être transportées dans le cadre d’engagements de la troupe autorisés selon l’ordonnance du 21 août 2013 concernant l’appui d’activités civiles et d’activités hors du service avec des moyens militaires[^9-1];
+- a.[^9-1] participent à un exercice militaire, à une activité de service de la troupe, à une manifestation prémilitaire ou à une manifestation militaire hors du service;
+- b.[^9-2] doivent être transportées en qualité de visiteurs lors d’un exercice militaire, d’une journée portes ouvertes, d’une remise de drapeau ou d’étendard, d’une cérémonie de promotion, d’une manifestation prémilitaire ou d’une manifestation militaire hors du service;
+- c. assistent à des visites guidées militaires ou doivent être transportées dans le cadre d’engagements de la troupe autorisés selon l’ordonnance du 21 août 2013 concernant l’appui d’activités civiles et d’activités hors du service avec des moyens militaires[^9-3];
 - d. doivent être transportées pour d’autres raisons inhérentes au service ou pour des raisons d’ordre militaire;
-- e. sont transportées en cas d’urgence ou pour porter secours.[^9-2]
+- e. sont transportées en cas d’urgence ou pour porter secours.[^9-4]
 
-[^9-1]: [RS 513.74](https://fedlex.data.admin.ch/eli/cc/2013/568)
-[^9-2]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 15 fév. 2016 ([RO 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^9-3]: [RS 513.74](https://fedlex.data.admin.ch/eli/cc/2013/568)
+[^9-4]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 15 fév. 2016 ([RO 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
 
 ## Section 3 Conduite de bateaux militaires
 
@@ -182,9 +187,11 @@ Les civils ne sont pas autorisés à prendre place à bord de bateaux militaires
 
 **Instruction**
 
-<sup>1</sup> Les militaires et les jeunes pontonniers auxquels on prévoit de confier la conduite de bateaux militaires sont formés en qualité de conducteurs de bateaux militaires dans des écoles et lors de cours militaires ainsi que durant des cours organisés à l’occasion d’activités préliminaires.
+<sup>1</sup> Les militaires et les participants aux cours de pontonniers auxquels on prévoit de confier la conduite de bateaux militaires sont formés en qualité de conducteurs de bateaux militaires dans des écoles et lors de cours militaires ainsi que durant des cours d’instruction prémilitaire.[^10-1]
 
 <sup>2</sup> L’enseignement spécialisé leur est dispensé par le personnel spécialisé. Il peut être donné, en partie, de façon collective.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 #### Art. 11
 
@@ -202,15 +209,18 @@ Les civils ne sont pas autorisés à prendre place à bord de bateaux militaires
 
 <sup>1</sup> Toute personne qui conduit des bateaux militaires pendant le service militaire ou lors d’activités militaires hors du service doit être détentrice d’un permis de conduire militaire pour conducteurs de bateaux.
 
-<sup>2</sup> Les militaires obtiennent le permis de conduire militaire pour conducteurs de bateaux s’ils réussissent l’examen et satisfont aux exigences physiques, intellectuelles et militaires leur permettant de conduire un bateau en toute sécurité.
+<sup>2</sup> Les militaires et les personnes qui ont suivi les cours de pontonniers obtiennent le permis de conduire militaire pour conducteurs de bateaux s’ils réussissent l’examen et satisfont aux exigences physiques, intellectuelles et militaires leur permettant de conduire un bateau en toute sécurité.[^12-2]
 
-<sup>3</sup> Un permis de conduire militaire pour conducteurs de bateaux n’est pas nécessaire pour le personnel militaire et les moniteurs de conduite qui conduisent des bateaux militaires pendant le service militaire ou lors d’activités militaires hors du service avec un permis de conduire civil de la catégorie de permis correspondante.
+<sup>3</sup> Un permis de conduire militaire pour conducteurs de bateaux n’est pas nécessaire pour le personnel militaire et les enseignants spécialisés qui conduisent des bateaux militaires durant le service militaire, pendant leurs activités professionnelles ou lors d’activités militaires hors du service avec un permis de conduire fédéral de la catégorie correspondante.[^12-3]
 
 <sup>4</sup> Les personnes auxquelles le permis de conduire civil pour conducteurs de bateaux a été retiré ne sont pas autorisées à conduire des bateaux pendant le service militaire ou lors d’activités militaires hors du service.
 
-<sup>5</sup> Pour les membres de la police, le permis de conduire cantonal de la catégorie correspondante est suffisant pour accomplir leurs activités de service. A l’issue de la formation complémentaire, le commandement de la Formation d’application du génie et du sauvetage délivre l’autorisation de conduire pour une durée de cinq ans.
+<sup>5</sup> Les membres de la police, des corps de sapeurs-pompiers et des services sanitaires n’ont pas besoin d’un permis de conduire militaire pour conducteurs de bateaux lorsqu’ils conduisent des bateaux militaires avec un permis de conduire cantonal de la catégorie correspondante pendant leurs activités professionnelles. À l’issue de la formation complémentaire, le commandement de la Formation d’application génie/sauvetage/NBC leur délivre l’autorisation de conduire des bateaux militaires pour une durée de cinq ans au plus.[^12-4]
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 15 fév. 2016 ([RO 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
+[^12-2]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^12-3]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^12-4]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 #### Art. 13
 
@@ -258,15 +268,52 @@ Il retire au militaire le permis de conduire militaire pour conducteurs de batea
 [^14-2]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 15 fév. 2016 ([RO 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
 [^14-3]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 15 fév. 2016 ([RO 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
 
+#### Art. 14a
+
+**Aptitude à conduire**[^14a-1]
+
+<sup>1</sup> Il incombe à toute personne qui conduit un bateau militaire d’être apte à la conduite. Elle est tenue d’informer son supérieur de tout ce qui pourrait entraver ou rendre impossible la conduite. Elle est dans tous les cas réputée inapte à la conduite lorsqu’elle contrevient aux prescriptions de l’art. 14*b*.
+
+<sup>2</sup> Les supérieurs surveillent l’aptitude à conduire des conducteurs de bateaux.
+
+<sup>3</sup> L’aptitude à conduire du personnel militaire et des enseignants spécialisés qui conduisent des bateaux militaires durant leurs activités professionnelles est régie par la législation civile sur la navigation. L’art. 14b ne s’applique pas.
+
+[^14a-1]: Introduit par le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+
+#### Art. 14b
+
+**Consommation d’alcool et de stupéfiants**[^14b-1]
+
+<sup>1</sup> Toute personne qui sait ou qui, compte tenu des circonstances, peut savoir qu’elle devra conduire un bateau militaire durant un service militaire, une activité prémilitaire ou une activité militaire hors du service ne doit consommer aucune boisson alcoolisée pendant les six heures qui précèdent le début de la course.
+
+<sup>2</sup> Elle ne doit en aucun cas conduire un bateau militaire si elle présente une concentration d’alcool dans l’air expiré de 0,05 mg/l ou plus ou un taux d’alcool dans le sang de 0,10 ‰ ou plus, ou si elle a une quantité d’alcool dans l’organisme entraînant ce taux d’alcool dans le sang.
+
+<sup>3</sup> Elle est dans tous les cas réputée inapte à la conduite lorsqu’elle a consommé des stupéfiants.
+
+<sup>4</sup> Le conducteur de bateaux doit immédiatement annoncer au médecin de troupe toute consommation de médicaments ou d’autres substances susceptibles d’entraver l’aptitude à conduire, et informer son supérieur de la diminution de son aptitude à conduire. Dans ce cas, il ne doit pas être engagé pour conduire des bateaux.
+
+[^14b-1]: Introduit par le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+
+#### Art. 14c
+
+**Procédure**[^14c-1]
+
+<sup>1</sup> Les autorités militaires compétentes constatent la violation de l’interdiction de consommer de l’alcool conformément à la législation civile sur la navigation.
+
+<sup>2</sup> Si le contrôle de l’alcool dans l’air expiré est effectué au moyen d’un éthylotest conformément à l’art. 40*c* de l’ordonnance du 8 novembre 1978 sur la navigation intérieure[^14c-2], la violation de l’interdiction de consommer de l’alcool est avérée lorsque le résultat inférieur des deux mesures correspond à une concentration d’alcool dans l’air expiré de 0,05 mg/l ou plus, mais de moins de 0,40 mg/l, et que le conducteur de bateaux reconnaît cette valeur par sa signature.
+
+[^14c-1]: Introduit par le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^14c-2]: [RS 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337)
+
 #### Art. 15
 
 **Permis cantonaux**
 
 <sup>1</sup> Sur demande, le canton de domicile délivre au titulaire d’un permis de conduire militaire pour conducteurs de bateaux le permis cantonal correspondant, pour autant que toutes les conditions soient remplies.
 
-<sup>2</sup> Pour les activités prémilitaires et les activités militaires hors du service, le titulaire d’un permis de conduire cantonal pour conducteurs de bateaux de la catégorie A peut demander au commandement de la Formation d’application du génie et du sauvetage de lui délivrer un permis de conduire militaire correspondant pour conducteurs de bateaux. Une formation complémentaire peut être ordonnée.[^15-1]
+<sup>2</sup> Pour les activités prémilitaires et les activités militaires hors du service, le titulaire d’un permis de conduire cantonal pour conducteurs de bateaux de la catégorie A peut demander au commandement de la Formation d’application génie/sauvetage/NBC de lui délivrer un permis de conduire militaire correspondant pour conducteurs de bateaux. Une formation complémentaire peut être ordonnée.[^15-1]
 
-[^15-1]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 15 fév. 2016 ([RO 2016 393](https://fedlex.data.admin.ch/eli/oc/2016/59)).
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 #### Art. 16
 
@@ -286,9 +333,19 @@ Il retire au militaire le permis de conduire militaire pour conducteurs de batea
 
 <sup>1</sup> D’entente avec l’autorité compétente et l’OFT, l’OCRNA peut ordonner des dérogations aux interdictions civiles et des restrictions à des fins militaires.
 
-<sup>2</sup> Les dérogations permanentes touchant aux interdictions civiles de circuler et aux restrictions de circulation sont annoncées au moyen du signal supplémentaire «Navigation militaire autorisée» conformément à l’annexe.
+<sup>2</sup> Les dérogations permanentes touchant aux interdictions civiles de circuler et aux restrictions de circulation sont annoncées au moyen du signal supplémentaire «Navigation militaire autorisée» conformément à l’annexe 1.
 
 <sup>3</sup> Lorsque les besoins militaires l’exigent, le commandant de troupe responsable peut ordonner, durant les exercices, des dérogations temporaires aux prescriptions civiles relatives à l’éclairage, à la vitesse maximale et à la navigation dans les zones riveraines. Il demande au préalable l’accord des autorités compétentes.
+
+#### Art. 17a
+
+**Transport de marchandises dangereuses**[^17a-1]
+
+<sup>1</sup> Le transport de marchandises dangereuses est réglé dans l’annexe 2.
+
+<sup>2</sup> Le DDPS peut modifier l’annexe 2 avec le consentement du Département fédéral de l’environnement, des transports, de l’énergie et de la communication.
+
+[^17a-1]: Introduit par le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 #### Art. 18
 
@@ -322,13 +379,18 @@ Le DDPS est compétent pour recourir contre les décisions cantonales relatives 
 
 <sup>1</sup> L’armée peut soutenir les sociétés de pionniers, de navigation et de nautisme reconnues en leur prêtant du matériel militaire dans la mesure où ce dernier sert à des activités prémilitaires ou à des activités militaires hors du service.
 
-<sup>2</sup> La remise du matériel est régie par l’OEMC. Les bateaux militaires conservent l’immatriculation militaire.
+<sup>2</sup> La remise du matériel est régie par l’ordonnance du 21 août 2013 concernant l’appui d’activités civiles et d’activités hors du service avec des moyens militaires (OACM)[^22-1]. Les bateaux militaires conservent l’immatriculation militaire.[^22-2]
 
-<sup>3</sup> Les utilisateurs répondent des dommages conformément à l’OEMC et doivent conclure une assurance de responsabilité civile pour l’utilisation du matériel militaire hors du service.
+<sup>3</sup> Les utilisateurs répondent des dommages conformément à l’art. 12 OACM et doivent conclure une assurance de responsabilité civile pour l’utilisation du matériel militaire hors du service.[^22-3]
 
-<sup>4</sup> Les directives relatives à la navigation civile sont applicables.
+<sup>4</sup> …[^22-4]
 
 <sup>5</sup> Pour les compétitions et les démonstrations qui ont le caractère d’une manifestation nautique, une autorisation de l’autorité civile compétente doit être requise.
+
+[^22-1]: [RS 513.74](https://fedlex.data.admin.ch/eli/cc/2013/568)
+[^22-2]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^22-3]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+[^22-4]: Abrogé par le ch. I de l’O du 4 mai 2022, avec effet au 1<sup>er</sup> juin 2022 ([RO 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 ## Section 6 Location et réquisition de bateaux civils
 
@@ -350,7 +412,9 @@ Le DDPS est compétent pour recourir contre les décisions cantonales relatives 
 
 <sup>2</sup> La réception, l’engagement et l’indemnité sont régis par la décision de réquisition.
 
-<sup>3</sup> L’Etat-major de conduite de l’armée délivre l’autorisation de réquisition. La BLA édicte la décision de réquisition.
+<sup>3</sup> La BLA délivre l’autorisation de réquisition.[^24-1]
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
 
 ## Section 7 Accidents et dommages
 
@@ -405,7 +469,7 @@ L’ordonnance du 29 novembre 1995 concernant la navigation militaire[^27-1] est
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> avril 2006.
 
-Annexe
+Annexe 1*[^t-1]*
 
 (art. 17)
 
@@ -413,4 +477,138 @@ Annexe
 
 <sup>2</sup> Le fond du signal est jaune, le bord et le symbole sont noirs.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20160215/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/150/20220601/fr/xml/image/image1.png)
+
+[^t-1]: Anciennement annexe.
+
+Annexe 2*[^t-2]*
+
+(art. 17*a*)
+
+## Dispositions sur le transport de marchandises dangereuses
+
+[^t-2]: Introduite par le ch. II de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 304](https://fedlex.data.admin.ch/eli/oc/2022/304)).
+
+### Partie 1 Dispositions générales
+
+### 110 Champ d’application et applicabilité
+
+- 111 De manière générale, le transport de marchandises dangereuses est interdit sur les voies navigables suisses, y compris celles qui sont frontalières. Les exceptions sont énumérées dans la présente annexe.
+- 112 La responsabilité du respect des présentes dispositions incombe au conducteur du bateau.
+- 113 La classification et le transport de marchandises dangereuses sont en principe réglés dans l’ordonnance du 31 octobre 2012 sur le transport de marchandises dangereuses par chemin de fer et par installations à câbles (RSD)[^annex2-lvlu1-part1-lvl110-1].
+- 114 L’OCRNA peut accorder, avec le consentement de l’OFT, d’autres exceptions, en particulier aux dispositions concernant le mode de transport des marchandises, les bateaux à employer ainsi que le marquage des colis, des conteneurs, des bateaux et des groupes électrogènes.
+
+[^annex2-lvlu1-part1-lvl110-1]: [RS 742.412](https://fedlex.data.admin.ch/eli/cc/2012/785)
+
+### 120 Exemptions liées à la nature de l’opération de transport
+
+- 121
+
+  La présente annexe ne s’applique pas:
+
+  - a. aux transports de machines ou de matériels qui comportent des marchandises dangereuses dans leur structure ou leur circuit de fonctionnement, à condition que des mesures soient prises pour empêcher toute fuite de contenu dans des conditions normales de transport;
+  - b. aux transports d’urgence destinés à sauver des vies humaines ou à protéger l’environnement, à condition que toutes les mesures soient prises afin que la sécurité de ces transports soit assurée;
+  - c. aux transports de marchandises de la classe 1 faisant partie intégrante du système d’armes d’un bateau et servant à l’utilisation des armes de bord de celui-ci;
+  - d. aux transports de marchandises dangereuses dont sont équipées certaines personnes se trouvant à bord.
+
+### 130 Exemptions liées au transport de gaz
+
+- 131
+
+  La présente annexe ne s’applique pas au transport:
+
+  - a. des gaz contenus dans les bouteilles de plongée, à condition que toutes les mesures soient prises pour assurer la sécurité du transport;
+  - b. des gaz contenus dans les pièces ou les superstructures du bateau;
+  - c. des gaz contenus dans les réservoirs à carburant des véhicules transportés.
+
+### 140 Exemptions liées au transport de carburants liquides
+
+- 141
+
+  La présente annexe ne s’applique pas au transport:
+
+  - a. du carburant qui sert à la propulsion du bateau ou au fonctionnement de ses équipements, notamment de celui qui se trouve dans des récipients de réserve portatifs (jerricanes) fixés aux installations prévues à cet effet ou emportés en étant arrimés sûrement;
+  - b. du carburant contenu dans les réservoirs de véhicules, de machines de chantier ou d’autres moyens de transport qui sont transportés en tant que chargement, lorsqu’il est destiné à leur propulsion ou au fonctionnement de l’un de leurs équipements, ainsi que du carburant contenu dans des récipients de réserve portatifs, par exemple dans des jerricanes, fixés aux installations prévues à cet effet.
+
+### 150 Exemptions liées au transport de dispositifs de stockage et de production d’énergie électrique
+
+- 151
+
+  La présente annexe ne s’applique pas aux dispositifs de stockage et de production d’énergie électrique (p. ex. batteries au lithium, condensateurs électriques, condensateurs asymétriques, dispositifs de stockage à hydrure métallique et batteries à combustible):
+
+  - a. installés dans des bateaux effectuant une opération de transport et qui sont destinés à leur propulsion ou au fonctionnement d’un de leurs équipements;
+  - b. contenus dans un équipement utilisé ou destiné à une utilisation durant le transport et dont le fonctionnement doit être assuré (p. ex. un ordinateur portable);
+  - c. servant de batteries installées dans des véhicules, des machines de chantier ou d’autres moyens de transport transportés en tant que chargement, et destinées à leur propulsion ou au fonctionnement d’un de leurs équipements.
+
+### Partie 2 Classification
+
+- 210 La classification des marchandises dangereuses (p. ex. attribution des numéros ONU, des codes de classification et des éventuels groupes d’emballages) est régie par le RID[^annex2-lvlu1-part2-1].
+
+[^annex2-lvlu1-part2-1]: Le texte du RID (appendice C de la Convention du 9 mai 1980 relative aux transports internationaux ferroviaires; COTIF; [RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) n’est pas publié dans le RS). Il peut être téléchargé sur le site Internet de l’Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF) à l’adresse www.otif.org &gt; Marchandises dangereuses.
+
+### Partie 3 Liste des marchandises dangereuses et des dispositions spéciales
+
+- *(réservé)*
+
+### Partie 4 Dispositions relatives à l’utilisation des emballages et des citernes
+
+- 410 Les marchandises dangereuses doivent être transportées exclusivement dans les emballages homologués originaux ou d’ordonnance (jerricanes, fûts, caisses, bouteilles, récipients sous pression, etc.) dans lesquels elles ont été livrées ou qui sont mis à disposition à cet effet. Les sacs-poubelles et les sacs à douilles ne sont pas considérés comme des emballages homologués; ils ne peuvent notamment pas être utilisés pour la restitution de munitions non utilisées. Les emballages non étanches ou endommagés ne doivent pas être utilisés.
+- 420 Lorsque des marchandises dangereuses sont transportées en citernes, celles-ci doivent être à double paroi et satisfaire aux dispositions relatives aux marchandises dangereuses.
+
+### Partie 5 Dispositions relatives à l’expédition
+
+- 510 Toute personne qui expédie des marchandises dangereuses est tenue de s’assurer que le transport sera effectué conformément aux prescriptions de la présente ordonnance.
+
+### 520 Signalisation et étiquetage
+
+- 521 La signalisation et l’étiquetage ne sont pas exigés pour le transport de munitions dans leurs emballages d’origine conformément aux sections 5.2.1 et 5.2.2 RSD/RID.
+- 522 En dérogation aux dispositions de la RSD et du RID, les marchandises de la classe 1 peuvent être identifiées dans l’armée par les étiquettes de danger suivantes:
+- 1\.1B pour le groupe de compatibilité B des divisions 1.1, 1.2 et 1.4;
+- 1\.1E pour les groupes de compatibilité C, D, E et G de la division 1.1;
+- 1\.2E pour les groupes de compatibilité C, D, E et G des divisions 1.2 et 1.4, pour les groupes de compatibilité C et G de la division 1.3 ainsi que pour le groupe de compatibilité S de la division 1.4.
+- 523 À l’armée, les marchandises dangereuses de la classe 1 peuvent également être munies d’étiquettes de danger selon le chapitre 5.2 RSD/RID.
+
+### Partie 6 Dispositions relatives à la construction des emballages et des citernes et aux contrôles qu’ils doivent subir
+
+- 610 Les prescriptions de la RSD et du RID relatives à la construction et au contrôle des emballages, des grands récipients pour vrac (GRV), des grands emballages et des citernes sont applicables par analogie. L’Office fédéral de l’armement armasuisse est habilité à procéder au contrôle des emballages. Il peut, en accord avec l’un des organismes d’évaluation de la conformité désignés à l’art. 15 de l’ordonnance du 31 octobre 2012 sur les contenants de marchandises dangereuses[^annex2-lvlu1-part850-1], autoriser des dérogations à la RSD et au RID.
+
+[^annex2-lvlu1-part850-1]: [RS 930.111.4](https://fedlex.data.admin.ch/eli/cc/2012/797)
+
+### Partie 7 Dispositions concernant le transport, le chargement, le déchargement et la manutention
+
+- 710 Les différentes parties d’un chargement de marchandises dangereuses doivent être disposées et assurées de manière à éviter tout déplacement pendant le trajet.
+
+### Partie 8 Dispositions relatives aux équipages, à l’équipement, à l’exploitation des bateaux et à la documentation
+
+### 810 Dispositions générales relatives aux bateaux et au matériel de bord
+
+- *(réservé)*
+
+### 820 Dispositions relatives à la formation des conducteurs de bateaux
+
+- *(réservé)*
+
+### 830 Dispositions diverses à observer par les équipages
+
+- 831 Il est interdit de fumer pendant le transport, le chargement et le déchargement, sauf à l’endroit désigné à cet effet.
+- 832 En cas d’accident mettant en péril des personnes ou l’environnement, un périmètre de sécurité doit être établi autour de la zone dangereuse, et les services de sauvetage civils doivent être alertés.
+- 833 Les membres d’équipage sont tenus de participer aux opérations de secours.
+- 834 Lors d’activités prémilitaires et d’activités militaires hors du service, aucune marchandise dangereuse ne doit être transportée par bateau. Il n’est permis d’emporter que des articles faisant partie de l’équipement personnel et du carburant pour le bateau.
+
+### 840 Dispositions relatives à la surveillance des bateaux
+
+- 841 Pour les marchandises de la classe 1 soumises à des prescriptions de sûreté renforcées en raison d’un risque de vol ou d’utilisation abusive, on appliquera les dispositions et prescriptions de sûreté plus sévères fixées dans les directives du chef de l’armée.
+
+### 850 Dispositions supplémentaires relatives à des classes ou à des marchandises particulières
+
+- *(réservé)*
+
+### 860 Restrictions imposées aux véhicules routiers transportant des marchandises dangereuses lorsqu’ils empruntent des moyens de franchissement militaires (ponts et bacs)
+
+- 861 Les véhicules routiers chargés de marchandises dangereuses peuvent emprunter les ponts de l’armée et être transportés sur des bacs et des bateaux militaires s’ils satisfont aux exigences fixées dans l’ordonnance du 11 février 2004 sur la circulation militaire[^annex2-lvlu1-part8-lvl860-1].
+
+[^annex2-lvlu1-part8-lvl860-1]: [RS 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
+
+### 870 Approvisionnement des machines et des engins lors de travaux effectués sur l’eau ou à proximité immédiate de l’eau
+
+- 871 Le carburant destiné à approvisionner des machines et des engins lors de travaux effectués sur l’eau ou à proximité immédiate de l’eau ne peut être transporté par bateau que dans des emballages, des citernes et des grands emballages homologués pour le transport de marchandises dangereuses. Toutes les mesures doivent alors être prises pour éviter un écoulement de carburant.
