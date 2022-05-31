@@ -3,20 +3,19 @@ canton: SG
 number: "941.223"
 title: Reglement über den Geschäftsgang der Verwaltungsrekurskommission
 language: de
-version: 2017-06-01
-valid_until: 2022-05-31
-version_adopted: 2017-04-04
+version: 2022-06-01
+version_adopted: 2022-05-24
 adopted: 1987-05-27
 in_force: 1987-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/941.223"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2206/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3362/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über den Geschäftsgang der Verwaltungsrekurskommission
 
-vom 27.05.1987 (Stand 01.06.2017)
+vom 27.05.1987 (Stand 01.06.2022)
 
 Das Verwaltungsgericht des Kantons St.Gallen
 
@@ -95,9 +94,13 @@ als Reglement:[^ingress-2]
 
 **c) Anfechtungen der fürsorgerischen Unterbringung**
 
-<sup>1</sup> Bei Anfechtungen der fürsorgerischen Unterbringung wirkt ein ärztlicher Fachrichter als Sachverständiger mit. Er befragt die betroffene Person während der Gerichtsverhandlung und gibt seine gutachterliche Stellungnahme mündlich ab. Der ärztliche Fachrichter wirkt bei der Urteilsfällung nicht mit.
+<sup>1</sup> …
 
 <sup>2</sup> …
+
+<sup>3</sup> Im Beschwerdeverfahren gegen die fürsorgerische Unterbringung wird eine ärztliche Fachperson aus einer öffentlichen Liste von Sachverständigen beigezogen.
+
+<sup>4</sup> Hat die Kindes- und Erwachsenenschutzbehörde bereits ein Gutachten einer unabhängigen Gutachterin oder eines unabhängigen Gutachters eingereicht, so kann die Verwaltungsrekurskommission darauf abstellen und auf den Beizug einer ärztlichen Fachperson verzichten.
 
 #### Art. 7
 
