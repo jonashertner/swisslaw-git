@@ -4,13 +4,12 @@ number: "172.820"
 title: Ordonnance sur la base de données référentielles des personnes physiques
 short: OBDR-PP
 language: fr
-version: 2021-01-01
-valid_until: 2022-05-31
-version_adopted: 2021-02-03
+version: 2022-06-01
+version_adopted: 2022-05-18
 adopted: 2021-02-03
 in_force: 2021-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/172.820"
-pdf: "https://lex.vs.ch/api/fr/versions/2884/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3035/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2884/pdf_file"
 
 (OBDR-PP)
 
-du 03.02.2021 (état 01.01.2021)
+du 03.02.2021 (état 01.06.2022)
 
 Le Conseil d’Etat du canton du Valais
 
@@ -105,6 +104,12 @@ ordonne:
 - f) la base de données source des valeurs fiscales des logements, bâtiments et biens-fonds, relative uniquement aux données des propriétaires et usufruitiers.
 
 <sup>2</sup> L’annexe 2 présente les bases de données sources actives ainsi que les responsables ou teneurs de registres associés.
+
+#### Art. 5a
+
+**Certification**
+
+<sup>1</sup> Conformément à l'article 10a OgBDR, les applications communales assurant la transmission des données des personnes physiques utilisées par la BDR-PP doivent être certifiées.
 
 ## 4 Gestion des accès
 

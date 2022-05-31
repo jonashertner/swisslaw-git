@@ -4,13 +4,12 @@ number: "172.820"
 title: Verordnung über die Referenzdatenbank der natürlichen Personen
 short: VRDB-NP
 language: de
-version: 2021-01-01
-valid_until: 2022-05-31
-version_adopted: 2021-02-03
+version: 2022-06-01
+version_adopted: 2022-05-18
 adopted: 2021-02-03
 in_force: 2021-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/172.820"
-pdf: "https://lex.vs.ch/api/de/versions/2884/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3035/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2884/pdf_file"
 
 (VRDB-NP)
 
-vom 03.02.2021 (Stand 01.01.2021)
+vom 03.02.2021 (Stand 01.06.2022)
 
 Der Staatsrat des Kantons Wallis
 
@@ -105,6 +104,12 @@ verordnet:
 - f) der Quellendatenbank mit dem Steuerwert von Wohnungen, Gebäuden und Grundstücken, die sich einzig auf die Daten der Eigentümer und Nutzniesser bezieht.
 
 <sup>2</sup> In Anhang 2 sind die aktiven Quelldatenbanken sowie die Verantwortlichen oder Halter der verknüpften Register aufgeführt.
+
+#### Art. 5a
+
+**Zertifizierung**
+
+<sup>1</sup> Gemäss Artikel 10a AVGRDB müssen die Anwendungen der Gemeinden zur Übertragung der von der RDN-NP verwendeten Daten von natürlichen Personen zertifiziert sein
 
 ## 4 Verwaltung der Zugänge
 
