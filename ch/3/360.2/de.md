@@ -3,11 +3,11 @@ sr: "360.2"
 title: Verordnung vom 15. Oktober 2008 über das Nationale Ermittlungssystem (NES-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/697"
 language: de
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/697/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-697-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/697/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2008-697-20220601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20220101/de"
 
 (JANUS-Verordnung)
 
-vom 15. Oktober 2008 (Stand am 1. Januar 2022)
+vom 15. Oktober 2008 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -86,39 +86,47 @@ Das System Bundesdelikte unterstützt:
 
 <sup>1</sup>
 
-Im JANUS werden Daten bearbeitet, die im Rahmen der Aufgaben der Bundeskriminalpolizei (BKP) in ihrer Funktion als Zentralstelle nach Artikel 2 ZentG erforderlich sind:
+Im JANUS werden Daten bearbeitet, die im Rahmen der Aufgaben der Bundeskriminalpolizei (BKP) in ihrer Funktion als Zentralstelle nach Artikel 2*a* ZentG erforderlich sind: [^3-1]
 
-- a. zur Verhinderung und Bekämpfung des illegalen Drogenhandels nach Artikel 29 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^3-1] sowie der Artikel 9 und 10 des ZentG;
-- b. zur Erkennung und Bekämpfung des organisierten Verbrechens nach den Artikeln 7 und 8 des ZentG sowie Artikel 337 Absatz 1 des Strafgesetzbuches (StGB)[^3-2];
-- c. zur Bekämpfung der Falschmünzerei nach dem Internationalen Abkommen vom 20. April 1929[^3-3] zur Bekämpfung der Falschmünzerei;
-- d. zur Bekämpfung des Menschenhandels nach dem Internationalen Übereinkommen vom 18. Mai 1904[^3-4] zur Gewährleistung eines wirksamen Schutzes gegen das unter dem Namen «Mädchenhandel» bekannte verbrecherische Treiben, dem Internationalen Übereinkommen vom 4. Mai 1910[^3-5] zur Bekämpfung des Mädchenhandels, dem Internationalen Übereinkommen vom 30. September 1921[^3-6] zur Unterdrückung des Frauen- und Kinderhandels und dem Internationalen Abkommen vom 11. Oktober 1933[^3-7] über die Unterdrückung des Handels mit volljährigen Frauen;
-- e. zur Bekämpfung der Verbreitung unzüchtiger Veröffentlichungen nach dem Internationalen Übereinkommen vom 4. Mai 1910[^3-8] zur Bekämpfung der Verbreitung unzüchtiger Veröffentlichungen und dem Internationalen Übereinkommen vom 12. September 1923[^3-9] zur Bekämpfung der Verbreitung und des Vertriebes von unzüchtigen Veröffentlichungen;
-- f. zur Bekämpfung der Wirtschaftskriminalität nach Artikel 337 Absatz 2 StGB sowie den Artikeln 7 und 8 des ZentG;
-- g. zur Bekämpfung der Geldwäscherei nach Artikel 337 Absatz 1 StGB sowie den Artikeln 7 und 8 des ZentG;
-- h. zur Bekämpfung der Korruptionsdelikte nach Artikel 337 Absatz 1 StGB sowie den Artikeln 7 und 8 des ZentG.
+- a. zur Verhinderung und Bekämpfung des illegalen Drogenhandels nach Artikel 29 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^3-2] sowie der Artikel 9 und 10 des ZentG;
+- b.[^3-3] zur Erkennung und Bekämpfung des organisierten Verbrechens nach den Artikeln 7 und 8 ZentG sowie Artikel 24 Absatz 1 der Strafprozessordnung (StPO)[^3-4];
+- c. zur Bekämpfung der Falschmünzerei nach dem Internationalen Abkommen vom 20. April 1929[^3-5] zur Bekämpfung der Falschmünzerei;
+- d. zur Bekämpfung des Menschenhandels nach dem Internationalen Übereinkommen vom 18. Mai 1904[^3-6] zur Gewährleistung eines wirksamen Schutzes gegen das unter dem Namen «Mädchenhandel» bekannte verbrecherische Treiben, dem Internationalen Übereinkommen vom 4. Mai 1910[^3-7] zur Bekämpfung des Mädchenhandels, dem Internationalen Übereinkommen vom 30. September 1921[^3-8] zur Unterdrückung des Frauen- und Kinderhandels und dem Internationalen Abkommen vom 11. Oktober 1933[^3-9] über die Unterdrückung des Handels mit volljährigen Frauen;
+- e. zur Bekämpfung der Verbreitung unzüchtiger Veröffentlichungen nach dem Internationalen Übereinkommen vom 4. Mai 1910[^3-10] zur Bekämpfung der Verbreitung unzüchtiger Veröffentlichungen und dem Internationalen Übereinkommen vom 12. September 1923[^3-11] zur Bekämpfung der Verbreitung und des Vertriebes von unzüchtigen Veröffentlichungen;
+- f.[^3-12] zur Bekämpfung der Wirtschaftskriminalität nach Artikel 24 Absatz 2 StPO sowie den Artikeln 7 und 8 ZentG;
+- g.[^3-13] zur Bekämpfung der Geldwäscherei nach Artikel 24 Absatz 1 StPO sowie den Artikeln 7 und 8 ZentG;
+- h.[^3-14] zur Bekämpfung der Korruptionsdelikte nach Artikel 24 Absatz 1 StPO sowie den Artikeln 7 und 8 ZentG;
+- i.[^3-15] zur Erkennung und Bekämpfung von Verbrechen und schweren Vergehen nach Artikel 3*a* ZentG.
 
-<sup>2</sup> Im JANUS werden auch Daten bearbeitet, die zur Erfüllung der Aufgaben der Bundeskriminalpolizei zur Bekämpfung sowie zur Verfolgung der übrigen unter die allgemeine Bundesgerichtsbarkeit gemäss Artikel 336 StGB fallenden Delikte notwendig sind, soweit diese in die Zuständigkeit des Bundes fallen und vor Hängigkeit der Strafverfahren bearbeitet werden. Diese Daten werden von den Daten gemäss den Absätzen 1 und 5 getrennt bearbeitet.
+<sup>2</sup> Im JANUS werden auch Daten bearbeitet, die zur Erfüllung der Aufgaben der Bundeskriminalpolizei zur Bekämpfung sowie zur Verfolgung der übrigen unter die allgemeine Bundesgerichtsbarkeit gemäss Artikel 23 StPO fallenden Delikte notwendig sind, soweit diese in die Zuständigkeit des Bundes fallen und vor Hängigkeit der Strafverfahren bearbeitet werden. Diese Daten werden von den Daten gemäss den Absätzen 1 und 5 getrennt bearbeitet.[^3-16]
 
-<sup>3</sup> Im JANUS werden auch Daten bearbeitet, die vom Europäischen Polizeiamt (Europol) übermittelt werden. Die Bearbeitung dieser Daten richtet sich nach dem Abkommen vom 24. September 2004[^3-10] zwischen der Schweizerischen Eidgenossenschaft und dem Europäischen Polizeiamt.
+<sup>3</sup> Im JANUS werden auch Daten bearbeitet, die vom Europäischen Polizeiamt (Europol) übermittelt werden. Die Bearbeitung dieser Daten richtet sich nach dem Abkommen vom 24. September 2004[^3-17] zwischen der Schweizerischen Eidgenossenschaft und dem Europäischen Polizeiamt.
 
-<sup>4</sup> Im JANUS werden Daten bearbeitet, die im Rahmen der Zusammenarbeit mit anderen Schengen-Staaten übermittelt wurden. Die Erfassung und Bearbeitung dieser Daten richtet sich nach der N-SIS-Verordnung vom 7. Mai 2008[^3-11].
+<sup>4</sup> Im JANUS werden Daten bearbeitet, die im Rahmen der Zusammenarbeit mit anderen Schengen-Staaten übermittelt wurden. Die Erfassung und Bearbeitung dieser Daten richtet sich nach der N-SIS-Verordnung vom 7. Mai 2008[^3-18].
 
-<sup>5</sup> Die kantonalen Strafverfolgungsbehörden und die kriminalpolizeilichen Dienste der Kantone können in den Unterkategorien «Journal» und «Personen und Vorgänge» des JANUS Daten zur Bekämpfung der strafbaren Handlungen bearbeiten, für welche keine Bundesstrafgerichtsbarkeit gegeben ist und die nicht in den Anwendungsbereich der Strafprozessordnung[^3-12], des ZentG, des BWIS[^3-13] und des NDG fallen. Diese Daten werden von den Daten gemäss den Absätzen 1–4 getrennt bearbeitet. Die Bearbeitung dieser Daten richtet sich nach den kantonalen Vorschriften.[^3-14]
+<sup>5</sup> Die kantonalen Strafverfolgungsbehörden und die kriminalpolizeilichen Dienste der Kantone können in den Unterkategorien «Journal» und «Personen und Vorgänge» des JANUS Daten zur Bekämpfung der strafbaren Handlungen bearbeiten, für welche keine Bundesstrafgerichtsbarkeit gegeben ist und die nicht in den Anwendungsbereich der Strafprozessordnung[^3-19], des ZentG, des BWIS[^3-20] und des NDG fallen. Diese Daten werden von den Daten gemäss den Absätzen 1–4 getrennt bearbeitet. Die Bearbeitung dieser Daten richtet sich nach den kantonalen Vorschriften.[^3-21]
 
-[^3-1]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^3-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^3-3]: [SR 0.311.51](https://fedlex.data.admin.ch/eli/cc/1949/1082_1174_1105)
-[^3-4]: [SR 0.311.31](https://fedlex.data.admin.ch/eli/cc/21/37_25_37)
-[^3-5]: [SR 0.311.32](https://fedlex.data.admin.ch/eli/cc/42/180_200_195)
-[^3-6]: [SR 0.311.33](https://fedlex.data.admin.ch/eli/cc/42/187_207_202)
-[^3-7]: [SR 0.311.34](https://fedlex.data.admin.ch/eli/cc/50/575_595_645)
-[^3-8]: [SR 0.311.41](https://fedlex.data.admin.ch/eli/cc/27/225_223_285)
-[^3-9]: [SR 0.311.42](https://fedlex.data.admin.ch/eli/cc/42/200_220_214)
-[^3-10]: [SR 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
-[^3-11]: [SR 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
-[^3-12]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^3-13]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^3-14]: Fassung gemäss Anhang 4 Ziff. II 6 der Nachrichtendienstverordnung vom 16. Aug. 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^3-1]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^3-2]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^3-3]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^3-4]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^3-5]: [SR 0.311.51](https://fedlex.data.admin.ch/eli/cc/1949/1082_1174_1105)
+[^3-6]: [SR 0.311.31](https://fedlex.data.admin.ch/eli/cc/21/37_25_37)
+[^3-7]: [SR 0.311.32](https://fedlex.data.admin.ch/eli/cc/42/180_200_195)
+[^3-8]: [SR 0.311.33](https://fedlex.data.admin.ch/eli/cc/42/187_207_202)
+[^3-9]: [SR 0.311.34](https://fedlex.data.admin.ch/eli/cc/50/575_595_645)
+[^3-10]: [SR 0.311.41](https://fedlex.data.admin.ch/eli/cc/27/225_223_285)
+[^3-11]: [SR 0.311.42](https://fedlex.data.admin.ch/eli/cc/42/200_220_214)
+[^3-12]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^3-13]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^3-14]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^3-15]: Eingefügt durch Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^3-16]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^3-17]: [SR 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
+[^3-18]: [SR 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
+[^3-19]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^3-20]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^3-21]: Fassung gemäss Anhang 4 Ziff. II 6 der Nachrichtendienstverordnung vom 16. Aug. 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
 
 #### Art. 4
 
@@ -198,7 +206,7 @@ Es erlaubt den Zugriff auf:
 
 Zur Bekämpfung des organisierten Verbrechens werden Daten bearbeitet über:
 
-- a. Organisationen, gegen die hinreichende Verdachtsgründe vorliegen, dass es sich um kriminelle Vereinigungen nach Artikel 260<sup>ter</sup> StGB[^8-1] handelt;
+- a.[^8-1] Organisationen, gegen die hinreichende Verdachtsgründe vorliegen, dass es sich um kriminelle Vereinigungen nach Artikel 260<sup>ter</sup> des Strafgesetzbuchs[^8-2] handelt;
 - b. Personen, gegen die hinreichende Verdachtsgründe vorliegen, dass sie Straftaten vorbereiten, begehen oder unterstützen, bei denen die Mitwirkung einer Organisation nach Buchstabe a vermutet wird;
 - c. Personen, gegen die hinreichende Verdachtsgründe vorliegen, dass sie an einer Organisation nach Buchstabe a beteiligt sind oder diese unterstützen.
 
@@ -212,9 +220,11 @@ Zur Bekämpfung des organisierten Verbrechens werden Daten bearbeitet über:
 
 <sup>7</sup> Im JANUS dürfen nur die im Datenkatalog (Anhang 1) aufgeführten Daten bearbeitet werden.
 
-<sup>8</sup> Im JANUS dürfen vorübergehend Daten über die Koordination internationaler oder interkantonaler Ermittlungen im Sinne von Artikel 2 Buchstabe b des ZentG bearbeitet werden. Diese Daten werden in einer gesonderten Datenkategorie bearbeitet. Der Kontrolldienst überprüft sie spätestens drei Jahre nach deren Erfassung und löscht sie, wenn sie nicht nach Massgabe der Absätze 1–7 bearbeitet werden können.
+<sup>8</sup> Im JANUS dürfen vorübergehend Daten über die Koordination internationaler oder interkantonaler Ermittlungen im Sinne von Artikel 2*a* Buchstabe b ZentG bearbeitet werden. Diese Daten werden in einer gesonderten Datenkategorie bearbeitet. Der Kontrolldienst überprüft sie spätestens drei Jahre nach deren Erfassung und löscht sie, wenn sie nicht nach Massgabe der Absätze 1–7 bearbeitet werden können.[^8-3]
 
-[^8-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^8-1]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^8-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^8-3]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 9
 
@@ -275,7 +285,8 @@ Folgende Stellen haben, soweit es zur Erfüllung ihrer gesetzlichen Aufträge no
 - g. der Kontrolldienst;
 - h.[^11-6] die Datenschutzberaterin oder der Datenschutzberater des Bundesamtes und des NDB;
 - i. die Projektleiterin oder der Projektleiter und die Systemadministratoren;
-- j. der Direktionsbereich Internationale Rechtshilfe des Bundesamtes für Justiz ausschliesslich im Zusammenhang mit Verfahren der internationalen Rechtshilfe nach dem Rechtshilfegesetz vom 20. März 1981[^11-7].[^11-8]
+- j. der Direktionsbereich Internationale Rechtshilfe des Bundesamtes für Justiz ausschliesslich im Zusammenhang mit Verfahren der internationalen Rechtshilfe nach dem Rechtshilfegesetz vom 20. März 1981[^11-7];
+- k.[^11-8] die für die Strafverfolgung, die Risikoanalyse sowie die Personenkontrolle an der Grenze und im Inland eingesetzten Mitarbeiterinnen und Mitarbeiter des Bundesamts für Zoll und Grenzsicherheit.[^11-9]
 
 <sup>2</sup> Den Stellen bei fedpol, die keine Strafverfolgungsaufgaben wahrnehmen, aber für die Triage und Verwaltung der Dossiers zuständig sind, kann zur Erfüllung ihrer gesetzlichen Aufgaben ein auf ihre Bedürfnisse beschränkter Online-Zugriff auf JANUS gewährt werden.
 
@@ -294,7 +305,8 @@ Folgende Stellen haben, soweit es zur Erfüllung ihrer gesetzlichen Aufträge no
 [^11-5]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^11-6]: Fassung gemäss Anhang 4 Ziff. II 14 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 [^11-7]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^11-8]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^11-8]: Eingefügt durch Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^11-9]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
 
 #### Art. 12
 
@@ -411,7 +423,7 @@ Die Bundeskriminalpolizei kann, soweit dies zur Erlangung der von ihr benötigte
 - f. der Eidgenössischen Finanzmarktaufsicht[^19-2];
 - g. der Eidgenössischen Spielbankenkommission;
 - h. dem Staatssekretariat für Wirtschaft;
-- i.[^19-3] Bundesbehörden, die mit Personensicherheitsüberprüfungen und Schutzmassnahmen im Sinne von Artikel 2 Absatz 4 Buchstaben c und d BWIS[^19-4] betraut sind;
+- i.[^19-3] Bundesbehörden, die mit Personensicherheitsüberprüfungen und Schutzmassnahmen im Sinne von Artikel 2 Absatz 2 Buchstaben a und b BWIS[^19-4] betraut sind;
 - j. dem Bundesamt für Zivilluftfahrt;
 - k. den Behörden, welche zuständig sind für den Erwerb von Grundstücken durch Personen im Ausland;
 - l. nichtstaatlichen Organisationen, namentlich solchen, die sich für die Bekämpfung der kommerziellen sexuellen Ausbeutung einsetzen, soweit es um die Verhinderung und Aufdeckung spezieller Kriminalitätsformen geht;
@@ -426,19 +438,20 @@ Darüber hinaus kann die Bundeskriminalpolizei im JANUS gespeicherte Personendat
 - c. den Finanzbehörden des Bundes und der Kantone für deren gerichtspolizeiliche Ermittlungen im Fiskalbereich;
 - d. der Eidgenössischen Finanzverwaltung für deren verwaltungsstrafrechtliche Verfahren;
 - e.[^19-5] der Eidgenössischen Finanzmarktaufsicht zur Unterstützung von deren Aufsichtstätigkeit im Rahmen der Finanzmarktgesetze gemäss Artikel 1 Absatz 1 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^19-6], soweit es sich um gesicherte Informationen handelt, die für ein Verfahren benötigt werden oder ein solches in Gang setzen können;
-- f.[^19-7] ...
+- f.[^19-7] …
 - g. der Eidgenössischen Spielbankenkommission zur Unterstützung derer Aufsichtstätigkeit im Rahmen der Glücksspielgesetzgebung;
-- h. den mit Personensicherheitsüberprüfungen und Schutzmassnahmen im Sinne von Artikel 2 Absatz 4 Buchstaben c und d des BWIS betrauten Bundesbehörden für deren Abklärungen, soweit es sich um gesicherte Informationen handelt.
+- h.[^19-8] den mit Personensicherheitsüberprüfungen und Schutzmassnahmen im Sinne von Artikel 2 Absatz 2 Buchstaben a und b BWIS betrauten Bundesbehörden für deren Abklärungen, soweit es sich um gesicherte Informationen handelt.
 
 <sup>3</sup> Zur Erfüllung ihrer Kontrollfunktionen werden den Aufsichtsbehörden des Bundes und der Kantone sowie dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten auf Verlangen alle Personendaten bekannt gegeben.
 
 [^19-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen. Vormals: Eidgenössische Bankenkommission.
 [^19-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen. Vormals: Kontrollstelle Kontrollstelle für die Bekämpfung der Geldwäscherei.
-[^19-3]: Fassung gemäss Anhang 4 Ziff. II 6 der Nachrichtendienstverordnung vom 16. Aug. 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^19-3]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 [^19-4]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^19-5]: Fassung gemäss Anhang 1 Ziff. 5 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 [^19-6]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 [^19-7]: Aufgehoben durch Anhang 1 Ziff. 5 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^19-8]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 20
 
@@ -714,43 +727,38 @@ Für die Gewährleistung der Datensicherheit gelten:
 [^29n-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 [^29n-3]: Fassung gemäss Anhang Ziff. 17 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
-## 5*b*. Abschnitt: Datenabgleichwerkzeug Terrorismus
+## 5*b*. Abschnitt:**** Datenindex Terrorismus****
 
-[^sec5b-1]
+[^sec5b-1][^sec5b-2]
 
 [^sec5b-1]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 1. Febr. 2015 ([AS 2015 269](https://fedlex.data.admin.ch/eli/oc/2015/32)).
+[^sec5b-2]: Ausdruck gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 29o
 
 **Verantwortliche Behörde**
 
-Fedpol ist für den technischen Betrieb, die Wartung und die Weiterentwicklung des Datenabgleichwerkzeugs Terrorismus verantwortlich.
+Fedpol ist für den technischen Betrieb, die Wartung und die Weiterentwicklung des Datenindex Terrorismus verantwortlich.
 
 #### Art. 29p
 
-**Zweck des Datenabgleichwerkzeugs Terrorismus**
+[^29p-1]
 
-Das Datenabgleichwerkzeug Terrorismus dient dem Abgleich von Daten, für welche die folgenden beiden Voraussetzungen gelten:
-
-- a. Es sind Daten über Personen, von denen bekannt ist oder die in Verdacht stehen, an strafbaren Aktivitäten im Zusammenhang mit Terrorismus beteiligt zu sein.
-- b. Die Daten werden an fedpol weitergegeben werden auf der Grundlage von Artikel 351 des Strafgesetzbuchs[^29p-1], des Staatsvertrag vom 25. Mai 1973[^29p-2] zwischen der Schweizerischen Eidgenossenschaft und den Vereinigten Staaten von Amerika über gegenseitige Rechtshilfe in Strafsachen, dem Bundesgesetz vom 3. Oktober 1975[^29p-3] zum Staatsvertrag mit den Vereinigten Staaten von Amerika über gegenseitige Rechtshilfe in Strafsachen sowie Artikel 75*a* des Rechtshilfegesetzes vom 20. März 1981[^29p-4].
-
-[^29p-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^29p-2]: [SR 0.351.933.6](https://fedlex.data.admin.ch/eli/cc/1977/42_42_42)
-[^29p-3]: [SR 351.93](https://fedlex.data.admin.ch/eli/cc/1977/17_17_17)
-[^29p-4]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^29p-1]: Aufgehoben durch Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, mit Wirkung seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 29q
 
-**Einschränkung der Informatikmittel**
+**Informationsabgleich**[^29q-1]
 
-Neben dem Datenabgleichwerkzeug Terrorismus darf für die Zwecke nach Artikel 29*p* kein anderes Informatikmittel eingesetzt werden.
+Für den Informationsabgleich nach Artikel 17*a* Absatz 2 BPI setzt fedpol dem Stand der Technik entsprechende Technologien ein. Es stellt sicher, dass keine Personendaten unrechtmässig bearbeitet werden.
+
+[^29q-1]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 29r
 
 **Verwendung und Zugriff im Einzelfall**
 
-<sup>1</sup> Das Datenabgleichwerkzeug Terrorismus wird von den zuständigen Stellen von fedpol verwendet, die für die Führung des Nationalen Zentralbüros Interpol zur Erfüllung der Aufgaben nach der Verordnung vom 21. Juni 2013[^29r-1] über das Nationale Zentralbüro Interpol Bern zuständig sind.
+<sup>1</sup> Der Datenindex Terrorismus wird von den zuständigen Stellen von fedpol verwendet, die für die Führung des Nationalen Zentralbüros Interpol zur Erfüllung der Aufgaben nach der Verordnung vom 21. Juni 2013[^29r-1] über das Nationale Zentralbüro Interpol Bern zuständig sind.
 
 <sup>2</sup>
 
@@ -763,26 +771,15 @@ Zugriff nehmen können zudem:
 
 #### Art. 29s
 
-**Datenweitergabe im Einzelfall**
+[^29s-1]
 
-<sup>1</sup> Auf dem Datenabgleichwerkzeug Terrorismus abgeglichene Daten können von fedpol in Erfüllung seiner Aufgaben als Nationales Zentralbüro Interpol an ausländische Behörden weitergegeben werden.
-
-<sup>2</sup>
-
-Auf dem Datenabgleichwerkzeug Terrorismus abgeglichene Informationen werden spontan oder auf Anfrage an folgende inländischen Behörden weitergegeben:
-
-- a. an die Bundesanwaltschaft zur Erfüllung ihrer Aufgaben nach der StPO[^29s-1];
-- b. an den Nachrichtendienst des Bundes, die Grenzwachtbehörden und die kantonalen Polizeibehörden, soweit sie diese zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.
-
-<sup>3</sup> Die Datenweitergabe ist im System nach Artikel 12 BPI zu erfassen.
-
-[^29s-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^29s-1]: Aufgehoben durch Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, mit Wirkung seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 29t
 
 **Protokollierung der Abfragen**
 
-<sup>1</sup> Die Benutzung des Datenabgleichwerkzeugs Terrorismus ist zu protokollieren.
+<sup>1</sup> Die Benutzung des Datenindex Terrorismus ist zu protokollieren.
 
 <sup>2</sup> Die Protokolle werden ein Jahr aufbewahrt.
 
@@ -790,17 +787,18 @@ Auf dem Datenabgleichwerkzeug Terrorismus abgeglichene Informationen werden spon
 
 **Datenaktualisierung**
 
-Die auf dem Datenabgleichwerkzeug Terrorismus abgelegten Daten werden bei jeder Aktualisierung überschrieben.
+Die im Datenindex Terrorismus abgelegten Daten werden bei jeder Aktualisierung überschrieben.
 
 #### Art. 29v
 
 **Auskunftsrecht**
 
-<sup>1</sup> Fedpol erteilt auf Ersuchen Auskunft über Daten, die auf dem Datenabgleichwerkzeug Terrorismus abgeglichen werden. Die Einschränkungen richten sich nach Artikel 9 DSG[^29v-1].
+<sup>1</sup> Fedpol erteilt auf Ersuchen Auskunft über Daten, die im Datenindex Terrorismus abgeglichen werden. Die Einschränkungen richten sich nach Artikel 9 DSG[^29v-1].
 
-<sup>2</sup> Ein Recht auf Einsicht vor Ort auf die Daten des Datenabgleichwerkzeugs Terrorimus wird aus Gründen der Informationssicherheit nicht gewährt.
+<sup>2</sup> Ein Recht auf Einsicht vor Ort in den Datenindex Terrorismus wird nicht gewährt.[^29v-2]
 
 [^29v-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^29v-2]: Fassung gemäss Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 29w
 
@@ -845,7 +843,7 @@ Anhang 2*[^t-2]*
 
 ## 1. Zugriffsmatrix JANUS
 
-[^t-2]: Fassung gemäss Ziff. II der V vom 17. Dez. 2014 ([AS 2015 269](https://fedlex.data.admin.ch/eli/oc/2015/32)). Bereinigt gemäss Anhang 4 Ziff. II 6 der Nachrichtendienstverordnung vom 16. Aug. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)) und Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4589](https://fedlex.data.admin.ch/eli/oc/2018/724)).
+[^t-2]: Fassung gemäss Ziff. II der V vom 17. Dez. 2014 ([AS 2015 269](https://fedlex.data.admin.ch/eli/oc/2015/32)). Bereinigt gemäss Anhang 4 Ziff. II 6 der Nachrichtendienstverordnung vom 16. Aug. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)), Ziff. I der V vom 21. Nov. 2018 ([AS 2018 4589](https://fedlex.data.admin.ch/eli/oc/2018/724)) und Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ### 1.1 System zur Unterstützung gerichtspolizeilicher Ermittlungen des Bundes (Art. 10 und 18 BPI)
 
@@ -1131,14 +1129,20 @@ Anhang 2*[^t-2]*
 <tr><td>Überwachung Post- und Fernmeldeverkehr ÜPF (ISC-EJPD)</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td><td>–</td></tr>
 <tr><td>Bundesamt für Justiz BJ, Direktionsbereich Intern. Rechtshilfe</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>–</td><td>–</td></tr>
 <tr><td colspan="14">**Bundesamt für Zoll und Grenzsicherheit**</td></tr>
-<tr><td>Kommandobereich Operationen, Kdo GWK</td><td>P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>\_–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Einsatzzentralen, Reg. Kdos GWK</td><td>P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Planung und Einsatz, Reg Kdo GWK</td><td>P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Verbindungsbüro/CCPD, GWK</td><td>P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Appl.- u. Prozessverantw. Kdo GWK</td><td>P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Zollfahndung</td><td>P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>WebredaktorIn GWK</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>D\*</td><td>–</td></tr>
-<tr><td>MitarbeiterIn</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Fachliche Anwendungsverantwortliche (FAV) Grenzkontrollsysteme</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Technische Anwendungsverantwortliche (TAV) Grenzkontrollsysteme</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td colspan="14">**DB Strafverfolgung**</td></tr>
+<tr><td>Mitarbeitende Vorermittlung und Zollfahndung</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td colspan="14">**DB Risikoanalyse**</td></tr>
+<tr><td>C Direktionsbereich</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Abteilung Risikoanalyse (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Abteilung Information und Lage (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Sektion Nachrichtennetzwerk (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td colspan="14">**DB Operationen**</td></tr>
+<tr><td>Einsatzzentralen (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Verbindungsbüros und CCPD (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td colspan="14">**Kantonale Behörden**</td></tr>
+<tr><td>Fremdenpolizei der Stadt Bern (FREPO Bern)</td><td>G</td><td colspan="2">G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
 </table>
 
 <table>
@@ -1476,7 +1480,7 @@ Anhang 2*[^t-2]*
 
 \* = nur Daten gleiche Organisationseinheit
 
-## 4. Zugriffsmatrix Datenabgleichwerkzeug Terrorismus
+## 4. Zugriffsmatrix Datenindex Terrorismus
 
 ### 4.1 System internationale und interkantonale Polizeikooperation (Art. 12 BPI)
 

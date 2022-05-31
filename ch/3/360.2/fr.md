@@ -3,11 +3,11 @@ sr: "360.2"
 title: Ordonnance du 15 octobre 2008 sur le Système national d’enquête (Ordonnance SNE)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/697"
 language: fr
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/697/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-697-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/697/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2008-697-20220601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20220101/fr"
 
 (Ordonnance JANUS)
 
-du 15 octobre 2008 (Etat le 1<sup>er</sup> janvier 2022)
+du 15 octobre 2008 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -86,39 +86,47 @@ Le système de traitement des données relatives aux infractions fédérales a p
 
 <sup>1</sup>
 
-Sont traitées dans JANUS les données nécessaires à l’accomplissement des tâches assignées à la Police judiciaire fédérale dans sa fonction d’office central en vertu de l’art. 2 LOC dans les domaines suivants:
+Sont traitées dans JANUS les données nécessaires à l’accomplissement des tâches assignées à la Police judiciaire fédérale (PJF) dans sa fonction d’office central en vertu de l’art. 2*a* LOC dans les domaines suivants:[^3-1]
 
-- a. la prévention et la lutte contre le trafic illicite des stupéfiants au sens des art. 29 de la loi fédérale du 3 octobre 1951 sur les stupéfiants[^3-1] ainsi que 9 et 10 LOC;
-- b. la reconnaissance et la lutte contre le crime organisé au sens des art. 7 et 8 LOC et 337, al. 1, du code pénal (CP)[^3-2];
-- c. la lutte contre la fausse monnaie, au sens de la Convention internationale du 20 avril 1929 pour la répression du faux monnayage[^3-3];
-- d. la lutte contre la traite des êtres humains, au sens de l’Arrangement international du 18 mai 1904 en vue d’assurer une protection efficace contre le trafic criminel connu sous le nom de traite des blanches[^3-4], de la Convention internationale du 4 mai 1910 relative à la répression de la traite des blanches[^3-5], de la Convention internationale du 30 septembre 1921 pour la suppression de la traite des femmes et des enfants[^3-6] et de la Convention du 11 octobre 1933 relative à la répression de la traite des femmes majeures[^3-7];
-- e. la lutte contre la circulation des publications obscènes, au sens de l’Arrangement international du 4 mai 1910 relatif à la répression de la circulation des publications obscènes[^3-8] et de la Convention internationale du 12 septembre 1923 pour la répression de la circulation et du trafic des publications obscènes[^3-9];
-- f. la lutte contre la criminalité économique, au sens des art. 337, al. 2, CP ainsi que 7 et 8 LOC;
-- g. la lutte contre le blanchiment d’argent au sens des art. 337, al. 1, CP ainsi que 7 et 8 LOC;
-- h. la lutte contre les délits de corruption au sens des art. 337, al. 1, CP ainsi que 7 et 8 LOC.
+- a. la prévention et la lutte contre le trafic illicite des stupéfiants au sens des art. 29 de la loi fédérale du 3 octobre 1951 sur les stupéfiants[^3-2] ainsi que 9 et 10 LOC;
+- b.[^3-3] la reconnaissance et la répression du crime organisé au sens des art. 7 et 8 LOC et 24, al. 1, du code de procédure pénale (CPP)[^3-4];
+- c. la lutte contre la fausse monnaie, au sens de la Convention internationale du 20 avril 1929 pour la répression du faux monnayage[^3-5];
+- d. la lutte contre la traite des êtres humains, au sens de l’Arrangement international du 18 mai 1904 en vue d’assurer une protection efficace contre le trafic criminel connu sous le nom de traite des blanches[^3-6], de la Convention internationale du 4 mai 1910 relative à la répression de la traite des blanches[^3-7], de la Convention internationale du 30 septembre 1921 pour la suppression de la traite des femmes et des enfants[^3-8] et de la Convention du 11 octobre 1933 relative à la répression de la traite des femmes majeures[^3-9];
+- e. la lutte contre la circulation des publications obscènes, au sens de l’Arrangement international du 4 mai 1910 relatif à la répression de la circulation des publications obscènes[^3-10] et de la Convention internationale du 12 septembre 1923 pour la répression de la circulation et du trafic des publications obscènes[^3-11];
+- f.[^3-12] la lutte contre la criminalité économique, au sens des art. 24, al. 2, CPP ainsi que 7 et 8 LOC;
+- g.[^3-13] la lutte contre le blanchiment d’argent au sens des art. 24, al. 1, CPP ainsi que 7 et 8 LOC;
+- h.[^3-14] la lutte contre les délits de corruption au sens des art. 24, al. 1, CPP ainsi que 7 et 8 LOC;
+- i.[^3-15] la reconnaissance et la répression des crimes et délits graves au sens de l’art. 3*a* LOC.
 
-<sup>2</sup> Sont également traitées dans JANUS les données nécessaires à l’accomplissement des tâches assignées à la Police judiciaire fédérale dans le domaine de la lutte contre les autres infractions soumises à la juridiction fédérale générale en vertu de l’art. 336 CP et dans celui de leur poursuite, pour autant que ces infractions relèvent de la compétence de la Confédération et avant que la procédure pénale ne soit pendante. Ces données sont gérées séparément de celles visées aux al. 1 et 5.
+<sup>2</sup> Sont également traitées dans JANUS les données nécessaires à l’accomplissement des tâches assignées à la PJF dans le domaine de la lutte contre les autres infractions soumises à la juridiction fédérale générale en vertu de l’art. 23 CPP et dans celui de leur poursuite, pour autant que ces infractions relèvent de la compétence de la Confédération et avant que la procédure pénale ne soit pendante. Ces données sont gérées séparément de celles visées aux al. 1 et 5.[^3-16]
 
-<sup>3</sup> Sont également traitées dans JANUS les données transmises par l’Office européen de police (Europol). Leur traitement se fait conformément aux dispositions de l’Accord du 24 septembre 2004 entre la Confédération suisse et l’Office européen de police[^3-10].
+<sup>3</sup> Sont également traitées dans JANUS les données transmises par l’Office européen de police (Europol). Leur traitement se fait conformément aux dispositions de l’Accord du 24 septembre 2004 entre la Confédération suisse et l’Office européen de police[^3-17].
 
-<sup>4</sup> Sont également traitées dans JANUS des données transmises dans le cadre de la coopération avec d’autres États Schengen. Leur saisie et leur traitement se font conformément aux dispositions de la présente ordonnance et de l’ordonnance N-SIS du 7 mai 2008[^3-11].
+<sup>4</sup> Sont également traitées dans JANUS des données transmises dans le cadre de la coopération avec d’autres États Schengen. Leur saisie et leur traitement se font conformément aux dispositions de la présente ordonnance et de l’ordonnance N-SIS du 7 mai 2008[^3-18].
 
-<sup>5</sup> Les autorités cantonales de poursuite pénale et les services de police criminelle des cantons peuvent également traiter dans les sous-catégories «Journaux» et «Personnes et antécédents» de JANUS des données se rapportant à des infractions qui n’entrent pas dans la compétence fédérale et qui ne tombent pas sous le coup du code de procédure pénale[^3-12], de la LOC, de la LMSI[^3-13] et de la LRens. Ces données sont gérées séparément de celles désignées aux al. 1 à 4. Leur traitement se fait conformément aux dispositions cantonales.[^3-14]
+<sup>5</sup> Les autorités cantonales de poursuite pénale et les services de police criminelle des cantons peuvent également traiter dans les sous-catégories «Journaux» et «Personnes et antécédents» de JANUS des données se rapportant à des infractions qui n’entrent pas dans la compétence fédérale et qui ne tombent pas sous le coup du code de procédure pénale[^3-19], de la LOC, de la LMSI[^3-20] et de la LRens. Ces données sont gérées séparément de celles désignées aux al. 1 à 4. Leur traitement se fait conformément aux dispositions cantonales.[^3-21]
 
-[^3-1]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^3-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^3-3]: [RS 0.311.51](https://fedlex.data.admin.ch/eli/cc/1949/1082_1174_1105)
-[^3-4]: [RS 0.311.31](https://fedlex.data.admin.ch/eli/cc/21/37_25_37)
-[^3-5]: [RS 0.311.32](https://fedlex.data.admin.ch/eli/cc/42/180_200_195)
-[^3-6]: [RS 0.311.33](https://fedlex.data.admin.ch/eli/cc/42/187_207_202)
-[^3-7]: [RS 0.311.34](https://fedlex.data.admin.ch/eli/cc/50/575_595_645)
-[^3-8]: [RS 0.311.41](https://fedlex.data.admin.ch/eli/cc/27/225_223_285)
-[^3-9]: [RS 0.311.42](https://fedlex.data.admin.ch/eli/cc/42/200_220_214)
-[^3-10]: [RS 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
-[^3-11]: [RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
-[^3-12]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^3-13]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^3-14]: Nouvelle teneur selon l’annexe 4 ch. II 6 de l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^3-1]: Nouvelle teneur selon le ch. I 9 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^3-2]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^3-3]: Nouvelle teneur selon le ch. I 9 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^3-4]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^3-5]: [RS 0.311.51](https://fedlex.data.admin.ch/eli/cc/1949/1082_1174_1105)
+[^3-6]: [RS 0.311.31](https://fedlex.data.admin.ch/eli/cc/21/37_25_37)
+[^3-7]: [RS 0.311.32](https://fedlex.data.admin.ch/eli/cc/42/180_200_195)
+[^3-8]: [RS 0.311.33](https://fedlex.data.admin.ch/eli/cc/42/187_207_202)
+[^3-9]: [RS 0.311.34](https://fedlex.data.admin.ch/eli/cc/50/575_595_645)
+[^3-10]: [RS 0.311.41](https://fedlex.data.admin.ch/eli/cc/27/225_223_285)
+[^3-11]: [RS 0.311.42](https://fedlex.data.admin.ch/eli/cc/42/200_220_214)
+[^3-12]: Nouvelle teneur selon le ch. I 9 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^3-13]: Nouvelle teneur selon le ch. I 9 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^3-14]: Nouvelle teneur selon le ch. I 9 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^3-15]: Introduite par le ch. I 9 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^3-16]: Nouvelle teneur selon le ch. I 9 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^3-17]: [RS 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
+[^3-18]: [RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
+[^3-19]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^3-20]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^3-21]: Nouvelle teneur selon l’annexe 4 ch. II 6 de l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
 
 #### Art. 4
 
@@ -198,7 +206,7 @@ Il donne accès:
 
 En matière de lutte contre le crime organisé, les données traitées dans JANUS concernent:
 
-- a. les organisations que l’on peut raisonnablement soupçonner de constituer des organisations criminelles au sens de l’art. 260<sup>ter</sup> CP[^8-1];
+- a.[^8-1] les organisations que l’on peut raisonnablement soupçonner de constituer des organisations criminelles au sens de l’art. 260<sup>ter</sup> du code pénal[^8-2];
 - b. les personnes que l’on peut raisonnablement soupçonner de préparer, de faciliter ou commettre à des actes délictueux dont on peut présumer qu’ils sont le fait d’une organisation au sens de la let. a;
 - c. les personnes que l’on peut raisonnablement soupçonner d’appartenir à une organisation au sens de la let. a ou de lui apporter leur soutien.
 
@@ -212,9 +220,11 @@ En matière de lutte contre le crime organisé, les données traitées dans JANU
 
 <sup>7</sup> Seules les données énumérées à l’annexe 1 peuvent être traitées dans JANUS.
 
-<sup>8</sup> Peuvent être traitées temporairement dans JANUS les données relatives à la coordination d’enquêtes internationales ou intercantonales au sens de l’art. 2, let. b, LOC. Ces données sont traitées dans une catégorie particulière. Le service de contrôle procède à leur vérification au plus tard trois ans après la saisie et les efface si celles-ci ne peuvent être traitées conformément aux al. 1 à 7.
+<sup>8</sup> Peuvent être traitées temporairement dans JANUS les données relatives à la coordination d’enquêtes internationales ou intercantonales au sens de l’art. 2*a*, let. b, LOC. Ces données sont traitées dans une catégorie particulière. Le service de contrôle procède à leur vérification au plus tard trois ans après la saisie et les efface si celles-ci ne peuvent être traitées conformément aux al. 1 à 7.[^8-3]
 
-[^8-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^8-1]: Nouvelle teneur selon le ch. I 9 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^8-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^8-3]: Nouvelle teneur selon le ch. I 9 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 9
 
@@ -275,7 +285,8 @@ Peuvent consulter JANUS en ligne, pour autant que cela soit nécessaire à l’a
 - g. le service de contrôle;
 - h.[^11-6] le conseiller ou la conseillère à la protection des données de l’office et du SRC;
 - i. le chef de projet et les administrateurs du système;
-- j. le Domaine de direction Entraide judiciaire internationale de l’Office fédéral de la justice, uniquement en rapport avec des procédures d’entraide judiciaire au sens de la loi du 20 mars 1981 sur l’entraide internationale en matière pénale[^11-7].[^11-8]
+- j. le Domaine de direction Entraide judiciaire internationale de l’Office fédéral de la justice, uniquement en rapport avec des procédures d’entraide judiciaire au sens de la loi du 20 mars 1981 sur l’entraide internationale en matière pénale[^11-7];
+- k.[^11-8] les collaborateurs de l’Office fédéral de la douane et de la sécurité des frontières affectés à la poursuite pénale, à l’analyse des risques ainsi qu’au contrôle de personnes à la frontière ou en Suisse.[^11-9]
 
 <sup>2</sup> Les services de fedpol qui ne participent pas à la poursuite pénale, mais qui assurent le triage et la gestion des dossiers peuvent, pour accomplir leurs tâches légales, bénéficier d’un accès en ligne à JANUS limité à leurs besoins.
 
@@ -294,7 +305,8 @@ Peuvent consulter JANUS en ligne, pour autant que cela soit nécessaire à l’a
 [^11-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^11-6]: Nouvelle teneur selon l’annexe 4 ch. II 14 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 [^11-7]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^11-8]: Nouvelle teneur selon l’annexe ch. 15 de l’O du 12 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^11-8]: Introduite par le ch. I 9 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^11-9]: Nouvelle teneur selon l’annexe ch. 15 de l’O du 12 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
 
 #### Art. 12
 
@@ -411,7 +423,7 @@ Si cela lui est nécessaire pour obtenir les renseignements dont elle a besoin e
 - f. l’Autorité fédérale de surveillance des marchés financiers[^19-2];
 - g. la Commission fédérale des maisons de jeu;
 - h. le Secrétariat d’État à l’Économie;
-- i.[^19-3] les autorités fédérales chargées des contrôles de sécurité relatifs à des personnes et des mesures de protection au sens de l’art. 2, al. 4, let. c et d, LMSI[^19-4];
+- i.[^19-3] les autorités fédérales chargées des contrôles de sécurité relatifs à des personnes et des mesures de protection au sens de l’art. 2, al. 2, let. a et b, LMSI[^19-4];
 - j. l’Office fédéral de l’aviation civile;
 - k. les autorités compétentes en matière d’acquisition de terrains par des personnes résidant à l’étranger;
 - l. les organisations non étatiques qui œuvrent notamment en faveur de la lutte contre l’exploitation sexuelle à des fins commerciales, dans la mesure où il s’agit de prévenir et d’identifier des formes spécifiques de criminalité;
@@ -428,17 +440,18 @@ La Police judiciaire fédérale peut en outre communiquer, sur demande, des donn
 - e.[^19-5] l’Autorité fédérale de surveillance des marchés financiers, pour l’assister dans son activité de surveillance dans le cadre de la loi sur les marchés financiers conformément à l’art. 1, al. 1, de la loi du 22 juin 2007 sur la surveillance des marchés financiers[^19-6], s’il s’agit d’informations fiables qui sont nécessaires à une procédure ou susceptibles d’entraîner l’ouverture d’une procédure;
 - f.[^19-7] …
 - g. la Commission fédérale des maisons de jeu, pour l’assister dans son activité de surveillance découlant de la législation sur les jeux de hasard;
-- h. les autorités fédérales chargées des contrôles de sécurité relatifs à des personnes et des mesures de protection au sens de l’art. 2, al. 4, let. c et d, de la LMSI, pour leurs investigations, s’il s’agit d’informations fiables.
+- h.[^19-8] les autorités fédérales chargées des contrôles de sécurité relatifs à des personnes et des mesures de protection au sens de l’art. 2, al. 2, let. a et b, LMSI pour leurs investigations, s’il s’agit d’informations fiables.
 
 <sup>3</sup> Toutes les données personnelles sont communiquées sur requête aux autorités de surveillance de la Confédération et des cantons, ainsi qu’au Préposé fédéral à la protection des données et à la transparence, pour l’exercice de leurs fonctions de contrôle.
 
 [^19-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte. Précédemment: la Commission fédérale des banques.
 [^19-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte. Précédemment: l’autorité de contrôle en matière de lutte contre le blanchiment d’argent.
-[^19-3]: Nouvelle teneur selon l’annexe 4 ch. II 6 de l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^19-3]: Nouvelle teneur selon le ch. I 9 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 [^19-4]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^19-5]: Nouvelle teneur selon l’annexe 1 ch. 5 de l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 [^19-6]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 [^19-7]: Abrogée par l’annexe 1 ch. 5 de l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^19-8]: Nouvelle teneur selon le ch. I 9 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 20
 
@@ -715,43 +728,38 @@ La garantie de la sécurité des données est régie par:
 [^29n-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 [^29n-3]: Nouvelle teneur selon l’annexe ch. 17 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
-## Section 5*b***** Outil de comparaison des données sur le terrorisme
+## Section 5*b***** Index des données sur le terrorisme****
 
-[^sec5b-1]
+[^sec5b-1][^sec5b-2]
 
 [^sec5b-1]: Introduite par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 1<sup>er</sup> fév. 2015 ([RO 2015 269](https://fedlex.data.admin.ch/eli/oc/2015/32)).
+[^sec5b-2]: Nouvelle expression selon le ch. I 9 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 29o
 
 **Autorité responsable**
 
-Fedpol est responsable de l’exploitation technique, de la maintenance et du développement de l’outil de comparaison des données sur le terrorisme.
+Fedpol est responsable de l’exploitation technique, de la maintenance et du développement de l’index des données sur le terrorisme.
 
 #### Art. 29p
 
-**But de l’outil de comparaison des données sur le terrorisme**
+[^29p-1]
 
-L’outil de comparaison des données sur le terrorisme sert à comparer les données auxquelles s’appliquent les deux conditions suivantes:
-
-- a. les données concernent des personnes impliquées ou soupçonnées d’être impliquées dans des actes punissables de nature terroriste;
-- b. les données ont été communiquées à fedpol sur la base de l’art. 351 du code pénal[^29p-1], du Traité du 25 mai 1973 entre la Confédération suisse et les États-Unis d’Amérique sur l’entraide judiciaire en matière pénale[^29p-2], de la loi fédérale du 3 octobre 1975 relative au traité conclu avec les États-Unis d’Amérique sur l’entraide judiciaire en matière pénale[^29p-3] ainsi que de l’art. 75*a* de la loi du 20 mars 1981 sur l’entraide pénale internationale[^29p-4].
-
-[^29p-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^29p-2]: [RS 0.351.933.6](https://fedlex.data.admin.ch/eli/cc/1977/42_42_42)
-[^29p-3]: [RS 351.93](https://fedlex.data.admin.ch/eli/cc/1977/17_17_17)
-[^29p-4]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^29p-1]: Abrogé par le ch. I 9 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, avec effet au 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 29q
 
-**Restriction des moyens informatiques**
+**Comparaison d’informations**[^29q-1]
 
-Outre l’outil de comparaison des données sur le terrorisme, aucun moyen informatique ne peut être utilisé aux fins visées à l’art. 29*p*.
+Fedpol utilise des technologies de pointe pour la comparaison d’informations en vertu de l’art. 17*a*, al. 2, LSIP. Il s’assure qu’aucune donnée personnelle n’est traitée illicitement.
+
+[^29q-1]: Nouvelle teneur selon le ch. I 9 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 29r
 
 **Utilisation et accès dans des cas d’espèce**
 
-<sup>1</sup> L’outil de comparaison des données sur le terrorisme est utilisé par les services compétents de fedpol chargés de la gestion du Bureau central national d’Interpol conformément à l’ordonnance du 21 juin 2013 concernant le Bureau central national Interpol Bern[^29r-1].
+<sup>1</sup> L’index des données sur le terrorisme est utilisé par les services compétents de fedpol chargés de la gestion du Bureau central national d’Interpol conformément à l’ordonnance du 21 juin 2013 concernant le Bureau central national Interpol Bern[^29r-1].
 
 <sup>2</sup>
 
@@ -764,26 +772,15 @@ Peuvent aussi y avoir accès:
 
 #### Art. 29s
 
-**Communication de données dans des cas d’espèce**
+[^29s-1]
 
-<sup>1</sup> Fedpol peut, à titre de Bureau central national d’Interpol, communiquer à des autorités étrangères les données comparées au moyen de l’outil de comparaison des données sur le terrorisme.
-
-<sup>2</sup>
-
-Les données comparées au moyen de l’outil de comparaison des données sur le terrorisme sont communiquées spontanément ou sur demande aux autorités suisses suivantes:
-
-- a. le Ministère public de la Confédération, pour l’accomplissement des tâches qui lui incombent en vertu du CPP[^29s-1];
-- b. le Service de renseignement de la Confédération, le Corps des gardes-frontière et les autorités cantonales de police, dans la mesure où ils en ont besoin pour accomplir leurs tâches légales.
-
-<sup>3</sup> La communication de données doit être saisie dans le système conformément à l’art. 12 LSIP.
-
-[^29s-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^29s-1]: Abrogé par le ch. I 9 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, avec effet au 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 29t
 
 **Journalisation des consultations**
 
-<sup>1</sup> L’utilisation de l’outil de comparaison des données sur le terrorisme est consignée dans un procès-verbal.
+<sup>1</sup> L’utilisation de l’index des données sur le terrorisme est consignée dans un procès-verbal.
 
 <sup>2</sup> Les procès-verbaux de journalisation sont conservés durant un an.
 
@@ -791,17 +788,18 @@ Les données comparées au moyen de l’outil de comparaison des données sur le
 
 **Mise à jour des données**
 
-Les données enregistrées dans l’outil de comparaison des données sur le terrorisme sont effacées à chaque mise à jour.
+Les données enregistrées dans l’index des données sur le terrorisme sont effacées à chaque mise à jour.
 
 #### Art. 29v
 
 **Droit d’être renseigné**
 
-<sup>1</sup> Fedpol répond aux demandes de renseignements quant aux données comparées au moyen de l’outil de comparaison des données sur le terrorisme. Les restrictions sont régies par l’art. 9 LPD[^29v-1].
+<sup>1</sup> Fedpol répond aux demandes de renseignements quant aux données comparées au moyen de l’index des données sur le terrorisme. Les restrictions sont régies par l’art. 9 LPD[^29v-1].
 
-<sup>2</sup> Pour des raisons de sécurité des informations, le droit de consulter sur place les données de l’outil de comparaison des données sur le terrorisme n’est pas accordé.
+<sup>2</sup> Le droit de consulter sur place les données de l’index des données sur le terrorisme n’est pas accordé.[^29v-2]
 
 [^29v-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^29v-2]: Nouvelle teneur selon le ch. I 9 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 29w
 
@@ -828,7 +826,7 @@ La garantie de la sécurité des données est régie par:
 
 L’ordonnance JANUS du 30 novembre 2001[^30-1] est abrogée.
 
-[^30-1]: [[RO 2002 96](https://fedlex.data.admin.ch/eli/oc/2002/19), [2006 941](https://fedlex.data.admin.ch/eli/oc/2006/169), [2007 6707](https://fedlex.data.admin.ch/eli/oc/2007/864)]
+[^30-1]: [[RO 2002 96](https://fedlex.data.admin.ch/eli/oc/2002/19); [2006 941](https://fedlex.data.admin.ch/eli/oc/2006/169); [2007 6707](https://fedlex.data.admin.ch/eli/oc/2007/864)]
 
 #### Art. 31
 
@@ -846,7 +844,7 @@ Annexe 2*[^t-2]*
 
 ## 1. Matrice d’accès de JANUS
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 17 déc. 2014 ([RO 2015 269](https://fedlex.data.admin.ch/eli/oc/2015/32)). Mise à jour selon l’annexe 4 ch. II 6 de l’O du 16 août 2017 sur le renseignement ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)) et le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4589](https://fedlex.data.admin.ch/eli/oc/2018/724)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 17 déc. 2014 ([RO 2015 269](https://fedlex.data.admin.ch/eli/oc/2015/32)). Mise à jour par l’annexe 4 ch. II 6 de l’O du 16 août 2017 sur le renseignement ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)), le ch. I de l’O du 21 nov. 2018 ([RO 2018 4589](https://fedlex.data.admin.ch/eli/oc/2018/724)) et le ch. I 9 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ### 1.1 Système d’appui aux enquêtes de police judiciaire de la Confédération (art. 10 et 18 LSIP)
 
@@ -1132,14 +1130,20 @@ Annexe 2*[^t-2]*
 <tr><td>Surveillance de la correspondance par poste et télécommunication SCPT (CSI-DFJP)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">–</td><td>–</td></tr>
 <tr><td>Office fédéral de la justice (OFJ), Domaine de direction Entraide judiciaire internationale</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td colspan="2">–</td><td>–</td></tr>
 <tr><td>**Office fédéral de la douane et de la sécurité des frontières**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td>Domaine de commandement Opérations, cdmt Cgfr</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Centrales d’engagement, cdmts rég. Cgfr</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Planification et engagement, cdmt rég. Cgfr</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Bureau de liaison / CCPD, Cgfr</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Resp. applications et processus, cdmt Cgfr</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Antifraude douanière</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Rédacteur web Cgfr</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">D\*</td><td>–</td></tr>
-<tr><td>Collab.</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Responsables spécialisés des applications (RSA) Systèmes de contrôle aux frontières</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Responsables techniques des applications (RTA) Systèmes de contrôle aux frontières</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>**DD Poursuites pénales**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td>Collaborateurs Enquête préliminaire et Antifraude douanière</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>-–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>**DD Analyse des données et des risques**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td>C Domaine de direction</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Division Analyse des risques et statistique (C et collaborateurs)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Division Information et situation (C et collaborateurs)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Section Réseau d’informations (C et collaborateurs)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>**DD Opérations**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td>Centrales d’engagement (C et collaborateurs)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Bureaux de liaison et CCPD (C et collaborateurs)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>**Autorités cantonales**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td>Police des étrangers de la ville de Berne (FREPO Bern)</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
 </table>
 
 <table>
@@ -1477,7 +1481,7 @@ Annexe 2*[^t-2]*
 
 \* = seulement des données de la même unité organisationnelle
 
-## 4. Matrice d’accès de l’outil de comparaison des données sur le terrorisme
+## 4. Matrice d’accès de l’index des données sur le terrorisme
 
 ### 4.1 Système de traitement des données relatives à la coopération policière internationale et intercantonale (art. 12 LSIP)
 
