@@ -3,20 +3,19 @@ canton: SG
 number: "941.113"
 title: Verordnung über die Organisation der Verwaltungsrekurskommission
 language: de
-version: 2021-10-01
-valid_until: 2022-05-31
-version_adopted: 2021-06-29
+version: 2022-06-01
+version_adopted: 2022-05-24
 adopted: 2010-12-02
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/941.113"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3258/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3361/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Organisation der Verwaltungsrekurskommission
 
-vom 02.12.2010 (Stand 01.10.2021)
+vom 02.12.2010 (Stand 01.06.2022)
 
 Das Verwaltungsgericht des Kantons St.Gallen
 
@@ -37,7 +36,9 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Verwaltungsrekurskommission setzt sich zusammen aus drei hauptamtlichen und sechs nebenamtlichen Richterinnen oder Richtern sowie 32 bis 42 Fachrichterinnen oder Fachrichtern.
 
-<sup>2</sup> Die hauptamtlichen Richterinnen oder Richter sind Abteilungspräsidentinnen oder Abteilungspräsidenten sowie Einzelrichterinnen oder Einzelrichter.
+<sup>2</sup> Die hauptamtlichen Richterinnen oder Richter sind Abteilungspräsidentinnen oder Abteilungspräsidenten sowie Einzelrichterinnen oder Einzelrichter und können ersatzweise in allen Abteilungen eingesetzt werden. Sie vertreten sich gegenseitig. Soweit dies nicht möglich ist, kann eine nebenamtliche Richterin oder ein nebenamtlicher Richter die Vertretung übernehmen.
+
+<sup>2<sup>bis</sup></sup> Die nebenamtlichen Richterinnen und Richter werden für die Beurteilung von Streitigkeiten, die in die Zuständigkeit der Abteilungen I, III und IV fallen, eingesetzt und amtieren ersatzweise in den Abteilungen V und VI.
 
 <sup>3</sup> Die Fachrichterinnen und Fachrichter werden für die Beurteilung von Streitigkeiten, die in die Zuständigkeit der Abteilungen II und V fallen, eingesetzt.
 
@@ -50,7 +51,7 @@ als Verordnung:[^ingress-2]
 <sup>2</sup> Der Verwaltungsausschuss:
 
 - a) unterbreitet der Konstituierungsversammlung je einen Vorschlag für die Zuteilung des Vorsitzes an die hauptamtlichen Richterinnen oder Richter sowie für die Zuteilung der nebenamtlichen Richterinnen oder Richter an die Abteilungen und Kammern;
-- b) bestimmt den Turnus für das Präsidium des Gesamtgerichtes und regelt die Stellvertretung im Vorsitz;
+- b) bestimmt den Turnus für das Präsidium des Gesamtgerichtes, regelt die Stellvertretung im Vorsitz und bestimmt die prozentuale Aufteilung der Geschäftslast auf die Abteilungspräsidien;
 - c) wählt die Gerichtsschreiberinnen oder Gerichtsschreiber sowie die Auditorinnen oder Auditoren und regelt deren Einsatz;
 - d) wählt die Gesamtgerichtsschreiberin oder den Gesamtgerichtsschreiber;
 - e) wählt das Kanzleipersonal;
@@ -79,8 +80,8 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Gesamtgerichtsschreiberin oder der Gesamtgerichtsschreiber:
 
-- a) leitet die Gerichtskanzlei;
-- b) ist für das Rechnungswesen verantwortlich;
+- a) leitet die Gerichtskanzlei in administrativer Hinsicht;
+- b) ist für das Rechnungswesen und die administrativen Belange verantwortlich;
 - c) hat im Verwaltungsausschuss beratende Stimme und führt das Protokoll;
 - d) vollzieht die vom Verwaltungsausschuss übertragenen Aufgaben.
 
@@ -119,18 +120,13 @@ als Verordnung:[^ingress-2]
 
 **Fachrichterinnen oder Fachrichter**
 
-<sup>1</sup> Die Fachrichterinnen oder Fachrichter nehmen Einsitz in die Abteilungen, in die sie gewählt sind.
+<sup>1</sup> …
+
+<sup>2</sup> Die in die Abteilung V gewählten ärztlichen Fachrichterinnen und Fachrichter können als Sachverständige eingesetzt werden, soweit sie in der gleichen Angelegenheit nicht Einsitz im Spruchkörper nehmen.
 
 #### Art. 10
 
-**Ersatzrichterinnen oder Ersatzrichter**
-
-<sup>1</sup> Ersatzrichterinnen oder Ersatzrichter sind:
-
-- a) die nebenamtlichen Richterinnen oder Richter sowie die Fachrichterinnen oder Fachrichter der übrigen Abteilungen und Kammern;
-- b) die Mitglieder des Versicherungsgerichtes.
-
-<sup>2</sup> Vorbehalten bleibt die Ernennung ausserordentlicher Ersatzrichterinnen oder Ersatzrichter durch die Regierung.
+**…**
 
 ## III. Abteilungen und Kammern
 
@@ -149,7 +145,7 @@ als Verordnung:[^ingress-2]
 - e) Abteilung V, Kindes- und Erwachsenenschutz;
 - f) Abteilung VI, Zwangsmassnahmen im Ausländerrecht.
 
-<sup>2</sup> Die Abteilungen I und II sind in Kammern gegliedert.
+<sup>2</sup> Die Abteilungen I, II und III sind in Kammern gegliedert.
 
 #### Art. 12
 
@@ -167,7 +163,7 @@ als Verordnung:[^ingress-2]
 
 **Besetzung**
 
-<sup>1</sup> Abteilungen und Kammern sprechen Recht in der Besetzung von drei Richterinnen oder Richtern.
+<sup>1</sup> Abteilungen und Kammern sprechen Recht in der Besetzung von drei Richterinnen oder Richtern unter dem Vorsitz einer hauptamtlichen Richterin oder eines hauptamtlichen Richters als Abteilungspräsidentin oder Abteilungspräsident.
 
 <sup>2</sup> Vorbehalten sind Einzelrichter- und Präsidialentscheide in den gesetzlich vorgesehenen Fällen.
 
@@ -181,28 +177,23 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> …
 
-### 2. Zusammensetzung und Zuständigkeit
+### 2. Zuständigkeit
 
 ### a) Abteilung I
 
 #### Art. 15
 
-**Zusammensetzung**
-
-<sup>1</sup> Die Abteilung I umfasst zwei Kammern mit:
-
-- a) je einer hauptamtlichen Richterin oder einem hauptamtlichen Richter;
-- b) je zwei nebenamtlichen Richterinnen oder Richtern.
+**…**
 
 #### Art. 16
 
-**Zuständigkeit a) Erste Kammer**
+**Erste Kammer**
 
 <sup>1</sup> Die erste Kammer entscheidet über Rekurse und Beschwerden gegen Verfügungen und Einspracheentscheide der Veranlagungsbehörden betreffend die direkte Bundessteuer und die im ersten bis vierten Abschnitt des zweiten Teils des Steuergesetzes vom 9. April 1998 geregelten Steuern einschliesslich der entsprechenden Nachsteuern, Revisionen, Steuerstrafen und Steuerausscheidungen.
 
 #### Art. 17
 
-**b) Zweite Kammer**
+**Zweite Kammer**
 
 <sup>1</sup> Die zweite Kammer entscheidet über Rekurse und Beschwerden gegen:
 
@@ -223,16 +214,11 @@ als Verordnung:[^ingress-2]
 
 #### Art. 18
 
-**Zusammensetzung**
-
-<sup>1</sup> Die Abteilung II umfasst drei Kammern mit:
-
-- a) je einer hauptamtlichen Richterin oder einem hauptamtlichen Richter;
-- b) insgesamt acht bis zwölf Fachrichterinnen oder Fachrichtern.
+**…**
 
 #### Art. 19
 
-**Zuständigkeit a) Erste Kammer**
+**Erste Kammer**
 
 <sup>1</sup> Die erste Kammer beurteilt Streitigkeiten in den Bereichen Landwirtschaft und landwirtschaftliche Schätzungen.
 
@@ -250,7 +236,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 20
 
-**b) Zweite Kammer**
+**Zweite Kammer**
 
 <sup>1</sup> Die zweite Kammer beurteilt Streitigkeiten betreffend Schätzungen im nichtlandwirtschaftlichen Bereich.
 
@@ -263,7 +249,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 21
 
-**c) Dritte Kammer**
+**Dritte Kammer**
 
 <sup>1</sup> Die dritte Kammer beurteilt Streitigkeiten betreffend Schätzungen nach dem Strassengesetz vom 12. Juni 1988 und nach dem Wasserbaugesetz vom 17. Mai 2009.
 
@@ -276,16 +262,11 @@ als Verordnung:[^ingress-2]
 
 #### Art. 22
 
-**Zusammensetzung**
-
-<sup>1</sup> Die Abteilung III umfasst drei Kammern mit:
-
-- a) je einer hauptamtlichen Richterin oder einem hauptamtlichen Richter;
-- b) je zwei nebenamtlichen Richterinnen oder Richtern.
+**…**
 
 #### Art. 23
 
-**Zuständigkeit a) Erste Kammer**
+**Erste Kammer**
 
 <sup>1</sup> Die erste Kammer beurteilt Streitigkeiten betreffend Arbeitnehmerschutz, Berufsbildung, Berufsausübung und Berufszulassung.
 
@@ -299,7 +280,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 23a
 
-**b) Zweite Kammer**
+**Zweite Kammer**
 
 <sup>1</sup> Die zweite Kammer beurteilt Streitigkeiten im Bereich des öffentlich-rechtlichen Personalrechts.
 
@@ -310,7 +291,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 23b
 
-**c) Dritte Kammer**
+**Dritte Kammer**
 
 <sup>1</sup> Die dritte Kammer beurteilt Streitigkeiten im Bereich Öffentlichkeit und Information der Verwaltung, Klagen, die nicht auf Personalrecht beruhen, und Disziplinarmassnahmen gegen Medizinalpersonen.
 
@@ -328,12 +309,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 24
 
-**Zusammensetzung**
-
-<sup>1</sup> Die Abteilung IV setzt sich zusammen aus:
-
-- a) einer hauptamtlichen Richterin oder einem hauptamtlichen Richter;
-- b) zwei nebenamtlichen Richterinnen oder Richtern.
+**…**
 
 #### Art. 25
 
@@ -350,12 +326,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 26
 
-**Zusammensetzung**
-
-<sup>1</sup> Die Abteilung V setzt sich zusammen aus:
-
-- a) zwei hauptamtlichen Richterinnen oder Richtern;
-- b) 24 bis 30 Fachrichterinnen oder Fachrichtern.
+**…**
 
 #### Art. 27
 
@@ -365,9 +336,9 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Sie entscheidet über Anfechtungen von:
 
-- a) Kindesschutzmassnahmen (ausserhalb eines Eheschutz- oder Scheidungsverfahrens) nach Art. 131 bis 325 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907;
-- b) Erwachsenenschutzmassnahmen nach Art. 360 bis 456 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907;
-- c) fürsorgerischen Unterbringungen von Kindern und Erwachsenen nach Art. 314 b und 426 ff. des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907;
+- a) Kindesschutzmassnahmen (ausserhalb eines Eheschutz- oder Scheidungsverfahrens);
+- b) Erwachsenenschutzmassnahmen;
+- c) fürsorgerischen Unterbringungen von Kindern und Erwachsenen;
 - d) Zustimmungen zur Entnahme regenerierbarer Gewebe oder Zellen bei urteilsunfähigen oder minderjährigen Personen nach dem eidgenössischen Transplantationsgesetz vom 8. Oktober 2004;
 - e) Zustimmungen zur Sterilisation unter umfassender Beistandschaft stehender oder dauernd urteilsunfähiger Personen nach dem eidgenössischen Sterilisationsgesetz vom 17. Dezember 2004.
 
@@ -375,11 +346,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 28
 
-**Zusammensetzung**
-
-<sup>1</sup> Die Abteilung VI setzt sich aus drei hauptamtlichen Richterinnen oder Richtern zusammen.
-
-<sup>2</sup> Die nebenamtlichen Richterinnen und Richter sind Ersatzrichterinnen und Ersatzrichter.
+**…**
 
 #### Art. 29
 
