@@ -4,11 +4,11 @@ title: "Ordinanza del 12 novembre 1997 relativa alla tassa d'incentivazione sui 
 short: OCOV
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972"
 language: it
-version: 2022-01-01
+version: 2022-06-01
 adopted: 1997-11-12
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20220601/it/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20220601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20220101/it"
 
 (OCOV)
 
-del 12 novembre 1997 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 12 novembre 1997 (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -600,9 +600,10 @@ Ogni assicuratore comunica all’Ufficio federale della sanità pubblica, entro 
 - a. il numero di persone da esso assicurate che il 1° gennaio dell’anno di distribuzione soddisfacevano i presupposti di cui all’articolo 23 capoverso 5;
 - b. la somma degli importi effettivi distribuiti l’anno precedente.
 
-<sup>2</sup> In occasione della comunicazione dei nuovi premi per l’anno di distribuzione gli assicuratori informano le persone assicurate sull’ammontare dell’importo da distribuire.
+<sup>2</sup> Gli assicuratori informano le persone assicurate sull’ammontare dell’importo da distribuire in occasione della comunicazione dei nuovi premi per l’anno di distribuzione. Essi devono inoltre far pervenire alle persone assicurate un promemoria redatto dall’UFAM sulle modalità di esecuzione della ridistribuzione.[^23b-2]
 
 [^23b-1]: Originario art. 23*a*. Introdotto dal n. I dell’O dell’11 mag. 2011, in vigore dal 1° gen. 2012 ([RU 2011 1951](https://fedlex.data.admin.ch/eli/oc/2011/289)).
+[^23b-2]: Nuovo testo giusta il n. III 2 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 23c
 

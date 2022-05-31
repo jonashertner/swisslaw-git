@@ -4,11 +4,11 @@ title: Verordnung vom 12. November 1997 über die Lenkungsabgabe auf flüchtigen
 short: VOCV
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972"
 language: de
-version: 2022-01-01
+version: 2022-06-01
 adopted: 1997-11-12
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20220601/de/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20220601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20220101/de"
 
 (VOCV)
 
-vom 12. November 1997 (Stand am 1. Januar 2022)
+vom 12. November 1997 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -476,7 +476,7 @@ Die Oberzolldirektion kann Personen eine Bewilligung zum Bezug von vorläufig ab
 - a. so zu verwenden oder so zu behandeln, dass sie nicht in die Umwelt gelangen können; oder
 - b. zu exportieren.[^21-2]
 
-<sup>1</sup> *<sup>a</sup>* ...[^21-3]
+<sup>1</sup> *<sup>a</sup>* …[^21-3]
 
 <sup>1bis</sup>
 
@@ -507,7 +507,7 @@ Sie kann diese Bewilligung auch Personen erteilen, die einen Stoff nach Anhang 1
 
 <sup>2</sup> Für VOC, die so verwendet werden, dass sie nicht von der Abgabe befreit sind, muss die Abgabe nachbezahlt werden.
 
-<sup>3</sup> ...[^22-1]
+<sup>3</sup> …[^22-1]
 
 <sup>4</sup> Die Unterlagen des Verfahrens zum Bezug von vorläufig abgabebefreiten VOC sind während fünf Jahren seit Einreichung der VOC-Bilanz aufzubewahren.[^22-2]
 
@@ -596,9 +596,10 @@ Jeder Versicherer meldet dem Bundesamt für Gesundheit bis zum 20. März des Ver
 - a. die Anzahl der bei ihm versicherten Personen, die per 1. Januar des Verteilungsjahres die Voraussetzungen nach Artikel 23 Absatz 5 erfüllen;
 - b. die Summe der im Vorjahr tatsächlich verteilten Beträge.
 
-<sup>2</sup> Die Versicherer informieren die versicherten Personen anlässlich der Mitteilung der neuen Prämie für das Verteilungsjahr über die Höhe des zu verteilenden Betrags.
+<sup>2</sup> Die Versicherer informieren die versicherten Personen anlässlich der Mitteilung der neuen Prämie für das Verteilungsjahr über die Höhe des zu verteilenden Betrages. Zusätzlich müssen sie den versicherten Personen ein vom BAFU verfasstes Merkblatt über den Ablauf der Rückverteilung zukommen lassen.[^23b-2]
 
 [^23b-1]: Ursprünglich Art. 23*a*. Eingefügt durch Ziff. I der V vom 11. Mai 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 1951](https://fedlex.data.admin.ch/eli/oc/2011/289)).
+[^23b-2]: Fassung gemäss Ziff. III 2 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 23c
 

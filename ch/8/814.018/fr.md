@@ -4,11 +4,11 @@ title: "Ordonnance du 12 novembre 1997 sur la taxe d'incitation sur les composé
 short: OCOV
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972"
 language: fr
-version: 2022-01-01
+version: 2022-06-01
 adopted: 1997-11-12
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20220601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20220101/fr"
 
 (OCOV)
 
-du 12 novembre 1997 (Etat le 1<sup>er</sup> janvier 2022)
+du 12 novembre 1997 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -600,9 +600,10 @@ Chaque assureur informe l’Office fédéral de la santé publique jusqu’au 20
 - a. du nombre de ses assurés qui, au 1<sup>er</sup> janvier de l’année de redistribution, remplissent les conditions fixées à l’art. 23, al. 5;
 - b. de la somme des montants effectivement redistribués l’année précédente.
 
-<sup>2</sup> Les assureurs informent leurs assurés du montant qui sera redistribué en même temps qu’ils leur communiquent le montant de la nouvelle prime pour l’année de redistribution.
+<sup>2</sup> Les assureurs informent leurs assurés du montant qui leur sera redistribué en même temps qu’ils leur communiquent le montant de la nouvelle prime pour l’année de redistribution. Ils fournissent en outre aux personnes assurées une fiche sur le déroulement de la redistribution établie par l’OFEV.[^23b-2]
 
 [^23b-1]: Anciennement art. 23*a*. Introduit par le ch. I de l’O du 11 mai 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 1951](https://fedlex.data.admin.ch/eli/oc/2011/289)).
+[^23b-2]: Nouvelle teneur selon le ch. III 2 de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 23c
 
@@ -652,7 +653,7 @@ Annexe 1*[^t-1]*
 <table>
 <tr><td>N<sup>o</sup> de tarif[^annex1-lvlu1-lvl1-1]</td><td>Substance(s)</td><td>N<sup>o</sup> CAS</td></tr>
 <tr><td>2915.2100</td><td>**acide acétique**</td><td>64-19-7</td></tr>
-<tr><td>ex[^annex1-lvlu1-lvl1-2] 2915.3980</td><td>**acétate de benzyle**</td><td>140-11-4</td></tr>
+<tr><td>ex[^annex1-lvlu1-lvl1-2] 2915.3980</td><td>acétate de benzyle</td><td>140-11-4</td></tr>
 <tr><td>ex 2915.3980</td><td>**acétate de 2-n-butoxyéthyle**</td><td>112-07-2</td></tr>
 <tr><td>2915.3100</td><td>**acétate d’éthyle**</td><td>141-78-6</td></tr>
 <tr><td>ex 2915.3980</td><td>**acétate d’isobutyle**</td><td>110-19-0</td></tr>
@@ -732,7 +733,7 @@ Annexe 1*[^t-1]*
 <tr><td>ex 2902.9099</td><td>**triméthylbenzènes** (1,2,3‑, 1,2,4‑ et 1,3,5‑ triméthylbenzène)</td><td>526-73-8 95-63-6 108-67-8</td></tr>
 <tr><td>2902.4190</td><td>**o-xylène**</td><td>95-47-6</td></tr>
 <tr><td>2902.4290</td><td>**m-xylène**</td><td>108-38-3</td></tr>
-<tr><td>2902.4390</td><td>**p-xylène**</td><td>106-42-3</td></tr>
+<tr><td>2902.4390</td><td>p-xylène</td><td>106-42-3</td></tr>
 </table>
 
 [^annex1-lvlu1-lvl1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), annexe
