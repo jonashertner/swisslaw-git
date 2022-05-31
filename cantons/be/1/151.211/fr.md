@@ -4,13 +4,13 @@ number: "151.211"
 title: Règlement du Grand Conseil
 short: RGC
 language: fr
-version: 2014-06-01
-valid_until: 2022-05-31
-version_adopted: 2013-06-04
+version: 2022-06-01
+valid_until: 2024-03-31
+version_adopted: 2021-11-29
 adopted: 2013-06-04
 in_force: 2014-06-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/151.211"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2558/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2603/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2558/pdf_file"
 
 (RGC)
 
-du 04.06.2013 (état au 01.06.2014)
+du 04.06.2013 (état au 01.06.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -214,11 +214,16 @@ arrête:
 
 <sup>1</sup> Tout membre du Grand Conseil renseigne le Bureau sur
 
-- a ses activités professionnelles;
+- a ses activités professionnelles; si le membre du Grand Conseil est employé, il doit indiquer quelle fonction il exerce et par qui il est employé;
 - b les fonctions qu’il exerce au sein d’organes de direction, de surveillance, de conseil ou autres dans des sociétés, établissements ou fondations suisses ou étrangers, de droit privé ou de droit public;
 - c les fonctions permanentes de direction ou de conseil qu’il exerce pour le compte de groupes d’intérêts suisses ou étrangers;
 - d les fonctions qu’il exerce au sein de commissions ou d’autres organes de la Confédération, du canton ou de communes bernoises;
-- e les fonctions politiques importantes qu’il exerce.
+- e les fonctions politiques importantes qu’il exerce, outre son mandat au Grand Conseil.
+
+<sup>1a</sup> S'il exerce des fonctions au titre de l'alinéa 1, lettres b à e, le membre indique si
+
+- a cette activité est exercée d'office;
+- b il s'agit d'un mandat bénévole ou rémunéré, pour lequel l'indemnisation des frais n'est pas prise en compte.
 
 <sup>2</sup> Le secret professionnel au sens du Code pénal suisse du 21 décembre 1937 (CP)[^16-1] est réservé.
 
@@ -240,7 +245,8 @@ arrête:
 - d procéder à l’assermentation des membres du Grand Conseil et du Conseil-exécutif ainsi que des autres personnes devant être assermentées par le Grand Conseil;
 - e faire respecter la législation sur le Grand Conseil;
 - f faire respecter l’ordre et la discipline dans la salle et les tribunes;
-- g autoriser les dépenses conformément à la législation sur le Grand Conseil.
+- g autoriser les dépenses conformément à la législation sur le Grand Conseil;
+- h conduire les votes par voie de circulation (art.105b).
 
 <sup>2</sup> Les vice-présidents et vice-présidentes assurent la suppléance du président ou de la présidente et accomplissent les autres tâches qui leur sont confiées.
 
@@ -317,6 +323,8 @@ arrête:
 - a assurer les rapports avec le Conseil-exécutif et les tribunaux cantonaux suprêmes, le Parquet général et la Direction de la magistrature;
 - b attribuer les affaires aux organes du Grand Conseil;
 - c représenter le canton dans les procédures de recours;
+- c1 décider si des affaires du Grand Conseil doivent faire l’objet d’un vote à distance ou d’une procédure par voie de circulation lors des sessions, et fixer les exigences techniques du vote (art. 77a et 77b LGC);
+- c2 fixer la période durant laquelle il est possible pour les organes du Grand Conseil de tenir des séances virtuelles et, le cas échéant, des précisions concernant ces séances virtuelles ou la procédure par voie de circulation au sein des organes du Grand Conseil (art. 108a);
 - d traiter les autres affaires que le Grand Conseil lui confie ou qui ne ressortissent à aucun autre organe du Grand Conseil.
 
 ### 3.2.3 Bureau
@@ -421,6 +429,20 @@ arrête:
 
 <sup>3</sup> Il fixe les effectifs des Services parlementaires.
 
+#### Art. 33a
+
+**10. Situations de crise**
+
+<sup>1</sup> Dans les situations de crise, le Bureau est seul compétent pour décider si des affaires du Grand Conseil doivent faire l’objet d’un vote à distance ou d’une procédure par voie de circulation lors des sessions et fixe les exigences techniques du vote (art. 77a et 77b LGC).
+
+#### Art. 33b
+
+**11. Séances virtuelles des organes du Grand Conseil et procédure par voie de circulation**
+
+<sup>1</sup> Le Bureau peut apporter des précisions aux directives relatives aux séances virtuelles et à la procédure par voie de circulation des organes du Grand Conseil.
+
+<sup>2</sup> Il est seul compétent pour décider de la période durant laquelle il est possible pour les organes du Grand Conseil de tenir des séances virtuelles (art.108a).
+
 #### Art. 34
 
 **10. Manifestations spéciales**
@@ -460,6 +482,8 @@ arrête:
 - f le cadre du nouvel endettement;
 - g les crédits d’engagement et les crédits complémentaires qui n’ont pas été inscrits au budget ou qui n’entrent pas dans le domaine de compétence d’une commission spécialisée permanente;
 - h les motions financières.
+
+<sup>3a</sup> Elle consulte en règle générale les autres commissions permanentes concernant les affaires au sens de l'alinéa 3, lettres a et b.
 
 <sup>4</sup> Elle traite les dépenses liées au sens de l’article 48, alinéa 3 de la loi du 26 mars 2002 sur le pilotage des finances et des prestations (LFP)[^36-1].
 
@@ -923,6 +947,8 @@ arrête:
 
 <sup>5</sup> La discussion est ouverte si la motion ou le postulat sont combattus par le Conseil-exécutif ou par des membres du Grand Conseil.
 
+<sup>5a</sup> La discussion est ouverte sur demande de l'auteur ou de l'auteure, si la motion ou le postulat est rejeté sans être combattu. Dans ce cas, le vote est aussi considéré comme annulé.
+
 <sup>6</sup> Le débat clos, le Grand Conseil procède au vote sur l’adoption de la motion ou du postulat.
 
 #### Art. 73
@@ -1313,6 +1339,31 @@ arrête:
 
 <sup>2</sup> Seules comptent les voix des membres du Grand Conseil qui ont répondu immédiatement à l’appel.
 
+#### Art. 105a
+
+**Vote à distance en situation de crise**
+
+<sup>1</sup> Dès que le Bureau du Grand Conseil a pris la décision d’autoriser le vote à distance (art. 77a LGC), les Services parlementaires en informent les membres du Grand Conseil.
+
+<sup>2</sup> Les membres du Grand Conseil qui, en raison de la situation de crise, souhaitent voter de cette façon en informent la présidence du Grand Conseil la veille de la séance au plus tard.
+
+<sup>3</sup> Les suffrages communiqués à distance sont enregistrés en même temps que le vote au sein du Grand Conseil. Le vote n’est pas répété si un membre n’a pas pu, pour des raisons techniques, communiquer son suffrage.
+
+#### Art. 105b
+
+**Décision par voie de circulation en situation de crise**
+
+<sup>1</sup> Dès que le Bureau du Grand Conseil a pris la décision d’autoriser le vote par voie de circulation (art. 77b LGC), les Services parlementaires en informent les membres du Grand Conseil et les renseignent sur le déroulement de la procédure par voie de circulation.
+
+<sup>2</sup> Le président ou la présidente du Grand Conseil
+
+- a conduit le vote par voie de circulation;
+- b est assisté par les Services parlementaires.
+
+<sup>3</sup> Le vote par voie de circulation n’est pas répété si un membre n’a pas pu communiquer son suffrage.
+
+<sup>4</sup> Les Services parlementaires communiquent les résultats du vote.
+
 #### Art. 106
 
 **Vote du président ou de la présidente**
@@ -1342,6 +1393,28 @@ arrête:
 <sup>2</sup> Le président ou la présidente approuve le procès-verbal des décisions qui peut être consulté pendant la séance plénière suivante.
 
 <sup>3</sup> Les demandes de rectification du procès-verbal des décisions sont déposées par écrit et motivées auprès du président ou de la présidente. Le Grand Conseil statue sur les demandes de rectification. Les décisions adoptées par le Grand Conseil ne peuvent pas être modifiées par la voie de la rectification.
+
+### 8.12 Séances virtuelles des organes du Grand Conseil et procédure par voie de circulation
+
+#### Art. 108a
+
+<sup>1</sup> Les séances des organes du Grand Conseil se tiennent en principe en présence des membres du Grand Conseil, au sens où ils se rassemblent physiquement dans le lieu où se tiennent les séances.
+
+<sup>2</sup> Une séance d'un organe du Grand Conseil peut exceptionnellement se tenir sans rassemblement des membres, au sens où elle peut avoir lieu virtuellement, si les conditions suivantes sont réunies:
+
+- a le Bureau du Grand Conseil a décidé d’admettre le principe de séances virtuelles des organes du Grand Conseil pour une période définie;
+- b un organe du Grand Conseil décide à la majorité de ses membres d’opter pour une telle solution;
+- c les affaires se prêtent à une prise de décision virtuelle;
+- d le travail des membres s’effectue exclusivement avec la plateforme informatique mise à disposition par le canton;
+- e les personnes participant à la séance garantissent que la confidentialité et la protection des données restent assurées même dans leur autre environnement (locaux, etc.).
+
+<sup>3</sup> Un organe du Grand Conseil peut exceptionnellement décider qu’une affaire fasse l’objet d’une décision par voie de circulation, si les conditions suivantes sont réunies:
+
+- a la décision ne peut pas attendre;
+- b l’affaire se prête à une décision par voie de circulation;
+- c la confidentialité et la protection des données restent garanties.
+
+<sup>4</sup> Le Bureau du Grand Conseil peut apporter des précisions à ces directives.
 
 ## 9 Elections
 

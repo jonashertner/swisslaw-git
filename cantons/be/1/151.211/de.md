@@ -4,13 +4,13 @@ number: "151.211"
 title: Geschäftsordnung des Grossen Rates
 short: GO
 language: de
-version: 2014-06-01
-valid_until: 2022-05-31
-version_adopted: 2013-06-04
+version: 2022-06-01
+valid_until: 2024-03-31
+version_adopted: 2021-11-29
 adopted: 2013-06-04
 in_force: 2014-06-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/151.211"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2558/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2603/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2558/pdf_file"
 
 (GO)
 
-vom 04.06.2013 (Stand 01.06.2014)
+vom 04.06.2013 (Stand 01.06.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -214,11 +214,16 @@ beschliesst:
 
 <sup>1</sup> Jedes Mitglied des Grossen Rates unterrichtet das Büro über
 
-- a seine beruflichen Tätigkeiten,
+- a seine beruflichen Tätigkeiten; falls das Ratsmitglied Arbeitnehmerin oder Arbeitnehmer ist, sind die Funktion und die Arbeitgeberin oder der Arbeitgeber anzugeben,
 - b Tätigkeiten in Führungs- oder Aufsichtsgremien sowie Beiräten und ähnlichen Gremien von schweizerischen und ausländischen Körperschaften, Anstalten und Stiftungen des privaten und des öffentlichen Rechts,
 - c dauernde Leitungs- oder Beratertätigkeiten für schweizerische und ausländische Interessengruppen,
 - d die Mitwirkung in Kommissionen und anderen Organen des Bundes, des Kantons oder von bernischen Gemeinden,
-- e die Ausübung wichtiger politischer Ämter.
+- e die Ausübung wichtiger politischer Ämter, ausgenommen das Grossratsmandat.
+
+<sup>1a</sup> Bei Tätigkeiten gemäss Absatz 1 Buchstabe b bis e gibt das Ratsmitglied an, ob
+
+- a diese Tätigkeit von Amtes wegen ausgeübt wird,
+- b es sich um ein ehrenamtliches oder bezahltes Mandat handelt, wobei Spesenentschädigungen nicht in Betracht fallen.
 
 <sup>2</sup> Das Berufsgeheimnis im Sinne des Schweizerischen Strafgesetzbuchs vom 21. Dezember 1937 (StGB)[^16-1] bleibt vorbehalten.
 
@@ -240,7 +245,8 @@ beschliesst:
 - d Vereidigungen der Ratsmitglieder, der Mitglieder des Regierungsrates und der übrigen vom Grossen Rat zu vereidigenden Personen,
 - e die Aufsicht über die Einhaltung der Grossratsgesetzgebung,
 - f Ruhe und Ordnung im Ratssaal und auf den Tribünen,
-- g die Bewilligung von Ausgaben gemäss der Grossratsgesetzgebung.
+- g die Bewilligung von Ausgaben gemäss der Grossratsgesetzgebung,
+- h die Durchführung von Abstimmungen im Zirkulationsverfahren (Art. 105b).
 
 <sup>2</sup> Die Vizepräsidentinnen und Vizepräsidenten vertreten bei Verhinderung die Grossratspräsidentin oder den Grossratspräsidenten und erfüllen weitere ihnen zugewiesene Aufgaben.
 
@@ -317,6 +323,8 @@ beschliesst:
 - a der Geschäftsverkehr mit dem Regierungsrat und den obersten Gerichtsbehörden, der Generalstaatsanwaltschaft und der Justizleitung,
 - b die Zuweisung von Geschäften an Organe des Grossen Rates,
 - c die Vertretung des Kantons in Beschwerdeverfahren,
+- c1 die Beschlussfassung über die externe Stimmabgabe während der Session oder über das Zirkulationsverfahren einschliesslich des Festlegens der technischen Anforderungen an die Stimmabgabe (Art. 77a und Art. 77b GRG),
+- c2 die Festsetzung des Zeitraums möglicher virtueller Sitzungen von Ratsorganen sowie allfällige Präzisierungen zu diesen virtuellen Sitzungen oder zum Zirkulationsverfahren in Ratsorganen (Art. 108a),
 - d die Behandlung weiterer Geschäfte, die der Grosse Rat ihr zuweist oder für die kein anderes Ratsorgan zuständig ist.
 
 ### 3.2.3 Büro
@@ -421,6 +429,20 @@ beschliesst:
 
 <sup>3</sup> Es legt die Personalstellen für die Parlamentsdienste fest.
 
+#### Art. 33a
+
+**10. Krisensituationen**
+
+<sup>1</sup> Das Büro beschliesst in Krisensituationen abschliessend über die externe Stimmabgabe während der Sessionen oder ein Zirkulationsverfahren für Sessionsgeschäfte und legt die technischen Anforderungen an die Stimmabgabe fest (Art. 77a und Art. 77b GRG).
+
+#### Art. 33b
+
+**11. Virtuelle Sitzungen von Ratsorganen sowie Zirkulationsverfahren**
+
+<sup>1</sup> Das Büro kann Präzisierungen der Vorgaben für virtuelle Sitzungen und für Zirkulationsverfahren der Ratsorgane vornehmen.
+
+<sup>2</sup> Es beschliesst abschliessend den Zeitraum möglicher virtueller Sitzungen von Ratsorganen (Art.108a).
+
 #### Art. 34
 
 **Besondere Anlässe**
@@ -460,6 +482,8 @@ beschliesst:
 - f Rahmen einer Neuverschuldung,
 - g Verpflichtungs- und Zusatzkredite, die nicht im Voranschlag eingestellt waren oder die nicht in den Aufgabenbereich einer ständigen Sachbereichskommission fallen,
 - h Finanzmotionen.
+
+<sup>3a</sup> Sie konsultiert in der Regel die anderen ständigen Kommissionen bei Geschäften gemäss Absatz 3 Buchstabe a und b.
 
 <sup>4</sup> Sie behandelt gebundene Ausgaben gemäss Artikel 48 Absatz 3 des Gesetzes vom 26. März 2002 über die Steuerung von Finanzen und Leistungen (FLG)[^36-1].
 
@@ -923,6 +947,8 @@ beschliesst:
 
 <sup>5</sup> Eine Diskussion findet statt, wenn eine Motion oder ein Postulat vom Regierungsrat oder aus der Mitte des Grossen Rates bestritten wird.
 
+<sup>5a</sup> Eine Diskussion findet auf Verlangen der Urheberin oder des Urhebers zudem statt, wenn trotz Nichtbestreitens eine Motion oder ein Postulat abgelehnt worden ist. In diesem Fall gilt diese Abstimmung überdies als aufgehoben.
+
 <sup>6</sup> Am Schluss der Beratung ist über die Überweisung der Motion oder des Postulats abzustimmen.
 
 #### Art. 73
@@ -1313,6 +1339,31 @@ beschliesst:
 
 <sup>2</sup> Es zählt jeweils nur die Stimme, die unmittelbar nach der Verlesung des eigenen Namens abgegeben wird.
 
+#### Art. 105a
+
+**Externe Stimmabgabe in Krisensituationen**
+
+<sup>1</sup> Nach Beschluss des Büros des Grossen Rates, die externe Stimmabgabe zuzulassen (Art. 77a GRG), informieren die Parlamentsdienste die Ratsmitglieder darüber.
+
+<sup>2</sup> Ratsmitglieder, die infolge der Krisensituation auf diese Weise abstimmen möchten, informieren das Grossratspräsidium spätestens am Vortag des Sitzungstags.
+
+<sup>3</sup> Die extern abgegebenen Stimmen werden gleichzeitig mit der im Rat laufenden Abstimmung erfasst. Eine Abstimmung wird nicht wiederholt, wenn ein Ratsmitglied seine Stimme aus technischen Gründen nicht abgeben kann.
+
+#### Art. 105b
+
+**Zirkulationsverfahren in Krisensituation**
+
+<sup>1</sup> Nach Beschluss des Büros des Grossen Rates, über ein Geschäft im Zirkulationsverfahren abzustimmen (Art. 77b GRG), informieren die Parlamentsdienste die Ratsmitglieder darüber und über den Ablauf des Zirkulationsverfahrens.
+
+<sup>2</sup> Die Grossratspräsidentin oder der Grossratspräsident
+
+- a führt die Abstimmung im Zirkulationsverfahren durch,
+- b wird von den Parlamentsdiensten unterstützt.
+
+<sup>3</sup> Die Abstimmung im Zirkulationsverfahren wird nicht wiederholt, wenn ein Ratsmitglied seine Stimme nicht abgeben kann.
+
+<sup>4</sup> Die Parlamentsdienste informieren über das Abstimmungsergebnis.
+
 #### Art. 106
 
 **Grossratspräsidentin oder Grossratspräsident**
@@ -1342,6 +1393,28 @@ beschliesst:
 <sup>2</sup> Die Grossratspräsidentin oder der Grossratspräsident genehmigt das Protokoll und legt es an der nächsten Sitzung des Grossen Rates zur Einsicht auf.
 
 <sup>3</sup> Allfällige Berichtigungsbegehren sind schriftlich und begründet bei der Grossratspräsidentin oder dem Grossratspräsidenten einzureichen. Der Grosse Rat entscheidet über Berichtigungsbegehren. Auf dem Weg der Berichtigung können keine Beschlüsse des Grossen Rates abgeändert werden.
+
+### 8.12 Virtuelle Sitzungen von Ratsorganen sowie Zirkulationsverfahren
+
+#### Art. 108a
+
+<sup>1</sup> Sitzungen der Ratsorgane erfolgen grundsätzlich mit physischer Präsenz der Ratsmitglieder, d.h. mit Anwesenheit am Sitzungsort.
+
+<sup>2</sup> Ausnahmsweise kann eine Sitzung eines Ratsorgans ohne physische Präsenz der Ratsmitglieder, d.h. virtuell, erfolgen, sofern
+
+- a das Büro des Grossen Rates abschliessend beschliesst, für einen bestimmten Zeitraum virtuelle Sitzungen von Ratsorganen grundsätzlich zuzulassen,
+- b ein Ratsorgan mit Zustimmung der Mehrheit der Mitglieder für sich eine solche Sitzung beschliesst,
+- c sich Geschäfte für eine virtuelle Beschlussfassung eignen,
+- d ausschliesslich mit der vom Kanton zur Verfügung gestellten Informatikplattform gearbeitet wird und
+- e die Sitzungsteilnehmerinnen und Sitzungsteilnehmer gewährleisten, dass die Vertraulichkeit und der Datenschutz auch in ihrer sonstigen Umgebung (Räumlichkeiten usw.) gewahrt bleibt.
+
+<sup>3</sup> Ausnahmsweise kann ein Ratsorgan beschliessen, dass über ein Geschäft schriftlich im Zirkulationsverfahren abgestimmt wird, sofern
+
+- a die Beschlussfassung dringlich ist,
+- b sich ein Geschäft für eine solche Beschlussfassung eignet,
+- c die Vertraulichkeit und der Datenschutz gewahrt bleiben.
+
+<sup>4</sup> Das Büro des Grossen Rates kann Präzisierungen dieser Vorgaben vornehmen.
 
 ## 9 Wahlen durch den Grossen Rat
 
