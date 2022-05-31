@@ -4,11 +4,11 @@ title: "Ordonnance du 27 mai 2020 sur l'exécution de la législation sur les de
 short: OELDAl
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: fr
-version: 2022-01-12
+version: 2022-06-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20220112/fr/xml/fedlex-data-admin-ch-eli-cc-2020-460-20220112-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20220112/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2020-460-20220601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20220112/fr"
 
 (OELDAl)
 
-du 27 mai 2020 (Etat le 12 janvier 2022)
+du 27 mai 2020 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -176,11 +176,18 @@ Dans la mesure où cela s’avère nécessaire à l’organisation des contrôle
 
 **Objets des contrôles officiels**
 
+<sup>1</sup>
+
 Les autorités d’exécution compétentes peuvent effectuer des contrôles officiels:
 
 - a. des denrées alimentaires et des objets usuels à tous les stades de la production, de la transformation, de la distribution et de l’utilisation;
 - b. des substances, des matériels ou des autres objets susceptibles d’influencer les caractéristiques des denrées alimentaires et des objets usuels et de leur conformité avec les exigences applicables, à tous les stades de la production, de la transformation, de la distribution et de l’utilisation;
 - c. des activités des établissements, y compris le contrôle des bâtiments, des équipements et des moyens de transport, des terrains et des autres sites sous leur responsabilité, ainsi que de leurs alentours, y compris le contrôle de la documentation correspondante.
+
+<sup>2</sup> Elles saisissent régulièrement les résultats des contrôles dans le système d’information pour les résultats de contrôles et d’analyses visé dans l’ordonnance du 27 avril 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire[^6-1]. L’OSAV fixe en concertation avec les autorités d’exécution cantonales les modalités de la saisie des données.[^6-2]
+
+[^6-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^6-2]: Introduit par l’annexe 4 ch. II 5 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 7
 
@@ -372,10 +379,11 @@ Les autorités cantonales attribuent un numéro d’autorisation à l’établis
 
 <sup>3</sup> Le numéro d’autorisation attribué aux établissements industriels peut être complété par des numéros secondaires indiquant les unités ou groupes d’unités d’exploitation qui vendent ou fabriquent des produits d’origine animale.
 
-<sup>4</sup> L’autorité cantonale saisit les numéros d’autorisation, y compris les codes et sous-numéros complémentaires, dans le système d’information pour les données d’exécution du service vétérinaire public visé dans l’ordonnance du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public[^19-2].
+<sup>4</sup> L’autorité cantonale saisit les numéros d’autorisation, y compris les codes et sous-numéros complémentaires, dans le système d’information pour les données d’exécution du service vétérinaire public visé dans l’ordonnance du 27 avril 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire[^19-2].[^19-3]
 
 [^19-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 [^19-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^19-3]: Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ### Section 4 Contrôles supplémentaires concernant les jouets
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 27 maggio 2020 sull'esecuzione della legislazione sulle de
 short: OELDerr
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: it
-version: 2022-01-12
+version: 2022-06-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20220112/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20220112-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20220112/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20220601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20220112/it"
 
 (OELDerr)
 
-del 27 maggio 2020 (Stato 12 gennaio 2022) (Stato 12 gennaio 2022)
+del 27 maggio 2020 (Stato 1° giugno 2022) (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -173,11 +173,18 @@ Se necessario per l’organizzazione dei controlli ufficiali, le autorità posso
 
 **Oggetti dei controlli ufficiali**
 
+<sup>1</sup>
+
 Le autorità di esecuzione competenti possono eseguire i seguenti controlli ufficiali:
 
 - a. controllo di derrate alimentari e oggetti d’uso a tutti i livelli di produzione, lavorazione, distribuzione e utilizzo;
 - b. controlli di sostanze, materiali o altri oggetti che possano avere effetti sulle caratteristiche di derrate alimentari e oggetti d’uso, nonché verifica del rispetto dei requisiti a tutti i livelli di produzione, lavorazione, distribuzione e utilizzo;
 - c. controlli delle attività delle aziende, compresi i controlli degli immobili, delle attrezzature e dei mezzi di trasporto, dei locali e degli altri luoghi sotto il loro controllo e relative adiacenze, compreso il controllo della relativa documentazione.
+
+<sup>2</sup> Esse registrano regolarmente i risultati dei controlli nel sistema d’informazione per i risultati di controlli e analisi secondo l’ordinanza del 27 aprile 2022[^6-1] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare. L’USAV determina il tipo di registrazione dei dati dopo aver consultato le autorità cantonali di esecuzione.[^6-2]
+
+[^6-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^6-2]: Introdotto dall’all. 4 n. II 5 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 7
 
@@ -369,10 +376,11 @@ Le autorità cantonali assegnano alle aziende con l’autorizzazione un numero d
 
 <sup>3</sup> Per le grandi aziende il numero di autorizzazione può essere completato mediante voci che designano unità aziendali o gruppi di unità aziendali che vendono o producono prodotti di origine animale.
 
-<sup>4</sup> L’autorità cantonale inserisce il numero di autorizzazione, compresi i codici e le voci di complemento, nel sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione ai sensi all’ordinanza del 6 giugno 2014[^19-2] concernente i sistemi d’informazione per il servizio veterinario pubblico.
+<sup>4</sup> L’autorità cantonale inserisce il numero di autorizzazione, compresi i codici e le voci di complemento, nel sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione ai sensi dell’ordinanza del 27 aprile 2022[^19-2] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare.[^19-3]
 
 [^19-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 [^19-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^19-3]: Nuovo testo giusta l’all. 4 n. II 5 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ### Sezione 4: Attività di controllo supplementari sui giocattoli
 

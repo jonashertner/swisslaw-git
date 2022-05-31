@@ -4,11 +4,11 @@ title: Verordnung vom 27. Mai 2020 über den Vollzug der Lebensmittelgesetzgebun
 short: LMVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: de
-version: 2022-01-12
+version: 2022-06-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20220112/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20220112-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20220112/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20220601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20220112/de"
 
 (LMVV)
 
-vom 27. Mai 2020 (Stand am 12. Januar 2022)
+vom 27. Mai 2020 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -176,11 +176,18 @@ Soweit dies zur Organisation der amtlichen Kontrollen erforderlich ist, können 
 
 **Gegenstände der amtlichen Kontrolle**
 
+<sup>1</sup>
+
 Die zuständigen Vollzugsbehörden können die folgenden amtlichen Kontrollen durchführen:
 
 - a. Kontrollen von Lebensmitteln und Gebrauchsgegenständen auf allen Produktions-, Verarbeitungs-, Vertriebs- und Verwendungsstufen;
 - b. Kontrollen von Stoffen, Materialien oder anderen Gegenständen, die Auswirkungen auf die Merkmale von Lebensmitteln und Gebrauchsgegenständen haben können, sowie Überprüfung der Einhaltung der Anforderungen auf allen Produktions-, Verarbeitungs-, Vertriebs- und Verwendungsstufen;
 - c. Kontrollen der Tätigkeiten der Betriebe, einschliesslich Kontrollen der Gebäude, der Ausrüstung und der Transportmittel, des Betriebsgeländes und anderer Orte unter ihrer Verantwortung sowie ihrer Umgebung, einschliesslich der Kontrolle der diesbezüglichen Unterlagen.
+
+<sup>2</sup> Sie erfassen die Kontrollergebnisse regelmässig im Informationssystem für Resultate von Kontrollen und Untersuchungen nach der Verordnung vom 27. April 2022[^6-1] über Informationssysteme des BLV für die Lebensmittelkette. Das BLV bestimmt nach Absprache mit den kantonalen Vollzugsbehörden die Art der Datenerfassung.[^6-2]
+
+[^6-1]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^6-2]: Eingefügt durch Anhang 4 Ziff. II 5 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 7
 
@@ -372,10 +379,11 @@ Die kantonalen Behörden teilen den Betrieben mit der Bewilligung eine Bewilligu
 
 <sup>3</sup> Bei Grossbetrieben kann die Bewilligungsnummer durch Unternummern ergänzt werden, die Betriebseinheiten oder Gruppen von Betriebseinheiten bezeichnen, die Erzeugnisse tierischer Herkunft verkaufen oder herstellen.
 
-<sup>4</sup> Die kantonale Behörde gibt die Bewilligungsnummern einschliesslich ergänzender Codes und Unternummern in das Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes nach der Verordnung vom 6. Juni 2014[^19-2] über die Informationssysteme für den öffentlichen Veterinärdienst ein.
+<sup>4</sup> Die kantonale Behörde gibt die Bewilligungsnummern einschliesslich ergänzender Codes und Unternummern in das Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes nach der Verordnung vom 27. April 2022[^19-2] über Informationssysteme des BLV für die Lebensmittelkette ein.[^19-3]
 
 [^19-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 [^19-2]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^19-3]: Fassung gemäss Anhang 4 Ziff. II 5 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ### 4. Abschnitt: Zusätzliche Kontrolltätigkeiten bei Spielzeug
 
@@ -1701,7 +1709,7 @@ Das BLV ist die zuständige Behörde für die Erteilung von Bewilligungen an aus
 
 Die Verordnung vom 16. Dezember 2016[^116-1] über den Vollzug der Lebensmittelgesetzgebung wird aufgehoben.
 
-[^116-1]: [[AS 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65), [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202)]
+[^116-1]: [[AS 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65); [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202)]
 
 #### Art. 117
 
@@ -1709,7 +1717,7 @@ Die Verordnung vom 16. Dezember 2016[^116-1] über den Vollzug der Lebensmittelg
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^117-1]
+…[^117-1]
 
 [^117-1]: Die Änderungen können unter [AS 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)konsultiert werden.
 
