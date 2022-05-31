@@ -4,13 +4,13 @@ number: "152.01"
 title: Gesetz über die Organisation des Regierungsrates und der Verwaltung
 short: "Organisationsgesetz, OrG"
 language: de
-version: 2022-01-01
-valid_until: 2022-05-31
-version_adopted: 2021-10-20
+version: 2022-06-01
+valid_until: 2022-12-31
+version_adopted: 2021-09-07
 adopted: 1995-06-20
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.01"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2457/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2574/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2457/pdf_file"
 
 (Organisationsgesetz, OrG)
 
-vom 20.06.1995 (Stand 01.01.2022)
+vom 20.06.1995 (Stand 01.06.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -601,9 +601,7 @@ beschliesst:
 
 #### Art. 49
 
-**Dekret des Grossen Rats**
-
-<sup>1</sup> Der Grosse Rat regelt durch Dekret das Gehalt und die Zulagen der Mitglieder des Regierungsrates und der Staatsschreiberin oder des Staatsschreibers.
+**…**
 
 #### Art. 50
 

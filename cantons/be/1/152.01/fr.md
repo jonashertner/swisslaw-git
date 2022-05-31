@@ -4,13 +4,13 @@ number: "152.01"
 title: "Loi sur l'organisation du Conseil-exécutif et de l'administration"
 short: "Loi d'organisation, LOCA"
 language: fr
-version: 2022-01-01
-valid_until: 2022-05-31
-version_adopted: 2021-10-20
+version: 2022-06-01
+valid_until: 2022-12-31
+version_adopted: 2021-09-07
 adopted: 1995-06-20
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.01"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2457/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2574/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2457/pdf_file"
 
 (Loi d'organisation, LOCA)
 
-du 20.06.1995 (état au 01.01.2022)
+du 20.06.1995 (état au 01.06.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -601,9 +601,7 @@ arrête:
 
 #### Art. 49
 
-**Décret du Grand Conseil**
-
-<sup>1</sup> Le Grand Conseil règle par voie de décret les traitements et les allocations des membres du Conseil-exécutif et du chancelier ou de la chancelière.
+**…**
 
 #### Art. 50
 
