@@ -4,11 +4,11 @@ number: "611.2"
 title: Finanzcontrollingverordnung (FCV)
 short: FCV
 language: de
-version: "2022-01-01"
-nachtrag: "115"
-valid_until: 2022-06-01
+version: "2022-06-01"
+nachtrag: "117"
+valid_until: 2023-01-01
 adopted: 2008-03-05
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-611_2-2008_03_05-2008_04_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-611_2-2008_03_05-2008_04_01-117.html"
 text: pdf
 ---
 
@@ -786,10 +786,6 @@ LS 414.418 Interkantonale Vereinbarung über die Hochschule für Heilpädagogik 
 
 LS 415.17 Interkantonale Universitätsvereinbarung – Beitrag an die Ausbildungskosten der Studierenden
 
-**§ 15 Abs. 1**
-
-**§ 27 Abs. 1**
-
 LS 415.171 Interkantonale Vereinbarung über den schweizerischen Hochschulbereich – Beitrag an die Kosten der Schweizerischen Art. 8 Abs. 1 Hochschulkonferenz Nr. Erlass
 
 **Bestimmungen**
@@ -810,13 +806,7 @@ SR 613.2 Bundesgesetz über den Finanz- und Lastenausgleich – Ressourcenausgle
 
 - Härteausgleich (i.V. m. Anhang 18 FiLaV) Art. 19
 
-LS 722.1 Strassengesetz
-
-- Beitrag an den geografisch-topografischen § 29
-
-Sonderlastenausgleich (i.V. m. § 43 Finanz-
-
-ausgleichsverordnung) – Staatsbeiträge an die Städte Zürich und
+LS 722.1[^hAnhang2hAnhang12-2] Strassengesetz – Staatsbeiträge an die Städte Zürich und
 
 **§§ 46 und 47**
 
@@ -830,23 +820,27 @@ SR 742.101 Eisenbahngesetz
 
 (i.V. m. Art. 23 Verordnung über die Konzessionierung, Planung und Finanzierung der Bahninfrastruktur)
 
-LS 832.01[^hAnhang2hAnhang12-2] Einführungsgesetz zum Krankenversicherungsgesetz – Beiträge für die Prämienübernahme der § 14 Abs. 1 Bezügerinnen und Bezüger von Ergänzungsleistungen – Beiträge für Prämienübernahme für Personen unter dem Existenzminimum – Entschädigung für Verlustscheine
+LS 832.01[^hAnhang2hAnhang12-3] Einführungsgesetz zum Krankenversicherungsgesetz – Beiträge für die Prämienübernahme der § 14 Abs. 1 Bezügerinnen und Bezüger von Ergänzungsleistungen – Beiträge für Prämienübernahme für Personen unter dem Existenzminimum – Entschädigung für Verlustscheine
+
+**§ 15 Abs. 1**
+
+**§ 27 Abs. 1**
 
 aufgrund unbezahlter Prämien und Kosten-
 
 beteiligungen
-
-**19**
-
-- 1\. 1. 22 - 115 Nr. Erlass
-
-**Bestimmungen**
 
 SR 836.1 Bundesgesetz über die Familienzulagen in der Landwirtschaft
 
 - Beitrag an den Bund für Familienzulagen Art. 21
 
 in der Landwirtschaft
+
+**19**
+
+- 1\. 1. 22 - 115 Nr. Erlass
+
+**Bestimmungen**
 
 SR 837.0 Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung – Kantonsbeitrag an den Bund für Leistungen Art. 59d an Personen, die weder die Beitragszeit
 
@@ -860,7 +854,7 @@ LS 851.1 Sozialhilfegesetz
 
 hilfeverordnung)
 
-LS 852.2[^hAnhang2hAnhang12-3] Gesetz über die Jugendheime und die Pflegekinderfürsorge – Beiträge für zürcherische Kinder und Jugendliche in ausserkantonalen Heimen (i.V. m. Art. 19 Interkantonale Vereinbarung für soziale Einrichtungen)
+LS 852.2[^hAnhang2hAnhang12-4] Gesetz über die Jugendheime und die Pflegekinderfürsorge – Beiträge für zürcherische Kinder und Jugendliche in ausserkantonalen Heimen (i.V. m. Art. 19 Interkantonale Vereinbarung für soziale Einrichtungen)
 
 LS 855.2 Gesetz über Invalideneinrichtungen für erwachsene Personen und den Transport von mobilitätsbehinderten Personen – Beiträge an die Kosten der bewilligten Leistungen von ausserkantonalen Ein-
 
@@ -871,8 +865,9 @@ richtungen (i.V. m. Art. 19 Interkantonale
 Vereinbarung für soziale Einrichtungen)
 
 [^hAnhang2hAnhang12-1]: Eingefügt durch RRB vom 9. Januar 2018 (OS 73, 144; ABl 2018-01-19). In Kraft seit 1. April 2018.
-[^hAnhang2hAnhang12-2]: Fassung gemäss RRB vom 25. März 2020 (OS 75, 224; ABl 2020-04-03). In Kraft seit 1. April 2020.
-[^hAnhang2hAnhang12-3]: Fassung gemäss RRB vom 6. Oktober 2021 (OS 76, 654; ABl 2021-10-29). In Kraft seit 1. Januar 2022. 1. 1. 22 - 115 15
+[^hAnhang2hAnhang12-2]: Fassung gemäss RRB vom 9. März 2022 (OS 77, 238; ABl 2022-03-25). In Kraft seit 1. Juni 2022. 1. 1. 22 - 115 15
+[^hAnhang2hAnhang12-3]: Fassung gemäss RRB vom 25. März 2020 (OS 75, 224; ABl 2020-04-03). In Kraft seit 1. April 2020.
+[^hAnhang2hAnhang12-4]: Fassung gemäss RRB vom 6. Oktober 2021 (OS 76, 654; ABl 2021-10-29). In Kraft seit 1. Januar 2022.
 
 ## Weitere Fussnoten
 
