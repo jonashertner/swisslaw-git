@@ -4,11 +4,11 @@ title: Verordnung vom 19. Oktober 2016 über Identitätsverwaltungs-Systeme und 
 short: IAMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/610"
 language: de
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2016-10-19
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-610-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2016-610-20220601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20220101/de"
 
 (IAMV)
 
-vom 19. Oktober 2016 (Stand am 1. Januar 2022)
+vom 19. Oktober 2016 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -222,10 +222,14 @@ Die Daten können weiteren bundesinternen Informationssystemen automatisch zur �
 - a. über eine Rechtsgrundlage und ein Bearbeitungsreglement nach Artikel 21 der Verordnung vom 14. Juni 1993[^13-1] zum Bundesgesetz über den Datenschutz (VDSG) verfügt; und
 - b. beim Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten angemeldet ist oder gemäss Artikel 18 VDSG nicht gemeldet werden muss.
 
-<sup>5</sup> Die für die Publikation des Eidgenössischen Staatskalenders nötigen Daten nach Artikel 5 der Organisationsverordnung vom 29. Oktober 2008[^13-2] für die Bundeskanzlei werden regelmässig an die Bundeskanzlei übermittelt.
+<sup>4bis</sup> Die AHV-Nummer wird nur bereitgestellt, sofern ihre Verwendung der Zentralen Ausgleichsstelle nach Artikel 134<sup>ter</sup> der Verordnung vom 31. Oktober 1947[^13-2] über die Alters- und Hinterlassenenversicherung gemeldet wird.[^13-3]
+
+<sup>5</sup> Die für die Publikation des Eidgenössischen Staatskalenders nötigen Daten nach Artikel 5 der Organisationsverordnung vom 29. Oktober 2008[^13-4] für die Bundeskanzlei werden regelmässig an die Bundeskanzlei übermittelt.
 
 [^13-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^13-2]: [SR 172.210.10](https://fedlex.data.admin.ch/eli/cc/2008/719)
+[^13-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^13-3]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 282](https://fedlex.data.admin.ch/eli/oc/2022/282)).
+[^13-4]: [SR 172.210.10](https://fedlex.data.admin.ch/eli/cc/2008/719)
 
 #### Art. 14
 
@@ -426,7 +430,7 @@ Anhang*[^t-1]*
 
 ## Datenkategorien
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 14. Nov. 2018 ([AS 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)) und Anhang Ziff. II 7 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 14. Nov. 2018 ([AS 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)) und Ziff. II der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 282](https://fedlex.data.admin.ch/eli/oc/2022/282)).
 
 Vorbemerkung: Zur Bedeutung der Sterne (\*) siehe Artikel 11 Absatz 4.
 
@@ -444,6 +448,7 @@ Vorbemerkung: Zur Bedeutung der Sterne (\*) siehe Artikel 11 Absatz 4.
 <tr><td>9. Berufsbezeichnung\*</td><td>x</td><td>x</td><td>x</td></tr>
 <tr><td>10. Korrespondenzsprache\*</td><td>x</td><td>x</td><td>x</td></tr>
 <tr><td>11. Gesichtsbild für Ausweise</td><td>x</td><td>x</td><td></td></tr>
+<tr><td>12. AHV-Nummer</td><td>x</td><td>x</td><td>x</td></tr>
 <tr><td>b. Angaben zum Verhältnis zum Arbeit-/Auftraggeber</td><td></td><td></td><td></td></tr>
 <tr><td>1. Anstellungsverhältnis (intern/extern)\*</td><td>x</td><td>x</td><td></td></tr>
 <tr><td>2. Informationen zur Organisation und zu den Planstellen\*</td><td>x</td><td>x</td><td>x</td></tr>
@@ -454,8 +459,8 @@ Vorbemerkung: Zur Bedeutung der Sterne (\*) siehe Artikel 11 Absatz 4.
 <tr><td>7. Stellenbezeichnung\*</td><td>x</td><td>x</td><td></td></tr>
 <tr><td>8. Kennung des Personalinformationssystems (Quelle)</td><td>x</td><td>x</td><td></td></tr>
 <tr><td>9. Eintritts- und Austrittsdatum</td><td>x</td><td>x</td><td></td></tr>
-<tr><td>10. Ausweis- und/oder Badgenummer</td><td>x</td><td>x</td><td>x</td></tr>
 <tr><td>[tab]</td><td></td><td></td><td></td></tr>
+<tr><td>10. Ausweis- und/oder Badgenummer</td><td>x</td><td>x</td><td>x</td></tr>
 <tr><td>c. Kontaktangaben</td><td></td><td></td><td></td></tr>
 <tr><td>1. Arbeitsort und geschäftliche Postadresse\*</td><td>x</td><td>x</td><td>x</td></tr>
 <tr><td>2. Büronummer\*</td><td>x</td><td></td><td></td></tr>
@@ -479,6 +484,6 @@ Vorbemerkung: Zur Bedeutung der Sterne (\*) siehe Artikel 11 Absatz 4.
 <tr><td>1. Prüfstufe</td><td></td><td>x</td><td></td></tr>
 <tr><td>2. Zeitpunkt der nächsten Wiederholung der Personensicherheitsprüfung</td><td></td><td>x</td><td></td></tr>
 <tr><td>[tab] g. Daten, die nur in dem von der Führungsunterstützungsbasis der Schweizer Armee betriebenen IAM-System (Art. 5 Abs. 1 Bst. c) bearbeitet werden dürfen</td><td></td><td></td><td></td></tr>
-<tr><td>1. AHV-Nummer (Art. 2 Abs. 1 Bst. b MIG)</td><td></td><td>x</td><td>x</td></tr>
+<tr><td>1. …</td><td></td><td></td><td></td></tr>
 <tr><td>2. besondere biometrische Personenmerkmale: Irisbild, Venenscan, Fingerabdruck, Handabdruck, Gesichtsformmerkmale und Stimmprofil (Art. 2*a* MIG)</td><td></td><td>x</td><td></td></tr>
 </table>

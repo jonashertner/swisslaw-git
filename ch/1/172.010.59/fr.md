@@ -4,11 +4,11 @@ title: "Ordonnance du 19 octobre 2016 sur les systèmes de gestion des données 
 short: OIAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/610"
 language: fr
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2016-10-19
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-610-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2016-610-20220601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20220101/fr"
 
 (OIAM)
 
-du 19 octobre 2016 (Etat le 1<sup>er</sup> janvier 2022)
+du 19 octobre 2016 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -222,10 +222,14 @@ Les données peuvent être transmises de manière automatisée à d’autres sys
 - a. dispose d’une base légale et d’un règlement de traitement au sens de l’art. 21 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données (OLPD)[^13-1], et
 - b. ait été annoncé au Préposé fédéral à la protection des données et à la transparence ou ne doive pas être déclaré en vertu de l’art. 18 OLPD.
 
-<sup>5</sup> Les données nécessaires à la publication de l’Annuaire fédéral au sens de l’art. 5 de l’ordonnance du 29 octobre 2008 sur l’organisation de la Chancellerie fédérale[^13-2] sont transmises régulièrement à cette dernière.
+<sup>4bis</sup> Le numéro AVS n’est transmis que si son utilisation est annoncée à la Centrale de compensation conformément à l’art. 134<sup>ter</sup> du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^13-2].[^13-3]
+
+<sup>5</sup> Les données nécessaires à la publication de l’Annuaire fédéral au sens de l’art. 5 de l’ordonnance du 29 octobre 2008 sur l’organisation de la Chancellerie fédérale[^13-4] sont transmises régulièrement à cette dernière.
 
 [^13-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^13-2]: [RS 172.210.10](https://fedlex.data.admin.ch/eli/cc/2008/719)
+[^13-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^13-3]: Introduit par le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 282](https://fedlex.data.admin.ch/eli/oc/2022/282)).
+[^13-4]: [RS 172.210.10](https://fedlex.data.admin.ch/eli/cc/2008/719)
 
 #### Art. 14
 
@@ -426,7 +430,7 @@ Annexe*[^t-1]*
 
 ## Catégories de données
 
-[^t-1]: Mise à jour par le ch. II de l’O du 14 nov. 2018 ([RO 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)) et l’annexe ch. II 7 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^t-1]: Mise à jour par le ch. II de l’O du 14 nov. 2018 ([RO 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)) et le ch. II de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 282](https://fedlex.data.admin.ch/eli/oc/2022/282)).
 
 Remarque préliminaire: pour la signification des astérisques (\*), voir l’art. 11, al. 4.
 
@@ -444,6 +448,7 @@ Remarque préliminaire: pour la signification des astérisques (\*), voir l’ar
 <tr><td>9. Profession\*</td><td>x</td><td>x</td><td>x</td></tr>
 <tr><td>10. Langue de correspondance\*</td><td>x</td><td>x</td><td>x</td></tr>
 <tr><td>11. Image du visage pour pièces d’identité</td><td>x</td><td>x</td><td></td></tr>
+<tr><td>12. Numéro AVS</td><td>x</td><td>x</td><td>x</td></tr>
 <tr><td>b. Données relatives au rapport avec l’employeur/le mandant</td><td></td><td></td><td></td></tr>
 <tr><td>1. Rapports de travail (interne/externe)\*</td><td>x</td><td>x</td><td></td></tr>
 <tr><td>2. Informations relatives à l’unité d’organisation et aux postes de travail\*</td><td>x</td><td>x</td><td>x</td></tr>
@@ -478,6 +483,6 @@ Remarque préliminaire: pour la signification des astérisques (\*), voir l’ar
 <tr><td>1. Degré de contrôle</td><td></td><td>x</td><td></td></tr>
 <tr><td>2. Date de la prochaine répétition du contrôle</td><td></td><td>x</td><td></td></tr>
 <tr><td>[tab] g. Données qui ne peuvent être traitées que dans le système IAM exploité par la Base d’aide au commandement de l’armée suisse (art. 5, al. 1, let. c)</td><td></td><td></td><td></td></tr>
-<tr><td>1. Numéro AVS (art. 2, al. 1, let. b, LSIA)</td><td></td><td>x</td><td>x</td></tr>
+<tr><td>1. ...</td><td></td><td></td><td></td></tr>
 <tr><td>2. Caractéristiques biométriques personnelles particulières: scan de l’iris, scan des veines, empreinte digitale, empreinte de la main, caractéristiques de la forme du visage et profil de la voix (art. 2*a* LSIA)</td><td></td><td>x</td><td></td></tr>
 </table>

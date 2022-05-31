@@ -4,11 +4,11 @@ title: Ordinanza del 19 ottobre 2016 sui sistemi di gestione delle identità e s
 short: OIAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/610"
 language: it
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2016-10-19
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-610-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2016-610-20220601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20220101/it"
 
 (OIAM)
 
-del 19 ottobre 2016 (Stato 1° gennaio 2022)
+del 19 ottobre 2016 (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -222,10 +222,14 @@ I dati possono essere messi a disposizione automaticamente di altri sistemi d’
 - a. sia dotato di una base legale e di un regolamento per il trattamento secondo l’articolo 21 dell’ordinanza del 14 giugno 1993[^13-1] relativa alla legge sulla protezione dei dati (OLPD); e
 - b. sia notificato all’Incaricato federale della protezione dei dati e della trasparenza oppure non sottostia all’obbligo di notifica conformemente all’articolo 18 OLPD.
 
-<sup>5</sup> I dati necessari per la pubblicazione nell’Annuario federale secondo l’articolo 5 dell’ordinanza del 29 ottobre 2008[^13-2] sull’organizzazione della Cancelleria federale sono trasmessi regolarmente alla Cancelleria federale.
+<sup>4bis</sup> Il numero AVS è messo a disposizione a condizione che la sua utilizzazione sia annunciata all’Ufficio centrale di compensazione secondo l’articolo 134<sup>ter</sup> dell’ordinanza del 31 ottobre 1947[^13-2] sull’assicurazione per la vecchiaia e per i superstiti.[^13-3]
+
+<sup>5</sup> I dati necessari per la pubblicazione nell’Annuario federale secondo l’articolo 5 dell’ordinanza del 29 ottobre 2008[^13-4] sull’organizzazione della Cancelleria federale sono trasmessi regolarmente alla Cancelleria federale.
 
 [^13-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^13-2]: [RS 172.210.10](https://fedlex.data.admin.ch/eli/cc/2008/719)
+[^13-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^13-3]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 282](https://fedlex.data.admin.ch/eli/oc/2022/282)).
+[^13-4]: [RS 172.210.10](https://fedlex.data.admin.ch/eli/cc/2008/719)
 
 #### Art. 14
 
@@ -426,7 +430,7 @@ Allegato*[^t-1]*
 
 ## Categorie di dati
 
-[^t-1]: Aggiornato dal n. II dell’O del 14 nov. 2018 ([RU 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)) e dall’all. n. II 7 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^t-1]: Aggiornato dal n. II dell’O del 14 nov. 2018 ([RU 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)) e del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 282](https://fedlex.data.admin.ch/eli/oc/2022/282)).
 
 Osservazione preliminare: per il significato degli asterischi (\*) si veda l’articolo 11 capoverso 4.
 
@@ -444,6 +448,7 @@ Osservazione preliminare: per il significato degli asterischi (\*) si veda l’a
 <tr><td>9. Denominazione della professione\*</td><td>x</td><td>x</td><td>x</td></tr>
 <tr><td>10. Lingua per la corrispondenza\*</td><td>x</td><td>x</td><td>x</td></tr>
 <tr><td>11. Immagine del viso per documenti d’identificazione</td><td>x</td><td>x</td><td></td></tr>
+<tr><td>12. Numero AVS</td><td>x</td><td>x</td><td>x</td></tr>
 <tr><td>b. Dati relativi al rapporto con il datore di lavoro/mandante</td><td></td><td></td><td></td></tr>
 <tr><td>1. Rapporto di lavoro (interno / esterno)\*</td><td>x</td><td>x</td><td></td></tr>
 <tr><td>2. Informazioni concernenti l’organizzazione e i posti in organico\*</td><td>x</td><td>x</td><td>x</td></tr>
@@ -478,6 +483,6 @@ Osservazione preliminare: per il significato degli asterischi (\*) si veda l’a
 <tr><td>1. Livello di controllo</td><td></td><td>x</td><td></td></tr>
 <tr><td>2. Data della prossima ripetizione del controllo di sicurezza</td><td></td><td>x</td><td></td></tr>
 <tr><td>[tab] g. Dati che possono essere trattati soltanto nel sistema IAM gestito dalla Base d’aiuto alla condotta (BAC) dell’Esercito svizzero (art. 5 cpv. 1 lett. c)</td><td></td><td></td><td></td></tr>
-<tr><td>1. Numero AVS (art. 2 cpv. 1 lett. b LSIM)</td><td></td><td>x</td><td>x</td></tr>
+<tr><td>[tab] ...</td><td></td><td></td><td></td></tr>
 <tr><td>2. Particolari caratteristiche biometriche personali: scansione dell’iride, scansione delle vene, impronte digitali, impronta della mano, caratteristiche della forma del viso e profilo vocale (art. 2*a* LSIM)</td><td></td><td>x</td><td></td></tr>
 </table>
