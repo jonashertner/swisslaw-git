@@ -4,13 +4,13 @@ number: "210.1"
 title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: EG ZGB
 language: de
-version: 2021-01-01
-valid_until: 2022-05-31
-version_adopted: 2020-09-11
+version: 2022-06-01
+valid_until: 2025-09-30
+version_adopted: 2022-02-16
 adopted: 1991-07-03
 in_force: 1992-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/210.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2073/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2541/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ EG ZGB[^t-1]
 
 (EG ZGB)
 
-vom 03.07.1991 (Stand 01.01.2021)
+vom 03.07.1991 (Stand 01.06.2022)
 
 [^t-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
@@ -825,11 +825,18 @@ vom 03.07.1991 (Stand 01.01.2021)
 
 #### § 71a
 
-**Veröffentlichung[^71a-1]**
+**Veröffentlichung**
 
-<sup>1</sup> Beim Erwerb von Eigentum an Grundstücken werden die in Art. 970a Abs. 2 ZGB vorgeschriebenen Angaben veröffentlicht. Die Veröffentlichung unterbleibt bei kleinen Flächen sowie bei geringfügigen Anteilen oder Wertquoten.
+<sup>1</sup> Beim Erwerb von Eigentum an Grundstücken werden die folgenden Angaben veröffentlicht:
 
-[^71a-1]: Vom Bund genehmigt am 27. Januar 1994.
+- 1\. das Datum der Handänderung
+- 2\. bei Liegenschaften die Nummer, die Fläche, die Kulturart, die Art der Gebäude und die Ortsbezeichnung
+- 3\. bei Stockwerkeigentum die Nummer, die Art der Einheit, die Wertquote und die Ortsbezeichnung
+- 4\. bei Baurechten die Nummer, die Art der Gebäude und die Ortsbezeichnung
+- 5\. bei Miteigentum der Anteil
+- 6\. die Namen und der Wohnort oder der Sitz der Personen, die das Eigentum veräussern und erwerben
+
+<sup>2</sup> Die Veröffentlichung unterbleibt bei kleinen Flächen, bei geringfügigen Anteilen oder Wertquoten sowie bei Handänderungen infolge Güter- und Erbrecht.
 
 #### § 71b
 
