@@ -4,11 +4,11 @@ number: "132.11"
 title: Finanzausgleichsverordnung (FAV)
 short: FAV
 language: de
-version: "2022-01-01"
-nachtrag: "115"
-valid_until: 2022-06-01
+version: "2022-06-01"
+nachtrag: "117"
+valid_until: 2026-07-01
 adopted: 2011-08-17
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-132_11-2011_08_17-2012_01_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-132_11-2011_08_17-2012_01_01-117.html"
 text: pdf
 ---
 
@@ -63,7 +63,7 @@ Für die Berechnung des gewogenen Steuerfusses gemäss § 8 lit. c Satz 2 FAG we
 
 **1**
 
-- 1\. 1. 22 - 115 § 4. Die Berechnung des Kantonsmittels der Gesamtsteuerfüsse gemäss § 8 lit. d FAG erfolgt analog zu § 3. Massgebend ist die Formel 8 im Anhang zu dieser Verordnung.
+- 1\. 7. 22 - 117 § 4. Die Berechnung des Kantonsmittels der Gesamtsteuerfüsse gemäss § 8 lit. d FAG erfolgt analog zu § 3. Massgebend ist die Formel 8 im Anhang zu dieser Verordnung.
 
 **Kantonsmittel der Gesamtsteuerfüsse**
 
@@ -169,7 +169,7 @@ Die politischen Gemeinden melden dem Amt für Raumentwicklung des Kantons Züric
 
 **3**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 ### E. Ausgleichsfaktoren
 
@@ -285,7 +285,7 @@ Das Statistische Amt veröffentlicht nach Ablauf der Rechtsmittelfrist die Ausgl
 
 **5**
 
-- 1\. 1. 22 - 115 § 18. <sup>1</sup> Auf der Grundlage der Ausgleichsfaktoren legt das Gemeindeamt bis Ende August des Vorjahres gegenüber den politischen Gemeinden und den Schulgemeinden die Ausgleichsbeiträge bei folgenden Instrumenten fest:
+- 1\. 7. 22 - 117 § 18. <sup>1</sup> Auf der Grundlage der Ausgleichsfaktoren legt das Gemeindeamt bis Ende August des Vorjahres gegenüber den politischen Gemeinden und den Schulgemeinden die Ausgleichsbeiträge bei folgenden Instrumenten fest:
 
 **Festlegung der Beiträge**
 
@@ -345,7 +345,7 @@ Folgende Aufgaben der funktionalen Gliederung sind in die Abgeltung des demograf
 
 - b. Schulgesundheitsdienst, c.[^22-1] Jugend, Kindertagesstätten.
 
-[^22-1]: Fassung gemäss RRB vom 6. Oktober 2021 (OS 76, 653; ABl 2021-10-29). In Kraft seit 1. Januar 2022. 1. 1. 22 - 115 13
+[^22-1]: Fassung gemäss RRB vom 6. Oktober 2021 (OS 76, 653; ABl 2021-10-29). In Kraft seit 1. Januar 2022.
 
 #### § 23
 
@@ -378,7 +378,7 @@ Nach Erhalt des Beitrags zahlt die politische Gemeinde den Schulgemeinden den Be
 
 **7**
 
-- 1\. 1. 22 - 115 § 26. Folgende Aufgaben der funktionalen Gliederung sind in die Abgeltung des geografisch-topografischen Sonderlastenausgleichs einbezogen:
+- 1\. 7. 22 - 117 § 26. Folgende Aufgaben der funktionalen Gliederung sind in die Abgeltung des geografisch-topografischen Sonderlastenausgleichs einbezogen:
 
 **Aufgaben**
 
@@ -456,7 +456,7 @@ Bei der Globalbudgetierung sind die Angaben der internen Rechnung massgebend, au
 
 **9**
 
-- 1\. 1. 22 - 115 § 33. Die Zahlung des vorläufigen Beitrags nach § 26 Abs. 2 FAG erfolgt Mitte des Ausgleichsjahres.
+- 1\. 7. 22 - 117 § 33. Die Zahlung des vorläufigen Beitrags nach § 26 Abs. 2 FAG erfolgt Mitte des Ausgleichsjahres.
 
 #### § 34
 
@@ -542,7 +542,7 @@ Bei der Globalbudgetierung sind die Angaben der internen Rechnung massgebend, au
 
 **11**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 <sup>2</sup> Die vorläufige Festlegung des Beitrags erfolgt bis Ende November des Vorjahres. Sind die Angaben der Gemeinden unvollständig oder strittig, kann das Gemeindeamt den Beitrag auf der Grundlage der vorhandenen Angaben vorläufig festlegen.
 
@@ -570,13 +570,9 @@ Die Zahlung der vorläufigen Beiträge erfolgt Mitte des Ausgleichsjahres.
 
 Bei einer Kürzung des Beitrags erfolgt die Rückzahlung der Gemeinde 30 Tage nach Eintritt der Rechtskraft der entsprechenden Verfügung.
 
-[^42-1]: LS 722.1.
+§ 43.[^42-1]
 
-#### § 43
-
-**Beitrag Strassenfonds**
-
-Der Beitrag gemäss § 29 des Strassengesetzes vom 27. September 1981[^42-1] in den geografisch-topografischen Sonderlastenausgleich entspricht 3% der jährlichen Einlagen in den Strassenfonds.
+[^42-1]: Aufgehoben durch RRB vom 9. März 2022 (OS 77, 237; ABl 2022-03-25). In Kraft seit 1. Juni 2022. 1. 7. 22 - 117 13
 
 ### B. Übrige Bestimmungen
 
@@ -670,7 +666,7 @@ im Bemessungsjahr t–2 (§ 1)
 
 **15**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 ### Formel 11 Kantonsmittel der relativen Steuerkraft (§ 8 lit. h FAG, § 9 FAV) SKR = <sup>N</sup> SKA / E
 
@@ -714,4 +710,8 @@ einer Hangneigung über 35% im Bemessungsjahr t–2
 
 **17**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
+
+## Weitere Fussnoten
+
+- [7] LS 722.1.
