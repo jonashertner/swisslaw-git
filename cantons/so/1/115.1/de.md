@@ -4,13 +4,13 @@ number: "115.1"
 title: Gesetz über die wirkungsorientierte Verwaltungsführung
 short: WoV-G
 language: de
-version: 2019-06-01
-valid_until: 2022-05-31
-version_adopted: 2018-12-19
+version: 2022-06-01
+valid_until: 2023-07-31
+version_adopted: 2021-12-08
 adopted: 2003-09-03
 in_force: 2004-07-01
 url: "https://bgs.so.ch/app/de/texts_of_law/115.1"
-pdf: "https://bgs.so.ch/api/de/versions/4820/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5209/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4820/pdf_file"
 
 (WoV-G)
 
-Vom 03.09.2003 (Stand 01.06.2019)
+Vom 03.09.2003 (Stand 01.06.2022)
 
 Der Kantonsrat von Solothurn
 
@@ -282,9 +282,14 @@ beschliesst:
 
 <sup>1</sup> Die Mehrheit der Mitglieder des Kantonsrates kann ausnahmsweise im Voranschlag einen Aufwandüberschuss beschliessen.
 
-<sup>2</sup> Ein Verlustvortrag muss innert vier Jahren seit dem erstmaligen Entstehen abgetragen werden.
+<sup>2</sup> Weist das für die Defizitbremse massgebende Kapital einen negativen Saldo aus, muss dieser innert vier Jahren seit dem erstmaligen Entstehen abgetragen werden.
 
-<sup>3</sup> Ein Verlustvortrag, der nach Absatz 2 abzutragen ist, liegt vor, wenn die Bilanz ohne Anrechnung der als Folge der Ausfinanzierung der Pensionskasse am 1. Januar 2015 erfolgten Verpflichtung einen Fehlbetrag aufweist.
+<sup>3</sup> Das für die Defizitbremse massgebende Kapital setzt sich wie folgt zusammen:
+
+- a) Aktiven gemäss Bilanz;
+- b) abzüglich Fremdkapital gemäss Bilanz;
+- c) abzüglich den Spezialfinanzierungen im Eigenkapital;
+- d) zuzüglich der verbleibenden Verpflichtung aus der Ausfinanzierung der Pensionskasse Kanton Solothurn, welche über 40 Jahre nach dem 1. Januar 2015 mittels Annuität getilgt wird.
 
 #### § 24
 
