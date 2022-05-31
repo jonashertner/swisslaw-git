@@ -4,11 +4,11 @@ title: Swiss Criminal Code of 21 December 1937
 short: SCC
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: en
-version: 2022-01-01
+version: 2022-06-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20220101/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20220101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20220601/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20220601-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20220601/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20220101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 21 December 1937 (Status as of 1 January 2022)
+of 21 December 1937 (Status as of 1 June 2022)
 
 The Federal Assembly the Swiss Confederation,
 
@@ -25,7 +25,7 @@ based on Article 123 paragraphs 1 and 3 of the Federal Constitution[^ingress-1],
 
 decrees:
 
-[^ingress-1]: [BS **1** 3]. The said provision now corresponds to Art. 123 of the Federal Constitution of 18 April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: Amended by No I of the FA of 30 Sept. 2011 in force since 1 July 2012 ([AS 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [BBl 2010 5651](https://fedlex.data.admin.ch/eli/fga/2010/992)[5677](https://fedlex.data.admin.ch/eli/fga/2010/994)).
 [^ingress-3]: [BBl 1918 IV 1](https://fedlex.data.admin.ch/eli/fga/1918/4_1_1_1)
 
@@ -1628,7 +1628,10 @@ Solitary confinement in the form of uninterrupted separation from other prison i
 
 - a. for a maximum of one week at the start of the sentence in order to initiate the execution of the sentence;
 - b. for the protection of the prison inmate or of third parties;
-- c. as a disciplinary sanction.
+- c. as a disciplinary sanction;
+- d.[^78-1] to prevent other prison inmates from being influenced by ideas that may encourage them to carry out terrorist activities, provided there is specific evidence of such an influence.
+
+[^78-1]: Inserted by No I 6 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in Force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 79
 
@@ -1818,25 +1821,27 @@ A person subject to the execution of a measure under Articles 59–61, may only 
 
 - a. as a temporary therapeutic measure;
 - b. for the protection of other inmates of the institution or of third parties;
-- c. as a disciplinary sanction.
+- c. as a disciplinary sanction;
+- d.[^90-1] to prevent other prison inmates from being influenced by ideas that may encourage them to carry out terrorist activities, provided there is specific evidence of such an influence.
 
 <sup>2</sup> At the start of the execution of the measure, a sentence management plan is drawn up in consultation with the inmate or his legal representative. This includes in particular details of the treatment of the inmate's mental disorder, dependence or developmental disorder and on measures to prevent the endangerment of others.
 
-<sup>2bis</sup> Measures under Articles 59–61 and 64 may be executed in the form of external accommodation and day release employment if there is a justified opinion that this will significantly contribute to the aim of the measure being achieved, and if there is no risk that the inmate will abscond or will commit further offences. Article 77*a* paragraphs 2 and 3 applies by analogy.[^90-1]
+<sup>2bis</sup> Measures under Articles 59–61 and 64 may be executed in the form of external accommodation and day release employment if there is a justified opinion that this will significantly contribute to the aim of the measure being achieved, and if there is no risk that the inmate will abscond or will commit further offences. Article 77*a* paragraphs 2 and 3 applies by analogy.[^90-2]
 
 <sup>3</sup> If the inmate is able to work, he is required to work to the extent that his in-patient treatment or care requires or permits. Articles 81–83 apply in an analogous manner.
 
 <sup>4</sup> Article 84 applies by analogy to the relations of the inmates of an institution for the execution of measures with the outside world, unless additional restrictions are required for reasons relating to the in-patient treatment.
 
-<sup>4bis</sup> Article 75*a* applies by analogy to admission to an open institution and to the authorisation of a relaxation in the measures regime.[^90-2]
+<sup>4bis</sup> Article 75*a* applies by analogy to admission to an open institution and to the authorisation of a relaxation in the measures regime.[^90-3]
 
-<sup>4ter</sup> During lifelong incarceration, it is not permitted to authorise release on temporary licence or a relaxation of the sentence regime.[^90-3]
+<sup>4ter</sup> During lifelong incarceration, it is not permitted to authorise release on temporary licence or a relaxation of the sentence regime.[^90-4]
 
 <sup>5</sup> Article 85 applies by analogy to searches and inspections.
 
-[^90-1]: Inserted by No I of the FA of 24 March 2006 (Revision of the Law on Sanctions and the Register of Convictions), in force since 1 Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550)3544; [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
+[^90-1]: Inserted by No I 6 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in Force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^90-2]: Inserted by No I of the FA of 24 March 2006 (Revision of the Law on Sanctions and the Register of Convictions), in force since 1 Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550)3544; [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
-[^90-3]: Inserted by No I of the FA of 21 Dec. 2007 (Indefinite Incarceration of Extremely Dangerous Offenders), in force since 1 Aug. 2008 ([AS 2008 2961](https://fedlex.data.admin.ch/eli/oc/2008/413)2964; [BBl 2006 889](https://fedlex.data.admin.ch/eli/fga/2006/104)).
+[^90-3]: Inserted by No I of the FA of 24 March 2006 (Revision of the Law on Sanctions and the Register of Convictions), in force since 1 Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550)3544; [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
+[^90-4]: Inserted by No I of the FA of 21 Dec. 2007 (Indefinite Incarceration of Extremely Dangerous Offenders), in force since 1 Aug. 2008 ([AS 2008 2961](https://fedlex.data.admin.ch/eli/oc/2008/413)2964; [BBl 2006 889](https://fedlex.data.admin.ch/eli/fga/2006/104)).
 
 ### 4. General provisions
 
@@ -3156,7 +3161,7 @@ Any person who uses a telecommunications installation maliciously or mischievous
 <sup>2</sup> The requirements for the surveillance of post or telecommunications and the procedure therefor is governed by the Federal Act of 6 October 2000[^179octies-2] on the Surveillance of Post and Telecommunications.
 
 [^179octies-1]: Inserted by No VII of the FA of 23 March 1979 on the Protection of Personal Privacy ([AS 1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [BBl 1976 I 529](https://fedlex.data.admin.ch/eli/fga/1976/1_529__)II 1569). Amended by Annex No 1 of the FA of 6 Oct. 2000 on the Surveillance of Post and Telecommunications, in force since 1 Jan. 2002 ([AS 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); BBl **1998** 4241).
-[^179octies-2]: [[AS 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467), [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Annex No 18 [3043](https://fedlex.data.admin.ch/eli/oc/2003/417)No I 2, [2004 2149](https://fedlex.data.admin.ch/eli/oc/2004/249)[3693](https://fedlex.data.admin.ch/eli/oc/2004/511), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 84 [5437](https://fedlex.data.admin.ch/eli/oc/2006/823)Art. 2 No 3, [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)Annex No 3 [5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Annex No II 7, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Annex 1 No II 26 [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)Annex No II 14, [2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)Annex No 7, [2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)Annex No II 12. [AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31)]. See now: the FA of 18 March 2016 ([SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)).
+[^179octies-2]: [[AS 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Annex No 18, [3043](https://fedlex.data.admin.ch/eli/oc/2003/417)No I 2; [2004 2149](https://fedlex.data.admin.ch/eli/oc/2004/249), [3693](https://fedlex.data.admin.ch/eli/oc/2004/511); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 84, [5437](https://fedlex.data.admin.ch/eli/oc/2006/823)Art. 2 No 3; [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)Annex No 3, [5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Annex No II 7; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Annex 1 No II 26, [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)Annex No II 14; [2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)Annex No 7; [2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)Annex No II 12. [AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31)]. See now: the FA of 18 March 2016 ([SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)).
 
 ### Obtaining personal data without authorisation
 
@@ -4817,7 +4822,7 @@ Any participant who uses violence against persons or property shall be liable to
 [^285-1]: Amended by No I of the FA of 5 Oct. 1950, in force since 5 Jan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)16; BBl **1949** 1 1249).
 [^285-2]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 [^285-3]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^285-4]: [[AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)[6019](https://fedlex.data.admin.ch/eli/oc/2009/737), [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)No I 5, [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)Annex No I 1]. See now: the FA of 25 Sept. 2015 ([SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
+[^285-4]: [[AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679), [6019](https://fedlex.data.admin.ch/eli/oc/2009/737); [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)No I 5; [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)Annex No I 1]. See now: the FA of 25 Sept. 2015 ([SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
 [^285-5]: [SR 745.2](https://fedlex.data.admin.ch/eli/cc/2011/565)
 [^285-6]: Amended by Art. 11 para. 2 of the FA of 18 June 2010 on the Security Units of Public Transport Companies, in force since 1 Oct. 2011 ([AS 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565); [BBl 2010 891](https://fedlex.data.admin.ch/eli/fga/2010/156)[915](https://fedlex.data.admin.ch/eli/fga/2010/158)).
 [^285-7]: Penalties revised by No II 1 para. 16 of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)3535; BBl **1999** 1979).
@@ -4835,7 +4840,7 @@ Public officials also include employees of undertakings in terms of the Railways
 [^286-1]: Amended by No I of the FA of 5 Oct. 1950, in force since 5 Jan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)16; BBl **1949** 1 1249).
 [^286-2]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 [^286-3]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^286-4]: [[AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)[6019](https://fedlex.data.admin.ch/eli/oc/2009/737), [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)No I 5, [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)Annex No I 1]. See now: the FA of 25 Sept. 2015 ([SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
+[^286-4]: [[AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679), [6019](https://fedlex.data.admin.ch/eli/oc/2009/737); [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)No I 5; [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)Annex No I 1]. See now: the FA of 25 Sept. 2015 ([SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
 [^286-5]: [SR 745.2](https://fedlex.data.admin.ch/eli/cc/2011/565)
 [^286-6]: Amended by Art. 11 para. 2 of the FA of 18 June 2010 on the Security Units of Public Transport Companies, in force since 1 Oct. 2011 ([AS 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565); [BBl 2010 891](https://fedlex.data.admin.ch/eli/fga/2010/156)[915](https://fedlex.data.admin.ch/eli/fga/2010/158)).
 
@@ -6179,7 +6184,7 @@ The register serves to support the federal and cantonal authorities in the fulfi
 - u.[^365-20] procuring and passing on information to foreign security authorities in connection with the requests made under Article 12 paragraph 1 letter d IntelSA; where the passing on of data is not in the interests of the person concerned, such data may only be passed on with that person’s express consent;
 - v.[^365-21] clarification of the security risk as part of the background checks in accordance with Article 108b of the Aviation Act of 21 December 1948[^365-22] (AviA).
 
-[^365-1]: [BS **1** 121; [AS 1949 221](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225), [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665), [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332), [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)No III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148)[2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Annex No 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)No I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)No I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Annex No 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Annex No II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)No I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)No I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Annex No 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 No 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)Art. 18 No 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)Annex No 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)Annex No 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)Annex No 1. [AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Annex No I]. See now the FA of 16 Dec. 2005 on Foreign Nationals ([SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
+[^365-1]: [BS **1** 121; [AS 1949 221](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); **1987** 166; **1988** 33; [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 para. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No II 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)No III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Annex No 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No IV 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)No I 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)No I 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Annex No 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Annex No II 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)No I 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)No I 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Annex No 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 No 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)Art. 18 No 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)Annex No 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)Annex No 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)Annex No 1. [AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Annex No I]. See now the FA of 16 Dec. 2005 on Foreign Nationals ([SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
 [^365-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^365-3]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^365-4]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)

@@ -4,18 +4,18 @@ title: Code pénal suisse du 21 décembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: fr
-version: 2022-01-01
+version: 2022-06-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20220101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20220601-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Code pénal suisse
 
-du 21 décembre 1937 (Etat le 1<sup>er</sup> janvier 2022)
+du 21 décembre 1937 (Etat le 1<sup>er</sup> juin 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1624,7 +1624,10 @@ La détention cellulaire sous la forme de l’isolement ininterrompu d’avec le
 
 - a. pour une période d’une semaine au plus au début de la peine et pour en préparer l’exécution;
 - b. pour protéger le détenu ou des tiers;
-- c. à titre de sanction disciplinaire.
+- c. à titre de sanction disciplinaire;
+- d.[^78-1] pour empêcher, si des éléments concrets le laissent présumer, qu’un détenu influence ses codétenus par une idéologie susceptible de favoriser l’accomplissement d’activités terroristes.
+
+[^78-1]: Introduite par le ch. I 6 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 79
 
@@ -1814,25 +1817,27 @@ La personne exécutant une mesure prévue aux art. 59 à 61 ne peut être soumis
 
 - a. à titre de mesure thérapeutique provisoire;
 - b. pour sa protection personnelle ou pour celle de tiers;
-- c. à titre de sanction disciplinaire.
+- c. à titre de sanction disciplinaire;
+- d.[^90-1] pour empêcher, si des éléments concrets le laissent présumer, que la personne concernée influence d’autres personnes par une idéologie susceptible de favoriser l’accomplissement d’activités terroristes.
 
 <sup>2</sup> Au début de l’exécution de la mesure, un plan est établi avec la personne concernée ou avec son représentant légal. Ce plan porte notamment sur le traitement du trouble mental, de la dépendance ou du trouble du développement de la personnalité et sur les moyens d’éviter la mise en danger de tiers.
 
-<sup>2bis</sup> Les mesures prévues aux art. 59 à 61 et 64 peuvent être exécutées sous la forme du travail et du logement externes si l’on peut raisonnablement supposer qu’elles contribueront ainsi de manière décisive à atteindre le but poursuivi et qu’il n’y a pas lieu de craindre que la personne placée ne s’enfuie ou ne commette d’autres infractions. L’art. 77*a*, al. 2 et 3, est applicable par analogie.[^90-1]
+<sup>2bis</sup> Les mesures prévues aux art. 59 à 61 et 64 peuvent être exécutées sous la forme du travail et du logement externes si l’on peut raisonnablement supposer qu’elles contribueront ainsi de manière décisive à atteindre le but poursuivi et qu’il n’y a pas lieu de craindre que la personne placée ne s’enfuie ou ne commette d’autres infractions. L’art. 77*a*, al. 2 et 3, est applicable par analogie.[^90-2]
 
 <sup>3</sup> Si la personne concernée est apte au travail, elle doit être incitée à travailler pour autant que le traitement institutionnel ou les soins le requièrent ou le permettent. Dans ce cas, les art. 81 à 83 sont applicables par analogie.
 
 <sup>4</sup> L’art. 84 est applicable par analogie aux relations de la personne concernée avec le monde extérieur, pour autant que les exigences du traitement institutionnel n’entraînent pas de restrictions complémentaires.
 
-<sup>4bis</sup> L’art. 75*a* est applicable par analogie au placement dans un établissement ouvert et à l’octroi d’allégements dans l’exécution.[^90-2]
+<sup>4bis</sup> L’art. 75*a* est applicable par analogie au placement dans un établissement ouvert et à l’octroi d’allégements dans l’exécution.[^90-3]
 
-<sup>4ter</sup> Aucun congé ou autre allégement dans l’exécution n’est accordé durant l’internement à vie.[^90-3]
+<sup>4ter</sup> Aucun congé ou autre allégement dans l’exécution n’est accordé durant l’internement à vie.[^90-4]
 
 <sup>5</sup> L’art. 85 sur les contrôles et les inspections est applicable par analogie.
 
-[^90-1]: Introduit par le ch. I de la LF du 24 mars 2006 (Correctifs en matière de sanctions et casier judiciaire), en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4425](https://fedlex.data.admin.ch/eli/fga/2005/735)).
+[^90-1]: Introduite par le ch. I 6 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^90-2]: Introduit par le ch. I de la LF du 24 mars 2006 (Correctifs en matière de sanctions et casier judiciaire), en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4425](https://fedlex.data.admin.ch/eli/fga/2005/735)).
-[^90-3]: Introduit par le ch. I de la LF du 21 déc. 2007 (Internement à vie des délinquants extrêmement dangereux), en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 2961](https://fedlex.data.admin.ch/eli/oc/2008/413); [FF 2006 869](https://fedlex.data.admin.ch/eli/fga/2006/104)).
+[^90-3]: Introduit par le ch. I de la LF du 24 mars 2006 (Correctifs en matière de sanctions et casier judiciaire), en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4425](https://fedlex.data.admin.ch/eli/fga/2005/735)).
+[^90-4]: Introduit par le ch. I de la LF du 21 déc. 2007 (Internement à vie des délinquants extrêmement dangereux), en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 2961](https://fedlex.data.admin.ch/eli/oc/2008/413); [FF 2006 869](https://fedlex.data.admin.ch/eli/fga/2006/104)).
 
 ### 4. Dispositions communes
 
@@ -3162,7 +3167,7 @@ Celui qui, par méchanceté ou par espièglerie, aura utilisé abusivement une i
 
 Celui qui aura soustrait d’un fichier des données personnelles sensibles ou des profils de la personnalité qui ne sont pas librement accessibles sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^179novies-1]: Introduit par l’annexe ch. 4 de la LF du 19 juin 1992 sur le protection des données, en vigueur depuis le 1<sup>er</sup> juil. 1993 ([RO 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [FF 1988 II 421](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
+[^179novies-1]: Introduit par l’annexe ch. 4 de la LF du 19 juin 1992 sur la protection des données, en vigueur depuis le 1<sup>er</sup> juil. 1993 ([RO 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [FF 1988 II 421](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
 
 ### Titre 4 Crimes ou délits contre la liberté
 

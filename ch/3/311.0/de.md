@@ -4,18 +4,18 @@ title: Schweizerisches Strafgesetzbuch vom 21. Dezember 1937
 short: StGB
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: de
-version: 2022-01-01
+version: 2022-06-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20220101/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20220101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20220601/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20220601-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Strafgesetzbuch
 
-vom 21. Dezember 1937 (Stand am 1. Januar 2022)
+vom 21. Dezember 1937 (Stand am 1. Juni 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1627,7 +1627,10 @@ Einzelhaft als ununterbrochene Trennung von den anderen Gefangenen darf nur ange
 
 - a. bei Antritt der Strafe und zur Einleitung des Vollzugs für die Dauer von höchstens einer Woche;
 - b. zum Schutz des Gefangenen oder Dritter;
-- c. als Disziplinarsanktion.
+- c. als Disziplinarsanktion;
+- d.[^78-1] zur Verhinderung der Beeinflussung von Mitgefangenen durch Gedankengut, das die Ausübung von terroristischen Aktivitäten begünstigen kann, sofern konkrete Anhaltspunkte auf eine solche Beeinflussung vorliegen.
+
+[^78-1]: Eingefügt durch Ziff. I 6 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 79
 
@@ -1817,25 +1820,27 @@ Eine Person, die sich im Vollzug einer Massnahme nach den Artikeln 59–61 befin
 
 - a. als vorübergehende therapeutische Massnahme;
 - b. zum Schutz des Eingewiesenen oder Dritter;
-- c. als Disziplinarsanktion.
+- c. als Disziplinarsanktion;
+- d.[^90-1] zur Verhinderung der Beeinflussung von anderen Eingewiesenen durch Gedankengut, das die Ausübung von terroristischen Aktivitäten begünstigen kann, sofern konkrete Anhaltspunkte auf eine solche Beeinflussung vorliegen.
 
 <sup>2</sup> Zu Beginn des Vollzugs der Massnahme wird zusammen mit dem Eingewiesenen oder seinem gesetzlichen Vertreter ein Vollzugsplan erstellt. Dieser enthält namentlich Angaben über die Behandlung der psychischen Störung, der Abhängigkeit oder der Entwicklungsstörung des Eingewiesenen sowie zur Vermeidung von Drittgefährdung.
 
-<sup>2bis</sup> Massnahmen nach den Artikeln 59–61 und 64 können in der Form des Wohn- und Arbeitsexternats vollzogen werden, wenn begründete Aussicht besteht, dass dies entscheidend dazu beiträgt, den Zweck der Massnahme zu erreichen, und wenn keine Gefahr besteht, dass der Eingewiesene flieht oder weitere Straftaten begeht. Artikel 77*a* Absätze 2 und 3 gilt sinngemäss.[^90-1]
+<sup>2bis</sup> Massnahmen nach den Artikeln 59–61 und 64 können in der Form des Wohn- und Arbeitsexternats vollzogen werden, wenn begründete Aussicht besteht, dass dies entscheidend dazu beiträgt, den Zweck der Massnahme zu erreichen, und wenn keine Gefahr besteht, dass der Eingewiesene flieht oder weitere Straftaten begeht. Artikel 77*a* Absätze 2 und 3 gilt sinngemäss.[^90-2]
 
 <sup>3</sup> Ist der Eingewiesene arbeitsfähig, so wird er zur Arbeit angehalten, soweit seine stationäre Behandlung oder Pflege dies erfordert oder zulässt. Die Artikel 81–83 sind sinngemäss anwendbar.
 
 <sup>4</sup> Für die Beziehungen des Eingewiesenen zur Aussenwelt gilt Artikel 84 sinngemäss, sofern nicht Gründe der stationären Behandlung weiter gehende Einschränkungen gebieten.
 
-<sup>4bis</sup> Für die Einweisung in eine offene Einrichtung und für die Bewilligung von Vollzugsöffnungen gilt Artikel 75*a* sinngemäss.[^90-2]
+<sup>4bis</sup> Für die Einweisung in eine offene Einrichtung und für die Bewilligung von Vollzugsöffnungen gilt Artikel 75*a* sinngemäss.[^90-3]
 
-<sup>4ter</sup> Während der lebenslänglichen Verwahrung werden keine Urlaube oder andere Vollzugsöffnungen bewilligt.[^90-3]
+<sup>4ter</sup> Während der lebenslänglichen Verwahrung werden keine Urlaube oder andere Vollzugsöffnungen bewilligt.[^90-4]
 
 <sup>5</sup> Für Kontrollen und Untersuchungen gilt Artikel 85 sinngemäss.
 
-[^90-1]: Eingefügt durch Ziff. I des BG vom 24. März 2006 (Korrekturen am Sanktions- und Strafregisterrecht), in Kraft seit 1. Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
+[^90-1]: Eingefügt durch Ziff. I 6 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^90-2]: Eingefügt durch Ziff. I des BG vom 24. März 2006 (Korrekturen am Sanktions- und Strafregisterrecht), in Kraft seit 1. Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
-[^90-3]: Eingefügt durch Ziff. I des BG vom 21. Dez. 2007 (Lebenslängliche Verwahrung extrem gefährlicher Straftäter), in Kraft seit 1. Aug. 2008 ([AS 2008 2961](https://fedlex.data.admin.ch/eli/oc/2008/413); [BBl 2006 889](https://fedlex.data.admin.ch/eli/fga/2006/104)).
+[^90-3]: Eingefügt durch Ziff. I des BG vom 24. März 2006 (Korrekturen am Sanktions- und Strafregisterrecht), in Kraft seit 1. Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
+[^90-4]: Eingefügt durch Ziff. I des BG vom 21. Dez. 2007 (Lebenslängliche Verwahrung extrem gefährlicher Straftäter), in Kraft seit 1. Aug. 2008 ([AS 2008 2961](https://fedlex.data.admin.ch/eli/oc/2008/413); [BBl 2006 889](https://fedlex.data.admin.ch/eli/fga/2006/104)).
 
 ### 4. Gemeinsame Bestimmungen.
 
@@ -2315,7 +2320,7 @@ wenn er der Ehegatte des Opfers ist und die Tat während der Ehe oder bis zu ein
 
 wenn er die eingetragene Partnerin oder der eingetragene Partner des Opfers ist und die Tat während der Dauer der eingetragenen Partnerschaft oder bis zu einem Jahr nach deren Auflösung begangen wurde,[^123-4]
 
-wenn er der hetero- oder homosexuelle Lebenspartner des Opfers ist, sofern sie auf unbestimmte Zeit einen gemeinsamem Haushalt führen und die Tat während dieser Zeit oder bis zu einem Jahr nach der Trennung begangen wurde.[^123-5]
+wenn er der hetero- oder homosexuelle Lebenspartner des Opfers ist, sofern sie auf unbestimmte Zeit einen gemeinsamen Haushalt führen und die Tat während dieser Zeit oder bis zu einem Jahr nach der Trennung begangen wurde.[^123-5]
 
 [^123-1]: Fassung gemäss Ziff. I des BG vom 23. Juni 1989, in Kraft seit 1. Jan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 [^123-2]: Fassung gemäss Ziff. II 2 des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).

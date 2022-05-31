@@ -4,18 +4,18 @@ title: Codice penale svizzero del 21 dicembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: it
-version: 2022-01-01
+version: 2022-06-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20220101/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20220101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20220601/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20220601-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice penale svizzero
 
-del 21 dicembre 1937 (Stato 1° gennaio 2022)
+del 21 dicembre 1937 (Stato 1° giugno 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1628,7 +1628,10 @@ La segregazione cellulare, in forma di isolamento ininterrotto dagli altri deten
 
 - a. all’inizio della pena e al fine di avviare l’esecuzione, per un periodo di non oltre una settimana;
 - b. a tutela del detenuto o di terzi;
-- c. come sanzione disciplinare.
+- c. come sanzione disciplinare;
+- d.[^78-1] per impedire che altri detenuti siano influenzati da un’ideologia che potrebbe indurli a compiere attività terroristiche, laddove vi siano indizi concreti di una tale influenza.
+
+[^78-1]: Introdotta dal n. I 6 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 79
 
@@ -1817,25 +1820,27 @@ Nell’esecuzione di una misura secondo gli articoli 59–61 il collocato può e
 
 - a. come misura terapeutica temporanea;
 - b. a tutela del collocato medesimo o di terzi;
-- c. come sanzione disciplinare.
+- c. come sanzione disciplinare;
+- d.[^90-1] per impedire che altri collocati siano influenzati da un’ideologia che potrebbe indurli a compiere attività terroristiche, laddove vi siano indizi concreti di una tale influenza.
 
 <sup>2</sup> All’inizio dell’esecuzione della misura è allestito un piano di esecuzione insieme con il collocato o il suo rappresentante legale. Il piano contiene in particolare indicazioni sul trattamento della turba psichica, della dipendenza o dell’alterazione caratteriale del collocato nonché sul come evitare che terzi siano esposti a pericolo.
 
-<sup>2bis</sup> Le misure di cui agli articoli 59–61 e 64 possono essere eseguite in forma di lavoro e alloggio esterni se vi sono fondate probabilità che ciò contribuisca in modo determinante a realizzare lo scopo della misura e purché non vi sia il pericolo che il collocato si dia alla fuga o commetta nuovi reati. L’articolo 77*a* capoversi 2 e 3 si applica per analogia.[^90-1]
+<sup>2bis</sup> Le misure di cui agli articoli 59–61 e 64 possono essere eseguite in forma di lavoro e alloggio esterni se vi sono fondate probabilità che ciò contribuisca in modo determinante a realizzare lo scopo della misura e purché non vi sia il pericolo che il collocato si dia alla fuga o commetta nuovi reati. L’articolo 77*a* capoversi 2 e 3 si applica per analogia.[^90-2]
 
 <sup>3</sup> Il collocato abile al lavoro è tenuto a lavorare per quanto il trattamento o le cure stazionari lo richiedano o consentano. Gli articoli 81–83 si applicano per analogia.
 
 <sup>4</sup> Le relazioni con il mondo esterno sono rette per analogia dall’articolo 84, sempreché ragioni inerenti al trattamento stazionario non richiedano restrizioni ulteriori.
 
-<sup>4bis</sup> Al trasferimento in un penitenziario aperto e all’autorizzazione di un regime aperto si applica per analogia l’articolo 75*a*.[^90-2]
+<sup>4bis</sup> Al trasferimento in un penitenziario aperto e all’autorizzazione di un regime aperto si applica per analogia l’articolo 75*a*.[^90-3]
 
-<sup>4ter</sup> Durante l’internamento a vita non sono concessi congedi o altre forme di regime penitenziario aperto.[^90-3]
+<sup>4ter</sup> Durante l’internamento a vita non sono concessi congedi o altre forme di regime penitenziario aperto.[^90-4]
 
 <sup>5</sup> Controlli e perquisizioni sono retti per analogia dall’articolo 85.
 
-[^90-1]: Introdotto dal n. I della LF del 24 mar. 2006 (Correttivi in materia di sanzioni e di casellario giudiziale), in vigore dal 1° gen. 2007 ([RU 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4197](https://fedlex.data.admin.ch/eli/fga/2005/735)).
+[^90-1]: Introdotta dal n. I 6 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^90-2]: Introdotto dal n. I della LF del 24 mar. 2006 (Correttivi in materia di sanzioni e di casellario giudiziale), in vigore dal 1° gen. 2007 ([RU 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4197](https://fedlex.data.admin.ch/eli/fga/2005/735)).
-[^90-3]: Introdotto dal n. I della LF del 21 dic. 2007 (Internamento a vita di criminali estremamente pericolosi), in vigore dal 1° ago. 2008 ([RU 2008 2961](https://fedlex.data.admin.ch/eli/oc/2008/413); [FF 2006 807](https://fedlex.data.admin.ch/eli/fga/2006/104)).
+[^90-3]: Introdotto dal n. I della LF del 24 mar. 2006 (Correttivi in materia di sanzioni e di casellario giudiziale), in vigore dal 1° gen. 2007 ([RU 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4197](https://fedlex.data.admin.ch/eli/fga/2005/735)).
+[^90-4]: Introdotto dal n. I della LF del 21 dic. 2007 (Internamento a vita di criminali estremamente pericolosi), in vigore dal 1° ago. 2008 ([RU 2008 2961](https://fedlex.data.admin.ch/eli/oc/2008/413); [FF 2006 807](https://fedlex.data.admin.ch/eli/fga/2006/104)).
 
 ### 4. Disposizioni comuni.
 
@@ -3142,7 +3147,7 @@ Chiunque, per malizia o per celia, utilizza abusivamente un impianto di telecomu
 <sup>2</sup> Le condizioni della sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni nonché la relativa procedura sono disciplinate dalla legge federale del 6 ottobre 2000[^179octies-2] sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni.
 
 [^179octies-1]: Introdotto dal n. VII della LF del 23 mar. 1979 sulla protezione della sfera segreta personale ([RU 1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [FF 1976 I 479](https://fedlex.data.admin.ch/eli/fga/1976/1___479), II 1545). Nuovo testo giusta l’all. n. 1 della LF del 6 ott. 2000 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, in vigore dal 1° gen. 2002 ([RU 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); FF **1998** 3319).
-[^179octies-2]: [[RU 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467), [2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417)n. I 2, [2004 3693](https://fedlex.data.admin.ch/eli/oc/2004/511), [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)all. n. 3, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. II 26 [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)all. n. II 14, [2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)all. n. II 12. RU 2018 117 all. n. I]. Vedi ora la LF del 18 mar. 2016 ([RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)).
+[^179octies-2]: [[RU 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); [2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417)n. I 2; [2004 3693](https://fedlex.data.admin.ch/eli/oc/2004/511); [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)all. n. 3; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. II 26, [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)all. n. II 14; [2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)all. n. II 12. [RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31)all. n. I]. Vedi ora la LF del 18 mar. 2016 ([RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)).
 
 ### Sottrazione di dati personali
 
@@ -4801,7 +4806,7 @@ I compartecipi che hanno commesso atti di violenza contro le persone o le cose, 
 [^285-1]: Nuovo testo giusta il n. II 5 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2011 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)5629; FF 2183, **2007** 2457).
 [^285-2]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 [^285-3]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^285-4]: [[RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)n. II 23 [6019](https://fedlex.data.admin.ch/eli/oc/2009/737), [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)n. I 5, [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375)art. unico cpv. 1 lett. a. [RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)all. n. I 1 ]. Vedi ora la L del 25 set. 2015 ([RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
+[^285-4]: [[RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)n. II 23, [6019](https://fedlex.data.admin.ch/eli/oc/2009/737); [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)n. I 5; [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375)art. unico cpv. 1 lett. a. [RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)all. n. I 1 ]. Vedi ora la L del 25 set. 2015 ([RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
 [^285-5]: [RS 745.2](https://fedlex.data.admin.ch/eli/cc/2011/565)
 [^285-6]: Nuovo testo giusta l’art. 11 cpv. 2 della LF del 18 giu. 2010 sugli organi di sicurezza delle imprese di trasporto pubblico, in vigore dal 1° ott. 2011 ([RU 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565); [FF 2010 793](https://fedlex.data.admin.ch/eli/fga/2010/156)[817](https://fedlex.data.admin.ch/eli/fga/2010/158)).
 [^285-7]: Nuovo testo di parte del per. giusta il n. II 1 cpv. 16 della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
@@ -4819,7 +4824,7 @@ Sono considerati funzionari anche gli impiegati di imprese ai sensi della legge 
 [^286-1]: Nuovo testo giusta il n. II 5 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^286-2]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 [^286-3]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^286-4]: [[RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)n. II 23 [6019](https://fedlex.data.admin.ch/eli/oc/2009/737), [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)n. I 5, [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375)art. unico cpv. 1 lett. a. [RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)all. n. I 1 ]. Vedi ora la L del 25 set. 2015 ([RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
+[^286-4]: [[RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)n. II 23, [6019](https://fedlex.data.admin.ch/eli/oc/2009/737); [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)n. I 5; [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375)art. unico cpv. 1 lett. a. [RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)all. n. I 1 ]. Vedi ora la L del 25 set. 2015 ([RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
 [^286-5]: [RS 745.2](https://fedlex.data.admin.ch/eli/cc/2011/565)
 [^286-6]: Nuovo testo giusta l’art. 11 cpv. 2 della LF del 18 giu. 2010 sugli organi di sicurezza delle imprese di trasporto pubblico, in vigore dal 1° ott. 2011 ([RU 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565); [FF 2010 793](https://fedlex.data.admin.ch/eli/fga/2010/156)[817](https://fedlex.data.admin.ch/eli/fga/2010/158)).
 
@@ -6157,7 +6162,7 @@ Il casellario ha lo scopo di assistere le autorità federali e cantonali nell’
 - u.[^365-20] acquisizione e trasmissione di informazioni ad autorità di sicurezza estere nell’ambito di richieste secondo l’articolo 12 capoverso 1 lettera d LAIn; i dati la cui trasmissione non è nell’interesse della persona in questione possono essere trasmessi unicamente con il suo esplicito consenso;
 - v.[^365-21] accertamento del rischio per la sicurezza nel quadro del controllo dei precedenti personali ai sensi dell’articolo 108*b* della legge federale del 21 dicembre 1948[^365-22] sulla navigazione aerea (LNA).
 
-[^365-1]: [CS **1** 117; [RU 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225), [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665), [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332), [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 cpv. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)n. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148)[2253](https://fedlex.data.admin.ch/eli/oc/1999/356)[2262](https://fedlex.data.admin.ch/eli/oc/1999/358)all. n. 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)n. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)n. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)n. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 n. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)all. n. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)all. n. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)all. n. 1. [RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)all. n. I]. Vedi ora: la LF del 16 dic. 2005 sugli stranieri ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
+[^365-1]: [CS **1** 117; [RU 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 cpv. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)n. III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2253](https://fedlex.data.admin.ch/eli/oc/1999/356), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)all. n. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. IV 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)n. I 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)n. I 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. II 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)n. I 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 n. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)all. n. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)all. n. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)all. n. 1. [RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)all. n. I]. Vedi ora: la LF del 16 dic. 2005 sugli stranieri ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
 [^365-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^365-3]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^365-4]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
@@ -6321,7 +6326,7 @@ Il Consiglio federale fissa le modalità, segnatamente:
 [^367-25]: Introdotto dal n. I 1 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 [^367-26]: Originario cpv. 2<sup>sexies</sup>. Introdotto dall’art. 34 n. 1 e 36 della LF del 17 giu. 2011 sulla promozione dello sport e dell’attività fisica, in vigore dal 1° ott. 2012 ([RU 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7113](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
 [^367-27]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^367-28]: Nuovo testo giusta il n. I 6 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° gen. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^367-28]: Nuovo testo giusta il n. I 6 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^367-29]: Introdotto dal n. II 1 della LF del 3 ott. 2008 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)). Abrogato dal n. II 1 della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 [^367-30]: Introdotto dall’art. 34 n. 1 della LF del 17 giu. 2011 sulla promozione dello sport e dell’attività fisica, in vigore dal 1° ott. 2012 ([RU 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7113](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
 
