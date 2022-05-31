@@ -4,20 +4,20 @@ title: "Ordinanza del 4 dicembre 2009 sulle misure di polizia amministrativa del
 short: OMPAH
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/847"
 language: it
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2009-12-04
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/847/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-847-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/847/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2009-847-20220601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulle misure di polizia amministrativa dell’Ufficio federale di polizia e sul sistema d’informazione HOOGAN
 
-(OMPAH)**[^t-1]**
+(OMPAH)[^t-1]
 
-del 4 dicembre 2009 (Stato 1° gennaio 2022)
+del 4 dicembre 2009 (Stato 1° giugno 2022)
 
 [^t-1]: Nuovo testo giusta l’appendice 2 n. 1 dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
@@ -128,17 +128,19 @@ Inoltre i Cantoni comunicano a fedpol:
   le decisioni, le revoche e le modifiche delle misure seguenti:
 
   - 1\. il divieto di accedere a stadi,
-  - 2\. il divieto di accedere a un’area[^6-1],
-  - 3\. l’obbligo di presentarsi alla polizia,
+  - 2\.[^6-1] il divieto di accedere a un’area determinata,
+  - 3\.[^6-2] l’obbligo di presentarsi,
   - 4\. il fermo preventivo di polizia<sup>;</sup>
 
 - b. le violazioni delle misure di cui alla lettera a;
-- c. le aree da loro interdette, allegando le relative piantine.
+- c.[^6-3] le aree da loro vietate, allegando le relative piantine.
 
-<sup>3</sup> Fedpol stabilisce la scala delle piantine di cui al capoverso 2 lettera c.[^6-2]
+<sup>3</sup> Fedpol stabilisce la scala delle piantine di cui al capoverso 2 lettera c.[^6-4]
 
-[^6-1]: Nuova espr. giusta n. I dell’O del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^6-2]: Nuovo testo giusta il n. I dell’O del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
+[^6-1]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^6-2]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^6-3]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^6-4]: Nuovo testo giusta il n. I dell’O del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
 
 #### Art. 7
 
@@ -162,23 +164,28 @@ Si deve presumere che una persona parteciperà ad atti violenti in occasione di 
 
 <sup>6</sup>
 
-Elementi concreti e attuali tali da giustificare un divieto limitato di lasciare la Svizzera, non preceduto da un divieto di accedere a un’area per aver commesso atti di violenza in occasione di manifestazioni sportive, sussistono se una persona:
+Elementi concreti e attuali tali da giustificare un divieto limitato di lasciare la Svizzera, non preceduto né da un divieto di accedere a un’area determinata né da un obbligo di presentarsi per aver commesso atti di violenza in occasione di manifestazioni sportive, sussistono se una persona:[^7-1]
 
 - a. secondo le informazioni fornite da servizi di polizia stranieri ha commesso atti violenti all’estero;
 - b. è membro di un gruppo che ha già più volte partecipato ad atti violenti in Svizzera o all’estero; e
 - c. risulta certo che essa o il gruppo sono intenzionati a recarsi all’estero per seguire una determinata manifestazione sportiva.
 
-<sup>7</sup> Il divieto limitato di lasciare la Svizzera, oltre a essere registrato nel sistema di ricerca informatizzato di polizia (RIPOL), è comunicato alle autorità di confine nonché alle competenti autorità doganali e di polizia straniere.
+<sup>7</sup> Il divieto limitato di lasciare la Svizzera, oltre a essere registrato nel sistema di ricerca informatizzato di polizia (RIPOL), è comunicato all’UDSC, alle autorità di polizia dei Cantoni nonché alle competenti autorità doganali e di polizia straniere.[^7-2]
+
+[^7-1]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^7-2]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 7a
 
-**Divieto di accedere agli stadi, divieto di accedere a un’area e obbligo di presentarsi alla polizia**[^7a-1]
+**Divieto di accedere agli stadi, divieto di accedere a un’area determinata e obbligo di presentarsi[^7a-2]**[^7a-1]
 
 <sup>1</sup> Fedpol può raccomandare agli organizzatori di manifestazioni sportive di pronunciare divieti di accedere agli stadi contro persone che hanno dimostrato un comportamento violento all’interno o all’esterno dello stadio in occasione di una manifestazione sportiva. Le raccomandazioni sono rilasciate indicando i dati necessari di cui all’articolo 24*a* capoverso 3 LMSI.
 
-<sup>2</sup> Può chiedere alle autorità di polizia dei Cantoni di pronunciare un divieto di accedere a un’area o obblighi di presentarsi alla polizia.
+<sup>2</sup> Può chiedere alle autorità di polizia dei Cantoni di pronunciare un divieto di accedere a un’area determinata o un obbligo di presentarsi.[^7a-3]
 
 [^7a-1]: Introdotto dal n. I dell’O del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
+[^7a-2]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^7a-3]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ## Sezione 4: Sistema d’informazione HOOGAN
 
@@ -188,9 +195,10 @@ Elementi concreti e attuali tali da giustificare un divieto limitato di lasciare
 
 <sup>1</sup> Nel sistema d’informazione elettronico HOOGAN sono registrati i dati delle persone che hanno avuto un comportamento violento in occasione di manifestazioni sportive in Svizzera o all’estero e contro cui è stata pronunciata una misura di cui all’articolo 6 capoverso 2 lettera a oppure un divieto limitato di lasciare la Svizzera di cui all’articolo 7.[^8-1]
 
-<sup>2</sup> In HOOGAN sono inoltre registrate le manifestazioni sportive, come pure gli avvenimenti a esse collegati e le aree interdette dai Cantoni.
+<sup>2</sup> In HOOGAN sono inoltre registrate le manifestazioni sportive, come pure gli avvenimenti a esse collegati e le aree vietate dai Cantoni.[^8-2]
 
 [^8-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
+[^8-2]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 9
 
@@ -204,24 +212,23 @@ Le seguenti autorità possono accedere a HOOGAN esclusivamente per gli scopi seg
 
   i servizi seguenti di fedpol:
 
-  - 1\.[^9-1] la sezione Tifoseria violenta: per gestire HOOGAN, per pronunciare divieti limitati di lasciare la Svizzera, per scambiare informazioni come previsto dalla legge nonché per analizzare e valutare la situazione,
+  - 1\.[^9-1] il settore Tifoseria violenta: per gestire HOOGAN, per pronunciare divieti limitati di lasciare la Svizzera, per scambiare informazioni come previsto dalla legge nonché per analizzare e valutare la situazione,
   - 2\. la Centrale operativa di fedpol: per identificare le persone in relazione alla violenza in occasione di manifestazioni sportive,
   - 3\. l’Incaricato della protezione dei dati e della protezione delle informazioni di fedpol: per trattare le richieste d’informazione e di cancellazione dei dati registrati in HOOGAN;
 
-- b. i collaboratori delle autorità di polizia dei Cantoni responsabili di prevenire la violenza in occasione di manifestazioni sportive: per pronunciare interdizioni di accedere a un’area, obblighi di presentarsi alla polizia e fermi preventivi di polizia, per analizzare e valutare la situazione e per trasmettere dati personali agli organizzatori di manifestazioni sportive in Svizzera;
+- b.[^9-2] i collaboratori delle autorità di polizia dei Cantoni responsabili di prevenire la violenza in occasione di manifestazioni sportive: per pronunciare divieti di accedere a un’area determinata, obblighi di presentarsi e fermi preventivi di polizia, per analizzare e valutare la situazione e per trasmettere dati personali agli organizzatori di manifestazioni sportive in Svizzera;
 - c. i servizi delle autorità di polizia dei Cantoni: per identificare le persone in relazione alla violenza in occasione di manifestazioni sportive;
-- d. i servizi del Corpo delle guardie di confine (Cgcf) dell’UDSC: per applicare i divieti limitati di lasciare la Svizzera e i divieti di entrata;
-- e. le unità del Servizio centrale svizzero in materia di tifoseria violenta (Servizio centrale): per eseguire una prima valutazione delle comunicazioni pervenute in materia di divieti di accedere a stadi e dei rapporti sulle manifestazioni sportive redatti dagli organizzatori delle medesime, nonché per richiedere di pronunciare divieti limitati di lasciare la Svizzera, interdizioni di accedere a un’area e obblighi di presentarsi alla polizia.
+- d.[^9-3] i collaboratori dell’UDSC impiegati per il controllo delle persone: per applicare i divieti limitati di lasciare la Svizzera e i divieti di entrata;
+- e.[^9-4] ...
 
-<sup>2</sup> Per accedere a HOOGAN può essere concesso un diritto d’accesso integrale o limitato. L’accesso integrale consente di leggere, inserire, modificare e cancellare i dati. L’accesso limitato consente unicamente di leggere i dati attivi al momento della consultazione concernenti un caso concreto.[^9-2]
+<sup>2</sup> Per accedere a HOOGAN può essere concesso un diritto d’accesso integrale o limitato. L’accesso integrale consente di leggere, inserire, modificare e cancellare i dati. L’accesso limitato consente unicamente di leggere i dati attivi al momento della consultazione concernenti un caso concreto.[^9-5]
 
 <sup>3</sup>
 
 Beneficiano dell’accesso integrale:
 
-- a.[^9-3] la sezione Tifoseria violenta;
-- b. il Servizio centrale;
-- c. i collaboratori delle autorità di polizia dei Cantoni e del Cgcf responsabili di prevenire la violenza in occasione di manifestazioni sportive.
+- a. il settore Tifoseria violenta;
+- b. i collaboratori delle autorità di polizia dei Cantoni e dei Comuni responsabili di prevenire la violenza in occasione di manifestazioni sportive nonché i collaboratori dell’UDSC impiegati per il controllo delle persone.[^9-6]
 
 <sup>4</sup>
 
@@ -230,25 +237,30 @@ Beneficiano dell’accesso limitato:
 - a. la Centrale operativa di fedpol;
 - b. l’Incaricato della protezione dei dati e della protezione delle informazioni di fedpol;
 - c. le autorità di polizia dei Cantoni;
-- d. il Cgcf.
+- d.[^9-7] i collaboratori dell’UDSC impiegati per il controllo delle persone.
 
-<sup>5</sup> L’accesso limitato delle autorità di polizia dei Cantoni e del Cgcf funziona per mezzo di un’interfaccia nel sistema d’informazione RIPOL.
+<sup>5</sup> L’accesso limitato delle autorità di polizia dei Cantoni e dell’UDSC funziona per mezzo di un’interfaccia in RIPOL.[^9-8]
 
-<sup>6</sup> I campi di dati e i diritti di trattamento sono elencati nell’allegato.[^9-4]
+<sup>6</sup> I campi di dati e i diritti di trattamento sono elencati nell’allegato.[^9-9]
 
-<sup>7</sup> Le autorità di cui al capoverso 1 garantiscono il rispetto delle disposizioni applicabili in materia di protezione dei dati e di sicurezza informatica.[^9-5]
+<sup>7</sup> Le autorità di cui al capoverso 1 garantiscono il rispetto delle disposizioni applicabili in materia di protezione dei dati e di sicurezza informatica.[^9-10]
 
-<sup>8</sup> Il capo della sezione Tifoseria violenta di fedpol o il suo supplente decide in merito alle richieste d’accesso individuali delle autorità di cui al capoverso 1.[^9-6]
+<sup>8</sup> Il capo del settore Tifoseria violenta di fedpol o il suo supplente decide in merito alle richieste d’accesso individuali delle autorità di cui al capoverso 1.[^9-11]
 
-<sup>9</sup> La responsabilità per HOOGAN è assunta dalla sezione Tifoseria violenta.[^9-7]
+<sup>9</sup> La responsabilità per HOOGAN è assunta dal settore Tifoseria violenta.[^9-12]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
-[^9-3]: Nuovo testo giusta il n. I dell’O del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
-[^9-4]: Nuovo testo giusta il n. I dell’O del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
+[^9-1]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-2]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-3]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-4]: Abrogata dal n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, con effetto dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 [^9-5]: Nuovo testo giusta il n. I dell’O del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
-[^9-6]: Nuovo testo giusta il n. I dell’O del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
-[^9-7]: Introdotto dal n. I dell’O del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
+[^9-6]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-7]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-8]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-9]: Nuovo testo giusta il n. I dell’O del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
+[^9-10]: Nuovo testo giusta il n. I dell’O del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
+[^9-11]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-12]: Introdotto dal n. I dell’O del 14 dic. 2012 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)). Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 10
 
@@ -326,56 +338,45 @@ Fedpol disciplina in un regolamento sul trattamento dei dati:
 
 La presente ordinanza entra in vigore il 1° gennaio 2010.
 
-Allegato*[^t-2]*
+Allegato[^t-2]
 
 (art. 9 cpv. 6)
 
 ## Campi di dati e diritti di trattamento
 
-[^t-2]: Introdotto dal n. II dell’O del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
+[^t-2]: Introdotto dal n. II dell’O del 14 dic. 2012 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)). Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
-L = leggere
-
-A = aggiornare
-
-E = eliminare
-
-R-attivo = soltanto le persone e le sottocategorie di oggetti contro cui è pendente una misura al momento della consultazione
-
-STF = Sezione Tifoseria violenta
-
-CSI = Centro servizi informatici DFGP
-
-UDSC = Ufficio federale della dogana e della sicurezza dei confini
-
-SCTF = Servizio centrale svizzero in materia di tifoseria violenta
-
-E = Polizia municipale
-
-F = Posti di confine
-
-R = Polizia cantonale
+- L = leggere
+- A = aggiornare
+- E = eliminare
+- R-attivo = soltanto le persone e le sottocategorie di oggetti contro cui è pendente una misura al momento della consultazione
+- H = Settore Tifoseria violenta
+- CSI = Centro servizi informatici DFGP
+- UDSC = Ufficio federale della dogana e della sicurezza dei confini
+- E = Polizia municipale
+- F = Posti di confine
+- R = Polizia cantonale
 
 <table>
-<tr><td></td><td></td><td></td><td></td><td colspan="7">**Accesso integrale - HOOGAN Sistema operativo**</td><td colspan="2">**Accesso limitato a HOOGAN via RIPOL**</td></tr>
-<tr><td></td><td></td><td></td><td>**Servizio**</td><td>fedpol STF</td><td>fedpol STF</td><td>UDSC, Cantoni, SCTF</td><td>fedpol STF</td><td>fedpol STF, CSI</td><td>Cantoni, SCTF</td><td>SCTF</td><td colspan="2">Unità organizzative E, F, R</td></tr>
-<tr><td></td><td></td><td></td><td>**Scopo trattamento**</td><td>fedpol Analisi preliminare − −&gt;</td><td>fedpol Garanzia della qualità − −&gt;</td><td>Utente − −&gt;</td><td>Amminis tratore − −&gt;</td><td>Amministra tore tecnico − −&gt;</td><td>Collaboratore responsabile − −&gt;</td><td>Collaboratore responsabile SCTF − −&gt;</td><td>Utente via RIPOL</td><td>Amministratore utenti RIPOL</td></tr>
-<tr><td>**Settore dei dati**</td><td>**Campi di dati**</td><td>**Diritti di trattamento**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Persona</td><td>Generalità, indirizzo, misure, violazioni delle misure, evento legato alla persona, relazione</td><td colspan="2">inserire provvisoriamente</td><td>LAE</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LAE</td><td>LAE</td><td>-</td><td>-</td></tr>
-<tr><td></td><td></td><td colspan="2">verificare</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LA</td><td>-</td><td>-</td></tr>
-<tr><td></td><td></td><td colspan="2">inserire</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-<tr><td></td><td></td><td colspan="2">rifiutare</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LA</td><td>-</td><td>-</td></tr>
-<tr><td></td><td></td><td colspan="2">eliminare</td><td>-</td><td>LAE</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-<tr><td></td><td></td><td colspan="2">archiviare</td><td>-</td><td>LAE</td><td>-</td><td>LAE</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-<tr><td>Manifestazioni</td><td>Evento</td><td colspan="2">inserire</td><td>LAE</td><td>LAE</td><td>-</td><td>-</td><td>-</td><td>LAE</td><td>LAE</td><td>-</td><td>-</td></tr>
-<tr><td></td><td></td><td colspan="2">eliminare</td><td>-</td><td>LAE</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-<tr><td></td><td>Rapporto concernente una manifestazione sportiva</td><td colspan="2">inserire provvisoriamente</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LAE</td><td>LAE</td><td>-</td><td>-</td></tr>
-<tr><td></td><td></td><td colspan="2">verificare</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LA</td><td>-</td><td>-</td></tr>
-<tr><td></td><td></td><td colspan="2">inserire</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LA</td><td>-</td><td>-</td></tr>
-<tr><td></td><td></td><td colspan="2">rifiutare</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LA</td><td>-</td><td>-</td></tr>
-<tr><td></td><td></td><td colspan="2">eliminare</td><td>-</td><td>LAE</td><td>-</td><td>LAE</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-<tr><td>Persona/Manifestazione</td><td>Tutti i campi di dati</td><td colspan="2">Dati operativi</td><td>L</td><td>LA</td><td>L</td><td>L</td><td>-</td><td>L</td><td>L</td><td>R-attivo</td><td>-</td></tr>
-<tr><td></td><td></td><td colspan="2">Funzione</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2"></td><td colspan="2">Gestione dei dati di base</td><td>-</td><td>-</td><td>-</td><td>LAE</td><td>LAE</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Amministrazione utenti</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LAE</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="6">**Accesso integrale - HOOGAN Sistema operativo**</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2">**Accesso limitato a HOOGAN via RIPOL**</td></tr>
+<tr><td></td><td></td><td></td><td>**Servizio**</td><td>fedpol H</td><td>fedpol H</td><td>UDSC, Cantoni</td><td>fedpol H</td><td>fedpol H, CSI</td><td colspan="6">Cantoni</td><td colspan="3">Unità organizzative E, F, R</td></tr>
+<tr><td></td><td></td><td></td><td>**Scopo trattamento**</td><td>fedpol Analisi preliminare − −&gt;</td><td>fedpol Garanzia della qualità − −&gt;</td><td>Utente − −&gt;</td><td>Amministratore − −&gt;</td><td>Amministratore tecnico − −&gt;</td><td colspan="6">Collaboratore responsabile − −&gt;</td><td colspan="2">Utente via RIPOL</td><td>Amministratore utenti RIPOL</td></tr>
+<tr><td>**Settore dei dati**</td><td>**Campi di dati**</td><td>**Diritti di trattamento**</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="6"></td><td colspan="2"></td><td></td></tr>
+<tr><td>Persona</td><td>Generalità, indirizzo, misure, violazioni delle misure, evento legato alla persona, relazione</td><td colspan="2">inserire provvisoriamente</td><td>LAE</td><td>-</td><td>-</td><td>-</td><td>-</td><td colspan="6">LAE</td><td colspan="2">-</td><td>-</td></tr>
+<tr><td></td><td></td><td colspan="2">verificare</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td colspan="6">-</td><td colspan="2">-</td><td>-</td></tr>
+<tr><td></td><td></td><td colspan="2">inserire</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td colspan="6">-</td><td colspan="2">-</td><td>-</td></tr>
+<tr><td></td><td></td><td colspan="2">rifiutare</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td colspan="6">-</td><td colspan="2">-</td><td>-</td></tr>
+<tr><td></td><td></td><td colspan="2">eliminare</td><td>-</td><td>LAE</td><td>-</td><td>-</td><td>-</td><td colspan="6">-</td><td colspan="2">-</td><td>-</td></tr>
+<tr><td></td><td></td><td colspan="2">archiviare</td><td>-</td><td>LAE</td><td>-</td><td>LAE</td><td>-</td><td colspan="6">-</td><td colspan="2">-</td><td>-</td></tr>
+<tr><td>Manifestazioni</td><td>Evento</td><td colspan="2">inserire</td><td>LAE</td><td>LAE</td><td>-</td><td>-</td><td>-</td><td colspan="6">LAE</td><td colspan="2">-</td><td>-</td></tr>
+<tr><td></td><td></td><td colspan="2">eliminare</td><td>-</td><td>LAE</td><td>-</td><td>-</td><td>-</td><td colspan="6">-</td><td colspan="2">-</td><td>-</td></tr>
+<tr><td></td><td>Rapporto concernente una manifestazione sportiva</td><td colspan="2">inserire provvisoriamente</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td colspan="6">LAE</td><td colspan="2">-</td><td>-</td></tr>
+<tr><td></td><td></td><td colspan="2">verificare</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td colspan="6">-</td><td colspan="2">-</td><td>-</td></tr>
+<tr><td></td><td></td><td colspan="2">inserire</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td colspan="6">-</td><td colspan="2">-</td><td>-</td></tr>
+<tr><td></td><td></td><td colspan="2">rifiutare</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td colspan="6">-</td><td colspan="2">-</td><td>-</td></tr>
+<tr><td></td><td></td><td colspan="2">eliminare</td><td>-</td><td>LAE</td><td>-</td><td>LAE</td><td>-</td><td colspan="6">-</td><td colspan="2">-</td><td>-</td></tr>
+<tr><td>Persona / Manifestazione</td><td>Tutti i campi di dati</td><td colspan="2">Dati operativi</td><td>L</td><td>LA</td><td>L</td><td>L</td><td>-</td><td colspan="6">L</td><td colspan="2">R-attivo</td><td>-</td></tr>
+<tr><td></td><td></td><td colspan="2">Funzione</td><td></td><td></td><td></td><td></td><td></td><td colspan="6"></td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">Gestione dei dati di base</td><td>-</td><td>-</td><td>-</td><td>LAE</td><td>LAE</td><td colspan="6">-</td><td colspan="2">-</td><td>-</td></tr>
+<tr><td colspan="2"></td><td colspan="2">Amministrazione utenti</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td colspan="6">-</td><td colspan="2">-</td><td>LAE</td></tr>
 </table>

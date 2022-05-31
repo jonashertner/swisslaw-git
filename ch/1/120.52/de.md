@@ -4,18 +4,18 @@ title: Verordnung vom 4. Dezember 2009 über verwaltungspolizeiliche Massnahmen 
 short: VVMH
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/847"
 language: de
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2009-12-04
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/847/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2009-847-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/847/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2009-847-20220601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über verwaltungspolizeiliche Massnahmen des Bundesamtes für Polizei und über das Informationssystem HOOGAN (VVMH)****
+# Verordnung über verwaltungspolizeiliche Massnahmen des Bundesamtes für Polizei und über das Informationssystem HOOGAN (VVMH)
 
-vom 4. Dezember 2009 (Stand am 1. Januar 2022)[^t-1]
+vom 4. Dezember 2009 (Stand am 1. Juni 2022)[^t-1]
 
 [^t-1]: Fassung gemäss Beilage 2 Ziff. 1 der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
@@ -38,7 +38,7 @@ Diese Verordnung regelt:
 
 - a. die Durchführung verwaltungspolizeilicher Massnahmen, gestützt auf das BWIS, durch das Bundesamt für Polizei (fedpol);
 - b. das Informationssystem HOOGAN von fedpol;
-- c. ...[^1-1]
+- c. …[^1-1]
 
 [^1-1]: Aufgehoben durch Beilage 2 Ziff. 1 der V vom 21. Nov. 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
@@ -104,13 +104,13 @@ Gewalttätiges Verhalten und Gewalttätigkeiten liegen namentlich vor, wenn eine
 Als Nachweis gewalttätigen Verhaltens gelten:
 
 - a. entsprechende Gerichtsurteile oder polizeiliche Anzeigen;
-- b. glaubwürdige Aussagen oder Bildaufnahmen der Polizei, des Bundesamts für Zoll und Grenzsicherheit[^5-1], des Sicherheitspersonals oder der Sportverbände und ‑vereine;
+- b.[^5-1] glaubwürdige Aussagen oder Bildaufnahmen der Polizei, des Bundesamts für Zoll und Grenzsicherheit (BAZG), des Sicherheitspersonals oder der Sportverbände und ‑vereine;
 - c. Stadionverbote der Sportverbände oder ‑vereine;
 - d. Meldungen einer zuständigen ausländischen Behörde.
 
 <sup>2</sup> Aussagen nach Absatz 1 Buchstabe b sind schriftlich festzuhalten und zu unterzeichnen.
 
-[^5-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^5-1]: Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 6
 
@@ -160,13 +160,16 @@ Dass eine Person sich anlässlich einer Sportveranstaltung in einem bestimmten L
 
 <sup>6</sup>
 
-Besteht gegen eine Person kein kantonales Rayonverbot wegen Gewalt anlässlich von Sportveranstaltungen, so ist eine Ausreisebeschränkung begründet, wenn konkrete und aktuelle Tatsachen vorliegen, dass:
+Besteht gegen eine Person weder ein Rayonverbot noch eine Meldeauflage wegen Gewalt anlässlich von Sportveranstaltungen, so ist eine Ausreisebeschränkung begründet, wenn konkrete und aktuelle Tatsachen vorliegen, dass:[^7-1]
 
 - a. die Person nach Informationen ausländischer Polizeistellen im Ausland gewalttätig gewesen ist;
 - b. die Person Mitglied einer Gruppierung ist, die schon mehrfach an Gewalttätigkeiten im In- oder Ausland beteiligt war; und
 - c. als gesichert erscheint, dass die Person oder die Gruppierung beabsichtigt, an einen bestimmten Sportanlass im Ausland zu reisen.
 
-<sup>7</sup> Zusätzlich zur Ausschreibung im automatisierten Polizeifahndungssystem (RIPOL) wird die verfügte Ausreisebeschränkung den Grenzbehörden sowie den zuständigen Zoll- und Polizeibehörden im Ausland mitgeteilt.
+<sup>7</sup> Zusätzlich zur Ausschreibung im automatisierten Polizeifahndungssystem (RIPOL) wird die verfügte Ausreisebeschränkung dem BAZG, den Polizeibehörden der Kantone sowie den zuständigen Zoll- und Polizeibehörden im Ausland mitgeteilt.[^7-2]
+
+[^7-1]: Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^7-2]: Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 7a
 
@@ -202,24 +205,23 @@ Auf HOOGAN haben die folgenden Behörden ausschliesslich zu den folgenden Zwecke
 
   die folgenden Stellen innerhalb von fedpol:
 
-  - 1\.[^9-1] die Sektion Hooliganismus: für den Betrieb von HOOGAN, das Verfügen von Ausreisebeschränkungen, für den gesetzlich vorgesehenen Informationsaustausch sowie für Analyse- und Lagebeurteilungen,
+  - 1\.[^9-1] der Bereich Hooliganismus: für den Betrieb von HOOGAN, für das Verfügen von Ausreisebeschränkungen, für den gesetzlich vorgesehenen Informationsaustausch sowie für Analyse- und Lagebeurteilungen,
   - 2\. die Einsatzzentrale von fedpol: zur Personenidentifikation im Zusammenhang mit Gewalt an Sportveranstaltungen,
   - 3\. die oder der Datenschutz- und Informationsschutzbeauftragte von fedpol: für die Bearbeitung der Auskunfts- und Löschgesuche für HOOGAN;
 
 - b. die für die Verhinderung von Gewalt an Sportveranstaltungen verantwortlichen Mitarbeiter und Mitarbeiterinnen der Polizeibehörden der Kantone: für den Erlass von Rayonverboten, Meldeauflagen und Polizeigewahrsam, für die Analyse- und Lagebeurteilung und die Weitergabe von Personendaten an Organisatoren von Sportveranstaltungen in der Schweiz;
 - c. die Dienststellen der Polizeibehörden der Kantone: zur Personenidentifikation im Zusammenhang mit Gewalt an Sportveranstaltungen;
-- d. die Dienststellen des Grenzwachtkorps (GWK) des BAZG: zum Vollzug von Ausreisebeschränkungen und von Einreiseverboten;
-- e. die Dienststellen der Schweizerischen Zentralstelle Hooliganismus (SZH): zur Vorprüfung der eingegangenen Meldungen über Stadionverbote und Sportveranstaltungsberichte der Organisatoren von Sportveranstaltungen sowie zur Beantragung von Ausreisebeschränkungen, Rayonverboten und Meldeauflagen.
+- d.[^9-2] die für die Personenkontrolle eingesetzten Mitarbeiter und Mitarbeiterinnen des BAZG: zum Vollzug der Ausreisebeschränkungen und Einreiseverbote;
+- e. …[^9-3]
 
-<sup>2</sup> Für HOOGAN können Berechtigungen für Voll- und Kurzzugriffe erteilt werden. Der Vollzugriff ermöglicht das Lesen, das Erfassen, das Mutieren und das Löschen von Daten. Der Kurzzugriff ermöglicht nur das Lesen von jeweils aktiven Daten im konkreten Fall.[^9-2]
+<sup>2</sup> Für HOOGAN können Berechtigungen für Voll- und Kurzzugriffe erteilt werden. Der Vollzugriff ermöglicht das Lesen, das Erfassen, das Mutieren und das Löschen von Daten. Der Kurzzugriff ermöglicht nur das Lesen von jeweils aktiven Daten im konkreten Fall.[^9-4]
 
 <sup>3</sup>
 
 Über den Vollzugriff verfügen:
 
-- a.[^9-3] die Sektion Hooliganismus;
-- b. die SZH;
-- c. die für die Verhinderung von Gewalt an Sportveranstaltungen verantwortlichen Mitarbeiter und Mitarbeiterinnen der Polizeibehörden der Kantone und des GWK.
+- a. der Bereich Hooliganismus;
+- b. die für die Verhinderung von Gewalt an Sportveranstaltungen verantwortlichen Mitarbeiter und Mitarbeiterinnen der Polizeibehörden der Kantone und Gemeinden sowie die für die Personenkontrolle eingesetzten Mitarbeiter und Mitarbeiterinnen des BAZG.[^9-5]
 
 <sup>4</sup>
 
@@ -228,25 +230,29 @@ Auf HOOGAN haben die folgenden Behörden ausschliesslich zu den folgenden Zwecke
 - a. die Einsatzzentrale von fedpol;
 - b. die oder der Datenschutz- und Informationsschutzbeauftragte von fedpol;
 - c. die Polizeibehörden der Kantone;
-- d. das GWK.
+- d.[^9-6] die für die Personenkontrolle eingesetzten Mitarbeiter und Mitarbeiterinnen des BAZG.
 
-<sup>5</sup> Der Kurzzugriff der Polizeibehörden der Kantone und des GWK erfolgt via Schnittstelle im Informationssystem RIPOL.
+<sup>5</sup> Der Kurzzugriff der Polizeibehörden der Kantone und des BAZG erfolgt via Schnittstelle im RIPOL.[^9-7]
 
-<sup>6</sup> Die Datenfelder und Bearbeitungsrechte sind im Anhang aufgeführt.[^9-4]
+<sup>6</sup> Die Datenfelder und Bearbeitungsrechte sind im Anhang aufgeführt.[^9-8]
 
-<sup>7</sup> Die Behörden nach Absatz 1 stellen sicher, dass die Datenschutz- und Informatiksicherheitsbestimmungen eingehalten werden.[^9-5]
+<sup>7</sup> Die Behörden nach Absatz 1 stellen sicher, dass die Datenschutz- und Informatiksicherheitsbestimmungen eingehalten werden.[^9-9]
 
-<sup>8</sup> Die Leiterin oder der Leiter der Sektion Hooliganismus von fedpol oder deren oder dessen Stellvertreterin oder Stellvertreter entscheidet über individuelle Zugriffsanträge der Behörden nach Absatz 1.[^9-6]
+<sup>8</sup> Die Leiterin oder der Leiter des Bereichs Hooliganismus von fedpol oder deren oder dessen Stellvertreterin oder Stellvertreter entscheidet über individuelle Zugriffsanträge der Behörden nach Absatz 1.[^9-10]
 
-<sup>9</sup> Die Verantwortung für HOOGAN liegt bei der Sektion Hooliganismus.[^9-7]
+<sup>9</sup> Die Verantwortung für HOOGAN liegt beim Bereich Hooliganismus.[^9-11]
 
-[^9-1]: Fassung gemäss Ziff. I der V vom 14. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
-[^9-2]: Fassung gemäss Ziff. I der V vom 14. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
-[^9-3]: Fassung gemäss Ziff. I der V vom 14. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
+[^9-1]: Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-2]: Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-3]: Aufgehoben durch Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, mit Wirkung seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 [^9-4]: Fassung gemäss Ziff. I der V vom 14. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
-[^9-5]: Fassung gemäss Ziff. I der V vom 14. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
-[^9-6]: Fassung gemäss Ziff. I der V vom 14. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
-[^9-7]: Eingefügt durch Ziff. I der V vom 14. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
+[^9-5]: Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-6]: Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-7]: Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-8]: Fassung gemäss Ziff. I der V vom 14. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
+[^9-9]: Fassung gemäss Ziff. I der V vom 14. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
+[^9-10]: Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-11]: Eingefügt durch Ziff. I der V vom 14. Dez. 2012 ([AS 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)). Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 10
 
@@ -310,7 +316,7 @@ Fedpol regelt in einem Bearbeitungsreglement:
 [^13-2]: Fassung gemäss Anhang Ziff. 1 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^13-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
-## 5. Abschnitt: ...
+## 5. Abschnitt: …
 
 #### Art. 14–28
 
@@ -324,45 +330,47 @@ Fedpol regelt in einem Bearbeitungsreglement:
 
 Diese Verordnung tritt am 1. Januar 2010 in Kraft.
 
-*Anhang***[^t-2]**
+*Anhang*[^t-2]
 
 (Art. 9 Abs. 6)
 
 ## Datenfelder und Bearbeitungsrechte
 
-[^t-2]: Eingefügt durch Ziff. II der V vom 14. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
+[^t-2]: Eingefügt durch Ziff. II der V vom 14. Dez. 2012 ([AS 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)). Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 <table>
-<tr><td>L</td><td>=</td><td colspan="14">Lesen</td></tr>
-<tr><td>A</td><td>=</td><td colspan="14">Aktualisieren</td></tr>
-<tr><td>V</td><td>=</td><td colspan="14">Vernichten</td></tr>
-<tr><td>R-Aktiv</td><td>=</td><td colspan="14">nur Personen und untergeordnete Objekte, gegen die im Zeitpunkt der Anfrage eine Massnahme verhängt ist</td></tr>
-<tr><td>SH</td><td>=</td><td colspan="14">Sektion Hooliganismus</td></tr>
-<tr><td>ISC</td><td>=</td><td colspan="14">Informatik Service Center EJPD</td></tr>
-<tr><td>BAZG</td><td>=</td><td colspan="14">Bundesamt für Zoll und Grenzsicherheit</td></tr>
-<tr><td>SZH</td><td>=</td><td colspan="14">Schweizerische Zentralstelle Hooliganismus</td></tr>
-<tr><td>E</td><td>=</td><td colspan="14">Städte-Polizei</td></tr>
-<tr><td>F</td><td>=</td><td colspan="14">Grenzstellen</td></tr>
-<tr><td>R</td><td>=</td><td colspan="14">Kantonale Polizei</td></tr>
-<tr><td colspan="3"></td><td></td><td></td><td></td><td colspan="7">**Vollzugriff auf HOOGAN im Bereich Produktion**</td><td colspan="2">**Kurzzugriff auf HOOGAN via RIPOL**</td></tr>
-<tr><td colspan="3"></td><td></td><td></td><td>**Dienststelle**</td><td>fedpol SH</td><td>fedpol SH</td><td>BAZG, Kantone, SZH</td><td>fedpol SH</td><td>fedpol SH, ISC</td><td>Kantone , SZH</td><td>SZH</td><td colspan="2">Organisations- einheiten E, F, R</td></tr>
-<tr><td colspan="3"></td><td></td><td></td><td>**Rolle**</td><td>fedpol Voranalyse − −&gt;</td><td>fedpol Quali- tätssicherung − −&gt;</td><td>Benutzer/in − −&gt;</td><td>Adminis- trator/in − −&gt;</td><td>technische/r Ad- ministrator/in − −&gt;</td><td>Sachbear- beiter/in − −&gt;</td><td>Sachbearbei- ter/in SZH − −&gt;</td><td>Benutzer/in via RIPOL</td><td>Benutzeradminis- trator/in RIPOL</td></tr>
-<tr><td colspan="3">**Datenbe****reiche**</td><td>**Datenfelder**</td><td>**Bearbeitungsrecht**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="3">Person</td><td>Personalien, Adresse, Massnahmen, Massnahmenverstösse, Personen Ereignis, Beziehung</td><td colspan="2">vorerfassen</td><td>LAV</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LAV</td><td>LAV</td><td>-</td><td>-</td></tr>
-<tr><td colspan="3"></td><td></td><td colspan="2">verifizieren</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LA</td><td>-</td><td>-</td></tr>
-<tr><td colspan="3"></td><td></td><td colspan="2">erfassen</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-<tr><td colspan="3"></td><td></td><td colspan="2">zurückweisen</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LA</td><td>-</td><td>-</td></tr>
-<tr><td colspan="3"></td><td></td><td colspan="2">vernichten</td><td>-</td><td>LAV</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-<tr><td colspan="3"></td><td></td><td colspan="2">archivieren</td><td>-</td><td>LAV</td><td>-</td><td>LAV</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-<tr><td colspan="3">Veranstaltungen</td><td>Ereignis</td><td colspan="2">erfassen</td><td>LAV</td><td>LAV</td><td>-</td><td>-</td><td>-</td><td>LAV</td><td>LAV</td><td>-</td><td>-</td></tr>
-<tr><td colspan="3"></td><td></td><td colspan="2">vernichten</td><td>-</td><td>LAV</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-<tr><td colspan="3"></td><td>Sportveranstaltungsbericht</td><td colspan="2">vorerfassen</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LAV</td><td>LAV</td><td>-</td><td>-</td></tr>
-<tr><td colspan="3"></td><td></td><td colspan="2">verifizieren</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LA</td><td>-</td><td>-</td></tr>
-<tr><td colspan="3"></td><td></td><td colspan="2">erfassen</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LA</td><td>-</td><td>-</td></tr>
-<tr><td colspan="3"></td><td></td><td colspan="2">zurückweisen</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LA</td><td>-</td><td>-</td></tr>
-<tr><td colspan="3"></td><td></td><td colspan="2">vernichten</td><td>-</td><td>LAV</td><td>-</td><td>LAV</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-<tr><td colspan="3">Person / Veranstaltung</td><td>Alle Datenfelder</td><td colspan="2">operative Daten</td><td>L</td><td>LA</td><td>L</td><td>L</td><td>-</td><td>L</td><td>L</td><td>R-Aktiv</td><td>-</td></tr>
-<tr><td colspan="3"></td><td></td><td colspan="2">Funktion</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="4"></td><td colspan="2">Stammdatenverwaltung</td><td>-</td><td>-</td><td>-</td><td>LAV</td><td>LAV</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-<tr><td colspan="4"></td><td colspan="2">Benutzeradministration</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LAV</td></tr>
+<tr><td>L</td><td>=</td><td>Lesen</td></tr>
+<tr><td>A</td><td>=</td><td>Aktualisieren</td></tr>
+<tr><td>V</td><td>=</td><td>Vernichten</td></tr>
+<tr><td>R-Aktiv</td><td>=</td><td>nur Personen und untergeordnete Objekte, gegen die im Zeitpunkt der Anfrage eine Massnahme verhängt ist</td></tr>
+<tr><td>H</td><td>=</td><td>Bereich Hooliganismus</td></tr>
+<tr><td>ISC</td><td>=</td><td>Informatik Service Center EJPD</td></tr>
+<tr><td>BAZG</td><td>=</td><td>Bundesamt für Zoll und Grenzsicherheit</td></tr>
+<tr><td>E</td><td>=</td><td>Städte-Polizei</td></tr>
+<tr><td>F</td><td>=</td><td>Grenzstellen</td></tr>
+<tr><td>R</td><td>=</td><td>Kantonale Polizei</td></tr>
+</table>
+
+<table>
+<tr><td></td><td></td><td></td><td></td><td colspan="6">**Vollzugriff auf HOOGAN im Bereich Produktion**</td><td></td><td></td><td></td><td></td><td></td><td colspan="2">**Kurzzugriff** **auf HOOGAN** **via RIPOL**</td></tr>
+<tr><td></td><td></td><td></td><td>**Dienststelle**</td><td>fedpol H</td><td>fedpol H</td><td>BAZG, Kantone</td><td>fedpol H</td><td>fedpol H, ISC</td><td colspan="6">Kantone</td><td colspan="2">Organisationseinheiten E, F, R</td></tr>
+<tr><td></td><td></td><td></td><td>**Rolle**</td><td>fedpol Voranalyse − −&gt;</td><td>fedpol Qualitätssicherung − −&gt;</td><td>Benutzer/in − −&gt;</td><td>Administrator/in − −&gt;</td><td>technische/r Administrator/in − −&gt;</td><td colspan="6">Sachbearbeiter/in − −&gt;</td><td>Benutzer/in via RIPOL</td><td>Benutzeradministrator/in RIPOL</td></tr>
+<tr><td>**Datenbereiche**</td><td>**Datenfelder**</td><td>**Bearbeitungsrecht**</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="6"></td><td></td><td></td></tr>
+<tr><td>Person</td><td>Personalien, Adresse, Massnahmen, Massnahmenverstösse, Personenereignis, Beziehung</td><td colspan="2">vorerfassen</td><td>LAV</td><td>-</td><td>-</td><td>-</td><td>-</td><td colspan="6">LAV</td><td>-</td><td>-</td></tr>
+<tr><td></td><td></td><td colspan="2">verifizieren</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td colspan="6">-</td><td>-</td><td>-</td></tr>
+<tr><td></td><td></td><td colspan="2">erfassen</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td colspan="6">-</td><td>-</td><td>-</td></tr>
+<tr><td></td><td></td><td colspan="2">zurückweisen</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td colspan="6">-</td><td>-</td><td>-</td></tr>
+<tr><td></td><td></td><td colspan="2">vernichten</td><td>-</td><td>LAV</td><td>-</td><td>-</td><td>-</td><td colspan="6">-</td><td>-</td><td>-</td></tr>
+<tr><td></td><td></td><td colspan="2">archivieren</td><td>-</td><td>LAV</td><td>-</td><td>LAV</td><td>-</td><td colspan="6">-</td><td>-</td><td>-</td></tr>
+<tr><td>Veranstaltungen</td><td>Ereignis</td><td colspan="2">erfassen</td><td>LAV</td><td>LAV</td><td>-</td><td>-</td><td>-</td><td colspan="6">LAV</td><td>-</td><td>-</td></tr>
+<tr><td></td><td></td><td colspan="2">vernichten</td><td>-</td><td>LAV</td><td>-</td><td>-</td><td>-</td><td colspan="6">-</td><td>-</td><td>-</td></tr>
+<tr><td></td><td>Sportveranstaltungsbericht</td><td colspan="2">vorerfassen</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td colspan="6">LAV</td><td>-</td><td>-</td></tr>
+<tr><td></td><td></td><td colspan="2">verifizieren</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td colspan="6">-</td><td>-</td><td>-</td></tr>
+<tr><td></td><td></td><td colspan="2">erfassen</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td colspan="6">-</td><td>-</td><td>-</td></tr>
+<tr><td></td><td></td><td colspan="2">zurückweisen</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td colspan="6">-</td><td>-</td><td>-</td></tr>
+<tr><td></td><td></td><td colspan="2">vernichten</td><td>-</td><td>LAV</td><td>-</td><td>LAV</td><td>-</td><td colspan="6">-</td><td>-</td><td>-</td></tr>
+<tr><td>Person / Veranstaltung</td><td>Alle Datenfelder</td><td colspan="2">operative Daten</td><td>L</td><td>LA</td><td>L</td><td>L</td><td>-</td><td colspan="6">L</td><td>R-Aktiv</td><td>-</td></tr>
+<tr><td></td><td></td><td colspan="2">Funktion</td><td></td><td></td><td></td><td></td><td></td><td colspan="6"></td><td></td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">Stammdatenverwaltung</td><td>-</td><td>-</td><td>-</td><td>LAV</td><td>LAV</td><td colspan="6">-</td><td>-</td><td>-</td></tr>
+<tr><td colspan="2"></td><td colspan="2">Benutzeradministration</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td colspan="6">-</td><td>-</td><td>LAV</td></tr>
 </table>
