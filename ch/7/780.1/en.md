@@ -4,11 +4,11 @@ title: Federal Act of 18 March 2016 on the Surveillance of Post and Telecommunic
 short: SPTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/31"
 language: en
-version: 2022-05-01
+version: 2022-06-01
 adopted: 2016-03-18
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20220501/en/xml/fedlex-data-admin-ch-eli-cc-2018-31-20220501-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220501/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20220601/en/xml/fedlex-data-admin-ch-eli-cc-2018-31-20220601-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220601/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (SPTA)
 
-of 18 March 2016 (Status as of 1 May 2022)
+of 18 March 2016 (Status as of 1 June 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -44,13 +44,16 @@ This Act applies to the surveillance of post and telecommunications ordered and 
 - b. in execution of a request for mutual legal assistance;
 - c. in the search for missing persons;
 - d. in tracing persons on whom a custodial sentence or custodial measure has been imposed;
-- e.[^1-1] within the scope of the Intelligence Service Act of 25 September 2015[^1-2] (IntelSA).
+- e.[^1-1] within the scope of the Intelligence Service Act of 25 September 2015[^1-2] (IntelSA);
+- f.[^1-3] in the course of mobile phone localisation in accordance with the Federal Act of 21 March 1997[^1-4] on Measures to Safeguard Internal Security (ISA).
 
-<sup>2</sup> For information on payment transactions subject to the Postal Services Act of 17 December 2010[^1-3] (PostA), the provisions on the duties to testify and to provide information to an authority apply.
+<sup>2</sup> For information on payment transactions subject to the Postal Services Act of 17 December 2010[^1-5] (PostA), the provisions on the duties to testify and to provide information to an authority apply.
 
 [^1-1]: See Art. 46 No 1.
 [^1-2]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^1-3]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^1-3]: Inserted by No I 13 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^1-4]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^1-5]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
 
 #### Art.2
 
@@ -167,6 +170,8 @@ In the case of data collected in the course of criminal proceedings or in connec
 
 <sup>2</sup> <sup>bis</sup> The right to information on the data collected in implementing the IntelSA[^10-3] is governed by the IntelSA.[^10-4]
 
+<sup>2ter</sup> The right to information about data that is collected in the course of mobile phone localisation in accordance with Article 23*q* paragraph 3 ISA[^10-5] is governed by the FDAP where a federal authority is dealing with the surveillance, or by cantonal law where a cantonal authority is dealing with it.[^10-6]
+
 <sup>3</sup> The person affected by surveillance may assert his or her rights against the authority responsible for the proceedings or, if there is no authority that is still responsible for the proceedings, against the last authority responsible. The Service is not responsible for providing the information.
 
 <sup>4</sup> The Federal Council shall regulate the manner in which these rights are granted. In doing so, it shall guarantee the rights of the parties concerned, in particular in cases where making copies of the case files is impossible or only possible with disproportionate effort.
@@ -175,6 +180,8 @@ In the case of data collected in the course of criminal proceedings or in connec
 [^10-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 [^10-3]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^10-4]: See Art. 46 No 1.
+[^10-5]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^10-6]: Inserted by No I 13 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art.11
 
@@ -190,12 +197,17 @@ In the case of data collected in the course of criminal proceedings or in connec
 
 <sup>4bis</sup> The data collected in implementing the IntelSA[^11-1] shall be retained in the processing system for as long as necessary for the objective pursued, but no longer than 30 years after conclusion of surveillance.[^11-2]
 
-<sup>5</sup> The authority responsible for the proceedings or, if if there is no authority that is still responsible for the proceedings any longer, the last authority responsible is responsible for compliance with the periods laid down in paragraphs 1–4. It shall inform the Service before expiry of the retention period as to what is to be done with the data under the applicable law prior to its deletion from the system. Thirty years after conclusion of surveillance, the Service shall request the authority to clarify what is to be done with the data still available in the system.
+<sup>4ter</sup> The data collected in the course of mobile phone localisation in accordance with Article 23*q* paragraph 3 ISA[^11-3] shall be retained in the processing system after conclusion of surveillance for a maximum of 100 days. If there is a specific reason to assume that the data will be required in criminal proceedings, the retention period is governed by the applicable rules of criminal procedure.[^11-4]
+
+<sup>5</sup> The authority responsible for the proceedings or, if if there is no authority that is still responsible for the proceedings any longer, the last authority responsible is responsible for compliance with the periods laid down in paragraphs 1–4<sup>ter</sup>.[^11-5] It shall inform the Service before expiry of the retention period as to what is to be done with the data under the applicable law prior to its deletion from the system. Thirty years after conclusion of surveillance, the Service shall request the authority to clarify what is to be done with the data still available in the system.
 
 <sup>6</sup> The Federal Council shall specify how compliance with the retention periods is to be guaranteed; it shall regulate the details of the information according to paragraph 5.
 
 [^11-1]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^11-2]: See Art. 46 No 1.
+[^11-3]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^11-4]: Inserted by No I 13 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^11-5]: Amended by No I 13 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art.12
 
@@ -277,7 +289,7 @@ In relation to surveillance of post and telecommunications, the Service has the 
   It shall contact the ordering authority and the approving authority immediately before post or information is passed on to the ordering authority if, in its opinion, the surveillance order:
 
   - 1\. in the case of surveillance in the course of criminal proceedings, does not concern a criminal offence for which surveillance is permitted under the applicable law;
-  - 2\.[^16-1] has not been issued by the competent authority or, pursuant to Articles 29 - – 31 IntelSA[^16-2], has not been approved and granted permission to proceed; or
+  - 2\.[^16-1] has not been issued by the competent authority or, pursuant to Articles 29–31 IntelSA[^16-2], has not been approved and granted permission to proceed; or
   - 3\. is incomplete or unclear.
 
 - b. It shall contact the ordering authority and the approving authority immediately if, in its opinion, the surveillance is technically inappropriate, does not correspond to the surveillance types provided for by law or in the implementing provisions or is not technically feasible.

@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. März 2016 betreffend die Überwachung des Post- und
 short: BÜPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/31"
 language: de
-version: 2022-05-01
+version: 2022-06-01
 adopted: 2016-03-18
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2018-31-20220501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2018-31-20220601-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220501/de"
 
 (BÜPF)
 
-vom 18. März 2016 (Stand am 1. Mai 2022)
+vom 18. März 2016 (Stand am 1. Juni 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -41,14 +41,17 @@ Dieses Gesetz gilt für die Überwachung des Post- und Fernmeldeverkehrs, die an
 - a. im Rahmen eines Strafverfahrens;
 - b. zum Vollzug eines Rechtshilfeersuchens;
 - c. im Rahmen der Suche nach vermissten Personen;
-- d. im Rahmen der Fahndung nach Personen, die zu einer Freiheitsstrafe verurteilt wurden oder gegen die eine freiheitsentziehende Massnahme angeordnet wurde.;
-- e.[^1-1] im Rahmen des Vollzugs des Nachrichtendienstgesetzes vom 25. September 2015[^1-2] (NDG).
+- d. im Rahmen der Fahndung nach Personen, die zu einer Freiheitsstrafe verurteilt wurden oder gegen die eine freiheitsentziehende Massnahme angeordnet wurde;
+- e.[^1-1] im Rahmen des Vollzugs des Nachrichtendienstgesetzes vom 25. September 2015[^1-2] (NDG);
+- f.[^1-3] im Rahmen von Mobilfunklokalisierungen nach dem Bundesgesetz vom 21. März 1997[^1-4] über Massnahmen zur Wahrung der inneren Sicherheit (BWIS).
 
-<sup>2</sup> Für Auskünfte über den Zahlungsverkehr, der dem Postgesetz vom 17. Dezember 2010[^1-3] (PG) untersteht, gelten die Bestimmungen über die Zeugnispflicht und über die Auskunftspflicht gegenüber einer Behörde.
+<sup>2</sup> Für Auskünfte über den Zahlungsverkehr, der dem Postgesetz vom 17. Dezember 2010[^1-5] (PG) untersteht, gelten die Bestimmungen über die Zeugnispflicht und über die Auskunftspflicht gegenüber einer Behörde.
 
 [^1-1]: Siehe Art. 46 Ziff. 1
 [^1-2]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^1-3]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^1-3]: Eingefügt durch Ziff. I 13 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^1-4]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^1-5]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
 
 #### Art. 2
 
@@ -165,6 +168,8 @@ In Bezug auf Daten, welche im Rahmen eines Strafverfahrens oder im Rahmen des Vo
 
 <sup>2bis</sup> Das Recht auf Auskunft über die Daten, welche beim Vollzug des NDG[^10-3] gesammelt wurden, richtet sich nach dem NDG.[^10-4]
 
+<sup>2ter</sup> Das Recht auf Auskunft über die Daten, die im Rahmen von Mobilfunklokalisierungen nach Artikel 23*q* Absatz 3 BWIS[^10-5] gesammelt wurden, richtet sich nach dem DSG, wenn eine Bundesbehörde mit der Überwachung befasst ist, oder nach kantonalem Recht, wenn eine kantonale Behörde damit befasst ist.[^10-6]
+
 <sup>3</sup> Die von einer Überwachung betroffene Person kann ihre Rechte gegenüber der mit dem Verfahren befassten Behörde geltend machen oder, wenn keine Behörde mehr mit dem Verfahren befasst ist, gegenüber der letzten damit befassten Behörde. Der Dienst ist nicht zuständig für die Auskunftserteilung.
 
 <sup>4</sup> Der Bundesrat regelt, auf welche Art diese Rechte gewährt werden. Dabei garantiert er die Parteirechte insbesondere in den Fällen, in denen die Anfertigung von Kopien der Akten unmöglich oder nur mit einem unverhältnismässigen Aufwand möglich ist.
@@ -173,6 +178,8 @@ In Bezug auf Daten, welche im Rahmen eines Strafverfahrens oder im Rahmen des Vo
 [^10-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 [^10-3]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^10-4]: Siehe Art. 46 Ziff. 1
+[^10-5]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^10-6]: Eingefügt durch Ziff. I 13 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 11
 
@@ -188,12 +195,17 @@ In Bezug auf Daten, welche im Rahmen eines Strafverfahrens oder im Rahmen des Vo
 
 <sup>4bis</sup> Die im Rahmen des Vollzugs des NDG[^11-1] gesammelten Daten sind im Verarbeitungssystem so lange aufzubewahren, wie es für das verfolgte Ziel erforderlich ist, längstens aber 30 Jahre nach Abschluss der Überwachung.[^11-2]
 
-<sup>5</sup> Die mit dem Verfahren befasste Behörde oder, wenn keine Behörde mehr mit dem Verfahren befasst ist, die letzte damit befasste Behörde ist für die Einhaltung der in den Absätzen 1–4 genannten Fristen verantwortlich. Sie informiert den Dienst vor Ablauf der Aufbewahrungsfrist darüber, wie mit den Daten gestützt auf das anwendbare Recht vor der Löschung im System zu verfahren ist. 30 Jahre nach Abschluss einer Überwachung erkundigt sich der Dienst bei der vorgenannten Behörde, um zu klären, wie mit den im System noch vorhandenen Daten zu verfahren ist.
+<sup>4ter</sup> Die im Rahmen von Mobilfunklokalisierungen nach Artikel 23*q* Absatz 3 BWIS[^11-3] gesammelten Daten sind im Verarbeitungssystem nach Abschluss der Überwachung während höchstens 100 Tagen aufzubewahren. Besteht ein konkreter Grund zur Annahme, dass sie in einem Strafverfahren benötigt werden, so richtet sich die Aufbewahrungsfrist nach den Regeln des anwendbaren Strafverfahrensrechts.[^11-4]
+
+<sup>5</sup> Die mit dem Verfahren befasste Behörde oder, wenn keine Behörde mehr mit dem Verfahren befasst ist, die letzte damit befasste Behörde ist für die Einhaltung der in den Absätzen 1–4<sup>ter</sup> genannten Fristen verantwortlich.[^11-5] Sie informiert den Dienst vor Ablauf der Aufbewahrungsfrist darüber, wie mit den Daten gestützt auf das anwendbare Recht vor der Löschung im System zu verfahren ist. 30 Jahre nach Abschluss einer Überwachung erkundigt sich der Dienst bei der vorgenannten Behörde, um zu klären, wie mit den im System noch vorhandenen Daten zu verfahren ist.
 
 <sup>6</sup> Der Bundesrat regelt näher, wie die Einhaltung der Fristen zu gewährleisten ist; er regelt die Einzelheiten der Information nach Absatz 5.
 
 [^11-1]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^11-2]: Siehe Art. 46 Ziff. 1
+[^11-3]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^11-4]: Eingefügt durch Ziff. I 13 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^11-5]: Fassung gemäss Ziff. I 13 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 12
 

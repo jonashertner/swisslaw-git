@@ -4,18 +4,18 @@ title: Legge federale del 18 marzo 2016 sulla sorveglianza della corrispondenza 
 short: LSCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/31"
 language: it
-version: 2022-05-01
+version: 2022-06-01
 adopted: 2016-03-18
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20220501/it/xml/fedlex-data-admin-ch-eli-cc-2018-31-20220501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2018-31-20220601-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (LSCPT)
 
-del 18 marzo 2016 (Stato 1° maggio 2022) (Stato 1° maggio 2022)
+del 18 marzo 2016 (Stato 1° giugno 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -40,13 +40,16 @@ La presente legge si applica alla sorveglianza della corrispondenza postale e de
 - b. per l’esecuzione di una domanda di assistenza giudiziaria;
 - c. nell’ambito della ricerca di persone scomparse;
 - d. nell’ambito della ricerca di persone condannate a una pena detentiva o nei cui confronti è stata ordinata una misura privativa della libertà;
-- e.[^1-1] nell’ambito dell’esecuzione della legge federale del 25 settembre 2015[^1-2] sulle attività informative (LAIn).
+- e.[^1-1] nell’ambito dell’esecuzione della legge federale del 25 settembre 2015[^1-2] sulle attività informative (LAIn);
+- f.[^1-3] nell’ambito delle localizzazioni tramite telefonia mobile ai sensi della legge federale del 21 marzo 1997[^1-4] sulle misure per la salvaguardia della sicurezza interna (LMSI).
 
-<sup>2</sup> Alle informazioni concernenti il traffico dei pagamenti soggetto alla legge del 17 dicembre 2010[^1-3] sulle poste (LPO) si applicano le disposizioni sull’obbligo di testimoniare e sull’obbligo di informare l’autorità.
+<sup>2</sup> Alle informazioni concernenti il traffico dei pagamenti soggetto alla legge del 17 dicembre 2010[^1-5] sulle poste (LPO) si applicano le disposizioni sull’obbligo di testimoniare e sull’obbligo di informare l’autorità.
 
 [^1-1]: Vedi art. 46 n. 1.
 [^1-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^1-3]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^1-3]: Introdotta dal n. I 13 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^1-4]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^1-5]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
 
 #### Art. 2
 
@@ -160,6 +163,7 @@ Per quanto concerne i dati raccolti nell’ambito di un procedimento penale o pe
 - b. il diritto d’accesso ai dati dopo la chiusura del procedimento è retto dalla legge federale del 19 giugno 1992[^10-1] sulla protezione dei dati (LPD) se l’autorità incaricata della domanda di assistenza giudiziaria è un’autorità federale o dal diritto cantonale se è un’autorità cantonale.
 - [tab] <sup>2</sup> Il diritto d’accesso ai dati raccolti nell’ambito della ricerca di persone scomparse o di condannati è retto dalla LPD se l’autorità incaricata della ricerca è un’autorità federale o dal diritto cantonale se è un’autorità cantonale. L’articolo 279 CPP[^10-2] è applicabile per analogia.
 - [tab] <sup>2bis</sup> Il diritto d’accesso ai dati raccolti nell’ambito dell’esecuzione della LAIn[^10-3] è retto dalla LAIn.[^10-4]
+- [tab] <sup>2ter</sup> Il diritto d’accesso ai dati raccolti nell’ambito di localizzazioni tramite telefonia mobile ai sensi dell’articolo 23*q* capoverso 3 LMSI[^10-5] è retto dalla LPD se l’autorità incaricata della sorveglianza è un’autorità federale o dal diritto cantonale se è un’autorità cantonale.[^10-6]
 
 <sup>3</sup> La persona interessata dalla sorveglianza può far valere i suoi diritti presso l’autorità investita del procedimento o, se nessuna autorità ne è più investita, presso l’ultima che ne è stata investita. Il Servizio non è competente per accordare l’accesso ai dati.
 
@@ -169,6 +173,8 @@ Per quanto concerne i dati raccolti nell’ambito di un procedimento penale o pe
 [^10-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 [^10-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^10-4]: Vedi art. 46 n. 1.
+[^10-5]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^10-6]: Introdotto dal n. I 13 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 11
 
@@ -184,12 +190,17 @@ Per quanto concerne i dati raccolti nell’ambito di un procedimento penale o pe
 
 <sup>4bis</sup> I dati raccolti nell’ambito dell’esecuzione della LAIn[^11-1] sono conservati nel sistema di trattamento finché necessario per lo scopo perseguito, ma al massimo per 30 anni dalla fine della sorveglianza.[^11-2]
 
-<sup>5</sup> L’autorità investita del procedimento o, se nessuna autorità ne è più investita, l’ultima che ne è stata investita è responsabile del rispetto dei termini stabiliti nei capoversi 1–4. Prima della scadenza del termine di conservazione dei dati informa il Servizio su come procedere con i dati da eliminare dal sistema di trattamento conformemente al diritto applicabile. Trascorsi 30 anni dalla fine della sorveglianza, il Servizio si informa presso l’autorità menzionata su come procedere con i dati ancora presenti nel sistema.
+<sup>4ter</sup> I dati raccolti nell’ambito di localizzazioni tramite telefonia mobile ai sensi dell’articolo 23*q* capoverso 3 LMSI[^11-3] sono conservati nel sistema di trattamento al massimo per 100 giorni dalla fine della sorveglianza. Se sussiste un motivo concreto per ritenere che tali dati possano servire in un procedimento penale, il termine di conservazione è retto dalle disposizioni del diritto di procedura penale applicabile.[^11-4]
+
+<sup>5</sup> L’autorità investita del procedimento o, se nessuna autorità ne è più investita, l’ultima che ne è stata investita è responsabile del rispetto dei termini stabiliti nei capoversi 1–4<sup>ter</sup>.[^11-5] Prima della scadenza del termine di conservazione dei dati informa il Servizio su come procedere con i dati da eliminare dal sistema di trattamento conformemente al diritto applicabile. Trascorsi 30 anni dalla fine della sorveglianza, il Servizio si informa presso l’autorità menzionata su come procedere con i dati ancora presenti nel sistema.
 
 <sup>6</sup> Il Consiglio federale precisa le modalità del rispetto dei termini e stabilisce le modalità dell’informazione secondo il capoverso 5.
 
 [^11-1]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^11-2]: Vedi art. 46 n. 1.
+[^11-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^11-4]: Introdotto dal n. I 13 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^11-5]: Nuovo testo giusta il n. I 13 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 12
 
@@ -355,7 +366,7 @@ I fornitori di servizi di telecomunicazione trasmettono al Servizio le indicazio
 
 <sup>2</sup> I fornitori di servizi di telecomunicazione assicurano che tali indicazioni siano rilevate all’inizio della relazione commerciale e che possano essere trasmesse finché la relazione dura, nonché durante sei mesi dopo il suo termine. Il Consiglio federale stabilisce che i fornitori di servizi di telecomunicazione devono conservare e trasmettere determinati dati ai fini dell’identificazione soltanto durante sei mesi.
 
-[^21-1]: Nuovo testo giusta l’all. n. 4 LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^21-1]: Nuovo testo giusta l’all. n. 4 della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^21-2]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
 
 #### Art. 22
@@ -724,5 +735,5 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ... [^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[RU 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467), [2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417)n. I 2, [2004 3693](https://fedlex.data.admin.ch/eli/oc/2004/511), [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)all. n. 3, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. II 26 [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)all. n. II 14, [2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)all. n. II 12]
+[^annexu1-lvlu1-1]: [[RU 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); [2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417)n. I 2; [2004 3693](https://fedlex.data.admin.ch/eli/oc/2004/511); [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)all. n. 3; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. II 26, [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)all. n. II 14; [2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)all. n. II 12]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31).

@@ -4,11 +4,11 @@ title: Loi fédérale du 18 mars 2016 sur la surveillance de la correspondance p
 short: LSCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/31"
 language: fr
-version: 2022-05-01
+version: 2022-06-01
 adopted: 2016-03-18
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-2018-31-20220501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2018-31-20220601-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220501/fr"
 
 (LSCPT)[^t-1]
 
-du 18 mars 2016 (Etat le 1<sup>er</sup> mai 2022)
+du 18 mars 2016 (Etat le 1<sup>er</sup> juin 2022)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -44,13 +44,16 @@ La présente loi s’applique à la surveillance de la correspondance par poste 
 - b. lors de l’exécution d’une demande d’entraide judiciaire;
 - c. dans le cadre de la recherche de personnes disparues;
 - d. dans le cadre de la recherche de personnes condamnées à une peine privative de liberté ou qui font l’objet d’une mesure entraînant une privation de liberté;
-- e.[^1-1] dans le cadre de l’exécution de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^1-2].
+- e.[^1-1] dans le cadre de l’exécution de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^1-2];
+- f.[^1-3] dans le cadre des localisations par téléphonie mobile visées par la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure (LMSI)[^1-4].
 
-<sup>2</sup> Les renseignements sur les services de paiement soumis à la loi du 17 décembre 2010 sur la poste (LPO)[^1-3] sont régis par les dispositions sur l’obligation de témoigner et sur l’obligation de renseigner les autorités.
+<sup>2</sup> Les renseignements sur les services de paiement soumis à la loi du 17 décembre 2010 sur la poste (LPO)[^1-5] sont régis par les dispositions sur l’obligation de témoigner et sur l’obligation de renseigner les autorités.
 
 [^1-1]: Voir art. 46 ch. 1
 [^1-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^1-3]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^1-3]: Introduite par le ch. I 13 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^1-4]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^1-5]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
 
 #### Art. 2
 
@@ -167,6 +170,8 @@ En ce qui concerne les données collectées dans le cadre d’une procédure pé
 
 <sup>2bis</sup> Le droit d’obtenir des renseignements relatifs aux données collectées dans le cadre de l’exécution de la LRens[^10-3] est régi par la LRens.[^10-4]
 
+<sup>2ter</sup> Le droit d’accès aux données collectées dans le cadre des localisations par téléphonie mobile visées à l’art. 23*q*, al. 3, LMSI[^10-5] est régi par la LPD si l’autorité en charge de la surveillance est une autorité fédérale, ou par le droit cantonal si cette autorité est une autorité cantonale.[^10-6]
+
 <sup>3</sup> La personne concernée par une surveillance fait valoir ses droits auprès de l’autorité en charge de la procédure ou, si aucune ne l’est plus, auprès de la dernière à l’avoir été. Le Service n’est pas compétent pour octroyer l’accès aux données.
 
 <sup>4</sup> Le Conseil fédéral règle la manière dont ces droits sont garantis. Il garantit les droits des parties, en particulier dans les cas où il n’est pas possible de délivrer une copie du dossier ou lorsque cela nécessite un travail disproportionné.
@@ -175,6 +180,8 @@ En ce qui concerne les données collectées dans le cadre d’une procédure pé
 [^10-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 [^10-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^10-4]: Voir art. 46 ch. 1
+[^10-5]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^10-6]: Introduit par le ch. I 13 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 11
 
@@ -190,12 +197,17 @@ En ce qui concerne les données collectées dans le cadre d’une procédure pé
 
 <sup>4bis</sup> Les données collectées dans le cadre de l’exécution de la LRens[^11-1] sont conservées dans le système de traitement aussi longtemps que le but poursuivi l’exige, mais trente ans au plus depuis la fin de la surveillance.[^11-2]
 
-<sup>5</sup> L’autorité en charge de la procédure ou, si aucune ne l’est plus, la dernière à l’avoir été est responsable du respect des délais fixés aux al. 1 à 4. Avant l’expiration du délai de conservation des données, elle informe le Service du sort devant leur être donné en vertu du droit applicable avant d’être supprimées du système. Trente ans après la fin d’une surveillance, le Service s’enquiert auprès de l’autorité précitée du sort à réserver aux données figurant encore dans le système.
+<sup>4ter</sup> Les données collectées dans le cadre des localisations par téléphonie mobile visées à l’art. 23*q*, al. 3, LMSI[^11-3] doivent être conservées dans le système de traitement 100 jours au plus après la fin de la surveillance. S’il existe une raison concrète de penser qu’elles serviront dans une procédure pénale, le délai de conservation dépend des règles du droit de la procédure pénale applicable.[^11-4]
+
+<sup>5</sup> L’autorité en charge de la procédure ou, si aucune ne l’est plus, la dernière à l’avoir été est responsable du respect des délais fixés aux al. 1 à 4<sup>ter</sup>.[^11-5] Avant l’expiration du délai de conservation des données, elle informe le Service du sort devant leur être donné en vertu du droit applicable avant d’être supprimées du système. Trente ans après la fin d’une surveillance, le Service s’enquiert auprès de l’autorité précitée du sort à réserver aux données figurant encore dans le système.
 
 <sup>6</sup> Le Conseil fédéral précise comment garantir le respect des délais et règle les modalités de l’information visée à l’al. 5.
 
 [^11-1]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^11-2]: Voir art. 46 ch. 1
+[^11-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^11-4]: Introduit par le ch. I 13 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^11-5]: Nouvelle teneur selon le ch. I 13 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 12
 
