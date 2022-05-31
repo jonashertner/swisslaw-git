@@ -4,11 +4,11 @@ title: Ordonnance du 20 octobre 2010 sur le contrôle du lait (OCL)
 short: OCL
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/713"
 language: fr
-version: 2020-07-01
+version: 2022-06-01
 adopted: 2010-10-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/713/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-713-20200701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/713/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2010-713-20220601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20200701/fr"
 
 (OCL)
 
-du 20 octobre 2010 (Etat le 1<sup>er</sup> juillet 2020)
+du 20 octobre 2010 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -91,26 +91,27 @@ La présente ordonnance règle:
 
 <sup>3</sup>
 
-Ils saisissent régulièrement les données ci-dessous dans le système d’information pour les données des laboratoires (ALIS) visé dans l’ordonnance du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public[^6-1]:
+Ils saisissent régulièrement les données ci-dessous dans le système d’information pour les résultats de contrôles et d’analyses visé dans l’ordonnance du 27 avril 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire[^6-1]:[^6-2]
 
 - a. la provenance des échantillons analysés pour le diagnostic des épizooties soumises à l’annonce obligatoire et la détection des résistances aux antibiotiques;
 - b. les résultats de ces analyses;
 - c. le numéro d’identification des unités d’élevage et des animaux dont proviennent les échantillons ou, en l’absence d’un tel numéro, le nom et l’adresse du détenteur d’animaux;
-- d. les résultats de toutes les analyses effectuées en application de la présente ordonnance et des dispositions régissant l’hygiène de la production laitière édictées par le DFI en vertu de l’art. 2 de la présente ordonnance.[^6-2]
+- d. les résultats de toutes les analyses effectuées en application de la présente ordonnance et des dispositions régissant l’hygiène de la production laitière édictées par le DFI en vertu de l’art. 2 de la présente ordonnance.[^6-3]
 
 [^6-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^6-2]: Introduit par le ch. I de l’O du 30 nov. 2012 ([RO 2012 6857](https://fedlex.data.admin.ch/eli/oc/2012/829)). Nouvelle teneur selon l’annexe 3 ch. II 7 de l’O du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
+[^6-2]: Nouvelle teneur selon l’annexe 4 ch. II 7 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^6-3]: Introduit par le ch. I de l’O du 30 nov. 2012 ([RO 2012 6857](https://fedlex.data.admin.ch/eli/oc/2012/829)). Nouvelle teneur selon l’annexe 3 ch. II 7 de l’O du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
 
 #### Art. 7
 
 **Accès aux données relatives au contrôle du lait**
 
-<sup>1</sup> L’OSAV, le laboratoire national de référence (art. 13) et les services cantonaux d’exécution ont accès aux données des analyses saisies dans ALIS via le système d’information pour les données d’exécution du service vétérinaire public (ASAN) visé dans l’ordonnance du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public[^7-1].[^7-2]
+<sup>1</sup> Les droits de traitement et de consultation de l’OSAV, de l’OFAG et des autorités d’exécution cantonales portant sur les données relatives au contrôle du lait sont régis par l’ordonnance du 27 avril 2022 sur les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire[^7-1].[^7-2]
 
 <sup>2</sup> Les utilisateurs qui achètent le lait directement aux producteurs (premiers acheteurs de lait) ont accès aux données relatives au contrôle du lait qui les concernent.
 
 [^7-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^7-2]: Nouvelle teneur selon l’annexe 3 ch. II 7 de l’O du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
+[^7-2]: Nouvelle teneur selon l’annexe 4 ch. II 7 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 8
 

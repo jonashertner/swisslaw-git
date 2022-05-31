@@ -4,11 +4,11 @@ title: Milchprüfungsverordnung vom 20. Oktober 2010 (MiPV)
 short: MiPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/713"
 language: de
-version: 2020-07-01
+version: 2022-06-01
 adopted: 2010-10-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/713/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2010-713-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/713/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2010-713-20220601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20200701/de"
 
 (MiPV)
 
-vom 20. Oktober 2010 (Stand am 1. Juli 2020)
+vom 20. Oktober 2010 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 15 Absatz 3 und 37 Absatz 1 des Lebensmittelgesetzes v
 
 verordnet:
 
-[^ingress-1]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Anhang Ziff. I]. Siehe heute: das BG vom 20. Juni 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^ingress-1]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Anhang Ziff. I]. Siehe heute: das BG vom 20. Juni 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
 [^ingress-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -91,26 +91,27 @@ Diese Verordnung regelt:
 
 <sup>3</sup>
 
-Sie geben regelmässig die folgenden Daten in das Informationssystem für Labordaten (ALIS) nach der Verordnung vom 6. Juni 2014[^6-1] über die Informationssysteme für den öffentlichen Veterinärdienst ein:
+Sie geben regelmässig die folgenden Daten ins Informationssystem für Resultate von Kontrollen und Untersuchungen nach der Verordnung vom 27. April 2022[^6-1] über Informationssysteme des BLV für die Lebensmittelkette ein:[^6-2]
 
 - a. Herkunft der Proben, die auf meldepflichtige Seuchen und auf Antibiotikaresistenzen untersucht worden sind;
 - b. Ergebnisse dieser Untersuchungen;
 - c. Identifikationsnummern der Tierhaltungen und Tiere, von denen die Proben stammen, oder, wenn keine solche Nummer vorhanden ist, Name und Adresse der Tierhalterin oder des Tierhalters;
-- d. Ergebnisse der Untersuchungen, die im Rahmen dieser Verordnung und der vom EDI gestützt auf Artikel 2 dieser Verordnung erlassenen Bestimmungen über die Hygiene bei der Milchproduktion durchgeführt worden sind.[^6-2]
+- d. Ergebnisse der Untersuchungen, die im Rahmen dieser Verordnung und der vom EDI gestützt auf Artikel 2 dieser Verordnung erlassenen Bestimmungen über die Hygiene bei der Milchproduktion durchgeführt worden sind.[^6-3]
 
 [^6-1]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^6-2]: Eingefügt durch Ziff. I der V vom 30. Nov. 2012 ([AS 2012 6857](https://fedlex.data.admin.ch/eli/oc/2012/829)). Fassung gemäss Anhang 3 Ziff. II 7 der V vom 6. Juni 2014 über die Informationssysteme für den öffentlichen Veterinärdienst, in Kraft seit 1. Juli 2014 ([AS 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
+[^6-2]: Fassung gemäss Anhang 4 Ziff. II 7 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^6-3]: Eingefügt durch Ziff. I der V vom 30. Nov. 2012 ([AS 2012 6857](https://fedlex.data.admin.ch/eli/oc/2012/829)). Fassung gemäss Anhang 3 Ziff. II 7 der V vom 6. Juni 2014 über die Informationssysteme für den öffentlichen Veterinärdienst, in Kraft seit 1. Juli 2014 ([AS 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
 
 #### Art. 7
 
 **Zugriff auf die Prüfungsdaten**
 
-<sup>1</sup> Das BLV, das nationale Referenzlaboratorium (Art. 13) und die kantonalen Vollzugsstellen haben über das Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes (ASAN) nach der Verordnung vom 6. Juni 2014[^7-1] über die Informationssysteme für den öffentlichen Veterinärdienst Zugriff auf die in ALIS erfassten Prüfungsdaten.[^7-2]
+<sup>1</sup> Die Bearbeitungs- und Einsichtsrechte des BLV, des BLW und der kantonalen Vollzugsbehörden in Bezug auf die Prüfungsdaten richten sich nach der Verordnung vom 27. April 2022[^7-1] über Informationssysteme des BLV für die Lebensmittelkette.[^7-2]
 
 <sup>2</sup> Die Verwerterinnen und Verwerter, die die Milch direkt von den Produzentinnen und Produzenten beziehen (Erstmilchkäuferinnen und Erstmilchkäufer), haben Zugriff auf die für sie relevanten Prüfungsdaten.
 
 [^7-1]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^7-2]: Fassung gemäss Anhang 3 Ziff. II 7 der V vom 6. Juni 2014 über die Informationssysteme für den öffentlichen Veterinärdienst, in Kraft seit 1. Juli 2014 ([AS 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
+[^7-2]: Fassung gemäss Anhang 4 Ziff. II 7 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 8
 
@@ -205,7 +206,7 @@ Milchtiere müssen kontrolliert werden; es muss überprüft werden, ob:
 
 <sup>5</sup> Die Kontrollen richten sich nach der Verordnung vom 27. Mai 2020[^14-2] über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände.[^14-3]
 
-<sup>6</sup> ...[^14-4]
+<sup>6</sup> …[^14-4]
 
 [^14-1]: Aufgehoben durch Anhang 4 Ziff. 7 der V vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, mit Wirkung seit 1. Juli 2020 ([AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 [^14-2]: [SR 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
@@ -240,7 +241,7 @@ Soweit nichts anderes festgelegt ist, vollzieht das BLV diese Verordnung.
 
 Die Milchqualitätsverordnung vom 23. November 2005[^17-1] wird aufgehoben.
 
-[^17-1]: [[AS 2005 5567](https://fedlex.data.admin.ch/eli/oc/2005/757), [2006 4863](https://fedlex.data.admin.ch/eli/oc/2006/752)[5217](https://fedlex.data.admin.ch/eli/oc/2006/791)Anhang Ziff. 5, [2007 6167](https://fedlex.data.admin.ch/eli/oc/2007/820)Ziff. 2, [2008 565](https://fedlex.data.admin.ch/eli/oc/2008/125), [2009 559](https://fedlex.data.admin.ch/eli/oc/2009/96)]
+[^17-1]: [[AS 2005 5567](https://fedlex.data.admin.ch/eli/oc/2005/757); [2006 4863](https://fedlex.data.admin.ch/eli/oc/2006/752), [5217](https://fedlex.data.admin.ch/eli/oc/2006/791)Anhang Ziff. 5; [2007 6167](https://fedlex.data.admin.ch/eli/oc/2007/820)Ziff. 2; [2008 565](https://fedlex.data.admin.ch/eli/oc/2008/125); [2009 559](https://fedlex.data.admin.ch/eli/oc/2009/96)]
 
 #### Art. 18
 
@@ -248,7 +249,7 @@ Die Milchqualitätsverordnung vom 23. November 2005[^17-1] wird aufgehoben.
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^18-1]
+…[^18-1]
 
 [^18-1]: Die Änderungen können unter [AS 2010 5019](https://fedlex.data.admin.ch/eli/oc/2010/713)konsultiert werden.
 

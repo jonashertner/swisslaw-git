@@ -4,11 +4,11 @@ title: Ordinanza del 20 ottobre 2010 sul controllo del latte (OCL)
 short: OCL
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/713"
 language: it
-version: 2020-07-01
+version: 2022-06-01
 adopted: 2010-10-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/713/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2010-713-20200701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/713/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2010-713-20220601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20200701/it"
 
 (OCL)
 
-del 20 ottobre 2010 (Stato 1° luglio 2020) (Stato 1° luglio 2020)
+del 20 ottobre 2010 (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -90,26 +90,27 @@ La presente ordinanza disciplina:
 
 <sup>3</sup>
 
-Essi registrano regolarmente nel sistema dʼinformazione per i dati di laboratorio (ALIS) di cui allʼordinanza 6 giugno 2014[^6-1] concernente i sistemi dʼinformazione per il servizio veterinario pubblico i seguenti dati:
+Essi registrano regolarmente nel sistema d’informazione per i risultati dei controlli e delle analisi di cui all’ordinanza del 27 aprile 2022[^6-1] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare i seguenti dati:[^6-2]
 
 - a. la provenienza dei campioni analizzati per la rilevazione delle epizoozie soggette all’obbligo di notifica e delle resistenze agli antibiotici;
 - b. i risultati di queste analisi;
 - c. i numeri di identificazione delle aziende detentrici di animali e degli animali da cui provengono i campioni oppure, se nessuno di questi numeri è disponibile, il nome e lʼindirizzo del detentore degli animali;
-- d. i risultati delle analisi effettuate nellʼambito della presente ordinanza e delle disposizioni emanate dal DFI in virtù dellʼarticolo 2 della presente ordinanza concernenti lʼigiene nella produzione lattiera.[^6-2]
+- d. i risultati delle analisi effettuate nellʼambito della presente ordinanza e delle disposizioni emanate dal DFI in virtù dellʼarticolo 2 della presente ordinanza concernenti lʼigiene nella produzione lattiera.[^6-3]
 
 [^6-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^6-2]: Introdotto dal n. I dell’O del 30 nov. 2012 ([RU 2012 6857](https://fedlex.data.admin.ch/eli/oc/2012/829)). Nuovo testo giusta l’all. 3 n. II 7 dell’O del 6 giu. 2014 concernente i sistemi dʼinformazione per il servizio veterinario pubblico, in vigore dal 1° lug. 2014 ([RU 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
+[^6-2]: Nuovo testo giusta l’all. 4 n. II 7 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^6-3]: Introdotto dal n. I dell’O del 30 nov. 2012 ([RU 2012 6857](https://fedlex.data.admin.ch/eli/oc/2012/829)). Nuovo testo giusta l’all. 3 n. II 7 dell’O del 6 giu. 2014 concernente i sistemi dʼinformazione per il servizio veterinario pubblico, in vigore dal 1° lug. 2014 ([RU 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
 
 #### Art. 7
 
 **Accesso ai dati relativi al controllo del latte**
 
-<sup>1</sup> LʼUSAV, il laboratorio nazionale di riferimento (art. 13) e le autorità cantonali di esecuzione hanno accesso ai dati relativi al controllo del latte registrati in ALIS per il tramite del sistema dʼinformazione per i dati del servizio veterinario pubblico raccolti nell’ambito dellʼesecuzione (ASAN) di cui allʼordinanza del 6 giugno 2014[^7-1] concernente i sistemi dʼinformazione per il servizio veterinario pubblico.[^7-2]
+<sup>1</sup> I diritti di trattamento e di consultazione dell’USAV, dell’UFAG e delle autorità cantonali di esecuzione relativi ai dati di controllo sono retti dall’ordinanza del 27 aprile 2022[^7-1] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare.[^7-2]
 
 <sup>2</sup> I valorizzatori che acquistano il latte direttamente presso i produttori (primi acquirenti di latte) hanno accesso ai dati relativi al controllo del latte per loro rilevanti.
 
 [^7-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^7-2]: Nuovo testo giusta l’all. 3 n. II 7 dell’O del 6 giu. 2014 concernente i sistemi dʼinformazione per il servizio veterinario pubblico, in vigore dal 1° lug. 2014 ([RU 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
+[^7-2]: Nuovo testo giusta l’all. 4 n. II 7 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 8
 
@@ -158,7 +159,7 @@ I laboratori di prova devono essere gestiti e valutati secondo la norma europea 
 <sup>4</sup> L’USAV emana direttive sugli standard tecnici minimi per i laboratori di prova.
 
 [^11-1]: Nuova espr. giusta il n. I 12 dellʼO del 4 set. 2013 (riorganizzazione del settore della sicurezza alimentare e della veterinaria), in vigore dal 1° gen. 2014 ([RU 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^11-2]: Il testo di questa norma può essere consultato gratuitamente od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^11-2]: Il testo di questa norma può essere consultato gratuitamente od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 [^11-3]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 
 #### Art. 12
@@ -239,7 +240,7 @@ Salvo disposizioni contrarie, l’esecuzione della presente ordinanza spetta all
 
 L’ordinanza del 23 novembre 2005[^17-1] concernente la qualità del latte è abrogata.
 
-[^17-1]: [[RU 2005 5567](https://fedlex.data.admin.ch/eli/oc/2005/757), [2006 4863](https://fedlex.data.admin.ch/eli/oc/2006/752)[5217](https://fedlex.data.admin.ch/eli/oc/2006/791)all n. 5, **2007** 6167 all. n. 2, **2008** 565, **2009** 559]
+[^17-1]: [[RU 2005 5567](https://fedlex.data.admin.ch/eli/oc/2005/757); [2006 4863](https://fedlex.data.admin.ch/eli/oc/2006/752), [5217](https://fedlex.data.admin.ch/eli/oc/2006/791)all n. 5; **2007** 6167 all. n. 2; **2008** 565; **2009** 559]
 
 #### Art. 18
 
