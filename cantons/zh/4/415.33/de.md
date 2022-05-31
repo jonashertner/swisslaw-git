@@ -3,240 +3,404 @@ canton: ZH
 number: "415.33"
 title: Disziplinarverordnung der Universität Zürich
 language: de
-version: "2011-01-01"
-nachtrag: "71"
-valid_until: 2022-06-01
+nachtrag: "123"
 adopted: 2020-05-25
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_33-1976_02_17-1976_04_03-071.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_33-2020_05_25-2022_06_01-123.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Disziplinarordnung der Universität Zürich
+# Disziplinarverordnung der Universität Zürich
 
-(vom 17. Februar 1976)[^t-1]
+(vom 25. Mai 2020)[^t-1],[^t-2]
 
-I. Geltungsbereich
+Der Universitätsrat beschliesst:
 
-§ 1. Diese Disziplinarordnung gilt für die immatrikulierten Studierenden, die Auditoren, Doktoranden und übrigen Prüfungskandidaten.
+[^t-1]: OS 77, 176; Begründung siehe ABl 2020-06-12.
+[^t-2]: Inkrafttreten: 1. Juni 2022.
 
-[^t-1]: OS 46, 58 und GS III, 421. Vom Erziehungsrat erlassen.
+### I. Grundsätze
+
+#### § 1
+
+**Ziel**
+
+Die Disziplinarverordnung bezweckt die Sicherstellung eines geordneten Forschungs- und Lehrbetriebs an der Universität.
 
 #### § 2
 
-<sup>1</sup> Die Disziplinargewalt steht allein den in dieser Disziplinarordnung genannten Instanzen zu. Fakultäten und Institute sind nicht befugt, Disziplinarmassnahmen zu treffen. Dagegen sind die Fakultäten berechtigt, Prüfungsausweise nachträglich zu annullieren, wenn sich ergibt, dass bei deren Erwerb unerlaubte Mittel angewendet wurden.
+**Geltungsbereich**
 
-<sup>2</sup> Vorbehalten bleiben die Bestimmungen über ausseruniversitäre Prüfungen.
+<sup>1</sup> Die Disziplinarverordnung gilt für alle immatrikulierten Personen sowie weiteren Personen, die an der Universität Leistungsnachweise erbringen. Massgebend ist der Zeitpunkt des Disziplinarverstosses.
 
-### II. Organe der Disziplinarrechtspflege
+<sup>2</sup> Vorbehalten bleiben das Reglement zum Schutz vor sexueller Belästigung an der Universität Zürich vom 1. März 2007[^2-1] und die Verordnung über den Umgang mit wissenschaftlichem Fehlverhalten an der Universität Zürich vom 25. Mai 2020[^2-2].
+
+[^2-1]: LS 415.116.
+[^2-2]: LS 415.27.
 
 #### § 3
 
-Organe der Disziplinarrechtspflege sind:
+**Studienangebote unter Beteiligung mehrerer Hochschulen**
 
-- a. der Universitätsanwalt,
+Auf Studierende, die an Studienangeboten teilnehmen, an denen mehrere Hochschulen beteiligt sind wie insbesondere Joint Degree, Double Degree, Minor- und Modulmobilität, ist die Disziplinarverordnung nur anwendbar, wenn die Partnerhochschule keine Disziplinarhoheit über die Studierende oder den Studierenden beansprucht. Die Anwendung der Disziplinarverordnung steht in diesen Fällen im Ermessen der Organe der Disziplinarrechtspflege.
 
-- b. der Disziplinarausschuss, c.[^3-1] die Erziehungsdirektion.
-
-[^3-1]: Eingefügt durch ERB vom 9. Dezember 1986 (OS 50, 76).
+### II. Organe der Disziplinarrechtspflege
 
 #### § 4
 
-<sup>1</sup> Der Universitätsanwalt und seine Stellvertreter werden vom Senat aus dem Kreise der Dozenten der Rechts- und staatswissenschaftlichen Fakultät auf eine Amtsdauer von zwei Jahren gewählt. Sie dürfen dem Disziplinarausschuss nicht angehören. Wiederwahl ist zulässig.
+**Befugnis zur Disziplinargewalt**
 
-<sup>2</sup> Der Universitätsanwalt zieht für seine Untersuchungshandlungen einen Protokollführer aus dem Kreise der Assistenten oder der Zentralverwaltung der Universität bei.
-
-[^4-1]: Fassung gemäss ERB vom 9. Dezember 1986 (OS 50, 76).
+Die Disziplinargewalt steht allein den in dieser Disziplinarverordnung genannten Organen zu. Fakultäten und Institute sind nicht befugt, Disziplinarmassnahmen zu treffen.
 
 #### § 5
 
-<sup>1</sup> Der Disziplinarausschuss besteht aus fünf[^4-1] Mitgliedern, nämlich a. einem dem Senat angehörenden Dozenten als Vorsitzendem,
+**Disziplinarorgane**
 
-- b. einem[^5-1] weiteren Dozenten,
+Organe der Disziplinarrechtspflege sind a. die Universitätsanwältin oder der Universitätsanwalt,
 
-- c. einem Assistenten,
-
-- d. einem[^5-1] Studierenden,
-
-- e. einem Angehörigen des Personals.
+- b. die Disziplinarkommission.
 
 **1**
 
-- 1\. 1. 11 - 71
+- 1\. 1. 24 - 123 § 6. <sup>1</sup> Die Universitätsanwältin oder der Universitätsanwalt sowie deren oder dessen Stellvertreterin oder Stellvertreter werden von der Erweiterten Universitätsleitung aus dem Kreise der Professorinnen und Professoren der Rechtswissenschaftlichen Fakultät für eine Amtsdauer von zwei Jahren gewählt. Sie dürfen der Disziplinarkommission nicht angehören.
 
-<sup>2</sup> Die Dozenten werden vom Senat, der Assistent von der Mitgliederversammlung der Assistentenvereinigung, der Studierende vom Erweiterten Grossen Studentenrat, der Vertreter des Personals durch die Angehörigen der Universitätsverwaltung in geheimer Wahl bestimmt, wobei für jedes Mitglied gleichzeitig ein Ersatzmitglied zu wählen ist. Wählbar als Studentenvertreter sind alle in den Senat wählbaren Studierenden.[^5-1]
+**Wahl der Universitätsanwältin oder des Universitätsanwalts und Beizug der protokollierenden Person**
 
-<sup>3</sup> Die Amtsdauer für die Dozenten und die Angehörigen des Personals beträgt vier Jahre, für die Assistenten und die Studierenden ein Jahr. Wiederwahl ist zulässig.
+<sup>2</sup> Wiederwahl ist zulässig.
 
-<sup>4</sup> Der Disziplinarausschuss wählt einen Sekretär und nötigenfalls einen Stellvertreter.
+<sup>3</sup> Die Universitätsanwältin oder der Universitätsanwalt zieht für ihre oder seine Untersuchungshandlungen eine Protokollführerin oder einen Protokollführer bei.
 
-[^5-1]: Fassung gemäss ERB vom 9. Dezember 1986 (OS 50, 76).
-
-#### § 6
-
-<sup>1</sup> Unterlässt es ein Wahlkörper, seine Vertreter im Disziplinarausschuss innert einer von der Erziehungsdirektion anzusetzenden Frist zu wählen, oder bleiben die Gewählten den Sitzungen fern, so ist diese Instanz trotzdem beschlussfähig, wenn die Mehrheit ihrer Mitglieder oder Ersatzmitglieder anwesend ist.
-
-<sup>2</sup> Jedes mitwirkende Mitglied oder Ersatzmitglied ist verpflichtet, seine Stimme abzugeben. Bei Stimmengleichheit zählt die Stimme des Vorsitzenden doppelt.
-
-### III. Disziplinarfehler und Disziplinarmassnahmen
-
-[^hIIIDisziplinarfehl-1]: Fassung gemäss ERB vom 9. Dezember 1986 (OS 50, 76).
+[^5-1]: LS 415.11.
 
 #### § 7
 
-Eines Disziplinarfehlers macht sich schuldig a. wer sich bei der Ausarbeitung einer Dissertation oder anderer schriftlicher Arbeiten, bei Abschluss- oder Zwischenprüfungen unerlaubter Mittel bedient, insbesondere eine nicht von ihm selbst verfasste Arbeit einreicht, b.[^hIIIDisziplinarfehl-1] wer Veranstaltungen der Universität, bewilligte Veranstaltungen Dritter an der Universität oder den geordneten Betrieb auf dem Areal der Universität stört,
+**Zusammensetzung und Wahl der Disziplinarkommission, Sekretariat der Disziplinarkommission**
 
-- c. wer Organe der Universität, Mitglieder des Lehrkörpers, Assistenten, Studierende oder Personal in ihrer Tätigkeit behindert,
+<sup>1</sup> Die Disziplinarkommission besteht aus sechs Mitgliedern, nämlich a. zwei Vertreterinnen oder Vertretern aus der Professorenschaft gemäss § 8 a des Universitätsgesetzes vom 15. März 1998 (UniG)[^5-1],
 
-- d. wer gegen die für die Universität oder deren Institute oder anderen Hilfseinrichtungen geltenden Vorschriften oder gestützt darauf ergangene Anordnungen verstösst,
+- b. je einer Vertreterin oder einem Vertreter der Stände der Studierenden, des wissenschaftlichen Nachwuchses, der fortgeschrittenen Forschenden und Lehrenden sowie des administrativen und technischen Personals.
 
-- e. wer eine Ausweisschrift oder eine Vergünstigung, die ihm aufgrund seiner Zugehörigkeit zur Universität zukommt, missbraucht, f.[^7-1] wer wegen schwerwiegender Straftaten, durch welche die Interessen der Universität beeinträchtigt oder gefährdet werden, zu einer Freiheitsstrafe verurteilt wurde.
+<sup>2</sup> Gewählt werden a. die Vertreterinnen oder Vertreter aus der Professorenschaft gemäss § 8 a UniG von der Erweiterten Universitätsleitung,
 
-[^7-1]: Fassung gemäss ERB vom 9. Dezember 1986 (OS 50, 76).
+- b. die Vertreterinnen oder Vertreter der Studierenden vom Verband der Studierenden der Universität Zürich (VSUZH)[^7-1],
+
+- c. die Delegierten der Stände des wissenschaftlichen Nachwuchses, der fortgeschrittenen Forschenden und Lehrenden sowie des administrativen und technischen Personals jeweils von den Angehörigen ihres Standes.
+
+<sup>3</sup> Für jedes Mitglied ist gleichzeitig ein Ersatzmitglied zu wählen.
+
+<sup>4</sup> Eine Vertreterin oder ein Vertreter aus der Professorenschaft führt den Vorsitz.
+
+<sup>5</sup> Die oder der Vorsitzende bestimmt eine Sekretärin oder einen Sekretär der Disziplinarkommission und nötigenfalls deren oder dessen Stellvertretung.
+
+[^7-1]: LS 415.34.
 
 #### § 8
+
+**Amtsdauer und Wiederwahl**
+
+<sup>1</sup> Die Amtsdauer der Vertretung der Professorenschaft und des Standes des technischen und administrativen Personals beträgt vier, jene der Delegierten der Studierenden, des wissenschaftlichen Nachwuchses und der fortgeschrittenen Forschenden und Lehrenden zwei Jahre.
+
+<sup>2</sup> Wiederwahl ist zulässig.
+
+#### § 9
+
+**Beschlussfassung**
+
+<sup>1</sup> Die Disziplinarkommission ist beschlussfähig, wenn die Mehrheit ihrer Mitglieder anwesend ist.
+
+<sup>2</sup> Jedes anwesende Mitglied ist verpflichtet, seine Stimme abzugeben. Bei Stimmengleichheit zählt die Stimme der oder des Vorsitzenden doppelt.
+
+### III. Disziplinarverstösse und Disziplinarmassnahmen
+
+#### § 10
+
+**Disziplinarverstösse**
+
+<sup>1</sup> Eines Disziplinarverstosses macht sich schuldig, wer vorsätzlich oder fahrlässig a. sich bei der Ausarbeitung schriftlicher Arbeiten oder bei anderen Leistungsnachweisen unerlaubter Mittel bedient,
+
+- b. fremde Forschungsergebnisse und -erkenntnisse oder fremde Texte als eigene ausgibt (Plagiat),
+
+- c. Straftaten gegen die Organe der Universität, Angehörige der Universität im Sinne des UniG sowie Gäste der Universität verübt,
+
+- d. gegen die für die Universität oder deren Institute oder andere Einrichtungen geltenden wesentlichen Vorschriften oder gestützt darauf ergangenen Anordnungen in grober Weise verstösst,
+
+<sup>2</sup> Eines Disziplinarverstosses macht sich darüber hinaus schuldig, wer vorsätzlich a. Organe der Universität, Angehörige der Universität im Sinne des UniG sowie Gäste oder Besucherinnen und Besucher bedroht, belästigt oder in ihrer Tätigkeit an der Universität wesentlich behindert,
+
+- b. eine Ausweisschrift oder eine Vergünstigung, die ihr oder ihm aufgrund ihrer oder seiner Zugehörigkeit zur Universität zukommt, weitergibt oder missbraucht,
+
+- c. falsche, verfälschte oder ihr oder ihm nicht gehörende Urkunden wie Zeugnisse oder Ausweisschriften gegenüber der Universität verwendet,
+
+- d. gegen wesentliche Meldepflichten verstösst, insbesondere bei Verletzung der Meldepflicht bei der Immatrikulation sowie bei der Vergabe universitärer Stipendien, Darlehen oder anderer Unterstützungsleitungen,
+
+- e. Veranstaltungen an der Universität oder den geordneten Betrieb der Universität in grober Weise stört,
+
+- f. Straftaten gegen Besucherinnen und Besucher der Universität verübt,
+
+- g. ohne Einwilligung der oder des Dozierenden Veranstaltungen der Universität aufzeichnet oder Aufzeichnungen weiterverbreitet.
+
+**3**
+
+- 1\. 1. 24 - 123
+
+<sup>3</sup> Ein Disziplinarverfahren wegen eines Disziplinarverstosses nach Abs. 1 lit. a oder b darf nur durchgeführt werden, wenn der damit in Zusammenhang stehende Leistungsnachweis aberkannt worden ist. Von der Einleitung des Disziplinarverfahrens nach Abs. 1 lit. a oder b kann abgesehen werden, wenn die Tat bereits hinreichend durch die Aberkennung des damit im Zusammenhang stehenden Leistungsnachweises geahndet worden ist.
+
+#### § 11
+
+**Disziplinarmassnahmen**
 
 <sup>1</sup> Disziplinarmassnahmen sind:
 
 - a. der schriftliche Verweis,
 
-- b. der Ausschluss von Lehrveranstaltungen oder von der Benützung einzelner Universitätseinrichtungen für die Dauer von höchstens einem Semester, wobei diese Massnahmen miteinander verbunden werden können, c.[^8-1] der Ausschluss vom Studium oder von Prüfungen oder von beidem für die Dauer von einem bis zu sechs Semestern. Bei Verfehlungen gemäss § 7 lit. f kann auch ein Ausschluss für die Dauer der Strafverbüssung ausgesprochen werden.
+- b. gemeinnützige Arbeit bis zu 40 Stunden zugunsten der Universität, sofern die angeschuldigte Person zustimmt, c.[^11-1]
 
-<sup>2</sup> Der Vollzug einer Massnahme gemäss lit. b und c kann bedingt aufgeschoben werden, wenn die gesamten Umstände erwarten lassen, dass sich der Angeschuldigte künftig wohlverhalten wird. Der Aufschub ist nicht zulässig, wenn gegen den Angeschuldigten bereits einmal wegen eines Disziplinarfehlers eine Disziplinarmassnahme gemäss lit. b und c ausgesprochen werden musste. Es wird eine Probezeit von mindestens einem Jahr und von höchstens zwei Jahren angesetzt.[^8-1]
+- d. der vorübergehende Ausschluss vom Studium an der Universität bzw. von Lehrveranstaltungen und Programmen der universitären Weiterbildung, die von der Universität Zürich durchgeführt werden oder an der Universität Zürich stattfinden, für die Dauer von bis zu sechs Semestern,
 
-<sup>3</sup> Wer während der Probezeit erneut einen Disziplinarfehler begeht, wird, unabhängig der Anordnung weiterer Disziplinarmassnahmen, im Sinne des ersten Entscheids ausgeschlossen. In leichten Fällen kann der Disziplinarausschuss bzw. die Erziehungsdirektion nur die Probezeit verlängern.[^8-1]
+- e. bei schweren oder wiederholten Verstössen der Ausschluss von der Universität.
 
-§ 9. Art und Dauer der Massnahme richten sich nach der Bedeutung der beeinträchtigten oder gefährdeten Hochschulinteressen sowie nach dem Verschulden, den Beweggründen und dem bisherigen Verhalten des Angeschuldigten.
+<sup>2</sup> Die verschiedenen Disziplinarmassnahmen können miteinander verbunden werden.
 
-[^8-1]: Fassung gemäss ERB vom 9. Dezember 1986 (OS 50, 76).
+<sup>3</sup> . . .[^11-1]
 
-#### § 10
+<sup>4</sup> . . .[^11-1]
 
-<sup>1</sup> Disziplinarfehler verjähren innert sechs Monaten, vom Zeitpunkt ihrer Begehung an gerechnet. Die Verjährung wird unterbrochen durch jede Untersuchungshandlung im Disziplinarverfahren oder in einem Strafverfahren wegen des nämlichen Tatbestandes.
+**Bedingter Vollzug**
 
-<sup>2</sup> Im Falle des Disziplinarfehlers gemäss § 7 lit. a beginnt die Verjährungsfrist in dem Zeitpunkt, da die Verwendung unerlaubter Mittel durch ein Mitglied der betroffenen Fakultät festgestellt wird.
+§ 12. <sup>1</sup> Der Vollzug einer Disziplinarmassnahme nach § 11 Abs. 1 lit. d und e kann bedingt aufgeschoben werden, wenn die gesamten Umstände erwarten lassen, dass sich die angeschuldigte Person künftig wohlverhalten wird. Es wird eine Probezeit von mindestens einem Semester und höchstens sechs Semestern angesetzt.
 
-**3**
+<sup>2</sup> Der bedingte Aufschub ist nicht zulässig, wenn gegen die angeschuldigte Person bereits einmal wegen eines Disziplinarverstosses eine Disziplinarmassnahme nach § 11 ausgesprochen wurde.
 
-- 1\. 1. 11 - 71
+<sup>3</sup> Begeht die angeschuldigte Person während der Probezeit erneut einen Disziplinarverstoss, wird die Disziplinarmassnahme, ungeachtet der Anordnung weiterer Disziplinarmassnahmen, im Sinne der ersten Anordnung vollzogen. In leichten Fällen kann die Disziplinarkommission stattdessen die Probezeit verlängern.
 
-<sup>3</sup> Im Falle des Disziplinarfehlers gemäss § 7 lit. f beginnt die Verjährungsfrist in dem Zeitpunkt, in dem der Rektor von der rechtskräftigen Verurteilung Kenntnis erhält. Nach der Strafverbüssung bzw. nach dem Ablauf der Probezeit kann kein Disziplinarverfahren mehr eingeleitet werden.[^10-1]
-
-<sup>4</sup> Exmatrikuliert sich ein Studierender nach Begehen eines Disziplinarfehlers oder wird er im Sinne von § 16 Abs. 2 für ein Semester vom Studium und von den Prüfungen ausgeschlossen, so ruht die Verjährung bis zur Wiederimmatrikulation.[^10-1]
-
-<sup>5</sup> Disziplinarmassnahmen sind, mit Ausnahme des Vollzuges eines bedingt aufgeschobenen Ausschlusses, in jedem Falle nach Ablauf von drei Jahren seit dem erstmaligen Beginn der Verjährungsfrist nicht mehr zulässig.[^10-1]
-
-§ 11. Soweit die folgenden Bestimmungen nichts anderes vorsehen, finden die Vorschriften des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz) vom 24. Mai 1959[^10-2] auf das Disziplinarverfahren Anwendung.
-
-[^10-1]: Fassung gemäss ERB vom 9. Dezember 1986 (OS 50, 76).
-[^10-2]: LS 175.2.
-
-### IV. Verfahren
-
-#### § 12
-
-<sup>1</sup> Der Rektor überweist die ihm gemeldeten Disziplinarfälle dem Universitätsanwalt oder einem seiner Stellvertreter zur Untersuchung.
-
-<sup>2</sup> Er teilt dem Angeschuldigten die Einleitung des Verfahrens mit und macht ihn auf seine Rechte und Pflichten gemäss dieser Disziplinarordnung aufmerksam.
+[^11-1]: Aufgehoben durch Urteil des Verwaltungsgerichts vom 8. Juli 2021 (AN.2020. 00007).
 
 #### § 13
 
-<sup>1</sup> Stört oder gefährdet der Angeschuldigte den Universitätsbetrieb oder verstösst er in grober Weise gegen geltende Vorschriften, so kann ihm der Rektor oder, nach Überweisung des Falles, der Universitätsanwalt den Besuch von Veranstaltungen, die Benützung von Universitätseinrichtungen oder das Betreten von Räumlichkeiten der Universität mit sofortiger Wirkung untersagen. Wenn der Rektor die Massnahme anordnet, hat er den Fall unverzüglich dem Universitätsanwalt zu überweisen.
+**Sanktionszumessung**
 
-<sup>2</sup> Ist das Disziplinarverfahren beim Disziplinarausschuss anhängig, so befindet dessen Vorsitzender über die Aufhebung bestehender oder den Erlass vorsorglicher Massnahmen.
+<sup>1</sup> Art und Dauer der Disziplinarmassnahme richten sich insbesondere nach der Bedeutung der beeinträchtigten oder gefährdeten Hochschulinteressen sowie nach dem Verschulden, den Beweggründen und dem bisherigen Verhalten der angeschuldigten Person.
 
-<sup>3</sup> Der Angeschuldigte, der darum ersucht, ist nach dem Erlass einer Massnahme innert 5 Tagen anzuhören.
+<sup>2</sup> Von einer Disziplinarmassnahme kann abgesehen und das Verfahren eingestellt werden:
+
+- a. in leichten Fällen,
+
+- b. wenn das Verhalten der angeschuldigten Person bereits anderweitig geahndet worden ist.
 
 #### § 14
 
-Im Falle der Einleitung eines Disziplinarverfahrens sind die im Bereich der Universität, ihrer Institute und Seminarien befindlichen Beweisgegenstände wie Plakate, Schriften, Bilder usw. vom Rektor oder vom Universitätsanwalt sicherzustellen. Für diese Sicherstellung gilt § 13 sinngemäss. In dem gemäss § 22 zu fällenden Entscheid ist endgültig über die sichergestellten Gegenstände zu befinden.
+**Verjährung**
+
+<sup>1</sup> Disziplinarverstösse verjähren innert zweier Jahre vom Zeitpunkt ihrer Begehung angerechnet.
+
+<sup>2</sup> Im Falle eines Disziplinarverstosses nach § 10 Abs. 1 lit. a und b beginnt die Verjährungsfrist in dem Zeitpunkt, da ein Mitglied der betroffenen Fakultät von den Umständen, die den Disziplinarverstoss begründen, Kenntnis erlangt.
+
+<sup>3</sup> Verjährungsunterbrechend ist jede Handlung eines Disziplinarorgans.
+
+<sup>4</sup> Disziplinarmassnahmen können, mit Ausnahme des Vollzugs eines bedingten Aufschubs nach § 12 Abs. 3, nach Ablauf von fünf Jahren seit dem Beginn der Verjährungsfrist nach Abs. 1 und 2 nicht mehr vollstreckt werden.
+
+### IV. Allgemeine Bestimmungen zum Disziplinarverfahren
+
+[^hIVAllgemeineBesti-1]: LS 175.2.
 
 #### § 15
 
-<sup>1</sup> Das Disziplinarverfahren ist so rasch als möglich durchzuführen; namentlich Untersuchungshandlungen sind auch in den Ferien vorzunehmen.
+**Anwendbarkeit des Verwaltungsrechtspflegegesetzes**
 
-<sup>2</sup> Im Falle der Eröffnung eines Strafverfahrens wegen einer schwerwiegenden Straftat, die wahrscheinlich eine Freiheitsstrafe nach sich ziehen wird (§ 7 lit. f), kann das Disziplinarverfahren schon vor dem Vorliegen eines rechtskräftigen Urteils eingeleitet werden.[^15-1]
+Soweit die folgenden Bestimmungen nichts anderes vorsehen, finden die Vorschriften des 2. und 4. Abschnittes des Verwaltungsrechtspflegegesetzes vom 24. Mai 1959 (VRG)[^hIVAllgemeineBesti-1] auf das Disziplinarverfahren Anwendung.
 
-§ 16. <sup>1</sup> Der Universitätsanwalt hat den Sachverhalt zu ermitteln. Er lädt den Angeschuldigten vor und nimmt alle weiteren zur Abklärung der Sache erforderlichen Untersuchungshandlungen vor, wie namentlich Beizug von Akten und Berichten und Befragen von Auskunftspersonen. Organe der Universität, Angehörige des Lehrkörpers, Studierende, Auditoren und Angestellte sind zur Aussage verpflichtet. Hinsichtlich des Aussageverweigerungsrechtes ist das Gesetz betreffend den Strafprozess vom 4. Mai 1919[^15-2] sinngemäss anwendbar.
+#### § 16
 
-<sup>2</sup> Der Angeschuldigte wird allein einvernommen. Er ist verpflichtet, auf Vorladung hin zur Einvernahme vor dem Universitätsanwalt zu erscheinen. Bei unentschuldigtem oder nicht genügend entschuldigtem Fernbleiben auferlegt ihm der Universitätsanwalt eine Busse von Fr. 200; im Wiederholungsfall wird er auf Antrag des Universitätsanwaltes durch den Disziplinarausschuss für ein Semester vom Studium und den Prüfungen ausgeschlossen. Einem Rekurs kommt aufschiebende Wirkung nur zu, wenn der Vorsitzende des Disziplinarausschusses bzw. die Erziehungsdirektion dies verfügen. Das Disziplinarverfahren gegen den Angeschuldigten wird auf den Zeitpunkt des Ausschlusses eingestellt, bei Wiederimmatrikulation aber wieder aufgenommen. Zur Beweissicherung können noch die notwendigen Einvernahmen von Auskunftspersonen vorgenommen werden.
+**Zuständigkeit der Disziplinarorgane**
 
-<sup>3</sup> In der Vorladung wird auf die Säumnisfolgen hingewiesen.
+<sup>1</sup> Die Universitätsanwältin oder der Universitätsanwalt a. untersucht sämtliche ihr oder ihm gemeldeten Disziplinarfälle,
 
-[^15-1]: Eingefügt durch ERB vom 9. Dezember 1986 (OS 50, 76).
-[^15-2]: Heute: Art. 168 ff. der Schweizerischen StPO (SR 312.0).
+- b. stellt das Verfahren ein oder verhängt Disziplinarmassnahmen im Sinne von § 11 Abs. 1 lit. a und b sowie Geldleistungen gemäss § 11 Abs. 1 lit. c bis zu Fr. 1000,
 
-#### § 17
+- c. verhängt den Ausschluss vom Studium oder von Lehrveranstaltungen und Programmen der universitären Weiterbildung nach § 11 Abs. 1 lit. d bis zu einem Semester, sofern der Ausschluss bedingt ausgesprochen wird.
 
-Der Angeschuldigte hat das Recht, der Befragung von Auskunftspersonen beizuwohnen, sofern nicht zwingende Gründe entgegenstehen. Er hat nach Abschluss der Einvernahme aller am Verfahren beteiligten Angeschuldigten das Recht auf Akteneinsicht.
+<sup>2</sup> Für die übrigen Disziplinarmassnahmen ist die Disziplinarkommission zuständig.
 
 **5**
 
-- 1\. 1. 11 - 71 § 18. <sup>1</sup> Der Angeschuldigte hat vom gleichen Zeitpunkt an, in dem ihm Akteneinsicht zusteht, das Recht, einen Beistand zuzuziehen.
+- 1\. 1. 24 - 123 § 17. Die betroffenen Fakultäten oder Organisationseinheiten prüfen, ob ein Disziplinarverstoss angezeigt wird. Eine entsprechende Anzeige ist an die Universitätsanwältin oder den Universitätsanwalt zu richten. Diese oder dieser eröffnet das Verfahren und informiert die angeschuldigte Person, das Rektorat sowie die betroffene Fakultät oder Organisationseinheit.
 
-<sup>2</sup> Durch die Verbeiständung darf jedoch das Verfahren nicht ungebührlich verzögert werden.
+#### § 18
 
-#### § 19
+**Einleitung des Verfahrens**
 
-<sup>1</sup> Nach Abschluss der Untersuchung erstattet der Universitätsanwalt dem Disziplinarausschuss schriftlich Bericht und Antrag, sofern er den Fall nicht in eigener Zuständigkeit erledigt.
+**Verbeiständung**
 
-<sup>2</sup> Der Vorsitzende des Disziplinarausschusses kann die Abnahme weiterer Beweise anordnen.
+<sup>1</sup> Die angeschuldigte Person hat das Recht, einen Beistand auf eigene Kosten beizuziehen.
 
-§ 20.[^19-1] Es sind zuständig:
+<sup>2</sup> Durch die Verbeiständung darf das Verfahren nicht ungebührlich verzögert werden.
 
-- a. der Universitätsanwalt zur Untersuchung sämtlicher ihm vom Rektor überwiesenen Disziplinarfälle; zur Einstellung des Verfahrens; zur Verhängung von Verweisen im Sinne von § 8 Abs. 1 lit. a;
+<sup>3</sup> Die Universitätsanwältin oder der Universitätsanwalt oder die oder der Vorsitzende der Disziplinarkommission kann der nicht verbeiständeten angeschuldigten Person einen Beistand von Amtes wegen bestellen, wenn diese nicht in der Lage ist, ihre Verteidigungsinteressen ausreichend zu wahren.
 
-- b. der Disziplinarausschuss in erster Instanz zum Ausschluss und zum Widerruf eines bedingt aufgeschobenen Ausschlusses gemäss § 8 Abs. 1 lit. b sowie zum bedingt aufgeschobenen Ausschluss gemäss § 8 Abs. 1 lit. c, zur Antragstellung an die Erziehungsdirektion auf Ausschluss im Sinne von § 8 Abs. 1 lit. c; Rückweisung an den Universitätsanwalt zur Einstellung des Verfahrens oder zur Verhängung eines Verweises erfolgt nicht, als Rekursinstanz zur Überprüfung der vom Universitätsanwalt verfügten Einstellungen und der von ihm getroffenen Disziplinarmassnahmen;
+§ 19.[^18-1]
 
-- c. die Erziehungsdirektion auf Antrag des Disziplinarausschusses zum Ausschluss und zum Widerruf eines bedingt aufgeschobenen Ausschlusses gemäss § 8 Abs. 1 lit. c; Rückweisung an den Universitätsanwalt oder den Disziplinarausschuss zur Einstellung des Verfahrens oder zur Anordnung einer milderen Disziplinarmassnahme erfolgt nicht, als Rekursinstanz zur Überprüfung der vom Disziplinarausschuss verfügten Einstellungen und der von ihm getroffenen Disziplinarmassnahmen.
+**Vorsorgliche Massnahmen**
 
-[^19-1]: Fassung gemäss ERB vom 9. Dezember 1986 (OS 50, 76).
+§ 20. <sup>1</sup> Die Universitätsanwältin oder der Universitätsanwalt ist für den Entscheid über vorsorgliche Massnahmen zuständig. Nach Überweisung der Akten an die Disziplinarkommission ist deren Vorsitzende oder Vorsitzender zuständig.
+
+<sup>2</sup> Stört oder gefährdet die angeschuldigte Person den Universitätsbetrieb oder verstösst sie in grober Weise gegen geltende Vorschriften, kann die Rektorin oder der Rektor die Benutzung von Universitätseinrichtungen oder das Betreten von Räumlichkeiten der Universität mit sofortiger Wirkung untersagen. Ordnet die Rektorin oder der Rektor die Massnahme an, hat sie oder er den Fall unverzüglich der Universitätsanwältin oder dem Universitätsanwalt zu überweisen.
+
+<sup>3</sup> Ersucht die angeschuldigte Person darum, ist sie nach dem Erlass der vorsorglichen Massnahme innert sieben Tagen anzuhören.
+
+[^18-1]: Aufgehoben durch Urteil des Verwaltungsgerichts vom 8. Juli 2021 (AN.2020. 00007).
 
 #### § 21
 
-<sup>1</sup> Im Verfahren vor dem Disziplinarausschuss wird zunächst der Angeschuldigte zur Sache und zur Person befragt. Alsdann begründet der Universitätsanwalt seine Anträge, wobei er die den Angeschuldigten belastenden und entlastenden Tatsachen gleichermassen berücksichtigt. Der Angeschuldigte und sein Beistand haben das Recht, zu den Ausführungen des Universitätsanwaltes Stellung zu nehmen. Der Disziplinarausschuss kann ergänzende Erhebungen durchführen oder den Universitätsanwalt damit beauftragen.
+**Sicherstellung von Beweisgegenständen**
 
-<sup>2</sup> Erscheint der Angeschuldigte trotz Vorladung nicht vor dem Disziplinarausschuss, so wird das Verfahren nach einer halbstündigen Wartefrist gleichwohl durchgeführt.
+<sup>1</sup> Im Falle der Einleitung eines Disziplinarverfahrens sind die im Bereich der Universität befindlichen Beweisgegenstände von der Universitätsanwältin oder dem Universitätsanwalt sicherzustellen. Für die Sicherstellung gilt § 20 sinngemäss.
 
-<sup>3</sup> Das Verfahren ist nicht öffentlich.
+<sup>2</sup> In der Anordnung gemäss § 32 ist endgültig über die sichergestellten Gegenstände zu befinden.
 
-<sup>4</sup> An den Beratungen des Disziplinarausschusses nehmen der Universitätsanwalt, der Angeschuldigte und sein Beistand nicht teil.
+#### § 22
 
-§ 22.[^21-1] Jeder Entscheid eines Organs der Disziplinarrechtspflege, durch den ein Disziplinarverfahren eingestellt oder eine Disziplinarmassnahme erlassen wird, ist dem Angeschuldigten, dem Rektor und gegebenenfalls der Erziehungsdirektion und dem Universitätsanwalt schriftlich mit einer kurzen Begründung mitzuteilen. Im Entscheid ist auf die Rekursfrist und die Rekursinstanz hinzuweisen.
+**Beschleunigungsgrundsatz**
 
-[^21-1]: Fassung gemäss ERB vom 9. Dezember 1986 (OS 50, 76).
-[^21-2]: Fassung gemäss RRB vom 22. April 1998 (OS 54, 553).
+Das Disziplinarverfahren ist so rasch als möglich durchzuführen. Untersuchungshandlungen und nach Möglichkeit Verhandlungen sind auch in der vorlesungsfreien Zeit vorzunehmen.
+
+### V. Verfahren vor der Universitätsanwältin oder dem Universitätsanwalt
 
 #### § 23
 
-<sup>1</sup> Der Angeschuldigte, der Senatsausschuss, der Rektor oder der Universitätsanwalt können innert 30 Tagen[^21-2], von der Zustellung an gerechnet, Rekurs erheben. Ein Rekurs an die Erziehungsdirektion mit dem Antrag auf Ausschluss bzw. Widerruf im Sinne von § 8 Abs. 1 lit. c kann nur vom Senatsausschuss auf Antrag des Rektors oder des Universitätsanwaltes erhoben werden.[^21-1]
+**Ermittlungsgrundsatz**
 
-<sup>2</sup> Der Rekurs ist der Rekursinstanz schriftlich einzureichen und muss einen Antrag und dessen Begründung enthalten. Der angefochtene Entscheid ist beizulegen.
+<sup>1</sup> Die Universitätsanwältin oder der Universitätsanwalt hat den Sachverhalt zu ermitteln. Sie oder er kann die betroffene Fakultät um Mitwirkung bei der Aufklärung des Sachverhalts oder um Übermittlung von Akten oder Beweisgegenständen ersuchen.
 
-<sup>3</sup> Der Rekurs hat aufschiebende Wirkung, sofern der Vorsitzende der Rekursinstanz bzw. die Erziehungsdirektion ihm diese nicht entzieht.
+<sup>2</sup> Die Universitätsanwältin oder der Universitätsanwalt nimmt alle weiteren zur Abklärung der Sache erforderlichen Untersuchungshandlungen vor, namentlich die Befragung der angeschuldigten Person, den Beizug von Akten und Berichten und die Befragung von Auskunftspersonen.
 
-§ 24.[^23-1] Für die Organe der Disziplinarrechtspflege und ihre Mitglieder gelten die Ausstandsgründe nach § 5 a des Verwaltungsrechtspflegegesetzes vom 24. Mai 1959[^23-2].
+#### § 24
 
-[^23-1]: Fassung gemäss RRB vom 3. November 2010 (OS 65, 799; ABl 2010, 2429). In Kraft seit 1. Januar 2011.
-[^23-2]: LS 175.2.
+**Vorladung der angeschuldigten Person**
+
+<sup>1</sup> Die Universitätsanwältin oder der Universitätsanwalt lädt die angeschuldigte Person zur Befragung vor.
+
+<sup>2</sup> Die angeschuldigte Person ist verpflichtet, auf schriftliche Vorladung hin zur Befragung vor der Universitätsanwältin oder dem Universitätsanwalt persönlich zu erscheinen.
+
+<sup>3</sup> Erscheint die angeschuldigte Person nach Vorladung ohne genügende Entschuldigung nicht zur Befragung, kann die Universitätsanwältin oder der Universitätsanwalt das Verfahren ohne Befragung der angeschuldigten Person fortführen. In der Vorladung ist auf die Säumnisfolgen hinzuweisen.
+
+<sup>4</sup> Die Busse bei jedem Verstoss gegen Abs. 2 beträgt Fr. 200.
 
 #### § 25
 
-Bezüglich der Kosten gelten die Bestimmungen des Verwaltungsrechtspflegegesetzes vom 24. Mai 1959[^23-2], insbesondere §§ 13 ff.
+**Befragung der angeschuldigten Person**
+
+<sup>1</sup> Die angeschuldigte Person wird grundsätzlich allein befragt. An der Befragung kann ein Beistand der angeschuldigten Person teilnehmen.
+
+<sup>2</sup> Zusätzlich zum Beistand gemäss Abs. 1 ist auf Verlangen der angeschuldigten Person eine Vertreterin oder ein Vertreter des VSUZH beizuziehen. Diese Vertreterin oder dieser Vertreter des VSUZH darf nicht mit der Vertreterin oder dem Vertreter gemäss § 7 Abs. 2 lit. b identisch sein.
+
+<sup>3</sup> Die Befragung wird protokolliert. Nach Abschluss der Befragung wird der angeschuldigten Person das Protokoll vorgelegt. Sie hat das Protokoll nach Kenntnisnahme zu unterzeichnen. Lehnt sie es ab, das Protokoll durchzulesen und/oder zu unterzeichnen, werden die Weigerung und die dafür angegebenen Gründe im Protokoll vermerkt.
+
+<sup>4</sup> Die angeschuldigte Person ist zu Beginn der Befragung über den disziplinarrechtlichen Vorwurf zu orientieren und auf ihr Recht zu schweigen sowie auf ihre Rechte nach §§ 18, 19 und 27 hinzuweisen.
+
+<sup>5</sup> In begründeten Fällen ist die Teilnahme einer Vertreterin oder eines Vertreters der betroffenen Fakultät oder Organisationseinheit an der Befragung zu bewilligen.
 
 **7**
 
-- 1\. 1. 11 - 71
+- 1\. 1. 24 - 123 § 26. <sup>1</sup> Organe sowie Angehörige der Universität sind zur Aussage verpflichtet, sofern sie nicht angeschuldigt sind.
 
-### V. Schluss- und Übergangsbestimmungen
+**Befragung von Auskunftspersonen**
 
-[^hVSchlussundÜber-1]: Mit RRB 4681/1986 hat der Regierungsrat auf die Genehmigung von Änderungen und Neuerlassen der Disziplinarordnung verzichtet.
+<sup>2</sup> Hinsichtlich des Aussageverweigerungsrechts sind die Vorschriften über die Zeugnisverweigerungsrechte in der Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (StPO)[^25-1] sinngemäss anwendbar.
 
-#### § 26
-
-Die vorliegende Disziplinarordnung ersetzt diejenige vom 21. November 1972, genehmigt vom Regierungsrat am 13. Dezember 1972, und tritt nach Genehmigung[^hVSchlussundÜber-1] durch den Regierungsrat an dem auf die Veröffentlichung im kantonalen Amtsblatt folgenden Tage in Kraft.
+[^25-1]: SR 312.0.
 
 #### § 27
 
-Disziplinarfehler, die vor dem Inkrafttreten dieser Disziplinarordnung begangen worden sind, jedoch erst nach deren Inkrafttreten zur Beurteilung gelangen, unterstehen dem neuen Recht, sofern das bisherige nicht als das mildere erscheint.
+**Konfrontationsrecht**
+
+<sup>1</sup> Die angeschuldigte Person hat das Recht, an der Befragung von Auskunftspersonen teilzunehmen, sofern nicht zwingende Gründe entgegenstehen.
+
+<sup>2</sup> Sie kann Fragen an die Auskunftspersonen richten.
+
+#### § 28
+
+**Abschluss der Untersuchung**
+
+Nach Abschluss der Untersuchung erstattet die Universitätsanwältin oder der Universitätsanwalt der Disziplinarkommission schriftlich Bericht und Antrag, sofern sie oder er den Fall nicht in eigener Zuständigkeit erledigt.
+
+### VI. Verfahren vor der Disziplinarkommission
+
+#### § 29
+
+**Verhandlung vor der Disziplinarkommission**
+
+<sup>1</sup> Die Disziplinarkommission führt eine mündliche Verhandlung durch.
+
+<sup>2</sup> Für die Vorladung der angeschuldigten Person gilt § 24 sinngemäss.
+
+<sup>3</sup> Die Disziplinarkommission kann ergänzende Erhebungen durchführen oder die Universitätsanwältin oder den Universitätsanwalt mit deren oder dessen Einvernehmen damit beauftragen.
+
+#### § 30
+
+**Verhandlung vor der Disziplinarkommission**
+
+<sup>1</sup> Im Verfahren vor der Disziplinarkommission wird die angeschuldigte Person zur Person und zur Sache befragt. Danach vertritt die Universitätsanwältin oder der Universitätsanwalt mündlich die Anträge.
+
+<sup>2</sup> Die angeschuldigte Person und ihr Beistand haben das Recht, zu den Ausführungen der Universitätsanwältin oder des Universitätsanwaltes Stellung zu nehmen.
+
+<sup>3</sup> Das Verfahren ist nicht öffentlich.
+
+<sup>4</sup> An den Beratungen der Disziplinarkommission nehmen die Universitätsanwältin oder der Universitätsanwalt, die angeschuldigte Person und ihr Beistand nicht teil.
+
+### VII. Kosten des Verfahrens
+
+[^hVIIKostendesVerf-1]: LS 682.
+
+#### § 31
+
+**Kosten**
+
+<sup>1</sup> Zu den Verfahrenskosten gehören die Staatsgebühr sowie die Schreibgebühren, Barauslagen und Zustellkosten gemäss § 7 der Gebührenordnung für die Verwaltungsbehörden vom 30. Juni 1966[^hVIIKostendesVerf-1].
+
+<sup>2</sup> Die Staatsgebühr beträgt abhängig vom Zeitaufwand sowie von der finanziellen und rechtlichen Tragweite, die der Anordnung im Einzelfall zukommt, Fr. 200 bis Fr. 1000.
+
+<sup>3</sup> In besonders aufwendigen Verfahren kann die Staatsgebühr unter Angabe der Gründe bis auf das Doppelte des in Abs. 2 vorgesehenen Höchstansatzes erhöht werden.
+
+<sup>4</sup> Wird das Verfahren eingestellt, werden keine Kosten erhoben.
+
+<sup>5</sup> Die Universitätsanwältin oder der Universitätsanwalt oder die oder der Vorsitzende der Disziplinarkommission entscheidet in ihrem oder seinem Zuständigkeitsbereich über die Kosten des Verfahrens und die Gewährung unentgeltlicher Rechtspflege.
+
+### VIII. Bekanntmachungen und Mitteilungen
+
+#### § 32
+
+**Anordnungen der Disziplinarorgane, Rechtsmittelbelehrung**
+
+<sup>1</sup> Jede Entscheidung eines Organs der Disziplinarrechtspflege ist der angeschuldigten Person, der Rektorin oder dem Rektor und gegebenenfalls der Universitätsanwältin oder dem Universitätsanwalt in Form einer schriftlichen Anordnung mitzuteilen.
+
+<sup>2</sup> Die Organe der Disziplinarrechtspflege entscheiden über die Zustellung einer Abschrift an das Dekanat der betreffenden Fakultät. Der Abteilung Studierende ist das Ergebnis des Disziplinarverfahrens mitzuteilen.
+
+<sup>3</sup> Die Organe der Disziplinarrechtspflege können anonymisierte Anordnungen öffentlich zugänglich machen.
+
+### IX. Rekurs
+
+#### § 33
+
+**Zuständigkeit**
+
+Anordnungen gestützt auf diese Verordnung können gemäss § 46 UniG und §§ 19 ff. VRG mit Rekurs bei der Rekurskommission der Zürcher Hochschulen angefochten werden.
+
+**9**
+
+- 1\. 1. 24 - 123 § 34. Innert 30 Tagen, von der Zustellung an gerechnet, können Rekurs erheben:
+
+**Frist**
+
+- a. die angeschuldigte Person sowie die Rektorin oder der Rektor gegen Anordnungen der Universitätsanwältin oder des Universitätsanwalts,
+
+- b. die Berechtigten nach lit. a sowie die Universitätsanwältin oder der Universitätsanwalt gegen Anordnungen der Disziplinarkommission.
+
+### X. Übergangsbestimmung
+
+#### § 35
+
+<sup>1</sup> Disziplinarverstösse, die vor dem Inkrafttreten dieser Disziplinarverordnung begangen worden sind, jedoch erst nach deren Inkrafttreten zur Beurteilung gelangen, unterstehen dem neuen Recht, sofern nicht das bisherige milder ist.
+
+<sup>2</sup> Für die Amtszeit der Standesangehörigen gilt § 19 des Reglements für die Wahl der Delegierten der Stände in die Organe und weitere Gremien der Universität Zürich vom 3. Dezember 2019 (Wahlreglement)[^35-1]. Für die Amtszeit der Professorinnen und Professoren sowie der oder des Studierenden gilt § 19 Wahlreglement analog.
+
+[^35-1]: LS 415.111.2.
