@@ -4,11 +4,11 @@ title: "Ordinanza del 20 settembre 2002 sui documenti d'identità dei cittadini 
 short: ODI
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/468"
 language: it
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-468-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2002-468-20220601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20220101/it"
 
 (Ordinanza sui documenti d’identità, ODI)
 
-del 20 settembre 2002 (Stato 1° gennaio 2022)
+del 20 settembre 2002 (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -1034,73 +1034,73 @@ Allegato 1*[^t-1]*
 
 ## Autorizzazione per l’elaborazione o la consultazione dei dati registrati in ISA
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 1° feb. 2012 ([RU 2012 779](https://fedlex.data.admin.ch/eli/oc/2012/115)). Aggiornato dal n. II dell’O del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 455](https://fedlex.data.admin.ch/eli/oc/2014/77)).
+[^t-1]: Nuovo testo giusta il n. I 5 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
-A = consultazione; E = entrata e consultazione
+A = consultazione; E = registrazione e consultazione
 
 <table>
-<tr><th>Nome del campo dei dati</th><th colspan="6">Confederazione</th><th colspan="2">Cantoni</th><th colspan="3">Terzi</th></tr>
-<tr><th></th><th>Fedpol Doc. id.</th><th>Fedpol Pol</th><th>DFAE A. est. rilascio</th><th>DFAE A. int. rilascio</th><th>DFAE A. int. rilascio sost.</th><th>Cgcf</th><th>Cant. A. rilascio</th><th>Cant. UFP</th><th>Uff. pol. CID chiarimenti</th><th>Uff. pol. perdita</th><th>S. allestimento[^annex1-lvlu1-1]</th></tr>
-<tr><td>**Record doc. d’id. + banca dati**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>**I. Dati del documento d’identità**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Cognome ufficiale secondo l’art. 2 cpv. 1 lett. a LDI o cognome d’affinità</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Nome(i), lett. b</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Sesso, lett. c</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Data di nascita, lett. d</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Luogo d’origine, lett. e</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Cittadinanza, lett. f</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td></tr>
-<tr><td>Statura, lett. g</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Firma, lett. h</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Fotografia, lett. i / fotografia digitale, art. 14*a* cpv. 1 lett. b ODI</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td></tr>
-<tr><td>Impronte digitali, art. 14*a* cpv. 1 lett. c ODI</td><td>E</td><td>A<sup>1</sup></td><td>E<sup>1</sup></td><td>E<sup>1</sup></td><td></td><td>A<sup>1</sup></td><td>E<sup>1</sup></td><td>E<sup>1</sup></td><td>A<sup>1</sup></td><td></td><td></td></tr>
-<tr><td>Autorità di rilascio, lett. j LDI</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Data di rilascio, lett. k</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td></tr>
-<tr><td>Data di scadenza della validità, lett. l</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td></tr>
-<tr><td>Numero del documento, lett. m</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td></tr>
-<tr><td>Tipo di documento, lett. m</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td colspan="12"><sup>1</sup> Solo confronto, non si possono visualizzare sullo schermo e non si possono esportare i dati.</td></tr>
-<tr><td>Zona leggibile elettronicamente, art. 2 cpv. 2 LDI</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td></tr>
-<tr><td>Limitazione della validità, cpv. 3</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Registrazione su domanda del richiedente, cpv. 4</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Rappresentanti legali dei minorenni, cpv. 5</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>II. Dati supplementari nella banca dati</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Autorità richiedente, art. 11 cpv. 1 lett. a LDI</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Numero della richiesta</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Data della richiesta</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Numero di pratica</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
-<tr><td>Numero di fascicolo</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
-<tr><td>Tipo di richiesta</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
-<tr><td>Motivo della richiesta</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
-<tr><td>Osservazioni sulla richiesta</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
-<tr><td>Documenti relativi alla richiesta</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
-<tr><td>Documenti di viaggio sostitutivi</td><td>E</td><td></td><td>E</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
-<tr><td>Data della registrazione</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
-<tr><td>Servizio di produzione</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td>E</td></tr>
-<tr><td>Stato della produzione</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td></tr>
-<tr><td>Numero dell’invio</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>A</td><td></td><td></td><td>E</td></tr>
-<tr><td>Codice della lingua</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Data dell’incarico</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td></td><td></td><td></td><td>E</td></tr>
-<tr><td>Tipo di emolumento</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
-<tr><td>Conferma della produzione</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td></td><td></td><td></td><td>E</td></tr>
-<tr><td>Data dell’invio</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td></td><td></td><td></td><td>E</td></tr>
-<tr><td>Indirizzo del domicilio</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
-<tr><td>Recapito</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
-<tr><td>Indirizzo dell’invio</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
-<tr><td>Luogo di nascita, art. 11 cpv. 1 lett. b LDI</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Cognomi e nomi dei genitori, lett. d</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Numero AVS</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Data del primo e del nuovo rilascio, lett. e</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Modifica dei dati contenuti nel documento</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Iscrizioni inerenti al blocco, lett. f</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Deposito di un documento</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>A</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Rifiuto</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Notifica o revoca della perdita</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>A</td><td></td><td>E</td><td></td></tr>
-<tr><td>Ritiro</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>A</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Misure di protezione di minorenni o interdetti, lett. g</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Firma/e del/i rappresentante/i legale/i per documenti intestati a minorenni, lett. h</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
-<tr><td>Perdita e revoca della cittadinanza, lett. i</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Particolarità dei documenti d’identità diplomatici e consolari, lett. j (campo particolare)</td><td>A</td><td></td><td></td><td>E</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Stato del documento</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>A</td><td>A</td><td>A</td><td></td></tr>
+<tr><th>Nome del campo dei dati</th><th colspan="6">Confederazione</th><th colspan="2"></th><th></th><th></th><th></th><th></th><th></th><th colspan="2">Cantoni</th><th></th><th colspan="3">Terzi</th></tr>
+<tr><th></th><th>Fedpol Doc. id.</th><th>Fedpol Pol.</th><th>DFAE A. est. rialscio</th><th>DFAE A. int. rilascio</th><th>DFAE A. int. rilascio sost.</th><th colspan="2">Cgcf</th><th colspan="6">SIC</th><th>Cant. A. rilascio</th><th colspan="2">Cant. UFP</th><th>Uff. Pol. CID chiarimenti</th><th>Uff. Pol perdita</th><th>S. allestimento</th></tr>
+<tr><td>Record doc. d’id. e banca dati</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="2"></td><td></td><td></td><td></td></tr>
+<tr><td>I. Dati del documento d’identità</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="2"></td><td></td><td></td><td></td></tr>
+<tr><td>Cognome ufficiale secondo l’art. 2 cpv. 1 lett. a LDI o cognome d’affinità</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Nome(i), lett. b</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Sesso, lett. c</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Data di nascita, lett. d</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Luogo d’origine, lett. e</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Cittadinanza, lett. f</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td>E</td></tr>
+<tr><td>Statura, lett. g</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Firma, lett. h</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Fotografia, lett. i / fotografia digitale, art. 14*a* cpv. 1 lett. b ODI</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td>E</td></tr>
+<tr><td>Impronte digitali, art. 14*a* cpv. 1 lett. c ODI</td><td>E</td><td>A<sup>1</sup></td><td>E<sup>1</sup></td><td>E<sup>1</sup></td><td></td><td colspan="2">A<sup>1</sup></td><td colspan="6">A<sup>1</sup></td><td>E<sup>1</sup></td><td colspan="2">E<sup>1</sup></td><td>A<sup>1</sup></td><td></td><td></td></tr>
+<tr><td>Autorità di rilascio, lett. j LDI</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Data di rilascio, lett. k</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td>E</td></tr>
+<tr><td>Data di scadenza della validità, lett. l</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td>E</td></tr>
+<tr><td colspan="20"><sup>1</sup> Solo confronto, non si possono visualizzare sullo schermo e non si possono esportare i dati.</td></tr>
+<tr><td>Numero del documento, lett. m</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td>E</td></tr>
+<tr><td>Tipo di documento, lett. m</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Zona leggibile elettronicamente, art. 2 cpv. 2 LDI</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td>E</td></tr>
+<tr><td>Limitazione della validità, cpv. 3</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Registrazione su domanda del richiedente, cpv. 4</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Rappresentanti legali dei minorenni, cpv. 5</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>II. Dati supplementari nella banca dati</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="2"></td><td></td><td></td><td></td></tr>
+<tr><td>Autorità richiedente, art. 11 cpv. 1 lett. a LDI</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Numero della richiesta</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Data della richiesta</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Numero di pratica</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td colspan="2"></td><td colspan="6"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Numero di fascicolo</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td colspan="2"></td><td colspan="6"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Tipo di richiesta</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td colspan="2"></td><td colspan="6"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Motivo della richiesta</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td colspan="2"></td><td colspan="6"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Osservazioni sulla richiesta</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td colspan="2"></td><td colspan="6"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Documenti relativi alla richiesta</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td colspan="2"></td><td colspan="6"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Documenti di viaggio sostitutivi</td><td>E</td><td></td><td>E</td><td></td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>A</td><td colspan="2">A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Data della registrazione</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td colspan="2"></td><td colspan="6"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Servizio di produzione</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td colspan="2"></td><td colspan="6"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td>E</td></tr>
+<tr><td>Stato della produzione</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td>E</td></tr>
+<tr><td>Numero dell’invio</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td colspan="2"></td><td colspan="6"></td><td>E</td><td colspan="2">A</td><td></td><td></td><td>E</td></tr>
+<tr><td>Codice della lingua</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Data dell’incarico</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td colspan="2"></td><td colspan="6"></td><td>E</td><td colspan="2"></td><td></td><td></td><td>E</td></tr>
+<tr><td>Tipo di emolumento</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td colspan="2"></td><td colspan="6"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Conferma della produzione</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td colspan="2"></td><td colspan="6"></td><td>E</td><td colspan="2"></td><td></td><td></td><td>E</td></tr>
+<tr><td>Data dell’invio</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td colspan="2"></td><td colspan="6"></td><td>E</td><td colspan="2"></td><td></td><td></td><td>E</td></tr>
+<tr><td>Indirizzo del domicilio</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td colspan="2"></td><td colspan="6"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Recapito</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td colspan="2"></td><td colspan="6"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Indirizzo dell’invio</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td colspan="2"></td><td colspan="6"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Luogo di nascita, art. 11 cpv. 1 lett. b LDI</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Cognomi e nomi dei genitori, lett. d</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Numero AVS</td><td>A</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="2"></td><td></td><td></td><td></td></tr>
+<tr><td>Data del primo e del nuovo rilascio, lett. e</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Modifica dei dati contenuti nel documento</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Iscrizioni inerenti al blocco, lett. f</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td colspan="2"></td><td colspan="6"></td><td>E</td><td colspan="2">A</td><td></td><td></td><td></td></tr>
+<tr><td>Deposito di un documento</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Rifiuto</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2"></td><td colspan="6"></td><td>E</td><td colspan="2">A</td><td></td><td></td><td></td></tr>
+<tr><td>Notifica o revoca della perdita</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td colspan="2"></td><td colspan="6"></td><td>E</td><td colspan="2">A</td><td></td><td>E</td><td></td></tr>
+<tr><td>Ritiro</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Misure di protezione di minorenni o interdetti, lett. g</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td colspan="2"></td><td colspan="6"></td><td>E</td><td colspan="2">A</td><td></td><td></td><td></td></tr>
+<tr><td>Firma/e del/i rappresentante/i legale/i per documenti intestati a minorenni, lett. h</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td colspan="2"></td><td colspan="6"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
+<tr><td>Perdita e revoca della cittadinanza, lett. i</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td colspan="2"></td><td colspan="6"></td><td>E</td><td colspan="2">A</td><td></td><td></td><td></td></tr>
+<tr><td>Particolarità dei documenti d’identità diplomatici e consolari, lett. j (campo particolare)</td><td>A</td><td></td><td></td><td>E</td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td colspan="2"></td><td></td><td></td><td></td></tr>
+<tr><td>Stato del documento</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">A</td><td>A</td><td>A</td><td></td></tr>
 </table>
 
 **Abbreviazioni:**
@@ -1112,14 +1112,13 @@ A = consultazione; E = entrata e consultazione
 <tr><td>DFAE A. int. rilascio:</td><td>Autorità di rilascio interne del DFAE per passaporti diplomatici biometrici, passaporti di servizio biometrici e passaporti provvisori (art. 12 cpv. 1 lett. b LDI)</td></tr>
 <tr><td>DFAE A. int. rilascio sost.:</td><td>Autorità di rilascio interna del DFAE per documenti di viaggio sostitutivi</td></tr>
 <tr><td>Cgcf:</td><td>Corpo delle guardie di confine (art. 12 cpv. 2 lett. c LDI)</td></tr>
+<tr><td>SIC:</td><td>Servizio delle attività informative della Confederazione (art. 12 cpv. 2 lett. g LDI)</td></tr>
 <tr><td>Cant. A. rilascio:</td><td>Autorità cantonale di rilascio (art. 12 cpv. 1 lett. b LDI)</td></tr>
 <tr><td>Cant. UPP:</td><td>Autorità cantonale di rilascio per passaporti provvisori (art. 12 cpv. 1 lett. b LDI)</td></tr>
 <tr><td>Uff. pol. CID chiarimenti:</td><td>Uffici di polizia designati dai Cantoni per la verifica dell’identità (art. 12 cpv. 2 lett. d LDI)</td></tr>
 <tr><td>Uff. pol. perdita:</td><td>Uffici di polizia designati dai Cantoni per la registrazione delle comunicazioni concernenti la perdita (art. 12 cpv. 2 lett. e LDI)</td></tr>
 <tr><td>S. allestimento:</td><td>servizio preposto all’allestimento dei documenti d’identità ordinari (art. 12 cpv. 1 lett. c LDI)</td></tr>
 </table>
-
-[^annex1-lvlu1-1]: Nuova espr.
 
 Allegato 2*[^t-2]*
 
