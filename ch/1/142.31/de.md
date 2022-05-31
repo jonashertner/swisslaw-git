@@ -4,11 +4,11 @@ title: Asylgesetz vom 26. Juni 1998 (AsylG)
 short: AsylG
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: de
-version: 2021-01-01
+version: 2022-06-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1999-358-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20220601/de/xml/fedlex-data-admin-ch-eli-cc-1999-358-20220601-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20210101/de"
 
 (AsylG)
 
-vom 26. Juni 1998 (Stand am 1. Januar 2021)
+vom 26. Juni 1998 (Stand am 1. Juni 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -78,6 +78,16 @@ Die Schweiz kann Schutzbedürftigen für die Dauer einer schweren allgemeinen Ge
 
 <sup>2</sup> Eine Person kann sich nicht auf das Rückschiebungsverbot berufen, wenn erhebliche Gründe für die Annahme vorliegen, dass sie die Sicherheit der Schweiz gefährdet, oder wenn sie als gemeingefährlich einzustufen ist, weil sie wegen eines besonders schweren Verbrechens oder Vergehens rechtskräftig verurteilt worden ist.
 
+#### Art. 5a
+
+**Zusammenarbeit und Koordination mit fedpol**[^5a-1]
+
+<sup>1</sup> Das Staatssekretariat für Migration (SEM) arbeitet im Rahmen seiner gesetzlichen Aufgaben bei der Terrorismusbekämpfung mit fedpol zusammen.
+
+<sup>2</sup> Es koordiniert die Massnahmen in seinem Zuständigkeitsbereich mit den vorbeugenden polizeilichen und administrativen Massnahmen von fedpol.
+
+[^5a-1]: Eingefügt durch Ziff. I 3 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
 #### Art. 6
 
 **Verfahrensgrundsätze**[^6-1]
@@ -97,7 +107,7 @@ Verfahren richten sich nach dem Verwaltungsverfahrensgesetz vom 20. Dezember 196
 
 **Zuständige Behörde**[^6a-1]
 
-<sup>1</sup> Das Staatssekretariat für Migration (SEM)[^6a-2] entscheidet über Gewährung oder Verweigerung des Asyls sowie über die Wegweisung aus der Schweiz.
+<sup>1</sup> Das SEM entscheidet über Gewährung oder Verweigerung des Asyls sowie über die Wegweisung aus der Schweiz.[^6a-2]
 
 <sup>2</sup>
 
@@ -111,7 +121,7 @@ Der Bundesrat bezeichnet neben den EU/EFTA-Staaten weitere Staaten, in denen nac
 <sup>4</sup> Er unterbreitet den zuständigen Kommissionen der eidgenössischen Räte die Liste nach Absatz 2 Buchstabe a vor jeder beabsichtigten Änderung, mindestens aber einmal pro Jahr zur Konsultation.[^6a-4]
 
 [^6a-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^6a-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^6a-2]: Fassung gemäss Ziff. I 3 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^6a-3]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^6a-4]: Eingefügt durch Anhang Ziff. 1 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
@@ -169,19 +179,20 @@ Asylsuchende sind verpflichtet, an der Feststellung des Sachverhaltes mitzuwirke
 
 **Sicherstellung und Einziehung von Dokumenten**
 
-<sup>1</sup> Das SEM nimmt die Reisepapiere und Identitätsausweise von Asylsuchenden zu den Akten.[^10-1]
+<sup>1</sup> Das SEM[^10-1] nimmt die Reisepapiere und Identitätsausweise von Asylsuchenden zu den Akten.[^10-2]
 
-<sup>2</sup> Behörden und Amtsstellen stellen zuhanden des SEM Reisepapiere, Identitätsausweise oder andere Dokumente sicher, wenn sie Hinweise auf die Identität einer Person, welche in der Schweiz ein Asylgesuch eingereicht hat, geben können. Bei anerkannten Flüchtlingen gilt Absatz 5.[^10-2]
+<sup>2</sup> Behörden und Amtsstellen stellen zuhanden des SEM Reisepapiere, Identitätsausweise oder andere Dokumente sicher, wenn sie Hinweise auf die Identität einer Person, welche in der Schweiz ein Asylgesuch eingereicht hat, geben können. Bei anerkannten Flüchtlingen gilt Absatz 5.[^10-3]
 
 <sup>3</sup> Überprüft die sicherstellende Behörde oder Amtsstelle Dokumente nach Absatz 2 auf ihre Echtheit hin, so ist dem SEM das Resultat dieser Überprüfung mitzuteilen.
 
 <sup>4</sup> Verfälschte und gefälschte Dokumente sowie echte Dokumente, die missbräuchlich verwendet wurden, können vom SEM oder von der Beschwerdeinstanz eingezogen oder zuhanden des Berechtigten sichergestellt werden.
 
-<sup>5</sup> Pässe oder Identitätsausweise, welche den in der Schweiz anerkannten Flüchtlingen von deren Heimatstaat ausgestellt wurden, sind zuhanden des SEM sicherzustellen.[^10-3]
+<sup>5</sup> Pässe oder Identitätsausweise, welche den in der Schweiz anerkannten Flüchtlingen von deren Heimatstaat ausgestellt wurden, sind zuhanden des SEM sicherzustellen.[^10-4]
 
-[^10-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^10-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^10-3]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^10-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^10-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^10-3]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^10-4]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
 #### Art. 11
 
@@ -302,7 +313,7 @@ Die Interessen von unbegleiteten minderjährigen Asylsuchenden werden wahrgenomm
 
 <sup>3bis</sup> Bestehen Hinweise, dass eine angeblich minderjährige asylsuchende Person das Mündigkeitsalter bereits erreicht hat, so kann das SEM ein Altersgutachten veranlassen.[^17-4]
 
-<sup>4</sup> ...[^17-5]
+<sup>4</sup> …[^17-5]
 
 <sup>5</sup> Bei der Eröffnung eines Entscheids nach Artikel 23 Absatz 1, 31*a* oder 111*c* stellt das SEM der asylsuchenden oder der von ihr bevollmächtigten Person gleichzeitig die Verfahrensakten zu, wenn der Vollzug der Wegweisung angeordnet wurde.[^17-6]
 
@@ -747,12 +758,14 @@ Bei Nichteintretensentscheiden nach Artikel 31*a* Absatz 1 wird der asylsuchende
 
 <sup>5</sup> In den übrigen Fällen sind Nichteintretensentscheide innerhalb von fünf Arbeitstagen und Entscheide innerhalb von zehn Arbeitstagen nach der Gesuchstellung zu treffen.
 
-<sup>6</sup> Das SEM entscheidet ausserhalb der Reihe und unverzüglich, wenn die asylsuchende Person auf der Grundlage eines Ersuchens des Staates, vor welchem diese Schutz in der Schweiz sucht, in Auslieferungshaft ist. Dies gilt auch, wenn gegen sie eine Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> des Strafgesetzbuchs (StGB)[^37-3] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^37-4] (MStG) ausgesprochen wurde.
+<sup>6</sup> Das SEM entscheidet ausserhalb der Reihe und unverzüglich, wenn die asylsuchende Person auf der Grundlage eines Ersuchens des Staates, vor welchem diese Schutz in der Schweiz sucht, in Auslieferungshaft ist. Dies gilt auch, wenn gegen sie eine Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> des Strafgesetzbuchs (StGB)[^37-3] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^37-4] (MStG) oder eine Ausweisung nach Artikel 68 AIG[^37-5] ausgesprochen wurde.[^37-6]
 
 [^37-1]: Fassung gemäss Ziff. I, Abs. 4 und 6 gemäss Ziff. IV 2 des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^37-2]: Verordnung (EU) Nr. 604/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist (Neufassung), Fassung gemäss ABl. L 180 vom 29.6.2013, S. 31.
 [^37-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^37-4]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^37-5]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^37-6]: Fassung gemäss Ziff. I 3 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 37a
 
@@ -951,13 +964,13 @@ Flüchtlingen, die in einem andern Staat aufgenommen worden sind, kann Asyl gew�
 
 <sup>1bis</sup> Hat das SEM während des Asylverfahrens Anhaltspunkte dafür, dass ein Ungültigkeitsgrund nach Artikel 105 Ziffer 5 oder 6 des Zivilgesetzbuchs[^51-2] (ZGB) vorliegt, so meldet es dies der nach Artikel 106 ZGB zuständigen Behörde. Das Verfahren wird bis zur Entscheidung dieser Behörde sistiert. Erhebt die Behörde Klage, so wird das Verfahren bis zum Vorliegen des rechtskräftigen Urteils sistiert.[^51-3]
 
-<sup>2</sup> ...[^51-4]
+<sup>2</sup> …[^51-4]
 
 <sup>3</sup> In der Schweiz geborene Kinder von Flüchtlingen werden auch als Flüchtlinge anerkannt, sofern keine besonderen Umstände dagegen sprechen.[^51-5]
 
 <sup>4</sup> Wurden die anspruchsberechtigten Personen nach Absatz 1 durch die Flucht getrennt und befinden sie sich im Ausland, so ist ihre Einreise auf Gesuch hin zu bewilligen.[^51-6]
 
-<sup>5</sup> ...[^51-7]
+<sup>5</sup> …[^51-7]
 
 [^51-1]: Fassung gemäss Ziff. I 2 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangs- heiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 [^51-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
@@ -969,9 +982,9 @@ Flüchtlingen, die in einem andern Staat aufgenommen worden sind, kann Asyl gew�
 
 #### Art. 52
 
-<sup>1</sup> ...[^52-1]
+<sup>1</sup> …[^52-1]
 
-<sup>2</sup> ...[^52-2]
+<sup>2</sup> …[^52-2]
 
 [^52-1]: Aufgehoben durch Ziff. I des BG vom 16. Dez. 2005, mit Wirkung seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^52-2]: Aufgehoben durch Ziff. I des BG vom 25. Sept. 2015, mit Wirkung seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
@@ -1061,7 +1074,7 @@ Personen, denen die Schweiz Asyl gewährt hat oder welche die Flüchtlingseigens
 
 **Erwerbstätigkeit**[^61-1]
 
-<sup>1</sup> Personen, denen die Schweiz Asyl gewährt oder die sie als Flüchtlinge vorläufig aufgenommen hat, sowie Flüchtlinge mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^61-2] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^61-3] können in der ganzen Schweiz eine Erwerbstätigkeit ausüben, wenn die orts-, berufs- und branchenüblichen Lohn- und Arbeitsbedingungen eingehalten werden (Art. 22 AIG[^61-4]).[^61-5]
+<sup>1</sup> Personen, denen die Schweiz Asyl gewährt oder die sie als Flüchtlinge vorläufig aufgenommen hat, sowie Flüchtlinge mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^61-2] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^61-3] oder mit einer rechtskräftigen Ausweisung nach Artikel 68 AIG[^61-4] können in der ganzen Schweiz eine Erwerbstätigkeit ausüben, wenn die orts-, berufs- und branchenüblichen Lohn- und Arbeitsbedingungen eingehalten werden (Art. 22 AIG).[^61-5]
 
 <sup>2</sup> Die Aufnahme und die Beendigung der Erwerbstätigkeit sowie ein Stellenwechsel müssen vom Arbeitgeber vorgängig der vom Kanton bezeichneten, für den Arbeitsort zuständigen Behörde gemeldet werden. Das Meldeverfahren richtet sich nach Artikel 85*a* Absätze 2–6 AIG.
 
@@ -1071,7 +1084,7 @@ Personen, denen die Schweiz Asyl gewährt hat oder welche die Flüchtlingseigens
 [^61-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^61-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^61-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^61-5]: Fassung gemäss Anhang Ziff. 1 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^61-5]: Fassung gemäss Ziff. I 3 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 62
 
@@ -1176,7 +1189,7 @@ Die Weg- oder Ausweisung von Flüchtlingen richtet sich nach Artikel 64 AIG[^65-
 
 <sup>2</sup> Der Entscheid über die Gewährung vorübergehenden Schutzes kann nur mit der Begründung angefochten werden, er verletze den Grundsatz der Einheit der Familie.
 
-<sup>3</sup> ...[^68-1]
+<sup>3</sup> …[^68-1]
 
 [^68-1]: Aufgehoben durch Ziff. I des BG vom 25. Sept. 2015, mit Wirkung seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
@@ -1331,12 +1344,14 @@ Der vorübergehende Schutz erlischt, wenn die schutzbedürftige Person:
 - a. den Mittelpunkt ihrer Lebensverhältnisse ins Ausland verlegt hat;
 - b. auf den vorübergehenden Schutz verzichtet hat;
 - c. gestützt auf das AIG[^79-2] eine Niederlassungsbewilligung erhalten hat; oder
-- d. mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^79-3] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^79-4] belegt ist.
+- d.[^79-3] mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^79-4] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^79-5] oder mit einer rechtskräftigen Ausweisung nach Artikel 68 AIG[^79-6] belegt ist.
 
 [^79-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 [^79-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^79-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^79-4]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^79-3]: Fassung gemäss Ziff. I 3 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^79-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^79-5]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^79-6]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
 #### Art. 79a
 
@@ -1547,22 +1562,24 @@ Die zuständigen Behörden können die Sonderabgabe nur erheben, wenn die betref
 
 <sup>2</sup> Die Pauschalen für asylsuchende und schutzbedürftige Personen ohne Aufenthaltsbewilligung decken namentlich die Kosten für die Sozialhilfe sowie die obligatorische Krankenpflegeversicherung und enthalten zudem einen Beitrag an die Betreuungskosten.
 
-<sup>3</sup> Die Pauschalen für Flüchtlinge und schutzbedürftige Personen mit Aufenthaltsbewilligung und für Flüchtlinge mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^88-3] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^88-4] decken namentlich die Kosten für die Sozialhilfe und enthalten zudem einen Beitrag an die Betreuungs- und Verwaltungskosten. Sie werden längstens während fünf Jahren nach Einreichung des Asylgesuchs ausgerichtet.[^88-5]
+<sup>3</sup> Die Pauschalen für Flüchtlinge und schutzbedürftige Personen mit Aufenthaltsbewilligung und für Flüchtlinge mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^88-3] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^88-4] oder mit einer rechtskräftigen Ausweisung nach Artikel 68 AIG[^88-5] decken namentlich die Kosten für die Sozialhilfe und enthalten zudem einen Beitrag an die Betreuungs- und Verwaltungskosten.[^88-6] Sie werden längstens während fünf Jahren nach Einreichung des Asylgesuchs ausgerichtet.[^88-7]
 
-<sup>3bis</sup> Der Bund kann für Personen, die im Rahmen einer Asylgewährung für Flüchtlingsgruppen nach Artikel 56 in der Schweiz aufgenommen werden, die Pauschale nach Absatz 3 länger als fünf Jahre ausrichten, namentlich wenn diese Personen bei ihrer Einreise behindert oder betagt sind.[^88-6]
+<sup>3bis</sup> Der Bund kann für Personen, die im Rahmen einer Asylgewährung für Flüchtlingsgruppen nach Artikel 56 in der Schweiz aufgenommen werden, die Pauschale nach Absatz 3 länger als fünf Jahre ausrichten, namentlich wenn diese Personen bei ihrer Einreise behindert oder betagt sind.[^88-8]
 
-<sup>4</sup> Die Pauschalen für Personen, die nach Artikel 82 nur Anspruch auf Nothilfe haben, sind eine Entschädigung für die Gewährung der Nothilfe.[^88-7]
+<sup>4</sup> Die Pauschalen für Personen, die nach Artikel 82 nur Anspruch auf Nothilfe haben, sind eine Entschädigung für die Gewährung der Nothilfe.[^88-9]
 
-<sup>5</sup> ...[^88-8]
+<sup>5</sup> …[^88-10]
 
 [^88-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^88-2]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^88-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^88-4]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^88-5]: Fassung gemäss Anhang Ziff. 2 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^88-6]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^88-7]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^88-8]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^88-5]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^88-6]: Fassung gemäss Ziff. I 3 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^88-7]: Fassung gemäss Anhang Ziff. 2 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^88-8]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^88-9]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^88-10]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 89
 
@@ -1621,7 +1638,7 @@ Er bestimmt die Ausgestaltung der Pauschalen sowie die Dauer ihrer Ausrichtung u
 
 **Weitere Beiträge**
 
-<sup>1</sup> und <sup>2</sup>...[^91-1]
+<sup>1</sup> und <sup>2</sup>…[^91-1]
 
 <sup>2bis</sup> Der Bund zahlt den Kantonen für asylsuchende und schutzbedürftige Personen ohne Aufenthaltsbewilligung einen Pauschalbeitrag an die Verwaltungskosten.[^91-2]
 
@@ -1629,11 +1646,11 @@ Er bestimmt die Ausgestaltung der Pauschalen sowie die Dauer ihrer Ausrichtung u
 
 <sup>3</sup> Er kann an Einrichtungen für traumatisierte Personen, die sich gestützt auf dieses Gesetz in der Schweiz aufhalten, Beiträge leisten.
 
-<sup>4</sup> ...[^91-4]
+<sup>4</sup> …[^91-4]
 
 <sup>4bis</sup> Er kann Beiträge für die Durchführung von Beschäftigungsprogrammen für Personen ausrichten, welche sich in Zentren des Bundes aufhalten. Er schliesst zu diesem Zweck Leistungsvereinbarungen mit den Standortkantonen, Standortgemeinden oder beauftragten Dritten ab.[^91-5]
 
-<sup>5</sup> ...[^91-6]
+<sup>5</sup> …[^91-6]
 
 <sup>6</sup> Der Bund vergütet den Kantonen die Personalkosten, die ihnen durch die Entscheidvorbereitung nach Artikel 31 entstehen.
 
@@ -1790,7 +1807,7 @@ Das Plangenehmigungsgesuch ist mit den erforderlichen Unterlagen bei der Genehmi
 
 <sup>2</sup> Das Gesuch ist in den amtlichen Publikationsorganen der betroffenen Kantone und Gemeinden sowie im Bundesblatt zu publizieren und während 30 Tagen öffentlich aufzulegen.
 
-<sup>3</sup> ...[^95e-1]
+<sup>3</sup> …[^95e-1]
 
 [^95e-1]: Aufgehoben durch Anhang Ziff. 1 des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
@@ -1861,7 +1878,7 @@ Das vereinfachte Plangenehmigungsverfahren wird angewendet bei:
 
 <sup>1</sup> Nach Abschluss des Plangenehmigungsverfahrens wird, soweit erforderlich, das Einigungs- und Schätzungsverfahren vor der Eidgenössischen Schätzungskommission (Schätzungskommission) nach den Bestimmungen des EntG[^95k-1] durchgeführt.[^95k-2]
 
-<sup>2</sup> ...[^95k-3]
+<sup>2</sup> …[^95k-3]
 
 <sup>3</sup> Der Präsident der Schätzungskommission kann gestützt auf einen vollstreckbaren Plangenehmigungsentscheid die vorzeitige Besitzeinweisung bewilligen. Dabei wird vermutet, dass dem Enteigner ohne die vorzeitige Besitzeinweisung bedeutende Nachteile entstünden. Im Übrigen gilt Artikel 76 EntG.
 
@@ -2420,7 +2437,7 @@ Mit der Beschwerde kann gerügt werden:
 
 - a. Verletzung von Bundesrecht, einschliesslich Missbrauch und Überschreitung des Ermessens;
 - b. unrichtige und unvollständige Feststellung des rechtserheblichen Sachverhalts;
-- c.[^106-2] ...
+- c.[^106-2] …
 
 <sup>2</sup> Artikel 27 Absatz 3 und Artikel 68 Absatz 2 bleiben vorbehalten.
 
@@ -2440,7 +2457,7 @@ Selbständig anfechtbar sind ausserdem, sofern sie einen nicht wieder gutzumache
 - a. vorsorgliche Massnahmen;
 - b. Verfügungen, mit denen das Verfahren sistiert wird, ausser Verfügungen nach Artikel 69 Absatz 3.
 
-<sup>3</sup> ...[^107-3]
+<sup>3</sup> …[^107-3]
 
 [^107-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^107-2]: Fassung gemäss Anhang Ziff. II 1 des BG vom 16. Dez. 2005 über Ausländerinnen und Ausländer, in Kraft seit 1. Jan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
@@ -2504,11 +2521,13 @@ Liegt gegen die asylsuchende Person ein Auslieferungsersuchen im Sinne des Recht
 
 <sup>6</sup> In den übrigen Fällen entscheidet das Bundesverwaltungsgericht über Beschwerden innerhalb von 20 Tagen.
 
-<sup>7</sup> Es entscheidet ausserhalb der Reihe und unverzüglich, wenn die asylsuchende Person auf der Grundlage eines Ersuchens des Staates, vor welchem diese Schutz in der Schweiz sucht, in Auslieferungshaft ist. Dies gilt auch, wenn gegen die asylsuchende Person eine Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^109-2] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^109-3] ausgesprochen wurde.
+<sup>7</sup> Es entscheidet ausserhalb der Reihe und unverzüglich, wenn die asylsuchende Person auf der Grundlage eines Ersuchens des Staates, vor welchem diese Schutz in der Schweiz sucht, in Auslieferungshaft ist. Dies gilt auch, wenn gegen die asylsuchende Person eine Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^109-2] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^109-3] oder eine Ausweisung nach Artikel 68 AIG[^109-4] ausgesprochen wurde.[^109-5]
 
 [^109-1]: Fassung gemäss Ziff. I, Abs. 5 und 7 gemäss Ziff. IV 2 des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^109-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^109-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^109-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^109-5]: Fassung des zweiten Satzes gemäss Ziff. I 3 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 109a
 
@@ -2560,7 +2579,7 @@ Die Richter entscheiden in folgenden Fällen als Einzelrichter:
 - a. Abschreibung von Beschwerden infolge Gegenstandslosigkeit;
 - b. Nichteintreten auf offensichtlich unzulässige Beschwerden;
 - c. Entscheid über die vorläufige Verweigerung der Einreise am Flughafen und Zuweisung eines Aufenthaltsorts am Flughafen;
-- d.[^111-2] ...
+- d.[^111-2] …
 - e. mit Zustimmung eines zweiten Richters: offensichtlich begründete oder unbegründete Beschwerden.
 
 [^111-1]: Fassung gemäss Ziff. I und IV 1 des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
@@ -2677,7 +2696,7 @@ Während der Dauer eines Rechtsmittelverfahrens beginnt die Verjährung von fina
 
 #### Art. 112b
 
-**...[^112b-2]**[^112b-1]
+**…[^112b-2]**[^112b-1]
 
 <sup>1</sup> Der Bundesrat kann Testphasen zur Beurteilung neuer Verfahrensabläufe vorsehen, wenn diese aufgrund von aufwendigen, organisatorischen und technischen Massnahmen eine Testphase vor dem Erlass einer Gesetzesänderung erfordern.
 
@@ -2735,7 +2754,7 @@ Mit Geldstrafe bis zu 180 Tagessätzen wird bestraft, sofern nicht ein mit einer
 
 - a. durch unwahre oder unvollständige Angaben oder in anderer Weise aufgrund dieses Gesetzes für sich oder einen anderen einen geldwerten Vorteil erwirkt, der ihm nicht zukommt;
 - b.[^115-3] sich durch unwahre oder unvollständige Angaben oder in anderer Weise der Pflicht zur Leistung der Sonderabgabe nach Artikel 86 ganz oder teilweise entzieht;
-- c.[^115-4] ...
+- c.[^115-4] …
 - d.[^115-5] in der Absicht, sich zu bereichern, zu einer Straftat im Sinne von Artikel 116 Buchstabe c Hilfe geleistet hat, insbesondere durch Planung oder Organisation.
 
 [^115-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Ausdruck gemäss Anhang Ziff. 2 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
@@ -2790,7 +2809,7 @@ Wer in Eurodac gespeicherte Personendaten für einen anderen Zweck bearbeitet al
 
 #### Art. 118
 
-**...[^118-1]**
+**…[^118-1]**
 
 Die Strafverfolgung ist Sache der Kantone.
 
@@ -2813,7 +2832,7 @@ Es werden aufgehoben:
 - a. das Asylgesetz vom 5. Oktober 1979[^120-1];
 - b. der Bundesbeschluss vom 16. Dezember 1994[^120-2] über Sparmassnahmen im Asyl- und Ausländerbereich.
 
-[^120-1]: [[AS 1980 1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718), [1986 2062](https://fedlex.data.admin.ch/eli/oc/1986/2062_2062_2062), [1987 1674](https://fedlex.data.admin.ch/eli/oc/1987/1674_1674_1674), [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)[1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 8.1 [2876](https://fedlex.data.admin.ch/eli/oc/1994/2876_2876_2876), [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146)Ziff. II [1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126)Ziff. II 1 [4356](https://fedlex.data.admin.ch/eli/oc/1995/4356_4356_4356), [1997 2372](https://fedlex.data.admin.ch/eli/oc/1997/2372_2372_2372)[2394](https://fedlex.data.admin.ch/eli/oc/1997/2394_2394_2394), [1998 1582](https://fedlex.data.admin.ch/eli/oc/1998/1582_1582_1582)]
+[^120-1]: [[AS 1980 1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718); [1986 2062](https://fedlex.data.admin.ch/eli/oc/1986/2062_2062_2062); [1987 1674](https://fedlex.data.admin.ch/eli/oc/1987/1674_1674_1674); [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938), [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 8.1, [2876](https://fedlex.data.admin.ch/eli/oc/1994/2876_2876_2876); [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146)Ziff. II, [1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126)Ziff. II 1, [4356](https://fedlex.data.admin.ch/eli/oc/1995/4356_4356_4356); [1997 2372](https://fedlex.data.admin.ch/eli/oc/1997/2372_2372_2372), [2394](https://fedlex.data.admin.ch/eli/oc/1997/2394_2394_2394); [1998 1582](https://fedlex.data.admin.ch/eli/oc/1998/1582_1582_1582)]
 [^120-2]: [[AS 1994 2876](https://fedlex.data.admin.ch/eli/oc/1994/2876_2876_2876)]
 
 #### Art. 121
@@ -2830,7 +2849,7 @@ Es werden aufgehoben:
 
 <sup>5</sup> Für die Ausrichtung von Fürsorgeleistungen an Flüchtlinge mit Aufenthaltsbewilligung gilt bis zwei Jahre nach Inkrafttreten dieses Gesetzes das bisherige Recht.
 
-[^121-1]: [BS **1** 121; [AS 1949 221](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225), [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665), [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332), [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)Ziff. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)Ziff. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)Ziff. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)Art. 18 Ziff. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)Anhang Ziff. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)Anhang Ziff. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)Anhang Ziff. 1. [AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Anhang Ziff. I]. Siehe heute: das Ausländer- und Integrationsgesetz vom 16. Dez. 2005 ([SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
+[^121-1]: [BS **1** 121; [AS 1949 221](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)Ziff. III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148); [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. IV 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)Ziff. I 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)Ziff. I 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)Art. 18 Ziff. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)Anhang Ziff. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)Anhang Ziff. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)Anhang Ziff. 1. [AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Anhang Ziff. I]. Siehe heute: das Ausländer- und Integrationsgesetz vom 16. Dez. 2005 ([SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
 
 #### Art. 122
 
@@ -2937,7 +2956,7 @@ Für Asylgesuche, die im Ausland vor dem Inkrafttreten der Änderung vom 28. Sep
 
 [^u6-1]
 
-[^u6-1]: [AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)
+[^u6-1]: [AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)
 
 <sup>1</sup> Für die im Zeitpunkt des Inkrafttretens der Änderung vom 25. September 2015 hängigen Verfahren gilt das bisherige Recht. Vorbehalten bleibt Absatz 2.
 
@@ -2949,13 +2968,13 @@ Für Asylgesuche, die im Ausland vor dem Inkrafttreten der Änderung vom 28. Sep
 
 <sup>5</sup> Die im Zeitpunkt des Inkrafttretens der Änderung vom 25. September 2015 erstinstanzlich hängigen Bewilligungsverfahren zur Errichtung von Bauten und Anlagen, die dem Bund zur Unterbringung Asylsuchender oder zur Durchführung von Asylverfahren dienen, werden im Verfahren nach dem 6*a*. Kapitel fortgeführt.
 
-[^u6-2]: [AS 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612), [2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379)
+[^u6-2]: [AS 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612); [2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379)
 
 ## Übergangsbestimmung zur Änderung vom 16. Dezember 2016****
 
 [^u7-1]
 
-[^u7-1]: [AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [BBl 2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524), [2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416)
+[^u7-1]: [AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [BBl 2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524); [2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416)
 
 Für die im Zeitpunkt des Inkrafttretens der Änderung vom 16. Dezember 2016 hängigen Verfahren und offenen Forderungen nach den Artikeln 86 und 87 dieses Gesetzes und nach Artikel 88 AIG[^u7-2] gilt das bisherige Recht.
 
@@ -2987,6 +3006,6 @@ Anhang 2*[^t-2]*
 
 [^t-2]: Ursprünglich Anhang.
 
-...[^annex2-lvlu1-1]
+…[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Die Änderungen können unter [AS 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358)konsultiert werden.

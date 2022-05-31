@@ -4,11 +4,11 @@ title: "Loi du 26 juin 1998 sur l'asile (LAsi)"
 short: LAsi
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: fr
-version: 2021-01-01
+version: 2022-06-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-358-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-1999-358-20220601-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20210101/fr"
 
 (LAsi)
 
-du 26 juin 1998 (Etat le 1<sup>er</sup> janvier 2021)
+du 26 juin 1998 (Etat le 1<sup>er</sup> juin 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -79,6 +79,16 @@ La Suisse peut accorder la protection provisoire à des personnes à protéger a
 
 <sup>2</sup> L’interdiction du refoulement ne peut être invoquée lorsqu’il y a de sérieuses raisons d’admettre que la personne qui l’invoque compromet la sûreté de la Suisse ou que, ayant été condamnée par un jugement passé en force à la suite d’un crime ou d’un délit particulièrement grave, elle doit être considérée comme dangereuse pour la communauté.
 
+#### Art. 5a
+
+**Collaboration et coordination avec fedpol**[^5a-1]
+
+<sup>1</sup> Le Secrétariat d’État aux migrations (SEM) collabore avec fedpol dans le cadre de ses tâches légales dans la lutte contre le terrorisme.
+
+<sup>2</sup> Il coordonne les mesures relevant de ses compétences avec les mesures de police préventive et les mesures administratives de fedpol.
+
+[^5a-1]: Introduit par le ch. I 3 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
 #### Art. 6
 
 **Règles de procédure**[^6-1]
@@ -98,7 +108,7 @@ Les procédures sont régies par la loi fédérale du 20 décembre 1968 sur la p
 
 **Autorité compétente**[^6a-1]
 
-<sup>1</sup> Le Secrétariat d’État aux migrations (SEM)[^6a-2] décide de l’octroi ou du refus de l’asile, ainsi que du renvoi d’un requérant de Suisse.
+<sup>1</sup> Le SEM décide de l’octroi ou du refus de l’asile, ainsi que du renvoi d’un requérant de Suisse.[^6a-2]
 
 <sup>2</sup>
 
@@ -112,7 +122,7 @@ Le Conseil fédéral désigne, outre les États de l’UE ou de l’AELE:[^6a-3]
 <sup>4</sup> Il soumet la liste visée à l’al. 2, let. a, aux commissions compétentes de l’Assemblée fédérale pour consultation avant toute modification envisagée, mais au moins une fois par an.[^6a-4]
 
 [^6a-1]: Introduit par le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6359](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^6a-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^6a-2]: Nouvelle teneur selon le ch. I 3 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^6a-3]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^6a-4]: Introduit par l’annexe ch. 1 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
@@ -170,19 +180,20 @@ Le requérant est tenu de collaborer à la constatation des faits. Il doit en pa
 
 **Saisie et confiscation de documents**
 
-<sup>1</sup> Le SEM verse au dossier les documents de voyage et les pièces d’identité du requérant.[^10-1]
+<sup>1</sup> Le SEM[^10-1] verse au dossier les documents de voyage et les pièces d’identité du requérant.[^10-2]
 
-<sup>2</sup> Les autorités et les services administratifs saisissent et transmettent au SEM les documents de voyage, les pièces d’identité ou tout autre document pouvant fournir des renseignements sur l’identité d’une personne ayant déposé une demande d’asile en Suisse. L’al. 5 s’applique aux réfugiés reconnus.[^10-2]
+<sup>2</sup> Les autorités et les services administratifs saisissent et transmettent au SEM les documents de voyage, les pièces d’identité ou tout autre document pouvant fournir des renseignements sur l’identité d’une personne ayant déposé une demande d’asile en Suisse. L’al. 5 s’applique aux réfugiés reconnus.[^10-3]
 
 <sup>3</sup> Lorsque l’autorité ou le service administratif qui ont saisi des documents en vertu de l’al. 2 en vérifient eux-mêmes l’authenticité, ils communiquent au SEM le résultat de cet examen.
 
 <sup>4</sup> Le SEM ou l’autorité de recours peuvent confisquer ou saisir des documents faux ou falsifiés ou les documents authentiques utilisés abusivement et les remettre à l’ayant droit le cas échéant.
 
-<sup>5</sup> Les passeports ou pièces d’identité qui ont été établis à l’intention des réfugiés reconnus en Suisse par leur pays d’origine sont saisis et transmis au SEM.[^10-3]
+<sup>5</sup> Les passeports ou pièces d’identité qui ont été établis à l’intention des réfugiés reconnus en Suisse par leur pays d’origine sont saisis et transmis au SEM.[^10-4]
 
-[^10-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6359](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^10-2]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^10-3]: Introduit par le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6359](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^10-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^10-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6359](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^10-3]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^10-4]: Introduit par le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6359](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
 #### Art. 11
 
@@ -747,12 +758,14 @@ En cas de décision de non-entrée en matière fondée sur l’art. 31*a*, al. 1
 
 <sup>5</sup> Dans les autres cas, les décisions de non-entrée en matière sont prises dans les cinq jours ouvrables et les décisions matérielles dans les dix jours ouvrables qui suivent le dépôt de la demande.
 
-<sup>6</sup> Le SEM statue en priorité et sans délai lorsque le requérant est détenu aux fins d’extradition sur la base d’une demande adressée par l’État contre lequel il cherche à se protéger en Suisse. Cela vaut aussi lorsqu’il est sous le coup d’une expulsion au sens des art. 66*a* ou 66*a*<sup>bis</sup> du code pénal (CP)[^37-3] ou 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927 (CPM)[^37-4].
+<sup>6</sup> Le SEM statue en priorité et sans délai lorsque le requérant est détenu aux fins d’extradition sur la base d’une demande adressée par l’État contre lequel il cherche à se protéger en Suisse. Cela vaut aussi lorsqu’il est sous le coup d’une expulsion obligatoire au sens des art. 66*a* ou 66*a*<sup>bis</sup> du code pénal (CP)[^37-3], 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927 (CPM)[^37-4] ou d’une expulsion au sens de l’art. 68 LEI[^37-5].[^37-6]
 
 [^37-1]: Nouvelle teneur selon les ch. I et IV 2 pour les al. 4 et 6 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^37-2]: Règlement (UE) n<sup>o</sup> 604/2013 du Parlement européen et du Conseil du 26 juin 2013 établissant les critères et mécanismes de détermination de l’État membre responsable de l’examen d’une demande de protection internationale introduite dans l’un des États membres par un ressortissant d’un pays tiers ou un apatride (refonte), JO L 180 du 29.6.2013, p. 31.
 [^37-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^37-4]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^37-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^37-6]: Nouvelle teneur selon le ch. I 3 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 37a
 
@@ -1063,7 +1076,7 @@ Quiconque a obtenu l’asile en Suisse ou a qualité de réfugié est considér�
 
 **Activité lucrative**[^61-1]
 
-<sup>1</sup> Les personnes qui ont obtenu l’asile en Suisse ou qui y ont été admises à titre provisoire comme réfugié ainsi que les réfugiés sous le coup d’une décision d’expulsion entrée en force au sens des art. 66*a* ou 66*a*<sup>bis</sup> CP[^61-2] ou 49*a* ou 49*a*<sup>bis</sup> CPM[^61-3] sont autorisés à exercer dans toute la Suisse une activité lucrative si les conditions de rémunération et de travail usuelles du lieu, de la profession et de la branche sont respectées (art. 22 LEI[^61-4]).[^61-5]
+<sup>1</sup> Les personnes qui ont obtenu l’asile en Suisse ou qui y ont été admises à titre provisoire comme réfugiés et les réfugiés sous le coup d’une expulsion obligatoire au sens des art. 66*a* ou 66*a*<sup>bis</sup> CP[^61-2], 49*a* ou 49*a*<sup>bis</sup> CPM[^61-3] entrée en force ou d’une expulsion au sens de l’art. 68 LEI[^61-4] entrée en force sont autorisés à exercer dans toute la Suisse une activité lucrative si les conditions de rémunération et de travail usuelles du lieu, de la profession et de la branche sont respectées (art. 22 LEI).[^61-5]
 
 <sup>2</sup> Le début et la fin de l’activité lucrative ainsi que les changements d’emploi doivent préalablement être annoncés par l’employeur à l’autorité compétente pour le lieu de travail désignée par le canton. La procédure d’annonce est régie par l’art. 85*a*, al. 2 à 6, LEI.
 
@@ -1073,7 +1086,7 @@ Quiconque a obtenu l’asile en Suisse ou a qualité de réfugié est considér�
 [^61-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^61-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^61-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^61-5]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^61-5]: Nouvelle teneur selon le ch. I 3 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 62
 
@@ -1334,12 +1347,14 @@ La protection provisoire s’éteint lorsque la personne à protéger:
 - a. a transféré son centre de vie dans un autre pays;
 - b. a renoncé à la protection provisoire;
 - c. a obtenu une autorisation d’établissement en vertu de la LEI[^79-2], ou
-- d. est sous le coup d’une décision entrée en force d’expulsion au sens des art. 66*a* ou 66*a*<sup>bis</sup> CP[^79-3] ou 49*a* ou 49*a*<sup>bis</sup> CPM[^79-4].
+- d.[^79-3] est sous le coup d’une expulsion obligatoire au sens des art. 66*a* ou 66*a*<sup>bis</sup> CP[^79-4], 49*a* ou 49*a*<sup>bis</sup> CPM[^79-5] entrée en force ou d’une expulsion au sens de l’art. 68 LEI[^79-6] entrée en force.
 
 [^79-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 [^79-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^79-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^79-4]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^79-3]: Nouvelle teneur selon le ch. I 3 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^79-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^79-5]: RS **3****21.0**
+[^79-6]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
 #### Art. 79a
 
@@ -1550,22 +1565,24 @@ Elles ne peuvent prélever la taxe spéciale que si les personnes concernées:
 
 <sup>2</sup> Les indemnités forfaitaires pour les requérants et les personnes à protéger qui ne sont pas titulaires d’une autorisation de séjour couvrent notamment les coûts de l’aide sociale et de l’assurance-maladie obligatoire et comprennent une contribution aux frais d’encadrement.
 
-<sup>3</sup> Les indemnités forfaitaires pour les réfugiés, les personnes à protéger titulaires d’une autorisation de séjour et les réfugiés sous le coup d’une expulsion au sens des art. 66*a* ou 66*a*<sup>bis</sup> CP[^88-3] ou 49*a* ou 49*a*<sup>bis</sup> CPM[^88-4] entrée en force couvrent notamment les coûts de l’aide sociale et comprennent une contribution aux frais d’encadrement et aux frais administratifs. Elles sont versées pendant cinq ans au plus à compter du dépôt de la demande d’asile.[^88-5]
+<sup>3</sup> Les indemnités forfaitaires pour les réfugiés, les personnes à protéger titulaires d’une autorisation de séjour et les réfugiés sous le coup d’une expulsion obligatoire au sens des art. 66*a* ou 66*a*<sup>bis</sup> CP[^88-3], 49*a* ou 49*a*<sup>bis</sup> CPM[^88-4] entrée en force ou d’une expulsion au sens de l’art. 68 LEI[^88-5] entrée en force couvrent notamment les coûts de l’aide sociale et comprennent une contribution aux frais d’encadrement et aux frais administratifs.[^88-6] Elles sont versées pendant cinq ans au plus à compter du dépôt de la demande d’asile.[^88-7]
 
-<sup>3bis</sup> Pour les personnes admises en Suisse dans le cadre de l’asile octroyé à des groupes de réfugiés en vertu de l’art. 56, la Confédération peut verser les indemnités forfaitaires visées à l’al. 3 pendant plus de cinq ans, notamment si ces personnes sont handicapées ou âgées à leur arrivée en Suisse.[^88-6]
+<sup>3bis</sup> Pour les personnes admises en Suisse dans le cadre de l’asile octroyé à des groupes de réfugiés en vertu de l’art. 56, la Confédération peut verser les indemnités forfaitaires visées à l’al. 3 pendant plus de cinq ans, notamment si ces personnes sont handicapées ou âgées à leur arrivée en Suisse.[^88-8]
 
-<sup>4</sup> Les indemnités forfaitaires pour les personnes qui n’ont droit qu’à l’aide d’urgence visée à l’art. 82 constituent une indemnisation des coûts de l’aide d’urgence.[^88-7]
+<sup>4</sup> Les indemnités forfaitaires pour les personnes qui n’ont droit qu’à l’aide d’urgence visée à l’art. 82 constituent une indemnisation des coûts de l’aide d’urgence.[^88-9]
 
-<sup>5</sup> ...[^88-8]
+<sup>5</sup> ...[^88-10]
 
 [^88-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6359](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^88-2]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^88-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^88-4]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^88-5]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^88-6]: Introduit par le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^88-7]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^88-8]: Abrogé par le ch. I de la LF du 14 déc. 2012, avec effet au 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^88-4]: RS **3****21.0**
+[^88-5]: RS **1****42.20**
+[^88-6]: Nouvelle teneur selon le ch. I 3 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^88-7]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^88-8]: Introduit par le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^88-9]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^88-10]: Abrogé par le ch. I de la LF du 14 déc. 2012, avec effet au 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 89
 
@@ -2507,11 +2524,13 @@ Lorsque le requérant fait l’objet d’une demande d’extradition au sens de 
 
 <sup>6</sup> Dans les autres cas, il statue sur les recours dans un délai de 20 jours.
 
-<sup>7</sup> Il statue en priorité et sans délai lorsque le requérant est détenu aux fins d’extradition sur la base d’une demande adressée par l’État contre lequel il cherche à se protéger en Suisse. Cela vaut aussi lorsqu’il est sous le coup d’une expulsion au sens des art. 66*a* ou 66*a*<sup>bis</sup> CP[^109-2] ou 49*a* ou 49*a*<sup>bis</sup> CPM[^109-3].
+<sup>7</sup> Il statue en priorité et sans délai lorsque le requérant est détenu aux fins d’extradition sur la base d’une demande adressée par l’État contre lequel il cherche à se protéger en Suisse. Cela vaut aussi lorsqu’il est sous le coup d’une expulsion obligatoire au sens des art. 66*a* ou 66*a*<sup>bis</sup> CP[^109-2], 49*a* ou 49*a*<sup>bis</sup> CPM[^109-3] ou d’un expulsion au sens de l’art. 68 LEI[^109-4].[^109-5]
 
 [^109-1]: Nouvelle teneur selon les ch. I et IV 2 pour les al. 5 et 7 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^109-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^109-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^109-4]: RS **1****42.20**
+[^109-5]: Nouvelle teneur de la phrase selon le ch. I 3 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 109a
 
