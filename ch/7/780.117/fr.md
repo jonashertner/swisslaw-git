@@ -4,11 +4,11 @@ title: Ordonnance du DFJP du 15 novembre 2017 sur la mise en uvre de la survei
 short: OME-SCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/35"
 language: fr
-version: 2021-02-01
+version: 2022-06-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2018-35-20210201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2018-35-20220601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20210201/fr"
 
 (OME-SCPT)
 
-du 15 novembre 2017 (Etat le 1<sup>er</sup> février 2021)
+du 15 novembre 2017 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Département fédéral de justice et police (DFJP),
 
@@ -193,7 +193,7 @@ Les fournisseurs de services de télécommunication, à l’exception de ceux qu
 
 <sup>1</sup>
 
-Tous les types de surveillance en temps réel (art. 54 à 59 OSCPT), de surveillance rétroactive (art. 60 à 66 OSCPT), de recherche en cas d’urgence (art. 67 OSCPT) et de recherche de personnes condamnées (art. 68 OSCPT) sont exécutés comme suit:
+Tous les types de surveillance en temps réel (art. 54 à 59 OSCPT), de surveillance rétroactive (art. 60 à 66 OSCPT), de recherche en cas d’urgence (art. 67 OSCPT), de recherche de personnes condamnées (art. 68 OSCPT) et de localisation par téléphonie mobile de terroristes potentiels (art. 68*a* OSCPT) sont exécutés comme suit:[^15-1]
 
 - a. le Service SCPT transmet les mandats aux fournisseurs;
 - b. les fournisseurs confirment au Service SCPT la réception du mandat;
@@ -203,6 +203,8 @@ Tous les types de surveillance en temps réel (art. 54 à 59 OSCPT), de surveill
 <sup>2</sup> Pour les surveillances en temps réel, le mandat peut consister en un ordre d’activation ou de désactivation de la surveillance.
 
 <sup>3</sup> Pour les surveillances rétroactives, le mandat est réputé exécuté une fois les données demandées collectées et transmises.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 302](https://fedlex.data.admin.ch/eli/oc/2022/302)).
 
 #### Art. 16
 
@@ -339,6 +341,14 @@ Les prescriptions techniques relatives à la mise en œuvre de la surveillance e
 
 Jusqu’à ce que les fournisseurs de services de télécommunication et les fournisseurs de services de communication dérivés ayant des obligations étendues en matière de fourniture de renseignements aient adapté leurs systèmes conformément à l’art. 74, al. 8, OSCPT, le délai imparti pour le traitement des demandes de renseignements selon les art. 36 et 41 OSCPT est d’un jour ouvré au plus.
 
+#### Art. 27a
+
+**Disposition transitoire relative à la modification du 4 mai 2022 concernant la localisation par téléphonie mobile de terroristes potentiels**[^27a-1]
+
+Jusqu’à ce que les fournisseurs aient adapté leurs systèmes pour la localisation par téléphonie mobile de terroristes potentiels, mais au plus tard jusqu’à l’arrivée à terme de la phase transitoire prévue à l’art. 74*a*, al. 2, OSCPT, le délai imparti pour le traitement est prolongé d’un tiers.
+
+[^27a-1]: Introduit par le ch. I de l’O du DFJP du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 302](https://fedlex.data.admin.ch/eli/oc/2022/302)).
+
 #### Art. 28
 
 **Entrée en vigueur**
@@ -347,14 +357,14 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> mars 2018.
 
 Annexe 1*[^t-1]*
 
-(art. 7, al. 3, let. a et 26)
+(art. 7, al. 3, let. a, 26 et 27*a*)
 
-## Prescriptions techniques relatives aux interfaces pour la mise en œuvre de la surveillance de la correspondance par poste et télécommunications (version 2.1)****
+## Prescriptions techniques relatives aux interfaces pour la mise en œuvre de la surveillance de la correspondance par poste et télécommunication (version 2.2)****
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 14 déc. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 22](https://fedlex.data.admin.ch/eli/oc/2021/22)).
-[^annex1-lvlu1-1]: La présente annexe n’est pas publiée au RO. Elle peut être obtenue gratuitement sur le site www.li.admin.ch &gt; Documentation &gt; Téléchargements, ou auprès du Service SCPT, Fellerstrasse 15, 3003 Berne.
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 302](https://fedlex.data.admin.ch/eli/oc/2022/302)).
+[^annex1-lvlu1-1]: La présente annexe n’est pas publiée au RO. Elle peut être obtenue gratuitement sur le site www.li.admin.ch &gt; Documentation &gt; Téléchargements ou auprès du Service SCPT, 3003 Berne.
 
 Annexe 2*[^t-2]*
 

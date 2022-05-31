@@ -4,11 +4,11 @@ title: Verordnung des EJPD vom 15. November 2017 über die Durchführung der Üb
 short: VD-ÜPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/35"
 language: de
-version: 2021-02-01
+version: 2022-06-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2018-35-20210201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20210201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2018-35-20220601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20210201/de"
 
 (VD-ÜPF)
 
-vom 15. November 2017 (Stand am 1. Februar 2021)
+vom 15. November 2017 (Stand am 1. Juni 2022)
 
 Das Eidgenössische Justiz- und Polizeidepartement (EJPD),
 
@@ -77,11 +77,13 @@ Bei der Kommunikation zwischen den Mitwirkungspflichtigen und dem Dienst ÜPF si
 
 #### Art. 6
 
-**Bearbeitungszeiten**
+**Bearbeitungsfristen[^6-1]**
 
 <sup>1</sup> Der Dienst ÜPF und die Anbieterinnen bearbeiten die bei ihnen eingehenden Anordnungen, Gesuche und Aufträge vor Ablauf der in dieser Verordnung vorgesehenen Fristen.
 
 <sup>2</sup> Übernimmt der Dienst ÜPF oder ein durch ihn beauftragter Dritter die Durchführung eines Überwachungsauftrages, untersteht er nicht den für die Anbieterinnen geltenden Bearbeitungsfristen gemäss den Artikeln 16–18.
+
+[^6-1]: Fassung gemäss Ziff. I der V des EJPD vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 302](https://fedlex.data.admin.ch/eli/oc/2022/302)).
 
 #### Art. 7
 
@@ -191,9 +193,7 @@ Die Anbieterinnen von Fernmeldediensten, ausgenommen jene mit reduzierten Überw
 
 **Ausführung**
 
-<sup>1</sup>
-
-Alle Typen von Echtzeitüberwachung (Art. 54–59 VÜPF), rückwirkender Überwachung (Art. 60–66 VÜPF), Notsuche (Art. 67 VÜPF) und Fahndung (Art. 68 VÜPF) sind wie folgt auszuführen:
+1 Alle Typen von Echtzeitüberwachung (Art. 54–59 VÜPF), rückwirkender Überwachung (Art. 60–66 VÜPF), Notsuche (Art. 67 VÜPF), Fahndung (Art. 68 VÜPF) und Mobilfunklokalisierung terroristischer Gefährderinnen und Gefährder (Art. 68a VÜPF) sind wie folgt auszuführen:[^15-1]
 
 - a. Der Dienst übermittelt den Auftrag an die Anbieterin.
 - b. Die Anbieterin bestätigt dem Dienst ÜPF den Eingang des Auftrags.
@@ -203,6 +203,8 @@ Alle Typen von Echtzeitüberwachung (Art. 54–59 VÜPF), rückwirkender Überwa
 <sup>2</sup> Bei einer Echtzeitüberwachung kann mit einem Auftrag entweder die Aktivierung oder Deaktivierung der Überwachung angeordnet werden.
 
 <sup>3</sup> Der Auftrag, eine rückwirkende Überwachung durchzuführen, ist ausgeführt, wenn die entsprechenden Daten erhoben und übermittelt wurden.
+
+[^15-1]: Fassung gemäss Ziff. I der V des EJPD vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 302](https://fedlex.data.admin.ch/eli/oc/2022/302)).
 
 #### Art. 16
 
@@ -339,6 +341,14 @@ Die technischen Vorschriften zur Durchführung der Überwachung des Fernmeldever
 
 Bis die Anbieterinnen von Fernmeldediensten und die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Auskunftspflichten ihre Systeme nach Artikel 74 Absatz 8 VÜPF angepasst haben, gilt für die Bearbeitung der Auskunftsgesuche gemäss den Artikeln 36 und 41 VÜPF eine Frist von höchstens einem Arbeitstag.
 
+#### Art. 27a
+
+**Übergangsbestimmung zur Änderung vom 4. Mai 2022 betreffend die Mobilfunklokalisierung terroristischer Gefährderinnen und Gefährder**[^27a-1]
+
+Bis die Anbieterinnen ihre Systeme für die Mobilfunklokalisierung terroristischer Gefährderinnen und Gefährder angepasst haben, spätestens aber bis zum Ablauf der Übergangsfrist nach Artikel 74*a* Absatz 2 VÜPF, ist die Bearbeitungsfrist ein Drittel länger.
+
+[^27a-1]: Fassung gemäss Ziff. I der V des EJPD vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 302](https://fedlex.data.admin.ch/eli/oc/2022/302)).
+
 #### Art. 28
 
 **Inkrafttreten**
@@ -347,14 +357,14 @@ Diese Verordnung tritt am 1. März 2018 in Kraft.
 
 Anhang 1*[^t-1]*
 
-(Art. 7 Abs. 3 Bst. a und 26)
+(Art. 7 Abs. 3 Bst. a, 26 und 27*a*)
 
-## Technische Vorschriften für die Schnittstellen für die Durchführung der Fernmeldeüberwachung (Ausgabe 2.1)****
+## Technische Vorschriften für die Schnittstellen für die Durchführung der Fernmeldeüberwachung (Ausgabe 2.2)****
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 14. Dez. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 22](https://fedlex.data.admin.ch/eli/oc/2021/22)).
-[^annex1-lvlu1-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Er kann kostenlos im Internet unter www.li.admin.ch &gt; Dokumentation &gt; Downloads abgerufen oder beim Dienst ÜPF, Fellerstrasse 15, 3003 Bern, bezogen werden.
+[^t-1]: Fassung gemäss Ziff. II der V des EJPD vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 302](https://fedlex.data.admin.ch/eli/oc/2022/302)).
+[^annex1-lvlu1-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Er kann kostenlos im Internet unter www.li.admin.ch &gt; Dokumentation &gt; Downloads abgerufen oder beim Dienst ÜPF, 3003 Bern bezogen werden.
 
 Anhang 2*[^t-2]*
 

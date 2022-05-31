@@ -4,11 +4,11 @@ title: "Ordinanza del DFGP del 15 novembre 2017 sull'esecuzione della sorveglian
 short: OE-SCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/35"
 language: it
-version: 2021-02-01
+version: 2022-06-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2018-35-20210201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20210201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2018-35-20220601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20210201/it"
 
 (OE-SCPT)
 
-del 15 novembre 2017 (Stato 1° febbraio 2021) (Stato 1° febbraio 2021)
+del 15 novembre 2017 (Stato 1° giugno 2022)
 
 Il Dipartimento federale di giustizia e polizia (DFGP),
 
@@ -193,7 +193,7 @@ I fornitori di servizi di telecomunicazione, ad eccezione di quelli con obblighi
 
 <sup>1</sup>
 
-Tutti i tipi di sorveglianza in tempo reale (art. 54–59 OSCPT), di sorveglianza retroattiva (art. 60–66 OSCPT), di ricerca d’emergenza (art. 67 OSCPT) e di ricerca di condannati (art. 68 OSCPT) sono eseguiti come segue:
+Tutti i tipi di sorveglianza in tempo reale (art. 54–59 OSCPT), di sorveglianza retroattiva (art. 60–66 OSCPT), di ricerca d’emergenza (art. 67 OSCPT), di ricerca di condannati (art. 68 OSCPT) e di localizzazione di potenziali terroristi tramite telefonia mobile (art. 68*a* OSCPT) sono eseguiti come segue:[^15-1]
 
 - a. il Servizio SCPT trasmette il mandato al fornitore;
 - b. il fornitore conferma al Servizio SCPT la ricezione del mandato;
@@ -203,6 +203,8 @@ Tutti i tipi di sorveglianza in tempo reale (art. 54–59 OSCPT), di sorveglianz
 <sup>2</sup> Nel caso di una sorveglianza in tempo reale, il mandato può consistere in un ordine di attivazione o di disattivazione della sorveglianza.
 
 <sup>3</sup> Nel caso di una sorveglianza retroattiva, il mandato si considera eseguito una volta che i dati sono stati rilevati e trasmessi.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del DFGP del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 302](https://fedlex.data.admin.ch/eli/oc/2022/302)).
 
 #### Art. 16
 
@@ -339,6 +341,14 @@ Le prescrizioni tecniche in materia di esecuzione della sorveglianza delle telec
 
 Finché i fornitori di servizi di telecomunicazione e i fornitori di servizi di comunicazione derivati non hanno adeguato i loro sistemi secondo l’articolo 74 capoverso 8 OSCPT, per il trattamento delle domande di informazioni secondo gli articoli 36 e 41 OSCPT vale un termine massimo di un giorno lavorativo.
 
+#### Art. 27a
+
+**Disposizione transitoria della modifica del 4 maggio 2022 relativa alla localizzazione di potenziali terroristi tramite telefonia mobile**[^27a-1]
+
+Finché i fornitori non hanno adeguato i loro sistemi per la localizzazione di potenziali terroristi tramite telefonia mobile, ma al più tardi fino allo scadere del periodo transitorio di cui all’articolo 74*a* capoverso 2 OSCPT, il termine per il trattamento è prorogato di un terzo.
+
+[^27a-1]: Introdotto dal n. I dell’O del DFGP del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 302](https://fedlex.data.admin.ch/eli/oc/2022/302)).
+
 #### Art. 28
 
 **Entrata in vigore**
@@ -347,14 +357,14 @@ La presente ordinanza entra in vigore il 1° marzo 2018.
 
 Allegato 1*[^t-1]*
 
-(art. 7 cpv. 3 lett. a e 26)
+(art. 7 cpv. 3 lett. a, 26 e 27*a*)
 
-## Prescrizioni tecniche in materia di interfacce per l’esecuzione della sorveglianza delle telecomunicazioni (versione 2.1)****
+## Prescrizioni tecniche in materia di interfacce per l’esecuzione della sorveglianza delle telecomunicazioni (versione 2.2)****
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 14 dic. 2020, in vigore dal 1° feb. 2021 ([RU 2021 22](https://fedlex.data.admin.ch/eli/oc/2021/22)).
-[^annex1-lvlu1-1]: Non è pubblicato nella RU. È reperibile gratuitamente su Internet all’indirizzo www.li.admin.ch &gt; Documentazione &gt; Downloads o presso il Servizio SCPT, Fellerstrasse 15, 3003 Berna.
+[^t-1]: Nuovo testo giusta il n. II dell’O del DFGP del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 302](https://fedlex.data.admin.ch/eli/oc/2022/302)).
+[^annex1-lvlu1-1]: Il testo dell’all. 1 non è pubblicato nella RU. Può essere consultato gratuitamente in Internet all’indirizzo www.li.admin.ch &gt; Documentazione &gt; Downloads o presso il Servizio SCPT, 3003 Berna.
 
 Allegato 2*[^t-2]*
 
