@@ -4,11 +4,11 @@ title: Ordinanza del 7 novembre 2012 sulla protezione extraprocessuale dei testi
 short: OPTes
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/815"
 language: it
-version: 2021-04-01
+version: 2022-06-01
 adopted: 2012-11-07
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2012-815-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2012-815-20220601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20210401/it"
 
 (OPTes)
 
-del 7 novembre 2012 (Stato 1° aprile 2021)
+del 7 novembre 2012 (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -57,7 +57,9 @@ La motivazione della richiesta precisa in particolare:
 - d. la disponibilità della persona da proteggere a collaborare nel procedimento penale;
 - e. l’insufficienza delle misure di protezione di cui all’articolo 7 capoverso 1 lettera d LPTes.
 
-<sup>3</sup> La richiesta è corredata della documentazione necessaria per il suo esame, segnatamente dell’estratto del registro esecuzioni e fallimenti della persona da proteggere.
+<sup>3</sup> La richiesta è corredata dei documenti necessari per il suo esame, sempre che non possano essere procurati in altro modo dal Servizio di protezione dei testimoni, in particolare gli atti procedurali per valutare la minaccia cui è esposta la persona che chiede protezione.[^2-1]
+
+[^2-1]: Nuovo testo giusta il n. I 7 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 3
 
@@ -88,13 +90,36 @@ La corrispondenza con il Servizio di protezione dei testimoni avviene:
 
 #### Art. 5
 
+**Fine su richiesta della persona da proteggere[^5-1]**
+
 <sup>1</sup> Se intende porre fine al programma di protezione dei testimoni, la persona da proteggere deve presentare una domanda scritta e firmata di proprio pugno al Servizio di protezione dei testimoni.
 
 <sup>2</sup> Il Servizio di protezione dei testimoni informa la persona da proteggere sulle conseguenze della fine del programma di protezione dei testimoni e sui pericoli esistenti.
 
 <sup>3</sup> Alla persona da proteggere è concesso un periodo di riflessione di 30 giorni. Se la persona da proteggere e il Servizio di protezione dei testimoni concordano sulla fine del programma di protezione dei testimoni, il periodo di riflessione può terminare al più presto dopo 10 giorni.
 
-<sup>4</sup> Al termine del periodo di riflessione il direttore dell’Ufficio federale di polizia pone fine, su richiesta del Servizio di protezione dei testimoni, al programma di protezione dei testimoni.
+<sup>4</sup> Al termine del periodo di riflessione il direttore dell’Ufficio federale di polizia pone fine al programma di protezione dei testimoni.[^5-2]
+
+[^5-1]: Introdotto dal n. I 7 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^5-2]: Nuovo testo giusta il n. I 7 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+
+#### Art. 5a
+
+**Fine su richiesta del Servizio di protezione dei testimoni**[^5a-1]
+
+<sup>1</sup> Se la persona interessata non è più minacciata o viola gli obblighi concordati, il direttore dell’Ufficio federale di polizia pone fine, su richiesta del Servizio di protezione dei testimoni, al programma di protezione dei testimoni.
+
+<sup>2</sup> Fino a quando un procedimento penale non è chiuso con decisione passata in giudicato, prima di porre fine al programma di protezione dei testimoni occorre consultare chi dirige il procedimento; se il procedimento si trova nella procedura dibattimentale o in quella di ricorso, occorre consultare anche il pubblico ministero.
+
+[^5a-1]: Introdotto dal n. I 7 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+
+#### Art. 5b
+
+**Comunicazione della fine**[^5b-1]
+
+Il Servizio di protezione dei testimoni notifica la fine del programma di protezione dei testimoni alla persona interessata mediante decisione. La notifica avviene in presenza della persona interessata. Se ciò non è possibile, il Servizio di protezione dei testimoni cerca di informare in altro modo la persona interessata della fine del programma.
+
+[^5b-1]: Introdotto dal n. I 7 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ## Sezione 4: Formazione dei collaboratori del Servizio di protezione dei testimoni
 
@@ -267,18 +292,19 @@ Per garantire la sicurezza dei dati si applicano:
 
 #### Art. 18
 
-**Chiave di ripartizione per l’assunzione delle spese da parte dei Cantoni**
+[^18-1]
 
-<sup>1</sup> Conformemente all’articolo 34 capoverso 2 LPTes la metà delle spese di gestione del Servizio di protezione dei testimoni è a carico dei Cantoni ed è ripartita in base alla proporzione della loro popolazione rispetto alla popolazione complessiva della Svizzera.
-
-<sup>2</sup> La proporzione determinante della popolazione è stabilita sulla base delle statistiche annuali della Confederazione più recenti secondo la legge federale del 9 ottobre 1992[^18-1] sulla statistica federale, la legge federale del 22 giugno 2007[^18-2] sul censimento federale della popolazione e le relative ordinanze.
-
-[^18-1]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^18-2]: [RS 431.112](https://fedlex.data.admin.ch/eli/cc/2007/869)
+[^18-1]: Abrogato dal n. I 7 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, con effetto dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 19
 
-**Spese di gestione**
+**Spese di gestione del Servizio di protezione dei testimoni**[^19-1]
+
+<sup>1</sup> Il Dipartimento federale di giustizia e polizia concorda con i Cantoni la ripartizione delle spese di gestione del Servizio di protezione dei testimoni.
+
+<sup>2</sup> In caso di mancato accordo, la Confederazione e i Cantoni si suddividono in parti uguali le spese di gestione del Servizio di protezione dei testimoni. La parte dei Cantoni è fissata in base alla proporzione della loro popolazione rispetto alla popolazione complessiva della Svizzera. L’Ufficio federale di statistica fornisce le indicazioni necessarie sulla base dei dati dell’anno precedente.
+
+<sup>3</sup>
 
 Sono considerate spese di gestione del Servizio di protezione dei testimoni:
 
@@ -289,42 +315,48 @@ Sono considerate spese di gestione del Servizio di protezione dei testimoni:
 - e. le restanti spese di gestione;
 - f. gli ammortamenti su nuovi acquisti e acquisti di sostituzione.
 
+[^19-1]: Nuovo testo giusta il n. I 7 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+
 #### Art. 20
 
-**Prestazioni di consulenza e di sostegno di ampia portata**
+**Prestazioni di consulenza e di sostegno di ampia portata**[^20-1]
 
-<sup>1</sup> Le prestazioni di consulenza e di sostegno di ampia portata ai sensi dell’articolo 35 capoverso 1 LPTes sono prestazioni fornite dal Servizio di protezione dei testimoni alle autorità nazionali di polizia conformemente all’articolo 23 capoverso 1 lettera e LPTes, la cui entità, durata, natura o complessità superano ampiamente le prestazioni ordinarie fornite dal Servizio di protezione dei testimoni alla polizia nel quadro dell’assistenza amministrativa generale.
+<sup>1</sup> Per prestazioni di consulenza e di sostegno di ampia portata ai sensi dell’articolo 35 capoverso 1 LPTes s’intendono le prestazioni di cui all’articolo 23 capoverso 1 lettera e LPTes la cui entità, durata, natura o complessità superano ampiamente la misura consueta delle prestazioni fornite alle autorità cantonali nel quadro dell’assistenza amministrativa generale in materia di polizia.
 
 <sup>2</sup>
 
-Esse comprendono segnatamente le prestazioni di ampia portata seguenti:
+Esse possono comprendere in particolare le prestazioni seguenti:
 
-- a. l’attuazione delle misure di protezione da parte del Servizio di protezione dei testimoni a favore dell’autorità richiedente;
-- b. l’impiego di collaboratori del Servizio di protezione dei testimoni per fornire consulenza e sostegno all’autorità richiedente;
-- c. la messa a disposizione di apparecchiature e di infrastruttura da parte del Servizio di protezione dei testimoni nel quadro delle sue possibilità;
-- d. le prestazioni di terzi quali la locazione di veicoli o gli alloggi.
+- a. gli impieghi di collaboratori del Servizio di protezione dei testimoni per fornire consulenza e sostegno all’autorità richiedente;
+- b. le prestazioni di terzi quali la locazione di veicoli o gli alloggi.
+
+[^20-1]: Nuovo testo giusta il n. I 7 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 21
 
-**Indennizzo delle prestazioni di consulenza e di sostegno di ampia portata**
+**Indennizzo delle prestazioni di consulenza e di sostegno di ampia portata**[^21-1]
 
-<sup>1</sup> Le prestazioni del Servizio di protezione dei testimoni ai sensi dell’articolo 20 capoverso 2 lettere a e b sono indennizzate nella misura in cui i costi superano i 1000 franchi per caso; i costi inferiori a tale importo non sono indennizzati. Le prestazioni sono conteggiate in base a una tariffa di 150 franchi per persona e per ora. Sono conteggiati al massimo 1000 franchi per persona e per giorno civile.
+<sup>1</sup> Le prestazioni del Servizio di protezione dei testimoni ai sensi dell’articolo 20 capoverso 2 lettera a sono indennizzate in base a una tariffa di 150 franchi per persona e per ora; l’indennizzo massimo per persona e per giorno è tuttavia di 1000 franchi.
 
-<sup>2</sup> Per l’uso di apparecchiature speciali e di infrastruttura (art. 20 cpv. 2 lett. c) è indennizzato il prezzo di costo.
+<sup>2</sup> Per le prestazioni di terzi è indennizzato l’importo da essi fatturato.
 
-<sup>3</sup> Per le prestazioni di terzi (art. 20 cpv. 2 lett. d) è indennizzato l’importo da essi fatturato.
+[^21-1]: Nuovo testo giusta il n. I 7 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 22
 
-**Prestazioni di consulenza e di sostegno di ampia portata fornite prima dell’attuazione di programmi di protezione dei testimoni**
+**Prestazioni di consulenza e di sostegno di ampia portata fornite prima dell’attuazione di programmi di protezione dei testimoni**[^22-1]
 
-Se una persona da proteggere è ammessa a un programma di protezione dei testimoni, le prestazioni di consulenza e di sostegno di ampia portata fornite in precedenza dal Servizio di protezione dei testimoni non sono fatturate. Sono fatte salve le prestazioni di terzi ai sensi dell’articolo 20 capoverso 2 lettera d.
+Se una persona da proteggere è ammessa a un programma di protezione dei testimoni, le prestazioni di consulenza e di sostegno di ampia portata fornite in precedenza dal Servizio di protezione dei testimoni non sono fatturate. Sono fatte salve le prestazioni di terzi ai sensi dell’articolo 20 capoverso 2 lettera b.
+
+[^22-1]: Nuovo testo giusta il n. I 7 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 23
 
-**Computo delle prestazioni indennizzate**
+**Computo delle prestazioni indennizzate**[^23-1]
 
-Le prestazioni di consulenza e di sostegno indennizzate dai Cantoni sono detratte dalle spese complessive di gestione.
+Le prestazioni di consulenza e di sostegno indennizzate dai Cantoni sono detratte dalle spese di gestione dovute dal Cantone in questione.
+
+[^23-1]: Nuovo testo giusta il n. I 7 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 24
 
@@ -335,7 +367,7 @@ Le prestazioni di consulenza e di sostegno indennizzate dai Cantoni sono detratt
 L’Ufficio federale di polizia rilascia le fatture:
 
 - a. per le spese generate dal programma di protezione dei testimoni (art. 34 cpv. 1 LPTes): direttamente all’autorità richiedente;
-- b. per le spese di gestione (art. 34 cpv. 2 LPTes): direttamente alle autorità cantonali competenti;
+- b.[^24-1] per le spese di gestione dovute (art. 34 cpv. 3 LPTes): direttamente alle autorità cantonali competenti;
 - c. per le prestazioni di consulenza e di sostegno di ampia portata (art. 35 cpv. 1 LPTes): direttamente all’autorità richiedente.
 
 <sup>2</sup>
@@ -343,10 +375,13 @@ L’Ufficio federale di polizia rilascia le fatture:
 Il Servizio di protezione dei testimoni allega alle fatture:
 
 - a. un rendiconto dei costi generati dal caso specifico;
-- b. un conteggio delle spese d’esercizio;
+- b.[^24-2] un conteggio delle spese di gestione dovute;
 - c. un elenco delle prestazioni di cui all’articolo 20 capoverso 2 con indicazione della durata dell’impiego e del numero di persone impiegate.
 
 <sup>3</sup> La fatturazione alle autorità interessate avviene nell’anno civile in cui sono stati generati i costi o fornite le prestazioni.
+
+[^24-1]: Nuovo testo giusta il n. I 7 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^24-2]: Nuovo testo giusta il n. I 7 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ## Sezione 8: Disposizioni finali
 

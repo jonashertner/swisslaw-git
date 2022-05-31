@@ -4,11 +4,11 @@ title: Verordnung vom 7. November 2012 über den ausserprozessualen Zeugenschutz
 short: ZeugSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/815"
 language: de
-version: 2021-04-01
+version: 2022-06-01
 adopted: 2012-11-07
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2012-815-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2012-815-20220601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20210401/de"
 
 (ZeugSV)
 
-vom 7. November 2012 (Stand am 1. April 2021)
+vom 7. November 2012 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -57,7 +57,9 @@ Die Begründung des Antrags äussert sich insbesondere:
 - d. zur Bereitschaft der zu schützenden Person, am Strafverfahren mitzuwirken;
 - e. zum Ungenügen von Schutzmassnahmen nach Artikel 7 Absatz 1 Buchstabe d ZeugSG.
 
-<sup>3</sup> Dem Antrag sind die zu dessen Prüfung notwendigen Unterlagen beizulegen, namentlich ein Betreibungsregisterauszug der zu schützenden Person.
+<sup>3</sup> Dem Antrag sind diejenigen Unterlagen beizulegen, die für dessen Prüfung notwendig sind, soweit sie nicht von der Zeugenschutzstelle anderweitig beschafft werden können, insbesondere Verfahrensakten zur Beurteilung der Gefährdung der schutzsuchenden Person.[^2-1]
+
+[^2-1]: Fassung gemäss Ziff. I 7 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 3
 
@@ -88,13 +90,36 @@ Der Schriftverkehr mit der Zeugenschutzstelle erfolgt:
 
 #### Art. 5
 
+**Beendigung auf Begehren der zu schützenden Person[^5-1]**
+
 <sup>1</sup> Will die zu schützende Person das Zeugenschutzprogramm beenden, so muss sie ein schriftliches und eigenhändig unterzeichnetes Begehren bei der Zeugenschutzstelle einreichen.
 
 <sup>2</sup> Die Zeugenschutzstelle informiert die zu schützende Person über die Auswirkungen der Beendigung des Zeugenschutzprogrammes und macht sie auf bestehende Gefahren aufmerksam.
 
 <sup>3</sup> Die zu schützende Person erhält eine Bedenkzeit von 30 Tagen. Sind die zu schützende Person und die Zeugenschutzstelle mit der Beendigung des Zeugenschutzprogramms einverstanden, so kann die Bedenkzeit frühestens nach 10 Tagen beendet werden.
 
-<sup>4</sup> Nach Ablauf der Bedenkfrist beendet die Direktorin oder der Direktor des Bundesamtes für Polizei auf Antrag der Zeugenschutzstelle das Zeugenschutzprogramm.
+<sup>4</sup> Nach Ablauf der Bedenkfrist beendet die Direktorin oder der Direktor des Bundesamtes für Polizei das Zeugenschutzprogramm.[^5-2]
+
+[^5-1]: Eingefügt durch Ziff. I 7 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^5-2]: Fassung gemäss Ziff. I 7 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+
+#### Art. 5a
+
+**Beendigung auf Antrag der Zeugenschutzstelle**[^5a-1]
+
+<sup>1</sup> Ist die betroffene Person nicht mehr gefährdet oder verletzt sie die vereinbarten Pflichten, so kann die Direktorin oder der Direktor des Bundesamtes für Polizei auf Antrag der Zeugenschutzstelle das Zeugenschutzprogramm beenden.
+
+<sup>2</sup> Bis zum rechtskräftigen Abschluss eines Strafverfahrens ist vor der Beendigung des Zeugenschutzprogramms Rücksprache mit der zuständigen Verfahrensleitung zu nehmen und, sofern sich dieses im Haupt- oder im Rechtsmittelverfahren befindet, zusätzlich mit der Staatsanwaltschaft.
+
+[^5a-1]: Eingefügt durch Ziff. I 7 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+
+#### Art. 5b
+
+**Mitteilung der Beendigung**[^5b-1]
+
+Die Zeugenschutzstelle eröffnet der betroffenen Person die Beendigung des Zeugenschutzprogramms mittels Verfügung. Die Eröffnung hat im Beisein der betroffenen Person zu erfolgen. Ist dies nicht möglich, so versucht die Zeugenschutzstelle auf anderem Weg sicherzustellen, dass die betroffene Person von der Beendigung erfährt.
+
+[^5b-1]: Eingefügt durch Ziff. I 7 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ## 4. Abschnitt: Ausbildung der Mitarbeiterinnen und Mitarbeiter der Zeugenschutzstelle
 
@@ -236,7 +261,7 @@ Für die Gewährleistung der Datensicherheit gelten:
 
 - a. die Verordnung vom 14. Juni 1993[^15-1] zum Bundesgesetz über den Datenschutz;
 - b.[^15-2] die Cyberrisikenverordnung vom 27. Mai 2020[^15-3];
-- c.[^15-4] ...
+- c.[^15-4] …
 
 <sup>2</sup> Die Zeugenschutzstelle trifft die weiteren erforderlichen organisatorischen und technischen Massnahmen, um den Zugriff unbefugter Personen auf die Daten zu verhindern.
 
@@ -267,18 +292,19 @@ Für die Gewährleistung der Datensicherheit gelten:
 
 #### Art. 18
 
-**Verteilschlüssel für die Kostentragung der Kantone**
+[^18-1]
 
-<sup>1</sup> Die hälftig von den Kantonen zu tragenden Betriebskosten der Zeugenschutzstelle nach Artikel 34 Absatz 2 ZeugSG werden auf die Kantone nach Massgabe ihres Anteils an der Gesamtbevölkerung der Schweiz aufgeteilt.
-
-<sup>2</sup> Datengrundlagen für die Bestimmung des massgeblichen Bevölkerungsanteils sind die Statistiken des Bundes über das jeweils letzte verfügbare Jahr gemäss dem Bundesstatistikgesetz vom 9. Oktober 1992[^18-1], dem Bundesgesetz vom 22. Juni 2007[^18-2] über die eidgenössische Volkszählung und den dazugehörigen Verordnungen.
-
-[^18-1]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^18-2]: [SR 431.112](https://fedlex.data.admin.ch/eli/cc/2007/869)
+[^18-1]: Aufgehoben durch Ziff. I 7 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, mit Wirkung seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 19
 
-**Betriebskosten**
+**Kosten für den Betrieb der Zeugenschutzstelle**[^19-1]
+
+<sup>1</sup> Das Eidgenössische Justiz- und Polizeidepartement vereinbart mit den Kantonen die Aufteilung der Betriebskosten der Zeugenschutzstelle.
+
+<sup>2</sup> Wird keine Einigung erzielt, so tragen Bund und Kantone die Kosten für den Betrieb der Zeugenschutzstelle zu gleichen Teilen. Der Anteil der Kantone wird nach Massgabe ihres Anteils an der Gesamtbevölkerung der Schweiz aufgeteilt. Das Bundesamt für Statistik liefert die erforderlichen Angaben gestützt auf die Daten des Vorjahrs.
+
+<sup>3</sup>
 
 Unter die Betriebskosten der Zeugenschutzstelle fallen:
 
@@ -289,42 +315,48 @@ Unter die Betriebskosten der Zeugenschutzstelle fallen:
 - e. die übrigen Betriebskosten;
 - f. die Abschreibungen auf Neu- und Ersatzbeschaffungen.
 
+[^19-1]: Fassung gemäss Ziff. I 7 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+
 #### Art. 20
 
-**Umfangreiche Beratungs- und Unterstützungsleistungen**
+**Umfangreiche Beratungs- und Unterstützungsleistungen**[^20-1]
 
-<sup>1</sup> Umfangreiche Beratungs- und Unterstützungsleistungen nach Artikel 35 Absatz 1 ZeugSG sind Aufwendungen der Zeugenschutzstelle nach Artikel 23 Absatz 1 Buchstabe e ZeugSG für inländische Polizeibehörden, deren Umfang, Dauer, Art oder Komplexität weit über die üblichen Leistungen hinausgehen, welche die Zeugenschutzstelle im Rahmen der allgemeinen polizeilichen Amtshilfe erbringt.
+<sup>1</sup> Als umfangreiche Beratungs- und Unterstützungsleistungen nach Artikel 35 Absatz 1 ZeugSG gelten Leistungen nach Artikel 23 Absatz 1 Buchstabe e ZeugSG, deren Umfang, Dauer, Art oder Komplexität weit über das übliche Mass der im Rahmen der allgemeinen polizeilichen Amtshilfe für kantonale Behörden erbrachten Leistungen hinausgeht.
 
 <sup>2</sup>
 
-Darunter fallen insbesondere folgende umfangreichen Leistungen:
+Darunter können insbesondere folgende Leistungen fallen:
 
-- a. die umfassende Durchführung von Schutzmassnahmen der Zeugenschutzstelle zugunsten der ersuchenden Behörde;
-- b. der Einsatz von Mitarbeiterinnen und Mitarbeitern der Zeugenschutzstelle für Beratung und Unterstützung der ersuchenden Behörde;
-- c. die Bereitstellung von Gerätschaften und Infrastruktur der Zeugenschutzstelle im Rahmen ihrer Möglichkeiten;
-- d. die Leistungen Dritter wie Fahrzeugmiete oder Unterbringung.
+- a. Einsätze von Mitarbeiterinnen und Mitarbeitern der Zeugenschutzstelle für Beratung und Unterstützung der ersuchenden Behörde;
+- b. Leistungen Dritter wie Fahrzeugmiete oder Unterbringung.
+
+[^20-1]: Fassung gemäss Ziff. I 7 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 21
 
-**Vergütung der umfangreichen Beratungs- und Unterstützungsleistungen**
+**Vergütung der umfangreichen Beratungs- und Unterstützungsleistungen**[^21-1]
 
-<sup>1</sup> Aufwendungen der Zeugenschutzstelle nach Artikel 20 Absatz 2 Buchstaben a und b sind in dem Umfang zu vergüten, in dem sie einen Wert von 1000 Franken pro Fall übersteigen; bis zu diesem Wert müssen sie nicht vergütet werden. Die Aufwendungen werden zu einem Ansatz von 150 Franken pro Person und Stunde berechnet. Pro Kalendertag werden höchstens 1000 Franken pro Person berechnet.
+<sup>1</sup> Aufwendungen der Zeugenschutzstelle nach Artikel 20 Absatz 2 Buchstabe a werden zu einem Ansatz von 150 Franken pro Person und Stunde vergütet; pro Person und Tag beträgt die Vergütung jedoch höchstens 1000 Franken.
 
-<sup>2</sup> Für die Benutzung von Spezialgeräten oder Infrastruktur (Art. 20 Abs. 2 Bst. c) ist der Selbstkostenpreis zu vergüten.
+<sup>2</sup> Für Leistungen Dritter ist der von diesen in Rechnung gestellte Betrag zu vergüten.
 
-<sup>3</sup> Für Leistungen Dritter (Art. 20 Abs. 2 Bst. d) ist der von diesen in Rechnung gestellte Betrag weiterzuverrechnen.
+[^21-1]: Fassung gemäss Ziff. I 7 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 22
 
-**Umfangreiche Beratungs- und Unterstützungsleistungen im Vorfeld von Zeugenschutzprogrammen**
+**Umfangreiche Beratungs- und Unterstützungsleistungen im Vorfeld von Zeugenschutzprogrammen**[^22-1]
 
-Wird eine zu schützende Person in ein Zeugenschutzprogramm aufgenommen, so werden die im Vorfeld durch die Zeugenschutzstelle geleisteten umfangreichen Beratungs- und Unterstützungsleistungen nicht in Rechnung gestellt. Vorbehalten sind Leistungen Dritter nach Artikel 20 Absatz 2 Buchstabe d.
+Wird eine zu schützende Person in ein Zeugenschutzprogramm aufgenommen, so werden die im Vorfeld durch die Zeugenschutzstelle geleisteten umfangreichen Beratungs- und Unterstützungsleistungen nicht in Rechnung gestellt. Vorbehalten sind Leistungen Dritter nach Artikel 20 Absatz 2 Buchstabe b.
+
+[^22-1]: Fassung gemäss Ziff. I 7 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 23
 
-**Anrechnung der vergüteten Leistungen**
+**Anrechnung der vergüteten Leistungen**[^23-1]
 
-Die von den Kantonen vergüteten Beratungs- und Unterstützungsleistungen werden von den gesamten Betriebskosten in Abzug gebracht.
+Die von den Kantonen vergüteten Beratungs- und Unterstützungsleistungen werden von den geschuldeten Betriebskosten des entsprechenden Kantons in Abzug gebracht.
+
+[^23-1]: Fassung gemäss Ziff. I 7 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 24
 
@@ -335,7 +367,7 @@ Die von den Kantonen vergüteten Beratungs- und Unterstützungsleistungen werden
 Das Bundesamt für Polizei stellt die Rechnung:
 
 - a. für die im Zeugenschutzprogramm anfallenden Kosten (Art. 34 Abs. 1 ZeugSG): direkt der antragstellenden Behörde;
-- b. für die Betriebskosten (Art. 34 Abs. 2 ZeugSG): direkt den zuständigen kantonalen Behörden;
+- b.[^24-1] für die geschuldeten Betriebskosten (Art. 34 Abs. 3 ZeugSG): direkt den zuständigen kantonalen Behörden;
 - c. für die erbrachten umfangreichen Beratungs- und Unterstützungsleistungen (Art. 35 Abs. 1 ZeugSG): direkt der ersuchenden Behörde.
 
 <sup>2</sup>
@@ -343,10 +375,13 @@ Das Bundesamt für Polizei stellt die Rechnung:
 Die Zeugenschutzstelle erstellt als Beilagen zur Rechnung:
 
 - a. eine Zusammenstellung der angefallenen Fallkosten;
-- b. eine Abrechnung der Betriebskosten;
+- b.[^24-2] eine Abrechnung der geschuldeten Betriebskosten;
 - c. ein Verzeichnis der Leistungen nach Artikel 20 Absatz 2 unter Angabe der Einsatzdauer sowie der Anzahl der beigezogenen Personen.
 
 <sup>3</sup> Die Rechnungsstellung an die betreffenden Behörden erfolgt in demjenigen Kalenderjahr, in welchem die Kosten angefallen sind oder die Leistungen erbracht wurden.
+
+[^24-1]: Fassung gemäss Ziff. I 7 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^24-2]: Fassung gemäss Ziff. I 7 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ## 8. Abschnitt: Schlussbestimmungen
 
@@ -370,6 +405,6 @@ Anhang
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)konsultiert werden.

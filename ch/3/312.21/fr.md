@@ -4,11 +4,11 @@ title: Ordonnance du 7 novembre 2012 sur la protection extraprocédurale des té
 short: OTém
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/815"
 language: fr
-version: 2021-04-01
+version: 2022-06-01
 adopted: 2012-11-07
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2012-815-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2012-815-20220601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20210401/fr"
 
 (OTém)
 
-du 7 novembre 2012 (Etat le 1<sup>er</sup> avril 2021)
+du 7 novembre 2012 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -57,7 +57,9 @@ Les motifs de la demande précisent notamment:
 - d. la volonté de la personne à protéger à collaborer dans le cadre d’une procédure pénale;
 - e. l’insuffisance des mesures de protection mentionnées à l’art. 7, al. 1, let. d, LTém.
 
-<sup>3</sup> Les documents requis doivent être joints à la demande pour l’examen de celle-ci, notamment un extrait du registre des poursuites de la personne à protéger.
+<sup>3</sup> Les documents nécessaires à l’examen de la demande doivent y être joints, notamment les dossiers de procédure permettant d’évaluer le risque que court la personne en quête de protection, pour autant que le Service de protection des témoins ne puisse se les procurer autrement.[^2-1]
+
+[^2-1]: Nouvelle teneur selon le ch. I 7 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 3
 
@@ -88,13 +90,36 @@ La correspondance avec le Service de protection des témoins s’effectue:
 
 #### Art. 5
 
+**Fin du programme à la demande de la personne à protéger[^5-1]**
+
 <sup>1</sup> Si la personne à protéger souhaite mettre fin au programme de protection des témoins, elle en adresse la demande écrite et signée de sa main au Service de protection des témoins.
 
 <sup>2</sup> Le Service de protection des témoins informe la personne à protéger des conséquences de la fin du programme de protection des témoins et la rend attentive aux risques qui en résultent.
 
 <sup>3</sup> La personne à protéger dispose d’un délai de réflexion de 30 jours. Si la personne à protéger et le Service de protection des témoins conviennent de mettre fin au programme de protection des témoins, le délai de réflexion peut prendre fin au plus tôt après 10 jours.
 
-<sup>4</sup> Au terme du délai de réflexion, le directeur de l’Office fédéral de la police met fin au programme de protection des témoins sur proposition du Service de protection des témoins.
+<sup>4</sup> Au terme du délai de réflexion, le directeur de l’Office fédéral de la police met fin au programme de protection des témoins.[^5-2]
+
+[^5-1]: Introduit par le ch. I 7 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^5-2]: Nouvelle teneur selon le ch. I 7 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+
+#### Art. 5a
+
+**Fin du programme sur proposition du Service de protection des témoins**[^5a-1]
+
+<sup>1</sup> Si la personne concernée n’est plus menacée ou si elle manque aux obligations convenues, le directeur de l’Office fédéral de la police peut mettre fin au programme sur proposition du Service de protection des témoins.
+
+<sup>2</sup> Jusqu’à la clôture d’une procédure pénale par une décision entrée en force, il y a lieu, avant de mettre fin au programme, de consulter la direction de la procédure et, si la procédure pénale est en phase de débats ou de procédure de recours, de consulter en plus le ministère public.
+
+[^5a-1]: Introduit par le ch. I 7 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+
+#### Art. 5b
+
+**Notification de la fin du programme**[^5b-1]
+
+Le Service de protection des témoins notifie par décision à la personne concernée la fin du programme de protection des témoins. Il le fait en sa présence. Si ce n’est pas possible, il tente de l’en informer par un autre moyen.
+
+[^5b-1]: Introduit par le ch. I 7 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ## Section 4 Formation des collaborateurs du Service de protection des témoins
 
@@ -267,18 +292,19 @@ La sécurité des données est garantie par:
 
 #### Art. 18
 
-**Clé de répartition entre les cantons**
+[^18-1]
 
-<sup>1</sup> Les frais d’exploitation du Service de protection des témoins, dont la moitié est à la charge des cantons conformément à l’art. 34, al. 2, LTém, sont répartis entre les cantons en fonction de la proportion de leur population par rapport à la population totale de la Suisse.
-
-<sup>2</sup> Les statistiques annuelles de la Confédération les plus récentes selon la loi du 9 octobre 1992 sur la statistique fédérale[^18-1], la loi du 22 juin 2007 sur le recensement fédéral de la population[^18-2] et leurs ordonnances tiennent lieu de bases de données pour déterminer la proportion de la population à prendre en compte.
-
-[^18-1]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^18-2]: [RS 431.112](https://fedlex.data.admin.ch/eli/cc/2007/869)
+[^18-1]: Abrogé par le ch. I 7 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, avec effet au 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 19
 
-**Frais d’exploitation**
+**Frais d’exploitation du Service de protection des témoins**[^19-1]
+
+<sup>1</sup> Le Département fédéral de justice et police fixe avec les cantons la répartition des frais d’exploitation du Service de protection des témoins.
+
+<sup>2</sup> Si aucun accord n’est obtenu, la Confédération et les cantons supportent à parts égales les frais d’exploitation du Service de protection des témoins. La part des cantons est déterminée en fonction de la proportion de leur population par rapport à la population totale de la Suisse. L’Office fédéral de la statistique fournit les indications nécessaires sur la base des données de l’année précédente.
+
+<sup>3</sup>
 
 Les frais d’exploitation du Service de protection des témoins comprennent:
 
@@ -289,42 +315,48 @@ Les frais d’exploitation du Service de protection des témoins comprennent:
 - e. les autres frais d’exploitation;
 - f. l’amortissement de nouvelles acquisitions et d’acquisitions de remplacement.
 
+[^19-1]: Nouvelle teneur selon le ch. I 7 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+
 #### Art. 20
 
-**Prestations de conseil et de soutien de grande ampleur**
+**Prestations de conseil et de soutien de grande ampleur**[^20-1]
 
-<sup>1</sup> Les prestations de conseil et de soutien de grande ampleur visées à l’art. 35, al. 1, LTém comprennent les dépenses du Service de protection des témoins prévues à l’art. 23, al. 1, let. e, LTém pour les autorités policières suisses, dont l’ampleur, la durée, la nature ou la complexité dépassent largement les prestations habituellement fournies par le Service de protection des témoins dans le cadre de l’entraide administrative générale de police.
+<sup>1</sup> On entend par prestations de conseil et de soutien de grande ampleur au sens de l’art. 35, al. 1, Ltém les prestations fournies conformément à l’art. 23, al. 1, let. e, Ltém, dont l’ampleur, la durée, la nature ou la complexité dépassent largement le niveau habituel des prestations fournies aux autorités cantonales dans le cadre de l’entraide administrative générale de police.
 
 <sup>2</sup>
 
-Sont notamment comprises les prestations de grande ampleur suivantes:
+Il peut notamment s’agir des prestations suivantes:
 
-- a. mise en œuvre de mesures de protection du Service de protection des témoins en faveur de l’autorité requérante;
-- b. engagement de collaborateurs du Service de protection des témoins chargés du conseil et du soutien à l’autorité requérante;
-- c. mise à disposition des appareils et de l’infrastructure par le Service de protection des témoins dans la mesure de ses possibilités;
-- d. prestations de tiers, comme la location de véhicules ou l’hébergement.
+- a. l’engagement de collaborateurs du Service de protection des témoins chargés du conseil et du soutien à l’autorité requérante;
+- b. les prestations de tiers, comme la location de véhicules ou l’hébergement.
+
+[^20-1]: Nouvelle teneur selon le ch. I 7 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 21
 
-**Indemnisation des prestations de conseil et de soutien de grande ampleur**
+**Indemnisation des prestations de conseil et de soutien de grande ampleur**[^21-1]
 
-<sup>1</sup> Les dépenses du Service de protection des témoins selon l’art, 20, al. 2, let. a et b, doivent être indemnisées dès qu’elles dépassent la somme de 1000 francs par cas; en deçà de cette somme, elles ne doivent pas être indemnisées. Les dépenses sont comptabilisées à un taux de 150 francs par personne et par heure. Un montant maximum de 1000 francs est comptabilisé par personne et par jour civil.
+<sup>1</sup> Les dépenses que le Service de protection des témoins engage en vertu de l’art. 20, al. 2, let. a, sont indemnisées à un taux de 150 francs par personne et par heure, mais pour un montant maximum de 1000 francs par personne et par jour.
 
-<sup>2</sup> Pour l’utilisation des appareils spéciaux ou de l’infrastructure (art. 20, al. 2, let. c), le prix coûtant doit être indemnisé.
+<sup>2</sup> S’agissant des prestations de tiers, c’est le montant facturé par ces derniers qui est indemnisé.
 
-<sup>3</sup> Pour les prestations de tiers (art. 20, al. 2, let. d), le montant facturé par ces derniers leur est payé.
+[^21-1]: Nouvelle teneur selon le ch. I 7 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 22
 
-**Prestations de conseil et de soutien de grande ampleur fournies préalablement à des programmes de protection des témoins**
+**Prestations de conseil et de soutien de grande ampleur fournies préalablement à des programmes de protection des témoins**[^22-1]
 
-Si une personne à protéger fait l’objet d’un programme de protection des témoins, les prestations de conseil et de soutien de grande ampleur fournies au préalable par le Service de protection des témoins ne sont pas facturées. Sont réservées les prestations de tiers visées à l’art. 20, al. 2, let. d.
+Si une personne à protéger fait l’objet d’un programme de protection des témoins, les prestations de conseil et de soutien de grande ampleur fournies au préalable par le Service de protection des témoins ne sont pas facturées. Sont réservées les prestations de tiers visées à l’art. 20, al. 2, let. b.
+
+[^22-1]: Nouvelle teneur selon le ch. I 7 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 23
 
-**Imputation des prestations indemnisées**
+**Imputation des prestations indemnisées**[^23-1]
 
-Les prestations de conseil et de soutien indemnisées par les cantons sont déduites du total des frais d’exploitation.
+Les prestations de conseil et de soutien indemnisées par les cantons sont déduites des frais d’exploitation dus par les cantons concernés.
+
+[^23-1]: Nouvelle teneur selon le ch. I 7 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 24
 
@@ -335,7 +367,7 @@ Les prestations de conseil et de soutien indemnisées par les cantons sont dédu
 L’Office fédéral de la police adresse directement la facture:
 
 - a. des frais engendrés par le programme de protection des témoins (art. 34, al. 1, LTém): à l’autorité qui a transmis la demande;
-- b. des frais d’exploitation (art. 34, al. 2, LTém): aux autorités cantonales responsables;
+- b.[^24-1] des frais d’exploitation dus (art. 34, al. 3, Ltém): aux autorités cantonales compétentes;
 - c. des prestations de conseil et de soutien de grande ampleur (art. 35, al. 1, LTém): à l’autorité requérante.
 
 <sup>2</sup>
@@ -343,10 +375,13 @@ L’Office fédéral de la police adresse directement la facture:
 Le Service de protection des témoins joint en annexe aux factures:
 
 - a. une liste des frais liés au cas;
-- b. un décompte des frais d’exploitation;
+- b.[^24-2] un décompte des frais d’exploitation dus;
 - c. une liste des prestations prévues à l’art. 20, al. 2, en indiquant la durée de l’intervention et le nombre de personnes auxquelles il a été fait recours.
 
 <sup>3</sup> La facturation aux autorités concernées a lieu pendant l’année civile au cours de laquelle les frais ont été occasionnés ou les prestations fournies.
+
+[^24-1]: Nouvelle teneur selon le ch. I 7 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^24-2]: Nouvelle teneur selon le ch. I 7 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ## Section 8 Dispositions finales
 
