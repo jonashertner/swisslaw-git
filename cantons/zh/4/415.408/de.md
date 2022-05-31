@@ -4,227 +4,203 @@ number: "415.408"
 title: Habilitationsordnung der Theologischen Fakultät der Universität Zürich (HabilO ThF)
 short: HabilO ThF
 language: de
-nachtrag: "39"
-valid_until: 2022-06-01
+nachtrag: "117"
 adopted: 2021-12-17
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_408-2002_11_25-2003_01_01-039.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_408-2021_12_17-2022_06_01-117.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Habilitationsordnung der Theologischen Fakultät der Universität Zürich
+# Habilitationsordnung der Theologischen Fakultät der Universität Zürich (HabilO ThF)
 
-**415.408**
+(vom 17. Dezember 2021)[^t-1],[^t-2]
 
-Habilitationsordnung – Theologische Fakultät
+Die Fakultätsversammlung,
 
-(vom 25. November 2002)<sup>1</sup>
+gestützt auf § 34 Abs. 3 Ziff. 2 des Universitätsgesetzes (UniG)[^t-3] vom 15. März 1998 und § 27 Abs. 1 der Rahmenverordnung über die Habilitation (RVO Habil) vom 16. Dezember 2019[^t-4],
 
-**Bedeutung der Habilitation**
+beschliesst:
 
-§ 1. Mit der Habilitation werden wissenschaftlich ausgewiesene Personen zu Privatdozentinnen oder Privatdozenten ernannt. Sie erhalten damit die Lehrbefugnis (Venia Legendi).
+[^t-1]: OS 77, 224; Begründung siehe ABl 2022-02-11. Von der Erweiterten Universitätsleitung am 1. Februar 2022 genehmigt.
+[^t-2]: Inkrafttreten: 1. Juni 2022.
+[^t-3]: LS 415.11.
+[^t-4]: LS 415.23. 1. 7. 22 - 117 5
+
+### A. Allgemeine Bestimmungen
+
+#### § 1
+
+**Geltungsbereich**
+
+<sup>1</sup> Die Habilitationsordnung der Theologischen Fakultät der Universität Zürich (HabilO ThF) regelt das Verfahren der Habilitation an der Theologischen Fakultät der Universität Zürich (ThF).
+
+<sup>2</sup> Sie stützt sich auf die Rahmenverordnung über die Habilitation an der Universität Zürich vom 16. Dezember 2019 (RVO Habil) und konkretisiert diese nach Massgabe der besonderen Voraussetzungen für die ThF.
+
+<sup>3</sup> Soweit die HabilO ThF keine Bestimmungen enthält, gilt unmittelbar die RVO Habil.
 
 #### § 2
 
-**Ziel des Habilitationsverfahrens**
+**Grundlagen**
 
-Das Habilitationsverfahren dient der Prüfung der Befähigung wissenschaftlich ausgewiesener Personen, ein Fachgebiet der Theologie oder der Religionswissenschaft in Forschung und Lehre selbstständig an der Universität zu vertreten.
+Die Grundlagen für die Habilitation bilden eine schriftliche und eine mündliche Habilitationsleistung.
+
+### B. Habilitation
 
 #### § 3
 
-**Grundlagen für die Habilitation**
+**Schriftliche Habilitationsleistung**
 
-Die Grundlagen für die Habilitation bilden eine Habilitationsschrift und eine Probevorlesung.
+<sup>1</sup> Das Thema der schriftlichen Habilitationsleistung muss sich deutlich von dem der Dissertation unterscheiden.
 
-#### § 4
+<sup>2</sup> Als Fachgebiete stehen in der Regel die an der Fakultät vertretenen Fächer zur Verfügung.
 
-**Voraussetzungen**
-
-Notwendige Voraussetzungen für die Zulassung zur Habilitation sind 1. ein abgeschlossenes Studium der Theologie (für Habilitationen in einem theologischen Fachgebiet) bzw. der Religionswissenschaft (für Habilitationen in einem religionswissenschaftlichen Fachgebiet),
-
-- 2\. eine Promotion mit mindestens dem Prädikat magna cum laude,
-
-- 3\. mindestens 3 wissenschaftliche Publikationen seit der Promotion. Vergleichbare Studienabschlüsse können von der Fakultätsversammlung anerkannt werden.
-
-#### § 5
-
-**Habilitationsgesuch**
-
-Das Habilitationsgesuch ist schriftlich unter genauer Bezeichnung des Fachgebiets, für welches die Venia Legendi erteilt werden soll, an das Dekanat der Theologischen Fakultät zu richten. Als Fachgebiete stehen in der Regel die in den Prüfungsordnungen genannten Fächer zur Verfügung.
-
-Dem Gesuch sind folgende Unterlagen in je fünf Exemplaren beizufügen:
-
-- 1\. die Habilitationsschrift,
-
-- 2\. der Lebenslauf,
-
-- 3\. die Nachweise der in § 4 geforderten Voraussetzungen,
-
-- 4\. das Publikationsverzeichnis,
-
-- 5\. der Nachweis der bisherigen Lehrtätigkeit,
+<sup>3</sup> Die schriftliche Habilitationsleistung ist grundsätzlich in Form einer Monografie zu verfassen.
 
 **1**
 
-- 1\. 1. 03 - 39
+- 1\. 7. 22 - 117
 
-## 415.408 Habilitationsordnung – Theologische Fakultät
+<sup>4</sup> Werden mehrere wissenschaftliche Abhandlungen als schriftliche Habilitationsleistung eingereicht, gelten folgende Anforderungen:
 
-- 6\. die Stellungnahme zur Umschreibung der Venia Legendi durch die Professorinnen und Professoren der Disziplin, in die das Fachgebiet der angestrebten Habilitation fällt,
+- a. Der übergeordnete Forschungszusammenhang, in dem die einzelnen Abhandlungen eingebettet sind, ist ausführlich zu beschreiben.
 
-- 7\. drei Themenvorschläge für die Probevorlesung aus dem Fachgebiet, für das die Venia Legendi angestrebt wird.
+- b. Allfällige bei einem Publikationsorgan eingereichte, für die Publikation angenommene oder bereits publizierte Abhandlungen sind genau zu bezeichnen.
 
-Ausserdem ist ein Exemplar sämtlicher Publikationen beizulegen.
+#### § 4
+
+**Koautorschaft**
+
+Wird eine Habilitationsschrift vorgelegt, die vollständig oder in Teilen in Koautorschaft erarbeitet worden ist, muss der eigene Beitrag ausgewiesen werden.
+
+### C. Habilitationsverfahren
+
+#### § 5
+
+**Zulassung**
+
+<sup>1</sup> Für die Zulassung zum Habilitationsverfahren ist grundsätzlich das Doktorat der Theologie oder Religionswissenschaft einer schweizerischen Universität oder ein gleichwertiger Ausweis erforderlich.
+
+<sup>2</sup> Es ist ein akademischer Bezug zur ThF darzulegen. Als solcher gilt namentlich a. eine Tätigkeit an der ThF innerhalb der letzten fünf Jahre,
+
+- b. eine Forschungskooperation mit mindestens einer Fachvertreterin oder einem Fachvertreter aus dem Kreis der ordentlichen und ausserordentlichen Professorinnen und Professoren, der Assistenzprofessorinnen und -professoren sowie der Förderungsprofessorinnen und -professoren,
+
+- c. die Unterstützung des Habilitationsgesuchs durch mindestens zwei Fachvertreterinnen oder Fachvertreter oder fachnahen Vertreterinnen oder Vertretern aus dem Kreis der ordentlichen und ausserordentlichen Professorinnen und Professoren, der Assistenzprofessorinnen und -professoren sowie der Förderungsprofessorinnen und -professoren.
+
+<sup>3</sup> Die Fakultätsversammlung kann Promovierte anderer Fachrichtungen und ausländischer Universitäten zulassen.
 
 #### § 6
 
-**Habilitationsschrift**
+**Gesuch**
 
-Die Habilitationsschrift ist ein selbstständig erarbeiteter wissenschaftlicher Beitrag zu einem Thema aus dem Fachgebiet, für das die Venia Legendi erteilt werden soll. Sie besteht aus einer Monografie oder aus einer Reihe wissenschaftlicher Abhandlungen. Der wissenschaftliche Beitrag der Habilitationsschrift muss einem internationalen Vergleich standhalten und neue Ergebnisse und Erkenntnisse enthalten, die durch adäquate Methoden erarbeitet worden sind. Das Thema der Habilitationsschrift muss sich in der Regel deutlich von dem der Dissertation unterscheiden.
+<sup>1</sup> Die Habilitationsschrift ist sowohl auf Papier als auch in digitaler Form einzureichen.
 
-Werden als Habilitationsschrift mehrere bereits publizierte oder zur Publikation eingereichte und akzeptierte wissenschaftliche Abhandlungen vorgelegt, müssen sie gesamthaft mindestens den Anforderungen an eine Habilitationsschrift entsprechen. Das bedeutet unter anderem, dass sie in einem thematischen Zusammenhang stehen müssen. Dieser Zusammenhang mitsamt der wichtigsten Ergebnisse sollen in einer ausführlichen Zusammenfassung dargestellt und diskutiert werden. Die konzeptionelle Eigenleistung der Habilitandin oder des Habilitanden muss erkenn- und nachweisbar sein.
+<sup>2</sup> Dem Habilitationsgesuch ist eine Erklärung beizulegen, dass die Habilitationsschrift eigenständig erarbeitet worden ist und dass sämtliche Rechte anderer Autorinnen und Autoren gewahrt werden.
+
+<sup>3</sup> Weitere Informationen zur Einreichung der Habilitationsschrift sind der Website der ThF zu entnehmen.
 
 #### § 7
 
-**Begutachtung der Habilitationsschrift**
+**Eröffnung**
 
-Die Beurteilung der Habilitationsschrift erfolgt durch die Fakultätsversammlung, gestützt auf mindestens zwei eingeholte Gutachten. Aus dem Kreis der Fakultät werden in der Regel zwei, mindestens aber ein Gutachten vorgelegt. Der Fakultätsversammlung steht es frei, weitere Gutachten einzuholen.
+<sup>1</sup> Mit der Einreichung des Habilitationsgesuchs an die Dekanin oder den Dekan der ThF wird das Habilitationsverfahren eröffnet.
 
-Falls das wissenschaftliche Gebiet der Habilitationsschrift in der Fakultät nicht von mindestens zwei Personen vertreten ist, muss mindestens ein externes Gutachten eingeholt werden.
+<sup>2</sup> Sind die Anforderungen für die Durchführung des Habilitationsverfahrens offensichtlich nicht erfüllt, wird auf das Habilitationsgesuch nicht eingetreten.
 
-Die Gutachten beurteilen die wissenschaftliche Sorgfalt und die Forschungsleistung der Habilitationsschrift.
+<sup>3</sup> Der Entscheid ist zu begründen und der Gesuchstellerin oder dem Gesuchsteller mitzuteilen. Zuständig ist die Dekanin oder der Dekan.
 
 #### § 8
 
-**Entscheid der Fakultät über die Habilitationsschrift**
+**Begutachtung der schriftlichen Habilitationsleistung**
 
-Liegen die schriftlichen Gutachten vor, werden sie mindestens vier Wochen vor der Sitzung an die Mitglieder der Fakultätsversammlung verschickt, in der über Annahme oder Ablehnung der Habilitationsschrift sowie die Zulassung der Kandidatin bzw. des Kandidaten zur Probevorlesung abgestimmt wird.
+<sup>1</sup> Die Beurteilung der schriftlichen Habilitationsleistung erfolgt durch die Fakultätsversammlung gestützt auf eingeholte Gutachten.
 
-**3**
+<sup>2</sup> Die Fakultätsversammlung bestimmt in der Regel zwei Gutachterinnen oder Gutachter. Mindestens eines der Gutachten ist von einer externen Expertin oder einem externen Experten zu verfassen.
 
-2 Habilitationsordnung – Theologische Fakultät
+<sup>3</sup> Es können mehr als zwei Gutachterinnen oder Gutachter bestimmt werden, sei es von Anfang an oder erst nach Vorliegen der ursprünglichen Gutachten.
 
-**415.408**
+<sup>4</sup> Der oder dem Habilitierenden ist es freigestellt, zusammen mit dem Habilitationsgesuch eine unverbindliche Liste mit höchstens fünf möglichen Gutachterinnen und Gutachtern einzureichen. Allfällige Verbindungen zu den Gutachterinnen und Gutachtern sind in der Liste offenzulegen.
 
-Bei deutlich voneinander abweichenden Beurteilungen der Habilitationsschrift durch die Gutachterinnen bzw. Gutachter kann die Fakultätsversammlung ein weiteres externes Gutachten einholen. Danach befindet die Fakultätsversammlung endgültig über die Habilitationsschrift.
-
-Wird die Habilitationsschrift abgelehnt, beantragt die Fakultätsversammlung bei der Erweiterten Universitätsleitung die Ablehnung des Habilitationsgesuchs. Dann wird keine Probevorlesung gehalten.
+<sup>4</sup> Die Gutachterinnen oder Gutachter beurteilen die schriftliche Habilitationsleistung; sie legen in einem schriftlichen Bericht Stärken und Schwächen der Arbeit dar und gewichten diese.
 
 #### § 9
 
-**Rückgabe der Habilitationsschrift zur Überarbeitung**
+**Vorgehen bei Mängeln der Habilitationsschrift**
 
-Die Fakultätsversammlung kann eine Arbeit einmalig zur Behebung von insgesamt nicht gravierenden Mängeln an die Habilitandin oder den Habilitanden zur Überarbeitung für eine angemessene Frist, jedoch nicht länger als zwölf Monate zurückgeben. Eine Annahme des Angebots zur Überarbeitung sistiert das Habilitationsverfahren.
+<sup>1</sup> Weist die Habilitationsschrift kleinere Mängel auf, kann die Dekanin oder der Dekan diese in Absprache mit den Gutachterinnen und Gutachtern und unter Ansetzung einer Überarbeitungsfrist zurückgeben. Die Überarbeitung einer Habilitationsschrift mit grösseren Mängeln ist ausgeschlossen.
 
-Wird vom Angebot zur Überarbeitung kein Gebrauch gemacht, die Überarbeitung nicht innerhalb der Frist eingereicht oder von der Fakultätsversammlung als ungenügend bewertet, so stellt die Fakultätsversammlung Antrag auf Ablehnung des Habilitationsgesuchs.
+<sup>2</sup> Die Überarbeitungsfrist dauert in der Regel nicht länger als sechs Monate. Während dieser Zeit wird das Verfahren sistiert.
 
 #### § 10
 
-**Probevorlesung**
+**Fakultätsentscheid über die schriftliche Habilitationsleistung**
 
-Wird die Habilitationsschrift angenommen, hat die Habilitandin oder der Habilitand durch eine Probevorlesung und ein daran anschliessendes Kolloquium den Nachweis zu erbringen, in der Lage zu sein, einen wissenschaftlichen Sachverhalt in didaktisch-methodisch fundierter Weise zu vermitteln und das gewählte Fachgebiet kompetent zu vertreten.
+<sup>1</sup> Die Fakultätsversammlung entscheidet über die Annahme oder Abweisung der schriftlichen Habilitationsleistung, nachdem alle stimmberechtigten Fakultätsmitglieder während mindestens zweier Wochen die Möglichkeit hatten, Einsicht in die schriftliche Habilitationsleistung und die Gutachten zu nehmen.
 
-Die Fakultätsversammlung wählt das Thema für die Probevorlesung aus den drei eingereichten Themenvorschlägen aus und teilt es der Habilitandin oder dem Habilitanden drei Wochen vor dem Datum der Probevorlesung mit. Die Fakultätsversammlung kann die Themenvorschläge auch zurückweisen und drei neue einfordern.
+**3**
 
-Die vorgeschlagenen Themen der Probevorlesung dürfen nicht aus dem engeren Gebiet der Habilitationsschrift stammen. Die Probevorlesung wird in der Regel in deutscher Sprache gehalten. Sie findet vor der Fakultätsversammlung statt und dauert 45 Minuten, gefolgt von einem maximal 45-minütigen Kolloquium. Vorlesung und Kolloquium dienen dem Nachweis der Befähigung der Habilitandin bzw. des Habilitanden, wissenschaftliche Sachverhalte in didaktisch-methodisch fundierter Weise zu vermitteln und das gewählte Fachgebiet kompetent zu vertreten.
+- 1\. 7. 22 - 117
 
-- 1\. 1. 03 - 39
+<sup>2</sup> Eine abgewiesene schriftliche Habilitationsleistung kann nicht nochmals eingereicht werden.
 
-## 415.408 Habilitationsordnung – Theologische Fakultät
+<sup>3</sup> Weist die Fakultätsversammlung eine schriftliche Habilitationsleistung ab, wird der Habilitandin oder dem Habilitanden Gelegenheit gegeben, das Habilitationsgesuch zurückzuziehen; in diesem Fall kann die zurückgezogene schriftliche Habilitationsleistung nicht nochmals eingereicht werden.
 
 #### § 11
 
-**Ungenügende Probevorlesung**
+**Mündliche Habilitationsleistung**
 
-Werden Probevorlesung und Kolloquium als ungenügend beurteilt, erhält die Habilitandin oder der Habilitand die einmalige Gelegenheit, im Rahmen des laufenden Habilitationsverfahrens eine neue Probevorlesung zu halten. Dazu hat die Habilitandin oder der Habilitand wiederum drei Themen vorzuschlagen, wobei das Thema der ungenügenden Probevorlesung nicht wieder genannt werden darf. Die Fakultätsversammlung wählt das Thema aus den eingereichten Themenvorschlägen und teilt es der Kandidatin bzw. dem Kandidaten wiederum drei Wochen vor dem Datum der Probevorlesung mit. Verzichtet die Habilitandin oder der Habilitand auf die Wiederholungsmöglichkeit, so wird seitens der Fakultätsversammlung Antrag auf Ablehnung des Habilitationsgesuches gestellt.
+<sup>1</sup> Vor der Annahme der schriftlichen Habilitationsleistung fordert die Dekanin oder der Dekan die Habilitandin oder den Habilitanden auf, drei schriftlich kommentierte Themenvorschläge für einen wissenschaftlichen Vortrag einzureichen. Keines der Themen darf aus dem engeren Gebiet der schriftlichen Habilitationsleistung stammen.
+
+<sup>2</sup> Die Fakultätsversammlung wählt aus diesen Vorschlägen ein Thema aus und lädt die Habilitandin oder den Habilitanden zu einem Vortrag ein. Der Habilitandin oder dem Habilitanden wird die Themenwahl drei Wochen vor dem Vortrag durch das Dekanat mitgeteilt. Die Fakultätsversammlung kann die eingereichten Themenvorschläge auch zurückweisen und neue Themenvorschläge einfordern.
+
+<sup>3</sup> Die mündliche Leistung besteht aus einem 25 Minuten dauernden Probevortrag und einem daran anschliessenden rund 25 Minuten dauernden Kolloquium vor der Fakultätsversammlung.
+
+<sup>4</sup> Die Habilitandin oder der Habilitand hat dadurch den Nachweis wissenschaftlicher Kompetenz sowie der Befähigung zur Vermittlung eines wissenschaftlichen Gegenstandes in didaktisch-methodisch fundierter Weise zu erbringen.
+
+<sup>5</sup> Wird die mündliche Habilitationsleistung als ungenügend beurteilt, erhält die Habilitandin oder der Habilitand im Rahmen des laufenden Habilitationsverfahrens einmal Gelegenheit zur Wiederholung. Dabei müssen drei neue Themenvorschläge eingereicht werden.
 
 #### § 12
 
-**Umhabilitation**
+**Publikation**
 
-Wenn sich die Habilitandin oder der Habilitand bereits an einer anderen Universität unter vergleichbaren Bedingungen für das Fachgebiet habilitiert hat, für welches sie oder er sich an der Universität Zürich bewirbt, kann die Fakultätsversammlung ihr oder ihm das Einreichen einer Habilitationsschrift erlassen, nicht aber die Probevorlesung.
+<sup>1</sup> Die Habilitandin oder der Habilitand ist verpflichtet, die Habilitationsschrift nach der Verleihung der Venia Legendi zu publizieren, soweit sie nicht bereits als Ganzes oder in Teilen veröffentlicht ist.
+
+<sup>2</sup> Die Publikation der Habilitationsschrift erfolgt in dem von der Universität Zürich zur Verfügung gestellten Repositorium und gilt als erfolgt, sobald diese im Repositorium aufgenommen worden ist.
+
+<sup>3</sup> Bei einer weiteren Verwertung der Habilitationsschrift darf kein Druckvermerk angefügt werden, der diese als schriftliche Habilitationsleistung an der ThF kenntlich macht.
 
 #### § 13
 
-**Religionswissenschaftliche Habilitationsverfahren**
+**Sperrfrist**
 
-Bei religionswissenschaftlichen Habilitationsverfahren haben die aus der philosophischen Fakultät stammenden Mitglieder des Koordinationsausschusses für den Studiengang Religionswissenschaft Sitz und Stimme in der Fakultätsversammlung.
+<sup>1</sup> Die Dekanin oder der Dekan kann auf Antrag einer Habilitandin oder eines Habilitanden die partielle oder vollständige Sperrung des Inhalts der Habilitationsschrift in dem von der UZH zur Verfügung gestellten Repositorium für eine Frist von drei Jahren bewilligen.
+
+<sup>2</sup> Der Name der Habilitandin oder des Habilitanden sowie der Titel der Habilitationsschrift können nicht gesperrt werden.
+
+<sup>3</sup> Die Dekanin oder der Dekan kann diese Frist auf begründeten Antrag einmal um weitere drei Jahre verlängern oder ausnahmsweise eine zeitlich unbeschränkte Sperrung bewilligen, sofern ein wichtiger Grund nachgewiesen wird.
+
+<sup>4</sup> Ein wichtiger Grund liegt insbesondere dann vor, wenn ein Verlag die Publikation in dem von der Universität Zürich zur Verfügung gestellten Repositorium nicht erlaubt.
 
 #### § 14
 
-**Antrag auf Erteilung der Venia Legendi oder auf Ablehnung des Habilitationsgesuchs**
+**Umhabilitation**
 
-Unter Berücksichtigung der eingeholten Gutachten über die Habilitationsschrift sowie der Bewertung der Probevorlesung stellt die Fakultätsversammlung Antrag an die Erweiterte Universitätsleitung auf:
+<sup>1</sup> Für eine Umhabilitation ist sowohl eine Habilitationsschrift als auch eine mündliche Habilitationsleistung erforderlich.
 
-- 1\. Erteilung der Venia Legendi in einem von der Fakultätsversammlung bezeichneten Fachgebiet oder
+<sup>2</sup> Die Habilitationsschrift kann bei einer Umhabilitation aus einer Schrift bestehen, die an einer anderen Universität bereits für eine Habilitation angenommen worden ist. Diese kann mit weiteren Schriften ergänzt werden.
 
-- 2\. Ablehnung des Habilitationsgesuchs.
+<sup>3</sup> Das Verfahren der Umhabilitation entspricht mit Ausnahme von Abs. 2 demjenigen einer Habilitation.
+
+### D. Schlussbestimmungen
 
 #### § 15
 
-**Ablehnung oder Rückzug des Habilitationsgesuchs**
+**Einsichtsrecht**
 
-Wird die Venia Legendi von der Erweiterten Universitätsleitung nicht erteilt oder erfolgt ein Rückzug des Habilitationsgesuchs durch die Habilitandin oder den Habilitanden nach dem Beschluss der Fakultätsversammlung auf Ablehnung des Habilitationsgesuchs, so kann die eingereichte Habilitationsschrift in einem neuen Habilitationsgesuch nicht mehr verwendet werden.
+Gesuche um Akteneinsicht sind an die Dekanin oder den Dekan zu richten.
 
 #### § 16
 
-**Dauer des Habilitationsverfahrens**
+**Übergangsbestimmung**
 
-Das Habilitationsverfahren in der Fakultät ist in der Regel spätestens ein Jahr nach Einreichung des Habilitationsgesuchs abzuschliessen.
-
-4 Habilitationsordnung – Theologische Fakultät
-
-**415.408**
-
-**Veröffentlichung der Habilitationsschrift**
-
-§ 17. Nach Erteilung der Venia Legendi sind dem Dekanat innerhalb zweier Jahre sieben gedruckte Exemplare der Habilitationsschrift abzuliefern. Diese müssen als Habilitationsschrift der Universität Zürich gekennzeichnet sein. Auf Wunsch ist den Fakultätsmitgliedern ein Exemplar zuzustellen.
-
-Wenn die Habilitationsschrift aus einer durch einen einleitenden und zusammenfassenden Text ergänzten Reihe wissenschaftlicher Abhandlungen besteht, muss diese mit einer Titelseite versehen und eingebunden sein.
-
-Die Frist zur Abgabe der gedruckten Pflichtexemplare kann einmal um sechs Monate verlängert werden.
-
-Der Titel Privatdozent darf erst nach Ablieferung der Pflichtexemplare geführt werden.
-
-#### § 18
-
-**Lehrverpflichtung**
-
-Die Privatdozentinnen und Privatdozenten sind zur Durchführung von Lehrveranstaltungen verpflichtet.
-
-Von dieser Lehrverpflichtung kann sie die Dekanin oder der Dekan semesterweise entbinden.
-
-#### § 19
-
-**Antrittsvorlesung**
-
-Die Privatdozentinnen und Privatdozenten sind verpflichtet, innerhalb eines Jahres nach Erteilung der Venia Legendi eine öffentliche Antrittsvorlesung zu halten.
-
-#### § 20
-
-**Akteneinsichtsrecht**
-
-Gesuche um Akteneinsicht sind an die zuständige Instanz zu richten. Bis zur Antragstellung an die Erweiterte Universitätsleitung auf Erteilung oder Nichterteilung der Venia Legendi ist die Fakultät, danach die Erweiterte Universitätsleitung zuständig.
-
-Die Akteneinsicht wird in der Regel erst nach Eröffnung des Entscheides der Erweiterten Universitätsleitung gewährt.
-
-Die zuständige Instanz kann bei Vorliegen von wichtigen Gründen die Akteneinsicht beschränken und die Bekanntgabe der Namen der Gutachterinnen und Gutachter verweigern.
-
-#### § 21
-
-**Aufbewahrungspflicht der Habilitationsschrift**
-
-Nach Abschluss des Habilitationsverfahrens sind die eingereichten Unterlagen und Gutachten während zehn Jahren aufzubewahren.
-
-Die Habilitandin oder der Habilitand kann die eingereichten Exemplare der Habilitationsschrift nach Entscheidungsfällung nicht mehr zurückverlangen.
-
-#### § 22
-
-**Schlussbestimmungen**
-
-Diese Habilitationsordnung tritt am 1. Januar 2003 in Kraft.
-
-## Weitere Fussnoten
-
-- [1] OS 57, 361. Vom Universitätsrat erlassen. 1. 1. 03 - 39 5
+Laufende Habilitationsverfahren, die vor dem Inkrafttreten dieser Habilitationsordnung eröffnet wurden, richten sich nach den Bestimmungen der Habilitationsordnung der Theologischen Fakultät der Universität Zürich vom 25. November 2002. Vorbehalten bleibt § 28 RVO Habil.
