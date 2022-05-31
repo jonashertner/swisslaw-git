@@ -4,13 +4,13 @@ number: "851.214"
 title: Verordnung betreffend schutzbedürftige Personen aus der Ukraine
 short: "Schutzbedürftigen-Verordnung, SbV"
 language: de
-version: 2022-04-08
-valid_until: 2022-05-31
-version_adopted: 2022-04-06
+version: 2022-06-01
+valid_until: 2022-10-06
+version_adopted: 2022-05-18
 adopted: 2022-04-06
 in_force: 2022-04-08
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/851.214"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3173/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3205/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3173/pdf_file"
 
 (Schutzbedürftigen-Verordnung, SbV)
 
-Vom 06.04.2022 (Stand 08.04.2022)
+Vom 06.04.2022 (Stand 01.06.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -119,6 +119,18 @@ beschliesst:
 **Gebühren für die Zulassung zur Erwerbstätigkeit**
 
 <sup>1</sup> Für die Bewilligung des Stellenantritts, des Stellen- oder Berufswechsels und für die arbeitsmarktliche Begutachtung von Gesuchen von schutzbedürftigen Personen werden keine Gebühren und Auslagen erhoben.
+
+## 3<sup>bis</sup>. Separative Lernangebote
+
+#### § 10a
+
+**Pauschalbeitrag des Kantons an die Infrastruktur, die Lehrmittel und das Schulmaterial**
+
+<sup>1</sup> Der Kanton kann den Schulträgern zur Erteilung des Volksschulunterrichts an schutzbedürftige Schülerinnen und Schüler aus der Ukraine bis Ende Schuljahr 2022/23 einen Pauschalbeitrag an die zusätzlich erforderliche Infrastruktur, die zusätzlich erforderlichen Lehrmittel und das zusätzlich erforderliche Schulmaterial bezahlen, sofern ein oder mehrere separative Lernangebote an der jeweiligen Volksschule geführt werden und die kommunalen Verhältnisse eine Beschulung in separaten Räumlichkeiten ausserhalb der schulischen Strukturen vor Ort bedingen.
+
+<sup>2</sup> Der Pauschalbeitrag beträgt pro schutzbedürftige Schülerin beziehungsweise schutzbedürftigen Schüler aus der Ukraine Fr. 500.– pro Monat.
+
+<sup>3</sup> Die Pauschalbeiträge durch den Kanton werden nur für schutzbedürftige Schülerinnen und Schülern aus der Ukraine gesprochen, die den Anteil von 5 Prozent an der Gesamtschülerzahl des jeweiligen Schulträgers übersteigen, wobei in der Regel eine Mindestgrenze von 14 schutzbedürftigen Schülerinnen und Schülern aus der Ukraine erreicht sein muss.
 
 ## 4. Schlussbestimmung
 
