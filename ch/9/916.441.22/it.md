@@ -4,20 +4,20 @@ title: Ordinanza del 25 maggio 2011 concernente i sottoprodotti di origine anima
 short: OSOAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/372"
 language: it
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/372/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-372-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/372/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2011-372-20220601-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente i sottoprodotti di origine animale
 
-(OSOAn)**[^t-1]**
+(OSOAn)[^t-1]
 
-del 25 maggio 2011 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 25 maggio 2011 (Stato 1° giugno 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
@@ -225,7 +225,7 @@ Salvo che appartengano alla categoria 1 o 2, i sottoprodotti di origine animale 
 
 <sup>2</sup> I sottoprodotti di origine animale non menzionati agli articoli 5–7 sono classificati nella categoria 2.
 
-## Capitolo 3: Commercio ed eliminazione****
+## Capitolo 3: Commercio ed eliminazione
 
 [^chap3-1]
 
@@ -317,7 +317,7 @@ Non sussiste alcun obbligo di notifica per:
 
 <sup>1</sup>
 
-Il veterinario cantonale inserisce i seguenti dati nel sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dellʼesecuzione di cui all’ordinanza del 6 giugno 2014[^13-2] concernente i sistemi d’informazione per il servizio veterinario pubblico:
+Il veterinario cantonale inserisce i seguenti dati nel sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione di cui all’ordinanza del 27 aprile 2022[^13-2] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare:[^13-3]
 
 - a. per ogni persona fisica o giuridica registrata: il numero di registrazione, il nome e l’indirizzo, le sue attività, comprese le categorie dei sottoprodotti di origine animale interessati nonché la dicitura degli impianti e degli stabilimenti da lei notificata;
 - b. per ogni impianto e stabilimento autorizzato: il numero di autorizzazione, il nome e l’indirizzo dell’impianto o dello stabilimento nonché le attività che vi si svolgono, comprese le categorie dei sottoprodotti di origine animale interessati.
@@ -326,6 +326,7 @@ Il veterinario cantonale inserisce i seguenti dati nel sistema d’informazione 
 
 [^13-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 [^13-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^13-3]: Nuovo testo giusta l’all. 4 n. II 10 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 14
 
@@ -539,7 +540,7 @@ L’eliminazione o il riciclaggio dei residui provenienti da impianti di incener
 [^26-4]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 [^26-5]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
 
-## Capitolo 4: Utilizzo di sottoprodotti di origine animale per l’alimentazione di animali e per la fabbricazione di concime e di prodotti tecnici****
+## Capitolo 4: Utilizzo di sottoprodotti di origine animale per l’alimentazione di animali e per la fabbricazione di concime e di prodotti tecnici
 
 [^chap4-1]
 
@@ -751,7 +752,7 @@ Per l’alimentazione di animali da compagnia e altri carnivori nonché uccelli 
 [^34-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 [^34-2]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
 
-### Sezione 4: Fabbricazione di concime e di prodotti tecnici****
+### Sezione 4: Fabbricazione di concime e di prodotti tecnici
 
 [^chap4-sec4-1]
 
@@ -791,7 +792,7 @@ I sottoprodotti di origine animale della categoria 3 possono essere utilizzati p
 
 <sup>3</sup> Gli altri proprietari di sottoprodotti di origine animale devono consegnare questi ultimi al centro di raccolta designato dal Cantone qualora non siano in grado di provvedere alla loro eliminazione.
 
-[^36-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^36-1]: [[[RU 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325); [2015 4269](https://fedlex.data.admin.ch/eli/oc/2015/717); [2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)art. 20 n. 3, [4543](https://fedlex.data.admin.ch/eli/oc/2018/708); [2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)all. n. 34, [751](https://fedlex.data.admin.ch/eli/oc/2021/751)all. 3 n. II 11. [RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)all. 4 n. I ]. Vedi ora l’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare ([RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)).
 [^36-2]: Nuovo testo giusta l’all. 3 n. II 12 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 37
@@ -942,7 +943,7 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate dall’alleg
 
 La presente ordinanza entra in vigore il 1° luglio 2011.
 
-Allegato 1a*[^t-2]*
+Allegato 1a[^t-2]
 
 (art. 2*a* cpv. 2)
 
@@ -975,7 +976,7 @@ Allegato 1a*[^t-2]*
 [^annex1a-lvlu1-1]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
 [^annex1a-lvlu1-2]: [RU 2011 3253](https://fedlex.data.admin.ch/eli/oc/2011/425)
 
-Allegato 1b*[^t-3]*
+Allegato 1b[^t-3]
 
 (art. 11 cpv. 1 e 15 cpv. 1)
 
@@ -1009,7 +1010,7 @@ Allegato 1b*[^t-3]*
 [^annex1b-lvlu1-1]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
 [^annex1b-lvlu1-2]: Cfr. nota a piè di pagina relativa all’art. 32*a.*
 
-Allegato 2*[^t-4]*
+Allegato 2[^t-4]
 
 (art. 15 cpv. 1)
 
@@ -1370,7 +1371,7 @@ Allegato 6[^t-6]
 
 [^t-6]: Ora: allegato 1*a* ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
-Allegato 7*[^t-7]*
+Allegato 7[^t-7]
 
 (art. 25 cpv. 2)
 

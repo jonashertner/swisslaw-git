@@ -4,11 +4,11 @@ title: Verordnung vom 25. Mai 2011 über tierische Nebenprodukte (VTNP)
 short: VTNP
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/372"
 language: de
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/372/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-372-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/372/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2011-372-20220601-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20220101/de"
 
 (VTNP)**[^t-1]**
 
-vom 25. Mai 2011 (Stand am 1. Januar 2022)
+vom 25. Mai 2011 (Stand am 1. Juni 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
@@ -322,7 +322,7 @@ Keine Meldepflicht besteht für:
 
 <sup>1</sup>
 
-Die Kantonstierärztin oder der Kantonstierarzt gibt die folgenden Daten in das Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes nach der Verordnung vom 6. Juni 2014[^13-2] über die Informationssysteme für den öffentlichen Veterinärdienst ein:
+Die Kantonstierärztin oder der Kantonstierarzt gibt die folgenden Daten in das Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes nach der Verordnung vom 27. April 2022[^13-2] über Informationssysteme des BLV für die Lebensmittelkette ein:[^13-3]
 
 - a. für jede registrierte natürliche oder juristische Person: die Registrierungsnummer, den Namen und die Adresse, ihre Tätigkeiten einschliesslich der Kategorien der betroffenen tierischen Nebenprodukte sowie die von ihr bezeichneten Anlagen und Betriebe;
 - b. für jede bewilligte Anlage und jeden bewilligten Betrieb: die Bewilligungsnummer, den Namen und die Adresse der Anlage oder des Betriebs und die darin ausgeübten Tätigkeiten einschliesslich der Kategorien der betroffenen tierischen Nebenprodukte.
@@ -331,6 +331,7 @@ Die Kantonstierärztin oder der Kantonstierarzt gibt die folgenden Daten in das 
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 [^13-2]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^13-3]: Fassung gemäss Anhang 4 Ziff. II 10 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 14
 
@@ -796,7 +797,7 @@ Tierische Nebenprodukte der Kategorie 3 dürfen für die Herstellung von pharmaz
 
 <sup>3</sup> Alle übrigen Inhaberinnen und Inhaber von tierischen Nebenprodukten müssen diese in die vom Kanton bestimmte Sammelstelle liefern, sofern sie zu deren Entsorgung nicht selber in der Lage sind.
 
-[^36-1]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^36-1]: [[AS 2004 3079](https://fedlex.data.admin.ch/eli/oc/2004/399); [2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)Anhang 3 Ziff. II 9; [2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)Anhang Ziff. 6; [2007 2711](https://fedlex.data.admin.ch/eli/oc/2007/358)Ziff. II 2; [2008 1189](https://fedlex.data.admin.ch/eli/oc/2008/214). [AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)Anhang 8 Ziff. I]
 [^36-2]: Fassung gemäss Anhang 3 Ziff. II 12 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 37

@@ -4,11 +4,11 @@ title: Ordonnance du 25 mai 2011 concernant les sous-produits animaux (OSPA)
 short: OSPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/372"
 language: fr
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/372/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-372-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/372/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2011-372-20220601-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20220101/fr"
 
 (OSPA)**[^t-1]**
 
-du 25 mai 2011 (Etat le 1<sup>er</sup> janvier 2022)
+du 25 mai 2011 (Etat le 1<sup>er</sup> juin 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
@@ -318,7 +318,7 @@ Une communication n’est pas requise pour:
 
 <sup>1</sup>
 
-Le vétérinaire cantonal saisit les données suivantes dans le système d’information pour les données d’exécution du service vétérinaire public visé dans l’ordonnance du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public[^13-2]:
+Le vétérinaire cantonal saisit les données suivantes dans le système d’information pour les données d’exécution du service vétérinaire public visé dans l’ordonnance du 27 avril 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire[^13-2]:[^13-3]
 
 - a. pour chaque personne physique ou morale enregistrée: le numéro d’enregistrement, le nom ou la raison sociale, l’adresse, les activités, y compris les catégories des sous-produits animaux concernés, ainsi que les usines, installations et établissements communiqués;
 - b. pour chaque usine, installation ou établissement autorisés: le numéro de l’autorisation, le nom et l’adresse de l’usine, de l’installation ou de l’établissement et les activités exercées, y compris les catégories de sous-produits animaux concernés.
@@ -327,6 +327,7 @@ Le vétérinaire cantonal saisit les données suivantes dans le système d’inf
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 [^13-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^13-3]: Nouvelle teneur selon l’annexe 4 ch. II 10 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 14
 
@@ -790,7 +791,7 @@ Les sous-produits animaux de catégorie 3 peuvent être utilisés pour la fabric
 
 <sup>3</sup> Tous les autres détenteurs de sous-produits animaux doivent livrer leurs sous-produits animaux au centre de collecte désigné par le canton s’ils ne sont pas en mesure de les éliminer eux-mêmes.
 
-[^36-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^36-1]: [[RO 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325); [2015 4269](https://fedlex.data.admin.ch/eli/oc/2015/717); [2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)art. 20 ch. 3,[4543](https://fedlex.data.admin.ch/eli/oc/2018/708); [2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)annexe ch. 34, [751](https://fedlex.data.admin.ch/eli/oc/2021/751)annexe 3 ch. II 11]. Voir actuellement l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire ([RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)).
 [^36-2]: Nouvelle teneur selon l’annexe 3 ch. II 12 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 37
