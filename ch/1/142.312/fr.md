@@ -4,11 +4,11 @@ title: "Ordonnance 2 du 11 août 1999 sur l'asile relative au financement (Ordon
 short: OA 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/360"
 language: fr
-version: 2022-01-01
+version: 2022-06-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-360-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-1999-360-20220601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20220101/fr"
 
 (Ordonnance 2 sur l’asile, OA 2)
 
-du 11 août 1999 (Etat le 1<sup>er</sup> janvier 2022)
+du 11 août 1999 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -435,10 +435,10 @@ La Confédération verse aux cantons des forfaits globaux pour les réfugiés et
 
 - a.[^24-4] le réfugié obtient une autorisation d’établissement, ou du mois où un tel droit naît pour l’intéressé conformément à l’art. 42, al. 3 ou 4, ou 43, al. 2 ou 3, LEI[^24-5], mais au plus pendant cinq ans à compter du dépôt de la demande d’asile qui a mené à l’octroi de l’asile;
 - b.[^24-6] le réfugié admis à titre provisoire obtient une autorisation de séjour ou d’établissement en vertu du droit des étrangers, ou le mois où un tel droit naît pour l’intéressé conformément à l’art. 42, al. 1, ou 43, al. 1 ou 3, LEI, mais au plus pendant sept ans à compter de l’entrée en Suisse;
-- b<sup>bis</sup>.[^24-7] le réfugié frappé d’une décision exécutoire d’expulsion pénale, au sens de l’art. 66*a* ou 66*a*<sup>bis</sup> du code pénal[^24-8] ou 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927[^24-9], a définitivement quitté la Suisse ou est parti sans annoncer son départ aux autorités compétentes, mais au plus tard 5 ans après le dépôt de sa demande d’asile;
+- [tab] b<sup>bis</sup>.[^24-7] le réfugié frappé d’une décision exécutoire d’expulsion pénale au sens de l’art. 66*a* ou 66*a*<sup>bis</sup> du code pénal (CP)[^24-8] ou 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927 (CPM)[^24-9], ou d’une décision exécutoire d’expulsion au sens de l’art. 68 LEI a définitivement quitté la Suisse ou est parti sans annoncer son départ aux autorités compétentes, mais au plus pendant cinq ans à compter du dépôt de sa demande d’asile;
 - c.[^24-10] l’apatride obtient une autorisation d’établissement, ou du mois où un tel droit naît pour l’intéressé conformément à l’art. 42, al. 3 ou 4, ou 43, al. 2 ou 3, LEI, mais au plus pendant cinq ans à compter de la reconnaissance de l’apatridie;
 - d.[^24-11] l’apatride admis à titre provisoire obtient une autorisation de séjour ou d’établissement en vertu du droit des étrangers, ou du mois où un tel droit naît pour l’intéressé conformément à l’art. 42, al. 1, ou 43, al. 1 ou al. 3 LEI, mais au plus pendant sept ans après l’entrée en Suisse;
-- d<sup>bis</sup>.[^24-12] l’apatride frappé d’une décision exécutoire d’expulsion pénale a définitivement quitté la Suisse ou est parti sans annoncer son départ aux autorités compétentes, mais au plus pendant cinq ans après la reconnaissance de l’apatridie;
+- d<sup>bis</sup>.[^24-12] l’apatride frappé d’une décision exécutoire d’expulsion pénale au sens de l’art. 66*a* ou 66*a*<sup>bis</sup> CP ou 49*a* ou 49*a*<sup>bis</sup> CPM, ou d’une décision exécutoire d’expulsion au sens de l’art. 68 LEI a définitivement quitté la Suisse ou est parti sans annoncer son départ aux autorités compétentes, mais au plus pendant cinq ans à compter de la reconnaissance de l’apatridie;
 - e. l’asile est révoqué;
 - f.[^24-13] le réfugié ou l’apatride a quitté définitivement la Suisse ou est parti sans annoncer son départ aux autorités compétentes.
 
@@ -454,12 +454,12 @@ La Confédération verse aux cantons des forfaits globaux pour les réfugiés et
 [^24-4]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 6173](https://fedlex.data.admin.ch/eli/oc/2017/686)).
 [^24-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^24-6]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 6173](https://fedlex.data.admin.ch/eli/oc/2017/686)).
-[^24-7]: Introduite par le ch. I 5 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^24-7]: Introduite par le ch. I 5 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Nouvelle teneur selon le ch. I 3 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 [^24-8]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^24-9]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^24-10]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 6173](https://fedlex.data.admin.ch/eli/oc/2017/686)).
 [^24-11]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 6173](https://fedlex.data.admin.ch/eli/oc/2017/686)).
-[^24-12]: Introduite par le ch. I 5 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Nouvelle teneur selon le ch. I de l’O du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 6173](https://fedlex.data.admin.ch/eli/oc/2017/686)).
+[^24-12]: Introduite par le ch. I 5 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Nouvelle teneur selon le ch. I 3 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 [^24-13]: Introduite par le ch. I de l’O du 13 déc. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
 [^24-14]: Abrogés par le ch. I de l’O du 8 juin 2018, avec effet au 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
@@ -844,7 +844,7 @@ PB = (PE × DE × FE + PB × DB × FB) × JA/JT
 
 [^tit3-chap4-sec1a-1]
 
-[^tit3-chap4-sec1a-1]: Anciennement section 1. Nouvelle teneur selon l’annexe à l’O du 4 sept. 2013, en vigueur du 1<sup>er</sup> oct. 2013 au 28 sept. 2015 ([RO 2013 3065](https://fedlex.data.admin.ch/eli/oc/2013/595)).
+[^tit3-chap4-sec1a-1]: Anciennement section 1. Nouvelle teneur selon l’annexe de l’O du 4 sept. 2013, en vigueur du 1<sup>er</sup> oct. 2013 au 28 sept. 2015 ([RO 2013 3065](https://fedlex.data.admin.ch/eli/oc/2013/595)).
 
 ### (art. 91, al. 3 LAsi)
 

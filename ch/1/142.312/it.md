@@ -4,18 +4,18 @@ title: "Ordinanza 2 dell' 11 agosto 1999 sull'asilo relativa alle questioni fina
 short: OAsi 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/360"
 language: it
-version: 2022-01-01
+version: 2022-06-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1999-360-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20220601/it/xml/fedlex-data-admin-ch-eli-cc-1999-360-20220601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza 2 sull’asilo relativa alle questioni finanziarie (Ordinanza 2 sull’asilo, OAsi 2)
 
-dell’11 agosto 1999 (Stato 1° gennaio 2022)
+dell’11 agosto 1999 (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -432,10 +432,10 @@ La Confederazione versa ai Cantoni somme forfettarie globali per rifugiati e apo
 
 - a.[^24-4] il rifugiato ottiene un permesso di domicilio o sono soddisfatte le condizioni di cui agli articoli 42 capoverso 3 o 4 oppure 43 capoverso 2 o 3 LStrI[^24-5] per la pretesa al rilascio di un permesso di domicilio, ma al massimo durante cinque anni a contare dalla presentazione della domanda d’asilo in seguito alla quale è stato concesso l’asilo;
 - b.[^24-6] il rifugiato ammesso provvisoriamente ottiene un permesso di dimora o di domicilio in virtù del diritto in materia di stranieri o sono soddisfatte le condizioni di cui agli articoli 42 capoverso 1 oppure 43 capoverso 1 o 3 LStrI per la pretesa al rilascio di un permesso di dimora, ma al massimo durante sette anni a contare dall’entrata;
-- b<sup>bis</sup>.[^24-7] un rifugiato oggetto di una decisione d’espulsione ai sensi dell’articolo 66*a* *o* 66*a*<sup>bis</sup> del Codice penale[^24-8] o dell’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^24-9] (espulsione giudiziaria) passata in giudicato ha lasciato definitivamente la Svizzera o è partito senza essere controllato, ma al più tardi cinque anni dopo la presentazione della domanda d’asilo;
+- b<sup>bis</sup>.[^24-7] il rifugiato contro cui è stata pronunciata, con sentenza passata in giudicato, un’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> del Codice penale (CP)[^24-8] o dell’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^24-9] (CPM) o, con decisione passata in giudicato, dell’articolo 68 LStrI ha lasciato definitivamente la Svizzera o è partito senza essere controllato, ma al più tardi cinque anni dopo la presentazione della domanda d’asilo;
 - c.[^24-10] l’apolide ottiene un permesso di domicilio o sono soddisfatte le condizioni di cui agli articoli 42 capoverso 3 o 4 oppure 43 capoverso 2 o 3 LStrI per la pretesa al rilascio di un permesso di domicilio, ma al massimo durante cinque anni a contare dal riconoscimento dello statuto di apolide;
 - d.[^24-11] l’apolide ammesso provvisoriamente ottiene un permesso di dimora o di domicilio in virtù del diritto in materia di stranieri o sono soddisfatte le condizioni di cui agli articoli 42 capoverso 1 oppure 43 capoverso 1 o 3 LStrI per la pretesa al rilascio di un permesso di dimora, ma al massimo durante sette anni a contare dall’entrata;
-- d<sup>bis</sup>.[^24-12] un apolide oggetto di una decisione d’espulsione giudiziaria passata in giudicato ha lasciato definitivamente la Svizzera o è partito senza essere controllato, ma al massimo durante cinque anni a contare dal riconoscimento dello statuto di apolide;
+- d<sup>bis</sup>.[^24-12] l’apolide contro cui è stata pronunciata, con sentenza passata in giudicato, un’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP o dell’articolo 49*a* o 49*a*<sup>bis</sup> CPM o, con decisione passata in giudicato, dell’articolo 68 LStrI ha lasciato definitivamente la Svizzera o è partito senza essere controllato, ma al massimo durante cinque anni a contare dal riconoscimento dello statuto di apolide;
 - e. è revocato l’asilo;
 - f.[^24-13] un rifugiato o un apolide ha lasciato definitivamente la Svizzera o è partito senza essere controllato.
 
@@ -451,12 +451,12 @@ La Confederazione versa ai Cantoni somme forfettarie globali per rifugiati e apo
 [^24-4]: Nuovo testo giusta il n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6173](https://fedlex.data.admin.ch/eli/oc/2017/686)).
 [^24-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^24-6]: Nuovo testo giusta il n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6173](https://fedlex.data.admin.ch/eli/oc/2017/686)).
-[^24-7]: Introdotta dal n. I 5 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^24-7]: Introdotta dal n. I 5 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Nuovo testo giusta il n. I 3 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 [^24-8]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^24-9]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^24-10]: Nuovo testo giusta il n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6173](https://fedlex.data.admin.ch/eli/oc/2017/686)).
 [^24-11]: Nuovo testo giusta il n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6173](https://fedlex.data.admin.ch/eli/oc/2017/686)).
-[^24-12]: Introdotta dal n. I 5 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Nuovo testo giusta il n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6173](https://fedlex.data.admin.ch/eli/oc/2017/686)).
+[^24-12]: Introdotta dal n. I 5 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Nuovo testo giusta il n. I 3 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 [^24-13]: Introdotta dal n. I dell’O del 13 dic. 2013, in vigore dal 1° feb. 2014 ([RU 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
 [^24-14]: Abrogati dal n. I dell’O dell’8 giu. 2018, con effetto dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 

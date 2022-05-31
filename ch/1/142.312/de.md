@@ -4,11 +4,11 @@ title: "Asylverordnung 2 vom 11. August 1999 über Finanzierungsfragen (Asylvero
 short: AsylV 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/360"
 language: de
-version: 2022-01-01
+version: 2022-06-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1999-360-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20220601/de/xml/fedlex-data-admin-ch-eli-cc-1999-360-20220601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20220101/de"
 
 (Asylverordnung 2, AsylV 2)
 
-vom 11. August 1999 (Stand am 1. Januar 2022)
+vom 11. August 1999 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -433,10 +433,10 @@ Der Bund vergütet den Kantonen Globalpauschalen für Flüchtlinge und Staatenlo
 
 - a.[^24-3] ein Flüchtling eine Niederlassungsbewilligung erhält oder nach Artikel 42 Absatz 3 oder 4 oder Artikel 43 Absatz 2 oder 3 AIG[^24-4] ein Anspruch darauf besteht, längstens aber 5 Jahre seit dem Zeitpunkt der Einreichung des Asylgesuches, welches zur Asylgewährung geführt hat;
 - b.[^24-5] ein vorläufig aufgenommener Flüchtling eine ausländerrechtliche Aufenthalts- oder Niederlassungsbewilligung erhält oder nach Artikel 42 Absatz 1 oder Artikel 43 Absatz 1 oder 3 AIG ein Anspruch darauf besteht, längstens aber sieben Jahre seit der Einreise;
-- b<sup>bis</sup>.[^24-6] ein Flüchtling mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> des Strafgesetzbuchs[^24-7] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^24-8] die Schweiz definitiv verlassen hat oder unkontrolliert abgereist ist, längstens aber fünf Jahre seit dem Zeitpunkt der Einreichung des Asylgesuches;
+- b<sup>bis</sup>.[^24-6] ein Flüchtling mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> des Strafgesetzbuchs (StGB)[^24-7] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^24-8] (MStG) oder mit einer rechtskräftigen Ausweisung nach Artikel 68 AIG die Schweiz definitiv verlassen hat oder unkontrolliert abgereist ist, längstens aber fünf Jahre seit dem Zeitpunkt der Einreichung des Asylgesuches;
 - c.[^24-9] ein Staatenloser eine Niederlassungsbewilligung erhält oder nach Artikel 42 Absatz 3 oder 4 oder Artikel 43 Absatz 2 oder 3 AIG ein Anspruch darauf besteht, längstens aber 5 Jahre seit der Anerkennung der Staatenlosigkeit;
 - d.[^24-10] ein vorläufig aufgenommener Staatenloser eine ausländerrechtliche Aufenthalts‑ oder Niederlassungsbewilligung erhält oder nach Artikel 42 Absatz 1 oder Artikel 43 Absatz 1 oder 3 AIG ein Anspruch darauf besteht, längstens aber sieben Jahre seit der Einreise;
-- d<sup>bis</sup>.[^24-11] ein Staatenloser mit einer rechtskräftigen Landesverweisung die Schweiz definitiv verlassen hat oder unkontrolliert abgereist ist, längstens aber 5 Jahre seit der Anerkennung der Staatenlosigkeit;
+- d<sup>bis</sup>.[^24-11] ein Staatenloser mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG oder mit einer rechtskräftigen Ausweisung nach Artikel 68 AIG die Schweiz definitiv verlassen hat oder unkontrolliert abgereist ist, längstens aber fünf Jahre seit der Anerkennung der Staatenlosigkeit;
 - e. das Asyl widerrufen wird;
 - f.[^24-12] ein Flüchtling oder ein Staatenloser die Schweiz definitiv verlassen hat oder unkontrolliert abgereist ist.
 
@@ -451,12 +451,12 @@ Der Bund vergütet den Kantonen Globalpauschalen für Flüchtlinge und Staatenlo
 [^24-3]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
 [^24-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^24-5]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
-[^24-6]: Eingefügt durch Ziff. I 5 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^24-6]: Eingefügt durch Ziff. I 5 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Fassung gemäss Ziff. I 3 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 [^24-7]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^24-8]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^24-9]: Fassung gemäss Ziff. I der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6173](https://fedlex.data.admin.ch/eli/oc/2017/686)).
 [^24-10]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
-[^24-11]: Eingefügt durch Ziff. I 5 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Fassung gemäss Ziff. I der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6173](https://fedlex.data.admin.ch/eli/oc/2017/686)).
+[^24-11]: Eingefügt durch Ziff. I 5 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Fassung gemäss Ziff. I 3 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 [^24-12]: Eingefügt durch Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
 [^24-13]: Aufgehoben durch Ziff. I der V vom 8. Juni 2018, mit Wirkung seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
@@ -1629,7 +1629,7 @@ Das SEM oder von diesem beauftragte Dritte können individuelle Rückkehrhilfebe
 
 Die Asylverordnung 2 vom 22. Mai 1991[^81-1] wird aufgehoben.
 
-[^81-1]: [[AS 1991 1166](https://fedlex.data.admin.ch/eli/oc/1991/1166_1166_1166), [1993 3281](https://fedlex.data.admin.ch/eli/oc/1993/3281_3281_3281), [1994 2494](https://fedlex.data.admin.ch/eli/oc/1994/2494_2494_2494), [1995 5045](https://fedlex.data.admin.ch/eli/oc/1995/5045_5045_5045), [1996 3253](https://fedlex.data.admin.ch/eli/oc/1996/3253_3253_3253)]
+[^81-1]: [[AS 1991 1166](https://fedlex.data.admin.ch/eli/oc/1991/1166_1166_1166); [1993 3281](https://fedlex.data.admin.ch/eli/oc/1993/3281_3281_3281); [1994 2494](https://fedlex.data.admin.ch/eli/oc/1994/2494_2494_2494); [1995 5045](https://fedlex.data.admin.ch/eli/oc/1995/5045_5045_5045); [1996 3253](https://fedlex.data.admin.ch/eli/oc/1996/3253_3253_3253)]
 
 #### Art. 82
 
@@ -1683,7 +1683,7 @@ Die Asylverordnung 2 vom 22. Mai 1991[^81-1] wird aufgehoben.
 
 Für Personen, deren Nichteintretensentscheid nach den Artikeln 32–34 und deren Wegweisungsentscheid nach Artikel 44 des AsylG vor Inkrafttreten dieser Verordnungsänderung rechtskräftig wurde, richtet der Bund den Kantonen die Pauschalen für Sozialhilfekosten nach Artikel 88 Absatz 1 Buchstabe a des AsylG bis längstens zum Ablauf der Ausreisefrist aus. Hat der Bund den Kantonen im Rahmen der Vollzugsunterstützung nach Artikel 22*a* des Bundesgesetzes vom 26. März 1931[^u1-2] über Aufenthalt und Niederlassung der Ausländer die weitere Abgeltung der Sozialhilfekosten zugesichert, so richtet er ihnen die Pauschalen nach Artikel 88 Absatz 1 Buchstabe a des AsylG bis längstens neun Monate nach Inkrafttreten dieser Verordnungsänderung aus. Voraussetzung dazu ist, dass die Kantone das Gesuch um Vollzugsunterstützung inklusive Kostenübernahme bis spätestens Ende des Monats, in dem diese Verordnung in Kraft tritt, eingereicht haben.
 
-[^u1-2]: [BS **1** 121; [AS 1949 221](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225), [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665), [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332), [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)Ziff. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148)[2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Anhang Ziff. 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)Ziff. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)Ziff. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)Art. 18 Ziff. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)Anhang Ziff. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)Anhang Ziff. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)Anhang Ziff. 1. [AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Anhang Ziff. I]. Siehe heute: das Ausländer- und Integrationsgesetz vom 16. Dez. 2005 ([SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
+[^u1-2]: [BS **1** 121; [AS 1949 221](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)Ziff. III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Anhang Ziff. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. IV 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)Ziff. I 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)Ziff. I 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)Art. 18 Ziff. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)Anhang Ziff. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)Anhang Ziff. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)Anhang Ziff. 1. [AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Anhang Ziff. I]. Siehe heute: das Ausländer- und Integrationsgesetz vom 16. Dez. 2005 ([SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
 
 ## Schlussbestimmung zur Änderung vom 3. Dezember 2004****
 
