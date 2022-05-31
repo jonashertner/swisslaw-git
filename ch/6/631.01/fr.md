@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes (OD)"
 short: OD
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/250"
 language: fr
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2006-11-01
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-250-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2007-250-20220601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20220101/fr"
 
 (OD)
 
-du 1<sup>er</sup> novembre 2006 (Etat le 1<sup>er</sup> janvier 2022)
+du 1<sup>er</sup> novembre 2006 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -121,7 +121,7 @@ L’exonération des droits pour les marchandises destinées aux bénéficiaires
 [^6-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^6-2]: [RS 631.144.0](https://fedlex.data.admin.ch/eli/cc/1989/1781_1781_1781)
 [^6-3]: [RS 631.145.0](https://fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819)
-[^6-4]: Nouvelle teneur selon le ch. 7 de l’annexe à l’O du 7 déc. 2007 sur l’Etat hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
+[^6-4]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 7 déc. 2007 sur l’Etat hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
 #### Art. 7
 
@@ -972,7 +972,7 @@ Quiconque dispose encore, dans le circuit de commercialisation, de produits agri
 
 <sup>1</sup> La déclaration en douane doit être accompagnée d’un aperçu des divers lieux d’entreposage des produits agricoles encore disponibles dans le circuit de commercialisation au début de la période administrée au sens de l’art. 7 OIELFP[^57-1]; cet aperçu doit comporter l’indication exacte du lieu, la désignation de la marchandise, le numéro du tarif douanier et la masse nette.
 
-<sup>2</sup> ...[^57-2]
+<sup>2</sup> …[^57-2]
 
 [^57-1]: [RS 916.121.10](https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244)
 [^57-2]: Abrogé par le ch. II de l’O du 14 nov. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 6265](https://fedlex.data.admin.ch/eli/oc/2007/832)).
@@ -1550,8 +1550,8 @@ Les durées de conservation sont:
 - c.[^96-1] de trois ans au moins pour les justificatifs relatifs aux preuves d’origine;
 - d.[^96-2] de cinq ans au moins dans les autres cas pour les données et les documents, notamment pour la comptabilité-matières et les documents de fabrication relatifs au trafic de perfectionnement et aux marchandises bénéficiant d’allégements douaniers selon l’emploi.
 
-[^96-1]: Nouvelle teneur selon le ch. 1 de l’annexe à l’O du 23 mai 2012 sur la délivrance des preuves d’origine, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)).
-[^96-2]: Introduit par le ch. 1 de l’annexe à l’O du 23 mai 2012 sur la délivrance des preuves d’origine, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)).
+[^96-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 mai 2012 sur la délivrance des preuves d’origine, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)).
+[^96-2]: Introduit par l’annexe ch. 1 de l’O du 23 mai 2012 sur la délivrance des preuves d’origine, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)).
 
 #### Art. 97
 
@@ -2127,7 +2127,7 @@ Il procède notamment à un réexamen:
 - a. si les bases juridiques changent de façon déterminante, ou
 - b. s’il existe un soupçon fondé que l’AEO ne remplit plus les conditions et les critères.
 
-<sup>3</sup> ...[^112q-2]
+<sup>3</sup> …[^112q-2]
 
 [^112q-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 [^112q-2]: Abrogé par le ch. I de l’O du 18 nov. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
@@ -2228,7 +2228,7 @@ Dans le trafic touristique, le bureau de douane n’établit de décision de tax
 
 ### Section 5 Déclaration collective périodique
 
-### ...
+### …
 
 [^tit2-chap3-sec5-1]
 
@@ -2558,7 +2558,7 @@ Le personnel des aérodromes douaniers est tenu de prêter son concours au perso
 
 <sup>4</sup> L’aéronef, les membres de l’équipage, les passagers et les marchandises demeurent sous la surveillance des autorités locales jusqu’à l’arrivée des instructions.
 
-[^142-1]: Nouvelle teneur selon le ch. 2 de l’annexe à l’O du 14 mai 2014 sur les atterrissages en campagne, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
+[^142-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 14 mai 2014 sur les atterrissages en campagne, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
 
 #### Art. 143
 
@@ -3658,7 +3658,7 @@ La preuve de la destruction totale ou partielle peut être apportée par une att
 
 ### Chapitre 4 Réalisation du gage douanier et vente des titres
 
-### ...
+### …
 
 [^tit3-chap4-1]
 
@@ -3762,7 +3762,7 @@ Le DFF règle la procédure de mise aux enchères de gages douaniers et de vente
 
 <sup>3</sup> Il règle les fonctions et les grades du Corps des gardes-frontière.
 
-[^221e-1]: Anciennement art. 221*a*. Introduit par le ch. 3 de l’annexe à l’O du 17 fév. 2010 sur l’organisation du DFF, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)).
+[^221e-1]: Anciennement art. 221*a*. Introduit par l’annexe ch. 3 de l’O du 17 fév. 2010 sur l’organisation du DFF, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)).
 
 #### Art. 221f
 
@@ -3778,9 +3778,10 @@ Le DFF règle la procédure de mise aux enchères de gages douaniers et de vente
 - b. échanger ces informations avec les autorités partenaires de l’État accréditaire et avec d’autres autorités;
 - c. favoriser la coopération policière et judiciaire.
 
-<sup>2</sup> D’entente avec l’Office fédéral de la police (fedpol), il peut déléguer des tâches de ses propres agents de liaison aux agents de liaison de fedpol. Dans le cadre des tâches confiées par l’OFDF, les agents de liaison de fedpol possèdent les mêmes droits que les agents de liaison de l’OFDF quant à l’accès aux systèmes d’information et au traitement des données, dans la mesure où cela est nécessaire à l’accomplissement de leurs tâches.
+<sup>2</sup> …[^221f-2]
 
 [^221f-1]: Introduit par le ch. I 3 de l’O du 23 nov. 2016 concernant l’exécution mutuelle de tâches par des agents de liaison de fedpol d’une part, par des agents de liaison de l’AFD d’autre part, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+[^221f-2]: Abrogé par le ch. I 11 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, avec effet au 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 222
 
@@ -3876,13 +3877,13 @@ Il peut consigner ou compléter les données relatives à l’identité d’une 
 
 <sup>5</sup> Si l’OFDF recueille des données biométriques visées à l’al. 3 sans être autorité d’enquête, il est tenu de présenter les demandes d’effacement de ces données si cela est nécessaire au sens des actes législatifs autres que douaniers déterminants.
 
-[^226-1]: Introduit par le ch. 3 de l’annexe à l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^226-1]: Introduit par l’annexe ch. 3 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^226-2]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
-[^226-3]: Nouvelle teneur selon le ch. 3 de l’annexe à l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^226-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^226-4]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 [^226-5]: Nouvelle teneur selon l’art. 14 de l’O du 4 avril 2007 sur le traitement des données AFD, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258)).
 [^226-6]: [RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
-[^226-7]: Nouvelle teneur selon le ch. 3 de l’annexe à l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^226-7]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 
 #### Art. 227
 
@@ -3911,7 +3912,7 @@ Peuvent notamment être utilisés comme moyens d’autodéfense ou de contrainte
 
 <sup>3</sup> Le DFF règle l’utilisation d’autres moyens d’autodéfense ou de contrainte comparables.
 
-[^227-1]: Introduite par le ch. 2 de l’annexe à l’O du 12 nov. 2008 sur l’usage de la contrainte, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5475](https://fedlex.data.admin.ch/eli/oc/2008/760)).
+[^227-1]: Introduite par l’annexe ch. 2 de l’O du 12 nov. 2008 sur l’usage de la contrainte, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5475](https://fedlex.data.admin.ch/eli/oc/2008/760)).
 
 #### Art. 228
 
@@ -4281,11 +4282,11 @@ Annexe 2*[^t-1]*
 
 ## Marchandises sensibles
 
-[^t-1]: Mise à jour selon le ch. II 1 de l’annexe à l’O du 4 sept. 2013 sur la circulation des espèces de faune et de flore protégées ([RO 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)) et le ch. II de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^t-1]: Mise à jour selon l’annexe ch. II 1 de l’O du 4 sept. 2013 sur la circulation des espèces de faune et de flore protégées ([RO 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)) et le ch. II de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 Sont réputés marchandises sensibles:
 
-- 1\. ...
+- 1\. …
 - 2\. les animaux et les plantes, leurs parties et les produits obtenus à partir de ces animaux et de ces plantes, au sens de l’art. 1 de l’ordonnance du 4 septembre 2013 sur la circulation des espèces de faune et de flore protégées[^annex2-lvlu1-1].
 - 3\. le matériel de guerre défini à l’art. 5 de la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^annex2-lvlu1-2];
 - 4\. les armes**,** les accessoires d’armes et les munitions définis à l’art. 4 de la loi fédérale du 20 juin 1997 sur les armes[^annex2-lvlu1-3];
@@ -4385,7 +4386,7 @@ Annexe 4
 
 Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
-...[^annex4-lvlu1-1]
+…[^annex4-lvlu1-1]
 
 [^annex4-lvlu1-1]: Les mod. peuvent être consultées au [RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250).
 

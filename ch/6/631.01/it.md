@@ -4,11 +4,11 @@ title: Ordinanza del 1° novembre 2006 sulle dogane (OD)
 short: OD
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/250"
 language: it
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2006-11-01
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-250-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2007-250-20220601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20220101/it"
 
 (OD)
 
-del 1° novembre 2006 (Stato 1° gennaio 2022)
+del 1° novembre 2006 (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -3765,9 +3765,10 @@ L’UDSC può impiegare all’estero i propri agenti di collegamento e assegnare
 - b. lo scambio di queste informazioni con le autorità partner nello Stato ospitante e con altre autorità;
 - c. la promozione della cooperazione giudiziaria e di polizia.
 
-<sup>2</sup> D’intesa con l’Ufficio federale di polizia (fedpol), essa può delegare compiti dei propri agenti di collegamento agli agenti di collegamento di fedpol. Nel quadro dei compiti attribuiti dall’UDSC, gli agenti di collegamento di fedpol sono equiparati a quelli dell’UDSC per quanto riguarda l’accesso ai sistemi d’informazione e il diritto di trattare dati, sempre che ciò sia necessario all’adempimento dei compiti.
+<sup>2</sup> ...[^221f-2]
 
 [^221f-1]: Introdotto n. I 3 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+[^221f-2]: Abrogato dal n. I 11 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, con effetto dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 222
 

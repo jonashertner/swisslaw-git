@@ -4,11 +4,11 @@ title: Zollverordnung vom 1. November 2006 (ZV)
 short: ZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/250"
 language: de
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2006-11-01
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-250-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2007-250-20220601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20220101/de"
 
 (ZV)
 
-vom 1. November 2006 (Stand am 1. Januar 2022)
+vom 1. November 2006 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -3787,9 +3787,10 @@ Das BAZG kann im Ausland eigene Verbindungsleute einsetzen und mit folgenden Auf
 - b. dem Austausch dieser Informationen mit den Partnerbehörden im Empfangsstaat sowie weiteren Behörden;
 - c. der Förderung der polizeilichen und justiziellen Zusammenarbeit.
 
-<sup>2</sup> Es kann im Einvernehmen mit dem Bundesamt für Polizei (fedpol) Aufgaben ihrer Verbindungsleute an die Polizeiverbindungsleute von fedpol delegieren. Die Polizeiverbindungsleute sind im Rahmen der vom BAZG übertragenen Aufgaben den Verbindungsleuten des BAZG bezüglich des Zugriffs auf die Informationssysteme und der Berechtigung zur Datenbearbeitung gleichgestellt, soweit dies für die Aufgabenerfüllung erforderlich ist.
+<sup>2</sup> ...[^221f-2]
 
 [^221f-1]: Eingefügt durch Ziff. I 3 der V vom 23. Nov. 2016 über die gegenseitige Wahrnehmung von Aufgaben durch Polizeiverbindungsleute und Verbindungsleute der Eidgenössischen Zollverwaltung, in Kraft seit 1. Jan. 2017 ([AS 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+[^221f-2]: Aufgehoben durch Ziff. I 11 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, mit Wirkung seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 222
 
@@ -4449,3 +4450,5 @@ Anhang 6[^t-3]
 <tr><td>1103.1199, 1919 1104.1919, 2913, 2918</td><td>Andere Mahlprodukte von Weizen, Dinkel Roggen und Mengkorn</td></tr>
 <tr><td>1104.3089</td><td>Keime von Weizen, Roggen und Mengkorn</td></tr>
 </table>
+
+**Milchgrundstoffe und Getreidegrundstoffe, für die das Bewilligungsverfahren nach Artikel 165***a* **gilt Anhang 6**
