@@ -4,11 +4,11 @@ title: Verordnung vom 31. Oktober 2018 über das Informationssystem Antibiotika 
 short: ISABV-V
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/702"
 language: de
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2018-10-31
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2018-702-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2018-702-20220601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20220601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20220101/de"
 
 (ISABV-V)
 
-vom 31. Oktober 2018 (Stand am 1. Januar 2022)
+vom 31. Oktober 2018 (Stand am 1. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -155,8 +155,12 @@ Das Schweizerische Heilmittelinstitut übermittelt dem BLV:
 
 <sup>3</sup> Die Daten zu den zugelassenen Antibiotika können aus dem elektronischen Verzeichnis nach Artikel 67 Absatz 3 HMG bezogen werden.
 
+<sup>4</sup> Zudem kann das IS ABV Daten beziehen aus dem Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes (ASAN), dem Informationssystem für Resultate von Kontrollen und Untersuchungen (ARES) und dem Informationssystem für die Ergebnisse der Schlachttier- und Fleischuntersuchungen (Fleko) nach der Verordnung vom 27. April 2022[^5-3] über Informationssysteme des BLV für die Lebensmittelkette.[^5-4]
+
 [^5-1]: [SR 431.031](https://fedlex.data.admin.ch/eli/cc/2011/81)
 [^5-2]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^5-3]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^5-4]: Eingefügt durch Anhang 4 Ziff. II 3 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 6
 
@@ -281,11 +285,11 @@ Das BLV erlässt technische Weisungen namentlich betreffend:
 
 #### Art. 18
 
-**Bezug von Daten aus dem IS ABV**
+**Bezug von Daten aus dem IS ABV**[^18-1]
 
-Das Informationssystem ASAN nach der Verordnung vom 6. Juni 2014[^18-1] über die Informationssysteme für den öffentlichen Veterinärdienst kann Daten aus dem IS ABV beziehen.
+Die Informationssysteme ASAN, ARES und Fleko können Daten aus dem IS ABV beziehen.
 
-[^18-1]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^18-1]: Fassung gemäss Anhang 4 Ziff. II 3 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 19
 

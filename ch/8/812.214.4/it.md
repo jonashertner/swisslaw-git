@@ -4,11 +4,11 @@ title: "Ordinanza del 31 ottobre 2018 concernente il sistema d'informazione sugl
 short: O-SIAMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/702"
 language: it
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2018-10-31
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2018-702-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2018-702-20220601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20220601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20220101/it"
 
 (O-SIAMV)
 
-del 31 ottobre 2018 (Stato 1° gennaio 2022)
+del 31 ottobre 2018 (Stato 1° giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -155,8 +155,12 @@ L’Istituto svizzero per gli agenti terapeutici trasmette all’USAV:
 
 <sup>3</sup> I dati sugli antibiotici omologati possono essere acquisiti dall’elenco elettronico di cui all’articolo 67 capoverso 3 LATer.
 
+<sup>4</sup> Inoltre, il SI AMV può accedere ai dati dei sistemi d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione (ASAN), per i risultati di controlli e analisi (ARES) e sui risultati del controllo degli animali da macello del controllo delle carni (Fleko) secondo l’ordinanza del 27 aprile 2022[^5-3] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare.[^5-4]
+
 [^5-1]: [RS 431.031](https://fedlex.data.admin.ch/eli/cc/2011/81)
 [^5-2]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^5-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^5-4]: Introdotto dall’all. 4 n. II 3 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 6
 
@@ -281,11 +285,11 @@ L’USAV emana direttive tecniche in particolare su:
 
 #### Art. 18
 
-**Accesso ai dati del SI AMV**
+**Accesso ai dati del SI AMV**[^18-1]
 
-Il sistema d’informazione ASAN di cui all’ordinanza del 6 giugno 2014[^18-1] concernente i sistemi d’informazione per il servizio veterinario pubblico può accedere ai dati del SI AMV.
+I sistemi d’informazione ASAN, ARES e Fleko possono accedere ai dati del SI AMV.
 
-[^18-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^18-1]: Nuovo testo giusta l’all. 4 n. II 3 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 19
 

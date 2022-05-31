@@ -4,11 +4,11 @@ title: "Ordonnance du 31 octobre 2018 concernant le système d'information sur l
 short: O-SI ABV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/702"
 language: fr
-version: 2022-01-01
+version: 2022-06-01
 adopted: 2018-10-31
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-702-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2018-702-20220601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20220601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20220101/fr"
 
 (O-SI ABV)
 
-du 31 octobre 2018 (Etat le 1<sup>er</sup> janvier 2022)
+du 31 octobre 2018 (Etat le 1<sup>er</sup> juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -155,8 +155,12 @@ L’Institut suisse des produits thérapeutiques transmet à l’OSAV:
 
 <sup>3</sup> Les données sur les antibiotiques autorisés peuvent être tirées de la liste électronique visée à l’art. 67, al. 3, LPTh.
 
+<sup>4</sup> En outre, le SI ABV peut tirer des données du système d’information pour les données d’exécution du service vétérinaire public (ASAN), du système d’information pour les résultats de contrôles et d’analyses (ARES) et du système d’information pour les résultats du contrôle des animaux avant l’abattage et du contrôle des viandes (Fleko) visés dans l’ordonnance du 27 avril 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire[^5-3].[^5-4]
+
 [^5-1]: [RS 431.031](https://fedlex.data.admin.ch/eli/cc/2011/81)
 [^5-2]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^5-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^5-4]: Introduit par l’annexe 4 ch. II 3 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 6
 
@@ -281,11 +285,11 @@ L’OSAV édicte des directives techniques concernant notamment:
 
 #### Art. 18
 
-**Obtention de données du SI ABV**
+**Obtention de données du SI ABV**[^18-1]
 
-Le système d’information ASAN visé dans l’ordonnance du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public[^18-1] peut tirer des données du SI ABV.
+Les systèmes d’information ASAN, ARES et Fleko peuvent tirer des données du SI ABV.
 
-[^18-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^18-1]: Nouvelle teneur selon l’annexe 4 ch. II 3 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 19
 
