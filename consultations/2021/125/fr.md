@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur l’encouragement du sport; création d’un service de signalement national et indépendant pour le sport suisse
 document: Projet mis en consultation
 language: fr

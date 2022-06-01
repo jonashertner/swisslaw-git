@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sulla promozione dello sport; servizio di segnalazione nazionale e indipendente per lo sport svizzero
 document: Progetto posto in consultazione
 language: it

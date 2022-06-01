@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Anpassung der Sportförderungsverordnung; Unabhängige nationale Meldestelle des Schweizer Sports
 document: Vernehmlassungsvorlage
 language: de
