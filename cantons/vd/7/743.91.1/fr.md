@@ -1,0 +1,620 @@
+---
+canton: VD
+number: "743.91.1"
+title: RÈGLEMENT du 02.06.2022 sur la construction et l’exploitation des téléphériques et téléskis sans concession fédérale (Règlement CITT)
+short: Règlement CITT
+language: fr
+version: 2022-06-02
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/743.91.1?id=6b08b27b-c295-472c-a552-927b106dd5d2"
+---
+
+> Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
+
+# RÈGLEMENT sur la construction et l’exploitation des téléphériques et téléskis sans concession fédérale
+
+(Règlement CITT)
+
+du 2 juin 2022
+
+LA CONFERENCE CITT
+
+vu l'art. 9, alinéa 3, chiffre 1 du concordat du 15 octobre 1951, concernant les téléphériques et téléskis sans concession fédérale [^ingress-1]
+
+édicte
+
+[^ingress-1]: Concordat du 15.10.1951 concernant les installations de transport par câbles et skilifts sans concession fédérale ([BLV 743.91](https://prestations.vd.ch/pub/blv-publication/actes/consolide/743.91?id=e1367407-bc20-4917-b018-1a9bf8287ed7))
+
+I.
+
+## Partie I Dispositions générales
+
+#### Art. 1
+
+**Objet**
+
+<sup>1</sup> Ce règlement édicte des consignes pour la construction et l'exploitation d'installations soumises au concordat et détermine les exigences de formation posées aux responsables techniques.
+
+<sup>2</sup> En application de l'art. 4, al. 4 de l'Ordonnance fédérale sur les installations à câbles[^1-1] (OICa), des dispositions complémentaires et dérogatoires sont également édictées.
+
+<sup>3</sup> Le règlement définit également les étapes et processus à mettre en oeuvre pour assurer la coopération entre l'organe de contrôle CITT, les autorités de surveillance cantonales et les exploitants d'installations.
+
+[^1-1]: [Ordonnance du 21.12.2006 sur les installations à câbles transportant des personnes, RS 743.011](https://www.fedlex.admin.ch/eli/cc/2007/14/fr)
+
+#### Art. 2
+
+**Définitions**
+
+<sup>1</sup> Les termes principaux sont définis à l'art. 3 de l'OICa[^2-1].
+
+<sup>2</sup> Autres termes importants pour le CITT:
+
+- a. Les tapis roulants sont des installations de transport utilisées pour le transport terrestre de personnes.
+- b. Le permis de construire est une autorisation de construction légale prévue par le droit cantonal.
+- c. L'autorité désignée par les cantons pour traiter les opérations liées aux installations soumises au présent règlement est appelée l'autorité de surveillance.
+- d. L'approbation technique correspond à la validation du dossier technique d'une installation par l'organe de contrôle.
+- e. L'autorisation d'exploiter est l'autorisation d'exploitation de l'installation accordée par l'autorité de surveillance cantonale.
+- f. Dans le concept d'exploitation, l'exploitant de l'installation détermine l'organisation de l'exploitation d'une installation.
+- g. Avec les consignes d'exploitation et de maintenance, l'exploitant de l'installation définit de manière contraignante les consignes à respecter afin de garantir à tout moment la sécurité lors de l'exploitation et de la maintenance de l'installation.
+
+<sup>3</sup> Le caractère professionnel du transport de voyageurs est défini à l'art. 3 al. 2 de l'Ordonnance fédérale sur les installations à câbles[^2-2] (OICa) et l'art. 2 de la Loi sur le transport des voyageurs[^2-3] (LTV).
+
+[^2-1]: [Ordonnance du 21.12.2006 sur les installations à câbles transportant des personnes, RS 743.011](https://www.fedlex.admin.ch/eli/cc/2007/14/fr)
+[^2-2]: [Ordonnance du 21.12.2006 sur les installations à câbles transportant des personnes, RS 743.011](https://www.fedlex.admin.ch/eli/cc/2007/14/fr)
+[^2-3]: [Loi fédérale du 20.03.2009 sur le transport de voyageurs, RS 745.1](https://www.fedlex.admin.ch/eli/cc/2009/680/fr)
+
+#### Art. 3
+
+**Champ d'application (classification des installations)**
+
+<sup>1</sup> Le présent règlement s'applique aux installations suivantes:
+
+- a. Classe A: conformément à l'art. 4 de l'OICa[^3-1]
+- 1\. Petits téléphériques: téléphériques, funiculaires.
+- 2\. Téléskis: téléskis à câble haut, téléskis à câble bas (minitéléskis).
+- 3\. Autres installations à câbles, notamment: téléphériques industriels utilisés pour le transport de personnes (téléphériques et funiculaires), installations fixes ou mobiles inclinées pour puits blindés et en conduites.
+- b. Classe B: conformément au concordat[^3-2]
+- 1\. Tapis roulants (application similaire à celle des téléskis).
+- 2\. Ascenseurs inclinés existants, entraînés par câble ou chaîne, qui ne sont conformes ni à l'Ordonnance sur les ascenseurs[^3-3] (OAsc; RS 930.112) ni à la norme européenne harmonisée SN EN-81-22
+- 3\. Installations de transport de matériaux dans un contexte de mise en danger de la circulation ou d'installations publiques.
+- c. Classe C:
+- 1\. Pour ce qui est des installations qui, conformément à la Loi sur le transport des voyageurs[^3-4] (LTV; RS 745.1) et à l'Ordonnance sur le transport des voyageurs[^3-5] (OTV; RS 745.11), exigent une autorisation du canton pour le transport de voyageurs, mais ne font pas partie de la classe A ou B, l'autorité d'autorisation peut requérir la surveillance du canton de l'organe de contrôle. Il s'agit notamment des installations suivantes: ascenseurs inclinés avec déclaration de conformité selon l'Ordonnance sur les ascenseurs[^3-6] (OAsc; RS 930.112), petites installations, autres installations.
+- 2\. Les autres installations de transport peuvent être placées sous la surveillance de l'organe de contrôle par la commune, le canton ou la Confédération. Une base juridique est nécessaire. Il s'agit notamment des installations suivantes: pistes de luges d'été, téléskis nautiques, installations de transport de bateau.
+- 3\. Les exploitants d'installations non soumises à la surveillance cantonale peuvent librement choisir de les faire contrôler par l'organe de contrôle.
+
+[^3-1]: [Ordonnance du 21.12.2006 sur les installations à câbles transportant des personnes, RS 743.011](https://www.fedlex.admin.ch/eli/cc/2007/14/fr)
+[^3-2]: Concordat du 15.10.1951 concernant les installations de transport par câbles et skilifts sans concession fédérale ([BLV 743.91](https://prestations.vd.ch/pub/blv-publication/actes/consolide/743.91?id=e1367407-bc20-4917-b018-1a9bf8287ed7))
+[^3-3]: [Ordonnance du 25.11.2015 sur la sécurité des ascenseurs, RS 930.112](https://www.fedlex.admin.ch/eli/cc/2016/26/fr)
+[^3-4]: [Loi fédérale du 20.03.2009 sur le transport de voyageurs, RS 745.1](https://www.fedlex.admin.ch/eli/cc/2009/680/fr)
+[^3-5]: [Ordonnance du 04.11.2009 sur le transport de voyageurs, RS 745.11](https://www.fedlex.admin.ch/eli/cc/2009/739/fr)
+[^3-6]: [Ordonnance du 25.11.2015 sur la sécurité des ascenseurs, RS 930.112](https://www.fedlex.admin.ch/eli/cc/2016/26/fr)
+
+#### Art. 4
+
+**Dispositions applicables**
+
+<sup>1</sup> Les dispositions cantonales régissent la procédure d'attribution du permis de construire d'une installation.
+
+<sup>2</sup> Les dispositions suivantes s'appliquent à la conception technique, l'exploitation et la maintenance des installations de classe A:
+
+- a. Loi fédérale sur les installations à câbles[^4-1] (LICa; RS 743.01);
+- b. Ordonnance fédérale sur les installations à câbles[^4-2] (OICa; RS 743.011);
+- c. Ordonnance sur les exigences de sécurité des câbles[^4-3] (OCa; RS 743.011.11);
+- d. Concordat sur les téléphériques et téléskis sans concession fédérale du 15 octobre 1951[^4-4] (RS 743.22);
+- e. Prescriptions édictées par la Conférence du concordat;
+- f. Directives de l'OFT applicables aux installations cantonales.
+
+<sup>3</sup> Les normes techniques harmonisées spécifiques aux installations s'appliquent à la conception technique, l'exploitation et la maintenance des installations de classe B et C. Sous réserve des dispositions de l'art. 5, applicables aux installations existantes.
+
+[^4-1]: [Loi fédérale du 23.06.2006 sur les installations à câbles transportant des personnes, RS 743.01](https://www.fedlex.admin.ch/eli/cc/2006/853/fr)
+[^4-2]: [Ordonnance du 21.12.2006 sur les installations à câbles transportant des personnes, RS 743.011](https://www.fedlex.admin.ch/eli/cc/2007/14/fr)
+[^4-3]: [Ordonnance du 15.05.2022 sur les exigences de sécurité des câbles des installations à câbles transportant des personnes, RS 743.011.11](https://www.fedlex.admin.ch/eli/cc/2022/333/fr)
+[^4-4]: Concordat du 15.10.1951 concernant les installations de transport par câbles et skilifts sans concession fédérale ([BLV 743.91](https://prestations.vd.ch/pub/blv-publication/actes/consolide/743.91?id=e1367407-bc20-4917-b018-1a9bf8287ed7))
+
+#### Art. 5
+
+**Installations existantes**
+
+<sup>1</sup> Aucune installation ou constituant d'installation existante ne doit être modifiée ou remplacée du seul fait de l'entrée en vigueur du présent règlement.
+
+<sup>2</sup> Ne sont pas concernés les défauts affectant la sécurité et ne pouvant être corrigés que par des mesures techniques. Les constituants d'installations concernées doivent être remplacées.
+
+<sup>3</sup> Lors de la modernisation d'installations existantes, les exigences techniques applicables aux nouvelles installations s'appliquent également.
+
+<sup>4</sup> La transformation ou le remplacement d'installations à câbles existantes sont soumis à la directive 4 « Maintenance et transformation » de l'OFT.
+
+#### Art. 6
+
+**Guides**
+
+<sup>1</sup> L'application des prescriptions peut être expliquée dans des guides prenant la forme de fiches techniques. Les fiches techniques sont édictées par le Bureau du CITT. La branche doit être entendue à ce sujet.
+
+## Partie II Procédures
+
+#### Art. 7
+
+**Permis de construire**
+
+<sup>1</sup> Les procédures d'attribution du permis de construire se basent sur le droit cantonal. L'autorité de surveillance fait intervenir l'organe de contrôle pour l'examen technique.
+
+#### Art. 8
+
+**Approbation technique**
+
+<sup>1</sup> L'autorité de surveillance cantonale et l'organe de contrôle peuvent demander l'ajout de documents supplémentaires au dossier technique, à savoir des plans et des calculs d'exécution détaillés. Le niveau de détail du dossier technique dépendra de la taille et de la complexité de l'installation. Les contenus sont répertoriés dans les annexes 1 et 3 de l'Ordonnance sur les installations à câbles[^8-1].
+
+<sup>2</sup> L'autorité de surveillance peut autoriser la soumission différée de certains documents.
+
+<sup>3</sup> Une fois obtenue l'approbation technique par l'autorité de surveillance cantonale, toutes les conditions sont réunies pour que l'autorisation d'exploiter cantonale soit délivrée lors de l'essai de récolement de l'installation, si tant est qu'elle a été correctement construite et mise en service.
+
+[^8-1]: [Ordonnance du 21.12.2006 sur les installations à câbles transportant des personnes, RS 743.011](https://www.fedlex.admin.ch/eli/cc/2007/14/fr)
+
+#### Art. 9
+
+**Début de construction**
+
+<sup>1</sup> La construction ne peut pas commencer avant la délivrance et l'entrée en vigueur d'un permis de construire valide et de l'approbation technique de l'installation.
+
+#### Art. 10
+
+**Récolement**
+
+<sup>1</sup> Le récolement de l'installation est effectué par l'organe de contrôle. L'autorité cantonale décide de sa participation. Le contrôle de l'installation est effectué sur la base des risques encourus, par le biais de contrôles par sondage. Lorsque les conditions nécessaires à l'exploitation sûre de l'installation sont remplies, l'organe de contrôle soumet une demande d'autorisation d'exploiter à l'autorité de surveillance.
+
+<sup>2</sup> L'organe de contrôle peut, avec l'approbation de l'autorité de surveillance, autoriser l'exploitation provisoire de l'installation, jusqu'à la délivrance sous forme écrite de ladite autorisation d'exploiter.
+
+#### Art. 11
+
+**Autorisation d'exploiter**
+
+<sup>1</sup> L'exploitation de l'installation est soumise à l'obtention d'une autorisation d'exploiter cantonale. La procédure se base sur le droit cantonal.
+
+<sup>2</sup> L'exploitant doit, en outre, fournir la preuve qu'une police d'assurance responsabilité civile d'exploitation adaptée a été contractée.
+
+<sup>3</sup> L'autorisation d'exploiter est subordonnée à la réalisation d'un récolement de l'installation, sur site, conformément à l'art. 10.
+
+<sup>4</sup> L'autorisation d'exploiter précise, en tenant compte notamment du concept d'exploitation et des charges de l'organe de contrôle :
+
+- a. catégorie d'installation selon l'art. 14;
+- b. durée de validité de l'autorisation d'exploiter;
+- c. numéro d'exploitation.
+
+<sup>5</sup> L'autorité de surveillance peut intégrer d'autres spécificités concernant l'installation ou son exploitation dans l'autorisation d'exploiter.
+
+#### Art. 12
+
+**Transformations ou modifications du concept d'exploitation**
+
+<sup>1</sup> Les transformations d'installations à câbles avec autorisation cantonale d'exploiter nécessitent l'approbation de l'autorité de surveillance, conformément à la directive 4.
+
+<sup>2</sup> Les modifications du concept d'exploitation des installations à câbles avec autorisation d'exploiter cantonale doivent être présentées à l'autorité de surveillance. Celle-ci décide si l'autorisation d'exploiter doit être ajustée, conformément à l'art. 36 et l'art. 36a de l'OICa[^12-1].
+
+<sup>3</sup> En cas de modifications d'ascenseurs inclinés existants, les consignes de la norme SN EN 81-22 doivent être appliquées autant que possible. Il est éventuellement possible de transformer l'ascenseur incliné en funiculaire en appliquant les prescriptions de la Loi fédérale sur les installations à câbles.
+
+[^12-1]: [Ordonnance du 21.12.2006 sur les installations à câbles transportant des personnes, RS 743.011](https://www.fedlex.admin.ch/eli/cc/2007/14/fr)
+
+#### Art. 13
+
+**Interruption de l'exploitation**
+
+<sup>1</sup> En cas d'interruption de longue durée de l'exploitation, l'autorisation d'exploiter peut être suspendue.
+
+<sup>2</sup> Dès lors que l'autorisation d'exploiter initiale est toujours valide, la réactivation d'une autorisation d'exploiter suspendue exige:
+
+- a. une inspection et, après trois ans d'arrêt, un rapport de situation ;
+- b. une documentation relative aux travaux de maintenance effectués;
+- c. une actualisation du concept d'exploitation et du concept d'évacuation, si nécessaire.
+
+<sup>3</sup> Pour les installations dont l'autorisation d'exploiter a été suspendue, l'autorité de surveillance peut définir des exigences particulières en matière de maintenance.
+
+<sup>4</sup> L'autorisation d'exploiter perdra toute validité en cas d'arrêt d'exploitation de l'installation sur une période supérieure à 5 ans. Une nouvelle requête, accompagnée de tous les documents nécessaires, devra être déposée pour l'obtention d'une nouvelle autorisation d'exploiter.
+
+#### Art. 14
+
+**Catégories d'installations**
+
+<sup>1</sup> Les installations à câble sont classifiées en plusieurs catégories, selon leur taille et leur équipement. Ces catégories permettent de définir les intervalles d'inspection, ainsi que les coûts à engager pour la surveillance de l'exploitation. Les installations sont affectées à la catégorie la plus haute pour laquelle leurs caractéristiques ne dépassent aucun critère.
+
+<sup>2</sup> Classe A: conformément à l'art. 4 de l'OICa[^14-1]:
+
+Téléphériques jusqu'à 8 personnes par sens de déplacement Cat. 1 Cat. 2 Cat. 3 Cat. 4 Cat. 5 Cat. 6 Nombre de personnes autorisé par sens de déplacement 2 4 4 4 8 8 Transport professionnel de personnes \_ \_ \_ oui oui oui Sans transport professionnel de personnes oui oui oui \_ oui oui Vitesse de marche autorisée Jusqu'à 1.5 m/s Jusqu'à 2.5 m/s Jusqu'à 4.0 m/s Jusqu'à 4.0 m/s Jusqu'à 5.0 m/s &gt; 5.0 m/s
+
+<sup>2a</sup>
+
+Téléphériques avec plus de 8 personnes par sens de déplacement Cat. 4 Cat. 5 Cat. 6 Nombre de personnes autorisé par sens de déplacement 10 15 &gt; 15 Capacité de charge par véhicule 1'500 kg 3'000 kg &gt; 3'000 kg Puissance du moteur Jusqu'à 79 kW Jusqu'à 149 kW &gt; 149 kW Vitesse de marche autorisée Jusqu'à 2.5 m/s Jusqu'à 4.0 m/s &gt; 4.0 m/s
+
+<sup>2b</sup>
+
+Funiculaires Cat. 1 Cat. 2 Cat. 3 Cat. 4 Cat. 5 Cat. 6 Nombre de personnes autorisé par sens de déplacement 2 4 6 8 12 &gt; 12 Capacité de charge par véhicule 300 kg 600 kg 900 kg 1'200 kg 2'000 kg &gt; 2'000 kg Puissance du moteur Jusqu'à 10 kW Jusqu'à 19 kW Jusqu'à 39 kW Jusqu'à 79 kW Jusqu'à 149 kW &gt; 149 kW Vitesse de marche autorisée Jusqu'à 0.4 m/s Jusqu'à 0.6 m/s Jusqu'à 1.2 m/s Jusqu'à 2.5 m/s Jusqu'à 4.0 m/s &gt; 4.0 m/s
+
+<sup>2c</sup>
+
+Téléskis à câble haut Cat. 1 Cat. 2 Cat. 3 Cat. 4 Cat. 5 Cat. 6 Puissance du moteur Jusqu'à 10 kW Jusqu'à 19 kW Jusqu'à 39 kW Jusqu'à 79 kW Jusqu'à 149 kW &gt; 149 kW
+
+<sup>2d</sup>
+
+Téléskis à câble bas (minitéléskis) Catégorie unique
+
+<sup>2e</sup>
+
+Installations fixes en puits Catégorie unique
+
+<sup>3</sup> Classe B: conformément au concordat[^14-2]
+
+Tapis roulants Catégorie unique
+
+<sup>3a</sup>
+
+Ascenseurs inclinés Cat. 1 Cat. 2 Cat. 3 Cat. 4 Cat. 5 Cat. 6 Nombre de personnes autorisé 2 2 Avec cabine 4 8 12 &gt; 12 Véhicule Siège ou plate-forme Siège, plate-forme ou cabine Cabine Cabine Cabine Cabine Vitesse de marche autorisée Jusqu'à 0.6 m/s Jusqu'à 0.8 m/s Jusqu'à 1.2 m/s Jusqu'à 2.5 m/s Jusqu'à 2.5 m/s Jusqu'à 2.5 m/s Transport professionnel de personnes non non non non non non Stations intermédiaires non Autorisé avec un siège ou une plate-forme, non autorisé avec une cabine oui oui oui oui
+
+<sup>3b</sup>
+
+Installations de transport de matériaux Catégorie unique
+
+<sup>4</sup> Pour les installations de la classe C, les prestations sont définies au cas par cas.
+
+[^14-1]: [Ordonnance du 21.12.2006 sur les installations à câbles transportant des personnes, RS 743.011](https://www.fedlex.admin.ch/eli/cc/2007/14/fr)
+[^14-2]: Concordat du 15.10.1951 concernant les installations de transport par câbles et skilifts sans concession fédérale ([BLV 743.91](https://prestations.vd.ch/pub/blv-publication/actes/consolide/743.91?id=e1367407-bc20-4917-b018-1a9bf8287ed7))
+
+#### Art. 15
+
+**Fréquence des inspections**
+
+<sup>1</sup> Les délais suivants s'appliquent:
+
+Téléphériques et funiculaires Annuelle Pour les téléphériques et funiculaires fonctionnant moins de 40 heures par an, l'intervalle d'inspection peut être étendu à deux ans Téléskis à câble haut Tous les deux ans Annuelle, en cas d'exploitation estivale et hivernale Téléskis à câble bas Tous les quatre ans Ascenseurs inclinés non conformes à la norme SN EN 81-22 Tous les deux ans Installations fixes en puits pour les conduites forcées de centrales hydroélectriques Avant chaque utilisation, au maximum une fois par an Annuelle, pour les installations fonctionnant en continu sur plusieurs années Tapis roulants Tous les quatre ans Tous les deux ans, en cas d'exploitation estivale et hivernale
+
+<sup>2</sup> D'autres intervalles d'inspection peuvent être instaurés par l'autorité de surveillance sur demande de l'exploitant ou de l'organe de contrôle. Toute dérogation doit être motivée.
+
+<sup>3</sup> La fréquence des inspections des installations de transport de matériaux et autres installations de catégorie C doit être définie au cas par cas.
+
+#### Art. 16
+
+**Numérotation des installations**
+
+<sup>1</sup> L'organe de contrôle procède à la numérotation systématique des installations. Les numéros sont affectés par installation et par site.
+
+<sup>2</sup> Dans le cas du remplacement d'une installation, un nouveau numéro est affecté à la nouvelle installation, même si elle se trouve sur le même site.
+
+#### Art. 17
+
+**Délais de traitement de l'organe de contrôle**
+
+<sup>1</sup> L'organe de contrôle doit s'efforcer de traiter les projets dans les plus brefs délais, à un coût raisonnable minimum.
+
+<sup>2</sup> Il incombe au requérant de contacter l'organe de contrôle à un stade précoce de son projet, afin de mieux pouvoir planifier les délais de traitement.
+
+<sup>3</sup> Les délais de traitement dépendent de la qualité et de l'exhaustivité des documents fournis, de la complexité du projet et de la charge de travail de l'organe de contrôle.
+
+<sup>4</sup> À titre indicatif, pour faciliter la planification de l'exploitant et du fabricant, les valeurs suivantes s'appliquent généralement:
+
+- a. Examen préliminaire des projets dans le cadre de l'octroi du permis de construire: délai de traitement 1 mois.
+- b. Approbation technique: délai de traitement 3 mois; contrôle des documents de demande d'autorisation d'exploiter: délai de traitement 1 mois.
+- c. Contrôle des documents relatifs à un projet de modification: délai de traitement 3 mois.
+- d. Approbation technique de minitéléskis et de tapis roulants: dépôt de la demande requis au moins deux mois avant le début de la saison.
+
+<sup>5</sup> Les délais de traitement des demandes d'autorisations par les autorités cantonales dépendent des procédures cantonales.
+
+<sup>6</sup> Les délais de traitement peuvent se chevaucher. Ils ne doivent pas forcément être observés.
+
+<sup>7</sup> En cas d'annonce en temps voulu, il est possible de convenir de délais de traitement plus courts avec l'organe de contrôle.
+
+## Partie III Dispositions dérogatoires et complémentaires
+
+#### Art. 18
+
+**Preuve de conformité aux exigences essentielles**
+
+<sup>1</sup> Conformément à l'Ordonnance sur les installations à câbles, le respect des exigences essentielles de la Loi fédérale sur les installations à câbles est, en principe, attesté par la présentation d'une attestation de conformité délivré par un organisme reconnu.
+
+<sup>2</sup> Les exigences essentielles de sécurité de la directive Machines s'appliquent aux tapis roulants et aux installations de transport de matériaux. Une déclaration de conformité du fabricant doit attester de leur conformité.
+
+#### Art. 19
+
+**Organisation de l'exploitation**
+
+<sup>1</sup> La sécurité d'exploitation et la maintenance de l'installation sont régies par les prescriptions de la Loi fédérale sur les installations à câbles[^19-1] et l'Ordonnance sur les installations à câbles[^19-2]. En principe, les instructions d'exploitation et de maintenance spécifiques à l'installation établies par le fabricant s'appliquent.
+
+<sup>2</sup> L'exploitation et la maintenance de l'installation doivent être documentées sous une forme appropriée. L'autorité de surveillance doit disposer d'un accès permanent à ces documents.
+
+<sup>3</sup> Pour les installations existantes ne bénéficiant pas d'instructions d'exploitation et de maintenance spécifiques, les prescriptions de la partie III du présent règlement, des fiches techniques et du journal d'exploitation sont contraignantes.
+
+[^19-1]: [Loi fédérale du 23.06.2006 sur les installations à câbles transportant des personnes, RS 743.01](https://www.fedlex.admin.ch/eli/cc/2006/853/fr)
+[^19-2]: [Ordonnance du 21.12.2006 sur les installations à câbles transportant des personnes, RS 743.011](https://www.fedlex.admin.ch/eli/cc/2007/14/fr)
+
+#### Art. 20
+
+**Journal d'exploitation**
+
+<sup>1</sup> L'organe de contrôle met, chaque année, un journal d'exploitation à disposition des titulaires d'une autorisation d'exploiter.
+
+[^20-1]: Les dispositions dérogatoires et complémentaires énumérées ci-après (art. 4 al. 4 OICa) re-flètent l’expérience pratique du CITT. Elles ne dispensent pas le requérant de l’obligation de procéder à une analyse de sécurité à cet égard, sur la base des circonstances spécifiques de son installation.
+[^20-2]: Aucune disposition technique propre n’est édictée pour les petits téléphériques sans frein-parachute. L’organe de contrôle CITT n’exclut toutefois pas, en principe, les dérogations aux normes relatives à ce sujet, par exemple une version avec boucle de câble tracteur ouverte ou un diamètre de câble tracteur inférieur à la valeur minimale. Pour l’évaluation de telles déro-gations, au sens de l’Art. 6a de l’OICa « Dérogations aux normes techniques », les fabricants, les organes mentionnés et l’organe de contrôle CITT peuvent s’appuyer sur les nombreuses années d’expérience dans l’exploitation de petits téléphériques sans frein-parachute construits selon l’ancien règlement du CITT.
+
+## Partie III.1 Dispositions dérogatoires et complémentaires pour téléphériques et funiculaires ,
+
+[^20-1][^20-2]
+
+#### Art. 21
+
+**Câbles, jonctions et intervalle de déplacement des câbles porteurs**
+
+<sup>1</sup> Les pinces à clavette doivent être contrôlées ou remplacées, au plus tard, aux intervalles suivants:
+
+Type de câble, fixation Contrôle de l'état Contrôle par démontage Décalage Câble tracteur, boîte à coin (pince à clavette) 1 mois, contrôler la mobilité, retirer la douille de protection au besoin 3 ans
+
+<sup>2</sup> L'intervalle de déplacement des câbles porteurs est généralement de 12 ans pour les téléphériques opérant plus de 100'000 cycles de roulement par an et affichant des rayons de déviation conformes. Le nombre de cycles de roulement par an est égal au nombre de galets du chariot de roulement par câble multiplié par le nombre de trajets par an. L'intervalle peut être prolongé jusqu'à un maximum de 18 ans si le nombre de cycles de roulement annuels effectué est inférieur à celui prescrit.
+
+#### Art. 22
+
+**Entraînement de secours**
+
+<sup>1</sup> Le dispositif d'entraînement de secours n'est pas nécessaire pour les téléphériques si une évacuation des véhicules est garantie selon l'art. 44 de l'OICa[^22-1].
+
+[^22-1]: [Ordonnance du 21.12.2006 sur les installations à câbles transportant des personnes, RS 743.011](https://www.fedlex.admin.ch/eli/cc/2007/14/fr)
+
+#### Art. 23
+
+**Exploitation en libre-service de téléphériques de transport professionnel de voyageurs**
+
+<sup>1</sup> L'exploitation de stations sans personnel est autorisée si les conditions suivantes sont remplies et que les équipements suivants sont disponibles:
+
+- a. Vitesse de marche de 4.0 m/s maximum sur les pylônes et de 6 m/s maximum sur les portées.
+- b. Dispositif de surveillance d'entrée conforme aux normes.
+- c. Dispositif de surveillance de position incorrecte du câble tracteur.
+- d. Si requis dans l'analyse de sécurité: bouton de départ pouvant être commandé dans ou à partir du véhicule et liaison vocale avec la station motrice.
+- e. Signal acoustique et optique de départ dans les stations, attirant l'attention sur le départ imminent et retentissant pendant une période raisonnable jusqu'au départ effectif.
+- f. Dispositif d'arrêt d'urgence dans les stations et dans les véhicules.
+- g. Dispositif d'alarme fiable, à fonctionnement autonome, permettant d'organiser le dépannage d'un défaut ou l'évacuation des véhicules.
+- h. Système de surveillance de la vitesse du vent, réduisant automatiquement la vitesse de marche à un maximum de 2.0 m/s jusqu'à l'achèvement du trajet en cours et empêchant tout nouveau départ pendant une période adaptée. À cette fin, des anémomètres doivent être installés à des emplacements appropriés.
+- i. Il convient également de ne pas surcharger les véhicules. Pour ce faire, les véhicules doivent, de préférence, être équipés d'un dispositif de surveillance de la surcharge. Ce dispositif de surveillance de la surcharge doit être activé dans les stations et empêcher le départ en cas de surcharge. En l'absence de dispositif de surveillance de la surcharge, une marge de charge utile doit être prévue lors de la construction de la voie. Les solutions alternatives telles que la limitation de la charge par l'espace au sol de la cabine (&lt; 0.25 m<sup>2</sup>/personne), l'accès par tourniquet, la mise à disposition d'une balance personnelle, etc. sont uniquement autorisées conjointement avec l'affichage d'instructions sous forme de pictogrammes.
+- j. Les véhicules doivent être équipés d'un dispositif de surveillance du balancement latéral.
+- k. Le transport de matériaux en dehors de la cabine n'est pas autorisé en libre-service.
+- l. La fermeture correcte des portes doit, au minimum, être surveillée dans les stations.
+- m. Enregistrement vidéo dans les stations avec système d'interphone et haut-parleur à commande à distance.
+- n. Dans les stations, installation de détecteurs d'incendie et de fumée à fonction de transmission automatique conformément aux rapports d'expertise incendie.
+
+<sup>2</sup> Les risques opérationnels supplémentaires découlant de l'exploitation en libre-service dans les stations sans personnel doivent être traités de manière explicite dans l'analyse de sécurité (par ex. portes de plate-forme) et documentés dans un rapport d'expert. Les risques d'incendie doivent particulièrement être étudiés.
+
+#### Art. 24
+
+**Evacuation des véhicules**
+
+<sup>1</sup> Un exercice d'évacuation doit être effectué une fois par an pour les téléphériques de transport professionnel de voyageurs et tous les deux ans pour les autres installations.
+
+<sup>2</sup> Si plusieurs entreprises de téléphériques se regroupent pour l'évacuation des véhicules, un exercice annuel sur une installation à câble suffit.
+
+<sup>3</sup> Lorsque les secours sont soumis à des réglementations cantonales, les prescriptions et dispositions correspondantes s'appliquent.
+
+#### Art. 25
+
+**Travaux spéciaux planifiés sur plusieurs années**
+
+<sup>1</sup> Les instructions d'exploitation du fabricant s'appliquent.
+
+<sup>2</sup> Sauf indication contraire, les points suivants doivent être respectés:
+
+- a. Révision et inspection des chariots de roulement à l'état démonté, suspente incluse, de l'entraînement, ainsi que des freins de service et de sécurité, toutes les 18'000 heures de fonctionnement ou, au minimum, tous les 12 ans.
+- b. Révision et contrôle des sabots de câble porteur mobiles à l'état démonté, y compris l'axe de support et sa fixation toutes les 18'000 heures de fonctionnement ou, au minimum, tous les 12 ans.
+- c. Des contrôles d'absence de fissures doivent être effectués sur les pièces porteuses des chariots de roulement et sur les sabots de câble porteur mobiles.
+
+<sup>3</sup> Les exploitants sont libres de faire établir ultérieurement par un fabricant de téléphériques ou une entreprise spécialisée qualifiée des prescriptions de maintenance adaptées aux conditions spécifiques de leur installation.
+
+<sup>4</sup> L'intervalle de maintenance et de contrôle, ainsi que l'étendue du contrôle, peuvent être augmentés sur accord du fabricant ou d'une entreprise spécialisée qualifiée, si l'état et le niveau d'usure constatés lors de la révision le permettent. La condition préalable est que l'utilisation de l'installation, y compris sa durée d'exploitation, reste similaire à son utilisation antérieure.
+
+<sup>5</sup> Sur la base de l'expérience et des connaissances acquises lors de l'exploitation, ainsi que des travaux d'inspection et de maintenance effectués, l'exploitant ou, si celui-ci ne possède pas les connaissances spécialisées requises, le fabricant ou une entreprise spécialisée qualifiée doit désigner les composants à démonter et réviser, ainsi que la procédure à suivre.
+
+<sup>6</sup> Une procédure d'essai doit être prévue pour le contrôle d'absence de fissure. Elle doit pouvoir garantir, de manière incontestable, l'intégrité des pièces testées. Les contrôles visuels et autres contrôles non destructifs doivent être effectués par des personnes qualifiées à cet effet.
+
+<sup>7</sup> Les opérations de révision doivent être consignées dans un rapport, y compris les résultats du contrôle d'absence de fissures. Le rapport doit comprendre des photos pertinentes.
+
+## Partie III.2 Dispositions dérogatoires et complémentaires pour téléskis
+
+#### Art. 26
+
+**Sous-système 1: câbles**
+
+<sup>1</sup> Lorsque l'inspection visuelle normalisée des câbles ne peut être réalisée pour le contrôle des câbles porteurs-tracteurs de téléskis à attaches découplables, des mesures de substitution doivent être prises. Il peut s'agir:
+
+- a. de soulever le câble et procéder à un contrôle au sol à l'arrêt;
+- b. ou de réaliser un contrôle magnétographique des câbles;
+- c. ou d'utiliser un dispositif optique de contrôle des câbles.
+
+#### Art. 27
+
+**Sous-système 5: installations électrotechniques**
+
+<sup>1</sup> Les circuits électriques des équipements auxiliaires, tels que l'éclairage, les prises de courant, etc. doivent être entièrement séparés du circuit des équipements électriques de l'installation. Par ailleurs, chaque circuit doit être protégé par un disjoncteur différentiel.
+
+#### Art. 28
+
+**Exploitation de nuit**
+
+<sup>1</sup> En situation d'exploitation de nuit, la visibilité sur la piste de remontée et dans les stations doit être suffisante. L'exploitation nocturne doit être mentionnée dans le concept d'exploitation et de sauvetage.
+
+<sup>2</sup> L'exploitation nocturne doit être approuvée par l'autorité cantonale.
+
+#### Art. 29
+
+**Equipements de sport tendance**
+
+<sup>1</sup> Les installations doivent être adaptées aux équipements de sport de leurs passagers et le personnel d'exploitation doit être formé en conséquence. Ce mode d'exploitation et les exigences spécifiques doivent figurer dans le concept d'exploitation.
+
+<sup>2</sup> Le transport d'équipements de sport tendance doit être approuvé par l'autorité cantonale.
+
+#### Art. 30
+
+**Surveillance indirecte**
+
+<sup>1</sup> Le personnel d'exploitation doit pouvoir atteindre la station sans personnel dans un délai de 5 minutes.
+
+<sup>2</sup> Une zone de débarquement conforme aux normes doit être délimitée.
+
+<sup>3</sup> La surveillance indirecte peut uniquement être effectuée dans des conditions d'exploitation simples. En cas de conditions difficiles, telles que des conditions météorologiques défavorables, une mauvaise visibilité, un risque de tempête ou une utilisation fréquente par des débutants, un opérateur doit être rapidement envoyé à la station sans personnel.
+
+<sup>4</sup> La station sans personnel doit être équipée d'appareils de surveillance vidéo et audio. Lorsque la station supérieure est sans personnel, la caméra de surveillance doit être dirigée vers la zone de débarquement et la station de renvoi.
+
+<sup>5</sup> La surveillance audio doit être activée en fonction du niveau sonore. L'installation audio doit être équipée de haut-parleurs et d'une liaison vocale pour la transmission d'informations aux utilisateurs depuis le poste de contrôle.
+
+<sup>6</sup> Pour assurer la surveillance à partir d'une station dotée d'un opérateur, le moniteur (écran &gt; 12") de la station doit être placé de manière à ce que l'observateur puisse toujours voir simultanément les zones d'embarquement et de débarquement.
+
+<sup>7</sup> Le passage d'une surveillance directe à une surveillance indirecte nécessite l'approbation de l'autorité de surveillance. Une requête correspondante doit être présentée, conformément à la directive 4 « Maintenance et transformation ».
+
+<sup>8</sup> La surveillance audio-vidéo n'est pas prescrite pour les téléskis à perches.
+
+#### Art. 31
+
+**Surveillance de retournement d'agrès (anti-déraillement)**
+
+<sup>1</sup> Pour les installations nouvellement construites ou rénovées, la zone de débarquement doit être équipée d'un dispositif de surveillance de retournement d'agrès – sans fonction de réinitialisation automatique – pour empêcher tout déraillement du câble dû au chevauchement des agrès. La réinitialisation de la surveillance de retournement d'agès depuis la zone de débarquement depuis le sol est autorisée.
+
+<sup>2</sup> S'il n'est pas possible d'installer un dispositif de surveillance anti-déraillement, des mesures appropriées doivent être prises pour empêcher le retournement des agrès.
+
+#### Art. 32
+
+**Véhicules de maintenance**
+
+<sup>1</sup> Les exigences suivantes s'appliquent aux déplacements avec un véhicule de maintenance dans le cadre de travaux de maintenance sur les téléskis:
+
+- a. Les véhicules de maintenance ne sont autorisés que sur les téléskis supportés par un câble porteur-tracteur d'un diamètre nominal minimum de 18 mm.
+- b. Les prescriptions d'utilisation à respecter doivent se trouver dans le véhicule de maintenance.
+- c. Le téléski doit permettre un déplacement limité en marche arrière et être équipé d'un frein de service.
+- d. Le téléski doit être équipé d'un entraînement à vitesse variable; dans le cas contraire, il devra être pourvu d'une vitesse de transmission de révision ou d'un entraînement auxiliaire de révision.
+- e. Le véhicule de maintenance doit être équipé d'une pince à ressorts.
+
+<sup>2</sup> Pour de tels trajets, une liaison radio est exigée et la vitesse de marche ne doit pas dépasser 1.5 m/s.
+
+<sup>3</sup> En raison du risque de déraillement dû à un vrillage du câble, au moins un dispositif de remorquage doit être installé devant et derrière le véhicule de maintenance. Pour les installations supportées par un câble porteur-tracteur d'un diamètre de 25 mm et plus, tous les dispositifs de remorquage doivent être installés.
+
+#### Art. 33
+
+**Travaux spéciaux planifiés sur plusieurs années**
+
+<sup>1</sup> Les instructions d'exploitation du fabricant s'appliquent.
+
+<sup>2</sup> Sauf stipulation contraire, la révision et le contrôle des trains de galets à l'état démonté doivent avoir lieu toutes les 18'000 heures de fonctionnement ou, au minimum, tous les 12 ans.
+
+<sup>3</sup> Les exploitants sont libres de faire établir ultérieurement par un fabricant de téléskis ou une entreprise spécialisée qualifiée des prescriptions de maintenance adaptées aux conditions spécifiques de leur installation.
+
+<sup>4</sup> L'intervalle de maintenance et de contrôle, ainsi que l'étendue du contrôle, peuvent être augmentés ou réduits sur accord du fabricant ou d'une entreprise spécialisée qualifiée, si l'état et le niveau d'usure constatés lors de la révision le permettent; la condition préalable est que l'utilisation de l'installation, y compris sa durée d'exploitation, reste similaire à son utilisation antérieure.
+
+<sup>5</sup> Les éléments porteurs doivent, au minimum, faire l'objet d'un contrôle visuel pour s'assurer qu'ils ne présentent pas de fissures.
+
+<sup>6</sup> Les opérations de révision, y compris les résultats du contrôle d'absence de fissures, doivent être consignés dans un rapport. Le rapport doit comprendre des photos pertinentes.
+
+## Partie III.3 Dispositions relatives aux téléskis à câble bas et aux tapis roulants
+
+#### Art. 34
+
+**Dispositions dérogatoires et complémentaires pour téléskis à câble bas et tapis roulants**
+
+<sup>1</sup> L'installation doit être accessible en 2 minutes maximum depuis le poste de surveillance.
+
+<sup>2</sup> Lorsque plusieurs installations font l'objet d'une surveillance directe à partir d'un même emplacement, elles doivent être équipées d'un gyrophare ou d'un signal acoustique à activation automatique, attirant l'attention sur le déclenchement d'un dispositif de sécurité.
+
+<sup>3</sup> Pour la surveillance indirecte de l'exploitation par vidéo et audio, les points suivants s'appliquent également:
+
+- a. La surveillance indirecte peut uniquement être effectuée dans des conditions d'exploitation simples. En cas de conditions difficiles, telles que des conditions météorologiques défavorables, une mauvaise visibilité, un risque de tempête ou une utilisation fréquente par des débutants, un opérateur doit être rapidement dépêché sur l'installation.
+- b. La surveillance audio doit être activée en fonction du niveau sonore.
+- c. L'installation audio doit être équipée de haut-parleurs et d'une liaison vocale pour la transmission d'informations aux utilisateurs depuis le poste de contrôle.
+- d. Un moniteur (écran &gt; 12") doit être disponible au poste de surveillance.
+- e. La vidéosurveillance doit assurer une visibilité complète de l'installation, et inclure la piste de remontée sur les téléskis à câble bas.
+- f. Pour les tapis roulants, la surveillance indirecte doit permettre de détecter la présence d'une boule de 10 cm de diamètre au niveau de la trappe de sécurité. Il en va de même pour les tapis roulants couverts.
+
+#### Art. 35
+
+**Complément pour les téléskis à câble bas**
+
+<sup>1</sup> Les dispositions complémentaires suivantes s'appliquent :
+
+- a. Des galets de guidage doivent impérativement être installés dans les deux stations pour empêcher le vrillage du câble dans le cas d'installations sans prise ni agrès de remorquage.
+- b. Couverture ou clôture complète des poulies, galets, etc.
+- c. Installation de dispositifs d'arrêt à proximité de l'entrée de câble des stations inférieure et supérieure, à une distance identique à la distance d'arrêt du câble porteur-tracteur inoccupé.
+- d. Contact des utilisateurs avec le sol jusqu'à l'arrêt de l'installation, après le déclenchement du portillon de sécurité.
+- e. Les installations sans prise ni agrès de remorquage doivent être équipées d'un dispositif d'arrêt à soufflet en lieu et place du portillon de sécurité.
+
+## Partie III.4 Dispositions relatives aux installations à câbles (treuils) en puits et en conduits
+
+#### Art. 36
+
+**Dispositions générales**
+
+<sup>1</sup> Les installations à câbles (treuils) en puits et en conduits sont répertoriées sous le terme « installations de puits inclinés ».
+
+<sup>2</sup> Les installations en puits inclinés sont des remontées mécaniques installées dans des tunnels, puits et conduits inclinés, destinées à la construction, l'inspection et l'assainissement de conduits et de puits.
+
+<sup>3</sup> Les termes « installation de transport à l'intérieur des puits », « installation de convoyage en puits », « installation fixes en puits », « installation de transport en conduits », « voie de puits » sont autant de synonymes du terme « installation en puits inclinés ».
+
+<sup>4</sup> Les voies et équipements utilisés pour la construction de ces puits inclinés, tels que les véhicules d'approvisionnement des tunneliers, les plates-formes de soudage, les véhicules d'installation des tuyaux ou les véhicules pour la mise en place des tuyaux dans le béton sont également des « installations en puits inclinés », à condition qu'ils transportent également des personnes. Ils ne sont pas couverts par l'exclusion de la LICa[^36-1] relative aux installations à câbles utilisées dans les mines.
+
+<sup>5</sup> En règle générale, les installations de puits inclinés ne nécessitent pas de permis de construire. Elles sont néanmoins considérées comme fixes au sens de la LICa[^36-2]. Elles sont également considérées comme fixes lorsque le treuil est mobile et utilisé à différents endroits. Dans ce contexte, « mobile » signifie « déplaçable ».
+
+<sup>6</sup> Le document de la SUVA intitulé « Installations de transport à l'intérieur des puits » s'applique, en complément, aux installations construites dans des puits inclinés.
+
+[^36-1]: [Loi fédérale du 23.06.2006 sur les installations à câbles transportant des personnes, RS 743.01](https://www.fedlex.admin.ch/eli/cc/2006/853/fr)
+[^36-2]: [Loi fédérale du 23.06.2006 sur les installations à câbles transportant des personnes, RS 743.01](https://www.fedlex.admin.ch/eli/cc/2006/853/fr)
+
+#### Art. 37
+
+**Dispositions techniques**
+
+<sup>1</sup> Les dispositions techniques dérogatoires et complémentaires sont rassemblées dans une fiche technique du CITT.
+
+## Partie IV Exigences de formation applicables aux responsables techniques
+
+#### Art. 38
+
+**Exigences applicables aux responsables techniques**
+
+<sup>1</sup> Les responsables techniques des installations à câbles soumises à autorisations cantonales doivent faire état d'une expérience professionnelle spécifique aux remontées mécaniques et
+
+- a. avoir suivi avec succès un apprentissage de mécatronicien de remontée mécanique ou un apprentissage dans le domaine de l'électromécanique, ou
+- b. une formation spécifique au type d'installation.
+
+<sup>2</sup> L'autorité de surveillance peut accepter des responsables techniques de tapis roulants, téléskis à câble bas et voies à usage agricole qui ne répondent pas aux exigences de formation conformément aux lettres a) et b), mais disposent de quatre ans d'expérience professionnelle spécifiques aux installations à câbles.
+
+#### Art. 39
+
+**Exigences applicables aux remplaçants des responsables techniques**
+
+<sup>1</sup> Les remplaçants des responsables techniques des installations à câbles cantonales soumises à autorisations cantonales doivent:
+
+- a. avoir suivi avec succès un apprentissage de mécatronicien de remontée mécanique ou un apprentissage dans le domaine de l'électromécanique, ou
+- b. justifier de plus de quatre ans d'expérience professionnelle spécifique aux remontées mécaniques.
+
+<sup>2</sup> L'autorité de surveillance peut accepter des remplaçants de responsables techniques de tapis roulants, téléskis à câble bas et voies à usage agricole qui ne répondent pas aux exigences de formation conformément aux lettres a) et b), mais disposent de deux ans d'expérience professionnelle spécifiques aux installations à câbles.
+
+#### Art. 40
+
+**Formation spécifique au type d'installation**
+
+<sup>1</sup> Toute personne ayant, au minimum, réussi l'examen au cours spécialisé proposé par l'Association suisse des remontées mécaniques (RMS) est qualifiée pour le type d'installation en question:
+
+- a. pour les téléphériques, l'examen au cours spécialisé «Responsable technique de petits téléphériques et d'installations industrielles»;
+- b. pour les téléskis, l'examen au cours spécialisé sur les téléskis;
+- c. pour les minitéléskis et les tapis roulants, l'achèvement du cours spécialisé «Minitéléskis et tapis roulants».
+
+<sup>2</sup> Dans certains cas, l'autorité de surveillance peut, après consultation de l'organe de contrôle, reconnaître comme équivalente une formation suivie à l'étranger ou toute autre formation appropriée, spécifique aux remontées mécaniques.
+
+#### Art. 41
+
+**Expérience professionnelle spécifique aux remontées mécaniques**
+
+<sup>1</sup> Toute personne ayant une expérience professionnelle d'au moins un an ou, dans le cas d'installations saisonnières, de deux saisons dans le domaine de l'exploitation et l'entretien d'un téléphérique soumis à autorisation cantonale ou au sein d'une entreprise gérant des installations comparables, possède une expérience dite « spécifique ». Toute période d'apprentissage de mécatronicien de téléphérique CFC est reconnue comme une pratique professionnelle.
+
+## Partie V Dispositions finales
+
+#### Art. 42
+
+**Entrée en vigueur**
+
+<sup>1</sup> Ce règlement entre en vigueur après approbation par la Conférence, le 2 juin 2022, et remplace le règlement précédent relatif à la construction et l'exploitation de téléphériques, téléskis et ascenseurs inclinés sans concession fédérale de 1954 (modifié en 1970, 1972, 1991, 1995, 1999, 2006).
+
+<sup>2</sup> L'application de catégories modifiées selon l'article 14 aura lieu après l'adoption du nouveau règlement des émoluments.
+
+II.
+
+[pas de modification d'autres décrets]
+
+III.
+
+La version précédente du « Règlement sur la construction et l'exploitation des téléphériques et téléskis sans concession fédérale » du 18 octobre 1954 est abrogé.
