@@ -4,7 +4,7 @@ number: "730.01.1"
 title: "RÈGLEMENT du 04.10.2006 d'application de la loi du 16 mai 2006 sur l'énergie (RLVLEne)"
 short: RLVLEne
 language: fr
-version: 2021-11-15
+version: 2022-06-03
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/730.01.1?id=cdf012a7-8491-4e62-aeee-72bd1bf5a011"
 ---
 
@@ -434,6 +434,8 @@ arrête
 <sup>2</sup> Pour les nouvelles constructions et les bâtiments à rénover dont l'Etat de Vaud est propriétaire ou dans lesquels il a une participation financière majoritaire, l'Etat décide du vecteur énergétique lors de la programmation, en prévoyant la mise en place de dispositifs de production d'énergie renouvelable au maximum des possibilités, sous réserve de difficultés techniques et financières très difficilement surmontables.
 
 <sup>3</sup> La mise en place de dispositifs de production d'énergie renouvelable est financée soit par un partenaire tiers, soit par le crédit d'ouvrage.
+
+<sup>4</sup> Pour les nouvelles constructions et les bâtiments à rénover dont l'Etat de Vaud est propriétaire ou dans lesquels il a une participation financière majoritaire, les surfaces productrices d'électricité solaire sont maximisées en faisant usage des toitures plates et en pente, ainsi que des façades. Sont réservées les contraintes patrimoniales et architecturales.
 
 [^23-1]: Modif. 1 du 02.07.2014: Modification Al. 1; entrée en vigueur au 01.02.2015 · Modif. 2 du 25.03.2020: Introduction Al. 2-3; entrée en vigueur au 31.03.2020 · Modif. 4 du 25.05.2022: Introduction Al. 4; entrée en vigueur au 03.06.2022
 [^24-1]: Loi du 16.05.2006 sur l'énergie ([BLV 730.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/730.01?id=e7f13ccb-9bc3-4442-876e-c316278b9975))
@@ -1160,27 +1162,27 @@ Annexes [^58-2]
 
 1
 
-[ANNEXE 1](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/1?dmev=15.11.2021)
+[ANNEXE 1](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/1?dmev=03.06.2022)
 
 2
 
-[ANNEXE 2](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/2?dmev=15.11.2021)
+[ANNEXE 2](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/2?dmev=03.06.2022)
 
 3
 
-[ANNEXE 3](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/3?dmev=15.11.2021)
+[ANNEXE 3](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/3?dmev=03.06.2022)
 
 4
 
-[ANNEXE 4](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/4?dmev=15.11.2021)
+[ANNEXE 4](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/4?dmev=03.06.2022)
 
 5
 
-[ANNEXE 5](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/5?dmev=15.11.2021)
+[ANNEXE 5](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/5?dmev=03.06.2022)
 
 6
 
-[ANNEXE 6](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/6?dmev=15.11.2021)
+[ANNEXE 6](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/6?dmev=03.06.2022)
 
 [^58-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 [^58-2]: Modif. 1 du 02.07.2014: Modification Annexes, Ann. 1; entrée en vigueur au 01.08.2014
