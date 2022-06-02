@@ -3,18 +3,18 @@ sr: "916.443.102.1"
 title: "Ordinanza dell’USAV del 15 ottobre 2021 che istituisce provvedimenti per evitare l’introduzione dell’influenza aviaria da taluni Stati membri dell’Unione europea e dall'Irlanda nel Nord"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/615"
 language: it
-version: 2022-05-07
+version: 2022-06-03
 adopted: 2021-10-15
 in_force: 2021-10-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20220507/it/xml/fedlex-data-admin-ch-eli-cc-2021-615-20220507-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20220507/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20220603/it/xml/fedlex-data-admin-ch-eli-cc-2021-615-20220603-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20220603/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce provvedimenti per evitare l’introduzione dell’influenza aviaria da taluni Stati membri dell’Unione europea****
 
-del 15 ottobre 2021 (Stato 7 maggio 2022)[^t-1]
+del 15 ottobre 2021 (Stato 3 giugno 2022)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 7 apr. 2022, in vigore dal 9 apr. 2022 ([RU 2022 224](https://fedlex.data.admin.ch/eli/oc/2022/224)).
 
@@ -91,7 +91,7 @@ Allegato*[^t-2]*
 
 ## Territori interessati e zone soggette a restrizioni
 
-[^t-2]: Nuovo testo giusta il n. I dell’O dell’USAV del 5 mag. 2022, in vigore dal 7 mag. 2022 ([RU 2022 249](https://fedlex.data.admin.ch/eli/oc/2022/249)).
+[^t-2]: Nuovo testo giusta il n. I dell’O dell’USAV del 1° giu. 2022, in vigore dal 3 giu. 2022 ([RU 2022 327](https://fedlex.data.admin.ch/eli/oc/2022/327)).
 
 ### 1 Zone soggette a restrizioni negli Stati membri dell’UE interessati
 
@@ -99,33 +99,21 @@ Gli Stati membri dell’UE interessati nonché le zone soggette a restrizioni ne
 
 <table>
 <tr><th>Atto normativo di base UE</th><th>Titolo e data di pubblicazione dell’atto normativo di base nonché atti modificatori con date di pubblicazione</th></tr>
-<tr><td>Decisione di esecuzione (UE) 2021/641</td><td>Decisione di esecuzione (UE) 2021/641 della Commissione, del 16 aprile 2021, relativa a misure di emergenza in relazione a focolai di influenza aviaria ad alta patogenicità in alcuni Stati membri, GU L 134 del 20 aprile 2021, pag. 166; modificata da ultimo dalla decisione di esecuzione (UE) 2022/690, GU L 128 del 2.5.2022, pag. 3.</td></tr>
+<tr><td>Decisione di esecuzione (UE) 2021/641</td><td>Decisione di esecuzione (UE) 2021/641 della Commissione, del 16 aprile 2021, relativa a misure di emergenza in relazione a focolai di influenza aviaria ad alta patogenicità in alcuni Stati membri, GU L 134 del 20.4.2021, pag. 166; modificata da ultimo dalla decisione di esecuzione (UE) 2022/817, GU L 146 del 25.5.2022, pag. 13.</td></tr>
 </table>
 
 ### 2 Stati membri dell’UE interessati
 
 Nei seguenti Stati membri dell’UE vi sono zone soggette a restrizioni:
 
-Belgio
-
 Bulgaria
-
-Cechia
-
-Danimarca
 
 Francia
 
 Germania
 
-Italia
-
 Paesi Bassi
 
 Polonia
-
-Romania
-
-Spagna
 
 Ungheria

@@ -3,18 +3,18 @@ sr: "916.443.102.1"
 title: Ordonnance de l’OSAV du 15 octobre 2021 instituant des mesures destinées à prévenir l’introduction de l’influenza aviaire présente dans certains États membres de l’Union européenne et en Irlande du Nord
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/615"
 language: fr
-version: 2022-05-07
+version: 2022-06-03
 adopted: 2021-10-15
 in_force: 2021-10-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20220507/fr/xml/fedlex-data-admin-ch-eli-cc-2021-615-20220507-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20220507/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20220603/fr/xml/fedlex-data-admin-ch-eli-cc-2021-615-20220603-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20220603/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures destinées à prévenir l’introduction de l’influenza aviaire présente dans certains États membres de l’Union européenne****
 
-du 15 octobre 2021 (Etat le 7 mai 2022)[^t-1]
+du 15 octobre 2021 (Etat le 3 juin 2022)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 7 avr. 2022, en vigueur depuis le 9 avr. 2022 ([RO 2022 224](https://fedlex.data.admin.ch/eli/oc/2022/224)).
 
@@ -22,7 +22,7 @@ L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires
 
 vu l’art. 24, al. 3, let. a, de la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^ingress-1], vu l’art. 5, al. 4, de l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande et la Norvège[^ingress-2],
 
-arrête :
+arrête:
 
 [^ingress-1]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 [^ingress-2]: [RS 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
@@ -91,7 +91,7 @@ Annexe*[^t-2]*
 
 ## Région et zones réglementées
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 5 mai 2022, en vigueur depuis le 7 mai 2022 ([RO 2022 279](https://fedlex.data.admin.ch/eli/oc/2022/279)).
+[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 1<sup>er</sup> juin 2022, en vigueur depuis le 3 juin 2022 ([RO 2022 327](https://fedlex.data.admin.ch/eli/oc/2022/327)).
 
 ### 1 Zones réglementées dans les États membres de l’UE concernés
 
@@ -99,7 +99,7 @@ Les États membres de l’UE concernés ainsi que leurs zones réglementées son
 
 <table>
 <tr><th>Acte législatif de l’UE</th><th>Titre et date de publication du texte législatif et dates de publication des actes modificateurs</th></tr>
-<tr><td>Décision d’exécution (UE) 2021/641</td><td>Décision d’exécution (UE) 2021/641 de la Commission du 16 avril 2021 concernant des mesures d’urgence motivées par l’apparition de foyers d’influenza aviaire hautement pathogène dans certains États membres, JO L 134 du 20 avril 2021, p. 166; modifiée en dernier lieu par la décision d’exécution (UE) 2022/690, JO L 128 du 2.5.2022, p. 3</td></tr>
+<tr><td>Décision d’exécution (UE) 2021/641</td><td>Décision d’exécution (UE) 2021/641 de la Commission du 16 avril 2021 concernant des mesures d’urgence motivées par l’apparition de foyers d’influenza aviaire hautement pathogène dans certains États membres, JO L 134 du 20.4.2021, p. 166; modifiée en dernier lieu par la décision d’exécution (UE) 2022/817, JO L 146 du 25.5.2022, p. 13</td></tr>
 </table>
 
 ### 2 États membres de l’UE
@@ -108,24 +108,12 @@ Des zones réglementées ont été délimitées dans les États membres de l’U
 
 Allemagne
 
-Belgique
-
 Bulgarie
-
-Danemark
-
-Espagne
 
 France
 
 Hongrie
 
-Italie
-
 Pays-Bas
 
 Pologne
-
-Roumanie
-
-Tchéquie
