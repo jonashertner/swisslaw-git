@@ -1,56 +1,55 @@
 ---
 canton: VS
 number: "822.201"
-title: Reglement betreffend die Ladenöffnung
+title: "Reglement über die Ladenöffnung *"
 short: RLÖ
 language: de
-version: 2002-11-01
-corrected: 2017-10-07
-version_adopted: 2002-10-23
+version: 2022-06-03
+valid_until: 2024-02-29
+version_adopted: 2022-05-25
 adopted: 2002-10-23
 in_force: 2002-11-01
 url: "https://lex.vs.ch/app/de/texts_of_law/822.201"
-pdf: "https://lex.vs.ch/api/de/versions/196/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3037/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement betreffend die Ladenöffnung
+# Reglement über die Ladenöffnung
 
-vom 23. Oktober 2002
+vom 23.10.2002 (Stand 03.06.2022)
 
 Der Staatsrat des Kantons Wallis
 
 eingesehen Artikel 17 des Gesetzes betreffend die Ladenöffnung vom 22. März 2002 (LöG);
 
-auf Antrag des Departements für Volkswirtschaft, Institutionen und Sicherheit,
+auf Antrag des für die Volkswirtschaft zuständigen Departements,
 
-beschliesst:
+verordnet:
 
 #### Art. 1
 
 **Zuständige kantonale Behörde**
 
-Die zuständige Dienststelle gemäss Artikel 2 LöG ist die Dienststelle für Industrie, Handel und Arbeit.
+<sup>1</sup> Die zuständige Dienststelle gemäss Artikel 2 LöG ist die Dienststelle für Industrie, Handel und Arbeit.
 
 #### Art. 2
 
 **Kommunale Bestimmungen**
 
-Die von den Gemeinden gestützt auf Artikel 8 und 12 LöG erlassenen Reglemente unterstehen der Genehmigung durch den Staatsrat.
+<sup>1</sup> Die von den Gemeinden gestützt auf Artikel 8 und 12 LöG erlassenen Reglemente unterstehen der Genehmigung durch den Staatsrat.
 
 #### Art. 3
 
 **Verlängerte Öffnungszeiten**
 
-Die Gemeinden teilen der Dienststelle für Industrie, Handel und Arbeit jährlich bis zum 30. November für die kommenden zwölf Monate den Tag der wöchentlichen verlängerten Öffnung, den Tag der Ausnahmebewilligung betreffend der Öffnung an Sonn- und Feiertagen sowie die drei Werktage mit verlängerter Öffnung während der Weihnachtszeit mit.
+<sup>1</sup> Die Gemeinden teilen der Dienststelle für Industrie, Handel und Arbeit jährlich bis zum 30. November für die kommenden zwölf Monate den Tag der wöchentlichen verlängerten Öffnung, den Tag der Ausnahmebewilligung betreffend der Öffnung an Sonn- und Feiertagen sowie die drei Werktage mit verlängerter Öffnung während der Weihnachtszeit mit.
 
 #### Art. 4
 
 **Touristische Orte**
 
-<sup>1</sup> Die gemäss Artikel 11 Absatz 2 LöG durch den Staatsrat alle zwei Jahre zu bestimmenden touristischen Orte sind im Anhang dieses Reglements bezeichnet.
+<sup>1</sup> Die gemäss Artikel 11 Absatz 2 LöG durch den Staatsrat alle zwei Jahre zu bestimmenden touristischen Orte sind im Anhang 1 dieses Reglements bezeichnet.
 
 <sup>2</sup> Die Gemeinden, welche als touristische Orte gelten oder auf deren Gebiet sich touristische Orte befinden, haben jährlich bis zum 30. November der Dienststelle für Industrie, Handel und Arbeit die für die kommenden zwölf Monate gültige Zeitdauer der touristischen Saisons mitzuteilen.
 
@@ -58,78 +57,137 @@ Die Gemeinden teilen der Dienststelle für Industrie, Handel und Arbeit jährlic
 
 **Schlussbestimmungen**
 
-<sup>1</sup> Lebensmittelläden gemäss Artikel 9 LöG, Lebensmittelläden an Tankstellen sowie Läden innerhalb von Campings und von kulturellen Anlagen, Sport- und Freizeitanlagen (Art. 10 Abs. 1 Bst. c und d LöG), deren Verkaufsfläche 100 m2 übersteigt, haben diese bis zum 30. Juni 2003 auf 100 m2 zu reduzieren.
+<sup>1</sup> Lebensmittelläden gemäss Artikel 9 LöG, Lebensmittelläden an Tankstellen sowie Läden innerhalb von Campings und von kulturellen Anlagen, Sport- und Freizeitanlagen (Art. 10 Abs. 1 Bst. c und d LöG), deren Verkaufsfläche 100 Quadratmeter übersteigt, haben diese bis zum 30. Juni 2003 auf 100 Quadratmeter zu reduzieren.
 
 <sup>2</sup> Das vorliegende Reglement wird im Amtsblatt veröffentlicht, um am 1. November 2002 in Kraft zu treten.
 
-So beschlossen im Staatsrat zu Sitten, den 23. Oktober 2002.
+## A1 Anhang 1 zu Artikel 4 Absatz 1
 
-Der Präsident des Staatsrates: Thomas Burgener Der Staatskanzler: Henri v. Roten
+#### Art. A1-1
 
-## Anhang
+**Touristische Orte**
 
-### Touristische Orte
+<sup>1</sup> Orte, in denen der Fremdenverkehr von wesentlicher Bedeutung ist und saisonmässigen Schwankungen unterliegt, welche verlängerter Öffnungszeiten im Sinne des Artikels 12 des Gesetzes bedürfen, um den touristischen Bedürfnissen zu entsprechen, sowie unmittelbare Grenzortschaften mit Frankreich oder Italien.
 
-Orte, in denen der Fremdenverkehr von wesentlicher Bedeutung ist und saisonmässigen Schwankungen unterliegt, welche verlängerter Öffnungszeiten im Sinne des Artikels 12 des Gesetzes bedürfen, um den touristischen Bedürfnissen zu entsprechen, sowie unmittelbare Grenzortschaften mit Frankreich oder Italien
+<sup>2</sup> Bezirk Goms:
 
-### Bezirk Goms
+- a) Bellwald;
+- b) Ernen;
+- c) Fiesch;
+- d) Goms;
+- e) Lax;
+- f) Obergoms.
+- g) …
+- h) …
+- i) …
 
-Bellwald Ernen Fiesch Gluringen Münster Oberwald Obergesteln Reckingen Ulrichen
+<sup>3</sup> Bezirk Östlich Raron:
 
-### Bezirk Östlich Raron
+- a) Bettmeralp;
+- b) Riederalp.
+- c) …
+- d) …
 
-Betten: Bettmeralp Goppisberg: Goppisbergeralp Greich: Greicheralp Ried-Mörel: Riederalp
+<sup>4</sup> Bezirk Brig:
 
-### Bezirk Brig
+- a) Naters:
+  - 1\. Blatten,
+  - 2\. Belalp;
+- b) Termen: Rosswald;
+- c) Simplon;
+- d) Zwischbergen: Gondo;
 
-Naters: Blatten, Belalp Termen: Rosswald Simplon Zwischbergen: Gondo
+<sup>5</sup> Bezirk Visp:
 
-### Bezirk Visp
+- a) Grächen;
+- b) Saas-Almagell;
+- c) Saas-Fee;
+- d) Saas-Grund;
+- e) Täsch;
+- f) Zermatt.
 
-Grächen Saas-Almagell Saas-Fee Saas-Grund Täsch Zermatt
+<sup>6</sup> Bezirk Westlich Raron:
 
-### Bezirk Westlich Raron
+- a) Blatten dans la vallée de Lötschen;
+- b) Bürchen;
+- c) Eischoll;
+- d) Unterbäch;
+- e) Wiler.
 
-Blatten dans la vallée de Lötschen Bürchen Eischoll Unterbäch Wiler
+<sup>7</sup> Bezirk Leuk:
 
-### Bezirk Leuk
+- a) Leukerbad;
+- b) Turtmann-Unterems: Gruben;
 
-Leukerbad Turtmann: Gruben
+<sup>8</sup> Bezirk Siders:
 
-### Bezirk Siders
+- a) Chalais: Vercorin;
+- b) Icogne: Haut-Plateau de Crans-Montana;
+- c) Lens: Haut-Plateau de Crans-Montana;
+- d) Crans-Montana: Haut-Plateau de Crans-Montana;
+- e) Anniviers.
+- f) …
+- g) …
+- h) …
+- i) …
+- j) …
+- k) …
+- l) …
 
-Ayer: Zinal Chalais: Vercorin Chandolin Chermignon: Haut-Plateau de Crans-Montana Grimentz Icogne: Haut-Plateau de Crans-Montana Lens: Haut-Plateau de Crans-Montana Mollens: Aminona Montana: Haut-Plateau de Crans-Montana Randogne: Haut-Plateau de Crans-Montana St-Luc Vissoie
+<sup>9</sup> Bezirk Ering:
 
-### Bezirk Ering
+- a) Ayent: Anzère;
+- b) Evolène;
+- c) Hérémence: Les Masses;
+- d) Mont-Noble;
+- e) Vex;
+- f) …
+- g) …
+- h) St-Martin.
 
-Les Agettes: Les Mayens de l’Ours Ayent: Anzère Evolène Hérémence: Les Masses Nax Vernamiège Vex
+<sup>10</sup> Bezirk Sitten:
 
-### Bezirk Sitten
+- a) Sion: Les Mayens de l'Ours;
+- b) Veysonnaz.
 
-Veysonnaz
+<sup>11</sup> Bezirk Conthey:
 
-### Bezirk Conthey
+- a) Conthey:
+  - 1\. Derborence,
+  - 2\. Les Mayens de Conthey,
+  - 3\. Les Mayens de My,
+  - 4\. la Grand Zour;
+- b) Nendaz:
+  - 1\. Nendaz-Station;
+  - 2\. Siviez.
 
-Conthey: Derborence, Les Mayens de Conthey, Les Mayens de My et la Grand Zour Nendaz: Nendaz-Station, Siviez
+<sup>12</sup> Bezirk Martinach:
 
-### Bezirk Martinach
+- a) Leytron: Ovronnaz;
+- b) Riddes: La Tzoumaz;
+- c) Trient.
 
-Leytron: Ovronnaz Riddes: Mayens-de-Riddes Trient
+<sup>13</sup> Bezirk Entremont:
 
-### Bezirk Entremont
+- a) Val de Bagnes;
+- b) Bourg-St-Pierre;
+- c) Orsières;
+  - 1\. …
+  - 2\. …
+- d) Liddes
 
-Bagnes Bourg-St-Pierre Orsières:
+<sup>14</sup> Bezirk St-Maurice:
 
-**Champex, La Fouly**
+- a) Finhaut;
+- b) Salvan.
 
-### Bezirk St-Maurice
+<sup>15</sup> Bezirk Monthey:
 
-Finhaut Salvan
+- a) Champéry;
+- b) Port-Valais: Le Bouveret;
+- c) St-Gingolph;
+- d) Troistorrents;
+- e) Val d’Illiez;
+- f) Vionnaz: Torgon;
 
-### Bezirk Monthey
-
-**Le Bouveret**
-
-**Torgon**
-
-Champéry Port-Valais: St-Gingolph Troistorrents Val d’Illiez Vionnaz:
+CSW BO/Abl. 19/2002
