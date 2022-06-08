@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "UCRAINA: Adeguamenti del diritto sulle derrate alimentari – agevolazioni nei requisiti di caratterizzazione a seguito di difficoltà di approvvigionamento"
 document: Progetto posto in consultazione-2
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "UKRAINE: Anpassungen Lebensmittelrecht – Erleichterungen bei Kennzeichnungsvorgaben aufgrund von Versorgungsengpässen"
 document: Vernehmlassungsvorlage
 language: de

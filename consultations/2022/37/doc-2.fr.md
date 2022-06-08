@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "UKRAINE: adaptations du droit sur les denrées alimentaires – assouplissement des règles d’étiquetage en raison de difficultés d’approvisionnement"
 document: Projet mis en consultation-2
 language: fr
