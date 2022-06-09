@@ -4,11 +4,11 @@ title: Verordnung vom 15. August 2018 über die Einreise und die Visumerteilung 
 short: VEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: de
-version: 2022-05-01
+version: 2022-06-10
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220501-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220610/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220610-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220610/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220501/de"
 
 (VEV)
 
-vom 15. August 2018 (Stand am 1. Mai 2022)
+vom 15. August 2018 (Stand am 10. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -236,7 +236,7 @@ In Abweichung von Absatz 1 sind folgende Personen von der Visumpflicht für kurz
 - g.[^8-8] Inhaberinnen und Inhaber eines gültigen Reiseausweises für Staatenlose, der von einem EU- oder EFTA-Mitgliedstaat oder vom Vereinigten Königreich nach dem Übereinkommen vom 28. September 1954[^8-9] über die Rechtsstellung der Staatenlosen ausgestellt wurde, sofern sie sich in diesem Staat aufhalten;
 - h.[^8-10] Angehörige von Streitkräften, die im Rahmen der Nordatlantikvertrags-Organisation (NATO) oder der Partnerschaft für den Frieden reisen und Inhaberinnen oder Inhaber der Ausweispapiere und Einsatzbefehle sind, die im NATO-Truppenstatut vom 19. Juni 1951[^8-11] vorgesehen sind.
 
-<sup>3</sup> Angehörige von Staaten und anderen Gebietskörperschaften, die in Anhang II der Verordnung (EU) 2018/1806 aufgeführt sind, unterstehen nicht der Visumpflicht für kurzfristige Aufenthalte.[^8-12]
+<sup>3</sup> Angehörige von Staaten und anderen Gebietskörperschaften, die in Anhang II der Verordnung (EU) 2018/1806 aufgeführt sind, unterstehen nicht der Visumpflicht für kurzfristige Aufenthalte. Vorbehalten bleiben die Durchführungsrechtsakte und delegierten Rechtsakte der Europäischen Kommission zur vorübergehenden Aussetzung der Befreiung von der Visumpflicht für den kurzfristigen Aufenthalt, die gestützt auf die Verordnung (EU) 2018/1806 erlassen wurden. Diese sind in Anhang 5 aufgeführt.[^8-12]
 
 <sup>4</sup>
 
@@ -259,7 +259,7 @@ In Abweichung von Absatz 3 gelten bei Aufenthalten mit Erwerbstätigkeit folgend
 [^8-9]: [SR 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
 [^8-10]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 [^8-11]: [SR 0.510.1](https://fedlex.data.admin.ch/eli/cc/2003/428), Anhang
-[^8-12]: Fassung gemäss Ziff. I der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
+[^8-12]: Fassung gemäss Ziff. I der V vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18 Uhr ([AS 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)).
 [^8-13]: Fassung gemäss Ziff. I der V vom 16. Jan. 2019, in Kraft seit 15. Febr. 2019 ([AS 2019 431](https://fedlex.data.admin.ch/eli/oc/2019/75)).
 
 #### Art. 9
@@ -1290,3 +1290,13 @@ Anhang 4
 Syrien
 
 Türkei
+
+Anhang 5*[^t-3]*
+
+(Art. 8 Abs. 3)
+
+## Durchführungsrechtsakte und delegierte Rechtsakte der Europäischen Kommission zur vorübergehenden Aussetzung der Befreiung von der Visumpflicht für den kurzfristigen Aufenthalt, die gestützt auf die Verordnung (EU) 2018/1806 erlassen wurden
+
+[^t-3]: Eingefügt durch Ziff. II der V vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18 Uhr ([AS 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)).
+
+Durchführungsverordnung (EU) 2022/693 der Kommission vom 27. April 2022 über die vorübergehende Aussetzung der Befreiung von der Visumpflicht für Staatsangehörige Vanuatus, ABl. L 129 vom 3.5.2022, S. 18

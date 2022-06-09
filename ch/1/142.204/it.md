@@ -4,11 +4,11 @@ title: "Ordinanza del 15 agosto 2018 concernente l'entrata e il rilascio del vis
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: it
-version: 2022-05-01
+version: 2022-06-10
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220501/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220501-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220610/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220610-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220610/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220501/it"
 
 (OEV)
 
-del 15 agosto 2018 (Stato 1° maggio 2022) (Stato 1° maggio 2022)
+del 15 agosto 2018 (Stato 10 giugno 2022) (Stato 10 giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -236,7 +236,7 @@ In deroga al capoverso 1, sono esentate dall’obbligo del visto per soggiorni d
 - g.[^8-8] i titolari di un documento di viaggio per apolidi valido rilasciato da uno Stato membro dell’UE o dell’AELS o dal Regno Unito conformemente alla Convenzione del 28 settembre 1954[^8-9] relativa allo status degli apolidi, purché soggiornino in detto Stato;
 - h.[^8-10] i membri delle forze armate che viaggiano nell’ambito dell’Organizzazione del Trattato dell’Atlantico del Nord (NATO) o del Partenariato per la libertà e sono titolari di documenti d’identità e di missione previsti dallo Statuto delle truppe della NATO del 19 giugno 1951[^8-11].
 
-<sup>3</sup> I cittadini di uno degli Stati o una delle entità o autorità territoriali di cui all’allegato II del regolamento (UE) 2018/1806 non sono soggetti all’obbligo del visto per soggiorni di breve durata.[^8-12]
+<sup>3</sup> I cittadini di uno degli Stati o una delle entità o autorità territoriali di cui all’allegato II del regolamento (UE) 2018/1806 non sono soggetti all’obbligo del visto per soggiorni di breve durata. Sono fatti salvi gli atti di esecuzione e gli atti delegati della Commissione europea per sospendere in via temporanea l’esenzione dall’obbligo del visto per soggiorni di breve durata, emanati in virtù del regolamento (UE) 2018/1806. Essi sono elencati nell’allegato 5.[^8-12]
 
 <sup>4</sup>
 
@@ -259,7 +259,7 @@ In deroga al capoverso 3, ai soggiorni con attività lucrativa si applicano le r
 [^8-9]: [RS 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
 [^8-10]: Introdotta dal n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 [^8-11]: [RS 0.510.1](https://fedlex.data.admin.ch/eli/cc/2003/428), allegato
-[^8-12]: Nuovo testo giusta il n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
+[^8-12]: Nuovo testo giusta il n. I dell’O del 10 giu. 2022, in vigore dal 10 giu. 2022 alle 18.00 ([RU 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)).
 [^8-13]: Nuovo testo giusta il n. I dell’O del 16 gen. 2019, in vigore dal 15 feb. 2019 ([RU 2019 431](https://fedlex.data.admin.ch/eli/oc/2019/75)).
 
 #### Art. 9
@@ -669,23 +669,23 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 - e. le informazioni da fornire ai cittadini di paesi terzi i cui dati sono registrati nell’EES (art. 50 par. 4);
 - f. le specifiche e le condizioni per il sito web che contiene informazioni sull’EES (art. 50 par. 5);
 - g. le specifiche della soluzione tecnica per la compilazione di statistiche (art. 72 par. 8);
-- h.[^34-6] norme dettagliate sulla gestione della funzionalità per la gestione centralizzata dell’elenco delle autorità con accesso all’EES (art. 9 par. 2 regolamento [UE] 2017/2226).[^34-7][^34-8]
+- h.[^34-6] norme dettagliate sulla gestione della funzionalità per la gestione centralizzata dell’elenco delle autorità con accesso all’EES (art. 9 par. 2 regolamento [UE] 2017/2226).[^34-7]
 
-<sup>2</sup> Ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea riguardanti le procedure di rendicontazione in merito al sostegno operativo nell’ambito dei programmi nazionali degli Stati Schengen e erogati in virtù degli articoli 10 paragrafo 6 e 11 paragrafo 6 del regolamento (UE) n. 515/2014[^34-9], sempreché questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA.
+<sup>2</sup> Ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea riguardanti le procedure di rendicontazione in merito al sostegno operativo nell’ambito dei programmi nazionali degli Stati Schengen e erogati in virtù degli articoli 10 paragrafo 6 e 11 paragrafo 6 del regolamento (UE) n. 515/2014[^34-8], sempreché questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA.
 
-<sup>2bis</sup> Ha la competenza di concludere trattati internazionali in vista del recepimento di atti delegati della Commissione europea riguardanti la definizione di un programma per lo sviluppo di sistemi informatici a sostegno della gestione dei flussi migratori attraverso le frontiere esterne ed erogati in virtù degli articoli 5 paragrafo 5 lettera b, 15 e 17 del regolamento (UE) n. 515/2014, sempreché questi trattati siano di portata limitata ai sensi dell’articolo 7*a* LOGA.[^34-10]
+<sup>2bis</sup> Ha la competenza di concludere trattati internazionali in vista del recepimento di atti delegati della Commissione europea riguardanti la definizione di un programma per lo sviluppo di sistemi informatici a sostegno della gestione dei flussi migratori attraverso le frontiere esterne ed erogati in virtù degli articoli 5 paragrafo 5 lettera b, 15 e 17 del regolamento (UE) n. 515/2014, sempreché questi trattati siano di portata limitata ai sensi dell’articolo 7*a* LOGA.[^34-9]
 
 <sup>3</sup>
 
-Ha la competenza di concludere trattati internazionali in vista del recepimento di atti delegati e di esecuzione della Commissione europea relativi al regolamento (UE) n. 514/2014[^34-11], sempreché questi trattati siano di portata limitata ai sensi dell’articolo 7*a* LOGA, e riguardino:[^34-12]
+Ha la competenza di concludere trattati internazionali in vista del recepimento di atti delegati e di esecuzione della Commissione europea relativi al regolamento (UE) n. 514/2014[^34-10], sempreché questi trattati siano di portata limitata ai sensi dell’articolo 7*a* LOGA, e riguardino:[^34-11]
 
 - a. la comunicazione di irregolarità finanziarie e siano emanati in virtù dell’articolo 5 paragrafo 6 del regolamento (UE) n. 514/2014;
 - b. il programma di lavoro e l’assistenza emergenziale e siano emanati in virtù dell’articolo 6 paragrafo 2 del regolamento (UE) n. 514/2014;
 - c. il modello conformemente al quale sono redatti i programmi nazionali e siano emanati in virtù dell’articolo 14 paragrafo 4 del regolamento (UE) n. 514/2014;
 - d. le condizioni e le modalità del sistema di scambio elettronico dei dati e siano emanati i virtù dell’articolo 24 paragrafo 5 del regolamento (UE) n. 514/2014;
-- d<sup>bis</sup>.[^34-13] le condizioni minime per la designazione delle autorità responsabili con riguardo all’ambiente interno, alle attività di controllo, informazione e comunicazione, e al monitoraggio, oltre alle norme sulla procedura per procedere e porre fine alla designazione, e siano stati erogati in virtù dell’articolo 26 paragrafo 4 lettera a del regolamento (UE) n. 514/2014;
-- d<sup>ter</sup>.[^34-14] le norme relative alla vigilanza delle autorità responsabili e la procedura per il riesame della loro designazione e siano stati erogati in virtù dell’articolo 26 paragrafo 4 lettera b del regolamento (UE) n. 514/2014;
-- d<sup>quater</sup>.[^34-15] gli obblighi delle autorità responsabili in materia di intervento pubblico e di contenuto delle loro responsabilità di gestione e di controllo e siano stati erogati in virtù dell’articolo 26 paragrafo 4 lettera c del regolamento (UE) n. 514/2014;
+- d<sup>bis</sup>.[^34-12] le condizioni minime per la designazione delle autorità responsabili con riguardo all’ambiente interno, alle attività di controllo, informazione e comunicazione, e al monitoraggio, oltre alle norme sulla procedura per procedere e porre fine alla designazione, e siano stati erogati in virtù dell’articolo 26 paragrafo 4 lettera a del regolamento (UE) n. 514/2014;
+- d<sup>ter</sup>.[^34-13] le norme relative alla vigilanza delle autorità responsabili e la procedura per il riesame della loro designazione e siano stati erogati in virtù dell’articolo 26 paragrafo 4 lettera b del regolamento (UE) n. 514/2014;
+- d<sup>quater</sup>.[^34-14] gli obblighi delle autorità responsabili in materia di intervento pubblico e di contenuto delle loro responsabilità di gestione e di controllo e siano stati erogati in virtù dell’articolo 26 paragrafo 4 lettera c del regolamento (UE) n. 514/2014;
 - e. le procedure e le prescrizioni necessarie in vista di unificare i controlli svolti dalle autorità competenti e siano emanati in virtù dell’articolo 27 paragrafo 5 del regolamento (UE) n. 514/2014;
 - f. i modelli da utilizzare per presentare la richiesta di pagamento del saldo annuale e siano emanati in virtù dell’articolo 44 paragrafo 3 del regolamento (UE) n. 514/2014;
 - g. le modalità della procedura di liquidazione annuale dei conti e siano emanati in virtù dell’articolo 45 paragrafo 2 del regolamento (UE) n. 514/2014;
@@ -700,14 +700,13 @@ Ha la competenza di concludere trattati internazionali in vista del recepimento 
 [^34-5]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^34-6]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^34-7]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^34-8]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^34-9]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. b.
-[^34-10]: Introdotto dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-11]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. a.
-[^34-12]: Nuovo testo gisuta il n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-8]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. b.
+[^34-9]: Introdotto dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-10]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. a.
+[^34-11]: Nuovo testo gisuta il n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-12]: Introdotta dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
 [^34-13]: Introdotta dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
 [^34-14]: Introdotta dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-15]: Introdotta dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
 
 #### Art. 34a
 
@@ -1290,3 +1289,13 @@ Allegato 4
 Siria
 
 Turchia
+
+Allegato 5[^t-3]
+
+(art. 8 cpv. 3)
+
+## Atti di esecuzione e atti delegati della Commissione europea per sospendere in via temporanea l’esenzione dall’obbligo del visto per soggiorni di breve durata, emanati in virtù del regolamento (UE) 2018/1806
+
+[^t-3]: Introdotto testo giusta il n. II dell’O del 10 giu. 2022, in vigore dal 10 giu. 2022 alle 18.00 ([RU 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)).
+
+Regolamento d’esecuzione (UE) 2022/693 della Commissione del 27 aprile 2022 sulla sospensione temporanea dell’esenzione dall’obbligo del visto per i cittadini di Vanuatu, GU L 129 del 3.5.2022, pag. 18

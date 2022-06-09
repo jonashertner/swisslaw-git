@@ -4,11 +4,11 @@ title: "Ordonnance du 15 août 2018 sur l'entrée et l'octroi de visas (OEV)"
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: fr
-version: 2022-05-01
+version: 2022-06-10
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220501-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220610/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220610-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220610/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220501/fr"
 
 (OEV)
 
-du 15 août 2018 (Etat le 1<sup>er</sup> mai 2022)
+du 15 août 2018 (Etat le 10 juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -236,7 +236,7 @@ Sont libérées de l’obligation de visa de court séjour, en dérogation à l�
 - g.[^8-8] les titulaires d’un titre de voyage pour apatrides valable délivré par un État membre de l’UE ou de l’AELE ou par le Royaume-Uni, pour autant qu’ils séjournent dans cet État, conformément à la Convention du 28 septembre 1954 relative au statut des apatrides[^8-9];
 - h.[^8-10] les membres de forces armées qui voyagent dans le cadre de l’Organisation du Traité de l’Atlantique Nord (OTAN) ou du Partenariat pour la paix et qui sont titulaires de documents d’identité et d’ordres d’engagement prévus par le Statut des forces de l’OTAN du 19 juin 1951[^8-11].
 
-<sup>3</sup> Les ressortissants des États et des autres entités territoriales énumérés à l’annexe II du règlement (UE) 2018/1806 ne sont pas soumis à l’obligation de visa de court séjour.[^8-12]
+<sup>3</sup> Les ressortissants des États et des autres entités territoriales énumérés à l’annexe II du règlement (UE) 2018/1806 ne sont pas soumis à l’obligation de visa de court séjour. Les actes d’exécution et actes délégués de la Commission visant à suspendre temporairement l’obligation de visas de court séjour fondés sur le règlement (UE) 2010/1806 sont réservés. Ils sont mentionnés à l’annexe 5.[^8-12]
 
 <sup>4</sup>
 
@@ -259,7 +259,7 @@ En dérogation à l’al. 3, les séjours en vue de l’exercice d’une activit
 [^8-9]: [RS 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
 [^8-10]: Introduite par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 [^8-11]: [RS 0.510.1](https://fedlex.data.admin.ch/eli/cc/2003/428)**,** annexe
-[^8-12]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
+[^8-12]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2022, en vigueur depuis le 10 juin 2022 à 18 h 00 ([RO 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)).
 [^8-13]: Nouvelle teneur selon le ch. I de l’O du 16 janv. 2019, en vigueur depuis le 15 fév. 2019 ([RO 2019 431](https://fedlex.data.admin.ch/eli/oc/2019/75)).
 
 #### Art. 9
@@ -1289,3 +1289,13 @@ Annexe 4
 Syrie
 
 Turquie
+
+Annexe 5*[^t-3]*
+
+(art. 8, al. 3)
+
+## Actes d’exécution et actes délégués de la Commission européenne portant suspension temporaire de l’exemption de visa pour les séjours de courte durée fondés sur le règlement (UE) 2018/1806
+
+[^t-3]: Introduite par le ch. II de l’O du 10 juin 2022, en vigueur depuis le 10 juin 2022 à 18 h 00 ([RO 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)).
+
+Règlement d’exécution (UE) 2022/693 de la Commission du 27 avril 2022 relatif à la suspension temporaire de l’exemption de l’obligation de visa à l’égard des ressortissants du Vanuatu, JO L 129 du 3.5.2022, p. 18
