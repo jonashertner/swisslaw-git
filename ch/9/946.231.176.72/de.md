@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2022-05-29
+version: 2022-06-10
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220529/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220529-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220529/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220610/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220610-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220610/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 29. Mai 2022)
+vom 4. März 2022 (Stand am 10. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -1003,8 +1003,8 @@ Anhang 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)) und vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^annex1-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)) und Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18.00 Uhr ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
+[^annex1-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 2*[^t-2]*
 
@@ -1014,8 +1014,8 @@ Anhang 2*[^t-2]*
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^annex2-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
+[^t-2]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)) und Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18.00 Uhr ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
+[^annex2-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 3
 
@@ -1304,7 +1304,7 @@ Anhang 8*[^t-5]*
 
 [^annex8-lvlu1-1]
 
-[^t-5]: Bereinigt gemäss Ziff. I der V des WBF vom 15. März 2022 ([AS 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), vom 13. April 2022 ([AS 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)) und vom 3. Mai 2022, in Kraft seit 4. Mai 2022 um 18.00 Uhr ([AS 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)).
+[^t-5]: Bereinigt gemäss Ziff. I der V des WBF vom 15. März 2022 ([AS 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), vom 13. April 2022 ([AS 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), vom 3. Mai 2022 ([AS 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)) und Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18.00 Uhr ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
 [^annex8-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 9
@@ -1315,7 +1315,7 @@ Anhang 9
 
 [^annex9-lvlu1-1]
 
-[^annex9-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
+[^annex9-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 10
 
@@ -1325,7 +1325,7 @@ Anhang 10
 
 [^annex10-lvlu1-1]
 
-[^annex10-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
+[^annex10-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 11*[^t-6]*
 
@@ -1336,7 +1336,7 @@ Anhang 11*[^t-6]*
 [^annex11-lvlu1-1]
 
 [^t-6]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^annex11-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
+[^annex11-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 12
 
@@ -1346,7 +1346,7 @@ Anhang 12
 
 [^annex12-lvlu1-1]
 
-[^annex12-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
+[^annex12-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 13
 
@@ -1356,7 +1356,7 @@ Anhang 13
 
 [^annex13-lvlu1-1]
 
-[^annex13-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
+[^annex13-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 14*[^t-7]*
 
@@ -1366,8 +1366,8 @@ Anhang 14*[^t-7]*
 
 [^annex14-lvlu1-1]
 
-[^t-7]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^annex14-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
+[^t-7]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)) und Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18.00 Uhr ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
+[^annex14-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 15*[^t-8]*
 
@@ -1378,7 +1378,7 @@ Anhang 15*[^t-8]*
 [^annex15-lvlu1-1]
 
 [^t-8]: Eingefügt durch Ziff. II Abs. 2 der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^annex15-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
+[^annex15-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 16*[^t-9]*
 
@@ -1957,21 +1957,23 @@ Anhang 20*[^t-13]*
 
 ## Wirtschaftlich bedeutende Güter
 
-[^t-13]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^t-13]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Fassung gemäss Ziff. I Abs. 2 der V des WBF vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18.00 Uhr ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
 
 <table>
 <tr><th></th><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
-<tr><td></td><td>0306</td><td>Krebstiere, auch ohne Panzer, lebend, frisch, gekühlt, gefroren, getrocknet, gesalzen oder in Salzlake; Krebstiere, auch ohne Panzer, geräuchert, auch vor oder während der Räucherung gekocht; Krebstiere in ihrem Panzer, in Wasser oder Dampf gekocht, auch gekühlt, gefroren, getrocknet, gesalzen oder in Salzlake</td></tr>
+<tr><td></td><td>0306</td><td>Krebstiere, auch ohne Panzer, lebend, frisch, gekühlt, gefroren, getrocknet, gesalzen oder in Salzlake; Krebstiere, auch ohne Panzer, geräuchert, auch vor oder während des Räucherns gegart; Krebstiere in ihrem Panzer, in Wasser oder Dampf gekocht, auch gekühlt, gefroren, getrocknet, gesalzen oder in Salzlake</td></tr>
 <tr><td></td><td>1604 31</td><td>Kaviar</td></tr>
 <tr><td></td><td>1604 32</td><td>Kaviarersatz</td></tr>
+<tr><td></td><td>2208</td><td>Ethylalkohol, nicht denaturiert, mit einem Alkoholgehalt von weniger als 80 % Vol; Branntwein, Likör und andere Spirituosen:</td></tr>
+<tr><td></td><td>2303</td><td>Rückstände aus der Stärkegewinnung und ähnliche Rückstände, ausgelaugte Rübenschnitzel, Bagasse und andere Abfälle aus der Zuckergewinnung, Treber, Schlempen und Abfälle aus Brauereien oder Brennereien, auch in Form von Pellets</td></tr>
 <tr><td></td><td>2523</td><td>Zement (einschliesslich Zementklinker), auch gefärbt</td></tr>
 <tr><td>ex</td><td>2825</td><td>Hydrazin und Hydroxylamin und ihre anorganischen Salze; andere anorganische Basen; andere Metalloxide, -hydroxide und -peroxide, ausgenommen solche der Nummern 2825 20 und 2825 30</td></tr>
-<tr><td>ex</td><td>2835</td><td>Phosphinate (Hypophosphite), Phosphonate (Phosphite) und Phosphate; Polyphosphate, auch chemisch nicht einheitlich, ausgenommen solche der Nummer 2835 26</td></tr>
+<tr><td>ex</td><td>2835</td><td>Phosphinate (Hypophosphite), Phosphonate (Phosphite) und Phosphate; Polyphosphate, auch chemisch einheitlich, ausgenommen solche der Nummer 2835 26</td></tr>
 <tr><td>ex</td><td>2901</td><td>Acyclische Kohlenwasserstoffe, ausgenommen solche der Nummer 2901 10</td></tr>
 <tr><td></td><td>2902</td><td>Cyclische Kohlenwasserstoffe</td></tr>
 <tr><td>ex</td><td>2905</td><td>Acyclische Alkohole und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate, ausgenommen solche der Nummer 2905 11</td></tr>
 <tr><td></td><td>2907</td><td>Phenole; Phenolalkohole</td></tr>
-<tr><td></td><td>2909</td><td>Ether, Etheralkohole, Etherphenole, Etherphenolalkohole, Alkoholperoxide, Etherperoxide, Acetalperoxide und Halbacetalperoxide, Ketonperoxide (auch chemisch nicht einheitlich), und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate:</td></tr>
+<tr><td></td><td>2909</td><td>Ether, Etheralkohole, Etherphenole, Etheralkoholphenole, Alkoholperoxide, Etherperoxide, Acetal- und Halbacetalperoxide, Ketonperoxide (auch chemisch nicht einheitlich); ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate</td></tr>
 <tr><td></td><td>3104 20</td><td>Kaliumchlorid</td></tr>
 <tr><td></td><td>3105 20</td><td>Mineralische oder chemische Düngemittel, die drei düngenden Stoffe Stickstoff, Phosphor und Kalium enthaltend</td></tr>
 <tr><td></td><td>3105 60</td><td>Mineralische oder chemische Düngemittel, die beiden düngenden Stoffe Phosphor und Kalium enthaltend</td></tr>
@@ -1979,18 +1981,18 @@ Anhang 20*[^t-13]*
 <tr><td></td><td>3902</td><td>Polymere des Propylens oder anderer Olefine, in Primärformen</td></tr>
 <tr><td></td><td>4011</td><td>Neue Luftreifen, aus Kautschuk</td></tr>
 <tr><td></td><td>44</td><td>Holz, Holzkohle und Holzwaren</td></tr>
-<tr><td></td><td>4705</td><td>Halbstoffe aus Holz, mittels einer kombinierten mechanischen und chemischen Behandlung erzeugt</td></tr>
-<tr><td></td><td>4804</td><td>Kraftpapier und Kraftpappe, weder gestrichen noch überzogen, in Rollen oder Bogen, andere als solche der Nrn. 4802 oder 4803</td></tr>
+<tr><td></td><td>4705</td><td>Halbstoffe aus Holz, durch Kombination aus mechanischem oder chemischem Aufbereitungsverfahren hergestellt</td></tr>
+<tr><td></td><td>4804</td><td>Kraftpapier und Kraftpappe, weder gestrichen noch überzogen, in Rollen oder Bogen, andere als solche der Nummer 4802 oder 4803</td></tr>
 <tr><td></td><td>6810</td><td>Waren aus Zement, Beton oder Kunststein, auch armiert</td></tr>
 <tr><td></td><td>7005</td><td>Float-Glas und auf einer oder beiden Seiten geschliffenes oder poliertes Glas, in Platten oder Tafeln, auch mit absorbierender, reflektierender oder nicht reflektierender Schicht, aber nicht anders bearbeitet</td></tr>
 <tr><td></td><td>7007</td><td>Sicherheitsglas, aus gehärtetem Glas oder mehrschichtigem Glas (Verbundglas)</td></tr>
 <tr><td></td><td>7010</td><td>Ballons, Korbflaschen, Flaschen, Flakons, Einmachgläser, Töpfe, Verpackungsröhrchen, Ampullen und andere Behältnisse zu Transport- oder Verpackungszwecken, aus Glas; Konservengläser; Stöpsel, Deckel und andere Verschlüsse, aus Glas</td></tr>
-<tr><td></td><td>7019</td><td>Glasfasern (einschliesssslich Glaswolle) und Waren daraus (z. B. Garne, Glasseidenstränge (Rovings), Gewebe)</td></tr>
-<tr><td></td><td>7106</td><td>Silber (einschliesslich vergoldetes oder platiniertes Silber) in Rohform oder in Form von Halbzeug oder Pulver</td></tr>
+<tr><td></td><td>7019</td><td>Glasfasern (einschliesslich Glaswolle) und Waren daraus (z. B. Garne, Glasseidenstränge (Rovings), Gewebe):</td></tr>
+<tr><td></td><td>7106</td><td>Silber (einschliesslich vergoldetes oder platiniertes Silber), in Rohform oder als Halbzeug oder Pulver</td></tr>
 <tr><td></td><td>7606</td><td>Bleche und Bänder, aus Aluminium, mit einer Dicke von mehr als 0,2 mm</td></tr>
 <tr><td></td><td>7801</td><td>Blei in Rohform</td></tr>
-<tr><td>ex</td><td>8411</td><td>Turbostrahltriebwerke, Turbopropellertriebwerke und andere Gasturbinen, ausgenommen Teile für Turbostrahltriebwerke oder Turbopropellertriebwerken der Nummer 8411 91</td></tr>
-<tr><td></td><td>8431</td><td>Teile, erkennbar als ausschliesslich oder hauptsächlich für Maschinen oder Apparate der Nrn. 8425 bis 8430 bestimmt</td></tr>
+<tr><td>ex</td><td>8411</td><td>Turbo-Strahltriebwerke, Turbo-Propellertriebwerke und andere Gasturbinen, ausgenommen Teile von Turbo-Strahltriebwerken und Turbo-Propellertriebwerken der Nummer 8411 91</td></tr>
+<tr><td></td><td>8431</td><td>Teile, erkennbar ausschliesslich oder hauptsächlich für Maschinen, Apparate und Geräte der Positionen 8425–8430 bestimmt</td></tr>
 <tr><td></td><td>8901</td><td>Passagierschiffe, Schiffe für Kreuzfahrten, Fährschiffe, Frachtschiffe, Lastkähne und ähnliche Schiffe zum Befördern von Personen oder Waren</td></tr>
 <tr><td></td><td>8904</td><td>Schlepper und Schubschiffe</td></tr>
 <tr><td></td><td>8905</td><td>Leuchtschiffe, Feuerlöschschiffe, Schwimmbagger, Schwimmkrane und andere Schiffe, bei denen das Fahren im Vergleich zu ihrem Verwendungszweck von untergeordneter Bedeutung ist; Schwimmdocks; schwimmende oder unter Wasser absenkbare Bohr- oder Förderplattformen</td></tr>
@@ -2040,4 +2042,4 @@ Anhang 23*[^t-16]*
 [^annex23-lvlu1-1]
 
 [^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^annex23-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
+[^annex23-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.

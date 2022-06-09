@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2022-05-29
+version: 2022-06-10
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220529/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220529-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220529/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220610/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220610-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220610/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 29 maggio 2022)
+del 4 marzo 2022 (Stato 10 giugno 2022) (Stato 10 giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -729,7 +729,7 @@ A decorrere dal 12 marzo 2022 è vietato fornire servizi specializzati di messag
 
 #### Art. 28
 
-**[Divieto concernente le banconote](https://www.fedlex.admin.ch/eli/cc/2022/151/it)**[^28-1]
+**Divieto concernente le banconote**[^28-1]
 
 <sup>1</sup> Sono vietati la vendita, la fornitura, l’esportazione e il transito di banconote denominate in franchi svizzeri o nella valuta ufficiale di uno Stato membro dell’UE a qualsiasi persona fisica o giuridica, qualsiasi organizzazione o qualsiasi impresa nella Federazione Russa, compresi il governo e la Banca centrale della Federazione Russa, o per un uso nella Federazione Russa.
 
@@ -998,8 +998,8 @@ Allegato 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Aggiornato dal n. II cpv. 1 degli O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)) e del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^annex1-lvlu1-1]: L’allegato non è pubblicato né nella RU né nella RS. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/ Embarghi.
+[^t-1]: Aggiornato dai n. II cpv. 1 delle O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)) e dal n. I cpv. 1 dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle 18.00 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
+[^annex1-lvlu1-1]: L’all. non è pubblicato né nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
 
 Allegato 2*[^t-2]*
 
@@ -1009,8 +1009,8 @@ Allegato 2*[^t-2]*
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Aggiornato dal n. II cpv. 1 dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^annex2-lvlu1-1]: L’allegato non è pubblicato né nella RU né nella RS. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/ Embarghi.
+[^t-2]: Aggiornato dal n. II cpv. 1 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)) e dal n. I cpv. 1 dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle 18.00 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
+[^annex2-lvlu1-1]: L’all. non è pubblicato né nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
 
 Allegato 3
 
@@ -1299,8 +1299,8 @@ Allegato 8*[^t-5]*
 
 [^annex8-lvlu1-1]
 
-[^t-5]: Aggiornato dai n. I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)) e del 3 mag. 2022, in vigore dal 4 mag. 2022 alle ore 18.00 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)).
-[^annex8-lvlu1-1]: L’all. non è pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
+[^t-5]: Aggiornato dai n. I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)) e dal n. I cpv. 1 dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle 18.00 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
+[^annex8-lvlu1-1]: L’all. non è pubblicato né nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
 
 Allegato 9
 
@@ -1310,7 +1310,7 @@ Allegato 9
 
 [^annex9-lvlu1-1]
 
-[^annex9-lvlu1-1]: L’allegato non è pubblicato né nella RU né nella RS. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/ Embarghi.
+[^annex9-lvlu1-1]: L’all. non è pubblicato né nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
 
 Allegato 10
 
@@ -1320,7 +1320,7 @@ Allegato 10
 
 [^annex10-lvlu1-1]
 
-[^annex10-lvlu1-1]: L’allegato non è pubblicato né nella RU né nella RS. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/ Embarghi.
+[^annex10-lvlu1-1]: L’all. non è pubblicato né nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
 
 Allegato 11*[^t-6]*
 
@@ -1331,7 +1331,7 @@ Allegato 11*[^t-6]*
 [^annex11-lvlu1-1]
 
 [^t-6]: Aggiornato dal n. II cpv. 1 dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^annex11-lvlu1-1]: L’allegato non è pubblicato né nella RU né nella RS. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/ Embarghi.
+[^annex11-lvlu1-1]: L’all. non è pubblicato né nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
 
 Allegato 12
 
@@ -1341,7 +1341,7 @@ Allegato 12
 
 [^annex12-lvlu1-1]
 
-[^annex12-lvlu1-1]: L’allegato non è pubblicato né nella RU né nella RS. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/ Embarghi.
+[^annex12-lvlu1-1]: L’all. non è pubblicato né nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
 
 Allegato 13
 
@@ -1351,9 +1351,9 @@ Allegato 13
 
 [^annex13-lvlu1-1]
 
-[^annex13-lvlu1-1]: L’allegato non è pubblicato né nella RU né nella RS. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/ Embarghi.
+[^annex13-lvlu1-1]: L’all. non è pubblicato né nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
 
-Allegato 14
+Allegato 14[^t-7]
 
 (art. 27)
 
@@ -1361,9 +1361,10 @@ Allegato 14
 
 [^annex14-lvlu1-1]
 
-[^annex14-lvlu1-1]: L’allegato non è pubblicato né nella RU né nella RS. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/ Embarghi.
+[^t-7]: Aggiornato dal n. I cpv. 1 dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle 18.00 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
+[^annex14-lvlu1-1]: L’all. non è pubblicato né nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
 
-Allegato 15*[^t-7]*
+Allegato 15*[^t-8]*
 
 (art. 24*a* cpv. 1 lett. a)
 
@@ -1371,16 +1372,16 @@ Allegato 15*[^t-7]*
 
 [^annex15-lvlu1-1]
 
-[^t-7]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^annex15-lvlu1-1]: L’allegato non è pubblicato né nella RU né nella RS. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi.
+[^t-8]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^annex15-lvlu1-1]: L’all. non è pubblicato né nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
 
-Allegato 16*[^t-8]*
+Allegato 16*[^t-9]*
 
 (art. 9*a* cpv. 1)
 
 ## Beni e tecnologie per la navigazione marittima
 
-[^t-8]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^t-9]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
 Categoria VI –Materiale navale
 
@@ -1401,13 +1402,13 @@ Categoria VI –Materiale navale
 <tr><td>ex 8517</td><td>Apparecchi telefonici, compresi i telefoni intelligenti (smartphones) e gli altri telefoni per reti cellulari e per altre reti senza filo; altri apparecchi per l’emissione, per la trasmissione o la ricezione della voce, di immagini o di altri dati, compresi gli apparecchi per la comunicazione in una rete su filo o senza filo (come una rete locale o estesa), diversi da quelli delle voci 8443, 8525, 8527 o 8528 (parti comprese)</td></tr>
 </table>
 
-Allegato 17*[^t-9]*
+Allegato 17*[^t-10]*
 
 (art. 14*a* cpv. 1)
 
 ## Prodotti siderurgici
 
-[^t-9]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^t-10]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
 <table>
 <tr><th>Voce di tariffa doganale</th><th>Designazione</th></tr>
@@ -1460,13 +1461,13 @@ Allegato 17*[^t-9]*
 <tr><td>7306</td><td>Altri tubi e profilati cavi (per esempio, saldati, ribaditi, aggraffati o a lembi semplicemente avvicinati), di ferro o di acciaio</td></tr>
 </table>
 
-Allegato 18*[^t-10]*
+Allegato 18*[^t-11]*
 
 (art. 14*b* cpv. 1)
 
 ## Beni di lusso
 
-[^t-10]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta il n. II cpv. 2 dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^t-11]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta il n. II cpv. 2 dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore superiore a 300 franchi per articolo, salvo diversamente specificato in questo allegato.
 
@@ -1489,7 +1490,7 @@ Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore sup
 ### 3. Tartufi e relative preparazioni
 
 <table>
-<tr><td></td><td>Voce di tariffa doganale</td><td>Designazione</td></tr>
+<tr><th></th><th>Voce di tariffa doganale</th><th>Designazione</th></tr>
 <tr><td></td><td>0709 56 00</td><td>Tartufi</td></tr>
 <tr><td>ex</td><td>0710 80 90</td><td>Altri</td></tr>
 <tr><td>ex</td><td>0711 59 00</td><td>Altri</td></tr>
@@ -1537,7 +1538,7 @@ Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore sup
 ### 7. Pelletteria, selleria, articoli da viaggio, borsette e articoli simili di alta qualità
 
 <table>
-<tr><td></td><td>Voce di tariffa doganale</td><td>Designazione</td></tr>
+<tr><th></th><th>Voce di tariffa doganale</th><th>Designazione</th></tr>
 <tr><td></td><td>4201</td><td>Oggetti di selleria e finimenti per qualunque animale (compresi tirelle, guinzagli, ginocchielli, museruole, sottoselle, bisacce o fonde, mantelline per cani e articoli simili), di qualsiasi materia</td></tr>
 <tr><td></td><td>4202</td><td>Bauli, valigie e valigette, compresi i bauletti per oggetti da toeletta e le valigette portadocumenti, borse portacarte, cartelle, astucci o custodie per occhiali, binocoli, apparecchi fotografici, cineprese, strumenti musicali o armi e contenitori simili; borse da viaggio, borse isolanti per prodotti alimentari e bevande, borse per oggetti da toeletta, sacchi da montagna, borsette, borse per la spesa, portafogli, portamonete, portacarte, portasigarette, borse da tabacco, borse per utensili, borse per articoli sportivi, astucci per boccette o gioielli, scatole per cipria, scrigni per oggetti di oreficeria e contenitori simili, di cuoio o di pelli naturali o ricostituiti, di fogli di materie plastiche, di materie tessili, di fibra vulcanizzata o di cartone, oppure ricoperti totalmente o prevalentemente di dette materie o di carta</td></tr>
 <tr><td></td><td>4205 00</td><td>Altri lavori di cuoio o di pelli naturali o ricostituiti</td></tr>
@@ -1758,7 +1759,7 @@ Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore sup
 ### 16. Apparecchi elettrici/elettronici od ottici per la registrazione e la riproduzione di suoni e immagini di valore superiore a 1000 franchi
 
 <table>
-<tr><td></td><td>Voce di tariffa doganale</td><td>Designazione</td></tr>
+<tr><th></th><th>Voce di tariffa doganale</th><th>Designazione</th></tr>
 <tr><td>ex</td><td>8519</td><td>Apparecchi per la registrazione del suono; apparecchi per la riproduzione del suono; apparecchi per la registrazione e la riproduzione del suono</td></tr>
 <tr><td>ex</td><td>8521</td><td>Apparecchi per la videoregistrazione o la videoriproduzione, anche con incorporato un ricevitore di segnali videofonici</td></tr>
 <tr><td>ex</td><td>8527</td><td>Apparecchi riceventi per la radiodiffusione anche combinati, in uno stesso involucro, con un apparecchio per la registrazione o la riproduzione del suono o con un apparecchio di orologeria</td></tr>
@@ -1908,13 +1909,13 @@ Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore sup
 <tr><th></th><th>9015 10 00</th><th>Telemetri</th></tr>
 </table>
 
-Allegato 19*[^t-11]*
+Allegato 19*[^t-12]*
 
 (art. 9*b* cpv. 1)
 
 ## Carboturbi e additivi per carburanti
 
-[^t-11]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^t-12]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 <table>
 <tr><th></th><th>Voce di tariffa doganale</th><th>Denominazione</th></tr>
@@ -1946,31 +1947,33 @@ Allegato 19*[^t-11]*
 <tr><td>ex</td><td>3811 90</td><td>Miglioratori della stabilità termica per altri liquidi adoperati per gli stessi scopi degli oli minerali</td></tr>
 </table>
 
-Allegato 20*[^t-12]*
+Allegato 20*[^t-13]*
 
 (art. 14*c* cpv. 1)
 
 ## Beni economicamente importanti
 
-[^t-12]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^t-13]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giust il n. I cpv. 2 dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle 18.00 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
 
 <table>
 <tr><th></th><th>Voce di tariffa doganale</th><th>Nome del prodotto</th></tr>
 <tr><td></td><td>0306</td><td>Crostacei, anche sgusciati, vivi, freschi, refrigerati, congelati, secchi, salati o in salamoia; crostacei affumicati, anche sgusciati, anche cotti prima o durante l’affumicatura; crostacei non sgusciati, cotti in acqua o al vapore, anche refrigerati, congelati, secchi, salati o in salamoia</td></tr>
 <tr><td></td><td>1604 31</td><td>Caviale</td></tr>
-<tr><td></td><td>1604 32</td><td>Succedanei di caviale</td></tr>
+<tr><td></td><td>1604 32</td><td>Succedanei del caviale</td></tr>
+<tr><td></td><td>2208</td><td>Alcole etilico, non denaturato con titolo alcolometrico volumico inferiore a 80 % vol; acquaviti, liquori e altre bevande contenenti alcole di distillazione</td></tr>
+<tr><td></td><td>2303</td><td>Residui della fabbricazione degli amidi e residui simili, polpe di barbabietole, cascami di canne da zucchero ed altri cascami della fabbricazione dello zucchero, avanzi della fabbricazione della birra o della distillazione degli alcoli, anche agglomerati in forma di pellets</td></tr>
 <tr><td></td><td>2523</td><td>Cementi idraulici (compresi i cementi non polverizzati detti «clinkers»), anche colorati</td></tr>
 <tr><td>ex</td><td>2825</td><td>Idrazina e idrossilammina e loro sali inorganici; altre basi inorganiche; altri ossidi, idrossidi e perossidi di metalli, a eccezione delle voci 2825 20 e 2825 30</td></tr>
 <tr><td>ex</td><td>2835</td><td>Fosfinati (ipofosfiti), fosfonati (fosfiti) e fosfati; polifosfati, di costituzione chimica definita o no, a eccezione della voce 2835 26</td></tr>
-<tr><td>ex</td><td>2901</td><td>Idrocarburi aciclici diversi da dalla voce 2901 10</td></tr>
+<tr><td>ex</td><td>2901</td><td>Idrocarburi aciclici, diversi da dalla voce 2901 10</td></tr>
 <tr><td></td><td>2902</td><td>Idrocarburi ciclici</td></tr>
 <tr><td>ex</td><td>2905</td><td>Alcoli aciclici e loro derivati alogenati, solfonati, nitrati o nitrosi, a eccezione della voce 2905 11</td></tr>
 <tr><td></td><td>2907</td><td>Fenoli; fenoli-alcoli</td></tr>
-<tr><td></td><td>2909</td><td>Eteri, alcoli eteri, fenoli eteri, alcoli fenoli eteri, perossidi di alcool, perossidi di etere, perossidi di acetale e perossidi di emiacetale, perossidi di chetoni (chimicamente definiti o meno), e loro derivati alogenati, solfonati, nitrati o nitrosi:</td></tr>
+<tr><td></td><td>2909</td><td>Eteri, eteri-alcoli, eteri-fenoli, eteri-alcoli-fenoli, perossidi di alcoli, perossidi di eteri, perossidi di acetali ed emiacetali, perossidi di chetoni (di costituzione chimica definita o no) e loro derivati alogenati, solfonati, nitrati o nitrosi</td></tr>
 <tr><td></td><td>3104 20</td><td>Cloruro di potassio</td></tr>
 <tr><td></td><td>3105 20</td><td>Concimi minerali o chimici contenenti i tre elementi fertilizzanti: azoto, fosforo e potassio</td></tr>
 <tr><td></td><td>3105 60</td><td>Concimi minerali o chimici contenenti i due elementi fertilizzanti fosforo e potassio</td></tr>
-<tr><td>ex</td><td>3105 90</td><td>Altri concimi contenenti cloruro di potassio</td></tr>
+<tr><td>ex</td><td>310590</td><td>Altri concimi contenenti cloruro di potassio</td></tr>
 <tr><td></td><td>3902</td><td>Polimeri di propilene o di altre olefine, in forme primarie</td></tr>
 <tr><td></td><td>4011</td><td>Pneumatici nuovi, di gomma</td></tr>
 <tr><td></td><td>44</td><td>Legno, carbone di legna e lavori di legno</td></tr>
@@ -1979,26 +1982,26 @@ Allegato 20*[^t-12]*
 <tr><td></td><td>6810</td><td>Lavori di cemento, di calcestruzzo o di pietra artificiale, anche armati</td></tr>
 <tr><td></td><td>7005</td><td>Vetro flottato e levigato o smerigliato su una o entrambe le facce, in lastre o in fogli, anche con strato assorbente, riflettente o non riflettente, ma non altrimenti lavorato</td></tr>
 <tr><td></td><td>7007</td><td>Vetro di sicurezza, costituito da vetri temperati o formati da fogli aderenti fra loro</td></tr>
-<tr><td></td><td>7010</td><td>Damigiane, bottiglie, boccette, barattoli, vasi, imballaggi tubolari, ampolle e altri recipienti per il trasporto o l’imballaggio, di vetro; barattoli per conserve, di vetro; tappi, coperchi e altri dispositivi di chiusura, di vetro</td></tr>
-<tr><td></td><td>7019</td><td>Fibre di vetro (compresa la lana di vetro) e lavori di queste materie (per esempio: filati, filati accoppiati in parallelo senza torsione (rovings), tessuti):</td></tr>
-<tr><td></td><td>7106</td><td>Argento (compreso l’argento dorato e l’argento platinato), greggio o semilavorato, o in polvere</td></tr>
+<tr><td></td><td>7010</td><td>Damigiane, bottiglie, boccette, barattoli, vasi, imballaggi tubolari, ampolle ed altri recipienti per il trasporto o l’imballaggio, di vetro; barattoli per conserve, di vetro; tappi, coperchi e altri dispositivi di chiusura, di vetro</td></tr>
+<tr><td></td><td>7019</td><td>Fibre di vetro (compresa la lana di vetro) e lavori di queste materie (per esempio: filati, filati accoppiati in parallelo senza torsione (rovings), tessuti)</td></tr>
+<tr><td></td><td>7106</td><td>Argento (compreso l’argento dorato e l’argento platinato) greggio o semilavorato, o in polvere</td></tr>
 <tr><td></td><td>7606</td><td>Lamiere e nastri di alluminio, di spessore superiore a 0,2 mm</td></tr>
 <tr><td></td><td>7801</td><td>Piombo greggio</td></tr>
-<tr><td>ex</td><td>8411</td><td>Turboreattori, turbopropulsori e altre turbine a gas, escluse le parti per turboreattori o turbopropulsori della voce 8411 91</td></tr>
-<tr><td></td><td>8431</td><td>Parti riconoscibili come destinate, esclusivamente o principalmente, alle macchine o apparecchi delle voci da 8425 a 8430</td></tr>
+<tr><td>ex</td><td>8411</td><td>Turboreattori, turbopropulsori e altre turbine a gas, esclusi pezzi di turboreattori o di turboeliche della voce 8411 91</td></tr>
+<tr><td></td><td>8431</td><td>Parti riconoscibili come destinate esclusivamente o principalmente alle macchine o apparecchi delle voci da 8425 a 8430</td></tr>
 <tr><td></td><td>8901</td><td>Piroscafi, navi da crociera, navi traghetto, navi mercantili, maone e navi simili per il trasporto di persone o di merci</td></tr>
 <tr><td></td><td>8904</td><td>Rimorchiatori e spintori</td></tr>
-<tr><td></td><td>8905</td><td>Navi-faro, navi-pompa, draghe, pontoni-gru e altri natanti la cui navigazione ha carattere soltanto accessorio rispetto alla loro funzione principale; bacini galleggianti; piattaforme di perforazione o di sfruttamento, galleggianti o sommergibili</td></tr>
+<tr><td></td><td>8905</td><td>Navi-faro, navi-pompa, draghe, pontoni-gru ed altri natanti la cui navigazione ha carattere soltanto accessorio rispetto alla loro funzione principale; bacini galleggianti; piattaforme di perforazione o di sfruttamento, galleggianti o sommergibili</td></tr>
 <tr><td></td><td>9403</td><td>Altri mobili e loro parti</td></tr>
 </table>
 
-Allegato 21*[^t-13]*
+Allegato 21*[^t-14]*
 
 (art. 14*c* cpv. 3)
 
 ## Contingenti di importazione di determinate merci
 
-[^t-13]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^t-14]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 <table>
 <tr><td>Voce di tariffa doganale</td><td>Quantità</td><td>Periodo</td></tr>
@@ -2006,13 +2009,13 @@ Allegato 21*[^t-13]*
 <tr><td>3105 20, 3105 60, 3105 90</td><td>1636 tonnellate</td><td>Dal 29 luglio al 28 luglio dell’anno successivo</td></tr>
 </table>
 
-Allegato 22*[^t-14]*
+Allegato 22*[^t-15]*
 
 (art. 12 cpv. 1)
 
 ## Combustibili fossili solidi
 
-[^t-14]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^t-15]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 <table>
 <tr><td>Voce di tariffa doganale</td><td>Denominazione</td></tr>
@@ -2026,7 +2029,7 @@ Allegato 22*[^t-14]*
 <tr><td>2708</td><td>Pece e coke di pece di catrame di carbon fossile o di altri catrami minerali</td></tr>
 </table>
 
-Allegato 23*[^t-15]*
+Allegato 23*[^t-16]*
 
 (art. 11*a* cpv. 1)
 
@@ -2034,5 +2037,5 @@ Allegato 23*[^t-15]*
 
 [^annex23-lvlu1-1]
 
-[^t-15]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^annex23-lvlu1-1]: L’allegato non è pubblicato né nella RU né nella RS. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi.
+[^t-16]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^annex23-lvlu1-1]: L’all. non è pubblicato né nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
