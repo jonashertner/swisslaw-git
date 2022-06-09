@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordinanza del 16 marzo 2022 che istituisce provvedimenti nei confronti della Bielorussia
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: it
-version: 2022-04-27
+version: 2022-06-10
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220427/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220427-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220427/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220610/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220610-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220610/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Bielorussia
 
-del 16 marzo 2022 (Stato 27 aprile 2022)
+del 16 marzo 2022 (Stato 10 giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -626,7 +626,7 @@ Allegato 3
 
 [^annex3-lvlu1-1]
 
-[^annex3-lvlu1-1]: L’allegato non è pubblicato né nella RU né nella RS. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi &gt; Sanzioni della Svizzera.
+[^annex3-lvlu1-1]: Non pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
 
 Allegato 4
 
@@ -708,7 +708,7 @@ Allegato 4
 <tr><td>8548</td><td>Cascami ed avanzi di pile, di batterie di pile e di accumulatori elettrici; pile e batterie di pile elettriche fuori uso e accumulatori elettrici fuori uso; parti elettriche di macchine o apparecchi, non nominate né comprese altrove nel capitolo 85 Prodotti a carattere riservato del capitolo 85; merci del capitolo 85 trasportate per posta o pacco postale (extra)/codice ricostituito per la diffusione statistica</td></tr>
 </table>
 
-Allegato 5
+Allegato 5*[^t-1]*
 
 (art. 7 cpv. 3)
 
@@ -716,7 +716,8 @@ Allegato 5
 
 [^annex5-lvlu1-1]
 
-[^annex5-lvlu1-1]: L’allegato non è pubblicato né nella RU né nella RS. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi &gt; Sanzioni della Svizzera.
+[^t-1]: Aggiorno dal n. I dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle ore 18.00 ([RU 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
+[^annex5-lvlu1-1]: Non pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
 
 Allegato 6
 
@@ -809,7 +810,7 @@ Allegato 12
 <tr><td>4011</td><td>Pneumatici nuovi, di gomma</td></tr>
 </table>
 
-Allegato 13
+Allegato 13*[^t-2]*
 
 (art. 12 cpv. 1 lett. a e 25 cpv. 1)
 
@@ -817,7 +818,8 @@ Allegato 13
 
 [^annex13-lvlu1-1]
 
-[^annex13-lvlu1-1]: L’allegato non è pubblicato né nella RU né nella RS. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi &gt; Sanzioni della Svizzera
+[^t-2]: Aggiorno dal n. I dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle ore 18.00 ([RU 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
+[^annex13-lvlu1-1]: Non pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
 
 Allegato 14
 
@@ -827,9 +829,9 @@ Allegato 14
 
 [^annex14-lvlu1-1]
 
-[^annex14-lvlu1-1]: L’allegato non è pubblicato né nella RU né nella RS. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi &gt; Sanzioni della Svizzera
+[^annex14-lvlu1-1]: Non pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
 
-Allegato 15
+Allegato 15*[^t-3]*
 
 (art. 23)
 
@@ -837,4 +839,5 @@ Allegato 15
 
 [^annex15-lvlu1-1]
 
-[^annex15-lvlu1-1]: L’allegato non è pubblicato né nella RU né nella RS. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/ Embarghi &gt; Sanzioni della Svizzera.
+[^t-3]: Aggiorno dal n. I dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle ore 18.00 ([RU 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
+[^annex15-lvlu1-1]: Non pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.

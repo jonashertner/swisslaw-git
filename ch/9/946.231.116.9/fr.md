@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordonnance du 16 mars 2022 instituant des mesures à l’encontre du Bélarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: fr
-version: 2022-04-27
+version: 2022-06-10
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220427/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220427-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220427/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220610/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220610-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220610/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Bélarus
 
-du 16 mars 2022 (Etat le 27 avril 2022)
+du 16 mars 2022 (Etat le 10 juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -628,7 +628,7 @@ Annexe 3
 
 [^annex3-lvlu1-1]
 
-[^annex3-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^annex3-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur www.seco.admin.ch &gt; Économie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
 
 Annexe 4
 
@@ -710,7 +710,7 @@ Annexe 4
 <tr><td>8549</td><td>Déchets et débris de piles, de batteries de piles et d’accumulateurs électriques; piles et batteries de piles électriques hors d’usage et accumulateurs électriques hors d’usage; parties électriques de machines ou d’appareils, non dénommées ni comprises ailleurs dans le chap. 85 Produits confidentiels du chap. 85; marchandises du chap. 85 transportées par la poste ou par colis postaux (extra)/code reconstitué pour la diffusion statistique</td></tr>
 </table>
 
-Annexe 5
+Annexe 5*[^t-1]*
 
 (art. 7, al. 3)
 
@@ -718,7 +718,8 @@ Annexe 5
 
 [^annex5-lvlu1-1]
 
-[^annex5-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^t-1]: Mise à jour par le ch. I de l’O du DEFR du 10 juin 2022, en vigueur depuis le 10 juin 2022 à 18 heures ([RO 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
+[^annex5-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur www.seco.admin.ch &gt; Économie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
 
 Annexe 6
 
@@ -811,7 +812,7 @@ Annexe 12
 <tr><td>4011</td><td>Pneumatiques neufs, en caoutchouc</td></tr>
 </table>
 
-Annexe 13
+Annexe 13*[^t-2]*
 
 (art. 12, al. 1, let. a, et 25, al. 1)
 
@@ -819,7 +820,8 @@ Annexe 13
 
 [^annex13-lvlu1-1]
 
-[^annex13-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^t-2]: Mise à jour par le ch. I de l’O du DEFR du 10 juin 2022, en vigueur depuis le 10 juin 2022 à 18 heures ([RO 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
+[^annex13-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur www.seco.admin.ch &gt; Économie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
 
 Annexe 14
 
@@ -829,9 +831,9 @@ Annexe 14
 
 [^annex14-lvlu1-1]
 
-[^annex14-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^annex14-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur www.seco.admin.ch &gt; Économie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
 
-Annexe 15
+Annexe 15*[^t-3]*
 
 (art. 23)
 
@@ -839,4 +841,5 @@ Annexe 15
 
 [^annex15-lvlu1-1]
 
-[^annex15-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^t-3]: Mise à jour par le ch. I de l’O du DEFR du 10 juin 2022, en vigueur depuis le 10 juin 2022 à 18 heures ([RO 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
+[^annex15-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur www.seco.admin.ch &gt; Économie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.

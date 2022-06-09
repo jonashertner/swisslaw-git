@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Verordnung vom 16. März 2022 über Massnahmen gegenüber Belarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: de
-version: 2022-04-27
+version: 2022-06-10
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220427/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220427-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220427/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220610/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220610-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220610/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Belarus
 
-vom 16. März 2022 (Stand am 27. April 2022)
+vom 16. März 2022 (Stand am 10. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -708,7 +708,7 @@ Anhang 4
 <tr><td>8549</td><td>Abfälle und Schrott von elektrischen Primärelementen, Primärbatterien und Akkumulatoren; ausgebrauchte elektrische Primärelemente, Primärbatterien und Akkumulatoren; elektrische Teile von Maschinen, Apparaten oder Geräten, in Kapitel 85 anderweit weder genannt noch inbegriffen Vertrauliche Produkte des Kapitels 85; Waren des Kapitels 85, die als Post- oder Paketpostsendung (extra) versandt werden/zusammengesetzter Kode zur Verbreitung von Statistiken</td></tr>
 </table>
 
-Anhang 5
+Anhang 5*[^t-1]*
 
 (Art. 7 Abs. 3)
 
@@ -716,6 +716,7 @@ Anhang 5
 
 [^annex5-lvlu1-1]
 
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18.00 Uhr ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
 [^annex5-lvlu1-1]: Dieser Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 6
@@ -809,7 +810,7 @@ Anhang 12
 <tr><td>4011</td><td>Neue Luftreifen, aus Kautschuk</td></tr>
 </table>
 
-Anhang 13
+Anhang 13*[^t-2]*
 
 (Art. 12 Abs. 1 Bst. a und 25 Abs. 1)
 
@@ -817,6 +818,7 @@ Anhang 13
 
 [^annex13-lvlu1-1]
 
+[^t-2]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18.00 Uhr ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
 [^annex13-lvlu1-1]: Dieser Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 14
@@ -829,7 +831,7 @@ Anhang 14
 
 [^annex14-lvlu1-1]: Dieser Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
-Anhang 15
+Anhang 15*[^t-3]*
 
 (Art. 23)
 
@@ -837,4 +839,5 @@ Anhang 15
 
 [^annex15-lvlu1-1]
 
+[^t-3]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18.00 Uhr ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
 [^annex15-lvlu1-1]: Dieser Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
