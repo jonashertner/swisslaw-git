@@ -4,11 +4,11 @@ title: "Verordnung vom 29. April 2015 über die Bekämpfung übertragbarer Krank
 short: EpV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: de
-version: 2022-05-20
+version: 2022-06-11
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220520/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220520-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220520/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220611/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220611-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220611/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220520/de"
 
 (Epidemienverordnung, EpV)
 
-vom 29. April 2015 (Stand am 20. Mai 2022)
+vom 29. April 2015 (Stand am 11. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -952,6 +952,26 @@ Mit dem Betrag nach Absatz 4 sind sämtliche Leistungen im Zusammenhang mit der 
 <sup>2</sup> Artikel 64*c* Absätze 3–7 ist anwendbar.
 
 [^64d-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021 ([AS 2021 648](https://fedlex.data.admin.ch/eli/oc/2021/648)). Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
+
+#### Art. 64d<sup>bis</sup>
+
+**Selbstzahlersystem bei Covid-19-Impfungen**[^64dbis-1]
+
+<sup>1</sup> Erfolgt die Abgabe von nach Artikel 44 Absatz 1 EpG beschafften Impfstoffen für Covid-19-Impfungen, einschliesslich Auffrischimpfungen, ohne behördliche Empfehlung und dient sie nicht der Bekämpfung übertragbarer Krankheiten, so kann der Bund der Bevölkerung die Impfstoffe gegen Bezahlung zur Verfügung stellen.
+
+<sup>2</sup> Die Impfstellen entrichten dem Bund eine Pauschale für Impfstoff, Logistik, Impfmaterial und zusätzliche administrative Kosten. Die Pauschale beträgt 26 Franken pro Impfung.
+
+<sup>3</sup> Die Impfstellen senden der zuständigen kantonalen Behörde jeweils per Ende Juni, Ende September und Ende Dezember eine Aufstellung über die nach Absatz 1 durchgeführten Impfungen.
+
+<sup>4</sup> Die zuständige kantonale Behörde plausibilisiert die Aufstellung aufgrund der an die Impfstelle gelieferten Dosen, prüft sie auf ihre Vollständigkeit und sendet sie innerhalb der ersten 10 Arbeitstage des der Abrechnungsperiode folgenden Monats elektronisch an die gemeinsame Einrichtung.
+
+<sup>5</sup> Die gemeinsame Einrichtung stellt den Impfstellen für jede Abrechnungsperiode bis zum 20. Arbeitstag des der Abrechnungsperiode folgenden Monats eine Rechnung für die Pauschale nach Absatz 2 zu.
+
+<sup>6</sup> Sie überweist dem BAG nach Eingang der Zahlungen der Impfstellen quartalsweise den Gesamtbetrag.
+
+<sup>7</sup> Das BAG vergütet der gemeinsamen Einrichtung deren Verwaltungskosten gemäss Artikel 64*b* Absatz 6.
+
+[^64dbis-1]: Eingefügt durch Ziff. I der V vom 10. Juni 2022, in Kraft vom 11. Juni 2022 bis zum 31. Dez. 2022 ([AS 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)).
 
 #### Art. 64e
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 29 avril 2015 sur la lutte contre les maladies transmissib
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: fr
-version: 2022-05-20
+version: 2022-06-11
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220520/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220520-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220520/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220611/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220611-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220611/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220520/fr"
 
 (Ordonnance sur les épidémies, OEp)
 
-du 29 avril 2015 (Etat le 20 mai 2022)
+du 29 avril 2015 (Etat le 11 juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -956,6 +956,26 @@ Le montant visé à l’al. 4 couvre l’ensemble des prestations liées à la v
 <sup>2</sup> L’art. 64*c*, al. 3 à 7, s’applique.
 
 [^64d-1]: Introduit par le ch. I de l’O du 3 nov. 2021 ([RO 2021 648](https://fedlex.data.admin.ch/eli/oc/2021/648)). Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022 ([RO 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
+
+#### Art. 64d<sup>bis</sup>
+
+**Système d’auto-prise en charge des coûts des vaccinations contre le COVID-19**[^64dbis-1]
+
+<sup>1</sup> Si la remise des vaccins destinés à la vaccination contre le COVID-19 acquis conformément à l’art. 44, al. 1, LEp, y compris les doses de rappel, est effectuée hors recommandation des autorités et que l’objectif n’est pas de lutter contre les maladies transmissibles, la Confédération peut, contre paiement, les mettre à la disposition de la population.
+
+<sup>2</sup> Les centres de vaccination versent un montant forfaitaire à la Confédération pour le vaccin, la logistique, le matériel de vaccination et les coûts administratifs supplémentaires. Le montant forfaitaire s’élève à 26 francs par vaccination.
+
+<sup>3</sup> Pour la fin des mois de juin, septembre et décembre, les centres de vaccination transmettent à l’autorité cantonale compétente la liste des vaccinations au sens de l’al. 1 qui ont été effectuées.
+
+<sup>4</sup> L’autorité cantonale compétente contrôle la plausibilité de la liste en fonction des doses de vaccin livrées au centre de vaccination, vérifie qu’elle est complète et l’envoie par voie électronique à l’institution commune dans les 10 premiers jours ouvrables du mois suivant la période de décompte.
+
+<sup>5</sup> Au plus tard le 20<sup>e</sup> jour ouvrable du mois qui suit la période de décompte, l’institution commune adresse aux centres de vaccination une facture pour le montant forfaitaire prévu à l’al. 2.
+
+- [tab] <sup>6</sup> Après réception du paiement des centres de vaccination, elle verse chaque trimestre le montant total à l’OFSP.
+
+<sup>7</sup> L’OFSP rembourse à l’institution commune ses frais d’administration conformément à l’art. 64*b*, al. 6.
+
+[^64dbis-1]: Introduit par le ch. I de l’O du 10 juin 2022, en vigueur du 11 juin au 31 déc. 2022 ([RO 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)).
 
 #### Art. 64e
 

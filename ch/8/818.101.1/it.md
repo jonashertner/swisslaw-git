@@ -4,11 +4,11 @@ title: "Ordinanza del 29 aprile 2015 concernente la lotta contro le malattie tra
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: it
-version: 2022-05-20
+version: 2022-06-11
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220520/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220520-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220520/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220611/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220611-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220611/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220520/it"
 
 (Ordinanza sulle epidemie, OEp)
 
-del 29 aprile 2015 (Stato 20 maggio 2022)
+del 29 aprile 2015 (Stato 11 giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -948,6 +948,26 @@ Con l’importo di cui al capoverso 4 sono indennizzate tutte le prestazioni for
 <sup>2</sup> L’articolo 64*c* capoversi 3–7 è applicabile.
 
 [^64d-1]: Introdotto dal n. I dell’O del 3 nov. 2021 ([RU 2021 648](https://fedlex.data.admin.ch/eli/oc/2021/648)). Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
+
+#### Art. 64d<sup>bis</sup>
+
+**Sistema di paganti in proprio per le vaccinazioni anti-COVID-19**[^64dbis-1]
+
+<sup>1</sup> Se la consegna dei vaccini acquistati secondo l’articolo 44 capoverso 1 LEp per vaccinazioni anti-COVID-19, compresi i richiami, non è raccomandata dalle autorità e non serve per lottare contro le malattie trasmissibili, la Confederazione può mettere i vaccini a disposizione della popolazione dietro pagamento.
+
+<sup>2</sup> Le strutture di vaccinazione versano alla Confederazione un importo forfettario per il vaccino, la logistica, il materiale di vaccinazione e le spese amministrative supplementari. L’importo forfettario ammonta a 26 franchi per vaccinazione.
+
+<sup>3</sup> Alla fine dei mesi di giugno, settembre e dicembre, le strutture di vaccinazione inviano all’autorità cantonale competente un elenco delle vaccinazioni effettuate secondo il capoverso 1.
+
+<sup>4</sup> L’autorità cantonale competente controlla la plausibilità dell’elenco in base alle dosi distribuite alla struttura di vaccinazione, ne verifica la completezza e lo trasmette per via elettronica all’istituzione comune entro il decimo giorno lavorativo del mese successivo al periodo di fatturazione.
+
+<sup>5</sup> L’istituzione comune invia alle strutture di vaccinazione, entro il ventesimo giorno lavorativo del mese successivo al periodo di fatturazione, una fattura per l’importo forfettario di cui al capoverso 2.
+
+- [tab] <sup>6</sup> Una volta ricevuti i pagamenti delle strutture di vaccinazione, l’istituzione comune versa trimestralmente all’UFSP l’importo complessivo.
+
+<sup>7</sup> L’UFSP rimborsa all’istituzione comune le spese amministrative conformemente all’articolo 64*b* capoverso 6.
+
+[^64dbis-1]: Introdotto dal n. I dell’O del 10 giu. 2022, in vigore dall’11 giu. 2022 fino al 31 dic. 2022 ([RU 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)).
 
 #### Art. 64e
 
