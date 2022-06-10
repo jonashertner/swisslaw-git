@@ -5,11 +5,12 @@ title: Verordnung über die Bearbeitung von Rekursverfahren vor den Departemente
 short: RekV
 language: de
 version: 2019-01-01
+corrected: 2022-06-11
 version_adopted: 2022-05-19
 adopted: 2018-10-09
 in_force: 2019-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/951.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3359/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2459/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -145,12 +146,9 @@ als Verordnung:[^ingress-2]
 
 #### Art. 13
 
-**Unentgeltliche Rechtspflege[^13-1] und Rechtsverbeiständung**
+**Unentgeltliche Rechtsvertretung und Rechtsverbeiständung**
 
-<sup>1</sup> Wer bei der Behandlung eines Gesuchs um unentgeltliche Rechtspflege[^13-2] und Rechtsverbeiständung mitgewirkt hat, begründet dadurch im Rekursverfahren für sich keine Ausstandspflicht.
-
-[^13-1]: Formelle Berichtigung von «Rechtsvertretung» zu «Rechtspflege» vom 19. Mai 2022.
-[^13-2]: Formelle Berichtigung von «Rechtsvertretung» zu «Rechtspflege» vom 19. Mai 2022.
+<sup>1</sup> Wer bei der Behandlung eines Gesuchs um unentgeltliche Rechtsvertretung und Rechtsverbeiständung mitgewirkt hat, begründet dadurch im Rekursverfahren für sich keine Ausstandspflicht.
 
 ## 8. Schlussbestimmungen
 
