@@ -1,0 +1,894 @@
+---
+status: "beschlossen, noch nicht in Kraft"
+reference: AS 2022 352
+title: "Bundesgesetz vom 25. September 2020 über Vorläuferstoffe für explosionsfähige Stoffe (Vorläuferstoffgesetz, VSG)"
+language: de
+adopted: 2020-09-25
+published: 2022-06-14
+in_force: ["2023-01-01"]
+url: "https://www.fedlex.admin.ch/eli/oc/2022/352/de"
+---
+
+> Nicht amtliche Wiedergabe aus der Amtlichen Sammlung (AS). Der Erlass ist veröffentlicht, aber noch nicht in Kraft; massgebend ist die Veröffentlichung in der AS (Art. 15 PublG, SR 170.512).
+
+# Bundesgesetz über Vorläuferstoffe für explosionsfähige Stoffe
+
+(Vorläuferstoffgesetz, VSG)
+
+vom 25. September 2020
+
+Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
+
+gestützt auf die Artikel 54 Absatz 1, 95 Absatz 1 und 173 Absatz 2 der Bundesverfassung[^ingress-1], nach Einsicht in die Botschaft des Bundesrates vom 20. November 2019[^ingress-2],
+
+beschliesst:
+
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [BBl 2020 161](https://fedlex.data.admin.ch/eli/fga/2020/14)
+
+## 1. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Zweck und Gegenstand**
+
+<sup>1</sup> Mit diesem Gesetz soll verhindert werden, dass in der Schweiz mit selber hergestellten explosionsfähigen Stoffen strafbare Handlungen gegen Leib und Leben von Personen und gegen Sachen begangen werden. Es soll einen Beitrag zur Verhinderung von solchen strafbaren Handlungen im Ausland leisten.
+
+<sup>2</sup>
+
+Das Gesetz regelt:
+
+- a. den Erwerb, den Besitz, die Weitergabe und die Ein- und Ausfuhr von Vorläuferstoffen für explosionsfähige Stoffe durch private Verwenderinnen;
+- b. die Bereitstellung von Vorläuferstoffen für explosionsfähige Stoffe auf dem Markt;
+- c. die Herstellung von explosionsfähigen Stoffen durch private Verwenderinnen.
+
+<sup>3</sup> Es sieht vor, dass verdächtige Vorkommnisse dem Bundesamt für Polizei (fedpol) gemeldet werden können.
+
+#### Art. 2
+
+**Begriffe**
+
+In diesem Gesetz bedeuten:
+
+- a. *explosionsfähige Stoffe:* Stoffe, Gemische und Lösungen, die ohne Zufuhr von Luft durch Zündung zur Explosion gebracht werden können und geeignet sind, dadurch Leib und Leben von Personen zu gefährden oder Sachen zu zerstören;
+- b. *Vorläuferstoffe:* chemische Stoffe, die zur Herstellung von explosionsfähigen Stoffen verwendet werden können, sowie die Gemische und Lösungen, in denen sie enthalten sind;
+- c. *private Verwenderin:* natürliche oder juristische Person, die einen Vorläuferstoff nicht zu Erwerbs-, Ausbildungs- oder Forschungszwecken oder im Rahmen einer gemeinnützigen Tätigkeit verwendet und diesen nicht auf dem Markt bereitstellt;
+- d. *Bereitstellung auf dem Markt:* entgeltliche oder unentgeltliche Abgabe eines Vorläuferstoffs auf dem Markt im Rahmen einer Geschäftstätigkeit;
+- e. *Einfuhr:* Verbringen in das schweizerische Staatsgebiet;
+- f. *Ausfuhr:* Verbringen aus dem schweizerischen Staatsgebiet.
+
+## 2. Abschnitt: Zugangsbeschränkungen
+
+#### Art. 3
+
+<sup>1</sup> Der Bundesrat legt eine Liste von Vorläuferstoffen fest, bei denen das Risiko eines Missbrauchs besteht; er berücksichtigt dabei das internationale Recht.
+
+<sup>2</sup>
+
+Er legt für jeden Vorläuferstoff nach Absatz 1 fest, für welche Konzentrationen welche der folgenden Zugangsstufen gilt:
+
+- a. freier Zugang;
+- b. bewilligungspflichtiger Zugang;
+- c. verbotener Zugang;
+- d. alternativ bis zum Erreichen einer bestimmten Mengenschwelle: Zugang über den Fachhandel.
+
+<sup>3</sup> Gegenstände, die Vorläuferstoffe nach Absatz 1 enthalten, sind von den Zugangsbeschränkungen ausgenommen. Der Bundesrat kann einzelne Gegenstände den Zugangsbeschränkungen unterstellen.
+
+<sup>4</sup> Der Bundesrat kann einzelne weitere Produkte, die Vorläuferstoffe nach Absatz 1 enthalten, von den Zugangsbeschränkungen ausnehmen.
+
+## 3. Abschnitt: Erwerb, Besitz, Weitergabe und Ein- und Ausfuhr von Vorläuferstoffen durch private Verwenderinnen
+
+#### Art. 4
+
+**Erwerb und Besitz von Vorläuferstoffen**
+
+<sup>1</sup> Der Erwerb und der Besitz von Vorläuferstoffen nach Artikel 3 Absatz 2 Buchstabe b ist privaten Verwenderinnen nur erlaubt, wenn sie über eine Erwerbsbewilligung für den Vorläuferstoff verfügen und die Abgabe oder die Einfuhr im Informationssystem nach Artikel 21 erfasst wurde.
+
+<sup>2</sup> Der Erwerb und der Besitz von Vorläuferstoffen nach Artikel 3 Absatz 2 Buchstabe c ist privaten Verwenderinnen nur erlaubt, wenn sie über eine Ausnahmebewilligung für den Vorläuferstoff verfügen und die Abgabe oder die Einfuhr im Informationssystem nach Artikel 21 erfasst wurde.
+
+#### Art. 5
+
+**Verbot der Weitergabe von Vorläuferstoffen**
+
+Die Weitergabe von Vorläuferstoffen nach Artikel 3 Absatz 2 Buchstaben b und c ist privaten Verwenderinnen untersagt.
+
+#### Art. 6
+
+**Gesuch um Erwerbsbewilligung**
+
+<sup>1</sup> Gesuche um eine Erwerbsbewilligung müssen bei fedpol eingereicht werden.
+
+<sup>2</sup> Der Bundesrat kann vorsehen, dass das Gesuch elektronisch eingereicht werden muss.
+
+<sup>3</sup>
+
+Das Gesuch muss die folgenden Angaben enthalten:
+
+- a Personalien der Gesuchstellerin oder des Gesuchstellers und die Nummer des Passes, der Identitätskarte oder des Ausländerausweises;
+- b Angaben zum Vorläuferstoff;
+- c. Angaben zur geplanten Verwendung des Vorläuferstoffs.
+
+#### Art. 7
+
+**Erteilung und Verweigerung der Erwerbsbewilligung**
+
+<sup>1</sup> Fedpol erteilt eine Erwerbsbewilligung, wenn die Gesuchstellerin oder der Gesuchsteller volljährig ist, Wohnsitz in der Schweiz hat und einen plausiblen Verwendungszweck nennt und wenn kein Hinderungsgrund für die Erteilung der Erwerbsbewilligung besteht.
+
+<sup>2</sup>
+
+Ein Hinderungsgrund besteht, wenn:
+
+- a. die Gesuchstellerin oder der Gesuchsteller unter einer umfassenden Beistandschaft steht oder durch eine vorsorgebeauftragte Person vertreten wird;
+- b. Anhaltspunkte bestehen, dass die Gesuchstellerin oder der Gesuchsteller den Vorläuferstoff in einer Weise verwenden, handhaben oder aufbewahren könnte, in der sie oder er sich selbst oder Dritte gefährdet;
+- c. die Gesuchstellerin oder der Gesuchsteller wegen einer strafbaren Handlung im Strafregister eingetragen ist, die befürchten lässt, dass sie oder er strafbare Handlungen gegen Leib und Leben von Personen oder gegen Sachen begehen oder zu solchen strafbaren Handlungen Hilfe leisten könnte; oder
+- d. andere Anhaltspunkte bestehen, dass die Gesuchstellerin oder der Gesuchsteller strafbare Handlungen gegen Leib und Leben von Personen oder gegen Sachen begehen oder zu solchen strafbaren Handlungen Hilfe leisten könnte.
+
+<sup>3</sup> Lässt sich der angegebene Verwendungszweck mit anderen Stoffen erreichen, so kann fedpol die Erteilung der Erwerbsbewilligung verweigern. Es informiert die betroffene Person über die Alternative.
+
+#### Art. 8
+
+**Umfang und Dauer der Erwerbsbewilligung**
+
+<sup>1</sup> Die Erwerbsbewilligung gilt für einen oder mehrere Vorläuferstoffe.
+
+<sup>2</sup> Sie ist längstens 3 Jahre gültig.
+
+<sup>3</sup> Sie kann Auflagen und Bedingungen enthalten.
+
+#### Art. 9
+
+**Überprüfung und Entzug der Erwerbsbewilligung**
+
+<sup>1</sup> Fedpol kann während der Gültigkeitsdauer der Erwerbsbewilligung periodisch überprüfen, ob die Voraussetzungen für die Erteilung nach wie vor erfüllt sind. Wird die Abgabe, die Einfuhr oder die Ausfuhr eines Vorläuferstoffs im Informationssystem nach Artikel 21 erfasst, so kann es aus diesem Anlass ebenfalls eine Überprüfung vornehmen.
+
+<sup>2</sup> Sind die Voraussetzungen nach Artikel 7 nicht mehr erfüllt, so entzieht fedpol die Erwerbsbewilligung. Es kann Vorläuferstoffe, die gestützt auf die entzogene Erwerbsbewilligung erworben worden sind, einziehen.
+
+#### Art. 10
+
+**Ausnahmebewilligung**
+
+<sup>1</sup> Der Bundesrat kann für bestimmte Fälle Ausnahmebewilligungen für den Zugang zu Vorläuferstoffen nach Artikel 3 Absatz 2 Buchstabe c vorsehen.
+
+<sup>2</sup> Die Ausnahmebewilligung kann hinsichtlich der Menge des Vorläuferstoffs oder der Anzahl Bezüge beschränkt werden.
+
+<sup>3</sup> Die Erteilung und der Entzug der Ausnahmebewilligung richten sich nach den Bestimmungen über die Erwerbsbewilligungen (Art. 6–9).
+
+#### Art. 11
+
+**Einfuhr von Vorläuferstoffen**
+
+<sup>1</sup>
+
+Private Verwenderinnen dürfen Vorläuferstoffe nach Artikel 3 Absatz 2 Buchstaben b und c nur einführen, wenn sie:
+
+- a. über die erforderliche Erwerbs- beziehungsweise Ausnahmebewilligung verfügen; und
+- b.
+
+  vor der Einfuhr die folgenden Angaben im Informationssystem nach Artikel 21 erfasst haben:
+
+  - 1\. ihre Personalien,
+  - 2\. Angaben zur Erwerbs- beziehungsweise Ausnahmebewilligung,
+  - 3\. Angaben zum Vorläuferstoff,
+  - 4\. Angaben zur Einfuhr.
+
+<sup>2</sup> Auf Verlangen des Bundesamts für Zoll und Grenzsicherheit (BAZG)[^11-1] müssen sie das Vorliegen der Bewilligung und die Erfassung belegen und alle sachdienlichen Angaben machen.
+
+[^11-1]: Siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)
+
+#### Art. 12
+
+**Ausfuhr von Vorläuferstoffen**
+
+<sup>1</sup>
+
+Private Verwenderinnen dürfen Vorläuferstoffe nach Artikel 3 Absatz 2 Buchstaben b und c nur ausführen, wenn sie:
+
+- a. die Vorläuferstoffe rechtmässig erworben haben; und
+- b.
+
+  vor der Ausfuhr die folgenden Angaben im Informationssystem nach Artikel 21 erfasst haben:
+
+  - 1\. ihre Personalien,
+  - 2\. Angaben zur Erwerbs- beziehungsweise Ausnahmebewilligung,
+  - 3\. Angaben zum Vorläuferstoff,
+  - 4\. Angaben zur Ausfuhr.
+
+<sup>2</sup> Auf Verlangen des BAZG müssen sie den rechtmässigen Erwerb und die Erfassung belegen und alle sachdienlichen Angaben machen.
+
+#### Art. 13
+
+**Vorläufige Sicherstellung von Vorläuferstoffen**
+
+<sup>1</sup> Das BAZG stellt Vorläuferstoffe vorläufig sicher, für welche die erforderliche Erwerbs- beziehungsweise Ausnahmebewilligung nicht vorliegt oder die nicht ordnungsgemäss im Informationssystem nach Artikel 21 erfasst worden sind.
+
+<sup>2</sup> Sie erstattet Strafanzeige an fedpol.
+
+## 4. Abschnitt: Bereitstellung von Vorläuferstoffen auf dem Markt
+
+#### Art. 14
+
+**Abgabe von Vorläuferstoffen an private Verwenderinnen**
+
+<sup>1</sup> Wer Vorläuferstoffe nach Artikel 3 Absatz 2 Buchstaben b und c auf dem Markt bereitstellt, darf diese nur dann an private Verwenderinnen abgeben, wenn diese ihre Identität belegen und über eine Erwerbs- beziehungsweise Ausnahmebewilligung für den betreffenden Vorläuferstoff verfügen.
+
+<sup>2</sup> Die Person, die den Vorläuferstoff abgibt, muss das Vorhandensein der Erwerbs- beziehungsweise Ausnahmebewilligung anhand der Referenznummer der Bewilligung mittels Abrufverfahren im Informationssystem nach Artikel 21 überprüfen.
+
+<sup>3</sup>
+
+Sie muss die folgenden Angaben im Informationssystem nach Artikel 21 bestätigen oder erfassen:
+
+- a. die Personalien der privaten Verwenderin;
+- b. Angaben zur Erwerbs- beziehungsweise Ausnahmebewilligung;
+- c. Angaben zum Vorläuferstoff;
+- d. Angaben zur Abgabe.
+
+<sup>4</sup> Der Bundesrat regelt die Einzelheiten.
+
+#### Art. 15
+
+**Information bei der Abgabe**
+
+Wer Vorläuferstoffe nach Artikel 3 Absatz 2 Buchstaben b und c auf dem Markt bereitstellt, muss die Abnehmerin oder den Abnehmer auf die Bestimmungen dieses Gesetzes hinweisen.
+
+## 5. Abschnitt: Verbot der Herstellung und des Besitzes von explosionsfähigen Stoffen
+
+#### Art. 16
+
+<sup>1</sup> Privaten Verwenderinnen ist die Herstellung von explosionsfähigen Stoffen untersagt.
+
+<sup>2</sup> Der Erwerb und der Besitz von explosionsfähigen Stoffen, die von privaten Verwenderinnen hergestellt worden sind, sind untersagt.
+
+## 6. Abschnitt: Meldung verdächtiger Vorkommnisse
+
+#### Art. 17
+
+Verdächtige Vorkommnisse in Zusammenhang mit Vorläuferstoffen, wie Diebstahl, Verlust oder verdächtige Transaktionen, können fedpol gemeldet werden.
+
+## 7. Abschnitt: Datenbearbeitung und Informationssystem
+
+#### Art. 18
+
+**Beschaffung von Informationen**
+
+<sup>1</sup>
+
+Bei der Bearbeitung von Gesuchen um Erwerbs- und Ausnahmebewilligungen, der Überprüfung dieser Bewilligungen und der Bearbeitung von Verdachtsmeldungen können die zuständigen Stellen von fedpol automatisch auf die folgenden Informationssysteme zugreifen:
+
+- a. System zur Unterstützung gerichtspolizeilicher Ermittlungen des Bundes nach Artikel 10 des Bundesgesetzes vom 13. Juni 2008[^18-1] über die polizeilichen Informationssysteme des Bundes (BPI);
+- b. System Bundesdelikte nach Artikel 11 BPI;
+- c. System internationale und interkantonale Polizeikooperation nach Artikel 12 BPI;
+- d. automatisiertes Polizeifahndungssystem nach Artikel 15 BPI;
+- e. im Rahmen des Schengen-Besitzstands: nationaler Teil des Schengener Informationssystems nach Artikel 16 BPI;
+- f. nationaler Polizei-Index nach Artikel 17 BPI;
+- g. Geschäfts- und Aktenverwaltungssystem von fedpol nach Artikel 18 BPI;
+- h. Informationssystem Index NDB des Nachrichtendienstes des Bundes (NDB) nach Artikel 51 des Nachrichtendienstgesetzes vom 25. September 2015[^18-2];
+- i. Strafregister-Informationssystem nach Artikel 365 des Strafgesetzbuches (StGB)[^18-3];
+- j. Datenbank nach Artikel 32*a* Absatz 1 Buchstabe c des Waffengesetzes vom 20. Juni 1997[^18-4] (WG) über den Entzug und die Verweigerung von Bewilligungen und die Beschlagnahme von Waffen (DEBBWA);
+- k. Datenbank DAWA nach Artikel 32*a* Absatz 1 Buchstabe d WG;
+- l. Informationssystem Ausweisschriften nach Artikel 11 des Ausweisgesetzes vom 22. Juni 2001[^18-5];
+- m. Informationssystem nach dem Bundesgesetz vom 20. Juni 2003[^18-6] über das Informationssystem für den Ausländer- und den Asylbereich.
+
+<sup>2</sup> Die Behörden des Bundes und der Kantone, namentlich die Strafverfolgungsbehörden, das BAZG und die für den Vollzug des WG und des Sprengstoffgesetzes vom 25. März 1977[^18-7] (SprstG) zuständigen Behörden, erteilen den zuständigen Stellen von fedpol auf Anfrage Auskünfte zur Erkennung und zur Beurteilung von möglichen Gefährdungen in Zusammenhang mit Vorläuferstoffen.
+
+<sup>3</sup> Im Fall von verdächtigen Vorkommnissen können die zuständigen Stellen von fedpol Personendaten auch aus öffentlich zugänglichen Quellen erheben.
+
+[^18-1]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^18-2]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^18-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^18-4]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^18-5]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^18-6]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^18-7]: [SR 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+
+#### Art. 19
+
+**Austausch von Informationen mit ausländischen Partnerbehörden**
+
+Fedpol kann Personendaten, einschliesslich besonders schützenswerter Personendaten, mit ausländischen Partnerbehörden austauschen:
+
+- a. bei der Bearbeitung von Gesuchen um Erwerbs- und Ausnahmebewilligungen;
+- b. im Fall von verdächtigen Vorkommnissen, sofern der Austausch notwendig ist, um eine Gefahr für Personen oder Sachen abzuwenden.
+
+#### Art. 20
+
+**Mitteilung von Strafurteilen und -entscheiden**
+
+Die Strafbehörden des Bundes und der Kantone teilen fedpol Strafurteile und -entscheide mit, die gestützt auf die Artikel 224–226 StGB[^20-1], auf das SprstG[^20-2] oder auf das vorliegende Gesetz ergangen sind.
+
+[^20-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^20-2]: [SR 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+
+#### Art. 21
+
+**Informationssystem**
+
+<sup>1</sup> Fedpol betreibt zur Erfüllung der Aufgaben nach diesem Gesetz ein Informationssystem. Es darf in diesem System Personendaten, einschliesslich besonders schützenswerter Personendaten, bearbeiten.
+
+<sup>2</sup> Bei der Bearbeitung von Gesuchen um Erwerbs- und Ausnahmebewilligungen, der Überprüfung dieser Bewilligungen und der Bearbeitung von Verdachtsmeldungen prüft fedpol, ob Anhaltspunkte dafür bestehen, dass Vorläuferstoffe für strafbare Handlungen gegen Leib und Leben von Personen oder gegen Sachen verwendet werden könnten. Es ist berechtigt, hierzu die Informationen nach Artikel 22 untereinander zu vergleichen.
+
+#### Art. 22
+
+**Inhalt des Informationssystems**
+
+Das Informationssystem enthält die folgenden Informationen:
+
+- a. die Daten aus der Erfassung der Abgabe, der Einfuhr und der Ausfuhr von Vorläuferstoffen nach Artikel 3 Absatz 2 Buchstaben b und c;
+- b. die Gesuche um Erwerbs- und Ausnahmebewilligungen sowie die Informationen über erteilte, verweigerte und entzogene Bewilligungen und über die Umstände, die zur Verweigerung oder zum Entzug einer Bewilligung geführt haben;
+- c. Informationen über eingegangene Verdachtsmeldungen und über die Umstände, die zu einer solchen Meldung geführt haben;
+- d. Informationen über Massnahmen, die im Fall von verdächtigen Vorkommnissen ergriffen worden sind;
+- e. die aus der Informationsbeschaffung nach den Artikeln 18, 19 und 29 abgeleiteten Erkenntnisse, soweit sie für die Aufgabenerfüllung nach diesem Gesetz relevant sind;
+- f. Strafurteile und -entscheide, die gestützt auf die Artikel 224–226 StGB[^22-1], das SprstG[^22-2] oder das vorliegende Gesetz ergangen sind, sowie Informationen über Ereignisse in Zusammenhang mit Chemikalien und explosionsfähigen Stoffen;
+- g. Verfügungen, die gestützt auf dieses Gesetz ergangen sind;
+- h. Fachinformationen im Zusammenhang mit Vorläuferstoffen und deren missbräuchlicher Verwendung;
+- i. statistische Informationen.
+
+[^22-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^22-2]: [SR 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+
+#### Art. 23
+
+**Auskunfts- und Berichtigungsrecht**
+
+<sup>1</sup> Das Auskunftsrecht und das Recht, unrichtige Daten berichtigen zu lassen, richten sich nach dem Bundesgesetz vom 19. Juni 1992[^23-1] über den Datenschutz.
+
+<sup>2</sup> Fedpol erteilt die Auskünfte nach Rücksprache mit der Behörde, von der die Daten stammen.
+
+<sup>3</sup> Bezüglich der Daten nach Artikel 18 Absatz 1 Buchstaben b–g bleiben die Artikel 8, 8*a* und 16 BPI[^23-2] vorbehalten.
+
+[^23-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^23-2]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+
+#### Art. 24
+
+**Zugriff auf das Informationssystem im Abrufverfahren**
+
+<sup>1</sup>
+
+Der Bundesrat kann den folgenden Behörden gestatten, zur Erfüllung ihrer Aufgaben im Abrufverfahren auf das Informationssystem nach Artikel 21 zuzugreifen:
+
+- a. den für den Vollzug des WG[^24-1] und des SprstG[^24-2] zuständigen Behörden zur Abklärung von Hinderungsgründen nach Artikel 8 Absatz 2 WG und Artikel 14*a* Absatz 1 SprstG;
+- b. dem BAZG und den Polizeikorps des Bundes und der Kantone zur Überprüfung, ob einer Person eine Erwerbs- oder Ausnahmebewilligungen erteilt wurde und ob die Abgabe, die Einfuhr oder die Ausfuhr eines Vorläuferstoffs nach Artikel 3 Absatz 2 Buchstabe b oder c erfasst wurde;
+- c. den am Vollzug dieses Gesetzes, namentlich an den Kontrollen nach Artikel 28 Absatz 3 beteiligten Behörden im Rahmen ihrer Abklärungen.
+
+<sup>2</sup>
+
+Der Bundesrat kann vorsehen, dass fedpol dem BAZG zur Erfüllung ihrer Aufgaben im Abrufverfahren Zugriff auf die Personalien von Personen gewähren kann:
+
+- a. denen wegen eines Hinderungsgrunds nach Artikel 7 Absatz 2 eine Erwerbs- oder eine Ausnahmebewilligung verweigert oder entzogen worden ist oder gegenüber denen aufgrund verdächtiger Vorkommnisse Massnahmen ergriffen worden sind; und
+- b. bei denen von einem erhöhten Missbrauchsrisiko ausgegangen wird.
+
+[^24-1]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^24-2]: [SR 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+
+#### Art. 25
+
+**Automatische Meldung von Daten an die für den Vollzug des Waffengesetzes zuständigen Behörden**
+
+Fedpol kann den für den Vollzug des WG[^25-1] zuständigen Behörden, die nach Artikel 24 Absatz 1 Buchstabe a zum Zugriff auf das Informationssystem berechtigt sind, die Namen von Personen automatisch melden:
+
+- a. denen wegen eines Hinderungsgrunds nach Artikel 7 Absatz 2 eine Erwerbs- oder eine Ausnahmebewilligung verweigert oder entzogen worden ist oder gegenüber denen aufgrund verdächtiger Vorkommnisse Massnahmen ergriffen worden sind; und
+- b. die im Informationssystem über den Erwerb und den Besitz von Feuerwaffen nach Artikel 32*a* Absatz 2 WG mit ihrer AHV-Versichertennummer erfasst sind.
+
+[^25-1]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+
+#### Art. 26
+
+**Verwendung der AHV-Versichertennummer**
+
+<sup>1</sup> Fedpol und die Behörden, die nach Artikel 24 Absatz 1 zum Zugriff auf das Informationssystem berechtigt sind, sind berechtigt, die AHV-Versichertennummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^26-1] über die Alters- und Hinterlassenenversicherung systematisch zu verwenden.
+
+<sup>2</sup> Die AHV-Versichertennummer wird zum elektronischen Datenaustausch mit anderen Informationssystemen verwendet, in denen die Versichertennummer systematisch verwendet wird, sofern für einen solchen Datenaustausch mittels AHV-Versichertennummer eine Grundlage in einem Bundesgesetz besteht.
+
+<sup>3</sup> Die zuständigen Behörden teilen fedpol die AHV-Versichertennummer zur Verwendung im Informationssystem mit.
+
+[^26-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 27
+
+**Ausführungsbestimmungen zum Informationssystem**
+
+Der Bundesrat erlässt die Ausführungsbestimmungen zum Informationssystem nach Artikel 21. Er regelt insbesondere die Dauer, während der die Daten aufbewahrt werden dürfen.
+
+## 8. Abschnitt: Vollzug
+
+#### Art. 28
+
+**Fedpol**
+
+<sup>1</sup> Fedpol ist die zuständige Behörde für die Erfüllung der Aufgaben nach diesem Gesetz, soweit dieses nicht eine andere Stelle als zuständig bezeichnet. Es führt Sensibilisierungsmassnahmen durch.
+
+<sup>2</sup> Verstösst jemand gegen die Bestimmungen dieses Gesetzes oder seiner Ausführungsbestimmungen, so erlässt fedpol die notwendigen Verfügungen. Es kann insbesondere Vorläuferstoffe und explosionsfähige Stoffe einziehen, Erwerbs- oder Ausnahmebewilligungen entziehen, das widerrechtliche Verhalten untersagen oder eine angemessene Frist zur Wiederherstellung des rechtmässigen Zustands ansetzen.
+
+<sup>3</sup> Fedpol kontrolliert stichprobenweise, ob die Verkaufsstellen das Vorhandensein von Erwerbs- und Ausnahmebewilligungen prüfen und die Abgabe von Vorläuferstoffen nach Artikel 3 Absatz 2 Buchstaben b und c erfassen. Es kann den Kantonen Aufträge zur Vornahme entsprechender Kontrollen erteilen.
+
+#### Art. 29
+
+**Nachrichtendienst des Bundes**
+
+Der NDB nimmt auf Anfrage von fedpol Stellung, wenn Zweifel bestehen, ob ein Hinderungsgrund nach Artikel 7 Absatz 2 besteht bei einer Person:
+
+- a. die um eine Erwerbs- oder Ausnahmebewilligung ersucht oder der eine solche Bewilligung erteilt worden ist; oder
+- b. zu der eine Verdachtsmeldung vorliegt.
+
+#### Art. 30
+
+**Gebühren**
+
+<sup>1</sup> Fedpol erhebt für den Erlass von Verfügungen und die Erteilung von Erwerbs- und Ausnahmebewilligungen Gebühren.
+
+<sup>2</sup> Für die Durchführung von Kontrollen bei Verkaufsstellen werden keine Gebühren erhoben. Hat eine Kontrolle zu einer Beanstandung geführt, so können fedpol und die Kantone Gebühren erheben. In diesem Fall kann auch für eine allfällige Nachkontrolle eine Gebühr erhoben werden.
+
+<sup>3</sup> Werden Vorläuferstoffe oder explosionsfähige Stoffe eingezogen, so kann für die Lagerung und die Entsorgung der Stoffe eine Gebühr erhoben werden.
+
+<sup>4</sup> Der Bundesrat regelt die Einzelheiten.
+
+## 9. Abschnitt: Strafbestimmungen
+
+#### Art. 31
+
+**Widerhandlungen bei der Ab- und Weitergabe von Vorläuferstoffen**
+
+<sup>1</sup>
+
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer unter Missachtung der Bestimmungen dieses Gesetzes oder seiner Ausführungsbestimmungen:
+
+- a. einen Vorläuferstoff nach Artikel 3 Absatz 2 Buchstabe b oder c an eine private Verwenderin abgibt, die nicht über die erforderliche Erwerbs- oder Ausnahmebewilligung verfügt (Art. 14 Abs. 1 und 2);
+- b. die Abgabe eines Vorläuferstoffs nach Artikel 3 Absatz 2 Buchstabe b oder c nicht erfasst (Art. 14 Abs. 3);
+- c. als private Verwenderin einen Vorläuferstoff nach Artikel 3 Absatz 2 Buchstabe b oder c weitergibt (Art. 5).
+
+<sup>2</sup> Wer fahrlässig handelt, wird mit Busse bestraft.
+
+<sup>3</sup> Kennt die Täterin oder der Täter die erwerbende Person persönlich und weiss sie oder er, dass diese den Vorläuferstoff in der Absicht rechtmässiger Verwendung erwirbt, so wird sie oder er mit Busse bestraft.
+
+<sup>4</sup> In leichten Fällen kann die zuständige Behörde von einer Strafverfolgung, einer Überweisung an das Gericht oder einer Bestrafung absehen. Sie kann eine Verwarnung aussprechen.
+
+#### Art. 32
+
+**Unerlaubter Erwerb und Besitz sowie Widerhandlungen bei der Ein- oder Ausfuhr von Vorläuferstoffen**
+
+<sup>1</sup> Wer einen Vorläuferstoff nach Artikel 3 Absatz 2 Buchstabe b oder c ohne die erforderliche Bewilligung erwirbt oder besitzt (Art. 4), wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft.
+
+<sup>2</sup>
+
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer unter Missachtung der Bestimmungen dieses Gesetzes oder seiner Ausführungsbestimmungen:
+
+- a. die Ein- oder Ausfuhr eines Vorläuferstoffs nach Artikel 3 Absatz 2 Buchstabe b oder c nicht vorab erfasst (Art. 11 und 12); oder
+- b. einen Vorläuferstoff nach Artikel 3 Absatz 2 Buchstabe b oder c ohne die erforderliche Bewilligung einführt (Art. 11).
+
+<sup>3</sup> Wenn die Täterin oder der Täter den Vorläuferstoff für den Eigengebrauch und in der Absicht rechtmässiger Verwendung erwirbt, besitzt, einführt oder ausführt, wird sie oder er mit Busse bestraft. In leichten Fällen kann die zuständige Behörde von einer Strafverfolgung, einer Überweisung an das Gericht oder einer Bestrafung absehen. Sie kann eine Verwarnung aussprechen.
+
+#### Art. 33
+
+**Erschleichen einer Erwerbs- oder Ausnahmebewilligung**
+
+<sup>1</sup> Wer sich eine Erwerbs- oder Ausnahmebewilligung erschleicht, indem sie oder er falsche Angaben macht, wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft.
+
+<sup>2</sup> In leichten Fällen ist die Strafe Busse. Die zuständige Behörde kann von einer Strafverfolgung, einer Überweisung an das Gericht oder einer Bestrafung absehen. Sie kann eine Verwarnung aussprechen.
+
+#### Art. 34
+
+**Unerlaubte Herstellung und unerlaubter Erwerb und Besitz von explosionsfähigen Stoffen**
+
+<sup>1</sup> Wer als private Verwenderin explosionsfähige Stoffe herstellt (Art. 16 Abs. 1), wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+
+<sup>2</sup> Wer von privaten Verwenderinnen hergestellte explosionsfähige Stoffe erwirbt oder besitzt (Art. 16 Abs. 2), wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+
+<sup>3</sup> In leichten Fällen ist die Strafe Busse. Die zuständige Behörde kann von einer Strafverfolgung, einer Überweisung an das Gericht oder einer Bestrafung absehen. Sie kann eine Verwarnung aussprechen.
+
+#### Art. 35
+
+**Falsche Information bei der Abgabe**
+
+<sup>1</sup> Wer Vorläuferstoffe nach Artikel 3 Absatz 2 Buchstabe b oder c auf dem Markt bereitstellt und vorsätzlich gegen die Bestimmungen dieses Gesetzes oder seiner Ausführungsbestimmungen über die Information bei der Abgabe verstösst (Art. 15), wird mit Busse bis 100 000 Franken bestraft.
+
+<sup>2</sup> Wer fahrlässig handelt, wird mit Busse bestraft.
+
+<sup>3</sup> In leichten Fällen kann die zuständige Behörde von einer Strafverfolgung, einer Überweisung an das Gericht oder einer Bestrafung absehen. Sie kann eine Verwarnung aussprechen.
+
+#### Art. 36
+
+**Ungehorsam gegen Verfügungen**
+
+Wer vorsätzlich einer gestützt auf dieses Gesetz an sie oder ihn erlassenen Verfügung nicht Folge leistet, wird mit Busse bestraft, sofern in der Verfügung auf die Strafandrohung dieses Artikels hingewiesen wurde.
+
+#### Art. 37
+
+**Verfolgung und Beurteilung durch fedpol**
+
+<sup>1</sup> Die Verfolgung und Beurteilung der strafbaren Handlungen nach den Artikeln 31–36 richtet sich nach dem Bundesgesetz vom 22. März 1974[^37-1] über das Verwaltungsstrafrecht (VStrR). Verfolgende und beurteilende Verwaltungsbehörde des Bundes ist fedpol.
+
+<sup>2</sup> Sind in einer Strafsache sowohl die Zuständigkeit von fedpol nach Absatz 1 als auch Bundesgerichtsbarkeit nach Artikel 23 Absatz 1 Buchstabe d der Strafprozessordnung[^37-2] gegeben, so wird die Strafverfolgung in der Hand der Bundesanwaltschaft vereinigt.
+
+<sup>3</sup>
+
+Von der Ermittlung der nach Artikel 35 Absatz 1 strafbaren Personen kann Umgang genommen und an ihrer Stelle der Geschäftsbetrieb zur Bezahlung der Busse verurteilt werden, wenn:
+
+- a. die Ermittlung der Personen, die nach Artikel 6 VStrR strafbar sind, Untersuchungsmassnahmen bedingt, die im Hinblick auf die verwirkte Strafe unverhältnismässig wären; und
+- b. in Anwendung von Artikel 35 Absatz 1 eine Busse von höchstens 20 000 Franken in Betracht fällt.
+
+[^37-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^37-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+
+## 10. Abschnitt: Schlussbestimmungen
+
+#### Art. 38
+
+**Übergangsbestimmung**
+
+Der Besitz von Vorläuferstoffen nach Artikel 3 Absatz 2 Buchstaben b und c, die vor Inkrafttreten dieses Gesetzes erworben worden sind, bleibt privaten Verwenderinnen erlaubt. Besteht die Gefahr einer unrechtmässigen Verwendung, so kann fedpol solche Vorläuferstoffe einziehen.
+
+#### Art. 39
+
+**Änderung anderer Erlasse**
+
+Die Änderung anderer Erlasse wird im Anhang geregelt.
+
+#### Art. 40
+
+**Koordination mit dem E-ID-Gesetz vom 27. September 2019**
+
+Unabhängig davon, ob zuerst die vorliegende Änderung des Bundesgesetzes vom 20. Juni 2003[^40-1] über das Informationssystem für den Ausländer- und den Asylbereich (BGIAA) (Anhang Ziff. 1) oder die Änderung des BGIAA im Rahmen des E-ID-Gesetzes[^40-2] (Anhang Ziff. 1) in Kraft tritt, lautet mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten die nachstehende Bestimmung wie folgt:
+
+Art. 9 Abs. 1 Bst .c
+
+<sup>1</sup>
+
+Das SEM kann die von ihm oder in seinem Auftrag im Informationssystem bearbeiteten Daten des Ausländerbereichs folgenden Behörden oder Stellen durch ein Abrufverfahren zugänglich machen:
+
+- c.
+
+  den Bundesbehörden im Bereich der inneren Sicherheit ausschliesslich zur Personenidentifizierung bei:
+
+  - 1\. dem polizeilichen Nachrichtenaustausch,
+  - 2\. sicherheits-und gerichtspolizeilichen Ermittlungen,
+  - 3\. Auslieferungsverfahren,
+  - 4\. Rechts- und Amtshilfe,
+  - 5\. der stellvertretenden Strafverfolgung und Strafvollstreckung,
+  - 6\. der Bekämpfung der Geldwäscherei, des Drogenhandels und des organisierten Verbrechens,
+  - 6<sup>bis</sup>. der Bekämpfung des Missbrauchs von Vorläuferstoffen für explosionsfähige Stoffe,
+  - 7\. der Kontrolle von Ausweisschriften,
+  - 8\. der Zuordnung und Aktualisierung von Personenidentifizierungsdaten nach dem E-ID-Gesetz vom 27. September 2019[^40-3],
+  - 9\. Nachforschungen nach vermissten Personen,
+  - 10\. der Kontrolle der Eingaben im automatisierten Polizeifahndungssystem nach Artikel 15 des Bundesgesetzes vom 13. Juni 2008[^40-4] über die polizeilichen Informationssysteme des Bundes (BPI);
+
+[^40-1]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^40-2]: [BBl 2019 6567](https://fedlex.data.admin.ch/eli/fga/2019/2311). In der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html)abgelehnt ([BBl 2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
+[^40-3]: [BBl 2019 6567](https://fedlex.data.admin.ch/eli/fga/2019/2311). In der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html)abgelehnt ([BBl 2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
+[^40-4]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+
+#### Art. 41
+
+**Koordination mit dem Bundesgesetz vom 25. September 2020 über den Datenschutz**
+
+Mit Inkrafttreten des Datenschutzgesetzes vom 25. September 2020[^41-1] lautet die nachstehende Bestimmung wie folgt:
+
+Art. 23 Abs. 1
+
+<sup>1</sup> Das Auskunftsrecht und das Recht, unrichtige Daten berichtigen zu lassen, richten sich nach dem Bundesgesetz vom 25. September 2020[^41-2] über den Datenschutz.
+
+[^41-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [BBl 2020 7639](https://fedlex.data.admin.ch/eli/fga/2020/1998)
+[^41-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 42
+
+**Koordination mit dem Strafregistergesetz vom 17. Juni 2016**
+
+Mit Inkrafttreten des Strafregistergesetzes vom 17. Juni 2016[^42-1] lauten die nachfolgenden Bestimmungen wie folgt:
+
+Art. 18 Abs. 1 Bst. i
+
+<sup>1</sup> Art. 367 Abs. 2 Bst. c StGB (Anhang Ziff. 2)
+
+Gegenstandslos oder Aufgehoben
+
+Bei der Bearbeitung von Gesuchen um Erwerbs- und Ausnahmebewilligungen, der Überprüfung dieser Bewilligungen und der Bearbeitung von Verdachtsmeldungen können die zuständigen Stellen von fedpol automatisch auf die folgenden Informationssysteme zugreifen:
+
+- i. Strafregister-Informationssystem nach dem Strafregistergesetzes vom 17. Juni 2016[^42-2];
+
+[^42-1]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600); [BBl 2016 4871](https://fedlex.data.admin.ch/eli/fga/2016/1052)
+[^42-2]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+
+#### Art. 43
+
+**Referendum und Inkrafttreten**
+
+<sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
+
+<sup>2</sup> Der Bundesrat bestimmt das Inkrafttreten.
+
+Ablauf der Referendumsfrist und Inkraftsetzung
+
+<table>
+<tr><td>Ständerat, 25. September 2020 Der Präsident: Hans Stöckli Die Sekretärin: Martina Buol</td><td>Nationalrat, 25. September 2020 Die Präsidentin: Isabelle Moret Der Sekretär: Pierre-Hervé Freléchoz</td></tr>
+</table>
+
+<sup>1</sup> Die Referendumsfrist für dieses Gesetz ist am 14. Januar 2021 unbenützt abgelaufen.[^43-1]
+
+<sup>2</sup> Es wird auf den 1. Januar 2023 in Kraft gesetzt.
+
+<table>
+<tr><td>25. Mai 2022</td><td>Im Namen des Schweizerischen Bundesrates Der Bundespräsident: Ignazio Cassis Der Bundeskanzler: Walter Thurnherr</td></tr>
+</table>
+
+[^43-1]: [BBl 2020 7773](https://fedlex.data.admin.ch/eli/fga/2020/2005)
+
+Anhang
+
+(Art. 39)
+
+## Änderung anderer Erlasse
+
+Die nachstehenden Erlasse werden wie folgt geändert:
+
+### 1. Bundesgesetz vom 20. Juni 2003 über das Informationssystem für den Ausländer- und den Asylbereich
+
+[^annexu1-lvlu1-lvl1-1]
+
+[^annexu1-lvlu1-lvl1-1]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+
+**Art. 9 Abs. 1 Bst. c und 2 Bst. c Ziff. 1**
+
+<sup>1</sup>
+
+Das SEM kann die von ihm oder in seinem Auftrag im Informationssystem bearbeiteten Daten des Ausländerbereichs folgenden Behörden oder Stellen durch ein Abrufverfahren zugänglich machen:
+
+- c. den Bundesbehörden im Bereich des Polizeiwesens ausschliesslich zur Personenidentifikation in den Bereichen des polizeilichen Nachrichtenaustausches, der sicherheits- und gerichtspolizeilichen Ermittlungen, bei Auslieferungsverfahren, bei Rechts- und Amtshilfe, bei der stellvertretenden Strafverfolgung und Strafvollstreckung, bei der Bekämpfung der Geldwäscherei, des Drogenhandels und des organisierten Verbrechens, bei der Bekämpfung des Missbrauchs von Vorläuferstoffen für explosionsfähige Stoffe, bei der Kontrolle von Ausweisschriften, bei Nachforschungen nach vermissten Personen sowie bei der Kontrolle der Eingaben im automatisierten Fahndungssystem nach Artikel 15 des Bundesgesetzes vom 13. Juni 2008[^annexu1-lvlu1-lvl1-2] über die polizeilichen Informationssysteme des Bundes (BPI);
+
+<sup>2</sup>
+
+Das SEM kann die von ihm oder in seinem Auftrag im Informationssystem bearbeiteten Daten des Asylbereichs folgenden Behörden oder Stellen durch ein Abrufverfahren zugänglich machen:
+
+- c.
+
+  den Bundesbehörden im Bereich des Polizeiwesens:
+
+  - 1\. ausschliesslich zur Personenidentifikation in den Bereichen des polizeilichen Nachrichtenaustausches, der sicherheits- und gerichtspolizeilichen Ermittlungen, bei Auslieferungsverfahren, bei Rechts- und Amtshilfe, bei der stellvertretenden Strafverfolgung und Strafvollstreckung, bei der Bekämpfung der Geldwäscherei, des Drogenhandels und des organisierten Verbrechens, bei der Bekämpfung des Missbrauchs von Vorläuferstoffen für explosionsfähige Stoffe, bei der Kontrolle von Ausweisschriften, bei Nachforschungen nach vermissten Personen, bei der Kontrolle der Eingaben im automatisierten Fahndungssystem nach Artikel 15 BPI sowie der Begutachtung der Asylunwürdigkeit nach Artikel 53 AsylG,
+
+[^annexu1-lvlu1-lvl1-2]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+
+### 2. Strafgesetzbuch
+
+[^annexu1-lvlu1-lvl2-1]
+
+[^annexu1-lvlu1-lvl2-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+**Art. 367 Abs. 2 Bst. c**
+
+<sup>2</sup>
+
+Folgende Behörden dürfen durch ein Abrufverfahren Einsicht in die Personendaten über Urteile nach Artikel 366 Absätze 1, 2 und 3 Buchstaben a und b nehmen:
+
+- c.
+
+  das Bundesamt für Polizei:
+
+  - 1\. im Rahmen von gerichtspolizeilichen Ermittlungsverfahren,
+  - 2\. für die Bearbeitung von Gesuchen um Erwerbs- und Ausnahmebewilligungen für Vorläuferstoffe, die Überprüfung dieser Bewilligungen, die Bearbeitung von Verdachtsmeldungen im Zusammenhang mit Vorläuferstoffen und die Verfolgung und Beurteilung von Straftaten nach dem Vorläuferstoffgesetz vom 25. September 2020[^annexu1-lvlu1-lvl2-2];
+
+[^annexu1-lvlu1-lvl2-2]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+
+### 3. Bundesgesetz vom 13. Juni 2008 über die polizeilichen Informationssysteme des Bundes
+
+[^annexu1-lvlu1-lvl3-1]
+
+[^annexu1-lvlu1-lvl3-1]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+
+**Art. 10 Abs. 4 Einleitungssatz und Bst. e**
+
+<sup>4</sup>
+
+Zugriff auf die Daten mittels Abrufverfahren haben:
+
+- e. fedpol zur Bearbeitung von Gesuchen um Bewilligungen, zur Überprüfung von Bewilligungen und zur Bearbeitung von Verdachtsmeldungen nach dem Vorläuferstoffgesetz vom 25. September 2020[^annexu1-lvlu1-lvl3-2] (VSG).
+
+**Art. 11 Abs. 5 Bst. e**
+
+<sup>5</sup>
+
+Zugriff auf diese Daten mittels Abrufverfahren haben:
+
+- e. fedpol zur Bearbeitung von Gesuchen um Bewilligungen, zur Überprüfung von Bewilligungen und zur Bearbeitung von Verdachtsmeldungen nach dem VSG[^annexu1-lvlu1-lvl3-3].
+
+**Art. 12 Abs. 6 Bst. d**
+
+<sup>6</sup>
+
+Zugriff auf diese Daten mittels Abrufverfahren haben:
+
+- d. fedpol zur Bearbeitung von Gesuchen um Bewilligungen, zur Überprüfung von Bewilligungen und zur Bearbeitung von Verdachtsmeldungen nach dem VSG[^annexu1-lvlu1-lvl3-4].
+
+**Art. 15 Abs. 3 Bst. l sowie 4 Einleitungssatz und Bst. k**
+
+<sup>3</sup>
+
+Die folgenden Behörden können Ausschreibungen über das Informationssystem verbreiten:
+
+- l. fedpol als Verwaltungsstrafbehörde zur Erfüllung der Aufgaben nach Absatz 1 Buchstaben a und g.
+
+<sup>4</sup>
+
+Folgende Behörden und Stellen dürfen zur Erfüllung ihrer Aufgaben mittels Abrufverfahren Daten aus dem Informationssystem abrufen:
+
+- k. fedpol zur Bearbeitung von Gesuchen um Bewilligungen, zur Überprüfung von Bewilligungen und zur Bearbeitung von Verdachtsmeldungen nach dem VSG[^annexu1-lvlu1-lvl3-5].
+
+**Art. 16 Abs. 2 Bst. j**
+
+<sup>2</sup>
+
+Das N-SIS dient der Unterstützung von Stellen des Bunds und der Kantone bei der Erfüllung folgender Aufgaben:
+
+- j. Verhinderung des Missbrauchs von Stoffen, die zur Herstellung von explosionsfähigen Stoffen verwendet werden können.
+
+**Art. 17 Abs. 4 Bst. m**
+
+<sup>4</sup>
+
+Zugriff auf diese Daten mittels eines automatisierten Abrufverfahrens haben:
+
+- m. fedpol zur Bearbeitung von Gesuchen um Bewilligungen, zur Überprüfung von Bewilligungen und zur Bearbeitung von Verdachtsmeldungen nach dem VSG[^annexu1-lvlu1-lvl3-6].
+
+[^annexu1-lvlu1-lvl3-2]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^annexu1-lvlu1-lvl3-3]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^annexu1-lvlu1-lvl3-4]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^annexu1-lvlu1-lvl3-5]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^annexu1-lvlu1-lvl3-6]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+
+### 4. Waffengesetz vom 20. Juni 1997
+
+[^annexu1-lvlu1-lvl4-1]
+
+[^annexu1-lvlu1-lvl4-1]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+
+**Art. 32c Abs. 3**
+
+<sup>3</sup> Sämtliche Daten der DEBBWA und der DAWA können den zuständigen Stellen der Militärverwaltung und den für den Vollzug des Vorläuferstoffgesetzes vom 25. September 2020[^annexu1-lvlu1-lvl4-2] zuständigen Stellen mittels eines Abrufverfahrens zugänglich gemacht werden.
+
+[^annexu1-lvlu1-lvl4-2]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+
+### 5. Sprengstoffgesetz vom 25. März 1977
+
+[^annexu1-lvlu1-lvl5-1]
+
+[^annexu1-lvlu1-lvl5-1]: [SR 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+
+**Titel**
+
+### Bundesgesetz über Sprengstoffe
+
+**(Sprengstoffgesetz, SprstG)**
+
+**Ingress**
+
+gestützt auf die Artikel 60 Absatz 1, 95 Absatz 1, 107, 110 Absatz 1 Buchstabe a, 118 Absatz 2 Buchstabe a, 173 Absatz 2 und 178 Absatz 3 der Bundesverfassung[^annexu1-lvlu1-lvl5-lvlu2-1],
+
+**Ersatz eines Ausdrucks**
+
+Im ganzen Erlass wird «Verkehr» ersetzt durch «Umgang», mit den nötigen grammatikalischen Anpassungen.
+
+**Art. 1 Abs. 1 erster Satz**
+
+<sup>1</sup> Dieses Gesetz regelt den Umgang mit Sprengmitteln, die gewerblich hergestellt werden, mit pyrotechnischen Gegenständen und mit Schiesspulver. ...
+
+**Art. 2 Abs. 1 und 2 erster Satz**
+
+<sup>1</sup> Die Armee, die eidgenössischen und kantonalen Militärverwaltungen und ihre Betriebe unterstehen diesem Gesetz nur, wenn sie Sprengmittel oder pyrotechnische Gegenstände an zivile Stellen oder Private abgeben.
+
+<sup>2</sup> *Betrifft nur den französischen und den italienischen Text. ...*
+
+***Art. 3* Umgang**
+
+<sup>1</sup> Als Umgang gilt jede Tätigkeit im Zusammenhang mit Sprengmitteln und pyrotechnischen Gegenständen, insbesondere das Herstellen, Lagern, Besitzen, Einführen, Abgeben, Beziehen, Verwenden und Vernichten.
+
+<sup>2</sup> Die Beförderung im Post-, Eisenbahn-, Strassen-, Luft- und Schiffsverkehr des Inlandes gilt nicht als Umgang im Sinne dieses Gesetzes; sie richtet sich nach den besonderen Vorschriften der Bundesgesetzgebung und internationaler Abkommen.
+
+**Art. 5 Abs. 2 Einleitungssatz und Bst. c**
+
+<sup>2</sup>
+
+Nicht als Sprengstoffe im Sinne dieses Gesetzes gelten:
+
+- c. explosionsfähige Erzeugnisse und Präparate, die nicht zu Sprengzwecken hergestellt werden.
+
+**Gliederungstitel vor Art. 8a**
+
+Betrifft nur den französischen und den italienischen Text.
+
+**Art. 8a erster Satz**
+
+Mit Sprengmitteln und pyrotechnischen Gegenständen darf nur umgegangen werden, wenn diese bei bestimmungsgemässer und sorgfältiger Verwendung das Leben und die Gesundheit der Benützer und Dritter nicht gefährden. ...
+
+**Art. 9 Sachüberschrift und Abs. 3**
+
+Herstellung, Besitz sowie Ein-, Aus- und Durchfuhr
+
+<sup>3</sup> Die Bestimmungen des Vorläuferstoffgesetzes vom 25. September 2020[^annexu1-lvlu1-lvl5-lvlu2-2] betreffend die Herstellung von explosionsfähigen Stoffen durch private Verwenderinnen und den Erwerb und den Besitz der von privaten Verwenderinnen hergestellten explosionsfähigen Stoffe bleiben vorbehalten.
+
+**Art. 10 Abs. 5**
+
+<sup>5</sup> Die Abgabe von Sprengmitteln oder pyrotechnischen Gegenständen durch die Armee, die eidgenössischen und kantonalen Militärverwaltungen oder ihre Betriebe an zivile Stellen und Private erfolgt in Einvernahme mit der Zentralstelle.
+
+***Art. 14a* Verweigerung von Bewilligungen, Erwerbsscheinen und Ausweisen**
+
+<sup>1</sup>
+
+Die zuständige Behörde kann einer Person die Bewilligung zur Herstellung oder zur Einfuhr, den Erwerbschein oder den Ausweis verweigern oder entziehen, wenn einer der folgenden Hinderungsgründe besteht:
+
+- a. Die Person steht unter einer umfassenden Beistandschaft oder wird durch eine vorsorgebeauftragte Person vertreten.
+- b. Es bestehen Anhaltspunkte, dass die Person die Sprengmittel oder pyrotechnischen Gegenstände in einer Weise verwenden, handhaben oder aufbewahren könnte, in der sie sich selbst oder Dritte gefährdet.
+- c. Die Person ist wegen einer strafbaren Handlung im Strafregister eingetragen, die befürchten lässt, dass sie strafbare Handlungen gegen Leib und Leben von Personen oder gegen Sachen begehen oder zu solchen strafbaren Handlungen Hilfe leisten könnte.
+- d. Es bestehen andere Anhaltspunkte, dass die Person strafbare Handlungen gegen Leib und Leben von Personen oder gegen Sachen begehen oder zu solchen strafbaren Handlungen Hilfe leisten könnte.
+
+<sup>2</sup> Zur Prüfung der Hinderungsgründe können die zuständigen Behörden beim Bundesamt für Polizei (fedpol) Auskünfte zu Personen einholen. Hat fedpol Kenntnis vom Vorliegen eines Hinderungsgrunds, so kann es die zuständigen Behörden von Amtes wegen informieren.
+
+***Art. 16***
+
+Betrifft nur den französischen und den italienischen Text.
+
+***Art. 17***
+
+Betrifft nur den französischen und den italienischen Text.
+
+**Gliederungstitel vor Art. 28**
+
+Betrifft nur den französischen und den italienischen Text.
+
+**Art. 28 Abs. 1 erster Satz und 3**
+
+<sup>1</sup> Betrifft nur den französischen und den italienischen Text. ...
+
+<sup>3</sup> Betrifft nur den französischen und den italienischen Text.
+
+**Art. 29 Abs. 1**
+
+<sup>1</sup> Betrifft nur den französischen und den italienischen Text.
+
+**Art. 33 Abs. 3**
+
+<sup>3</sup> Die Zentralstelle kontrolliert in Zusammenarbeit mit den zuständigen kantonalen Stellen stichprobeweise die Übereinstimmung von Sprengmitteln und pyrotechnischen Gegenständen mit den gesetzlichen Vorschriften. Die Kontrollen erfolgen namentlich bei den Herstellern, Importeuren und Händlern.
+
+***Art. 37* Unbefugter Umgang**
+
+<sup>1</sup>
+
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich:
+
+- a. ohne Bewilligung oder entgegen Verboten dieses Gesetzes mit Sprengmitteln oder pyrotechnischen Gegenständen umgeht, insbesondere solche herstellt, lagert, besitzt, einführt, abgibt, bezieht, verwendet oder vernichtet;
+- b. unrichtige oder unvollständige Angaben macht, die für die Erteilung einer Bewilligung gemäss diesem Gesetz von Bedeutung sind;
+- c. eine mit solchen Angaben erwirkte Bewilligung verwendet.
+
+<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Busse.
+
+<sup>3</sup> Mit Busse wird bestraft, wer ohne Bewilligung Schiesspulver oder schiesspulverhaltige Halb- oder Fertigfabrikate herstellt, einführt oder damit handelt.
+
+***Art. 38* Andere Widerhandlungen**
+
+<sup>1</sup>
+
+Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:
+
+- a. Schutz- oder Sicherheitsvorschriften dieses Gesetzes (Art. 17–26) oder einer Ausführungsverordnung missachtet;
+- b. die ihm nach diesem Gesetz oder seinen Ausführungsbestimmungen obliegende Buchführungs-, Melde- oder Auskunftspflicht verletzt;
+- c. in anderer Weise diesem Gesetz, seinen Ausführungsvorschriften oder einer unter Hinweis auf die Strafandrohung an ihn gerichteten Einzelverfügung (Art. 35) zuwiderhandelt.
+
+<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Busse.
+
+[^annexu1-lvlu1-lvl5-lvlu2-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^annexu1-lvlu1-lvl5-lvlu2-2]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+
+### 6. Strafregistergesetz vom 17. Juni 2016
+
+[^annexu1-lvlu1-lvl6-1]
+
+[^annexu1-lvlu1-lvl6-1]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600); [BBl 2016 4871](https://fedlex.data.admin.ch/eli/fga/2016/1052)
+
+**Art. 46 Bst. a Ziff. 10**
+
+Folgende angeschlossene Behörden können durch ein Abrufverfahren in alle im Behördenauszug 2 erscheinenden Daten (Art. 38) Einsicht nehmen, soweit dies für die Erfüllung der nachstehend genannten Aufgaben notwendig ist:
+
+- a.
+
+  die im Bundesamt für Polizei zuständigen Stellen:
+
+  - 10\. für die Bearbeitung von Gesuchen um Erwerbs- und Ausnahmebewilligungen für Vorläuferstoffe, die Überprüfung dieser Bewilligungen und die Bearbeitung von Verdachtsmeldungen nach dem Vorläuferstoffgesetz vom 25. September 2020[^annexu1-lvlu1-lvl6-2];
+
+[^annexu1-lvlu1-lvl6-2]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
