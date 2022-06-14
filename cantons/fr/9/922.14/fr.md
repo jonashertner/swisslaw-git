@@ -3,13 +3,13 @@ canton: FR
 number: "922.14"
 title: Ordonnance concernant la chasse du sanglier
 language: fr
-version: 2021-06-15
-valid_until: 2022-06-14
-version_adopted: 2021-06-01
+version: 2022-06-15
+valid_until: 2023-06-14
+version_adopted: 2022-05-24
 adopted: 2026-03-17
 in_force: 2026-06-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/922.14"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6851/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7485/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,11 +18,11 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6851/pdf_file"
 
 Chasse du sanglier – O
 
-du 01.06.2021 (version entrée en vigueur le 15.06.2021)
+du 24.05.2022 (version entrée en vigueur le 15.06.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
-Vu la loi fédérale du 20 juin 1986 sur la chasse et la protection des mammifères et oiseaux sauvages (LChP) ainsi que son ordonnance du 29 février 1988 (OChP);
+Vu la loi fédérale du 20 juin 1986 sur la chasse et la protection des mammifères et oiseaux sauvages (LChP), ainsi que son ordonnance du 29 février 1988 (OChP);
 
 Vu l'ordonnance fédérale du 21 janvier 1991 sur les réserves d'oiseaux d'eau et de migrateurs d'importance internationale et nationale (OROEM);
 
@@ -38,7 +38,7 @@ Arrête:
 
 **But et champ d'application**
 
-<sup>1</sup> La présente ordonnance a pour but d'ouvrir la période de chasse du sanglier aux mois de juillet et août 2021, afin de réduire les dommages causés dans le domaine agricole.
+<sup>1</sup> La présente ordonnance a pour but d'ouvrir la période de chasse du sanglier aux mois de juillet et août 2022, afin de réduire les dommages causés dans le domaine agricole.
 
 <sup>2</sup> Pour le reste, les législations fédérale et cantonale sur la chasse sont applicables.
 
@@ -46,7 +46,7 @@ Arrête:
 
 **Lieux**
 
-<sup>1</sup> La chasse du sanglier a lieu en plaine et en montagne dans les secteurs suivants: 0202, 0701, 0702, 0703, 0704, 0705, 0706, 1001, 1002, 1004, 1005, 1101, 1103, 1301, 1302, 1303, 1305, 1306, 1401, 1405, 1406, 1501, 1502 et 1503.
+<sup>1</sup> La chasse du sanglier a lieu en plaine et en montagne dans les secteurs suivants: 0202, 0701, 0702, 0703, 0704, 0705, 0706, 0804, 0903, 0904, 0905, 1001, 1002, 1004, 1005, 1101, 1103, 1301, 1302, 1303, 1305, 1306, 1401, 1405, 1406, 1501, 1502 et 1503.
 
 <sup>2</sup> La chasse est interdite en forêt ainsi que dans toutes les zones protégées pour les animaux sauvages mentionnées aux articles 29 et 36 de l'ordonnance du 21 juin 2016 concernant la protection des mammifères, des oiseaux sauvages et de leurs biotopes.
 
@@ -80,7 +80,7 @@ Arrête:
 
 <sup>1</sup> La participation à la chasse d'été du sanglier est subordonnée à l'acquisition du permis de base ainsi que d'un permis spécial, moyennant paiement d'une taxe de 50 francs.
 
-<sup>2</sup> Le permis spécial doit être retiré auprès de la préfecture du 15 au 30 juin 2021.
+<sup>2</sup> Le permis spécial doit être retiré auprès de la préfecture du 15 au 30 juin 2022.
 
 #### Art. 7
 
@@ -96,4 +96,4 @@ Arrête:
 
 <sup>1</sup> Constituent des contraventions, au sens de l'article 54 al. 1 let. b et al. 3 LCha, les infractions aux articles 2 à 7 de la présente ordonnance.
 
-2021\_064
+2022\_058
