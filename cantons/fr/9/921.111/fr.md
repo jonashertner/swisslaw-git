@@ -3,20 +3,20 @@ canton: FR
 number: "921.111"
 title: Ordonnance DIAF fixant la délimitation des arrondissements forestiers
 language: fr
-version: 2017-04-01
-valid_until: 2022-06-14
-version_adopted: 2017-03-24
+version: 2022-06-15
+valid_until: 2025-12-31
+version_adopted: 2022-05-31
 adopted: 2016-01-08
 in_force: 2016-03-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/921.111"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5707/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7486/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance DIAF fixant la délimitation des arrondissements forestiers
 
-du 08.01.2016 (version entrée en vigueur le 01.04.2017)
+du 08.01.2016 (version entrée en vigueur le 15.06.2022)
 
 La Direction des institutions, de l'agriculture et des forêts
 
@@ -40,7 +40,7 @@ Adopte ce qui suit:
 <sup>1</sup> Le II<sup>e</sup> arrondissement forestier «Singine–Lac, communes des corporations forestières Galm et Lac de Morat» est composé des territoires suivants:
 
 - a) pour le district de la Singine, toutes les communes du district;
-- b) pour le district du Lac, la forêt domaniale du Galm ainsi que les communes de Fräschels, Galmiz, Gempenach, Greng, Gurmels, Kerzers, Kleinbösingen, Mont-Vully, Morat, Muntelier, Ried bei Kerzers et Ulmiz.
+- b) pour le district du Lac, la forêt domaniale du Galm ainsi que les communes de Fräschels, Greng, Gurmels, Kerzers, Kleinbösingen, Mont-Vully, Morat, Muntelier, Ried bei Kerzers et Ulmiz.
 
 #### Art. 3
 
