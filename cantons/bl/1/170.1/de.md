@@ -4,13 +4,13 @@ number: "170.1"
 title: Dekret zum Gesetz über die Organisation der Gerichte
 short: "Gerichtsorganisationsdekret, GOD"
 language: de
-version: 2021-01-01
-valid_until: 2022-06-15
-version_adopted: 2021-03-11
+version: 2022-06-16
+valid_until: 2026-03-31
+version_adopted: 2022-06-16
 adopted: 2001-02-22
 in_force: 2002-04-01
 url: "https://bl.clex.ch/app/de/texts_of_law/170.1"
-pdf: "https://bl.clex.ch/api/de/versions/2960/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3350/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2960/pdf_file"
 
 (Gerichtsorganisationsdekret, GOD)
 
-Vom 22.02.2001 (Stand 01.01.2021)
+Vom 22.02.2001 (Stand 16.06.2022)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -88,7 +88,7 @@ beschliesst:
 
 **Strafgericht**
 
-<sup>1</sup> Das Strafgericht besteht aus 6 vollamtlichen Präsidien und insgesamt 20 Richterinnen und Richtern.
+<sup>1</sup> Das Strafgericht besteht aus 5 vollamtlichen und 2 teilamtlichen Präsidien, letztere je mit einem 50-%-Pensum, und insgesamt 20 Richterinnen und Richtern.
 
 <sup>2</sup> Das Strafgericht ergänzt sich aus den Richterinnen und Richtern des Jugendgerichts.
 
@@ -134,7 +134,7 @@ beschliesst:
 
 <sup>2</sup> Er teilt den Präsidien mit der Wahl das individuelle Pensum zu.
 
-<sup>3</sup> Der Landrat ist weder bei einer Gesamterneuerungswahl für eine Amtsperiode noch bei einer Ersatzwahl während der Amtsperiode an gerichtsinterne Pensenänderungen gebunden.
+<sup>3</sup> Das gemäss Abs. 2 mit der Wahl zugeteilte individuelle Pensum kann bei einer Wiederwahl nicht gegen den Willen des betroffenen Präsidiums anders zugeteilt werden. Hingegen ist der Landrat weder bei einer Gesamterneuerungswahl für eine Amtsperiode noch bei einer Ersatzwahl während einer Amtsperiode an gerichtsinterne Pensenänderungen gebunden.
 
 ## 3 Schlussbestimmungen
 
