@@ -3,20 +3,19 @@ canton: SG
 number: "571.3"
 title: Gesetz über die wirtschaftliche Unterstützung von Unternehmen sowie von durch die öffentliche Hand geführten Institutionen der familienergänzenden Kinderbetreuung in Zusammenhang mit der Covid-19-Epidemie
 language: de
-version: 2021-12-01
-valid_until: 2022-06-15
-version_adopted: 2021-11-16
+version: 2022-06-16
+version_adopted: 2022-06-15
 adopted: 2021-02-18
 in_force: 2021-02-18
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/571.3"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3281/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3365/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die wirtschaftliche Unterstützung von Unternehmen sowie von durch die öffentliche Hand geführten Institutionen der familienergänzenden Kinderbetreuung in Zusammenhang mit der Covid-19-Epidemie
 
-vom 18.02.2021 (Stand 01.12.2021)
+vom 18.02.2021 (Stand 16.06.2022)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -37,20 +36,23 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Dieser Erlass regelt:
 
-- a) die Ausgestaltung der Härtefallmassnahmen des Kantons St.Gallen auf Grundlage des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie vom 25. September 2020[^1-1] (nachfolgend Covid-19-Gesetz) und der eidgenössischen Verordnung über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie vom 25. November 2020[^1-2] (nachfolgend Covid-19-Härtefallverordnung);
-- a<sup>bis</sup>) die Ausgestaltung der Massnahmen des Kantons St.Gallen für Publikumsanlässe von überkantonaler Bedeutung auf Grundlage des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie vom 25. September 2020[^1-3] und der eidgenössischen Verordnung über Massnahmen für Publikumsanlässe von überkantonaler Bedeutung im Zusammenhang mit der Covid-19-Epidemie vom 26. Mai 2021[^1-4];
+- a) die Ausgestaltung der Härtefallmassnahmen des Kantons St.Gallen auf Grundlage des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie vom 25. September 2020[^1-1] (nachfolgend Covid-19-Gesetz), der eidgenössischen Verordnung über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie vom 25. November 2020[^1-2] (nachfolgend Covid-19-Härtefallverordnung) und der eidgenössischen Verordnung über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie im Jahr 2022 vom 2. Februar 2022[^1-3] (nachfolgend Covid-19-Härtefallverordnung 2022);
+- a<sup>bis</sup>) die Ausgestaltung der Massnahmen des Kantons St.Gallen für Publikumsanlässe von überkantonaler Bedeutung auf Grundlage des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie vom 25. September 2020[^1-4] und der eidgenössischen Verordnung über Massnahmen für Publikumsanlässe von überkantonaler Bedeutung im Zusammenhang mit der Covid-19-Epidemie vom 26. Mai 2021[^1-5] (nachfolgend Covid-19-Verordnung Publikumsanlässe);
 - b) die Unterstützung professioneller Sportvereine durch Bereitstellung von Sicherheiten in Zusammenhang mit der Covid-19-Epidemie;
-- c) die Unterstützung von Seilbahnunternehmen durch Darlehen, Solidarbürgschaften und nicht rückzahlbare Beiträge in Zusammenhang mit der Covid-19-Epidemie;
+- c) …
 - d) die Unterstützung von Tourismusorganisationen durch nicht rückzahlbare Beiträge in Zusammenhang mit der Covid-19-Epidemie;
-- e) die Ausgestaltung der Ausfallentschädigungen des Kantons St.Gallen auf Grundlage des Covid-19-Gesetzes und der eidgenössischen Verordnung über Finanzhilfen an die Kantone für Massnahmen zugunsten von durch die öffentliche Hand geführten Institutionen der familienergänzenden Kinderbetreuung im Zusammenhang mit Covid-19 vom 18. Juni 2021[^1-5].
+- e) die Ausgestaltung der Ausfallentschädigungen des Kantons St.Gallen auf Grundlage des Covid-19-Gesetzes und der eidgenössischen Verordnung über Finanzhilfen an die Kantone für Massnahmen zugunsten von durch die öffentliche Hand geführten Institutionen der familienergänzenden Kinderbetreuung im Zusammenhang mit Covid-19 vom 18. Juni 2021[^1-6].
 
 [^1-1]: SR [818.102](https://db.clex.ch/link/Bund/818.102/de).
 [^1-2]: SR [951.262](https://db.clex.ch/link/Bund/951.262/de).
-[^1-3]: SR [818.102](https://db.clex.ch/link/Bund/818.102/de).
-[^1-4]: SR [818.101.28](https://db.clex.ch/link/Bund/818.101.28/de); nachfolgend Covid-19-Verordnung Publikumsanlässe.
-[^1-5]: SR [818.102.3](https://db.clex.ch/link/Bund/818.102.3/de).
+[^1-3]: SR [951.264](https://db.clex.ch/link/Bund/951.264/de).
+[^1-4]: SR [818.102](https://db.clex.ch/link/Bund/818.102/de).
+[^1-5]: SR [818.101.28](https://db.clex.ch/link/Bund/818.101.28/de).
+[^1-6]: SR [818.102.3](https://db.clex.ch/link/Bund/818.102.3/de).
 
 ## II. Härtefallmassnahmen
+
+### 1. Härtefallmassnahmen 2021
 
 #### Art. 2
 
@@ -163,6 +165,8 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Härtefallmassnahmen werden auf Gesuch hin gewährt. Gesuche um Härtefallmassnahmen können einmalig bis zum 31. Oktober 2021 ausschliesslich elektronisch mittels dem bereitgestellten Formular beim Kanton eingereicht werden.
 
+<sup>1<sup>bis</sup></sup> Für Härtefallmassnahmen für den Monat Dezember 2021 können Unternehmen mit einem Jahresumsatz bis 5 Mio. Franken bis zum 30. Juni 2022 ein weiteres Gesuch elektronisch mittels dem bereitgestellten Formular beim Kanton einreichen.
+
 <sup>2</sup> Der Kanton bearbeitet die Gesuche nach dem Zeitpunkt des Gesuchseingangs.
 
 <sup>3</sup> Der Kanton prüft, ob die Gesuche die formellen Voraussetzungen dieses Erlasses und der Covid-19-Härtefallverordnung erfüllen.
@@ -196,7 +200,7 @@ als Gesetz:[^ingress-2]
 
 - a) sorgt für geeignete Massnahmen zur Bewirtschaftung der Solidarbürgschaften;
 - b) ergreift nach Eintritt von Bürgschaftsverlusten geeignete Massnahmen, um den Forderungsbetrag wieder einbringen zu können;
-- c) stellt die Missbrauchsbekämpfung mit geeigneten Mitteln sicher.
+- c) stellt die Missbrauchsbekämpfung mit geeigneten Mitteln sicher und fordert zu Unrecht ausbezahlte Unterstützungsleistungen zurück.
 
 <sup>2</sup> Die zuständigen Departemente treffen je in ihrem Zuständigkeitsbereich die erforderlichen Regelungen.
 
@@ -229,6 +233,68 @@ als Gesetz:[^ingress-2]
 
 [^17-1]: sGS [571.301](https://www.gesetzessammlung.sg.ch/data/571.301/de).
 
+### 2. Härtefallmassnahmen 2022
+
+#### Art. 17bis
+
+**Anforderungen an die Unternehmen**
+
+<sup>1</sup> Unternehmen kann eine Härtefallmassnahme 2022 gewährt werden, wenn sie:
+
+- a) die Anforderungen nach Art. 2, Art. 2a, Art. 3 Abs. 1, Art. 4 Abs. 1, Art. 5 und Art. 5b der Covid-19-Härtefallverordnung vom 25. November 2020 in der Fassung vom 18. Dezember 2021 erfüllen;
+- b) sich zum Zeitpunkt der Einreichung des Gesuchs nicht in einem Konkursverfahren oder in Liquidation befinden;
+- c) sich zum Zeitpunkt der Gesuchseinreichung nicht in einem Betreibungsverfahren für Sozialversicherungsbeiträge oder für steuerrechtliche Forderungen befinden, es sei denn, eine vereinbarte Zahlungsplanung liegt vor;
+- d) die Anforderungen nach Art. 3 Abs. 1 Bst. b und d dieses Erlasses erfüllen;
+- e) per 1. Oktober 2020 ihren Sitz im Kanton St.Gallen haben und per 31. Dezember 2021 Arbeitsplätze im Umfang von wenigstens 100 Stellenprozenten in der Schweiz aufweisen;
+- f) per 31. Dezember 2021 nicht überschuldet waren;
+- g) die Überlebensfähigkeit aufgrund der Jahresabschlüsse 2018 bis 2021 nachweisen können.
+
+<sup>2</sup> Das Unternehmen bestätigt gegenüber dem Kanton, dass:
+
+- a) ihm im Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie ab Januar 2022 ungedeckte Kosten entstanden sind;
+- b) es seine Geschäftstätigkeit fortzusetzen beabsichtigt;
+- c) es die Einschränkung der Verwendung der Mittel nach Art. 3 der Covid-19-Härtefallverordnung 2022 befolgt.
+
+<sup>3</sup> Art. 3 Abs. 2, Art. 4 und Art. 4a dieses Erlasses werden sachgemäss angewendet.
+
+#### Art. 17ter
+
+**Ausgestaltung der Härtefallmassnahmen**
+
+<sup>1</sup> Die Härtefallmassnahmen 2022 können im Rahmen der Anforderungen des Bundesrechts an die Ausgestaltung der Härtefallmassnahmen nach dem 3. Abschnitt der Covid-19-Härtefallverordnung 2022 in Form von nicht rückzahlbaren Beiträgen gewährt werden.
+
+<sup>2</sup> Sie sind auf ungedeckte Kosten in den Monaten Januar bis März 2022 beschränkt.
+
+<sup>3</sup> Es besteht kein Rechtsanspruch auf die Gewährung von Härtefallmassnahmen 2022.
+
+#### Art. 17quater
+
+**Gesuchsverfahren**
+
+<sup>1</sup> Härtefallmassnahmen 2022 werden auf Gesuch hin gewährt. Gesuche können einmalig bis zum 31. Juli 2022 ausschliesslich elektronisch mittels dem bereitgestellten Formular beim Kanton eingereicht werden.
+
+<sup>2</sup> Im Übrigen wird Art. 11 dieses Erlasses sachgemäss angewendet.
+
+#### Art. 17quinquies
+
+**Strafbestimmung**
+
+<sup>1</sup> Sofern keine schwerere strafbare Handlung nach dem Schweizerischen Strafgesetzbuch vom 21. Dezember 1937[^17quinquies-1] vorliegt, wird mit Busse bis zu Fr. 10'000.– bestraft, wer vorsätzlich mit falschen Angaben eine Härtefallmassnahme 2022 nach diesem Erlass erwirkt oder die gewährten Mittel in Abweichung von Art. 3 der Covid-19-Härtefallverordnung 2022 verwendet.
+
+[^17quinquies-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
+
+#### Art. 17sexies
+
+**Ergänzendes Recht**
+
+<sup>1</sup> Folgende Bestimmungen dieses Erlasses werden für die Härtefallmassnahmen 2022 sachgemäss angewendet:
+
+- a) Finanzierung (Art. 10);
+- b) Entscheid (Art. 12);
+- c) Entbindung von Geheimhaltungsvorschriften (Art. 13);
+- d) Missbrauchsbekämpfung (Art. 14);
+- e) Ausführungsbestimmungen und Vollzug (Art. 16).
+
 ## II<sup>bis</sup>. Massnahmen für Publikumsanlässe von überkantonaler Bedeutung (Schutzschirm)
 
 #### Art. 17a
@@ -252,7 +318,10 @@ als Gesetz:[^ingress-2]
 
 **Gesuchsverfahren und Entscheid über die Zusicherung einer Unterstützung**
 
-<sup>1</sup> Eine Unterstützung nach diesem Erlass wird auf Gesuch hin gewährt. Gesuche können in der Planungsphase der Veranstaltung bis 28. Februar 2022 beim Kanton eingereicht werden.
+<sup>1</sup> Eine Unterstützung nach diesem Erlass wird auf Gesuch hin gewährt. Gesuche können in der Planungsphase der Veranstaltung beim Kanton eingereicht werden:
+
+- a) für Veranstaltungen, die bis 30. April 2022 stattfinden sollen, bis 28. Februar 2022;
+- b) für Veranstaltungen, die zwischen dem 1. Mai 2022 und dem 31. Dezember 2022 stattfinden sollen, bis 31. Oktober 2022.
 
 <sup>2</sup> Der Kanton prüft im Einzelfall, ob die Voraussetzungen für die Zusicherung einer Unterstützung in Form einer Beteiligung an den ungedeckten Kosten erfüllt sind. Bei Bedarf können externe Expertinnen und Experten für die Beurteilung einzelner Fragen beigezogen werden.
 
@@ -341,26 +410,9 @@ als Gesetz:[^ingress-2]
 
 <sup>3</sup> Die Finanzierung allfälliger Zahlungspflichten und entsprechender Rückstellungen erfolgt aus dem besonderen Eigenkapital.
 
-## IV. Unterstützung von Seilbahnunternehmen
-
 #### Art. 19
 
-**Darlehen, Solidarbürgschaften und nicht rückzahlbare Beiträge**
-
-<sup>1</sup> Die Regierung kann in Zusammenhang mit der Covid-19-Epidemie Seilbahnunternehmen Darlehen, Solidarbürgschaften oder nicht rückzahlbare Beiträge gewähren. Die Voraussetzungen nach Art. 3 dieses Erlasses werden sachgemäss angewendet, mit Ausnahme der Voraussetzung des Umsatzrückgangs.
-
-<sup>1<sup>bis</sup></sup> Die Regierung kann Seilbahnunternehmen, die aufgrund von Massnahmen des Kantons zur Eindämmung der Covid-19-Epidemie ihren Betrieb zwischen dem 22. und 30. Dezember 2020 schliessen mussten, weitere nicht rückzahlbare Beiträge gewähren. Die Höhe der Unterstützung darf die während der Dauer der Schliessung ungedeckt gebliebenen Fixkosten nicht übersteigen und berücksichtigt die Umsätze der Jahre 2015 bis 2019 in angemessener Form.
-
-<sup>2</sup> Höhe und Modalitäten der Unterstützung richten sich sachgemäss nach Art. 5 bis 9 dieses Erlasses.
-
-<sup>3</sup> Die Standortgemeinden beteiligen sich mit einem Anteil von 40 Prozent an nicht rückzahlbaren Beiträgen nach Abs. 1 dieser Bestimmung. Bei mehreren Standortgemeinden richtet sich das Verhältnis nach der Anzahl Einwohnerinnen und Einwohner per 31. Dezember 2020.
-
-<sup>4</sup> Die Massnahmen nach dieser Bestimmung:
-
-- a) führen zulasten des Kantons zu Kosten von höchstens 6 Mio. Franken;
-- b) sind gegenüber jenen nach Abschnitt II dieses Erlasses und jenen des Bundes subsidiär.
-
-<sup>5</sup> Die Finanzierung erfolgt aus dem besonderen Eigenkapital.
+**…**
 
 ## V. Unterstützung von Tourismusorganisationen
 
