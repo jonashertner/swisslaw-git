@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verordnung über die Krankenversicherung (Datenweitergabe der Versicherer in der obligatorischen Krankenpflegeversicherung und zweiter Teil der Massnahmen zur Kostendämpfung des Pakets 1a)
 document: Vernehmlassungsvorlage
 language: de

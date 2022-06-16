@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sull’assicurazione malattie (trasmissione di dati degli assicuratori nell’assicurazione obbligatoria delle cure medico-sanitarie e la seconda parte delle misure di contenimento dei costi del pacchetto 1a)
 document: Progetto posto in consultazione
 language: it

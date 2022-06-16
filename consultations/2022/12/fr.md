@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur l’assurance-maladie (Transmission de données des assureurs dans l’assurance obligatoire des soins et deuxième partie des mesures visant à freiner la hausse des coûts du volet 1a)
 document: Projet mis en consultation
 language: fr
