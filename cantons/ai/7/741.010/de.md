@@ -4,31 +4,31 @@ number: "741.010"
 title: Verordnung zum Einführungsgesetz zum Strassenverkehrsgesetz
 short: VEG SVG
 language: de
-version: 2014-12-01
-corrected: 2020-09-10
-version_adopted: 2014-12-01
+version: 2022-06-20
+version_adopted: 2022-06-20
 adopted: 1992-06-22
 in_force: 1993-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/741.010"
-pdf: "https://ai.clex.ch/api/de/versions/700/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2090/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung zum Einführungsgesetz zum Strassenverkehrsgesetz (VEG SVG)
+# Verordnung zum Einführungsgesetz zum Strassenverkehrsgesetz
 
-vom 22. Juni 19921
+(VEG SVG)
+
+vom 22.06.1992 (Stand 20.06.2022)
 
 Der Grosse Rat des Kantons Appenzell I. Rh.,
 
-gestützt auf Art. 27 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872 und Art. 10 f. des Einführungsgesetzes zum Strassenverkehrsgesetz vom 26. April 1992 (EG SVG),2
+gestützt auf Art. 27 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872 und Art. 10 f. des Einführungsgesetzes zum Strassenverkehrsgesetz vom 26. April 1992 (EG SVG),
 
 beschliesst:
 
-- l. Zuständigkeiten
+## l. Zuständigkeiten
 
-#### Art. 13
+#### Art. 1
 
 **Zuständigkeit der Polizeiorgane**
 
@@ -36,51 +36,57 @@ beschliesst:
 
 <sup>2</sup> Ihre Befugnisse erstrecken sich ausserdem auf den ruhenden Verkehr sowie die Verkehrsregelung innerorts.
 
-#### Art. 24
+#### Art. 2
 
 **Zuständigkeit des Strassenverkehrsamtes**
 
-Dem Strassenverkehrsamt obliegen alle Massnahmen im Zusammenhang mit der Zulassung von Führern\* und Fahrzeugen sowie der Bezug von Strassenverkehrssteuern und -gebühren.
+<sup>1</sup> Dem Strassenverkehrsamt obliegen alle Massnahmen im Zusammenhang mit der Zulassung von Führern[^2-1] und Fahrzeugen sowie der Bezug von Strassenverkehrssteuern und -gebühren.
+
+[^2-1]: Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
 
 #### Art. 3
 
-Zuständigkeit für <sup>1</sup>Die Anbringung und die Entfernung von Markierungen und Signalen für dauernde die Anbringung oder zeitlich befristete Fahrverbote, Verkehrsbeschränkungen sowie Anordnungen und Entfernung zur Regelung des Verkehrs gemäss Verfügung des Landesfähnrichs ist Sache des von Markierun- Eigentümers der betreffenden Verkehrsfläche bzw. des Gesuchstellers, welcher gen und Signa- auch die entsprechenden Kosten zu übernehmen hat.
+**Zuständigkeit für die Anbringung und Entfernung von Markierungen und Signalen**
 
-len <sup>2</sup>Sofern im Rahmen einer Veranstaltung (Märkte, Umzüge etc.) eine Verkehrsregelung durch die Polizei notwendig ist, hat der Veranstalter die entsprechenden Kosten zu tragen. Über allfällige Ausnahmen entscheidet der Landesfähnrich nach Rücksprache mit dem zuständigen Bezirksrat.
+<sup>1</sup> Die Anbringung und die Entfernung von Markierungen und Signalen für dauernde oder zeitlich befristete Fahrverbote, Verkehrsbeschränkungen sowie Anordnungen zur Regelung des Verkehrs gemäss Verfügung des Landesfähnrichs ist Sache des Eigentümers der betreffenden Verkehrsfläche bzw. des Gesuchstellers, welcher auch die entsprechenden Kosten zu übernehmen hat.
 
-### II. Verwendung von Raupenfahrzeugen ausserhalb
+<sup>2</sup> Sofern im Rahmen einer Veranstaltung (Märkte, Umzüge etc.) eine Verkehrsregelung durch die Polizei notwendig ist, hat der Veranstalter die entsprechenden Kosten zu tragen. Über allfällige Ausnahmen entscheidet der Landesfähnrich nach Rücksprache mit dem zuständigen Bezirksrat.
 
-von öffentlichen Verkehrsflächen
+## II. Verwendung von Raupenfahrzeugen ausserhalb von öffentlichen Verkehrsflächen
 
-Art. 4 Verbot <sup>1</sup>Die Verwendung von Raupenfahrzeugen ausserhalb öffentlicher Verkehrsflächen im Sinne des SVG ist mit Ausnahme derjenigen der Armee grundsätzlich verboten.
+#### Art. 4
 
-<sup>2</sup> Für die Verwendung von Raupenfahrzeugen auf öffentlichen Verkehrsflächen im Sinne des SVG gelten die einschlägigen Vorschriften der Eidgenössischen Stras-
+**Verbot**
 
-senverkehrsgesetzgebung, insbesondere Art. 43 Abs. 1 SVG.
+<sup>1</sup> Die Verwendung von Raupenfahrzeugen ausserhalb öffentlicher Verkehrsflächen im Sinne des SVG ist mit Ausnahme derjenigen der Armee grundsätzlich verboten.
+
+<sup>2</sup> Für die Verwendung von Raupenfahrzeugen auf öffentlichen Verkehrsflächen im Sinne des SVG gelten die einschlägigen Vorschriften der Eidgenössischen Strassenverkehrsgesetzgebung, insbesondere Art. 43 Abs. 1 SVG.
 
 #### Art. 5
 
-Ausnahme vom <sup>1</sup>Ausnahmen vom Verbot gemäss Art. 4 Abs. 1 dieser Verordnung können insbe-Verbot sondere für die Pistenbearbeitung und für den Zubringerdienst zu abgelegenen Gebäuden bewilligt werden.
+**Ausnahme vom Verbot**
 
-<sup>2</sup> ln der Ausnahmebewilligung sind die erlaubte Strecke oder Region sowie der Ver-
+<sup>1</sup> Ausnahmen vom Verbot gemäss Art. 4 Abs. 1 dieser Verordnung können insbesondere für die Pistenbearbeitung und für den Zubringerdienst zu abgelegenen Gebäuden bewilligt werden.
 
-wendungszweck und allfällige weitere Auflagen aufzuführen.
+<sup>2</sup> ln der Ausnahmebewilligung sind die erlaubte Strecke oder Region sowie der Verwendungszweck und allfällige weitere Auflagen aufzuführen.
 
 #### Art. 6
 
-Entzug der Aus- Ausnahmebewilligungen gemäss Art. 5 dieser Verordnung werden bei Missbrauch nahmebewilli- bzw. bei Wegfall der Voraussetzungen entzogen.
+**Entzug der Ausnahmebewilligung**
 
-gung
+<sup>1</sup> Ausnahmebewilligungen gemäss Art. 5 dieser Verordnung werden bei Missbrauch bzw. bei Wegfall der Voraussetzungen entzogen.
 
-### III. Besondere Vorschriften
+## III. Besondere Vorschriften
 
 #### Art. 7
 
-Entfernung von <sup>1</sup>Vorschriftswidrig aufgestellte Fahrzeuge, die den Verkehr behindern oder gefährvorschriftswidrig den, werden von der Kantonspolizei auf Kosten und Gefahr des Lenkers bzw. Halaufgestellten ters entfernt, wenn dieser nicht erreichbar ist oder sich weigert, das Fahrzeug weg-Fahrzeugen zustellen.
+**Entfernung von vorschriftswidrig aufgestellten Fahrzeugen**
+
+<sup>1</sup> Vorschriftswidrig aufgestellte Fahrzeuge, die den Verkehr behindern oder gefährden, werden von der Kantonspolizei auf Kosten und Gefahr des Lenkers bzw. Halters entfernt, wenn dieser nicht erreichbar ist oder sich weigert, das Fahrzeug wegzustellen.
 
 <sup>2</sup> Lässt sich der Lenker oder Halter nicht ermitteln, wird über solche Fahrzeuge auf dessen Kosten und Gefahr verfügt.
 
-#### Art. 81
+#### Art. 8
 
 **Eigentum der Kontrollschilder**
 
@@ -92,95 +98,70 @@ Entfernung von <sup>1</sup>Vorschriftswidrig aufgestellte Fahrzeuge, die den Ver
 
 <sup>4</sup> Schilderübertragungen sind gebührenpflichtig, ausgenommen sind Übertragungen unter Ehegatten oder unter Personen in eingetragener Partnerschaft.
 
-<sup>5</sup> Kontrollschilder mit Wunsch-Zahlenkombinationen werden, sofern ihre Neuzuteilung zulässig ist, gegen eine besondere Gebühr von max. Fr. 2'000.— abgegeben. Das Departement regelt die Einzelheiten. Bei Wegzug des Inhabers oder bei Verlust eines derartigen Schildes erfolgt keine Rückerstattung des Bezugspreises.
+<sup>5</sup> Kontrollschilder mit Wunsch-Zahlenkombinationen werden, sofern ihre Neuzuteilung zulässig ist, gegen eine besondere Gebühr von max. Fr. 2'000.-- abgegeben. Das Departement regelt die Einzelheiten. Bei Wegzug des Inhabers oder bei Verlust eines derartigen Schildes erfolgt keine Rückerstattung des Bezugspreises.
 
 #### Art. 9
 
 **Einbau von Taxameter**
 
-In Taxifahrzeugen, mit denen gewerbsmässige Personentransporte ausgeführt werden, ist ein Taxameter einzubauen, welcher den zu bezahlenden Fahrpreis angibt.
+<sup>1</sup> In Taxifahrzeugen, mit denen gewerbsmässige Personentransporte ausgeführt werden, ist ein Taxameter einzubauen, welcher den zu bezahlenden Fahrpreis angibt.
 
 #### Art. 10
 
 **Kontrollfahrt beim Umtausch ausländischer Führerausweise**
 
-Inhaber ausländischer Führerausweise, welche einen schweizerischen Führerausweis beantragen, können vor dem Umtausch zu einer Kontrollfahrt aufgeboten werden. Verläuft die Kontrollfahrt negativ, ist im ordentlichen Verfahren ein Lernfahrausweis zu beantragen.
+<sup>1</sup> Inhaber ausländischer Führerausweise, welche einen schweizerischen Führerausweis beantragen, können vor dem Umtausch zu einer Kontrollfahrt aufgeboten werden. Verläuft die Kontrollfahrt negativ, ist im ordentlichen Verfahren ein Lernfahrausweis zu beantragen.
 
-#### Art. 111
+#### Art. 11
 
-### IV. Verfahren bei der Erhebung von Ordnungsbussen
+**…**
 
-im Strassenverkehr
+## IV. Verfahren bei der Erhebung von Ordnungsbussen im Strassenverkehr
 
-#### Art. 122
+#### Art. 12
 
-**Erhebung von Ordnungsbussen**
+**…**
 
-<sup>1</sup> Die bundesrechtlichen Ordnungsbussen im Strassenverkehr fallen dem Kanton zu.
+## V. Strassenverkehrssteuer und Gebühren
 
-<sup>2</sup> Wird das ordentliche Strafverfahren durchgeführt, so gelten für die Ordnungsbussen im Strassenverkehr die Vorschriften der Strafprozessgesetzgebung.
-
-<sup>3</sup> Sofern die Polizeiorgane aufgrund eines entsprechenden Beschlusses der Standeskommission im Sinne von Art. 4 Abs. 2 des Ordnungsbussengesetzes vom 24. Juni 1970 (OBG) zur Bussenerhebung keine Dienstuniform tragen müssen, haben sie einen Dienstausweis mitzuführen und diesen auf Verlangen vorzuweisen.
-
-### V. Strassenverkehrssteuer und Gebühren
-
-#### Art. 133
+#### Art. 13
 
 **Einfache Steuer**
 
-Die einfache Steuer beträgt für:
+<sup>1.</sup> Die einfache Steuer beträgt für:
 
 - 1\. Kleinmotorräder und Motorräder:
-
-Für die ersten 250 kg Gesamtgewicht Fr. 60.—;
-
-für jede weiteren 10 kg Fr. 8.—.
-
+  - a) Für die ersten 250 kg Gesamtgewicht Fr. 60.--;
+  - b) für jede weiteren 10 kg Fr. 8.--.
 - 2\. Personenwagen:
-
-Für die ersten 1’000 kg Gesamtgewicht Fr. 200.—;
-
-für jede weiteren 10 kg Fr. 3.—.
-
+  - a) Für die ersten 1'000 kg Gesamtgewicht Fr. 200.--;
+  - b) für jede weiteren 10 kg Fr. 3.--.
 - 3\. Übrige Motorfahrzeuge sowie Anhänger:
-
-Für die ersten 1’000 kg Fr. 200.—;
-
-für die folgenden 1’000 kg: je 10 kg Fr. 3.—;
-
-ab 2’000 kg: je weitere 10 kg Fr. —.90.
-
+  - a) Für die ersten 1'000 kg Fr. 200.--;
+  - b) für die folgenden 1'000 kg: je 10 kg Fr. 3.--;
+  - c) ab 2'000 kg: je weitere 10 kg Fr. --.90.
 - 4\. Die einfache Steuer gemäss Ziff. 3. wird ermässigt:
+  - a) auf die Hälfte für Anhänger. Die Maximalsteuer für Ausnahmeanhänger beträgt Fr. 750.--;
+  - b) auf einen Viertel für gewerbliche Motorkarren;
+  - c) auf einen Fünftel für landwirtschaftliche Arbeitskarren, Motorkarren und Traktoren. Die Minimalsteuer beträgt Fr. 100.--;
+  - d) auf einen Achtel für Arbeitskarren, Arbeitsmaschinen, landwirtschaftliche Anhänger und Schaustelleranhänger.
+- 5\. Für Fahrzeugflotten von über 300 Fahrzeugen kann die Standeskommission von den in Ziff. 1.–4. aufgeführten Tarifen abweichende Pauschalansätze festlegen.
 
-- auf die Hälfte für Anhänger. Die Maximalsteuer für Ausnahmeanhänger beträgt Fr. 750.—;
-
-- auf einen Viertel für gewerbliche Motorkarren;
-
-- auf einen Fünftel für landwirtschaftliche Arbeitskarren, Motorkarren und Traktoren. Die Minimalsteuer beträgt Fr. 100.—;
-
-- auf einen Achtel für Arbeitskarren, Arbeitsmaschinen, landwirtschaftliche Anhänger und Schaustelleranhänger.
-
-- 5\. Für Fahrzeugflotten von über 300 Fahrzeugen kann die Standeskommission von den in Ziff. 1. – 4. aufgeführten Tarifen abweichende Pauschalansätze festlegen.
-
-#### Art. 141
+#### Art. 14
 
 **Pauschalsteuer**
 
 <sup>1</sup> Für Arbeitsanhänger und Motoreinachser wird eine Pauschalsteuer erhoben. Sie beträgt:
 
-Fr. 50.— für landwirtschaftliche Motoreinachser;
+- a) Fr. 50.-- für landwirtschaftliche Motoreinachser;
+- b) Fr. 100.-- für gewerbliche Motoreinachser;
+- c) Fr. 50.-- für Arbeitsanhänger mit einem Gesamtgewicht unter 3'500 kg;
+- d) Fr. 100.-- für Arbeitsanhänger mit einem Gesamtgewicht über 3'500 kg;
+- e) Fr. 200.-- für Arbeitsanhänger–Ausnahmefahrzeuge.
 
-Fr. 100.— für gewerbliche Motoreinachser;
+<sup>2</sup> Die einfache Steuer für Motorwagen (Art. 22 Abs. 1 lit. a Verkehrsversicherungsverordnung vom 20. November 1999; VVV) mit Händlerschildern beträgt Fr. 1'000.--, für die übrigen Kategorien einen Drittel.
 
-Fr. 50.— für Arbeitsanhänger mit einem Gesamtgewicht unter 3’500 kg;
-
-Fr. 100.— für Arbeitsanhänger mit einem Gesamtgewicht über 3’500 kg;
-
-Fr. 200.— für Arbeitsanhänger–Ausnahmefahrzeuge.
-
-<sup>2</sup> Die einfache Steuer für Motorwagen (Art. 22 Abs. 1 lit. a Verkehrsversicherungsverordnung vom 20. November 1999; VVV) mit Händlerschildern beträgt Fr. 1’000.—, für die übrigen Kategorien einen Drittel.
-
-<sup>3</sup> Für Motorfahrräder wird eine Pauschalsteuer von Fr. 28.— erhoben.
+<sup>3</sup> Für Motorfahrräder wird eine Pauschalsteuer von Fr. 28.-- erhoben.
 
 #### Art. 15
 
@@ -190,13 +171,11 @@ Fr. 200.— für Arbeitsanhänger–Ausnahmefahrzeuge.
 
 <sup>2</sup> Der Steuerbetrag wird auf den nächsten Franken aufgerundet.
 
-2
-
 #### Art. 16
 
 **Festlegung Strassenverkehrsabgaben**
 
-Die Standeskommission legt die Höhe der Strassenverkehrsabgaben jährlich fest. Für Fahrzeugflotten von über 300 Fahrzeugen können abweichende Pauschalansätze angewendet werden.
+<sup>1</sup> Die Standeskommission legt die Höhe der Strassenverkehrsabgaben jährlich fest. Für Fahrzeugflotten von über 300 Fahrzeugen können abweichende Pauschalansätze angewendet werden.
 
 #### Art. 17
 
@@ -206,9 +185,11 @@ Die Standeskommission legt die Höhe der Strassenverkehrsabgaben jährlich fest.
 
 <sup>2</sup> Vorbehalten bleiben die bundesrechtlichen Bestimmungen über die Verlegung des Standortes in einen anderen Kanton.
 
-#### Art. 181
+#### Art. 18
 
-Steuerperiode <sup>1</sup>Die Steuer ist für ein Kalenderjahr im Voraus geschuldet. Vorbehalten bleiben die Bestimmungen über die provisorische Immatrikulation.
+**Steuerperiode**
+
+<sup>1</sup> Die Steuer ist für ein Kalenderjahr im Voraus geschuldet. Vorbehalten bleiben die Bestimmungen über die provisorische Immatrikulation.
 
 <sup>2</sup> Bei der provisorischen Immatrikulation von Fahrzeugen muss die Verkehrssteuer für so lange entrichtet werden, als der Versicherungsnachweis das Bestehen einer Haftpflichtversicherung befristet.
 
@@ -216,29 +197,33 @@ Steuerperiode <sup>1</sup>Die Steuer ist für ein Kalenderjahr im Voraus geschul
 
 #### Art. 19
 
-Steuerbezug <sup>1</sup>Die Ausweise und Kontrollschilder können bis zur Bezahlung der Steuern und Gebühren zurückbehalten werden.
+**Steuerbezug**
+
+<sup>1</sup> Die Ausweise und Kontrollschilder können bis zur Bezahlung der Steuern und Gebühren zurückbehalten werden.
 
 <sup>2</sup> Werden die Steuern nicht zum voraus oder bis zur gesetzten Frist bezahlt, lässt das Strassenverkehrsamt nach einer zweimaligen gebührenpflichtigen Mahnung die Kontrollschilder und den Fahrzeugausweis nach der gesetzten Frist auf Kosten des Steuerpflichtigen durch die Polizei einziehen.
 
-#### Art. 202
+#### Art. 20
 
-Steuerrück- <sup>1</sup>Werden Motorfahrzeuge oder Motorfahrzeuganhänger vor Ablauf der Steuerperioerstattung de ausser Verkehr gesetzt, wird der Betrag der Steuer für den Rest der Steuerperiode zurückerstattet.
+**Steuerrückerstattung**
+
+<sup>1</sup> Werden Motorfahrzeuge oder Motorfahrzeuganhänger vor Ablauf der Steuerperiode ausser Verkehr gesetzt, wird der Betrag der Steuer für den Rest der Steuerperiode zurückerstattet.
 
 <sup>2</sup> Die Steuerrückerstattung im Sinne von Abs. 1 dieses Artikels erfolgt nur, wenn die Kontrollschilder beim Strassenverkehrsamt hinterlegt sind.
 
-<sup>3</sup> Bei einer Deponierung von Schildern ist bei Wiederinverkehrsetzung eine Gebühr
+<sup>3</sup> Bei einer Deponierung von Schildern ist bei Wiederinverkehrsetzung eine Gebühr von Fr. 20.-- pro Schild oder pro Schilderpaar zu entrichten.
 
-von Fr. 20.— pro Schild oder pro Schilderpaar zu entrichten.
-
-<sup>4</sup> Ein Restbetrag von weniger als Fr. 10.— muss vom Berechtigten innert 30 Tagen seit der entsprechenden Anzeige beim Strassenverkehrsamt abgeholt werden, ansonsten dieser Betrag verfällt.
+<sup>4</sup> Ein Restbetrag von weniger als Fr. 10.-- muss vom Berechtigten innert 30 Tagen seit der entsprechenden Anzeige beim Strassenverkehrsamt abgeholt werden, ansonsten dieser Betrag verfällt.
 
 #### Art. 21
 
-Besteuerung bei <sup>1</sup>Bei Verwendung von Wechselschildern wird für das Fahrzeug mit der höheren Wechsel- Steuer der ganze Steuerbetrag erhoben. Für das zweite Fahrzeug wird eine Pauschildern schalsteuer erhoben. Diese beträgt Fr. 120.—, jedoch maximal 100% der Steuer für das zweite Fahrzeug.
+**Besteuerung bei Wechselschildern**
+
+<sup>1</sup> Bei Verwendung von Wechselschildern wird für das Fahrzeug mit der höheren Steuer der ganze Steuerbetrag erhoben. Für das zweite Fahrzeug wird eine Pauschalsteuer erhoben. Diese beträgt Fr. 120.--, jedoch maximal 100% der Steuer für das zweite Fahrzeug.
 
 <sup>2</sup> Bei missbräuchlicher Verwendung von Wechselschildern ist für das zweite Motorfahrzeug oder den zweiten Anhänger die volle Jahressteuer nachzubezahlen. Zudem kann in diesem Falle die Abgabe von Wechselschildern vorübergehend oder dauernd verweigert werden.
 
-#### Art. 221
+#### Art. 22
 
 **Besteuerung bei Standortwechsel**
 
@@ -248,7 +233,7 @@ Besteuerung bei <sup>1</sup>Bei Verwendung von Wechselschildern wird für das Fa
 
 <sup>3</sup> Vorbehalten bleiben die Sondervorschriften für provisorisch immatrikulierte Fahrzeuge (Art. 17 VVV).
 
-#### Art. 232
+#### Art. 23
 
 **Besteuerung bei Fahrzeugwechsel**
 
@@ -256,41 +241,24 @@ Besteuerung bei <sup>1</sup>Bei Verwendung von Wechselschildern wird für das Fa
 
 <sup>2</sup> Kann bei einem Fahrzeugwechsel der Fahrzeugausweis des bisherigen Fahrzeuges nicht beigebracht werden, so sind dem Halter neue Kontrollschilder zuzuteilen.
 
-#### Art. 243
+#### Art. 24
 
 **Besteuerung von Ersatzfahrzeugen**
 
-Die Verwendung von Ersatzfahrzeugen im Sinne von Art. 9 ff. VVV löst keine neue Steuerbemessung aus.
+<sup>1</sup> Die Verwendung von Ersatzfahrzeugen im Sinne von Art. 9 ff. VVV löst keine neue Steuerbemessung aus.
 
 #### Art. 25
 
 **Erlass von Gebühren**
 
-Das Strassenverkehrsamt kann in Sonderfällen auf die Erhebung von Gebühren verzichten.
+<sup>1</sup> Das Strassenverkehrsamt kann in Sonderfällen auf die Erhebung von Gebühren verzichten.
 
-### VI. Schlussbestimmung1
+## VI. Schlussbestimmung
 
-#### Art. 262
+#### Art. 26
 
-Inkrafttreten Diese Verordnung tritt nach Annahme durch den Grossen Rat auf den 1. Januar 1993 in Kraft.
+**Inkrafttreten**
 
-## Weitere Fussnoten
+<sup>1</sup> Diese Verordnung tritt nach Annahme durch den Grossen Rat auf den 1. Januar 1993 in Kraft.
 
-- [1] Mit Revisionen vom 28. Oktober 1996, 16. Februar 1998, 30. November 1999, 19. November 2001, 25. Oktober 2004, 20. November 2006 und 1. Dezember 2014.
-- [2] Titel und Ingress abgeändert durch GrRB vom 25. Oktober 2004.
-- [3] Abgeändert (Abs. 2) durch GrRB vom 28. Oktober 1996 (Inkrafttreten: 1. Januar 1997). Abgeändert (Abs. 1) durch GrRB vom 25. Oktober 2004.
-- [4] Abgeändert durch GrRB vom 20. November 2006 (Inkrafttreten: 1. Januar 2007).
-- [*] Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
-- [1] Abgeändert durch GrRB vom 30. November 1999. Abgeändert (Abs. 2) durch GrRB vom 25. Oktober 2004. Abgeändert (Abs. 4) durch GrRB vom 20. November 2006 (Inkrafttreten: 1. Januar 2007).
-- [1] Aufgehoben durch GrRB vom 16. Februar 1998 (Inkrafttreten: 1. Januar 1998).
-- [2] Abgeändert (Abs. 1) durch GrRB vom 28. Oktober 1996 (Inkrafttreten: 1. Januar 1997). Abgeändert (Abs. 3) durch GrRB vom 25. Oktober 2004. Abgeändert (Abs. 2) durch GrRB vom 1. Dezember 2014.
-- [3] Abgeändert (Ziff. 4.) durch GrRB vom 30. November 1999. Ergänzt (Ziff. 5) durch GrRB vom 19. November 2001 (Inkrafttreten: 1. Januar 2002). Abgeändert (Ziff. 4. und 5.) durch GrRB vom 25. Oktober 2004.
-- [1] Abgeändert (Abs. 2) durch GrRB vom 25. Oktober 2004.
-- [2] Abgeändert durch GrRB vom 19. November 2001 (Inkrafttreten: 1. Januar 2002) und GrRB vom 25. Oktober 2004.
-- [1] Aufgehoben (aAbs. 2) durch GrRB vom 16. Februar 1998 (Inkrafttreten: 1. Januar 1998). Abgeändert (Absatznummerierung) durch GrRB vom 25. Oktober 2004.
-- [2] Aufgehoben (aAbs. 2) und abgeändert (aAbs. 3, neu Abs. 2) durch GrRB vom 16. Februar 1998 (Inkrafttreten: 1. Januar 1998). Abgeändert (Absatznummerierung) durch GrRB vom 25. Oktober 2004.
-- [1] Abgeändert (Abs. 2) durch GrRB vom 25. Oktober 2004.
-- [2] Abgeändert (Abs. 1) durch GrRB vom 25. Oktober 2004.
-- [3] Abgeändert durch GrRB vom 25. Oktober 2004.
-- [1] Neuer Titel durch GrRB vom 25. Oktober 2004.
-- [2] Abgeändert durch GrRB vom 25. Oktober 2004.
+cGS -
