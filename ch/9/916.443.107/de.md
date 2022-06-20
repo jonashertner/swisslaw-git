@@ -3,18 +3,18 @@ sr: "916.443.107"
 title: "Verordnung des BLV vom 6. August 2021 über Massnahmen gegen die Verschleppung der Afrikanischen Schweinepest im Verkehr mit den Mitgliedstaaten der Europäischen Union, Island und Norwegen"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/474"
 language: de
-version: 2022-06-03
+version: 2022-06-21
 adopted: 2021-08-06
 in_force: 2021-08-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20220603/de/xml/fedlex-data-admin-ch-eli-cc-2021-474-20220603-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20220603/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20220621/de/xml/fedlex-data-admin-ch-eli-cc-2021-474-20220621-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20220621/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen gegen die Verschleppung der Afrikanischen Schweinepest im Verkehr mit den Mitgliedstaaten der Europäischen Union, Island und Norwegen
 
-vom 6. August 2021 (Stand am 3. Juni 2022)
+vom 6. August 2021 (Stand am 21. Juni 2022)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -64,8 +64,8 @@ Die Einfuhr von lebenden Tieren und Tierprodukten nach Artikel 1 Absatz 2 aus de
 
 <sup>2</sup> Die Einfuhr von lebenden Wildschweinen aus dem gesamten Hoheitsgebiet von Mitgliedstaaten der EU, Island und Norwegen ist verboten.
 
-[^2-1]: Fassung gemäss Ziff. I der V des BLV vom 1. Juni 2022, in Kraft seit 3. Juni 2022 ([AS 2022 328](https://fedlex.data.admin.ch/eli/oc/2022/328)).
-[^2-2]: Durchführungsverordnung (EU) 2021/605 der Kommission vom 7. April 2021 mit besonderen Massnahmen zur Bekämpfung der Afrikanischen Schweinepest, ABl. L 129 vom 15.4.2021, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2022/743, ABl. L 137 vom 16.5.2022, S. 45.
+[^2-1]: Fassung gemäss Ziff. I der V des BLV vom 17. Juni 2022, in Kraft seit 21. Juni 2022 ([AS 2022 363](https://fedlex.data.admin.ch/eli/oc/2022/363)).
+[^2-2]: Durchführungsverordnung (EU) 2021/605 der Kommission vom 7. April 2021 mit besonderen Massnahmen zur Bekämpfung der Afrikanischen Schweinepest, ABl. L 129 vom 15.4.2021, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2022/917, ABl. L 159 vom 14.6.2022, S. 3.
 [^2-3]: Delegierte Verordnung (EU) 2020/687 der Kommission vom 17. Dezember 2019 zur Ergänzung der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich Vorschriften für die Prävention und Bekämpfung bestimmter gelisteter Seuchen, ABl. L 174 vom 3.6.2020, S. 64; geändert durch Delegierte Verordnung (EU) 2021/1140, ABl. L 247 vom 13.7.2021, S. 50.
 
 #### Art. 3
@@ -135,7 +135,7 @@ Anhang*[^t-1]*
 
 ## Betroffene Mitgliedstaaten und Gebiete
 
-[^t-1]: Fassung gemäss Ziff. II der V des BLV vom 1. Juni 2022, in Kraft seit 3. Juni 2022 ([AS 2022 328](https://fedlex.data.admin.ch/eli/oc/2022/328)).
+[^t-1]: Fassung gemäss Ziff. II der V des BLV vom 17. Juni 2022, in Kraft seit 21. Juni 2022 ([AS 2022 363](https://fedlex.data.admin.ch/eli/oc/2022/363)).
 
 ### 1 Sperrzonen nach der Durchführungsverordnung (EU) 2021/605
 
@@ -143,7 +143,7 @@ Die Mitgliedstaaten der EU und die dort geltenden Sperrzonen nach Artikel 2 Absa
 
 <table>
 <tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
-<tr><td>Durchführungsverordnung (EU) 2021/605</td><td>Durchführungsverordnung (EU) 2021/605 der Kommission vom 7. April 2021 mit besonderen Massnahmen zur Bekämpfung der Afrikanischen Schweinepest, ABl. L 129 vom 15.4.2021, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2022/743, ABl. L 137 vom 16.5.2022, S. 45.</td></tr>
+<tr><td>Durchführungsverordnung (EU) 2021/605</td><td>Durchführungsverordnung (EU) 2021/605 der Kommission vom 7. April 2021 mit besonderen Massnahmen zur Bekämpfung der Afrikanischen Schweinepest, ABl. L 129 vom 15.4.2021, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2022/917, ABl. L 159 vom 14.6.2022, S. 3</td></tr>
 </table>
 
 Im Anhang I des obengenannten Durchführungsbeschlusses werden bestimmte Gebiete von betroffenen Mitgliedstaaten entsprechend dem Risiko der Verschleppung des Virus der Afrikanischen Schweinepest in die folgenden drei Teile eingeteilt:
@@ -212,14 +212,17 @@ Slowakei
 
 ### 2 Andere infizierte Zonen
 
-Die Mitgliedstaaten der EU sowie die infizierten Zonen nach der Delegierten Verordnung (EU) 2020/687[^annexu1-lvlu1-lvl2-1], die ausserhalb der unter Ziffer 1 genannten Gebiete liegen, sind im folgenden Durchführungsbeschluss festgelegt:
+Die Mitgliedstaaten der EU sowie die infizierten Zonen nach der Delegierten Verordnung (EU) 2020/687[^annexu1-lvlu1-lvl2-1], die ausserhalb der unter Ziffer 1 genannten Gebiete liegen, sind in den folgenden Durchführungsbeschlüssen festgelegt:
 
 <table>
 <tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
-<tr><td>Durchführungsbeschluss (EU) 2022/746</td><td>Durchführungsbeschluss (EU) 2022/746 der Kommission vom 13. Mai 2022 betreffend bestimmte Sofortmassnahmen in Bezug auf die Afrikanische Schweinepest in Italien, ABl. L 137 vom 16.5.2022, S. 173.</td></tr>
+<tr><td>Durchführungsbeschluss (EU) 2022/920</td><td>Durchführungsbeschluss (EU) 2022/920 der Kommission vom 13. Juni 2022 betreffend bestimmte Sofortmassnahmen in Bezug auf die Afrikanische Schweinepest in Italien, Fassung gemäss ABl. L 159 vom 14.6.2022, S. 90</td></tr>
+<tr><td>Durchführungsbeschluss (EU) 2022/921</td><td>Durchführungsbeschluss (EU) 2022/921 der Kommission vom 13. Juni 2022 betreffend bestimmte Sofortmassnahmen in Bezug auf die Afrikanische Schweinepest in Deutschland, Fassung gemäss ABl. L 159 vom 14.6.2022, S. 94</td></tr>
 </table>
 
-In folgendem Mitgliedstaat der EU bestehen solche infizierten Zonen:
+In folgenden Mitgliedstaaten der EU bestehen solche infizierten Zonen:
+
+Deutschland
 
 Italien
 

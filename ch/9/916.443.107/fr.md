@@ -3,18 +3,18 @@ sr: "916.443.107"
 title: "Ordonnance de l’OSAV du 6 août 2021 instituant des mesures contre la propagation de la peste porcine africaine par les échanges d’importation, de transit et d’exportation avec les États membres de l’Union européenne, l’Islande et la Norvège"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/474"
 language: fr
-version: 2022-06-03
+version: 2022-06-21
 adopted: 2021-08-06
 in_force: 2021-08-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20220603/fr/xml/fedlex-data-admin-ch-eli-cc-2021-474-20220603-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20220603/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20220621/fr/xml/fedlex-data-admin-ch-eli-cc-2021-474-20220621-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20220621/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures contre la propagation de la peste porcine africaine par les échanges d’importation, de transit et d’exportation avec les États membres de l’Union européenne, l’Islande et la Norvège
 
-du 6 août 2021 (Etat le 3 juin 2022)
+du 6 août 2021 (Etat le 21 juin 2022)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -64,8 +64,8 @@ Il est interdit d’importer les animaux et produits animaux visés à l’art. 
 
 <sup>2</sup> Il est interdit d’importer des sangliers vivants en provenance de l’entier du territoire des États membres de l’UE, de Norvège et d’Islande.
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 1<sup>er</sup> juin 2022, en vigueur depuis le 3 juin 2022 ([RO 2022 328](https://fedlex.data.admin.ch/eli/oc/2022/328)).
-[^2-2]: Règlement d’exécution (UE) 2021/605 de la Commission du 7 avril 2021 établissant des mesures spéciales de lutte contre la peste porcine africaine, JO L 129 du 15.4.2021, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2022/743, JO L 137 du 16.5.2022, p. 45.
+[^2-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 17 juin 2022, en vigueur depuis le 21 juin 2022 ([RO 2022 363](https://fedlex.data.admin.ch/eli/oc/2022/363)).
+[^2-2]: Règlement d’exécution (UE) 2021/605 de la Commission du 7 avril 2021 établissant des mesures spéciales de lutte contre la peste porcine africaine, JO L 129 du 15.4.2021, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2022/917, JO L 159 du 14.6.2022, p. 3
 [^2-3]: Règlement délégué (UE) 2020/687 de la Commission du 17 décembre 2019 complétant le règlement (UE) 2016/429 du Parlement européen et du Conseil en ce qui concerne les règles relatives à la prévention de certaines maladies répertoriées et à la lutte contre celles-ci, JO L 174 du 3.6.2020, p. 64; modifié par le règlement délégué (UE) 2021/1140, JO L 247 du 13.7.2021, p. 50
 
 #### Art. 3
@@ -135,7 +135,7 @@ Annexe*[^t-1]*
 
 ## États membres et zones concernés
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 1<sup>er</sup> juin 2022, en vigueur depuis le 3 juin 2022 ([RO 2022 328](https://fedlex.data.admin.ch/eli/oc/2022/328)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 17 juin 2022, en vigueur depuis le 21 juin 2022 ([RO 2022 363](https://fedlex.data.admin.ch/eli/oc/2022/363)).
 
 ### 1. Zones réglementées conformément au règlement d’exécution (UE) 2021/605
 
@@ -143,7 +143,7 @@ Les États membres de l’UE et les zones réglementées visées à l’art. 2, 
 
 <table>
 <tr><td>Acte de l’UE</td><td>Titre et date de publication de l’acte et dates de publication des actes modificateurs</td></tr>
-<tr><td>Règlement d’exécution (UE) 2021/605</td><td>Règlement d’exécution (UE) 2021/605 de la Commission du 7 avril 2021 établissant des mesures spéciales de lutte contre la peste porcine africaine, JO L 129 du 15.4.2021, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2022/743, JO L 137 du 16.5.2022, p. 45</td></tr>
+<tr><td>Règlement d’exécution (UE) 2021/605</td><td>Règlement d’exécution (UE) 2021/605 de la Commission du 7 avril 2021 établissant des mesures spéciales de lutte contre la peste porcine africaine, JO L 129 du 15.4.2021, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2022/917, JO L 159 du 14.6.2022, p. 3</td></tr>
 </table>
 
 L’annexe I du règlement d’exécution précité classe certaines zones des États membres concernés dans les trois parties ci-après en fonction du risque d’introduction du virus de la peste porcine africaine:
@@ -212,14 +212,17 @@ Slovaquie
 
 ### 2 Autres zones infectées
 
-Les États membres de l’UE et les zones infectées selon le règlement délégué (UE) 2020/687[^annexu1-lvlu1-lvl2-1] qui ont été établies en plus des zones mentionnées au ch. 1 sont inscrits dans la décision d’exécution suivante:
+Les États membres de l’UE et les zones infectées selon le règlement délégué (UE) 2020/687[^annexu1-lvlu1-lvl2-1] qui ont été établies en plus des zones mentionnées au ch. 1 sont inscrits dans les décisions d’exécution suivantes:
 
 <table>
 <tr><th>Acte de l’UE</th><th>Titre et date de publication de l’acte et dates de publication des actes modificateurs</th></tr>
-<tr><td>Décision d’exécution (UE) 2022/746</td><td>Décision d’exécution (UE) 2022/746 de la Commission du 13 mai 2022 concernant certaines mesures d’urgence contre la peste porcine africaine en Italie, JO L 137 du 16.5.2022, p. 173</td></tr>
+<tr><td>Décision d’exécution (UE) 2022/920</td><td>Décision d’exécution (UE) 2022/920 de la Commission du 13 juin 2022 concernant certaines mesures d’urgence contre la peste porcine africaine en Italie, version du JO L 159 du 14.6.2022, p. 90</td></tr>
+<tr><td>Décision d’exécution (UE) 2022/921</td><td>Décision d’exécution (UE) 2022/921 de la Commission du 13 juin 2022 concernant certaines mesures d’urgence contre la peste porcine africaine en Allemagne, version du JO L 159 du 14.6.2022, p. 94</td></tr>
 </table>
 
-Des zones réglementées ont été délimitées dans l’État membre de l’UE suivant:
+Des zones réglementées ont été délimitées dans les États membres de l’UE suivants:
+
+Allemagne
 
 Italie
 
