@@ -4,13 +4,13 @@ number: "185.11"
 title: Finanzausgleichsverordnung
 short: FAV
 language: de
-version: 2020-04-01
-valid_until: 2022-06-20
-version_adopted: 2020-03-31
+version: 2022-06-21
+valid_until: 2022-12-31
+version_adopted: 2022-06-21
 adopted: 2016-03-15
 in_force: 2016-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/185.11"
-pdf: "https://bl.clex.ch/api/de/versions/2629/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3356/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2629/pdf_file"
 
 (FAV)
 
-Vom 15.03.2016 (Stand 01.04.2020)
+Vom 15.03.2016 (Stand 21.06.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -114,7 +114,7 @@ beschliesst:
 
 **Ausgleichsniveau**
 
-<sup>1</sup> Das Ausgleichsniveau für die Jahre 2019–2021 beträgt CHF 2‘650.–.
+<sup>1</sup> Das Ausgleichsniveau für die Jahre 2022–2024 beträgt CHF 2‘660.–.
 
 <sup>2</sup> Es kann während seiner Dauer bei erhöhter Steuerkraft rückwirkend angepasst werden.
 
