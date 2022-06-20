@@ -4,20 +4,20 @@ title: "Ordonnance du 30 novembre 2012 sur les liquidités des banques et des ma
 short: OLiq
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/883"
 language: fr
-version: 2021-07-01
+version: 2022-06-21
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2012-883-20210701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20220621/fr/xml/fedlex-data-admin-ch-eli-cc-2012-883-20220621-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20220621/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les liquidités des banques et des maisons de titres
 
-(Ordonnance sur les liquidités, OLiq)[^t-1]
+(Ordonnance sur les liquidités, OLiq)**[^t-1]**
 
-du 30 novembre 2012 (Etat le 1<sup>er</sup> juillet 2021)
+du 30 novembre 2012 (Etat le 21 juin 2022)
 
 [^t-1]: Nouvelle teneur selon l’annexe 1 ch. II 11 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -139,7 +139,7 @@ Le choix des scénarios de crise doit tenir compte des éléments suivants:
 
 [^11-1]: Abrogé par le ch. I de l’O du 11 sept. 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
-### Section 2 Exigences quantitatives: ratio de liquidités à court terme
+### Section 2**** Exigences quantitatives: ratio de liquidités à court terme****
 
 [^chap3-sec2-1][^chap3-sec2-2]
 
@@ -506,7 +506,7 @@ La FINMA peut fixer, pour les sorties et entrées de trésorerie entre une soci�
 
 [^17e-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 
-## Section 2*a* Exigences quantitatives: ratio de financement
+## Section 2*a* Exigences quantitatives: ratio de financement****
 
 [^chap4-1]
 
@@ -742,7 +742,7 @@ La FINMA peut déterminer des coefficients ASF et RSF différents de ceux prévu
 
 [^17s-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
-### Section 2*b* Simplification pour les banques particulièrement liquides et bien capitalisées des catégories 4 et 5
+### Section 2*b***** Simplification pour les banques particulièrement liquides et bien capitalisées des catégories 4 et 5
 
 [^chap4-sec1-1]
 
@@ -779,7 +779,7 @@ Les banques communiquent à la FINMA, dans le cadre du système d’annonce gén
 [^18-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 [^18-3]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 
-### Section 4 Paramètres d’observation
+### Section 4**** Paramètres d’observation
 
 [^chap4-sec3-1]
 
@@ -789,7 +789,7 @@ Les banques communiquent à la FINMA, dans le cadre du système d’annonce gén
 
 La FINMA peut collecter, parallèlement aux données concernant le LCR et le NSFR, des données concernant d’autres paramètres d’observation, au niveau tant du groupe financier que de l’établissement individuel, en tenant compte de la taille de la banque ainsi que de la nature, de l’ampleur, de la complexité et du degré de risque de ses activités, pour autant que ces données soient nécessaires à la mise en œuvre de la présente ordonnance.
 
-### Section 5 Tâches de la société d’audit
+### Section 5**** Tâches de la société d’audit
 
 [^chap4-sec5-1]
 
@@ -1027,7 +1027,7 @@ Le Département fédéral des finances examine les art. 17*h*, al. 3, et 17*p*, 
 
 <sup>3</sup> Les dispositions du chap. 4 entrent en vigueur le quinze du mois suivant leur adoption par l’Assemblée fédérale.
 
-Annexe 1[^t-2]
+Annexe 1*[^t-2]*
 
 (art. 15*a*, al. 2, let. c, et 15*b*, al. 2, let. b)
 
@@ -1072,7 +1072,7 @@ C. Ne sont pas réputées établissements financiers les filiales de financement
 
 [^annex1-lvlu1-1]: Nouvelle expression selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)). Il a été tenu compte de cette mod. dans tout le texte.
 
-Annexe 2[^t-3]
+Annexe 2*[^t-3]*
 
 (art. 16, al. 3)
 
@@ -1082,12 +1082,12 @@ Annexe 2[^t-3]
 
 <table>
 <tr><th>Catégories de sorties</th><th>Taux de sortie (en pour‑cent)</th></tr>
-<tr><td>1. Dépôts de détail</td><td></td></tr>
+<tr><td>**1. Dépôts de détail**</td><td></td></tr>
 <tr><td>1.1 Les dépôts de détail comprennent tous les dépôts à vue ou à terme dont l’échéance résiduelle ou le préavis de retrait ne dépassent pas 30 jours. Les dépôts à terme dont l’échéance résiduelle dépasse 30 jours n’entrent pas en ligne de compte</td><td></td></tr>
 <tr><td>1.1.1 Dépôts stables</td><td>5</td></tr>
 <tr><td>1.1.2 Dépôts moins stables</td><td>10</td></tr>
 <tr><td>1.2 Dépôts de détail supérieurs à 1,5 million de francs suisses. Ils comprennent tous les dépôts à vue ou à terme dont l’échéance résiduelle ou le préavis de retrait ne dépassent pas 30 jours</td><td>20</td></tr>
-<tr><td>2. Financements de clients commerciaux ou de gros clients non garantis</td><td></td></tr>
+<tr><td>**2. Financements** **de clients commerciaux ou de gros clients non garantis**</td><td></td></tr>
 <tr><td>2.1 Dépôts à vue ou à terme de petites entreprises dont l’échéance résiduelle ou le préavis de retrait ne dépassent pas 30 jours</td><td></td></tr>
 <tr><td>2.1.1 Dépôts stables</td><td>5</td></tr>
 <tr><td>2.1.2 Dépôts moins stables</td><td>10</td></tr>
@@ -1102,7 +1102,7 @@ Annexe 2[^t-3]
 <tr><td>2.5 Dépôts à vue ou à terme d’établissements financiers au sens de l’annexe 1, y compris les sociétés qui leur sont liées, de toutes les autres personnes morales et de clients commerciaux, tels que les caisses de pensions, dont l’échéance résiduelle ou le préavis de retrait ne dépassent pas 30 jours</td><td>100</td></tr>
 <tr><td>2.6 Titres de créance non garantis</td><td>100</td></tr>
 <tr><td>2.7 Dépôts supplémentaires nécessaires dans les réserves de la banque centrale</td><td>100</td></tr>
-<tr><td>3. Transactions garanties et swaps de sûretés arrivant à échéance dans les 30 jours et dont les garanties ne servent pas à couvrir des positions courtes</td><td></td></tr>
+<tr><td>**3. Transactions garanties et swaps de sûretés arr****i****vant à échéance dans les 30 jours et dont les garanties ne servent pas à co****u****vrir des positions courtes**</td><td></td></tr>
 <tr><td>3.1 Opérations de financement garanties avec la BNS, couvertes par des actifs de la catégorie 2*b* ou des actifs qui ne sont pas des actifs HQLA («actifs non HQLA»), ainsi que swaps de sûretés incluant l’échange d’actifs de la même catégorie et non dénoués</td><td>0</td></tr>
 <tr><td>3.2 Opérations de financement garanties par des actifs de la catégorie 2b ou des actifs non HQLA, avec comme contrepartie:</td><td></td></tr>
 <tr><td>– soit le propre gouvernement central ou des banques multilatérales de développement</td><td></td></tr>
@@ -1112,14 +1112,14 @@ Annexe 2[^t-3]
 <tr><td>3.5 Swaps de sûretés incluant l’échange d’actifs de la catégorie 2b contre des actifs de la catégorie 1 ou celui d’actifs non HQLA contre des actifs de la catégorie 2b</td><td>50</td></tr>
 <tr><td>3.6 Swaps de sûretés incluant l’échange d’actifs non HQLA contre des actifs de la catégorie 2a</td><td>85</td></tr>
 <tr><td>3.7 Toutes les autres opérations de financement garanties par des actifs non HQLA et tous les autres swaps de sûretés incluant l’échange d’actifs non HQLA contre des actifs de la catégorie 1</td><td>100</td></tr>
-<tr><td>4. Swaps de sûretés dont les garanties servent à couvrir des positions courtes</td><td></td></tr>
+<tr><td>**4. Swaps de sûretés dont les garanties servent à co****u****vrir des positions courtes**</td><td></td></tr>
 <tr><td>4.1 Swaps de sûretés incluant l’échange d’actifs de la même catégorie</td><td>0</td></tr>
 <tr><td>4.2 Swaps de sûretés incluant l’échange d’actifs de la catégorie 2a contre des actifs de la catégorie 1</td><td>15</td></tr>
 <tr><td>4.3 Swaps de sûretés incluant l’échange d’actifs de la catégorie 2b contre des actifs de la catégorie 2a</td><td>35</td></tr>
 <tr><td>4.4 Swaps de sûretés incluant l’échange d’actifs de la catégorie 2b contre des actifs de la catégorie 1 ou celui d’actifs non HQLA contre des actifs de la catégorie 2b</td><td>50</td></tr>
 <tr><td>4.5 Swaps de sûretés incluant l’échange d’actifs non HQLA contre des actifs de la catégorie 2a</td><td>85</td></tr>
 <tr><td>4.6 Swaps de sûretés incluant l’échange d’actifs non HQLA contre des actifs de la catégorie 1</td><td>100</td></tr>
-<tr><td>5. Opérations sur dérivés et autres transactions</td><td></td></tr>
+<tr><td>**5.** **Opérations** **sur dérivés et autres transactions**</td><td></td></tr>
 <tr><td>5.1 Sorties nettes de trésorerie associées à des opérations sur dérivés.</td><td>100</td></tr>
 <tr><td>5.2 Besoin accru de liquidités en rapport avec des clauses de déclassement incluses dans les opérations de financement, opérations sur dérivés et autres transactions</td><td>100</td></tr>
 <tr><td>5.3 Besoin accru de liquidités en rapport avec des sûretés excédentaires, en couverture d’opérations sur dérivés et autres transactions, détenues par une banque et pouvant être rappelées contractuellement à tout moment par la contrepartie</td><td>100</td></tr>
@@ -1127,12 +1127,12 @@ Annexe 2[^t-3]
 <tr><td>5.5 Besoin accru de liquidités en rapport avec des opérations sur dérivés ou d’autres transactions pour lesquelles la contrepartie peut substituer des actifs non HQLA aux sûreté</td><td>100</td></tr>
 <tr><td>5.6 Besoin accru de liquidités résultant de variations de la valeur de marché d’opérations sur dérivés et autres transactions</td><td colspan="2">100 % du principal flux net de sûretés en valeur absolue sur 30 jours enregistré au cours des 24 derniers mois, ou 100 % selon l’approche fondée sur les modèles internes</td></tr>
 <tr><td>5.7 Besoin accru de liquidités résultant de variations de l’évaluation des sûretés constituées d’actifs n’appartenant pas à la catégorie 1 couvrant des opérations sur dérivés et autres transactions</td><td>20</td></tr>
-<tr><td>6. Perte de financements sur titres adossés à des actifs (*Asset Backed Securities, ABS*), titres de créance garantis et autres instruments structurés (valable pour la totalité des montants arrivant à échéance et des actifs restituables dans les 30 jours)</td><td>100</td></tr>
-<tr><td>7. Perte de financements sur papiers monétaires adossés à des actifs (*Asset Backed Commercial Paper*, *ABCP*), sociétés ad hoc (*Conduits*), véhicules d’investissement sur titres (*Securities Investment Vehicle*) et autres facilités de financement analogues</td><td></td></tr>
+<tr><td>**6. Perte de financements sur titres adossés à des actifs (*****Asset Backed Securities, ABS*****), titres de créance garantis et autres instruments structurés** (valable pour la totalité des montants arrivant à échéance et des actifs restituables dans les 30 jours)</td><td>100</td></tr>
+<tr><td>**7. Perte de** **financements** **sur papiers monétaires ado****s****sés à des actifs (*****Asset Backed Commercial Paper*****,** ***ABCP*****), sociétés ad hoc (*****Conduits*****), véhicules d’investissement sur titres (*****Securities Investment V******e******hicle*****) et autres facilités de financement an****a****logues**</td><td></td></tr>
 <tr><td>7.1 Montants arrivant à échéance dans les 30 jours</td><td>100</td></tr>
 <tr><td>7.2 Autres possibles pertes de financements</td><td>100</td></tr>
 <tr><td>7.3 Options incorporées dans les accords de financement prévoyant la restitution des actifs ou un apport potentiel de liquidités dans les 30 jours</td><td>100</td></tr>
-<tr><td>8. Facilités de crédit et de liquidité</td><td></td></tr>
+<tr><td>**8.** **Facilités** **de crédit et de liquidité**</td><td></td></tr>
 <tr><td>8.1 Part non utilisée de facilités de crédit et de liquidité révocables sous conditions et irrévocables, et opérations synthétiques comparables concernant les clients suivants:</td><td colspan="2"></td></tr>
 <tr><td>8.1.1 clients de détail et petites entreprises</td><td>5</td></tr>
 <tr><td>8.1.2 entreprises non financières, gouvernements centraux, banques centrales, collectivités territoriales subordonnées et autres corporations de droit public ainsi que banques multilatérales de développement</td><td></td></tr>
@@ -1145,7 +1145,7 @@ Annexe 2[^t-3]
 <tr><td>8.1.5 garantie des dépôts suisse</td><td>50</td></tr>
 <tr><td>8.1.6 toutes les autres personnes morales et tous les autres clients commerciaux, y compris les sociétés liées à des établissements financiers</td><td>100</td></tr>
 <tr><td>8.2 Obligations liées à des facilités de crédit et de liquidité accordées sans engagement, non utilisées et révocables sans conditions</td><td>0</td></tr>
-<tr><td>9. Autres engagements de financement conditionnels tels que garanties et lettres de crédit</td><td></td></tr>
+<tr><td>**9. Autres engagements de financement conditionnels tels que garanties et lettres de crédit**</td><td></td></tr>
 <tr><td>9.1 Financement de transactions commerciales (approche rétrospective)</td><td colspan="2">100 % de la sortie nette moyenne de trésorerie sur 30 jours enregistrée au cours des 24 derniers mois pour l’ensemble du portefeuille, ou 5 % de l’encours nominal</td></tr>
 <tr><td>9.2 Garanties et lettres de crédit sans rapport avec des obligations de financement de transactions commerciales (approche rétrospective)</td><td colspan="2">100% de la sortie nette moyenne de trésorerie sur 30 jours enregistrée au cours des 24 derniers mois pour l’ensemble du portefeuille, ou 5 % de l’encours nominal</td></tr>
 <tr><td>9.3 Obligations non contractuelles telles que:</td><td></td></tr>
@@ -1153,19 +1153,19 @@ Annexe 2[^t-3]
 <tr><td>9.3.2 demande potentielle de rachat des titres de dette émis par la banque</td><td>0 %</td></tr>
 <tr><td>9.3.3 demande potentielle de rachat des titres de dette émis par des sociétés ad hoc, véhicules d’investissement sur titres et autres facilités de financement liés à la banque et lui transférant un risque de liquidité en raison de leur structure</td><td colspan="2">20 % du montant devant être financé après 30 jours</td></tr>
 <tr><td>9.3.4 produits structurés et produits synthétiques comparables devant satisfaire à des exigences de liquidité particulières, notamment les produits pour lesquels la banque s’est engagée à veiller à ce qu’ils soient aisément négociables. Sont exclus les produits ne contribuant pas au financement de la banque et pouvant être réduits sans incidence sur la liquidité</td><td colspan="2">5 % du volume émis</td></tr>
-<tr><td>9.3.5 fonds du marché monétaire gérés dans un objectif de préservation de la valeur, comme les fonds à valeur liquidative constante (*Constant Net Asset Value Money Market Funds)*</td><td>5 % du volume émis</td></tr>
+<tr><td>9.3.5 fonds du marché monétaire gérés dans un objectif de préservation de la valeur, comme les fonds à valeur liquidative constante (*Constant Net Asset Value M**o**ney Market Funds)*</td><td>5 % du volume émis</td></tr>
 <tr><td>9.3.6 autres engagements non contractuels</td><td>0</td></tr>
-<tr><td>10. Demande potentielle de rachat de titres de dette émis par la banque elle-même et présentant une durée (résiduelle) supérieure à 30 jours, par des négociants en titres ou teneurs de marché liés</td><td>0</td></tr>
-<tr><td>11. Positions à court terme de clients couvertes par des sûretés non HQLA d’autres clients</td><td>50</td></tr>
-<tr><td>12. Positions à court terme de la banque couvertes par des opérations de financement garanties</td><td>0</td></tr>
-<tr><td>13. Autres sorties contractuelles de trésorerie à 30 jours (par ex. sorties visant à couvrir les financements de titres non garantis, les positions courtes non couvertes, le versement de dividendes ou les paiements d’intérêts contractuels)</td><td>100</td></tr>
-<tr><td>14. Engagements contractuels et crédits octroyés à renouveler (*rollover*) si ces engagements contractuels ne figurent pas déjà dans d’autres catégories de sorties:</td><td></td></tr>
+<tr><td>**10. Demande potentielle de rachat de titres de dette émis par la** **banque** **elle-même et présentant une d****u****rée (résiduelle) supérieure à 30 jours, par des nég****o****ciants en titres ou teneurs de marché liés**</td><td>0</td></tr>
+<tr><td>**11. Positions à court terme de clients couvertes par des sûretés non HQLA d’autres clients**</td><td>50</td></tr>
+<tr><td>**12. Positions à court terme de la banque couvertes par des opér****a****tions de financement garanties**</td><td>0</td></tr>
+<tr><td>**13. Autres sorties contractuelles de trésorerie à 30 jours (par ex. sorties visant à couvrir les financements de titres non garantis, les positions courtes non couvertes, le versement de dividendes ou les paiements d’intérêts contractuels)**</td><td>100</td></tr>
+<tr><td>**14. Engagements** **contractuels** **et crédits octroyés à r****e****nouveler (*****rollover*****) si ces engagements contra****c****tuels ne f****i****gurent pas déjà dans d’autres catégories de sorties:**</td><td></td></tr>
 <tr><td>14.1 envers des clients de détail, des petites entreprises, des entreprises non financières et d’autres personnes morales, y compris les sociétés liées à des établissements financiers</td><td>100 % si la différence entre les sorties au sens du ch. 14.1 et la moitié des entrées au sens des ch. 5.1 et 5.2 de l’annexe 3 est positive 0 % si la différence entre les sorties au sens du ch. 14.1 et la moitié des entrées au sens des ch. 5.1 et 5.2 de l’annexe 3, est négative</td></tr>
 <tr><td>14.2 envers des établissements financiers</td><td>100</td></tr>
-<tr><td>15. Sorties de trésorerie internes à un groupe (établissement individuel seulement)</td><td>100</td></tr>
+<tr><td>**15. Sorties de** **trésorerie** **internes à un groupe (établiss****e****ment individuel seulement)**</td><td>100</td></tr>
 </table>
 
-Annexe 3[^t-4]
+Annexe 3*[^t-4]*
 
 (art. 16, al. 5)
 
@@ -1175,17 +1175,17 @@ Annexe 3[^t-4]
 
 <table>
 <tr><th>Catégories d’entrées</th><th>Taux d’entrée (en pour-cent)</th></tr>
-<tr><td>1. Opérations de financement garanties par des sûretés conformes aux ch. 1.1 à 1.6 et swaps de sûretés garantis arrivant à échéance dans les 30 jours, pour autant que les garanties ne servent pas à couvrir des positions courtes</td><td></td></tr>
+<tr><td>1**.** **Opérations de financement garanties par des sûretés conformes aux** **ch****. 1.1 à 1.6 et swaps de sûretés garantis a****r****rivant à échéance dans les 30 jours, pour autant que les g****a****ranties ne servent pas à couvrir des pos****i****tions courtes**</td><td></td></tr>
 <tr><td>1.1 Swaps de sûretés incluant l’échange d’actifs de la même catégorie et qui ne sont pas dénoués</td><td>0</td></tr>
 <tr><td>1.2 Swaps de sûretés incluant l’échange d’actifs de la catégorie 2a contre des actifs de la catégorie 2b</td><td>35</td></tr>
 <tr><td>1.3 Opérations de financement garanties, couvertes par des actifs de la catégorie 2b, et swaps de sûretés incluant l’échange d’actifs de la catégorie 1 contre des actifs de la catégorie 2b ou celui d’actifs de la catégorie 2b contre des actifs non HQLA</td><td>50</td></tr>
 <tr><td>1.4 Prêts sur marge assortis des sûretés constituées d’actifs non HQLA</td><td>50</td></tr>
 <tr><td>1.5 Swaps de sûretés incluant l’échange d’actifs de la catégorie 2a contre des actifs non HQLA</td><td>85</td></tr>
 <tr><td>1.6 Toutes les autres opérations de financement garanties, couvertes par des actifs non HQLA, et tous les autres swaps de sûretés incluant l’échange d’actifs de la catégorie 1 contre des actifs non HQLA</td><td>100</td></tr>
-<tr><td>2. Opérations de financement, prêts sur marge et swaps de sûretés garantis arrivant à échéance dans les 30 jours si les garanties servent à couvrir des positions courtes</td><td>0</td></tr>
-<tr><td>3. Facilités de crédit ou de liquidité accordées à la banque déclarante</td><td>0</td></tr>
-<tr><td>4. Dépôts opérationnels détenus dans d’autres établissements financiers (y c. les dépôts placés à la caisse centrale d’un réseau financier)</td><td>0</td></tr>
-<tr><td>5. Autres entrées par contrepartie dans les 30 jours</td><td colspan="3"></td></tr>
+<tr><td>**2. Opérations** **de financement, prêts sur marge et swaps de sûretés garantis arrivant à échéance dans les 30 jours si les garanties se****r****vent à couvrir des positions courtes**</td><td>0</td></tr>
+<tr><td>**3. Facilités** **de crédit ou de liquidité accordées à la banque décl****a****rante**</td><td>0</td></tr>
+<tr><td>**4.** **Dépôts opérationnels détenus dans d’autres établissements financiers (y c. les dépôts placés à la caisse centrale d’un réseau fina****n****cier)**</td><td>0</td></tr>
+<tr><td>**5. Autres entrées par contrepartie dans les 30 jours**</td><td colspan="3"></td></tr>
 <tr><td>5.1 Créances contractuelles sur des clients de détail et des petites entreprises</td><td colspan="3">50</td></tr>
 <tr><td>5.2 Créances contractuelles sur des établissements non financiers et toutes les autres personnes morales, hors opérations mentionnées ci-dessus</td><td colspan="3">50</td></tr>
 <tr><td>5.3 Créances contractuelles sur des établissements financiers et des banques centrales, hors opérations mentionnées ci-dessus</td><td colspan="3">100</td></tr>
@@ -1193,10 +1193,10 @@ Annexe 3[^t-4]
 <tr><td>6.1 Entrées nettes liées à des opérations sur dérivés</td><td colspan="2">100</td></tr>
 <tr><td>6.2 Entrées contractuelles provenant de titres arrivant à échéance dans les 30 jours qui ne sont pas des actifs HQLA et qui ne sont pas déjà prises en compte ailleurs</td><td colspan="2">100</td></tr>
 <tr><td>6.3 Entrées contractuelles à 30 jours, irrévocables et n’étant pas déjà prises en compte ailleurs</td><td colspan="2">100</td></tr>
-<tr><td>7. Entrées de trésorerie intragroupe dans les 30 jours (établissement individuel seulement)</td><td colspan="3">100</td></tr>
+<tr><td>**7. Entrées de trésorerie intragroupe dans les 30 jours (établissement individuel seulement)**</td><td colspan="3">100</td></tr>
 </table>
 
-Annexe 4[^t-5]
+Annexe 4*[^t-5]*
 
 (art. 17*k*)
 
@@ -1230,13 +1230,13 @@ Annexe 4[^t-5]
 
 [^annex4-lvlu1-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
-Annexe 5[^t-6]
+Annexe 5*[^t-6]*
 
 (art. 17*m*)
 
 ## Coefficients de pondération du financement stable exigé (RSF)
 
-[^t-6]: Introduite par le ch. II al. 2 de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^t-6]: Introduite par le ch. II al. 2 de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Mise à jour par l’erratum du 21 juin 2021 ([RO 2022 366](https://fedlex.data.admin.ch/eli/oc/2022/366)).
 
 <table>
 <tr><th colspan="3">Catégorie RSF</th><th colspan="2">Coefficient de pondération (en %)</th></tr>
@@ -1255,7 +1255,7 @@ Annexe 5[^t-6]
 <tr><td colspan="3">1.8 Actifs grevés de la catégorie 1 au sens de l’art. 15*a* liés à des opérations d’injection de liquidités des banques centrales (du point de vue de la banque centrale)</td><td colspan="2">0</td></tr>
 <tr><td colspan="3">1.9 Facilités de crédit et de liquidité révocables sans conditions pour tous les clients</td><td colspan="2">0</td></tr>
 <tr><td colspan="3">2. Sous réserve de la catégorie RSF 3.4, dépôts non grevés ou grevés pendant une période inférieure à six mois d’établissements financiers et prêts à ces établissements ayant une durée résiduelle inférieure à six mois:</td><td colspan="2">10</td></tr>
-<tr><td colspan="3">a. si les dépôts et les prêts sont garantis par des actifs de la catégorie 1 au sens de l’art. 15*a* ou de la catégorie 2*a* au sens de l’art. 15*b*, al. 1 à 4, et</td><td colspan="2"></td></tr>
+<tr><td colspan="3">a. si les dépôts et les prêts sont garantis par des actifs de la catégorie 1 au sens de l’art. 15*a* ou de la catégorie 2*a* au sens de l’art. 15*b*, et</td><td colspan="2"></td></tr>
 <tr><td colspan="3">b. si la banque peut remettre librement en gage les garanties reçues pendant toute la durée du dépôt ou du prêt (rehypothecation).</td><td colspan="2"></td></tr>
 <tr><td colspan="3">3.1 Actifs non grevés de la catégorie 2*a* au sens de l’art. 15*b*, al. 1 à 4</td><td colspan="2">15</td></tr>
 <tr><td colspan="3">3.2 Actifs de la catégorie 2*a* au sens de l’art. 15*b*, al. 1 à 4, grevés pendant une période inférieure à six mois</td><td colspan="2">15</td></tr>

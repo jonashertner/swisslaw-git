@@ -4,20 +4,20 @@ title: "Verordnung vom 30. November 2012 über die Liquidität der Banken und We
 short: LiqV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/883"
 language: de
-version: 2021-07-01
+version: 2022-06-21
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2012-883-20210701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20220621/de/xml/fedlex-data-admin-ch-eli-cc-2012-883-20220621-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20220621/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über die Liquidität der Banken und Wertpapierhäuser
+# Verordnung über die Liquidität der Banken und Wertpapierhäuser****
 
 (Liquiditätsverordnung, LiqV)[^t-1]
 
-vom 30. November 2012 (Stand am 1. Juli 2021)
+vom 30. November 2012 (Stand am 21. Juni 2022)
 
 [^t-1]: Fassung gemäss Anhang 1 Ziff. II 11 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -140,7 +140,7 @@ Bei der Auswahl der Stressszenarien sind zu berücksichtigen:
 
 [^11-1]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2020, mit Wirkung seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
-### 2. Abschnitt: Quantitative Anforderungen: Quote für kurzfristige Liquidität
+### 2. Abschnitt:**** Quantitative Anforderungen: Quote für kurzfristige Liquidität****
 
 [^chap3-sec2-1][^chap3-sec2-2]
 
@@ -497,7 +497,7 @@ Die FINMA kann für Mittelab- und -zuflüsse zwischen einer Muttergesellschaft u
 
 [^17e-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 
-### 2*a*. Abschnitt: Quantitative Anforderungen: Finanzierungsquote
+### 2*a*. Abschnitt: Quantitative Anforderungen: Finanzierungsquote****
 
 [^chap3-sec2a-1]
 
@@ -733,7 +733,7 @@ Die FINMA kann für Finanzierungen innerhalb derselben Finanzgruppe von den Anh�
 
 [^17s-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
-### 2*b*. Abschnitt: Vereinfachung für besonders liquide und gut kapitalisierte Banken der Kategorien 4 und 5
+### 2*b*. Abschnitt:**** Vereinfachung für besonders liquide und gut kapitalisierte Banken der Kategorien 4 und 5
 
 [^chap3-sec2b-1]
 
@@ -770,7 +770,7 @@ Die Banken melden der FINMA im Rahmen des allgemeinen Meldewesens die Summe:
 [^18-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 [^18-3]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 
-### 4. Abschnitt: Beobachtungskennzahlen
+### 4. Abschnitt:**** Beobachtungskennzahlen
 
 [^chap3-sec4-1]
 
@@ -780,7 +780,7 @@ Die Banken melden der FINMA im Rahmen des allgemeinen Meldewesens die Summe:
 
 Die FINMA kann neben den Angaben zur LCR und zur NSFR Angaben zu weiteren Beobachtungskennzahlen auf den Stufen Finanzgruppe und Einzelinstitut unter Berücksichtigung von Grösse sowie Art, Umfang, Komplexität und Risikogehalt der Geschäftsaktivitäten einer Bank erheben, sofern sie für die Umsetzung dieser Verordnung erforderlich sind.
 
-### 5. Abschnitt: Aufgaben der Prüfgesellschaft
+### 5. Abschnitt:**** Aufgaben der Prüfgesellschaft
 
 [^chap3-sec5-1]
 
@@ -1018,7 +1018,7 @@ Das Eidgenössische Finanzdepartement überprüft die Artikel 17*h* Absatz 3, 17
 
 <sup>3</sup> Die Bestimmungen des 4. Kapitels treten am fünfzehnten Tag des der Genehmigung durch die Bundesversammlung folgenden Monats in Kraft.
 
-Anhang 1[^t-2]
+Anhang 1*[^t-2]*
 
 (Art. 15*a* Abs. 2 Bst. c und 15*b* Abs. 2 Bst. b)
 
@@ -1058,7 +1058,7 @@ B. Als Finanzinstitut gelten auch Holdingstrukturen, in denen Anbieter von Diens
 
 C. Nicht als Finanzinstitut gelten Finanzierungstöchter von Nicht-Finanzinstituten, die über keine Bankenbewilligung verfügen und die eine oder mehrere der oben genannten Tätigkeiten ausschliesslich für Konzerngesellschaften erbringen.
 
-Anhang 2[^t-3]
+Anhang 2*[^t-3]*
 
 (Art. 16 Abs. 3)
 
@@ -1068,12 +1068,12 @@ Anhang 2[^t-3]
 
 <table>
 <tr><th>Abflusskategorien</th><th></th><th>Abflussrate (in Prozent)</th></tr>
-<tr><td>1. Einlagen von Privatkundinnen und Privatkunden</td><td></td><td></td></tr>
+<tr><td>**1. Einlagen von Privatkundinnen und Pr****i****vatkunden**</td><td></td><td></td></tr>
 <tr><td>1.1 Einlagen von Privatkundinnen und Privatkunden umfassen alle Sicht- und Termineinlagen mit einer Restlaufzeit oder Kündigungsfrist von bis zu 30 Kalendertagen. Termineinlagen mit einer Restlaufzeit von mehr als 30 Kalendertagen sind nicht zu berücksichtigen</td><td></td><td></td></tr>
 <tr><td>1.1.1 Stabile Einlagen</td><td></td><td>5</td></tr>
 <tr><td>1.1.2 Weniger stabile Einlagen</td><td></td><td>10</td></tr>
 <tr><td>1.2 Einlagen von Privatkundinnen und Privatkunden grösser als 1.5 Mio. Schweizerfranken. Diese umfassen alle Sicht- und Termineinlagen mit einer Restlaufzeit oder Kündigungsfrist von bis zu 30 Kalendertagen</td><td></td><td>20</td></tr>
-<tr><td>2. Unbesicherte, von Geschäfts- oder Grosskunden bereitgestellte Finanzmittel</td><td></td><td></td></tr>
+<tr><td>**2. Unbesicherte, von Geschäfts- oder Grosskunden berei****t****gestellte Finanzmittel**</td><td></td><td></td></tr>
 <tr><td>2.1 Sicht- und Termineinlagen von Kleinunternehmen mit einer Restlaufzeit oder Kündigungsfrist von bis zu 30 Kalendertagen</td><td></td><td></td></tr>
 <tr><td>2.1.1 Stabile Einlagen</td><td></td><td>5</td></tr>
 <tr><td>2.1.2 Weniger stabile Einlagen</td><td>[tab]</td><td>10</td></tr>
@@ -1088,7 +1088,7 @@ Anhang 2[^t-3]
 <tr><td>2.5 Sicht- und Termineinlagen von Finanzinstituten gemäss Anhang 1 einschliesslich von mit ihnen verbundener Gesellschaften, von allen anderen juristischen Personen und Geschäftskunden wie Pensionskassen mit einer Restlaufzeit oder Kündigungsfrist von bis zu 30 Kalendertagen</td><td></td><td>100</td></tr>
 <tr><td>2.6 Unbesicherte Schuldverschreibungen</td><td></td><td>100</td></tr>
 <tr><td>2.7 Zusätzliche notwendige Einlagen in Zentralbankreserven</td><td></td><td>100</td></tr>
-<tr><td>3. Besicherte Transaktionen und Sicherheitenswaps, die innert 30 Kalendertagen fällig werden, und bei denen die Sicherheiten nicht zur Deckung von Short-Positionen verwendet werden</td><td></td><td></td></tr>
+<tr><td>**3. Besicherte Transaktionen und Sicherhe****i****tenswaps, die innert 30 Kalendertagen fällig werden, und bei denen die Sicherheiten nicht zur D****e****ckung von Short-Positionen verwendet we****r****den**</td><td></td><td></td></tr>
 <tr><td>3.1 Besicherte Finanzierungsgeschäfte mit der SNB, die durch Aktiva der Kategorie 2*b* oder Aktiva, die nicht HQLA sind («Nicht-HQLA»), besichert sind, und Sicherheitenswaps, die den Austausch von Aktiva der gleichen Kategorie beinhalten und nicht glattgestellt werden</td><td></td><td>0</td></tr>
 <tr><td>3.2 Besicherte Finanzierungsgeschäfte, die durch Aktiva der Kategorie 2b oder Nicht-HQLA besichert sind und deren Gegenpartei:</td><td></td><td></td></tr>
 <tr><td>– die eigene Zentralregierung oder multilaterale Entwicklungsbanken sind; oder</td><td></td><td></td></tr>
@@ -1098,14 +1098,14 @@ Anhang 2[^t-3]
 <tr><td>3.5 Sicherheitenswaps, die den Austausch von Aktiva der Kategorie 2b gegen Aktiva der Kategorie 1 respektive Nicht-HQLA gegen Aktiva der Kategorie 2b beinhalten</td><td></td><td>50</td></tr>
 <tr><td>3.6 Sicherheitenswaps, die den Austausch von Nicht-HQLA gegen Aktiva der Kategorie 2a beinhalten</td><td></td><td>85</td></tr>
 <tr><td>3.7 Alle übrigen besicherten Finanzierungsgeschäfte, die durch Nicht-HQLA besichert sind und Sicherheitenswaps, die den Austausch von Nicht-HQLA gegen Aktiva der Kategorie 1 beinhalten</td><td></td><td>100</td></tr>
-<tr><td>4. Sicherheitenswaps, wenn die Sicherheiten zur Deckung von Short-Positionen verwendet werden</td><td></td><td></td></tr>
+<tr><td>**4. Sicherheitenswaps, wenn die Sicherheiten zur Deckung von Short-Positionen verwendet we****r****den**</td><td></td><td></td></tr>
 <tr><td>4.1 Sicherheitenswaps, die den Austausch von Aktiva der gleichen Kategorie beinhalten</td><td></td><td>0</td></tr>
 <tr><td>4.2 Sicherheitenswaps, die den Austausch von Aktiva der Kategorie 2a gegen Aktiva der Kategorie 1 beinhalten</td><td></td><td>15</td></tr>
 <tr><td>4.3 Sicherheitenswaps, die den Austausch von Aktiva der Kategorie 2b gegen Aktiva der Kategorie 2a beinhalten</td><td></td><td>35</td></tr>
 <tr><td>4.4 Sicherheitenswaps, die den Austausch von Aktiva der Kategorie 2b gegen Aktiva der Kategorie 1 oder Nicht-HQLA gegen Aktiva der Kategorie 2b beinhalten</td><td></td><td>50</td></tr>
 <tr><td>4.5 Sicherheitenswaps, die den Austausch von Nicht-HQLA gegen Aktiva der Kategorie 2a beinhalten</td><td></td><td>85</td></tr>
 <tr><td>4.6 Sicherheitenswaps, die den Austausch von Nicht-HQLA gegen Aktiva der Kategorie 1 beinhalten</td><td></td><td>100</td></tr>
-<tr><td>5. Derivatgeschäfte und andere Transaktionen</td><td></td><td></td></tr>
+<tr><td>**5. Derivatgeschäfte und andere Transakt****i****onen**</td><td></td><td></td></tr>
 <tr><td>5.1 Nettomittelabfluss aus Derivatgeschäften</td><td></td><td>100</td></tr>
 <tr><td>5.2 Erhöhter Liquiditätsbedarf im Zusammenhang mit Rating-Schwellenwerten in Finanzierungs- und Derivatgeschäften und anderen Transaktionen</td><td></td><td>100</td></tr>
 <tr><td>5.3 Erhöhter Liquiditätsbedarf aufgrund überschüssiger Sicherheiten, die von einer Bank im Zusammenhang mit Derivatgeschäften und anderen Transaktionen gehalten werden und die von der Gegenpartei vertraglich jederzeit zurückgerufen werden können</td><td></td><td>100</td></tr>
@@ -1113,12 +1113,12 @@ Anhang 2[^t-3]
 <tr><td>5.5 Erhöhter Liquiditätsbedarf im Zusammenhang mit Derivatgeschäften und anderen Transaktionen, die eine Substitution der Sicherheiten durch die Gegenpartei mit Aktiva erlauben, die Nicht-HQLA sind</td><td></td><td>100</td></tr>
 <tr><td>5.6 Erhöhter Liquiditätsbedarf aufgrund von Marktwertveränderungen bei Derivatgeschäften und anderen Transaktionen</td><td></td><td>100 % des grössten absoluten Nettomittelflusses von Sicherheiten innert 30 Kalendertagen der letzten 24 Monate oder 100 % nach internem Modellansatz</td></tr>
 <tr><td>5.7 Erhöhter Liquiditätsbedarf aufgrund von Bewertungsänderungen auf für Derivatgeschäfte und andere Transaktionen gestellte Sicherheiten, welche nicht Aktiva der Kategorie 1 sind</td><td></td><td>20</td></tr>
-<tr><td>6. Verlust von Finanzierungsmöglichkeiten bei forderungsunterlegten Wertpapieren *(Asset-Backed Securities, ABS),* gedeckten Schuldverschreibungen und sonstigen strukturierten Finanzierungsinstrumenten (dies gilt für alle innert 30 Kalendertagen fällig werden den Beträge und zurückgegebenen Vermögenswerte)</td><td></td><td>100</td></tr>
-<tr><td>7. Verlust von Finanzierungsmöglichkeiten aus forderungsbesicherten Geldmarktpapieren *(Asset Backed Commercial Papers, ABCP),* Zweckgesellschaften *(Conduits),* Wertpapierfinanzierungs-vehikeln *(Securities Investment Vehicles)* und anderen ähnlichen Finanzierungsfazilitäten</td><td></td><td></td></tr>
+<tr><td>**6. Verlust von Finanzierungsmöglichkeiten bei forderungsunterlegten Wertpapieren** ***(Asset-Backed Securities, ABS),*** **gedeckten Schuldverschreibungen und sonstigen strukturierten Finanzierungsinstr****u****menten** (dies gilt für alle innert 30 Kalendertagen fällig werden den Beträge und zurückgegebenen Vermögenswerte)</td><td></td><td>100</td></tr>
+<tr><td>**7. Verlust von Finanzierungsmöglichkeiten aus forderungsbesicherten Geldmarktpapieren** ***(Asset Backed Commercial Papers, ABCP),*** **Zweckgesel****l****schaften** ***(Conduits),*** **Wertpapierfinanzierungs****-vehikeln** ***(Securities Investment Vehicles)*** **und and****e****ren ähnlichen Finanzierungsfazilit****ä****ten**</td><td></td><td></td></tr>
 <tr><td>7.1 Innert 30 Kalendertagen fällig werdende Beträge</td><td></td><td>100</td></tr>
 <tr><td>7.2 Andere mögliche Verluste der Finanzierungsmöglichkeit</td><td></td><td>100</td></tr>
 <tr><td>7.3 Eingebettete Optionen in Finanzierungsvereinbarungen, die die Rückgabe von Forderungen oder eine potenzielle Liquiditätsunterstützung innert 30 Tagen vorsehen</td><td></td><td>100</td></tr>
-<tr><td>8. Kredit- und Liquiditätsfazilitäten</td><td></td><td></td></tr>
+<tr><td>**8. Kredit- und Liquiditätsfazilit****ä****ten**</td><td></td><td></td></tr>
 <tr><td>8.1 Nicht beanspruchter Teil bedingt widerruflicher und unwiderruflicher Kredit- und Liquiditätsfazilitäten sowie synthetisch konstruierter, vergleichbarer Transaktionen:</td><td></td><td></td></tr>
 <tr><td>8.1.1 gegenüber Privatkundinnen und Privatkunden und Kleinunternehmen</td><td></td><td>5</td></tr>
 <tr><td>8.1.2 gegenüber Nicht-Finanzinstituten, Zentralregierungen, Zentralbanken, untergeordneten Gebietskörperschaften und sonstigen öffentlich-rechtlichen Körperschaften und multilateralen Entwicklungsbanken</td><td></td><td></td></tr>
@@ -1131,7 +1131,7 @@ Anhang 2[^t-3]
 <tr><td>8.1.5 gegenüber der schweizerischen Einlagensicherung</td><td></td><td>50</td></tr>
 <tr><td>8.1.6 gegenüber allen anderen juristischen Personen und Geschäftskunden einschliesslich mit Finanzinstituten verbundener Gesellschaften</td><td></td><td>100</td></tr>
 <tr><td>8.2 Verbindlichkeiten aus unbedingt widerrufbaren, nicht beanspruchten und nicht fest zugesagten Kredit- und Liquiditätsfazilitäten</td><td></td><td>0</td></tr>
-<tr><td>9. Sonstige Eventualverpflichtungen zur Mittelbereitstellung wie Garantien und Akkreditive</td><td></td><td></td></tr>
+<tr><td>**9. Sonstige Eventualverpflichtungen zur Mittelbereit****stellung wie Garantien und Akkreditive**</td><td></td><td></td></tr>
 <tr><td>9.1 Handelsfinanzierung (vergangenheitsbezogener Ansatz)</td><td></td><td>100 Prozent des durchschnittlichen Nettomittelabflusses über das gesamte Portfolio innert 30 Kalendertagen der letzten 24 Monate oder 5 Prozent des ausstehenden Nominalbetrags</td></tr>
 <tr><td>9.2 Garantien und Akkreditive, die nicht mit Handelsfinanzierungen zusammenhängen (vergangenheitsbezogener Ansatz)</td><td></td><td>100 Prozent des durchschnittlichen Nettomittelabflusses über das gesamte Portfolio innert 30 Kalendertagen der letzten 24 Monate oder 5 Prozent des ausstehenden Nominalbetrags</td></tr>
 <tr><td>9.3 Nicht vertragliche Verpflichtungen wie:</td><td></td><td></td></tr>
@@ -1141,17 +1141,18 @@ Anhang 2[^t-3]
 <tr><td>9.3.4 Strukturierte Produkte sowie synthetisch konstruierte, vergleichbare Produkte mit besonderen Liquiditätsanforderungen, insbesondere Produkte, für die die Bank zusagt, für gute Marktgängigkeit zu sorgen. Ausgeschlossen sind Produkte, die kein Funding der Bank generieren und liquiditätsneutral reduziert werden können</td><td></td><td>5 Prozent des Emissionsvolumens</td></tr>
 <tr><td>9.3.5 Verwaltete Geldmarktfonds, die mit dem Ziel bewirtschaftet werden, einen stabilen Wert beizubehalten, wie Constant-Net-Asset-Value-Geldmarktfonds</td><td></td><td>5 Prozent des Emissionsvolumens</td></tr>
 <tr><td>9.3.6 Andere nicht vertragliche Verpflichtungen</td><td></td><td>0</td></tr>
-<tr><td>10. Potenzielles Ersuchen um Rückkauf von emittierten Schuldtiteln der Bank selbst mit (Rest-)Laufzeiten von mehr als 30 Tagen über verbundene Wertpapierhändler oder Market Maker</td><td></td><td>0</td></tr>
-<tr><td>11. Short-Positionen von Kundinnen und Kunden, gedeckt durch Sicherheiten anderer Kundinnen und Kunden, die nicht HQLA sind</td><td></td><td>50</td></tr>
-<tr><td>12. Short-Positionen der Bank gedeckt durch besicherte Finanzierungsgeschäfte</td><td></td><td>0</td></tr>
-<tr><td>13. Sonstige vertragliche Mittelabflüsse innert 30 Tagen (wie Abflüsse zur Deckung von ungedeckten Wertpapierfinanzierungen, ungedeckten Short-Positionen, Dividenden oder vertraglichen Zinszahlungen)</td><td></td><td>100</td></tr>
-<tr><td>14. Vertragliche Verpflichtungen, Kreditausleihungen zu erneuern *(**«*Rollover*»**),* wenn diese vertraglichen Verpflichtungen nicht bereits in anderen Abflusskategorien erfasst sind:</td><td></td><td></td></tr>
+<tr><td>**10. Potenzielles Ersuchen um Rückkauf von emittie****r****ten Schuldtiteln der Bank selbst mit (Rest-)Laufzeiten von mehr als 30 Tagen über verbundene Wertp****a****pierhändler oder Market Maker**</td><td></td><td>**0**</td></tr>
+<tr><td>**11. Short-Positionen von Kundinnen und Kunden, gedeckt durch Sicherheiten anderer Kundinnen und Kunden, die nicht HQLA sind**</td><td></td><td>50</td></tr>
+<tr><td>**12. Short-Positionen der Bank gedeckt durch bes****i****cherte Fina****n****zierungsgeschäfte**</td><td></td><td>0</td></tr>
+<tr><td>**13. Sonstige vertragliche Mittelabflüsse innert 30 T****a****gen (wie Abflüsse zur Deckung von ungedeckten Wert****p****a****pierfinanzierungen, ungedeckten Short-Positionen, Dividenden oder vertraglichen Zinsza****h****lungen)**</td><td></td><td>100</td></tr>
+<tr><td>**14. Vertragliche Verpflichtungen, Kreditausleihu****n****gen zu erneuern** ***(****«***Rollover***»****),*** **wenn diese vertraglichen Verpflichtungen nicht bereits in anderen Abflussk****a****tegorien erfasst sind:**</td><td></td><td></td></tr>
+<tr><td>[tab]</td><td></td><td></td></tr>
 <tr><td>14.1 gegenüber Privatkundinnen und Privatkunden, Kleinunternehmen, Nichtfinanzunternehmen und anderen juristischen Personen einschliesslich mit Finanzinstituten verbundener Gesellschaften</td><td></td><td>100 Prozent, wenn die Differenz zwischen den Abflüssen nach 14.1 und der Hälfte der Zuflüsse gemäss Anhang 3, Ziffer 5.1 und 5.2. positiv ist. 0 Prozent, wenn die Differenz zwischen den Abflüssen nach 14.1 und der Hälfte der Zuflüsse gemäss Anhang 3, Ziffer 5.1 und 5.2. negativ ist.</td></tr>
 <tr><td>14.2 gegenüber Finanzinstituten</td><td></td><td>100</td></tr>
-<tr><td>15. Gruppeninterne Mittelabflüsse (nur für Einzelinstitut)</td><td></td><td>100</td></tr>
+<tr><td>**15. Gruppeninterne Mittelabflüsse (nur für Einzelinst****i****tut)**</td><td></td><td>100</td></tr>
 </table>
 
-Anhang 3[^t-4]
+Anhang 3*[^t-4]*
 
 (Art. 16 Abs. 5)
 
@@ -1161,28 +1162,28 @@ Anhang 3[^t-4]
 
 <table>
 <tr><th>Zuflusskategorien</th><th></th><th>Zuflussrate (in Prozent)</th></tr>
-<tr><td>1. Innert 30 Kalendertagen fällig werdende besicherte Finanzierungsgeschäfte, die durch Sicherheiten nach den Ziffern 1.1−1.6 gedeckt sind, und Sicherheitenswaps, wenn deren Sicherheiten nicht zur Deckung von Short-Positionen verwendet werden</td><td></td><td></td></tr>
+<tr><td>**1****. Innert 30 Kalendertagen fällig werdende besicherte Finanzierungsgeschäfte, die durch Sicherheiten nach den Ziffern 1.1****−****1.6 gedeckt sind, und Sicherheitenswaps, wenn deren Sicherheiten nicht zur Deckung von Short-Positionen verwendet we****r****den**</td><td></td><td></td></tr>
 <tr><td>1.1 Sicherheitenswaps, die den Austausch von Aktiva der gleichen Kategorie beinhalten und nicht glattgestellt werden</td><td></td><td>0</td></tr>
 <tr><td>1.2 Sicherheitenswaps, die den Austausch von Aktiva der Kategorie 2a gegen Aktiva der Kategorie 2b beinhalten</td><td></td><td>35</td></tr>
 <tr><td>1.3 Besicherte Finanzierungsgeschäfte, die durch Aktiva der Kategorie 2b besichert sind, und Sicherheitenswaps, die den Austausch von Aktiva der Kategorie 1 gegen Aktiva der Kategorie 2b oder den Austausch von Aktiva der Kategorie 2b gegen Nicht-HQLA beinhalten</td><td></td><td>50</td></tr>
 <tr><td>1.4 Durch Sicherheiten, die Nicht-HQLA sind, gedeckte Margenkredite</td><td></td><td>50</td></tr>
 <tr><td>1.5 Sicherheitenswaps, die den Austausch von Aktiva der Kategorie 2a gegen Nicht-HQLA beinhalten</td><td></td><td>85</td></tr>
 <tr><td>1.6 Alle übrigen besicherten Finanzierungsgeschäfte, die durch Nicht-HQLA besichert sind, und Sicherheitenswaps, die den Austausch von Kategorie 1 Aktiva gegen Nicht-HQLA beinhalten</td><td></td><td>100</td></tr>
-<tr><td>2. Innert 30 Kalendertagen fällig werdende, besicherte Finanzierungsgeschäfte, Margenkredite und Sicherheitenswaps, wenn die Sicherheiten zur Deckung von Short Positionen verwendet werden</td><td></td><td>0</td></tr>
-<tr><td>3. Der berichtenden Bank gewährte Kredit- und Liquiditätsfazilitäten</td><td></td><td>0</td></tr>
-<tr><td>4. Operative Einlagen bei anderen Finanzinstituten (einschliesslich Einlagen beim Zentralinstitut eines Finanzverbundes)</td><td></td><td>0</td></tr>
-<tr><td>5. Sonstige Zuflüsse nach Gegenpartei</td><td></td><td></td></tr>
+<tr><td>**2. Innert 30 Kalendertagen fällig werdende, besicherte Fina****n****zierungsgeschäfte, Margenkredite und Sicherheitenswaps, wenn die Sicherheiten zur Deckung von Short Positionen verwendet we****r****den**</td><td></td><td>0</td></tr>
+<tr><td>**3. Der berichtenden Bank gewährte Kredit- und Liquiditäts****faz****i****litäten**</td><td></td><td>0</td></tr>
+<tr><td>**4. Operative Einlagen bei anderen Finanzinstituten (einschlies****s****lich Einlagen beim Zentralinstitut eines Finanzve****r****bundes)**</td><td></td><td>0</td></tr>
+<tr><td>**5. Sonstige Zuflüsse nach Gegenpartei**</td><td></td><td></td></tr>
 <tr><td>5.1 Vertragliche Forderungen gegenüber Privatkundinnen und Privatkunden und Kleinunternehmen</td><td></td><td>50</td></tr>
 <tr><td>5.2 Vertragliche Forderungen gegenüber Nicht-Finanzinstituten und allen anderen juristischen Personen aus anderen Geschäften als den in den obigen Zuflusskategorien aufgeführten</td><td></td><td>50</td></tr>
 <tr><td>5.3 Vertragliche Forderungen gegenüber Finanzinstituten und Zentralbanken aus anderen Geschäften als den in den obigen Zuflusskategorien aufgeführten</td><td></td><td>100</td></tr>
-<tr><td>6. Sonstige vertragliche Mittelzuflüsse innert 30 Kalendertagen</td><td></td><td></td></tr>
+<tr><td>**6. Sonstige vertragliche Mittelzuflüsse innert 30 Kalendertagen**</td><td></td><td></td></tr>
 <tr><td>6.1 Nettomittelzufluss aus Derivatgeschäften</td><td></td><td>100</td></tr>
 <tr><td>6.2 Vertragliche Zuflüsse aus innert 30 Kalendertagen fällig werdenden Wertpapieren, die nicht HQLA sind und die an keiner anderen Stelle bereits berücksichtigt wurden</td><td></td><td>100</td></tr>
 <tr><td>6.3 Vertraglich vereinbarte, unwiderrufliche und nicht bereits an anderer Stelle berücksichtigte Mittelzuflüsse innert der nächsten 30 Tage</td><td></td><td>100</td></tr>
-<tr><td>7. Gruppeninterne Mittelzuflüsse innert 30 Kalendertagen (nur für Einzelinstitut)</td><td></td><td>100</td></tr>
+<tr><td>**7. Gruppeninterne Mittelzuflüsse innert 30 Kalendertagen (nur für Einzelinstitut)**</td><td></td><td>100</td></tr>
 </table>
 
-Anhang 4[^t-5]
+Anhang 4*[^t-5]*
 
 (Art. 17*k*)
 
@@ -1216,13 +1217,13 @@ Anhang 4[^t-5]
 
 [^annex4-lvlu1-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
-Anhang 5[^t-6]
+Anhang 5*[^t-6]*
 
 (Art. 17*m*)
 
 ## Gewichtungsfaktoren der erforderlichen stabilen Finanzierung (RSF)
 
-[^t-6]: Eingefügt durch Ziff. II Abs. 2 der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^t-6]: Eingefügt durch Ziff. II Abs. 2 der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Die Berichtigung vom 21. Juni 2022 betrifft nur den französischen Text ([AS 2022 366](https://fedlex.data.admin.ch/eli/oc/2022/366)).
 
 <table>
 <tr><th>RSF-Kategorien</th><th>Gewichtungsfaktor (in %)</th></tr>
