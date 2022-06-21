@@ -4,11 +4,11 @@ title: "Ordonnance du 15 août 2018 sur l'entrée et l'octroi de visas (OEV)"
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: fr
-version: 2022-06-10
+version: 2022-06-22
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220610/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220610-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220610/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220622/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220622-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220622/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220610/fr"
 
 (OEV)
 
-du 15 août 2018 (Etat le 10 juin 2022)
+du 15 août 2018 (Etat le 22 juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -997,7 +997,7 @@ Dans le cadre de la procédure d’octroi des visas, la coopération consulaire 
 
 Les autorités fédérales et cantonales compétentes pour l’exécution des dispositions en matière d’entrée coopèrent étroitement.
 
-## Section 9**** Contrôle automatisé à la frontière dans les aéroports
+## Section 9 Contrôle automatisé à la frontière dans les aéroports
 
 [^sec9-1]
 
@@ -1221,7 +1221,7 @@ Les accords d’association à Schengen comprennent les accords suivants:
 [^annex1-lvlu1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
 [^annex1-lvlu1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
 
-Annexe 2*[^t-1]*
+Annexe 2[^t-1]
 
 (art. 8, al. 4, let. a)
 
@@ -1247,7 +1247,7 @@ Taïwan (Taipei chinois)
 
 Ukraine
 
-Annexe 3*[^t-2]*
+Annexe 3[^t-2]
 
 (art. 8, al. 4, let. b)
 
@@ -1280,22 +1280,26 @@ Annexe 3*[^t-2]*
 <tr><td>Macao</td><td></td></tr>
 </table>
 
-Annexe 4
+Annexe 4[^t-3]
 
 (art. 10, al. 2, let. b)
 
 ## États pour lesquels le DFJP a introduit une obligation de visa de transit aéroportuaire en raison d’un grand nombre d’entrées clandestines en Suisse de passagers d’aéronefs en transit (art. 3, par. 2, du code des visas)
 
+[^t-3]: Nouvelle teneur selon le ch. I de l’O du DFJP du 22 juin. 2022, en vigueur depuis le 22 juin 2022 à 23 h 00 ([RO 2022 368](https://fedlex.data.admin.ch/eli/oc/2022/368)).
+
+Cuba
+
 Syrie
 
 Turquie
 
-Annexe 5*[^t-3]*
+Annexe 5[^t-4]
 
 (art. 8, al. 3)
 
 ## Actes d’exécution et actes délégués de la Commission européenne portant suspension temporaire de l’exemption de visa pour les séjours de courte durée fondés sur le règlement (UE) 2018/1806
 
-[^t-3]: Introduite par le ch. II de l’O du 10 juin 2022, en vigueur depuis le 10 juin 2022 à 18 h 00 ([RO 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)).
+[^t-4]: Introduite par le ch. II de l’O du 10 juin 2022, en vigueur depuis le 10 juin 2022 à 18 h 00 ([RO 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)).
 
 Règlement d’exécution (UE) 2022/693 de la Commission du 27 avril 2022 relatif à la suspension temporaire de l’exemption de l’obligation de visa à l’égard des ressortissants du Vanuatu, JO L 129 du 3.5.2022, p. 18

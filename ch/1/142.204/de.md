@@ -4,11 +4,11 @@ title: Verordnung vom 15. August 2018 über die Einreise und die Visumerteilung 
 short: VEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: de
-version: 2022-06-10
+version: 2022-06-22
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220610/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220610-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220610/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220622/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220622-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220622/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220610/de"
 
 (VEV)
 
-vom 15. August 2018 (Stand am 10. Juni 2022)
+vom 15. August 2018 (Stand am 22. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -815,72 +815,72 @@ Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Über
 
 <sup>1</sup> Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EG) Nr. 1683/95[^34d-2], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG[^34d-3] darstellen und sofern die Durchführungsrechtsakte gestützt auf Artikel 2 der Verordnung (EG) Nr. 1683/95 erlassen wurden und technische Spezifikationen für die einheitliche Visagestaltung festlegen.
 
-<sup>2</sup> **Art. 34***e*[^34d-4] Abschluss internationaler Verträge im Zusammenhang mit dem zentralen Visa-Informationssystem
+<sup>2</sup>
 
-Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EG) Nr. 1030/2002[^34d-5], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel der Verordnung (EG) Nr. 1030/2002 erlassen wurden und Folgendes regeln:
+Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EG) Nr. 1030/2002[^34d-4], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel der Verordnung (EG) Nr. 1030/2002 erlassen wurden und Folgendes regeln:
 
 - a. technische Spezifikationen für die einheitliche Gestaltung des Ausländerausweises für Drittstaatsangehörige (Art. 2 und 3);
 - b. technische Spezifikationen für die Erfassung der biometrischen Daten (Art. 4*b*).
 
-<sup>1</sup> Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EG) Nr. 767/2008[^34d-6], sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnung (EG) Nr. 767/2008 erlassen wurden und sofern die Verträge völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG[^34d-7] darstellen und Folgendes regeln:
-
-a. die Festlegung detaillierter Bestimmungen über die Funktion für die zentrale Verwaltung der Liste der anerkannten Reisedokumente und der Mitteilung der Anerkennung oder Nichtanerkennung der aufgeführten Reisedokumente (Art. 5*a* Abs. 3);
-
-b. die Festlegung detaillierter Bestimmungen über die Verwaltung der Funktion für die zentrale Verwaltung der Liste der Behörden mit Zugang zum zentralen Visa-Informationssystem (C-VIS) (Art. 6 Abs. 5);
-
-c. die Festlegung der Risiken, auf die sich die spezifischen Risikoindikatoren stützen (Art. 9*j* Abs. 3);
-
-d. die Festlegung und Weiterentwicklung des Mechanismus und der Verfahren für die Durchführung von Qualitätskontrollen sowie angemessener Voraussetzungen für die Einhaltung der Qualität der in das C-VIS eingegebenen Daten (Art. 29 Abs. 2*a*);
-
-e. die Festlegung der Spezifikationen der Qualitätsstandards für die Speicherung der in das C-VIS eingegebenen Daten (Art. 29*a* Abs. 3);
-
-f. die Festlegung der für die Entwicklung des C‑VIS, der nationalen Schnittstelle in jedem Mitgliedstaat und der Kommunikationsinfrastruktur zwischen dem C-VIS und den nationalen Schnittstellen erforderlichen Massnahmen (Art. 45 Abs. 1);
-
-g. die Festlegung der für die technische Implementierung der Funktionen des C-VIS erforderlichen Massnahmen (Art. 45 Abs. 2);
-
-h. die Festlegung der technischen Spezifikationen für die Qualität, Auflösung und Verwendung von Fingerabdrücken und des Gesichtsbilds für die biometrische Verifizierung und Identifizierung im C-VIS (Art. 45 Abs. 3);
-
-i. die Festlegung detaillierter Bestimmungen über die Voraussetzungen für den Betrieb des Zugangs für Beförderungsunternehmen und die geltenden Datenschutz- und Sicherheitsvorschriften (Art. 45*c* Abs. 3);
-
-j. die Festlegung des Authentifizierungssystems für Beförderungsunternehmen (Art. 45*c* Abs. 5);
-
-k. die Festlegung der Einzelheiten der Ausweichverfahren für den Fall, dass der Datenzugriff durch Beförderungsunternehmen technisch nicht möglich ist (Art. 45*d* Abs. 3);
-
-l. die Festlegung der Spezifikationen der technischen Lösung, die den Mitgliedstaaten zur Erleichterung der Datenerhebung gemäss Kapitel III*b* im Hinblick auf die Erstellung von Statistiken zur Verfügung gestellt wird (Art. 50 Abs. 4).
-
-<sup>2</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission zur Verordnung (EG) Nr. 767/2008, sofern die delegierten Rechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnung (EG) Nr. 767/2008 erlassen wurden und sofern die Verträge völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und Folgendes regeln:
-
-a. die Festlegung der vorgegebenen Liste von Beschäftigungen (Art. 9 Abs. 3);
-
-b. die genauere Definition des Risikos für die Sicherheit, des Risikos der illegalen Einwanderung oder des hohen Epidemierisikos (Art. 9*j* Abs. 2);
-
-c. die Erstellung eines Handbuchs, das die für Abfragen, Verifizierungen und Bewertungen im Rahmen der Interoperabilität der Informationssysteme erforderlichen Verfahren und Regeln festlegt (Art. 9*h* Abs. 2 und 22*b* Abs. 18).
-
-**Art. 34***f*[^34d-8] Abschluss internationaler Verträge im Zusammenhang mit dem Fonds für finanzielle Hilfe im Bereich Grenzverwaltung und Visumpolitik
-
-<sup>1</sup> Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) 2021/1148[^34d-9], sofern die Durchführungsrechtsakte das Muster für die jährliche Leistungsbilanz erstellen und gestützt auf Artikel 29 Absatz 5 der Verordnung (EU) 2021/1148 erlassen wurden und sofern die Verträge völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG[^34d-10] darstellen.
-
-<sup>2</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission zur Verordnung (EU) 2021/1148, sofern die delegierten Rechtsakte gestützt auf Artikel 31 Absatz 2 der Verordnung (EU) 2021/1148 erlassen wurden und sofern die Verträge völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen.
-
-<sup>3</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen betreffend Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) 2021/1060[^34d-11], sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnung (EU) 2021/1060 erlassen wurden und sofern die Verträge völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und Folgendes regeln:
-
-a. die Genehmigung von nationalen Programmen (Art. 23 Abs. 4);
-
-b. die Entscheidung über Finanzkorrekturen (Art. 104 Abs. 4).
-
-<sup>4</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission zur Verordnung (EU) 2021/1160, sofern die delegierten Rechtsakte gestützt auf Artikel 114 Absatz 2 der Verordnung (EU) 2021/1060 erlassen wurden und sofern die Verträge völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen.
-
 [^34d-1]: Eingefügt durch Ziff. I der V vom 13. Mai 2020, in Kraft seit 15. Juni 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
 [^34d-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. f.
 [^34d-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^34d-4]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^34d-5]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. g.
-[^34d-6]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. h.
-[^34d-7]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^34d-8]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^34d-9]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. i.
-[^34d-10]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^34d-11]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. j.
+[^34d-4]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. g.
+
+#### Art. 34e
+
+**Abschluss internationaler Verträge im Zusammenhang mit dem zentralen Visa-Informationssystem**[^34e-1]
+
+<sup>1</sup>
+
+Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EG) Nr. 767/2008[^34e-2], sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnung (EG) Nr. 767/2008 erlassen wurden und sofern die Verträge völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG[^34e-3] darstellen und Folgendes regeln:
+
+- a. die Festlegung detaillierter Bestimmungen über die Funktion für die zentrale Verwaltung der Liste der anerkannten Reisedokumente und der Mitteilung der Anerkennung oder Nichtanerkennung der aufgeführten Reisedokumente (Art. 5*a* Abs. 3);
+- b. die Festlegung detaillierter Bestimmungen über die Verwaltung der Funktion für die zentrale Verwaltung der Liste der Behörden mit Zugang zum zentralen Visa-Informationssystem (C-VIS) (Art. 6 Abs. 5);
+- c. die Festlegung der Risiken, auf die sich die spezifischen Risikoindikatoren stützen (Art. 9*j* Abs. 3);
+- d. die Festlegung und Weiterentwicklung des Mechanismus und der Verfahren für die Durchführung von Qualitätskontrollen sowie angemessener Voraussetzungen für die Einhaltung der Qualität der in das C-VIS eingegebenen Daten (Art. 29 Abs. 2*a*);
+- e. die Festlegung der Spezifikationen der Qualitätsstandards für die Speicherung der in das C-VIS eingegebenen Daten (Art. 29*a* Abs. 3);
+- f. die Festlegung der für die Entwicklung des C‑VIS, der nationalen Schnittstelle in jedem Mitgliedstaat und der Kommunikationsinfrastruktur zwischen dem C-VIS und den nationalen Schnittstellen erforderlichen Massnahmen (Art. 45 Abs. 1);
+- g. die Festlegung der für die technische Implementierung der Funktionen des C-VIS erforderlichen Massnahmen (Art. 45 Abs. 2);
+- h. die Festlegung der technischen Spezifikationen für die Qualität, Auflösung und Verwendung von Fingerabdrücken und des Gesichtsbilds für die biometrische Verifizierung und Identifizierung im C-VIS (Art. 45 Abs. 3);
+- i. die Festlegung detaillierter Bestimmungen über die Voraussetzungen für den Betrieb des Zugangs für Beförderungsunternehmen und die geltenden Datenschutz- und Sicherheitsvorschriften (Art. 45*c* Abs. 3);
+- j. die Festlegung des Authentifizierungssystems für Beförderungsunternehmen (Art. 45*c* Abs. 5);
+- k. die Festlegung der Einzelheiten der Ausweichverfahren für den Fall, dass der Datenzugriff durch Beförderungsunternehmen technisch nicht möglich ist (Art. 45*d* Abs. 3);
+- l. die Festlegung der Spezifikationen der technischen Lösung, die den Mitgliedstaaten zur Erleichterung der Datenerhebung gemäss Kapitel III*b* im Hinblick auf die Erstellung von Statistiken zur Verfügung gestellt wird (Art. 50 Abs. 4).
+
+<sup>2</sup>
+
+Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission zur Verordnung (EG) Nr. 767/2008, sofern die delegierten Rechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnung (EG) Nr. 767/2008 erlassen wurden und sofern die Verträge völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und Folgendes regeln:
+
+- a. die Festlegung der vorgegebenen Liste von Beschäftigungen (Art. 9 Abs. 3);
+- b. die genauere Definition des Risikos für die Sicherheit, des Risikos der illegalen Einwanderung oder des hohen Epidemierisikos (Art. 9*j* Abs. 2);
+- c. die Erstellung eines Handbuchs, das die für Abfragen, Verifizierungen und Bewertungen im Rahmen der Interoperabilität der Informationssysteme erforderlichen Verfahren und Regeln festlegt (Art. 9*h* Abs. 2 und 22*b* Abs. 18).
+
+[^34e-1]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34e-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. h.
+[^34e-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 34f
+
+**Abschluss internationaler Verträge im Zusammenhang mit dem Fonds für finanzielle Hilfe im Bereich Grenzverwaltung und Visumpolitik**[^34f-1]
+
+<sup>1</sup> Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) 2021/1148[^34f-2], sofern die Durchführungsrechtsakte das Muster für die jährliche Leistungsbilanz erstellen und gestützt auf Artikel 29 Absatz 5 der Verordnung (EU) 2021/1148 erlassen wurden und sofern die Verträge völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG[^34f-3] darstellen.
+
+<sup>2</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission zur Verordnung (EU) 2021/1148, sofern die delegierten Rechtsakte gestützt auf Artikel 31 Absatz 2 der Verordnung (EU) 2021/1148 erlassen wurden und sofern die Verträge völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen.
+
+<sup>3</sup>
+
+Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen betreffend Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) 2021/1060[^34f-4], sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnung (EU) 2021/1060 erlassen wurden und sofern die Verträge völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und Folgendes regeln:
+
+- a. die Genehmigung von nationalen Programmen (Art. 23 Abs. 4);
+- b. die Entscheidung über Finanzkorrekturen (Art. 104 Abs. 4).
+
+<sup>4</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission zur Verordnung (EU) 2021/1160, sofern die delegierten Rechtsakte gestützt auf Artikel 114 Absatz 2 der Verordnung (EU) 2021/1060 erlassen wurden und sofern die Verträge völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen.
+
+[^34f-1]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34f-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. i.
+[^34f-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34f-4]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. j.
 
 #### Art. 35
 
@@ -998,7 +998,7 @@ Für die Zusammenarbeit im Visumverfahren zwischen den Auslandvertretungen der S
 
 Die für den Vollzug der Einreisebestimmungen zuständigen Behörden des Bundes und der Kantone arbeiten eng zusammen.
 
-## 9. Abschnitt:**** Automatisierte Grenzkontrolle an den Schengener Aussengrenzen am Flughafen
+## 9. Abschnitt: Automatisierte Grenzkontrolle an den Schengener Aussengrenzen am Flughafen
 
 [^sec9-1]
 
@@ -1222,7 +1222,7 @@ Die Schengen-Assoziierungsabkommen umfassen:
 [^annex1-lvlu1-5]: [SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
 [^annex1-lvlu1-6]: [SR 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
 
-Anhang 2*[^t-1]*
+Anhang 2[^t-1]
 
 (Art. 8 Abs. 4 Bst. a)
 
@@ -1248,7 +1248,7 @@ Taiwan (Chinesisches Taipei)
 
 Ukraine
 
-Anhang 3*[^t-2]*
+Anhang 3[^t-2]
 
 (Art. 8 Abs. 4 Bst. b)
 
@@ -1281,22 +1281,26 @@ Anhang 3*[^t-2]*
 <tr><td>Mikronesien</td><td></td></tr>
 </table>
 
-Anhang 4
+Anhang 4[^t-3]
 
 (Art. 10 Abs. 2 Bst. b)
 
-## Staaten, für die das EJPD eine Visumpflicht für den Flughafentransit eingeführt hat, weil Flugpassagiere im Transit in grosser Zahl illegal in die Schweiz gelangen (Art. 3 Abs. 2 des Visakodex)
+## Staaten, für die das EJPD eine Visumpflicht für den Flughafentransit eingeführt hat, weil Flugpassagiere im Transit in grosser Zahl rechtswidrig in die Schweiz gelangen (Art. 3 Abs. 2 des Visakodex)
+
+[^t-3]: Fassung gemäss Ziff. I der V des EJPD vom 22. Juni 2022, in Kraft seit 22. Juni 2022 um 23.00 Uhr ([AS 2022 368](https://fedlex.data.admin.ch/eli/oc/2022/368)).
+
+Kuba
 
 Syrien
 
 Türkei
 
-Anhang 5*[^t-3]*
+Anhang 5[^t-4]
 
 (Art. 8 Abs. 3)
 
 ## Durchführungsrechtsakte und delegierte Rechtsakte der Europäischen Kommission zur vorübergehenden Aussetzung der Befreiung von der Visumpflicht für den kurzfristigen Aufenthalt, die gestützt auf die Verordnung (EU) 2018/1806 erlassen wurden
 
-[^t-3]: Eingefügt durch Ziff. II der V vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18 Uhr ([AS 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)).
+[^t-4]: Eingefügt durch Ziff. II der V vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18 Uhr ([AS 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)).
 
 Durchführungsverordnung (EU) 2022/693 der Kommission vom 27. April 2022 über die vorübergehende Aussetzung der Befreiung von der Visumpflicht für Staatsangehörige Vanuatus, ABl. L 129 vom 3.5.2022, S. 18
