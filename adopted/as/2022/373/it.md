@@ -1,0 +1,526 @@
+---
+status: "beschlossen, noch nicht in Kraft"
+reference: AS 2022 373
+title: Legge federale del 17 dicembre 2021 sul trasporto di merci sotterraneo (LTMS)
+language: it
+adopted: 2021-12-17
+published: 2022-06-24
+in_force: ["2022-08-01"]
+url: "https://www.fedlex.admin.ch/eli/oc/2022/373/it"
+---
+
+> Riproduzione non ufficiale della Raccolta ufficiale (RU). L’atto è pubblicato ma non ancora in vigore; fa stato la pubblicazione nella RU (art. 15 LPubb, RS 170.512).
+
+# Legge federale sul trasporto di merci sotterraneo
+
+(LTMS)
+
+del 17 dicembre 2021
+
+L’Assemblea federale della Confederazione Svizzera,
+
+visti gli articoli 81 e 87 della Costituzione federale[^ingress-1]; visto il messaggio del Consiglio federale del 28 ottobre 2020[^ingress-2],
+
+decreta:
+
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [FF 2020 7743](https://fedlex.data.admin.ch/eli/fga/2020/2362)
+
+## Sezione 1: Disposizioni generali
+
+#### Art. 1
+
+**Oggetto e scopo**
+
+<sup>1</sup> La presente legge disciplina la costruzione e l’esercizio di impianti intercantonali per il trasporto di merci sotterraneo e il relativo esercizio di veicoli.
+
+<sup>2</sup> Prevede che il trasporto di merci sotterraneo si basi sull’iniziativa privata e sia finanziariamente autonomo. Il trasporto di merci sotterraneo deve contribuire allo sviluppo sostenibile del trasporto di merci in Svizzera e rendere l’approvvigiona­mento di beni più efficiente e rispettoso dell’ambiente, in particolare nelle città e negli agglomerati.
+
+#### Art. 2
+
+**Campo d’applicazione**
+
+<sup>1</sup>
+
+La presente legge si applica ai seguenti impianti e veicoli:
+
+- a. agli impianti di trasporto sotterranei e ai relativi pozzi, ai depositi e agli impianti di trasbordo di superficie nonché alle altre installazioni necessarie per l’esercizio;
+- b. agli impianti di trasporto di superficie indispensabili per il trasporto di merci sotterraneo;
+- c. ai veicoli impiegati negli impianti di trasporto o nei pozzi.
+
+<sup>2</sup> Non si applica al raccordo dei depositi e degli impianti di trasbordo al resto della rete dei trasporti.
+
+#### Art. 3
+
+**Rapporti di proprietà**
+
+<sup>1</sup> Il capitale dei proprietari e dei gestori degli impianti nonché i diritti di voto direttamente o indirettamente ad esso connessi devono appartenere in maggioranza a per­sone svizzere.
+
+<sup>2</sup> L’Ufficio federale dei trasporti (UFT) può esigere in ogni momento che i proprietari e i gestori forniscano la prova del rispetto di questa condizione.
+
+#### Art. 4
+
+**Istanze dei Cantoni**
+
+Nell’ambito della pianificazione e costruzione degli impianti si deve tenere adeguatamente conto delle istanze dei Cantoni interessati in merito al tracciato degli impianti di trasporto e all’ubicazione degli altri impianti.
+
+#### Art. 5
+
+**Divieto di discriminazione**
+
+<sup>1</sup> I gestori degli impianti concedono ai clienti l’accesso senza discriminazioni a tutti i servizi di trasporto offerti.
+
+<sup>2</sup> Si concedono reciprocamente il raccordo senza discriminazioni ai propri impianti, purché questo sia tecnicamente possibile ed economicamente sostenibile.
+
+<sup>3</sup>
+
+La Commissione del trasporto ferroviario (ComFerr) giudica le controversie concernenti:
+
+- a. la concessione dell’accesso;
+- b. le convenzioni sull’accesso;
+- c. il calcolo non discriminatorio del prezzo, senza indicazione dello schema di calcolo.
+
+<sup>4</sup> La procedura è retta dagli articoli 40*a*<sup>ter</sup>–40*a*<sup>quinquies</sup> della legge federale del 20 di­cembre 1957[^5-1] sulle ferrovie (Lferr).
+
+[^5-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+
+#### Art. 6
+
+**Espropriazione**
+
+<sup>1</sup> Per la costruzione e l’esercizio degli impianti può essere esercitato il diritto di espro­priazione secondo la legge federale del 20 giugno 1930[^6-1] sull’espropriazione (LEspr).
+
+<sup>2</sup> La procedura di espropriazione è applicabile soltanto se sono falliti i tentativi di acquisire i diritti necessari mediante trattative private o mediante ricomposizione particellare.
+
+[^6-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+
+## Sezione 2: Procedura del piano settoriale e del piano direttore
+
+#### Art. 7
+
+<sup>1</sup> L’impresa che intende presentare una domanda di approvazione dei piani per un progetto ne informa tempestivamente l’UFT. Presenta all’UFT i documenti necessari per la valutazione delle aree idonee per gli impianti. Da tali documenti devono risul­tare, in particolare, i potenziali di conflitto e di ottimizzazione rispetto all’utiliz­za­zione del territorio, agli impianti destinati al traffico esistenti e all’ambiente.
+
+<sup>2</sup> Sulla base delle indicazioni e dei documenti dell’im­presa il Consiglio federale de­cide se designare in un piano settoriale le aree idonee per gli impianti progettati.
+
+<sup>3</sup> Se il Consiglio federale designa le aree idonee in un piano settoriale, i Cantoni de­finiscono su questa base le aree per gli impianti e il tracciato degli impianti di trasporto nei propri piani direttori.
+
+<sup>4</sup> Il Consiglio federale può impartire ai Cantoni un termine per queste definizioni. Se un Cantone non definisce il tracciato entro il termine impartito, il Consiglio federale può provvedervi nel piano settoriale.
+
+<sup>5</sup> La Confederazione e i Cantoni possono esigere che l’impresa elabori, con la partecipazione dei Cantoni interessati, almeno due varianti per il tracciato degli impianti di trasporto e per l’ubicazione dei depositi e degli impianti di trasbordo, allacciamento compreso.
+
+## Sezione 3: Pianificazione, costruzione, esercizio e smantellamento
+
+#### Art. 8
+
+**Esigenze del traffico, della pianificazione del territorio, della protezione dell’ambiente, della natura e del paesaggio nonché della sicurezza**
+
+<sup>1</sup> Gli impianti e i veicoli devono essere costruiti, gestiti, mantenuti e rinnovati secon­do le esigenze del traffico, della pianificazione del territorio, della protezione del­l’ambiente, della natura e del paesaggio nonché della sicurezza come pure secondo le regole tecniche riconosciute.
+
+<sup>2</sup> Il Consiglio federale può emanare prescrizioni sulla costruzione e sull’esercizio, in particolare sulla compatibilità tecnica e sulla protezione delle persone e dell’ambien­te.
+
+#### Art. 9
+
+**Approvazione dei piani**
+
+<sup>1</sup> Le opere destinate esclusivamente o prevalentemente alla costruzione o all’eserci­zio di un impianto possono essere costruite o modificate unicamente previa approvazione dei piani.
+
+<sup>2</sup> È considerata modifica di un impianto anche l’integrazione di altri impianti, purché l’impianto modificato continui a essere destinato esclusivamente o prevalentemente al trasporto di merci sotterraneo.
+
+<sup>3</sup> L’autorità competente per l’approvazione dei piani è l’UFT.
+
+<sup>4</sup> Con l’approvazione dei piani sono rilasciate tutte le autorizzazioni necessarie se-condo il diritto federale.
+
+<sup>5</sup> Fatto salvo l’articolo 21, non è necessaria alcuna concessione, autorizzazione o piano cantonale. Va tenuto conto del diritto cantonale per quanto esso non limiti in modo sproporzionato l’attività dell’impresa.
+
+<sup>6</sup>
+
+L’approvazione dei piani è rilasciata se:
+
+- a. nessun interesse pubblico rilevante, segnatamente in materia di sicurezza, di pianificazione del territorio o di protezione dell’ambiente, della natura e del paesaggio, vi si oppone; e
+- b. l’impresa ha una capacità finanziaria sufficiente.
+
+<sup>7</sup> Per l’approvazione dei piani di progetti che incidono considerevolmente sulla pia­nificazione del territorio e sull’ambiente occorre un piano settoriale.
+
+<sup>8</sup> Sono considerati impianti anche quelli di allacciamento dei cantieri e le aree di cantiere nonché i siti per il riciclaggio e il deposito del materiale di sgombero e di scavo che sono in uno stretto rapporto spaziale e funzionale con l’impianto progettato.
+
+<sup>9</sup> Nell’ambito dell’approvazione dei piani possono essere definiti anche altri siti per il riciclaggio e il deposito del materiale di sgombero e di scavo, purché siano conformi ai piani direttori cantonali.
+
+#### Art. 10
+
+**Valutazione degli aspetti rilevanti per la sicurezza**
+
+<sup>1</sup> Nelle procedure di approvazione dei piani l’UFT valuta gli aspetti rilevanti per la sicurezza mediante controlli per campionatura, in funzione dei rischi e sulla scorta di perizie di sicurezza.
+
+<sup>2</sup> L’UFT stabilisce i punti per i quali l’impresa richiedente deve produrre perizie di sicu­rezza.
+
+#### Art. 11
+
+**Modifiche non soggette ad approvazione**
+
+<sup>1</sup>
+
+Gli impianti possono essere costruiti o modificati senza approvazione dei piani, se:
+
+- a. non ledono interessi degni di protezione concernenti la pianificazione del territorio, la protezione dell’ambiente, della natura e del paesaggio, o di terzi; e
+- b. non necessitano di altre autorizzazioni o approvazioni secondo le disposizioni del diritto federale.
+
+<sup>2</sup> Nei casi dubbi è svolta una procedura di approvazione dei piani.
+
+<sup>3</sup> Le imprese presentano annualmente all’UFT un elenco di tutti gli impianti la cui costruzione o modifica non sottostà ad approvazione.
+
+#### Art. 12
+
+**Diritto applicabile**
+
+<sup>1</sup> La procedura di approvazione dei piani è retta dalla legge federale del 20 dicembre 1968[^12-1] sulla procedura amministrativa (PA), per quanto la presente legge non vi dero-ghi.
+
+<sup>2</sup> Se sono necessarie espropriazioni, si applicano inoltre le disposizioni della LEspr[^12-2].
+
+[^12-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^12-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+
+#### Art. 13
+
+**Introduzione della procedura**
+
+La domanda di approvazione dei piani va presentata, con la documentazione necessaria, all’UFT. Quest’ultimo esamina se la documentazione è completa e, se del caso, chiede di completarla.
+
+#### Art. 14
+
+**Atti preparatori**
+
+<sup>1</sup>
+
+Prima del deposito pubblico della domanda, l’impresa comunica le modifiche che l’opera progettata implica, segnatamente:
+
+- a. le modifiche in superficie devono essere messe in evidenza sul terreno;
+- b. le modifiche sotterranee devono essere indicate.
+
+<sup>2</sup> Le obiezioni contro il picchettamento o l’indicazione di profili devono essere pre­sentate subito, al più tardi però entro il termine di deposito dei piani, presso l’UFT.
+
+<sup>3</sup> Agli altri atti preparatori, all’eliminazione delle divergenze o per consolidare le ba­si decisionali si applica la procedura di cui all’articolo 15 LEspr[^14-1]. Circa le obiezioni di terzi decide l’UFT.
+
+[^14-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+
+#### Art. 15
+
+**Parere dei Cantoni, pubblicazione e deposito dei piani**
+
+<sup>1</sup> L’UFT trasmette la domanda ai Cantoni interessati, invitandoli a esprimere il loro parere entro tre mesi. In casi motivati tale termine può eccezionalmente essere prorogato.
+
+<sup>2</sup> La domanda deve essere pubblicata negli organi ufficiali dei Cantoni e dei Comuni interessati e depositata pubblicamente durante 30 giorni.
+
+<sup>3</sup> Il deposito pubblico ha per conseguenza il bando d’espropriazione secondo gli articoli 42–44 LEspr[^15-1].
+
+[^15-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+
+#### Art. 16
+
+**Avviso personale**
+
+<sup>RS 711</sup> Al più tardi con il deposito pubblico della domanda l’impresa invia agli aventi diritto all’indennità secondo l’articolo 31 LEspr, nonché ai proprietari dei fondi situati al di sopra dell’impianto o ad esso contigui, un avviso personale sui diritti da espropriare.
+
+#### Art. 17
+
+**Opposizione**
+
+<sup>1</sup> Chi ha qualità di parte secondo le disposizioni della PA[^17-1] può, durante il termine di deposito dei piani, fare opposizione presso l’autorità competente per l’approvazione dei piani. Se non fa opposizione, è escluso dal seguito della procedura.
+
+<sup>2</sup> Chi ha qualità di parte secondo le disposizioni della LEspr[^17-2] può, durante il termi­ne di deposito dei piani, far valere tutte le istanze di cui all’articolo 33 LEspr.
+
+<sup>3</sup> I Comuni salvaguardano i loro interessi mediante opposizione.
+
+[^17-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^17-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+
+#### Art. 18
+
+**Eliminazione delle divergenze**
+
+L’eliminazione delle divergenze nell’Amministrazione federale è disciplinata dal­l’articolo 62*b* della legge del 21 marzo 1997[^18-1] sull’organizzazione del Go­verno e del­l’Amministrazione.
+
+[^18-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 19
+
+**Durata di validità**
+
+<sup>1</sup> Con l’approvazione dei piani l’UFT decide simultaneamente anche circa le opposizioni relative al diritto di espropriazione.
+
+<sup>2</sup> Può approvare progetti a tappe se la loro trattazione separata non pregiudica la va­lutazione globale del progetto.
+
+<sup>3</sup> L’approvazione dei piani decade se entro cinque anni dal passaggio in giudicato della decisione l’impresa non ha dato inizio all’esecuzione del progetto di costru­zione.
+
+<sup>4</sup> Per gravi motivi, l’UFT può prorogare di tre anni al massimo la durata di validità dell’approvazione. La proroga è esclusa se la situazione determinante di fatto o di diritto si è sostanzialmente modificata dal passaggio in giudicato dell’approvazione.
+
+#### Art. 20
+
+**Procedura di conciliazione e di stima, immissione in possesso anticipata**
+
+<sup>1</sup> Dopo la conclusione della procedura di approvazione dei piani è eseguita, se neces­sario, la procedura di conciliazione e di stima dinanzi alla Commissione federale di stima (Commissione di stima) secondo le disposizioni della LEspr[^20-1].
+
+<sup>2</sup> Il presidente della Commissione di stima può, sulla base di una deci­sione esecutiva di approvazione dei piani, autorizzare l’immissione in possesso anticipata. Si presume che, senza l’immissione in possesso anticipata, l’espropriante subirebbe un signi­ficativo pregiudizio. Per il rimanente si applica l’articolo 76 LEspr.
+
+[^20-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+
+#### Art. 21
+
+**Smaltimento del materiale di sgombero e di scavo**
+
+<sup>1</sup> Se la costruzione degli impianti genera considerevoli quantità di materiale di sgombero o di scavo che non può essere riciclato o depositato secondo l’arti­colo 9 capoverso 8 o 9, i Cantoni interessati designano, su domanda dell’impresa, i siti per il suo smaltimento.
+
+<sup>2</sup> Se al momento dell’approvazione dei piani non vi è un’autorizzazione passata in giudicato del Cantone interessato, l’UFT può designare un sito per il deposito temporaneo e stabilire le condizioni e gli oneri connessi al suo uso nell’ambito dell’ap­provazione dei piani. Il Cantone designa i siti per lo smaltimento del materiale entro cinque anni dall’approvazione dei piani.
+
+#### Art. 22
+
+**Ricomposizione particellare**
+
+<sup>1</sup> Se consente di assicurare i diritti reali necessari a un progetto e se non avviene volontariamente, la ricomposizione particellare dev’essere ordinata su richiesta del­l’UFT entro un termine da esso fissato secondo il diritto cantonale. Se tale termine non è osservato, si effettua la procedura ordinaria con espropriazioni.
+
+<sup>2</sup>
+
+Nella procedura di ricomposizione particellare:
+
+- a. possono essere inseriti fondi dell’impresa;
+- b. può essere ridotta la superficie dei fondi inclusa nella procedura;
+- c. possono essere computati i plusvalori da bonifiche fondiarie che la costruzione ha comportato;
+- d. l’impresa può essere anticipatamente immessa in possesso;
+- e. possono essere presi altri provvedimenti di diritto cantonale.
+
+<sup>3</sup> Il terreno ceduto all’impresa per le sue esigenze mediante riduzioni di superficie è rimunerato al proprietario fondiario interessato, al valore venale.
+
+<sup>4</sup> L’impresa sostiene i costi supplementari provocati dalla costruzione. Se la ricomposizione particellare deve essere eseguita esclusivamente a causa della costruzione, l’impresa sopporta integralmente le spese.
+
+#### Art. 23
+
+**Impianti secondo il diritto cantonale**
+
+<sup>1</sup> La costruzione e la modifica di impianti non destinati esclusivamente o prevalentemente al trasporto di merci sotterraneo sottostanno al diritto cantonale.
+
+<sup>2</sup> La loro autorizzazione da parte del Cantone necessita del consenso dell’UFT se anche il trasporto di merci sotterraneo ne beneficia o potrebbe risultarne pregiudi­cato.
+
+#### Art. 24
+
+**Smantellamento e messa in sicurezza**
+
+<sup>1</sup> Se la costruzione o l’esercizio degli impianti cessa definitivamente, gli impianti sono smantellati o messi in sicurezza a spese del proprietario. L’autorità competente decide in quale misura deve essere ripristinato lo stato anteriore.
+
+<sup>2</sup> L’UFT esige garanzie adeguate.
+
+## Sezione 4: Sicurezza e ambiente
+
+#### Art. 25
+
+**Responsabilità e obbligo di diligenza**
+
+L’impresa è responsabile della sicurezza della costruzione e dell’esercizio degli impianti e della sicurezza dell’esercizio dei veicoli. Provvede segnatamente a un esercizio, una manutenzione e un rinnovo degli impianti e dei veicoli tali da garantirne la sicurezza in ogni momento.
+
+#### Art. 26
+
+**Misure nell’interesse pubblico**
+
+<sup>1</sup> Qualora i lavori di costruzione pregiudichino opere pubbliche come strade e vie, captazioni d’acqua sotterranea, condutture e impianti simili, l’impresa provvede ad assicurarne l’uso, per quanto sia richiesto dall’interesse pubblico.
+
+<sup>2</sup> L’impresa sostiene le spese causate da queste misure. Le spese derivanti da misure rese necessarie da progetti di costruzione o da altre esigenze di terzi sono a carico di questi ultimi.
+
+#### Art. 27
+
+**Trasporto di merci pericolose**
+
+<sup>1</sup> Il Consiglio federale può emanare prescrizioni sul trasporto di merci pericolose e designare le tratte sulle quali è ammesso.
+
+<sup>2</sup>
+
+Emana in particolare prescrizioni concernenti:
+
+- a. la procedura di verifica della conformità dei mezzi di contenimento per merci pericolose ai requisiti essenziali;
+- b. la procedura di riconoscimento dei servizi indipendenti incaricati di effettuare le valutazioni di conformità.
+
+#### Art. 28
+
+**Obbligo d’indennità**
+
+<sup>RS 711</sup> L’obbligo d’indennità per i danni causati dall’impresa con una violazione di diritti di terzi che non deve essere tollerata conformemente al diritto di vicinato o ad altre prescrizioni legali e che è una conseguenza inevitabile o difficilmente evitabile della costruzione o dell’esercizio degli impianti o dell’esercizio dei veicoli dell’impresa è disciplinato dalla LEspr.
+
+#### Art. 29
+
+**Pregiudizi per la sicurezza causati da terzi**
+
+<sup>1</sup> I terzi che con i loro impianti o le loro attività pregiudicano la sicurezza degli impianti dell’impresa devono, a domanda di quest’ultima, rimediarvi. Se le parti non si accordano, l’UFT, su proposta dell’impresa e sentite le parti, decide le misure da prendere. Nel frattempo deve essere tralasciato qualsiasi intervento che potrebbe pregiudicare la sicurezza degli impianti e dei veicoli. Nei casi di grande urgenza, l’impresa può adottare i provvedimenti opportuni alla rimozione del pericolo.
+
+<sup>2</sup> Se gli impianti e le attività dei terzi esistevano già prima della costruzione degli impianti dell’impresa, il diritto dei terzi all’indennità, alla quale è tenuta l’impresa, è disciplinato dalla LEspr[^29-1]. Per gli impianti costruiti o le attività dei terzi avviate successivamente, i terzi sostengono le spese causate dalle misure previste nel capoverso 1; inoltre, non hanno diritto ad alcuna indennità.
+
+[^29-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+
+#### Art. 30
+
+**Impianti di segnalazione e di telecomunicazione**
+
+<sup>1</sup> Le imprese possono costruire ed esercitare gli impianti di segnalazione e di telecomunicazione necessari al trasporto di merci sotterraneo.
+
+<sup>2</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) designa gli impianti e ne disciplina l’uso.
+
+<sup>3</sup> Gli impianti di telecomunicazioni sottostanno in ogni caso alle disposizioni sulla procedura d’approvazione dei piani per gli impianti delle imprese.
+
+#### Art. 31
+
+**Esame dell’impatto sull’ambiente e provvedimenti preparatori**
+
+<sup>1</sup> L’esame dell’impatto sull’ambiente è retto dalle disposizioni del capitolo 3 della legge del 7 ottobre 1983[^31-1] sulla protezione dell’ambiente.
+
+<sup>2</sup> Le imprese possono adottare provvedimenti preparatori per la messa a punto dei progetti o per la verifica delle basi decisionali. Il DATEC decide sulle obiezioni di terzi. I proprietari sono avvertiti preliminarmente conformemente alla LEspr[^31-2] ed e­ventualmente indennizzati.
+
+[^31-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^31-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+
+## Sezione 5: Vigilanza
+
+#### Art. 32
+
+**Autorità competente**
+
+<sup>1</sup>
+
+L’UFT sorveglia:
+
+- a. il rispetto delle disposizioni della presente legge durante la costruzione degli impianti e durante l’esercizio, la manutenzione e il rinnovo degli impianti e dei veicoli;
+- b. il rispetto delle prescrizioni rilevanti per la sicurezza in funzione dei rischi.
+
+<sup>2</sup> Può esigere prove e perizie. Può procedere autonomamente a prove per campionatura.
+
+<sup>3</sup> Prende le misure necessarie a ristabilire la sicurezza qualora constati che la costruzione o l’esercizio degli impianti o l’esercizio dei veicoli potrebbe compromettere la sicurezza di persone o beni. Può limitare o vietare l’esercizio degli impianti e dei veicoli.
+
+#### Art. 33
+
+**Obbligo di notifica e di collaborazione**
+
+<sup>1</sup> Eventi particolari durante la costruzione o l’esercizio degli impianti o durante l’esercizio dei veicoli devono essere notificati senza indugio all’UFT.
+
+<sup>2</sup> L’impresa è tenuta in ogni momento a fornire informazioni all’UFT e a presentargli tutta la documentazione. Concede all’UFT libero accesso a tutte le parti degli impianti e ai veicoli e lo coadiuva a titolo gratuito nelle attività di esame e di controllo.
+
+#### Art. 34
+
+**Inchiesta sugli incidenti e sui quasi incidenti**
+
+<sup>1</sup> Per ogni incidente e quasi incidente nell’esercizio degli impianti e dei veicoli è aperta un’inchiesta intesa a chiarirne le circostanze, la dinamica e le cause.
+
+<sup>2</sup> L’inchiesta serve a prevenire incidenti. Essa non verte sulla determinazione della colpa e della responsabilità.
+
+<sup>3</sup> Alla procedura d’inchiesta si applicano per analogia gli articoli 15*a–*15*c* Lferr[^34-1].
+
+[^34-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+
+#### Art. 35
+
+**Trattamento di dati da parte dell’UFT**
+
+<sup>1</sup> Nell’ambito della sua attività di vigilanza, l’UFT è autorizzato a rilevare i dati necessari presso le imprese e a elaborarli. Le imprese forniscono i dati necessari per la statistica ufficiale dei trasporti.
+
+<sup>2</sup> Ai fini della pianificazione dei trasporti, l’UFT può chiedere alle imprese di rilevare e trasmettergli dati relativi alle tratte. Può divulgarli nella misura necessaria per conseguire gli obiettivi prefissati e se sussiste un interesse pubblico preponderante.
+
+<sup>3</sup>
+
+Dopo aver valutato la proporzionalità del provvedimento, l’UFT può pubblicare dati degni di particolare protezione se essi consentono di trarre conclusioni sul rispetto delle prescrizioni in materia di sicurezza da parte dell’impresa. Può in particolare pubblicare informazioni concernenti:
+
+- a. oneri e restrizioni dell’esercizio;
+- b. violazioni delle disposizioni concernenti la protezione del lavoro o le condizioni di lavoro.
+
+<sup>4</sup> Il Consiglio federale disciplina i dettagli, in particolare la forma della pubbli­ca­zione.
+
+#### Art. 36
+
+**Trattamento di dati da parte delle imprese**
+
+<sup>1</sup> Per le loro attività, le imprese sottostanno agli articoli 12–15 della legge federale del 19 giugno 1992[^36-1] sulla protezione dei dati (LPD).
+
+<sup>2</sup> La vigilanza è retta dall’articolo 29 LPD.
+
+[^36-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945)
+
+## Sezione 6: Costi di mantenimento degli enti di difesa
+
+#### Art. 37
+
+<sup>1</sup> Le imprese partecipano ai costi di mantenimento e di fornitura delle prestazioni degli enti di difesa per l’intervento sugli impianti delle imprese stesse.
+
+<sup>2</sup> Concludono con i Cantoni interessati convenzioni sulla fornitura delle prestazioni e sull’assunzione dei costi.
+
+## Sezione 7: Disposizioni penali
+
+#### Art. 38
+
+**Infrazioni contro l’approvazione dei piani**
+
+<sup>1</sup> È punito con una pena detentiva fino a tre anni o con una pena pecuniaria chiunque, intenzionalmente, esegue o fa eseguire un progetto di costruzione senza l’ap­provazione dei piani necessaria secondo l’articolo 9 capoverso 1 o senza osservarla.
+
+<sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria.
+
+#### Art. 39
+
+**Contravvenzioni**
+
+<sup>1</sup>
+
+È punito con la multa chiunque, intenzionalmente o per negligenza, in violazione dell’obbligo di collaborazione secondo l’articolo 33 capoverso 2:
+
+- a. fornisce informazioni false o incomplete all’UFT;
+- b. si rifiuta di presentare tutta la documentazione all’UFT;
+- c. si rifiuta di concedere all’UFT libero accesso a tutte le parti degli impianti e ai veicoli.
+
+<sup>2</sup> Il Consiglio federale può dichiarare punibili le violazioni delle disposizioni d’ese­cuzione.
+
+#### Art. 40
+
+**Perseguimento penale**
+
+I Cantoni perseguono e giudicano le infrazioni alla presente legge.
+
+## Sezione 8: Disposizioni finali
+
+#### Art. 41
+
+**Esecuzione**
+
+<sup>1</sup> Il Consiglio federale esegue la presente legge.
+
+<sup>2</sup> Emana le disposizioni d’esecuzione. Può emanare in particolare prescrizioni per impedire discriminazioni nell’accesso ai servizi di trasporto.
+
+#### Art. 42
+
+**Coordinamento**
+
+<sup>RS 235.1; FF 2020 6695</sup> All’entrata in vigore della legge federale del 25 settembre 2020 sulla protezione dei dati la disposizione qui appresso ha il seguente tenore:
+
+#### Art. 36
+
+**Trattamento di dati da parte delle imprese**
+
+<sup>1</sup> Per le loro attività, le imprese sottostanno agli articoli 30–32 della legge federale del 25 settembre 2020[^36-2] sulla protezione dei dati (LPD).
+
+<sup>2</sup> La vigilanza è retta dagli articoli 49–53 LPD.
+
+[^36-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945); [FF 2020 6695](https://fedlex.data.admin.ch/eli/fga/2020/1998)
+
+#### Art. 43
+
+**Referendum ed entrata in vigore**
+
+<sup>1</sup> La presente legge sottostà a referendum facoltativo.
+
+<sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
+
+Referendum ed entrata in vigore
+
+<table>
+<tr><td>Consiglio degli Stati, 17 dicembre 2021 Il presidente: Thomas Hefti La segretaria: Martina Buol</td><td>Consiglio nazionale, 17 dicembre 2021 La presidente: Irène Kälin Il segretario: Pierre-Hervé Freléchoz</td></tr>
+</table>
+
+<sup>1</sup> Il termine di referendum per la presente legge è decorso infruttuosamente il 7 aprile 2022.[^43-1]
+
+<sup>2</sup> La presente legge entra in vigore il 1° agosto 2022.
+
+<table>
+<tr><td>22 giugno 2022</td><td>In nome del Consiglio federale svizzero: Il presidente della Confederazione, Ignazio Cassis Il cancelliere della Confederazione,Walter Thurnherr</td></tr>
+</table>
+
+[^43-1]: [FF 2021 3004](https://fedlex.data.admin.ch/eli/fga/2021/3004)
