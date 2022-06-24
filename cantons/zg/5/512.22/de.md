@@ -4,13 +4,12 @@ number: "512.22"
 title: Verordnung über die Festlegung des Wohnsitzrayons für Mitarbeitende der Polizei
 short: Rayon-Verordnung
 language: de
-version: 2008-01-01
-valid_until: 2022-06-24
-version_adopted: 2007-12-18
+version: 2022-06-25
+version_adopted: 2022-06-21
 adopted: 2007-12-18
 in_force: 2008-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/512.22"
-pdf: "https://bgs.zg.ch/api/de/versions/724/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2348/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/724/pdf_file"
 
 (Rayon-Verordnung)
 
-Vom 18. Dezember 2007 (Stand 1. Januar 2008)
+Vom 18. Dezember 2007 (Stand 25. Juni 2022)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -34,19 +33,19 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Diese Verordnung bestimmt den Rayonmittelpunkt und den Rayon für Mitarbeitende der Polizei.
+<sup>1</sup> Diese Verordnung bestimmt den Rayon für Mitarbeitende der Polizei.
 
 #### § 2
 
-**Rayonmittelpunkt**
-
-<sup>1</sup> Rayonmittelpunkt ist das Polizeihauptgebäude der Polizei in Zug.
+**…**
 
 #### § 3
 
 **Rayon**
 
-<sup>1</sup> Der Rayon bildet jenes Gebiet, von dem aus der Rayonmittelpunkt innert 33 Minuten gemäss Standardsoftwareprogramm der Polizei für die Verkehrsroutenplanung erreicht wird.
+<sup>1</sup> Der Rayon umfasst die in der Liste aufgeführten politischen Gemeinden gemäss Anhang zu dieser Verordnung[^3-1].
+
+[^3-1]: BGS [512.22-A1](https://bgs.zg.ch/data/512.22-A1/de)
 
 #### § 4
 
