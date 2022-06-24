@@ -3,11 +3,11 @@ sr: "0.631.252.512"
 title: Convention douanière du 14 novembre 1975 relative au transport international de marchandises sous le couvert de carnets TIR (Convention TIR) (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281"
 language: fr
-version: 2022-02-04
+version: 2022-06-25
 adopted: 1975-11-14
 in_force: 1978-08-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20220204-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20220625-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -28,7 +28,7 @@ Instrument de ratification déposé par la Suisse le 3 février 1978
 
 Entrée en vigueur pour la Suisse le 3 août 1978
 
-(Etat le 4 février 2022)
+(Etat le 25 juin 2022)
 
 [^t-1]: [RO 1978 1280](https://fedlex.data.admin.ch/eli/oc/1978/1280_1280_1280)
 
@@ -66,7 +66,7 @@ Aux fins de la présente Convention, on entend
   - ii) ayant un caractère permanent et étant, de ce fait, suffisamment résistant pour permettre son usage répété;
   - iii) spécialement conçu pour faciliter le transport de marchandises, sans rupture de charge, par un ou plusieurs modes de transport;
   - iv) conçu de manière à être aisément manipulé, notamment lors de son transbordement d’un mode de transport à un autre;
-  - v) conçu de façon à être facile à remplir et à vider; et
+  - v) conçu de façon à être facile à remplir et à vider, et
   - vi) d’un volume intérieur d’au moins un mètre cube;
 
 - Les «carrosseries amovibles» sont assimilées aux conteneurs;
@@ -119,8 +119,8 @@ Afin d’appliquer les dispositions de la présente Convention:
 
   les transports doivent être effectués:
 
-  - i) par des véhicules routiers, des ensembles de véhicules ou des conteneurs préalablement agréés dans les conditions énoncées au chap. III a); ou
-  - ii) par d’autres véhicules routiers, d’autres ensembles de véhicules ou d’autres conteneurs s’ils se font conformément aux conditions énoncées au chap. III c); ou
+  - i) par des véhicules routiers, des ensembles de véhicules ou des conteneurs préalablement agréés dans les conditions énoncées au chap. III a), ou
+  - ii) par d’autres véhicules routiers, d’autres ensembles de véhicules ou d’autres conteneurs s’ils se font conformément aux conditions énoncées au chap. III c), ou
   - iii) par des véhicules routiers ou des véhicules spéciaux tels que autocars, grues, balayeuses, bétonnières, etc., exportés et donc eux-mêmes assimilés à des marchandises se déplaçant par leurs propres moyens d’un bureau de douane de départ à un bureau de douane de destination, dans les conditions énoncées au chap. III c). Lorsque ces véhicules transportent d’autres marchandises, les conditions visées aux al. i) ou ii) ci‑dessus s’appliquent en conséquence;
 
 - b)[^3-2] Les transports doivent avoir lieu sous la garantie d’associations agréées conformément aux dispositions de l’art. 6 et doivent être effectués sous le couvert d’un carnet TIR conforme au modèle reproduit à l’annexe 1 de la présente Convention, ou au moyen de la procédure eTIR.
@@ -280,9 +280,13 @@ Lorsqu’un transport TIR sera effectué par un véhicule routier ou par un ense
 
 [^18-1]
 
-Un transport TIR pourra comporter plusieurs bureaux de douane de départ et de destination, mais le nombre total des bureaux de douane de départ et de destination ne pourra dépasser quatre. Le carnet TIR ne pourra être présenté aux bureaux de douane de destination que si tous les bureaux de douane de départ l’ont pris en charge.
+<sup>1.</sup> Un transport TIR pourra comporter plusieurs bureaux de douane de départ et de destination, mais le nombre total des bureaux de douane de départ et de destination ne pourra dépasser huit[^18-2]. Le carnet TIR ne pourra être présenté aux bureaux de douane de destination que si tous les bureaux de douane de départ l’ont pris en charge.
+
+<sup>2.</sup> Les autorités douanières peuvent limiter le nombre maximal de bureaux de douane de départ (ou de destination) sur leur territoire à moins de sept, mais pas moins de trois.[^18-3]
 
 [^18-1]: Nouvelle teneur selon la mod. approuvée par le CF le 20 juin 1988, en vigueur depuis le 1<sup>er</sup> août 1988 ([RO 1988 1304](https://fedlex.data.admin.ch/eli/oc/1988/1304_1304_1304)).
+[^18-2]: Nouveau terme selon la mod. du 11 fév. 2021, en vigueur pour la Suisse depuis le 25 juin 2022 ([RO 2022 244](https://fedlex.data.admin.ch/eli/oc/2022/244)).
+[^18-3]: Introduit par la mod. du 11 fév. 2021, en vigueur pour la Suisse depuis le 25 juin 2022 ([RO 2022 244](https://fedlex.data.admin.ch/eli/oc/2022/244)).
 
 #### Art. 19
 
@@ -453,7 +457,7 @@ Les notes explicatives figurant aux annexes 6, 7, troisième partie et 11, deuxi
 
 Chaque Partie contractante octroiera des facilités aux associations garantes intéressées en ce qui concerne:
 
-- a) le transfert des devises nécessaires au règlement des sommes réclamées par les autorités des Parties contractantes en vertu des dispositions reprises à l’art. 8 de la présente Convention; et
+- a) le transfert des devises nécessaires au règlement des sommes réclamées par les autorités des Parties contractantes en vertu des dispositions reprises à l’art. 8 de la présente Convention, et
 - b) le transfert des devises nécessaires au paiement des formules de carnet TIR envoyées aux associations garantes par les associations étrangères correspondantes ou par les organisations internationales.
 
 #### Art. 45
@@ -499,7 +503,7 @@ Les annexes à la présente Convention font partie intégrante de la Convention.
 Tous les États Membres de l’Organisation des Nations Unies ou membres de l’une de ses institutions spécialisées ou de l’Agence internationale de l’énergie atomique, Parties au statut de la Cour internationale de Justice, et tout autre État invité par l’Assemblée générale de l’Organisation des Nations Unies, peuvent devenir Parties contractantes à la présente Convention:
 
 - a) en la signant, sans réserve de ratification, d’acceptation ou d’approbation;
-- b) en déposant un instrument de ratification, d’acceptation ou d’approbation après l’avoir signée sous réserve de ratification, d’acceptation ou d’approbation; ou
+- b) en déposant un instrument de ratification, d’acceptation ou d’approbation après l’avoir signée sous réserve de ratification, d’acceptation ou d’approbation, ou
 - c) en déposant un instrument d’adhésion.
 
 <sup>2.</sup> La présente Convention sera ouverte du 1<sup>er</sup> janvier 1976 jusqu’au 31 décembre 1976 inclus, à l’Office des Nations Unies à Genève, à la signature des États visés au paragraphe 1 du présent article. Après cette date, elle sera ouverte à leur adhésion.
@@ -678,18 +682,16 @@ Outre les notifications et communications prévues aux art. 61 et 62, le Secrét
 
 Après le 31 décembre 1976, l’original de la présente Convention sera déposée auprès du Secrétaire général de l’Organisation des Nations Unies, qui en transmettra des copies certifiées conformes à chacune des Parties contractantes et à chacun des États visés au paragraphe 1 de l’art. 52, qui ne sont pas Parties contractantes.
 
-*En foi de quoi,* les soussignés, à ce dûment autorisés, ont signé la présente Convention. Fait à Genève, le quatorze novembre mil neuf cent soixante‑quinze en un seul exemplaire, en langues anglaise, française et russe, les trois textes faisant également foi.
-
-(Suivent les signatures)
+*En foi de quoi,* les soussignés, à ce dûment autorisés, ont signé la présente Convention. Fait à Genève, le quatorze novembre mil neuf cent soixante‑quinze en un seul exemplaire, en langues anglaise, française et russe, les trois textes faisant également foi. (Suivent les signatures)
 
 Annexe 1*[^t-2]*
 
 ## Modèle du carnet TIR****
 
-[^annexu1-lvlu1-1]
+[^annex1-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon la mod. approuvée par le CF le 16 juin 1986 ([RO 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)). Mise à jour selon les mod. approuvées par le CF le 20 juin 1988 ([RO 1988 1304](https://fedlex.data.admin.ch/eli/oc/1988/1304_1304_1304)), le 29 juin 1994 ([RO 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), le 12 mai 1995 ([RO 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)), le 8 mars 2002 ([RO 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)), le 21 déc. 2005 ([RO 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)) et la mod. approuvée par le DFF le 30 sept. 2014, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)).
-[^annexu1-lvlu1-1]: Non publié au RS. Pour sa teneur, voir les publications du RO mentionnées à la note ci‑dessus. Le modèle peut être obtenu auprès de la Direction générale des douanes, Section Franchises douanières et transits, 3003 Berne.
+[^t-2]: Nouvelle teneur selon la mod. approuvée par le CF le 16 juin 1986 ([RO 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)). Mise à jour par les mod. approuvées par le CF le 20 juin 1988 ([RO 1988 1304](https://fedlex.data.admin.ch/eli/oc/1988/1304_1304_1304)), le 29 juin 1994 ([RO 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), le 12 mai 1995 ([RO 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)), le 8 mars 2002 ([RO 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)), le 21 déc. 2005 ([RO 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)), la mod. approuvée par le DFF le 30 sept. 2014 ([RO 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)) et la mod. du 11 fév. 2021, en vigueur pour la Suisse depuis le 25 juin 2022 ([RO 2022 244](https://fedlex.data.admin.ch/eli/oc/2022/244)).
+[^annex1-lvlu1-1]: Non publié au RS. Pour sa teneur, voir les publications du RO mentionnées à la note ci‑dessus. Le modèle peut être obtenu auprès de la Direction générale des douanes, Section Franchises douanières et transits, 3003 Berne.
 
 ### Version 1
 
@@ -705,7 +707,7 @@ Annexe 2*[^t-3]*
 
 ## Règlement sur les conditions techniques applicables aux véhicules routiers pouvant être admis au transport international sous scellement douanier
 
-[^t-3]: Mise à jour selon les mod. en vigueur depuis 1<sup>er</sup> août 1979 ([RO 1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258)), approuvées par le CF le 16 juin 1986 ([RO 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)), le 23 mai 1990 ([RO 1990 1160](https://fedlex.data.admin.ch/eli/oc/1990/1160_1160_1160)), le 1<sup>er</sup> juil. 1992 ([RO 1992 1408](https://fedlex.data.admin.ch/eli/oc/1992/1408_1408_1408)), le 29 juin 1994 ([RO 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), le 2 mai 2001 ([RO 2002 2646](https://fedlex.data.admin.ch/eli/oc/2002/362)), le 14 sept. 2005 ([RO 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)) et approuvée par le DFF le 1<sup>er</sup> nov. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)).
+[^t-3]: Mise à jour par les mod. en vigueur depuis 1<sup>er</sup> août 1979 ([RO 1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258)), approuvées par le CF le 16 juin 1986 ([RO 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)), le 23 mai 1990 ([RO 1990 1160](https://fedlex.data.admin.ch/eli/oc/1990/1160_1160_1160)), le 1<sup>er</sup> juil. 1992 ([RO 1992 1408](https://fedlex.data.admin.ch/eli/oc/1992/1408_1408_1408)), le 29 juin 1994 ([RO 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), le 2 mai 2001 ([RO 2002 2646](https://fedlex.data.admin.ch/eli/oc/2002/362)), le 14 sept. 2005 ([RO 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)) et approuvée par le DFF le 1<sup>er</sup> nov. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)).
 
 #### Art. 1
 
@@ -734,7 +736,7 @@ Pour répondre aux prescriptions de l’article 1 du présent Règlement:
 
 Nonobstant les dispositions de l’art. 1, al. c) du présent Règlement, les éléments constitutifs du compartiment réservé au chargement qui, pour des raisons pratiques, doivent comporter des espaces vides (par exemple, entre les cloisons d’une paroi double), seront admis. Afin que ces espaces ne puissent être utilisés pour y dissimuler des marchandises:
 
-- i) si le revêtement intérieur du compartiment recouvre la paroi sur toute sa hauteur du plancher au toit ou, dans d’autres cas, si l’espace existant entre ce revêtement et la paroi extérieure est entièrement clos, ledit revêtement devra être posé de telle sorte qu’il ne puisse pas être démonté et remis en place sans laisser de traces visibles; et
+- i) si le revêtement intérieur du compartiment recouvre la paroi sur toute sa hauteur du plancher au toit ou, dans d’autres cas, si l’espace existant entre ce revêtement et la paroi extérieure est entièrement clos, ledit revêtement devra être posé de telle sorte qu’il ne puisse pas être démonté et remis en place sans laisser de traces visibles, et
 - ii) si le revêtement ne recouvre pas la paroi sur toute sa hauteur et si les espaces qui le séparent de la paroi extérieure ne sont pas entièrement clos, et dans tous les autres cas où la construction engendre les espaces, le nombre desdits espaces devra être réduit au minimum et ces espaces devront être aisément accessibles pour les visites douanières.
 
 <sup>3.</sup> Les lucarnes seront autorisées à condition qu’elles soient faites de matériaux suffisamment résistants et qu’elles ne puissent être enlevées et remises en place de l’extérieur sans laisser de traces visibles. Toutefois le verre pourra être admis, mais si l’on utilise un verre autre que du verre de sécurité, les lucarnes seront pourvues d’un grillage métallique fixe ne pouvant être enlevé de l’extérieur; la dimension des mailles du grillage ne dépassera pas 10 mm.
@@ -764,7 +766,7 @@ Les systèmes suivants pourront être utilisés:
   La bâche pourra être attachée par:
 
   - i) des anneaux métalliques fixés sur le véhicule;
-  - ii) des œillets introduits dans le bord de la bâche; et
+  - ii) des œillets introduits dans le bord de la bâche, et
   - iii) un lien de fermeture passant dans les anneaux par‑dessus la bâche et restant visible à l’extérieur sur toute sa longueur.
 
 - La bâche recouvrira les éléments solides du véhicule sur une distance d’au moins 250 mm, mesurée à partir du centre des anneaux de fixation, sauf dans le cas où le système de construction du véhicule empêche par lui‑même tout accès au compartiment réservé au chargement.
@@ -781,9 +783,9 @@ Dans les cas où la bâche doit être fixée à l’armature dans un système de
 
 Seront utilisés comme liens de fermeture:
 
-- a) des câbles d’acier d’un diamètre d’au moins 3 mm; ou
-- b) des cordes de chanvre ou de sisal d’un diamètre d’au moins 8 mm entourées d’une gaine en matière plastique transparente non extensible; ou
-- c) des câbles constitués d’un certain nombre de fibres optiques incorporées dans une gaine en acier torsadé, elle-même entourée d’une gaine en matière plastique transparente non extensible; ou
+- a) des câbles d’acier d’un diamètre d’au moins 3 mm, ou
+- b) des cordes de chanvre ou de sisal d’un diamètre d’au moins 8 mm entourées d’une gaine en matière plastique transparente non extensible, ou
+- c) des câbles constitués d’un certain nombre de fibres optiques incorporées dans une gaine en acier torsadé, elle-même entourée d’une gaine en matière plastique transparente non extensible, ou
 - d) des câbles constitués par une âme en matière textile entourée d’au moins quatre torons constitués uniquement de fils d’acier et recouvrant entièrement l’âme, à condition que le diamètre de ces câbles soit d’au moins 3 mm (sans tenir compte, s’il y en a une, de la gaine transparente).
 
 <sup>10.</sup> Chaque type de câble ou corde devra être d’une seule pièce et devra être muni d’un embout de métal dur à chaque extrémité. Chaque embout métallique devra permettre le passage du lien du scellement douanier. Le dispositif d’attache de chaque embout de câble en métal conforme aux dispositions des al. a), b) ou d) du par. 9 du présent article devra comporter un rivet creux traversant le câble ou la corde et permettant le passage du lien du scellement douanier. Le câble ou la corde devra rester visible de part et d’autre du rivet creux, de façon qu’il soit possible de s’assurer que ce câble ou cette corde est bien d’une seule pièce (voir le croquis n<sup>o</sup> 5 joint au présent Règlement).
@@ -797,7 +799,7 @@ Aux ouvertures servant au chargement et au déchargement pratiquées dans la bâ
   Les deux bords de la bâche se chevaucheront de façon suffisante. En outre, leur fermeture sera assurée par:
 
   - i) un rabat cousu ou soudé conformément aux par. 3 et 4 du présent article;
-  - ii) des anneaux et des œillets satisfaisant aux conditions du par. 8 du présent article; ces anneaux devront être fabriqués en métal; et
+  - ii) des anneaux et des œillets satisfaisant aux conditions du par. 8 du présent article; ces anneaux devront être fabriqués en métal, et
   - iii) une lanière) faite d’une matière appropriée, d’une seule pièce et non extensible, d’au moins 20 mm de largeur et 3 mm d’épaisseur, passant dans les anneaux et retenant ensemble les deux bords de la bâche ainsi que le rabat; cette courroie sera fixée à l’intérieur de la bâche et pourvue;
     - – soit d’un œillet pour recevoir le câble ou la corde visé au par. 9 du présent article,
     - – soit d’un œillet qui puisse être appliqué sur l’anneau métallique visé au par. 6 du présent article et fixé par le câble ou la corde visé au par. 9 du présent article.
@@ -834,9 +836,9 @@ Les bâches coulissantes, plancher, portes et autres éléments constitutifs du 
 
 Bâche faite de plusieurs pièces assemblées par couture
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image2.png)
 
 Lorsqu’il existe un dispositif spécial (chicane, etc.) empêchant d’avoir accès au compartiment réservé au chargement sans laisser de traces visibles, un rabat ne sera pas exigé.
 
@@ -844,37 +846,37 @@ Lorsqu’il existe un dispositif spécial (chicane, etc.) empêchant d’avoir a
 
 Bâche faite de plusieurs pièces assemblées par couture
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image3.png)
 
 *Croquis n**<sup>o</sup>* *2a*
 
 Bâche faite de plusieurs pièces assemblées par couture
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image4.png)
 
 *Croquis n**<sup>o</sup>* *3*
 
 Bâche faite de plusieurs pièces assemblées par soudure
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image5.png)
 
 *Croquis n**<sup>o</sup>* *4*
 
 Raccommodage de la bâche dure
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image6.png)
 
 *Croquis n**<sup>o</sup>* *5*
 
 Spécimen d’embout
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image7.png)
 
 *Croquis n**<sup>o</sup>* *6*
 
 Exemple de système de verrouillage de bâche
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image8.png)
 
 La bâche de toit coulissante doit être conforme aux prescriptions des al. a) à c) ci‑après:
 
@@ -892,7 +894,7 @@ Le présent système de verrouillage de bâche peut être autorisé à condition
 
 Exemple de bâche fixée à une armature spécialement conçue
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image9.png)
 
 ### Description
 
@@ -902,7 +904,7 @@ Cette fixation de la bâche aux véhicules est acceptable à condition que les a
 
 Bâche à ouverture de chargement et de déchargement
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image10.png)
 
 ### Description
 
@@ -912,39 +914,39 @@ Avec ce système de verrouillage, les deux bords des ouvertures de la bâche uti
 
 Modèle de construction d’un véhicule à bâches coulissantes
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image11.png)
 
 *Croquis n**<sup>o</sup>* *9.1*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image12.png)
 
 *Croquis n**<sup>o</sup>* *9.2*
 
 Guidage de la bâche et chevauchement-bas
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image13.png)
 
 *Croquis n**<sup>o</sup>* *9.3*
 
 Chevauchement de la bâche-bas
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image14.png)
 
 *Croquis n**<sup>o</sup>* *9.4*
 
 Pour tendre la bâche coulissante horizontalement, on utilise un enrouleur à cliquet (habituellement à l’arrière du véhicule). Le présent croquis donne deux exemples a) et b) de la manière de verrouiller l’enrouleur à cliquet ou le tendeur à réducteur.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image15.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image16.png)
 
 *Croquis n**<sup>o</sup>* *9.5*
 
 Pour fixer la bâche coulissante de l’autre côté (habituellement à l’avant du véhicule), on peut utiliser les systèmes a) ou b) suivants.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image17.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image18.png)
 
 *Croquis n**<sup>o</sup>* *10*
 
@@ -952,25 +954,25 @@ Exemple de construction d’un véhicule à bâche de toit coulissante
 
 Ce croquis illustre un exemple de véhicule ainsi que les importantes prescriptions décrites à l’art. 5 du présent Règlement.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image19.png)
 
 *Croquis n**<sup>o</sup>* *10.1*
 
 Deux câbles d’acier précontraint, insérés dans l’ourlet des bâches latérales, sont fixés de part et d’autre du compartiment de chargement. Chacun d’eux est fixé à l’avant (voir croquis 10.2) et à l’arrière du compartiment (voir croquis 10.3). La force de traction et le disque de connexion sur chaque chariot de coulissage empêchent de soulever le câble et l’ourlet au-dessus de la longrine supérieure.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image20.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image20.png)
 
 *Croquis n**<sup>o</sup>* *10.2*
 
 La bâche de toit coulissante doit recouvrir la partie pleine du toit à l’avant du compartiment de chargement de telle manière qu’elle ne puisse être tirée par-dessus l’arête supérieure de la longrine supérieure.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image21.png)
 
 *Croquis n**<sup>o</sup>* *10.3*
 
 À l’arrière, un dispositif spécial, par exemple une plaque déflectrice, est monté sur le toit et empêche d’accéder au compartiment de chargement sans laisser de traces visibles une fois les portes fermées et scellées.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image22.png)
 
 - [tab] a) Verrouillage de l’enrouleur à cliquet
 
@@ -1052,9 +1054,9 @@ Annexe 4
 
 ## Modèle du certificat d’agrément d’un véhicule routier****
 
-[^annexu1-lvlu1-2]
+[^annex4-lvlu1-1]
 
-[^annexu1-lvlu1-2]: Ce modèle, publié au [RO 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881), n’est pas reproduit dans le présent recueil. Il peut être obtenu auprès de la Direction générale des douanes, Section Franchises douanières et transits, 3003 Berne.
+[^annex4-lvlu1-1]: Ce modèle, publié au [RO 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881), n’est pas reproduit dans le présent recueil. Il peut être obtenu auprès de la Direction générale des douanes, Section Franchises douanières et transits, 3003 Berne.
 
 Annexe 5
 
@@ -1068,7 +1070,7 @@ Annexe 6*[^t-4]*
 
 ## Notes explicatives
 
-[^t-4]: Mise à jour selon la mod. en vigueur depuis le 1<sup>er</sup> août 1979 ([RO 1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258)), les mod. approuvées par le CF le 2 juin 1980 ([RO 1980 1017](https://fedlex.data.admin.ch/eli/oc/1980/1017_1017_1017)), le 8 juil. 1981 ([RO 1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434)), le 11 août 1982 ([RO 1982 1994](https://fedlex.data.admin.ch/eli/oc/1982/1994_1994_1994)), le 11 avril 1984 ([RO 1984 738](https://fedlex.data.admin.ch/eli/oc/1984/738_738_738)), le 14 août 1985 ([RO 1985 1254](https://fedlex.data.admin.ch/eli/oc/1985/1254_1254_1254)), le 16 juin 1986 ([RO 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)), le 4 nov. 1987 ([RO 1988 216](https://fedlex.data.admin.ch/eli/oc/1988/216_216_216)), le 23 mai 1990 ([RO 1990 1163](https://fedlex.data.admin.ch/eli/oc/1990/1163_1163_1163)), le 18 déc. 1991 ([RO 1992 86](https://fedlex.data.admin.ch/eli/oc/1992/86_86_86)), le 29 juin 1994 ([RO 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), le 12 mai 1995 ([RO 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)), par l’Ass. féd. le 24 sept. 1998 ([RO 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293), par le CF le 8 mars 2002 ([RO 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)), le 26 sept. 2003 ([RO 2004 2421](https://fedlex.data.admin.ch/eli/oc/2004/281)), le 14 sept. 2005 ([RO 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)), la mod. en vigueur depuis le 12 août 2006 ([RO 2007 1345](https://fedlex.data.admin.ch/eli/oc/2007/224)), les mod. approuvées par le DFF le 3 oct. 2008 ([RO 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)), le 1<sup>er</sup> juil. 2009 ([RO 2009 4349](https://fedlex.data.admin.ch/eli/oc/2009/532)), la mod. en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2012 ([RO 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), les mod. des 3 et 4 fév. 2011 ([RO 2012 4567](https://fedlex.data.admin.ch/eli/oc/2012/549)), les mod. approuvées par le DFF le 30 sept. 2014 ([RO 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)), le 1<sup>er</sup> nov. 2016 ([RO 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)), la mod. du 30 mars 2018 ([RO 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)), la mod. du 15 oct. 2020 ([RO 2021 291](https://fedlex.data.admin.ch/eli/oc/2021/291)) et la mod. du 15 oct. 2020, en vigueur pour la Suisse depuis le 4 fév. 2022 ([RO 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)).
+[^t-4]: Mise à jour par la mod. en vigueur depuis le 1<sup>er</sup> août 1979 ([RO 1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258)), les mod. approuvées par le CF le 2 juin 1980 ([RO 1980 1017](https://fedlex.data.admin.ch/eli/oc/1980/1017_1017_1017)), le 8 juil. 1981 ([RO 1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434)), le 11 août 1982 ([RO 1982 1994](https://fedlex.data.admin.ch/eli/oc/1982/1994_1994_1994)), le 11 avril 1984 ([RO 1984 738](https://fedlex.data.admin.ch/eli/oc/1984/738_738_738)), le 14 août 1985 ([RO 1985 1254](https://fedlex.data.admin.ch/eli/oc/1985/1254_1254_1254)), le 16 juin 1986 ([RO 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)), le 4 nov. 1987 ([RO 1988 216](https://fedlex.data.admin.ch/eli/oc/1988/216_216_216)), le 23 mai 1990 ([RO 1990 1163](https://fedlex.data.admin.ch/eli/oc/1990/1163_1163_1163)), le 18 déc. 1991 ([RO 1992 86](https://fedlex.data.admin.ch/eli/oc/1992/86_86_86)), le 29 juin 1994 ([RO 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), le 12 mai 1995 ([RO 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)), par l’Ass. féd. le 24 sept. 1998 ([RO 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293), par le CF le 8 mars 2002 ([RO 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)), le 26 sept. 2003 ([RO 2004 2421](https://fedlex.data.admin.ch/eli/oc/2004/281)), le 14 sept. 2005 ([RO 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)), la mod. en vigueur depuis le 12 août 2006 ([RO 2007 1345](https://fedlex.data.admin.ch/eli/oc/2007/224)), les mod. approuvées par le DFF le 3 oct. 2008 ([RO 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)), le 1<sup>er</sup> juil. 2009 ([RO 2009 4349](https://fedlex.data.admin.ch/eli/oc/2009/532)), la mod. en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2012 ([RO 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), les mod. des 3 et 4 fév. 2011 ([RO 2012 4567](https://fedlex.data.admin.ch/eli/oc/2012/549)), les mod. approuvées par le DFF le 30 sept. 2014 ([RO 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)), le 1<sup>er</sup> nov. 2016 ([RO 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)), la mod. du 30 mars 2018 ([RO 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)), la mod. du 15 oct. 2020 ([RO 2021 291](https://fedlex.data.admin.ch/eli/oc/2021/291)), la mod. du 15 oct. 2020 ([RO 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)) et la mod. du 11 fév. 2021, en vigueur pour la Suisse depuis le 25 juin 2022 ([RO 2022 244](https://fedlex.data.admin.ch/eli/oc/2022/244)).
 
 ### Introduction
 
@@ -1170,6 +1172,7 @@ Annexe 6*[^t-4]*
 - [tab] 0.18.2
 - 1\. Les marchandises doivent être chargées de telle façon que le lot de marchandises destiné à être déchargé au premier lieu de déchargement puisse être retiré du véhicule ou du conteneur sans qu’il soit nécessaire de décharger l’autre lot ou les autres lots de marchandises destinés à être déchargés aux autres lieux de déchargement.
 - 2\. Dans le cas d’un transport comportant déchargement dans plusieurs bureaux, il est nécessaire, dès qu’un déchargement partiel a eu lieu, d’en faire mention sur tous les manifestes restants du carnet TIR dans la case 12 et d’y préciser en même temps sur les volets restants et sur les souches correspondantes que de nouveaux scellements ont été apposés.
+- 0\.18.3 Les Parties contractantes doivent mettre les informations concernant ces limitations à la disposition du public et informer la Commission de contrôle TIR, notamment en utilisant de manière appropriée les applications électroniques mises au point à cette fin par le secrétariat TIR sous la supervision de la Commission de contrôle TIR.
 
 ### 0.19 Art. 19
 
@@ -1235,13 +1238,13 @@ Annexe 6*[^t-4]*
 
     Le dispositif permettant l’apposition du scellement douanier doit:
 
-    - i) être fixé par soudure ou à l’aide d’au moins deux dispositifs d’assemblage conformes à l’al. a) de la note explicative 2.2. 1 a); ou
+    - i) être fixé par soudure ou à l’aide d’au moins deux dispositifs d’assemblage conformes à l’al. a) de la note explicative 2.2. 1 a), ou
     - ii) être conçu de telle manière qu’il ne puisse, une fois le compartiment réservé au chargement fermé et scellé, être enlevé sans laisser de traces visibles.
     - [tab] Il doit aussi:
     - iii) comporter des trous d’au moins 11 mm de diamètre ou des fentes d’au moins 11 mm de long sur 3 mm de large, et
     - iv) présenter une sûreté égale quel que soit le type de scellement utilisé.
 
-  - b) Les charnières, pentures, gonds et autres dispositifs d’attache des portes, etc. devront être fixés conformément aux prescriptions de l’al. a) i) et ii) de la présente note. De plus, les différentes parties constitutives des dispositifs d’attache (axes ou tiges des charnières ou des gonds, par exemple), pour autant qu’elles soient indispensables pour garantir la sécurité douanière du compartiment réservé au chargement, seront agencées de manière à ne pas pouvoir être enlevées ou démontées sans laisser de traces visibles lorsque le compartiment réservé au chargement est fermé et scellé.[^annexu1-lvlu1-lvl2-lvl22-1] Toutefois, lorsque le dispositif d’attache n’est pas accessible de l’extérieur, il suffira que la porte, etc., une fois fermée et scellée, ne puisse être retirée de ce dispositif sans laisser de traces visibles. Lorsque la porte ou le système de fermeture comporte plus de deux gonds, seuls les deux gonds qui sont les plus proches des extrémités de la porte doivent être fixés conformément aux prescriptions de l’al. a) i) et ii) ci‑dessus.
+  - b) Les charnières, pentures, gonds et autres dispositifs d’attache des portes, etc. devront être fixés conformément aux prescriptions de l’al. a) i) et ii) de la présente note. De plus, les différentes parties constitutives des dispositifs d’attache (axes ou tiges des charnières ou des gonds, par exemple), pour autant qu’elles soient indispensables pour garantir la sécurité douanière du compartiment réservé au chargement, seront agencées de manière à ne pas pouvoir être enlevées ou démontées sans laisser de traces visibles lorsque le compartiment réservé au chargement est fermé et scellé.[^annex6-lvlu1-lvl2-lvl22-1] Toutefois, lorsque le dispositif d’attache n’est pas accessible de l’extérieur, il suffira que la porte, etc., une fois fermée et scellée, ne puisse être retirée de ce dispositif sans laisser de traces visibles. Lorsque la porte ou le système de fermeture comporte plus de deux gonds, seuls les deux gonds qui sont les plus proches des extrémités de la porte doivent être fixés conformément aux prescriptions de l’al. a) i) et ii) ci‑dessus.
   - c)
 
     Exceptionnellement, dans le cas des véhicules munis de compartiments calorifugés réservés au chargement, le dispositif de scellement douanier, les charnières et les autres pièces dont l’enlèvement permettrait d’accéder à l’intérieur du compartiment réservé au chargement ou à des espaces dans lesquels des marchandises pourraient être cachées, peuvent être fixés aux portes de ce compartiment réservé au chargement au moyen des systèmes suivants:
@@ -1289,7 +1292,7 @@ Annexe 6*[^t-4]*
 - 2\.2.3 *Par. 3 –* *Verre* *de sécurité*
 - Un verre sera considéré comme verre de sécurité s’il n’y a pas de risque qu’il soit détruit sous l’action de l’un quelconque des facteurs qui interviennent habituellement dans les conditions normales d’utilisation d’un véhicule. Le verre sera muni d’une marque le caractérisant comme verre de sécurité.
 
-[^annexu1-lvlu1-lvl2-lvl22-1]: Voir croquis n<sup>o</sup> 1 a joint à cette annexe.
+[^annex6-lvlu1-lvl2-lvl22-1]: Voir croquis n<sup>o</sup> 1 a joint à cette annexe.
 
 ### 2.3 Art. 3
 
@@ -1320,7 +1323,7 @@ Annexe 6*[^t-4]*
 
   Sur de nombreux véhicules, la bâche est munie à l’extérieur d’un rabat horizontal percé d’œillets s’étendant le long de la paroi latérale du véhicule. Ces rabats, appelés rabats de tension, sont destinés à permettre de tendre la bâche à l’aide de cordes ou de dispositifs semblables. Ces rabats ont été utilisés pour cacher des entailles horizontales pratiquées dans les bâches, qui permettaient d’accéder de manière illicite aux marchandises transportées dans le véhicule. C’est pourquoi il est recommandé de ne pas autoriser l’utilisation de rabats de ce type. Ils peuvent être remplacés par les dispositifs suivants:
 
-  - a) rabats de tension d’un type semblable, fixés à l’intérieur de la bâche; ou
+  - a) rabats de tension d’un type semblable, fixés à l’intérieur de la bâche, ou
   - b) petits rabats individuels percés chacun d’un œillet, fixés sur la face extérieure de la bâche et répartis à des intervalles tels qu’ils permettent de tendre la bâche de manière satisfaisante.
 
 - Une autre solution, possible dans certains cas, consiste à éviter l’utilisation des rabats de tension sur les bâches.
@@ -1367,7 +1370,7 @@ Annexe 6*[^t-4]*
 
 Exemple de charnière et de dispositif de scellement douanier pour les portes de véhicules munis de compartiments de chargements calorifugés
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image23.png)
 
 *Croquis n**<sup>o</sup>* *1a*
 
@@ -1375,19 +1378,19 @@ Exemple de charnière ne nécessitant pas de protection particulière de la tige
 
 La charnière représentée ci‑après est conforme aux exigences énoncées dans la deuxième phrase du par. b) de la note 2.2.1 b). La conception de la lame et du pontet rend superflue toute protection particulière de la tige, étant donné que les becquets de la lame remontent jusque derrière les extrémités du pontet. Ces becquets empêchent ainsi que la porte scellée par la douane puisse être ouverte au niveau du dispositif d’attache sans laisser de traces visibles même si la tige non protégée a été enlevée.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image24.png)
 
 *Croquis n**<sup>o</sup>* *2*
 
 Véhicules bâchés à anneaux coulissants
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image25.png)
 
 *Croquis n**<sup>o</sup>* *2a*
 
 Exemple de pontet‑tourniquet (modèle «D»)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image26.png)
 
 *Croquis n**<sup>o</sup>* *3*
 
@@ -1395,7 +1398,7 @@ Exemple de dispositif de fermeture d’une bâche de véhicule
 
 Le dispositif reproduit ci‑dessous répond aux prescriptions du dernier alinéa du par. 11 a) de l’art. 3 de l’annexe 2. Il répond aussi aux prescriptions du par. 6 de l’art. 3 de l’annexe 2.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image27.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image27.png)
 
 *Croquis n**<sup>o</sup>* *4*
 
@@ -1403,19 +1406,19 @@ Dispositif de fermeture d’une bâche
 
 Le dispositif reproduit ci‑dessous répond aux prescriptions de l’al. a) du par. 6 de l’art. 3 de l’annexe 2.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image28.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image28.png)
 
 *Croquis n**<sup>o</sup>* *5*
 
 Exemple de dispositif de fixation introduit de l’intérieurde la porte isolée
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image29.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image29.png)
 
 Annexe 7*[^t-5]*
 
 ## Annexe relative à l’agrément des conteneurs
 
-[^t-5]: Mise à jour selon les mod. approuvées par le CF le 4 nov. 1987 ([RO 1988 216](https://fedlex.data.admin.ch/eli/oc/1988/216_216_216)), le 23 mai 1990 ([RO 1990 1160](https://fedlex.data.admin.ch/eli/oc/1990/1160_1160_1160)), le 1<sup>er</sup> juil. 1992 ([RO 1992 1408](https://fedlex.data.admin.ch/eli/oc/1992/1408_1408_1408)), le 29 juin 1994 ([RO 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), le 2 mai 2001 ([RO 2002 2646](https://fedlex.data.admin.ch/eli/oc/2002/362)), le 14 sept. 2005 ([RO 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)) et approuvée par le DFF le 1<sup>er</sup> nov. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)).
+[^t-5]: Mise à jour par les mod. approuvées par le CF le 4 nov. 1987 ([RO 1988 216](https://fedlex.data.admin.ch/eli/oc/1988/216_216_216)), le 23 mai 1990 ([RO 1990 1160](https://fedlex.data.admin.ch/eli/oc/1990/1160_1160_1160)), le 1<sup>er</sup> juil. 1992 ([RO 1992 1408](https://fedlex.data.admin.ch/eli/oc/1992/1408_1408_1408)), le 29 juin 1994 ([RO 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), le 2 mai 2001 ([RO 2002 2646](https://fedlex.data.admin.ch/eli/oc/2002/362)), le 14 sept. 2005 ([RO 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)) et approuvée par le DFF le 1<sup>er</sup> nov. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)).
 
 ### Première partie Règlement sur les conditions techniques applicables aux conteneurs pouvant être admis au transport international sous scellement douanier
 
@@ -1497,9 +1500,9 @@ Dans les cas où la bâche doit être fixée à l’armature dans un système de
 
 Seront utilisés comme liens de fermeture:
 
-- a) des câbles d’acier d’un diamètre d’au moins 3 mm; ou
-- b) des cordes de chanvre ou de sisal d’un diamètre d’au moins 8 mm entourées d’une gaine en matière plastique transparente non extensible; ou
-- c) des câbles constitués d’un certain nombre de fibres optiques incorporées dans une gaine en acier torsadé, elle-même entourée d’une gaine en matière plastique transparente non extensible; ou
+- a) des câbles d’acier d’un diamètre d’au moins 3 mm, ou
+- b) des cordes de chanvre ou de sisal d’un diamètre d’au moins 8 mm entourées d’une gaine en matière plastique transparente non extensible, ou
+- c) des câbles constitués d’un certain nombre de fibres optiques incorporées dans une gaine en acier torsadé, elle-même entourée d’une gaine en matière plastique transparente non extensible, ou
 - d) des câbles constitués par une âme en matière textile entourée d’au moins quatre torons constitués uniquement de fils d’acier et recouvrant entièrement l’âme, à condition que le diamètre de ces câbles soit d’au moins 3 mm (sans tenir compte, s’il y en a une, de la gaine transparente).
 
 <sup>10.</sup> Chaque type de câble ou corde devra être d’une seule pièce et devra être muni d’un embout de métal dur à chaque extrémité. Chaque embout métallique devra permettre le passage du lien du scellement douanier. Le dispositif d’attache de chaque embout de câble en métal conforme aux dispositions des al. a), b) ou d) du par. 9 du présent article devra comporter un rivet creux traversant le câble ou la corde et permettant le passage du lien du scellement douanier. Le câble ou la corde devra rester visible de part et d’autre du rivet creux, de façon qu’il soit possible de s’assurer que ce câble ou cette corde est bien d’une seule pièce (voir le croquis n<sup>o</sup> 5 joint au présent Règlement).
@@ -1513,7 +1516,7 @@ Aux ouvertures servant au chargement et au déchargement pratiquées dans la bâ
   Les deux bords de la bâche se chevaucheront de façon suffisante. En outre, leur fermeture sera assurée par:
 
   - i) un rabat cousu ou soudé conformément aux par. 3 et 4 du présent article;
-  - ii) des anneaux et des œillets satisfaisant aux conditions du par. 8 du présent article; ces anneaux devront être fabriqués en métal; et
+  - ii) des anneaux et des œillets satisfaisant aux conditions du par. 8 du présent article; ces anneaux devront être fabriqués en métal, et
   - iii)
 
     une lanière faite d’une matière appropriée, d’une seule pièce et non extensible, d’au moins 20 mm de largeur et 3 mm d’épaisseur, passant dans les anneaux et retenant ensemble les deux bords de la bâche ainsi que le rabat; cette courroie sera fixée à l’intérieur de la bâche et pourvue:
@@ -1557,13 +1560,13 @@ Bâche faite de plusieurs pièces
 
 (Assemblage par couture)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image30.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image30.png)
 
 *Croquis n**<sup>o</sup>* *2*
 
 Bâche faite de plusieurs pièces
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image31.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image31.png)
 
 *Croquis n**<sup>o</sup>* *3*
 
@@ -1571,25 +1574,25 @@ Bâche faite de plusieurs pièces
 
 (Assemblage par soudure)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image32.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image32.png)
 
 *Croquis n**<sup>o</sup>* *4*
 
 Raccommodage de la bâche
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image33.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image33.png)
 
 *Croquis n**<sup>o</sup>* *5*
 
 Spécimen d'embout
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image34.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image34.png)
 
 *Croquis n**<sup>o</sup>* *6*
 
 Exemple de système de verrouillage de bâche
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image8.png)
 
 La bâche de toit coulissante doit être conforme aux prescriptions des al. a) à c) ci‑après:
 
@@ -1609,7 +1612,7 @@ Le présent système de verrouillage de bâche peut être autorisé à condition
 
 Exemple de bâche fixée à une armature spécialement conçue
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image35.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image35.png)
 
 ### Description
 
@@ -1619,7 +1622,7 @@ Cette fixation de la bâche aux véhicules est acceptable à condition que les a
 
 Bâche à ouverture de chargement et de déchargement
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image36.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image36.png)
 
 ### Description
 
@@ -1629,39 +1632,39 @@ Avec ce système de verrouillage, les deux bords des ouvertures de la bâche uti
 
 Modèle de construction d’un véhicule à bâches coulissantes
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image37.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image37.png)
 
 *Croquis n**<sup>o</sup>* *9.1*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image38.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image38.png)
 
 *Croquis n**<sup>o</sup>* *9.2*
 
 Guidage de la bâche et chevauchement-haut
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image39.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image39.png)
 
 *Croquis n**<sup>o</sup>* *9.3*
 
 Chevauchement de de la bâche-bas
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image40.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image40.png)
 
 *Croquis n**<sup>o</sup>* *9.4*
 
 Pour tendre la bâche coulissante horizontalement, on utilise un enrouleur à cliquet (habituellement à l’arrière du conteneur). Le présent croquis donne deux exemples a) et b) de la manière de verrouiller l’enrouleur à cliquet ou le tendeur à réducteur.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image41.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image41.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image42.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image42.png)
 
 *Croquis n**<sup>o</sup>* *9.5*
 
 Pour fixer la bâche coulissante de l’autre côté (habituellement à l’avant du véhicule), on peut utiliser les systèmes a) ou b) suivants.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image43.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image43.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image18.png)
 
 *Croquis n**<sup>o</sup>* *10*
 
@@ -1669,19 +1672,19 @@ Exemple de construction d’un véhicule à bâche de toit coulissante
 
 Ce croquis illustre un exemple de conteneur ainsi que certains points importants décrits à l’art. 6 du présent Règlement.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image19.png)
 
 *Croquis n**<sup>o</sup>* *10.1*
 
 Deux câbles d’acier précontraint, insérés dans l’ourlet des bâches latérales, sont fixés de part et d’autre du conteneur. Chacun d’eux est fixé à l’avant (voir croquis 10.2) et à l’arrière du conteneur (voir croquis 10.3). La force de traction et le disque de connexion sur chaque chariot de coulissage empêchent de soulever le câble et l’ourlet au-dessus de la longrine supérieure.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image44.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image44.png)
 
 *Croquis n**<sup>o</sup>* *10.2*
 
 La bâche de toit coulissante doit recouvrir la partie pleine du toit à l’avant du conteneur de telle manière qu’elle ne puisse être tirée par-dessus l’arête supérieure de la longrine supérieure.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image21.png)
 
 - [tab] a) Verrouillage de l’enrouleur à cliquet
 
@@ -1757,7 +1760,7 @@ Modèle N<sup>o</sup> I
 
 (version anglaise)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image45.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image45.png)
 
 *Appendice 1 de la deuxième partie*
 
@@ -1767,7 +1770,7 @@ Modèle N<sup>o</sup> I
 
 (version française)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image46.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image46.png)
 
 *Appendice 2 de la deuxième partie*
 
@@ -1777,7 +1780,7 @@ Modèle N<sup>o</sup> II
 
 <table>
 <tr><td colspan="16">Certificat d’agrément par type de construction</td></tr>
-<tr><td colspan="3">1.</td><td colspan="10">Numéro du certificat[^annexu1-lvlu1-partu2-lvlu3-1]</td><td colspan="2"></td></tr>
+<tr><td colspan="3">1.</td><td colspan="10">Numéro du certificat[^annex7-lvlu1-partII-lvlu3-1]</td><td colspan="2"></td></tr>
 <tr><td colspan="3">2.</td><td colspan="9">Il est certifié que le type de conteneur décrit ci-après a été agréé et que les conteneurs construits d’après ce type peuvent être admis pour le transport des marchandises sous scellement douanier.</td><td colspan="3"></td></tr>
 <tr><td colspan="3">3.</td><td colspan="11">Genre du conteneur</td><td></td></tr>
 <tr><td colspan="3">4.</td><td colspan="10">Numéro ou lettres d’identification du type de construction</td><td colspan="2"></td></tr>
@@ -1814,7 +1817,7 @@ Modèle N<sup>o</sup> III
 
 <table>
 <tr><td colspan="10">Certificat d’agrément accordé à un stade postérieur à la fabrication</td></tr>
-<tr><td colspan="4">1.</td><td colspan="5">Numéro du certificat[^annexu1-lvlu1-partu2-lvlu3-2]</td></tr>
+<tr><td colspan="4">1.</td><td colspan="5">Numéro du certificat[^annex7-lvlu1-partII-lvlu3-2]</td></tr>
 <tr><td colspan="4">2.</td><td colspan="5">Il est certifié que le(s) conteneur(s) ci-après a (ont) été agréé(s) pour le transport de marchandises sous scellement douanier.</td></tr>
 <tr><td colspan="4">3.</td><td colspan="5">Genre du (des) conteneur(s)</td></tr>
 <tr><td colspan="4">4.</td><td colspan="5">Numéro d’ordre attribué au(x) conteneur(s) par le constructeur</td></tr>
@@ -1840,8 +1843,8 @@ Avis important
 <tr><td></td><td>7.</td><td>Lorsque les caractéristiques essentielles d’un conteneur sont modifiées, ce conteneur ne sera plus couvert par l’agrément accordé et devra être agréé de nouveau par l’autorité compétente avant de pouvoir être utilisé pour le transport de marchandises sous scellement douanier.</td><td></td></tr>
 </table>
 
-[^annexu1-lvlu1-partu2-lvlu3-1]: Indiquer les lettres et les chiffres qui seront apposés sur la plaque d’agrément (voir alinéa b) du paragraphe 5 de la deuxième partie de l’annexe 7 à la Convention douanière relative au transport international de marchandises sous le couvert de carnets TIR, 1975).
-[^annexu1-lvlu1-partu2-lvlu3-2]: Indiquer les lettres et les chiffres qui seront apposés sur la plaque d’agrément (voir alinéa b) du paragraphe 5 de la deuxième partie de l’annexe 7 à la Convention douanière relative au transport international de marchandises sous le couvert de carnets TIR, 1975).
+[^annex7-lvlu1-partII-lvlu3-1]: Indiquer les lettres et les chiffres qui seront apposés sur la plaque d’agrément (voir alinéa b) du paragraphe 5 de la deuxième partie de l’annexe 7 à la Convention douanière relative au transport international de marchandises sous le couvert de carnets TIR, 1975).
+[^annex7-lvlu1-partII-lvlu3-2]: Indiquer les lettres et les chiffres qui seront apposés sur la plaque d’agrément (voir alinéa b) du paragraphe 5 de la deuxième partie de l’annexe 7 à la Convention douanière relative au transport international de marchandises sous le couvert de carnets TIR, 1975).
 
 ### Troisième partie Notes explicatives
 
@@ -1857,13 +1860,13 @@ Dispositif de fixation d’une bâche autour des ferrures de coin
 
 Le dispositif reproduit ci-dessous répond aux prescriptions de l’alinéa a) du paragraphe 6 de l’article 4 de la première partie.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/fr/xml/image/image47.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/fr/xml/image/image47.png)
 
 Annexe 8*[^t-6]*
 
 ## Composition, fonctions et règlement intérieur du comité de gestion et de la Commission de contrôle TIR
 
-[^t-6]: Mise à jour selon la mod. approuvée par le CF le 14 mars 1994 ([RO 1994 1161](https://fedlex.data.admin.ch/eli/oc/1994/1161_1161_1161)), la mod. du 27 juin 1997, approuvée par l’Ass. féd. le 24 sept. 1998 ([RO 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293), la mod. approuvée par le DFF le 3 oct. 2008 ([RO 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)) et la mod. du 30 mars 2018, en vigueur pour la Suisse depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)).
+[^t-6]: Mise à jour par la mod. approuvée par le CF le 14 mars 1994 ([RO 1994 1161](https://fedlex.data.admin.ch/eli/oc/1994/1161_1161_1161)), la mod. du 27 juin 1997, approuvée par l’Ass. féd. le 24 sept. 1998 ([RO 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293), la mod. approuvée par le DFF le 3 oct. 2008 ([RO 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)) et la mod. du 30 mars 2018, en vigueur pour la Suisse depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)).
 
 ### Composition, fonctions et règlement intérieur du Comité de gestion
 
@@ -1965,7 +1968,7 @@ Annexe 9*[^t-7]*
 
 ## Accès au régime TIR
 
-[^t-7]: Introduite par la mod. du 27 juin 1997, approuvée par l’Ass. féd. le 24 sept. 1998, ([RO 2003 663](https://fedlex.data.admin.ch/eli/oc/2003/132)[664](https://fedlex.data.admin.ch/eli/oc/2003/133); FF **1998** 3293). Mise à jour selon la mod. approuvée par le CF le 21 déc. 2005, en vigueur pour la Suisse depuis le 1<sup>er</sup> avril 2006 ([RO 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)), la mod. en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2012 ([RO 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), les mod. approuvées par le DFF le 26 juin 2013 ([RO 2013 2789](https://fedlex.data.admin.ch/eli/oc/2013/574)), le 30 sept. 2014 ([RO 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)), la mod. du 30 mars 2018 ([RO 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)), la mod. du 6 fév. 2020 ([RO 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)) et la mod. du 15 oct. 2020, en vigueur pour la Suisse depuis le 4 fév. 2022 ([RO 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)).
+[^t-7]: Introduite par la mod. du 27 juin 1997, approuvée par l’Ass. féd. le 24 sept. 1998, ([RO 2003 663](https://fedlex.data.admin.ch/eli/oc/2003/132)[664](https://fedlex.data.admin.ch/eli/oc/2003/133); FF **1998** 3293). Mise à jour par la mod. approuvée par le CF le 21 déc. 2005, en vigueur pour la Suisse depuis le 1<sup>er</sup> avril 2006 ([RO 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)), la mod. en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2012 ([RO 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), les mod. approuvées par le DFF le 26 juin 2013 ([RO 2013 2789](https://fedlex.data.admin.ch/eli/oc/2013/574)), le 30 sept. 2014 ([RO 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)), la mod. du 30 mars 2018 ([RO 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)), la mod. du 6 fév. 2020 ([RO 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)) et la mod. du 15 oct. 2020, en vigueur pour la Suisse depuis le 4 fév. 2022 ([RO 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)).
 
 ### Première partie Habilitation des associations à délivrer des carnets TIR et à se porter caution
 
@@ -2031,7 +2034,7 @@ Annexe 9*[^t-7]*
 
 - a) Le numéro d’identification individuel et unique attribué à la personne par l’association garante en coopération avec l’organisation internationale à la-quelle cette association est affiliée conformément au modèle harmonisé tel que défini par le Comité de gestion.
 - b) Le(s) nom(s) et l(es)’adresse(s) de la (des) personne(s) ou de l’entreprise. Pour les associations commerciales, fournir aussi le nom des dirigeants res-ponsables.
-- c) Les coordonnées complètes de la personne à contacter; et
+- c) Les coordonnées complètes de la personne à contacter, et
 - d) Le numéro d’immatriculation commerciale ou de permis de transports interna-tionaux ou un autre (si disponible).
 
 (5) Dès qu’elles en ont connaissance, les associations doivent notifier sans délai aux autorités compétentes et à la Commission de contrôle TIR toute modification des données concernant les personnes habilitées.
@@ -2376,11 +2379,10 @@ Champ d’application le 8 janvier 2019**[^t-10]**
 <tr><td>Union européenne (CE/UE/CEE)\*\*</td><td>20 décembre</td><td>1982</td><td>20 juin</td><td>1983</td></tr>
 <tr><td>Ukraine</td><td>11 octobre</td><td>1994 S</td><td>12 septembre</td><td>1991</td></tr>
 <tr><td>Uruguay</td><td>24 décembre</td><td>1980 A</td><td>24 juin</td><td>1981</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections Les réserves, déclarations et objections, à l’exception des réserves et déclarations de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> La Convention ne s’applique pas à Hong Kong et Macao.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections Les réserves, déclarations et objections, à l’exception des réserves et déclarations de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas à Hong Kong et Macao.</td></tr>
 </table>
 
-[^t-10]: [RO 1978 1281](https://fedlex.data.admin.ch/eli/oc/1978/1281_1281_1281), [1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258), [1980 1716](https://fedlex.data.admin.ch/eli/oc/1980/1716_1716_1716), [1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434), [1982 1445](https://fedlex.data.admin.ch/eli/oc/1982/1445_1445_1445), [1983 246](https://fedlex.data.admin.ch/eli/oc/1983/246_246_246), [1984 570](https://fedlex.data.admin.ch/eli/oc/1984/570_570_570)[875](https://fedlex.data.admin.ch/eli/oc/1984/875_875_875), [1985 867](https://fedlex.data.admin.ch/eli/oc/1985/867_867_867), [1987 1025](https://fedlex.data.admin.ch/eli/oc/1987/1025_1025_1025), [1990 1605](https://fedlex.data.admin.ch/eli/oc/1990/1605_1605_1605), **1994** 1162, [2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133), [2007 595](https://fedlex.data.admin.ch/eli/oc/2007/120), [2013 713](https://fedlex.data.admin.ch/eli/oc/2013/139), [2018 971](https://fedlex.data.admin.ch/eli/oc/2018/140)et **2019** 377. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-10]: [RO 1978 1281](https://fedlex.data.admin.ch/eli/oc/1978/1281_1281_1281); [1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258); [1980 1716](https://fedlex.data.admin.ch/eli/oc/1980/1716_1716_1716); [1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434); [1982 1445](https://fedlex.data.admin.ch/eli/oc/1982/1445_1445_1445); [1983 246](https://fedlex.data.admin.ch/eli/oc/1983/246_246_246); [1984 570](https://fedlex.data.admin.ch/eli/oc/1984/570_570_570), [875](https://fedlex.data.admin.ch/eli/oc/1984/875_875_875); [1985 867](https://fedlex.data.admin.ch/eli/oc/1985/867_867_867); [1987 1025](https://fedlex.data.admin.ch/eli/oc/1987/1025_1025_1025); [1990 1605](https://fedlex.data.admin.ch/eli/oc/1990/1605_1605_1605); **1994** 1162; [2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133); [2007 595](https://fedlex.data.admin.ch/eli/oc/2007/120); [2013 713](https://fedlex.data.admin.ch/eli/oc/2013/139); [2018 971](https://fedlex.data.admin.ch/eli/oc/2018/140)et **2019** 377. Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.
 
 Déclaration
 

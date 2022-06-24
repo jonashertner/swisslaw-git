@@ -3,11 +3,11 @@ sr: "0.631.252.512"
 title: Convenzione doganale del 14 novembre 1975 concernente il trasporto internazionale di merci con libretti TIR (Convenzione TIR) (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281"
 language: it
-version: 2022-02-04
+version: 2022-06-25
 adopted: 1975-11-14
 in_force: 1978-08-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20220204-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20220625-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -22,7 +22,7 @@ Traduzione
 
 Conchiusa a Ginevra il 14 novembre 1975 Approvata dall’Assemblea federale il 27 settembre 1977[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 3 febbraio 1978 Entrata in vigore per la Svizzera il 3 agosto 1978
 
-(Stato 4 febbraio 2022)
+(Stato 25 giugno 2022)
 
 [^t-1]: [RU 1978 1280](https://fedlex.data.admin.ch/eli/oc/1978/1280_1280_1280)
 
@@ -270,9 +270,13 @@ I veicoli stradali o gli autotreni impiegati per effettuare trasporti TIR devono
 
 [^18-1]
 
-Un trasporto TIR può comprendere diversi uffici doganali di partenza e di destinazione, ma il numero totale degli uffici doganali di partenza e di destinazione non dev’essere superiore a quattro. Il libretto TIR può essere presentato agli uffici doganali di destinazione soltanto se è stato approvato da tutti gli uffici doganali di partenza.
+<sup>1.</sup> Un trasporto TIR può comprendere diversi uffici doganali di partenza e di destinazione, ma il numero totale degli uffici doganali di partenza e di destinazione non dev’essere superiore a otto[^18-2]. Il libretto TIR può essere presentato agli uffici doganali di destinazione soltanto se è stato approvato da tutti gli uffici doganali di partenza.
+
+<sup>2.</sup> Le autorità doganali possono limitare il numero massimo di uffici doganali di partenza (o di destinazione) sul loro territorio a meno di sette, ma non meno di tre.[^18-3]
 
 [^18-1]: Nuovo testo giusta la mod. approvata dal CF il 20 giu. 1988, in vigore dal 1° ago. 1988 ([RU 1988 1304](https://fedlex.data.admin.ch/eli/oc/1988/1304_1304_1304)).
+[^18-2]: Nuova termine giusta la mod. dell’11 feb. 2021, in vigore per la Svizzera dal 25 giu. 2022 ([RU 2022 244](https://fedlex.data.admin.ch/eli/oc/2022/244)).
+[^18-3]: Introdotto dalla mod. dell’11 feb. 2021, in vigore per la Svizzera dal 25 giu. 2022 ([RU 2022 244](https://fedlex.data.admin.ch/eli/oc/2022/244)).
 
 #### Art. 19
 
@@ -665,10 +669,10 @@ Allegato 1*[^t-2]*
 
 ## Modello del libretto TIR****
 
-[^annexu1-lvlu1-1]
+[^annex1-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta la mod. approvata dal CF il 16 giu. 1986 ([RU 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)). Aggiornato giusta le mod. approvate dal CF il 20 giu. 1988 ([RU 1988 1304](https://fedlex.data.admin.ch/eli/oc/1988/1304_1304_1304)), il 29 giu. 1994 ([RU 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), il 12 mag. 1995 ([RU 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)), l’8 mar. 2002 ([RU 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)), il 21 dic. 2005 ([RU 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)) e dalla mod. del DFF del 30 set. 2014, in vigore per la Svizzera dal 1° gen. 2015 ([RU 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)).
-[^annexu1-lvlu1-1]: Il modello non è pubblicato nella RS, per lo stato attuale vedi le modifiche qui avanti. Può essere ottenuto presso la Direzione generale delle dogane, Sezione Franchigia doganale e transiti, 3003 Berna.
+[^t-2]: Nuovo testo giusta la mod. approvata dal CF il 16 giu. 1986 ([RU 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)). Aggiornato dalle mod. approvate dal CF il 20 giu. 1988 ([RU 1988 1304](https://fedlex.data.admin.ch/eli/oc/1988/1304_1304_1304)), il 29 giu. 1994 ([RU 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), il 12 mag. 1995 ([RU 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)), l’8 mar. 2002 ([RU 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)), il 21 dic. 2005 ([RU 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)), dalla mod. del DFF del 30 set. 2014, in vigore per la Svizzera dal 1° gen. 2015 ([RU 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)) e dalla mod. dell’11 feb. 2021, in vigore per la Svizzera dal 25 giu. 2022 ([RU 2022 244](https://fedlex.data.admin.ch/eli/oc/2022/244)).
+[^annex1-lvlu1-1]: Il modello non è pubblicato nella RS, per lo stato attuale vedi le modifiche qui avanti. Può essere ottenuto presso la Direzione generale delle dogane, Sezione Franchigia doganale e transiti, 3003 Berna.
 
 ### Versione 1
 
@@ -816,43 +820,43 @@ Illustrazione n. 1
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image1.png)
 
 Illustrazione n. 2
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image2.png)
 
 Illustrazione n. 2a)
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image3.png)
 
 Illustrazione n. 3
 
 Copertone costituito da diversi pezzi connessi mediante saldatura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image4.png)
 
 Illustrazione n. 4
 
 Raccomodatura del copertone
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image5.png)
 
 Illustrazione n. 5
 
 Modello di una ghiera
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image6.png)
 
 Illustrazione n. 6
 
 Esempio di un dispositivo di chiusura a catenaccio per copertoni
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image7.png)
 
 Il tetto scorrevole telonato è conforme ai requisiti di cui alle lettere a–c seguenti:
 
@@ -868,7 +872,7 @@ Illustrazione n. 7
 
 Esempio di copertone fissato ad un’armatura specialmente concepita
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image8.png)
 
 ### Descrizione
 
@@ -878,7 +882,7 @@ Illustrazione n. 8
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image9.png)
 
 ### Descrizione
 
@@ -888,19 +892,19 @@ Illustrazione n. 9
 
 Esempio della struttura di un veicolo dotato di copertoni scorrevoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image10.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image11.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image12.png)
 
 Illustrazione n. 10
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image13.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image14.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image15.png)
 
 Allegato 3
 
@@ -975,9 +979,9 @@ Allegato 4
 
 ## Modello del certificato d’ammissione d’un veicolo stradale****
 
-[^annexu1-lvlu1-2]
+[^annex4-lvlu1-1]
 
-[^annexu1-lvlu1-2]: Il modello non è pubblicato nella RS, vedi [RU 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881). Può essere ottenuto presso la Direzione generale delle dogane, Sezione Franchigia doganale e transiti, 3003 Berna.
+[^annex4-lvlu1-1]: Il modello non è pubblicato nella RS, vedi [RU 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881). Può essere ottenuto presso la Direzione generale delle dogane, Sezione Franchigia doganale e transiti, 3003 Berna.
 
 Allegato 5
 
@@ -991,7 +995,7 @@ Allegato 6*[^t-4]*
 
 ## Note esplicative
 
-[^t-4]: Aggiornato dalle mod. approvate dal CF il 1° ago. 1979 ([RU 1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258)), il 2 giu. 1980 ([RU 1980 1017](https://fedlex.data.admin.ch/eli/oc/1980/1017_1017_1017)), l’8 lug. 1981 ([RU 1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434)), l’11 ago. 1982 ([RU 1982 1994](https://fedlex.data.admin.ch/eli/oc/1982/1994_1994_1994)), l’11 apr. 1984 ([RU 1984 738](https://fedlex.data.admin.ch/eli/oc/1984/738_738_738)), il 14 ago. 1985 ([RU 1985 1254](https://fedlex.data.admin.ch/eli/oc/1985/1254_1254_1254)), il 16 giu. 1986 ([RU 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)), il 4 nov. 1987 ([RU 1988 216](https://fedlex.data.admin.ch/eli/oc/1988/216_216_216)), il 23 mag. 1990 ([RU 1990 1163](https://fedlex.data.admin.ch/eli/oc/1990/1163_1163_1163)), il 18 dic. 1991 ([RU 1992 86](https://fedlex.data.admin.ch/eli/oc/1992/86_86_86)), il 29 giu. 1994 ([RU 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), il 12 mag. 1995 ([RU 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)), dall’AF il 24 set. 1998 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293), dal CF l’8 mar. 2002 ([RU 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)), il 26 set. 2003 ([RU 2004 2421](https://fedlex.data.admin.ch/eli/oc/2004/281)), il 14 set. 2005 ([RU 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)), dalla mod. in vigore dal 12 ago. 2006 ([RU 2007 1345](https://fedlex.data.admin.ch/eli/oc/2007/224)), dalle mod. approvate dal DFF il 3 ott. 2008 ([RU 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)), il 1° lug. 2009 ([RU 2009 4349](https://fedlex.data.admin.ch/eli/oc/2009/532)), dalla mod. in vigore per la Svizzera dal 1° gen. 2012 ([RU 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), dalle mod. dei 3 e 4 feb. 2011 ([RU 2012 4567](https://fedlex.data.admin.ch/eli/oc/2012/549)), del 30 set. 2014 ([RU 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)), dalla mod. approvata dal DFF il 1° nov. 2016 ([RU 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)), dalla mod. del 30 mar. 2018 ([RU 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)), del 15 ott. 2020 ([RU 2021 291](https://fedlex.data.admin.ch/eli/oc/2021/291)) e del 15 ott. 2020, in vigore per la Svizzera dal 4 feb. 2022 ([RU 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)).
+[^t-4]: Aggiornato dalle mod. approvate dal CF il 1° ago. 1979 ([RU 1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258)), il 2 giu. 1980 ([RU 1980 1017](https://fedlex.data.admin.ch/eli/oc/1980/1017_1017_1017)), l’8 lug. 1981 ([RU 1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434)), l’11 ago. 1982 ([RU 1982 1994](https://fedlex.data.admin.ch/eli/oc/1982/1994_1994_1994)), l’11 apr. 1984 ([RU 1984 738](https://fedlex.data.admin.ch/eli/oc/1984/738_738_738)), il 14 ago. 1985 ([RU 1985 1254](https://fedlex.data.admin.ch/eli/oc/1985/1254_1254_1254)), il 16 giu. 1986 ([RU 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)), il 4 nov. 1987 ([RU 1988 216](https://fedlex.data.admin.ch/eli/oc/1988/216_216_216)), il 23 mag. 1990 ([RU 1990 1163](https://fedlex.data.admin.ch/eli/oc/1990/1163_1163_1163)), il 18 dic. 1991 ([RU 1992 86](https://fedlex.data.admin.ch/eli/oc/1992/86_86_86)), il 29 giu. 1994 ([RU 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), il 12 mag. 1995 ([RU 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)), dall’AF il 24 set. 1998 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293), dal CF l’8 mar. 2002 ([RU 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)), il 26 set. 2003 ([RU 2004 2421](https://fedlex.data.admin.ch/eli/oc/2004/281)), il 14 set. 2005 ([RU 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)), dalla mod. in vigore dal 12 ago. 2006 ([RU 2007 1345](https://fedlex.data.admin.ch/eli/oc/2007/224)), dalle mod. approvate dal DFF il 3 ott. 2008 ([RU 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)), il 1° lug. 2009 ([RU 2009 4349](https://fedlex.data.admin.ch/eli/oc/2009/532)), dalla mod. in vigore per la Svizzera dal 1° gen. 2012 ([RU 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), dalle mod. dei 3 e 4 feb. 2011 ([RU 2012 4567](https://fedlex.data.admin.ch/eli/oc/2012/549)), del 30 set. 2014 ([RU 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)), dalla mod. approvata dal DFF il 1° nov. 2016 ([RU 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)), dalla mod. del 30 mar. 2018 ([RU 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)), del 15 ott. 2020 ([RU 2021 291](https://fedlex.data.admin.ch/eli/oc/2021/291)), del 15 ott. 2020 ([RU 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)) e dalla mod. dell’11 feb. 2021, in vigore per la Svizzera dal 25 giu. 2022 ([RU 2022 244](https://fedlex.data.admin.ch/eli/oc/2022/244)).
 
 ### Introduzione
 
@@ -1108,6 +1112,10 @@ La rinuncia al documento doganale d’importazione temporanea può far sorgere c
 \1. Le merci devono essere caricate in modo che la partita di merci destinata ad essere scaricata al primo luogo di scarico possa essere ritirata dal veicolo o dal contenitore senza dover scaricare l’altra partita o le altre partite di merci destinate ad essere scaricate negli altri luoghi di scarico.
 
 \2. Trattandosi di un trasporto comprendente lo scarico presso più uffici, è necessario, non appena sia stato effettuato uno scarico parziale, apporre un’adeguata annotazione nella casella 12 di tutti i rimanenti manifesti del libretto TIR, specificando nel tempo stesso nei tagliandi rimanenti e nelle matrici corrispondenti che sono state applicate nuove chiusure.
+
+0.18.3
+
+Le Parti contraenti devono mettere le informazioni concernenti tali limitazioni a disposizione del pubblico e informare la Commissione di controllo TIR, segnatamente utilizzando in maniera appropriata le applicazioni elettroniche sviluppate a tal fine dal Segretariato TIR con la supervisione della Commissione di controllo TIR.
 
 ### 0.19 Articolo 19
 
@@ -1331,7 +1339,7 @@ Illustrazione n. 1
 
 Esempio di cerniera e di dispositivo di chiusura doganale per le parte di veicoli provvisti di compartimenti di carico calorifughi
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image16.png)
 
 Illustrazione n. 1a
 
@@ -1339,19 +1347,19 @@ Esempio di una cerniera che non ha bisogno di una protezione particolare del per
 
 La cerniera qui riprodotta è conforme alle prescrizioni della seconda frase del paragrafo b) della nota 2.2.1 b). La struttura della piastra e del ponticello rende superflua ogni particolare protezione del perno, dato che i becchetti della piastra risalgono fin dietro le estremità del ponticello. Questi becchetti impediscono che la porta provvista di chiusura doganale possa essere aperta al livello del dispositivo d’arresto senza lasciare tracce visibili anche se il perno non protetto è stato smontato.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image17.png)
 
 Illustrazione n. 2
 
 Veicolo provvisti di copertoni ad anelli scorrevoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image18.png)
 
 Illustrazione n. 2a
 
 Esempio di anello di fissazione girevole (modello «D»)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image19.png)
 
 Illustrazione n. 3
 
@@ -1359,7 +1367,7 @@ Esempio di dispositivo di fissazione d’un copertone di veicolo
 
 Il dispositivo riprodotto qui appresso corrisponde alle prescrizioni dell’ultimo capoverso del paragrafo 11a) dell’articolo 3 dell’allegato 2. Esso è pure conforme alle prescrizioni del paragrafo 6 dell’articolo 3 dell’allegato 2.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image20.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image20.png)
 
 Illustrazione n. 4
 
@@ -1367,13 +1375,13 @@ Dispositivo di fissazione d’un copertone
 
 Il dispositivo illustrato qui appresso è conforme alle prescrizioni della lettera a) del paragrafo 6 dell’articolo 3 dell’allegato 2.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image21.png)
 
 Illustrazione 5
 
 Esempio di dispositivo di fissazione introdotto dall’interno della porta isolata
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image22.png)
 
 Allegato 7*[^t-5]*
 
@@ -1519,13 +1527,13 @@ Parte I – Illustrazione n. 1
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image23.png)
 
 Parte I – Illustrazione n. 2
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image24.png)
 
 *Nota*: Le cuciture d’angolo effettuate secondo il metodo esposto nell’illustrazione n. 2a dell’allegato 2 alla presente Convenzione sono pure ammesse.
 
@@ -1533,25 +1541,25 @@ Parte I – Illustrazione n. 3
 
 Copertone costituito da diversi pezzi connessi mediante saldatura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image25.png)
 
 Parte I – Illustrazione n. 4
 
 Raccomodatura del copertone
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image26.png)
 
 Parte I – Illustrazione n. 5
 
 Modello di una ghiera
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image27.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image27.png)
 
 Illustrazione n. 6
 
 Esempio di un dispositivo di chiusura a catenaccio per copertoni
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image28.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image28.png)
 
 Il tetto scorrevole telonato deve essere conforme ai requisiti di cui alle lettera a)–c) seguenti:
 
@@ -1567,7 +1575,7 @@ Illustrazione n. 7
 
 Esempio di copertone fissato ad un’armatura specialmente concepita
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image29.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image29.png)
 
 ### Descrizione
 
@@ -1577,7 +1585,7 @@ Illustrazione n. 8
 
 Copertone con l’apertura per il caricamento e lo scaricamento
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image30.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image30.png)
 
 ### Descrizione
 
@@ -1587,17 +1595,17 @@ Illustrazione n. 9
 
 Esempio della struttura di un contenitore dotato di copertoni scorrevoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image10.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image31.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image31.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image32.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image32.png)
 
 Illustrazione n. 10
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image33.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image33.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image34.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image34.png)
 
 ### Parte II Procedure per l’ammissione dei contenitori che adempiono le condizioni tecniche della parte I
 
@@ -1665,7 +1673,7 @@ Modello n. I
 
 (testo inglese)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image35.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image35.png)
 
 Appendice 1 della parte II
 
@@ -1675,7 +1683,7 @@ Modello n. I
 
 (testo francese)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image36.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image36.png)
 
 Appendice 2 della parte II
 
@@ -1685,7 +1693,7 @@ Modello n. II
 
 <table>
 <tr><td colspan="11">Certificato d’ammissione secondo il tipo di costruzione</td></tr>
-<tr><td colspan="4">1.</td><td colspan="6">Numero del certificato[^annexu1-lvlu1-partII-1]</td></tr>
+<tr><td colspan="4">1.</td><td colspan="6">Numero del certificato[^annex7-lvlu1-partII-1]</td></tr>
 <tr><td colspan="4">2.</td><td colspan="6">Si attesta che il tipo di contenitore descritto qui appresso è stato ammesso e che i contenitori costruiti secondo detto tipo possono essere ammessi per il trasporto di merci sotto chiusura doganale.</td></tr>
 <tr><td colspan="4">3.</td><td colspan="6">Genere del contenitore</td></tr>
 <tr><td colspan="4">4.</td><td colspan="6">Numero o lettere di riconoscimento del tipo di costruzione</td></tr>
@@ -1722,7 +1730,7 @@ Modello n. III
 
 <table>
 <tr><td colspan="9">Certificato d’ammissione rilasciato ad uno stadio successivo a quello della fabbricazione</td></tr>
-<tr><td colspan="3">1.</td><td colspan="5">Numero del certificato[^annexu1-lvlu1-partII-2]</td></tr>
+<tr><td colspan="3">1.</td><td colspan="5">Numero del certificato[^annex7-lvlu1-partII-2]</td></tr>
 <tr><td colspan="3">2.</td><td colspan="5">Si attesta che il (i) contenitore (i) designato (i) qui appresso è (sono) stato (i) ammesso (i) per il trasporto di merci sotto chiusura doganale.</td></tr>
 <tr><td colspan="3">3.</td><td colspan="5">Genere del (dei) contenitore (i)</td></tr>
 <tr><td colspan="3">4.</td><td colspan="5">Numero progressivo di fabbricazione del (dei) contenitore (i)</td></tr>
@@ -1748,8 +1756,8 @@ Avviso importante
 <tr><td>7.</td><td colspan="3">La modificazione delle caratteristiche essenziali di un contenitore annulla la validità del certificato rilasciato; prima di poterlo utilizzare per il trasporto di merci sotto chiusura doganale, il contenitore dovrà essere nuovamente ammesso dall’autorità competente.</td></tr>
 </table>
 
-[^annexu1-lvlu1-partII-1]: Iscrivere qui le lettere e le cifre che dovranno essere apposte sulla targa d’ammissione (v. lettera b) del para. 5 della Parte II dell’all. 7 alla Convenzione doganale concernente il trasporto internazionale di merci con libretti TIR, 1975).
-[^annexu1-lvlu1-partII-2]: Iscrivere qui le lettere e le cifre che dovranno essere apposte sulla targa d’ammissione (v. lettera b) del par. 5 della Parte II dell’all. 7 alla Convenzione doganale concernente il trasporto internazionale di merci con libretti **TIR**, 1975).
+[^annex7-lvlu1-partII-1]: Iscrivere qui le lettere e le cifre che dovranno essere apposte sulla targa d’ammissione (v. lettera b) del para. 5 della Parte II dell’all. 7 alla Convenzione doganale concernente il trasporto internazionale di merci con libretti TIR, 1975).
+[^annex7-lvlu1-partII-2]: Iscrivere qui le lettere e le cifre che dovranno essere apposte sulla targa d’ammissione (v. lettera b) del par. 5 della Parte II dell’all. 7 alla Convenzione doganale concernente il trasporto internazionale di merci con libretti **TIR**, 1975).
 
 ### Parte III Note esplicative
 
@@ -1765,7 +1773,7 @@ Dispositivo per fissare il copertone attorno ai montanti d’angolo
 
 Il dispositivo illustrato qui appresso è conforme alle prescrizioni delle lettera a) del paragrafo 6 dell’articolo 4 della Parte I
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image37.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220625/it/xml/image/image37.png)
 
 Allegato 8*[^t-6]*
 
