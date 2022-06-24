@@ -3,10 +3,10 @@ canton: ZH
 number: "432.211"
 title: Statuten der Zentralbibliothek Zürich
 language: de
-nachtrag: "82"
-valid_until: 2022-06-24
+version: "2022-04-01"
+nachtrag: "117"
 adopted: 2013-01-23
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-432_211-2013_01_23-2013_07_01-082.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-432_211-2013_01_23-2013_07_01-117.html"
 text: pdf
 ---
 
@@ -56,7 +56,7 @@ beschliessen:
 
 **1**
 
-- 1\. 10. 13 - 82 § 3. Die Stiftung verzeichnet ihre Bestände in einem Bibliothekssystem und macht dieses öffentlich zugänglich.
+- 1\. 7. 22 - 117 § 3. Die Stiftung verzeichnet ihre Bestände in einem Bibliothekssystem und macht dieses öffentlich zugänglich.
 
 #### § 4
 
@@ -68,11 +68,9 @@ Die Stiftung macht durch Publikationen, Ausstellungen und Veranstaltungen ihre S
 
 ### B. Stiftungsgut
 
-#### § 5
-
 **Im Allgemeinen**
 
-<sup>1</sup> Das Stiftungsgut besteht aus:
+§ 5.[^hBStiftungsgut-1] <sup>1</sup> Das Stiftungsgut besteht aus:
 
 - a. den Sammlungen,
 
@@ -84,7 +82,11 @@ Die Stiftung macht durch Publikationen, Ausstellungen und Veranstaltungen ihre S
 
 <sup>2</sup> Das Stiftungsgut darf grundsätzlich nicht angetastet werden.
 
-<sup>3</sup> Ausnahmsweise dürfen mit Bewilligung der Bibliothekskommission einzelne Teile des Stiftungsgutes in das Eigentum Dritter übergeführt werden, wenn damit der Stiftungszweck besser erreicht werden kann.
+<sup>3</sup> Ausnahmsweise dürfen einzelne Teile des Stiftungsgutes in das Eigentum Dritter übergeführt oder ausgesondert werden, wenn damit der Stiftungszweck besser erreicht werden kann.
+
+<sup>4</sup> Bei der Anwendung von Abs. 3 sind Verpflichtungen aus Schenkungen und Übernahmeverträgen einzuhalten.
+
+[^hBStiftungsgut-1]: Fassung gemäss RRB vom 23. Februar 2022 (OS 77, 310; ABl 2022-03-04) und Beschluss des Stadtrats von Zürich vom 25. Mai 2022. In Kraft seit 1. April 2022.
 
 #### § 6
 
@@ -160,6 +162,6 @@ Die Bibliotheksordnung regelt die Organisation der Stiftung.
 
 **3**
 
-- 1\. 10. 13 - 82
+- 1\. 7. 22 - 117
 
 <sup>4</sup> Die übrigen Vermögenswerte werden, nach Deckung der Liquidationskosten, gemäss dem im Zeitpunkt der Liquidation geltenden Finanzierungsschlüssel unter dem Kanton und der Stadt Zürich aufgeteilt.
