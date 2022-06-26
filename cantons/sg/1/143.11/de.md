@@ -10,7 +10,7 @@ version_adopted: 2020-12-22
 adopted: 2011-12-13
 in_force: 2013-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/143.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3379/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3380/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -733,11 +733,11 @@ als Verordnung:[^ingress-2]
 
 **Besondere Gründe**
 
-<sup>1</sup> Die Mitarbeiterin oder der Mitarbeiter kann als bezahlten Urlaub beziehen:[^66-1]
+<sup>1</sup> Die Mitarbeiterin oder der Mitarbeiter kann als bezahlten Urlaub beziehen:
 
 - a) bei Verheiratung der Mitarbeiterin oder des Mitarbeiters oder bei Eintragung der Partnerschaft zwei Tage;
 - b) bei Hochzeit oder bei Eintragung der Partnerschaft von Kindern und Geschwistern einen Tag;
-- c) nach Geburt eines Kindes fünf Tage Vaterschaftsurlaub innerhalb von vier Monaten. Bei einer Mehrlingsgeburt wird der Vaterschaftsurlaub nur einmal gewährt;
+- c) …
 - d) bei plötzlicher Erkrankung eines Mitglieds des Haushalts oder eines nahen Angehörigen, wenn es an der notwendigen Betreuung fehlt, bis zwei Tage je Ereignis;
 - e) beim Tod:
   - 1\. von Ehe- oder Lebenspartnerin und Ehe- oder Lebenspartner sowie von eingetragener Partnerin oder eingetragenem Partner drei Tage;
@@ -748,7 +748,15 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Die Arbeitgeberin oder der Arbeitgeber kann die Dauer in Ausnahmefällen verlängern.
 
-[^66-1]: In Vollzug ab 1. Januar 2013.
+#### Art. 66a
+
+**Vaterschaftsurlaub**
+
+<sup>1</sup> Mitarbeiter können nach Geburt eines Kindes zehn Tage Vaterschaftsurlaub innerhalb von sechs Monaten als bezahlten Urlaub beziehen. Bei einer Mehrlingsgeburt beträgt der Vaterschaftsurlaub 15 Tage.
+
+<sup>2</sup> Im Übrigen werden die Bestimmungen über die Vaterschaftsentschädigung in der Bundesgesetzgebung über die Erwerbsersatzordnung[^66a-1] sachgemäss angewendet. Die Leistungen der Erwerbsersatzordnung gehen im Ausmass der Lohnfortzahlung an den Kanton über.
+
+[^66a-1]: SR 834.
 
 #### Art. 67
 
