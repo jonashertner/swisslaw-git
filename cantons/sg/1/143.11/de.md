@@ -10,7 +10,7 @@ version_adopted: 2019-09-10
 adopted: 2011-12-13
 in_force: 2013-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/143.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3371/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3372/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -908,6 +908,50 @@ als Verordnung:[^ingress-2]
 [^78a-4]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 [^78a-5]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
+#### Art. 78b
+
+**Besondere Bestimmungen für hauptamtliche und teilamtliche Richterinnen und Richter a) Grundsatz**
+
+<sup>1</sup> Für hauptamtliche und teilamtliche Richterinnen und Richter des Versicherungsgerichtes, der Kreisgerichte sowie der Verwaltungsrekurskommission werden Art. 73a bis 78 sowie Art. 173 dieses Erlasses nicht angewendet. Es gelten die Bestimmungen nach Art. 78c, 78d und 177 dieses Erlasses.
+
+<sup>2</sup> Die Besoldung von Richterinnen und Richter, die Magistratspersonen sind, richtet sich nach der Besoldungsverordnung für Magistratspersonen vom 3. September 2013[^78b-1].
+
+[^78b-1]: sGS [143.210](https://www.gesetzessammlung.sg.ch/data/143.210/de).
+
+#### Art. 78c
+
+**b) Besoldung 1. Ziellohn**
+
+<sup>1</sup> Hauptamtliche und teilamtliche Richterinnen und Richter des Versicherungsgerichtes erhalten einen Lohn von 80 Prozent der Besoldung nach Art. 3 Abs. 2 der Besoldungsverordnung für Magistratspersonen vom 3. September 2013[^78c-1].
+
+<sup>2</sup> Hauptamtliche und teilamtliche Richterinnen und Richter der Kreisgerichte und der Verwaltungsrekurskommission erhalten vorbehältlich von Abs. 3 dieser Bestimmung einen Lohn von 75 Prozent der Besoldung nach Art. 3 Abs. 2 der Besoldungsverordnung für Magistratspersonen vom 3. September 2013[^78c-2].
+
+<sup>3</sup> Hauptamtliche und teilamtliche Richterinnen und Richter der Kreisgerichte, die unter Ziff. 3 der Übergangsbestimmungen des IV. Nachtrags zum Gerichtsgesetz vom 1. Juni 2008[^78c-3] fallen, erhalten einen Lohn von 65 Prozent der Besoldung nach Art. 3 Abs. 2 der Besoldungsverordnung für Magistratspersonen vom 3. September 2013[^78c-4].
+
+<sup>4</sup> Der Lohn nach Abs. 1 bis 3 dieser Bestimmung wird als Ziellohn bezeichnet.
+
+[^78c-1]: sGS [143.210](https://www.gesetzessammlung.sg.ch/data/143.210/de).
+[^78c-2]: sGS [143.210](https://www.gesetzessammlung.sg.ch/data/143.210/de).
+[^78c-3]: nGS 44-52.
+[^78c-4]: sGS [143.210](https://www.gesetzessammlung.sg.ch/data/143.210/de).
+
+#### Art. 78d
+
+**2. Abstufung**
+
+<sup>1</sup> Den Ziellohn erhalten ab Amtsantritt Personen, die:
+
+- a) das 45. Altersjahr vollendet haben und
+- b) eine Richterfunktion in fester Anstellung mindestens 48 Monate ausgeübt haben.
+
+<sup>2</sup> Personen, die eines der beiden Kriterien nach Abs. 1 dieser Bestimmung nicht erfüllen, erhalten den Ziellohn abzüglich 7,5 Prozent. Der Abzug beträgt 15 Prozent für Personen, die beide Kriterien nicht erfüllen.
+
+<sup>3</sup> Der nach Abs. 2 dieser Bestimmung reduzierte Lohn erhöht sich auf den 1. Januar jedes Folgejahres um 3 Prozent des Ziellohns, bis er den Ziellohn erreicht.
+
+<sup>4</sup> Wird nach Amtsantritt eines der Kriterien nach Abs. 1 dieser Bestimmung erreicht und sind in der Folge beide Kriterien erfüllt, entspricht der Lohn ab dem 1. Januar des Folgejahres dem Ziellohn.
+
+<sup>5</sup> Wird nach Amtsantritt eines der Kriterien nach Abs. 1 dieser Bestimmung erreicht und ist in der Folge ein Kriterium erfüllt, wird für die Berechnung des Lohns ab dem 1. Januar des Folgejahres davon ausgegangen, dass jenes Kriterium schon bei Amtsantritt erfüllt war. Die weitere Lohnentwicklung richtet sich nach Abs. 3 und 4 dieser Bestimmung.
+
 ### b) Zulagen
 
 #### Art. 79
@@ -943,6 +987,21 @@ als Verordnung:[^ingress-2]
 **b) Höhe**
 
 <sup>1</sup> Die Höhe der Zulage richtet sich nach Art, Umfang und Anforderungen der zusätzlichen Aufgaben, der leitenden Funktion oder der Ausübung der Stellvertretung.
+
+#### Art. 82a
+
+**c) Präsidialzulage Gerichte**
+
+<sup>1</sup> Als jährliche, vom Beschäftigungsgrad unabhängige Präsidialzulage erhält die Präsidentin oder der Präsident:
+
+- a) des Versicherungsgerichtes Fr. 7'200.–;
+- b) der Verwaltungsrekurskommission Fr. 6'600.–;
+- c) des Kreisgerichtes St.Gallen Fr. 6'600.–;
+- d) der übrigen Kreisgerichte jeweils Fr. 5'400.–.
+
+<sup>2</sup> Die Präsidialzulage für die Kantonsgerichtspräsidentin oder den Kantonsgerichtspräsidenten und die Verwaltungsgerichtspräsidentin oder den Verwaltungsgerichtspräsidenten richtet sich nach der Besoldungsverordnung für Magistratspersonen vom 3. September 2013[^82a-1].
+
+[^82a-1]: sGS [143.210](https://www.gesetzessammlung.sg.ch/data/143.210/de).
 
 #### Art. 83
 
@@ -1951,5 +2010,20 @@ als Verordnung:[^ingress-2]
 
 [^176-1]: nGS 2018-050.
 [^176-2]: sGS [143.11](https://www.gesetzessammlung.sg.ch/data/143.11/de).
+
+#### Art. 177
+
+**Übergangsbestimmungen des VII. Nachtrags vom 10. September 2019**
+
+<sup>1</sup> Liegt der Jahreslohn einer Richterin oder eines Richters, auf die oder den die Bestimmungen nach Art. 78b bis Art. 78d dieses Erlasses anwendbar sind, am 1. Januar 2020 oberhalb des Ziellohns, wird:
+
+- a) er per 1. Juni 2023 auf den Ziellohn, höchstens aber um Fr. 6'500.– gesenkt;
+- b) der Richterin oder dem Richter ab dem Jahr 2020 eine allfällige allgemeine Lohnerhöhung nach Art. 37 f. des Personalgesetzes[^177-1] nur bis zur Höhe des Ziellohns nach der allgemeinen Lohnerhöhung gewährt.
+
+<sup>2</sup> Für eine Richterin oder einen Richter, für die oder den grundsätzlich ein reduzierter Ziellohn nach Art. 78d dieses Erlasses zur Anwendung käme, wird der Lohn auf den 1. Januar 2020 und in den Folgejahren so berechnet, als hätte das Ziellohnmodell nach Art. 78c und Art. 78d dieses Erlasses bereits bei Amtsantritt gegolten.
+
+<sup>3</sup> Abs. 1 Bst. a dieser Bestimmung wird nicht angewendet auf Richterinnen und Richter, die vor dem 1. Januar 2020 das 60. Altersjahr vollendet haben.
+
+[^177-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
 nGS 47–32
