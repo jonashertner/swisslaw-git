@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2022-05-02
+version: 2022-06-27
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220502/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220502-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220502/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220627/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220627-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220627/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220502/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 2. Mai 2022)
+vom 4. Juni 2021 (Stand am 27. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -220,6 +220,25 @@ Die Kantone sorgen dafür, dass in den nachstehenden Fällen Anträge auf Ausste
 
 [^8-1]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^8-2]: Fassung gemäss Ziff. I der V vom 16. Febr. 2022 (Auslaufen der nur in der Schweiz gültigen Covid-19-Zertifikate), in Kraft seit 17. Febr. 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+
+#### Art. 8a
+
+**Automatisiertes Verfahren für die Konvertierung von Covid-19-Zertifikaten**[^8a-1]
+
+<sup>1</sup>
+
+Der Bund kann es den Kantonen zur Erfüllung ihrer Aufgaben nach Artikel 7 ermöglichen, gestützt auf vorhandene Zertifikate automatisiert neue Zertifikate auszustellen, wenn:
+
+- a. das vorhandene Zertifikat aus technischen Gründen nicht mehr weiterverwendet werden kann oder seine Weiterverwendbarkeit gefährdet ist; oder
+- b. das vorhandene, gestützt auf eine frühere Fassung dieser Verordnung ausgestellte Zertifikat eine Impfung oder Genesung bescheinigt, die auch nach dem geltendem Recht zu einem Zertifikat berechtigt.
+
+<sup>2</sup> Es können nur Schweizer Covid-19-Zertifikate eingetauscht werden und nur solche, die nicht widerrufen worden sind.
+
+<sup>3</sup> Der Antrag auf die automatisierte Ausstellung eines neuen Zertifikats ist mittels der Aufbewahrungs-App (Art. 28) zu stellen.
+
+<sup>4</sup> Erfüllt das vorhandene Zertifikat die Voraussetzungen nach den Absätzen 1 und 2, so generiert das System zur Ausstellung von Covid-19-Zertifikaten (Art. 26) ein neues Zertifikat für dieselbe Impfung oder Genesung und sendet dieses an die Aufbewahrungs-App.
+
+[^8a-1]: Eingefügt durch Ziff. I der V vom 10. Juni 2022, in Kraft seit 27. Juni 2022 ([AS 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374)).
 
 #### Art. 9
 
@@ -986,7 +1005,7 @@ Anhang 5*[^t-6]*
 
 ## Liste der anerkannten ausländischen Zertifikate
 
-[^t-6]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), vom 19. Jan. 2022 (Covid-Genesungszertifikate für Antigen-Schnelltests) ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), Ziff. I der V des EDI vom 22. Febr. 2022 ([AS 2022 117](https://fedlex.data.admin.ch/eli/oc/2022/117)) und Ziff. II der V vom 27. April 2022 (EU-kompatible Covid-19-Genesungszertifikate für Antigen-Schnelltests), in Kraft seit 2. Mai 2022 ([AS 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)).
+[^t-6]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), vom 19. Jan. 2022 (Covid-Genesungsertifikate für Antigen-Schnelltests) ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), vom 27. April 2022 (EU-kompatible Covid-19-Genesungszertifikate für Antigen-Schnelltests) ([AS 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)) und vom 10. Juni 2022, in Kraft seit 27. Juni 2022 ([AS 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374)).
 
 ### 1 Anerkannte Zertifikate, die von einem Mitgliedstaat der EU oder der EFTA ausgestellt wurden
 
@@ -1005,7 +1024,7 @@ Anhang 5*[^t-6]*
 
 - 2\.1
 
-  Anerkannt sind die Impf-, Genesungs- und Testzertifikate, die in Übereinstimmung mit der Verordnung (EU) 2021/953 interoperabel sind und die von den folgenden Staaten und Regionen ausgestellt wurden:
+  Anerkannt sind die Impf-, Genesungs-, und Testzertifikate, die in Übereinstimmung mit der Verordnung (EU) 2021/953 interoperabel sind und die von den folgenden Staaten und Regionen ausgestellt wurden:
 
   - – Albanien
   - – Andorra
@@ -1025,11 +1044,13 @@ Anhang 5*[^t-6]*
   - – Panama
   - – San Marino
   - – Serbien
+  - – Seychellen
   - – Thailand
   - – Türkei
   - – Ukraine
   - – Uruguay
   - – Vereinigtes Königreich
+  - – Vietnam
 
 - 2\.2
 
@@ -1046,6 +1067,7 @@ Anhang 5*[^t-6]*
 
   Anerkannt sind die Impfzertifikate, die in Übereinstimmung mit der Verordnung (EU) 2021/953 interoperabel sind und die von den folgenden Staaten und Regionen ausgestellt wurden:
 
+  - – Indonesien
   - – Jordanien
   - – Kolumbien
   - – Libanon

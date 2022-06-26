@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2022-05-02
+version: 2022-06-27
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220502/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220502-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220502/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220627/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220627-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220627/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220502/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 2 maggio 2022) (Stato 2 maggio 2022)
+del 4 giugno 2021 (Stato 27 giugno 2022) (Stato 27 giugno 2022)
 
 Il Consiglio federale svizzero,
 
@@ -222,6 +222,25 @@ I Cantoni provvedono affinché siano elaborate richieste di emissione di un cert
 
 [^8-1]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^8-2]: Nuovo testo giusta n. I dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera), in vigore dal 17 feb. 2022 ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+
+#### Art. 8a
+
+**Procedura automatizzata per la conversione di certificati COVID-19**[^8a-1]
+
+<sup>1</sup>
+
+Ai fini dell’adempimento dei compiti di cui all’articolo 7 la Confederazione può consentire ai Cantoni di emettere automaticamente nuovi certificati in base a certificati esistenti se:
+
+- a. il certificato esistente non può più essere utilizzato per motivi tecnici o la sua ulteriore utilizzabilità non è garantita; oppure
+- b. il certificato esistente, emesso in base a una versione precedente della presente ordinanza, attesta una vaccinazione o guarigione che dà diritto a un certificato anche secondo il diritto vigente.
+
+<sup>2</sup> Possono essere sostituiti soltanto certificati COVID-19 svizzeri e certificati non revocati.
+
+<sup>3</sup> La richiesta di emissione automatizzata di un nuovo certificato va trasmessa mediante l’applicazione per la conservazione (art. 28).
+
+<sup>4</sup> Se il certificato esistente soddisfa le condizioni di cui ai capoversi 1 e 2, il sistema per l’emissione di certificati COVID-19 (art. 26) genera un nuovo certificato per la stessa vaccinazione o guarigione e lo invia all’applicazione per la conservazione.
+
+[^8a-1]: Introdotto dal n. I dell’O del 10 giu. 2022, in vigore dal 27 giu. 2022 ([RU 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374)).
 
 #### Art. 9
 
@@ -988,7 +1007,7 @@ Allegato 5*[^t-6]*
 
 ## Elenco dei certificati esteri riconosciuti
 
-[^t-6]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dal n. II delle O del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi) ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), dal n. I dell’O del del DFI del 22 feb. 2022 ([RU 2022 117](https://fedlex.data.admin.ch/eli/oc/2022/117)) e dal n. II dell’O del 27 apr. 2022 (Certificati di guarigione dalla COVID-19 compatibili con l’UE basati su test antigenici rapidi), in vigore dal 2 mag. 2022 ([RU 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)).
+[^t-6]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dai n. II delle O del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi) ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), del 27 apr. 2022 (Certificati di guarigione dalla COVID-19 compatibili con l’UE basati su test antigenici rapidi), in vigore dal 2 mag. 2022 ([RU 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)) e del 10 giu. 2022, in vigore dal 27 giu. 2022 ([RU 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374)).
 
 ### 1 Certificati riconosciuti emessi da uno Stato membro dell’UE o dell’AELS
 
@@ -1007,7 +1026,7 @@ Allegato 5*[^t-6]*
 
 - 2\.1
 
-  Sono riconosciuti i certificati di vaccinazione, di guarigione e di test che sono interoperabili conformemente al regolamento (UE) 2021/953 e che sono stati emessi dagli Stati et dalle regioni seguenti:
+  Sono riconosciuti i certificati di vaccinazione, di guarigione e di test che sono interoperabili conformemente al regolamento (UE) 2021/953 e che sono stati emessi dagli Stati e dalle regioni seguenti:
 
   - – Albania
   - – Andorra
@@ -1027,11 +1046,13 @@ Allegato 5*[^t-6]*
   - – Regno Unito
   - – San Marino
   - – Santa Sede (Città del Vaticano)
+  - – Seicelle
   - – Serbia
   - – Thailandia
   - – Turchia
   - – Ucraina
   - – Uruguay
+  - – Vietnam
 
 - 2\.2
 
@@ -1050,6 +1071,7 @@ Allegato 5*[^t-6]*
 
   - – Colombia
   - – Giordania
+  - – Indonesia
   - – Libano
   - – Tunisia
 

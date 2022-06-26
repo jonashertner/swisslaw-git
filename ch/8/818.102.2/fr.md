@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2022-05-02
+version: 2022-06-27
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220502/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220502-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220502/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220627/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220627-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220627/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220502/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 2 mai 2022)
+du 4 juin 2021 (Etat le 27 juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -220,6 +220,25 @@ Les cantons veillent à ce que les demandes d’établissement de certificats de
 
 [^8-1]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^8-2]: Nouvelle teneur selon le ch. I de l’O du 16 fév. 2022 (Expiration des certificats dont la validité est limitée à la Suisse), en vigueur depuis le 17 fév. 2022 ([RO 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+
+#### Art. 8a
+
+**Procédure automatisée de remplacement de certificats COVID-19**[^8a-1]
+
+<sup>1</sup>
+
+En vue de l’accomplissement des tâches prévues à l’art. 7, la Confédération peut donner la possibilité aux cantons d’établir automatiquement un nouveau certificat sur la base d’un certificat existant, si:
+
+- a. le certificat existant ne peut plus être utilisé pour des raisons techniques ou son utilisation future est remise en question, ou que
+- b. le certificat existant, établi en vertu d’une version précédente de la présente ordonnance, atteste une vaccination ou une guérison qui donne droit à l’établissement d’un certificat en vertu du droit en vigueur également.
+
+<sup>2</sup> Seuls les certificats COVID-19 suisses peuvent être remplacés et uniquement ceux qui n’ont pas été révoqués.
+
+<sup>3</sup> La demande d’établissement automatique d’un nouveau certificat doit être faite via l’application de stockage (art. 28).
+
+<sup>4</sup> Si le certificat existant remplit les conditions prévues aux al. 1 et 2, le système d’établissement de certificats COVID-19 (art. 26) génère un nouveau certificat attestant ladite vaccination ou guérison et le transmet à l’application de stockage.
+
+[^8a-1]: Introduit par le ch. I de l’O du 10 juin 2022, en vigueur depuis le 27 juin 2022 ([RO 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374)).
 
 #### Art. 9
 
@@ -988,7 +1007,7 @@ Annexe 5*[^t-6]*
 
 ## Liste des certificats étrangers reconnus
 
-[^t-6]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 2021 ([RO 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Mise à jour par le ch. II des O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), du 19 janv. 2022 (Certificat de guérison COVID-19 pour les tests rapides antigéniques) ([RO 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), le ch. I de l’O du DFI du 22 fév. 2022 ([RO 2022 117](https://fedlex.data.admin.ch/eli/oc/2022/117)) et le ch. II de l’O du 27 avr. 2022 (Certificats de guérison COVID-19 compatibles avec l’UE fondés sur des tests rapides antigéniques), en vigueur depuis le 2 mai 2022 ([RO 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)).
+[^t-6]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 2021 ([RO 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Mise à jour par le ch. II des O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), du 19 janv. 2022 (Certificat de guérison COVID-19 pour les tests rapides antigéniques) ([RO 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), du 27 avr. 2022 (Certificats de guérison COVID-19 compatibles avec l’UE fondés sur des tests rapides antigéniques) ([RO 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)) et du 10 juin 2022, en vigueur depuis le 27 juin 2022 ([RO 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374)).
 
 ### 1 Certificats reconnus établis par un État membre de l’UE ou de l’AELE
 
@@ -1028,10 +1047,12 @@ Annexe 5*[^t-6]*
   - – Saint-Marin
   - – Saint-Siège (Cité du Vatican)
   - – Serbie
+  - – Seychelles
   - – Thaïlande
   - – Turquie
   - – Ukraine
   - – Uruguay
+  - – Vietnam
 
 - 2\.2
 
@@ -1049,6 +1070,7 @@ Annexe 5*[^t-6]*
   Sont reconnus les certificats de vaccination qui sont interopérables conformément au règlement (UE) 2021/953 et qui ont été établis par les États et les régions suivants:
 
   - – Colombie
+  - – Indonésie
   - – Jordanie
   - – Liban
   - – Tunisie

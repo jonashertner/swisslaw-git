@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2022-05-02
+version: 2022-06-27
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220502/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220502-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220502/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220627/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220627-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220627/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 2 May 2022)
+of 4 June 2021 (Status as of 27 June 2022)
 
 The Swiss Federal Council,
 
@@ -223,6 +223,25 @@ The cantons shall ensure that in the following cases requests for a COVID-19 tes
 
 [^8-1]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^8-2]: Amended by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force since 17 Feb. 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+
+#### Art. 8a
+
+**Automated procedure for converting COVID-19 certificates**[^8a-1]
+
+<sup>1</sup>
+
+The Confederation may allow the cantons to issue new certificates using an automated procedure on the basis of existing certificates in order to fulfil their duties pursuant to Article 7 if:
+
+- a. the existing certificate can no longer be used for technical reasons or if its continued use is placed in doubt; or
+- b. the existing certificate issued on the basis of an earlier version of this Ordinance certifies a vaccination or recovery that also entitles the holder to a certificate in accordance with the applicable law.
+
+<sup>2</sup> Only Swiss COVID-19 certificates that have not been revoked may be exchanged.
+
+<sup>3</sup> The application for the automated issuing of a new certificate shall be submitted via the storage app (Art. 28).
+
+<sup>4</sup> If the existing certificate meets the requirements of paragraphs 1 and 2, the system for issuing COVID-19-certificates (Art. 26) shall generate a new certificate for the same vaccination or recovery and send the same to the storage app.
+
+[^8a-1]: Inserted by No I of the O of 10 June 2022, in force since 27 June 2022 ([AS 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374)).
 
 #### Art. 9
 
@@ -988,7 +1007,7 @@ Annex 5*[^t-6]*
 
 ## List of recognised foreign certificates
 
-[^t-6]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests) ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), by No I of the FDHA O of 22 Feb. 2022 ([AS 2022 117](https://fedlex.data.admin.ch/eli/oc/2022/117)) and No II of the O of 27 April 2022 (EU Compatible COVID-19 Recovery Certificates for Rapid Antigen Tests), in force since 2 May 2022 ([AS 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)).
+[^t-6]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests) ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), of 27 April 2022 (EU Compatible COVID-19 Recovery Certificates for Rapid Antigen Tests) ([AS 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)) and of 10 June 2022, in force since 27 June 2022 ([AS 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374)).
 
 ### 1 Recognised certificates issued by an EU member state or an EFTA state
 
@@ -1025,11 +1044,13 @@ Annex 5*[^t-6]*
 - – Panama
 - – San Marino
 - – Serbia
+- – Seychelles
 - – Thailand
 - – Turkey
 - – Ukraine
 - – United Kingdom
 - – Uruguay
+- – Vietnam
 
 - 2\.2
 
@@ -1047,6 +1068,7 @@ Annex 5*[^t-6]*
   Vaccination certificates that are interoperable in accordance with Regulation (EU) 2021/953 and have been issued by the following states and regions are recognised:
 
   - – Colombia
+  - – Indonesia
   - – Jordan
   - – Lebanon
   - – Tunisia
@@ -1073,6 +1095,7 @@ Annex 6*[^t-7]*
   - d. an exemption certificate under Article 1 letter a number 4 in its version of 3 November 2021[^annex6-lvlu1-4].
 
 - 4\. “Test certificate”: Access for persons with a test certificate or with an exemption certificate under Article 1 letter a number 4 in its version of 3 November 2021[^annex6-lvlu1-5].
+- [tab]
 
 [^annex6-lvlu1-1]: [AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)
 [^annex6-lvlu1-2]: [AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)
