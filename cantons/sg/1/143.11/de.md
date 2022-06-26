@@ -4,13 +4,13 @@ number: "143.11"
 title: Personalverordnung
 short: PersV
 language: de
-version: 2020-01-01
+version: 2021-01-01
 corrected: 2022-06-27
-version_adopted: 2019-09-10
+version_adopted: 2020-12-22
 adopted: 2011-12-13
 in_force: 2013-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/143.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3372/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3379/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3372/pdf_file"
 
 (PersV)
 
-vom 13.12.2011 (Stand 01.01.2020)
+vom 13.12.2011 (Stand 01.01.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -38,7 +38,7 @@ als Verordnung:[^ingress-2]
 
 **Geltungsbereich a) Grundsatz**
 
-<sup>1</sup> Dieser Erlass gilt für die Mitarbeiterinnen und Mitarbeiter nach Art. 2 des Personalgesetzes.[^1-1]
+<sup>1</sup> Dieser Erlass gilt für die Mitarbeiterinnen und Mitarbeiter nach Art. 2 des Personalgesetzes. Als selbständige öffentlich-rechtliche Anstalten nach Art. 2 Abs. 2 des Personalgesetzes[^1-1] gelten auch die interkantonalen und interstaatlichen selbständigen öffentlich-rechtlichen Anstalten nach Anhang 4 dieses Erlasses.
 
 <sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter der Spitalverbunde und der Psychiatrieverbunde sowie des Zentrums für Labormedizin sind mit Ausnahme der Mitarbeiterinnen und Mitarbeiter, die eine höhere leitende Tätigkeit ausüben[^1-2], der eidgenössischen Arbeitsgesetzgebung[^1-3] unterstellt.
 
@@ -697,6 +697,10 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Wird die Tätigkeit aus anderen Gründen ausgesetzt, wird die ausgefallene Arbeitszeit an die Feriendauer angerechnet.
 
+<sup>3</sup> Leisten Mitarbeiterinnen und Mitarbeiter nach [Art. 2](https://www.gesetzessammlung.sg.ch/data/143.1/de/art2) Abs. 1 und 2 des Personalgesetzes vom 25. Januar 2011[^62-1] Assistenzdienst oder gleichwertige Einsätze zur Unterstützung der zivilen Behörden bei der Bewältigung der Corona-Krise, werden diese Dienstleistungen bei der Bemessung des Ferienanspruchs nach Abs. 1 Bst. b dieser Bestimmung nicht angerechnet.
+
+[^62-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+
 #### Art. 63
 
 **Ferienbezug**
@@ -1126,7 +1130,7 @@ als Verordnung:[^ingress-2]
 
 **b) Bemessung und Auszahlung[^95-1]**
 
-<sup>1</sup> Der Betrag der Inkonvenienzentschädigung entspricht dem Durchschnitt der im vorgegangenen Kalenderjahr oder, bei einer kürzeren Anstellungsdauer, der während der Anstellungsdauer ausgerichteten Inkonvenienzentschädigungen.
+<sup>1</sup> Der Betrag der Inkonvenienzentschädigung entspricht dem Durchschnitt der im vorhergehenden Kalenderjahr oder, bei einer kürzeren Anstellungsdauer, der während der Anstellungsdauer ausgerichteten Inkonvenienzentschädigungen.
 
 <sup>2</sup> Lässt sich der Durchschnitt nicht ermitteln, wird auf Erfahrungswerte abgestellt.
 
@@ -1163,9 +1167,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Der Arbeitsvertrag kann vorsehen, dass der Lohn teilweise als Naturalleistung in Form von verbilligter oder unentgeltlicher Verpflegung oder von verbilligter oder unentgeltlicher Bereitstellung einer Dienstwohnung ausgerichtet wird.
 
-<sup>2</sup> Das Finanzdepartement legt für Dienstwohnungen den für die Bewertung der Naturalleistung massgebenden Wert fest. Im Übrigen werden für die Bewertung von Naturalleistungen die steuerrechtlichen Bestimmungen über Bemessung der Naturalbezüge bei Ermittlung des steuerbaren Einkommens sachgemäss angewendet.[^98-1]
-
-[^98-1]: Vgl. insbesondere Art. [10](https://www.gesetzessammlung.sg.ch/data/811.11/de/art10.) der Steuerverordnung, sGS [811.11](https://www.gesetzessammlung.sg.ch/data/811.11/de).
+<sup>2</sup> …
 
 ### 2. Lohnfortzahlung
 
