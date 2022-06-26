@@ -4,13 +4,13 @@ number: "143.11"
 title: Personalverordnung
 short: PersV
 language: de
-version: 2019-01-01
+version: 2020-01-01
 corrected: 2022-06-27
-version_adopted: 2018-10-09
+version_adopted: 2019-09-10
 adopted: 2011-12-13
 in_force: 2013-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/143.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2421/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3371/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2421/pdf_file"
 
 (PersV)
 
-vom 13.12.2011 (Stand 01.01.2019)
+vom 13.12.2011 (Stand 01.01.2020)
 
 Die Regierung des Kantons St.Gallen
 
@@ -892,6 +892,22 @@ als Verordnung:[^ingress-2]
 - a) Urlaub nach Art. 66 dieses Erlasses;
 - b) die ersten drei Tage der Absenz wegen Krankheit oder Unfalls.
 
+#### Art. 78a
+
+**Änderung der Löhne**
+
+<sup>1</sup> Die Arbeitgeberinnen und Arbeitgeber von Mitarbeiterinnen und Mitarbeitern nach Art. 2 Abs. 2 Ziff. 1 des Personalgesetzes[^78a-1] werden vor einer Änderung der Löhne nach Art. 37 des Personalgesetzes[^78a-2] zur schriftlichen Vernehmlassung eingeladen.
+
+<sup>2</sup> Arbeitgeberinnen und Arbeitgeber von Mitarbeiterinnen und Mitarbeitern nach Art. 2 Abs. 2 Ziff. 1 des Personalgesetzes[^78a-3] können der Regierung Antrag auf eine Änderung der Löhne ihrer Mitarbeiterinnen und Mitarbeiter stellen.
+
+<sup>3</sup> Die Regierung kann für Mitarbeiterinnen und Mitarbeiter nach Art. 2 Abs. 2 Ziff. 1 des Personalgesetzes[^78a-4] eine Änderung der Löhne bestimmen, die von einer Änderung der Löhne von Mitarbeiterinnen und Mitarbeitern nach Art. 2 Abs. 1 und Art. 2 Abs. 2 Ziff. 2 des Personalgesetzes[^78a-5] abweicht. Sie berücksichtigt insbesondere die für die Arbeitgeberin oder den Arbeitgeber massgebliche Arbeitsmarktlage sowie die Finanzlage der Arbeitgeberin oder des Arbeitgebers.
+
+[^78a-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+[^78a-2]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+[^78a-3]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+[^78a-4]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+[^78a-5]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+
 ### b) Zulagen
 
 #### Art. 79
@@ -1222,6 +1238,12 @@ als Verordnung:[^ingress-2]
 - a) Prämien an die Nichtberufsunfallversicherung;
 - b) anteilmässige Kosten für die Fallbewirtschaftung.
 
+#### Art. 111a
+
+**Sozialplan**
+
+<sup>1</sup> Das zuständige Organ der selbständigen öffentlich-rechtlichen Anstalt kann der Regierung Antrag auf Erlass oder Anpassung eines Sozialplans stellen.
+
 ### 3. Treueprämie
 
 #### Art. 112
@@ -1433,9 +1455,9 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Vergütung für die Benützung des eigenen Personenwagens beträgt je Kilometer:
 
-- a) bis 5000 Kilometer im Kalenderjahr: Rp. 78
-- b) von 5001 bis 10 000 Kilometer im Kalenderjahr: Rp. 65
-- c) über 10 000 Kilometer im Kalenderjahr: Rp. 56
+- a) bis 5000 Kilometer im Kalenderjahr: Rp. 70
+- b) von 5001 bis 10 000 Kilometer im Kalenderjahr: Rp. 60
+- c) über 10 000 Kilometer im Kalenderjahr: Rp. 55
 
 <sup>2</sup> Die Arbeitgeberin oder der Arbeitgeber kann Mitarbeiterinnen und Mitarbeitern im Einvernehmen mit dem Personalamt einen Zuschlag von fünf Rappen je Kilometer ausrichten, wenn der Personenwagen vorwiegend unter besonders schwierigen Verhältnissen eingesetzt wird.
 
@@ -1539,7 +1561,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Verhandlungen über Gegenstände, die mehrere Personalverbände betreffen, werden in der Regel mit der Personalverbändekonferenz geführt.
 
-<sup>2</sup> Das Departement kann Verhandlungen mit einzelnen Personalverbänden über Gegenstände führen, die das Personal nach Massgabe des Geschäftskreises dieses Departementes[^136-1] betreffen, soweit die Regierung keine andere Regelung trifft. Es kann das Personalamt beiziehen.
+<sup>2</sup> Das Departement oder das strategische Leitungsorgan der selbständigen öffentlich-rechtlichen Anstalt kann Verhandlungen mit einzelnen Personalverbänden über Gegenstände führen, die das Personal nach Massgabe des Geschäftskreises dieses Departementes[^136-1] oder dieser Anstalt betreffen, soweit die Regierung keine andere Regelung trifft. Das Departement oder das strategische Leitungsorgan der selbständigen öffentlich-rechtlichen Anstalt kann das Personalamt beiziehen.
 
 <sup>3</sup> Mitarbeiterinnen und Mitarbeitern wird die Teilnahme an Sitzungen der Personalverbändekonferenz und der Verhandlungsdelegation sowie, wenn die Regierung oder das Finanzdepartement einlädt, an weiteren Sitzungen im Rahmen der Sozialpartnerschaft als Arbeitszeit angerechnet.
 
