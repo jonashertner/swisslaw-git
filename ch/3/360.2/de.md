@@ -3,11 +3,11 @@ sr: "360.2"
 title: Verordnung vom 15. Oktober 2008 über das Nationale Ermittlungssystem (NES-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/697"
 language: de
-version: 2022-06-01
+version: 2022-06-28
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/697/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2008-697-20220601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/697/20220628/de/xml/fedlex-data-admin-ch-eli-cc-2008-697-20220628-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20220628/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20220601/de"
 
 (JANUS-Verordnung)
 
-vom 15. Oktober 2008 (Stand am 1. Juni 2022)
+vom 15. Oktober 2008 (Stand am 28. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -843,7 +843,7 @@ Anhang 2*[^t-2]*
 
 ## 1. Zugriffsmatrix JANUS
 
-[^t-2]: Fassung gemäss Ziff. II der V vom 17. Dez. 2014 ([AS 2015 269](https://fedlex.data.admin.ch/eli/oc/2015/32)). Bereinigt gemäss Anhang 4 Ziff. II 6 der Nachrichtendienstverordnung vom 16. Aug. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)), Ziff. I der V vom 21. Nov. 2018 ([AS 2018 4589](https://fedlex.data.admin.ch/eli/oc/2018/724)) und Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^t-2]: Fassung gemäss Ziff. II der V vom 17. Dez. 2014 ([AS 2015 269](https://fedlex.data.admin.ch/eli/oc/2015/32)). Bereinigt gemäss Anhang 4 Ziff. II 6 der Nachrichtendienstverordnung vom 16. Aug. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)), Ziff. I der V vom 21. Nov. 2018 ([AS 2018 4589](https://fedlex.data.admin.ch/eli/oc/2018/724)), Ziff. I 9 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)) und der Berichtigung vom 28. Juni 2022 ([AS 2022 378](https://fedlex.data.admin.ch/eli/oc/2022/378)).
 
 ### 1.1 System zur Unterstützung gerichtspolizeilicher Ermittlungen des Bundes (Art. 10 und 18 BPI)
 
@@ -957,15 +957,19 @@ Anhang 2*[^t-2]*
 <tr><td>UR + Stawa Kantone</td><td>P</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
 <tr><td>Überwachung Post- und Fernmeldeverkehr ÜPF (ISC-EJPD)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td><td>–</td></tr>
 <tr><td>Bundesamt für Justiz BJ, Direktionsbereich Intern. Rechtshilfe</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>–</td><td>–</td></tr>
-<tr><td colspan="13">**Bundesamt für Zoll und Grenzsicherheit****[^annex2-lvl1-lvl11-1]**</td></tr>
-<tr><td>Kommandobereich Operationen, Kdo GWK</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Einsatzzentralen, Reg. Kdos GWK</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Planung und Einsatz, Reg Kdo GWK</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Verbindungsbüro/CCPD, GWK</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Appl.- u. Prozessverantw. Kdo GWK</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Zollfahndung</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>WebredaktorIn GWK</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>D\*</td><td>–</td></tr>
-<tr><td>MitarbeiterIn</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td colspan="13">**Bundesamt für Zoll und Grenzsicherheit**</td></tr>
+<tr><td>Fachliche Anwendungsverantwortliche (FAV) Grenzkontrollsysteme</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Technische Anwendungsverantwortliche (TAV) Grenzkontrollsysteme</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td colspan="14">**DB Strafverfolgung**</td></tr>
+<tr><td>Mitarbeitende Vorermittlung und Zollfahndung</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td colspan="14">**DB Risikoanalyse**</td></tr>
+<tr><td>C Direktionsbereich</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Abteilung Risikoanalyse (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Abteilung Information und Lage (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Sektion Nachrichtennetzwerk (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td colspan="14">**DB Operationen**</td></tr>
+<tr><td>Einsatzzentralen (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Verbindungsbüros und CCPD (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
 <tr><td colspan="13">**Bundesanwaltschaft**</td></tr>
 <tr><td>Abteilung Staatsschutz und Spezialtatbestände / organisierte Kriminalität</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td></tr>
 <tr><td>Abteilung Wirtschaftskriminalität I + II</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td></tr>
@@ -1013,8 +1017,6 @@ Anhang 2*[^t-2]*
 </table>
 
 \* = nur Daten gleiche Organisationseinheit
-
-[^annex2-lvl1-lvl11-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 ### 1.2 System Bundesdelikte (Art. 11 und 18 BPI)
 
@@ -1111,38 +1113,38 @@ Anhang 2*[^t-2]*
 \* = nur Daten gleiche Organisationseinheit
 
 <table>
-<tr><th>Stelle</th><th colspan="2">PV</th><th></th><th>JO</th><th></th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th>Intranet</th><th></th><th>Blüte</th></tr>
-<tr><th></th><th>Personalien und Vorgänge</th><th colspan="2">Auswertung PV (intern)</th><th>Detail Telefonkontrolle</th><th>Detail Journal</th><th>Auswertung JO (intern)</th><th>Analyse (mit Analyse-Tool)</th><th>Polizeirapportierung</th><th>Ereignisprotokolle Tagesjournale</th><th>Geschäftskontrolle Aktenverwaltung</th><th>Mail</th><th>Polizeiliche Informationen</th><th>Falschgeldtypen und -techniken</th></tr>
-<tr><td colspan="14">**ISC – EJPD**</td></tr>
-<tr><td>SystementwicklerIn</td><td>D</td><td colspan="2">G</td><td>D</td><td>D</td><td>G</td><td>D</td><td>D</td><td>D</td><td>D</td><td>A</td><td>D</td><td>D</td></tr>
-<tr><td colspan="14">**Kantonale Polizeikorps der Schweiz**</td></tr>
-<tr><td>JANUS-SuperuserIn</td><td>D\*</td><td colspan="2">G</td><td>D\*</td><td>D\*</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>MA Polizeikorps</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>AnalystIn</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>AssistentIn Polizeikorps</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Übrige MA Polizeikorps (IT, Sekr. etc.)</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Log. + Admin. Unterstützung</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Kantonaler Webredaktor/-iIn</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>D\*</td><td>–</td></tr>
-<tr><td colspan="14">**Andere Behörden**</td></tr>
-<tr><td>UR + Stawa Bund</td><td>P</td><td colspan="2">–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>UR + Stawa Kantone</td><td>P</td><td colspan="2">–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Überwachung Post- und Fernmeldeverkehr ÜPF (ISC-EJPD)</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td><td>–</td></tr>
-<tr><td>Bundesamt für Justiz BJ, Direktionsbereich Intern. Rechtshilfe</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>–</td><td>–</td></tr>
-<tr><td colspan="14">**Bundesamt für Zoll und Grenzsicherheit**</td></tr>
-<tr><td>Fachliche Anwendungsverantwortliche (FAV) Grenzkontrollsysteme</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Technische Anwendungsverantwortliche (TAV) Grenzkontrollsysteme</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="14">**DB Strafverfolgung**</td></tr>
-<tr><td>Mitarbeitende Vorermittlung und Zollfahndung</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="14">**DB Risikoanalyse**</td></tr>
-<tr><td>C Direktionsbereich</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Abteilung Risikoanalyse (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Abteilung Information und Lage (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Sektion Nachrichtennetzwerk (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="14">**DB Operationen**</td></tr>
-<tr><td>Einsatzzentralen (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Verbindungsbüros und CCPD (C und Mitarbeitende)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="14">**Kantonale Behörden**</td></tr>
-<tr><td>Fremdenpolizei der Stadt Bern (FREPO Bern)</td><td>G</td><td colspan="2">G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><th>Stelle</th><th>PV</th><th></th><th>JO</th><th></th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th>Intranet</th><th></th><th>Blüte</th></tr>
+<tr><th></th><th>Personalien und Vorgänge</th><th>Auswertung PV (intern)</th><th>Detail Telefonkontrolle</th><th>Detail Journal</th><th>Auswertung JO (intern)</th><th>Analyse (mit Analyse-Tool)</th><th>Polizeirapportierung</th><th>Ereignisprotokolle Tagesjournale</th><th>Geschäftskontrolle Aktenverwaltung</th><th>Mail</th><th>Polizeiliche Informationen</th><th>Falschgeldtypen und -techniken</th></tr>
+<tr><td colspan="13">**ISC – EJPD**</td></tr>
+<tr><td>SystementwicklerIn</td><td>D</td><td>G</td><td>D</td><td>D</td><td>G</td><td>D</td><td>D</td><td>D</td><td>D</td><td>A</td><td>D</td><td>D</td></tr>
+<tr><td colspan="13">**Kantonale Polizeikorps der Schweiz**</td></tr>
+<tr><td>JANUS-SuperuserIn</td><td>D\*</td><td>G</td><td>D\*</td><td>D\*</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>MA Polizeikorps</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>AnalystIn</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>AssistentIn Polizeikorps</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Übrige MA Polizeikorps (IT, Sekr. etc.)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Log. + Admin. Unterstützung</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Kantonaler Webredaktor/-iIn</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>D\*</td><td>–</td></tr>
+<tr><td colspan="13">**Andere Behörden**</td></tr>
+<tr><td>UR + Stawa Bund</td><td>P</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>UR + Stawa Kantone</td><td>P</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Überwachung Post- und Fernmeldeverkehr ÜPF (ISC-EJPD)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td><td>–</td></tr>
+<tr><td>Bundesamt für Justiz BJ, Direktionsbereich Intern. Rechtshilfe</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>–</td><td>–</td></tr>
+<tr><td colspan="13">**Bundesamt für Zoll und Grenzsicherheit**</td></tr>
+<tr><td>Fachliche Anwendungsverantwortliche (FAV) Grenzkontrollsysteme</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Technische Anwendungsverantwortliche (TAV) Grenzkontrollsysteme</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td colspan="13">**DB Strafverfolgung**</td></tr>
+<tr><td>Mitarbeitende Vorermittlung und Zollfahndung</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td colspan="13">**DB Risikoanalyse**</td></tr>
+<tr><td>C Direktionsbereich</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Abteilung Risikoanalyse (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Abteilung Information und Lage (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Sektion Nachrichtennetzwerk (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td colspan="13">**DB Operationen**</td></tr>
+<tr><td>Einsatzzentralen (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Verbindungsbüros und CCPD (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td colspan="13">**Kantonale Behörden**</td></tr>
+<tr><td>Fremdenpolizei der Stadt Bern (FREPO Bern)</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
 </table>
 
 <table>
@@ -1277,32 +1279,36 @@ Anhang 2*[^t-2]*
 \* = nur Daten gleiche Organisationseinheit
 
 <table>
-<tr><th>Stelle</th><th colspan="2">PV</th><th></th><th>JO</th><th colspan="2"></th><th colspan="2"></th><th>AN</th><th>Intranet</th><th colspan="2"></th></tr>
-<tr><th></th><th>Personalien und Vorgänge</th><th colspan="2">Auswertung PV (intern)</th><th colspan="2">Detail Telefonkontrolle</th><th colspan="2">Detail Journal</th><th>Auswertung JO (intern)</th><th>Analyse (mit Analyse-Tool)</th><th colspan="2">Mail</th><th>Polizeiliche Informationen</th></tr>
-<tr><td colspan="13">**ISC – EJPD**</td></tr>
-<tr><td>SystementwicklerIn</td><td>D</td><td colspan="2">G</td><td colspan="2">D</td><td colspan="2">D</td><td>G</td><td>D</td><td colspan="2">A</td><td>D</td></tr>
-<tr><td colspan="13">**Kantonale Polizeikorps der Schweiz**</td></tr>
-<tr><td>JANUS-SuperuserIn</td><td>D\*</td><td colspan="2">G</td><td colspan="2">D\*</td><td colspan="2">D\*</td><td>G</td><td>G</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>MA Polizeikorps</td><td>A\*</td><td colspan="2">G</td><td colspan="2">A\*</td><td colspan="2">A\*</td><td>G</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>AnalystIn</td><td>A\*</td><td colspan="2">G</td><td colspan="2">A\*</td><td colspan="2">A\*</td><td>G</td><td>G</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>AssistentIn Polizeikorps</td><td>A\*</td><td colspan="2">G</td><td colspan="2">A\*</td><td colspan="2">A\*</td><td>G</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>Übrige MA Polizeikorps (IT, Sekr. etc.)</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>Log. + Admin. Unterstützung</td><td>P</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>–</td></tr>
-<tr><td>Kantonale/r Webredaktor/-In</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>D\*</td></tr>
-<tr><td colspan="13">**Andere Behörden**</td></tr>
-<tr><td>UR + Stawa Bund</td><td>P</td><td colspan="2">–</td><td colspan="2">G</td><td colspan="2">G</td><td>–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>UR + Stawa Kantone</td><td>P</td><td colspan="2">–</td><td colspan="2">G</td><td colspan="2">G</td><td>–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>Überwachung Post- und Fernmeldeverkehr ÜPF (ISC-EJPD)</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>–</td></tr>
-<tr><td>Bundesamt für Justiz BJ, Direktionsbereich Intern. Rechtshilfe</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>–</td></tr>
-<tr><td colspan="13">**Bundesamt für Zoll und Grenzsicherheit**</td></tr>
-<tr><td>Kommandobereich Operationen, Kdo GWK</td><td>P</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>Einsatzzentralen, Reg. Kdos GWK</td><td>P</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>Planung und Einsatz, Reg Kdo GWK</td><td>P</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>Verbindungsbüro/CCPD, GWK</td><td>P</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>Appl.- u. Prozessverantw. Kdo GWK</td><td>P</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>Zollfahndung</td><td>P</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
-<tr><td>WebredaktorIn GWK</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>D\*</td></tr>
-<tr><td>MitarbeiterIn</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">A</td><td>G</td></tr>
+<tr><th>Stelle</th><th>PV</th><th></th><th>JO</th><th></th><th></th><th>AN</th><th>Intranet</th><th></th></tr>
+<tr><th></th><th>Personalien und Vorgänge</th><th>Auswertung PV (intern)</th><th>Detail Telefonkontrolle</th><th>Detail Journal</th><th>Auswertung JO (intern)</th><th>Analyse (mit Analyse-Tool)</th><th>Mail</th><th>Polizeiliche Informationen</th></tr>
+<tr><td colspan="9">**ISC – EJPD**</td></tr>
+<tr><td>SystementwicklerIn</td><td>D</td><td>G</td><td>D</td><td>D</td><td>G</td><td>D</td><td>A</td><td>D</td></tr>
+<tr><td colspan="9">**Kantonale Polizeikorps der Schweiz**</td></tr>
+<tr><td>JANUS-SuperuserIn</td><td>D\*</td><td>G</td><td>D\*</td><td>D\*</td><td>G</td><td>G</td><td>A</td><td>G</td></tr>
+<tr><td>MA Polizeikorps</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
+<tr><td>AnalystIn</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>G</td><td>A</td><td>G</td></tr>
+<tr><td>AssistentIn Polizeikorps</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
+<tr><td>Übrige MA Polizeikorps (IT, Sekr. etc.)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
+<tr><td>Log. + Admin. Unterstützung</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Kantonale/r Webredaktor/-In</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>D\*</td></tr>
+<tr><td colspan="9">**Andere Behörden**</td></tr>
+<tr><td>UR + Stawa Bund</td><td>P</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
+<tr><td>UR + Stawa Kantone</td><td>P</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
+<tr><td>Überwachung Post- und Fernmeldeverkehr ÜPF (ISC-EJPD)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td>Bundesamt für Justiz BJ, Direktionsbereich Intern. Rechtshilfe</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
+<tr><td colspan="9">**Bundesamt für Zoll und Grenzsicherheit**</td></tr>
+<tr><td>Fachliche Anwendungsverantwortliche (FAV) Grenzkontrollsysteme</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
+<tr><td>Technische Anwendungsverantwortliche (TAV) Grenzkontrollsysteme</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
+<tr><td colspan="9">**DB Strafverfolgung**</td></tr>
+<tr><td>Mitarbeitende Vorermittlung und Zollfahndung</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
+<tr><td colspan="9">**DB Risikoanalyse**</td></tr>
+<tr><td>C Direktionsbereich</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
+<tr><td>Abteilung Risikoanalyse (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>A</td><td>G</td></tr>
+<tr><td>Abteilung Information und Lage (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>A</td><td>G</td></tr>
+<tr><td>Sektion Nachrichtennetzwerk (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>A</td><td>G</td></tr>
+<tr><td colspan="9">**DB Operationen**</td></tr>
+<tr><td>Einsatzzentralen (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
+<tr><td>Verbindungsbüros und CCPD (C und Mitarbeitende)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
 </table>
 
 <table>

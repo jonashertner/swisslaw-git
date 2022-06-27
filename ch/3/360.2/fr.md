@@ -3,11 +3,11 @@ sr: "360.2"
 title: Ordonnance du 15 octobre 2008 sur le Système national d’enquête (Ordonnance SNE)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/697"
 language: fr
-version: 2022-06-01
+version: 2022-06-28
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/697/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2008-697-20220601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/697/20220628/fr/xml/fedlex-data-admin-ch-eli-cc-2008-697-20220628-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20220628/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20220601/fr"
 
 (Ordonnance JANUS)
 
-du 15 octobre 2008 (Etat le 1<sup>er</sup> juin 2022)
+du 15 octobre 2008 (Etat le 28 juin 2022)
 
 Le Conseil fédéral suisse,
 
@@ -844,7 +844,7 @@ Annexe 2*[^t-2]*
 
 ## 1. Matrice d’accès de JANUS
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 17 déc. 2014 ([RO 2015 269](https://fedlex.data.admin.ch/eli/oc/2015/32)). Mise à jour par l’annexe 4 ch. II 6 de l’O du 16 août 2017 sur le renseignement ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)), le ch. I de l’O du 21 nov. 2018 ([RO 2018 4589](https://fedlex.data.admin.ch/eli/oc/2018/724)) et le ch. I 9 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 17 déc. 2014 ([RO 2015 269](https://fedlex.data.admin.ch/eli/oc/2015/32)). Mise à jour par l’annexe 4 ch. II 6 de l’O du 16 août 2017 sur le renseignement ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)), le ch. I de l’O du 21 nov. 2018 ([RO 2018 4589](https://fedlex.data.admin.ch/eli/oc/2018/724)), le ch. I 9 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)) et par l’erratum du 28 juin 2022 ([RO 2022 378](https://fedlex.data.admin.ch/eli/oc/2022/378)).
 
 ### 1.1 Système d’appui aux enquêtes de police judiciaire de la Confédération (art. 10 et 18 LSIP)
 
@@ -958,15 +958,19 @@ Annexe 2*[^t-2]*
 <tr><td>Juge d’instruction + Ministères publics cantonaux</td><td>P</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
 <tr><td>Surveillance de la correspondance par poste et télécommunication SCPT (CSI-DFJP)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">–</td><td>–</td></tr>
 <tr><td>Office fédéral de la justice (OFJ), Domaine de direction Entraide judiciaire internationale</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td colspan="2">–</td><td>–</td></tr>
-<tr><td>**Office fédéral de la douane et de la sécurité des frontières****[^annexu1-lvl1-lvl11-1]**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td>Domaine de commandement Opérations, cdmt Cgfr</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Centrales d’engagement, cdmts rég. Cgfr</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Planification et engagement, cdmt rég. Cgfr</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Bureau de liaison / CCPD, Cgfr</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Resp. applications et processus, cdmt Cgfr</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Antifraude douanière</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Rédacteur web Cgfr</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">D\*</td><td>–</td></tr>
-<tr><td>Collab.</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>**Office fédéral de la douane et de la sécurité des frontières**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td>Responsables spécialisés des applications (RSA) Systèmes de contrôle aux frontières</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Responsables techniques des applications (RTA) Systèmes de contrôle aux frontières</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>**DD Poursuites pénales**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td>Collaborateurs Enquête préliminaire et Antifraude douanière</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>-–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>**DD Analyse des données et des risques**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td>C Domaine de direction</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Division Analyse des risques et statistique (C et collaborateurs)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Division Information et situation (C et collaborateurs)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Section Réseau d’informations (C et collaborateurs)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>**DD Opérations**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td>Centrales d’engagement (C et collaborateurs)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Bureaux de liaison et CCPD (C et collaborateurs)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
 <tr><td>**Ministère public de la Confédération**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td></tr>
 <tr><td>Division Protection de l’État, délits spéciaux et crime organisé</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td colspan="2">D\*\*</td><td>D\*\*</td></tr>
 <tr><td>Divisions Criminalité économique I + II</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td colspan="2">D\*\*</td><td>D\*\*</td></tr>
@@ -1014,8 +1018,6 @@ Annexe 2*[^t-2]*
 </table>
 
 \* = seulement des données de la même unité organisationnelle
-
-[^annexu1-lvl1-lvl11-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ### 1.2 Système de traitement des données relatives aux infractions fédérales (art. 11 et 18 LSIP)
 
@@ -1296,14 +1298,18 @@ Annexe 2*[^t-2]*
 <tr><td>Surveillance de la correspondance par poste et télécommunication SCPT (CSI-DFJP)</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
 <tr><td>Office fédéral de la justice (OFJ), Domaine de direction Entraide judiciaire internationale</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
 <tr><td>**Office fédéral de la douane et de la sécurité des frontières**</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Domaine de commandement Opérations, cdmt Cgfr</td><td>P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td>Centrales d’engagement, cdmts rég. Cgfr</td><td>P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td>Planification et engagement, cdmt rég. Cgfr</td><td>P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td>Bureau de liaison / CCPD, Cgfr</td><td>P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td>Resp. applications et processus, cdmt Cgfr</td><td>P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td>Antifraude douanière</td><td>P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td>Rédacteur web Cgfr</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>D\*</td></tr>
-<tr><td>Collab.</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
+<tr><td>Responsables spécialisés des applications (RSA) Systèmes de contrôle aux frontières</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
+<tr><td>Responsables techniques des applications (RTA) Systèmes de contrôle aux frontières</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
+<tr><td>**DD Poursuites pénales**</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Collaborateurs Enquête préliminaire et Antifraude douanière</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
+<tr><td>**DD Analyse des données et des risques**</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>C Domaine de direction</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
+<tr><td>Division Analyse des risques et statistique (C et collaborateurs)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>A</td><td>G</td></tr>
+<tr><td>Division Information et situation (C et collaborateurs)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>A</td><td>G</td></tr>
+<tr><td>Section Réseau d’informations (C et collaborateurs)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>A</td><td>G</td></tr>
+<tr><td>**DD Opérations**</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Centrales d’engagement (C et collaborateurs)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
+<tr><td>Bureaux de liaison et CCPD (C et collaborateurs)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
 </table>
 
 <table>
