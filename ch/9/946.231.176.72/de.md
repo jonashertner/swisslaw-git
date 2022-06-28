@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2022-06-10
+version: 2022-06-29
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220610/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220610-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220610/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220629/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220629-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220629/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 10. Juni 2022)
+vom 4. März 2022 (Stand am 29. Juni 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -361,11 +361,38 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und, wo Fin
 
 **Feste fossile Brennstoffe**[^12-1]
 
-<sup>1</sup> Der Kauf, die Einfuhr, die Durchfuhr und der Transport von Kohle und anderen festen fossilen Brennstoffen gemäss Anhang 22 aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation sind verboten.
+<sup>1</sup> Der Kauf von Kohle und anderen festen fossilen Brennstoffen gemäss Anhang 22 aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation und die Einfuhr, die Durchfuhr und der Transport dieser Güter in und durch die Schweiz sind verboten.
 
-<sup>2</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Beratung, sowie die Gewährung von Finanzmitteln im Zusammenhang mit dem Kauf, der Einfuhr, der Durchfuhr, dem Transport, der Bereitstellung, der Herstellung oder der Verwendung von Kohle und anderen festen fossilen Brennstoffen aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation sind verboten.
+<sup>2</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Hilfe, sowie die Gewährung von Finanzmitteln im Zusammenhang mit dem Kauf, der Einfuhr, der Durchfuhr und dem Transport in und durch die Schweiz sowie mit der Bereitstellung, der Herstellung, der Wartung oder der Verwendung von Gütern nach Absatz 1 sind verboten.
 
-[^12-1]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^12-1]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+
+#### Art. 12a
+
+**Rohöl und Erdölerzeugnisse**[^12a-1]
+
+<sup>1</sup> Der Kauf, sofern die Schweiz der Bestimmungsort ist, die Einfuhr, die Durchfuhr und der Transport in und durch die Schweiz von Rohöl und Erdölerzeugnissen gemäss Anhang 24 aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation sind verboten.
+
+<sup>2</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Beratung, sowie die Gewährung von Finanzmitteln in Zusammenhang mit dem Kauf mit Bestimmungsort Schweiz, der Einfuhr, der Durchfuhr und dem Transport in und durch die Schweiz von Rohöl und Erdölerzeugnissen gemäss Anhang 24 aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation sind verboten.
+
+<sup>3</sup>
+
+Die Verbote nach den Absätzen 1 und 2 gelten nicht:
+
+- a. für auf dem Seeweg transportiertes Rohöl und Erdölerzeugnisse gemäss Anhang 24, wenn diese Güter lediglich durch die Russische Föderation transportiert werden und nicht in russischem Eigentum stehen;
+- b. für Rohöl und Erdölerzeugnisse gemäss Anhang 24 aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation, die rechtmässig in einen EU-Mitgliedstaat eingeführt werden.
+
+[^12a-1]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+
+#### Art. 12b
+
+**Dienstleistungen im Zusammenhang mit dem weltweiten Transport von Rohöl und Erdölerzeugnissen**[^12b-1]
+
+<sup>1</sup> Die Erbringung von technischer Hilfe, die Vermittlung und Finanzdienstleistungen sowie die Gewährung von Finanzmitteln im Zusammenhang mit dem Transport von Rohöl und Erdölerzeugnissen gemäss Anhang 24 aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation nach Staaten ausserhalb der Schweiz und der EU sind verboten.
+
+<sup>2</sup> Das Verbot nach Absatz 1 gilt nicht für Rohöl und Erdölerzeugnisse gemäss Anhang 24, wenn diese Güter lediglich durch die Russische Föderation transportiert werden und nicht in russischem Eigentum stehen.
+
+[^12b-1]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 
 #### Art. 13
 
@@ -421,14 +448,16 @@ Das Verbot nach Absatz 1 gilt nicht für Güter, die:
 
 **Wirtschaftlich bedeutende Güter**[^14c-1]
 
-<sup>1</sup> Der Kauf, die Einfuhr, die Durchfuhr und der Transport von für die Russische Föderation wirtschaftlich bedeutenden Gütern gemäss Anhang 20 aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation sind verboten.
+<sup>1</sup> Der Kauf von für die Russische Föderation wirtschaftlich bedeutenden Gütern gemäss Anhang 20 aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation und die Einfuhr, die Durchfuhr und der Transport dieser Güter in und durch die Schweiz sind verboten.[^14c-2]
 
-<sup>2</sup> Die unmittelbare oder mittelbare Erbringung von Dienstleistungen aller Art, einschliesslich technischer Hilfe und Vermittlung, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Gütern nach Absatz 1 oder mit dem Kauf, der Einfuhr, der Durchfuhr oder dem Transport sowie der Bereitstellung, der Herstellung, der Wartung oder der Verwendung dieser Güter ist verboten.
+<sup>2</sup> Die unmittelbare oder mittelbare Erbringung von Dienstleistungen aller Art, einschliesslich technischer Hilfe und Vermittlung, sowie die Gewährung von Finanzmitteln im Zusammenhang mit dem Kauf, der Einfuhr, der Durchfuhr und dem Transport in und durch die Schweiz sowie mit der Bereitstellung, der Herstellung, der Wartung oder der Verwendung von Gütern nach Absatz 1 sind verboten.[^14c-3]
 
-<sup>3</sup> Die Verbote nach den Absätzen 1 und 2 gelten nicht für die Einfuhrkontingente gemäss Anhang 21.[^14c-2]
+<sup>3</sup> Die Verbote nach den Absätzen 1 und 2 gelten nicht für die Einfuhrkontingente gemäss Anhang 21.[^14c-4]
 
 [^14c-1]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^14c-2]: Tritt am 29. Juli 2022 in Kraft ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^14c-2]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^14c-3]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^14c-4]: Tritt am 29. Juli 2022 in Kraft ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 ## 3. Abschnitt: Finanzielle Beschränkungen
 
@@ -447,7 +476,15 @@ Das Verbot nach Absatz 2 gilt nicht, wenn die Überweisung von Geldern oder das 
 - a. zur Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung im Zusammenhang mit der Situation in der Ukraine durch öffentliche Stellen oder Unternehmen und Organisationen, die für die Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung Beiträge des Bundes erhalten; oder
 - b. zur Erfüllung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen der Schweiz und zur Erfüllung offizieller Missionen des Bundes.[^15-1]
 
-<sup>4</sup> Das SECO kann ausnahmsweise Ausnahmen von den Verboten nach Absatz 2 bewilligen, um die Durchführung humanitärer Aktivitäten oder die Unterstützung der Zivilbevölkerung im Zusammenhang mit der Situation in der Ukraine zu ermöglichen.[^15-2]
+<sup>3bis</sup>
+
+Die Verbote nach den Absätzen 1 und 2 gelten zudem nicht, wenn die Freigabe gesperrter Gelder oder wirtschaftlicher Ressourcen, die Überweisung von Geldern oder das Zurverfügungstellen von Geldern oder wirtschaftlichen Ressourcen erforderlich ist für die Bereitstellung:
+
+- a. von Fernmeldediensten in der Russischen Föderation, in der Ukraine, in der Schweiz oder in einem Mitgliedstaat des EWR oder zwischen der Russischen Föderation und der Schweiz oder einem Mitgliedstaat des EWR oder zwischen der Ukraine und der Schweiz oder einem Mitgliedstaat des EWR durch eine Anbieterin mit Sitz in der Schweiz oder in einem Mitgliedstaat des EWR;
+- b. der für den Betrieb, die Wartung und die Sicherheit von Fernmeldediensten nach Buchstabe a erforderlichen zugehörigen Einrichtungen und Dienste;
+- c. von Rechenzentrumsdiensten in der Schweiz und in Mitgliedstaaten des EWR.[^15-2]
+
+<sup>4</sup> Das SECO kann ausnahmsweise Ausnahmen von den Verboten nach Absatz 2 bewilligen, um die Durchführung humanitärer Aktivitäten oder die Unterstützung der Zivilbevölkerung im Zusammenhang mit der Situation in der Ukraine zu ermöglichen.[^15-3]
 
 <sup>5</sup>
 
@@ -456,31 +493,32 @@ Das SECO kann ausnahmsweise Zahlungen aus gesperrten Konten, Übertragungen gesp
 - a. Vermeidung von Härtefällen;
 - b. Erfüllung bestehender Verträge;
 - c. Erfüllung von Forderungen, die Gegenstand einer bestehenden Entscheidung eines Gerichts, einer Verwaltungsstelle oder eines Schiedsgerichts sind;
-- d.[^15-3] Erfüllung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen;
+- d.[^15-4] Erfüllung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen;
 - e. Wahrung schweizerischer Interessen; oder
-- f. Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung im Zusammenhang mit der Situation in der Ukraine.[^15-4]
+- f. Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung im Zusammenhang mit der Situation in der Ukraine.[^15-5]
 
 <sup>5bis</sup>
 
 Das SECO kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen an eine natürliche oder juristische Person, ein Unternehmen oder eine Organisation gemäss Anhang 8 genehmigen, damit Eigentumsrechte an in der Schweiz oder in den EWR-Mitgliedstaaten niedergelassenen juristischen Personen, Unternehmen oder Organisationen bis zum 28. Oktober 2022 verkauft oder übertragen werden können, sofern:
 
 - a. diese Eigentumsrechte sich unmittelbar oder mittelbar im Besitz einer natürlichen oder juristischen Person, eines Unternehmens oder einer Organisation gemäss Anhang 8 befinden; und
-- b. die Erlöse aus dem Verkauf oder der Übertragung eingefroren bleiben.[^15-5]
+- b. die Erlöse aus dem Verkauf oder der Übertragung eingefroren bleiben.[^15-6]
 
-<sup>6</sup> Das SECO kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter den SSID-Nummern 175‑48057, 175‑48067 und 175‑48076 genannten Organisationen befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisationen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind, um Geschäfte, Verträge oder sonstige Vereinbarungen, einschliesslich der entsprechenden Bankbeziehungen, spätestens am 24. August 2022 zu beenden, die mit diesen Organisationen vor dem 23. Februar 2022 abgeschlossen wurden.[^15-6]
+<sup>6</sup> Das SECO kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter den SSID-Nummern 175‑48057, 175‑48067 und 175‑48076 genannten Organisationen befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisationen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind, um Geschäfte, Verträge oder sonstige Vereinbarungen, einschliesslich der entsprechenden Bankbeziehungen, spätestens am 24. August 2022 zu beenden, die mit diesen Organisationen vor dem 23. Februar 2022 abgeschlossen wurden.[^15-7]
 
-<sup>7</sup> Das SECO kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter den SSID-Nummern 175‑54306, 175‑54319, 175‑54329 und 175-54340 genannten Organisationen befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisationen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind, um Geschäfte, Verträge oder sonstige Vereinbarungen, einschliesslich der entsprechenden Bankbeziehungen, die mit diesen Organisationen vor dem 27. April 2022 abgeschlossen wurden, spätestens am 28. Oktober 2022 zu beenden.[^15-7]
+<sup>7</sup> Das SECO kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter den SSID-Nummern 175‑54306, 175‑54319, 175‑54329 und 175-54340 genannten Organisationen befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisationen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind, um Geschäfte, Verträge oder sonstige Vereinbarungen, einschliesslich der entsprechenden Bankbeziehungen, die mit diesen Organisationen vor dem 27. April 2022 abgeschlossen wurden, spätestens am 28. Oktober 2022 zu beenden.[^15-8]
 
-<sup>8</sup> Es bewilligt Ausnahmen nach den Absätzen 4‒7 nach Rücksprache mit den zuständigen Stellen des EDA und des EFD.[^15-8]
+<sup>8</sup> Es bewilligt Ausnahmen nach den Absätzen 4‒7 nach Rücksprache mit den zuständigen Stellen des EDA und des EFD.[^15-9]
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-2]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-3]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^15-4]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-5]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^15-6]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-7]: Eingefügt durch Ziff. I der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^15-8]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^15-2]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^15-3]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-4]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^15-5]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-6]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^15-7]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-8]: Eingefügt durch Ziff. I der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^15-9]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 #### Art. 16
 
@@ -620,10 +658,12 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD
 - a. zur Vermeidung von Härtefällen;
 - b. zu humanitären Zwecken oder zu Evakuierungszwecken;
 - c. für zivilgesellschaftliche Aktivitäten, welche die Demokratie, die Menschenrechte oder die Rechtsstaatlichkeit in der Russischen Föderation unmittelbar fördern;
+- c<sup>bis</sup>.[^20-2] zur Bezahlung von Gebühren oder Kosten für die routinemässige Verwahrung oder Verwaltung eingefrorener Gelder oder wirtschaftlicher Ressourcen;
 - d. zur Erfüllung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen oder internationaler Organisationen;
 - e. zur Wahrung schweizerischer Interessen.
 
 [^20-1]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^20-2]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 
 #### Art. 21
 
@@ -680,26 +720,29 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD
 Es ist verboten, unmittelbar oder mittelbar Geschäfte zu tätigen mit:
 
 - a. Banken, Unternehmen oder Organisationen mit Sitz in der Russischen Föderation gemäss Anhang 15;
-- b. Banken, Unternehmen oder Organisationen mit Sitz ausserhalb der Schweiz, die von Banken oder Unternehmen nach Buchstabe a zu über 50 Prozent beherrscht werden;
+- b.[^24a-2] Banken, Unternehmen oder Organisationen mit Sitz ausserhalb der Schweiz oder eines EWR-Mitgliedstaats, die von Banken oder Unternehmen nach Buchstabe a zu über 50 Prozent beherrscht werden;
 - c. Unternehmen und Organisationen, die im Namen oder auf Anweisung von Banken, Unternehmen oder Organisationen nach Buchstabe a oder b handeln.
 
 <sup>2</sup>
 
 Das Verbot nach Absatz 1 gilt nicht für:
 
-- a.[^24a-2] Transaktionen, die unbedingt erforderlich sind für den Kauf, die Einfuhr oder den Transport von Erdgas und Erdöl, einschliesslich raffinierter Erdölerzeugnisse, sowie von Titan, Aluminium, Kupfer, Nickel, Palladium und Eisenerz aus der Russischen Föderation oder durch die Russische Föderation in die Schweiz, einen EWR-Mitgliedstaat, nach Albanien, Bosnien und Herzegowina, in den Kosovo, nach Montenegro, Nordmazedonien oder Serbien;
+- a.[^24a-3] Transaktionen, die unbedingt erforderlich sind für den Kauf, die Einfuhr oder den Transport von Erdgas und Erdöl, einschliesslich raffinierter Erdölerzeugnisse, sowie von Titan, Aluminium, Kupfer, Nickel, Palladium und Eisenerz aus der Russischen Föderation oder durch die Russische Föderation in die Schweiz, einen EWR-Mitgliedstaat, nach Albanien, Bosnien und Herzegowina, in den Kosovo, nach Montenegro, Nordmazedonien oder Serbien;
 - b. Transaktionen im Zusammenhang mit Energieprojekten ausserhalb der Russischen Föderation, in denen Banken, Unternehmen oder Organisationen gemäss Anhang 15 Minderheitsgesellschafter sind;
 - c.
 
   Transaktionen, die getätigt werden:
 
   - 1\. zur Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung im Zusammenhang mit der Situation in der Ukraine durch öffentliche Stellen oder Unternehmen und Organisationen, die für die Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung Beiträge des Bundes erhalten, oder
-  - 2\. zur Erfüllung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen der Schweiz und zur Erfüllung offizieller Missionen des Bundes.
+  - 2\. zur Erfüllung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen der Schweiz und zur Erfüllung offizieller Missionen des Bundes;
+  - d.[^24a-4] Transaktionen im Zusammenhang mit der Bereitstellung von Fernmelde- oder Rechenzentrumsdiensten oder von Diensten und Ausrüstungen, die für den Betrieb, die Wartung und die Sicherheit der Fernmeldedienste erforderlich sind, einschliesslich der Bereitstellung von Firewalls und von Callcenter-Diensten, für eine Bank, ein Unternehmen oder eine Organisation nach Anhang 15.
 
 <sup>3</sup> Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD ausnahmsweise Ausnahmen vom Verbot nach Absatz 1 bewilligen, um die Durchführung humanitärer Aktivitäten oder die Unterstützung der Zivilbevölkerung im Zusammenhang mit der Situation in der Ukraine zu ermöglichen.
 
 [^24a-1]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^24a-2]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^24a-2]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^24a-3]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^24a-4]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 
 #### Art. 25
 
@@ -727,9 +770,11 @@ Das Verbot nach Absatz 1 gilt nicht für:
 
 #### Art. 27
 
-**Verbot der Bereitstellung spezialisierter Nachrichtenübermittlungsdienste für den Zahlungsverkehr**
+**Verbot der Bereitstellung spezialisierter Nachrichtenübermittlungsdienste für den Zahlungsverkehr**[^27-1]
 
-Ab dem 12. März 2022 ist es verboten, für Banken, Unternehmen oder Organisationen nach Anhang 14 oder Banken, Unternehmen oder Organisationen mit Sitz in der Russischen Föderation, die zu über 50 Prozent von Banken, Unternehmen oder Organisationen nach Anhang 14 beherrscht werden, spezialisierte Nachrichtenübermittlungsdienste für den Zahlungsverkehr bereitzustellen, die für den Austausch von Finanzdaten verwendet werden.
+Die Bereitstellung spezialisierter Nachrichtenübermittlungsdienste für den Zahlungsverkehr, die für den Austausch von Finanzdaten verwendet werden, für Banken, Unternehmen oder Organisationen nach Anhang 14 oder Banken, Unternehmen oder Organisationen mit Sitz in der Russischen Föderation, die zu über 50 Prozent von Banken, Unternehmen oder Organisationen nach Anhang 14 beherrscht werden, ist verboten.
+
+[^27-1]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 
 #### Art. 28
 
@@ -821,7 +866,7 @@ Die Errichtung eines Trusts oder einer ähnlichen Rechtsform und die Bereitstell
 - d. juristische Personen, Unternehmen oder Organisationen, die von einer der natürlichen oder juristischen Personen, Unternehmen oder Organisationen nach den Buchstaben a–c kontrolliert werden;
 - e. juristische Personen, Unternehmen oder Organisationen, die für eine natürliche oder juristische Person, ein Unternehmen oder eine Organisation nach den Buchstaben a–d handeln.
 
-<sup>2</sup> Es ist verboten, als Treuhänder, nomineller Anteilseigner, Geschäftsführer, Sekretär oder in einer ähnlichen Funktion für einen Trust oder ähnliche Rechtsform nach Absatz 1 zu handeln oder dies einer anderen Person zu ermöglichen.[^28d-2]
+<sup>2</sup> …[^28d-2]
 
 <sup>3</sup> Die Verbote nach den Absätzen 1 und 2 gelten nicht, wenn die Begründer oder Begünstigten Schweizer Staatsangehörige oder Staatsangehörige eines EWR-Mitgliedstaates sind oder über einen befristeten oder unbefristeten Aufenthaltstitel in der Schweiz oder einem EWR-Mitgliedstaat verfügen.
 
@@ -829,11 +874,35 @@ Die Errichtung eines Trusts oder einer ähnlichen Rechtsform und die Bereitstell
 
 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen für Dienstleistungen, die erforderlich sind für:
 
-- a. humanitäre Aktivitäten wie die Durchführung oder die Erleichterung von Hilfsleistungen, einschliesslich der Versorgung mit medizinischen Hilfsgütern und Nahrungsmitteln, des Transports humanitärer Helferinnen und Helfer und damit verbundener Hilfe oder Evakuierungen; oder
-- b. zivilgesellschaftliche Aktivitäten zur direkten Förderung der Demokratie, der Menschenrechte oder der Rechtsstaatlichkeit in der Russischen Föderation.
+- a. humanitäre Aktivitäten wie die Durchführung oder die Erleichterung von Hilfsleistungen, einschliesslich der Versorgung mit medizinischen Hilfsgütern und Nahrungsmitteln, des Transports humanitärer Helferinnen und Helfer und damit verbundener Hilfe oder Evakuierungen;
+- b. zivilgesellschaftliche Aktivitäten zur direkten Förderung der Demokratie, der Menschenrechte oder der Rechtsstaatlichkeit in der Russischen Föderation; oder
+- c. den Betrieb von Trusts oder ähnlichen Rechtsformen, deren Zweck die Verwaltung von Mitteln der beruflichen Vorsorge, Versicherungsverträgen oder Belegschaftsaktienprogrammen oder von gemeinnützigen Organisationen, Amateursportvereinen oder Fonds für Minderjährige oder vulnerable Erwachsene ist.[^28d-3]
 
 [^28d-1]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^28d-2]: In Kraft seit 29. Mai 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^28d-2]: Aufgehoben durch Ziff. I der V vom 29. Juni 2022, mit Wirkung vom 29. Juni 2022 um 18.00 Uhr bis zum 31. Juli 2022 ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^28d-3]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+
+#### Art. 28e
+
+**Verbote betreffend Dienstleistungen**[^28e-1]
+
+<sup>1</sup> 1 Die direkte und indirekte Erbringung von Dienstleistungen in den Bereichen Wirtschaftsprüfung, einschliesslich Abschlussprüfung, Buchführung und Steuerberatung, sowie Unternehmens- und Public-Relations-Beratung für die Regierung der Russischen Föderation oder in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen ist verboten.
+
+<sup>2</sup>
+
+Das Verbot nach Absatz 1 gilt nicht für:
+
+- a. Dienstleistungen, die für die Wahrnehmung des Rechts auf Verteidigung in Gerichtsverfahren oder des Rechts auf eine wirksame Beschwerde erforderlich sind;
+- b. Dienstleistungen, die zur ausschliesslichen Nutzung durch in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen bestimmt sind, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle einer juristischen Person, eines Unternehmens oder einer Organisation befinden, die oder das nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaats gegründet oder eingetragen ist.
+
+<sup>3</sup>
+
+Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen vom Verbot nach Absatz 1 bewilligen für Dienstleistungen, die erforderlich sind für:
+
+- a. humanitäre Aktivitäten wie die Durchführung oder die Erleichterung von Hilfsleistungen, einschliesslich der Versorgung mit medizinischen Hilfsgütern und Nahrungsmitteln, des Transports humanitärer Helferinnen und Helfer und damit verbundener Hilfe oder Evakuierungen;
+- b. zivilgesellschaftliche Aktivitäten zur direkten Förderung der Demokratie, der Menschenrechte oder der Rechtsstaatlichkeit in der Russischen Föderation.
+
+[^28e-1]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 
 ## 4. Abschnitt: Weitere Beschränkungen
 
@@ -879,6 +948,14 @@ Vom Verbot nach Absatz 1 ausgenommen sind:
 [^29a-1]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^29a-2]: [SR 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
 
+#### Art. 29b
+
+**Verbote betreffend Werbung in bestimmten russischen Medien**[^29b-1]
+
+Es ist verboten, Werbung für Produkte oder Dienstleistungen in Auftrag zu geben oder zu vermitteln, die in Radio- oder Fernsehprogrammen oder anderen elektronischen Inhalten übertragen oder verbreitet wird, die von einer juristischen Person, Organisation oder Einrichtung nach Anhang 25 erstellt oder gesendet werden. Dies gilt unabhängig von der Art der Übertragung oder Verbreitung der Inhalte.
+
+[^29b-1]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+
 #### Art. 30
 
 **Verbot der Erfüllung bestimmter Forderungen**
@@ -909,11 +986,14 @@ Es ist verboten, Forderungen zu erfüllen, wenn sie auf einen Vertrag oder ein G
 
 <sup>2bis</sup> Das BAZL überwacht den Vollzug von Artikel 29*a*.[^31-3]
 
+<sup>2ter</sup> Das Bundesamt für Kommunikation überwacht den Vollzug von Artikel 29*b.*[^31-4]
+
 <sup>3</sup> Die Kontrolle an der Grenze obliegt dem Bundesamt für Zoll und Grenzsicherheit.
 
 [^31-1]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^31-2]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 29. Juli 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^31-3]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^31-4]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 
 #### Art. 32
 
@@ -931,9 +1011,9 @@ Es ist verboten, Forderungen zu erfüllen, wenn sie auf einen Vertrag oder ein G
 
 **Veröffentlichung**[^33-1]
 
-Die Inhalte der Anhänge 1, 2, 8‒15 und 23 werden weder in der Amtlichen Sammlung noch in der Systematischen Sammlung des Bundesrechts veröffentlicht; sie können beim SECO bezogen werden.
+Die Inhalte der Anhänge 1, 2, 8‒15, 23 und 25 werden weder in der Amtlichen Sammlung noch in der Systematischen Sammlung des Bundesrechts veröffentlicht; sie können beim SECO bezogen werden.
 
-[^33-1]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^33-1]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 
 #### Art. 34
 
@@ -975,7 +1055,25 @@ Die Verordnung vom 27. August 2014[^34-1] über Massnahmen im Zusammenhang mit d
 
 <sup>14</sup> Artikel 28*c* Absatz 1 ist nicht auf Geschäfte anwendbar, die vor dem 28. April 2022 vertraglich vereinbart wurden und bis zum 29. Oktober 2022 erfüllt sind.[^35-10]
 
-<sup>15</sup> Artikel 28*d* Absätze 1 und 2 ist nicht auf Transaktionen anwendbar, die erforderlich sind, um vor dem 28. April 2022 geschlossene Verträge, die mit den Bestimmungen von Artikel 28*d* nicht vereinbar sind, bis zum 29. Mai 2022 zu beenden.[^35-11]
+<sup>15</sup>
+
+Artikel 12*a* Absätze 1 und 2 ist nicht anwendbar:
+
+- a. auf Geschäfte über den Kauf, die Einfuhr, die Durchfuhr oder den Transport von Gütern der Zolltarifnummer 2709 00, die vor dem 30. Juni 2022 vertraglich vereinbart wurden und bis zum 5. Dezember 2022 erfüllt sind, sowie auf kurzfristige einmalige Geschäfte gleichen Inhalts, die bis zum 5. Dezember 2022 erfüllt sind, sofern bestehende Verträge bis zum 21. Juli 2022 und kurzfristige einmalige Geschäfte innerhalb von 10 Tagen nach ihrer Vollendung dem SECO gemeldet werden;
+- b. auf Geschäfte über den Kauf, die Einfuhr, die Durchfuhr oder den Transport von Gütern der Zolltarifnummer 2710, die vor dem 30. Juni 2022 vertraglich vereinbart wurden und bis zum 5. Februar 2023 erfüllt sind, sowie auf kurzfristige einmalige Geschäfte gleichen Inhalts, die bis zum 5. Februar 2023 erfüllt sind, sofern bestehende Verträge bis zum 21. Juli 2022 und kurzfristige einmalige Geschäfte innerhalb von 10 Tagen nach ihrer Vollendung dem SECO gemeldet werden.[^35-11]
+
+<sup>16</sup> Artikel 12*b* Absatz 1 ist nicht auf Geschäfte anwendbar, die vor dem 30. Juni 2022 vertraglich vereinbart wurden und bis zum 5. Dezember 2022 erfüllt sind.[^35-12]
+
+<sup>17</sup>
+
+Artikel 24*a* Absatz 1 ist nicht anwendbar auf:
+
+- a. die Entgegennahme von Zahlungen, die von den Banken, Unternehmen oder Organisationen nach Artikel 24*a* Absatz 1 aufgrund von Verträgen geschuldet werden, die vor dem 15. Mai 2022 ausgeführt wurden;
+- b. Transaktionen, einschliesslich Verkäufe, die für die Abwicklung eines Joint Ventures oder einer ähnlichen Rechtsform, das oder die vor dem 26. März 2022 gegründet wurde und an dem oder der eine Bank, ein Unternehmen oder eine Organisation nach Artikel 24*a* Absatz 1 beteiligt ist, bis zum 1. Oktober 2022 erforderlich sind.[^35-13]
+
+<sup>18</sup> Artikel 28*d* Absatz 1 ist nicht auf Transaktionen anwendbar, die erforderlich sind, um vor dem 28. April 2022 geschlossene Verträge, die mit den Bestimmungen von Artikel 28*d* nicht vereinbar sind, bis zum 31. Juli 2022 zu beenden.[^35-14]
+
+<sup>19</sup> Artikel 28*e* Absatz 1 ist nicht auf die Erbringung von Dienstleistungen anwendbar, die erforderlich sind, um vor dem 30. Juni 2022 geschlossene Verträge, die mit den Bestimmungen von Artikel 28*e* nicht vereinbar sind, bis zum 31. Juli 2022 zu beenden.[^35-15]
 
 [^35-1]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^35-2]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
@@ -987,7 +1085,11 @@ Die Verordnung vom 27. August 2014[^34-1] über Massnahmen im Zusammenhang mit d
 [^35-8]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^35-9]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^35-10]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^35-11]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^35-11]: Eingefügt durch Ziff. I der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^35-12]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^35-13]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^35-14]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^35-15]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 
 #### Art. 36
 
@@ -2043,3 +2145,28 @@ Anhang 23*[^t-16]*
 
 [^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^annex23-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+
+Anhang 24*[^t-17]*
+
+(Art. 12*a* und 12*b*)
+
+## Rohöl und Erdölerzeugnisse
+
+[^t-17]: Eingefügt durch Ziff. II der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+
+<table>
+<tr><td>Zolltarifnummer</td><td>Bezeichnung</td></tr>
+<tr><td>2709 00</td><td>Erdöle oder Öle aus bituminösen Mineralien, roh.</td></tr>
+<tr><td>2710</td><td>Erdöle oder Öle aus bituminösen Mineralien, andere als rohe Öle; anderweit weder genannte noch inbegriffene Zubereitungen mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von 70 % oder mehr, in denen diese Öle den wesentlichen Bestandteil bilden; Ölabfälle.</td></tr>
+</table>
+
+Anhang 25*[^t-18]*
+
+(Art. 29*b*)
+
+## Russische Medien****
+
+[^annex25-lvlu1-1]
+
+[^t-18]: Eingefügt durch Ziff. II der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^annex25-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter [www.seco.admin.ch](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
