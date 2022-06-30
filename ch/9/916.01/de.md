@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Oktober 2011 über die Einfuhr von landwirtschaftlich
 short: AEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: de
-version: 2022-06-01
+version: 2022-07-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20220601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20220701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220601/de"
 
 (Agrareinfuhrverordnung, AEV)
 
-vom 26. Oktober 2011 (Stand am 1. Juni 2022)
+vom 26. Oktober 2011 (Stand am 1. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -769,7 +769,7 @@ Anhang 1*[^t-1]*
 
 ## Verzeichnis der anwendbaren Zollansätze bei der Einfuhr von landwirtschaftlichen Erzeugnissen mit Angabe der GEB-Pflicht, der Importrichtwerte und der Zuordnung zu den marktordnungsspezifischen Vorschriften, zu den Gruppen der Schwellenpreise sowie zu den Zoll- oder Teilzollkontingenten
 
-[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 23. Okt. 2013 ([AS 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)), Anhang der V vom 2. April 2014 ([AS 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)), Ziff. II der V vom 29. Okt. 2014 ([AS 2014 4001](https://fedlex.data.admin.ch/eli/oc/2014/673)), Anhang 3 Ziff. 11 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), Ziff. I der V des WBF vom 16. Sept. 2016 ([AS 2016 3319](https://fedlex.data.admin.ch/eli/oc/2016/563)), Ziff. II der V vom 26. Okt. 2016 ([AS 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)), Ziff. I der V des WBF vom 9. Juni 2017 ([AS 2017 3499](https://fedlex.data.admin.ch/eli/oc/2017/380)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), vom 30. Nov. 2018 ([AS 2018 4693](https://fedlex.data.admin.ch/eli/oc/2018/743)), Ziff. II der V vom 23. Okt. 2019 ([AS 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. II Abs. 1 der V vom 3. Nov. 2021 ([AS 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)), Ziff. I der V des BLW vom 17. Dez. 2021 ([AS 2021 921](https://fedlex.data.admin.ch/eli/oc/2021/921)) und vom 21. März 2022, in Kraft seit 1. April 2022 ([AS 2022 200](https://fedlex.data.admin.ch/eli/oc/2022/200)).
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 23. Okt. 2013 ([AS 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)), Anhang der V vom 2. April 2014 ([AS 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)), Ziff. II der V vom 29. Okt. 2014 ([AS 2014 4001](https://fedlex.data.admin.ch/eli/oc/2014/673)), Anhang 3 Ziff. 11 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), Ziff. I der V des WBF vom 16. Sept. 2016 ([AS 2016 3319](https://fedlex.data.admin.ch/eli/oc/2016/563)), Ziff. II der V vom 26. Okt. 2016 ([AS 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)), Ziff. I der V des WBF vom 9. Juni 2017 ([AS 2017 3499](https://fedlex.data.admin.ch/eli/oc/2017/380)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Ziff. I der V vom 30. Nov. 2018 ([AS 2018 4693](https://fedlex.data.admin.ch/eli/oc/2018/743)), Ziff. II der V vom 23. Okt. 2019 ([AS 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. II Abs. 1 der V vom 3. Nov. 2021 ([AS 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)) und Ziff. I der V des BLW vom 20. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 377](https://fedlex.data.admin.ch/eli/oc/2022/377)).
 
 ### 1. Marktordnung Tiere der Pferdegattung
 
@@ -1887,7 +1887,7 @@ Die Bandbreite beträgt für die in diesem Anhang aufgeführten Schwellenpreise 
 <tr><td>0708.9010</td><td colspan="2">Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
 <tr><td>0709.9991</td><td colspan="2">Gruppe 3</td><td>37.00</td><td>[14-6]</td></tr>
 <tr><td>0712.9070</td><td colspan="2">Gruppe 3</td><td>37.00</td><td>[14-6]</td></tr>
-<tr><td>0713.1011</td><td colspan="2">39.00</td><td>39.00</td><td>[14-1.1] [14-6]</td></tr>
+<tr><td>**0713.1011**</td><td colspan="2">**39.00**</td><td>**39.00**</td><td>**[14-1.1] [14-6]**</td></tr>
 <tr><td>0713.1012</td><td colspan="2">Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
 <tr><td>0713.1091</td><td colspan="2">Gruppe 1</td><td>39.00</td><td>[14-6]</td></tr>
 <tr><td>0713.2011</td><td colspan="2">Gruppe 1</td><td>39.00</td><td>[14-6]</td></tr>
@@ -1956,11 +1956,11 @@ Die Bandbreite beträgt für die in diesem Anhang aufgeführten Schwellenpreise 
 <tr><td>1002.9031</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
 <tr><td>1002.9039</td><td colspan="2">Gruppe 3</td><td>37.00</td><td>[14-6]</td></tr>
 <tr><td>1002.9040</td><td colspan="2">Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>1003.1000</td><td colspan="2">78.00</td><td>78.00</td><td>[14 1.2] zur Aussaat, keine GEB-Pflicht</td></tr>
+<tr><td>**1003.1000**</td><td colspan="2">**78.00**</td><td>**78.00**</td><td>**[14 1.2] zur Aussaat, keine GEB-Pflicht**</td></tr>
 <tr><td>1003.9020</td><td colspan="2">Gruppe 3</td><td></td><td>[14-6]</td></tr>
 <tr><td>1003.9030</td><td colspan="2">Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
 <tr><td>1003.9051</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
-<tr><td>1003.9059</td><td colspan="2">36.00</td><td>36.00</td><td>[14-1.3] [14-6]</td></tr>
+<tr><td>**1003.9059**</td><td colspan="2">**36.00**</td><td>**36.00**</td><td>**[14-1.3] [14-6]**</td></tr>
 <tr><td>1003.9060</td><td colspan="2">Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
 <tr><td>1004.1000</td><td colspan="2">Gruppe 2</td><td>86.00</td><td>zur Aussaat, keine GEB-Pflicht</td></tr>
 <tr><td>1004.9031</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
@@ -2050,7 +2050,7 @@ Die Bandbreite beträgt für die in diesem Anhang aufgeführten Schwellenpreise 
 <tr><td>1108.1912</td><td colspan="2">Gruppe 11</td><td>41.00</td><td>[14-6]</td></tr>
 <tr><td>1108.1992</td><td colspan="2">Gruppe 11</td><td>41.00</td><td>[14-6]</td></tr>
 <tr><td>1108.2020</td><td colspan="2">Gruppe 11</td><td>36.00</td><td>[14-6]</td></tr>
-<tr><td>1201.9010</td><td colspan="2">50.00</td><td>50.00</td><td>[14-1.4] [14-6]</td></tr>
+<tr><td>**1201.9010**</td><td colspan="2">**50.00**</td><td>**50.00**</td><td>**[14-1.4]** **[14-6]**</td></tr>
 <tr><td>1201.9021</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
 <tr><td>1201.9023</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
 <tr><td>1201.9024</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
@@ -2193,11 +2193,11 @@ Die Bandbreite beträgt für die in diesem Anhang aufgeführten Schwellenpreise 
 <tr><td>1212.9920</td><td colspan="2">Gruppe 5</td><td>40.00</td><td>[14-6]</td></tr>
 <tr><td>1213.0091</td><td colspan="2">Gruppe 5</td><td>10.00</td><td>keine GEB-Pflicht</td></tr>
 <tr><td>1213.0099</td><td colspan="2">Gruppe 5</td><td>14.00</td><td>[14-6]</td></tr>
-<tr><td>1214.1010</td><td colspan="2">32.00</td><td>32.00</td><td>[14-1.5] [14-6]</td></tr>
+<tr><td>**1214.1010**</td><td colspan="2">**32.00**</td><td>**32.00**</td><td>**[14-1.5]** **[14-6]**</td></tr>
 <tr><td>1214.9011</td><td colspan="2">Gruppe 5</td><td>25.00</td><td>keine GEB-Pflicht</td></tr>
 <tr><td>1214.9019</td><td colspan="2">Gruppe 5</td><td>33.00</td><td>[14-6]</td></tr>
 <tr><td>1404.9010</td><td colspan="2">Gruppe 5</td><td>35.00</td><td>[14-6]</td></tr>
-<tr><td>1501.1011</td><td colspan="2">60.00</td><td>60.00</td><td>[14-1.6] [14-6]</td></tr>
+<tr><td>**1501.1011**</td><td colspan="2">**60.00**</td><td>**60.00**</td><td>**[14-1.6]** **[14-6]**</td></tr>
 <tr><td>1501.1019</td><td colspan="2">Gruppe 6</td><td>60.00</td><td>[14-6]</td></tr>
 <tr><td>1501.2011</td><td colspan="2">Gruppe 6</td><td>60.00</td><td>[14-6]</td></tr>
 <tr><td>1501.2019</td><td colspan="2">Gruppe 6</td><td>60.00</td><td>[14-6]</td></tr>
@@ -2267,7 +2267,7 @@ Die Bandbreite beträgt für die in diesem Anhang aufgeführten Schwellenpreise 
 <tr><td>1518.0011</td><td colspan="2">Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
 <tr><td>1518.0081</td><td colspan="2">Gruppe 6</td><td>56.00</td><td>[14-6]</td></tr>
 <tr><td>1518.0093</td><td colspan="2">Gruppe 6</td><td>61.00</td><td>[14-6]</td></tr>
-<tr><td>1702.3021</td><td colspan="2">40.00</td><td>40.00</td><td>[14-1.7] [14-6]</td></tr>
+<tr><td>**1702.3021**</td><td colspan="2">**40.00**</td><td>**40.00**</td><td>**[14-1.7] [14-6]**</td></tr>
 <tr><td>1702.3033</td><td colspan="2">Gruppe 7</td><td>40.00</td><td>[14-6]</td></tr>
 <tr><td>1702.4011</td><td colspan="2">Gruppe 7</td><td>40.00</td><td>[14-6]</td></tr>
 <tr><td>1702.6022</td><td colspan="2">Gruppe 7</td><td>34.00</td><td>[14-6]</td></tr>
@@ -2276,7 +2276,7 @@ Die Bandbreite beträgt für die in diesem Anhang aufgeführten Schwellenpreise 
 <tr><td>1802.0010</td><td colspan="2">Gruppe 5</td><td>22.00</td><td>[14-6]</td></tr>
 <tr><td>1905.9021</td><td colspan="2">Gruppe 11</td><td>47.00</td><td>[14-6]</td></tr>
 <tr><td>2102.1091</td><td colspan="2">Gruppe 8</td><td>49.00</td><td>[14-6]</td></tr>
-<tr><td>2102.2011</td><td colspan="2">49.00</td><td>49.00</td><td>[14-1.8] [14-6]</td></tr>
+<tr><td>**2102.2011**</td><td colspan="2">**49.00**</td><td>**49.00**</td><td>**[14-1.8] [14-6]**</td></tr>
 <tr><td>2102.2021</td><td colspan="2">Gruppe 8</td><td>52.00</td><td>[14-6]</td></tr>
 <tr><td>2103.3011</td><td colspan="2">Gruppe 4</td><td>28.00</td><td>[14-6]</td></tr>
 <tr><td>2301.1011</td><td colspan="2">Gruppe 9</td><td>61.00</td><td>[14-6]</td></tr>
@@ -2287,12 +2287,12 @@ Die Bandbreite beträgt für die in diesem Anhang aufgeführten Schwellenpreise 
 <tr><td>2302.4030</td><td colspan="2">Gruppe 11</td><td>35.00</td><td>[14-6]</td></tr>
 <tr><td>2302.4091</td><td colspan="2">Gruppe 11</td><td>35.00</td><td>[14-6]</td></tr>
 <tr><td>2302.5010</td><td colspan="2">Gruppe 11</td><td>30.00</td><td>[14-6]</td></tr>
-<tr><td>2303.1011</td><td colspan="2">59.00</td><td>59.00</td><td>[14-1.9] [14-6]</td></tr>
+<tr><td>**2303.1011**</td><td colspan="2">**59.00**</td><td>**59.00**</td><td>**[14-1.9] [14-6]**</td></tr>
 <tr><td>2303.1012</td><td colspan="2">Gruppe 9</td><td>28.00</td><td>[14-6]</td></tr>
 <tr><td>2303.1018</td><td colspan="2">Gruppe 9</td><td>51.00</td><td>[14-6]</td></tr>
 <tr><td>2303.2010</td><td colspan="2">Gruppe 9</td><td>34.00</td><td>[14-6]</td></tr>
 <tr><td>2303.3010</td><td colspan="2">Gruppe 9</td><td>34.00</td><td>[14-6]</td></tr>
-<tr><td>2304.0010</td><td colspan="2">45.00</td><td>45.00</td><td>[14-1.10] [14-6]</td></tr>
+<tr><td>**2304.0010**</td><td colspan="2">**45.00**</td><td>**45.00**</td><td>**[14-1.10]** **[14-6]**</td></tr>
 <tr><td>2305.0010</td><td colspan="2">Gruppe 10</td><td>47.00</td><td>[14-6]</td></tr>
 <tr><td>2306.1010</td><td colspan="2">Gruppe 10</td><td>34.00</td><td>[14-6]</td></tr>
 <tr><td>2306.2010</td><td colspan="2">Gruppe 10</td><td>31.00</td><td>[14-6]</td></tr>
@@ -2313,7 +2313,7 @@ Die Bandbreite beträgt für die in diesem Anhang aufgeführten Schwellenpreise 
 <tr><td>2309.9081</td><td colspan="2">[14-4]</td><td></td><td>[14-6]</td></tr>
 <tr><td>2309.9082</td><td colspan="2">[14-4]</td><td></td><td>[14-6]</td></tr>
 <tr><td>2309.9089</td><td colspan="2">[14-4]</td><td></td><td>[14-6]</td></tr>
-<tr><td>3505.1010</td><td colspan="2">41.00</td><td>41.00</td><td>[14-1.11] [14-6]</td></tr>
+<tr><td>**3505.1010**</td><td colspan="2">**41.00**</td><td>**41.00**</td><td>**[14-1.11] [14-6]**</td></tr>
 <tr><td>3505.2010</td><td colspan="2">Gruppe 11</td><td>51.00</td><td>[14-6]</td></tr>
 <tr><td>3809.1010</td><td colspan="2">Gruppe 11</td><td>41.00</td><td>[14-6]</td></tr>
 <tr><td>3823.1110</td><td colspan="2">Gruppe 6</td><td>64.00</td><td>[14-6]</td></tr>
@@ -2417,63 +2417,63 @@ Spezifische Vorschriften: Die Verteilung der Zollkontingente ist in den Artikeln
 <tr><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto **[1]** (CHF)</th><th></th><th>Anzahl kg brutto ohne GEB-Pflicht</th><th>Zollkontingent (Nr)</th><th>Ergänzungen</th></tr>
 <tr><td>1001.1921</td><td>**1.00**</td><td></td><td>[15-2]</td><td>26</td><td></td></tr>
 <tr><td>1001.1929</td><td>**30.00**</td><td></td><td>keine GEB-Pflicht</td><td></td><td></td></tr>
-<tr><td>1001.9921</td><td>**1.60**</td><td></td><td>[15-2]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td>1001.9921</td><td>**5.60**</td><td></td><td>[15-2]</td><td>27</td><td>[15-1]</td></tr>
 <tr><td>1001.9929</td><td>**40.00**</td><td></td><td>keine GEB-Pflicht</td><td></td><td></td></tr>
-<tr><td>1002.9021</td><td>**1.60**</td><td></td><td>[15-2]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td>1002.9021</td><td>**5.60**</td><td></td><td>[15-2]</td><td>27</td><td>[15-1]</td></tr>
 <tr><td>1002.9029</td><td>**40.00**</td><td></td><td>keine GEB-Pflicht</td><td></td><td></td></tr>
-<tr><td>1003.9041</td><td>Anhang 2</td><td></td><td>keine GEB-Pflicht</td><td>28</td><td>[15-1]</td></tr>
+<tr><td>1003.9041</td><td>*Anhang 2*</td><td></td><td>keine GEB-Pflicht</td><td>28</td><td>[15-1]</td></tr>
 <tr><td>1003.9049</td><td>**20.00**</td><td></td><td>keine GEB-Pflicht</td><td></td><td></td></tr>
-<tr><td>1004.9021</td><td>Anhang 2</td><td></td><td>keine GEB-Pflicht</td><td>28</td><td>[15-1]</td></tr>
+<tr><td>1004.9021</td><td>*Anhang 2*</td><td></td><td>keine GEB-Pflicht</td><td>28</td><td>[15-1]</td></tr>
 <tr><td>1004.9029</td><td>**20.00**</td><td></td><td>keine GEB-Pflicht</td><td></td><td></td></tr>
-<tr><td>1005.9021</td><td>Anhang 2</td><td></td><td>keine GEB-Pflicht</td><td>28</td><td>[15-1]</td></tr>
+<tr><td>1005.9021</td><td>*Anhang 2*</td><td></td><td>keine GEB-Pflicht</td><td>28</td><td>[15-1]</td></tr>
 <tr><td>1005.9029</td><td>**20.00**</td><td></td><td>keine GEB-Pflicht</td><td></td><td></td></tr>
-<tr><td>1007.9021</td><td>**1.60**</td><td></td><td>[15-2]</td><td>27</td><td>[15-1]</td></tr>
-<tr><td>1008.1021</td><td>**1.60**</td><td></td><td>[15-2]</td><td>27</td><td>[15-1]</td></tr>
-<tr><td>1008.2921</td><td>**1.60**</td><td></td><td>[15-2]</td><td>27</td><td>[15-1]</td></tr>
-<tr><td>1008.4021</td><td>**1.60**</td><td></td><td>[15-2]</td><td>27</td><td>[15-1]</td></tr>
-<tr><td>1008.5021</td><td>**1.60**</td><td></td><td>[15-2]</td><td>27</td><td>[15-1]</td></tr>
-<tr><td>1008.6031</td><td>**1.60**</td><td></td><td>[15-2]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td>1007.9021</td><td>**5.60**</td><td></td><td>[15-2]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td>1008.1021</td><td>**5.60**</td><td></td><td>[15-2]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td>1008.2921</td><td>**5.60**</td><td></td><td>[15-2]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td>1008.4021</td><td>**5.60**</td><td></td><td>[15-2]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td>1008.5021</td><td>**5.60**</td><td></td><td>[15-2]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td>1008.6031</td><td>**5.60**</td><td></td><td>[15-2]</td><td>27</td><td>[15-1]</td></tr>
 <tr><td>1008.6039</td><td>**40.00**</td><td></td><td>keine GEB-Pflicht</td><td></td><td></td></tr>
-<tr><td>1008.9023</td><td>**1.60**</td><td></td><td>[15-2]</td><td>27</td><td>[15-1]</td></tr>
-<tr><td>1101.0043</td><td>**30.70**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1101.0048</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1102.2010</td><td>Anhang 2</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1102.9011</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1102.9044</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1008.9023</td><td>**5.60**</td><td></td><td>[15-2]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td>1101.0043</td><td>**38.30**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1101.0048</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1102.2010</td><td>*Anhang 2*</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1102.9011</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1102.9044</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
 <tr><td>1102.9051</td><td>**25.60**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1102.9061</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1102.9061</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
 <tr><td>1103.1119</td><td>**23.40**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1103.1199</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1103.1390</td><td>Anhang 2</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1103.1919</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1103.1929</td><td>Anhang 2</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1103.1199</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1103.1390</td><td>*Anhang 2*</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1103.1919</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1103.1929</td><td>*Anhang 2*</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
 <tr><td>1103.1939</td><td>**26.10**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1103.1992</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1103.1999</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1103.2019</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1103.2029</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1103.2099</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.1290</td><td>Anhang 2</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.1919</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.1929</td><td>Anhang 2</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.1992</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.1999</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.2220</td><td>Anhang 2</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.2390</td><td>Anhang 2</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.2913</td><td>**28.00**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.2918</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.2922</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.2932</td><td>Anhang 2</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.2992</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.2999</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.3089</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1107.1012</td><td>**27.50**</td><td></td><td>[15-2]</td><td></td><td>[15-1]</td></tr>
-<tr><td>1107.1092</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1107.1093</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1107.2012</td><td>**27.50**</td><td></td><td>[15-2]</td><td></td><td>[15-1]</td></tr>
-<tr><td>1107.2092</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1107.2093</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1107.2099</td><td>**27.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1103.1992</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1103.1999</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1103.2019</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1103.2029</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1103.2099</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.1290</td><td>*Anhang 2*</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.1919</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.1929</td><td>*Anhang 2*</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.1992</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.1999</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.2220</td><td>*Anhang 2*</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.2390</td><td>*Anhang 2*</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.2913</td><td>**33.70**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.2918</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.2922</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.2932</td><td>*Anhang 2*</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.2992</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.2999</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.3089</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1107.1012</td><td>**32.80**</td><td></td><td>[15-2]</td><td></td><td>[15-1]</td></tr>
+<tr><td>1107.1092</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1107.1093</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1107.2012</td><td>**32.80**</td><td></td><td>[15-2]</td><td></td><td>[15-1]</td></tr>
+<tr><td>1107.2092</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1107.2093</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1107.2099</td><td>**32.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
 <tr><td>1201.9099</td><td>**0.10**</td><td></td><td>keine GEB-Pflicht</td><td></td><td></td></tr>
 <tr><td>1202.4199</td><td>**0.10**</td><td></td><td>keine GEB-Pflicht</td><td></td><td></td></tr>
 <tr><td>1202.4299</td><td>**0.10**</td><td></td><td>keine GEB-Pflicht</td><td></td><td></td></tr>
@@ -2900,7 +2900,7 @@ Anhang 3*[^t-3]*
 
 ## Zoll- und Teilzollkontingente
 
-[^t-3]: Bereinigt gemäss Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. I der V vom 17. Sept. 2021 ([AS 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), der Berichtigung vom 18. Okt. 2021 (AS 2**021** 617), Ziff. III der V des BLW vom 30. Aug. 2021 ([AS 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)), Ziff. I der V des BLW vom 17. Nov. 2021 ([AS 2021 797](https://fedlex.data.admin.ch/eli/oc/2021/797)), vom 3. Febr. 2022 ([AS 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), vom 1. Febr. 2022 ([AS 2022 116](https://fedlex.data.admin.ch/eli/oc/2022/116)), vom 15. März 2022 ([AS 2022 185](https://fedlex.data.admin.ch/eli/oc/2022/185)), Ziff. I Abs. 1 der V vom 30. März 2022 ([AS 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)) und Ziff. I der V des BLW vom 20. April 2022, in Kraft seit 15. Mai 2022 ([AS 2022 280](https://fedlex.data.admin.ch/eli/oc/2022/280)).
+[^t-3]: Bereinigt gemäss Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. III der V des BLW vom 30. Aug. 2021 ([AS 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)), Ziff. I der V vom 17. Sept. 2021 ([AS 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), der Berichtigung vom 18. Okt. 2021 ([AS 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), Ziff. I der V des BLW vom 17. Nov. 2021 ([AS 2021 797](https://fedlex.data.admin.ch/eli/oc/2021/797)), vom 3. Febr. 2022 ([AS 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), vom 1. Febr. 2022 ([AS 2022 116](https://fedlex.data.admin.ch/eli/oc/2022/116)), vom 15. März 2022 ([AS 2022 185](https://fedlex.data.admin.ch/eli/oc/2022/185)), Ziff. I Abs. 1 der V vom 30. März 2022 ([AS 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), Ziff. I der V des BLW vom 20. April 2022 ([AS 2022 280](https://fedlex.data.admin.ch/eli/oc/2022/280)), vom 14. Juni 2022 ([AS 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)) und Ziff. I Abs. 1 der V vom 10. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)).
 
 ### 1. Marktordnung Tiere der Pferdegattung
 
@@ -2981,6 +2981,7 @@ Anhang 3*[^t-3]*
 <tr><td>07.4</td><td>Butter und andere Fettstoffe aus der Milch</td><td>100</td></tr>
 <tr><td>07.4.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: ab 15. Februar bis 31. Dezember 2022</td><td>1000</td></tr>
 <tr><td>07.4.2</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: ab 1. April bis 31. Dezember 2022</td><td>2000</td></tr>
+<tr><td>07.4.3</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: ab 1. Juli bis 31. Dezember 2022</td><td>**1000**</td></tr>
 <tr><td>07.5</td><td>«Fontalkontingent»</td><td>**2624**</td></tr>
 <tr><td></td><td></td><td>[4]</td></tr>
 <tr><td>07.6</td><td>Übrige Milchprodukte</td><td>**[5]**</td></tr>
@@ -3017,18 +3018,18 @@ Anhang 3*[^t-3]*
 <table>
 <tr><th>Nummer des Zollkontingents</th><th>Erzeugnis</th><th>Umfang des Zollkontingents (Tonnen)</th></tr>
 <tr><th>**[1]**</th><th>**[1]**</th><th>**[1]**</th></tr>
-<tr><td>14</td><td>Kartoffeln und Kartoffelprodukte, in Kartoffeläquivalenten, davon:</td><td>**23 750**</td></tr>
-<tr><td>14.1</td><td>Saatkartoffeln</td><td>**4000**</td></tr>
-<tr><td>14.1.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: 1. Januar bis 31. Dezember 2022</td><td>3000</td></tr>
-<tr><td>14.2</td><td>Veredelungskartoffeln</td><td>**9250**</td></tr>
-<tr><td>14.2.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: 1. Januar bis 30. Juni 2022</td><td>25 000</td></tr>
-<tr><td>14.2.2</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: 1. März bis 30. Juni 2022</td><td>**20 000**</td></tr>
-<tr><td>14.3</td><td>Speisekartoffeln</td><td>**6500**</td></tr>
-<tr><td>14.3.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: 1. März bis 15. Juli 2022</td><td>**20 000**</td></tr>
-<tr><td>14.3.2</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: 15. Mai bis 31. Juli 2022</td><td>**5000**</td></tr>
-<tr><td>14.4</td><td>Kartoffelprodukte, davon:</td><td>**4000**</td></tr>
-<tr><td>14.4.1</td><td>Warenkategorie Halbfabrikate</td><td>**1500**</td></tr>
-<tr><td>14.4.2</td><td>Warenkategorie Fertigprodukte</td><td>**2500**</td></tr>
+<tr><td>**14**</td><td>**Kartoffeln und Kartoffelprodukte, in Kartoffeläquivalenten, davon:**</td><td>**23 750**</td></tr>
+<tr><td>**14.1**</td><td>**Saatkartoffeln**</td><td>**4000**</td></tr>
+<tr><td>**14.1.1**</td><td>**Vorübergehende Erhöhung des Teilzollkontingents für 2022: 1. Januar bis 31. Dezember 2022**</td><td>**3000**</td></tr>
+<tr><td>**14.2**</td><td>**Veredelungskartoffeln**</td><td>**9250**</td></tr>
+<tr><td>**14.2.1**</td><td>**Vorübergehende Erhöhung des Teilzollkontingents für 2022: 1. Januar bis 30. Juni 2022**</td><td>**25 000**</td></tr>
+<tr><td>**14.2.2**</td><td>**Vorübergehende Erhöhung des Teilzollkontingents für 2022: 1. März bis 30. Juni 2022**</td><td>**20 000**</td></tr>
+<tr><td>**14.3**</td><td>**Speisekartoffeln**</td><td>**6500**</td></tr>
+<tr><td>**14.3.1**</td><td>**Vorübergehende Erhöhung des Teilzollkontingents für 2022: 1. März bis 15. Juli 2022**</td><td>**20 000**</td></tr>
+<tr><td>**14.3.2**</td><td>**Vorübergehende Erhöhung des Teilzollkontingents für 2022: 15. Mai bis 31. Juli 2022**</td><td>**5000**</td></tr>
+<tr><td>**14.4**</td><td>**Kartoffelprodukte, davon:**</td><td>**4000**</td></tr>
+<tr><td>**14.4.1**</td><td>**Warenkategorie Halbfabrikate**</td><td>**1500**</td></tr>
+<tr><td>**14.4.2**</td><td>**Warenkategorie Fertigprodukte**</td><td>**2500**</td></tr>
 <tr><td colspan="3">**[1]** **Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verteilende Kontingentsmenge angerechnet.**</td></tr>
 </table>
 
@@ -3074,16 +3075,17 @@ Anhang 3*[^t-3]*
 ### 12. Marktordnungen Hartweizen, Brot- und Grobgetreide
 
 <table>
-<tr><th>Nummer des Zollkontingents</th><th>Erzeugnis</th><th>Umfang des Zollkontingents (Tonnen)</th></tr>
-<tr><th></th><th></th><th>**[1]**</th></tr>
-<tr><td>26</td><td>Hartweizen, zur menschlichen Ernährung</td><td>110 000</td></tr>
-<tr><td></td><td></td><td>**[2]**</td></tr>
-<tr><td>27</td><td>Brotgetreide</td><td>70 000</td></tr>
-<tr><td></td><td></td><td>**[2]**</td></tr>
-<tr><td>27.1</td><td>Vorübergehende Erhöhung des Zollkontingents für 2022</td><td>40 000</td></tr>
-<tr><td>28</td><td>Grobgetreide zur menschlichen Ernährung</td><td>70 000</td></tr>
-<tr><td></td><td></td><td>**[2]**</td></tr>
-<tr><td colspan="4">[tab] **[1] Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verteilende Kontingentsmenge angerechnet.** [tab] **[2] Die Überschreitung der Zollkontingentsmenge ist möglich**</td></tr>
+<tr><th>Nummer des Zollkontingents</th><th>Erzeugnis</th><th colspan="2">Umfang des Zollkontingents (Tonnen)</th></tr>
+<tr><th></th><th></th><th colspan="2">**[1]**</th></tr>
+<tr><td>26</td><td>Hartweizen, zur menschlichen Ernährung</td><td colspan="2">110 000</td></tr>
+<tr><td></td><td></td><td colspan="2">**[2]**</td></tr>
+<tr><td>27</td><td>Brotgetreide</td><td colspan="2">70 000</td></tr>
+<tr><td></td><td></td><td colspan="2">**[2]**</td></tr>
+<tr><td>27.1</td><td>Vorübergehende Erhöhung des Zollkontingents für 2022</td><td colspan="2">40 000</td></tr>
+<tr><td>27.2</td><td colspan="2">Vorübergehende Erhöhung des Zollkontingents für 2022</td><td colspan="2">20 000</td></tr>
+<tr><td>28</td><td>Grobgetreide zur menschlichen Ernährung</td><td colspan="2">70 000</td></tr>
+<tr><td></td><td></td><td colspan="2">**[2]**</td></tr>
+<tr><td colspan="5">[tab] **[1] Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verteilende Kontingentsmenge angerechnet.** [tab] **[2] Die Überschreitung der Zollkontingentsmenge ist möglich**</td></tr>
 </table>
 
 ### 13. Marktordnung Wein, Traubensaft und ‑most
@@ -3103,7 +3105,7 @@ Anhang 4*[^t-4]*
 
 ## Freigabe des Zollkontingents Brotgetreide
 
-[^t-4]: Fassung gemäss Ziff. I der V des BLW vom 23. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 315](https://fedlex.data.admin.ch/eli/oc/2022/315)).
+[^t-4]: Fassung gemäss Ziff. I Abs. 2 der V vom 10. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)).
 
 <table>
 <tr><td>Zollkontingentsteilmenge</td><td>Periode für die Einfuhr zum KZA</td></tr>
@@ -3112,6 +3114,8 @@ Anhang 4*[^t-4]*
 <tr><td>20 000 t brutto</td><td>1. April – 31. Dezember</td></tr>
 <tr><td>20 000 t brutto</td><td>3. Mai – 31. Dezember</td></tr>
 <tr><td>20 000 t brutto</td><td>1. Juni – 31. Dezember</td></tr>
+<tr><td>10 000 t brutto</td><td>1. September – 31. Dezember</td></tr>
+<tr><td>10 000 t brutto</td><td>3. November – 31. Dezember</td></tr>
 </table>
 
 Anhang 5*[^t-5]*
