@@ -1,386 +1,351 @@
 ---
 canton: GR
 number: "850.110"
-title: Ordinaziun davart las stimaziuns uffizialas
-short: OSU
+title: "Ordinaziun davart las valitaziuns uffizialas d'immobiglias"
+short: OVI
 language: rm
-version: 2015-01-01
-corrected: 2014-12-17
-version_adopted: 2014-12-02
+version: 2022-07-01
+valid_until: 2023-11-30
+version_adopted: 2022-05-10
 adopted: 2017-09-26
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/850.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2392/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3249/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ordinaziun davart las stimaziuns uffizialas
+# Ordinaziun davart las valitaziuns uffizialas d'immobiglias
 
-(OSU)
+(OVI)
 
-dals 19-12-2006 (versiun dals 01-01-2015)
+dals 26-09-2017 (versiun dals 01-07-2022)
 
-sa basond sin l'art. 4 da la lescha davart las stimaziuns uffizialas[^ingress-1]
+Sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1]
 
-relaschada da la regenza ils 19 da december 2006
+relaschada da la regenza ils 26 da settember 2017
 
-[^ingress-1]: DG [850.100](https://www.gr-lex.gr.ch/data/850.100/rm)
+[^ingress-1]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
 
-## 1. Disposiziuns generalas
+## 1. Autoritads
 
 #### Art. 1
 
-**Champ d'applicaziun**
+**Organisaziun**
 
-<sup>1</sup> Questa ordinaziun vegn applitgada per tut ils objects da stimaziun tenor l'artitgel 2 da la lescha davart las stimaziuns uffizialas.
+<sup>1</sup> L'uffizi maina ultra dal biro a Cuira filialas a Glion, Tavau, Tusaun, Samedan e Scuol.
 
-<sup>2</sup> Per bains immobigliars, nua che lur proprietarias e proprietaris u lur usufructuarias ed usufructuaris na ston betg pajar taglias sin il gudogn e sin il chapital sco er betg taglia supplementara, vegn da princip stimada mo la valur da nov e la valur actuala. Sin dumonda vegn er eruida la valur reala, la valur da rendita e la valur commerziala.
+<sup>2</sup> L'uffizi fixescha la successiun da las valitaziuns da revisiun che ston vegnir fatgas vischnanca per vischnanca.
+
+## 2. Realisaziun da las valitaziuns
 
 #### Art. 2
 
-**Basa**
+**Basas**
 
-<sup>1</sup> Per la stimaziun ston vegnir resguardads spezialmain:
+<sup>1</sup> Ultra da la lescha davart las valitaziuns uffizialas d'immobiglias ston vegnir resguardadas en spezial las suandantas basas:
 
 - a) la lescha federala davart il dretg funsil puril[^2-1] e l'ordinaziun respectiva[^2-2];
-- b) ils relaschs davart l'assicuranza d'edifizis;
-- c) ils relaschs davart la polizia da fieu;
+- b) ils relaschs davart l'assicuranza d'edifizis sco er la cunvegna da prestaziun che l'uffizi ha concludì cun l'assicuranza d'edifizis[^2-3];
+- c) ils relaschs davart la protecziun cunter incendis[^2-4];
 - d) las prescripziuns chantunalas e communalas da construcziun e da planisaziun;
-- e) la legislaziun chantunala da taglia;
-- f) la legislaziun chantunala forestala;
-- g) las recumandaziuns e las normas respectivas d'associaziuns spezialisadas;
-- h) l'instrucziun dal departament cumpetent areguard la stimaziun da bains immobigliars forestals;
-- i) las directivas da stimaziun da l'uffizi cumpetent.
+- e) la legislaziun chantunala da taglia[^2-5];
+- f) la legislaziun forestala chantunala[^2-6] sco er las directivas concernent la stimaziun dal guaud da l'uniun forestala svizra;
+- g) las recumandaziuns e las normas respectivas da federaziuns professiunalas[^2-7].
 
 [^2-1]: CS [211.412.11](https://db.clex.ch/link/Bund/211.412.11/rm)
 [^2-2]: CS [211.412.110](https://db.clex.ch/link/Bund/211.412.110/rm)
+[^2-3]: DG [830.100](https://www.gr-lex.gr.ch/data/830.100/rm), [830.110](https://www.gr-lex.gr.ch/data/830.110/rm) e disposiziuns cumplementaras tar l'ordinaziun
+[^2-4]: DG [840.100](https://www.gr-lex.gr.ch/data/840.100/rm), [840.110](https://www.gr-lex.gr.ch/data/840.110/rm)
+[^2-5]: DG [720.000](https://www.gr-lex.gr.ch/data/720.000/rm)
+[^2-6]: DG [920.100](https://www.gr-lex.gr.ch/data/920.100/rm)
+[^2-7]: societad svizra dals inschigners ed architects (SIA), uniun svizra dals experts chantunals per la valitaziun da bains immobigliars (USECV), chombra svizra d'experts da stimaziun (CSES), associaziun svizra da l'economia immobigliara (SVIT), associaziun svizra dals experts da stimaziuns immobigliaras (ASESI)
 
 #### Art. 3
 
-**Reglas da stimaziun 1. en general**
+**Valitaziun object per object**
 
-<sup>1</sup> Mintga bain immobigliar sto vegnir stimà separadamain e mintga stimaziun sto vegnir communitgada separadamain.
+<sup>1</sup> Mintga object da valitaziun sto vegnir valità per sasez e mintga valitaziun sto vegnir communitgada separadamain.
 
-<sup>2</sup> Plirs bains immobigliars da la medema proprietaria u dal medem proprietari che furman in'unitad economica ston per regla vegnir stimads cumplessivamain. La valur totala sto vegnir repartida sin ils singuls bains immobigliars tenor lur valur, tar implants idraulics e tar implants da transport tenor vischnancas.
-
-<sup>3</sup> Tar stimaziuns singulas ston ils resultats da la stimaziun per regla vegnir communitgads entaifer 20 dis dapi la stimaziun.
+<sup>2</sup> Plirs objects da valitaziun da la medema proprietaria u dal medem proprietari che furman in'unitad economica ston per regla vegnir valitads cumplessivamain. Las valurs ston vegnir repartidas sin ils singuls bains immobigliars. In'excepziun èn ils implants da transport sco er ils stabiliments da la producziun, dal transport e da la repartiziun d'energia, nua che las valurs da rendita e las valurs commerzialas vegnan repartidas proporziunalmain sin las vischnancas pertutgadas.
 
 #### Art. 4
 
-**2. facturs decisivs**
+**Facturs decisivs**
 
-<sup>1</sup> Per la stimaziun ston vegnir resguardads tut ils facturs che influenzeschan la valur respectiva, spezialmain:
+<sup>1</sup> Per eruir la valur tenor l'artitgel 10 alinea 1 da la lescha ston vegnir resguardads tut ils facturs che han ina influenza sin la valur, en spezial:
 
 - a) la moda da construir, la vegliadetgna, il stadi e l'intent dals edifizis;
-- b) il dumber, la grondezza, la construcziun, il stadi, l'intent, las relaziuns dal retgav, il mobigliar fundamental e l'isolaziun dals singuls locals;
-- c) ils dretgs e las grevezzas dal dretg privat e dal dretg public;
-- d) il clima, la situaziun e las relaziuns da traffic, il grad d'avertura tras vias d'access, l'access a la viafier ed a vias, la vischinanza da la plazza aviatica, il provediment e la dismessa (aua, aua persa, forza electrica, gas, telefon);
-- e) il potenzial da svilup da la regiun e l'utilisaziun realisabla tenor las prescripziuns da construcziun privatas e publicas (p.ex. dretg da vischinas e da vischins, plans da zonas, d'avertura, da furmaziun e da quartier), il resguard da las relaziuns existentas da la cuntrada e da las relaziuns localas existentas;
-- f) la qualificaziun per intents d'abitar, da far vacanzas e da fatschenta;
+- b) il dumber, la grondezza, la construcziun, il stadi, l'isolaziun termica, la protecziun cunter la canera, la funcziunalitad e las relaziuns dal retgav dals singuls locals;
+- c) ils dretgs e las grevezzas dal dretg privat e dal dretg public (restricziuns da proprietad u d'utilisaziun ed obligaziuns);
+- d) il clima, la situaziun e las relaziuns da traffic, il grad d'avertura tras vias d'access, l'access a la viafier ed a vias, la vischinanza da la plazza aviatica, il provediment e la dismessa (aua, aua persa, electricitad, gas, telefon);
+- e) il potenzial da svilup da la regiun e l'utilisaziun realisabla tenor las prescripziuns da construcziun da dretg privat e da dretg public (p.ex. dretg da vischinas e da vischins, plans da zonas, d'avertura, da furmaziun e da quartier), il resguard da las relaziuns existentas da la cuntrada e da las relaziuns localas existentas;
+- f) la qualificaziun per intents d'abitar, da far vacanzas u da fatschenta;
 - g) la restricziun tras canera, odur, fim, pulvra, radiaziun, deponias veglias sco er la privaziun da glisch e da sulegl;
-- h) la funcziunalitad da stabiliments e d'indrizs che servan unicamain u spezialmain ad intents industrials, la pussaivladad d'ina alienaziun u d'ina autra utilisaziun;
+- h) la funcziunalitad da stabiliments e d'indrizs che servan unicamain u spezialmain ad intents commerzials u industrials, la pussaivladad d'ina alienaziun u d'ina autra utilisaziun;
 - i) la furma, la topografia, la dimensiun e la cumposiziun dal terren.
 
-<sup>2</sup> Per la valitaziun è decisiv il stadi dals objects da stimaziun il mument da la stimaziun.
-
-## 2. Organisaziun
+<sup>2</sup> Per eruir la valur è decisiv il stadi dals objects da valitaziun il mument da la valitaziun.
 
 #### Art. 5
 
-**Districts da stimaziun 1. divisiun**
+**Investiziuns essenzialas**
 
-<sup>1</sup> Il chantun vegn dividì en ils suandants districts da stimaziun:
+<sup>1</sup> Sco investiziuns essenzialas tenor l'artitgel 11 alinea 1 litera a da la lescha valan:
 
-- a) district da stimaziun 1: circuls da Cuira, da Churwalden, dals Tschintg Vitgs, da Maiavilla, da Razén, dal Scanvetg, vischnancas da Tumein e da Favugn;
-- b) district da stimaziun 2: circuls d'Avras, da la Calanca, da la Tumleastga, da Mesauc, da Valragn, da Roveredo, da Schons, da Tusaun, vischnanca da Vaz;
-- c) district da stimaziun 3: circuls d'Alvaschagn (senza vischnanca da Vaz), da Belfort, da Bravuogn, da Tavau, da Jenaz, da Claustra, da Küblis, da Luzein, da Schiers, da Seewis, da Surses;
-- d) district da stimaziun 4: circuls da la Cadi, da la Foppa, da la Lumnezia, da Rueun, da Stussavgia, vischnancas da Flem e da Trin;
-- e) district da stimaziun 5: circuls da la Bregaglia, da Brusio, da l'Engiadin'auta (senza las vischnancas da La Punt-Chamues-ch, da Madulain, da S-chanf e da Zuoz), dal Puschlav;
-- f) district da stimaziun 6: circuls da Ramosch, da Suot Tasna, da Sur Tasna, da la Val Müstair, vischnancas da La Punt-Chamues-ch, da Madulain, da S-chanf e da Zuoz.
+- a) edifizis novs a partir da 20 000 francs;
+- b) construcziuns annexas, midadas, renovaziuns u engrondiments d'edifizis, sche la summa che augmenta la valur per edifizi surpassa 100 000 francs ed importa dapli che 20 pertschient da la valur da nov indexada da l'edifizi ubain sche la summa che augmenta la valur per edifizi surpassa 500 000 francs.
 
 #### Art. 6
 
-**2. cumpetenza**
+**Inspecziun**
 
-<sup>1</sup> Ils districts da stimaziun èn cumpetents per la stimaziun dals objects ch'èn situads en lur district, cun excepziun dals implants da transport e dals implants idraulics.
+<sup>1</sup> En cas da valitaziuns sin dumonda vegn fatga per regla ina inspecziun. Nagina inspecziun na vegn fatga en cas d'objects da valitaziun cun ina valur da nov da main che 100 000 francs.
 
-<sup>2</sup> Sch'in object è situà en differents districts da stimaziun, decida l'uffizi, tgenin district da stimaziun ch'è cumpetent.
+<sup>2</sup> En cas da valitaziuns da revisiun vegn per regla fatga ina inspecziun, sche almain ina da las suandantas premissas è ademplida:
 
-<sup>3</sup> L'uffizi po incumbensar ils organs da stimaziun er cun stimaziuns en auters districts.
+- a) la valur da nov indexada per object da valitaziun importa passa 2 milliuns francs (index dals custs da construcziun per construcziuns autas da la Svizra orientala);
+- b) en l'ultima valitaziun importa la valur actuala da l'edifizi main che 65 pertschient da la valur da nov e la valur da nov da l'edifizi importa passa 100 000 francs;
+- c) dapi l'ultima inspecziun èn vegnids impundids passa 100 000 francs per object da valitaziun;
+- d) a chaschun da l'ultima valitaziun da revisiun u pli tard n'è vegnida fatga nagina inspecziun e la valur da nov da l'object da valitaziun importa passa 100 000 francs;
+- e) l'inspecziun è necessaria per eruir las datas dal martgà.
 
-<sup>4</sup> L'uffizi fixescha la successiun da las stimaziuns da revisiun che ston vegnir fatgas tenor vischnancas.
+<sup>3</sup> L'uffizi po desister da far ina inspecziun, sche las basas che stattan a disposiziun (actas, datas, infurmaziuns publicas ed internas, prescripziuns da l'Assicuranza d'edifizis dal Grischun e.u.v.) permettan da far ina valitaziun adequata.
 
 #### Art. 7
 
-**Objects da stimaziun spezials**
+**Communicaziun da la valitaziun**
 
-<sup>1</sup> Per la stimaziun d'implants da transport e d'implants idraulics è cumpetenta per tut il territori chantunal la partiziun per objects da stimaziun spezials, la quala è affiliada a l'uffizi.
-
-<sup>2</sup> Per la preparaziun da la stimaziun e per l'admissiun dals objects po l'uffizi prescriver la consultaziun dals organs da stimaziun dal district, nua ch'il stabiliment è situà.
+<sup>1</sup> La disposiziun da valitaziun sto vegnir communitgada per regla entaifer 20 dis suenter che la valitaziun è vegnida fatga.
 
 #### Art. 8
 
-**Cumissiuns da stimaziun**
+**Valur da nov**
 
-<sup>1</sup> Las stimaziuns vegnan fatgas d'ina cumissiun chantunala da stimaziun. Quella consista d'ina manadra u d'in manader da cumissiun e per regla mintgamai d'ina stimadra u d'in stimader communal en uffizi accessoric.
+<sup>1</sup> La valur da nov correspunda als custs ch'èn necessaris per construir in edifizi da medem gener, da la medema grondezza e dal medem standard en il medem lieu.
 
-<sup>2</sup> Sch'igl èn avant maun valurs da stimaziun da bains immobigliars cumparegliabels u sch'i sa tracta da bains immobigliars ch'èn simpels da stimar u da tals da pauca valur, po la stimaziun vegnir fatga d'ina commembra u d'in commember da la cumissiun sulet.
+<sup>2</sup> La basa per la valitaziun d'edifizis novs e da midadas architectonicas è il rendaquint da construcziun.
 
-<sup>3</sup> Per stimaziuns che pretendan enconuschientschas spezialas pon vegnir consultads experts.
+<sup>3</sup> Custs extraordinariamain bass u auts che resultan tras reducziuns da pretsch, tras offertas, tras atgnas prestaziuns, tras modificaziuns cun planisar e cun construir sco er custs per disfar na vegnan betg resguardads.
 
-## 3. Realisaziun da la stimaziun
+<sup>4</sup> Decisiva è la media dals pretschs da construcziun al lieu da l'edifizi.
+
+<sup>5</sup> La valur da nov d'edifizis vegls sco er d'edifizis che han ina impurtanza istorica u ina impurtanza per la tgira da monuments correspunda als custs che vegnan valitads per la reconstrucziun en la moda da construcziun existenta u en ina moda da construcziun cumparegliabla.
+
+<sup>6</sup> Tar edifizis vegls senza impurtanza istorica u senza impurtanza per la tgira da monuments ston vegnir resguardadas las reglas vertentas da la scienza da construcziun ed il stadi actual da la tecnica.
 
 #### Art. 9
 
-**Introducziun**
+**Valur actuala**
 
-<sup>1</sup> Las proprietarias ed ils proprietaris, l'assicuranza d'edifizis dal Grischun e las autoritads chantunalas e communalas da taglia pon pretender da tut temp en scrit sin agens custs ina stimaziun nova dal bain immobigliar, e quai tar il district da stimaziun cumpetent.
-
-<sup>2</sup> Sche la proprietaria u sch'il proprietari tralascha da dumandar la stimaziun per ses edifizi entaifer 6 mais dapi che las lavurs da construcziun essenzialas èn finidas, sto il bain immobigliar vegnir stimà d'uffizi u sin dumonda da la vischnanca.
-
-<sup>3</sup> Sco essenzialas valan midadas da construcziuns e renovaziuns, sche la summa che vegn impundida per edifizi:
-
-- a) surpassa 100 000 francs ed importa passa 15 pertschient da la valur indexada che l'edifizi aveva da nov;
-- b) surpassa 500 000 francs.
+<sup>1</sup> La valur actuala correspunda a la valur da nov main la svalitaziun tecnica ch'è vegnida chaschunada pervia da la vegliadetgna, pervia da l'isada, pervia da l'influenza da l'aura, pervia dals donns da construcziun, pervia da mancanzas da construcziun u per auters motivs.
 
 #### Art. 10
 
-**Inspecziun**
+**Valur materiala**
 
-<sup>1</sup> La stimaziun sto vegnir fatga per regla sin fundament d'ina inspecziun da l'object.
-
-<sup>2</sup> Tar ils objects ch'eran vegnids stimads gia pli baud vegn fatga ina inspecziun mo en cas da midadas essenzialas u sche la valur actuala en la stimaziun veglia importa main che 65 pertschient da la valur da nov, respectivamain sche la sminuziun da la valur importa pli che 35 pertschient.
-
-<sup>3</sup> Sco midadas essenzialas valan spezialmain:
-
-- a) mutaziuns che han ina influenza sin la valur, sco midadas da la surfatscha da la parcella, inscripziuns da servituts u midadas da zonas;
-- b) midadas da proprietad exclusiva en cumproprietad u en proprietad en condomini;
-- c) midadas d'utilisaziun.
-
-<sup>4</sup> Sa basond sin ils fatgs decida la manadra u il manader dal district en il singul cas concret, sche ed en tge dimensiun che l'inspecziun vegn fatga.
-
-<sup>5</sup> En cas d'ina inspecziun sto vegnir dada als organs da stimaziun la pussaivladad d'entrar en tut ils locals.
-
-## 4. Valurs da stimaziun
-
-### 4.1. Valur da nov e valur actuala
-
-#### Art. 11
-
-**Valur da nov 1. noziun**
-
-<sup>1</sup> La valur da nov correspunda als custs ch'èn necessaris per construir in edifizi da medem gener, da la medema grondezza e dal medem standard.
-
-#### Art. 12
-
-**2. calculaziun a) construcziuns novas e midadas da construcziun**
-
-<sup>1</sup> Per stimar edifizis novs e midadas da construcziun ston ins sa basar sin il rendaquint da construcziun.
-
-<sup>2</sup> Custs extraordinariamain bass u auts che resultan tras reducziuns da pretsch, tras offertas, tras atgnas prestaziuns, tras modificaziuns cun planisar u construir sco er custs per disfar na vegnan betg resguardads.
-
-<sup>3</sup> Decisiva è la media dals pretschs da fabricaziun al lieu da l'edifizi.
-
-#### Art. 13
-
-**b) edifizis vegls; edifizis istorics**
-
-<sup>1</sup> La valur da nov d'edifizis vegls sco er d'edifizis che han ina impurtanza istorica u ina impurtanza areguard la tgira da monuments correspunda als custs stimads per la reconstrucziun en la moda da construcziun existenta u cumparegliabla.
-
-<sup>2</sup> Tar edifizis vegls senza impurtanza istorica u senza impurtanza areguard la tgira da monuments ston vegnir resguardadas las reglas vertentas da la scienza da construcziun e dal stadi actual da la tecnica.
-
-#### Art. 14
-
-**Valur actuala**
-
-<sup>1</sup> La valur actuala correspunda a la valur da nov, main la svalitaziun da vegliadetgna tecnica ch'è succedida pervia da la vegliadetgna, pervia da l'isada, pervia da l'influenza da l'aura, pervia dals donns da construcziun, pervia da mancanzas da construcziun u per auters motivs.
-
-### 4.2. Valur reala
-
-#### Art. 15
-
-**Noziun**
-
-<sup>1</sup> La valur reala serva sco valur d'agid per stimar la valur commerziala.
-
-<sup>2</sup> Ella sa cumpona da:
+<sup>1</sup> La valur materiala (valur reala) serva sco valur auxiliara per la valitaziun da la valur commerziala. Ella sa cumpona da:
 
 - a) la valur actuala da l'edifizi;
 - b) la valur dal terren;
 - c) las lavurs da preparaziun e dal stgav dal fundament;
-- d) la valur actuala dals conducts ordaifer l'edifizi, spezialmain per aua, electricitad, gas, chanalisaziun;
-- e) las taxas da colliaziun per aua, per forza electrica, per gas, per la chanalisaziun e.u.v.;
-- f) la valur actuala da las lavurs da conturn e da l'architectura d'iert;
-- g) la valur actuala da las parts integralas ed accessoricas, uschenavant ch'ellas na vegnan betg assicuradas cun ils edifizis.
+- d) la valur actuala da las lavurs da conturn e dals conducts ordaifer l'edifizi, spezialmain per aua, electricitad, gas e chanalisaziun;
+- e) las taxas da colliaziun per il provediment e per la dismessa (aua, electricitad, gas, chanalisaziun e chaussas sumegliantas);
+- f) la valur actuala da las parts integralas ed accessoricas che n'èn betg cuntegnidas en la valur da nov da l'edifizi.
 
-#### Art. 16
+#### Art. 11
 
-**Valitaziun 1. terren**
+**Svalitaziun economica**
 
-<sup>1</sup> La valur dal terren sto vegnir messa a pèr cun terren cumparegliabel betg surbajegià che correspunda sut relaziuns normalas al pretsch da cumpra che po vegnir cuntanschì.
+<sup>1</sup> La svalitaziun economica che po vegnir chaschunada en spezial pervia da novas enconuschientschas en connex cun materials da construcziun ubain pervia da novas metodas da fabricaziun sco er pervia da la perdita da potenzial d'utilisaziun, sto vegnir resguardada en la valur materiala.
 
-<sup>2</sup> Rinforzaments dal sulom e fundaments spezials ston vegnir resguardads adequatamain tar la stimaziun da la valur dal terren.
+#### Art. 12
 
-#### Art. 17
+**Valur dal terren**
 
-**2. svalitaziun economica**
+<sup>1</sup> La valur dal terren è cumparegliabla cun la valur commerziala da terren sumegliant, betg surbajegià, che correspunda al pretsch che po vegnir obtegnì sin il martgà sut relaziuns normalas.
 
-<sup>1</sup> La svalitaziun economica che po resultar spezialmain pervia da novas enconuschientschas en connex cun il material da construcziun, cun il confort u cun novas metodas da fabricaziun sco er tras la sperdita dal potenzial d'utilisaziun sto vegnir resguardada, uschenavant ch'ella n'è betg gia vegnida deducida tar la valur da nov.
+<sup>2</sup> Rinforzaments dal sulom e fundaments spezials ston vegnir resguardads adequatamain tar la valitaziun da la valur dal terren.
 
-### 4.3. Valur da locaziun e da rendita
+<sup>3</sup> Per eruir la valur dal terren pon vegnir applitgadas las suandantas metodas auxiliaras:
 
-#### Art. 18
+- a) metoda da classas areguard la situaziun;
+- b) quint retroactiv da la valur da rendita u dal pretsch da vendita;
+- c) metoda da la valur structurala.
 
-**Noziun**
+#### Art. 13
 
-<sup>1</sup> La valur da rendita è la valur che vegn eruida sin fundament da la rendita da locaziun netta d'ina immobiglia.
+**Valur da locaziun**
 
-<sup>2</sup> Sco rendita da locaziun netta vala per regla la media da la rendita da locaziun brutta dals ultims 3 onns main ils custs accessorics.
+<sup>1</sup> La valur da locaziun correspunda a la rendita d'ina immobiglia ch'ins po obtegnair mintga onn en moda duraivla.
 
-#### Art. 19
+<sup>2</sup> Per eruir la valur da locaziun vegni sa basà per regla sin la rendita da locaziun netta. Quella resulta da la rendita da locaziun brutta main ils custs accessorics. Ils custs accessorics èn expensas che pon vegnir messas a quint separadamain a la locataria u al locatari. Latiers tutgan expensas sco quellas per il stgaudament, per l'aua, per l'aua chauda, per nettegiar las stgalas, per l'electricitad en general, las taxas d'utilisaziun ed ils custs d'administraziun che resultan per far il rendaquint. Indemnisaziuns per il diever da mobigliar na tutgan betg latiers.
 
-**Rendita da locaziun netta**
+<sup>3</sup> La rendita da locaziun netta sa cumpona dals retgavs da l'utilisaziun tras terzas persunas u da l'atgna utilisaziun d'edifizis, da surfatschas surbajegiadas e da terren necessari per il manaschi.
 
-<sup>1</sup> La rendita da locaziun netta sa cumpona dals retgavs da l'utilisaziun tras persunas estras u da l'atgna utilisaziun d'edifizis, da surfatschas surbajegiadas e da terren necessari per il manaschi.
+<sup>4</sup> Sche la rendita da locaziun netta na correspunda betg a las relaziuns dal martgà, vegni sa basà sin la productivitad.
 
-<sup>2</sup> Sche la rendita da locaziun netta na correspunda betg a la valur sin il martgà, vegn sa basà sin la productivitad potenziala.
-
-<sup>3</sup> Bunificaziuns per custs accessorics sco stgaudament, provediment d'aua chauda, nettegiament da las stgalas, illuminaziun, ascensur, maschina da lavar sco er bunificaziuns per il mobigliar na tutgan betg latiers.
-
-#### Art. 20
-
-**Calculaziun 1. princip**
-
-<sup>1</sup> La valur da rendita resulta da la chapitalisaziun da la rendita da locaziun netta cun in pertschient da chapitalisaziun adequat.
-
-#### Art. 21
-
-**2. pertschient da chapitalisaziun**
-
-<sup>1</sup> Il pertschient da chapitalisaziun è la procentuala, cun la quala i vegn calculà la valur da rendita or da la rendita da locaziun netta.
-
-<sup>2</sup> El sa cumpona da la tariffa dal tschains dal chapital e dals supplements procentuals dals custs da gestiun.
-
-#### Art. 22
-
-**3. tariffa dal tschains dal chapital**
-
-<sup>1</sup> La tariffa dal tschains dal chapital correspunda a la taxa directiva modifitgada per ipotecas variablas d'emprima classa (ipotecas veglias) da la banca chantunala u da la banca directiva al lieu, nua che la chaussa è situada.
-
-<sup>2</sup> Ella variescha tut tenor il tip da l'object e vegn applitgada independentamain da las pussaivladads da la proprietaria u dal proprietari.
-
-<sup>3</sup> L'uffizi cumpetent communitgescha als organs da stimaziun las tariffas dal tschains dal chapital che ston vegnir applitgadas.
-
-#### Art. 23
-
-**4. custs da gestiun**
-
-<sup>1</sup> Ils custs da gestiun ston vegnir resguardads suandantamain:
-
-- a) ils custs da gestiun sco grevezzas currentas publicas dal bain immobigliar, cun excepziun da las taglias ordinarias sin las entradas e sin la facultad, sco er dals custs per il provediment d'aua, per nettegiar las vias, per dismetter ils ruments e per allontanar l'aua, dals custs da pedel, dal service d'ascensurs e d'indrizs per lavar cun la maschina, dals custs per tgirar il conturn, per rumir la naiv, per antennas communablas e per l'illuminaziun generala, da premias d'assicuranzas d'edifizis, d'assicuranzas da responsabladad per las proprietarias e per ils proprietaris da chasas e d'assicuranzas da chaussas cun 0,1 fin 0,5 pertschient;
-- b) ils custs da mantegniment e da reparaziun da l'edifizi e da la cuntrada cun 0,7 fin 2,2 pertschient;
-- c) ils custs d'administraziun cun 0,1 fin 0,3 pertschient;
-- d) la ristga per sperditas dal tschains da locaziun cun 0,1 fin 0,4 pertschient;
-- e) las amortisaziuns cun 0,5 fin 1,0 pertschient.
-
-<sup>2</sup> En il pertschient da chapitalisaziun sto vegnir tegnì quint da custs extraordinaris.
-
-#### Art. 24
-
-**5. retgav net**
-
-<sup>1</sup> Il retgav net correspunda a la rendita da locaziun netta main ils custs effectivs per l'administraziun.
-
-<sup>2</sup> Sche la cumprova dals custs effectivs per l'administraziun è avant maun, resulta la valur da rendita or da la chapitalisaziun dal retgav net cun la tariffa dal tschains dal chapital correspundenta.
-
-### 4.4. Valur commerziala
-
-#### Art. 25
-
-**Noziun**
-
-<sup>1</sup> La valur commerziala sa drizza tenor ils pretschs da vendita ch'èn vegnids obtegnids tar medems u sumegliants bains immobigliars sut circumstanzas normalas.
-
-#### Art. 26
-
-**Mancanzas da valurs da cumparegliaziun**
-
-<sup>1</sup> Sch'i mancan las pussaivladads fidadas da cumparegliar che dateschan da l'ultim temp, sto la valur commerziala sa basar sin ils pretschs da vendita da pli baud resguardond las relaziuns midadas u sto vegnir calculada tenor la metoda da la valur maschadada sco suonda:
-
-- a) per bains immobigliars surbajegiads sco media valitada or da la valur da rendita e da la valur reala. Latiers ston vegnir valitadas la valur da rendita cun il coeffizient da pais correspundent e la valur reala mintgamai ina giada;
-- b) per bains immobigliars betg surbajegiads pon vegnir applitgadas las suandantas metodas d'agid:
-  - 1\. metoda da classas areguard la situaziun;
-  - 2\. quint retroactiv da la valur da rendita u dal pretsch da vendita;
-  - 3\. metoda da la valur da la structura (metoda da la valur contanta).
-
-#### Art. 27
-
-**Coeffizient da pais**
-
-<sup>1</sup> Il coeffizient da pais sto vegnir fixà tenor l'impurtanza economica da la valur da rendita.
-
-<sup>2</sup> Per regla valan ils suandants coeffizients da pais:
-
-- a) 0 – 1 per villas, per chasas da champagna, per chasas d'ina e da duas famiglias;
-- b) 0.2 – 2 per chasas d'abitar cun trais e pliras abitaziuns;
-- c) 1 – 6 per l'hotellaria, per immobiglias da fatschenta, da mastergn e d'industria.
-
-## 5. Objects da stimaziun spezials
-
-### 5.1. Mastergn ed industria en general
-
-#### Art. 28
-
-**Rendita da locaziun netta d'objects manads sezs**
-
-<sup>1</sup> Tar objects da mastergn e d'industria che vegnan manads sezs ston – per calcular la rendita da locaziun netta – vegnir resguardads spezialmain l'andament da la fatschenta, la rendita, la situaziun da l'occupaziun, la reserva da terren e las vistas per l'avegnir.
-
-<sup>2</sup> Sch'i mancan las pussaivladads da cumparegliar, sto vegnir calculada la rendita da locaziun netta tenor la svieuta da la fatschenta dals ultims 3 onns.
-
-<sup>3</sup> Tar manaschis novs u tar midadas essenzialas dal manaschi e da la construcziun è decisiva la svieuta da la fatschenta che po vegnir spetgada.
-
-### 5.2. Implants idraulics
-
-#### Art. 29
-
-**Objects da stimaziun**
-
-<sup>1</sup> A l'obligaziun da stimaziun èn suttamess tut ils implants idraulics che vegnan duvrads sin basa d'in titel giuridic privat u d'ina concessiun.
-
-<sup>2</sup> Stabiliments architectonics e bains immobigliars che servan directamain a render utilisabla la forza idraulica ston vegnir integrads en la valitaziun.
-
-<sup>3</sup> Las valurs vegnan repartidas sin las vischnancas pertutgadas a norma da las investiziuns.
-
-#### Art. 30
-
-**Stimaziun**
-
-<sup>1</sup> La stimaziun sa drizza spezialmain tenor la productivitad sco er tenor la grondezza e tenor la stabilitad dal stabiliment.
-
-<sup>2</sup> La svieuta da la fatschenta dals ultims 5 onns sto vegnir resguardada.
-
-<sup>3</sup> La tariffa dal tschains dal chapital correspunda a la media da 5 onns da la rendita d'obligaziuns federalas cun ina durada da 10 onns.
-
-### 5.3. Implants da transport
-
-#### Art. 31
-
-**Noziun**
-
-<sup>1</sup> Sco implants da transport valan spezialmain sutgeras, runals, denticularas e telefericas sco er funicularas e pendicularas.
-
-#### Art. 32
-
-**Valur reala**
-
-<sup>1</sup> La valur reala sa cumpona dals custs d'investiziun inclusiv il terren ed ils edifizis necessaris per il manaschi sco indrizs d'ennavar, punts, sutpassadis e surpassadis, tunnels, sendas, vias, e parcadis sco er dals custs d'avertura dal terren.
-
-#### Art. 33
+#### Art. 14
 
 **Valur da rendita**
 
-<sup>1</sup> La valur da rendita resulta da la chapitalisaziun dal gudogn net
+<sup>1</sup> La valur da rendita correspunda a la rendita da locaziun netta che vegn chapitalisada mintga onn.
+
+#### Art. 15
+
+**Pertschient da chapitalisaziun**
+
+<sup>1</sup> Il pertschient da chapitalisaziun sa cumpona da la tariffa dal tschains da chapital e dals supplements procentuals dals custs da gestiun.
+
+<sup>2</sup> La tariffa dal tschains da chapital reflectescha ils custs da chapital (chapital ester ed agen chapital) e las ristgas da chapital.
+
+<sup>3</sup> Ella variescha tut tenor il tip da l'object e vegn applitgada independentamain da las pussaivladads individualas da la proprietaria u dal proprietari.
+
+<sup>4</sup> La direcziun da l'uffizi communitgescha als organs da valitaziun las tariffas dal tschains da chapital che ston vegnir applitgadas.
+
+#### Art. 16
+
+**Custs da gestiun**
+
+<sup>1</sup> Ils custs da gestiun ston vegnir resguardads sco suonda:
+
+- a) ils custs da manaschi cun 0,1 fin 0,5 pertschient: quels cumpiglian las prestaziuns che la proprietaria u il proprietari na po betg metter a quint sco grevezzas currentas publicas per il provediment d'aua, per nettegiar las vias, per dismetter ils ruments e per allontanar l'aua (dentant betg taglias ordinarias sin entradas e facultad), ils custs da pedel, ils custs per il mantegniment d'ascensurs e da maschinas da lavar, ils custs per tgirar ils conturns, per rumir la naiv, per antennas communablas e per l'illuminaziun generala, las premias d'assicuranzas d'edifizis, d'assicuranzas da responsabladad per las proprietarias ed ils proprietaris sco er d'assicuranzas da chaussas;
+- b) ils custs da mantegniment e da reparaziun da l'edifizi e da la cuntrada cun 0,7 fin 2,2 pertschient;
+- c) ils custs d'administraziun cun 0,1 fin 0,3 pertschient;
+- d) la ristga per perditas dal tschains da locaziun cun 0,1 fin 0,4 pertschient;
+- e) las amortisaziuns cun 0,5 fin 1,0 pertschient.
+
+<sup>2</sup> En cas motivads poi vegnir divergià da las dimensiuns ch'èn fixadas en l'alinea 1.
+
+#### Art. 17
+
+**Retgav net**
+
+<sup>1</sup> Il retgav net correspunda a la rendita da locaziun netta main ils custs da gestiun effectivs.
+
+<sup>2</sup> Sche la cumprova dals custs da gestiun effectivs è avant maun, resulta la valur da rendita or da la chapitalisaziun dal retgav net cun la tariffa dal tschains da chapital correspundenta.
+
+#### Art. 18
+
+**Valur commerziala**
+
+<sup>1</sup> La valur commerziala sa drizza tenor ils pretschs ch'èn vegnids obtegnids tar medems u tar sumegliants objects da valitaziun sut circumstanzas normalas. I pon vegnir resguardads objects da cumparegliaziun da l'entir territori chantunal.
+
+## 3. Objects da valitaziun spezials
+
+#### Art. 19
+
+**Mastergn ed industria en general**
+
+<sup>1</sup> En cas d'objects da mastergn e d'industria che vegnan manads sezs vegni sa basà sin valurs da cumparegliaziun. Ultra da quai pon vegnir resguardads l'andament da las fatschentas, la rendita, la situaziun da l'occupaziun, la reserva da terren e las perspectivas per calcular la rendita da locaziun netta.
+
+#### Art. 20
+
+**Stabiliments essenzials da la producziun, dal transport e da la repartiziun d'energia 1. essenzialitad**
+
+<sup>1</sup> Sco essenzial en il senn da l'artitgel 10 alinea 2 da la lescha valan ils suandants stabiliments:
+
+- a) producziun d'energia: stabiliments che servan en emprima lingia a la producziun commerziala d'energia electrica, che na vegnan betg qualifitgads sco manaschi accessoric d'ina interpresa industriala u d'ina immobiglia d'abitar e che na survegnan betg retgavs segirads da l'indemnisaziun per cuvrir ils custs da la furniziun d'electricitad (ICF) tenor la lescha federala d'energia[^20-1] u auters retgavs segirads;
+- b) transport d'energia: conducts electrics dals nivels da la rait 1 e 2;
+- c) repartiziun d'energia: conducts electrics dals nivels da la rait 3 fin 7.
+
+<sup>2</sup> Las valurs da nov e las valurs actualas dals edifizis che tutgan tar ils stabiliments vegnan eruidas separadamain a chaschun da la valitaziun da revisiun tenor vischnanca. La valur da rendita e la valur commerziala vegnan valitadas en total sco unitad economica per tut ils stabiliments dal chantun circa il medem mument (art. 8 al. 4 da la lescha).
+
+[^20-1]: CS [730.0](https://db.clex.ch/link/Bund/730.0/rm)
+
+#### Art. 21
+
+**2. dimensiun da la valitaziun per stabiliments essenzials da producziun**
+
+<sup>1</sup> Indrizs architectonics e bains immobigliars che servan directamain a render utilisabel in stabiliment essenzial da la producziun d'energia ston vegnir integrads en la valitaziun.
+
+<sup>2</sup> Ils manaschis accessorics sco per exempel las fatschentas da vendita u las chasas d'abitar e da persunal ston vegnir valitads separadamain tenor las normas ordinarias.
+
+<sup>3</sup> Da resguardar è la svieuta da la fatschenta en la media da 10 onns ch'è resultada suenter la perioda da temp che ha servì sco basa per l'ultima valitaziun.
+
+#### Art. 22
+
+**3. rapports da gestiun per stabiliments essenzials da producziun**
+
+<sup>1</sup> Ils gestiunaris ston inoltrar als organs da valitaziun cumpetents ils rapports da gestiun detagliads e revedids. Quels ston cuntegnair la bilantscha, il quint economic, il quint da finanziaziun inclusiv l'agiunta sco er il quint da gestiun dals manaschis accessorics ed il quint separà detaglià.
+
+#### Art. 23
+
+**4. repartiziun da las valurs per stabiliments essenzials da producziun**
+
+<sup>1</sup> Las parts da las valurs da rendita e da las valurs commerzialas che resultan sin ils singuls territoris communals vegnan communitgadas vischnanca per vischnanca. Las valurs vegnan repartidas sin fundament da las investiziuns en las vischnancas respectivas. Las gestiunarias ed ils gestiunaris ston metter a disposiziun als organs da valitaziun las datas correspundentas.
+
+#### Art. 24
+
+**5. retgav per stabiliments essenzials da producziun**
+
+<sup>1</sup> Per la valitaziun da stabiliments partenaris sto vegnir fixà il retgav total cumparegliond quel cun ils retgavs totals da l'energia ch'è vegnida producida en il chantun Grischun e vendida a las cumpradras finalas ed als cumpraders finals senza commerzi intermediar ed a cundiziuns da martgà.
+
+<sup>2</sup> Per la valitaziun da stabiliments betg partenaris è decisiv il retgav total ch'è vegnì obtegnì effectivamain da la vendita d'energia.
+
+#### Art. 25
+
+**6. custs da gestiun per stabiliments essenzials da producziun**
+
+<sup>1</sup> Ils custs da gestiun cumpiglian ils custs ordinaris, las taxas, la taglia sin immobiglias e las investiziuns substitutivas. Las taglias sin il retgav e sin il chapital na valan betg sco custs da gestiun.
+
+<sup>2</sup> Sche las investiziuns substitutivas effectivas na pon betg vegnir cumprovadas vardaivlamain da la gestiunaria u dal gestiunari, vegnan quellas eruidas en pertschients dals custs da construcziun.
+
+#### Art. 26
+
+**7. rendaquint da construcziun ed investiziuns substitutivas per stabiliments essenzials da producziun**
+
+<sup>1</sup> Per ils custs da construcziun è decisiv il rendaquint da construcziun detaglià. Sche indicaziuns fidadas mancan, ston ils custs da construcziun vegnir valitads tenor la prestaziun installada.
+
+<sup>2</sup> En cas da stabiliments da producziun essenzials vegnan gruppas substitutivas transfurmadas en pertschients dals custs da construcziun. Per regla valan las suandantas tariffas:
+
+- a) per stabiliments da producziun en cas d'in ritmus da substituziun da 10 onns 2 pertschient, da 20 onns 12 pertschient, da 40 onns 20 pertschient e per investiziuns duraivlas 66 pertschient, quai ch'è en total 100 perschient;
+- b) per stabiliments da transport en cas da 40 onns 100 pertschient;
+- c) per stabiliments da repartiziun en cas da 25 onns 100 pertschient;
+- d) per ils ulteriurs stabiliments en cas da 15 onns 100 pertschient.
+
+#### Art. 27
+
+**8. renta d'ovra per stabiliments essenzials da producziun**
+
+<sup>1</sup> Per fixar la renta d'ovra per stabiliments essenzials da producziun vegni sa basà sin il retgav da manaschi. Per eruir la renta d'ovra avant che far retenziuns per investiziuns substitutivas ston vegnir deducids ils custs da persunal, las prestaziuns da material, las prestaziuns furnidas da terzas persunas, ils ulteriurs custs da manaschi, las taxas e la taglia sin immobiglias. Betg deduciblas n'èn las expensas per tschains sin chapital ester e sin agen chapital sco er dividendas a las acziunarias ed als acziunaris.
+
+#### Art. 28
+
+**9. retenziuns per stabiliments essenzials da producziun**
+
+<sup>1</sup> La basa per eruir las retenziuns per investiziuns substitutivas èn ils custs da construcziun nova da l'entir stabiliment. Sco tals valan tut ils custs da construcziun menziunads tenor l'artitgel 26 alinea 1, dentant senza ils custs da terren.
+
+<sup>2</sup> Las summas da retenziun (apport annual en il fond da renovaziun) vegnan eruidas cun divider las summas che ston vegnir cuntanschidas tras il factur respectiv da la valur finala da la renta. La summa da tut ils apports en il fond da renovaziun vegn deducida da la renta d'ovra. Il resultat represchenta l'import che stat a disposiziun per la chapitalisaziun (retgav net).
+
+#### Art. 29
+
+**10. eruida da valurs per stabiliments essenzials da producziun**
+
+<sup>1</sup> Per la valitaziun vala il suandant:
+
+- a) ciclus da renovaziun: il mument da la valitaziun è gia scadida ina part da 20 pertschient dal ciclus da renovaziun respectiv;
+- b) orizont da consideraziun: da princip vala in orizont da consideraziun da 100 onns;
+- c) valur en daners / tschains dal chapital chapitalisà: la valur en daners vegn calculada tras la multiplicaziun dal retgav net cun il factur da la valur en daners;
+- d) valur da rendita: quella vegn calculada cun deducir dal tschains dal chapital chapitalisà la valur en daners dal fond da renovaziun mesaun per stabiliments che vegnan renovads en in grond ciclus. Da quella vegn deducì in supplement da ristga adequat. Sche la valitaziun da la valur da rendita mussa in import negativ, vegn scritta ina nulla;
+- e) tariffa dal tschains dal chapital: quella correspunda a la tariffa dal tschains da cassa da las obligaziuns da la confederaziun da 10 onns, dentant almain 2,5 pertschient;
+- f) valur commerziala: quella correspunda per regla a la valur da rendita che sto vegnir communitgada, na dastga però betg sutpassar la valur cudeschada dals stabiliments e na stat betg en connex cun ina valitaziun en cas d'in return dals implants.
+
+#### Art. 30
+
+**11. stabiliments dal transport e da la repartiziun d'energia**
+
+<sup>1</sup> Per la valitaziun dals stabiliments dal transport e da la repartiziun d'energia èn decisivs ils retgavs obtegnids effectivamain. Dal rest vegnan applitgadas confurm al senn las disposiziuns davart ils stabiliments da producziun essenzials.
+
+#### Art. 31
+
+**Implants da transport**
+
+<sup>1</sup> Sco implants da transport valan spezialmain sutgeras, runals, denticularas e telefericas sco er funicularas e pendicularas.
+
+<sup>2</sup> La valur materiala sa cumpona dals custs d'investiziun inclusiv il terren ed ils edifizis necessaris per il manaschi sco indrizs d'ennavar, punts, sutpassadis e surpassadis, tunnels, sendas, vias e parcadis sco er dals custs d'avertura.
+
+<sup>3</sup> La valur da rendita resulta da la chapitalisaziun dal gudogn net
 
 - a) plus:
   - 1\. tschains passivs;
@@ -391,36 +356,33 @@ relaschada da la regenza ils 19 da december 2006
   - 1\. amortisaziuns calculatoricas;
   - 2\. gudogns respectivamain retgavs che n'appartegnan betg al manaschi.
 
-### 5.4. Manaschis d'hotellaria
+#### Art. 32
 
-#### Art. 34
+**Manaschis da l'hotellaria 1. definiziun**
 
-**Noziun**
-
-<sup>1</sup> Sco objects da l'hotellaria valan manaschis ch'èn averts per la publicitad u per ina tscherta gruppa da consumentas e da consuments e che porschan cunter pajament spaisas e bavrondas u alloschament. Quai èn spezialmain:
+<sup>1</sup> Sco objects da l'hotellaria valan manaschis ch'èn averts per la publicitad u per ina tscherta gruppa da consumentas e consuments e che porschan cunter pajament spaisas e bavrondas u alloschament. Latiers tutgan spezialmain:
 
 - a) hotels, motels, hotels d'appartaments e garnis, pensiuns;
 - b) chamonas da clubs, quartiers da massa, chasas da vacanzas, albierts per la giuventetgna;
 - c) ustarias, bars, restaurants, cafetarias;
 - d) plazzas da campar;
-- e) locals per sautar, nightclubs;
-- f) chasas, convicts, restaurants da persunal, clinicas.
+- e) locals per sautar, nightclubs.
 
-<sup>2</sup> Stabiliments che servan mo al manaschi da l'hotellaria, sco chasas da persunal, stabiliments da sport, garaschas, irals da tgeiels, bogns cuverts, parcs ed ierts d'hotels, ston vegnir stimads sco part dal manaschi.
+<sup>2</sup> Stabiliments che servan mo al manaschi da l'hotelleria, sco chasas da persunal, stabiliments da sport, garaschas, irals da tgeiels, bogns cuverts, parcs ed ierts d'hotels, ston vegnir valitads sco part dal manaschi.
 
-#### Art. 35
+#### Art. 33
 
-**Manaschis accessorics e bains immobigliars**
+**2. manaschis accessorics**
 
-<sup>1</sup> Manaschis accessorics e parts d'in bain immobigliar che n'appartegnan betg al manaschi d'hotellaria ston vegnir stimads separadamain.
+<sup>1</sup> Manaschis accessorics e parts d'in bain immobigliar che n'appartegnan betg al manaschi d'hotellaria ston vegnir valitads separadamain.
 
-<sup>2</sup> Da quai fan part surtut negozis, kioscs, tancadis, manaschis agriculs ed abitaziuns da locaziun.
+<sup>2</sup> Da quai fan part surtut negozis, kioscs, tancadis, manaschis agriculs, abitaziuns per il persunal ed abitaziuns da locaziun.
 
-#### Art. 36
+#### Art. 34
 
-**Valur da rendita**
+**3. objects manads sezs**
 
-<sup>1</sup> Tar la fixaziun da la valur da rendita d'objects che vegnan manads sezs vegni partì da la svieuta da la fatschenta.
+<sup>1</sup> Per fixar la valur da rendita d'objects che vegnan manads sezs vegni sa basà sin la svieuta da la fatschenta.
 
 <sup>2</sup> Ils suandants custs ston vegnir deducids:
 
@@ -433,82 +395,77 @@ relaschada da la regenza ils 19 da december 2006
 - g) mantegniment e remplazzament da l'inventari;
 - h) pitschen mantegniment da l'immobiglia;
 - i) media dal tschains sin il chapital dal manaschi;
-- j) amortisaziuns sin l'inventari da cumpra.
+- j) amortisaziuns sin l'inventari cumprà.
 
-### 5.5. Minieras, chavas da crappa, implants da gera
+#### Art. 35
+
+**Minieras, chavas, implants da gera ed implants da crappa**
+
+<sup>1</sup> I vegnan valitads bains immobigliars, sin ils quals èn admess legalmain l'explotaziun, il deposit e la preparaziun da material.
+
+<sup>2</sup> La valur sa cumpona dals edifizis e dals stabiliments necessaris per explotar, per deponer e per preparar il material sco er da las reservas da l'explotaziun e dal deposit.
+
+<sup>3</sup> La basa fundamentala per giuditgar la valur furman la dimensiun e la durada da la permissiun d'explotaziun e las obligaziuns da quella sco er eventuals dretgs d'explotaziun contractuals.
+
+#### Art. 36
+
+**Guaud**
+
+<sup>1</sup> Ils organs da valitaziun incumbenseschan l'uffizi da guaud e privels da la natira cun las valitaziuns forestalas e communitgeschan las valurs.
+
+<sup>2</sup> Bains immobigliars surbajegiads cun singuls bostgs u cun pitschnas gruppas da bostgs che n'èn betg objects da la cultivaziun forestala, vegnan valitads directamain dals organs da valitaziun.
+
+## 4. Taxas e parts dals custs
 
 #### Art. 37
 
-**Noziun**
+**Taxas per proprietarias, proprietaris, petentas e petents**
 
-<sup>1</sup> I vegnan stimads bains immobigliars, sin ils quals igl èn admess legalmain l'explotaziun, il deposit e la preparaziun da material.
+<sup>1</sup> Las taxas vegnan calculadas sco suonda:
+
+- a) 1,4 promils da la valur da nov en cas da:
+  - 1\. l'emprima valitaziun;
+  - 2\. dumondas senza obligaziun da valitaziun.
+- b) 1,4 promils da l'import impundì en cas da:
+  - 1\. investiziuns tar dumondas cun obligaziun da valitaziun;
+  - 2\. valitaziuns da revisiun cun investiziuns da 100 000 francs e dapli u emprima renovaziun da proprietad en condomini sco er da cumproprietad cun urden d'utilisaziun e d'administraziun.
+- c) 1,1 promils da la valur da nov en cas da:
+  - 1\. in'emprima valitaziun e dumondas senza obligaziun da valitaziun, sche mo la valur da nov e la valur actuala vegnan valitadas;
+  - 2\. partiziuns da bains immobigliars cun obligaziun da valitaziun, sche l'ultima valitaziun ha gì lieu avant passa 3 onns e/u sch'i ha dà midadas decisivas dapi lura;
+  - 3\. dumondas senza obligaziun da valitaziun per in manaschi agricul.
+- d) 0,3 promils da la valur da nov en cas da:
+  - 1\. la transfurmaziun en proprietad en condomini;
+  - 2\. la transfurmaziun en cumproprietad cun urden d'utilisaziun e d'administraziun;
+  - 3\. la transfurmaziun en dretg da construcziun;
+  - 4\. partiziuns da bains immobigliars cun obligaziun da valitaziun, sche l'ultima valitaziun ha gì lieu avant 3 u main onns e sch'i n'ha dà naginas midadas decisivas dapi lura.
+
+<sup>2</sup> A partir d'ina taxa da 5000 francs vegn concedì in rabat da 25 pertschient sin las taxas tenor l'alinea 1.
 
 #### Art. 38
 
-**Stimaziun**
+**Taxas per la consegna d'actas**
 
-<sup>1</sup> La valur sa cumpona dals edifizis e stabiliments necessaris per explotar, per deponer e per preparar il material sco er da las reservas da l'explotaziun e dal deposit.
+<sup>1</sup> La lavur administrativa impundida per consegnar copias d'actas vegn messa a quint sco suonda:
 
-<sup>2</sup> La basa fundamentala per giuditgar la valur furman la dimensiun e la durada da la permissiun d'explotaziun e las obligaziuns da quella sco er eventuals dretgs d'explotaziun contractuals.
+- a) communicaziun da la valitaziun: 30 francs per bain immobigliar;
+- b) …
+- c) documents da valitaziun: 50 francs per bain immobigliar;
+- d) documents or da l'archiv dal stadi: 80 francs per bain immobigliar.
 
-### 5.6. Guaud
+<sup>2</sup> Sch'i vegnan duvrads documents tenor l'alinea 1 da la medema proprietaria u dal medem proprietari per dapli che trais bains immobigliars, vegn messa a quint mo pli la mesadad da la taxa a partir dal quart bain immobigliar. Sch'i vegnan pretendidas valitaziuns ultra d'in bain immobigliar principal er da bains immobigliars accessorics, sco per exempel da hallas da parcar en proprietad en condomini, scrodan las taxas per ils bains immobigliars accessorics.
+
+<sup>3</sup> L'uffizi n'incassescha betg taxas da las autoritads chantunalas u communalas.
 
 #### Art. 39
 
-**Procedura**
+**Taxas e parts dals custs per ulteriurs retschaviders da prestaziuns**
 
-<sup>1</sup> Ils organs da stimaziun incumbenseschan l'uffizi forestal cun las stimaziuns forestalas e communitgeschan las valurs stimadas.
+<sup>1</sup> En cas da valitaziuns da revisiun incassescha l'uffizi da las vischnancas ina taxa da 0,1 promils da la valur da nov. Las taxas vegnan messas a quint a las vischnancas quartal per quartal. Sin dumonda po il quint er vegnir tramess mintga mais.
 
-<sup>2</sup> Bains immobigliars surbajegiads cun singulas plantas u cun pitschnas gruppas da plantas che n'èn betg objects da la cultivaziun forestala, vegnan valitads directamain dals organs da stimaziun.
+<sup>1<sup>bis</sup></sup> Las parts dals custs per la valitaziun da las valurs da nov e da las valurs actualas tenor l'artitgel 20 alinea 2 incassescha l'uffizi cumplainamain da l'Assicuranza d'edifizis dal Grischun.
 
-## 6. Part dals custs e taxas
+<sup>1<sup>ter</sup></sup> Las taxas e las parts dals custs per la valitaziun da stabiliments da la producziun, dal transport e da la repartiziun d'energia senza fixaziun d'ina valur da nov e d'ina valur actuala tenor l'artitgel 23 da la lescha e per las valitaziuns da revisiun che suondan tenor l'artitgel 13 da la lescha vegnan eruidas tenor la lavur impundida ed incassadas da l'uffizi mintgamai per la mesadad da l'Administraziun chantunala da taglia e da las vischnancas.
 
-#### Art. 40
+<sup>2</sup> Las parts dals custs vegnan messas a quint quartal per quartal.
 
-**Parts dals custs**
-
-<sup>1</sup> Las parts dals custs che las vischnancas ston pajar vegnan taxadas da las cumissiuns da stimaziun en furma d'ina disposiziun e messas a quint periodicamain.
-
-<sup>2</sup> Tar l'assicuranza d'edifizis dal Grischun e tar l'uffizi chantunal da taglia vegnan las parts dals custs messas a quint per quartal, tar ils auters uffizis chantunals la fin da l'onn.
-
-#### Art. 41
-
-**Taxas per proceduras da stimaziun**
-
-<sup>1</sup> La proprietaria ed il proprietari u la petenta ed il petent ston pajar las suandantas taxas:
-
-- a) per l'emprima stimaziun da bains immobigliars sco er tar edifizis novs, inclusiv parts integralas ed accessoricas, 1,0 promil da la valur commerziala;
-- b) per l'emprima stimaziun da proprietad en condomini, da cumproprietad cun urden da giudida e d'administraziun, inclusiv parts integralas ed accessoricas, 1,0 promils da la valur commerziala, la quala vegn incassada a quint da las proprietarias e dals proprietaris tar l'administraziun da la cuminanza da proprietarias e da proprietaris en condomini respectivamain tar ils singuls cumproprietaris;
-- c) per stimaziuns novas, sch'i n'è vegnì midà nagut vi dal bain immobigliar dapi l'ultima stimaziun, 0,7 promils da la valur commerziala;
-- d) per stimaziuns da revisiun e per stimaziuns novas, sch'igl è vegnì fatg midadas u renovaziuns vi dal bain immobigliar dapi l'ultima stimaziun, 1,0 promil da l'import impundì; latiers na dastga la taxa betg surpassar l'import d'ina emprima stimaziun;
-- e) per stimaziuns da revisiuns e per stimaziuns novas, sch'igl è vegnida fatga dapi l'ultima stimaziun ina transfurmaziun en proprietad en condomini u en cumproprietad cun urden da giudida e d'administraziun, 0,3 promils da la valur commerziala.
-
-<sup>2</sup> A partir d'ina taxa da 5000 francs per mintga bain immobigliar sto vegnir reducida la tariffa pass per pass per maximalmain 20 pertschient. La basa per fixar la reducziun è la tabella en l'agiunta[^41-1]. Ils imports ch'èn decisivs per la facturaziun dals singuls stgalims na dastgan betg sutpassar l'import maximal dal proxim stgalim pli bass.
-
-[^41-1]: tenor l'art. 16 al. 1 LSU importa il rom da las taxas 100 francs fin 20 000 francs per mintga bain immobigliar
-
-## 7. Disposiziuns finalas
-
-#### Art. 42
-
-**Aboliziun dal dretg vertent**
-
-<sup>1</sup> Ils suandants relaschs vegnan abolids cun l'entrada en vigur da questa ordinaziun:
-
-- 1\. las disposiziuns executivas tar l'ordinaziun davart las stimaziuns uffizialas dals 25 da settember 2001[^42-1];
-- 2\. il reglament da stimaziun dals 25 da settember 2001[^42-2];
-- 3\. la tariffa da custs e da taxas per las stimaziuns uffizialas dals 29 da november 1999[^42-3].
-
-[^42-1]: CUL 2001, FUC 2001 4191 e CUL 2004, FUC 2004 2186
-[^42-2]: CUL 2001, FUC 2001 4180; CUL 2002, FUC 2002 3050 e CUL 2003, FUC 2003 3842
-[^42-3]: CUL 1999, 4559; CUL 2003, FUC 2003 3843 e CUL 2003, FUC 2003 3970
-
-#### Art. 43
-
-**Entrada en vigur**
-
-<sup>1</sup> Questa ordinaziun entra en vigur il medem mument sco la lescha davart las stimaziuns uffizialas[^43-1].
-
-[^43-1]: 1. da schaner 2007
-
--
+2017-035
