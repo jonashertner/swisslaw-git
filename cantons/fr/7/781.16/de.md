@@ -3,13 +3,13 @@ canton: FR
 number: "781.16"
 title: Beschluss über die Strassenverkehrsgebühren
 language: de
-version: 2018-01-01
-valid_until: 2022-06-30
-version_adopted: 2017-08-22
+version: 2022-07-01
+valid_until: 2024-02-29
+version_adopted: 2022-05-03
 adopted: 1991-07-12
 in_force: 1991-10-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/781.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/7431/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7492/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7431/pdf_file"
 
 Strassenverkehrsgebühren – B
 
-vom 12.07.1991 (Fassung in Kraft getreten am 01.01.2018)
+vom 12.07.1991 (Fassung in Kraft getreten am 01.07.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -76,9 +76,9 @@ beschliesst:
 
 **Führerausweis – Besondere Prüfungen**
 
-<sup>1</sup> Für die folgenden besonderen Examen wird, je nach Arbeitsaufwand, eine Gebühr zwischen 50 und 400 Franken erhoben:
+<sup>1</sup> Für die folgenden besonderen Prüfungen wird, je nach Arbeitsaufwand, eine Gebühr zwischen 50 und 400 Franken erhoben:
 
-- a) theoretische und/oder praktische Führerprüfung nach einem Entscheid der Kommission für Administrativmassnahmen im Strassenverkehr oder nach der Aufhebung oder Beifügung von Beschränkungen oder Auflagen;
+- a) theoretische und/oder praktische Führerprüfung nach einem Entscheid des ASS oder nach der Aufhebung oder Auferlegung von Beschränkungen oder Auflagen;
 - b) Prüfung für das Fahren auf dem Betriebsgelände;
 - c) Prüfung für das Führen eines Fahrzeuges, das für Behinderte eingerichtet wurde;
 - d) Kontrollfahrten;
@@ -105,6 +105,17 @@ beschliesst:
 - h) für das Ausstellen oder die Erneuerung eines ausländischen Führerausweises: — Fr. 25
 - i) …
 - j) für die Bewilligung, den Führerausweis in einem anderen Kanton zu Erlangen: — Fr. 20
+
+#### Art. 4a
+
+**Verfahrenskosten**
+
+<sup>1</sup> Die zuständige Behörde auferlegt der Person, gegen die eine Massnahme ausgesprochen wird, die Verfahrenskosten, bestehend aus:
+
+- a) einer Gebühr von 50 bis 500 Franken;
+- b) den Auslagen, die sich insbesondere aus den Expertenhonoraren, den Zeugenentschädigungen und allen übrigen durch die Instruktion verursachten Kosten zusammensetzen.
+
+<sup>2</sup> Endet das Verfahren mit einer Ermahnung zur Vorsicht, so beträgt die Gebühr, einschliesslich der Auslagen, 30 bis 70 Franken.
 
 #### Art. 5
 

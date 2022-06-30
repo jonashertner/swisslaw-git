@@ -3,13 +3,13 @@ canton: FR
 number: "781.16"
 title: Arrêté fixant les émoluments en matière de circulation routière
 language: fr
-version: 2018-01-01
-valid_until: 2022-06-30
-version_adopted: 2017-08-22
+version: 2022-07-01
+valid_until: 2024-02-29
+version_adopted: 2022-05-03
 adopted: 1991-07-12
 in_force: 1991-10-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/781.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7431/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7492/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7431/pdf_file"
 
 Circulation routière, émoluments – A
 
-du 12.07.1991 (version entrée en vigueur le 01.01.2018)
+du 12.07.1991 (version entrée en vigueur le 01.07.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -78,7 +78,7 @@ Arrête:
 
 <sup>1</sup> Pour les examens particuliers suivants, un émolument fixé entre 50 et 400 francs est perçu, selon l'importance de la prestation:
 
-- a) examen de contrôle théorique et/ou pratique à la suite d'une décision de la Commission des mesures administratives en matière de circulation routière, à la suite de la suppression ou de l'adjonction de restrictions ou de conditions spéciales;
+- a) examen de contrôle théorique et/ou pratique à la suite d'une mesure de l'OCN, à la suite de la suppression ou de l'adjonction de restrictions ou de conditions spéciales;
 - b) examen pour le trafic interne d'entreprise;
 - c) examen de conduite d'un véhicule adapté à un handicap;
 - d) course de contrôle;
@@ -105,6 +105,17 @@ Arrête:
 - h) pour l'établissement d'un permis de conduire international ou le renouvellement de ce permis: — Fr. 25
 - i) …
 - j) pour l'autorisation de passer le permis dans un autre canton: — Fr. 20
+
+#### Art. 4a
+
+**Frais de procédure**
+
+<sup>1</sup> Lorsqu'une mesure est prononcée, l'autorité compétente met à la charge de la personne concernée les frais de procédure comprenant:
+
+- a) un émolument de 50 à 500 francs;
+- b) les débours, comprenant notamment les honoraires des experts, les indemnités versées aux témoins et les autres frais occasionnés par l'instruction.
+
+<sup>2</sup> Lorsque la procédure se termine par un rappel à la prudence, l'émolument est de 30 à 70 francs, débours compris.
 
 #### Art. 5
 
