@@ -4,13 +4,12 @@ number: "115.11"
 title: Verordnung zum Gesetz über die wirkungsorientierte Verwaltungsführung
 short: WoV-VO
 language: de
-version: 2019-01-01
-valid_until: 2022-06-30
-version_adopted: 2018-09-18
+version: 2022-07-01
+version_adopted: 2022-03-15
 adopted: 2004-07-06
 in_force: 2004-07-01
 url: "https://bgs.so.ch/app/de/texts_of_law/115.11"
-pdf: "https://bgs.so.ch/api/de/versions/4760/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5226/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4760/pdf_file"
 
 (WoV-VO)
 
-Vom 06.07.2004 (Stand 01.01.2019)
+Vom 06.07.2004 (Stand 01.07.2022)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -374,6 +373,8 @@ beschliesst:
 
 - a) zweckgebundene Globalbudgetreserven nach § 37 Absatz 1 vollumfänglich und
 - b) nicht zweckgebundene Globalbudgetreserven nach § 37 Absatz 4 in der Regel zur Hälfte auf die neue Globalbudgetperiode.
+
+<sup>2</sup> Nicht zweckgebundene Globalbudgetreserven sind aufzulösen und können nicht in die neue Globalbudgetperiode übertragen werden, wenn der bewilligte Verpflichtungskredit nicht ausreicht und ein Zusatzkredit eingeholt werden muss.
 
 #### § 39
 
