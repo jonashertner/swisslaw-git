@@ -4,10 +4,11 @@ number: "171.11"
 title: Kantonsratsreglement (KRR)
 short: KRR
 language: de
-nachtrag: "108"
-valid_until: 2022-07-01
+version: "2022-07-01"
+nachtrag: "117"
+valid_until: 2026-07-01
 adopted: 2019-03-25
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-171_11-2019_03_25-2020_05_01-108.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-171_11-2019_03_25-2020_05_01-117.html"
 text: pdf
 ---
 
@@ -68,7 +69,7 @@ Die konstituierende Sitzung hat folgenden Ablauf:
 
 **1**
 
-- 1\. 4. 20 - 108 § 3. <sup>1</sup> Der Kantonsrat tagt ordentlich am Montagvormittag. Die Sitzung beginnt in der Regel um 8.15 Uhr.
+- 1\. 7. 22 - 117 § 3. <sup>1</sup> Der Kantonsrat tagt ordentlich am Montagvormittag. Die Sitzung beginnt in der Regel um 8.15 Uhr.
 
 **Sitzungszeiten**
 
@@ -98,11 +99,13 @@ Die konstituierende Sitzung hat folgenden Ablauf:
 
 <sup>3</sup> Die Information über die Anwesenheit der Kantonsratsmitglieder ist öffentlich.
 
+[^5-1]: Fassung gemäss KRB vom 14. März 2022 (OS 77, 257; ABl 2021-07-09). In Kraft seit 1. Juli 2022.
+
 #### § 6
 
 **Information der Öffentlichkeit**
 
-<sup>1</sup> Der Kantonsrat und seine Organe informieren die Öffentlichkeit mittels Medienkonferenzen und Mitteilungen auf der digitalen Plattform des Kantonsrates.
+<sup>1</sup> Der Kantonsrat und seine Organe informieren die Öffentlichkeit mittels Medienkonferenzen sowie Mitteilungen und übertragen die Kantonsratsdebatten in Bild und Ton. Sie nutzen dafür die digitalen Plattformen des Kantonsrates.[^5-1]
 
 <sup>2</sup> Die Einladungen zu den Kantonsratssitzungen werden zusätzlich im Amtsblatt des Kantons Zürich veröffentlicht.
 
@@ -160,11 +163,11 @@ Die Geschäftsleitung nimmt die Aufgaben gemäss Kantonsratsgesetz wahr und a. p
 
 - b. beschliesst über die Beratungsart auf Antrag der vorberatenden Kommission,
 
-- c. entscheidet über die Sistierungsgesuche der Kommissionen zu den ihnen zugeteilten Geschäften,
-
 **3**
 
-- 1\. 4. 20 - 108
+- 1\. 7. 22 - 117
+
+- c. entscheidet über die Sistierungsgesuche der Kommissionen zu den ihnen zugeteilten Geschäften,
 
 - d. legt verfahrens- und organisationsrelevante Fragen aus,
 
@@ -276,7 +279,7 @@ Will eine Kommission die Beratung eines ihr zugewiesenen Beratungsgegenstands f�
 
 **5**
 
-- 1\. 4. 20 - 108
+- 1\. 7. 22 - 117
 
 <sup>2</sup> Die Präsidentin oder der Präsident oder die von der Kommission beauftragten Mitglieder sind für die Information der Medien zuständig. Die anderen Mitglieder greifen der Information nicht vor.
 
@@ -372,7 +375,7 @@ Jede Aufsichtskommission zählt elf Mitglieder, einschliesslich der Kommissionsp
 
 **7**
 
-- 1\. 4. 20 - 108 § 35. <sup>1</sup> Die Finanzkommission übt die parlamentarische Kontrolle über die Finanzen des Kantons aus.
+- 1\. 7. 22 - 117 § 35. <sup>1</sup> Die Finanzkommission übt die parlamentarische Kontrolle über die Finanzen des Kantons aus.
 
 **Finanzkommission a. Aufgaben**
 
@@ -414,9 +417,11 @@ Jede Aufsichtskommission zählt elf Mitglieder, einschliesslich der Kommissionsp
 
 <sup>2</sup> Die Sachkommissionen und die Justizkommission setzen die Vorgaben der Finanzkommission um und stellen ihr spätestens bis am Montag der zehnten Woche nach Überweisung des Budgetentwurfs Antrag.
 
-<sup>3</sup> Stimmen die Anträge der Sachkommissionen und der Justizkommission nicht mit denjenigen der Finanzkommission überein, lädt die Finanzkommission eine Delegation der Sachkommission oder der Justizkommission und das zuständige Mitglied des Regierungsrates oder des obersten Gerichts zur mündlichen Stellungnahme und Differenzbereinigung ein.
+<sup>3</sup> Stimmen die Anträge der Sachkommissionen oder der Justizkommission nicht mit denjenigen der Finanzkommission überein, lädt die Finanzkommission das zuständige Mitglied des Regierungsrates oder des obersten Gerichts zur mündlichen Stellungnahme ein. Sie kann dazu eine Delegation der Sachkommission oder der Justizkommission anhören.[^37-1]
 
 <sup>4</sup> Folgt die Finanzkommission dem Antrag der zuständigen Sachkommission oder der Justizkommission nicht, ergänzt sie ihren Antrag mit dem Antrag der Sachkommission oder der Justizkommission.
+
+[^37-1]: Fassung gemäss KRB vom 14. März 2022 (OS 77, 255; ABl 2021-06-11). In Kraft seit 1. Juli 2022.
 
 #### § 38
 
@@ -452,7 +457,7 @@ Will der Regierungsrat einen Indikator eines Leistungsgruppenbudgets neu schaffe
 
 **9**
 
-- 1\. 4. 20 - 108
+- 1\. 7. 22 - 117
 
 <sup>2</sup> Sie stellt dem Kantonsrat Antrag auf Genehmigung a. der Rechenschaftsberichte der obersten Gerichte,
 
@@ -542,7 +547,7 @@ Die Redaktionskommission prüft nach dem Abschluss der ersten Lesung im Kantonsr
 
 **11**
 
-- 1\. 4. 20 - 108 § 48. <sup>1</sup> Die Kantonsratspräsidentin oder der Kantonsratspräsident ruft die Sitzungsteilnehmenden zur Ordnung auf, wenn diese
+- 1\. 7. 22 - 117 § 48. <sup>1</sup> Die Kantonsratspräsidentin oder der Kantonsratspräsident ruft die Sitzungsteilnehmenden zur Ordnung auf, wenn diese
 
 **Disziplinarische Massnahmen**
 
@@ -626,6 +631,10 @@ Der Schriftverkehr zwischen dem Kantonsrat, seinen Organen und den kantonalen Be
 
 <sup>2</sup> Die Kantonsratspräsidentin oder der Kantonsratspräsident kann das Rederecht auf das antragstellende Kantonsratsmitglied und je ein Mitglied jeder Fraktion beschränken.
 
+<sup>3</sup> Der Kantonsrat kann bis zum Ende der Behandlung eines Beratungsgegenstandes auf seine Beschlüsse zurückkommen, wenn mindestens 20 Kantonsratsmitglieder den Antrag unterstützen.[^54-1]
+
+[^54-1]: Eingefügt durch KRB vom 14. März 2022 (OS 77, 257; ABl 2021-07-09). In Kraft seit 1. Juli 2022.
+
 ### 4. Abschnitt: Redeordnung
 
 #### § 55
@@ -636,7 +645,7 @@ Der Schriftverkehr zwischen dem Kantonsrat, seinen Organen und den kantonalen Be
 
 **13**
 
-- 1\. 4. 20 - 108
+- 1\. 7. 22 - 117
 
 <sup>2</sup> Der Kantonsrat kann auf Antrag der Geschäftsleitung Angestellten des Kantons oder Drittpersonen das Recht erteilen, im Kantonsrat zu sprechen, wenn der Beratungsgegenstand besondere Kenntnisse erfordert.
 
@@ -730,7 +739,7 @@ stellenden und der mitberichtenden Kommission,
 
 **15**
 
-- 1\. 4. 20 - 108
+- 1\. 7. 22 - 117
 
 <sup>2</sup> In der Kurzdebatte können sich alle Kantonsratsmitglieder zu Wort melden. Die Redezeit beträgt zwei Minuten.
 
@@ -844,7 +853,7 @@ Vorstösse und parlamentarische Initiativen werden während der Kantonsratssitzu
 
 **17**
 
-- 1\. 4. 20 - 108 § 73. <sup>1</sup> Ist die elektronische Stimmabgabe nicht möglich, erfolgt die Stimmabgabe, indem sich die Kantonsratsmitglieder auf Frage der Kantonsratspräsidentin oder des Kantonsratspräsidenten von ihren Sitzen erheben. Die Stimmen werden ausgezählt.
+- 1\. 7. 22 - 117 § 73. <sup>1</sup> Ist die elektronische Stimmabgabe nicht möglich, erfolgt die Stimmabgabe, indem sich die Kantonsratsmitglieder auf Frage der Kantonsratspräsidentin oder des Kantonsratspräsidenten von ihren Sitzen erheben. Die Stimmen werden ausgezählt.
 
 **Stimmabgabe ohne elektronische Abstimmungsanlage**
 
@@ -926,7 +935,7 @@ Vorstösse und parlamentarische Initiativen werden während der Kantonsratssitzu
 
 **19**
 
-- 1\. 4. 20 - 108
+- 1\. 7. 22 - 117
 
 ### 4. Teil: Schlussbestimmungen
 
