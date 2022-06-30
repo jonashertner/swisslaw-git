@@ -4,13 +4,12 @@ number: "464.16"
 title: Ordonnance sur le subventionnement de piscines
 short: OPiscines
 language: fr
-version: 2015-10-01
-valid_until: 2022-06-30
-version_adopted: 2015-08-25
+version: 2022-07-01
+version_adopted: 2022-07-04
 adopted: 2015-08-25
 in_force: 2015-10-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/464.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5230/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7516/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Subventionnement de piscines – O
 
 (OPiscines)
 
-du 25.08.2015 (version entrée en vigueur le 01.10.2015)
+du 25.08.2015 (version entrée en vigueur le 01.07.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -145,7 +144,7 @@ Arrête:
 
 **Analyse du dossier**
 
-<sup>1</sup> La Direction de l'instruction publique, de la culture et du sport est compétente pour l'analyse du dossier.
+<sup>1</sup> La Direction de la sécurité, de la justice et du sport est compétente pour l'analyse du dossier.
 
 #### Art. 10
 

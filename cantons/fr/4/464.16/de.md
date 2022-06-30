@@ -4,13 +4,12 @@ number: "464.16"
 title: Verordnung über die Subventionierung von Schwimmbädern
 short: SSubV
 language: de
-version: 2015-10-01
-valid_until: 2022-06-30
-version_adopted: 2015-08-25
+version: 2022-07-01
+version_adopted: 2022-07-04
 adopted: 2015-08-25
 in_force: 2015-10-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/464.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/5230/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7516/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Subventionierung von Schwimmbädern – V
 
 (SSubV)
 
-vom 25.08.2015 (Fassung in Kraft getreten am 01.10.2015)
+vom 25.08.2015 (Fassung in Kraft getreten am 01.07.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -145,7 +144,7 @@ beschliesst:
 
 **Prüfung des Dossiers**
 
-<sup>1</sup> Die Direktion für Erziehung, Kultur und Sport ist für die Prüfung des Dossiers zuständig.
+<sup>1</sup> Die Sicherheits-, Justiz- und Sportdirektion ist für die Prüfung des Dossiers zuständig.
 
 #### Art. 10
 
