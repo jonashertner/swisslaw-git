@@ -4,11 +4,11 @@ title: "Verordnung vom 15. Juni 2007 über die Zulassung von Fahrzeugführern un
 short: CZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/437"
 language: de
-version: 2022-04-26
+version: 2022-07-01
 adopted: 2007-06-15
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/437/20220426/de/xml/fedlex-data-admin-ch-eli-cc-2007-437-20220426-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20220426/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/437/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2007-437-20220701-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20220426/de"
 
 (Chauffeurzulassungsverordnung, CZV)
 
-vom 15. Juni 2007 (Stand am 26. April 2022)
+vom 15. Juni 2007 (Stand am 1. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 15 Absätze 4 und 5, 25 Absatz 2 Buchstaben b und d, 1
 
 verordnet:
 
-[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -80,7 +80,7 @@ Keinen Fähigkeitsausweis benötigen Führer und Führerinnen von Motorfahrzeuge
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 [^3-2]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^3-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^3-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^3-4]: Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Sept. 2009 ([AS 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
 [^3-5]: Eingefügt gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Sept. 2009 ([AS 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
 [^3-6]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
@@ -88,7 +88,7 @@ Keinen Fähigkeitsausweis benötigen Führer und Führerinnen von Motorfahrzeuge
 [^3-8]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 [^3-9]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 [^3-10]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^3-11]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^3-11]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 
 #### Art. 4
 
@@ -112,13 +112,13 @@ Auf den Fahrten ist mitzuführen:
 
 **Fahrzeugführer und Fahrzeugführerinnen aus der Europäischen Union und der Europäischen Freihandelsassoziation**[^5-1]
 
-Den Befähigungsnachweis nach der Richtlinie 2003/59/EG[^5-2] benötigen:
+Den Befähigungsnachweis nach der Richtlinie (EU) 2022/2561[^5-2] benötigen:
 
 - a. Fahrzeugführer und Fahrzeugführerinnen mit Wohnsitz in einem Mitgliedstaat der Europäischen Union oder der Europäischen Freihandelsassoziation;
 - b. Fahrzeugführer und Fahrzeugführerinnen, die von einem in der Europäischen Union oder der Europäischen Freihandelsassoziation niedergelassenen Unternehmen beschäftigt werden.
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^5-2]: Richtlinie 2003/59/EG des Europäischen Parlaments und des Rates vom 15. Juli 2003 über die Grundqualifikation und Weiterbildung der Fahrer bestimmter Kraftfahrzeuge für den Güter- oder Personenkraftverkehr und zur Änderung der Verordnung (EWG) Nr. 3820/85 des Rates und der Richtlinie 91/439/EWG des Rates sowie zur Aufhebung der Richtlinie 76/914/EWG des Rates, ABl. L 226 vom 10.9.2003, S. 4; zuletzt geändert durch Richtlinie (EU) 2018/645, ABl. L 112 vom 2.5.2018, S. 29.
+[^5-2]: Richtlinie (EU) 2022/2561 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die Grundqualifikation und Weiterbildung der Fahrer bestimmter Kraftfahrzeuge für den Güter- oder Personenkraftverkehr, ABl. L 330 vom 23.12.2022, S. 46. Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 12. Jan. 2023 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 
 ## 2. Abschnitt: Fähigkeitsausweise
 
@@ -149,7 +149,7 @@ Der Fähigkeitsausweis für den Gütertransport wird Personen erteilt, die:
 
 Fahrzeugführern und Fahrzeugführerinnen aus dem Ausland, die in der Schweiz Wohnsitz nehmen, wird der Fähigkeitsausweis ohne Prüfung erteilt, wenn:
 
-- a. eine entsprechende Berechtigung im ausländischen Führerausweis eingetragen oder mit dem Fahrerqualifizierungsnachweis nach Anhang II der Richtlinie 2003/59/EG[^7-2] dokumentiert ist; oder
+- a. eine entsprechende Berechtigung im ausländischen Führerausweis eingetragen oder mit dem Fahrerqualifizierungsnachweis nach Anhang II der Richtlinie (EU) 2022/2561[^7-2] dokumentiert ist; oder
 - b. sie eine nationale Bescheinigung besitzen, die das Bundesamt für Strassen (ASTRA) als gleichwertig anerkennt.
 
 <sup>2</sup> Fahrzeugführer und Fahrzeugführerinnen mit Wohnsitz ausserhalb eines Mitgliedstaates der Europäischen Union oder der Europäischen Freihandelsassoziation, die von einem in der Schweiz niedergelassenen Unternehmen beschäftigt werden, wird der Fähigkeitsausweis ohne Prüfung erteilt, wenn sie die Voraussetzungen nach Absatz 1 Buchstabe a oder b erfüllen.
@@ -181,13 +181,13 @@ Die Fähigkeitsausweise werden erteilt:
 Die Erteilung des Fähigkeitsausweises erfolgt unter Angabe der Gültigkeitsdauer mittels:
 
 - a. Eintrag als Zusatzangabe im Führerausweis (Art. 24*c* Bst. e der Verkehrszulassungsverordnung vom 27. Okt. 1976[^9-3], VZV); oder
-- b.[^9-4] Ausstellung einer separaten Karte nach dem Modell des Fahrerqualifizierungsnachweises nach Anhang II der Richtlinie 2003/59/EG[^9-5].[^9-6]
+- b.[^9-4] Ausstellung einer separaten Karte nach dem Modell des Fahrerqualifizierungsnachweises nach Anhang II der Richtlinie (EU) 2022/2561[^9-5].[^9-6]
 
 <sup>4</sup> Die Angaben auf der separaten Karte müssen mit denjenigen auf dem zugrunde liegenden Führerausweis übereinstimmen. Bei einem allfälligen Ersatz des Führerausweises muss eine neue Karte beantragt werden.[^9-7]
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Sept. 2009 ([AS 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
 [^9-2]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^9-3]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^9-3]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 [^9-4]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 [^9-5]: Siehe Fussnote zu Art. 5.
 [^9-6]: Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Sept. 2009 ([AS 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
@@ -197,9 +197,11 @@ Die Erteilung des Fähigkeitsausweises erfolgt unter Angabe der Gültigkeitsdaue
 
 #### Art. 10
 
-**Allgemeines**
+**Allgemeines**[^10-1]
 
-An der Theorieprüfung und an der praktischen Prüfung haben die Kandidaten und Kandidatinnen nachzuweisen, dass sie die zur Durchführung von Personen- oder Gütertransporten erforderlichen grundlegenden Kenntnisse und Fähigkeiten nach dem Anhang besitzen.
+An der Theorieprüfung und an der praktischen Prüfung haben die Kandidaten und Kandidatinnen nachzuweisen, dass sie die zur Durchführung von Personen- und Gütertransporten erforderlichen grundlegenden Handlungskompetenzen, Kenntnisse und Fähigkeiten nach dem Anhang besitzen.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 11
 
@@ -211,7 +213,7 @@ An der Theorieprüfung und an der praktischen Prüfung haben die Kandidaten und 
 
 <sup>3</sup> Zu einer kombinierten Prüfung (Art. 14<sup>bis</sup>) wird zugelassen, wer die Theorieprüfung nach Artikel 12 Absatz 1 Buchstabe a bestanden hat und den Lernfahrausweis oder den Führerausweis für das verwendete Fahrzeug besitzt. Die Zulassung zur Prüfungsfahrt nach Artikel 14 Absatz 3 richtet sich nach Anhang 12 Ziffer I VZV.[^11-2]
 
-[^11-1]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^11-1]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 [^11-2]: Eingefügt gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Sept. 2009 ([AS 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
 
 #### Art. 12
@@ -245,7 +247,7 @@ Die Theorieprüfung beinhaltet:
 
 <sup>3</sup> Die Inhaber und Inhaberinnen eines Fachausweises nach dem dritten Abschnitt der Verordnung vom 1. November 2000[^13-1] über die Zulassung als Strassentransport-unternehmung im Personen- und Güterverkehr sind von jenen Prüfungsteilen befreit, für die sie bereits qualifiziert sind.
 
-[^13-1]: [SR 744.103](https://fedlex.data.admin.ch/eli/cc/2015/597)
+[^13-1]: [SR 744.103](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8861)
 
 #### Art. 14
 
@@ -253,12 +255,12 @@ Die Theorieprüfung beinhaltet:
 
 <sup>1</sup> Die praktische Prüfung besteht aus einem allgemeinen Teil und einer Prüfungsfahrt.
 
-<sup>2</sup> Der allgemeine Teil muss von allen Bewerbern und Bewerberinnen um einen Fähigkeitsausweis absolviert werden. Er muss sich mindestens auf die Ziffern 2.121, 2.141, 2.142, 2.312, 2.313 und 2.315 des Anhangs erstrecken und dauert mindestens 30 Minuten. Es ist ein Fahrzeug der Kategorie oder Unterkategorie, mit der die Personen- oder Gütertransporte durchgeführt werden sollen, zu verwenden.[^14-1]
+<sup>2</sup> Der allgemeine Teil muss von allen Bewerbern und Bewerberinnen um einen Fähigkeitsausweis absolviert werden. Er muss sich mindestens auf die Ziffern 2.121, 2.131, 2.132, 2.312, 2.313 und 2.315 des Anhangs erstrecken und dauert mindestens 30 Minuten. Es ist ein Fahrzeug der Kategorie oder Unterkategorie, mit der die Personen- oder Gütertransporte durchgeführt werden sollen, zu verwenden.[^14-1]
 
 <sup>3</sup> Die Prüfungsfahrt muss von Inhabern und Inhaberinnen des Führerausweises der Unterkategorie C1 oder D1 absolviert werden. Auf der Prüfungsfahrt wird festgestellt, ob sie sowohl zu einer rücksichtsvollen und sicherheitsbewussten als auch zu einer umweltschonenden und energieeffizienten Fahrweise fähig sind. Die Prüfungsfahrt muss mindestens 30 Minuten dauern. Es ist ein Motorfahrzeug zu verwenden, das die Anforderungen an ein Prüfungsfahrzeug der entsprechenden Unterkategorie (Anhang 12 Ziff. V VZV[^14-2]) erfüllt.
 
 [^14-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^14-2]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^14-2]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 #### Art. 14<sup>bis</sup>
 
@@ -277,7 +279,7 @@ Der Teil der Theorieprüfung nach Artikel 12 Absatz 1 Buchstabe b und der allgem
 <sup>2</sup> Die Wiederholung der Prüfungsfahrt (Art. 14 Abs. 3) richtet sich nach Artikel 23 VZV[^15-2].
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^15-2]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^15-2]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 ## 4. Abschnitt: Weiterbildung
 
@@ -307,9 +309,16 @@ Der Teil der Theorieprüfung nach Artikel 12 Absatz 1 Buchstabe b und der allgem
 
 <sup>1</sup> Wer den Fähigkeitsausweis für den Personentransport oder den Fähigkeitsausweis für den Gütertransport oder beide besitzt, muss für deren Verlängerung den Besuch von 35 Stunden Weiterbildung nachweisen.
 
-<sup>2</sup> Die Weiterbildung kann als Wochenkurs oder in Tageskursen besucht werden. Ein Kurstag muss mindestens 7 Stunden dauern.
+<sup>2</sup> Die Weiterbildung kann als Wochenkurs oder in Einzelkursen besucht werden. Ein Einzelkurs muss ohne Anrechnung von Pausen mindestens sieben Stunden dauern. Er kann auf zwei aufeinanderfolgende Tage aufgeteilt werden.[^18-2]
+
+<sup>3</sup> Von einem Einzelkurs von sieben Stunden dürfen maximal drei Stunden im Rahmen eines E-Learning-Moduls angeboten werden. Ein Einzelkurs mit E-Learning-Modul kann auf zwei Tage aufgeteilt werden. Zwischen dem E-Learning-Modul und dem Präsenzunterricht dürfen höchstens fünf Tage liegen.[^18-3]
+
+<sup>4</sup> Die Durchführung von Einzelkursen mit E-Learning-Modul ist im Anhang Ziffer 4 geregelt.[^18-4]
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^18-2]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^18-3]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^18-4]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 19
 
@@ -324,7 +333,7 @@ Die Weiterbildungsstätten haben den Teilnehmern und Teilnehmerinnen den Kursbes
 Ausländische Bescheinigungen über den Besuch einer Weiterbildung werden als gleichwertig anerkannt, wenn:
 
 - a. die Weiterbildung ganz oder teilweise während der Beschäftigung bei einem im Ausland niedergelassenen Unternehmen besucht wurde; und
-- b.[^20-1] die Kursveranstalterin in einem Mitgliedstaat der Europäischen Union oder der Europäischen Freihandelsassoziation als Anbieterin von Weiterbildungskursen nach Anhang I Abschnitt 5 der Richtlinie 2003/59/EG[^20-2] zugelassen ist.
+- b.[^20-1] die Kursveranstalterin in einem Mitgliedstaat der Europäischen Union oder der Europäischen Freihandelsassoziation als Anbieterin von Weiterbildungskursen nach Anhang I Abschnitt 5 der Richtlinie (EU) 2022/2561[^20-2] zugelassen ist.
 
 [^20-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 [^20-2]: Siehe Fussnote zu Art. 5.
@@ -375,7 +384,7 @@ Die Bewilligung wird erteilt, wenn der Gesuchsteller oder die Gesuchstellerin:
 
 <sup>6</sup> Die Bewilligung kann entzogen werden, wenn der Inhaber oder die Inhaberin die Voraussetzungen nach Absatz 4 Buchstaben a und c oder Absatz 5 nicht mehr erfüllt.
 
-[^23-1]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^23-1]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 [^23-2]: Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Sept. 2009 ([AS 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
 
 #### Art. 24
@@ -406,13 +415,15 @@ Die Kantone:
 - d. erteilen die Bewilligungen für die Lehrkräfte an den Weiterbildungsstätten;
 - e. beaufsichtigen die Durchführung der Weiterbildungskurse;
 - f. genehmigen die Ausbildungsprogramme für die berufsbegleitende Ausbildung, die noch nicht eidgenössisch anerkannt sind;
-- g. entscheiden über die Anrechnung von im Ausland besuchten Weiterbildungen.
+- g. entscheiden über die Anrechnung von im Ausland besuchten Weiterbildungen;
+- h.[^26-1] können zur Vermeidung von Härtefällen individuelle, konkrete Ausnahmen von einzelnen Bestimmungen bewilligen.
 
 <sup>2</sup> Sie können die Erfüllung dieser Aufgaben Dritten übertragen.
 
-<sup>3</sup> Das ASTRA kann für die Durchführung dieser Verordnung Weisungen erlassen. Zur Vermeidung von Härtefällen kann es Ausnahmen von einzelnen Bestimmungen bewilligen.[^26-1]
+<sup>3</sup> Das ASTRA kann für die Durchführung dieser Verordnung Weisungen erlassen. Zur Vermeidung von Härtefällen kann es generelle, abstrakte Ausnahmen von einzelnen Bestimmungen bewilligen.[^26-2]
 
-[^26-1]: Berichtigung vom 26. April 2022 ([AS 2022 256](https://fedlex.data.admin.ch/eli/oc/2022/256)).
+[^26-1]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^26-2]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893); [2022 256](https://fedlex.data.admin.ch/eli/oc/2022/256)).
 
 #### Art. 27
 
@@ -448,168 +459,247 @@ Die Kantone:
 
 <sup>2</sup> Die Artikel 2–20, 24, 25, 26 Absatz 1 Buchstaben a, b, e, und g sowie Artikel 27 treten am 1. September 2009 in Kraft.
 
-Anhang
+Anhang[^t-1]
 
-(Art. 10 und 16)
+(Art. 4 Abs. 1, 10, 12 Abs. 2–4, 14 Abs. 2, 17, 18 Abs. 4 und 21 Abs. 2 Bst. d)
 
-## Für den Erwerb und die Verlängerung der Fähigkeitsausweise verlangte Kenntnisse und Fähigkeiten
+## Erwerb und Verlängerung der Fähigkeitsausweise
 
-### 1. Verbesserung des rationellen Fahrverhaltens auf der Grundlage der Sicherheitsregeln
+[^t-1]: Fassung gemäss Ziff. II der V vom 10. Dez. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
-Alle Kategorien und Unterkategorien
+- 1\. Handlungskompetenzen
+- 1\.1 Die Fahrzeugführer und Fahrzeugführerinnen wenden die Strassenverkehrsvorschriften an, insbesondere jene betreffend das Führen von schweren Motorwagen.
+- 1\.2 Die Fahrzeugführer und Fahrzeugführerinnen sind mit den ihnen zur Verfügung stehenden Fahrzeugen vertraut. Sie setzen sie technisch korrekt und ressourcenschonend ein. Sie führen die notwendigen Sicherheitskontrollen und Wartungsarbeiten durch. Sie erkennen Mängel und beheben sie im Rahmen ihrer Möglichkeiten.
+- 1\.3 Die Fahrzeugführer und Fahrzeugführerinnen führen schwere Motorwagen bei unterschiedlichen äusseren Bedingungen und mit wechselnden Ladungen ohne Gefährdung anderer Verkehrsteilnehmer und -teilnehmerinnen umweltschonend und energieeffizient.
+- 1\.4 Die Fahrzeugführer und Fahrzeugführerinnen übernehmen die Verantwortung für sich, ihre Fahrgäste, das Transportgut, das Fahrzeug, den Auftraggeber und andere Verkehrsteilnehmer und -teilnehmerinnen.
+- 1\.5 Die Fahrzeugführer und Fahrzeugführerinnen verhalten sich bei Pannen, Unfällen, Notfällen und Konflikten situationsgerecht. Sie setzen sich mit deren möglichen Ursachen auseinander und tragen so dazu bei, dass solche Situationen möglichst nicht entstehen oder mit möglichst geringem Schaden bewältigt werden können.
+- 1\.6 Nur Personentransport:
+- Die Fahrzeugführer und Fahrzeugführerinnen transportieren ihre Fahrgäste mit grösstmöglicher Sicherheit und grösstmöglichem Fahrkomfort nach Fahrplan oder Reiseprogramm an die Bestimmungsorte.
+- 1\.7 Nur Gütertransport:
+- Die Fahrzeugführer und Fahrzeugführerinnen transportieren die anvertrauten Güter unter Einhaltung der Vorschriften über die Ladungssicherung.
+- 2\. Kenntnisse und Fähigkeiten
+- 2\.1 Verbesserung des rationellen Fahrverhaltens auf der Grundlage der Sicherheitsregeln
+- 2\.11
 
-- 1\.1 *Ziel:* Kenntnis der Eigenschaften der kinematischen Kette für eine optimierte Nutzung
-  - – Drehmomentkurven
-  - – Leistungskurven
-  - – spezifische Verbrauchskurven eines Motors
-  - – optimaler Nutzungsbereich Drehzahlmesser
-  - – optimaler Drehzahlbereich beim Schalten
+  Alle Kategorien und Unterkategorien:
 
-- 1\.2 *Ziel:* Kenntnis der technischen Merkmale und der Funktionsweise der Sicherheitsausstattung, um das Fahrzeug zu beherrschen, seinen Verschleiss möglichst gering zu halten und Fehlfunktionen vorzubeugen
-  - – Zweikreisbremsanlage
-  - – Grenzen des Einsatzes der Bremsanlagen und der Dauerbremsanlage
-  - – kombinierter Einsatz von Brems- und Dauerbremsanlage
-  - – optimales Verhältnis Geschwindigkeit/Übersetzung
-  - – Einsatz der Trägheit des Fahrzeugs
-  - – Einsatz der Bremsanlagen im Gefälle
-  - – Verhalten bei Defekten
+  - 2\.111 Kenntnis der Eigenschaften der kinematischen Kette für eine optimierte Nutzung
+    - 2\.1111 Drehmomentkurven
+    - 2\.1112 Leistungskurven
+    - 2\.1113 Spezifische Verbrauchskurven eines Motors
+    - 2\.1114 Optimaler Nutzungsbereich Drehzahlmesser
+    - 2\.1115 Optimaler Drehzahlbereich beim Schalten
 
-- 1\.3 *Ziel:* Fähigkeit zur Optimierung des Treibstoffverbrauchs
-  - – Anwendung der Kenntnisse von 1.1 und 1.2
+  - 2\.112 Kenntnis der technischen Merkmale und der Funktionsweise der Sicherheitsausstattung, um das Fahrzeug zu beherrschen, seinen Verschleiss möglichst gering zu halten und Fehlfunktionen vorzubeugen
+    - 2\.1121 Grenzen des Einsatzes der Bremsanlagen und der Dauerbremsanlage
+    - 2\.1122 Kombinierter Einsatz von Brems- und Dauerbremsanlage
+    - 2\.1123 Optimales Verhältnis Geschwindigkeit/Übersetzung
+    - 2\.1124 Einsatz der Trägheit des Fahrzeugs
+    - 2\.1125 Einsatz der Bremsanlagen im Gefälle
+    - 2\.1126 Verhalten bei Defekten
+    - 2\.1127 Verwendung von elektronischen und mechanischen Geräten wie elektronischen Stabilitätsprogrammen, vorausschauenden Notbremssystemen, Antiblockiersystemen, Traktionskontrollsystemen und Überwachungssystemen im Fahrzeug sowie von weiteren zugelassenen Fahrerassistenz- oder Automatisierungssystemen
 
-Kategorien C und CE sowie Unterkategorien C1 und C1E
+  - 2\.113 Fähigkeit zur Optimierung des Treibstoffverbrauchs
+    - 2\.1131 Anwendung der Kenntnisse von Ziffer 2.111 und 2.112
+    - 2\.1132 Antizipation des Verkehrsflusses
+    - 2\.1133 Geeigneter Abstand und Nutzung der Fahrzeugdynamik
+    - 2\.1134 Konstante Geschwindigkeit
+    - 2\.1135 Ausgeglichener Fahrstil
+    - 2\.1136 Angemessener Reifendruck
+    - 2\.1137 Kenntnis intelligenter Verkehrssysteme für ein effizienteres Fahren und eine bessere Routenplanung
 
-- 1\.4 *Ziel:* Fähigkeit zur Gewährleistung der Sicherung der Ladung unter Anwendung der Sicherheitsvorschriften und durch die richtige Benutzung des Fahrzeugs
-  - – Bei der Fahrt auf das Fahrzeug wirkende Kräfte
-  - – Einsatz der Getriebeübersetzung entsprechend der Belastung des Fahrzeugs und dem Fahrbahnprofil
-  - – Berechnung der Nutzlast eines Motorwagens oder einer Anhängerkombination
-  - – Berechnung des Nutzvolumens
-  - – Verteilung der Ladung
-  - – Auswirkungen der Überladung auf die Achse
-  - – Fahrzeugstabilität und -schwerpunkt
-  - – Arten von Verpackungen und Lastträgern
-  - – Wichtigste Kategorien von Gütern, bei denen eine Ladungssicherung erforderlich ist
-  - – Feststell- und Verzurrtechniken
-  - – Verwendung der Zurrgurte
-  - – Überprüfung der Haltevorrichtungen
-  - – Einsatz des Umschlaggeräts
-  - – Abdecken mit einer Plane und Entfernen der Plane
+  - 2\.114 Fähigkeit, Risiken im Strassenverkehr vorherzusehen, zu bewerten und sich daran anzupassen
+    - 2\.1141 Sensibilisierung für und Anpassung an unterschiedliche Strassen-, Verkehrs- und Witterungsbedingungen
+    - 2\.1142 Vorhersehen künftiger Ereignisse
+    - 2\.1143 Ermessen, welche Vorkehrungen für eine Fahrt bei aussergewöhnlichen Witterungsbedingungen getroffen werden müssen, und Beherrschen der Verwendung der damit verbundenen Sicherheitsausrüstung sowie Erkenntnis, wann eine Fahrt aufgrund extremer Witterungsbedingungen verschoben oder abgesagt werden muss
+    - 2\.1144 Anpassung an Verkehrsrisiken, einschliesslich gefährlicher Verhaltensweisen im Verkehr oder Ablenkung beim Fahren (z. B. durch die Nutzung elektronischer Geräte oder die Nahrungs- und Getränkeaufnahme)
+    - 2\.1145 Erkennen von Gefahrensituationen, Anpassung daran und Bewältigung des damit verbundenen Stresses, insbesondere in Bezug auf Grösse und Gewicht des Fahrzeugs und schwächere Verkehrsteilnehmer und -teilnehmerinnen wie Fussgänger und Fussgängerinnen oder Rad- und Motorradfahrer und -fahrerinnen
+    - 2\.1146 Erkennen möglicher Gefahrenlagen und Ziehen korrekter Schlüsse, wie daraus Situationen entstehen können, in denen Unfälle allenfalls nicht mehr zu vermeiden sind
+    - 2\.1147 Wahl und Durchführung von Massnahmen, durch welche die Sicherheitsabstände in einem solchen Umfang erhöht werden, dass Unfälle in Gefahrenlagen noch zu verhindern sind
 
-Kategorien D und DE sowie Unterkategorien D1 und D1E
+- 2\.12 Kategorien C und CE sowie Unterkategorien C1 und C1E
+  - 2\.121 Fähigkeit zur Sicherung der Ladung unter Anwendung der Sicherheitsvorschriften und durch die richtige Benutzung des Fahrzeugs
+    - 2\.1211 Bei der Fahrt auf das Fahrzeug wirkende Kräfte
+    - 2\.1212 Einsatz der Getriebeübersetzung entsprechend der Belastung des Fahrzeugs und dem Fahrbahnprofil
+    - 2\.1213 Nutzung von Automatikgetrieben
+    - 2\.1214 Berechnung der Nutzlast eines Motorwagens oder einer Fahrzeugkombination
+    - 2\.1215 Berechnung des Nutzvolumens
+    - 2\.1216 Verteilung der Ladung
+    - 2\.1217 Auswirkungen der Überladung auf die Achse
+    - 2\.1218 Fahrzeugstabilität und -schwerpunkt
+    - 2\.1219 Arten von Verpackungen und Lastträgern
+    - 2\.1220 Wichtigste Kategorien von Gütern, bei denen eine Ladungssicherung erforderlich ist
+    - 2\.1221 Feststell- und Verzurrtechniken
+    - 2\.1222 Verwendung der Zurrgurte
+    - 2\.1223 Überprüfung der Haltevorrichtungen
+    - 2\.1224 Einsatz des Umschlaggeräts
+    - 2\.1225 Abdecken mit einer Plane und Entfernen der Plane
 
-- 1\.5 *Ziel:* Fähigkeit zur Gewährleistung der Sicherheit und des Komforts der Fahrgäste
-  - – Richtige Einschätzung der Längs- und Seitwärtsbewegungen des Fahrzeugs
-  - – Rücksichtsvolles Verkehrsverhalten
-  - – Positionierung auf der Fahrbahn
-  - – Sanftes Abbremsen
-  - – Beachtung der Überhänge
-  - – Nutzung spezifischer Infrastrukturen (öffentliche Verkehrsflächen, bestimmten Verkehrsteilnehmern und -nehmerinnen vorbehaltene Verkehrswege)
-  - – Angemessene Prioritätensetzung im Hinblick auf die sichere Steuerung des Fahrzeugs und die Erfüllung anderer dem Fahrer oder der Fahrerin obliegender Aufgaben
-  - – Umgang mit den Fahrgästen
-  - – Besonderheit der Beförderung bestimmter Fahrgastgruppen (Behinderte, Kinder)
+- 2\.13 Kategorien D und DE sowie Unterkategorien D1 und D1E
+  - 2\.131 Fähigkeit zur Gewährleistung der Fahrgastsicherheit und des Fahrgastkomforts
+    - 2\.1311 Richtige Einschätzung der Längs- und Seitwärtsbewegungen des Fahrzeugs
+    - 2\.1312 Rücksichtsvolles Verkehrsverhalten
+    - 2\.1313 Positionierung auf der Fahrbahn
+    - 2\.1314 Sanftes Abbremsen
+    - 2\.1315 Beachtung der Überhänge
+    - 2\.1316 Nutzung spezifischer Infrastrukturen (öffentliche Verkehrsflächen, bestimmten Verkehrsteilnehmern und -teilnehmerinnen vorbehaltene Verkehrswege)
+    - 2\.1317 Angemessene Prioritätensetzung im Hinblick auf die sichere Steuerung des Fahrzeugs und die Erfüllung anderer dem Fahrzeugführer oder der Fahrzeugführerin obliegender Aufgaben
+    - 2\.1318 Umgang mit den Fahrgästen
+    - 2\.1319 Besonderheiten der Beförderung bestimmter Fahrgastgruppen (Menschen mit Behinderungen, Kinder)
 
-- 1\.6 *Ziel:* Fähigkeit zur Gewährleistung der Sicherung der Ladung unter Anwendung der Sicherheitsvorschriften und durch die richtige Benutzung des Fahrzeugs
-  - – Bei der Fahrt auf das Fahrzeug wirkende Kräfte
-  - – Einsatz der Getriebeübersetzung entsprechend der Belastung des Fahrzeugs und dem Fahrbahnprofil
-  - – Berechnung der Nutzlast eines Motorwagens oder einer Anhängerkombination
-  - – Verteilung der Ladung
-  - – Auswirkungen der Überladung auf die Achse
-  - – Fahrzeugstabilität und -schwerpunkt
+  - 2\.132 Fähigkeit zur Sicherung der Ladung unter Anwendung der Sicherheitsvorschriften und durch die richtige Benutzung des Fahrzeugs
+    - 2\.1321 Bei der Fahrt auf das Fahrzeug wirkende Kräfte
+    - 2\.1322 Einsatz der Getriebeübersetzung entsprechend der Belastung des Fahrzeugs und dem Fahrbahnprofil
+    - 2\.1323 Nutzung von Automatikgetrieben
+    - 2\.1324 Berechnung der Nutzlast eines Motorwagens oder einer Fahrzeugkombination
+    - 2\.1325 Verteilung der Ladung
+    - 2\.1326 Auswirkungen der Überladung auf die Achse
+    - 2\.1327 Fahrzeugstabilität und -schwerpunkt
 
-### 2. Anwendung der Vorschriften
+- 2\.2 Anwendung der Vorschriften
+- 2\.21 Alle Kategorien und Unterkategorien
+  - 2\.211 Kenntnis der sozialrechtlichen Rahmenbedingungen und Vorschriften für den Schwerverkehr
+    - 2\.2111 Vorschriften über die Arbeits- und Ruhezeit, einschliesslich Benützung des Fahrtschreibers
+    - 2\.2112 Grundlegende kategorienspezifische Verkehrsvorschriften
+    - 2\.2113 Neu in Kraft getretene Verkehrsvorschriften
+    - 2\.2114 Rechte und Pflichten der Fahrzeugführer und Fahrzeugführerinnen in der Weiterbildung
 
-Alle Kategorien und Unterkategorien
+- 2\.22 Kategorien C und CE sowie Unterkategorien C1 und C1E
+  - 2\.221 Kenntnis der Vorschriften für den Gütertransport
+    - 2\.2211 Beförderungsgenehmigungen
+    - 2\.2212 Im Fahrzeug mitzuführende Dokumente
+    - 2\.2213 Fahrverbote für bestimmte Strassen
+    - 2\.2214 Strassenbenutzungsgebühren
+    - 2\.2215 Verpflichtungen im Rahmen von Musterverträgen
+    - 2\.2216 Erstellen von Beförderungsdokumenten
+    - 2\.2217 Genehmigungen im internationalen Verkehr
+    - 2\.2218 Verpflichtungen im Rahmen des Übereinkommens vom 19. Mai 1956[^annexu1-lvlu1-1] über den Beförderungsvertrag im internationalen Strassengüterverkehr
+    - 2\.2219 Erstellen des internationalen Frachtbriefs
+    - 2\.2220 Internationaler Güterverkehr
+    - 2\.2221 Besondere Begleitdokumente
 
-- 2\.1 *Ziel:* Kenntnis der sozialrechtlichen Rahmenbedingungen und Vorschriften für den Schwerverkehr
-  - – Vorschriften über die Arbeits- und Ruhezeit, einschliesslich Benützung des Fahrtschreibers
-  - – Grundlegende und kategorienspezifische Verkehrsvorschriften
-  - – Neu in Kraft getretene Verkehrsvorschriften
-  - – Rechte und Pflichten der Fahrzeugführer und -führerinnen in der Weiterbildung
+- 2\.23 Kategorien D und DE sowie Unterkategorien D1 und D1E
+  - 2\.231 Kenntnis der Vorschriften für den Personenverkehr
+    - 2\.2311 Beförderung bestimmter Personengruppen
+    - 2\.2312 Sicherheitsausstattung in Bussen
+    - 2\.2313 Sicherheitsgurte
+    - 2\.2314 Beladen des Fahrzeugs
 
-Kategorien C und CE sowie Unterkategorien C1 und C1E
+- 2\.3 Gesundheit, Verkehrssicherheit, Kriminalitätsbekämpfung, Imageförderung, wirtschaftliches Umfeld, Dienstleistung, Logistik
+- 2\.31 Alle Kategorien und Unterkategorien
+  - 2\.311 Sensibilisierung in Bezug auf die Risiken des Strassenverkehrs und auf Arbeitsunfälle
+    - 2\.3111 Typologie der Arbeitsunfälle in der Verkehrsbranche
+    - 2\.3112 Verkehrsunfallstatistiken
+    - 2\.3113 Verkehrsunfälle unter Beteiligung von Lastwagen, Gesellschaftswagen und Kleinbussen
+    - 2\.3114 Menschliche, materielle und finanzielle Auswirkungen von Verkehrsunfällen
+    - 2\.3115 Unfallprävention
 
-- 2\.2 *Ziel:* Kenntnis der Vorschriften für den Gütertransport
-  - – Beförderungsgenehmigungen
-  - – Verpflichtungen im Rahmen von Musterverträgen
-  - – Erstellen von Beförderungsdokumenten
-  - – Genehmigungen im internationalen Verkehr
-  - – Verpflichtungen im Rahmen des Übereinkommens vom 19. Mai 1956[^annexu1-lvlu1-lvl2-1] über den Beförderungsvertrag im internationalen Strassengüterverkehr
-  - – Erstellen des internationalen Frachtbriefs
-  - – Internationaler Güterverkehr
-  - – Besondere Begleitdokumente
+  - 2\.312 Fähigkeit, der Kriminalität und illegalen Einwanderungen vorzubeugen
+    - 2\.3121 Allgemeine Informationen
+    - 2\.3122 Folgen für die Fahrzeugführer und Fahrzeugführerinnen
+    - 2\.3123 Vorbeugende Massnahmen
+    - 2\.3124 Checkliste für Überprüfungen
+    - 2\.3125 Rechtsvorschriften über die Verantwortlichkeit der Unternehmen
 
-Kategorien D und DE sowie Unterkategorien D1 und D1E
+  - 2\.313 Gesundheitsschäden vorbeugen
+    - 2\.3131 Grundsätze der Ergonomie
+    - 2\.3132 Riskante Bewegungen und Haltungen
+    - 2\.3133 Physische Kondition
+    - 2\.3134 Übungen für den Umgang mit Lasten
+    - 2\.3135 Individueller Schutz
 
-- 2\.3 *Ziel:* Kenntnis der Vorschriften für den Personenverkehr
-  - – Beförderung bestimmter Personengruppen
-  - – Sicherheitsausstattung in Bussen
-  - – Sicherheitsgurte
-  - – Beladen des Fahrzeugs
+  - 2\.314 Sensibilisierung für die Bedeutung einer guten körperlichen und geistigen Verfassung
+    - 2\.3141 Grundsätze einer gesunden, ausgewogenen Ernährung
+    - 2\.3142 Einfluss von Alkohol, Medikamenten und Drogen
+    - 2\.3143 Einfluss von Müdigkeit und Stress
+    - 2\.3144 Zyklus von Aktivität und Ruhezeit
 
-[^annexu1-lvlu1-lvl2-1]: [SR 0.741.611](https://fedlex.data.admin.ch/eli/cc/1970/851_851_851)
+  - 2\.315 Richtiges Verhalten bei Notfällen
+    - 2\.3151 Lagebeurteilung
+    - 2\.3152 Vermeidung von Folgeunfällen
+    - 2\.3153 Verständigung der Hilfskräfte
+    - 2\.3154 Bergung von verletzten Personen, erste Hilfe
+    - 2\.3155 Vorgehen bei Brand (Evakuierung von Fahrgästen oder anderen Mitfahrenden)
+    - 2\.3156 Gewährleistung der Sicherheit der Fahrgäste
+    - 2\.3157 Vorgehen bei Gewalttaten
+    - 2\.3158 Erstellen von Unfallmeldungen
 
-### 3. Gesundheit, Verkehrssicherheit, Kriminalitätsbekämpfung, Imageförderung, wirtschaftliches Umfeld, Dienstleistung, Logistik
+  - 2\.316 Fähigkeit zu einem Verhalten, das zu einem positiven Image des Unternehmens beiträgt
+    - 2\.3161 Bedeutung der Qualität der Leistung des Fahrzeugführers oder der Fahrzeugführerin für das Unternehmen
+    - 2\.3162 Unterschiedliche Rollen des Fahrzeugführers oder der Fahrzeugführerin
+    - 2\.3163 Unterschiedliche Gesprächspartner des Fahrzeugführers oder der Fahrzeugführerin
+    - 2\.3164 Wartung des Fahrzeugs
+    - 2\.3165 Arbeitsorganisation
+    - 2\.3166 Kommerzielle und finanzielle Konsequenzen eines Rechtsstreits
 
-Alle Kategorien und Unterkategorien
+- 2\.32 Kategorien C und CE sowie Unterkategorien C1 und C1E
+  - 2\.321 Kenntnis des wirtschaftlichen Umfelds
+    - 2\.3211 Gütertransport mit Motorfahrzeugen im Verhältnis zum Gütertransport mit anderen Verkehrsmitteln (Wettbewerb, Verlader)
+    - 2\.3212 Unterschiedliche Tätigkeiten im Gütertransport
+    - 2\.3213 Organisation der wichtigsten Arten von Gütertransportunternehmen
+    - 2\.3214 Unterschiedliche Spezialisierungen (z. B. Tankwagen, gefährliche Güter, Tiertransporte)
+    - 2\.3215 Weiterentwicklung der Branche
 
-- 3\.1 *Ziel:* Sensibilisierung in Bezug auf die Risiken des Strassenverkehrs und auf Arbeitsunfälle
-  - – Typologie der Arbeitsunfälle in der Verkehrsbranche
-  - – Verkehrsunfallstatistiken
-  - – Verkehrsunfälle unter Beteiligung von Lastwagen, Gesellschaftswagen und Kleinbussen
-  - – Menschliche, materielle und finanzielle Auswirkungen von Verkehrsunfällen
-  - – Unfallprävention
+- 2\.33 Kategorien D und DE sowie Unterkategorien D1 und DE
+  - 2\.331 Kenntnis des wirtschaftlichen Umfelds
+    - 2\.3311 Personentransport mit Motorfahrzeugen im Verhältnis zum Personentransport mit anderen Verkehrsmitteln (z. B. Bahn)
+    - 2\.3312 Unterschiedliche Tätigkeiten im Personentransport
+    - 2\.3313 Sensibilisierung für die Belange von Menschen mit Behinderungen
+    - 2\.3314 Internationaler Personentransport
+    - 2\.3315 Organisation der wichtigsten Arten von Personentransportunternehmen
 
-- 3\.2 *Ziel:* Fähigkeit, der Kriminalität und illegalen Einwanderungen vorzubeugen
-  - – Allgemeine Information
-  - – Folgen für die Fahrer und Fahrerinnen
-  - – Vorbeugende Massnahmen
-  - – Checkliste für Überprüfungen
-  - – Rechtsvorschriften über die Verantwortlichkeit der Unternehmen
+- 3\. Durchführung der Weiterbildung
+- 3\.1
 
-- 3\.3 *Ziel:* Gesundheitsschäden vorbeugen
-  - – Grundsätze der Ergonomie
-  - – Riskante Bewegungen und Haltungen
-  - – Physische Kondition
-  - – Übungen für den Umgang mit Lasten
-  - – Individueller Schutz
+  Die Weiterbildung ist nach dem pädagogisch-didaktischen Prinzip des handlungsorientierten Unterrichts zu erteilen:
 
-- 3\.4 *Ziel:* Sensibilisierung für die Bedeutung einer guten körperlichen und geistigen Verfassung
-  - – Grundsätze einer gesunden, ausgewogenen Ernährung
-  - – Einfluss von Alkohol, Medikamenten und Drogen
-  - – Einfluss von Müdigkeit und Stress
-  - – Zyklus von Aktivität und Ruhezeit
+  - 3\.11 Die Lehrperson vermittelt die Lerninhalte in sinnvoll strukturierten Unterrichtseinheiten.
+  - 3\.12 Die Lehrperson richtet den Unterricht auf die Lernziele aus und setzt dafür ein breites Methodenrepertoire (erweiterte Lehr- und Lernformen) ein, das auf die unterschiedlichen Lerntypen und beim Gruppenunterricht auf die Konstellation der Gruppe der Teilnehmer und Teilnehmerinnen abgestimmt ist. Der Unterricht erfolgt unter Einbeziehung möglichst vieler Sinne.
+  - 3\.13 Die Lehrperson bezieht die Teilnehmer und Teilnehmerinnen aktiv in den Unterricht ein und lässt sie ihre Erfahrungen einbringen.
+  - 3\.14 Die Lehrperson knüpft an die Interessen der Teilnehmer und Teilnehmerinnen an und stellt einen Bezug zur Aktualität her.
+  - 3\.15 Die Lehrperson regt bei den Teilnehmern und Teilnehmerinnen die Selbstreflexion an.
+  - 3\.16 Die Lehrperson strebt zusammen mit den Teilnehmern und Teilnehmerinnen ein angenehmes Lernklima an.
 
-- 3\.5 *Ziel:* Richtiges Verhalten bei Notfällen
-  - – Lagebeurteilung
-  - – Vermeidung von Folgeunfällen
-  - – Verständigung der Hilfskräfte
-  - – Bergung von verletzten Personen, erste Hilfe
-  - – Reaktion bei Brand (Evakuierung von Fahrgästen/anderen Mitfahrenden)
-  - – Gewährleistung der Sicherheit der Fahrgäste
-  - – Vorgehen bei Gewalttaten
-  - – Erstellen von Unfallmeldungen
+- 3\.2 Die Klassengrösse darf 16 Teilnehmer und Teilnehmerinnen pro Lehrperson nicht übersteigen.
+- 3\.3
 
-- 3\.6 *Ziel:* Fähigkeit zu einem Verhalten, das zu einem positiven Image des Unternehmens beiträgt
-  - – Bedeutung der Qualität der Leistung des Fahrers oder der Fahrerin für das Unternehmen
-  - – Unterschiedliche Rollen des Fahrers oder der Fahrerin
-  - – Unterschiedliche Gesprächspartner des Fahrers oder der Fahrerin
-  - – Wartung des Fahrzeugs
-  - – Arbeitsorganisation
-  - – Kommerzielle und finanzielle Konsequenzen eines Rechtsstreits
+  Die Weiterbildung hat aus theoretischen und praktischen Lerninhalten nach Ziffer 2 zu bestehen. Zu vermitteln sind Inhalte, die:
 
-Kategorien C und CE sowie Unterkategorien C1 und C1E
+  - 3\.31 für alle Fahrzeugführer und Fahrzeugführerinnen gelten, wobei Themen und Strategien zur Erhöhung der Verkehrssicherheit, zur Sicherheit und zum Gesundheitsschutz am Arbeitsplatz sowie zur umweltverträglichen und energieeffizienten Verwendung des Fahrzeugs vorrangig zu behandeln sind; und
+  - 3\.32 auf das Branchenprofil des betreffenden Fahrzeugführers oder der betreffenden Fahrzeugführerin zugeschnitten sind.
 
-- 3\.7 *Ziel:* Kenntnis des wirtschaftlichen Umfelds
-  - – Gütertransport mit Motorfahrzeugen im Verhältnis zum Gütertransport mit anderen Verkehrsmitteln (Wettbewerb, Verlader)
-  - – Unterschiedliche Tätigkeiten im Gütertransport
-  - – Organisation der wichtigsten Arten von Gütertransportunternehmen
-  - – Unterschiedliche Spezialisierungen (Tankwagen usw.)
-  - – Weiterentwicklung der Branche
+- 3\.4 Für die detaillierten Lernziele, die zur Erreichung der Handlungskompetenzen erforderlich sind, und für die Details zu den Lerninhalten ist der Kompetenzenkatalog der kantonalen Behörde massgeblich.
+- 4\. Weiterbildungskurse mit E-Learning-Modul
+- 4\.1
 
-Kategorien D und DE sowie Unterkategorien D1 und D1E
+  Für die Durchführung von Weiterbildungskursen mit E-Learning-Modul gelten folgende Voraussetzungen:
 
-- 3\.8 *Ziel:* Kenntnis des wirtschaftlichen Umfelds
-  - – Personentransport mit Motorfahrzeugen im Verhältnis zum Personentransport mit anderen Verkehrsmitteln (z.B. Bahn)
-  - – Unterschiedliche Tätigkeiten im Personentransport
-  - – Internationaler Personentransport
-  - – Organisation der wichtigsten Arten von Personentransportunternehmen
+  - 4\.11 Die Lerninhalte, die mit E-Learning-Modul angeboten werden, müssen dafür geeignet sein.
+  - 4\.12 Das E-Learning-Modul muss Texte, Bilder, Schemata, Animationen oder Filme, interaktive Übungen und Ähnliches enthalten. Jedes dieser Elemente ist mediengerecht aufzubereiten.
+  - 4\.13 Der Anbieter muss aufzeigen, dass der Präsenzunterricht auf das E-Learning-Modul abgestimmt ist und das im Unterricht abgegebene Lehrmittel im Einklang mit dem E-Learning-Modul steht.
+  - 4\.14 Das E-Learning-Modul muss mit einem Online-Test abgeschlossen werden.
+  - 4\.15 Zum Präsenzunterricht wird nur zugelassen, wer den Online-Test des E-Learning-Moduls bestanden hat.
+  - 4\.16 Zu Beginn des Präsenzunterrichts muss ein Einstiegstest bestanden werden. Ein nicht bestandener Einstiegstest darf einmal wiederholt werden.
+
+- 4\.2
+
+  Die Anerkennung der Kursanbieter für Weiterbildungskurse mit E-Learning-Modul erfolgt auf Gesuch hin zunächst provisorisch für ein Jahr durch die kantonale Behörde. Diese prüft, ob die Anerkennungsvoraussetzungen erfüllt sind. Dem Gesuch sind folgende Unterlagen beizulegen:
+
+  - 4\.21 Gesamtkonzept (Abstimmung des Präsenzunterrichts auf das E-Learning-Modul, Einstiegstest, Ablauf des Präsenzunterrichts)
+  - 4\.22 Zugang zum E-Learning-Modul
+  - 4\.23 Kursunterlagen für den Präsenzunterricht
+  - 4\.24 Evaluationskonzept
+
+- 4\.3 Während der Gültigkeit der provisorischen Anerkennung ist der Kurs mit
+
+  E-Learning-Modul zu evaluieren und der Präsenzunterricht zu auditieren. Die Evaluation muss beinhalten:
+
+  - 4\.31 Befragung der Kurseilnehmer und ‑teilnehmerinnen und der Kursleitung zum Kurskonzept, zur Funktionsweise des Kurses, zur Erreichung der Lernziele, zur Zufriedenheit der Kursteilnehmer und -teilnehmerinnen, zur generellen Akzeptanz des Kurses usw.
+  - 4\.32 Nachweis, dass das E-Learning-Modul die für den Präsenzunterricht vorgeschriebene Dauer nicht massiv unterschreitet (z. B. mittels Tracking der Aktivitäten der Kursteilnehmer und -teilnehmerinnen)
+  - 4\.33 Hinweise, wie und innert welcher Frist allfällige Mängel, die in der Evaluation aufgezeigt werden, behoben werden
+
+- 4\.4 Spätestens zehn Monate nach der Erteilung der provisorischen Anerkennung muss der Kursanbieter der kantonalen Behörde den Evaluationsbericht einreichen.
+- 4\.5 Die kantonale Behörde entscheidet aufgrund der Ergebnisse aus der Evaluation und einem Audit über die definitive Anerkennung des Kursanbieters.
+- 4\.6 Ein Kursanbieter darf ein bereits anerkanntes E-Learning-Modul eines anderen Kursanbieters in seinen Kurs integrieren, sofern der Inhaber oder die Inhaberin des E-Learning-Moduls sein oder ihr Einverständnis gibt. Diesfalls muss der Kursanbieter der kantonalen Behörde ein Gesuch mit den Unterlagen nach den Ziffern 4.2.1, 4.2.3 und 4.2.4, einschliesslich Angabe des verwendeten E-Learning-Moduls, und die Einverständniserklärung des Inhabers oder der Inhaberin des bereits anerkannten E-Learning-Moduls einreichen.
+
+[^annexu1-lvlu1-1]: [SR 0.741.611](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2860)

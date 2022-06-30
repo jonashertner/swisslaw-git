@@ -4,11 +4,11 @@ title: "Ordonnance du 15 juin 2007 réglant l'admission des conducteurs au trans
 short: OACP
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/437"
 language: fr
-version: 2022-04-26
+version: 2022-07-01
 adopted: 2007-06-15
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/437/20220426/fr/xml/fedlex-data-admin-ch-eli-cc-2007-437-20220426-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20220426/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/437/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-437-20220701-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20220426/fr"
 
 (Ordonnance réglant l’admission des chauffeurs, OACP)
 
-du 15 juin 2007 (État le 26 avril 2022)
+du 15 juin 2007 (État le 1<sup>er</sup> juillet 2022)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 15, al. 4 et 5, 25, al. 2, let. b et d, 103, al. 1, et 106, al. 1, d
 
 arrête:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 ## Section 1 Dispositions générales
 
@@ -62,17 +62,17 @@ Le certificat de capacité n’est pas exigé des conducteurs de véhicules:
   - 3\. n’est lié à aucune activité professionnelle ou commerciale;
 
 - b. dont la vitesse maximale autorisée n’excède pas 45 km/h;
-- c.[^3-2] qui sont affectés aux services de l’armée, de la police, des pompiers, de l’Office fédéral de la douane et de la sécurité des frontières[^3-3], de la protection civile ou à des services de transport de personnes malades ou blessées, ou encore utilisés sur mandat desdits services;
-- d.[^3-4] qui sont utilisés pour des tests sur route ou pour des transferts servant à des fins d’amélioration technique, de réparation ou d’entretien;
-- d<sup>bis</sup>.[^3-5] qui, neufs ou transformés, ne sont pas encore en circulation;
-- e.[^3-6] qui sont utilisés pour des interventions urgentes, des missions de sauvetage ou des transports non commerciaux au sens de la let. a effectués à titre d’aide humanitaire;
-- f.[^3-7] qui sont utilisés lors de courses d’apprentissage ou d’examen pour des transports commerciaux de marchandises, si l’accompagnateur est titulaire d’un certificat de capacité valable ou d’une autorisation d’enseigner la conduite valable pour la catégorie correspondante;
-- f<sup>bis</sup>.[^3-8] qui sont utilisés lors de la course pour se rendre au contrôle officiel des véhicules ou dans le cadre de ce dernier pour des transports commerciaux de personnes ou de marchandises;
-- g.[^3-9] qui servent à transporter du matériel, de l’équipement ou des machines que le conducteur utilise dans l’exercice de son métier, à condition que la conduite du véhicule absorbe au maximum la moitié de son temps de travail en moyenne hebdomadaire;
+- c.[^3-2] qui sont affectés aux services de l’armée, de la police, des pompiers, de l’Administration des douanes, de la protection civile ou à des services de transport de personnes malades ou blessées, ou encore utilisés sur mandat desdits services;
+- d.[^3-3] qui sont utilisés pour des tests sur route ou pour des transferts servant à des fins d’amélioration technique, de réparation ou d’entretien;
+- d<sup>bis</sup>.[^3-4] qui, neufs ou transformés, ne sont pas encore en circulation;
+- e.[^3-5] qui sont utilisés pour des interventions urgentes, des missions de sauvetage ou des transports non commerciaux au sens de la let. a effectués à titre d’aide humanitaire;
+- f.[^3-6] qui sont utilisés lors de courses d’apprentissage ou d’examen pour des transports commerciaux de marchandises, si l’accompagnateur est titulaire d’un certificat de capacité valable ou d’une autorisation d’enseigner la conduite valable pour la catégorie correspondante;
+- f<sup>bis</sup>.[^3-7] qui sont utilisés lors de la course pour se rendre au contrôle officiel des véhicules ou dans le cadre de ce dernier pour des transports commerciaux de personnes ou de marchandises;
+- g.[^3-8] qui servent à transporter du matériel, de l’équipement ou des machines que le conducteur utilise dans l’exercice de son métier, à condition que la conduite du véhicule absorbe au maximum la moitié de son temps de travail en moyenne hebdomadaire;
 - h. qui sont affectés exclusivement à l’intérieur d’une entreprise et qui ne peuve emprunter la voie publique qu’avec une autorisation officielle;
-- i.[^3-10]
+- i.[^3-9]
 
-  qui sont utilisés pour le transport de marchandises par des exploitations agricoles ou forestières, ou par des exploitations assimilées à celles-ci conformément à l’art. 86, al. 2, de l’ordonnance du 13 novembre 1962 sur les règles de la circulation routière (OCR)[^3-11], si:
+  qui sont utilisés pour le transport de marchandises par des exploitations agricoles ou forestières, ou par des exploitations assimilées à celles-ci conformément à l’art. 86, al. 2, de l’ordonnance du 13 novembre 1962 sur les règles de la circulation routière (OCR)[^3-10], si:
 
   - 1\. la course effectuée est liée aux besoins de l’exploitation conformément à l’art. 87, al. 1 et 2, de l’OCR,
   - 2\. la course est effectuée dans un rayon de 20 km autour du lieu d’établissement de l’exploitation, et que
@@ -80,15 +80,14 @@ Le certificat de capacité n’est pas exigé des conducteurs de véhicules:
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 [^3-2]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^3-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
-[^3-4]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
-[^3-5]: Introduite par le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+[^3-3]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+[^3-4]: Introduite par le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+[^3-5]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 [^3-6]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^3-7]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^3-8]: Introduite par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^3-9]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^3-10]: Introduite par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^3-11]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^3-7]: Introduite par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-8]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-9]: Introduite par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-10]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 
 #### Art. 4
 
@@ -118,7 +117,7 @@ Doivent être titulaires du certificat d’aptitude conformément à la directiv
 - b. employés par une entreprise établie dans un État membre de l’Union européenne ou de l’Association européenne de libre-échange.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^5-2]: Directive (UE) 2022/2561 du Parlement européen et du Conseil du 14 décembre 2022 relative à la qualification initiale et à la formation continue des conducteurs de certains véhicules routiers affectés aux transports de marchandises ou de voyageurs, JO L 330 du 23.12.2022, p. 46. Le renvoi a été adapté au 12 janv. 2023 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
+[^5-2]: Directive (UE) 2022/2561 du Parlement européen et du Conseil du 14 décembre 2022 relative à la qualification initiale et à la formation continue des conducteurs de certains véhicules routiers affectés aux transports de marchandises ou de voyageurs, JO L 330 du 23.12.2022, p. 46. Le renvoi a été adapté au 12 janv. 2023 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ## Section 2 Certificats de capacité
 
@@ -187,7 +186,7 @@ Le certificat de capacité est délivré avec indication de la durée de validit
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
 [^9-2]: Introduit par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^9-3]: RS **741****.****51**
+[^9-3]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 [^9-4]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 [^9-5]: Voir la note de bas de page relative à l’art. 5.
 [^9-6]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
@@ -197,9 +196,11 @@ Le certificat de capacité est délivré avec indication de la durée de validit
 
 #### Art. 10
 
-**Généralités**
+**Généralités**[^10-1]
 
-Lors des examens théorique et pratique, les candidats doivent démontrer qu’ils possèdent les connaissances et les aptitudes de base nécessaires pour effectuer des transports de personnes ou de marchandises, conformément à l’annexe.
+Lors des examens théorique et pratique, les candidats doivent démontrer qu’ils possèdent les compétences, les connaissances et les aptitudes de base nécessaires pour effectuer des transports de personnes ou de marchandises, conformément à l’annexe.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 11
 
@@ -211,7 +212,7 @@ Lors des examens théorique et pratique, les candidats doivent démontrer qu’i
 
 <sup>3</sup> Pour être admis à l’examen combiné (art. 14<sup>bis</sup>), le candidat doit avoir réussi l’examen théorique prévu à l’art. 12, al. 1, let. a, et être titulaire du permis d’élève conducteur ou du permis de conduire pour le véhicule utilisé. L’admission à la course d’examen prévue à l’art. 14, al. 3, est régie par l’annexe 12, ch. I, OAC. [^11-2]
 
-[^11-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^11-1]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 [^11-2]: Introduit par le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
 
 #### Art. 12
@@ -245,7 +246,7 @@ L’examen théorique comprend:
 
 <sup>3</sup> Les titulaires d’un certificat de capacité conforme à la troisième section de l’ordonnance du 1<sup>er</sup> novembre 2000 sur l’admission des transporteurs de voyageurs et de marchandises par route[^13-1] sont dispensés des parties de l’examen pour lesquelles ils sont déjà qualifiés.
 
-[^13-1]: [RS 744.103](https://fedlex.data.admin.ch/eli/cc/2015/597)
+[^13-1]: [RS 744.103](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8861)
 
 #### Art. 14
 
@@ -258,7 +259,7 @@ L’examen théorique comprend:
 <sup>3</sup> La course d’examen doit être effectuée par tout titulaire du permis de conduire de la sous-catégorie C1 ou D1. Elle permet de constater s’il est capable de faire preuve d’une conduite aussi bien respectueuse des autres usagers et soucieuse de sécurité que respectueuse de l’environnement et efficiente au plan énergétique. La durée minimale de cette course est de 30 minutes. Il est obligatoire d’utiliser un véhicule automobile qui satisfait aux exigences pour un véhicule d’examen de la sous-catégorie concernée (annexe 12, ch. V, OAC[^14-2]).
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^14-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^14-2]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 #### Art. 14<sup>bis</sup>
 
@@ -277,7 +278,7 @@ L’examen théorique prévu à l’art. 12, al. 1, let. b, et la partie génér
 <sup>2</sup> La répétition de la course d’examen prévue à l’art. 14, al. 3, est régie par l’art. 23 OAC[^15-2].
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^15-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^15-2]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 ## Section 4 Formation continue
 
@@ -307,9 +308,16 @@ L’examen théorique prévu à l’art. 12, al. 1, let. b, et la partie génér
 
 <sup>1</sup> Le titulaire du certificat de capacité pour le transport de personnes ou du certificat pour le transport de marchandises, voire des deux, doit justifier de la fréquentation de 35 heures de formation continue pour en obtenir la prolongation.
 
-<sup>2</sup> La formation continue peut être suivie sous la forme d’un cours d’une semaine ou de cours de un jour. La durée minimale d’un cours de un jour est de 7 heures.
+<sup>2</sup> La formation continue peut être suivie sous forme d’un cours d’une semaine ou de plusieurs cours isolés. Chaque cours isolé doit durer au moins sept heures, hors pauses. Il peut être étalé sur deux jours consécutifs.[^18-2]
+
+<sup>3</sup> Pour un cours isolé de sept heures, trois heures au maximum peuvent être proposées dans le cadre d’un module d’apprentissage en ligne. Un cours isolé comportant un module d’apprentissage en ligne peut être réparti sur deux jours. Cinq jours au plus peuvent s’écouler entre le module d’apprentissage en ligne et l’enseignement présentiel.[^18-3]
+
+<sup>4</sup> L’organisation de cours isolés comportant un module d’apprentissage en ligne est réglée au ch. 4 de l’annexe.[^18-4]
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^18-3]: Introduit par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^18-4]: Introduit par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 19
 
@@ -375,7 +383,7 @@ L’autorisation est délivrée:
 
 <sup>6</sup> L’autorisation peut être retirée au titulaire qui ne remplit plus les conditions de l’al. 4, let. a et c, ou de l’al. 5.
 
-[^23-1]: RS **741****.****51**
+[^23-1]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 [^23-2]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
 
 #### Art. 24
@@ -406,13 +414,15 @@ Les cantons:
 - d. délivrent les autorisations pour les enseignants des centres de formation continue;
 - e. supervisent la réalisation des cours de formation continue;
 - f. approuvent les programmes de formation en cours d’emploi qui ne sont pas encore reconnus au plan fédéral;
-- g. statuent sur la prise en considération des formations continues suivies à l’étranger.
+- g. statuent sur la prise en considération des formations continues suivies à l’étranger;
+- h.[^26-1] peuvent autoriser des dérogations individuelles et concrètes à certaines dispositions pour prévenir les cas de rigueur.
 
 <sup>2</sup> Ils peuvent déléguer l’exécution de ces tâches à des tiers.
 
-<sup>3</sup> L’OFROU peut établir des instructions sur l’exécution de la présente ordonnance. Il peut autoriser des dérogations à certaines dispositions pour prévenir les cas de rigueur.[^26-1]
+<sup>3</sup> L’OFROU peut établir des instructions sur l’exécution de la présente ordonnance. Il peut autoriser des dérogations générales et abstraites à certaines dispositions pour prévenir les cas de rigueur.[^26-2]
 
-[^26-1]: Erratum du 26 avr. 2022 ([RO 2022 256](https://fedlex.data.admin.ch/eli/oc/2022/256)).
+[^26-1]: Introduite par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^26-2]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893); [2022 256](https://fedlex.data.admin.ch/eli/oc/2022/256)).
 
 #### Art. 27
 
@@ -448,168 +458,247 @@ Les cantons:
 
 <sup>2</sup> Les art. 2 à 20, 24, 25, 26, al. 1, let. a, b, e et g, et 27 entrent en vigueur le 1<sup>er</sup> septembre 2009.
 
-Annexe
+Annexe[^t-1]
 
-(art. 10 et 16)
+(art. 4, al. 1, 10, 12, al. 2 à 4, 14, al. 2, 17, 18, al. 4, et 21, al. 2, let. d)
 
-## Connaissances et aptitudes requises pour l’obtention et la prolongation des certificats de capacité
+## Obtention et prolongation des certificats de capacité
 
-### 1. Perfectionnement de la conduite rationnelle, axé sur les règles de sécurité
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
-### Toutes les catégories et sous-catégories
+- 1\. Compétences
+- 1\.1 Les conducteurs appliquent les règles de la circulation routière, en particulier celles qui concernent la conduite de voitures automobiles lourdes.
+- 1\.2 Les conducteurs sont familiarisés avec les véhicules mis à leur disposition. Ils les utilisent correctement du point de vue technique et de façon à préserver les ressources. Ils effectuent les contrôles de sécurité et les travaux d’entretien nécessaires. Ils savent repérer les défauts et y remédient dans la mesure du possible.
+- 1\.3 Les conducteurs conduisent des voitures automobiles lourdes dans différentes conditions extérieures et avec des chargements variables sans mettre en danger les autres usagers de la route, de manière respectueuse de l’environnement et efficiente au plan énergétique.
+- 1\.4 Les conducteurs assument la responsabilité pour eux-mêmes, leurs passagers, la marchandise transportée, le véhicule, le mandant et les autres usagers de la route.
+- 1\.5 Les conducteurs se comportent de manière adaptée à la situation en cas de pannes, d’accidents, d’urgences et de conflits. Ils en étudient les causes possibles et contribuent ainsi à empêcher autant que possible ce genre de situations ou à en réduire les dommages au minimum.
+- 1\.6 Pour le seul transport de personnes:
+- Les conducteurs transportent leurs passagers jusqu’à leur destination dans le respect du plus haut niveau de sécurité et de confort possible, selon l’horaire ou le programme de voyage.
+- 1\.7 Pour le seul transport de marchandises:
+- Les conducteurs transportent les marchandises qui leur sont confiées dans le respect des prescriptions sur l’arrimage.
+- 2\. Connaissances et aptitudes
+- 2\.1 Perfectionnement de la conduite rationnelle, axé sur les règles de sécurité
+- 2\.11
 
-- 1\.1 *Objectif:* connaître les caractéristiques de la chaîne cinématique pour en optimiser l’utilisation
-  - – Courbes de couples
-  - – Courbes de puissance
-  - – Courbes de consommation spécifique d’un moteur
-  - – Zone d’utilisation optimale du compte-tours
-  - – Diagrammes de recouvrement de rapports de boîtes de vitesse
+  Toutes les catégories et sous-catégories:
 
-- 1\.2 *Objectif:* connaître les caractéristiques techniques et le fonctionnement des organes de sécurité afin de maîtriser le véhicule, d’en minimiser l’usure et de prévenir les dysfonctionnements
-  - – Dispositif de freinage à double circuit
-  - – Limites d’utilisation des freins et des ralentisseurs
-  - – Utilisation combinée freins et ralentisseur
-  - – Recherche du compromis optimal vitesse et rapport de boîte
-  - – Utilisation de l’inertie du véhicule
-  - – Utilisation des moyens de ralentissement et de freinage lors des descentes
-  - – Attitude à adopter en cas de défaillance
+  - 2\.111 Connaître les caractéristiques de la chaîne cinématique pour en optimiser l’utilisation
+    - 2\.1111 Courbes de couples
+    - 2\.1112 Courbes de puissance
+    - 2\.1113 Courbes de consommation spécifique d’un moteur
+    - 2\.1114 Zone d’utilisation optimale du compte-tours
+    - 2\.1115 Diagrammes de recouvrement de rapports de boîtes de vitesse
 
-- 1\.3 *Objectif:* pouvoir optimiser la consommation de carburant
-  - – Application des connaissances des points 1.1 et 1.2
+  - 2\.112 Connaître les caractéristiques techniques et le fonctionnement des organes de sécurité afin de maîtriser le véhicule, d’en minimiser l’usure et de prévenir les dysfonctionnements
+    - 2\.1121 Limites d’utilisation des freins et des ralentisseurs
+    - 2\.1122 Utilisation combinée des freins et des ralentisseurs
+    - 2\.1123 Recherche du compromis optimal vitesse et rapport de boîte
+    - 2\.1124 Utilisation de l’inertie du véhicule
+    - 2\.1125 Utilisation des freins lors des descentes
+    - 2\.1126 Attitude à adopter en cas de défaillance
+    - 2\.1127 Utilisation de dispositifs électroniques et mécaniques tels que le programme électronique de stabilité, les systèmes avancés de freinage d’urgence, les systèmes de freinage antiblocage, les systèmes de contrôle de traction et les systèmes de surveillance des véhicules ainsi que d’autres dispositifs d’aide à la conduite ou d’automatisation approuvés
 
-### Catégories C et CE et sous-catégories C1 et C1E
+  - 2\.113 Pouvoir optimiser la consommation de carburant
+    - 2\.1131 Application des connaissances visées aux ch. 2.111 et 2.112
+    - 2\.1132 Anticipation des flux de trafic
+    - 2\.1133 Distance appropriée et utilisation de l’élan du véhicule
+    - 2\.1134 Vitesse constante
+    - 2\.1135 Conduite fluide
+    - 2\.1136 Pression appropriée des pneumatiques
+    - 2\.1137 Connaissance des systèmes de transport intelligents pour une conduite plus efficace et une meilleure planification des itinéraires
 
-- 1\.4 *Objectif:* être capable d’assurer un chargement en respectant les consignes de sécurité et la bonne utilisation du véhicule
-  - – Forces s’appliquant aux véhicules en mouvement
-  - – Utilisation des rapports de boîte de vitesses en fonction de la charge du véhicule et du profil de la route
-  - – Calcul de la charge utile d’un véhicule automobile ou d’un ensemble
-  - – Calcul du volume utile
-  - – Répartition du chargement
-  - – Conséquences de la surcharge à l’essieu
-  - – Stabilité du véhicule et centre de gravité
-  - – Types d’emballage et supports de charge
-  - – Principales catégories de marchandises nécessitant un arrimage
-  - – Techniques de calage et d’arrimage
-  - – Utilisation de sangles d’arrimage
-  - – Vérification des dispositifs d’arrimage
-  - – Utilisation des moyens de manutention
-  - – Bâchage et débâchage
+  - 2\.114 Pouvoir anticiper les risques liés à la circulation routière, les évaluer et s’y adapter
+    - 2\.1141 Sensibilisation et adaptation à l’état de la route, aux conditions de circulation et aux conditions météorologiques
+    - 2\.1142 Anticipation des événements à venir
+    - 2\.1143 Appréciation des dispositions à prendre pour une course dans des conditions météorologiques exceptionnelles, maîtrise de l’utilisation de l’équipement de sécurité adéquat, et reconnaissance des courses qui doivent être reportées ou annulées en raison de conditions météorologiques extrêmes
+    - 2\.1144 Adaptation aux risques liés à la circulation, y compris aux comportements dangereux et à la distraction au volant (par ex. causée par l’utilisation d’appareils électroniques ou la consommation de nourriture ou de boissons)
+    - 2\.1145 Reconnaissance des situations dangereuses, adaptation à celles-ci et capacité à gérer le stress qui en découle, notamment en ce qui concerne la taille et le poids des véhicules ainsi que les usagers de la route particulièrement vulnérables tels que les piétons ou les cyclistes et les motocyclistes
+    - 2\.1146 Identification des situations potentiellement dangereuses et déduction correcte de la façon dont elles pourraient déboucher sur des situations dans lesquelles il ne serait plus possible d’éviter les accidents
+    - 2\.1147 Choix et réalisation d’actions permettant d’augmenter les marges de sécurité dans une mesure telle qu’il sera encore possible d’éviter des accidents dans des situations dangereuses
 
-### Catégories D et DE et sous-catégories D1 et D1E
+- 2\.12 Catégories C et CE ainsi que sous-catégories C1 et C1E
+  - 2\.121 Être capable d’assurer un chargement en respectant les consignes de sécurité et la bonne utilisation du véhicule
+    - 2\.1211 Forces s’appliquant aux véhicules en mouvement
+    - 2\.1212 Utilisation des rapports de boîte de vitesses en fonction de la charge du véhicule et du profil de la route
+    - 2\.1213 Utilisation des systèmes de transmission automatique
+    - 2\.1214 Calcul de la charge utile d’une voiture automobile ou d’un ensemble de véhicules
+    - 2\.1215 Calcul du volume utile
+    - 2\.1216 Répartition du chargement
+    - 2\.1217 Conséquences de la surcharge à l’essieu
+    - 2\.1218 Stabilité du véhicule et centre de gravité
+    - 2\.1219 Types d’emballage et supports de charge
+    - 2\.1220 Principales catégories de marchandises nécessitant un arrimage
+    - 2\.1221 Techniques de calage et d’arrimage
+    - 2\.1222 Utilisation de sangles d’arrimage
+    - 2\.1223 Vérification des dispositifs d’arrimage
+    - 2\.1224 Utilisation des moyens de manutention
+    - 2\.1225 Bâchage et débâchage
 
-- 1\.5 *Objectif:* pouvoir assurer la sécurité et le confort des passagers
-  - – Estimation correcte des mouvements longitudinaux et latéraux du véhicule
-  - – Partage des voiries
-  - – Placement sur la chaussée
-  - – Souplesse de freinage
-  - – Travail du porte-à-faux
-  - – Utilisation d’infrastructures spécifiques (espaces publics, voies réservées)
-  - – Gestion des conflits entre une conduite en sécurité et les autres fonctions de conducteur
-  - – Interaction avec les passagers
-  - – Spécificités du transport de certains groupes de passagers (handicapés, enfants)
+- 2\.13 Catégories D et DE ainsi que sous-catégories D1 et D1E
+  - 2\.131 Pouvoir assurer la sécurité et le confort des passagers
+    - 2\.1311 Estimation correcte des mouvements longitudinaux et latéraux du véhicule
+    - 2\.1312 Partage des voiries
+    - 2\.1313 Placement sur la chaussée
+    - 2\.1314 Souplesse de freinage
+    - 2\.1315 Travail du porte-à-faux
+    - 2\.1316 Utilisation d’infrastructures spécifiques (espaces publics, voies réservées)
+    - 2\.1317 Gestion des conflits entre une conduite en sécurité et les autres fonctions de conducteur
+    - 2\.1318 Interaction avec les passagers
+    - 2\.1319 Spécificités du transport de certains groupes de passagers (personnes en situation de handicap, enfants)
 
-- 1\.6 *Objectif:* être capable d’assurer un chargement en respectant les consignes de sécurité et la bonne utilisation du véhicule
-  - – Forces s’appliquant aux véhicules en mouvement
-  - – Utilisation des rapports de boîte de vitesses en fonction de la charge du véhicule et du profil de la route
-  - – Calcul de la charge utile d’un véhicule automobile ou d’un ensemble
-  - – Répartition du chargement
-  - – Conséquences de la surcharge à l’essieu
-  - – Stabilité du véhicule et centre de gravité
+  - 2\.132 Être capable d’assurer un chargement en respectant les consignes de sécurité et la bonne utilisation du véhicule
+    - 2\.1321 Forces s’appliquant aux véhicules en mouvement
+    - 2\.1322 Utilisation des rapports de boîte de vitesses en fonction de la charge du véhicule et du profil de la route
+    - 2\.1323 Utilisation des systèmes de transmission automatique
+    - 2\.1324 Calcul de la charge utile d’une voiture automobile ou d’un ensemble de véhicules
+    - 2\.1325 Répartition du chargement
+    - 2\.1326 Conséquences de la surcharge à l’essieu
+    - 2\.1327 Stabilité du véhicule et centre de gravité
 
-### 2. Application des réglementations
+- 2\.2 Application des réglementations
+- 2\.21 Toutes les catégories et sous-catégories
+  - 2\.211 Connaître l’environnement social du trafic lourd et sa réglementation
+    - 2\.2111 Prescriptions sur la durée du travail et du repos, y compris l’utilisation du tachygraphe
+    - 2\.2112 Prescriptions routières de base spécifiques aux catégories
+    - 2\.2113 Nouvelles prescriptions routières entrées en vigueur
+    - 2\.2114 Droits et obligations des conducteurs en matière de formation continue
 
-### Toutes les catégories et sous-catégories
+- 2\.22 Catégories C et CE ainsi que sous-catégories C1 et C1E
+  - 2\.221 Connaître la réglementation relative au transport de marchandises
+    - 2\.2211 Autorisations de transport
+    - 2\.2212 Documents à emporter dans le véhicule
+    - 2\.2213 Interdiction d’emprunter certaines routes
+    - 2\.2214 Redevances routières
+    - 2\.2215 Obligations résultant de contrats types
+    - 2\.2216 Rédaction des documents matérialisant le contrat de transport
+    - 2\.2217 Autorisations de transport international
+    - 2\.2218 Obligations résultant de la Convention du 19 mai 1956 relative au contrat de transport international de marchandises par route[^annexu1-lvlu1-1]
+    - 2\.2219 Rédaction de la lettre de voiture internationale
+    - 2\.2220 Transports internationaux de marchandises
+    - 2\.2221 Documents particuliers d’accompagnement
 
-- 2\.1 *Objectif:* connaître l’environnement social du trafic lourd et sa réglementation
-  - – Prescriptions sur la durée du travail et du repos, y compris l’utilisation du tachygraphe
-  - – Prescriptions routières de base et spécifiques aux catégories
-  - – Nouvelles prescriptions routières entrées en vigueur
-  - – Droits et obligations des conducteurs en matière de formation continue
+- 2\.23 Catégories D et DE ainsi que sous-catégories D1 et D1E
+  - 2\.231 Connaître la réglementation relative au transport de voyageurs
+    - 2\.2311 Transport de groupes spécifiques
+    - 2\.2312 Équipements de sécurité à bord des bus
+    - 2\.2313 Ceintures de sécurité
+    - 2\.2314 Chargement du véhicule
 
-### Catégories C et CE et sous-catégories C1 et C1E
+- 2\.3 Santé, sécurité routière, lutte contre la criminalité, promotion de l’image de marque, environnement économique, service, logistique
+- 2\.31 Toutes les catégories et sous-catégories
+  - 2\.311 Être sensibilisé aux risques de la route et aux accidents du travail
+    - 2\.3111 Typologie des accidents du travail dans le secteur du transport
+    - 2\.3112 Statistiques des accidents de la circulation
+    - 2\.3113 Accidents de la circulation impliquant des poids lourds, autocars et minibus
+    - 2\.3114 Conséquences humaines, matérielles et financières des accidents de la circulation
+    - 2\.3115 Prévention des accidents
 
-- 2\.2 *Objectif:* connaître la réglementation relative au transport de marchandises
-  - – Autorisations de transport
-  - – Obligations résultant des contrats types
-  - – Rédaction des documents matérialisant le contrat de transport
-  - – Autorisations de transport international
-  - – Obligations résultant de la Convention du 19 mai 1956 relative au contrat de transport international de marchandises par route[^annexu1-lvlu1-lvl2-lvlu2-1]
-  - – Rédaction de la lettre de voiture internationale
-  - – Transports internationaux de marchandises
-  - – Documents particuliers d’accompagnement
+  - 2\.312 Être capable de prévenir la criminalité et les immigrations clandestines
+    - 2\.3121 Information générale
+    - 2\.3122 Implications pour les conducteurs
+    - 2\.3123 Mesures préventives
+    - 2\.3124 Liste de vérifications
+    - 2\.3125 Législation relative à la responsabilité des entreprises
 
-[^annexu1-lvlu1-lvl2-lvlu2-1]: [RS 0.741.611](https://fedlex.data.admin.ch/eli/cc/1970/851_851_851)
+  - 2\.313 Prévenir les risques physiques
+    - 2\.3131 Principes ergonomiques
+    - 2\.3132 Gestes et postures à risques
+    - 2\.3133 Condition physique
+    - 2\.3134 Exercices de manutention
+    - 2\.3135 Protections individuelles
 
-### Catégories D et DE et sous-catégories D1 et D1E
+  - 2\.314 Être conscient de l’importance de l’aptitude physique et mentale
+    - 2\.3141 Principes d’une alimentation saine et équilibrée
+    - 2\.3142 Influence de l’alcool, des médicaments et des stupéfiants
+    - 2\.3143 Influence de la fatigue et du stress
+    - 2\.3144 Cycle activité/repos
 
-- 2\.3 *Objectif:* connaître la réglementation relative au transport de voyageurs
-  - – Transport de groupes spécifiques
-  - – Equipements de sécurité à bord des bus
-  - – Ceintures de sécurité
-  - – Chargement du véhicule
+  - 2\.315 Comportement adéquat en situation d’urgence
+    - 2\.3151 Évaluer la situation
+    - 2\.3152 Éviter le sur-accident
+    - 2\.3153 Prévenir les secours
+    - 2\.3154 Secourir les blessés, premiers soins
+    - 2\.3155 Réagir en cas d’incendie (évacuer les passagers ou les autres occupants)
+    - 2\.3156 Garantir la sécurité des passagers
+    - 2\.3157 Réagir en cas d’agression
+    - 2\.3158 Rédiger des constats amiables
 
-### 3. Santé, sécurité routière, lutte contre la criminalité, promotion de l’image de marque, environnement économique, service, logistique
+  - 2\.316 Pouvoir adopter des comportements contribuant à valoriser l’image de marque d’une entreprise
+    - 2\.3161 Importance pour l’entreprise de la qualité des prestations du conducteur
+    - 2\.3162 Différents rôles du conducteur
+    - 2\.3163 Différents interlocuteurs du conducteur
+    - 2\.3164 Entretien du véhicule
+    - 2\.3165 Organisation du travail
+    - 2\.3166 Conséquences d’un litige sur le plan commercial et financier
 
-### Toutes les catégories et sous-catégories
+- 2\.32 Catégories C et CE ainsi que sous-catégories C1 et C1E
+  - 2\.321 Connaître l’environnement économique
+    - 2\.3211 Transports de marchandises à l’aide de véhicules automobiles par rapport aux autres modes de transport (concurrence, chargeurs)
+    - 2\.3212 Différentes activités du transport de marchandises
+    - 2\.3213 Organisation des principaux types de transporteurs de marchandises
+    - 2\.3214 Différentes spécialisations du transport (par ex. citerne, marchandises dangereuses, transports d’animaux)
+    - 2\.3215 Évolution du secteur
 
-- 3\.1 *Objectif:* être sensibilisé aux risques de la route et aux accidents du travail
-  - – Typologie des accidents du travail dans le secteur du transport
-  - – Statistiques des accidents de la circulation
-  - – Accidents de la circulation impliquant des poids lourds, autocars et minibus
-  - – Leurs conséquences humaines, matérielles et financières
-  - – Prévention des accidents
+- 2\.33 Catégories D et DE ainsi que sous-catégories D1 et DE
+  - 2\.331 Connaître l’environnement économique
+    - 2\.3311 Transports de voyageurs à l’aide de véhicules automobiles par rapport aux autres modes de transport de voyageurs (par ex. rail)
+    - 2\.3312 Différentes activités du transport de voyageurs
+    - 2\.3313 Sensibilisation au handicap
+    - 2\.3314 Transport international de voyageurs
+    - 2\.3315 Organisation des principaux types d’entreprises de transport de voyageurs
 
-- 3\.2 *Objectif:* être capable de prévenir la criminalité et les immigrations clandestines
-  - – Information générale
-  - – Implications pour les conducteurs
-  - – Mesures préventives
-  - – Liste de vérifications
-  - – Législation relative à la responsabilité des entreprises
+- 3\. Organisation de la formation continue
+- 3\.1
 
-- 3\.3 *Objectif:* prévenir les risques physiques
-  - – Principes ergonomiques
-  - – Gestes et postures à risques
-  - – Condition physique
-  - – Exercices de manutention
-  - – Protections individuelles
+  La formation continue doit être dispensée selon le principe pédagogique et didactique de l’enseignement à visée pratique:
 
-- 3\.4 *Objectif:* être conscient de l’importance de l’aptitude physique et mentale
-  - – Principes d’une alimentation saine et équilibrée
-  - – Influence de l’alcool, des médicaments et des stupéfiants
-  - – Influence de la fatigue et du stress
-  - – Cycle activité/repos
+  - 3\.11 Le formateur enseigne les matières dans le cadre d’unités d’enseignement judicieusement structurées.
+  - 3\.12 Le formateur axe son enseignement sur les objectifs d’apprentissage et emploie à cette fin un large éventail de méthodes (formes d’enseignement et d’apprentissage élargies), qui est adapté aux différents types d’apprentissages ainsi qu’à la diversité des participants en cas de cours en groupe. L’enseignement fait appel au plus grand nombre de sens possibles.
+  - 3\.13 Le formateur implique activement les participants dans la formation et les laisse partager leurs expériences.
+  - 3\.14 Le formateur tient compte des intérêts des participants et fait référence à l’actualité.
+  - 3\.15 Le formateur encourage l’autoréflexion chez les participants.
+  - 3\.16 Le formateur s’efforce, avec les participants, d’établir un climat d’apprentissage agréable.
 
-- 3\.5 *Objectif:* comportement adéquat en situation d’urgence
-  - – Evaluer la situation
-  - – Eviter le sur-accident
-  - – Prévenir les secours
-  - – Secourir les blessés, premiers soins
-  - – Réagir en cas d’incendie (évacuer les passagers ou les autres occupants)
-  - – Garantir la sécurité des passagers
-  - – Réagir en cas d’agression
-  - – Rédiger des constats amiables
+- 3\.2 Le nombre d’élèves ne dépassera pas seize par formateur.
+- 3\.3
 
-- 3\.6 *Objectif:* pouvoir adopter des comportements contribuant à valoriser l’image de marque d’une entreprise
-  - – Importance pour l’entreprise de la qualité des prestations du conducteur
-  - – Différents rôles du conducteur
-  - – Différents interlocuteurs du conducteur
-  - – Entretien du véhicule
-  - – Organisation du travail
-  - – Conséquences d’un litige sur le plan commercial et financier
+  La formation continue doit inclure des matières théoriques et pratiques au sens du ch. 2. Elle doit aborder des contenus:
 
-### Catégories C et CE et sous-catégories C1 et C1E
+  - 3\.31 valables pour tous les conducteurs, la priorité étant donnée aux thèmes et aux stratégies visant l’augmentation de la sécurité routière, la sécurité et la protection de la santé au travail, et une utilisation du véhicule respectueuse de l’environnement et efficiente au plan énergétique, et
+  - 3\.32 adaptés au profil professionnel du conducteur concerné.
 
-- 3\.7 *Objectif:* connaître l’environnement économique
-  - – Transports de marchandises à l’aide de véhicules automobiles par rapport aux autres modes de transport (concurrence, chargeurs)
-  - – Différentes activités du transport de marchandises
-  - – Organisation des principaux types de transporteurs de marchandises
-  - – Différentes spécialisations du transport (citerne, etc.)
-  - – Evolution du secteur
+- 3\.4 Le catalogue de compétences de l’autorité cantonale est déterminant pour les détails des matières et des objectifs d’apprentissage à atteindre pour acquérir les compétences.
+- 4\. Cours de formation continue comportant un module d’apprentissage en ligne
+- 4\.1
 
-### Catégories D et DE et sous-catégories D1 et D1E
+  Les conditions ci-après valent pour l’organisation de cours de formation continue comportant un module d’apprentissage en ligne:
 
-- 3\.8 *Objectif:* Connaître l’environnement économique
-  - – Transports de voyageurs à l’aide de véhicules automobiles par rapport aux autres modes de transport de voyageurs (p. ex. rail)
-  - – Différentes activités du transport de voyageurs
-  - – Transport international de voyageurs
-  - – Organisation des principaux types d’entreprises de transport de voyageurs
+  - 4\.11 Les matières proposées doivent se prêter au module d’apprentissage en ligne.
+  - 4\.12 Le module d’apprentissage en ligne doit contenir des textes, des images, des schémas, des animations ou des films, des exercices interactifs et d’autres outils de ce type. Chacun de ces éléments doit être adapté au média utilisé.
+  - 4\.13 Le prestataire doit démontrer que l’enseignement présentiel est harmonisé avec le module d’apprentissage en ligne et que le matériel utilisé dans ce cadre concorde avec le module d’apprentissage en ligne.
+  - 4\.14 Le module d’apprentissage en ligne doit s’achever par un test en ligne.
+  - 4\.15 L’enseignement présentiel est réservé aux personnes ayant réussi le test du module d’apprentissage en ligne.
+  - 4\.16 Les participants doivent réussir un test de niveau au début de l’enseignement présentiel. En cas d’échec, ils sont autorisés à le repasser une fois.
+
+- 4\.2
+
+  Dans un premier temps, la reconnaissance des prestataires de cours de formation continue comportant un module d’apprentissage en ligne est octroyée provisoirement, pour une durée d’un an, par l’autorité cantonale. Cette dernière vérifie que les conditions de reconnaissance sont réunies. Les documents ci-après doivent être joints à la demande:
+
+  - 4\.21 concept global (harmonisation de l’enseignement présentiel avec le module d’apprentissage en ligne, test de niveau, déroulement de l’enseignement présentiel);
+  - 4\.22 accès au module d’apprentissage en ligne;
+  - 4\.23 documents de cours pour l’enseignement présentiel;
+  - 4\.24 concept d’évaluation.
+
+- 4\.3
+
+  Durant la période de validité de la reconnaissance provisoire, le cours comportant un module d’apprentissage en ligne doit faire l’objet d’une évaluation, tandis que l’enseignement présentiel doit être soumis à un audit. L’évaluation doit comprendre:
+
+  - 4\.31 une enquête auprès des participants au cours et de ses animateurs sur le concept de formation, le fonctionnement du cours, la réalisation des objectifs d’apprentissage, la satisfaction des participants au cours, l’adhésion générale au cours, etc.;
+  - 4\.32 la preuve que le temps consacré au module d’apprentissage en ligne n’est pas considérablement inférieur à la durée prescrite pour l’enseignement présentiel (par ex. au moyen d’un traçage des activités des participants au cours);
+  - 4\.33 des informations sur la manière de combler les éventuelles lacunes mises en évidence lors de l’évaluation et sur les délais nécessaires à cette fin.
+
+- 4\.4 Le prestataire de cours est tenu de remettre le rapport d’évaluation à l’autorité cantonale au plus tard dix mois après l’obtention de la reconnaissance provisoire.
+- 4\.5 L’autorité cantonale décide de la reconnaissance définitive du prestataire de cours sur la base des résultats de l’évaluation et d’un audit.
+- 4\.6 Un prestataire de cours est autorisé à intégrer dans son cours un module d’apprentissage en ligne déjà reconnu pour un autre prestataire de cours, si le titulaire du module d’apprentissage en ligne donne son accord. Dans ce cas, le prestataire de cours doit déposer une demande auprès de l’autorité cantonale et y joindre les documents visés aux ch. 4.2.1, 4.2.3 et 4.2.4, en précisant le module d’apprentissage en ligne utilisé, ainsi que la déclaration de consentement du titulaire du module d’apprentissage en ligne déjà reconnu.
+
+[^annexu1-lvlu1-1]: [RS 0.741.611](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2860)

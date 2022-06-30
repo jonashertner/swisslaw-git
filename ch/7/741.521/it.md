@@ -4,11 +4,11 @@ title: "Ordinanza del 15 giugno 2007 sull'ammissione dei conducenti di veicoli a
 short: OAut
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/437"
 language: it
-version: 2022-04-26
+version: 2022-07-01
 adopted: 2007-06-15
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/437/20220426/it/xml/fedlex-data-admin-ch-eli-cc-2007-437-20220426-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20220426/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/437/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2007-437-20220701-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20220426/it"
 
 (Ordinanza sull’ammissione degli autisti, OAut)
 
-del 15 giugno 2007 (Stato 26 aprile 2022)
+del 15 giugno 2007 (Stato 1° luglio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 15 capoversi 4 e 5, 25 capoverso 2 lettere b e d, 103 capover
 
 ordina:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 ## Sezione 1: Disposizioni generali
 
@@ -62,7 +62,7 @@ Non necessitano di un certificato di capacità i conducenti di veicoli a motore:
   - 3\. che non sia in relazione con un’attività professionale o commerciale;
 
 - b. la cui velocità massima autorizzata non supera i 45 km/h;
-- c.[^3-2] utilizzati dall’esercito, dalla polizia, dal servizio antincendio, dall’Ufficio federale della dogana e della sicurezza dei confini[^3-3], dalla protezione civile, dai servizi di trasporto sanitario oppure su loro mandato;
+- c.[^3-2] utilizzati dall’esercito, dalla polizia, dal servizio antincendio, dall’Ufficio federale della dogana e della sicurezza dei confini[^3-3],, dalla protezione civile, dai servizi di trasporto sanitario oppure su loro mandato;
 - d.[^3-4] con i quali, a scopo di sviluppo tecnico o per lavori di riparazione o manutenzione, sono eseguite corse di prova o di trasferimento;
 - d<sup>bis</sup>.[^3-5] che, nuovi o trasformati, non sono ancora in circolazione;
 - e.[^3-6] impiegati in situazioni d’emergenza, per operazioni di salvataggio o per trasporti non commerciali di cui alla lettera a destinati all’aiuto umanitario;
@@ -80,7 +80,7 @@ Non necessitano di un certificato di capacità i conducenti di veicoli a motore:
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 [^3-2]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^3-3]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^3-3]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^3-4]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° set. 2009 ([RU 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
 [^3-5]: Introdotta dal n. I dell’O del 22 ott. 2008, in vigore dal 1° set. 2009 ([RU 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
 [^3-6]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
@@ -88,7 +88,7 @@ Non necessitano di un certificato di capacità i conducenti di veicoli a motore:
 [^3-8]: Introdotta dal n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 [^3-9]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 [^3-10]: Introdotta dal n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^3-11]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^3-11]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 
 #### Art. 4
 
@@ -112,13 +112,13 @@ Durante le corse devono portare con sé:
 
 **Conducenti di veicoli provenienti dall’Unione europea e dall’Associazione europea di libero scambio**[^5-1]
 
-Necessitano del certificato di idoneità professionale conformemente alla direttiva 2003/59/CE[^5-2]:
+Necessitano del certificato di idoneità professionale conformemente alla direttiva (UE) 2022/2561[^5-2]:
 
 - a. i conducenti domiciliati in uno Stato membro dell’Unione europea o dell’Associazione europea di libero scambio;
 - b. i conducenti impiegati da un’impresa stabilita nell’Unione europea o nell’Associazione europea di libero scambio.
 
 [^5-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^5-2]: Direttiva 2003/59/CE del Parlamento europeo e del Consiglio del 15 luglio 2003 sulla qualificazione iniziale e formazione periodica dei conducenti di taluni veicoli stradali adibiti al trasporto di merci o passeggeri, che modifica il regolamento (CEE) n. 3820/85 del Consiglio e la direttiva 91/439/CEE del Consiglio e che abroga la direttiva 76/914/CEE del Consiglio, GU L 226 del 10.9.2003, pag. 4; modificata da ultimo dalla direttiva (UE) 2018/645, GU L 112 del 2.5.2018, pag. 29.
+[^5-2]: Direttiva (UE) 2022/2561 del Parlamento europeo e del Consiglio del 14 dicembre 2022 sulla qualificazione iniziale e formazione periodica dei conducenti di taluni veicoli stradali adibiti al trasporto di merci o passeggeri, GU L 330 del 23.12.2022, pag. 46. Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 12 gen. 2023. Di detta modifica è tenuto conto in tutto il presente testo.
 
 ## Sezione 2: Certificati di capacità
 
@@ -149,7 +149,7 @@ Il certificato di capacità per il trasporto di merci è rilasciato alle persone
 
 Ai conducenti provenienti dall’estero che prendono domicilio in Svizzera il certificato di capacità è rilasciato senza esame se:
 
-- a. un’autorizzazione corrispondente è iscritta nella licenza di condurre straniera oppure è attestata dalla carta di qualificazione del conducente giusta l’allegato II della direttiva 2003/59/CE[^7-2]; oppure
+- a. un’autorizzazione corrispondente è iscritta nella licenza di condurre straniera oppure è attestata dalla carta di qualificazione del conducente giusta l’allegato II della direttiva (UE) 2022/2561[^7-2]; oppure
 - b. sono titolari di un attestato nazionale che l’Ufficio federale delle strade (USTRA) ha riconosciuto come equivalente.
 
 <sup>2</sup> Ai conducenti non domiciliati in uno Stato membro dell’Unione europea o dell’Associazione europea di libero scambio e impiegati da un’impresa stabilita in Svizzera il certificato di capacità è rilasciato senza esame se soddisfano i requisiti di cui al capoverso 1 lettera a o b.
@@ -181,12 +181,12 @@ I certificati di capacità sono rilasciati:
 Il certificato di capacità, con indicazione della durata di validità, è rilasciato sotto forma di:
 
 - a. iscrizione a titolo di indicazione supplementare nella licenza di condurre (art. 24*c* lett. e dell’O del 27 ott. 1976[^9-2] sull’ammissione alla circolazione di persone e veicoli, OAC); oppure
-- b.[^9-3] emissione di una carta separata secondo il modello della carta di qualificazione del conducente di cui all’allegato II della direttiva 2003/59/CE[^9-4].[^9-5]
+- b.[^9-3] emissione di una carta separata secondo il modello della carta di qualificazione del conducente di cui all’allegato II della direttiva (UE) 2022/2561[^9-4].[^9-5]
 
 <sup>4</sup> Le indicazioni sulla carta separata devono corrispondere a quelle iscritte nella licenza di condurre in base alla quale la carta è rilasciata. In caso di sostituzione della licenza di condurre va richiesta una nuova carta.[^9-6]
 
 [^9-1]: Introdotto dal n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^9-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^9-2]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 [^9-3]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 [^9-4]: Cfr. nota all’art. 5.
 [^9-5]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° set. 2009 ([RU 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
@@ -196,9 +196,11 @@ Il certificato di capacità, con indicazione della durata di validità, è rilas
 
 #### Art. 10
 
-**In generale**
+**In generale**[^10-1]
 
-All’esame teorico e all’esame pratico i candidati devono comprovare di possedere le conoscenze di base e le attitudini necessarie secondo l’allegato per il trasporto di persone o di merci.
+All’esame teorico e all’esame pratico i candidati devono comprovare di possedere le competenze operative, le conoscenze e le attitudini di base secondo l’allegato necessarie per il trasporto di persone e merci.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° lug. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 11
 
@@ -210,7 +212,7 @@ All’esame teorico e all’esame pratico i candidati devono comprovare di posse
 
 <sup>3</sup> È ammesso all’esame combinato (art. 14<sup>bis</sup>) chi ha superato l’esame teorico giusta l’articolo 12 capoverso 1 lettera a e possiede la licenza per allievo conducente o la licenza di condurre per il veicolo utilizzato. L’ammissione alla corsa d’esame giusta l’articolo 14 capoverso 3 è disciplinata nell’allegato 12 numero I OAC.[^11-2]
 
-[^11-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^11-1]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 [^11-2]: Introdotto dal n. I dell’O del 22 ott. 2008, in vigore dal 1° set. 2009 ([RU 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
 
 #### Art. 12
@@ -244,7 +246,7 @@ L’esame teorico comprende:
 
 <sup>3</sup> I titolari di un certificato di capacità giusta la sezione 3 dell’ordinanza del 1° novembre 2000[^13-1] concernente l’accesso alle professioni di trasportatore di viaggiatori e di merci su strada sono esonerati dalle parti dell’esame per cui sono già qualificati.
 
-[^13-1]: [RS 744.103](https://fedlex.data.admin.ch/eli/cc/2015/597)
+[^13-1]: [RS 744.103](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8861)
 
 #### Art. 14
 
@@ -252,12 +254,12 @@ L’esame teorico comprende:
 
 <sup>1</sup> L’esame pratico consiste in una parte generale e in una corsa d’esame.
 
-<sup>2</sup> La parte generale deve essere svolta da tutti i candidati a un certificato di capacità. Deve estendersi perlomeno ai numeri 2.121, 2.141, 2.142, 2.312, 2.313 e 2.315 dell’allegato e durare almeno 30 minuti. Deve essere utilizzato un veicolo della categoria o della sottocategoria con cui saranno effettuati i trasporti di persone o di merci.[^14-1]
+<sup>2</sup> La parte generale deve essere svolta da tutti i candidati a un certificato di capacità. Deve estendersi perlomeno ai numeri 2.121, 2.131, 2.132, 2.312, 2.313 e 2.315 dell’allegato e durare almeno 30 minuti. Deve essere utilizzato un veicolo della categoria o della sottocategoria con cui saranno effettuati i trasporti di persone o di merci.[^14-1]
 
 <sup>3</sup> La corsa d’esame deve essere effettuata dai titolari della licenza di condurre della sottocategoria C1 o D1. Durante la corsa d’esame si determina se sono idonei a una guida sicura e rispettosa degli altri utenti, efficiente dal profilo energetico e rispettosa dell’ambiente. La corsa d’esame deve durare almeno 30 minuti. Deve essere utilizzato un veicolo a motore che adempia le esigenze di un veicolo per l’esame della sottocategoria corrispondente (all. 12 n. V OAC[^14-2]).
 
 [^14-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^14-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^14-2]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 #### Art. 14<sup>bis</sup>
 
@@ -276,7 +278,7 @@ La parte dell’esame teorico giusta l’articolo 12 capoverso 1 lettera b e la 
 <sup>2</sup> La ripetizione della corsa d’esame (art. 14 cpv. 3) è retta dall’articolo 23 OAC[^15-2].
 
 [^15-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
-[^15-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^15-2]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 ## Sezione 4: Formazione periodica
 
@@ -306,9 +308,16 @@ La parte dell’esame teorico giusta l’articolo 12 capoverso 1 lettera b e la 
 
 <sup>1</sup> Chi possiede il certificato di capacità per il trasporto di persone o il certificato di capacità per il trasporto di merci oppure entrambi deve, per ottenerne la proroga, comprovare la frequenza di 35 ore di formazione periodica.
 
-<sup>2</sup> La formazione periodica può essere frequentata come corso settimanale oppure in corsi quotidiani. Una giornata di corso deve durare almeno 7 ore.
+<sup>2</sup> La formazione periodica può essere frequentata come corso settimanale oppure in corsi singoli. Un corso singolo deve durare almeno sette ore, escluse le pause. Può essere articolato su due giornate consecutive.[^18-2]
+
+<sup>3</sup> In un corso singolo di sette ore, possono essere impartite sotto forma di modulo e-learning al massimo tre ore. Un corso singolo comprendente un modulo e-learning può essere suddiviso in due giornate. Tra il modulo e-learning e le lezioni in presenza possono trascorrere al massimo cinque giorni.[^18-3]
+
+<sup>4</sup> Lo svolgimento di corsi singoli comprendenti un modulo e-learning è disciplinato nel numero 4 dell’allegato.[^18-4]
 
 [^18-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^18-2]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° lug. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^18-3]: Introdotto dal n. I dell’O del 10 dic. 2021, in vigore dal 1° lug. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^18-4]: Introdotto dal n. I dell’O del 10 dic. 2021, in vigore dal 1° lug. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 19
 
@@ -323,7 +332,7 @@ I centri di formazione periodica devono rilasciare un attestato di partecipazion
 Gli attestati esteri sulla frequenza di una formazione periodica sono riconosciuti come equivalenti se:
 
 - a. la formazione periodica è stata totalmente o parzialmente seguita durante il periodo di impiego in un’impresa stabilita all’estero; e
-- b.[^20-1] l’organizzatore di corsi è autorizzato a impartire la formazione periodica in uno Stato membro dell’Unione europea o dell’Associazione europea di libero scambio giusta l’allegato I sezione 5 della direttiva 2003/59/CE[^20-2].
+- b.[^20-1] l’organizzatore di corsi è autorizzato a impartire la formazione periodica in uno Stato membro dell’Unione europea o dell’Associazione europea di libero scambio giusta l’allegato I sezione 5 della direttiva (UE) 2022/2561[^20-2].
 
 [^20-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 [^20-2]: Cfr. nota all’art. 5.
@@ -360,7 +369,7 @@ Il Cantone in cui ha sede il centro di formazione periodica revoca il riconoscim
 
 <sup>2</sup> L’autorizzazione è rilasciata dal Cantone di domicilio del richiedente; è valida per tutta la Svizzera.
 
-<sup>3</sup> Chi vuole ottenere un’autorizzazione deve aver compiuto 25 anni e presentare all’autorità competente del Cantone di domicilio una domanda corredata di *curriculum vitae*, informazioni sull’attività precedente e certificati professionali.
+<sup>3</sup> Chi vuole ottenere un’autorizzazione deve aver compiuto 25 anni e presentare all’autorità competente del Cantone di domicilio una domanda corredata di *curric**u**lum vitae*, informazioni sull’attività precedente e certificati professionali.
 
 <sup>4</sup>
 
@@ -374,7 +383,7 @@ L’autorizzazione è rilasciata se il richiedente:
 
 <sup>6</sup> L’autorizzazione può essere revocata se il titolare non soddisfa più le condizioni di cui al capoverso 4 lettere a e c o al capoverso 5.
 
-[^23-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^23-1]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 [^23-2]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° set. 2009 ([RU 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
 
 #### Art. 24
@@ -405,13 +414,15 @@ I Cantoni:
 - d. rilasciano le autorizzazioni all’insegnamento nei centri di formazione periodica;
 - e. sorvegliano lo svolgimento dei corsi di formazione periodica;
 - f. approvano i programmi di formazione parallela all’esercizio della professione non ancora riconosciuti a livello federale;
-- g. decidono circa il riconoscimento della formazione periodica seguita all’estero.
+- g. decidono circa il riconoscimento della formazione periodica seguita all’estero;
+- h.[^26-1] possono autorizzare deroghe individuali e concrete a singole disposizioni per evitare casi di rigore.
 
 <sup>2</sup> Possono delegare a terzi l’adempimento di questi compiti.
 
-<sup>3</sup> L’USTRA può emanare istruzioni per l’esecuzione della presente ordinanza. Per evitare casi di rigore può autorizzare deroghe a singole disposizioni.[^26-1]
+<sup>3</sup> L’USTRA può emanare istruzioni per l’esecuzione della presente ordinanza. Per evitare casi di rigore può autorizzare deroghe generali e astratte a singole disposizioni.[^26-2]
 
-[^26-1]: Correzione del 26 apr. 2022 ([RU 2022 256](https://fedlex.data.admin.ch/eli/oc/2022/256)).
+[^26-1]: Introdotta dal n. I dell’O del 10 dic. 2021, in vigore dal 1° lug. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^26-2]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° lug. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893); [2022 256](https://fedlex.data.admin.ch/eli/oc/2022/256)).
 
 #### Art. 27
 
@@ -447,168 +458,244 @@ I Cantoni:
 
 <sup>2</sup> Gli articoli 2–20, 24, 25, 26 capoverso 1 lettere a, b, e nonché g, come pure l’articolo 27 entrano in vigore il 1° settembre 2009.
 
-Allegato
+Allegato[^t-1]
 
-(art. 10 e 16)
+(art. 4 cpv. 1, 10, 12 cpv. 2–4, 14 cpv. 2, 17, 18 cpv. 4 e 21 cpv. 2 lett. d)
 
-## Conoscenze e attitudini richieste per l’ottenimento e la proroga del certificato di capacità
+## Ottenimento e proroga del certificato di capacità
 
-### 1. Perfezionamento per una guida razionale sulla base delle norme di sicurezza
+[^t-1]: Nuovo testo giusta il n. II dell’O del 10 dic. 2021, in vigore dal 1° lug. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
-Tutte le categorie e sottocategorie
+- 1\. Competenze operative
+- 1\.1 I conducenti applicano le prescrizioni in materia di circolazione stradale, in particolare quelle relative alla guida degli autoveicoli pesanti.
+- 1\.2 I conducenti hanno dimestichezza con i veicoli loro affidati. Li impiegano correttamente dal punto di vista tecnico e limitando il consumo di risorse. Eseguono i controlli di sicurezza e i lavori di manutenzione necessari. Riconoscono le anomalie e le risolvono nei limiti del possibile.
+- 1\.3 I conducenti guidano autoveicoli pesanti in svariate condizioni esterne e con carichi variabili, senza mettere in pericolo gli altri utenti della strada, in modo efficiente sotto il profilo energetico e rispettoso dell’ambiente.
+- 1\.4 I conducenti sono responsabili per se stessi, i passeggeri e le merci trasportati, il veicolo, il committente e gli altri utenti della strada.
+- 1\.5 I conducenti sanno come comportarsi in caso di guasti, incidenti, emergenze o conflitti. Riflettono sulle possibili cause contribuendo in tal modo a prevenire tali situazioni o ridurre al minimo i danni.
+- 1\.6 Solo per il trasporto di persone:
+- I conducenti trasportano i passeggeri a destinazione con la massima sicurezza e il massimo comfort attenendosi all’orario o al programma di viaggio.
+- 1\.7 Solo per il trasporto di merci:
+- I conducenti trasportano le merci loro affidate nel rispetto delle prescrizioni sul fissaggio del carico.
+- 2\. Conoscenze e attitudini
+- 2\.1 Perfezionamento per una guida razionale sulla base delle norme di sicurezza
+- 2\.11 Tutte le categorie e sottocategorie
+  - 2\.111 Conoscenza delle caratteristiche del sistema di trasmissione per un uso ottimale
+    - 2\.1111 Curve di coppia
+    - 2\.1112 Curve di potenza
+    - 2\.1113 Curve di consumo specifico del motore
+    - 2\.1114 Zona di uso ottimale del contagiri
+    - 2\.1115 Diagrammi di ricoprimento dei rapporti di trasmissione
 
-- 1\.1 *Obiettivo:* conoscenza delle caratteristiche del sistema di trasmissione per usarlo in modo ottimale
-  - – curve di coppia
-  - – curve di potenza
-  - – curve di consumo specifico del motore
-  - – zona di uso ottimale del contagiri
-  - – diagrammi di ricoprimento dei rapporti di trasmissione
+  - 2\.112 Conoscenza delle caratteristiche tecniche e del funzionamento dei dispositivi di sicurezza per mantenere il controllo del veicolo, minimizzarne l’usura e prevenire le anomalie di funzionamento
+    - 2\.1121 Limiti dell’utilizzo di freni e rallentatore
+    - 2\.1122 Uso combinato di freni e rallentatore
+    - 2\.1123 Ricerca del miglior compromesso fra velocità e rapporto del cambio
+    - 2\.1124 Ricorso all’inerzia del veicolo
+    - 2\.1125 Utilizzo dei dispositivi di frenatura in discesa
+    - 2\.1126 Comportamento in caso di avaria
+    - 2\.1127 Uso di dispositivi elettronici e meccanici quali sistemi di controllo elettronico della stabilità, dispositivi avanzati di frenata di emergenza, sistemi di frenatura antibloccaggio, sistemi di controllo della trazione e sistemi di monitoraggio dei veicoli, nonché altri sistemi omologati di assistenza alla guida o di automazione
 
-- 1\.2 *Obiettivo:* conoscenza delle caratteristiche tecniche e del funzionamento dei dispositivi di sicurezza per controllare il veicolo, minimizzare l’usura e prevenire le anomalie del funzionamento
-  - – impianto freno a circuito doppio (circuito di frenatura oleo-pneumatico)
-  - – limiti dell’utilizzo di freni e rallentatori
-  - – uso combinato di freni e rallentatore
-  - – ricerca del miglior compromesso fra velocità e rapporto del cambio
-  - – ricorso all’inerzia del veicolo
-  - – utilizzo dei dispositivi di rallentamento e frenatura in discesa
-  - – condotta in caso di avaria
+  - 2\.113 Capacità di ottimizzare il consumo di carburante
+    - 2\.1131 Applicazione delle conoscenze di cui ai numeri 2.111 e 2.112
+    - 2\.1132 Saper anticipare il flusso del traffico
+    - 2\.1133 Distanza adeguata rispetto agli altri veicoli e utilizzo della dinamica del veicolo
+    - 2\.1134 Velocità costante
+    - 2\.1135 Guida regolare
+    - 2\.1136 Pressione degli pneumatici adeguata
+    - 2\.1137 Conoscenza dei sistemi di trasporto intelligenti che migliorano l’efficienza alla guida e assistono nella pianificazione degli itinerari
 
-- 1\.3 *Obiettivo:* capacità di ottimizzare il consumo di carburante
-  - – attuazione delle conoscenze di cui ai numeri 1.1 e 1.2
+  - 2\.114 Capacità di prevedere e valutare i rischi stradali e di adattare la guida di conseguenza
+    - 2\.1141 Riconoscere le diverse condizioni della strada, del traffico e meteorologiche e adeguarvi la guida
+    - 2\.1142 Prevedere il verificarsi di eventi
+    - 2\.1143 Saper valutare come preparare e pianificare un viaggio in condizioni meteorologiche eccezionali, conoscere l’uso delle relative attrezzature di sicurezza e capire quando un viaggio deve essere rinviato o annullato a causa di condizioni meteorologiche estreme
+    - 2\.1144 Adeguare la guida ai rischi stradali, inclusi i comportamenti pericolosi nel traffico o la distrazione al volante (p. es. dovuta all’utilizzo di dispositivi elettronici, al consumo di cibo o bevande ecc.)
+    - 2\.1145 Riconoscere le situazioni pericolose e adattare la guida di conseguenza nonché essere in grado di gestire lo stress che ne deriva, in particolare in rapporto alle dimensioni e al peso del veicolo e alla presenza di utenti della strada vulnerabili quali pedoni, ciclisti e motociclisti
+    - 2\.1146 Riconoscere potenziali pericoli e i casi in cui possono derivarne situazioni in cui non è più possibile evitare un incidente
+    - 2\.1147 Scegliere e compiere azioni tali da aumentare le distanze di sicurezza al punto da poter evitare un incidente qualora il pericolo potenziale dovesse divenire reale
 
-Categorie C e CE e sottocategorie C1 e C1E
+- 2\.12 Categorie C e CE nonché sottocategorie C1 e C1E
+  - 2\.121 Capacità di caricare il veicolo rispettando le norme di sicurezza e di corretto utilizzo del veicolo
+    - 2\.1211 Forze agenti sui veicoli in movimento
+    - 2\.1212 Uso dei rapporti del cambio di velocità in funzione del carico del veicolo e delle caratteristiche stradali
+    - 2\.1213 Uso del cambio automatico
+    - 2\.1214 Calcolo del carico utile di un autoveicolo o di una combinazione di veicoli
+    - 2\.1215 Calcolo del volume totale
+    - 2\.1216 Ripartizione del carico
+    - 2\.1217 Conseguenze del sovraccarico assiale
+    - 2\.1218 Stabilità e baricentro del veicolo
+    - 2\.1219 Tipi di imballaggio e di supporto del carico
+    - 2\.1220 Principali categorie di merci che necessitano di fissaggio
+    - 2\.1221 Tecniche di bloccaggio e ancoraggio
+    - 2\.1222 Uso delle cinghie di ancoraggio
+    - 2\.1223 Verifica dei dispositivi di fissaggio
+    - 2\.1224 Uso delle attrezzature di movimentazione
+    - 2\.1225 Montaggio e smontaggio delle coperture telate
 
-- 1\.4 *Obiettivo:* capacità di caricare il veicolo rispettando i principi di sicurezza e di corretta utilizzazione del veicolo
-  - – forze agenti sui veicoli in movimento
-  - – uso dei rapporti del cambio di velocità in funzione del carico del veicolo e delle caratteristiche stradali
-  - – calcolo del carico utile di un veicolo o di un complesso di veicoli
-  - – calcolo del volume totale
-  - – ripartizione del carico
-  - – conseguenze del sovraccarico assiale
-  - – stabilità del veicolo e baricentro
-  - – tipi di imballaggio e supporto del carico
-  - – principali categorie di merci bisognose di stivaggio
-  - – tecniche di ancoraggio e di stivaggio
-  - – uso delle cinghie di stivaggio
-  - – verifica dei dispositivi di stivaggio
-  - – uso delle attrezzature di movimentazione
-  - – montaggio e smontaggio delle coperture telate
+- 2\.13 Categorie D e DE nonché sottocategorie D1 e D1E
+  - 2\.131 Capacità di garantire la sicurezza e il comfort dei passeggeri
+    - 2\.1311 Calibrazione dei movimenti longitudinali e trasversali del veicolo
+    - 2\.1312 Comportamento corretto nel traffico
+    - 2\.1313 Posizionamento sulla corsia di marcia
+    - 2\.1314 Fluidità della frenata
+    - 2\.1315 Dinamica dello sbalzo
+    - 2\.1316 Uso di infrastrutture specifiche (spazi pubblici, corsie riservate a determinate categorie)
+    - 2\.1317 Gestione delle situazioni di conflitto fra la guida in sicurezza e le altre funzioni del conducente
+    - 2\.1318 Interazione con i passeggeri
+    - 2\.1319 Specificità del trasporto di determinati gruppi di passeggeri (persone disabili, bambini)
 
-Categorie D e DE e sottocategorie D1 e D1E
+  - 2\.132 Capacità di caricare il veicolo rispettando le norme di sicurezza e di corretto utilizzo del veicolo
+    - 2\.1321 Forze agenti sui veicoli in movimento
+    - 2\.1322 Uso dei rapporti del cambio di velocità in funzione del carico del veicolo e delle caratteristiche stradali
+    - 2\.1323 Uso del cambio automatico
+    - 2\.1324 Calcolo del carico utile di un autoveicolo o di una combinazione di veicoli
+    - 2\.1325 Ripartizione del carico
+    - 2\.1326 Conseguenze del sovraccarico assiale
+    - 2\.1327 Stabilità e baricentro del veicolo
 
-- 1\.5 *Obiettivo:* capacità di garantire la sicurezza e il comfort dei passeggeri
-  - – calibrazione dei movimenti longitudinali e trasversali del veicolo
-  - – giusto comportamento nel traffico
-  - – posizionamento sul fondo stradale
-  - – fluidità della frenata
-  - – dinamica dello sbalzo
-  - – uso d’infrastrutture specifiche (spazi pubblici, corsie riservate a determinati utenti)
-  - – gestione adeguata delle situazioni di conflitto fra la guida in sicurezza e le altre funzioni del conducente
-  - – interazione con i passeggeri
-  - – specificità del trasporto di determinati gruppi di persone (portatori di handicap, bambini)
+- 2\.2 Applicazione della normativa
+- 2\.21 Tutte le categorie e sottocategorie
+  - 2\.211 Conoscenza del contesto giuridico sociale dell’autotrasporto e della relativa regolamentazione
+    - 2\.2111 Prescrizioni sulla durata del lavoro e del riposo, compreso l’uso del tachigrafo
+    - 2\.2112 Prescrizioni di base e specifiche della categoria in materia di circolazione
+    - 2\.2113 Nuove prescrizioni entrate in vigore in materia di circolazione
+    - 2\.2114 Diritti e doveri del conducente in materia di formazione periodica
 
-- 1\.6 *Obiettivo:* capacità di caricare il veicolo rispettando i principi di sicurezza e di corretta utilizzazione del veicolo
-  - – forze agenti sui veicoli in movimento
-  - – uso dei rapporti del cambio di velocità in funzione del carico del veicolo e delle caratteristiche stradali
-  - – calcolo del carico utile di un veicolo o di un complesso di veicoli
-  - – ripartizione del carico
-  - – conseguenze del sovraccarico assiale
-  - – stabilità del veicolo e baricentro
+- 2\.22 Categorie C e CE nonché sottocategorie C1 e C1E
+  - 2\.221 Conoscenza della regolamentazione relativa al trasporto di merci
+    - 2\.2211 Autorizzazioni al trasporto
+    - 2\.2212 Documenti da tenere nel veicolo
+    - 2\.2213 Divieti di circolazione su determinate strade
+    - 2\.2214 Pedaggi stradali
+    - 2\.2215 Obblighi previsti dai contratti standard
+    - 2\.2216 Redazione dei documenti di trasporto
+    - 2\.2217 Autorizzazioni al trasporto internazionale
+    - 2\.2218 Obblighi previsti nel quadro della Convenzione del 19 maggio 1956[^annexu1-lvlu1-1] relativa al contratto di trasporto internazionale di merci su strada
+    - 2\.2219 Redazione della lettera di vettura internazionale
+    - 2\.2220 Trasporto internazionale di merci
+    - 2\.2221 Documenti particolari di accompagnamento delle merci
 
-### 2. Applicazione della normativa
+- 2\.23 Categorie D e DE nonché sottocategorie D1 e D1E
+  - 2\.231 Conoscenza della regolamentazione relativa al trasporto di persone
+    - 2\.2311 Trasporto di gruppi specifici di persone
+    - 2\.2312 Dotazione di sicurezza a bordo di autobus
+    - 2\.2313 Cinture di sicurezza
+    - 2\.2314 Carico del veicolo
 
-Tutte le categorie e sottocategorie
+- 2\.3 Salute, sicurezza stradale, lotta contro la criminalità, promovimento dell’immagine, contesto economico, servizi, logistica
+- 2\.31 Tutte le categorie e sottocategorie
+  - 2\.311 Sensibilizzazione ai pericoli della strada e agli infortuni sul lavoro
+    - 2\.3111 Tipologia degli infortuni sul lavoro nel settore dei trasporti
+    - 2\.3112 Statistiche sugli incidenti stradali
+    - 2\.3113 Incidenti stradali implicanti autocarri, autobus e furgoncini
+    - 2\.3114 Perdite in termini umani e danni materiali ed economici
+    - 2\.3115 Prevenzione degli incidenti
 
-- 2\.1 *Obiettivo:* conoscenza del contesto sociale dell’autotrasporto e della relativa regolamentazione
-  - – prescrizioni sulla durata del lavoro e del riposo, compreso l’uso del cronotachigrafo
-  - – prescrizioni di base e specifiche della categoria in materia di circolazione
-  - – nuove prescrizioni entrate in vigore in materia di circolazione
-  - – diritti e doveri del conducente in materia di formazione periodica
+  - 2\.312 Capacità di prevenire la criminalità e il traffico di clandestini
+    - 2\.3121 Informazioni generali
+    - 2\.3122 Implicazioni per i conducenti
+    - 2\.3123 Misure preventive
+    - 2\.3124 Promemoria verifiche
+    - 2\.3125 Normativa in materia di responsabilità degli autotrasportatori
 
-Categorie C e CE e sottocategorie C1 e C1E
+  - 2\.313 Capacità di prevenire i rischi fisici
+    - 2\.3131 Principi di ergonomia
+    - 2\.3132 Movimenti e posture a rischio
+    - 2\.3133 Condizione fisica
+    - 2\.3134 Esercizi di mantenimento
+    - 2\.3135 Protezione individuale
 
-- 2\.2 *Obiettivo:* conoscenza della regolamentazione relativa al trasporto di merci
-  - – autorizzazioni al trasporto
-  - – obblighi previsti dai contratti standard
-  - – redazione dei documenti di trasporto
-  - – autorizzazioni al trasporto internazionale
-  - – obblighi previsti nel quadro della Convenzione del 19 maggio 1956[^annexu1-lvlu1-lvl2-1] relativa al contratto di trasporto internazionale di merci su strada
-  - – redazione della lettera di vettura internazionale
-  - – trasporto internazionale di merci
-  - – documenti particolari di accompagnamento delle merci
+  - 2\.314 Consapevolezza dell’importanza dell’idoneità fisica e mentale
+    - 2\.3141 Principi di un’alimentazione sana ed equilibrata
+    - 2\.3142 Effetti dell’alcol, dei farmaci e degli stupefacenti
+    - 2\.3143 Effetti della stanchezza e dello stress
+    - 2\.3144 Ciclo di base attività lavorativa/riposo
 
-Categorie D e DE e sottocategorie D1 e D1E
+  - 2\.315 Comportamento corretto nelle situazioni di emergenza
+    - 2\.3151 Valutare la situazione
+    - 2\.3152 Evitare di aggravare l’incidente
+    - 2\.3153 Chiamare i soccorsi
+    - 2\.3154 Prestare assistenza e primo soccorso ai feriti
+    - 2\.3155 Comportamento in caso d’incendio (evacuazione di passeggeri e altre persone a bordo)
+    - 2\.3156 Garantire la sicurezza dei passeggeri
+    - 2\.3157 Comportamento in caso di aggressione
+    - 2\.3158 Compilazione del verbale di incidente
 
-- 2\.3 *Obiettivo:* conoscenza della regolamentazione relativa al trasporto di persone
-  - – trasporto di gruppi specifici di persone
-  - – dotazione di sicurezza a bordo di autobus
-  - – cinture di sicurezza
-  - – carico del veicolo
+  - 2\.316 Capacità di comportarsi in modo da valorizzare l’immagine dell’impresa
+    - 2\.3161 Importanza della qualità della prestazione del conducente per l’impresa
+    - 2\.3162 Pluralità dei ruoli del conducente
+    - 2\.3163 Pluralità degli interlocutori del conducente
+    - 2\.3164 Manutenzione del veicolo
+    - 2\.3165 Organizzazione del lavoro
+    - 2\.3166 Conseguenze delle vertenze sul piano commerciale e finanziario
 
-[^annexu1-lvlu1-lvl2-1]: [RS 0.741.611](https://fedlex.data.admin.ch/eli/cc/1970/851_851_851)
+- 2\.32 Categorie C e CE nonché sottocategorie C1 e C1E
+  - 2\.321 Conoscenza del contesto economico
+    - 2\.3211 Autotrasporto di merci rispetto ad altre modalità (concorrenza, spedizionieri)
+    - 2\.3212 Diverse attività connesse al trasporto di merci
+    - 2\.3213 Organizzazione dei principali tipi di impresa di trasporti
+    - 2\.3214 Diverse specializzazioni (p. es. trasporti con autocisterne, di merci pericolose, di animali)
+    - 2\.3215 Evoluzione del settore
 
-### 3. Salute, sicurezza stradale, lotta contro la criminalità, promovimento dell’immagine, contesto economico, servizi, logistica
+- 2\.33 Categorie D e DE nonché sottocategorie D1 e D1E
+  - 2\.331 Conoscenza del contesto economico
+    - 2\.3311 Autotrasporto di persone rispetto ad altre modalità (p. es. ferrovia)
+    - 2\.3312 Diverse attività connesse al trasporto di persone
+    - 2\.3313 Sensibilizzazione verso la disabilità
+    - 2\.3314 Trasporto internazionale di persone
+    - 2\.3315 Organizzazione dei principali tipi di impresa di trasporto di persone
 
-Tutte le categorie e sottocategorie
+- 3\. Svolgimento della formazione periodica
+- 3\.1
 
-- 3\.1 *Obiettivo:* sensibilizzazione ai pericoli della strada e agli infortuni sul lavoro
-  - – tipologia degli infortuni sul lavoro nel settore dei trasporti
-  - – statistiche sugli incidenti stradali
-  - – incidenti stradali implicanti autocarri, autobus e furgoncini
-  - – perdite in termini umani e danni materiali ed economici
-  - – prevenzione degli incidenti
+  La formazione periodica è impartita secondo l’approccio pedagogico e didattico dell’apprendimento attivo:
 
-- 3\.2 *Obiettivo:* capacità di prevenire la criminalità e il traffico di clandestini
-  - – informazioni generali
-  - – implicazioni per i conducenti
-  - – misure preventive
-  - – promemoria verifiche
-  - – normativa in materia di responsabilità degli autotrasportatori
+  - 3\.11 Il docente trasmette i contenuti in unità didattiche opportunamente strutturate.
+  - 3\.12 Il docente orienta la lezione agli obiettivi di apprendimento impiegando un ampio repertorio di metodologie (forme alternative di insegnamento e apprendimento) adeguato alle differenti tipologie di apprendimento e, nelle lezioni con più partecipanti, alla costellazione di gruppo; lo svolgimento della lezione coinvolge più sensi possibili.
+  - 3\.13 Il docente coinvolge attivamente i partecipanti nella lezione e lascia che condividano le loro esperienze.
+  - 3\.14 Il docente si ricollega agli interessi dei partecipanti e fa riferimento all’attualità.
+  - 3\.15 Il docente stimola i partecipanti a riflettere su se stessi.
+  - 3\.16 Il docente cerca di creare un clima di apprendimento gradevole insieme ai partecipanti.
 
-- 3\.3 *Obiettivo:* capacità di prevenire i rischi fisici
-  - – principi di ergonomia
-  - – movimenti e posture a rischio
-  - – condizione fisica
-  - – esercizi di mantenimento
-  - – protezione individuale
+- 3\.2 La classe di ogni docente non può essere composta da più di 16 persone.
+- 3\.3
 
-- 3\.4 *Obiettivo:* consapevolezza dell’importanza dell’idoneità fisica e mentale
-  - – principi di un’alimentazione sana ed equilibrata
-  - – effetti dell’alcool, dei farmaci e degli stupefacenti
-  - – effetti dell’affaticamento e dello stress
-  - – ciclo di base attività lavorativa/riposo
+  La formazione periodica deve comprendere i contenuti teorici e pratici di cui al numero 2. Devono essere trasmessi contenuti:
 
-- 3\.5 *Obiettivo:* comportamento corretto nelle situazioni di emergenza
-  - – valutare la situazione
-  - – evitare di aggravare l’incidente
-  - – chiamare soccorsi
-  - – prestare assistenza e primo soccorso ai feriti
-  - – condotta in caso d’incendio (evacuazione degli occupanti/dei passeggeri)
-  - – garantire la sicurezza di tutti i passeggeri
-  - – condotta in caso di aggressione
-  - – compilazione del verbale di incidente
+  - 3\.31 validi per tutti i conducenti, trattando principalmente temi e strategie rilevanti per una maggiore sicurezza stradale, la sicurezza e la salute sul posto di lavoro nonché un impiego del veicolo efficiente sotto il profilo energetico e rispettoso dell’ambiente; e
+  - 3\.32 adeguati al profilo professionale del conducente interessato.
 
-- 3\.6 *Obiettivo:* capacità di comportarsi in modo da valorizzare l’immagine dell’impresa
-  - – importanza della qualità della prestazione del conducente per l’impresa
-  - – pluralità dei ruoli del conducente
-  - – pluralità degli interlocutori del conducente
-  - – manutenzione del veicolo
-  - – organizzazione del lavoro
-  - – conseguenze delle vertenze sul piano commerciale e finanziario
+- 3\.4 Per quanto riguarda gli obiettivi di apprendimento dettagliati necessari all’acquisizione delle competenze operative e i particolari relativi ai contenuti didattici fa fede l’apposito catalogo dell’autorità cantonale.
+- 4\. Corsi di formazione periodica con modulo e-learning
+- 4\.1
 
-Categorie C e CE e sottocategorie C1 e C1E
+  Lo svolgimento di corsi di formazione periodica con modulo e-learning è subordinato alle seguenti condizioni:
 
-- 3\.7 *Obiettivo:* conoscenza del contesto economico
-  - – l’autotrasporto rispetto agli altri modi di trasporto (concorrenza, spedizionieri)
-  - – diverse attività connesse all’autotrasporto
-  - – organizzazione dei principali tipi di impresa di trasporti
-  - – diversi trasporti specializzati (autocisterne, ecc.)
-  - – evoluzione nel settore
+  - 4\.11 i contenuti impartiti nel modulo e-learning devono essere idonei a tale metodo di insegnamento;
+  - 4\.12 il modulo e-learning deve comprendere testi, immagini, grafici, animazioni o filmati, esercizi interattivi e simili. Ognuno di questi elementi deve essere compatibile con i mezzi impiegati;
+  - 4\.13 l’organizzatore deve dimostrare che le lezioni in presenza sono coordinate con il modulo e-learning e il materiale didattico distribuito durante la lezione coincide con quello del modulo;
+  - 4\.14 il modulo e-learning deve essere completato con un test online;
+  - 4\.15 è ammesso alle lezioni in presenza solo chi ha superato il test online;
+  - 4\.16 all’inizio delle lezioni in presenza occorre superare un test d’ingresso. Quest’ultimo può essere ripetuto una sola volta.
 
-Categorie D e DE e sottocategorie D1 e D1E
+- 4\.2
 
-- 3\.8 *Obiettivo:* conoscenza del contesto economico
-  - – l’autotrasporto di persone rispetto ai diversi modi di trasporto di persone (ad es. ferrovia)
-  - – attività connesse all’autotrasporto di persone
-  - – trasporto internazionale di persone
-  - – organizzazione dei principali tipi di impresa di autotrasporto di persone
+  Il riconoscimento degli organizzatori di corsi di formazione periodica con modulo e-learning è concesso inizialmente a titolo provvisorio per un anno, dietro presentazione di apposita domanda all’autorità cantonale. Quest’ultima verifica se i requisiti per il riconoscimento sono soddisfatti. La domanda deve essere corredata dalla seguente documentazione:
+
+  - 4\.21 programma generale del corso (coordinamento tra lezioni in presenza e modulo e-learning, test d’ingresso, svolgimento delle lezioni in presenza);
+  - 4\.22 accesso al modulo e-learning;
+  - 4\.23 materiale didattico per le lezioni in presenza;
+  - 4\.24 piano di valutazione.
+
+- 4\.3
+
+  Durante il periodo di validità del riconoscimento provvisorio occorre valutare il corso con modulo e-learning ed effettuare un audit delle lezioni in presenza. La valutazione deve comprendere:
+
+  - 4\.31 un’indagine presso partecipanti e docenti in merito a struttura e funzionamento del corso, raggiungimento degli obiettivi di apprendimento, soddisfazione dei partecipanti, grado di accettazione generale ecc.;
+  - 4\.32 la prova che la durata del modulo e-learning non è sensibilmente inferiore a quella prescritta per le lezioni in presenza (p. es. mediante tracciamento delle attività dei partecipanti);
+  - 4\.33 indicazioni su modalità e termini entro i quali risolvere eventuali carenze evidenziate in sede di valutazione.
+
+- 4\.4 L’organizzatore deve inoltrare il rapporto di valutazione all’autorità cantonale entro dieci mesi dal rilascio del riconoscimento provvisorio.
+- 4\.5 L’autorità cantonale decide in merito al riconoscimento definitivo dell’organizzatore in base ai risultati della valutazione e dell’audit.
+- 4\.6 Un organizzatore può integrare nel proprio corso un modulo e-learning già riconosciuto di un altro organizzatore se ne ottiene il consenso. In tal caso l’organizzatore deve presentare all’autorità cantonale una domanda corredata della documentazione di cui ai numeri 4.2.1, 4.2.3 e 4.2.4, compresa l’indicazione del modulo e-learning utilizzato, e della dichiarazione di consenso del titolare del modulo già riconosciuto.
+
+[^annexu1-lvlu1-1]: [RS 0.741.611](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2860)
