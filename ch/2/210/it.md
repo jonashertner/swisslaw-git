@@ -4,18 +4,18 @@ title: Codice civile svizzero del 10 dicembre 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: it
-version: 2022-01-01
+version: 2022-07-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20220101/it/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20220101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20220701/it/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20220701-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice civile svizzero
 
-del 10 dicembre 1907 (Stato 1° gennaio 2022)
+del 10 dicembre 1907 (Stato 1° luglio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1665,11 +1665,15 @@ Le azioni derivanti dal fidanzamento si prescrivono in un anno dalla rottura del
 
 [^95-1]: Nuovo testo giusta l’all. n. 8 della LF del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2006 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
-### II. Matrimonio antecedente
+### II. Matrimonio o unione domestica registrata antecedente
 
 #### Art. 96
 
-Chi vuol contrarre un nuovo matrimonio deve fornire la prova che il suo matrimonio antecedente è stato sciolto o è stato dichiarato nullo.
+[^96-1]
+
+Chi vuol contrarre matrimonio deve fornire la prova che il matrimonio antecedente o l’unione domestica registrata contratta con una terza persona sono stati sciolti o dichiarati nulli.
+
+[^96-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### Capo terzo: Della procedura preparatoria e della celebrazione del matrimonio
 
@@ -1689,11 +1693,12 @@ Chi vuol contrarre un nuovo matrimonio deve fornire la prova che il suo matrimon
 
 [^97a-1]
 
-<sup>1</sup> L’ufficiale dello stato civile si rifiuta di procedere se il fidanzato o la fidanzata manifestamente non intende creare l’unione coniugale bensì eludere le disposizioni relative all’ammissione e al soggiorno degli stranieri.
+<sup>1</sup> L’ufficiale dello stato civile si rifiuta di procedere se uno dei fidanzati manifestamente non intende creare l’unione coniugale bensì eludere le disposizioni relative all’ammissione e al soggiorno degli stranieri.[^97a-2]
 
 <sup>2</sup> Egli sente i fidanzati e può sollecitare informazioni da altre autorità o terzi.
 
 [^97a-1]: Introdotto dall’all. n. II 4 della LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
+[^97a-2]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### B. Procedura preparatoria
 
@@ -1787,18 +1792,19 @@ Il matrimonio celebrato da un ufficiale dello stato civile può essere annullato
 
 È data una causa di nullità se:
 
-- 1\. al momento della celebrazione uno degli sposi era già coniugato e il precedente matrimonio non era stato sciolto per divorzio o morte del coniuge;
+- 1\.[^105-1] al momento della celebrazione uno degli sposi era già coniugato o vincolato da un’unione domestica registrata con una terza persona e il matrimonio antecedente o l’unione domestica registrata non erano stati sciolti;
 - 2\. al momento della celebrazione uno degli sposi non era capace di discernimento e da allora non ha riacquistato la capacità di discernimento;
-- 3\.[^105-1] la celebrazione era vietata per parentela;
-- 4\.[^105-2] uno degli sposi non intendeva creare l’unione coniugale bensì eludere le disposizioni relative all’ammissione e al soggiorno degli stranieri;
-- 5\.[^105-3] uno degli sposi ha contratto matrimonio senza che ciò corrispondesse alla sua libera volontà;[^105-4]
-- 6\.[^105-5] uno degli sposi è minorenne, salvo che interessi preponderanti dello stesso impongano il proseguimento del matrimonio.
+- 3\.[^105-2] la celebrazione era vietata per parentela;
+- 4\.[^105-3] uno degli sposi non intendeva creare l’unione coniugale bensì eludere le disposizioni relative all’ammissione e al soggiorno degli stranieri;
+- 5\.[^105-4] uno degli sposi ha contratto matrimonio senza che ciò corrispondesse alla sua libera volontà;[^105-5]
+- 6\.[^105-6] uno degli sposi è minorenne, salvo che interessi preponderanti dello stesso impongano il proseguimento del matrimonio.
 
-[^105-1]: Nuovo testo giusta l’all. n. 8 della LF del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2006 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^105-2]: Introdotto dall’all. n. II 4 della LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^105-3]: Introdotto dal n. I 3 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^105-4]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^105-5]: Introdotto dal n. I 3 della LF del 15 mag. 2013 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226)[FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^105-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^105-2]: Nuovo testo giusta l’all. n. 8 della LF del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2006 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^105-3]: Introdotto dall’all. n. II 4 della LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
+[^105-4]: Introdotto dal n. I 3 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^105-5]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^105-6]: Introdotto dal n. I 3 della LF del 15 mag. 2013 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226)[FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 
 ### II. Azione
 
@@ -2269,11 +2275,13 @@ Abrogati
 
 <sup>1</sup> Ciascun coniuge conserva il proprio cognome.
 
-<sup>2</sup> Gli sposi possono tuttavia dichiarare all’ufficiale dello stato civile di voler assumere un cognome coniugale; possono scegliere tra il cognome da nubile o celibe della sposa o dello sposo.
+<sup>2</sup> Gli sposi possono tuttavia dichiarare all’ufficiale dello stato civile di voler assumere un cognome coniugale; possono scegliere il cognome da nubile o celibe di uno di loro.[^160-2]
 
-<sup>3</sup> Se mantengono ciascuno il proprio cognome, gli sposi determinano il cognome dei figli, scegliendolo tra i loro cognomi da celibe o nubile. In casi motivati, l’ufficiale dello stato civile può liberarli da quest’obbligo.
+<sup>3</sup> Se mantengono ciascuno il proprio cognome, gli sposi determinano il cognome dei figli, scegliendo il cognome da nubile o celibe di uno di loro. In casi motivati, l’ufficiale dello stato civile può liberarli da quest’obbligo.[^160-3]
 
 [^160-1]: Nuovo testo giusta il n. I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^160-2]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^160-3]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### C. Cittadinanza
 
@@ -3182,11 +3190,12 @@ Se un bene è in comproprietà, il coniuge che provi d’avere un interesse prep
 
 <sup>1</sup> Il rapporto di filiazione sorge, fra la madre ed il figlio, con la nascita.
 
-<sup>2</sup> Fra il padre ed il figlio, risulta dal matrimonio con la madre o è stabilito per riconoscimento o per sentenza del giudice.
+<sup>2</sup> Fra l’altro genitore e il figlio, risulta dal matrimonio con la madre oppure, se previsto dalla legge, è stabilito per riconoscimento o per sentenza del giudice.[^252-2]
 
 <sup>3</sup> Inoltre, il rapporto di filiazione sorge con l’adozione.
 
 [^252-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^252-2]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### B. …
 
@@ -3202,13 +3211,19 @@ Se un bene è in comproprietà, il coniuge che provi d’avere un interesse prep
 
 [^254-1]: Abrogato dall’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Capo secondo: Della paternità del marito****
+### Capo secondo: Della genitorialità del marito o della moglie****
 
 [^book2-part2-tit7-chap2-1]
 
-[^book2-part2-tit7-chap2-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^book2-part2-tit7-chap2-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### A. Presunzione
+
+### I. Della genitorialità del marito
+
+[^book2-part2-tit7-chap2-lvlI-1]
+
+[^book2-part2-tit7-chap2-lvlI-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 255
 
@@ -3222,9 +3237,26 @@ Se un bene è in comproprietà, il coniuge che provi d’avere un interesse prep
 
 [^255-1]: Nuovo testo giusta il n. I 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
-### B. Contestazione
+### II. Della genitorialità della moglie
+
+#### Art. 255a
+
+[^255a-1]
+
+<sup>1</sup> Se al momento della nascita del figlio la madre è sposata con una donna, e se il figlio è stato concepito mediante dono di spermatozoi secondo le disposizioni della legge del 18 dicembre 1998[^255a-2] sulla medicina della procreazione, questa è considerata l*’*altro genitore.
+
+<sup>2</sup> Se muore o è dichiarata scomparsa, la moglie della madre è considerata essere l’altro genitore se l’inseminazione ha avuto luogo prima del suo decesso o del pericolo di morte o dell’ultima notizia.
+
+[^255a-1]: Introdotto dal n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^255a-2]: [RS 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+
+### B. Contestazione della genitorialità del marito
 
 ### I. Diritto all’azione
+
+[^book2-part2-tit7-chap2-lvlD-lvlI-1]
+
+[^book2-part2-tit7-chap2-lvlD-lvlI-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 256
 
@@ -12896,13 +12928,15 @@ I coniugi che vivevano nel regime della separazione dei beni legale o giudiziale
 
 [^u1-9g-1]
 
-<sup>1</sup> ...
+<sup>1</sup> Alle coppie di persone dello stesso sesso che hanno contratto matrimonio all’estero prima dell’entrata in vigore integrale della modifica del presente Codice del 18 dicembre 2020 si applica retroattivamente, dalla data della celebrazione del matrimonio, il regime ordinario della partecipazione agli acquisti, in quanto esse non abbiano altrimenti disposto per convenzione matrimoniale o patrimoniale.
 
 <sup>2</sup> Prima dell’entrata in vigore integrale delle disposizioni della modifica del presente Codice del 18 dicembre 2020, ogni coniuge può comunicare per scritto all’altro che il regime dei beni di cui all’articolo 18 della legge del 18 giugno 2004[^u1-9g-2] sull’unione domestica registrata (LUD) è mantenuto fino al momento di detta entrata in vigore*.*
 
-<sup>3</sup> e <sup>4</sup> ...
+<sup>3</sup> Il regime dei beni di cui all’articolo 18 LUD è mantenuto anche quando all’entrata in vigore integrale della modifica del presente Codice del 18 dicembre 2020 è in corso un’azione per lo scioglimento del regime patrimoniale secondo il diritto svizzero.
 
-[^u1-9g-1]: Introdotto dal n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° gen. 2022, i cpv. 1, 23 e 4 dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+<sup>4</sup> Le ordinanze corrispondenti prevedono che in documenti, atti e moduli i coniugi che lo desiderano siano indicati quali marito e moglie, nonché quali padre e madre dei loro figli.
+
+[^u1-9g-1]: Introdotto dal n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° gen. 2022, cpv. 1, 3 e 4 dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 [^u1-9g-2]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
 
 ### 5. Convenzioni matrimoniali

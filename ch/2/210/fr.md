@@ -4,18 +4,18 @@ title: Code civil suisse du 10 décembre 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: fr
-version: 2022-01-01
+version: 2022-07-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20220101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20220701-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Code civil suisse
 
-du 10 décembre 1907 (Etat le 1<sup>er</sup> janvier 2022)
+du 10 décembre 1907 (Etat le 1<sup>er</sup> juillet 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1651,11 +1651,11 @@ Les actions découlant des fiançailles se prescrivent par un an à compter de l
 
 #### Art. 94
 
-<sup>1</sup> Pour pouvoir contracter mariage, l’homme et la femme doivent être âgés de 18 ans révolus et capables de discernement.
+[^94-1]
 
-<sup>2</sup> ...[^94-1]
+Le mariage peut être contracté par deux personnes âgées de 18 ans révolus et capables de discernement.
 
-[^94-1]: Abrogé par le ch. I 2 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), avec effet au 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^94-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### B. Empêchements
 
@@ -1673,11 +1673,15 @@ Les actions découlant des fiançailles se prescrivent par un an à compter de l
 
 [^95-1]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
-### II. Mariage antérieur
+### II. Mariage ou partenariat enregistré antérieur
 
 #### Art. 96
 
-Toute personne qui veut se remarier doit établir que son précédent mariage a été annulé ou dissous.
+[^96-1]
+
+Toute personne qui veut se marier doit établir que son partenariat enregistré avec une tierce personne ou son précédent mariage a été annulé ou dissous.
+
+[^96-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### Chapitre III: De la procédure préparatoire et de la célébration du mariage
 
@@ -1769,9 +1773,11 @@ Le mariage peut être célébré dans les trois mois qui suivent la communicatio
 
 <sup>1</sup> Le mariage est célébré publiquement, en présence de deux témoins majeurs et capables de discernement.
 
-<sup>2</sup> L’officier de l’état civil demande séparément à la fiancée et au fiancé s’ils veulent s’unir par les liens du mariage.
+<sup>2</sup> L’officier de l’état civil demande séparément aux fiancés s’ils veulent s’unir par les liens du mariage.[^102-1]
 
 <sup>3</sup> Lorsque les fiancés ont répondu par l’affirmative, ils sont déclarés unis par les liens du mariage, en vertu de leur consentement mutuel.
+
+[^102-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### D. Dispositions d’exécution
 
@@ -1795,17 +1801,18 @@ Le mariage célébré par un officier de l’état civil ne peut être annulé q
 
 Le mariage doit être annulé:
 
-- 1\. lorsqu’un des époux était déjà marié au moment de la célébration et que le précédent mariage n’a pas été dissous par le divorce ou par le décès de son conjoint;
+- 1\.[^105-1] lorsqu’un des époux était déjà lié par un partenariat enregistré avec une tierce personne ou marié au moment de la célébration et que le précédent mariage ou partenariat enregistré n’a pas été dissous;
 - 2\. lorsqu’un des époux était incapable de discernement au moment de la célébration et qu’il n’a pas recouvré la capacité de discernement depuis lors;
-- 3\.[^105-1] lorsque le mariage était prohibé en raison de la nature d’un lien de parenté;
-- 4\.[^105-2] lorsque l’un des époux ne veut pas fonder une communauté conjugale mais éluder les dispositions sur l’admission et le séjour des étrangers;
-- 5\.[^105-3] lorsque le mariage a été conclu en violation de la libre volonté d’un des époux;
-- 6\.[^105-4] lorsque l’un des époux est mineur, à moins que son intérêt supérieur ne commande de maintenir le mariage.
+- 3\.[^105-2] lorsque le mariage était prohibé en raison de la nature d’un lien de parenté;
+- 4\.[^105-3] lorsque l’un des époux ne veut pas fonder une communauté conjugale mais éluder les dispositions sur l’admission et le séjour des étrangers;
+- 5\.[^105-4] lorsque le mariage a été conclu en violation de la libre volonté d’un des époux;
+- 6\.[^105-5] lorsque l’un des époux est mineur, à moins que son intérêt supérieur ne commande de maintenir le mariage.
 
-[^105-1]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^105-2]: Introduit par l’annexe ch. II 4 de la LF du 16 déc. 2005 sur les étrangers, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3469](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^105-3]: Introduit par le ch. I 3 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^105-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^105-2]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^105-3]: Introduit par l’annexe ch. II 4 de la LF du 16 déc. 2005 sur les étrangers, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3469](https://fedlex.data.admin.ch/eli/fga/2002/541)).
 [^105-4]: Introduit par le ch. I 3 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^105-5]: Introduit par le ch. I 3 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 
 ### II. Action
 
@@ -2304,11 +2311,13 @@ Les époux choisissent ensemble la demeure commune.
 
 #### Art. 163
 
-<sup>1</sup> Mari et femme contribuent, chacun selon ses facultés, à l’entretien convenable de la famille.
+<sup>1</sup> Les époux contribuent, chacun selon ses facultés, à l’entretien convenable de la famille.[^163-1]
 
 <sup>2</sup> Ils conviennent de la façon dont chacun apporte sa contribution, notamment par des prestations en argent, son travail au foyer, les soins qu’il voue aux enfants ou l’aide qu’il prête à son conjoint dans sa profession ou son entreprise.
 
 <sup>3</sup> Ce faisant, ils tiennent compte des besoins de l’union conjugale et de leur situation personnelle.
+
+[^163-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### II. Montant à libre disposition
 
@@ -3190,11 +3199,12 @@ Lorsqu’un bien est en copropriété, un époux peut, à la dissolution du rég
 
 <sup>1</sup> À l’égard de la mère, la filiation résulte de la naissance.
 
-<sup>2</sup> À l’égard du père, elle est établie par son mariage avec la mère, par reconnaissance ou par jugement.
+<sup>2</sup> À l’égard de l’autre parent, elle est établie par son mariage avec la mère ou, pour autant que cela soit prévu par la loi, par reconnaissance ou par jugement.[^252-2]
 
 <sup>3</sup> La filiation résulte en outre de l’adoption.
 
 [^252-1]: Nouvelle teneur selon le ch. I 1 de la LF du 25 juin 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^252-2]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### B. ...
 
@@ -3210,13 +3220,19 @@ Lorsqu’un bien est en copropriété, un époux peut, à la dissolution du rég
 
 [^254-1]: Abrogé par l’annexe 1 ch. II 3 du CPC du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Chapitre II: De la paternité du mari****
+### Chapitre II: De la parentalité de l’époux ou de l’épouse****
 
 [^book2-part2-tit7-chap2-1]
 
-[^book2-part2-tit7-chap2-1]: Nouvelle teneur selon le ch. I 1 de la LF du 25 juin 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^book2-part2-tit7-chap2-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### A. Présomption
+
+### I. De la parentalité de l’époux
+
+[^book2-part2-tit7-chap2-lvlI-1]
+
+[^book2-part2-tit7-chap2-lvlI-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 255
 
@@ -3230,9 +3246,26 @@ Lorsqu’un bien est en copropriété, un époux peut, à la dissolution du rég
 
 [^255-1]: Nouvelle teneur selon le ch. I 4 de la LF du 26 juin 1998, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
-### B. Désaveu
+### II. De la parentalité de l’épouse
+
+#### Art. 255a
+
+[^255a-1]
+
+<sup>1</sup> Si la mère est mariée à une femme au moment de la naissance et si l’enfant a été conçu au moyen d’un don de sperme conformément aux dispositions de la loi fédérale du 18 décembre 1998 sur la procréation médicalement assistée[^255a-2], l’épouse de la mère est l’autre parent de l’enfant.
+
+<sup>2</sup> Si l’épouse de la mère décède ou est déclarée disparue, elle est considérée comme parent de l’enfant si l’insémination a eu lieu avant son décès ou avant le moment où elle était en danger de mort ou avant celui de la réception des dernières nouvelles la concernant.
+
+[^255a-1]: Introduit par le ch. I de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^255a-2]: [RS 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+
+### B. Désaveu de la parentalité de l’époux
 
 ### I. Qualité pour agir
+
+[^book2-part2-tit7-chap2-lvlC-lvlI-1]
+
+[^book2-part2-tit7-chap2-lvlC-lvlI-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 256
 
@@ -12901,13 +12934,15 @@ Les époux qui étaient placés sous le régime de la séparation de biens léga
 
 [^u1-9g-1]
 
-<sup>1</sup> …
+<sup>1</sup> Les époux de même sexe mariés à l’étranger avant la dernière mise en vigueur partielle de la modification du 18 décembre 2020 du présent code sont soumis au régime ordinaire de la participation aux acquêts avec effet rétroactif au moment de la conclusion du mariage à moins qu’une convention sur les biens ou un contrat de mariage n’en dispose autrement.
 
 <sup>2</sup> Avant la dernière mise en vigueur partielle de la présente modification, chaque époux peut signifier par écrit à son conjoint que les rapports patrimoniaux prévus à l’art. 18 de la loi du 18 juin 2004 sur le partenariat (LPart)[^u1-9g-2] sont maintenus jusqu’au moment de cette mise en vigueur.
 
-<sup>3</sup> et <sup>4</sup> …
+<sup>3</sup> Les rapports patrimoniaux prévus à l’art. 18 LPart sont également maintenus lorsque, au moment de la dernière mise en vigueur partielle de la présente modification, une action entraînant la dissolution du régime des biens selon le droit suisse est pendante.
 
-[^u1-9g-1]: Introduit par le ch. I de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> janv. 2022, les al. 1, 3 et 4 entrent en vigueur le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+<sup>4</sup> Les ordonnances correspondantes prévoient que les époux qui le souhaitent puissent être mentionnés comme mari et femme, respectivement comme père et mère de leurs enfants dans les documents, actes et formulaires.
+
+[^u1-9g-1]: Introduit par le ch. I de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> janv. 2022, les al. 1, 3 et 4 en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 [^u1-9g-2]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
 
 ### 5. Contrats de mariage

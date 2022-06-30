@@ -4,11 +4,11 @@ title: Swiss Civil Code of 10 December 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: en
-version: 2022-01-01
+version: 2022-07-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20220101/en/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20220101-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20220701/en/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20220701-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20220701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20220101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 10 December 1907 (Status as of 1 January 2022)
+of 10 December 1907 (Status as of 1 July 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -575,13 +575,13 @@ A person whose spouse dies may, if that person changed his or her surname on mar
 
 [^30a-1]: Inserted by No I of the FA of 30 Sept. 2011 (Name and Citizenship), in force since 1 Jan. 2013 ([AS 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [BBl 2009 7573](https://fedlex.data.admin.ch/eli/fga/2009/1347)[7581](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
 
-### IV. In relation to gender
+### IV. In relation to sex
 
 #### Art. 30b
 
 [^30b-1]
 
-<sup>1</sup> Any person who is firmly convinced that they are not of the gender entered in their respect in the civil register may declare to the civil registrar that they wish to have the entry changed.
+<sup>1</sup> Any person who is firmly convinced that they are not of the sex entered in their respect in the civil register may declare to the civil registrar that they wish to have the entry changed.
 
 <sup>2</sup> The person making the declaration may have one or more new first names entered in the civil register.
 
@@ -595,7 +595,7 @@ The consent of the legal representative is required if:
 - 2\. the person making the declaration is subject to a general deputyship; or
 - 3\. the adult protection authority has so ordered.
 
-[^30b-1]: Inserted by No I of the FA of 18 Dec. 2020 (Gender Change in the Civil Register), in force since 1 Jan. 2022 ([AS 2021 668](https://fedlex.data.admin.ch/eli/oc/2021/668); [BBl 2020 799](https://fedlex.data.admin.ch/eli/fga/2020/129)).
+[^30b-1]: Inserted by No I of the FA of 18 Dec. 2020 (Sex Change in the Civil Register), in force since 1 Jan. 2022 ([AS 2021 668](https://fedlex.data.admin.ch/eli/oc/2021/668); [BBl 2020 799](https://fedlex.data.admin.ch/eli/fga/2020/129)).
 
 ### C. Beginning and end of personality rights
 
@@ -942,7 +942,7 @@ Repealed
 
 #### Art. 53
 
-Legal entities have all the rights and duties other than those which presuppose intrinsically human attributes, such as gender, age or kinship.
+Legal entities have all the rights and duties other than those which presuppose intrinsically human attributes, such as sex, age or kinship.
 
 ### C. Capacity to act
 
@@ -1580,7 +1580,7 @@ For employee benefits schemes under paragraph 7, the following provisions also a
 [^89a-12]: Inserted by No I of the FA of 19 June 2015 (Equitable Division of Pensions on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^89a-13]: Amended by Annex No 1 of the FA of 18 June 2004, in force since 1 Jan. 2005 ([AS 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [BBl 2003 6399](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
 [^89a-14]: Inserted by No I of the FA of 19 June 2015 (Equitable Division of Pensions on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^89a-15]: Inserted by No I of the FA of 20 March 2015 (Child Maintenance), in force since 1. Jan. 2022 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^89a-15]: Inserted by No I of the FA of 20 March 2015 (Child Maintenance), in force since 1 Jan. 2022 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 [^89a-16]: Inserted by Annex No 1 of the FA of 23 June 2006 (New OASI Insurance Number), in force since 1 Dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^89a-17]: Amended by No II 1 of the FA of 19 March 2010 (OPA Structural Reform), in force since 1 Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^89a-18]: Amended by No II 1 of the FA of 19 March 2010 (OPA Structural Reform), in force since 1 Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
@@ -1655,7 +1655,11 @@ For employee benefits schemes under paragraph 7, the following provisions also a
 
 #### Art. 92
 
-If one of the engaged couple has in good faith incurred expense in anticipation of the marriage ceremony and the engagement is then ended, that party may claim a reasonable contribution from the other where this is not inequitable in the overall circumstances.
+[^92-1]
+
+If one of the engaged couple has in good faith incurred expense in anticipation of the marriage ceremony and the engagement is then ended, he or she may claim a reasonable contribution from the other where this is not inequitable in the overall circumstances.
+
+[^92-1]: Amended by No I of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### III. Prescription
 
@@ -1669,11 +1673,11 @@ Claims arising from the engagement prescribe one year from the ending of the eng
 
 #### Art. 94
 
-<sup>1</sup> To be able to marry, the prospective spouses must have reached 18 years of age and have the capacity of judgement.
+[^94-1]
 
-<sup>2</sup> ...[^94-1]
+Marriage may be entered into by two person who have reached 18 years of age and have capacity of judgement.
 
-[^94-1]: Repealed by No I 2 of the FA of 19 Dec. 2008 (Adult Protection Law, Law of Persons and Law of Children), with effect from 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^94-1]: Amended by No I of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### B. Impediments
 
@@ -1691,11 +1695,15 @@ Claims arising from the engagement prescribe one year from the ending of the eng
 
 [^95-1]: Amended by Annex No 8 of the Civil Partnerships Act of 18 June 2004, in force since 1 Jan. 2006 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
-### II. Previous marriage
+### II. Previous marriage or registered partnership
 
 #### Art. 96
 
-A person wishing to remarry must prove that any previous marriage has been annulled or dissolved.
+[^96-1]
+
+A person wishing to marry must prove that any previous marriage or any registered partnership with a third party has been annulled or dissolved.
+
+[^96-1]: Amended by No I of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### Chapter Three: Preparation and Wedding Ceremony
 
@@ -1715,11 +1723,11 @@ A person wishing to remarry must prove that any previous marriage has been annul
 
 [^97a-1]
 
-<sup>1</sup> The civil registrar shall not consider a request for marriage if the bride or groom clearly has no intention of living together but wishes to circumvent the provisions on the admission and residence of foreign nationals.
+<sup>1</sup> The civil registrar shall not consider a request for marriage if either of the prospective spouses clearly has no intention of living with the other but wishes to circumvent the provisions on the admission and residence of foreign nationals.
 
 <sup>2</sup> The civil registrar shall grant a hearing to the prospective spouses and may obtain information from other authorities or third parties.
 
-[^97a-1]: Inserted by Annex No II 4 of the FA of 16 Dec. 2005 on Foreign Nationals, in force since 1 Jan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
+[^97a-1]: Inserted by Annex No II 4 of the FA of 16 Dec. 2005 on Foreign Nationals ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)). Amended by No I of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### B. Preparatory procedure
 
@@ -1727,15 +1735,16 @@ A person wishing to remarry must prove that any previous marriage has been annul
 
 #### Art. 98
 
-<sup>1</sup> The preparatory procedure is carried out at the civil register office at the domicile of the bride or groom at their request.
+<sup>1</sup> The preparatory procedure shall be carried out at the civil register office at the domicile of either of the prospective spouses at their request.[^98-1]
 
 <sup>2</sup> They must appear in person. If they may show that they clearly cannot be required to do so, the preparatory procedure may be carried out in writing.
 
 <sup>3</sup> They must furnish documentary proof of identity and personally declare at the civil register office that they satisfy the legal requirements for marriage; they must also produce any necessary consent.
 
-<sup>4</sup> Engaged couples who are not Swiss citizens must prove during the preparatory procedure that they are lawfully resident in Switzerland.[^98-1]
+<sup>4</sup> Engaged couples who are not Swiss citizens must prove during the preparatory procedure that they are lawfully resident in Switzerland.[^98-2]
 
-[^98-1]: Inserted by No I of the FA of 12 June 2009 (Prevention of Marriages in the event of Unlawful Residence), in force since 1 Jan. 2011 ([AS 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [BBl 2008 2467](https://fedlex.data.admin.ch/eli/fga/2008/517)[2481](https://fedlex.data.admin.ch/eli/fga/2008/519)).
+[^98-1]: Amended by No I of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^98-2]: Inserted by No I of the FA of 12 June 2009 (Prevention of Marriages in the event of Unlawful Residence), in force since 1 Jan. 2011 ([AS 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [BBl 2008 2467](https://fedlex.data.admin.ch/eli/fga/2008/517)[2481](https://fedlex.data.admin.ch/eli/fga/2008/519)).
 
 ### II. Conduct and completion of the preparatory procedure
 
@@ -1787,11 +1796,12 @@ The wedding ceremony may take place within three months following notification o
 
 <sup>1</sup> A wedding is a public ceremony that takes place in the presence of two adult witnesses who are capable of judgement.[^102-1]
 
-<sup>2</sup> The civil registrar asks the bride and groom individually whether each wishes to marry the other.
+<sup>2</sup> The civil registrar asks the prospective spouses individually whether each wishes to marry the other.[^102-2]
 
 <sup>3</sup> If both answer in the affirmative, they are pronounced married by mutual consent.
 
 [^102-1]: Amended by No I 2 of the FA of 19 Dec. 2008 (Adult Protection Law, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^102-2]: Amended by No I of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### D. Implementing provisions
 
@@ -1815,14 +1825,14 @@ A marriage contracted before a civil registrar may be annulled only on one of th
 
 Grounds for annulment are:
 
-- 1\. that one of the spouses[^105-1] was already married at the time of the wedding and the previous marriage had not been dissolved by divorce or by the death of the previous spouse;
+- 1\.[^105-1] that one of the spouses was already married or living in a registered partnership with a third party at the time of the wedding and the previous marriage or registered partnership has not been dissolved;
 - 2\. that one of the spouses lacked capacity of judgement at the time of the wedding and has not regained such capacity since;
 - 3\.[^105-2] that the marriage was prohibited due to kinship;
 - 4\.[^105-3] one of the spouses has no intention of living with the other, but wishes to circumvent the provisions on the admission and residence of foreign nationals;
 - 5\.[^105-4] a spouse has not married of his or her own free will;
 - 6\.[^105-5] one of the spouses is a minor, unless the continuation of the marriage is in the overriding interest of this spouse.
 
-[^105-1]: Footnote relevant to German text only.
+[^105-1]: Amended by No I of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 [^105-2]: Amended by No 8 of the Civil Partnerships Act of 18 June 2004, in force since 1 Jan. 2006 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^105-3]: Inserted by Annex No II 4 of the FA of 16 Dec. 2005 on Foreign Nationals, in force since 1 Jan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
 [^105-4]: Inserted by No I 3 of the FA of 15 June 2012 on Measures against Forced Marriages, in force since 1 July 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
@@ -2297,11 +2307,13 @@ The court regulates parental rights and obligations in accordance with the provi
 
 <sup>1</sup> Each spouse retains his or her surname.
 
-<sup>2</sup> However, the prospective spouses may declare to the civil registrar that they wish bear the surname of the bride or the groom as the family surname.
+<sup>2</sup> However, the prospective spouses may declare to the civil registrar that they wish bear one of their surnames as the family surname.[^160-2]
 
-<sup>3</sup> If the prospective spouses retain their surnames, they decide which of the surnames their children will bear. In justified cases, the civil registrar may relieve the prospective spouses of this obligation.
+<sup>3</sup> If the prospective spouses retain their surnames, they decide which of the surnames their children will bear. In justified cases, the civil registrar may relieve the prospective spouses of this obligation.[^160-3]
 
 [^160-1]: Amended by No I of the FA of 30 Sept. 2011 (Name and Citizenship), in force since 1 Jan. 2013 ([AS 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [BBl 2009 7573](https://fedlex.data.admin.ch/eli/fga/2009/1347)[7581](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^160-2]: Amended by No I of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^160-3]: Amended by No I of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### C. Cantonal and communal citizenship
 
@@ -2414,7 +2426,7 @@ The cantons must ensure that spouses experiencing marital problems may seek help
 
 <sup>2</sup> The court reminds the spouses of their duties and attempts to settle their differences; if the spouses consent, experts may be consulted or they may be referred to a marriage guidance or family counselling agency.
 
-<sup>3</sup> If necessary, at the request of one spouse the court will take the steps envisaged by law. The provision governing the protection of the person from violence, threats or harassment applies *mutatis muta**n**dis*.[^172-1]
+<sup>3</sup> If necessary, at the request of one spouse the court will take the steps envisaged by law. The provision governing the protection of the person from violence, threats or harassment applies *mutatis mutandis*.[^172-1]
 
 [^172-1]: Second sentence inserted by No I of the FA of 23 June 2006 (Protection of the Personality against Violence, Threats or Harassment), in force since 1 July 2007 ([AS 2007 137](https://fedlex.data.admin.ch/eli/oc/2007/32); [BBl 2005 6871](https://fedlex.data.admin.ch/eli/fga/2005/1074)[6897](https://fedlex.data.admin.ch/eli/fga/2005/1076)).
 
@@ -2520,8 +2532,6 @@ If a spouse fails to fulfil his or her duty to maintain the family, the court ma
 
 [^180-1]
 
-Repealed
-
 [^180-1]: Repealed by Annex No 2 of the Civil Jurisdiction Act of 24 March 2000, with effect from 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
 
 ### Title Six:**** Marital Property Law
@@ -2546,7 +2556,9 @@ Spouses are subject to the provisions governing participation in acquired proper
 
 <sup>1</sup> A marital agreement may be concluded before or after the wedding.
 
-<sup>2</sup> The prospective spouses or the spouses may choose, set aside or modify their marital property regime only within the limits of the law.
+<sup>2</sup> The prospective spouses or the spouses may choose, set aside or modify their marital property regime only within the limits of the law.[^182-1]
+
+[^182-1]: Amended by No I of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### II. Capacity to enter into an agreement
 
@@ -3197,7 +3209,7 @@ Where one spouse shows an overriding interest in gaining sole possession of an o
 
 ### Division Two: Kinship
 
-### Title Seven: Formation of the Parent-child Relationship****
+### Title Seven: Formation of the Parent-Child Relationship****
 
 [^book2-part2-tit7-1]
 
@@ -3217,11 +3229,12 @@ Where one spouse shows an overriding interest in gaining sole possession of an o
 
 <sup>1</sup> The parent-child relationship is formed between child and mother on the birth of the child.
 
-<sup>2</sup> It is formed between child and father by virtue of the latter being married to the mother, by recognition or by court declaration.
+<sup>2</sup> It is formed between child and the other parent by virtue of the latter being married to the mother, or, if provided for by law, by recognition or by court declaration.[^252-2]
 
 <sup>3</sup> Moreover, the parent-child relationship is formed by adoption.
 
 [^252-1]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^252-2]: Amended by No I of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### B. ...
 
@@ -3237,13 +3250,19 @@ Where one spouse shows an overriding interest in gaining sole possession of an o
 
 [^254-1]: Repealed by Annex 1 No II 3 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Chapter Two: Paternity of the Husband****
+### Chapter Two: Parental Status of the Husband or Wife****
 
 [^book2-part2-tit7-chap2-1]
 
-[^book2-part2-tit7-chap2-1]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^book2-part2-tit7-chap2-1]: Amended by No I of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### A. Presumption
+
+### I. Parental Status of the husband
+
+[^book2-part2-tit7-chap2-lvlI-1]
+
+[^book2-part2-tit7-chap2-lvlI-1]: Amended by No I of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 255
 
@@ -3257,9 +3276,26 @@ Where one spouse shows an overriding interest in gaining sole possession of an o
 
 [^255-1]: Amended by No I 4 of the FA of 26 June 1998, in force since 1 Jan. 2000 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
-### B. Challenge
+### II. Parental status of the wife
+
+#### Art. 255a
+
+[^255a-1]
+
+<sup>1</sup> Where the mother is married to a woman at the time of the birth and if the child has been conceived by a sperm donation in accordance with the Reproductive Medicine Act of 18 December 1998[^255a-2], the mother’s wife is deemed to be the other parent.
+
+<sup>2</sup> If the mother’s wife dies or is declared presumed dead, she is deemed to have been a parent if insemination took place before her death or before the time of the life-threatening event or the last sign of life.
+
+[^255a-1]: Inserted by No I of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^255a-2]: [SR 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+
+### B. Challenging the parental status of the husband
 
 ### I. Right to challenge
+
+[^book2-part2-tit7-chap2-lvlD-1]
+
+[^book2-part2-tit7-chap2-lvlD-1]: Amended by No I of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 256
 
@@ -4029,7 +4065,7 @@ Parents and children owe each other such support, consideration and respect as t
 
 <sup>1</sup> In extraordinary circumstances, a right of contact with the child may also be granted to other persons and in particular to relatives, to the extent this serves the child’s best interests.
 
-<sup>2</sup> The restrictions on parents’ visiting rights apply *mutatis m**u**tandis*.
+<sup>2</sup> The restrictions on parents’ visiting rights apply *mutatis mutandis*.
 
 [^274a-1]: Inserted by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
@@ -5159,7 +5195,7 @@ A child subject to guardianship has the same legal status as a child subject to 
 
 <sup>2</sup> The provisions on adult protection, and in particular on appointing a and acting as a deputy and the involvement of the adult protection authority apply *mutatis mutandis*.
 
-<sup>3</sup> If the child must be committed to a secure institution or psychiatric hospital, the adult protection provisions on care-related hospitalisation apply *mut**a**tis mutandis*.
+<sup>3</sup> If the child must be committed to a secure institution or psychiatric hospital, the adult protection provisions on care-related hospitalisation apply *mutatis mutandis*.
 
 ### Title Nine: Family Community
 
@@ -5192,7 +5228,7 @@ A child subject to guardianship has the same legal status as a child subject to 
 
 <sup>2</sup> Where in the light of special circumstances the court deems it inequitable to require a person to fulfil his duty of assistance, the court may restrict such duty or revoke it entirely.[^329-2]
 
-<sup>3</sup> The provisions governing child maintenance entitlement and the transfer of such entitlement to the state authority are applicable *mut**a**tis mutandis*.[^329-3]
+<sup>3</sup> The provisions governing child maintenance entitlement and the transfer of such entitlement to the state authority are applicable *mutatis mutandis*.[^329-3]
 
 [^329-1]: Inserted by No I of the FA of 20 March 2015 (Child Maintenance), in force since 1 Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 [^329-2]: Amended by No I 2 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
@@ -5580,7 +5616,7 @@ Any person closely related to the patient may contact the adult protection autho
 - 2\. the interests of the patient are being endangered or no longer safeguarded;
 - 3\. the patient decree is not based on the patient's free will.
 
-<sup>2</sup> The provision on intervention by the adult protection authority in the case of an advance care directive applies *mutatis muta**n**dis*.
+<sup>2</sup> The provision on intervention by the adult protection authority in the case of an advance care directive applies *mutatis mutandis*.
 
 ### Section Two: Statutory Measures for Persons lacking Capacity of Judgement
 
@@ -5606,7 +5642,7 @@ The right to act as representative includes:
 
 #### Art. 375
 
-The exercise of the right to act as representative is governed by the provisions of the Code of Obligations[^375-1] on agency contracts *mutatis muta**n**dis*.
+The exercise of the right to act as representative is governed by the provisions of the Code of Obligations[^375-1] on agency contracts *mutatis mutandis*.
 
 [^375-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
@@ -6279,7 +6315,7 @@ In the absence of the patient's consent, the chief physician in the department m
 
 #### Art. 438
 
-Measures restricting the patient's freedom of movement in the institution are governed by the provisions on restricting the freedom of movement of patients in residential or care institutions *mutatis muta**n**dis*. The right to appeal to the court is reserved.
+Measures restricting the patient's freedom of movement in the institution are governed by the provisions on restricting the freedom of movement of patients in residential or care institutions *mutatis mutandis*. The right to appeal to the court is reserved.
 
 ### G. Petition to the court
 
@@ -6358,7 +6394,7 @@ In the following cases, the patient or a closely related person may petition the
 
 #### Art. 444
 
-<sup>1</sup> The adult protection authority shall verify its jurisdiction *ex off**i**cio*.
+<sup>1</sup> The adult protection authority shall verify its jurisdiction *ex officio*.
 
 <sup>2</sup> If it decides that it has no jurisdiction, it shall assign the case immediately to the authority that it regards as having jurisdiction.
 
@@ -6380,7 +6416,7 @@ In the following cases, the patient or a closely related person may petition the
 
 #### Art. 446
 
-<sup>1</sup> The adult protection authority investigates the circumstances of the case *ex off**i**cio*.
+<sup>1</sup> The adult protection authority investigates the circumstances of the case *ex officio*.
 
 <sup>2</sup> It shall conduct the required enquiries and gather the required evidence. It may instruct a suitable person or agency to carry out enquiries. If necessary, it shall commission an opinion from an expert.
 
@@ -8627,7 +8663,7 @@ The use and administration rules agreed by the co-owners, their administrative d
 
 [^649c-1]
 
-The provisions governing exclusion of co-owners apply *mutatis m**u**tandis* to usufructuaries and to owners of other rights in rem or personal rights of use entered under priority notice in the land register in respect of co-ownership shares.
+The provisions governing exclusion of co-owners apply *mutatis mutandis* to usufructuaries and to owners of other rights in rem or personal rights of use entered under priority notice in the land register in respect of co-ownership shares.
 
 [^649c-1]: Inserted by No I of the FA of 19 Dec. 1963, in force since 1 Jan. 1965 ([AS 1964 993](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); [BBl 1962 II 1461](https://fedlex.data.admin.ch/eli/fga/1962/2_1461_1445_)).
 
@@ -12947,16 +12983,16 @@ In the case of a separation of property established by operation of the law or b
 
 [^u1-9g-1]
 
-<sup>1 …</sup>[^u1-9g-2]
+<sup>1</sup> In the case of same-sex married couple who were married abroad before the Amendment of 18 December 2020 came into full legal force, the statutory marital property regime of participation in acquired property applies retrospectively from the date of marriage, unless the couple agrees otherwise by marital agreement or property agreement.
 
-<sup>2</sup> Before this Amendment enters into force in full, either spouse may give written notice to the other that the current marital property regime will be maintained in accordance with Article 18 of the Same-Sex Partnership Act of 18 June 2004[^u1-9g-3] (SSPA) until the date of full entry into force.
+<sup>2</sup> Before this Amendment comes into force in full, either spouse may give written notice to the other that the current marital property regime will be maintained in accordance with Article 18 of the Same-Sex Partnership Act of 18 June 2004[^u1-9g-2] (SSPA) until the date of full entry into force.
 
-<sup>3</sup> and <sup>4</sup> ...[^u1-9g-4]
+<sup>3</sup> The current marital property regime in accordance with Article 18 SSPA shall also be retained if an action seeking to dissolve the marital property regime under Swiss law is pending when this Amendment comes into full legal force.
 
-[^u1-9g-1]: Inserted by No I of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 Jan. 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^u1-9g-2]: The para. enters into force 1 July the 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^u1-9g-3]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
-[^u1-9g-4]: The paras. enter into force 1 July the 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+<sup>4</sup> The related ordinances shall provide that married couples who so wish shall be mentioned as husband and wife or as father and mother in relation to their children on documents, deeds and forms.
+
+[^u1-9g-1]: Inserted by No I of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 Jan. 2022, paras 1, 3 and 4 in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^u1-9g-2]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
 
 ### 5. Marital agreement
 
@@ -13789,6 +13825,6 @@ Art. 7*a*–7*i*
 
 [^u2-1]
 
-[^u2-1]: BS **2** 3. These provisions apply as transitional law insofar as provided by Art. 9*a* ff. Final Title (Revision of Marital Law of 5 Oct. 1984). The provisions have not been translated into English.
+[^u2-1]: BS **2** 3. These provisions apply as transitional law insofar as provided by Art. 9*a* ff. Final Title (Revision of Marital Law of 5 Oct. 1984). The provisions have not been translated into English..
 
 ### Title Six: Marital Property Law

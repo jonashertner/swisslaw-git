@@ -4,18 +4,18 @@ title: Schweizerisches Zivilgesetzbuch vom 10. Dezember 1907
 short: ZGB
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: de
-version: 2022-01-01
+version: 2022-07-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20220101/de/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20220101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20220701/de/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20220701-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Zivilgesetzbuch
 
-vom 10. Dezember 1907 (Stand am 1. Januar 2022)
+vom 10. Dezember 1907 (Stand am 1. Juli 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -268,7 +268,7 @@ Die Handlungsfähigkeit kann durch eine Massnahme des Erwachsenenschutzes einges
 
 [^book1-tit1-chap1-lvlA-lvlIV-1]
 
-[^book1-tit1-chap1-lvlA-lvlIV-1]: Fassung des Randtit. gemäss Ziff. I 3 des BG vom 30. Juni 1972, in Kraft seit 1. April 1973 ([AS 1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653), [1973 92](https://fedlex.data.admin.ch/eli/oc/1973/92__); [BBl 1971 I 1200](https://fedlex.data.admin.ch/eli/fga/1971/1_1200_1222_85)).
+[^book1-tit1-chap1-lvlA-lvlIV-1]: Fassung des Randtit. gemäss Ziff. I 3 des BG vom 30. Juni 1972, in Kraft seit 1. April 1973 ([AS 1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653), **19****73** 92; [BBl 1971 I 1200](https://fedlex.data.admin.ch/eli/fga/1971/1_1200_1222_85)).
 
 ### 1. Verwandtschaft
 
@@ -1432,7 +1432,7 @@ Die zuständige Bundes- oder Kantonsbehörde kann auf Antrag der Aufsichtsbehör
 
 <sup>5</sup> Die Behörde, welche die Verfügung von Todes wegen eröffnet, teilt der zuständigen Aufsichtsbehörde die Anordnung zur Änderung des Stiftungszwecks mit.
 
-[^86a-1]: Eingefügt durch Ziff. I des BG vom 8. Okt. 2004 (Stiftungsrecht), in Kraft seit 1. Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^86a-1]: Eingefügt durch Ziff. I des BG vom 8. Okt. 2004 (Stiftungsrecht), in Kraft seit 1. Jan. 2006 (AS **200****5** 4545; [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 [^86a-2]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 
 ### III. Unwesentliche Änderungen der Stiftungsurkunde
@@ -1653,7 +1653,11 @@ Für Personalfürsorgestiftungen nach Absatz 7 gelten zudem die folgenden Bestim
 
 #### Art. 92
 
-Hat einer der Verlobten im Hinblick auf die Eheschliessung in guten Treuen Veranstaltungen getroffen, so kann er bei Auflösung des Verlöbnisses vom andern einen angemessenen Beitrag verlangen, sofern dies nach den gesamten Umständen nicht als unbillig erscheint.
+[^92-1]
+
+Hat eine oder einer der Verlobten im Hinblick auf die Eheschliessung in guten Treuen Veranstaltungen getroffen, so kann sie oder er bei Auflösung des Verlöbnisses von der oder dem andern einen angemessenen Beitrag verlangen, sofern dies nach den gesamten Umständen nicht als unbillig erscheint.
+
+[^92-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### III. Verjährung
 
@@ -1667,11 +1671,11 @@ Die Ansprüche aus dem Verlöbnis verjähren mit Ablauf eines Jahres nach der Au
 
 #### Art. 94
 
-<sup>1</sup> Um die Ehe eingehen zu können, müssen die Brautleute das 18. Altersjahr zurückgelegt haben und urteilsfähig sein.
+[^94-1]
 
-<sup>2</sup> …[^94-1]
+Die Ehe kann von zwei Personen eingegangen werden, die das 18. Altersjahr zurückgelegt haben und urteilsfähig sind.
 
-[^94-1]: Aufgehoben durch Ziff. I 2 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), mit Wirkung seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^94-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### B. Ehehindernisse
 
@@ -1679,7 +1683,7 @@ Die Ansprüche aus dem Verlöbnis verjähren mit Ablauf eines Jahres nach der Au
 
 [^book2-part1-tit3-chap2-lvlB-lvlI-1]
 
-[^book2-part1-tit3-chap2-lvlB-lvlI-1]: Fassung gemäss Anhang Ziff. 8 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^book2-part1-tit3-chap2-lvlB-lvlI-1]: Fassung gemäss Anhang Ziff. 8 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); BBl **20****03** 1288).
 
 #### Art. 95
 
@@ -1689,11 +1693,15 @@ Die Ansprüche aus dem Verlöbnis verjähren mit Ablauf eines Jahres nach der Au
 
 [^95-1]: Fassung gemäss Anhang Ziff. 8 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
-### II. Frühere Ehe
+### II. Frühere Ehe oder eingetragene Partnerschaft
 
 #### Art. 96
 
-Wer eine neue Ehe eingehen will, hat den Nachweis zu erbringen, dass die frühere Ehe für ungültig erklärt oder aufgelöst worden ist.
+[^96-1]
+
+Wer eine Ehe eingehen will, hat den Nachweis zu erbringen, dass eine frühere Ehe oder eine mit einer Drittperson begründete eingetragene Partnerschaft für ungültig erklärt oder aufgelöst worden ist.
+
+[^96-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### Dritter Abschnitt: Vorbereitung der Eheschliessung und Trauung
 
@@ -1713,11 +1721,11 @@ Wer eine neue Ehe eingehen will, hat den Nachweis zu erbringen, dass die früher
 
 [^97a-1]
 
-<sup>1</sup> Die Zivilstandsbeamtin oder der Zivilstandsbeamte tritt auf das Gesuch nicht ein, wenn die Braut oder der Bräutigam offensichtlich keine Lebensgemeinschaft begründen, sondern die Bestimmungen über Zulassung und Aufenthalt von Ausländerinnen und Ausländern umgehen will.
+<sup>1</sup> Die Zivilstandsbeamtin oder der Zivilstandsbeamte tritt auf das Gesuch nicht ein, wenn eine oder einer der Verlobten offensichtlich keine Lebensgemeinschaft begründen, sondern die Bestimmungen über Zulassung und Aufenthalt von Ausländerinnen und Ausländern umgehen will.
 
-<sup>2</sup> Die Zivilstandsbeamtin oder der Zivilstandsbeamte hört die Brautleute an und kann bei anderen Behörden oder bei Drittpersonen Auskünfte einholen.
+<sup>2</sup> Die Zivilstandsbeamtin oder der Zivilstandsbeamte hört die Verlobten an und kann bei anderen Behörden oder bei Drittpersonen Auskünfte einholen.
 
-[^97a-1]: Eingefügt durch Anhang Ziff. II 4 des BG vom 16. Dez. 2005 über Ausländerinnen und Ausländer, in Kraft seit 1. Jan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
+[^97a-1]: Eingefügt durch Anhang Ziff. II 4 des BG vom 16. Dez. 2005 über Ausländerinnen und Ausländer ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)). Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### B. Vorbereitungsverfahren
 
@@ -1725,15 +1733,16 @@ Wer eine neue Ehe eingehen will, hat den Nachweis zu erbringen, dass die früher
 
 #### Art. 98
 
-<sup>1</sup> Die Verlobten stellen das Gesuch um Durchführung des Vorbereitungsverfahrens beim Zivilstandsamt des Wohnortes der Braut oder des Bräutigams.
+<sup>1</sup> Die Verlobten stellen das Gesuch um Durchführung des Vorbereitungsverfahrens beim Zivilstandsamt des Wohnortes einer oder eines der Verlobten.[^98-1]
 
 <sup>2</sup> Sie müssen persönlich erscheinen. Falls sie nachweisen, dass dies für sie offensichtlich unzumutbar ist, wird die schriftliche Durchführung des Vorbereitungsverfahrens bewilligt.
 
 <sup>3</sup> Sie haben ihre Personalien mittels Dokumenten zu belegen und beim Zivilstandsamt persönlich zu erklären, dass sie die Ehevoraussetzungen erfüllen; sie legen die nötigen Zustimmungen vor.
 
-<sup>4</sup> Verlobte, die nicht Schweizerbürgerinnen oder Schweizerbürger sind, müssen während des Vorbereitungsverfahrens ihren rechtmässigen Aufenthalt in der Schweiz nachweisen.[^98-1]
+<sup>4</sup> Verlobte, die nicht Schweizerbürgerinnen oder Schweizerbürger sind, müssen während des Vorbereitungsverfahrens ihren rechtmässigen Aufenthalt in der Schweiz nachweisen.[^98-2]
 
-[^98-1]: Eingefügt durch Ziff. I des BG vom 12. Juni 2009 (Unterbindung von Ehen bei rechtswidrigem Aufenthalt), in Kraft seit 1. Jan. 2011 ([AS 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [BBl 2008 2467](https://fedlex.data.admin.ch/eli/fga/2008/517)[2481](https://fedlex.data.admin.ch/eli/fga/2008/519)).
+[^98-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^98-2]: Eingefügt durch Ziff. I des BG vom 12. Juni 2009 (Unterbindung von Ehen bei rechtswidrigem Aufenthalt), in Kraft seit 1. Jan. 2011 ([AS 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [BBl 2008 2467](https://fedlex.data.admin.ch/eli/fga/2008/517)[2481](https://fedlex.data.admin.ch/eli/fga/2008/519)).
 
 ### II. Durchführung und Abschluss des Vorbereitungsverfahrens
 
@@ -1785,11 +1794,12 @@ Die Trauung kann innerhalb von drei Monaten stattfinden, nachdem der Abschluss d
 
 <sup>1</sup> Die Trauung ist öffentlich und findet in Anwesenheit von zwei volljährigen und urteilsfähigen Zeuginnen oder Zeugen statt.[^102-1]
 
-<sup>2</sup> Die Zivilstandsbeamtin oder der Zivilstandsbeamte richtet an die Braut und an den Bräutigam einzeln die Frage, ob sie miteinander die Ehe eingehen wollen.
+<sup>2</sup> Die Zivilstandsbeamtin oder der Zivilstandsbeamte richtet an die Verlobten einzeln die Frage, ob sie miteinander die Ehe eingehen wollen.[^102-2]
 
 <sup>3</sup> Bejahen die Verlobten die Frage, wird die Ehe durch ihre beidseitige Zustimmung als geschlossen erklärt.
 
 [^102-1]: Fassung gemäss Ziff. I 2 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^102-2]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### D. Ausführungsbestimmungen
 
@@ -1813,14 +1823,14 @@ Die vor der Zivilstandsbeamtin oder dem Zivilstandsbeamten geschlossene Ehe kann
 
 Ein Ungültigkeitsgrund liegt vor, wenn:
 
-- 1\. zur Zeit der Eheschliessung einer der Ehegatten[^105-1] bereits verheiratet ist und die frühere Ehe nicht durch Scheidung oder Tod des Partners aufgelöst worden ist;
+- 1\.[^105-1] zur Zeit der Eheschliessung einer der Ehegatten bereits verheiratet ist oder in eingetragener Partnerschaft mit einer Drittperson lebt und die frühere Ehe oder die eingetragene Partnerschaft nicht aufgelöst worden ist;
 - 2\. zur Zeit der Eheschliessung einer der Ehegatten nicht urteilsfähig ist und seither nicht wieder urteilsfähig geworden ist;
 - 3\.[^105-2] die Eheschliessung infolge Verwandtschaft unter den Ehegatten verboten ist;
 - 4\.[^105-3] einer der Ehegatten nicht eine Lebensgemeinschaft begründen, sondern die Bestimmungen über Zulassung und Aufenthalt von Ausländerinnen und Ausländern umgehen will;
 - 5\.[^105-4] ein Ehegatte die Ehe nicht aus freiem Willen geschlossen hat;
 - 6\.[^105-5] einer der Ehegatten minderjährig ist, es sei denn, die Weiterführung der Ehe entspricht den überwiegenden Interessen dieses Ehegatten.
 
-[^105-1]: Es handelt sich um einen feststehenden Rechtsbegriff, der sich auf Personen beider Geschlechter bezieht (im Gegensatz zu den Ausdrücken «Ehemann» und «Ehefrau»).
+[^105-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 [^105-2]: Fassung gemäss Anhang Ziff. 8 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^105-3]: Eingefügt durch Anhang Ziff. II 4 des BG vom 16. Dez. 2005 über Ausländerinnen und Ausländer, in Kraft seit 1. Jan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
 [^105-4]: Eingefügt durch Ziff. I 3 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangs‑ heiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
@@ -2295,11 +2305,13 @@ Aufgehoben
 
 <sup>1</sup> Jeder Ehegatte behält seinen Namen.
 
-<sup>2</sup> Die Brautleute können aber gegenüber der Zivilstandsbeamtin oder dem Zivilstandsbeamten erklären, dass sie den Ledignamen der Braut oder des Bräutigams als gemeinsamen Familiennamen tragen wollen.
+<sup>2</sup> Die Verlobten können aber gegenüber der Zivilstandsbeamtin oder dem Zivilstandsbeamten erklären, dass sie einen ihrer Ledignamen als gemeinsamen Familiennamen tragen wollen.[^160-2]
 
-<sup>3</sup> Behalten die Brautleute ihren Namen, so bestimmen sie, welchen ihrer Ledignamen ihre Kinder tragen sollen. In begründeten Fällen kann die Zivilstandsbeamtin oder der Zivilstandsbeamte die Brautleute von dieser Pflicht befreien.
+<sup>3</sup> Behalten die Verlobten ihren Namen, so bestimmen sie, welchen ihrer Ledignamen ihre Kinder tragen sollen. In begründeten Fällen kann die Zivilstandsbeamtin oder der Zivilstandsbeamte die Verlobten von dieser Pflicht befreien.[^160-3]
 
 [^160-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2011 (Name und Bürgerrecht), in Kraft seit 1. Jan. 2013 ([AS 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [BBl 2009 7573](https://fedlex.data.admin.ch/eli/fga/2009/1347)[7581](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^160-2]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^160-3]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### C. Bürgerrecht
 
@@ -2542,7 +2554,9 @@ Die Ehegatten unterstehen den Vorschriften über die Errungenschaftsbeteiligung,
 
 <sup>1</sup> Ein Ehevertrag kann vor oder nach der Heirat geschlossen werden.
 
-<sup>2</sup> Die Brautleute oder Ehegatten können ihren Güterstand nur innerhalb der gesetzlichen Schranken wählen, aufheben oder ändern.
+<sup>2</sup> Die Verlobten oder Ehegatten können ihren Güterstand nur innerhalb der gesetzlichen Schranken wählen, aufheben oder ändern.[^182-1]
+
+[^182-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### II. Vertragsfähigkeit
 
@@ -3213,11 +3227,12 @@ Steht ein Vermögenswert im Miteigentum und weist ein Ehegatte ein überwiegende
 
 <sup>1</sup> Das Kindesverhältnis entsteht zwischen dem Kind und der Mutter mit der Geburt.
 
-<sup>2</sup> Zwischen dem Kind und dem Vater wird es kraft der Ehe der Mutter begründet oder durch Anerkennung oder durch das Gericht festgestellt.
+<sup>2</sup> Zwischen dem Kind und dem anderen Elternteil wird es kraft der Ehe der Mutter begründet oder, soweit gesetzlich vorgesehen, durch Anerkennung oder durch das Gericht festgestellt.[^252-2]
 
 <sup>3</sup> Ausserdem entsteht das Kindesverhältnis durch Adoption.
 
 [^252-1]: Fassung gemäss Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^252-2]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### B. …
 
@@ -3233,13 +3248,19 @@ Steht ein Vermögenswert im Miteigentum und weist ein Ehegatte ein überwiegende
 
 [^254-1]: Aufgehoben durch Anhang 1 Ziff. II 3 der Zivilprozessordnung vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Zweiter Abschnitt: Die Vaterschaft des Ehemannes****
+### Zweiter Abschnitt: Die Elternschaft des Ehemannes oder der Ehefrau****
 
 [^book2-part2-tit7-chap2-1]
 
-[^book2-part2-tit7-chap2-1]: Fassung gemäss Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^book2-part2-tit7-chap2-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### A. Vermutung
+
+### I. Elternschaft des Ehemannes
+
+[^book2-part2-tit7-chap2-lvlA-lvlI-1]
+
+[^book2-part2-tit7-chap2-lvlA-lvlI-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 255
 
@@ -3253,9 +3274,26 @@ Steht ein Vermögenswert im Miteigentum und weist ein Ehegatte ein überwiegende
 
 [^255-1]: Fassung gemäss Ziff. I 4 des BG vom 26. Juni 1998, in Kraft seit 1. Jan. 2000 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
-### B. Anfechtung
+### II. Elternschaft der Ehefrau
+
+#### Art. 255a
+
+[^255a-1]
+
+<sup>1</sup> Ist die Mutter zum Zeitpunkt der Geburt mit einer Frau verheiratet und wurde das Kind nach den Bestimmungen des Fortpflanzungsmedizingesetzes vom 18. Dezember 1998[^255a-2] durch eine Samenspende gezeugt, so gilt die Ehefrau der Mutter als der andere Elternteil.
+
+<sup>2</sup> Stirbt die Ehefrau der Mutter oder wird sie für verschollen erklärt, so gilt sie als Elternteil, wenn die Insemination vor ihrem Tod oder dem Zeitpunkt der Todesgefahr oder der letzten Nachricht stattgefunden hat.
+
+[^255a-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^255a-2]: [SR 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+
+### B. Anfechtung der Elternschaft des Ehemannes
 
 ### I. Klagerecht
+
+[^book2-part2-tit7-chap2-lvlI-lvlI-1]
+
+[^book2-part2-tit7-chap2-lvlI-lvlI-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 256
 
@@ -3724,7 +3762,7 @@ Das Bürgerrecht des minderjährigen Kindes bestimmt sich nach den Bestimmungen 
 <sup>5</sup> Der Adoptionsentscheid enthält alle für die Eintragung in das Personenstandsregister erforderlichen Angaben betreffend den Vornamen, den Namen und das Bürgerrecht der adoptierten Person.[^268-5]
 
 [^268-1]: Fassung gemäss Ziff. I 1 des BG vom 30. Juni 1972, in Kraft seit 1. April 1973 ([AS 1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [BBl 1971 I 1200](https://fedlex.data.admin.ch/eli/fga/1971/1_1200_1222_85)).
-[^268-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2016 (Adoption), in Kraft seit 1. Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^268-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2016 (Adoption), in Kraft seit 1. Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); BBl **2****015** 877).
 [^268-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2016 (Adoption), in Kraft seit 1. Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 [^268-4]: Eingefügt durch Ziff. I des BG vom 17. Juni 2016 (Adoption), in Kraft seit 1. Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 [^268-5]: Eingefügt durch Ziff. I des BG vom 17. Juni 2016 (Adoption), in Kraft seit 1. Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
@@ -4062,7 +4100,7 @@ Eltern und Kinder sind einander allen Beistand, alle Rücksicht und Achtung schu
 
 [^book2-part2-tit8-chap2-1]
 
-[^book2-part2-tit8-chap2-1]: Eingefügt durch Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^book2-part2-tit8-chap2-1]: Eingefügt durch Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); BBl **197****4** II 1).
 
 ### A. Allgemeines
 
@@ -4151,7 +4189,7 @@ Eltern und Kinder sind einander allen Beistand, alle Rücksicht und Achtung schu
 
 [^280284-1]: Aufgehoben durch Anhang 1 Ziff. II 3 der Zivilprozessordnung vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### IV. Bemessung des Unterhalts-beitrages
+### IV. Bemessung des Unterhaltsbeitrages
 
 ### 1. Beitrag der Eltern
 
@@ -4232,7 +4270,7 @@ Eltern und Kinder sind einander allen Beistand, alle Rücksicht und Achtung schu
 
 [^287-1]: Fassung gemäss Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
-### II. Inhalt des Unterhalts-vertrages
+### II. Inhalt des Unterhaltsvertrages
 
 #### Art. 287a
 
@@ -4315,7 +4353,7 @@ Wenn die Eltern die Sorge für das Kind vernachlässigen, kann das Gericht ihre 
 
 Vernachlässigen die Eltern beharrlich die Erfüllung ihrer Unterhaltspflicht, oder ist anzunehmen, dass sie Anstalten zur Flucht treffen oder ihr Vermögen verschleudern oder beiseite schaffen, so kann das Gericht sie verpflichten, für die künftigen Unterhaltsbeiträge angemessene Sicherheit zu leisten.
 
-[^292-1]: Fassung gemäss Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^292-1]: Fassung gemäss Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978 (AS **19****77** 237; [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### G. Öffentliches Recht
 
@@ -4941,7 +4979,7 @@ Die Kindesschutzbehörde bleibt jedoch befugt:[^315a-3]
 
 [^315a-1]: Eingefügt durch Ziff. I 1 des BG vom 25. Juni 1976 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)). Fassung gemäss Ziff. I 4 des BG vom 26. Juni 1998, in Kraft seit 1. Jan. 2000 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 [^315a-2]: Fassung gemäss Ziff. I 2 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^315a-3]: Fassung gemäss Ziff. I 2 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^315a-3]: Fassung gemäss Ziff. I 2 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 (AS **201****1** 725; [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### b. Abänderung gerichtlicher Anordnungen
 
@@ -5007,7 +5045,7 @@ Die Kantone sichern durch geeignete Vorschriften die zweckmässige Zusammenarbei
 
 [^318-1]: Fassung gemäss Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^318-2]: Fassung gemäss Ziff. I 2 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^318-3]: Fassung gemäss Ziff. I 2 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^318-3]: Fassung gemäss Ziff. I 2 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); BBl **20****06** 7001).
 
 ### B. Verwendung der Erträge
 
@@ -5212,7 +5250,7 @@ Das Kind unter Vormundschaft hat die gleiche Rechtsstellung wie das Kind unter e
 
 <sup>2</sup> Die Hausgewalt erstreckt sich auf alle Personen, die als Verwandte[^331-1] und Verschwägerte oder auf Grund eines Vertragsverhältnisses als Arbeitnehmer oder in ähnlicher Stellung in dem gemeinsamen Haushalte leben.[^331-2]
 
-[^331-1]: Fassung dieses Wortes gemäss Ziff. I 3 des BG vom 30. Juni 1972, in Kraft seit 1. April 1973 ([AS 1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [BBl 1971 I 1200](https://fedlex.data.admin.ch/eli/fga/1971/1_1200_1222_85)).
+[^331-1]: Fassung dieses Wortes gemäss Ziff. I 3 des BG vom 30. Juni 1972, in Kraft seit 1. April 1973 ([AS 1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); BBl **19****71** I 1200).
 [^331-2]: Fassung gemäss Ziff. II Art. 2 Ziff. 2 des BG vom 25. Juni 1971, in Kraft seit 1. Jan. 1972 ([AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [BBl 1967 II 241](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)).
 
 ### B. Wirkung
@@ -5582,7 +5620,7 @@ Jede der Patientin oder dem Patienten nahestehende Person kann schriftlich die E
 
 ### Erster Unterabschnitt: Vertretung durch den Ehegatten, die eingetragene Partnerin oder den eingetragenen Partner
 
-### A. Voraussetzungen und Umfang des Vertretungs-rechts
+### A. Voraussetzungen und Umfang des Vertretungsrechts
 
 #### Art. 374
 
@@ -6770,7 +6808,7 @@ Der Pflichtteil beträgt:
 
 [^473-1]: Fassung gemäss Ziff. I des BG vom 5. Okt 2001, in Kraft seit 1. März 2002 ([AS 2002 269](https://fedlex.data.admin.ch/eli/oc/2002/57); [BBl 2001 1121](https://fedlex.data.admin.ch/eli/fga/2001/194)[2011](https://fedlex.data.admin.ch/eli/fga/2001/443)[2111](https://fedlex.data.admin.ch/eli/fga/2001/463)).
 [^473-2]: Fassung gemäss Ziff. I des BG vom 5. Okt 2001, in Kraft seit 1. März 2002 ([AS 2002 269](https://fedlex.data.admin.ch/eli/oc/2002/57); [BBl 2001 1121](https://fedlex.data.admin.ch/eli/fga/2001/194)[2011](https://fedlex.data.admin.ch/eli/fga/2001/443)[2111](https://fedlex.data.admin.ch/eli/fga/2001/463)).
-[^473-3]: Fassung gemäss Ziff. I 2 des BG vom 5. Okt. 1984, in Kraft seit 1. Jan. 1988 ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)Art. 1; [BBl 1979 II 1191](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^473-3]: Fassung gemäss Ziff. I 2 des BG vom 5. Okt. 1984, in Kraft seit 1. Jan. 1988 ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)Art. 1; BBl **197****9** II 1191).
 
 ### V. Berechnung des verfügbaren Teils
 
@@ -7419,7 +7457,7 @@ Wird der Verzichtende auf Grund der Herabsetzung zu einer Rückleistung an die E
 
 <sup>2</sup> …[^538-1]
 
-[^538-1]: Aufgehoben durch Anhang Ziff. 2 des Gerichtsstandsgesetzes vom 24. März 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^538-1]: Aufgehoben durch Anhang Ziff. 2 des Gerichtsstandsgesetzes vom 24. März 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **199****9** 2829).
 
 ### C. Voraussetzungen auf Seite des Erben
 
@@ -8235,7 +8273,7 @@ Grundstücke sind den Erben zum Verkehrswert anzurechnen, der ihnen im Zeitpunkt
 
 <sup>2</sup> …[^618-2]
 
-[^618-1]: Fassung gemäss Anhang 1 Ziff. II 3 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^618-1]: Fassung gemäss Anhang 1 Ziff. II 3 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 (AS **20****10** 1739; [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^618-2]: Aufgehoben durch Ziff. I 1 des BG vom 6. Okt. 1972, mit Wirkung seit 15. Febr. 1973 ([AS 1973 93](https://fedlex.data.admin.ch/eli/oc/1973/93_93_99); [BBl 1970 I 805](https://fedlex.data.admin.ch/eli/fga/1970/1_805_813_601), [1971 I 737](https://fedlex.data.admin.ch/eli/fga/1971/1_737__)).
 
 ### V. Landwirtschaftliche Gewerbe und Grundstücke
@@ -8738,7 +8776,7 @@ Als selbstständiges und dauerndes Recht kann eine Dienstbarkeit an einem Grunds
 - 2\. auf wenigstens 30 Jahre oder auf unbestimmte Zeit begründet ist.[^655-2]
 
 [^655-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 1963, in Kraft seit 1. Jan. 1965 ([AS 1964 993](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); [BBl 1962 II 1461](https://fedlex.data.admin.ch/eli/fga/1962/2_1461_1445_)).
-[^655-2]: Eingefügt durch Ziff. I 1 des BG vom 11. Dez. 2009 (Register-Schuldbrief und weitere Änderungen im Sachenrecht), in Kraft seit 1. Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^655-2]: Eingefügt durch Ziff. I 1 des BG vom 11. Dez. 2009 (Register-Schuldbrief und weitere Änderungen im Sachenrecht), in Kraft seit 1. Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); BBl **20****07** 5283).
 
 ### II. Unselbstständiges Eigentum
 
@@ -9102,7 +9140,7 @@ Fügt ein Grundeigentümer bei rechtmässiger Bewirtschaftung seines Grundstück
 
 <sup>3</sup> Der Vorkaufsberechtigte kann seinen Anspruch innerhalb dieser Fristen gegenüber jedem Eigentümer des Grundstücks geltend machen.
 
-[^681a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 über die Teilrevision des Zivilgesetzbuches (Immobiliarsachenrecht) und des Obligationenrechts (Grundstückkauf), in Kraft seit 1. Jan. 1994 ([AS 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [BBl 1988 III 953](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^681a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 über die Teilrevision des Zivilgesetzbuches (Immobiliarsachenrecht) und des Obligationenrechts (Grundstückkauf), in Kraft seit 1. Jan. 1994 ([AS 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); BBl **198****8** III 953).
 
 ### 3. Abänderung, Verzicht
 
@@ -9133,7 +9171,7 @@ Fügt ein Grundeigentümer bei rechtmässiger Bewirtschaftung seines Grundstück
 <sup>3</sup> …[^682-3]
 
 [^682-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 1963, in Kraft seit 1. Jan. 1965 ([AS 1964 993](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); [BBl 1962 II 1461](https://fedlex.data.admin.ch/eli/fga/1962/2_1461_1445_)).
-[^682-2]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991 über die Teilrevision des Zivilgesetzbuches (Immobiliarsachenrecht) und des Obligationenrechts (Grundstückkauf), in Kraft seit 1. Jan. 1994 ([AS 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [BBl 1988 III 953](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^682-2]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991 über die Teilrevision des Zivilgesetzbuches (Immobiliarsachenrecht) und des Obligationenrechts (Grundstückkauf), in Kraft seit 1. Jan. 1994 (AS **1****993** 1404; [BBl 1988 III 953](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 [^682-3]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 1991 über die Teilrevision des Zivilgesetzbuches (Immobiliarsachenrecht) und des Obligationenrechts (Grundstückkauf), mit Wirkung seit 1. Jan. 1994 ([AS 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [BBl 1988 III 953](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### 5. Vorkaufsrecht an landwirtschaftlichen Gewerben und Grundstücken
@@ -9862,7 +9900,7 @@ Eine herrenlose Sache wird dadurch zu Eigentum erworben, dass jemand sie mit dem
 
 [^728-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 2002 (Grundsatzartikel Tiere), in Kraft seit 1. April 2003 ([AS 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [BBl 2002 4164](https://fedlex.data.admin.ch/eli/fga/2002/591)[5806](https://fedlex.data.admin.ch/eli/fga/2002/895)).
 [^728-2]: [SR 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
-[^728-3]: Eingefügt durch Art. 32 Ziff. 1 des Kulturgütertransfergesetzes vom 20. Juni 2003, in Kraft seit 1. Juni 2005 ([AS 2005 1869](https://fedlex.data.admin.ch/eli/oc/2005/317); [BBl 2002 535](https://fedlex.data.admin.ch/eli/fga/2002/93)).
+[^728-3]: Eingefügt durch Art. 32 Ziff. 1 des Kulturgütertransfergesetzes vom 20. Juni 2003, in Kraft seit 1. Juni 2005 (AS **2****005** 1869; [BBl 2002 535](https://fedlex.data.admin.ch/eli/fga/2002/93)).
 
 ### C. Verlust
 
@@ -10407,7 +10445,7 @@ Auf die Nutzniessung an Gegenständen, deren Nutzung in der Gewinnung von Bodenb
 
 Geht das Baurecht unter, so fallen die bestehenden Bauwerke dem Grundeigentümer heim, indem sie zu Bestandteilen seines Grundstückes werden.
 
-[^779c-1]: Eingefügt durch Ziff. I des BG vom 19. März 1965, in Kraft seit 1. Juli 1965 ([AS 1965 445](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); [BBl 1963 I 969](https://fedlex.data.admin.ch/eli/fga/1963/1_969_993_537)).
+[^779c-1]: Eingefügt durch Ziff. I des BG vom 19. März 1965, in Kraft seit 1. Juli 1965 ([AS 1965 445](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); BBl **1****963** I 969).
 
 ### 2. Entschädigung
 
@@ -12080,7 +12118,7 @@ Der Bundesrat regelt:
 
 [^949a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 über die Teilrevision des Zivilgesetzbuches (Immobiliarsachenrecht) und des Obligationenrechts (Grundstückkauf) ([AS 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [BBl 1988 III 953](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)). Fassung gemäss Anhang Ziff. 1 des BG vom 19. Dez. 2003 über die elektronische Signatur, in Kraft seit 1. Jan. 2005 ([AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [BBl 2001 5679](https://fedlex.data.admin.ch/eli/fga/2001/889)).
 
-### 4*a*. …
+### 4a. …
 
 #### Art. 949b
 
@@ -12708,7 +12746,7 @@ Tatsachen, die zwar unter der Herrschaft des bisherigen Rechtes eingetreten sind
 Die Bestimmungen der Änderung vom 16. Dezember 2005[^u1-6c-2] betreffend die Buchführung und die Revisionsstelle gelten vom ersten Geschäftsjahr an, das mit dem Inkrafttreten dieses Gesetzes oder danach beginnt.
 
 [^u1-6c-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^u1-6c-2]: [AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)
+[^u1-6c-2]: [AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), **2****004** 3969
 
 ### IV. Schutz der Persönlichkeit vor Gewalt, Drohungen oder Nachstellungen
 
@@ -12776,7 +12814,7 @@ Auf Verfahren, die beim Inkrafttreten der Änderung vom 14. Dezember 2018 rechts
 Für Scheidungsprozesse, die beim Inkrafttreten der Änderung vom 19. Dezember 2003[^u1-7c-2] rechtshängig und die von einer kantonalen Instanz zu beurteilen sind, gilt die Trennungsfrist nach dem neuen Recht.
 
 [^u1-7c-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2003 (Trennungsfrist im Scheidungsrecht), in Kraft seit 1. Juni 2004 ([AS 2004 2161](https://fedlex.data.admin.ch/eli/oc/2004/254); [BBl 2003 3927](https://fedlex.data.admin.ch/eli/fga/2003/581)[5825](https://fedlex.data.admin.ch/eli/fga/2003/893)).
-[^u1-7c-2]: [AS 2004 2161](https://fedlex.data.admin.ch/eli/oc/2004/254)
+[^u1-7c-2]: AS **2004**2161
 
 ### 4. Berufliche Vorsorge
 
@@ -12941,15 +12979,16 @@ Ist von Gesetzes wegen oder auf Anordnung des Richters Gütertrennung eingetrete
 
 [^u1-9g-1]
 
-<sup>1</sup> …[^u1-9g-2]
+<sup>1</sup> Für gleichgeschlechtliche Ehepaare, die vor der abschliessenden Inkraftsetzung der Änderung vom 18. Dezember 2020 die Ehe im Ausland geschlossen haben, gilt rückwirkend ab dem Zeitpunkt der Eheschliessung der ordentliche Güterstand der Errungenschaftsbeteiligung, sofern sie nicht durch Ehevertrag oder Vermögensvertrag etwas anderes vereinbart haben.
 
-<sup>2</sup> Vor der abschliessenden Inkraftsetzung dieser Änderung kann jeder Ehegatte dem andern schriftlich bekannt geben, dass der bisherige Güterstand nach Artikel 18 des Partnerschaftsgesetzes vom 18. Juni 2004[^u1-9g-3] (PartG) bis zu diesem Zeitpunkt beibehalten wird.
+<sup>2</sup> Vor der abschliessenden Inkraftsetzung dieser Änderung kann jeder Ehegatte dem andern schriftlich bekannt geben, dass der bisherige Güterstand nach Artikel 18 des Partnerschaftsgesetzes vom 18. Juni 2004[^u1-9g-2] (PartG) bis zu diesem Zeitpunkt beibehalten wird.
 
-<sup>3</sup> und <sup>4</sup> …
+<sup>3</sup> Der bisherige Güterstand nach Artikel 18 PartG wird ebenfalls beibehalten, wenn bei der abschliessenden Inkraftsetzung dieser Änderung eine Klage hängig ist, die die Auflösung des Güterstandes nach schweizerischem Recht bewirkt.
 
-[^u1-9g-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Jan. 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^u1-9g-2]: Abs. 1, 3 und 4 treten am 1. Juli 2022 in Kraft.
-[^u1-9g-3]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+<sup>4</sup> Die entsprechenden Verordnungen sehen vor, dass Ehepaare, die dies wünschen, auf Dokumenten, Urkunden und Formularen als Ehemann und Ehefrau aufgeführt werden beziehungsweise als Vater und Mutter in Bezug auf ihre Kinder.
+
+[^u1-9g-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Jan. 2022, Abs. 1, 3 und 4 in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^u1-9g-2]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
 
 ### 5. Ehevertrag
 
