@@ -4,11 +4,11 @@ title: Règlement de prévoyance du 15 juin 2007 pour les personnes employées e
 short: RPEC
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/190"
 language: fr
-version: 2021-01-01
+version: 2022-07-01
 adopted: 2007-06-15
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-190-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2012-190-20220701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20210101/fr"
 
 (RPEC)
 
-du 15 juin 2007 (Etat le 1<sup>er</sup> janvier 2021) (Etat le 1<sup>er</sup> janvier 2021)
+du 15 juin 2007 (État le 1<sup>er</sup> juillet 2022) (État le 1<sup>er</sup> juillet 2022)
 
 L’organe paritaire de la caisse de prévoyance de la Confédération (OPC),
 
@@ -131,16 +131,17 @@ Le financement des frais administratifs, des taxes de l’autorité de surveilla
 Les personnes assurées et les bénéficiaires de rentes ayant droit à des prestations de PUBLICA, ou leurs survivants, doivent notamment annoncer, sans délai et par écrit:
 
 - a. leur mariage ou leur remariage, ainsi que la conclusion d’une union libre au sens de l’art. 45, s’il existe un droit à une rente de viduité ou à une rente de partenaire;
-- b. l’enregistrement d’un partenariat au sens de la LPart, s’il existe un droit à une rente de viduité ou à une rente de partenaire;
+- b.[^10-2] …
 - c. l’achèvement de la formation ou le recouvrement de la capacité de gain de l’enfant âgé de plus de 18 ans pour lequel il existe un droit à une rente pour enfant ou à une rente d’orphelin;
 - d. le décès de la personne assurée ou de la personne bénéficiaire d’une rente.
 
-<sup>3</sup> Les personnes assurées et les bénéficiaires de rentes ayant droit à des prestations d’invalidité de PUBLICA doivent en outre annoncer par écrit, sans délai et spontanément, les prestations et les revenus à prendre en compte selon l’art. 77, al. 1, toute modification de ces prestations et revenus ainsi que tout changement du taux d’invalidité et du montant de la rente.[^10-2]
+<sup>3</sup> Les personnes assurées et les bénéficiaires de rentes ayant droit à des prestations d’invalidité de PUBLICA doivent en outre annoncer par écrit, sans délai et spontanément, les prestations et les revenus à prendre en compte selon l’art. 77, al. 1, toute modification de ces prestations et revenus ainsi que tout changement du taux d’invalidité et du montant de la rente.[^10-3]
 
 <sup>4</sup> Les prétentions envers d’autres assurances ou envers des responsables doivent être annoncées à PUBLICA par écrit, sans délai et spontanément.
 
 [^10-1]: Nouvelle teneur selon le ch. I de la D de l’OPC des 21 mars, 7 mai et 30 sept. 2019, approuvée par le CF le 30 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
-[^10-2]: Nouvelle teneur selon le ch. I de la D de l’OPC du 15 fév. 2018, approuvée par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^10-2]: Abrogée par le ch. I de la D de l’OPC du 13 sept. 2022, approuvée par le CF le 23 nov. 2022, avec effet au 1<sup>er</sup> juil. 2022 ([RO 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
+[^10-3]: Nouvelle teneur selon le ch. I de la D de l’OPC du 15 fév. 2018, approuvée par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
 #### Art. 11
 
@@ -765,7 +766,7 @@ Sont déduits de l’avoir d’épargne spécial:
 
 <sup>1</sup> Lors de la retraite, la personne assurée peut retirer, sous forme d’indemnité unique en capital, jusqu’à 100 % de la somme de l’avoir de vieillesse selon l’art. 36 et de l’éventuel avoir d’épargne spécial (art. 36*a*) disponible à ce moment-là pour la prestation de vieillesse. Si la personne assurée annonce le retrait en capital moins de trois mois avant la retraite, les frais administratifs prévus par le règlement sur les coûts lui sont imputés; le versement de l’indemnité en capital est effectué après le paiement des frais administratifs.[^40-1]
 
-<sup>2</sup> ...[^40-2]
+<sup>2</sup> …[^40-2]
 
 <sup>3</sup> Si les rapports de travail d’une personne assurée pouvant retirer une indemnité unique en capital sont, sans qu’il y ait faute de celle-ci, résiliés par l’employeur, cette personne peut, jusqu’à la retraite, annoncer un retrait en capital ou modifier une seule fois l’annonce déjà effectuée. L’al. 1 s’applique par analogie au paiement des frais administratifs.[^40-3]
 
@@ -1214,7 +1215,7 @@ La rente pour enfant du bénéficiaire d’une rente d’invalidité s’élève
 
 [^59-1]: Nouvelle teneur selon le ch. I de la D de l’OPC du 6 sept. 2016, approuvée par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 
-## Chapitre 7 Rente transitoire et plan social****
+## Chapitre 7 Rente transitoire et plan social
 
 [^chap7-1]
 
@@ -1499,7 +1500,7 @@ La personne assurée doit prouver que le paiement en espèces est justifié.[^83
 
 <sup>4</sup> Si la personne assurée transfère son domicile dans l’un des états membres de l’Union européenne, en Islande ou en Norvège et qu’elle continue d’être soumise à l’assurance obligatoire contre les risques vieillesse, décès et invalidité dans l’un de ces pays, elle ne peut pas demander le paiement en espèces de l’avoir de vieillesse acquis selon l’art. 15 LPP jusqu’à sa sortie de PUBLICA.
 
-<sup>5</sup> ...[^83-3]
+<sup>5</sup> …[^83-3]
 
 <sup>6</sup> Pour les personnes assurées mariées, le paiement en espèces de la prestation de sortie nécessite le consentement écrit et légalisé du conjoint ou de la conjointe. En lieu et place d’une légalisation, le conjoint ou la conjointe peut signer personnellement la déclaration de consentement, auprès de PUBLICA, sur présentation d’une pièce d’identité officielle.
 
@@ -2109,7 +2110,7 @@ Les personnes assurées qui ont atteint l’âge de 62 ans avant le 1<sup>er</su
 
 <sup>2</sup> Toute modification du règlement de prévoyance constitue une modification du contrat d’affiliation. Pour être valable, le consentement des partenaires au contrat d’affiliation et de l’organe paritaire est nécessaire.
 
-## Annexes****
+## Annexes
 
 [^lvlu14-1]
 
@@ -2143,7 +2144,7 @@ Annexe 6*a* Plans de prévoyance destinés aux personnes appartenant à des cat�
 
 Annexe 7 Liste des abréviations
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 8)
 
@@ -2171,7 +2172,7 @@ Rémunération de l’avoir de vieillesse l’année précédente: 1,25 %
 
 [^annex1-lvlu1-1]: Les taux d’intérêts actuels peuvent être consultés sur le site Internet de PUBLICA.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 32, al. 1, et 32*b*)
 
@@ -2281,7 +2282,7 @@ Exemple:
 <tr><td>**Montant maximum de l’avoir d’épargne spécial supplémentaire dans le plan standard (var. 2) par rapport au montant maximum de l’avoir de vieillesse dans le plan standard (sans cotisations d’épargne volontaires)**</td><td>**Fr. 79 650,00**</td></tr>
 </table>
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 39, al. 2, et 57, al. 1)
 
@@ -2304,7 +2305,7 @@ Annexe 3*[^t-3]*
 <tr><td>70</td><td>5,96 %</td></tr>
 </table>
 
-Annexe 4*[^t-4]*
+Annexe 4[^t-4]
 
 (art. 60, al. 4, let. a et b)
 
@@ -2405,7 +2406,7 @@ Calcul:
 - a. âge AVS 65: 22,571 × 241,90 × 12 = **65 519,10 francs**
 - b. âge AVS 64: 21,346 × 207,85 × 12 = **53 241,20 francs**
 
-Annexe 5*[^t-5]*
+Annexe 5[^t-5]
 
 (art. 60, al. 4, let. c, et 5)
 
@@ -2497,12 +2498,12 @@ Un assuré prend sa **retraite à 60 ans** et a droit à une rente de vieillesse
 
 Calcul/réduction de la rente de viduité ou de partenaire:
 
-- 1\. L’âge de la retraite détermine le taux d’atténuation applicable à la réduction à vie. 🡪 Pour un homme de 60 ans, il est de 4,42 %.
-- 2\. Ce taux doit être multiplié par le nombre d’années séparant l’âge de l’assuré au moment de son décès de l’âge de l’AVS. 🡪 L’assuré est mort à 63 ans, la différence entre l’âge au moment du décès et l’âge de l’AVS est donc de 2 ans. 🡪 Le taux d’atténuation applicable à la réduction à vie prévue pour la rente mensuelle de vieillesse dès l’âge de l’AVS est de 2 × 4,42 % = 8,84 %.
-- 3\. Le montant de la réduction à vie de la rente mensuelle de vieillesse dès l’âge de l’AVS doit être atténué à hauteur de ce taux. 🡪 La réduction mensuelle à l’âge de l’AVS, en cas de retraite à 60 ans, est de 310,60 francs (selon annexe 5, ch. I, exemple 1, let. a) et elle est atténuée de 27,45 francs (8,84 % de 310,60 francs). La réduction définitive s’élève ainsi à 283,15 francs.
+- 1\. L’âge de la retraite détermine le taux d’atténuation applicable à la réduction à vie.  Pour un homme de 60 ans, il est de 4,42 %.
+- 2\. Ce taux doit être multiplié par le nombre d’années séparant l’âge de l’assuré au moment de son décès de l’âge de l’AVS.  L’assuré est mort à 63 ans, la différence entre l’âge au moment du décès et l’âge de l’AVS est donc de 2 ans.  Le taux d’atténuation applicable à la réduction à vie prévue pour la rente mensuelle de vieillesse dès l’âge de l’AVS est de 2 × 4,42 % = 8,84 %.
+- 3\. Le montant de la réduction à vie de la rente mensuelle de vieillesse dès l’âge de l’AVS doit être atténué à hauteur de ce taux.  La réduction mensuelle à l’âge de l’AVS, en cas de retraite à 60 ans, est de 310,60 francs (selon annexe 5, ch. I, exemple 1, let. a) et elle est atténuée de 27,45 francs (8,84 % de 310,60 francs). La réduction définitive s’élève ainsi à 283,15 francs.
 - 4\. La rente de vieillesse réduite s’élève donc à 5716,85 francs (6000 francs moins 283,15 francs), et la rente de survivants à 3811,35 francs (⅔ de la rente de vieillesse réduite).
 
-Annexe 6*[^t-6]*
+Annexe 6[^t-6]
 
 (art. 103, al. 2, 108*b*, al. 1, 108*c*, al. 1, et 108*i*, al. 1)
 
@@ -2705,7 +2706,7 @@ Montant selon tableaux 1 ou 2 × part du salarié × (RT mensuelle/1000) = rédu
 - a. âge AVS 65: 304,70 × 0,5 × 2,32 = **353,45 francs**
 - b. âge AVS 64: 246,95 × 0,5 × 2,32 = **286,45 francs**
 
-Annexe 6a*[^t-7]*
+Annexe 6a[^t-7]
 
 (art. 3*a*, 36, al. 2, let. a, ainsi que 36*a*, al. 1 et 2, let. a<sup>bis</sup>)
 
@@ -2833,7 +2834,7 @@ Exemple:
 <tr><td>50</td><td>Fr. 350 000,00</td><td>Fr. 100 000,.00</td><td>517,69%</td><td>79,65%\*</td></tr>
 </table>
 
-**Avoir vieil. max.** = montant maximum de l’avoir de vieillesse selon l’art. 36
+**Avoir vieil. max.**= montant maximum de l’avoir de vieillesse selon l’art. 36
 
 **Avoir ES max.**\* = montant maximum de l’avoir d’épargne spécial supplémentaire selon l’art. 36*a*, al. 1, obtenu par le versement de cotisations d’épargne supplémentaires de l’employeur par rapport au montant maximum de l’avoir de vieillesse
 
@@ -2913,11 +2914,11 @@ Exemple:
 Exemple:
 
 <table>
-<tr><th>Âge</th><th>Avoir de vieillesse</th><th>Gain assuré</th><th>**Avoir vieil. max.**</th><th>**Avoir ES max.****\***</th><th>**Avoir ES max.\*****\* (var. 1)**</th><th>**Avoir ES max.\*****\* (var. 2)**</th></tr>
+<tr><th>Âge</th><th>Avoir de vieillesse</th><th>Gain assuré</th><th>**Avoir vieil. max.**</th><th>**Avoir ES max.****\***</th><th>**Avoir ES max.\*****\*** **(var. 1)**</th><th>**Avoir ES max.\*****\* (var. 2)**</th></tr>
 <tr><td>50</td><td>Fr. 350 000,00</td><td>Fr. 100 000,00</td><td>458,25 %</td><td>0,,00 %\*</td><td>28,00 %\*\*</td><td>56,00 %\*\*</td></tr>
 </table>
 
-**Avoir vieil. max.** = montant maximum de l’avoir de vieillesse selon l’art. 36
+**Avoir vieil. max.**= montant maximum de l’avoir de vieillesse selon l’art. 36
 
 **Avoir ES max.**\* = montant maximum de l’avoir d’épargne spécial supplémentaire selon l’art. 36*a*, al. 1, obtenu par le versement de cotisations d’épargne supplémentaires de l’employeur par rapport au montant maximum de l’avoir de vieillesse
 
@@ -2957,7 +2958,7 @@ Exemple:
 <tr><td>**Montant de rachat maximum dans le plan standard en cas de versement de cotisations d’épargne supplémentaires de l’employeur et de paiement de cotisations d’épargne volontaires (var. 2) par rapport au montant de rachat maximum dans le plan standard**</td><td>**Fr. 56 000,00**</td></tr>
 </table>
 
-Annexe 7*[^t-8]*
+Annexe 7[^t-8]
 
 (art. 5)
 

@@ -4,11 +4,11 @@ title: Vorsorgereglement vom 15. Juni 2007 für die Angestellten und die Rentenb
 short: VRAB
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/190"
 language: de
-version: 2021-01-01
+version: 2022-07-01
 adopted: 2007-06-15
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2012-190-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2012-190-20220701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20210101/de"
 
 (VRAB)
 
-vom 15. Juni 2007 (Stand am 1. Januar 2021)
+vom 15. Juni 2007 (Stand am 1. Juli 2022)
 
 Das paritätische Organ des Vorsorgewerks Bund (POB),
 
@@ -131,16 +131,17 @@ Die Finanzierung der Verwaltungskosten, der Gebühren der Aufsichtsbehörde und 
 Versicherte Personen und Rentenbeziehende, die Anspruch auf Leistungen von PUBLICA haben, oder deren Hinterlassene haben insbesondere unverzüglich schriftlich zu melden:
 
 - a. die Heirat oder die Wiederverheiratung beziehungsweise das Eingehen einer Lebenspartnerschaft im Sinne von Artikel 45 im Falle eines Anspruchs auf Ehegatten- oder Lebenspartnerrente;
-- b. die Eintragung einer Partnerschaft gemäss PartG im Falle eines Anspruchs auf Ehegatten- oder Lebenspartnerrente;
+- b.[^10-2] …
 - c. den Abschluss der Ausbildung bzw. die Erlangung der Erwerbsfähigkeit eines Kindes, für das ein Anspruch auf Kinder- bzw. Waisenrente über das 18. Altersjahr hinaus besteht;
 - d. den Tod der versicherten oder der rentenbeziehenden Person.
 
-<sup>3</sup> Versicherte Personen und Rentenbeziehende mit Anspruch auf Invalidenleistungen von PUBLICA haben darüber hinaus die anrechenbaren Leistungen und Einkünfte nach Artikel 77 Absatz 1, deren Veränderungen sowie Änderungen des Invaliditätsgrades und der Rentenhöhe unverzüglich und unaufgefordert schriftlich zu melden.[^10-2]
+<sup>3</sup> Versicherte Personen und Rentenbeziehende mit Anspruch auf Invalidenleistungen von PUBLICA haben darüber hinaus die anrechenbaren Leistungen und Einkünfte nach Artikel 77 Absatz 1, deren Veränderungen sowie Änderungen des Invaliditätsgrades und der Rentenhöhe unverzüglich und unaufgefordert schriftlich zu melden.[^10-3]
 
 <sup>4</sup> Ansprüche gegenüber anderen Versicherungen oder Haftpflichtigen sind PUBLICA unverzüglich und unaufgefordert schriftlich zu melden.
 
 [^10-1]: Fassung gemäss Ziff. I der Änd. des POB vom 21. März, 7. Mai und 30. Sept. 2019, vom BR genehmigt am 30. Okt. 2019 und in Kraft seit 1. Jan. 2020 ([AS 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
-[^10-2]: Fassung gemäss Ziff. I des Beschlusses des POB vom 15. Febr. 2018, vom BR genehmigt am 25. April 2018, in Kraft seit 1. Mai 2018 ([AS 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^10-2]: Aufgehoben durch Ziff. I der Änd. des POB vom 13. Sept. 2022, vom BR genehmigt am 23. Nov. 2022 und mit Wirkung seit 1. Juli 2022 (AS **20****22** 748).
+[^10-3]: Fassung gemäss Ziff. I des Beschlusses des POB vom 15. Febr. 2018, vom BR genehmigt am 25. April 2018, in Kraft seit 1. Mai 2018 ([AS 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
 #### Art. 11
 
@@ -215,7 +216,7 @@ Die Versicherung endet:
 
 - a.[^18-1] mit der Beendigung des Arbeitsverhältnisses, sofern in diesem Zeitpunkt kein Anspruch auf Alters- oder Invalidenleistungen fällig wird und die Versicherung nicht nach Artikel 18*d* weitergeführt wird;
 - b.[^18-2] bei Vollendung des 65. Altersjahres, unter Vorbehalt von Artikel 18*b.*
-- c.[^18-3] ...
+- c.[^18-3] …
 
 <sup>2</sup> Für die Risiken Tod und Invalidität bleibt die betreffende Person während eines Monats nach Beendigung des Arbeitsverhältnisses bei PUBLICA versichert. Die Leistungen entsprechen jenen, die bei Beendigung des Arbeitsverhältnisses versichert waren. Wird vorher ein neues Vorsorgeverhältnis begründet, so ist die neue Vorsorgeeinrichtung zuständig.
 
@@ -376,7 +377,7 @@ Für die einzelnen Vorsorgepläne gelten folgende Sparbeiträge:
 
 <sup>4</sup> Die Änderung der Beitragsklasse nach Absatz 1 erfolgt auf den 1. Januar des Jahres, in dem die entsprechende Altersklasse erreicht wird.
 
-<sup>5</sup> ...[^24-2]
+<sup>5</sup> …[^24-2]
 
 [^24-1]: Fassung gemäss Ziff. I der Änd. des POB vom 21. März, 7. Mai und 30. Sept. 2019, vom BR genehmigt am 30. Okt. 2019 und in Kraft seit 1. Jan. 2020 ([AS 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
 [^24-2]: Aufgehoben durch Beschluss des POB vom 8. Sept. 2010, vom BR genehmigt am 24. Nov. 2010, mit Wirkung seit 1. Jan. 2011 ([BBl 2010 9039](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
@@ -403,7 +404,7 @@ Für die einzelnen Vorsorgepläne gelten folgende Sparbeiträge:
 <tr><td>45–70</td><td>3,0</td><td>6,0.[^25-2]</td></tr>
 </table>
 
-<sup>3</sup> ...[^25-3]
+<sup>3</sup> …[^25-3]
 
 <sup>4</sup> Grundlage für die Festsetzung des freiwilligen Sparbeitrags ist der versicherte Verdienst der versicherten Person.[^25-4]
 
@@ -645,7 +646,7 @@ Vom Altersguthaben werden abgezogen:
 - b.[^36-7] der Anteil der Austrittsleistung, der infolge Scheidung zugunsten des berechtigten Ehegatten oder der berechtigten Ehegattin übertragen wurde, soweit er nicht von einem Sondersparguthaben abgezogen werden kann (Art. 100 Abs. 2 erster Satz);
 - c.[^36-8] der Anteil des Altersguthabens, der infolge Teilpensionierung in eine Altersleistung umgewandelt wurde (Art. 38).
 
-<sup>4–8</sup> ...[^36-9]
+<sup>4–8</sup> …[^36-9]
 
 [^36-1]: Fassung gemäss Ziff. I des Beschlusses des POB vom 21. Mai 2013, vom BR genehmigt am 14. Juni 2013 und in Kraft seit 1. Juli 2013 ([AS 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)).
 [^36-2]: Fassung gemäss Ziff. I des Beschlusses des POB vom 6. Sept. 2016, vom BR genehmigt am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ([AS 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
@@ -734,7 +735,7 @@ Das paritätische Organ bestimmt jeweils Ende Jahr die Zinssätze für:
 
 <sup>1</sup> Wird der Lohn der versicherten Person nach dem vollendeten 60. Altersjahr in einem oder mehreren Schritten reduziert, so hat sie für jede Reduktion Anspruch auf eine Altersrente, die der Reduktion des versicherten Verdienstes entspricht.[^38-1]
 
-<sup>2</sup> ...[^38-2]
+<sup>2</sup> …[^38-2]
 
 <sup>3</sup> Das Altersguthaben (Art. 36) sowie ein Sondersparguthaben (Art. 36*a*) werden bei Teilpensionierung anteilmässig in eine Teilaltersleistung nach Artikel 39 umgewandelt. Die verbleibenden Teile des Altersguthabens und eines Sondersparguthabens werden weitergeführt. Der verbleibende versicherte Verdienst wird nach den Bestimmungen über die Teilzeitbeschäftigung (Art. 21) berechnet.[^38-3]
 
@@ -763,7 +764,7 @@ Das paritätische Organ bestimmt jeweils Ende Jahr die Zinssätze für:
 
 <sup>1</sup> Bei Altersrücktritt können bis zu 100 Prozent der Summe aus dem Altersguthaben nach Artikel 36 sowie aus einem Sondersparguthaben (Art. 36*a*), welche in diesem Zeitpunkt für die Altersleistung ausgeschieden wird, als einmalige Kapitalabfindung bezogen werden. Meldet die versicherte Person den Kapitalbezug weniger als drei Monate vor dem Rücktritt, so werden ihr die Verwaltungskosten gemäss Kostenreglement in Rechnung gestellt; die Kapitalabfindung wird nach Bezahlung der Verwaltungskosten überwiesen.[^40-1]
 
-<sup>2</sup> ...[^40-2]
+<sup>2</sup> …[^40-2]
 
 <sup>3</sup> Wird das Arbeitsverhältnis einer versicherten Person, die eine Kapitalabfindung beziehen kann, ohne deren Verschulden durch den Arbeitgeber aufgelöst, so kann die versicherte Person den Kapitalbezug oder die einmalige Änderung eines bereits gemeldeten Kapitalbezugs bis zum Altersrücktritt melden. Für die Bezahlung der Verwaltungskosten gilt Absatz 1 sinngemäss.[^40-3]
 
@@ -933,7 +934,7 @@ Die jährliche Ehegatten- und die Lebenspartnerrente betragen:
 
 <sup>2</sup> Ist der überlebende Ehegatte bzw. Lebenspartner oder die überlebende Ehegattin bzw. Lebenspartnerin mehr als 15 Jahre jünger als die verstorbene Person und hat die Ehe bzw. die Lebenspartnerschaft weniger als 5 Jahre gedauert und muss die überlebende Person nicht für den Unterhalt von wenigstens einem Kind aufkommen, so wird die Rente um zwei Prozent ihres vollen Betrages für jedes ganze oder angebrochene Jahr gekürzt, um das die überlebende anspruchsberechtigte Person mehr als 15 Jahre jünger ist als die verstorbene Person.
 
-<sup>3</sup> Die Ehegattenrente nach Artikel 44 Absatz 5 entspricht höchstens dem Betrag der Ehegattenrente gemäss BVG. ...[^46-1]
+<sup>3</sup> Die Ehegattenrente nach Artikel 44 Absatz 5 entspricht höchstens dem Betrag der Ehegattenrente gemäss BVG. …[^46-1]
 
 <sup>4</sup> Sie wird um jenen Betrag gekürzt, um den sie zusammen mit den Hinterlassenenleistungen der AHV den Anspruch aus dem Scheidungsurteil übersteigt. Hinterlassenenrenten der AHV werden dabei nur so weit angerechnet, als sie höher sind als ein eigener Anspruch auf eine Invalidenrente der IV oder eine Altersrente der AHV.[^46-2]
 
@@ -1048,7 +1049,7 @@ Das Todesfallkapital entspricht der Hälfte des Altersguthabens im Zeitpunkt des
 
 **Invalidität**
 
-<sup>1</sup> ...[^51-1]
+<sup>1</sup> …[^51-1]
 
 <sup>2</sup>
 
@@ -1205,7 +1206,7 @@ Die Invaliden-Kinderrente beträgt einen Sechstel der Invalidenrente; bei Scheid
 
 [^59-1]: Fassung gemäss Ziff. I des Beschlusses des POB vom 6. Sept. 2016, vom BR genehmigt am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ([AS 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 
-## 7. Kapitel: Überbrückungsrente und Sozialplan****
+## 7. Kapitel: Überbrückungsrente und Sozialplan
 
 [^chap7-1]
 
@@ -1487,7 +1488,7 @@ Die versicherte Person hat den Nachweis für das Bestehen eines Barauszahlungsgr
 
 <sup>4</sup> Verlegt die versicherte Person ihren Wohnsitz in einen Mitgliedstaat der Europäischen Union, nach Island oder nach Norwegen und untersteht sie in diesem Staat weiterhin der obligatorischen Versicherung für das Alter und gegen die Risiken Tod und Invalidität, so kann sie die Barauszahlung im Umfang des bis zum Austritt aus PUBLICA erworbenen Altersguthabens nach Artikel 15 BVG nicht verlangen.
 
-<sup>5</sup> ...[^83-2]
+<sup>5</sup> …[^83-2]
 
 <sup>6</sup> Bei verheirateten versicherten Personen setzt die Barauszahlung der Austrittsleistung die schriftliche Zustimmung des Ehegatten oder der Ehegattin mittels beglaubigter Unterschrift voraus. Statt die Unterschrift beglaubigen zu lassen, kann der Ehegatte oder die Ehegattin bei PUBLICA die Zustimmungserklärung persönlich unter Vorlage eines amtlichen Personalausweises unterschreiben.
 
@@ -1543,11 +1544,11 @@ Der Mindestbetrag nach Artikel 17 FZG setzt sich unter Abzug von Vorbezügen fü
 
 <sup>3</sup> Der Zinssatz für die Verzinsung nach Absatz 2 richtet sich nach dem FZG. Während der Dauer einer Unterdeckung kann er auf den Zinssatz, mit dem die Altersguthaben verzinst werden, herabgesetzt werden.[^85-3]
 
-<sup>4</sup> Die allenfalls zur Behebung einer Unterdeckung erhobenen Beiträge (Art. 34) werden nicht angerechnet (Art. 17 Abs. 2 Bst. f FZG). ...[^85-4]
+<sup>4</sup> Die allenfalls zur Behebung einer Unterdeckung erhobenen Beiträge (Art. 34) werden nicht angerechnet (Art. 17 Abs. 2 Bst. f FZG). …[^85-4]
 
 <sup>5</sup> Für Sparbeiträge, welche die versicherte Person bei unbezahltem Urlaub nach Artikel 18*a,* Weiterführung der Vorsorge nach Artikel 18*c* oder Weiterführung der Versicherung nach Artikel 18*d* anstelle des Arbeitgebers geleistet hat, wird kein Zuschlag nach Absatz 2 Buchstabe b berechnet.[^85-5]
 
-<sup>6</sup> ...[^85-6]
+<sup>6</sup> …[^85-6]
 
 [^85-1]: Fassung gemäss Ziff. I der Beschlüsse des POB vom 19. Juni 2018 und vom 8. Okt. 2018, vom BR genehmigt am 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
 [^85-2]: Fassung gemäss Ziff. I der Beschlüsse des POB vom 19. Juni 2018 und vom 8. Okt. 2018, vom BR genehmigt am 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4749](https://fedlex.data.admin.ch/eli/oc/2018/754)).
@@ -1581,7 +1582,7 @@ Die versicherte Person und die neue Vorsorgeeinrichtung beziehungsweise die Frei
 - a. die Höhe des Altersguthabens gemäss Artikel 36;
 - b. die Höhe des Mindestbetrags gemäss Artikel 85 Absatz 2 (Art. 17 FZG);
 - c. die Höhe des Altersguthabens gemäss Artikel 15 BVG;
-- d.[^88-1] ...
+- d.[^88-1] …
 - e.[^88-2] Informationen betreffend Vorbezüge für die Wohneigentumsförderung gemäss den Artikeln 91–98;
 - f. Informationen betreffend die Verpfändung des Anspruchs auf Vorsorgeleistungen gemäss den Artikeln 91 und 94;
 - g.[^88-3] gegebenenfalls die Höhe des Altersguthabens bei Vollendung des 50. Altersjahres;
@@ -1871,7 +1872,7 @@ Wird eine Person, die eine vor dem 1. Juni 2003 entstandene Invalidenrente oder 
 
 <sup>1</sup> Die Garantie setzt voraus, dass bis zum Beginn des Rentenanspruchs die reglementarischen Sparbeiträge des Arbeitgebers und der angestellten Person lückenlos und entsprechend dem Beschäftigungsgrad am Vortag des Inkrafttretens dieses Reglements bezahlt wurden.
 
-<sup>2</sup> ...[^108-1]
+<sup>2</sup> …[^108-1]
 
 <sup>3</sup> Nach dem Inkrafttreten dieses Reglements geleistete Einkäufe, Rückzahlungen von Vorbezügen für die Wohneigentumsförderung oder Einlagen infolge Scheidung beeinflussen den Garantieanspruch nicht.
 
@@ -2087,7 +2088,7 @@ Versicherte, die vor dem 1. Dezember 2020 das 62. Altersjahr vollendet und vor d
 
 <sup>2</sup> Änderungen des Vorsorgereglements stellen eine Änderung des Anschlussvertrags dar. Sie bedürfen zu ihrer Gültigkeit der Zustimmung der Vertragspartner des Anschlussvertrags und des paritätischen Organs.
 
-## Anhänge****
+## Anhänge
 
 [^lvlu14-1]
 
@@ -2119,7 +2120,7 @@ Anhang 6a Vorsorgepläne für Angehörige der besonderen Personalkategorien
 
 Anhang 7 Abkürzungsverzeichnis
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 8)
 
@@ -2147,7 +2148,7 @@ Verzinsung der Altersguthaben im Vorjahr: 1,25 %.
 
 [^annex1-lvlu1-1]: Die aktuellen Zinssätze sind auf der Homepage von PUBLICA abrufbar.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 32 Abs. 1 und 32*b*)
 
@@ -2241,7 +2242,7 @@ Beispiel:
 </table>
 
 <table>
-<tr><td>**Zusätzliches max. Sondersparguthaben Standardplan (Var. 1) im Vergleich zum maximalen Altersguthaben Standardplan (ohne fre****i****willige Sparbeiträge)**</td><td>**Fr. 37 220.00**</td></tr>
+<tr><td>**Zusätzliches max. Sondersparguthaben Standardplan (Var. 1) im Vergleich zum maximalen Altersguthaben Standardplan (ohne freiwillige Sparbeiträge)**</td><td>**Fr. 37 220.00**</td></tr>
 </table>
 
 <table>
@@ -2254,10 +2255,10 @@ Beispiel:
 </table>
 
 <table>
-<tr><td>**Zusätzliches max. Sondersparguthaben Standar****d****plan (Var. 2) im Vergleich zum maximalen Altersguthaben Sta****n****dardplan (ohne freiwillige Sparbeiträge)**</td><td>**Fr. 79 650.00**</td></tr>
+<tr><td>**Zusätzliches max. Sondersparguthaben Standardplan (Var. 2) im Vergleich zum maximalen Altersguthaben Standardplan (ohne freiwillige Sparbeiträge)**</td><td>**Fr. 79 650.00**</td></tr>
 </table>
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 39 Abs. 2 und 57 Abs. 1)
 
@@ -2280,7 +2281,7 @@ Anhang 3*[^t-3]*
 <tr><td>70</td><td>5,96 %</td></tr>
 </table>
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 (Art. 60 Abs. 4 Bst. a und b)
 
@@ -2381,7 +2382,7 @@ Berechnung:
 - a. AHV-Alter 65: 22.571 × 241.90 × 12 = **Fr. 65 519.10**
 - b. AHV-Alter 64: 21.346 × 207.85 × 12 = **Fr. 53 241.20**
 
-Anhang 5*[^t-5]*
+Anhang 5[^t-5]
 
 (Art. 60 Abs. 4 Bst. c und 5)
 
@@ -2478,7 +2479,7 @@ Berechnung/Kürzung der Ehegatten-, Lebenspartnerrente:
 - 3\. Der Betrag der lebenslänglichen Kürzung der monatlichen Altersrente bei Erreichen des AHV-Alters ist um diesem Satz zu kürzen. 🡪 Die monatliche Kürzung im AHV-Alter bei Pensionierung im Alter 60 beträgt Fr. 310.60 (gemäss Anhang 5 I Beispiel 1 Bst. a) und wird um Fr. 27.45 (8,84 % von 310.60) reduziert. Die definitive Kürzung beträgt somit Fr. 283.15.
 - 4\. Die gekürzte Altersrente beträgt also Fr. 5716.85 (Fr. 6000.– minus Fr. 283.15), die Hinterlassenenrente Fr. 3811.35 (⅔ der gekürzten Alters-rente).
 
-Anhang 6*[^t-6]*
+Anhang 6[^t-6]
 
 (Art. 103 Abs. 2, 108*b* Abs. 1, 108*c* Abs. 1 und 108*i* Abs. 1)
 
@@ -2681,7 +2682,7 @@ Betrag gemäss Tabelle 1 oder 2 × Anteil des Arbeitnehmers × (ÜR pro Monat/ 1
 - a. AHV-Alter 65: 304.70 × 0.5 × 2.32 = **Fr. 353.45**
 - b. AHV-Alter 64: 246.95 × 0.5 × 2.32 = **Fr. 286.45**
 
-Anhang 6a*[^t-7]*
+Anhang 6a[^t-7]
 
 (Art. 3*a*, 36 Abs. 2 Bst. a sowie 36*a* Abs. 1 und 2 Bst. a<sup>bis</sup>)
 
@@ -2809,7 +2810,7 @@ Beispiel:
 <tr><td>50</td><td>Fr. 350 000.00</td><td>Fr. 100 000.00</td><td>517.69%</td><td>79.65%\*</td></tr>
 </table>
 
-**Max. AGH** = maximales Altersguthaben nach Artikel 36
+**Max. AGH**= maximales Altersguthaben nach Artikel 36
 
 **Max. SGH**\* = zusätzliches maximales Sondersparguthaben nach Artikel 36*a* Absatz 1 aufgrund der Entrichtung zusätzlicher Sparbeiträge des Arbeitgebers im Vergleich zum maximalen Altersguthaben
 
@@ -2831,7 +2832,7 @@ Beispiel:
 </table>
 
 <table>
-<tr><td>**Maximaler Einkauf im Standardplan, wenn zusätzliche Sparbeiträge des Arbeitgebers geleistet werden, im Vergleich zum maximalen Einkauf im Standardplan**</td><td>**Fr. 79 650.00**</td></tr>
+<tr><td>**Maximaler Einkauf im Standardplan, wenn zusätzliche Sparbeiträge** **des Arbeitgebers geleistet werden, im Vergleich zum maximalen Einkauf im Standardplan**</td><td>**Fr. 79 650.00**</td></tr>
 </table>
 
 <sup>2</sup> In den Vorsorgeplänen für versetzungspflichtige Angestellte des EDA kann die versicherte Person innerhalb der vom BVG festgelegten Grenzen einen Einkauf bis zur Vollendung des 65. Altersjahres gemäss folgender Tabelle tätigen:
@@ -2893,7 +2894,7 @@ Beispiel:
 <tr><td>50</td><td>Fr. 350 000.00</td><td>Fr. 100 000.00</td><td>458.25 %</td><td>0.00 %\*</td><td>28.00 %\*\*</td><td>56.00 %\*\*</td></tr>
 </table>
 
-**Max. AGH** = maximales Altersguthaben nach Artikel 36
+**Max. AGH**= maximales Altersguthaben nach Artikel 36
 
 **Max. SGH**\* = zusätzliches maximales Sondersparguthaben nach Artikel 36*a* Absatz 1 aufgrund der Entrichtung zusätzlicher Sparbeiträge des Arbeitgebers im Vergleich zum maximalen Altersguthaben
 
@@ -2917,7 +2918,7 @@ Beispiel:
 </table>
 
 <table>
-<tr><td>**Maximaler Einkauf im Standardplan, wenn zusätzliche Sparbeiträge des Arbeitgebers und freiwillige Sparbeiträge (Var. 1) geleistet werden, im Vergleich zum maximalen Einkauf im Standardplan**</td><td>**Fr. 28 000.00**</td></tr>
+<tr><td>**Maximaler Einkauf im Standardplan, wenn zusätzliche Sparbeiträge** **des Arbeitgebers und freiwillige Sparbeiträge (Var. 1) geleistet werden, im Vergleich zum maximalen Einkauf im Standardplan**</td><td>**Fr. 28 000.00**</td></tr>
 </table>
 
 <table>
@@ -2930,10 +2931,10 @@ Beispiel:
 </table>
 
 <table>
-<tr><td>**Maximaler Einkauf im Standardplan, wenn** **zusätzliche Sparbeiträge des Arbeitgebers und** **freiwillige Sparbeiträge (Var. 2) geleistet werden, im Vergleich zum maximalen Einkauf im Standardplan**</td><td>**Fr. 56 000.00**</td></tr>
+<tr><td>**Maximaler Einkauf im Standardplan, wenn** **zusätzliche Sparbeiträge** **des Arbeitgebers und** **freiwillige Sparbeiträge (Var. 2) geleistet werden, im Vergleich zum maximalen Einkauf im Standardplan**</td><td>**Fr. 56 000.00**</td></tr>
 </table>
 
-Anhang 7*[^t-8]*
+Anhang 7[^t-8]
 
 (Art. 5)
 

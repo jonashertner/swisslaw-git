@@ -4,11 +4,11 @@ title: Regolamento di previdenza del 15 giugno 2007 per gli impiegati e i benefi
 short: RPIC
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/190"
 language: it
-version: 2021-01-01
+version: 2022-07-01
 adopted: 2007-06-15
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2012-190-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2012-190-20220701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20210101/it"
 
 (RPIC)
 
-del 15 giugno 2007 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 15 giugno 2007 (Stato 1° luglio 2022)
 
 L’organo paritetico della Cassa di previdenza della Confederazione (OPC),
 
@@ -81,8 +81,8 @@ Per i contributi di risparmio (art. 24), i contributi volontari di risparmio (ar
 
 [^3a-1]: Introdotto dal n. I della Dec. dell’OPC del 21 mag. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)).
 [^3a-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 25 nov. 2015, approvata dal CF il 3 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 1789](https://fedlex.data.admin.ch/eli/oc/2016/321)).
-[^3a-3]: Introdotto dal n. I della Dec. dell’OPC del 21 mar. 2019, approvata dal CF del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1241](https://fedlex.data.admin.ch/eli/oc/2019/237)).
-[^3a-4]: Introdotto dal n. I della Dec. dell’OPC del 21 mar. 2019, approvata dal CF del 10 apr. 2019, in vigore dal 1° gen. 2020 ([RU 2019 1241](https://fedlex.data.admin.ch/eli/oc/2019/237)).
+[^3a-3]: Introdotto dal n. I della Dec. dell’OPC del 21 mar. 2019, approvata dal CF il 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1241](https://fedlex.data.admin.ch/eli/oc/2019/237)).
+[^3a-4]: Introdotto dal n. I della Dec. dell’OPC del 21 mar. 2019, approvata dal CF il 10 apr. 2019, in vigore dal 1° gen. 2020 ([RU 2019 1241](https://fedlex.data.admin.ch/eli/oc/2019/237)).
 
 #### Art. 4
 
@@ -131,16 +131,17 @@ Il finanziamento delle spese amministrative, degli emolumenti dell’autorità d
 Gli assicurati e i beneficiari di rendite che hanno diritto a prestazioni di PUBLICA o i loro superstiti devono in particolare comunicare per scritto, senza indugio:
 
 - a. il matrimonio o il nuovo matrimonio nonché l’inizio di una convivenza ai sensi dell’articolo 45, nel caso del diritto a una rendita per coniugi o conviventi;
-- b. la registrazione di un’unione domestica ai sensi della LUD, nel caso del diritto a una rendita per coniugi o conviventi;
+- b.[^10-2] ...
 - c. la conclusione della formazione o il raggiungimento dell’abilità al lavoro di un figlio per il quale sussiste il diritto alla rendita per figli rispettivamente per orfani oltre il 18° anno di età;
 - d. il decesso della persona assicurata o del beneficiario della rendita.
 
-<sup>3</sup> Gli assicurati e i beneficiari di rendite aventi diritto a prestazioni di invalidità di PUBLICA devono inoltre comunicare spontaneamente per scritto e senza indugio le prestazioni e i proventi computabili ai sensi dell’articolo 77 capoverso 1, le loro modifiche, nonché i cambiamenti del grado di invalidità e dell’entità della rendita.[^10-2]
+<sup>3</sup> Gli assicurati e i beneficiari di rendite aventi diritto a prestazioni di invalidità di PUBLICA devono inoltre comunicare spontaneamente per scritto e senza indugio le prestazioni e i proventi computabili ai sensi dell’articolo 77 capoverso 1, le loro modifiche, nonché i cambiamenti del grado di invalidità e dell’entità della rendita.[^10-3]
 
 <sup>4</sup> I diritti nei confronti di altre assicurazioni o di altri responsabili devono essere comunicati spontaneamente per scritto e senza indugio a PUBLICA.
 
 [^10-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 21 mar., 7 mag. e 30 set. 2019, approvata dal CF il 30 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
-[^10-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° mag. 2018 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
+[^10-2]: Abrogata dal n. I della Dec. dell’OPC del 13 set. 2022, approvata dal CF il 23 nov. 2022, con effetto dal 1° lug. 2022 ([RU 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
+[^10-3]: Nuovo testo giusta il n. I della Dec. dell’OPC del 15 feb. 2018, approvata dal CF il 25 apr. 2018, in vigore dal 1° mag. 2018 ([RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
 #### Art. 11
 
@@ -1205,7 +1206,7 @@ La rendita per figli del beneficiario di una rendita di invalidità ammonta a un
 
 [^59-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 6 set. 2016, approvata dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 
-## Capitolo 7: Rendita transitoria e piano sociale****
+## Capitolo 7: Rendita transitoria e piano sociale
 
 [^chap7-1]
 
@@ -2059,7 +2060,7 @@ Se è nato un diritto alla rendita di invalidità o di invalidità professionale
 
 <sup>2</sup> Per le persone appartenenti al più tardi dal 30 aprile 2019 alle suddette particolari categorie di personale e che non hanno né compiuto il 50° anno di età né prestato 23 anni di servizio prima del 1° gennaio 2020, fino al 31 dicembre 2019 i contributi di risparmio, il versamento dei contributi volontari di risparmio e il riscatto sono retti dall’allegato 6*a* nella versione del 15 febbraio 2018.
 
-[^108j-1]: Introdotto dal n. I della Dec. dell’OPC del 21 mar. 2019, approvata dal CF del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1241](https://fedlex.data.admin.ch/eli/oc/2019/237)).
+[^108j-1]: Introdotto dal n. I della Dec. dell’OPC del 21 mar. 2019, approvata dal CF il 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1241](https://fedlex.data.admin.ch/eli/oc/2019/237)).
 [^108j-2]: [RU 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)
 
 #### Art. 108k
@@ -2089,7 +2090,7 @@ Gli assicurati che hanno compiuto il 62° anno di età prima del 1° dicembre 20
 
 <sup>2</sup> Le modifiche del regolamento di previdenza costituiscono una modifica del contratto di affiliazione. La loro validità è subordinata al consenso della parte contraente al contratto di affiliazione e dell’organo paritetico.
 
-## Allegati****
+## Allegati
 
 [^lvlu14-1]
 
@@ -2125,7 +2126,7 @@ Allegato 6*a* Piani previdenziali per le persone appartenenti a particolari cate
 
 Allegato 7 Elenco delle abbreviazioni
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 8)
 
@@ -2153,7 +2154,7 @@ Remunerazione dell’avere di vecchiaia nell’anno precedente: 1,25 %.
 
 [^annex1-lvlu1-1]: Gli interessi attuali sono disponibili sul sito di PUBLICA.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 32 cpv. 1 e 32*b*)
 
@@ -2263,7 +2264,7 @@ Esempio:
 <tr><td>**ARS max. supplementare piano standard (var. 2) rispetto all’importo massimo dell’AV piano standard (senza contributi volontari di risparmio)**</td><td>**fr. 79 650.00**</td></tr>
 </table>
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 39 cpv. 2 e 57 cpv. 1)
 
@@ -2286,7 +2287,7 @@ Allegato 3*[^t-3]*
 <tr><td>70</td><td>5,96 %</td></tr>
 </table>
 
-Allegato 4*[^t-4]*
+Allegato 4[^t-4]
 
 (art. 60 cpv. 4 lett. a e b)
 
@@ -2387,7 +2388,7 @@ Calcolo:
 - a. età AVS 65: 22.571 × 241.90 × 12 = **fr. 65 519.10**
 - b. età AVS 64: 21.346 × 207.85 × 12 = **fr. 53 241.20**
 
-Allegato 5*[^t-5]*
+Allegato 5[^t-5]
 
 (art. 60 cpv. 4 lett. c e 5)
 
@@ -2484,7 +2485,7 @@ Calcolo/riduzione della rendita per coniugi / conviventi:
 - 3\. L’importo della riduzione a vita della rendita mensile di vecchiaia al raggiungimento dell’età AVS va diminuito di questo tasso. 🡪 La riduzione mensile all’età AVS in caso di pensionamento all’età di 60 anni ammonta a fr. 310.60 (secondo l’all. 5 n. I, es. 1 lett. a) e questo importo viene diminuito di fr. 27.45 (8,84 % di fr. 310.60). La riduzione definitiva ammonta pertanto a fr. 283.15.
 - 4\. La rendita di vecchiaia ridotta ammonta quindi a fr. 5716.85 (fr. 6000 meno fr. 283.15), la rendita per superstiti a fr. 3811.25 (⅔ della rendita di vecchiaia ridotta).
 
-Allegato 6*[^t-6]*
+Allegato 6[^t-6]
 
 (art. 103 cpv. 2, 108*b* cpv. 1, 108*c* cpv. 1 e 108*i* cpv. 1)
 
@@ -2687,13 +2688,13 @@ Importo secondo le tabelle 1 o 2 × quota del lavoratore × (RT al mese/1000) = 
 - a. età AVS 65: 304.70 × 0.5 × 2.32 = **fr. 353.45**
 - b. età AVS 64: 246.95 × 0.5 × 2.32 = **fr. 286.45**
 
-Allegato 6a*[^t-7]*
+Allegato 6a[^t-7]
 
 (art. 3*a*, 36 cpv. 2 lett. a, 36*a* cpv. 1 e 2 lett. a<sup>bis</sup>)
 
 ## Piani previdenziali per le persone appartenenti a particolari categorie di personale
 
-[^t-7]: Introdotto dal n. II cpv. 1 della Dec. dell’OPC del 21 mag. 2013, approvata dal CF il 14 giu. 2013 ([RU 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)). Nuovo testo giusta il n. II della Dec. dell’OPC del 21 mar. 2019, approvata dal CF del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1241](https://fedlex.data.admin.ch/eli/oc/2019/237)).
+[^t-7]: Introdotto dal n. II cpv. 1 della Dec. dell’OPC del 21 mag. 2013, approvata dal CF il 14 giu. 2013 ([RU 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)). Nuovo testo giusta il n. II della Dec. dell’OPC del 21 mar. 2019, approvata dal CF il 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1241](https://fedlex.data.admin.ch/eli/oc/2019/237)).
 
 ### Riepilogo
 
@@ -2815,7 +2816,7 @@ Esempio:
 <tr><td>50</td><td>fr. 350 000.00</td><td>fr. 100 000.00</td><td>517,69 %</td><td>79,65 %\*</td></tr>
 </table>
 
-**AV max.** = importo massimo dell’avere di vecchiaia ai sensi dell’articolo 36
+**AV max.**= importo massimo dell’avere di vecchiaia ai sensi dell’articolo 36
 
 **ARS max.**\* = avere supplementare massimo di risparmio speciale ai sensi dell’articolo 36*a* capoverso 1*,* in seguito al versamento dei contributi supplementari di risparmio del datore di lavoro, rispetto all’importo massimo dell’avere di vecchiaia
 
@@ -2939,7 +2940,7 @@ Esempio:
 <tr><td>**Riscatto massimo nel piano standard se vengono versati contributi supplementari di risparmio del datore di lavoro e contributi volontari di risparmio (var. 2), rispetto al riscatto massimo nel piano standard**</td><td>**fr. 56 000.00**</td></tr>
 </table>
 
-Allegato 7*[^t-8]*
+Allegato 7[^t-8]
 
 (art. 5)
 
