@@ -4,13 +4,13 @@ number: VI E/211/1
 title: Gesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel
 short: Kantonales Jagdgesetz
 language: de
-version: 2016-01-01
-valid_until: 2022-06-30
-version_adopted: 2015-05-03
+version: 2022-07-01
+valid_until: 2026-12-31
+version_adopted: 2021-09-05
 adopted: 1979-05-06
 in_force: 1980-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-E.211.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2183/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2624/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2183/pdf_file"
 
 (Kantonales Jagdgesetz)
 
-Vom 06.05.1979 (Stand 01.01.2016)
+Vom 06.05.1979 (Stand 01.07.2022)
 
 (Erlassen von der Landsgemeinde am 6. Mai 1979)[^ingress-1]
 
@@ -45,11 +45,13 @@ Vom 06.05.1979 (Stand 01.01.2016)
 
 <sup>1</sup> Dem Kanton obliegen insbesondere folgende Aufgaben:
 
-- a. Regelung und Planung der Jagd gemäss Artikel 3 Absatz 1 des Bundesgesetzes sowie Überwachung des Jagdwesens;
+- a. Regelung und Planung der Jagd gemäss Artikel 3 Absatz 1 des Bundesgesetzes[^3-1] sowie Überwachung des Jagdwesens;
 - b. die Jagdverwaltung, die Jagdpolizei und die Organisation der Wildhut;
 - c. die Erhaltung eines gesunden Wildbestandes;
 - d. die Erhaltung geschützter Wild- und Vogelarten;
 - e. die Erhaltung, der Schutz und die Verbesserung des Lebensraumes der freilebenden Tiere.
+
+[^3-1]: SR 922.0
 
 #### Art. 4
 
@@ -122,7 +124,7 @@ Vom 06.05.1979 (Stand 01.01.2016)
 
 <sup>3</sup> Dem Regierungsrat steht das Recht zu, im Interesse der Jagd, des Naturschutzes, der Land- und Forstwirtschaft und der Gesundheit von Mensch und Tier einschränkende Verfügungen zu erlassen.
 
-<sup>4</sup> Zum Schutze bestimmter Wildarten oder zur allgemeinen Wildhege kann der Regierungsrat, nach Anhören der betroffenen Gemeinden, Schongebiete, Schutzzonen und Vogelschutzgebiete schaffen.
+<sup>4</sup> Zum Schutze bestimmter Wildarten oder zur allgemeinen Wildhege kann der Regierungsrat, nach Anhören der betroffenen Gemeinden, der Bevölkerung und der Interessenverbände, Schongebiete, Schutzzonen, Vogelschutzgebiete und Wildruhezonen schaffen. Die Gesamtfläche der Wildruhezonen orientiert sich an vergleichbaren Kantonen und Regionen.
 
 #### Art. 8
 
