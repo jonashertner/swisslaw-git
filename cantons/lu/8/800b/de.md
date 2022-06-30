@@ -3,20 +3,19 @@ canton: LU
 number: 800b
 title: Verordnung zum Spitalgesetz
 language: de
-version: 2021-07-01
-valid_until: 2022-06-30
-version_adopted: 2021-06-15
+version: 2022-07-01
+version_adopted: 2022-07-05
 adopted: 2011-11-22
 in_force: 2012-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/800b"
-pdf: "https://srl.lu.ch/api/de/versions/3761/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3929/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Spitalgesetz
 
-vom 22.11.2011 (Stand 01.07.2021)
+vom 22.11.2011 (Stand 01.07.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -34,7 +33,9 @@ beschliesst:
 
 **Dienststelle Gesundheit und Sport[^1-1]**
 
-<sup>1</sup> Die Dienststelle Gesundheit und Sport erteilt die Bewilligung zur medizinisch begründeten Inanspruchnahme eines Spitals oder Geburtshauses gemäss Artikel 41 Absatz 3 des Bundesgesetzes über die Krankenversicherung (KVG) vom 18. März 1994[^1-2].
+<sup>1</sup> Die Dienststelle Gesundheit und Sport entscheidet über die Abgeltung der stationären Leistungen von Spitälern und Geburtshäusern durch den Kanton gemäss Artikel 49a Absatz 1 des Bundesgesetzes über die Krankenversicherung (KVG) vom 18. März 1994[^1-2].
+
+<sup>2</sup> Sie erteilt die Bewilligung zur medizinisch begründeten Inanspruchnahme eines Spitals oder Geburtshauses gemäss Artikel 41 Absatz 3 KVG.
 
 [^1-1]: Gemäss Änderung der SRL Nr. 37 vom 28. Oktober 2014, in Kraft seit dem 1. Januar 2015 (G 2014 369), wurde in den §§ 1, 6 und 12 die Bezeichnung «Dienststelle Gesundheit» durch «Dienststelle Gesundheit und Sport» ersetzt.
 [^1-2]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
@@ -154,39 +155,19 @@ beschliesst:
 
 ## 3 Kantonale Spitäler
 
-### 3.1 Spitalrat der Luzerner Psychiatrie
+### 3.1
 
 #### § 13
 
-**Wahl und Abberufung**
-
-<sup>1</sup> Der Regierungsrat wählt für die Luzerner Psychiatrie einen Spitalrat und aus dessen Mitte den Präsidenten oder die Präsidentin. Im Übrigen konstituiert sich der Spitalrat selbst.
-
-<sup>2</sup> Aus wichtigen Gründen kann der Regierungsrat einzelne Mitglieder oder den ganzen Spitalrat vorzeitig abberufen.
+**…**
 
 #### § 14
 
-**Amtsdauer**
-
-<sup>1</sup> Die Amtsdauer beträgt zwei Jahre. Die Wiederwahl ist möglich.
-
-<sup>2</sup> Die Amtsdauer endet mit deren Ablauf, mit dem Rücktritt, der Abberufung, dem Verlust der Handlungsfähigkeit oder mit dem Tod.
+**…**
 
 #### § 15
 
-**Entschädigung**
-
-<sup>1</sup> Die jährliche Grundentschädigung beträgt:
-
-- a. für Mitglieder 8500 bis 20 000 Franken;
-- b. für den Präsidenten oder die Präsidentin 20 000 bis 50 000 Franken zuzüglich einer pauschalen Entschädigung für Reisespesen bis maximal 3000 Franken.
-- c. …
-
-<sup>2</sup> Den Mitgliedern des Spitalrates werden zusätzlich ausgerichtet:
-
-- a. ein Sitzungsgeld von 600 Franken für Sitzungen des Spitalrates;
-- b. eine Entschädigung von 100 bis 200 Franken pro Stunde für Sitzungen der Ausschüsse oder für Zusatzleistungen;
-- c. eine Entschädigung der Spesen nach Aufwand oder maximal 150 Franken als Pauschale pro Tag.
+**…**
 
 ### 3.2 Investitionsplanung
 
