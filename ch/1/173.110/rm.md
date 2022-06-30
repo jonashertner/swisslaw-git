@@ -4,11 +4,11 @@ title: "Lescha federala dals 17 da zercladur 2005 davart il Tribunal federal (Le
 short: LTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: rm
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-2006-218-20220101-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20220101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20220701/rm/xml/fedlex-data-admin-ch-eli-cc-2006-218-20220701-rm-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20220701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,18 +19,17 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart il tribunal federal, LTF)
 
-dals 17 da zercladur 2005 (versiun dal 1. da schaner 2022)
-
-[^t-1]: <sup>\*</sup> Las designaziuns da persunas, da funcziuns e da professiuns en questa lescha valan tant per persunas femininas sco er masculinas.
+dals 17 da zercladur 2005 (versiun dal 1. da fanadur 2022)
 
 L’Assamblea federala da la Confederaziun svizra,
 
-sa basond sin ils artitgels 188–191*c* da la Constituziun federala[^ingress-1], suenter avair gì invista da la missiva dal Cussegl federal dals 28 da favrer 2001[^ingress-2],
+sa basond sin ils artitgels 188–191*c* da la Constituziun federala[^t-2], suenter avair gì invista da la missiva dal Cussegl federal dals 28 da favrer 2001[^t-3],
 
-concluda:2022
+concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)
+[^t-1]: <sup>\*</sup> Las designaziuns da persunas, da funcziuns e da professiuns en questa lescha valan tant per persunas femininas sco er masculinas.
+[^t-2]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^t-3]: [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)
 
 ## 1. chapitel Posiziun ed organisaziun
 
@@ -1679,11 +1678,12 @@ La revisiun d’ina decisiun dal Tribunal federal po vegnir pretendida, sche:
 
 La revisiun pervia d’ina violaziun da la Convenziun dals 4 da november 1950[^122-1] per la protecziun dals dretgs umans e da las libertads fundamentalas (CEDU) po vegnir pretendida, sche:
 
-- a. il Tribunal europeic dals dretgs umans ha constatà en ina sentenzia definitiva che la CEDU u ses protocols sajan vegnids violads;
+- a.[^122-2] il Tribunal europeic dals dretgs umans ha constatà en ina sentenzia definitiva (art. 44 CEDU) che la CEDU u ils protocols latiers sajan vegnids violads, u ha terminà il cas tras ina cunvegna amicabla (art. 39 CEDU);
 - b. ina indemnisaziun n’è betg adattada per cumpensar las consequenzas da la violaziun; e
 - c. la revisiun è necessaria per eliminar la violaziun.
 
 [^122-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^122-2]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da fan. 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 123
 

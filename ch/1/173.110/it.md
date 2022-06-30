@@ -4,11 +4,11 @@ title: Legge del 17 giugno 2005 sul Tribunale federale (LTF)
 short: LTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: it
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2006-218-20220101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2006-218-20220701-it-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20220101/it"
 
 (LTF)
 
-del 17 giugno 2005 (Stato 1° gennaio 2022)
+del 17 giugno 2005 (Stato 1° luglio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1615,7 +1615,7 @@ Alla procedura di ricorso in materia costituzionale si applicano per analogia gl
 
 <sup>3</sup> Esamina le diverse censure secondo le disposizioni applicabili ai due diversi tipi di ricorso.
 
-## Capitolo 5*a*:**** Revisione di decisioni arbitrali nella giurisdizione arbitrale internazionale
+## Capitolo 5*a*: Revisione di decisioni arbitrali nella giurisdizione arbitrale internazionale
 
 [^chap5a-1]
 
@@ -1674,11 +1674,12 @@ La revisione di una sentenza del Tribunale federale può essere domandata se:
 
 La revisione di una sentenza del Tribunale federale per violazione della Convenzione del 4 novembre 1950[^122-1] per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali (CEDU) può essere domandata se:
 
-- a. la Corte europea dei diritti dell’uomo ha constatato in una sentenza definitiva che la CEDU o i suoi protocolli sono stati violati;
+- a.[^122-2] la Corte europea dei diritti dell’uomo ha constatato in una sentenza definitiva (art. 44 CEDU) che la CEDU o i suoi protocolli sono stati violati oppure ha chiuso la causa con una composizione amichevole (art. 39 CEDU);
 - b. un’indennità non è atta a compensare le conseguenze della violazione; e
 - c. la revisione è necessaria per rimediare alla violazione.
 
 [^122-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^122-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° lug. 2022 ([RU 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [FF 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 123
 

@@ -4,20 +4,20 @@ title: Loi du 17 juin 2005 sur le Tribunal fédéral (LTF)
 short: LTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: fr
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-218-20220101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2006-218-20220701-fr-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi sur le Tribunal fédéral**<sup>∗</sup>**
+# Loi sur le Tribunal fédéral<sup></sup>
 
 (LTF)[^t-1]
 
-du 17 juin 2005 (Etat le 1<sup>er</sup> janvier 2022)
+du 17 juin 2005 (État le 1<sup>er</sup> juillet 2022)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -1620,7 +1620,7 @@ Les art. 90 à 94, 99, 100, 102, 103, al. 1 et 3, 104, 106, al. 2, et 107 à 112
 
 <sup>3</sup> Il examine les griefs invoqués selon les dispositions applicables au type de recours concerné.
 
-## Chapitre 5*a***** Révision des sentences d’arbitrage international
+## Chapitre 5*a* Révision des sentences d’arbitrage international
 
 [^chap5a-1]
 
@@ -1679,11 +1679,12 @@ La révision d’un arrêt du Tribunal fédéral peut être demandée:
 
 La révision d’un arrêt du Tribunal fédéral pour violation de la Convention de sauvegarde des droits de l’homme et des libertés fondamentales du 4 novembre 1950 (CEDH)[^122-1] peut être demandée aux conditions suivantes:
 
-- a. la Cour européenne des droits de l’homme a constaté, dans un arrêt définitif, une violation de la CEDH ou de ses protocoles;
+- a.[^122-2] la Cour européenne des droits de l’homme a constaté, dans un arrêt définitif (art. 44 CEDH), une violation de la CEDH ou de ses protocoles, ou a conclu le cas par un règlement amiable (art. 39 CEDH);
 - b. une indemnité n’est pas de nature à remédier aux effets de la violation;
 - c. la révision est nécessaire pour remédier aux effets de la violation.
 
 [^122-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^122-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [FF 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 123
 

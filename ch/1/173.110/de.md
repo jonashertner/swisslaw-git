@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2005 über das Bundesgericht (Bundesgerichtsge
 short: BGG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: de
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2006-218-20220101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2006-218-20220701-de-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20220101/de"
 
 (Bundesgerichtsgesetz, BGG)
 
-vom 17. Juni 2005 (Stand am 1. Januar 2022)
+vom 17. Juni 2005 (Stand am 1. Juli 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -237,7 +237,7 @@ Die Verwaltungskommission trägt die Verantwortung für die Gerichtsverwaltung. 
 - g. die Wahrnehmung der Aufsicht über das Bundesstrafgericht und das Bundesverwaltungsgericht;
 - h. sämtliche weiteren Verwaltungsgeschäfte, die nicht in die Zuständigkeit des Gesamtgerichts oder der Präsidentenkonferenz fallen.
 
-[^17-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 20. Juni 2014 über die Weiterbildung, in Kraft seit 1. Jan. 2017 (AS **20****16** 689; [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^17-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 20. Juni 2014 über die Weiterbildung, in Kraft seit 1. Jan. 2017 ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 #### Art. 18
 
@@ -1616,7 +1616,7 @@ Für das Verfahren der Verfassungsbeschwerde gelten die Artikel 90–94, 99, 100
 
 <sup>3</sup> Es prüft die vorgebrachten Rügen nach den Vorschriften über die entsprechende Beschwerdeart.
 
-## 5*a*. Kapitel:**** Revision gegen Entscheide von Schiedsgerichten in der internationalen Schiedsgerichtsbarkeit
+## 5*a*. Kapitel: Revision gegen Entscheide von Schiedsgerichten in der internationalen Schiedsgerichtsbarkeit
 
 [^chap5a-1]
 
@@ -1675,11 +1675,12 @@ Die Revision eines Entscheids des Bundesgerichts kann verlangt werden, wenn:
 
 Die Revision wegen Verletzung der Konvention zum Schutz der Menschenrechte und Grundfreiheiten vom 4. November 1950[^122-1] (EMRK) kann verlangt werden, wenn:
 
-- a. der Europäische Gerichtshof für Menschenrechte in einem endgültigen Urteil festgestellt hat, dass die EMRK oder die Protokolle dazu verletzt worden sind;
+- a.[^122-2] der Europäische Gerichtshof für Menschenrechte in einem endgültigen Urteil (Art. 44 EMRK) festgestellt hat, dass die EMRK oder die Protokolle dazu verletzt worden sind, oder den Fall durch eine gütliche Einigung (Art. 39 EMRK) abgeschlossen hat;
 - b. eine Entschädigung nicht geeignet ist, die Folgen der Verletzung auszugleichen; und
 - c. die Revision notwendig ist, um die Verletzung zu beseitigen.
 
 [^122-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^122-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 123
 
