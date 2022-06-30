@@ -4,13 +4,12 @@ number: I E/1/1
 title: Einführungsgesetz zum Bundesgesetz über die Gleichstellung von Frau und Mann
 short: Kantonales Gleichstellungsgesetz
 language: de
-version: 2018-07-01
-valid_until: 2022-06-30
-version_adopted: 2017-05-07
+version: 2022-07-01
+version_adopted: 2021-09-05
 adopted: 1996-05-05
 in_force: 1996-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/I-E.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1946/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2337/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1946/pdf_file"
 
 (Kantonales Gleichstellungsgesetz)
 
-Vom 05.05.1996 (Stand 01.07.2018)
+Vom 05.05.1996 (Stand 01.07.2022)
 
 (Erlassen von der Landsgemeinde am 5. Mai 1996)
 
@@ -51,7 +50,7 @@ Vom 05.05.1996 (Stand 01.07.2018)
 
 <sup>3</sup> Der Landrat kann die Tätigkeit der Kommission befristen.
 
-[^3-1]: Das Sekretariat ist der Staatskanzlei angegliedert (Regierungs- und Verwaltungsorganisationsverordnung, GS [II A/3/3](https://gesetze.gl.ch/data/II-A.3.3/de), Anhang I Ziff. 1 Bst. k)
+[^3-1]: Das Sekretariat ist dem Departement Bildung und Kultur angegliedert (Regierungs- und Verwaltungsorganisationsverordnung, GS [II A/3/3](https://gesetze.gl.ch/data/II-A.3.3/de), Anhang I Art. A1-3 Bst. r)
 
 #### Art. 4
 
@@ -71,7 +70,7 @@ Vom 05.05.1996 (Stand 01.07.2018)
 
 **Streitigkeiten über privatrechtliche Arbeitsverhältnisse**
 
-<sup>1</sup> Schlichtungsbehörde für Streitigkeiten nach dem eidgenössischen Gleichstellungsgesetz ist die Kantonale Schlichtungsbehörde.
+<sup>1</sup> Die Schlichtungsbehörde schlichtet Streitigkeiten nach dem eidgenössischen Gleichstellungsgesetz.
 
 <sup>2</sup> …
 
@@ -95,7 +94,7 @@ Vom 05.05.1996 (Stand 01.07.2018)
 
 <sup>1</sup> Der Landrat erlässt die Ausführungsbestimmungen[^8-1].
 
-<sup>2</sup> Er regelt namentlich die Befugnisse der Gleichstellungskommission gegenüber der kantonalen Verwaltung, die allfällige Befristung der Tätigkeit der Gleichstellungskommission sowie die Entschädigung der Gleichstellungskommission und der Schlichtungsbehörde.
+<sup>2</sup> Er regelt insbesondere die Befugnisse der Gleichstellungskommission gegenüber der kantonalen Verwaltung, die allfällige Befristung der Tätigkeit der Gleichstellungskommission sowie die Entschädigung der Gleichstellungskommission.
 
 [^8-1]: GS [I E/1/2](https://gesetze.gl.ch/data/I-E.1.2/de)
 
