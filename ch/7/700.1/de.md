@@ -4,11 +4,11 @@ title: Raumplanungsverordnung vom 28. Juni 2000 (RPV)
 short: RPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/310"
 language: de
-version: 2021-01-01
+version: 2022-07-01
 adopted: 2000-06-28
 in_force: 2000-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2000-310-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2000-310-20220701-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20210101/de"
 
 (RPV)
 
-vom 28. Juni 2000 (Stand am 1. Januar 2021)
+vom 28. Juni 2000 (Stand am 1. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf das Raumplanungsgesetz vom 22. Juni 1979[^ingress-1] (RPG),
 
 verordnet:
 
-[^ingress-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^ingress-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## 1. Kapitel: Einleitung
 
@@ -42,7 +42,7 @@ Bund, Kantone und Gemeinden üben insbesondere dann raumwirksame Tätigkeiten au
 - a. Richt- und Nutzungspläne, Konzepte und Sachpläne sowie dazu erforderliche Grundlagen erarbeiten oder genehmigen;
 - b. öffentliche oder im öffentlichen Interesse liegende Bauten und Anlagen planen, errichten, verändern oder nutzen;
 - c. Konzessionen oder Bewilligungen erteilen für Bauten und Anlagen sowie für Rodungen, Wasser-, Schürf-, Transport- oder andere Nutzungsrechte;
-- d. Beiträge ausrichten an Bauten und Anlagen, insbesondere an Gewässerschutz-, Verkehrs- und Versorgungsanlagen und Wohnungsbauten sowie für Bodenverbesserungen, Gewässerkorrektionen oder Schutzmassnahmen.
+- d. Beiträge ausrichten an Bauten und Anlagen, insbesondere an Gewässerschutz‑, Verkehrs- und Versorgungsanlagen und Wohnungsbauten sowie für Bodenverbesserungen, Gewässerkorrektionen oder Schutzmassnahmen.
 
 #### Art. 2
 
@@ -86,7 +86,7 @@ Stehen den Behörden bei Erfüllung und Abstimmung raumwirksamer Aufgaben Handlu
 
 <sup>2</sup> Die Planungen über die einzelnen Sachbereiche zeigen die tatsächlichen und rechtlichen Gegebenheiten und die absehbaren Nutzungskonflikte; sie enthalten eine Beurteilung der möglichen Entwicklungen aus gesamtheitlicher Sicht.
 
-<sup>3</sup> ...[^4-2]
+<sup>3</sup> …[^4-2]
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 2. April 2014, in Kraft seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 [^4-2]: Aufgehoben durch Ziff. I der V vom 2. April 2014, mit Wirkung seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
@@ -436,7 +436,7 @@ Fruchtfolgeflächen dürfen nur eingezont werden, wenn:
 
 ## 5. Kapitel: Nutzungspläne
 
-### 1. Abschnitt:**** Gesamtgrösse der Bauzonen im Kanton
+### 1. Abschnitt: Gesamtgrösse der Bauzonen im Kanton
 
 [^chap5-sec1-1]
 
@@ -450,7 +450,7 @@ Fruchtfolgeflächen dürfen nur eingezont werden, wenn:
 
 <sup>3</sup> Das UVEK ist zuständig für die Erarbeitung der Richtlinien nach Artikel 15 Absatz 5 RPG mit den Kantonen.
 
-### 2. Abschnitt: Erschliessung****
+### 2. Abschnitt: Erschliessung
 
 [^chap5-sec2-1]
 
@@ -480,7 +480,7 @@ Fruchtfolgeflächen dürfen nur eingezont werden, wenn:
 
 [^32-1]: Fassung gemäss Ziff. I der V vom 2. April 2014, in Kraft seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 
-### 3. Abschnitt:**** Solaranlagen
+### 3. Abschnitt: Solaranlagen
 
 [^chap5-sec3-1]
 
@@ -492,16 +492,29 @@ Fruchtfolgeflächen dürfen nur eingezont werden, wenn:
 
 <sup>1</sup>
 
-Solaranlagen gelten als auf einem Dach genügend angepasst (Art. 18*a* Abs. 1 RPG), wenn sie:
+Solaranlagen auf einem Dach gelten als genügend angepasst (Art. 18*a* Abs. 1 RPG), wenn sie:[^32a-1]
 
 - a. die Dachfläche im rechten Winkel um höchstens 20 cm überragen;
-- b. von vorne und von oben gesehen nicht über die Dachfläche hinausragen;
+- b.[^32a-2] von oben gesehen nicht über die Dachfläche hinausragen;
 - c. nach dem Stand der Technik reflexionsarm ausgeführt werden; und
-- d. als kompakte Fläche zusammenhängen.
+- d.[^32a-3] kompakt angeordnet sind; technisch bedingte Auslassungen oder eine versetzte Anordnung aufgrund der verfügbaren Fläche sind zulässig.
+
+<sup>1bis</sup>
+
+Solaranlagen auf einem Flachdach gelten auch dann als genügend angepasst, wenn sie anstelle der Voraussetzungen nach Absatz 1:
+
+- a. die Oberkante des Dachrandes um höchstens einen Meter überragen;
+- b. von der Dachkante so weit zurückversetzt sind, dass sie, von unten in einem Winkel von 45 Grad betrachtet, nicht sichtbar sind; und
+- c. nach dem Stand der Technik reflexionsarm ausgeführt werden.[^32a-4]
 
 <sup>2</sup> Konkrete Gestaltungsvorschriften des kantonalen Rechts sind anwendbar, wenn sie zur Wahrung berechtigter Schutzanliegen verhältnismässig sind und die Nutzung der Sonnenenergie nicht stärker einschränken als Absatz 1.
 
 <sup>3</sup> Bewilligungsfreie Vorhaben sind vor Baubeginn der Baubewilligungsbehörde oder einer anderen vom kantonalen Recht für zuständig erklärten Behörde zu melden. Das kantonale Recht legt die Frist sowie die Pläne und Unterlagen, die der Meldung beizulegen sind, fest.
+
+[^32a-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32a-2]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32a-3]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32a-4]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
 
 #### Art. 32b
 
@@ -517,11 +530,31 @@ Als Kulturdenkmäler von kantonaler oder nationaler Bedeutung (Art. 18*a* Abs. 3
 - f. Objekte, die im vom Bund genehmigten Richtplan als Kulturdenkmäler von kantonaler Bedeutung im Sinn von Artikel 18*a* Absatz 3 RPG bezeichnet werden.
 
 [^32b-1]: Fassung gemäss Anhang Ziff. II 3 der V vom 29. Okt. 2014 über den Schutz der Kulturgüter bei bewaffneten Konflikten, bei Katastrophen und in Notlagen, in Kraft seit 1. Jan. 2015 ([AS 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)).
-[^32b-2]: [SR 520.31](https://fedlex.data.admin.ch/eli/cc/2014/616)
+[^32b-2]: [SR 520.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7609)
 [^32b-3]: Die einzelnen Objekte können beim Koordinationsorgan für Geoinformation des Bundes kostenlos abgerufen werden unter map.geo.admin.ch &gt; Geokatalog &gt; Bevölkerung und Wirtschaft &gt; Gesellschaft, Kultur &gt; Bundesinventar ISOS.
-[^32b-4]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^32b-4]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
-### 4. Abschnitt: Kleinsiedlungen ausserhalb der Bauzone****
+#### Art. 32c
+
+**Standortgebundene Solaranlagen ausserhalb der Bauzonen**[^32c-1]
+
+<sup>1</sup>
+
+Solaranlagen mit Anschluss ans Stromnetz können ausserhalb der Bauzonen insbesondere dann standortgebunden sein, wenn sie:
+
+- a. optisch eine Einheit bilden mit Bauten oder Anlagen, die voraussichtlich längerfristig rechtmässig bestehen;
+- b. schwimmend auf einem Stausee oder auf anderen künstlichen Gewässerflächen angebracht werden; oder
+- c. in wenig empfindlichen Gebieten Vorteile für die landwirtschaftliche Produktion bewirken oder entsprechenden Versuchs- und Forschungszwecken dienen.
+
+<sup>2</sup> Besteht für die Anlage eine Planungspflicht, so bedarf das Vorhaben einer entsprechenden Grundlage.
+
+<sup>3</sup> In jedem Fall bedarf es einer umfassenden Interessenabwägung.
+
+<sup>4</sup> Fallen die Bewilligungsvoraussetzungen dahin, so müssen die entsprechenden Anlagen und Anlageteile zurückgebaut werden.
+
+[^32c-1]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+
+### 4. Abschnitt: Kleinsiedlungen ausserhalb der Bauzone
 
 [^chap5-sec4-1]
 
@@ -531,7 +564,7 @@ Als Kulturdenkmäler von kantonaler oder nationaler Bedeutung (Art. 18*a* Abs. 3
 
 Zur Erhaltung bestehender Kleinsiedlungen ausserhalb der Bauzonen können besondere Zonen nach Artikel 18 RPG, beispielsweise Weiler- oder Erhaltungszonen, bezeichnet werden, wenn der kantonale Richtplan (Art. 8 RPG) dies in der Karte oder im Text vorsieht.
 
-### 5. Abschnitt: Zonenkonformität in der Landwirtschaftszone****
+### 5. Abschnitt: Zonenkonformität in der Landwirtschaftszone
 
 [^chap5-sec5-1]
 
@@ -578,7 +611,7 @@ Zulässig sind Bauten und Anlagen, welche benötigt werden für:
 
 - a. die Gewinnung von Brenn- oder Treibstoffen;
 - b. die wärmegekoppelte Produktion von Strom aus den gewonnenen Brenn- oder Treibstoffen;
-- c.[^34a-2] ...
+- c.[^34a-2] …
 - d. Leitungen für den Transport der Energie zu geeigneten Abnehmern sowie für die Zuführung der Biomasse und den Abtransport der nach der Energiegewinnung anfallenden Stoffe;
 - e. die Aufbereitung der zugeführten Biomasse und der nach der Energiegewinnung anfallenden Stoffe.
 
@@ -632,8 +665,8 @@ Die Plätze für die Nutzung der Pferde wie beispielsweise Reitplätze, Longierz
 <sup>6</sup> Im Übrigen müssen die Voraussetzungen von Artikel 34 erfüllt sein.
 
 [^34b-1]: Eingefügt durch Ziff. I der V vom 2. April 2014, in Kraft seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
-[^34b-2]: [SR 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
-[^34b-3]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^34b-2]: [SR 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
+[^34b-3]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 #### Art. 35
 
@@ -680,7 +713,7 @@ Als innere Aufstockung (Art. 16*a* Abs. 2 RPG) gilt die Errichtung von Bauten un
 
 Der Kanton legt im Rahmen seiner Richtplanung oder auf dem Wege der Gesetzgebung die Anforderungen fest, die bei der Ausscheidung von Zonen nach Artikel 16*a* Absatz 3 RPG zu beachten sind; massgebend sind dabei die Ziele und Grundsätze nach den Artikeln 1 und 3 RPG.
 
-### 6. Abschnitt:**** Ausnahmen für Bauten und Anlagen ausserhalb der Bauzonen
+### 6. Abschnitt: Ausnahmen für Bauten und Anlagen ausserhalb der Bauzonen
 
 [^chap5-sec6-1]
 
@@ -743,7 +776,7 @@ Als Nebenbetrieb mit einem engen sachlichen Bezug zum landwirtschaftlichen Gewer
 <sup>5</sup> Sind die Voraussetzungen für eine Bewilligung nach Artikel 24*b* RPG nicht mehr erfüllt, so fällt die Bewilligung dahin. Die zuständige Behörde stellt dies durch Verfügung fest. Auf Gesuch hin ist in einem neuen Bewilligungsverfahren zu entscheiden, ob der nichtlandwirtschaftliche Nebenbetrieb gestützt auf eine andere Bestimmung bewilligt werden kann.
 
 [^40-1]: Fassung gemäss Ziff. I der V vom 4. Juli 2007, in Kraft seit 1. Sept. 2007 ([AS 2007 3641](https://fedlex.data.admin.ch/eli/oc/2007/453)).
-[^40-2]: [SR 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^40-2]: [SR 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 #### Art. 41
 
@@ -773,11 +806,14 @@ Ob die Identität der Baute oder Anlage im Wesentlichen gewahrt bleibt, ist unte
 
 <sup>4</sup> Eine Baute oder Anlage darf nur wieder aufgebaut werden, wenn sie im Zeitpunkt der Zerstörung oder des Abbruchs noch bestimmungsgemäss nutzbar war und an ihrer Nutzung ein ununterbrochenes Interesse besteht. Das Gebäudevolumen darf nur so weit wieder aufgebaut werden, dass es die nach Absatz 3 zulässige Fläche umfassen kann. Absatz 3 Buchstabe a ist nicht anwendbar. Sofern dies objektiv geboten erscheint, darf der Standort der Ersatzbaute oder -anlage von demjenigen der früheren Baute oder Anlage geringfügig abweichen.[^42-5]
 
+<sup>5</sup> Solaranlagen nach Artikel 18*a* Absatz 1 RPG sind bei der Beurteilung nach Artikel 24*c* Absatz 4 RPG unbeachtlich.[^42-6]
+
 [^42-1]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-2]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-3]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-4]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-5]: Fassung gemäss Ziff. I der V vom 4. Juli 2007, in Kraft seit 1. Sept. 2007 ([AS 2007 3641](https://fedlex.data.admin.ch/eli/oc/2007/453)).
+[^42-6]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
 
 #### Art. 42a
 
@@ -785,7 +821,7 @@ Ob die Identität der Baute oder Anlage im Wesentlichen gewahrt bleibt, ist unte
 
 <sup>1</sup> Im Rahmen von Artikel 24*d* Absätze 1 und 3 RPG sind Erweiterungen zulässig, welche für eine zeitgemässe Wohnnutzung unumgänglich sind.
 
-<sup>2</sup> ...[^42a-3]
+<sup>2</sup> …[^42a-3]
 
 <sup>3</sup> Der Wiederaufbau kann nach Zerstörung durch höhere Gewalt zugelassen werden.[^42a-4]
 
@@ -821,7 +857,7 @@ Als Aussenanlagen gelten Anlagen, die für eine tiergerechte Haltung notwendig u
 [^42b-2]: Fassung gemäss Ziff. I der V vom 2. April 2014, in Kraft seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 [^42b-3]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42b-4]: Eingefügt durch Ziff. I der V vom 2. April 2014, in Kraft seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
-[^42b-5]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^42b-5]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^42b-6]: Eingefügt durch Ziff. I der V vom 2. April 2014, in Kraft seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 [^42b-7]: Eingefügt durch Ziff. I der V vom 2. April 2014, in Kraft seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 [^42b-8]: Eingefügt durch Ziff. I der V vom 2. April 2014, in Kraft seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
@@ -844,7 +880,7 @@ Zweckänderungen und Erweiterungen von zonenwidrig gewordenen gewerblichen Baute
 - a. die Baute oder Anlage rechtmässig erstellt oder geändert worden ist;
 - b. keine wesentlichen neuen Auswirkungen auf Raum und Umwelt entstehen;
 - c. die neue Nutzung nach keinem anderen Bundeserlass unzulässig ist;
-- d.–f.[^43-2] ...
+- [tab] d.–f.[^43-2]…
 
 <sup>2</sup> Die zonenwidrig genutzte Fläche darf um 30 Prozent erweitert werden; Erweiterungen innerhalb des bestehenden Gebäudevolumens werden nur zur Hälfte angerechnet.
 
@@ -867,7 +903,7 @@ Bewilligungen nach diesem Abschnitt dürfen nur erteilt werden, wenn:
 
 [^43a-1]: Eingefügt durch Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 
-### 7. Abschnitt:**** Anmerkung im Grundbuch
+### 7. Abschnitt: Anmerkung im Grundbuch
 
 [^chap5-sec7-1]
 
@@ -887,7 +923,7 @@ Die zuständige kantonale Behörde lässt bei Bewilligungen im Zusammenhang mit 
 
 <sup>3</sup> Das Grundbuchamt löscht eine Anmerkung von Amtes wegen, wenn das Grundstück rechtskräftig in eine Bauzone einbezogen wurde. In den anderen Fällen darf das Grundbuchamt die Anmerkung nur löschen, wenn die zuständige Behörde verfügt hat, dass die Voraussetzungen für die Anmerkung dahingefallen sind.
 
-### 8. Abschnitt:**** Raumbeobachtung und Berichterstattung
+### 8. Abschnitt: Raumbeobachtung und Berichterstattung
 
 [^chap5-sec8-1]
 
@@ -951,8 +987,8 @@ Die Kantone eröffnen dem ARE Entscheide betreffend Genehmigung von Nutzungsplä
 
 Die Pflicht zur Verfahrenskoordination durch die für den Entscheid über Bauvorhaben ausserhalb der Bauzonen zuständige kantonale Behörde (Art. 25 Abs. 2 RPG) besteht sinngemäss nach Artikel 4*a* der Verordnung vom 4. Oktober 1993[^49-1] über das bäuerliche Bodenrecht, wenn sie nicht ausschliessen kann, dass die Bewilligung einer Ausnahme vom Realteilungs- und Zerstückelungsverbot nach Artikel 60 BGBB[^49-2] oder der Erlass einer Feststellungsverfügung nötig ist, wonach das betroffene Grundstück nicht dem Geltungsbereich des BGBB untersteht.
 
-[^49-1]: [SR 211.412.110](https://fedlex.data.admin.ch/eli/cc/1993/2904_2904_2904)
-[^49-2]: [SR 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^49-1]: [SR 211.412.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5758)
+[^49-2]: [SR 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 #### Art. 50
 
@@ -960,13 +996,13 @@ Die Pflicht zur Verfahrenskoordination durch die für den Entscheid über Bauvor
 
 Die Verordnung vom 2. Oktober 1989[^50-1] über die Raumplanung wird aufgehoben.
 
-[^50-1]: [[AS 1989 1985](https://fedlex.data.admin.ch/eli/oc/1989/1985_1985_1985), [1996 1534](https://fedlex.data.admin.ch/eli/oc/1996/1534_1534_1534)]
+[^50-1]: [[AS 1989 1985](https://fedlex.data.admin.ch/eli/oc/1989/1985_1985_1985); [1996 1534](https://fedlex.data.admin.ch/eli/oc/1996/1534_1534_1534)]
 
 #### Art. 51
 
 **Änderung bisherigen Rechts**
 
-...[^51-1]
+…[^51-1]
 
 [^51-1]: Die Änderung kann unter [AS 2000 2047](https://fedlex.data.admin.ch/eli/oc/2000/310)konsultiert werden.
 
@@ -1010,7 +1046,7 @@ Während der Übergangsfrist nach Artikel 38*a* Absatz 2 RPG dürfen Einzonungen
 
 Diese Verordnung tritt am 1. September 2000 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 52*a* Abs. 5)
 
@@ -1020,7 +1056,7 @@ Anhang*[^t-1]*
 
 In folgenden Kantonen ist die Ausscheidung neuer Bauzonen gestützt auf Artikel 38*a* Absatz 5 RPG und Artikel 52*a* Absatz 5 dieser Verordnung unzulässig:
 
-- 1\. ...
-- 2\. *...*
-- 3\. ...
-- 4\. ...
+- 1\. …
+- 2\. …
+- 3\. …
+- 4\. …

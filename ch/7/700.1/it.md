@@ -4,11 +4,11 @@ title: Ordinanza del 28 giugno 2000 sulla pianificazione del territorio (OPT)
 short: OPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/310"
 language: it
-version: 2021-01-01
+version: 2022-07-01
 adopted: 2000-06-28
 in_force: 2000-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2000-310-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2000-310-20220701-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20210101/it"
 
 (OPT)
 
-del 28 giugno 2000 (Stato 1° gennaio 2021)
+del 28 giugno 2000 (Stato 1° luglio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ vista la legge federale del 22 giugno 1979[^ingress-1] sulla pianificazione del 
 
 ordina:
 
-[^ingress-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^ingress-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## Capitolo 1: Disposizioni introduttive
 
@@ -86,7 +86,7 @@ Se dispongono di margini d’azione nell’adempimento e coordinamento dei compi
 
 <sup>2</sup> Le pianificazioni sui singoli ambiti settoriali mostrano le situazioni effettive e giuridiche e i prevedibili conflitti d’utilizzazione; esse contengono una valutazione degli sviluppi possibili in un’ottica globale.
 
-<sup>3</sup> ...[^4-2]
+<sup>3</sup> …[^4-2]
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 2 apr. 2014, in vigore dal 1° mag. 2014 ([RU 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 [^4-2]: Abrogato dal n. I dell’O del 2 apr. 2014, con effetto dal 1° mag. 2014 ([RU 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
@@ -436,7 +436,7 @@ Le superfici per l’avvicendamento delle colture possono essere azzonate soltan
 
 ## Capitolo 5: Piani di utilizzazione
 
-### Sezione 1:**** Dimensioni complessive delle zone edificabili nel Cantone
+### Sezione 1: Dimensioni complessive delle zone edificabili nel Cantone
 
 [^chap5-sec1-1]
 
@@ -450,7 +450,7 @@ Le superfici per l’avvicendamento delle colture possono essere azzonate soltan
 
 <sup>3</sup> Il DATEC è competente per l’elaborazione, in collaborazione con i Cantoni, delle direttive tecniche di cui all’articolo 15 capoverso 5 LPT.
 
-### Sezione 2: Urbanizzazione****
+### Sezione 2: Urbanizzazione
 
 [^chap5-sec2-1]
 
@@ -480,7 +480,7 @@ Le superfici per l’avvicendamento delle colture possono essere azzonate soltan
 
 [^32-1]: Nuovo testo giusta il n. I dell’O del 2 apr. 2014, in vigore dal 1° mag. 2014 ([RU 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 
-### Sezione 3:**** Impianti solari
+### Sezione 3: Impianti solari
 
 [^chap5-sec3-1]
 
@@ -492,16 +492,29 @@ Le superfici per l’avvicendamento delle colture possono essere azzonate soltan
 
 <sup>1</sup>
 
-Un impianto solare è sufficientemente adattato a un tetto (art. 18*a* cpv. 1 LPT) se:
+Un impianto solare è sufficientemente adattato a un tetto (art. 18*a* cpv. 1 LPT), se:[^32a-1]
 
 - a. sporge ortogonalmente di al massimo 20 cm dalla superficie del tetto;
-- b. visto frontalmente e dall’alto, non sporge oltre la superficie del tetto;
+- b.[^32a-2] visto dall’alto non sporge dalla superficie del tetto;
 - c. in base allo stato della tecnica, presenta un basso grado di riflessione; e
-- d. si presenta come superficie compatta.
+- d.[^32a-3] le varie parti sono disposte in modo compatto; sono ammessi spazi lasciati vuoti per motivi tecnici o una disposizione sfalsata dovuta alla superficie disponibile.
+
+<sup>1bis</sup>
+
+Un impianto solare è sufficientemente adattato anche a un tetto piano, se anziché rispettare le condizioni di cui al capoverso 1:
+
+- a. sporge dal bordo superiore del tetto al massimo di un metro;
+- b. è arretrato rispetto allo spigolo del tetto al punto da non essere visibile se guardato dal basso con un angolo di 45 gradi; e
+- c. in base allo stato della tecnica, presenta un basso grado di riflessione.[^32a-4]
 
 <sup>2</sup> Concrete prescrizioni edilizie fondate sul diritto cantonale sono applicabili se sono proporzionali a giustificate esigenze di protezione e se non limitano lo sfruttamento dell’energia solare in misura superiore a quanto previsto al capoverso 1.
 
 <sup>3</sup> I progetti esenti dall’obbligo di autorizzazione devono essere annunciati, prima che inizino i lavori, all’autorità preposta al rilascio dell’autorizzazione edilizia o a un’altra autorità competente secondo il diritto cantonale. Il diritto cantonale fissa il termine per l’annuncio nonché i piani e la documentazione da allegare.
+
+[^32a-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32a-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32a-3]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32a-4]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
 
 #### Art. 32b
 
@@ -517,11 +530,31 @@ Per monumenti culturali di importanza cantonale e nazionale (art. 18*a* cpv. 3 L
 - f. oggetti che, nel piano direttore approvato dalla Confederazione, sono designati quali monumenti culturali di importanza cantonale ai sensi dell’articolo 18*a* capoverso 3 LPT.
 
 [^32b-1]: Nuovo testo giusta l’all. n. II 3 dell’O del 29 ott. 2014 sulla protezione dei beni culturali in caso di conflitti armati, catastrofi e situazioni d’emergenza, in vigore dal 1° gen. 2015 ([RU 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)).
-[^32b-2]: [RS 520.31](https://fedlex.data.admin.ch/eli/cc/2014/616)
+[^32b-2]: [RS 520.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7609)
 [^32b-3]: I singoli oggetti possono essere visualizzati presso l’Organo di coordinamento nel settore della geoinformazione della Confederazione a questo indirizzo: map.geo.admin.ch &gt; Geocatalogo &gt; Popolazione ed economia &gt; Società e cultura &gt; Inventario federale ISOS.
-[^32b-4]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^32b-4]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
-### Sezione 4: Piccoli insediamenti fuori delle zone edificabili****
+#### Art. 32c
+
+**Impianti solari d’ubicazione vincolata fuori delle zone edificabili**[^32c-1]
+
+<sup>1</sup>
+
+Fuori delle zone edificabili, un impianto solare allacciato alla rete elettrica può essere in particolare d’ubicazione vincolata se:
+
+- a. costituisce visivamente un’unità con edifici o impianti, la cui esistenza legale è prevedibile a lungo termine;
+- b. è posizionato come impianto galleggiante in un bacino di accumulazione o in altre superfici d’acqua artificiali; o
+- c. in territori poco sensibili, arreca vantaggi alla coltivazione agricola o è destinato a scopi sperimentali o di ricerca in questo senso.
+
+<sup>2</sup> Se l’impianto è soggetto a un obbligo di pianificazione, il progetto necessita di una base adeguata.
+
+<sup>3</sup> In ogni caso è necessaria un’ampia ponderazione degli interessi.
+
+<sup>4</sup> Se le condizioni per l’autorizzazione non sono più adempiute, l’impianto e le parti degli impianti corrispondenti devono essere smantellati.
+
+[^32c-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+
+### Sezione 4: Piccoli insediamenti fuori delle zone edificabili
 
 [^chap5-sec4-1]
 
@@ -531,7 +564,7 @@ Per monumenti culturali di importanza cantonale e nazionale (art. 18*a* cpv. 3 L
 
 Zone speciali giusta l’articolo 18 LPT, quali per esempio zone di casali o degne di essere conservate, possono essere designate per la conservazione di piccoli insediamenti fuori delle zone edificabili, ove il piano direttore cantonale (art. 8 LPT) lo preveda nella rappresentazione grafica o nel testo.
 
-### Sezione 5: Conformità alla zona agricola****
+### Sezione 5: Conformità alla zona agricola
 
 [^chap5-sec5-1]
 
@@ -578,7 +611,7 @@ Sono ammessi edifici e impianti necessari per:
 
 - a. la produzione di combustibili o carburanti;
 - b. la produzione di elettricità con recupero di calore dai combustibili o dai carburanti ottenuti;
-- c.[^34a-2] ...
+- c.[^34a-2] …
 - d. le condotte per il trasporto dell’energia prodotta a utenti adeguati nonché le condotte per il trasporto della biomassa e per lo sgombero delle sostanze residue della produzione di energia;
 - e. il trattamento della biomassa fornita e delle sostanze residue della produzione di energia.
 
@@ -632,8 +665,8 @@ Gli spiazzi per l’utilizzazione dei cavalli quali maneggi, tondini e giostre:
 <sup>6</sup> Per il resto, vanno adempiute le condizioni di cui all’articolo 34.
 
 [^34b-1]: Introdotto dal n. I dell’O del 2 apr. 2014, in vigore dal 1° mag. 2014 ([RU 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
-[^34b-2]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
-[^34b-3]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^34b-2]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
+[^34b-3]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 #### Art. 35
 
@@ -680,11 +713,11 @@ Gli edifici e gli impianti per la tenuta di animali, di proprietà esclusiva di 
 
 In sede di piano direttore o in via legislativa, il Cantone fissa i criteri che vanno osservati in caso di delimitazione di zone secondo l’articolo 16*a* capoverso 3 LPT; a tale riguardo sono applicabili gli obiettivi e i principi ai sensi degli articoli 1 e 3 LPT.
 
-### Sezione 6:**** Eccezioni per edifici e impianti fuori delle zone edificabili
+### Sezione 6: Eccezioni per edifici e impianti fuori delle zone edificabili
 
 [^chap5-sec6-1]
 
-[^chap5-sec6-1]: Originaria Sez. 4
+[^chap5-sec6-1]: Originaria Sez. 4.
 
 #### Art. 39
 
@@ -743,7 +776,7 @@ Sono considerate aziende accessorie con uno stretto legame materiale con l’azi
 <sup>5</sup> L’autorizzazione viene a cadere se le condizioni di autorizzazione secondo l’articolo 24*b* LPT non sono più adempiute. L’autorità competente lo stabilisce mediante decisione. Su richiesta, occorre decidere, nell’ambito di una nuova procedura di autorizzazione, se l’azienda accessoria non agricola può essere autorizzata ai sensi di un’altra disposizione.
 
 [^40-1]: Nuovo testo giusta il n. I dell’O del 4 lug. 2007, in vigore dal 1° set. 2007 ([RU 2007 3641](https://fedlex.data.admin.ch/eli/oc/2007/453)).
-[^40-2]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^40-2]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 #### Art. 41
 
@@ -773,11 +806,14 @@ Il quesito se l’identità dell’edificio o dell’impianto rimanga sostanzial
 
 <sup>4</sup> Un edificio o un impianto può essere ricostruito soltanto se al momento della distruzione o della demolizione era ancora utilizzabile secondo la destinazione e vi era ancora un interesse alla sua utilizzazione. Il volume dell’edificio può essere ricostruito entro i limiti necessari per realizzare la superficie ammessa ai sensi del capoverso 3. Il capoverso 3 lettera a non è applicabile. Ove risulti indicato dal profilo oggettivo, l’ubicazione dell’edificio o dell’impianto sostitutivo può divergere in misura minima da quella dell’edificio o dell’impianto preesistente.[^42-5]
 
+<sup>5</sup> Gli impianti solari di cui all’articolo 18*a* capoverso 1 LPT non sono tenuti in considerazione nella valutazione di cui all’articolo 24*c* capoverso 4 LPT.[^42-6]
+
 [^42-1]: Nuovo testo giusta il n. I dell’O del 10 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-2]: Nuovo testo giusta il n. I dell’O del 10 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-3]: Nuovo testo giusta il n. I dell’O del 10 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-4]: Nuovo testo giusta il n. I dell’O del 10 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-5]: Nuovo testo giusta il n. I dell’O del 4 lug. 2007, in vigore dal 1° set. 2007 ([RU 2007 3641](https://fedlex.data.admin.ch/eli/oc/2007/453)).
+[^42-6]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
 
 #### Art. 42a
 
@@ -785,7 +821,7 @@ Il quesito se l’identità dell’edificio o dell’impianto rimanga sostanzial
 
 <sup>1</sup> Nel quadro dell’articolo 24*d* capoversi 1 e 3 LPT, sono ammessi gli ampliamenti indispensabili per un’utilizzazione a scopo abitativo al passo con i tempi.
 
-<sup>2</sup> ...[^42a-3]
+<sup>2</sup> …[^42a-3]
 
 <sup>3</sup> La ricostruzione degli edifici distrutti per cause di forza maggiore può essere autorizzata.[^42a-4]
 
@@ -821,7 +857,7 @@ Per impianti esterni si intendono gli impianti, privi di tettoie e di pareti, ne
 [^42b-2]: Nuovo testo giusta il n. I dell’O del 2 apr. 2014, in vigore dal 1° mag. 2014 ([RU 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 [^42b-3]: Nuovo testo giusta il n. I dell’O del 10 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42b-4]: Introdotto dal n. I dell’O del 2 apr. 2014, in vigore dal 1° mag. 2014 ([RU 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
-[^42b-5]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^42b-5]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^42b-6]: Introdotto dal n. I dell’O del 2 apr. 2014, in vigore dal 1° mag. 2014 ([RU 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 [^42b-7]: Introdotto dal n. I dell’O del 2 apr. 2014, in vigore dal 1° mag. 2014 ([RU 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 [^42b-8]: Introdotto dal n. I dell’O del 2 apr. 2014, in vigore dal 1° mag. 2014 ([RU 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
@@ -844,7 +880,7 @@ Cambiamenti di destinazione e ampliamenti di edifici e impianti usati a scopo co
 - a. l’edificio o l’impianto è stato legalmente costruito o modificato;
 - b. non insorgono nuove implicazioni rilevanti su territorio e ambiente;
 - c. la nuova utilizzazione non è inammissibile secondo un altro atto legislativo federale.
-- [tab] d. a f.[^43-2]...
+- [tab] d. a f.[^43-2]…
 
 <sup>2</sup> La superficie utilizzata in modo non conforme alla destinazione della zona può essere ampliata del 30 per cento; gli ampliamenti all’interno del volume esistente dell’edificio sono computati soltanto per la metà.
 
@@ -867,11 +903,11 @@ Le autorizzazioni secondo la presente sezione possono essere rilasciate solo se:
 
 [^43a-1]: Introdotto dal n. I dell’O del 10 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 
-### Sezione 7:**** Menzione nel registro fondiario
+### Sezione 7: Menzione nel registro fondiario
 
 [^chap5-sec7-1]
 
-[^chap5-sec7-1]: Originaria Sez. 5
+[^chap5-sec7-1]: Originaria Sez. 5.
 
 #### Art. 44
 
@@ -887,11 +923,11 @@ Nel caso di autorizzazioni per edifici e impianti fuori delle zone edificabili l
 
 <sup>3</sup> L’Ufficio del registro fondiario cancella d’ufficio la menzione se il terreno è inserito in una zona edificabile con decisione cresciuta in giudicato. Negli altri casi l’Ufficio del registro fondiario può cancellare la menzione soltanto se l’autorità competente ha deciso che le condizioni per la menzione sono scadute.
 
-### Sezione 8:**** Osservazione del territorio e informazione
+### Sezione 8: Osservazione del territorio e informazione
 
 [^chap5-sec8-1]
 
-[^chap5-sec8-1]: Originaria Sez. 6
+[^chap5-sec8-1]: Originaria Sez. 6.
 
 #### Art. 45
 
@@ -951,8 +987,8 @@ I Cantoni notificano all’ARE le decisioni concernenti l’approvazione dei pia
 
 L’obbligo di coordinazione della procedura da parte dell’autorità cantonale a cui compete decidere sui progetti edilizi fuori della zona edificabile (art. 25 cpv. 2 LPT) si applica per analogia in conformità dell’articolo 4*a* dell’ordinanza del 4 ottobre 1993[^49-1] sul diritto fondiario rurale, se non è possibile escludere che sia necessaria l’autorizzazione di una eccezione ai divieti di divisione materiale e di frazionamento giusta l’articolo 60 della legge federale del 4 ottobre 1991[^49-2] sul diritto fondiario rurale o se occorre emanare una decisione d’accertamento secondo cui il fondo in questione non soggiace al campo d’applicazione della legge federale sul diritto fondiario rurale.
 
-[^49-1]: [RS 211.412.110](https://fedlex.data.admin.ch/eli/cc/1993/2904_2904_2904)
-[^49-2]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^49-1]: [RS 211.412.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5758)
+[^49-2]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 #### Art. 50
 
@@ -966,7 +1002,7 @@ L’ordinanza del 2 ottobre 1989[^50-1] sulla pianificazione del territorio è a
 
 **Modifica del diritto vigente**
 
-...[^51-1]
+…[^51-1]
 
 [^51-1]: Le mod. possono essere consultate alla [RU 2000 2047](https://fedlex.data.admin.ch/eli/oc/2000/310).
 
@@ -1010,7 +1046,7 @@ Durante il periodo transitorio di cui all’articolo 38*a* capoverso 2 LPT posso
 
 La presente ordinanza entra in vigore il 1° settembre 2000.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 52*a* cpv. 5)
 
@@ -1020,7 +1056,7 @@ Allegato*[^t-1]*
 
 In virtù dell’articolo 38*a* capoverso 5 LPT e dell’articolo 52*a* capoverso 5 della presente ordinanza, nei seguenti Cantoni la delimitazione di nuove zone edificabili non è ammessa:
 
-- 1\. ...
-- 2\. ...
-- 3\. ...
-- 4\. ...
+- 1\. …
+- 2\. …
+- 3\. …
+- 4\. …

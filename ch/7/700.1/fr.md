@@ -4,11 +4,11 @@ title: "Ordonnance du 28 juin 2000 sur l'aménagement du territoire (OAT)"
 short: OAT
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/310"
 language: fr
-version: 2021-01-01
+version: 2022-07-01
 adopted: 2000-06-28
 in_force: 2000-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-310-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-310-20220701-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20210101/fr"
 
 (OAT)
 
-du 28 juin 2000 (Etat le 1<sup>er</sup> janvier 2021)
+du 28 juin 2000 (État le 1<sup>er</sup> juillet 2022)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu la loi fédérale du 22 juin 1979 sur l’aménagement du territoire (LAT)[^i
 
 arrête:
 
-[^ingress-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^ingress-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## Chapitre 1 Introduction
 
@@ -86,7 +86,7 @@ Lorsque, dans l’accomplissement et la coordination de tâches ayant des effets
 
 <sup>2</sup> Les études et plans sectoriels mettent en évidence, pour les différents domaines relevant de l’aménagement du territoire, les données de fait et de droit ainsi que les conflits d’utilisation prévisibles; elles contiennent une appréciation des développements possibles dans une perspective d’ensemble.
 
-<sup>3</sup> ...[^4-2]
+<sup>3</sup> …[^4-2]
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2014, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 [^4-2]: Abrogé par le ch. I de l’O du 2 avr. 2014, avec effet au 1<sup>er</sup> mai 2014 ([RO 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
@@ -435,7 +435,7 @@ Des surfaces d’assolement ne peuvent être classées en zone à bâtir que:
 
 ## Chapitre 5 Plans d’affectation
 
-### Section 1**** Dimension totale des zones à bâtir du canton
+### Section 1 Dimension totale des zones à bâtir du canton
 
 [^chap5-sec1-1]
 
@@ -449,7 +449,7 @@ Des surfaces d’assolement ne peuvent être classées en zone à bâtir que:
 
 <sup>3</sup> Le DETEC est compétent pour l’élaboration des directives prévues à l’art. 15, al. 5, LAT avec les cantons.
 
-### Section 2 Équipement****
+### Section 2 Équipement
 
 [^chap5-sec2-1]
 
@@ -479,7 +479,7 @@ Des surfaces d’assolement ne peuvent être classées en zone à bâtir que:
 
 [^32-1]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2014, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 
-### Section 3**** Installations solaires
+### Section 3 Installations solaires
 
 [^chap5-sec3-1]
 
@@ -491,16 +491,29 @@ Des surfaces d’assolement ne peuvent être classées en zone à bâtir que:
 
 <sup>1</sup>
 
-Les installations solaires sont considérées suffisamment adaptées aux toits (art. 18*a*, al. 1, LAT) si les conditions suivantes sont réunies:
+Les installations solaires placées sur un toit sont considérées suffisamment adaptées (art. 18*a*, al. 1, LAT) si les conditions suivantes sont réunies:[^32a-1]
 
 - a. elles ne dépassent pas les pans du toit perpendiculairement de plus de 20 cm;
-- b. elles ne dépassent pas du toit, vu de face et du dessus;
+- b.[^32a-2] elles ne dépassent pas du toit, vu du dessus;
 - c. elles sont peu réfléchissantes selon l’état des connaissances techniques;
-- d. elles constituent une surface d’un seul tenant.
+- d.[^32a-3] elles forment un ensemble groupé; des exceptions pour raisons techniques ou une disposition décalée en raison de la surface disponible sont admissibles.
+
+<sup>1bis</sup>
+
+Sur un toit plat, elles sont aussi considérées suffisamment adaptées si, au lieu des conditions de l’al. 1, les conditions suivantes sont réunies:
+
+- a. elles ne dépassent pas de l’arête supérieure du toit de plus de 1 m;
+- b. elles sont placées suffisamment loin du bord du toit pour ne pas être visibles d’en bas avec un angle de vue de 45 degrés;
+- c. elles sont peu réfléchissantes selon l’état actuel des connaissances techniques.[^32a-4]
 
 <sup>2</sup> Les dispositions concrètes fondées sur le droit cantonal traitant de l’intégration desdites installations s’appliquent lorsqu’elles visent de manière proportionnée la défense d’intérêts de protection justifiés et ne limitent pas l’exploitation de l’énergie solaire plus strictement que l’al. 1.
 
 <sup>3</sup> Les projets dispensés d’autorisation doivent être annoncés avant le début des travaux à l’autorité délivrant les autorisations de construire ou à une autre autorité déclarée compétente pour recevoir les annonces par la législation cantonale. La législation cantonale fixe le délai dans lequel l’annonce doit être faite et précise quels plans et autres documents doivent y être joints.
+
+[^32a-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32a-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32a-3]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32a-4]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
 
 #### Art. 32b
 
@@ -516,11 +529,31 @@ Sont considérés comme des biens culturels d’importance cantonale ou national
 - f. les objets qui, dans le plan directeur approuvé par la Confédération, sont désignés comme étant des biens culturels d’importance cantonale au sens de l’art. 18*a*, al. 3, LAT.
 
 [^32b-1]: Nouvelle teneur selon l’annexe ch. II 3 de l’O du 29 oct. 2014 sur la protection des biens culturels en cas de conflit armé, de catastrophe ou de situation d’urgence, en vigueur depuis le 1<sup>er</sup> janvier 2015 ([RO 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)).
-[^32b-2]: [RS 520.31](https://fedlex.data.admin.ch/eli/cc/2014/616)
+[^32b-2]: [RS 520.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7609)
 [^32b-3]: La carte des objets peut être consultée gratuitement sur le site de l’organe de coordination de la géoinformation au niveau fédéral à l’adresse suivante: map.geo.admin.ch &gt; Géocatalogue &gt; Population et économie &gt; Société, culture &gt; Inventaire fédéral ISOS.
-[^32b-4]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^32b-4]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
-### Section 4 Petites entités urbanisées hors de la zone à bâtir****
+#### Art. 32c
+
+**Installations solaires imposées par leur destination hors de la zone à bâtir**[^32c-1]
+
+<sup>1</sup>
+
+Hors de la zone à bâtir, les installations solaires raccordées au réseau électrique peuvent être imposées par leur destination en particulier si elles:
+
+- a. forment une unité visuelle avec des constructions ou des installations dont l’existence légale à long terme est vraisemblable;
+- b. sont mises en place de façon flottante sur un lac de barrage ou un autre plan d’eau artificiel, ou
+- c. ont, dans une partie du territoire peu sensible, des conséquences positives pour la production agricole ou sont utiles à des fins de recherche et d’expérimentation.
+
+<sup>2</sup> Si l’installation requiert une planification, le projet doit se fonder sur une base correspondante.
+
+<sup>3</sup> Une pesée des intérêts complète est effectuée dans tous les cas.
+
+<sup>4</sup> Les installations et les parties d’installation qui ne satisfont plus aux conditions d’autorisation sont démontées.
+
+[^32c-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+
+### Section 4 Petites entités urbanisées hors de la zone à bâtir
 
 [^chap5-sec4-1]
 
@@ -530,7 +563,7 @@ Sont considérés comme des biens culturels d’importance cantonale ou national
 
 Pour assurer le maintien de petites entités urbanisées sises hors de la zone à bâtir, des zones spéciales au sens de l’art. 18 LAT, telles que les zones de hameaux ou les zones de maintien de l’habitat rural, peuvent être délimitées si la carte ou le texte du plan directeur cantonal (art. 8 LAT) le prévoit.
 
-### Section 5 Conformité à l’affectation de la zone agricole****
+### Section 5 Conformité à l’affectation de la zone agricole
 
 [^chap5-sec5-1]
 
@@ -577,7 +610,7 @@ Sont admissibles les constructions et les installations nécessaires pour:
 
 - a. la production de carburant ou de combustible;
 - b. la production de courant par couplage chaleur-force à partir du carburant ou du combustible généré;
-- c.[^34a-2] ...
+- c.[^34a-2] …
 - d. les conduites destinées au transport de l’énergie produite vers les utilisateurs adéquats, ainsi qu’à l’acheminement de la biomasse et à l’évacuation des résidus de la production d’énergie;
 - e. le traitement de la biomasse acheminée et des résidus de la production d’énergie.
 
@@ -631,8 +664,8 @@ Les places pour l’utilisation des chevaux, telles que les terrains d’équita
 <sup>6</sup> Au surplus, les conditions fixées à l’art. 34 doivent être remplies.
 
 [^34b-1]: Introduit par le ch. I de l’O du 2 avr. 2014, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
-[^34b-2]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
-[^34b-3]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^34b-2]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
+[^34b-3]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 #### Art. 35
 
@@ -667,7 +700,7 @@ Est considérée comme un développement interne (art. 16*a*, al. 2, LAT) l’é
 
 **Développement interne dans le domaine de la culture maraîchère et de l’horticulture productrice**
 
-<sup>1</sup> L’édification de constructions et installations destinées à la culture maraîchère et à l’horticulture selon un mode de production indépendant du sol est réputée développement interne (art. 16*a,* al. 2, LAT) si la surface de production indépendante du sol n’excède pas 35 % de la surface maraîchère ou horticole cultivée et n’est pas supérieure à 5000 m<sup>2</sup>.[^37-1]
+<sup>1</sup> L’édification de constructions et installations destinées à la culture maraîchère et à l’horticulture selon un mode de production indépendant du sol est réputée développement interne (art. 16*a*, al. 2, LAT) si la surface de production indépendante du sol n’excède pas 35 % de la surface maraîchère ou horticole cultivée et n’est pas supérieure à 5000 m<sup>2</sup>.[^37-1]
 
 <sup>2</sup> La production est réputée indépendante du sol s’il n’y a pas de lien suffisamment étroit avec le sol.
 
@@ -679,11 +712,11 @@ Est considérée comme un développement interne (art. 16*a*, al. 2, LAT) l’é
 
 Les cantons déterminent, dans le cadre de l’élaboration de leur plan directeur ou par voie législative, les exigences à respecter lors de la délimitation de zones au sens de l’art. 16*a*, al. 3, LAT; à cet égard, les buts et les principes énoncés aux art. 1 et 3 LAT sont déterminants.
 
-### Section 6**** Exceptions pour les constructions et installations hors de la zone à bâtir
+### Section 6 Exceptions pour les constructions et installations hors de la zone à bâtir
 
 [^chap5-sec6-1]
 
-[^chap5-sec6-1]: Anciennement section 4
+[^chap5-sec6-1]: Anciennement section 4.
 
 #### Art. 39
 
@@ -742,11 +775,11 @@ Sont considérées comme des activités accessoires étroitement liées à l’e
 <sup>5</sup> Si les conditions pour une autorisation au sens de l’art. 24*b* LAT ne sont plus remplies, l’autorisation devient caduque. L’autorité compétente le constate par une décision. Sur requête, il sera décidé dans le cadre d’une nouvelle procédure d’autorisation si l’activité accessoire non agricole peut être autorisée en vertu d’une autre disposition.
 
 [^40-1]: Nouvelle teneur selon le ch. I de l’O du 4 juil. 2007, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 3641](https://fedlex.data.admin.ch/eli/oc/2007/453)).
-[^40-2]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^40-2]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 #### Art. 41
 
-**Champ d’application de l’art. 24c LAT**[^41-1]
+**Champ d’application de l’art. 24*c* LAT**[^41-1]
 
 <sup>1</sup> L’art. 24*c* LAT est applicable aux constructions et installations qui ont été érigées ou transformées légalement avant l’attribution du bien-fonds à un territoire non constructible au sens du droit fédéral (constructions et installations érigées selon l’ancien droit).
 
@@ -772,11 +805,14 @@ La question de savoir si l’identité de la construction ou de l’installation
 
 <sup>4</sup> Ne peut être reconstruite que la construction ou l’installation qui pouvait être utilisée conformément à sa destination au moment de sa destruction ou de sa démolition et dont l’utilisation répond toujours à un besoin. Le volume bâti ne peut être reconstruit que dans la mesure correspondant à la surface admissible au sens de l’al. 3. L’al. 3, let. a n’est pas applicable. Si des raisons objectives l’exigent, l’implantation de la construction ou de l’installation de remplacement peut légèrement différer de celle de la construction ou de l’installation antérieure.[^42-5]
 
+<sup>5</sup> Les installations solaires visées à l’art. 18*a*, al. 1, LAT, ne sont pas prises en compte dans l’examen selon l’art. 24*c*, al. 4, LAT.[^42-6]
+
 [^42-1]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-2]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-3]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-4]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-5]: Nouvelle teneur selon le ch. I de l’O du 4 juil. 2007, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 3641](https://fedlex.data.admin.ch/eli/oc/2007/453)).
+[^42-6]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
 
 #### Art. 42a
 
@@ -784,7 +820,7 @@ La question de savoir si l’identité de la construction ou de l’installation
 
 <sup>1</sup> Un agrandissement peut être admis conformément à l’art. 24*d*, al. 1 et 3, LAT s’il est indispensable pour un usage d’habitation répondant aux normes usuelles.
 
-<sup>2</sup> ...[^42a-3]
+<sup>2</sup> …[^42a-3]
 
 <sup>3</sup> La reconstruction peut être admise si la destruction était due à un cas de force majeure.[^42a-4]
 
@@ -820,7 +856,7 @@ Sont considérées comme des installations extérieures les installations qui so
 [^42b-2]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2014, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 [^42b-3]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42b-4]: Introduit par le ch. I de l’O du 2 avr. 2014, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
-[^42b-5]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^42b-5]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^42b-6]: Introduit par le ch. I de l’O du 2 avr. 2014, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 [^42b-7]: Introduit par le ch. I de l’O du 2 avr. 2014, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 [^42b-8]: Introduit par le ch. I de l’O du 2 avr. 2014, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
@@ -843,7 +879,7 @@ Les changements d’affectation et les agrandissements de constructions et insta
 - a. si la construction ou l’installation a été érigée ou transformée légalement;
 - b. s’il n’en résulte aucun nouvel impact important sur le territoire et l’environnement;
 - c. si la nouvelle utilisation ne contrevient à aucune autre loi fédérale;
-- [tab] d. à f.[^43-2] ...
+- [tab] d. à f.[^43-2]…
 
 <sup>2</sup> La surface utilisée pour un usage non conforme à l’affectation de la zone peut être agrandie de 30 %, les agrandissements effectués à l’intérieur du volume bâti existant comptant pour moitié.
 
@@ -866,11 +902,11 @@ Des autorisations ne peuvent être délivrées sur la base de la présente secti
 
 [^43a-1]: Introduit par le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 
-### Section 7**** Mention au registre foncier
+### Section 7 Mention au registre foncier
 
 [^chap5-sec7-1]
 
-[^chap5-sec7-1]: Anciennement section 5
+[^chap5-sec7-1]: Anciennement section 5.
 
 #### Art. 44
 
@@ -886,11 +922,11 @@ L’autorité cantonale compétente qui octroie une autorisation relative à une
 
 <sup>3</sup> L’Office du registre foncier radie d’office les mentions lorsque le bien-fonds est définitivement classé en zone à bâtir. Dans les autres cas, il ne peut radier une mention que lorsque l’autorité compétente a pris une décision constatant que les conditions qui avaient justifié la mention n’existent plus.
 
-### Section 8**** Observation du territoire et information
+### Section 8 Observation du territoire et information
 
 [^chap5-sec8-1]
 
-[^chap5-sec8-1]: Anciennement section 6
+[^chap5-sec8-1]: Anciennement section 6.
 
 #### Art. 45
 
@@ -950,8 +986,8 @@ Les cantons notifient à l’ARE les décisions relatives à l’approbation de 
 
 L’obligation de coordonner les procédures découlant de l’art. 4*a* de l’ordonnance du 4 octobre 1993 sur le droit foncier rural[^49-1] incombe par analogie à l’autorité cantonale compétente en matière de construction hors de la zone à bâtir (art. 25, al. 2, LAT) lorsque celle-ci ne peut exclure la nécessité d’une exception à l’interdiction de partage matériel ou de morcellement au sens de l’art. 60 de la loi fédérale du 4 octobre 1991 sur le droit foncier rural[^49-2] ou d’une décision constatant la non-soumission du bien-fonds concerné à cette loi.
 
-[^49-1]: [RS 211.412.110](https://fedlex.data.admin.ch/eli/cc/1993/2904_2904_2904)
-[^49-2]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^49-1]: [RS 211.412.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5758)
+[^49-2]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 #### Art. 50
 
@@ -965,7 +1001,7 @@ L’ordonnance du 2 octobre 1989 sur l’aménagement du territoire[^50-1] est a
 
 **Modification du droit en vigueur**
 
-...[^51-1]
+…[^51-1]
 
 [^51-1]: La mod. peut être consultée au [RO 2000 2047](https://fedlex.data.admin.ch/eli/oc/2000/310).
 
@@ -1009,7 +1045,7 @@ Durant la période transitoire prévue à l’art. 38*a*, al. 2, LAT, un classem
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> septembre 2000.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 52*a*, al. 5)
 
@@ -1019,7 +1055,7 @@ Annexe*[^t-1]*
 
 Vu l’art. 38*a*, al. 5, LAT et l’art. 52*a*, al. 5, de la présente ordonnance, aucune nouvelle zone à bâtir ne peut être créée dans les cantons suivants:
 
-- 1\. ...
-- 2\. ...
-- 3\. ...
-- 4\. ...
+- 1\. …
+- 2\. …
+- 3\. …
+- 4\. …
