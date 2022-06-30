@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 juin 2004 sur les recueils du droit fédéral et la
 short: LPubl
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/745"
 language: fr
-version: 2018-11-26
+version: 2022-07-01
 adopted: 2004-06-18
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/745/20181126/fr/xml/fedlex-data-admin-ch-eli-cc-2004-745-20181126-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20181126/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/745/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2004-745-20220701-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20181126/fr"
 
 (Loi sur les publications officielles, LPubl)
 
-du 18 juin 2004 (Etat le 26 novembre 2018)
+du 18 juin 2004 (Etat le 1<sup>er</sup> juillet 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -54,10 +54,9 @@ La présente loi régit la publication par la Chancellerie fédérale:[^1-2]
 
 <sup>1</sup> La publication au sens de la présente loi est effectuée de manière centralisée sur une plate-forme en ligne accessible au public (plate-forme).
 
-<sup>2</sup> …[^1a-2]
+<sup>2</sup> La publication permet en principe la consultation des versions successives du texte, sous une forme également lisible par ordinateur. Le Conseil fédéral fixe les exceptions.
 
-[^1a-1]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
-[^1a-2]: Entre en vigueur ultérieurement.
+[^1a-1]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016, sauf l’al. 2, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [2021 693](https://fedlex.data.admin.ch/eli/oc/2021/693); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 ## Section 2 Recueil officiel du droit fédéral
 
@@ -114,18 +113,18 @@ Sont publiées dans le RO:
 
 <sup>1</sup>
 
-Les textes visés aux art. 2 à 4 qui, en raison de leur caractère particulier, ne se prêtent pas à la publication dans le RO n’y sont mentionnés que par leur titre et par l’adjonction d’une référence ou du nom de l’organisme auprès duquel ils peuvent être obtenus, notamment:
+Les textes visés aux art. 2 à 4 qui, en raison de leur caractère particulier, ne se prêtent pas à la publication dans le RO, y sont mentionnés uniquement par leur titre et par la référence à leur emplacement sur la plate-forme, notamment:
 
 - a. s’ils ne touchent qu’un nombre restreint de personnes;
 - b. s’ils ont un caractère technique et ne s’adressent qu’à des spécialistes;
-- c. s’ils doivent être publiés dans un format qui n’est pas adapté à une publication dans le RO; ou
+- c. s’ils doivent être publiés dans un format qui n’est pas adapté à une publication dans le RO, ou
 - d. s’ils doivent être publiés ailleurs que dans le RO en vertu d’une loi fédérale ou d’une ordonnance de l’Assemblée fédérale.
 
 <sup>2</sup> Les textes visés aux art. 2 à 4 qui sont publiés dans un autre organe de publication accessible gratuitement en Suisse sont mentionnés dans le RO uniquement par leur titre et par une référence à cet organe ou par le nom de l’organisme auprès duquel ils peuvent être obtenus.
 
 <sup>3</sup> Les art. 6 à 10 et 14 sont applicables.
 
-[^5-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016, sauf la ph. introductive de l’al. 1 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^5-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016, sauf la phrase introductive de l’al. 1, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [2021 693](https://fedlex.data.admin.ch/eli/oc/2021/693); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 #### Art. 6
 
@@ -250,7 +249,7 @@ Peuvent en outre être publiés dans la Feuille fédérale:
 
 [^sec4a-1]
 
-[^sec4a-1]: Introduite par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^sec4a-1]: Introduite par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016, sauf l’art. 13*a*, al. 1, let. a, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [2021 693](https://fedlex.data.admin.ch/eli/oc/2021/693); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 #### Art. 13a
 
@@ -258,16 +257,15 @@ Peuvent en outre être publiés dans la Feuille fédérale:
 
 Sont également publiés sur la plate-forme les textes suivants:
 
-- a.[^13a-1] …
-- b.[^13a-2] les documents relatifs aux procédures de consultation au sens de la loi du 18 mars 2005 sur la consultation[^13a-3];
+- a. la version intégrale des textes publiés sous forme de renvoi en vertu des art. 5, al. 1, et 13, al. 3;
+- b.[^13a-1] les documents relatifs aux procédures de consultation au sens de la loi du 18 mars 2005 sur la consultation[^13a-2];
 - c. les versions antérieures du droit fédéral;
 - d. les traductions des publications officielles, en particulier en langues romanche ou anglaise.
 
 <sup>2</sup> Le Conseil fédéral peut prévoir la publication sur la plate-forme d’autres textes présentant un lien avec la législation.
 
-[^13a-1]: Entre en vigueur ultérieurement.
-[^13a-2]: Nouvelle teneur selon le ch. III de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669), [2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)[7957](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
-[^13a-3]: [RS 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
+[^13a-1]: Nouvelle teneur selon le ch. III de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669), [2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)[7957](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+[^13a-2]: [RS 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
 
 ## Section 5 Dispositions communes
 
@@ -279,25 +277,26 @@ Sont également publiés sur la plate-forme les textes suivants:
 
 <sup>2</sup>
 
-Le Conseil fédéral peut décider que les textes dont la publication se limite à la mention du titre et à l’adjonction d’une référence ou du nom de l’organisme auprès duquel ils peuvent être obtenus, ne seront pas publiés dans les trois langues officielles ou ne seront pas traduits dans les langues officielles, à condition que:
+Le Conseil fédéral peut prévoir que les textes publiés par renvoi en vertu de l’art. 13*a*, al. 1, let. a, et les autres textes visés à l’art. 13*a*, al. 2, ne seront pas publiés dans les trois langues officielles, voire ne seront publiés dans aucune d’entre elles, à condition que:[^14-2]
 
-- a. les dispositions contenues dans ces textes n’imposent pas directement des obligations aux personnes concernées; ou
+- a. les dispositions contenues dans ces textes n’imposent pas directement des obligations aux personnes concernées, ou
 - b. les personnes concernées utilisent ces textes uniquement dans la langue originale.
 
 <sup>3</sup> La Chancellerie fédérale peut décider que les décisions ou communications émanant soit de l’administration fédérale soit d’une organisation ou d’une personne de droit public ou de droit privé (art. 13, al. 2) ne seront publiées que dans la langue officielle de la région linguistique concernée, pour autant qu’elles revêtent une importance exclusivement locale.
 
-<sup>4</sup> La traduction des documents relatifs aux procédures de consultation est régie par la législation sur la procédure de consultation[^14-2].[^14-3]
+<sup>4</sup> La traduction des documents relatifs aux procédures de consultation est régie par la législation sur la procédure de consultation[^14-3].[^14-4]
 
-<sup>5</sup> La publication des textes en langue romanche est régie par l’art. 11 de la loi du 5 octobre 2007 sur les langues[^14-4].[^14-5]
+<sup>5</sup> La publication des textes en langue romanche est régie par l’art. 11 de la loi du 5 octobre 2007 sur les langues[^14-5].[^14-6]
 
-<sup>6</sup> Les textes publiés sur la plate-forme qui sont de portée majeure ou d’intérêt international peuvent être publiés dans d’autres langues, en particulier en anglais.[^14-6]
+<sup>6</sup> Les textes publiés sur la plate-forme qui sont de portée majeure ou d’intérêt international peuvent être publiés dans d’autres langues, en particulier en anglais.[^14-7]
 
 [^14-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
-[^14-2]: [RS 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)et **172.061.1**
-[^14-3]: Introduit par le ch. III de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669), [2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)[7957](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
-[^14-4]: [RS 441.1](https://fedlex.data.admin.ch/eli/cc/2009/821)
-[^14-5]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^14-2]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [2021 693](https://fedlex.data.admin.ch/eli/oc/2021/693); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^14-3]: [RS 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)et **172.061.1**
+[^14-4]: Introduit par le ch. III de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669), [2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)[7957](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+[^14-5]: [RS 441.1](https://fedlex.data.admin.ch/eli/cc/2009/821)
 [^14-6]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^14-7]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 #### Art. 14a
 
@@ -373,7 +372,7 @@ Peuvent être consultés dans les bureaux de la Chancellerie fédérale et dans 
 
 #### Art. 19
 
-**Emoluments**[^19-1]
+**Émoluments**[^19-1]
 
 <sup>1</sup> La consultation de la plate-forme et la consultation au sens de l’art. 18 sont gratuites.
 

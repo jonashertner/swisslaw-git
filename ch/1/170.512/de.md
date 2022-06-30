@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 18. Juni 2004 über die Sammlungen des Bundesrechts und
 short: PublG
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/745"
 language: de
-version: 2018-11-26
+version: 2022-07-01
 adopted: 2004-06-18
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/745/20181126/de/xml/fedlex-data-admin-ch-eli-cc-2004-745-20181126-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20181126/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/745/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2004-745-20220701-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20181126/de"
 
 (Publikationsgesetz, PublG)
 
-vom 18. Juni 2004 (Stand am 26. November 2018)
+vom 18. Juni 2004 (Stand am 1. Juli 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -54,10 +54,9 @@ Dieses Gesetz regelt die Veröffentlichung durch die Bundeskanzlei:[^1-2]
 
 <sup>1</sup> Die Veröffentlichung nach diesem Gesetz erfolgt zentral über eine öffentlich zugängliche Online-Plattform (Publikationsplattform).
 
-<sup>2</sup> …[^1a-2]
+<sup>2</sup> Sie erfolgt im Grundsatz auch in einer Form, die maschinenlesbar ist und mit der die aktuelle und alle früheren Fassungen abgerufen werden können. Der Bundesrat bestimmt die Ausnahmen.
 
-[^1a-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
-[^1a-2]: Noch nicht in Kraft.
+[^1a-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016, Abs. 2 in Kraft seit 1. Juli 2022 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [2021 693](https://fedlex.data.admin.ch/eli/oc/2021/693); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 ## 2. Abschnitt: Amtliche Sammlung des Bundesrechts
 
@@ -113,7 +112,7 @@ In der AS werden veröffentlicht:
 
 <sup>1</sup>
 
-Texte nach den Artikeln 2–4, die sich wegen ihres besonderen Charakters für die Veröffentlichung in der AS nicht eignen, werden nur mit Titel sowie Fundstelle oder Bezugsquelle aufgenommen, namentlich wenn:
+Texte nach den Artikeln 2–4, die sich wegen ihres besonderen Charakters für die Veröffentlichung in der AS nicht eignen, werden nur mit Titel und mit Fundstelle auf der Publikationsplattform in die AS aufgenommen, namentlich wenn:
 
 - a. sie nur einen kleinen Kreis von Personen betreffen;
 - b. sie technischer Natur sind und sich nur an Fachleute wenden;
@@ -124,7 +123,7 @@ Texte nach den Artikeln 2–4, die sich wegen ihres besonderen Charakters für d
 
 <sup>3</sup> Die Artikel 6–10 und 14 sind anwendbar.
 
-[^5-1]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016, mit Ausnahme von Abs. 1 Einleitungssatz ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^5-1]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016, Abs. 1 Einleitungssatz in Kraft seit 1. Juli 2022 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [2021 693](https://fedlex.data.admin.ch/eli/oc/2021/693); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 #### Art. 6
 
@@ -249,7 +248,7 @@ Im Bundesblatt können ferner veröffentlicht werden:
 
 [^sec4a-1]
 
-[^sec4a-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^sec4a-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016, Art. 13*a* Abs. 1 Bst. a in Kraft seit 1. Juli 2022 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [2021 693](https://fedlex.data.admin.ch/eli/oc/2021/693); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 #### Art. 13a
 
@@ -257,16 +256,15 @@ Im Bundesblatt können ferner veröffentlicht werden:
 
 Auf der Publikationsplattform werden des Weiteren veröffentlicht:
 
-- a.[^13a-1] …
-- b.[^13a-2] die Unterlagen zu Vernehmlassungen im Sinne des Vernehmlassungsgesetzes vom 18. März 2005[^13a-3];
+- a. die vollständigen durch Verweis veröffentlichten Texte nach den Artikeln 5 Absatz 1 und 13 Absatz 3;
+- b.[^13a-1] die Unterlagen zu Vernehmlassungen im Sinne des Vernehmlassungsgesetzes vom 18. März 2005[^13a-2];
 - c. vergangene Fassungen des Bundesrechts;
 - d. Übersetzungen amtlicher Veröffentlichungen insbesondere in rätoromanischer und in englischer Sprache.
 
 <sup>2</sup> Der Bundesrat kann vorsehen, dass weitere Texte, die einen Zusammenhang mit der Gesetzgebung haben, auf der Publikationsplattform veröffentlicht werden.
 
-[^13a-1]: Noch nicht in Kraft.
-[^13a-2]: Fassung gemäss Ziff. III des BG vom 26. Sept. 2014, in Kraft seit 1. April 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669), [2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)[8875](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
-[^13a-3]: [SR 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
+[^13a-1]: Fassung gemäss Ziff. III des BG vom 26. Sept. 2014, in Kraft seit 1. April 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)[8875](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+[^13a-2]: [SR 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
 
 ## 5. Abschnitt: Gemeinsame Bestimmungen
 
@@ -278,25 +276,26 @@ Auf der Publikationsplattform werden des Weiteren veröffentlicht:
 
 <sup>2</sup>
 
-Der Bundesrat kann bestimmen, dass Texte, die nur mit Titel sowie Fundstelle oder Bezugsquelle veröffentlicht werden, nicht in allen drei Amtssprachen veröffentlicht werden oder dass auf eine Übersetzung in die Amtssprachen verzichtet wird, wenn:
+Der Bundesrat kann bestimmen, dass durch Verweis veröffentlichte Texte nach Artikel 13*a* Absatz 1 Buchstabe a und weitere Texte nach Artikel 13*a* Absatz 2 nicht in allen drei Amtssprachen oder in keiner Amtssprache veröffentlicht werden, wenn:[^14-2]
 
 - a. die in diesen Texten enthaltenen Bestimmungen die Betroffenen nicht unmittelbar verpflichten; oder
 - b. die Betroffenen diese Texte ausschliesslich in der Originalsprache benützen.
 
 <sup>3</sup> Die Bundeskanzlei kann bestimmen, dass Beschlüsse und Mitteilungen der Bundesverwaltung sowie von Organisationen und Personen des öffentlichen oder des privaten Rechts nach Artikel 13 Absatz 2 nur in der Amtssprache des betroffenen Sprachgebietes veröffentlicht werden, sofern sie von ausschliesslich lokaler Bedeutung sind.
 
-<sup>4</sup> Für die Übersetzung der Unterlagen zu Vernehmlassungen gilt die Gesetzgebung über das Vernehmlassungsverfahren[^14-2].[^14-3]
+<sup>4</sup> Für die Übersetzung der Unterlagen zu Vernehmlassungen gilt die Gesetzgebung über das Vernehmlassungsverfahren[^14-3].[^14-4]
 
-<sup>5</sup> Die Veröffentlichung von Texten in Rätoromanisch richtet sich nach Artikel 11 des Sprachengesetzes vom 5. Oktober 2007[^14-4].[^14-5]
+<sup>5</sup> Die Veröffentlichung von Texten in Rätoromanisch richtet sich nach Artikel 11 des Sprachengesetzes vom 5. Oktober 2007[^14-5].[^14-6]
 
-<sup>6</sup> Auf der Publikationsplattform veröffentlichte Texte von besonderer Tragweite oder internationalem Interesse können in weiteren Sprachen, insbesondere in Englisch, veröffentlicht werden.[^14-6]
+<sup>6</sup> Auf der Publikationsplattform veröffentlichte Texte von besonderer Tragweite oder internationalem Interesse können in weiteren Sprachen, insbesondere in Englisch, veröffentlicht werden.[^14-7]
 
 [^14-1]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
-[^14-2]: [SR 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)und [172.061.1](https://fedlex.data.admin.ch/eli/cc/2005/543)
-[^14-3]: Eingefügt durch Ziff. III des BG vom 26. Sept. 2014, in Kraft seit 1. April 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669), [2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)[8875](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
-[^14-4]: [SR 441.1](https://fedlex.data.admin.ch/eli/cc/2009/821)
-[^14-5]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^14-2]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2022 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [2021 693](https://fedlex.data.admin.ch/eli/oc/2021/693); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^14-3]: [SR 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)und [172.061.1](https://fedlex.data.admin.ch/eli/cc/2005/543)
+[^14-4]: Eingefügt durch Ziff. III des BG vom 26. Sept. 2014, in Kraft seit 1. April 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669), [2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)[8875](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+[^14-5]: [SR 441.1](https://fedlex.data.admin.ch/eli/cc/2009/821)
 [^14-6]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^14-7]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 #### Art. 14a
 

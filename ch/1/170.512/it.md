@@ -4,11 +4,11 @@ title: "Legge federale del 18 giugno 2004 sulle raccolte del diritto federale e 
 short: LPubb
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/745"
 language: it
-version: 2018-11-26
+version: 2022-07-01
 adopted: 2004-06-18
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/745/20181126/it/xml/fedlex-data-admin-ch-eli-cc-2004-745-20181126-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20181126/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/745/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2004-745-20220701-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20181126/it"
 
 (Legge sulle pubblicazioni ufficiali, LPubb)**[^t-1]**
 
-del 18 giugno 2004 (Stato 26 novembre 2018)
+del 18 giugno 2004 (Stato 1° luglio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
@@ -56,10 +56,9 @@ La presente legge disciplina la pubblicazione da parte della Cancelleria federal
 
 <sup>1</sup> La pubblicazione secondo la presente legge avviene in modo centralizzato per il tramite di una piattaforma in linea pubblicamente accessibile (piattaforma di pubblicazione).
 
-<sup>2</sup> …[^1a-2]
+<sup>2</sup> In linea di massima la pubblicazione avviene anche in una forma leggibile elettronicamente e che consente inoltre di richiamare tutte le versioni precedenti. Il Consiglio federale determina le eccezioni.
 
-[^1a-1]: Introdotto dal n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
-[^1a-2]: Entra in vigore ulteriormente.
+[^1a-1]: Introdotto dal n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016, cpv. 2 in vigore dal 1° lug. 2022 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [2021 693](https://fedlex.data.admin.ch/eli/oc/2021/693); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 ## Sezione 2: Raccolta ufficiale delle leggi federali
 
@@ -115,7 +114,7 @@ Nella RU sono pubblicati:
 
 <sup>1</sup>
 
-I testi di cui agli articoli 2–4 che, per il loro carattere speciale, non si prestino alla pubblicazione nella RU vi sono menzionati soltanto con il titolo e un rimando o l’indicazione dell’ente presso cui possono essere ottenuti, segnatamente se:
+I testi di cui agli articoli 2–4 che per il loro carattere speciale non si prestano alla pubblicazione nella RU, vi sono menzionati soltanto con il titolo e con un rimando alla piattaforma di pubblicazione, segnatamente se:
 
 - a. concernono solo una cerchia ristretta di persone;
 - b sono di natura tecnica e si rivolgono solo a specialisti;
@@ -126,7 +125,7 @@ I testi di cui agli articoli 2–4 che, per il loro carattere speciale, non si p
 
 <sup>3</sup> Sono applicabili gli articoli 6–10 e 14.
 
-[^5-1]: Nuovo testo, ad eccezione del cpv. 1 della frase introduttiva, giusta il n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^5-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016, cpv. 1 della frase introduttiva in vigore dal 1° lug. 2022 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [2021 693](https://fedlex.data.admin.ch/eli/oc/2021/693); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 #### Art. 6
 
@@ -251,7 +250,7 @@ Nel Foglio federale possono inoltre essere pubblicati:
 
 [^sec4a-1]
 
-[^sec4a-1]: Introdotta dal n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^sec4a-1]: Introdotta dal n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016, art. 13 cpv. 1 lett. a in vigore dal 1° lug. 2022 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [2021 693](https://fedlex.data.admin.ch/eli/oc/2021/693); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 #### Art. 13a
 
@@ -259,16 +258,15 @@ Nel Foglio federale possono inoltre essere pubblicati:
 
 Sulla piattaforma di pubblicazione sono inoltre pubblicati:
 
-- a.[^13a-1] …
-- b.[^13a-2] i documenti relativi alle procedure di consultazione ai sensi della legge del 18 marzo 2005[^13a-3] sulla consultazione;
+- a. i testi integrali pubblicati mediante rimando di cui agli articoli 5 capoverso 1 e 13 capoverso 3;
+- b.[^13a-1] i documenti relativi alle procedure di consultazione ai sensi della legge del 18 marzo 2005[^13a-2] sulla consultazione;
 - c. le versioni previgenti dei testi del diritto federale;
 - d. le traduzioni di pubblicazioni ufficiali, in particolare in romancio e in inglese.
 
 <sup>2</sup> Il Consiglio federale può prevedere che sulla piattaforma di pubblicazione siano pubblicati altri testi connessi con la legislazione.
 
-[^13a-1]: Entra in vigore ulteriormente.
-[^13a-2]: Nuovo testo giusta il n. III della LF del 26 set. 2014, in vigore dal 1° apr. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669), [2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)[7619](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
-[^13a-3]: [RS 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
+[^13a-1]: Nuovo testo giusta il n. III della LF del 26 set. 2014, in vigore dal 1° apr. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669), [2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)[7619](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+[^13a-2]: [RS 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
 
 ## Sezione 5: Disposizioni comuni
 
@@ -280,25 +278,26 @@ Sulla piattaforma di pubblicazione sono inoltre pubblicati:
 
 <sup>2</sup>
 
-Il Consiglio federale può decidere di non far pubblicare in ognuna delle tre lingue ufficiali o di non far tradurre nelle lingue ufficiali i testi pubblicati solo con il titolo corredato di un rimando o dell’indicazione dell’ente presso cui possono essere ottenuti, sempre che:
+Il Consiglio federale può decidere che i testi pubblicati mediante rimando di cui all’articolo 13*a* capoverso 1 lettera a e altri testi di cui all’articolo 13*a* capoverso 2 non siano pubblicati in ognuna delle tre lingue ufficiali o non siano pubblicati in nessuna di esse, sempre che:[^14-2]
 
 - a. le disposizioni contenute in tali testi non vincolino direttamente gli interessati; oppure
 - b. gli interessati usino tali testi esclusivamente nella lingua originale.
 
 <sup>3</sup> La Cancelleria federale può stabilire di pubblicare solo nella lingua ufficiale della regione linguistica interessata le decisioni e le comunicazioni dell’Amministrazione federale e di organizzazioni o persone di diritto pubblico o privato secondo l’articolo 13 capoverso 2, per quanto tali decisioni e comunicazioni siano rilevanti esclusivamente sotto il profilo locale.
 
-<sup>4</sup> La traduzione dei documenti relativi alle procedure di consultazione è retta dalla legislazione in materia di procedura di consultazione[^14-2].[^14-3]
+<sup>4</sup> La traduzione dei documenti relativi alle procedure di consultazione è retta dalla legislazione in materia di procedura di consultazione[^14-3].[^14-4]
 
-<sup>5</sup> La pubblicazione di testi in romancio è retta dall’articolo 11 della legge del 5 ottobre 2007[^14-4] sulle lingue.[^14-5]
+<sup>5</sup> La pubblicazione di testi in romancio è retta dall’articolo 11 della legge del 5 ottobre 2007[^14-5] sulle lingue.[^14-6]
 
-<sup>6</sup> I testi pubblicati sulla piattaforma di pubblicazione di particolare importanza o di interesse internazionale possono essere pubblicati in altre lingue, in particolare in inglese.[^14-6]
+<sup>6</sup> I testi pubblicati sulla piattaforma di pubblicazione di particolare importanza o di interesse internazionale possono essere pubblicati in altre lingue, in particolare in inglese.[^14-7]
 
 [^14-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
-[^14-2]: [RS 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)e [172.061.1](https://fedlex.data.admin.ch/eli/cc/2005/543)
-[^14-3]: Introdotto dal n. III della LF del 26 set. 2014, in vigore dal 1° apr. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669), [2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)[7619](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
-[^14-4]: [RS 441.1](https://fedlex.data.admin.ch/eli/cc/2009/821)
-[^14-5]: Introdotto dal n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^14-2]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2022 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [2021 693](https://fedlex.data.admin.ch/eli/oc/2021/693); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^14-3]: [RS 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)e [172.061.1](https://fedlex.data.admin.ch/eli/cc/2005/543)
+[^14-4]: Introdotto dal n. III della LF del 26 set. 2014, in vigore dal 1° apr. 2016 (RU **2015**3977, **2016** 925; [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)[7619](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+[^14-5]: [RS 441.1](https://fedlex.data.admin.ch/eli/cc/2009/821)
 [^14-6]: Introdotto dal n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^14-7]: Introdotto dal n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 #### Art. 14a
 
@@ -320,7 +319,7 @@ Il Consiglio federale può decidere di non far pubblicare in ognuna delle tre li
 
 <sup>3</sup> La versione determinante dei trattati e delle risoluzioni internazionali è stabilita dalle rispettive disposizioni.
 
-[^15-1]: Abrogato dal n. II 1 dell’all. alla L del 5 ott. 2007 sulle lingue ([RU 2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)). Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^15-1]: Abrogato dall’all. n. II 1 della L del 5 ott. 2007 sulle lingue ([RU 2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)). Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 #### Art. 16
 

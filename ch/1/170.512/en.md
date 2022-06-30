@@ -4,11 +4,11 @@ title: "Federal Act of 18 June 2004 on the Compilations of Federal Legislation a
 short: PublA
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/745"
 language: en
-version: 2018-11-26
+version: 2022-07-01
 adopted: 2004-06-18
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/745/20181126/en/xml/fedlex-data-admin-ch-eli-cc-2004-745-20181126-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20181126/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/745/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2004-745-20220701-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/745/20220701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Publications Act, PublA)
 
-of 18 June 2004 (Status as of 26 November 2018)
+of 18 June 2004 (Status as of 1 July 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -56,10 +56,9 @@ This Act regulates the publication by the Federal Chancellery of:[^1-2]
 
 <sup>1</sup> Publication under this Act takes place centrally via a publicly accessible online platform (the publications platform).
 
-<sup>2</sup> …[^1a-2]
+<sup>2</sup> In principle, it also takes place in a form that is machine-readable and in which the current and all earlier versions are made available. The Federal Council shall specify the exceptions.
 
-[^1a-1]: Inserted by No I of the FA of 26 Sept. 2014, in force since 1 Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
-[^1a-2]: Not yet in force.
+[^1a-1]: Inserted by No I of the FA of 26 Sept. 2014, in force since 1 Jan. 2016, para. 2 in force since 1 July 2022 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [2021 693](https://fedlex.data.admin.ch/eli/oc/2021/693); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 ## Section 2 Official Compilation of Federal Legislation
 
@@ -115,7 +114,7 @@ The following shall be published in the AS:
 
 <sup>1</sup>
 
-Texts in terms of Articles 2–4 which by their special nature are not suitable for the publication in the AS shall be included simply as a title with a reference or source, in particular if:
+Texts in terms of Articles 2–4 which by their special nature are not suitable for the publication in the AS shall be included in the AS on the publications platform simply as a title with a reference, in particular if:
 
 - a. they concern only a small group of people;
 - b. they are technical in nature and only intended for specialists;
@@ -126,7 +125,7 @@ Texts in terms of Articles 2–4 which by their special nature are not suitable 
 
 <sup>3</sup> Articles 6–10 and 14 apply.
 
-[^5-1]: Amended by No I of the FA of 26 Sept. 2014, in force since 1 Jan. 2016, with the exception of the introductory sentence to para. 1 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^5-1]: Amended by No I of the FA of 26 Sept. 2014, in force since 1 Jan. 2016, introductory sentence to para. 1 in force since 1 July 2022 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [2021 693](https://fedlex.data.admin.ch/eli/oc/2021/693); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 #### Art. 6
 
@@ -251,7 +250,7 @@ In addition, the following may be published in the Federal Gazette:
 
 [^sec4a-1]
 
-[^sec4a-1]: Inserted by No I of the FA of 26 Sept. 2014, in force since 1 Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^sec4a-1]: Inserted by No I of the FA of 26 Sept. 2014, in force since 1 Jan. 2016, Art. 13*a* para. 1 let. a in force since 1 July 2022 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [2021 693](https://fedlex.data.admin.ch/eli/oc/2021/693); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 #### Art. 13a
 
@@ -259,16 +258,15 @@ In addition, the following may be published in the Federal Gazette:
 
 The following texts are also published on the publications platform:
 
-- a.[^13a-1] …
-- b.[^13a-2] the documents relating to consultation proceedings under the Consultation Procedure Act of 18 March 2005[^13a-3];
+- a. the full versions of the texts published by reference in accordance with Articles 5 paragraph 1 und 13 paragraph 3;
+- b.[^13a-1] the documents relating to consultation proceedings under the Consultation Procedure Act of 18 March 2005[^13a-2];
 - c. former versions of federal law;
 - d. translations of official publications, in particular those in Romansh or English.
 
 <sup>2</sup> The Federal Council may provide that further texts that are related to legislation are published on the publications platform.
 
-[^13a-1]: Not yet in force.
-[^13a-2]: Amended by No III of the FA of 26 Sept. 2014, in force since 1 April 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669), [2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)[8875](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
-[^13a-3]: [SR 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
+[^13a-1]: Amended by No III of the FA of 26 Sept. 2014, in force since 1 April 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669), [2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)[8875](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+[^13a-2]: [SR 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
 
 ## Section 5 Common Provisions
 
@@ -280,25 +278,26 @@ The following texts are also published on the publications platform:
 
 <sup>2</sup>
 
-The Federal Council may decide that texts that are only published as a title with a reference or source will not be published in all three official languages or that a translation into the official languages is not required if:
+The Federal Council may decide that texts that are published by reference in accordance with Article 13*a* paragraph 1 letter a and other texts in accordance with Article 13*a* paragraph 2 will not be published in all three official languages or in any official language if:[^14-2]
 
 - a. the provisions contained in these texts do not directly bind the persons concerned; or
 - b. the persons concerned use the texts only in their original language.
 
 <sup>3</sup> The Federal Chancellery may decide that decrees and announcements issued by the Federal Administration and by organisations and persons under public or private law in accordance with Article 13 paragraph 2 are published only in the official language of the persons concerned, provided these are solely of local significance.
 
-<sup>4</sup> The translation of documents related to consultation proceedings is governed by the legislation on the consultation procedure[^14-2].[^14-3]
+<sup>4</sup> The translation of documents related to consultation proceedings is governed by the legislation on the consultation procedure[^14-3].[^14-4]
 
-<sup>5</sup> The publication of texts in Romansh is governed by Article 11 of the Languages Act of 5 October 2007[^14-4].[^14-5]
+<sup>5</sup> The publication of texts in Romansh is governed by Article 11 of the Languages Act of 5 October 2007[^14-5].[^14-6]
 
-<sup>6</sup> Texts of particular importance or international interest that are published on the publications platform may also be published in other languages, in particular English.[^14-6]
+<sup>6</sup> Texts of particular importance or international interest that are published on the publications platform may also be published in other languages, in particular English.[^14-7]
 
 [^14-1]: Amended by No I of the FA of 26 Sept. 2014, in force since 1 Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
-[^14-2]: [SR 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)and **172.061.1**
-[^14-3]: Inserted by No III of the FA of 26 Sept. 2014, in force since 1 April 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669), [2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)[8875](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
-[^14-4]: [SR 441.1](https://fedlex.data.admin.ch/eli/cc/2009/821)
-[^14-5]: Inserted by No I of the FA of 26 Sept. 2014, in force since 1 Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^14-2]: Amended by No I of the FA of 26 Sept. 2014, in force since 1 July 2022 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [2021 693](https://fedlex.data.admin.ch/eli/oc/2021/693); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^14-3]: [SR 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)and **172.061.1**
+[^14-4]: Inserted by No III of the FA of 26 Sept. 2014, in force since 1 April 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669), [2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)[8875](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+[^14-5]: [SR 441.1](https://fedlex.data.admin.ch/eli/cc/2009/821)
 [^14-6]: Inserted by No I of the FA of 26 Sept. 2014, in force since 1 Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^14-7]: Inserted by No I of the FA of 26 Sept. 2014, in force since 1 Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 #### Art. 14a
 
