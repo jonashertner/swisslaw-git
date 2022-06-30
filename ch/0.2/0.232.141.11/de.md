@@ -3,11 +3,11 @@ sr: "0.232.141.11"
 title: Ausführungsordnung vom 19. Juni 1970 zum Vertrag über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/942_941_941"
 language: de
-version: 2020-07-01
+version: 2022-07-01
 adopted: 1970-06-19
 in_force: 1978-01-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/942_941_941/20200701/de/xml/fedlex-data-admin-ch-eli-cc-1978-942_941_941-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/942_941_941/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/942_941_941/20220701/de/xml/fedlex-data-admin-ch-eli-cc-1978-942_941_941-20220701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/942_941_941/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,13 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1978/942_941_941/20200701/de"
 
 AS **1978** 942
 
-Amtlicher deutscher Text*[^t-1]*
+Amtlicher deutscher Text[^t-1]
 
 Abgeschlossen In Washington am 19. Juni 1970 Von der Bundesversammlung genehmigt am 29. November 1976[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 14. September 1977 In Kraft getreten für die Schweiz am 24. Januar 1978
 
 In der ab 1. Juli 2010 geltenden Fassung[^t-3]
 
-(Stand am 1. Juli 2020)
+(Stand am 1. Juli 2022)
 
 [^t-1]: Amtliche deutsche Übersetzung nach Art. 67 Abs. 1 Bst. b des Vertrages. Der nachstehende Wortlaut der Ausführungsordnung weicht in verschiedenen Punkten geringfügig ab von der mit der Botschaft veröffentlichten Fassung (BBl **1976** I 137–275), die noch nicht der bereinigte amtliche Text war. Wie die parlamentarische Redaktionskommission festgestellt hat, sind die Unterschiede rein redaktioneller Natur.
 [^t-2]: Art. 1 Ziff. 2 des BB vom 29. Nov. 1976 ([AS 1977 1709](https://fedlex.data.admin.ch/eli/oc/1977/1709_1709_1709))
@@ -197,7 +197,7 @@ Ist ein gemeinsamer Vertreter bestellt worden, so hat der Antrag eine entspreche
   - ii) ist die frühere Anmeldung eine regionale Anmeldung und ist mindestens einer der Mitgliedstaaten des regionalen Patentvertrags weder Verbandsland der Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums noch Mitglied der Welthandelsorganisation, so ist im Prioritätsanspruch mindestens ein Verbandsland dieser Übereinkunft oder ein Mitglied dieser Organisation anzugeben, für das die frühere Anmeldung eingereicht worden ist.
 
 - c) Artikel 2 Ziffer vi ist auf die Absätze a und b nicht anzuwenden.
-- d)[^partB-lvlu2-3] ...
+- d)[^partB-lvlu2-3] …
 
 4.11 Bezugnahme auf eine Fortsetzung oder Teilfortsetzung oder Hauptanmeldung oder Hauptpatent
 
@@ -221,7 +221,7 @@ Wenn der Anmelder wünscht, dass die Internationale Recherchenbehörde bei der D
 
 Sind zwei oder mehr Internationale Recherchenbehörden für die Durchführung der Recherche zur internationalen Anmeldung zuständig, so hat der Anmelder die von ihm gewählte Internationale Recherchenbehörde im Antrag anzugeben.
 
-4.15*[^partB-lvlu2-4]* Unterschrift
+4.15[^partB-lvlu2-4] Unterschrift
 
 Der Antrag ist vom Anmelder oder bei mehreren Anmeldern von allen Anmeldern zu unterzeichnen.
 
@@ -240,7 +240,7 @@ Für die Zwecke des in einem oder mehreren Bestimmungsstaaten geltenden national
 - iv) eine Erfindererklärung nach Regel 51<sup>bis</sup>.1 Absatz a Ziffer iv, die nach Massgabe der Verwaltungsvorschriften unterzeichnet sein muss;
 - v) eine Erklärung nach Regel 51<sup>bis</sup>.1 Absatz a Ziffer v hinsichtlich unschädlicher Offenbarungen oder Ausnahmen von der Neuheitsschädlichkeit.
 
-4.18*[^partB-lvlu2-5]* Erklärung über die Einbeziehung durch Verweis
+4.18[^partB-lvlu2-5] Erklärung über die Einbeziehung durch Verweis
 
 Beansprucht die internationale Anmeldung zu dem Zeitpunkt, an dem ein oder mehrere in Artikel 11 Absatz 1 Ziffer iii genannte Bestandteile erstmals beim Anmeldeamt eingegangen sind, die Priorität einer früheren Anmeldung, so kann der Antrag eine Erklärung des Inhalts enthalten, dass, wenn ein in Artikel 11 Absatz 1 Ziffer iii Buchstabe d oder e genannter Bestandteil der internationalen Anmeldung oder ein Teil der Beschreibung, der Ansprüche oder der Zeichnungen, auf den in Regel 20.5 Absatz a Bezug genommen wird, oder ein Bestandteil oder Teil der Beschreibung, der Ansprüche oder der Zeichnungen, auf den in Regel 20.5<sup>bis</sup> Absatz a Bezug genommen wird, nicht in sonstiger Weise in der internationalen Anmeldung, aber vollständig in der früheren Anmeldung enthalten ist, dieser Bestandteil oder Teil, vorbehaltlich einer Bestätigung gemäss Regel 20.6, durch Verweis für die Zwecke der Regel 20.6 in die internationale Anmeldung einbezogen ist. Eine solche Erklärung kann, falls sie zu diesem Zeitpunkt nicht im Antrag enthalten war, dem Antrag hinzugefügt werden, wenn und nur wenn sie zu diesem Zeitpunkt in sonstiger Weise in der internationalen Anmeldung enthalten war oder zusammen mit der internationalen Anmeldung eingereicht wurde.
 
@@ -270,10 +270,12 @@ Beansprucht die internationale Anmeldung zu dem Zeitpunkt, an dem ein oder mehre
 - b) Die im Absatz a festgelegte Form und Reihenfolge sind einzuhalten, ausser wenn wegen der Art der Erfindung eine abweichende Form oder Reihenfolge zu einem besseren Verständnis oder zu einer knapperen Darstellung führen würde.
 - c) Vorbehaltlich des Absatzes b soll möglichst jedem der in Absatz a genannten Teile eine geeignete Überschrift vorangestellt werden, wie sie in den Verwaltungsvorschriften vorgeschlagen wird.
 
-5.2 Offenbarung von Nucleotid- und/oder Aminosäuresequenzen
+5.2[^partB-lvlu3-1] Offenbarung von Nucleotid- und/oder Aminosäuresequenzen
 
-- a) Offenbart die internationale Anmeldung eine oder mehrere Nucleotid- und/oder Aminosäuresequenzen, so muss die Beschreibung ein Sequenzprotokoll enthalten, das dem in den Verwaltungsvorschriften vorgeschriebenen Standard entspricht und diesem Standard entsprechend als gesonderter Teil der Beschreibung abgefasst ist.
-- b) Enthält der Sequenzprotokollteil der Beschreibung freien Text im Sinne des in den Verwaltungsvorschriften vorgeschriebenen Standards, so muss dieser freie Text auch im Hauptteil der Beschreibung in deren Sprache erscheinen.
+- a) Offenbart die internationale Anmeldung Nucleotid- und/oder Aminosäuresequenzen, die entsprechend den Verwaltungsvorschriften in ein Sequenzprotokoll aufgenommen werden müssen, so muss die Beschreibung einen Sequenzprotokollteil der Beschreibung enthalten, der dem in den Verwaltungsvorschriften vorgeschriebenen Standard entspricht.
+- b) In den Sequenzprotokollteil der Beschreibung aufgenommener sprachabhängiger freier Text muss nicht in den Hauptteil der Beschreibung aufgenommen werden.
+
+[^partB-lvlu3-1]: Fassung gemäss Beschluss der PCT-Versammlung vom 8. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Die neue Regel findet Anwendung auf internationale Anmeldungen, deren internationales Anmeldedatum der 1. Juli 2022 oder ein späteres Datum ist.
 
 ### **Regel 6**Die Ansprüche
 
@@ -285,7 +287,7 @@ Beansprucht die internationale Anmeldung zu dem Zeitpunkt, an dem ein oder mehre
 
 6.2 Bezugnahme auf andere Teile der Anmeldung
 
-- a) Ansprüche dürfen sich, wenn dies nicht unbedingt erforderlich ist, im Hinblick auf die technischen Merkmale der Erfindung nicht auf Bezugnahmen auf die Beschreibung oder die Zeichnungen stützen. Sie dürfen sich insbesondere nicht auf Hinweise stützen wie: «wie beschrieben in Teil ... der Beschreibung» oder «wie in Abbildung ... der Zeichnung dargestellt.»
+- a) Ansprüche dürfen sich, wenn dies nicht unbedingt erforderlich ist, im Hinblick auf die technischen Merkmale der Erfindung nicht auf Bezugnahmen auf die Beschreibung oder die Zeichnungen stützen. Sie dürfen sich insbesondere nicht auf Hinweise stützen wie: «wie beschrieben in Teil *…* der Beschreibung» oder «wie in Abbildung *…* der Zeichnung dargestellt.»
 - b) Sind der internationalen Anmeldung Zeichnungen beigefügt, so sind die in den Ansprüchen genannten technischen Merkmale vorzugsweise mit Bezugszeichen zu versehen, die auf diese Merkmale hinweisen. Die Bezugszeichen sind vorzugsweise in Klammern zu setzen. Ermöglichen die Bezugszeichen kein schnelleres Verständnis des Anspruchs, so sollen sie nicht aufgenommen werden. Bezugszeichen können durch ein Bestimmungsamt für die Zwecke der Veröffentlichung durch dieses Amt entfernt werden.
 
 6.3 Formulierung der Ansprüche
@@ -505,8 +507,8 @@ Die Regeln 10 und 11.1–11.13 sind auch auf alle zur internationalen Anmeldung 
   - ii) eine Veröffentlichungssprache ist.
 
 - c) Unbeschadet des Absatzes a muss der Antrag in einer vom Anmeldeamt für die Zwecke dieses Absatzes zugelassenen Veröffentlichungssprache eingereicht werden.
-- d) Unbeschadet des Absatzes a müssen alle im Sequenzprotokollteil der Beschreibung enthaltenen Textbestandteile nach Regel 5.2 Absatz a entsprechend dem in den Verwaltungsvorschriften vorgeschriebenen Standard abgefasst sein.
-- 12\.1<sup>bis</sup> [^partB-lvlu10-1] *Sprache der nach Regel 20.3, 20.5, 20.5**<sup>bis</sup>* *oder 20.6 eingereichten Bestandteile und Teile*
+- d)[^partB-lvlu10-1] Unbeschadet des Absatzes a muss jeder im Sequenzprotokollteil der Beschreibung enthaltene sprachabhängige freier Text in einer vom Anmeldeamt für diesen Zweck zugelassenen Sprache eingereicht werden. Jede nach diesem Absatz, jedoch nicht nach Absatz a zugelassene Sprache muss die Erfordernisse des Absatzes b erfüllen. Das Anmeldeamt kann es gestatten, dass sprachabhängiger freier Text in mehr als einer Sprache entsprechend den Verwaltungsvorschriften eingereicht wird, darf dies jedoch nicht verlangen.
+- 12\.1<sup>bis</sup> [^partB-lvlu10-2] *Sprache der nach Regel 20.3, 20.5, 20.5**<sup>bis</sup>* *oder 20.6 eingereichten Bestandteile und Teile*
 
 Ein vom Anmelder gemäss Regel 20.3 Absatz b, 20.5<sup>bis</sup> Absatz b, 20.5<sup>bis</sup> Absatz c oder 20.6 Absatz a eingereichter, in Artikel 11 Absatz 1 Ziffer iii Buchstabe d oder e genannter Bestandteil und ein vom Anmelder gemäss Regel 20.5 Absatz b, 20.5 Absatz c, 20.5<sup>bis</sup> Absatz b, 20.5<sup>bis</sup> Absatz c oder 20.6 Absatz a eingereichter Teil der Beschreibung, der Ansprüche oder der Zeichnungen ist in der Sprache, in der die internationale Anmeldung eingereicht worden ist, oder, wenn eine Übersetzung der Anmeldung nach Regel 12.3 Absatz a oder 12.4 Absatz a erforderlich ist, sowohl in der Sprache, in der die Anmeldung eingereicht worden ist, als auch in der Sprache der Übersetzung abzufassen.
 
@@ -516,7 +518,7 @@ Jede nach Regel 13<sup>bis</sup>.4 eingereichte Angabe bezüglich hinterlegten b
 
 12.2 Sprache von Änderungen in der internationalen Anmeldung
 
-- a)[^partB-lvlu10-2] Jede Änderung in der internationalen Anmeldung ist vorbehaltlich der Regeln 46.3 und 55.3 in der Sprache abzufassen, in der die Anmeldung eingereicht worden ist.
+- a)[^partB-lvlu10-3] Jede Änderung in der internationalen Anmeldung ist vorbehaltlich der Regeln 46.3 und 55.3 in der Sprache abzufassen, in der die Anmeldung eingereicht worden ist.
 - b)
 
   Jede nach Regel 91.1 vorgenommene Berichtigung eines offensichtlichen Fehlers in der internationalen Anmeldung ist in der Sprache abzufassen, in der die Anmeldung eingereicht worden ist, vorausgesetzt, dass:
@@ -536,7 +538,8 @@ Jede nach Regel 13<sup>bis</sup>.4 eingereichte Angabe bezüglich hinterlegten b
   - ii) eine Veröffentlichungssprache; und
   - iii) eine vom Anmeldeamt nach Regel 12.1 Absatz a zugelassene Sprache ist, es sei denn, die internationale Anmeldung wurde in einer Veröffentlichungssprache eingereicht.
 
-- b) Absatz a ist weder auf den Antrag noch auf den Sequenzprotokollteil der Beschreibung anzuwenden.
+- a<sup>bis</sup>)[^partB-lvlu10-4] Für jeden Sequenzprotokollteil der Beschreibung ist Absatz a nur auf den sprachabhängigen freien Text anzuwenden; jede Übersetzung von sprachabhängigem freiem Text ist entsprechend den Verwaltungsvorschriften zur Verfügung zu stellen.
+- b)[^partB-lvlu10-5] Absatz a ist nicht auf den Antrag anzuwenden.
 - c) Hat der Anmelder bis zu dem Zeitpunkt, zu dem ihm das Anmeldeamt die Mitteilung nach Regel 20.2 Absatz c zusendet, die nach Absatz a erforderliche Übersetzung noch nicht eingereicht, so fordert ihn das Anmeldeamt, vorzugsweise zusammen mit dieser Mitteilung, auf,
   - i) die erforderliche Übersetzung innerhalb der Frist nach Absatz a einzureichen,
   - ii) falls die erforderliche Übersetzung nicht innerhalb der Frist nach Absatz a eingereicht worden ist, diese einzureichen und gegebenenfalls die Gebühr für verspätete Einreichung nach Absatz e zu entrichten, und zwar innerhalb eines Monats nach dem Datum der Aufforderung oder innerhalb von zwei Monaten nach Eingang der internationalen Anmeldung beim Anmeldeamt, je nachdem, welche Frist später abläuft.
@@ -547,13 +550,19 @@ Jede nach Regel 13<sup>bis</sup>.4 eingereichte Angabe bezüglich hinterlegten b
 12.4 Übersetzung für die Zwecke der internationalen Veröffentlichung
 
 - a) Wenn die Sprache, in der die internationale Anmeldung eingereicht worden ist, keine Veröffentlichungssprache ist und die Einreichung einer Übersetzung nach Regel 12.3 Absatz a nicht erforderlich ist, muss der Anmelder eine Übersetzung der internationalen Anmeldung in eine vom Anmeldeamt für die Zwecke dieses Absatzes zugelassene Veröffentlichungssprache innerhalb von 14 Monaten nach dem Prioritätsdatum beim Anmeldeamt einreichen.
-- b) Absatz a ist weder auf den Antrag noch auf den Sequenzprotokollteil der Beschreibung anzuwenden.
+- a<sup>bis</sup>)[^partB-lvlu10-6] Für jeden Sequenzprotokollteil der Beschreibung ist Absatz a nur auf den sprachabhängigen freien Text anzuwenden; jede Übersetzung von sprachabhängigem freiem Text ist entsprechend den Verwaltungsvorschriften zur Verfügung zu stellen.
+- b)[^partB-lvlu10-7] Absatz a ist nicht auf den Antrag anzuwenden.
 - c) Hat der Anmelder die in Absatz a genannte Übersetzung nicht innerhalb der in diesem Absatz genannten Frist eingereicht, fordert ihn das Anmeldeamt auf, die erforderliche Übersetzung innerhalb von 16 Monaten nach dem Prioritätsdatum einzureichen und gegebenenfalls die Gebühr für verspätete Einreichung nach Absatz e zu entrichten. Geht die Übersetzung beim Anmeldeamt ein, bevor dieses Amt die Aufforderung nach dem vorangehenden Satz abgesandt hat, gilt sie als vor Ablauf der Frist nach Absatz a eingegangen.
 - d) Hat der Anmelder die erforderliche Übersetzung nicht innerhalb der Frist nach Absatz c eingereicht und die gegebenenfalls zu zahlende Gebühr für verspätete Einreichung nicht entrichtet, gilt die internationale Anmeldung als zurückgenommen und wird vom Anmeldeamt für zurückgenommen erklärt. Gehen die Übersetzung und die Zahlung beim Anmeldeamt vor dem Zeitpunkt ein, zu dem dieses Amt die Erklärung nach dem vorangehenden Satz abgibt und vor Ablauf von 17 Monaten ab dem Prioritätsdatum, gelten sie als vor Ablauf dieser Frist eingegangen.
 - e) Das Anmeldeamt kann die Einreichung einer Übersetzung nach Ablauf der Frist nach Absatz a davon abhängig machen, dass ihm zu seinen Gunsten eine Gebühr für verspätete Einreichung in Höhe von 25 % der unter Nummer 1 des Gebührenverzeichnisses genannten internationalen Anmeldegebühr gezahlt wird, wobei die Gebühr für das 31. und jedes weitere Blatt der internationalen Anmeldung unberücksichtigt bleibt.
 
-[^partB-lvlu10-1]: Fassung gemäss der von der PCT-Versammlung am 9. Okt. 2019 angenommenen Änd., in Kraft seit 1. Juli 2020 ([AS 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Diese Regel findet Anwendung auf jede internationale Anmeldung, hinsichtlich der ein oder mehrere in Artikel 11 Absatz 1 Ziffer iii genannte Bestandteile erstmals beim Anmeldeamt an oder nach dem 1. Juli 2020 eingegangen sind.
-[^partB-lvlu10-2]: Fassung gemäss der von der PCT-Versammlung am 29. Sept. 2010 angenommenen Änd., in Kraft seit 1. Juli 2011 ([AS 2011 4311](https://fedlex.data.admin.ch/eli/oc/2011/583)).
+[^partB-lvlu10-1]: Fassung gemäss Beschluss der PCT-Versammlung vom 8. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Die neue Regel findet Anwendung auf internationale Anmeldungen, deren internationales Anmeldedatum der 1. Juli 2022 oder ein späteres Datum ist.
+[^partB-lvlu10-2]: Fassung gemäss der von der PCT-Versammlung am 9. Okt. 2019 angenommenen Änd., in Kraft seit 1. Juli 2020 ([AS 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Diese Regel findet Anwendung auf jede internationale Anmeldung, hinsichtlich der ein oder mehrere in Artikel 11 Absatz 1 Ziffer iii genannte Bestandteile erstmals beim Anmeldeamt an oder nach dem 1. Juli 2020 eingegangen sind.
+[^partB-lvlu10-3]: Fassung gemäss der von der PCT-Versammlung am 29. Sept. 2010 angenommenen Änd., in Kraft seit 1. Juli 2011 ([AS 2011 4311](https://fedlex.data.admin.ch/eli/oc/2011/583)).
+[^partB-lvlu10-4]: Eingefügt durch Beschluss der PCT-Versammlung vom 8. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Die neue Regel findet Anwendung auf internationale Anmeldungen, deren internationales Anmeldedatum der 1. Juli 2022 oder ein späteres Datum ist.
+[^partB-lvlu10-5]: Fassung gemäss Beschluss der PCT-Versammlung vom 8. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Die neue Regel findet Anwendung auf internationale Anmeldungen, deren internationales Anmeldedatum der 1. Juli 2022 oder ein späteres Datum ist.
+[^partB-lvlu10-6]: Eingefügt durch Beschluss der PCT-Versammlung vom 8. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Die neue Regel findet Anwendung auf internationale Anmeldungen, deren internationales Anmeldedatum der 1. Juli 2022 oder ein späteres Datum ist.
+[^partB-lvlu10-7]: Fassung gemäss Beschluss der PCT-Versammlung vom 8. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Die neue Regel findet Anwendung auf internationale Anmeldungen, deren internationales Anmeldedatum der 1. Juli 2022 oder ein späteres Datum ist.
 
 ### **Regel 12****<sup>bis</sup>** Einreichung von zu einer früheren Recherche gehörenden Unterlagen durch den Anmelder
 
@@ -604,7 +613,7 @@ Jeder Bestimmungsstaat, in dem auf der Grundlage einer internationalen Anmeldung
 
 Im Sinne dieser Regel bedeutet «Bezugnahme auf hinterlegtes biologisches Material» die in einer internationalen Anmeldung gemachten Angaben in bezug auf die Hinterlegung biologischen Materials bei einer Hinterlegungsstelle oder in bezug auf so hinterlegtes biologisches Material.
 
-13bis.2 Bezugnahmen (Allgemeines)
+13<sup>bis</sup>.2 Bezugnahmen (Allgemeines)
 
 Jede Bezugnahme auf hinterlegtes biologisches Material hat nach dieser Regel zu erfolgen und gilt in diesem Fall als mit den Erfordernissen des nationalen Rechts eines jeden Bestimmungsstaats in Einklang stehend.
 
@@ -621,7 +630,7 @@ Jede Bezugnahme auf hinterlegtes biologisches Material hat nach dieser Regel zu 
 
 - b) Das Fehlen einer Bezugnahme auf hinterlegtes biologisches Material oder das Fehlen einer Angabe nach Absatz a in einer Bezugnahme auf hinterlegtes biologisches Material hat in einem Bestimmungsstaat, dessen nationales Recht diese Bezugnahme oder Angabe in einer nationalen Anmeldung nicht vorschreibt, keine Folgen.
 
-13bis.4 Bezugnahmen: Frist zur Einreichung von Angaben
+13<sup>bis</sup>.4 Bezugnahmen: Frist zur Einreichung von Angaben
 
 - a) Vorbehaltlich der Absätze b und c wird jede der in Regel 13<sup>bis</sup>.3 Absatz a genannten Angaben, die in einer Bezugnahme auf hinterlegtes biologisches Material in der eingereichten internationalen Anmeldung nicht enthalten ist, jedoch beim Internationalen Büro
   - i) innerhalb von 16 Monaten nach dem Prioritätsdatum eingereicht wird, von jedem Bestimmungsamt als rechtzeitig eingereicht angesehen;
@@ -652,16 +661,15 @@ Proben hinterlegten biologischen Materials, auf das in einer internationalen Anm
 - b) Jedes nationale Amt teilt dem Internationalen Büro die Hinterlegungsstellen mit, bei denen das nationale Recht Hinterlegungen von biologischem Material für die Zwecke von Patentverfahren vor diesem Amt gestattet, oder teilt ihm gegebenenfalls mit, dass das nationale Recht solche Hinterlegungen nicht vorschreibt oder gestattet.
 - c) Das Internationale Büro veröffentlicht die ihm gemäss Absatz a mitgeteilten Erfordernisse und die ihm gemäss Absatz b mitgeteilten Angaben unverzüglich im Blatt.
 
-### **Regel 13****<sup>ter</sup>**Protokoll der Nucleotid- und/oder Aminosäuresequenzen
+### **Regel 13****<sup>ter</sup>**Protokolle der Nucleotid- und/oder Aminosäuresequenzen
 
-13<sup>ter</sup>.1 Verfahren vor der Internationalen Recherchenbehörde
-
-- a) Offenbart die internationale Anmeldung eine oder mehrere Nucleotid- und/oder Aminosäuresequenzen, so kann die Internationale Recherchenbehörde den Anmelder auffordern, für die Zwecke der internationalen Recherche ein Sequenzprotokoll in elektronischer Form bei ihr einzureichen, das dem in den Verwaltungsvorschriften vorgeschriebenen Standard entspricht, es sei denn, ein solches Protokoll in elektronischer Form ist ihr bereits in einer für sie akzeptablen Form und Weise zugänglich, und gegebenenfalls innerhalb einer in der Aufforderung festgesetzten Frist die in Absatz c genannte Gebühr für verspätete Einreichung zu entrichten.
-- b) Wird zumindest ein Teil der internationalen Anmeldung auf Papier eingereicht und stellt die Internationale Recherchenbehörde fest, dass die Beschreibung nicht der Regel 5.2 Absatz a entspricht, so kann sie den Anmelder auffordern, für die Zwecke der internationalen Recherche ein Sequenzprotokoll auf Papier einzureichen, das dem in den Verwaltungsvorschriften vorgeschriebenen Standard entspricht, es sei denn, ein solches Protokoll auf Papier ist ihr bereits in einer für sie akzeptablen Form und Weise zugänglich, unabhängig davon, ob nach Absatz a zur Einreichung eines Sequenzprotokolls in elektronischer Form aufgefordert worden ist, und gegebenenfalls innerhalb einer in der Aufforderung festgesetzten Frist die in Absatz c genannte Gebühr für verspätete Einreichung zu entrichten.
-- c) Die Internationale Recherchenbehörde kann die Einreichung eines Sequenzprotokolls aufgrund einer Aufforderung nach Absatz a oder b davon abhängig machen, dass zu ihren Gunsten eine Gebühr für verspätete Einreichung an sie entrichtet wird, deren Betrag von der Internationalen Recherchenbehörde festgesetzt wird, der aber 25 % der unter Nummer 1 des Gebührenverzeichnisses genannten internationalen Anmeldegebühr nicht überschreiten darf, wobei die Gebühr für das 31. und jedes weitere Blatt der internationalen Anmeldung unberücksichtigt bleibt, mit der Massgabe, dass die Gebühr für verspätete Einreichung entweder nach Absatz a oder b, nicht aber nach beiden Absätzen verlangt werden kann.
-- d) Hat der Anmelder innerhalb der in der Aufforderung nach Absatz a oder b festgesetzten Frist das erforderliche Sequenzprotokoll nicht eingereicht und die gegebenenfalls zu entrichtende Gebühr für verspätete Einreichung nicht entrichtet, so ist die Internationale Recherchenbehörde nur insoweit verpflichtet, eine Recherche zu der internationalen Anmeldung durchzuführen, als eine sinnvolle Recherche auch ohne das Sequenzprotokoll möglich ist.
-- e) Ein Sequenzprotokoll, das im Anmeldezeitpunkt in der internationalen Anmeldung nicht enthalten ist, ist nicht Bestandteil der internationalen Anmeldung, unabhängig davon, ob es auf eine Aufforderung nach Absatz a oder b oder aus anderem Grund eingereicht worden ist; jedoch wird dem Anmelder durch diesen Absatz nicht die Möglichkeit genommen, die Beschreibung in bezug auf ein Sequenzprotokoll gemäss Artikel 34 Absatz 2 Buchstabe b zu ändern.
-- f) Stellt die Internationale Recherchenbehörde fest, dass die Beschreibung nicht der Regel 5.2 Absatz b entspricht, so fordert sie den Anmelder auf, die erforderliche Berichtigung einzureichen. Regel 26.4 ist auf jede vom Anmelder unterbreitete Berichtigung entsprechend anzuwenden. Die Internationale Recherchenbehörde übermittelt die Berichtigung dem Anmeldeamt und dem Internationalen Büro.
+- 13<sup>ter</sup>.1[^partB-lvlu14-1] *Verfahren vor der Internationalen Recherchenbehörde*
+- a) Offenbart die internationale Anmeldung Nucleotid- und/oder Aminosäuresequenzen, die entsprechend den Verwaltungsvorschriften in ein Sequenzprotokoll aufgenommen werden müssen, so kann die Internationale Recherchenbehörde den Anmelder auffordern, für die Zwecke der internationalen Recherche ein Sequenzprotokoll bei ihr einzureichen, das dem in den Verwaltungsvorschriften vorgeschriebenen Standard entspricht, es sei denn, ein solches Protokoll ist ihr bereits in einer für sie akzeptablen Form, Sprache und Weise zugänglich, und gegebenenfalls innerhalb einer in der Aufforderung festgesetzten Frist die in Absatz c genannte Gebühr für verspätete Einreichung zu entrichten.
+- b) *[Gestrichen]*
+- c) Die Internationale Recherchenbehörde kann die Einreichung eines Sequenzprotokolls aufgrund einer Aufforderung nach Absatz a davon abhängig machen, dass zu ihren Gunsten eine Gebühr für verspätete Einreichung an sie entrichtet wird, deren Betrag von der Internationalen Recherchenbehörde festgesetzt wird, der aber 25 % der unter Nummer 1 des Gebührenverzeichnisses genannten internationalen Anmeldegebühr nicht überschreiten darf, wobei die Gebühr für das 31. und jedes weitere Blatt der internationalen Anmeldung unberücksichtigt bleibt.
+- d) Hat der Anmelder innerhalb der in der Aufforderung nach Absatz a festgesetzten Frist das erforderliche Sequenzprotokoll nicht eingereicht und die gegebenenfalls zu entrichtende Gebühr für verspätete Einreichung nicht entrichtet, so ist die Internationale Recherchenbehörde nur insoweit verpflichtet, eine Recherche zu der internationalen Anmeldung durchzuführen, als eine sinnvolle Recherche auch ohne das Sequenzprotokoll möglich ist.
+- e) Ein Sequenzprotokoll, das im Anmeldezeitpunkt in der internationalen Anmeldung nicht enthalten ist, ist nicht Bestandteil der internationalen Anmeldung, unabhängig davon, ob es auf eine Aufforderung nach Absatz a oder aus anderem Grund eingereicht worden ist; jedoch wird dem Anmelder durch diesen Absatz nicht die Möglichkeit genommen, die Beschreibung in Bezug auf ein Sequenzprotokoll gemäss Artikel 34 Absatz 2 Buchstabe b zu ändern.
+- f) *[Gestrichen]*
 
 13<sup>ter</sup>.2 Verfahren vor der mit der internationalen vorläufigen Prüfung beauftragten Behörde
 
@@ -670,6 +678,8 @@ Regel 13<sup>ter</sup>.1 ist auf das Verfahren vor der mit der internationalen v
 13<sup>ter</sup>.3 Sequenzprotokoll für das Bestimmungsamt
 
 Kein Bestimmungsamt darf vom Anmelder die Einreichung eines anderen Sequenzprotokolls verlangen als eines Sequenzprotokolls, welches dem in den Verwaltungsvorschriften vorgeschriebenen Standard entspricht.
+
+[^partB-lvlu14-1]: Fassung gemäss Beschluss der PCT-Versammlung vom 8. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Die neue Regel findet Anwendung auf internationale Anmeldungen, deren internationales Anmeldedatum der 1. Juli 2022 oder ein späteres Datum ist.
 
 ### **Regel 14**Die Übermittlungsgebühr
 
@@ -685,7 +695,7 @@ Kein Bestimmungsamt darf vom Anmelder die Einreichung eines anderen Sequenzproto
 
 Für jede internationale Anmeldung ist eine vom Anmeldeamt zugunsten des Internationalen Büros erhobene Gebühr («internationale Anmeldegebühr») zu zahlen.
 
-15.2 Betrag; Überweisung*[^partB-lvlu16-1]*
+15.2 Betrag; Überweisung[^partB-lvlu16-1]
 
 - a) Die Höhe der internationalen Anmeldegebühr ergibt sich aus dem Gebührenverzeichnis.
 - b) Die internationale Anmeldegebühr ist in der Währung oder einer der Währungen zu entrichten, die das Anmeldeamt vorschreibt («vorgeschriebene Währung»).
@@ -840,13 +850,20 @@ Bei zwei oder mehr Anmeldern
 
 19.4 Übermittlung an das Internationale Büro als Anmeldeamt
 
-- a) Wird eine internationale Anmeldung bei einem nationalen Amt eingereicht, das nach diesem Vertrag Anmeldeamt ist, aber
-  - i) ist dieses nationale Amt nach Regel 19.1 oder 19.2 für die Entgegennahme dieser internationalen Anmeldung nicht zuständig oder
-  - ii) ist diese internationale Anmeldung nicht in einer nach Regel 12.1 Absatz a von diesem nationalen Amt zugelassenen Sprache, jedoch in einer nach dieser Regel vom Internationalen Büro als Anmeldeamt zugelassenen Sprache abgefasst oder
-  - iii) kommen dieses nationale Amt und das Internationale Büro aus einem anderen Grund als den in Ziffer i oder ii genannten Gründen und mit Einwilligung des Anmelders überein, das Verfahren nach dieser Regel anzuwenden, so gilt diese internationale Anmeldung, vorbehaltlich des Absatzes b, als von diesem Amt für das Internationale Büro als Anmeldeamt nach Regel 19.1 Absatz a Ziffer iii entgegengenommen.
+- a)[^partB-lvlu21-1]
 
+  Wird eine internationale Anmeldung bei einem nationalen Amt eingereicht, das nach diesem Vertrag Anmeldeamt ist, aber:
+
+  - i) ist dieses nationale Amt nach Regel 19.1 oder 19.2 für die Entgegennahme dieser internationalen Anmeldung nicht zuständig; oder
+  - ii) ist diese internationale Anmeldung nicht in einer nach Regel 12.1 Absatz a von diesem nationalen Amt zugelassenen Sprache oder der in dem Sequenzprotokollteil der Beschreibung enthaltene sprachabhängige freie Text nicht in einer nach Regel 12.1 Absatz d von diesem nationalen Amt zugelassenen Sprache, jedoch in einer nach dieser Regel vom Internationalen Büro als Anmeldeamt zugelassenen Sprache abgefasst; oder
+  - [tab] ii<sup>bis</sup>) wird die gesamte internationale Anmeldung oder ein Teil der internationalen Anmeldung in elektronischer Form in einem von diesem nationalen Amt nicht zugelassenen Format eingereicht; oder
+  - iii) kommen dieses nationale Amt und das Internationale Büro aus einem anderen Grund als den in den Ziffern i, ii und ii<sup>bis</sup> genannten Gründen und mit Einwilligung des Anmelders überein, das Verfahren nach dieser Regel anzuwenden;
+
+- so gilt diese internationale Anmeldung, vorbehaltlich des Absatzes b, als von diesem Amt für das Internationale Büro als Anmeldeamt nach Regel 19.1 Absatz a Ziffer iii entgegengenommen.
 - b) Wird eine internationale Anmeldung nach Absatz a von einem nationalen Amt für das Internationale Büro als Anmeldeamt nach Regel 19.1 Absatz a Ziffer iii entgegengenommen, so übermittelt das nationale Amt die Anmeldung unverzüglich dem Internationalen Büro, sofern dem nicht Vorschriften über die nationale Sicherheit entgegenstehen. Das nationale Amt kann die Übermittlung von der Zahlung einer ihm verbleibenden Gebühr in Höhe der von ihm nach Regel 14 erhobenen Übermittlungsgebühr abhängig machen. Die so übermittelte internationale Anmeldung gilt als am Tag ihrer Entgegennahme durch das nationale Amt beim Internationalen Büro als Anmeldeamt nach Regel 19.1 Absatz a Ziffer iii eingegangen.
 - c) Ist die internationale Anmeldung dem Internationalen Büro nach Absatz b übermittelt worden, so gilt als Datum des Eingangs der internationalen Anmeldung für die Zwecke der Regeln 14.1 Absatz c, 15.3 und 16.1 Absatz f das Datum, an dem die internationale Anmeldung tatsächlich beim Internationalen Büro eingegangen ist. Absatz b letzter Satz ist auf diesen Absatz nicht anzuwenden.
+
+[^partB-lvlu21-1]: Fassung gemäss Beschluss der PCT-Versammlung vom 8. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Die neue Regel findet Anwendung auf internationale Anmeldungen, deren internationales Anmeldedatum der 1. Juli 2022 oder ein späteres Datum ist.
 
 ### **Regel 20**Internationales Anmeldedatum
 
@@ -878,7 +895,7 @@ Bei zwei oder mehr Anmeldern
 
 20.4 Negative Feststellung nach Artikel 11 Absatz 1
 
-Erhält das Anmeldeamt innerhalb der nach Regel 20.7 anwendbaren Frist keine Richtigstellung oder keine Bestätigung nach Regel 20.3 Absatz a, oder erfüllt die Anmeldung, auch wenn eine Richtigstellung oder Bestätigung eingegangen ist, die Erfordernisse des Artikels 11 Absatz 1 nicht, so hat das Anmeldeamt
+Erhält das Anmeldeamt innerhalb der nach Regel 20.7 anwendbaren Frist keine Richtigstellung oder keine Bestätigung nach Regel 20.3 Absatz a, oder erfüllt die Anmeldung, auch wenn eine Richtigstellung oder Bestätigung eingegangen ist, die Erfordernisse des Artikels 11 Absatz 1 nicht, so hat das Anmeldeamt:
 
 - i) den Anmelder unverzüglich davon in Kenntnis zu setzen, dass die Anmeldung keine internationale Anmeldung ist und als solche nicht behandelt wird, und hat die Gründe hierfür anzugeben,
 - ii) das Internationale Büro davon in Kenntnis zu setzen, dass das auf den Schriftstücken der Anmeldung angebrachte Aktenzeichen nicht als internationales Aktenzeichen verwendet wird,
@@ -1433,9 +1450,9 @@ der Behörde erst mitgeteilt wird, nachdem diese mit der Erstellung des internat
 
 [^partB-lvlu48-1]: Fassung gemäss Beschluss der PCT-Versammlung vom 14. Okt. 2015, in Kraft seit 1. Juli 2017 ([AS 2017 3521](https://fedlex.data.admin.ch/eli/oc/2017/385)). Die neue Regel findet Anwendung auf internationale Anmeldungen, deren internationales Anmeldedatum der 1. Juli 2017 oder ein späteres Datum ist.
 
-41.1 Berücksichtigung der Ergebnisse einer früheren Recherche bei einem Antrag nach Regel 4.12*[^partB-lvlu48-2]*
+41.1 Berücksichtigung der Ergebnisse einer früheren Recherche bei einem Antrag nach Regel 4.12[^partB-lvlu48-2]
 
-Hat der Anmelder gemäss Regel 4.12 beantragt, dass die Internationale Recherchenbehörde die Ergebnisse einer früheren Recherche berücksichtigt, und sind die Voraussetzungen der Regel 12<sup>bis</sup>.1 erfüllt, und[^partB-lvlu48-3]
+Hat der Anmelder gemäss Regel 4.12 beantragt, dass die Internationale Recherchenbehörde die Ergebnisse einer früheren Recherche berücksichtigt, und sind die Voraussetzungen der Regel 12<sup>bis</sup>.1 erfüllt, und:[^partB-lvlu48-3]
 
 - i) wurde die frühere Recherche von derselben Internationalen Recherchenbehörde durchgeführt oder von demselben Amt, das als Internationale Recherchenbehörde handelt, so hat die Internationale Recherchenbehörde, soweit dies möglich ist, diese Ergebnisse bei Durchführung der internationalen Recherche zu berücksichtigen;
 - ii) wurde die frühere Recherche von einer anderen Internationalen Recherchenbehörde durchgeführt oder von einem anderen Amt als jenem, das als Internationale Recherchenbehörde handelt, so kann die Internationale Recherchenbehörde diese Ergebnisse bei Durchführung der internationalen Recherche berücksichtigen.
@@ -1870,7 +1887,7 @@ Vom Anmelder kann nicht verlangt werden, für die Vornahme der in Artikel 22 vor
   - ii)[^partB-lvlu60-1] falls die Ansprüche nach Artikel 19 geändert worden sind, die Ansprüche in der ursprünglich eingereichten und der geänderten Fassung (die geänderten Ansprüche sind in Form einer Übersetzung des vollständigen, nach Regel 46.5 Absatz a eingereichten Satzes der Ansprüche vorzulegen, die alle ursprünglich eingereichten Ansprüche ersetzen) und
   - iii) als Anlage eine Kopie der Zeichnungen enthalten.
 
-- a<sup>bis</sup>) Kein Bestimmungsamt darf vom Anmelder die Einreichung einer Übersetzung von im Sequenzprotokollteil der Beschreibung enthaltenen Textbestandteilen verlangen, wenn dieser Sequenzprotokollteil der Regel 12.1 Absatz d und die Beschreibung der Regel 5.2 Absatz b entspricht.
+- a<sup>bis</sup>)[^partB-lvlu60-2] Kein Bestimmungsamt darf vom Anmelder die Einreichung einer Übersetzung von im Sequenzprotokollteil der Beschreibung enthaltenen Textbestandteilen verlangen, wenn dieser Sequenzprotokollteil der Regel 12.1 Absatz d entspricht und den sprachabhängigen freien Text in einer von diesem Bestimmungsamt für diesen Zweck zugelassenen Sprache enthält, ausser dass ein Bestimmungsamt, das veröffentlichte Sequenzprotokolle Datenbankanbietern bereitstellt, eine Übersetzung des Sequenzprotokollteils der Beschreibung in die englische Sprache entsprechend den Verwaltungsvorschriften verlangen kann, wenn der sprachabhängige freie Text nicht in englischer Sprache enthalten ist.
 - b) Jedes Bestimmungsamt, das eine Übersetzung des Antrags verlangt, stellt den Anmeldern kostenlos Exemplare des Antragsformblatts in der Sprache der Übersetzung zur Verfügung. Form und Inhalt des Antragsformblatts in der Sprache der Übersetzung dürfen sich von denen des Antrags nach den Regeln 3 und 4 nicht unterscheiden; so darf das Antragsformblatt in der Sprache der Übersetzung insbesondere keine Angaben verlangen, die nicht im Antrag in der eingereichten Fassung enthalten sind. Die Verwendung des Antragsformblatts in der Sprache der Übersetzung ist fakultativ.
 - c) Hat der Anmelder keine Übersetzung der Erklärung nach Artikel 19 Absatz 1 eingereicht, so kann das Bestimmungsamt die Erklärung ausser Betracht lassen.
 - c<sup>bis</sup>) Reicht der Anmelder bei einem Bestimmungsamt, das nach Absatz a Ziffer ii eine Übersetzung der Ansprüche sowohl in der ursprünglich eingereichten als auch in der geänderten Fassung verlangt, nur eine dieser Übersetzungen ein, so kann das Bestimmungsamt Ansprüche, für die keine Übersetzung vorliegt, unberücksichtigt lassen oder den Anmelder auffordern, die fehlende Übersetzung innerhalb einer in der Aufforderung festgesetzten, den Umständen nach angemessenen Frist einzureichen. Fordert das Bestimmungsamt den Anmelder zur Einreichung der fehlenden Übersetzung auf und wird diese nicht innerhalb der in der Aufforderung festgesetzten Frist eingereicht, so kann das Bestimmungsamt Ansprüche, für die keine Übersetzung vorliegt, unberücksichtigt lassen oder die internationale Anmeldung als zurückgenommen betrachten.
@@ -1882,9 +1899,9 @@ Vom Anmelder kann nicht verlangt werden, für die Vornahme der in Artikel 22 vor
 - i) Das Internationale Büro veröffentlicht im Blatt Auskünfte über die Anforderungen und die Praxis der Bestimmungsämter nach Absatz a Satz 2.
 - j) Kein Bestimmungsamt darf verlangen, dass die Übersetzung der internationalen Anmeldung anderen als den für die internationale Anmeldung in der ursprünglich eingereichten Fassung geltenden Formerfordernissen entspricht.
 - k) Hat die Internationale Recherchenbehörde nach Regel 37.2 eine Bezeichnung festgesetzt, so hat die Übersetzung die von der Behörde festgesetzte Bezeichnung zu enthalten.
-- l) Ist Absatz c<sup>bis</sup> oder Absatz k am 12. Juli 1991 nicht mit dem vom Bestimmungsamt anzuwendenden nationalen Recht vereinbar, so gilt der betreffende Absatz für das Bestimmungsamt nicht, solange diese Unvereinbarkeit besteht, sofern dieses Amt das Internationale Büro bis zum 31. Dezember 1991 davon unterrichtet. Diese Mitteilung wird vom Internationalen Büro unverzüglich im Blatt veröffentlicht.[^partB-lvlu60-2]
+- l) Ist Absatz c<sup>bis</sup> oder Absatz k am 12. Juli 1991 nicht mit dem vom Bestimmungsamt anzuwendenden nationalen Recht vereinbar, so gilt der betreffende Absatz für das Bestimmungsamt nicht, solange diese Unvereinbarkeit besteht, sofern dieses Amt das Internationale Büro bis zum 31. Dezember 1991 davon unterrichtet. Diese Mitteilung wird vom Internationalen Büro unverzüglich im Blatt veröffentlicht.[^partB-lvlu60-3]
 
-49.6 Wiedereinsetzung nach Versäumung der Vornahme der Handlungen nach Artikel 22*[^partB-lvlu60-3]*
+49.6 Wiedereinsetzung nach Versäumung der Vornahme der Handlungen nach Artikel 22[^partB-lvlu60-4]
 
 - a) Endet die Wirkung einer internationalen Anmeldung nach Artikel 11 Absatz 3, weil der Anmelder es versäumt hat, die in Artikel 22 genannten Handlungen innerhalb der anwendbaren Frist vorzunehmen, setzt das Bestimmungsamt den Anmelder auf seinen Antrag und vorbehaltlich der Absätze b–e in seine Rechte in Bezug auf diese internationale Anmeldung wieder ein, wenn es feststellt, dass die Fristversäumung unbeabsichtigt war oder, nach Wahl des Bestimmungsamtes, dass die Fristversäumung trotz Beachtung der nach den gegebenen Umständen gebotenen Sorgfalt geschehen ist.
 - b)
@@ -1901,12 +1918,13 @@ Vom Anmelder kann nicht verlangt werden, für die Vornahme der in Artikel 22 vor
   - ii) dass eine Erklärung oder andere Nachweise zum Beleg der in Absatz c genannten Gründe eingereicht werden.
 
 - e) Das Bestimmungsamt darf einen Antrag nach Absatz a nicht ablehnen, ohne dem Anmelder die Gelegenheit gegeben zu haben, innerhalb einer nach den Umständen angemessenen Frist zu der beabsichtigten Ablehnung Stellung zu nehmen.
-- f) Sind die Absätze a–e am 1. Oktober 2002 nicht mit dem vom Bestimmungsamt anzuwendenden nationalen Recht vereinbar, so gelten diese Absätze für dieses Bestimmungsamt nicht, solange diese Unvereinbarkeit besteht, sofern dieses Amt das Internationale Büro bis zum 1. Januar 2003 davon unterrichtet. Die Mitteilung wird vom Internationalen Büro unverzüglich im Blatt veröffentlicht.[^partB-lvlu60-4]
+- f) Sind die Absätze a–e am 1. Oktober 2002 nicht mit dem vom Bestimmungsamt anzuwendenden nationalen Recht vereinbar, so gelten diese Absätze für dieses Bestimmungsamt nicht, solange diese Unvereinbarkeit besteht, sofern dieses Amt das Internationale Büro bis zum 1. Januar 2003 davon unterrichtet. Die Mitteilung wird vom Internationalen Büro unverzüglich im Blatt veröffentlicht.[^partB-lvlu60-5]
 
 [^partB-lvlu60-1]: Fassung gemäss Änd. vom 29. Sept. 2010, von der Versammlung des Verbands angenommenen und in Kraft seit 1. Juli 2011 ([AS 2011 4311](https://fedlex.data.admin.ch/eli/oc/2011/583)).
-[^partB-lvlu60-2]: *Anmerkung des Herausgebers:* Diese Information wird auch auf der Internetseite der WIPO unter www.wipo.int/pct/de/texts/reservations/res\_incomp.html veröffentlicht.
-[^partB-lvlu60-3]: *Anmerkung des Herausgebers:* Regel 49.6 Absätze a–e finden keine Anwendung auf internationale Anmeldungen, deren internationales Anmeldedatum vor dem 1. Jan. 2003 liegt, mit folgender Massgabe: i) diese Absätze finden, vorbehaltlich der Ziffer iii, Anwendung auf internationale Anmeldungen, deren internationales Anmeldedatum vor dem 1. Jan. 2003 liegt und für welche die Frist nach Art. 22 am 1. Jan. 2003 oder später abläuft; ii) soweit diese Absätze aufgrund von Regel 76.5 Anwendung finden, findet die letztere Regel, vorbehaltlich der Ziffer iii, auf internationale Anmeldungen, deren internationales Anmeldedatum vor dem 1. Jan. 2003 liegt und für welche die Frist nach Art. 39 Abs. 1 am oder nach dem 1. Jan. 2003 abläuft, Anwendung; iii) hat ein Bestimmungsamt dem Internationalen Büro nach Regel 49.6 Absatz f mitgeteilt, dass Absätze a–e dieser Regel mit dem von diesem Amt anzuwendenden nationalen Recht nicht vereinbar sind, so finden die Ziffern i und ii dieses Absatzes hinsichtlich dieses Amts Anwendung, jedoch ist jede Bezugnahme auf das Datum vom 1. Jan. 2003 in diesen Ziffern als Bezugnahme auf das Datum des Inkrafttretens von Regel 49.6 Absatz a–e hinsichtlich dieses Amts zu verstehen. Beim Internationalen Büro eingegangene Mitteilungen über solche Unvereinbarkeiten werden im Blatt und auf der Internetseite der WIPO unter www.wipo.int/pct/de/texts/reservations/res\_incomp.html veröffentlicht.
-[^partB-lvlu60-4]: *Anmerkung des Herausgebers:* Diese Information wird auch auf der Internetseite der WIPO unter www.wipo.int/pct/de/texts/reservations/res\_incomp.html veröffentlicht.
+[^partB-lvlu60-2]: Fassung gemäss Beschluss der PCT-Versammlung vom 8. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Die neue Regel findet Anwendung auf internationale Anmeldungen, deren internationales Anmeldedatum der 1. Juli 2022 oder ein späteres Datum ist.
+[^partB-lvlu60-3]: *Anmerkung des Herausgebers:* Diese Information wird auch auf der Internetseite der WIPO unter www.wipo.int/pct/de/texts/reservations/res\_incomp.html veröffentlicht.
+[^partB-lvlu60-4]: *Anmerkung des Herausgebers:* Regel 49.6 Absätze a–e finden keine Anwendung auf internationale Anmeldungen, deren internationales Anmeldedatum vor dem 1. Jan. 2003 liegt, mit folgender Massgabe: i) diese Absätze finden, vorbehaltlich der Ziffer iii, Anwendung auf internationale Anmeldungen, deren internationales Anmeldedatum vor dem 1. Jan. 2003 liegt und für welche die Frist nach Art. 22 am 1. Jan. 2003 oder später abläuft; ii) soweit diese Absätze aufgrund von Regel 76.5 Anwendung finden, findet die letztere Regel, vorbehaltlich der Ziffer iii, auf internationale Anmeldungen, deren internationales Anmeldedatum vor dem 1. Jan. 2003 liegt und für welche die Frist nach Art. 39 Abs. 1 am oder nach dem 1. Jan. 2003 abläuft, Anwendung; iii) hat ein Bestimmungsamt dem Internationalen Büro nach Regel 49.6 Absatz f mitgeteilt, dass Absätze a–e dieser Regel mit dem von diesem Amt anzuwendenden nationalen Recht nicht vereinbar sind, so finden die Ziffern i und ii dieses Absatzes hinsichtlich dieses Amts Anwendung, jedoch ist jede Bezugnahme auf das Datum vom 1. Jan. 2003 in diesen Ziffern als Bezugnahme auf das Datum des Inkrafttretens von Regel 49.6 Absatz a–e hinsichtlich dieses Amts zu verstehen. Beim Internationalen Büro eingegangene Mitteilungen über solche Unvereinbarkeiten werden im Blatt und auf der Internetseite der WIPO unter www.wipo.int/pct/de/texts/reservations/res\_incomp.html veröffentlicht.
+[^partB-lvlu60-5]: *Anmerkung des Herausgebers:* Diese Information wird auch auf der Internetseite der WIPO unter www.wipo.int/pct/de/texts/reservations/res\_incomp.html veröffentlicht.
 
 ### **Regel 49****<sup>bis</sup>**Angaben zum Schutzbegehren für die Zwecke des nationalen Verfahrens
 
@@ -2023,9 +2041,9 @@ Die Frist nach Artikel 25 Absatz 2 Buchstabe a läuft zum gleichen Zeitpunkt wie
   - i) wenn die Gültigkeit des Prioritätsanspruchs für die Feststellung der Patentfähigkeit der Erfindung erheblich ist oder,
   - ii)[^partB-lvlu65-4] wenn das internationale Anmeldedatum vom Anmeldeamt nach Regel 20.3 Absatz b Ziffer ii, 20.5 Absatz d oder 20.5<sup>bis</sup> Absatz d aufgrund einer Einbeziehung eines Bestandteils oder Teils durch Verweis nach den Regeln 4.18 und 20.6 zuerkannt wurde, für die Zwecke der Feststellung nach Regel 82<sup>ter</sup>.1 Absatz b, ob dieser Bestandteil oder Teil vollständig in dem betreffenden Prioritätsbeleg enthalten ist; in diesem Fall kann das vom Bestimmungsamt anzuwendende nationale Recht vom Anmelder auch verlangen, dass dieser, im Fall eines Teils der Beschreibung, der Ansprüche oder der Zeichnungen, angibt, wo dieser Teil in der Übersetzung des Prioritätsbelegs enthalten ist.
 
-- f)[^partB-lvlu65-5] ...[^partB-lvlu65-6]
+- f)[^partB-lvlu65-5] …[^partB-lvlu65-6]
 
-51<sup>bis</sup>.2*[^partB-lvlu65-7]* Umstände, unter denen Unterlagen oder Nachweise nicht verlangt werden dürfen
+51<sup>bis</sup>.2[^partB-lvlu65-7] Umstände, unter denen Unterlagen oder Nachweise nicht verlangt werden dürfen
 
 Das Bestimmungsamt darf – es sei denn, es hat berechtigte Zweifel an der Richtigkeit der betreffenden Angaben oder Erklärung – keine Unterlagen oder Nachweise verlangen hinsichtlich:
 
@@ -2098,7 +2116,7 @@ Die internationale Anmeldung soll durch den Namen und die Anschrift des Anmelder
 
 Mit der Einreichung eines Antrags werden alle Vertragsstaaten, die bestimmt sind und für die Kapitel II des Vertrags verbindlich ist, als ausgewählte Staaten benannt.
 
-53.8*[^partC-lvlu1-1]* Unterschrift
+53.8[^partC-lvlu1-1] Unterschrift
 
 Der Antrag ist vom Anmelder oder, bei mehreren Anmeldern, von allen antragstellenden Anmeldern zu unterzeichnen.
 
@@ -2167,7 +2185,7 @@ Der Antrag ist in der Sprache der internationalen Anmeldung oder, wenn diese in 
 - c) Ist ein in Absätzen a, a<sup>bis</sup> und a<sup>ter</sup> genanntes Erfordernis nicht erfüllt und Absatz b nicht anwendbar, so fordert die mit der internationalen vorläufigen Prüfung beauftragte Behörde den Anmelder auf, die erforderliche Übersetzung bzw. die erforderliche Berichtigung innerhalb einer den Umständen nach angemessenen Frist einzureichen. Diese Frist darf nicht kürzer sein als ein Monat seit dem Datum der Aufforderung. Sie kann von der mit der internationalen vorläufigen Prüfung beauftragten Behörde jederzeit verlängert werden, solange noch keine Entscheidung getroffen worden ist.
 - d) Kommt der Anmelder der Aufforderung innerhalb der Frist nach Absatz c nach, so gilt das Erfordernis als erfüllt. Andernfalls gilt der Antrag als nicht gestellt und wird von der mit der internationalen vorläufigen Prüfung beauftragten Behörde für nicht gestellt erklärt.
 
-55.3*[^partC-lvlu4-2]* Übersetzung von Änderungen
+55.3[^partC-lvlu4-2] Übersetzung von Änderungen
 
 - a) Ist die internationale Anmeldung in einer anderen Sprache als der Veröffentlichungssprache eingereicht worden, so sind alle Änderungen nach Artikel 34 und alle Schreiben nach Regel 66.8 Absatz a, Regel 66.8 Absatz b und Regel 46.5 Absatz b in Anwendung von Regel 66.8 Absatz c vorbehaltlich von Absatz b, in der Veröffentlichungssprache einzureichen.
 - b)
@@ -2192,7 +2210,7 @@ Der Antrag ist in der Sprache der internationalen Anmeldung oder, wenn diese in 
 
 Für jeden Antrag auf internationale vorläufige Prüfung ist eine Gebühr zugunsten des Internationalen Büros («Bearbeitungsgebühr») zu zahlen, die von der mit der internationalen vorläufigen Prüfung beauftragten Behörde, bei welcher der Antrag eingereicht wird, einzuziehen ist.
 
-57.2 Betrag; Überweisung*[^partC-lvlu6-1]*
+57.2 Betrag; Überweisung[^partC-lvlu6-1]
 
 - a) Die Höhe der Bearbeitungsgebühr ergibt sich aus dem Gebührenverzeichnis.
 - b) Die Bearbeitungsgebühr ist in der oder einer der von der mit der internationalen vorläufigen Prüfung beauftragten Behörde vorgeschriebenen Währung(en) («vorgeschriebene Währung») zu zahlen.
@@ -2405,7 +2423,7 @@ Für die Anwendung von Artikel 33 Absatz 3 ist massgeblicher Zeitpunkt für die 
 - c) Gilt der nach Regel 43<sup>bis</sup>.1 von der Internationalen Recherchenbehörde erstellte schriftliche Bescheid aufgrund einer Mitteilung nach Absatz b für die Zwecke der Regel 66.2 Absatz a nicht als schriftlicher Bescheid der mit der internationalen vorläufigen Prüfung beauftragten Behörde, so teilt die mit der internationalen vorläufigen Prüfung beauftragte Behörde dies dem Anmelder schriftlich mit.
 - d) Ein nach Regel 43<sup>bis</sup>.1 von der Internationalen Recherchenbehörde erstellter schriftlicher Bescheid, der aufgrund einer Mitteilung nach Absatz b für die Zwecke der Regel 66.2 Absatz a nicht als schriftlicher Bescheid der mit der internationalen vorläufigen Prüfung beauftragten Behörde gilt, wird von der mit der internationalen vorläufigen Prüfung beauftragten Behörde im Verfahren nach Regel 66.2 Absatz a dennoch berücksichtigt.
 
-66.1<sup>ter</sup>*[^partC-lvlu17-2]* Abschliessende Recherche
+66.1<sup>ter</sup> [^partC-lvlu17-2] Abschliessende Recherche
 
 Die mit der internationalen vorläufigen Prüfung beauftragte Behörde führt eine Recherche («abschliessende Recherche») durch, um in Regel 64 angeführte Unterlagen aufzufinden, die nach dem Datum, an dem der internationale Recherchenbericht erstellt wurde, veröffentlicht oder der genannten Behörde zum Zwecke der Recherche zugänglich gemacht wurden, es sei denn, sie ist der Auffassung, dass eine solche Recherche nicht sinnvoll ist. Stellt die Behörde fest, dass einer der in Artikel 34 Absatz 3 oder 4 oder Regel 66.1 Buchstabe e genannten Fälle vorliegt, bezieht sich die abschliessende Recherche nur auf diejenigen Teile der internationalen Anmeldung, die Gegenstand einer internationalen vorläufigen Prüfung sind.
 
@@ -2459,7 +2477,7 @@ Die mit der internationalen vorläufigen Prüfung beauftragte Behörde kann jede
 - b) Besteht die Änderung in der Streichung von Abschnitten oder in geringfügigen Änderungen oder Hinzufügungen, so kann als Ersatzblatt nach Absatz a eine Kopie des betreffenden Blatts der internationalen Anmeldung verwendet werden, auf der die Änderungen oder Hinzufügungen eingetragen sind, sofern dies die Klarheit und unmittelbare Reproduzierbarkeit dieses Blatts nicht beeinträchtigt. Führt die Änderung zum Fortfall eines ganzen Blatts, so ist dies in einem Schreiben mitzuteilen, in welchem möglichst auch die Gründe für die Änderung erläutert werden sollten.
 - c) Werden die Ansprüche geändert, so ist Regel 46.5 entsprechend anzuwenden. Der Satz von Ansprüchen, welcher nach der gemäss diesem Absatz anwendbaren Regel 46.5 eingereicht wurde, ersetzt alle ursprünglich eingereichten oder früher nach Artikel 19 oder 34 geänderten Ansprüche.
 
-66.9 ...*[^partC-lvlu17-3]*
+66.9 …[^partC-lvlu17-3]
 
 [^partC-lvlu17-1]: *Anmerkung des Herausgebers:* Diese Information wird auch auf der Internetseite der WIPO unter www.wipo.int/pct/de/texts/reservations/res\_incomp.html veröffentlicht.
 [^partC-lvlu17-2]: Eingefügt gemäss der von der PCT-Versammlung am 2. Okt. 2013 angenommenen Änd., in Kraft seit 1. Juli 2014 ([AS 2014 2387](https://fedlex.data.admin.ch/eli/oc/2014/411)).
@@ -2630,7 +2648,7 @@ Im Bericht ist der Name des für den Bericht verantwortlichen Bediensteten der m
 - a) Die Formerfordernisse für den Bericht werden durch die Verwaltungsvorschriften geregelt.
 - b) Der Bericht trägt den Titel «internationaler vorläufiger Bericht zur Patentfähigkeit (Kapitel II des Vertrags über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens)» und enthält eine Angabe, dass es sich um den internationalen vorläufigen Prüfungsbericht der mit der internationalen vorläufigen Prüfung beauftragten Behörde handelt.
 
-70.16*[^partC-lvlu21-3]* Anlagen zum Bericht
+70.16[^partC-lvlu21-3] Anlagen zum Bericht
 
 - a)
 
@@ -2665,7 +2683,7 @@ Der Bericht und alle Anlagen werden in der Sprache, in der die betreffende inter
 
 [^partC-lvlu22-1]: Fassung gemäss der von der PCT-Versammlung am 9. Okt. 2019 angenommenen Änd., in Kraft seit 1. Juli 2020 ([AS 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)).
 
-71.1*[^partC-lvlu22-2]* Empfänger
+71.1[^partC-lvlu22-2] Empfänger
 
 - a) Je eine Ausfertigung des internationalen vorläufigen Prüfungsberichts und seiner etwa vorhandenen Anlagen übersendet die mit der internationalen vorläufigen Prüfung beauftragte Behörde am gleichen Tag dem Internationalen Büro und dem Anmelder.
 - b) Kopien anderer Unterlagen aus der Akte der internationalen vorläufigen Prüfung übersendet die mit der internationalen vorläufigen Prüfung beauftragte Behörde dem Internationalen Büro in Übereinstimmung mit den Verwaltungsvorschriften.
@@ -2843,7 +2861,7 @@ Beginnt eine Frist am Tag des Datums eines Schriftstücks oder eines Schreibens 
   - i) der benutzte Übermittlungsdienst nicht in der Mitteilung nach Absatz d angegeben ist oder nicht die darin genannten Anforderungen erfüllt, oder
   - ii) das Amt oder die Organisation dem Internationalen Büro keine Mitteilung nach Absatz d übermittelt hat.
 
-82.2 ...*[^partD-lvlu4-1]*
+82.2 …[^partD-lvlu4-1]
 
 [^partD-lvlu4-1]: Aufgehoben gemäss der von der PCT-Versammlung am 5. Okt. 2011 angenommenen Änd., in Kraft seit 1. Juli 2012 ([AS 2012 3541](https://fedlex.data.admin.ch/eli/oc/2012/396)).
 
@@ -2882,25 +2900,33 @@ Bei den Vorschriften des in Artikel 48 Absatz 2 genannten nationalen Rechts, die
 [^partD-lvlu6-2]: Fassung gemäss der von der PCT-Versammlung am 9. Okt. 2019 angenommenen Änd., in Kraft seit 1. Juli 2020 ([AS 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Diese Regel findet Anwendung auf jede internationale Anmeldung, hinsichtlich der ein oder mehrere in Artikel 11 Absatz 1 Ziffer iii genannte Bestandteile erstmals beim Anmeldeamt an oder nach dem 1. Juli 2020 eingegangen sind.
 [^partD-lvlu6-3]: Fassung gemäss der von der PCT-Versammlung am 9. Okt. 2019 angenommenen Änd., in Kraft seit 1. Juli 2020 ([AS 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Diese Regel findet Anwendung auf jede internationale Anmeldung, hinsichtlich der ein oder mehrere in Artikel 11 Absatz 1 Ziffer iii genannte Bestandteile erstmals beim Anmeldeamt an oder nach dem 1. Juli 2020 eingegangen sind.
 
-### **Regel 82****<sup>quater</sup>** Entschuldigung von Fristüberschreitungen
+### **Regel 82****<sup>quater</sup>** Entschuldigung von Fristüberschreitungen und Verlängerung von Fristen
 
-[^partD-lvlu7-1]
+[^partD-lvlu7-1][^partD-lvlu7-2]
 
-[^partD-lvlu7-1]: Eingefügt gemäss der von der PCT-Versammlung am 5. Okt. 2011 angenommenen Änd., in Kraft seit 1. Juli 2012 ([AS 2012 3541](https://fedlex.data.admin.ch/eli/oc/2012/396)).
+[^partD-lvlu7-1]: Eingefügt durch die von der PCT-Versammlung am 5. Okt. 2011 angenommenen Änd., in Kraft seit 1. Juli 2012 ([AS 2012 3541](https://fedlex.data.admin.ch/eli/oc/2012/396)).
+[^partD-lvlu7-2]: Fassung gemäss Beschluss der PCT-Versammlung vom 8. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Die neue Regel findet für jede in der Ausführungsordnung festgesetzte Frist Anwendung, die an oder nach dem 1. Juli 2022 abläuft.
 
 82<sup>quater</sup>.1 Entschuldigung von Fristüberschreitungen
 
-- a)[^partD-lvlu7-2] Jeder Beteiligte kann den Beweis anbieten, dass die Überschreitung einer in der Ausführungsordnung festgesetzten Frist zur Vornahme einer Handlung vor dem Anmeldeamt, der Internationalen Recherchenbehörde, der für die ergänzende Recherche bestimmten Behörde, der mit der internationalen vorläufigen Prüfung beauftragten Behörde oder dem Internationalen Büro auf einen Krieg, eine Revolution, eine Störung der öffentlichen Ordnung, einen Streik, eine Naturkatastrophe, eine allgemeine Nichtverfügbarkeit elektronischer Kommunikationsdienste oder eine ähnliche Ursache an seinem Sitz oder Wohnsitz, am Ort seiner Geschäftstätigkeit oder an seinem gewöhnlichen Aufenthaltsort zurückzuführen ist und dass die massgebliche Handlung so bald wie zumutbar vorgenommen wurde.
+- a)[^partD-lvlu7-3] Jeder Beteiligte kann den Beweis anbieten, dass die Überschreitung einer in der Ausführungsordnung festgesetzten Frist zur Vornahme einer Handlung vor dem Anmeldeamt, der Internationalen Recherchenbehörde, der für die ergänzende Recherche bestimmten Behörde, der mit der internationalen vorläufigen Prüfung beauftragten Behörde oder dem Internationalen Büro auf einen Krieg, eine Revolution, eine Störung der öffentlichen Ordnung, einen Streik, eine Naturkatastrophe, eine Epidemie, eine allgemeine Nichtverfügbarkeit elektronischer Kommunikationsdienste oder eine ähnliche Ursache an seinem Sitz oder Wohnsitz, am Ort seiner Geschäftstätigkeit oder an seinem gewöhnlichen Aufenthaltsort zurückzuführen ist und dass die massgebliche Handlung so bald wie zumutbar vorgenommen wurde.
 - b) Dieser Beweis ist dem Amt, der Behörde oder dem Internationalen Büro je nach Fall spätestens sechs Monate nach Ablauf der entsprechenden anwendbaren Frist zuzustellen. Ist der Empfänger aufgrund des vorgelegten Beweises überzeugt, dass solche Umstände vorlagen, ist die Fristüberschreitung entschuldigt.
 - c) Hat der Anmelder die in Artikel 22 bzw. Artikel 39 genannten Handlungen vor einem Bestimmungsamt oder ausgewählten Amt bereits vorgenommen, wenn die Entscheidung, die Fristversäumung zu entschuldigen, getroffen wird, so braucht dieses Amt die Entschuldigung nicht zu berücksichtigen.
+- d)[^partD-lvlu7-4] Das Amt, die Behörde oder das Internationale Büro kann unter den von diesem Amt bzw. dieser Behörde bzw. dem Internationalen Büro festgelegten und veröffentlichten Bedingungen auf das Erfordernis von Nachweisen verzichten. In diesem Fall muss der Beteiligte eine Erklärung einreichen, dass die Fristversäumung auf den Grund zurückzuführen ist, für den das Amt, die Behörde oder das Internationale Büro auf das Erfordernis der Einreichung von Nachweisen verzichtet hat. Das Amt oder die Behörde unterrichtet das Internationale Büro entsprechend.
 
-82<sup>quater</sup>.2*[^partD-lvlu7-3]* Nichtverfügbarkeit elektronischer Kommunikationsmittel im Amt
+82<sup>quater</sup>.2[^partD-lvlu7-5] Nichtverfügbarkeit elektronischer Kommunikationsmittel im Amt
 
 - a) Das nationale Amt oder die zwischenstaatliche Organisation kann bei Überschreitung einer in der Ausführungsordnung festgesetzten Frist zur Vornahme einer Handlung vor diesem Amt oder dieser Organisation aufgrund der Nichtverfügbarkeit eines der zugelassenen elektronischen Kommunikationsmittel bei diesem Amt oder dieser Organisation bestimmen, diese Fristüberschreitung zu entschuldigen, vorausgesetzt, dass die betreffende Handlung am darauffolgenden Werktag, an dem dieses elektronische Kommunikationsmittel wieder verfügbar war, vorgenommen wurde. Das betreffende Amt oder die betreffende Organisation veröffentlicht Angaben über diese Nichtverfügbarkeit einschliesslich des Zeitraums der Nichtverfügbarkeit und unterrichtet das Internationale Büro entsprechend.
 - b) Die Entschuldigung der Fristüberschreitung nach Absatz a muss von einem Bestimmungsamt oder ausgewählten Amt nicht berücksichtigt werden, wenn der Anmelder die in Artikel 22 oder 39 genannten Handlungen zu dem Zeitpunkt, an dem die Angaben nach Absatz a veröffentlicht werden, bereits vor diesem Amt vorgenommen hat.
+- 82<sup>quater</sup>.3[^partD-lvlu7-6] *Verlängerung von Fristen aufgrund einer allgemeinen Störung*
+- a) Jedes Anmeldeamt, jede Internationale Recherchenbehörde, jede für die ergänzende Recherche bestimmte Behörde, jede mit der internationalen vorläufigen Prüfung beauftragte Behörde oder das Internationale Büro kann einen Verlängerungszeitraum festlegen, so dass die in der Ausführungsordnung festgesetzten Fristen, innerhalb derer ein Beteiligter vor diesem Amt, dieser Behörde oder dem Internationalen Büro Handlungen vornehmen muss, verlängert werden können, falls im Sitzstaat eine allgemeine Störung auftritt, die von einem in Regel 82<sup>quater</sup>.1 Absatz a aufgeführten Ereignis hervorgerufen wurde, das den Betrieb in diesem Amt, in dieser Behörde oder im Internationalen Büro beeinträchtigt und damit die Fähigkeit von Beteiligten, Handlungen vor diesem Amt, dieser Behörde oder dem Internationalen Büro innerhalb der in der Ausführungsordnung festgesetzten Frist vorzunehmen, behindert. Das Amt, die Behörde oder das Internationale Büro veröffentlicht das Datum des Beginns und des Endes eines solchen Verlängerungszeitraums. Der Verlängerungszeitraum darf nicht länger als zwei Monate, gerechnet vom Datum des Beginns, betragen. Das Amt oder die Behörde unterrichtet das Internationale Büro entsprechend.
+- b) Nach Festlegung eines Verlängerungszeitraums nach Absatz a kann das betreffende Amt, die betreffende Behörde oder das Internationale Büro zusätzliche Verlängerungszeiträume festlegen, wenn die Umstände dies erfordern. In diesem Fall ist Absatz a *mutatis mutandis* anzuwenden.
+- c) Die Verlängerung einer Frist nach Absatz a oder b muss von jedem Bestimmungsamt oder ausgewählten Amt berücksichtigt werden, wenn zum Zeitpunkt der Veröffentlichung der Angaben nach Absatz a oder b das nationale Verfahren vor diesem Amt bereits begonnen hat.
 
-[^partD-lvlu7-2]: Fassung gemäss der von der PCT-Versammlung am 14. Okt. 2015 angenommenen Änd., in Kraft seit 1. Juli 2016 ([AS 2016 3491](https://fedlex.data.admin.ch/eli/oc/2016/587)). Diese Änd. findet auch Anwendung auf internationale Anmeldungen, deren internationales Anmeldedatum vor dem 1. Juli 2016 liegt, wenn das in der geänderten Regel 82<sup>quater</sup>.1 Absatz a genannte Ereignis am 1. Juli 2016 oder zu einem späteren Datum eintritt.
-[^partD-lvlu7-3]: Eingefügt durch die von der PCT-Versammlung am 9. Okt. 2019 angenommenen Änd., in Kraft seit 1. Juli 2020 ([AS 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Die Änderungen der Regel 82<sup>quater</sup> finden auf jede Frist Anwendung, auf die Regel 82<sup>quater</sup>.2 Absatz a anzuwenden ist, die an oder nach dem 1. Juli 2020 abläuft.
+[^partD-lvlu7-3]: Fassung gemäss Beschluss der PCT-Versammlung vom 8. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Die neue Regel findet für jede in der Ausführungsordnung festgesetzte Frist Anwendung, die an oder nach dem 1. Juli 2022 abläuft.
+[^partD-lvlu7-4]: Eingefügt durch Beschluss der PCT-Versammlung vom 8. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Die neue Regel findet für jede in der Ausführungsordnung festgesetzte Frist Anwendung, die an oder nach dem 1. Juli 2022 abläuft.
+[^partD-lvlu7-5]: Eingefügt durch die von der PCT-Versammlung am 9. Okt. 2019 angenommenen Änd., in Kraft seit 1. Juli 2020 ([AS 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Die Änderungen der Regel 82<sup>quater</sup> finden auf jede Frist Anwendung, auf die Regel 82<sup>quater</sup>.2 Absatz a anzuwenden ist, die an oder nach dem 1. Juli 2020 abläuft.
+[^partD-lvlu7-6]: Eingefügt durch Beschluss der PCT-Versammlung vom 8. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Die neue Regel findet für jede in der Ausführungsordnung festgesetzte Frist Anwendung, die an oder nach dem 1. Juli 2022 abläuft.
 
 ### **Regel 83**Das Recht zum Auftreten vor internationalen Behörden
 
@@ -3144,7 +3170,7 @@ Jedes nationale Amt oder jede zwischenstaatliche Organisation kann vorsehen, das
 - b) Die Zurücknahme wird mit Eingang der vom Anmelder an das Internationale Büro gerichteten Erklärung wirksam.
 - c) Reicht der Anmelder die Zurücknahmeerklärung bei der mit der internationalen vorläufigen Prüfung beauftragten Behörde ein, so vermerkt diese das Eingangsdatum auf der Erklärung und leitet sie unverzüglich an das Internationale Büro weiter. Die Erklärung gilt als an dem so vermerkten Eingangsdatum beim Internationalen Büro eingereicht.
 
-90<sup>bis</sup>.5*[^partF-lvlu4-1]* Unterschrift
+90<sup>bis</sup>.5[^partF-lvlu4-1] Unterschrift
 
 Eine Zurücknahmeerklärung nach den Regeln 90<sup>bis</sup>.1–90<sup>bis</sup>.4 ist vom Anmelder oder bei zwei oder mehr Anmeldern von ihnen allen zu unterzeichnen. Ein Anmelder, der als gemeinsamer Vertreter nach Regel 90.2 Buchstabe b gilt, ist nicht berechtigt, eine solche Erklärung für die anderen Anmelder zu unterzeichnen.
 
@@ -3304,7 +3330,7 @@ Für die Zwecke dieser Regel können Vorgänge, Exemplare und Akten als fotograf
 
 [^partF-lvlu10-1]
 
-[^partF-lvlu10-1]: *A**nmerkung des Herausgebers:* Regel 94 in der ab dem 1. Juli 1998 geltenden Fassung findet nur Anwendung auf internationale Anmeldungen, die an diesem Datum oder später eingereicht werden. Regel 94 in der bis zum 30. Juni 1998 geltenden Fassung findet nach diesem Datum weiterhin Anwendung auf internationale Anmeldungen, die vor diesem Datum eingereicht worden sind. Regel 94 in der bis zum 30. Juni 1998 geltenden Fassung lautet wie folgt: «**Regel 94** Erteilung von Kopien durch das Internationale Büro und die mit der internationalen vorläufigen Prüfung beauftragte Behörde 94.1 *Verpflichtung zur Erteilung* Auf Antrag des Anmelders oder einer von ihm bevollmächtigten Person erteilen das Internationale Büro und die mit der internationalen vorläufigen Prüfung beauftragte Behörde gegen Erstattung der entstehenden Auslagen Kopien eines jeden Schriftstücks, das sich in den Akten der internationalen Anmeldung oder vorgeblichen internationalen Anmeldung des Anmelders befindet.»
+[^partF-lvlu10-1]: *A**nmerkung des Herausgebers:* Regel 94 in der ab dem 1. Juli 1998 geltenden Fassung findet nur Anwendung auf internationale Anmeldungen, die an diesem Datum oder später eingereicht werden. Regel 94 in der bis zum 30. Juni 1998 geltenden Fassung findet nach diesem Datum weiterhin Anwendung auf internationale Anmeldungen, die vor diesem Datum eingereicht worden sind. Regel 94 in der bis zum 30. Juni 1998 geltenden Fassung lautet wie folgt: «**Regel 94**Erteilung von Kopien durch das Internationale Büro und die mit der internationalen vorläufigen Prüfung beauftragte Behörde 94.1 *Verpflichtung zur Erteilung* Auf Antrag des Anmelders oder einer von ihm bevollmächtigten Person erteilen das Internationale Büro und die mit der internationalen vorläufigen Prüfung beauftragte Behörde gegen Erstattung der entstehenden Auslagen Kopien eines jeden Schriftstücks, das sich in den Akten der internationalen Anmeldung oder vorgeblichen internationalen Anmeldung des Anmelders befindet.»
 
 94.1 Akteneinsicht beim Internationalen Büro
 
@@ -3397,7 +3423,7 @@ Die Beträge der in den Regeln 15, 45<sup>bis</sup>.2 und 57 genannten Gebühren
 
 [^partF-lvlu12-2]: Eingefügt durch der von der PCT-Versammlung am 9. Okt. 2019 angenommenen Änd., in Kraft seit 1. Juli 2020 ([AS 2020 3457](https://fedlex.data.admin.ch/eli/oc/2020/598)). Diese Regel findet Anwendung auf jede internationale Anmeldung, für welche vom gebühreneinziehenden Amt an oder nach dem 1. Juli 2020 Gebühren überwiesen werden, einschliesslich der Gebühren, die nach der gemäss Regel 45<sup>bis</sup>.3 Absatz b anzuwendenden Regel 16 erhoben werden.
 
-Anhang*[^t-4]*
+Anhang[^t-4]
 
 ## Gebührenverzeichnis
 

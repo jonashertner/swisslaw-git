@@ -3,11 +3,11 @@ sr: "0.232.141.11"
 title: "Règlement d'exécution du 19 juin 1970 du Traité de coopération en matière de brevets"
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/942_941_941"
 language: fr
-version: 2020-07-01
+version: 2022-07-01
 adopted: 1970-06-19
 in_force: 1978-01-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/942_941_941/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-1978-942_941_941-20200701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/942_941_941/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/942_941_941/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-1978-942_941_941-20220701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/942_941_941/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -28,7 +28,7 @@ Entré en vigueur pour la Suisse le 24 janvier 1978
 
 Texte en vigueur à partir du 1<sup>er</sup> juillet 2010[^t-2]
 
-(Etat le 1<sup>er</sup> juillet 2020)
+(Etat le 1<sup>er</sup> juillet 2022)
 
 [^t-1]: Art. 1<sup>er</sup> ch. 2 de l’AF du 29 nov. 1976 ([RO 1977 1709](https://fedlex.data.admin.ch/eli/oc/1977/1709_1709_1709))
 [^t-2]: Modifié par l’Assemblée de l’Union internationale de coopération en matière de brevets (Assemblée du PCT) le 14 avril 1978, le 3 oct. 1978, le 1<sup>er</sup> mai 1979, le 16 juin 1980, le 26 sept. 1980, le 3 juil. 1981, le 10 sept. 1982, le 4 oct. 1983, le 3 fév. 1984, le 28 sep. 1984, le 1<sup>er</sup> oct. 1985, le 12 juil. 1991, le 2 oct. 1991, le 29 sept. 1992, le 29 sept. 1993, le 3 oct. 1995, le 1<sup>er</sup> oct. 1997, le 15 sept. 1998, le 29 sept. 1999, le 17 mars 2000, le 3 oct. 2000, le 3 oct. 2001, le 1<sup>er</sup> oct. 2002, le 1<sup>er</sup> oct. 2003, le 5 oct. 2004, le 5 oct. 2005, le 3 oct. 2006, le 12 nov. 2007, le 15 mai 2008, le 29 sept. 2008 et le 1<sup>er</sup> oct. 2009 ([RO 2011 4129](https://fedlex.data.admin.ch/eli/oc/2011/582)).
@@ -296,10 +296,14 @@ Lorsque la demande internationale, à la date à laquelle un ou plusieurs des é
 - b) Il y a lieu de suivre la manière et l’ordre indiqués à l’al. a) sauf lorsqu’en raison de la nature de l’invention, une manière différente ou un ordre différent entraînerait une meilleure intelligence et une présentation plus économique.
 - c) Sous réserve de l’al. b), chaque élément énuméré à l’al. a) doit de préférence être précédé d’un titre approprié, conformément aux recommandations figurant dans les instructions administratives.
 
-### 5.2 Divulgation de séquences de nucléotides ou d’acides aminés
+### 5.2** Divulgation de séquences de nucléotides ou d’acides aminés
 
-- a) Lorsque la demande internationale contient la divulgation d’une ou plusieurs séquences de nucléotides ou d’acides aminés, la description doit comporter un listage des séquences établi conformément à la norme prévue dans les instructions administratives et présenté dans une partie distincte de la description conformément à cette norme.
-- b) Lorsque la partie de la description réservée au listage des séquences contient du texte libre défini dans la norme prévue dans les instructions administratives, ce texte libre doit également figurer dans la partie principale de la description, dans la langue de celle-ci.
+[^5-subdivu2-1]
+
+[^5-subdivu2-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juillet 2022 ou une date postérieure.
+
+- a) Lorsque la demande internationale contient la divulgation de séquences de nucléotides ou d’acides aminés qui, conformément aux instructions administratives, doivent figurer dans un listage des séquences, la description doit comporter une partie réservée au listage des séquences établies conformément à la norme prévue dans les instructions administratives.
+- b) Le texte libre dépendant de la langue figurant dans la partie de la description réservée au listage des séquences ne doit pas obligatoirement figurer dans la partie principale de la description.
 
 #### Règle 6
 
@@ -545,7 +549,9 @@ Les règles 10 et 11.1 à 11.13 s’appliquent également à tous documents – 
   - ii) une langue de publication.
 
 - c) Nonobstant l’al. a), la requête doit être déposée dans toute langue de publication que l’office récepteur accepte aux fins du présent alinéa.
-- d) Nonobstant l’al. a), tout texte figurant dans la partie de la description réservée au listage des séquences visée à la règle 5.2.a) doit être présenté conformément à la norme prévue dans les instructions administratives.
+- d)[^12-subdivu1-1] Nonobstant l’al. a), tout texte libre dépendant de la langue figurant dans la partie de la description réservée au listage des séquences doit être déposé dans une langue que l’office récepteur accepte à cet effet. Toute langue acceptée en vertu du présent alinéa mais non acceptée en vertu de l’al. a) doit remplir les conditions énoncées à l’al. b). L’office récepteur peut autoriser, mais n’exige pas, que le texte libre dépendant de la langue soit déposé dans plus d’une langue, conformément aux instructions administratives.
+
+[^12-subdivu1-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juillet 2022 ou une date postérieure.
 
 ### 12.1<sup>bis</sup> ** Langue des éléments et parties remis en vertu de la règle 20.3, 20.5, 20.5<sup>bis</sup> ou 20.6
 
@@ -577,7 +583,8 @@ Toute indication relative à du matériel biologique déposé donnée en vertu d
   - ii) une langue de publication, et
   - iii) une langue acceptée par l’office récepteur en vertu de la règle 12.1.a), à moins que la demande internationale ait été déposée dans une langue de publication.
 
-- b) L’al. a) ne s’applique pas à la requête ni à la partie de la description réservée au listage des séquences.
+- a-<sup>bis</sup>)[^12-subdivu5-1] Pour toute partie de la description réservée au listage des séquences, l’al. a) ne s’applique qu’au texte libre dépendant de la langue; toute traduction du texte libre dépendant de la langue doit être fournie conformément aux instructions administratives.
+- b)[^12-subdivu5-2] L’al. a) ne s’applique pas à la requête.
 - c)
 
   Lorsque, au moment où l’office récepteur envoie au déposant la notification prévue à la règle 20.2.c), le déposant n’a pas remis une traduction requise en vertu de l’al. a), l’office récepteur invite le déposant, de préférence en même temps qu’il adresse cette notification:
@@ -588,24 +595,36 @@ Toute indication relative à du matériel biologique déposé donnée en vertu d
 - d) Lorsque l’office récepteur a adressé au déposant l’invitation prévue à l’al. c) et que le déposant n’a pas, dans le délai applicable en vertu de l’al. c)ii), remis la traduction requise et acquitté le cas échéant la taxe de remise tardive, la demande internationale est considérée comme retirée et l’office récepteur le déclare. Toute traduction et tout paiement reçus par l’office récepteur avant que cet office ait fait la déclaration prévue à la phrase précédente et avant l’expiration d’un délai de 15 mois à compter de la date de priorité sont considérés comme reçus avant l’expiration de ce délai.
 - e) La remise d’une traduction après l’expiration du délai prescrit à l’al. a) peut être subordonnée par l’office récepteur au paiement, à son profit, d’une taxe pour remise tardive égale à 25 % de la taxe internationale de dépôt visée au point 1 du barème de taxes, non compris toute taxe pour chaque feuille de la demande internationale à compter de la trente et unième.
 
+[^12-subdivu5-1]: Introduite par la mod. adoptée par l’Assemblée du PCT le 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juillet 2022 ou une date postérieure.
+[^12-subdivu5-2]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juillet 2022 ou une date postérieure.
+
 ### 12.4 Traduction aux fins de la publication internationale
 
 - a) Si la langue dans laquelle la demande internationale est déposée n’est pas une langue de publication et qu’aucune traduction n’est exigée en vertu de la règle 12.3.a), le déposant doit, dans un délai de 14 mois à compter de la date de priorité, remettre à l’office récepteur une traduction de la demande internationale dans toute langue de publication internationale que cet office accepte aux fins du présent alinéa.
-- b) L’al. a) ne s’applique pas à la requête ni à la partie de la description réservée au listage des séquences.
+- a-<sup>bis</sup>)[^12-subdivu6-1] Pour toute partie de la description réservée au listage des séquences, l’al. a) ne s’applique qu’au texte libre dépendant de la langue; toute traduction du texte libre dépendant de la langue doit être fournie conformément aux instructions administratives.
+- b)[^12-subdivu6-2] L’al. a) ne s’applique pas à la requête.
 - c) Lorsque le déposant n’a pas, dans le délai visé à l’al. a), remis une traduction requise en vertu de cet alinéa, l’office récepteur invite le déposant à remettre la traduction requise et à acquitter, le cas échéant, la taxe pour remise tardive visée à l’al. e), dans un délai de 16 mois à compter de la date de priorité. Toute traduction reçue par l’office récepteur avant l’envoi par celui-ci de l’invitation prévue dans la phrase précédente est considérée comme ayant été reçue avant l’expiration du délai indiqué à l’al. a).
 - d) Lorsque le déposant n’a pas, dans le délai visé à l’al. c), remis la traduction requise et acquitté le cas échéant la taxe pour remise tardive, la demande internationale est considérée comme retirée et l’office récepteur le déclare. Toute traduction et tout paiement reçus par l’office récepteur avant que cet office ait fait la déclaration prévue à la phrase précédente et avant l’expiration d’un délai de 17 mois à compter de la date de priorité sont considérés comme reçus avant l’expiration de ce délai.
 - e) La remise d’une traduction après l’expiration du délai prescrit à l’al. a) peut être subordonnée par l’office récepteur au paiement, à son profit, d’une taxe pour remise tardive égale à 25 % de la taxe internationale de dépôt visée au point 1 du barème de taxes, non compris toute taxe pour chaque feuille de la demande internationale à compter de la trente et unième.
+
+[^12-subdivu6-1]: Introduite par la mod. adoptée par l’Assemblée du PCT le 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juillet 2022 ou une date postérieure.
+[^12-subdivu6-2]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juillet 2022 ou une date postérieure.
 
 #### Règle 12<sup>bis</sup>
 
 **Communication par le déposant de documents relatifs à une recherche antérieure**[^12bis-1]
 
-- 12<sup>bis</sup>.1 *Remise par le déposant de documents relatifs à une recherche antérieure en cas de requête selon la règle 4.12*
+### 12<sup>bis</sup>.1 Remise par le déposant de documents relatifs à une recherche antérieure en cas de requête selon la règle 4.12
+
+[^12bis-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 14 oct. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3521](https://fedlex.data.admin.ch/eli/oc/2017/385)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juil. 2017 ou une date postérieure.
+
 - a) Lorsque le déposant a, conformément à la règle 4.12, demandé à l’administration chargée de la recherche internationale de prendre en considération les résultats d’une recherche effectuée antérieurement par cette même administration ou une autre administration chargée de la recherche internationale ou par un office national, il doit, sous réserve des al. b) à d), remettre à l’office récepteur, en même temps que la demande internationale, une copie des résultats de la recherche antérieure, quelle que soit la forme sous laquelle ils sont présentés par l’administration ou l’office concerné (par exemple, sous la forme d’un rapport de recherche, d’une liste des éléments cités compris dans l’état de la technique ou d’un rapport d’examen).
 - b) Lorsque la recherche antérieure a été effectuée par l’office qui agit en qualité d’office récepteur, le déposant peut, au lieu de remettre la copie visée à l’al. a), demander à l’office récepteur que celui‑ci l’établisse et la transmette à l’administration chargée de la recherche internationale. Cette demande doit être formulée dans la requête et peut être subordonnée par l’office récepteur au paiement d’une taxe à son profit.
 - c) Lorsque la recherche antérieure a été effectuée par la même administration chargée de la recherche internationale ou par l’office qui agit en qualité d’administration chargée de la recherche internationale, aucune copie visée à l’al. a) n’est requise en vertu dudit alinéa.
 - d) Lorsqu’une copie visée à l’al. a) est à la disposition de l’office récepteur ou de l’administration chargée de la recherche internationale sous une forme et d’une manière qu’il ou elle accepte, par exemple auprès d’une bibliothèque numérique, et que le déposant l’indique dans la requête, aucune copie n’est requise en vertu dudit alinéa.
-- 12<sup>bis</sup>.2 *Invitation par l’administration chargée de la recherche internationale à re**mettre des documents relatifs à une recherche antérieure en cas de r**e**quête selon la règle 4.12*
+
+### 12<sup>bis</sup>.2 Invitation par l’administration chargée de la recherche internationale à remettre des documents relatifs à une recherche antérieure en cas de requête selon la règle 4.12
+
 - a) L’administration chargée de la recherche internationale peut, sous réserve des al. b) et c), inviter le déposant à lui remettre, dans un délai raisonnable en l’espèce,
   - i) une copie de la demande antérieure concernée;
   - ii) lorsque la demande antérieure est rédigée dans une langue qui n’est pasacceptée par l’administration chargée de la recherche internationale, une traduction de la demande antérieure dans une langue acceptée par cette administration;
@@ -614,8 +633,6 @@ Toute indication relative à du matériel biologique déposé donnée en vertu d
 
 - b) Lorsque la recherche antérieure a été effectuée par la même administration chargée de la recherche internationale ou par l’office qui agit en qualité d’administration chargée de la recherche internationale, ou lorsqu’une copie ou une traduction visées à l’al. a) sont à la disposition de l’administration chargée de la recherche internationale sous une forme et d’une manière qu’elle accepte, par exemple auprès d’une bibliothèque numérique ou sous la forme du document de priorité, aucune copie ni aucune traduction visées à l’al. a) ne sont requises en vertu dudit alinéa.
 - c) Lorsque la requête contient une déclaration visée à la règle 4.12.ii) selon laquelle la demande internationale est identique, ou pratiquement identique, à la demande pour laquelle la recherche antérieure a été effectuée, ou selon laquelle la demande internationale est identique, ou pratiquement identique, à cette demande antérieure, mais a été déposée dans une langue différente, aucune copie ni aucune traduction visées aux points i) et ii) de l’al. a) ne sont requises en vertu desdits points.
-
-[^12bis-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 14 oct. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3521](https://fedlex.data.admin.ch/eli/oc/2017/385)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juil. 2017 ou une date postérieure.
 
 #### Règle 13
 
@@ -701,14 +718,18 @@ Conformément aux art. 23 et 40, il ne sera pas remis, sauf avec l’autorisatio
 
 **Listage des séquences de nucléotides ou d’acides aminés**
 
-### 13<sup>ter</sup>.1 Procédure au sein de l’administration chargée de la recherche internationale
+### 13<sup>ter</sup>.1** Procédure au sein de l’administration chargée de la recherche internationale
 
-- a) Lorsque la demande internationale contient la divulgation d’une ou plusieurs séquences de nucléotides ou d’acides aminés, l’administration chargée de la recherche internationale peut inviter le déposant à lui fournir, aux fins de la recherche internationale, un listage des séquences sous forme électronique conforme à la norme prévue dans les instructions administratives, à moins qu’elle n’ait déjà accès à ce listage sous forme électronique sous une forme et d’une manière qu’elle accepte, et le cas échéant à lui payer, dans le délai fixé dans l’invitation, la taxe pour remise tardive visée à l’al. c).
-- b) Lorsqu’une partie au moins de la demande internationale est déposée sur papier et que l’administration chargée de la recherche internationale constate que la description n’est pas conforme à la règle 5.2.a), elle peut inviter le déposant à fournir, aux fins de la recherche internationale, un listage des séquences sur papier conforme à la norme prévue dans les instructions administratives, à moins qu’elle n’ait déjà accès à ce listage sur papier sous une forme et d’une manière qu’elle accepte, que la fourniture d’un listage des séquences sous forme électronique soit ou non exigée en vertu de l’al. a), et le cas échéant à lui payer, dans le délai fixé dans l’invitation, la taxe pour remise tardive visée à l’al. c).
-- c) La fourniture d’un listage des séquences en réponse à une invitation selon l’al. a) ou b) peut être subordonnée par l’administration chargée de la recherche internationale au paiement, à son profit, d’une taxe pour remise tardive dont le montant est déterminé par l’administration chargée de la recherche internationale mais ne peut excéder 25 % de la taxe internationale de dépôt visée au point 1 du barème de taxes, non compris toute taxe pour chaque feuille de la demande internationale à compter de la trente et unième, étant entendu qu’une taxe pour remise tardive peut être exigée en vertu de l’al. a) ou de l’al. b), mais pas des deux.
-- d) Si, dans le délai fixé dans une invitation visée à l’al. a) ou b), le déposant ne fournit pas le listage des séquences requis et ne paie pas la taxe pour remise tardive requise le cas échéant, l’administration chargée de la recherche internationale n’est tenue de procéder à la recherche à l’égard de la demande internationale que dans la mesure où une recherche significative peut être effectuée sans le listage des séquences.
-- e) Un listage des séquences qui ne figure pas dans la demande internationale telle qu’elle a été déposée, qu’il ait été fourni en réponse à une invitation selon l’al. a) ou b) ou d’une autre manière, ne fait pas partie de la demande internationale; toutefois, le présent alinéa n’empêche pas le déposant de modifier la description à l’égard d’un listage des séquences conformément à l’art. 34.2)b).
-- f) Lorsque l’administration chargée de la recherche internationale constate que la description n’est pas conforme à la règle 5.2.b), elle invite le déposant à soumettre la correction requise. La règle 26.4 s’applique mutatis mutandis à toute correction proposée par le déposant. L’administration chargée de la recherche internationale transmet la correction à l’office récepteur et au Bureau international.
+[^13ter-subdivu1-1]
+
+[^13ter-subdivu1-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juillet 2022 ou une date postérieure.
+
+- a) Lorsque la demande internationale contient la divulgation de séquences de nucléotides ou d’acides aminés qui, conformément aux instructions administratives, doivent figurer dans un listage des séquences, l’administration chargée de la recherche internationale peut inviter le déposant à lui fournir, aux fins de la recherche internationale, un listage des séquences conforme à la norme prévue dans les instructions administratives, à moins qu’elle n’ait déjà accès à ce listage sous une forme, dans une langue et d’une manière qu’elle accepte, et le cas échéant à lui payer, dans le délai fixé dans l’invitation, la taxe pour remise tardive visée à l’al. c).
+- b) [*Supprimé*]
+- c) La fourniture d’un listage des séquences en réponse à une invitation selon l’al. a) peut être subordonnée par l’administration chargée de la recherche internationale au paiement, à son profit, d’une taxe pour remise tardive dont le montant est déterminé par l’administration chargée de la recherche internationale mais ne peut excéder 25 % de la taxe internationale de dépôt visée au point 1 du barème de taxes, non compris toute taxe pour chaque feuille de la demande internationale à compter de la trente et unième.
+- d) Si, dans le délai fixé dans une invitation visée à l’al. a), le déposant ne fournit pas le listage des séquences requis et ne paie pas la taxe pour remise tardive requise le cas échéant, l’administration chargée de la recherche internationale n’est tenue de procéder à la recherche à l’égard de la demande internationale que dans la mesure où une recherche significative peut être effectuée sans le listage des séquences.
+- e) Un listage des séquences qui ne figure pas dans la demande internationale telle qu’elle a été déposée, qu’il ait été fourni en réponse à une invitation selon l’al. a) ou d’une autre manière, ne fait pas partie de la demande internationale; toutefois, le présent alinéa n’empêche pas le déposant de modifier la description à l’égard d’un listage des séquences conformément à l’art. 34.2) b).
+- f) [*Supprimé*]
 
 ### 13<sup>ter</sup>.2 Procédure au sein de l’administration chargée de l’examen préliminaire international
 
@@ -903,13 +924,17 @@ S’il y a plusieurs déposants, le droit de déposer une demande internationale
 
 ### 19.4 Transmission au Bureau international agissant en tant qu’office récepteur
 
-- a) Lorsqu’une demande internationale est déposée auprès d’un office national agissant en tant qu’office récepteur en vertu du traité, mais que
+- a)[^19-subdivu4-1] Lorsqu’une demande internationale est déposée auprès d’un office national agissant en tant qu’office récepteur en vertu du traité, mais que
   - i) cet office national n’est pas compétent en vertu de la règle 19.1 ou 19.2 pour la recevoir, ou
-  - ii) cette demande internationale n’est pas rédigée dans une langue acceptée en vertu de la règle 12.1.a) par cet office national mais l’est dans une langue acceptée en vertu de cette règle par le Bureau international agissant en tant qu’office récepteur, ou
-  - iii) cet office national et le Bureau international, pour toute raison autre que les raisons précisées aux points i) et ii), et avec l’autorisation du déposant, conviennent que la procédure prévue par la présente règle doit s’appliquer, cette demande internationale est, sous réserve de l’al. b), réputée avoir été reçue par cet office pour le compte du Bureau international agissant en tant qu’office récepteur en vertu de la règle 19.1.a)iii).
+  - ii) cette demande internationale n’est pas rédigée dans une langue acceptée en vertu de la règle 12.1.a) ou le texte libre dépendant de la langue contenue dans la partie de la description réservée au listage des séquences n’est pas dans une langue acceptée en vertu de la règle 12.1.d) par cet office national mais l’est dans une langue acceptée en vertu de cette règle par le Bureau international agissant en tant qu’office récepteur, ou
+  - [tab] ii-<sup>bis</sup>) tout ou partie de la demande internationale est déposée sous forme électronique dans un format non accepté par cet office national, ou
+  - iii) cet office national et le Bureau international, pour toute raison autre que les raisons précisées aux points i), ii) et ii-<sup>bis</sup>), et avec l’autorisation du déposant, conviennent que la procédure prévue par la présente règle doit s’appliquer,
 
+- cette demande internationale est, sous réserve de l’al. b), réputée avoir été reçue par cet office pour le compte du Bureau international agissant en tant qu’office récepteur en vertu de la règle 19.1.a) iii).
 - b) Lorsque, conformément à l’al. a), une demande internationale est reçue par un office national pour le compte du Bureau international agissant en tant qu’office récepteur en vertu de la règle 19.1.a)iii), cet office national la transmet à bref délai au Bureau international si des prescriptions relatives à la défense nationale n’y font pas obstacle. L’office national peut subordonner cette transmission au paiement, à son profit, d’une taxe égale à la taxe de transmission qu’il exige en vertu de la règle 14. La demande internationale ainsi transmise est réputée avoir été reçue par le Bureau international agissant en tant qu’office récepteur en vertu de la règle 19.1.a)iii) à la date de sa réception par cet office national.
 - c) Aux fins des règles 14.1.c), 15.3 et 16.1.f), lorsque la demande internationale est transmise au Bureau international en vertu de l’al. b), la date de réception de la demande internationale est considérée comme étant la date à laquelle le Bureau international a effectivement reçu cette demande. Aux fins du présent alinéa, la dernière phrase de l’al. b) n’est pas applicable.
+
+[^19-subdivu4-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juillet 2022 ou une date postérieure.
 
 #### Règle 20
 
@@ -1094,7 +1119,10 @@ Le délai visé à l’art. 12.3) est de trois mois à compter de la date de la 
 
 **Transmission de documents relatifs à une recherche ou un classement antérieurs**[^23bis-1]
 
-- 23<sup>bis</sup>.1 *Transmission de documents relatifs à une recherche antérieure en cas de requête selon la règle 4.12*
+### 23<sup>bis</sup>.1 Transmission de documents relatifs à une recherche antérieure en cas de requête selon la règle 4.12
+
+[^23bis-1]: Introduite par la mod. adoptée par l’Assemblée du PCT le 14 oct. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3521](https://fedlex.data.admin.ch/eli/oc/2017/385)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juil. 2017 ou une date postérieure.
+
 - a)
 
   L’office récepteur transmet à l’administration chargée de la recherche internationale, en même temps que la copie de recherche, toute copie visée à la règle 12<sup>bis</sup>.1.a) relative à une recherche antérieure à l’égard de laquelle le déposant a présenté une requête selon la règle 4.12, pour autant que ladite copie:
@@ -1104,15 +1132,16 @@ Le délai visé à l’art. 12.3) est de trois mois à compter de la date de la 
   - iii) soit à la disposition de l’office récepteur sous une forme et d’une manière qu’il accepte, par exemple auprès d’une bibliothèque numérique, conformément à la règle 12<sup>bis</sup>.1.d).
 
 - b) Si elle n’accompagne pas la copie des résultats de la recherche antérieure visée à la règle 12<sup>bis</sup>.1.a), l’office récepteur transmet également à l’administration chargée de la recherche internationale, en même temps que la copie de recherche, une copie des résultats de tout classement antérieur effectué par ledit office, si ces derniers sont déjà disponibles.
-- 23<sup>bis</sup>.2 *Transmission de documents relatifs à une recherche ou un classement ant**é**rieurs aux fins de la règle 41.2*
-- a)[^23bis-2] Aux fins de la règle 41.2, lorsque la demande internationale revendique la priorité d’une ou plusieurs demandes antérieures déposées auprès de l’office agissant en qualité d’office récepteur et que ledit office a effectué antérieurement une recherche ou un classement à l’égard d’une telle demande antérieure, l’office récepteur transmet à l’administration chargée de la recherche internationale, sous réserve de l’art. 30.2)a) applicable en vertu de l’art. 30.3) et des al. b), d) et e), en même temps que la copie de recherche, une copie des résultats de cette recherche antérieure, quelle que soit la forme sous laquelle ils sont à la disposition de l’office (par exemple, sous la forme d’un rapport de recherche, d’une liste des éléments cités compris dans l’état de la technique ou d’un rapport d’examen), ainsi qu’une copie des résultats du classement antérieur effectué par ledit office, si ces derniers sont déjà disponibles. L’office récepteur peut également, sous réserve de l’art. 30.2)a) applicable en vertu de l’art. 30.3), transmettre à l’administration chargée de la recherche internationale tout autre document relatif à une telle recherche antérieure qu’il considère utile à ladite administration aux fins de la recherche internationale.
+
+### 23<sup>bis</sup>.2 Transmission de documents relatifs à une recherche ou un classement antérieurs aux fins de la règle 41.2
+
+- a)[^23bis-subdivu2-1] Aux fins de la règle 41.2, lorsque la demande internationale revendique la priorité d’une ou plusieurs demandes antérieures déposées auprès de l’office agissant en qualité d’office récepteur et que ledit office a effectué antérieurement une recherche ou un classement à l’égard d’une telle demande antérieure, l’office récepteur transmet à l’administration chargée de la recherche internationale, sous réserve de l’art. 30.2)a) applicable en vertu de l’art. 30.3) et des al. b), d) et e), en même temps que la copie de recherche, une copie des résultats de cette recherche antérieure, quelle que soit la forme sous laquelle ils sont à la disposition de l’office (par exemple, sous la forme d’un rapport de recherche, d’une liste des éléments cités compris dans l’état de la technique ou d’un rapport d’examen), ainsi qu’une copie des résultats du classement antérieur effectué par ledit office, si ces derniers sont déjà disponibles. L’office récepteur peut également, sous réserve de l’art. 30.2)a) applicable en vertu de l’art. 30.3), transmettre à l’administration chargée de la recherche internationale tout autre document relatif à une telle recherche antérieure qu’il considère utile à ladite administration aux fins de la recherche internationale.
 - b) Nonobstant l’al. a), l’office récepteur peut notifier au Bureau international au plus tard le 14 avril 2016 qu’il peut, sur requête du déposant présentée avec la demande internationale, décider de ne pas transmettre les résultats d’une recherche antérieure à l’administration chargée de la recherche internationale. Le Bureau international publie toute notification reçue en vertu de la présente disposition dans la gazette.
 - c) Au choix de l’office récepteur, l’al. a) s’applique *mutatis mutandis* lorsque la demande internationale revendique la priorité d’une ou plusieurs demandes antérieures déposées auprès d’un office autre que celui qui agit en qualité d’office récepteur, que cet autre office a effectué antérieurement une recherche ou un classement à l’égard d’une telle demande antérieure et que les résultats de cette recherche ou de ce classement sont à la disposition de l’office récepteur sous une forme et d’une manière qu’il accepte, par exemple auprès d’une bibliothèque numérique.
 - d) Les al. a) et c) ne s’appliquent pas lorsque la recherche antérieure a été effectuée par la même administration chargée de la recherche internationale ou par l’office qui agit en qualité d’administration chargée de la recherche internationale, ou lorsque l’office récepteur a connaissance du fait qu’une copie des résultats de la recherche ou du classement antérieurs est à la disposition de l’administration chargée de la recherche internationale sous une forme et d’une manière qu’elle accepte, par exemple auprès d’une bibliothèque numérique.
 - e) Dans la mesure où, le 14 octobre 2015, la transmission sans le consentement du déposant des copies visées à l’al. a), ou de telles copies sous une forme particulière comme celles mentionnées à l’al. a), n’est pas compatible avec la législation nationale appliquée par l’office récepteur, cet alinéa ne s’applique pas à la transmission de telles copies, ou à la transmission de telles copies sous la forme particulière concernée, à l’égard de toute demande internationale déposée auprès dudit office récepteur tant qu’une telle transmission sans le consentement du déposant reste incompatible avec ladite législation, à condition que ledit office en informe le Bureau international, au plus tard le 14 avril 2016. Le Bureau international publie à bref délai dans la gazette les informations reçues.
 
-[^23bis-1]: Introduite par la mod. adoptée par l’Assemblée du PCT le 14 oct. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3521](https://fedlex.data.admin.ch/eli/oc/2017/385)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juil. 2017 ou une date postérieure.
-[^23bis-2]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 11 oct. 2016, en vigueur depuis le 1<sup>er</sup> juil. 2017 (RO **201****7** 3527). La mod. s’appliquera à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juillet 2017 ou une date postérieure.
+[^23bis-subdivu2-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 11 oct. 2016, en vigueur depuis le 1<sup>er</sup> juil. 2017 (RO **201****7** 3527). La mod. s’appliquera à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juillet 2017 ou une date postérieure.
 
 #### Règle 24
 
@@ -1570,20 +1599,28 @@ n’est notifié à cette administration qu’après que cette dernière a comme
 
 **Prise en considération des résultats d’une recherche et d’un classement antérieurs[^41-1]**
 
-- 41\.1 *Prise en considération des résultats d’une recherche* *antérieure en cas de requête selon la règle 4.12*[^41-2]
+### 41.1 Prise en considération des résultats d’une recherche antérieure en cas de requête selon la règle 4.12**
+
+[^41-subdivu1-1]
+
+[^41-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 14 oct. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3521](https://fedlex.data.admin.ch/eli/oc/2017/385)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juil. 2017 ou une date postérieure.
+[^41-subdivu1-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 14 oct. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3521](https://fedlex.data.admin.ch/eli/oc/2017/385)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juil. 2017 ou une date postérieure.
 
 Lorsque le déposant a, conformément à la règle 4.12, demandé à l’administration chargée de la recherche internationale de prendre en considération les résultats d’une recherche antérieure et s’est conformé aux dispositions de la règle 12<sup>bis</sup>.1, et que:
 
 - i) la recherche antérieure a été effectuée par la même administration chargée de la recherche internationale ou par l’office qui agit en qualité d’administration chargée de la recherche internationale, l’administration chargée de la recherche internationale, dans la mesure du possible, prend en considération ces résultats dans le cadre de la recherche internationale;
 - ii) la recherche antérieure a été effectuée par une autre administration chargée de la recherche internationale ou par un office qui n’est pas celui qui agit en qualité d’administration chargée de la recherche internationale, l’administration chargée de la recherche internationale peut prendre en considération ces résultats dans le cadre de la recherche internationale.
-- 41\.2[^41-3] *Prise en considération des résultats d’une recherche et d’un classement antérieurs dans d’autres cas*
-- a) Lorsque la demande internationale revendique la priorité d’une ou plusieurs demandes antérieures à l’égard desquelles une recherche antérieure a été effectuée par la même administration chargée de la recherche internationale ou par l’office qui agit en qualité d’administration chargée de la recherche internationale, l’administration chargée de la recherche internationale, dans la mesure du possible, prend en considération les résultats de ladite recherche antérieure dans le cadre de la recherche internationale.
-- b)[^41-4] Lorsque l’office récepteur a transmis à l’administration chargée de la recherche internationale une copie des résultats de toute recherche ou de tout classement effectués antérieurement en vertu de la règle 23<sup>bis</sup>.2.a) ou c), ou lorsqu’une telle copie est à la disposition de l’administration chargée de la recherche internationale sous une forme et d’une manière qu’elle accepte, par exemple auprès d’une bibliothèque numérique, l’administration chargée de la recherche internationale peut prendre en considération ces résultats dans le cadre de la recherche internationale.
 
-[^41-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 14 oct. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3521](https://fedlex.data.admin.ch/eli/oc/2017/385)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juil. 2017 ou une date postérieure.
-[^41-2]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 14 oct. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3521](https://fedlex.data.admin.ch/eli/oc/2017/385)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juil. 2017 ou une date postérieure.
-[^41-3]: Introduit par la mod. adoptée par l’Assemblée du PCT le 14 oct. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3521](https://fedlex.data.admin.ch/eli/oc/2017/385)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juil. 2017 ou une date postérieure.
-[^41-4]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 3155](https://fedlex.data.admin.ch/eli/oc/2018/505)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juil. 2018 ou une date postérieure.
+### 41.2** Prise en considération des résultats d’une recherche et d’un classement antérieurs dans d’autres cas
+
+[^41-subdivu2-1]
+
+[^41-subdivu2-1]: Introduit par la mod. adoptée par l’Assemblée du PCT le 14 oct. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 3521](https://fedlex.data.admin.ch/eli/oc/2017/385)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juil. 2017 ou une date postérieure.
+
+- a) Lorsque la demande internationale revendique la priorité d’une ou plusieurs demandes antérieures à l’égard desquelles une recherche antérieure a été effectuée par la même administration chargée de la recherche internationale ou par l’office qui agit en qualité d’administration chargée de la recherche internationale, l’administration chargée de la recherche internationale, dans la mesure du possible, prend en considération les résultats de ladite recherche antérieure dans le cadre de la recherche internationale.
+- b)[^41-subdivu2-2] Lorsque l’office récepteur a transmis à l’administration chargée de la recherche internationale une copie des résultats de toute recherche ou de tout classement effectués antérieurement en vertu de la règle 23<sup>bis</sup>.2.a) ou c), ou lorsqu’une telle copie est à la disposition de l’administration chargée de la recherche internationale sous une forme et d’une manière qu’elle accepte, par exemple auprès d’une bibliothèque numérique, l’administration chargée de la recherche internationale peut prendre en considération ces résultats dans le cadre de la recherche internationale.
+
+[^41-subdivu2-2]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 3155](https://fedlex.data.admin.ch/eli/oc/2018/505)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juil. 2018 ou une date postérieure.
 
 #### Règle 42
 
@@ -2032,7 +2069,7 @@ Aucun déposant n’est tenu d’utiliser un formulaire national lorsqu’il acc
   - ii)[^49-subdivu5-1] porte, si les revendications ont été modifiées selon l’art. 19, sur les revendications telles que déposées et sur les revendications telles que modifiées (les revendications telles que modifiées doivent être fournies sous la forme d’une traduction de la série complète des revendications soumise en vertu de la règle 46.5.a) afin de remplacer toutes les revendications initialement déposées), et
   - iii) est accompagnée d’une copie des dessins.
 
-- [tab] a<sup>bis</sup>) Aucun office désigné ne peut exiger du déposant qu’il lui fournisse la traduction d’un élément de texte figurant dans la partie de la description réservée au listage des séquences si cette partie de la description est conforme à la règle 12.1.d) et si la description est conforme à la règle 5.2.b).
+- a<sup>bis</sup>)[^49-subdivu5-2] Aucun office désigné ne peut exiger du déposant qu’il lui fournisse la traduction d’un élément de texte figurant dans la partie de la description réservée au listage des séquences si cette partie de la description est conforme à la règle 12.1.d) et inclut le texte libre dépendant de la langue dans une langue que l’office désigné accepte à cet effet, étant précisé qu’un office désigné qui fournit des listages des séquences publiés à des fournisseurs de bases de données peut exiger, conformément aux instructions administratives, une traduction en anglais de la partie de la description réservée au listage des séquences lorsque le texte libre dépendant de la langue n’est pas inclus en anglais.
 - b) Tout office désigné exigeant la remise d’une traduction de la requête délivre gratuitement aux déposants des exemplaires du formulaire de requête dans la langue de la traduction. La forme et le contenu du formulaire de requête dans la langue de la traduction ne doivent pas être différents de ceux de la requête selon les règles 3 et 4; en particulier, le formulaire de requête dans la langue de la traduction ne doit pas demander des renseignements qui ne figurent pas dans la requête telle que déposée. L’utilisation du formulaire de requête dans la langue de la traduction est facultative.
 - c) Lorsque le déposant n’a pas remis de traduction d’une déclaration faite en vertu de l’art. 19.1), l’office désigné peut ne pas tenir compte de cette déclaration.
 - [tab] c<sup>bis</sup>) Lorsque le déposant ne remet, à un office désigné qui exige, en application de l’al. a)ii), la traduction des revendications telles qu’elles ont été déposées et telles qu’elles ont été modifiées, qu’une seule des deux traductions requises, l’office désigné peut faire abstraction des revendications dont la traduction n’a pas été remise ou inviter le déposant à remettre la traduction manquante dans un délai qui doit être raisonnable en l’espèce et qui est fixé dans l’invitation. Si l’office désigné décide d’inviter le déposant à remettre la traduction manquante et que celle-ci n’est pas remise dans le délai fixé dans l’invitation, l’office désigné peut faire abstraction des revendications dont la traduction n’a pas été remise ou considérer la demande internationale comme retirée.
@@ -2044,10 +2081,11 @@ Aucun déposant n’est tenu d’utiliser un formulaire national lorsqu’il acc
 - i) Le Bureau international publie dans la gazette des renseignements sur les exigences et les pratiques qu’ont les offices désignés selon la deuxième phrase de l’al. a).
 - j) Aucun office désigné ne peut exiger que la traduction de la demande internationale remplisse des conditions matérielles autres que celles qui sont prescrites pour la demande internationale telle que déposée.
 - k) Lorsqu’un titre a été établi par l’administration chargée de la recherche internationale en application de la règle 37.2, la traduction doit porter sur le titre établi par cette administration.
-- l) Si, au 12 juillet 1991, l’al. c-<sup>bis</sup>) ou l’al. k) n’est pas compatible avec la législation nationale appliquée par l’office désigné, il ne s’applique pas à celui-ci tant qu’il reste incompatible avec ladite législation, à condition que l’office en question en informe le Bureau international le 31 décembre 1991 au plus tard. Le Bureau international publie à bref délai dans la gazette les informations reçues.[^49-subdivu5-2]
+- l) Si, au 12 juillet 1991, l’al. c-<sup>bis</sup>) ou l’al. k) n’est pas compatible avec la législation nationale appliquée par l’office désigné, il ne s’applique pas à celui-ci tant qu’il reste incompatible avec ladite législation, à condition que l’office en question en informe le Bureau international le 31 décembre 1991 au plus tard. Le Bureau international publie à bref délai dans la gazette les informations reçues.[^49-subdivu5-3]
 
 [^49-subdivu5-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 29 sept. 2010, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 4311](https://fedlex.data.admin.ch/eli/oc/2011/583)).
-[^49-subdivu5-2]: *Note de l’éditeur*: Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: www.wipo.int/pct/fr/texts/reservations/res\_incomp.html.
+[^49-subdivu5-2]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juillet 2022 ou une date postérieure.
+[^49-subdivu5-3]: *Note de l’éditeur*: Ces informations sont aussi publiées sur le site Internet de l’OMPI à l’adresse suivante: www.wipo.int/pct/fr/texts/reservations/res\_incomp.html.
 
 ### 49.6 Rétablissement des droits en cas d’inaccomplissement des actes visés à l’art. 22**
 
@@ -3135,17 +3173,20 @@ Les dispositions de la législation nationale visée à l’art. 48.2) qui perme
 
 #### Règle 82<sup>quater</sup>
 
-**Excuse de retard dans l’observation de délais**[^82quater-1]
+**Excuse de retard dans l’observation de délais et prorogation de délai[^82quater-2]**[^82quater-1]
 
 ### 82<sup>quater</sup>.1 Excuse de retard dans l’observation de délais
 
 [^82quater-1]: Introduite par la mod. adoptée par l’Assemblée du PCT le 5 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 3541](https://fedlex.data.admin.ch/eli/oc/2012/396)).
+[^82quater-2]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Cette mod. s’applique à tout délai fixé dans le règlement d’exécution qui expire à cette date ou à une date postérieure.
 
-- a)[^82quater-subdivu1-1] Toute partie intéressée peut faire la preuve qu’un délai prévu dans le règlement d’exécution pour l’accomplissement d’un acte devant l’office récepteur, l’administration chargée de la recherche internationale, l’administration indiquée pour la recherche supplémentaire, l’administration chargée de l’examen préliminaire international ou le Bureau international n’a pas été respecté en raison de guerre, de révolution, de désordre civil, de grève, de calamité naturelle, d’une indisponibilité générale des services de communication électronique ou d’autres raisons semblables, dans la localité où la partie intéressée a son domicile, son siège ou sa résidence, et que les mesures nécessaires ont été prises dès que cela a été raisonnablement possible.
+- a)[^82quater-subdivu1-1] Toute partie intéressée peut faire la preuve qu’un délai prévu dans le règlement d’exécution pour l’accomplissement d’un acte devant l’office récepteur, l’administration chargée de la recherche internationale, l’administration indiquée pour la recherche supplémentaire, l’administration chargée de l’examen préliminaire international ou le Bureau international n’a pas été respecté en raison de guerre, de révolution, de désordre civil, de grève, de calamité naturelle, d’épidémie, d’une indisponibilité générale des services de communication électronique ou d’autres raisons semblables, dans la localité où la partie intéressée a son domicile, son siège ou sa résidence, et que les mesures nécessaires ont été prises dès que cela a été raisonnablement possible.
 - b) Cette preuve doit être adressée à l’office, à l’administration ou au Bureau international, selon le cas, au plus tard six mois après l’expiration du délai applicable en l’espèce. Si, au vu de la preuve produite, le destinataire est convaincu que de telles circonstances ont existé, le retard dans l’observation du délai est excusé.
 - c) L’excuse de retard n’a pas à être prise en considération par un office désigné ou élu devant lequel le déposant, au moment où la décision d’excuser ce retard est prise, a déjà accompli les actes visés à l’art. 22 ou à l’art. 39.
+- d)[^82quater-subdivu1-2] L’office, l’administration ou le Bureau international peut renoncer à l’exigence d’une preuve dans les conditions fixées et publiées par cet office, cette administration ou le Bureau international, selon le cas. Dans ce cas, la partie intéressée doit soumettre une déclaration selon laquelle l’inobservation du délai est due à la raison pour laquelle l’office, l’administration ou le Bureau international a renoncé à l’exigence concernant la présentation d’une preuve. L’office ou l’administration en informe le Bureau international.
 
-[^82quater-subdivu1-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 14 oct. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 3491](https://fedlex.data.admin.ch/eli/oc/2016/587)). Cette mod. s’applique à également aux demandes internationales dont la date de dépôt international est antérieure au 1<sup>er</sup> juil. 2016, lorsque l’événement visé à la règle 82<sup>quater</sup>.1a) modifiée se produit le 1<sup>er</sup> juil. 2016 ou après cette date.
+[^82quater-subdivu1-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Cette mod. s’applique à tout délai fixé dans le règlement d’exécution qui expire à cette date ou à une date postérieure.
+[^82quater-subdivu1-2]: Introduite par la mod. adoptée par l’Assemblée du PCT le 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Cette mod. s’applique à tout délai fixé dans le règlement d’exécution qui expire à cette date ou à une date postérieure.
 
 ### 82<sup>quater</sup>.2** Indisponibilité des moyens de communication électronique au sein de l’office
 
@@ -3155,6 +3196,16 @@ Les dispositions de la législation nationale visée à l’art. 48.2) qui perme
 
 - a) Tout office national ou organisation intergouvernementale peut prévoir que, lorsqu’un délai prévu dans le règlement d’exécution pour l’accomplissement d’un acte devant cet office ou cette organisation n’est pas observé en raison de l’indisponibilité d’un moyen de communication électronique autorisé au sein de cet office ou de cette organisation, le retard dans l’observation de ce délai est excusé, à condition que cet acte soit accompli le jour ouvrable suivant celui où ledit moyen de communication électronique est disponible. L’office ou l’organisation concerné publie des informations sur ladite indisponibilité, notamment en ce qui concerne sa durée, et en informe le Bureau international.
 - b) L’excuse du retard dans l’observation d’un délai en vertu de l’alinéa a) n’a pas à être prise en considération par un office désigné ou élu devant lequel le déposant, au moment de la publication des informations mentionnées à l’alinéa a), a déjà accompli les actes visés à l’article 22 ou à l’article 39.
+
+### 82<sup>quater</sup>.3** Prorogation des délais en raison d’une perturbation générale
+
+[^82quater-subdivu3-1]
+
+[^82quater-subdivu3-1]: Introduit par la mod. adoptée par l’Assemblée du PCT le 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 401](https://fedlex.data.admin.ch/eli/oc/2022/401)). Cette mod. s’applique à tout délai fixé dans le règlement d’exécution qui expire à cette date ou à une date postérieure.
+
+- a) Tout office récepteur, administration chargée de la recherche internationale, administration indiquée pour la recherche supplémentaire ou administration chargée de l’examen préliminaire international ou le Bureau international peut établir une période de prorogation au cours de laquelle les délais fixés dans le règlement d’exécution pour l’accomplissement d’un acte devant cet office, cette administration ou le Bureau international peuvent être prorogés lorsque l’État dans lequel cette entité est établie connaît une perturbation générale causée par l’un des évènements visés à la règle 82<sup>quater</sup>.1a) qui a une incidence sur les opérations de cet office, cette administration ou le Bureau international, empêchant ainsi les parties d’accomplir des actes devant cet office, cette administration ou le Bureau international dans les délais fixés dans le règlement d’exécution. L’office, l’administration ou le Bureau international publient la date de début et la date de fin de cette période de prorogation. La période de prorogation ne doit pas être supérieure à deux mois à compter de la date de début. L’office ou l’administration en informe le Bureau international.
+- b) Après avoir établi une période de prorogation conformément à l’al. a), l’office ou l’administration concerné ou le Bureau international peut établir des périodes supplémentaires de prorogation, si nécessaire compte tenu des circonstances. Dans ce cas, l’al. a) s’applique *mutatis mutandis.*
+- c) La prorogation d’un délai au titre de l’al. a) ou b) doit être prise en considération par tout office désigné ou élu si, au moment où l’information visée à l’al. a) ou b) est publiée, le traitement national auprès de cet office a débuté.
 
 #### Règle 83
 
@@ -3689,7 +3740,7 @@ Annexe*[^t-3]*
 
 ## Barème de taxes
 
-[^t-3]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 30 sept. 2014 ([RO 2015 4287](https://fedlex.data.admin.ch/eli/oc/2015/723)). Mise à jour selon la mod. adoptée par l’Assemblée du PCT le 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 3155](https://fedlex.data.admin.ch/eli/oc/2018/505)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juil. 2018 ou une date postérieure.
+[^t-3]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 30 sept. 2014 ([RO 2015 4287](https://fedlex.data.admin.ch/eli/oc/2015/723)). Mise à jour par la mod. adoptée par l’Assemblée du PCT le 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 3155](https://fedlex.data.admin.ch/eli/oc/2018/505)). Cette mod. s’applique à toute demande internationale dont la date de dépôt international est le 1<sup>er</sup> juil. 2018 ou une date postérieure.
 
 <table>
 <tr><td>Taxes</td><td>Montants</td></tr>
