@@ -3,13 +3,12 @@ canton: FR
 number: "781.11"
 title: "Arrêté d'exécution de la loi d'application de la législation fédérale sur la circulation routière"
 language: fr
-version: 2022-02-01
-valid_until: 2022-06-30
-version_adopted: 2022-03-18
+version: 2022-07-01
+version_adopted: 2022-05-03
 adopted: 1999-07-06
 in_force: 1999-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/781.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7363/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7490/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7363/pdf_file"
 
 Circulation routière – A
 
-du 06.07.1999 (version entrée en vigueur le 01.02.2022)
+du 06.07.1999 (version entrée en vigueur le 01.07.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -81,12 +80,7 @@ Arrête:
 
 **Commission des mesures administratives**
 
-<sup>1</sup> En plus des attributions prévues par l'article 8 LALCR, la Commission des mesures administratives est compétente pour prononcer les mesures suivantes:
-
-- a) les avertissements;
-- b) l'obligation de suivre des cours d'éducation routière;
-- c) l'interdiction de circuler avec des cyclomoteurs ou des véhicules pour lesquels un permis de conduire n'est pas nécessaire;
-- d) toutes les autres mesures administratives prévues par le droit fédéral.
+<sup>1</sup> …
 
 #### Art. 6
 

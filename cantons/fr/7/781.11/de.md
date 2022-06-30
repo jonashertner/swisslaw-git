@@ -3,13 +3,12 @@ canton: FR
 number: "781.11"
 title: Ausführungsbeschluss zum Gesetz zur Ausführung der Bundesgesetzgebung über den Strassenverkehr
 language: de
-version: 2022-02-01
-valid_until: 2022-06-30
-version_adopted: 2022-03-18
+version: 2022-07-01
+version_adopted: 2022-05-03
 adopted: 1999-07-06
 in_force: 1999-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/781.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7363/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7490/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7363/pdf_file"
 
 Strassenverkehr – B
 
-vom 06.07.1999 (Fassung in Kraft getreten am 01.02.2022)
+vom 06.07.1999 (Fassung in Kraft getreten am 01.07.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -81,12 +80,7 @@ beschliesst:
 
 **Kommission für administrative Massnahmen**
 
-<sup>1</sup> Zusätzlich zu den Befugnissen nach Artikel 8 AGSVG ist die Kommission für administrative Massnahmen zuständig für folgende Massnahmen:
-
-- a) die Verwarnungen;
-- b) die Verpflichtung zum Besuch der Verkehrserziehungs-Kurse;
-- c) das Verbot des Führens von Motorfahrrädern oder Fahrzeugen, für die kein Führerausweis erforderlich ist;
-- d) alle weiteren im Bundesrecht vorgesehenen administrativen Massnahmen.
+<sup>1</sup> …
 
 #### Art. 6
 
