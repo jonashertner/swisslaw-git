@@ -4,13 +4,13 @@ number: "143.11"
 title: Personalverordnung
 short: PersV
 language: de
-version: 2021-01-01
-corrected: 2022-06-27
-version_adopted: 2020-12-22
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2022-05-24
 adopted: 2011-12-13
 in_force: 2013-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/143.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3380/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3384/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3380/pdf_file"
 
 (PersV)
 
-vom 13.12.2011 (Stand 01.01.2021)
+vom 13.12.2011 (Stand 01.07.2022)
 
 Die Regierung des Kantons St.Gallen
 
@@ -300,6 +300,8 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Die tägliche Dienstzeit dauert von 06.30 bis 19.00 Uhr. Die übrige Zeit gilt als Nachtzeit.
 
+<sup>3</sup> Die Dauer der Dienstzeit ist massgebend für den Anspruch auf Nachtzeitausgleich nach Art. 39 dieses Erlasses und Inkonvenienzentschädigungen nach Art. 86 bis 95 dieses Erlasses.
+
 #### Art. 25
 
 **b) Ausdehnung**
@@ -467,15 +469,15 @@ als Verordnung:[^ingress-2]
 
 **Zeitlicher Rahmen**
 
-<sup>1</sup> Während der Gleitzeit können Arbeitsbeginn und Arbeitsende frei gewählt werden. Die Mittagspause richtet sich nach Art. 35 dieses Erlasses.
+<sup>1</sup> Während der Gleitzeit können Arbeitsbeginn und Arbeitsende unter Berücksichtigung der betrieblichen Bedürfnisse frei gewählt werden. Die Mittagspause richtet sich nach Art. 35 dieses Erlasses.
 
-<sup>2</sup> Die Gleitzeit entspricht der Dienstzeit nach Art. 24 dieses Erlasses.
+<sup>2</sup> Die Gleitzeit dauert von Montag bis Samstag jeweils von 05.00 bis 21.00 Uhr.
 
 - a) …
 - b) …
 - c) …
 
-<sup>3</sup> Die oder der Vorgesetzte kann in begründeten Fällen Gleitzeit auch ausserhalb der Dienstzeit zulassen, insbesondere im Zusammenhang mit neuen Arbeitsformen.
+<sup>3</sup> Die oder der Vorgesetzte kann in begründeten Fällen Gleitzeit auch ausserhalb des in Abs. 2 dieser Bestimmung festgelegten Zeitraums zulassen, insbesondere im Zusammenhang mit neuen Arbeitsformen.
 
 #### Art. 42
 
@@ -675,7 +677,7 @@ als Verordnung:[^ingress-2]
 - a) 23 Arbeitstage;
 - b) 28 Arbeitstage:
   - 1\. für Lernende;
-  - 2\. für jugendliche Arbeitnehmerinnen und Arbeitnehmer bis zu dem Jahr, in dem das 20. Altersjahr vollendet wird;
+  - 2\. für jugendliche Arbeitnehmerinnen und Arbeitnehmer bis einschliesslich zu dem Jahr, in dem das 20. Altersjahr vollendet wird;
   - 3\. für die übrigen Mitarbeiterinnen und Mitarbeiter ab dem Jahr, in dem das 50. Altersjahr vollendet wird;
 - c) 30 Arbeitstage ab dem Jahr, in dem das 60. Altersjahr vollendet wird.
 
@@ -692,14 +694,15 @@ als Verordnung:[^ingress-2]
   - 1\. Krankheit oder Unfalls;
   - 2\. obligatorischer Dienstleistung in Armee, Zivilschutz und Feuerwehr;
   - 3\. zivilen Ersatzdienstes;
-  - 4\. bezahlten Urlaubs;
+  - 4\. bezahlten Urlaubs nach Art. 65 und 66 dieses Erlasses;
 - c) bei unbezahltem Urlaub.
 
 <sup>2</sup> Wird die Tätigkeit aus anderen Gründen ausgesetzt, wird die ausgefallene Arbeitszeit an die Feriendauer angerechnet.
 
-<sup>3</sup> Leisten Mitarbeiterinnen und Mitarbeiter nach [Art. 2](https://www.gesetzessammlung.sg.ch/data/143.1/de/art2) Abs. 1 und 2 des Personalgesetzes vom 25. Januar 2011[^62-1] Assistenzdienst oder gleichwertige Einsätze zur Unterstützung der zivilen Behörden bei der Bewältigung der Corona-Krise, werden diese Dienstleistungen bei der Bemessung des Ferienanspruchs nach Abs. 1 Bst. b dieser Bestimmung nicht angerechnet.
+<sup>3</sup> Leisten Mitarbeiterinnen und Mitarbeiter nach [Art. 2](https://www.gesetzessammlung.sg.ch/data/143.1/de/art2) Abs. 1 und 2 des Personalgesetzes vom 25. Januar 2011[^62-1] Assistenzdienst zur Unterstützung der zivilen Behörden nach Art. 67 des Bundesgesetzes über die Armee und die Militärverwaltung vom 3. Februar 1995[^62-2] oder gleichwertige Einsätze insbesondere in Krisensituationen, werden diese Dienstleistungen bei der Bemessung des Ferienanspruchs nach Abs. 1 Bst. b dieser Bestimmung nicht angerechnet.
 
 [^62-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+[^62-2]: SR [510.10](https://db.clex.ch/link/Bund/510.10/de).
 
 #### Art. 63
 
@@ -735,10 +738,10 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Mitarbeiterin oder der Mitarbeiter kann als bezahlten Urlaub beziehen:
 
-- a) bei Verheiratung der Mitarbeiterin oder des Mitarbeiters oder bei Eintragung der Partnerschaft zwei Tage;
-- b) bei Hochzeit oder bei Eintragung der Partnerschaft von Kindern und Geschwistern einen Tag;
+- a) bei Verheiratung der Mitarbeiterin oder des Mitarbeiters zwei Tage;
+- b) bei Hochzeit von Kindern und Geschwistern einen Tag;
 - c) …
-- d) bei plötzlicher Erkrankung eines Mitglieds des Haushalts oder eines nahen Angehörigen, wenn es an der notwendigen Betreuung fehlt, bis zwei Tage je Ereignis;
+- d) bei einer notwendigen Betreuung eines Familienmitglieds sowie der Lebenspartnerin oder des Lebenspartners mit gesundheitlicher Beeinträchtigung höchstens die ersten drei Tage je Ereignis und höchstens zehn Tage je Kalenderjahr;
 - e) beim Tod:
   - 1\. von Ehe- oder Lebenspartnerin und Ehe- oder Lebenspartner sowie von eingetragener Partnerin oder eingetragenem Partner drei Tage;
   - 2\. von Kindern und Eltern drei Tage;
@@ -756,7 +759,17 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Im Übrigen werden die Bestimmungen über die Vaterschaftsentschädigung in der Bundesgesetzgebung über die Erwerbsersatzordnung[^66a-1] sachgemäss angewendet. Die Leistungen der Erwerbsersatzordnung gehen im Ausmass der Lohnfortzahlung an den Kanton über.
 
+<sup>3</sup> Abs. 1 dieser Bestimmung gilt sachgemäss auch für Mitarbeiterinnen, bei deren Ehefrau oder eingetragener Partnerin ein Kindesverhältnis mit Geburt begründet wird, soweit nicht durch eine andere Person für dasselbe Kind Vaterschaftsurlaub nach Abs. 1 und 2 dieser Bestimmung bezogen wird.
+
 [^66a-1]: SR 834.
+
+#### Art. 66b
+
+**Urlaub für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter können für die Betreuung ihres wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes einen Betreuungsurlaub von höchstens 14 Wochen innerhalb von 18 Monaten beziehen, sofern sie Anspruch auf eine Betreuungsentschädigung nach Art. 16n bis 16s des Bundesgesetzes über den Erwerbsersatz vom 25. September 1952[^66b-1] haben. Die Leistungen der Erwerbsersatzordnung gehen im Ausmass der Lohnfortzahlung an den Kanton über.
+
+[^66b-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de).
 
 #### Art. 67
 
@@ -774,7 +787,7 @@ als Verordnung:[^ingress-2]
 
 ## V. Entschädigungen aus dem Arbeitsverhältnis
 
-### 1. Lohn sowie Zulagen und Inkonvenienzentschädigngen
+### 1. Lohn sowie Zulagen und Inkonvenienzentschädigungen
 
 ### a) Lohn
 
@@ -1043,7 +1056,7 @@ als Verordnung:[^ingress-2]
 
 **Bezugsberechtigung**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter sind nach den Bestimmungen dieses Erlasses zum Bezug von Inkonvienzentschädigungen berechtigt, wenn sie regelmässig und auf Dauer Arbeit ausserhalb der Dienstzeit, unter erschwerten Bedingungen oder Pikettdienst leisten.
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter sind nach den Bestimmungen dieses Erlasses zum Bezug von Inkonvenienzentschädigungen berechtigt, wenn sie regelmässig und auf Dauer Arbeit ausserhalb der Dienstzeit, unter erschwerten Bedingungen oder Pikettdienst leisten.
 
 <sup>2</sup> Für Mitarbeiterinnen und Mitarbeiter der Kantonspolizei richtet sich der Bezug von Inkonvenienzentschädigungen nach den Bestimmungen der Polizeiverordnung vom 2. Dezember 1980[^86-1].
 
@@ -1088,19 +1101,17 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Mitarbeiterinnen und Mitarbeiter des Strassenunterhaltsdienstes beziehen Inkonvenienzentschädigungen für:
 
-- a) Arbeit zwischen 20.00 und 05.00 Uhr sowie an Samstagen und Ruhetagen;
+- a) Arbeit zwischen 20.00 und 05.00 Uhr sowie an Werktagen ausserhalb der Dienstzeit, an Samstagen und an Ruhetagen;
 - b) Pikettdienst;
 - c) Arbeit unter erschwerten Bedingungen.
 
 <sup>2</sup> Die Inkonvenienzentschädigungen nach Abs. 1 Bst. a dieser Bestimmung werden in Form eines Lohnzuschlags nach Anhang 3 zu diesem Erlass ausgerichtet.
 
-<sup>3</sup> Das Baudepartement regelt im Einvernehmen mit dem Personalamt die Inkonvenienzentschädigungen nach Abs. 1 Bst. b und c dieser Bestimmung.
+<sup>3</sup> Das Bau- und Umweltdepartement regelt im Einvernehmen mit dem Personalamt die Inkonvenienzentschädigungen nach Abs. 1 Bst. b und c dieser Bestimmung.
 
 #### Art. 91
 
-**f) übrige Mitarbeiterinnen und Mitarbeiter**
-
-<sup>1</sup> Die übrigen Mitarbeiterinnen und Mitarbeiter beziehen Inkonvenienzentschädigungen, wenn ihr Jahreslohn weniger als Fr. 128'000.– beträgt.
+**…**
 
 #### Art. 92
 
@@ -1120,12 +1131,13 @@ als Verordnung:[^ingress-2]
 
 **Ausrichtung bei Abwesenheit a) Grundsatz[^94-1]**
 
-<sup>1</sup> Die Ausrichtung der Inkonvenienzentschädigungen an Mitarbeiterinnen und Mitarbeiter nach Art. 89 Abs. 1, Art. 90 und 91 dieses Erlasses dauert fort:
+<sup>1</sup> Die Ausrichtung der Inkonvenienzentschädigungen an Mitarbeiterinnen und Mitarbeiter nach Art. 89 Abs. 1 und Art. 90 dieses Erlasses dauert fort:
 
 - a) während der Ferien;
 - b) bei Krankheit und Unfall;
 - c) bei Dienstleistung in Armee, Zivilschutz und Feuerwehr sowie Leistung von zivilem Ersatzdienst;
-- d) während des Mutterschaftsurlaubs.
+- d) während des Mutterschaftsurlaubs;
+- e) während eines Betreuungsurlaubs nach Art. 66b dieses Erlasses.
 
 <sup>2</sup> Sie entfällt insbesondere:
 
@@ -1154,7 +1166,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Monatlich werden ausbezahlt:
 
-- a) ein Dreizehntel des Jahreslohns;
+- a) ein Dreizehntel oder wahlweise ein Vierzehntel des Jahreslohns;
 - b) die Zulagen;
 - c) Inkonvenienzentschädigungen. Vorbehalten bleibt der besondere Auszahlungsmodus nach Art. 95 dieses Erlasses bei Abwesenheit der Mitarbeiterin oder des Mitarbeiters;
 - d) der Stundenlohn aufgrund der im Vormonat geleisteten Arbeit.
@@ -1163,11 +1175,16 @@ als Verordnung:[^ingress-2]
 
 #### Art. 97
 
-**13. Monatslohn**
+**13. und 14. Monatslohn**
 
 <sup>1</sup> Der 13. Monatslohn wird je zur Hälfte im Juni und Dezember ausbezahlt.
 
-<sup>2</sup> Der Mitarbeiter kann innerhalb eines Jahres nach der Geburt eines eigenen Kindes den 13. Monatslohn ganz oder zur Hälfte als bezahlten Urlaub beziehen.
+<sup>2</sup> Der Mitarbeiter kann innerhalb eines Jahres nach der Geburt eines eigenen Kindes den 13. Monatslohn ganz oder zur Hälfte als bezahlten Urlaub beziehen. Gleiches gilt für eine Mitarbeiterin, bei deren Ehefrau oder eingetragener Partnerin ein Kindesverhältnis mit Geburt begründet wird.
+
+<sup>3</sup> Wählt eine Mitarbeiterin oder ein Mitarbeiter die monatliche Auszahlung eines Vierzehntels des Jahreslohns:
+
+- a) richtet sich die Auszahlung des 14. Monatslohns nach Abs. 1 dieser Bestimmung;
+- b) gilt die festgelegte Variante während eines Kalenderjahres. Änderungen erfolgen auf Jahresbeginn.
 
 #### Art. 98
 
@@ -1192,6 +1209,10 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Während der Probezeit besteht der Anspruch auf Lohnfortzahlung infolge Krankheit während eines Monats.
 
 <sup>2</sup> Die Verlängerung der Probezeit bewirkt keine Verlängerung der Dauer des Anspruchs.
+
+<sup>3</sup> Während der Probezeit im Anschluss an einen Stellenwechsel innerhalb des Geltungsbereichs von Art. 2 Abs. 1 und 2 des Personalgesetzes[^100-1] richtet sich der Anspruch auf Lohnfortzahlung infolge Krankheit nach Art. 99 dieses Erlasses.
+
+[^100-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
 #### Art. 101
 
@@ -1237,7 +1258,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Bei wiederholter Arbeitsunfähigkeit infolge Unfalls innert fünf Jahren wegen desselben Unfallereignisses beträgt die Lohnfortzahlung 100 Prozent des Lohns, bis die gesamte Dauer der Arbeitsunfähigkeit zwölf Monate betragen hat. Danach beträgt die Lohnfortzahlung während weiterer zwölf Monate 80 Prozent des Lohns.
 
-<sup>2</sup> Treten an die Stelle des Lohns Lohnersatzleistungen, darf die Auszahlung bei Arbeitsunfähigkeit nicht grösser sein, als die Auszahlung bei Arbeitsleistung wäre. Dabei werden die bei Arbeitsleistung und Arbeitsunfähigkeit unterschiedlichen Beiträge berücksichtigt, insbesondere die bei Arbeitsunfähigkeit entfallenden Sozialversicherungsbeiträge.
+<sup>2</sup> …
 
 #### Art. 106
 
@@ -1250,6 +1271,12 @@ als Verordnung:[^ingress-2]
 <sup>3</sup> Inkonvenienzentschädigungen sind Teil des anrechenbaren Lohns.[^106-1]
 
 [^106-1]: Abs. 3 in Vollzug ab 1. Januar 2013.
+
+#### Art. 106a
+
+**Nettolohnausgleich**
+
+<sup>1</sup> Treten an die Stelle des Lohns Lohnersatzleistungen, darf die Auszahlung bei Arbeitsausfall nicht grösser sein, als die Auszahlung bei Arbeitsleistung wäre. Dabei werden die bei Arbeitsleistung und Arbeitsausfall unterschiedlichen Beiträge berücksichtigt, insbesondere die bei Arbeitsausfall entfallenden Sozialversicherungsbeiträge.
 
 #### Art. 107
 
@@ -1372,8 +1399,11 @@ als Verordnung:[^ingress-2]
 - b) höchstens ein geringes Verschulden der Mitarbeiterin oder des Mitarbeiters vorliegt;
 - c) die Beendigung des Arbeitsverhältnisses eine Kürzung der Rente aus der beruflichen Vorsorge zur Folge hat;
 - d) keine Leistungen nach Massgabe eines nach Art. 55 des Personalgesetzes[^116-1] erlassenen Sozialplans ausgerichtet werden.
+- e) die Lohnfortzahlung infolge Krankheit nach Art. 47 des Personalgesetzes[^116-2] oder infolge Unfall nach Art. 48 des Personalgesetzes[^116-3] nicht ausgeschöpft wurde.
 
 [^116-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+[^116-2]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+[^116-3]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
 #### Art. 117
 
@@ -1421,7 +1451,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Mitarbeiterin oder der Mitarbeiter liefert nicht im Lohn enthaltene finanzielle Abgeltungen durch Dritte für Tätigkeiten, die nach Vereinbarung mit der Arbeitgeberin oder dem Arbeitgeber in der Arbeitszeit ausgeübt werden können, an die Arbeitgeberin oder den Arbeitgeber ab. Ausgenommen sind Abgeltungen für öffentliche Ämter nach Art. 67a Abs. 1 dieses Erlasses.
 
-<sup>2</sup> Die Bestimmungen der Verordnung über die Höhe, Ausrichtung und Ablieferung von Vergütungen an die Mitglieder strategischer Leitungsorgane von Organisationen mit kantonaler Beteiligung (Vergütungsverordnung) vom 6. Oktober 2015[^119a-1] sowie der Besoldungsverordnung für Magistratspersonen vom 3. September 2013[^119a-2] bleiben vorbehalten.
+<sup>2</sup> Die Bestimmungen der Verordnung über die Höhe, Ausrichtung und Ablieferung von Vergütungen im Zusammenhang mit der Einsitznahme in Organe von Organisationen mit kantonaler Beteiligung (Vergütungsverordnung) vom 6. Oktober 2015[^119a-1] sowie der Besoldungsverordnung für Magistratspersonen vom 3. September 2013[^119a-2] bleiben vorbehalten.
 
 [^119a-1]: sGS [145.2](https://www.gesetzessammlung.sg.ch/data/145.2/de).
 [^119a-2]: sGS [143.210](https://www.gesetzessammlung.sg.ch/data/143.210/de).
