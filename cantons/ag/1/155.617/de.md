@@ -3,20 +3,20 @@ canton: AG
 number: "155.617"
 title: Reglement der Justizleitung über Akteneinsicht und Archivierung
 language: de
-version: 2018-05-01
-valid_until: 2022-06-30
-version_adopted: 2018-03-12
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2022-05-18
 adopted: 2017-04-28
 in_force: 2017-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/155.617"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2587/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3218/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement der Justizleitung über Akteneinsicht und Archivierung
 
-Vom 28.04.2017 (Stand 01.05.2018)
+Vom 28.04.2017 (Stand 01.07.2022)
 
 Die Justizleitung des Kantons Aargau,
 
@@ -256,7 +256,7 @@ beschliesst:
 
 - a) Akten und Entscheide (als Protokollbände mit Register) der Justizleitung und der Aufsichtskommission,
 - b) Akten und Entscheide (als Protokollbände mit Register) der Anwaltskommission,
-- c) das Amtsblatt, das Bundesblatt, die Staatskalender und die Ragionenbücher,
+- c) …
 - d) vor Einführung der elektronischen Datenverarbeitung (EDV) geführte Geschäftskontrollen, Kassabücher und Gebührenkontrollen,
 - e) nach Einführung der EDV vorhandene geschäfts- und verwaltungsrelevante Belege,
 - f) Geschäftsberichte der Gerichte,
