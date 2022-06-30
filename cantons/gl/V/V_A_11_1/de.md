@@ -4,13 +4,13 @@ number: V A/11/1
 title: Polizeigesetz
 short: PolG
 language: de
-version: 2022-01-01
-valid_until: 2022-06-30
+version: 2022-07-01
+valid_until: 2022-12-31
 version_adopted: 2021-09-05
 adopted: 2007-05-06
 in_force: 2008-05-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/V-A.11.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2534/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2535/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2534/pdf_file"
 
 (PolG)
 
-Vom 06.05.2007 (Stand 01.01.2022)
+Vom 06.05.2007 (Stand 01.07.2022)
 
 (Erlassen von der Landsgemeinde am 6. Mai 2007)
 
@@ -216,6 +216,8 @@ Vom 06.05.2007 (Stand 01.01.2022)
 <sup>2</sup> Das Zwangsmassnahmengericht erlässt unter Hinweis auf die Straffolgen nach Artikel 292 StGB einen schriftlich begründeten Entscheid und informiert die weggewiesene Person über geeignete Beratungs- und Therapieangebote. Erscheint diese nicht zur Einvernahme, ist aufgrund der Aktenlage zu entscheiden. Fallen Kindes- oder Erwachsenenschutzmassnahmen in Betracht, bringt das Zwangsmassnahmengericht die Wegweisung der zuständigen KESB unverzüglich zur Kenntnis.
 
 <sup>3</sup> Das Zwangsmassnahmengericht informiert die gefährdete Person und die Kantonspolizei umgehend über den Inhalt und die Dauer der Wegweisungsverfügung, über die Folgen von deren Missachtung durch die weggewiesene Person, über geeignete Beratungsstellen und über die rechtlichen Möglichkeiten, insbesondere über die Möglichkeit der Anrufung des Zivilrichters.
+
+<sup>3a</sup> Das Verfahren und der Entscheid sind nicht öffentlich.
 
 <sup>4</sup> Einer allfälligen Beschwerde gegen die Entscheidung des Zwangsmassnahmengerichts betreffend die Wegweisungsmassnahmen kommt keine aufschiebende Wirkung zu.
 
