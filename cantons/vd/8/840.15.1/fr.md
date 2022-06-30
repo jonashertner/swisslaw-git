@@ -4,7 +4,7 @@ number: "840.15.1"
 title: "RÈGLEMENT du 25.10.2017 d'application de la loi du 10 mai 2016 sur la préservation et la promotion du parc locatif (RLPPPL)"
 short: RLPPPL
 language: fr
-version: 2020-01-01
+version: 2022-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/840.15.1?id=774e397c-e591-45d8-877b-82a91b77b647"
 ---
 
@@ -169,7 +169,7 @@ arrête
 
 <sup>1</sup> Un logement ou une partie de logement fait l'objet d'un changement d'affectation lorsqu'il est soustrait du marché de la location d'habitation ordinaire.
 
-<sup>2</sup> Constitue notamment un tel changement d'affectation la soustraction totale ou partielle de logements du parc standard de la location par leur mise à disposition sous forme de location meublée avec services ou sur des plateformes d'économie collaborative. Une offre occasionnelle ou de brève durée est tolérée.
+<sup>2</sup> Constitue notamment un tel changement d'affectation la soustraction totale ou partielle de logements du parc standard de la location par leur mise à disposition sous forme de location meublée avec services ou sur des plateformes d'économie collaborative lorsqu'elle excède 90 jours par année civile.
 
 [^14-1]: Modif. 1 du 28.08.2019: Modification Al. 2; entrée en vigueur au 01.07.2022
 
