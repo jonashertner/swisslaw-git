@@ -4,11 +4,11 @@ title: Regolamento di previdenza del 3 dicembre 2007 della Cassa di previdenza d
 short: RP-PF 2
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/192"
 language: it
-version: 2021-01-01
+version: 2022-07-01
 adopted: 2007-12-03
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/192/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2012-192-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/192/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/192/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2012-192-20220701-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/192/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/192/20210101/it"
 
 (RP-PF 2)
 
-del 3 dicembre 2007 (Stato 1° gennaio 2021)
+del 3 dicembre 2007 (Stato 1° luglio 2022)
 
 L’organo paritetico della Cassa di previdenza del Settore dei PF (OP PF),
 
@@ -106,16 +106,17 @@ Il finanziamento delle spese amministrative, degli emolumenti dell’autorità d
 
 Gli assicurati e i beneficiari di rendite che hanno diritto a prestazioni di PUBLICA o i loro superstiti devono in particolare comunicare per scritto, senza indugio:
 
-- a. il matrimonio o il nuovo matrimonio, la registrazione di un’unione domestica ai sensi della LUD oppure l’inizio di una convivenza, nel caso del diritto a una rendita per coniugi o conviventi;
+- a.[^10-2] il matrimonio, il nuovo matrimonio oppure l’inizio di una convivenza, nel caso del diritto a una rendita per coniugi o conviventi;
 - b. la conclusione della formazione o il raggiungimento dell’abilità al lavoro di un figlio per il quale sussiste il diritto alla rendita per figli rispettivamente per orfani oltre il 18° anno di età;
 - c. il decesso della persona assicurata o del beneficiario di rendita.
 
-<sup>3</sup> Gli assicurati e i beneficiari di rendite aventi diritto a prestazioni di invalidità di PUBLICA devono inoltre comunicare spontaneamente per scritto e senza indugio le prestazioni e i proventi computabili ai sensi dell’articolo 77 capoverso 1, le loro modifiche, nonché i cambiamenti del grado di invalidità e dell’entità della rendita.[^10-2]
+<sup>3</sup> Gli assicurati e i beneficiari di rendite aventi diritto a prestazioni di invalidità di PUBLICA devono inoltre comunicare spontaneamente per scritto e senza indugio le prestazioni e i proventi computabili ai sensi dell’articolo 77 capoverso 1, le loro modifiche, nonché i cambiamenti del grado di invalidità e dell’entità della rendita.[^10-3]
 
 <sup>4</sup> I diritti nei confronti di altre assicurazioni o di altri responsabili devono essere comunicati spontaneamente per scritto e senza indugio a PUBLICA.
 
 [^10-1]: Nuovo testo giusta il n. I delle Dec. dell’OP PF del 21 mar./16 ott. 2019, approvate dal CF il 6 dic. 2019 ([RU 2019 4737](https://fedlex.data.admin.ch/eli/oc/2019/772)). Correzione del 28 gen. 2020 ([RU 2020 353](https://fedlex.data.admin.ch/eli/oc/2020/58)).
-[^10-2]: Nuovo testo giusta il n. I della Dec. dell’OP PF del 30 nov. 2017, approvata dal Consiglio dei PF i 13/14 dic. 2017 e dal CF il 25 apr. 2018, in vigore dal 1° mag. 2018 ([RU 2018 2485](https://fedlex.data.admin.ch/eli/oc/2018/355)).
+[^10-2]: Nuovo testo giusta il n. I della Dec. dell’OP PF del 30 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 394](https://fedlex.data.admin.ch/eli/oc/2022/394)).
+[^10-3]: Nuovo testo giusta il n. I della Dec. dell’OP PF del 30 nov. 2017, approvata dal Consiglio dei PF i 13/14 dic. 2017 e dal CF il 25 apr. 2018, in vigore dal 1° mag. 2018 ([RU 2018 2485](https://fedlex.data.admin.ch/eli/oc/2018/355)).
 
 #### Art. 11
 
@@ -316,14 +317,15 @@ Per il calcolo dei contributi di risparmio e del premio di rischio il guadagno a
 <tr><td>22–34</td><td>5,80</td><td>10,30</td><td>16,10</td></tr>
 <tr><td>35–44</td><td>7,05</td><td>12,50</td><td>19,55</td></tr>
 <tr><td>45–54</td><td>11,50</td><td>20,50</td><td>32,00</td></tr>
-<tr><td>55–70</td><td>14,25</td><td>25,30</td><td>39,55.[^24-1]</td></tr>
+<tr><td>55–65</td><td>14,25</td><td>25,30</td><td>39,55.</td></tr>
+<tr><td>66–70</td><td>5,80</td><td>10,30</td><td>16,10.[^24-1]</td></tr>
 </table>
 
 <sup>3</sup> L’età per determinare i contributi di risparmio e quindi gli accrediti di vecchiaia corrisponde alla differenza tra l’anno civile corrente e l’anno di nascita della persona assicurata.
 
 <sup>4</sup> Il cambiamento della classe di contributo ai sensi del capoverso 1 è effettuato il 1° gennaio dell’anno in cui viene raggiunta la classe di età corrispondente.
 
-[^24-1]: Nuovo testo giusta il n. I della Dec. dell’OP PF del 30 nov. 2017, approvata dal Consiglio dei PF i 13/14 dic. 2017 e dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2485](https://fedlex.data.admin.ch/eli/oc/2018/355)).
+[^24-1]: Nuovo testo giusta il n. I della Dec. dell’OP PF del 30 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 394](https://fedlex.data.admin.ch/eli/oc/2022/394)).
 
 #### Art. 25
 
@@ -587,7 +589,7 @@ Sono dedotti dall’avere di vecchiaia:
 
 <sup>7</sup> Se insorge il caso di previdenza o la persona assicurata esce dalla cassa di previdenza durante l’anno in corso, l’interesse per lo stesso anno secondo l’allegato 1 è calcolato *pro rata temporis* in funzione dello stato dell’avere di vecchiaia alla fine dell’anno precedente.
 
-<sup>8</sup> Alla fine di ogni anno l’organo paritetico stabilisce il tasso di interesse per la rimunerazione dell’avere di vecchiaia per l’anno successivo sulla base del risultato annuale provvisorio nonché della situazione patrimoniale e di reddito della Cassa di previdenza del Settore dei PF.
+<sup>8</sup> Alla fine di ogni anno l’organo paritetico stabilisce il tasso di interesse per la rimunerazione dell’avere di vecchiaia per l’anno in corso sulla base del risultato annuale provvisorio e della situazione patrimoniale e di reddito della Cassa di previdenza del Settore dei PF nonché il tasso di interesse per la rimunerazione applicabile al calcolo della prestazione di uscita nell’anno successivo.[^36-7]
 
 [^36-1]: Nuovo testo giusta il n. I della Dec. dell’OP PF del 1° dic. 2016, approvata dal Consiglio dei PF il 7 dic. 2016 e dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3301](https://fedlex.data.admin.ch/eli/oc/2017/345)).
 [^36-2]: Nuovo testo giusta il n. I delle Dec. dell’OP PF del 31 mar./10 mag. 2011, approvate dal Consiglio dei PF il 6/7 lug. 2011 e dal CF il 19 ott. 2011, in vigore dal 1° lug. 2012 ([RU 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)).
@@ -595,6 +597,7 @@ Sono dedotti dall’avere di vecchiaia:
 [^36-4]: Introdotto dal n. I della Dec. dell’OP PF del 1° dic. 2016, approvata dal Consiglio dei PF il 7 dic. 2016 e dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3301](https://fedlex.data.admin.ch/eli/oc/2017/345)).
 [^36-5]: Nuovo testo giusta il n. I della Dec. dell’OP PF del 1° dic. 2016, approvata dal Consiglio dei PF il 7 dic. 2016 e dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3301](https://fedlex.data.admin.ch/eli/oc/2017/345)).
 [^36-6]: Introdotta dal n. I delle Dec. dell’OP PF del 31 mar./10 mag. 2011, approvate dal Consiglio dei PF il 6/7 lug. 2011 e dal CF il 19 ott. 2011 ([RU 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)). Abrogata dal n. I della Dec. dell’OP PF del 30 nov. 2017, approvata dal Consiglio dei PF i 13/14 dic. 2017 e dal CF il 25 apr. 2018, con effetto dal 1° mag. 2018 ([RU 2018 2485](https://fedlex.data.admin.ch/eli/oc/2018/355)).
+[^36-7]: Nuovo testo giusta il n. I della Dec. dell’OP PF del 30 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 394](https://fedlex.data.admin.ch/eli/oc/2022/394)).
 
 #### Art. 37
 
@@ -644,9 +647,9 @@ Sono dedotti dall’avere di vecchiaia:
 
 <sup>1</sup> All’atto del pensionamento, la persona assicurata può prelevare, sotto forma di liquidazione in capitale unica, fino al 100 per cento della somma dell’avere di vecchiaia secondo l’articolo 36 nonché della somma di un eventuale avere derivante dal conto del PC (art. 25). Se la comunicazione del prelievo di capitale è effettuata meno di tre mesi prima del pensionamento, i costi amministrativi sono fatturati alla persona assicurata conformemente al regolamento delle spese. La liquidazione in capitale è versata ad avvenuto pagamento dei costi amministrativi.[^40-1]
 
-<sup>2</sup> *...* [^40-2]
+<sup>2</sup> *...*[^40-2]
 
-<sup>2</sup> <sup>bis</sup> Se il rapporto di lavoro di una persona assicurata che può percepire una liquidazione in capitale è sciolto dal datore di lavoro, senza che questa ne abbia colpa, la stessa può comunicare il prelievo di capitale o l’unica modifica di un prelievo di capitale già comunicato fino al pensionamento. Per il pagamento dei costi amministrativi si applica per analogia il capoverso 1.[^40-3]
+<sup>2bis</sup> Se il rapporto di lavoro di una persona assicurata che può percepire una liquidazione in capitale è sciolto dal datore di lavoro, senza che questa ne abbia colpa, la stessa può comunicare il prelievo di capitale o l’unica modifica di un prelievo di capitale già comunicato fino al pensionamento. Per il pagamento dei costi amministrativi si applica per analogia il capoverso 1.[^40-3]
 
 <sup>3</sup> Nel caso degli assicurati coniugati il prelievo di una liquidazione unica in capitale presuppone il consenso scritto del coniuge, con firma autenticata. Invece di fare autenticare la firma, il coniuge può firmare personalmente presso PUBLICA la dichiarazione di consenso, presentando un documento ufficiale di identità.
 
@@ -1012,7 +1015,11 @@ La rendita per figli del beneficiario di una rendita di invalidità ammonta a un
 
 [^59-1]: Nuovo testo giusta il n. I della Dec. dell’OP PF del 1° dic. 2016, approvata dal Consiglio dei PF il 7 dic. 2016 e dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3301](https://fedlex.data.admin.ch/eli/oc/2017/345)).
 
-## Capitolo 7: Rendita transitoria, invalidità professionale e piano sociale
+## Capitolo 7: Rendita transitoria e piano sociale
+
+[^chap7-1]
+
+[^chap7-1]: Nuovo testo giusta il n. I della Dec. dell’OP PF del 30 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 394](https://fedlex.data.admin.ch/eli/oc/2022/394)).
 
 ### Sezione 1: Rendita transitoria
 
@@ -1051,65 +1058,13 @@ La persona assicurata comunica a PUBLICA, al più tardi tre mesi prima della ris
 
 <sup>2</sup> Il datore di lavoro comunica a PUBLICA il grado medio di occupazione tre mesi prima dell’uscita per motivi di età della persona assicurata.
 
-### Sezione 2: Prestazione di invalidità professionale
+### Sezione 2: ...
 
-#### Art. 62
+#### Art. 62 e 63
 
-**Diritto**
+[^6263-1]
 
-<sup>1</sup>
-
-In caso di invalidità professionale la persona assicurata ha diritto a una prestazione di invalidità professionale se:
-
-- a. ha compiuto il 50° anno di età;
-- b. una decisione dell’AI che esclude il diritto a una rendita o che prevede soltanto una rendita parziale passa in giudicato; e
-- c. i provvedimenti di integrazione sono stati infruttuosi senza che vi fosse colpa della persona assicurata.
-
-<sup>2</sup> È data invalidità professionale integrale se per motivi di salute una persona assicurata non è più in grado di esercitare l’attività esercitata finora o un’altra attività ragionevolmente esigibile e se in virtù della decisione dell’AI non ha diritto a una rendita.
-
-<sup>3</sup>
-
-È data invalidità professionale parziale se per motivi di salute una persona assicurata:
-
-- a. non è più in grado di esercitare l’attività esercitata finora o un’altra attività ragionevolmente esigibile e se in virtù della decisione dell’AI ha diritto a una rendita parziale; oppure
-- b. è solo parzialmente in grado di esercitare l’attività esercitata finora o un’altra attività ragionevolmente esigibile e se in virtù della decisione dell’AI non ha alcun diritto a una rendita, oppure soltanto il diritto a una rendita parziale che non superi il grado di invalidità professionale secondo l’articolo 63 capoverso 6.
-
-<sup>4</sup> La presenza di un’invalidità professionale è constatata dal servizio medico ai sensi dell’articolo 47 OPers PF su richiesta del datore di lavoro.
-
-<sup>5</sup> Il servizio medico si esprime in merito al momento in cui è subentrata l’invalidità professionale integrale o parziale. La sua decisione è determinante per la fissazione della nascita del diritto alle prestazioni in seguito a invalidità professionale.
-
-<sup>6</sup> Il diritto alla rendita di invalidità professionale si estingue con il decesso del beneficiario di rendita, ma al più tardi e nella misura in cui la persona assicurata ha diritto a una rendita dell’AI o nella misura in cui, secondo le constatazioni del servizio medico, non sussiste più alcuna invalidità professionale.
-
-<sup>7</sup> Il diritto alla rendita AI di sostituzione si estingue con il decesso del beneficiario di rendita, ma al più tardi e nella misura in cui ha diritto a una rendita AI o AVS o nella misura in cui, secondo le constatazioni del servizio medico, non sussiste più alcuna invalidità professionale. Se l’AI versa retroattivamente le sue rendite, le rendite AI di sostituzione versate in eccesso devono essere restituite a PUBLICA (art. 63 cpv. 1 lett. b).
-
-<sup>8</sup> I beneficiari di prestazioni di invalidità professionale hanno diritto a una rendita per figli complementare alla rendita per invalidità professionale per ogni figlio che avrebbe diritto a una rendita per orfani nel caso del loro decesso (art. 47). Il diritto a una rendita per figli nasce simultaneamente al diritto alla rendita di invalidità professionale. Esso si estingue con la soppressione della rendita di invalidità professionale o se le condizioni ai sensi dell’articolo 47 capoverso 3 non sono più adempiute. L’articolo 47 capoverso 4 si applica anche alle rendite per figli complementari alla rendita di invalidità professionale.
-
-<sup>9</sup> Gli articoli 53 e 54 si applicano per analogia al diritto all’esenzione dai contributi e dal premio in funzione del grado di invalidità professionale (art. 63 cpv. 6) e alla costituzione dell’avere di vecchiaia della persona con invalidità professionale.
-
-<sup>10</sup> Il datore di lavoro trasferisce a PUBLICA il capitale di copertura necessario per il finanziamento delle prestazioni in seguito a invalidità professionale.
-
-#### Art. 63
-
-**Genere e entità delle prestazioni di invalidità professionale**
-
-<sup>1</sup>
-
-La prestazione di invalidità professionale si compone di:
-
-- a. una rendita di invalidità professionale;
-- b. una rendita AI di sostituzione.
-
-<sup>2</sup> La rendita annuale intera di invalidità professionale corrisponde alla rendita annuale intera di invalidità ai sensi dell’articolo 56.
-
-<sup>3</sup> La rendita annuale intera AI di sostituzione corrisponde all’importo massimo della rendita intera AVS, ponderato in funzione del grado medio di occupazione. I datori di lavoro comunicano a PUBLICA il grado medio di occupazione.
-
-<sup>4</sup> La rendita intera per figli complementare alla rendita di invalidità professionale corrisponde a un sesto della rendita intera di invalidità professionale; in caso di divorzio è fatto salvo l’articolo 99 capoverso 6 primo periodo.[^63-1]
-
-<sup>5</sup> Il diritto alle prestazioni di invalidità professionale sussiste in misura pari al grado di invalidità professionale.
-
-<sup>6</sup> Il grado di invalidità professionale corrisponde alla differenza tra il guadagno assicurato prima e il guadagno assicurato dopo che è subentrato il danno alla salute e sono state eseguite misure mediche o provvedimenti di integrazione professionale; si tiene conto di un’eventuale rendita parziale assegnata dall’AI.
-
-[^63-1]: Nuovo testo giusta il n. I della Dec. dell’OP PF del 1° dic. 2016, approvata dal Consiglio dei PF il 7 dic. 2016 e dal CF il 10 mag. 2017, in vigore dal 1° gen. 2017 ([RU 2017 3301](https://fedlex.data.admin.ch/eli/oc/2017/345)).
+[^6263-1]: Abrogati dal n. I della Dec. dell’OP PF del 30 mar. 2022, approvata dal CF il 29 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 394](https://fedlex.data.admin.ch/eli/oc/2022/394)).
 
 ### Sezione 3: Prestazioni del piano sociale
 
@@ -1137,9 +1092,11 @@ Al posto delle rendite PUBLICA eroga una liquidazione in capitale stabilita seco
 
 - a. la rendita di vecchiaia è inferiore al 10 per cento o la rendita per figli del beneficiario di una rendita di vecchiaia è inferiore al 2 per cento dell’importo minimo della rendita di vecchiaia ai sensi dell’articolo 34 LAVS;
 - b. la rendita per coniugi o la rendita per conviventi è inferiore al 6 per cento o la rendita per orfani è inferiore al 2 per cento dell’importo minimo della rendita di vecchiaia ai sensi dell’articolo 34 LAVS;
-- c. la rendita di invalidità o la rendita di invalidità professionale è inferiore al 10 per cento o la rendita per figli del beneficiario di una rendita di invalidità è inferiore al 2 per cento dell’importo minimo della rendita di vecchiaia ai sensi dell’articolo 34 LAVS.
+- c.[^66-1] la rendita di invalidità è inferiore al 10 per cento o la rendita per figli del beneficiario di una rendita di invalidità è inferiore al 2 per cento dell’importo minimo della rendita di vecchiaia ai sensi dell’articolo 34 LAVS.
 
 <sup>2</sup> Con il pagamento del capitale si estinguono tutti gli altri diritti della persona assicurata o dei suoi superstiti nei confronti di PUBLICA, in particolare i diritti a eventuali futuri adeguamenti legali o volontari all’evoluzione dei prezzi nonché alla rendita per figli del beneficiario di una rendita di vecchiaia o di invalidità.
+
+[^66-1]: Nuovo testo giusta il n. I della Dec. dell’OP PF del 30 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 394](https://fedlex.data.admin.ch/eli/oc/2022/394)).
 
 #### Art. 67
 
@@ -1364,7 +1321,7 @@ Fatto salvo il capoverso 5, deduzione fatta dei prelievi anticipati per la propr
 - b.[^85-2] dei contributi di risparmio versati durante il periodo di contribuzione dalla persona assicurata (art. 24 e 25) con interesse e aumentati del quattro per cento per anno di età a contare dal 20° anno di età, ma al massimo del 100 per cento; è fatto salvo il capoverso 5;
 - c. gli eventuali riscatti effettuati dal datore di lavoro ai sensi dell’articolo 87, con interesse.
 
-<sup>2</sup> <sup>bis</sup> ...[^85-3]
+<sup>2bis</sup> ...[^85-3]
 
 <sup>3</sup> Il tasso di interesse per la rimunerazione secondo il capoverso 2 è retto dalla LFLP. Per la durata di una copertura insufficiente esso può essere ridotto al tasso con cui viene rimunerato l’avere di vecchiaia.[^85-4]
 
@@ -1814,7 +1771,7 @@ Gli assicurati che hanno compiuto il 62° anno di età prima del 1° dicembre 20
 
 <sup>2</sup> Le modifiche del regolamento di previdenza costituiscono una modifica del contratto di affiliazione. La loro validità è subordinata al consenso della parte contraente al contratto di affiliazione e dell’organo paritetico nonché all’approvazione del Consiglio federale.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 8)
 
@@ -1841,11 +1798,11 @@ Nel 2017 l’interesse minimo LPP ammonta a: 1,00 %.
 
 [^annex1-lvlu1-1]: Gli interessi attuali sono disponibili sul sito di PUBLICA.
 
-Allegato 1a*[^t-2]*
+Allegato 1a[^t-2]
 
 [^t-2]: Introdotto dal n. II cpv. 3 delle Dec. dell’OP PF del 31 mar./10 mag. 2011, approvate dal Consiglio dei PF il 6/7 lug. 2011 e dal CF il 19 ott. 2011 ([RU 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)). Abrogato dal n. II cpv. 1 della Dec. dell’OP PF del 30 nov. 2017, approvata dal Consiglio dei PF i 13/14 dic. 2017 e dal CF il 25 apr. 2018, con effetto dal 1° mag. 2018 ([RU 2018 2485](https://fedlex.data.admin.ch/eli/oc/2018/355)).
 
-Allegato 2*[^t-3]*
+Allegato 2[^t-3]
 
 (art. 27 cpv. 2)
 
@@ -1863,7 +1820,7 @@ Piano per le persone impiegate a partire dal livello di funzione 13:
 <tr><td>55–70</td><td>14,25</td><td>0,55</td><td>14,80</td><td>25,30</td><td></td></tr>
 </table>
 
-Allegato 3*[^t-4]*
+Allegato 3[^t-4]
 
 (art. 32)
 
@@ -1930,7 +1887,7 @@ avere di vecchiaia acquisito fr. 650 000.– → età LPP -1 = 53 → tasso = 70
 
 → riscatto max. = 706.02 % × 200 000 – 650 000 = fr. 762 040.–.
 
-Allegato 4*[^t-5]*
+Allegato 4[^t-5]
 
 (art. 39, 46 e 57)
 
@@ -1953,7 +1910,7 @@ Allegato 4*[^t-5]*
 <tr><td>70</td><td>5,96 %</td></tr>
 </table>
 
-Allegato 5*[^t-6]*
+Allegato 5[^t-6]
 
 (art. 60 cpv. 4 lett. a e c)
 
@@ -2062,7 +2019,7 @@ Calcolo:
 - a. età AVS 65: 22.579 × 241.85 × 12 = **Fr. 65 528.75**
 - b. età AVS 64: 21.346 × 207.85 × 12 = **Fr. 53 241.20**
 
-Allegato 6*[^t-7]*
+Allegato 6[^t-7]
 
 (art. 60 cpv. 4 lett. b e 5)
 
@@ -2164,7 +2121,7 @@ B. Calcolo/riduzione della rendita per orfani:
 
 La rendita per orfani ammonta a un sesto della rendita di vecchiaia ridotta, ovvero a fr. 952.85.
 
-Allegato 7*[^t-8]*
+Allegato 7[^t-8]
 
 (art. 102 cpv. 2, 107*a* cpv. 1, 107*b* cpv. 1 e 107*f* cpv. 1)
 
@@ -2307,7 +2264,6 @@ Importo secondo le tabelle a oppure b × quota del datore di lavoro × (RT al me
 
 - a. età AVS 65: 338.25 × 0.5 × 2.32 = **fr. 392.35**
 - b. età AVS 64: 271.95 × 0.5 × 2.32 = **fr. 315.45**
-- [tab]
 
 ### IV. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° gennaio 2015 e il 31 dicembre 2018 a partire dal raggiungimento dell’età AVS a causa dell’ottenimento di una rendita transitoria (art. 107*f* cpv. 1)
 
@@ -2377,7 +2333,7 @@ Fattore secondo le tabelle a e b × (RT al mese/1000) = riduzione a vita della r
 - a. 196.40 × 2.21 = **fr. 434.05**
 - b. 149.30 × 2.21 = **fr. 329.95**
 
-Allegato 8*[^t-9]*
+Allegato 8[^t-9]
 
 (art. 5)
 
