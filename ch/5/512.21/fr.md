@@ -4,11 +4,11 @@ title: Ordonnance du 22 novembre 2017 sur les obligations militaires (OMi)
 short: OMi
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/810"
 language: fr
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-810-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-810-20220701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20220101/fr"
 
 (OMi)
 
-du 22 novembre 2017 (Etat le 1<sup>er</sup> janvier 2022)
+du 22 novembre 2017 (Etat le 1<sup>er</sup> juillet 2022)
 
 Le Conseil fédéral suisse,
 
@@ -965,7 +965,14 @@ Le nombre des jours de service d’instruction à accomplir s’élève à:
 Les adjudants d’état-major, les adjudants-majors, les adjudants-chefs, les capitaines et les officiers supérieurs pour lesquels:
 
 - a. aucun perfectionnement n’est prévu pour revêtir un grade plus élevé, accomplissent au maximum 240 jours de service d’instruction après leur dernière promotion; lorsque 120 jours de service ont déjà été accomplis, on peut renoncer à une convocation;
-- b. un perfectionnement en vue d’exercer une nouvelle fonction au même grade est prévu, accomplissent au maximum 240 jours de service d’instruction à compter de leur entrée en fonction; lorsque 120 jours de service ont déjà été accomplis, on peut renoncer à une convocation.
+- b. un perfectionnement en vue d’exercer une nouvelle fonction au même grade est prévu, accomplissent au maximum 240 jours de service d’instruction à compter de leur entrée en fonction; lorsque 120 jours de service ont déjà été accomplis, on peut renoncer à une convocation;
+- c.[^47-9]
+
+  un service d’instruction de pilote militaire, d’opérateur de bord ou d’opérateurs de drone est prévu accomplissent:
+
+  - 1\. en tant que capitaine: 1311 jours,
+  - 2\. en tant que major: 1368 jours,
+  - 3\. en tant que lieutenant-colonel: 1380 jours.
 
 <sup>4</sup> Les officiers spécialistes accomplissent 240 jours au maximum après leur nomination, indépendamment des jours de service accomplis jusqu’alors.
 
@@ -984,6 +991,7 @@ Les spécialistes accomplissent des jours de service supplémentaires s’éleva
 [^47-6]: Introduit par le ch. I de l’O du 16 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^47-7]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^47-8]: Abrogé par le ch. I de l’O du 16 oct. 2019, avec effet au 1<sup>er</sup> déc. 2019 ([RO 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^47-9]: Introduite par l’app. 2 ch. 2 de l’O du 18 mars 2022 sur le service de vol militaire, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
 
 ### Section 2 Imputation sur la durée totale des services d’instruction
 
@@ -1452,7 +1460,7 @@ Pour la tâche visée à l’art. 61, al. 3, LAAM, peuvent être mis à disposit
 - a. des militaires en service long accomplissant leur service d’instruction des formations;
 - b. du personnel militaire.
 
-### Section 10 Libération anticipée du recrutement ou des services d’instruction
+### Section 10 Libération anticipée du recrutement ou des services d’instruction****
 
 [^chap3-sec10-1]
 
@@ -2136,14 +2144,17 @@ Pour les militaires désignés ci-après qui ont été promus avant le 1<sup>er<
 - a<sup>bis</sup>.[^109-3] pour les appointés-chefs grenadiers: 280 jours;
 - b. pour les caporaux: 260 jours;
 - c. pour les sergents: 400 jours;
-- d.[^109-4] pour les sergents grenadiers et les sergents éclaireurs parachutistes: 425 jours;
+- d.[^109-4] pour les sergents grenadiers: 425 jours;
+- d<sup>bis</sup>.[^109-5] pour les sergents éclaireurs parachutistes: 865 jours;
 - e. pour les sergents-chefs: 430 jours;
+- e<sup>bis</sup>.[^109-6] pour les sergents-chefs éclaireurs parachutistes: 865 jours;
 - f. pour les sergents-majors: 450 jours;
 - g. pour les sergents-majors chefs et les fourriers: 500 jours;
 - h. pour les adjudants sous-officiers: 620 jours;
 - i. pour les adjudants d’état-major: 630 jours;
 - j. pour les adjudants-majors et les adjudants-chefs: 730 jours;
-- k. pour les officiers subalternes: 600 jours.
+- k. pour les officiers subalternes: 600 jours;
+- k<sup>bis</sup>.[^109-7] pour les officiers subalternes éclaireurs parachutistes: 1105 jours.
 
 <sup>2</sup>
 
@@ -2151,16 +2162,28 @@ Pour les militaires désignés ci-après qui ont effectué leur école d’offic
 
 - a. pour les médecins militaires et les pharmaciens: 456 jours;
 - b. pour les dentistes: 538 jours;
-- c. pour les vétérinaires: 536 jours.[^109-5]
+- c. pour les vétérinaires: 536 jours.[^109-8]
 
-<sup>3</sup> Les capitaines et les officiers supérieurs qui ont été promus à leur grade actuel ou incorporés dans leur fonction actuelle avant le 1<sup>er</sup> janvier 2018 et pour lesquels aucun perfectionnement n’est prévu accomplissent des services d’instruction pendant quatre à huit ans.[^109-6]
+<sup>2bis</sup>
+
+Pour les membres du service de vol militaire désignés ci-après qui ont été promus à leur grade actuel avant le 1<sup>er</sup> janvier 2018, le nombre de jours de service d’instruction à accomplir s’élève à:
+
+- a. pour les capitaines en tant que pilotes militaires, opérateurs de bord ou opérateurs de drone: 1311 jours;
+- b. pour les majors en tant que pilotes militaires, opérateurs de bord ou opérateurs de drone: 1368 jours;
+- c. pour les lieutenants-colonels en tant que pilotes militaires, opérateurs de bord ou opérateurs de drone: 1380 jours.[^109-9]
+
+<sup>3</sup> Les capitaines et les officiers supérieurs qui ont été promus à leur grade actuel ou incorporés dans leur fonction actuelle avant le 1<sup>er</sup> janvier 2018 et pour lesquels aucun perfectionnement n’est prévu accomplissent des services d’instruction pendant quatre à huit ans.[^109-10]
 
 [^109-1]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^109-2]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^109-3]: Introduite par le ch. I de l’O du 16 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^109-4]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^109-5]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^109-6]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^109-4]: Nouvelle teneur selon l’app. 2 ch. 2 de l’O du 18 mars 2022 sur le service de vol militaire, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^109-5]: Introduite par l’app. 2 ch. 2 de l’O du 18 mars 2022 sur le service de vol militaire, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^109-6]: Introduite par l’app. 2 ch. 2 de l’O du 18 mars 2022 sur le service de vol militaire, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^109-7]: Introduite par l’app. 2 ch. 2 de l’O du 18 mars 2022 sur le service de vol militaire, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^109-8]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^109-9]: Introduit par l’app. 2 ch. 2 de l’O du 18 mars 2022 sur le service de vol militaire, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^109-10]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 109a
 

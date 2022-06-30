@@ -4,11 +4,11 @@ title: Verordnung vom 22. November 2017 über die Militärdienstpflicht (VMDP)
 short: VMDP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/810"
 language: de
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-810-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2017-810-20220701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20220101/de"
 
 (VMDP)
 
-vom 22. November 2017 (Stand am 1. Januar 2022)
+vom 22. November 2017 (Stand am 1. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -811,7 +811,7 @@ Zuständig für die Funktionsänderung sind:
 Die Pflicht zur sicheren Aufbewahrung und zum Unterhalt der persönlichen Ausrüstung richtet sich nach dem Dienstreglement der Schweizerischen Armee vom 22. Juni 1994[^40-1] und nach der Verordnung vom 5. Dezember 2003[^40-2] über die persönliche Ausrüstung der Armeeangehörigen.
 
 [^40-1]: [SR 510.107.0](https://fedlex.data.admin.ch/eli/cc/1995/170_170_170)
-[^40-2]: [[AS 2003 5137](https://fedlex.data.admin.ch/eli/oc/2003/755), [2005 1413](https://fedlex.data.admin.ch/eli/oc/2005/209), [2006 4791](https://fedlex.data.admin.ch/eli/oc/2006/733), [2009 6503](https://fedlex.data.admin.ch/eli/oc/2009/796), [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)Ziff. I 12, [2014 4493](https://fedlex.data.admin.ch/eli/oc/2014/748), [2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)Anhang 7 Ziff. II 5. [AS 2018 4639](https://fedlex.data.admin.ch/eli/oc/2018/732)]. Siehe heute: die V vom 21. Nov. 2018 ([SR 514.10](https://fedlex.data.admin.ch/eli/cc/2018/732)).
+[^40-2]: [[AS 2003 5137](https://fedlex.data.admin.ch/eli/oc/2003/755); [2005 1413](https://fedlex.data.admin.ch/eli/oc/2005/209); [2006 4791](https://fedlex.data.admin.ch/eli/oc/2006/733); [2009 6503](https://fedlex.data.admin.ch/eli/oc/2009/796); [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)Ziff. I 12; [2014 4493](https://fedlex.data.admin.ch/eli/oc/2014/748); [2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)Anhang 7 Ziff. II 5. [AS 2018 4639](https://fedlex.data.admin.ch/eli/oc/2018/732)]. Siehe heute: die V vom 21. Nov. 2018 ([SR 514.10](https://fedlex.data.admin.ch/eli/cc/2018/732)).
 
 #### Art. 41
 
@@ -964,6 +964,13 @@ Stabsadjutanten, Hauptadjutanten, Chefadjutanten, Hauptleute und Stabsoffiziere,
 
 - a. Es ist keine Weiterausbildung zu einem höheren Grad vorgesehen: ab ihrer letzten Beförderung höchstens 240 Tage; nach 120 Tagen Ausbildungsdienst kann von einem Aufgebot abgesehen werden.
 - b. Es ist eine Weiterausbildung für die Übernahme einer neuen Funktion in demselben Grad vorgesehen: ab Übernahme der neuen Funktion höchstens 240 Tage; nach 120 Tagen Ausbildungsdienst kann von einem Aufgebot abgesehen werden.
+- c.[^47-9]
+
+  Militärpiloten und Militärpilotinnen, Bordoperateure und Bordoperateurinnen sowie Drohnenoperateure und Drohnenoperateurinnen:
+
+  - 1\. im Grad eines Hauptmanns: 1311 Tage;
+  - 2\. im Grad eines Majors: 1368 Tage;
+  - 3\. im Grad eines Oberstleutnants: 1380 Tage.
 
 <sup>4</sup> Fachoffiziere und Fachoffizierinnen leisten, ungeachtet der bisher geleisteten Dienstage, ab Ernennung höchstens 240 Tage Ausbildungsdienst.
 
@@ -982,6 +989,7 @@ Spezialisten und Spezialistinnen leisten höchstens die nachstehende Anzahl zus�
 [^47-6]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^47-7]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^47-8]: Aufgehoben durch Ziff. I der V vom 16. Okt. 2019, mit Wirkung seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^47-9]: Eingefügt durch Anhang 2 Ziff. 2 der Militärflugdienstverordnung vom 18. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
 
 ### 2. Abschnitt: Anrechnung an die Ausbildungsdienstpflicht
 
@@ -2131,14 +2139,17 @@ Die Zahl der insgesamt zu leistenden anrechenbaren Tage Ausbildungsdienst für d
 - a<sup>bis</sup>.[^109-3] Obergefreite als Grenadier, Grenadierin: 280 Tage;
 - b. Korporale: 260 Tage;
 - c. Wachtmeister: 400 Tage;
-- d.[^109-4] Wachtmeister als Grenadier, Grenadierin oder Fallschirmaufklärer, Fallschirmaufklärerin: 425 Tage;
+- d.[^109-4] Wachtmeister als Grenadier oder Grenadierin: 425 Tage;
+- d<sup>bis</sup>.[^109-5] Wachtmeister als Fallschirmaufklärer oder Fallschirmaufklärerin: 865 Tage;
 - e. Oberwachtmeister: 430 Tage;
+- e<sup>bis</sup>.[^109-6] Oberwachtmeister als Fallschirmaufklärer oder Fallschirmaufklärerin: 865 Tage;
 - f. Feldweibel: 450 Tage;
 - g. Hauptfeldweibel oder Fouriere: 500 Tage;
 - h. Adjutantunteroffiziere: 620 Tage;
 - i. Stabsadjutanten: 630 Tage;
 - j. Haupt- oder Chefadjutanten: 730 Tage;
-- k. Subalternoffiziere: 600 Tage.
+- k. Subalternoffiziere: 600 Tage;
+- k<sup>bis</sup>.[^109-7] Subalternoffizier als Fallschirmaufklärer oder Fallschirmaufklärerin: 1105 Tage.
 
 <sup>2</sup>
 
@@ -2146,16 +2157,28 @@ Die Zahl der insgesamt zu leistenden anrechenbaren Tage Ausbildungsdienst für d
 
 - a. Militärärzte, Militärärztinnen und Apotheker, Apothekerinnen: 456 Tage;
 - b. Zahnärzte und Zahnärztinnen: 538 Tage;
-- c. Veterinärärzte und Veterinärärztinnen: 536 Tage.[^109-5]
+- c. Veterinärärzte und Veterinärärztinnen: 536 Tage.[^109-8]
 
-<sup>3</sup> Hauptleute und Stabsoffiziere, die vor dem 1. Januar 2018 zu ihrem aktuellen Grad befördert oder in ihre aktuelle Funktion eingeteilt wurden und für die keine Weiterausbildung vorgesehen ist, leisten Ausbildungsdienste während vier bis acht Jahren.[^109-6]
+<sup>2bis</sup>
+
+Die Zahl der insgesamt zu leistenden anrechenbaren Tage Ausbildungsdienst für die folgenden Angehörigen des militärischen Flugdienstes, die vor dem 1. Januar 2018 zu ihrem aktuellen Grad befördert wurden, beträgt für:
+
+- a. Hauptleute als Militärpilot, Militärpilotin, Bordoperateur, Bordoperateurin, Drohnenoperateur oder Drohnenoperateurin: 1311 Tage;
+- b. Major als Militärpilot, Militärpilotin, Bordoperateur, Bordoperateurin, Drohnenoperateur oder Drohnenoperateurin: 1368 Tage;
+- c. Oberstleutnant als Militärpilot, Militärpilotin, Bordoperateur, Bordoperateurin, Drohnenoperateur oder Drohnenoperateurin: 1380 Tage.[^109-9]
+
+<sup>3</sup> Hauptleute und Stabsoffiziere, die vor dem 1. Januar 2018 zu ihrem aktuellen Grad befördert oder in ihre aktuelle Funktion eingeteilt wurden und für die keine Weiterausbildung vorgesehen ist, leisten Ausbildungsdienste während vier bis acht Jahren.[^109-10]
 
 [^109-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^109-2]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^109-3]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^109-4]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^109-5]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^109-6]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^109-4]: Fassung gemäss Anhang 2 Ziff. 2 der Militärflugdienstverordnung vom 18. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^109-5]: Eingefügt durch Anhang 2 Ziff. 2 der Militärflugdienstverordnung vom 18. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^109-6]: Eingefügt durch Anhang 2 Ziff. 2 der Militärflugdienstverordnung vom 18. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^109-7]: Eingefügt durch Anhang 2 Ziff. 2 der Militärflugdienstverordnung vom 18. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^109-8]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^109-9]: Eingefügt durch Anhang 2 Ziff. 2 der Militärflugdienstverordnung vom 18. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^109-10]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 109a
 
@@ -2642,10 +2665,10 @@ Die nachstehenden Erlasse werden wie folgt geändert:
 
 …[^annex7-lvlu1-7]
 
-[^annex7-lvlu1-1]: [[AS 2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141), [2003 4599](https://fedlex.data.admin.ch/eli/oc/2003/678)Art. 9 Ziff. 1 [5179](https://fedlex.data.admin.ch/eli/oc/2003/762)Art. 24, [2004 4357](https://fedlex.data.admin.ch/eli/oc/2004/659)Art. 7 [4955](https://fedlex.data.admin.ch/eli/oc/2004/748)Anhang 3 [5299](https://fedlex.data.admin.ch/eli/oc/2004/817)Art. 44, [2005 5099](https://fedlex.data.admin.ch/eli/oc/2005/709)Ziff. III 2, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 35, [2007 389](https://fedlex.data.admin.ch/eli/oc/2007/76)Ziff. II, [2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)Anhang 36 Ziff. 3, [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)Ziff. I 6, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 4.[5](https://fedlex.data.admin.ch/eli/oc/2011/3), [2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)Ziff. I 2]
-[^annex7-lvlu1-2]: [[AS 2002 892](https://fedlex.data.admin.ch/eli/oc/2002/158), [2010 6099](https://fedlex.data.admin.ch/eli/oc/2010/871)Ziff. I 2]
-[^annex7-lvlu1-3]: [[AS 2004 4357](https://fedlex.data.admin.ch/eli/oc/2004/659),[2009 4291](https://fedlex.data.admin.ch/eli/oc/2009/527)Beilage Ziff. 3, **2010** 5971 Ziff. I 8]
-[^annex7-lvlu1-4]: [[AS 2004 5299](https://fedlex.data.admin.ch/eli/oc/2004/817), [2007 6751](https://fedlex.data.admin.ch/eli/oc/2007/870)Beilage 2 Ziff. 2, **2008** 4943 Ziff. I 15, **2009** 4291 Beilage Ziff. 4 6667 Anhang 36 Ziff. 5, **2010** 5971 Ziff. I 9]
-[^annex7-lvlu1-5]: [[AS 2003 4609](https://fedlex.data.admin.ch/eli/oc/2003/680), [2004 5319](https://fedlex.data.admin.ch/eli/oc/2004/818), [2005 5099](https://fedlex.data.admin.ch/eli/oc/2005/709), [2007 6751](https://fedlex.data.admin.ch/eli/oc/2007/870), [2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Anhang Ziff. 9, [2009 5887](https://fedlex.data.admin.ch/eli/oc/2009/720), [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)Ziff. I 10, [2011 6183](https://fedlex.data.admin.ch/eli/oc/2011/864), [2012 3415](https://fedlex.data.admin.ch/eli/oc/2012/383)[6493](https://fedlex.data.admin.ch/eli/oc/2012/777)Anhang 2 Ziff. 2, [2013 2735](https://fedlex.data.admin.ch/eli/oc/2013/566)[2761](https://fedlex.data.admin.ch/eli/oc/2013/567)Ziff. II [3037](https://fedlex.data.admin.ch/eli/oc/2013/593), [2014 2849](https://fedlex.data.admin.ch/eli/oc/2014/492), [2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)Ziff. I 3]
+[^annex7-lvlu1-1]: [[AS 2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141); [2003 4599](https://fedlex.data.admin.ch/eli/oc/2003/678)Art. 9 Ziff. 1, [5179](https://fedlex.data.admin.ch/eli/oc/2003/762)Art. 24; [2004 4357](https://fedlex.data.admin.ch/eli/oc/2004/659)Art. 7, [4955](https://fedlex.data.admin.ch/eli/oc/2004/748)Anhang 3, [5299](https://fedlex.data.admin.ch/eli/oc/2004/817)Art. 44; [2005 5099](https://fedlex.data.admin.ch/eli/oc/2005/709)Ziff. III 2; [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 35; [2007 389](https://fedlex.data.admin.ch/eli/oc/2007/76)Ziff. II; [2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)Anhang 36 Ziff. 3; [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)Ziff. I 6; [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 4.[5](https://fedlex.data.admin.ch/eli/oc/2011/3); [2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)Ziff. I 2]
+[^annex7-lvlu1-2]: [[AS 2002 892](https://fedlex.data.admin.ch/eli/oc/2002/158); [2010 6099](https://fedlex.data.admin.ch/eli/oc/2010/871)Ziff. I 2]
+[^annex7-lvlu1-3]: [[AS 2004 4357](https://fedlex.data.admin.ch/eli/oc/2004/659);[2009 4291](https://fedlex.data.admin.ch/eli/oc/2009/527)Beilage Ziff. 3; **2010** 5971 Ziff. I 8]
+[^annex7-lvlu1-4]: [[AS 2004 5299](https://fedlex.data.admin.ch/eli/oc/2004/817); [2007 6751](https://fedlex.data.admin.ch/eli/oc/2007/870)Beilage 2 Ziff. 2; **2008** 4943 Ziff. I 15; **2009** 4291 Beilage Ziff. 4, 6667 Anhang 36 Ziff. 5; **2010** 5971 Ziff. I 9]
+[^annex7-lvlu1-5]: [[AS 2003 4609](https://fedlex.data.admin.ch/eli/oc/2003/680); [2004 5319](https://fedlex.data.admin.ch/eli/oc/2004/818); [2005 5099](https://fedlex.data.admin.ch/eli/oc/2005/709); [2007 6751](https://fedlex.data.admin.ch/eli/oc/2007/870); [2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Anhang Ziff. 9; [2009 5887](https://fedlex.data.admin.ch/eli/oc/2009/720); [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)Ziff. I 10; [2011 6183](https://fedlex.data.admin.ch/eli/oc/2011/864); [2012 3415](https://fedlex.data.admin.ch/eli/oc/2012/383), [6493](https://fedlex.data.admin.ch/eli/oc/2012/777)Anhang 2 Ziff. 2; [2013 2735](https://fedlex.data.admin.ch/eli/oc/2013/566), [2761](https://fedlex.data.admin.ch/eli/oc/2013/567)Ziff. II, [3037](https://fedlex.data.admin.ch/eli/oc/2013/593); [2014 2849](https://fedlex.data.admin.ch/eli/oc/2014/492); [2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)Ziff. I 3]
 [^annex7-lvlu1-6]: [[AS 2013 3023](https://fedlex.data.admin.ch/eli/oc/2013/588)]
 [^annex7-lvlu1-7]: Die Änderungen können unter [AS 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)konsultiert werden.

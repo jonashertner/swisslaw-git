@@ -4,11 +4,11 @@ title: "Ordinanza del 22 novembre 2017 concernente l'obbligo di prestare servizi
 short: OOPSM
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/810"
 language: it
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-810-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2017-810-20220701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20220101/it"
 
 (OOPSM)
 
-del 22 novembre 2017 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 22 novembre 2017 (Stato 1° luglio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -26,7 +26,7 @@ vista la legge militare del 3 febbraio 1995[^ingress-1] (LM); visto l’articolo
 ordina:
 
 [^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [[RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)[4327](https://fedlex.data.admin.ch/eli/oc/2003/645),[2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 47, [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)all. n. 3, [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)all. n. 4, [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816), [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23, [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24), [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)all. n. 7, [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)all. n. 7. [RU 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)all. n. I]. Vedi ora la LF del 20 dic. 2019 sulla protezione della popolazione e sulla protezione civile ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
+[^ingress-2]: [[RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645);[2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)all. n. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)all. n. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)all. n. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)all. n. 7. [RU 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)all. n. I]. Vedi ora la LF del 20 dic. 2019 sulla protezione della popolazione e sulla protezione civile ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
 
 ## **Capitolo 1:** **Scopo**
 
@@ -962,7 +962,14 @@ Il numero complessivo di giorni di servizio d’istruzione computabili da presta
 Gli aiutanti di stato maggiore, gli aiutanti maggiori, gli aiutanti capi, i capitani e gli ufficiali superiori per i quali vale quanto segue, prestano servizio d’istruzione come indicato qui appresso:
 
 - a. non è previsto alcun avanzamento a un grado superiore: a partire dalla loro ultima promozione prestano 240 giorni al massimo; dopo 120 giorni di servizio d’istruzione è possibile prescindere da una chiamata in servizio;
-- b. è previsto un perfezionamento per l’assunzione di una nuova funzione con lo stesso grado: dall’assunzione della nuova funzione prestano 240 giorni al massimo; dopo 120 giorni di servizio d’istruzione è possibile prescindere da una chiamata in servizio.
+- b. è previsto un perfezionamento per l’assunzione di una nuova funzione con lo stesso grado: dall’assunzione della nuova funzione prestano 240 giorni al massimo; dopo 120 giorni di servizio d’istruzione è possibile prescindere da una chiamata in servizio;
+- c.[^47-9]
+
+  i piloti militari, gli operatori di bordo e gli operatori di ricognitori telecomandati:
+
+  - 1\. nel grado di capitano: 1311 giorni,
+  - 2\. nel grado di maggiore: 1368 giorni,
+  - 3\. nel grado di tenente colonnello: 1380 giorni.
 
 <sup>4</sup> Gli ufficiali specialisti, a prescindere dai giorni di servizio prestati in precedenza, dalla nomina prestano 240 giorni di servizio d’istruzione al massimo.
 
@@ -981,6 +988,7 @@ Gli specialisti prestano il seguente numero massimo di giorni supplementari di s
 [^47-6]: Introdotto dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^47-7]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^47-8]: Abrogato dal n. I dell’O del 16 ott. 2019, con effetto dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^47-9]: Introdotta dall’all. 2 n. 2 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
 
 ### Sezione 2: Computo sul totale obbligatorio di giorni di servizio d’istruzione
 
@@ -2129,14 +2137,17 @@ I seguenti militari promossi al loro grado attuale prima del 1° gennaio 2018 de
 - a<sup>bis</sup>.[^109-3] gli appuntati capi granatieri: 280 giorni;
 - b. i caporali: 260 giorni;
 - c. i sergenti: 400 giorni;
-- d.[^109-4] i sergenti granatieri e gli esploratori paracadutisti: 425 giorni;
+- d.[^109-4] i sergenti granatieri: 425 giorni;
+- d<sup>bis</sup>.[^109-5] i sergenti esploratori paracadutisti: 865 giorni;
 - e. i sergenti capi: 430 giorni;
+- e<sup>bis</sup>.[^109-6] i sergenti capi esploratori paracadutisti: 865 giorni;
 - f. i sergenti maggiori: 450 giorni;
 - g. i sergenti maggiori capi e i furieri: 500 giorni;
 - h. gli aiutanti sottufficiali: 620 giorni;
 - i. gli aiutanti di stato maggiore: 630 giorni;
 - j. gli aiutanti maggiori e gli aiutanti capi: 730 giorni;
-- k. gli ufficiali subalterni: 600 giorni.
+- k. gli ufficiali subalterni: 600 giorni;
+- k<sup>bis</sup>.[^109-7] gli ufficiali subalterni esploratori paracadutisti: 1105 giorni;
 
 <sup>2</sup>
 
@@ -2144,16 +2155,28 @@ I seguenti militari che hanno assolto la scuola ufficiali prima del 31 dicembre 
 
 - a. medici militari e farmacisti: 456 giorni;
 - b. dentisti: 538 giorni;
-- c. veterinari: 536 giorni.[^109-5]
+- c. veterinari: 536 giorni.[^109-8]
 
-<sup>3</sup> I capitani e gli ufficiali superiori promossi al loro grado attuale o attribuiti alla loro funzione attuale prima del 1° gennaio 2018 e per i quali non è previsto alcun avanzamento, prestano servizi d’istruzione durante un periodo da quattro a otto anni.[^109-6]
+<sup>2bis</sup>
+
+I seguenti membri del servizio di volo militare promossi al loro grado attuale prima del 1° gennaio 2018 devono prestare il seguente numero complessivo di giorni computabili di servizio d’istruzione:
+
+- a. capitani piloti militari, operatori di bordo o operatori di ricognitori telecomandati: 1311 giorni;
+- b. maggiori piloti militari, operatori di bordo o operatori di ricognitori telecomandati: 1368 giorni;
+- c. tenenti colonnelli piloti militari, operatori di bordo o operatori di ricognitori telecomandati: 1380 giorni.[^109-9]
+
+<sup>3</sup> I capitani e gli ufficiali superiori promossi al loro grado attuale o attribuiti alla loro funzione attuale prima del 1° gennaio 2018 e per i quali non è previsto alcun avanzamento, prestano servizi d’istruzione durante un periodo da quattro a otto anni.[^109-10]
 
 [^109-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^109-2]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^109-3]: Introdotta dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^109-4]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^109-5]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^109-6]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^109-4]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^109-5]: Introdotta dall’all. 2 n. 2 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^109-6]: Introdotta dall’all. 2 n. 2 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^109-7]: Introdotta dall’all. 2 n. 2 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^109-8]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^109-9]: Introdotto dall’all. 2 n. 2 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^109-10]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 109a
 
@@ -2644,7 +2667,7 @@ I seguenti atti normativi sono modificati come segue:
 [^annex7-lvlu1-1]: [[RU 2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141), [2003 4599](https://fedlex.data.admin.ch/eli/oc/2003/678)art. 9 n. 1 [5179](https://fedlex.data.admin.ch/eli/oc/2003/762)art. 24, [2004 4357](https://fedlex.data.admin.ch/eli/oc/2004/659)art. 7 [4955](https://fedlex.data.admin.ch/eli/oc/2004/748)all. 3 [5299](https://fedlex.data.admin.ch/eli/oc/2004/817)art. 44, [2005 5099](https://fedlex.data.admin.ch/eli/oc/2005/709)n. III 2, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 35, [2007 389](https://fedlex.data.admin.ch/eli/oc/2007/76)II, [2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)all. 36 n. 3, [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)n. I 6, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 4.[5](https://fedlex.data.admin.ch/eli/oc/2011/3), [2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)n. I 2]
 [^annex7-lvlu1-2]: [[RU 2002 892](https://fedlex.data.admin.ch/eli/oc/2002/158), [2010 6099](https://fedlex.data.admin.ch/eli/oc/2010/871)n. I 2]
 [^annex7-lvlu1-3]: [[RU 2004 4357](https://fedlex.data.admin.ch/eli/oc/2004/659),[2009 4291](https://fedlex.data.admin.ch/eli/oc/2009/527)appendice n. 3, [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)n. I 8]
-[^annex7-lvlu1-4]: [[RU 2004 5299](https://fedlex.data.admin.ch/eli/oc/2004/817), [2007 6751](https://fedlex.data.admin.ch/eli/oc/2007/870)appendice 2 n. 2, [[2008 4943](http://intranet.admin.ch/ch/d/as/2008/4943.pdf)](https://fedlex.data.admin.ch/eli/oc/2008/694)n. I 15, [[2009 4291](http://intranet.admin.ch/ch/d/as/2009/4291.pdf)](https://fedlex.data.admin.ch/eli/oc/2009/527)appendice n. 4 [[6667](http://intranet.admin.ch/ch/d/as/2009/6667.pdf)](https://fedlex.data.admin.ch/eli/oc/2009/824)all. 36 n. 5, [[2010 5971](http://intranet.admin.ch/ch/d/as/2010/5971.pdf)](https://fedlex.data.admin.ch/eli/oc/2010/858)n. I 9]
-[^annex7-lvlu1-5]: [[RU 2003 4609](https://fedlex.data.admin.ch/eli/oc/2003/680), [2004 5319](https://fedlex.data.admin.ch/eli/oc/2004/818), [2005 5099](https://fedlex.data.admin.ch/eli/oc/2005/709), [2007 6751](https://fedlex.data.admin.ch/eli/oc/2007/870), [2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)all. n. 9, [2009 5887](https://fedlex.data.admin.ch/eli/oc/2009/720), [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)n. I 10, [2011 6183](https://fedlex.data.admin.ch/eli/oc/2011/864), [2012 3415](https://fedlex.data.admin.ch/eli/oc/2012/383)[6493](https://fedlex.data.admin.ch/eli/oc/2012/777)all. 2 n. 2, [2013 2735](https://fedlex.data.admin.ch/eli/oc/2013/566)[2761](https://fedlex.data.admin.ch/eli/oc/2013/567)n. II [3037](https://fedlex.data.admin.ch/eli/oc/2013/593), [2014 2849](https://fedlex.data.admin.ch/eli/oc/2014/492), [2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)n. I 3]
+[^annex7-lvlu1-4]: [[RU 2004 5299](https://fedlex.data.admin.ch/eli/oc/2004/817); [2007 6751](https://fedlex.data.admin.ch/eli/oc/2007/870)appendice 2 n. 2; [[2008 4943](http://intranet.admin.ch/ch/d/as/2008/4943.pdf)](https://fedlex.data.admin.ch/eli/oc/2008/694)n. I 15; [[2009 4291](http://intranet.admin.ch/ch/d/as/2009/4291.pdf)](https://fedlex.data.admin.ch/eli/oc/2009/527)appendice n. 4, [[6667](http://intranet.admin.ch/ch/d/as/2009/6667.pdf)](https://fedlex.data.admin.ch/eli/oc/2009/824)all. 36 n. 5; [[2010 5971](http://intranet.admin.ch/ch/d/as/2010/5971.pdf)](https://fedlex.data.admin.ch/eli/oc/2010/858)n. I 9]
+[^annex7-lvlu1-5]: [[RU 2003 4609](https://fedlex.data.admin.ch/eli/oc/2003/680); [2004 5319](https://fedlex.data.admin.ch/eli/oc/2004/818); [2005 5099](https://fedlex.data.admin.ch/eli/oc/2005/709); [2007 6751](https://fedlex.data.admin.ch/eli/oc/2007/870); [2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)all. n. 9; [2009 5887](https://fedlex.data.admin.ch/eli/oc/2009/720); [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)n. I 10; [2011 6183](https://fedlex.data.admin.ch/eli/oc/2011/864); [2012 3415](https://fedlex.data.admin.ch/eli/oc/2012/383), [6493](https://fedlex.data.admin.ch/eli/oc/2012/777)all. 2 n. 2; [2013 2735](https://fedlex.data.admin.ch/eli/oc/2013/566), [2761](https://fedlex.data.admin.ch/eli/oc/2013/567)n. II, [3037](https://fedlex.data.admin.ch/eli/oc/2013/593); [2014 2849](https://fedlex.data.admin.ch/eli/oc/2014/492); [2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)n. I 3]
 [^annex7-lvlu1-6]: [[RU 2013 3023](https://fedlex.data.admin.ch/eli/oc/2013/588)]
 [^annex7-lvlu1-7]: Le mod. possono essere consultate alla [RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810).
