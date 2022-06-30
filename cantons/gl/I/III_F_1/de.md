@@ -4,13 +4,13 @@ number: III F/1
 title: Einführungsgesetz zur Schweizerischen Strafprozessordnung und zur Schweizerischen Jugendstrafprozessordnung
 short: EG StPO
 language: de
-version: 2022-01-01
-valid_until: 2022-06-30
+version: 2022-07-01
+valid_until: 2022-12-31
 version_adopted: 2021-09-05
 adopted: 2010-05-02
 in_force: 2011-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-F.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2256/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2285/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2256/pdf_file"
 
 (EG StPO)
 
-Vom 02.05.2010 (Stand 01.01.2022)
+Vom 02.05.2010 (Stand 01.07.2022)
 
 (Erlassen von der Landsgemeinde am 2. Mai 2010)
 
@@ -58,7 +58,13 @@ Vom 02.05.2010 (Stand 01.01.2022)
 
 **Amtliche Verteidigung (Art. 132 StPO)**
 
-<sup>1</sup> Drei im Anwaltsregister eingetragene Personen nehmen die Aufgaben der amtlichen Verteidigung wahr.
+<sup>1</sup> Die Aufgaben der amtlichen Verteidigung nehmen im Anwaltsregister eingetragene Personen wahr.
+
+<sup>2</sup> Die Verwaltungskommission der Gerichte schlägt dem Landrat die nötige Anzahl Personen zur Wahl auf Amtsdauer vor.
+
+<sup>3</sup> Vorbehalten bleibt Artikel 12 Buchstabe g des Anwaltsgesetzes[^4-1].
+
+[^4-1]: SR 935.61
 
 ## 2. Kantonspolizei
 
@@ -98,9 +104,7 @@ Vom 02.05.2010 (Stand 01.01.2022)
 
 #### Art. 8
 
-**Übertretungsstrafbehörde (Art. 17 StPO)**
-
-<sup>1</sup> Die Staats- und Jugendanwaltschaft ist zuständig für die Verfolgung und Beurteilung von Übertretungen.
+**…**
 
 #### Art. 9
 
@@ -126,7 +130,7 @@ Vom 02.05.2010 (Stand 01.01.2022)
 
 **Erster Staatsanwalt**
 
-<sup>1</sup> Der Erste Staatsanwalt
+<sup>1</sup> Der Erste Staatsanwalt:
 
 - a. führt die Staats- und Jugendanwaltschaft und vertritt diese nach aussen;
 - b. sorgt für eine fachgerechte, einheitliche und gleichmässige Strafverfolgung;
@@ -135,7 +139,8 @@ Vom 02.05.2010 (Stand 01.01.2022)
 - e. vertritt die Staats- und Jugendanwaltschaft in eidgenössischen Verfahren, wobei die Vertretung delegiert werden kann;
 - f. teilt die Fälle zu und beaufsichtigt deren Bearbeitung, wobei zu einzelnen Verfahren konkrete Anweisungen erteilt werden können, insbesondere über die Einleitung, den Abschluss sowie über die Ergreifung von Rechtsmitteln;
 - g. kann jederzeit Verfahren an sich ziehen oder umteilen;
-- h. regelt die Orientierung der Öffentlichkeit zu hängigen Verfahren.
+- h. regelt die Orientierung der Öffentlichkeit zu hängigen Verfahren;
+- i. kann für bestimmte Gebiete dauernd bestellte oder amtliche Sachverständige im Strafuntersuchungsverfahren bezeichnen.
 
 <sup>1a</sup> Er bezeichnet innerhalb der Staats- und Jugendanwaltschaft eine für die Datenschutzberatung zuständige Person mit folgenden Aufgaben:
 
@@ -228,11 +233,25 @@ Vom 02.05.2010 (Stand 01.01.2022)
 - a. im Vorverfahren: die Staatsanwaltschaft oder die Jugendanwaltschaft;
 - b. im Hauptverfahren: die Verfahrensleitung des Gerichts.
 
+#### Art. 21a
+
+**Entschädigungen**
+
+<sup>1</sup> Die Entschädigungen im Strafverfahren bemessen sich nach dem notwendigen Zeitaufwand, dem Streit- oder Interessenwert und der Schwierigkeit des Falls.
+
+<sup>2</sup> Das Obergericht erlässt einen Tarif über die Kosten der berufsmässigen Vertretung durch Anwältinnen und Anwälte im Strafverfahren. Dieser bedarf der Genehmigung durch den Landrat.
+
 #### Art. 22
 
 **Vollstreckung finanzieller Leistungen (Art. 442 StPO)**
 
 <sup>1</sup> Der Regierungsrat bestimmt die zuständigen Behörden für das Inkasso der im Zusammenhang mit der Tätigkeit der Strafverfolgungsbehörden aufzuerlegenden Kosten.
+
+#### Art. 22a
+
+**Rückzahlung (Art. 135 Abs. 4 StPO)**
+
+<sup>1</sup> Das Kantonsgericht entscheidet als Einzelgericht über die Rückzahlung von Verfahrenskosten im Sinne von Artikel 135 Absatz 4 StPO sowie von Entschädigungen im Sinne von Artikel 138 StPO und Artikel 25 Absatz 2 JStPO.
 
 #### Art. 23
 
@@ -268,7 +287,7 @@ Vom 02.05.2010 (Stand 01.01.2022)
 
 **Ermächtigung (Art. 7 Abs. 2 Bst. b StPO)**
 
-<sup>1</sup> Die Strafverfolgung gegen Mitglieder des Regierungsrates, der vom Landrat gewählten Kommissionen und der Gerichte sowie der Staatsanwälte und Jugendanwälte wegen im Amt begangener Verbrechen oder Vergehen kann nur eingeleitet werden, wenn der Landrat in geheimer Abstimmung mit absoluter Mehrheit der anwesenden Mitglieder die Ermächtigung dazu erteilt.
+<sup>1</sup> Die Strafverfolgung gegen Mitglieder des Regierungsrates, der vom Landrat gewählten Kommissionen, der Gerichte und der Schlichtungsbehörde sowie gegen Staatsanwälte und Jugendanwälte wegen im Amt begangener Verbrechen oder Vergehen kann nur eingeleitet werden, wenn der Landrat in geheimer Abstimmung mit absoluter Mehrheit der anwesenden Mitglieder die Ermächtigung dazu erteilt.
 
 #### Art. 28
 
@@ -280,6 +299,8 @@ Vom 02.05.2010 (Stand 01.01.2022)
 
 <sup>3</sup> Der Regierungsrat erlässt zu den Übertretungen des kantonalen Rechts, die durch Ordnungsbussen zu ahnden sind, eine Verordnung, bestimmt darin den Bussenbetrag und regelt das Verfahren.
 
+<sup>4</sup> Der Regierungsrat übt die Befugnisse aus, welche die Bundesgesetzgebung bei durch Ordnungsbussen zu ahndenden Delikten den Kantonen zuweist. Für die Bussenerhebung im Bereich des ruhenden Verkehrs richten sich die Zuständigkeiten nach Artikel 4 EG SVG.
+
 #### Art. 28a
 
 **Register über Datenbearbeitungstätigkeiten**
@@ -290,9 +311,7 @@ Vom 02.05.2010 (Stand 01.01.2022)
 
 #### Art. 29
 
-**Ausschluss und Orientierung der Öffentlichkeit (Art. 14 JStPO)**
-
-<sup>1</sup> Die Jugendstrafverfahren finden in der Regel unter Ausschluss der Öffentlichkeit statt. Es besteht keine Orientierungspflicht der Öffentlichkeit.
+**…**
 
 #### Art. 30
 
@@ -319,9 +338,7 @@ Vom 02.05.2010 (Stand 01.01.2022)
 
 #### Art. 33
 
-**Zivilforderungen**
-
-<sup>1</sup> Die Zivilforderungen können gestützt auf die Artikel 32 Absatz 3 und 34 Absatz 6 JStPO auf den Zivilweg verwiesen werden.
+**…**
 
 #### Art. 34
 
