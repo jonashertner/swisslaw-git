@@ -4,11 +4,11 @@ number: "230"
 title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch (EG ZGB)
 short: EG ZGB
 language: de
-version: "2022-01-01"
-nachtrag: "115"
-valid_until: 2022-07-01
+version: "2022-07-01"
+nachtrag: "117"
+valid_until: 2023-07-01
 adopted: 1911-04-02
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-230-1911_04_02-1912_01_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-230-1911_04_02-1912_01_01-117.html"
 text: pdf
 ---
 
@@ -46,7 +46,7 @@ I. Zivilstandsamt
 
 **1**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 <sup>3</sup> Der Regierungsrat kann ein Sonderzivilstandsamt für das ganze Kantonsgebiet gemäss Art. 2 der eidgenössischen Zivilstandsverordnung vom 28. April 2004[^t-3] einrichten.
 
@@ -81,7 +81,7 @@ I. Zivilstandsamt
 
 #### § 34
 
-<sup>1</sup> Der Gemeindevorstand<sup>78</sup> ist die zuständige Behörde: 1.<sup>53</sup> 2.<sup>69</sup> für die Aufsicht über Stiftungen, die nach ihrer Bestimmung der Gemeinde angehören (Art. 84 ZGB[^hIIGemeindevorstand-1]; §§ 13 und 14 des Gesetzes über die BVG- und Stiftungsaufsicht (BVSG) vom 11. Juli 2011[^hIIGemeindevorstand-2] gelten sinngemäss, 3.<sup>53</sup> 4.<sup>53</sup> 5. für die Anfechtung des Kindesverhältnisses (Art. 259 Abs. 2 Ziff. 3, Art. 260 a Abs. 1 und Art. 269 a Abs. 1 ZGB[^hIIGemeindevorstand-1],
+<sup>1</sup> Der Gemeindevorstand<sup>78</sup> ist die zuständige Behörde: 1.<sup>53</sup> 2.<sup>83</sup> für die Aufsicht über Stiftungen, die nach ihrer Bestimmung der Gemeinde angehören (Art. 84 ZGB[^hIIGemeindevorstand-1], wenn der Gemeindevorstand gemäss § 2 a des Gesetzes über die BVG- und Stiftungsaufsicht vom 11. Juli 2011 (BVSG[^hIIGemeindevorstand-2] beschliesst, die Aufsicht selber wahrzunehmen, und ist in diesem Fall Kantonsbehörde gemäss Art. 88 ZGB; §§ 13 und 14 BVSG gelten in diesem Fall sinngemäss. 3.<sup>53</sup> 4.<sup>53</sup> 5. für die Anfechtung des Kindesverhältnisses (Art. 259 Abs. 2 Ziff. 3, Art. 260 a Abs. 1 und Art. 269 a Abs. 1 ZGB[^hIIGemeindevorstand-1],
 
 - 6\. für Begehren von Amtes wegen um Verschollenerklärung (Art. 550 ZGB[^34-1],
 
@@ -98,11 +98,13 @@ I. Zivilstandsamt
 
 ### III. Bezirksrat
 
-§ 37.<sup>52</sup> <sup>1</sup> Stiftungen, die nach ihrer Bestimmung dem Bezirk oder mehreren Gemeinden desselben angehören, stehen unter Aufsicht des Bezirksrates (Art. 84 ZGB[^hIIIBezirksrat-1].
+#### § 37
 
-<sup>2</sup> §§ 13 und 14 des Gesetzes über die BVG- und Stiftungsaufsicht (BVSG) vom 11. Juli 2011[^hIIIBezirksrat-2] gelten sinngemäss.<sup>68</sup>
+<sup>1</sup> Stiftungen, die nach ihrer Bestimmung dem Bezirk oder mehreren Gemeinden desselben angehören, stehen unter Aufsicht des Bezirksrates (Art. 84 ZGB). Dieser ist Kantonsbehörde gemäss Art. 88 ZGB.<sup>83</sup>
 
-§ 38. Der Bezirksrat ist zuständig für das Begehren um Vollziehung einer vom Schenkgeber im Interesse des Bezirkes oder mehrerer Gemeinden desselben gemachten Auflage (Art. 246 Abs. 2 OR[^hIIIBezirksrat-3].
+<sup>2</sup> §§ 13 und 14 des Gesetzes über die BVG- und Stiftungsaufsicht (BVSG) vom 11. Juli 2011[^37-1] gelten sinngemäss.<sup>68</sup>
+
+§ 38. Der Bezirksrat ist zuständig für das Begehren um Vollziehung einer vom Schenkgeber im Interesse des Bezirkes oder mehrerer Gemeinden desselben gemachten Auflage (Art. 246 Abs. 2 OR[^37-2].
 
 §§ 39–40 a.<sup>74</sup>
 
@@ -110,19 +112,18 @@ I. Zivilstandsamt
 
 § 41.<sup>74</sup>
 
-[^hIIIBezirksrat-1]: SR 210.
-[^hIIIBezirksrat-2]: LS 833.1.
-[^hIIIBezirksrat-3]: SR 220.
+**3**
+
+- 1\. 7. 22 - 117
+
+[^37-1]: LS 833.1.
+[^37-2]: SR 220.
 
 ### IV. Handelsregisteramt
 
 § 42.[^hIVHandelsregistera-1] <sup>1</sup> Das Handelsregisteramt führt das Handelsregister und das Verzeichnis der Beibehaltungs- und Unterstellungserklärungen (Art. 9 e und 10 b Schlusstitel ZGB[^hIVHandelsregistera-2].
 
 <sup>2</sup> Es verwahrt das geschlossene Güterrechtsregister.
-
-**3**
-
-- 1\. 1. 22 - 115
 
 <sup>3</sup> Aufsichtsbehörde ist die zuständige Direktion des Regierungsrates[^hIVHandelsregistera-3].
 
@@ -188,6 +189,10 @@ I. Zivilstandsamt
 
 <sup>2</sup> Vorbehalten bleiben gesetzliche Bestimmungen für einzelne Fälle sowie die vom Zivilgesetzbuch vorgeschriebenen Veröffentlichungen im Schweizerischen Handelsamtsblatt.
 
+**5**
+
+- 1\. 7. 22 - 117
+
 ### Zweiter Titel: Kantonales Zivilrecht
 
 ### Erster Abschnitt: Personenrecht
@@ -195,10 +200,6 @@ I. Zivilstandsamt
 ### A. Elektronische Überwachung zum Schutz gewaltbetroffener Personen<sup>82</sup>
 
 § 48.<sup>82</sup> <sup>1</sup> Die für den Justizvollzug zuständige Direktion vollzieht die gerichtlich angeordnete elektronische Überwachung zum Schutz gewaltbetroffener Personen (Art. 28 c Abs. 1 ZGB[^hAElektronischeÜbe-1] und Art. 343 Abs. 1<sup>bis</sup> Schweizerische Zivilprozessordnung vom 19. Dezember 2008[^hAElektronischeÜbe-2].
-
-**5**
-
-- 1\. 1. 22 - 115
 
 <sup>2</sup> Das Gericht, das die elektronische Überwachung anordnet, auferlegt die Kosten des Vollzugs der gefährdenden Person unter Berücksichtigung ihrer finanziellen Verhältnisse.
 
@@ -270,6 +271,10 @@ Bei der Auflösung wird das Vermögen der Korporation an die Mitglieder verteilt
 
 § 56 b.<sup>74,</sup> <sup>76</sup> Die Zivilstandsämter melden die zusammen mit der Anerkennung abgegebene Erklärung über die gemeinsame elterliche Sorge unentgeltlich der Gemeinde, in der diese Personen als niedergelassen gemeldet sind. Die Meldung umfasst Namen und Adressen der sorgeberechtigten Personen.
 
+**7**
+
+- 1\. 7. 22 - 117
+
 [^hAAllgemeineBestim-1]: SR 210.
 [^hAAllgemeineBestim-2]: LS 232.3.
 
@@ -283,10 +288,6 @@ Bei der Auflösung wird das Vermögen der Korporation an die Mitglieder verteilt
 <sup>1</sup> Die für die Wohnsitzgemeinde der unterhaltsberechtigten Person zuständige Jugendhilfestelle ist zuständig für die Inkassohilfe gemäss Art. 131 Abs. 1 ZGB[^hAsupbissupEhe-1]. Sie wendet dabei sinngemäss die Gesetzgebung[^hAsupbissupEhe-2] zur Inkassohilfe in der ambulanten Kinder- und Jugendhilfe an.<sup>72</sup>
 
 <sup>2</sup> Die Inkassohilfe wird auch gewährleistet für Unterhaltsansprüche aus vorsorglichen Massnahmen, die im Rahmen von Scheidungs- oder Trennungsverfahren angeordnet wurden, sowie aus Eheschutzmassnahmen (Art. 173 und 176 ZGB[^57-1].
-
-**7**
-
-- 1\. 1. 22 - 115
 
 <sup>3</sup> Abs. 1 und 2 gelten sinngemäss für die Inkassohilfe im Zusammenhang mit der eingetragenen Partnerschaft (Art. 13 und 34 Abs. 4 PartG[^57-2].<sup>59</sup>
 
@@ -322,9 +323,7 @@ Bei der Auflösung wird das Vermögen der Korporation an die Mitglieder verteilt
 
 §§ 102–107.<sup>74</sup>
 
-§§ 108–116.<sup>74</sup>
-
-§ 117.<sup>74</sup>
+§§ 108–116.<sup>74</sup> § 117.<sup>74</sup>
 
 §§ 117 a–117 m.<sup>74</sup>
 
@@ -363,6 +362,10 @@ Der Staat bezahlt der Gemeinde, welche vier Jahre lang ein Findelkind versorgt h
 
 <sup>3</sup> Die KESB trifft die erforderlichen Massnahmen (Art. 318 Abs. 3, 324, 325 und 423 ZGB[^hDBetreibungsrechtl-3].
 
+**9**
+
+- 1\. 7. 22 - 117
+
 [^hDBetreibungsrechtl-1]: Fassung gemäss RRB vom 9. September 1987 (OS 50, 210). In Kraft seit 1. Januar 1988.
 [^hDBetreibungsrechtl-2]: Aufgehoben durch RRB vom 9. September 1987 (OS 50, 210). In Kraft seit 1. Januar 1988.
 [^hDBetreibungsrechtl-3]: SR 210.
@@ -370,10 +373,6 @@ Der Staat bezahlt der Gemeinde, welche vier Jahre lang ein Findelkind versorgt h
 ### E. Konkubinat
 
 #### § 123
-
-**9**
-
-- 1\. 1. 22 - 115
 
 ### Dritter Abschnitt: Erbrecht
 
@@ -449,7 +448,7 @@ Der Rechnungsruf ist im Amtsblatt zu veröffentlichen und am Wohnsitz und in der
 
 **11**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 <sup>2</sup> Gelangt ein landwirtschaftliches Grundstück von 60 oder mehr Aren zur Teilung, so muss der einzelne Teil mindestens 30 Aren ausmachen.
 
@@ -506,7 +505,7 @@ die zu einem Gebäude oder eine Einfriedigung gehörenden Schlüssel, Vorfenster
 
 **13**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 <sup>3</sup> Der Regierungsrat kann eine angemessene Konzessionsgebühr festsetzen, die nach der nutzbaren Förderung und der örtlichen und zeitlichen Ausdehnung der Verleihung zu bemessen ist.
 
@@ -572,7 +571,7 @@ Gegen das Pflanzen von Bäumen und Sträuchern auf öffentlichen Strassen, Plät
 
 **15**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 ### III. Tretrecht
 
@@ -648,7 +647,7 @@ Es bleiben vorbehalten die Bestimmungen über die Flur- und Feldwege, das Planun
 
 **17**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 <sup>3</sup> Das Gemeinwesen hat die Pflicht zur Rückerstattung der Entschädigung im Grundbuch anmerken zu lassen.
 
@@ -712,7 +711,7 @@ Von Gesetzes wegen bestehen folgende Pfandrechte:
 
 **19**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 - b. für Forderungen der Gemeinde aus den im Interesse der Feuerpolizei getroffenen baulichen Massnahmen gemäss § 4 Abs. 2 des genannten Gesetzes, c.[^194-2] zugunsten des Staates oder der Gemeinden für Forderungen, die ihnen aus Hochwasserschutzmassnahmen und Konzessionen gegen einzelne Grundeigentümer erwachsen (Wasserwirtschaftsgesetz[^194-3], d.
 
@@ -777,7 +776,7 @@ und -vermittler<sup>63</sup>
 
 **21**
 
-- 1\. 1. 22 - 115 § 203. <sup>1</sup> Der Pfandleiher darf an Zins nicht mehr als 1% für den Monat beziehen.
+- 1\. 7. 22 - 117 § 203. <sup>1</sup> Der Pfandleiher darf an Zins nicht mehr als 1% für den Monat beziehen.
 
 <sup>2</sup> Der Zins darf nicht vorausgenommen werden.
 
@@ -846,7 +845,7 @@ Die Anlage des Grundbuches erfolgt nach politischen Gemeinden. Das Obergericht k
 
 **23**
 
-- 1\. 1. 22 - 115 § 218. Die neben den Vorschriften des Bundes für die Grundbuchführung, insbesondere mit Rücksicht auf die bisherigen Einrichtungen und nach Massgabe des Bedürfnisses weiter erforderlichen Vorschriften werden durch eine Verordnung des Obergerichtes[^217-1] festgestellt.
+- 1\. 7. 22 - 117 § 218. Die neben den Vorschriften des Bundes für die Grundbuchführung, insbesondere mit Rücksicht auf die bisherigen Einrichtungen und nach Massgabe des Bedürfnisses weiter erforderlichen Vorschriften werden durch eine Verordnung des Obergerichtes[^217-1] festgestellt.
 
 [^217-1]: LS 252.1.
 [^217-2]: SR 210.
@@ -904,7 +903,7 @@ Wer ein rechtliches Interesse an der Vorzeigung einer beweglichen Sache hat und 
 
 **25**
 
-- 1\. 1. 22 - 115 § 231. Die Einsicht gerichtlicher oder notarialischer Akten und Protokolle oder anderer öffentlicher Urkunden ist Privatpersonen gestattet, sofern ein rechtliches Interesse an der Einsichtnahme bescheinigt wird.
+- 1\. 7. 22 - 117 § 231. Die Einsicht gerichtlicher oder notarialischer Akten und Protokolle oder anderer öffentlicher Urkunden ist Privatpersonen gestattet, sofern ein rechtliches Interesse an der Einsichtnahme bescheinigt wird.
 
 #### § 232
 
@@ -964,7 +963,7 @@ Der Notar ist für die Richtigkeit der von ihm bezeugten Tatsachen und für die 
 
 **27**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 <sup>2</sup> Sodann vollzieht der Notar die Beurkundung, indem er auf der Urkunde erklärt, diese enthalte den ihm mitgeteilten Parteiwillen, sei von den Parteien zur Kenntnis genommen, von ihnen genehmigt und unterzeichnet worden. Er siegelt und unterzeichnet die Urkunde unter Angabe von Ort und Zeit der Beurkundung.
 
@@ -1030,7 +1029,7 @@ Die Sicherung des Datums einer Privaturkunde erfolgt durch eine vom Beamten auf 
 
 **29**
 
-- 1\. 1. 22 - 115 § 250 a.<sup>77</sup> Wer zur Vornahme von Beglaubigungen ermächtigt ist, darf die Übereinstimmung einer von ihm erstellten elektronischen Abschrift mit dem Originaldokument auf Papier sowie die Echtheit von Unterschriften elektronisch beglaubigen.
+- 1\. 7. 22 - 117 § 250 a.<sup>77</sup> Wer zur Vornahme von Beglaubigungen ermächtigt ist, darf die Übereinstimmung einer von ihm erstellten elektronischen Abschrift mit dem Originaldokument auf Papier sowie die Echtheit von Unterschriften elektronisch beglaubigen.
 
 ### Dritter Titel: Übergangs- und Schlussbestimmungen
 
@@ -1095,7 +1094,7 @@ Ist der Erlös aus dem Grundstück eines Geschreiten ganz oder teilweise zur Bef
 
 **31**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 <sup>2</sup> Der Zeitpunkt der Einführung für die einzelnen Gemeinden oder Gemeindeteile (§ 217) wird durch das Obergericht bestimmt[^266-1]; es entscheidet über den Umfang der Bereinigung der bestehenden dinglichen Rechte (Art. 43 Schlusstitel ZGB[^266-2] und trifft die erforderlichen Anordnungen.
 
@@ -1174,7 +1173,7 @@ Für diejenigen zivilrechtlichen Verhältnisse, deren Ordnung dem kantonalen Rec
 
 **33**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 - e. die Verordnung betreffend die Rekurs- und Appellationsfristen im Verwaltungsfach vom 29. Juni 1844,
 
@@ -1270,9 +1269,11 @@ Sind in der Schirmlade einer Vormundschaftsbehörde Wertpapiere hinterlegt, die 
 
 <sup>82</sup> Eingefügt durch G vom 4. Oktober 2021 (OS 76, 663; ABl 2021-01-29). In Kraft seit 1. Januar 2022.
 
+<sup>83</sup> Fassung gemäss G vom 7. Februar 2022 (OS 77, 311; ABl 2020-09-04). In Kraft seit 1. Juli 2022.
+
 **37**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 ## Weitere Fussnoten
 
@@ -1281,4 +1282,4 @@ Sind in der Schirmlade einer Vormundschaftsbehörde Wertpapiere hinterlegt, die 
 - [36] Vgl. § 121 des Steuergesetzes vom 8. Juni 1997 (LS 631.1).
 - [43] Eingefügt durch G vom 20. Februar 1994 (OS 52, 817). In Kraft seit 1. November 1994 (OS 52, 819).
 - [44] Eingefügt durch G vom 12. März 1995 (OS 53, 167). In Kraft seit 1. Januar 1996 (OS 53, 170).
-- [45] Fassung gemäss G vom 12. März 1995 (OS 53, 167). In Kraft seit 1. Januar 1996 (OS 53, 170). 1. 1. 22 - 115 35
+- [45] Fassung gemäss G vom 12. März 1995 (OS 53, 167). In Kraft seit 1. Januar 1996 (OS 53, 170). 1. 7. 22 - 117 35
