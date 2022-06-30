@@ -4,11 +4,11 @@ title: Verordnung vom 23. November 2016 zum Hochschulförderungs- und -koordinat
 short: V-HFKG
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/741"
 language: de
-version: 2020-04-01
+version: 2022-07-01
 adopted: 2016-11-23
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/741/20200401/de/xml/fedlex-data-admin-ch-eli-cc-2016-741-20200401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20200401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/741/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2016-741-20220701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20200401/de"
 
 (V-HFKG)
 
-vom 23. November 2016 (Stand am 1. April 2020)
+vom 23. November 2016 (Stand am 1. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -267,9 +267,9 @@ Sie werden in drei Tranchen ausgerichtet:
 - b. 40 Prozent Mitte des Jahres, errechnet auf der Basis der Grundbeiträge des Vorjahres;
 - c. der Restbetrag nach Eintritt der Rechtskraft der Verfügung über die Verteilung der Grundbeiträge, errechnet auf der Basis der Grundbeiträge des laufenden Jahres.
 
-<sup>3</sup> Werden keine Grundbeiträge mehr gewährt und ist einem Kanton ein Beitrag nach Artikel 14 des Universitätsförderungsgesetzes vom 8. Oktober 1999[^17-1] und den zugehörigen Ausführungsvorschriften entgangen, so wird ihm ein letzter Beitrag nach den genannten Vorschriften teuerungsbereinigt ausgerichtet.
+<sup>3</sup> …[^17-1]
 
-[^17-1]: [[AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146)]
+[^17-1]: Aufgehoben durch Ziff. I der V vom 3. Juni 2022, mit Wirkung seit 1. Juli 2022 ([AS 2022 340](https://fedlex.data.admin.ch/eli/oc/2022/340)).
 
 ### 4. Abschnitt:**** Anpassung der Grundbeiträge bei einer Abweichung von den Teuerungsprognosen
 
@@ -949,8 +949,8 @@ Das WBF regelt die Einzelheiten zur Beitragsberechtigung, zur Bemessung der beit
 
 <sup>2</sup> Artikel 75 Absatz 2 HFKG gilt auch für eine Hochschule oder eine andere Institution des Hochschulbereichs, die in veränderter Organisationsform institutionell akkreditiert wird.
 
-[^66-1]: [AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24), [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787), [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447), [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812), [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)
-[^66-2]: [AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)
+[^66-1]: [AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812); [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)
+[^66-2]: [AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588); [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171); [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)
 
 #### Art. 67
 
@@ -991,7 +991,7 @@ Die Kohäsionsbeiträge betragen von den Mitteln, die für die Ausrichtung der G
 
 <sup>3</sup> Bei Nichterfüllung der Voraussetzungen für die Genehmigung kann der Bundesrat die Genehmigung befristen, mit Auflagen versehen oder entziehen.
 
-[^68-1]: [AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)
+[^68-1]: [AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588); [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171); [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)
 
 ### 4. Abschnitt: Inkrafttreten und Geltungsdauer
 

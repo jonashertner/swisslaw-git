@@ -4,11 +4,11 @@ title: "Ordonnance du 23 novembre 2016 relative à la loi sur l'encouragement et
 short: O-LEHE
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/741"
 language: fr
-version: 2020-04-01
+version: 2022-07-01
 adopted: 2016-11-23
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/741/20200401/fr/xml/fedlex-data-admin-ch-eli-cc-2016-741-20200401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20200401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/741/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2016-741-20220701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20200401/fr"
 
 (O-LEHE)
 
-du 23 novembre 2016 (Etat le 1<sup>er</sup> avril 2020)
+du 23 novembre 2016 (Etat le 1<sup>er</sup> juillet 2022)
 
 Le Conseil fédéral suisse,
 
@@ -267,9 +267,9 @@ Elles sont versées en trois tranches:
 - b. 40 % du montant annuel calculé sur la base de la contribution de base de l’année précédente est versé en milieu d’année;
 - c. le reste est versé après entrée en force de la décision relative à la répartition des contributions de base, calculée sur la base des contributions de base de l’année en cours.
 
-<sup>3</sup> En cas de cessation de l’allocation de contributions de base, le canton qui aura été privé d’une contribution annuelle au sens de l’art. 14 de la loi du 8 octobre 1999 sur l’aide aux universités[^17-1] et des dispositions d’exécution y relatives se verra verser une dernière contribution selon lesdites dispositions, indexée sur le renchérissement.
+<sup>3</sup> …[^17-1]
 
-[^17-1]: [RO 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146)
+[^17-1]: Abrogé par le ch. I de l’O du 3 juin 2022, avec effet au 1<sup>er</sup> juil. 2022 ([RO 2022 340](https://fedlex.data.admin.ch/eli/oc/2022/340)).
 
 ### Section 4**** Adaptation des contributions de base en cas d’écart par rapport aux prévisions de renchérissement
 

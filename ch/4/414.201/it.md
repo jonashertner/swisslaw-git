@@ -4,11 +4,11 @@ title: Ordinanza del 23 novembre 2016 concernente la legge sulla promozione e su
 short: O-LPSU
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/741"
 language: it
-version: 2020-04-01
+version: 2022-07-01
 adopted: 2016-11-23
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/741/20200401/it/xml/fedlex-data-admin-ch-eli-cc-2016-741-20200401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20200401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/741/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2016-741-20220701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20200401/it"
 
 (O-LPSU)
 
-del 23 novembre 2016 (Stato 1° aprile 2020)
+del 23 novembre 2016 (Stato 1° luglio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -267,11 +267,11 @@ Sono versati in tre rate:
 - b. il 40 per cento a metà dell’anno, calcolato secondo i sussidi di base dell’anno precedente;
 - c. l’importo residuo, calcolato secondo i sussidi di base dell’anno in corso, dopo il passaggio in giudicato della decisione sulla ripartizione dei sussidi di base.
 
-<sup>3</sup> Se non sono più concessi sussidi e a un Cantone non è stato versato un sussidio ai sensi dell’articolo 14 della legge dell’8 ottobre 1999[^17-1] sull’aiuto alle università e delle relative disposizioni esecutive, tale Cantone riceverà un ultimo sussidio al netto del rincaro secondo le prescrizioni menzionate.
+<sup>3</sup> ...[^17-1]
 
-[^17-1]: [RU 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146)
+[^17-1]: Abrogato dal n. I dell’O del 3 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 340](https://fedlex.data.admin.ch/eli/oc/2022/340)).
 
-### Sezione 4:**** Adeguamento dei sussidi di base in caso di scostamento dalle previsioni sul rincaro
+### Sezione 4: Adeguamento dei sussidi di base in caso di scostamento dalle previsioni sul rincaro
 
 [^chap3-sec4-1]
 
