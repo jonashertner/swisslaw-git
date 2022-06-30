@@ -4,13 +4,13 @@ number: "177.42"
 title: Pensionskassenreglement
 short: R PKTG
 language: de
-version: 2022-01-01
-valid_until: 2022-06-30
-version_adopted: 2021-06-09
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2022-06-08
 adopted: 2019-06-12
 in_force: 2020-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/177.42"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2032/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2527/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ R PKTG
 
 (R PKTG)
 
-vom 12.06.2019 (Stand 01.01.2022)
+vom 12.06.2019 (Stand 01.07.2022)
 
 Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
@@ -54,16 +54,16 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>1</sup> In der PKTG sind unter Vorbehalt von Abs. 2 nachfolgende Personen versichert, sofern sie unter das Versicherungsobligatorium des BVG fallen:
 
-- 1\. die vom Kanton besoldeten Personen;
-- 2\. die Lehrpersonen an den thurgauischen Volksschulen;
-- 3\. Arbeitnehmerinnen und Arbeitnehmer von weiteren angeschlossenen Arbeitgebern (§ 1 Abs. 5).
+- 1\. die vom Kanton besoldeten Personen
+- 2\. die Lehrpersonen an den thurgauischen Volksschulen
+- 3\. Arbeitnehmerinnen und Arbeitnehmer von weiteren angeschlossenen Arbeitgebern (§ 1 Abs. 5)
 
 <sup>2</sup> Nicht in den Versichertenkreis aufgenommen werden Personen, die von der obligatorischen Versicherung gemäss Art. 1j der Verordnung über die berufliche Alters- und Hinterlassenen- und Invalidenvorsorge (BVV 2)[^2-1] ausgenommen sind und Personen, die das ordentliche Pensionierungsalter gemäss § 11 Abs. 1 überschritten haben.
 
 <sup>3</sup> Freiwillig können sich in der PKTG versichern lassen:
 
-- 1\. Personen mit einem Jahreslohn bei einem angeschlossenen Arbeitgeber ab der Höhe der minimalen AHV-Altersrente;
-- 2\. Personen mit einem Gesamtlohn bei weiteren Arbeitgebern, der den Mindestlohn gemäss BVG übersteigt.
+- 1\. Personen mit einem Jahreslohn bei einem angeschlossenen Arbeitgeber ab der Höhe der minimalen AHV-Altersrente
+- 2\. Personen mit einem Gesamtlohn bei weiteren Arbeitgebern, der den Mindestlohn gemäss BVG übersteigt
 
 [^2-1]: SR [831.441.1](https://db.clex.ch/link/Bund/831.441.1/de)
 
@@ -189,10 +189,10 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>1</sup> Die PKTG kann folgende Beiträge erheben:
 
-- 1\. Sparbeitrag;
-- 2\. Risikobeitrag;
-- 3\. Verwaltungskostenbeitrag;
-- 4\. Sanierungsbeitrag.
+- 1\. Sparbeitrag
+- 2\. Risikobeitrag
+- 3\. Verwaltungskostenbeitrag
+- 4\. Sanierungsbeitrag
 
 <sup>2</sup> Der Sanierungsbeitrag wird ausschliesslich zur Beseitigung einer Unterdeckung gemäss § 64 erhoben.
 
@@ -204,10 +204,10 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>2</sup> Die Beitragspflicht endet mit:
 
-- 1\. dem Austritt aus der PKTG;
-- 2\. dem Beginn des Rentenaufschubes;
-- 3\. dem Tod der versicherten Person;
-- 4\. dem Ende des Monats, in dem die versicherte Person das 70. Altersjahr vollendet hat.
+- 1\. dem Austritt aus der PKTG
+- 2\. dem Beginn des Rentenaufschubes
+- 3\. dem Tod der versicherten Person
+- 4\. dem Ende des Monats, in dem die versicherte Person das 70. Altersjahr vollendet hat
 
 <sup>3</sup> Ab dem ordentlichen Pensionierungsalter kann die versicherte Person auf die Beitragspflicht verzichten. Der Verzicht ist endgültig.
 
@@ -231,14 +231,14 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>2</sup> Das Sparguthaben berechnet sich aus:
 
-- 1\. den Spargutschriften;
-- 2\. den eingebrachten Freizügigkeitsleistungen;
-- 3\. Einkäufen der versicherten Person;
-- 4\. Einlagen des Arbeitgebers oder der PKTG;
-- 5\. den Bezügen oder Rückzahlungen von Vorbezügen im Rahmen der Wohneigentumsförderung;
-- 6\. den zu leistenden oder erhaltenen Ausgleichszahlungen infolge Ehescheidung;
-- 7\. der Reduktion infolge Teilpensionierung, Überbrückungsrente oder Kapitalabfindung;
-- 8\. den Zinsen.
+- 1\. den Spargutschriften
+- 2\. den eingebrachten Freizügigkeitsleistungen
+- 3\. Einkäufen der versicherten Person
+- 4\. Einlagen des Arbeitgebers oder der PKTG
+- 5\. den Bezügen oder Rückzahlungen von Vorbezügen im Rahmen der Wohneigentumsförderung
+- 6\. den zu leistenden oder erhaltenen Ausgleichszahlungen infolge Ehescheidung
+- 7\. der Reduktion infolge Teilpensionierung, Überbrückungsrente oder Kapitalabfindung
+- 8\. den Zinsen
 
 <sup>3</sup> Die Höhe der Spargutschriften hängt von der Wahl des Sparplanes durch die versicherte Person ab.
 
@@ -260,15 +260,15 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>4</sup> Die maximale Einkaufssumme wird durch folgende Bezüge der versicherten Person reduziert:
 
-- 1\. das Sparguthaben, das ihr infolge Pensionierung oder Teilpensionierung verrentet oder ausbezahlt wurde;
-- 2\. ein allfälliges Guthaben der Säule 3a, soweit es die Grenze von Art. 60a Abs. 2 der Verordnung über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVV 2) übersteigt;
-- 3\. allfällige noch nicht eingebrachte Austrittsleistungen aus früheren Vorsorgeverhältnissen.
+- 1\. das Sparguthaben, das ihr infolge Pensionierung oder Teilpensionierung verrentet oder ausbezahlt wurde
+- 2\. ein allfälliges Guthaben der Säule 3a, soweit es die Grenze von Art. 60a Abs. 2 der Verordnung über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVV 2) übersteigt
+- 3\. allfällige noch nicht eingebrachte Austrittsleistungen aus früheren Vorsorgeverhältnissen
 
 <sup>5</sup> Nicht als Einkauf gemäss Abs. 2 gelten:
 
-- 1\. Rückzahlungen allfälliger Vorbezüge für die Wohneigentumsförderung;
-- 2\. Rückzahlungen allfällig übertragener Austrittsleistungen infolge einer Scheidung;
-- 3\. eingebrachte Guthaben infolge einer Scheidung.
+- 1\. Rückzahlungen allfälliger Vorbezüge für die Wohneigentumsförderung
+- 2\. Rückzahlungen allfällig übertragener Austrittsleistungen infolge einer Scheidung
+- 3\. eingebrachte Guthaben infolge einer Scheidung
 
 <sup>6</sup> Ein Einkauf ist nur möglich, sofern allfällige Vorbezüge für die Wohneigentumsförderung bereits zurückbezahlt sind.
 
@@ -365,9 +365,9 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 **Kapitalauszahlung**
 
-<sup>1</sup> Die versicherte Person kann bei der Pensionierung an Stelle der Altersrente maximal die Hälfte des Sparguthabens in Kapitalform beziehen. Die Beschränkungen von § 16 Abs. 8 und § 26 Abs. 2 gelten dabei sinngemäss.
+<sup>1</sup> Die versicherte Person kann bei der Pensionierung an Stelle der Altersrente das Sparguthaben in Kapitalform beziehen. Die Beschränkungen von § 16 Abs. 8 und § 26 Abs. 2 gelten dabei sinngemäss.
 
-<sup>2</sup> Eine entsprechende schriftliche Erklärung muss mindestens sechs Monate vor der Pensionierung oder einem Rentenaufschub abgegeben werden und ist ab diesem Zeitpunkt unwiderruflich. Wenn die Kapitalauszahlung das Doppelte der maximalen AHV-Rente nicht überschreitet, muss die Erklärung spätestens vor Rentenbeginn abgegeben werden.
+<sup>2</sup> Eine entsprechende schriftliche Erklärung muss mindestens drei Monate vor der Pensionierung oder einem Rentenaufschub abgegeben werden und ist ab diesem Zeitpunkt unwiderruflich. Wenn die Kapitalauszahlung das Doppelte der maximalen AHV-Rente nicht überschreitet, muss die Erklärung spätestens vor Rentenbeginn abgegeben werden.
 
 <sup>3</sup> Erfolgt die vorzeitige Pensionierung aufgrund einer Kündigung durch den Arbeitgeber und ist keine schriftliche Erklärung vorhanden, so wird die Kapitalabfindung trotzdem gewährt, wenn innerhalb der Kündigungsfrist eine solche Erklärung abgegeben wird.
 
@@ -403,7 +403,7 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>1</sup> Wird eine Überbrückungsrente bezogen, so reduziert sich das bei der vorzeitigen Pensionierung vorhandene Sparguthaben um den Kapitalwert der Überbrückungsrente.
 
-<sup>2</sup> Die Kürzung des Sparguthabens darf maximal dazu führen, dass die Altersrente nach einer allfälligen Kapitalauszahlung gemäss § 23 halbiert wird. Übersteigt die Kürzung diesen Wert, reduziert sich die zulässige Höhe der Überbrückungsrente entsprechend.
+<sup>2</sup> …
 
 ### 5.3. Pensionierten-Kinderrente
 
@@ -437,7 +437,7 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>1</sup> Versicherte, die am 31. Dezember 2019 Mitglied der PKTG sind, haben Anspruch auf die Zusatzrente.
 
-<sup>2</sup> Eine Zusatzrente wird ab dem Monatsersten nach Vollendung des 63. Altersjahres ausgerichtet, wenn die versicherte Person eine Altersrente bezieht, die entsprechenden Voraussetzungen erfüllt und Antrag auf Bezug einer Zusatzrente gestellt hat. Die Zusatzrente wird bis zum Erreichen des ordentlichen AHV-Rentenalters ausbezahlt, sofern keine Renten der IV ausgerichtet werden.
+<sup>2</sup> Eine Zusatzrente wird ab dem Monatsersten nach Vollendung des 63. Altersjahres ausgerichtet, die entsprechenden Voraussetzungen erfüllt sind und Antrag auf Bezug einer Zusatzrente gestellt wurde. Die Zusatzrente wird bis zum Erreichen des ordentlichen AHV-Rentenalters ausbezahlt, sofern keine Renten der IV ausgerichtet werden.
 
 #### § 30
 
@@ -497,7 +497,7 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 **Anspruch auf Ehegattenrente**
 
-<sup>1</sup> Stirbt eine versicherte Person oder eine Person mit einer Alters- oder Invalidenrente, so hat ihr überlebender Ehegatte Anspruch auf eine Ehegattenrente, sofern er im Zeitpunkt des Todes:
+<sup>1</sup> Stirbt eine versicherte Person oder eine Person mit einer Alters- oder Invalidenrente, so hat ihr überlebender Ehegatte Anspruch auf eine Ehegattenrente, sofern er im Zeitpunkt des Todes
 
 - 1\. für den Unterhalt mindestens eines Kindes aufkommen muss oder
 - 2\. älter als 45 Jahre ist und mindestens 5 Jahre mit der verstorbenen Person verheiratet war, wobei Jahre in der Lebensgemeinschaft gemäss § 37 anzurechnen sind. Frühere Ehejahre bei Wiederverheiratung mit dem gleichen Partner werden angerechnet.
@@ -532,13 +532,13 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>1</sup> Der Lebenspartner ist dem Ehegatten gleichgestellt, wenn die folgenden Voraussetzungen kumulativ erfüllt sind:
 
-- 1\. Beide Lebenspartner sind unverheiratet;
-- 2\. die beiden Lebenspartner sind nicht im Sinne von Art. 95 ZGB[^37-1] miteinander verwandt;
-- 3\. die versicherte Person hat vor dem letzten Pensionierungsschritt einen von beiden Partnern unterzeichneten Antrag eingereicht, der von der Pensionskassenverwaltung schriftlich bestätigt worden ist.
+- 1\. Beide Lebenspartner sind unverheiratet
+- 2\. die beiden Lebenspartner sind nicht im Sinne von Art. 95 ZGB[^37-1] miteinander verwandt
+- 3\. die Anmeldung hat zu Lebzeiten der beiden Lebenspartner und vor dem letzten Pensionierungsschritt zu erfolgen. Die Lebenspartnerschaft kann auch rückwirkend von verheirateten Personen angemeldet werden, damit die Jahre in Lebenspartnerschaft angerechnet werden. Es kann nur ein Lebenspartner angemeldet werden. Die Anmeldung hat mit dem von beiden Lebenspartnern unterschriebenen Formular der Pensionskasse zu erfolgen. Die Pensionskassenverwaltung bestätigt den Eingang der Unterlagen. Sie überprüft im Leistungfall, ob die Anspruchsvoraussetzungen gemäss den eingereichten Unterlagen gegeben sind. Der Versicherte, Alters- oder Invalidenrentner hat eine allfällige Auflösung der Lebenspartnerschaft der Pensionskassenverwaltung umgehend schriftlich zu melden.
 
 <sup>2</sup> Stirbt eine unverheiratete versicherte Person oder eine Person mit Alters- oder Invalidenrente, so hat der überlebende Lebenspartner oder die überlebende Lebenspartnerin Anspruch auf eine Lebenspartnerrente, sofern im Zeitpunkt des Todes, zusätzlich zu den unter Abs. 1 genannten Voraussetzungen, mindestens eine der folgenden Bedingungen erfüllt ist:
 
-- 1\. Der Lebenspartner oder die Lebenspartnerin muss älter als 45 Jahre sein und im Zeitpunkt des Todes seit mindestens 5 Jahren denselben amtlichen Wohnsitz wie die verstorbene Person haben;
+- 1\. Der Lebenspartner oder die Lebenspartnerin muss älter als 45 Jahre sein und im Zeitpunkt des Todes seit mindestens 5 Jahren denselben amtlichen Wohnsitz wie die verstorbene Person haben
 - 2\. der Lebenspartner oder die Lebenspartnerin kommt für den Unterhalt mindestens eines gemeinsamen Kindes auf.
 
 [^37-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
@@ -581,12 +581,12 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>1</sup> Stirbt eine versicherte Person oder eine invalide Person vor der Pensionierung, wird den Anspruchsberechtigten ein Todesfallkapital ausbezahlt. Anspruch auf ein Todesfallkapital haben die Hinterlassenen unabhängig vom Erbrecht nach folgender, nicht veränderbaren, Rangordnung:
 
-- 1\. der überlebende Ehegatte;
-- 2\. die Person, die gemäss § 37 als Lebenspartnerin oder Lebenspartner angemeldet wurde und mit der verstorbenen Person vor seinem Tod seit mindestens 5 Jahren denselben amtlichen Wohnsitz hatte;
-- 3\. die natürlichen Personen, die von der verstorbenen Person in erheblichem Masse unterstützt wurden;
-- 4\. die Kinder der verstorbenen Person, die die Voraussetzungen für eine Waisenrente nicht erfüllen;
-- 5\. die Eltern der verstorbenen Person;
-- 6\. die Geschwister der verstorbenen Person.
+- 1\. der überlebende Ehegatte
+- 2\. die Person, die gemäss § 37 als Lebenspartnerin oder Lebenspartner angemeldet wurde und mit der verstorbenen Person vor seinem Tod seit mindestens 5 Jahren denselben amtlichen Wohnsitz hatte
+- 3\. die natürlichen Personen, die von der verstorbenen Person in erheblichem Masse unterstützt wurden
+- 4\. die Kinder der verstorbenen Person, die die Voraussetzungen für eine Waisenrente nicht erfüllen
+- 5\. die Eltern der verstorbenen Person
+- 6\. die Geschwister der verstorbenen Person
 
 #### § 42
 
@@ -634,10 +634,10 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>1</sup> Die Austrittsleistung wird zu Gunsten der ausgetretenen versicherten Person ihrer neuen Vorsorgeeinrichtung in der Schweiz oder Liechtenstein überwiesen. Tritt die versicherte Person nicht in eine neue Vorsorgeeinrichtung in der Schweiz oder Liechtenstein ein, ist die Austrittsleistung auf ein Freizügigkeitskonto zu überweisen oder zur Bestellung einer Freizügigkeitspolice bei einer Freizügigkeitseinrichtung in der Schweiz zu verwenden.
 
-<sup>2</sup> Auf schriftliches Verlangen der austretenden versicherten Person wird die Austrittsleistung bar ausbezahlt, wenn:
+<sup>2</sup> Auf schriftliches Verlangen der austretenden versicherten Person wird die Austrittsleistung bar ausbezahlt, wenn
 
-- 1\. sie die Schweiz endgültig verlässt und dabei nicht in Liechtenstein Wohnsitz nimmt;
-- 2\. sie eine selbstständige Erwerbstätigkeit aufnimmt und der obligatorischen beruflichen Vorsorge nicht mehr unterstellt ist;
+- 1\. sie die Schweiz endgültig verlässt und dabei nicht in Liechtenstein Wohnsitz nimmt,
+- 2\. sie eine selbstständige Erwerbstätigkeit aufnimmt und der obligatorischen beruflichen Vorsorge nicht mehr unterstellt ist oder
 - 3\. die Austrittsleistung weniger als dem Sparbeitrag pro Jahr der versicherten Person entspricht.
 
 <sup>3</sup> Unterliegt eine versicherte Person, die die Schweiz oder Liechtenstein endgültig verlässt, weiterhin der obligatorischen Versicherungspflicht für die Risiken Alter, Tod und Invalidität in einem Mitgliedstaat der EU, in Island oder Norwegen, ist eine Barauszahlung der Austrittsleistung nur soweit möglich, als sie die gesetzliche Austrittsleistung gemäss BVG übersteigt. Die gesetzliche Austrittsleistung gemäss BVG wird nach Abs. 1 an eine Freizügigkeitseinrichtung nach Wahl der versicherten Person überwiesen.
@@ -702,14 +702,14 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>2</sup> Als anrechenbare Einkünfte im Sinne von Abs. 1 gelten:
 
-- 1\. Renten der AHV/IV (und/oder in- und ausländischer Sozialversicherungen), mit Ausnahme von Hilflosenentschädigungen, Abfindungen und ähnlichen Leistungen;
-- 2\. Renten der obligatorischen Unfallversicherung;
-- 3\. Renten der Militärversicherung;
-- 4\. Leistungen einer Versicherung, an welche der Arbeitgeber oder an seiner Stelle die PKTG mindestens 50 % der Prämien bezahlt hat;
-- 5\. Leistungen anderer Vorsorgeeinrichtungen und Freizügigkeitseinrichtungen;
-- 6\. Leistungen eines haftpflichtigen Dritten;
-- 7\. allfällig tatsächlich erzieltes oder erzielbares Bruttoerwerbseinkommen;
-- 8\. allfällige Leistungen der Arbeitslosenversicherung einer Invalidenrentnerin oder eines Invalidenrentners.
+- 1\. Renten der AHV/IV (und/oder in- und ausländischer Sozialversicherungen), mit Ausnahme von Hilflosenentschädigungen, Abfindungen und ähnlichen Leistungen
+- 2\. Renten der obligatorischen Unfallversicherung
+- 3\. Renten der Militärversicherung
+- 4\. Leistungen einer Versicherung, an welche der Arbeitgeber oder an seiner Stelle die PKTG mindestens 50 % der Prämien bezahlt hat
+- 5\. Leistungen anderer Vorsorgeeinrichtungen und Freizügigkeitseinrichtungen
+- 6\. Leistungen eines haftpflichtigen Dritten
+- 7\. allfällig tatsächlich erzieltes oder erzielbares Bruttoerwerbseinkommen
+- 8\. allfällige Leistungen der Arbeitslosenversicherung einer Invalidenrentnerin oder eines Invalidenrentners
 
 <sup>3</sup> Beträgt der IV-Grad der Eidgenössischen Invalidenversicherung zwischen 70 % und 100 % und besteht eine Überversicherung aufgrund des rechnerisch erzielbaren Bruttoerwerbseinkommens, kann die Pensionskassenverwaltung eine vertrauensärztliche Untersuchung zur Festlegung der Resterwerbsfähigkeit veranlassen, sofern die IV kein Valideneinkommen definiert hat. Aufgrund dieses Berichtes legt sie das zumutbare Bruttoerwerbseinkommen für die Rentenberechnung fest.
 
@@ -833,8 +833,8 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>2</sup> Die Sanierungslast wird zu 56 % von den Arbeitgebern getragen. Als Sanierungslast gelten:
 
-- 1\. die Sanierungsbeiträge der Arbeitgeber;
-- 2\. die Sanierungsbeiträge und die Minderverzinsung der Sparguthaben unter dem realen Zinsziel von 2 % der versicherten Personen.
+- 1\. die Sanierungsbeiträge der Arbeitgeber
+- 2\. die Sanierungsbeiträge und die Minderverzinsung der Sparguthaben unter dem realen Zinsziel von 2 % der versicherten Personen
 
 <sup>3</sup> Für weiterversicherte Personen nach § 6a hat der Arbeitgeber keine Sanierungsbeiträge zu entrichten.
 
@@ -844,11 +844,11 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>1</sup> Führen Massnahmen zur Behebung der Unterdeckung nicht zum Ziel, kann die Pensionskassenkommission folgende weitere Massnahmen beschliessen:
 
-- 1\. Minder- oder Nullverzinsung gegenüber dem realen Zinsziel von 2 % im Anrechnungsprinzip;
-- 2\. Sanierungsbeiträge;
-- 3\. Einmaleinlagen der Arbeitgeber;
-- 4\. Aufhebung freiwilliger Rentenerhöhungen;
-- 5\. Einschränkungen von Vorbezügen für Wohneigentum zur Amortisation bestehender Hypotheken.
+- 1\. Minder- oder Nullverzinsung gegenüber dem realen Zinsziel von 2 % im Anrechnungsprinzip
+- 2\. Sanierungsbeiträge
+- 3\. Einmaleinlagen der Arbeitgeber
+- 4\. Aufhebung freiwilliger Rentenerhöhungen
+- 5\. Einschränkungen von Vorbezügen für Wohneigentum zur Amortisation bestehender Hypotheken
 
 <sup>2</sup> Die Arbeitgeber können auf Arbeitgeberbeitragsreserven einen Verwendungsverzicht erklären.
 
@@ -866,11 +866,11 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>2</sup> Kriterien für eine unterschiedliche Berücksichtigung sind:
 
-- 1\. der Beginn des Rentenbezugs:
-- 2\. die Verzinsung der Sparguthaben;
-- 3\. der Umwandlungssatz;
-- 4\. erhaltene Leistungen aus Übergangsbestimmungen;
-- 5\. allfällige Arbeitnehmer-Sanierungsbeiträge.
+- 1\. der Beginn des Rentenbezugs
+- 2\. die Verzinsung der Sparguthaben
+- 3\. der Umwandlungssatz
+- 4\. erhaltene Leistungen aus Übergangsbestimmungen
+- 5\. allfällige Arbeitnehmer-Sanierungsbeiträge
 
 ## 12. Organisation und Verwaltung
 
@@ -882,25 +882,25 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>2</sup> Bestimmung der Arbeitnehmervertreter:
 
-- 1\. 13 durch personalthurgau aus den Arbeitnehmerinnen und Arbeitnehmern des Kantons oder der angeschlossenen Arbeitgeber (§ 2 Abs. 1 Ziff. 1 und Ziff. 3), wobei die einzelnen Gruppierungen angemessen zu berücksichtigen sind;
-- 2\. 1 durch personalthurgau aus den Personen mit Alters- oder Invalidenrente;
-- 3\. 1 durch den Verband der Kantonspolizei Thurgau aus den Mitarbeitenden der Kantonspolizei;
-- 4\. 9 durch die Berufsorganisation Bildung Thurgau aus den Lehrpersonen an den thurgauischen Volksschulen (§ 2 Abs. 1 Ziff. 3), wobei die Stufen und Fachschaften angemessen zu berücksichtigen sind;
-- 5\. 1 durch die Berufsorganisation Bildung Thurgau aus den Personen mit Alters- oder Invalidenrente.
+- 1\. 13 durch personalthurgau aus den Arbeitnehmerinnen und Arbeitnehmern des Kantons oder der angeschlossenen Arbeitgeber (§ 2 Abs. 1 Ziff. 1 und Ziff. 3), wobei die einzelnen Gruppierungen angemessen zu berücksichtigen sind
+- 2\. 1 durch personalthurgau aus den Personen mit Alters- oder Invalidenrente
+- 3\. 1 durch den Verband der Kantonspolizei Thurgau aus den Mitarbeitenden der Kantonspolizei
+- 4\. 9 durch die Berufsorganisation Bildung Thurgau aus den Lehrpersonen an den thurgauischen Volksschulen (§ 2 Abs. 1 Ziff. 3), wobei die Stufen und Fachschaften angemessen zu berücksichtigen sind
+- 5\. 1 durch die Berufsorganisation Bildung Thurgau aus den Personen mit Alters- oder Invalidenrente
 
 <sup>3</sup> Bestimmung der Arbeitgebervertreter:
 
-- 1\. 9 durch den Regierungsrat;
-- 2\. 5 durch die Spital Thurgau AG;
-- 3\. 1 durch die Stiftung Mansio oder die PHTG;
-- 4\. 10 durch den Verband Thurgauer Schulgemeinden (VTGS).
+- 1\. 9 durch den Regierungsrat
+- 2\. 5 durch die Spital Thurgau AG
+- 3\. 1 durch die Stiftung Mansio oder die PHTG
+- 4\. 10 durch den Verband Thurgauer Schulgemeinden (VTGS)
 
 <sup>4</sup> Die Amtsdauer beträgt vier Jahre.
 
 <sup>5</sup> Aufgaben der Delegierten:
 
-- 1\. Stellungnahme zu strategischen Vorhaben der Pensionskasse;
-- 2\. Kenntnisnahme des Geschäftsberichts, des Berichts des versicherungstechnischen Experten und des Berichts der Kontrollstelle.
+- 1\. Stellungnahme zu strategischen Vorhaben der Pensionskasse
+- 2\. Kenntnisnahme des Geschäftsberichts, des Berichts des versicherungstechnischen Experten und des Berichts der Kontrollstelle
 
 <sup>6</sup> Die Delegiertenversammlung wird von der Präsidentin oder dem Präsidenten der Pensionskassenkommission jeweils im zweiten Quartal durch schriftliche Einladung einberufen. Die Delegiertenversammlung wird mindestens 45 Tage im Voraus angekündigt. Jedem Delegierten steht das Recht zu, Anliegen einzubringen. Diese sind mindestens 30 Tage vor der Delegiertenversammlung schriftlich an die Präsidentin oder den Präsidenten zu richten. Die Einladungen müssen mindestens 10 Tage vor der Versammlung versandt werden. Die Präsidentin oder der Präsident der Pensionskassenkommission führt den Vorsitz.
 
@@ -916,8 +916,8 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>4</sup> Die Nomination und Wahl der Arbeitnehmervertreter der Pensionskassenkommission erfolgt wie folgt:
 
-- 1\. Die Nomination erfolgt durch die Verbände personalthurgau und Bildung Thurgau;
-- 2\. Die Wahl bedarf einer Mehrheit der an der Delegiertenversammlung anwesenden Arbeitnehmer-Delegierten.
+- 1\. Die Nomination erfolgt durch die Verbände personalthurgau und Bildung Thurgau
+- 2\. Die Wahl bedarf einer Mehrheit der an der Delegiertenversammlung anwesenden Arbeitnehmer-Delegierten
 
 <sup>5</sup> Die Amtsdauer beträgt vier Jahre, maximal bis zum ordentlichen Pensionierungsalter gemäss § 11. Die Wiederwahl ist möglich.
 
@@ -941,9 +941,9 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>1</sup> Die Leitung der Pensionskassenverwaltung obliegt dem Direktor oder der Direktorin. Der Direktor oder die Direktorin:
 
-- 1\. führt die Verwaltung der PKTG gemäss den Weisungen der Pensionskassenkommission;
-- 2\. nimmt mit beratender Stimme an den Sitzungen teil;
-- 3\. ist im Zusammenhang mit der Pensionskassenkommission für die Aus- und Weiterbildung der Mitglieder der Organe der PKTG sowie der Mitarbeiterinnen und Mitarbeiter der Pensionskassenverwaltung besorgt.
+- 1\. führt die Verwaltung der PKTG gemäss den Weisungen der Pensionskassenkommission
+- 2\. nimmt mit beratender Stimme an den Sitzungen teil
+- 3\. ist im Zusammenhang mit der Pensionskassenkommission für die Aus- und Weiterbildung der Mitglieder der Organe der PKTG sowie der Mitarbeiterinnen und Mitarbeiter der Pensionskassenverwaltung besorgt
 
 #### § 71
 
