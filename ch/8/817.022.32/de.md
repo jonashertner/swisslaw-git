@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 16. Dezember 2016 über den Zusatz von Vitaminen,
 short: VZVM
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/161"
 language: de
-version: 2020-07-01
+version: 2022-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/161/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2017-161-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/161/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2017-161-20220701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20200701/de"
 
 (VZVM)
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2020)
+vom 16. Dezember 2016 (Stand am 1. Juli 2022)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -45,13 +45,13 @@ Diese Verordnung regelt den Zusatz und die Kennzeichnung von:
 Diese Verordnung gilt nicht für:
 
 - a. Nahrungsergänzungsmittel nach der Verordnung des EDI vom 16. Dezember 2016[^1-2] über Nahrungsergänzungsmittel;
-- b.[^1-3] Lebensmittel für Personen mit besonderem Ernährungsbedarf nach der Verordnung des EDI vom 16. Dezember 2016[^1-4] über Lebensmittel für Personen mit besonderem Ernährungsbedarf.
+- b.[^1-3] Lebensmittel für Personen mit besonderem Ernährungsbedarf nach der Verordnung des EDI vom 16. Dezember 2016[^1-4] über Lebensmittel für Personen mit besonderem Ernährungsbedarf (VLBE).
 
 <sup>4</sup> Vorbehalten bleiben die Bestimmungen zu den einzelnen Lebensmitteln.
 
 [^1-1]: [SR 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
 [^1-2]: [SR 817.022.14](https://fedlex.data.admin.ch/eli/cc/2017/155)
-[^1-3]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
+[^1-3]: Fassung gemäss Ziff. I der V des EDI vom 31. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
 [^1-4]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
 
 #### Art. 2
@@ -97,27 +97,34 @@ Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) kann auf beg
 
 <sup>2</sup> Zulässig sind die Verbindungen nach Anhang 5. Für die in Anhang 5 aufgeführten Stoffe gelten die spezifischen Reinheitskriterien, die im Anhang der Verordnung (EU) Nr. 231/2012[^3-1] für Zusatzstoffe festgelegt sind. Für die in Anhang 5 aufgeführten Stoffe, für die keine Reinheitskriterien festgelegt wurden, gelten die allgemein anerkannten Reinheitskriterien, die von internationalen Gremien, wie FAO/WHO und Internationale Pharmakopöen empfohlen werden.
 
+<sup>2bis</sup> Abweichend von Absatz 2 sind die Verbindungen gemäss Anhang 1 VLBE[^3-2], die für die Lebensmittelkategorie «Tagesration für eine gewichtskontrollierende Ernährung» zugelassenen sind, bei Lebensmitteln erlaubt, die mit einer gesundheitsbezogenen Angabe für die Lebensmittelkategorie «Mahlzeitersatz für eine gewichtskontrollierende Ernährung» gemäss Anhang 14 der Verordnung des EDI vom 16. Dezember 2016[^3-3] betreffend die Information über Lebensmittel (LIV) versehen sind.[^3-4]
+
 <sup>3</sup> Bei der Verwendung von lebenden Bakterienkulturen gelten die Anforderungen nach Anhang 6.
 
 [^3-1]: Verordnung (EU) Nr. 231/2012 der Kommission vom 9. März 2012 mit Spezifikationen für die in den Anhängen II und III der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates aufgeführten Lebensmittelzusatzstoffe, ABl. L 83 vom 22.3.2012, S. 1; zuletzt geändert durch Verordnung (EU) 2015/1739, ABl. 253 vom 30.9.2015, S. 3.
+[^3-2]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^3-3]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^3-4]: Eingefügt durch Ziff. I der V des EDI vom 31. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
 
 #### Art. 4
 
 **Mindest- und Höchstmengen**[^4-1]
 
-<sup>1</sup> Der Zusatz von Vitaminen, Mineralstoffen oder sonstigen Stoffen muss so bemessen sein, dass eine signifikante Menge dieser Stoffe enthalten ist. Die Menge gilt als signifikant, wenn sie den Anforderungen von Anhang 10 Teil A Ziffer 2 der Verordnung des EDI vom 16. Dezember 2016[^4-2] betreffend die Information über Lebensmittel (LIV) entspricht.
+<sup>1</sup> Der Zusatz von Vitaminen, Mineralstoffen oder sonstigen Stoffen muss so bemessen sein, dass eine signifikante Menge dieser Stoffe enthalten ist. Die Menge gilt als signifikant, wenn sie den Anforderungen von Anhang 10 Teil A Ziffer 2 LIV[^4-2] entspricht.[^4-3]
 
-<sup>2</sup> Für den Zusatz von Vitaminen und Mineralstoffen gelten pro Tagesration nach Anhang 7 die Höchstmengen nach Anhang 1.
+<sup>2</sup> Für den Zusatz von Vitaminen und Mineralstoffen gelten pro Tagesration nach Anhang 7 die Höchstmengen nach Anhang 1. Von den Höchstmengen nach Anhang 1 darf abgewichen werden, wenn die Mindestmenge verwendet und nicht überschritten wird gemäss den Verwendungsbedingungen von Anhang 14 LIV für die gesundheitsbezogene Angabe für die Lebensmittelkategorie «Mahlzeitersatz für eine gewichtskontrollierende Ernährung».[^4-4]
 
 <sup>3</sup> Für den Zusatz sonstiger Stoffe mit ernährungsbezogener oder physiologischer Wirkung gelten pro Tagesration nach Anhang 7 die Höchstmengen nach Anhang 2.
 
 <sup>4</sup> Damit Verluste an Vitaminen während der Lagerung ausgeglichen werden können, muss der Anfangsgehalt im Lebensmittel für jedes Vitamin so bemessen sein, dass zum Zeitpunkt der Abgabe an die Konsumentinnen und Konsumenten die deklarierte Menge an Vitaminen garantiert werden kann.
 
-<sup>5</sup> Beim Zusatz von lebenden Bakterienkulturen müssen mindestens 10<sup>8</sup> KBE[^4-3] in der Tagesration nach Anhang 7 enthalten sein.
+<sup>5</sup> Beim Zusatz von lebenden Bakterienkulturen müssen mindestens 10<sup>8</sup> KBE[^4-5] in der Tagesration nach Anhang 7 enthalten sein.
 
 [^4-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
 [^4-2]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^4-3]: KBE = koloniebildende Einheiten
+[^4-3]: Fassung gemäss Ziff. I der V des EDI vom 31. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
+[^4-4]: Fassung gemäss Ziff. I der V des EDI vom 31. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
+[^4-5]: KBE = koloniebildende Einheiten
 
 #### <sup>Art. 5</sup>
 
@@ -199,7 +206,7 @@ Anhang 1*[^t-1]*
 
 <table>
 <tr><th>Stoff</th><th>Höchstmenge pro Tagesration</th><th>Verwendungsbedingungen</th></tr>
-<tr><td>1 Vitamine</td><td></td><td></td></tr>
+<tr><td>**1 Vitamine**</td><td></td><td></td></tr>
 <tr><td>Vitamin A</td><td>450 µg[^annex1-lvlu1-1] (entspricht 2.7 mg Beta-Carotin)</td><td>Nur als Beta-Carotin</td></tr>
 <tr><td>Vitamin D</td><td>23 µg</td><td></td></tr>
 <tr><td>Vitamin E</td><td>68 mg</td><td></td></tr>
@@ -213,7 +220,7 @@ Anhang 1*[^t-1]*
 <tr><td>Vitamin B<sub>12</sub></td><td>keine</td><td></td></tr>
 <tr><td>Biotin</td><td>keine</td><td></td></tr>
 <tr><td>Pantothensäure</td><td>keine</td><td></td></tr>
-<tr><td>2 Mineralstoffe</td><td></td><td></td></tr>
+<tr><td>**2 Mineralstoffe**</td><td></td><td></td></tr>
 <tr><td>Calcium</td><td>250 mg</td><td></td></tr>
 <tr><td></td><td>700 mg</td><td>Nur Ersatzprodukte für Milch und Milchprodukte</td></tr>
 <tr><td>Phosphor</td><td>Nur als Begleition</td><td></td></tr>

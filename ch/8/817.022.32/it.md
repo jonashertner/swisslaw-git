@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 16 dicembre 2016 sull'aggiunta di vitamine, sali m
 short: OAVM
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/161"
 language: it
-version: 2020-07-01
+version: 2022-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/161/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2017-161-20200701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/161/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2017-161-20220701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20200701/it"
 
 (OAVM)
 
-del 16 dicembre 2016 (Stato 1° luglio 2020) (Stato 1° luglio 2020)
+del 16 dicembre 2016 (Stato 1° luglio 2022)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -45,13 +45,13 @@ La presente ordinanza disciplina la caratterizzazione e l’aggiunta alle derrat
 La presente ordinanza non si applica:
 
 - a. agli integratori alimentari secondo l’ordinanza del DFI del 16 dicembre 2016[^1-2] sugli integratori alimentari;
-- b.[^1-3] alle derrate alimentari per persone con particolari esigenze nutrizionali secondo l’ordinanza del DFI del 16 dicembre 2016[^1-4] sulle derrate alimentari destinate alle persone con particolari esigenze nutrizionali.
+- b.[^1-3] alle derrate alimentari per persone con particolari esigenze nutrizionali secondo l’ordinanza del DFI del 16 dicembre 2016[^1-4] sulle derrate alimentari destinate alle persone con particolari esigenze nutrizionali (ODPPE).
 
 <sup>4</sup> Sono fatte salve le disposizioni concernenti le singole derrate alimentari.
 
 [^1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
 [^1-2]: [RS 817.022.14](https://fedlex.data.admin.ch/eli/cc/2017/155)
-[^1-3]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
+[^1-3]: Nuovo testo giusta il n. I dell’O del DFI del 31 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
 [^1-4]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
 
 #### Art. 2
@@ -97,27 +97,34 @@ Su richiesta motivata, l’Ufficio federale della sicurezza alimentare e di vete
 
 <sup>2</sup> Sono ammessi i composti secondo l’allegato 5. Per le sostanze elencate all’allegato 5 valgono i requisiti specifici di purezza per gli additivi fissati nell’allegato del regolamento (UE) n. 231/2012[^3-1]. Per le sostanze elencate nell’allegato 5 per le quali non sono stati fissati dei requisiti di purezza valgono i requisiti di purezza riconosciuti generalmente e raccomandati dagli organismi internazionali come l’Organizzazione delle Nazioni Unite per l’alimentazione e l’agricoltura, l’Organizzazione mondiale della sanità e le farmacopee internazionali.
 
+<sup>2</sup> <sup>bis</sup> In deroga al capoverso 2, i composti di cui all’allegato 1 ODPPE[^3-2] autorizzati per la categoria alimentare «sostituto di un’intera razione alimentare giornaliera per il controllo del peso» sono ammessi nelle derrate alimentari dotate di un’indicazione sulla salute per la categoria alimentare «sostituto di un pasto per il controllo del peso» di cui all’allegato 14 dell’ordinanza del 16 dicembre 2016[^3-3] concernente le informazioni sulle derrate alimentari (OID).[^3-4]
+
 <sup>3</sup> Per l’impiego di colture batteriche vive si applicano le condizioni di cui all’allegato 6.
 
 [^3-1]: Regolamento (UE) n. 231/2012 della Commissione, del 9 marzo 2012, che stabilisce le specifiche degli additivi alimentari elencati negli allegati II e III del regolamento (CE) n. 1333/2008 del Parlamento europeo e del Consiglio, GU L 83 del 22.3.2012, pag. 1; modificato da ultimo dal regolamento (UE) 2015/1739, GU L 253 del 30.09.2015, pag. 3.
+[^3-2]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^3-3]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^3-4]: Introdotto dal n. I dell’O del DFI del 31 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
 
 #### Art. 4
 
 **Quantità minime e massime**[^4-1]
 
-<sup>1</sup> L’aggiunta di vitamine, sali minerali o altre sostanze deve essere dosata in modo che sia contenuta una quantità significativa di tali sostanze. La quantità è considerata significativa quando soddisfa i requisiti di cui all’allegato 10 parte A numero 2 dell’ordinanza del DFI del 16 dicembre 2016[^4-2] concernente le informazioni sulle derrate alimentari (OID).
+<sup>1</sup> L’aggiunta di vitamine, sali minerali o altre sostanze deve essere dosata in modo che sia contenuta una quantità significativa di tali sostanze. La quantità è considerata significativa quando soddisfa i requisiti di cui all’allegato 10 parte A numero 2 OID[^4-2].[^4-3]
 
-<sup>2</sup> Per l’aggiunta di vitamine e sali minerali valgono per ogni razione giornaliera di cui all’allegato 7 le quantità massime di cui all’allegato 1.
+<sup>2</sup> Per l’aggiunta di vitamine e sali minerali valgono per ogni razione giornaliera di cui all’allegato 7 le quantità massime di cui all’allegato 1. Si può derogare dalle quantità massime di cui all’allegato 1 se la quantità minima è utilizzata e non viene superata secondo le condizioni di utilizzo di cui all’allegato 14 OID per l’indicazione sulla salute per la categoria alimentare «sostituto di un pasto per il controllo del peso».[^4-4]
 
 3 Per l’aggiunta di altre sostanze che hanno effetti nutrizionali o fisiologici valgono per ogni razione giornaliera di cui all’allegato 7 le quantità massime di cui all’allegato 2.
 
 <sup>4</sup> Affinché sia possibile compensare le perdite di vitamine durante il deposito, il tenore iniziale di ogni vitamina nella derrata alimentare deve essere tale da poter garantire la quantità di vitamine dichiarata al momento della consegna ai consumatori.
 
-<sup>5</sup> Nell’aggiunta di colture batteriche vive devono essere contenute almeno 10<sup>8</sup> UFC[^4-3] nella razione giornaliera secondo l’allegato 7.
+<sup>5</sup> Nell’aggiunta di colture batteriche vive devono essere contenute almeno 10<sup>8</sup> UFC[^4-5] nella razione giornaliera secondo l’allegato 7.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
 [^4-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^4-3]: UFC = unità formanti colonia
+[^4-3]: Nuovo testo giusta il n. I dell’O del DFI del 31 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
+[^4-4]: Nuovo testo giusta il n. I dell’O del DFI del 31 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
+[^4-5]: UFC = unità formanti colonia
 
 #### <sup>Art. 5</sup>
 
@@ -199,7 +206,7 @@ Allegato 1*[^t-1]*
 
 <table>
 <tr><th>Sostanza</th><th>Quantità massima per razione giornaliera</th><th>Condizioni d’impiego</th></tr>
-<tr><td>1 Vitamine</td><td></td><td></td></tr>
+<tr><td>**1 Vitamine**</td><td></td><td></td></tr>
 <tr><td>Vitamina A</td><td>450 µg[^annexu1-lvlu1-1] (corrisponde a 2,7 mg di beta-carotene)</td><td>Solo come beta-carotene</td></tr>
 <tr><td>Vitamina D</td><td>23 µg</td><td></td></tr>
 <tr><td>Vitamina E</td><td>68 mg</td><td></td></tr>
@@ -213,7 +220,7 @@ Allegato 1*[^t-1]*
 <tr><td>Vitamina B<sub>12</sub></td><td>nessuna</td><td></td></tr>
 <tr><td>Biotina</td><td>nessuna</td><td></td></tr>
 <tr><td>Acido pantotenico</td><td>nessuna</td><td></td></tr>
-<tr><td>2 Sali minerali</td><td></td><td></td></tr>
+<tr><td>**2 Sali minerali**</td><td></td><td></td></tr>
 <tr><td>Calcio</td><td>250 mg</td><td></td></tr>
 <tr><td></td><td>700 mg</td><td>Solo succedanei di latte e latticini</td></tr>
 <tr><td>Fosforo</td><td>Solo come ione di accompagnamento</td><td></td></tr>

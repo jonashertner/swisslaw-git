@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur l'adjonction de vitamines, de
 short: OASM
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/161"
 language: fr
-version: 2020-07-01
+version: 2022-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/161/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-161-20200701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/161/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-161-20220701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20200701/fr"
 
 (OASM)
 
-du 16 décembre 2016 (Etat le 1<sup>er</sup> juillet 2020)
+du 16 décembre 2016 (Etat le 1<sup>er</sup> juillet 2022)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -45,13 +45,13 @@ La présente ordonnance fixe les règles relatives à l’adjonction aux denrée
 La présente ordonnance ne s’applique pas:
 
 - a. aux compléments alimentaires selon l’ordonnance du DFI du 16 décembre 2016 sur les compléments alimentaires[^1-2];
-- b.[^1-3] aux denrées alimentaires destinées aux personnes ayant des besoins nutritionnels particuliers selon l’ordonnance du DFI du 16 décembre 2016 sur les denrées alimentaires destinées aux personnes ayant des besoins nutritionnels particuliers[^1-4].
+- b.[^1-3] aux denrées alimentaires destinées aux personnes ayant des besoins nutritionnels particuliers selon l’ordonnance du DFI du 16 décembre 2016 sur les denrées alimentaires destinées aux personnes ayant des besoins nutritionnels particuliers (OBNP)[^1-4].
 
 <sup>4</sup> Les dispositions spécifiques s’appliquant aux diverses catégories de denrées alimentaires sont réservées.
 
 [^1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
 [^1-2]: [RS 817.022.14](https://fedlex.data.admin.ch/eli/cc/2017/155)
-[^1-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
+[^1-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 31 mai 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
 [^1-4]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
 
 #### Art. 2
@@ -97,29 +97,36 @@ L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires
 
 <sup>2</sup> Les composés selon l’annexe 5 sont autorisés. Pour les substances énumérées à l’annexe 5, les critères de pureté spécifiques pour les additifs, définis dans l’annexe du règlement (UE) n° 231/2012[^3-1], sont applicables. Les critères de pureté généralement admis, recommandés par des organismes internationaux tels que l’Organisation des Nations Unies pour l’alimentation et l’agriculture ou l’Organisation mondiale de la santé et par les pharmacopées internationales s’appliquent aux substances énumérées à l’annexe 5 pour lesquelles les critères de pureté n’ont pas été définis.
 
+<sup>2bis</sup> Par dérogation à l’al. 2, les composés autorisés pour la catégorie de denrées alimentaires «Substitut de la ration journalière totale pour contrôle du poids» de l’annexe 1 de l’OBNP[^3-2] sont autorisés pour les denrées alimentaires accompagnées d’une allégation de santé pour la catégorie de denrées alimentaires «Substitut de repas pour contrôle du poids» de l’annexe 14 de l’ordonnance du DFI du 16 décembre 2016 concernant l’information sur les denrées alimentaires (OIDAl)[^3-3].[^3-4]
+
 <sup>3</sup> Les exigences fixées à l’annexe 6 s’appliquent à l’utilisation des cultures de bactéries vivantes.
 
 [^3-1]: Règlement (UE) n° 231/2012 du 9 mars 2012 établissant les spécifications des additifs alimentaires énumérés aux annexes II et III du règlement (CE) n° 1333/2008 du Parlement européen et du Conseil, JO L 83 du 22.3.2012, p. 1, modifié en dernier lieu par le règlement (UE) 2015/1739, JO L 253 du 30.09.2015, p. 3.
+[^3-2]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^3-3]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^3-4]: Introduit par le ch. I de l’O du DFI du 31 mai 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
 
 #### Art. 4
 
 **Quantités minimales et quantités maximales**[^4-1]
 
-<sup>1</sup> L’adjonction de vitamines, de sels minéraux ou d’autres substances doit être calculée de telle manière que la ration journalière contienne une quantité significative de ces substances. La quantité est considérée comme significative si elle est conforme aux exigences fixées à l’annexe 10, partie A, ch. 2, de l’ordonnance du DFI du 16 décembre 2016 concernant l’information sur les denrées alimentaires (OIDAl)[^4-2].
+<sup>1</sup> L’adjonction de vitamines, de sels minéraux ou d’autres substances doit être calculée de telle manière que la ration journalière contienne une quantité significative de ces substances. La quantité est considérée comme significative si elle est conforme aux exigences fixées à l’annexe 10, partie A, ch. 2, OIDAl[^4-2].[^4-3]
 
-<sup>2</sup> Les quantités maximales de vitamines et de sels minéraux pouvant être ajoutées aux denrées alimentaires par ration journalière définie à l’annexe 7 sont fixées à l’annexe 1.
+<sup>2</sup> Les quantités maximales de vitamines et de sels minéraux pouvant être ajoutées aux denrées alimentaires pour chaque ration journalière définie à l’annexe 7 sont fixées à l’annexe 1. Il est possible de déroger à ces quantités maximales lorsque la quantité minimale est utilisée et n’est pas dépassée, conformément aux conditions d’utilisation définies à l’annexe 14 OIDAl concernant l’allégation de santé pour la catégorie de denrées alimentaires «Substitut de repas pour contrôle du poids».[^4-4]
 
 <sup>3</sup> Les quantités maximales d’autres substances ayant un effet nutritionnel ou physiologique pouvant être ajoutées aux denrées alimentaires par ration journalière définie à l’annexe 7 sont fixées à l’annexe 2.
 
 <sup>4</sup> Afin de compenser les pertes en vitamines survenant lors de l’entreposage des denrées alimentaires, la teneur initiale de chaque vitamine dans la denrée alimentaire doit être calculée de telle manière que la quantité déclarée de vitamines au moment de la remise aux consommateurs puisse être garantie.
 
-<sup>5</sup> En cas d’adjonction de cultures de bactéries vivantes, la ration journalière fixée à l’annexe 7 doit contenir au moins 10<sup>8</sup> UFC[^4-3].
+<sup>5</sup> En cas d’adjonction de cultures de bactéries vivantes, la ration journalière fixée à l’annexe 7 doit contenir au moins 10<sup>8</sup> UFC[^4-5].
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
 [^4-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^4-3]: UFC = unités formant colonie
+[^4-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 31 mai 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
+[^4-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 31 mai 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 337](https://fedlex.data.admin.ch/eli/oc/2022/337)).
+[^4-5]: UFC = unités formant colonie
 
-#### <sup>Art. 5</sup>
+#### Art. 5
 
 **Adjonction de substances au sel comestible**
 
@@ -199,7 +206,7 @@ Annexe 1*[^t-1]*
 
 <table>
 <tr><th>Substance</th><th>Quantité maximale par ration journalière</th><th>Conditions d’utilisation</th></tr>
-<tr><td>1 Vitamines</td><td></td><td></td></tr>
+<tr><td>**1 Vitamines**</td><td></td><td></td></tr>
 <tr><td>Vitamine A</td><td>450 µg[^annex1-lvlu1-1] (correspond à 2,7 mg de bêta-carotène)</td><td>Uniquement sous forme de bêta-carotène</td></tr>
 <tr><td>Vitamine D</td><td>23 µg</td><td></td></tr>
 <tr><td>Vitamine E</td><td>68 mg</td><td></td></tr>
@@ -213,7 +220,7 @@ Annexe 1*[^t-1]*
 <tr><td>Vitamine B12</td><td>Aucune</td><td></td></tr>
 <tr><td>Biotine</td><td>Aucune</td><td></td></tr>
 <tr><td>Acide pantothénique</td><td>Aucune</td><td></td></tr>
-<tr><td>2 Sels minéraux</td><td></td><td></td></tr>
+<tr><td>**2 Sels minéraux**</td><td></td><td></td></tr>
 <tr><td>Calcium</td><td>250 mg</td><td></td></tr>
 <tr><td></td><td>700 mg</td><td>Uniquement dans les succédanés du lait ou de produits laitiers</td></tr>
 <tr><td>Phosphore</td><td>Uniquement sous forme d’ions d’accompagnement</td><td></td></tr>
