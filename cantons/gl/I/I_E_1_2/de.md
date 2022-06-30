@@ -3,20 +3,19 @@ canton: GL
 number: I E/1/2
 title: Verordnung zum kantonalen Gleichstellungsgesetz
 language: de
-version: 2014-09-01
-valid_until: 2022-06-30
-version_adopted: 2014-06-25
+version: 2022-07-01
+version_adopted: 2022-08-31
 adopted: 1996-06-26
 in_force: 1996-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/I-E.1.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/1667/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2336/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum kantonalen Gleichstellungsgesetz
 
-Vom 26.06.1996 (Stand 01.09.2014)
+Vom 26.06.1996 (Stand 01.07.2022)
 
 Der Landrat,
 
@@ -74,7 +73,7 @@ verordnet:
 
 **Vorläufige Befristung der Tätigkeit**
 
-<sup>1</sup> Die Tätigkeit der Gleichstellungskommission wird bis auf das Ende der Amtsdauer 2018–2022 befristet.
+<sup>1</sup> Die Tätigkeit der Gleichstellungskommission wird bis auf das Ende des Amtsjahres 2023/2024 befristet.
 
 <sup>2</sup> Als Grundlage für den Entscheid über den Fortbestand der Gleichstellungskommission erstattet diese einen Bericht über ihre Tätigkeiten und Erfahrungen sowie über die Entwicklung der tatsächlichen Gleichstellung von Frau und Mann. Sie unterbreitet gegebenenfalls Vorschläge zur Änderung der sie betreffenden Vorschriften.
 
