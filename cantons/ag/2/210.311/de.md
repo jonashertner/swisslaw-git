@@ -4,13 +4,13 @@ number: "210.311"
 title: Verordnung zum Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: V EG ZGB
 language: de
-version: 2022-01-01
-valid_until: 2022-06-30
-version_adopted: 2020-12-16
+version: 2022-07-01
+valid_until: 2024-06-30
+version_adopted: 2022-04-27
 adopted: 2017-09-27
 in_force: 2018-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/210.311"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3044/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3209/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3044/pdf_file"
 
 (V EG ZGB)
 
-Vom 27.09.2017 (Stand 01.01.2022)
+Vom 27.09.2017 (Stand 01.07.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -68,19 +68,19 @@ beschliesst:
 
 **b) Amtsräume**
 
-<sup>1</sup> Der Gemeinderat am Sitz des Zivilstandsamts bezeichnet mindestens einen Amtsraum, der für die Durchführung von Trauungen und die Begründung eingetragener Partnerschaften kostenfrei zur Verfügung steht.
+<sup>1</sup> Der Gemeinderat am Sitz des Zivilstandsamts bezeichnet mindestens einen Amtsraum, der für die Durchführung von Trauungen und zeremoniellen Umwandlungen der eingetragenen Partnerschaft in eine Ehe unentgeltlich zur Verfügung steht.
 
-<sup>2</sup> Im Rahmen des Gemeindevertrags gemäss § 8 Abs. 2 EG ZGB kann geregelt werden, dass die Vertragsgemeinden andere Lokale für die Durchführung von Trauungen und die Begründung eingetragener Partnerschaften bezeichnen dürfen.
+<sup>2</sup> Im Rahmen des Gemeindevertrags gemäss § 8 Abs. 2 EG ZGB kann geregelt werden, dass die Vertragsgemeinden andere Lokale für die Durchführung von Trauungen und zeremoniellen Umwandlungen der eingetragenen Partnerschaft in eine Ehe bezeichnen dürfen.
 
 <sup>3</sup> Zur Benutzung dieser anderen Lokale sind Vereinbarungen abzuschliessen und dem DVI zur Genehmigung zu unterbreiten.
 
-<sup>4</sup> Ohne anders lautende Regelung im Gemeindevertrag ist der Gemeinderat für die Bezeichnung der anderen Lokale in seiner Gemeinde für die Durchführung von Trauungen und die Begründung eingetragener Partnerschaften und für den Abschluss der Vereinbarungen zu deren Benutzung zuständig.
+<sup>4</sup> Ohne anders lautende Regelung im Gemeindevertrag ist der Gemeinderat für die Bezeichnung der anderen Lokale in seiner Gemeinde für die Durchführung von Trauungen und zeremoniellen Umwandlungen der eingetragenen Partnerschaft in eine Ehe sowie für den Abschluss der Vereinbarungen zu deren Benutzung zuständig.
 
 #### § 4
 
-**c) Zeiten für die Durchführung von Trauungen und für die Begründung eingetragener Partnerschaften**
+**c) Zeiten für die Durchführung von Trauungen und zeremoniellen Umwandlungen der eingetragenen Partnerschaft in eine Ehe**
 
-<sup>1</sup> Der Gemeinderat am Sitz des Zivilstandsamts legt in Ermangelung einer Regelung im Gemeindevertrag für alle Amtsräume und anderen Lokale die Zeiten für die Durchführung von Trauungen und die Begründung eingetragener Partnerschaften fest.
+<sup>1</sup> Der Gemeinderat am Sitz des Zivilstandsamts legt in Ermangelung einer Regelung im Gemeindevertrag für alle Amtsräume und anderen Lokale die Zeiten für die Durchführung von Trauungen und zeremoniellen Umwandlungen der eingetragenen Partnerschaft in eine Ehe fest.
 
 #### § 5
 
@@ -142,7 +142,7 @@ beschliesst:
 
 **l) Veröffentlichung von Zivilstandsfällen**
 
-<sup>1</sup> Die Gemeinden können mit schriftlicher Zustimmung der Betroffenen beziehungsweise der Hinterbliebenen Geburten, Todesfälle, Trauungen und Eintragungen von Partnerschaften ihrer Einwohnerinnen und Einwohner veröffentlichen.
+<sup>1</sup> Die Gemeinden können mit schriftlicher Zustimmung der Betroffenen beziehungsweise der Hinterbliebenen Geburten, Todesfälle, Trauungen, Umwandlungen der eingetragenen Partnerschaft in eine Ehe und Eintragungen von Partnerschaften ihrer Einwohnerinnen und Einwohner veröffentlichen.
 
 ## 2. Familienrecht
 
