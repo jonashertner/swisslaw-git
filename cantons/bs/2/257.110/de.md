@@ -3,22 +3,22 @@ canton: BS
 number: "257.110"
 title: Verordnung über die Durchführung des polizeilichen Ermittlungsverfahrens bei Vergehen und Übertretungen
 language: de
-version: 2022-05-28
-valid_until: 2022-06-30
-version_adopted: 2022-04-26
+version: 2022-07-01
+valid_until: 2023-08-31
+version_adopted: 2022-04-12
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/257.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5549/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5989/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Durchführung des polizeilichen Ermittlungsverfahrens bei Vergehen und Übertretungen
 
-Ermittlungsverfahren: Verordnung | Strafprozess / Rechtshilfe / Opferhilfe
+Strafprozess / Rechtshilfe / Opferhilfe
 
-Vom 21. Dezember 2010 (Stand 28. Mai 2022)
+Vom 21. Dezember 2010 (Stand 1. Juli 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -47,7 +47,7 @@ beschliesst:
 
 <sup>3</sup> Die Vorsteherinnen und die Vorsteher der Departemente legen in einem Reglement[^2-1] fest, welche Verwaltungsbehörden mit Ermittlungsbefugnis ihres Departements welche Übertretungen verfolgen.
 
-[^2-1]: Justiz- und Sicherheitsdepartement: Weisung über die Zuständigkeit betreffend die Ermittlungsverfahren bei Übertretungen (Reglement) vom 1. 10. 2021. Diese Weisung kann eingesehen werden unter: [https://my.intranet.bs.ch/jsd/departement/Shared%20Documents/Weisungen/211001\_Verfahrensweisung.pdf](https://my.intranet.bs.ch/jsd/departement/Shared%20Documents/Weisungen/211001_Verfahrensweisung.pdf)
+[^2-1]: Justiz- und Sicherheitsdepartement: Weisung über die Zuständigkeit betreffend die Ermittlungsverfahren bei Übertretungen (Reglement) vom 1. Oktober 2021. Diese Weisung kann eingesehen werden unter [https://www.jsd.bs.ch/dam/jcr:f9c86fe6-25e7-4369-9e43-3f5da8951949/211001\_Verfahrensweisung.pdf](https://www.jsd.bs.ch/dam/jcr:f9c86fe6-25e7-4369-9e43-3f5da8951949/211001_Verfahrensweisung.pdf)
 
 #### § 2a
 
