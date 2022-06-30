@@ -4,22 +4,30 @@ number: VI A/1/2
 title: Gesetz über den Finanzhaushalt des Kantons Glarus und seiner Gemeinden
 short: "Finanzhaushaltgesetz, FHG"
 language: de
-version: 2020-01-01
-valid_until: 2022-06-30
-version_adopted: 2019-05-05
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2022-05-01
 adopted: 2009-05-03
 in_force: 2011-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-A.1.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2103/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2313/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über den Finanzhaushalt des Kantons Glarus und seiner Gemeinden
 
-Vom 03.05.2009 (Stand 01.01.2020)
+(Finanzhaushaltgesetz, FHG)
 
-(Erlassen von der Landsgemeinde am 3. Mai 2009)
+Vom 03.05.2009 (Stand 01.07.2022)
+
+Die Landsgemeinde,
+
+gestützt auf Artikel 52 und 53 der Kantonsverfassung[^ingress-1],
+
+erlässt:
+
+[^ingress-1]: GS [I A/1/1](https://gesetze.gl.ch/data/I-A.1.1/de)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -195,15 +203,15 @@ Vom 03.05.2009 (Stand 01.01.2020)
 
 <sup>3</sup> Vorbehalten bleiben abweichende Gesetzesvorschriften.
 
-### 2.2. Finanz- und Aufgabenplan
+### 2.2. Integrierter Aufgaben- und Finanzplan
 
 #### Art. 11
 
 **Zuständigkeiten und Verfahren**
 
-<sup>1</sup> Der Finanz- und Aufgabenplan ist vom Regierungsrat bzw. vom Gemeinderat jährlich für die auf das Budget folgenden vier Jahre zu erstellen.
+<sup>1</sup> Der Integrierte Aufgaben- und Finanzplan ist vom Regierungsrat bzw. vom Gemeinderat jährlich für die auf das Budget folgenden drei Jahre zu erstellen.
 
-<sup>2</sup> Er ist im Kanton dem Landrat jeweils mit dem Budget zur Genehmigung zu unterbreiten. In den Gemeinden bestimmt die Gemeindeordnung das Verfahren.
+<sup>2</sup> Er ist im Kanton dem Landrat jeweils mit dem Budget zur Kenntnisnahme zu unterbreiten. In den Gemeinden bestimmt die Gemeindeordnung das Verfahren.
 
 #### Art. 12
 
@@ -215,24 +223,21 @@ Vom 03.05.2009 (Stand 01.01.2020)
 
 **Gliederung**
 
-<sup>1</sup> Im Finanz- und Aufgabenplan wird die öffentliche Staatstätigkeit in Hauptaufgaben eingeteilt, die ihrerseits in Aufgabengebiete unterteilt sind. Massgebend ist die funktionale Gliederung.
+<sup>1</sup> Der Integrierte Aufgaben- und Finanzplan kann sowohl nach der institutionellen als auch nach der funktionalen Gliederung eingeteilt werden.
 
-<sup>2</sup> Der Kanton erstellt den Finanz- und Aufgabenplan zusätzlich nach der institutionellen Gliederung.
+<sup>2</sup> …
 
 #### Art. 14
 
 **Inhalt**
 
-<sup>1</sup> Der Finanz- und Aufgabenplan enthält:
+<sup>1</sup> Der Integrierte Aufgaben- und Finanzplan enthält:
 
 - a. die finanz- und wirtschaftspolitisch relevanten Eckdaten;
 - b. die Hauptaufgaben des Kantons bzw. der Gemeinden, die einzelnen Aufgabengebiete einschliesslich strategischer Ziele, namentlich Legislaturziele, sowie den Überblick über die voraussichtliche Entwicklung der Leistungen;
 - c. den Planaufwand und -ertrag für die Bereiche gemäss Buchstabe b;
-- d. die Planinvestitionsausgaben und -einnahmen für die Bereiche gemäss Buchstabe b;
-- e. den Plangeldfluss;
-- f. die Schätzung des Finanzierungsbedarfs;
-- g. die Finanzierungsmöglichkeiten und
-- h. die Entwicklung der Finanzkennzahlen.
+- d. die Planinvestitionsausgaben und -einnahmen für die Bereiche gemäss Buchstabe b.
+- e.–h. …
 
 ### 2.3. Budget
 
@@ -240,11 +245,11 @@ Vom 03.05.2009 (Stand 01.01.2020)
 
 **Zuständigkeiten und Verfahren**
 
-<sup>1</sup> Der Regierungsrat bzw. der Gemeinderat erstellt jährlich den Budgetentwurf und legt ihn dem Landrat bzw. dem in der Gemeinde für die Beschlussfassung über das Budget zuständigen Organ (Budgetbehörde) zur Genehmigung vor.
+<sup>1</sup> Der Regierungsrat bzw. der Gemeinderat erstellt jährlich den Budgetentwurf und legt ihn der Budgetbehörde zur Genehmigung vor.
 
 <sup>2</sup> Das Budget des Kantons wird jeweils bis zum 31. Dezember des dem Rechnungsjahr vorausgehenden Jahres festgelegt, das Budget der Gemeinde bis zu den in der Gemeindegesetzgebung vorgesehenen Daten. Liegt am 1. Januar noch kein rechtskräftiges Budget vor, ist der Regierungsrat bzw. der Gemeinderat ermächtigt, die für die ordentliche Staatstätigkeit notwendigen Ausgaben zu tätigen.
 
-<sup>3</sup> Das Budget des Kantons ist der Landsgemeinde im Memorial zur Kenntnis zu bringen.
+<sup>3</sup> …
 
 #### Art. 16
 
@@ -256,9 +261,9 @@ Vom 03.05.2009 (Stand 01.01.2020)
 
 **Gliederung**
 
-<sup>1</sup> Das Budget des Kantons ist sowohl nach der institutionellen wie auch nach der funktionalen Gliederung einzuteilen. Der Kontenrahmen (Artengliederung) richtet sich nach dem Kontenrahmen des Harmonisierten Rechnungsmodells 2.
+<sup>1</sup> Das Budget ist sowohl nach der institutionellen als auch nach der funktionalen Gliederung einzuteilen.
 
-<sup>2</sup> Das Budget der Gemeinden wird nach der funktionalen Gliederung eingeteilt.
+<sup>2</sup> …
 
 #### Art. 18
 
@@ -270,7 +275,7 @@ Vom 03.05.2009 (Stand 01.01.2020)
 - b. Spezifikation: Aufwand und Ertrag sowie Ausgaben und Einnahmen sind nach Verwaltungseinheiten, nach der Artengliederung des Kontenrahmens und, soweit sinnvoll, nach Massnahmen und Verwendungszweck zu unterteilen; für das Budget von Verwaltungseinheiten mit Leistungsauftrag und Globalbudget kann vom Grundsatz der Spezifikation abgewichen werden;
 - c. Vollständigkeit: im Budget sind der zu erwartende Aufwand und Ertrag sowie alle Ausgaben und Einnahmen aufzuführen; von einer direkten Abrechnung über Rückstellungen, Spezialfinanzierungen oder Ähnliches ist abzusehen;
 - d. Vergleichbarkeit: die Budgets des Gesamtkantons sowie der Gemeinden und der Verwaltungseinheiten sollen sowohl untereinander als auch über die Zeit hinweg vergleichbar sein;
-- e. Bruttodarstellung: Aufwand und Ertrag sowie Investitionsausgaben und Investitionseinnahmen sind getrennt voneinander, ohne gegenseitige Verrechnung, in voller Höhe auszuweisen.
+- e. Bruttodarstellung: Aufwand und Ertrag sowie Ausgaben und Einnahmen sind getrennt voneinander, ohne gegenseitige Verrechnung, in voller Höhe auszuweisen.
 
 #### Art. 19
 
@@ -281,9 +286,9 @@ Vom 03.05.2009 (Stand 01.01.2020)
 - a. zu bewilligender Aufwand und geschätzter Ertrag in der Erfolgsrechnung und
 - b. zu bewilligende Ausgaben und geschätzte Einnahmen in der Investitionsrechnung.
 
-<sup>2</sup> Mit dem Budget sind der Budgetbehörde Informationen zur Finanzierung sowie über die Verwendung der noch laufenden Verpflichtungskredite zuzuleiten.
+<sup>2</sup> …
 
-<sup>3</sup> Der Regierungsrat bzw. der Gemeinderat hat die einzelnen Budgetpositionen, insbesondere jene mit Veränderungen gegenüber dem Vorjahr, in einem begleitenden Bericht zu begründen.
+<sup>3</sup> Der Regierungsrat bzw. der Gemeinderat hat die einzelnen Budgetpositionen, insbesondere jene mit wesentlichen Veränderungen gegenüber dem Vorjahr, in einem begleitenden Bericht zu begründen.
 
 #### Art. 20
 
