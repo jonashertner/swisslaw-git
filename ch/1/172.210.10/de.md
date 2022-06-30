@@ -4,11 +4,11 @@ title: Organisationsverordnung vom 29. Oktober 2008 für die Bundeskanzlei (OV-B
 short: OV-BK
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/719"
 language: de
-version: 2021-01-01
+version: 2022-07-01
 adopted: 2008-10-29
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/719/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2008-719-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/719/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2008-719-20220701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20210101/de"
 
 (OV-BK)
 
-vom 29. Oktober 2008 (Stand am 1. Januar 2021)
+vom 29. Oktober 2008 (Stand am 1. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -79,7 +79,14 @@ Neben den allgemeinen Grundsätzen der Verwaltungsführung (Art. 11 und 12 RVOV)
 
 <sup>1</sup> Die Bundeskanzlei setzt sich für die Mehrsprachigkeit in der Bundesverwaltung ein und achtet auf die Gleichbehandlung der Amtssprachen.
 
-<sup>2</sup> Sie sorgt für die Qualität der zur Veröffentlichung bestimmten Texte und weiterer wichtiger Texte in den Amtssprachen.
+<sup>2</sup> Sie sorgt für die Qualität der Texte nach Artikel 10 Absatz 3 der Sprachdiensteverordnung vom 14. November 2012[^3-1].[^3-2]
+
+<sup>3</sup> Sie stellt zur Gewährleistung der redaktionellen und formalen Qualität der Texte des Bundes die erforderlichen Hilfsmittel zur Verfügung (Art. 2 Abs. 2 Sprachenverordnung vom 4. Juni 2010[^3-3]).[^3-4]
+
+[^3-1]: [SR 172.081](https://fedlex.data.admin.ch/eli/cc/2012/771)
+[^3-2]: Fassung gemäss Anhang Ziff. 2 der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^3-3]: [SR 441.11](https://fedlex.data.admin.ch/eli/cc/2010/355)
+[^3-4]: Eingefügt durch Anhang Ziff. 2 der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 4
 
@@ -129,7 +136,7 @@ Die Bundeskanzlei veröffentlicht den Eidgenössischen Staatskalender. Dieser en
 
 <sup>3</sup> Sie kann Organigramme und weitere Verzeichnisse veröffentlichen oder die Veröffentlichung andern Verwaltungseinheiten übertragen.
 
-<sup>4</sup> ...[^5-1]
+<sup>4</sup> …[^5-1]
 
 <sup>5</sup> Sie gewährt verwaltungsextern einen Online-Zugang auf die Personendaten derjenigen Angestellten der Bundesverwaltung, die als Ansprechpersonen gegenüber Dritten gelten, in dem Umfang, in dem diese Funktion es erfordert.
 
@@ -196,7 +203,7 @@ Die Bundeskanzlei kann der Öffentlichkeit auf elektronischem Weg das Informatio
 
 <sup>3</sup> Sie betreibt das Medienzentrum Bundeshaus.
 
-<sup>4</sup> ...[^7-1]
+<sup>4</sup> …[^7-1]
 
 <sup>5</sup> Sie vertritt die Interessen der Departemente bei der Parlamentsbibliothek.
 
@@ -244,7 +251,7 @@ Die Bundeskanzlei ist im Bereich der Legalisation zuständig für:
 
 Die Organisationsverordnung vom 5. Mai 1999[^11-1] für die Bundeskanzlei wird aufgehoben.
 
-[^11-1]: [[AS 1999 1757](https://fedlex.data.admin.ch/eli/oc/1999/281), [2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)Ziff. III, [2004 4521](https://fedlex.data.admin.ch/eli/oc/2004/684), [2007 349](https://fedlex.data.admin.ch/eli/oc/2007/67)[4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 7]
+[^11-1]: [[AS 1999 1757](https://fedlex.data.admin.ch/eli/oc/1999/281); [2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)Ziff. III; [2004 4521](https://fedlex.data.admin.ch/eli/oc/2004/684); [2007 349](https://fedlex.data.admin.ch/eli/oc/2007/67), [4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 7]
 
 #### Art. 12
 
@@ -264,6 +271,6 @@ Anhang
 
 ## Änderung bisherigen Rechts
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2008 5153](https://fedlex.data.admin.ch/eli/oc/2008/719)konsultiert werden.

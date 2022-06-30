@@ -4,11 +4,11 @@ title: "Ordinanza del 29 ottobre 2008 sull'organizzazione della Cancelleria fede
 short: OrgCaF
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/719"
 language: it
-version: 2021-01-01
+version: 2022-07-01
 adopted: 2008-10-29
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/719/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2008-719-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/719/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2008-719-20220701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20210101/it"
 
 (OrgCaF)
 
-del 29 ottobre 2008 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 29 ottobre 2008 (Stato 1° luglio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -79,7 +79,14 @@ Oltre ai principi generali dell’attività amministrativa e della direzione del
 
 <sup>1</sup> La Cancelleria federale si impegna a favore del plurilinguismo nell’Amministrazione federale e si adopera per la parità delle lingue ufficiali.
 
-<sup>2</sup> Nelle lingue ufficiali, la Cancelleria federale assicura la qualità dei testi destinati alla pubblicazione e di altri testi importanti.
+<sup>2</sup> La Cancelleria federale assicura la qualità dei testi di cui all’articolo 10 capoverso 3 dell’ordinanza del 14 novembre 2012[^3-1] sui servizi linguistici.[^3-2]
+
+<sup>3</sup> La Cancelleria federale mette a disposizione gli strumenti necessari per garantire la qualità redazionale e formale dei testi della Confederazione (art. 2 cpv. 2 dell’ordinanza del 4 giugno 2010[^3-3] sulle lingue).[^3-4]
+
+[^3-1]: [RS 172.081](https://fedlex.data.admin.ch/eli/cc/2012/771)
+[^3-2]: Nuovo testo giusta l’all. n. 2 dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^3-3]: [RS 441.11](https://fedlex.data.admin.ch/eli/cc/2010/355)
+[^3-4]: Introdotto dall’all. n. 2 dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 4
 
@@ -244,7 +251,7 @@ Nell’ambito delle legalizzazioni la Cancelleria federale è competente per le 
 
 L’ordinanza del 5 maggio 1999[^11-1] sull’organizzazione della Cancelleria federale è abrogata.
 
-[^11-1]: [[RU 1999 1757](https://fedlex.data.admin.ch/eli/oc/1999/281), [2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)n. III, [2004 4521](https://fedlex.data.admin.ch/eli/oc/2004/684), [2007 349](https://fedlex.data.admin.ch/eli/oc/2007/67)[4477](https://fedlex.data.admin.ch/eli/oc/2007/633)]
+[^11-1]: [[RU 1999 1757](https://fedlex.data.admin.ch/eli/oc/1999/281); [2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)n. III; [2004 4521](https://fedlex.data.admin.ch/eli/oc/2004/684); [2007 349](https://fedlex.data.admin.ch/eli/oc/2007/67), [4477](https://fedlex.data.admin.ch/eli/oc/2007/633)]
 
 #### Art. 12
 

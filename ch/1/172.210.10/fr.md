@@ -4,11 +4,11 @@ title: "Ordonnance du 29 octobre 2008 sur l'organisation de la Chancellerie féd
 short: Org ChF
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/719"
 language: fr
-version: 2021-01-01
+version: 2022-07-01
 adopted: 2008-10-29
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/719/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-719-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/719/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2008-719-20220701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/719/20210101/fr"
 
 (Org ChF)
 
-du 29 octobre 2008 (Etat le 1<sup>er</sup> janvier 2021)
+du 29 octobre 2008 (Etat le 1<sup>er</sup> juillet 2022)
 
 Le Conseil fédéral suisse,
 
@@ -79,7 +79,14 @@ La Chancellerie fédérale observe les principes généraux régissant l’activ
 
 <sup>1</sup> La Chancellerie fédérale s’engage en faveur du plurilinguisme au sein de l’administration fédérale et veille au respect de l’égalité de traitement des langues officielles.
 
-<sup>2</sup> Dans les langues officielles, elle veille à la qualité des textes destinés à la publication et à celle d’autres textes importants.
+<sup>2</sup> Elle veille à la qualité des textes visés à l’art. 10, al. 3, de l’ordonnance du 14 novembre 2012 sur les services linguistiques[^3-1].[^3-2]
+
+<sup>3</sup> Elle fournit les outils permettant d’assurer la qualité rédactionnelle et formelle des textes publiés par la Confédération (art. 2, al. 2, de l’ordonnance du 4 juin 2010 sur les langues[^3-3]).[^3-4]
+
+[^3-1]: [RS 172.081](https://fedlex.data.admin.ch/eli/cc/2012/771)
+[^3-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^3-3]: [RS 441.11](https://fedlex.data.admin.ch/eli/cc/2010/355)
+[^3-4]: Introduit par l’annexe ch. 2 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 4
 
@@ -244,7 +251,7 @@ Sont du ressort de la Chancellerie fédérale:
 
 L’ordonnance du 5 mai 1999 sur l’organisation de la Chancellerie fédérale[^11-1] est abrogée.
 
-[^11-1]: [[RO 1999 1757](https://fedlex.data.admin.ch/eli/oc/1999/281), [2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)ch. III, [2004 4521](https://fedlex.data.admin.ch/eli/oc/2004/684), [2007 349](https://fedlex.data.admin.ch/eli/oc/2007/67)[4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 7]
+[^11-1]: [[RO 1999 1757](https://fedlex.data.admin.ch/eli/oc/1999/281); [2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)ch. III; [2004 4521](https://fedlex.data.admin.ch/eli/oc/2004/684); [2007 349](https://fedlex.data.admin.ch/eli/oc/2007/67), [4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 7]
 
 #### Art. 12
 
