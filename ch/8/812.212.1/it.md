@@ -4,18 +4,18 @@ title: "Ordinanza del 14 novembre 2018 sulle autorizzazioni nel settore dei medi
 short: OAMed
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: it
-version: 2022-01-28
+version: 2022-07-01
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20220128/it/xml/fedlex-data-admin-ch-eli-cc-2018-786-20220128-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20220128/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2018-786-20220701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulle autorizzazioni nel settore dei medicamenti (Ordinanza sull’autorizzazione dei medicamenti, OAMed)
 
-del 14 novembre 2018 (Stato 28 gennaio 2022)
+del 14 novembre 2018 (Stato 1° luglio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -795,9 +795,10 @@ Un medico curante titolare di un’autorizzazione cantonale all’esercizio dell
 
 <sup>6</sup> Tiene un registro sul controllo di cui al capoverso 5 e sulla data del controllo e sull’importazione, nel quale annotare il tipo, la quantità e lo scopo d’utilizzo dei medicamenti per uso umano importati.
 
-<sup>7</sup> L’importazione di medicamenti veterinari da parte di operatori sanitari è disciplinata dall’articolo 7 dell’ordinanza del 18 agosto 2004[^49-1] sui medicamenti veterinari.
+<sup>7</sup> L’importazione di medicamenti veterinari da parte dei veterinari è disciplinata dagli articoli 7‒7*d* dell’ordinanza del 18 agosto 2004[^49-1] sui medicamenti veterinari.[^49-2]
 
 [^49-1]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^49-2]: Nuovo testo giusta il n. III 2 dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 50
 
@@ -1294,5 +1295,5 @@ Le seguenti ordinanze sono modificate come segue:
 
 ...[^annex8-lvlu1-2]
 
-[^annex8-lvlu1-1]: [[RU 2001 3399](https://fedlex.data.admin.ch/eli/oc/2001/515); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)n. I 2; [2006 2945](https://fedlex.data.admin.ch/eli/oc/2006/449); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 40; [1847](https://fedlex.data.admin.ch/eli/oc/2007/269)all. 3 n. 2; [1961](https://fedlex.data.admin.ch/eli/oc/2007/280)all. 7 n. 1; [5651](https://fedlex.data.admin.ch/eli/oc/2007/778)n. II 2; [2010 4031](https://fedlex.data.admin.ch/eli/oc/2010/584); [2015 1497](https://fedlex.data.admin.ch/eli/oc/2015/299)art. 27 n. 2; [1901](https://fedlex.data.admin.ch/eli/oc/2015/365)n. II; [2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)n. I 3; [2017 2785](https://fedlex.data.admin.ch/eli/oc/2017/281), [5935](https://fedlex.data.admin.ch/eli/oc/2017/650)all. n. 2; [2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)all. 6 n. II 3]
+[^annex8-lvlu1-1]: [[RU 2001 3399](https://fedlex.data.admin.ch/eli/oc/2001/515); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)n. I 2; [2006 2945](https://fedlex.data.admin.ch/eli/oc/2006/449); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 40, [1847](https://fedlex.data.admin.ch/eli/oc/2007/269)all. 3 n. 2, [1961](https://fedlex.data.admin.ch/eli/oc/2007/280)all. 7 n. 1, [5651](https://fedlex.data.admin.ch/eli/oc/2007/778)n. II 2; [2010 4031](https://fedlex.data.admin.ch/eli/oc/2010/584); [2015 1497](https://fedlex.data.admin.ch/eli/oc/2015/299)art. 27 n. 2, [1901](https://fedlex.data.admin.ch/eli/oc/2015/365)n. II; [2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)n. I 3; [2017 2785](https://fedlex.data.admin.ch/eli/oc/2017/281), [5935](https://fedlex.data.admin.ch/eli/oc/2017/650)all. n. 2; [2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)all. 6 n. II 3]
 [^annex8-lvlu1-2]: Le mod. possono essere consultate alla [RU 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786).

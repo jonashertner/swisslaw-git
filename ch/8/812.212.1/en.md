@@ -4,11 +4,11 @@ title: "Ordinance of 14 November 2018 on Licensing in the Medicinal Products Sec
 short: MPLO
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: en
-version: 2022-01-28
+version: 2022-07-01
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20220128/en/xml/fedlex-data-admin-ch-eli-cc-2018-786-20220128-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20220128/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2018-786-20220701-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20220701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Medicinal Products Licensing Ordinance, MPLO)
 
-of 14 November 2018 (Status as of 28 January 2022)
+of 14 November 2018 (Status as of 1 July 2022)
 
 The Swiss Federal Council,
 
@@ -799,9 +799,10 @@ Treating physicians with a cantonal professional licence may import small quanti
 
 <sup>6</sup> They must keep a record of the check described in paragraph 5 and of the time when the check was carried out and the import took place, and the nature, number and intended use of the imported human medicinal products.
 
-<sup>7</sup> The import of medicinal products for animals by medical professionals is subject to Article 7 of the Veterinary Medicinal Products Ordinance of 18 August 2004[^49-1].
+<sup>7</sup> The import of medicinal products for animals by veterinarians is subject to Articles 7‒7*d* of the Veterinary Medicinal Products Ordinance of 18 August 2004[^49-1].[^49-2]
 
 [^49-1]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^49-2]: Amended by No III 2 of the O of 3 June 2022, in force since 1 July 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 50
 

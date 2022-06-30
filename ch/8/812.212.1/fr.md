@@ -4,11 +4,11 @@ title: Ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des 
 short: OAMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: fr
-version: 2022-01-28
+version: 2022-07-01
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20220128/fr/xml/fedlex-data-admin-ch-eli-cc-2018-786-20220128-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20220128/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2018-786-20220701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20220128/fr"
 
 (OAMéd)
 
-du 14 novembre 2018 (Etat le 28 janvier 2022)
+du 14 novembre 2018 (Etat le 1<sup>er</sup> juillet 2022)
 
 Le Conseil fédéral suisse,
 
@@ -793,9 +793,10 @@ Tout médecin traitant titulaire d’une autorisation cantonale de pratiquer peu
 
 <sup>6</sup> Elle tient un registre sur le contrôle visé à l’al. 5 et sur la date de ce contrôle et de l’importation, dans lequel elle consigne le type, la quantité et l’utilisation prévue du médicament à usage humain importé.
 
-<sup>7</sup> L’importation de médicaments à usage vétérinaire par des personnes exerçant une profession médicale est régie par l’art. 7 de l’ordonnance du 18 août 2004 sur les médicaments vétérinaires[^49-1].
+<sup>7</sup> L’importation de médicaments à usage vétérinaire par des vétérinaires est régie par les art. 7 à 7*d* de l’ordonnance du 18 août 2004 sur les médicaments vétérinaires[^49-1].[^49-2]
 
 [^49-1]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^49-2]: Nouvelle teneur selon le ch. III 2 de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 50
 

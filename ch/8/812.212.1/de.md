@@ -4,11 +4,11 @@ title: Verordnung vom 14. November 2018 über die Bewilligungen im Arzneimittelb
 short: AMBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: de
-version: 2022-01-28
+version: 2022-07-01
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20220128/de/xml/fedlex-data-admin-ch-eli-cc-2018-786-20220128-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20220128/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2018-786-20220701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20220128/de"
 
 (Arzneimittel-Bewilligungsverordnung; AMBV)
 
-vom 14. November 2018 (Stand am 28. Januar 2022)
+vom 14. November 2018 (Stand am 1. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -797,9 +797,10 @@ Behandelnde Ärztinnen oder Ärzte mit einer kantonalen Berufsausübungsbewillig
 
 <sup>6</sup> Sie führt über die Prüfung nach Absatz 5 und über den Zeitpunkt der Prüfung und der Einfuhr, die Art, Anzahl und den Verwendungszweck der eingeführten Humanarzneimittel Buch.
 
-<sup>7</sup> Die Einfuhr von Arzneimitteln für Tiere durch Medizinalpersonen richtet sich nach Artikel 7 der Tierarzneimittelverordnung vom 18. August 2004[^49-1].
+<sup>7</sup> Die Einfuhr von Arzneimitteln für Tiere durch Tierärztinnen und Tierärzte richtet sich nach den Artikeln 7‒7*d* der Tierarzneimittelverordnung vom 18. August 2004[^49-1].[^49-2]
 
 [^49-1]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^49-2]: Fassung gemäss Ziff. III 2 der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 50
 
