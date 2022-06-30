@@ -4,11 +4,11 @@ title: "Federal Act of 20 December 1968 on Administrative Procedure (Administrat
 short: APA
 eli: "https://fedlex.data.admin.ch/eli/cc/1969/737_757_755"
 language: en
-version: 2021-01-01
+version: 2022-07-01
 adopted: 1968-12-20
 in_force: 1969-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/737_757_755/20210101/en/xml/fedlex-data-admin-ch-eli-cc-1969-737_757_755-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/737_757_755/20220701/en/xml/fedlex-data-admin-ch-eli-cc-1969-737_757_755-20220701-en-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/20220701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/20210101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-(Administrative Procedure Act, APA)**[^t-1]**
+(Administrative Procedure Act, APA)[^t-1]
 
-of 20 December 1968 (Status as of 1 January 2021)
+of 20 December 1968 (Status as of 1 July 2022)
 
 [^t-1]: Abbreviation added by Annex No II 3 of the Law Enforcement Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
@@ -29,7 +29,7 @@ on the basis of Article 103 of the Federal Constitution[^ingress-1],[^ingress-2]
 
 decrees:
 
-[^ingress-1]: [BS **1** 3]. This provision corresponds to Art. 177 para. 3 and 187 para. 1 let. d of the Federal Constitution of 18 April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [BS **1** 3]. This provision corresponds to Art. 177 para. 3 and 187 para. 1 let. d of the Federal Constitution of 18 April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-2]: Amended by Annex No 2 of the FA of 6 Oct. 2000 on the General Provisions of Social Insurance Law, in force since 1 Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^ingress-3]: [BBl 1965 II 1348](https://fedlex.data.admin.ch/eli/fga/1965/2_1348_1383_901)
 
@@ -58,9 +58,9 @@ Authorities in terms of paragraph 1 are:
 
 [^1-1]: Amended by No II of the FA of 28 June 1972 on the Amendment of the Federal Constitution relating to the Terms of Employment of Federal Personnel, in force since 1 Jan. 1973 ([AS 1972 2435](https://fedlex.data.admin.ch/eli/oc/1972/2435_2489_2265); [BBl 1971 II 1914](https://fedlex.data.admin.ch/eli/fga/1971/2_1914_1921_1409)).
 [^1-2]: Amended by Annex No 4 of the FA of 8 Oct. 1999, in force since 1 Jan. 2000 ([AS 2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54); BBl **1999** 4809 [5979](https://fedlex.data.admin.ch/eli/fga/1999/1_5979_5299_4961)).
-[^1-3]: [BS **1** 489; [AS 1958 1413](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)Art. 27 let. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)No II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 39 para. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)Art. 2. [AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)No I 1]. See now the Federal Personnel Act of 24 March 2000 ([SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)).
+[^1-3]: [BS **1** 489; [AS 1958 1413](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)Art. 27 let. c; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 4; [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)No II, [1853](https://fedlex.data.admin.ch/eli/oc/2000/284); [2001 894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 39 para. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Art. 2, [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)Art. 2. [AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)No I 1]. See now the Federal Personnel Act of 24 March 2000 ([SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)).
 [^1-4]: Inserted by Annex No 10 of the Federal Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^1-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-5]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^1-6]: Wording of sentence according to Annex No 2 of the FA of 6 Oct. 2000 on the General Provisions of Social Insurance Law, in force since 1 Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^1-7]: Amended by No II 7 of the FA of 24 June 1977 (9 OASI Review), in force since 1 Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -78,9 +78,9 @@ Authorities in terms of paragraph 1 are:
 
 <sup>4</sup> The procedure before the Federal Administrative Court is governed by this Act, unless the Federal Administrative Court Act of 17 June 2005[^2-3] provides otherwise.[^2-4]
 
-[^2-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^2-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^2-2]: Amended by Annex No 2 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^2-3]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^2-3]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 [^2-4]: Inserted by Annex No 10 of the Federal Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### 2. Non-applicability
@@ -100,11 +100,11 @@ This Act does not apply to:
 
 [^3-1]: Part of sentence according to No 2 of the Annex to the FA of 19 Dec. 1986, in force since 1 July 1987 ([AS 1987 932](https://fedlex.data.admin.ch/eli/oc/1987/932_932_932); [BBl 1986 II 313](https://fedlex.data.admin.ch/eli/fga/1986/2_313_317_189)).
 [^3-2]: Amended by No 1 of the Annex to the FA of 22 June 1990, in force since 1 Jan. 1991 ([AS 1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882); [BBl 1989 II 1194](https://fedlex.data.admin.ch/eli/fga/1989/2_1194_1078_942)).
-[^3-3]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^3-3]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^3-4]: Amended by Annex No 1 of the Armed Forces Act of 3 Feb. 1995**,** in force since 1 Jan. 1996 ([AS 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093); [BBl 1993 IV 1](https://fedlex.data.admin.ch/eli/fga/1993/4_1_1_1)).
 [^3-5]: Third lemma repealed by Annex No 1 of the FA of 4 Oct. 2002, with effect from 1 Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 [^3-6]: Inserted by Annex No 2 of the FA of 6 Oct. 2000 on the General Provisions of Social Security Law, in force since 1 Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^3-7]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^3-7]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^3-8]: Amended by Annex No 1 of the Customs Act of 18 March 2005, in force since 1 May 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 [^3-9]: Inserted by Art. 26 of the FD of 7 Oct. 1983 on the Independent Complaints Authority for Radio and Television ([AS 1984 153](https://fedlex.data.admin.ch/eli/oc/1984/153_153_153); [BBl 1981 III 105](https://fedlex.data.admin.ch/eli/fga/1981/3_105_101_85)). Repealed by Annex No II 1 of the FA of 24 March 2006 on Radio and Television, with effect from 1 April 2007 ([AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [BBl 2003 1569](https://fedlex.data.admin.ch/eli/fga/2003/223)).
 
@@ -125,7 +125,7 @@ Provisions of federal law that regulate a procedure in more detail apply provide
 Rulings are decisions of the authorities in individual cases that are based on the public law of the Confederation and have as their subject matter the following:
 
 - a. the establishment, amendment or withdrawal of rights or obligations;
-- a. a finding of the existence, non-existence or extent of rights or obligations;
+- a finding of the existence, non-existence or extent of rights or obligations;
 - c. the rejection of applications for the establishment, amendment, withdrawal or finding of rights or obligations, or the dismissal of such applications without entering into the substance of the case.
 
 <sup>2</sup> Rulings are also enforcement measures (Art. 41 para. 1 let. *a* and *b*), interim orders (Art. 45), decisions on objections (Art. 30 para. 2 let. *b,* 46 let. *b,* and 74 let. *b*), appeal decisions (Art. 61 and 70), decisions in a review (Art. 68) and on explanatory statements (Art. 69).[^5-1]
@@ -266,7 +266,7 @@ The parties are obliged to cooperate in establishing the facts of the case:
 
 <sup>2</sup> The authority shall not be required to consider an application in terms of paragraph 1 letter *a* or *b* if the parties refuse to provide the required and reasonable cooperation.
 
-[^13-1]: [SR 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^13-1]: [SR 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
 [^13-2]: Inserted by No I 2 of the FA of 28 Sept. 2012 on the Amendment of Procedural Provisions on Lawyers’ Professional Secrecy, in force since 1 May 2013 ([AS 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [BBl 2011 8181](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 
 ### III. Examination of witnesses
@@ -295,7 +295,7 @@ If it is not possible to establish the facts of the case sufficiently in any oth
 [^14-1]: Term according to unpublished Federal Council Decree of 19 Dec. 1997.
 [^14-2]: Amended by Annex No 10 of the Federal Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^14-3]: Inserted by Annex No 2 of the Cartels Act of 6 Oct. 1995, in force since 1 July 1996 ([AS 1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546); [BBl 1995 I 468](https://fedlex.data.admin.ch/eli/fga/1995/1_468_472_389)).
-[^14-4]: [SR 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
+[^14-4]: [SR 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
 [^14-5]: Inserted by Annex No 2 of the Financial Market Supervision Act of 22 June 2007, in force since 1 Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^14-6]: Inserted by Annex No 1 of the FA of 20 June 2014 (Consolidation of Oversight through Audit Companies), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^14-7]: Inserted by Annex No 1 of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
@@ -320,7 +320,7 @@ Everyone is obliged to testify.
 
 <sup>3</sup> ...[^16-3]
 
-[^16-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^16-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 [^16-2]: Inserted by Annex No 10 of the Federal Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^16-3]: Repealed by No I 1 of the FA of 23 June 2000 on the Amendment of Federal Legislation in order to guarantee the Protection of Journalistic Sources, with effect from 1 Feb. 2001 ([AS 2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22); [BBl 1999 7966](https://fedlex.data.admin.ch/eli/fga/1999/1_7966_7188_6829)).
 
@@ -330,7 +330,7 @@ Everyone is obliged to testify.
 
 Any person who may be examined as a witness must also cooperate in the gathering of other evidence; in particular he must hand over any documents that are in his possession. Article 51*a* FCP[^17-1] is reserved.[^17-2]
 
-[^17-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^17-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 [^17-2]: Second sentence inserted by No I 2 of the FA of 28 Sept. 2012 on the Amendment of Procedural Provisions on Lawyers’ Professional Secrecy, in force since 1 May ([AS 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [BBl 2011 8181](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 
 ### 5. Rights of the parties
@@ -349,7 +349,7 @@ Any person who may be examined as a witness must also cooperate in the gathering
 
 Articles 37, 39–41 and 43–61 FCP[^19-1] also apply by analogy to the procedure for obtaining evidence; in place of the penalties that the FCP provides for defaulting parties or third parties, the penalties in Article 60 of this Act apply.
 
-[^19-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^19-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 ### E. Periods
 
@@ -412,7 +412,7 @@ The Federal Council shall regulate:
 - c. the requirements by which documents may be re-submitted on paper in the event of technical problems.
 
 [^21a-1]: Inserted by Annex No 10 of the Federal Administrative Court Act of 17 June 2005 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)). Amended by Annex No II 1 of the FA of 18 March 2016 on Electronic Signatures, in force since 1 Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
-[^21a-2]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^21a-2]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 ### III. Extension
 
@@ -657,7 +657,7 @@ With the consent of the party, notification of a ruling may be given by electron
 
 <sup>2</sup> The authority may verbally notify the parties present of interim orders, but it must confirm the ruling to them in writing if any party requests this at the time; the period allowed for applying for legal remedies in this case begins from the time of written confirmation.[^34-3]
 
-[^34-1]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^34-1]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^34-2]: Inserted by Annex No 10 of the Administrative Court Act of 17 June 2005, ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)). Amended by Annex No II 1 of the FA of 18 March 2016 on Electronic Signatures, in force since 1 Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 [^34-3]: Amended by Annex No 10 of the Federal Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
@@ -724,7 +724,7 @@ The authority may enforce its rulings provided:
 Rulings on the payment of money or the provision of security must be enforced by means of debt collection proceedings in accordance with the Federal Act of 11 April 1889[^40-2] on Debt Collection and Bankruptcy.
 
 [^40-1]: Amended by Annex No 1 of the FA of 16. Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^40-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^40-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### 2. Other enforcement measures
 
@@ -743,7 +743,7 @@ In order to enforce other rulings, the authority shall take the following measur
 
 <sup>3</sup> In the cases referred to in paragraph 1 letters a and b, it may dispense with giving notice of the enforcement measure and allowing a period for compliance if there is a risk in any delay.
 
-[^41-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^41-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 3. Proportionality
 
@@ -830,10 +830,10 @@ The appellate authorities are:
 <sup>4</sup> Instructions that an appellate authority issues if it decides in the case and refers the same back to the lower instance are not regarded as instructions within the meaning of paragraph 2.
 
 [^47-1]: Amended by Annex No 10 of the Federal Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^47-2]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^47-2]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 [^47-3]: Amended by Annex No 10 of the Federal Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^47-4]: Inserted by Annex No 10 of the Federal Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^47-5]: Amended by Art. 67 of the Administration Organisation Act of 19 Sept. 1978, in force since 1 June 1979 ([AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114); [BBl 1975 I 1453](https://fedlex.data.admin.ch/eli/fga/1975/1_1453_1465_1441)).
+[^47-5]: Amended by Art. 67 of the Administration Organisation Act of 19 Sept. 1978, in force since 1 June 1979 ([AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)[679](https://fedlex.data.admin.ch/eli/oc/1979/679_679_679); [BBl 1975 I 1453](https://fedlex.data.admin.ch/eli/fga/1975/1_1453_1465_1441)).
 [^47-6]: Repealed by Annex No 10 of the Federal Administrative Court Act of 17 June 2005, with effect from 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 47a
@@ -1034,8 +1034,8 @@ The authority's own fees are governed by the extent and difficulty of the matter
 [^63-1]: Amended by Annex No 10 of the Federal Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^63-2]: Inserted by Annex No 10 of the Federal Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^63-3]: Amended by Annex No 10 of the Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^63-4]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^63-5]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^63-4]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^63-5]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 [^63-6]: Second sentence amended by Annex No II 3 of the Law Enforcement Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 ### IV. Reimbursement of representation costs
@@ -1053,8 +1053,8 @@ The authority's own fees are governed by the extent and difficulty of the matter
 <sup>5</sup> The Federal Council shall regulate the calculation of the award.[^64-1] Article 16 paragraph 1 letter a of the Administrative Court Act of 17 June 2005[^64-2] and Article 73 of the Law Enforcement Authorities Act of 19 March 2010[^64-3] are reserved.[^64-4]
 
 [^64-1]: Amended by Annex No 10 of the Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^64-2]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^64-3]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^64-2]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^64-3]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 [^64-4]: Second sentence amended by Annex No II 3 of the Law Enforcement Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 ### V. Legal aid
@@ -1074,8 +1074,8 @@ The authority's own fees are governed by the extent and difficulty of the matter
 [^65-1]: Amended by Annex No 10 of the Federal Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^65-2]: Amended by Annex No 10 of the Federal Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^65-3]: Amended by Annex No 10 of the Federal Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^65-4]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^65-5]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^65-4]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^65-5]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 [^65-6]: Second sentence amended by Annex No II 3 of the Law Enforcement Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 ### K. Review
@@ -1095,13 +1095,13 @@ It shall also review its decision on the application of a party if:
 - a. the party introduces relevant new facts or evidence;
 - b. the party demonstrates that the appellate authority overlooked relevant facts that were on record or specific applications;
 - c. the party demonstrates that the appellate authority violated the provisions of Articles 10, 59 or 76 on recusal, Articles 26–28 on the inspection of files or the Articles 29–33 on the right to be heard; or
-- d. the European Court of Human Rights has held in a final judgment that there has been a violation of the European Convention on Human Rights of 4 November 1950[^66-2] or of the Protocols[^66-3] thereto, provided an award of damages is not sufficient to remedy the consequences of the violation and the review is necessary in ruling to redress the violation.
+- d.[^66-2] the European Court of Human Rights has held in a final judgment that there has been a violation of the Convention of 4 November 1950[^66-3] for the Protection of Human Rights and Fundamental Freedoms (ECHR) or of the protocols thereto, or if the case has been concluded by means of a friendly settlement (Art. 39 ECHR), provided an award of damages is not sufficient to remedy the consequences of the violation and the review is necessary in ruling to redress the violation.
 
 <sup>3</sup> The grounds referred to in paragraph 2 letters a–c are not regarded as grounds for a review if the party had the opportunity to invoke them in the course of proceedings prior to the appeal decision, or by means of an appeal that he was entitled to bring against the appeal decision.
 
 [^66-1]: Amended by Annex No 10 of the Federal Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^66-2]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^66-3]: [SR 0.101.06](https://fedlex.data.admin.ch/eli/cc/1987/1807_1807_1807), [0.101.07](https://fedlex.data.admin.ch/eli/cc/1988/1598_1598_1598), [0.101.09](https://fedlex.data.admin.ch/eli/cc/1998/2993_2993_2993),**0.101.93**, [0.101.094](https://fedlex.data.admin.ch/eli/cc/2009/377)
+[^66-2]: Amended by Annex No 1 of the FA of 1 Oct. 2021, in force since 1 July 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
+[^66-3]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ### II. Application
 
@@ -1116,7 +1116,7 @@ It shall also review its decision on the application of a party if:
 <sup>3</sup> The content, form, correction and amendment of the application for a review are governed by Articles 52 and 53; the statement of grounds must in particular indicate the grounds for the review and confirmation that the application for a review has been filed in time. This must also contain the application in the event that a new appeal decision is made.
 
 [^67-1]: Amended by Annex No 10 of the Federal Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^67-2]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^67-2]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 [^67-3]: Inserted by Annex No 10 of the Federal Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### III. Decision
@@ -1155,7 +1155,7 @@ It shall also review its decision on the application of a party if:
 
 <sup>2</sup> The person making the report does not have the rights of a party.
 
-## Section 4 Special Authorities****
+## Section 4 Special Authorities
 
 [^chap4-1]
 
@@ -1243,7 +1243,7 @@ An appeal to the Federal Council is inadmissible against rulings that may be con
 <sup>3</sup> If the joint reporting procedure leads to new factual or legal submissions being made, the appellant, any respondents or other parties involved must be heard on these submissions.
 
 [^76-1]: Amended by Annex No 3 of the FA of 4 Oct. 1991, in force since 15 Feb. 1992 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 para. 1 let. b; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
-[^76-2]: [[AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114), [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170)[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)Art. 59 No 2, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699), [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)No II 2 [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808), [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116), [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)Art. 1 [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)No II 1 [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 1, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No I, [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)Art. 1 [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 2 [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510)[581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)Annex No 2, [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770), [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978)[4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Annex No 2 [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)Art. 1[5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)Annex No 1, [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)Annex No 1 [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486)[1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Annex No 1. [AS 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)Art. 63]. See now the Government and Administration Organisation Act of 21 March 1997 ([SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)).
+[^76-2]: [[AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114); [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170), [931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)Art. 59 No 2; [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699); [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)No II 2, [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808); [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116); [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)Art. 1, [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)No II 1, [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 1; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No I; [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)Art. 1 [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 2, [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510), [581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)Annex No 2; [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770); [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978), [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Annex No 2, [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)Art. 1,[5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)Annex No 1; [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)Annex No 1, [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486), [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Annex No 1. [AS 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)Art. 63]. See now the Government and Administration Organisation Act of 21 March 1997 ([SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)).
 
 ### 4. Supplementary procedural provisions
 
@@ -1298,7 +1298,7 @@ On commencement of this Act, the following are repealed:
 - c. contradictory provisions of the federal law; supplementary provisions under Article 4 are reserved.
 
 [^80-1]: [BS **1** 261. [AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)Art. 72 let. a]
-[^80-2]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)Art. 86, [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)Art. 118, [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)No II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)Art. 52 No 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)No III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 No 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)No IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)Art. 52 No 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)Art. 12 para. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Annex No 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)Art. 36 No 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)Art. 59 No 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)No II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)No II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Annex No II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 let. *a*, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)No III para. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)Art. 75 No 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)Annex No 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Annex No 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Annex No 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)Art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)Art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)Annex No 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Annex No 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Annex No 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Annex No 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)Annex No 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)No I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Annex No 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)No I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)No I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Annex No 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)No I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 40 No 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)Art. 11 para. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)Art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 No 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)No II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Annex No 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Annex No 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Annex No II 4 let. *a* [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Annex No II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)Annex No II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Annex No II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Annex No 7. [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Art. 131 para. 1]
+[^80-2]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)Art. 86; [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)Art. 118; [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921); [1969 767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784); [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)No II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)Art. 52 No 2, [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)No III; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 No 3, [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450); [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42); [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)No IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)Art. 52 No 2, [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)Art. 12 para. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Annex No 13; [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)Art. 36 No 1; [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)Art. 59 No 1; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)No II 1, [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)No II; [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Annex No II 1; [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 let. *a*; [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)No III para. 5; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)Art. 75 No 1, [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)Annex No 1; [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Annex No 3, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Annex No 4; [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)Art. 36, [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)Art. 17, [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)Annex No 2, [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Annex No 2; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Annex No 6, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 5; [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Annex No 3, [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No 2; [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)Annex No 1, [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)No I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Annex No 6, [416](https://fedlex.data.admin.ch/eli/oc/2000/92)No I 2, [505](https://fedlex.data.admin.ch/eli/oc/2000/95)No I 1, [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Annex No 1, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)No I 4, [894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 40 No 3, [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)Art. 11 para. 2; [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)Art. 35, [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 No 1, [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)No II, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Annex No 1; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Annex No 7, [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Annex No II 4 let. a, [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Annex No II 1; [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)Annex No II 1, [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Annex No II 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Annex No 7. [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Art. 131 para. 1]
 
 ### B. Transitional provision
 
@@ -1316,7 +1316,7 @@ Commencement date: 1 October 1969[^82-1]
 
 [^82-1]: FCD of 10 Sept. 1969.
 
-## Final Provision of the Amendment of 18 March 1994****
+## Final Provision of the Amendment of 18 March 1994
 
 [^u1-1]
 
@@ -1324,7 +1324,7 @@ Commencement date: 1 October 1969[^82-1]
 
 The new law applies to all appeals that are filed with an appellate authority following the commencement of the Amendment of 18 March 1994.
 
-## Final Provision to the Amendment of 17 June 2005****
+## Final Provision to the Amendment of 17 June 2005
 
 [^u2-1]
 

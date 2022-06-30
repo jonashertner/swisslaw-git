@@ -4,20 +4,20 @@ title: "Bundesgesetz vom 20. Dezember 1968 über das Verwaltungsverfahren (Verwa
 short: VwVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1969/737_757_755"
 language: de
-version: 2021-01-01
+version: 2022-07-01
 adopted: 1968-12-20
 in_force: 1969-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/737_757_755/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1969-737_757_755-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/737_757_755/20220701/de/xml/fedlex-data-admin-ch-eli-cc-1969-737_757_755-20220701-de-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über das Verwaltungsverfahren
 
-(Verwaltungsverfahrensgesetz, VwVG)**[^t-1]**
+(Verwaltungsverfahrensgesetz, VwVG)[^t-1]
 
-vom 20. Dezember 1968 (Stand am 1. Januar 2021)
+vom 20. Dezember 1968 (Stand am 1. Juli 2022)
 
 [^t-1]: Abkürzung eingefügt durch Anhang Ziff. II 3 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
@@ -27,7 +27,7 @@ gestützt auf Artikel 103 der Bundesverfassung[^ingress-1],[^ingress-2] nach Ein
 
 beschliesst:
 
-[^ingress-1]: [BS **1** 3]. Dieser Bestimmung entsprechen die Art. 177 Abs. 3 und 187 Abs. 1 Bst. d der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [BS **1** 3]. Dieser Bestimmung entsprechen die Art. 177 Abs. 3 und 187 Abs. 1 Bst. d der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^ingress-3]: [BBl 1965 II 1348](https://fedlex.data.admin.ch/eli/fga/1965/2_1348_1383_901)
 
@@ -56,9 +56,9 @@ Als Behörden im Sinne von Absatz 1 gelten:
 
 [^1-1]: Fassung gemäss Ziff. II des BG vom 28. Juni 1972 betreffend Änderung des BG über das Dienstverhältnis der Bundesbeamten, in Kraft seit 1. Jan. 1973 ([AS 1972 2435](https://fedlex.data.admin.ch/eli/oc/1972/2435_2489_2265); [BBl 1971 II 1914](https://fedlex.data.admin.ch/eli/fga/1971/2_1914_1921_1409)).
 [^1-2]: Fassung gemäss Anhang Ziff. 4 des BG vom 8. Okt. 1999, in Kraft seit 1. Jan. 2000 ([AS 2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54); BBl **1999** 4809 [5979](https://fedlex.data.admin.ch/eli/fga/1999/1_5979_5299_4961)).
-[^1-3]: [BS **1** 489; [AS 1958 1413](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)Art. 27 Bst. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)Ziff. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 39 Abs. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)Art. 2. [AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. I 1]. Heute: das Bundespersonalgesetz vom 24. März 2000 ([SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)).
+[^1-3]: [BS **1** 489; [AS 1958 1413](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)Art. 27 Bst. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)Ziff. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 39 Abs. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)Art. 2. [AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. I 1]. Heute: das Bundespersonalgesetz vom 24. März 2000 ([SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)).
 [^1-4]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^1-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-5]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^1-6]: Fassung des Satzes gemäss Anhang Ziff. 2 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^1-7]: Fassung gemäss Ziff. II 7 des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -76,9 +76,9 @@ Als Behörden im Sinne von Absatz 1 gelten:
 
 <sup>4</sup> Das Verfahren vor dem Bundesverwaltungsgericht richtet sich nach diesem Gesetz, soweit das Verwaltungsgerichtsgesetz vom 17. Juni 2005[^2-3] nicht davon abweicht.[^2-4]
 
-[^2-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^2-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^2-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^2-3]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^2-3]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 [^2-4]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### 2. Unanwendbarkeit
@@ -90,19 +90,19 @@ Dieses Gesetz findet keine Anwendung auf:
 - a. das Verfahren von Behörden im Sinne von Artikel 1 Absatz 2 Buchstabe *e*, soweit gegen ihre Verfügungen die Beschwerde unmittelbar an eine Bundesbehörde unzulässig ist;
 - b. das erstinstanzliche Verfahren der erstmaligen Begründung des Dienstverhältnisses von Bundespersonal, der Beförderung von Bundespersonal, der dienstlichen Anordnungen an das Bundespersonal[^3-1] und das Verfahren der Ermächtigung zur Strafverfolgung gegen Bundespersonal;
 - c. das erstinstanzliche Verwaltungsstrafverfahren und das gerichtspolizeiliche Ermittlungsverfahren;
-- d.[^3-2] das Verfahren der Militärstrafrechtspflege einschliesslich der Militärdisziplinarrechtspflege, das Verfahren in militärischen Kommandosachen nach Artikel 37 sowie Verfahren nach den Artikeln 38 und 39 des Militärgesetzes vom 3. Februar 1995[^3-3],[^3-4] ...[^3-5];
+- d.[^3-2] das Verfahren der Militärstrafrechtspflege einschliesslich der Militärdisziplinarrechtspflege, das Verfahren in militärischen Kommandosachen nach Artikel 37 sowie Verfahren nach den Artikeln 38 und 39 des Militärgesetzes vom 3. Februar 1995[^3-3],[^3-4] …[^3-5];
 - d<sup>bis</sup>.[^3-6] das Verfahren in Sozialversicherungssachen, soweit das Bundesgesetz vom 6. Oktober 2000[^3-7] über den Allgemeinen Teil des Sozialversicherungsrechts anwendbar ist;
 - e.[^3-8] das Verfahren der Zollveranlagung;
-- e<sup>bis</sup>.[^3-9] ...
+- e<sup>bis</sup>.[^3-9] …
 - f. das erstinstanzliche Verfahren in anderen Verwaltungssachen, wenn deren Natur die Erledigung auf der Stelle durch sofort vollstreckbare Verfügung erfordert.
 
 [^3-1]: Satzteil gemäss Ziff. 2 des Anhangs zum BG vom 19. Dez. 1986, in Kraft seit 1. Juli 1987 ([AS 1987 932](https://fedlex.data.admin.ch/eli/oc/1987/932_932_932); [BBl 1986 II 313](https://fedlex.data.admin.ch/eli/fga/1986/2_313_317_189)).
 [^3-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 22. Juni 1990, in Kraft seit 1. Jan. 1991 ([AS 1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882); [BBl 1989 II 1194](https://fedlex.data.admin.ch/eli/fga/1989/2_1194_1078_942)).
-[^3-3]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^3-3]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^3-4]: Fassung gemäss Anhang Ziff. 1 des Militärgesetzes vom 3. Febr. 1995**,** in Kraft seit 1. Jan. 1996 ([AS 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093); [BBl 1993 IV 1](https://fedlex.data.admin.ch/eli/fga/1993/4_1_1_1)).
 [^3-5]: Drittes Lemma aufgehoben durch Anhang Ziff. 1 des BG vom 4. Okt. 2002, mit Wirkung seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 [^3-6]: Eingefügt durch Anhang Ziff. 2 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^3-7]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^3-7]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^3-8]: Fassung gemäss Anhang Ziff. 1 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 [^3-9]: Eingefügt durch Art. 26 des BB vom 7. Okt. 1983 über die unabhängige Beschwerdeinstanz für Radio und Fernsehen ([AS 1984 153](https://fedlex.data.admin.ch/eli/oc/1984/153_153_153); [BBl 1981 III 105](https://fedlex.data.admin.ch/eli/fga/1981/3_105_101_85)). Aufgehoben durch Anhang Ziff. II 1 des BG vom 24. März 2006 über Radio und Fernsehen, mit Wirkung seit 1. April 2007 ([AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [BBl 2003 1569](https://fedlex.data.admin.ch/eli/fga/2003/223)).
 
@@ -264,7 +264,7 @@ Die Parteien sind verpflichtet, an der Feststellung des Sachverhaltes mitzuwirke
 
 <sup>2</sup> Die Behörde braucht auf Begehren im Sinne von Absatz 1 Buchstabe *a* oder *b* nicht einzutreten, wenn die Parteien die notwendige und zumutbare Mitwirkung verweigern.
 
-[^13-1]: [SR 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^13-1]: [SR 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
 [^13-2]: Eingefügt durch Ziff. I 2 des BG vom 28. Sept. 2012 über die Anpassung von verfahrens-rechtlichen Bestimmungen zum anwaltlichen Berufsgeheimnis, in Kraft seit 1. Mai 2013 ([AS 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [BBl 2011 8181](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 
 ### III. Zeugeneinvernahme
@@ -293,7 +293,7 @@ Lässt sich ein Sachverhalt auf andere Weise nicht hinreichend abklären, so kö
 [^14-1]: Bezeichnung gemäss nicht veröffentlichtem BRB vom 19. Dez. 1997.
 [^14-2]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^14-3]: Eingefügt durch Anhang Ziff. 2 des Kartellgesetzes vom 6. Okt. 1995, in Kraft seit 1. Juli 1996 ([AS 1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546); [BBl 1995 I 468](https://fedlex.data.admin.ch/eli/fga/1995/1_468_472_389)).
-[^14-4]: [SR 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
+[^14-4]: [SR 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
 [^14-5]: Eingefügt durch Anhang Ziff. 2 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^14-6]: Eingefügt durch Anhang Ziff. 1 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^14-7]: Eingefügt durch Anhang Ziff. 1 des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
@@ -316,9 +316,9 @@ Jedermann ist zur Ablegung des Zeugnisses verpflichtet.
 
 <sup>2</sup> Der Träger eines Berufs- oder Geschäftsgeheimnisses im Sinne von Artikel 42 Absatz 2 BZP kann das Zeugnis verweigern, soweit ihn nicht ein anderes Bundesgesetz zum Zeugnis verpflichtet.
 
-<sup>3</sup> ...[^16-3]
+<sup>3</sup> …[^16-3]
 
-[^16-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^16-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 [^16-2]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^16-3]: Aufgehoben durch Ziff. I 1 des BG vom 23. Juni 2000 über die Anpassung der Bundesgesetzgebung an die Gewährleistung des Redaktionsgeheimnisses, mit Wirkung seit 1. Febr. 2001 ([AS 2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22); [BBl 1999 7966](https://fedlex.data.admin.ch/eli/fga/1999/1_7966_7188_6829)).
 
@@ -328,7 +328,7 @@ Jedermann ist zur Ablegung des Zeugnisses verpflichtet.
 
 Wer als Zeuge einvernommen werden kann, hat auch an der Erhebung anderer Beweise mitzuwirken; er hat insbesondere die in seinen Händen befindlichen Urkunden vorzulegen. Vorbehalten bleibt Artikel 51*a* BZP[^17-1].[^17-2]
 
-[^17-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^17-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 [^17-2]: Zweiter Satz eingefügt durch Ziff. I 2 des BG vom 28. Sept. 2012 über die Anpassung von verfahrensrechtlichen Bestimmungen zum anwaltlichen Berufsgeheimnis, in Kraft seit 1. Mai 2013 ([AS 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [BBl 2011 8181](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 
 ### 5. Rechte der Parteien
@@ -347,7 +347,7 @@ Wer als Zeuge einvernommen werden kann, hat auch an der Erhebung anderer Beweise
 
 Auf das Beweisverfahren finden ergänzend die Artikel 37, 39–41 und 43–61 BZP[^19-1] sinngemäss Anwendung; an die Stelle der Straffolgen, die die BZP gegen säumige Parteien oder Dritte vorsieht, tritt die Straffolge nach Artikel 60 dieses Gesetzes.
 
-[^19-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^19-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 ### E. Fristen
 
@@ -410,7 +410,7 @@ Der Bundesrat regelt:
 - c. die Voraussetzungen, unter denen bei technischen Problemen die Nachreichung von Dokumenten auf Papier verlangt werden kann.
 
 [^21a-1]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)). Fassung gemäss Anhang Ziff. II 1 des BG vom 18. März 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
-[^21a-2]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^21a-2]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 ### III. Erstreckung
 
@@ -445,7 +445,7 @@ Absatz 1 gilt nicht in Verfahren betreffend:
 [^22a-2]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^22a-3]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).Fassung gemäss Anhang 7 Ziff. II 1 des BG vom 21. Juni 2019 über das öffentliche Beschaffungswesen, in Kraft seit 1. Jan. 2021 ([AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [BBl 2017 1851](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 
-### IV. Säumnis- folgen
+### IV. Säumnisfolgen
 
 #### Art. 23
 
@@ -655,7 +655,7 @@ Mit dem Einverständnis der Partei können Verfügungen elektronisch eröffnet w
 
 <sup>2</sup> Zwischenverfügungen kann die Behörde anwesenden Parteien mündlich eröffnen, muss sie aber schriftlich bestätigen, wenn eine Partei dies auf der Stelle verlangt; eine Rechtsmittelfrist beginnt in diesem Fall erst von der schriftlichen Bestätigung an zu laufen.[^34-3]
 
-[^34-1]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^34-1]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^34-2]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)). Fassung gemäss Anhang Ziff. II 1 des BG vom 18. März 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 [^34-3]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
@@ -685,7 +685,7 @@ Die Behörde kann ihre Verfügungen durch Veröffentlichung in einem amtlichen B
 [^36-3]: Fassung gemäss Anhang Ziff. 3 des BG vom 4. Okt. 1991, in Kraft seit 15. Febr. 1992 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1 Bst. b; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 [^36-4]: Eingefügt durch Anhang Ziff. 3 des BG vom 4. Okt. 1991, in Kraft seit 15. Febr. 1992 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1 Bst. b; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 
-### III. ...
+### III. …
 
 #### Art. 37
 
@@ -722,7 +722,7 @@ Die Behörde kann ihre Verfügungen vollstrecken, wenn:
 Verfügungen auf Geldzahlung oder Sicherheitsleistung sind auf dem Wege der Schuldbetreibung nach dem Bundesgesetz vom 11. April 1889[^40-2] über Schuldbetreibung und Konkurs zu vollstrecken.
 
 [^40-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^40-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^40-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### 2. Andere Zwangsmittel
 
@@ -741,7 +741,7 @@ Um andere Verfügungen zu vollstrecken, ergreift die Behörde folgende Massnahme
 
 <sup>3</sup> Im Falle von Absatz 1 Buchstaben a und b kann sie auf die Androhung des Zwangsmittels und die Einräumung einer Erfüllungsfrist verzichten, wenn Gefahr im Verzuge ist.
 
-[^41-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^41-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 3. Verhältnismässigkeit
 
@@ -823,15 +823,15 @@ Beschwerdeinstanzen sind:
 
 <sup>2</sup> Hat eine nicht endgültig entscheidende Beschwerdeinstanz im Einzelfalle eine Weisung erteilt, dass oder wie eine Vorinstanz verfügen soll, so ist die Verfügung unmittelbar an die nächsthöhere Beschwerdeinstanz weiterzuziehen; in der Rechtsmittelbelehrung ist darauf aufmerksam zu machen.[^47-5]
 
-<sup>3</sup> ...[^47-6]
+<sup>3</sup> …[^47-6]
 
 <sup>4</sup> Weisungen, die eine Beschwerdeinstanz erteilt, wenn sie in der Sache entscheidet und diese an die Vorinstanz zurückweist, gelten nicht als Weisungen im Sinne von Absatz 2.
 
 [^47-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^47-2]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^47-2]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 [^47-3]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^47-4]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^47-5]: Fassung gemäss Art. 67 des Verwaltungsorganisationsgesetzes vom 19. Sept. 1978, in Kraft seit 1. Juni 1979 ([AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114); [BBl 1975 I 1453](https://fedlex.data.admin.ch/eli/fga/1975/1_1453_1465_1441)).
+[^47-5]: Fassung gemäss Art. 67 des Verwaltungsorganisationsgesetzes vom 19. Sept. 1978, in Kraft seit 1. Juni 1979 ([AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)[679](https://fedlex.data.admin.ch/eli/oc/1979/679_679_679); [BBl 1975 I 1453](https://fedlex.data.admin.ch/eli/fga/1975/1_1453_1465_1441)).
 [^47-6]: Aufgehoben durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 47a
@@ -882,7 +882,7 @@ Der Beschwerdeführer kann mit der Beschwerde rügen:
 
 ### G. Beschwerdeschrift
 
-### I. ...
+### I. …
 
 #### Art. 51
 
@@ -1032,8 +1032,8 @@ Die Spruchgebühr richtet sich nach Umfang und Schwierigkeit der Streitsache, Ar
 [^63-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^63-2]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^63-3]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^63-4]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^63-5]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^63-4]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^63-5]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 [^63-6]: Fassung des zweiten Satzes gemäss Anhang Ziff. II 3 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 ### IV. Parteientschädigung
@@ -1051,8 +1051,8 @@ Die Spruchgebühr richtet sich nach Umfang und Schwierigkeit der Streitsache, Ar
 <sup>5</sup> Der Bundesrat regelt die Bemessung der Entschädigung.[^64-1] Vorbehalten bleiben Artikel 16 Absatz 1 Buchstabe a des Verwaltungsgerichtsgesetzes vom 17. Juni 2005[^64-2] und Artikel 73 des Strafbehördenorganisationsgesetzes vom 19. März 2010[^64-3].[^64-4]
 
 [^64-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^64-2]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^64-3]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^64-2]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^64-3]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 [^64-4]: Fassung des zweiten Satzes gemäss Anhang Ziff. II 3 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 ### V. Unentgeltliche Rechtspflege
@@ -1072,8 +1072,8 @@ Die Spruchgebühr richtet sich nach Umfang und Schwierigkeit der Streitsache, Ar
 [^65-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^65-2]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^65-3]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^65-4]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^65-5]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^65-4]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^65-5]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 [^65-6]: Fassung des Satzes gemäss Anhang Ziff. II 3 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 ### K. Revision
@@ -1093,13 +1093,13 @@ Ausserdem zieht sie ihn auf Begehren einer Partei in Revision, wenn:
 - a. die Partei neue erhebliche Tatsachen oder Beweismittel vorbringt;
 - b. die Partei nachweist, dass die Beschwerdeinstanz aktenkundige erhebliche Tatsachen oder bestimmte Begehren übersehen hat;
 - c. die Partei nachweist, dass die Beschwerdeinstanz die Bestimmungen der Artikel 10, 59 oder 76 über den Ausstand, der Artikel 26–28 über die Akteneinsicht oder der Artikel 29–33 über das rechtliche Gehör verletzt hat; oder
-- d. der Europäische Gerichtshof für Menschenrechte in einem endgültigen Urteil festgestellt hat, dass die Europäische Menschenrechtskonvention vom 4. November 1950[^66-2] oder die Protokolle dazu[^66-3] verletzt worden sind, sofern eine Entschädigung nicht geeignet ist, die Folgen der Verletzung auszugleichen, und die Revision notwendig ist, um die Verletzung zu beseitigen.
+- d.[^66-2] der Europäische Gerichtshof für Menschenrechte in einem endgültigen Urteil festgestellt hat, dass die Konvention vom 4. November 1950[^66-3] zum Schutze der Menschenrechte und Grundfreiheiten (EMRK) oder die Protokolle dazu verletzt worden sind, oder den Fall durch eine gütliche Einigung (Art. 39 EMRK) abgeschlossen hat, sofern eine Entschädigung nicht geeignet ist, die Folgen der Verletzung auszugleichen, und die Revision notwendig ist, um die Verletzung zu beseitigen.
 
 <sup>3</sup> Gründe im Sinne von Absatz 2 Buchstaben a–c gelten nicht als Revisionsgründe, wenn die Partei sie im Rahmen des Verfahrens, das dem Beschwerdeentscheid voranging, oder auf dem Wege einer Beschwerde, die ihr gegen den Beschwerdeentscheid zustand, geltend machen konnte.
 
 [^66-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^66-2]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^66-3]: [SR 0.101.06](https://fedlex.data.admin.ch/eli/cc/1987/1807_1807_1807), [0.101.07](https://fedlex.data.admin.ch/eli/cc/1988/1598_1598_1598), [0.101.09](https://fedlex.data.admin.ch/eli/cc/1998/2993_2993_2993), [0.101.093](https://fedlex.data.admin.ch/eli/cc/2003/396), [0.101.094](https://fedlex.data.admin.ch/eli/cc/2009/377)
+[^66-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 1. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
+[^66-3]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ### II. Begehren
 
@@ -1114,7 +1114,7 @@ Ausserdem zieht sie ihn auf Begehren einer Partei in Revision, wenn:
 <sup>3</sup> Auf Inhalt, Form, Verbesserung und Ergänzung des Revisionsbegehrens finden die Artikel 52 und 53 Anwendung; die Begründung hat insbesondere den Revisionsgrund und die Rechtzeitigkeit des Revisionsbegehrens darzutun. Dieses hat auch die Begehren für den Fall eines neuen Beschwerdeentscheides zu enthalten.
 
 [^67-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^67-2]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^67-2]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 [^67-3]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### III. Entscheid
@@ -1137,7 +1137,7 @@ Ausserdem zieht sie ihn auf Begehren einer Partei in Revision, wenn:
 
 ### M. Besondere Beschwerdearten
 
-### I. ...
+### I. …
 
 #### Art. 70
 
@@ -1153,7 +1153,7 @@ Ausserdem zieht sie ihn auf Begehren einer Partei in Revision, wenn:
 
 <sup>2</sup> Der Anzeiger hat nicht die Rechte einer Partei.
 
-## Vierter Abschnitt: Besondere Behörden****
+## Vierter Abschnitt: Besondere Behörden
 
 [^chap4-1]
 
@@ -1241,7 +1241,7 @@ Die Beschwerde an den Bundesrat ist unzulässig gegen Verfügungen, die durch Be
 <sup>3</sup> Führt es im Mitberichtsverfahren neue tatsächliche oder rechtliche Vorbringen an, so sind der Beschwerdeführer, allfällige Gegenparteien oder andere Beteiligte zu diesen Vorbringen anzuhören.
 
 [^76-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 4. Okt. 1991, in Kraft seit 15. Febr. 1992 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1 Bst. b; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
-[^76-2]: [[AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114), [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170)[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)Art. 59 Ziff. 2, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699), [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)Ziff. II 2 [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808), [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116), [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)Art. 1 [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)Ziff. II 1 [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 1, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. I, [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)Art. 1 [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 2 [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510)[581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)Anhang Ziff. 2, [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770), [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978)[4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 2 [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)Art. 1[5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)Anhang Ziff. 1, [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)Anhang Ziff. 1 [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486)[1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Anhang Ziff. 1. [AS 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)Art. 63]. Siehe heute das Regierungs- und Verwaltungsorganisationsgesetz vom 21. März 1997 ([SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)).
+[^76-2]: [[AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114), [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170)[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)Art. 59 Ziff. 2, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699), [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)Ziff. II 2 [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808), [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116), [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)Art. 1 [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)Ziff. II 1 [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 1, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. I, [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)Art. 1 [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 2 [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510)[581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)Anhang Ziff. 2, [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770), [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978)[4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 2 [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)Art. 1[5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)Anhang Ziff. 1, [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)Anhang Ziff. 1 [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486)[1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Anhang Ziff. 1. [AS 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)Art. 63]. Siehe heute das Regierungs- und Verwaltungsorganisationsgesetz vom 21. März 1997 ([SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)).
 
 ### 4. Ergänzende Verfahrensbestimmungen
 
@@ -1296,7 +1296,7 @@ Mit dem Inkrafttreten dieses Gesetzes sind aufgehoben:
 - c. widersprechende Bestimmungen des Bundesrechts; vorbehalten bleiben ergänzende Bestimmungen im Sinne von Artikel 4.
 
 [^80-1]: [BS **1** 261. [AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)Art. 72 Bst. a]
-[^80-2]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)Art. 86, [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)Art. 118, [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)Ziff. II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)Art. 52 Ziff. 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)Ziff. III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 Ziff. 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)Ziff. IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)Art. 52 Ziff. 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)Art. 12 Abs. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)Art. 36 Ziff. 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)Art. 59 Ziff. 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)Ziff. II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)Ziff. II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Anhang Ziff. II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 Bst. a, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)Ziff. III Abs. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)Art. 75 Ziff. 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)Anhang Ziff. 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Anhang Ziff. 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)Art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)Art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)Anhang Ziff. 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Anhang Ziff. 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Anhang Ziff. 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Anhang Ziff. 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)Anhang Ziff. 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)Ziff. I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Anhang Ziff. 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)Ziff. I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)Ziff. I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)Ziff. I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 40 Ziff. 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)Art. 11 Abs. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)Art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)Ziff. II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Anhang Ziff. II 4 Bst. *a* [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)Anhang Ziff. II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Anhang Ziff. II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 7. [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Art. 131 Abs. 1]
+[^80-2]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)Art. 86; [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)Art. 118; [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921); [1969 767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784); [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)Ziff. II 3, [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)Art. 52 Ziff. 2, [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)Ziff. III; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 Ziff. 3, [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450); [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42); [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)Ziff. IV, [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)Art. 52 Ziff. 2, [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)Art. 12 Abs. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 13; [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)Art. 36 Ziff. 1; [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)Art. 59 Ziff. 1; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)Ziff. II 1, [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)Ziff. II; [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Anhang Ziff. II 1; [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 Bst. a; [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)Ziff. III Abs. 5; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)Art. 75 Ziff. 1, [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)Anhang Ziff. 1; [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Anhang Ziff. 3, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 4; [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)Art. 36, [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)Art. 17, [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)Anhang Ziff. 2, [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Anhang Ziff. 2; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Anhang Ziff. 6, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 5; [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Anhang Ziff. 3, [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 2; [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)Anhang Ziff. 1, [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)Ziff. I 2; [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Anhang Ziff. 6, [416](https://fedlex.data.admin.ch/eli/oc/2000/92)Ziff. I 2, [505](https://fedlex.data.admin.ch/eli/oc/2000/95)Ziff. I 1, [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 1, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)Ziff. I 4, [894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 40 Ziff. 3, [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)Art. 11 Abs. 2; [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)Art. 35, [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 1, [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)Ziff. II, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 1; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 7, [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Anhang Ziff. II 4 Bst. *a*, [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 1; [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)Anhang Ziff. II 1, [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Anhang Ziff. II 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 7. [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Art. 131 Abs. 1]
 
 ### B. Übergangsbestimmung
 
@@ -1314,7 +1314,7 @@ Datum des Inkrafttretens: 1. Oktober 1969[^82-1]
 
 [^82-1]: BRB vom 10. Sept. 1969
 
-## Schlussbestimmung der Änderung vom 18. März 1994****
+## Schlussbestimmung der Änderung vom 18. März 1994
 
 [^u1-1]
 
@@ -1322,7 +1322,7 @@ Datum des Inkrafttretens: 1. Oktober 1969[^82-1]
 
 Das neue Recht findet auf alle Beschwerden Anwendung, die nach dem Inkrafttreten der Änderung vom 18. März 1994 der Beschwerdeinstanz eingereicht werden.
 
-## Schlussbestimmung zur Änderung vom 17. Juni 2005****
+## Schlussbestimmung zur Änderung vom 17. Juni 2005
 
 [^u2-1]
 

@@ -4,20 +4,20 @@ title: Loi fédérale du 20 décembre 1968 sur la procédure administrative (PA)
 short: PA
 eli: "https://fedlex.data.admin.ch/eli/cc/1969/737_757_755"
 language: fr
-version: 2021-01-01
+version: 2022-07-01
 adopted: 1968-12-20
 in_force: 1969-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/737_757_755/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1969-737_757_755-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/737_757_755/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-1969-737_757_755-20220701-fr-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur la procédure administrative
 
-(PA)**[^t-1]**
+(PA)[^t-1]
 
-du 20 décembre 1968 (Etat le 1<sup>er</sup> janvier 2021)
+du 20 décembre 1968 (État le 1<sup>er</sup> juillet 2022)
 
 [^t-1]: Abréviation introduite par l’annexe ch. II 3 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
@@ -27,7 +27,7 @@ vu l’art. 103 de la constitution[^ingress-1],[^ingress-2] vu le message du Con
 
 arrête:
 
-[^ingress-1]: [RS **1** 3]. À la disp. mentionnée correspondent actuellement les art. 177, al. 3, et 187, al. 1, let. d de la cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)3]. À la disp. mentionnée correspondent actuellement les art. 177, al. 3, et 187, al. 1, let. d de la cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^ingress-3]: [FF 1965 II 1383](https://fedlex.data.admin.ch/eli/fga/1965/2_1348_1383_901)
 
@@ -56,9 +56,9 @@ Sont réputées autorités au sens de l’al. 1:
 
 [^1-1]: Nouvelle teneur selon le ch. II de la LF du 28 juin 1972 modifiant la LF sur le statut des fonctionnaires, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2489](https://fedlex.data.admin.ch/eli/oc/1972/2435_2489_2265); [FF 1971 II 1921](https://fedlex.data.admin.ch/eli/fga/1971/2_1914_1921_1409)).
 [^1-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 8 oct. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54); FF **1999** 4471 [5299](https://fedlex.data.admin.ch/eli/fga/1999/1_5979_5299_4961)).
-[^1-3]: [RS **1** 459; [RO 1958 1483](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 let. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)app. ch. 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)ch. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. I 1]. Voir actuellement la LF du 24 mars 2000 sur le personnel de la Confédération ([RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)).
+[^1-3]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)459; [RO 1958 1483](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 let. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)app. ch. 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)ch. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. I 1]. Voir actuellement la LF du 24 mars 2000 sur le personnel de la Confédération ([RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)).
 [^1-4]: Introduite par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^1-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-5]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^1-6]: Nouvelle teneur de la phrase selon l’annexe ch. 2 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^1-7]: Nouvelle teneur selon le ch. II 7 de la LF du 24 juin 1977 (9<sup>e</sup> révision de l’AVS), en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -76,9 +76,9 @@ Sont réputées autorités au sens de l’al. 1:
 
 <sup>4</sup> La procédure devant le Tribunal administratif fédéral est régie par la présente loi, pour autant que la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^2-3] n’en dispose pas autrement.[^2-4]
 
-[^2-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^2-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^2-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^2-3]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^2-3]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 [^2-4]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### 2. Inapplicabilité
@@ -98,11 +98,11 @@ Ne sont pas régies par la présente loi:
 
 [^3-1]: Nouvelle expression selon le ch. 2 de l’app. à la LF du 19 déc. 1986, en vigueur depuis le 1<sup>er</sup> juil. 1987 ([RO 1987 932](https://fedlex.data.admin.ch/eli/oc/1987/932_932_932); [FF 1986 II 317](https://fedlex.data.admin.ch/eli/fga/1986/2_313_317_189)).
 [^3-2]: Nouvelle teneur selon le ch. 1 de l’app. à la LF du 22 juin 1990, en vigueur depuis le 1<sup>er</sup> janv. 1991 ([RO 1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882); [FF 1989 II 1078](https://fedlex.data.admin.ch/eli/fga/1989/2_1194_1078_942)).
-[^3-3]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^3-3]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^3-4]: Nouvelle teneur de la phrase selon l’annexe ch. 1 de la LF du 3 fév. 1995 sur l’armée et l’administration militaire, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093); [FF 1993 IV 1](https://fedlex.data.admin.ch/eli/fga/1993/4_1_1_1)).
 [^3-5]: Abrogé par l’annexe ch. 1 de la LF du 4 oct. 2002, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 [^3-6]: Introduite par l’annexe ch. 2 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^3-7]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^3-7]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^3-8]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 [^3-9]: Introduite par l’art. 26 de l’AF du 7 oct. 1983 sur l’autorité indépendante d’examen des plaintes en matière de radio-télévision ([RO 1984 153](https://fedlex.data.admin.ch/eli/oc/1984/153_153_153); [FF 1981 III 101](https://fedlex.data.admin.ch/eli/fga/1981/3_105_101_85)). Abrogée par l’annexe ch. II 1 de la LF du 24 mars 2006 sur la radio et la télévision, avec effet au 1<sup>er</sup> avr. 2007 ([RO 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [FF 2003 1425](https://fedlex.data.admin.ch/eli/fga/2003/223)).
 
@@ -264,7 +264,7 @@ Les parties sont tenues de collaborer à la constatation des faits:
 
 <sup>2</sup> L’autorité peut déclarer irrecevables les conclusions prises dans une procédure au sens de l’al. 1, let. a ou b, lorsque les parties refusent de prêter le concours nécessaire qu’on peut attendre d’elles.
 
-[^13-1]: [RS 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^13-1]: [RS 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
 [^13-2]: Introduit par le ch. I 2 de la LF du 28 sept. 2012 sur l’adaptation de disp. de procédure relatives au secret professionnel des avocats, en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [FF 2011 7509](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 
 ### III. Audition de témoins
@@ -317,7 +317,7 @@ Chacun est tenu de témoigner.
 
 <sup>3</sup> ...[^16-3]
 
-[^16-1]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^16-1]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 [^16-2]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^16-3]: Abrogé par le ch. I 1 de la LF du 23 juin 2000 sur l’adaptation de la législation fédérale à la garantie du secret de rédaction, avec effet au 1<sup>er</sup> fév. 2001 ([RO 2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22); [FF 1999 7145](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
@@ -327,7 +327,7 @@ Chacun est tenu de témoigner.
 
 Celui qui peut être entendu comme témoin est aussi tenu de collaborer à l’administration d’autres preuves: il doit notamment produire les documents qu’il détient. L’art. 51*a* de la procédure civile fédérale[^17-1] est réservé.[^17-2]
 
-[^17-1]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^17-1]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 [^17-2]: Phrase introduite par le ch. I 2 de la LF du 28 sept. 2012 sur l’adaptation de disp. de procédure relatives au secret professionnel des avocats, en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [FF 2011 7509](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 
 ### 5. Droits des parties
@@ -346,7 +346,7 @@ Celui qui peut être entendu comme témoin est aussi tenu de collaborer à l’a
 
 Sont en outre applicables par analogie à la procédure probatoire les art. 37, 39 à 41 et 43 à 61 de la procédure civile fédérale[^19-1]; les sanctions pénales prévues par ladite loi envers les parties ou les tierces personnes défaillantes sont remplacées par celles qui sont mentionnées à l’art. 60 de la présente loi.
 
-[^19-1]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^19-1]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 ### E. Délais
 
@@ -409,7 +409,7 @@ Le Conseil fédéral règle:
 - c. les conditions auxquelles l’autorité peut exiger, en cas de problème technique, que des documents lui soient adressés ultérieurement sur papier.
 
 [^21a-1]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)). Nouvelle teneur selon l’annexe ch. 1 de la L sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 957](https://fedlex.data.admin.ch/eli/fga/2014/171)).
-[^21a-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^21a-2]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 ### III. Prolongation
 
@@ -654,7 +654,7 @@ La notification peut être faite par voie électronique aux parties qui ont acce
 
 <sup>2</sup> L’autorité peut notifier oralement aux parties présentes les décisions incidentes, mais doit les confirmer par écrit si une partie le requiert séance tenante; dans ce cas, le délai pour utiliser un moyen de droit ne commence à courir qu’à partir de la confirmation écrite.[^34-3]
 
-[^34-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^34-1]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^34-2]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)). Nouvelle teneur selon l’annexe ch. II 1 de la L du 18 mars 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 957](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 [^34-3]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
@@ -721,7 +721,7 @@ L’autorité peut exécuter ses décisions lorsque:
 Les décisions portant condamnation à payer une somme d’argent ou à fournir des sûretés sont exécutées par la voie de la poursuite conformément à la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^40-2].
 
 [^40-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^40-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^40-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### 2. Autres moyens de contrainte
 
@@ -740,7 +740,7 @@ Pour exécuter d’autres décisions, l’autorité recourt aux mesures suivante
 
 <sup>3</sup> Dans les cas visés à l’al. 1, let. a et b, elle peut renoncer à cet avis comminatoire s’il y a péril en la demeure.
 
-[^41-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^41-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 3. Proportionnalité
 
@@ -827,10 +827,10 @@ Sont autorités de recours:
 <sup>4</sup> Les instructions données par une autorité de recours lorsque celle-ci statue sur l’affaire et la renvoie à l’autorité inférieure ne sont pas assimilables à des instructions au sens de l’al. 2.
 
 [^47-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^47-2]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^47-2]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 [^47-3]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^47-4]: Introduite par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^47-5]: Nouvelle teneur selon l’art. 67 de la LF du 19 sept. 1978 sur l’organisation de l’administration, en vigueur depuis le 1<sup>er</sup> juin 1979 ([RO 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114); [FF 1975 I 1465](https://fedlex.data.admin.ch/eli/fga/1975/1_1453_1465_1441)).
+[^47-5]: Nouvelle teneur selon l’art. 67 de la LF du 19 sept. 1978 sur l’organisation de l’administration, en vigueur depuis le 1<sup>er</sup> juin 1979 ([RO 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)[679](https://fedlex.data.admin.ch/eli/oc/1979/679_679_679); [FF 1975 I 1465](https://fedlex.data.admin.ch/eli/fga/1975/1_1453_1465_1441)).
 [^47-6]: Abrogé par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 47a
@@ -1031,8 +1031,8 @@ L’émolument d’arrêté est calculé en fonction de l’ampleur et de la dif
 [^63-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^63-2]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^63-3]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^63-4]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^63-5]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^63-4]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^63-5]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 [^63-6]: Nouvelle teneur de la phrase selon l’annexe ch. II 3 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 ### IV. Dépens
@@ -1050,8 +1050,8 @@ L’émolument d’arrêté est calculé en fonction de l’ampleur et de la dif
 <sup>5</sup> Le Conseil fédéral établit un tarif des dépens.[^64-1] L’art. 16, al. 1, let. a, de la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^64-2] et l’art. 73 de la loi du 19 mars 2010 sur l’organisation des autorités pénales[^64-3] sont réservés.[^64-4]
 
 [^64-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^64-2]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^64-3]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^64-2]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^64-3]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 [^64-4]: Nouvelle teneur de la phrase selon l’annexe ch. II 3 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 ### V. Assistance judiciaire
@@ -1071,8 +1071,8 @@ L’émolument d’arrêté est calculé en fonction de l’ampleur et de la dif
 [^65-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^65-2]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^65-3]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^65-4]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^65-5]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^65-4]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^65-5]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 [^65-6]: Nouvelle teneur de la phrase selon l’annexe ch. II 3 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 ### K. Révision
@@ -1092,13 +1092,13 @@ Elle procède en outre, à la demande d’une partie, à la révision de sa déc
 - a. si la partie allègue des faits nouveaux importants ou produit de nouveaux moyens de preuve;
 - b. si la partie prouve que l’autorité de recours n’a pas tenu compte de faits importants établis par pièces ou n’a pas statué sur certaines conclusions;
 - c. si la partie prouve que l’autorité de recours a violé les art. 10, 59 ou 76 sur la récusation, les art. 26 à 28 sur le droit de consulter les pièces ou les art. 29 à 33 sur le droit d’être entendu, ou
-- d. si la Cour européenne des droits de l’homme a constaté, dans un arrêt définitif, une violation de la Convention de sauvegarde des droits de l’homme et des libertés fondamentales du 4 novembre 1950[^66-2] ou de ses protocoles[^66-3], pour autant qu’une indemnité ne soit pas de nature à remédier aux effets de la violation et que la révision soit nécessaire pour y remédier.
+- d.[^66-2] si la Cour européenne des droits de l’homme a constaté, dans un arrêt définitif, une violation de la Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés fondamentales (CEDH)[^66-3] ou de ses protocoles, ou a conclu le cas par un règlement amiable (art. 39 CEDH), pour autant qu’une indemnité ne soit pas de nature à remédier aux effets de la violation et que la révision soit nécessaire pour y remédier.
 
 <sup>3</sup> Les motifs mentionnés à l’al. 2, let. a à c, n’ouvrent pas la révision s’ils pouvaient être invoqués dans la procédure précédant la décision sur recours ou par la voie du recours contre cette décision.
 
 [^66-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^66-2]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^66-3]: [RS 0.101.06](https://fedlex.data.admin.ch/eli/cc/1987/1807_1807_1807), [0.101.07](https://fedlex.data.admin.ch/eli/cc/1988/1598_1598_1598), [0.101.09](https://fedlex.data.admin.ch/eli/cc/1998/2993_2993_2993), [0.101.093](https://fedlex.data.admin.ch/eli/cc/2003/396), [0.101.094](https://fedlex.data.admin.ch/eli/cc/2009/377)
+[^66-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [FF 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
+[^66-3]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ### II. Demande
 
@@ -1113,7 +1113,7 @@ Elle procède en outre, à la demande d’une partie, à la révision de sa déc
 <sup>3</sup> Les art. 52 et 53 s’appliquent à la demande de révision qui doit notamment indiquer pour quel motif la demande est présentée, si le délai utile est observé et contenir les conclusions prises pour le cas où une nouvelle décision sur recours interviendrait.
 
 [^67-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^67-2]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^67-2]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 [^67-3]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### III. Décision
@@ -1152,7 +1152,7 @@ Elle procède en outre, à la demande d’une partie, à la révision de sa déc
 
 <sup>2</sup> Le dénonciateur n’a aucun des droits reconnus à la partie.
 
-## Chapitre IV Autorités spéciales****
+## Chapitre IV Autorités spéciales
 
 [^chap4-1]
 
@@ -1240,7 +1240,7 @@ Le recours au Conseil fédéral n’est pas recevable contre les décisions qui 
 <sup>3</sup> Si de nouveaux éléments de fait ou de droit sont invoqués lors de la procédure de consultation, le recourant, d’éventuelles parties adverses ou d’autres intéressés doivent être invités à se prononcer à leur sujet.
 
 [^76-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 4 oct. 1991, en vigueur depuis le 15 fév. 1992 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)art. 2 al 1 let. b; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
-[^76-2]: [[RO 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114), [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170)[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)art. 59 ch. 2, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699), [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)ch. II 2 [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808), [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116), [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)art. 1 [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)ch. II 1 [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 1, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362), [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)art. 1 [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 2 [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510)[581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)app. ch. 2, [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770), [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978)[4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)annexe ch. 2 [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)art. 1 [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)annexe ch. 1, [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)annexe ch. 1 [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486)[1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)annexe ch. 1. [RO 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)art. 63]. Actuellement: LF du 21 mars 1997 sur l’organisation du gouvernement et de l’administration ([RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)).
+[^76-2]: [[RO 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114), [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170)[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)art. 59 ch. 2, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699), [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)ch. II 2 [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808), [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116), [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)art. 1 [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)ch. II 1 [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 1, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362), [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)art. 1 [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 2 [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510)[581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)app. ch. 2, [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770), [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978)[4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)annexe ch. 2 [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)art. 1 [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)annexe ch. 1, [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)annexe ch. 1 [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486)[1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)annexe ch. 1. [RO 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)art. 63]. Actuellement: LF du 21 mars 1997 sur l’organisation du gouvernement et de l’administration ([RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)).
 
 ### 4. Dispositions complémentaires de procédure
 
@@ -1294,8 +1294,8 @@ Sont abrogés dès l’entrée en vigueur de la présente loi:
 - b. les art. 124 à 134, 158 et 164 de l’Organisation judiciaire du 16 décembre 1943[^80-2];
 - c. les dispositions contraires du droit fédéral; sont réservées les dispositions complémentaires au sens de l’art. 4.
 
-[^80-1]: [RS **1** 243. [RO 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)art. 72 let. a]
-[^80-2]: [RS **3** 521; [RO 1948 473](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)art. 86, [1955 893](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118, [1959 931](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 787](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)ch. II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 ch. 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)ch. III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 ch. 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)ch. IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 ch. 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 al. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 ch. 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 ch. 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)ch. II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)ch. II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)annexe ch. II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 let. a, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)ch. III al. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 ch. 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)annexe ch. 1,[1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)annexe ch. 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)annexe ch. 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)annexe ch. 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)annexe ch. 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)annexe ch. 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)app. ch. 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)annexe ch. 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)annexe ch. 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)ch. I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)annexe ch. 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)ch. I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)ch. I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)ch. I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 ch. 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 al. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 ch. 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)ch. II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)annexe ch. 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)annexe ch. II 4 let. a [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)annexe ch. II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)annexe ch. II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 7. [RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 al. 1]
+[^80-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)243. [RO 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)art. 72 let. a]
+[^80-2]: [[RS 3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6193)521; [RO 1948 473](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)art. 86, [1955 893](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118, [1959 931](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 787](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)ch. II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 ch. 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)ch. III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 ch. 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)ch. IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 ch. 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 al. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 ch. 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 ch. 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)ch. II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)ch. II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)annexe ch. II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 let. a, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)ch. III al. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 ch. 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)annexe ch. 1,[1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)annexe ch. 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)annexe ch. 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)annexe ch. 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)annexe ch. 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)annexe ch. 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)app. ch. 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)annexe ch. 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)annexe ch. 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)ch. I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)annexe ch. 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)ch. I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)ch. I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)ch. I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 ch. 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 al. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 ch. 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)ch. II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)annexe ch. 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)annexe ch. II 4 let. a [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)annexe ch. II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)annexe ch. II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 7. [RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 al. 1]
 
 ### B. Disposition transitoire
 
@@ -1313,7 +1313,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> octobre 1969[^82-1].
 
 [^82-1]: ACF du 10 sept. 1969
 
-## Disposition finale de la modification du 18 mars 1994****
+## Disposition finale de la modification du 18 mars 1994
 
 [^u1-1]
 
@@ -1321,7 +1321,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> octobre 1969[^82-1].
 
 Le nouveau droit s’applique à tous les recours adressés à l’autorité de recours après l’entrée en vigueur de la modification du 18 mars 1994.
 
-## Disposition finale de la modification du 17 juin 2005****
+## Disposition finale de la modification du 17 juin 2005
 
 [^u2-1]
 

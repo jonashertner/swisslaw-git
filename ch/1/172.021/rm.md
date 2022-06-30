@@ -4,11 +4,11 @@ title: Lescha federala dals 20 da december 1968 davart la procedura administrati
 short: PA
 eli: "https://fedlex.data.admin.ch/eli/cc/1969/737_757_755"
 language: rm
-version: 2021-01-01
+version: 2022-07-01
 adopted: 1968-12-20
 in_force: 1969-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/737_757_755/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-1969-737_757_755-20210101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/20210101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/737_757_755/20220701/rm/xml/fedlex-data-admin-ch-eli-cc-1969-737_757_755-20220701-rm-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/20220701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/20210101/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-(LFPA)**[^t-1]**
+(LFPA)[^t-1]
 
-dals 20 da december 1968 (versiun dal 1. da schaner 2021)
+dals 20 da december 1968 (versiun dal 1. da fanadur 2022)
 
 [^t-1]: Abreviaziun integrada tras la cifra II 3 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
@@ -29,7 +29,7 @@ sa basond sin l’artitgel 103 da la Constituziun federala[^ingress-1],[^ingress
 
 concluda:
 
-[^ingress-1]: [BS **1** 3]. A questa disp. correspundan ils art. 177 al. 3 e 187 al. 1 lit. d Cst. dals 18 d’avr. 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [BS **1** 3]. A questa disp. correspundan ils art. 177 al. 3 e 187 al. 1 lit. d Cst. dals 18 d’avr. 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-2]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 6 d’oct. 2000 davart la part generala dal dretg d’assicuranza sociala, en vigur dapi il 1. da schan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^ingress-3]: [BBl 1965 II 1348](https://fedlex.data.admin.ch/eli/fga/1965/2_1348_1383_901)
 
@@ -58,9 +58,9 @@ Sco autoritads en il senn da l’alinea 1 valan:
 
 [^1-1]: Versiun tenor la cifra II da la LF dals 28 da zer. 1972 concernent la midada da la LF davart la relaziun da lavur dals funcziunaris federals, en vigur dapi il 1. da schan. 1973 ([AS 1972 2435](https://fedlex.data.admin.ch/eli/oc/1972/2435_2489_2265); [BBl 1971 II 1914](https://fedlex.data.admin.ch/eli/fga/1971/2_1914_1921_1409)).
 [^1-2]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 8 d’oct. 1999, en vigur dapi il 1. da schan. 2000 ([AS 2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54); BBl **1999** 4809 [5979](https://fedlex.data.admin.ch/eli/fga/1999/1_5979_5299_4961)).
-[^1-3]: [BS **1** 489; [AS 1958 1413](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 lit. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)agiunta cifra 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)cifra II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 39 al. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)cifra I 1]. Ussa: Lescha davart il persunal da la Confederaziun dals 24 da mars 2000 ([SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)).
+[^1-3]: [BS **1** 489; [AS 1958 1413](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 lit. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)agiunta cifra 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)cifra II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 39 al. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)cifra I 1]. Ussa: Lescha davart il persunal da la Confederaziun dals 24 da mars 2000 ([SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)).
 [^1-4]: Integrà tras la cifra 10 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^1-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-5]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^1-6]: Versiun da la frasa tenor la cifra 2 da l’agiunta da la LF dals 6 d’oct. 2000 davart la part generala dal dretg d’assicuranza sociala, en vigur dapi il 1. da schan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^1-7]: Versiun tenor la cifra II 7 da la LF dals 24 da zer. 1977 (9avla revisiun da la AVS), en vigur dapi il 1. da schan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -78,9 +78,9 @@ Sco autoritads en il senn da l’alinea 1 valan:
 
 <sup>4</sup> La procedura davant il Tribunal administrativ federal sa drizza tenor questa lescha, uschenavant che la Lescha federala dals 17 da zercladur 2005[^2-3] davart il Tribunal administrativ federal na divergescha betg da quella.[^2-4]
 
-[^2-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^2-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^2-2]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 19 da zer. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^2-3]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^2-3]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 [^2-4]: Integrà tras la cifra 10 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### 2. Inapplitgabladad
@@ -100,11 +100,11 @@ Questa lescha na vegn betg applitgada per:
 
 [^3-1]: Formulaziun da la part da la frasa tenor la cifra 2 da l’agiunta da la LF dals 19 da dec. 1986, en vigur dapi il 1. da fan. 1987 ([AS 1987 932](https://fedlex.data.admin.ch/eli/oc/1987/932_932_932); [BBl 1986 II 313](https://fedlex.data.admin.ch/eli/fga/1986/2_313_317_189)).
 [^3-2]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 22 da zer. 1990, en vigur dapi il 1. da schan. 1991 ([AS 1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882); [BBl 1989 II 1194](https://fedlex.data.admin.ch/eli/fga/1989/2_1194_1078_942)).
-[^3-3]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^3-3]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^3-4]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 3 da favr. 1995 davart l’armada e l’administraziun militara, en vigur dapi il 1. da schan. 1996 ([AS 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093); [BBl 1993 IV 1](https://fedlex.data.admin.ch/eli/fga/1993/4_1_1_1)).
 [^3-5]: Terz lemma abolì tras la cifra 1 da l’agiunta da la LF dals 4 d’oct. 2002, cun effect dapi il 1. da schan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 [^3-6]: Integrà tras la cifra 2 da l’agiunta da la LF dals 6 d’oct. 2000 davart la part generala dal dretg d’assicuranza sociala, en vigur dapi il 1. da schan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^3-7]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^3-7]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^3-8]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 18 da mars 2005 davart la duana ed ils dazis, en vigur dapi il 1. da matg 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 [^3-9]: Integrà tras l’art. 26 dal COF dals 7 d’oct. 1983 davart l’Autoritad independenta da recurs davart radio e televisiun ([AS 1984 153](https://fedlex.data.admin.ch/eli/oc/1984/153_153_153); [BBl 1981 III 105](https://fedlex.data.admin.ch/eli/fga/1981/3_105_101_85)). Abolì tras la cifra II 1 da l’agiunta da la LF dals 24 da mars 2006 davart radio e televisiun, cun effect dapi il 1. d’avr. 2007 ([AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [BBl 2003 1569](https://fedlex.data.admin.ch/eli/fga/2003/223)).
 
@@ -266,7 +266,7 @@ Las partidas èn obligadas da cooperar tar la constataziun dals fatgs:
 
 <sup>2</sup> L’autoritad na sto betg entrar sin pretensiuns en il senn da l’alinea 1 litera *a* u *b*, sche las partidas refusan la cooperaziun necessaria e pretendibla.
 
-[^13-1]: [SR 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^13-1]: [SR 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
 [^13-2]: Integrà tras la cifra I 2 da la LF dals 28 da sett. 2012 davart l’adattaziun da disposiziuns da procedura concernent il secret professiunal dals advocats, en vigur dapi il 1. da matg 2013 ([AS 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [BBl 2011 8181](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 
 ### III. Interrogaziun da perditgas
@@ -295,7 +295,7 @@ Sch’ils fatgs na sa laschan betg eruir suffizientamain en in’autra moda e ma
 [^14-1]: Designaziun tenor il COCF betg publitgà dals 19 da dec. 1997.
 [^14-2]: Versiun tenor la cifra 10 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^14-3]: Integrà tras la cifra 2 da l’agiunta da la LF dals 6 d’oct. 1995 davart ils cartels ed autras restricziuns da la concurrenza, en vigur dapi il 1. da fan. 1996 ([AS 1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546); [BBl 1995 I 468](https://fedlex.data.admin.ch/eli/fga/1995/1_468_472_389)).
-[^14-4]: [SR 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
+[^14-4]: [SR 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
 [^14-5]: Integrà tras la cifra 2 da lʼagiunta da la LF dals 22 da zer. 2007 davart la surveglianza dals martgads da finanzas, en vigur dapi il 1. da schan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^14-6]: Integrà tras la cifra 1 da lʼagiunta da la LF dals 20 da zer. 2014 (concentraziun da la surveglianza da las interpresas da revisiun e da las societads da controlla), en vigur dapi il 1. da schan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^14-7]: Integrà tras la cifra 1 da l’agiunta da la LF dals 30 da sett. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
@@ -320,7 +320,7 @@ Mintgin è obligà da dar perditga.
 
 <sup>3</sup> ...[^16-3]
 
-[^16-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^16-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 [^16-2]: Integrà tras la cifra 10 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^16-3]: Abolì tras la cifra I 1 da la LF dals 23 da zer. 2000 davart l’adattaziun da la legislaziun federala a la garanzia dal secret da redacziun, cun effect dapi il 1. favr. 2001 ([AS 2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22); [BBl 1999 7966](https://fedlex.data.admin.ch/eli/fga/1999/1_7966_7188_6829)).
 
@@ -330,7 +330,7 @@ Mintgin è obligà da dar perditga.
 
 La persuna che po vegnir interrogada sco perditga sto er cooperar tar la registraziun d’autras cumprovas; ella sto en spezial preschentar ils documents ch’ella posseda. Resalvà resta l’artitgel 51*a* PC[^17-1].[^17-2]
 
-[^17-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^17-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 [^17-2]: Integrà la segunda frasa tras la cifra I 2 da la LF dals 28 da sett. 2012 davart l’adattaziun da disposiziuns da procedura concernent il secret professiunal dals advocats, en vigur dapi il 1. da matg 2013 ([AS 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [BBl 2011 8181](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 
 ### 5. Dretgs da las partidas
@@ -349,7 +349,7 @@ La persuna che po vegnir interrogada sco perditga sto er cooperar tar la registr
 
 Per la procedura da cumprova vegnan applitgads cumplementarmain tenor il senn ils artitgels 37, 39–41 e 43–61 PC[^19-1]; empè da las consequenzas penalas che la PC prevesa per partidas e terzas persunas negligentas, vegn applitgada la consequenza penala tenor l’artitgel 60 da questa lescha.
 
-[^19-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^19-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 ### E. Termins
 
@@ -412,7 +412,7 @@ Il Cussegl federal regla:
 - c. las premissas, sut las qualas i po vegnir pretendì ch’ils documents vegnian anc tramess sin palpiri en cas da problems tecnics.
 
 [^21a-1]: Integrà tras la cifra 10 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)). Versiun tenor la cifra II 1 da l’agiunta da la LF dals 18 da mars 2016 davart la signatura electronica, en vigur dapi il 1. da schan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
-[^21a-2]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^21a-2]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 ### III. Prolungaziun
 
@@ -657,7 +657,7 @@ Cun il consentiment da la partida pon disposiziuns vegnir communitgadas sin via 
 
 <sup>2</sup> L’autoritad po communitgar las disposiziuns intermediaras a bucca a partidas preschentas, las sto dentant confermar en scrit, sch’ina partida pretenda quai immediatamain. Il termin da recurs cumenza en quest cas pir cun la conferma en scrit.[^34-3]
 
-[^34-1]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^34-1]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^34-2]: Integrà tras la cifra 10 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)). Versiun tenor la cifra II 1 da l’agiunta da la LF dals 18 da mars 2016 davart la signatura electronica, en vigur dapi il 1. da schan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 [^34-3]: Versiun tenor la cifra 10 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
@@ -724,7 +724,7 @@ L’autoritad po exequir sias disposiziuns, sche:
 Disposiziuns davart pajaments en daners u prestaziuns da segirezza ston vegnir exequidas sin la via da la scussiun tenor la Lescha federala dals 11 d’avrigl 1889[^40-2] davart la scussiun ed il concurs.
 
 [^40-1]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^40-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^40-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### 2. Auters meds repressivs
 
@@ -743,7 +743,7 @@ Per exequir autras disposiziuns, prenda l’autoritad las suandantas mesiras:
 
 <sup>3</sup> En cas da l’alinea 1 literas a e b po ella desister d’avertir e da conceder in termin d’adempliment, sch’in privel resulta dal retard.
 
-[^41-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^41-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 3. Proporziunalitad
 
@@ -830,10 +830,10 @@ Las instanzas da recurs èn:
 <sup>4</sup> Directivas ch’ina instanza da recurs dat, sch’ella decida en chaussa e returna quella a l’instanza precedenta, na valan betg sco directivas en il senn da l’alinea 2.
 
 [^47-1]: Versiun tenor la cifra 10 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^47-2]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^47-2]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 [^47-3]: Versiun tenor la cifra 10 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^47-4]: Integrà tras la cifra 10 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^47-5]: Versiun tenor l’art. 67 da la LF dals 19 da sett. 1978 davart l’organisaziun da l’administraziun, en vigur dapi il 1. da zer. 1979 ([AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114); [BBl 1975 I 1453](https://fedlex.data.admin.ch/eli/fga/1975/1_1453_1465_1441)).
+[^47-5]: Versiun tenor l’art. 67 da la LF dals 19 da sett. 1978 davart l’organisaziun da l’administraziun, en vigur dapi il 1. da zer. 1979 ([AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)[679](https://fedlex.data.admin.ch/eli/oc/1979/679_679_679); [BBl 1975 I 1453](https://fedlex.data.admin.ch/eli/fga/1975/1_1453_1465_1441)).
 [^47-6]: Abolì tras la cifra 10 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, cun effect dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 47a
@@ -1034,8 +1034,8 @@ La taxa da sentenzia sa drizza tenor la dimensiun e la difficultad da la chaussa
 [^63-1]: Versiun tenor la cifra 10 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^63-2]: Integrà tras la cifra 10 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^63-3]: Versiun tenor la cifra 10 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^63-4]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^63-5]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^63-4]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^63-5]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 [^63-6]: Versiun da la segunda frasa tenor la cifra II 3 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 ### IV. Indemnisaziun da las partidas
@@ -1053,8 +1053,8 @@ La taxa da sentenzia sa drizza tenor la dimensiun e la difficultad da la chaussa
 <sup>5</sup> Il Cussegl federal regla la fixaziun da l’indemnisaziun.[^64-1] Resalvads restan l’artitgel 16 alinea 1 litera a da la Lescha dals 17 da zercladur 2005[^64-2] davart il Tribunal administrativ federal e l’artitgel 73 da la Lescha dals 19 da mars 2010[^64-3] davart l’organisaziun da las autoritads penalas.[^64-4]
 
 [^64-1]: Versiun tenor la cifra 10 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^64-2]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^64-3]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^64-2]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^64-3]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 [^64-4]: Versiun da la segunda frasa tenor la cifra II 3 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 ### V. Giurisdicziun gratuita
@@ -1074,8 +1074,8 @@ La taxa da sentenzia sa drizza tenor la dimensiun e la difficultad da la chaussa
 [^65-1]: Versiun tenor la cifra 10 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^65-2]: Versiun tenor la cifra 10 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^65-3]: Versiun tenor la cifra 10 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^65-4]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^65-5]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^65-4]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^65-5]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 [^65-6]: Versiun da la frasa tenor la cifra II 3 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 ### K. Revisiun
@@ -1095,13 +1095,13 @@ Ultra da quai proceda ella a la revisiun sin dumonda d’ina partida, sche:
 - a. la partida preschenta novs fatgs relevants u meds da cumprova;
 - b. la partida cumprova che l’instanza da recurs ha survesì fatgs relevants u tschertas pretensiuns che las actas cuntegnan;
 - c. la partida cumprova che l’instanza da recurs ha violà las disposiziuns dals artitgels 10, 59 u 76 davart la recusaziun, dals artitgels 26–28 davart l’invista da las actas u dals artitgels 29–33 davart l’attenziun giuridica; u
-- d. il Tribunal europeic dals dretgs umans ha constatà en ina sentenzia definitiva che la Convenziun per la protecziun dals dretgs umans e da las libertads fundamentalas dals 4 da november 1950[^66-2] u ses protocols[^66-3] sajan vegnids violads, uschenavant ch’ina indemnisaziun n’è betg adattada per gulivar las consequenzas da la violaziun e la revisiun è necessaria per eliminar la violaziun.
+- d.[^66-2] il Tribunal europeic dals dretgs umans ha constatà en ina sentenzia definitiva che la Convenziun dals 4 da november 1950[^66-3] per la protecziun dals dretgs umans e da las libertads fundamentalas (CEDU) u ses protocols sajan vegnids violads, u ha terminà il cas tras ina cunvegna amicabla (art. 39 CEDU), uschenavant ch’ina indemnisaziun n’è betg adattada per gulivar las consequenzas da la violaziun e la revisiun è necessaria per eliminar la violaziun.
 
 <sup>3</sup> Ils motivs en il senn da l’alinea 2 literas a–c na valan betg sco motivs da revisiun, sche la partida als ha pudì far valair en il rom da la procedura, che ha precedì la decisiun da recurs, u sin la via d’in recurs, il qual ella ha pudì far cun dretg cunter questa decisiun da recurs.
 
 [^66-1]: Versiun tenor la cifra 10 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^66-2]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^66-3]: [SR 0.101.06](https://fedlex.data.admin.ch/eli/cc/1987/1807_1807_1807), [0.101.07](https://fedlex.data.admin.ch/eli/cc/1988/1598_1598_1598), [0.101.09](https://fedlex.data.admin.ch/eli/cc/1998/2993_2993_2993), [0.101.093](https://fedlex.data.admin.ch/eli/cc/2003/396), [0.101.094](https://fedlex.data.admin.ch/eli/cc/2009/377)
+[^66-2]: Versiun tenor la cifra 1 da l’agiunta da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da fan. 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
+[^66-3]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ### II. Dumondas
 
@@ -1116,7 +1116,7 @@ Ultra da quai proceda ella a la revisiun sin dumonda d’ina partida, sche:
 <sup>3</sup> Concernent il cuntegn, la furma, la correctura e l’amplificaziun da la dumonda da revisiun vegnan applitgads ils artitgels 52 e 53; la motivaziun sto explitgar oravant tut il motiv da revisiun e la punctualitad da la dumonda da revisiun. Quella sto er cuntegnair las pretensiuns per il cas ch’i dettia ina nova decisiun da recurs.
 
 [^67-1]: Versiun tenor la cifra 10 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^67-2]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^67-2]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 [^67-3]: Integrà tras la cifra 10 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### III. Decisiun
@@ -1155,7 +1155,7 @@ Ultra da quai proceda ella a la revisiun sin dumonda d’ina partida, sche:
 
 <sup>2</sup> Il denunziader n’ha betg ils dretgs d’ina partida.
 
-## Quart chapitel: Autoritads spezialas****
+## Quart chapitel: Autoritads spezialas
 
 [^chap4-1]
 
@@ -1243,7 +1243,7 @@ Il recurs al Cussegl federal è inadmissibel cunter disposiziuns ch’èn contes
 <sup>3</sup> Sch’i vegnan fatgs valair novs arguments effectivs u giuridics en la procedura da cunrapport, ston il recurrent, eventualas cuntrapartidas u auters participads vegnir tadlads davart quests arguments.
 
 [^76-1]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 4 d’oct. 1991, en vigur dapi ils 15 da favr. 1992 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)art. 2 al. 1 lit. b; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
-[^76-2]: [[AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114), [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170)[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)art. 59 cifra 2, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699), [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)cifra II 2 [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808), [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116), [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)art. 1 [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)cifra II 1 [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 1, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra I, [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)art. 1 [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)agiunta cifra 2 [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510)[581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)agiunta cifra 2, [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770), [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978)[4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)agiunta cifra 2 [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)art. 1 [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)agiunta cifra 1, [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)agiunta cifra 1 [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486)[1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)agiunta cifra 1. [AS 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)art. 63]. Guardar ussa la LF dals 21 da mars 1997 davart l’organisaziun da la regenza e da l’administraziun ([SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)).
+[^76-2]: [[AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114), [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170)[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)art. 59 cifra 2, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699), [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)cifra II 2 [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808), [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116), [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)art. 1 [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)cifra II 1 [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 1, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra I, [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)art. 1 [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)agiunta cifra 2 [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510)[581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)agiunta cifra 2, [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770), [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978)[4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)agiunta cifra 2 [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)art. 1 [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)agiunta cifra 1, [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)agiunta cifra 1 [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486)[1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)agiunta cifra 1. [AS 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)art. 63]. Guardar ussa la LF dals 21 da mars 1997 davart l’organisaziun da la regenza e da l’administraziun ([SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)).
 
 ### 4. Disposiziuns da procedura cumplementaras
 
@@ -1298,7 +1298,7 @@ Cun l’entrada en vigur da questa lescha èn abolids:
 - c. disposiziuns cuntradictoricas dal dretg federal; resalvadas restan disposiziuns cumplementaras en il senn da l’artitgel 4.
 
 [^80-1]: [BS **1** 261. [AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)art. 72 lit. *a*]
-[^80-2]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)art. 86, [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118, [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)cifra II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 cifra 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)cifra III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 cifra 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)cifra IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 cifra 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 al. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)agiunta cifra 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 cifra 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 cifra 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)cifra II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)cifra II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)agiunta cifra II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 lit. *a*, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)cifra III al. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 cifra 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)agiunta cifra 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)agiunta cifra 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)agiunta cifra 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)agiunta cifra 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)agiunta cifra 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)agiunta cifra 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)agiunta cifra 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)agiunta cifra 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)agiunta cifra 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)agiunta cifra 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)cifra I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)agiunta cifra 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)cifra I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)cifra I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)agiunta cifra 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)cifra I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 cifra 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 al. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)cifra II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)agiunta cifra 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)agiunta cifra 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)agiunta cifra II 4 lit. *a* [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)agiunta cifra II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)agiunta cifra II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)agiunta cifra II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)agiunta cifra 7. [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 al. 1]
+[^80-2]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)art. 86; [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118; [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921); [1969 767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784); [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)cifra II 3, [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 cifra 2, [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)cifra III; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 cifra 3, [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450); [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42); [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)cifra IV, [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 cifra 2, [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 al. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)agiunta cifra 13; [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 cifra 1; [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 cifra 1; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)cifra II 1, [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)cifra II; [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)agiunta cifra II 1; [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 lit. a; [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)cifra III al. 5; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 cifra 1, [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)agiunta cifra 1; [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)agiunta cifra 3, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)agiunta cifra 4; [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36, [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17, [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)agiunta cifra 2, [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)agiunta cifra 2; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)agiunta cifra 6, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)agiunta cifra 5; [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)agiunta cifra 3, [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)agiunta cifra 2; [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)agiunta cifra 1, [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)cifra I 2; [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)agiunta cifra 6, [416](https://fedlex.data.admin.ch/eli/oc/2000/92)cifra I 2, [505](https://fedlex.data.admin.ch/eli/oc/2000/95)cifra I 1, [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)agiunta cifra 1, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)cifra I 4, [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 cifra 3, [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 al. 2; [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35, [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 1, [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)cifra II, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)agiunta cifra 1; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)agiunta cifra 7, [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)agiunta cifra II 4 lit. a, [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)agiunta cifra II 1; [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)agiunta cifra II 1, [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)agiunta cifra II 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)agiunta cifra 7. [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 al. 1]
 
 ### B. Disposiziun transitorica
 
@@ -1316,7 +1316,7 @@ Data da l’entrada en vigur: 1. d’october 1969[^82-1]
 
 [^82-1]: COCF dals 10 da sett. 1969.
 
-## Disposiziun finala da la midada dals 18 da mars 1994****
+## Disposiziun finala da la midada dals 18 da mars 1994
 
 [^u1-1]
 
@@ -1324,7 +1324,7 @@ Data da l’entrada en vigur: 1. d’october 1969[^82-1]
 
 Il dretg nov vegn applitgà per tut ils recurs che vegnan inoltrads a l’instanza da recurs suenter l’entrada en vigur da la midada dals 18 da mars 1994.
 
-## Disposiziun finala da la midada dals 17 da zercladur 2005****
+## Disposiziun finala da la midada dals 17 da zercladur 2005
 
 [^u2-1]
 
