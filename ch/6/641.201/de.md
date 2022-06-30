@@ -4,11 +4,11 @@ title: Mehrwertsteuerverordnung vom 27. November 2009 (MWSTV)
 short: MWSTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: de
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2009-828-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2009-828-20220701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20220101/de"
 
 (MWSTV)
 
-vom 27. November 2009 (Stand am 1. Januar 2022)
+vom 27. November 2009 (Stand am 1. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -242,7 +242,7 @@ Nicht als Telekommunikations- oder elektronische Dienstleistung gelten namentlic
 
 [^11-1]
 
-[^11-1]: Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^11-1]: Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 1. Jan. 2018 (AS **2****017** 6307).
 
 ### 2. Abschnitt: Gemeinwesen
 
@@ -452,7 +452,7 @@ Das Erbringen von Leistungen an eng verbundene Personen gilt als Leistungsverhä
 
 Private Organisationen im Sinn von Artikel 32*a*<sup>bis</sup> USG[^27-1] erbringen durch ihre Tätigkeiten Leistungen gegenüber den Herstellern und Importeuren. Die vorgezogenen Entsorgungsgebühren sind Entgelt für diese Leistungen.
 
-[^27-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^27-1]: SR **814****.****01**
 
 #### Art. 28
 
@@ -889,13 +889,13 @@ Als Medikamente gelten:
 - a. nach Artikel 9 Absatz 1 des Heilmittelgesetzes vom 15. Dezember 2000[^49-2] (HMG) zugelassene verwendungsfertige Arzneimittel und Tierarzneimittel-Vormischungen sowie die entsprechenden galenisch fertigen Produkte;
 - b.[^49-3] verwendungsfertige Arzneimittel, die nach Artikel 9 Absätze 2 und 2<sup>ter</sup> HMG keiner Zulassung bedürfen, mit Ausnahme von menschlichem und tierischem Vollblut;
 - c.[^49-4] verwendungsfertige Arzneimittel, die nach Artikel 9*a* HMG eine befristete Zulassung oder nach Artikel 9*b* HMG eine befristete Bewilligung erhalten haben;
-- d.[^49-5] nicht zugelassene verwendungsfertige Arzneimittel nach den Artikeln 48 und 49 Absätze 1–4 der Arzneimittel-Bewilligungsverordnung vom 14. November 2018[^49-6] sowie nach Artikel 7 der Tierarzneimittelverordnung vom 18. August 2004[^49-7].
+- d.[^49-5] nicht zugelassene verwendungsfertige Arzneimittel nach den Artikeln 48 und 49 Absätze 1–4 der Arzneimittel-Bewilligungsverordnung vom 14. November 2018[^49-6] sowie nach den Artikeln 7–7*c* der Tierarzneimittelverordnung vom 18. August 2004[^49-7].
 
 [^49-1]: Fassung gemäss Ziff. I der V vom 18. Juni 2010, in Kraft seit 1. Jan. 2010 ([AS 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 [^49-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^49-3]: Fassung gemäss Ziff. I der V vom 8. März 2019, in Kraft seit 1. April 2019 ([AS 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
 [^49-4]: Fassung gemäss Ziff. I der V vom 8. März 2019, in Kraft seit 1. April 2019 ([AS 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
-[^49-5]: Fassung gemäss Anhang 8 Ziff. II 1 der Arzneimittel-Bewilligungsverordnung vom 14. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
+[^49-5]: Fassung gemäss Ziff. III 1 der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^49-6]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
 [^49-7]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 
@@ -1769,7 +1769,7 @@ Beim Wechsel von der Abrechnung nach vereinbarten Entgelten zur Abrechnung nach 
 
 <sup>2</sup> Beim Wechsel von der Abrechnung nach vereinbarten Entgelten zur Abrechnung nach vereinnahmten Entgelten muss die steuerpflichtige Person in der auf den Wechsel folgenden Abrechnungsperiode die im Zeitpunkt des Wechsels bestehenden Debitorenposten von den in dieser Abrechnungsperiode vereinnahmten Entgelten abziehen.
 
-3 Wird gleichzeitig mit dem Wechsel der Abrechnungsart auch die Abrechnungsmethode geändert, so gilt Artikel 79 Absatz 4 beziehungsweise Artikel 81 Absatz 6.
+<sup>3</sup> Wird gleichzeitig mit dem Wechsel der Abrechnungsart auch die Abrechnungsmethode geändert, so gilt Artikel 79 Absatz 4 beziehungsweise Artikel 81 Absatz 6.
 
 [^107-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 [^107-2]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
@@ -2173,7 +2173,7 @@ Die Auskunftspflicht von Drittpersonen nach Artikel 73 Absatz 2 Buchstabe c MWST
 
 <sup>3</sup> Sie sorgt ausserdem dafür, dass regelmässige Kontrollen betreffend die Richtigkeit und die vollständige Übertragung der erhobenen Daten auf Datenträger stattfinden.
 
-[^131-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^131-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 (AS **20****17** 6307).
 
 #### Art. 132
 
@@ -2589,7 +2589,7 @@ Das Konsultativgremium setzt sich aus vierzehn ständigen Mitgliedern zusammen.
 
 Das Konsultativgremium richtet seine Stellungnahmen und Empfehlungen an das EFD. Es kann darin die Mehrheits- und Minderheitsmeinungen kenntlich machen.
 
-[^160-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^160-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 (AS **20****17** 6307).
 
 #### Art. 161
 

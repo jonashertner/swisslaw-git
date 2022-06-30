@@ -4,11 +4,11 @@ title: Ordonnance du 27 novembre 2009 régissant la taxe sur la valeur ajoutée 
 short: OTVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: fr
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-828-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2009-828-20220701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20220101/fr"
 
 (OTVA)[^t-1]
 
-du 27 novembre 2009 (Etat le 1<sup>er</sup> janvier 2022)
+du 27 novembre 2009 (Etat le 1<sup>er</sup> juillet 2022)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -907,13 +907,13 @@ Sont réputés médicaments:
 - a. les médicaments prêts à l’emploi et les prémélanges pour aliments médicamenteux à usage vétérinaire autorisés conformément à l’art. 9, al. 1, de la loi du 15 décembre 2000 sur les produits thérapeutiques (LPTh)[^49-2], ainsi que les produits correspondants sous leur forme galénique finale;
 - b.[^49-3] les médicaments prêts à l’emploi dispensés de l’autorisation conformément à l’art. 9, al. 2 et 2<sup>ter</sup>, LPTh, à l’exception du sang complet humain ou animal;
 - c.[^49-4] les médicaments prêts à l’emploi ayant reçu une autorisation pour une durée limitée conformément à l’art. 9*a* ou 9*b* LPTh;
-- d.[^49-5] les médicaments prêts à l’emploi non autorisés visés aux art. 48 et 49, al. 1 à 4, de l’ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des médicaments[^49-6] et 7 de l’ordonnance du 18 août 2004 sur les médicaments vétérinaires[^49-7].
+- d.[^49-5] les médicaments prêts à l’emploi non autorisés visés aux art. 48 et 49, al. 1 à 4, de l’ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des médicaments[^49-6] et 7 à 7*c* de l’ordonnance du 18 août 2004 sur les médicaments vétérinaires[^49-7].
 
 [^49-1]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 [^49-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^49-3]: Nouvelle teneur selon le ch. I de l’O du 8 mars 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
 [^49-4]: Nouvelle teneur selon le ch. I de l’O du 8 mars 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
-[^49-5]: Nouvelle teneur selon l’annexe 8 ch. II 1 de l’O du 14 nov. 2018 sur les autorisations dans le domaine des médicaments, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
+[^49-5]: Nouvelle teneur selon le ch. III 1 de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^49-6]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
 [^49-7]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 

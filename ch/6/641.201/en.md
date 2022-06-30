@@ -4,11 +4,11 @@ title: "Ordinance of 27 November 2009 on Value Added Tax (Value Added Tax Ordina
 short: VAT Ordinance
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: en
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2009-828-20220101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2009-828-20220701-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20220701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Value Added Tax Ordinance, VAT Ordinance)
 
-of 27 November 2009 (Status as of 1 January 2022)
+of 27 November 2009 (Status as of 1 July 2022)
 
 The Swiss Federal Council,
 
@@ -891,13 +891,13 @@ Medication is defined as:
 - a. authorised ready-to-use medicinal products and premixed veterinary medicinal products in accordance with Article 9 paragraph 1 of the Therapeutic Products Act of 15 December 2000[^49-2] (TPA) and the related finished Galenic products;
 - b.[^49-3] ready-to-use medicinal products that do not require authorisation under Article 9 paragraphs 2 and 2<sup>ter</sup> TPA, with the exception of human and animal whole blood;
 - c. [^49-4] ready-to-use medicinal products that have been temporarily authorised under Article 9*a* TPA or temporarily licensed under Article 9*b* TPA;
-- d.[^49-5] non-authorised ready-to-use medicinal products under Articles 48 and 49 paragraphs 1–4 of the Medicinal Products Licensing Ordinance of 14 November 2018[^49-6] and Article 7 of the Veterinary Medicinal Products Ordinance of 18 August 2004[^49-7].
+- d.[^49-5] non-authorised ready-to-use medicinal products under Articles 48 and 49 paragraphs 1–4 of the Medicinal Products Licensing Ordinance of 14 November 2018[^49-6] and Article 7–7*c* of the Veterinary Medicinal Products Ordinance of 18 August 2004[^49-7].
 
 [^49-1]: Amended by No I of the O of 18 June 2010, in force since 1 Jan. 2010 ([AS 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 [^49-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^49-3]: Amended by No I of the O of 8 March 2019, in force since 1 April 2019 ([AS 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
 [^49-4]: Amended by No I of the O of 8 March 2019, in force since 1 April 2019 ([AS 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
-[^49-5]: Amended by Annex 8 No II 1 of the Medicinal Products Licensing Ordinance of 14 Nov. 2018, in force since 1 Jan. 2019 ([AS 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
+[^49-5]: Amended by No III 1 of the O of 3 June 2022, in force since 1 July 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^49-6]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
 [^49-7]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 

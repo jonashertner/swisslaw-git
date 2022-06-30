@@ -4,11 +4,11 @@ title: "Ordinanza del 27 novembre 2009 concernente l'imposta sul valore aggiunto
 short: OIVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: it
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-828-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2009-828-20220701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20220101/it"
 
 (Ordinanza sull’IVA, OIVA)
 
-del 27 novembre 2009 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 27 novembre 2009 (Stato 1° luglio 2022) (Stato 1° luglio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -899,13 +899,13 @@ Sono considerati medicinali:
 - a. i medicamenti pronti per l’uso e le premiscele per foraggi medicinali a uso veterinario omologati secondo l’articolo 9 capoverso 1 della legge del 15 dicembre 2000[^49-2] sugli agenti terapeutici (LATer), come pure i relativi prodotti galenici finiti;
 - b.[^49-3] i medicamenti pronti per l’uso che ai sensi dell’articolo 9 capoversi 2 e 2<sup>ter</sup> LATer non sono soggetti all’obbligo di omologazione, ad eccezione del sangue umano e animale completo;
 - c.[^49-4] i medicamenti pronti per l’uso che hanno ottenuto un’omologazione temporanea ai sensi dell’articolo 9*a* LATer o un’autorizzazione temporanea ai sensi dell’articolo 9*b* LATer;
-- d.[^49-5] i medicamenti pronti per l’uso non omologati ai sensi degli articoli 48 e 49 capoversi 1–4 dell’ordinanza del 14 novembre 2018[^49-6] sull’autorizzazione dei medicamenti come pure ai sensi dell’articolo 7 dell’ordinanza del 18 agosto 2004[^49-7] sui medicamenti veterinari.
+- d.[^49-5] i medicamenti pronti per l’uso non omologati ai sensi degli articoli 48 e 49 capoversi 1–4 dell’ordinanza del 14 novembre 2018[^49-6] sull’autorizzazione dei medicamenti come pure ai sensi degli articoli 7–7*c* dell’ordinanza del 18 agosto 2004[^49-7] sui medicamenti veterinari.
 
 [^49-1]: Nuovo testo giusta il n. I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 [^49-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^49-3]: Nuovo testo giusta il n. I dell’O dell’8 mar. 2019, in vigore dal 1° apr. 2019 ([RU 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
 [^49-4]: Nuovo testo giusta il n. I dell’O dell’8 mar. 2019, in vigore dal 1° apr. 2019 ([RU 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
-[^49-5]: Nuovo testo giusta il n. II 1 dell’all. 8 dell’O del 14 nov. 2018 sull’autorizzazione dei medicamenti, in vigore dal 1° gen. 2019 ([RU 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
+[^49-5]: Nuovo testo giusta il n. III 1 dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^49-6]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
 [^49-7]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 
@@ -2641,7 +2641,7 @@ L’organo consultivo presenta i propri pareri e le proprie raccomandazioni all�
 
 L’ordinanza del 29 marzo 2000[^163-1] relativa alla legge federale concernente l’imposta sul valore aggiunto è abrogata.
 
-[^163-1]: [[RU 2000 1347](https://fedlex.data.admin.ch/eli/oc/2000/213), [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)ch. II 4, [2004 5387](https://fedlex.data.admin.ch/eli/oc/2004/820), [2006 2353](https://fedlex.data.admin.ch/eli/oc/2006/360)[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 45, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 24[6657](https://fedlex.data.admin.ch/eli/oc/2007/861)all. n. 9].
+[^163-1]: [[RU 2000 1347](https://fedlex.data.admin.ch/eli/oc/2000/213); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)ch. II 4; [2004 5387](https://fedlex.data.admin.ch/eli/oc/2004/820); [2006 2353](https://fedlex.data.admin.ch/eli/oc/2006/360),[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 45; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 24,[6657](https://fedlex.data.admin.ch/eli/oc/2007/861)all. n. 9].
 
 ### Capitolo 2: Disposizioni transitorie
 
