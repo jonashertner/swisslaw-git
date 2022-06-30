@@ -4,13 +4,13 @@ number: "851.211"
 title: Sozialhilfe- und Präventionsverordnung
 short: SPV
 language: de
-version: 2022-05-01
-valid_until: 2022-06-30
-version_adopted: 2022-02-16
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2022-05-18
 adopted: 2002-08-28
 in_force: 2003-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/851.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3186/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3225/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3186/pdf_file"
 
 (SPV)
 
-Vom 28.08.2002 (Stand 01.05.2022)
+Vom 28.08.2002 (Stand 01.07.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -564,7 +564,7 @@ beschliesst:
 
 <sup>2</sup> Die Gebühr beträgt Fr. 800.– für das ganze Jahr. Ist der Aufwand im Einzelfall nur geringfügig, kann die Gebühr angemessen reduziert werden.
 
-<sup>3</sup> Die Kosten des betreibungsrechtlichen Verfahrens sind von der unterhaltsbeitragsberechtigten Person zu tragen.
+<sup>3</sup> …
 
 ### 4.4. Bevorschussung von Unterhaltsbeiträgen für Kinder
 
@@ -718,28 +718,7 @@ beschliesst:
 
 #### § 35
 
-**Kantonsbeteiligung an Institutionen der Tagesbetreuung von Kindern (§ 51 SPG)**
-
-<sup>1</sup> Die Kostenbeteiligung des Kantons gemäss § 51 Abs. 2 SPG setzt voraus, dass die Leistungsvereinbarung sich an schweizerischen oder kantonalen Qualitätsstandards ausrichtet.
-
-<sup>2</sup> Die angemessene Beteiligung der Gemeinde an den Betriebskosten von Einrichtungen beinhaltet einen mindestens dem Kantonsbeitrag entsprechenden Geldbetrag. Naturalleistungen sind in Geldwerte umzurechnen. Bei der Beteiligung mehrerer Gemeinden gilt die Beitragshöhe gesamthaft.
-
-<sup>3</sup> Die anrechenbaren Betriebskosten ergeben sich aus der Differenz aus den anrechenbaren Einnahmen gemäss Absatz 4 und den anrechenbaren Ausgaben gemäss Absatz 5 nachstehend.
-
-<sup>4</sup> Als anrechenbare Einnahmen gelten:
-
-- a) die Kostgelder und Elternbeiträge;
-- b) Vermögenserträgnisse;
-- c) Betriebsbeiträge öffentlicher und privater Körperschaften, mit Ausnahme der Betriebsbeiträge der Gemeinden;
-- d) übrige Betriebseinnahmen und nicht zweckgebundene Spenden.
-
-<sup>5</sup> Als anrechenbare Ausgaben gelten alle nach Betriebskonzept nötigen Ausgaben mit Ausnahme von Amortisationen der Bauschuld, Abschreibungen auf Mobilien, Rückstellungen und wertvermehrenden Anlagen.
-
-<sup>5<sup>bis</sup></sup> Die Ausrichtung des Kantonsbeitrages erfolgt aufgrund der definitiven Jahresrechnung. An den voraussichtlichen Kantonsbeitrag des laufenden Jahres wird aufgrund des Voranschlages Mitte des Rechnungsjahres eine Akontozahlung geleistet.
-
-<sup>6</sup> Im Fall einer Überdeckung wird der Kantonsbeitrag entsprechend reduziert.
-
-<sup>7</sup> Gesuche sind dem Kantonalen Sozialdienst einzureichen. Dieser entscheidet nach Vorliegen der definitiven Jahresrechnung über den effektiven Kantonsbeitrag. Zuviel geleistete Beiträge sind zurückzuzahlen.
+**…**
 
 ## 7. Weitere Bestimmungen
 
