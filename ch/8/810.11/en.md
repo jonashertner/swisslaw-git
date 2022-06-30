@@ -4,11 +4,11 @@ title: "Federal Act of 18 December 1998 on Medically Assisted Reproduction (Repr
 short: RMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/554"
 language: en
-version: 2017-09-01
+version: 2022-07-01
 adopted: 1998-12-18
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20170901/en/xml/fedlex-data-admin-ch-eli-cc-2000-554-20170901-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20170901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2000-554-20220701-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20220701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Reproductive Medicine Act, RMA)
 
-of 18 December 1998 (Status as of 1 September 2017)
+of 18 December 1998 (Status as of 1 July 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -30,7 +30,7 @@ and having considered the Dispatch of the Federal Council dated 26 June 1996[^in
 decrees:
 
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^ingress-2]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^ingress-3]: [BBl 1996 III 205](https://fedlex.data.admin.ch/eli/fga/1996/3_205_197_189)
 
 ## Chapter 1 General Provisions
@@ -80,7 +80,7 @@ In this Act:
 
 They may only be used in couples:
 
-- a. where a basis for a parent-child relationship exists in accordance with Articles 252–263 of the Swiss Civil Code[^3-1] (CC) and
+- a. where a basis for a parent-child relationship exists in accordance with Articles 252–263 of the Swiss Civil Code[^3-1] (CC); and
 - b.[^3-2] who, on the basis of their age and personal circumstances, are likely to be able to care for and bring up the child until it reaches the age of majority.
 
 <sup>3</sup> Only married couples may use donated sperm cells.
@@ -91,8 +91,8 @@ They may only be used in couples:
 
 [^3-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^3-2]: Amended by Annex No 20 of the FA of 19 Dec. 2008 (Adult Protection, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^3-3]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
-[^3-4]: Inserted by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^3-3]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^3-4]: Inserted by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 4
 
@@ -109,7 +109,7 @@ Assisted reproductive techniques may be used only if:
 - a. the aim is to enable a couple to overcome infertility and other treatment methods have failed or offer no prospect of success; or
 - b. there is no other way of avoiding the risk of transmitting a serious disease to the offspring.
 
-[^5-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^5-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 5a
 
@@ -128,7 +128,7 @@ The analysis of the genetic material of embryos in vitro and their selection acc
 
 <sup>3</sup> They are also permitted in order to identify chromosomal properties that may inhibit the development capacity of the embryo.
 
-[^5a-1]: Inserted by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^5a-1]: Inserted by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 5b
 
@@ -140,7 +140,7 @@ The analysis of the genetic material of embryos in vitro and their selection acc
 
 <sup>3</sup> If an assisted reproductive technique involves an increased risk of multiple pregnancy, the procedure may be carried out only if the couple are prepared to accept a multiple birth.
 
-[^5b-1]: Inserted by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^5b-1]: Inserted by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 6
 
@@ -162,7 +162,7 @@ Before an assisted reproductive technique is used, the physician must adequately
 
 <sup>4</sup> Psychological support must be offered before, during and after treatment.
 
-[^6-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^6-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 6a
 
@@ -185,7 +185,7 @@ Before reproductive techniques with the analysis of the genetic material of repr
 
 <sup>4</sup> The physician must keep records of the counselling sessions.
 
-[^6a-1]: Inserted by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^6a-1]: Inserted by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^6a-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
 
 #### Art. 6b
@@ -194,14 +194,14 @@ Before reproductive techniques with the analysis of the genetic material of repr
 
 The protection and disclosure of genetic data is governed by Articles 7 and 19 HGTA[^6b-2].
 
-[^6b-1]: Inserted by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^6b-1]: Inserted by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^6b-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
 
 #### Art. 7
 
 [^7-1]
 
-[^7-1]: Repealed by No I of the FA of 12 Dec. 2014, with effect from 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^7-1]: Repealed by No I of the FA of 12 Dec. 2014, with effect from 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 ### Section 2 Licensing requirements
 
@@ -215,11 +215,11 @@ A cantonal licence is required by any person who:
 
 - a. uses assisted reproductive techniques;
 - b. receives reproductive cells, impregnated ova or embryos in vitro for preservation or arranges the supply of donated sperm cells without personally using assisted reproductive techniques.
-- [tab] <sup>2</sup> Laboratories that conduct analyses of genetic material in connection with reproductive techniques in terms of Article 5*a* require a licence in terms of Article 8 paragraph 1 HGTA[^8-2]
+- [tab] <sup>2</sup> Laboratories that conduct analyses of genetic material in connection with reproductive techniques in terms of Article 5*a* require a licence in terms of Article 8 paragraph 1 HGTA[^8-2].
 
 <sup>3</sup> No licence is required for insemination using a partner’s sperm cells.
 
-[^8-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^8-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^8-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
 
 #### Art. 9
@@ -245,9 +245,9 @@ If the genetic material from reproductive cells or embryos in vitro is analysed 
 - a. demonstrate they have sufficient knowledge of medical genetics; and
 - b. guarantee that the procedure and cooperation with the laboratories concerned accords with the state of the art in science and practice.[^9-3]
 
-[^9-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
-[^9-2]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
-[^9-3]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^9-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^9-2]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^9-3]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 10
 
@@ -263,9 +263,9 @@ They must:
 - b. together with staff, ensure that sperm donors are carefully selected; and
 - c.[^10-3] ensure that reproductive cells, impregnated ova and embryos in vitro are preserved according to the state of science and practice.
 
-[^10-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
-[^10-2]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
-[^10-3]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^10-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^10-2]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^10-3]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 11
 
@@ -288,9 +288,9 @@ The report must provide information on:
 
 <sup>4</sup> The cantonal licensing authority shall transmit the data to the Federal Statistical Office for evaluation and publication.[^11-3]
 
-[^11-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
-[^11-2]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
-[^11-3]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^11-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^11-2]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^11-3]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 12
 
@@ -309,13 +309,13 @@ The licensing authority shall verify whether:
 
 <sup>4</sup> The Federal Council may delegate enforcement tasks, and in particular inspection tasks, to public or private organisations and persons. It shall ensure that payment is made for the delegated tasks.
 
-[^12-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^12-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 13
 
 [^13-1]
 
-[^13-1]: Repealed by Annex No 87 of the FA on the Federal Administrative Court of 17 June 2005, with effect from 1 Jan. 2007 [AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^13-1]: Repealed by Annex No 87 of the FA on the Federal Administrative Court of 17 June 2005, with effect from 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 14
 
@@ -327,7 +327,7 @@ The Federal Council shall enact the implementing provisions concerning the grant
 
 [^chap2-sec2a-1]
 
-[^chap2-sec2a-1]: Inserted by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^chap2-sec2a-1]: Inserted by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 14a
 
@@ -360,7 +360,7 @@ The evaluation shall relate in particular to:
 
 <sup>4</sup> If consent is revoked or the preservation period expires, then the reproductive cells are to be destroyed immediately.
 
-[^15-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^15-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 16
 
@@ -375,19 +375,20 @@ Impregnated ova and embryos in vitro may only be preserved if:[^16-2]
 
 <sup>2</sup> The preservation period is limited to five years. At the request of the couple concerned, the preservation period shall be extended by a maximum of five years.[^16-4]
 
-<sup>3</sup> Either partner may revoke his or her consent at any time in writing.
+<sup>3</sup> Either partner may revoke his or her consent at any time in writing.[^16-5]
 
-<sup>4</sup> If consent is revoked and the preservation period expires, then the impregnated ova and the embryos in vitro shall be be destroyed immediately. The provisions of the Stem Cell Research Act of 19 December 2003[^16-5] are reserved.[^16-6]
+<sup>4</sup> If consent is revoked and the preservation period expires, then the impregnated ova and the embryos in vitro shall be be destroyed immediately. The provisions of the Stem Cell Research Act of 19 December 2003[^16-6] are reserved.[^16-7]
 
-<sup>5</sup> …[^16-7]
+<sup>5</sup> ...[^16-8]
 
-[^16-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
-[^16-2]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
-[^16-3]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
-[^16-4]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
-[^16-5]: [SR 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
-[^16-6]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
-[^16-7]: Repealed by No I of the FA of 12 Dec. 2014, with effect from 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^16-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-2]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-3]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-4]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-5]: Amended by Annex No 3 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^16-6]: [SR 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
+[^16-7]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-8]: Repealed by No I of the FA of 12 Dec. 2014, with effect from 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 17
 
@@ -397,10 +398,10 @@ Impregnated ova and embryos in vitro may only be preserved if:[^16-2]
 
 <sup>2</sup> The embryo may only be developed outside the woman’s body to the extent that is essential in order to permit implantation in the uterus.
 
-<sup>3</sup> …[^17-2]
+<sup>3</sup> ...[^17-2]
 
-[^17-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
-[^17-2]: Repealed by No I of the FA of 12 Dec. 2014, with effect from 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^17-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^17-2]: Repealed by No I of the FA of 12 Dec. 2014, with effect from 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 ### Section 4 Sperm Donation
 
@@ -452,11 +453,11 @@ No payment shall be made for sperm donation as such.
 
 **Filiation**
 
-<sup>1</sup> A child conceived through sperm donation in accordance with the provisions of this Act cannot contest filiation with the husband of his or her mother. An action contesting paternity by the husband is subject to the provisions of the CC[^23-1].
+<sup>1</sup> If a child is conceived through sperm donation in accordance with the provisions of this Act, neither the child nor the husband or wife of the mother can contest filiation with the husband or wife of the mother.[^23-1]
 
 <sup>2</sup> If a child has been conceived through sperm donation, a paternity action against the sperm donor (Art. 261 ff. CC) is not permitted; however, such an action is permissible if the donor knowingly donated sperm at the place of a person who was not licensed to use assisted reproductive techniques or to preserve and supply donated sperm cells.
 
-[^23-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^23-1]: Amended by Annex No 3 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 24
 
@@ -475,10 +476,12 @@ In particular, the following data about the donor is to be recorded:
 
 <sup>3</sup>
 
-Concerning the woman for whom the donated sperm cells are used and her husband, the following data is to be recorded:
+The following data concerning the woman for whom the donated sperm cells are used and her husband or wife shall be recorded:[^24-1]
 
 - a. family name and first name, date and place of birth, place of residence, place of origin in Switzerland or nationality;
 - b. date on which the sperm cells are used.
+
+[^24-1]: Amended by Annex No 3 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 25
 
@@ -541,7 +544,7 @@ In particular, the commission shall have the following tasks:
 
 <sup>2</sup> The same penalty shall apply to any person who preserves an impregnated ovum or an embryo *in vitro* with the intention of using it or having it used for purposes other than the establishment of a pregnancy.
 
-[^29-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^29-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 30
 
@@ -551,7 +554,7 @@ In particular, the commission shall have the following tasks:
 
 <sup>2</sup> The same penalty shall apply to any person who transfers a human embryo to an animal.
 
-[^30-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^30-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 31
 
@@ -561,7 +564,7 @@ In particular, the commission shall have the following tasks:
 
 <sup>2</sup> The same penalty shall apply to any person who acts as an intermediary for surrogate motherhood.
 
-[^31-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^31-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 32
 
@@ -573,7 +576,7 @@ In particular, the commission shall have the following tasks:
 
 <sup>3</sup> If the offender acts in a professional capacity, the penalty shall be a custodial sentence not exceeding three years or to a monetary penalty. A custodial sentence must be combined with a monetary penalty
 
-[^32-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^32-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 33
 
@@ -581,7 +584,7 @@ In particular, the commission shall have the following tasks:
 
 Any person who in the course of a reproductive technique analyses the genetic material of reproductive cells or embryos in vitro and selects them according to their sex or according to other characteristics without overcoming infertility or avoiding the transmission of the predisposition to a serious disease to the offspring shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
-[^33-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^33-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 34
 
@@ -591,7 +594,7 @@ Any person who in the course of a reproductive technique analyses the genetic ma
 
 <sup>2</sup> The same penalty shall apply to any person who, acting without a licence or having obtained a licence by fraudulent means, uses assisted reproductive techniques or preserves or supplies reproductive cells, impregnated ova or embryos in vitro or arranges analyses of the genetic material of embryos in vitro.
 
-[^34-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^34-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 35
 
@@ -603,7 +606,7 @@ Any person who in the course of a reproductive technique analyses the genetic ma
 
 <sup>3</sup> Paragraph 1 does not apply if the modification of germline cells is an unavoidable concomitant effect of chemotherapy, radiotherapy or another medical treatment that a person is undergoing.
 
-[^35-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^35-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 36
 
@@ -613,7 +616,7 @@ Any person who in the course of a reproductive technique analyses the genetic ma
 
 <sup>2</sup> The same penalty shall apply to any person who transfers a chimera or a hybrid to a woman or to an animal.
 
-[^36-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^36-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 37
 
@@ -625,20 +628,20 @@ Any person who wilfully:
 
 - a. uses an assisted reproductive technique in a woman in contravention of Article 3 paragraph 2 letter a and paragraph 3;
 - b.[^37-2] uses reproductive cells obtained from a person who is deceased, with the exception of the sperm cells of a deceased sperm donor;
-- b<sup>bis</sup> [^37-3] uses impregnated ova or embryos in vitro obtained from a couple one of whom is deceased;
+- b<sup>bis</sup>.[^37-3] uses impregnated ova or embryos in vitro obtained from a couple one of whom is deceased;
 - c. uses donated ova, develops an embryo using donated ova and donated sperm cells, or transfers a donated embryo to a woman;
 - d. uses assisted reproductive techniques in the absence of a permissible indication;
-- [tab] e.[^37-4]…
+- e.[^37-4] ...
 - f. preserves reproductive material in contravention of Articles 15, 16 and 42;
 - g. develops embryos in contravention of Article 17 paragraph 1;
 - h. donates sperm cells to several holders of licences under Article 8 paragraph 1;
 - i. uses donated sperm cells in contravention of Article 22 paragraphs 1–3;
 - j. incorrectly or incompletely records data required in accordance with Article 24;
 
-[^37-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
-[^37-2]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
-[^37-3]: Inserted by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
-[^37-4]: Repealed by No I of the FA of 12 Dec. 2014, with effect from 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^37-1]: Sentence amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^37-2]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^37-3]: Inserted by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^37-4]: Repealed by No I of the FA of 12 Dec. 2014, with effect from 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 38
 
@@ -696,7 +699,7 @@ Article 23 also applies to children conceived before the commencement of this Ac
 
 The submission of reports and proposals in accordance with Article 14*a* paragraph 4 shall take place for the first time five years after the Amendment of 12 December 2014 comes into force.
 
-[^43a-1]: Inserted by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); BBl **2013** 5823).
+[^43a-1]: Inserted by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 ### Section 3 Referendum and Commencement
 
@@ -708,4 +711,4 @@ The submission of reports and proposals in accordance with Article 14*a* paragra
 
 Commencement date: 1 January 2001[^44-1]
 
-[^44-1]: Federal Council Decree of 4 Dec. 2000
+[^44-1]: FCD of 4 Dec. 2000.

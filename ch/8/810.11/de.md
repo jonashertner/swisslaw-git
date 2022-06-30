@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 18. Dezember 1998 über die medizinisch unterstützte F
 short: FMedG
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/554"
 language: de
-version: 2017-09-01
+version: 2022-07-01
 adopted: 1998-12-18
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20170901/de/xml/fedlex-data-admin-ch-eli-cc-2000-554-20170901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20170901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2000-554-20220701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20170901/de"
 
 (Fortpflanzungsmedizingesetz, FMedG)
 
-vom 18. Dezember 1998 (Stand am 1. September 2017)
+vom 18. Dezember 1998 (Stand am 1. Juli 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -374,19 +374,20 @@ Imprägnierte Eizellen und Embryonen *in vitro* dürfen nur konserviert werden, 
 
 <sup>2</sup> Die Konservierungsdauer ist auf fünf Jahre begrenzt. Sie wird auf Antrag des betroffenen Paares um maximal fünf Jahre verlängert.[^16-4]
 
-<sup>3</sup> Jeder der beiden Partner kann die Einwilligung jederzeit schriftlich widerrufen.
+<sup>3</sup> Jeder Teil des betroffenen Paares kann die Einwilligung jederzeit schriftlich widerrufen.[^16-5]
 
-<sup>4</sup> Bei Widerruf der Einwilligung und bei Ablauf der Konservierungsfrist sind die imprägnierten Eizellen und die Embryonen *in vitro* sofort zu vernichten. Vorbehalten bleiben die Bestimmungen des Stammzellenforschungsgesetzes vom 19. Dezember 2003[^16-5].[^16-6]
+<sup>4</sup> Bei Widerruf der Einwilligung und bei Ablauf der Konservierungsfrist sind die imprägnierten Eizellen und die Embryonen *in vitro* sofort zu vernichten. Vorbehalten bleiben die Bestimmungen des Stammzellenforschungsgesetzes vom 19. Dezember 2003[^16-6].[^16-7]
 
-<sup>5</sup> …[^16-7]
+<sup>5</sup> …[^16-8]
 
 [^16-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^16-2]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^16-3]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^16-4]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^16-5]: [SR 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
-[^16-6]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^16-7]: Aufgehoben durch Ziff. I des BG vom 12. Dez. 2014, mit Wirkung seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-5]: Fassung gemäss Anhang Ziff. 3 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^16-6]: [SR 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
+[^16-7]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^16-8]: Aufgehoben durch Ziff. I des BG vom 12. Dez. 2014, mit Wirkung seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
 #### Art. 17
 
@@ -451,11 +452,11 @@ Die Samenspende als solche ist unentgeltlich.
 
 **Kindesverhältnis**
 
-<sup>1</sup> Das Kind, das nach den Bestimmungen dieses Gesetzes durch eine Samenspende gezeugt worden ist, kann das Kindesverhältnis zum Ehemann der Mutter nicht anfechten. Für die Anfechtungsklage des Ehemannes ist das ZGB[^23-1] anwendbar.
+<sup>1</sup> Ist das Kind nach den Bestimmungen dieses Gesetzes durch eine Samenspende gezeugt worden, so kann weder das Kind, noch die Ehefrau oder der Ehemann der Mutter das Kindesverhältnis zur Ehefrau oder zum Ehemann der Mutter anfechten.[^23-1]
 
 <sup>2</sup> Ist ein Kind durch eine Samenspende gezeugt worden, so ist die Vaterschaftsklage gegen den Samenspender (Art. 261 ff. ZGB) ausgeschlossen; die Klage ist jedoch zulässig, wenn die Samenspende wissentlich bei einer Person erfolgt, die keine Bewilligung für die Fortpflanzungsverfahren oder für die Konservierung und Vermittlung gespendeter Samenzellen hat.
 
-[^23-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^23-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 24
 
@@ -474,10 +475,12 @@ Die Samenspende als solche ist unentgeltlich.
 
 <sup>3</sup>
 
-Über die Frau, für welche die gespendeten Samenzellen verwendet werden, und ihren Ehemann sind folgende Daten festzuhalten:
+Über die Frau, für welche die gespendeten Samenzellen verwendet werden, und ihren Ehemann oder ihre Ehefrau sind folgende Daten festzuhalten:[^24-1]
 
 - a. Name und Vorname, Geburtstag und Geburtsort, Wohnort, Heimatort oder Nationalität;
 - b. Datum der Verwendung der Samenzellen.
+
+[^24-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 25
 

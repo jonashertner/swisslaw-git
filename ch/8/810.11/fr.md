@@ -4,11 +4,11 @@ title: Loi fédérale du 18 décembre 1998 sur la procréation médicalement ass
 short: LPMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/554"
 language: fr
-version: 2017-09-01
+version: 2022-07-01
 adopted: 1998-12-18
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20170901/fr/xml/fedlex-data-admin-ch-eli-cc-2000-554-20170901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20170901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-554-20220701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20170901/fr"
 
 (LPMA)[^t-1]
 
-du 18 décembre 1998 (Etat le 1<sup>er</sup> septembre 2017)
+du 18 décembre 1998 (Etat le 1<sup>er</sup> juillet 2022)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes. Note de pied de page introduite par le ch. I de la LF du 12 déc. 2014, en vigueur depuis le 1<sup>er</sup> sept. 2017 (RO **2017** 3641; FF **2013** 5253).
 
@@ -179,7 +179,7 @@ Avant l’application d’une méthode de procréation médicalement assistée c
 
 <sup>2</sup> Le conseil porte uniquement sur la situation individuelle et familiale du couple concerné et ne prend pas en considération l’intérêt général de la société.
 
-<sup>3</sup> A la suite d’un nouvel entretien, le médecin sélectionne un ou plusieurs embryons qui seront transférés dans l’utérus.
+<sup>3</sup> À la suite d’un nouvel entretien, le médecin sélectionne un ou plusieurs embryons qui seront transférés dans l’utérus.
 
 <sup>4</sup> Le médecin est tenu de consigner les entretiens qu’il a eus avec le couple.
 
@@ -453,11 +453,11 @@ Le don de sperme ne peut donner lieu à rémunération.
 
 **Lien de filiation**
 
-<sup>1</sup> L’enfant conçu au moyen d’un don de sperme, conformément aux dispositions de la présente loi, ne peut pas contester le lien de filiation à l’égard du mari de sa mère. L’action en désaveu du mari est régie par les dispositions du CC[^23-1].
+<sup>1</sup> Si l’enfant a été conçu au moyen d’un don de sperme conformément aux dispositions de la présente loi, ni l’enfant, ni l’épouse ou l’époux de la mère ne peut contester le lien de filiation à l’égard de l’épouse ou de l’époux de la mère.[^23-1]
 
 <sup>2</sup> Lorsqu’un enfant a été conçu au moyen d’un don de sperme, l’action en paternité contre le donneur (art. 261 ss CC) est exclue; elle est toutefois admise si le donneur a sciemment fait don de son sperme à une personne qui n’est pas titulaire d’une autorisation de pratiquer la procréation médicalement assistée ou de conserver le sperme provenant de dons et d’en pratiquer la cession.
 
-[^23-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^23-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 24
 
@@ -476,10 +476,12 @@ Les données à consigner relativement aux donneurs sont en particulier les suiv
 
 <sup>3</sup>
 
-En ce qui concerne la femme bénéficiaire du don de sperme et son mari, les données à consigner sont les suivantes:
+En ce qui concerne la femme bénéficiaire du don de sperme et son époux ou son épouse, les données à consigner sont les suivantes:[^24-1]
 
 - a. nom et prénom, date et lieu de naissance, domicile, lieu d’origine ou nationalité;
 - b. date de l’utilisation du sperme.
+
+[^24-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 25
 
@@ -667,7 +669,7 @@ La poursuite et le jugement des infractions à la présente loi sont du ressort 
 
 <sup>1</sup> Quiconque doit obtenir une autorisation en vertu de l’art. 8, al. 1, doit présenter sa demande accompagnée des documents nécessaires dans un délai de trois mois à compter de la date de l’entrée en vigueur de la présente loi.
 
-<sup>2</sup> A défaut, il doit suspendre son activité.
+<sup>2</sup> À défaut, il doit suspendre son activité.
 
 #### Art. 41
 
