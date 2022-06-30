@@ -4,13 +4,13 @@ number: III B/1/1
 title: Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches im Kanton Glarus
 short: Einführungsgesetz zum Zivilgesetzbuch; EG ZGB
 language: de
-version: 2022-01-01
-valid_until: 2022-06-30
-version_adopted: 2022-01-26
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2021-09-05
 adopted: 1911-05-07
 in_force: 1912-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-B.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2270/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2281/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2270/pdf_file"
 
 (Einführungsgesetz zum Zivilgesetzbuch; EG ZGB)
 
-Vom 07.05.1911 (Stand 01.01.2022)
+Vom 07.05.1911 (Stand 01.07.2022)
 
 (Erlassen von der Landsgemeinde am 7. Mai 1911)
 
@@ -289,9 +289,7 @@ Vom 07.05.1911 (Stand 01.01.2022)
 
 <sup>1</sup> Beschlüsse einer Korporation, welche über den Bereich ihres Zweckes hinausgehen oder in statutenwidriger Form geschehen oder in wohlerworbene Rechte einzelner Mitglieder eingreifen, können von der Minderheit bestritten werden.
 
-<sup>2</sup> Eine derartige Bestreitung ist innerhalb Monatsfrist bei der Kantonalen Schlichtungsbehörde oder, falls dafür in den Statuten ein Schiedsgericht vorgesehen ist, durch Einreichung des Rechtsbegehrens beim Schiedsgericht beziehungsweise durch Zustellung des Rechtsbegehrens an die Gegenpartei mit der Aufforderung zum Abschluss des Schiedsvertrages, gemäss den Bestimmungen der Zivilprozessordnung, anhängig zu machen.[^38-1]
-
-[^38-1]: Bereinigt durch LBK
+<sup>2</sup> Eine derartige Bestreitung ist innerhalb Monatsfrist bei der Schlichtungsbehörde oder, falls dafür in den Statuten ein Schiedsgericht vorgesehen ist, durch Einreichung des Rechtsbegehrens beim Schiedsgericht beziehungsweise durch Zustellung des Rechtsbegehrens an die Gegenpartei mit der Aufforderung zum Abschluss des Schiedsvertrages, gemäss den Bestimmungen der Zivilprozessordnung, anhängig zu machen.
 
 #### Art. 39
 
@@ -678,13 +676,13 @@ Vom 07.05.1911 (Stand 01.01.2022)
 
 #### Art. 111
 
-<sup>1</sup> Die Ausschlagung einer Erbschaft ist beim Kantonsgerichtspräsidenten zu erklären.
+<sup>1</sup> Die Ausschlagung einer Erbschaft ist beim Kantonsgericht zu erklären.
 
-<sup>2</sup> Der Kantonsgerichtspräsident führt das in Artikel 570 ZGB vorgeschriebene Protokoll.
+<sup>2</sup> Das Kantonsgericht führt das in Artikel 570 ZGB vorgeschriebene Protokoll.
 
 #### Art. 112
 
-<sup>1</sup> Jede Person, welche eine Erbschaft auszuschlagen beabsichtigt, hat dem Kantonsgerichtspräsidenten den Nachweis darüber zu leisten, dass sie erbberechtigt ist.
+<sup>1</sup> Jede Person, welche eine Erbschaft auszuschlagen beabsichtigt, hat dem Kantonsgericht den Nachweis darüber zu leisten, dass sie erbberechtigt ist.
 
 <sup>2</sup> Für die gesetzlichen Erben erfolgt dieser Nachweis durch zivilstandsamtliche Akten, für die eingesetzten Erben durch Vorlage der Verfügungen des Erblassers.[^112-1]
 
@@ -696,7 +694,7 @@ Vom 07.05.1911 (Stand 01.01.2022)
 
 #### Art. 113
 
-<sup>1</sup> Das Begehren um ein öffentliches Inventar (Art. 580 ZGB) ist beim Kantonsgerichtspräsidenten einzureichen, welcher der Kindes- und Erwachsenenschutzbehörde hievon Anzeige macht.
+<sup>1</sup> Das Begehren um ein öffentliches Inventar (Art. 580 ZGB) ist beim Kantonsgericht einzureichen, welches der Kindes- und Erwachsenenschutzbehörde hiervon Anzeige macht.
 
 #### Art. 114
 
@@ -714,7 +712,7 @@ Vom 07.05.1911 (Stand 01.01.2022)
 
 #### Art. 116
 
-<sup>1</sup> Über Fristverlängerungsgesuche im Sinne von Artikel 587 ZGB entscheidet der Kantonsgerichtspräsident.
+<sup>1</sup> Über Fristverlängerungsgesuche im Sinne von Artikel 587 ZGB entscheidet das Kantonsgericht.
 
 <sup>2</sup> Die Fristverlängerung kommt den säumigen Gläubigern nicht zustatten.
 
@@ -945,9 +943,7 @@ Vom 07.05.1911 (Stand 01.01.2022)
 
 <sup>2</sup> Wald- und Weidegebiete, auch solche, die nicht im Eigentum einer Gemeinde oder Korporation stehen, dürfen zur Ausübung des Skisportes betreten und befahren werden.
 
-<sup>3</sup> Wer zum Schutze der Kulturen ein Verbot erlassen will, hat sich an den Kantonsgerichtspräsidenten zu wenden, welcher das Verbot mit Bussenbestimmung feststellt und die Auskündung im Amtsblatt anordnet.[^146-1]
-
-[^146-1]: Bisheriger Art. 146 Abs. 3 weggelassen durch LBK, da nach Art. 5 StPO (GS [III F/1](https://gesetze.gl.ch/data/III-F.1/de)) heute der Einzelrichter in Strafsachen zuständig ist.
+<sup>3</sup> Wer zum Schutze der Kulturen ein Verbot erlassen will, hat sich an das Kantonsgericht zu wenden, welches das Verbot mit Bussenbestimmung feststellt und die Auskündung im Amtsblatt anordnet.
 
 #### Art. 147
 
@@ -1418,7 +1414,7 @@ Vom 07.05.1911 (Stand 01.01.2022)
 
 <sup>2</sup> Wo die Winterwege über Gräben und Runsen führen, sind die belasteten Eigentümer pflichtig, sichere Brücken darüber zu erstellen, und wo zwei Eigentümer an Gräben oder Runsen zusammenstossen, muss die Brücke von beiden gemeinsam gemacht werden.
 
-<sup>3</sup> Wenn bei gelinder Witterung der Boden weder gefroren noch mit Schnee bedeckt ist und die Eigentümer der belasteten Güter durch Wagenfuhren beträchtlich geschädigt würden, ist der Kantonsgerichtspräsident befugt, während dieser gelinden Witterung die Winterwege schliessen zu lassen; jedoch soll auch in diesem Falle jeder Gutbewerber mit Heu, Stroh, Dünger und Holz für seinen Gebrauch ab der Landstrasse auf sein Gut fahren können.
+<sup>3</sup> Wenn bei gelinder Witterung der Boden weder gefroren noch mit Schnee bedeckt ist und die Eigentümer der belasteten Güter durch Wagenfuhren beträchtlich geschädigt würden, ist das Kantonsgericht befugt, während dieser gelinden Witterung die Winterwege schliessen zu lassen; jedoch soll auch in diesem Falle jeder Gutbewerber mit Heu, Stroh, Dünger und Holz für seinen Gebrauch ab der Landstrasse auf sein Gut fahren können.
 
 #### Art. 219
 
