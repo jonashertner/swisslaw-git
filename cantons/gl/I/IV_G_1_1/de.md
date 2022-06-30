@@ -3,20 +3,20 @@ canton: GL
 number: IV G/1/1
 title: Gesetz über den Natur- und Heimatschutz
 language: de
-version: 2014-09-01
-valid_until: 2022-06-30
-version_adopted: 2014-05-04
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2022-05-01
 adopted: 1971-05-02
 in_force: 1972-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-G.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1714/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2324/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über den Natur- und Heimatschutz
 
-Vom 02.05.1971 (Stand 01.09.2014)
+Vom 02.05.1971 (Stand 01.07.2022)
 
 (Erlassen von der Landsgemeinde am 2. Mai 1971)
 
@@ -24,9 +24,9 @@ Vom 02.05.1971 (Stand 01.09.2014)
 
 #### Art. 1
 
-**Grundsatz**
+**Zweck**
 
-<sup>1</sup> Im Sinne des Umweltschutzes sind die Landschaft des Kantons Glarus, die Ortsbilder, geschichtlichen Stätten, Natur- und Kulturdenkmäler und Erholungsgebiete sowie die freilebenden Tiere und wildwachsenden Pflanzen zu schützen. Zur Erhaltung des ökologischen Gleichgewichtes ist dem gemeinsamen Lebensraum von Mensch, Tier und Pflanze Sorge zu tragen.
+<sup>1</sup> Dieses Gesetz hat zum Zweck, die Landschaft des Kantons Glarus, die Ortsbilder, geschichtlichen Stätten, Natur- und Kulturdenkmäler und Erholungsgebiete sowie die einheimischen Lebewesen und ihre Lebensräume zu schützen. Die Biodiversität ist zu schützen, zu erhalten und zu fördern. Zur Erhaltung des ökologischen Gleichgewichtes ist dem gemeinsamen Lebensraum von Mensch, Tier und Pflanze Sorge zu tragen.
 
 #### Art. 2
 
@@ -83,6 +83,12 @@ Vom 02.05.1971 (Stand 01.09.2014)
 <sup>3</sup> Der Landrat erlässt die erforderlichen Bestimmungen.[^8-1] Er kann diese Kompetenz ganz oder teilweise an den Regierungsrat delegieren.
 
 [^8-1]: Bestimmungen über den Arten- und Biotopschutz (GS [IV G/3](https://gesetze.gl.ch/data/IV-G.3/de))
+
+#### Art. 8a
+
+**Biodiversitätsstrategie**
+
+<sup>1</sup> Der Regierungsrat beschliesst nach Anhörung der Gemeinden und der Interessenverbände eine Strategie zum Schutz, zur Erhaltung und zur Förderung der Biodiversität mit den notwendigen Massnahmen.
 
 #### Art. 9
 
