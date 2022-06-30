@@ -4,13 +4,13 @@ number: "614.11"
 title: Gesetz über die Staats- und Gemeindesteuern
 short: Steuergesetz
 language: de
-version: 2022-01-01
-valid_until: 2022-06-30
-version_adopted: 2022-01-26
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2021-07-06
 adopted: 1985-12-01
 in_force: 1986-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.11"
-pdf: "https://bgs.so.ch/api/de/versions/5228/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5229/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5228/pdf_file"
 
 (Steuergesetz)
 
-Vom 01.12.1985 (Stand 01.01.2022)
+Vom 01.12.1985 (Stand 01.07.2022)
 
 Der Kantonsrat von Solothurn
 
@@ -2162,6 +2162,8 @@ beschliesst:
 **3. Eröffnung**
 
 <sup>1</sup> Verfügungen und Entscheide werden dem Steuerpflichtigen schriftlich eröffnet und müssen eine Rechtsmittelbelehrung enthalten.
+
+<sup>1<sup>bis</sup></sup> Die Zustellung von Verfügungen und Entscheiden, für welche ein Zustellnachweis erbracht werden soll, erfolgt grundsätzlich durch eingeschriebene Postsendung oder auf andere Weise gegen Empfangsbestätigung. Der Regierungsrat kann durch Verordnung Ausnahmen vorsehen und die Einzelheiten, namentlich unter welchen Voraussetzungen eine Form der Zustellung zulässig ist, regeln.
 
 <sup>2</sup> Ist der Aufenthalt eines Steuerpflichtigen unbekannt oder befindet er sich im Ausland, ohne in der Schweiz einen Vertreter zu haben, so kann ihm eine Verfügung oder ein Entscheid rechtswirksam durch Publikation im Amtsblatt eröffnet werden.
 
