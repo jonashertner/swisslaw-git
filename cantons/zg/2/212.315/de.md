@@ -3,20 +3,19 @@ canton: ZG
 number: "212.315"
 title: Ausführungsbestimmungen der Zentralschweizer BVG- und Stiftungsaufsicht (ZBSA) über die berufliche Vorsorge
 language: de
-version: 2019-09-01
-valid_until: 2022-06-30
-version_adopted: 2019-06-03
+version: 2022-07-01
+version_adopted: 2022-05-23
 adopted: 2005-09-16
 in_force: 2006-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/212.315"
-pdf: "https://bgs.zg.ch/api/de/versions/2004/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2347/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen der Zentralschweizer BVG- und Stiftungsaufsicht (ZBSA) über die berufliche Vorsorge
 
-Vom 16. September 2005 (Stand 1. September 2019)
+Vom 16. September 2005 (Stand 1. Juli 2022)
 
 Der Konkordatsrat der Zentralschweizer BVG- und Stiftungsaufsicht (ZBSA),
 
@@ -195,7 +194,7 @@ beschliesst:
 
 **Jährliche Aufsichtsgebühr**
 
-<sup>1</sup> Für die jährliche Prüfung der Berichte und Rechnungen wird eine Grundgebühr von 300 Franken zuzüglich 0,2 Promille des Bruttovermögens, abgerundet auf den nächsten vollen Franken, höchstens aber von 6300 Franken erhoben.
+<sup>1</sup> Für die jährliche Prüfung der Berichte und Rechnungen wird eine Grundgebühr von 300 Franken zuzüglich 0,2 Promille des Bruttovermögens, abgerundet auf den nächsten vollen Franken, höchstens aber von 7300 Franken erhoben.
 
 <sup>2</sup> Sind Abklärungen notwendig, die das übliche Mass übersteigen, darf die Gebühr auf maximal den doppelten Betrag erhöht werden.
 
