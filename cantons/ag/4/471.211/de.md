@@ -4,13 +4,13 @@ number: "471.211"
 title: Verordnung über Ausbildungsbeiträge
 short: "Stipendienverordnung, StipV"
 language: de
-version: 2018-08-01
-valid_until: 2022-06-30
-version_adopted: 2018-05-09
+version: 2022-07-01
+valid_until: 2023-07-31
+version_adopted: 2022-05-18
 adopted: 2007-05-02
 in_force: 2007-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/471.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2627/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3220/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2627/pdf_file"
 
 (Stipendienverordnung, StipV)
 
-Vom 02.05.2007 (Stand 01.08.2018)
+Vom 02.05.2007 (Stand 01.07.2022)
 
 Der Regierungsrat des Kanton Aargau,
 
@@ -403,7 +403,7 @@ beschliesst:
 
 **Gesuchseingabe**
 
-<sup>1</sup> Beitragsgesuche sind dem Departement mit dem offiziellen Formular und den darin verlangten Beilagen frühestens zwei Monate vor Beginn der Ausbildung und spätestens am letzten Tag desjenigen Kalendermonats einzureichen (Datum des Poststempels), welcher dem Kalendermonat des ordentlichen Beginns der Ausbildung beziehungsweise des entsprechenden Ausbildungsjahrs folgt.
+<sup>1</sup> Beitragsgesuche sind dem Departement mit den notwendigen Beilagen frühestens zwei Monate vor Beginn der Ausbildung und spätestens am letzten Tag desjenigen Kalendermonats einzureichen, der dem Kalendermonat des ordentlichen Beginns der Ausbildung beziehungsweise des entsprechenden Ausbildungsjahrs folgt.
 
 <sup>2</sup> …
 
