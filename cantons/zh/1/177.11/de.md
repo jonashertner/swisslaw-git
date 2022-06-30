@@ -4,11 +4,11 @@ number: "177.11"
 title: Personalverordnung (PVO)
 short: PVO
 language: de
-version: "2022-01-01"
-nachtrag: "115"
-valid_until: 2022-07-01
+version: "2022-07-01"
+nachtrag: "117"
+valid_until: 2022-09-01
 adopted: 1998-12-16
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_11-1998_12_16-1999_01_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_11-1998_12_16-1999_01_01-117.html"
 text: pdf
 ---
 
@@ -46,7 +46,7 @@ I. Allgemeine Bestimmungen
 
 **1**
 
-- 1\. 4. 22 - 116
+- 1\. 7. 22 - 117
 
 ### II. Arbeitsverhältnis
 
@@ -134,7 +134,7 @@ Der Regierungsrat und die obersten kantonalen Gerichte umschreiben, soweit erfor
 
 **3**
 
-- 1\. 4. 22 - 116
+- 1\. 7. 22 - 117
 
 <sup>3</sup> In Fällen, in denen sich eine Stelle aufgrund der Richtpositionsumschreibungen und weiterer Unterlagen nicht zuordnen lässt, wird diese von der Direktion zusammen mit dem Personalamt oder vom zuständigen obersten kantonalen Gericht, auf dessen Wunsch mit Unterstützung des Personalamtes, im Verfahren gemäss § 8 Abs. 2 bewertet.
 
@@ -212,7 +212,7 @@ Der Regierungsrat und die obersten kantonalen Gerichte umschreiben, soweit erfor
 
 **5**
 
-- 1\. 4. 22 - 116 § 19.<sup>16</sup> <sup>1</sup> Angestellte in der Einreihungsklasse können um bis zwei Lohnstufen zurückversetzt werden, wenn sie mit «Ungenügend» qualifiziert werden.
+- 1\. 7. 22 - 117 § 19.<sup>16</sup> <sup>1</sup> Angestellte in der Einreihungsklasse können um bis zwei Lohnstufen zurückversetzt werden, wenn sie mit «Ungenügend» qualifiziert werden.
 
 **Rückstufung**
 
@@ -292,7 +292,7 @@ geschenk
 
 **7**
 
-- 1\. 4. 22 - 116
+- 1\. 7. 22 - 117
 
 <sup>2</sup> Auf Wunsch der oder des Angestellten, oder wenn die betrieblichen Verhältnisse den Urlaub nicht zulassen, wird das Dienstaltersgeschenk ausbezahlt.
 
@@ -362,7 +362,7 @@ geschenk
 
 **9**
 
-- 1\. 4. 22 - 116 § 38.<sup>17</sup> <sup>1</sup> Handelsrichterinnen und Handelsrichter erhalten, die Vorbereitung eingeschlossen, ein Taggeld gemäss Lohnklasse 25.
+- 1\. 7. 22 - 117 § 38.<sup>17</sup> <sup>1</sup> Handelsrichterinnen und Handelsrichter erhalten, die Vorbereitung eingeschlossen, ein Taggeld gemäss Lohnklasse 25.
 
 **Handelsgericht**
 
@@ -412,21 +412,19 @@ geschenk
 
 ### E. Mitsprache
 
-#### § 45
+**Anerkennung und Mitsprache der Personalverbände**
 
-**Mitsprache der Personalverbände**
-
-<sup>1</sup> Die Vereinigten Personalverbände sind die ständigen Verhandlungspartner des Regierungsrates in personalpolitischen Fragen.
+§ 45.<sup>25</sup> <sup>1</sup> Der Regierungsrat anerkennt Personalverbände als ständige Verhandlungspartner in personalpolitischen Fragen, sofern sie eigene Rechtspersönlichkeit haben, repräsentativ sind und sich loyal verhalten.
 
 <sup>2</sup> Die Federführung für die Verhandlungen nach Abs. 1 obliegt der Finanzdirektion.
 
-<sup>3</sup> Die Vereinigten Personalverbände werden vor dem Erlass oder der Änderung von Bestimmungen des Personalrechts zur Vernehmlassung eingeladen.
+<sup>3</sup> Die ständigen Verhandlungspartner werden vor dem Erlass oder der Änderung von Bestimmungen des Personalrechts zur Vernehmlassung eingeladen.
 
 **11**
 
-- 1\. 4. 22 - 116
+- 1\. 7. 22 - 117
 
-<sup>4</sup> Personalverbände, die nicht den Vereinigten Personalverbänden angehören, werden vor Änderungen des Personalgesetzes<sup>2</sup>, der Personalverordnung, der Spezialverordnungen und der Vollzugsverordnung<sup>3</sup> von der Fachdirektion zur Vernehmlassung eingeladen, sofern sie a. eigene Rechtspersönlichkeit und Statuten haben und b. wesentliche Teile des Personals oder einer Personalgruppe vertreten, die von der Änderung betroffen sind.
+<sup>4</sup> Andere Personalverbände werden vor dem Erlass oder der Änderung von Bestimmungen des Personalrechts, der Spezialverordnungen und der Vollzugsverordnungen von der Fachdirektion zur Vernehmlassung eingeladen, sofern sie a. eigene Rechtspersönlichkeit haben und b. wesentliche Teile des Personals oder einer Personalgruppe vertreten, die von der Änderung betroffen sind.
 
 #### § 46
 
@@ -490,22 +488,27 @@ geschenk
 
 <sup>4</sup> Die Amtsleitung ist berechtigt, ihre Anliegen vor dem Personalausschuss zu vertreten. Der Personalausschuss kann eine Vertretung der Personalverbände mit beratender Stimme zur Sitzung beiziehen.
 
-**13**
-
-- 1\. 4. 22 - 116 § 50. Die Direktionen erlassen für die Personalausschüsse in ihrem Bereich soweit erforderlich ergänzende Bestimmungen, insbesondere hinsichtlich der Grösse und Zusammensetzung sowie des Wahlverfahrens.
-
-[^49-1]: SR 822.14.
-[^49-2]: Fassung gemäss RRB vom 18. Mai 2016 (OS 72, 329; ABl 2016-06-03). In Kraft seit 1. Januar 2017.
-
-#### § 51
+#### § 50
 
 **e. Ergänzende Bestimmungen**
 
+Die Direktionen erlassen für die Personalausschüsse in ihrem Bereich soweit erforderlich ergänzende Bestimmungen, insbesondere hinsichtlich der Grösse und Zusammensetzung sowie des Wahlverfahrens.
+
+**13**
+
+- 1\. 7. 22 - 117 § 51.<sup>25</sup> Die besonderen Informations- und Mitwirkungsrechte des Personals und der Personalausschüsse in Fragen der Arbeitssicherheit und des Gesundheitsschutzes, bei der Auslagerung oder beim Übergang von Ämtern, bei der Schliessung von Ämtern oder Teilen davon sowie beim Anschluss an eine Einrichtung der beruflichen Vorsorge und bei der Auflösung eines Anschlussvertrages richten sich nach dem Bundesgesetz vom 17. Dezember 1993 über die Information und Mitsprache der Arbeitnehmerinnen und Arbeitnehmer in den Betrieben[^50-1].
+
 **Besondere Informations- und Mitwirkungsrechte**
 
-<sup>1</sup> Die besonderen Mitwirkungsrechte des Personals und der Personalausschüsse in Fragen der Arbeitssicherheit und des Gesundheitsschutzes, bei der Auslagerung oder beim Übergang von Ämtern, bei der Schliessung von Ämtern oder Teilen davon sowie beim Anschluss an eine Einrichtung der beruflichen Vorsorge und bei der Auflösung eines Anschlussvertrages richten sich nach dem Bundesgesetz vom 17. Dezember 1993 über die Information und Mitsprache der Arbeitnehmerinnen und Arbeitnehmer in den Betrieben[^49-1].[^49-2]
+**Austausch mit dem Personal**
 
-<sup>2</sup> Die Personalverbände und Personalausschüsse haben das Recht, in der Nähe aller Eingänge zu den Verwaltungs- und Betriebsgebäuden Anschlagbretter für ihre Informationen und Flugblätter anzubringen.
+§ 51 a.<sup>24</sup> <sup>1</sup> Die ständigen Verhandlungspartner erhalten für den Austausch mit dem Personal Zutritt zu kantonalen Verwaltungs- und Betriebsgebäuden sowie zu kantonalen Mittel- und Berufsfachschulen. Der Regierungsrat regelt die Einzelheiten.
+
+<sup>2</sup> Das Personalamt weist das Personal auf die ständigen Verhandlungspartner und deren Angebot hin.
+
+<sup>3</sup> Die Personalverbände und die Personalausschüsse können in den Verwaltungs- und Betriebsgebäuden an geeigneter Stelle Informationsmaterial bereitstellen.
+
+[^50-1]: SR 822.14.
 
 #### § 52
 
@@ -531,7 +534,7 @@ geschenk
 
 Anwartschaften auf anteilmässige Auszahlung des Dienstaltersgeschenkes gemäss dem bisherigen § 47 der Vollzugsverordnung zum Personalgesetz, die im Zeitpunkt des Inkrafttretens dieser Verordnungsänderung bereits entstanden, bleiben bestehen.
 
-[^hÜbergangsbestimmung-1]: Fassung gemäss RRB vom 27. Oktober 2021 (OS 77, 2; ABl 2021-11-05). In Kraft seit 1. Januar 2022. 1. 4. 22 - 116 15
+[^hÜbergangsbestimmung-1]: Fassung gemäss RRB vom 27. Oktober 2021 (OS 77, 2; ABl 2021-11-05). In Kraft seit 1. Januar 2022.
 
 ## Anhang
 
@@ -560,9 +563,12 @@ Lohnklasse Minimum (LS 1) 1 46 982 2 47 596 3 48 373 4 49 337 5 50 500 6 51 887 
 - [15] Eingefügt durch RRB vom 17. Juni 2009 (OS 65, 98; ABl 2009, 1076). In Kraft seit 1. Januar 2010.
 - [16] Fassung gemäss RRB vom 17. Juni 2009 (OS 65, 98; ABl 2009, 1076). In Kraft seit 1. Januar 2010.
 - [17] Fassung gemäss RRB vom 3. November 2010 (OS 66, 322; ABl 2010, 2407). In Kraft seit 1. Januar 2011.
-- [18] Fassung gemäss RRB vom 11. Februar 2009 (OS 64, 270; ABl 2009, 339). In Kraft seit 1. Juli 2011.
+- [18] Fassung gemäss RRB vom 11. Februar 2009 (OS 64, 270; ABl 2009, 339). In Kraft seit 1. Juli 2011. 1. 7. 22 - 117 15
 - [19] Fassung gemäss RRB vom 2. November 2011 (OS 66, 978; ABl 2011, 3236). In Kraft seit 1. Januar 2012.
 - [20] Fassung gemäss RRB vom 12. Juni 2013 (OS 68, 415; ABl 2013-06-28). In Kraft seit 1. Januar 2014.
 - [21] Redaktionell berichtigt.
+- [22] Fassung gemäss RRB vom 18. Mai 2016 (OS 72, 329; ABl 2016-06-03). In Kraft seit 1. Januar 2017.
+- [24] Eingefügt durch RRB vom 25. November 2020 (OS 77, 139; ABl 2021-12-04). In Kraft seit 1. Juli 2022.
+- [25] Fassung gemäss RRB vom 25. November 2020 (OS 77, 139; ABl 2021-12-04). In Kraft seit 1. Juli 2022.
 - [*] In Lohnklasse 28 entspricht das Maximum der LS 27.
-- [**] In Lohnklasse 29 entspricht das Maximum der LS 25.
+- [**] In Lohnklasse 29 entspricht das Maximum der LS 25. 1. 7. 22 - 117 17
