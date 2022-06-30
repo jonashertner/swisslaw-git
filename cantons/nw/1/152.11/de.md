@@ -4,13 +4,13 @@ number: "152.11"
 title: Vollzugsverordnung zum Gesetz über die Organisation des Regierungsrates und der Verwaltung
 short: "Regierungsratsverordnung, RRV"
 language: de
-version: 2022-01-01
-valid_until: 2022-06-30
-version_adopted: 2021-12-14
+version: 2022-07-01
+valid_until: 2023-08-31
+version_adopted: 2022-06-21
 adopted: 1998-07-07
 in_force: 1998-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/152.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1376/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1377/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1376/pdf_file"
 
 (Regierungsratsverordnung, RRV)
 
-vom 07.07.1998 (Stand 01.01.2022)
+vom 07.07.1998 (Stand 01.07.2022)
 
 Der Regierungsrat von Nidwalden,
 
@@ -49,7 +49,7 @@ beschliesst:
 
 **2. Baudirektion**
 
-<sup>1</sup> Die Baudirektion erfüllt die Aufgaben auf dem Gebiet der Mobilität, des Gefahrenmanagements, des Hochbaus und der Liegenschaftsverwaltung, der Raumplanung einschliesslich Natur- und Landschaftsschutz sowie der amtlichen Vermessung.
+<sup>1</sup> Die Baudirektion erfüllt die Aufgaben auf dem Gebiet der Mobilität, des Hochbaus und der Liegenschaftsverwaltung, der Raumplanung einschliesslich Natur- und Landschaftsschutz sowie der amtlichen Vermessung.
 
 #### § 4
 
@@ -67,7 +67,7 @@ beschliesst:
 
 **5. Landwirtschafts- und Umweltdirektion**
 
-<sup>1</sup> Die Landwirtschafts- und Umweltdirektion erfüllt die Aufgaben auf dem Gebiete der Landwirtschaft, des Umweltschutzes, der Energie und der Wassernutzung sowie der allgemeinen Waldwirtschaft und der forstlichen Infrastrukturbauten.
+<sup>1</sup> Die Landwirtschafts- und Umweltdirektion erfüllt die Aufgaben auf dem Gebiete der Landwirtschaft, des Umweltschutzes, der Energie und der Wassernutzung, der Naturgefahren sowie der allgemeinen Waldwirtschaft und der forstlichen Infrastrukturbauten.
 
 #### § 7
 
@@ -644,13 +644,7 @@ beschliesst:
   - 5\. Sicherheitsbeauftragter Verkehr
   - 6\. Luftfahrt
   - 7\. Nationalstrassen
-- c. Amt für Gefahrenmanagement
-  - 1\. Wasserbau Engelberger-Aa
-  - 2\. Gewässerunterhalt der Engelberger-Aa und des Vierwaldstättersees
-  - 3\. Aufsicht über den Wasserbau und Gewässerunterhalt der Gemeinden und Privater
-  - 4\. Regulierung Vierwaldstättersee
-  - 5\. Naturgefahren (Wasser, Erdbeben)
-  - 6\. Überwachung von Stauanlagen
+- c. [^A13-1]
 - d. Hochbauamt
   - 1\. Hochbauten des Kantons
   - 2\. Raumbewirtschaftung
@@ -671,6 +665,8 @@ beschliesst:
 - a. GIS Daten AG
 - b. Bahnhofparking Stans AG
 - c. Heizverbund untere Kniri AG Stans
+
+[^A13-1]: Berichtigung vom 22.09.2022 gemäss § 13 Publikationsverordnung
 
 #### § A1-4
 
@@ -723,7 +719,7 @@ beschliesst:
   - 3\. Sprengstoffe
   - 4\. Waffen
   - 5\. Strafregister
-- f. Amt für Militär und Bevölkerungsschutz
+- f. Amt für Militär und Zivilschutz
   - 1\. Militärverwaltung
   - 2\. Wehr- und Dienstpflicht (Kreiskommando, Wehrpflichtersatz)
   - 3\. Militärbetriebe (Waffenplatz, Zeughaus)
@@ -837,11 +833,18 @@ beschliesst:
   - 10\. Umweltgefährdende Stoffe
   - 11\. Nichtionisierende Strahlung (NIS) einschliesslich Lichtimmissionen
   - 12\. Trinkwasserversorgung in Notlagen
-  - 13\. Gewässernutzung (ohne Wasserbau, Gewässerunterhalt, Sicherheit von Stauanlagen sowie Wasserkraft)
+  - 13\. Gewässernutzung (ohne Wasserkraft)
   - 14\. Bergregal, Nutzung des Untergrundes
   - 15\. Kantonsgeologie
   - 16\. Klima
   - 17\. Störfallvorsorge
+- e. Amt für Naturgefahren
+  - 1\. Wasserbau Engelberger-Aa
+  - 2\. Gewässerunterhalt der Engelberger-Aa und des Vierwaldstättersees
+  - 3\. Aufsicht über den Wasserbau und den Gewässerunterhalt der Gemeinden und Privater
+  - 4\. Regulierung Vierwaldstättersee
+  - 5\. Naturgefahren (Wasser, Erdbeben)
+  - 6\. Überwachung von Stauanlagen
 
 <sup>2</sup> Der Landwirtschafts- und Umweltdirektion sind zugewiesen:
 
