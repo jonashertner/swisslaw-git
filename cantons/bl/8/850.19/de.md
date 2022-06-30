@@ -4,13 +4,13 @@ number: "850.19"
 title: Kantonale Asylverordnung
 short: kAV
 language: de
-version: 2021-01-01
-valid_until: 2022-06-30
-version_adopted: 2020-11-17
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2022-06-14
 adopted: 2007-10-16
 in_force: 2008-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/850.19"
-pdf: "https://bl.clex.ch/api/de/versions/2859/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3347/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://bl.clex.ch/api/de/versions/2859/pdf_file"
 
 (kAV)
 
-Vom 16.10.2007 (Stand 01.01.2021)
+Vom 16.10.2007 (Stand 01.07.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] sowie auf die §§ 6 Abs. 3 und 32 Abs. 3 des Gesetzes vom 21. Juni 2001[^ingress-2] über die Sozial-, die Jugend- und die Behindertenhilfe (Sozialhilfegesetz),
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] sowie auf die §§ 6 Abs. 3 und 32 Abs. 3 des Gesetzes über die Sozial- und die Jugendhilfe (Sozialhilfegesetz, SHG) vom 21. Juni 2001[^ingress-2],
 
 beschliesst:
 
@@ -64,11 +64,21 @@ beschliesst:
 
 **Betreuung, Unterkunft und Unterstützung**
 
-<sup>1</sup> Die Gemeinden betreuen die Personen gemäss § 1 und weisen ihnen eine Individual- oder eine Kollektivunterkunft zu.
+<sup>1</sup> Die Gemeinden betreuen die Personen gemäss § 1 und weisen ihnen eine Individual-, eine Kollektiv- oder eine Privatunterkunft zu.
 
 <sup>2</sup> Sie unterstützen bedürftige Personen gemäss § 1 nach Massgabe dieser Verordnung.
 
 <sup>3</sup> Sie melden dem Kanton innert 2 Wochen jede Gewährung, Änderung oder Beendigung einer Unterstützung von Personen gemäss § 1, von Personen mit einer vorläufigen Aufnahme als Flüchtling sowie von Personen mit einem positiven Asylentscheid.
+
+#### § 3a
+
+**Unterkünfte**
+
+<sup>1</sup> Eine Kollektivunterkunft ist eine von der Gemeinde oder im Auftrag von einer Gemeinde betriebene Unterkunft, wo mehrere Personen gemeinschaftlich haushalten.
+
+<sup>2</sup> Eine Individualunterkunft ist ein eigenständig geführter Haushalt.
+
+<sup>3</sup> Bei einer Privatunterkunft handelt es sich um eine Unterkunft bei Privatpersonen in deren Haushalt.
 
 #### § 4
 
@@ -148,6 +158,12 @@ beschliesst:
 
 <sup>2</sup> Sie deckt pauschal alle Aufwendungen ab, so insbesondere für Nahrung, Kleidung, persönliche Auslagen, Post, Telefon und Transportkosten.
 
+#### § 9a
+
+**Mass des Grundbedarfs in einer Privatunterkunft**
+
+<sup>1</sup> Unterstützten Personen, die in einer Privatunterkunft wohnen und nicht mit den Privatunterbringenden verwandt oder verschwägert sind, wird die Unterstützung für den Grundbedarf entsprechend der Unterstützungseinheit gemäss § 8 Abs. 1 um 10 % reduziert.
+
 #### § 10
 
 **Mass des Grundbedarfs für Personen gemäss § 1 Bst. d und e**
@@ -167,6 +183,12 @@ beschliesst:
 <sup>2</sup> Das Mass der Unterstützung beträgt monatlich höchstens CHF 200.– für Personen gemäss § 1 Bst. a, b und c und monatlich höchstens CHF 80.– für Personen gemäss § 1 Bst. d und e.
 
 <sup>3</sup> Das Mass der Unterstützung deckt pauschal alle Aufwendungen ab, so insbesondere für Kleidung, persönliche Auslagen, Post, Telefon und Transportkosten.
+
+#### § 10b
+
+**Wohnungskosten in einer Privatunterkunft**
+
+<sup>1</sup> Unterstützten Personen, die in einer Privatunterkunft wohnen, werden keine Wohnungskosten ausgerichtet.
 
 #### § 11
 
@@ -278,6 +300,23 @@ beschliesst:
 - d. für Personen gemäss § 1 Bst. c längstens bis zur Erteilung einer kantonalen Aufenthaltsbewilligung und danach die Hälfte längstens bis zur Erteilung einer Niederlassungsbewilligung,
 - e. für Personen gemäss § 1 Bst. d und e für die Dauer der erfolgten Unterstützung.
 
+#### § 19bis
+
+**Entschädigung für Privatunterbringung**
+
+<sup>1</sup> Die Gemeinden entrichten den Privatunterbringenden eine pauschale Entschädigung für die Aufnahme von unterstützten Personen in ihren Haushalt, sofern:
+
+- a. eine angemessene Unterbringung vorliegt;
+- b. kein Verwandtschaftsverhältnis und keine Schwägerschaft besteht;
+- c. ein entsprechender Antrag bei der zuständigen Gemeinde gestellt wird und
+- d. die Aufnahme länger als 30 Tage dauerte und im Zeitpunkt des Antrags noch andauert.
+
+<sup>2</sup> Die pauschale Entschädigung gemäss Abs. 1 wird abgestuft nach Anzahl aufgenommener Personen und beträgt pro Monat:
+
+- a. für 1 Person: — CHF 220.–;
+- b. für jede weitere Person: — plus CHF 150.–;
+- c. ab 4 Personen: — CHF 670.–.
+
 ## 4 Übergangs- und Schlussbestimmungen
 
 #### § 19a
@@ -285,6 +324,12 @@ beschliesst:
 **Übergangsbestimmung der Änderung vom 11. Dezember 2018**
 
 <sup>1</sup> Die Gemeinden können dem Kanton noch nicht eingereichte Abrechnungen für die Perioden vor Inkraftsetzung der Verordnungsänderung vom 11. Dezember 2018 gestützt auf § 18 bis zum 30. Juni 2019 einreichen, widrigenfalls verwirkt der Anspruch.
+
+#### § 19b
+
+**Übergangsbestimmung zur Teilrevision vom 14. Juni 2022**
+
+<sup>1</sup> Für den Zeitraum zwischen dem 1. März 2022 und dem 30. Juni 2022 richtet die Gemeinde den Privatunterbringenden eine pauschale Entschädigung von CHF 100.– pro aufgenommene Person und Monat bis max. CHF 400.– pro Monat aus.
 
 #### § 20
 
