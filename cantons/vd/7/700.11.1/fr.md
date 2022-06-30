@@ -4,7 +4,7 @@ number: "700.11.1"
 title: "RÈGLEMENT du 19.09.1986 d'application de la loi du 4 décembre 1985 sur l'aménagement du territoire et les constructions (RLATC)"
 short: RLATC
 language: fr
-version: 2018-09-01
+version: 2022-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/700.11.1?id=12fdc2a6-5c95-4ad5-9433-0801702d6d2b"
 ---
 
@@ -801,28 +801,35 @@ arrête
 
 **Signature, nombre d'exemplaires, transmission du dossier aux autorités [^72d-2]**
 
-<sup>1</sup> Les plans, le questionnaire général et les pièces annexes sont signés par leur auteur, le propriétaire du fonds et, le cas échéant, par le promettant-acquéreur et le maître de l'ouvrage. Si les circonstances le justifient, ces derniers peuvent donner une procuration au mandataire. Celle-ci doit être jointe au dossier.
+<sup>1</sup> Les versions papier des plans, du questionnaire général et des pièces annexes sont signés par leur auteur, le propriétaire du fonds et, le cas échéant, par le promettant-acquéreur et le maître de l'ouvrage. Si les circonstances le justifient, ces derniers peuvent donner une procuration au mandataire. Celle-ci doit être jointe au dossier.
 
-<sup>1bis</sup> Le questionnaire général, les questionnaires particuliers et leurs annexes sont saisis par le requérant ou son mandataire sur le site Internet officiel de la CAMAC.
+<sup>1bis</sup> Le questionnaire général est saisi par le requérant ou son mandataire sur le site officiel de la CAMAC. Les questionnaires particuliers concernés et leurs annexes sont saisis par le requérant ou son mandataire via le site de la CAMAC ou sur les sites officiels des services concernés.
 
-<sup>2</sup> Lorsque l'ouvrage n'a pas à être autorisé ou approuvé par l'autorité cantonale, les plans, le questionnaire général et les pièces annexes sont produits en trois exemplaires. La municipalité transmet à la CAMAC un exemplaire du dossier complet.
+<sup>1ter</sup> Le requérant ou son mandataire transmet deux exemplaires papier signés de la demande complète à la commune. Il lui transmet également une version électronique certifiée identique de la demande complète.
+
+<sup>1quater</sup> Le requérant ou son mandataire certifie au moyen d'une formule mise à disposition par le service, signée et scannée, l'identité de la version électroniques des plans et des pièces annexes à leur version papier. En cas de divergence, la version papier fait foi.
+
+<sup>1quinquies</sup> La Municipalité contrôle les documents transmis ainsi que l'identité de leur version électronique.
+
+<sup>2</sup> La Municipalité transmet la demande complète à la CAMAC par voie électronique par le biais du système informatique cantonal dédié.
 
 <sup>3</sup> …
 
-<sup>4</sup> Lorsque l'ouvrage doit être autorisé ou approuvé par l'autorité cantonale (art. 113, 120 et 121 de la loi [^73-1] et annexe II du règlement), il est produit en principe quatre exemplaires supplémentaires des plans et annexes, les questionnaires particuliers et leurs propres annexes dans le nombre prescrit. La municipalité transmet alors à la CAMAC un exemplaire du questionnaire général signé, en principe cinq exemplaires complets des plans, les questionnaires particuliers et leurs propres pièces annexes, après les avoir contrôlés.
+<sup>4</sup> ...
 
-<sup>5</sup> Le délai d'opposition de vingt jours est applicable au département. Celui-ci peut cependant encore formuler des observations ou une opposition avec la communication de la décision cantonale (loi, art. 110).
+<sup>5</sup> Le délai d'opposition de trente jours est applicable au département. Celui-ci peut cependant encore formuler des observations ou une opposition avec la communication de la décision cantonale (loi, art. 110).
+
+<sup>6</sup> Le service peut préciser par voie de directive les éléments techniques que la version informatique de la demande doit respecter, notamment les formats autorisés, la taille maximale des documents livrés et la nomenclature.
 
 [^72d-2]: Modif. 2 du 27.08.1990: Modification Al. 2,3; entrée en vigueur au 01.10.1990; Abrogation Al. 4,5; entrée en vigueur au 01.10.1990 · Modif. 3 du 23.12.1993: Modification Al. 2-4; entrée en vigueur au 01.02.1994; Introduction Al. 5; entrée en vigueur au 01.02.1994 · Modif. 6 du 14.05.2001: Modification Al. 2-4; entrée en vigueur au 14.05.2001 · Modif. 8 du 21.12.2005: Introduction Al. 1bis; entrée en vigueur au 01.02.2006; Abrogation Al. 3; entrée en vigueur au 01.02.2006 · Modif. 10 du 06.02.2008: Modification Al. 4; entrée en vigueur au 01.03.2008 · Modif. 15 du 18.05.2022: Modification Al. 1,1bis; entrée en vigueur au 01.07.2022; Introduction Al. 1quater,1quinquies,1ter; entrée en vigueur au 01.07.2022; Modification Al. 2; entrée en vigueur au 01.07.2022; Abrogation Al. 4; entrée en vigueur au 01.07.2022; Modification Al. 5; entrée en vigueur au 01.07.2022; Introduction Al. 6; entrée en vigueur au 01.07.2022
-[^73-1]: Loi du 04.12.1985 sur l'aménagement du territoire et les constructions ([BLV 700.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/700.11?id=94980419-1c0b-4c3e-bf5d-6d37d57902ec))
 
 #### Art. 73a
 
-**Communications des décisions cantonales à la municipalité [^73-2]**
+**Communications des décisions cantonales à la municipalité [^73-1]**
 
 <sup>1</sup> Les décisions relatives aux autorisations spéciales et aux approbations cantonales font l'objet d'une communication unique de la CAMAC à la municipalité.
 
-[^73-2]: Modif. 2 du 27.08.1990: Introduction Art. 73a; entrée en vigueur au 01.10.1990 · Modif. 6 du 14.05.2001: Modification Art. 73a; entrée en vigueur au 14.05.2001
+[^73-1]: Modif. 2 du 27.08.1990: Introduction Art. 73a; entrée en vigueur au 01.10.1990 · Modif. 6 du 14.05.2001: Modification Art. 73a; entrée en vigueur au 14.05.2001
 
 #### Art. 74
 
@@ -1080,15 +1087,15 @@ Annexes [^91-1]
 
 1
 
-[700.11.1.annexeI](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/1?dmev=01.09.2018)
+[700.11.1.annexeI](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/1?dmev=01.07.2022)
 
 2
 
-[700.11.1.annexeII](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/2?dmev=01.09.2018)
+[700.11.1.annexeII](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/2?dmev=01.07.2022)
 
 3
 
-[700.11.1.annexeIII](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/3?dmev=01.09.2018)
+[700.11.1.annexeIII](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/3?dmev=01.07.2022)
 
 [^90-1]: Modif. 6 du 14.05.2001: Modification Art. 91; entrée en vigueur au 14.05.2001
 [^91-1]: Modif. 2 du 27.08.1990: Modification Ann; entrée en vigueur au 01.10.1990 · Modif. 3 du 23.12.1993: Modification Ann; entrée en vigueur au 01.02.1994 · Modif. 6 du 14.05.2001: Modification Ann; entrée en vigueur au 14.05.2001 · Modif. 7 du 16.12.2004: Modification Ann; entrée en vigueur au 01.12.2004 · Modif. 9 du 04.10.2006: Modification Ann; entrée en vigueur au 01.11.2006 · Modif. 16 du 14.12.2022: Modification Annexes, Ann. 2; entrée en vigueur au 01.01.2023 · Modif. 17 du 14.06.2023: Introduction Art. 68c; entrée en vigueur au 01.08.2023; Introduction Annexes, Ann. 4; entrée en vigueur au 01.08.2023 · Modif. 18 du 01.10.2025: Introduction Art. 69, Al. 1, 1, k-m; entrée en vigueur au 01.01.2026; Modification Annexes, Ann. 4; entrée en vigueur au 01.01.2026
