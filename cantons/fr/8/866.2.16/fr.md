@@ -3,13 +3,12 @@ canton: FR
 number: "866.2.16"
 title: "Ordonnance fixant les émoluments pour l'octroi d'autorisations de travail à des étrangers"
 language: fr
-version: 2019-07-01
-valid_until: 2022-06-30
-version_adopted: 2019-06-26
+version: 2022-07-01
+version_adopted: 2022-11-22
 adopted: 2007-12-10
 in_force: 2008-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/866.2.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7443/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7645/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7443/pdf_file"
 
 Autorisations de travail à des étrangers, émoluments – O
 
-du 10.12.2007 (version entrée en vigueur le 01.07.2019)
+du 10.12.2007 (version entrée en vigueur le 01.07.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -80,11 +79,11 @@ Arrête:
 
 #### Art. 5a
 
-<sup>1</sup> Les émoluments perçus pour les décisions concernant les requérants d'asile, les réfugiés reconnus et les personnes admises provisoirement sont les suivants:
+<sup>1</sup> Les émoluments perçus pour les décisions concernant les requérants d'asile et les personnes à protéger sont les suivants:
 
 - a) Autorisation initiale pour les requérants d'asile: — Fr. 100
 - b) Autorisation de changement d'emploi pour les requérants d'asile: — Fr. 30 à 50
-- c) Autorisation de travail pour les réfugiés reconnus ou les personnes admises provisoirement: — Fr. 30 à 50
+- c) Autorisation de travail et autorisation de changement d'emploi pour les personnes à protéger: — Fr. 30 à 50
 
 #### Art. 6
 

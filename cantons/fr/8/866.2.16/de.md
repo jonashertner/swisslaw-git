@@ -3,13 +3,12 @@ canton: FR
 number: "866.2.16"
 title: Verordnung über die Gebühren für die Erteilung von Arbeitsbewilligungen an Ausländer
 language: de
-version: 2019-07-01
-valid_until: 2022-06-30
-version_adopted: 2019-06-26
+version: 2022-07-01
+version_adopted: 2022-11-22
 adopted: 2007-12-10
 in_force: 2008-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/866.2.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/7443/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7645/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7443/pdf_file"
 
 Arbeitsbewilligungen an Ausländer, Gebühren – V
 
-vom 10.12.2007 (Fassung in Kraft getreten am 01.07.2019)
+vom 10.12.2007 (Fassung in Kraft getreten am 01.07.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -80,11 +79,11 @@ beschliesst:
 
 #### Art. 5a
 
-<sup>1</sup> Für Verfügungen betreffend Asylsuchende, anerkannte Flüchtlinge und vorläufig aufgenommene Personen gelten folgende Beträge:
+<sup>1</sup> Für Verfügungen betreffend Asylsuchende und Schutzbedürftige gelten folgende Beträge:
 
 - a) erstmalige Bewilligung für Asylsuchende: — Fr. 100
 - b) Bewilligung für den Wechsel der Arbeitsstelle für Asylsuchende: — Fr. 30 bis 50
-- c) Arbeitsbewilligung für anerkannte Flüchtlinge oder vorläufig aufgenommene Personen: — Fr. 30 bis 50
+- c) Arbeitsbewilligung und Bewilligung für den Wechsel der Arbeitsstelle für Schutzbedürftige: — Fr. 30 bis 50
 
 #### Art. 6
 
