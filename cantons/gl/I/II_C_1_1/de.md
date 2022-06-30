@@ -4,13 +4,13 @@ number: II C/1/1
 title: Verordnung über die Entlöhnung der Behördenmitglieder sowie des Staats- und Lehrpersonals
 short: "Lohnverordnung, LohnV"
 language: de
-version: 2018-07-01
-valid_until: 2022-06-30
-version_adopted: 2017-06-28
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2022-06-29
 adopted: 2017-06-28
 in_force: 2018-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-C.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2023/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2327/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2023/pdf_file"
 
 (Lohnverordnung, LohnV)
 
-Vom 28.06.2017 (Stand 01.07.2018)
+Vom 28.06.2017 (Stand 01.07.2022)
 
 Der Landrat,
 
@@ -314,23 +314,41 @@ erlässt:
 
 #### Art. 22
 
-**Gerichtspräsidium**
+**Präsidium**
 
-<sup>1</sup> Der Jahreslohn für ein vollamtliches Gerichtspräsidium beträgt 206 000 Franken.
+<sup>1</sup> Der Jahreslohn für die vollamtlichen Präsidien beträgt 206 000 Franken.
 
-<sup>2</sup> Das Pensum des Obergerichtspräsidiums ist auf 50 Prozent beschränkt.
+<sup>2</sup> Das Pensum des Obergerichtspräsidiums umfasst mindestens 50 Prozent.
+
+#### Art. 22a
+
+**Teilamtliches Vizepräsidium**
+
+<sup>1</sup> Der Jahreslohn für die teilamtlichen Vizepräsidien beträgt im Rahmen ihres Pensums 90 Prozent desjenigen der vollamtlichen Präsidien.
+
+<sup>2</sup> Das Pensum des teilamtlichen Obergerichtsvizepräsidiums umfasst mindestens 50 Prozent.
+
+<sup>3</sup> Das Pensum des teilamtlichen Kantonsgerichtsvizepräsidiums umfasst mindestens 80 Prozent.
 
 #### Art. 23
 
 **Richterinnen und Richter**
 
-<sup>1</sup> Richterinnen und Richter haben Anspruch auf ein Sitzungsgeld von 200 Franken, die nicht vollamtlichen Präsidien auf ein solches von 250 Franken.
+<sup>1</sup> Nebenamtliche Richterinnen und Richter haben Anspruch auf ein Sitzungsgeld von 200 Franken, präsidierende nebenamtliche Richterinnen und Richter auf ein solches von 250 Franken.
 
-<sup>2</sup> Für das Studium umfangreicher Akten oder Rechtsschriften kann ein zusätzliches Sitzungsgeld und in besonders aufwändigen Streitsachen ein doppeltes Sitzungsgeld ausgerichtet werden.
+<sup>2</sup> In besonders aufwändigen Streitsachen können zusätzliche Sitzungsgelder ausgerichtet werden.
 
 <sup>3</sup> Werden Richterinnen oder Richter durch eine Aufgabe ungewöhnlich stark beansprucht, kann die Verwaltungskommission der Gerichte ihnen eine ausserordentliche Vergütung ausrichten.
 
-<sup>4</sup> Die Ansätze für Auslagenersatz richten sich nach den personalrechtlichen Vorgaben.
+<sup>4</sup> …
+
+#### Art. 23a
+
+**Auslagenersatz**
+
+<sup>1</sup> Die Reiseentschädigung richtet sich nach Artikel 28.
+
+<sup>2</sup> Der Ersatz weiterer Auslagen und deren Ansätze richten sich nach den personalrechtlichen Vorgaben.
 
 #### Art. 24
 
