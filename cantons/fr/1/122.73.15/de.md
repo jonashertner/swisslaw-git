@@ -3,13 +3,13 @@ canton: FR
 number: "122.73.15"
 title: Verordnung über die im Vorstand der Pensionskasse des Staatspersonals vertretenen Personalkategorien
 language: de
-version: 2012-01-01
-valid_until: 2022-06-30
-version_adopted: 2011-10-25
+version: 2022-07-01
+valid_until: 2023-12-31
+version_adopted: 2022-05-24
 adopted: 2011-10-25
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.73.15"
-pdf: "https://bdlf.fr.ch/api/de/versions/5041/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7502/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5041/pdf_file"
 
 Titre courant
 
-vom 25.10.2011 (Fassung in Kraft getreten am 01.01.2012)
+vom 25.10.2011 (Fassung in Kraft getreten am 01.07.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -30,13 +30,15 @@ beschliesst:
 
 #### Art. 1
 
-<sup>1</sup> Die fünf Personen, die in der von der Föderation der Personalverbände der Staatsangestellten des Kantons Freiburg (FEDE) organisierten Wahl in den Vorstand der Pensionskasse des Staatspersonals gewählt werden, vertreten die in den folgenden Bereichen tätigen Personalkategorien:
+<sup>1</sup> Die fünf Personen, die von der Föderation der Personalverbände der Staatsangestellten des Kantons Freiburg (FEDE) und vom Verband des Personals öffentlicher Dienste - Freiburg (VPOD-Freiburg) für den Vorstand der Pensionskasse des Staatspersonals bezeichnet werden, vertreten die in den folgenden Bereichen tätigen Personalkategorien:
 
 - a) Verwaltung, technischer Bereich und Handwerk;
 - b) Justiz, Polizei und Gefängnisse;
-- c) obligatorischer Unterricht;
-- d) Unterricht der Sekundarstufe, beruflicher Unterricht und Unterricht auf Hochschulstufe;
+- c) Unterricht;
+- d) …
 - e) Spital- und Sozialwesen.
+
+<sup>2</sup> Die vom Vorstand der Vereinigung der höheren Kader und Magistratspersonen bezeichnete Person vertritt die höheren Kader des Staates Freiburg.
 
 #### Art. 2
 
