@@ -3,11 +3,11 @@ canton: ZH
 number: "414.253.415"
 title: Studienordnung für den Masterstudiengang Language and Communication an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2019-01-01"
-nachtrag: "103"
-valid_until: 2022-07-01
+version: "2022-07-01"
+nachtrag: "117"
+valid_until: 2023-01-01
 adopted: 2009-06-04
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_415-2009_06_04-2009_08_01-103.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_415-2009_06_04-2009_08_01-117.html"
 text: pdf
 ---
 
@@ -70,7 +70,7 @@ Einzelheiten zum Studiengang, insbesondere zu den zu absolvierenden Modulen und 
 
 **1**
 
-- 1\. 1. 19 - 103
+- 1\. 7. 22 - 117
 
 [^4-1]: Fassung gemäss B vom 2. Juli 2013 (OS 69, 5; ABl 2013-11-15). In Kraft seit 1. Februar 2014.
 
@@ -102,17 +102,25 @@ Einzelheiten zum Studiengang, insbesondere zu den zu absolvierenden Modulen und 
 
 <sup>3</sup> . . .[^hBZulassungzumStu-2]
 
-**Wechsel der Vertiefung**
+**Endgültige Abweisung an einer anderen Hochschule**
 
-§ 8. <sup>1</sup> Ein Wechsel der Vertiefung muss schriftlich bei der Studiengangleitung beantragt werden.
-
-<sup>2</sup> Die Studiengangleitung entscheidet über den Antrag.
-
-<sup>3</sup> Sie kann die Bewilligung des Wechsels vom Bestehen der Aufnahmeprüfung fachliche Eignung für die neu gewählte Vertiefung abhängig machen.[^hBZulassungzumStu-3]
+§ 7 a.[^hBZulassungzumStu-3] Bewerberinnen und Bewerber, die an einer anderen Hochschule in einem inhaltlich entsprechenden Masterstudiengang endgültig abgewiesen wurden, wird die Zulassung zum Studium in der entsprechenden Vertiefung verweigert. Die Entscheidung liegt bei der Studiengangleitung.
 
 [^hBZulassungzumStu-1]: Fassung gemäss B vom 2. Juli 2013 (OS 69, 5; ABl 2013-11-15). In Kraft seit 1. Februar 2014.
 [^hBZulassungzumStu-2]: Aufgehoben durch B vom 14. Juni 2018 (OS 73, 372; ABl 2018-07-27). In Kraft seit 1. Januar 2019.
-[^hBZulassungzumStu-3]: Fassung gemäss B vom 14. Juni 2018 (OS 73, 372; ABl 2018-07-27). In Kraft seit 1. Januar 2019.
+[^hBZulassungzumStu-3]: Eingefügt durch B vom 21. Januar 2022 (OS 77, 286; ABl 2022-03-25). In Kraft seit 1. Juli 2022.
+
+#### § 8
+
+**Wechsel der Vertiefung**
+
+<sup>1</sup> Ein Wechsel der Vertiefung muss schriftlich bei der Studiengangleitung beantragt werden.
+
+<sup>2</sup> Die Studiengangleitung entscheidet über den Antrag.
+
+<sup>3</sup> Sie kann die Bewilligung des Wechsels vom Bestehen der Aufnahmeprüfung fachliche Eignung für die neu gewählte Vertiefung abhängig machen.[^8-1]
+
+[^8-1]: Fassung gemäss B vom 14. Juni 2018 (OS 73, 372; ABl 2018-07-27). In Kraft seit 1. Januar 2019.
 
 ### C. Prüfungen und andere Leistungsnachweise
 
@@ -159,7 +167,7 @@ Wer ein Modul nicht besteht, muss alle nicht bestandenen Leistungsnachweise des 
 
 **3**
 
-- 1\. 1. 19 - 103
+- 1\. 7. 22 - 117
 
 [^13-1]: Fassung gemäss B vom 2. Juli 2013 (OS 69, 5; ABl 2013-11-15). In Kraft seit 1. Februar 2014.
 
@@ -185,8 +193,8 @@ bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **5**
 
-- 1\. 1. 19 - 103
+- 1\. 7. 22 - 117
 
 ## Weitere Fussnoten
 
-- [3] Fassung gemäss B vom 23. August 2012 (OS 67, 581; ABl 2012-10-12). In Kraft seit 1. Februar 2013.
+- [3] Obsolet.
