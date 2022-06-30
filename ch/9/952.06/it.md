@@ -4,11 +4,11 @@ title: "Ordinanza del 30 novembre 2012 sulla liquidità delle banche e delle soc
 short: OLiq
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/883"
 language: it
-version: 2022-06-21
+version: 2022-07-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20220621/it/xml/fedlex-data-admin-ch-eli-cc-2012-883-20220621-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20220621/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2012-883-20220701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20220621/it"
 
 (Ordinanza sulla liquidità, OLiq)**[^t-1]**
 
-del 30 novembre 2012 (Stato 21 giugno 2022) (Stato 21 giugno 2022)
+del 30 novembre 2012 (Stato 1° luglio 2022) (Stato 1° luglio 2022)
 
 [^t-1]: Nuovo testo giusta l’all. 1 n. II 11 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -357,7 +357,10 @@ Gli attivi delle categorie 1 e 2 che rappresentano titoli, prestiti o titoli di 
 
 <sup>7</sup> Gli attivi possono essere conteggiati come HQLA per 30 giorni a partire dal momento in cui non sono più considerati tali.
 
+<sup>8</sup> Non sono computate nel volume di HQLA della banca le HQLA che una succursale o un’unità consolidata detiene per soddisfare le esigenze locali in materia di liquidità e che superano il contributo di tale succursale o unità al deflusso netto di fondi della banca secondo l’articolo 16.[^15c-2]
+
 [^15c-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^15c-2]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 15d
 
@@ -812,152 +815,207 @@ Conformemente alle prescrizioni previste dal sistema di verifica, la società di
 
 #### Art. 19
 
-**Scopo**
+**Esigenze particolari in materia di liquidità**[^19-1]
 
-<sup>1</sup> Le banche di rilevanza sistemica devono essere in grado di rispettare i propri obblighi di pagamento anche in una situazione eccezionalmente difficile.
+<sup>1</sup> Oltre alle esigenze del capitolo 3 le banche di rilevanza sistemica devono soddisfare esigenze particolari in materia di liquidità per coprire i rischi di liquidità che il requisito LCR non copre o non copre a sufficienza.
 
-<sup>2</sup> Oltre alle esigenze applicabili a tutte le banche, esse devono soddisfare le particolari esigenze quantitative in materia di liquidità conformemente al presente capitolo.[^19-1]
+<sup>2</sup>
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
+Le esigenze particolari in materia di liquidità comprendono:
+
+- a. le esigenze di base;
+- b. le esigenze aggiuntive della FINMA specifiche all’istituto.
+
+[^19-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 20
 
-**Cerchia di consolidamento**
-
-Le banche di rilevanza sistemica soddisfano le esigenze a livello di gruppo finanziario e di singolo istituto comprese tutte le succursali.
-
-### Sezione 2: Esigenze quantitative
-
-#### Art. 21
-
-**Esigenze particolari in materia di liquidità**
-
-<sup>1</sup> Le banche di rilevanza sistemica devono essere in grado durante almeno 30 giorni di coprire in ogni momento i deflussi di liquidità complessivi che possono essere attesi al verificarsi dello scenario di stress conformemente all’articolo 22.
-
-<sup>2</sup> In un orizzonte temporale di 7 giorni nonché di 30 giorni esse non possono presentare in alcun momento una mancanza di liquidità.
-
-#### Art. 22
-
-**Scenario di stress**
-
-<sup>1</sup> Lo scenario di stress deve fondarsi contemporaneamente su un evento di crisi specifico alla banca e su un evento di crisi comune all’intero mercato.
-
-<sup>2</sup>
-
-Lo scenario di stress deve basarsi sull’ipotesi che:
-
-- a. la banca perda l’accesso al finanziamento garantito e non garantito sul mercato monetario e dei capitali; e
-- b. vengano prelevate ingenti quantità di depositi.
-
-<sup>3</sup> La FINMA concretizza lo scenario di stress.
-
-#### Art. 23
-
-**Mancanza di liquidità**
+**Perimetro di consolidamento**[^20-1]
 
 <sup>1</sup>
 
-In un orizzonte temporale di 7 giorni si è in presenza di una mancanza di liquidità se i deflussi di liquidità di cui all’articolo 24 capoverso 2 superano l’importo delle seguenti posizioni:
+Le esigenze particolari in materia di liquidità devono essere soddisfatte a livello di gruppo finanziario, a livello di ogni singolo istituto autorizzato conformemente alla LBCR e a livello di ogni società di intermediazione mobiliare autorizzata conformemente alla LIsFi da:
 
-- a. afflussi di liquidità secondo l’articolo 24 capoverso 1;
-- b. valore che potrebbe essere conseguito tramite l’alienazione dei valori patrimoniali del cuscinetto di liquidità (art. 25);
-- c. facilitazioni esistenti nelle banche centrali fino ai limiti convenuti ancora aperti.
+- a. le unità che esercitano funzioni di rilevanza sistemica;
+- b. l’unità suprema di un gruppo finanziario, se il perimetro di consolidamento di quest’ultimo comprende un’unità di cui alla lettera a;
+- c. le unità ai vertici di importanti gruppi finanziari subordinati, se il perimetro di consolidamento di questi ultimi comprende un’unità di cui alla lettera a; e
+- d. le unità che, in virtù della loro funzione centrale e della loro dimensione relativa, sono importanti per il gruppo finanziario.
 
-<sup>2</sup> Per coprire i deflussi di liquidità in un orizzonte temporale di 30 giorni, oltre alle tre posizioni menzionate al capoverso 1, la banca può ricorrere alle facilitazioni di liquidità straordinarie della BNS fino all’importo ancora disponibile convenuto per i preparativi.
+<sup>2</sup> In singoli casi, la FINMA può escludere le unità la cui partecipazione diretta alle funzioni di rilevanza sistemica in Svizzera del gruppo finanziario non supera globalmente la quota del 5 per cento o la cui importanza per il mantenimento delle funzioni di rilevanza sistemica in Svizzera del gruppo finanziario è altrimenti esigua.
 
-#### Art. 24
+[^20-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
-**Afflussi e deflussi di liquidità**
+#### Art. 20a
 
-<sup>1</sup> In uno scenario di stress gli afflussi di liquidità vengono calcolati moltiplicando diverse categorie di crediti di bilancio per i rispettivi tassi di afflusso. Non devono essere calcolati come afflussi di liquidità i titoli che confluiscono nel portafoglio titoli del cuscinetto di liquidità conformemente all’articolo 25.
+**Valori patrimoniali computabili**[^20a-1]
 
-<sup>2</sup> I deflussi di liquidità vengono calcolati moltiplicando diverse categorie di impegni di bilancio o fuori bilancio per i rispettivi tassi di prelievo.
+<sup>1</sup>
 
-<sup>3</sup> La FINMA stabilisce la classificazione dei crediti e degli impegni nonché i tassi minimi di prelievo e i tassi massimi di afflusso.
+Per soddisfare le esigenze particolari in materia di liquidità sono computabili le HQLA:
 
-<sup>4</sup> I tassi di prelievo e di afflusso che non vengono prescritti dalla FINMA devono essere fissati dalle banche in funzione dello scenario di stress di cui all’articolo 22.
+- a. che non sono comprese nel volume di HQLA necessario a soddisfare il requisito LCR; e
+- b. di cui la banca può disporre in ogni momento su un orizzonte temporale di 90 giorni di calendario (orizzonte temporale di 90 giorni).
 
-#### Art. 25
-
-**Cuscinetto di liquidità regolamentare**
-
-<sup>1</sup> Le banche di rilevanza sistemica detengono un cuscinetto di liquidità costituito da titoli liquidi, non gravati, liberamente disponibili e immediatamente convertibili al verificarsi dello scenario di stress. Il cuscinetto si compone di una parte primaria e di una parte secondaria.
-
-<sup>2</sup>
-
-La parte primaria comprende:
-
-- a. titoli di debito di Stati o di banche centrali nonché della Banca dei regolamenti internazionali, del Fondo monetario internazionale o delle banche multilaterali di sviluppo, alle quali è attribuita una ponderazione di rischio dello 0 per cento conformemente alle prescrizioni sui fondi propri;
-- b. prestiti ipotecari svizzeri emessi dalla Centrale d’emissione di obbligazioni fondiarie delle banche cantonali o dalla Banca di obbligazioni fondiarie degli Istituti ipotecari svizzeri;
-- c. averi in giroconto presso le banche centrali e denaro contante.
+<sup>2</sup> Per la computabilità degli attivi delle categorie 2a e 2b valgono i limiti massimi secondo l’articolo 15*c* capoverso 1 lettere b e c. Nel singolo caso la FINMA può stabilire che tali attivi possano essere computati anche al di là di questi limiti massimi. Nella sua decisione tiene conto del conseguente rischio che questi attivi non siano alienabili immediatamente.
 
 <sup>3</sup>
 
-La parte secondaria può comprendere i seguenti titoli facilmente negoziabili:
+Un’esplicita garanzia dello Stato rilasciata da un Cantone o un meccanismo analogo sono computabili, se la garanzia o il meccanismo:
 
-- a. prestiti di imprese a elevata solvibilità;
-- b. prestiti del settore pubblico diversi da quelli considerati al capoverso 2 lettera a;
-- c. titoli di partecipazioni quotati in borsa;
-- d. titoli del mercato monetario;
-- e.[^25-1] titoli garantiti da attivi.
+- a. sono considerati secondo l’articolo 132*a* OFoP[^20a-2] per l’adempimento delle esigenze relative ai fondi supplementari in grado di assorbire le perdite; e
+- b. qualora utilizzati in caso di crisi, conducessero in tempi brevi a un afflusso di liquidità computabile; la FINMA decide nel singolo caso se questa condizione è soddisfatta.
 
-<sup>4</sup> La FINMA può ampliare o ridurre l’elenco dei titoli da calcolare nella parte primaria e secondaria del cuscinetto di liquidità.
+<sup>4</sup>
 
-<sup>5</sup> Per i titoli della parte primaria e secondaria del cuscinetto di liquidità la FINMA stabilisce tassi di sconto minimi per il calcolo del valore di alienazione. Questi tassi si applicano a un portafoglio diversificato di titoli.
+Il 30 per cento dell’importo ottenuto dal seguente calcolo, se positivo, è computabile come valore patrimoniale:
 
-<sup>6</sup> In un orizzonte temporale di 7 giorni la liquidità generata tramite l’alienazione di titoli del cuscinetto di liquidità deve essere composta per almeno il 75 per cento da titoli della parte primaria.
+- a. crediti ipotecari su immobili, che la banca tiene a disposizione quali garanzie per l’ottenimento di un sostegno straordinario di liquidità della BNS e che soddisfano i requisiti posti dalla BNS a tali garanzie;
+- b. dedotte le riduzioni del valore previste dalla BNS per i crediti ipotecari su immobili di cui alla lettera a;
+- c. dedotto il cinque per cento dell’esposizione totale della banca secondo l’articolo 46 capoverso 2 OFoP.
 
-<sup>7</sup> In un orizzonte temporale di 30 giorni tale liquidità deve essere composta per almeno il 50 per cento da titoli della parte primaria.
+<sup>5</sup> Le HQLA che conformemente all’articolo 15*c* capoverso 8 non sono computate e altre HQLA secondo i capoversi 1 e 2 del presente articolo che una succursale o un’unità consolidata detiene per soddisfare le esigenze locali in materia di liquidità possono essere computate nel volume dei valori patrimoniali computabili della banca nella misura in cui tale succursale o unità contribuisce al fabbisogno di liquidità della banca, risultante dalle esigenze particolari in materia di liquidità.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+<sup>6</sup> I valori patrimoniali computabili non possono essere computati nello stesso tempo come afflussi di fondi.
+
+[^20a-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^20a-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+
+#### Art. 20b
+
+**Adempimento delle esigenze particolari in materia di liquidità**[^20b-1]
+
+<sup>1</sup>
+
+La banca soddisfa le esigenze conformemente al presente capitolo, se:
+
+- a. la media giornaliera dei valori patrimoniali computabili del periodo mobile di tre mesi che termina nella data di riferimento corrisponde in ogni momento almeno alla media giornaliera del fabbisogno di liquidità di tale periodo, risultante dalle esigenze particolari in materia di liquidità; e
+- b. i valori patrimoniali computabili corrispondono in ogni momento almeno all’80 per cento del fabbisogno di liquidità, risultante dalle esigenze particolari in materia di liquidità.
+
+<sup>2</sup> La banca deve soddisfare le esigenze in tutte le valute, convertite in franchi svizzeri.
+
+[^20b-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+
+### Sezione 2:**** Esigenze di base
+
+[^chap4-sec2-1]
+
+[^chap4-sec2-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+
+#### Art. 21
+
+**Esigenze**
+
+Le esigenze di base comprendono le esigenze poste al fabbisogno di liquidità dovuto a:
+
+- a. rischi derivanti dal rinnovo di crediti;
+- b. rischi derivanti da un accumulo di deflussi di fondi immediatamente a partire dal 31° giorno di calendario (rischi di soglia) e uno scenario di stress per un orizzonte temporale di 90 giorni.
+
+#### Art. 22
+
+**Fabbisogno di liquidità dovuto a rischi derivanti dal rinnovo di crediti**
+
+Le banche di rilevanza sistemica devono detenere sufficienti valori patrimoniali computabili per i primi 30 giorni di calendario dell’orizzonte temporale di 90 giorni, per coprire il fabbisogno di liquidità dovuto a rischi derivanti dal rinnovo di crediti. Per il calcolo del fabbisogno di liquidità il tasso di afflusso secondo i numeri 5.1 e 5.2 dell’allegato 3 viene ridotto al 25 per cento.
+
+#### Art. 23
+
+**Fabbisogno di liquidità dovuto a rischi di soglia e a uno scenario di stress per un orizzonte temporale di 90 giorni**
+
+<sup>1</sup>
+
+Le banche di rilevanza sistemica devono detenere sufficienti valori patrimoniali computabili per coprire i deflussi netti di fondi prevedibili per le posizioni seguenti:
+
+- a. depositi a vista e a termine con una durata residua o un termine di disdetta fino a 30 giorni di calendario, che non sono ritirati nei primi 30 giorni di calendario;
+- b. posizioni con una durata residua o un termine di disdetta compreso tra 31 e 90 giorni di calendario.
+
+<sup>2</sup>
+
+Per le posizioni di cui al capoverso 1 lettera a i deflussi di fondi per i giorni di calendario 31–90 sono calcolati come segue:
+
+- a. per le categorie di deflusso 1.1, 1.2 e 2.1 secondo l’allegato 2 deve essere calcolato un deflusso supplementare pari al 5 per cento del volume calcolato per il requisito LCR;
+- b. per le categorie di deflusso 2.2 e 2.4 secondo l’allegato 2 deve essere calcolato un deflusso supplementare pari al 17 per cento del volume calcolato per il requisito LCR.
+
+<sup>3</sup> Per le posizioni di cui al capoverso 1 lettera b deve essere calcolato il deflusso netto di fondi per i giorni di calendario 31–90. A tal fine le posizioni devono essere ponderate conformemente alla rispettiva categoria di deflusso o di afflusso con i tassi di deflusso e di afflusso determinanti secondo gli allegati 6 e 7.
+
+#### Art. 24
+
+**Considerazione di misure che generano liquidità**
+
+Per l’adempimento delle esigenze secondo l’articolo 23 i titoli menzionati nell’allegato 8, se negoziabili e liberamente disponibili, possono essere computati al valore attuale di mercato, al netto della rispettiva riduzione del valore. Il computo è possibile fino a un limite massimo del 30 per cento della somma dei deflussi netti di fondi di cui all’articolo 23 capoversi 2 e 3.
+
+### Sezione 2*a*: Esigenze aggiuntive specifiche all’istituto****
+
+[^chap4-sec2a-1]
+
+[^chap4-sec2a-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+
+#### Art. 25
+
+**Supplementi e riduzioni**[^25-1]
+
+<sup>1</sup>
+
+Per i rischi di liquidità che non sono coperti o non sono coperti a sufficienza dalle disposizioni del capitolo 3 o degli articoli 21–23, la FINMA può stabilire, in funzione dei rischi in questione, supplementi delle esigenze quantificate in materia di liquidità specifici all’istituto. Ciò vale in particolare per i rischi di liquidità risultanti dalle seguenti circostanze:
+
+- a. fabbisogno di liquidità infragiornaliera;
+- b. margini iniziali (*initial margins*);
+- c. requisiti di margine per le operazioni di finanziamento di titoli negoziate fuori borsa e regolate per il tramite di controparti centrali;
+- d. riacquisto di propri strumenti di debito (*debt buy-back*);
+- e. finanziamento rilevante di una società del gruppo da parte di filiali;
+- f. ripartizione della liquidità all’interno del gruppo finanziario non proporzionale ai rischi;
+- g. fabbisogno di liquidità per un eventuale risanamento o un’eventuale liquidazione;
+- h. gestione insufficiente del rischio di liquidità.
+
+<sup>2</sup> Le banche di rilevanza sistemica possono chiedere alla FINMA che, oltre alle misure menzionate all’articolo 24, vengano computate altre misure che generano liquidità e che la liquidità da esse ottenuta sia computata sotto forma di riduzioni.
+
+<sup>3</sup> Le riduzioni non possono eccedere i supplementi. Non possono essere applicate ai rischi di liquidità di cui al capoverso 1 lettera a.
+
+[^25-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+
+#### Art. 25a
+
+**Procedura per determinare i supplementi e le riduzioni**[^25a-1]
+
+<sup>1</sup> Nel determinare i supplementi la FINMA tiene conto delle stime delle banche di rilevanza sistemica sui rischi di liquidità di cui all’articolo 25 capoverso 1.
+
+<sup>2</sup> Le banche che chiedono riduzioni alla FINMA devono comprovare la fattibilità delle misure che generano liquidità, in particolare per il caso di una crisi che può portare una banca a un rischio d’insolvenza secondo l’articolo 25 LBCR.
+
+<sup>3</sup> Le banche inoltrano alla FINMA regolarmente la documentazione necessaria alla valutazione dei rischi di liquidità di cui all’articolo 25 capoverso 1. La FINMA stabilisce la frequenza dell’inoltro. Gli aggiornamenti sono inoltrati al di fuori della frequenza stabilita se eventuali cambiamenti rendono necessaria una rielaborazione o se la FINMA lo richiede.
+
+[^25a-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 ### Sezione 3: Ulteriori disposizioni
 
 #### Art. 26
 
-**Agevolazioni temporanee**
+**Mancato adempimento delle esigenze particolari in materia di liquidità**[^26-1]
 
-<sup>1</sup> In caso di shock di liquidità è possibile derogare provvisoriamente alle esigenze previste all’articolo 21.
+<sup>1</sup> Il mancato adempimento delle esigenze particolari in materia di liquidità è ammesso in circostanze straordinarie. Le banche devono comunicare senza indugio alla FINMA se si verifica o si profila un mancato adempimento.
 
-<sup>2</sup> Una deroga alle esigenze previste all’articolo 21 o una deroga prevedibile in ragione di deflussi straordinari di liquidità sono da comunicare immediatamente alla FINMA e alla BNS.
+[^26-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
-<sup>3</sup> Dopo la comunicazione la FINMA stabilisce un termine entro il quale la banca deve presentare, per autorizzazione, un piano per colmare le mancanze di liquidità.
-
-<sup>4</sup> Se il piano è insufficiente, la FINMA adotta misure adeguate.
+### <sup>2</sup> In caso di mancato adempimento la banca deve indicare con quali misure ed entro quale termine le esigenze particolari in materia di liquidità saranno di nuovo soddisfatte. La FINMA approva il termine. Se alla scadenza del termine le esigenze particolari in materia di liquidità non sono soddisfatte, la FINMA può ordinare le misure necessarie.
 
 #### Art. 27
 
-**Gestione insufficiente del rischio di liquidità**
+[^27-1]
 
-Se le banche non applicano le prescrizioni previste agli articoli 5–10, la FINMA riscuote sui deflussi di liquidità delle posizioni di bilancio e fuori bilancio delle banche di rilevanza sistemica un supplemento che corrisponde al mancato grado di applicazione, tuttavia al massimo al 10 per cento di tali deflussi.
+[^27-1]: Abrogato dal n. I dell’O del 3 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 28
 
-**Obblighi di rendiconto**
+**Obblighi di rendiconto**[^28-1]
 
-<sup>1</sup>
+<sup>1</sup> Le banche di rilevanza sistemica devono presentare mensilmente la loro situazione in merito alla liquidità secondo il presente capitolo. A tal fine inoltrano alla BNS, entro 15 giorni di calendario dall’ultimo giorno del mese, informazioni concernenti la situazione in merito alla liquidità delle unità di cui all’articolo 20.
 
-Le banche di rilevanza sistemica presentano mensilmente la loro situazione in merito alla liquidità conformemente agli articoli 23–25. Entro l’ultimo giorno del mese successivo esse inoltrano alla FINMA e alla BNS informazioni concernenti:
+<sup>2</sup> La FINMA disciplina i particolari del rendiconto.
 
-- a. la liquidità a livello di gruppo finanziario nello scenario di stress prestabilito;
-- b. la liquidità a livello di singolo istituto comprese tutte le succursali nello scenario di stress prestabilito;
-- c. la liquidità a livello di singolo istituto senza le succursali situate all’estero nello scenario di stress prestabilito;
-- d. la suddivisione dei titoli liquidi non gravati e liberamente disponibili secondo il numero internazionale di identificazione dei titoli per Paese ISIN a livello di singolo istituto senza le succursali situate all’estero;
-- e.[^28-1] la liquidità conformemente alle lettere a–c in uno scenario di stress che permette di continuare a effettuare finanziamenti sicuri sul mercato pronti contro termine.
-
-<sup>2</sup> Le banche di rilevanza sistemica presentano inoltre mensilmente alla FINMA e alla BNS, al più tardi l’ultimo giorno del mese successivo, un rapporto che descrive le modifiche più importanti intervenute in merito alla liquidità rispetto al mese precedente e che ne indica i motivi.
-
-<sup>3</sup> La FINMA determina la forma del rendiconto.
-
-[^28-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^28-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 28a
 
-**Liquidità infragiornaliera**[^28a-1]
+[^28a-1]
 
-La FINMA può raccogliere informazioni sulla liquidità infragiornaliera.
-
-[^28a-1]: Introdotto dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^28a-1]: Introdotto dal n. I dell’O del 22 nov. 2017 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)). Abrogato dal n. I dell’O del 3 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 29
 
@@ -975,36 +1033,32 @@ Nell’ambito dell’esecuzione della presente ordinanza, la FINMA consulta la B
 
 #### Art. 31
 
-**Disposizioni transitorie**
+[^31-1]
 
-<sup>1</sup> Durante i periodi di osservazione previsti dal Comitato di Basilea, la FINMA può esigere da tutte le banche il relativo rendiconto.
-
-<sup>2</sup> Il periodo di osservazione termina conformemente alle indicazioni del Comitato di Basilea[^31-1], al più tardi tuttavia con l’introduzione dell’indicatore NSFR.[^31-2]
-
-[^31-1]: Comitato di Basilea per la vigilanza bancaria - Basilea III: The Liquidity Coverage Ratio and liquidity risk monitoring tools; consultabile al sito: www.bis.org &gt; Monetary & financial stability &gt; Basel Committee on Banking Supervision &gt; Basel III &gt; Basel III: Liquidity (January 2013).
-[^31-2]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
+[^31-1]: Abrogato dal n. I dell’O del 3 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 31a
 
-**Disposizioni transitorie della modifica del 25 giugno 2014**[^31a-1]
-
-<sup>1</sup>
-
-Le banche senza rilevanza sistemica soddisfano il requisito LCR ai sensi dell’articolo 14 capoversi 1 e 2:
-
-- a. almeno al 60 per cento per l’anno 2015;
-- b. almeno al 70 per cento per l’anno 2016;
-- c. almeno all’80 per cento per l’anno 2017;
-- d. almeno al 90 per cento per l’anno 2018.
-
-<sup>2</sup> Per il 2015, le banche senza rilevanza sistemica inoltrano alla BNS la documentazione sulla liquidità conformemente all’articolo 17*c* per la prima volta il 2 marzo e per gli altri mesi dell’anno al più tardi il giorno 30 del mese seguente.
+[^31a-1]
 
 **Art. 31**b*[^31a-2]* Disposizione transitoria concernente la modifica dell’11 settembre 2020
 
 Il Dipartimento federale delle finanze esaminerà gli articoli 17*h* capoverso 3, 17*p* capoverso 2 lettera b e i fattori RSF secondo l’allegato 5 numeri 2 e 3.4 nell’ottica della loro comparabilità e del loro grado di attuazione negli ordinamenti giuridici delle principali piazze finanziarie estere. Non appena avrà acquisito solide conoscenze in merito, ma al più tardi a giugno 2022, presenterà un rapporto al Consiglio federale e indicherà l’eventuale necessità di adeguamento normativo.
 
-[^31a-1]: Introdotto dal n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
+[^31a-1]: Introdotto dal n. I dell’O del 25 giu. 2014 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Abrogato dal n. I dell’O del 3 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 [^31a-2]: Introdotto dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 31c
+
+**Disposizioni transitorie della modifica del 3 giugno 2022**[^31c-1]
+
+<sup>1</sup> Le esigenze secondo il capitolo 4 nella versione della modifica del 3 giugno 2022 sono da soddisfare al più tardi entro 18 mesi dopo l’entrata in vigore della modifica del 3 giugno 2022. Fino al momento in cui queste esigenze sono soddisfatte, sono determinanti le esigenze in materia di liquidità emanate dalla FINMA nell’ambito della vigilanza.
+
+<sup>2</sup> L’obbligo di rendiconto secondo l’articolo 28 inizia tre mesi dopo l’entrata in vigore della modifica del 3 giugno 2022.
+
+<sup>3</sup> Il Dipartimento federale delle finanze verifica al più tardi tre anni dopo la scadenza del periodo transitorio secondo il capoverso 1 se le disposizioni della modifica del 3 giugno 2022 rispondono allo scopo secondo l’articolo 7 capoverso 2 LBCR e alle esigenze particolari secondo l’articolo 9 LBCR. In merito presenterà un rapporto al Consiglio federale e indicherà l’eventuale necessità di adeguamento normativo.
+
+[^31c-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 32
 
@@ -1228,54 +1282,126 @@ Allegato 5*[^t-6]*
 
 ## Fattore di ponderazione dell’ammontare di provvista stabile obbligatoria (RSF)
 
-[^t-6]: Introdotto dal n. II cpv. 2 dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). La correzione del 21 giu. 2022 concerne soltanto il testo francese ([RU 2022 366](https://fedlex.data.admin.ch/eli/oc/2022/366)).
+[^t-6]: Introdotto dal n. II cpv. 2 dell’O dell’11 set. 2020 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Aggiornato dal n. II dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 <table>
-<tr><th>Categorie RSF</th><th>Fattore di ponderazione (percentuale)</th></tr>
-<tr><td>1.1 Monete e banconote immediatamente disponibili 1.2 Riserve presso la banca centrale, comprese:</td><td>0</td></tr>
-<tr><td>[tab]</td><td>0</td></tr>
-<tr><td>a. la riserva minima, se il regolamento della banca centrale in questione non richiede di mantenerla per un lungo periodo; b. la riserva in eccesso; e c. gli averi in giroconto presso la banca centrale risultanti da operazioni di pronti contro termine.</td><td></td></tr>
-<tr><td>1.3 Tutti i restanti crediti nei confronti di banche centrali con una durata residua inferiore a sei mesi, in particolare i crediti da titoli di credito emessi dalle banche centrali</td><td>0</td></tr>
-<tr><td>1.4 Crediti da una vendita (*Trade Date Receivables*) di strumenti finanziari, divise e materie prime contabilizzata secondo il principio del giorno di chiusura:</td><td></td></tr>
-<tr><td>a. che sono adempiuti entro il termine standard o il termine usuale per la relativa transazione; o</td><td></td></tr>
-<tr><td>b. se, in caso di mancato adempimento, si prevede che l’adempimento avrà ancora luogo.</td><td></td></tr>
-<tr><td>1.5 Crediti che secondo l’articolo 17*p* dipendono da impegni</td><td>0</td></tr>
-<tr><td>1.6 Attivi non gravati della categoria 1 secondo l’articolo 15*a* non rientranti nelle categorie RSF 1.1–1.3</td><td>0</td></tr>
-<tr><td>1.7 Attivi della categoria 1 secondo l’articolo 15*a* gravati per un periodo inferiore a sei mesi</td><td>0</td></tr>
-<tr><td>1.8 Attivi gravati della categoria 1 secondo l’articolo 15*a* correlati a operazioni delle banche centrali che aumentano la liquidità (dal punto di vista della banca centrale)</td><td>0</td></tr>
-<tr><td>1.9 Linee di credito e di liquidità revocabili senza condizioni per tutti i clienti</td><td>0</td></tr>
-<tr><td>2 Fatti salvi i depositi della categoria RSF 3.4, depositi non gravati e depositi gravati per un periodo inferiore a sei mesi presso istituti finanziari nonché prestiti concessi a questi ultimi con una durata residua inferiore a sei mesi, se:</td><td>10</td></tr>
-<tr><td>a. i depositi e i prestiti sono garantiti da attivi della categoria 1 secondo l’articolo 15*a* o della categoria 2*a* secondo l’articolo 15*b*; e</td><td></td></tr>
-<tr><td>b. la banca può ricostituire liberamente in pegno le garanzie ricevute per l’intera durata del deposito o del prestito (*Rehypothecation*).</td><td></td></tr>
-<tr><td>3.1 Attivi non gravati della categoria 2*a* secondo l’articolo 15*b* capoversi 1–4</td><td>15</td></tr>
-<tr><td>3.2 Attivi della categoria 2*a* secondo l’articolo 15*b* capoversi 1–4 gravati per un periodo inferiore a sei mesi</td><td>15</td></tr>
-<tr><td>3.3 Attivi gravati della categoria 2*a* secondo l’articolo 15*b* correlati a operazioni delle banche centrali che aumentano la liquidità (dal punto di vista della banca centrale)</td><td>15</td></tr>
-<tr><td>3.4 Fatti salvi i depositi delle categorie RSF 4.4 e 6.6, tutti i restanti depositi non gravati e depositi gravati per un periodo inferiore a sei mesi presso istituti finanziari nonché i prestiti concessi a questi ultimi con una durata residua inferiore a sei mesi non rientranti nella categoria RSF 2</td><td>15</td></tr>
-<tr><td>4.1 Attivi non gravati e attivi gravati per un periodo inferiore a sei mesi della categoria 2*b* secondo l’articolo 15*b* capoversi 5 e 6</td><td>50</td></tr>
-<tr><td>4.2 Attivi gravati per un periodo compreso fra sei mesi e meno di un anno ai quali, se non fossero gravati, si assegnerebbe un fattore RSF pari o inferiore al 50 %</td><td>50</td></tr>
-<tr><td>4.3 Tutti i depositi presso istituti finanziari, i prestiti concessi a questi ultimi nonché i crediti nei confronti di banche centrali con una durata residua compresa fra sei mesi e meno di un anno</td><td>50</td></tr>
-<tr><td>4.4 Depositi operativi presso altri istituti finanziari sui quali si applica un fattore ASF del 50 % secondo la categoria ASF 5.2</td><td>50</td></tr>
-<tr><td>4.5 Tutti i restanti attivi con una durata residua inferiore a un anno che non sono gravati o sono gravati per un periodo inferiore a un anno</td><td>50</td></tr>
-<tr><td>5.1 Crediti ipotecari non gravati su immobili con una durata residua pari o superiore a un anno e una ponderazione del rischio pari o inferiore al 35 % secondo il metodo standard di Basilea II per i rischi di credito</td><td>65</td></tr>
-<tr><td>5.2 Tutti i restanti depositi e prestiti non gravati:</td><td>65</td></tr>
-<tr><td>a. con una durata residua pari o superiore a un anno;</td><td></td></tr>
-<tr><td>b. con una ponderazione del rischio pari o inferiore al 35 % secondo il metodo standard di Basilea II per i rischi di credito;</td><td></td></tr>
-<tr><td>c. non rientranti nelle categorie RSF 2, 3.4, 4.3 o 4.4; e</td><td></td></tr>
-<tr><td>d. che non rappresentano depositi presso istituti finanziari né prestiti concessi a questi ultimi.</td><td></td></tr>
-<tr><td>5.3 Attivi gravati per un periodo inferiore a un anno che, se non fossero gravati, rientrerebbero nelle categorie RSF 5.1 e 5.2</td><td>65</td></tr>
-<tr><td>6.1 Margini iniziali per operazioni su derivati pagati in contanti, mediante titoli o altri attivi e contributi pagati in contanti o mediante altri attivi al fondo di garanzia di una controparte centrale, salvo se ai margini iniziali per operazioni su derivati pagati in contanti o mediante altri attivi è assegnato un fattore RSF più elevato; in tal caso si applica il fattore RSF più elevato</td><td>85</td></tr>
-<tr><td>6.2 Altri depositi e prestiti non gravati né in sofferenza con una ponderazione del rischio superiore al 35 % secondo il metodo standard di Basilea II per i rischi di credito e con una durata residua pari o superiore a un anno, senza i depositi presso istituti finanziari e i prestiti concessi a questi ultimi</td><td>85</td></tr>
-<tr><td>6.3 Titoli non gravati né annullati con una durata residua di almeno un anno che non sono ammessi come HQLA, comprese le azioni negoziate in borsa non rientranti nella categoria RSF 5.1</td><td>85</td></tr>
-<tr><td>6.4 Materie prime fisiche negoziate, compresi i metalli preziosi</td><td>85</td></tr>
-<tr><td>6.5 Attivi gravati per un periodo inferiore a un anno che, se non fossero gravati, rientrerebbero nelle categorie RSF 6.1–6.4</td><td>85</td></tr>
-<tr><td>6.6 Prestiti di banche appartenenti a un gruppo finanziario cooperativo concessi al loro istituto centrale e risultanti dal comune adempimento dei compiti e da condizioni legali, statutarie o contrattuali</td><td>85</td></tr>
-<tr><td>7.1 Tutti gli attivi gravati per un periodo pari o superiore a un anno</td><td>100</td></tr>
-<tr><td>7.2 Crediti da operazioni su derivati secondo l’articolo 17*j* capoversi 2 e 5, dedotti gli impegni da operazioni su derivati secondo l’articolo 17*j* capoversi 1 e 4, se i crediti da operazioni su derivati superano gli impegni da operazioni su derivati</td><td>100</td></tr>
-<tr><td>7.3 Il 20 % dell’importo lordo degli impegni da operazioni su derivati secondo l’articolo 17*j* capoverso 1 prima di dedurre i margini di variazione versati</td><td>100</td></tr>
-<tr><td>7.4 Tutti i restanti attivi non rientranti nelle categorie precedenti, segnatamente:</td><td>100</td></tr>
-<tr><td>a. i depositi in sofferenza; b. i depositi presso istituti finanziari nonché i prestiti concessi a questi ultimi con una durata residua pari o superiore a un anno; c. le azioni non negoziate in borsa; d. gli investimenti materiali; e. le posizioni che devono essere dedotte dai fondi propri computabili; f. i crediti trattenuti; g. gli asset assicurativi (*Insurance Assets*); h. le partecipazioni in filiali; i. i titoli annullati.</td><td></td></tr>
-<tr><td>7.5 Attivi gravati per un periodo inferiore a un anno che, se non fossero gravati, rientrerebbero nelle categorie RSF 7.1–7.4</td><td>100</td></tr>
-<tr><td>8. Linee di credito e di liquidità revocabili con riserva e irrevocabili, per tutti i clienti</td><td>5 % della parte non utilizzata</td></tr>
-<tr><td>9.1 Impegni eventuali correlati a finanziamenti di operazioni commerciali</td><td>5 % del valore nominale in sospeso</td></tr>
-<tr><td>9.2 Impegni eventuali da garanzie e crediti documentari non correlati a finanziamenti di operazioni commerciali</td><td></td></tr>
+<tr><th colspan="2">Categorie RSF</th><th colspan="2">Fattore di ponderazione (percentuale)</th></tr>
+<tr><td colspan="2">1.1 Monete e banconote immediatamente disponibili 1.2 Riserve presso la banca centrale, comprese:</td><td colspan="2">0</td></tr>
+<tr><td colspan="2">[tab]</td><td colspan="2">0</td></tr>
+<tr><td colspan="2">a. la riserva minima, se il regolamento della banca centrale in questione non richiede di mantenerla per un lungo periodo; b. la riserva in eccesso; e c. gli averi in giroconto presso la banca centrale risultanti da operazioni di pronti contro termine.</td><td colspan="2"></td></tr>
+<tr><td colspan="2">1.3 Tutti i restanti crediti nei confronti di banche centrali con una durata residua inferiore a sei mesi, in particolare i crediti da titoli di credito emessi dalle banche centrali</td><td colspan="2">0</td></tr>
+<tr><td colspan="2">1.4 Crediti da una vendita (*Trade Date Receivables*) di strumenti finanziari, divise e materie prime contabilizzata secondo il principio del giorno di chiusura:</td><td colspan="2"></td></tr>
+<tr><td colspan="2">a. che sono adempiuti entro il termine standard o il termine usuale per la relativa transazione; o</td><td colspan="2"></td></tr>
+<tr><td colspan="2">b. se, in caso di mancato adempimento, si prevede che l’adempimento avrà ancora luogo.</td><td colspan="2"></td></tr>
+<tr><td colspan="2">1.5 Crediti che secondo l’articolo 17*p* dipendono da impegni</td><td colspan="2">0</td></tr>
+<tr><td colspan="2">1.6 Attivi non gravati della categoria 1 secondo l’articolo 15*a* non rientranti nelle categorie RSF 1.1–1.3</td><td colspan="2">0</td></tr>
+<tr><td colspan="2">1.7 Attivi della categoria 1 secondo l’articolo 15*a* gravati per un periodo inferiore a sei mesi</td><td colspan="2">0</td></tr>
+<tr><td colspan="2">1.8 Attivi gravati della categoria 1 secondo l’articolo 15*a* correlati a operazioni delle banche centrali che aumentano la liquidità (dal punto di vista della banca centrale)</td><td colspan="2">0</td></tr>
+<tr><td colspan="2">1.9 Linee di credito e di liquidità revocabili senza condizioni per tutti i clienti</td><td colspan="2">0</td></tr>
+<tr><td colspan="2">2 Fatti salvi i depositi della categoria RSF 3.4, depositi non gravati e depositi gravati per un periodo inferiore a sei mesi presso istituti finanziari nonché prestiti concessi a questi ultimi con una durata residua inferiore a sei mesi, se:</td><td colspan="2">10</td></tr>
+<tr><td colspan="2">a. i depositi e i prestiti sono garantiti da attivi della categoria 1 secondo l’articolo 15*a* o della categoria 2*a* secondo l’articolo 15*b*; e</td><td colspan="2"></td></tr>
+<tr><td colspan="2">b. la banca può ricostituire liberamente in pegno le garanzie ricevute per l’intera durata del deposito o del prestito (*Rehypothecation*).</td><td colspan="2"></td></tr>
+<tr><td colspan="2">3.1 Attivi non gravati della categoria 2*a* secondo l’articolo 15*b* capoversi 1–4</td><td colspan="2">15</td></tr>
+<tr><td colspan="2">3.2 Attivi della categoria 2*a* secondo l’articolo 15*b* capoversi 1–4 gravati per un periodo inferiore a sei mesi</td><td colspan="2">15</td></tr>
+<tr><td colspan="2">3.3 Attivi gravati della categoria 2*a* secondo l’articolo 15*b* correlati a operazioni delle banche centrali che aumentano la liquidità (dal punto di vista della banca centrale)</td><td colspan="2">15</td></tr>
+<tr><td colspan="2">3.4 Fatti salvi i depositi delle categorie RSF 4.4 e 6.6, tutti i restanti depositi non gravati e depositi gravati per un periodo inferiore a sei mesi presso istituti finanziari nonché i prestiti concessi a questi ultimi con una durata residua inferiore a sei mesi non rientranti nella categoria RSF 2</td><td colspan="2">15</td></tr>
+<tr><td colspan="2">4.1 Attivi non gravati e attivi gravati per un periodo inferiore a sei mesi della categoria 2*b* secondo l’articolo 15*b* capoversi 5 e 6</td><td colspan="2">50</td></tr>
+<tr><td colspan="2">4.2 Attivi gravati per un periodo compreso fra sei mesi e meno di un anno ai quali, se non fossero gravati, si assegnerebbe un fattore RSF pari o inferiore al 50 %</td><td colspan="2">50</td></tr>
+<tr><td colspan="2">4.3 Tutti i depositi presso istituti finanziari, i prestiti concessi a questi ultimi nonché i crediti nei confronti di banche centrali con una durata residua compresa fra sei mesi e meno di un anno</td><td colspan="2">50</td></tr>
+<tr><td colspan="2">4.4 Depositi operativi presso altri istituti finanziari sui quali si applica un fattore ASF del 50 % secondo la categoria ASF 5.2</td><td colspan="2">50</td></tr>
+<tr><td colspan="2">4.5 Tutti i restanti attivi con una durata residua inferiore a un anno che non sono gravati o sono gravati per un periodo inferiore a un anno</td><td colspan="2">50</td></tr>
+<tr><td colspan="2">5.1 Crediti ipotecari non gravati su immobili con una durata residua pari o superiore a un anno e una ponderazione del rischio pari o inferiore al 35 % secondo il metodo standard di Basilea II per i rischi di credito</td><td colspan="2">65</td></tr>
+<tr><td colspan="2">5.2 Tutti i restanti depositi e prestiti non gravati:</td><td colspan="2">65</td></tr>
+<tr><td colspan="2">a. con una durata residua pari o superiore a un anno;</td><td colspan="2"></td></tr>
+<tr><td colspan="2">b. con una ponderazione del rischio pari o inferiore al 35 % secondo il metodo standard di Basilea II per i rischi di credito;</td><td colspan="2"></td></tr>
+<tr><td colspan="2">c. non rientranti nelle categorie RSF 2, 3.4, 4.3 o 4.4; e</td><td colspan="2"></td></tr>
+<tr><td colspan="2">d. che non rappresentano depositi presso istituti finanziari né prestiti concessi a questi ultimi.</td><td colspan="2"></td></tr>
+<tr><td colspan="2">5.3 Attivi gravati per un periodo inferiore a un anno che, se non fossero gravati, rientrerebbero nelle categorie RSF 5.1 e 5.2</td><td colspan="2">65</td></tr>
+<tr><td colspan="2">6.1 Margini iniziali per operazioni su derivati pagati in contanti, mediante titoli o altri attivi e contributi pagati in contanti o mediante altri attivi al fondo di garanzia di una controparte centrale, salvo se ai margini iniziali per operazioni su derivati pagati in contanti o mediante altri attivi è assegnato un fattore RSF più elevato; in tal caso si applica il fattore RSF più elevato</td><td colspan="2">85</td></tr>
+<tr><td colspan="2">6.2 Altri depositi e prestiti non gravati né in sofferenza con una ponderazione del rischio superiore al 35 % secondo il metodo standard di Basilea II per i rischi di credito e con una durata residua pari o superiore a un anno, senza i depositi presso istituti finanziari e i prestiti concessi a questi ultimi</td><td colspan="2">85</td></tr>
+<tr><td colspan="2">6.3 Titoli non gravati né annullati con una durata residua di almeno un anno che non sono ammessi come HQLA, comprese le azioni negoziate in borsa non rientranti nella categoria RSF 4.1</td><td colspan="2">85</td></tr>
+<tr><td colspan="2">6.4 Materie prime fisiche negoziate, compresi i metalli preziosi</td><td colspan="2">85</td></tr>
+<tr><td colspan="2">6.5 Attivi gravati per un periodo inferiore a un anno che, se non fossero gravati, rientrerebbero nelle categorie RSF 6.1–6.4</td><td colspan="2">85</td></tr>
+<tr><td colspan="2">6.6 Prestiti di banche appartenenti a un gruppo finanziario cooperativo concessi al loro istituto centrale e risultanti dal comune adempimento dei compiti e da condizioni legali, statutarie o contrattuali</td><td colspan="2">85</td></tr>
+<tr><td colspan="2">7.1 Tutti gli attivi gravati per un periodo pari o superiore a un anno</td><td colspan="2">100</td></tr>
+<tr><td colspan="2">7.2 Crediti da operazioni su derivati secondo l’articolo 17*j* capoversi 2 e 5, dedotti gli impegni da operazioni su derivati secondo l’articolo 17*j* capoversi 1 e 4, se i crediti da operazioni su derivati superano gli impegni da operazioni su derivati</td><td colspan="2">100</td></tr>
+<tr><td colspan="2">7.3 Il 20 % dell’importo lordo degli impegni da operazioni su derivati secondo l’articolo 17*j* capoverso 1 prima di dedurre i margini di variazione versati</td><td colspan="2">100</td></tr>
+<tr><td colspan="2">7.4 Tutti i restanti attivi non rientranti nelle categorie precedenti, segnatamente:</td><td colspan="2">100</td></tr>
+<tr><td colspan="2">a. i depositi in sofferenza; b. i depositi presso istituti finanziari nonché i prestiti concessi a questi ultimi con una durata residua pari o superiore a un anno; c. le azioni non negoziate in borsa; d. gli investimenti materiali; e. le posizioni che devono essere dedotte dai fondi propri computabili; f. i crediti trattenuti; g. gli asset assicurativi (*Insurance Assets*); h. le partecipazioni in filiali; i. i titoli annullati.</td><td colspan="2"></td></tr>
+<tr><td colspan="2">7.5 Attivi gravati per un periodo inferiore a un anno che, se non fossero gravati, rientrerebbero nelle categorie RSF 7.1–7.4</td><td colspan="2">100</td></tr>
+<tr><td colspan="2">8. Linee di credito e di liquidità revocabili con riserva e irrevocabili, per tutti i clienti</td><td colspan="2">5 % della parte non utilizzata</td></tr>
+<tr><td>9.1 Impegni eventuali correlati a finanziamenti di operazioni commerciali</td><td colspan="2">0 % del valore nominale in sospeso</td></tr>
+<tr><td>9.2 Impegni eventuali da garanzie e crediti documentari non correlati a finanziamenti di operazioni commerciali</td><td colspan="2">5 % del valore nominale in sospeso</td></tr>
+</table>
+
+Allegato 6*[^t-7]*
+
+(art. 23 cpv. 3)
+
+## Deflussi di fondi e tassi di deflusso per le banche di rilevanza sistemica nel periodo dal 31° al 90° giorno di calendario
+
+[^t-7]: Introdotto dal n. III dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+
+<table>
+<tr><td>Categorie di deflusso</td><td>Tasso di deflusso (percentuale)</td></tr>
+<tr><td>1. Depositi di clienti privati e di piccole imprese:</td><td></td></tr>
+<tr><td>– con una durata residua o un termine di disdetta da 31 a 60 giorni di calendario</td><td>5</td></tr>
+<tr><td>– con una durata residua o un termine di disdetta da 61 a 90 giorni di calendario</td><td>2,5</td></tr>
+<tr><td>2. Depositi di istituti non finanziari, Governi centrali, banche centrali, enti territoriali subordinati e altri enti di diritto pubblico e banche multilaterali di sviluppo:</td><td></td></tr>
+<tr><td>– con una durata residua o un termine di disdetta da 31 a 60 giorni di calendario</td><td>20</td></tr>
+<tr><td>– con una durata residua o un termine di disdetta da 61 a 90 giorni di calendario</td><td>10</td></tr>
+<tr><td>3. Depositi di istituti finanziari ai sensi dell’allegato 1 comprese le società ad essi correlate, di tutte le altre persone giuridiche e dei clienti commerciali quali le casse pensioni:</td><td></td></tr>
+<tr><td>– con una durata residua o un termine di disdetta da 31 a 60 giorni di calendario</td><td>75</td></tr>
+<tr><td>– con una durata residua o un termine di disdetta da 61 a 90 giorni di calendario</td><td>50</td></tr>
+<tr><td>4. Titoli di credito non garantiti:</td><td></td></tr>
+<tr><td>– con una durata residua o un termine di disdetta da 31 a 60 giorni di calendario</td><td>100</td></tr>
+<tr><td>– con una durata residua o un termine di disdetta da 61 a 90 giorni di calendario</td><td>50</td></tr>
+<tr><td>5. Operazioni di finanziamento garantite mediante attivi non HQLA e *collateral swap* che comprendono lo scambio di attivi non HQLA con attivi della categoria 1, ad eccezione delle operazioni con la BNS:</td><td></td></tr>
+<tr><td>– con una durata residua o un termine di disdetta da 31 a 60 giorni di calendario</td><td>100</td></tr>
+<tr><td>– con una durata residua o un termine di disdetta da 61 a 90 giorni di calendario</td><td>50</td></tr>
+</table>
+
+Allegato 7*[^t-8]*
+
+(art. 23 cpv. 3)
+
+## Afflussi di fondi e tassi di afflusso per le banche di rilevanza sistemica nel periodo dal 31° al 90° giorno di calendario
+
+[^t-8]: Introdotto dal n. III dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+
+<table>
+<tr><td>Categorie di afflusso</td><td>Tasso di afflusso (percentuale)</td></tr>
+<tr><td>1. Operazioni di finanziamento garantite mediante attivi non HQLA e collateral swap che comprendono lo scambio di attivi della categoria 1 con attivi non HQLA:</td><td></td></tr>
+<tr><td>– con una durata residua o un termine di disdetta da 31 a 60 giorni di calendario</td><td>100</td></tr>
+<tr><td>– con una durata residua o un termine di disdetta da 61 a 90 giorni di calendario</td><td>50</td></tr>
+<tr><td>2. Crediti nei confronti di istituti finanziari ai sensi dell’allegato 1 e di banche centrali:</td><td></td></tr>
+<tr><td>– con una durata residua o un termine di disdetta da 31 a 60 giorni di calendario</td><td>75</td></tr>
+<tr><td>– con una durata residua o un termine di disdetta da 61 a 90 giorni di calendario</td><td>50</td></tr>
+<tr><td>3. Attivi della categoria 1, costituiti in pegno e a loro volta ricostituiti in pegno, esclusi dalle HQLA, la cui durata di ricostituzione del pegno presenta una durata residua:</td><td></td></tr>
+<tr><td>– da 31 a 60 giorni di calendario</td><td>100</td></tr>
+<tr><td>– da 61 a 90 giorni di calendario</td><td>50</td></tr>
+</table>
+
+Allegato 8*[^t-9]*
+
+(art. 24)
+
+## Titoli computabili per le banche di rilevanza sistemica
+
+[^t-9]: Introdotto dal n. III dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+
+<table>
+<tr><td>Titoli</td><td>Riduzione del valore (percentuale)</td></tr>
+<tr><td>1. Titoli che rappresentano crediti nei confronti di un Governo centrale, di una banca centrale, di un ente territoriale subordinato dotato di autonomia di bilancio e del diritto di riscuotere imposte o di un altro ente di diritto pubblico, della Banca dei regolamenti internazionali, del Fondo monetario internazionale, della Banca centrale europea, dell’Unione europea o di banche multilaterali di sviluppo, se tali titoli:</td><td></td></tr>
+<tr><td>– in virtù dell’articolo 15*d* non possono essere computati come HQLA</td><td>25</td></tr>
+<tr><td>– per altri motivi non possono essere computati come HQLA</td><td>60</td></tr>
+<tr><td>2. Prestiti di imprese compresi i titoli del mercato monetario, se sono emessi da società che né singolarmente né in correlazione ad altre sono considerate quale istituto finanziario ai sensi dell’allegato 1, se tali strumenti:</td><td></td></tr>
+<tr><td>– in virtù dell’articolo 15*d* non possono essere computati come HQLA</td><td>25</td></tr>
+<tr><td>– per altri motivi non possono essere computati come HQLA</td><td>60</td></tr>
+<tr><td>3. Titoli di credito coperti che non sono stati emessi dalla banca stessa o da un altro istituto finanziario ai sensi dell’allegato 1 ad essa correlato, se tali titoli di credito:</td><td></td></tr>
+<tr><td>– in virtù dell’articolo 15*d* non possono essere computati come HQLA</td><td>25</td></tr>
+<tr><td>– per altri motivi non possono essere computati come HQLA</td><td>60</td></tr>
+<tr><td>4. Azioni, se:</td><td></td></tr>
+<tr><td>– in virtù dell’articolo 15*d* non possono essere computate come HQLA</td><td>60</td></tr>
+<tr><td>– per altri motivi non possono essere computate come HQLA</td><td>70</td></tr>
 </table>

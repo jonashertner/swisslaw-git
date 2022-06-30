@@ -4,11 +4,11 @@ title: "Ordonnance du 30 novembre 2012 sur les liquidités des banques et des ma
 short: OLiq
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/883"
 language: fr
-version: 2022-06-21
+version: 2022-07-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20220621/fr/xml/fedlex-data-admin-ch-eli-cc-2012-883-20220621-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20220621/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2012-883-20220701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20220621/fr"
 
 (Ordonnance sur les liquidités, OLiq)**[^t-1]**
 
-du 30 novembre 2012 (Etat le 21 juin 2022)
+du 30 novembre 2012 (Etat le 1<sup>er</sup> juillet 2022)
 
 [^t-1]: Nouvelle teneur selon l’annexe 1 ch. II 11 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -357,7 +357,10 @@ Les actifs des catégories 1 et 2 qui ont valeur de titres, d’emprunts ou de t
 
 <sup>7</sup> Les actifs peuvent être imputés sur les HQLA pendant encore 30 jours à compter du moment où ils cessent d’être considérés comme des HQLA.
 
+<sup>8</sup> Ne sont pas pris en compte par rapport à l’encours des HQLA de la banque les HQLA qu’une succursale ou une entité consolidée détient pour respecter les exigences locales en matière de liquidités et qui dépassent la contribution de cette succursale ou entité à la sortie nette de trésorerie de la banque visée à l’art. 16.[^15c-2]
+
 [^15c-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^15c-2]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 15d
 
@@ -781,9 +784,9 @@ Les banques communiquent à la FINMA, dans le cadre du système d’annonce gén
 
 ### Section 4**** Paramètres d’observation
 
-[^chap4-sec3-1]
+[^chap4-sec2a-1]
 
-[^chap4-sec3-1]: Introduite par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^chap4-sec2a-1]: Introduite par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 #### Art. 18a
 
@@ -791,9 +794,9 @@ La FINMA peut collecter, parallèlement aux données concernant le LCR et le NSF
 
 ### Section 5**** Tâches de la société d’audit
 
-[^chap4-sec5-1]
+[^chap4-sec3-1]
 
-[^chap4-sec5-1]: Introduite par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^chap4-sec3-1]: Introduite par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 #### Art. 18b
 
@@ -812,152 +815,207 @@ La société d’audit vérifie, conformément aux prescriptions du système d�
 
 #### Art. 19
 
-**But**
+**Exigences particulières en matière de liquidités**[^19-1]
 
-<sup>1</sup> Les banques d’importance systémique doivent être en mesure de respecter leurs obligations de paiement même si elles se trouvent dans une situation exceptionnellement difficile.
+<sup>1</sup> Outre les exigences arrêtées dans le chapitre 3, les banques d’importance systémique doivent remplir des exigences particulières en matière de liquidités pour couvrir les risques de liquidité qui ne sont pas ou pas assez couverts par le LCR.
 
-<sup>2</sup> Elles doivent remplir, outre les exigences auxquelles toutes les banques sont soumises, les exigences quantitatives particulières en matière de liquidités arrêtées dans le présent chapitre.[^19-1]
+<sup>2</sup>
 
-[^19-1]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
+Les exigences particulières en matière de liquidités englobent:
+
+- a. les exigences de base;
+- b. les exigences supplémentaires de la FINMA qui sont spécifiques à l’établissement.
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 20
 
-**Périmètre de consolidation**
-
-Les banques d’importance systémique remplissent les exigences particulières au niveau du groupe financier et de chaque établissement, y compris toutes les succursales.
-
-### Section 2 Exigences quantitatives
-
-#### Art. 21
-
-**Exigences particulières en matière de liquidités**
-
-<sup>1</sup> Les banques d’importance systémique doivent être en mesure de couvrir, à tout moment et pendant au moins 30 jours, toutes les sorties de liquidités prévues en cas de survenance du scénario de crise selon l’art. 22.
-
-<sup>2</sup> Elles ne doivent manquer de liquidités à aucun moment, ni à sept jours, ni à 30 jours.
-
-#### Art. 22
-
-**Scénario de crise**
-
-<sup>1</sup> Le scénario de crise est fondé à la fois sur un événement de crise spécifique à la banque et sur un événement de crise affectant l’ensemble du marché.
-
-<sup>2</sup>
-
-Il repose sur l’hypothèse suivante:
-
-- a. la banque perd tout accès au financement garanti et non garanti sur le marché des capitaux et le marché monétaire, et
-- b. elle enregistre un retrait massif des dépôts.
-
-<sup>3</sup> La FINMA précise le scénario de crise.
-
-#### Art. 23
-
-**Manque de liquidités**
+**Périmètre de consolidation**[^20-1]
 
 <sup>1</sup>
 
-Il y a manque de liquidités à sept jours si les sorties de liquidités selon l’art. 24, al. 2, sont supérieures à la somme des positions suivantes:
+Les exigences particulières en matière de liquidités doivent être satisfaites au niveau du groupe financier, à celui de chaque établissement titulaire d’une autorisation selon la LB et à celui de chaque maison de titres titulaire d’une autorisation selon la LEFin par:
 
-- a. entrées de liquidités selon l’art. 24, al. 1;
-- b. valeur qui pourrait être obtenue lors de la réalisation des actifs du volant de liquidités réglementaire (art. 25);
-- c. facilités existantes des banques centrales jusqu’à hauteur des limites convenues encore ouvertes.
+- a. les entités qui exercent des fonctions d’importance systémique;
+- b. l’entité suprême d’un groupe financier, pour autant que celui-ci inclue dans son périmètre de consolidation une entité visée à la let. a;
+- c. les entités qui se trouvent à la tête d’importants groupes financiers subordonnés, pour autant que ceux-ci incluent dans leur périmètre de consolidation une entité visée à la let. a;
+- d. les entités qui, en raison de leur fonction centrale ou de leur taille relative, sont importantes pour le groupe financier.
 
-<sup>2</sup> Pour couvrir les sorties de liquidités à 30 jours, la banque peut, en sus des trois positions indiquées à l’al. 1, recourir aux facilités de la BNS jusqu’à hauteur du montant encore disponible ayant fait l’objet de préparatifs.
+<sup>2</sup> La FINMA peut, au cas par cas, accorder des dérogations aux entités dont la part directe aux fonctions d’importance systémique du groupe financier au niveau national ne dépasse pas 5 % au total ou dont l’importance pour le maintien des fonctions d’importance systémique du groupe financier au niveau national est de toute autre manière négligeable.
 
-#### Art. 24
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
-**Entrées et sorties de liquidités**
+#### Art. 20a
 
-<sup>1</sup> Dans le scénario de crise, les entrées de liquidités sont calculées en multipliant les différentes classes de créances au bilan par leur taux d’entrée respectif. Ne peuvent pas être comptés comme entrées de liquidités les actifs imputés sur le portefeuille de titres du volant de liquidités réglementaire selon l’art. 25.
+**Actifs pris en compte**[^20a-1]
 
-<sup>2</sup> Les sorties de liquidités sont calculées en multipliant les différentes classes d’engagements au bilan ou hors bilan par leur taux de sortie respectif.
+<sup>1</sup>
 
-<sup>3</sup> La FINMA arrête la classification des créances et des engagements et fixe les taux d’entrée maximaux et les taux de sortie minimaux.
+Sont pris en compte au titre des exigences particulières en matière de liquidités les HQLA:
 
-<sup>4</sup> La banque détermine elle-même les taux d’entrée et de sortie non fixés par la FINMA, en veillant à ce qu’ils soient cohérents avec le scénario de crise selon l’art. 22.
+- a. qui ne sont pas compris dans l’encours des HQLA nécessaire pour répondre aux exigences du LCR, et
+- b. dont la banque peut disposer en tout temps sur un horizon temporel de 90 jours (horizon de 90 jours).
 
-#### Art. 25
-
-**Volant de liquidités réglementaire**
-
-<sup>1</sup> Les banques d’importance systémique détiennent un volant de liquidités constitué d’actifs liquides, non grevés, librement disponibles et immédiatement réalisables si le scénario de crise se concrétise. Le volant de liquidités se compose d’une partie primaire et d’une partie secondaire:
-
-<sup>2</sup>
-
-La partie primaire comprend:
-
-- a. des titres de dettes émis par des États ou des banques centrales, ou encore par la Banque des règlements internationaux, le Fonds monétaire international ou des banques multilatérales de développement, et dont la pondération des risques selon les prescriptions de couverture en fonds propres est de 0 %;
-- b. des lettres de gage émises par la Centrale de lettres de gage des banques cantonales suisses SA ou la Banque des lettres de gage d’établissements suisses de crédit hypothécaire SA.
-- c. des avoirs en comptes de virement auprès de banques centrales et des espèces.
+<sup>2</sup> L’imputation d’actifs des catégories 2a et 2b est soumise aux plafonds fixés à l’art. 15*c*, al. 1, let. b et c. Au cas par cas, la FINMA peut décider que ces actifs peuvent aussi être pris en compte au-delà de ces plafonds. Sa décision prend en considération le risque inhérent au fait que ces actifs ne sont pas immédiatement cessibles.
 
 <sup>3</sup>
 
-La partie secondaire peut comprendre les actifs facilement négociables suivants:
+Une garantie explicite du canton (garantie étatique) ou un mécanisme similaire peut être pris en compte lorsque cette garantie ou ce mécanisme:
 
-- a. emprunts d’entreprises à solvabilité élevée;
-- b. emprunts du secteur public autres que ceux relevant de l’al. 2, let. a;
-- c. titres de participation cotés en bourse;
-- d. papiers monétaires;
-- e.[^25-1] titres adossés à des actifs.
+- a. est pris en compte en vertu de l’art. 132*a* OFR[^20a-2] au titre des exigences de fonds supplémentaires destinés à absorber les pertes, et
+- b. est utilisé en cas de crise et se traduit à court terme par une entrée de liquidités pouvant être prise en compte; la FINMA décide au cas par cas si cette condition est remplie.
 
-<sup>4</sup> La FINMA peut étendre ou restreindre la liste des actifs pouvant être pris en compte dans les parties primaire et secondaire du volant de liquidités.
+<sup>4</sup>
 
-<sup>5</sup> Elle fixe pour les actifs des parties primaire et secondaire du volant de liquidités des taux de décote minimaux servant au calcul de leur valeur de réalisation. Ces taux sont valables pour un portefeuille d’actifs bien diversifié.
+Sur le total du calcul ci-après, 30 % peuvent être pris en compte en tant qu’actifs si ce total est positif:
 
-<sup>6</sup> À sept jours, 75 % au moins des liquidités qui seraient générées par la réalisation des actifs du volant de liquidités réglementaire se composent d’actifs de la partie primaire du volant.
+- a. créances hypothécaires que la banque tient à disposition en tant que sûretés pour recourir à une aide extraordinaire fournie par la BNS sous forme de liquidités et qui répondent aux exigences de la BNS concernant les sûretés de ce type;
+- b. moins les décotes fixées par la BNS pour les créances hypothécaires visées à la let. a;
+- c. moins 5 % de l’engagement total de la banque selon l’art. 46, al. 2, OFR.
 
-<sup>7</sup> À 30 jours, 50 % au moins de ces liquidités se composent d’actifs de la partie primaire du volant.
+<sup>5</sup> Les HQLA qui ne sont pas pris en compte selon l’art. 15*c*, al. 8, et les autres HQLA visés aux al. 1 et 2 du présent article qu’une succursale ou une entité consolidée détient pour respecter les exigences locales en matière de liquidités peuvent être comptabilisés dans l’encours des actifs de la banque qui peuvent être pris en compte, pour autant que cette succursale ou entité consolidée contribue au besoin de liquidités de la banque résultant des exigences particulières en matière de liquidités.
 
-[^25-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+<sup>6</sup> Les actifs pris en compte ne peuvent pas être comptabilisés simultanément comme entrées de trésorerie.
+
+[^20a-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^20a-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+
+#### Art. 20b
+
+**Respect des exigences particulières en matière de liquidités**[^20b-1]
+
+<sup>1</sup>
+
+La banque respecte les exigences arrêtées dans le présent chapitre lorsque:
+
+- a. la moyenne journalière des actifs pouvant être pris en compte sur la période glissante de trois mois qui prend fin à la date de référence correspond au moins, à tout moment, à la moyenne journalière du besoin de liquidités résultant des exigences particulières en matière de liquidités sur la même période, et
+- b. les actifs pouvant être pris en compte correspondent en tout temps à 80 % au moins du besoin de liquidités résultant des exigences particulières en matière de liquidités.
+
+<sup>2</sup> La banque doit remplir les exigences relatives à toutes les devises, converties en francs suisses.
+
+[^20b-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+
+### Section 2**** Exigences de base
+
+[^chap5-sec2-1]
+
+[^chap5-sec2-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+
+#### Art. 21
+
+**Exigences**
+
+Les exigences de base englobent les exigences relatives au besoin de liquidités résultant:
+
+- a. des risques inhérents au renouvellement des crédits;
+- b. des risques inhérents à une accumulation de sorties de trésorerie immédiatement à partir du 31<sup>e</sup> jour (risques de seuil) et à un scénario de crise avec un horizon de 90 jours.
+
+#### Art. 22
+
+**Besoin de liquidités résultant des risques inhérents au renouvellement des crédits**
+
+Les banques d’importance systémique doivent détenir suffisamment d’actifs pouvant être pris en compte pour les 30 premiers jours de l’horizon de 90 jours pour pouvoir couvrir le besoin de liquidités résultant des risques inhérents au renouvellement des crédits. Le besoin de liquidités est calculé sur la base d’un taux d’entrée abaissé à 25 % pour les catégories d’entrées 5.1 et 5.2 selon l’annexe 3.
+
+#### Art. 23
+
+**Besoin de liquidités résultant des risques de seuil et d’un scénario de crise avec un horizon de 90 jours**
+
+<sup>1</sup>
+
+Les banques d’importance systémique doivent détenir suffisamment d’actifs pouvant être pris en compte pour pouvoir couvrir les sorties nettes de liquidités attendues pour les positions suivantes:
+
+- a. les dépôts à vue et les dépôts à terme dont l’échéance résiduelle ou le préavis de retrait ne dépassent pas 30 jours qui ne sont pas retirés pendant les 30 premiers jours;
+- b. les positions qui ont une échéance résiduelle ou un préavis de retrait de 31 à 90 jours.
+
+<sup>2</sup>
+
+S’agissant des positions visées à l’al. 1, let. a, les sorties de trésorerie doivent être calculées pour les jours 31 à 90 comme suit:
+
+- a. pour les catégories de sorties 1.1, 1.2 et 2.1 selon l’annexe 2, une sortie supplémentaire correspondant à 5 % du volume calculé pour le LCR doit être calculée;
+- b. pour les catégories de sorties 2.2 et 2.4 selon l’annexe 2, une sortie supplémentaire correspondant à 17 % du volume calculé pour le LCR doit être calculée.
+
+<sup>3</sup> S’agissant des positions visées à l’al. 1, let. b, la sortie nette de trésorerie doit être calculée pour les jours 31 à 90. Les positions sont à pondérer selon la catégorie d’entrées ou de sorties, aux taux déterminants indiqués dans les annexes 6 et 7.
+
+#### Art. 24
+
+**Prise en compte des mesures générant des liquidités**
+
+Les titres visés à l’annexe 8 peuvent être pris en compte au titre des exigences arrêtées à l’art. 23, à leur valeur actuelle de marché après soustraction de leur décote respective, pour autant qu’ils soient négociables et librement disponibles. Ils peuvent l’être jusqu’à un plafond équivalant à 30 % de la somme des sorties nettes de trésorerie selon l’art. 23, al. 2 et 3.
+
+### Section 2*a* Exigences supplémentaires spécifiques à l’établissement****
+
+[^chap5-sec2a-1]
+
+[^chap5-sec2a-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+
+#### Art. 25
+
+**Majorations et décotes**[^25-1]
+
+<sup>1</sup>
+
+S’agissant des risques de liquidité qui ne sont pas ou pas suffisamment couverts par le chapitre 3 ou les art. 21 à 23, la FINMA peut fixer, en fonction des risques concernés, des majorations spécifiques à l’établissement inhérentes aux exigences quantifiées en matière de liquidités. Cela vaut en particulier pour les risques de liquidité résultant des faits suivants:
+
+- a. besoin de liquidité intrajournalière;
+- b. marges initiales (*initial margins*);
+- c. exigences de marge pour les opérations de financement de titres négociées hors bourse et réglées par l’intermédiaire d’une contrepartie centrale;
+- d. rachat de ses propres instruments de créance (*debt buy-back*);
+- e. financement significatif d’une société du groupe par des filiales;
+- f. répartition des liquidités au sein du groupe financier non proportionnelle aux risques;
+- g. besoin de liquidités pour un éventuel assainissement ou une éventuelle liquidation;
+- h. gestion insuffisante du risque de liquidité.
+
+<sup>2</sup> Les banques d’importance systémique peuvent demander à la FINMA de prendre en compte d’autres mesures générant des liquidités en plus de celles visées à l’art. 24, et de considérer les liquidités résultantes en tant que décotes.
+
+<sup>3</sup> Les décotes ne peuvent pas être supérieures aux majorations. Elles ne sont pas applicables aux risques de liquidité visés à l’al. 1, let. a.
+
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+
+#### Art. 25a
+
+**Procédure de fixation des majorations et décotes**[^25a-1]
+
+<sup>1</sup> Lorsqu’elle fixe les majorations, la FINMA prend en considération les évaluations faites par les banques d’importance systémique des risques de liquidité visés à l’art. 25, al. 1.
+
+<sup>2</sup> Les banques qui sollicitent des décotes auprès de la FINMA doivent prouver la faisabilité des mesures générant des liquidités, en particulier au cas où une crise pourrait représenter un risque d’insolvabilité pour la banque selon l’art. 25 LB.
+
+<sup>3</sup> Les banques remettent régulièrement à la FINMA la documentation nécessaire à l’évaluation des risques de liquidité visés à l’art. 25, al. 1. La FINMA fixe la fréquence à laquelle cette documentation est remise. Les mises à jour doivent être communiquées en dehors de la fréquence fixée lorsque les modifications requièrent un remaniement ou lorsque la FINMA l’exige.
+
+[^25a-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 ### Section 3 Autres dispositions
 
 #### Art. 26
 
-**Allégements temporaires**
+**Non-respect des exigences particulières en matière de liquidités**[^26-1]
 
-<sup>1</sup> En cas de choc de liquidités, il est possible de déroger temporairement aux exigences en matière de liquidités arrêtées à l’art. 21.
+<sup>1</sup> Un non-respect des exigences particulières en matière de liquidités est admis en cas de circonstances extraordinaires. Les banques avertissent immédiatement la FINMA si le non-respect des exigences se produit ou est à prévoir.
 
-<sup>2</sup> Toute inobservation avérée des exigences de l’art. 21, de même que toute inobservation prévisible en raison de sorties extraordinaires de liquidités, doit être immédiatement annoncée à la FINMA et à la BNS.
+<sup>2</sup> En cas de non-respect des exigences particulières en matière de liquidités, la banque doit indiquer les mesures et le délai prévus pour y répondre de nouveau. La FINMA approuve le délai. Si les exigences particulières en matière de liquidités ne sont pas satisfaites à l’issue du délai, la FINMA peut ordonner les mesures nécessaires.
 
-<sup>3</sup> Après l’annonce, la FINMA fixe un délai à la banque concernée afin de lui soumettre un plan de couverture de son manque de liquidités.
-
-<sup>4</sup> Si le plan est insuffisant, la FINMA prend les mesures appropriées.
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 27
 
-**Gestion insuffisante du risque de liquidité**
+[^27-1]
 
-Si une banque d’importance systémique n’observe pas les dispositions des art. 5 à 10, la FINMA applique sur les sorties de liquidités de positions au bilan et hors bilan de la banque un supplément variant selon la gravité de l’inobservation et pouvant atteindre 10 % de ces sorties de liquidités.
+[^27-1]: Abrogé par le ch. I de l’O du 3 juin 2022, avec effet au 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 28
 
-**Obligation de présenter des rapports**
+**Obligation de présenter des rapports**[^28-1]
 
-<sup>1</sup>
+<sup>1</sup> Les banques d’importance systémique doivent présenter mensuellement leur situation en matière de liquidités déterminée conformément au présent chapitre. À cet effet, elles fournissent à la BNS, dans les 15 jours suivant le dernier jour du mois, des informations concernant la situation en matière de liquidités des entités énumérées à l’art. 20.
 
-Les banques d’importance systémique présentent mensuellement leur situation en matière de liquidités selon les art. 23 à 25. Elles fournissent à la FINMA et à la BNS, au plus tard le dernier jour du mois suivant, des informations concernant:
+<sup>2</sup> La FINMA définit la forme des rapports.
 
-- a. la situation en matière de liquidités au niveau du groupe financier, compte tenu du scénario de crise préétabli;
-- b. la situation en matière de liquidités au niveau des établissements individuels y compris toutes les succursales, compte tenu du scénario de crise préétabli;
-- c. la situation en matière de liquidités au niveau des établissements individuels sans les succursales à l’étranger, compte tenu du scénario de crise préétabli;
-- d. la répartition des titres liquides, non grevés et librement disponibles selon le numéro international d’identification des valeurs mobilières (ISIN), au niveau des établissements individuels sans les succursales à l’étranger;
-- e.[^28-1] la situation en matière de liquidités selon les let. a à c pour un scénario de crise dans lequel le financement garanti sur le marché «repo» reste possible.
-
-<sup>2</sup> Les banques d’importance systémique remettent, en outre, mensuellement à la FINMA et à la BNS, au plus tard le dernier jour du mois suivant, un rapport qui expose les principales variations de la situation en matière de liquidités par rapport au mois précédent et en explique les causes.
-
-<sup>3</sup> La FINMA définit la forme des rapports.
-
-[^28-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 28a
 
-**Liquidité intrajournalière**[^28a-1]
+[^28a-1]
 
-La FINMA peut collecter des données concernant la liquidité intrajournalière.
-
-[^28a-1]: Introduit par le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^28a-1]: Introduit par le ch. I de l’O du 22 nov. 2017 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)). Abrogé par le ch. I de l’O du 3 juin 2022, avec effet au 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 29
 
@@ -975,31 +1033,15 @@ La FINMA consulte la BNS aux fins de l’exécution de la présente ordonnance.
 
 #### Art. 31
 
-**Dispositions transitoires**
+[^31-1]
 
-<sup>1</sup> Durant les périodes d’observation prévues par le Comité de Bâle, la FINMA peut exiger de toutes les banques qu’elles présentent des rapports sur ces périodes d’observation.
-
-<sup>2</sup> Conformément aux directives du Comité de Bâle[^31-1], la période d’observation prend fin au plus tard lors de l’entrée en vigueur du NSFR.[^31-2]
-
-[^31-1]: Comité de Bâle sur le contrôle bancaire – Bâle III: Ratio de liquidité à court terme et outils de suivi du risque de liquidité; disponible sous: [www.bis.org](http://www.bis.org/) &gt; Monetary & financial stability &gt; Basel Committee on Banking Supervision &gt; Basel III &gt; Basel III: Liquidity (janvier 2013)
-[^31-2]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
+[^31-1]: Abrogé par le ch. I de l’O du 3 juin 2022, avec effet au 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 31a
 
-**Dispositions transitoires de la modification du 25 juin 2014**[^31a-1]
+[^31a-1]
 
-<sup>1</sup>
-
-Les banques qui ne sont pas d’importance systémique doivent remplir les exigences du LCR visées à l’art. 14, al. 1 et 2, à hauteur d’au moins:
-
-- a. 60 % dès l’année 2015;
-- b. 70 % dès l’année 2016;
-- c. 80 % dès l’année 2017;
-- d. 90 % dès l’année 2018.
-
-<sup>2</sup> En 2015, les banques qui ne sont pas d’importance systémique remettent le justificatif de liquidité visé à l’art. 17*c* à la BNS pour la première fois le 2 mars, puis, pour les autres mois de l’année, au plus tard le 30 du mois suivant.
-
-[^31a-1]: Introduit par le ch. I de l’O du 25 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
+[^31a-1]: Introduit par le ch. I de l’O du 25 juin 2014 ([RO 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Abrogé par le ch. I de l’O du 3 juin 2022, avec effet au 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 31b
 
@@ -1008,6 +1050,18 @@ Les banques qui ne sont pas d’importance systémique doivent remplir les exige
 Le Département fédéral des finances examine les art. 17*h*, al. 3, et 17*p*, al. 2, let. b, ainsi que les coefficients RSF indiqués à l’annexe 5, ch. 2 et 3.4, sous l’angle de leur comparabilité et de leur degré de mise en œuvre dans les systèmes juridiques des principales places financières étrangères. Dès qu’il dispose d’éléments solides, mais au plus tard en juin 2022, il fait rapport au Conseil fédéral et lui soumet d’éventuelles modifications de la réglementation en vigueur.
 
 [^31b-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 31c
+
+**Dispositions transitoires relatives à la modification du 3 juin 2022**[^31c-1]
+
+<sup>1</sup> Les exigences arrêtées dans le chapitre 4 dans la version de la modification du 3 juin 2022 doivent être remplies au plus tard 18 mois après l’entrée en vigueur de la modification du 3 juin 2022. Jusqu’au moment où ces exigences sont remplies, les exigences en matière de liquidités fixées par la FINMA dans le cadre de la surveillance sont déterminantes.
+
+<sup>2</sup> L’obligation de présenter des rapports visée à l’art. 28 commence trois mois après l’entrée en vigueur de la modification du 3 juin 2022.
+
+<sup>3</sup> Au plus tard trois ans après l’échéance du délai transitoire prévu à l’al. 1, le Département fédéral des finances vérifie que les dispositions de la modification du 3 juin 2022 répondent au but énoncé à l’art. 7, al. 2, LB et aux exigences particulières de l’art. 9 LB. Il rédige un rapport destiné au Conseil fédéral et expose les éventuelles adaptations réglementaires requises.
+
+[^31c-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 32
 
@@ -1078,7 +1132,7 @@ Annexe 2*[^t-3]*
 
 ## Sorties de trésorerie et taux de sortie
 
-[^t-3]: Introduite par le ch. II de l’O du 25 juin 2014 ([RO 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Mise à jour par le ch. II de l’O du 22 nov. 2017 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)) et le ch. II al. 1 de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^t-3]: Introduite par le ch. II de l’O du 25 juin 2014 ([RO 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Mise à jour par le ch. II de l’O du 22 nov. 2017 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)), le ch. II al. 1 de l’O du 11 sept. 2020 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)) et le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 <table>
 <tr><th>Catégories de sorties</th><th>Taux de sortie (en pour‑cent)</th></tr>
@@ -1095,7 +1149,7 @@ Annexe 2*[^t-3]*
 <tr><td>2.2.1 Dépôts opérationnels de toutes les contreparties entièrement couverts par le système de garantie</td><td>5</td></tr>
 <tr><td>2.2.2 Dépôts opérationnels de toutes les contreparties non entièrement couverts par le système de garantie</td><td>25</td></tr>
 <tr><td>2.3 Dépôts pris en compte auprès de la caisse centrale de membres d’un réseau financier</td><td>25</td></tr>
-<tr><td>2.4 Dépôts d’entreprises non financières, gouvernements centraux, banques centrales, collectivités territoriales subordonnées et autres corporations de droit public ainsi que banques multilatérales de développement:</td><td></td></tr>
+<tr><td>2.4 Dépôts d’établissements non financiers, gouvernements centraux, banques centrales, collectivités territoriales subordonnées et autres corporations de droit public ainsi que banques multilatérales de développement:</td><td></td></tr>
 <tr><td>2.4.1 si tous les dépôts sont entièrement couverts par le système de garantie</td><td>20</td></tr>
 <tr><td>2.4.2 si tous les dépôts ne sont pas entièrement couverts par le système de garantie</td><td>40</td></tr>
 <tr><td>2.4.3 s’ils sont effectués par des fondations de libre passage, bancaires ou de placement qui cumulent des dépôts de comptes de libre passage et des dépôts de la prévoyance personnelle liée</td><td>40</td></tr>
@@ -1135,7 +1189,7 @@ Annexe 2*[^t-3]*
 <tr><td>**8.** **Facilités** **de crédit et de liquidité**</td><td></td></tr>
 <tr><td>8.1 Part non utilisée de facilités de crédit et de liquidité révocables sous conditions et irrévocables, et opérations synthétiques comparables concernant les clients suivants:</td><td colspan="2"></td></tr>
 <tr><td>8.1.1 clients de détail et petites entreprises</td><td>5</td></tr>
-<tr><td>8.1.2 entreprises non financières, gouvernements centraux, banques centrales, collectivités territoriales subordonnées et autres corporations de droit public ainsi que banques multilatérales de développement</td><td></td></tr>
+<tr><td>8.1.2 établissements non financiers, gouvernements centraux, banques centrales, collectivités territoriales subordonnées et autres corporations de droit public ainsi que banques multilatérales de développement</td><td></td></tr>
 <tr><td>8.1.2.1 facilités de crédit</td><td>10</td></tr>
 <tr><td>8.1.2.2 facilités de liquidité</td><td>30</td></tr>
 <tr><td>8.1.3 banques soumises à la surveillance de la FINMA ou à une réglementation étrangère en matière de LCR</td><td>40</td></tr>
@@ -1160,7 +1214,7 @@ Annexe 2*[^t-3]*
 <tr><td>**12. Positions à court terme de la banque couvertes par des opér****a****tions de financement garanties**</td><td>0</td></tr>
 <tr><td>**13. Autres sorties contractuelles de trésorerie à 30 jours (par ex. sorties visant à couvrir les financements de titres non garantis, les positions courtes non couvertes, le versement de dividendes ou les paiements d’intérêts contractuels)**</td><td>100</td></tr>
 <tr><td>**14. Engagements** **contractuels** **et crédits octroyés à r****e****nouveler (*****rollover*****) si ces engagements contra****c****tuels ne f****i****gurent pas déjà dans d’autres catégories de sorties:**</td><td></td></tr>
-<tr><td>14.1 envers des clients de détail, des petites entreprises, des entreprises non financières et d’autres personnes morales, y compris les sociétés liées à des établissements financiers</td><td>100 % si la différence entre les sorties au sens du ch. 14.1 et la moitié des entrées au sens des ch. 5.1 et 5.2 de l’annexe 3 est positive 0 % si la différence entre les sorties au sens du ch. 14.1 et la moitié des entrées au sens des ch. 5.1 et 5.2 de l’annexe 3, est négative</td></tr>
+<tr><td>14.1 envers des clients de détail, des petites entreprises, des établissements non financiers et d’autres personnes morales, y compris les sociétés liées à des établissements financiers</td><td>100 % si la différence entre les sorties au sens du ch. 14.1 et la moitié des entrées au sens des ch. 5.1 et 5.2 de l’annexe 3 est positive 0 % si la différence entre les sorties au sens du ch. 14.1 et la moitié des entrées au sens des ch. 5.1 et 5.2 de l’annexe 3, est négative</td></tr>
 <tr><td>14.2 envers des établissements financiers</td><td>100</td></tr>
 <tr><td>**15. Sorties de** **trésorerie** **internes à un groupe (établiss****e****ment individuel seulement)**</td><td>100</td></tr>
 </table>
@@ -1236,7 +1290,7 @@ Annexe 5*[^t-6]*
 
 ## Coefficients de pondération du financement stable exigé (RSF)
 
-[^t-6]: Introduite par le ch. II al. 2 de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Mise à jour par l’erratum du 21 juin 2021 ([RO 2022 366](https://fedlex.data.admin.ch/eli/oc/2022/366)).
+[^t-6]: Introduite par le ch. II al. 2 de l’O du 11 sept. 2020 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Mise à jour par l’erratum du 21 juin 2021 ([RO 2022 366](https://fedlex.data.admin.ch/eli/oc/2022/366)) et le ch. II de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 <table>
 <tr><th colspan="3">Catégorie RSF</th><th colspan="2">Coefficient de pondération (en %)</th></tr>
@@ -1275,7 +1329,7 @@ Annexe 5*[^t-6]*
 <tr><td colspan="3">5.3 Actifs grevés pendant une période inférieure à un an qui, s’ils étaient non grevés, relèveraient des catégories RSF 5.1 et 5.2</td><td colspan="3">65</td></tr>
 <tr><td colspan="3">6.1 Marges initiales d’opérations sur dérivés versées en espèces, en titres ou en d’autres actifs et contributions en espèces ou en d’autres actifs au fonds de défaillance d’une contrepartie centrale, sauf si les marges initiales d’opérations sur dérivés versées en titres ou en d’autres actifs se voient appliquer un coefficient RSF plus élevé. Dans ce cas, c’est le coefficient plus élevé qui s’applique</td><td colspan="3">85</td></tr>
 <tr><td colspan="3">6.2 Autres dépôts et prêts non grevés qui ne sont pas en souffrance, ayant une pondération de risque supérieure à 35 % selon l’approche standard de Bâle II concernant les risques de crédit et une durée résiduelle égale ou supérieure à un an, hors dépôts auprès d’établissements financiers et prêts à ces établissements</td><td colspan="3">85</td></tr>
-<tr><td colspan="3">6.3 Titres non grevés ayant une durée résiduelle d’au moins un an, qui ne sont pas en défaut et ne remplissent pas les critères des HQLA, y compris les actions négociées en bourse, pour autant qu’ils ne figurent pas dans la catégorie RSF 5.1</td><td colspan="3">85</td></tr>
+<tr><td colspan="3">6.3 Titres non grevés ayant une durée résiduelle d’au moins un an, qui ne sont pas en défaut et ne remplissent pas les critères des HQLA, y compris les actions négociées en bourse, pour autant qu’ils ne figurent pas dans la catégorie RSF 4.1</td><td colspan="3">85</td></tr>
 <tr><td colspan="3">6.4 Matières premières négociées physiquement, y compris les métaux précieux</td><td colspan="3">85</td></tr>
 <tr><td colspan="3">6.5 Actifs grevés pendant une période inférieure à un an qui, s’ils étaient non grevés, relèveraient des catégories RSF 6.1 à 6.4</td><td></td><td colspan="2">85</td></tr>
 <tr><td colspan="3">6.6 Prêts de banques appartenant à un groupement financier coopératif à leur établissement central et découlant de tâches accomplies en commun et de conditions légales, statutaires ou contractuelles</td><td colspan="3">85</td></tr>
@@ -1294,6 +1348,78 @@ Annexe 5*[^t-6]*
 <tr><td colspan="3">i. les titres en défaut.</td><td colspan="3"></td></tr>
 <tr><td colspan="3">7.5 Actifs grevés pour une période inférieure à un an qui, s’ils étaient non grevés, relèveraient des catégories RSF 7.1 à 7.4</td><td colspan="3">100</td></tr>
 <tr><td colspan="3">8. Facilités de crédit et de liquidité révocables sous conditions et irrévocables, accordées à tous les clients</td><td colspan="3">5 % de la partie non décaissée</td></tr>
-<tr><td colspan="3">9.1 Engagements conditionnels liés à des financements de transactions commerciales</td><td colspan="3">5 % de l’encours nominal</td></tr>
-<tr><td colspan="3">9.2 Engagements conditionnels découlant de garanties et de lettres de crédit non liés à des financements de transactions commerciales</td><td colspan="3"></td></tr>
+<tr><td colspan="3">9.1 Engagements conditionnels liés à des financements de transactions commerciales</td><td colspan="3">0 % de l’encours nominal</td></tr>
+<tr><td colspan="3">9.2 Engagements conditionnels découlant de garanties et de lettres de crédit non liés à des financements de transactions commerciales</td><td colspan="3">5 % de l’encours nominal</td></tr>
+</table>
+
+Annexe 6*[^t-7]*
+
+(art. 23, al. 3)
+
+## Sorties de trésorerie et taux de sortie des banques d’importance systémique sur une période de 31 à 90 jours
+
+[^t-7]: Introduite par le ch. III de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+
+<table>
+<tr><th>Catégories de sorties</th><th>Taux de sortie (en %)</th></tr>
+<tr><td>1. Dépôts de détail et dépôts de petites entreprises:</td><td></td></tr>
+<tr><td>– avec une échéance résiduelle ou un préavis de retrait de 31 à 60 jours</td><td>5</td></tr>
+<tr><td>– avec une échéance résiduelle ou un préavis de retrait de 61 à 90 jours</td><td>2,5</td></tr>
+<tr><td>2. Dépôts d’établissements non financiers, de gouvernements centraux, de banques centrales, de collectivités territoriales subordonnées et d’autres corporations de droit public ainsi que de banques multilatérales de développement:</td><td></td></tr>
+<tr><td>– avec une échéance résiduelle ou un préavis de retrait de 31 à 60 jours</td><td>20</td></tr>
+<tr><td>– avec une échéance résiduelle ou un préavis de retrait de 61 à 90 jours</td><td>10</td></tr>
+<tr><td>3. Dépôts d’établissements financiers au sens de l’annexe 1, y compris les sociétés qui leur sont liées, de toutes les autres personnes morales et de clients commerciaux, tels que les caisses de pensions:</td><td></td></tr>
+<tr><td>– avec une échéance résiduelle ou un préavis de retrait de 31 à 60 jours</td><td>75</td></tr>
+<tr><td>– avec une échéance résiduelle ou un préavis de retrait de 61 à 90 jours</td><td>50</td></tr>
+<tr><td>4. Titres de créance non garantis:</td><td></td></tr>
+<tr><td>– avec une échéance résiduelle ou un préavis de retrait de 31 à 60 jours</td><td>100</td></tr>
+<tr><td>– avec une échéance résiduelle ou un préavis de retrait de 61 à 90 jours</td><td>50</td></tr>
+<tr><td>5. Opérations de financement garanties par des actifs non HQLA et swaps de sûretés incluant l’échange d’actifs non HQLA contre des actifs de catégorie 1, à l’exception des opérations avec la BNS:</td><td></td></tr>
+<tr><td>– avec une échéance résiduelle ou un préavis de retrait de 31 à 60 jours</td><td>100</td></tr>
+<tr><td>– avec une échéance résiduelle ou un préavis de retrait de 61 à 90 jours</td><td>50</td></tr>
+</table>
+
+Annexe 7*[^t-8]*
+
+(art. 23, al. 3)
+
+## Entrées de trésorerie et taux d’entrée des banques d’importance systémique sur une période de 31 à 90 jours
+
+[^t-8]: Introduite par le ch. III de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+
+<table>
+<tr><th>Catégories d’entrées</th><th>Taux d’entrée (en %)</th></tr>
+<tr><td>1. Opérations de financement garanties par des actifs non HQLA et swaps de sûretés incluant l’échange d’actifs de catégorie 1 contre des actifs non HQLA:</td><td></td></tr>
+<tr><td>– avec une échéance résiduelle ou un préavis de retrait de 31 à 60 jours</td><td>100</td></tr>
+<tr><td>– avec une échéance résiduelle ou un préavis de retrait de 61 à 90 jours</td><td>50</td></tr>
+<tr><td>2. Créances sur des établissements financiers au sens de l’annexe 1 et des banques centrales:</td><td></td></tr>
+<tr><td>– avec une échéance résiduelle ou un préavis de retrait de 31 à 60 jours</td><td>75</td></tr>
+<tr><td>– avec une échéance résiduelle ou un préavis de retrait de 61 à 90 jours</td><td>50</td></tr>
+<tr><td>3. Actifs de catégorie 1 en nantissement remis en gage qui sont exclus des HQLA et dont la durée de nantissement présente une échéance résiduelle:</td><td></td></tr>
+<tr><td>– de 31 à 60 jours</td><td>100</td></tr>
+<tr><td>– de 61 à 90 jours</td><td>50</td></tr>
+</table>
+
+Annexe 8*[^t-9]*
+
+(art. 24)
+
+## Titres pouvant être pris en compte par les banques d’importance systémique
+
+[^t-9]: Introduite par le ch. III de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+
+<table>
+<tr><th>Titres</th><th>Décote (en %)</th></tr>
+<tr><td>1. Titres ayant valeur de créances sur un gouvernement central, une banque centrale, une collectivité territoriale subordonnée, mais autonome sur le plan budgétaire et habilitée à lever des impôts, ou une autre corporation de droit public, la Banque des règlements internationaux, le Fonds monétaire international, la Banque centrale européenne, l’Union européenne ou des banques multilatérales de développement, si ces titres:</td><td></td></tr>
+<tr><td>– ne peuvent pas être pris en compte en tant qu’actifs HQLA en vertu de l’art. 15*d*</td><td>25</td></tr>
+<tr><td>– ne peuvent pas être pris en compte en tant qu’actifs HQLA pour d’autres motifs</td><td>60</td></tr>
+<tr><td>2. Emprunts d’entreprises, y compris les papiers monétaires, à condition qu’ils aient été émis par des sociétés ne constituant pas, seules ou comme entités liées, un établissement financier au sens de l’annexe 1, si ces instruments:</td><td></td></tr>
+<tr><td>– ne peuvent pas être pris en compte en tant qu’actifs HQLA en vertu de l’art. 15*d*</td><td>25</td></tr>
+<tr><td>– ne peuvent pas être pris en compte en tant qu’actifs HQLA pour d’autres motifs</td><td>60</td></tr>
+<tr><td>3. Titres de créance couverts qui n’ont pas été émis par la banque elle-même, ni par un autre établissement financier au sens de l’annexe 1 qui lui est lié, si ces titres de créance:</td><td></td></tr>
+<tr><td>– ne peuvent pas être pris en compte en tant qu’actifs HQLA en vertu de l’art. 15*d*</td><td>25</td></tr>
+<tr><td>– ne peuvent pas être pris en compte en tant qu’actifs HQLA pour d’autres motifs</td><td>60</td></tr>
+<tr><td>4. Actions, si elles:</td><td></td></tr>
+<tr><td>– ne peuvent pas être prises en compte en tant qu’actifs HQLA en vertu de l’art. 15*d*</td><td>60</td></tr>
+<tr><td>– ne peuvent pas être prises en compte en tant qu’actifs HQLA pour d’autres motifs</td><td>70</td></tr>
 </table>

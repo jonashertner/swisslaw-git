@@ -4,11 +4,11 @@ title: "Verordnung vom 30. November 2012 über die Liquidität der Banken und We
 short: LiqV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/883"
 language: de
-version: 2022-06-21
+version: 2022-07-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20220621/de/xml/fedlex-data-admin-ch-eli-cc-2012-883-20220621-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20220621/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2012-883-20220701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20220621/de"
 
 (Liquiditätsverordnung, LiqV)[^t-1]
 
-vom 30. November 2012 (Stand am 21. Juni 2022)
+vom 30. November 2012 (Stand am 1. Juli 2022)
 
 [^t-1]: Fassung gemäss Anhang 1 Ziff. II 11 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -53,7 +53,7 @@ verordnet:
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 
-## 2. Kapitel: ...
+## 2. Kapitel: …
 
 #### Art. 3 und 4
 
@@ -277,7 +277,7 @@ Aktiva der Kategorie 2a umfassen folgende Vermögenswerte:
   - 1\. einer Zentralregierung,
   - 2\. einer Zentralbank,
   - 3\. einer untergeordneten Gebietskörperschaft oder einer sonstigen öffentlich-rechtlichen Körperschaft,
-  - 4\. und 5.[^15b-1] ...
+  - 4\. und 5.[^15b-1] …
   - 6\. multilateralen Entwicklungsbanken;
 
 - a<sup>bis</sup> marktgängige Wertpapiere, die von den Institutionen nach Buchstabe a garantiert werden;
@@ -348,7 +348,10 @@ Aktiva der Kategorien 1 und 2, die im Ausland emittierte Wertpapiere, Anleihen o
 
 <sup>7</sup> Ab dem Zeitpunkt, ab dem Aktiva nicht mehr als HQLA gelten, dürfen sie noch während 30 Kalendertagen als HQLA angerechnet werden.
 
+<sup>8</sup> Nicht an den Bestand der HQLA der Bank angerechnet werden die HQLA, die eine Niederlassung oder eine konsolidierte Einheit zur Erfüllung der lokalen Liquiditätsanforderungen hält und die über dem Beitrag dieser Niederlassung oder Einheit zum Nettomittelabfluss der Bank nach Artikel 16 liegen.[^15c-2]
+
 [^15c-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^15c-2]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 15d
 
@@ -803,152 +806,207 @@ Die Prüfgesellschaft prüft gemäss den Vorgaben zum Prüfwesen, ob:
 
 #### Art. 19
 
-**Zweck**
+**Besondere Liquiditätsanforderungen**[^19-1]
 
-<sup>1</sup> Systemrelevante Banken müssen in der Lage sein, ihre Zahlungsverpflichtungen auch in aussergewöhnlichen Belastungssituationen zu erfüllen.
+<sup>1</sup> Systemrelevante Banken müssen zusätzlich zu den Anforderungen des 3. Kapitels besondere Liquiditätsanforderungen erfüllen, um Liquiditätsrisiken abzudecken, die durch die LCR nicht oder nicht ausreichend abgedeckt sind.
 
-<sup>2</sup> Sie haben neben den für alle Banken geltenden Anforderungen die besonderen quantitativen Liquiditätsanforderungen nach diesem Kapitel zu erfüllen.[^19-1]
+<sup>2</sup>
 
-[^19-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
+Die besonderen Liquiditätsanforderungen umfassen:
+
+- a. die Grundanforderungen;
+- b. die institutsspezifischen Zusatzanforderungen der FINMA.
+
+[^19-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 20
 
-**Konsolidierungskreis**
-
-Systemrelevante Banken erfüllen die Anforderungen auf Stufe Finanzgruppe und auf Stufe Einzelinstitut unter Einschluss aller Niederlassungen.
-
-### 2. Abschnitt: Quantitative Anforderungen
-
-#### Art. 21
-
-**Besondere Liquiditätsanforderungen**
-
-<sup>1</sup> Systemrelevante Banken müssen während mindestens 30 Tagen jederzeit sämtliche Liquiditätsabflüsse, die bei Eintreten des Stressszenarios gemäss Artikel 22 zu erwarten sind, decken können.
-
-<sup>2</sup> Sie dürfen in einem 7-Tage-Horizont sowie in einem 30-Tage-Horizont zu keiner Zeit eine Liquiditätslücke aufweisen.
-
-#### Art. 22
-
-**Stressszenario**
-
-<sup>1</sup> Dem Stressszenario ist gleichzeitig ein bankspezifisches und ein marktweites Stressereignis zugrunde zu legen.
-
-<sup>2</sup>
-
-Das Stressszenario muss auf der Annahme beruhen, dass:
-
-- a. die Bank den Zugang zu besicherter und unbesicherter Finanzierung auf dem Kapital- und Geldmarkt verliert; und
-- b. Einlagen in grossem Umfang zurückgezogen werden.
-
-<sup>3</sup> Die FINMA konkretisiert das Stressszenario.
-
-#### Art. 23
-
-**Liquiditätslücke**
+**Konsolidierungskreis**[^20-1]
 
 <sup>1</sup>
 
-Im 7-Tage-Horizont liegt eine Liquiditätslücke vor, wenn die Liquiditätsabflüsse gemäss Artikel 24 Absatz 2 grösser sind als die Summe der folgenden Positionen:
+Die besonderen Liquiditätsanforderungen sind auf Stufe Finanzgruppe, auf Stufe jedes nach dem BankG bewilligten Einzelinstituts und auf Stufe jedes nach dem FINIG bewilligten Wertpapierhauses zu erfüllen von:
 
-- a. Liquiditätszuflüsse gemäss Artikel 24 Absatz 1;
-- b. Wert, der bei einer Veräusserung der Vermögenswerte des regulatorischen Liquiditätspuffers (Art. 25) erzielt werden könnte;
-- c. stehende Zentralbankenfazilitäten in der Höhe der noch offenen vereinbarten Limiten.
+- a. Einheiten, die systemrelevante Funktionen ausüben;
+- b. der obersten Einheit einer Finanzgruppe, sofern in ihren Konsolidierungskreis eine Einheit nach Buchstabe a fällt;
+- c. Einheiten an der Spitze bedeutender untergeordneter Finanzgruppen, sofern in ihren Konsolidierungskreis eine Einheit nach Buchstabe a fällt; und
+- d. Einheiten, die aufgrund ihrer zentralen Funktion oder ihrer relativen Grösse für die Finanzgruppe bedeutend sind.
 
-<sup>2</sup> Im 30-Tage-Horizont darf die Bank zur Deckung der Liquiditätsabflüsse zusätzlich zu den in Absatz 1 erwähnten drei Positionen die ausserordentliche Liquiditätsfazilität der SNB bis zu dem noch verfügbaren Betrag berücksichtigen, für den Vorbereitungen getroffen wurden.
+<sup>2</sup> Die FINMA kann Einheiten, deren direkter Anteil an den inländischen systemrelevanten Funktionen der Finanzgruppe insgesamt fünf Prozent nicht übersteigt oder deren Bedeutung für die Fortführung der inländischen systemrelevanten Funktionen der Finanzgruppe auf andere Weise gering ist, im Einzelfall ausnehmen.
 
-#### Art. 24
+[^20-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
-**Liquiditätszu- und Liquiditätsabflüsse**
+#### Art. 20a
 
-<sup>1</sup> Im Stressszenario werden die Liquiditätszuflüsse berechnet, indem verschiedene Klassen von bilanziellen Forderungen mit den jeweiligen Zuflussraten multipliziert werden. Nicht als Liquiditätszuflüsse gezählt werden dürfen Vermögenswerte, die dem Wertpapierbestand des regulatorischen Liquiditätspuffers nach Artikel 25 zugerechnet werden.
+**Anrechenbare Vermögenswerte**[^20a-1]
 
-<sup>2</sup> Die Liquiditätsabflüsse werden berechnet, indem verschiedene Klassen von bilanziellen oder ausserbilanziellen Verbindlichkeiten mit den jeweiligen Abflussraten multipliziert werden.
+<sup>1</sup>
 
-<sup>3</sup> Die FINMA legt die Klassifizierung der Forderungen und Verpflichtungen sowie die minimalen Ab- und die maximalen Zuflussraten fest.
+Für die Erfüllung der besonderen Liquiditätsanforderungen anrechenbar sind HQLA:
 
-<sup>4</sup> Zu- und Abflussraten, die nicht von der FINMA vorgegeben sind, hat die Bank konsistent mit dem Stressszenario nach Artikel 22 zu bestimmen.
+- a. die nicht zum Bestand an HQLA gehören, der für die Erfüllung der Anforderungen an die LCR benötigt wird; und
+- b. über die die Bank zu jedem Zeitpunkt über einen Zeithorizont von 90 Kalendertagen (90-Tage-Horizont) verfügen kann.
 
-#### Art. 25
-
-**Regulatorischer Liquiditätspuffer**
-
-<sup>1</sup> Systemrelevante Banken halten einen Liquiditätspuffer aus liquiden, lastenfreien, frei verfügbaren und unter dem Stressszenario unverzüglich veräusserbaren Vermögenswerten. Der Liquiditätspuffer besteht aus einem primären und aus einem sekundären Teil.
-
-<sup>2</sup>
-
-Der primäre Teil setzt sich zusammen aus:
-
-- a.[^25-1] Schuldpapieren von Staaten oder Zentralbanken und Schuldpapieren der Bank für Internationalen Zahlungsausgleich, des Internationalen Währungsfonds und multilateralen Entwicklungsbanken, die gemäss den Vorschriften zur Eigenmittelunterlegung ein Risikogewicht von 0 Prozent erhalten;
-- b. Pfandbriefanleihen, begeben durch die Pfandbriefzentrale der schweizerischen Kantonalbanken AG oder die Pfandbriefbank schweizerischer Hypothekarinstitute AG;
-- c. Giroguthaben bei Zentralbanken und Bargeld.
+<sup>2</sup> Für die Anrechenbarkeit von Aktiva der Kategorien 2a und 2b gelten die Obergrenzen nach Artikel 15*c* Absatz 1 Buchstaben b und c. Die FINMA kann im Einzelfall bestimmen, dass diese Aktiva auch über diese Obergrenzen hinaus angerechnet werden können. Sie berücksichtigt bei ihrem Entscheid das Risiko, das sich daraus ergibt, dass diese Aktiva nicht sofort veräusserbar sind.
 
 <sup>3</sup>
 
-Im sekundären Teil können folgende marktgängigen Vermögenswerte angerechnet werden:
+Eine ausdrückliche kantonale Staatsgarantie oder ein ähnlicher Mechanismus ist anrechenbar, wenn die Garantie oder der Mechanismus:
 
-- a. Unternehmensanleihen mit hoher Bonität;
-- b. Anleihen des öffentlichen Sektors, soweit nicht von Absatz 2 Buchstabe a erfasst;
-- c. börsennotierte Beteiligungspapiere;
-- d. Geldmarktpapiere;
-- e. forderungsbesicherte Wertpapiere.
+- a. nach Artikel 132*a* ERV[^20a-2] zur Erfüllung der Anforderungen an die zusätzlichen verlustabsorbierenden Mittel berücksichtigt wird; und
+- b. bei Inanspruchnahme im Krisenfall innert kurzer Frist zu einem anrechenbaren Liquiditätszufluss führt; die FINMA entscheidet im Einzelfall, ob diese Voraussetzung erfüllt ist.
 
-<sup>4</sup> Die FINMA kann die Anrechnung von Vermögenswerten zum primären und sekundären Teil des Liquiditätspuffers erweitern oder beschränken.
+<sup>4</sup>
 
-<sup>5</sup> Sie legt für die Vermögenswerte des primären und sekundären Teils des Liquiditätspuffers Mindestabschlagsraten zur Berechnung des Veräusserungswertes fest. Diese gelten für ein gut diversifiziertes Portfolio der Vermögenswerte.
+Von der Summe gemäss folgender Berechnung sind 30 Prozent als Vermögenswert anrechenbar, sofern die Summe positiv ist:
 
-<sup>6</sup> Im 7-Tage-Horizont muss die Liquidität, die durch die Veräusserung der Vermögenswerte des regulatorischen Liquiditätspuffers entstünde, zu mindestens 75 Prozent aus Vermögenswerten des primären Teils bestehen.
+- a. Hypothekarforderungen, die die Bank als Sicherheiten für den Bezug einer ausserordentlichen Liquiditätshilfe der SNB bereithält und die die Anforderungen der SNB an solche Sicherheiten erfüllen;
+- b. abzüglich der von der SNB vorgegebenen Wertabschläge auf den Hypothekarforderungen nach Buchstabe a;
+- c. abzüglich fünf Prozent des Gesamtengagements der Bank nach Artikel 46 Absatz 2 ERV.
 
-<sup>7</sup> Im 30-Tage-Horizont muss diese Liquidität zu mindestens 50 Prozent aus Vermögenswerten des primären Teils bestehen.
+<sup>5</sup> HQLA, die nach Artikel 15*c* Absatz 8 nicht angerechnet werden, und weitere HQLA nach den Absätzen 1 und 2 des vorliegenden Artikels, die eine Niederlassung oder eine konsolidierte Einheit zur Erfüllung der lokalen Liquiditätsanforderungen hält, dürfen so weit an den Bestand der anrechenbaren Vermögenswerte der Bank angerechnet werden, als diese Niederlassung oder Einheit zum Liquiditätsbedarf der Bank beiträgt, der sich aus den besonderen Liquiditätsanforderungen ergibt.
 
-[^25-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+<sup>6</sup> Anrechenbare Vermögenswerte dürfen nicht gleichzeitig als Mittelzuflüsse angerechnet werden.
+
+[^20a-1]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^20a-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+
+#### Art. 20b
+
+**Erfüllung der besonderen Liquiditätsanforderungen**[^20b-1]
+
+<sup>1</sup>
+
+Die Bank erfüllt die Anforderungen nach diesem Kapitel, wenn:
+
+- a. der tägliche Durchschnitt der anrechenbaren Vermögenswerte der gleitenden Dreimonatsperiode, die mit dem Stichtag endet, jederzeit mindestens dem täglichen Durchschnitt des Liquiditätsbedarfs dieser Periode entspricht, der sich aus den besonderen Liquiditätsanforderungen ergibt; und
+- b. die anrechenbaren Vermögenswerte jederzeit mindestens 80 Prozent des Liquiditätsbedarfs entsprechen, der sich aus den besonderen Liquiditätsanforderungen ergibt.
+
+<sup>2</sup> Die Bank muss die Anforderungen über sämtliche Währungen umgerechnet in Schweizerfranken erfüllen.
+
+[^20b-1]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+
+### 2. Abschnitt:**** Grundanforderungen
+
+[^chap4-sec2-1]
+
+[^chap4-sec2-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+
+#### Art. 21
+
+**Anforderungen**
+
+Die Grundanforderungen umfassen Anforderungen an den Liquiditätsbedarf aufgrund von:
+
+- a. Risiken aus der Erneuerung von Krediten;
+- b. Risiken aus einer Anhäufung von Mittelabflüssen unmittelbar ab Kalendertag 31 (Klippenrisiken) und einem Stressszenario mit einem 90-Tage-Horizont.
+
+#### Art. 22
+
+**Liquiditätsbedarf aufgrund von Risiken aus der Erneuerung von Krediten**
+
+Systemrelevante Banken müssen für die ersten 30 Kalendertage des 90-Tage-Horizonts genügend anrechenbare Vermögenswerte halten, um den Liquiditätsbedarf aufgrund von Risiken aus der Erneuerung von Krediten zu decken. Für die Berechnung des Liquiditätsbedarfs wird die Zuflussrate nach den Ziffern 5.1 und 5.2 von Anhang 3 auf 25 Prozent gesenkt.
+
+#### Art. 23
+
+**Liquiditätsbedarf aufgrund von Klippenrisiken und einem Stressszenario mit einem 90-Tage-Horizont**
+
+<sup>1</sup>
+
+Systemrelevante Banken müssen genügend anrechenbare Vermögenswerte halten, um die Nettomittelabflüsse zu decken, die für die folgenden Positionen zu erwarten sind:
+
+- a. Sicht- und Termineinlagen mit einer Restlaufzeit oder Kündigungsfrist von bis zu 30 Kalendertagen, die nicht in den ersten 30 Kalendertagen abgezogen werden;
+- b. Positionen mit einer Restlaufzeit oder Kündigungsfrist von 31 bis zu 90 Kalendertagen.
+
+<sup>2</sup>
+
+Für die Positionen nach Absatz 1 Buchstabe a sind die Mittelabflüsse für die Kalendertage 31–90 wie folgt zu berechnen:
+
+- a. Für die Abflusskategorien 1.1, 1.2 und 2.1 nach Anhang 2 ist ein zusätzlicher Abfluss in Höhe von 5 Prozent des für die LCR berechneten Volumens zu berechnen.
+- b. Für die Abflusskategorien 2.2 und 2.4 nach Anhang 2 ist ein zusätzlicher Abfluss in Höhe von 17 Prozent des für die LCR berechneten Volumens zu berechnen.
+
+<sup>3</sup> Für die Positionen nach Absatz 1 Buchstabe b ist für die Kalendertage 31–90 der Nettomittelabfluss zu berechnen. Dabei sind die Positionen entsprechend ihrer Ab- oder Zuflusskategorie mit den massgeblichen Ab- und Zuflussraten nach den Anhängen 6 und 7 zu gewichten.
+
+#### Art. 24
+
+**Berücksichtigung liquiditätsgenerierender Massnahmen**
+
+Für die Erfüllung der Anforderungen nach Artikel 23 können die in Anhang 8 aufgeführten Wertpapiere zum aktuellen Marktwert, reduziert um den jeweiligen Wertabschlag, angerechnet werden, sofern sie marktgängig und frei verfügbar sind. Eine Anrechnung ist möglich bis zu einer Obergrenze von 30 Prozent der Summe der Nettomittelabflüsse nach Artikel 23 Absätze 2 und 3.
+
+### 2*a*. Abschnitt: Institutsspezifische Zusatzanforderungen****
+
+[^chap4-sec2a-1]
+
+[^chap4-sec2a-1]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+
+#### Art. 25
+
+**Zu- und Abschläge**[^25-1]
+
+<sup>1</sup>
+
+Für Liquiditätsrisiken, die nicht oder nicht ausreichend durch das 3. Kapitel oder die Artikel 21–23 abgedeckt sind, kann die FINMA in Abhängigkeit von den jeweiligen Risiken institutsspezifische Zuschläge auf quantifizierte Liquiditätsanforderungen festlegen. Insbesondere gilt dies für Liquiditätsrisiken, die aus folgenden Sachverhalten entstehen:
+
+- a. Bedarf an Innertagesliquidität;
+- b. Ersteinschusszahlungen (*initial margins*);
+- c. Margenanforderungen bei ausserbörslich gehandelten und über zentrale Gegenparteien abgewickelten Wertpapierfinanzierungsgeschäften;
+- d. Rückkauf eigener Schuldinstrumente (*debt buy-back*);
+- e. wesentliche Finanzierung einer Gruppengesellschaft durch Tochtergesellschaften;
+- f. nicht risikoproportionale Liquiditätsverteilung innerhalb der Finanzgruppe;
+- g. Liquiditätsbedarf für eine allfällige Sanierung oder Liquidation;
+- h. ungenügendes Risikomanagement in Bezug auf die Liquidität.
+
+<sup>2</sup> Systemrelevante Banken können bei der FINMA beantragen, dass zusätzlich zu Artikel 24 weitere liquiditätsgenerierende Massnahmen berücksichtigt werden und die daraus resultierende Liquidität in Form von Abschlägen angerechnet wird.
+
+<sup>3</sup> Die Abschläge können nicht höher als die Zuschläge sein. Sie können nicht auf Liquiditätsrisiken nach Absatz 1 Buchstabe a angewendet werden.
+
+[^25-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+
+#### Art. 25a
+
+**Verfahren zur Festlegung der Zu- und Abschläge**[^25a-1]
+
+<sup>1</sup> Die FINMA berücksichtigt bei der Festlegung der Zuschläge Schätzungen der systemrelevanten Banken zu den Liquiditätsrisiken nach Artikel 25 Absatz 1.
+
+<sup>2</sup> Banken, die bei der FINMA Abschläge beantragen, müssen die Realisierbarkeit der liquiditätsgenerierenden Massnahmen nachweisen, insbesondere für den Fall einer Krise, die eine Bank in eine Insolvenzgefahr nach Artikel 25 BankG führen kann.
+
+<sup>3</sup> Die Banken reichen der FINMA regelmässig die für die Beurteilung der Liquiditätsrisiken nach Artikel 25 Absatz 1 notwendige Dokumentation ein. Die FINMA legt die Frequenz der Einreichung fest. Aktualisierungen sind ausserhalb der festgelegten Frequenz einzureichen, wenn Veränderungen eine Überarbeitung notwendig machen oder wenn die FINMA dies verlangt.
+
+[^25a-1]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 ### 3. Abschnitt: Weitere Bestimmungen
 
 #### Art. 26
 
-**Temporäre Erleichterungen**
+**Unterschreitung der besonderen Liquiditätsanforderungen**[^26-1]
 
-<sup>1</sup> Im Falle eines Liquiditätsschocks dürfen die Liquiditätsanforderungen nach Artikel 21 vorübergehend unterschritten werden.
+<sup>1</sup> Eine Unterschreitung der besonderen Liquiditätsanforderungen ist unter ausserordentlichen Umständen zulässig. Die Banken müssen der FINMA unverzüglich Meldung erstatten, wenn eine Unterschreitung eintritt oder sich eine solche abzeichnet.
 
-<sup>2</sup> Eine Unterschreitung der Anforderungen nach Artikel 21 oder eine absehbare Unterschreitung aufgrund ausserordentlicher Liquiditätsabflüsse sind der FINMA und der SNB unverzüglich zu melden.
+<sup>2</sup> Die Bank muss bei der Unterschreitung aufzeigen, mit welchen Massnahmen und innert welcher Frist die besonderen Liquiditätsanforderungen wieder erfüllt werden. Die FINMA genehmigt die Frist. Sind die besonderen Liquiditätsanforderungen nach Ablauf der Frist nicht erfüllt, so kann die FINMA die notwendigen Massnahmen anordnen.
 
-<sup>3</sup> Nach der Meldung setzt die FINMA der Bank eine Frist, um einen Plan zur Schliessung der Liquiditätslücken zur Genehmigung vorzulegen.
-
-<sup>4</sup> Ist der Plan ungenügend, so ergreift die FINMA geeignete Massnahmen.
+[^26-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 27
 
-**Ungenügendes Liquiditätsrisikomanagement**
+[^27-1]
 
-Werden die Vorgaben nach den Artikeln 5–10 von den Banken nicht umgesetzt, so ordnet die FINMA an, dass die Liquiditätsabflüsse von Bilanz- und Ausserbilanzpositionen der systemrelevanten Bank um einen Zuschlag erhöht werden, der dem fehlenden Grad der Umsetzung entspricht, höchstens aber 10 Prozent dieser Abflüsse ausmacht.
+[^27-1]: Aufgehoben durch Ziff. I der V vom 3. Juni 2022, mit Wirkung seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 28
 
-**Berichterstattungspflichten**
+**Berichterstattungspflichten**[^28-1]
 
-<sup>1</sup>
+<sup>1</sup> Systemrelevante Banken müssen ihre Liquiditätssituation nach diesem Kapitel monatlich ausweisen. Sie reichen dazu bei der SNB jeweils innert 15 Kalendertagen ab dem letzten Kalendertag des Monats Angaben zur Liquiditätssituation der Einheiten nach Artikel 20 ein.
 
-Systemrelevante Banken weisen ihre Liquiditätssituation nach den Artikeln 23–25 monatlich aus. Sie reichen der FINMA und der SNB jeweils bis zum letzten Kalendertag des Folgemonats Angaben ein zur:
+<sup>2</sup> Die FINMA bestimmt die Form der Berichterstattung.
 
-- a. Liquiditätssituation unter dem vorgegebenen Stressszenario auf Stufe Finanzgruppe;
-- b. Liquiditätssituation unter dem vorgegebenen Stressszenario auf Stufe Einzelinstitut unter Einschluss aller Niederlassungen;
-- c. Liquiditätssituation unter dem vorgegebenen Stressszenario auf Stufe Einzelinstitut ohne Niederlassungen im Ausland;
-- d. Aufgliederung der liquiden, unbelasteten und frei verfügbaren Wertpapiere nach ISIN-Länderidentifikationsnummer auf Stufe Einzelinstitut ohne Niederlassungen im Ausland;
-- e.[^28-1] Liquiditätssituation entsprechend den Buchstaben a–c für ein Stressszenario, in dem besicherte Finanzierungen auf dem Repomarkt weiterhin möglich sind.
-
-<sup>2</sup> Systemrelevante Banken reichen der FINMA und der SNB zusätzlich monatlich, jeweils spätestens am letzten Kalendertag des Folgemonats, einen Bericht ein, der die wichtigsten Änderungen der Liquiditätssituation im Vergleich zum Vormonat beschreibt und die Gründe dafür aufzeigt.
-
-<sup>3</sup> Die FINMA bestimmt die Form der Berichterstattung.
-
-[^28-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^28-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 28a
 
-**Innertagesliquidität**[^28a-1]
+[^28a-1]
 
-- [tab] Die FINMA kann Angaben zur Innertagesliquidität erheben.
-
-[^28a-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^28a-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2017 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)). Aufgehoben durch Ziff. I der V vom 3. Juni 2022, mit Wirkung seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 29
 
@@ -966,31 +1024,15 @@ Die FINMA zieht die SNB beim Vollzug dieser Verordnung beratend bei.
 
 #### Art. 31
 
-**Übergangsbestimmungen**
+[^31-1]
 
-<sup>1</sup> In den vom Basler Ausschuss vorgesehenen Beobachtungsperioden kann die FINMA von allen Banken eine darauf abgestimmte Berichterstattung verlangen.
-
-<sup>2</sup> Die Beobachtungsperiode endet gemäss den Vorgaben des Basler Ausschusses[^31-1], spätestens aber mit Einführung der NSFR.[^31-2]
-
-[^31-1]: Basler Ausschuss für Bankenaufsicht - Basel III: The Liquidity Coverage Ratio and liquidity risk monitoring tools; abrufbar unter: www.bis.org &gt; Monetary & financial stability &gt; Basel Committee on Banking Supervision &gt; Basel III &gt; Basel III: Liquidity (January 2013)
-[^31-2]: Fassung gemäss Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
+[^31-1]: Aufgehoben durch Ziff. I der V vom 3. Juni 2022, mit Wirkung seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 31a
 
-**Übergangsbestimmungen zur Änderung vom 25. Juni 2014**[^31a-1]
+[^31a-1]
 
-<sup>1</sup>
-
-Die nicht systemrelevanten Banken erfüllen die LCR nach Artikel 14 Absätze 1 und 2 für das Jahr:
-
-- a. 2015 zu mindestens 60 Prozent;
-- b. 2016 zu mindestens 70 Prozent;
-- c. 2017 zu mindestens 80 Prozent;
-- d. 2018 zu mindestens 90 Prozent.
-
-<sup>2</sup> Die nicht systemrelevanten Banken reichen den Liquiditätsnachweis nach Artikel 17*c* im Jahr 2015 erstmals am 2. März und für die übrigen Monate des Jahres 2015 spätestens am 30. Kalendertag des Folgemonats bei der SNB ein.
-
-[^31a-1]: Eingefügt durch Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
+[^31a-1]: Eingefügt durch Ziff. I der V vom 25. Juni 2014 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Aufgehoben durch Ziff. I der V vom 3. Juni 2022, mit Wirkung seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 31b
 
@@ -1000,11 +1042,23 @@ Das Eidgenössische Finanzdepartement überprüft die Artikel 17*h* Absatz 3, 17
 
 [^31b-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
+#### Art. 31c
+
+**Übergangsbestimmungen zur Änderung vom 3. Juni 2022**[^31c-1]
+
+<sup>1</sup> Die Anforderungen nach dem 4. Kapitel in der Fassung der Änderung vom 3. Juni 2022 sind spätestens achtzehn Monate nach dem Inkrafttreten der Änderung vom 3. Juni 2022 zu erfüllen. Bis zum Zeitpunkt, in dem diese Anforderungen erfüllt werden, sind die Liquiditätsanforderungen massgebend, die die FINMA im Rahmen der Aufsicht festgelegt hat.
+
+<sup>2</sup> Die Berichterstattungspflicht nach Artikel 28 beginnt drei Monate nach dem Inkrafttreten der Änderung vom 3. Juni 2022.
+
+<sup>3</sup> Das Eidgenössische Finanzdepartement prüft spätestens drei Jahre nach Ablauf der Übergangsfrist gemäss Absatz 1, ob die Bestimmungen der Änderung vom 3. Juni 2022 der Zweckbestimmung nach Artikel 7 Absatz 2 BankG und den besonderen Anforderungen nach Artikel 9 BankG gerecht werden. Es erstattet dem Bundesrat darüber Bericht und zeigt den allfälligen regulatorischen Anpassungsbedarf auf.
+
+[^31c-1]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+
 #### Art. 32
 
 **Änderung bisherigen Rechts**
 
-...[^32-1]
+…[^32-1]
 
 [^32-1]: Die Änderung kann unter [AS 2012 7251](https://fedlex.data.admin.ch/eli/oc/2012/883)konsultiert werden.
 
@@ -1223,7 +1277,7 @@ Anhang 5*[^t-6]*
 
 ## Gewichtungsfaktoren der erforderlichen stabilen Finanzierung (RSF)
 
-[^t-6]: Eingefügt durch Ziff. II Abs. 2 der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Die Berichtigung vom 21. Juni 2022 betrifft nur den französischen Text ([AS 2022 366](https://fedlex.data.admin.ch/eli/oc/2022/366)).
+[^t-6]: Eingefügt durch Ziff. II Abs. 2 der V vom 11. Sept. 2020 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Bereinigt gemäss Ziff. II der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 <table>
 <tr><th>RSF-Kategorien</th><th>Gewichtungsfaktor (in %)</th></tr>
@@ -1242,7 +1296,6 @@ Anhang 5*[^t-6]*
 <tr><td>1.8 Belastete Aktiva der Kategorie 1 nach Artikel 15*a* im Zusammenhang mit liquiditätszuführenden Operationen von Zentralbanken (aus Sicht der Zentralbank)</td><td>0</td></tr>
 <tr><td>1.9 Unbedingt widerrufliche Kredit- und Liquiditätsfazilitäten für alle Kundinnen und Kunden</td><td>0</td></tr>
 <tr><td>[tab]</td><td></td></tr>
-<tr><td>[tab]</td><td></td></tr>
 <tr><td>2 Unter Vorbehalt der RSF-Kategorie 3.4 lastenfreie und für weniger als sechs Monate belastete Einlagen bei Finanzinstituten sowie Ausleihungen an diese mit einer Restlaufzeit von weniger als sechs Monaten, wenn:</td><td>10</td></tr>
 <tr><td>a. die Einlagen sowie die Ausleihungen mit Aktiva der Kategorie 1 nach Artikel 15*a* oder Kategorie 2*a* nach Artikel 15*b* besichert sind; und</td><td></td></tr>
 <tr><td>b. die Bank die erhaltenen Sicherheiten während der gesamten Laufzeit der Einlage oder der Ausleihung frei weiter verpfänden kann *(rehypothecation).*</td><td></td></tr>
@@ -1256,6 +1309,7 @@ Anhang 5*[^t-6]*
 <tr><td>4.4 Operative Einlagen bei anderen Finanzinstituten auf die ein ASF-Faktor von 50 % nach ASF-Kategorie 5.2 angewendet wird</td><td>50</td></tr>
 <tr><td>4.5 Alle übrigen Aktiva mit einer Restlaufzeit von weniger als einem Jahr, welche lastenfrei oder für weniger als ein Jahr belastet sind.</td><td>50</td></tr>
 <tr><td>5.1 Lastenfreie Hypothekarforderungen für Wohnliegenschaften mit einer Restlaufzeit von einem Jahr oder mehr und einem Risikogewicht von 35 % oder weniger nach dem Standardansatz unter Basel II für Kreditrisiken</td><td>65</td></tr>
+<tr><td>[tab]</td><td></td></tr>
 <tr><td>5.2 Alle übrigen lastenfreien Einlagen sowie Ausleihungen:</td><td>65</td></tr>
 <tr><td>a. mit einer Restlaufzeit von einem Jahr oder mehr; b. mit einem Risikogewicht von 35 % oder weniger nach dem Standardansatz unter Basel II für Kreditrisiken;</td><td></td></tr>
 <tr><td>c. die nicht unter die RSF-Kategorien 2, 3.4, 4.3 oder 4.4 fallen; und</td><td></td></tr>
@@ -1263,7 +1317,7 @@ Anhang 5*[^t-6]*
 <tr><td>5.3 Aktiva, die für weniger als ein Jahr belastet sind und unter die RSF-Kategorien 5.1 und 5.2 fielen, wenn sie lastenfrei wären</td><td>65</td></tr>
 <tr><td>6.1 In bar, in Wertpapieren oder anderen Aktiva einbezahlte Ersteinschussmargen für Derivatgeschäfte und in bar oder in anderen Aktiva einbezahlte Beträge an den Ausfallfonds einer zentralen Gegenpartei, es sei denn, die in Wertpapieren oder anderen Aktiva einbezahlten Ersteinschussmargen für Derivatgeschäfte erhalten einen höheren RSF-Faktor. In diesem Fall gilt der höhere RSF-Faktor</td><td>85</td></tr>
 <tr><td>6.2 Sonstige lastenfreie, nicht notleidende Einlagen sowie Ausleihungen mit einem Risikogewicht von mehr als 35 % nach dem Standardansatz unter Basel II für Kreditrisiken und mit einer Restlaufzeit von einem Jahr oder mehr, ohne Einlagen bei Finanzinstituten sowie Ausleihungen an diese</td><td>85</td></tr>
-<tr><td>6.3 Lastenfreie, nicht ausgefallene Wertpapiere mit einer Restlaufzeit von mindestens einem Jahr, die nicht als HQLA zulässig sind, einschliesslich börsengehandelter Aktien, sofern sie nicht unter die RSF-Kategorie 5.1 fallen</td><td>85</td></tr>
+<tr><td>6.3 Lastenfreie, nicht ausgefallene Wertpapiere mit einer Restlaufzeit von mindestens einem Jahr, die nicht als HQLA zulässig sind, einschliesslich börsengehandelter Aktien, sofern sie nicht unter die RSF-Kategorie 4.1 fallen</td><td>85</td></tr>
 <tr><td>6.4 Physisch gehandelte Rohstoffe einschliesslich Edelmetallen</td><td>85</td></tr>
 <tr><td>6.5 Aktiva, die für weniger als ein Jahr belastet sind und unter die RSF-Kategorien 6.1–6.4 fielen, wenn sie lastenfrei wären</td><td>85</td></tr>
 <tr><td>6.6 Ausleihungen von Banken aus einem genossenschaftlichen Finanzverbund an ihr Zentralinstitut, die sich aus gemeinsamer Aufgabenerfüllung und gesetzlichen, statutarischen oder vertraglichen Bedingungen ergeben</td><td>85</td></tr>
@@ -1282,6 +1336,78 @@ Anhang 5*[^t-6]*
 <tr><td>i. ausgefallene Wertpapiere.</td><td></td></tr>
 <tr><td>7.5 Aktiva, die für weniger als ein Jahr belastet sind und unter die RSF-Kategorien 7.1–7.4 fielen, wenn sie lastenfrei wären</td><td>[tab] 100</td></tr>
 <tr><td>8 Bedingt widerrufliche sowie unwiderrufliche Kredit- und Liquiditätsfazilitäten für alle Kundinnen und Kunden</td><td>5 % des jeweils nicht in Anspruch genommenen Teils</td></tr>
-<tr><td>9.1 Eventualverpflichtungen im Zusammenhang mit Handelsfinanzierungen</td><td>5 % des ausstehenden Nominalbetrags</td></tr>
-<tr><td>9.2 Eventualverpflichtungen aus Garantien und Akkreditiven, – die nicht mit Handelsfinanzierungen zusammenhängen</td><td></td></tr>
+<tr><td>9.1 Eventualverpflichtungen im Zusammenhang mit Handelsfinanzierungen</td><td>0 % des ausstehenden Nominalbetrags</td></tr>
+<tr><td>9.2 Eventualverpflichtungen aus Garantien und Akkreditiven, die nicht mit Handelsfinanzierungen zusammenhängen</td><td>5 % des ausstehenden Nominalbetrags</td></tr>
+</table>
+
+Anhang 6*[^t-7]*
+
+(Art. 23 Abs. 3)
+
+## Mittelabflüsse und Abflussraten bei systemrelevanten Banken im Zeitraum von Kalendertag 31 bis 90
+
+[^t-7]: Eingefügt durch Ziff. III der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+
+<table>
+<tr><th>Abflusskategorien</th><th>Abflussrate (in Prozent)</th></tr>
+<tr><td>1. Einlagen von Privatkundinnen und Privatkunden sowie Kleinunternehmen:</td><td></td></tr>
+<tr><td>– mit einer Restlaufzeit oder Kündigungsfrist von 31 bis 60 Kalendertagen</td><td>5</td></tr>
+<tr><td>– mit einer Restlaufzeit oder Kündigungsfrist von 61 bis 90 Kalendertagen</td><td>2,5</td></tr>
+<tr><td>2. Einlagen von Nicht-Finanzinstituten, Zentralregierungen, Zentralbanken, untergeordneten Gebietskörperschaften und sonstigen öffentlich-rechtlichen Körperschaften und multilateralen Entwicklungsbanken:</td><td></td></tr>
+<tr><td>– mit einer Restlaufzeit oder Kündigungsfrist von 31 bis 60 Kalendertagen</td><td>20</td></tr>
+<tr><td>– mit einer Restlaufzeit oder Kündigungsfrist von 61 bis 90 Kalendertagen</td><td>10</td></tr>
+<tr><td>3. Einlagen von Finanzinstituten nach Anhang 1 einschliesslich von mit ihnen verbundenen Gesellschaften, von allen anderen juristischen Personen und Geschäftskunden wie Pensionskassen:</td><td></td></tr>
+<tr><td>– mit einer Restlaufzeit oder Kündigungsfrist von 31 bis 60 Kalendertagen</td><td>75</td></tr>
+<tr><td>– mit einer Restlaufzeit oder Kündigungsfrist von 61 bis 90 Kalendertagen</td><td>50</td></tr>
+<tr><td>4. Unbesicherte Schuldverschreibungen:</td><td></td></tr>
+<tr><td>– mit einer Restlaufzeit oder Kündigungsfrist von 31 bis 60 Kalendertagen</td><td>100</td></tr>
+<tr><td>– mit einer Restlaufzeit oder Kündigungsfrist von 61 bis 90 Kalendertagen</td><td>50</td></tr>
+<tr><td>5. Besicherte Finanzierungsgeschäfte, die durch Nicht-HQLA besichert sind, und Sicherheitenswaps, die den Austausch von Nicht-HQLA gegen Aktiva der Kategorie 1 beinhalten, mit Ausnahme von Geschäften mit der SNB:</td><td></td></tr>
+<tr><td>– mit einer Restlaufzeit oder Kündigungsfrist von 31 bis 60 Kalendertagen</td><td>100</td></tr>
+<tr><td>– mit einer Restlaufzeit oder Kündigungsfrist von 61 bis 90 Kalendertagen</td><td>50</td></tr>
+</table>
+
+Anhang 7*[^t-8]*
+
+(Art. 23 Abs. 3)
+
+## Mittelzuflüsse und Zuflussraten bei systemrelevanten Banken im Zeitraum von Kalendertag 31 bis 90
+
+[^t-8]: Eingefügt durch Ziff. III der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+
+<table>
+<tr><th>Zuflusskategorien</th><th>Zuflussrate (in Prozent)</th></tr>
+<tr><td>1. Besicherte Finanzierungsgeschäfte, die durch Nicht-HQLA besichert sind, und Sicherheitenswaps, die den Austausch von Aktiva der Kategorie 1 gegen Nicht-HQLA beinhalten:</td><td></td></tr>
+<tr><td>– mit einer Restlaufzeit oder Kündigungsfrist von 31 bis 60 Kalendertagen</td><td>100</td></tr>
+<tr><td>– mit einer Restlaufzeit oder Kündigungsfrist von 61 bis 90 Kalendertagen</td><td>50</td></tr>
+<tr><td>2. Forderungen gegenüber Finanzinstituten nach Anhang 1 und Zentralbanken:</td><td></td></tr>
+<tr><td>– mit einer Restlaufzeit oder Kündigungsfrist von 31 bis 60 Kalendertagen</td><td>75</td></tr>
+<tr><td>– mit einer Restlaufzeit oder Kündigungsfrist von 61 bis 90 Kalendertagen</td><td>50</td></tr>
+<tr><td>3. Weiterverpfändete von den HQLA ausgeschlossene Aktiva der Kategorie 1, wobei die Weiterverpfändungsdauer eine Restlaufzeit aufweist:</td><td>[tab]</td></tr>
+<tr><td>– von 31 bis 60 Kalendertagen</td><td>100</td></tr>
+<tr><td>– von 61 bis 90 Kalendertagen</td><td>50</td></tr>
+</table>
+
+Anhang 8*[^t-9]*
+
+(Art. 24)
+
+## Anrechenbare Wertpapiere bei systemrelevanten Banken
+
+[^t-9]: Eingefügt durch Ziff. III der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+
+<table>
+<tr><th>Wertpapiere</th><th>Wertabschlag (in Prozent)</th></tr>
+<tr><td>1. Wertpapiere, die Forderungen sind gegenüber einer Zentralregierung, einer Zentralbank, einer untergeordneten Gebietskörperschaft mit Haushaltsautonomie und dem Recht, Steuern zu erheben, oder einer sonstigen öffentlich-rechtlichen Körperschaft, der Bank für Internationalen Zahlungsausgleich, dem Internationalen Währungsfonds, der Europäischen Zentralbank, der Europäischen Union oder multilateralen Entwicklungsbanken, falls diese Wertpapiere:</td><td></td></tr>
+<tr><td>– aufgrund von Artikel 15*d* nicht als HQLA angerechnet werden können</td><td>25</td></tr>
+<tr><td>– aus anderen Gründen nicht als HQLA angerechnet werden können</td><td>60</td></tr>
+<tr><td>2. Unternehmensanleihen einschliesslich Geldmarktpapieren, wenn sie von Gesellschaften emittiert wurden, die weder allein noch verbunden mit anderen als Finanzinstitut nach Anhang 1 gelten, falls diese Instrumente:</td><td></td></tr>
+<tr><td>– aufgrund von Artikel 15*d* nicht als HQLA angerechnet werden können</td><td>25</td></tr>
+<tr><td>– aus anderen Gründen nicht als HQLA angerechnet werden können</td><td>60</td></tr>
+<tr><td>3. Gedeckte Schuldverschreibungen, die nicht von der Bank selbst oder einem mit ihr verbundenen anderen Finanzinstitut nach Anhang 1 emittiert wurden, falls diese Schuldverschreibungen:</td><td></td></tr>
+<tr><td>– aufgrund von Artikel 15*d* nicht als HQLA angerechnet werden können</td><td>25</td></tr>
+<tr><td>– aus anderen Gründen nicht als HQLA angerechnet werden können</td><td>60</td></tr>
+<tr><td>4. Aktien, falls diese:</td><td></td></tr>
+<tr><td>– aufgrund von Artikel 15*d* nicht als HQLA angerechnet werden können</td><td>60</td></tr>
+<tr><td>– aus anderen Gründen nicht als HQLA angerechnet werden können</td><td>70</td></tr>
 </table>
