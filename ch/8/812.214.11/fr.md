@@ -3,18 +3,18 @@ sr: "812.214.11"
 title: "Ordonnance de l'Institut suisse des produits thérapeutiques du 9 novembre 2001 concernant l'édiction de la pharmacopée et la reconnaissance d'autres pharmacopées"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/443"
 language: fr
-version: 2022-04-01
+version: 2022-07-01
 adopted: 2001-11-09
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/443/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2001-443-20220401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/443/20220401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/443/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2001-443-20220701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/443/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’Institut suisse des produits thérapeutiques concernant l’édiction de la pharmacopée et la reconnaissance d’autres pharmacopées****
 
-du 9 novembre 2001 (Etat le 1<sup>er</sup> avril 2022)[^t-1]
+du 9 novembre 2001 (Etat le 1<sup>er</sup> juillet 2022)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 7 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2012 5053](https://fedlex.data.admin.ch/eli/oc/2012/589)).
 
@@ -35,11 +35,11 @@ arrête:
 
 Sont reconnus au titre de pharmacopée:
 
-- a. la *Pharmacopoea Europaea,* 10<sup>e</sup> édition[^1-2] (Ph. Eur. 10) de novembre 2018, le supplément 10.1 à la *Pharmacopoea Europaea* de mars 2019, le supplément 10.2 à la *Pharmacopoea Europaea* de juin 2019, le supplément 10.3 à la *Pharmacopoea Europaea* de novembre 2019, le supplément 10.4 à la *Pharmacopoea Europaea* de mars 2020, le supplément 10.5 à la *Pharmacopoea Europaea* de juin 2020, le supplément 10.6 à la *Pharmacopoea Europaea* de novembre 2020 et le supplément 10.7 à la *Pharmacopoea Europaea* de mars 2021;
+- a. la *Pharmacopoea Europaea,* 10<sup>e</sup> édition[^1-2] (Ph. Eur. 10) de novembre 2018, le supplément 10.1 à la *Pharmacopoea Europaea* de mars 2019, le supplément 10.2 à la *Pharmacopoea Europaea* de juin 2019, le supplément 10.3 à la *Pharmacopoea Europaea* de novembre 2019, le supplément 10.4 à la *Pharmacopoea Europaea* de mars 2020, le supplément 10.5 à la *Pharmacopoea Europaea* de juin 2020, le supplément 10.6 à la *Pharmacopoea Europaea* de novembre 2020, le supplément 10.7 à la *Pharmacopoea Europaea* de mars 2021 et le supplément 10.8 à la *Pharmacopoea Europaea* de juin 2021;
 - b. la *Pharmacopoea Helvetica,* 11<sup>e</sup> édition[^1-3] (Ph. Helv. 11) de mars 2012, le supplément 11.1 à la *Pharmacopoea Helvetica* de juin 2013, le supplément 11.2 à la *Pharmacopoea Helvetica* de mai 2015 et le supplément 11.3 à la *Pharmacopoea Helvetica* de mai 2019.
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 26 nov. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2021 836](https://fedlex.data.admin.ch/eli/oc/2021/836)).
-[^1-2]: Les versions originales de la *Pharmacopoea Europaea* sont publiées par le Conseil de l’Europe. L’édition originale française peut être obtenue auprès de l’Office fédéral des constructions et de la logistique (OFCL), Vente des publications fédérales, 3003 Berne, www.publicationsfederales.admin.ch, aux conditions fixées par l’ordonnance du 19 nov. 2014 sur les émoluments relatifs aux publications (OEmol-Publ; [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)). Jusqu’à la publication de la version allemande, les épreuves des textes en langue allemande peuvent être obtenues auprès de la division Pharmacopée de l’Institut suisse des produits thérapeutiques (Swissmedic).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 22 avr. 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 267](https://fedlex.data.admin.ch/eli/oc/2022/267)).
+[^1-2]: Les versions originales de la *Pharmacopoea Europaea* sont publiées par le Conseil de l’Europe. L’édition originale française peut être obtenue auprès de l’Office fédéral des constructions et de la logistique (OFCL), Vente des publications fédérales, 3003 Berne, www.publicationsfederales.admin.ch, aux conditions fixées par l’ordonnance du 19 novembre 2014 sur les émoluments relatifs aux publications (OEmol-Publ; [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)). Jusqu’à la publication de la version allemande, les épreuves des textes en langue allemande peuvent être obtenues auprès de la division Pharmacopée de l’Institut suisse des produits thérapeutiques (Swissmedic).
 [^1-3]: La *Pharmacopoea Helvetica* est publiée par Swissmedic et peut être téléchargée à l’adresse: www.phhelv.ch ou obtenue auprès de l’OFCL, Vente des publications fédérales, 3003 Berne, www.publicationsfederales.admin.ch, aux conditions fixées par l’OEmol-Publ.
 
 #### Art. 1a
