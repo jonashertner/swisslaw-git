@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 28. September 2012 über die Bekämpfung übertragbarer
 short: EpG
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/297"
 language: de
-version: 2021-12-18
+version: 2022-07-01
 adopted: 2012-09-28
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20211218/de/xml/fedlex-data-admin-ch-eli-cc-2015-297-20211218-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20211218/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2015-297-20220701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20211218/de"
 
 (Epidemiengesetz, EpG)
 
-vom 28. September 2012 (Stand am 18. Dezember 2021)
+vom 28. September 2012 (Stand am 1. Juli 2022)
 
 *Die Bundesversammlung der Schweizerischen Eidgenossenschaft,*
 
@@ -810,7 +810,7 @@ Das PT-System ist nach folgenden Grundsätzen ausgestaltet:
 
 <sup>8</sup> Der Bundesrat sieht die Einstellung des PT-Systems, namentlich die Deaktivierung oder Deinstallation aller auf den Mobiltelefonen installierten Komponenten vor, sobald das PT-System zur Bewältigung der durch das Coronavirus verursachten Epidemie nicht mehr erforderlich ist oder sich als ungenügend wirksam erweist.
 
-[^60a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft vom 25. Juni 2020 bis zum 31. Dez. 2022 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^60a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft vom 25. Juni 2020 bis zum 30. Juni 2022, verlängert bis zum 31. Dez. 2022 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 61
 
@@ -853,7 +853,7 @@ Das PT-System nach Artikel 60*a* kann mit entsprechenden ausländischen Systemen
 - a. die Gesetzgebung; oder
 - b. hinreichende Garantien, insbesondere durch Vertrag.
 
-[^62a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft vom 25. Juni 2020 bis zum 31. Dez. 2022 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^62a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft vom 25. Juni 2020 bis zum 30. Juni 2022, verlängert bis zum 31. Dez. 2022 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 ## 8. Kapitel: Entschädigung
 
@@ -1053,7 +1053,7 @@ Der Bundesrat kann völkerrechtliche Vereinbarungen abschliessen über:
 
 <sup>3</sup> Das BAG übernimmt die Aufgaben der nationalen Anlaufstelle nach den Internationalen Gesundheitsvorschriften (2005) vom 23. Mai 2005[^80-2]. Insbesondere meldet es der WHO Ereignisse, die zu einer gesundheitlichen Notlage von internationaler Tragweite führen können.
 
-[^80-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft vom 25. Juni 2020 bis zum 31. Dez. 2022 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^80-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft vom 25. Juni 2020 bis zum 30. Juni 2022, verlängert bis zum 31. Dez. 2022 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^80-2]: [SR 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
 
 #### Art. 81
@@ -1106,7 +1106,7 @@ Mit Busse wird bestraft, wer vorsätzlich:
 
 <sup>2</sup> Wer fahrlässig handelt, wird für Übertretungen nach Absatz 1 mit Busse bis zu 5000 Franken bestraft.
 
-[^83-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft vom 25. Juni 2020 bis zum 31. Dez. 2022 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^83-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft vom 25. Juni 2020 bis zum 30. Juni 2022, verlängert bis zum 31. Dez. 2022 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 84
 
@@ -1129,8 +1129,8 @@ Folgende Bundesgesetze werden aufgehoben:
 - 1\. Bundesgesetz vom 18. Dezember 1970[^85-1] über die Bekämpfung übertragbarer Krankheiten des Menschen;
 - 2\. Bundesgesetz vom 13. Juni 1928[^85-2] betreffend Massnahmen gegen die Tuberkulose.
 
-[^85-1]: [[AS 1974 1071](https://fedlex.data.admin.ch/eli/oc/1974/1071_1071_1071); [1985 1992](https://fedlex.data.admin.ch/eli/oc/1985/1992_1992_1992)Ziff. I 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II, 405; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Anhang Ziff. 5; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. III 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 6; [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 7; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 3; [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 95, [4137](https://fedlex.data.admin.ch/eli/oc/2006/608); [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 34; [2012 7281](https://fedlex.data.admin.ch/eli/oc/2012/890)]
-[^85-2]: [BS **4** 363; [AS 1964 965](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981)Ziff. IV Bst. a; [1974 1071](https://fedlex.data.admin.ch/eli/oc/1974/1071_1071_1071)Art. 37; [1985 1992](https://fedlex.data.admin.ch/eli/oc/1985/1992_1992_1992)Ziff. I 3; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II, 406; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 96]
+[^85-1]: [[AS 1974 1071](https://fedlex.data.admin.ch/eli/oc/1974/1071_1071_1071); [1985 1992](https://fedlex.data.admin.ch/eli/oc/1985/1992_1992_1992)Ziff. I 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 405; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Anhang Ziff. 5; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. III 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 6; [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 7; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 3; [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 95 [4137](https://fedlex.data.admin.ch/eli/oc/2006/608); [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 34; [2012 7281](https://fedlex.data.admin.ch/eli/oc/2012/890)]
+[^85-2]: [BS **4** 363; [AS 1964 965](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981)Ziff. IV Bst. a; [1974 1071](https://fedlex.data.admin.ch/eli/oc/1974/1071_1071_1071)Art. 37; [1985 1992](https://fedlex.data.admin.ch/eli/oc/1985/1992_1992_1992)Ziff. I 3; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 406; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 96]
 
 #### Art. 86
 
@@ -1138,7 +1138,7 @@ Folgende Bundesgesetze werden aufgehoben:
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-…[^86-1]
+...[^86-1]
 
 [^86-1]: Die Änderungen können unter [AS 2015 1435](https://fedlex.data.admin.ch/eli/oc/2015/297)konsultiert werden.
 

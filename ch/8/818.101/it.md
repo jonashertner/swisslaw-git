@@ -4,11 +4,11 @@ title: "Legge federale del 28 settembre 2012 sulla lotta contro le malattie tras
 short: LEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/297"
 language: it
-version: 2021-12-18
+version: 2022-07-01
 adopted: 2012-09-28
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20211218/it/xml/fedlex-data-admin-ch-eli-cc-2015-297-20211218-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20211218/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2015-297-20220701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20211218/it"
 
 (Legge sulle epidemie, LEp)
 
-del 28 settembre 2012 (Stato 18 dicembre 2021)
+del 28 settembre 2012 (Stato 1° luglio 2022) (Stato 1° luglio 2022)
 
 *L’Assemblea federale della Confederazione Svizzera,*
 
@@ -812,7 +812,7 @@ Il sistema TP è concepito in base ai seguenti principi:
 
 <sup>8</sup> Il Consiglio federale prevede la sospensione del sistema TP, segnatamente la disattivazione o la disinstallazione di tutti i componenti installati sui telefoni cellulari, non appena il sistema TP non è più necessario o non si rivela sufficientemente efficace per lottare contro l’epidemia causata dal coronavirus.
 
-[^60a-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 25 giu. 2020 fino al 31 dic. 2022 ([RU 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)n. III 3; [FF 2020 4027](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^60a-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 25 giu. 2020 al 30 giu. 2022, prorogato al 31 dic. 2022 ([RU 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)n. III 3; [FF 2020 4027](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 61
 
@@ -855,7 +855,7 @@ Il sistema TP di cui all’articolo 60*a* può essere collegato a sistemi esteri
 - a. la legislazione; o
 - b. garanzie sufficienti, in particolare contrattuali.
 
-[^62a-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 25 giu. 2020 fino al 31 dic. 2022 ([RU 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)n. III 3; [FF 2020 4027](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^62a-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 25 giu. 2020 al 30 giu. 2022, prorogato al 31 dic. 2022 ([RU 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)n. III 3; [FF 2020 4027](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 ## Capitolo 8: Indennizzo
 
@@ -1055,7 +1055,7 @@ Il Consiglio federale può concludere accordi internazionali concernenti:
 
 <sup>3</sup> L’UFSP assume i compiti del Centro nazionale previsto dal Regolamento sanitario internazionale (2005) del 23 maggio 2005[^80-2]. In particolare comunica all’OMS gli eventi che possono costituire una situazione d’emergenza sanitaria di portata internazionale.
 
-[^80-1]: Introdotta dal n. I della LF del 19 giu. 2020, in vigore dal 25 giu. 2020 fino al 31 dic. 2022 ([RU 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)n. III 3; [FF 2020 4027](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^80-1]: Introdotta dal n. I della LF del 19 giu. 2020, in vigore dal 25 giu. 2020 al 30 giu. 2022, prorogata al 31 dic. 2022 ([RU 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)n. III 3; [FF 2020 4027](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^80-2]: [RS 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
 
 #### Art. 81
@@ -1108,7 +1108,7 @@ Il Consiglio federale esamina periodicamente l’efficacia, l’adeguatezza e l�
 
 <sup>2</sup> Se ha agito per negligenza, per i reati di cui al capoverso 1 l’autore è punito con la multa fino a 5000 franchi.
 
-[^83-1]: Introdotta dal n. I della LF del 19 giu. 2020, in vigore dal 25 giu. 2020 fino al 31 dic. 2022 ([RU 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)n. III 3; [FF 2020 4027](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^83-1]: Introdotta dal n. I della LF del 19 giu. 2020, in vigore dal 25 giu. 2020 al 30 giu. 2022, prorogata al 31 dic. 2022 ([RU 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)n. III 3; [FF 2020 4027](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 84
 

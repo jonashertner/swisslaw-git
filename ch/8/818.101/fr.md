@@ -4,11 +4,11 @@ title: "Loi fédérale du 28 septembre 2012 sur la lutte contre les maladies tra
 short: LEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/297"
 language: fr
-version: 2021-12-18
+version: 2022-07-01
 adopted: 2012-09-28
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20211218/fr/xml/fedlex-data-admin-ch-eli-cc-2015-297-20211218-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20211218/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2015-297-20220701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20211218/fr"
 
 (Loi sur les épidémies, LEp)
 
-du 28 septembre 2012 (Etat le 18 décembre 2021)
+du 28 septembre 2012 (Etat le 1<sup>er</sup> juillet 2022)
 
 *L’Assemblée fédérale de la Confédération suisse,*
 
@@ -387,7 +387,7 @@ Le Conseil fédéral peut édicter les dispositions suivantes:
 - c.[^29-1] fixer les conditions auxquelles doivent répondre l’équipement du milieu confiné ainsi que la formation et la formation continue des personnes qui utilisent des agents pathogènes;
 - d. prescrire que les contenants renfermant des agents pathogènes doivent porter une marque distinctive.
 
-[^29-1]: Nouvelle teneur selon l’annexe ch. 34 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^29-1]: Nouvelle teneur selon le ch. 34 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 ## Chapitre 5 Mesures de lutte
 
@@ -809,7 +809,7 @@ Le système TP est conçu selon les principes suivants:
 
 <sup>8</sup> Le Conseil fédéral prévoit l’arrêt du système TP, en particulier la désactivation ou la désinstallation de tous les composants installés sur les téléphones portables, dès que le système TP n’est plus requis ou qu’il ne se révèle pas suffisamment efficace pour lutter contre l’épidémie causée par le coronavirus.
 
-[^60a-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur du 25 juin 2020 au 31 déc. 2022 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^60a-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur du 25 juin 2020 au 30 juin 2022, prolongé jusqu’au 31 déc. 2022 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 61
 
@@ -852,7 +852,7 @@ Le système TP visé à l’art. 60*a* peut être relié à des système étrang
 - a. la législation, ou
 - b. des garanties suffisantes, notamment contractuelles.
 
-[^62a-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur du 25 juin 2020 au 31 déc. 2022 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^62a-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur du 25 juin 2020 au 30 juin 2022, prolongé jusqu’au 31 déc. 2022 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 ## Chapitre 8 Indemnisation
 
@@ -1052,7 +1052,7 @@ Le Conseil fédéral peut conclure des accords internationaux concernant:
 
 <sup>3</sup> L’OFSP assume les tâches du «point focal national» conformément au Règlement sanitaire international (2005) du 23 mai 2005[^80-2]. Il signale en particulier à l’OMS les événements susceptibles de présenter une urgence de santé publique de portée internationale.
 
-[^80-1]: Introduite par le ch. I de la LF du 19 juin 2020, en vigueur du 25 juin 2020 au 31 déc. 2022 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^80-1]: Introduite par le ch. I de la LF du 19 juin 2020, en vigueur du 25 juin 2020 au 30 juin 2022, prolongée jusqu’au 31 déc. 2022 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^80-2]: [RS 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
 
 #### Art. 81
@@ -1103,7 +1103,7 @@ Est puni d’une amende quiconque, intentionnellement:
 
 <sup>2</sup> Quiconque agit par négligence est puni d’une amende de 5000 francs au plus pour les contraventions visées à l’al. 1.
 
-[^83-1]: Introduite par le ch. I de la LF du 19 juin 2020, en vigueur du 25 juin 2020 au 31 déc. 2022 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^83-1]: Introduite par le ch. I de la LF du 19 juin 2020, en vigueur du 25 juin 2020 au 30 juin 2022, prolongée jusqu’au 31 déc. 2022 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 84
 
@@ -1126,8 +1126,8 @@ Sont abrogées:
 - 1\. la loi fédérale du 18 décembre 1970 sur la lutte contre les maladies transmissibles de l’homme[^85-1];
 - 2\. la loi fédérale du 13 juin 1928 sur la lutte contre la tuberculose[^85-2].
 
-[^85-1]: [[RO 1974 1071](https://fedlex.data.admin.ch/eli/oc/1974/1071_1071_1071), [1985 1992](https://fedlex.data.admin.ch/eli/oc/1985/1992_1992_1992)ch. I 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 405, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)annexe ch. 5, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. III 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)annexe ch. 6, [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)annexe ch. 7, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. II 3, [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 95 [4137](https://fedlex.data.admin.ch/eli/oc/2006/608), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 34, [2012 7281](https://fedlex.data.admin.ch/eli/oc/2012/890)].
-[^85-2]: [RS **4** 377; [RO 1964 961](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981)ch. IV let. a, [1974 1071](https://fedlex.data.admin.ch/eli/oc/1974/1071_1071_1071)art. 37, [1985 1992](https://fedlex.data.admin.ch/eli/oc/1985/1992_1992_1992)ch. I 3, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 406, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 96.]
+[^85-1]: [[RO 1974 1071](https://fedlex.data.admin.ch/eli/oc/1974/1071_1071_1071); [1985 1992](https://fedlex.data.admin.ch/eli/oc/1985/1992_1992_1992)ch. I 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 405; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)annexe ch. 5; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. III 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)annexe ch. 6; [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)annexe ch. 7; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. II 3; [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 95, [4137](https://fedlex.data.admin.ch/eli/oc/2006/608); [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 34; [2012 7281](https://fedlex.data.admin.ch/eli/oc/2012/890)].
+[^85-2]: [RS **4** 377; [RO 1964 961](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981)ch. IV let. a; [1974 1071](https://fedlex.data.admin.ch/eli/oc/1974/1071_1071_1071)art. 37; [1985 1992](https://fedlex.data.admin.ch/eli/oc/1985/1992_1992_1992)ch. I 3; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 406; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 96.]
 
 #### Art. 86
 
@@ -1147,7 +1147,7 @@ Sont abrogées:
 
 <sup>3</sup> Les laboratoires qui ne sont pas soumis à autorisation en vertu de l’ancien droit, ne disposent pas d’une reconnaissance valable et doivent selon le nouveau droit être titulaires d’une autorisation sont tenus de présenter une demande à cet effet dans le délai d’un an à compter de l’entrée en vigueur de la présente loi. Les laboratoires concernés peuvent continuer à effectuer des analyses jusqu’à la décision de l’autorité fédérale compétente.
 
-[^87-1]: [RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155), [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)
+[^87-1]: [RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)
 
 #### Art. 88
 

@@ -4,11 +4,11 @@ title: "Federal Act of 28 September 2012 on Controlling Communicable Human Disea
 short: EpidA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/297"
 language: en
-version: 2021-12-18
+version: 2022-07-01
 adopted: 2012-09-28
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20211218/en/xml/fedlex-data-admin-ch-eli-cc-2015-297-20211218-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20211218/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2015-297-20220701-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20220701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Epidemics Act, EpidA)
 
-of 28 September 2012 (Status as of 18 December 2021)
+of 28 September 2012 (Status as of 1 July 2022)
 
 *The Federal Assembly of the Swiss Confederation,*
 
@@ -811,7 +811,7 @@ The PT System shall be designed according to the following principles:
 
 <sup>8</sup> The Federal Council shall provide for the PT System to be terminated, and in particular for the deactivation or deinstallation of all components installed on mobile telephones, as soon as the PT System is no longer required to manage the epidemic caused by the coronavirus or if it proves to be insufficiently effective.
 
-[^60a-1]: Inserted by No I of the FA of 19 June 2020, in force from 25 June 2020 to 31 Dec. 2022 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^60a-1]: Inserted by No I of the FA of 19 June 2020, in force from 25 June 2020 to 30 June 2022, extended to 31 Dec. 2022 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 61
 
@@ -854,7 +854,7 @@ The PT System under Article 60*a* may be connected to equivalent foreign systems
 - a. legislation; or
 - b. adequate guarantees, for example in a contract.
 
-[^62a-1]: Inserted by No I of the FA of 19 June 2020, in force from 25 June 2020 to 31 Dec. 2022 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^62a-1]: Inserted by No I of the FA of 19 June 2020, in force from 25 June 2020 to 30 June 2022, extended to 31 Dec. 2022 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 ## Chapter 8 Compensation
 
@@ -1054,7 +1054,7 @@ The Federal Council may enter into international agreements on:
 
 <sup>3</sup> The FOPH shall carry out the tasks of the National IHR Focal Point in accordance with the International Health Regulations (2005) of 23 May 2005[^80-2]. In particular, it shall report events to the WHO that could lead to a public health emergency of international concern.
 
-[^80-1]: Inserted by No I of the FA of 19 June 2020, in force from 25 June 2020 to 31 Dec. 2022 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^80-1]: Inserted by No I of the FA of 19 June 2020, in force from 25 June 2020 to 30 June 2022, extended to 31 Dec. 2022 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^80-2]: [SR 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
 
 #### Art. 81
@@ -1107,7 +1107,7 @@ Any person who wilfully commits any of the following acts shall be liable to a f
 
 <sup>2</sup> A person acting through negligence shall be liable to a fine not exceeding 5,000 francs for contraventions under paragraph 1.
 
-[^83-1]: Inserted by No I of the FA of 19 June 2020, in force from 25 June 2020 to 31 Dec. 2022 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^83-1]: Inserted by No I of the FA of 19 June 2020, in force from 25 June 2020 to 30 June 2022, extended to 31 Dec. 2022 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 84
 
