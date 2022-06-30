@@ -5,11 +5,12 @@ title: Staatsverwaltungsgesetz
 short: StVG
 language: de
 version: 2022-07-01
+corrected: 2022-06-22
 version_adopted: 2022-04-12
 adopted: 1994-06-16
 in_force: 1995-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/140.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3368/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3366/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -247,12 +248,6 @@ als Gesetz:[^ingress-4]
 <sup>1</sup> Der Regierung gehören die Regierungsräte und mit beratender Stimme der Staatssekretär an.
 
 <sup>2</sup> Regierungsräte und Staatssekretär leisten Eid oder Gelübde vor dem Kantonsrat zu Beginn jeder Amtsdauer gemeinsam.
-
-#### Art. 13a
-
-**Mitgliedschaft in der Bundesversammlung**
-
-<sup>1</sup> Mitglieder der Regierung gehören in der Regel nicht der Bundesversammlung an. Die gleichzeitige Mitgliedschaft in Regierung und Bundesversammlung ist während höchstens 12 Monaten bis zum Ende der jeweiligen kantonalen Amtsdauer zulässig.
 
 #### Art. 14
 
