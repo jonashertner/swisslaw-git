@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "640.11"
-title: Verordnung des Regierungsrates zum Gesetz über die Staats- und Gemeindesteuern
+title: Verordnung zum Gesetz über die Staats- und Gemeindesteuern
 short: StV
 language: de
-version: 2021-01-01
-valid_until: 2022-06-30
-version_adopted: 2020-12-08
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2022-06-28
 adopted: 1992-11-10
 in_force: 1993-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/640.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2185/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2532/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates zum Gesetz über die Staats- und Gemeindesteuern
+# Verordnung zum Gesetz über die Staats- und Gemeindesteuern
 
 StV
 
 (StV)
 
-vom 10.11.1992 (Stand 01.01.2021)
+vom 10.11.1992 (Stand 01.07.2022)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -45,8 +45,8 @@ vom 10.11.1992 (Stand 01.01.2021)
 
 <sup>1</sup> Bei der Steuerberechnung gemäss § 17a Abs. 6 des Gesetzes können abgezogen werden:
 
-- 1\. die Kosten für den Unterhalt von Liegenschaften;
-- 2\. die Kosten für die gewöhnliche Verwaltung von beweglichem Vermögen, soweit die daraus fliessenden Einkünfte besteuert werden.
+- 1\. die Kosten für den Unterhalt von Liegenschaften
+- 2\. die Kosten für die gewöhnliche Verwaltung von beweglichem Vermögen, soweit die daraus fliessenden Einkünfte besteuert werden
 
 <sup>2</sup> Andere Abzüge, insbesondere solche für Schuldzinsen, Renten und dauernde Lasten sind nicht zulässig.
 
@@ -122,8 +122,8 @@ vom 10.11.1992 (Stand 01.01.2021)
 
 <sup>1</sup> Das vereinfachte Verfahren nach § 38a des Gesetzes ist nicht anwendbar für:
 
-- 1\. Kapitalgesellschaften und Genossenschaften;
-- 2\. die Mitarbeit des Ehegatten sowie der Kinder im eigenen Betrieb.
+- 1\. Kapitalgesellschaften und Genossenschaften
+- 2\. die Mitarbeit des Ehegatten sowie der Kinder im eigenen Betrieb
 
 #### § 5
 
@@ -131,7 +131,7 @@ vom 10.11.1992 (Stand 01.01.2021)
 
 <sup>1</sup> Bei der Festsetzung der Liquidationsgewinne nach § 38b Abs. 1 des Gesetzes ist die Verordnung des Bundesrates über die Besteuerung der Liquidationsgewinne bei definitiver Aufgabe der selbständigen Erwerbstätigkeit (LGBV)[^5-1] sinngemäss anwendbar.
 
-<sup>2</sup> Die Abzugsfähigkeit von tatsächlich geleisteten Einkaufsbeiträgen in die berufliche Vorsorge nach § 38b Abs. 1 des Gesetzes steht unter dem Vorbehalt von Art. 79b Abs. 3 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge[^5-2].
+<sup>2</sup> Die Abzugsfähigkeit von tatsächlich geleisteten Einkaufsbeiträgen in die berufliche Vorsorge nach § 38b Abs. 1 des Gesetzes steht unter dem Vorbehalt von Art. 79b Abs. 3 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^5-2].
 
 [^5-1]: SR [642.114](https://db.clex.ch/link/Bund/642.114/de)
 [^5-2]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
@@ -150,11 +150,11 @@ vom 10.11.1992 (Stand 01.01.2021)
 
 <sup>1</sup> Nicht als Kosten für den Unterhalt von Liegenschaften gelten insbesondere:
 
-- 1\. wertvermehrende Aufwendungen für Neueinrichtungen und die Verbesserung von Liegenschaften;
-- 2\. Grundeigentümerbeiträge an Strassen, Trottoirs, Werkleitungen, Abwasserreinigungsanlagen, Kanalisationen und dergleichen;
-- 3\. Quartierplan-, Gestaltungsplan-, Arealüberbauungsplan-, Vermessungs-, Güterzusammenlegungs- und Meliorationskosten;
-- 4\. die mit dem Erwerb und der Veräusserung von Liegenschaften verbundenen Kosten wie Handänderungssteuern, Grundbuchgebühren, Vermittlerprovisionen und Grundstückgewinnsteuern;
-- 5\. private Aufwendungen wie Heizungskosten, Energieverbrauch, Wasserzins, Kehrichtabfuhr- oder Abwasserbeseitigungsgebühren.
+- 1\. wertvermehrende Aufwendungen für Neueinrichtungen und die Verbesserung von Liegenschaften
+- 2\. Grundeigentümerbeiträge an Strassen, Trottoirs, Werkleitungen, Abwasserreinigungsanlagen, Kanalisationen und dergleichen
+- 3\. Quartierplan-, Gestaltungsplan-, Arealüberbauungsplan-, Vermessungs-, Güterzusammenlegungs- und Meliorationskosten
+- 4\. die mit dem Erwerb und der Veräusserung von Liegenschaften verbundenen Kosten wie Handänderungssteuern, Grundbuchgebühren, Vermittlerprovisionen und Grundstückgewinnsteuern
+- 5\. private Aufwendungen wie Heizungskosten, Energieverbrauch, Wasserzins, Kehrichtabfuhr- oder Abwasserbeseitigungsgebühren
 
 #### § 7a
 
@@ -202,8 +202,8 @@ vom 10.11.1992 (Stand 01.01.2021)
 
 <sup>2</sup> Die Pauschale beträgt:
 
-- 1\. für Gebäude, die am Ende der Steuerperiode bis zu zehn Jahre alt sind, 10 Prozent des Bruttomietertrages beziehungsweise des Mietwertes oder Eigenmietwertes;
-- 2\. für mehr als zehn Jahre alte Gebäude 20 Prozent des Bruttomietertrages beziehungsweise des Mietwertes oder Eigenmietwertes.
+- 1\. für Gebäude, die am Ende der Steuerperiode bis zu zehn Jahre alt sind, 10 Prozent des Bruttomietertrages beziehungsweise des Mietwertes oder Eigenmietwertes
+- 2\. für mehr als zehn Jahre alte Gebäude 20 Prozent des Bruttomietertrages beziehungsweise des Mietwertes oder Eigenmietwertes
 
 <sup>3</sup> Im Pauschalabzug sind die Kosten für den Unterhalt, die Instandstellung von neu erworbenen Liegenschaften, die Verwaltung durch Dritte, die Investitionen, die dem Energiesparen und dem Umweltschutz dienen, die Rückbaukosten im Hinblick auf den Ersatzneubau, die Versicherungsprämien, die Denkmalpflege sowie die Liegenschaftensteuer inbegriffen.
 
@@ -213,9 +213,9 @@ vom 10.11.1992 (Stand 01.01.2021)
 
 <sup>1</sup> Nur die tatsächlichen Unterhaltskosten können abgezogen werden:
 
-- 1\. bei Liegenschaften des Geschäftsvermögens;
-- 2\. bei Liegenschaften, die von Dritten vorwiegend geschäftlich genutzt werden;
-- 3\. bei Liegenschaften, deren Bruttomietertrag Fr. 50'000 im Jahr übersteigt.
+- 1\. bei Liegenschaften des Geschäftsvermögens
+- 2\. bei Liegenschaften, die von Dritten vorwiegend geschäftlich genutzt werden
+- 3\. …
 
 #### § 10a
 
@@ -273,8 +273,8 @@ vom 10.11.1992 (Stand 01.01.2021)
 
 <sup>2</sup> Bei getrennt besteuerten Pflichtigen mit gemeinsamer elterlicher Sorge ohne gemeinsamem Haushalt wird der Kinderabzug nach § 36 Abs. 2 Ziff. 1 des Gesetzes wie folgt zugeteilt:
 
-- 1\. Befindet sich das Kind in alternierender Obhut beider Elternteile und fliessen keine Unterhaltsbeiträge nach § 34 Abs. 1 Ziff. 5 des Gesetzes, wird der Kinderabzug hälftig aufgeteilt;
-- 2\. Befindet sich das Kind nicht in alternierender Obhut, dann steht der Abzug dem mit dem Kind im gleichen Haushalt lebenden Elternteil zu.
+- 1\. Befindet sich das Kind in alternierender Obhut beider Elternteile und fliessen keine Unterhaltsbeiträge nach § 34 Abs. 1 Ziff. 5 des Gesetzes, wird der Kinderabzug hälftig aufgeteilt
+- 2\. Befindet sich das Kind nicht in alternierender Obhut, dann steht der Abzug dem mit dem Kind im gleichen Haushalt lebenden Elternteil zu
 
 <sup>3</sup> Der Vermögensfreibetrag gemäss § 53 Abs. 1 Ziff. 3 des Gesetzes steht jenem Elternteil zu, der den Kinderabzug nach § 36 Abs. 2 Ziff. 1 des Gesetzes beanspruchen kann. Bei hälftiger Teilung des Kinderabzuges wird auch der Vermögensfreibetrag entsprechend aufgeteilt.
 
@@ -374,10 +374,10 @@ vom 10.11.1992 (Stand 01.01.2021)
 
 <sup>2</sup> Jede quellensteuerpflichtige Person – unabhängig von ihrer Ansässigkeit – kann bis zum 31. März des auf die Fälligkeit der steuerbaren Leistung folgenden Kalenderjahres eine Neuberechnung der Quellensteuer beantragen, und zwar in den nachfolgend abschliessend angeführten Fällen:
 
-- 1\. Falsche Ermittlung des der Quellensteuer unterliegenden Bruttolohns;
-- 2\. falsche Ermittlung des satzbestimmenden Einkommens;
+- 1\. Falsche Ermittlung des der Quellensteuer unterliegenden Bruttolohns
+- 2\. falsche Ermittlung des satzbestimmenden Einkommens
 - 3\. falsche Tarifanwendung sowie
-- 4\. Nichtgewährung von Steuergutschriften im Sinn von § 188a Abs. 2 und Abs. 3 des Gesetzes.
+- 4\. Nichtgewährung von Steuergutschriften im Sinn von § 188a Abs. 2 und Abs. 3 des Gesetzes
 
 <sup>3</sup> Die Bestimmungen der Verordnung des Eidgenössischen Finanzdepartements über die Quellensteuer bei der direkten Bundessteuer (Quellensteuerverordnung, QStV)[^22-1] gelten sinngemäss auch für die Belange der Staats- und Gemeindesteuern.
 
@@ -463,10 +463,10 @@ vom 10.11.1992 (Stand 01.01.2021)
 
 <sup>1</sup> Als Rechtsgeschäfte, die hinsichtlich der Verfügungsgewalt über Grundstücke wirtschaftlich wie Veräusserungen wirken, sind insbesondere anzusehen:
 
-- 1\. Veräusserung einer beherrschenden Beteiligung an einer Immobiliengesellschaft oder -genossenschaft;
-- 2\. Abschluss eines Kaufvertrages mit Substitutionsklausel;
-- 3\. entgeltliche Übertragung eines Kaufrechtes oder Rückkaufrechtes an einem Grundstück;
-- 4\. Verzicht auf ein Kauf- oder Rückkaufrecht gegen Entgelt.
+- 1\. Veräusserung einer beherrschenden Beteiligung an einer Immobiliengesellschaft oder -genossenschaft
+- 2\. Abschluss eines Kaufvertrages mit Substitutionsklausel
+- 3\. entgeltliche Übertragung eines Kaufrechtes oder Rückkaufrechtes an einem Grundstück
+- 4\. Verzicht auf ein Kauf- oder Rückkaufrecht gegen Entgelt
 
 #### § 28
 
@@ -658,8 +658,8 @@ vom 10.11.1992 (Stand 01.01.2021)
 
 <sup>4</sup> In jedem Falle wird die Steuer im Umfang der bis zu den folgenden Zeitpunkten entstandenen Verpflichtung fällig:
 
-- 1\. bei der Konkurseröffnung über den Steuerpflichtigen;
-- 2\. beim Tod des Steuerpflichtigen.
+- 1\. bei der Konkurseröffnung über den Steuerpflichtigen
+- 2\. beim Tod des Steuerpflichtigen
 
 <sup>5</sup> ...
 
@@ -675,9 +675,9 @@ vom 10.11.1992 (Stand 01.01.2021)
 
 <sup>1</sup> Als Verfalltag im Sinne von § 189 Ziff. 2 des Gesetzes gilt für die Einkommens- und Vermögenssteuern:
 
-- 1\. bei ganzjähriger Steuerpflicht oder bei Beginn der Steuerpflicht vor dem 1. Juni, der 31. August der Steuerperiode;
-- 2\. bei Beginn der Steuerpflicht nach dem 31. Mai, der 90. Tag nach Beginn der Steuerpflicht, spätestens der 31. Dezember der Steuerperiode;
-- 3\. bei Ende der Steuerpflicht vor dem 1. Juni, der 90 Tag nach Beendigung der Steuerpflicht.
+- 1\. bei ganzjähriger Steuerpflicht oder bei Beginn der Steuerpflicht vor dem 1. Juni, der 31. August der Steuerperiode
+- 2\. bei Beginn der Steuerpflicht nach dem 31. Mai, der 90. Tag nach Beginn der Steuerpflicht, spätestens der 31. Dezember der Steuerperiode
+- 3\. bei Ende der Steuerpflicht vor dem 1. Juni, der 90 Tag nach Beendigung der Steuerpflicht
 
 <sup>2</sup> Zieht der Steuerpflichtige aus einem anderen Postnumerandokanton zu, gilt der ordentliche Verfalltermin.
 
@@ -691,9 +691,9 @@ vom 10.11.1992 (Stand 01.01.2021)
 
 <sup>2</sup> Ist der ordentliche Verfalltag nach Abs. 1 noch nicht eingetreten, bestimmt sich in folgenden Fällen der Verfalltag durch Zustellung der Schlussrechnung:
 
-- 1\. bei Ende der Steuerpflicht in der Schweiz;
-- 2\. bei Konkurseröffnung über die steuerpflichtige juristische Person;
-- 3\. bei erfolgter Anmeldung zur Löschung der juristischen Person im Handelsregister.
+- 1\. bei Ende der Steuerpflicht in der Schweiz
+- 2\. bei Konkurseröffnung über die steuerpflichtige juristische Person
+- 3\. bei erfolgter Anmeldung zur Löschung der juristischen Person im Handelsregister
 
 #### § 41b
 
@@ -835,6 +835,8 @@ vom 10.11.1992 (Stand 01.01.2021)
 
 <sup>5</sup> Ein Erlass kann an Auflagen und Bedingungen geknüpft werden. Werden diese nicht erfüllt, geht die Erlassforderung nicht unter.
 
+<sup>6</sup> Die Gebühren im Zusammenhang mit Bussen und Steuern können im selben Erlassverfahren erlassen werden.
+
 #### § 50b
 
 **Erlassvoraussetzungen**
@@ -861,9 +863,9 @@ vom 10.11.1992 (Stand 01.01.2021)
 
 <sup>1</sup> Die Entschädigung der Gemeinde für die selbständige Veranlagung natürlicher Personen beträgt pro Steuerperiode:
 
-- 1\. für die ersten 10 Prozent der Steuerpflichtigen — Fr. 8 je Fall;
-- 2\. für die nächsten 10 Prozent der Steuerpflichtigen — Fr. 13 je Fall;
-- 3\. für Anteile über 20 Prozent der Steuerpflichtigen — Fr. 17 je Fall.
+- 1\. für die ersten 10 Prozent der Steuerpflichtigen — Fr. 8 je Fall
+- 2\. für die nächsten 10 Prozent der Steuerpflichtigen — Fr. 13 je Fall
+- 3\. für Anteile über 20 Prozent der Steuerpflichtigen — Fr. 17 je Fall
 
 <sup>2</sup> Das zuständige Departement kann mit einzelnen Gemeinden Leistungsvereinbarungen betreffend eine über den Umfang von Abs. 1 hinausgehende Veranlagungstätigkeit vorsehen. Es bewilligt Inhalt und Umfang der Leistungsvereinbarung.
 
