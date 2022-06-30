@@ -3,49 +3,47 @@ canton: NW
 number: "741.412"
 title: Ausführungsbestimmungen betreffend die Aufsicht über die Stiftungen
 language: de
-version: 2019-09-01
-corrected: 2021-10-27
-version_adopted: 2019-06-03
+version: 2022-07-01
+version_adopted: 2022-05-23
 adopted: 2005-09-16
 in_force: 2006-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/741.412"
-pdf: "https://gesetze.nw.ch/api/de/versions/307/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1030/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen betreffend die Aufsicht über die Stiftungen
 
-vom 16. September 2005[^t-1]
+vom 16.09.2005 (Stand 01.07.2022)
 
-Der Konkordatsrat der Zentralschweizer BVG- und Stiftungsaufsicht (ZBSA), gestützt auf Art. 84 ZGB[^t-2] und Art. 52 des Schlusstitels ZGB sowie Art. 6 Bst. l des Konkordats über die Zentralschweizer BVG- und Stiftungsaufsicht vom 19. April 2004[^t-3],
+Der Konkordatsrat der Zentralschweizer BVG- und Stiftungsaufsicht (ZBSA),
+
+gestützt auf Art. 84 ZGB[^ingress-1] und Art. 52 des Schlusstitels ZGB sowie Art. 6 Bst. l des Konkordats über die Zentralschweizer BVG- und Stiftungsaufsicht vom 19. April 2004[^ingress-2],
 
 beschliesst:
 
-[^t-1]: A 2005, 1977
-[^t-2]: SR 210
-[^t-3]: NG 741.41
+[^ingress-1]: SR 210
+[^ingress-2]: NG 741.41
 
-### I. GELTUNGSBEREICH, ZUSTÄNDIGKEIT
+## 1 Geltungsbereich, Zuständigkeit
 
 #### § 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Ausführungsbestimmungen regeln die gesetzliche Aufsicht über die privaten Stiftungen im Sinne von Art. 80 ff. ZGB[^1-1] (sog. klassische Stiftungen), die nach ihrer Bestimmung den Kantonen Luzern, Schwyz, Nidwalden oder Zug angehören.
+<sup>1</sup> Diese Ausführungsbestimmungen regeln die gesetzliche Aufsicht über die privaten Stiftungen im Sinne von Art. 80 ff. ZGB[^1-1] (sog. klassische Stiftungen), die nach ihrer Bestimmung den Kantonen Luzern, Schwyz, Obwalden, Nidwalden oder Zug angehören.
 
-<sup>2</sup> Sie sind nicht anwendbar auf Familienstiftungen und kirchliche Stiftungen (Art. 87 ZGB) sowie auf Stiftungen, die der Aufsicht des Bundes unterstehen. Für Personalvorsorgestiftungen, die auf dem Gebiet der Alters-, Hinterlassenen- und Invalidenvorsorge tätig sind, und für Einrichtungen, die nach ihrem Zweck der beruflichen Vorsorge dienen, gelten die Ausführungsbestimmungen der ZBSA über die berufliche Vorsorge vom 16. September 2005[^1-2].[^1-3]
+<sup>2</sup> Sie sind nicht anwendbar auf Familienstiftungen und kirchliche Stiftungen (Art. 87 ZGB) sowie auf Stiftungen, die der Aufsicht des Bundes unterstehen. Für Personalvorsorgestiftungen, die auf dem Gebiet der Alters-, Hinterlassenen- und Invalidenvorsorge tätig sind, und für Einrichtungen, die nach ihrem Zweck der beruflichen Vorsorge dienen, gelten die Ausführungsbestimmungen der ZBSA über die berufliche Vorsorge vom 16. September 2005[^1-2].
 
 [^1-1]: SR 210
 [^1-2]: NG 741.411
-[^1-3]: Fassung gemäss Beschluss des Konkordatsrates ZBSA vom 3. Juni 2019, A 2019, 1356, in Kraft seit 1. September 2019
 
 #### § 2
 
 **Aufsichtsbehörde**
 
-Die Aufsicht über die Stiftungen im Sinne von Art. 84 Abs. 1 ZGB[^2-1] wird von der Geschäftsstelle des Konkordats über die Zentralschweizer BVG- und Stiftungsaufsicht (ZBSA; nachfolgend als Aufsichtsbehörde bezeichnet) ausgeübt.
+<sup>1</sup> Die Aufsicht über die Stiftungen im Sinne von Art. 84 Abs. 1 ZGB[^2-1] wird von der Geschäftsstelle des Konkordats über die Zentralschweizer BVG- und Stiftungsaufsicht (ZBSA; nachfolgend als Aufsichtsbehörde bezeichnet) ausgeübt.
 
 [^2-1]: SR 210
 
@@ -53,15 +51,13 @@ Die Aufsicht über die Stiftungen im Sinne von Art. 84 Abs. 1 ZGB[^2-1] wird von
 
 **Aufsichtsübernahme**
 
-<sup>1</sup> Bei der Eintragung einer Stiftung sorgt das jeweilige kantonale Handelsregisteramt dafür, dass jede Stiftung - mit Ausnahme der Familienstiftungen und der kirchlichen Stiftungen - der Aufsicht desjenigen Gemeinwesens unterstellt wird, dem sie nach ihrer Bestimmung angehört.
+<sup>1</sup> Bei der Eintragung einer Stiftung sorgt das jeweilige kantonale Handelsregisteramt dafür, dass jede Stiftung – mit Ausnahme der Familienstiftungen und der kirchlichen Stiftungen – der Aufsicht desjenigen Gemeinwesens unterstellt wird, dem sie nach ihrer Bestimmung angehört.
 
 <sup>2</sup> Das Handelsregisteramt macht der von ihm als zuständig erachteten Aufsichtsbehörde von der Errichtung der Stiftung unter Zustellung eines Handelsregisterauszuges sowie eines Doppels oder einer beglaubigten Abschrift der Stiftungsurkunde und allfälliger Reglemente Mitteilung. Nach Vorliegen der Verfügung der Aufsichtsbehörde betreffend die Übernahme der Stiftungsaufsicht wird die Aufsichtsbehörde im Handelsregister eingetragen.
 
-<sup>3</sup> Erachtet sich die ZBSA für unzuständig, überweist sie die Unterlagen an die ihrer Ansicht nach zuständige Aufsichtsbehörde.[^3-1]
+<sup>3</sup> Erachtet sich die ZBSA für unzuständig, überweist sie die Unterlagen an die ihrer Ansicht nach zuständige Aufsichtsbehörde.
 
-[^3-1]: Fassung gemäss Beschluss des Konkordatsrates ZBSA vom 3. Juni 2019, A 2019, 1356, in Kraft seit 1. September 2019
-
-### II. AUFGABEN DER AUFSICHTSBEHÖRDE
+## 2 Aufgaben der Aufsichtsbehörde
 
 #### § 4
 
@@ -69,7 +65,7 @@ Die Aufsicht über die Stiftungen im Sinne von Art. 84 Abs. 1 ZGB[^2-1] wird von
 
 <sup>1</sup> Der Aufsichtsbehörde obliegen alle Aufgaben, die ihr durch Bundesrecht und die einschlägigen Bestimmungen der Konkordatskantone zugewiesen werden, soweit diese der ZBSA die Stiftungsaufsicht übertragen haben. Beim Vollzug der Gesetzgebung ist sie für alle Massnahmen und Entscheide zuständig, die nicht ausdrücklich einer anderen Instanz vorbehalten werden.
 
-<sup>2</sup> Gemäss Art. 2 Abs. 3 des Konkordats[^4-1] nimmt die ZBSA für die Konkordatskantone, die ihr die Aufsicht über die Stiftungen übertragen haben, bezüglich der kantonalen und kommunalen Stiftungen auch die Aufgaben der Änderungsbehörde im Sinne von Art. 85, 86 und 86a ZGB[^4-2] wahr.[^4-3]
+<sup>2</sup> Gemäss Art. 2 Abs. 3 des Konkordats[^4-1] nimmt die ZBSA für die Konkordatskantone, die ihr die Aufsicht über die Stiftungen übertragen haben, bezüglich der kantonalen und kommunalen Stiftungen auch die Aufgaben der Änderungsbehörde im Sinne von Art. 85, 86 und 86a ZGB[^4-2] wahr.
 
 <sup>3</sup> Bei der Ausübung der Aufsicht respektiert die Aufsichtsbehörde die Selbständigkeit der Stiftungen und die Eigenverantwortung deren Organe. Sie trifft die erforderlichen Anordnungen, wenn die Organe nicht im Rahmen pflichtgemässen Ermessens handeln.
 
@@ -77,26 +73,20 @@ Die Aufsicht über die Stiftungen im Sinne von Art. 84 Abs. 1 ZGB[^2-1] wird von
 
 [^4-1]: NG 741.41
 [^4-2]: SR 210
-[^4-3]: Fassung gemäss Beschluss des Konkordatsrates ZBSA vom 3. Juni 2019, A 2019, 1356, in Kraft seit 1. September 2019
 
 #### § 5
 
 **Aufgaben im Besonderen**
 
-Die Aufsichtsbehörde prüft:
+<sup>1</sup> Die Aufsichtsbehörde prüft:
 
-- a. die Organisation der Stiftungen (Art. 83 ZGB[^5-1];
-
+- a. die Organisation der Stiftungen (Art. 83 ZGB[^5-1]);
 - b. die Verwendung des Stiftungsvermögens (Art. 84 Abs. 2 und 84a ZGB);
-
 - c. die Anlage des Stiftungsvermögens nach den Grundsätzen einer soliden Kapitalanlage, insbesondere der Sicherheit, der angemessenen Rendite, des Risikoausgleichs und der Liquidität;
-
 - d. die Übereinstimmung der vom Stiftungsrat erlassenen Reglemente mit der Stiftungsurkunde;
-
-e.[^5-2] die Gesuche von Stiftungen um Befreiung von der Pflicht, eine Revisionsstelle zu bezeichnen (Art. 83b Abs. 2 ZGB).
+- e. die Gesuche von Stiftungen um Befreiung von der Pflicht, eine Revisionsstelle zu bezeichnen (Art. 83b Abs. 2 ZGB).
 
 [^5-1]: SR 210
-[^5-2]: Fassung gemäss Beschluss des Konkordatsrates ZBSA vom 3. Juni 2019, A 2019, 1356, in Kraft seit 1. September 2019
 
 #### § 6
 
@@ -105,29 +95,21 @@ e.[^5-2] die Gesuche von Stiftungen um Befreiung von der Pflicht, eine Revisions
 <sup>1</sup> Stellt die Aufsichtsbehörde Mängel fest, trifft sie die zur Behebung erforderlichen Massnahmen. Zu diesem Zweck stehen ihr insbesondere folgende Aufsichtsmittel zur Verfügung:
 
 - a. die Erteilung von verbindlichen Weisungen an die Stiftungsorgane;
-
-- b. die Ermahnung, die Verwarnung und die Abberufung von Organen; c.[^6-1] die Einsetzung eines Sachwalters oder einer Sachwalterin;
-
+- b. die Ermahnung, die Verwarnung und die Abberufung von Organen;
+- c. die Einsetzung eines Sachwalters oder einer Sachwalterin;
 - d. die Einsetzung einer ausserordentlichen Revisionsstelle;
-
 - e. die Aufhebung und Änderung von Entscheiden der Organe;
-
 - f. die Anordnung von Expertisen;
-
 - g. die Ersatzvornahme;
-
-- h. die Strafandrohung wegen Ungehorsams gemäss Art. 292 StGB[^6-2];
-
-- i. die Prüfung der Geschäftsführung und des Rechnungswesens am Sitz der Stiftung.
-
-k.[^6-1] die Ernennung des fehlenden Organs.
+- h. die Strafandrohung wegen Ungehorsams gemäss Art. 292 StGB[^6-1];
+- i. die Prüfung der Geschäftsführung und des Rechnungswesens am Sitz der Stiftung;
+- k. die Ernennung des fehlenden Organs.
 
 <sup>2</sup> Die Aufsichtsbehörde kann von sich aus oder auf Anzeige Dritter jederzeit vom Stiftungsrat Auskunft und die Herausgabe sachdienlicher Unterlagen verlangen.
 
-[^6-1]: Fassung gemäss Beschluss des Konkordatsrates ZBSA vom 3. Juni 2019, A 2019, 1356, in Kraft seit 1. September 2019
-[^6-2]: SR 311.0
+[^6-1]: SR 311.0
 
-### III. AUFGABEN DER STIFTUNG
+## 3 Aufgaben der Stiftung
 
 #### § 7
 
@@ -135,35 +117,26 @@ k.[^6-1] die Ernennung des fehlenden Organs.
 
 <sup>1</sup> Jede Stiftung hat der Aufsichtsbehörde unaufgefordert alljährlich spätestens sechs Monate nach Abschluss des Rechnungsjahres folgende rechtskonform und original unterzeichnete Dokumente zur Prüfung und Kenntnisnahme einzureichen:
 
-a.[^7-1] die Jahresrechnung (Bilanz, Erfolgsrechnung und Anhang);
-
+- a. die Jahresrechnung (Bilanz, Erfolgsrechnung und Anhang);
 - b. den Bericht der Revisionsstelle;
-
 - c. den Bericht über die Tätigkeit der Stiftung;
-
 - d. das Genehmigungsprotokoll des Stiftungsrates.
 
 <sup>2</sup> Die Aufsichtsbehörde kann bei Bedarf weitere Unterlagen und Auskünfte verlangen, insbesondere in alle Dokumente, wie Bücher, Belege, Protokolle und Korrespondenzen Einsicht nehmen.
-
-[^7-1]: Fassung gemäss Beschluss des Konkordatsrates ZBSA vom 3. Juni 2019, A 2019, 1356, in Kraft seit 1. September 2019
 
 #### § 8
 
 **Mitteilungspflicht**
 
-Über neu erlassene oder geänderte Statuten und Reglemente sowie die Wahl von Mitgliedern der Organe ist die Aufsichtsbehörde sofort zu informieren.
+<sup>1</sup> Über neu erlassene oder geänderte Statuten und Reglemente sowie die Wahl von Mitgliedern der Organe ist die Aufsichtsbehörde sofort zu informieren.
 
-[^8-1]: Fassung gemäss Beschluss des Konkordatsrates ZBSA vom 3. Juni 2019, A 2019, 1356, in Kraft seit 1. September 2019
-
-### IV. ÄNDERUNG, UMWANDLUNG UND AUFHEBUNG DER STIFTUNG
-
-[^8-1]
+## 4 Änderung, Umwandlung und Aufhebung der Stiftung
 
 #### § 9
 
 **Zuständige Behörde**
 
-<sup>1</sup> Gestützt auf Art. 2 Abs. 3 des Konkordats[^9-1] ist die ZBSA für diejenigen Konkordatskantone, die ihr die Aufsicht über die klassischen Stiftungen übertragen haben, zuständig für die Änderung der Organisation oder des Zwecks einer Stiftung (Art. 85 ff. ZGB[^9-2] sowie für die Feststellung der Unerreichbarkeit des Zwecks beziehungsweise für die Aufhebung der Stiftung (Art. 88 Abs. 1 ZGB).
+<sup>1</sup> Gestützt auf Art. 2 Abs. 3 des Konkordats[^9-1] ist die ZBSA für diejenigen Konkordatskantone, die ihr die Aufsicht über die klassischen Stiftungen übertragen haben, zuständig für die Änderung der Organisation oder des Zwecks einer Stiftung (Art. 85 ff. ZGB[^9-2]) sowie für die Feststellung der Unerreichbarkeit des Zwecks beziehungsweise für die Aufhebung der Stiftung (Art. 88 Abs. 1 ZGB).
 
 <sup>2</sup> Die ZBSA nimmt für diejenigen Konkordatskantone, die ihr die Aufsicht über die Stiftungen übertragen haben, auch für die unter kommunaler Aufsicht stehenden Stiftungen die Aufgaben der Änderungs- und Umwandlungsbehörde im Sinne von Art. 85 ff. und 88 Abs. 1 ZGB wahr. Über alle anderen Änderungen verfügen die kommunalen Aufsichtsbehörden.
 
@@ -174,25 +147,21 @@ a.[^7-1] die Jahresrechnung (Bilanz, Erfolgsrechnung und Anhang);
 
 **Entscheide**
 
-<sup>1</sup> Gesuche betreffend die Änderung, die Umwandlung oder die Aufhebung einer Stiftung sind der ZBSA zum Entscheid zu unterbreiten. Ihre Verfügung hat konstitutive Wirkung.[^10-1]
+<sup>1</sup> Gesuche betreffend die Änderung oder die Umwandlung einer Stiftung sind der ZBSA zum Entscheid zu unterbreiten. Ihre Verfügung hat konstitutive Wirkung.
 
 <sup>2</sup> Handelt es sich um eine Stiftung unter kommunaler Aufsicht mit Sitz in einem Konkordatskanton, welcher der ZBSA die Aufsicht über die kantonalen Stiftungen übertragen hat, nimmt die zuständige kommunale Behörde als Aufsichtsbehörde das Gesuch der Stiftung entgegen und unterbreitet es mit einem entsprechenden Antrag der ZBSA zum Entscheid.
 
-[^10-1]: Fassung gemäss Beschluss des Konkordatsrates ZBSA vom 3. Juni 2019, A 2019, 1356, in Kraft seit 1. September 2019
-
-### IV. RECHTSPFLEGE
-
-[^hIVRECHTSPFLEGE-1]: Fassung gemäss Beschluss des Konkordatsrates ZBSA vom 3. Juni 2019, A 2019, 1356, in Kraft seit 1. September 2019
+## 5 Rechtspflege
 
 #### § 11
 
-**Entscheide der Aufsichtsbehörde[^hIVRECHTSPFLEGE-1]**
+**Entscheide der Aufsichtsbehörde**
 
-<sup>1</sup> Das Verfahren für den Erlass, die Abänderung oder die Aufhebung von Verfügungen und Entscheiden der ZBSA sowie das Rechtsmittelverfahren richten sich nach den Vorschriften des Standortkantons Luzern.
+<sup>1</sup> Das Verfahren für den Erlass, die Abänderung, die Umwandlung oder die Aufhebung von Verfügungen und Entscheiden der ZBSA sowie das Rechtsmittelverfahren richten sich nach den Vorschriften des Standortkantons Luzern.
 
 <sup>2</sup> Rechtsmittelinstanz ist das Kantonsgericht des Kantons Luzern.
 
-### V. GEBÜHREN
+## 6 Gebühren
 
 #### § 12
 
@@ -203,27 +172,26 @@ a.[^7-1] die Jahresrechnung (Bilanz, Erfolgsrechnung und Anhang);
 <sup>2</sup> Die Gebühren decken die Kosten und bestehen aus:
 
 - a. einer jährlichen Aufsichtsgebühr;
-
 - b. Gebühren für Verfügungen und Dienstleistungen.
 
-<sup>3</sup> Die jährliche Aufsichtsgebühr wird aufgrund des Bruttovermögens der Stiftung und die Gebühren für Verfügungen und Dienstleistungen werden nach effektivem Aufwand bemessen und den Stiftungen oder den Gesuchstellerinnen und Gesuchstellern in Rechnung gestellt.[^12-1]
-
-[^12-1]: Fassung gemäss Beschluss des Konkordatsrates ZBSA vom 3. Juni 2019, A 2019, 1356, in Kraft seit 1. September 2019
+<sup>3</sup> Die jährliche Aufsichtsgebühr wird aufgrund des Bruttovermögens der Stiftung und die Gebühren für Verfügungen und Dienstleistungen werden nach effektivem Aufwand bemessen und den Stiftungen oder den Gesuchstellerinnen und Gesuchstellern in Rechnung gestellt.
 
 #### § 13
 
 **Jährliche Aufsichtsgebühr**
 
-<sup>1</sup> Für die jährliche Prüfung der Berichte und Rechnungen wird eine Grundgebühr von 300 Franken zuzüglich 0,1 Promille des Bruttovermögens, abgerundet auf den nächsten vollen Franken, höchstens aber von 3'300 Franken erhoben.
+<sup>1</sup> Für die jährliche Prüfung der Berichte und Rechnungen wird eine Grundgebühr von 300 Franken zuzüglich 0.1 Promille des Bruttovermögens, abgerundet auf den nächsten vollen Franken, höchstens aber von 3'800 Franken erhoben.
 
 <sup>2</sup> Sind Abklärungen notwendig, die das übliche Mass übersteigen, darf die Gebühr auf maximal den doppelten Betrag erhöht werden.
 
 <sup>3</sup> In begründeten Fällen kann von der Erhebung der Gebühr abgesehen werden.
 
-### VI. SCHLUSSBESTIMMUNGEN
+## 7 Schlussbestimmungen
 
 #### § 14
 
 **Inkrafttreten**
 
-Diese Ausführungsbestimmungen über die Stiftungsaufsicht treten am 1. Januar 2006 in Kraft. Sie sind in den Publikationsorganen der Konkordatskantone zu veröffentlichen.
+<sup>1</sup> Diese Ausführungsbestimmungen über die Stiftungsaufsicht treten am 1. Januar 2006 in Kraft. Sie sind in den Publikationsorganen der Konkordatskantone zu veröffentlichen.
+
+A 2005, 1977
