@@ -4,11 +4,11 @@ title: Verordnung vom 31. Oktober 2018 über das Informationssystem Antibiotika 
 short: ISABV-V
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/702"
 language: de
-version: 2022-06-01
+version: 2022-07-01
 adopted: 2018-10-31
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2018-702-20220601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2018-702-20220701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20220601/de"
 
 (ISABV-V)
 
-vom 31. Oktober 2018 (Stand am 1. Juni 2022)
+vom 31. Oktober 2018 (Stand am 1. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 64*f* des Heilmittelgesetzes vom 15. Dezember 2000[^ingress-1] (HMG), auf Artikel 62 Absatz 6 des Lebensmittelgesetzes vom 20. Juni 2014[^ingress-2], auf Artikel 165*g* des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-3] sowie auf Artikel 54*a* Absatz 7 des Tierseuchengesetzes vom 1. Juli 1966[^ingress-4],
+gestützt auf Artikel 64*f* des Heilmittelgesetzes vom 15. Dezember 2000[^ingress-1] (HMG), auf Artikel 62 Absatz 6 des Lebensmittelgesetzes vom 20. Juni 2014[^ingress-2], auf Artikel 165*g* des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-3] sowie auf die Artikel 45*c* Absatz 1 und 53 Absatz 1 des Tierseuchengesetzes vom 1. Juli 1966[^ingress-4],[^ingress-5]
 
 verordnet:
 
@@ -29,6 +29,7 @@ verordnet:
 [^ingress-2]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^ingress-3]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^ingress-4]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^ingress-5]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
 
 #### Art. 1
 
@@ -56,7 +57,7 @@ Das IS ABV enthält folgende Daten:
 
   Vertriebsdaten zu Arzneimitteln mit antimikrobiellen Wirkstoffen (Antibiotika):
 
-  - 1\. Daten über die Inhaberin einer Zulassung für Antibiotika (Zulassungsinhaberin),
+  - 1\.[^2-1] Daten über die Betriebe mit einer Herstellungs- oder einer Grosshandelsbewilligung nach dem 2. Kapitel der Arzneimittel-Bewilligungsverordnung vom 14. November 2018[^2-2] (Betriebe mit Herstellungs- oder Grosshandelsbewilligung),
   - 2\. Daten über die Tierarztpraxis oder -klinik, über die Futtermühle oder über den Detailhandelsbetrieb, an die oder den die Antibiotika vertrieben werden,
   - 3\. Daten über die vertriebenen Antibiotika;
 
@@ -88,6 +89,9 @@ Das IS ABV enthält folgende Daten:
 
 <sup>2</sup> Der Datenkatalog ist im Anhang aufgeführt.
 
+[^2-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
+[^2-2]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+
 #### Art. 3
 
 **Zugriffsrechte**
@@ -106,22 +110,23 @@ Im Rahmen ihrer gesetzlichen Aufgaben können folgende Stellen und Personen Date
 - a. das Bundesamt für Landwirtschaft (BLW): Vertriebs- und Verbrauchsdaten;
 - b. die kantonalen Vollzugsbehörden und die von ihnen beauftragten Dritten: Vertriebs- und Verbrauchsdaten in ihrem jeweiligen Zuständigkeitsbereich;
 - c. die Tierärztinnen und Tierärzte: Verbrauchsdaten, die ihre Tierarztpraxis oder -klinik betreffen;
-- d. die Zulassungsinhaberinnen: Vertriebsdaten, die sie selbst betreffen.
+- d.[^3-1] die Betriebe mit Herstellungs- oder Grosshandelsbewilligung: Vertriebsdaten, die sie selbst betreffen.
 
-<sup>3</sup> Die Nutztierhalterinnen und Nutztierhalter können die Verbrauchsdaten nach Artikel 2 Absatz 1 Buchstabe b Ziffer 1, die sie selbst betreffen, online über die Tierverkehrsdatenbank (TVD) nach der der Verordnung vom 3. November 2021[^3-1] über die Identitas AG und die Tierverkehrsdatenbank abrufen. Nutztierhalterinnen und Nutztierhalter ohne Zugang zur TVD können die Daten vom BLV beziehen.[^3-2]
+<sup>3</sup> Die Nutztierhalterinnen und Nutztierhalter können die Verbrauchsdaten nach Artikel 2 Absatz 1 Buchstabe b Ziffer 1, die sie selbst betreffen, online über die Tierverkehrsdatenbank (TVD) nach der der Verordnung vom 3. November 2021[^3-2] über die Identitas AG und die Tierverkehrsdatenbank abrufen. Nutztierhalterinnen und Nutztierhalter ohne Zugang zur TVD können die Daten vom BLV beziehen.[^3-3]
 
-[^3-1]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^3-2]: Fassung gemäss Anhang 3 Ziff. II 4 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^3-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
+[^3-2]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^3-3]: Fassung gemäss Anhang 3 Ziff. II 4 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 4
 
 **Meldepflichten**
 
-<sup>1</sup> Die Zulassungsinhaberinnen müssen dem BLV periodisch, aber mindestens einmal jährlich jeweils auf den 30. Januar, die Vertriebsdaten nach Ziffer 1 des Anhangs melden.
+<sup>1</sup> Die Betriebe mit Herstellungs- oder Grosshandelsbewilligung müssen dem BLV periodisch, aber mindestens einmal jährlich jeweils auf den 30. Januar, die Vertriebsdaten nach dem Anhang Ziffer 1 melden.[^4-1]
 
 <sup>2</sup>
 
-Die Tierärztinnen und Tierärzte müssen dem BLV periodisch, aber mindestens jeweils auf den 20. des Folgemonats, die Verbrauchsdaten nach dem Anhang Ziffern 2.1.1–2.1.6 sowie 2.2 melden. Zu melden sind die Daten zu nicht topischen Antibiotika, die verbraucht werden:
+Die Tierärztinnen und Tierärzte müssen dem BLV periodisch, aber mindestens jeweils auf den 20. des Folgemonats, die Verbrauchsdaten nach dem Anhang Ziffern 2.1.1–2.1.6 sowie 2.2 melden. Die Anzahl Konsultationen nach dem Anhang Ziffer 2.2.1.5 muss jeweils bis am 20. Februar des Folgejahres gemeldet werden. Zu melden sind die Daten zu nicht topischen Antibiotika, die verbraucht werden:[^4-2]
 
 - a.
 
@@ -136,7 +141,7 @@ Die Tierärztinnen und Tierärzte müssen dem BLV periodisch, aber mindestens je
 
 <sup>3</sup> Die Meldungen nach den Absätzen 1 und 2 sind elektronisch mit der vom BLV zur Verfügung gestellten Formularvorlage zu übermitteln. Die Tierärztinnen und Tierärzte können die Verbrauchsdaten nach Absatz 2 Buchstabe a Ziffern 3 und 4 sowie Buchstabe b aus ihrer Praxissoftware an das BLV übermitteln, wenn die Meldung in Bezug auf Struktur und Form mit dem IS ABV kompatibel und die Übermittlung sicher ist.
 
-<sup>4</sup> Die Zulassungsinhaberinnen und die Tierärztinnen und Tierärzte müssen dem BLV die Daten nach den Absätzen 1 und 2 auf Verlangen jederzeit zur Verfügung stellen.
+<sup>4</sup> Die Betriebe mit Herstellungs- oder Grosshandelsbewilligung und die Tierärztinnen und Tierärzte müssen dem BLV die Daten nach den Absätzen 1 und 2 auf Verlangen jederzeit zur Verfügung stellen.[^4-3]
 
 <sup>5</sup>
 
@@ -145,22 +150,32 @@ Das Schweizerische Heilmittelinstitut übermittelt dem BLV:
 - a. jährlich eine Liste aller zugelassenen Antibiotika mit den verfügbaren Packungsgrössen;
 - b. laufend die Neuzulassungen und Zulassungsänderungen von Antibiotika.
 
+[^4-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
+[^4-2]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
+[^4-3]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
+
 #### Art. 5
 
 **Daten aus anderen Informationssystemen**
 
-<sup>1</sup> Die Daten über die Zulassungsinhaberinnen und über die Tierarztpraxen und ‑kliniken können aus dem UID-Register nach der Verordnung vom 26. Januar 2011[^5-1] über die Unternehmens-Identifikationsnummer bezogen werden.
+<sup>1</sup> Die Daten über die Betriebe mit Herstellungs- oder Grosshandelsbewilligung können aus dem UID-Register nach der Verordnung vom 26. Januar 2011[^5-1] über die Unternehmens-Identifikationsnummer, die Daten über die Tierarztpraxen und -kliniken aus dem UID-Register und aus dem Betriebs- und Unternehmensregister (BUR) nach der Verordnung vom 30. Juni 1993[^5-2] über das Betriebs- und Unternehmensregister bezogen werden.[^5-3]
 
-<sup>2</sup> Die Daten über die Nutztierhaltungen, denen Antibiotika abgegeben werden, und über die Tiere, denen Antibiotika verabreicht werden, können aus der TVD bezogen werden. Sind diese Daten in der TVD nicht enthalten, so können sie aus dem Informationssystem für Betriebs-, Struktur- und Beitragsdaten nach der Verordnung vom 23. Oktober 2013[^5-2] über Informationssysteme im Bereich der Landwirtschaft bezogen werden.
+<sup>2</sup> Die Daten über die Nutztierhaltungen, denen Antibiotika abgegeben werden, und über die Tiere, denen Antibiotika verabreicht werden, können aus der TVD bezogen werden. Sind diese Daten in der TVD nicht enthalten, so können sie aus dem Informationssystem für Betriebs-, Struktur- und Beitragsdaten nach der Verordnung vom 23. Oktober 2013[^5-4] über Informationssysteme im Bereich der Landwirtschaft bezogen werden.
 
 <sup>3</sup> Die Daten zu den zugelassenen Antibiotika können aus dem elektronischen Verzeichnis nach Artikel 67 Absatz 3 HMG bezogen werden.
 
-<sup>4</sup> Zudem kann das IS ABV Daten beziehen aus dem Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes (ASAN), dem Informationssystem für Resultate von Kontrollen und Untersuchungen (ARES) und dem Informationssystem für die Ergebnisse der Schlachttier- und Fleischuntersuchungen (Fleko) nach der Verordnung vom 27. April 2022[^5-3] über Informationssysteme des BLV für die Lebensmittelkette.[^5-4]
+<sup>4</sup> Zudem kann das IS ABV Daten beziehen aus dem Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes (ASAN), dem Informationssystem für Resultate von Kontrollen und Untersuchungen (ARES) und dem Informationssystem für die Ergebnisse der Schlachttier- und Fleischuntersuchungen (Fleko) nach der Verordnung vom 27. April 2022[^5-5] über Informationssysteme des BLV für die Lebensmittelkette.[^5-6]
+
+<sup>5</sup> Das IS ABV kann zum elektronischen Abgleich von Daten mit dem Medizinalberuferegister nach der Registerverordnung MedBG vom 5. April 2017[^5-7] verbunden werden. Beim Datenabgleich wird geprüft, ob die für die Verschreibung, Abgabe oder Anwendung von Antibiotika erforderlichen Bewilligungen und gegebenenfalls das Fertigkeitszeugnis «fachtechnisch verantwortliche Tierärztin» oder «fachtechnisch verantwortlicher Tierarzt» (FTVT) vorliegen.[^5-8]
 
 [^5-1]: [SR 431.031](https://fedlex.data.admin.ch/eli/cc/2011/81)
-[^5-2]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^5-3]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^5-4]: Eingefügt durch Anhang 4 Ziff. II 3 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^5-2]: [SR 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
+[^5-3]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
+[^5-4]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^5-5]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^5-6]: Eingefügt durch Anhang 4 Ziff. II 3 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^5-7]: [SR 811.117.3](https://fedlex.data.admin.ch/eli/cc/2017/279)
+[^5-8]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
 
 #### Art. 6
 
@@ -242,11 +257,13 @@ Das BLV sorgt dafür, dass die Bestimmungen zum Datenschutz eingehalten werden. 
 
 **Berichtigung von Daten**
 
-<sup>1</sup> Die Zulassungsinhaberinnen und die Tierärztinnen und Tierärzte sind für die Berichtigung von falschen Meldungen verantwortlich.
+<sup>1</sup> Die Betriebe mit Herstellungs- oder Grosshandelsbewilligung und die Tierärztinnen und Tierärzte sind für die Berichtigung von falschen Meldungen verantwortlich.[^14-1]
 
 <sup>2</sup> Stellen sie fest, dass sie unrichtige Daten gemeldet haben, so übermitteln sie eine Korrekturmeldung an das BLV.
 
 <sup>3</sup> Stellen Nutztierhalterinnen und Nutztierhalter fest, dass zu ihrer Tierhaltung unrichtige Verbrauchsdaten gemeldet wurden, so können sie die Berichtigung der Daten durch die Tierärztin oder den Tierarzt verlangen.
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
 
 #### Art. 15
 
@@ -287,9 +304,13 @@ Das BLV erlässt technische Weisungen namentlich betreffend:
 
 **Bezug von Daten aus dem IS ABV**[^18-1]
 
-Die Informationssysteme ASAN, ARES und Fleko können Daten aus dem IS ABV beziehen.
+<sup>1</sup> Die Informationssysteme ASAN, ARES und Fleko können Daten aus dem IS ABV beziehen.
+
+<sup>2</sup> Die Daten zu Tierarztpraxen und -kliniken aus dem IS ABV können für den elektronischen Abgleich mit den nach den Artikeln 7‒7*b* der Tierarzneimittelverordnung vom 18. August 2004[^18-2] im Rahmen einer Meldung beziehungsweise eines Bewilligungsgesuchs gemeldeten Daten verwendet werden.[^18-3]
 
 [^18-1]: Fassung gemäss Anhang 4 Ziff. II 3 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^18-2]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^18-3]: Eingefügt durch Ziff. III 3 der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 19
 
@@ -313,33 +334,36 @@ Das Eidgenössische Departement des Innern kann nach Anhörung der interessierte
 
 <sup>2</sup> Artikel 4 Absatz 2 Buchstabe a Ziffern 3 und 4 sowie Buchstabe b tritt am 1. Oktober 2019 in Kraft.
 
-Anhang
+Anhang*[^t-1]*
 
 (Art. 2 Abs. 2, 4 Abs. 1 und 2 sowie 19)
 
 ## Datenkatalog
 
+[^t-1]: Fassung gemäss Ziff. II der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
+
 ### 1 Vertriebsdaten
 
-### 1.1 Zulassungsinhaberin
+### 1.1 Betriebe mit Herstellungs- oder Grosshandelsbewilligung
 
-- – Name des Unternehmens
-- – Adresse
+- 1\. Name des Unternehmens
+- 2\. Adresse
 
 ### 1.2 Tierarztpraxis oder -klinik, Futtermühle oder Detailhandelsbetrieb, an die oder den das Antibiotikum vertrieben wird
 
-- – Name
-- – Global Location Number (GLN) oder, wenn keine GLN vorhanden ist, Kundennummer
+- 1\. Name
+- 2\. Global Location Number (GLN) oder, wenn keine GLN vorhanden ist, Kundennummer
+- 3\. BUR-Nummer
 
-### 1.3 Präparat
+### 1.3 Arzneimittel (Präparat)
 
-- – Handelsname
-- – Zulassungsnummer
-- – Packungsgrösse
+- 1\. Bezeichnung des Präparats
+- 2\. Zulassungsnummer
+- 3\. Packungsgrösse
 
 ### 1.4 Verkaufte Menge
 
-- – Anzahl Packungen pro Präparat und Packungsgrösse pro Tierarztpraxis oder -klinik, Futtermühle oder Detailhandelsbetrieb
+- 1\. Anzahl Packungen pro Präparat und Packungsgrösse pro Tierarztpraxis oder -klinik, Futtermühle oder Detailhandelsbetrieb
 
 ### 2 Verbrauchsdaten zu nicht topischen Antibiotika
 
@@ -347,91 +371,94 @@ Anhang
 
 ### 2.1.1 Tierarztpraxis oder -klinik, die das Antibiotikum verschreibt, abgibt oder anwendet
 
-- – Name und Adresse der Tierarztpraxis oder -klinik
-- – Unternehmens-Identifikationsnummer (UID) der Tierarztpraxis oder ‑klinik
+- 1\. Name und Adresse
+- 2\. Unternehmens-Identifikationsnummer (UID)
+- 3\. BUR-Nummer sowie allenfalls Bezeichnung der Abteilung der Tierklinik
+- 4\. Berufsausübungsbewilligung, kantonale Bewilligung zur Abgabe von Arzneimitteln, Fertigkeitszeugnis FTVT: ja oder nein
+- 5\. Optional: Name der Person, die das Antibiotikum verschreibt, abgibt oder anwendet
 
 ### 2.1.2 Nutztierhaltung, der das Antibiotikum abgegeben oder deren Tieren das Antibiotikum verabreicht wird
 
-- – Name und Adresse der Nutztierhaltung
-- – TVD-Nummer der Nutztierhaltung oder, bei Tierhaltungen ohne TVD-Nummer, IS-ABV-Nummer
+- 1\. Name und Adresse
+- 2\. TVD-Nummer oder, bei Tierhaltungen ohne TVD-Nummer, IS-ABV-Nummer
 
 ### 2.1.3 Orale Gruppentherapie
 
 ### 2.1.3.1 Tiere, denen das Antibiotikum verabreicht wird
 
-- – Nutzungskategorie
-- – Identifikation der Gruppe
+- 1\. Nutzungskategorie
+- 2\. Identifikation der Gruppe
 
 ### 2.1.3.2 Daten zur Verschreibung, Abgabe und Anwendung des Antibiotikums
 
-- – eindeutige Rezeptnummer
-- – Konsultationsdatum
-- – Anzahl zu therapierende Tiere pro Verschreibung
-- – Gewicht pro Tier
-- – Masttageszuwachs
-- – Indikation
-- – Name des Präparats
-- – Fütterungsart
-- – Anzahl Behandlungstage
-- – Dosierung pro Tier und Tag
-- – Verabreichungsmodus
-- – Futter pro Tier und Tag respektive pro Herde und Tag
-- – Bei Fütterungsarzneimitteln: Futtertyp, Herstellerbetrieb und Futtermittel sowie bestellte Menge
-- – Bei Arzneimittelvormischungen: abgegebene Menge
-- – Anweisungen und Bemerkungen an die Tierhalterin oder den Tierhalter
+- 1\. Eindeutige Rezeptnummer
+- 2\. Konsultationsdatum
+- 3\. Anzahl zu therapierende Tiere pro Verschreibung
+- 4\. Durchschnittliches Gewicht pro Tier
+- 5\. Masttageszuwachs
+- 6\. Indikation
+- 7\. Bezeichnung des Präparats
+- 8\. Fütterungsart
+- 9\. Anzahl Behandlungstage
+- 10\. Dosierung pro Tier und Tag
+- 11\. Verabreichungsmodus
+- 12\. Futter pro Tier und Tag respektive pro Herde und Tag
+- 13\. Bei Fütterungsarzneimitteln: Futtertyp, Herstellerbetrieb und Futtermittel sowie bestellte Menge
+- 14\. Bei Arzneimittelvormischungen: abgegebene Menge
+- 15\. Anweisungen und Bemerkungen an die Tierhalterin oder den Tierhalter
 
 ### 2.1.4 Nicht orale Gruppentherapie
 
 ### 2.1.4.1 Tiere, denen das Antibiotikum verabreicht wird
 
-- – Nutzungskategorie
+- 1\. Nutzungskategorie
 
 ### 2.1.4.2 Daten zur Verschreibung, Abgabe und Anwendung des Antibiotikums
 
-- – eindeutige Verschreibungsnummer
-- – Konsultationsdatum
-- – Abgabedatum
-- – Anzahl zu therapierende Tiere pro Verschreibung
-- – Gewicht pro Tier
-- – Indikation
-- – Name des Präparats
-- – Anzahl Behandlungstage
-- – Applikationsmenge pro Tier pro Verabreichung
-- – Verabreichungsmodus
-- – Abgegebene Menge
+- 1\. Eindeutige Verschreibungsnummer
+- 2\. Konsultationsdatum
+- 3\. Abgabedatum
+- 4\. Anzahl zu therapierende Tiere pro Verschreibung
+- 5\. Durchschnittliches Gewicht pro Tier
+- 6\. Indikation
+- 7\. Bezeichnung des Präparats
+- 8\. Anzahl Behandlungstage
+- 9\. Applikationsmenge pro Tier pro Verabreichung
+- 10\. Verabreichungsmodus
+- 11\. Abgegebene Menge
 
 ### 2.1.5 Einzeltiertherapie
 
 ### 2.1.5.1 Tier, dem das Antibiotikum verabreicht wird
 
-- – Nutztier
-- – Tierart und Nutzungskategorie
+- 1\. Nutztier
+- 2\. Tierart und Nutzungskategorie
 
 ### 2.1.5.2 Daten zur Verschreibung, Abgabe und Anwendung des Antibiotikums
 
-- – eindeutige Verschreibungsnummer
-- – Konsultationsdatum
-- – Abgabedatum
-- – Indikation
-- – Name des Präparats
-- – Anzahl Behandlungstage
-- – Applikationsmenge pro Verabreichung
-- – Verabreichungsmodus
-- – Benötigte Gesamtmenge des Präparats
-- – Abgegebene Menge
+- 1\. Eindeutige Verschreibungsnummer
+- 2\. Konsultationsdatum
+- 3\. Abgabedatum
+- 4\. Indikation
+- 5\. Bezeichnung des Präparats
+- 6\. Anzahl Behandlungstage
+- 7\. Applikationsmenge pro Verabreichung
+- 8\. Verabreichungsmodus
+- 9\. Benötigte Gesamtmenge des Präparats
+- 10\. Abgegebene Menge
 
 ### 2.1.6 Abgabe auf Vorrat
 
 ### 2.1.6.1 Tier, dem das Antibiotikum verabreicht werden soll
 
-- – Tierart
+- 1\. Tierart
 
 ### 2.1.6.2 Daten zur Verschreibung, Abgabe und Anwendung des Antibiotikums
 
-- – eindeutige Verschreibungsnummer
-- – Abgabedatum
-- – Name des Präparats
-- – Abgegebene Menge
+- 1\. Eindeutige Verschreibungsnummer
+- 2\. Abgabedatum
+- 3\. Bezeichnung des Präparats
+- 4\. Abgegebene Menge
 
 ### 2.1.7 Vergleichsdaten
 
@@ -442,50 +469,53 @@ Anhang
 
 ### 2.2.1 Tierarztpraxis oder -klinik, die das Antibiotikum verschreibt, abgibt oder anwendet
 
-- – Name und Adresse der Tierarztpraxis oder -klinik
-- – UID der Tierarztpraxis oder -klinik
-- – Anzahl Konsultationen pro Tierart pro Jahr
+- 1\. Name und Adresse
+- 2\. UID
+- 3\. BUR-Nummer sowie allenfalls Bezeichnung der Abteilung der Tierklinik
+- 4\. Berufsausübungsbewilligung, kantonale Bewilligung zur Abgabe von Arzneimitteln, Fertigkeitszeugnis FTVT: ja oder nein
+- 5\. Anzahl Konsultationen pro Tierart pro Jahr
+- 6\. Optional: Name der Person, die das Antibiotikum verschreibt, abgibt oder anwendet
 
 ### 2.2.2 Tier, dem das Antibiotikum verabreicht wird
 
-- – Heimtier oder Nutzequide
-- – Tierart
+- 1\. Heimtier oder Nutzequide
+- 2\. Tierart
 
 ### 2.2.3 Daten zur Verschreibung, Abgabe und Anwendung des Antibiotikums
 
-- – eindeutige Verschreibungsnummer
-- – Konsultationsdatum
-- – Abgabedatum
-- – Gewicht des Tiers
-- – Indikation
-- – Name des Präparats
-- – Anzahl Behandlungstage
-- – Applikationsmenge pro Verabreichung
-- – Verabreichungsmodus
-- – Benötigte Gesamtmenge des Präparats
-- – Abgegebene Menge
+- 1\. Eindeutige Verschreibungsnummer
+- 2\. Konsultationsdatum
+- 3\. Abgabedatum
+- 4\. Gewicht des Tiers
+- 5\. Indikation
+- 6\. Bezeichnung des Präparats
+- 7\. Anzahl Behandlungstage
+- 8\. Applikationsmenge pro Verabreichung
+- 9\. Verabreichungsmodus
+- 10\. Benötigte Gesamtmenge des Präparats
+- 11\. Abgegebene Menge
 
 ### 3 Zulassungsdaten zu den Antibiotika
 
-- – Zulassungsinhaberin
-- – Handelsname des Präparats
-- – Zulassungsnummer
-- – ATCvet-Code[^annexu1-lvlu1-lvl3-1]
-- – Zieltierart
-- – Galenische Form
-- – Wirkstoffmenge pro Einheit
-- – Packungsgrössen
-- – Dosierungsempfehlung
-- – Absetzfrist
+- 1\. Zulassungsinhaberin
+- 2\. Bezeichnung des Präparats
+- 3\. Zulassungsnummer
+- 4\. ATCvet-Code[^annexu1-lvlu1-lvl3-1]
+- 5\. Zieltierart
+- 6\. Galenische Form
+- 7\. Wirkstoffmenge pro Einheit
+- 8\. Packungsgrössen
+- 9\. Dosierungsempfehlung
+- 10\. Absetzfrist
 
 [^annexu1-lvlu1-lvl3-1]: Der ATCvet-Code (Anatomical Therapeutic Chemical Classification system for veterinary medicinal products) kann auf Englisch (offizielle Fassung) auf der Webseite des WHO Collaborating Centre for Drug Statistics Methodology unter folgender Adresse abgerufen werden: www.whocc.no/ATCvet &gt; ATCvet Index.
 
 ### 4 Systemdaten
 
-- – Angaben zum Meldeeingang bei elektronischer Übermittlung
-- – Logdateien des Systems
+- 1\. Angaben zum Meldeeingang bei elektronischer Übermittlung
+- 2\. Logdateien des Systems
 
 ### 5 Anwenderdaten
 
-- – Identifikation der Anwenderin oder des Anwenders
-- – Rolle der Anwenderin oder des Anwenders
+- 1\. Identifikation der Anwenderin oder des Anwenders
+- 2\. Rolle der Anwenderin oder des Anwenders
