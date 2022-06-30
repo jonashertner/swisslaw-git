@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. Dezember 1987 über das Internationale Privatrecht (
 short: IPRG
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776"
 language: de
-version: 2022-01-01
+version: 2022-07-01
 adopted: 1987-12-18
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20220701/de/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20220701-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20220101/de"
 
 (IPRG)
 
-vom 18. Dezember 1987 (Stand am 1. Januar 2022)
+vom 18. Dezember 1987 (Stand am 1. Juli 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -117,7 +117,7 @@ Das Gericht, bei dem die Hauptklage hängig ist, beurteilt auch die Widerklage, 
 
 [^8a-1]: Eingefügt durch Art. 3 Ziff. 3 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), in Kraft seit 1. Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
-### IX. Streitver- kündungsklage
+### IX. Streitverkündungsklage
 
 #### Art. 8b
 
@@ -530,11 +530,14 @@ Eine im Ausland ausgesprochene Verschollen- oder Todeserklärung wird in der Sch
 
 #### Art. 43
 
-<sup>1</sup> Die schweizerischen Behörden sind für die Eheschliessung zuständig, wenn die Braut oder der Bräutigam in der Schweiz Wohnsitz oder das Schweizer Bürgerrecht hat.
+<sup>1</sup> Die schweizerischen Behörden sind für die Eheschliessung zuständig, wenn einer der Verlobten in der Schweiz Wohnsitz oder das Schweizer Bürgerrecht hat.[^43-1]
 
-<sup>2</sup> Ausländischen Brautleuten ohne Wohnsitz in der Schweiz kann durch die zuständige Behörde die Eheschliessung in der Schweiz auch bewilligt werden, wenn die Ehe im Wohnsitz- oder im Heimatstaat beider Brautleute anerkannt wird.
+<sup>2</sup> Ausländischen Verlobten ohne Wohnsitz in der Schweiz kann durch die zuständige Behörde die Eheschliessung in der Schweiz auch bewilligt werden, wenn die Ehe im Wohnsitz- oder im Heimatstaat beider Verlobten anerkannt wird.[^43-2]
 
 <sup>3</sup> Die Bewilligung darf nicht allein deshalb verweigert werden, weil eine in der Schweiz ausgesprochene oder anerkannte Scheidung im Ausland nicht anerkannt wird.
+
+[^43-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^43-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### II. Anwendbares Recht
 
@@ -552,12 +555,12 @@ Die Eheschliessung in der Schweiz untersteht schweizerischem Recht.
 
 <sup>1</sup> Eine im Ausland gültig geschlossene Ehe wird in der Schweiz anerkannt.
 
-<sup>2</sup> Sind Braut oder Bräutigam Schweizer Bürger oder haben beide Wohnsitz in der Schweiz, so wird die im Ausland geschlossene Ehe anerkannt, wenn der Abschluss nicht in der offenbaren Absicht ins Ausland verlegt worden ist, die Vorschriften des schweizerischen Rechts über die Eheungültigkeit zu umgehen.[^45-1]
+<sup>2</sup> Ist einer der Verlobten Schweizer Bürger oder haben beide Wohnsitz in der Schweiz, so wird die im Ausland geschlossene Ehe anerkannt, wenn der Abschluss nicht in der offenbaren Absicht ins Ausland verlegt worden ist, die Vorschriften des schweizerischen Rechts über die Eheungültigkeit zu umgehen.[^45-1]
 
-<sup>3</sup> Eine im Ausland gültig geschlossene Ehe zwischen Personen gleichen Geschlechts wird in der Schweiz als eingetragene Partnerschaft anerkannt.[^45-2]
+<sup>3</sup> …[^45-2]
 
-[^45-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 26. Juni 1998, in Kraft seit 1. Jan. 2000 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
-[^45-2]: Eingefügt durch Anhang Ziff. 17 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^45-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); BBl **201****9** 8595; **2020** 1273).
+[^45-2]: Eingefügt durch Anhang Ziff. 17 des Partnerschaftsgesetzes vom 18. Juni 2004 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)). Aufgehoben durch Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), mit Wirkung seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); BBl **20****19** 8595; **2020** 1273).
 
 ### IV. Ungültigerklärung der Ehe
 
@@ -615,7 +618,14 @@ Für die Unterhaltspflicht zwischen Ehegatten gilt das Haager Übereinkommen vom
 
 #### Art. 50
 
-Ausländische Entscheidungen oder Massnahmen über die ehelichen Rechte und Pflichten werden in der Schweiz anerkannt, wenn sie im Staat des Wohnsitzes oder des gewöhnlichen Aufenthaltes eines der Ehegatten ergangen sind.
+[^50-1]
+
+Ausländische Entscheidungen oder Massnahmen über die ehelichen Rechte und Pflichten werden in der Schweiz anerkannt, wenn sie:
+
+- a. im Staat des Wohnsitzes oder des gewöhnlichen Aufenthalts eines der Ehegatten ergangen sind; oder
+- b. im Staat der Eheschliessung ergangen sind und es unmöglich oder unzumutbar war, die Klage in einem der in Buchstabe a bezeichneten Staaten zu erheben.
+
+[^50-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### 3. Abschnitt: Ehegüterrecht
 
@@ -626,8 +636,10 @@ Ausländische Entscheidungen oder Massnahmen über die ehelichen Rechte und Pfli
 Für Klagen oder Massnahmen betreffend die güterrechtlichen Verhältnisse sind zuständig:
 
 - a. für die güterrechtliche Auseinandersetzung im Falle des Todes eines Ehegatten die schweizerischen Gerichte oder Behörden, die für die erbrechtliche Auseinandersetzung zuständig sind (Art. 86–89);
-- b. für die güterrechtliche Auseinandersetzung im Falle einer gerichtlichen Auflösung oder Trennung der Ehe die schweizerischen Gerichte, die hierfür zuständig sind (Art. 59, 60, 63, 64);
+- b.[^51-1] für die güterrechtliche Auseinandersetzung im Falle einer gerichtlichen Auflösung oder Trennung der Ehe die schweizerischen Gerichte, die hierfür zuständig sind (Art. 59, 60, 60*a*, 63, 64);
 - c. in den übrigen Fällen die schweizerischen Gerichte oder Behörden, die für Klagen oder Massnahmen betreffend die Wirkungen der Ehe zuständig sind (Art. 46, 47).
+
+[^51-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### II. Anwendbares Recht
 
@@ -639,7 +651,18 @@ Für Klagen oder Massnahmen betreffend die güterrechtlichen Verhältnisse sind 
 
 <sup>1</sup> Die güterrechtlichen Verhältnisse unterstehen dem von den Ehegatten gewählten Recht.
 
-<sup>2</sup> Die Ehegatten können wählen zwischen dem Recht des Staates, in dem beide ihren Wohnsitz haben oder nach der Eheschliessung haben werden, und dem Recht eines ihrer Heimatstaaten. Artikel 23 Absatz 2 ist nicht anwendbar.
+<sup>2</sup>
+
+Die Ehegatten können wählen zwischen:
+
+- a. dem Recht des Staates, in dem beide ihren Wohnsitz haben oder nach der Eheschliessung haben werden;
+- b. dem Recht des Ortes der Eheschliessung; und
+- c. dem Recht eines ihrer Heimatstaaten.[^52-1]
+
+<sup>3</sup> Artikel 23 Absatz 2 ist nicht anwendbar.[^52-2]
+
+[^52-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^52-2]: Eingefügt durch Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### b. Modalitäten
 
@@ -724,6 +747,16 @@ Für Klagen auf Scheidung oder Trennung sind zuständig:
 
 Haben die Ehegatten keinen Wohnsitz in der Schweiz und ist einer von ihnen Schweizer Bürger, so sind die Gerichte am Heimatort für Klagen auf Scheidung oder Trennung der Ehe zuständig, wenn es unmöglich oder unzumutbar ist, die Klage am Wohnsitz eines der Ehegatten zu erheben.
 
+### 3. Zuständigkeit am Eheschliessungsort
+
+#### Art. 60a
+
+[^60a-1]
+
+Haben die Ehegatten keinen Wohnsitz in der Schweiz und ist keiner von ihnen Schweizer Bürger, so sind die schweizerischen Gerichte am Ort der Eheschliessung für Klagen auf Scheidung oder Trennung zuständig, wenn es unmöglich oder unzumutbar ist, die Klage am Wohnsitz eines der Ehegatten zu erheben.
+
+[^60a-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+
 ### II. Anwendbares Recht
 
 #### Art. 61
@@ -762,20 +795,27 @@ Scheidung und Trennung unterstehen schweizerischem Recht.
 
 #### Art. 64
 
-<sup>1</sup> Die schweizerischen Gerichte sind für Klagen auf Ergänzung oder Abänderung von Entscheidungen über die Scheidung oder die Trennung zuständig, wenn sie diese selbst ausgesprochen haben oder wenn sie nach Artikel 59 oder 60 zuständig sind. Die Bestimmungen dieses Gesetzes über den Minderjährigenschutz (Art. 85) sind vorbehalten.
+<sup>1</sup> Die schweizerischen Gerichte sind für Klagen auf Ergänzung oder Abänderung von Entscheidungen über die Scheidung oder die Trennung zuständig, wenn sie diese selbst ausgesprochen haben oder wenn sie nach Artikel 59, 60 oder 60*a* zuständig sind.[^64-1] Die Bestimmungen dieses Gesetzes über den Minderjährigenschutz (Art. 85) sind vorbehalten.
 
-<sup>1bis</sup> Für den Ausgleich von Vorsorgeansprüchen gegenüber einer schweizerischen Einrichtung der beruflichen Vorsorge sind die schweizerischen Gerichte ausschliesslich zuständig. Fehlt eine Zuständigkeit nach Absatz 1, so sind die schweizerischen Gerichte am Sitz der Vorsorgeeinrichtung zuständig.[^64-1]
+<sup>1bis</sup> Für den Ausgleich von Vorsorgeansprüchen gegenüber einer schweizerischen Einrichtung der beruflichen Vorsorge sind die schweizerischen Gerichte ausschliesslich zuständig. Fehlt eine Zuständigkeit nach Absatz 1, so sind die schweizerischen Gerichte am Sitz der Vorsorgeeinrichtung zuständig.[^64-2]
 
-<sup>2</sup> Die Ergänzung oder Abänderung eines Trennungs- oder Scheidungsurteils untersteht schweizerischem Recht.[^64-2] Die Bestimmungen dieses Gesetzes über den Namen (Art. 37–40), die Unterhaltspflicht der Ehegatten (Art. 49), das eheliche Güterrecht (Art. 52–57), die Wirkungen des Kindesverhältnisses (Art. 82 und 83) und den Minderjährigenschutz (Art. 85) sind vorbehalten.
+<sup>2</sup> Die Ergänzung oder Abänderung eines Trennungs- oder Scheidungsurteils untersteht schweizerischem Recht.[^64-3] Die Bestimmungen dieses Gesetzes über den Namen (Art. 37–40), die Unterhaltspflicht der Ehegatten (Art. 49), das eheliche Güterrecht (Art. 52–57), die Wirkungen des Kindesverhältnisses (Art. 82 und 83) und den Minderjährigenschutz (Art. 85) sind vorbehalten.
 
-[^64-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^64-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^64-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^64-2]: Eingefügt durch Anhang Ziff. 3 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^64-3]: Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 ### VI. Ausländische Entscheidungen
 
 #### Art. 65
 
-<sup>1</sup> Ausländische Entscheidungen über die Scheidung oder Trennung werden in der Schweiz anerkannt, wenn sie im Staat des Wohnsitzes, des gewöhnlichen Aufenthalts oder im Heimatstaat eines Ehegatten ergangen sind oder wenn sie in einem dieser Staaten anerkannt werden.
+<sup>1</sup>
+
+Ausländische Entscheidungen über die Scheidung oder Trennung werden in der Schweiz anerkannt, wenn sie:
+
+- a. im Staat des Wohnsitzes, des gewöhnlichen Aufenthalts oder im Heimatstaat eines der Ehegatten ergangen sind;
+- b. in einem der in Buchstabe a bezeichneten Staaten anerkannt werden; oder
+- c. im Staat der Eheschliessung ergangen sind und es unmöglich oder unzumutbar war, die Klage in einem der in Buchstabe a bezeichneten Staaten zu erheben.[^65-1]
 
 <sup>2</sup>
 
@@ -784,6 +824,8 @@ Ist jedoch die Entscheidung in einem Staat ergangen, dem kein oder nur der klage
 - a. wenn im Zeitpunkt der Klageeinleitung wenigstens ein Ehegatte in diesem Staat Wohnsitz oder gewöhnlichen Aufenthalt hatte und der beklagte Ehegatte seinen Wohnsitz nicht in der Schweiz hatte;
 - b. wenn der beklagte Ehegatte sich der Zuständigkeit des ausländischen Gerichts vorbehaltlos unterworfen hat, oder
 - c. wenn der beklagte Ehegatte mit der Anerkennung der Entscheidung in der Schweiz einverstanden ist.
+
+[^65-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ## 3*a*. Kapitel:**** Eingetragene Partnerschaft****
 
@@ -798,32 +840,31 @@ Ist jedoch die Entscheidung in einem Staat ergangen, dem kein oder nur der klage
 
 [^65a-1]
 
-Die Bestimmungen des dritten Kapitels gelten für die eingetragene Partnerschaft sinngemäss, mit Ausnahme von Artikel 43 Absatz 2.
+Die Bestimmungen des dritten Kapitels gelten für die eingetragene Partnerschaft sinngemäss.
 
-[^65a-1]: Fassung gemäss Ziff. I 5 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangs‑ heiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-
-### II. Zuständigkeit am Eintragungsort bei Auflösung
+[^65a-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 65b
 
-Haben die Partnerinnen oder Partner keinen Wohnsitz in der Schweiz und ist keine oder keiner von ihnen Schweizer Bürger, so sind für Klagen oder Begehren betreffend Auflösung der eingetragenen Partnerschaft die schweizerischen Gerichte am Eintragungsort zuständig, wenn es unmöglich oder unzumutbar ist, die Klage oder das Begehren am Wohnsitz einer der Personen zu erheben.
+[^65b-1]
 
-### III. Anwendbares Recht
+[^65b-1]: Aufgehoben durch Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), mit Wirkung seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+
+### II. Anwendbares Recht
 
 #### Art. 65c
 
-<sup>1</sup> Kennt das nach den Bestimmungen des dritten Kapitels anwendbare Recht keine Regeln über die eingetragene Partnerschaft, so ist schweizerisches Recht anwendbar; vorbehalten bleibt Artikel 49.
+[^65c-1]
 
-<sup>2</sup> Zusätzlich zu den in Artikel 52 Absatz 2 bezeichneten Rechten können die Partnerinnen oder Partner das Recht des Staates wählen, in dem die Partnerschaft eingetragen worden ist.
+Kennt das nach den Bestimmungen des dritten Kapitels anwendbare Recht keine Regeln über die eingetragene Partnerschaft, so ist dessen Eherecht anwendbar.
 
-### IV. Entscheidungen oder Massnahmen des Eintragungsstaats
+[^65c-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 65d
 
-Ausländische Entscheidungen oder Massnahmen werden in der Schweiz anerkannt, wenn:
+[^65d-1]
 
-- a. sie im Staat ergangen sind, in dem die Partnerschaft eingetragen worden ist; und
-- b. es unmöglich oder unzumutbar war, die Klage oder das Begehren in einem Staat zu erheben, dessen Zuständigkeit in der Schweiz gemäss den Bestimmungen des dritten Kapitels anerkannt ist.
+[^65d-1]: Aufgehoben durch Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), mit Wirkung seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ## 4. Kapitel: Kindesrecht
 
@@ -1426,7 +1467,7 @@ Als charakteristische Leistung gilt namentlich:
 
 ### 2. Im Besonderen
 
-### a. Kauf beweg- licher körperlicher Sachen
+### a. Kauf beweglicher körperlicher Sachen
 
 #### Art. 118
 
@@ -1498,7 +1539,7 @@ Schweigt eine Partei auf einen Antrag zum Abschluss eines Vertrages, so kann sie
 
 <sup>3</sup> Schreibt das auf den Vertrag anwendbare Recht die Beachtung einer Form zum Schutz einer Partei vor, so richtet sich die Formgültigkeit ausschliesslich nach diesem Recht, es sei denn, dieses lasse die Anwendung eines anderen Rechts zu.
 
-### c. Erfüllungs- und Untersu- chungsmodali- täten
+### c. Erfüllungs- und Untersuchungsmodalitäten
 
 #### Art. 125
 
@@ -1551,7 +1592,7 @@ Für Klagen aus ungerechtfertigter Bereicherung sind die schweizerischen Gericht
 <sup>2</sup> …[^129-2]
 
 [^129-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^129-2]: Aufgehoben durch Art. 3 Ziff. 3 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), mit Wirkung seit 1. Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
+[^129-2]: Aufgehoben durch Art. 3 Ziff. 3 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), mit Wirkung seit 1. Jan. 2011 (AS **2****010** 5601; [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### 2. Im Besonderen
 
@@ -1824,7 +1865,7 @@ Eine ausländische Entscheidung wird ferner anerkannt:
 
 Als Trusts gelten rechtsgeschäftlich errichtete Trusts im Sinne des Haager Übereinkommens vom 1. Juli 1985[^149a-1] über das auf Trusts anzuwendende Recht und über ihre Anerkennung, unabhängig davon, ob sie im Sinne von Artikel 3 des Übereinkommens schriftlich nachgewiesen sind.
 
-[^149a-1]: [SR 0.221.371](https://fedlex.data.admin.ch/eli/cc/2007/375)
+[^149a-1]: SR **0****.****221.371**
 
 ### II. Zuständigkeit
 
@@ -2249,7 +2290,7 @@ Sobald die Anerkennung des ausländischen Konkursdekrets beantragt ist, kann das
 <sup>2</sup> Massgebend für die Berechnung der Fristen nach den Artikeln 285–288*a* und 292 SchKG ist der Zeitpunkt der ausländischen Konkurseröffnung.[^171-2]
 
 [^171-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^171-2]: Eingefügt durch Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
+[^171-2]: Eingefügt durch Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 (AS **2****018** 3263; [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 
 ### 3. Kollokationsplan
 
@@ -2320,7 +2361,7 @@ Bei Verfahren, die in einem sachlichen Zusammenhang stehen, können die beteilig
 
 [^174b-1]: Eingefügt durch Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 
-### III<sup>ter</sup>. Anerkennung ausländischer Entscheidungen über Anfechtungs-ansprüche und ähnlicher Entscheidungen
+### III<sup>ter</sup>. Anerkennung ausländischer Entscheidungen über Anfechtungsansprüche und ähnlicher Entscheidungen
 
 #### Art. 174c
 
@@ -2574,7 +2615,7 @@ Haben die Parteien nichts anderes vereinbart, so kann das Schiedsgericht Teilent
 
 <sup>1</sup> Der Entscheid ergeht nach dem Verfahren und in der Form, welche die Parteien vereinbart haben.
 
-<sup>2</sup> Fehlt eine solche Vereinbarung, so wird er mit Stimmenmehrheit gefällt oder, falls sich keine Stimmenmehrheit ergibt, durch die Präsidentin oder den Präsidenten des Schiedsgerichts[^189-1]. Der Entscheid ist schriftlich abzufassen, zu begründen, zu datieren und zu unterzeichnen. Es genügt die Unterschrift der Präsidentin oder des Präsidenten.
+<sup>2</sup> Fehlt eine solche Vereinbarung, so wird er mit Stimmenmehrheit gefällt oder, falls sich keine Stimmenmehrheit ergibt, durch die Präsidentin oder den Präsidenten[^189-1] des Schiedsgerichts. Der Entscheid ist schriftlich abzufassen, zu begründen, zu datieren und zu unterzeichnen. Es genügt die Unterschrift der Präsidentin oder des Präsidenten.
 
 [^189-1]: Ausdruck gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)). Diese Änd. wurde in der in der AS genannten Bestimmung vorgenommen.
 

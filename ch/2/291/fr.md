@@ -4,11 +4,11 @@ title: Loi fédérale du 18 décembre 1987 sur le droit international privé (LD
 short: LDIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776"
 language: fr
-version: 2022-01-01
+version: 2022-07-01
 adopted: 1987-12-18
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20220701-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20220101/fr"
 
 (LDIP)
 
-du 18 décembre 1987 (Etat le 1<sup>er</sup> janvier 2022)
+du 18 décembre 1987 (Etat le 1<sup>er</sup> juillet 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -554,12 +554,12 @@ La célébration du mariage en Suisse est régie par le droit suisse.
 
 <sup>1</sup> Un mariage valablement célébré à l’étranger est reconnu en Suisse.
 
-<sup>2</sup> Si la fiancée ou le fiancé sont suisses ou si tous deux ont leur domicile en Suisse, le mariage célébré à l’étranger est reconnu, à moins qu’ils ne l’aient célébré à l’étranger dans l’intention manifeste d’éluder les dispositions sur l’annulation du mariage prévues par le droit suisse.[^45-1]
+<sup>2</sup> Si un des fiancés est suisse ou si tous deux ont leur domicile en Suisse, le mariage célébré à l’étranger est reconnu, à moins qu’ils ne l’aient célébré à l’étranger dans l’intention manifeste d’éluder les dispositions sur l’annulation du mariage prévues par le droit suisse.[^45-1]
 
-<sup>3</sup> Un mariage valablement célébré à l’étranger entre personnes du même sexe est reconnu en Suisse en tant que partenariat enregistré.[^45-2]
+<sup>3</sup> …[^45-2]
 
-[^45-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 26 juin 1998, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
-[^45-2]: Introduit par l’annexe ch. 17 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^45-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^45-2]: Introduit par l’annexe ch. 17 de la LF du 18 juin 2004 sur le partenariat ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)). Abrogé par l’annexe ch. 2 de la LF du 18 déc. 2020 (Mariage pour tous), avec effet au 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### IV. Annulation du mariage
 
@@ -617,7 +617,14 @@ L’obligation alimentaire entre époux est régie par la convention de La Haye 
 
 #### Art. 50
 
-Les décisions ou mesures étrangères relatives aux effets du mariage sont reconnues en Suisse lorsqu’elles ont été rendues dans l’État du domicile ou de la résidence habituelle de l’un des époux.
+[^50-1]
+
+Les décisions ou mesures étrangères relatives aux effets du mariage sont reconnues en Suisse lorsqu’elles:
+
+- a. ont été rendues dans l’État du domicile ou de la résidence habituelle de l’un des époux;
+- b. ont été rendues dans l’État de célébration du mariage et que l’action ne pouvait être intentée dans un des États désignés à la let. a ou qu’on ne pouvait raisonnablement exiger qu’elle le soit.
+
+[^50-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### Section 3 Régimes matrimoniaux
 
@@ -628,8 +635,10 @@ Les décisions ou mesures étrangères relatives aux effets du mariage sont reco
 Sont compétentes pour connaître des actions ou ordonner les mesures relatives aux régimes matrimoniaux:
 
 - a. lors de la dissolution du régime matrimonial consécutive au décès d’un des époux, les autorités judiciaires ou administratives suisses compétentes pour liquider la succession (art. 86 à 89);
-- b. lors de la dissolution du régime matrimonial consécutive à la dissolution judiciaire du lien conjugal ou à la séparation de corps, les autorités judiciaires suisses compétentes à cet effet (art. 59, 60, 63, 64);
+- b.[^51-1] lors de la dissolution du régime matrimonial consécutive à la dissolution judiciaire du lien conjugal ou à la séparation de corps, les autorités judiciaires suisses compétentes à cet effet (art. 59, 60, 60*a*, 63, 64);
 - c. dans les autres cas, les autorités judiciaires ou administratives suisses compétentes pour statuer sur les effets du mariage (art. 46, 47).
+
+[^51-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### II. Droit applicable
 
@@ -641,7 +650,18 @@ Sont compétentes pour connaître des actions ou ordonner les mesures relatives 
 
 <sup>1</sup> Le régime matrimonial est régi par le droit choisi par les époux.
 
-<sup>2</sup> Les époux peuvent choisir le droit de l’État dans lequel ils sont tous deux domiciliés ou seront domiciliés après la célébration du mariage, ou le droit d’un État dont l’un d’eux a la nationalité. L’art. 23, al. 2, n’est pas applicable.
+<sup>2</sup>
+
+Les époux peuvent choisir:
+
+- a. le droit de l’État dans lequel ils sont tous deux domiciliés ou seront domiciliés après la célébration du mariage;
+- b. le droit de l’État dans lequel le mariage a été célébré, ou
+- c. le droit d’un État dont l’un d’eux a la nationalité.[^52-1]
+
+<sup>3</sup> L’art. 23, al. 2, n’est pas applicable.[^52-2]
+
+[^52-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^52-2]: Introduit par l’annexe ch. 2 de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### b. Modalités
 
@@ -726,6 +746,16 @@ Sont compétents pour connaître d’une action en divorce ou en séparation de 
 
 Lorsque les époux ne sont pas domiciliés en Suisse et que l’un d’eux est suisse, les tribunaux du lieu d’origine sont compétents pour connaître d’une action en divorce ou en séparation de corps, si l’action ne peut être intentée au domicile de l’un des époux ou si l’on ne peut raisonnablement exiger qu’elle le soit.
 
+### 3. For au lieu de célébration du mariage
+
+#### Art. 60a
+
+[^60a-1]
+
+Lorsque les époux ne sont pas domiciliés en Suisse et qu’aucun d’eux n’est suisse, les tribunaux suisses du lieu de célébration du mariage sont compétents pour connaître d’une action en divorce ou en séparation de corps, si l’action ne peut être intentée devant le tribunal du domicile de l’un des époux, ou si l’on ne peut raisonnablement exiger qu’elle le soit.
+
+[^60a-1]: Introduit par l’annexe ch. 2 de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+
 ### II. Droit applicable
 
 #### Art. 61
@@ -764,20 +794,27 @@ Le divorce et la séparation de corps sont régis par le droit suisse.
 
 #### Art. 64
 
-<sup>1</sup> Les tribunaux suisses sont compétents pour connaître d’une action en complément ou en modification d’un jugement de divorce ou de séparation de corps s’ils ont prononcé ce jugement ou s’ils sont compétents en vertu des art. 59 ou 60. Sont réservées les dispositions de la présente loi sur la protection des mineurs (art. 85).
+<sup>1</sup> Les tribunaux suisses sont compétents pour connaître d’une action en complément ou en modification d’un jugement de divorce ou de séparation de corps s’ils ont prononcé ce jugement ou s’ils sont compétents en vertu des art. 59, 60 ou 60*a*.[^64-1] Sont réservées les dispositions de la présente loi sur la protection des mineurs (art. 85).
 
-<sup>1bis</sup> Pour connaître du partage de prétentions de prévoyance professionnelle envers une institution suisse de prévoyance professionnelle, la compétence des tribunaux suisses est exclusive. En l’absence de compétence au sens de l’al. 1, les tribunaux suisses du siège de l’institution de prévoyance sont compétents.[^64-1]
+<sup>1bis</sup> Pour connaître du partage de prétentions de prévoyance professionnelle envers une institution suisse de prévoyance professionnelle, la compétence des tribunaux suisses est exclusive. En l’absence de compétence au sens de l’al. 1, les tribunaux suisses du siège de l’institution de prévoyance sont compétents.[^64-2]
 
-<sup>2</sup> Le droit suisse régit l’action en complément ou en modification du divorce ou de la séparation de corps.[^64-2] Sont réservées les dispositions de la présente loi relatives au nom (art. 37 à 40), à l’obligation alimentaire entre époux (art. 49), au régime matrimonial (art. 52 à 57), aux effets de la filiation (art. 82 et 83) et à la protection des mineurs (art. 85).
+<sup>2</sup> Le droit suisse régit l’action en complément ou en modification du divorce ou de la séparation de corps.[^64-3] Sont réservées les dispositions de la présente loi relatives au nom (art. 37 à 40), à l’obligation alimentaire entre époux (art. 49), au régime matrimonial (art. 52 à 57), aux effets de la filiation (art. 82 et 83) et à la protection des mineurs (art. 85).
 
-[^64-1]: Introduit par l’annexe ch. 3 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^64-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^64-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^64-2]: Introduit par l’annexe ch. 3 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^64-3]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 ### VI. Décisions étrangères
 
 #### Art. 65
 
-<sup>1</sup> Les décisions étrangères de divorce ou de séparation de corps sont reconnues en Suisse lorsqu’elles ont été rendues dans l’État du domicile ou de la résidence habituelle, ou dans l’État national de l’un des époux, ou si elles sont reconnues dans un de ces États.
+<sup>1</sup>
+
+Les décisions étrangères de divorce ou de séparation de corps sont reconnues en Suisse lorsqu’elles:
+
+- a. ont été rendues dans l’État du domicile ou de la résidence habituelle ou dans l’État national de l’un des époux;
+- b. sont reconnues dans l’un des États visés à la let. a, ou
+- c. ont été rendues dans l’État de célébration du mariage et que l’action ne pouvait être intentée dans un des États désignés à la let. a ou qu’on ne pouvait raisonnablement exiger qu’elle le soit.[^65-1]
 
 <sup>2</sup>
 
@@ -786,6 +823,8 @@ Toutefois, la décision rendue dans un État dont aucun des époux ou seul l’�
 - a. lorsque, au moment de l’introduction de la demande, au moins l’un des époux était domicilié ou avait sa résidence habituelle dans cet État et que l’époux défendeur n’était pas domicilié en Suisse;
 - b. lorsque l’époux défendeur s’est soumis sans faire de réserve à la compétence du tribunal étranger, ou
 - c. lorsque l’époux défendeur a expressément consenti à la reconnaissance de la décision en Suisse.
+
+[^65-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ## Chapitre 3*a***** Partenariat enregistré
 
@@ -799,32 +838,31 @@ Toutefois, la décision rendue dans un État dont aucun des époux ou seul l’�
 
 [^65a-1]
 
-Les dispositions du chap. 3 s’appliquent par analogie au partenariat enregistré, à l’exception de l’art. 43, al. 2.
+Les dispositions du chap. 3 s’appliquent par analogie au partenariat enregistré.
 
-[^65a-1]: Nouvelle teneur selon le ch. I 5 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-
-### II. For en cas de dissolution du partenariat enregistré
+[^65a-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 65b
 
-Lorsque les partenaires ne sont pas domiciliés en Suisse et qu’aucun d’eux n’est Suisse, les tribunaux suisses du lieu d’enregistrement sont compétents pour connaître des actions ou des requêtes relatives à la dissolution du partenariat enregistré, si l’action ne peut être intentée ou la requête déposée devant le tribunal du domicile de l’un des partenaires, ou si l’on ne peut raisonnablement exiger qu’elles le soient.
+[^65b-1]
 
-### III. Droit applicable
+[^65b-1]: Abrogé par l’annexe ch. 2 de la LF du 18 déc. 2020 (Mariage pour tous), avec effet au 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+
+### II. Droit applicable
 
 #### Art. 65c
 
-<sup>1</sup> Lorsque le droit applicable en vertu du chap. 3 ne connaît pas de dispositions applicables au partenariat enregistré, le droit suisse est applicable, sous réserve de l’art. 49.
+[^65c-1]
 
-<sup>2</sup> En sus des droits désignés par l’art. 52, al. 2, les partenaires peuvent choisir le droit de l’État dans lequel le partenariat a été enregistré.
+Lorsque le droit applicable en vertu du chap. 3 ne connaît pas de dispositions applicables au partenariat enregistré, les dispositions sur le mariage sont applicables.
 
-### IV. Décisions ou mesures de l’État d’enregistrement
+[^65c-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 65d
 
-Les décisions ou mesures étrangères sont reconnues en Suisse:
+[^65d-1]
 
-- a. lorsqu’elles ont été rendues dans l’État dans lequel le partenariat a été enregistré, et
-- b. si l’action ne pouvait être intentée ou la requête déposée dans un État étranger dont la compétence est reconnue en Suisse selon les dispositions du chap. 3, ou si l’on ne pouvait raisonnablement exiger qu’elles le soient.
+[^65d-1]: Abrogé par l’annexe ch. 2 de la LF du 18 déc. 2020 (Mariage pour tous), avec effet au 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ## Chapitre 4 Filiation
 

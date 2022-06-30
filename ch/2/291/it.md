@@ -4,11 +4,11 @@ title: Legge federale del 18 dicembre 1987 sul diritto internazionale privato (L
 short: LDIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776"
 language: it
-version: 2022-01-01
+version: 2022-07-01
 adopted: 1987-12-18
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20220701/it/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20220701-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20220101/it"
 
 (LDIP)
 
-del 18 dicembre 1987 (Stato 1° gennaio 2022)
+del 18 dicembre 1987 (Stato 1° luglio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -554,10 +554,10 @@ La celebrazione del matrimonio in Svizzera è regolata dal diritto svizzero.
 
 <sup>2</sup> Se uno degli sposi è cittadino svizzero o se entrambi sono domiciliati in Svizzera, il matrimonio celebrato all’estero è riconosciuto qualora la celebrazione all’estero non sia stata manifestamente voluta per eludere le norme del diritto svizzero sulla nullità del matrimonio.[^45-1]
 
-<sup>3</sup> Il matrimonio celebrato validamente all’estero tra persone dello stesso sesso è riconosciuto in Svizzera quale unione domestica registrata.[^45-2]
+<sup>3</sup> ...[^45-2]
 
 [^45-1]: Nuovo testo giusta l’all. n. 3 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
-[^45-2]: Introdotto dall’all. n. 17 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^45-2]: Introdotto dall’all. n. 17 della L del 18 giu. 2004 sull’unione domestica registrata ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)). Abrogato dall’all. n. 2 della LF del 18 dic. 2020 (Matrimonio per tutti), con effetto dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### IV. Nullità del matrimonio
 
@@ -615,7 +615,14 @@ L’obbligo di mantenimento tra i coniugi è regolato dalla convenzione dell’A
 
 #### Art. 50
 
-Le decisioni o i provvedimenti stranieri concernenti i diritti e i doveri coniugali sono riconosciuti in Svizzera se pronunciati nello Stato di domicilio o di dimora abituale di uno dei coniugi.
+[^50-1]
+
+Le decisioni o i provvedimenti stranieri concernenti i diritti e i doveri coniugali sono riconosciuti in Svizzera se:
+
+- a. sono stati pronunciati nello Stato di domicilio o di dimora abituale di uno dei coniugi; o
+- b. sono stati pronunciati nello Stato di celebrazione del matrimonio e la proposizione dell’azione in uno degli Stati di cui alla lettera a non era possibile o ragionevolmente esigibile.
+
+[^50-1]: Nuovo testo giusta l’all. n. 2 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### Sezione 3: Regime dei beni fra i coniugi
 
@@ -626,8 +633,10 @@ Le decisioni o i provvedimenti stranieri concernenti i diritti e i doveri coniug
 Per le azioni o i provvedimenti concernenti i rapporti patrimoniali tra i coniugi sono competenti:
 
 - a. per la liquidazione del regime dei beni in caso di morte di un coniuge, i tribunali o le autorità svizzeri competenti a liquidare la successione (art. 86 a 89);
-- b. per la liquidazione del regime dei beni in caso di scioglimento giudiziale del matrimonio o di separazione, i tribunali svizzeri competenti in merito (art. 59, 60, 63 e 64);
+- b.[^51-1] per la liquidazione del regime dei beni in caso di scioglimento giudiziale del matrimonio o di separazione, i tribunali svizzeri competenti in merito (art. 59, 60, 60*a*, 63, 64);
 - c. negli altri casi, i tribunali o le autorità svizzeri competenti per le azioni o per i provvedimenti concernenti gli effetti del matrimonio (art. 46 e 47).
+
+[^51-1]: Nuovo testo giusta l’all. n. 2 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### II. Diritto applicabile
 
@@ -639,7 +648,18 @@ Per le azioni o i provvedimenti concernenti i rapporti patrimoniali tra i coniug
 
 <sup>1</sup> I rapporti patrimoniali sono regolati dal diritto scelto dai coniugi.
 
-<sup>2</sup> I coniugi possono scegliere il diritto dello Stato in cui sono ambedue domiciliati, o lo saranno dopo la celebrazione del matrimonio, o il diritto di uno dei loro Stati di origine. L’articolo 23 capoverso 2 è inapplicabile.
+<sup>2</sup>
+
+I coniugi possono scegliere fra:
+
+- a. il diritto dello Stato in cui sono ambedue domiciliati o lo saranno dopo la celebrazione del matrimonio;
+- b. il diritto del luogo di celebrazione del matrimonio; e
+- c. il diritto di uno dei loro Stati di origine.[^52-1]
+
+<sup>3</sup> L’articolo 23 capoverso 2 non è applicabile.[^52-2]
+
+[^52-1]: Nuovo testo giusta l’all. n. 2 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^52-2]: Introdotto dall’all. n. 2 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### b. Modalità
 
@@ -724,6 +744,16 @@ Per le azioni di divorzio o separazione sono competenti:
 
 Se i coniugi non sono domiciliati in Svizzera ed uno di loro è cittadino svizzero, per le azioni di divorzio o separazione sono competenti i tribunali del luogo di origine sempreché sia impossibile proporre l’azione nel domicilio di uno dei coniugi o non lo si possa ragionevolmente pretendere.
 
+### 3. Foro del luogo di celebrazione del matrimonio
+
+#### Art. 60a
+
+[^60a-1]
+
+Se i coniugi non sono domiciliati in Svizzera e nessuno di loro è cittadino svizzero, per le azioni di divorzio o separazione sono competenti i tribunali svizzeri del luogo di celebrazione del matrimonio, sempreché sia impossibile proporre l’azione nel domicilio di uno dei coniugi o non lo si possa ragionevolmente pretendere.
+
+[^60a-1]: Introdotto dall’all. n. 2 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+
 ### II. Diritto applicabile
 
 #### Art. 61
@@ -762,20 +792,27 @@ Divorzio e separazione sono regolati dal diritto svizzero <sup>.</sup>
 
 #### Art. 64
 
-<sup>1</sup> I tribunali svizzeri sono competenti per le azioni di completamento o modificazione di decisioni in materia di divorzio o separazione se hanno pronunciato essi stessi tali decisioni o se la loro competenza discende dagli articoli 59 o 60. Sono fatte salve le disposizioni della presente legge concernenti la protezione dei minori (art. 85).
+<sup>1</sup> I tribunali svizzeri sono competenti per le azioni di completamento o modificazione di decisioni in materia di divorzio o separazione se hanno pronunciato essi stessi tali decisioni o se la loro competenza discende dagli articoli 59, 60 o 60*a*.[^64-1] Sono fatte salve le disposizioni della presente legge concernenti la protezione dei minori (art. 85).
 
-<sup>1bis</sup> I tribunali svizzeri sono esclusivamente competenti per il conguaglio delle pretese di previdenza professionale nei confronti di un istituto svizzero di previdenza professionale. Se non vi è competenza ai sensi del capoverso 1, sono competenti i tribunali svizzeri della sede dell’istituto di previdenza.[^64-1]
+<sup>1bis</sup> I tribunali svizzeri sono esclusivamente competenti per il conguaglio delle pretese di previdenza professionale nei confronti di un istituto svizzero di previdenza professionale. Se non vi è competenza ai sensi del capoverso 1, sono competenti i tribunali svizzeri della sede dell’istituto di previdenza.[^64-2]
 
-<sup>2</sup> Il completamento o la modificazione di una sentenza di divorzio o di separazione è regolato dal diritto svizzero.[^64-2] Sono fatte salve le disposizioni della presente legge concernenti il nome (art. 37 a 40), l’obbligo di mantenimento dei coniugi (art. 49), il regime dei beni (art. 52 a 57), gli effetti della filiazione (art. 82 e 83) e la protezione dei minori (art. 85).
+<sup>2</sup> Il completamento o la modificazione di una sentenza di divorzio o di separazione è regolato dal diritto svizzero.[^64-3] Sono fatte salve le disposizioni della presente legge concernenti il nome (art. 37 a 40), l’obbligo di mantenimento dei coniugi (art. 49), il regime dei beni (art. 52 a 57), gli effetti della filiazione (art. 82 e 83) e la protezione dei minori (art. 85).
 
-[^64-1]: Introdotto dall’all. n. 3 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^64-2]: Nuovo testo giusta l’all. n. 3 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^64-1]: Nuovo testo giusta l’all. n. 2 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^64-2]: Introdotto dall’all. n. 3 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^64-3]: Nuovo testo giusta l’all. n. 3 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 ### VI. Decisioni straniere
 
 #### Art. 65
 
-<sup>1</sup> Le decisioni straniere in materia di divorzio o separazione sono riconosciute in Svizzera se sono state pronunciate o vengano riconosciute nello Stato di domicilio, di dimora abituale o di origine di uno dei coniugi.
+<sup>1</sup>
+
+Le decisioni straniere in materia di divorzio o separazione sono riconosciute in Svizzera se:
+
+- a. sono state pronunciate nello Stato di domicilio, di dimora abituale o di origine di uno dei coniugi;
+- b. sono riconosciute in uno degli Stati di cui alla lettera a; o
+- c. sono state pronunciate nello Stato di celebrazione del matrimonio e la proposizione dell’azione in uno degli Stati di cui alla lettera a non era possibile o ragionevolmente esigibile.[^65-1]
 
 <sup>2</sup>
 
@@ -784,6 +821,8 @@ Tuttavia, la decisione pronunciata in uno Stato di cui nessuno dei coniugi o sol
 - a. all’atto dell’introduzione dell’azione, almeno un coniuge era domiciliato o dimorava abitualmente in detto Stato e il coniuge convenuto non era domiciliato in Svizzera;
 - b. il coniuge convenuto ha accettato incondizionatamente la competenza del tribunale straniero o
 - c. il coniuge convenuto è d’accordo con il riconoscimento della decisione in Svizzera.
+
+[^65-1]: Nuovo testo giusta l’all. n. 2 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ## Capitolo 3*a*:**** Unione domestica registrata
 
@@ -797,32 +836,31 @@ Tuttavia, la decisione pronunciata in uno Stato di cui nessuno dei coniugi o sol
 
 [^65a-1]
 
-Le disposizioni del capitolo 3, eccettuato l’articolo 43 capoverso 2, si applicano per analogia all’unione domestica registrata.
+Le disposizioni del capitolo 3 si applicano per analogia all’unione domestica registrata.
 
-[^65a-1]: Nuovo testo giusta il n. I 5 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-
-### II. Scioglimento; foro del luogo di registrazione
+[^65a-1]: Nuovo testo giusta l’all. n. 2 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 65b
 
-Se i partner non sono domiciliati in Svizzera e nessuno di loro è cittadino svizzero, per le azioni o le istanze concernenti lo scioglimento dell’unione domestica registrata sono competenti i tribunali svizzeri del luogo di registrazione, sempreché sia impossibile proporre l’azione o l’istanza nel domicilio di uno dei partner o non lo si possa ragionevolmente pretendere.
+[^65b-1]
 
-### III. Diritto applicabile
+[^65b-1]: Abrogato dall’all. n. 2 della LF del 18 dic. 2020 (Matrimonio per tutti), con effetto dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+
+### II. Diritto applicabile
 
 #### Art. 65c
 
-<sup>1</sup> Se il diritto applicabile in virtù delle disposizioni del capitolo 3 non prevede norme concernenti l’unione domestica registrata, si applica il diritto svizzero; è fatto salvo l’articolo 49.
+[^65c-1]
 
-<sup>2</sup> Oltre ai diritti richiamati nell’articolo 52 capoverso 2, i partner possono scegliere il diritto dello Stato in cui è stata registrata l’unione domestica.
+Se il diritto applicabile in virtù delle disposizioni del capitolo 3 non prevede norme concernenti l’unione domestica registrata, si applicano le disposizioni del diritto matrimoniale.
 
-### IV. Decisioni o provvedimenti dello Stato in cui è stata registrata l’unione domestica
+[^65c-1]: Nuovo testo giusta l’all. n. 2 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 65d
 
-Le decisioni straniere o i provvedimenti stranieri sono riconosciuti in Svizzera se:
+[^65d-1]
 
-- a. pronunciati nello Stato in cui è stata registrata l’unione domestica; e
-- b. la proposizione dell’azione o dell’istanza in uno Stato la cui competenza è riconosciuta in Svizzera secondo le disposizioni del capitolo 3 non era possibile o ragionevolmente esigibile.
+[^65d-1]: Abrogato dall’all. n. 2 della LF del 18 dic. 2020 (Matrimonio per tutti), con effetto dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ## Capitolo 4: Filiazione
 
