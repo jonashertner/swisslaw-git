@@ -3,20 +3,20 @@ canton: BL
 number: "142.111"
 title: Reglement über die Zuständigkeiten für Ausgabenbewilligungen in der Finanz- und Kirchendirektion
 language: de
-version: 2019-01-01
-valid_until: 2022-06-30
-version_adopted: 2018-12-21
+version: 2022-07-01
+valid_until: 2023-12-31
+version_adopted: 2022-07-01
 adopted: 2018-02-01
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/142.111"
-pdf: "https://bl.clex.ch/api/de/versions/3371/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3372/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Zuständigkeiten für Ausgabenbewilligungen in der Finanz- und Kirchendirektion
 
-Vom 01.02.2018 (Stand 01.01.2019)
+Vom 01.02.2018 (Stand 01.07.2022)
 
 Der Vorsteher der Finanz- und Kirchendirektion des Kantons Basel-Landschaft,
 
@@ -52,9 +52,11 @@ beschliesst:
 - b. Ausgaben für die Übernahme der Verlustscheine für die obligatorische Krankenpflegeversicherung;
 - c. Ausgaben für den eidgenössischen Finanzausgleich;
 - d. Ausgaben für den Steueranteil der Landeskirchen;
-- e. Ausgaben aufgrund von gesetzlichen und vertraglichen Versicherungsverhältnissen.
+- e. Ausgaben aufgrund von gesetzlichen und vertraglichen Versicherungsverhältnissen;
+- f. Ausgaben an die Gemeinden für die Vergütung der Kosten in den Bereichen der Unterstützung bedürftiger Personen, der Unterstützung Asylsuchender sowie der Eingliederung bedürftiger Personen entsprechend den §§ 31, 32 sowie 34 des Sozialhilfegesetzes (SHG)[^2-2].
 
 [^2-1]: [SGS 191](https://bl.clex.ch/data/191/de/art8c)
+[^2-2]: [SGS 850](https://bl.clex.ch/data/850/de/art31)
 
 #### § 3
 
