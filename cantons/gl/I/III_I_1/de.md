@@ -3,20 +3,20 @@ canton: GL
 number: III I/1
 title: Anwaltsgesetz des Kantons Glarus
 language: de
-version: 2011-01-01
-valid_until: 2022-06-30
-version_adopted: 2010-05-02
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2021-09-05
 adopted: 2002-05-05
 in_force: 2002-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-I.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/699/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2287/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Anwaltsgesetz des Kantons Glarus
 
-Vom 05.05.2002 (Stand 01.01.2011)
+Vom 05.05.2002 (Stand 01.07.2022)
 
 Die Landsgemeinde,
 
@@ -91,7 +91,7 @@ beschliesst:
 - g. führt die Eignungsprüfung oder das Gespräch zur Prüfung der beruflichen Fähigkeiten durch (Art. 30 BGFA);
 - h. entbindet Anwältinnen und Anwälte vom Berufsgeheimnis;
 - i. entscheidet darüber, ob eine Bewerberin oder ein Bewerber zur Anwaltsprüfung zugelassen wird;
-- k. legt den Tarif für die Entschädigungen im Rahmen der amtlichen Pflichtverteidigungen und unentgeltlichen Rechtspflege (Art. 12 BGFA) fest, welcher der Genehmigung durch den Landrat unterliegt.
+- k. …
 
 #### Art. 8
 
