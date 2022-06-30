@@ -4,11 +4,10 @@ number: "611"
 title: Gesetz über Controlling und Rechnungslegung (CRG)
 short: CRG
 language: de
-version: "2022-01-01"
-nachtrag: "115"
-valid_until: 2022-07-01
+version: "2022-07-01"
+nachtrag: "118"
 adopted: 2006-01-09
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-611-2006_01_09-2008_04_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-611-2006_01_09-2008_04_01-118.html"
 text: pdf
 ---
 
@@ -62,7 +61,7 @@ beschliesst:
 
 **1**
 
-- 1\. 1. 22 - 115 § 4.<sup>12</sup> <sup>1</sup> Die Rechnung ist mittelfristig auszugleichen. Massgebend ist die konsolidierte Erfolgsrechnung gemäss § 54.
+- 1\. 7. 22 - 117 § 4.<sup>12</sup> <sup>1</sup> Die Rechnung ist mittelfristig auszugleichen. Massgebend ist die konsolidierte Erfolgsrechnung gemäss § 54.
 
 **c. Haushaltsgleichgewicht**
 
@@ -152,7 +151,7 @@ beschliesst:
 
 **3**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 <sup>2</sup> Erbringt eine Leistungsgruppe ausschliesslich finanzielle Leistungen, hat sie eine blosse Verrechnungsfunktion oder werden deren Wirkungen bei anderen Leistungsgruppen dargestellt, werden einzig die benötigten finanziellen Mittel ausgewiesen.
 
@@ -206,7 +205,7 @@ beschliesst:
 
 - b. in den übrigen Fällen: mindestens 1 Million Franken.
 
-Bei Nachträgen für Investitionsausgaben gilt Abs. 2 sinngemäss.
+<sup>3</sup> Bei Nachträgen für Investitionsausgaben gilt Abs. 2 sinngemäss.
 
 **Beschluss**
 
@@ -242,13 +241,13 @@ Bei Nachträgen für Investitionsausgaben gilt Abs. 2 sinngemäss.
 
 **5**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 - d. für durchlaufende Beiträge, e.<sup>22</sup> für Abschreibungen, Wertberichtigungen und Rückstellungen.
 
 <sup>2</sup> Kreditüberschreitungen sind nur zulässig, falls die Kompensation innerhalb des bewilligten Budgetkredits unverhältnismässige Folgen hätte.
 
-<sup>3</sup> Die vom Regierungsrat bewilligten Kreditüberschreitungen werden dem Kantonsrat in den Zwischenberichten und im Geschäftsbericht zur Kenntnis gebracht.
+<sup>3</sup> Die vom Regierungsrat bewilligten Kreditüberschreitungen werden dem Kantonsrat im Geschäftsbericht zur Kenntnis gebracht.<sup>29</sup>
 
 ### IV. Rücklagen und Kreditübertragung
 
@@ -282,9 +281,9 @@ Bei Nachträgen für Investitionsausgaben gilt Abs. 2 sinngemäss.
 
 **Zwischenbericht**
 
-§ 26.<sup>12</sup> <sup>1</sup> Der Regierungsrat erstellt zweimal jährlich einen Zwischenbericht über die finanzielle Entwicklung des Kantons, bedeutende Veränderungen in der Leistungsentwicklung sowie über Kreditüberschreitungen und Nachtragskredite.
+§ 26.<sup>29</sup> <sup>1</sup> Der Regierungsrat erstellt einen Zwischenbericht über die finanzielle Entwicklung des Kantons, bedeutende Veränderungen in der Leistungsentwicklung und Nachtragskredite.
 
-<sup>2</sup> Er leitet die Zwischenberichte dem Kantonsrat zur Kenntnisnahme zu und unterbreitet diesem Vorschläge zur nachhaltigen Senkung des Aufwands.
+<sup>2</sup> Er leitet den Zwischenbericht dem Kantonsrat zur Kenntnisnahme zu.
 
 **Geschäftsbericht**
 
@@ -320,7 +319,7 @@ Bei Nachträgen für Investitionsausgaben gilt Abs. 2 sinngemäss.
 
 **7**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 ### VII. Sonderfragen der Leistungserbringung
 
@@ -402,7 +401,7 @@ Bei Nachträgen für Investitionsausgaben gilt Abs. 2 sinngemäss.
 
 **9**
 
-- 1\. 1. 22 - 115 § 39.<sup>22</sup> <sup>1</sup> Der Verpflichtungskredit wird beschlossen:
+- 1\. 7. 22 - 117 § 39.<sup>22</sup> <sup>1</sup> Der Verpflichtungskredit wird beschlossen:
 
 **b. Formen**
 
@@ -492,7 +491,7 @@ Bei Nachträgen für Investitionsausgaben gilt Abs. 2 sinngemäss.
 
 **11**
 
-- 1\. 1. 22 - 115 § 50.<sup>12</sup> <sup>1</sup> Die Erfolgsrechnung enthält den Aufwand und den Ertrag einer Rechnungsperiode. Der Saldo verändert das Eigenkapital.
+- 1\. 7. 22 - 117 § 50.<sup>12</sup> <sup>1</sup> Die Erfolgsrechnung enthält den Aufwand und den Ertrag einer Rechnungsperiode. Der Saldo verändert das Eigenkapital.
 
 **Erfolgsrechnung**
 
@@ -570,7 +569,7 @@ Bei Nachträgen für Investitionsausgaben gilt Abs. 2 sinngemäss.
 
 **13**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 ### E. Zuständigkeiten
 
@@ -650,7 +649,7 @@ Bis zur Verselbstständigung der Versicherungskasse für das Staatspersonal (BVK
 
 **15**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 ### Übergangsbestimmung zur Änderung vom 5. Mai 2014 (OS 69, 372)
 
@@ -712,6 +711,8 @@ Entscheidet der Kantonsrat über ein Gesuch vor dem Inkrafttreten der Änderung 
 
 <sup>28</sup> Fassung gemäss G vom 17. August 2020 (OS 76, 373; ABl 2019-05-03). In Kraft seit 1. Januar 2022.
 
+<sup>29</sup> Fassung gemäss G vom 15. November 2021 (OS 77, 230; ABl 2020-05-08). In Kraft seit 1. Juli 2022.
+
 **17**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
