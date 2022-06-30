@@ -4,11 +4,11 @@ title: Ordinanza del 4 dicembre 2000 sulla medicina della procreazione (OMP)
 short: OMP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/555"
 language: it
-version: 2019-01-01
+version: 2022-07-01
 adopted: 2000-12-04
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2000-555-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2000-555-20220701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20190101/it"
 
 (OMP)
 
-del 4 dicembre 2000 (Stato 1° gennaio 2019) (Stato 1° gennaio 2019)
+del 4 dicembre 2000 (Stato 1° luglio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -276,7 +276,7 @@ Il modulo per l’iscrizione contiene i dati seguenti:
 
 - b.
 
-  in merito alla donna che riceve gli spermatozoi donati e al marito:
+  in merito alla donna che riceve gli spermatozoi donati e al marito o alla moglie:[^16-2]
 
   - 1\. cognome e nome, data e luogo di nascita, domicilio, luogo d’origine o nazionalità,
   - 2\. data dell’inseminazione o del trasferimento embrionale;
@@ -285,6 +285,7 @@ Il modulo per l’iscrizione contiene i dati seguenti:
 - d. in merito al medico che ha conservato o ha procurato lo sperma, se non si tratta del medico curante: nome e indirizzo.
 
 [^16-1]: Nuovo testo giusta il n. I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6097](https://fedlex.data.admin.ch/eli/oc/2012/723)).
+[^16-2]: Nuovo testo giusta il n. II dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 16a
 

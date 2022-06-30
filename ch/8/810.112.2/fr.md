@@ -4,11 +4,11 @@ title: Ordonnance du 4 décembre 2000 sur la procréation médicalement assisté
 short: OPMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/555"
 language: fr
-version: 2019-01-01
+version: 2022-07-01
 adopted: 2000-12-04
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-555-20190101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-555-20220701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20190101/fr"
 
 (OPMA)
 
-du 4 décembre 2000 (Etat le 1<sup>er</sup> janvier 2019)
+du 4 décembre 2000 (Etat le 1<sup>er</sup> juillet 2022)
 
 Le Conseil fédéral suisse,
 
@@ -245,7 +245,7 @@ Le système électronique utilisé pour la tenue du registre et la conservation 
 
 <sup>2</sup>
 
-A chaque dossier de don de sperme sont rattachées les informations suivantes:
+À chaque dossier de don de sperme sont rattachées les informations suivantes:
 
 - a. les données transmises par le médecin traitant au moyen du formulaire de consignation (art. 16, al. 1);
 - b. les résultats des examens médicaux (art. 16, al. 1);
@@ -276,7 +276,7 @@ Le formulaire de consignation contient les données suivantes:
 
 - b.
 
-  concernant la femme bénéficiaire du don de sperme et son mari:
+  concernant la femme bénéficiaire du don de sperme et son époux ou son épouse:[^16-2]
 
   - 1\. nom et prénom, date et lieu de naissance, domicile, lieu d’origine ou nationalité,
   - 2\. date de l’insémination ou du transfert de l’embryon;
@@ -285,6 +285,7 @@ Le formulaire de consignation contient les données suivantes:
 - d. le cas échéant concernant le médecin qui a conservé ou qui a cédé le sperme, s’il ne s’agit pas du médecin traitant: nom et adresse.
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 31 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6097](https://fedlex.data.admin.ch/eli/oc/2012/723)).
+[^16-2]: Nouvelle teneur selon le ch. II de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 16a
 
@@ -323,7 +324,7 @@ Le formulaire de consignation contient les données suivantes:
 [^16b-1]: Introduit par le ch. I de l’O du 31 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6097](https://fedlex.data.admin.ch/eli/oc/2012/723)).
 [^16b-2]: [RS 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
 [^16b-3]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^16b-4]: Nouvelle teneur selon le ch. II 8 de l’annexe à l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^16b-4]: Nouvelle teneur selon l’annexe ch. II 8 de l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 
 #### Art. 17
 
@@ -364,7 +365,7 @@ Le couple concerné peut demander une mise à jour des données consignées dans
 
 **Archivage et destruction des données**[^20-1]
 
-<sup>1</sup> A l’expiration du délai de conservation de 80 ans (art. 26 de la loi), les données du registre des donneurs de sperme et les données visées à l’art. 15*b*, al. 2, sont proposées aux Archives fédérales.
+<sup>1</sup> À l’expiration du délai de conservation de 80 ans (art. 26 de la loi), les données du registre des donneurs de sperme et les données visées à l’art. 15*b*, al. 2, sont proposées aux Archives fédérales.
 
 <sup>2</sup> Les données que les Archives fédérales jugent sans valeur archivistique sont détruites.
 
@@ -434,7 +435,7 @@ Si les conditions fixées à l’art. 27, al. 1 ou 2, de la loi sont remplies, l
 
 #### Art. 26
 
-**Emoluments**
+**Émoluments**
 
 Les émoluments et les débours perçus pour la communication des informations sont réglés par l’ordonnance du 27 octobre 1999 sur les émoluments en matière d’état civil[^26-1].
 

@@ -4,11 +4,11 @@ title: Reproductive Medicine Ordinance of 4 December 2000 (RMO)
 short: RMO
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/555"
 language: en
-version: 2019-01-01
+version: 2022-07-01
 adopted: 2000-12-04
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20190101/en/xml/fedlex-data-admin-ch-eli-cc-2000-555-20190101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20190101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2000-555-20220701-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20220701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (RMO)
 
-of 4 December 2000 (Status as of 1 January 2019)
+of 4 December 2000 (Status as of 1 July 2022)
 
 The Swiss Federal Council,
 
@@ -157,7 +157,7 @@ Any person wishing to supply donated sperm cells must indicate:
 
 <sup>2</sup> The licence may be granted for a limited term and subject to conditions.
 
-<sup>3</sup> …[^9-1]
+<sup>3</sup> ...[^9-1]
 
 [^9-1]: Repealed by No I of the O of 21 June 2017, with effect from 1 Sept. 2017 ([AS 2017 3651](https://fedlex.data.admin.ch/eli/oc/2017/411)).
 
@@ -283,7 +283,7 @@ The registration form for sperm donor data contains the following data:
 
 - b.
 
-  relating to the recipient of the sperm donation and her husband:
+  relating to the recipient of the sperm donation and her husband or her wife:[^16-2]
 
   - 1\. name and first name, date of birth and place of birth, place of residence, place of origin or nationality,
   - 2\. date of the insemination or the embryo transfer;
@@ -292,6 +292,7 @@ The registration form for sperm donor data contains the following data:
 - d. relating to the doctor who stored or arranged the sperm donation, where this doctor is not the attending doctor: name and address.
 
 [^16-1]: Amended by No I of the O of 31 Oct. 2012, in force since 1 Jan. 2012 ([AS 2012 6097](https://fedlex.data.admin.ch/eli/oc/2012/723)).
+[^16-2]: Amended by No II of the O of 30 March 2022, in force since 1 July 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 16a
 
@@ -455,7 +456,7 @@ The charges and expenses in the disclosure procedure shall be based on the Ordin
 
 **Amendment of existing legislation**
 
-…[^27-1]
+...[^27-1]
 
 [^27-1]: The amendments may be consulted under [AS 2000 3068](https://fedlex.data.admin.ch/eli/oc/2000/555).
 

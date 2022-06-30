@@ -4,11 +4,11 @@ title: Fortpflanzungsmedizinverordnung vom 4. Dezember 2000 (FMedV)
 short: FMedV
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/555"
 language: de
-version: 2019-01-01
+version: 2022-07-01
 adopted: 2000-12-04
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2000-555-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2000-555-20220701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20190101/de"
 
 (FMedV)
 
-vom 4. Dezember 2000 (Stand am 1. Januar 2019)
+vom 4. Dezember 2000 (Stand am 1. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -280,7 +280,7 @@ Das Formular zur Eintragung von Samenspenderdaten enthält folgende Daten:
 
 - b.
 
-  betreffend die Empfängerin der Samenspende und ihren Ehemann:
+  betreffend die Empfängerin der Samenspende und ihren Ehemann oder ihre Ehefrau:[^16-2]
 
   - 1\. Name und Vorname, Geburtsdatum und Geburtsort, Wohnort, Heimatort oder Staatsangehörigkeit,
   - 2\. Datum der Insemination oder des Embryotransfers;
@@ -289,6 +289,7 @@ Das Formular zur Eintragung von Samenspenderdaten enthält folgende Daten:
 - d. betreffend die Ärztin oder den Arzt, die oder der die Samenspende aufbewahrt oder vermittelt hat, sofern es sich nicht um die behandelnde Ärztin oder den behandelnden Arzt handelt: Name und Adresse.
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2012 ([AS 2012 6097](https://fedlex.data.admin.ch/eli/oc/2012/723)).
+[^16-2]: Fassung gemäss Ziff. II der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 16a
 
