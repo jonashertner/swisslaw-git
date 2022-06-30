@@ -4,13 +4,13 @@ number: "124.11"
 title: Gesetz über den Rechtsschutz in Verwaltungssachen
 short: Verwaltungsrechtspflegegesetz
 language: de
-version: 2018-01-01
-valid_until: 2022-06-30
-version_adopted: 2017-07-05
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2021-07-06
 adopted: 1970-11-15
 in_force: 1971-04-01
 url: "https://bgs.so.ch/app/de/texts_of_law/124.11"
-pdf: "https://bgs.so.ch/api/de/versions/4646/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5222/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4646/pdf_file"
 
 (Verwaltungsrechtspflegegesetz)
 
-Vom 15.11.1970 (Stand 01.01.2018)
+Vom 15.11.1970 (Stand 01.07.2022)
 
 Der Kantonsrat von Solothurn
 
@@ -269,6 +269,14 @@ beschliesst:
 - a) unbestrittenen Begehren voll entsprochen wird;
 - b) die Eröffnung durch amtliche Publikation erfolgt;
 - c) den Parteien und den anderen Beteiligten am Verfahren angezeigt wird, dass sie innert zehn Tagen seit Zustellung des Dispositivs schriftlich eine Begründung verlangen können. Die Rechtsmittelfrist beginnt mit der Zustellung der Begründung erneut zu laufen.
+
+#### § 21ter
+
+**3<sup>ter</sup>. Form der Zustellung**
+
+<sup>1</sup> Die Zustellung von Verfügungen und Entscheiden, für welche ein Zustellnachweis erbracht werden soll, erfolgt grundsätzlich durch eingeschriebene Postsendung oder auf andere Weise gegen Empfangsbestätigung.
+
+<sup>2</sup> Der Regierungsrat kann durch Verordnung Ausnahmen vorsehen und die Einzelheiten, namentlich unter welchen Voraussetzungen eine Form der Zustellung zulässig ist, regeln.
 
 #### § 22
 
@@ -722,7 +730,7 @@ beschliesst:
 
 **II. Beschwerdefrist**
 
-<sup>1</sup> Die Beschwerdefrist beträgt 10 Tage seit Eröffnung der Verfügung oder des Entscheides. Besondere Fristen des Bundesrechtes und der kantonalen Steuergesetzgebung bleiben vorbehalten.
+<sup>1</sup> Die Beschwerdefrist beträgt 10 Tage seit Eröffnung der Verfügung oder des Entscheides. Besondere Fristen des Bundesrechtes, des interkantonalen Rechtes und der kantonalen Steuergesetzgebung bleiben vorbehalten.
 
 #### § 67bis
 
