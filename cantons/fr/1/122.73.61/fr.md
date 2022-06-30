@@ -3,13 +3,12 @@ canton: FR
 number: "122.73.61"
 title: "Règlement relatif au Fonds d'entraide sociale"
 language: fr
-version: 2014-08-19
-valid_until: 2022-06-30
-version_adopted: 2014-08-19
+version: 2022-07-01
+version_adopted: 2022-05-24
 adopted: 1988-12-13
 in_force: 1989-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.73.61"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5042/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8398/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5042/pdf_file"
 
 Fonds d'entraide sociale – R
 
-du 13.12.1988 (version entrée en vigueur le 19.08.2014)
+du 13.12.1988 (version entrée en vigueur le 01.07.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -34,7 +33,9 @@ Arrête:
 
 **Fondation du Fonds d'entraide sociale**
 
-<sup>1</sup> Le Fonds d'entraide sociale est une fondation de droit public, bénéficiant de la réserve de l'article 59 du code civil suisse.
+<sup>1</sup> Le Fonds d'entraide sociale est une fondation de droit public, bénéficiant de la réserve de l'article 59 du code civil suisse[^1-1].
+
+[^1-1]: RS [210](https://db.clex.ch/link/Bund/210/fr)
 
 #### Art. 2
 
@@ -62,7 +63,7 @@ Arrête:
 
 <sup>2</sup> Le Comité de gestion est composé de trois membres, dont le conseiller d'Etat-Directeur des finances qui le préside, le chef du Service du personnel et d'organisation et un représentant du personnel.
 
-<sup>3</sup> Les membres du Comité sont nommés pour la durée de la période administrative par le Conseil d'Etat. Ils sont rééligibles. Le représentant du personnel est nommé sur proposition de la Fédération des associations du personnel de l'Etat.
+<sup>3</sup> Les membres du Comité sont nommés pour la durée de la période administrative par le Conseil d'Etat. Ils sont rééligibles. La personne représentant le personnel est choisie d'entente entre les partenaires reconnus. A défaut d'entente, le Conseil d'Etat tranche sur recommandation de la Délégation du Conseil d'Etat pour les questions du personnel.
 
 #### Art. 5
 

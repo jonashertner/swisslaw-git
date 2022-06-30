@@ -3,13 +3,12 @@ canton: FR
 number: "122.73.61"
 title: Reglement über den Sozialfonds
 language: de
-version: 2014-08-19
-valid_until: 2022-06-30
-version_adopted: 2014-08-19
+version: 2022-07-01
+version_adopted: 2022-05-24
 adopted: 1988-12-13
 in_force: 1989-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.73.61"
-pdf: "https://bdlf.fr.ch/api/de/versions/5042/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8398/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5042/pdf_file"
 
 Sozialfonds – R
 
-vom 13.12.1988 (Fassung in Kraft getreten am 19.08.2014)
+vom 13.12.1988 (Fassung in Kraft getreten am 01.07.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -34,7 +33,9 @@ beschliesst:
 
 **Stiftung des Sozialfonds**
 
-<sup>1</sup> Der Sozialfonds ist eine öffentlich-rechtliche Stiftung, für die der Vorbehalt von Artikel 59 des Schweizerischen Zivilgesetzbuches zur Anwendung gelangt.
+<sup>1</sup> Der Sozialfonds ist eine öffentlich-rechtliche Stiftung, für die der Vorbehalt von Artikel 59 des Schweizerischen Zivilgesetzbuches[^1-1] zur Anwendung gelangt.
+
+[^1-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
 #### Art. 2
 
@@ -62,7 +63,7 @@ beschliesst:
 
 <sup>2</sup> Der Vorstand besteht aus drei Mitgliedern, das heisst dem Finanzdirektor als Präsident, dem Chef des Amtes für Personal und Organisation und einem Vertreter des Personals.
 
-<sup>3</sup> Die Mitglieder des Vorstandes werden vom Staatsrat für jeweils eine Verwaltungsperiode ernannt. Sie können wiedergewählt werden. Der Vertreter des Personals wird auf Vorschlag der Vereinigung der Personalverbände des Staates ernannt.
+<sup>3</sup> Die Mitglieder des Vorstandes werden vom Staatsrat für jeweils eine Amtsperiode ernannt. Sie sind wiederwählbar. Die Person, die das Personal vertritt, wird im Einvernehmen zwischen den anerkannten Sozialpartnern ausgewählt. Kommt keine Einigung zustande, so entscheidet der Staatsrat auf Empfehlung seiner Delegation für das Personalwesen.
 
 #### Art. 5
 
