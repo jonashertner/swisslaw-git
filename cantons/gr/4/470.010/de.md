@@ -4,13 +4,13 @@ number: "470.010"
 title: Verordnung über die Förderung von Sport und Bewegung
 short: Sportförderungsverordnung
 language: de
-version: 2015-08-01
-corrected: 2021-06-24
-version_adopted: 2015-07-07
+version: 2022-07-01
+valid_until: 2024-08-31
+version_adopted: 2022-06-07
 adopted: 2015-07-07
 in_force: 2015-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/470.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2598/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3252/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2598/pdf_file"
 
 (Sportförderungsverordnung)
 
-Vom 07.07.2015 (Stand 01.08.2015)
+Vom 07.07.2015 (Stand 01.07.2022)
 
 Gestützt auf Art. 45 der Kantonsverfassung[^ingress-1]
 
@@ -59,7 +59,7 @@ von der Regierung erlassen am 7. Juli 2015
 
 **Inhalt**
 
-<sup>1</sup> Das Sporförderungskonzept bildet die Grundlage für zukünftige sportpolitische Entscheidungen und soll insbesondere:
+<sup>1</sup> Das Sportförderungskonzept bildet die Grundlage für zukünftige sportpolitische Entscheidungen und soll insbesondere:
 
 - a) in den verschiedenen Bereichen der Sportförderung die aktuelle Situation darstellen;
 - b) konkrete Schwerpunkte für die Sportförderung definieren und Massnahmen zur Erreichung dieser Schwerpunkte aufzeigen;
@@ -224,6 +224,45 @@ von der Regierung erlassen am 7. Juli 2015
 **Leistungszentren**
 
 <sup>1</sup> Der Kanton fördert den Leistungssport, insbesondere durch Beiträge an nationale oder regionale Leistungszentren im Kanton Graubünden.
+
+## 7a. Lokale Bewegungs- und Sportnetze
+
+#### Art. 21a
+
+**Trägerschaft und Zweck**
+
+<sup>1</sup> Träger eines lokalen Bewegungs- und Sportnetzes ist eine Gemeinde, eine Gemeindekooperation oder eine Region.
+
+<sup>2</sup> Lokale Bewegungs- und Sportnetze dienen insbesondere:
+
+- a) der Vernetzung und Koordination sämtlicher Sportakteure innerhalb der Trägerschaft;
+- b) der Schaffung guter Rahmenbedingungen für Bewegung und Sport;
+- c) der Förderung von Bewegung und Sport für die ganze Bevölkerung.
+
+#### Art. 21b
+
+**Beitragsvoraussetzungen**
+
+<sup>1</sup> Im Einzugsgebiet der Trägerschaft wohnen mindestens 750 Einwohnerinnen und Einwohner. Massgebend für die Berechnung ist die aktuelle Bevölkerungsstatistik des Bundesamts für Statistik zum Zeitpunkt der Unterzeichnung der Leistungsvereinbarung.
+
+<sup>2</sup> Die Trägerschaft beschliesst den Aufbau oder die Weiterentwicklung einer Sportkoordinationsstelle mittels Schaffung von mindestens zehn Stellenprozenten.
+
+<sup>3</sup> Es liegt eine von der Trägerschaft und dem Departement unterzeichnete Leistungsvereinbarung inklusive Kopie des Arbeitsvertrags vor.
+
+<sup>4</sup> Der Aufbau beziehungsweise die Weiterentwicklung des lokalen Bewegungs- und Sportnetzes dient weder der Erfüllung öffentlich-rechtlicher Verpflichtungen noch vorwiegend touristischen und kommerziellen Zwecken.
+
+#### Art. 21c
+
+**Beitragshöhe und -dauer, Anrechenbarkeit**
+
+<sup>1</sup> Der Kanton leistet ab Anstellungsbeginn der Sportkoordinatorin oder des Sportkoordinators Beiträge an den Aufbau und die Weiterentwicklung von lokalen Bewegungs- und Sportnetzen in Form einer Pauschale von jährlich maximal 13 000 Franken pro zehn Stellenprozenten für die Dauer von maximal vier Jahren. Die Höhe der Pauschale ist abhängig von der effektiven Bruttojahreslohnsumme (auf 1000 Fr. aufgerundet) und wird in der Leistungsvereinbarung festgelegt.
+
+<sup>2</sup> Für Beiträge anrechenbar sind:
+
+- a) maximal zehn Stellenprozente pro 1000 Einwohnerinnen und Einwohner (auf 500 gerundete Einwohnerzahl);
+- b) maximal 50 Prozent des Arbeitsumfangs, welcher für die Sportkoordination gemäss Artikel 21a Absatz 2 eingesetzt wird.
+
+<sup>3</sup> Nicht anrechenbar sind Stellenprozente der Sportkoordinatorin oder des Sportkoordinators gemäss Artikel 21b Absatz 4.
 
 ## 8. Preise
 

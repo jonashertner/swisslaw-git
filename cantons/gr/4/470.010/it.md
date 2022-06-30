@@ -4,13 +4,13 @@ number: "470.010"
 title: "Ordinanza sulla promozione dello sport e dell'attività fisica"
 short: Ordinanza sulla promozione dello sport
 language: it
-version: 2015-08-01
-corrected: 2021-06-24
-version_adopted: 2015-07-07
+version: 2022-07-01
+valid_until: 2024-08-31
+version_adopted: 2022-06-07
 adopted: 2015-07-07
 in_force: 2015-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/470.010"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2598/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3252/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2598/pdf_file"
 
 (Ordinanza sulla promozione dello sport)
 
-del 07.07.2015 (stato 01.08.2015)
+del 07.07.2015 (stato 01.07.2022)
 
 emanata dal Governo il 7 luglio 2015
 
@@ -224,6 +224,45 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 **Centri di prestazioni**
 
 <sup>1</sup> Il Cantone promuove lo sport di competizione in particolare tramite contributi a centri di prestazioni nazionali o regionali nel Cantone dei Grigioni.
+
+## 7a. Reti locali di sport e movimento
+
+#### Art. 21a
+
+**Ente responsabile e scopo**
+
+<sup>1</sup> L'ente responsabile di una rete locale di sport e movimento è un comune, una corporazione di comuni o una regione.
+
+<sup>2</sup> Le reti locali di sport e movimento servono in particolare:
+
+- a) alla messa in rete e al coordinamento di tutti gli attori del settore sportivo nel comprensorio di un ente responsabile;
+- b) alla creazione di buone condizioni quadro per lo sport e il movimento;
+- c) alla promozione del movimento e dello sport per tutta la popolazione.
+
+#### Art. 21b
+
+**Presupposti per i contributi**
+
+<sup>1</sup> Nel comprensorio dell'ente responsabile vivono almeno 750 persone. Per il calcolo è determinante l'attuale statistica della popolazione dell'Ufficio federale di statistica al momento della sottoscrizione dell'accordo di prestazioni.
+
+<sup>2</sup> L'ente responsabile decide in merito alla costituzione o allo sviluppo di un servizio per il coordinamento dello sport con la creazione di un impiego in misura di almeno il dieci per cento.
+
+<sup>3</sup> È disponibile un accordo di prestazioni sottoscritto dall'ente responsabile e dal Dipartimento, comprendente una copia del contratto di lavoro.
+
+<sup>4</sup> La costituzione e lo sviluppo della rete locale di sport e movimento non serve né all'adempimento di impegni di diritto pubblico né a scopi prevalentemente turistici e commerciali.
+
+#### Art. 21c
+
+**Ammontare e durata dei contributi, computabilità**
+
+<sup>1</sup> A partire dal momento dell'entrata in carica del coordinatore sportivo, il Cantone versa contributi a favore della costituzione e dello sviluppo di reti locali di sport e movimento sotto forma di una forfetaria pari al massimo a 13 000 franchi all'anno per ogni dieci per cento di impiego e per la durata massima di quattro anni. L'ammontare della forfetaria dipende dalla massa salariale lorda effettiva (arrotondata per eccesso a fr. 1000) e viene stabilito nell'accordo di prestazioni.
+
+<sup>2</sup> Per i contributi sono computabili:
+
+- a) al massimo un dieci per cento di impiego ogni 1000 abitanti (numero di abitanti arrotondato a 500);
+- b) al massimo il 50 per cento del volume di lavoro impiegato per il coordinamento sportivo in conformità all'articolo 21a capoverso 2.
+
+<sup>3</sup> Non sono computabili le percentuali di impiego del coordinatore sportivo in conformità all'articolo 21b capoverso 4.
 
 ## 8. Premi
 

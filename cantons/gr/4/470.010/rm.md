@@ -4,13 +4,13 @@ number: "470.010"
 title: Ordinaziun davart la promoziun dal sport e dal moviment
 short: ordinaziun da promoziun dal sport
 language: rm
-version: 2015-08-01
-corrected: 2021-06-24
-version_adopted: 2015-07-07
+version: 2022-07-01
+valid_until: 2024-08-31
+version_adopted: 2022-06-07
 adopted: 2015-07-07
 in_force: 2015-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/470.010"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2598/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3252/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2598/pdf_file"
 
 (ordinaziun da promoziun dal sport)
 
-dals 07-07-2015 (versiun dals 01-08-2015)
+dals 07-07-2015 (versiun dals 01-07-2022)
 
 sa basond sin l'art. 45 da la constituziun chantunala[^ingress-1]
 
@@ -224,6 +224,45 @@ relaschada da la regenza ils 7 da fanadur 2015
 **Centers da prestaziun**
 
 <sup>1</sup> Il chantun promova il sport da prestaziun, spezialmain cun contribuziuns a centers da prestaziun naziunals u regiunals en il chantun Grischun.
+
+## 7a. Raits localas da moviment e da sport
+
+#### Art. 21a
+
+**Purtadras ed intent**
+
+<sup>1</sup> Ina rait locala da moviment e da sport vegn purtada d'ina vischnanca, d'ina cooperaziun da vischnancas u d'ina regiun.
+
+<sup>2</sup> Raits localas da moviment e da sport servan en emprima lingia a:
+
+- a) colliar e coordinar tut ils acturs da sport entaifer la purtadra;
+- b) crear bunas cundiziuns generalas per il moviment e per il sport;
+- c) promover il moviment ed il sport per tut la populaziun.
+
+#### Art. 21b
+
+**Premissas per survegnir contribuziuns**
+
+<sup>1</sup> En l'intschess da la purtadra abitan almain 750 abitantas ed abitants. Decisiva per la calculaziun è la statistica actuala da la populaziun da l'Uffizi federal da statistica il mument che la cunvegna da prestaziun vegn suttascritta.
+
+<sup>2</sup> La purtadra concluda d'installar u da sviluppar vinavant in post per la coordinaziun dal sport cun stgaffir ina plazza d'almain 10 pertschient.
+
+<sup>3</sup> Igl è avant maun ina cunvegna da prestaziun suttascritta da la purtadra e dal departament inclusiv la copia dal contract da lavur.
+
+<sup>4</sup> L'installaziun respectivamain l'ulteriur svilup da la rait locala da moviment e da sport na serva ni per ademplir obligaziuns da dretg public ni per ademplir intents principalmain turistics u commerzials.
+
+#### Art. 21c
+
+**Autezza e durada da la contribuziun, imputabladad**
+
+<sup>1</sup> A partir dal cumenzament da l'engaschament da la coordinatura u dal coordinatur da sport paja il chantun contribuziuns en furma d'ina pauschala da maximalmain 13 000 francs per onn per mintgamai 10 pertschient d'ina plazza e per ina durada da maximalmain 10 onns per installar e per sviluppar vinavant raits localas da moviment e da sport. L'autezza da la pauschala dependa da la summa effectiva dal salari annual brut (arrundà sin 1000 francs) e vegn fixada en la cunvegna da prestaziun.
+
+<sup>2</sup> Imputabels per las contribuziuns èn:
+
+- a) maximalmain 10 pertschient d'ina plazza per 1000 abitantas ed abitants (dumber d'abitantas e d'abitants arrundà sin 500);
+- b) maximalmain 50 pertschient dal grad d'occupaziun che vegn impundì per la coordinaziun dal sport tenor l'artitgel 21a alinea 2.
+
+<sup>3</sup> Betg imputabels n'èn pertschients da plazzas da la coordinatura u dal coordinatur da sport tenor l'artitgel 21b alinea 4.
 
 ## 8. Premis
 
