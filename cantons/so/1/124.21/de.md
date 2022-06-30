@@ -4,13 +4,13 @@ number: "124.21"
 title: "Gesetz über die Haftung des Staates, der Gemeinden, der öffentlich-rechtlichen Körperschaften und Anstalten und die Verantwortlichkeit der Behörden, Beamten und öffentlichen Angestellten und Arbeiter"
 short: Verantwortlichkeitsgesetz
 language: de
-version: 2017-10-01
-valid_until: 2022-06-30
-version_adopted: 2017-05-09
+version: 2022-07-01
+valid_until: 2025-07-31
+version_adopted: 2021-08-31
 adopted: 1966-06-26
 in_force: 1966-07-01
 url: "https://bgs.so.ch/app/de/texts_of_law/124.21"
-pdf: "https://bgs.so.ch/api/de/versions/4628/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5185/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4628/pdf_file"
 
 (Verantwortlichkeitsgesetz)
 
-Vom 26.06.1966 (Stand 01.10.2017)
+Vom 26.06.1966 (Stand 01.07.2022)
 
 Der Kantonsrat von Solothurn
 
@@ -66,9 +66,9 @@ beschliesst:
 
 #### § 5
 
-**Vorbehalt des Bundesrechts**
+**Vorbehalt des Bundesrechts und des interkantonalen Rechts**
 
-<sup>1</sup> Dieses Gesetz findet keine Anwendung auf Tatbestände, welche unter das Bundesgesetz über die Verantwortlichkeit des Bundes sowie seiner Behördemitglieder und Beamten vom 14. März 1958 oder unter die Haftpflichtbestimmungen anderer Erlasse des Bundes fallen.
+<sup>1</sup> Dieses Gesetz findet keine Anwendung auf Tatbestände, welche unter das Bundesgesetz über die Verantwortlichkeit des Bundes sowie seiner Behördemitglieder und Beamten vom 14. März 1958 oder unter die Haftpflichtbestimmungen anderer Erlasse des Bundes oder des interkantonalen Rechts fallen.
 
 #### § 6
 
@@ -184,11 +184,13 @@ beschliesst:
 
 <sup>1</sup> Schadenersatz- oder Rückgriffsansprüche des Staates werden vom Regierungsrat erhoben.
 
-<sup>2</sup> Gegenüber Mitgliedern des Regierungsrates, des Obergerichtes, des Schwurgerichtes, des Kassationsgerichtes, des Verwaltungsgerichtes, des Versicherungsgerichtes und des Kantonalen Steuergerichtes steht die Geltendmachung des Anspruches dem Kantonsrat zu.
+<sup>2</sup> Gegenüber Mitgliedern des Regierungsrates, des Obergerichtes, des Verwaltungsgerichtes, des Versicherungsgerichtes und des Kantonalen Steuergerichtes steht die Geltendmachung des Anspruches dem Kantonsrat zu.
 
 <sup>3</sup> Gegenüber Beamten der Gemeinde steht die Geltendmachung des Anspruches dem Gemeinderat, gegenüber den Mitgliedern des Gemeinderates der Gemeindeversammlung zu.
 
 <sup>4</sup> Gegenüber dem Personal der Pensionskasse Kanton Solothurn (PKSO) steht die Geltendmachung des Anspruches dem obersten Organ der PKSO zu. Die Kompetenz kann im Rahmen des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) vom 25. Juni 1982[^18-1] delegiert werden.
+
+<sup>5</sup> Gegenüber dem Personal von anderen Körperschaften, Anstalten und juristischen Personen steht die Geltendmachung des Anspruches dem geschäftsleitenden Organ zu.
 
 [^18-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de).
 
