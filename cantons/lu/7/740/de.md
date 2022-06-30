@@ -4,13 +4,12 @@ number: "740"
 title: Gesetz über den Feuerschutz
 short: FSG
 language: de
-version: 2019-07-01
-valid_until: 2022-06-30
-version_adopted: 2018-09-10
+version: 2022-07-01
+version_adopted: 2021-10-25
 adopted: 1957-11-05
 in_force: 1958-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/740"
-pdf: "https://srl.lu.ch/api/de/versions/3413/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3918/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3413/pdf_file"
 
 (FSG)
 
-vom 05.11.1957 (Stand 01.07.2019)
+vom 05.11.1957 (Stand 01.07.2022)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -665,9 +664,13 @@ beschliesst:
 
 **Organisation**
 
-<sup>1</sup> Die Gemeinde hat dafür zu sorgen, dass die Gebäude nach Möglichkeit entweder durch eine leistungsfähige Hydrantenanlage oder durch Motorspritzen mit den erforderlichen Wasserbezugsorten geschützt werden.
+<sup>1</sup> Die Gemeinde hat dafür zu sorgen, dass die Gebäude nach Möglichkeit mit leistungsfähigen Hydrantenanlagen oder anderen geeigneten Wasserbezugsorten geschützt werden.
+
+<sup>1a</sup> Sie kann diese Aufgabe selber erfüllen oder einem Wasserversorgungsträger übertragen. Für die Aufgabenübertragung gilt § 40 des Wassernutzungs- und Wasserversorgungsgesetzes[^95-1] sinngemäss.
 
 <sup>2</sup> Eigentümer von besonders feuergefährlichen Betrieben und von grösseren Bauten wie Fabriken, Hotels, Anstalten können durch die Gemeinde oder die Gebäudeversicherung verpflichtet werden, auf eigene Kosten für die zur ersten Bekämpfung eines Brandes nötigen Rettungs- und Löscheinrichtungen zu sorgen.
+
+[^95-1]: SRL Nr. [770](https://srl.lu.ch/data/770/de)
 
 #### § 96
 
@@ -680,19 +683,37 @@ beschliesst:
 
 #### § 97
 
-**Perimeter**
-
-<sup>1</sup> An die Kosten der Neuerstellung und Erweiterung von Hydrantenanlagen können von den Eigentümern der im Hydrantenbereich (100 m) liegenden Gebäude Beiträge verlangt werden.
+**…**
 
 #### § 98
 
-**Wasserbezugsorte**
+**Andere Wasserbezugsorte**
 
-<sup>1</sup> Eigentümer von Wasserbezugsorten wie Weiher, Brunnen, Wasserbehälter sind verpflichtet, diese im Übungs- und Brandfalle unentgeltlich zur Verfügung zu stellen. Im Brandfalle dürfen auch Jauchebehälter ohne Entschädigung benutzt werden.
+<sup>1</sup> Wo die Erstellung von Hydrantenanlagen nicht zweckmässig ist, sind nach Möglichkeit geeignete andere Wasserbezugsorte anzulegen und zweckmässig zu unterhalten.
 
-<sup>2</sup> In abgelegenen Gebieten und wo die Erstellung von Hydrantenanlagen nicht möglich ist, sind besondere Feuerweiher oder Stauvorrichtungen anzulegen und zweckentsprechend zu unterhalten.
+<sup>2</sup> Wasserbezugsorte zu Löschzwecken sind neben Hydrantenanlagen insbesondere Löschweiher, Löschwasserbehälter, fixe Stauvorrichtungen an Fliessgewässern und bauliche Massnahmen an natürlichen stehenden Gewässern.
 
-<sup>3</sup> Die Feuerwehr hat das Zugangsrecht zu den Übungs- und Brandplätzen sowie zu den Wasserbezugsorten.
+<sup>3</sup> Eigentümer von Wasserbezugsorten sind verpflichtet, diese im Übungs- und Brandfall unentgeltlich zur Verfügung zu stellen. Im Brandfall dürfen zusätzlich auch Wasserbehälter wie Retentionsbecken und Schwimmbecken ohne Entschädigung benutzt werden.
+
+<sup>4</sup> Der Feuerwehr ist jederzeit der freie Zugang zu den Übungs- und Brandplätzen sowie zu den Wasserbezugsorten zu gewähren.
+
+#### § 98a
+
+**Beiträge von Gebäudeeigentümern**
+
+<sup>1</sup> An die Kosten der Neuerstellung und Erweiterung sowie an den betrieblichen Unterhalt von Hydrantenanlagen und anderen Wasserbezugsorten können von den Eigentümern der im Schutzbereich (Radius von 400 m) liegenden Gebäude Beiträge verlangt werden. Der Schutzbereich kann sich auch über mehrere Gemeinden hinweg erstrecken.
+
+<sup>2</sup> Der von den Eigentümern zu tragende Kostenanteil wird nach Massgabe der einzelnen Gebäudeversicherungswerte aufgeteilt, wobei nur die Gebäude berücksichtigt werden, die durch den entsprechenden Wasserbezugsort zweckmässig mit Löschwasser versorgt werden können.
+
+<sup>3</sup> Der Beitrag des einzelnen Eigentümers beträgt höchstens ein Prozent des Gebäudeversicherungswertes.
+
+#### § 98b
+
+**Rechtsmittel**
+
+<sup>1</sup> Gegen die Verfügung von Beiträgen nach § 98a dieses Gesetzes kann der Beitragspflichtige innert 30 Tagen seit Zustellung beim Gemeinderat Einsprache erheben.
+
+<sup>2</sup> Gegen den Einspracheentscheid des Gemeinderates ist innert 30 Tagen seit Zustellung des Entscheids die Verwaltungsgerichtsbeschwerde an das Kantonsgericht zulässig. Dem Kantonsgericht steht auch die Ermessenskontrolle zu.
 
 #### § 99
 
