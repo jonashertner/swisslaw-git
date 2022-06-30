@@ -4,13 +4,13 @@ number: "510.110"
 title: Verordnung betreffend die Kantonspolizei des Kantons Basel-Stadt
 short: "Polizeiverordnung, PolV"
 language: de
-version: 2020-07-01
-valid_until: 2022-06-30
+version: 2022-07-01
+valid_until: 2022-12-28
 version_adopted: 2020-06-16
 adopted: 1997-06-03
 in_force: 1997-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/510.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4970/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5572/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Polizeiverordnung | Polizei[^t-1]
 
 (Polizeiverordnung, PolV)
 
-Vom 3. Juni 1997 (Stand 1. Juli 2020)
+Vom 3. Juni 1997 (Stand 1. Juli 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -266,63 +266,105 @@ beschliesst:
 
 **Tarif für Polizeieinsätze**
 
-<sup>1</sup> Der Tarif für den Kostenersatz für polizeiliche Einsätze wird wie folgt festgelegt:
+<sup>1</sup> Der Tarif für polizeiliche Einsätze wird wie folgt festgelegt:
 
-- 1\. Die Grundgebühr für den Einsatz einer Mitarbeiterin oder eines Mitarbeiters der Kantonspolizei Basel-Stadt beträgt mindestens CHF 130 pro Stunde. Für angebrochene Stunden wird bis 30 Minuten die Hälfte davon erhoben, darüber hinaus die volle Gebühr.
-- 2\. Die Gebühr ist unabhängig vom Dienstgrad und beinhaltet Inkonvenienzentschädigungen, die Kosten für persönliche Ausrüstung, Verpflegung und allgemeines Verbrauchsmaterial sowie die Kosten für kantonseigene Motorräder, Personenwagen und Kleinbusse. Kosten für Spezialfahrzeuge und einsatzspezifisches Material sowie Drittkosten sind hingegen nicht darin enthalten und werden separat verrechnet.
+- 1\. Die Grundgebühr für den Einsatz einer Mitarbeiterin oder eines Mitarbeiters der Kantonspolizei Basel-Stadt beträgt mindestens Fr. 145 pro Stunde. Für angebrochene Stunden wird bis 30 Minuten die Hälfte davon erhoben, darüber hinaus die volle Gebühr.
+- 2\. Die Gebühr ist unabhängig vom Dienstgrad und beinhaltet Inkonvenienzentschädigungen, die Kosten für persönliche Ausrüstung, Verpflegung und allgemeines Verbrauchsmaterial sowie die Kosten für kantonseigene Motorräder, Personenwagen und Kleinbusse. Kosten für Spezialfahrzeuge und einsatzspezifisches Material sowie Drittkosten sind hingegen nicht darin enthalten und werden separat in Rechnung gestellt.
 - 3\. Der Stundensatz wird periodisch überprüft und dem Schweizerischen Landesindex der Konsumentenpreise angepasst (Stand 1. 1. 2011).
 - 4\. Dieser Tarif wie auch die indexierte Anpassung gelten ebenso für allfällig pauschalierte Beträge in § 18.
+- 5\. Die Gebühren der Kantonspolizei sind mehrwertsteuerpflichtig. Die Mehrwertsteuer wird bei der Rechnungsstellung entsprechend zu den Ansätzen nach Abs. 1 und §§ 18 ff addiert.
 
 #### § 18
 
-**Gebühren und Aufwendungsersatz**
+**Grundsätze der Gebühren und des Kostenersatzes**
 
-<sup>1</sup> Die Kantonspolizei erhebt in der Regel die folgenden polizeilichen Gebühren:
+<sup>1</sup> Die Kantonspolizei erhebt Gebühren für Bewilligungen und verlangt Kostenersatz für sicherheits-, verkehrs- und kriminalpolizeiliche Massnahmen und Einsätze, welche über die Sicherstellung der polizeilichen Grundversorgung hinausgehen. Sofern diese Verordnung keine abweichenden Regelungen aufstellt, werden Massnahmen und Einsätze nach effektivem Aufwand in Rechnung gestellt.
 
-- 1\. Abgabe von Adressen von Inhaberinnen oder Inhabern polizeilicher Bewilligungen: CHF 1 pro Adresse, mindestens aber CHF 30;
-- 2\. Bezüglich Verzugszins und Mahngebühren gelten die Bestimmungen in § 14 b der Verordnung zum Verwaltungsgebührengesetz.
-- 3\.
-  - a) Abschuss-, Schiess-, Spreng- und Feuerwerkbewilligungen (§ 93 ÜStG): CHF 30 bis 400, je nach Aufwand;
-  - b) Höhenfeuerbewilligungen (§ 94 ÜStG): CHF 30 bis 400, je nach Aufwand;
-  - c) Lautsprecherbewilligungen (§ 32 ÜStG): CHF 30 bis 400, je nach Aufwand;
-  - d) Bewilligungen zum Halten wilder Tiere (§ 87 ÜStG): CHF 30 bis 400, je nach Aufwand;
-  - e) Bewilligung für Dienstleistungen im Sicherheitsbereich (§ 62 Abs. 5 PolG): CHF 300 bis 500, je nach Aufwand;
-  - f) Abklärung der Handlungsfähigkeit und des Leumunds (§ 63 Abs. 1 PolG): Verrechnung analog Bund Art. 30 der Verordnung über das Strafregister (VOSTRA-Verordnung, SR 331);
-- 4\.
-  - a) Einmalige Aufschaltgebühr zu den Alarmeinrichtungen der Polizei: CHF 300;
-  - b) Gebühr für das erstmalige Erstellen des Alarmeinsatzdispositivs (§ 67 Abs. 2 Ziff. 4 PolG): je nach Aufwand CHF 130 / Stunde; maximal CHF 1'100;
-  - c) Jährliche Anschlussgebühren an die Alarmeinrichtungen der Polizei: CHF 390. Diese Gebühr beinhaltet die jährliche Aufschaltgebühr zu den Alarmeinrichtungen der Polizei sowie die Stammdatenpflege. Wird diese Stammdatenpflege überdurchschnittlich beansprucht, so kann auf die Verrechnung nach effektivem Aufwand gewechselt werden;
-- 5\.
-  - a) Polizeiliche Einsätze, die durch
-  - aa) einen Fehlalarm verursacht wurden oder durch
-  - ab) Missbrauch von öffentlichen Alarmeinrichtungen verursacht werden oder durch
-  - ac) eigenes vorsätzliches oder fahrlässiges Verschulden verursacht werden, welches unmittelbar drohende Gefährdungen oder eintretende Störungen der öffentlichen Sicherheit und Ordnung sowie der Umwelt zur Folge haben, werden nach lit. b) und c) verrechnet.
-  - b) In Fällen von lit. aa) gilt ein Kostenrahmen von CHF 260 bis CHF 1'300, sofern die Einsatzzeit (gemäss § 17 Ziff. 7) für die Alarmbearbeitung und Klärung der Alarmursache 45 Minuten nicht überschreiten. Längere Einsatzzeiten werden nach effektivem Aufwand verrechnet.
-  - c) Fälle von lit. ab) und ac) werden nach dem effektiven Aufwand abgerechnet.
-  - d) Für polizeiliche Einsätze, die durch öffentliche Gefährdung oder Ärgerniserregung im Rauschzustand verursacht werden, kommen folgende pauschalierten Beträge zur Anwendung:
-  - da) beeinträchtigte Personen, welche für medizinische Abklärungen des Rauschzustandes (z. Bsp. durch Sanität, Ärztinnen und Ärzte oder Spitäler) polizeilich begleitet werden müssen und anschliessend in Polizeigewahrsam genommen werden: CHF 780;
-  - db) beeinträchtigte Personen, welche für medizinische Abklärungen des Rauschzustandes (z. Bsp. durch Sanität, Ärztinnen und Ärzte oder, Spitäler) polizeilich begleitet werden müssen ohne anschliessenden Polizeigewahrsam werden nach effektivem Aufwand verrechnet;
-  - dc) beeinträchtigte Personen mit Polizeigewahrsam (ohne medizinische Abklärungen): CHF 585;
-  - dd) unmündige Personen mit Rauschsymptomen, bei welchen die Obhutsberechtigten ihrer fürsorglichen Pflicht nicht nachkommen (zum Beispiel weil sie der Abholung der Unmündigen nicht nachkommen, oder diese über Gebühr in polizeilicher Obhut gelassen werden oder die Unmündigen an den Wohnort zugeführt werden müssen): CHF 455.
-  - e) In Fällen von lit. d) werden
-  - ea) die anfallenden Drittkosten wie beispielsweise medizinische Abklärungen durch den Leistungserbringer separat verrechnet.
-  - eb) verursachte Kosten wie Materialschäden, Reinigungskosten etc. sind in obgenannten Beträgen nicht enthalten und werden zusätzlich verrechnet.
-  - f) Kosten und Leistungen der Kantonspolizei, die vorwiegend im Interesse einer Drittperson von der Kantonspolizei vorfinanziert wurden, wie Leichentransporte oder Türöffnungen, werden gemäss Art. 419 ff. OR weiterverrechnet. Kosten staatlicher Dienstleistungserbringer werden von der Kantonspolizei nicht vorfinanziert.
-- 6\. Missbräuchliche Beanspruchung polizeilicher Übermittlungseinrichtungen (Funk, Telefax usw.), sofern ein Verschulden der Verursacherin oder des Verursachers vorliegt und bei der Polizei ein Aufwand von mehr als zwei Einsatzstunden entsteht: CHF 260 bis 1'100;
-- 7\.
-  - a) Polizeieinsätze für sicherheits-, verkehrs- und kriminalpolizeiliche Massnahmen und Einsätze, welche über die Sicherstellung des polizeilichen Grundauftrags hinausgehen: Nach effektivem Aufwand
-  - b) Ausserordentliche Polizeieinsätze an Veranstaltungen sind grundsätzlich kostenpflichtig:
-  - ba) Messeveranstaltungen der MCH Messe Schweiz (Basel) AG sowie der MCH Group AG erhalten bei der Verrechnung der Einsätze von Kantonspolizei, Feuerwehr und Sanität eine Kostenreduktion von 50%.
-  - bb) Bei Sport- und Konzertveranstaltungen verzichten die Kantonspolizei, die Feuerwehr und die Sanität insgesamt auf die Verrechnung einer Basisdienstleistung im Gegenwert von 250 Einsatzstunden. Die darüber hinausgehenden Einsatzkosten werden zu 50% verrechnet.
-  - bc) Für Veranstaltungen im öffentlichen Raum mit ideellem, volkstümlichem oder kulturellem Interesse kann bei der Allmendverwaltung ein Gesuch auf partiellen oder vollständigen Kostenerlass gestellt werden.
-  - c) Der Regierungsrat kann bei der Festsetzung der Kosten für die allgemeinen staatlichen Dienstleistungen ausnahmsweise von den Ansätzen gemäss Abs. 1 Ziff. 7 lit. a und b hiervor abweichen und über Gesuche um Ermässigung oder Erlass entscheiden. Dieser Entscheid steht der Departementsvorsteherin oder dem Departementsvorsteher zu, sofern nur geringe Kosten anfallen.
-- 8\.
-  - a) Zustellung von Betreibungsurkunden (gem. Art. 64 Abs. 2 SchKG): CHF 40;
-  - b) polizeiliche Vorführungen von Schuldnerinnen und Schuldnern im Pfändungs- und Konkursverfahren (gemäss Art. 91 Abs. 2 und 229 Abs. 1 SchKG): CHF 75 pro Vorführung.
+- 1\. …
+- 2\. …
+- 3\. …
+- 4\. …
+- 5\. …
+- 6\. …
+- 7\. …
+- 8\. …
 
-<sup>2</sup> Für verkehrspolizeiliche Leistungen gelten die in der Strassenverkehrsordnung aufgeführten Gebühren.
+<sup>2</sup> Kosten und Leistungen der Kantonspolizei, die vorwiegend im Interesse einer Drittperson von der Kantonspolizei vorfinanziert wurden, wie Leichentransporte oder Türöffnungen, werden nach den Bestimmungen zur Geschäftsführung ohne Auftrag (Art. 419 ff Obligationenrecht vom 30. März 1911) in Rechnung gestellt. Kosten staatlicher Dienstleistungserbringer werden von der Kantonspolizei nicht vorfinanziert.
 
 <sup>3</sup> …
+
+<sup>3<sup>bis</sup></sup> Verursachte Kosten wie Materialschäden oder Reinigungskosten an polizeilicher Infrastruktur werden der verursachenden Person zusätzlich zu einem allfälligen Kostenersatz nach § 18 Abs. 1 in Rechnung gestellt.
+
+<sup>4</sup> Bezüglich Verzugszins und Mahngebühren gelten die Bestimmungen in § 14b der Verordnung zum Gesetz über die Verwaltungsgebühren vom 20. Juni 1972.
+
+<sup>5</sup> Für verkehrspolizeiliche Leistungen gelten die in der Verordnung über den Strassenverkehr (Strassenverkehrsverordnung, StVO) vom 17. Mai 2011 aufgeführten Gebühren.
+
+#### § 18a
+
+**Verursachen eines Polizeieinsatzes**
+
+<sup>1</sup> Für polizeiliche Einsätze, die durch einen Fehlalarm verursacht wurden, gilt ein Kostenrahmen von Fr. 290 bis Fr. 1'450, je nach Aufwand, sofern die Einsatzzeit für die Alarmbearbeitung und Klärung der Alarmursache 45 Minuten nicht überschreiten. Längere Einsatzzeiten werden nach effektivem Aufwand in Rechnung gestellt.
+
+<sup>2</sup> Polizeiliche Einsätze, die durch einen Missbrauch von öffentlichen Alarmeinrichtungen verursacht werden, werden nach effektivem Aufwand in Rechnung gestellt.
+
+<sup>3</sup> Die missbräuchliche Beanspruchung polizeilicher Übermittlungseinrichtungen (z.B. Funk usw.) wird bei einem Aufwand von mehr als zwei Einsatzstunden mit Fr. 290 bis Fr.1'230 in Rechnung gestellt, sofern ein Verschulden der Verursacherin oder des Verursachers vorliegt.
+
+<sup>4</sup> Polizeiliche Einsätze, die durch eigenes vorsätzliches oder fahrlässiges Verschulden verursacht werden, welches unmittelbar drohende Gefährdungen oder eintretende Störungen der öffentlichen Sicherheit und Ordnung oder der Umwelt zur Folge haben, werden nach dem effektiven Aufwand in Rechnung gestellt.
+
+<sup>5</sup> Für polizeiliche Einsätze, die durch Gefährdung der öffentlichen Sicherheit oder Ordnung oder Ärgerniserregung im Rauschzustand verursacht werden, werden unabhängig eines allfälligen Strafverfahrens folgende Gebühren in Rechnung gestellt:
+
+- 1\. Personen mit Polizeigewahrsam: Fr. 650;
+- 2\. Personen, die für medizinische Abklärungen des Rauschzustandes (z.B. durch Sanität, Ärztinnen und Ärzte oder Spitäler) polizeilich begleitet werden müssen und anschliessend in Polizeigewahrsam genommen werden: Fr. 870;
+- 3\. Personen, die für medizinische Abklärungen des Rauschzustandes (z.B. durch Sanität, Ärztinnen und Ärzte oder Spitäler) polizeilich begleitet werden müssen ohne anschliessenden Polizeigewahrsam: nach effektivem Aufwand;
+- 4\. Unmündige Personen mit Rauschsymptomen, bei welchen die Obhutsberechtigten ihrer fürsorglichen Pflicht nicht nachkommen: Fr. 510;
+- 5\. Allfällig anfallende Drittkosten, wie medizinische Leistungen, werden separat durch den Leistungserbringer in Rechnung gestellt.
+
+#### § 18b
+
+**Alarmwesen**
+
+<sup>1</sup> Die Kantonspolizei erhebt für private Sicherungseinrichtungen zur direkten Alarmierung der Kantonspolizei bei Überfällen oder Einbrüchen nach § 17 folgende Gebühren:
+
+- 1\. für das erstmalige Erstellen des Alarmeinsatzdispositivs: je nach Aufwand bis maximal Fr. 1'100;
+- 2\. jährliche Anschlussgebühr: Fr. 390.
+
+<sup>2</sup> Die Gebühr nach Ziff. 2 beinhaltet die jährliche Aufschaltgebühr sowie die Stammdatenpflege. Wird diese Stammdatenpflege überdurchschnittlich beansprucht, so kann die Kantonspolizei den effektiven Aufwand in Rechnung stellen.
+
+<sup>3</sup> Für private Sicherheitseinrichtungen, die nicht direkt bei der Kantonspolizei angeschlossen sind, sondern über einen privaten Sicherheitsdienstleister bewirtschaftet werden, wird im Falle eines Fehlalarms für das Erstellen des Einsatzdispositivs eine Gebühr von Fr. 300 erhoben.
+
+<sup>4</sup> Im Falle eines Fehlalarms wird zusätzlich zu allfälligen Gebühren nach Abs. 1 und 3 eine Gebühr nach § 18a Abs. 1 erhoben.
+
+#### § 18c
+
+**Bewilligungen**
+
+<sup>1</sup> Für polizeiliche Bewilligungen werden folgende Gebühren erhoben:
+
+- 1\. Abschuss-, Schiess-, Spreng- und Feuerwerksbewilligungen nach § 66a PolG: je nach Aufwand Fr. 30 bis 435;
+- 2\. Bewilligungen für Dienstleistungen im Sicherheitsbereich (§ 62 Abs. 5 PolG): je nach Aufwand Fr. 360 bis 580;
+- 3\. Abklärung der Handlungsfähigkeit und des Leumunds für Gesuchstellende einer Bewilligung für Dienstleistungen im Sicherheitsbereich (§ 63 Abs. 1 PolG): Rechnungsstellung analog Art. 30 der Verordnung über das Strafregister (VOSTRA-Verordnung) vom 29. September 2006.
+
+#### § 18d
+
+**Polizeieinsätze anlässlich von Veranstaltungen**
+
+<sup>1</sup> Ausserordentliche Polizeieinsätze an Veranstaltungen sind grundsätzlich kostenpflichtig und werden nach dem effektiven Aufwand in Rechnung gestellt.
+
+<sup>2</sup> Messeveranstaltungen der MCH Messe Schweiz (Basel) AG sowie der MCH Group AG erhalten bei der Rechnungsstellung der Einsätze von Kantonspolizei, Feuerwehr und Sanität eine Kostenreduktion von 50 %.
+
+<sup>3</sup> Bei Sport- und Konzertveranstaltungen verzichten die Kantonspolizei, die Feuerwehr und die Sanität insgesamt auf die Rechnungsstellung einer Basisdienstleistung im Gegenwert von 250 Einsatzstunden. Die darüber hinausgehenden Einsatzkosten werden zu 50 % in Rechnung gestellt.
+
+<sup>4</sup> Für Veranstaltungen im öffentlichen Raum mit ideellem, volkstümlichem oder kulturellem Interesse kann bei der Allmendverwaltung ein Gesuch auf partiellen oder vollständigen Kostenerlass gestellt werden.
+
+<sup>5</sup> Der Regierungsrat kann bei der Festsetzung der Kosten für die allgemeinen staatlichen Dienstleistungen ausnahmsweise von den Ansätzen gemäss Abs. 1 bis 4 abweichen und über Gesuche um Ermässigung oder Erlass entscheiden. Dieser Entscheid steht der Departementsvorsteherin oder dem Departementsvorsteher zu, sofern nur geringe Kosten anfallen.
+
+#### § 18e
+
+**Betreibungswesen**
+
+<sup>1</sup> Für die Zustellung von Betreibungsurkunden (gemäss Art. 64 Abs. 2 Bundesgesetz über Schuldbetreibung und Konkurs [SchKG] vom 11. April 1889) wird eine Gebühr von Fr. 70 erhoben.
+
+<sup>2</sup> Für eine polizeiliche Vorführung von Schuldnerinnen und Schuldnern im Pfändungs- und Konkursverfahren (gemäss Art. 91 Abs. 2 und 229 Abs. 1 SchKG) wird eine Gebühr von Fr. 200 erhoben.
 
 ## V. Schlussbestimmungen
 
