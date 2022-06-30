@@ -4,11 +4,11 @@ title: "Ordonnance de l'Institut suisse des produits thérapeutiques du 9 novemb
 short: OEMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/517"
 language: fr
-version: 2022-01-28
+version: 2022-07-01
 adopted: 2001-11-09
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20220128/fr/xml/fedlex-data-admin-ch-eli-cc-2001-517-20220128-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20220128/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2001-517-20220701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20220128/fr"
 
 (Ordonnance sur les exigences relatives aux médicaments, OEMéd)
 
-du 9 novembre 2001 (Etat le 28 janvier 2022)
+du 9 novembre 2001 (Etat le 1<sup>er</sup> juillet 2022)
 
 Le Conseil de l’Institut suisse des produits thérapeutiques (Conseil de l’institut),
 
@@ -580,8 +580,7 @@ Annexe 1*[^t-1]*
 
 - a. s’il s’agit de médicaments complémentaires et de phytomédicaments;
 - b. si l’approvisionnement en médicaments importants est menacé; ou
-
-c. si cela s’impose pour des motifs de lisibilité.
+- c. si cela s’impose pour des motifs de lisibilité.
 
 ### 3 Étiquetage de la catégorie de remise
 
@@ -1205,7 +1204,7 @@ Annexe 7*[^t-13]*
 
 [^annex7-lvlu1-1]
 
-[^t-13]: Introduite par le ch. II al. 1 de l’O du Conseil de l’Institut du 12 sept. 2002 ([RO 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Nouvelle teneur selon le ch. II de l’O du Conseil de l’Institut du 12 janv. 2022, en vigueur depuis le 28 janv. 2022 ([RO 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
+[^t-13]: Introduite par le ch. II al. 1 de l’O du Conseil de l’Institut du 12 sept. 2002 ([RO 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Nouvelle teneur selon le ch. II de l’O du Conseil de l’Institut du 12 janv. 2022 ([RO 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)). Mise à jour par le ch. I de l’O du Conseil de l’Institut du 22 avr. 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 261](https://fedlex.data.admin.ch/eli/oc/2022/261)).
 [^annex7-lvlu1-1]: Le texte de la présente annexe n’est publié ni au RO ni au RS (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
 
 Annexe 7a*[^t-14]*

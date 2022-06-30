@@ -4,11 +4,11 @@ title: "Ordinanza dell'Istituto svizzero per gli agenti terapeutici del 9 novemb
 short: OOMed
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/517"
 language: it
-version: 2022-01-28
+version: 2022-07-01
 adopted: 2001-11-09
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20220128/it/xml/fedlex-data-admin-ch-eli-cc-2001-517-20220128-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20220128/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2001-517-20220701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20220128/it"
 
 (Ordinanza per l’omologazione di medicamenti, OOMed)
 
-del 9 novembre 2001 (Stato 28 gennaio 2022)
+del 9 novembre 2001 (Stato 1° luglio 2022)
 
 Il Consiglio dell’Istituto svizzero per gli agenti terapeutici (Consiglio dell’Istituto),
 
@@ -1176,8 +1176,8 @@ Allegato 7*[^t-13]*
 
 [^annex7-lvlu1-1]
 
-[^t-13]: Introdotto dal n. II dell’O del Consiglio dell’Istituto del 12 set. 2002 ([RU 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Nuovo testo giusta il n. II cpv. 1 dell’O del Consiglio dell’Istituto del 12 gen. 2022, in vigore dal 28 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
-[^annex7-lvlu1-1]: Il testo del presente all. non è pubblicato nella RU (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch.
+[^t-13]: Introdotto dal n. II dell’O del Consiglio dell’Istituto del 12 set. 2002 ([RU 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Nuovo testo giusta il n. II cpv. 1 dell’O del Consiglio dell’Istituto del 12 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)). Aggiornato dal n. I dell’O del Consiglio dell’Istituto del 22 apr. 2022, in vigore dal 1° lug. 2022 ([RU 2022 261](https://fedlex.data.admin.ch/eli/oc/2022/261)).
+[^annex7-lvlu1-1]: Il testo del presente all. non è pubblicato nella RU (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch
 
 Allegato 7a*[^t-14]*
 

@@ -4,11 +4,11 @@ title: "Verordnung des Schweizerischen Heilmittelinstituts vom 9. November 2001 
 short: AMZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/517"
 language: de
-version: 2022-01-28
+version: 2022-07-01
 adopted: 2001-11-09
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20220128/de/xml/fedlex-data-admin-ch-eli-cc-2001-517-20220128-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20220128/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2001-517-20220701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20220128/de"
 
 (Arzneimittel-Zulassungsverordnung, AMZV)
 
-vom 9. November 2001 (Stand am 28. Januar 2022)
+vom 9. November 2001 (Stand am 1. Juli 2022)
 
 Der Institutsrat des Schweizerischen Heilmittelinstituts (Institutsrat),
 
@@ -367,7 +367,7 @@ Die Swissmedic kann in begründeten Ausnahmefällen spezielle Anforderungen für
 
 **Übermittlung der Texte an die Swissmedic**
 
-Texte und grafische Gestaltungen der Arzneimittelinformation sowie ihre Änderungen und Ergänzungen sind der Swissmedic in dem von ihm festgelegten Format elektronisch zu übermitteln.
+Texte und grafische Gestaltungen der Arzneimittelinformation sowie ihre Änderungen und Ergänzungen sind der Swissmedic in dem von ihr festgelegten Format elektronisch zu übermitteln.
 
 ## 5. Abschnitt: Behördliche Chargenfreigabe
 
@@ -419,7 +419,7 @@ Die Swissmedic gibt eine Charge frei, wenn sie die zugelassenen Qualitätsspezif
 
 [^22-1]: Aufgehoben durch Ziff. I der V des Institutsrats vom 7. Sept. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
-## 5*a*. Abschnitt:**** Änderungen der Zulassung von Arzneimitteln nach den Artikeln 21–24, 25*a* und 25*b* VAM****
+## 5*a*. Abschnitt: Änderungen der Zulassung von Arzneimitteln nach den Artikeln 21–24, 25*a* und 25*b* VAM
 
 [^sec5a-1][^sec5a-2]
 
@@ -460,7 +460,7 @@ Welche Änderungen in die einzelnen Kategorien nach den Artikeln 21–24, 25*a* 
 
 <sup>3</sup> Sind für die Beurteilung der verschiedenen Änderungen unterschiedliche Fristen vorgesehen, so gilt für die Beurteilung des Mehrfachgesuchs die längste davon.
 
-## 6. Abschnitt: Übergangs- und Schlussbestimmungen****
+## 6. Abschnitt: Übergangs- und Schlussbestimmungen
 
 [^sec6-1]
 
@@ -506,7 +506,7 @@ Welche Änderungen in die einzelnen Kategorien nach den Artikeln 21–24, 25*a* 
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 12 Abs. 1)
 
@@ -588,7 +588,7 @@ Anhang 1*[^t-1]*
 
 <sup>2</sup> Die Kennzeichnung der Abgabekategorie muss auf jeder Teilpackung angebracht werden.
 
-Anhang 1a*[^t-2]*
+Anhang 1a[^t-2]
 
 (Art. 12 Abs. 2)
 
@@ -663,7 +663,7 @@ Anhang 1a*[^t-2]*
 
 <sup>2</sup> Die Kennzeichnung der Abgabekategorie muss auf jeder Teilpackung angebracht werden.
 
-Anhang 1b*[^t-3]*
+Anhang 1b[^t-3]
 
 (Art. 12 Abs. 2)
 
@@ -719,11 +719,11 @@ Anhang 1b*[^t-3]*
 - 3\.1 Zur Kennzeichnung der von der Swissmedic verfügten Abgabekategorie ist auf der äusseren Packung, bei deren Fehlen auf dem Behälter, ein entsprechender Vermerk anzubringen.
 - 3\.2 Die Kennzeichnung der Abgabekategorie muss auf jeder Teilpackung angebracht werden.
 
-Anhang 2*[^t-4]*
+Anhang 2[^t-4]
 
 [^t-4]: Aufgehoben durch Ziff. II Abs. 1 der V des Institutsrats vom 7. Sept. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
-Anhang 3*[^t-5]*
+Anhang 3[^t-5]
 
 (Art. 14*b*)
 
@@ -761,18 +761,18 @@ Anhang 3*[^t-5]*
 
 Die Hilfsstoffe nach Anhang 3*a* sind von besonderem Interesse. Die zu verwendenden Warnhinweise richten sich ebenfalls nach Anhang 3*a*.
 
-Anhang 3a*[^t-6]*
+Anhang 3a[^t-6]
 
 (Art. 14*b*)
 
-## Pharmazeutische Hilfsstoffe von besonderem Interesse****
+## Pharmazeutische Hilfsstoffe von besonderem Interesse
 
 [^annex3a-lvlu1-1]
 
 [^t-6]: Eingefügt durch Ziff. II Abs. 4 der V des Institutsrats vom 7. Sept. 2018 ([AS 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)). Fassung gemäss Ziff. I der V des Institutsrats vom 8. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1843](https://fedlex.data.admin.ch/eli/oc/2020/374)).
 [^annex3a-lvlu1-1]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann unter www.swissmedic.ch abgerufen werden.
 
-Anhang 4*[^t-7]*
+Anhang 4[^t-7]
 
 (Art. 13)
 
@@ -830,7 +830,7 @@ Die Texte sind in der von der Swissmedic vorgesehenen Form zu veröffentlichen.
 <tr><td>20.</td><td>Stand der Information</td></tr>
 </table>
 
-Anhang 5.1*[^t-8]*
+Anhang 5.1[^t-8]
 
 (Art. 14)
 
@@ -876,7 +876,7 @@ Die Texte sind in der von der Swissmedic vorgesehenen Form zu veröffentlichen.
 <tr><td>4.</td><td colspan="3">**«Was sollte dazu beachtet werden?»** Hinweis für Diabetiker: «Dieses Arzneimittel enthält **…** g verwertbare Kohlenhydrate pro Einzeldosis»</td></tr>
 <tr><td colspan="2">5.</td><td>**«Wann darf … nicht eingenommen/ angewendet werden?»** Falls keine Kontraindikationen bekannt sind, ist folgende Formulierung zu wählen: «Bis heute sind keine Anwendungseinschränkungen bekannt.»</td></tr>
 <tr><td colspan="2">6.</td><td>«Wann ist bei der Einnahme / Anwendung von … Vorsicht geboten?» Bei Arzneimitteln, die einen Hilfsstoff von besonderem Interesse enthalten: Hinweise gemäss Anhang 3a. Falls zutreffend: «Dieses Arzneimittel kann die Reaktionsfähigkeit, die Fahrtüchtigkeit und die Fähigkeit, Werkzeuge oder Maschinen zu bedienen, beeinträchtigen!» Falls keine Vorsichtsmassnahmen erforderlich sind, ist folgende Formulierung zu wählen: «Bei bestimmungsgemässem Gebrauch sind keine besonderen Vorsichtsmassnahmen zu befolgen.» «Informieren Sie Ihren Arzt, Apotheker (oder Drogisten\*) oder Ihre Ärztin oder Apothekerin (Drogistin\*), wenn Sie – an andern Krankheiten leiden, – Allergien haben oder – andere Arzneimittel (auch selbst gekaufte!) einnehmen (oder äusserlich anwenden<sup>1</sup>)» \* nur bei Präparaten der Abgabekategorie D <sup>1</sup> *bei Externa und in spezifischen Fällen*</td></tr>
-<tr><td colspan="2">7.</td><td>**«Darf … während einer Schwangerschaft oder in der Stillzeit eingenommen/angewendet werden?»** Falls zutreffend: «Aufgrund der bisherigen Erfahrungen ist bei bestimmungsgemässer Anwendung kein Risiko für das Kind bekannt. Systematische wissenschaftliche Untersuchungen wurden aber nie durchgeführt. Vorsichtshalber sollten Sie während der Schwangerschaft und Stillzeit möglichst auf Arzneimittel verzichten oder den Arzt, Apotheker (oder Drogisten\*) bzw. die Ärztin, Apothekerin (oder Drogistin\*) um Rat fragen.» \* nur bei Präparaten der Abgabekategorie D</td></tr>
+<tr><td colspan="2">7.</td><td>**«Darf … während einer Schwangerschaft oder in der Stillzeit** **eingenommen/angewendet werden?»** Falls zutreffend: «Aufgrund der bisherigen Erfahrungen ist bei bestimmungsgemässer Anwendung kein Risiko für das Kind bekannt. Systematische wissenschaftliche Untersuchungen wurden aber nie durchgeführt. Vorsichtshalber sollten Sie während der Schwangerschaft und Stillzeit möglichst auf Arzneimittel verzichten oder den Arzt, Apotheker (oder Drogisten\*) bzw. die Ärztin, Apothekerin (oder Drogistin\*) um Rat fragen.» \* nur bei Präparaten der Abgabekategorie D</td></tr>
 <tr><td colspan="2">8.</td><td>**«Wie verwenden Sie …?»** Bei verschreibungspflichtigen Arzneimitteln: «Ändern Sie nicht von sich aus die verschriebene Dosierung. Wenn Sie glauben, das Arzneimittel wirke zu schwach oder zu stark, so sprechen Sie mit Ihrem Arzt oder Apotheker bzw. mit Ihrer Ärztin oder Apothekerin.» Bei nicht verschreibungspflichtigen Arzneimitteln: «Halten Sie sich an die in der Packungsbeilage angegebene oder vom Arzt oder von der Ärztin verschriebene Dosierung. Wenn Sie glauben, das Arzneimittel wirke zu schwach oder zu stark, so sprechen Sie mit Ihrem Arzt, Apotheker (oder Drogisten\*) bzw. mit Ihrer Ärztin, Apothekerin (oder Drogistin\*).» \* nur bei Präparaten der Abgabekategorie D</td></tr>
 <tr><td colspan="2">9.</td><td>«Welche Nebenwirkungen kann … haben?» «Wenn Sie Nebenwirkungen bemerken, wenden Sie sich an Ihren Arzt, Apotheker (oder Drogisten\*) bzw. Ihre Ärztin, Apothekerin (oder Drogistin\*). Dies gilt insbesondere auch für Nebenwirkungen, die nicht in dieser Packungsbeilage angegeben sind. » Falls keine Nebenwirkungen bekannt sind, ist folgende Formulierung zu wählen: «Für **…** sind bisher bei bestimmungsgemässem Gebrauch keine Nebenwirkungen beobachtet worden.» «Wenn Sie dennoch Nebenwirkungen beobachten, informieren Sie Ihren Arzt, Apotheker (oder Drogisten\*) bzw. Ihre Ärztin, Apothekerin (oder Drogistin\*).» \* nur bei Präparaten der Abgabekategorie D</td></tr>
 <tr><td colspan="2">10.</td><td>«Was ist ferner zu beachten?» «Das Arzneimittel darf nur bis zu dem auf dem Behälter mit ‹EXP› bezeichneten Datum verwendet werden.»<sup>1</sup> Lagerungshinweis. Kinderwarnung. «Weitere Auskünfte erteilt Ihnen Ihr Arzt, Apotheker (oder Drogist\*) oder Ihre Ärztin, Apothekerin (oder Drogistin\*).<sup>2</sup> Diese Personen verfügen über die ausführliche Fachinformation.» \* nur bei Präparaten der Abgabekategorie D <sup>1</sup> *Dieser Hinweis entfällt, wenn auf dem Behälter der Vermerk «ve**r**wendbar bis …» aufgedruckt ist.* <sup>2</sup> *Der Satz betreffend Fachinformation entfällt bei Präparaten, die nur eine Patie**n**teninformation haben.*</td></tr>
@@ -888,7 +888,7 @@ Die Texte sind in der von der Swissmedic vorgesehenen Form zu veröffentlichen.
 <tr><td colspan="2">16.</td><td>**«Diese Packungsbeilage wurde im … (Monat/Jahr) letztmals durch die Arzneimittelbehörde (Swissmedic) geprüft.»**</td></tr>
 </table>
 
-Anhang 5.2*[^t-9]*
+Anhang 5.2[^t-9]
 
 (Art. 14)
 
@@ -931,7 +931,7 @@ Die Texte sind in der von der Swissmedic vorgesehenen Form zu veröffentlichen.
 <tr><td></td><td>«Wenn Ihnen Ihr Arzt oder Ihre Ärztin andere Arzneimittel verschrieben hat, fragen Sie Ihren Arzt oder Apotheker bzw. Ihre Ärztin oder Apothekerin, ob … gleichzeitig eingenommen/angewendet werden darf.»</td></tr>
 <tr><td></td><td>Hinweis für Diabetiker: «Dieses Arzneimittel enthält … g verwertbare Kohlenhydrate pro Einzeldosis»</td></tr>
 <tr><td>5./6.</td><td>«Wann darf … nicht oder nur mit Vorsicht eingenommen / angewendet werden?» Bei homöopathischen und anthroposophischen Arzneimitteln, die einen Hilfsstoff von besonderem Interesse enthalten: Hinweise gemäss Anhang 3a Falls zutreffend: «Dieses Arzneimittel kann die Reaktionsfähigkeit, die Fahrtüchtigkeit und die Fähigkeit, Werkzeuge oder Maschinen zu bedienen, beeinträchtigen!» Bei verschreibungspflichtigen Arzneimitteln, für die keine Daten zu Kindern und Jugendlichen vorliegen: «Bei Kindern und Jugendlichen unter 18 Jahren soll … nicht angewendet werden.» Falls weder Kontraindikationen noch Vorsichtsmassnahmen vorhanden sind: «Bis heute sind keine Anwendungseinschränkungen bekannt. Bei bestimmungsgemässem Gebrauch sind keine besonderen Vorsichtsmassnahmen notwendig.» «Informieren Sie Ihren Arzt, Apotheker (oder Drogisten\*) oder Ihre Ärztin, Apothekerin (oder Drogistin\*), wenn Sie – an andern Krankheiten leiden, – Allergien haben oder – andere Arzneimittel (auch selbst gekaufte!) einnehmen (oder äusserlich anwenden<sup>1</sup>)» \* nur bei Präparaten der Abgabekategorie D <sup>1</sup> *bei Externa und in spezifischen Fällen*</td></tr>
-<tr><td>7.</td><td>**«Darf … während einer Schwangerschaft oder in der Stillzeit eingenommen/angewendet werden?»**</td></tr>
+<tr><td>7.</td><td>**«Darf … während einer Schwangerschaft oder in der Stillzeit** **eingenommen/angewendet werden?»**</td></tr>
 <tr><td></td><td>Falls zutreffend: «Aufgrund der bisherigen Erfahrungen ist bei bestimmungsgemässer Anwendung kein Risiko für das Kind bekannt. Systematische wissenschaftliche Untersuchungen wurden aber nie durchgeführt. Vorsichtshalber sollten Sie während der Schwangerschaft und Stillzeit möglichst auf Arzneimittel verzichten oder den Arzt, Apotheker (oder Drogisten\*) bzw. die Ärztin, Apothekerin (oder Drogistin\*) um Rat fragen.» [tab] \* nur bei Präparaten der Abgabekategorie D Vorbehalten bleiben in Einzelfällen, z.B. alkoholhaltige Arzneimittel, strengere Hinweise</td></tr>
 <tr><td>8.</td><td>«Wie verwenden Sie …?» Bei verschreibungspflichtigen Arzneimitteln: «Ändern Sie nicht von sich aus die verschriebene Dosierung. Wenn Sie glauben, das Arzneimittel wirke zu schwach oder zu stark, so sprechen Sie mit Ihrem Arzt oder Apotheker oder mit Ihrer Ärztin oder Apothekerin.» Bei verschreibungspflichtigen Injektionspräparaten, die vom Arzt oder der Ärztin direkt angewendet werden: «Dosierung / Anwendung: …» Bei verschreibungspflichtigen Arzneimitteln, für die keine Daten zu Kindern und Jugendlichen vorliegen: «Dosierung für Erwachsene / Anwendung bei Erwachsenen: …» «Für Kinder und Jugendliche wurden die Anwendung und die Sicherheit von … bisher nicht geprüft.» Bei nicht verschreibungspflichtigen Arzneimitteln: «Halten Sie sich an die in der Packungsbeilage angegebene oder vom Arzt oder von der Ärztin verschriebene Dosierung. Wenn bei der Behandlung eines Kleinkindes / Kindes die gewünschte Besserung nicht eintritt, ist mit ihm ein Arzt oder eine Ärztin aufzusuchen. Wenn Sie glauben, das Arzneimittel wirke zu schwach oder zu stark, so sprechen Sie mit Ihrem Arzt, Apotheker (oder Drogisten\*) oder mit Ihrer Ärztin, Apothekerin (oder Drogistin\*).» Bei nicht verschreibungspflichtigen Arzneimitteln, sofern aufgrund eines bestimmten Anwendungsgebiets oder Stoffs Angaben zur Altersgruppe der Kinder und Jugendlichen gemacht oder diese ausgeschlossen werden: «Halten Sie sich an die in der Packungsbeilage angegebene oder vom Arzt oder von der Ärztin verschriebene Dosierung. Wenn Sie glauben, das Arzneimittel wirke zu schwach oder zu stark, so sprechen Sie mit Ihrem Arzt, Apotheker oder Drogisten oder mit Ihrer Ärztin, Apothekerin oder Drogistin.»</td></tr>
 <tr><td>9.</td><td>«Welche Nebenwirkungen kann … haben?» «Wenn Sie Nebenwirkungen bemerken, wenden Sie sich an Ihren Arzt, Apotheker (oder Drogisten\*) oder Ihre Ärztin, Apothekerin (oder Drogistin\*). Dies gilt insbesondere auch für Nebenwirkungen, die nicht in dieser Packungsbeilage angegeben sind.» Für homöopathische Arzneimittel: «Bei Einnahme von homöopathischen Arzneimitteln können sich die Beschwerden vorübergehend verschlimmern (Erstverschlimmerung). Bei andauernder Verschlechterung setzen Sie … ab und informieren Sie Ihren Arzt, Apotheker (oder Drogisten\*) oder Ihre Ärztin, Apothekerin (oder Drogistin\*).» Falls keine Nebenwirkungen bekannt sind, ist folgende Formulierung zu wählen: «Für … sind bisher bei bestimmungsgemässem Gebrauch keine Nebenwirkungen beobachtet worden.» «Wenn Sie dennoch Nebenwirkungen beobachten, informieren Sie Ihren Arzt, Apotheker (oder Drogisten\*) bzw. Ihre Ärztin, Apothekerin (oder Drogistin\*).» \* nur bei Präparaten der Abgabekategorie D</td></tr>
@@ -944,7 +944,7 @@ Die Texte sind in der von der Swissmedic vorgesehenen Form zu veröffentlichen.
 <tr><td>16.</td><td>**«Diese Packungsbeilage wurde im … (Monat/Jahr) letztmals durch die Arzneimittelbehörde (Swissmedic) geprüft.»**</td></tr>
 </table>
 
-Anhang 5.3*[^t-10]*
+Anhang 5.3[^t-10]
 
 (Art. 14)
 
@@ -1011,7 +1011,7 @@ Die Texte sind in der von der Swissmedic vorgesehenen Form zu veröffentlichen.
 <tr><td>16.</td><td>«Diese Packungsbeilage wurde im … (Monat/Jahr) letztmals durch die Arzneimittelbehörde (Swissmedic) geprüft.»</td></tr>
 </table>
 
-Anhang 5.4*[^t-11]*
+Anhang 5.4[^t-11]
 
 (Art. 14)
 
@@ -1080,7 +1080,7 @@ Zulassungsinhaberin
 
 [Firma und Sitz der Zulassungsinhaberin]
 
-Anhang 6*[^t-12]*
+Anhang 6[^t-12]
 
 (Art. 12, 13, 14 und 14*b*)
 
@@ -1189,28 +1189,28 @@ Anhang 6*[^t-12]*
 <tr><td>15.</td><td>Weitere Angaben (Packungsgrössen)</td></tr>
 </table>
 
-Anhang 7*[^t-13]*
+Anhang 7[^t-13]
 
 (Art. 22*a*)
 
-## Liste der Änderungen bei Humanarzneimitteln nach den Artikeln 21−24 VAM****
+## Liste der Änderungen bei Humanarzneimitteln nach den Artikeln 21−24 VAM
 
 [^annex7-lvlu1-1]
 
-[^t-13]: Eingefügt durch Ziff. II der V des Institutsrats vom 12. Sept. 2002 ([AS 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Fassung gemäss Ziff. II Abs. 1 der V des Institutsrats vom 12. Jan. 2022, in Kraft seit 28. Jan. 2022 ([AS 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
-[^annex7-lvlu1-1]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann unter www.swissmedic.ch abgerufen werden.
+[^t-13]: Eingefügt durch Ziff. II der V des Institutsrats vom 12. Sept. 2002 ([AS 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Fassung gemäss Ziff. II Abs. 1 der V des Institutsrats vom 12. Jan. 2022 ([AS 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)). Bereinigt gemäss Ziff. I der V des Institutsrats vom 22. April 2022, in Kraft seit 1. Juli 2022 ([AS 2022 261](https://fedlex.data.admin.ch/eli/oc/2022/261)).
+[^annex7-lvlu1-1]: Dieser Text dieses Anhangs wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann unter www.swissmedic.ch abgerufen werden.
 
-Anhang 7a*[^t-14]*
+Anhang 7a[^t-14]
 
 (Art. 22*a*)
 
-## Liste der Änderungen bei Tierarzneimitteln nach den Artikeln 25*a* und 25*b* VAM****
+## Liste der Änderungen bei Tierarzneimitteln nach den Artikeln 25*a* und 25*b* VAM
 
 [^annex7a-lvlu1-1]
 
 [^t-14]: Eingefügt durch Ziff. II Abs. 2 der V des Institutsrats vom 12. Jan. 2022, in Kraft seit 28. Jan. 2022 ([AS 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
 [^annex7a-lvlu1-1]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann unter www.swissmedic.ch abgerufen werden.
 
-Anhang 8 und 9*[^t-15]*
+Anhang 8 und 9[^t-15]
 
 [^t-15]: Eingefügt durch Ziff. II der V des Institutsrats vom 12. Sept. 2002 ([AS 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Aufgehoben durch Ziff. II Abs. 1 der V des Institutsrats vom 7. Sept. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
