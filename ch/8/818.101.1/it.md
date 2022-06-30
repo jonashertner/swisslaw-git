@@ -4,11 +4,11 @@ title: "Ordinanza del 29 aprile 2015 concernente la lotta contro le malattie tra
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: it
-version: 2022-06-11
+version: 2022-07-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220611/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220611-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220611/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220611/it"
 
 (Ordinanza sulle epidemie, OEp)
 
-del 29 aprile 2015 (Stato 11 giugno 2022)
+del 29 aprile 2015 (Stato 1° luglio 2022) (Stato 1° luglio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -967,7 +967,7 @@ Con l’importo di cui al capoverso 4 sono indennizzate tutte le prestazioni for
 
 <sup>7</sup> L’UFSP rimborsa all’istituzione comune le spese amministrative conformemente all’articolo 64*b* capoverso 6.
 
-[^64dbis-1]: Introdotto dal n. I dell’O del 10 giu. 2022, in vigore dall’11 giu. 2022 fino al 31 dic. 2022 ([RU 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)).
+[^64dbis-1]: Introdotto dal n. I dell’O del 10 giu. 2022, in vigore dall’11 giu. 2022 al 31 dic. 2022 ([RU 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)).
 
 #### Art. 64e
 
@@ -1379,7 +1379,7 @@ Se necessario all’adempimento dei loro compiti prescritti dalla LEp, le seguen
 
 <sup>3</sup> L’UFSP rilascia i personali diritti di accesso e disciplina la relativa autenticazione.
 
-[^93-1]: Introdotta dal n. III dell’O del 18 nov. 2020 ([RU 2020 4733](https://fedlex.data.admin.ch/eli/oc/2020/852)). Abrogata dall’art. 6 dell’O del 30 mar. 2022 sulla sospensione del sistema di tracciamento della prossimità per il coronavirus SARS-CoV-2 e del sistema di segnalazione di un possibile contagio da coronavirus SARS CoV-2 durante una manifestazione, con effetto dal 1° apr. 2022 ([RU 2022 207](https://fedlex.data.admin.ch/eli/oc/2022/207)).
+[^93-1]: Introdotta dal n. III dell’O del 18 nov. 2020, in vigore fino al 30 giu. 2022 ([RU 2020 4733](https://fedlex.data.admin.ch/eli/oc/2020/852)). Abrogata dall’art. 6 dell’O del 30 mar. 2022 sulla sospensione del sistema di tracciamento della prossimità per il coronavirus SARS-CoV-2 e del sistema di segnalazione di un possibile contagio da coronavirus SARS CoV-2 durante una manifestazione, con effetto dal 1° apr. 2022 ([RU 2022 207](https://fedlex.data.admin.ch/eli/oc/2022/207)).
 
 #### Art. 94
 

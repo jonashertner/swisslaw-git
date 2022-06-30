@@ -4,11 +4,11 @@ title: "Ordonnance du 29 avril 2015 sur la lutte contre les maladies transmissib
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: fr
-version: 2022-06-11
+version: 2022-07-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220611/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220611-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220611/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220611/fr"
 
 (Ordonnance sur les épidémies, OEp)
 
-du 29 avril 2015 (Etat le 11 juin 2022)
+du 29 avril 2015 (Etat le 1<sup>er</sup> juillet 2022)
 
 Le Conseil fédéral suisse,
 
@@ -1387,7 +1387,7 @@ Les personnes suivantes ont accès au système «déclarations» lorsque cela es
 
 <sup>3</sup> L’OFSP accorde les droits d’accès individuels et réglemente l’authentification y relative.
 
-[^93-1]: Introduite par le ch. III de l’O du 18 nov. 2020 ([RO 2020 4733](https://fedlex.data.admin.ch/eli/oc/2020/852)). Abrogée par l’art. 6 de l’O du 30 mars 2022 sur l’arrêt du système de traçage de proximité pour le coronavirus SARS-CoV-2 et du système visant à informer d’une infection possible au coronavirus SARS-CoV-2 lors de manifestations, avec effet au 1<sup>er</sup> avr. 2022 ([RO 2022 207](https://fedlex.data.admin.ch/eli/oc/2022/207)).
+[^93-1]: Introduite par le ch. III de l’O du 18 nov. 2020, en vigueur jusqu’au 30 juin 2022 ([RO 2020 4733](https://fedlex.data.admin.ch/eli/oc/2020/852)). Abrogée par l’art. 6 de l’O du 30 mars 2022 sur l’arrêt du système de traçage de proximité pour le coronavirus SARS-CoV-2 et du système visant à informer d’une infection possible au coronavirus SARS-CoV-2 lors de manifestations, avec effet au 1<sup>er</sup> avr. 2022 ([RO 2022 207](https://fedlex.data.admin.ch/eli/oc/2022/207)).
 
 #### Art. 94
 

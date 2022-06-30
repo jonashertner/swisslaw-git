@@ -4,11 +4,11 @@ title: "Verordnung vom 29. April 2015 über die Bekämpfung übertragbarer Krank
 short: EpV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: de
-version: 2022-06-11
+version: 2022-07-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220611/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220611-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220611/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220611/de"
 
 (Epidemienverordnung, EpV)
 
-vom 29. April 2015 (Stand am 11. Juni 2022)
+vom 29. April 2015 (Stand am 1. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -1383,7 +1383,7 @@ Folgende Personen haben, soweit es zur Erfüllung ihrer Aufgaben nach dem EpG no
 
 <sup>3</sup> Das BAG erteilt die individuellen Zugriffsrechte und regelt die entsprechende Authentifizierung.
 
-[^93-1]: Eingefügt durch Ziff. III der V vom 18. Nov. 2020 ([AS 2020 4733](https://fedlex.data.admin.ch/eli/oc/2020/852)). Aufgehoben durch Art. 6 der V vom 30. März 2022 über die Einstellung des Proximity-Tracing-Systems für das Coronavirus Sars-CoV-2 und des Systems zur Benachrichtigung über eine mögliche Ansteckung mit dem Coronavirus Sars-CoV-2 an Veranstaltungen, mit Wirkung seit 1. April 2022 ([AS 2022 207](https://fedlex.data.admin.ch/eli/oc/2022/207)).
+[^93-1]: Eingefügt durch Ziff. III der V vom 18. Nov. 2020, in Kraft bis zum 30. Juni 2022 ([AS 2020 4733](https://fedlex.data.admin.ch/eli/oc/2020/852)). Aufgehoben durch Art. 6 der V vom 30. März 2022 über die Einstellung des Proximity-Tracing-Systems für das Coronavirus Sars-CoV-2 und des Systems zur Benachrichtigung über eine mögliche Ansteckung mit dem Coronavirus Sars-CoV-2 an Veranstaltungen, mit Wirkung seit 1. April 2022 ([AS 2022 207](https://fedlex.data.admin.ch/eli/oc/2022/207)).
 
 #### Art. 94
 
