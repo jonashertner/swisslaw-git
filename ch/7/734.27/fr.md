@@ -4,11 +4,11 @@ title: "Ordonnance du 7 novembre 2001 sur les installations électriques à bass
 short: OIBT
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/22"
 language: fr
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2001-11-07
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-22-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2002-22-20220701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20220101/fr"
 
 (Ordonnance sur les installations à basse tension, OIBT)
 
-du 7 novembre 2001 (Etat le 1<sup>er</sup> janvier 2022)
+du 7 novembre 2001 (Etat le 1<sup>er</sup> juillet 2022)
 
 Le Conseil fédéral suisse,
 
@@ -898,7 +898,7 @@ Annexe*[^t-1]*
 
 ## Contrôles périodiques
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 23 août 2017 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Mise à jour par le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 23 août 2017 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Mise à jour par le ch. I des O du 4 juin 2021 ([RO 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)) et du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 358](https://fedlex.data.admin.ch/eli/oc/2022/358)).
 
 ### 1 Installations électriques soumises au contrôle d’un organisme d’inspection accrédité (installations spéciales, art. 32, al. 2)
 
@@ -940,7 +940,7 @@ Annexe*[^t-1]*
 - 2\.3.8 les installations électriques des locaux destinés à accueillir un grand nombre de personnes, tels que les grands magasins ou les centres de bricolage d’une surface de vente supérieure à 1200 m<sup>2</sup>, les théâtres, les cinémas, les halles d’exposition, les dancings, les hôtels et les auberges, les pensions, les centres de vacances, les maisons pour personnes âgées et les établissements médico-sociaux, les garderies, les hôpitaux, les casernes, les établissements scolaires, les hautes écoles ainsi que les établissements analogues;
 - 2\.3.9 les installations électriques des petites entreprises de restauration telles que bistros, cafés, *take-away* et établissements analogues avec une surface de vente inférieure à 1200 m<sup>2</sup> et pouvant accueillir 300 personnes au maximum;
 - 2\.3.10 les installations électriques des terrains de camping et des ports de plaisance;
-- 2\.3.11 les installations électriques ou les éléments d’installations avec mise au neutre selon le schéma III, pour autant qu’elles ne soient pas adaptées à l’état le plus récent de la technique.
+- 2\.3.11 les installations électriques comportant des éléments d’installations avec mise au neutre selon le schéma III, pour autant qu’elles ne soient pas soumises à une période de contrôle plus courte en application de la présente annexe.
 - 2\.4 Sont soumises au contrôle tous les dix ans les installations électriques:
 - 2\.4.1 des locaux humides à usage commercial;
 - 2\.4.2 des locaux à usage commercial qui présentent un danger d’incendie;

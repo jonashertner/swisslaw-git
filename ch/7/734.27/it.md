@@ -4,11 +4,11 @@ title: "Ordinanza del 7 novembre 2001 concernente gli impianti elettrici a bassa
 short: OIBT
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/22"
 language: it
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2001-11-07
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-22-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2002-22-20220701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20220101/it"
 
 (Ordinanza sugli impianti a bassa tensione, OIBT)
 
-del 7 novembre 2001 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 7 novembre 2001 (Stato 1° luglio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -902,7 +902,7 @@ Allegato*[^t-1]*
 
 ## Controlli periodici
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 23 ago. 2017 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Aggiornato dal n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^t-1]: Nuovo testo giusta il n. II dell’O del 23 ago. 2017 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Aggiornato dai n. I delle O del 4 giu. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)) e del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 358](https://fedlex.data.admin.ch/eli/oc/2022/358)).
 
 ### 1 Impianti elettrici che sottostanno al controllo da parte di un servizio d’ispezione accreditato (impianti speciali, art. 32 cpv. 2)
 
@@ -943,7 +943,7 @@ Allegato*[^t-1]*
 - 2\.3.8 gli impianti elettrici negli edifici e locali destinati ad accogliere molte persone, quali grandi magazzini e negozi per il fai da te con una superficie di vendita superiore a 1200 m<sup>2</sup>, teatri, cinema, padiglioni espositivi, sale da ballo, alberghi e ostelli, pensioni, case vacanza, case per anziani e case di cura, istituti per bambini, ospedali, caserme, scuole, università e simili;
 - 2\.3.9 gli impianti elettrici in piccoli esercizi di ristorazione come osterie, bar, take-away e simili con una superficie di vendita inferiore a 1200 m<sup>2</sup> per al massimo 300 persone;
 - 2\.3.10 gli impianti elettrici nelle aree di campeggio e nelle zone di attracco per imbarcazioni;
-- 2\.3.11 gli impianti elettrici o loro parti con messa al neutro secondo lo schema III, nella misura in cui non siano stati adeguati allo stato attuale della tecnica.
+- 2\.3.11 gli impianti elettrici che contengono parti con messa al neutro secondo lo schema III, nella misura in cui non sia applicabile nessun periodo di controllo più breve secondo il presente allegato.
 - 2\.4 Sottostanno al controllo ogni dieci anni:
 - 2\.4.1 gli impianti elettrici nei locali umidi adibiti ad attività artigianali;
 - 2\.4.2 gli impianti elettrici nei locali con pericolo d’incendio, adibiti ad attività artigianali;

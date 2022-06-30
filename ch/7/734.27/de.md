@@ -4,11 +4,11 @@ title: "Verordnung vom 7. November 2001 über elektrische Niederspannungsinstall
 short: NIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/22"
 language: de
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2001-11-07
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-22-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2002-22-20220701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20220101/de"
 
 (Niederspannungs-Installationsverordnung, NIV)
 
-vom 7. November 2001 (Stand am 1. Januar 2022)
+vom 7. November 2001 (Stand am 1. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -903,7 +903,7 @@ Anhang*[^t-1]*
 
 ## Periodische Kontrolle
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 23. Aug. 2017 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Bereinigt gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 23. Aug. 2017 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Bereinigt gemäss Ziff. I der V vom 4. Juni 2021 ([AS 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)) und vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 358](https://fedlex.data.admin.ch/eli/oc/2022/358)).
 
 ### 1 Elektrische Installationen, die der Kontrolle durch eine akkreditierte Inspektionsstelle unterliegen (Spezialinstallationen, Art. 32 Abs. 2)
 
@@ -944,7 +944,7 @@ Anhang*[^t-1]*
 - 2\.3.8 die elektrischen Installationen Räumen, die der Aufnahme einer grösseren Anzahl von Personen dienen wie Warenhäuser und Baumärkte mit einer Verkaufsfläche über 1200 m<sup>2</sup>, Theater, Kinos, Messehallen, Tanzlokale, Hotels und Gaststätten, Pensionen, Ferienheime, Alters- und Pflegeheime, Kinderheime, Spitäler, Kasernen, Schulhäuser, Hochschulen und dergleichen;
 - 2\.3.9 die elektrischen Installationen in Kleingastrobetrieben wie Bistros, Cafés, Take-away und dergleichen mit einer Verkaufsfläche unter 1200 m<sup>2</sup> für höchstens 300 Personen;
 - 2\.3.10 die elektrischen Installationen auf Campingplätzen und bei Bootsanlegestellen;
-- [tab] 2.3.11. die elektrischen Installationen oder Installationsteile nach Nullung Schema III, solange diese nicht an den aktuellen Stand der Technik angepasst sind.
+- 2\.3.11 die elektrischen Installationen, die Installationsteile nach Nullung Schema III enthalten, sofern keine kürzere Kontrollperiode nach diesem Anhang anwendbar ist.
 - 2\.4 Der Kontrolle alle zehn Jahre unterliegen:
 - 2\.4.1 die elektrischen Installationen in nassen, gewerblich benutzten Räumen;
 - 2\.4.2 die elektrischen Installationen in feuergefährdeten, gewerblich benutzten Räumen;
