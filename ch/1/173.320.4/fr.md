@@ -3,18 +3,18 @@ sr: "173.320.4"
 title: "Règlement du 21 février 2008 du Tribunal administratif fédéral relatif à l'information"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/323"
 language: fr
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2008-02-21
 in_force: 2008-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/323/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-323-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/323/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/323/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2008-323-20220701-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/323/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Règlement du Tribunal administratif fédéral relatif à l’information
 
-du 21 février 2008 (Etat le 1<sup>er</sup> janvier 2022)
+du 21 février 2008 (État le 1<sup>er</sup> juillet 2022)
 
 Le Tribunal administratif fédéral,
 
@@ -91,13 +91,23 @@ Le tribunal dispose d’un service de presse rattaché au Secrétariat général
 
 <sup>1</sup>
 
-Sont publiés dans le recueil officiel des arrêts du tribunal les arrêts entrés en force qui ont une portée significative, notamment pour le développement du droit. Les principes suivants s’appliquent:
+Sont publiés dans le recueil officiel des arrêts du tribunal les arrêts entrés en force:
 
-- a. la décision est précédée d’un sommaire (régeste) dans les trois langues officielles; s’agissant d’arrêts rendus en romanche, le sommaire doit également être rédigé dans cette langue;
+- a. qui portent sur une question juridique tranchée conformément à l’art. 25 LTAF, ou
+- b. qui ont une portée significative, notamment pour le développement du droit.[^7-1]
+
+<sup>1bis</sup>
+
+Les principes suivants s’appliquent:
+
+- a. la décision est précédée d’un sommaire (regeste) dans les trois langues officielles; s’agissant des arrêts rendus en romanche, le sommaire doit également être publié dans cette langue;
 - b. les éléments de l’état de fait nécessaires à la compréhension des considérants en droit sont résumés à l’essentiel;
-- c. les considérants en droit sont abrégés si nécessaire ou ne sont que partiellement publiés.
+- c. les considérants en droit sont abrégés si nécessaire ou ne sont que partiellement publiés.[^7-2]
 
 <sup>2</sup> L’accès au recueil officiel des arrêts du tribunal sur papier est payant. L’accès au recueil officiel des arrêts du tribunal sous forme électronique peut être payant.
+
+[^7-1]: Nouvelle teneur selon le ch. I du R du TAF du 22 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
+[^7-2]: Introduit par le ch. I du R du TAF du 22 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
 
 #### Art. 8
 
@@ -115,11 +125,26 @@ Sont publiés dans le recueil officiel des arrêts du tribunal les arrêts entr�
 
 <sup>1</sup> La Conférence des présidents nomme une Commission de rédaction, chargée de veiller à l’uniformité du recueil officiel des arrêts du tribunal. La commission est constituée d’un représentant de chaque cour. Ses membres sont proposés par la cour à laquelle ils appartiennent et nommés par la Conférence des présidents pour une période de deux ans. La représentation linguistique doit être équilibrée. La commission s’organise elle-même.
 
-<sup>2</sup> Les arrêts portant sur les questions juridiques tranchées conformément à l’art. 25 LTAF sont transmis à la commission, en vue de leur publication. Dans tous les autres cas, la Commission de rédaction décide, sur proposition de la cour compétente, de la publication d’un arrêt dans le recueil officiel des arrêts du tribunal. Elle peut proposer la publication d’un arrêt déterminé.
+<sup>2</sup> ...[^9-1]
 
-<sup>3</sup> La Commission de rédaction veille à ce que les arrêts proposés par les cours soient publiés de manière coordonnée et uniforme. Elle édicte des directives à cet effet, après avoir consulté la Conférence des présidents.
+<sup>3</sup> La Commission de rédaction veille à ce que les arrêts soient publiés de manière coordonnée et uniforme. Elle édicte à cet effet des directives qu’elle soumet pour approbation à la Conférence des présidents.[^9-2]
 
 <sup>4</sup> Les membres de la Commission de rédaction sont déchargés de leurs tâches judiciaires, dans la mesure où l’accomplissement de leur activité l’exige.
+
+[^9-1]: Abrogé par le ch. I du R du TAF du 22 mars 2022, avec effet au 1<sup>er</sup> juil. 2022 ([RO 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
+[^9-2]: Nouvelle teneur selon le ch. I du R du TAF du 22 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
+
+#### Art. 9a
+
+**Compétences et procédure relatives à la publication dans le recueil officiel des arrêts du tribunal**[^9a-1]
+
+<sup>1</sup> Les arrêts portant sur les questions juridiques tranchées conformément à l’art. 25 LTAF sont transmis à la Commission de rédaction, en vue de leur publication. Dans tous les autres cas, il revient aux cours de décider des arrêts qu’elles proposent à la Commission de rédaction de publier. La Commission de rédaction peut elle-même proposer la publication d’un arrêt déterminé.
+
+<sup>2</sup> La Commission de rédaction vérifie les arrêts sur le plan formel. Si elle constate des contradictions par rapport à un arrêt précédent ou la nécessité d’une coordination au sens de l’art. 25 LTAF, elle invite la cour compétente à se prononcer. La Commission de rédaction peut également proposer à la cour compétente des modifications, notamment la modification d’un regeste ou la suppression d’un considérant.
+
+<sup>3</sup> Si des divergences subsistent relativement à la publication d’un arrêt entre la Commission de rédaction et la cour compétente, la Commission de rédaction s’efforce d’y remédier de manière consensuelle. Si une solution amiable ne peut être trouvée, la Commission de rédaction tranche. Si la cour compétente est en désaccord avec la décision prise, elle peut la soumettre à la Conférence des présidents pour réexamen. La Conférence des présidents statue définitivement.
+
+[^9a-1]: Introduit par le ch. I du R du TAF du 22 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
 
 ## Section 3 Information sur demande
 

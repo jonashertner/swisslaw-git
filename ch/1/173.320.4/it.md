@@ -3,18 +3,18 @@ sr: "173.320.4"
 title: "Regolamento del 21 febbraio 2008 del Tribunale amministrativo federale concernente l'informazione"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/323"
 language: it
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2008-02-21
 in_force: 2008-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/323/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-323-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/323/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/323/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2008-323-20220701-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/323/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Regolamento del Tribunale amministrativo federale concernente l’informazione
 
-del 21 febbraio 2008 (Stato 1° gennaio 2022)
+del 21 febbraio 2008 (Stato 1° luglio 2022)
 
 Il Tribunale amministrativo federale,
 
@@ -91,13 +91,23 @@ Il Tribunale dispone di un ufficio stampa in seno al segretariato generale.
 
 <sup>1</sup>
 
-Nella raccolta ufficiale delle decisioni del Tribunale sono pubblicate le decisioni passate in giudicato che hanno una notevole importanza per l’elaborazione del diritto giudiziale o per altri motivi. Devono essere rispettati i seguenti principi:
+Nella raccolta ufficiale delle decisioni del Tribunale sono pubblicate le decisioni passate in giudicato:
 
-- a. ogni decisione deve essere preceduta da un riassunto del contenuto (regesto) nelle tre lingue ufficiali; le decisioni in retoromancio devono essere precedute anche da un regesto in retoromancio;
-- b. gli elementi di fatto necessari per la comprensione dei considerandi di diritto devono essere presentati in forma essenziale;
-- c. i considerandi di diritto sono, se necessario, abbreviati oppure pubblicati solo parzialmente.
+- a. riguardanti questioni di diritto giudicate in base alla procedura di cui all’articolo 25 LTAF; oppure
+- b. che hanno una notevole importanza per l’elaborazione del diritto giudiziale o per altri motivi.[^7-1]
+
+<sup>1bis</sup>
+
+Devono essere rispettati i seguenti principi:
+
+- a. ogni decisione è preceduta da un riassunto del contenuto (regesto) nelle tre lingue ufficiali; le decisioni in romancio sono precedute anche da un regesto in romancio;
+- b. gli elementi di fatto necessari per la comprensione dei considerandi di diritto sono presentati in forma essenziale;
+- c. i considerandi di diritto sono, se necessario, abbreviati oppure pubblicati solo parzialmente.[^7-2]
 
 <sup>2</sup> L’accesso alla raccolta ufficiale delle decisioni del Tribunale è soggetto a pagamento. L’accesso alla raccolta ufficiale delle decisioni del Tribunale in forma elettronica può essere soggetto a pagamento.
+
+[^7-1]: Nuovo testo giusta il n. I della D del TAF del 22 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
+[^7-2]: Introdotto dal n. I della D del TAF del 22 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
 
 #### Art. 8
 
@@ -115,11 +125,26 @@ Nella raccolta ufficiale delle decisioni del Tribunale sono pubblicate le decisi
 
 <sup>1</sup> La Conferenza dei presidenti istituisce una commissione di redazione al fine di garantire l’uniformità della raccolta ufficiale delle decisioni del Tribunale. La commissione di redazione si compone di un rappresentante di ciascuna corte. La Conferenza dei presidenti elegge i rappresentanti per un periodo di due anni su proposta delle corti. La rappresentanza linguistica deve essere equilibrata. La commissione di redazione si costituisce autonomamente.
 
-<sup>2</sup> Le sentenze riguardanti questioni di diritto giudicate in base alla procedura prevista all’articolo 25 LTAF devono essere sottoposte alla commissione di redazione ai fini della pubblicazione. In tutti gli altri casi, la commissione di redazione decide su proposta della corte interessata in merito all’inserimento di una decisione nella raccolta ufficiale delle decisioni del Tribunale. Essa stessa può proporre la pubblicazione di una determinata decisione.
+<sup>2</sup> ...[^9-1]
 
-<sup>3</sup> La commissione di redazione si adopera affinché le decisioni che le corti hanno proposto siano pubblicate in modo coordinato e uniforme. A tal fine emana delle direttive, le quali devono dapprima essere sottoposte per una presa di posizione alla Conferenza dei presidenti.
+<sup>3</sup> La commissione di redazione si adopera affinché le decisioni siano pubblicate in modo coordinato e uniforme. A tal fine emana delle direttive che sottopone per approvazione alla Conferenza dei presidenti.[^9-2]
 
 <sup>4</sup> I membri della commissione di redazione sono sgravati dall’attività giurisprudenziale nella misura in cui lo richiedono i compiti che sono chiamati a svolgere nella commissione stessa.
+
+[^9-1]: Abrogato dal n. I della D del TAF del 22 mar. 2022, con effetto dal 1° lug. 2022 ([RU 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
+[^9-2]: Nuovo testo giusta il n. I della D del TAF del 22 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
+
+#### Art. 9a
+
+**Competenze e procedura per la pubblicazione nella raccolta ufficiale delle decisioni del Tribunale**[^9a-1]
+
+<sup>1</sup> Le decisioni riguardanti questioni di diritto giudicate in base alla procedura di cui all’articolo 25 LTAF devono essere sottoposte alla commissione di redazione ai fini della pubblicazione. Negli altri casi decidono le corti se sottoporre una decisione alla commissione di redazione ai fini della pubblicazione. La commissione di redazione può proporre essa stessa la pubblicazione di una determinata decisione.
+
+<sup>2</sup> La commissione di redazione verifica la correttezza formale delle decisioni. Se constata l’esistenza di contraddizioni rispetto a decisioni precedenti o una necessità di coordinamento secondo l’articolo 25 LTAF, invita la corte competente a prendere posizione. La commissione di redazione può proporre modifiche alla corte competente, in particolare modifiche dei regesti o lo stralcio di considerandi.
+
+<sup>3</sup> La commissione di redazione risolve, possibilmente di comune accordo, divergenze di opinione tra essa stessa e la corte competente concernenti la pubblicazione di una decisione. In assenza di una soluzione consensuale, decide la commissione di redazione. In caso di disaccordo, la corte competente può sottoporre tale decisione alla Conferenza dei presidenti per riesame. La Conferenza dei presidenti decide definitivamente.
+
+[^9a-1]: Introdotto dal n. I della D del TAF del 22 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
 
 ## Sezione 3: Informazioni su richiesta
 

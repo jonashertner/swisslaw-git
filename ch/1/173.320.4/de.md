@@ -3,18 +3,18 @@ sr: "173.320.4"
 title: Informationsreglement vom 21. Februar 2008 für das Bundesverwaltungsgericht
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/323"
 language: de
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2008-02-21
 in_force: 2008-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/323/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-323-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/323/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/323/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2008-323-20220701-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/323/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Informationsreglement für das Bundesverwaltungsgericht
 
-vom 21. Februar 2008 (Stand am 1. Januar 2022)
+vom 21. Februar 2008 (Stand am 1. Juli 2022)
 
 Das Bundesverwaltungsgericht,
 
@@ -91,13 +91,23 @@ Das Bundesverwaltungsgericht verfügt über eine Medienstelle im Generalsekretar
 
 <sup>1</sup>
 
-In der amtlichen Entscheidsammlung werden rechtskräftige Entscheide veröffentlicht, die für die Rechtsfortbildung oder aus anderen Gründen eine wichtige Bedeutung haben. Folgende Grundsätze sind zu beachten:
+In der amtlichen Entscheidsammlung werden rechtskräftige Entscheide veröffentlicht, die:
 
-- a. Den Entscheiden sind Leitsätze (Regesten) in den drei Amtssprachen voranzustellen; bei Entscheiden in rätoromanischer Sprache sind die Leitsätze zusätzlich in Rätoromanisch zu publizieren.
-- b. Die für das Verständnis der rechtlichen Erwägungen notwendigen Sachverhaltselemente sind in einer auf das Wesentliche reduzierten Form darzustellen.
-- c. Die rechtlichen Erwägungen sind soweit nötig zu kürzen oder nur teilweise zu veröffentlichen.
+- a. Rechtsfragen betreffen, über die im Verfahren nach Artikel 25 VGG entschieden wurde; oder
+- b. für die Rechtsfortbildung oder aus anderen Gründen eine wichtige Bedeutung haben.[^7-1]
+
+<sup>1bis</sup>
+
+Dabei werden die folgenden Grundsätze beachtet:
+
+- a. Den Entscheiden werden Leitsätze (Regesten) in den drei Amtssprechen vorangestellt; bei Entscheiden in rätoromanischer Sprache werden die Leitsätze zusätzlich in Rätoromanisch veröffentlicht.
+- b. Die für das Verständnis der rechtlichen Erwägungen notwendigen Sachverhaltselemente werden in einer auf das Wesentliche reduzierten Form dargestellt.
+- c. Die rechtlichen Erwägungen werden soweit nötig gekürzt oder nur teilweise veröffentlicht.[^7-2]
 
 <sup>2</sup> Der Zugang zur amtlichen Entscheidsammlung in Papierform ist kostenpflichtig. Für den Zugang zur amtlichen Entscheidsammlung in elektronischer Form können Gebühren erhoben werden.
+
+[^7-1]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 22. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
+[^7-2]: Eingefügt durch Ziff. I des Beschlusses des BVGer vom 22. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
 
 #### Art. 8
 
@@ -115,11 +125,26 @@ In der amtlichen Entscheidsammlung werden rechtskräftige Entscheide veröffentl
 
 <sup>1</sup> Zur Gewährleistung der Einheitlichkeit der amtlichen Entscheidsammlung bestellt die Präsidentenkonferenz eine Redaktionskommission. Diese setzt sich aus je einem Vertreter oder einer Vertreterin der Abteilungen zusammen. Die Präsidentenkonferenz wählt die Vertreter und Vertreterinnen auf Antrag der Abteilungen für zwei Jahre. Es ist auf eine ausgewogene Vertretung der Sprachen zu achten. Die Redaktionskommission konstituiert sich selbst.
 
-<sup>2</sup> Urteile zu Rechtsfragen, über die im Verfahren nach Artikel 25 VGG entschieden wurde, sind der Redaktionskommission zur Publikation vorzulegen. In allen übrigen Fällen entscheidet die Redaktionskommission auf Antrag der zuständigen Abteilung über die Aufnahme eines Entscheids in die amtliche Entscheidsammlung. Sie kann von sich aus anregen, einen bestimmten Entscheid zu publizieren.
+<sup>2</sup> …[^9-1]
 
-<sup>3</sup> Die Redaktionskommission stellt sicher, dass die von den Abteilungen zur Veröffentlichung vorgeschlagenen Entscheide koordiniert und in einheitlicher Form publiziert werden. Sie erlässt dazu Richtlinien, die sie vorgängig der Präsidentenkonferenz zur Stellungnahme vorlegt.
+<sup>3</sup> Die Redaktionskommission stellt sicher, dass die Entscheide koordiniert und in einheitlicher Form veröffentlicht werden. Sie erlässt dazu Richtlinien, die sie der Präsidentenkonferenz zur Genehmigung unterbreitet.[^9-2]
 
 <sup>4</sup> Die Mitglieder der Redaktionskommission werden im Umfang, in dem sie für die Redaktionskommission arbeiten, von der Mitwirkung bei der Rechtsprechung entlastet.
+
+[^9-1]: Aufgehoben durch Ziff. I des Beschlusses des BVGer vom 22. März 2022, mit Wirkung seit 1. Juli 2022 ([AS 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
+[^9-2]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 22. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
+
+#### Art. 9a
+
+**Zuständigkeiten und Verfahren für die Veröffentlichung in der amtlichen Entscheidsammlung**[^9a-1]
+
+<sup>1</sup> Entscheide zu Rechtsfragen, über die im Verfahren nach Artikel 25 VGG entschieden wurde, sind der Redaktionskommission zur Veröffentlichung vorzulegen. In den übrigen Fällen entscheiden die Abteilungen darüber, ob sie der Redaktionskommission einen Entscheid zur Veröffentlichung vorlegen. Die Redaktionskommission kann von sich aus anregen, einen bestimmten Entscheid zu veröffentlichen.
+
+<sup>2</sup> Die Redaktionskommission prüft die Entscheide auf ihre formelle Richtigkeit. Stellt sie dabei Widersprüche zu früheren Entscheiden oder einen Koordinationsbedarf im Sinne von Artikel 25 VGG fest, so lädt sie die zuständige Abteilung zur Stellungnahme ein. Die Redaktionskommission kann der zuständigen Abteilung Änderungen vorschlagen, insbesondere Änderungen der Regesten oder die Streichung von Erwägungen.
+
+<sup>3</sup> Die Redaktionskommission räumt Meinungsverschiedenheiten zwischen ihr und der zuständigen Abteilung bezüglich der Veröffentlichung eines Entscheids nach Möglichkeit in gegenseitigem Einvernehmen aus. Kommt keine einvernehmliche Lösung zustande, so entscheidet die Redaktionskommission. Ist die zuständige Abteilung nicht mit dem Entscheid einverstanden, so kann sie diesen der Präsidentenkonferenz zur Neubeurteilung unterbreiten. Die Präsidentenkonferenz entscheidet endgültig.
+
+[^9a-1]: Eingefügt durch Ziff. I des Beschlusses des BVGer vom 22. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
 
 ## 3. Abschnitt: Information auf Anfrage
 
