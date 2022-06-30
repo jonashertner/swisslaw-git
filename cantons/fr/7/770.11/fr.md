@@ -4,13 +4,13 @@ number: "770.11"
 title: "Règlement sur l'énergie"
 short: REn
 language: fr
-version: 2020-01-01
-valid_until: 2022-06-30
-version_adopted: 2019-11-05
+version: 2022-07-01
+valid_until: 2023-02-28
+version_adopted: 2022-06-14
 adopted: 2019-11-05
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/770.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6413/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7506/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Energie – R
 
 (REn)
 
-du 05.11.2019 (version entrée en vigueur le 01.01.2020)
+du 05.11.2019 (version entrée en vigueur le 01.07.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -776,6 +776,46 @@ Arrête:
 
 - a) nouvelle construction/extension du réseau de chauffage: 40 francs par MWh/an;
 - b) nouvelle construction/extension de l'installation de production de chaleur: 130 francs par MWh/an.
+
+#### Art. 54a
+
+**Borne de recharge pour véhicules électriques**
+
+<sup>1</sup> Pour que la mesure soit subventionnable, les conditions suivantes doivent être respectées:
+
+- a) la borne de recharge doit équiper de manière permanente une place de parc privée pour un bâtiment d'habitation individuel ou collectif, propriété par étages inclue;
+- b) la puissance installée par borne doit être au moins de 11 kW;
+- c) le raccordement technique de l'installation doit être validée par le gestionnaire du réseau électrique;
+- d) la borne de recharge est alimentée uniquement par de l'électricité provenant d'une source renouvelable, produite sur site ou acquise auprès du distributeur d'électricité;
+- e) l'installation doit être vérifiée et approuvée par un rapport de sécurité au sens de l'ordonnance fédérale du 7 novembre 2001 sur les installations électriques à basse tension (ordonnance sur les installations à basse tension, OIBT);
+- f) une seule borne de recharge par unité de logement peut bénéficier de la subvention.
+
+<sup>2</sup> L'aide financière est fixée selon les principes suivants:
+
+- a) 500 francs pour une borne de recharge destinée à une nouvelle place de parc;
+- b) 1000 francs pour une borne de recharge destinée à une place de parc existante.
+
+<sup>3</sup> La mesure est applicable au plus tard jusqu'au 31 décembre 2023, ou à épuisement des disponibilités financières qui lui sont dédiées.
+
+#### Art. 54b
+
+**Certificat énergétique cantonal des bâtiments Plus (CECB® Plus)**
+
+<sup>1</sup> Pour que la mesure soit subventionnable, les conditions suivantes doivent être respectées:
+
+- a) le bâtiment doit avoir été au bénéfice d'une autorisation de construire avant l'année 2000;
+- b) l'auteur du CECB® Plus doit faire partie de la liste des experts certifiés par l'organisme CECB®;
+- c) le CECB® Plus doit être réalisé dans les règles de l'art, signé par l'expert certifié et publié sur la base CECB®;
+- d) le rapport doit comprendre, en plus de l'état initial, au minimum deux variantes dont l'une présente une rénovation complète du bâtiment;
+- e) l'offre de l'expert certifié doit comprendre au minimum une heure de conseils à la restitution du rapport au propriétaire;
+- f) dans le cas de numéros d'identification du bâtiment multiples (identificateur fédéral de bâtiment EGID) ou dans le cas de bâtiments identiques, la subvention peut être limitée à une seule demande.
+
+<sup>2</sup> L'aide financière est fixée selon les principes suivants:
+
+- a) 1000 francs pour un habitat individuel;
+- b) 1500 francs pour toute autre catégorie.
+
+<sup>3</sup> La mesure est applicable au plus tard jusqu'au 31 décembre 2024, ou à épuisement des disponibilités financières qui lui sont dédiées.
 
 #### Art. 55
 

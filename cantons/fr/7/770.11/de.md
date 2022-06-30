@@ -4,13 +4,13 @@ number: "770.11"
 title: Energiereglement
 short: EnR
 language: de
-version: 2020-01-01
-valid_until: 2022-06-30
-version_adopted: 2019-11-05
+version: 2022-07-01
+valid_until: 2023-02-28
+version_adopted: 2022-06-14
 adopted: 2019-11-05
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/770.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6413/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7506/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Energie – R
 
 (EnR)
 
-vom 05.11.2019 (Fassung in Kraft getreten am 01.01.2020)
+vom 05.11.2019 (Fassung in Kraft getreten am 01.07.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -776,6 +776,46 @@ beschliesst:
 
 - a) Neubau/Erweiterung Wärmenetz: 40 Franken pro MWh/Jahr;
 - b) Neubau/Erweiterung Wärmeerzeugungszentrale: 130 Franken pro MWh/Jahr.
+
+#### Art. 54a
+
+**Ladestation für Elektrofahrzeuge**
+
+<sup>1</sup> Förderbeiträge können gewährt werden, wenn die folgenden Bedingungen erfüllt sind:
+
+- a) Die Ladestation muss fest installiert sein und einen privaten Parkplatz eines Ein- oder Mehrfamilienhauses, einschliesslich Stockwerkeigentum, ausrüsten.
+- b) Die Nennleistung pro Ladestation muss mindestens 11 kW betragen.
+- c) Der technische Anschluss der Anlage muss vom Verteilnetzbetreiber genehmigt werden.
+- d) Die Ladestation wird allein mit Strom aus erneuerbaren Energiequellen betrieben. Der Strom wird vor Ort erzeugt oder beim Elektrizitätsversorgungsunternehmen erworben.
+- e) Die Anlage muss kontrolliert und mit einem Sicherheitsnachweis im Sinne der Verordnung des Bundesrats vom 7. November 2001 über elektrische Niederspannungsinstallationen (NIV) zum Betrieb freigegeben werden.
+- f) Pro Wohneinheit kann nur eine Ladestation gefördert werden.
+
+<sup>2</sup> Die Finanzhilfe wird nach den folgenden Grundsätzen festgelegt:
+
+- a) 500 Franken für eine Ladestation an einem neuen Parkplatz;
+- b) 1000 Franken für eine Ladestation an einem bestehenden Parkplatz.
+
+<sup>3</sup> Die Massnahme gilt bis spätestens am 31. Dezember 2023 oder bis die dafür bereitgestellten Mittel aufgebraucht sind.
+
+#### Art. 54b
+
+**Gebäudeenergieausweis der Kantone Plus (GEAK® Plus)**
+
+<sup>1</sup> Förderbeiträge können gewährt werden, wenn die folgenden Bedingungen erfüllt sind:
+
+- a) Die Baubewilligung für das Gebäude wurde vor dem Jahr 2000 ausgestellt.
+- b) Der GEAK® Plus wird von einer Person ausgestellt, die sich auf der Liste der Expertinnen und Experten befindet, die von der GEAK®-Organisation zertifiziert sind.
+- c) Der GEAK® Plus wird fachgerecht erstellt, von der zertifizierten Expertin oder vom zertifizierten Experten unterschrieben und in der GEAK®-Datenbank veröffentlicht.
+- d) Der Bericht enthält neben dem Ausgangszustand mindestens zwei Varianten, wobei eine davon eine Gesamtsanierung abbildet.
+- e) Die Offerte der zertifizierten Expertin oder des zertifizierten Experten muss mindestens eine einstündige Beratung bei der Übergabe des Berichts an die Eigentümerin oder den Eigentümer beinhalten.
+- f) Bei mehreren Gebäude-Identifikationsnummern (eidgenössischer Gebäudeidentifikator, EGID) oder bei identischen Gebäuden kann der Förderbeitrag auf ein einziges Gesuch beschränkt werden.
+
+<sup>2</sup> Die Finanzhilfe wird nach den folgenden Grundsätzen festgelegt:
+
+- a) 1000 Franken für ein Einfamilienhaus;
+- b) 1500 Franken für alle anderen Gebäudekategorien.
+
+<sup>3</sup> Die Massnahme gilt bis spätestens am 31. Dezember 2024 oder bis die dafür bereitgestellten Mittel aufgebraucht sind.
 
 #### Art. 55
 
