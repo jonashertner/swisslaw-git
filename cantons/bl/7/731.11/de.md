@@ -1,503 +1,389 @@
 ---
 canton: BL
 number: "731.11"
-title: Verordnung zum Gesetz über den Bevölkerungsschutz und den Zivilschutz im Kanton Basel-Landschaft
+title: Verordnung zum Bevölkerungsschutzgesetz im Kanton Basel-Landschaft
 short: Vo BSG BL
 language: de
-version: 2018-02-01
-valid_until: 2022-06-30
-version_adopted: 2018-01-30
+version: 2022-07-01
+valid_until: 2024-05-31
+version_adopted: 2022-05-31
 adopted: 2022-05-31
 in_force: 2022-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/731.11"
-pdf: "https://bl.clex.ch/api/de/versions/2128/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3368/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung zum Gesetz über den Bevölkerungsschutz und den Zivilschutz im Kanton Basel-Landschaft
+# Verordnung zum Bevölkerungsschutzgesetz im Kanton Basel-Landschaft
 
-Vom 24.08.2004 (Stand 01.02.2018)
+(Vo BSG BL)
+
+Vom 31.05.2022 (Stand 01.07.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 Absatz 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1],
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und das Gesetz über den Bevölkerungsschutz im Kanton Basel-Landschaft vom 20. Mai 2021[^ingress-2],
 
 beschliesst:
 
-[^ingress-1]: GS 29.276, SGS [100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 731](https://bl.clex.ch/data/731/de)
 
-## 1 Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmung
 
 #### § 1
 
 **Zuständiges Amt**
 
-<sup>1</sup> Das Amt für Militär und Bevölkerungsschutz (AMB) ist für alle Aufgaben betreffend den Bevölkerungsschutz zuständig, soweit Gesetz und Verordnung nichts anderes vorsehen.
+<sup>1</sup> Das Amt für Militär und Bevölkerungsschutz (AMB) ist für alle Aufgaben, die den Bevölkerungsschutz betreffen, zuständig, soweit Gesetz und Verordnung nichts anderes vorsehen.
 
-<sup>2</sup> Es arbeitet nach Möglichkeit mit den zuständigen Stellen der angrenzenden Kantone und Länder zusammen.
+## 2 Verpflichtung von Dritten
 
 #### § 2
 
-**Koordinationskommission**
+**Für die Verpflichtung von Dritten zuständige Behörden**
 
-<sup>1</sup> Der Regierungsrat setzt eine Koordinationskommission Bevölkerungsschutz ein.
+<sup>1</sup> Ist die Einwohnergemeinde für die Bewältigung eines Ereignisses zuständig, liegt die Anordnungskompetenz für die Verpflichtung von Dritten bei folgenden Behörden:
 
-<sup>2</sup> Die Koordinationskommission Bevölkerungsschutz setzt sich zusammen aus:
+- a. im Einsatz beim Gemeinderat sowie in dringenden Fällen beim kommunalen Führungsstab;
+- b. für die Vorsorge, die Ausbildung und die Übungen beim Gemeinderat.
 
-- a. dem Leiter oder der Leiterin des AMB sowie der Abteilung Bevölkerungsschutz;
-- b. Fachpersonen des Bevölkerungsschutzes aus den Direktionen, Gemeinden, Partnerorganisationen und Institutionen.
+<sup>2</sup> Ist der Kanton für die Bewältigung eines Ereignisses zuständig, liegt die Anordnungskompetenz für die Verpflichtung von Dritten bei den folgenden Behörden:
 
-<sup>3</sup> Die Koordinationskommission hat insbesondere folgende Aufgaben:
+- a. im Einsatz beim Regierungsrat sowie in dringenden Fällen beim Kantonalen Führungsstab;
+- b. für die Vorsorge, die Ausbildung und die Übungen beim Regierungsrat.
 
-- a. Erarbeitung gemeinsamer Grundlagen, Planungs- und Ausführungsbestimmungen in Bezug auf Einsatz, Material und Ausbildung;
-- b. Prüfung angehender Schadenplatzkommandanten und Schadenplatzkommandantinnen;
-- c. Erfüllung weiterer vom Regierungsrat zugewiesener Aufgaben.
-
-<sup>4</sup> Die Kommission kann sich in Untergruppen gliedern.
-
-## 2 Bevölkerungsschutz
-
-### 2.1 Kantonale Führung
+## 3 Führungsstäbe
 
 #### § 3
 
-**Stab Regierungsrat**
+**Gemeindeführungsstäbe sowie Regionale Führungsstäbe**
 
-<sup>1</sup> Der Stab Regierungsrat setzt sich zusammen aus:
+<sup>1</sup> Die Grundstruktur der Gemeindeführungsstäbe sowie der Regionalen Führungsstäbe gliedert sich wie folgt:
 
-- a. dem Landschreiber oder der Landschreiberin;
-- b. den Generalsekretären und Generalsekretärinnen;
-- c. dem Leiter oder der Leiterin des Rechtsdienstes des Regierungsrates.
+- a. Stabsleitung;
+- b. Führungsunterstützung;
+- c. Fachdienste.
 
-<sup>2</sup> Der Landschreiber oder die Landschreiberin leitet den Stab Regierungsrat.
-
-<sup>3</sup> Der Landschreiber oder die Landschreiberin untersteht dem Regierungspräsidenten oder der Regierungspräsidentin.
+<sup>2</sup> Die strategische Führung der Einwohnergemeinde legt die Organisation ihres Gemeindeführungsstabs oder ihres Regionalen Führungsstabs im Einzelnen fest und wählt die Mitglieder.
 
 #### § 4
 
-**Kantonaler Krisenstab**
+**Kantonaler Führungsstab (KFS)**
 
-<sup>1</sup> Der Kantonale Krisenstab setzt sich zusammen aus:
+<sup>1</sup> Der KFS gliedert sich in 1 Element «Front Führung» und in 1 Element «Führung ab Hauptquartier».
 
-- a. der Stabsleitung,
-- b. der Führungsunterstützung,
-- c. den Diensten,
-- d. den Schadenplatzkommandanten und Schadenplatzkommandantinnen.
+<sup>2</sup> Die Grundstruktur des Elements Front Führung gliedert sich wie folgt:
 
-<sup>2</sup> Das Organigramm gemäss Anhang ist Bestandteil dieser Verordnung.
+- a. Schadenplatzkommandantin oder Schadenplatzkommandant sowie deren oder dessen Stellvertretung;
+- b. Führungsunterstützung;
+- c. Fachdienste.
 
-<sup>3</sup> Der Leiter oder die Leiterin des Kantonalen Krisenstabes ist in der Regel mit dem Leiter oder der Leiterin des AMB identisch.
+<sup>3</sup> Die Führung ab Hauptquartier gliedert sich wie folgt:
 
-<sup>4</sup> Der Kantonale Krisenstab untersteht dem Vorsteher oder der Vorsteherin der Sicherheitsdirektion.
+- a. Stabsleitung;
+- b. Führungsunterstützung;
+- c. Fachdienste.
 
-<sup>5</sup> Der Regierungsrat wählt die Mitglieder der Stabsleitung, die Dienstchefs und Dienstchefinnen sowie die Schadenplatzkommandanten und Schadenplatzkommandantinnen.
+<sup>4</sup> Im Ereignisfall werden aus dem KFS Teilstäbe gebildet.
 
-<sup>6</sup> Die Dienstchefs und die Dienstchefinnen können im Einverständnis mit dem Leiter oder der Leiterin des Kantonalen Krisenstabs weitere Personen zur Mitarbeit in ihren Diensten beiziehen.
-
-<sup>7</sup> Das AMB ist zuständig für die Einsatzbereitschaft des Kantonalen Krisenstabs.
-
-### 2.2 Kommunale Führung
+## 4 Kantonale Mittel / Einsatzverband Bevölkerungsschutz (EVB)
 
 #### § 5
 
-**Gemeinde- und regionale Führungsstäbe**
+**Kantonale Mittel / EVB für die Ereignisbewältigung**
 
-<sup>1</sup> Die Führungsstäbe der Gemeinden und der regionalen Verbünde gliedern sich mindestens in:
+<sup>1</sup> Der Kanton verfügt insbesondere über die folgenden Mittel zur Bewältigung von Ereignissen:
 
-- a. die Stabsleitung,
-- b. die Führungsunterstützung,
-- c. die Dienste,
-- d. die Leitung Wirtschaftliche Landesversorgung.
+- a. «Kantonales Care-Team»;
+- b. «Kantonale Notfall-Hotline»;
+- c. «Kantonales Personenmanagement-Team»;
+- d. «Kantonale ABC-Wehr»;
+- e. «Kantonale Öl-Wehr»;
+- f. «Kantonale Rheinrettung»;
+- g. «Kantonale Zivilschutzkompanie»;
+- h. «Kantonales Ingenieur-Team»;
+- i. «Kantonaler Helisupport Bevölkerungsschutz».
 
-<sup>2</sup> Die Gemeinderäte oder die zuständigen Organe der regionalen Verbünde legen die Organisation ihres Führungsstabs fest und wählen die Mitglieder.
+<sup>2</sup> Er kann bei Bedarf weitere Mittel zur Bewältigung von Ereignissen schaffen.
 
-### 2.3 Schadenplatzorganisation
+<sup>3</sup> Das AMB ist für die Einsatzbereitschaft der kantonalen Mittel nach Abs. 1 und 2 zuständig.
+
+<sup>4</sup> Es legt die Organisation der kantonalen Mittel nach Abs. 1 Bst. a–c sowie g–i und Abs. 2 fest.
 
 #### § 6
 
-**Schadenplatzkommando**
+**Einsatz der kantonalen Mittel bei Ereignisarten im Sinne des Bevölkerungsschutzgesetzes BL**
 
-<sup>1</sup> Im Einsatzfall wird ein Schadenplatzkommando gebildet.
+<sup>1</sup> Die kantonalen Mittel nach § 5 Abs. 1 und 2 werden zur Bewältigung von Ereignisarten im Sinne des Bevölkerungsschutzgesetzes BL eingesetzt.
 
-<sup>2</sup> Das Schadenplatzkommando besteht in der Regel aus:
-
-- a. dem Schadenplatzkommandanten oder der Schadenplatzkommandantin,
-- b. der Führungsunterstützung,
-- c. einem Chef oder einer Chefin Feuerwehr,
-- d. einem Chef oder einer Chefin Polizei,
-- e. einem Chef oder einer Chefin Sanität,
-- f. einem Chef oder einer Chefin Zivilschutz und
-- g. Spezialisten und Spezialistinnen.
-
-<sup>3</sup> Der Schadenplatzkommandant oder die Schadenplatzkommandantin kann von der zuständigen Einsatzleitung oder dem zuständigen Führungsstab aufgeboten werden. Er oder sie bildet und führt das Schadenplatzkommando.
-
-<sup>4</sup> Ist der zuständige Führungsstab im Einsatz, ist ihm der Schadenplatzkommandant oder die Schadenplatzkommandantin zur Zusammenarbeit zugewiesen.
+<sup>2</sup> Das Aufgebot erfolgt durch den KFS.
 
 #### § 7
 
-**Schadenplatzkommandant / Schadenplatzkommandantin**
+**Einsatz der kantonalen Mittel bei anderen Ereignissen**
 
-<sup>1</sup> Der Schadenplatzkommandant oder die Schadenplatzkommandantin:
+<sup>1</sup> Die kantonalen Mittel nach § 5 Abs. 1 Bst. a–c sowie h und i und Abs. 2 können zur Bewältigung von Ereignisarten ausserhalb des Bevölkerungsschutzgesetzes BL eingesetzt werden.
 
-- a. führt als Leiter oder Leiterin des Schadenplatzkommandos den Einsatz auf dem Schadenplatz,
-- b. koordiniert die Mittel,
-- c. legt den Einsatzschwerpunkt fest,
-- d. stellt das Aufgebot weiterer Mittel sicher und
-- e. stellt Unterstützungs- und Hilfsbegehren an die zuständigen Führungsstäbe.
+<sup>2</sup> Die Partnerorganisationen und die Führungsstäbe können beim AMB den Einsatz der kantonalen Mittel nach § 5 Abs. 1 Bst. a–c sowie h und i und Abs. 2 beantragen.
 
-<sup>2</sup> Die Partnerorganisationen sind verpflichtet, dem AMB Kandidaten oder Kandidatinnen, die dem Anforderungsprofil entsprechen, für die Ausbildung als Schadenplatzkommandant oder Schadenplatzkommandantin vorzuschlagen.
+<sup>3</sup> Das AMB entscheidet über den Einsatz der Mittel nach Abs. 2.
 
-<sup>3</sup> Der Regierungsrat ernennt auf Vorschlag der Koordinationskommission die Schadenplatzkommandanten und Schadenplatzkommandantinnen.
-
-### 2.4 Ausbildung
+<sup>4</sup> Die kantonalen Mittel sind der jeweiligen Einsatzleitung zugewiesen und werden durch die Einsatzoffizierin oder den Einsatzoffizier des EVB koordiniert.
 
 #### § 8
+
+**Kostentragung**
+
+<sup>1</sup> Für den Einsatz des Kantonalen Care-Teams werden bei Ereignisarten im Sinne des Bevölkerungsschutzgesetzes BL keine Kosten erhoben.
+
+## 5 Übergeordnete Führung
+
+#### § 9
+
+**Festlegung einer übergeordneten Führung im Fall eines Grossereignisses**
+
+<sup>1</sup> Zeichnet sich bei einem Ereignis ab, dass es sich zu einem Grossereignis nach § 3 des Bevölkerungsschutzgesetzes BL entwickeln kann oder ist bereits ein Grossereignis nach § 3 des Bevölkerungsschutzgesetzes BL eingetreten, sprechen sich die an der Ereignisbewältigung beteiligten Partnerorganisationen sowie die Stabsleitung des KFS hinsichtlich der Einsetzung einer übergeordneten Führung (KFS) für die Ereignisbewältigung ab.
+
+<sup>2</sup> Die Absprache beinhaltet insbesondere eine gemeinsame Lagebeurteilung.
+
+<sup>3</sup> Die Absprache schliesst mit dem Entscheid, ob eine übergeordnete Führung für die Ereignisbewältigung eingesetzt wird oder nicht.
+
+<sup>4</sup> Der Entscheid nach Abs. 3 soll nach Möglichkeit einvernehmlich getroffen werden.
+
+<sup>5</sup> Kommt kein einvernehmlicher Entscheid zustande, entscheidet die Stabsleitung des KFS.
+
+<sup>6</sup> Jede Vertreterin resp. jeder Vertreter der Polizei Basel-Landschaft, der Feuerwehr und der Sanität, die resp. der vor Ort für die Führung des Einsatzes seiner Organisation verantwortlich ist, sowie die Stabsleitung des KFS können eine Absprache einberufen.
+
+<sup>7</sup> An der Absprache nimmt jeweils 1 Vertreterin oder 1 Vertreter einer der in Abs. 6 erwähnten Organisationen sowie der Stabsleitung des KFS teil.
+
+## 6 Schadenplatzkommando und Schadenplatzkommandantinnen und Schadenplatzkommandanten
+
+#### § 10
+
+**Schadenplatzkommando und Schadenplatzkommandantinnen und Schadenplatzkommandanten**
+
+<sup>1</sup> Das Schadenplatzkommando ist das Element Front Führung des KFS für die Bewältigung eines Ereignisses vor Ort.
+
+<sup>2</sup> Der Kanton stellt sicher, dass in der Regel 14 Schadenplatzkommandantinnen und Schadenplatzkommandanten einsatzbereit sind.
+
+<sup>3</sup> Die Partnerorganisationen stellen Angehörige ihrer Organisationen als Schadenplatzkommandantinnen und Schadenplatzkommandanten zur Verfügung.
+
+<sup>4</sup> Die Partnerorganisationen stellen die Nachfolge der aus ihrer Organisation stammenden Schadenplatzkommandantinnen und Schadenplatzkommandanten sicher.
+
+#### § 11
+
+**Voraussetzungen für die Ernennung zur Schadenplatzkommandantin oder zum Schadenplatzkommandanten**
+
+<sup>1</sup> Die Schadenplatzkommandantinnen und Schadenplatzkommandanten werden von ihrer Organisation nominiert.
+
+<sup>2</sup> Sie gehören der Führungsstufe 2 innerhalb ihrer Organisation an.
+
+<sup>3</sup> Sie absolvieren die bikantonale Ausbildung zur Schadenplatzkommandantin oder zum Schadenplatzkommandanten sowie den Lehrgang «Führung Grossereignis» der Feuerwehr Koordination Schweiz.
+
+#### § 12
+
+**Aufgaben und Kompetenzen einer Schadenplatzkommandantin oder eines Schadenplatzkommandaten**
+
+<sup>1</sup> Die Schadenplatzkommandantin oder der Schadenplatzkommandant führt das Schadenplatzkommando.
+
+<sup>2</sup> Die Organisation des Schadenplatzkommandos sowie die Aufgaben und Kompetenzen einer Schadenplatzkommandantin oder eines Schadenplatzkommandanten werden geregelt:
+
+- a. im Behelf Schadenplatzkommando der Kantone Basel-Stadt und Basel-Landschaft; und
+- b. in der Leistungsvereinbarung des Kantons mit den Schadenplatzkommandantinnen und den Schadenplatzkommandanten.
+
+## 7 Ausbildung, Grade und Beförderungen
+
+#### § 13
 
 **Ausbildung der Führungsstäbe und des Schadenplatzkommandos**
 
 <sup>1</sup> Das AMB ist zuständig für:
 
-- a. die Grundausbildung und die Weiterbildung der Führungsstäbe und der Schadenplatzkommandi;
-- b. die Fortbildung des Kantonalen Krisenstabs und der Schadenplatzkommandi.
+- a. die Grundausbildung der Führungsstäbe sowie der Schadenplatzkommandi;
+- b. die Fortbildung des KFS und der Schadenplatzkommandi.
 
-### 2.5 Versicherung
+<sup>2</sup> Das AMB kann:
 
-#### § 9
+- a. Grundausbildungen für betriebliche Führungsstäbe anbieten;
+- b. Fortbildungskurse für Gemeindeführungsstäbe sowie für betriebliche Führungsstäbe anbieten;
+- c. Instruktionskurse, Stabs- und Einsatzübungen mit den Organisationen der Einwohnergemeinden und des Kantons durchführen.
 
-**Haftpflichtversicherung**
-
-<sup>1</sup> Die Finanz- und Kirchendirektion sorgt für eine Haftpflichtversicherung, welche die Mitglieder der kantonalen Führung und alle Schutzdienstpflichtigen während Übungen, Kursen, Rapporten und Einsätzen ausreichend deckt.
-
-## 3 Alarmierung und Information
-
-#### § 10
-
-**Alarmierung der Stäbe, Einsatzdienste und Spezialisten/Spezialistinnen**
-
-<sup>1</sup> Der Kanton stellt die Auslösung der Alarmierung der Leitungen der Stäbe und der Zivilschutzkompanien sowie die Alarmierung der Einsatzdienste, der Partnerorganisationen und der Spezialisten und Spezialistinnen sicher.
-
-<sup>2</sup> Die Gemeinden sorgen für kompatible Alarmierungsmittel und betreiben für die nicht vom Kanton alarmierten Personen und Formationen eine Alarmierungsstelle.
-
-#### § 11
-
-**Warnung und Alarmierung der Gemeindebehörden**
-
-<sup>1</sup> Die Gemeinden stellen die Warnung und Alarmierung ihrer Behörden nach den Vorgaben des Kantons sicher.
-
-<sup>2</sup> Die Gemeinden werden durch die Alarmzentrale der Polizei Basel-Landschaft gewarnt und alarmiert.
-
-#### § 12
-
-**Alarmierung der Bevölkerung**
-
-<sup>1</sup> Das AMB sorgt für ein Sirenennetz nach den Vorgaben des Bundes. Die Gemeinden sorgen für die ständige Betriebsbereitschaft und den Unterhalt der Alarmierungsmittel.
-
-<sup>2</sup> Die Sirenen sind kantonal, regional und einzeln auslösbar.
-
-<sup>3</sup> Das AMB ist für die jährlich durchzuführenden Sirenenprobealarme gemäss den Weisungen des Bundes verantwortlich.
-
-<sup>4</sup> Die Alarmzentrale der Polizei Basel-Landschaft löst die Sirenenalarme auf Anweisung des Bundes, der zuständigen Einsatzleitung, des Schadenplatzkommandos oder des Führungsstabs aus.
-
-#### § 13
-
-**Information der Bevölkerung**
-
-<sup>1</sup> Die Alarmzentrale beauftragt die Medien, unmittelbar nach Auslösung des Sirenenalarms die abgegebenen Verhaltensanweisungen und die Informationen über die Entwicklung von Schadenlagen zu verbreiten.
-
-<sup>2</sup> Die im Kanton tätigen Medien veröffentlichen behördliche Meldungen unverzüglich und unverändert.
-
-<sup>3</sup> Liegt die Verantwortung für die Bewältigung von Schadenlagen bei einer einzelnen Gemeinde oder einem Unternehmen, ist diese respektive dieses für die Information verantwortlich. In allen anderen Fällen und bei Auswirkungen von regionalem Interesse ist der Kanton für die Informationsführung zuständig.
+<sup>3</sup> Die Ausbildungen für betriebliche Führungsstäbe nach Abs. 2 sind kostenpflichtig.
 
 #### § 14
 
-**Einheitliche Telematik für die Führung**
+**Grade und Beförderungen**
 
-<sup>1</sup> Sämtliche Führungsstäbe und Partnerorganisationen sowie weitere Stellen, deren Beizug für die Bewältigung von Katastrophen und Notlagen notwendig ist, müssen an das einheitliche Telematiksystem angeschlossen werden.
+<sup>1</sup> Den Angehörigen des EVB wird entsprechend ihrer Ausbildung und ihrer Funktion im Bevölkerungsschutz ein Grad gemäss Anhang 1 zugewiesen.
 
-## 4 Zivilschutz
+<sup>2</sup> Das AMB ist für die Zuweisung des Grades und für die Beförderungen zuständig.
 
-### 4.1 Organisation und Material der Zivilschutzkompanien
+<sup>3</sup> Beförderungen dürfen nur vorgenommen werden, wenn die notwendigen Kurse erfolgreich absolviert wurden und eine entsprechende Bestätigung vorliegt.
+
+<sup>4</sup> Die Gradabzeichen sind an diejenigen der Schweizer Armee angelehnt. Es dürfen ohne Bewilligung des AMB keine weiteren oder andere Grade verliehen werden.
+
+## 8 Warnung, Alarmierung und Information
 
 #### § 15
 
-**Zivilschutzkompanien**
+**Alarmierung der Stäbe, Einsatzdienste und Spezialistinnen und Spezialisten**
 
-<sup>1</sup> Das AMB legt die Grundorganisation der Zivilschutzkompanien der Gemeinden und der regionalen Verbünde fest.
+<sup>1</sup> Der Kanton stellt die Alarmierung der Leitung der Führungsstäbe und der Zivilschutzkompanien sowie der Einsatzdienste, der Partnerorganisationen und der Spezialistinnen und Spezialisten sicher.
+
+<sup>2</sup> Die Einwohnergemeinden sorgen für kompatible Alarmierungsmittel und betreiben für die nicht vom Kanton alarmierten Personen und Formationen eine Alarmierungsstelle.
 
 #### § 16
 
-**Notwendiges Material**
+**Warnung und Alarmierung der Einwohnergemeindebehörden**
 
-<sup>1</sup> Das AMB erlässt technische Richtlinien für das notwendige Material der Zivilschutzkompanien.
+<sup>1</sup> Die Einwohnergemeinden stellen die Warnung und Alarmierung ihrer Behörden nach den Vorgaben des Kantons sicher.
+
+<sup>2</sup> Die Einwohnergemeinden werden durch die Einsatzleitzentrale der Polizei Basel-Landschaft gewarnt und alarmiert.
 
 #### § 17
 
-**Material des Bundes**
+**Alarmierung der Bevölkerung**
 
-<sup>1</sup> Das AMB erlässt Weisungen über Verteilung, Lagerung, Instandhaltung und Kontrolle des vom Bund finanzierten und ausgelieferten Materials.
+<sup>1</sup> Die Einsatzleitzentrale der Polizei Basel-Landschaft löst die Alarmierung im Auftrag der Führungsstäbe oder zuständigen Einsatzleitung für die Bevölkerung aus.
 
-### 4.2 Ausbildung und Beförderungen
+<sup>2</sup> Die Alarmierung ist über die offiziellen Alarmierungssysteme zu verbreiten.
 
 #### § 18
 
-**Kantonale Kurse**
+**Verhaltensanweisungen und Verhaltensempfehlungen an die Bevölkerung**
 
-<sup>1</sup> Die Grundausbildung besteht aus einer 1-wöchigen allgemeinen und einer 2-wöchigen funktionsbezogenen Ausbildung.
+<sup>1</sup> Nach der Alarmierung der Bevölkerung sind Verhaltensanweisungen oder Verhaltensempfehlungen an die Bevölkerung zu verbreiten.
 
-<sup>2</sup> Die Zusatzkurse für Spezialausbildungen dauern bis 5 Tage.
+<sup>2</sup> Verhaltensanweisungen oder Verhaltensempfehlungen können auch ohne vorhergehende Alarmierung der Bevölkerung verbreitet werden.
 
-<sup>3</sup> Die Kaderausbildung pro Funktion dauert 10 Tage.
+<sup>3</sup> Die Einsatzleitzentrale der Polizei Basel-Landschaft verbreitet die Verhaltensanweisungen oder die Verhaltensempfehlungen an die Bevölkerung gemäss den Vorgaben der alarmierenden Stellen (§ 19 Abs. 1).
 
-<sup>4</sup> Die Kader, Spezialisten und Spezialistinnen des Zivilschutzes haben jährlich mindestens 1 Weiterbildungstag zu absolvieren.
+<sup>4</sup> Verhaltensanweisungen oder Verhaltensempfehlungen können bei Bedarf über weitere Kanäle verbreitet werden.
 
-<sup>5</sup> Das AMB kann nach Ausbildungskursen den Zivilschutzkommandanten und Zivilschutzkommandantinnen die Erfolgskontrolle der Angehörigen ihrer Kompanie zur Verfügung stellen.
+<sup>5</sup> Die Medienschaffenden werden durch den KFS bedient.
 
 #### § 19
 
-**Kommunale Kurse**
+**Information der Bevölkerung sowie der Behörden der Nachbarländer bei Sirenentests**
 
-<sup>1</sup> Die jährlichen Wiederholungskurse dauern für alle Funktionen 5 Tage.
+<sup>1</sup> Die Sicherheitsdirektion gewährleistet bei Sirenentests die Information der Bevölkerung.
 
-<sup>2</sup> Der Kadervorkurs dauert 2 bis 5 Tage.
+<sup>2</sup> Sie stellt bei Sirenentests die Information der Behörden in den betroffenen Nachbarländern sicher.
 
 #### § 20
 
-**Ausbildungssteuerung**
+**Zuständigkeit für Systemtests**
 
-<sup>1</sup> Das AMB überprüft jährlich das Erreichen der vereinbarten Leistungsziele.
+<sup>1</sup> Das AMB ist zuständig für die Durchführung der Systemtests.
 
-<sup>2</sup> Das AMB kontrolliert periodisch die Einsatzbereitschaft und die Planungsvorbereitungen der Zivilschutzkompanien der Gemeinden und der regionalen Verbünde.
-
-<sup>3</sup> Das AMB kann mit einem kurzfristigen Aufgebot die Alarmierung überprüfen.
-
-<sup>4</sup> Das AMB stellt den Gemeinderäten die Resultate der Überprüfungen zu.
+<sup>2</sup> Je nach Art der Systemtests wird das AMB durch die Gemeindeführungsstäbe oder Regionalen Führungsstäbe, die Zivilschutzorganisationen, die Feuerwehr und die Einsatzleitzentrale der Polizei Basel-Landschaft unterstützt.
 
 #### § 21
 
-**Beförderungen**
+**Alternative Alarmierungsdispositive bei Mängeln an Systemen zur Alarmierung der Bevölkerung im Ereignisfall**
 
-<sup>1</sup> Das AMB legt Funktionen und Grade in Absprache mit den Partnerorganisationen fest.
+<sup>1</sup> Im Falle von Mängeln an Systemen zur Alarmierung der Bevölkerung stellt das AMB mit Hilfe alternativer Alarmierungsdispositive die Alarmierung sicher, bis die Mängel behoben sind.
 
-<sup>2</sup> Beförderungen von Schutzdienstpflichtigen sind erst nach erfolgreicher Absolvierung der funktionsbezogenen Ausbildung möglich.
-
-<sup>3</sup> Das AMB kann ausnahmsweise die Übernahme bestimmter Funktionen durch Schutzdienstpflichtige bewilligen, welche die entsprechende Ausbildung noch nicht absolviert haben.
-
-<sup>4</sup> Die Gemeinden oder Gemeindeverbünde regeln das Verfahren der Auswahl und der Vorschlagserteilung zur funktionsbezogenen Ausbildung von Schutzdienstpflichtigen.
-
-### 4.3 Aufgebot und Kontrollführung
+## 9 Kulturgüterschutz
 
 #### § 22
 
-**Vororientierung über Dienstleistungen**
+**Aufgaben der Einwohnergemeinden**
 
-<sup>1</sup> Die aufbietende Stelle orientiert die Dienstleistenden im Vorjahr über die bevorstehenden Zivilschutzkurse. Diese Orientierung hat aber mindestens 3 Monate vor der Dienstleistung zu erfolgen.
+<sup>1</sup> Die Einwohnergemeinden melden das von ihnen beschlossene Inventar zu den Kulturgütern von lokaler Bedeutung dem AMB.
+
+<sup>2</sup> Sie melden dem AMB jährlich allfällige Änderungen zum Kulturgüterschutzinventar.
+
+<sup>3</sup> Sie erstellen eine Gefahrenanalyse und eine Risikobeurteilung der Kulturgüter von lokaler Bedeutung.
 
 #### § 23
 
-**Einsätze zugunsten der Gemeinschaft**
+**Aufgaben des Kantons**
 
-<sup>1</sup> Die Gemeinden haben Gesuche für Einsätze zugunsten der Gemeinschaft dem AMB spätestens 1 Monat vor Aufgebot der Schutzdienstpflichtigen einzureichen.
+<sup>1</sup> Das AMB ist die zuständige Stelle für die Sicherung der Kulturgüter.
 
-<sup>2</sup> Das AMB erlässt Weisungen über Einsätze zugunsten der Gemeinschaft.
+<sup>2</sup> Es übernimmt in Zusammenarbeit mit weiteren Stellen die Umsetzung der Massnahmen im Bereich Kulturgüterschutz.
+
+<sup>3</sup> Es hat insbesondere folgende Aufgaben:
+
+- a. Vollzug der kantonalen Belange des Kulturgüterschutzes;
+- b. Sicherstellung der Zusammenarbeit mit der kantonalen Denkmalpflege, dem Amt für Kultur, den zuständigen Stellen des Bundes sowie weiteren Organisationen;
+- c. Beaufsichtigung und Koordination des kommunalen Vollzugs der Massnahmen, insbesondere der Inventarisierung zum Schutz der Kulturgüter;
+- d. Leitung und Koordination der Massnahmen für die Sicherstellungsdokumentationen, die Sicherheitskopien sowie die Bereitstellung von Kulturgüterschutzräumen;
+- e. Aus- und Weiterbildung der Kulturgüterschutzspezialistinnen und Kulturgüterschutzspezialisten des Zivilschutzes.
+
+<sup>4</sup> Die kantonale Denkmalpflege und das Amt für Kultur arbeiten für die Aufgabenerfüllung im Zusammenhang mit dem Kulturgüterschutz mit dem AMB zusammen.
 
 #### § 24
 
-**Kontrollführung**
+**Informatikplattform**
 
-<sup>1</sup> Das AMB ist zuständig für die Kontrollführung und erlässt hierfür Weisungen.
+<sup>1</sup> Der Kanton betreibt eine Informatikplattform für die Kulturgüter, die sich auf dem Kantonsgebiet befinden.
 
-<sup>2</sup> Die Einwohnerkontrollen der Gemeinden stellen die für den Zivilschutzschutz relevanten Daten den kantonalen Kontrollführungsorganen und den betroffenen Schutzdienstpflichtigen unentgeltlich zur Verfügung.
+<sup>2</sup> Die Informatikplattform enthält folgende Daten:
 
-<sup>3</sup> Die Schutzdienstpflichtigen geben die für die Alarmierung notwendigen Daten ihrem Zivilschutzkommandanten oder ihrer Zivilschutzkommandantin und den Kontrollführungsorganen bekannt.
+- a. Angaben zum Kulturgut;
+- b. Angaben zum Standort des Kulturguts;
+- c. Eigentümerin oder Eigentümer des Kulturguts;
+- d. Kontaktdaten der verantwortlichen Person;
+- e. Art der Gefährdung und Kurzdokumentation;
+- f. zuständige Zivilschutzorganisation.
+
+<sup>3</sup> Die Zivilschutzorganisationen sowie das AMB erhalten Zugriff auf die Informatikplattform, soweit sie diesen zur Erfüllung ihrer Aufgaben benötigen.
+
+<sup>4</sup> Das AMB übernimmt die Verantwortung für die Informatikplattform des Kulturgüterschutzes.
+
+## 10 Wirtschaftliche Landesversorgung
 
 #### § 25
 
-**Vorzeitige Entlassung**
+**Die oder der Delegierte für wirtschaftliche Landesversorgung / Bewältigung einer schweren Mangellage**
 
-<sup>1</sup> Das AMB ist zuständig für die Beurteilung von Gesuchen um vorzeitige Entlassung aus der Schutzdienstpflicht.
+<sup>1</sup> Die Leiterin oder der Leiter des KFS übernimmt die Funktion der oder des Delegierten für wirtschaftliche Landesversorgung.
 
-<sup>2</sup> Es holt dazu die Stellungnahme des zuständigen Zivilschutzkommandanten oder der zuständigen Zivilschutzkommandantin ein.
+<sup>2</sup> Sie oder er:
+
+- a. stellt die Verbindung zur Delegierten oder zum Delegierten des Bundes für wirtschaftliche Landesversorgung und zu den zuständigen Stellen für die wirtschaftliche Landesversorgung auf Gemeindeebene sicher;
+- b. sorgt im Falle einer schweren Mangellage auf kantonaler Ebene für den Vollzug der vom Bund übertragenen Aufgaben.
 
 #### § 26
 
-**Ärztliche Beurteilung**
+**Aufgaben der Einwohnergemeinden**
 
-<sup>1</sup> Die aufbietenden Stellen haben einen Kursarzt oder eine Kursärztin zu bezeichnen, der die Dienstfähigkeit der Schutzdienstleistenden vor und während den Dienstleistungen zu beurteilen hat.
+<sup>1</sup> Die Einwohnergemeinden vollziehen die Massnahmen, die ihnen bei der Bewältigung einer schweren Mangellage im Rahmen der wirtschaftlichen Landesversorgung übertragen werden.
 
-<sup>2</sup> Das AMB erlässt hierfür Weisungen.
+<sup>2</sup> Sie erstellen eine Organisation, die den Vollzug der ihnen übertragenen Massnahmen ermöglicht.
 
-### 4.4 Schutzbauten
+<sup>3</sup> Sie tragen die Kosten des Vollzugs.
+
+## 11 Versicherungsschutz
 
 #### § 27
 
-**Projektgenehmigung und Kontrolle der Schutzbauten**
+**Haftpflichtversicherung**
 
-<sup>1</sup> Die Bau- und Umweltschutzdirektion ist für die Projektgenehmigung und die Bauabnahme der neuen Schutzräume zuständig.
-
-<sup>2</sup> Die Gemeinden reichen die Projekte für Neuerrichtungen, Erneuerungen, wesentliche Änderungen und Umnutzungen von Schutzanlagen und Kulturgüterschutzräumen dem AMB zuhanden der zuständigen Stelle des Bundes zur Genehmigung ein.
-
-#### § 27a
-
-**Schutzraumkataster**
-
-<sup>1</sup> Der Kanton führt einen Schutzraumkataster.
-
-<sup>2</sup> Der Schutzraumkataster zeigt Lage, Eigentümer und Kontaktdaten der einzelnen Schutzräume, Anzahl Schutzplätze, Datum der letzten Kontrolle und Zustand auf.
-
-<sup>3</sup> Der Schutzraumkataster wird über das kantonale Geoportal dem Amt für Militär und Bevölkerungsschutz, dem Bauinspektorat, den Zivilschutzorganisationen und Zivilschutzorganen zur Erfüllung ihrer gesetzlichen Aufgaben zugänglich gemacht.
+<sup>1</sup> Die Finanz- und Kirchendirektion sorgt für eine Haftpflichtversicherung, welche die Mitglieder des KFS während Übungen, Ausbildungen, Rapporten und Einsätzen ausreichend deckt.
 
 #### § 28
 
-**Periodische Schutzbautenkontrolle**
+**Versicherungsschutz für Personen, die Hilfeleistungen erbringen**
 
-<sup>1</sup> Die Gemeinden kontrollieren die Schutzräume und die Kulturgüterschutzräume mindestens alle 5 Jahre.
+<sup>1</sup> Die Finanz- und Kirchendirektion sorgt für einen ausreichenden Versicherungsschutz für Personen, die aufgrund eines Aufgebots des Kantons Hilfeleistungen erbringen.
 
-<sup>2</sup> Der Kanton kontrolliert die Schutzanlagen alle 7 Jahre.
+## 12 Haftung und Strafwesen
 
 #### § 29
-
-**Steuerung und Ersatzbeiträge**
-
-<sup>1</sup> Das AMB legt im Einverständnis mit den Gemeinden die Grenzen der Beurteilungsgebiete fest.
-
-<sup>2</sup> Sind in einem Beurteilungsgebiet (Gemeinde, Teil einer Gemeinde) für mindestens 100% der ständigen Wohnbevölkerung Schutzplätze vorhanden, die den vom Bundesrat festgelegten Mindestanforderungen entsprechen und abgenommen sind, können Ersatzbeiträge geleistet werden.
-
-<sup>3</sup> Das AMB überprüft den Deckungsgrad der Schutzplätze alle 5 Jahre.
-
-<sup>4</sup> Für die Aufhebung von Schutzräumen ist dem AMB ein Gesuch einzureichen. Für die Aufhebung von Schutzanlagen ist dem AMB ein Gesuch zuhanden des Bundes einzureichen.
-
-<sup>5</sup> Ausnahmen von der Pflicht zum Erstellen von Schutzplätzen kann das AMB nach den Vorgaben des Bundes bewilligen.
-
-#### § 30
-
-**…**
-
-#### § 31
-
-**Zuweisung der Bevölkerung**
-
-<sup>1</sup> In Gebieten mit besonderer Gefährdung haben die Gemeinden die Planung der Zuweisung der Einwohnerinnen und Einwohner zu den Schutzplätzen nach Vorgaben des AMB zu erstellen.
-
-#### § 32
-
-**Geschützte Patientenplätze**
-
-<sup>1</sup> Das AMB legt in Absprache mit dem Kantonsarzt oder der Kantonsärztin und mit den Gemeinden fest, welche Spitäler und welche Gemeinden geschützte Patientenplätze und Behandlungsmöglichkeiten bereitzustellen haben.
-
-### 4.5 Ersatzbeiträge
-
-#### § 32a
-
-**Beitragshöhe, Ausrichtung**
-
-<sup>1</sup> Die Höhe der Ersatzbeiträge beträgt:
-
-- a. in Schutzräumen mit 1 bis 24 Schutzplätzen — CHF 800 pro Schutzplatz;
-- b. in Schutzräumen mit 25 bis 50 Schutzplätzen — CHF 500 pro Schutzplatz;
-- c. in Schutzräumen mit 51 oder mehr Schutzplätzen — CHF 400 pro Schutzplatz.
-
-<sup>2</sup> Die Ersatzbeiträge sind dem Kanton zu entrichten.
-
-<sup>3</sup> Für Bauten, deren Baugesuch bis am 31. Dezember 2011 eingereicht worden ist, sind die Ersatzbeiträge der Standortgemeinde nach dem damals geltenden Tarif zu entrichten.
-
-#### § 32b
-
-**Kantonaler Fonds Schutzraumbauten**
-
-<sup>1</sup> Es besteht ein kantonaler Fonds betreffend nicht erstellte Schutzplätze und Erneuerung privater Schutzräume (kurz: Schutzplatzfonds).
-
-<sup>2</sup> Das AMB entrichtet Gemeinden sowie privaten Grundeigentümerinnen und Grundeigentümern auf deren Gesuch hin Beiträge aus dem Schutzplatzfonds, sofern keine Gelder im gemeindeeigenen Schutzplatzfonds mehr vorhanden sind, für:
-
-- a. Erstellung, Ausrüstung, Betrieb, Unterhalt und Erneuerung von öffentlichen Schutzräumen;
-- b. Erneuerung von Belüftungsanlagen in privaten Schutzräumen.
-
-<sup>3</sup> Es besteht kein Rechtsanspruch auf Beiträge.
-
-#### § 32c
-
-**Kommunale Fonds Schutzraumbauten**
-
-<sup>1</sup> Entnahmen der Gemeinden aus ihrem Fonds für Ersatzbeiträge für Schutzraumbauten bedürfen der Bewilligung des AMB.
-
-<sup>2</sup> Entnahmen sind zulässig für:
-
-- a. Erstellung, Ausrüstung, Betrieb, Unterhalt und Erneuerung von öffentlichen Schutzräumen;
-- b. Erneuerung von Belüftungsanlagen in privaten Schutzräumen;
-- c. Deckung der Betriebs- und Unterhaltskosten von Schutzanlagen, soweit jene den jährlichen Pauschalbeitrag des Bundes übersteigen.
-
-<sup>3</sup> Sofern sich die öffentlichen Schutzräume und die Schutzanlagen in betriebsbereitem Zustand befinden, sind Entnahmen zulässig für:
-
-- a. periodische Schutzraumkontrolle und periodische Anlagekontrolle;
-- b. Alarmierungs- und Telematikeinrichtungen;
-- c. Zivilschutzmaterial und Fahrzeuge.
-
-## 5 Kulturgüterschutz
-
-#### § 33
-
-**Kantonale Fachstelle für Kulturgüterschutz**
-
-<sup>1</sup> Das AMB nimmt die Aufgaben einer kantonalen Fachstelle für Kulturgüterschutz wahr.
-
-<sup>2</sup> Die kantonale Fachstelle hat folgende Aufgaben:
-
-- a. Sie vollzieht die kantonalen Belange des Kulturgüterschutzes;
-- b. sie stellt die Zusammenarbeit mit der kantonalen Denkmalpflege, dem Amt für Kultur, der zuständigen Stelle des Bundes und den zielverwandten Organisationen sicher;
-- c. sie beaufsichtigt und koordiniert den kommunalen Vollzug der Massnahmen, insbesondere der Inventarisierung, zum Schutz der Kulturgüter;
-- d. sie genehmigt das Gesamtverzeichnis der Kulturgüter der Gemeinden;
-- e. sie leitet und koordiniert die Massnahmen für die Sicherstellungsdokumentationen, die Sicherheitskopien sowie die Bereitstellung von Kulturgüterschutzräumen.
-
-#### § 34
-
-**Planungsunterlagen**
-
-<sup>1</sup> Der Zivilschutz stellt den Partnerorganisationen die Planungsunterlagen betreffend den Schutz und die Evakuation der Kulturgüter zur Verfügung.
-
-## 6 Wirtschaftliche Landesversorgung
-
-#### § 35
-
-**Wirtschaftliche Landesversorgung**
-
-<sup>1</sup> Die kantonale Zentralstelle für wirtschaftliche Landesversorgung befindet sich beim AMB.
-
-<sup>2</sup> Die Gemeinden vollziehen die Massnahmen, die ihnen im Bereich der wirtschaftlichen Landesversorgung übertragen werden.
-
-<sup>3</sup> Die Gemeinden tragen die Kosten des Vollzugs.
-
-## 7 Schlussbestimmungen
-
-#### § 36
 
 **Haftung**
 
 <sup>1</sup> Für Schäden im Sinne der Bundesgesetzgebung über den Bevölkerungsschutz und den Zivilschutz, die nicht vom Bund oder von der kantonalen Haftpflichtversicherung übernommen werden, haftet die aufbietende Stelle.
 
-#### § 37
+#### § 30
 
 **Zuständigkeiten im Strafwesen**
 
-<sup>1</sup> Für Verwarnungen und Verzeigungen gegenüber Schutzdienstleistenden ist die aufbietende Stelle zuständig.
+<sup>1</sup> Für Verwarnungen und Verzeigungen gegenüber Dritten sind die zuständigen Ereignisdienste und Führungsstäbe verantwortlich.
 
-<sup>2</sup> Für Verwarnungen und Verzeigungen gegenüber Dritten sind die zuständigen Ereignisdienste und Führungsstäbe verantwortlich.
-
-#### § 38
-
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Es werden aufgehoben:
-
-- a. die Verordnung vom 2. Dezember 1997[^38-1] zum Gesetz über den zivilen Schutz der Bevölkerung und der Kulturgüter;
-- b. das Reglement vom 18. Februar 1986[^38-2] über die ärztliche Beurteilung der Schutzdienstpflichtigen.
-
-[^38-1]: GS 32.981, SGS 731.11
-[^38-2]: GS 29.218, SGS 731.111
-
-#### § 39
-
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt am 1. September 2004 in Kraft.
-
-GS 35.0217
+GS 2022.057
