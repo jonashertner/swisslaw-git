@@ -4,20 +4,20 @@ title: Verordnung vom 18. Juni 2010 über die elektronische Übermittlung im Rah
 short: VeÜ-VwV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/408"
 language: de
-version: 2017-01-01
+version: 2022-07-01
 adopted: 2010-06-18
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/408/20170101/de/xml/fedlex-data-admin-ch-eli-cc-2010-408-20170101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/408/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/408/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2010-408-20220701-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/408/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die elektronische Übermittlung im Rahmen eines Verwaltungsverfahrens
 
-(VeÜ-VwV)**[^t-1]**
+(VeÜ-VwV)[^t-1]
 
-vom 18. Juni 2010 (Stand am 1. Januar 2017)
+vom 18. Juni 2010 (Stand am 1. Juli 2022)
 
 [^t-1]: Eingefügt durch Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Dez. 2012 ([AS 2012 6069](https://fedlex.data.admin.ch/eli/oc/2012/714)).
 
@@ -176,15 +176,9 @@ Der Zeitpunkt der Zustellung von E-Rechnungen mit Verfügungscharakter muss abwe
 
 <sup>3</sup> Die Verfügungen werden im Format PDF/A, die Beilagen im Format PDF übermittelt. Die E-Rechnungen mit Verfügungscharakter werden im Format PDF und zusätzlich als strukturierte Daten übermittelt.[^9-3]
 
-<sup>4</sup> Die Verfügungen werden mit einer qualifizierten elektronischen Signatur versehen (Art. 2 Bst. e ZertES[^9-4]).[^9-5]
+<sup>4</sup> Die Verfügungen werden mit einem geregelten elektronischen Siegel oder einer qualifizierten elektronischen Signatur versehen (Art. 2 Bst. d und e ZertES[^9-4]).[^9-5]
 
-<sup>5</sup>
-
-Mit einem geregelten elektronischen Siegel (Art. 2 Bst. d ZertES) dürfen versehen werden:
-
-- a. elektronische Kopien von Verfügungen;
-- b. Verfügungen, die in einem automatisierten Verfahren erlassen werden und aufgrund ihrer grossen Anzahl nicht einzeln von einer Vertretung der Behörde unterzeichnet werden (Massenverfügungen);
-- c. E-Rechnungen mit Verfügungscharakter; auf diesen Rechnungen kann das geregelte elektronische Siegel im Auftrag der zuständigen Behörde von den für den elektronischen Rechnungsaustausch üblichen Dienstleistern angebracht werden.[^9-6]
+<sup>5</sup> …[^9-6]
 
 <sup>6</sup> …[^9-7]
 
@@ -192,8 +186,8 @@ Mit einem geregelten elektronischen Siegel (Art. 2 Bst. d ZertES) dürfen verseh
 [^9-2]: Eingefügt durch Ziff. I der V vom 21. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4243](https://fedlex.data.admin.ch/eli/oc/2015/710)).
 [^9-3]: Fassung gemäss Ziff. I der V vom 21. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4243](https://fedlex.data.admin.ch/eli/oc/2015/710)).
 [^9-4]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^9-5]: Fassung gemäss Anhang Ziff. II 2 der V vom 23. Nov. 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
-[^9-6]: Fassung gemäss Anhang Ziff. II 2 der V vom 23. Nov. 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^9-5]: Fassung gemäss Ziff. I der V vom 18. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 314](https://fedlex.data.admin.ch/eli/oc/2022/314)).
+[^9-6]: Aufgehoben durch Ziff. I der V vom 18. Mai 2022, mit Wirkung seit 1. Juli 2022 ([AS 2022 314](https://fedlex.data.admin.ch/eli/oc/2022/314)).
 [^9-7]: Eingefügt durch Ziff. I der V vom 31. Okt. 2012 ([AS 2012 6069](https://fedlex.data.admin.ch/eli/oc/2012/714)). Aufgehoben durch Ziff. I der V vom 21. Okt. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 4243](https://fedlex.data.admin.ch/eli/oc/2015/710)).
 
 #### Art. 10

@@ -4,20 +4,20 @@ title: "Ordinanza del 18 giugno 2010 sulla comunicazione per via elettronica nel
 short: OCE-PA
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/408"
 language: it
-version: 2017-01-01
+version: 2022-07-01
 adopted: 2010-06-18
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/408/20170101/it/xml/fedlex-data-admin-ch-eli-cc-2010-408-20170101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/408/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/408/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2010-408-20220701-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/408/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulla comunicazione per via elettronica nell’ambito di procedimenti amministrativi
 
-(OCE-PA)**[^t-1]**
+(OCE-PA)[^t-1]
 
-del 18 giugno 2010 (Stato 1° gennaio 2017)
+del 18 giugno 2010 (Stato 1° luglio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 31 ott. 2012, in vigore dal 1° dic. 2012 ([RU 2012 6069](https://fedlex.data.admin.ch/eli/oc/2012/714)).
 
@@ -28,7 +28,7 @@ visti gli articoli 11*b* capoverso 2, 21*a* capoverso 4 e 34 capoverso 1<sup>bis
 ordina:
 
 [^ingress-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^ingress-2]: Nuovo testo giusta il n. II 2 dell’all. all’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^ingress-2]: Nuovo testo giusta l’all. n. II 2 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -61,7 +61,7 @@ Sono riconosciute le piattaforme di trasmissione riconosciute conformemente all�
 
 <sup>1</sup> Gli atti scritti possono essere comunicati per via elettronica a qualsiasi autorità.
 
-<sup>2</sup> e <sup>3</sup> … [^3-1]
+<sup>2</sup> e <sup>3</sup> ... [^3-1]
 
 [^3-1]: Vedi art. 15 cpv. 2.
 
@@ -82,11 +82,11 @@ Per ogni autorità la lista indica:
 - e. singoli tipi di atti da trasmettere, oltre che per via elettronica, anche su carta;
 - f.[^4-1] l’indirizzo al quale figurano i certificati muniti di chiavi crittografiche pubbliche che devono essere utilizzati per la cifratura di atti scritti trasmessi all’autorità e per la verifica della firma elettronica dell’autorità.
 
-<sup>3</sup> …[^4-2]
+<sup>3</sup> ...[^4-2]
 
 <sup>4</sup> La Cancelleria federale può disciplinare la registrazione e l’aggiornamento delle iscrizioni.
 
-[^4-1]: Nuovo testo giusta il n. II 2 dell’all. all’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^4-1]: Nuovo testo giusta l’all. n. II 2 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 [^4-2]: Vedi art. 15 cpv. 2.
 
 #### Art. 5
@@ -114,7 +114,7 @@ Se non riesce a leggere un atto scritto o gli allegati, l’autorità concede al
 
 <sup>2</sup> Il Dipartimento federale di giustizia e polizia stabilisce come registrare nella ricevuta il momento della consegna.
 
-[^5a-1]: Introdotto dal n. II 2 dell’all. all’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^5a-1]: Introdotto dall’all. n. II 2 all’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 
 #### Art. 6
 
@@ -124,7 +124,7 @@ Se non riesce a leggere un atto scritto o gli allegati, l’autorità concede al
 
 <sup>2</sup> Se manca una firma elettronica prescritta, l’autorità concede alla parte un termine per la correzione. La parte può ritrasmettere gli atti scritti muniti di una firma elettronica qualificata oppure inviarli firmati a mano conformemente all’articolo 21 PA.
 
-[^6-1]: Nuovo testo giusta il n. II 2 dell’all. all’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^6-1]: Nuovo testo giusta l’all. n. II 2 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 
 #### Art. 7
 
@@ -132,7 +132,7 @@ Se non riesce a leggere un atto scritto o gli allegati, l’autorità concede al
 
 Se non è accessibile sulla piattaforma di trasmissione utilizzata dall’autorità né figura nella lista del prestatore di servizi di certificazione riconosciuto (art. 12 cpv. 2 della legge del 18 marzo 2016[^7-2] sulla firma elettronica, FiEle), il certificato qualificato munito della chiave crittografica pubblica deve essere allegato all’invio.
 
-[^7-1]: Nuovo testo giusta il n. II 2 dell’all. all’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^7-1]: Nuovo testo giusta l’all. n. II 2 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 [^7-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
 
 ## Sezione 3: Notificazione di decisioni
@@ -176,15 +176,9 @@ In deroga al capoverso 2 lettera b, non è necessario che il momento della notif
 
 <sup>3</sup> Le decisioni sono trasmesse in formato PDF/A, gli allegati in formato PDF. Le fatture elettroniche aventi carattere di decisione sono trasmesse in formato PDF e come dati strutturati.[^9-3]
 
-<sup>4</sup> Le decisioni sono provviste di una firma elettronica qualificata (art. 2 lett. e FiEle[^9-4]).[^9-5]
+<sup>4</sup> Le decisioni sono provviste di un sigillo elettronico regolamentato o una firma elettronica qualificata (art. 2 lett. d ed e FiEle[^9-4]).[^9-5]
 
-<sup>5</sup>
-
-Possono essere provviste di un sigillo elettronico regolamentato (art. 2 lett. d FiEle):
-
-- a. le copie elettroniche delle decisioni;
-- b. le decisioni emanate tramite una procedura automatizzata e che in ragione del loro elevato numero non possono essere firmate singolarmente da un rappresentante dell’autorità (notificazione collettiva di decisioni);
-- c. le fatture elettroniche aventi carattere di decisione; su tali fatture il sigillo elettronico regolamentato può essere apposto, su mandato dell’autorità competente, dagli abituali fornitori di servizi per lo scambio elettronico di fatture.[^9-6]
+<sup>5</sup> ...[^9-6]
 
 <sup>6</sup> ...[^9-7]
 
@@ -192,8 +186,8 @@ Possono essere provviste di un sigillo elettronico regolamentato (art. 2 lett. d
 [^9-2]: Introdotto dal n. I dell’O del 21 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4243](https://fedlex.data.admin.ch/eli/oc/2015/710)).
 [^9-3]: Nuovo testo giusta il n. I dell’O del 21 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4243](https://fedlex.data.admin.ch/eli/oc/2015/710)).
 [^9-4]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^9-5]: Nuovo testo giusta il n. II 2 dell’all. all’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
-[^9-6]: Nuovo testo giusta il n. II 2 dell’all. all’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^9-5]: Nuovo testo giusta il n. I dell’O del 18 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 314](https://fedlex.data.admin.ch/eli/oc/2022/314)).
+[^9-6]: Abrogato dal n. I dell’O del 18 mag. 2022, con effetto dal 1° lug. 2022 ([RU 2022 314](https://fedlex.data.admin.ch/eli/oc/2022/314)).
 [^9-7]: Introdotto dal n. I dell’O del 31 ott. 2012 ([RU 2012 6069](https://fedlex.data.admin.ch/eli/oc/2012/714)). Abrogato dal n. I dell’O del 21 ott. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4243](https://fedlex.data.admin.ch/eli/oc/2015/710)).
 
 #### Art. 10
@@ -277,5 +271,5 @@ L’ordinanza del 17 ottobre 2007[^13-1] concernente la comunicazione per via el
 
 Per le decisioni notificate collettivamente e le fatture elettroniche aventi carattere di decisione (art. 9 cpv. 5), fino al 31 dicembre 2018 è sufficiente apporre una firma elettronica avanzata (art. 2 lett. b FiEle[^15a-2]) basata sul certificato di un prestatore di servizi di certificazione riconosciuto.
 
-[^15a-1]: Introdotto dal n. II 2 dell’all. all’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^15a-1]: Introdotto dall’all. n. II 2 all’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 [^15a-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)

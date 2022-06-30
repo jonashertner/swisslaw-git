@@ -4,20 +4,20 @@ title: Ordonnance du 18 juin 2010 sur la communication électronique dans le cad
 short: OCEl-PA
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/408"
 language: fr
-version: 2017-01-01
+version: 2022-07-01
 adopted: 2010-06-18
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/408/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-408-20170101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/408/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/408/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-408-20220701-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/408/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur la communication électronique dans le cadre de procédures administratives
 
-(OCEl-PA)**[^t-1]**
+(OCEl-PA)[^t-1]
 
-du 18 juin 2010 (Etat le 1<sup>er</sup> janvier 2017)
+du 18 juin 2010 (État le 1<sup>er</sup> juillet 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 31 oct. 2012, en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 6069](https://fedlex.data.admin.ch/eli/oc/2012/714)).
 
@@ -28,7 +28,7 @@ vu les art. 11*b*, al. 2, 21*a*, al. 4, et 34, al. 1<sup>bis</sup>, de la loi f�
 arrête:
 
 [^ingress-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^ingress-2]: Nouvelle teneur selon le ch. II 2 de l’annexe à l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^ingress-2]: Nouvelle teneur selon l’annexe ch. II 2 de l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 
 ## Section 1 Dispositions générales
 
@@ -61,7 +61,7 @@ Par plateformes reconnues de messagerie sécurisée (plateformes) on entend cell
 
 <sup>1</sup> Les écrits peuvent être communiqués par voie électronique à toute autorité.
 
-<sup>2</sup> und <sup>3</sup> …[^3-1]
+<sup>2</sup> et <sup>3</sup> …[^3-1]
 
 [^3-1]: Voir art. 15 al. 2.
 
@@ -86,7 +86,7 @@ Le répertoire indique pour chaque autorité:
 
 <sup>4</sup> La Chancellerie fédérale peut régler l’introduction des inscriptions dans le répertoire et leur actualisation.
 
-[^4-1]: Nouvelle teneur selon le ch. II 2 de l’annexe à l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^4-1]: Nouvelle teneur selon l’annexe ch. II 2 de l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 [^4-2]: Voir art. 15 al. 2.
 
 #### Art. 5
@@ -114,7 +114,7 @@ Si un écrit ou une pièce annexe ne peut pas être consulté par l’autorité,
 
 <sup>2</sup> Le Département fédéral de justice et police règle la manière de consigner dans la quittance le moment du dépôt.
 
-[^5a-1]: Introduit par le ch. II 2 de l’annexe à l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^5a-1]: Introduit par l’annexe ch. II 2 de l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 
 #### Art. 6
 
@@ -124,7 +124,7 @@ Si un écrit ou une pièce annexe ne peut pas être consulté par l’autorité,
 
 <sup>2</sup> Si la signature électronique requise fait défaut, l’autorité peut impartir à la partie un délai pour corriger ce vice. La partie le corrige soit en réitérant l’envoi avec une signature électronique qualifiée, soit en expédiant selon les modalités prévues à l’art. 21 PA l’écrit muni de sa signature manuscrite.
 
-[^6-1]: Nouvelle teneur selon le ch. II 2 de l’annexe à l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^6-1]: Nouvelle teneur selon l’annexe ch. II 2 de l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 
 #### Art. 7
 
@@ -132,7 +132,7 @@ Si un écrit ou une pièce annexe ne peut pas être consulté par l’autorité,
 
 Le certificat qualifié contenant la clé cryptographique publique est joint à l’envoi s’il n’est pas accessible sur la plateforme utilisée par l’autorité ni mentionné dans l’annuaire du fournisseur de services de certification reconnu (art. 12, al. 2, de la loi du 18 mars 2016 sur la signature électronique, SCSE[^7-2]).
 
-[^7-1]: Nouvelle teneur selon le ch. II 2 de l’annexe à l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^7-1]: Nouvelle teneur selon l’annexe ch. II 2 de l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 [^7-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
 
 ## Section 3 Notification de décisions
@@ -176,15 +176,9 @@ Contrairement à ce que prévoit l’al. 2, let. b, le moment de la notification
 
 <sup>3</sup> Les décisions sont transmises en format PDF/A, les pièces annexées en format PDF. Les factures électroniques à caractère de décision sont transmises en format PDF ainsi que sous forme de données structurées.[^9-3]
 
-<sup>4</sup> Les décisions sont munies d’une signature électronique qualifiée (art. 2, let. e, SCSE[^9-4]).[^9-5]
+<sup>4</sup> Les décisions sont munies d’un cachet électronique réglementé ou d’une signature électronique qualifiée (art. 2, let. d et e, SCSE[^9-4]).[^9-5]
 
-<sup>5</sup>
-
-Peuvent être munies d’un cachet électronique réglementé (art. 2, let. d, SCSE):
-
-- a. les copies électroniques de décisions;
-- b. les décisions notifiées selon une procédure automatisée, qui, en raison de leur grand nombre, ne peuvent pas être signées individuellement par un représentant de l’autorité (décisions notifiées en masse);
-- c. les factures électroniques à caractère de décision; le cachet peut être apposé par les prestataires habituels pour l’échange électronique de factures, sur mandat de l’autorité compétente.[^9-6]
+<sup>5</sup> …[^9-6]
 
 <sup>6</sup> …[^9-7]
 
@@ -192,8 +186,8 @@ Peuvent être munies d’un cachet électronique réglementé (art. 2, let. d, S
 [^9-2]: Introduit par le ch. I de l’O du 21 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4243](https://fedlex.data.admin.ch/eli/oc/2015/710)).
 [^9-3]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4243](https://fedlex.data.admin.ch/eli/oc/2015/710)).
 [^9-4]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^9-5]: Nouvelle teneur selon le ch. II 2 de l’annexe à l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
-[^9-6]: Nouvelle teneur selon le ch. II 2 de l’annexe à l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^9-5]: Nouvelle teneur selon le ch. I de l’O du 18 mai 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 314](https://fedlex.data.admin.ch/eli/oc/2022/314)).
+[^9-6]: Abrogé par le ch. I de l’O du 18 mai 2022, avec effet au 1<sup>er</sup> juil. 2022 ([RO 2022 314](https://fedlex.data.admin.ch/eli/oc/2022/314)).
 [^9-7]: Introduit par le ch. I de l’O du 31 oct. 2012 ([RO 2012 6069](https://fedlex.data.admin.ch/eli/oc/2012/714)). Abrogé par le ch. I de l’O du 21 oct. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 4243](https://fedlex.data.admin.ch/eli/oc/2015/710)).
 
 #### Art. 10
@@ -277,5 +271,5 @@ L’ordonnance du 17 octobre 2007 sur la communication électronique dans le cad
 
 Pour les décisions notifiées en masse et les factures électroniques à caractère de décision (art. 9, al. 5), l’apposition d’une signature électronique avancée (art. 2, let. b, SCSE[^15a-2]), basée sur un certificat émanant d’un fournisseur reconnu, est suffisante jusqu’au 31 décembre 2018.
 
-[^15a-1]: Introduit par le ch. II 2 de l’annexe à l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 (RO **2016** (4667).
+[^15a-1]: Introduit par l’annexe ch. II 2 de l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 (RO **2016** (4667).
 [^15a-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
