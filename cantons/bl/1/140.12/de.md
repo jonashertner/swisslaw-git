@@ -3,20 +3,19 @@ canton: BL
 number: "140.12"
 title: Verordnung über die Generalsekretären-Konferenz
 language: de
-version: 2018-01-01
-valid_until: 2022-06-30
-version_adopted: 2017-12-19
+version: 2022-07-01
+version_adopted: 2022-06-21
 adopted: 2001-10-30
 in_force: 2002-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/140.12"
-pdf: "https://bl.clex.ch/api/de/versions/2086/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3354/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Generalsekretären-Konferenz
 
-Vom 30.10.2001 (Stand 01.01.2018)
+Vom 30.10.2001 (Stand 01.07.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -44,7 +43,7 @@ beschliesst:
 - b. Sie wirkt auf die einheitliche Durchführung dieser Massnahmen hin, soweit diese Aufgabe nicht einer anderen Stelle obliegt.
 - c. Sie tauscht Informationen über direktionsübergreifende Geschäfte aus.
 - d. Sie leitet Anregungen und Empfehlungen, die ihr zugetragen werden, an die zuständige Direktion weiter.
-- e. Sie kann ihren Arbeitsgruppen sowie den direktionsübergreifenden Fachgremien, so insbesondere der Fachgruppe «Informatik», der Konferenz der Controller, der Gruppe der dezentralen Personalverantwortlichen, der Gruppe der Informationsbeauftragten, der Kommission «Raum» und der Arbeitsgruppe «Lehrlingswesen», Aufgaben zuteilen.
+- e. Sie kann ihren Arbeitsgruppen sowie den direktionsübergreifenden Fachgremien, so insbesondere der Fachgruppe «Informatik», der Konferenz der Controller, der Geschäftsleitung der Personalorganisation, der Gruppe der Informationsbeauftragten, der Kommission «Raum» und der Arbeitsgruppe «Lehrlingswesen», Aufgaben zuteilen.
 
 #### § 3
 
