@@ -3,20 +3,20 @@ canton: GL
 number: I A/1/1
 title: Verfassung des Kantons Glarus
 language: de
-version: 2020-01-01
-valid_until: 2022-06-30
-version_adopted: 2019-05-05
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2022-05-01
 adopted: 1988-05-01
 in_force: 1988-05-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/I-A.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2102/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2323/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Glarus
 
-Vom 01.05.1988 (Stand 01.01.2020)
+Vom 01.05.1988 (Stand 01.07.2022)
 
 Das Volk des Landes Glarus, eingedenk seiner Verantwortung vor Gott, den Menschen und der Schweizerischen Eidgenossenschaft, gibt sich folgende
 
@@ -196,7 +196,7 @@ Verfassung:
 
 ## 2. Öffentliche Aufgaben und Finanzordnung
 
-### 2.1. Umweltschutz und Raumordnung
+### 2.1. Umweltschutz, Klimaschutz und Raumordnung
 
 #### Art. 22
 
@@ -207,6 +207,16 @@ Verfassung:
 <sup>2</sup> Der Kanton und die Gemeinden erlassen im Rahmen des Bundesrechts Vorschriften und treffen Massnahmen zum Schutz des Menschen und seiner Umwelt.
 
 <sup>3</sup> Sie bewahren die Schönheit und Eigenart der Landschaft und der Ortsbilder sowie der Natur- und Kulturdenkmäler.
+
+#### Art. 22a
+
+**Klimaschutz**
+
+<sup>1</sup> Kanton und Gemeinden setzen sich für die Begrenzung der Klimaveränderung und deren nachteiligen Auswirkungen ein. Sie leisten den erforderlichen Beitrag zur Erreichung der Klimaziele des Kantons, des Bundes und der für die Schweiz verbindlichen internationalen Abkommen.
+
+<sup>2</sup> Sie sorgen dafür, dass dazu geeignete Massnahmen umgesetzt werden. Die Massnahmen zum Klimaschutz sind umwelt-, sozial- und wirtschaftsverträglich auszugestalten.
+
+<sup>3</sup> Sie setzen finanzielle Anreize zur Erreichung der Klimaziele.
 
 #### Art. 23
 
@@ -595,7 +605,7 @@ Verfassung:
 
 <sup>2</sup> Die vom Landrat unerheblich erklärten Memorialsanträge werden ohne Stellungnahme gesondert aufgeführt.
 
-<sup>3</sup> Mit dem Memorial werden der Landsgemeinde die Jahresrechnung, der Finanzbericht sowie das Budget zur Kenntnis gebracht.
+<sup>3</sup> …
 
 <sup>4</sup> Das Landsgemeindememorial wird in einer ausreichenden Anzahl spätestens vier Wochen vor der Landsgemeinde an die Stimmberechtigten verteilt.
 
@@ -664,7 +674,7 @@ Verfassung:
 <sup>1</sup> Die Landsgemeinde ist zuständig für:
 
 - a. die Wahl des Landammanns und des Landesstatthalters;
-- b. die Wahl der Gerichtspräsidenten und der weiteren Richter.
+- b. die Wahl der Gerichtspräsidien, der teilamtlichen Vizepräsidien und der weiteren Richterinnen und Richter.
 
 #### Art. 69
 
@@ -717,6 +727,8 @@ Verfassung:
 **Wählbarkeit**
 
 <sup>1</sup> Alle Stimmberechtigten ab zurückgelegtem 18. Altersjahr sind wählbar als Landrat, Regierungsrat oder Richter, als Ständerat oder als Mitglied der weiteren Behörden des Kantons und der Gemeinden.
+
+<sup>1a</sup> Für die Gerichtspräsidien und die teilamtlichen Vizepräsidien ist zudem ein an einer Schweizer Hochschule mit einem Lizentiat oder Master abgeschlossenes Studium der Rechtswissenschaften Wählbarkeitsvoraussetzung.
 
 <sup>2</sup> Das Gesetz kann für bestimmte Behörden zusätzliche Wählbarkeitsvoraussetzungen vorsehen.
 
@@ -883,7 +895,7 @@ Verfassung:
 
 <sup>1</sup> Dem Landrat stehen zu:
 
-- a. die Festsetzung des Budgets, die Prüfung und Abnahme der Jahresrechnung und die Genehmigung des Finanzplans;
+- a. die Festsetzung des Budgets, die Prüfung und Abnahme der Jahresrechnung und die Kenntnisnahme des Integrierten Aufgaben- und Finanzplans;
 - b. Beschlüsse über alle frei bestimmbaren einmaligen Ausgaben für den gleichen Zweck, die 1 Million Franken, und über alle frei bestimmbaren wiederkehrenden Ausgaben für den gleichen Zweck, die 200 000 Franken im Jahr nicht übersteigen;
 - c. der freie Erwerb von Grundstücken als Anlage oder zur Vorsorge im Betrag von mehr als 600 000 Franken bis zu 5 Millionen Franken;
 - d. Beschlüsse über die Aufnahme und Erneuerung langfristiger Anleihen.
@@ -1049,33 +1061,31 @@ Verfassung:
 
 ### 5.3 Rechtspflege
 
-#### Art. 106
-
-**Richterliche Unabhängigkeit**
-
-<sup>1</sup> Die Gerichte sind unabhängig und nur an Recht und Gesetz gebunden.
-
-<sup>2</sup> Sie dürfen Erlasse nicht anwenden, die Bundesrecht oder kantonalem Verfassungs- und Gesetzesrecht widersprechen.
-
-#### Art. 107
+#### Art. 106–107
 
 **…**
 
 ### 5.3.1. Gerichte
 
+#### Art. 107a
+
+**Richterliche Unabhängigkeit**
+
+<sup>1</sup> Die Gerichte sind unabhängig und nur an Recht und Gesetz gebunden.
+
+<sup>2</sup> Sie verwalten sich selbst. Das Gesetz sieht hierzu ein gemeinsames Organ vor.
+
+<sup>3</sup> Die Gerichte dürfen Erlasse nicht anwenden, die Bundesrecht oder kantonalem Verfassungs- und Gesetzesrecht widersprechen.
+
 #### Art. 108
 
 **Kantonsgericht**
 
-<sup>1</sup> Das Kantonsgericht urteilt in Zivil-, Straf- und Jugendstrafsachen als erste Instanz durch:
+<sup>1</sup> Das Kantonsgericht urteilt in Zivil-, Straf- und Jugendstrafsachen als erste kantonale Instanz.
 
-- a. zwei Zivilkammern, bestehend aus je einem Präsidenten und vier Mitgliedern;
-- b. die Strafkammer, bestehend aus dem Präsidenten und vier Mitgliedern;
-- c. die Strafgerichtskommission, bestehend aus dem Präsidenten sowie zwei Mitgliedern der Strafkammer.
+<sup>2</sup> Es besteht aus zwei Präsidien und einer durch Gesetz bestimmten Anzahl von Mitgliedern.
 
-<sup>2</sup> Das Kantonsgericht hat zwei vollamtliche Präsidenten, die als Vorsitzende der Kammern und der Strafgerichtskommission sowie als Einzelrichter amten.
-
-<sup>3</sup> Die Präsidenten und die Mitglieder des Kantonsgerichts amten in den vom Gesetz vorgesehenen Fällen als Einzelrichter.
+<sup>3</sup> …
 
 #### Art. 109
 
@@ -1087,45 +1097,47 @@ Verfassung:
 
 <sup>1</sup> Das Obergericht urteilt in Zivil-, Straf- und Jugendstrafsachen als letzte oder einzige kantonale Instanz.
 
-<sup>2</sup> Das Obergericht besteht aus dem Präsidenten und sieben Mitgliedern; das Gesetz regelt die Zusammensetzung der Spruchkörper.
+<sup>2</sup> Es besteht aus dem Präsidium und einer durch Gesetz bestimmten Anzahl von Mitgliedern.
 
-<sup>3</sup> Der Obergerichtspräsident entscheidet in den vom Gesetz vorgesehenen Fällen als Einzelrichter.
+<sup>3</sup> …
+
+<sup>3a</sup> Das Obergericht übt die Aufsicht über die Geschäftsführung des Kantonsgerichts aus.
 
 #### Art. 111
 
 **Verwaltungsgericht**
 
-<sup>1</sup> Das Verwaltungsgericht beurteilt verwaltungs- und andere öffentlich-rechtliche Streitigkeiten als erste oder als Beschwerdeinstanz. Es besteht aus dem Präsidenten sowie acht Richtern und bildet aus diesen zwei Kammern.
+<sup>1</sup> Das Verwaltungsgericht urteilt in verwaltungs- und anderen öffentlich-rechtlichen Streitigkeiten als erste oder als Beschwerdeinstanz.
 
-<sup>2</sup> Für besondere Verwaltungsstreitigkeiten können durch Gesetz verwaltungsunabhängige Rekurskommissionen eingesetzt werden.
+<sup>1a</sup> Es besteht aus dem Präsidium und einer durch Gesetz bestimmten Anzahl von Mitgliedern.
+
+<sup>2</sup> …
+
+<sup>2a</sup> Das Verwaltungsgericht übt die Aufsicht über die Geschäftsführung der verwaltungsunabhängigen Kommissionen aus.
 
 #### Art. 112
 
-**Organisation und Verwaltung**
+**Organisation**
 
 <sup>1</sup> Das Gesetz regelt die Organisation und die Zuständigkeiten der Gerichte sowie das Verfahren vor Gericht.
 
-<sup>2</sup> Es ordnet die Geschäftsverteilung, die Stellvertretung der Präsidenten und die Gerichtsergänzung in Ausstands- und Verhinderungsfällen.
+<sup>2–4</sup> …
 
-<sup>3</sup> Das Obergericht hat die Aufsicht über die Geschäftsführung des Kantonsgerichtes, das Verwaltungsgericht über die der Rekurskommissionen.
-
-<sup>4</sup> Die Verwaltungskommission der Gerichte besteht aus den Präsidenten des Ober-, des Verwaltungs- und des Kantonsgerichtes. Sie wählt und beaufsichtigt nach Gesetz die Angestellten der Gerichte.
-
-### 5.3.2. Strafverfolgung
+### 5.3.2. Strafverfolgungsbehörden
 
 #### Art. 113
 
-**Staats- und Jugendanwaltschaft**
-
-<sup>1</sup> Der Staats- und Jugendanwaltschaft obliegt die Strafverfolgung gegen Erwachsene sowie Jugendliche.
+**…**
 
 #### Art. 114
 
-**Organisation und Aufsicht**
+**Organisation**
 
-<sup>1</sup> Das Gesetz regelt die Organisation und die Zuständigkeiten der Staats- und Jugendanwaltschaft sowie die Befugnis von Verwaltungsstellen und Gemeindebehörden, Bussen auszusprechen.
+<sup>1</sup> Das Gesetz regelt die Organisation und die Zuständigkeiten der Strafverfolgungsbehörden sowie die Aufsicht über diese.
 
-<sup>2</sup> Der Regierungsrat hat die Aufsicht über die Strafverfolgung, wobei konkrete Weisungen zu einzelnen Verfahren ausgeschlossen sind.
+<sup>2</sup> …
+
+<sup>2a</sup> Die Strafverfolgungsbehörden sind in der Rechtsanwendung unabhängig und alleine dem Recht verpflichtet.
 
 ## 6. Gemeinden, Zweckverbände und Korporationen
 
