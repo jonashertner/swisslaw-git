@@ -4,13 +4,13 @@ number: "411.0.11"
 title: Règlement de la loi sur la scolarité obligatoire
 short: RLS
 language: fr
-version: 2020-01-01
-valid_until: 2022-06-30
-version_adopted: 2019-09-24
+version: 2022-07-01
+valid_until: 2022-07-31
+version_adopted: 2022-07-04
 adopted: 2016-04-19
 in_force: 2016-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/411.0.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6114/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7514/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Scolarité obligatoire – R
 
 (RLS)
 
-du 19.04.2016 (version entrée en vigueur le 01.01.2020)
+du 19.04.2016 (version entrée en vigueur le 01.07.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -61,7 +61,7 @@ Arrête:
 
 <sup>1</sup> Lorsqu'un ou une élève change de domicile ou de résidence habituelle, ses parents en informent sans délai la commune du nouveau domicile ou de la nouvelle résidence habituelle.
 
-<sup>2</sup> Lorsque des parents souhaitent scolariser leur enfant dans une école privée ou lui dispenser un enseignement à domicile, ou lorsque des parents renoncent à un enseignement privé, ils en informent sans délai la commune de domicile ou de résidence habituelle de l'enfant. Ils présentent chaque année à la commune une attestation de l'école privée ou l'autorisation de la Direction de l'instruction publique, de la culture et du sport (ci-après: la Direction) en cas d'enseignement à domicile.
+<sup>2</sup> Lorsque des parents souhaitent scolariser leur enfant dans une école privée ou lui dispenser un enseignement à domicile, ou lorsque des parents renoncent à un enseignement privé, ils en informent sans délai la commune de domicile ou de résidence habituelle de l'enfant. Ils présentent chaque année à la commune une attestation de l'école privée ou l'autorisation de la Direction de la formation et des affaires culturelles (ci-après: la Direction) en cas d'enseignement à domicile.
 
 <sup>3</sup> Les communes informent les établissements concernés de l'arrivée ou du départ d'élèves.
 
@@ -1228,7 +1228,7 @@ Arrête:
 
 **Elèves admis au programme «sports-arts-formation» – Aménagement et allégement de l'horaire**
 
-<sup>1</sup> L'élève admis-e au programme «sports-arts-formation» selon la législation sur le sport peut être mis-e au bénéfice d'un aménagement et/ou d'un allégement de son horaire hebdomadaire.
+<sup>1</sup> L'élève admis-e au programme «sports-arts-formation» selon la législation sur le sport et les affaires culturelles est mis-e au bénéfice d'un aménagement et/ou d'un allégement de son horaire hebdomadaire. La direction d'établissement en informe le Service du sport.
 
 <sup>2</sup> Dans les limites fixées par le programme «sports-arts-formation», l'élève peut être mis-e au bénéfice d'une dispense, totale ou partielle, de cours particuliers pour une période donnée ou pour l'année scolaire. L'élève peut également être mis-e au bénéfice de congés pour la préparation et la participation à des événements sportifs ou artistiques d'importance.
 
@@ -1236,7 +1236,7 @@ Arrête:
 
 <sup>4</sup> Les parents s'engagent à ce que leur enfant respecte les règles mises en place par la direction d'établissement et à signaler toute situation pouvant provoquer des difficultés particulières.
 
-<sup>5</sup> En cas de résultats scolaires insuffisants ou de comportement insatisfaisant, la direction d'établissement en informe les parents. Si cette mise en garde ne porte aucun effet, la direction d'établissement peut supprimer, temporairement ou définitivement, les mesures après avoir entendu les personnes concernées.
+<sup>5</sup> En cas de résultats scolaires insuffisants ou de comportement insatisfaisant, la direction d'établissement en informe les parents. Si cette mise en garde ne porte aucun effet, la direction d'établissement peut supprimer, temporairement ou définitivement, les mesures après avoir entendu les personnes concernées. Elle en informe le Service du sport.
 
 <sup>6</sup> Les élèves participent, dans la mesure du possible, aux activités scolaires mentionnées à l'article 33.
 

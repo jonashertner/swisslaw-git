@@ -4,13 +4,13 @@ number: "411.0.11"
 title: Reglement zum Gesetz über die obligatorische Schule
 short: SchR
 language: de
-version: 2020-01-01
-valid_until: 2022-06-30
-version_adopted: 2019-09-24
+version: 2022-07-01
+valid_until: 2022-07-31
+version_adopted: 2022-07-04
 adopted: 2016-04-19
 in_force: 2016-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/411.0.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6114/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7514/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Obligatorische Schule – R
 
 (SchR)
 
-vom 19.04.2016 (Fassung in Kraft getreten am 01.01.2020)
+vom 19.04.2016 (Fassung in Kraft getreten am 01.07.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -61,7 +61,7 @@ beschliesst:
 
 <sup>1</sup> Wechselt eine Schülerin oder ein Schüler den Wohnsitz oder ständigen Aufenthaltsort, so benachrichtigen die Eltern unverzüglich die Gemeinde des neuen Wohnsitzes oder des neuen ständigen Aufenthaltsortes.
 
-<sup>2</sup> Wollen die Eltern ihr Kind in eine Privatschule einschulen oder es zuhause unterrichten oder aber einen privaten Unterricht beenden, so setzen sie unverzüglich die Gemeinde des Wohnsitzes oder des ständigen Aufenthaltsortes ihres Kindes davon in Kenntnis. Sie legen der Gemeinde jedes Jahr eine Bestätigung der Privatschule oder die Bewilligung der Direktion für Erziehung, Kultur und Sport (die Direktion) für den Unterricht zuhause vor.
+<sup>2</sup> Wollen die Eltern ihr Kind in eine Privatschule einschulen oder es zuhause unterrichten oder aber einen privaten Unterricht beenden, so setzen sie unverzüglich die Gemeinde des Wohnsitzes oder des ständigen Aufenthaltsortes ihres Kindes davon in Kenntnis. Sie legen der Gemeinde jedes Jahr eine Bestätigung der Privatschule oder die Bewilligung der Direktion für Bildung und kulturelle Angelegenheiten (die Direktion) für den Unterricht zuhause vor.
 
 <sup>3</sup> Die Gemeinden informieren die betreffenden Schulen über den Zu- oder Wegzug von Schülerinnen und Schülern.
 
@@ -1226,9 +1226,9 @@ beschliesst:
 
 #### Art. 93
 
-**Zum Förderprogramm «Sport-Kunst-Ausbildung» zugelassene Schülerinnen und Schüler Stundenplananpassungen und -erleichterungen**
+**Zum Förderprogramm «Sport-Kunst-Ausbildung» zugelassene Schülerinnen und Schüler – Stundenplananpassungen und -erleichterungen**
 
-<sup>1</sup> Der Schülerin oder dem Schüler, die oder der gemäss der Sportgesetzgebung ins Förderprogramm «Sport-Kunst-Ausbildung» aufgenommenen wird, kann eine Anpassung des wöchentlichen Stundenplans oder eine Dispensation gewährt werden.
+<sup>1</sup> Der Schülerin oder dem Schüler, die oder der gemäss der Gesetzgebung über den Sport und die kulturellen Angelegenheiten ins Förderprogramm «Sport-Kunst-Ausbildung» aufgenommenen wurde, wird eine Anpassung des wöchentlichen Stundenplans oder eine Dispensation gewährt. Die Schulleitung informiert das Amt für Sport.
 
 <sup>2</sup> Nach den Vorgaben des Förderprogramms «Sport-Kunst-Ausbildung» kann die Schülerin oder der Schüler vollständig oder teilweise von bestimmten Fächern, für eine befristete Dauer oder ein Schuljahr, dispensiert werden. Ebenso können ihr oder ihm Sonderurlaube für die Vorbereitung von wichtigen sportlichen oder kulturellen Anlässen und die Teilnahme daran bewilligt werden.
 
@@ -1236,7 +1236,7 @@ beschliesst:
 
 <sup>4</sup> Die Eltern verpflichten sich, dass ihr Kind die von der Schulleitung festgelegten Regeln einhält, und melden ihr alle Umstände, die zu Schwierigkeiten führen könnten.
 
-<sup>5</sup> Falls die Schülerin oder der Schüler ungenügende Schulleistungen erbringt oder ein unbefriedigendes Verhalten zeigt, informiert die Schulleitung die Eltern. Hat diese Ermahnung keinerlei Wirkung, so kann die Schulleitung, nach Anhörung der betroffenen Personen, die Massnahmen vorübergehend oder endgültig aufheben.
+<sup>5</sup> Falls die Schülerin oder der Schüler ungenügende Schulleistungen erbringt oder ein unbefriedigendes Verhalten zeigt, informiert die Schulleitung die Eltern. Hat diese Ermahnung keinerlei Wirkung, so kann die Schulleitung, nach Anhörung der betroffenen Personen, die Massnahmen vorübergehend oder endgültig aufheben. Sie informiert das Amt für Sport.
 
 <sup>6</sup> Die Schülerin oder der Schüler nimmt soweit als möglich an den schulischen Aktivitäten nach Artikel 33 teil.
 
