@@ -3,30 +3,29 @@ canton: BL
 number: "140.551"
 title: Benutzungsreglement Informatikmittel
 language: de
-version: 2017-07-01
-valid_until: 2022-06-30
-version_adopted: 2017-06-06
+version: 2022-07-01
+version_adopted: 2022-06-28
 adopted: 2014-12-16
 in_force: 2015-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/140.551"
-pdf: "https://bl.clex.ch/api/de/versions/1838/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3358/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Benutzungsreglement Informatikmittel
 
-Vom 16.12.2014 (Stand 01.07.2017)
+Vom 16.12.2014 (Stand 01.07.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 Absatz 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1], § 4 Absatz 1 des Gesetzes vom 6. Juni 1983[^ingress-2] über die Organisation des Regierungsrates und der kantonalen Verwaltung und § 8 Absatz 3 des Gesetzes vom 10. Februar 2011[^ingress-3] über die Information und den Datenschutz,
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1], das Gesetz über die Organisation des Regierungsrats und der Verwaltung des Kantons Basel-Landschaft vom 28. September 2017[^ingress-2] und das Gesetz über die Information und den Datenschutz vom 10. Februar 2011[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: GS 29.276, SGS [100](https://bl.clex.ch/data/100/de/art74)
-[^ingress-2]: GS 28.436, SGS [140](https://bl.clex.ch/data/140/de/art4)
-[^ingress-3]: GS 37.1165, SGS [162](https://bl.clex.ch/data/162/de/art8)
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 140](https://bl.clex.ch/data/140/de)
+[^ingress-3]: [SGS 162](https://bl.clex.ch/data/162/de)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -34,7 +33,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Reglement gilt für die Mitarbeitenden der kantonalen Verwaltung (exkl. Schulen), die Mitglieder des Regierungsrates, die Mitarbeitenden der Finanzkontrolle, der Aufsichtsstelle Datenschutz, des Ombudsman sowie der Gerichte des Kantons Basel-Landschaft (nachfolgend «Mitarbeitende»).
+<sup>1</sup> Dieses Reglement gilt für die Mitarbeitenden der kantonalen Verwaltung (exklusive Schulen), die Mitglieder des Regierungsrats, die Mitarbeitenden der Finanzkontrolle, der Aufsichtsstelle Datenschutz, der Ombudsperson sowie der Gerichte des Kantons Basel-Landschaft (nachfolgend «Mitarbeitende»).
 
 <sup>2</sup> Das Reglement ist von allen Mitarbeitenden, die Informatikmittel nutzen, zu unterschreiben. Die vorgesetzten Stellen regeln das Vorgehen zur Unterzeichnung.
 
@@ -78,7 +77,11 @@ beschliesst:
 - d. «Daten»: vom Kanton zur Erfüllung seiner Aufgaben bearbeitete oder dabei anfallende Informationen, unabhängig vom Datenträger (z. B. Festplatten, Memory Sticks, Notebooks);
 - e. «Cloud»: virtuelle Infrastruktur oder Dienstleistungen, die über ein Netzwerk angeboten werden (z.B. Datenspeicher, Rechenkapazität, Anwendungen);
 - f. «Social Media»: digitale Medien und Technologien, die einen Austausch von Kommunikation, Meinungen und medialen Inhalten einzeln oder in Gemeinschaft ermöglichen;
-- g. «Fernzugriff»: der Zugang zu den Netzwerken der kantonalen Verwaltung oder an diese angeschlossenen Systeme von ausserhalb der Räumlichkeiten der kantonalen Verwaltung (z.B. Telearbeitsplatz, Installation auf Drittgeräten).
+- g. «Fernzugriff»: der Zugang zu den Netzwerken der kantonalen Verwaltung oder an diese angeschlossenen Systeme von ausserhalb der Räumlichkeiten der kantonalen Verwaltung (z. B. Telearbeitsplatz/Homeoffice, mobiles Arbeiten, Drittgerät/Privatgerät);
+- h. «Mobilgerät»: Informatikmittel im mobilen Einsatz, die unterschieden werden in:
+  - 1\. Smartphones und Tablets (geschäftlich wie privat), welche von Mitarbeitenden geschäftlich genutzt werden; diese Geräte sind nicht in der BL-Domäne definiert;
+  - 2\. BL-Standardgeräte, welche in der BL-Domäne definiert sind und mobil genutzt werden können (z. B. Convertibles);
+- i «VDI» (Virtual Desktop Infrastructure): Technologie, die es erlaubt den Benutzer-Arbeitsplatz zentral auf einem Server zu betreiben; auf den Arbeitsplatz wird mittels einer speziellen Anwendung zugegriffen, die auf fast allen Endgeräten installiert und genutzt werden kann.
 
 ## 2 Nutzung der Informatikmittel
 
@@ -92,7 +95,11 @@ beschliesst:
 
 <sup>3</sup> Wenn eine Mitarbeitende bzw. ein Mitarbeitender ein Informatikmittel nicht unmittelbar in Gebrauch hat, ist der Zugang hierzu so zu sperren, dass dieser nur mit der persönlichen Zugangskennung entsperrt werden kann.
 
-<sup>4</sup> Die Mitarbeitenden haben sicherzustellen, dass ausgedruckte Dokumente mit besonderen Personendaten oder anderem schützenswertem Inhalt nicht von Unberechtigten eingesehen bzw. behändigt werden können.
+<sup>4</sup> Die Mitarbeitenden stellen sicher, dass bei der Nutzung von Informatikmitteln und beim Ausdrucken von Dokumenten besondere Personendaten und andere Informationen mit schützenswertem Inhalt nicht von Unberechtigten eingesehen oder behändigt werden können.
+
+<sup>5</sup> Das Ausdrucken von geschäftlichen Dokumenten und Daten mit nicht öffentlichem Inhalt ist ausserhalb des betrieblichen Umfelds/Telearbeit untersagt. Im betrieblichen Umfeld ist sicherzustellen, dass nicht öffentliche Daten nicht von unberechtigten Personen eingesehen werden können.
+
+<sup>6</sup> Nach Beendigung der Arbeit muss der Computer ganz heruntergefahren werden. Damit wird sichergestellt, dass technische und Sicherheits-Updates eingespielt und aktiviert werden.
 
 #### § 7
 
@@ -108,7 +115,11 @@ beschliesst:
 
 <sup>1</sup> Die Informatikmittel werden durch die zuständige Beschaffungsstelle nach den geltenden Richtlinien und Standards beschafft.
 
-<sup>2</sup> Die Installation und Verwendung von nicht vom Kanton zur Verfügung gestellter Hard- und/oder Software ist grundsätzlich untersagt. Ausnahmen bedürfen eines Beschlusses der Fachgruppe Informatik, des ITO-Rates oder des Regierungsrates.
+<sup>1<sup>bis</sup></sup> Sämtliche zur Verfügung gestellten Informatikmittel verbleiben im Eigentum des Kantons.
+
+<sup>1<sup>ter</sup></sup> Für Telearbeit wird kein Vor-Ort-Support geleistet. Es stehen die üblichen Werkzeuge und Prozesse zur Meldung von Störungen und Defekten zur Verfügung.
+
+<sup>2</sup> Die Installation von Software auf vom Kanton zur Verfügung gestellter Hardware (inklusive VDI) sowie die Installation und Verwendung von nicht vom Kanton zur Verfügung gestellter Hardware am betrieblichen Arbeitsort ist grundsätzlich untersagt. Ausnahmen bedürfen eines Beschlusses der Fachgruppe Informatik, des ITO-Rats oder des Regierungsrats
 
 <sup>3</sup> Mitarbeitende sind verpflichtet, bei einem Stellenwechsel oder bei einem Wegfall der Gründe, die zur Abgabe von Informatikmitteln geführt haben, diese unaufgefordert zurückzugeben.
 
@@ -118,13 +129,29 @@ beschliesst:
 
 **Fernzugriff**
 
-<sup>1</sup> Aus betrieblichen oder geschäftlichen Gründen kann die vorgesetzte Person auf Antrag hin eine Bewilligung für den Fernzugriff erteilen. Die Bewilligung von Telearbeit erfolgt gemäss Richtlinie des Personalamtes betreffend Telearbeit beim Kanton Basel-Landschaft.
+<sup>1</sup> Aus betrieblichen oder geschäftlichen Gründen kann die vorgesetzte Person auf Antrag hin eine Bewilligung für den Fernzugriff erteilen. Die Bewilligung von Telearbeit erfolgt gemäss Richtlinie des Personalamts betreffend Telearbeit
 
 <sup>2</sup> Wird Fernzugriff über ein Drittgerät bewilligt, ist die bzw. der Mitarbeitende für einen funktionierenden und aktuellen Malwareschutz auf diesem Gerät verantwortlich.
 
-<sup>3</sup> Für den Fernzugriff stellen die zentralen Informatikdienste sichere Zugänge zur Verfügung.
+<sup>3</sup> Für den Fernzugriff stellt die Zentrale Informatik sichere Zugänge zur Verfügung.
+
+<sup>3<sup>bis</sup></sup> Mitarbeitende, die über ein mobiles Arbeitsplatzgerät (z. B. Convertible) verfügen oder mit einem privaten Endgerät, mit installierter VDI-Client-Software, müssen per Fernzugriff auf das Kantonsnetzwerk und die damit verbundenen Systeme zugreifen. Die Geräte stellen automatisch eine verschlüsselte Verbindung zum Kantonsnetzwerk, über die von der ZI zur Verfügung gestellten Zugänge, her. Diese Verbindung darf nicht angepasst oder in irgendeiner Form verändert werden.
+
+<sup>3<sup>ter</sup></sup> Für die Telearbeit ist durch die Mitarbeitenden eine geeignete Internetverbindung zur Verfügung zu stellen.
 
 <sup>4</sup> Im Falle eines Fernzugriffs werden den Mitarbeitenden keine Installations- oder Betriebskosten vergütet (Strom, Telefon etc.).
+
+#### § 9a
+
+**Nutzung von Mobilgeräten**
+
+<sup>1</sup> Vertrauliche Telefonate dürfen nur ohne unbefugte Mithörer erfolgen. Intelligente Sprachassistenten (Alexa, Siri etc.) dürfen nicht in Hörweite sein.
+
+<sup>2</sup> Es dürfen keine Bildschirmfotos (Screenshots) von geschäftlichen Daten gemacht werden, wenn diese auf Smartphones/Tablets nicht im geschützten Speicher (BL-Addon) oder auf den Datenablagen der Zentralen Informatikdienste (Convertibles) abgelegt werden.
+
+<sup>3</sup> Benutzerinnen und Benutzer eines Mobilgeräts stellen sicher, dass von privaten Apps und Anwendungen nicht auf die geschäftlichen Kontaktdaten zugegriffen wird und diese nicht synchronisiert werden.
+
+<sup>4</sup> Mobilgeräte dürfen nicht von Dritten genutzt werden; dazu zählen auch Familienangehörige.
 
 #### § 10
 
@@ -133,6 +160,10 @@ beschliesst:
 <sup>1</sup> Die automatische Weiterleitung aus einem persönlichen kantonalen E-Mail-Account an interne oder externe E-Mail-Adressen ist nicht erlaubt.
 
 <sup>2</sup> Bei Abwesenheit wird in der automatischen Abwesenheitsmeldung des kantonalen E-Mail-Accounts eine alternative Ansprechstelle bezeichnet.
+
+<sup>3</sup> Für geschäftliche Tätigkeiten darf ausschliesslich das kantonale E-Mail-Konto genutzt werden.
+
+<sup>4</sup> Der Versand von Mails mit geschäftlichen Informationen an den eigenen privaten E-Mail-Account (z. B. zur Weiterbearbeitung) ist nicht zulässig.
 
 #### § 11
 
@@ -156,7 +187,7 @@ beschliesst:
 
 **E-Mail-Versand an alle Mitarbeitenden**
 
-<sup>1</sup> Jeder Massenversand an alle Mitarbeitenden der kantonalen Verwaltung bedarf der Bewilligung der für den Inhalt verantwortlichen Generalsekretärin bzw. des Generalsekretärs, der Landschreiberin bzw. des Landschreibers, der Leitungen der Finanzkontrolle und der Aufsichtsstelle Datenschutz, des Ombudsman oder der Gerichtsverwaltung.
+<sup>1</sup> Jeder Massenversand an alle Mitarbeitenden der kantonalen Verwaltung bedarf der Bewilligung der für den Inhalt verantwortlichen Generalsekretärin bzw. des Generalsekretärs, der Landschreiberin bzw. des Landschreibers, der Leitungen der Finanzkontrolle und der Aufsichtsstelle Datenschutz, der Ombudsperson oder der Gerichtsverwaltung.
 
 <sup>2</sup> Die Generalsekretären-Konferenz legt fest, wer die technische Berechtigung für einen solchen Versand erhält.
 
@@ -202,9 +233,9 @@ beschliesst:
 
 #### § 18
 
-**Datenablage und -speicherung**
+**Datentransport, -ablage und -speicherung**
 
-<sup>1</sup> Daten, die nicht öffentlich oder zur Veröffentlichung bestimmt sind, müssen auf den Datenablagen der Zentralen Informatikdienste gespeichert werden. Insbesondere ist es untersagt, solche Daten auf privaten Datenträgern oder im Internet zu speichern (z. B. auf einer Website, einer Social Media-Plattform oder mittels eines persönlich eröffneten Cloud-Accounts).
+<sup>1</sup> Daten, die nicht öffentlich oder zur Veröffentlichung bestimmt sind, müssen auf den Datenablagen der Zentralen Informatik gespeichert werden. Insbesondere ist es untersagt, solche Daten auf privaten Datenträgern (Festplatte im PC oder extern, auf Mobilgeräten oder anderen Massenspeichern, USB etc.) oder im Internet zu speichern (z. B. auf einer Website, einer Social Media-Plattform oder mittels eines persönlich eröffneten oder von Dritten zur Verfügung gestellten Cloud-Accounts wie Dropbox, iCloud etc.).
 
 <sup>2</sup> Ausnahmen bedürfen der Bewilligung durch den ITO-Rat auf der Basis einer Risikoanalyse.
 
@@ -216,7 +247,7 @@ beschliesst:
 
 **Datenzugriff bei unvorhersehbaren Abwesenheiten**
 
-<sup>1</sup> Kommt es zu einer unvorhersehbaren Abwesenheit einer bzw. eines Mitarbeitenden und muss in dieser Zeit auf dessen bzw. deren Geschäftsdaten zugegriffen werden, muss ein solcher Datenzugriff durch die Generalsekretärin bzw. den Generalsekretär, die Landschreiberin bzw. den Landschreiber, die Leitungen der Finanzkontrolle und der Aufsichtsstelle Datenschutz, den Ombudsman oder die Gerichtsverwaltung im Einzelfall bewilligt werden.
+<sup>1</sup> Kommt es zu einer unvorhersehbaren Abwesenheit einer bzw. eines Mitarbeitenden und muss in dieser Zeit auf dessen bzw. deren Geschäftsdaten zugegriffen werden, muss ein solcher Datenzugriff durch die Generalsekretärin bzw. den Generalsekretär, die Landschreiberin bzw. den Landschreiber, die Leitungen der Finanzkontrolle und der Aufsichtsstelle Datenschutz, die Ombudsperson oder die Gerichtsverwaltung im Einzelfall bewilligt werden.
 
 <sup>2</sup> Der Zugriff erfolgt durch die vorgesetzte Person sowie eine weitere Person nach dem 4-Augen-Prinzip.
 
@@ -230,7 +261,7 @@ beschliesst:
 
 **Technische Mängel und sicherheitsrelevante Vorkommnisse**
 
-<sup>1</sup> Feststellungen über technische Mängel und sicherheitsrelevante Vorkommnisse mit Bezug zu Informatikmitteln (z.B. unerklärliches Systemverhalten, Verlust oder Veränderung von Daten und Programmen, Verdacht auf Missbrauch der eigenen Benutzerkennung usw.) sind unverzüglich dem Service Desk zu melden.
+<sup>1</sup> Feststellungen über technische Mängel und sicherheitsrelevante Vorkommnisse mit Bezug zu Informatikmitteln (z. B. unerklärliches Systemverhalten, Verlust oder Veränderung von Daten und Programmen, Verdacht auf Missbrauch der eigenen Benutzerkennung usw.) sind unverzüglich dem Service Desk zu melden.
 
 <sup>2</sup> Könnte die Information des Service Desk zu einem Interessenkonflikt führen oder ist dieser nicht erreichbar, ist die bzw. der Vorgesetzte zu informieren.
 
@@ -238,9 +269,9 @@ beschliesst:
 
 **Verlust**
 
-<sup>1</sup> Bei Verlust eines Gerätes ist zwingend der Service Desk zu informieren und bei der zuständigen Polizeibehörde eine Diebstahl- oder Verlustanzeige zu erstatten.
+<sup>1</sup> Bei Verlust eines Geräts ist zwingend der Helpdesk zu informieren und bei der zuständigen Polizeibehörde eine Diebstahl- oder Verlustanzeige zu erstatten.
 
-<sup>2</sup> Die SIM-Card ist durch den Mitarbeitenden umgehend vom Mobildienstanbieter sperren zu lassen.
+<sup>2</sup> Die SIM-Card ist durch die Mitarbeitende bzw. den Mitarbeitenden umgehend vom Mobildienstanbieter sperren zu lassen.
 
 <sup>3</sup> Eine allfällige Schadensbeteiligung des bzw. der Mitarbeitenden richtet sich nach dem Gesetz vom 24. April 2008[^21-1] über die Haftung des Kantons und der Gemeinden.
 
@@ -260,7 +291,7 @@ beschliesst:
 
 **Kontrollen**
 
-<sup>1</sup> Die von der Generalsekretärin bzw. dem Generalsekretär, der Landschreiberin bzw. dem Landschreiber, der Leitungen der Finanzkontrolle und der Aufsichtsstelle Datenschutz, dem Ombudsman und der Gerichtsverwaltung bezeichneten Stellen prüfen periodisch eine summarische, anonyme Auswertung (ohne Rückschluss auf bestimmte Personen) der Benutzung der Systeme, der Anwendungen, der Netzwerke, des E-Mail-Verkehrs, des Fernzugriffs und des Internetzugangs sowie die auf den Servern abgelegten Datenbestände.
+<sup>1</sup> Die von der Generalsekretärin bzw. dem Generalsekretär, der Landschreiberin bzw. dem Landschreiber, der Leitungen der Finanzkontrolle und der Aufsichtsstelle Datenschutz, der Ombudsperson und der Gerichtsverwaltung bezeichneten Stellen prüfen periodisch eine summarische, anonyme Auswertung (ohne Rückschluss auf bestimmte Personen) der Benutzung der Systeme, der Anwendungen, der Netzwerke, des E-Mail-Verkehrs, des Fernzugriffs und des Internetzugangs sowie die auf den Servern abgelegten Datenbestände.
 
 <sup>2</sup> Ergibt sich aus der Überprüfung ein Verdacht auf Verstoss gegen dieses Reglement, so bleiben angemessene personenbezogene Prüfungen vorbehalten.
 
