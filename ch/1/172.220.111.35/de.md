@@ -4,11 +4,11 @@ title: Verordnung vom 20. Februar 2013 über die Pensionierung von Angehörigen 
 short: VPABP
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/154"
 language: de
-version: 2020-01-01
+version: 2022-07-01
 adopted: 2013-02-20
 in_force: 2013-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/154/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2013-154-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/154/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/154/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2013-154-20220701-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/154/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/154/20200101/de"
 
 (VPABP)
 
-vom 20. Februar 2013 (Stand am 1. Januar 2020)
+vom 20. Februar 2013 (Stand am 1. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -52,8 +52,8 @@ Diese Verordnung gilt für:
   folgende Angehörige des Berufsmilitärs:
 
   - 1\. Berufsoffizierinnen und Berufsoffiziere sowie Berufsunteroffizierinnen und Berufsunteroffiziere nach Artikel 2 Absatz 1 Buchstaben b, c und d und Absatz 2 der Verordnung des VBS vom 9. Dezember 2003[^2-2] über das militärische Personal (V Mil Pers),
-  - 2\. Angehörige des militärischen Flugdienstes nach Artikel 2 Absatz 2 Buchstaben a Ziffer 1, b Ziffer 1 sowie c und d der Verordnung vom 19. November 2003[^2-3] über den militärischen Flugdienst (MFV),
-  - 3\. Angehörige des militärischen Flugdienstes nach Artikel 2 Absatz 3 Buchstabe a Ziffer 1 MFV,
+  - 2\.[^2-3] Angehörige des militärischen Flugdienstes nach Artikel 2 Absatz 2 Buchstabe a Ziffer 1 und Buchstabe c Ziffern 1, 3 und 4 der Militärflugdienstverordnung vom 18. März 2022[^2-4] (MFV),
+  - 3\.[^2-5] Angehörige des militärischen Flugdienstes nach Artikel 2 Absatz 4 Buchstabe a Ziffer 1 MFV,
   - 4\. hauptamtliche höhere Stabsoffizierinnen und Stabsoffiziere mit Ausnahme des Oberauditors der Armee;
 
 - b.
@@ -65,15 +65,17 @@ Diese Verordnung gilt für:
   - 3\. Grenzwächterinnen und Grenzwächter mit abgeschlossener Grenzwachtgrundausbildung, die in einem Regionenkommando oder beim Kommando Grenzwachtkorps einen zeitlich nicht befristeten Einsatz leisten sowie Grenzwächterinnen und Grenzwächter nach Ziffer 2, die nach dem Einsatz im Regionenkommando oder beim Kommando Grenzwachtkorps nicht mehr auf den Grenzwachtposten zurückkehren,
   - 4\. Angestellte, die über keine Grenzwachtausbildung verfügen und bei den Regionenkommandos als Einsatzoffizierinnen und Einsatzoffiziere Dienst leisten;
 
-- c. die versetzungspflichtigen Angestellten des EDA nach Artikel 3 Buchstabe a der Verordnung des EDA vom 20. September 2002[^2-4] zur Bundespersonalverordnung, die an Einsatzorten mit sehr schwierigen Lebensbedingungen eingesetzt sind;
+- c. die versetzungspflichtigen Angestellten des EDA nach Artikel 3 Buchstabe a der Verordnung des EDA vom 20. September 2002[^2-6] zur Bundespersonalverordnung, die an Einsatzorten mit sehr schwierigen Lebensbedingungen eingesetzt sind;
 - d. das Testpilotenpersonal der armasuisse, dessen Einsätze im Flugdienst einen wesentlichen Teil der Aufgaben ausmachen.
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 10. April 2019, in Kraft seit 1. Mai 2019, Bst. a Ziff. 3 in Kraft seit 1. Jan. 2020 ([AS 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
 [^2-2]: [SR 172.220.111.310.2](https://fedlex.data.admin.ch/eli/cc/2024/751)
-[^2-3]: [SR 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
-[^2-4]: [SR 172.220.111.343.3](https://fedlex.data.admin.ch/eli/cc/2002/427)
+[^2-3]: Fassung gemäss Anhang 2 Ziff. 1 der Militärflugdienstverordnung vom 18. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^2-4]: [SR 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^2-5]: Fassung gemäss Anhang 2 Ziff. 1 der Militärflugdienstverordnung vom 18. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^2-6]: [SR 172.220.111.343.3](https://fedlex.data.admin.ch/eli/cc/2002/427)
 
-## 2. Abschnitt: Finanzierung des Altersrücktritts****
+## 2. Abschnitt: Finanzierung des Altersrücktritts
 
 [^sec2-1]
 
@@ -204,7 +206,7 @@ Folgende Angehörige des Berufsmilitärs erhalten 7 Kompensationstage pro Jahr:
 
 <sup>4</sup> Angehörige des Berufsmilitärs, die in die Lohnklasse 30 oder höher eingereiht sind, erhalten keine Kompensationstage.
 
-[^6a-1]: Fassung gemäss Ziff. I der V vom 10. April 2019, in Kraft seit 1. Mai 2019, Abs. 1 Bst. b in Kraft seit 1. Jan. 2020 ([AS 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
+[^6a-1]: Eingefügt durch Ziff. I der V vom 10. April 2019, in Kraft seit 1. Mai 2019, Abs. 1 Bst. b in Kraft seit 1. Jan. 2020 ([AS 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
 
 ## 3. Abschnitt: Schlussbestimmungen
 
@@ -237,7 +239,7 @@ Die Artikel 33–34*a,* 88*g*–88*j* und 116*c* BPV[^8-1] gelten weiterhin für
 
 <sup>3</sup> Die Angestellten nach den Absätzen 1 und 2, die nach dem bisherigen Recht pensioniert werden, erhalten keine zusätzlichen Beiträge des Arbeitgebers.
 
-[^8-1]: [AS 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379), [2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319), [2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785), [2010 2649](https://fedlex.data.admin.ch/eli/oc/2010/353)[5793](https://fedlex.data.admin.ch/eli/oc/2010/821)
+[^8-1]: [AS 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379); [2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319); [2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785); [2010 2649](https://fedlex.data.admin.ch/eli/oc/2010/353), [5793](https://fedlex.data.admin.ch/eli/oc/2010/821)
 [^8-2]: [SR 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
 
 #### Art. 8a
@@ -251,7 +253,7 @@ Die Artikel 33–34*a,* 88*g*–88*j* und 116*c* BPV[^8-1] gelten weiterhin für
 <sup>3</sup> Die Rückerstattungen werden durch das jeweils zuständige Departement vorgenommen; die Beträge werden dessen Personalkredit belastet.
 
 [^8a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4519](https://fedlex.data.admin.ch/eli/oc/2016/736)).
-[^8a-2]: [AS 2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785), [2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)
+[^8a-2]: [AS 2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785); [2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)
 [^8a-3]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
 #### Art. 9
@@ -325,7 +327,7 @@ Die Gutschrift berechnet sich als Produkt aus dem durchschnittlichen versicherte
 
 <sup>2</sup> Artikel 8 Absatz 2 tritt am 1. April 2013 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 9*a* Abs. 4 und 5)
 

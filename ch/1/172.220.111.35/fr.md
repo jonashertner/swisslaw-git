@@ -4,11 +4,11 @@ title: Ordonnance du 20 février 2013 sur la retraite des membres des catégorie
 short: ORCPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/154"
 language: fr
-version: 2020-01-01
+version: 2022-07-01
 adopted: 2013-02-20
 in_force: 2013-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/154/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-154-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/154/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/154/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2013-154-20220701-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/154/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/154/20200101/fr"
 
 (ORCPP)
 
-du 20 février 2013 (Etat le 1<sup>er</sup> janvier 2020)
+du 20 février 2013 (État le 1<sup>er</sup> juillet 2022)
 
 Le Conseil fédéral suisse,
 
@@ -52,8 +52,8 @@ La présente ordonnance s’applique:
   aux militaires de carrière suivants:
 
   - 1\. officiers de carrière et sous-officiers de carrière visés à l’art. 2, al. 1, let. b, c et d, et 2, de l’ordonnance du DDPS du 9 décembre 2003 sur le personnel militaire (O pers mil)[^2-2],
-  - 2\. membres du service de vol militaire visés à l’art. 2, al. 2, let. a, ch. 1, b, ch. 1, c et d, de l’ordonnance du 19 novembre 2003 sur le service de vol militaire (OSV)[^2-3],
-  - 3\. membres du service de vol militaire visés à l’art. 2, al. 3, let. a, ch. 1, OSV,
+  - 2\.[^2-3] membres du service de vol militaire visés à l’art. 2, al. 2, let. a, ch. 1, et c, ch. 1, 3 et 4, de l’ordonnance du 18 mars 2022 sur le service de vol militaire (OSV)[^2-4],
+  - 3\.[^2-5] membres du service de vol militaire visés à l’art. 2, al. 4, let. a, ch. 1, OSV,
   - 4\. officiers généraux à titre principal, à l’exception de l’auditeur en chef de l’armée;
 
 - b.
@@ -65,15 +65,17 @@ La présente ordonnance s’applique:
   - 3\. gardes-frontière qui, ayant achevé leur formation de base de gardes-frontière, effectuent un engagement de durée indéterminée au sein d’un commandement de région ou du commandement du Corps des gardes-frontière et gardes-frontière visés au ch. 2 qui, après leur engagement au sein d’un commandement de région ou du commandement du Corps des gardes-frontière, ne réintègrent pas leur fonction au niveau des postes de gardes-frontière,
   - 4\. employés n’ayant pas de formation de garde-frontière et effectuant un service d’officier d’engagement au sein d’un commandement de région;
 
-- c. aux employés du DFAE soumis à la discipline des transferts visés à l’art. 3, let. a, de l’ordonnance du DFAE du 20 septembre 2002 concernant l’ordonnance sur le personnel de la Confédération[^2-4], affectés dans des lieux où les conditions de vie sont très difficiles;
+- c. aux employés du DFAE soumis à la discipline des transferts visés à l’art. 3, let. a, de l’ordonnance du DFAE du 20 septembre 2002 concernant l’ordonnance sur le personnel de la Confédération[^2-6], affectés dans des lieux où les conditions de vie sont très difficiles;
 - d. aux pilotes d’essai d’armasuisse dont les engagements dans le service de vol représentent une part essentielle des tâches.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2019, en vigueur depuis le 1<sup>er</sup> mai 2019, sous réserve de la let. a ch. 3, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
 [^2-2]: [RS 172.220.111.310.2](https://fedlex.data.admin.ch/eli/cc/2024/751)
-[^2-3]: [RS 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
-[^2-4]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/eli/cc/2002/427)
+[^2-3]: Nouvelle teneur selon l’app. 2 ch. 1 de l’O du 18 mars 2022 sur le service de vol militaire, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^2-4]: [RS 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^2-5]: Nouvelle teneur selon l’app. 2 ch. 1 de l’O du 18 mars 2022 sur le service de vol militaire, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^2-6]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/eli/cc/2002/427)
 
-## Section 2 Financement de la retraite****
+## Section 2 Financement de la retraite
 
 [^sec2-1]
 
@@ -325,7 +327,7 @@ Le montant de la bonification correspond au produit de la multiplication du gain
 
 <sup>2</sup> L’art. 8, al. 2 entre en vigueur le 1<sup>er</sup> avril 2013.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 9*a*, al. 4 et 5)
 

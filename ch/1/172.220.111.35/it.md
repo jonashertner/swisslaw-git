@@ -4,11 +4,11 @@ title: Ordinanza del 20 febbraio 2013 concernente il pensionamento in particolar
 short: OPPCPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/154"
 language: it
-version: 2020-01-01
+version: 2022-07-01
 adopted: 2013-02-20
 in_force: 2013-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/154/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2013-154-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/154/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/154/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2013-154-20220701-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/154/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/154/20200101/it"
 
 (OPPCPers)
 
-del 20 febbraio 2013 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+del 20 febbraio 2013 (Stato 1° luglio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -52,8 +52,8 @@ La presente ordinanza si applica:
   ai seguenti militari di professione:
 
   - 1\. gli ufficiali di professione e i sottufficiali di professione ai sensi dell’articolo 2 capoverso 1 lettere b, c e d e capoverso 2 dell’ordinanza del DDPS del 9 dicembre 2003[^2-2] concernente il personale militare (OPers mil),
-  - 2\. i membri del servizio di volo militare ai sensi dell’articolo 2 capoverso 2 lettera a numero 1, lettera b numero 1 nonché lettere c e d dell’ordinanza del 19 novembre 2003[^2-3] sul servizio di volo militare,
-  - 3\. i membri del servizio di volo militare ai sensi dell’articolo 2 capoverso 3 lettera a numero 1 OSVM,
+  - 2\.[^2-3] i membri del servizio di volo militare ai sensi dell’articolo 2 capoverso 2 lettera a numero 1 e lettera c numeri 1, 3 e 4 dell’ordinanza del 18 marzo 2022[^2-4] sul servizio di volo militare (OSVM),
+  - 3\.[^2-5] i membri del servizio di volo militare secondo l’articolo 2 capoverso 4 lettera a numero 1 OSVM,
   - 4\. gli alti ufficiali superiori esercitanti la loro funzione a titolo principale, con l’eccezione dell’uditore in capo dell’esercito;
 
 - b.
@@ -65,15 +65,17 @@ La presente ordinanza si applica:
   - 3\. le guardie di confine che hanno assolto la formazione di base di guardia di confine e prestano servizio presso un comando regionale o presso il comando delle guardie di confine per un periodo di tempo illimitato nonché le guardie di confine ai sensi del numero 2 che dopo un servizio presso un comando regionale o presso il comando delle guardie di confine non ritornano più al posto guardie di confine,
   - 4\. gli impiegati che non dispongono di una formazione di guardia di confine e prestano servizio come ufficiale d’impiego presso i comandi regionali;
 
-- c. agli impiegati del DFAE soggetti all’obbligo del trasferimento ai sensi dell’articolo 3 lettera a dell’ordinanza del DFAE del 20 settembre 2002[^2-4] concernente l’ordinanza sul personale federale in servizio in luoghi d’impiego con condizioni di vita molto difficili;
+- c. agli impiegati del DFAE soggetti all’obbligo del trasferimento ai sensi dell’articolo 3 lettera a dell’ordinanza del DFAE del 20 settembre 2002[^2-6] concernente l’ordinanza sul personale federale in servizio in luoghi d’impiego con condizioni di vita molto difficili;
 - d. ai piloti collaudatori di armasuisse, le cui missioni nel servizio di volo costituiscono una parte essenziale dei compiti.
 
 [^2-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019, lett. a n. 3 in vigore dal 1° gen. 2020 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
 [^2-2]: [RS 172.220.111.310.2](https://fedlex.data.admin.ch/eli/cc/2024/751)
-[^2-3]: [RS 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
-[^2-4]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/eli/cc/2002/427)
+[^2-3]: Nuovo testo giusta l’all. 2 n. 1 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^2-4]: [RS 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^2-5]: Nuovo testo giusta l’all. 2 n. 1 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^2-6]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/eli/cc/2002/427)
 
-## Sezione 2: Finanziamento del pensionamento****
+## Sezione 2: Finanziamento del pensionamento
 
 [^sec2-1]
 
@@ -325,7 +327,7 @@ L’accredito è calcolato come prodotto del guadagno medio assicurato durante g
 
 <sup>2</sup> L’articolo 8 capoverso 2 entra in vigore il 1° aprile 2013.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 9*a* cpv. 4 e 5)
 
