@@ -3,20 +3,19 @@ canton: GL
 number: VIII B/6/1
 title: "Verordnung über die Öl-, Chemie- und Strahlenwehr"
 language: de
-version: 2019-04-01
-valid_until: 2022-06-30
-version_adopted: 2018-12-18
+version: 2022-07-01
+version_adopted: 2022-06-28
 adopted: 2001-10-09
 in_force: 2002-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-B.6.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2080/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2328/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Öl-, Chemie- und Strahlenwehr
 
-Vom 09.10.2001 (Stand 01.04.2019)
+Vom 09.10.2001 (Stand 01.07.2022)
 
 Der Regierungsrat,
 
@@ -48,7 +47,7 @@ beschliesst:
 
 <sup>1</sup> Die Organisation der kantonalen Öl-, Chemie- und Strahlenwehr obliegt dem Departement für Bau und Umwelt (Departement).
 
-<sup>2</sup> Das Departement unterbreitet dem Regierungsrat Vereinbarungen mit anderen Kantonen über die Zusammenarbeit in diesen Bereichen.
+<sup>2</sup> Das Departement unterbreitet dem Regierungsrat Vereinbarungen über die Zusammenarbeit im institutionellen Rahmen im Bereich der Öl-, Chemie- und Strahlenwehr.
 
 <sup>3</sup> Ausführende Stelle ist die Abteilung Umweltschutz und Energie (Abteilung).
 
@@ -70,9 +69,9 @@ beschliesst:
 
 **Organisation der kantonalen Öl-, Chemie- und Strahlenwehr**
 
-<sup>1</sup> Das Departement kann mit Dritten Vereinbarungen über eine Zusammenarbeit im Bereich der Strahlenwehr abschliessen.
+<sup>1</sup> Das Departement kann mit Dritten Vereinbarungen über eine Zusammenarbeit im operativen Bereich abschliessen.
 
-<sup>2</sup> Die Aufgaben der kantonalen Öl- und Chemiewehr werden von der Freiwilligen Feuerwehr der Gemeinde Glarus wahrgenommen. In administrativer und personeller Hinsicht bleiben für sie die Vorschriften des Brandschutzgesetzes[^5-1] anwendbar.
+<sup>2</sup> Die Aufgaben der kantonalen Öl- und Chemiewehr werden von der Feuerwehr der Gemeinde Glarus wahrgenommen. In administrativer und personeller Hinsicht bleiben für sie die Vorschriften des Brandschutzgesetzes[^5-1] anwendbar.
 
 [^5-1]: GS [V C/1/1](https://gesetze.gl.ch/data/V-C.1.1/de)
 
@@ -80,7 +79,7 @@ beschliesst:
 
 **Chemiefachberater**
 
-<sup>1</sup> Die Abteilung beauftragt Chemiefachberater mit der Unterstützung des Einsatzleiters der Schadenwehr. Für sie gilt ein Reglement des Regierungsrates über die Ausbildung und den Einsatz der Chemiefachberater.
+<sup>1</sup> Die Abteilung beauftragt Chemiefachberater mit der Unterstützung des Einsatzleiters der Schadenwehr. Das Departement regelt die Ausbildung, die Übungen und den Einsatz der Chemiefachberater in einem Reglement.
 
 #### Art. 7
 
@@ -114,13 +113,13 @@ beschliesst:
 
 **Ausrüstung**
 
-<sup>1</sup> Die Öl- und Chemiewehr wird vom Kanton ausgerüstet. Lagerung und Wartung des Materials erfolgen nach Absprache mit der Abteilung durch die Freiwillige Feuerwehr Glarus auf Kosten des Kantons.
+<sup>1</sup> Die Öl- und Chemiewehr wird vom Kanton ausgerüstet. Lagerung und Wartung des Materials erfolgen nach Absprache mit der Abteilung durch die Feuerwehr Glarus auf Kosten des Kantons.
 
 #### Art. 12
 
 **Übungen**
 
-<sup>1</sup> Innerhalb des jährlichen Übungsprogrammes der Freiwilligen Feuerwehr Glarus ist die Aus- und Weiterbildung der in der Öl- und Chemiewehr Eingeteilten durchzuführen.
+<sup>1</sup> Innerhalb des jährlichen Übungsprogramms der Feuerwehr Glarus ist die Aus- und Weiterbildung der in der Öl- und Chemiewehr Eingeteilten durchzuführen.
 
 <sup>2</sup> Die Übungen und Rottenfahrten sind gemäss einem vom Departement erlassenen Tarif zu entschädigen. Die Kosten werden vom Kanton getragen.
 
@@ -189,6 +188,7 @@ beschliesst:
 
 - 1\. Chemiewehr Glarus
 - 2\. Kantonsarzt/Abteilung Umweltschutz und Energie
-- 3\. Chemiefachberater
+- 3\. …
+- 4\. Bioberater im Rahmen der Zusammenarbeit der Ostschweizer Kantone
 
 SBE VIII/3 138
