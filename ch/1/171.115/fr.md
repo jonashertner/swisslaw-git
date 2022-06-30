@@ -4,11 +4,11 @@ title: "Ordonnance de l'Assemblée fédérale du 3 octobre 2003 portant applicat
 short: OLPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/512"
 language: fr
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/512/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-512-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/512/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2003-512-20220701-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20220101/fr"
 
 (Ordonnance sur l’administration du Parlement, OLPA)
 
-du 3 octobre 2003 (Etat le 1<sup>er</sup> janvier 2022)
+du 3 octobre 2003 (État le 1<sup>er</sup> juillet 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -55,7 +55,7 @@ arrête:
 
 Les enregistrements sonores effectués pour l’élaboration du Bulletin officiel sont archivés par les Archives fédérales.
 
-### Section 2 Procès-verbaux et autres documents des commissions****
+### Section 2 Procès-verbaux et autres documents des commissions
 
 [^chap1-sec2-1]
 
@@ -305,7 +305,7 @@ Le Contrôle parlementaire de l’administration (CPA) exerce les tâches suivan
 
 [^11-1]: [[RO 1991 210](https://fedlex.data.admin.ch/eli/oc/1991/210_210_210). [RO 2007 7011](https://fedlex.data.admin.ch/eli/oc/2007/907)art. 16].
 
-### Section 5 Enregistrement et diffusion des débats****
+### Section 5 Enregistrement et diffusion des débats
 
 [^chap1-sec5-1]
 
@@ -343,15 +343,15 @@ Toute personne désireuse d’enregistrer elle-même les débats des conseils es
 
 <sup>1</sup>
 
-Les Services du Parlement publient un recueil des notices biographiques des membres de l’Assemblée et du Conseil fédéral. Chaque notice comporte en particulier les données suivantes:
+Les Services du Parlement publient un recueil des notices biographiques des membres de l’Assemblée fédérale et du Conseil fédéral. Chaque notice comporte en particulier les données suivantes:[^16-1]
 
 - a. le nom et le prénom;
 - b. la date et le lieu de naissance;
-- c. le lieu d’origine et le lieu de résidence;
+- c.[^16-2] le lieu d’origine et le lieu de résidence, de même que les autres nationalités;
 - d. la formation, les titres et l’activité professionnelle;
 - e. les mandats exercés, notamment politiques;
 - f. les sièges occupés au sein des commissions;
-- g. une adresse postale;
+- g.[^16-3] une adresse postale ou électronique;
 - h. le grade militaire;
 - i. une photographie.
 
@@ -360,13 +360,18 @@ Les Services du Parlement publient un recueil des notices biographiques des memb
 Les données suivantes ne peuvent être publiées qu’avec l’accord écrit de la personne concernée:
 
 - a. son adresse privée et sa case postale;
-- b. son adresse électronique;
+- b.[^16-4] ...
 - c. son état civil;
 - d. le nombre d’enfants.
 
 <sup>3</sup> Les publications des Services du Parlement, notamment les notices biographiques, peuvent également être publiées sur Internet.
 
-### Section 7**** Droit de disposer des locaux
+[^16-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 17 déc. 2021 (Nationalités des membres de l’Assemblée fédérale et du Conseil fédéral), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 140](https://fedlex.data.admin.ch/eli/oc/2022/140); [FF 2020 9105](https://fedlex.data.admin.ch/eli/fga/2020/2560)).
+[^16-2]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 17 déc. 2021 (Nationalités des membres de l’Assemblée fédérale et du Conseil fédéral), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 140](https://fedlex.data.admin.ch/eli/oc/2022/140); [FF 2020 9105](https://fedlex.data.admin.ch/eli/fga/2020/2560)).
+[^16-3]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 17 déc. 2021 (Nationalités des membres de l’Assemblée fédérale et du Conseil fédéral), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 140](https://fedlex.data.admin.ch/eli/oc/2022/140); [FF 2020 9105](https://fedlex.data.admin.ch/eli/fga/2020/2560)).
+[^16-4]: Abrogée par le ch. I de l’O de l’Ass. féd. du 17 déc. 2021 (Nationalités des membres de l’Assemblée fédérale et du Conseil fédéral), avec effet au 1<sup>er</sup> juil. 2022 ([RO 2022 140](https://fedlex.data.admin.ch/eli/oc/2022/140); [FF 2020 9105](https://fedlex.data.admin.ch/eli/fga/2020/2560)).
+
+### Section 7 Droit de disposer des locaux
 
 [^chap1-sec7-1]
 
@@ -426,7 +431,7 @@ Le service chargé de la sécurité conserve les données visées aux al. 1 et 3
 
 <sup>7</sup> Pour ce qui est du personnel des Services du Parlement, le secrétaire général de l’Assemblée fédérale peut étendre l’usage de la carte d’accès de longue durée à d’autres fins, notamment l’enregistrement des heures de présence.
 
-### Section 8**** Traitement des données personnelles liées à l’utilisation de l’infrastructure électronique
+### Section 8 Traitement des données personnelles liées à l’utilisation de l’infrastructure électronique
 
 [^chap1-sec8-1]
 
@@ -466,7 +471,7 @@ Si la personne concernée ne donne pas son approbation, l’autorisation doit ê
 
 <sup>5</sup> Les Services du Parlement transmettent le résultat de l’analyse au délégué à la sécurité de l’Assemblée fédérale. Ce dernier en informe la personne concernée et soit la Délégation administrative soit le président du groupe concerné.
 
-### Section 9**** Systèmes d’information et analyses
+### Section 9 Systèmes d’information et analyses
 
 [^chap1-sec9-1]
 
@@ -758,7 +763,7 @@ L’ordonnance de l’Assemblée fédérale du 7 octobre 1988 sur les Services d
 
 La présente ordonnance entre en vigueur en même temps que la loi sur le Parlement, à l’exception de l’art. 23, al. 2. La conférence de coordination fixe la date de l’entrée en vigueur de l’art. 23, al. 2.
 
-## Disposition transitoire de la modification du 22 juin 2007****
+## Disposition transitoire de la modification du 22 juin 2007
 
 [^u1-1]
 

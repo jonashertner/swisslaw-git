@@ -4,11 +4,11 @@ title: "Verordnung der Bundesversammlung vom 3. Oktober 2003 zum Parlamentsgeset
 short: ParlVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/512"
 language: de
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/512/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2003-512-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/512/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2003-512-20220701-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20220101/de"
 
 (Parlamentsverwaltungsverordnung, ParlVV)
 
-vom 3. Oktober 2003 (Stand am 1. Januar 2022)
+vom 3. Oktober 2003 (Stand am 1. Juli 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -301,7 +301,7 @@ Die Parlamentarische Verwaltungskontrolle (PVK) erfüllt im Auftrag der Geschäf
 
 [^11-1]: [[AS 1991 210](https://fedlex.data.admin.ch/eli/oc/1991/210_210_210). [AS 2007 7011](https://fedlex.data.admin.ch/eli/oc/2007/907)Art. 16].
 
-### 5. Abschnitt: Aufzeichnung und Verbreitung der Ratsdebatten****
+### 5. Abschnitt: Aufzeichnung und Verbreitung der Ratsdebatten
 
 [^chap1-sec5-1]
 
@@ -343,11 +343,11 @@ Die Parlamentsdienste erstellen Kurzbiografien der Mitglieder der Bundesversamml
 
 - a. Namen und Vornamen;
 - b. Geburtsdatum und Geburtsort;
-- c. Bürgerort und Wohnort;
+- c.[^16-1] Bürgerort und Wohnort sowie weitere Staatsangehörigkeiten;
 - d. Ausbildung, Titel und gegenwärtige Tätigkeit;
 - e. Politische Ämter und andere Mandate;
 - f. Kommissionstätigkeiten;
-- g. dienstliche Postadresse;
+- g.[^16-2] dienstliche Postadresse oder E-Mail-Adresse;
 - h. militärischer Grad;
 - i. Fotografie.
 
@@ -356,13 +356,17 @@ Die Parlamentsdienste erstellen Kurzbiografien der Mitglieder der Bundesversamml
 Folgende Daten dürfen nur mit schriftlicher Zustimmung der betroffenen Person veröffentlicht werden:
 
 - a. private Wohn- und Postadresse;
-- b. E-Mail-Adresse;
+- b.[^16-3] …
 - c. Zivilstand;
 - d. Anzahl Kinder.
 
 <sup>3</sup> Die Kurzbiografien werden in einem Handbuch veröffentlicht; sie können namentlich auch im Internet veröffentlicht werden.
 
-### 7. Abschnitt:**** Hausrecht
+[^16-1]: Fassung gemäss Ziff. I der V der BVers vom 17. Dez. 2021 (Staatsangehörigkeiten von Mitgliedern der Bundesversammlung und des Bundesrates), in Kraft seit 1. Juli 2022 ([AS 2022 140](https://fedlex.data.admin.ch/eli/oc/2022/140); [BBl 2020 9419](https://fedlex.data.admin.ch/eli/fga/2020/2560)).
+[^16-2]: Fassung gemäss Ziff. I der V der BVers vom 17. Dez. 2021 (Staatsangehörigkeiten von Mitgliedern der Bundesversammlung und des Bundesrates), in Kraft seit 1. Juli 2022 ([AS 2022 140](https://fedlex.data.admin.ch/eli/oc/2022/140); [BBl 2020 9419](https://fedlex.data.admin.ch/eli/fga/2020/2560)).
+[^16-3]: Aufgehoben durch Ziff. I der V der BVers vom 17. Dez. 2021 (Staatsangehörigkeiten von Mitgliedern der Bundesversammlung und des Bundesrates), mit Wirkung seit 1. Juli 2022 ([AS 2022 140](https://fedlex.data.admin.ch/eli/oc/2022/140); [BBl 2020 9419](https://fedlex.data.admin.ch/eli/fga/2020/2560)).
+
+### 7. Abschnitt: Hausrecht
 
 [^chap1-sec7-1]
 
@@ -422,7 +426,7 @@ Die Daten nach den Absätzen 1 und 3 werden vom für die Sicherheit zuständigen
 
 <sup>7</sup> Die Generalsekretärin oder der Generalsekretär der Bundesversammlung kann für das Personal der Parlamentsdienste eine anderweitige Nutzung des Dauerausweises gestatten, insbesondere für die Erfassung der Arbeitszeit.
 
-### 8. Abschnitt:**** Bearbeitung von Personendaten, die bei der Nutzung der elektronischen Infrastruktur anfallen
+### 8. Abschnitt: Bearbeitung von Personendaten, die bei der Nutzung der elektronischen Infrastruktur anfallen
 
 [^chap1-sec8-1]
 
@@ -462,7 +466,7 @@ Stimmt die betroffene Person nicht zu, so muss die Auswertung bewilligen:
 
 <sup>5</sup> Die Parlamentsdienste übergeben das Ergebnis der Auswertung der oder dem Sicherheitsbeauftragten der Bundesversammlung. Diese oder dieser informiert die betroffene Person und entweder die Verwaltungsdelegation oder die Fraktionspräsidentin oder den Fraktionspräsidenten.
 
-### 9. Abschnitt:**** Informationssysteme und Auswertungen
+### 9. Abschnitt: Informationssysteme und Auswertungen
 
 [^chap1-sec9-1]
 
@@ -754,7 +758,7 @@ Die Verordnung der Bundesversammlung vom 7. Oktober 1988[^37-1] über die Parlam
 
 Diese Verordnung der Bundesversammlung tritt mit Ausnahme von Artikel 23 Absatz 2 am 1. Dezember 2003 in Kraft. Die Koordinationskonferenz bestimmt das Inkrafttreten von Artikel 23 Absatz 2.
 
-## Übergangsbestimmung zur Änderung vom 22. Juni 2007****
+## Übergangsbestimmung zur Änderung vom 22. Juni 2007
 
 [^u1-1]
 

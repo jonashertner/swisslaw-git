@@ -4,11 +4,11 @@ title: "Ordinanza dell'Assemblea federale del 3 ottobre 2003 relativa alla legge
 short: Oparl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/512"
 language: it
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/512/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2003-512-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/512/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2003-512-20220701-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20220101/it"
 
 (Ordinanza sull’amministrazione parlamentare, Oparl)
 
-del 3 ottobre 2003 (Stato 1° gennaio 2022)
+del 3 ottobre 2003 (Stato 1° luglio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -55,7 +55,7 @@ decreta:
 
 Le registrazioni sonore effettuate per la compilazione del Bollettino ufficiale sono versate all’Archivio federale.
 
-### Sezione 2: Verbali e altri documenti delle commissioni****
+### Sezione 2: Verbali e altri documenti delle commissioni
 
 [^chap1-sec2-1]
 
@@ -301,7 +301,7 @@ L’Organo parlamentare di controllo dell’amministrazione (OPCA), su mandato d
 
 [^11-1]: **[**[RU 1991 210](https://fedlex.data.admin.ch/eli/oc/1991/210_210_210). [RU 2007 7011](https://fedlex.data.admin.ch/eli/oc/2007/907)art. 16]
 
-### Sezione 5: Radiotelevisione e diffusione dei dibattiti parlamentari****
+### Sezione 5: Radiotelevisione e diffusione dei dibattiti parlamentari
 
 [^chap1-sec5-1]
 
@@ -343,11 +343,11 @@ I servizi del Parlamento allestiscono brevi biografie dei membri dell’Assemble
 
 - a. cognomi e nomi;
 - b. data e luogo di nascita;
-- c. luogo d’origine e luogo di domicilio;
+- c.[^16-1] luogo d’origine e luogo di domicilio, nonché eventuali altre cittadinanze;
 - d. formazione, titoli e attività professionale;
 - e. cariche politiche e altri mandati;
 - f. attività nelle commissioni;
-- g. indirizzo per gli invii di servizio;
+- g.[^16-2] indirizzo per gli invii di servizio o indirizzo di posta elettronica;
 - h. grado militare;
 - i. fotografia.
 
@@ -356,13 +356,17 @@ I servizi del Parlamento allestiscono brevi biografie dei membri dell’Assemble
 I dati seguenti possono essere pubblicati soltanto con il consenso scritto dell’interessato:
 
 - a. indirizzo privato (abitazione e recapito postale);
-- b. indirizzo di posta elettronica;
+- b.[^16-3] ...
 - c. stato civile;
 - d. numero dei figli.
 
 <sup>3</sup> Le biografie sono pubblicate in un manuale; possono essere diffuse anche via Internet.
 
-### Sezione 7:**** Diritto di polizia
+[^16-1]: Nuovo testo giusta il n. I dell’O dell’AF del 17 dic. 2021 (Cittadinanze dei membri dell’Assemblea federale e del Consiglio federale), in vigore dal 1° lug. 2022 ([RU 2022 140](https://fedlex.data.admin.ch/eli/oc/2022/140); [FF 2020 8249](https://fedlex.data.admin.ch/eli/fga/2020/2560)).
+[^16-2]: Nuovo testo giusta il n. I dell’O dell’AF del 17 dic. 2021 (Cittadinanze dei membri dell’Assemblea federale e del Consiglio federale), in vigore dal 1° lug. 2022 ([RU 2022 140](https://fedlex.data.admin.ch/eli/oc/2022/140); [FF 2020 8249](https://fedlex.data.admin.ch/eli/fga/2020/2560)).
+[^16-3]: Abrogata dal n. I dell’O dell’AF del 17 dic. 2021 (Cittadinanze dei membri dell’Assemblea federale e del Consiglio federale), con effetto dal 1° lug. 2022 ([RU 2022 140](https://fedlex.data.admin.ch/eli/oc/2022/140); [FF 2020 8249](https://fedlex.data.admin.ch/eli/fga/2020/2560)).
+
+### Sezione 7: Diritto di polizia
 
 [^chap1-sec7-1]
 
@@ -422,7 +426,7 @@ I dati di cui ai capoversi 1 e 3 sono conservati dal servizio incaricato della s
 
 <sup>7</sup> Il segretario generale dell’Assemblea federale può permettere che la tessera di accesso del personale dei Servizi del Parlamento sia impiegata per altri scopi, in particolare per la registrazione delle ore lavorative.
 
-### Sezione 8:**** Trattamento di dati personali derivanti dall’utilizzazione dell’infrastruttura elettronica
+### Sezione 8: Trattamento di dati personali derivanti dall’utilizzazione dell’infrastruttura elettronica
 
 [^chap1-sec8-1]
 
@@ -462,7 +466,7 @@ Se non vi è il consenso della persona interessata, l’analisi deve essere auto
 
 <sup>5</sup> I Servizi del Parlamento trasmettono il risultato dell’analisi all’incaricato della sicurezza dell’Assemblea federale. Quest’ultimo ne informa la persona interessata e la Delegazione amministrativa o il presidente del gruppo parlamentare interessato.
 
-### Sezione 9:**** Sistemi d’informazione e valutazioni
+### Sezione 9: Sistemi d’informazione e valutazioni
 
 [^chap1-sec9-1]
 
@@ -757,10 +761,10 @@ L’ordinanza dell’Assemblea federale del 7 ottobre 1988[^37-1] sui Servizi de
 
 Eccettuato l’articolo 23 capoverso 2, la presente ordinanza entra in vigore il 1° dicembre 2003. La Conferenza di coordinamento determina l’entrata in vigore dell’articolo 23 capoverso 2.
 
-## Disposizione transitoria della modifica del 22 giugno 2007****
+## Disposizione transitoria della modifica del 22 giugno 2007
 
 [^u1-1]
 
 [^u1-1]: [RU 2007 3475](https://fedlex.data.admin.ch/eli/oc/2007/430); [FF 2007 3917](https://fedlex.data.admin.ch/eli/fga/2007/612)
 
-Gli attuali segretari generali aggiunti conservano tale titolo sino alla risoluzione del rapporto di lavoro.
+Gli attuali segretari generali aggiunti conservano tale titolo sino alla risoluzione del rapporto di lavoro..
