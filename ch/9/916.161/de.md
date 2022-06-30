@@ -4,11 +4,11 @@ title: "Verordnung vom 12. Mai 2010 über das Inverkehrbringen von Pflanzenschut
 short: PSMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: de
-version: 2022-05-01
+version: 2022-07-01
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2010-340-20220501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20220501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2010-340-20220701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20220501/de"
 
 (Pflanzenschutzmittelverordnung, PSMV)
 
-vom 12. Mai 2010 (Stand am 1. Mai 2022)
+vom 12. Mai 2010 (Stand am 1. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -1962,6 +1962,17 @@ Pflanzenschutzmittel, die Wirkstoffe enthalten, die mit der Änderung vom 30. No
 
 [^86g-1]: Eingefügt durch Ziff. I der V des WBF vom 30. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 795](https://fedlex.data.admin.ch/eli/oc/2021/795)).
 
+#### Art. 86h
+
+**Übergangsbestimmung zur Änderung vom 31. Mai 2022**[^86h-1]
+
+Pflanzenschutzmittel, die den Wirkstoff Indoxacarb enthalten, dürfen:
+
+- a. bis zum 1. Oktober 2022 in Verkehr gebracht werden;
+- b. bis zum 1. April 2023 verwendet werden.
+
+[^86h-1]: Eingefügt durch Ziff. I der V des EDI vom 31. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 338](https://fedlex.data.admin.ch/eli/oc/2022/338)).
+
 ### 3. Abschnitt: Inkrafttreten
 
 #### Art. 87
@@ -1974,7 +1985,7 @@ Anhang 1*[^t-1]*
 
 ## Für die Verwendung in Pflanzenschutzmitteln genehmigte Wirkstoffe
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Juni 2011 ([AS 2011 2927](https://fedlex.data.admin.ch/eli/oc/2011/381)), Ziff. II Abs. 1 der V vom 23. Juni 2012 ([AS 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), Ziff. I der V des WBF vom 11. Dez. 2012 ([AS 2013 249](https://fedlex.data.admin.ch/eli/oc/2013/34)), vom 12. Nov. 2014 ([AS 2014 4215](https://fedlex.data.admin.ch/eli/oc/2014/703)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)), der V des WBF vom 28. Okt. 2015 ([AS 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)), Ziff. I Abs. 1 der V des WBF vom 16. Sept. 2016 ([AS 2016 3345](https://fedlex.data.admin.ch/eli/oc/2016/568)), Ziff. I der V des WBF vom 9. Juni 2017 ([AS 2017 3501](https://fedlex.data.admin.ch/eli/oc/2017/381)), vom 28. Mai 2018 ([AS 2018 2377](https://fedlex.data.admin.ch/eli/oc/2018/341)), vom 31. Okt. 2018 ([AS 2018 4421](https://fedlex.data.admin.ch/eli/oc/2018/705)), vom 25. Juni 2019 ([AS 2019 2091](https://fedlex.data.admin.ch/eli/oc/2019/383)), vom 12. Nov. 2019 ([AS 2019 4263](https://fedlex.data.admin.ch/eli/oc/2019/734)), vom 2. Juni 2020 ([AS 2020 2165](https://fedlex.data.admin.ch/eli/oc/2020/427)), Ziff. II der V des WBF vom 17. Mai 2021 ([AS 2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321)) und vom 30. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 795](https://fedlex.data.admin.ch/eli/oc/2021/795)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Juni 2011 ([AS 2011 2927](https://fedlex.data.admin.ch/eli/oc/2011/381)), Ziff. II Abs. 1 der V vom 23. Juni 2012 ([AS 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), Ziff. I der V des WBF vom 11. Dez. 2012 ([AS 2013 249](https://fedlex.data.admin.ch/eli/oc/2013/34)), vom 12. Nov. 2014 ([AS 2014 4215](https://fedlex.data.admin.ch/eli/oc/2014/703)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)), der V des WBF vom 28. Okt. 2015 ([AS 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)), Ziff. I Abs. 1 der V des WBF vom 16. Sept. 2016 ([AS 2016 3345](https://fedlex.data.admin.ch/eli/oc/2016/568)), Ziff. I der V des WBF vom 9. Juni 2017 ([AS 2017 3501](https://fedlex.data.admin.ch/eli/oc/2017/381)), vom 28. Mai 2018 ([AS 2018 2377](https://fedlex.data.admin.ch/eli/oc/2018/341)), vom 31. Okt. 2018 ([AS 2018 4421](https://fedlex.data.admin.ch/eli/oc/2018/705)), vom 25. Juni 2019 ([AS 2019 2091](https://fedlex.data.admin.ch/eli/oc/2019/383)), vom 12. Nov. 2019 ([AS 2019 4263](https://fedlex.data.admin.ch/eli/oc/2019/734)), vom 2. Juni 2020 ([AS 2020 2165](https://fedlex.data.admin.ch/eli/oc/2020/427)), Ziff. II der V des WBF vom 17. Mai 2021 ([AS 2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321)), vom 30. Nov. 2021 ([AS 2021 795](https://fedlex.data.admin.ch/eli/oc/2021/795)) und Ziff. II der V des EDI vom 31. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 338](https://fedlex.data.admin.ch/eli/oc/2022/338)).
 
 ### Teil A: Chemische Stoffe
 
@@ -2064,6 +2075,8 @@ Anhang 1*[^t-1]*
 <tr><td>Dodemorph</td><td>4-cyclododecyl-2,6-dimethylmorpholine</td><td>1593-77-7</td><td>300</td><td>Fungizid</td></tr>
 <tr><td>Dodine</td><td>1-dodecylguanidinium acetate</td><td>2439-10-3</td><td>101</td><td>Fungizid</td></tr>
 <tr><td>E2Z13-18 Ac</td><td>E,Z-2,13 Octadecadien-1-yl acetate</td><td>086252-74-6</td><td>–</td><td>Pheromon</td></tr>
+<tr><td>E3Z8-14Ac</td><td>(E,Z)-3,8-Tetradecadien-1-yl-acetate</td><td>163041-87-0</td><td>–</td><td>Pheromon</td></tr>
+<tr><td>E3Z8Z11-14Ac</td><td>(E,Z,Z)-3,8,11-Tetradecatrien-1-yl-acetate</td><td>163041-94-9</td><td>–</td><td>Pheromon</td></tr>
 <tr><td>E3Z13-18 Ac</td><td>E,Z-3,13 Octadecadien-1-yl acetate</td><td>053120-26-6</td><td>–</td><td>Pheromon</td></tr>
 <tr><td>E7Z9-12 Ac</td><td>(7E, 9Z)-dodeca-7,9-dien-1-yl acetate</td><td>55774-32-8</td><td>–</td><td>Pheromon</td></tr>
 <tr><td>E8-12 Ac</td><td>(E)-dodec-8-en-1-yl acetate</td><td>38363-29-0</td><td>–</td><td>Pheromon</td></tr>
@@ -2077,6 +2090,7 @@ Anhang 1*[^t-1]*
 <tr><td>Ethylen</td><td>Ethylen</td><td>74-85-1</td><td>839</td><td>Phytoregulator</td></tr>
 <tr><td>Etofenprox</td><td>2-(4-ethoxyphenyl)-2-methylpropyl 3-phenoxybenzyl ether</td><td>80844-07-1</td><td>471</td><td>Insektizid</td></tr>
 <tr><td>Etoxazole</td><td>(*RS*)-5-*tert*-butyl-2-[2-(2,6-difluorophenyl)- 4,5-dihydro-1,3-oxazol-4-yl]phenetole</td><td>153233-91-1</td><td>623</td><td>Akarizid</td></tr>
+<tr><td>Eugenol</td><td>4-Allyl-2-methoxyphenol</td><td>97-53-0</td><td>967</td><td>Fungizid</td></tr>
 <tr><td>Eukalyptusöl</td><td>-</td><td>-</td><td>–</td><td>Insektizid</td></tr>
 <tr><td>Fenazaquin</td><td>4-tert-butylphenethyl quinazolin-4-yl ether</td><td>120928-09-8</td><td>693</td><td>Acarizide</td></tr>
 <tr><td>Fenhexamid</td><td>1-Methyl-cyclohexanecarboxyloic acid 2,3-dichloro- 4-hydroxy-phenyl)-amide</td><td>126833-17-8</td><td>603</td><td>Fungizid</td></tr>
@@ -2111,6 +2125,7 @@ Anhang 1*[^t-1]*
 <tr><td>Foramsulfuron</td><td>1-(4, 6-dimethoxypyrimidin-2yl)-3-(2-dimethylcarbamoyl-5-formamidophenylsulfonyl)urea</td><td>173159-57-4</td><td>659</td><td>Herbizid</td></tr>
 <tr><td>Fosetyl</td><td>ethyl hydrogen phosphonate *Variante*: Aluminiumfosetyl (Fosetyl-Al) Aluminium-tris-(O-ethylphosphonat)</td><td>15845-66-6 39148-24-8</td><td>384 384.013</td><td>Fungizid</td></tr>
 <tr><td>Gelbsenfmehl</td><td></td><td></td><td>–</td><td>Fungizid</td></tr>
+<tr><td>Geraniol</td><td>(E)-3,7-Dimethyl-2,6-octadien-1-ol</td><td>106-24-1</td><td>968</td><td>Fungizid</td></tr>
 <tr><td>Gibberellin</td><td>GA<sub>4</sub>: (3S,3aR,4S,4aR,7R,9aR,9bR,12S)-12-hydroxy-3-methyl-6-methylene-2-oxoperhydro-4a,7-methano-3,9b-propanoazuleno[1,2-b]furan-4-carboxylic acid GA<sub>7</sub>: (3S,3aR,4S,4aR,7R,9aR,9bR,12S)-12-hydroxy-3-methyl-6-methylene-2-oxoperhydro-4a,7-methano-9b,3-propenoazuleno[1,2-b]furan-4-carboxylic acid</td><td>GA<sub>4</sub>: 468-44-0 GA<sub>7</sub>: 510-75-8 GA<sub>4</sub>A<sub>7</sub> mixture: 8030-53-3</td><td>904</td><td>Phytoregulator</td></tr>
 <tr><td>Gibberellinsäure</td><td>(3S,3aS,4S,4aS,7S,9aR,9bR,12S)-7,12-dihydroxy-3-methyl-6-methylene-2-oxoperhydro-4a,7-methano- 9b,3-propeno[1,2-b]furan-4-carboxylic acid</td><td>77-06-5</td><td>307</td><td>Phytoregulator</td></tr>
 <tr><td>Glyphosat</td><td>N-(phosphonomethyl)glycine</td><td>1071-83-6</td><td>284</td><td>Herbizid</td></tr>
@@ -2122,7 +2137,6 @@ Anhang 1*[^t-1]*
 <tr><td>Hymexazol</td><td>5-methylisoxazol-3-ol</td><td>10004-44-1</td><td>528</td><td>Saatbeizmittel</td></tr>
 <tr><td>Imazalil</td><td>(±)-1-(β-allyloxy-2,4-dichlorophenylethyl)imidazole</td><td>35554-44-0</td><td>335</td><td>Fungizid</td></tr>
 <tr><td>Imazamox</td><td>(RS)-2-(4-isopropyl-4-methyl-5-oxo-2-imidazolin- 2-yl)-5-methoxymethylnicotinic acid</td><td>114311-32-9</td><td>619</td><td>Herbizid</td></tr>
-<tr><td>Indoxacarb</td><td>(S)-methyl 7-chloro-2,5-dihydro-2[[(methoxy- carbonyl) [4-(trifluoro-methoxy)phenyl]amino]carbonyl]-indeno[1,2-e][1,3,4]oxadiazine-4a (3H)-carboxylate</td><td>173584-44-6</td><td>612</td><td>Insektizid</td></tr>
 <tr><td>Iodosulfuron</td><td>4-iodo-2-[(4- methoxy-6-methyl- 1,3,5-triazin-2-yl) carbamoylsulfamoyl]benzoic acid *Variante:* Iodosulfuron- methyl-Natrium</td><td>185119-76-0 144550-36-7</td><td>634 634.501</td><td>Herbizid</td></tr>
 <tr><td>Iprovalicarb</td><td>{2-Methyl-1-[1-(4-methylphenyl)-ethylcarbonyl]-propyl}-carbamic acid isopropyl ester</td><td>140923-17-7</td><td>620</td><td>Fungizid</td></tr>
 <tr><td>Ipsdienol</td><td>(S)-2-methyl-6-methyleneocta-2,7-dien-4-ol</td><td>35628-00-3</td><td>–</td><td>Pheromon</td></tr>
@@ -2184,7 +2198,6 @@ Anhang 1*[^t-1]*
 <tr><td>Penthiopyrad</td><td>*(RS)*-N-[2-(1,3- Dimethylbutyl)-3-thienyl]-1- methyl-3- (trifluormethyl)pyrazol-4- carboxamid</td><td>183675-82-3</td><td>824</td><td>Fungizid</td></tr>
 <tr><td>Pethoxamid</td><td>2-chloro-N-(2-ethoxyethyl)-N-(2-methyl-1-phenylprop-1-enyl)acetamide</td><td>106700-29-2</td><td>665</td><td>Herbizid</td></tr>
 <tr><td>Phenmedipham</td><td>methyl 3-(3-methylcarbaniloyloxy)carbanilate</td><td>13684-63-4</td><td>77</td><td>Herbizid</td></tr>
-<tr><td>Phosmet</td><td>O,O-dimethyl S-phthalimidomethyl phosphorodithioate</td><td>732-11-6</td><td>318</td><td>Insektizid, Akarizid</td></tr>
 <tr><td>Picloram</td><td>4-amino-3,5,6-trichloropyridine-2-carboxylic acid</td><td>1918-02-1</td><td>174</td><td>Herbizid</td></tr>
 <tr><td>Picolinafen</td><td>4′-Fluor-6-(α,α,α-trifluor-m-tolyloxy)pyridin- 2-carboxanilid</td><td>137641-05-5</td><td>639</td><td>Herbizid</td></tr>
 <tr><td>Pinoxaden</td><td>8-(2,6-diethyl-p-tolyl)-1,2,4,5-tetrahydro-7-oxo- 7H-pyrazolo[1,2-d][1,4,5]oxadiazepin-9-yl 2,2-dimethylpropionate</td><td>243973-20-8</td><td>776</td><td>Herbizid</td></tr>
@@ -2242,6 +2255,7 @@ Anhang 1*[^t-1]*
 <tr><td>Thiabendazole</td><td>2-(thiazol-4-yl)benzimidazole</td><td>148-79-8</td><td>323</td><td>Fungizid</td></tr>
 <tr><td>Thiencarbazone</td><td>methyl 4-[(4,5-dihydro-3-methoxy-4-methyl-5-oxo-1 H-1,2,4-triazol-1 -yl)carbonylsulfamoyl]-5- methylthiophene-3-carboxylate</td><td>317815-83-1</td><td>797</td><td>Herbizid</td></tr>
 <tr><td>Thifensulfuron-methyl</td><td>3-(4-methoxy-6-methyl-1,3,5-triazin-2-ylcarbamoylsulamoyl)thiophen-2-carboxylic acid</td><td>79277-27-3</td><td>452.201</td><td>Herbizid</td></tr>
+<tr><td>Thymol</td><td>5-Methyl-2-propan-2-yl-phenol</td><td>89-83-8</td><td>969</td><td>Fungizid</td></tr>
 <tr><td>Tierkörpermehl</td><td></td><td></td><td>–</td><td>Wildabhaltemittel</td></tr>
 <tr><td>Tolclofos-methyl</td><td>O-2,6-dichloro-p-tolyl O,O-dimethyl phosphorothioate</td><td>57018-04-9</td><td>479</td><td>Fungizid</td></tr>
 <tr><td>Tribenuron</td><td>2-[4-methoxy-6-methyl-1,3,5-triazin-2-yl(methyl)carbamoylsulfamoyl]benzoic acid</td><td>106040-48-6</td><td>546</td><td>Herbizid</td></tr>
@@ -2283,7 +2297,7 @@ Anhang 1*[^t-1]*
 <tr><td>Bacillus thuringiensis var. Kurstaki – Stämme ABTS-351, SA-11, HD-1, Btk-HD-1, ATCC-SD-1275, EG2424, EG 2348</td><td>Entomopathogene Bakterie</td><td>Bakterie</td><td>Insektizid</td></tr>
 <tr><td>Bacillus thuringiensis var. Tenebrionis – Stämme EG 2424, NB125, NB176</td><td>Entomopathogene Bakterie</td><td>Bakterie</td><td>Insektizid</td></tr>
 <tr><td>Beauveria bassiana – Stamm ATCC 74040</td><td>Entomopathogener Pilz</td><td>Pilz</td><td>Insektizid</td></tr>
-<tr><td>Beauveria brongniartii – Stämme BIPESCO2, FAL 546</td><td>Entomopathogener Pilz</td><td>Pilz</td><td>Insektizid</td></tr>
+<tr><td>Beauveria brongniartii – Stämme BIPESCO2, BIPESCO4 (FAL 546)</td><td>Entomopathogener Pilz</td><td>Pilz</td><td>Insektizid</td></tr>
 <tr><td>Coniothyrium minitans – Stämme CON/M/91-08, K1</td><td>Pilzlicher Antagonist</td><td>Pilz</td><td>Fungizid</td></tr>
 <tr><td>Gliocladium catenulatum – Stamm J1446</td><td>Pilzlicher Antagonist</td><td>Pilz</td><td>Fungizid</td></tr>
 <tr><td>Metarhizium anisopliae – Stamm BIPESCO5 (F52), FAL 997</td><td>Entomopathogener Pilz</td><td>Pilz</td><td>Insektizid</td></tr>
@@ -2403,10 +2417,12 @@ Anhang 1*[^t-1]*
 
 <table>
 <tr><th>Gebräuchliche Bezeichnung, Kennnummer</th><th>CAS-Nr.</th></tr>
+<tr><td>8-Hydroxychinolin</td><td>148-24-3</td></tr>
 <tr><td>Aclonifen</td><td>74070-46-5</td></tr>
 <tr><td>Benzovindiflupyr</td><td>1072957-71-1</td></tr>
 <tr><td>Bromuconazol</td><td>116255-48-2</td></tr>
 <tr><td>Chlortoluron</td><td>15545-48-9</td></tr>
+<tr><td>Cypermethrin</td><td>52315-07-8</td></tr>
 <tr><td>Cyprodinil</td><td>121552-61-2</td></tr>
 <tr><td>Difenoconazol</td><td>119446-68-3</td></tr>
 <tr><td>Diflufenican</td><td>83164-33-4</td></tr>
@@ -2581,7 +2597,7 @@ Anhang 5*[^t-4]*
 <sup>3</sup> Für die korrekte Auslegung des Anhangs der Verordnung (EU) Nr. 283/2013 gelten die folgenden Entsprechungen von Ausdrücken und Erlassen:
 
 <table>
-<tr><td>EU</td><td>Schweiz</td></tr>
+<tr><td>**EU**</td><td>**Schweiz**</td></tr>
 <tr><td>zuständige europäische Behörde (Ziff. 1.6 und 1.7)</td><td>Zulassungsstelle</td></tr>
 <tr><td>zuständige Behörde (Ziff. 3.2.3)</td><td>Zulassungsstelle</td></tr>
 <tr><td>Richtlinie (EG) Nr. 2010/63/EU (Ziff. 1.10)</td><td>Tierschutzgesetz vom 16. Dezember 2005[^annex5-lvlu1-lvl2-3] (TSchG)</td></tr>
@@ -2602,7 +2618,7 @@ Anhang 5*[^t-4]*
 <sup>2</sup> Für die korrekte Auslegung von Anhang Teil B der Verordnung (EU) Nr. 544/2011 gelten die folgenden Entsprechungen von Ausdrücken:
 
 <table>
-<tr><td>Ausdruck in der EU</td><td>schweiz. Ausdruck</td></tr>
+<tr><td>**Ausdruck in der EU**</td><td>**schweiz. Ausdruck**</td></tr>
 <tr><td>Kommission und Mitgliedstaaten (Ziff. 1.2 und 1.4.1)</td><td>Zulassungsstelle</td></tr>
 <tr><td>zuständige Behörde des Mitgliedstaates (Ziff. 9)</td><td>Zulassungsstelle</td></tr>
 </table>
@@ -2659,7 +2675,7 @@ Anhang 6*[^t-5]*
 <sup>3</sup> Für die korrekte Auslegung des Anhangs der Verordnung (EU) Nr. 284/2013 gelten die folgenden Entsprechungen von Ausdrücken und Erlassen:
 
 <table>
-<tr><td>EU</td><td>Schweiz</td></tr>
+<tr><td>**EU**</td><td>**Schweiz**</td></tr>
 <tr><td>zuständige europäische Behörde (Ziff. 1.6)</td><td>Zulassungsstelle</td></tr>
 <tr><td>zuständige Behörde (Ziff. 1.11, 2, 3.2 Bst. e, 3.3, 3.4.2)</td><td>Zulassungsstelle</td></tr>
 <tr><td>zuständige nationale Behörde (Ziff. 3.3)</td><td>Zulassungsstelle</td></tr>
@@ -2681,7 +2697,7 @@ Anhang 6*[^t-5]*
 <sup>2</sup> Für die korrekte Auslegung von Anhang Teil B der Verordnung (EU) Nr. 545/2011 gelten die folgenden Entsprechungen von Ausdrücken:
 
 <table>
-<tr><td>Ausdruck in der EU</td><td>schweiz. Ausdruck</td></tr>
+<tr><td>**Ausdruck in der EU**</td><td>**schweiz. Ausdruck**</td></tr>
 <tr><td>zuständige Behörde des Mitgliedstaates (Ziff. 11)</td><td>Zulassungsstelle</td></tr>
 </table>
 
@@ -3033,9 +3049,9 @@ Die Beurteilungsstellen bewerten die Rückstandsmengen in protokollierten Versuc
 
 ### 9BI-2.4.2.4Rückstandsmengen in Erzeugnissen tierischen Ursprungs
 
-Die Beurteilungsstellen bewerten die Rückstandsmengen in Erzeugnissen tierischen Ursprungs und berücksichtigen dabei die in Anhang III Teil A Ziffer 8.4 der Richtlinie 91/414/EWG[^annex9-partI-lvlu2-lvld4e202-lvlu22-1] vorgesehenen Informationen sowie die Rückstände anderer Anwendungen.
+Die Beurteilungsstellen bewerten die Rückstandsmengen in Erzeugnissen tierischen Ursprungs und berücksichtigen dabei die in Anhang III Teil A Ziffer 8.4 der Richtlinie 91/414/EWG[^annex9-partI-lvlu2-lvld4e203-lvlu22-1] vorgesehenen Informationen sowie die Rückstände anderer Anwendungen.
 
-[^annex9-partI-lvlu2-lvld4e202-lvlu22-1]: Siehe Fussnote zu Art. 86 Abs. 1 Bst. a.
+[^annex9-partI-lvlu2-lvld4e203-lvlu22-1]: Siehe Fussnote zu Art. 86 Abs. 1 Bst. a.
 
 ### 9BI-2.4.2.5Potenzielle Exposition der Konsumenten und Konsumentinnen über die Nahrung
 
@@ -3053,7 +3069,7 @@ Bei der Bewertung des Verbleibs und der Verteilung des Pflanzenschutzmittels in 
 
 ### 9BI-2.5.1.1Verbleib und Verteilung im Boden
 
-<sup>1</sup> Die Beurteilungsstellen bewerten, ob das Pflanzenschutzmittel unter den vorgeschlagenen Anwendungsbedingungen bis in den Boden gelangen kann. Besteht diese Möglichkeit, so bewerten sie die Abbaugeschwindigkeit und den Abbauweg, die Mobilität im Boden sowie die Veränderung der Gesamtkonzentration des Wirkstoffs (gebundene und nicht gebundene Rückstände [^annex9-partI-lvlu2-lvld4e202-lvlu27-1]) und der Metaboliten, Abbau- und Reaktionsprodukte, die bei Verwendung des Pflanzenschutzmittels unter den vorgeschlagenen Anwendungsbedingungen im Boden der vorgesehenen Anwendungsregion zu erwarten sind.
+<sup>1</sup> Die Beurteilungsstellen bewerten, ob das Pflanzenschutzmittel unter den vorgeschlagenen Anwendungsbedingungen bis in den Boden gelangen kann. Besteht diese Möglichkeit, so bewerten sie die Abbaugeschwindigkeit und den Abbauweg, die Mobilität im Boden sowie die Veränderung der Gesamtkonzentration des Wirkstoffs (gebundene und nicht gebundene Rückstände [^annex9-partI-lvlu2-lvld4e203-lvlu27-1]) und der Metaboliten, Abbau- und Reaktionsprodukte, die bei Verwendung des Pflanzenschutzmittels unter den vorgeschlagenen Anwendungsbedingungen im Boden der vorgesehenen Anwendungsregion zu erwarten sind.
 
 <sup>2</sup> Bei dieser Bewertung werden folgende Informationen berücksichtigt:
 
@@ -3074,7 +3090,7 @@ Bei der Bewertung des Verbleibs und der Verteilung des Pflanzenschutzmittels in 
 - c. alle in Anhang 6 Ziffer 2 vorgesehenen relevanten Informationen über das Pflanzenschutzmittel, einschliesslich Informationen über Verteilung und Abbau im Boden;
 - d. gegebenenfalls Angaben über andere bewilligte Anwendungen von Pflanzenschutzmitteln in der vorgeschlagenen Anwendungsregion, wenn diese denselben Wirkstoff enthalten oder dieselben Rückstände hinterlassen.
 
-[^annex9-partI-lvlu2-lvld4e202-lvlu27-1]: Nicht gebundene Rückstände in Pflanzen und im Boden sind definiert als chemische Stoffe, die auf den Einsatz von Pflanzenschutzmitteln nach guter landwirtschaftlicher Praxis zurückzuführen sind und die ohne entscheidende Veränderung der chemischen Eigenschaften dieser Rückstände nicht extrahiert werden können. Nicht zu den nicht gebundenen Rückständen zählen Metaboliten, die in natürliche Stoffe umgewandelt werden.
+[^annex9-partI-lvlu2-lvld4e203-lvlu27-1]: Nicht gebundene Rückstände in Pflanzen und im Boden sind definiert als chemische Stoffe, die auf den Einsatz von Pflanzenschutzmitteln nach guter landwirtschaftlicher Praxis zurückzuführen sind und die ohne entscheidende Veränderung der chemischen Eigenschaften dieser Rückstände nicht extrahiert werden können. Nicht zu den nicht gebundenen Rückständen zählen Metaboliten, die in natürliche Stoffe umgewandelt werden.
 
 ### 9BI-2.5.1.2Verbleib und Verteilung im Grundwasser
 
@@ -3357,14 +3373,14 @@ Die Beurteilungsstellen bewerten die tatsächliche Wirkstoffkonzentration des Pf
 <sup>1</sup> Die Beurteilungsstellen bewerten die physikalischen und chemischen Eigenschaften des Pflanzenschutzmittels, insbesondere folgende Punkte:
 
 - a. die in der betreffenden Spezifikation aufgeführten physikalischen und chemischen Eigenschaften, sofern es eine adäquate FAO-Spezifikation gibt;
-- b. alle im «Manual on the development and use of FAO specifications for plant protection products»[^annex9-partI-lvlu2-lvld4e202-lvlu44-1] aufgeführten, für die Zubereitung relevanten physikalischen und chemischen Eigenschaften, wenn es keine adäquate FAO-Spezifikation gibt.
+- b. alle im «Manual on the development and use of FAO specifications for plant protection products»[^annex9-partI-lvlu2-lvld4e203-lvlu44-1] aufgeführten, für die Zubereitung relevanten physikalischen und chemischen Eigenschaften, wenn es keine adäquate FAO-Spezifikation gibt.
 
 <sup>2</sup> Bei der Bewertung werden folgende Informationen berücksichtigt:
 
 - a. die in Anhang 5 Ziffer 2 vorgesehenen Angaben über die physikalischen und chemischen Eigenschaften des Wirkstoffs sowie die Ergebnisse ihrer Bewertung;
 - b. die in Anhang 6 Ziffer 2 vorgesehenen Angaben über die physikalischen und chemischen Eigenschaften des Pflanzenschutzmittels.
 
-[^annex9-partI-lvlu2-lvld4e202-lvlu44-1]: Manual on Development and Use of FAO Specifications for Plant Protection Products. Fifth Edition, prepared by the Group on Specifications of the FAO panel of Experts on Pesticide Specifications, Registration Requirements and Application Standards and Prior Informed Consent, January 1999.
+[^annex9-partI-lvlu2-lvld4e203-lvlu44-1]: Manual on Development and Use of FAO Specifications for Plant Protection Products. Fifth Edition, prepared by the Group on Specifications of the FAO panel of Experts on Pesticide Specifications, Registration Requirements and Application Standards and Prior Informed Consent, January 1999.
 
 ### 9BI-2.7.3Tankmischung
 
@@ -3480,9 +3496,9 @@ Die vorgeschlagenen Anweisungen zur Reinigung der Ausbringungsgeräte müssen de
 
 <sup>1</sup> Es wird keine Bewilligung erteilt, wenn der Anwender oder die Anwenderin bei der Handhabung und Anwendung des Pflanzenschutzmittels gemäss den vorgeschlagenen Bedingungen, einschliesslich Dosis und Anwendungsmethode, einer höheren als der annehmbaren Anwenderexposition (AOEL = Acceptable Operator Exposition Level) ausgesetzt ist.
 
-<sup>2</sup> Darüber hinaus setzt die Erteilung der Bewilligung voraus, dass die Höchstkonzentration eingehalten wird, die für den Wirkstoff und/oder die toxikologisch massgebliche(n) Verbindung(en) des Erzeugnisses nach der Verordnung des EDI vom 16. Dezember 2016[^annex9-partI-lvlu3-lvld4e255-lvlu19-1] über die Höchstgehalte für Pestizidrückstände in oder auf Erzeugnissen pflanzlichen und tierischer Herkunft festgesetzt worden ist.
+<sup>2</sup> Darüber hinaus setzt die Erteilung der Bewilligung voraus, dass die Höchstkonzentration eingehalten wird, die für den Wirkstoff und/oder die toxikologisch massgebliche(n) Verbindung(en) des Erzeugnisses nach der Verordnung des EDI vom 16. Dezember 2016[^annex9-partI-lvlu3-lvld4e256-lvlu19-1] über die Höchstgehalte für Pestizidrückstände in oder auf Erzeugnissen pflanzlichen und tierischer Herkunft festgesetzt worden ist.
 
-[^annex9-partI-lvlu3-lvld4e255-lvlu19-1]: [SR 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+[^annex9-partI-lvlu3-lvld4e256-lvlu19-1]: [SR 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
 
 ### 9CI-2.4.1.2Schutzkleidung oder -ausrüstung
 
@@ -3514,9 +3530,9 @@ Bei den Bewilligungen ist sicherzustellen, dass die Rückstände von den Mindest
 
 <sup>1</sup> Gibt es noch keine Angabe der Höchstkonzentration setzen die Beurteilungsstellen eine vorläufige Höchstkonzentration fest. Die Schlussfolgerungen in Bezug auf die festgelegten Höchstkonzentrationen müssen für alle Bedingungen gelten, die den Rückstandsgehalt in der Kultur beeinflussen können, wie der Anwendungszeitpunkt, die Aufwandmenge, die Anwendungshäufigkeit und die Anwendungsweise.
 
-<sup>2</sup> Basierend auf der Beurteilung potenzieller Rückstände in und auf essbaren Teilen von Pflanzen und -erzeugnissen durch die verantwortliche Beurteilungsstelle und gestützt auf die VPRH[^annex9-partI-lvlu3-lvld4e255-lvlu27-1] legt das BLV die Höchstkonzentrationen von Wirkstoffen fest.
+<sup>2</sup> Basierend auf der Beurteilung potenzieller Rückstände in und auf essbaren Teilen von Pflanzen und -erzeugnissen durch die verantwortliche Beurteilungsstelle und gestützt auf die VPRH[^annex9-partI-lvlu3-lvld4e256-lvlu27-1] legt das BLV die Höchstkonzentrationen von Wirkstoffen fest.
 
-[^annex9-partI-lvlu3-lvld4e255-lvlu27-1]: [SR 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+[^annex9-partI-lvlu3-lvld4e256-lvlu27-1]: [SR 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
 
 ### 9CI-2.4.2.3ADI-Wert
 
@@ -3547,9 +3563,9 @@ Sollen behandelte Pflanzen oder Pflanzenerzeugnisse als Futtermittel verwendet w
 
 ### 9CI-2.5.1.2Verbleib und Verhalten in Grundwasser
 
-Es wird keine Bewilligung erteilt, wenn die zu erwartende Konzentration des Wirkstoffs oder seiner relevanten Metaboliten, Abbau- oder Reaktionsprodukte im Grundwasser, das als Trinkwasser genutzt wird oder dafür vorgesehen ist, den Anforderungen nach Anhang 2 Ziffer 22 GSchV[^annex9-partI-lvlu3-lvld4e255-lvlu34-1] nicht genügt.
+Es wird keine Bewilligung erteilt, wenn die zu erwartende Konzentration des Wirkstoffs oder seiner relevanten Metaboliten, Abbau- oder Reaktionsprodukte im Grundwasser, das als Trinkwasser genutzt wird oder dafür vorgesehen ist, den Anforderungen nach Anhang 2 Ziffer 22 GSchV[^annex9-partI-lvlu3-lvld4e256-lvlu34-1] nicht genügt.
 
-[^annex9-partI-lvlu3-lvld4e255-lvlu34-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex9-partI-lvlu3-lvld4e256-lvlu34-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
 
 ### 9CI-2.5.1.3Verbleib und Verhalten in Oberflächengewässern
 
@@ -4170,11 +4186,11 @@ Die verschiedenen Entwicklungsstadien und der Lebenszyklus des Mikroorganismus s
 
 <sup>2</sup> Informationen über den Ursprung und die Eigenschaften (z.B. Spezifität) des Mikroorganismus/seiner rückstandsbildenden Metaboliten/-toxine und seine beabsichtigte Verwendung bilden die Grundlage für die Bewertung von Verbleib und Verhalten von Pflanzenschutzmitteln in der Umwelt. Der Wirkungsweise des Mikroorganismus sollte Rechnung getragen werden.
 
-<sup>3</sup> Auch Verbleib und Verhalten jedes bekannten relevanten Metaboliten, der vom Mikroorganismus gebildet wird, ist zu bewerten. Diese Prüfung betrifft jedes Umweltkompartiment und erfolgt aufgrund der in Anhang IIB Abschnitt 7 Ziffer iv) der Richtlinie 91/414/EWG[^annex9-partII-lvlu2-lvld4e315-lvlu44-1] genannten Kriterien.
+<sup>3</sup> Auch Verbleib und Verhalten jedes bekannten relevanten Metaboliten, der vom Mikroorganismus gebildet wird, ist zu bewerten. Diese Prüfung betrifft jedes Umweltkompartiment und erfolgt aufgrund der in Anhang IIB Abschnitt 7 Ziffer iv) der Richtlinie 91/414/EWG[^annex9-partII-lvlu2-lvld4e316-lvlu44-1] genannten Kriterien.
 
 <sup>4</sup> Bei der Bewertung von Verbleib und Verhalten der Pflanzenschutzmittel in der Umwelt berücksichtigen die Beurteilungsstellen alle Umweltaspekte, einschliesslich Biota. Die Persistenz- und Vermehrungsfähigkeit von Mikroorganismen ist für alle Umweltkompartimente zu bewerten, es sei denn, es kann nachgewiesen werden, dass besondere Mikroorganismen nicht in ein spezifisches Kompartiment gelangen. Entsprechend ist die Mobilität von Mikroorganismen und ihrer rückstandsbildenden Metaboliten und -toxine zu prüfen.
 
-[^annex9-partII-lvlu2-lvld4e315-lvlu44-1]: Siehe Fussnote zu Art. 86 Abs. 1 Bst. a.
+[^annex9-partII-lvlu2-lvld4e316-lvlu44-1]: Siehe Fussnote zu Art. 86 Abs. 1 Bst. a.
 
 ### 9BII-2.7.1Risiko für Wasser
 
@@ -4399,9 +4415,9 @@ Die Zulassungsstelle teilt den Gesuchstellerinnen etwa getroffene Massnahmen nac
 
 <sup>10</sup> Eine Bewilligung wird nicht erteilt, wenn relevante Metaboliten/Toxine (d.h. Metaboliten/Toxine, die erwartungsgemäss für die Gesundheit des Menschen und/oder die Umwelt von Belang sind), die bekanntermassen von Mikroorganismen und/oder mikrobiellen Kontaminanten gebildet werden, im Pflanzenschutzmittel vorhanden sind, es sei denn, es kann nachgewiesen werden, dass die vorhandene Menge vor und nach der vorgeschlagenen Anwendung ein annehmbares Niveau nicht übersteigt.
 
-<sup>11</sup> Die Zulassungsstelle trägt dafür Sorge, dass angemessene Qualitätssicherungsmassnahmen getroffen werden, um die Identität des Mikroorganismus und den Inhalt des Pflanzenschutzmittels sicherzustellen. Zu diesen Massnahmen muss ein System wie das HACCP-Konzept (Hazard Analysis and Critical Control Points – Gefahrenanalyse und Überwachung kritischer Kontrollpunkte[^annex9-partII-lvlu3-lvld4e392-1]) oder ein gleichartiges System gehören.
+<sup>11</sup> Die Zulassungsstelle trägt dafür Sorge, dass angemessene Qualitätssicherungsmassnahmen getroffen werden, um die Identität des Mikroorganismus und den Inhalt des Pflanzenschutzmittels sicherzustellen. Zu diesen Massnahmen muss ein System wie das HACCP-Konzept (Hazard Analysis and Critical Control Points – Gefahrenanalyse und Überwachung kritischer Kontrollpunkte[^annex9-partII-lvlu3-lvld4e393-1]) oder ein gleichartiges System gehören.
 
-[^annex9-partII-lvlu3-lvld4e392-1]: FAO & WHO. 2003. Recommended international codex of practice. General principles of food hygiene, CAC/RCP 1 - 1969, Rev. 4-2003, including «Annex on Hazard Analysis Critical Control Point (HACCP) System and Guidelines for its Application»
+[^annex9-partII-lvlu3-lvld4e393-1]: FAO & WHO. 2003. Recommended international codex of practice. General principles of food hygiene, CAC/RCP 1 - 1969, Rev. 4-2003, including «Annex on Hazard Analysis Critical Control Point (HACCP) System and Guidelines for its Application»
 
 ### 9CII-2 Besondere Grundsätze
 
@@ -4415,9 +4431,9 @@ Um eine Bewilligung erteilen zu können, stellt die Zulassungsstelle sicher, das
 
 ### 9CII-2.2.1Bewertung des Mikroorganismusmindest- und ­höchstgehalts
 
-Für eine Bewertung des Mikroorganismusmindest- und -höchstgehalts in dem für die Herstellung von Pflanzenschutzmitteln verwendeten Ausgangsmaterial und im Pflanzenschutzmittel selbst müssen hinreichend Informationen vorhanden sein. Der Gehalt des Pflanzenschutzmittels an anderen Komponenten und Beistoffen und kontaminierende Mikroorganismen, die bei der Herstellung anfallen, müssen möglichst umfassend definiert sein. Die Zulassungsstelle trägt dafür Sorge, dass die Menge an kontaminierenden Organismen auf einem akzeptablen Niveau gehalten wird. Darüber hinaus sind der physikalische Zustand und die Art des Pflanzenschutzmittels im Einzelnen anzugeben, vorzugsweise gemäss dem «Catalogue of pesticide formulation types and international coding system»[^annex9-partII-lvlu3-lvld4e393-lvlu3-1].
+Für eine Bewertung des Mikroorganismusmindest- und -höchstgehalts in dem für die Herstellung von Pflanzenschutzmitteln verwendeten Ausgangsmaterial und im Pflanzenschutzmittel selbst müssen hinreichend Informationen vorhanden sein. Der Gehalt des Pflanzenschutzmittels an anderen Komponenten und Beistoffen und kontaminierende Mikroorganismen, die bei der Herstellung anfallen, müssen möglichst umfassend definiert sein. Die Zulassungsstelle trägt dafür Sorge, dass die Menge an kontaminierenden Organismen auf einem akzeptablen Niveau gehalten wird. Darüber hinaus sind der physikalische Zustand und die Art des Pflanzenschutzmittels im Einzelnen anzugeben, vorzugsweise gemäss dem «Catalogue of pesticide formulation types and international coding system»[^annex9-partII-lvlu3-lvld4e394-lvlu3-1].
 
-[^annex9-partII-lvlu3-lvld4e393-lvlu3-1]: CropLife International: Technical Monograf No. 2, 5<sup>th</sup> Edition, 2002
+[^annex9-partII-lvlu3-lvld4e394-lvlu3-1]: CropLife International: Technical Monograf No. 2, 5<sup>th</sup> Edition, 2002
 
 ### 9CII-2.2.2Resistenzen
 
@@ -4552,12 +4568,12 @@ Wartezeiten und Wiederbetretungsfristen oder andere Sicherheitsvorkehrungen, mit
 
 ### 9CII-2.6.1.9Bewilligungsbedingungen
 
-Die Bewilligungsbedingungen müssen den Vorgaben der Richtlinie 98/24/EG[^annex9-partII-lvlu3-lvld4e393-lvlu37-1] und der Richtlinie 2000/54/EG[^annex9-partII-lvlu3-lvld4e393-lvlu37-2] entsprechen. Die darin vorgesehenen Versuchsdaten und Informationen über die Erkennung von Symptomen einer Infektion oder Pathogenität und über die Wirksamkeit erster Hilfe und therapeutischer Massnahmen sind zu berücksichtigen. Die Bewilligungsbedingungen müssen ferner der Richtlinie 2004/37/EG[^annex9-partII-lvlu3-lvld4e393-lvlu37-3] entsprechen. Die Bewilligungsbedingungen müssen darüber hinaus der Richtlinie 89/656/EWG[^annex9-partII-lvlu3-lvld4e393-lvlu37-4] genügen.
+Die Bewilligungsbedingungen müssen den Vorgaben der Richtlinie 98/24/EG[^annex9-partII-lvlu3-lvld4e394-lvlu37-1] und der Richtlinie 2000/54/EG[^annex9-partII-lvlu3-lvld4e394-lvlu37-2] entsprechen. Die darin vorgesehenen Versuchsdaten und Informationen über die Erkennung von Symptomen einer Infektion oder Pathogenität und über die Wirksamkeit erster Hilfe und therapeutischer Massnahmen sind zu berücksichtigen. Die Bewilligungsbedingungen müssen ferner der Richtlinie 2004/37/EG[^annex9-partII-lvlu3-lvld4e394-lvlu37-3] entsprechen. Die Bewilligungsbedingungen müssen darüber hinaus der Richtlinie 89/656/EWG[^annex9-partII-lvlu3-lvld4e394-lvlu37-4] genügen.
 
-[^annex9-partII-lvlu3-lvld4e393-lvlu37-1]: Richtlinie 98/24/EG des Rates vom 7. April 1998 zum Schutz von Gesundheit und Sicherheit der Arbeitnehmer vor der Gefährdung durch chemische Arbeitsstoffe bei der Arbeit, ABl. L 131 vom 5.5.1998, S. 11; zuletzt geändert durch Richtlinie 2007/30/EG, ABl. L 165 vom 27.6.2007, S. 21
-[^annex9-partII-lvlu3-lvld4e393-lvlu37-2]: Richtlinie 2000/54/EG des Europäischen Parlaments und des Rates vom 18. Sept. 2000 über den Schutz der Arbeitnehmer gegen Gefährdung durch biologische Arbeitsstoffe bei der Arbeit, in der Fassung gemäss ABl. L 262 vom 17.10.2000, S. 21
-[^annex9-partII-lvlu3-lvld4e393-lvlu37-3]: Richtlinie 2004/37/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über den Schutz der Arbeitnehmer gegen Gefährdung durch Karzinogene oder Mutagene bei der Arbeit, in der Fassung gemäss ABl. L 204 vom 4.8.2007, S. 28
-[^annex9-partII-lvlu3-lvld4e393-lvlu37-4]: Richtlinie 89/656/EWG des Rates vom 30. Nov. 1989 über Mindestvorschriften für Sicherheit und Gesundheitsschutz bei Benutzung persönlicher Schutzausrüstungen durch Arbeitnehmer bei der Arbeit, ABl. L 393 vom 30.12.1989, S. 18; zuletzt geändert durch Richtlinie 2007/30/EG, ABl. L 165 vom 27.6.2007, S. 21
+[^annex9-partII-lvlu3-lvld4e394-lvlu37-1]: Richtlinie 98/24/EG des Rates vom 7. April 1998 zum Schutz von Gesundheit und Sicherheit der Arbeitnehmer vor der Gefährdung durch chemische Arbeitsstoffe bei der Arbeit, ABl. L 131 vom 5.5.1998, S. 11; zuletzt geändert durch Richtlinie 2007/30/EG, ABl. L 165 vom 27.6.2007, S. 21
+[^annex9-partII-lvlu3-lvld4e394-lvlu37-2]: Richtlinie 2000/54/EG des Europäischen Parlaments und des Rates vom 18. Sept. 2000 über den Schutz der Arbeitnehmer gegen Gefährdung durch biologische Arbeitsstoffe bei der Arbeit, in der Fassung gemäss ABl. L 262 vom 17.10.2000, S. 21
+[^annex9-partII-lvlu3-lvld4e394-lvlu37-3]: Richtlinie 2004/37/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über den Schutz der Arbeitnehmer gegen Gefährdung durch Karzinogene oder Mutagene bei der Arbeit, in der Fassung gemäss ABl. L 204 vom 4.8.2007, S. 28
+[^annex9-partII-lvlu3-lvld4e394-lvlu37-4]: Richtlinie 89/656/EWG des Rates vom 30. Nov. 1989 über Mindestvorschriften für Sicherheit und Gesundheitsschutz bei Benutzung persönlicher Schutzausrüstungen durch Arbeitnehmer bei der Arbeit, ABl. L 393 vom 30.12.1989, S. 18; zuletzt geändert durch Richtlinie 2007/30/EG, ABl. L 165 vom 27.6.2007, S. 21
 
 ### 9CII-2.6.2Durch Rückstände hervorgerufene Auswirkungen
 
