@@ -4,7 +4,7 @@ number: "211.11.1"
 title: "RÈGLEMENT du 10.01.2007 d'application de la loi du 25 novembre 1987 sur l'état civil (RLEC)"
 short: RLEC
 language: fr
-version: 2018-01-01
+version: 2022-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/211.11.1?id=7e0c2d52-9e34-4958-b601-4f20f61887ee"
 ---
 
@@ -36,15 +36,15 @@ arrête
 
 #### Art. 1
 
-**Arrondissements [^chapterChapitreI-1]**
+**Arrondissement [^chapterChapitreI-1]**
 
-<sup>1</sup> Le canton de Vaud forme un seul arrondissement de l'état civil (ci-après : office de l'état civil du canton de Vaud), dont les activités s'exercent sur plusieurs sites régionaux.
+<sup>1</sup> Le canton de Vaud forme un seul arrondissement de l'état civil (ci-après : office de l'état civil du canton de Vaud).
 
 <sup>2</sup> L'office de l'état civil du canton de Vaud, dont le siège est à Lausanne, est subordonné à l'autorité cantonale de surveillance de l'état civil.
 
 <sup>3</sup> …
 
-[^chapterChapitreI-1]: Modif. 3 du 27.09.2017: Modification Al. 1,2; entrée en vigueur au 01.01.2018; Abrogation Al. 3; entrée en vigueur au 01.01.2018 · Modif. 4 du 15.06.2022: Modification tArt; entrée en vigueur au 01.07.2022; Modification Al. 1; entrée en vigueur au 01.07.2022; Introduction Art. 3a; entrée en vigueur au 01.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 01.07.2022; Introduction Art. 14, Al. 1, d-g; entrée en vigueur au 01.07.2022
+[^chapterChapitreI-1]: Modif. 3 du 27.09.2017: Modification Al. 1,2; entrée en vigueur au 01.01.2018; Abrogation Al. 3; entrée en vigueur au 01.01.2018 · Modif. 4 du 15.06.2022: Modification tArt; entrée en vigueur au 01.07.2022; Modification Al. 1; entrée en vigueur au 01.07.2022
 
 #### Art. 2
 
@@ -56,17 +56,24 @@ arrête
 
 **Office de l'état civil spécialisé [^2-1]**
 
-<sup>1</sup> Le département en charge de l'état civil (ci-après : le département)[^3-1] peut créer un office de l'état civil spécialisé, dont les activités englobent la totalité du territoire cantonal.
+<sup>1</sup> Le service en charge de l'état civil (ci-après : le service) peut créer un office de l'état civil spécialisé, dont les activités englobent la totalité du territoire cantonal.
 
-<sup>2</sup> L'office de l'état civil spécialisé traite les tâches mentionnées à l'article 2, alinéa 2 OEC[^3-2].
+<sup>2</sup> L'office de l'état civil spécialisé traite les tâches mentionnées à l'article 2, alinéa 2 OEC[^3-1].
 
 <sup>3</sup> …
 
 <sup>4</sup> …
 
-[^2-1]: Modif. 3 du 27.09.2017: Modification Al. 1; entrée en vigueur au 01.01.2018; Abrogation Al. 3,4; entrée en vigueur au 01.01.2018 · Modif. 4 du 15.06.2022: Modification Al. 1; entrée en vigueur au 01.07.2022; Introduction Art. 3a; entrée en vigueur au 01.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 01.07.2022; Introduction Art. 14, Al. 1, d-g; entrée en vigueur au 01.07.2022
-[^3-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
-[^3-2]: Ordonnance sur l'état civil du 28.04.2004 (RS 211.112.2)
+[^2-1]: Modif. 3 du 27.09.2017: Modification Al. 1; entrée en vigueur au 01.01.2018; Abrogation Al. 3,4; entrée en vigueur au 01.01.2018 · Modif. 4 du 15.06.2022: Modification Al. 1; entrée en vigueur au 01.07.2022
+[^3-1]: Ordonnance sur l'état civil du 28.04.2004 (RS 211.112.2)
+
+#### Art. 3a
+
+**Antennes [^3-2]**
+
+<sup>1</sup> Le service peut créer des bureaux externes au siège principal de l'état civil, notamment dans les principales maternités du canton.
+
+[^3-2]: Modif. 4 du 15.06.2022: Introduction tArt; entrée en vigueur au 01.07.2022; Introduction Al. 1; entrée en vigueur au 01.07.2022; Introduction Art. 3a; entrée en vigueur au 01.07.2022
 
 ## Chapitre II Gestion de l'office
 
@@ -76,23 +83,23 @@ arrête
 
 <sup>1</sup> Les officiers de l'état civil enregistrent les événements naturels de l'état civil, les déclarations personnelles en matière d'état civil, les jugements prononcés ou les décisions prises par les tribunaux et les autorités administratives ainsi que les décisions ou les actes étrangers.
 
-<sup>2</sup> Ils préparent et célèbrent les mariages et enregistrent les partenariats.
+<sup>2</sup> Ils préparent et célèbrent les mariages.
 
 <sup>3</sup> Ils divulguent les données personnelles dans la forme prescrite, d'office ou sur demande des ayants droit.
 
 <sup>4</sup> Au surplus, leurs tâches sont régies par le droit fédéral et cantonal.
 
-[^chapterChapitreII-1]: Modif. 4 du 15.06.2022: Introduction Art. 3a; entrée en vigueur au 01.07.2022; Modification Al. 2; entrée en vigueur au 01.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 01.07.2022; Introduction Art. 14, Al. 1, d-g; entrée en vigueur au 01.07.2022
+[^chapterChapitreII-1]: Modif. 4 du 15.06.2022: Modification Al. 2; entrée en vigueur au 01.07.2022
 
 #### Art. 5
 
 **Circulation et directives [^4-1]**
 
-<sup>1</sup> Les circulaires et directives du département ont force obligatoire, dans la mesure où le droit fédéral ne prévoit pas de réglementation exhaustive.
+<sup>1</sup> Les circulaires et directives du service ont force obligatoire, dans la mesure où le droit fédéral ne prévoit pas de réglementation exhaustive.
 
-<sup>2</sup> Le département édicte les directives nécessaires à l'organisation de l'état civil dans le canton de vaud.
+<sup>2</sup> Le service édicte les directives nécessaires à l'organisation de l'état civil dans le canton de Vaud.
 
-[^4-1]: Modif. 3 du 27.09.2017: Modification Al. t,2; entrée en vigueur au 01.01.2018 · Modif. 4 du 15.06.2022: Introduction Art. 3a; entrée en vigueur au 01.07.2022; Modification Al. 1-2; entrée en vigueur au 01.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 01.07.2022; Introduction Art. 14, Al. 1, d-g; entrée en vigueur au 01.07.2022
+[^4-1]: Modif. 3 du 27.09.2017: Modification Al. t,2; entrée en vigueur au 01.01.2018 · Modif. 4 du 15.06.2022: Modification Al. 1-2; entrée en vigueur au 01.07.2022
 
 #### Art. 6
 
@@ -132,9 +139,9 @@ arrête
 
 <sup>1</sup> Les officiers et le personnel de l'état civil sont tenus d'assister aux cours, séances de travail et séminaires de formation organisés par le département qui concernent la connaissance des matières de l'état civil.
 
-<sup>2</sup> Le département collabore dans la mesure du possible dans le domaine de la formation avec d'autres cantons ou avec des organismes ou des groupes de formation appropriés.
+<sup>2</sup> Le service collabore dans la mesure du possible dans le domaine de la formation avec d'autres cantons ou avec des organismes ou des groupes de formation appropriés.
 
-[^8-3]: Modif. 4 du 15.06.2022: Introduction Art. 3a; entrée en vigueur au 01.07.2022; Modification Al. 2; entrée en vigueur au 01.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 01.07.2022; Introduction Art. 14, Al. 1, d-g; entrée en vigueur au 01.07.2022
+[^8-3]: Modif. 4 du 15.06.2022: Modification Al. 2; entrée en vigueur au 01.07.2022
 
 #### Art. 10
 
@@ -154,9 +161,11 @@ arrête
 
 <sup>2</sup> Les journées de formation pour la préparation du brevet fédéral de capacité qui sont prises sur le temps de travail ne sont pas rémunérées.
 
+<sup>2bis</sup> Une convention de formation est établie par le service avec chaque personne nouvellement engagée suivant la formation d'officier d'état civil et ne disposant pas du brevet fédéral d'officier d'état civil.
+
 <sup>3</sup> Au surplus, les dispositions de la législation sur le personnel de l'Etat de Vaud[^11-1] s'appliquent.
 
-[^10-1]: Modif. 3 du 27.09.2017: Modification Al. 2; entrée en vigueur au 01.01.2018 · Modif. 4 du 15.06.2022: Introduction Art. 3a; entrée en vigueur au 01.07.2022; Introduction Al. 2bis; entrée en vigueur au 01.07.2022; Introduction Art. 14, Al. 1, d-g; entrée en vigueur au 01.07.2022
+[^10-1]: Modif. 3 du 27.09.2017: Modification Al. 2; entrée en vigueur au 01.01.2018 · Modif. 4 du 15.06.2022: Introduction Al. 2bis; entrée en vigueur au 01.07.2022
 [^11-1]: Loi du 12.11.2001 sur le personnel de l'Etat de Vaud ([BLV 172.31](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.31?id=e938e89d-0adc-49e4-8d44-cca669bd6c98))
 
 ## Chapitre IV Surveillance (45 CC)
@@ -200,8 +209,12 @@ arrête
 - a. au service en charge des naturalisations : la naissance d'un enfant trouvé afin de déterminer son origine (art. 6 de la loi fédérale sur l'acquisition et la perte de la nationalité suisse[^14-2] ) ;
 - b. à la justice de paix du domicile du défunt : le décès survenu dans le canton de personnes qui y sont domiciliées (art. 40 al. 1 de la loi du 27 février 1963 concernant le droit de mutation sur les transferts immobiliers et l'impôt sur les successions et donations[^14-3] ) ;
 - c. au préposé aux impôts du domicile du défunt et à l'administration cantonale des impôts : le décès survenu dans le canton de personnes qui y sont domiciliées (art. 40 al. 1 de la loi du 27 février 1963 concernant le droit de mutation sur les transferts immobiliers et l'impôt sur les successions et donations[^14-4]).
+- d. à la justice de paix du domicile du défunt de nationalité étrangère : les actes d'état civil fournis pour le traitement de l'enregistrement du décès ;
+- e. à la justice de paix de l'arrondissement du domicile du disparu, si ce domicile est connu : l'enregistrement de la déclaration d'absence (art. 38 CC) ainsi que la levée de cette déclaration ;
+- f. à l'autorité de protection de l'enfant du lieu de domicile de la personne concernée : l'adoption d'un enfant mineur en Suisse ;
+- g. au service de protection de la jeunesse du domicile de la personne adoptée : l'adoption prononcée pour un enfant mineur dans le canton de Vaud ou à l'étranger si l'adoption est transcrite en Suisse par l'état civil vaudois.
 
-[^chapterChapitreV-1]: Modif. 3 du 27.09.2017: Modification Al. 1b, 1c; entrée en vigueur au 01.01.2018 · Modif. 4 du 15.06.2022: Introduction Art. 3a; entrée en vigueur au 01.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 01.07.2022; Introduction Al. 1, d-g; entrée en vigueur au 01.07.2022
+[^chapterChapitreV-1]: Modif. 3 du 27.09.2017: Modification Al. 1b, 1c; entrée en vigueur au 01.01.2018 · Modif. 4 du 15.06.2022: Introduction Al. 1, d-g; entrée en vigueur au 01.07.2022
 [^14-1]: Ordonnance sur l'état civil du 28.04.2004 (RS 211.112.2)
 [^14-2]: Loi fédérale du 20.06.2014 sur la nationalité suisse (RS 141.0)
 [^14-3]: Loi du 27.02.1963 concernant le droit de mutation sur les transferts immobiliers et l'impôt sur les successions et donations ( [BLV 648.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/648.11?id=c48e3dba-0fc7-40dc-a25f-69f97284373f))
@@ -233,12 +246,11 @@ arrête
 
 **Rectifications [^16-1]**
 
-<sup>1</sup> Le département autorise d'office ou sur demande la modification administrative de données de l'état civil prévue à l'article 29, alinéa 1 OEC [^17-1] .
+<sup>1</sup> Le service ordonne d'office ou sur demande la modification administrative de données de l'état civil prévue à l'article 29, alinéa 1 OEC.
 
-<sup>2</sup> Toute demande doit être présentée par écrit au département avec les pièces justificatives nécessaires.
+<sup>2</sup> Toute demande doit être présentée par écrit au service avec les pièces justificatives nécessaires.
 
-[^16-1]: Modif. 4 du 15.06.2022: Introduction Art. 3a; entrée en vigueur au 01.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 01.07.2022; Introduction Art. 14, Al. 1, d-g; entrée en vigueur au 01.07.2022; Modification Al. 1-2; entrée en vigueur au 01.07.2022
-[^17-1]: Ordonnance sur l'état civil du 28.04.2004 (RS 211.112.2)
+[^16-1]: Modif. 4 du 15.06.2022: Modification Al. 1-2; entrée en vigueur au 01.07.2022
 
 #### Art. 18
 
@@ -256,47 +268,38 @@ arrête
 
 <sup>2</sup> Au jour et à l'heure fixés d'entente avec l'officier, les fiancés se présentent en tenue décente dans la salle des mariages, accompagnés de leurs témoins.
 
-<sup>3</sup> Les mariages sont célébrés du lundi au vendredi, de 9 heures à 17 heures, ainsi que les deuxième et quatrième samedis de chaque mois, de 10 heures à 17 heures.
+<sup>3</sup> Les mariages sont célébrés du lundi au samedi.
 
-<sup>4</sup> L'office de l'état civil du canton de Vaud dispose des salles de mariage agréées par le département.
+<sup>4</sup> L'office de l'état civil du canton de Vaud dispose des salles de mariage agréées par le service.
 
-[^18-2]: Modif. 3 du 27.09.2017: Modification Al. 4; entrée en vigueur au 01.01.2018 · Modif. 4 du 15.06.2022: Introduction Art. 3a; entrée en vigueur au 01.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 01.07.2022; Introduction Art. 14, Al. 1, d-g; entrée en vigueur au 01.07.2022; Modification Al. 3-4; entrée en vigueur au 01.07.2022
+[^18-2]: Modif. 3 du 27.09.2017: Modification Al. 4; entrée en vigueur au 01.01.2018 · Modif. 4 du 15.06.2022: Modification Al. 3-4; entrée en vigueur au 01.07.2022
 [^19-1]: Ordonnance sur l'état civil du 28.04.2004 (RS 211.112.2)
 
 #### Art. 20
 
-**Enregistrement des partenariats [^19-2]**
+**... [^19-2]**
 
-<sup>1</sup> Les partenaires s'adressent à l'office de l'état civil en vue de fixer le jour et l'heure de l'enregistrement du partenariat. S'il y a lieu, ils lui remettent en même temps l'autorisation d'enregistrer le partenariat conformément à l'article 75i, alinéa 3 OEC [^20-1] .
+...
 
-<sup>2</sup> Au jour et à l'heure fixés d'entente avec l'officier, les partenaires se présentent devant l'officier en tenue décente, dans les bureaux de l'office de l'état civil ou la salle d'enregistrement des partenariats.
-
-<sup>3</sup> Les partenariats sont enregistrés du lundi au vendredi, de 9 heures à 17 heures, ainsi que, si l'enregistrement a lieu dans la salle prévue à cet effet, les deuxième et quatrième samedis de chaque mois, de 10 heures à 17 heures.
-
-<sup>4</sup> L'enregistrement du partenariat a lieu dans les bureaux de l'office de l'état civil ou dans la salle d'enregistrement des partenariats.
-
-<sup>5</sup> L'office de l'état civil du canton de Vaud dispose des salles d'enregistrement des partenariats agréées par le département.
-
-[^19-2]: Modif. 3 du 27.09.2017: Modification Al. 5; entrée en vigueur au 01.01.2018 · Modif. 4 du 15.06.2022: Introduction Art. 3a; entrée en vigueur au 01.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 01.07.2022; Introduction Art. 14, Al. 1, d-g; entrée en vigueur au 01.07.2022; Abrogation tArt; entrée en vigueur au 01.07.2022; Abrogation Al. 1-5; entrée en vigueur au 01.07.2022
-[^20-1]: Ordonnance sur l'état civil du 28.04.2004 (RS 211.112.2)
+[^19-2]: Modif. 3 du 27.09.2017: Modification Al. 5; entrée en vigueur au 01.01.2018 · Modif. 4 du 15.06.2022: Abrogation tArt; entrée en vigueur au 01.07.2022; Abrogation Al. 1-5; entrée en vigueur au 01.07.2022
 
 #### Art. 21
 
-**Salles particulières [^20-2]**
+**Salles particulières [^20-1]**
 
-<sup>1</sup> Le département peut autoriser, sur demande, la mise à disposition de salles particulières, situées dans d'autres lieux que ceux prévus par l'office de l'état civil du canton de Vaud et jugées appropriées pour les célébrations de mariage et les enregistrements de partenariat. L'autorisation est révoquée si des circonstances surviennent qui en auraient empêché son octroi. Elle est caduque si l'offre n'a pas été mise à profit pendant une durée de deux ans.
+<sup>1</sup> Le service peut autoriser, sur demande, la mise à disposition de salles particulières, situées dans d'autres lieux que ceux prévus par l'office de l'état civil du canton de Vaud et jugées appropriées pour les célébrations de mariage. L'autorisation est révoquée si des circonstances surviennent qui en auraient empêché son octroi. Elle est caduque si l'offre n'a pas été mise à profit pendant une durée de deux ans.
 
 <sup>2</sup> Les frais liés à l'aménagement et à l'exploitation d'une salle particulière sont pris en charge par l'entité qui la met à disposition, par les fiancés ou les futurs partenaires qui l'utilisent. L'utilisation de cette salle n'est pas subordonnée à l'achat d'autres prestations.
 
 <sup>3</sup> …
 
-<sup>4</sup> Les célébrations de mariage et les enregistrements de partenariat dans les salles particulières sont possibles après entente entre les fiancés, respectivement les partenaires, et l'entité qui met la salle à disposition et si les circonstances le permettent. Il n'existe pas de droit à l'utilisation de telles salles.
+<sup>4</sup> Les célébrations de mariages dans les salles particulières sont possibles après entente entre les fiancés et l'entité qui met la salle à disposition et si les circonstances le permettent. Il n'existe pas de droit à l'utilisation de telles salles.
 
 <sup>5</sup> L'office de l'état civil du canton de Vaud est compétent pour régler les détails. En cas de désaccord, l'autorité cantonale de surveillance de l'état civil tranche définitivement.
 
 <sup>6</sup> L'office de l'état civil du canton de Vaud perçoit des émoluments et débours compris dans les limites fixées par le droit fédéral (ordonnance sur les émoluments en matière d'état civil, OEEC[^21-1]), en tenant compte en particulier du travail supplémentaire engendré par l'utilisation de telles salles.
 
-[^20-2]: Modif. 2 du 24.08.2016: Modification Al. 2; entrée en vigueur au 01.11.2016; Abrogation Al. 3; entrée en vigueur au 01.11.2016 · Modif. 3 du 27.09.2017: Modification Al. 1,5,6; entrée en vigueur au 01.01.2018 · Modif. 4 du 15.06.2022: Introduction Art. 3a; entrée en vigueur au 01.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 01.07.2022; Introduction Art. 14, Al. 1, d-g; entrée en vigueur au 01.07.2022; Modification Al. 1,4; entrée en vigueur au 01.07.2022
+[^20-1]: Modif. 2 du 24.08.2016: Modification Al. 2; entrée en vigueur au 01.11.2016; Abrogation Al. 3; entrée en vigueur au 01.11.2016 · Modif. 3 du 27.09.2017: Modification Al. 1,5,6; entrée en vigueur au 01.01.2018 · Modif. 4 du 15.06.2022: Modification Al. 1,4; entrée en vigueur au 01.07.2022
 [^21-1]: Ordonnance sur l'état civil du 28.04.2004 (RS 211.112.2)
 
 #### Art. 21a
@@ -305,15 +308,15 @@ arrête
 
 <sup>1</sup> Chaque site régional peut disposer jusqu'à trois lieux de célébration dans des salles particulières, aux fins de couvrir l'ensemble du territoire cantonal. Dans des cas exceptionnels, l'autorité cantonale de surveillance de l'état civil peut autoriser des salles particulières supplémentaires.
 
-<sup>2</sup> Les salles particulières doivent, pour obtenir l'autorisation du département, répondre aux critères suivants :
+<sup>2</sup> Les salles particulières doivent, pour obtenir l'autorisation du service, répondre aux critères suivants :
 
-- a. le lieu où se déroule la célébration de mariage ou de partenariat enregistré doit s'inscrire en priorité dans un site public, doté d'un cadre à caractère exceptionnel d'ordre historique (châteaux, bâtiments similaires, bateaux "belle époque", etc.), patrimonial (site culturel reconnu, monument classé, lieux possédant des particularités historiques, architecturales, etc.) ou touristique (situation originale, lieu touristique d'exception, etc.) ;
-- b. la salle particulière peut être utilisée tous les jours ouvrables, du lundi au samedi, en particulier jusqu'à trois samedis par mois ; elle doit être mise à disposition pour accueillir plus d'une célébration de mariage ou de partenariat enregistré le samedi ;
+- a. le lieu où se déroule la célébration de mariage doit s'inscrire en priorité dans un site public, doté d'un cadre à caractère exceptionnel d'ordre historique (châteaux, bâtiments similaires, bateaux "belle époque", etc.), patrimonial (site culturel reconnu, monument classé, lieux possédant des particularités historiques, architecturales, etc.) ou touristique (situation originale, lieu touristique d'exception, etc.) ;
+- b. la salle particulière peut être utilisée tous les jours ouvrables, du lundi au samedi, en particulier jusqu'à trois samedis par mois ; elle doit être mise à disposition pour accueillir plus d'une célébration de mariage le samedi ;
 - c. la salle particulière doit être accessible aux personnes à mobilité réduite.
 
 <sup>3</sup> Une convention précisant la mise à disposition et les modalités d'utilisation de chaque salle particulière est conclue entre le propriétaire-exploitant de la salle et l'autorité cantonale de surveillance de l'état civil.
 
-[^21-2]: Modif. 2 du 24.08.2016: Introduction Art. 21a; entrée en vigueur au 01.11.2016 · Modif. 3 du 27.09.2017: Modification Al. 1,3; entrée en vigueur au 01.01.2018 · Modif. 4 du 15.06.2022: Introduction Art. 3a; entrée en vigueur au 01.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 01.07.2022; Introduction Art. 14, Al. 1, d-g; entrée en vigueur au 01.07.2022; Modification Al. 2; entrée en vigueur au 01.07.2022; Modification Al. 2, a-b; entrée en vigueur au 01.07.2022
+[^21-2]: Modif. 2 du 24.08.2016: Introduction Art. 21a; entrée en vigueur au 01.11.2016 · Modif. 3 du 27.09.2017: Modification Al. 1,3; entrée en vigueur au 01.01.2018 · Modif. 4 du 15.06.2022: Modification Al. 2; entrée en vigueur au 01.07.2022; Modification Al. 2, a-b; entrée en vigueur au 01.07.2022
 
 ## Chapitre VII Dispositions finales
 
