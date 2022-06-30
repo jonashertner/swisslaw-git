@@ -4,13 +4,13 @@ number: "52"
 title: Verordnung zum Personalgesetz
 short: "Personalverordnung, PVO"
 language: de
-version: 2022-01-01
-valid_until: 2022-06-30
-version_adopted: 2020-10-20
+version: 2022-07-01
+valid_until: 2022-07-31
+version_adopted: 2022-04-12
 adopted: 2002-09-24
 in_force: 2003-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/52"
-pdf: "https://srl.lu.ch/api/de/versions/3859/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3915/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3859/pdf_file"
 
 (Personalverordnung, PVO)
 
-vom 24.09.2002 (Stand 01.01.2022)
+vom 24.09.2002 (Stand 01.07.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -534,13 +534,13 @@ beschliesst:
 
 <sup>1</sup> Die Angestellten haben bei folgenden Ereignissen Anspruch auf einen besoldeten Urlaub:
 
-- a. eigene zivile und kirchliche Trauung oder Eintragung der Partnerschaft insgesamt — 3 Arbeitstage
+- a. eigene zivile und kirchliche Trauung insgesamt — 3 Arbeitstage
 - b. Todesfall im eigenen Haushalt und in der Familie — 3 Arbeitstage
 - c. Wohnungswechsel — 1 Arbeitstag
 
 <sup>2</sup> Im Weiteren besteht bei folgenden Ereignissen, wenn diese in die Arbeitszeit fallen, Anspruch auf einen besoldeten Urlaub:
 
-- a. Trauung oder Eintragung einer Partnerschaft in der Familie oder bei naher Verwandtschaft — 1 Arbeitstag
+- a. Trauung in der Familie oder bei naher Verwandtschaft — 1 Arbeitstag
 - b. Tod von nahen Verwandten — 1 Arbeitstag
 - c. Tod von nahe stehenden Berufskolleginnen und –kollegen sowie von befreundeten Personen — ½ Arbeitstag
 - d. gerichtliche Vorladung als Partei oder Zeugin oder Zeuge — Teilnahme
@@ -607,11 +607,21 @@ beschliesst:
 
 <sup>3</sup> Der Zeitpunkt des Bezugs ist mit der zuständigen Behörde frühzeitig festzulegen.
 
+#### § 45a
+
+**Urlaub der gleichgeschlechtlichen Partnerin und des gleichgeschlechtlichen Partners**
+
+<sup>1</sup> Die oder der Angestellte hat Anspruch auf die Urlaube im Sinn von § 45, sofern sie oder er im Zeitpunkt der Geburt des Kindes mit der leiblichen Mutter beziehungsweise dem leiblichen Vater verheiratet ist oder in einer eheähnlichen Lebensgemeinschaft lebt.
+
 #### § 46
 
-**Urlaub bei Begründung eines Pflegekind-Verhältnisses**
+**Adoptionsurlaub**
 
-<sup>1</sup> Bei der Begründung eines Pflegekind-Verhältnisses im Hinblick auf eine spätere Adoption für ein nicht schulpflichtiges Kind kann die zuständige Behörde der oder dem Angestellten einen besoldeten Urlaub von maximal acht Wochen ab dem Zeitpunkt der Aufnahme des Kindes gewähren. Arbeiten beide Elternteile beim Kanton, kann ihnen für das gleiche Kind insgesamt nur ein Urlaub von maximal acht Wochen gewährt werden.
+<sup>1</sup> Die oder der Angestellte hat bei der Begründung eines Pflegekind-Verhältnisses im Hinblick auf eine spätere Adoption für ein weniger als vier Jahre altes Kind Anspruch auf einen besoldeten Adoptionsurlaub von zehn Arbeitstagen.
+
+<sup>2</sup> Sie oder er hat im ersten Jahr seit der Begründung eines Pflegekind-Verhältnisses Anspruch auf vier Wochen unbesoldeten Adoptionsurlaub. Der Bezug ist mit der zuständigen Behörde frühzeitig festzulegen.
+
+<sup>3</sup> Die Ansprüche gemäss den Absätzen 1 und 2 stehen beiden Elternteilen unabhängig voneinander zu. Der Bezug eines Urlaubs gemäss § 45a schliesst den Bezug eines Adoptionsurlaubes aus.
 
 #### § 46a
 
@@ -633,7 +643,7 @@ beschliesst:
 
 **Anrechnung und Abtretung der Entschädigungen gemäss Erwerbsersatzgesetz**
 
-<sup>1</sup> Soweit nichts Abweichendes geregelt ist, gilt für die Anrechnung und Abtretung der Mutterschafts-, der Vaterschafts- und der Betreuungsentschädigung gemäss Erwerbsersatzgesetz[^46b-1] § 33 dieser Verordnung.
+<sup>1</sup> Soweit nichts Abweichendes geregelt ist, gilt für die Anrechnung und Abtretung der zugesprochenen Entschädigung gemäss Erwerbsersatzgesetz[^46b-1] § 33 dieser Verordnung.
 
 [^46b-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de)
 
