@@ -4,13 +4,13 @@ number: "615.11"
 title: Gebührentarif
 short: GT
 language: de
-version: 2021-08-01
-valid_until: 2022-06-30
-version_adopted: 2020-09-08
+version: 2022-07-01
+valid_until: 2023-12-31
+version_adopted: 2021-08-31
 adopted: 2016-03-08
 in_force: 2016-07-15
 url: "https://bgs.so.ch/app/de/texts_of_law/615.11"
-pdf: "https://bgs.so.ch/api/de/versions/5089/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5186/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5089/pdf_file"
 
 (GT)
 
-Vom 08.03.2016 (Stand 01.08.2021)
+Vom 08.03.2016 (Stand 01.07.2022)
 
 Der Kantonsrat von Solothurn
 
@@ -1767,6 +1767,14 @@ beschliesst:
 - a) Erteilung oder Entzug einer Bewilligung — 500-2'000
 - b) Erneuerung einer Bewilligung oder Anpassung der Kautionshöhe — 250-1'000
 - c) Aufhebung einer Bewilligung oder Freigabe der Kaution — 250-500
+
+#### § 140bis
+
+**Submissionsrechtliche Sanktionen gegenüber Anbietern und Subunternehmern**
+
+<sup>1</sup> Die Gebühren für Verfügungen nach Artikel 45 der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (IVöB) vom 15. November 2019[^140bis-1] betragen 100-10'000 Franken.
+
+[^140bis-1]: BGS [721.532](https://bgs.so.ch/data/721.532/de).
 
 ## 3. Gebühren der Gerichte
 
