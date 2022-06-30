@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 1998 sull'organizzazione del Governo e dell'Am
 short: OLOGA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: it
-version: 2022-01-01
+version: 2022-07-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1999-170-20220101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20220701/it/xml/fedlex-data-admin-ch-eli-cc-1999-170-20220701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20220101/it"
 
 (OLOGA)
 
-del 25 novembre 1998 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 25 novembre 1998 (Stato 1° luglio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -800,12 +800,13 @@ Le pianificazioni del Consiglio federale constano di:
 
 <sup>3</sup> Le pianificazioni materiali e le pianificazioni finanziarie vengono armonizzate nella misura del possibile dal punto di vista temporale e materiale. Le singole sfere di competenza sono raggruppate in ambiti politici.
 
-<sup>4</sup> La Cancelleria federale prepara i piani materiali secondo il capoverso 2 lettera a. L’Amministrazione federale delle finanze prepara il preventivo e il piano finanziario. A tal fine, collaborano con i dipartimenti.
+<sup>4</sup> La Cancelleria federale prepara i piani materiali secondo il capoverso 2 lettera a. L’Amministrazione federale delle finanze (AFF)[^17-3] prepara il preventivo e il piano finanziario. A tal fine, collaborano con i dipartimenti.
 
 <sup>5</sup> Per le unità amministrative subordinate sono vincolanti le pianificazioni del Consiglio federale, rispettivamente dei Dipartimenti.
 
-[^17-1]: [[RU 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985), [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)n. II, [1996 3042](https://fedlex.data.admin.ch/eli/oc/1996/3042_3042_3042), [1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 2 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 11, [1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202)art. 7 n. 3 [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 5, [1999 3131](https://fedlex.data.admin.ch/eli/oc/1999/475), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 7, [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 n. 2, [2002 2471](https://fedlex.data.admin.ch/eli/oc/2002/327), [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634)[5191](https://fedlex.data.admin.ch/eli/oc/2003/764)[535](https://fedlex.data.admin.ch/eli/oc/2003/114), [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 6 [1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. n. II 3 [2143](https://fedlex.data.admin.ch/eli/oc/2004/246). [RU 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227)art. 64]. Vedi ora la LF del 7 ott. 2005 sulle finanze della Confederazione ([RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)).
-[^17-2]: [[RU 1990 996](https://fedlex.data.admin.ch/eli/oc/1990/996_996_996), [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)all. n. 4, [1995 3204](https://fedlex.data.admin.ch/eli/oc/1995/3204_3204_3204), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)I 42 [3043](https://fedlex.data.admin.ch/eli/oc/1996/3043_3043_3043), [1999 1167](https://fedlex.data.admin.ch/eli/oc/1999/154)all. n. 5, [2000 198](https://fedlex.data.admin.ch/eli/oc/2000/35)art. 32 n. 1, [2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56)art. 33 n. 2, [2003 537](https://fedlex.data.admin.ch/eli/oc/2003/115), [2004 4471](https://fedlex.data.admin.ch/eli/oc/2004/677)art. 15. [RU 2006 1295](https://fedlex.data.admin.ch/eli/oc/2006/228)art. 76]. Vedi ora l’O del 5 apr. 2006 sulle finanze della Confederazione ([RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)).
+[^17-1]: [[RU 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985); [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)n. II; [1996 3042](https://fedlex.data.admin.ch/eli/oc/1996/3042_3042_3042); [1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 2, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 11; [1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202)art. 7 n. 3, [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 5; [1999 3131](https://fedlex.data.admin.ch/eli/oc/1999/475); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 7; [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 n. 2; [2002 2471](https://fedlex.data.admin.ch/eli/oc/2002/327); [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634)[5191](https://fedlex.data.admin.ch/eli/oc/2003/764), [535](https://fedlex.data.admin.ch/eli/oc/2003/114); [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 6, [1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. n. II 3, [2143](https://fedlex.data.admin.ch/eli/oc/2004/246). [RU 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227)art. 64]. Vedi ora la LF del 7 ott. 2005 sulle finanze della Confederazione ([RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)).
+[^17-2]: [[RU 1990 996](https://fedlex.data.admin.ch/eli/oc/1990/996_996_996); [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)all. n. 4; [1995 3204](https://fedlex.data.admin.ch/eli/oc/1995/3204_3204_3204); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)I 42, [3043](https://fedlex.data.admin.ch/eli/oc/1996/3043_3043_3043); [1999 1167](https://fedlex.data.admin.ch/eli/oc/1999/154)all. n. 5; [2000 198](https://fedlex.data.admin.ch/eli/oc/2000/35)art. 32 n. 1; [2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56)art. 33 n. 2; [2003 537](https://fedlex.data.admin.ch/eli/oc/2003/115); [2004 4471](https://fedlex.data.admin.ch/eli/oc/2004/677)art. 15. [RU 2006 1295](https://fedlex.data.admin.ch/eli/oc/2006/228)art. 76]. Vedi ora l’O del 5 apr. 2006 sulle finanze della Confederazione ([RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)).
+[^17-3]: Nuova espr. giusta il n. I dell’O dell’11 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 179](https://fedlex.data.admin.ch/eli/oc/2022/179)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 18
 
@@ -821,7 +822,7 @@ Le pianificazioni del Consiglio federale constano di:
 
 <sup>3</sup> Stabiliscono gli obiettivi, i risultati perseguiti, nonché i provvedimenti prioritari e designano gli ambiti in cui l’offerta statale di prestazioni deve essere oggetto di un riesame o smantellata.
 
-[^18-1]: [[RU 1962 831](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831), [1966 1363](https://fedlex.data.admin.ch/eli/oc/1966/1325_1375_1363)[1753](https://fedlex.data.admin.ch/eli/oc/1966/__1753), [1970 1249](https://fedlex.data.admin.ch/eli/oc/1970/1253_1249_1249), [1972 245](https://fedlex.data.admin.ch/eli/oc/1972/241_245_245)[1686](https://fedlex.data.admin.ch/eli/oc/1972/1486_1514_1686), [1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)II n. 1, [1978 570](https://fedlex.data.admin.ch/eli/oc/1978/__570)[688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 2, [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)art. 66 [679](https://fedlex.data.admin.ch/eli/oc/1979/679_679_679)[1318](https://fedlex.data.admin.ch/eli/oc/1979/1318_1318_1318), [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768), [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452), [1986 1712](https://fedlex.data.admin.ch/eli/oc/1986/1712_1712_1712), [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 16 n. 3, [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257), [1990 1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)[1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 1, [1992 641](https://fedlex.data.admin.ch/eli/oc/1992/641_641_641)[2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344), [1994 360](https://fedlex.data.admin.ch/eli/oc/1994/360_360_360)[2147](https://fedlex.data.admin.ch/eli/oc/1994/2147_2147_2147), [1995 4840](https://fedlex.data.admin.ch/eli/oc/1995/4840_4840_4840), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 1 [2868](https://fedlex.data.admin.ch/eli/oc/1996/2868_2868_2868), [1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753)[760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)art. 1 [2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 4, [1998 646](https://fedlex.data.admin.ch/eli/oc/1998/646_646_646)[1418](https://fedlex.data.admin.ch/eli/oc/1998/1418_1418_1418)[2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 8, [1999 468](https://fedlex.data.admin.ch/eli/oc/1999/61), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)[2093](https://fedlex.data.admin.ch/eli/oc/2000/317), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)n. I 1,[2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 1, [2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310). [RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. n. I 3]. Vedi ora la L del 13 dic. 2002 sul Parlamento ([RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^18-1]: [[RU 1962 831](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831); [1966 1363](https://fedlex.data.admin.ch/eli/oc/1966/1325_1375_1363), [1753](https://fedlex.data.admin.ch/eli/oc/1966/__1753); [1970 1249](https://fedlex.data.admin.ch/eli/oc/1970/1253_1249_1249); [1972 245](https://fedlex.data.admin.ch/eli/oc/1972/241_245_245), [1686](https://fedlex.data.admin.ch/eli/oc/1972/1486_1514_1686); [1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)II n. 1; [1978 570](https://fedlex.data.admin.ch/eli/oc/1978/__570), [688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 2; [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)art. 66, [679](https://fedlex.data.admin.ch/eli/oc/1979/679_679_679), [1318](https://fedlex.data.admin.ch/eli/oc/1979/1318_1318_1318); [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768); [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452); [1986 1712](https://fedlex.data.admin.ch/eli/oc/1986/1712_1712_1712); [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 16 n. 3; [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257); [1990 1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530), [1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642); [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 1; [1992 641](https://fedlex.data.admin.ch/eli/oc/1992/641_641_641), [2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344); [1994 360](https://fedlex.data.admin.ch/eli/oc/1994/360_360_360), [2147](https://fedlex.data.admin.ch/eli/oc/1994/2147_2147_2147); [1995 4840](https://fedlex.data.admin.ch/eli/oc/1995/4840_4840_4840); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 1, [2868](https://fedlex.data.admin.ch/eli/oc/1996/2868_2868_2868); [1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753), [760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)art. 1 [2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 4; [1998 646](https://fedlex.data.admin.ch/eli/oc/1998/646_646_646), [1418](https://fedlex.data.admin.ch/eli/oc/1998/1418_1418_1418), [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 8; [1999 468](https://fedlex.data.admin.ch/eli/oc/1999/61); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54), [2093](https://fedlex.data.admin.ch/eli/oc/2000/317); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)n. I 1;[2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 1; [2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310). [RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. n. I 3]. Vedi ora la L del 13 dic. 2002 sul Parlamento ([RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
 #### Art. 19
 
@@ -911,7 +912,7 @@ I dipartimenti o i servizi da essi designati concludono con le loro unità ammin
 
 <sup>1</sup> I dipartimenti o i servizi da essi designati stabiliscono quando e in quale forma le unità amministrative presentano un rapporto sul conseguimento degli obiettivi e su eventuali misure correttive.
 
-<sup>2</sup> L’Amministrazione federale delle finanze emana istruzioni sulla verifica della struttura e degli obiettivi dei gruppi di prestazioni di cui all’articolo 38*a* capoverso 5 LOGA.
+<sup>2</sup> L’AFF emana istruzioni sulla verifica della struttura e degli obiettivi dei gruppi di prestazioni di cui all’articolo 38*a* capoverso 5 LOGA.
 
 ### Sezione 3*b*:**** Deroghe all’obbligo della doppia firma
 
@@ -970,6 +971,24 @@ Derogano dall’obbligo della doppia firma:
 
 <sup>3</sup> La vigilanza sull’Amministrazione federale decentralizzata, nonché sull’organizzazione e sulle persone conformemente all’articolo 2 capoverso 4 LOGA è disciplinata, quanto all’oggetto, all’estensione e ai principi, dalla legislazione speciale e rispetta il corrispondente grado di autonomia.
 
+#### Art. 24a
+
+**Unità rese autonome: vigilanza e orientamento strategico**[^24a-1]
+
+### (art. 8 cpv. 4 e 5 LOGA)
+
+<sup>1</sup> Il Consiglio federale assume in maniera globale il ruolo di proprietario ed espleta la vigilanza e l’orientamento strategico correlati nei confronti delle unità rese autonome secondo l’articolo 8 capoverso 5 LOGA.
+
+<sup>2</sup> Su mandato del Consiglio federale, il dipartimento con il più stretto legame con l’unità resa autonoma espleta la vigilanza, esercita i diritti del proprietario e funge da interlocutore nei confronti degli organi di direzione della stessa. Nel caso in cui un’unità resa autonoma rivesta grande importanza per le finanze federali, il dipartimento esercita i diritti del proprietario congiuntamente all’AFF. L’attribuzione delle unità rese autonome ai dipartimenti e l’esercizio congiunto con l’AFF dei diritti del proprietario sono elencati nell’allegato 3.
+
+<sup>3</sup> Se altri dipartimenti e altre unità amministrative hanno un legame con le unità rese autonome, questi devono essere coinvolti nell’adempimento dei compiti secondo il capoverso 2.
+
+<sup>4</sup> L’adempimento dei compiti secondo il capoverso 2 compete alla segreteria generale del dipartimento. Il dipartimento può delegare per scritto questa competenza a una segreteria di Stato o a un ufficio federale se non vi sono conflitti d’interesse, in particolare in materia di regolamentazione, vigilanza specialistica, ordinazione di prestazioni e concessione di sussidi.
+
+<sup>5</sup> L’AFF elabora le basi per la vigilanza e l’orientamento strategico delle unità rese autonome della Confederazione («Public Corporate Governance») e coordina la redazione dei rapporti. A tal fine collabora con i dipartimenti e le unità amministrative interessati.
+
+[^24a-1]: Introdotto dal n. I dell’O dell’11 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 179](https://fedlex.data.admin.ch/eli/oc/2022/179)).
+
 #### Art. 25
 
 **Controllo**
@@ -1005,7 +1024,7 @@ Nell’esercizio dei compiti legali di controllo, il Consiglio federale e il pre
 
 <sup>2</sup> La Conferenza dei Segretari generali assume un ruolo di coordinamento.
 
-<sup>3</sup> L’Amministrazione federale delle finanze coordina, in collaborazione con la Conferenza dei segretari generali, il controllo di cui al capoverso 1 con il riesame di cui all’articolo 5 della legge del 5 ottobre 1990[^27-2] sui sussidi.[^27-3]
+<sup>3</sup> L’AFF coordina, in collaborazione con la Conferenza dei segretari generali, il controllo di cui al capoverso 1 con il riesame di cui all’articolo 5 della legge del 5 ottobre 1990[^27-2] sui sussidi.[^27-3]
 
 [^27-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2002, in vigore dal 1° ott. 2002 ([RU 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
 [^27-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
@@ -1373,7 +1392,7 @@ Il decreto del Consiglio federale del 7 luglio 1971[^34-1] che dà facoltà ai D
 
 <sup>2</sup> Gli articoli 26 e 27 entrano in vigore simultaneamente all’ordinanza del 5 maggio 1999[^35-1] sull’organizzazione della Cancelleria federale.
 
-[^35-1]: [[RU 1999 1757](https://fedlex.data.admin.ch/eli/oc/1999/281), [2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)n. III, [2004 4521](https://fedlex.data.admin.ch/eli/oc/2004/684), [2007 349](https://fedlex.data.admin.ch/eli/oc/2007/67)[4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 7. [RU 2008 5153](https://fedlex.data.admin.ch/eli/oc/2008/719)art. 11]. In vigore dal 1° giu. 1999.
+[^35-1]: [[RU 1999 1757](https://fedlex.data.admin.ch/eli/oc/1999/281); [2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)n. III; [2004 4521](https://fedlex.data.admin.ch/eli/oc/2004/684); [2007 349](https://fedlex.data.admin.ch/eli/oc/2007/67), [4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 7. [RU 2008 5153](https://fedlex.data.admin.ch/eli/oc/2008/719)art. 11]. In vigore dal 1° giu. 1999.
 
 ## Disposizione transitoria relativa alla modifica del 26 novembre 2008****
 
@@ -1647,4 +1666,35 @@ Allegato 2*[^t-2]*
 
 Allegato 3*[^t-3]*
 
-[^t-3]: Introdotto dall’O del 27 nov. 2009 ([RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Abrogato dal n. II cpv. 2 dell’O del 30 giu. 2010, con effetto dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+(art. 24*a* cpv. 2 e 3)
+
+## Attribuzione delle unità rese autonome al dipartimento con il più stretto legame ed esercizio congiunto con l’AFF dei diritti del proprietario
+
+[^t-3]: Introdotto dall’O del 27 nov. 2009 ([RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Nuovo testo giusta l’O dell’11 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 179](https://fedlex.data.admin.ch/eli/oc/2022/179)).
+
+<table>
+<tr><th>Unità resa autonoma</th><th>Dipartimento con il più stretto legame con l’unità resa autonoma e unità amministrativa competente</th><th>Esercizio congiunto dei diritti del proprietario</th></tr>
+<tr><td>MNS</td><td>DFI (SG)</td><td></td></tr>
+<tr><td>Pro Helvetia</td><td>DFI (SG)</td><td></td></tr>
+<tr><td>Swissmedic</td><td>DFI (SG)</td><td></td></tr>
+<tr><td>METAS</td><td>DFGP (SG)</td><td></td></tr>
+<tr><td>IPI</td><td>DFGP (SG)</td><td></td></tr>
+<tr><td>ASR</td><td>DFGP (SG)</td><td></td></tr>
+<tr><td>ISDC</td><td>DFGP (SG)</td><td></td></tr>
+<tr><td>FINMA</td><td>DFF (SG / SFI)</td><td></td></tr>
+<tr><td>Settore dei PF</td><td>DEFR (SG)</td><td>DFF (AFF)</td></tr>
+<tr><td>SUFFP</td><td>DEFR (SG)</td><td></td></tr>
+<tr><td>ASRE</td><td>DEFR (SECO)</td><td>DFF (AFF)</td></tr>
+<tr><td>SIFEM SA</td><td>DEFR (SECO)</td><td></td></tr>
+<tr><td>Identitas SA</td><td>DFI (USAV) / DEFR (SG)</td><td></td></tr>
+<tr><td>Innosuisse</td><td>DEFR (SG)</td><td></td></tr>
+<tr><td>BGRB Holding SA</td><td>DDPS (SG)</td><td>DFF (AFF)</td></tr>
+<tr><td>RUAG MRO Holding SA</td><td>DDPS (SG)</td><td>DFF (AFF)</td></tr>
+<tr><td>RUAG International Holding SA</td><td>DFF (AFF)</td><td>DDPS (SG)</td></tr>
+<tr><td>Swisscom SA</td><td>DATEC (SG)</td><td>DFF (AFF)</td></tr>
+<tr><td>La Posta Svizzera SA</td><td>DATEC (SG)</td><td>DFF (AFF)</td></tr>
+<tr><td>FFS SA</td><td>DATEC (SG)</td><td>DFF (AFF)</td></tr>
+<tr><td>Skyguide</td><td>DATEC (SG) / DDPS (SG)</td><td>DFF (AFF)</td></tr>
+<tr><td>IFSN</td><td>DATEC (SG)</td><td></td></tr>
+<tr><td>Servizio di assegnazione delle tracce</td><td>DATEC (SG)</td><td></td></tr>
+</table>
