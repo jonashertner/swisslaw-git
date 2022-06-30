@@ -3,20 +3,20 @@ sr: "837.033"
 title: Verordnung vom 20. März 2020 über Massnahmen im Bereich der Arbeitslosenversicherung im Zusammenhang mit dem Coronavirus (Covid-19) (Covid-19-Verordnung Arbeitslosenversicherung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/169"
 language: de
-version: 2022-04-01
+version: 2022-07-01
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2020-169-20220401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20220401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2020-169-20220701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Bereich der Arbeitslosenversicherung im Zusammenhang mit dem Coronavirus (Covid-19)
 
-(Covid-19-Verordnung Arbeitslosenversicherung)**[^t-1]**
+(Covid-19-Verordnung Arbeitslosenversicherung)[^t-1]
 
-vom 20. März 2020 (Stand am 1. April 2022)
+vom 20. März 2020 (Stand am 1. Juli 2022)
 
 [^t-1]: Ausdruck gemäss Ziff. I 8 der V vom 7. Okt. 2020 über die Abstützung der Covid-19-Verordnungen auf das Covid-19-Gesetz, in Kraft seit 8. Okt. 2020 ([AS 2020 3971](https://fedlex.data.admin.ch/eli/oc/2020/737)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
@@ -139,9 +139,7 @@ verordnet:
 
 [^8k-1]
 
-Die Höchstdauer der Kurzarbeitsentschädigung wird um zwölf Abrechnungsperioden verlängert.
-
-[^8k-1]: Eingefügt durch Ziff. I der V vom 23. Juni 2021 (Erhöhung der Höchstdauer für den Bezug von Kurzarbeitsentschädigung und Verlängerung der Geltungsdauer weiterer Massnahmen), in Kraft seit 1. Juli 2021 ([AS 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+[^8k-1]: Eingefügt durch Ziff. I der V vom 23. Juni 2021 (Erhöhung der Höchstdauer für den Bezug von Kurzarbeitsentschädigung und Verlängerung der Geltungsdauer weiterer Massnahmen) ([AS 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)). In Kraft bis 30. Juni 2022 (Art. 9 Abs. 8 und 9).
 
 #### Art. 9
 

@@ -3,11 +3,11 @@ sr: "837.033"
 title: "Ordonnance du 20 mars 2020 sur les mesures dans le domaine de l'assurance-chômage en lien avec le coronavirus (COVID-19) (Ordonnance COVID-19 assurance-chômage)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/169"
 language: fr
-version: 2022-04-01
+version: 2022-07-01
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2020-169-20220401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20220401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2020-169-20220701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20220401/fr"
 
 (Ordonnance COVID-19 assurance-chômage)
 
-du 20 mars 2020 (Etat le 1<sup>er</sup> avril 2022)
+du 20 mars 2020 (État le 1<sup>er</sup> juillet 2022)
 
 Le Conseil fédéral suisse,
 
@@ -137,9 +137,7 @@ arrête:
 
 [^8k-1]
 
-La durée maximale de l’indemnité en cas de réduction de l’horaire de travail est prolongée de douze périodes de décompte.
-
-[^8k-1]: Introduit par le ch. I de l’O du 23 juin 2021 (Hausse de la durée maximale de perception de l’indemnité en cas de réduction de l’horaire de travail et prolongation de la durée de validité d’autres mesures), en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+[^8k-1]: Introduit par le ch. I de l’O du 23 juin 2021 (Hausse de la durée maximale de perception de l’indemnité en cas de réduction de l’horaire de travail et prolongation de la durée de validité d’autres mesures) ([RO 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)). En vigueur jusqu’au 30 juin 2022 (art. 9, al. 8 et 9).
 
 #### Art. 9
 

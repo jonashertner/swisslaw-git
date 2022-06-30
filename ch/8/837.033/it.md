@@ -3,11 +3,11 @@ sr: "837.033"
 title: "Ordinanza del 20 marzo 2020 sulle misure nel settore dell'assicurazione contro la disoccupazione riguardo al coronavirus (COVID-19) (Ordinanza COVID-19 assicurazione contro la disoccupazione)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/169"
 language: it
-version: 2022-04-01
+version: 2022-07-01
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2020-169-20220401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20220401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2020-169-20220701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20220401/it"
 
 (Ordinanza COVID-19 assicurazione contro la disoccupazione)
 
-del 20 marzo 2020 (Stato 1° aprile 2022)
+del 20 marzo 2020 (Stato 1° luglio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -137,9 +137,7 @@ ordina:
 
 [^8k-1]
 
-La durata massima dell’indennità per lavoro ridotto è prolungata di dodici periodi di conteggio.
-
-[^8k-1]: Introdotto dal n. I dell’O del 23 giu. 2021 (Aumento della durata massima di riscossione dell’indennità per lavoro ridotto e proroga della durata di validità di altre misure), in vigore dal 1° lug. 2021 ([RU 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+[^8k-1]: Introdotto dal n. I dell’O del 23 giu. 2021 (Aumento della durata massima di riscossione dell’indennità per lavoro ridotto e proroga della durata di validità di altre misure) ([RU 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)). In vigore fino al 30 giu. 2022 (art. 9 cpv. 8 e 9).
 
 #### Art. 9
 
