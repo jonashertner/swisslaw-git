@@ -4,13 +4,13 @@ number: "480.11"
 title: Reglement über die kulturellen Angelegenheiten
 short: KAR
 language: de
-version: 2019-10-01
-valid_until: 2022-06-30
-version_adopted: 2019-09-24
+version: 2022-07-01
+valid_until: 2023-07-30
+version_adopted: 2022-07-04
 adopted: 2007-12-10
 in_force: 2008-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/480.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6106/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7517/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Kulturelle Angelegenheiten – R
 
 (KAR)
 
-vom 10.12.2007 (Fassung in Kraft getreten am 01.10.2019)
+vom 10.12.2007 (Fassung in Kraft getreten am 01.07.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -113,7 +113,7 @@ beschliesst:
 
 <sup>1</sup> Subventionsgesuche müssen zusammen mit der Präsentation des Projekts, einem detaillierten Kostenvoranschlag und einem Finanzierungsplan an das Amt für Kultur (das Amt) gerichtet werden. Wer ein Gesuch stellt, muss auf Verlangen alle weiteren Auskünfte und die erforderlichen Belege einreichen.
 
-<sup>2</sup> Die Direktion für Erziehung, Kultur und Sport (die Direktion) entscheidet, ob die beantragte Subvention ganz oder teilweise gewährt wird.
+<sup>2</sup> Die Direktion für Bildung und kulturelle Angelegenheiten (die Direktion) entscheidet, ob die beantragte Subvention ganz oder teilweise gewährt wird.
 
 <sup>2<sup>bis</sup></sup> Die Direktion kann für die Gewährung von Subventionen besondere Bestimmungen in Form von Weisungen erlassen.
 
@@ -416,9 +416,9 @@ beschliesst:
 
 **Zweck und Organisation**
 
-<sup>1</sup> Der Staat schafft ein Förderprogramm «Sport-Kunst-Ausbildung» unter der Leitung des Amts für Sport, das jungen Kunsttalenten erlauben soll, ihre schulische Ausbildung mit der Ausübung einer Kunst auf hohem Niveau zu verbinden.
+<sup>1</sup> Der Staat schafft ein Förderprogramm «Sport-Kunst-Ausbildung», das vom Amt koordiniert wird und das jungen Kunsttalenten erlauben soll, ihre schulische Ausbildung mit der Ausübung einer Kunst auf hohem Niveau zu verbinden; das Amt betreibt dafür eine zentrale Anlaufstelle für Sport- und Kunsttalente (die zentrale Anlaufstelle).
 
-<sup>2</sup> Die Direktion legt das Zulassungsverfahren, die Massnahmen und die Organisation des Förderprogramms fest.
+<sup>2</sup> Die Direktion legt in Absprache mit der Sicherheits-, Justiz- und Sportdirektion das Zulassungsverfahren, die Massnahmen und die Organisation des Förderprogramms fest.
 
 <sup>3</sup> Die schulischen Massnahmen des Förderprogramms werden in der Schulgesetzgebung geregelt.
 
@@ -440,19 +440,19 @@ beschliesst:
 
 **Gesuch**
 
-<sup>1</sup> Das Gesuch muss jeweils bis zum 15. Februar vor Beginn des folgenden Schuljahres an das Amt für Sport gerichtet werden.
+<sup>1</sup> Das Gesuch ist jeweils bis zum 15. Februar vor Beginn des folgenden Schuljahres an die zentrale Anlaufstelle zu richten. Das Amt für Sport leitet es innert kurzer Frist an das Konservatorium weiter.
 
-<sup>2</sup> Nach Rücksprache mit dem Amt für Kultur prüft das Amt für Sport, ob alle Voraussetzungen gemäss Artikel 34b erfüllt sind, und teilt seine Stellungnahme der zuständigen Schuldirektion mit.
+<sup>2</sup> Das Konservatorium prüft, ob alle Voraussetzungen gemäss Artikel 34b erfüllt sind, und teilt seine Stellungnahme der zuständigen Schuldirektion mit.
 
 #### Art. 34d
 
 **Entscheid**
 
-<sup>1</sup> Die Schuldirektion entscheidet unter Berücksichtigung der Stellungnahme des Amtes für Sport über die Zulassung einer Schülerin oder eines Schülers zum Förderprogramm.
+<sup>1</sup> Die Schuldirektion entscheidet unter Berücksichtigung der Stellungnahme des Konservatoriums über die Zulassung einer Schülerin oder eines Schülers zum Förderprogramm und lässt dem Amt für Sport eine Kopie des Entscheids zukommen.
 
 <sup>2</sup> Sie kann mit der zugelassenen Person eine Vereinbarung abschliessen, in der die vorgesehenen Massnahmen, die besonderen Pflichten beim Schulbesuch und bei der Ausübung der Kunst sowie die möglichen Folgen einer Missachtung dieser Pflichten festgelegt werden.
 
-<sup>3</sup> Der Entscheid über die Zulassung zum Programm ist nur für ein Schuljahr gültig und kann gegebenenfalls verlängert werden, wenn alle Voraussetzungen gemäss Artikel 34b erfüllt sind und die Verpflichtungen der Vereinbarung vollumfänglich eingehalten wurden.
+<sup>3</sup> Der Entscheid über die Zulassung zum Programm und die schulischen Massnahmen sind nur für ein Schuljahr gültig. Sie können gegebenenfalls verlängert werden, wenn alle Voraussetzungen gemäss Artikel 34b erfüllt sind und die Verpflichtungen der Vereinbarung vollumfänglich eingehalten wurden.
 
 #### Art. 34e
 
@@ -477,9 +477,9 @@ beschliesst:
 
 **Übernahme von Schulkosten in einem anderen Kanton – Gesuch**
 
-<sup>1</sup> Das Gesuch muss jeweils bis zum 15. Februar vor Beginn des folgenden Schuljahres an das Amt für Sport gerichtet werden.
+<sup>1</sup> Das Gesuch ist jeweils bis zum 15. Februar vor Beginn des folgenden Schuljahres an die zentrale Anlaufstelle zu richten. Das Amt für Sport leitet es innert kurzer Frist an das Konservatorium weiter.
 
-<sup>2</sup> Nach Rücksprache mit dem Amt für Kultur prüft das Amt für Sport, ob alle Voraussetzungen gemäss Artikel 34e erfüllt sind, und teilt seine Stellungnahme der Direktion mit.
+<sup>2</sup> Das Konservatorium prüft, ob alle Voraussetzungen gemäss Artikel 34e erfüllt sind, und teilt seine Stellungnahme der Direktion mit.
 
 #### Art. 34g
 
@@ -487,7 +487,9 @@ beschliesst:
 
 <sup>1</sup> Die Direktion entscheidet über den Grundsatz der Beitragsleistung und die Höhe des Beitrags an die Schulkosten in einem anderen Kanton.
 
-<sup>2</sup> Der Beitrag darf die Kantonsbeiträge für die entsprechende Schulstufe oder den entsprechenden Ausbildungsgang, die in den regionalen und interkantonalen Schulvereinbarungen für den Schulbesuch ausserhalb des Wohnkantons festgelegt werden, nicht überschreiten.
+<sup>2</sup> Der Beitrag darf die in den regionalen und interkantonalen Schulvereinbarungen für den Schulbesuch ausserhalb des Wohnkantons festgelegten Kantonsbeiträge für die entsprechende Schulstufe oder den entsprechenden Ausbildungsgang nicht überschreiten, auch dann, wenn mit dem Aufnahmekanton keine Vereinbarung abgeschlossen wurde.
+
+<sup>2a</sup> Wenn mit dem Aufnahmekanton keine Schulvereinbarung abgeschlossen wurde, übernimmt der kantonale Kulturfonds die Schulkosten in einem anderen Kanton.
 
 <sup>3</sup> Der Entscheid über die Beitragsleistung an die Schulkosten ist nur für ein Schuljahr gültig und kann gegebenenfalls verlängert werden, wenn alle Voraussetzungen gemäss Artikel 34e erfüllt sind.
 

@@ -4,13 +4,13 @@ number: "480.11"
 title: Règlement sur les affaires culturelles
 short: RAC
 language: fr
-version: 2019-10-01
-valid_until: 2022-06-30
-version_adopted: 2019-09-24
+version: 2022-07-01
+valid_until: 2023-07-30
+version_adopted: 2022-07-04
 adopted: 2007-12-10
 in_force: 2008-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/480.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6106/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7517/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Affaires culturelles – R
 
 (RAC)
 
-du 10.12.2007 (version entrée en vigueur le 01.10.2019)
+du 10.12.2007 (version entrée en vigueur le 01.07.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -113,7 +113,7 @@ Arrête:
 
 <sup>1</sup> Toute demande de subvention doit être adressée au Service de la culture (ci-après: le Service), accompagnée d'une présentation de l'activité envisagée, d'un budget détaillé et d'un plan de financement. Le requérant ou la requérante a l'obligation de fournir, sur demande, tous les autres renseignements et pièces justificatives nécessaires.
 
-<sup>2</sup> La Direction de l'instruction publique, de la culture et du sport (ci-après: la Direction) est compétente pour décider de l'octroi de la subvention demandée ou d'une partie seulement de celle-ci.
+<sup>2</sup> La Direction de la formation et des affaires culturelles (ci-après: la Direction) est compétente pour décider de l'octroi de la subvention demandée ou d'une partie seulement de celle-ci.
 
 <sup>2<sup>bis</sup></sup> La Direction peut arrêter des dispositions particulières en matière d'octroi de subventions sous la forme de directives.
 
@@ -416,9 +416,9 @@ Arrête:
 
 **But et organisation**
 
-<sup>1</sup> L'Etat met en œuvre un programme «sports-arts-formation», piloté par le Service du sport, permettant aux jeunes artistes de talent de concilier leur formation scolaire et la pratique d'un art de haut niveau.
+<sup>1</sup> L'Etat met en œuvre un programme «sports-arts-formation», coordonné par le Service du sport, lequel gère un guichet unique pour les artistes et sportifs et sportives de talent (ci-après: le guichet), permettant aux jeunes artistes de talent de concilier leur formation scolaire et la pratique d'un art de haut niveau.
 
-<sup>2</sup> La Direction détermine la procédure d'admission, les mesures ainsi que l'organisation du programme.
+<sup>2</sup> La Direction détermine, en concertation avec la Direction de la sécurité, de la justice et du sport, la procédure d'admission, les mesures ainsi que l'organisation du programme.
 
 <sup>3</sup> Les mesures scolaires du programme ressortissent à la législation scolaire.
 
@@ -440,19 +440,19 @@ Arrête:
 
 **Demande**
 
-<sup>1</sup> La demande doit être adressée au Service du sport jusqu'au 15 février précédant l'année scolaire suivante.
+<sup>1</sup> La demande doit être adressée au guichet jusqu'au 15 février précédant l'année scolaire suivante. Le Service du sport la transmet au Conservatoire à bref délai.
 
-<sup>2</sup> Après avoir consulté le Service de la culture, le Service du sport examine si toutes les conditions de l'article 34b sont remplies et transmet son préavis à la direction d'école compétente.
+<sup>2</sup> Le Conservatoire examine si toutes les conditions de l'article 34b sont remplies et transmet son préavis à la direction d'école compétente.
 
 #### Art. 34d
 
 **Décision**
 
-<sup>1</sup> La direction de l'école décide de l'admission d'un ou d'une élève au programme, en tenant compte du préavis du Service du sport.
+<sup>1</sup> La direction de l'école décide de l'admission d'un ou d'une élève au programme, en tenant compte du préavis du Conservatoire et transmet une copie au Service du sport.
 
 <sup>2</sup> Elle est habilitée à conclure une convention avec la personne admise, fixant les mesures convenues, les devoirs spécifiques relatifs au suivi scolaire et à la pratique de l'art ainsi que les conséquences possibles de leur inobservation.
 
-<sup>3</sup> La décision d'admission au programme n'est valable que pour la durée d'une année scolaire et peut être renouvelée, le cas échéant, si les conditions fixées par l'article 34b sont remplies et si les engagements de la convention ont été pleinement respectés.
+<sup>3</sup> La décision d'admission au programme et les mesures scolaires ne sont valables que pour la durée d'une année scolaire et peuvent être renouvelées, le cas échéant, si les conditions fixées par l'article 34b sont remplies et si les engagements de la convention ont été pleinement respectés.
 
 #### Art. 34e
 
@@ -477,9 +477,9 @@ Arrête:
 
 **Prise en charge de frais d'écolage dans un autre canton – Demande**
 
-<sup>1</sup> La demande doit être adressée au Service du sport, jusqu'au 15 février précédant l'année scolaire suivante.
+<sup>1</sup> La demande doit être adressée au guichet, jusqu'au 15 février précédant l'année scolaire suivante. Le Service du sport la transmet au Conservatoire à bref délai.
 
-<sup>2</sup> Après avoir consulté le Service de la culture, le Service du sport examine si toutes les conditions de l'article 34e sont remplies et transmet son préavis à la Direction.
+<sup>2</sup> Le Conservatoire examine si toutes les conditions de l'article 34e sont remplies et transmet son préavis à la Direction.
 
 #### Art. 34g
 
@@ -487,7 +487,9 @@ Arrête:
 
 <sup>1</sup> La Direction décide du principe et du montant de la prise en charge des frais d'écolage dans un autre canton.
 
-<sup>2</sup> Le montant de l'aide ne peut pas dépasser les contributions cantonales fixées par les conventions scolaires régionales et intercantonales en matière de fréquentation d'une école dans un canton autre que celui de domicile pour le degré scolaire et la filière de formation correspondants.
+<sup>2</sup> Le montant de l'aide ne peut pas dépasser les contributions cantonales fixées par les conventions scolaires régionales et intercantonales en matière de fréquentation d'une école dans un canton autre que celui de domicile pour le degré scolaire et la filière de formation correspondants, y compris lorsque le canton d'accueil n'est pas conventionné.
+
+<sup>2a</sup> A défaut de convention scolaire avec le canton d'accueil, les frais d'écolage dans un autre canton sont pris en charge par le biais du Fonds cantonal de la culture.
 
 <sup>3</sup> La décision de participation aux frais d'écolage n'est valable que pour la durée d'une année solaire et peut être renouvelée, le cas échéant, si toutes les conditions de l'article 34e sont remplies.
 
