@@ -4,13 +4,13 @@ number: "935.520"
 title: "Ordonnance cantonale sur les jeux d'argent"
 short: OCJAr
 language: fr
-version: 2021-01-01
-valid_until: 2022-06-30
-version_adopted: 2020-12-02
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2022-05-25
 adopted: 2020-12-02
 in_force: 2021-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/935.520"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2092/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2610/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2092/pdf_file"
 
 (OCJAr)
 
-du 02.12.2020 (état au 01.01.2021)
+du 02.12.2020 (état au 01.07.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -110,7 +110,7 @@ arrête:
 
 **Demande**
 
-<sup>1</sup> La demande visant l'émission d'une petite loterie doit être déposée auprès du Secrétariat général de la Direction de la sécurité au plus tard le 30 septembre de l'année précédant le début prévu de la mise en vente des billets.
+<sup>1</sup> La demande visant l'émission d'une petite loterie doit être déposée auprès du Secrétariat général de la Direction de la sécurité au plus tard trois mois avant le début prévu de la mise en vente des billets.
 
 #### Art. 9
 
@@ -545,6 +545,11 @@ arrête:
 
 <sup>2</sup> Seules des personnes morales d'utilité publique peuvent bénéficier de subventions pour des biens du patrimoine mobilier technique.
 
+<sup>2a</sup> Il est possible de renoncer à l'exigence définie à l'alinéa 2 si les biens du patrimoine mobilier technique
+
+- a appartiennent à une entreprise de transport concessionnaire et
+- b sont utilisés pour le transport régulier de voyageurs selon un horaire.
+
 <sup>3</sup> Lorsque des biens du patrimoine mobilier technique sont utilisés exclusivement à des fins muséales, ils doivent en outre appartenir à une collection d'importance nationale.
 
 #### Art. 50
@@ -579,7 +584,10 @@ arrête:
 
 <sup>2</sup> Le Secrétariat général de la Direction de la sécurité et l'Office de la culture dressent un bilan intermédiaire au plus tard à la moitié de la période quadriennale et prennent les mesures qui s'imposent.
 
-<sup>3</sup> Les subventions destinées aux sites archéologiques, aux lieux de découvertes et aux ruines ne sont pas soumises au plafond prévu à l'alinéa 1.
+<sup>3</sup> Les subventions destinées aux sites archéologiques, aux lieux de découvertes et aux ruines
+
+- a ne sont pas soumises au plafond prévu à l'alinéa 1,
+- b peuvent s'élever à 70 pour cent au plus des frais déterminants.
 
 ### 4.2.4 Nature et protection de l'environnement
 
@@ -789,9 +797,9 @@ arrête:
 
 - a les manifestations à caractère commercial,
 - b le sport professionnel,
-- c les sports motorisés,
+- c les sports motorisés, à l'exception du vol à voile,
 - d les sports extrêmes et à risque,
-- e les sports de réflexion,
+- e les sports de réflexion, à l'exception des échecs,
 - f l'e-sport,
 - g les sports centrés sur des animaux,
 - h les publications scientifiques, les congrès et les travaux et activités comparables en lien avec le sport,
@@ -913,7 +921,9 @@ arrête:
 
 **Relève dans le sport de compétition**
 
-<sup>1</sup> Des subventions visant la promotion de la relève dans le sport de compétition peuvent être octroyées pour la relève des cadres et les jeunes talents âgés de 5 à 20 ans et domiciliés dans le canton, jusqu'à concurrence de trois millions de francs par année civile.
+<sup>1</sup> Des subventions visant la promotion de la relève dans le sport de compétition peuvent être octroyées pour la relève des cadres et les jeunes talents âgés de 5 à 20 ans et domiciliés dans le canton, jusqu'à concurrence de quatre millions de francs par année civile.
+
+<sup>1a</sup> Elles peuvent s'élever à 75 pour cent au plus des dépenses totales engagées par la requérante ou le requérant pour la promotion de la relève.
 
 <sup>2</sup> Elles peuvent être octroyées
 
@@ -1168,6 +1178,14 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2021.
+
+## T1 Dispositions transitoires de la modification du 25.05.2022
+
+#### Art. T1-1
+
+<sup>1</sup> Les demandes pendantes en première instance au moment de l'entrée en vigueur de la présente modification sont régies par le nouveau droit.
+
+<sup>2</sup> Les promesses de subvention accordées selon l'ancien droit restent valables.
 
 Berne, le 2 décembre 2020
 

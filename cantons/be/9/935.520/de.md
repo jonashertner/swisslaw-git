@@ -4,13 +4,13 @@ number: "935.520"
 title: Kantonale Geldspielverordnung
 short: KGSV
 language: de
-version: 2021-01-01
-valid_until: 2022-06-30
-version_adopted: 2020-12-02
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2022-05-25
 adopted: 2020-12-02
 in_force: 2021-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/935.520"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2092/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2610/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2092/pdf_file"
 
 (KGSV)
 
-vom 02.12.2020 (Stand 01.01.2021)
+vom 02.12.2020 (Stand 01.07.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -110,7 +110,7 @@ beschliesst:
 
 **Gesuch**
 
-<sup>1</sup> Das Gesuch für die Ausgabe einer Kleinlotterie muss bis am 30. September des Jahres vor dem vorgesehenen Beginn des Losverkaufs beim Generalsekretariat der Sicherheitsdirektion eingereicht werden.
+<sup>1</sup> Das Gesuch für die Ausgabe einer Kleinlotterie muss bis spätestens drei Monate vor dem vorgesehenen Beginn des Losverkaufs beim Generalsekretariat der Sicherheitsdirektion eingereicht werden.
 
 #### Art. 9
 
@@ -545,6 +545,11 @@ beschliesst:
 
 <sup>2</sup> Beiträge an mobile technische Denkmäler können ausschliesslich an gemeinnützige juristische Personen gewährt werden.
 
+<sup>2a</sup> Vom Erfordernis gemäss Absatz 2 kann abgesehen werden, wenn die mobilen technischen Denkmäler
+
+- a im Eigentum eines konzessionierten Transportunternehmens stehen sowie
+- b für regelmässige und fahrplanmässige Personenbeförderungen eingesetzt werden.
+
 <sup>3</sup> Bei einer ausschliesslich musealen Nutzung von mobilen technischen Denkmälern ist zusätzlich deren Zugehörigkeit zu einer Sammlung von nationaler Bedeutung erforderlich.
 
 #### Art. 50
@@ -579,7 +584,10 @@ beschliesst:
 
 <sup>2</sup> Das Generalsekretariat der Sicherheitsdirektion und das Amt für Kultur ziehen spätestens zur Hälfte der Vierjahresperiode eine Zwischenbilanz und ergreifen die erforderlichen Massnahmen.
 
-<sup>3</sup> Beiträge an archäologische Stätten, Fundstellen und Ruinen sind von der Beitragsgrenze gemäss Absatz 1 nicht erfasst.
+<sup>3</sup> Beiträge an archäologische Stätten, Fundstellen und Ruinen
+
+- a sind von der Beitragsgrenze gemäss Absatz 1 nicht erfasst,
+- b können höchstens 70 Prozent der relevanten Kosten ausmachen.
 
 ### 4.2.4 Natur und Umweltschutz
 
@@ -789,9 +797,9 @@ beschliesst:
 
 - a kommerzielle Veranstaltungen,
 - b der Profi-Sport,
-- c von Motorantrieben abhängige Sportarten,
+- c von Motorantrieben abhängige Sportarten, mit Ausnahme des Segelfliegens,
 - d Extrem- und Risikosportarten,
-- e Denksportarten,
+- e Denksportarten, mit Ausnahme des Schachs,
 - f E-Sport,
 - g Tiersportarten, bei welchen primär das Tier im Fokus steht,
 - h wissenschaftliche Publikationen, Kongresse und Vergleichbares zum Thema Sport,
@@ -913,7 +921,9 @@ beschliesst:
 
 **Nachwuchs-Leistungssport**
 
-<sup>1</sup> Nachwuchsförderbeiträge im Leistungssport können für die Unterstützung von Kadernachwuchs oder Talenten zwischen 5 und 20 Jahren mit Wohnsitz im Kanton pro Kalenderjahr höchstens drei Millionen Franken gewährt werden.
+<sup>1</sup> Für Nachwuchsförderbeiträge im Leistungssport können für die Unterstützung von Kadernachwuchs oder Talenten zwischen 5 und 20 Jahren mit Wohnsitz im Kanton pro Kalenderjahr höchstens vier Millionen Franken gewährt werden.
+
+<sup>1a</sup> Die Beiträge können höchstens 75 Prozent der Gesamtausgaben der Gesuchstellerin oder des Gesuchstellers zur Nachwuchsförderung ausmachen.
 
 <sup>2</sup> Beitragsberechtigt sind
 
@@ -944,7 +954,7 @@ beschliesst:
 <sup>1</sup> Verbandsbeiträge können ausgerichtet werden an
 
 - a kantonalbernische Verbände als Unterstützung für ihre Leistung zugunsten der Berner Sportvereine und deren Mitglieder,
-- b anteilsmässig an interkantonale Verbände, sofern mindestens 25 Prozent der Mitgliedsvereine Sitz Kanton haben.
+- b anteilsmässig an interkantonale Verbände, sofern mindestens 25 Prozent der Mitgliedsvereine Sitz im Kanton haben.
 
 <sup>2</sup> Das Generalsekretariat der Sicherheitsdirektion legt nach Eingang aller Gesuche per Stichtag die möglichen Beiträge pro Verband gestützt auf objektive Kriterien für eine zu bestimmende Dauer fest.
 
@@ -1168,6 +1178,14 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 2021 in Kraft.
+
+## T1 Übergangsbestimmungen der Änderung vom 25.05.2022
+
+#### Art. T1-1
+
+<sup>1</sup> Die zum Zeitpunkt des Inkrafttretens dieser Änderung hängigen erstinstanzlichen Gesuchsverfahren werden nach neuem Recht beurteilt.
+
+<sup>2</sup> Nach bisherigem Recht beschlossene Beitragszusicherungen bleiben gültig.
 
 Bern, 2. Dezember 2020
 
