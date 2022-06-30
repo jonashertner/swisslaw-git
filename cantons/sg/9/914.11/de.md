@@ -3,20 +3,19 @@ canton: SG
 number: "914.11"
 title: Verordnung zum Einführungsgesetz zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland
 language: de
-version: 2015-10-01
-valid_until: 2022-06-30
-version_adopted: 2015-08-11
+version: 2022-07-01
+version_adopted: 2022-05-24
 adopted: 2003-01-14
 in_force: 2003-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/914.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1941/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3358/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland
 
-vom 14.01.2003 (Stand 01.10.2015)
+vom 14.01.2003 (Stand 01.07.2022)
 
 Die Regierung des Kantons St.Gallen
 
@@ -33,7 +32,7 @@ als Verordnung:[^ingress-2]
 
 **Fremdenverkehrsorte a) für Ferienwohnungen**
 
-<sup>1</sup> Als Orte, die des Erwerbs von Ferienwohnungen[^1-1] durch Personen im Ausland bedürfen, um den Fremdenverkehr zu fördern, gelten folgende Grundbuchkreise und Teilgebiete davon:[^1-2] Alt St.Johann, Amden, Brunnadern, Bütschwil, Ebnat-Kappel, Eggersriet, Flums, Ganterschwil, Goldingen, Hemberg, Krinau, Krummenau, Lichtensteig, Lütisburg, Mels, Mogelsberg, Mosnang, Nesslau, Oberhelfenschwil, Pfäfers, Quarten, Sargans, Stein, St.Gallenkappel, St.Peterzell, Vilters-Wangs (Furt und Maienberg), Walenstadt, Wartau, Wattwil, Weesen (Kurzone), Wildhaus.
+<sup>1</sup> Als Orte, die des Erwerbs von Ferienwohnungen[^1-1] durch Personen im Ausland bedürfen, um den Fremdenverkehr zu fördern, gelten folgende Grundbuchkreise und Teilgebiete davon:[^1-2] Alt St.Johann, Amden, Brunnadern, Ebnat-Kappel, Eggersriet, Flums, Goldingen, Hemberg, Krinau, Krummenau, Lichtensteig, Lütisburg, Mels, Mogelsberg, Mosnang, Nesslau, Oberhelfenschwil, Pfäfers, Quarten, Sargans, Stein, St.Gallenkappel, St.Peterzell, Vilters-Wangs (Furt und Maienberg), Walenstadt, Wartau, Wattwil, Wildhaus.
 
 [^1-1]: Vgl. Art. [2](https://www.gesetzessammlung.sg.ch/data/914.1/de/art2.) Abs. 1 Bst. a des EG zum BG über den Erwerb von Grundstücken durch Personen im Ausland, sGS [914.1](https://www.gesetzessammlung.sg.ch/data/914.1/de).
 [^1-2]: Im ursprünglichen Erlasstext war die Auflistung nicht mit Aufzählungszeichen versehen. Sie wurde im September 2013 aus technischen Gründen in Fliesstext mit Kommata umformatiert.
